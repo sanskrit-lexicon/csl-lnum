@@ -1,0 +1,6 @@
+<L>3330<pc>111<k1>cent<k2>cent
+<div n="lb"/>{@CENT:@}¦ Ph. <div n="xe">{%Interest at two, three, four, five per c.%}
+<div n="lb"/>{%per annum%}</div> <div n="xs">{#dvikaM, trikaM, catuzkaM, paYcakaM SataM vArzikI vfdDiH#}</div> {%or%}
+<div n="lb"/>{#varDe varze dvitricatuHpaYcakaM SataM vfdDiH,#} M.; <div n="xe">{%our profits are%}
+<div n="lb"/>{%100 per c.%}</div> <div n="xs">{#dviguRA no lABAH,#}</div> (after M. n.).
+<LEND>

@@ -1,0 +1,5 @@
+<L>12141<pc>378<k1>infantry<k2>infantry
+<div n="lb"/>{@INFANTRY:@}¦ <div n="1">(1) {#pattiH#} {%or%} in pl. {#pattayaH#} <div n="xe">{%or%}</div> <div n="xs">{#pattisEnyam;#}</div></div>
+<div n="lb"/><div n="1">(2) {#padAtayaH#} (m. pl.) <div n="xe">{%or%}</div> <div n="xs">{#padAtibalam#}</div> <div n="xe">{%or%}</div> <div n="xs">{#pAdAtam#}</div>
+<div n="lb"/>(rare), etc.</div>
+<LEND>

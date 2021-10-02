@@ -1,0 +1,12 @@
+<L>18352<pc>563<k1>quantity<k2>quantity
+<div n="lb"/>{@QUANTITY:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#parimARam;#} </div><div n="1">(2)
+<div n="lb"/>{#pramARam.#} Ph.: <div n="xe">{%what q.:%}</div> <div n="xs">{#kiyat#}</div> (f. {#tI#}): v.
+<div n="lb"/>Much, how.; <div n="xe">{%a great q. of:%}</div> <div n="xs">{#praBUta#}</div> (f. {#tA#}):
+<div n="lb"/>v. Abundant; <div n="xe">{%a little q. of:%}</div> <div n="xs">{#alpa#}</div> (f. {#lpA#}):
+<div n="lb"/>v. Little; <div n="xe">{%that q. which:%}</div> <div n="xs">{#yAvat#}</div> (f. {#tI#}): v.
+<div n="lb"/>Much, as-; <div n="xe">{%in large q.ies:%}</div> <div n="xs">{#bahuSaH;#}</div> {%in small q.%}
+<div n="lb"/>{#alpaSaH.#} </div><div n="I">II In prosody: not expr., {%long q.:%}
+<div n="lb"/>{#dIrGaH;#} <div n="xe">{%short q.:%}</div> <div n="xs">{#hrasvaH.#}</div> </div><div n="I">III In logic: {#aDikAraH#}
+<div n="lb"/>(??). </div><div n="I">IV In Math.: <div n="xe">{%unknown q.:%}</div> <div n="xs">{#avyakta-#}
+<div n="lb"/>{#rASiH.#}</div></div>
+<LEND>

@@ -1,0 +1,5 @@
+<L>22836<pc>720<k1>treaty<k2>treaty
+<div n="lb"/>{@TREATY:@}¦ <div n="I">I Negotiation: {#sanDAnam#} <div n="xe">{%or%}</div> <div n="xs">{#sanDiH.#}</div> </div><div n="I">II
+<div n="lb"/>Agreement, condition: {#patram,#} {%t. of peace:%}
+<div n="lb"/>{#sanDipatram;#} <div n="xe">{%t. of marriage:%}</div> <div n="xs">{#vivAhapatram.#}</div></div>
+<LEND>

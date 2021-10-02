@@ -1,0 +1,5 @@
+<L>9015<pc>285<k1>flour<k2>flour
+<div n="lb"/>{@FLOUR:@}¦ <div n="I">I Of wheat: </div><div n="1">(1) {#goDUmacUrRam;#} </div><div n="1">(2)
+<div n="lb"/>{#goDUmapizwam,#} Raj. </div><div n="I">II Of other grains: by {#cUrRaM#}
+<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#pizwam,#}</div> <div n="xe">{%barley f.:%}</div> <div n="xs">{#yavacUrRam.#}</div> <div n="xe">{%Fried-grain-f.:%}</div> <div n="xs">{#SaktuH.#}</div></div>
+<LEND>

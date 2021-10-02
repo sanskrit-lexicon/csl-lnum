@@ -1,0 +1,6 @@
+<L>3534<pc>117<k1>chess<k2>chess
+<div n="lb"/>{@CHESS:@}¦ {#caturaNgam.#} {%C. -board:%} <div n="1">(1) {#SAriPalam;#} </div><div n="1">(2)
+<div n="lb"/>{#azwapAdam.#} <div n="xe">{%King of c.:%}</div> <div n="xs">{#rAjA;#}</div> <div n="xe">{%queen:%}</div> <div n="xs">{#rAjYI;#}</div>
+<div n="lb"/><div n="xe">{%bishop:%}</div> <div n="xs">{#gajaH;#}</div> <div n="xe">{%knight:%}</div> <div n="xs">{#aSvaH;#}</div> <div n="xe">{%castle:%}</div> <div n="xs">{#nOH;#}</div>
+<div n="lb"/><div n="xe">{%pawn:%}</div> <div n="xs">{#padAtiH;#}</div> <div n="xe">{%c. man:%}</div> <div n="xs">{#SAraH.#}</div></div>
+<LEND>
