@@ -1,0 +1,7 @@
+<L>2907<pc>109<k1>diplomacy<k2>diplomacy
+{@Diplomacy,@}¦ {%s.%} {#sAman#} {%n.,%} {#nIti#} {%f.,%} {#dOtya-#}
+<div n="lb"/>{#-karman#} {%n.%} {@2@} {#rAjadUtamaMqalaM-samUhaH#}. {@-Diploma-@}
+<div n="lb"/>{@-tical,@} {%a.%} {#dUtakAryavizaya#}. {@-Diplomatist,@} {%s.%}
+<div n="lb"/>{#sAmaprayogajYaH, rAjanItikuSalaH, dOtyakArya-#}
+<div n="lb"/>{#-nipuRaH, sAmakuSalaH#}.
+<LEND>
