@@ -1,8 +1,8 @@
 # This Python file uses the following encoding: utf-8
 """
 Usage:
-python txt_to_md.py dictId
-python txt_to_md.py mw
+python txt_to_lnum.py dictId
+python txt_to_lnum.py mw
 """
 from __future__ import print_function
 import re
@@ -32,7 +32,7 @@ if __name__ == "__main__":
             result += lin
         if lin.startswith('<LEND>'):
             end = True
-            outfile = os.path.join(outputfolder, lnum + '.md')
+            outfile = os.path.join(outputfolder, lnum + '.txt')
             fout = codecs.open(outfile, 'w', 'utf-8')
             fout.write(result)
     fin.close()
