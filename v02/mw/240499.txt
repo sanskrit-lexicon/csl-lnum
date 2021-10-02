@@ -1,0 +1,15 @@
+<L>240499<pc>1195,2<k1>sahasra<k2>saha/sra<h>b<e>1
+<s>saha/sra</s> <hom>b</hom> ¦ <lex>n.</lex> (rarely) <lex type="hw">m.</lex> (perhaps <ab>fr.</ab> 7, <s>sa + hasra</s> = <ab>Gk.</ab> <lang n="greek">χίλιοι</lang> for <lang n="greek">χεσλοι</lang>;
+<ab>cf.</ab> <ab>Pers.</ab> <etym>hazār</etym>) a thousand (with the counted object in the same case <ab>sg.</ab> or <ab>pl.</ab> <ab>e.g.</ab> <s>sahasreRa bAhunA</s>, ‘with a thousand arms’ <ls>Hariv.</ls>;
+<s>sahasraM BizajaH</s>, ‘a thousand drugs’ <ls>RV.</ls>;
+or in the <ab>gen.</ab> <ab>e.g.</ab> <s>dve sahasre suvarRasya</s>, ‘two <ab n="thousand">th°</ab> pieces of gold’ <ls>Rājat.</ls>;
+<s>catvAri sahasrARi varzARAm</s>, ‘four <ab n="thousand">th°</ab> years’ <ls>Mn.</ls>;
+sometimes in <ab>comp.</ab>, either <ab>ibc.</ab> <ab>e.g.</ab> <s>yuga-sahasram</s>, ‘a <ab n="thousand">th°</ab> ages’ <ls>Mn.</ls>, or <ab>ifc.</ab> <ab>e.g.</ab> <s>sahasrA<srs/>Svena</s>, ‘with a <ab n="thousand">th°</ab> horses’;
+<s>sahasram</s> may also be used as an <lex type="phw">ind.</lex> <ab>e.g.</ab> <s>sahasram fziBiH</s>, ‘with a <ab n="thousand">th°</ab> <s1 slp1="fzi">Ṛṣi</s1>s’ <ls>RV.</ls>;
+with other numerals it is used thus, <s>ekA<srs/>DikaM sahasram</s>, or <s>eka-sahasram</s>, ‘a <ab n="thousand">th°</ab> one’, 1001;
+<s>dvyaDikaM s°</s>, ‘a <ab n="thousand">th°</ab> two’, 1002;
+<s>ekAdaSA<srs/>Dikam s°sahasram</s> or <s>ekAdaSaM s°</s> or <s>ekAdaSa-s°</s>, ‘a <ab n="thousand">th°</ab> eleven’ or ‘a <ab n="thousand">th°</ab> having eleven’, 1011;
+<s>viMSaty-aDikaM s°</s> or <s>vimaM s°</s>, ‘a <ab n="thousand">th°</ab> twenty’, 1020;
+<s>dve sahasre</s> or <s>dvi-sahacram</s>, ‘two <ab n="thousand">th°</ab>’;
+<s>trIRi sahasrARi</s> or <s>tri-sahasram</s>, ‘three <ab n="thousand">th°</ab>’ &c.), <ls>RV.</ls> &c. &c.<info phwchild="240502.1"/><info lexcat="LEXID=card,STEM=sahasra"/>
+<LEND>

@@ -1,0 +1,37 @@
+<L>70283<pc>380,1<k1>ca<k2>ca<h>2<e>1
+<hom>2.</hom> <s>ca</s> ¦ <lex>ind.</lex> and, both, also, moreover, as well as (= <lang n="greek">τε</lang>, <ab>Lat.</ab> <etym>que</etym>, placed like these particles as an enclitic after the word which it connects with what precedes;
+when used with a personal pronoun this must appear in its fuller accented form (<ab>e.g.</ab> <s>ta/va ca ma/ma ca</s> [not <s>te ca me ca</s>], ‘both of thee and me’), when used after verbs the first of them is accented, <ls>Pāṇ. 8-1, 58 f.</ls>;
+it connects whole sentences as well as parts of sentences;
+in <ls>RV.</ls> the double <s>ca</s> occurs more frequently than the single (<ab>e.g.</ab> <s>aha/M ca tva/M ca</s>, ‘I and thou’, <ls>viii, 62, 11</ls>);
+the double <s>ca</s> may also be used somewhat redundantly in class. <ns>Sanskṛt</ns> (<ab>e.g.</ab> <s>kva hariRakAnAM jIvitaM cA<srs/>tilolaM kva ca vajra-sArAH SarAs te</s>, ‘where is the frail existence, of fawns and where are thy adamantine arrows?’ <ls>Śak. i, 10</ls>);
+in later literature, however, the first <s>ca</s> is more usually omitted (<ab>e.g.</ab> <s>ahaM tvaM ca</s>), and when more than two things are enumerated only one <s>ca</s> is often found (<ab>e.g.</ab> <s>tejasA yaSasA lakzmyA sTityA ca parayA</s>, ‘in glory, in fame, in beauty, and in high position’ <ls>Nal. xii, 6</ls>);
+elsewhere, when more than two things are enumerated, <s>ca</s> is placed after some and omitted after others (<ab>e.g.</ab> <s>fRa-dAtA ca vEdyaS ca Srotriyo nadI</s>, ‘the payer of a debt and a physician [and] a <ns>Brāhman</ns> [and] a river’ <ls>Hit. i, 4, 55</ls>);
+in <ab>Ved.</ab> and even in class. <ns>Sanskṛt</ns> [<ls>Mn. iii, 20;
+ix, 322</ls>;
+<ls>Hit.</ls>], when the double <s>ca</s> would generally be used, the second may occasionally be omitted (<ab>e.g.</ab> <s>indraS ca soma</s>, ‘both <s1 slp1="indra">Indra</s1> [and thou] <s1 slp1="soma">Soma</s1>’ <ls>RV. vii, 104, 25</ls>;
+<s>durBedyaS cA<srs/>SusaMDeyaH</s>, ‘both difficult to be divided [and] quickly united’ <ls>Hit. i</ls>);
+with lexicographers <s>ca</s> may imply a reference to certain other words which are not expressed (<ab>e.g.</ab> <s>kamaRqalO ca karakaH</s>, ‘the word <s>karaka</s> has the meaning ‘pitcher’ and other meanings’);
+sometimes <s>ca</s> is = <s>eva</s>, even, indeed, certainly, just (<ab>e.g.</ab> <s>su-cintitaM cO<srs/>zaDaM na nAma-mAtreRa karoty arogam</s>, ‘even a well-devised remedy does not cure a disease by its mere name’ <ls>Hit.</ls>;
+<s>yAvanta eva te tAvAMSca saH</s>, ‘as great as they [were] just so great was he’ <ls>Ragh. xii, 45</ls>);
+occasionally <s>ca</s> is disjunctive, ‘but’, ‘on the contrary’, ‘on the other hand’, ‘yet’, ‘nevertheless’ (<s>varam AdyO na cA<srs/>ntimaH</s>, ‘better the two first but not the last’ <ls>Hit.</ls> <pb n="380,2"/>;
+<s>SAntam idam ASrama-padaM sPurati ca bAhuH</s>, ‘this hermitage is tranquil yet my arm throbs’ <ls>Śak. i, 15</ls>);
+<s>ca-ca</s>, though-yet, <ls>Vikr. ii, 9</ls>;
+<s>ca-na ca</s>, though - yet not, <ls>Pat.</ls>;
+<s>ca</s> - <s>na tu</s> (<ab>v.l.</ab> <s>nanu</s>) <ab>id.</ab>, <ls>Mālav. iv, 8</ls>;
+<s>na ca</s> - <s>ca</s>, though not - yet, <ls>Pat.</ls>;
+<s>ca</s> may be used for <s>vA</s>, ‘either’, ‘or’ (<ab>e.g.</ab> <s>iha cA<srs/>mutra vA</s>, ‘either here or hereafter’ <ls>Mn. xii, 89</ls>;
+<s>strI vA pumAn vA yac cA<srs/>nyat sattvam</s>, ‘either a woman or a man or any other being’ <ls>R.</ls>), and when a <ab>neg.</ab> particle is joined with <s>ca</s> the two may then be translated by ‘neither’, ‘nor’;
+occasionally one <s>ca</s> or one <s>na</s> is omitted (<ab>e.g.</ab> <s>na ca pariBoktuM nE<srs/>va Saknomi hAtum</s>, ‘I am able neither to enjoy nor to abandon’ <ls>Śak. v, 18</ls>;
+<s>na pUrvA<srs/>hRe na ca parA<srs/>hRe</s>, ‘neither in the forenoon nor in the afternoon’);
+<s>ca-ca</s> may express immediate connection between two acts or their simultaneous occurrence (<ab>e.g.</ab> <s>mama ca muktaM tamasA mano manasijena Danuzi SaraS ca niveSitaH</s>, ‘no sooner is my mind freed from darkness than a shaft is fixed on his bow by the heart-born god’, <ls>vi, 8</ls>);
+<s>ca</s> is sometimes = <s>ce<srs/>d</s>, ‘if’ (<ab>cf.</ab> <ls>Pāṇ. 8-1, 30</ls>;
+the verb is accented), <ls>RV.</ls>;
+<ls>AV.</ls>;
+<ls>MBh.</ls>;
+<ls>Vikr. ii, 20</ls>;
+<ls>Bhartṛ. ii, 45</ls>;
+<s>ca</s> may be used as an expletive (<ab>e.g.</ab> <s>anyES ca kratuBiS ca</s>, ‘and with other sacrifices’);
+<s>ca</s> is often joined to an <ab>adv.</ab> like <s>eva</s>, <s>api</s>, <s>taTA</s>, <s>taTE<srs/>va</s>, &c., either with or without a <ab>neg.</ab> particle (<ab>e.g.</ab> <s>vEriRaM no<srs/>paseveta sahA<srs/>yaM cEva vEriRaH</s>, ‘one ought not to serve either an enemy or the ally of an enemy’ <ls>Mn. iv, 133</ls>);
+(See <s>eva</s>, <s>api</s>, &c.) For the meaning of <s>ca</s> after an interrogative See <hom>2.</hom> <s>ka/</s>, 2. <s>kaTA/</s>, <s>ki/m</s>, <s>kva/</s>);
+<info lex="ind"/>
+<LEND>
