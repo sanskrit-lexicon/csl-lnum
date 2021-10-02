@@ -1,0 +1,8 @@
+<L>21871<pc>578-a<k1>payment<k2>payment
+<div n="lb"/>PAYMENT¦, {%s.%} {#SoDanaM, pariSoDanaM, saMSoDanaM, SudDiH#} {%f.,%} {#pariSudDiH#} {%f.,%} {#dAnaM,#}
+<div n="lb"/>{#sADana, sidDiH#} {%f.,%} {#apakaraRaM, apAkaraRaM, apanayanaM, nistAraH, nistaraRaM,#}
+<div n="lb"/>{#uttaraRaM;#} ‘of a debt,’ {#fRaSoDanaM, fRasidDiH#} {%f.,%} {#fRApAkaraRaM,#}
+<div n="lb"/>{#fRApanayanaM, fRamuktiH#} {%f.,%} {#fRApanodanaM, vigaRanaM, nirAdeSaH, AnfRyaM;#}
+<div n="lb"/>‘of wages, &c.,’ {#vetanadAnaM, varttanadAnaM, BftidAnaM;#} ‘non-payment,’
+<div n="lb"/>{#anapakriyA, anapakaraRa, anapAkaraRaM, anapAkarmma#} {%n.%} {#(n), anapakarmma#} {%n.%}
+<LEND>

@@ -1,0 +1,4 @@
+<L>14672<pc>353-b<k1>humidity<k2>humidity
+<div n="lb"/>HUMIDITY¦, {%s.%} {#ArdratA, sArdratA, kledaH, saMkledaH, klinnatA, sarasatA, temaH,#}
+<div n="lb"/>{#stemaH, temanaM, samundanaM, samunnatA#}.
+<LEND>
