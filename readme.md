@@ -24,6 +24,7 @@
 # Scripts
 
 1. `txt_to_lnum.py` - This script generates lnum wise entries from given dictcode. e.g. `python3 txt_to_lnum.py mw` will generate lnum wise entries in the csl-lnum/v02/mw repository.
+2. `redo_all.sh` - This script will regenerate all dictionaries based on latest data at csl-orig repository. `bash redo_all.sh`.
 
 # Danger
 
