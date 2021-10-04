@@ -25,3 +25,8 @@
 
 1. `txt_to_lnum.py` - This script generates lnum wise entries from given dictcode. e.g. `python3 txt_to_lnum.py mw` will generate lnum wise entries in the csl-lnum/v02/mw repository.
 
+# Danger
+
+1. Do not do `git status` on this repository in CLI. It will take a lot of time to make index of 12-15 lacs files in this repository and git will kill your computer.
+2. You should do `git add changed file` directly and proceed.
+
