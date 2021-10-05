@@ -25,6 +25,9 @@
 
 1. `txt_to_lnum.py` - This script generates lnum wise entries from given dictcode. e.g. `python3 txt_to_lnum.py mw` will generate lnum wise entries in the csl-lnum/v02/mw repository.
 2. `redo_all.sh` - This script will regenerate all dictionaries based on latest data at csl-orig repository. `bash redo_all.sh`.
+3. `lnum_to_cslorig.py` - This script takes two arguments `dictId` and `lnum`. This script is used to carry the changes made in csl-lnum repository by a user to csl-orig repository. Usage - `python3 lnum_to_cslorig.py skd 15140` will take the file csl-lnum/v02/skd/15140.txt and integrate that data to csl-orig/v02/skd/skd.txt. 
+Reallife example - https://github.com/sanskrit-lexicon/csl-lnum/pull/3 created a pull request to amend csl-lnum/v02/skd/15140.txt. The pull request was merged. The repository csl-lnum was pulled to get this information locally. Thereafter `python3 lnum_to_cslorig.py skd 15140` was run. The script showed differences between both data. Once the suggested data was found OK, it was merged in csl-orig/v02/skd/skd.txt.
+
 
 # Danger
 
