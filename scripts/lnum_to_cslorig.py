@@ -45,15 +45,20 @@ if __name__ == "__main__":
             post += lin
     originallines = entry.splitlines(keepends=True)
     changedlines = changedentry.splitlines(keepends=True)
-    d = difflib.unified_diff(originallines, changedlines)
-    sys.stdout.writelines(d)
-    print()
-    print()
-    userinput = input('Above changes would be made. Do you want to continue? y/n : ')
-    if userinput in ['y', 'Y']:
-        tfout.write(pre + changedentry + post)
-        tfout.close()
-        shutil.copy(tempfile, cslfile)
-        os.remove(tempfile)
-        print('Changes incorporated in csl-orig repository.')
-
+    if originallines == changedlines:
+        print("No diff. Nothing to do. Exiting.")
+        exit(0)
+    else:
+        d = difflib.unified_diff(originallines, changedlines)
+        sys.stdout.writelines(d)
+        print()
+        print()
+        userinput = input('Above changes would be made. Do you want to continue? y/n : ')
+        if userinput in ['y', 'Y']:
+            tempfile = os.path.join('temp.txt')
+            tfout = codecs.open(tempfile, 'w', 'utf-8')
+            tfout.write(pre + changedentry + post)
+            tfout.close()
+            shutil.copy(tempfile, cslfile)
+            os.remove(tempfile)
+            print('Changes incorporated in csl-orig repository.')
