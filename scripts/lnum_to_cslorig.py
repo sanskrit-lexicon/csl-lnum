@@ -11,20 +11,11 @@ import sys
 import os
 import difflib
 import shutil
-import urllib.request
 
 
-def update_local_from_github(dictId, lnum):
-    """Bypass git pull and get the desired file directly from github."""
-    fileToUpdate = os.path.join('..', 'v02', dictId, lnum + '.txt')
-    url = 'https://raw.githubusercontent.com/sanskrit-lexicon/csl-lnum/main/v02/' + dictId + '/' + lnum + '.txt'
-    urllib.request.urlretrieve(url, fileToUpdate)
-
-	
 if __name__ == "__main__":
     dictId = sys.argv[1]
     lnum = sys.argv[2]
-    update_local_from_github(dictId, lnum)
     inputfile = os.path.join('..', 'v02', dictId, lnum + '.txt')
     fin = codecs.open(inputfile, 'r', 'utf-8')
     changedentry = fin.read()
