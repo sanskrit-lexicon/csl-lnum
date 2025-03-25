@@ -1,33 +1,33 @@
 <L>95221<pc>6-1354<k1>vetana<k2>ve/tana
-{#ve/tana#}¦ 
-<ls>UṆĀDIS.3,150.</ls> n. <ls>SIDDH. K. 249,a,8.</ls> {%Lohn%} 
-<ls>AK. 2, 10, 38.</ls> 
-<ls>H. 362.</ls> 
-<ls>HALĀY. 4, 43.</ls> {#vetanAdiByo jIvati#} 
-<ls>P. 4, 4, 12.</ls> {#paRo deyo 'vakfzwasya zaqutkfzwasya vetanam#} 
-<ls>M. 7, 126. 8, 215. fgg.</ls> 
-<ls>YĀJÑ. 2, 196.</ls> {#yadi Sizyo 'si me vIra vetanaM dIyatAM mama#} 
-<ls>MBH. 1, 5264. 6210. 2, 182. fg. 186. 3, 2639. 4, 287. 6, 3321</ls> <ls>?= 7, 4445. R. GORR. 2, 109, 41. RĀJA-TAR. 6, 48</ls> ({#vetAna#} 
-<ls>TR.</ls> {#vitAna#} ed. Calc.). 
-<ls>54. 8, 75.</ls> <ls>BHĀG. P. 5, 9, 9.</ls> {#mAsaM vetanena krItaH karmakaraH#} 
-<ls>P. 5, 1, 80, Schol.</ls> {#°dAna#} 
-<ls>1, 3, 36, Schol.</ls> {#vetanasyAnapakriyA#} 
-<ls>M. 8, 214.</ls> {#vetanasyAdAnam#} 
-<ls>5.</ls> {#vetanAdAna#} 
-<ls>218.</ls> <ls>Verz. d. Oxf. H. 263,a,24.</ls> {#ahamarTI tvayA SIGraM kaTayAtmavetanam#} 
-<ls>MĀRK. P. 8, 84.</ls> {#labDaM gItasya vetanam#} 
-<ls>Spr. 3231.</ls> {#karma°#} 
-<ls>BHĀG. P. 5, 9, 12.</ls> {#rakzaRa°#} 
-<ls>MĀRK. P. 18, 7.</ls> {#Atta°#} 
-<ls>50, 75.</ls> {#paryApta°#} <lex>adj.</lex> 
-<ls>KĀM. NĪTIS. 16, 7.</ls> {#datta°#} 
-<ls>4, 65.</ls> {#kfta°#} {%Lohn empfangend%} 
-<ls>13, 75.</ls> <ls>YĀJÑ. 2, 164.</ls> {#dInAralakzeRa pratyahaM kftavetanaH#} 
-<ls>RĀJA-TAR. 4, 494.</ls> {#gfhItavetanA veSyA#} 
-<ls>YĀJÑ. 2, 292.</ls> {#uBaya°#} {%von beiden Seiten Lohn empfangend, Verräther, Spion%} 
-<ls>KĀM. NĪTIS. 12, 12. 17, 22.</ls> <ls>PAÑCAT. 22, 10. fg.</ls> <ls>HIT. 88, 17.</ls> {#vetana = jIvikA#} {%Lebensunterhalt%} 
-<ls>H. 865.</ls> = {#rUpya#} {%Silber%} 
-<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> {%Preis%}: {#svasaMcitAni svarRAni vikrIRAno 'lpavetanEH#} 
-<ls>RĀJA-TAR. 8, 61.</ls> 
+{#ve/tana#}¦
+<ls>UṆĀDIS. 3,150.</ls> n. <ls>SIDDH. K. 249,a,8.</ls> {%Lohn%}
+<ls>AK. 2,10,38.</ls>
+<ls>H. 362.</ls>
+<ls>HALĀY. 4,43.</ls> {#vetanAdiByo jIvati#}
+<ls>P. 4,4,12.</ls> {#paRo deyo 'vakfzwasya zaqutkfzwasya vetanam#}
+<ls>M. 7,126.</ls> <ls n="M.">8,215. fgg.</ls>
+<ls>YĀJÑ. 2,196.</ls> {#yadi Sizyo 'si me vIra vetanaM dIyatAM mama#}
+<ls>MBH. 1,5264.</ls> <ls n="MBH. 1,">6210.</ls> <ls n="MBH.">2,182. fg.</ls> <ls n="MBH. 2,">186.</ls> <ls n="MBH.">3,2639.</ls> <ls n="MBH.">4,287.</ls> <ls n="MBH.">6,3321</ls> = <ls n="MBH.">7,4445.</ls> <ls>R. GORR. 2,109,41.</ls> <ls>RĀJA-TAR. 6,48</ls>
+({#vetAna#} <ls>TR.</ls> {#vitAna#} <ls>ed. Calc.</ls>).
+<ls n="RĀJA-TAR. 6,">54. 8,75.</ls> <ls>BHĀG. P. 5,9,9.</ls> {#mAsaM vetanena krItaH karmakaraH#}
+<ls>P. 5,1,80</ls>, Schol. {#°dAna#}
+<ls n="P.">1,3,36</ls>, Schol. {#vetanasyAnapakriyA#}
+<ls>M. 8,214.</ls> {#vetanasyAdAnam#}
+<ls n="M. 8,">5.</ls> {#vetanAdAna#}
+<ls n="M. 8,">218.</ls> <ls>Verz. d. Oxf. H. 263,a,24.</ls> {#ahamarTI tvayA SIGraM kaTayAtmavetanam#}
+<ls>MĀRK. P. 8,84.</ls> {#labDaM gItasya vetanam#}
+<ls>Spr. 3231.</ls> {#karma°#}
+<ls>BHĀG. P. 5,9,12.</ls> {#rakzaRa°#}
+<ls>MĀRK. P. 18,7.</ls> {#Atta°#}
+<ls n="MĀRK. P.">50,75.</ls> {#paryApta°#} <lex>adj.</lex>
+<ls>KĀM. NĪTIS. 16,7.</ls> {#datta°#}
+<ls n="KĀM. NĪTIS.">4,65.</ls> {#kfta°#} {%Lohn empfangend%}
+<ls n="KĀM. NĪTIS.">13,75.</ls> <ls>YĀJÑ. 2,164.</ls> {#dInAralakzeRa pratyahaM kftavetanaH#}
+<ls>RĀJA-TAR. 4,494.</ls> {#gfhItavetanA veSyA#}
+<ls>YĀJÑ. 2,292.</ls> {#uBaya°#} {%von beiden Seiten Lohn empfangend, Verräther, Spion%}
+<ls>KĀM. NĪTIS. 12,12. 17,22.</ls> <ls>PAÑCAT. 22,10. fg.</ls> <ls>HIT. 88,17.</ls> {#vetana = jIvikA#} {%Lebensunterhalt%}
+<ls>H. 865.</ls> = {#rUpya#} {%Silber%}
+<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> {%Preis%}: {#svasaMcitAni svarRAni vikrIRAno 'lpavetanEH#}
+<ls>RĀJA-TAR. 8,61.</ls>
 <div n="v">— Vgl. {#nirvetana#} und {#vEtanika#} .
 <LEND>

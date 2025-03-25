@@ -1,18 +1,17 @@
 <L>107795<pc>7-0878<k1>sahAyavant<k2>sahAyavant
-{#sahAyavant#}¦ (von {#sahAya#}) <lex>adj.</lex> {%einen Gefährten%} u.s.w. {%habend%} 
-<ls>MBH. 3, 16606. 4, 1410.</ls> 
-<ls>R. 2, 1, 17.</ls> 
-<ls>Spr. (II) 6832.</ls> 
-<ls>MĀRK. P. 51, 83.</ls> {#lakzmaRena#} {%an%} L. {%einen Gefährten habend%} 
-<ls>R. GORR. 1, 79, 45. 4, 14, 15.</ls> {#tena rAjA °vAn#} {%an dem hat der Fürst einen wahren Gefährten%} 
-<ls>Spr. (II) 5006. 5663. 5839.</ls> {#a°#} {%keinen Gefährten habend%} 
-<ls>M. 6, 42.</ls> {#su°#} {%einen guten Gef. habend%} 
-<ls>SUŚR. 1, 30, 3.</ls> 
-<ls>KĀM. NĪTIS. 17, 41.</ls> <ls>KATHĀS. 103, 227.</ls> {#dfpta°#} {%übermüthige Gefährten habend%} 
-<ls>R. 5, 81, 2.</ls> {#madayantI°#} {%in Begleitung von, nebst%} 
-<ls>MBH. 14, 1695.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 78, 20. 3, 47, 18.</ls> {#vyavasAya°#} (so ist zu schreiben) so v. a. {%ausgerüstet —, versehen mit%} 
-<ls>70, 16.</ls> {#kAladeSa°#} so v. a. {%von Zeit und Ort begünstigt%} 
-<ls>KĀM. NĪTIS. 11, 74.</ls>
+{#sahAyavant#}¦ (von {#sahAya#}) <lex>adj.</lex> {%einen Gefährten%} u.s.w. {%habend%}
+<ls>MBH. 3,16606.</ls> <ls n="MBH.">4,1410.</ls>
+<ls>R. 2,1,17.</ls>
+<ls>Spr. (II) 6832.</ls>
+<ls>MĀRK. P. 51,83.</ls> {#lakzmaRena#} {%an%} L. {%einen Gefährten habend%}
+<ls>R. GORR. 1,79,45.</ls> <ls n="R. GORR.">4,14,15.</ls> {#tena rAjA °vAn#} {%an dem hat der Fürst einen wahren Gefährten%}
+<ls>Spr. (II) 5006.</ls> <ls n="Spr. (II)">5663.</ls> <ls n="Spr. (II)">5839.</ls> {#a°#} {%keinen Gefährten habend%}
+<ls>M. 6,42.</ls> {#su°#} {%einen guten Gef. habend%}
+<ls>SUŚR. 1,30,3.</ls>
+<ls>KĀM. NĪTIS. 17,41.</ls> <ls>KATHĀS. 103,227.</ls> {#dfpta°#} {%übermüthige Gefährten habend%}
+<ls>R. 5,81,2.</ls> {#madayantI°#} {%in Begleitung von, nebst%}
+<ls>MBH. 14,1695.</ls>
+<ls>R. GORR. 2,78,20.</ls> <ls n="R. GORR.">3,47,18.</ls> {#vyavasAya°#} (so ist zu schreiben) so v. a. {%ausgerüstet —, versehen mit%}
+<ls n="R. GORR. 2,">70,16.</ls> {#kAladeSa°#} so v. a. {%von Zeit und Ort begünstigt%}
+<ls>KĀM. NĪTIS. 11,74.</ls>
 <LEND>

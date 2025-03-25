@@ -1,9 +1,9 @@
 <L>8995<pc>401<k1>rogue<k2>rogue
 {@Rogue,@}¦ {%s.%} {#DUrtaH, kitavaH, jAlmaH, SaWaH, KalaH,#}
-<div n="lb"/>{#vaMcakaH, pratArakaH, kApawikaH, kUwakaH, kUwakAraH,#}
-<div n="lb"/>{#durjanaH, durAtman#} {%m.,%} {#kuhakaH#} {@-ery,@}
-<div n="lb"/>{@-ishness,@} {%s.%} {#kEtavaM, SAWyaM, dOrjanyaM, vaM-#}
-<div n="lb"/>{#-canaM,#} &c. {@-ish,@} {%a.%} {#DUrta, SaWa, kitava;#} {%See%}
-<div n="lb"/>({%s.%}) {@-ishly,@} {%adv.%} {#DUrtatayA, SAWyAt, sa-#}
-<div n="lb"/>{#-kEtavaM#}.
+{#vaMcakaH, pratArakaH, kApawikaH, kUwakaH, kUwakAraH,#}
+{#durjanaH, durAtman#} {%m.,%} {#kuhakaH#} {@-ery,@}
+{@-ishness,@} {%s.%} {#kEtavaM, SAWyaM, dOrjanyaM, vaM-#}
+{#-canaM,#} &c. {@-ish,@} {%a.%} {#DUrta, SaWa, kitava;#} {%See%}
+({%s.%}) {@-ishly,@} {%adv.%} {#DUrtatayA, SAWyAt, sa-#}
+{#-kEtavaM#}.
 <LEND>

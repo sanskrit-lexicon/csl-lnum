@@ -1,46 +1,45 @@
 <L>4163<pc>0586<k1>dah<k2>dah
-{@dah@}¦ [dazu lit. deg-ti, althochd. tāht, <ab>goth.</ab> dag-s, <ab>vgl.</ab> áhan], {%verbrennen%} [<ab>A.</ab>], {%durch Feuer verzehren%} [<ab>A.</ab>], oft bildlich, was aus den Objecten ersichtlich ist.
-<div n="P">Mit {@ánu@} 1) {%aufbrennen, ganz verbrennen%} [<ab>A.</ab>]; 2) {%aufbrennen, entbrennen,%} <lbinfo n="10"/> intransitiv.
-<div n="P1">{@ápa,@} {%hinwegbrennen, durch Glut vertreiben%} [<ab>A.</ab>].
-<div n="P1">{@abhí,@} {%anbrennen%} [<ab>A.</ab>].
-<div n="P1">{@áva,@} {%herabbrennen, durch Glut herabtreiben%} <lbinfo n="9"/> [<ab>A.</ab>] von [Ab.].
-<div n="P1">{@ní,@} {%niederbrennen%} [<ab>A.</ab>].
-<div n="P1">{@nís,@} {%ganz verbrennen, vernichten%} [<ab>A.</ab>].
-<div n="P1">{@prá,@} {%verbrennen, vernichten%} <lbinfo n="9"/> [<ab>A.</ab>].
-<div n="P1">{@práti,@} {%entgegenbrennen, mit Glut entgegengehen%} <lbinfo n="7"/> [<ab>A.</ab>].
-<div n="P1">{@ví,@} durch Brennen {%beschädigen%} <lbinfo n="11"/> [<ab>A.</ab>].
-<div n="P1">{@sám,@} {%zusammenbrennen, <lbinfo n="4"/> verbrennen, vernichten%} <lbinfo n="9"/> [<ab>A.</ab>].
+{@√dah@}¦ [dazu <lang>lit.</lang> deg-ti, <lang>althochd.</lang> tāht, <lang>goth.</lang> dag-s, <ab>vgl.</ab> áhan], {%verbrennen%} [<ab>A.</ab>], {%durch Feuer verzehren%} [<ab>A.</ab>], oft bildlich, was aus den Objecten ersichtlich ist.
+<div n="Pf">Mit {@ánu@} 1〉 {%aufbrennen, ganz verbrennen%} [<ab>A.</ab>]; 2〉 {%aufbrennen, entbrennen,%} intransitiv.
+<div n="Pf">{@ápa,@} {%hinwegbrennen, durch Glut vertreiben%} [<ab>A.</ab>].
+<div n="Pf">{@abhí,@} {%anbrennen%} [<ab>A.</ab>].
+<div n="Pf">{@áva,@} {%herabbrennen, durch Glut herabtreiben%} [<ab>A.</ab>] von [<ab>Ab.</ab>].
+<div n="Pf">{@ní,@} {%niederbrennen%} [<ab>A.</ab>].
+<div n="Pf">{@nís,@} {%ganz verbrennen, vernichten%} [<ab>A.</ab>].
+<div n="Pf">{@prá,@} {%verbrennen, vernichten%} [<ab>A.</ab>].
+<div n="Pf">{@práti,@} {%entgegenbrennen, mit Glut entgegengehen%} [<ab>A.</ab>].
+<div n="Pf">{@ví,@} durch Brennen {%beschädigen%} [<ab>A.</ab>].
+<div n="Pf">{@sám,@} {%zusammenbrennen, verbrennen, vernichten%} [<ab>A.</ab>].
 <div n="H">Stamm {@dáha@} (betont nur {300,15}):
-<div n="P1">-āmisám: drúhas {133,1}.
-<div n="P1">-anti {@ánu@} 1) tád (kṛ́pīṭam) <lbinfo n="6"/> {854,8}. — {@nís:@} hṛ́dayam {860,9} (akṣā́sas). <lbinfo n="5"/>
-<div n="P1">-āti [<ab>C.</ab>] {@ní:@} védas {99,1}.
-<div n="P1">-as [<ab>C.</ab>] {@ví:@} mā́ enam {842,1} (agne).
-<div n="P1">-a aśásas {300,15}; yás asmadhrúk (tám) {669,7}; rákṣas {944,7}. — {@ánu@} 1) sahámūrān {913,19}. — {@ápa:@} árātīs {517,7}. — {@ní:@} māyínas, rakṣásas {643,14}. — {@nís@} (erg. amítrān) {929,12} (hṛtsú śókais). — {@práti:@} ríṣatas {12,5}; rī́ṣatas {531,13}; rakṣásas {79,6}; {913,23}; mithunā́ yātudhā́nā {913,24}. — {@sám:@} víśvam <lbinfo n="4"/> atríṇam {36,14. 20}.
-<div n="P1">-atāt [2. <ab>s.</ab> <ab>Iv.</ab>] {@práti:@} árātīs {252,1}.
-<div n="P1">-antu {@práti:@} agháśaṃsam <lbinfo n="3"/> {913,20}.
+<div n="TS">-āmisám: drúhas {133,1}.
+<div n="TS">-anti {@ánu@} 1〉 tád (kṛ́pīṭam) {854,8}. — {@nís:@} hṛ́dayam {860,9} (akṣā́sas).
+<div n="TS">-āti [<ab>C.</ab>] {@ní:@} védas {99,1}.
+<div n="TS">-as [<ab>C.</ab>] {@ví:@} mā́ enam {842,1} (agne).
+<div n="TS">-a aśásas {300,15}; yás asmadhrúk (tám) {669,7}; rákṣas {944,7}. — {@ánu@} 1〉 sahámūrān {913,19}. — {@ápa:@} árātīs {517,7}. — {@ní:@} māyínas, rakṣásas {643,14}. — {@nís@} (<ab>erg.</ab> amítrān) {929,12} (hṛtsú śókais). — {@práti:@} ríṣatas {12,5}; rī́ṣatas {531,13}; rakṣásas {79,6}; {913,23}; mithunā́ yātudhā́nā {913,24}. — {@sám:@} víśvam atríṇam {36,14}. _{36,20}.
+<div n="TS">-atāt [<per>2.</per> <ab>s.</ab> <ab>Iv.</ab>] {@práti:@} árātīs {252,1}.
+<div n="TS">-antu {@práti:@} agháśaṃsam {913,20}.
 <div n="H"><ab>Imperf.</ab> {@ádaha:@}
-<div n="P1">-as járūtham {517,7}. — {@sam:@} yám {842,13}.
-<div n="P1">-at dásyūn {324,3}.
+<div n="TS">-as járūtham {517,7}. — {@sam:@} yám {842,13}.
+<div n="TS">-at dásyūn {324,3}.
 <div n="H">{@adaha:@}
-<div n="P1">-as sámanam {895,11}. — {@áva:@} divás ā́ dásyum {33,7}.
-<div n="P1">-at {@nís:@} járūtham {906,3}.
-<div n="H">3. <ab>s.</ab> <ab>Aor.</ab> {@adhāk:@}
-<div n="P1">-k ā́yudham {206,4}.
+<div n="TS">-as sámanam {895,11}. — {@áva:@} divás ā́ dásyum {33,7}.
+<div n="TS">-at {@nís:@} járūtham {906,3}.
+<div n="H"><per>3.</per> <ab>s.</ab> <ab>Aor.</ab> {@adhāk:@}
+<div n="TS">-k ā́yudham {206,4}.
 <div n="H"><ab>Conj.</ab> <ab>Aor.</ab> {@dhāk, dhak:@}
-<div n="P1">-āk mā́ mā́m {158,4} (édhas).
-<div n="P1">-ákṣi prá: rakṣásas {76,3}.
-<div n="P1">-akṣi tám (yás nas árātim <lbinfo n="3"/> cakré) {300,4} (nīcá). — {@ánu@} 2) agne {192,10} (Saṃhita: dakṣi). — {@ní:@} rákṣas {459,10}. —
+<div n="TS">-āk mā́ mā́m {158,4} (édhas).
+<div n="TS">-ákṣi prá: rakṣásas {76,3}.
+<div n="TS">-akṣi tám (yás nas árātim cakré) {300,4} (nīcá). — {@ánu@} 2〉 agne {192,10} (Saṃhita: dakṣi). — {@ní:@} rákṣas {459,10}. —
 <div n="H"><ab>Part.</ab> {@dáhat:@}
-<div n="P1">-an {@tṛ́ṇā@} {263,6}; rákṣāṃsi {663,26}.
-<div n="P1">-antas {@sam:@} avratā́n {785,5}.
-<div n="H"><ab>Part.</ab> Fut. {@dhakṣyát:@}
-<div n="P1">-án {@vi:@} tvā (den Todten) {842,7}.
-[Page587]
+<div n="TS">-an {@tṛ́ṇā@} {263,6}; rákṣāṃsi {663,26}.
+<div n="TS">-antas {@sam:@} avratā́n {785,5}.
+<div n="H"><ab>Part.</ab> <ab>Fut.</ab> {@dhakṣyát:@}
+<div n="TS">-án {@vi:@} tvā (den Todten) {842,7}. [Page587]
 <div n="H"><ab>Part.</ab> <ab>Aor.</ab> {@dhákṣat:@}
-<div n="P1">-at [<ab>N.</ab> <ab>s.</ab> <ab>m.</ab>] dā́ru {444,4}.
-<div n="P1">-atas [<ab>G.</ab>] śárdhāṃsi ajárāṇi {917,7} (agnés).
-<div n="H">{@dákṣat@} [<ab>dass.</ab>, Pada: {@dhákṣat@}]:
-<div n="P1">-at [<ab>dass.</ab>] 2) … ná víśvam tātṛṣāṇám oṣati {130,8}. — {@abhí:@} urvī́m {195,7}.
+<div n="TS">-at [<ab>N.</ab> <ab>s.</ab> <ab>m.</ab>] dā́ru {444,4}.
+<div n="TS">-atas [<ab>G.</ab>] śárdhāṃsi ajárāṇi {917,7} (agnés).
+<div n="H">{@dákṣat@} [<ab>dass.</ab>, <ls>Pada</ls>: {@dhákṣat@}]:
+<div n="TS">-at [<ab>dass.</ab>] 2〉 〰 ná víśvam tātṛṣāṇám oṣati {130,8}. — {@abhí:@} urvī́m {195,7}.
 <div n="H"><ab>Part.</ab> III. {@dágdhṛ:@}
-<div n="P1">-ā‿ási 1) vánā {363,4}.
+<div n="TS">-ā‿ási 1〉 vánā {363,4}.
 <LEND>

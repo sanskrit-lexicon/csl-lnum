@@ -1,11 +1,11 @@
 <L>15527<pc>475<k1>nose<k2>nose
-<div n="lb"/>{@NOSE@}¦ (subs.): <div n="1">(1) {#nAsA#} <div n="xe">{%or%}</div> <div n="xs">{#nAsikA,#}</div> <div n="xe">{%through the%}
-<div n="lb"/>{%n.:%}</div> <div n="xs">{#nAsikayA,#}</div> N.; <div n="xe">{%tip of the n.:%}</div> <div n="xs">{#nAsAgram,#}</div> J.;
-<div n="lb"/><div n="xe">{%diseases of the n.:%}</div> <div n="xs">{#nAsArogAH,#}</div> Sr.; <div n="xe">{%running of%}
-<div n="lb"/>{%the n.:%}</div> <div n="xs">{#nAsAparisrAvaH,#}</div> Sr.; {%n.-string:%} (for
-<div n="lb"/>cattle): {#nAsyam;#} </div><div n="1">(2) {#nAsikyam#} (rare); </div><div n="1">(3) {#GrARam#}
-<div n="lb"/>(poet.), {%with a long elevated bridge of the n.:%}
-<div n="lb"/>{#AyatottuNgaGrARavaMSa#} (f. {#SA#}), K. {%To lead by the n.:%}
-<div n="lb"/>{#yaTecCaM vAhayati#} (?). {%To thrust one's n. into:%}
-<div n="lb"/>{#anyAyacarcAM karoti#} (?).</div>
+{@NOSE@}¦ (subs.): <div n="1">(1) {#nAsA#} <div n="xe">{%or%}</div> <div n="xs">{#nAsikA,#}</div> <div n="xe">{%through the%}
+{%n.:%}</div> <div n="xs">{#nAsikayA,#}</div> N.; <div n="xe">{%tip of the n.:%}</div> <div n="xs">{#nAsAgram,#}</div> J.;
+<div n="xe">{%diseases of the n.:%}</div> <div n="xs">{#nAsArogAH,#}</div> Sr.; <div n="xe">{%running of%}
+{%the n.:%}</div> <div n="xs">{#nAsAparisrAvaH,#}</div> Sr.; {%n.-string:%} (for
+cattle): {#nAsyam;#} </div><div n="1">(2) {#nAsikyam#} (rare); </div><div n="1">(3) {#GrARam#}
+(poet.), {%with a long elevated bridge of the n.:%}
+{#AyatottuNgaGrARavaMSa#} (f. {#SA#}), K. {%To lead by the n.:%}
+{#yaTecCaM vAhayati#} (?). {%To thrust one's n. into:%}
+{#anyAyacarcAM karoti#} (?).</div>
 <LEND>

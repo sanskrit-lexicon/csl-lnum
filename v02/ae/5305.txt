@@ -1,10 +1,10 @@
 <L>5305<pc>220<k1>incident<k2>incident
 {@Incident,@}¦ {%s.%} {#vfttaM, vfttAMtaH, vyatikaraH, prasaMgaH,#}
-<div n="lb"/>{#saMgati#} {%f.,%} {#GawanA#}. {@2@} {#upAKyAnaM, prAsaMgika-#}
-<div n="lb"/>{#-kaTA#}. -{@al,@} {%a.%} {#prAsaMgika-AnuzaMgika-AgaMtuka-#}
-<div n="lb"/>{#-Akasmika-Apatika-nEmittika- (kI#} {%f.%}),
-<div n="lb"/>{#AhArya, AgaMtu, aprastuta, aprakfta;#} ‘i. cause’
-<div n="lb"/>{#AgaMtukAraRaM, kAryanimittaM#}. {@-ally,@} {%adv.%} {#pra-#}
-<div n="lb"/>{#-saMgataH, prasaMgavaSAt, yadfcCayA, kaTAprasaMgena,#}
-<div n="lb"/>{#kAryakAraRataH, dEvAt, AgaMtukatayA#}.
+{#saMgati#} {%f.,%} {#GawanA#}. {@2@} {#upAKyAnaM, prAsaMgika-#}
+{#-kaTA#}. -{@al,@} {%a.%} {#prAsaMgika-AnuzaMgika-AgaMtuka-#}
+{#-Akasmika-Apatika-nEmittika- (kI#} {%f.%}),
+{#AhArya, AgaMtu, aprastuta, aprakfta;#} ‘i. cause’
+{#AgaMtukAraRaM, kAryanimittaM#}. {@-ally,@} {%adv.%} {#pra-#}
+{#-saMgataH, prasaMgavaSAt, yadfcCayA, kaTAprasaMgena,#}
+{#kAryakAraRataH, dEvAt, AgaMtukatayA#}.
 <LEND>

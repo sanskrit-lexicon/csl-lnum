@@ -1,105 +1,104 @@
 <L>38853<pc>4-0145<k1>nitya<k2>ni/tya
-{#ni/tya#}¦ (von 1. {#ni#}) 
-<ls>P. 4, 2, 104, <is>Vārtt</is>. 3.</ls> 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} 
-<div n="2"> a) {%eigen%} (Gegens. {#araRa#}) 
-<ls>NIR. 3, 2.</ls> {#sUnu#} 
-<ls>ṚV. 1, 66, 1.</ls> {#toka#} 
-<ls n="ṚV.">2, 2, 11.</ls> <ls n="ṚV.">7, 88, 6.</ls> {#pati#} 
-<ls n="ṚV.">1, 71, 1.</ls> {#sadana#} 
-<ls n="ṚV. 1,">148, 3.</ls> {#hi\nvantyaSva\mara^Ra\M na nitya^m#} 
-<ls n="ṚV.">3, 53, 24.</ls> <ls n="ṚV.">5, 85, 7.</ls> {#nitya^sya rA\yaH pata^yaH syAma#} 
-<ls n="ṚV.">7, 4, 7.</ls> 
-<div n="2">— b) {%stätig, immerwährend, ununterbrochen; durchgängig, ewig%} 
-<ls>P. 4, 2, 104, <is>Vārtt</is>. 3.</ls> 
-<ls>AK. 1, 1, 1, 61. 3, 2, 22. 3, 4, 7, 34.</ls> 
-<ls>TRIK. 3, 3, 314.</ls> 
-<ls>H. 1453. 1471.</ls> 
-<ls>H. an. 2, 370.</ls> 
-<ls>MED. y. 33.</ls> <ls>HALĀY. 1, 125.</ls> {#jA\nanne\va jA^na\tIrnitya\ A Sa^ye#} 
-<ls>ṚV. 1, 140, 7.</ls> <ls n="ṚV. 1,">141, 2.</ls> {#yaM va\rDayA^nti pu\zwaya^Sca\ nityA^H#} 
-<ls n="ṚV.">2, 27, 12.</ls> <ls n="ṚV.">4, 4, 7.</ls> {#AhavanAni#} 
-<ls n="ṚV.">7, 1, 17.</ls> <ls n="ṚV.">8, 31, 5.</ls> {#vA\cA nitya^yA#} 
-<ls n="ṚV. 8,">64, 6.</ls> {#nityo dakziRAgniH#} 
-<ls>KĀTY. ŚR. 4, 13, 4.</ls> {#nityodaka#} 
-<ls>20, 4, 14.</ls> {#nityodakin#} 
-<ls>ŚĀṄKH. GṚHY. 4, 11.</ls> {#vftti#} 
-<ls>M. 2, 206.</ls> {#anaDyAya#} 
-<ls>4, 107.</ls> {#nityakAlam#} 
-<ls>2, 58. 73.</ls> {#damo dAnaM kzamA burdDrIrDftisteja uttamam . nityAnyAsanmahAsattve SAntanO#} 
-<ls>MBH. 1, 3969. 12, 162.</ls> 
-<ls>BHĀG. P. 1, 16, 30.</ls> {#anitye nityabudDayaH#} 
-<ls>9, 18, 41.</ls> {#yasminnitye tate tantO dfQe srAgiva tizWati#} 
-<ls>MBH. 12, 1610.</ls> {#tasminsadasi nityAstu vyAsaSizyAH#} 
-<ls>14, 2640.</ls> {#nityotsavasamAjAQyA#} 
-<ls>R. 1, 5, 14.</ls> 
-<ls>BHARTṚ. 2, 39.</ls> {#yadi nityamanityena - laByeta#} 
-<ls>HIT. I, 42.</ls> <ls>ŚVETĀŚV. UP. 6, 13.</ls> <ls>M. 1, 11.</ls> <ls>KAP. 1, 12.</ls> <ls>JAIM. 1, 18.</ls> <ls>SUŚR. 1, 312, 9. 11.</ls> Häufig als letztes Glied eines comp. {%ununterbrochen sich an einem Ort aufhaltend, - in Etwas verharrend%}: {#araRya°#} 
-<ls>MBH. 1, 4475.</ls> {#vana°#} 
-<ls>3, 10430. 14, 1274.</ls> {#jAhnavItIra°#} 
-<ls>13, 4915.</ls> {#Darma°#} 
-<ls>1, 2334. 4148. 14, 74.</ls> <ls>HARIV. 7176.</ls> <ls>R. 2, 37, 19. 58, 15.</ls> {#DyAna°#} 
-<ls>MBH. 3, 15486.</ls> {#satya°#} 
-<ls>13, 1563.</ls> {#Sastra°#} 
-<ls>1, 4029.</ls> {#aDyAtma°#} 
-<ls>BHAG. 15, 5.</ls> {#yajYADyayana°#} 
-<ls>R. 1, 6, 14.</ls> {#AdAna°#} 
-<ls>M. 11, 15.</ls> {#DarmanityA pARqava te vicezwA#}
+{#ni/tya#}¦ (von 1. {#ni#})
+<ls>P. 4,2,104</ls>, <is>Vārtt</is>. 3.
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#}
+<div n="2"> a) {%eigen%} (Gegens. {#araRa#})
+<ls>NIR. 3,2.</ls> {#sUnu#}
+<ls>ṚV. 1,66,1.</ls> {#toka#}
+<ls n="ṚV.">2,2,11.</ls> <ls n="ṚV.">7,88,6.</ls> {#pati#}
+<ls n="ṚV.">1,71,1.</ls> {#sadana#}
+<ls n="ṚV. 1,">148,3.</ls> {#hi\nvantyaSva\mara^Ra\M na nitya^m#}
+<ls n="ṚV.">3,53,24.</ls> <ls n="ṚV.">5,85,7.</ls> {#nitya^sya rA\yaH pata^yaH syAma#}
+<ls n="ṚV.">7,4,7.</ls>
+<div n="2">— b) {%stätig, immerwährend, ununterbrochen; durchgängig, ewig%}
+<ls>P. 4,2,104</ls>, <is>Vārtt</is>. 3.
+<ls>AK. 1,1,1,61.</ls> <ls n="AK.">3,2,22.</ls> <ls n="AK.">3,4,7,34.</ls>
+<ls>TRIK. 3,3,314.</ls>
+<ls>H. 1453.</ls> <ls n="H.">1471.</ls>
+<ls>H. an. 2,370.</ls>
+<ls>MED. y. 33.</ls> <ls>HALĀY. 1,125.</ls> {#jA\nanne\va jA^na\tIrnitya\ A Sa^ye#}
+<ls>ṚV. 1,140,7.</ls> <ls n="ṚV. 1,">141,2.</ls> {#yaM va\rDayA^nti pu\zwaya^Sca\ nityA^H#}
+<ls n="ṚV.">2,27,12.</ls> <ls n="ṚV.">4,4,7.</ls> {#AhavanAni#}
+<ls n="ṚV.">7,1,17.</ls> <ls n="ṚV.">8,31,5.</ls> {#vA\cA nitya^yA#}
+<ls n="ṚV. 8,">64,6.</ls> {#nityo dakziRAgniH#}
+<ls>KĀTY. ŚR. 4,13,4.</ls> {#nityodaka#}
+<ls n="KĀTY. ŚR.">20,4,14.</ls> {#nityodakin#}
+<ls>ŚĀṄKH. GṚHY. 4,11.</ls> {#vftti#}
+<ls>M. 2,206.</ls> {#anaDyAya#}
+<ls n="M.">4,107.</ls> {#nityakAlam#}
+<ls n="M.">2,58.</ls> <ls n="M. 2,">73.</ls> {#damo dAnaM kzamA burdDrIrDftisteja uttamam . nityAnyAsanmahAsattve SAntanO#}
+<ls>MBH. 1,3969.</ls> <ls n="MBH.">12,162.</ls>
+<ls>BHĀG. P. 1,16,30.</ls> {#anitye nityabudDayaH#}
+<ls n="BHĀG. P.">9,18,41.</ls> {#yasminnitye tate tantO dfQe srAgiva tizWati#}
+<ls>MBH. 12,1610.</ls> {#tasminsadasi nityAstu vyAsaSizyAH#}
+<ls n="MBH.">14,2640.</ls> {#nityotsavasamAjAQyA#}
+<ls>R. 1,5,14.</ls>
+<ls>BHARTṚ. 2,39.</ls> {#yadi nityamanityena — laByeta#}
+<ls>HIT. I,42.</ls> <ls>ŚVETĀŚV. UP. 6,13.</ls> <ls>M. 1,11.</ls> <ls>KAP. 1,12.</ls> <ls>JAIM. 1,18.</ls> <ls>SUŚR. 1,312,9. 11.</ls> Häufig als letztes Glied eines comp. {%ununterbrochen sich an einem Ort aufhaltend, — in Etwas verharrend%}: {#araRya°#}
+<ls>MBH. 1,4475.</ls> {#vana°#}
+<ls n="MBH.">3,10430.</ls> <ls n="MBH.">14,1274.</ls> {#jAhnavItIra°#}
+<ls n="MBH.">13,4915.</ls> {#Darma°#}
+<ls n="MBH.">1,2334.</ls> <ls n="MBH. 1,">4148.</ls> <ls n="MBH.">14,74.</ls> <ls>HARIV. 7176.</ls> <ls>R. 2,37,19.</ls> <ls n="R. 2,">58,15.</ls> {#DyAna°#}
+<ls>MBH. 3,15486.</ls> {#satya°#}
+<ls n="MBH.">13,1563.</ls> {#Sastra°#}
+<ls n="MBH.">1,4029.</ls> {#aDyAtma°#}
+<ls>BHAG. 15,5.</ls> {#yajYADyayana°#}
+<ls>R. 1,6,14.</ls> {#AdAna°#}
+<ls>M. 11,15.</ls> {#DarmanityA pARqava te vicezwA#}
 [Page4-0146]
-
-<ls>MBH. 5, 767.</ls> {#nityam#} adv. {%stets, ununterbrochen, beständig, immer%} <is>gaṇa</is> {#svarAdi#} zu 
-<ls>P. 1, 1, 37.</ls> 
-<ls>HALĀY. 4, 13.</ls> {#taM tvA\ dama\ A nitya^mi\dDam#} 
-<ls>ṚV. 1, 73, 4.</ls> 
-<ls>KĀTY. ŚR. 3, 2, 10. 6, 11. 9, 13, 31.</ls> 
-<ls>M. 1, 108. 2, 1.</ls> 
-<ls>INDR. 5, 61.</ls> 
-<ls>HID. 4, 10.</ls> <ls>BHĀHMAṆ. 3, 6. N. 6, 9. 7, 2.</ls> <ls>R. 1, 1, 26. 6, 18.</ls> <ls>HIT. 4, 12.</ls> {#mityamarogitA#} 
-<ls>HIT. Pr. 18.</ls> mit einem partic. praet. pass. componirt: Accent eines solchen comp. 
-<ls>P. 6, 2, 61.</ls> {#nityaDfta#} 
-<ls>ŚĀṄKH. ŚR. 2, 17, 6.</ls> {#nityAnugfhIta#} 
-<ls>ĀŚV. GṚHY. 1, 9.</ls> {#°yukta#} 
-<ls>M. 3, 75. 6, 8. 9, 326.</ls> {#°pramudita#} 
-<ls>SUND. 1, 31.</ls> {#°SaNkita#} 
-<ls>Spr. 435.</ls> {#°jAta#} 
-<ls>BHAG. 2, 26.</ls> {#°muktatva#} 
-<ls>KAP. 1, 163.</ls> — {#°saMnyAsin#} 
-<ls>BHAG. 5, 3.</ls> {#°snAyin#} 
-<ls>HIT. 19, 1.</ls> {#na nityam#} {%nicht immer%} 
-<ls>M. 4, 204.</ls> {%niemals%} 
-<ls>TAITT. PRĀT. 1, 4.</ls> <ls n="TAITT. PRĀT.">2, 4.</ls> 
-<ls>M. 1, 104. 3, 71. 4, 136. 5, 169. 8, 185.</ls> {#nityamanAdAtA#} {%niemals nehmend%} 
-<ls>6, 8.</ls> 
-<div n="2">— c) {%ständig, nothwendig, wesentlich, zur Sache gehörig, unumgänglich%} (Gegens. {#kAmya, nEmittika#} u. s. w.): {#nitye saMyAjye#} 
-<ls>ŚAT. BR. 13, 4, 2, 13. 5, 1, 9.</ls> 
-<ls>ŚĀṄKH. ŚR. 9, 20, 12. 13, 10, 6.</ls> 
-<ls>ŚĀṄKH. BR. 23, 4.</ls> 
-<ls>LĀṬY. 1, 2, 14. 4, 6, 8. 8, 7, 10.</ls> 
-<ls>ĀŚV. ŚR. 9, 1.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 37, 21. 39, 3. 338, 15.</ls> {#°vrata#} 
-<ls>GOBH. 3, 2, 42.</ls> 
-<ls>ŚĀṄKH. GṚHY. 2, 6.</ls> {#karman, kriyA, kftya#} 
-<ls>M. 11, 203.</ls> 
-<ls>AK. 2, 7, 48.</ls> 
-<ls>RĀJA-TAR. 1, 125.</ls> 
-<ls>BHĀG. P. 7, 15, 11.</ls> 
-<ls>MĀRK. P. 16, 41. 30, 1. fgg. 24. fg. 31, 60.</ls> {#°yAtrA#} 
-<ls>Verz. d. B. H. No. 1235. 1236.</ls> {#°homAdiviDi#} 
-<ls>1065.</ls> {#°dAna#} 
-<ls>1022.</ls> {#°dAnAdipadDati#} 
-<ls>MACK. Coll. I, 32.</ls> {#nityABizekaviDi#} 
-<ls>159.</ls> {#dvayorviBAzayormaDye viDirnityaH#} 
-<ls>VOP. 2, 5.</ls> {#samAsa#} {%ein nothwendiges Compositum, ein Compositum, welches nicht aufgelöst werden kann, ohne dass die Bedeutung zerfiele%}, 
-<ls>P. 6, 1, 169. Schol.</ls> zu <ls>P. 2, 1, 3.</ls> {#pratyaya#} . {%Suffix%} 
-<ls>PAT.</ls> zu <ls>P. 5, 4, 7.</ls> vom {#svarita#} so v. a. {#jAtya#} {%der primäre%} im Gegens. zum {%begleitenden, secundären%} 
-<ls>TS. PRĀT. 2, 8.</ls> Einl. zu <ls>NIR. LXIII.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%das Meer%} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#A#} 
-<div n="2"> a) Bein. der <is>Durgā</is>, 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>BRAHMAVAIV. P.</ls> in <ls>Verz. d. Oxf. H. 25,a (54).</ls> 
-<div n="2">— b) Bez. einer <is>Śakti</is> 
-<ls>TANTRAS.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— c) Bein. der Göttin <is>Manasā</is> 
-<ls>ŚABDAR.</ls> 
+<ls>MBH. 5,767.</ls> {#nityam#} adv. {%stets, ununterbrochen, beständig, immer%} <is>gaṇa</is> {#svarAdi#} zu
+<ls>P. 1,1,37.</ls>
+<ls>HALĀY. 4,13.</ls> {#taM tvA\ dama\ A nitya^mi\dDam#}
+<ls>ṚV. 1,73,4.</ls>
+<ls>KĀTY. ŚR. 3,2,10. 6,11. 9,13,31.</ls>
+<ls>M. 1,108.</ls> <ls n="M.">2,1.</ls>
+<ls>INDR. 5,61.</ls>
+<ls>HID. 4,10.</ls> <ls>BHĀHMAṆ. 3,6.</ls> <ls>N. 6,9.</ls> <ls n="N.">7,2.</ls> <ls>R. 1,1,26.</ls> <ls n="R. 1,">6,18.</ls> <ls>HIT. 4,12.</ls> {#mityamarogitA#}
+<ls>HIT. Pr. 18.</ls> mit einem partic. praet. pass. componirt: Accent eines solchen comp.
+<ls>P. 6,2,61.</ls> {#nityaDfta#}
+<ls>ŚĀṄKH. ŚR. 2,17,6.</ls> {#nityAnugfhIta#}
+<ls>ĀŚV. GṚHY. 1,9.</ls> {#°yukta#}
+<ls>M. 3,75.</ls> <ls n="M.">6,8.</ls> <ls n="M.">9,326.</ls> {#°pramudita#}
+<ls>SUND. 1,31.</ls> {#°SaNkita#}
+<ls>Spr. 435.</ls> {#°jAta#}
+<ls>BHAG. 2,26.</ls> {#°muktatva#}
+<ls>KAP. 1,163.</ls> — {#°saMnyAsin#}
+<ls>BHAG. 5,3.</ls> {#°snAyin#}
+<ls>HIT. 19,1.</ls> {#na nityam#} {%nicht immer%}
+<ls>M. 4,204.</ls> {%niemals%}
+<ls>TAITT. PRĀT. 1,4.</ls> <ls n="TAITT. PRĀT.">2,4.</ls>
+<ls>M. 1,104.</ls> <ls n="M.">3,71.</ls> <ls n="M.">4,136.</ls> <ls n="M.">5,169.</ls> <ls n="M.">8,185.</ls> {#nityamanAdAtA#} {%niemals nehmend%}
+<ls n="M.">6,8.</ls>
+<div n="2">— c) {%ständig, nothwendig, wesentlich, zur Sache gehörig, unumgänglich%} (Gegens. {#kAmya, nEmittika#} u. s. w.): {#nitye saMyAjye#}
+<ls>ŚAT. BR. 13,4,2,13. 5,1,9.</ls>
+<ls>ŚĀṄKH. ŚR. 9,20,12. 13,10,6.</ls>
+<ls>ŚĀṄKH. BR. 23,4.</ls>
+<ls>LĀṬY. 1,2,14. 4,6,8. 8,7,10.</ls>
+<ls>ĀŚV. ŚR. 9,1.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 37,21. 39,3. 338,15.</ls> {#°vrata#}
+<ls>GOBH. 3,2,42.</ls>
+<ls>ŚĀṄKH. GṚHY. 2,6.</ls> {#karman, kriyA, kftya#}
+<ls>M. 11,203.</ls>
+<ls>AK. 2,7,48.</ls>
+<ls>RĀJA-TAR. 1,125.</ls>
+<ls>BHĀG. P. 7,15,11.</ls>
+<ls>MĀRK. P. 16,41. 30,1. fgg. 24. fg. 31,60.</ls> {#°yAtrA#}
+<ls>Verz. d. B. H. No. 1235. 1236.</ls> {#°homAdiviDi#}
+<ls n="Verz. d. B. H.">1065.</ls> {#°dAna#}
+<ls n="Verz. d. B. H.">1022.</ls> {#°dAnAdipadDati#}
+<ls>MACK. Coll. I,32.</ls> {#nityABizekaviDi#}
+<ls n="MACK. Coll. I,">159.</ls> {#dvayorviBAzayormaDye viDirnityaH#}
+<ls>VOP. 2,5.</ls> {#samAsa#} {%ein nothwendiges Compositum, ein Compositum, welches nicht aufgelöst werden kann, ohne dass die Bedeutung zerfiele%},
+<ls>P. 6,1,169.</ls> Schol. zu <ls>P. 2,1,3.</ls> {#pratyaya#} . {%Suffix%}
+<ls>PAT.</ls> zu <ls>P. 5,4,7.</ls> vom {#svarita#} so v. a. {#jAtya#} {%der primäre%} im Gegens. zum {%begleitenden, secundären%}
+<ls>TS. PRĀT. 2,8.</ls> Einl. zu <ls>NIR. LXIII.</ls>
+<div n="1">— 2) <lex>m.</lex> {%das Meer%}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 3) <lex>f.</lex> {#A#}
+<div n="2"> a) Bein. der <is>Durgā</is>,
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>BRAHMAVAIV. P.</ls> in <ls>Verz. d. Oxf. H. 25,a (54).</ls>
+<div n="2">— b) Bez. einer <is>Śakti</is>
+<ls>TANTRAS.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— c) Bein. der Göttin <is>Manasā</is>
+<ls>ŚABDAR.</ls>
 <div n="v">— Vgl. {#a°, Atma°, tapo°#} .
 <LEND>

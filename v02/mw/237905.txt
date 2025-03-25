@@ -1,3 +1,3 @@
-<L>237905<pc>1184,1<k1>sarca<k2>sa-rca<h>b<e>1
-<s>sa-rca</s> <hom>b</hom> ¦ <lex>m.</lex> (<ab>fr.</ab> <hom>7.</hom> <s>sa</s> + <s>fc</s>) accompanied by a <s1 slp1="fc">Ṛc</s1>, <ls>Gobh.</ls><info lex="m"/>
+<L>237905<pc>1184,1<k1>sarca<k2>sa-rca<e>1
+<s>sa-rca</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <hom>7.</hom> <s>sa</s> + <s>fc</s>) accompanied by a <s1>Ṛc</s1>, <ls>Gobh.</ls><info lex="m"/><info hui="b"/>
 <LEND>

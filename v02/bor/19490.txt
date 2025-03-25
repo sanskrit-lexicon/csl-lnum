@@ -1,5 +1,5 @@
 <L>19490<pc>606<k1>roundness<k2>roundness
-<div n="lb"/>{@ROUNDNESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#vartulatA;#} </div><div n="1">(2) {#golatA;#}</div>
-<div n="lb"/><div n="1">(3) {#vfttAkAratA;#} etc. </div><div n="I">II Neatness, finish:
-<div n="lb"/>q. v.: {#saMskAraH.#} </div><div n="I">III Plainness: {#spazwatA.#}</div>
+{@ROUNDNESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#vartulatA;#} </div><div n="1">(2) {#golatA;#}</div>
+<div n="1">(3) {#vfttAkAratA;#} etc. </div><div n="I">II Neatness, finish:
+q. v.: {#saMskAraH.#} </div><div n="I">III Plainness: {#spazwatA.#}</div>
 <LEND>

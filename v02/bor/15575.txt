@@ -1,4 +1,4 @@
 <L>15575<pc>477<k1>nowhere<k2>nowhere
-<div n="lb"/>{@NOWHERE:@}¦ {#na#} and {#kvacit, kvApi, kftracit,#} <div n="xe">{%or%}</div> <div n="xs">{#kutrApi,#}</div>
-<div n="lb"/><div n="xe">{%n. else:%}</div> <div n="xs">{#nAnyatra kutrApi,#}</div> N. iii. 67.
+{@NOWHERE:@}¦ {#na#} and {#kvacit, kvApi, kftracit,#} <div n="xe">{%or%}</div> <div n="xs">{#kutrApi,#}</div>
+<div n="xe">{%n. else:%}</div> <div n="xs">{#nAnyatra kutrApi,#}</div> N. iii. 67.
 <LEND>

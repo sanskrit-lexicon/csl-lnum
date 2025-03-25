@@ -1,31 +1,31 @@
 <L>184<pc>0179<k1>kAci<k2>kAci
 (184) {@<s>“kAci dIptibanDanayoH”</s>@}¦ (I<s>-BvAdiH</s>-170. <s>saka</s>. <s>sew</s>. <s>Atma</s>.)
 <div n="NI"><s>kAYcakaH-YcikA, kAYcakaH-YcikA, cikAYcizakaH-zikA, cAkAYcakaH-YcikA</s>;
-<div n="lb"><s>kAYcitA-trI, kAYcayitA-trI, cikAYcizitA-trI, cAkAYcitA-trI</s>;
-<div n="lb"><s>— kAYcayan-ntI, kAYcayizyan-ntI-tI; -</s>-
-<div n="lb"><s>kAYcamAnaH, kAYcayamAnaH, cikAYcizamARaH, cAkAYcyamAnaH</s>;
-<div n="lb"><s>kAYcizyamARaH, kAYcayizyamARaH, cikAYcizizyamARaH, cAkAYcizyamARaH</s>;
-<div n="lb"><s>kAn-kAYcO-kAYcaH; — — -</s>-
-<div n="lb"><s>kAYcitam-taH, kAYcitaH-tam, cikAYcizitaH, cAkAYcitaH-tavAn</s>;
-<div n="lb"><s>kAYcaH</s>,
+<s>kAYcitA-trI, kAYcayitA-trI, cikAYcizitA-trI, cAkAYcitA-trI</s>;
+<s>— kAYcayan-ntI, kAYcayizyan-ntI-tI; -</s>-
+<s>kAYcamAnaH, kAYcayamAnaH, cikAYcizamARaH, cAkAYcyamAnaH</s>;
+<s>kAYcizyamARaH, kAYcayizyamARaH, cikAYcizizyamARaH, cAkAYcizyamARaH</s>;
+<s>kAn-kAYcO-kAYcaH; — — -</s>-
+<s>kAYcitam-taH, kAYcitaH-tam, cikAYcizitaH, cAkAYcitaH-tavAn</s>;
+<s>kAYcaH</s>,
 <sup>1</sup> <s>kAYcanam</s>
 <sup>A</sup>, <s>kAYcaH, cikAYcizuH, cikAYcayizuH, cAkAYcaH</s>;
-<div n="lb"><s>kAYcitavyam, kAYcayitavyam, cikAYcizitavyam, cAkAYcitavyam</s>;
-<div n="lb"><s>kAYcanIyam, kAYcanIyam, cikAYcizaRIyam, cAkAYcanIyam</s>;
-<div n="lb"><s>kAYcyam, kAYcyam, cikAYcizyam, cAkAYcyam</s>;
-<div n="lb"><s>IzatkAYcaH-duzkAYcaH-sukAYcaH; — -</s>-
-<div n="lb"><s>kAYcyamAnaH, kAYcyamAnaH, cikAYcizyamARaH, cAkAYcyamAnaH</s>;
-<div n="lb"><s>kAYcaH, kAYcaH, cikAYcizaH, cAkAYcaH</s>;
-<div n="lb"><s>kAYcitum, kAYcayitum, cikAYcizitum, cAkAYcitum</s>;
-<div n="lb"><s>kAYcA, kAYcanA, cikAYcizA, cikAYcayizA, cAkAYcA</s>;
-<div n="lb"><s>kAYcanam, kAYcanam, cikAYcizaRam, cAkAYcanam</s>;
-<div n="lb"><s>kAYcitvA, kAYcayitvA, cikAYcizitvA, cAkAYcitvA</s>;
-<div n="lb"><s>avakAYcya, saMkAYcya, pracikAYcizya, pracAkAYcya</s>;
-<div n="lb"><note n="1"/><s>kAYcam</s> 2, <s>kAYcitvA</s> 2, <s>kAYcam</s> 2, <s>kAYcayitvA</s> 2, <s>cikAYcizam</s> 2, <s>cikAYcizitvA</s> 2, <s>cAkAYcam</s> 2<s>; cAkAYcitvA</s> 2;
+<s>kAYcitavyam, kAYcayitavyam, cikAYcizitavyam, cAkAYcitavyam</s>;
+<s>kAYcanIyam, kAYcanIyam, cikAYcizaRIyam, cAkAYcanIyam</s>;
+<s>kAYcyam, kAYcyam, cikAYcizyam, cAkAYcyam</s>;
+<s>IzatkAYcaH-duzkAYcaH-sukAYcaH; — -</s>-
+<s>kAYcyamAnaH, kAYcyamAnaH, cikAYcizyamARaH, cAkAYcyamAnaH</s>;
+<s>kAYcaH, kAYcaH, cikAYcizaH, cAkAYcaH</s>;
+<s>kAYcitum, kAYcayitum, cikAYcizitum, cAkAYcitum</s>;
+<s>kAYcA, kAYcanA, cikAYcizA, cikAYcayizA, cAkAYcA</s>;
+<s>kAYcanam, kAYcanam, cikAYcizaRam, cAkAYcanam</s>;
+<s>kAYcitvA, kAYcayitvA, cikAYcizitvA, cAkAYcitvA</s>;
+<s>avakAYcya, saMkAYcya, pracikAYcizya, pracAkAYcya</s>;
+<note n="1"/><s>kAYcam</s> 2, <s>kAYcitvA</s> 2, <s>kAYcam</s> 2, <s>kAYcayitvA</s> 2, <s>cikAYcizam</s> 2, <s>cikAYcizitvA</s> 2, <s>cAkAYcam</s> 2<s>; cAkAYcitvA</s> 2;
 <sup>2</sup> <s>kAYcI-kAYciH ..</s> 
 [Page0180+ 25]
 <F>1. <s>‘anudAttetaSca halAdeH’</s> (3-2-149) <s>iti yuc tAcCIlikaH .</s></F>
 <F>A. <s>‘sulocanA yatra SacIsamapraBA aSASvacuH SvaYcitasOraBAH kace .</s>
-<div n="lb"><s>sakaYcukAH kAYcanakAYciBUzitA vrajANganA nirmacanena narmaRA ..’ DA</s>. <s>kA</s>. 1-23.</F>
+<s>sakaYcukAH kAYcanakAYciBUzitA vrajANganA nirmacanena narmaRA ..’ DA</s>. <s>kA</s>. 1-23.</F>
 <F>2. <s>ORAdika in pratyayaH . ‘kfdikArAdaktinaH’ (ga</s>. <s>sU</s>. 4-1-45) <s>iti vA NIz .</s></F>
 <LEND>

@@ -1,8 +1,8 @@
 <L>7169<pc>310<k1>novel<k2>novel
 {@Novel,@}¦ {%a.%} {#nava, nUtana, navIna, apUrva, adfzwa-#}
-<div n="lb"/>{#-aSruta-pUrva, adButa;#} {%See%} {@New.@} {%-s.%} {#kalpita-#}
-<div n="lb"/>{#-kaTA, AKyAyikA, prabaMDakalpanA, kUwArTa-#}
-<div n="lb"/>{#-kaTA#}. {@-ist,@} {%s.%} {#AKyAyikAkAraH#}. {@-ty,@} {%s.%}
-<div n="lb"/>{#pUrvatA, navatA, nUtanatA#}. {@2@} {#adfzwapUrvaM vastu,#}
-<div n="lb"/>{#kOtukaM, adButaM#}.
+{#-aSruta-pUrva, adButa;#} {%See%} {@New.@} {%-s.%} {#kalpita-#}
+{#-kaTA, AKyAyikA, prabaMDakalpanA, kUwArTa-#}
+{#-kaTA#}. {@-ist,@} {%s.%} {#AKyAyikAkAraH#}. {@-ty,@} {%s.%}
+{#pUrvatA, navatA, nUtanatA#}. {@2@} {#adfzwapUrvaM vastu,#}
+{#kOtukaM, adButaM#}.
 <LEND>

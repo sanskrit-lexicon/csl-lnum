@@ -1,38 +1,37 @@
 <L>48000<pc>4-0932<k1>prajYA<k2>prajYA/
-{#prajYA/#}¦ (1. {#jYA#} mit {#pra#}) <lex>f.</lex> 
+{#prajYA/#}¦ (1. {#jYA#} mit {#pra#}) <lex>f.</lex>
 <div n="1"> 1) {%das Sichzurechtfinden; Auskunft%}: {#kimiha #}
 [Page4-0933]
-{# kartavyaM keha prajYA#} 
-<ls>ŚAT. BR. 2, 2, 3, 3.</ls> {#purastAdvE prajYA#} 
-<ls>3, 7, 1, 27.</ls> 
-<div n="1">— 2) {%Unterscheidung, Urtheilskraft, Einsicht, Verstand%} 
-<ls>AK. 1, 1, 4, 10.</ls> 
-<ls>H. 309.</ls> 
-<ls>an. 2, 78.</ls> 
-<ls>MED. ñ. 2.</ls> <ls>HALĀY. 2, 179.</ls> <ls>ŚAT. BR. 11, 5, 7, 1. 14, 6, 10, 6.</ls> <ls>PRAŚNOP. 2, 13.</ls> <ls>ĀŚV. GṚHY. 3, 5. 9.</ls> <ls>YOGAS. 1, 20. 48. 2, 27.</ls> <ls>TATTVAS. 8.</ls> <ls>M. 4, 41. 42. 52. 94.</ls> <ls>SUŚR. 1, 126, 18.</ls> <ls>Spr. 425.</ls> {#prajYAM dadAti cAcAryaH#} 
-<ls>1805.</ls> {#°vAdAMSca BAzase#} 
-<ls>266.</ls> {#°guptaSarIra#} 
-<ls>1833.</ls> {#°vfdDa#} 
-<ls>1834.</ls> {#SastraM nihanti puruzasya SarIramekaM prajYA kulaM ca viBavaM ca yaSaSca hanti#} 
-<ls>2974.</ls> {#AkArasadfSaprajYaH prajYayA sadfSAgamaH#} 
-<ls>RAGH. 1, 15.</ls> {#kapitve ca nAsya prajYA vilupyate#} 
-<ls>KATHĀS. 37, 111.</ls> {#prajYayA jYAyate sarvam#} 
-<ls>49, 144. 32, 173. 38, 15.</ls> <ls>PRAB. 20, 4.</ls> <ls>Lot. de la b. l. 342.</ls> Am Ende eines <lex>adj.</lex> comp.: {#strIprajYA#} 
-<ls>ŚAT. BR. 14, 7, 3, 1.</ls> {#amalaprajYA#} 
-<ls>MĀRK. P. 21, 46.</ls> {#mandaprajYa#} 
-<ls>N. 15, 12.</ls> {#pfTu°#} 
-<ls>VYUTP. 34.</ls> {#zawsu prajYAsti yasyoccEH sa zawprajYa iti smftaH#} 
-<ls>TRIK. 3, 1, 16.</ls> {#kftaprajYa#} {%dessen Verstand entwickelt ist%} 
-<ls>MBH. 1, 5568. 5, 1246. 12, 5.</ls> {#akftaprajYa#} 
-<ls>13, 5115.</ls> <ls>BHĀG. P. 1, 13, 31.</ls> {#akftaprajYaka#} 
-<ls>MBH. 12, 7183.</ls> {#matirAgAmikA jYeyA budDistatkAladarSinI . prajYA cAtItakAlasya meDA kAlatrayAtmikA ..#} 
-<ls>H. 309,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 3) {%Vorsatz, Entschluss%}: {#tameva DIro vijYAya prajYAM kurvIta brAhmaRaH#} 
-<ls>ŚAT. BR. 14, 7, 2, 23.</ls> {#yaTAgamaprajYa#} 
-<ls>ŚĀṄKH. ŚR. 6, 6.</ls> 
-<div n="1">— 4) die personif. {%Einsicht%} ist <is>Sarasvatī</is> 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {%die Energie des%} <is>Ādibuddha</is> 
-<ls>BURN.</ls> in <ls>Lot. de la b. l. 502</ls>; vgl. <ls>BURN. Intr. 442.</ls> 
+{# kartavyaM keha prajYA#}
+<ls>ŚAT. BR. 2,2,3,3.</ls> {#purastAdvE prajYA#}
+<ls n="ŚAT. BR.">3,7,1,27.</ls>
+<div n="1">— 2) {%Unterscheidung, Urtheilskraft, Einsicht, Verstand%}
+<ls>AK. 1,1,4,10.</ls>
+<ls>H. 309.</ls>
+<ls>an. 2,78.</ls>
+<ls>MED. ñ. 2.</ls> <ls>HALĀY. 2,179.</ls> <ls>ŚAT. BR. 11,5,7,1.</ls> <ls n="ŚAT. BR.">14,6,10,6.</ls> <ls>PRAŚNOP. 2,13.</ls> <ls>ĀŚV. GṚHY. 3,5. 9.</ls> <ls>YOGAS. 1,20. 48. 2,27.</ls> <ls>TATTVAS. 8.</ls> <ls>M. 4,41.</ls> <ls n="M. 4,">42.</ls> <ls n="M. 4,">52.</ls> <ls n="M. 4,">94.</ls> <ls>SUŚR. 1,126,18.</ls> <ls>Spr. 425.</ls> {#prajYAM dadAti cAcAryaH#}
+<ls n="Spr.">1805.</ls> {#°vAdAMSca BAzase#}
+<ls n="Spr.">266.</ls> {#°guptaSarIra#}
+<ls n="Spr.">1833.</ls> {#°vfdDa#}
+<ls n="Spr.">1834.</ls> {#SastraM nihanti puruzasya SarIramekaM prajYA kulaM ca viBavaM ca yaSaSca hanti#}
+<ls n="Spr.">2974.</ls> {#AkArasadfSaprajYaH prajYayA sadfSAgamaH#}
+<ls>RAGH. 1,15.</ls> {#kapitve ca nAsya prajYA vilupyate#}
+<ls>KATHĀS. 37,111.</ls> {#prajYayA jYAyate sarvam#}
+<ls n="KATHĀS.">49,144.</ls> <ls n="KATHĀS.">32,173.</ls> <ls n="KATHĀS.">38,15.</ls> <ls>PRAB. 20,4.</ls> <ls>Lot. de la b. l. 342.</ls> Am Ende eines <lex>adj.</lex> comp.: {#strIprajYA#}
+<ls>ŚAT. BR. 14,7,3,1.</ls> {#amalaprajYA#}
+<ls>MĀRK. P. 21,46.</ls> {#mandaprajYa#}
+<ls>N. 15,12.</ls> {#pfTu°#}
+<ls>VYUTP. 34.</ls> {#zawsu prajYAsti yasyoccEH sa zawprajYa iti smftaH#}
+<ls>TRIK. 3,1,16.</ls> {#kftaprajYa#} {%dessen Verstand entwickelt ist%}
+<ls>MBH. 1,5568.</ls> <ls n="MBH.">5,1246.</ls> <ls n="MBH.">12,5.</ls> {#akftaprajYa#}
+<ls n="MBH.">13,5115.</ls> <ls>BHĀG. P. 1,13,31.</ls> {#akftaprajYaka#}
+<ls>MBH. 12,7183.</ls> {#matirAgAmikA jYeyA budDistatkAladarSinI . prajYA cAtItakAlasya meDA kAlatrayAtmikA ..#}
+<ls>H. 309</ls>, <ls>Sch.</ls>
+<div n="1">— 3) {%Vorsatz, Entschluss%}: {#tameva DIro vijYAya prajYAM kurvIta brAhmaRaH#}
+<ls>ŚAT. BR. 14,7,2,23.</ls> {#yaTAgamaprajYa#}
+<ls>ŚĀṄKH. ŚR. 6,6.</ls>
+<div n="1">— 4) die personif. {%Einsicht%} ist <is>Sarasvatī</is>
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {%die Energie des%} <is>Ādibuddha</is>
+<ls>BURN.</ls> in <ls>Lot. de la b. l. 502</ls>; vgl. <ls>BURN. Intr. 442.</ls>
 <div n="v">— Vgl. {#pUrva°#}; das <lex>adj.</lex> {#prajYA#} s. u. {#prajYa#} .
 <LEND>

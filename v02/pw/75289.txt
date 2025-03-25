@@ -1,10 +1,10 @@
-<L>75289<pc>4200-3<k1>ParParIka<k2>*ParParIka<e>100
-{#*ParParIka#}¦
-<div n="1">— 1) <lex>m.</lex> {%die ausgestreckte Hand.%}
-<div n="1">— 2) <lex>f.</lex> {#A#}
-<div n="2">— a) {%Schuh.%}
-<div n="2">— b) = {#madana#}.
-<div n="1">— 3) <lex>n.</lex>
-<div n="2">— a) {%Milde.%}
-<div n="2">— b) {%ein junger Schoss.%}
+<L>75289<pc>4-200-c<k1>ParParIka<k2>*ParParIka
+*{#ParParIka#}¦
+<div n="1">— 1〉 <lex>m.</lex> {%die ausgestreckte Hand%}.
+<div n="1">— 2〉 <lex>f.</lex> {#A#}
+<div n="2">— a〉 {%Schuh%}.
+<div n="2">— b〉 = {#madana#}.
+<div n="1">— 3〉 <lex>n.</lex>
+<div n="2">— a〉 {%Milde%}.
+<div n="2">— b〉 {%ein junger Schoss%}.
 <LEND>

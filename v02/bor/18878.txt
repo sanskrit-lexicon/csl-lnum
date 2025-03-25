@@ -1,12 +1,12 @@
 <L>18878<pc>582<k1>regular<k2>regular
-<div n="lb"/>{@REGULAR@}¦ (adj.): <div n="I">I Of men: </div><div n="1">(1) {#niyata#} (f. {#tA#});</div>
-<div n="lb"/><div n="1">(2) {#vyavasTita#} (f. {#tA#}): </div><div n="1">(3) {#niyamAnuvartin#} (f. {#nI#})
-<div n="lb"/>and sim. comp.s. </div><div n="I">II Symmetrical,
-<div n="lb"/>arranged in proper order: </div><div n="1">(1) {#anupUrva#}
-<div n="lb"/>(f. {#rvA#}); </div><div n="1">(2) {#anuloma#} (f. {#mA#}); </div><div n="1">(3) {#Anulomika#}
-<div n="lb"/>(f. {#kI#}). </div><div n="I">III Coming in order: </div><div n="1">(1) {#yaTAkrama-#}
-<div n="lb"/>-in comp.; </div><div n="1">(2) {#nEyamika#} (f. {#kI#}); </div><div n="1">(3) {#nitya#}
-<div n="lb"/>(f. {#tyA#} = constant, daily). </div><div n="I">IV Normal,
-<div n="lb"/>proper: </div><div n="1">(1) {#yukta#} (f. {#ktA#}); </div><div n="1">(2) {#ucita#} (f. {#tA#}),
-<div n="lb"/>{#sam-;#} </div><div n="1">(3) {#upapanna#} (f. {#nnA#}).</div>
+{@REGULAR@}¦ (adj.): <div n="I">I Of men: </div><div n="1">(1) {#niyata#} (f. {#tA#});</div>
+<div n="1">(2) {#vyavasTita#} (f. {#tA#}): </div><div n="1">(3) {#niyamAnuvartin#} (f. {#nI#})
+and sim. comp.s. </div><div n="I">II Symmetrical,
+arranged in proper order: </div><div n="1">(1) {#anupUrva#}
+(f. {#rvA#}); </div><div n="1">(2) {#anuloma#} (f. {#mA#}); </div><div n="1">(3) {#Anulomika#}
+(f. {#kI#}). </div><div n="I">III Coming in order: </div><div n="1">(1) {#yaTAkrama-#}
+-in comp.; </div><div n="1">(2) {#nEyamika#} (f. {#kI#}); </div><div n="1">(3) {#nitya#}
+(f. {#tyA#} = constant, daily). </div><div n="I">IV Normal,
+proper: </div><div n="1">(1) {#yukta#} (f. {#ktA#}); </div><div n="1">(2) {#ucita#} (f. {#tA#}),
+{#sam-;#} </div><div n="1">(3) {#upapanna#} (f. {#nnA#}).</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>2862<pc>0373<k1>KAd<k2>KAd
-{@khād,@}¦ {%zerbeissen, essen, verzehren,%} daher auch 2) {%vernichten%} (die Feinde), dies in amitrakhādá, <lbinfo n="6"/> vṛtra-khādá.
-<div n="P">Mit {@ā́,@} {%essen, verzehren, vernichten;%} mit {@prá,@} {%verzehren%} (<ab>s.</ab> prakhādá); mit {@ava@} (vernichten) in avakādá, mit {@vi@} (<ab>dass.</ab>) in vikhādá.
+{@√khād,@}¦ {%zerbeissen, essen, verzehren,%} daher auch 2〉 {%vernichten%} (die Feinde), dies in amitrakhādá, vṛtra-khādá.
+<div n="Pf">Mit {@ā́,@} {%essen, verzehren, vernichten;%} mit {@prá,@} {%verzehren%} (<ab n="siehe">s.</ab> prakhādá); mit {@ava@} (vernichten) in <chg type="chg" n="96" src="gra"><old>avakādá</old><new>avakhādá</new></chg>, mit {@vi@} (<ab>dass.</ab>) in vikhādá.
 <div n="H">Stamm {@khā́da@} (unbetont in {64,7}):
-<div n="P1">-ati {@prá:@} kṣā́m {158,4}.
-<div n="P1">-tha [-thā] 1) vánā {64,7} (mṛgā́s iva hastínas).
+<div n="TS">-ati {@prá:@} kṣā́m {158,4}.
+<div n="TS"><chg type="chg" n="97" src="gra"><old>-tha [-thā]</old><new>-atha [-athā]</new></chg> 1〉 vánā {64,7} (mṛgā́s iva hastínas).
 <div n="H"><ab>Perf.</ab> {@cakā́d:@}
-<div n="P1">-da [3. <ab>s.</ab>] {@ā:@} avasám, paṇím {502,1}.
+<div n="TS">-da [<per>3.</per> <ab>s.</ab>] {@ā:@} avasám, paṇím {502,1}.
 <LEND>

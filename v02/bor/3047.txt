@@ -1,4 +1,4 @@
 <L>3047<pc>102<k1>captaincy<k2>captaincy
-<div n="lb"/>{@CAPTAINCY@}¦ or {@CAPTAINSHIP:@} <div n="1">(1) {#gulmapatipada#}
-<div n="lb"/>(military); </div><div n="1">(2) {#potADyakzapadam#} (naval).</div>
+{@CAPTAINCY@}¦ or {@CAPTAINSHIP:@} <div n="1">(1) {#gulmapatipada#}
+(military); </div><div n="1">(2) {#potADyakzapadam#} (naval).</div>
 <LEND>

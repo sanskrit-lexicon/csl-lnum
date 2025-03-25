@@ -1,25 +1,24 @@
 <L>48812<pc>4-0993<k1>pratoda<k2>pratoda/
-{#pratoda/#}¦ (von 1. {#tud#} mit {#pra#}) <lex>m.</lex> {%Stachelstock%} (zum Antreiben der Thiere) 
-<ls>TRIK. 2, 8, 46.</ls> 
-<ls>H. 893.</ls> 
-<ls>HALĀY. 2, 422.</ls> 
-<ls>AV. 15, 2, 1.</ls> 
-<ls>PAÑCAV. BR. 17, 1, 14.</ls> 
-<ls>KĀTY. ŚR. 22, 4, 10.</ls> 
-<ls>ŚĀṄKH. ŚR. 14, 72, 3.</ls> 
-<ls>LĀṬY. 8, 6, 7.</ls> 
-<ls>M. 3, 44. 4, 68. 5, 99.</ls> 
-<ls>YĀJÑ. 1, 62.</ls> 
-<ls>ARJ. 8, 15.</ls> 
-<ls>MBH. 1, 523. 5424. 2, 1952. 3, 332. 758. 4, 1962. 6, 2390. 9, 719. 13, 1875.</ls> 
-<ls>HARIV. 9300.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 76, 17. 6, 31, 40. 86, 19</ls> ({#sa°#}). 
-<ls>DAŚAK. 74, 1 v. u.</ls> {#tridaRqaM vajrasUcyagraM pratodaM tatra cAdaDat#} 
-<ls>MBH. 13, 2786.</ls> {#(stanO) kAmapratodAviva mAM tudataH#} 
-<ls>4, 393.</ls> {#uvAca BIzmaM rADeyastudanvAgBiH pratodavat#} 
-<ls>5, 5817.</ls> {#sa tunno vAkpratodena pratodeneva kuYjaraH#} 
-<ls>R. GORR. 2, 11, 27. 24.</ls> {#vAkya°#} 
-<ls>MBH. 1, 524.</ls> {#aNgirasAM pratodaH#} und {#kaSyapasya pratodaH#} Namen von <is>Sāman</is> 
-<ls>Ind. St.3,201,b. 224,a.</ls>
+{#pratoda/#}¦ (von 1. {#tud#} mit {#pra#}) <lex>m.</lex> {%Stachelstock%} (zum Antreiben der Thiere)
+<ls>TRIK. 2,8,46.</ls>
+<ls>H. 893.</ls>
+<ls>HALĀY. 2,422.</ls>
+<ls>AV. 15,2,1.</ls>
+<ls>PAÑCAV. BR. 17,1,14.</ls>
+<ls>KĀTY. ŚR. 22,4,10.</ls>
+<ls>ŚĀṄKH. ŚR. 14,72,3.</ls>
+<ls>LĀṬY. 8,6,7.</ls>
+<ls>M. 3,44.</ls> <ls n="M.">4,68.</ls> <ls n="M.">5,99.</ls>
+<ls>YĀJÑ. 1,62.</ls>
+<ls>ARJ. 8,15.</ls>
+<ls>MBH. 1,523.</ls> <ls n="MBH. 1,">5424.</ls> <ls n="MBH.">2,1952.</ls> <ls n="MBH.">3,332.</ls> <ls n="MBH. 3,">758.</ls> <ls n="MBH.">4,1962.</ls> <ls n="MBH.">6,2390.</ls> <ls n="MBH.">9,719.</ls> <ls n="MBH.">13,1875.</ls>
+<ls>HARIV. 9300.</ls>
+<ls>R. GORR. 2,76,17.</ls> <ls n="R. GORR.">6,31,40.</ls> <ls n="R. GORR. 6,">86,19</ls> ({#sa°#}).
+<ls>DAŚAK. 74,1</ls> v. u. {#tridaRqaM vajrasUcyagraM pratodaM tatra cAdaDat#}
+<ls>MBH. 13,2786.</ls> {#(stanO) kAmapratodAviva mAM tudataH#}
+<ls n="MBH.">4,393.</ls> {#uvAca BIzmaM rADeyastudanvAgBiH pratodavat#}
+<ls n="MBH.">5,5817.</ls> {#sa tunno vAkpratodena pratodeneva kuYjaraH#}
+<ls>R. GORR. 2,11,27.</ls> <ls n="R. GORR. 2,11,">24.</ls> {#vAkya°#}
+<ls>MBH. 1,524.</ls> {#aNgirasAM pratodaH#} und {#kaSyapasya pratodaH#} Namen von <is>Sāman</is>
+<ls>Ind. St. 3,201,b. 224,a.</ls>
 <LEND>

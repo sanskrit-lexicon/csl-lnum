@@ -1,33 +1,30 @@
 <L>10484<pc>1-0844<k1>Iq<k2>Iq
-{#Iq#}¦, {#I/wwe, Iqize#} ({#ILize#}), {#Iqe, IqiDve, Iqate; Iqizva, IqiDvam; Ewwa; Iqire#} 
-<ls>?(R. 3, 9, 8) DHĀTUP. 24, 9. P. 7, 2, 78. VOP. 9, 38. 39.</ls> {%anflehen; erbitten, bitten%}; mit dopp. acc.: {#a\gnimI^Le pu\rohi^tam#} 
-<ls>ṚV. 1, 1, 1.</ls> <ls n="ṚV. 1,">14, 5.</ls> <ls n="ṚV. 1,">84, 18.</ls> {#a\gniM sU\kteBi\rvaco^BirImahe\ yaM sI\mida\nya ILa^te#} 
-<ls n="ṚV. 1,">36, 1.</ls> {#tvAM tsA\rI dasa^mAno\ Baga^mIwwe takva\vIye^#} 
-<ls n="ṚV. 1,">134, 5.</ls> <ls n="ṚV. 1,">180, 2.</ls> <ls n="ṚV.">3, 1, 15.</ls> <ls n="ṚV. 3,">6, 3.</ls> <ls n="ṚV.">4, 3, 3.</ls> <ls n="ṚV.">6, 60, 10.</ls> {#u\pa\sTAya^ mA\tara\manna^mEwwa#} 
-<ls n="ṚV.">3, 48, 3.</ls> {#ILi^zvA\ hi pra^tI\cyaM1^\ yaja^sva jA\tave^dasam#} 
-<ls n="ṚV.">8, 23, 1.</ls> <ls n="ṚV. 8,">43, 22.</ls> {#ILA^mahA\ IqyA\~ Ajye^na#} 
-<ls n="ṚV.">10, 53, 2.</ls> <ls>VS. 7, 3.</ls> {#u\ta pu\traH pi\ta^ra^M kza\tramI^qe#} 
-<ls>AV. 5, 1, 8.</ls> 
-<ls>ŚAT. BR. 1, 4, 3, 5. 5, 2, 3.</ls> {%preisen%} 
-<ls>DHĀTUP.</ls> {#ganDarvAH surasaMGASca bahavaSca maharzayaH . antarIkzagataM devaM gIrBiragryABirIqire ..#} 
-<ls>R. 3, 9, 8.</ls> {#neqize yadi kAkutsTam#} 
-<ls>BHAṬṬ. 9, 57.</ls> {#Iqize sma svavikramam#} 
-<ls>18, 15.</ls> partic. {#I/LAnaH de\vA~ ILA^nA fzi\vatsva\staye^#} 
-<ls>ṚV. 10, 66, 14.</ls> {#ILA^nAyAva\syave^#} 
-<ls n="ṚV.">2, 6, 6.</ls> <ls n="ṚV.">5, 28, 1.</ls> <ls n="ṚV.">8, 91, 2.</ls> <ls>VS. 27, 14.</ls> {#IqyamAna#} {%gelobt werdend%} 
-<ls>RAGH. 18, 16.</ls> {#Iqita/#} ({#ILita/#}) 
-<ls>AK. 3, 2, 59.</ls> 
-<ls>ṚV. 7, 7, 3.</ls> <ls n="ṚV.">10, 15, 12.</ls> {#tvamI^Li\to de\veByo^ bravasi#} 
-<ls n="ṚV.">1, 139, 7.</ls> <ls n="ṚV. 1,">142, 4.</ls> <ls n="ṚV.">2, 3, 3.</ls> <ls n="ṚV.">5, 5, 7.</ls> <ls n="ṚV.">10, 69, 1.</ls> <ls>ŚAT. BR. 1, 4, 3, 5. 5, 3, 11.</ls> — caus. {#Iqayati#} dass. 
-<ls>DHĀTUP. 32, 128.</ls>
-
-<div n="p">— {#pra#} dass.: {#pra dyA^vA ya\jYEH pf^Ti\vI namo^BiH sa\bADa^ ILe#} 
-<ls>ṚV. 7, 53, 1.</ls> <ls n="ṚV.">8, 19, 2.</ls>
-
-<div n="p">— {#upapra#} dass.: {#pra yatsto\tA ja^ri\tA tUrRya^rTo vfzA\yamA^Ra\ upa^ gI\rBirIwwe^#} 
-<ls>ṚV. 3, 52, 5.</ls>
+{#Iq#}¦, {#I/wwe, Iqize#} ({#ILize#}), {#Iqe, IqiDve, Iqate; Iqizva, IqiDvam; Ewwa; Iqire#}
+(<ls>R. 3,9,8</ls>) <ls>DHĀTUP. 24,9.</ls> <ls>P. 7,2,78.</ls> <ls>VOP. 9,38.</ls> <ls n="VOP. 9,">39.</ls> {%anflehen; erbitten, bitten%}; mit dopp. acc.: {#a\gnimI^Le pu\rohi^tam#}
+<ls>ṚV. 1,1,1.</ls> <ls n="ṚV. 1,">14,5.</ls> <ls n="ṚV. 1,">84,18.</ls> {#a\gniM sU\kteBi\rvaco^BirImahe\ yaM sI\mida\nya ILa^te#}
+<ls n="ṚV. 1,">36,1.</ls> {#tvAM tsA\rI dasa^mAno\ Baga^mIwwe takva\vIye^#}
+<ls n="ṚV. 1,">134,5.</ls> <ls n="ṚV. 1,">180,2.</ls> <ls n="ṚV.">3,1,15.</ls> <ls n="ṚV. 3,">6,3.</ls> <ls n="ṚV.">4,3,3.</ls> <ls n="ṚV.">6,60,10.</ls> {#u\pa\sTAya^ mA\tara\manna^mEwwa#}
+<ls n="ṚV.">3,48,3.</ls> {#ILi^zvA\ hi pra^tI\cyaM1^\ yaja^sva jA\tave^dasam#}
+<ls n="ṚV.">8,23,1.</ls> <ls n="ṚV. 8,">43,22.</ls> {#ILA^mahA\ IqyA\~ Ajye^na#}
+<ls n="ṚV.">10,53,2.</ls> <ls>VS. 7,3.</ls> {#u\ta pu\traH pi\ta^ra^M kza\tramI^qe#}
+<ls>AV. 5,1,8.</ls>
+<ls>ŚAT. BR. 1,4,3,5. 5,2,3.</ls> {%preisen%}
+<ls>DHĀTUP.</ls> {#ganDarvAH surasaMGASca bahavaSca maharzayaH . antarIkzagataM devaM gIrBiragryABirIqire ..#}
+<ls>R. 3,9,8.</ls> {#neqize yadi kAkutsTam#}
+<ls>BHAṬṬ. 9,57.</ls> {#Iqize sma svavikramam#}
+<ls n="BHAṬṬ.">18,15.</ls> partic. {#I/LAnaH de\vA~ ILA^nA fzi\vatsva\staye^#}
+<ls>ṚV. 10,66,14.</ls> {#ILA^nAyAva\syave^#}
+<ls n="ṚV.">2,6,6.</ls> <ls n="ṚV.">5,28,1.</ls> <ls n="ṚV.">8,91,2.</ls> <ls>VS. 27,14.</ls> {#IqyamAna#} {%gelobt werdend%}
+<ls>RAGH. 18,16.</ls> {#Iqita/#} ({#ILita/#})
+<ls>AK. 3,2,59.</ls>
+<ls>ṚV. 7,7,3.</ls> <ls n="ṚV.">10,15,12.</ls> {#tvamI^Li\to de\veByo^ bravasi#}
+<ls n="ṚV.">1,139,7.</ls> <ls n="ṚV. 1,">142,4.</ls> <ls n="ṚV.">2,3,3.</ls> <ls n="ṚV.">5,5,7.</ls> <ls n="ṚV.">10,69,1.</ls> <ls>ŚAT. BR. 1,4,3,5. 5,3,11.</ls> — caus. {#Iqayati#} dass.
+<ls>DHĀTUP. 32,128.</ls>
+<div n="p">— {#pra#} dass.: {#pra dyA^vA ya\jYEH pf^Ti\vI namo^BiH sa\bADa^ ILe#}
+<ls>ṚV. 7,53,1.</ls> <ls n="ṚV.">8,19,2.</ls>
+<div n="p">— {#upapra#} dass.: {#pra yatsto\tA ja^ri\tA tUrRya^rTo vfzA\yamA^Ra\ upa^ gI\rBirIwwe^#}
+<ls>ṚV. 3,52,5.</ls>
 [Page1-0845]
-
-<div n="p">— {#prati#} dass.: {#prati^ tvA\ stomE^rILate\ vasi^zWAH#} 
-<ls>ṚV. 7, 76, 6.</ls>
+<div n="p">— {#prati#} dass.: {#prati^ tvA\ stomE^rILate\ vasi^zWAH#}
+<ls>ṚV. 7,76,6.</ls>
 <LEND>

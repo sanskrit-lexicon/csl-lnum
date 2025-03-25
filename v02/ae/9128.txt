@@ -1,8 +1,8 @@
 <L>9128<pc>407<k1>sap<k2>sap
 {@Sap,@}¦ {%s.%} {#sAraH, rasaH, dravaH, sattvaM, niryAsaH#}.
-<div n="lb"/>{%-v. t.%} {#utKan#} 1 P, {#samUlaM ucCid#} 7 P or
-<div n="lb"/>{#naS#} c. {@-per,@} {%s.%} {#KanakaH, sOruMgikaH#}. {@-less,@}
-<div n="lb"/>{%a%} {#asAra, niHsAra, virasa, nIrasa, niHsattva#}
-<div n="lb"/>{@-py,@} {%a.%} {#rasAQya, sarasa, Ardra, sasattva, rasa#}
-<div n="lb"/>{#vat#}. {@-Sapid,@} {%a.%} {#surasa, mizwa, svAdu#}.
+{%-v. t.%} {#utKan#} 1 P, {#samUlaM ucCid#} 7 P or
+{#naS#} c. {@-per,@} {%s.%} {#KanakaH, sOruMgikaH#}. {@-less,@}
+{%a%} {#asAra, niHsAra, virasa, nIrasa, niHsattva#}
+{@-py,@} {%a.%} {#rasAQya, sarasa, Ardra, sasattva, rasa#}
+{#vat#}. {@-Sapid,@} {%a.%} {#surasa, mizwa, svAdu#}.
 <LEND>

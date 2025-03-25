@@ -1,6 +1,6 @@
 <L>4181<pc>136<k1>compartment<k2>compartment
-<div n="lb"/>{@COMPARTMENT:@}¦ <div n="I">I Of an edifice: </div><div n="1">(1) {#kakzA;#}</div>
-<div n="lb"/><div n="1">(2) {#SAlA;#} <div n="xe">{%houses with numerous c. s:%}</div> <div n="xs">{#BUriSAlAni #}
-<div n="lb"/>{# gfhARi,#}</div> Si. </div><div n="I">II A division: </div><div n="1">(1) {#KaRqa#} (mn.);</div>
-<div n="lb"/><div n="1">(2) {#paricCedaH;#} </div><div n="1">(3) {#vimAgaH.#}</div>
+{@COMPARTMENT:@}¦ <div n="I">I Of an edifice: </div><div n="1">(1) {#kakzA;#}</div>
+<div n="1">(2) {#SAlA;#} <div n="xe">{%houses with numerous c. s:%}</div> <div n="xs">{#BUriSAlAni #}
+{# gfhARi,#}</div> Si. </div><div n="I">II A division: </div><div n="1">(1) {#KaRqa#} (mn.);</div>
+<div n="1">(2) {#paricCedaH;#} </div><div n="1">(3) {#vimAgaH.#}</div>
 <LEND>

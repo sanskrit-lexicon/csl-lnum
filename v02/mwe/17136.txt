@@ -1,22 +1,22 @@
 <L>17136<pc>427-b<k1>king<k2>king
-<div n="lb"/>KING¦, {%s.%} {#rAjA#} {%m.%} {#(n), nfpatiH#} {%m.,%} {#nfpaH, narapatiH#} {%m.,%} {#BUpatiH#} {%m.,%} {#BUpaH,#}
-<div n="lb"/>{#BUpAlaH, mahIpatiH#} {%m.,%} {#pArTivaH, pArTaH, pfTivIpatiH#} {%m.,%} {#pfTivIpAlaH,#}
-<div n="lb"/>{#BUmipaH -patiH#} {%m.,%} {#mahIkzit#} {%m.,%} {#mahIpaH, mahIpAlaH, kzitipaH -patiH#} {%m.%}
-<div n="lb"/>{#-pAlaH, pfTivIkzit#} {%m.,%} {#nareSvaraH, narADipaH, nareSaH, narendraH, prajeSvaraH,#}
-<div n="lb"/>{#prajApaH -patiH#} {%m.,%} {#jagatIpatiH#} {%m.,%} {#jagatIpAlaH, jagatpatiH#} {%m.,%} {#avani-#}
-<div n="lb"/>{#patiH#} {%m.,%} {#avanipAlaH, avanISaH, avanISvaraH, kzitISaH, kzitISvaraH,#}
-<div n="lb"/>{#pfTivISakaH, BUmiBft#} {%m.,%} {#kzitiBft#} {%m.,%} {#BUBft, kzmABft, kzmApaH, vasuDA-#}
-<div n="lb"/>{#DipaH, aDipaH, aDipatiH#} {%m.,%} {#nAyakADipaH, mahIBuk#} {%m.%} {#(j), jagatIBuk#} {%m.,%}
-<div n="lb"/>{#kzmABuk, BUBuk#} {%m.,%} {#BUmIndraH, mahIBarttA#} {%m.%} {#(rttf), BarttA#} {%m.,%} {#svAmI#} {%m.%}
-<div n="lb"/>{#(n), praBuH#} {%m.,%} {#BagavAn#} {%m.%} {#(t), CatrapaH -patiH#} {%m.,%} {#rAjyaBAk#} {%m.%} {#(j),#}
-<div n="lb"/>{#lokapAlaH, lokeSaH, lokeSvaraH, lokanATaH, naradevaH, rAw#} {%m.%} {#(j),#}
-<div n="lb"/>{#irAvAn#} {%m.%} {#(t), indraH#} in comp.; as, ‘the king of beasts,’
-<div n="lb"/>{#mfgendraH;#} ‘the king of birds,’ {#KagendraH;#} ‘the king of men,’
-<div n="lb"/>{#narendraH;#} ‘king of kings,’ {#rAjendraH, rAjADirAjaH, rAjarAjaH, rAjA-#}
-<div n="lb"/>{#DipaH;#} ‘supreme king,’ {#aDirAjaH, aDirAw (j), mahArAjaH#} {%m.%}
-<div n="lb"/>{#aDISvaraH, samrAw (j), maRqaleSvaraH, sarvveSvaraH, rAjasiMhaH;#} ‘a king's
-<div n="lb"/>son,’ {#rAjaputraH, rAjakumAraH, BarttfdArakaH;#} ‘king's daughter,’
-<div n="lb"/>{#rAjaputrI, rAjakumArI, rAjakanyA;#} ‘a line of kings,’ {#rAjAvalI#}
-<div n="lb"/>{#-liH#} {%f.,%} {#rAjasantatiH#} {%f.;%} ‘having no king,’ {#arAjakaH -kA -kaM,#}
-<div n="lb"/>{#anAyakaH -kA -kaM#}.
+KING¦, {%s.%} {#rAjA#} {%m.%} {#(n), nfpatiH#} {%m.,%} {#nfpaH, narapatiH#} {%m.,%} {#BUpatiH#} {%m.,%} {#BUpaH,#}
+{#BUpAlaH, mahIpatiH#} {%m.,%} {#pArTivaH, pArTaH, pfTivIpatiH#} {%m.,%} {#pfTivIpAlaH,#}
+{#BUmipaH -patiH#} {%m.,%} {#mahIkzit#} {%m.,%} {#mahIpaH, mahIpAlaH, kzitipaH -patiH#} {%m.%}
+{#-pAlaH, pfTivIkzit#} {%m.,%} {#nareSvaraH, narADipaH, nareSaH, narendraH, prajeSvaraH,#}
+{#prajApaH -patiH#} {%m.,%} {#jagatIpatiH#} {%m.,%} {#jagatIpAlaH, jagatpatiH#} {%m.,%} {#avani-#}
+{#patiH#} {%m.,%} {#avanipAlaH, avanISaH, avanISvaraH, kzitISaH, kzitISvaraH,#}
+{#pfTivISakaH, BUmiBft#} {%m.,%} {#kzitiBft#} {%m.,%} {#BUBft, kzmABft, kzmApaH, vasuDA-#}
+{#DipaH, aDipaH, aDipatiH#} {%m.,%} {#nAyakADipaH, mahIBuk#} {%m.%} {#(j), jagatIBuk#} {%m.,%}
+{#kzmABuk, BUBuk#} {%m.,%} {#BUmIndraH, mahIBarttA#} {%m.%} {#(rttf), BarttA#} {%m.,%} {#svAmI#} {%m.%}
+{#(n), praBuH#} {%m.,%} {#BagavAn#} {%m.%} {#(t), CatrapaH -patiH#} {%m.,%} {#rAjyaBAk#} {%m.%} {#(j),#}
+{#lokapAlaH, lokeSaH, lokeSvaraH, lokanATaH, naradevaH, rAw#} {%m.%} {#(j),#}
+{#irAvAn#} {%m.%} {#(t), indraH#} in comp.; as, ‘the king of beasts,’
+{#mfgendraH;#} ‘the king of birds,’ {#KagendraH;#} ‘the king of men,’
+{#narendraH;#} ‘king of kings,’ {#rAjendraH, rAjADirAjaH, rAjarAjaH, rAjA-#}
+{#DipaH;#} ‘supreme king,’ {#aDirAjaH, aDirAw (j), mahArAjaH#} {%m.%}
+{#aDISvaraH, samrAw (j), maRqaleSvaraH, sarvveSvaraH, rAjasiMhaH;#} ‘a king's
+son,’ {#rAjaputraH, rAjakumAraH, BarttfdArakaH;#} ‘king's daughter,’
+{#rAjaputrI, rAjakumArI, rAjakanyA;#} ‘a line of kings,’ {#rAjAvalI#}
+{#-liH#} {%f.,%} {#rAjasantatiH#} {%f.;%} ‘having no king,’ {#arAjakaH -kA -kaM,#}
+{#anAyakaH -kA -kaM#}.
 <LEND>

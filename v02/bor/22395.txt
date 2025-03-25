@@ -1,22 +1,22 @@
 <L>22395<pc>706<k1>the<k2>the
-<div n="lb"/>{@THE:@}¦ <div n="I">I The definite article: </div><div n="1">(1) not
-<div n="lb"/>expr., <div n="xe">{%I salute the parents of the world:%}</div> <div n="xs">{#jagataH #}
-<div n="lb"/>{# pitarO vande,#}</div> R. i. 1.; <div n="xe">{%the kind said:%}</div> <div n="xs">{#rAjovAca,#}</div>
-<div n="lb"/>H.; <div n="xe">{%in the house of Vasudeva:%}</div> <div n="xs">{#vasudevasadmani,#}</div> Si.
-<div n="lb"/>i. 1.; </div><div n="1">(2) by demonstrative pronouns,
-<div n="lb"/><div n="xe">{%where shall I get the bird:%}</div> <div n="xs">{#kva prApyate sa patagaH,#}</div> N.
-<div n="lb"/>xiii. 40.; <div n="xe">{%the day is advanced:%}</div> <div n="xs">{#kaWorIBUto'yaM #}
-<div n="lb"/>{# divasaH,#}</div> U. ii. </div><div n="I">II Of distinction: by {#tad#} {%or%}
-<div n="lb"/>rarely {#adas,#} {%we are the Rāma and Lakṣmaṇa:%}
-<div n="lb"/>{#AvAM tO rAmalakzmaRO,#} An v.; <div n="xe">{%and you are the%}
-<div n="lb"/>{%Lakṣmaṇa:%}</div> <div n="xs">{#tvaM punarasO lakzmaRaH,#}</div> Vi. v. </div><div n="I">III
-<div n="lb"/>With comp. adv.s: </div><div n="1">(1) with {#yaTA yaTA...... #}
-<div n="lb"/>{# taTA taTA,#} <div n="xe">{%the closer the sound of the drums came,%}
-<div n="lb"/>{%the more excited the hostile army (became):%}</div>
-<div n="lb"/><div n="xs">{#upAgamadyaTA yaTA pawaharavaH samIpatAM taTA taTA hfzita-#}
-<div n="lb"/>{#vapurdvizAYcamUH,#}</div> Si. xvii. 43.; {#“romakUpanivahaM yaTA yaTA #}
-<div n="lb"/>{# nEzaDasya dfgapAttaTA taTA citramApadapatfzRatA na sA”,#} N.
-<div n="lb"/>xviii. 124.; </div><div n="1">(2) with {#yAvat yAvat......tAvat #}
-<div n="lb"/>{# tAvat,#} M.n. Ph.: <div n="xe">{%the more so:%}</div> <div n="xs">{#viSezataH#}</div>
-<div n="lb"/>(= specially).</div>
+{@THE:@}¦ <div n="I">I The definite article: </div><div n="1">(1) not
+expr., <div n="xe">{%I salute the parents of the world:%}</div> <div n="xs">{#jagataH #}
+{# pitarO vande,#}</div> R. i. 1.; <div n="xe">{%the kind said:%}</div> <div n="xs">{#rAjovAca,#}</div>
+H.; <div n="xe">{%in the house of Vasudeva:%}</div> <div n="xs">{#vasudevasadmani,#}</div> Si.
+i. 1.; </div><div n="1">(2) by demonstrative pronouns,
+<div n="xe">{%where shall I get the bird:%}</div> <div n="xs">{#kva prApyate sa patagaH,#}</div> N.
+xiii. 40.; <div n="xe">{%the day is advanced:%}</div> <div n="xs">{#kaWorIBUto'yaM #}
+{# divasaH,#}</div> U. ii. </div><div n="I">II Of distinction: by {#tad#} {%or%}
+rarely {#adas,#} {%we are the Rāma and Lakṣmaṇa:%}
+{#AvAM tO rAmalakzmaRO,#} An v.; <div n="xe">{%and you are the%}
+{%Lakṣmaṇa:%}</div> <div n="xs">{#tvaM punarasO lakzmaRaH,#}</div> Vi. v. </div><div n="I">III
+With comp. adv.s: </div><div n="1">(1) with {#yaTA yaTA...... #}
+{# taTA taTA,#} <div n="xe">{%the closer the sound of the drums came,%}
+{%the more excited the hostile army (became):%}</div>
+<div n="xs">{#upAgamadyaTA yaTA pawaharavaH samIpatAM taTA taTA hfzita-#}
+{#vapurdvizAYcamUH,#}</div> Si. xvii. 43.; {#“romakUpanivahaM yaTA yaTA #}
+{# nEzaDasya dfgapAttaTA taTA citramApadapatfzRatA na sA”,#} N.
+xviii. 124.; </div><div n="1">(2) with {#yAvat yAvat......tAvat #}
+{# tAvat,#} M.n. Ph.: <div n="xe">{%the more so:%}</div> <div n="xs">{#viSezataH#}</div>
+(= specially).</div>
 <LEND>

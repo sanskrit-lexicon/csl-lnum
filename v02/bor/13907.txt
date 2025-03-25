@@ -1,8 +1,8 @@
 <L>13907<pc>427<k1>lunar<k2>lunar
-<div n="lb"/>{@LUNAR:@}¦ <div n="1">(1) by comp., <div n="xe">{%l. eclipse:%}</div> <div n="xs">{#candragrahaRam;#}</div>
-<div n="lb"/><div n="xe">{%the l. dynasty:%}</div> <div n="xs">{#candravaMSaH;#}</div> </div><div n="1">(2) {#cAndraH#} ({#ndrI, ndraM#});</div>
-<div n="lb"/><div n="1">(3) {#cAndramasaH#} ({#sI, saM#}); </div><div n="1">(4) {#EndavaH#} ({#vI, vaM#}),
-<div n="lb"/><div n="xe">{%l. month:%}</div> <div n="xs">{#Endavo mAsaH,#}</div> Go. <div n="xe">{%A l. day:%}</div> <div n="xs">{#tiTiH;#}</div> <div n="xe">{%the%}
-<div n="lb"/>{%2nd. 3rd. 11th. l. day:%}</div> <div n="xs">{#dvitIyA, tftIyA, ekAdaSI,#}</div>
-<div n="lb"/>etc.</div>
+{@LUNAR:@}¦ <div n="1">(1) by comp., <div n="xe">{%l. eclipse:%}</div> <div n="xs">{#candragrahaRam;#}</div>
+<div n="xe">{%the l. dynasty:%}</div> <div n="xs">{#candravaMSaH;#}</div> </div><div n="1">(2) {#cAndraH#} ({#ndrI, ndraM#});</div>
+<div n="1">(3) {#cAndramasaH#} ({#sI, saM#}); </div><div n="1">(4) {#EndavaH#} ({#vI, vaM#}),
+<div n="xe">{%l. month:%}</div> <div n="xs">{#Endavo mAsaH,#}</div> Go. <div n="xe">{%A l. day:%}</div> <div n="xs">{#tiTiH;#}</div> <div n="xe">{%the%}
+{%2nd. 3rd. 11th. l. day:%}</div> <div n="xs">{#dvitIyA, tftIyA, ekAdaSI,#}</div>
+etc.</div>
 <LEND>

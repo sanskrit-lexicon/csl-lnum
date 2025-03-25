@@ -1,3 +1,3 @@
-<L>135524<pc>684,2<k1>praBuj<k2>pra-Buj<h>a<e>1
-<hom>a.</hom> <s>pra-</s>√ <hom>1.</hom> <s>Buj</s> ¦ (only <ab>ind.p.</ab> <s>-Bujya</s>), to bend, incline, <ls>Br.</ls>; <ls>Kauś.</ls><info verb="pre" cp="" parse="pra+Buj"/>
+<L>135524<pc>684,2<k1>praBuj<k2>pra-Buj<e>1
+ <s>pra-</s>√ <hom>1.</hom> <s>Buj</s> ¦ (only <ab>ind.p.</ab> <s>-Bujya</s>), to bend, incline, <ls>Br.</ls>; <ls>Kauś.</ls><info verb="pre" cp="" parse="pra+Buj"/><info hui="a"/>
 <LEND>

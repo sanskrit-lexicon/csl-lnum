@@ -1,13 +1,13 @@
 <L>24110<pc>754<k1>waste<k2>waste
-<div n="lb"/>{@WASTE@}¦ (v. t.): <div n="I">I To wear, impair: </div><div n="1">(1)
-<div n="lb"/>{#kziRoti, pari-, ava-, pra-, saM-#} ({#kzi,#} c. 5.), <div n="xe">{%without%}
-<div n="lb"/>{%w. ing the body:%}</div> <div n="xs">{#tanumakziRvan,#}</div> M. ii. 100.; <div n="xe">{%he%}
-<div n="lb"/>{%is to be w. d.:%}</div> <div n="xs">{#parikzIyata evAsO,#}</div> H. ii. 95.; </div><div n="1">(2)
-<div n="lb"/>{#avacinoti#} ({#ci,#} c. 5.), {%if%} ({%it%}) <div n="xe">{%is afterwards w.%}
-<div n="lb"/>{%d.:%}</div> <div n="xs">{#arvAk cedapacIyate,#}</div> Mit. </div><div n="I">II To ruin, des-
-<div n="lb"/>-troy: q. v.: {#kziRoti,#} <div n="xe">{%it does not w. the reputa-%}
-<div n="lb"/>{%tion of warriors:%}</div> <div n="xs">{#na tadyaSaH SastraBftAM kziRoti,#}</div> R.
-<div n="lb"/>ii. 40. </div><div n="I">III To squander: q. v.: {#kzapayati#} (c.
-<div n="lb"/>of {#kzi#}), <div n="xe">{%when the night was w. d:%}</div> <div n="xs">{#aTa kzIRAyAM #}
-<div n="lb"/>{# kzapAyAm,#}</div> K.: v. To pass, spend, throw away.</div>
+{@WASTE@}¦ (v. t.): <div n="I">I To wear, impair: </div><div n="1">(1)
+{#kziRoti, pari-, ava-, pra-, saM-#} ({#kzi,#} c. 5.), <div n="xe">{%without%}
+{%w. ing the body:%}</div> <div n="xs">{#tanumakziRvan,#}</div> M. ii. 100.; <div n="xe">{%he%}
+{%is to be w. d.:%}</div> <div n="xs">{#parikzIyata evAsO,#}</div> H. ii. 95.; </div><div n="1">(2)
+{#avacinoti#} ({#ci,#} c. 5.), {%if%} ({%it%}) <div n="xe">{%is afterwards w.%}
+{%d.:%}</div> <div n="xs">{#arvAk cedapacIyate,#}</div> Mit. </div><div n="I">II To ruin, des-
+-troy: q. v.: {#kziRoti,#} <div n="xe">{%it does not w. the reputa-%}
+{%tion of warriors:%}</div> <div n="xs">{#na tadyaSaH SastraBftAM kziRoti,#}</div> R.
+ii. 40. </div><div n="I">III To squander: q. v.: {#kzapayati#} (c.
+of {#kzi#}), <div n="xe">{%when the night was w. d:%}</div> <div n="xs">{#aTa kzIRAyAM #}
+{# kzapAyAm,#}</div> K.: v. To pass, spend, throw away.</div>
 <LEND>

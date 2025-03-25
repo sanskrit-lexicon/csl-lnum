@@ -1,21 +1,21 @@
 <L>4287<pc>174<k1>friend<k2>friend
 {@Friend,@}¦ {%s.%} {#mitraM, saKi#} {%m.,%} {#suhfd#} {%m.,%} {#snigDaH,#}
-<div n="lb"/>{#praRayin#} {%m.,%} {#hitaH, sahAyaH, sajus#} {%m.,%} {#saMgin#}
-<div n="lb"/>{%m.%} {#vayasyaH, baMDuH;#} (term of address)
-<div n="lb"/>{#BadraH-drA;#} ‘an old f.’ {#ciramitraM;#} ‘a true f.’
-<div n="lb"/>{#sanmitraM#}. {%-v. t.%} {#upakf#} 8 U, {#anugrah#} 9 P,
-<div n="lb"/>{@-less,@} {%a.%} {#mitra-baMDu-hIna, asahAya, anATa, aSa-#}
-<div n="lb"/>{#-raRa;#} {%See%} {@Forlorn, -ship,@} {%s.%} {#saKyaM, mitratvaM;#}
-<div n="lb"/>{#mEtrI, mEtryaM, baMDutA, sOhfdaM, sOhArdaM, snehaH,#}
-<div n="lb"/>{#praRayaH, prIti#} {%f.,%} {#preman#} {%m., n.,%} {#anurAgaH#}. {@2@}
-<div n="lb"/>{#sAhAyyaM#}. {@-Friendly,@} {%a.%} {#snigDa, sadaya, hita-#}
-<div n="lb"/>{#-kAma, hitEzin, snehaSIla, sAnurAga, suhfdaya,#}
-<div n="lb"/>{#sapraRaya#}. {@2@} {#hita, anukUla, anugrAhin, upakA-#}
-<div n="lb"/>{#-raka, hitakara; suKAvaha, kalyARakara#} ({#rI#} {%f.%});
-<div n="lb"/>‘on f. terms’ {#snehavfttyA, mitraBAvena;#} ‘f.
-<div n="lb"/>disposed’ {#hitabudDi;#} ‘f. dispute’ {#praRaya-#}
-<div n="lb"/>{#-kalahaH, prItikalahaH#}. {%-adv.%} {#mitravat, hitavat,#}
-<div n="lb"/>{#snigDaM, priyaM#}. {@-ness,@} {%s.%} {#hitecCA, hitakAma-#}
-<div n="lb"/>{#-tA, hitabudDi#} {%f.,%} {#anukUlatA, mitratvaM, praRayaH,#}
-<div n="lb"/>{#snehaSIlatA#}.
+{#praRayin#} {%m.,%} {#hitaH, sahAyaH, sajus#} {%m.,%} {#saMgin#}
+{%m.%} {#vayasyaH, baMDuH;#} (term of address)
+{#BadraH-drA;#} ‘an old f.’ {#ciramitraM;#} ‘a true f.’
+{#sanmitraM#}. {%-v. t.%} {#upakf#} 8 U, {#anugrah#} 9 P,
+{@-less,@} {%a.%} {#mitra-baMDu-hIna, asahAya, anATa, aSa-#}
+{#-raRa;#} {%See%} {@Forlorn, -ship,@} {%s.%} {#saKyaM, mitratvaM;#}
+{#mEtrI, mEtryaM, baMDutA, sOhfdaM, sOhArdaM, snehaH,#}
+{#praRayaH, prIti#} {%f.,%} {#preman#} {%m., n.,%} {#anurAgaH#}. {@2@}
+{#sAhAyyaM#}. {@-Friendly,@} {%a.%} {#snigDa, sadaya, hita-#}
+{#-kAma, hitEzin, snehaSIla, sAnurAga, suhfdaya,#}
+{#sapraRaya#}. {@2@} {#hita, anukUla, anugrAhin, upakA-#}
+{#-raka, hitakara; suKAvaha, kalyARakara#} ({#rI#} {%f.%});
+‘on f. terms’ {#snehavfttyA, mitraBAvena;#} ‘f.
+disposed’ {#hitabudDi;#} ‘f. dispute’ {#praRaya-#}
+{#-kalahaH, prItikalahaH#}. {%-adv.%} {#mitravat, hitavat,#}
+{#snigDaM, priyaM#}. {@-ness,@} {%s.%} {#hitecCA, hitakAma-#}
+{#-tA, hitabudDi#} {%f.,%} {#anukUlatA, mitratvaM, praRayaH,#}
+{#snehaSIlatA#}.
 <LEND>

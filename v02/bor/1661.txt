@@ -1,12 +1,12 @@
 <L>1661<pc>057<k1>base<k2>base
-<div n="lb"/>{@BASE@}¦ (adj.): <div n="I">I Of mean parentage: </div><div n="1">(1)
-<div n="lb"/>{#anaBijAtaH#} ({#tA, taM#}); </div><div n="1">(2) {#akulInaH#} ({#nA, naM#}); </div><div n="1">(3)
-<div n="lb"/>{#duzkulInaH#} ({#nA, naM#}). {%A b. man:%} </div><div n="1">(1) {#prAkftaH;#} </div><div n="1">(2)
-<div n="lb"/>{#pfTagjanaH,#} Ki. </div><div n="I">II A bastard: {#vijanman#} (mfn.).</div>
-<div n="lb"/><div n="I">III Mean, disingenuous: </div><div n="1">(1) {#nikfzwaH#} ({#zwA, #}
-<div n="lb"/>{# zwaM#}); </div><div n="1">(2) {#apakfzwaH#} ({#zwA, zwaM#}); </div><div n="1">(3) {#kadaryaH#} ({#ryA, #}
-<div n="lb"/>{# ryaM#}); </div><div n="1">(4) {#jaGanyaH#} ({#nyA, nyaM#}); </div><div n="1">(5) {#pAmaraH#} ({#rA, #}
-<div n="lb"/>{# raM#}). </div><div n="I">IV Of musical tones: {#gamBIraH#} ({#rA, #}
-<div n="lb"/>{# raM#}): v. Grave, deep. V. Of metals:
-<div n="lb"/>{#nikfzwaH#} <div n="xe">{%or%}</div> <div n="xs">{#apakfzwaH#}</div> ({#zwA, zwaM#}). Ph. <div n="xe">{%b. metal%}</div> <div n="xs">{#kupyam.#}</div></div>
+{@BASE@}¦ (adj.): <div n="I">I Of mean parentage: </div><div n="1">(1)
+{#anaBijAtaH#} ({#tA, taM#}); </div><div n="1">(2) {#akulInaH#} ({#nA, naM#}); </div><div n="1">(3)
+{#duzkulInaH#} ({#nA, naM#}). {%A b. man:%} </div><div n="1">(1) {#prAkftaH;#} </div><div n="1">(2)
+{#pfTagjanaH,#} Ki. </div><div n="I">II A bastard: {#vijanman#} (mfn.).</div>
+<div n="I">III Mean, disingenuous: </div><div n="1">(1) {#nikfzwaH#} ({#zwA, #}
+{# zwaM#}); </div><div n="1">(2) {#apakfzwaH#} ({#zwA, zwaM#}); </div><div n="1">(3) {#kadaryaH#} ({#ryA, #}
+{# ryaM#}); </div><div n="1">(4) {#jaGanyaH#} ({#nyA, nyaM#}); </div><div n="1">(5) {#pAmaraH#} ({#rA, #}
+{# raM#}). </div><div n="I">IV Of musical tones: {#gamBIraH#} ({#rA, #}
+{# raM#}): v. Grave, deep. V. Of metals:
+{#nikfzwaH#} <div n="xe">{%or%}</div> <div n="xs">{#apakfzwaH#}</div> ({#zwA, zwaM#}). Ph. <div n="xe">{%b. metal%}</div> <div n="xs">{#kupyam.#}</div></div>
 <LEND>

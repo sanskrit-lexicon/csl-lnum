@@ -1,9 +1,9 @@
 <L>200<pc>008<k1>acquaint<k2>acquaint
-<div n="lb"/>{@ACQUAINT@}¦ (v. t.): <div n="I">I To make familiar:
-<div n="lb"/>{#parIcayaM karoti#} ({#kf,#} c. 8) {#A-carati#} ({#car,#} c. 1),
-<div n="lb"/><div n="xe">{%making himself a. ed with all sciences%}</div> <div n="xs">{#sarvavidyA-#}
-<div n="lb"/>{#paricayamAcarataH,#}</div> <ls>K.</ls> </div><div n="I">II. To inform: q. v.
-<div n="lb"/>{#boDayati, ava-,#} (c. of {#buD#}), <div n="xe">{%you should keep me a.%}
-<div n="lb"/>{%ed with whatever happens there everyday%}</div> <div n="xs">{#pratyahaYca #}
-<div n="lb"/>{# yadyattatra vfttAntaM jAtaM tadasmi tvayAvaboDyaH,#}</div> D. iii.</div>
+{@ACQUAINT@}¦ (v. t.): <div n="I">I To make familiar:
+{#parIcayaM karoti#} ({#kf,#} c. 8) {#A-carati#} ({#car,#} c. 1),
+<div n="xe">{%making himself a. ed with all sciences%}</div> <div n="xs">{#sarvavidyA-#}
+{#paricayamAcarataH,#}</div> <ls>K.</ls> </div><div n="I">II. To inform: q. v.
+{#boDayati, ava-,#} (c. of {#buD#}), <div n="xe">{%you should keep me a.%}
+{%ed with whatever happens there everyday%}</div> <div n="xs">{#pratyahaYca #}
+{# yadyattatra vfttAntaM jAtaM tadasmi tvayAvaboDyaH,#}</div> D. iii.</div>
 <LEND>

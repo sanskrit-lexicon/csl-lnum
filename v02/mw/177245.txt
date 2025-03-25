@@ -1,3 +1,3 @@
-<L>177245<pc>876,3<k1>rADikA<k2>rADikA<h>b<e>2
-<s>rADikA</s> <hom>b</hom> ¦ <lex>f.</lex> endearing form of <s1 slp1="rADA">Rādhā</s1> (the <s1 slp1="gopI">Gopī</s1>), <ls>Gīt.</ls>; <ls>Pañcar.</ls><info lex="f"/>
+<L>177245<pc>876,3<k1>rADikA<k2>rADikA<e>2
+<s>rADikA</s> ¦ <lex>f.</lex> endearing form of <s1>Rādhā</s1> (the <s1>Gopī</s1>), <ls>Gīt.</ls>; <ls>Pañcar.</ls><info lex="f"/><info hui="b"/>
 <LEND>

@@ -1,13 +1,13 @@
 <L>6908<pc>298<k1>motion<k2>motion
 {@Motion,@}¦ {%s.%} {#gati#} {%f.,%} {#gamanaM, calanaM, sarpaRaM, caraRaM#}.
-<div n="lb"/>{@2@} {#cezwA, vyApAraH, aMgavikzepaH;#} ‘to set in m.’
-<div n="lb"/>{#Ir#} c., {#A-DU#} 5, 9 U, 6 P, {#kaMp#} c. {@3@} {#kzoBaH;#}
-<div n="lb"/>{#vegaH, saM-A-vegaH, manovikAraH, manovfttiH-#}
-<div n="lb"/>{#-vegaH, BAvaH, vAsana, kalpanA#}. {@4@} {#preraRaM-RA,#}
-<div n="lb"/>{#protsAhanaM, pracodanA#}. {@5@} {#upanyAsaH, upakzepaH,#}
-<div n="lb"/>{#kAryopakzepaH, sUcanA#}. {@6@} {#rekaH, recanaM-nA, uccA-#}
-<div n="lb"/>{#-raH#}. {%-v. i.%} {#saMjYAM dA#} 3 U or {#kf#} 8 U, {#saMketaM#}
-<div n="lb"/>{#dA#}. {@-less,@} {%a.%} {#niScala, niScezwa, acala,#}
-<div n="lb"/>{#acezwa, gatihIna-SUnya, nizkaMpa, aspaMda, stabDa,#}
-<div n="lb"/>{#sTira#}.
+{@2@} {#cezwA, vyApAraH, aMgavikzepaH;#} ‘to set in m.’
+{#Ir#} c., {#A-DU#} 5, 9 U, 6 P, {#kaMp#} c. {@3@} {#kzoBaH;#}
+{#vegaH, saM-A-vegaH, manovikAraH, manovfttiH-#}
+{#-vegaH, BAvaH, vAsana, kalpanA#}. {@4@} {#preraRaM-RA,#}
+{#protsAhanaM, pracodanA#}. {@5@} {#upanyAsaH, upakzepaH,#}
+{#kAryopakzepaH, sUcanA#}. {@6@} {#rekaH, recanaM-nA, uccA-#}
+{#-raH#}. {%-v. i.%} {#saMjYAM dA#} 3 U or {#kf#} 8 U, {#saMketaM#}
+{#dA#}. {@-less,@} {%a.%} {#niScala, niScezwa, acala,#}
+{#acezwa, gatihIna-SUnya, nizkaMpa, aspaMda, stabDa,#}
+{#sTira#}.
 <LEND>

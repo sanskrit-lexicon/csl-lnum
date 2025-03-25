@@ -1,4 +1,4 @@
-<L>273<pc>0034<k1>adabDanIti<k2>a/dabDa-nIti
-{@ádabdha-nīti,@}¦ a., {%untrügliche Führung%} [nītí] {%gewährend, sicher führend.%}
-<div n="P1">-īn (ādityā́n) {492,3}.
+<L>273<pc>0034<k1>adabDaDIti<k2>a/dabDa-DIti
+<chg type="chg" n="16" src="gra"><old>{@ádabdha-nīti,@}</old><new>{@ádabdha-dhīti,@}</new></chg>¦ <ab>a.</ab>, <chg type="chg" n="17" src="gra"><old>{%untrügliche Führung%} [nītí] {%gewährend, sicher führend%}.</old><new>{%reingesinnt%}.</new></chg>
+<div n="TS">-īn (ādityā́n) {492,3}.
 <LEND>

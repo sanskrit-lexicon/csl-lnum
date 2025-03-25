@@ -1,24 +1,23 @@
 <L>105837<pc>7-0722<k1>samutTa<k2>samutTa
-{#samutTa#}¦ (von {#sTA#} mit {#samud#}) <lex>adj.</lex> (f. {#A#}) {%entstehend, entstanden, hervorgehend, hervorgegangen, herstammend, herkommend, herrührend%}: {#rozaM samutTaM Samayan#} 
-<ls>BHĀG. P. 3, 17, 29.</ls> {#duHKa#} 
-<ls>10, 60, 56.</ls> {#kurURAmantaH °kalinA#} 
-<ls>9, 24, 66.</ls> {#jahO jvaraM dASaraTeH samutTam#} {%herrührend von%} 
-<ls>R. 6, 21, 46.</ls> gewöhnlich in comp. mit einem abl., seltener mit einem im loc. gedachten Begriffe (bisweilen ist die Scheidung nicht leicht): {#nAnAdeSa°#} {%herstammend aus%} 
-<ls>MBH. 6, 5241. 8, 418.</ls> {#nfpatikula°#} 
-<ls>VARĀH. BṚH. 11, 12.</ls> {#kAma° (vyasana)#} 
-<ls>M. 7, 45. 8, 353.</ls> 
-<ls>MBH. 1, 132.</ls> 
-<ls>BHAG. 7, 27.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 2, 28. 43, 23 (45, 22</ls> <ls>SCHL.</ls><ls>?). 3, 13, 3. 4, 13, 34. 31, 12. SUŚR. 1, 174, 11. 2, 107, 5. KĀM. NĪTIS. 13, 91. RAGH. 2, 75. Spr. (II) 7238. VARĀH. BṚH. S. 5, 94. 46, 21. MĀRK. P. 109, 32.</ls> {#Ka°#} {%sich zeigend in%} 
-<ls>MBH. 5, 7196.</ls> {#sOmyakAzWA°#} 
-<ls>VARĀH. BṚH. S. 24, 24.</ls> {#skandaviSAKa° (vEkfta)#} 
-<ls>46, 11.</ls> {#avayava°#} 
-<ls>SUŚR. 2, 132, 20.</ls> {#svaSarIra°#} 
-<ls>Spr. (II) 6159.</ls> 
-<ls>KATHĀS. 5, 140.</ls> {#PAlgunaSukla°#} 
-<ls>VARĀH. BṚH. S. 21, 11.</ls> {#SaratsamutTa#} 
-<ls>40, 12.</ls> {#eka° (prARa)#} so v. a. {%ein einmaliger Athemzug%} Comm. zu 
-<ls>TS. PRĀT. 5, 1.</ls> 
+{#samutTa#}¦ (von {#sTA#} mit {#samud#}) <lex>adj.</lex> (f. {#A#}) {%entstehend, entstanden, hervorgehend, hervorgegangen, herstammend, herkommend, herrührend%}: {#rozaM samutTaM Samayan#}
+<ls>BHĀG. P. 3,17,29.</ls> {#duHKa#}
+<ls n="BHĀG. P.">10,60,56.</ls> {#kurURAmantaH °kalinA#}
+<ls n="BHĀG. P.">9,24,66.</ls> {#jahO jvaraM dASaraTeH samutTam#} {%herrührend von%}
+<ls>R. 6,21,46.</ls> gewöhnlich in comp. mit einem abl., seltener mit einem im loc. gedachten Begriffe (bisweilen ist die Scheidung nicht leicht): {#nAnAdeSa°#} {%herstammend aus%}
+<ls>MBH. 6,5241.</ls> <ls n="MBH.">8,418.</ls> {#nfpatikula°#}
+<ls>VARĀH. BṚH. 11,12.</ls> {#kAma° (vyasana)#}
+<ls>M. 7,45.</ls> <ls n="M.">8,353.</ls>
+<ls>MBH. 1,132.</ls>
+<ls>BHAG. 7,27.</ls>
+<ls>R. GORR. 2,2,28.</ls> <ls n="R. GORR. 2,">43,23</ls> (<ls n="SCHL. 2,">45,22</ls> <ls>SCHL.</ls>). <ls n="R. GORR.">3,13,3.</ls> <ls n="R. GORR.">4,13,34.</ls> <ls n="R. GORR. 4,">31,12.</ls> <ls>SUŚR. 1,174,11.</ls> <ls n="SUŚR.">2,107,5.</ls> <ls>KĀM. NĪTIS. 13,91.</ls> <ls>RAGH. 2,75.</ls> <ls>Spr. (II) 7238.</ls> <ls>VARĀH. BṚH. S. 5,94. 46,21.</ls> <ls>MĀRK. P. 109,32.</ls> {#Ka°#} {%sich zeigend in%}
+<ls>MBH. 5,7196.</ls> {#sOmyakAzWA°#}
+<ls>VARĀH. BṚH. S. 24,24.</ls> {#skandaviSAKa° (vEkfta)#}
+<ls n="VARĀH. BṚH. S.">46,11.</ls> {#avayava°#}
+<ls>SUŚR. 2,132,20.</ls> {#svaSarIra°#}
+<ls>Spr. (II) 6159.</ls>
+<ls>KATHĀS. 5,140.</ls> {#PAlgunaSukla°#}
+<ls>VARĀH. BṚH. S. 21,11.</ls> {#SaratsamutTa#}
+<ls n="VARĀH. BṚH. S.">40,12.</ls> {#eka° (prARa)#} so v. a. {%ein einmaliger Athemzug%} Comm. zu
+<ls>TS. PRĀT. 5,1.</ls>
 <div n="v">— Vgl. {#sva°#} .
 <LEND>

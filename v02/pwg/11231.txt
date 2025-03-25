@@ -1,105 +1,104 @@
 <L>11231<pc>1-0913<k1>udaya<k2>udaya/
-{#udaya/#}¦ (von 3. {#i#} mit {#ud#}) 
-<div n="1"> 1) <lex>adj.</lex> {%nachfolgend%} (gramm.): {#uttamAnuttamezUdayezu#} 
-<ls>ṚV. PRĀT. 4, 1.</ls> <ls n="ṚV. PRĀT. 4,">2.</ls> <ls n="ṚV. PRĀT.">2, 16.</ls> <ls n="ṚV. PRĀT.">3, 6.</ls> {#udayaSabdaH paraSabdasamAnArTaH prAtiSAKyezu prasidDaH#} 
-<ls>P. 8, 4, 67,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%das in - die - Höhe - Gehen, Erhebung%} 
-<ls>TRIK. 3, 3, 307.</ls> 
-<ls>H. 1431.</ls> 
-<ls>an. 3, 483.</ls> 
-<ls>MED. y. 74.</ls> {#udayaH sAgarasyeva parvakAle#} 
-<ls>R. 4, 34, 32.</ls> 
-<div n="2">— b) {%Aufgang%} (von Gestirnen), {%Aufzug%} (von Wolken): {#purAdityasyodayAt#} 
-<ls>ŚAT. BR. 13, 8, 3, 2. 3, 2, 2, 26.</ls> {#paryudayam#} {%um Sonnenaufgang%} 
-<ls>KĀTY. ŚR. 4, 15, 12.</ls> 
-<ls>AIT. BR. 5, 30. 31.</ls> 
-<ls>ĀŚV. GṚHY. 4, 6.</ls> 
-<ls>GṚHYASAṂGR. 1, 77.</ls> {#sUryodaye#} 
-<ls>N. 18, 24.</ls> 
-<ls>VET. 26, 8.</ls> {#candrodaya#} 
-<ls>RAGH. 12, 36.</ls> {#navodayaM nATamivOzaDInAm#} 
-<ls>2, 73.</ls> {#tejodvayasya#} ({%der Sonne und des Mondes%}) {#yugapadvyasanodayAByAm#} 
-<ls>ŚĀK. 77.</ls> {#aruRodaye#} {%beim Anbruch der Morgenröthe%} 
-<ls>M. 10, 33.</ls> 
-<ls>R. 2, 71, 17.</ls> {#ahAnyastamayAntAni udayAntA ca SarvarI#} 
-<ls>MBH. 14, 1229.</ls> {#rASInAm#} 
-<ls>AK. 1, 1, 2, 29.</ls> 
-<ls>TRIK. 3, 3, 257.</ls> 
-<ls>H. 116.</ls> {#meGodaya#} 
-<ls>N.</ls> <ls>?(BOPP) 21, 7, v. l.</ls> {#GanodayaH prAktadanantaraM payaH#} 
-<ls>ŚĀK. 189.</ls> {#apameGodayaM varzam#} 
-<ls>KUMĀRAS. 6, 54.</ls> Vgl. {#akAlajaladodaya, akAlameGodaya#} . 
-<div n="2">— c) N. eines Berges im Osten, hinter dem man Sonne und Mond {%aufgehen%} lässt, 
-<ls>AK. 2, 3, 2.</ls> 
-<ls>TRIK. 3, 3, 107.</ls> 
-<ls>H. 1027.</ls> 
-<ls>an. 3, 483.</ls> 
-<ls>MED. y. 74.</ls> {#udayAduditaM dIptaM jvAlApiRqasamapraBam . Adityam#} 
-<ls>R. 4, 58, 5. 37, 27. 40, 55. 69. 60, 8.</ls> 
-<ls>HARIV. 11448. 12834.</ls> {#udayasTa ivAMSumAn#} 
-<ls>12976.</ls> <ls>VID. 166.</ls> {#udayagiri#} 
-<ls>HIT. Pr. 46.</ls> {#udayaparvata#} 
-<ls>HARIV. 12381.</ls> 
-<ls>VID. 173.</ls> 
-<ls>KATHĀS. 9, 55.</ls> {#udayaSEla#} 
-<ls>9, 90.</ls> {#udayAcala#} 
-<ls>64.</ls> {#udayAdri#} 
-<ls>86. 88.</ls> <ls>VID. 280.</ls> 
-<div n="2">— d) {%Ausgang, das Hervortreten, Entstehung, das Sichtbarwerden, zur - Erscheinung - Kommen, Entfaltung%}: {#sinDU^nA\mupo^da\ye#} 
-<ls>ṚV. 8, 41, 2.</ls> {#vIjANkuraH prAgudayAt#} 
-<ls>KUMĀRAS. 3, 18.</ls> {#lalAwodayam - biBratI SvetaromANkam#} 
-<ls>RAGH. 1, 83.</ls> {#nayanayostAmbUlarAgodayaH#} 
-<ls>AMAR. 88.</ls> 
-<ls>ŚĀK. 167.</ls> {#(indriyARAm) udayAstamayO#} 
-<ls>KAṬHOP. 6, 6.</ls> {#svapnAvaboDO BUtAnAM tAveva pralayodayO#} 
-<ls>KUMĀRAS. 2, 8.</ls> {#kAlodaye#} 
-<ls>MBH. 3, 12594.</ls> {#hasitamanyanimittakftodayam#} 
-<ls>ŚĀK. 44.</ls> {#kroDasya kutrodayaH#} 
-<ls>PRAB. 75, 13.</ls> {#yo dAturBavatyUrDvaM PalodayaH#} 
-<ls>M. 3, 169. 11, 231. 12, 30. 82.</ls> 
-<ls>YĀJÑ. 1, 343.</ls> 
-<ls>R. 4, 42, 10.</ls> 
-<ls>RAGH. 1, 5.</ls> {#kfcCre 'pi vyasanodaye#} 
-<ls>PAÑCAT. III, 254.</ls> {#vivekodaya#} 
-<ls>ŚĀNTIŚ. 2</ls> in der Unterschr. {#suhfdvargasya BAgyodayEH#} 
-<ls>AMAR. 25.</ls> {#prAkASyaM svaguRodayena guRino gacCanti#} 
-<ls>PAÑCAT. I, 107.</ls> {#AryatA#} u. s. w. {#satatamudAsInaguRodayaH#} 
-<ls>M. 7, 211.</ls> {#dozavegodaye#} (Gegens. {#hAnO#}) 
-<ls>SUŚR. 2, 354, 9. 405, 19.</ls> {#nirastasuKodayA#} 
-<ls>AMAR. 96.</ls> 
-<div n="2">— e) {%Ausgang, Erfolg, Folge%}: {#udayaM tasya kAryasya pratyavedayat#} 
-<ls>MBH. 3, 16218.</ls>
+{#udaya/#}¦ (von 3. {#i#} mit {#ud#})
+<div n="1"> 1) <lex>adj.</lex> {%nachfolgend%} (gramm.): {#uttamAnuttamezUdayezu#}
+<ls>ṚV. PRĀT. 4,1.</ls> <ls n="ṚV. PRĀT. 4,">2.</ls> <ls n="ṚV. PRĀT.">2,16.</ls> <ls n="ṚV. PRĀT.">3,6.</ls> {#udayaSabdaH paraSabdasamAnArTaH prAtiSAKyezu prasidDaH#}
+<ls>P. 8,4,67</ls>, <ls>Sch.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) {%das in — die — Höhe — Gehen, Erhebung%}
+<ls>TRIK. 3,3,307.</ls>
+<ls>H. 1431.</ls>
+<ls>an. 3,483.</ls>
+<ls>MED. y. 74.</ls> {#udayaH sAgarasyeva parvakAle#}
+<ls>R. 4,34,32.</ls>
+<div n="2">— b) {%Aufgang%} (von Gestirnen), {%Aufzug%} (von Wolken): {#purAdityasyodayAt#}
+<ls>ŚAT. BR. 13,8,3,2.</ls> <ls n="ŚAT. BR.">3,2,2,26.</ls> {#paryudayam#} {%um Sonnenaufgang%}
+<ls>KĀTY. ŚR. 4,15,12.</ls>
+<ls>AIT. BR. 5,30. 31.</ls>
+<ls>ĀŚV. GṚHY. 4,6.</ls>
+<ls>GṚHYASAṂGR. 1,77.</ls> {#sUryodaye#}
+<ls>N. 18,24.</ls>
+<ls>VET. 26,8.</ls> {#candrodaya#}
+<ls>RAGH. 12,36.</ls> {#navodayaM nATamivOzaDInAm#}
+<ls n="RAGH.">2,73.</ls> {#tejodvayasya#} ({%der Sonne und des Mondes%}) {#yugapadvyasanodayAByAm#}
+<ls>ŚĀK. 77.</ls> {#aruRodaye#} {%beim Anbruch der Morgenröthe%}
+<ls>M. 10,33.</ls>
+<ls>R. 2,71,17.</ls> {#ahAnyastamayAntAni udayAntA ca SarvarI#}
+<ls>MBH. 14,1229.</ls> {#rASInAm#}
+<ls>AK. 1,1,2,29.</ls>
+<ls>TRIK. 3,3,257.</ls>
+<ls>H. 116.</ls> {#meGodaya#}
+<ls>N. (BOPP) 21,7, v. l.</ls> {#GanodayaH prAktadanantaraM payaH#}
+<ls>ŚĀK. 189.</ls> {#apameGodayaM varzam#}
+<ls>KUMĀRAS. 6,54.</ls> Vgl. {#akAlajaladodaya, akAlameGodaya#} .
+<div n="2">— c) N. eines Berges im Osten, hinter dem man Sonne und Mond {%aufgehen%} lässt,
+<ls>AK. 2,3,2.</ls>
+<ls>TRIK. 3,3,107.</ls>
+<ls>H. 1027.</ls>
+<ls>an. 3,483.</ls>
+<ls>MED. y. 74.</ls> {#udayAduditaM dIptaM jvAlApiRqasamapraBam . Adityam#}
+<ls>R. 4,58,5.</ls> <ls n="R. 4,">37,27.</ls> <ls n="R. 4,">40,55.</ls> <ls n="R. 4,40,">69.</ls> <ls n="R. 4,">60,8.</ls>
+<ls>HARIV. 11448.</ls> <ls n="HARIV.">12834.</ls> {#udayasTa ivAMSumAn#}
+<ls n="HARIV.">12976.</ls> <ls>VID. 166.</ls> {#udayagiri#}
+<ls>HIT. Pr. 46.</ls> {#udayaparvata#}
+<ls>HARIV. 12381.</ls>
+<ls>VID. 173.</ls>
+<ls>KATHĀS. 9,55.</ls> {#udayaSEla#}
+<ls n="KATHĀS.">9,90.</ls> {#udayAcala#}
+<ls n="KATHĀS. 9,">64.</ls> {#udayAdri#}
+<ls n="KATHĀS. 9,">86.</ls> <ls n="KATHĀS. 9,">88.</ls> <ls>VID. 280.</ls>
+<div n="2">— d) {%Ausgang, das Hervortreten, Entstehung, das Sichtbarwerden, zur — Erscheinung — Kommen, Entfaltung%}: {#sinDU^nA\mupo^da\ye#}
+<ls>ṚV. 8,41,2.</ls> {#vIjANkuraH prAgudayAt#}
+<ls>KUMĀRAS. 3,18.</ls> {#lalAwodayam — biBratI SvetaromANkam#}
+<ls>RAGH. 1,83.</ls> {#nayanayostAmbUlarAgodayaH#}
+<ls>AMAR. 88.</ls>
+<ls>ŚĀK. 167.</ls> {#(indriyARAm) udayAstamayO#}
+<ls>KAṬHOP. 6,6.</ls> {#svapnAvaboDO BUtAnAM tAveva pralayodayO#}
+<ls>KUMĀRAS. 2,8.</ls> {#kAlodaye#}
+<ls>MBH. 3,12594.</ls> {#hasitamanyanimittakftodayam#}
+<ls>ŚĀK. 44.</ls> {#kroDasya kutrodayaH#}
+<ls>PRAB. 75,13.</ls> {#yo dAturBavatyUrDvaM PalodayaH#}
+<ls>M. 3,169.</ls> <ls n="M.">11,231.</ls> <ls n="M.">12,30.</ls> <ls n="M. 12,">82.</ls>
+<ls>YĀJÑ. 1,343.</ls>
+<ls>R. 4,42,10.</ls>
+<ls>RAGH. 1,5.</ls> {#kfcCre 'pi vyasanodaye#}
+<ls>PAÑCAT. III,254.</ls> {#vivekodaya#}
+<ls>ŚĀNTIŚ. 2</ls> in der Unterschr. {#suhfdvargasya BAgyodayEH#}
+<ls>AMAR. 25.</ls> {#prAkASyaM svaguRodayena guRino gacCanti#}
+<ls>PAÑCAT. I,107.</ls> {#AryatA#} u. s. w. {#satatamudAsInaguRodayaH#}
+<ls>M. 7,211.</ls> {#dozavegodaye#} (Gegens. {#hAnO#})
+<ls>SUŚR. 2,354,9. 405,19.</ls> {#nirastasuKodayA#}
+<ls>AMAR. 96.</ls>
+<div n="2">— e) {%Ausgang, Erfolg, Folge%}: {#udayaM tasya kAryasya pratyavedayat#}
+<ls>MBH. 3,16218.</ls>
 [Page1-0914]
-{#prAramBasadfSodayaH#} 
-<ls>RAGH. 1, 15.</ls> {#IpsitaM BarturupasTitodayam#} 
-<ls>3, 1.</ls> {#udAttasvaritodaya#} {%worauf ein%} <is>Udātta</is> oder <is>Svarita</is> {%folgt%} 
-<ls>P. 8, 4, 67.</ls> {#(karma) asuKodayam#} 
-<ls>M. 4, 70.</ls> {#nalopAKyAnamatrEva DarmizWaM karuRodayam#} {%Mitleid erregend%} 
-<ls>MBH. 1, 436.</ls> {#so 'yamaByAgataH kAlo BavitA me suKodayaH#} 
-<ls>6047.</ls> {#yuvAM ca kurutaM budDiM BavedyA naH suKodayA#} 
-<ls>7439.</ls> <ls>AMAR. 42.</ls> 
-<div n="2">— f) {%das Emporkommen, das zum-Ziele-Gelangen, Aufschwung%}: {#tavodaye#} 
-<ls>KATHĀS. 4, 112. 6, 161.</ls> {#udayamastamayaM ca raGUdvahAduBayamAnaSire vasuDADipAH#} 
-<ls>RAGH. 9, 9.</ls> {#tamudayAya - yatamAnam#} 
-<ls>7.</ls> {#udayApavargayoH#} 
-<ls>8, 23.</ls> 
-<div n="2">— g) {%Gewinn, Vortheil; Einkommen, Einkünfte%} 
-<ls>AK. 3, 4, 71.</ls> {#na codayApAyakaraH#} 
-<ls>ṚV. PRĀT. 11, 34.</ls> {#aTa vA marzayizyAmi kroDamadya niSAmimAm . gfhyatAmudayaH svEraM kAmaBogezu vAnara ..#} 
-<ls>R. 4, 9, 69.</ls> {#rAjyaM mahodayam#} 
-<ls>M. 7, 55.</ls> {#yAsAM strIRAM priyo BartA tAsAM lokA mahodayAH#} 
-<ls>R. 3, 2, 22. 8, 20.</ls> {#brAhmaRastu parikzIRaH SanErdApyo yaTodayam#} {%im Verhältniss zu seinem Erwerb%} 
-<ls>YĀJÑ. 2, 43.</ls> {%Zinsen%}: {#dApyastaM cApi sodayam#} 
-<ls>67.</ls> {#vyayaM dadyAcca sodayam#} 
-<ls>146.</ls> 
-<div n="2">— h) {%Ausgang (der Ort, durch welchen man ausgeht)%}: {#pihitApaRodayA (ayoDyA)#} 
-<ls>R. 2, 48, 29.</ls> 
-<div n="2">— i) N. pr. des 7ten <is>Arhant</is> der zukünftigen <is>Utsarpiṇī</is> 
-<ls>H. 54.</ls> — = <is>Udayāśva</is> 
-<ls>VP. 467,</ls> 
-<ls>N. 15.</ls> — ein Sohn <is>Yājñika's</is> 
-<ls>Verz. d. B. H. No. 246.</ls> — ein Zuhörer <is>Śākyamuni's</is> 
+{#prAramBasadfSodayaH#}
+<ls>RAGH. 1,15.</ls> {#IpsitaM BarturupasTitodayam#}
+<ls n="RAGH.">3,1.</ls> {#udAttasvaritodaya#} {%worauf ein%} <is>Udātta</is> oder <is>Svarita</is> {%folgt%}
+<ls>P. 8,4,67.</ls> {#(karma) asuKodayam#}
+<ls>M. 4,70.</ls> {#nalopAKyAnamatrEva DarmizWaM karuRodayam#} {%Mitleid erregend%}
+<ls>MBH. 1,436.</ls> {#so 'yamaByAgataH kAlo BavitA me suKodayaH#}
+<ls n="MBH. 1,">6047.</ls> {#yuvAM ca kurutaM budDiM BavedyA naH suKodayA#}
+<ls n="MBH. 1,">7439.</ls> <ls>AMAR. 42.</ls>
+<div n="2">— f) {%das Emporkommen, das zum-Ziele-Gelangen, Aufschwung%}: {#tavodaye#}
+<ls>KATHĀS. 4,112.</ls> <ls n="KATHĀS.">6,161.</ls> {#udayamastamayaM ca raGUdvahAduBayamAnaSire vasuDADipAH#}
+<ls>RAGH. 9,9.</ls> {#tamudayAya — yatamAnam#}
+<ls n="RAGH. 9,">7.</ls> {#udayApavargayoH#}
+<ls n="RAGH.">8,23.</ls>
+<div n="2">— g) {%Gewinn, Vortheil; Einkommen, Einkünfte%}
+<ls>AK. 3,4,71.</ls> {#na codayApAyakaraH#}
+<ls>ṚV. PRĀT. 11,34.</ls> {#aTa vA marzayizyAmi kroDamadya niSAmimAm . gfhyatAmudayaH svEraM kAmaBogezu vAnara ..#}
+<ls>R. 4,9,69.</ls> {#rAjyaM mahodayam#}
+<ls>M. 7,55.</ls> {#yAsAM strIRAM priyo BartA tAsAM lokA mahodayAH#}
+<ls>R. 3,2,22.</ls> <ls n="R. 3,">8,20.</ls> {#brAhmaRastu parikzIRaH SanErdApyo yaTodayam#} {%im Verhältniss zu seinem Erwerb%}
+<ls>YĀJÑ. 2,43.</ls> {%Zinsen%}: {#dApyastaM cApi sodayam#}
+<ls n="YĀJÑ. 2,">67.</ls> {#vyayaM dadyAcca sodayam#}
+<ls n="YĀJÑ. 2,">146.</ls>
+<div n="2">— h) {%Ausgang (der Ort, durch welchen man ausgeht)%}: {#pihitApaRodayA (ayoDyA)#}
+<ls>R. 2,48,29.</ls>
+<div n="2">— i) N. pr. des 7ten <is>Arhant</is> der zukünftigen <is>Utsarpiṇī</is>
+<ls>H. 54.</ls> — = <is>Udayāśva</is>
+<ls>VP. 467</ls>,
+<ls>N. 15.</ls> — ein Sohn <is>Yājñika's</is>
+<ls>Verz. d. B. H. No. 246.</ls> — ein Zuhörer <is>Śākyamuni's</is>
 <ls>VYUTP. 32.</ls>
 <LEND>

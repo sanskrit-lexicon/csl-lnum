@@ -1,22 +1,22 @@
 <L>15533<pc>475<k1>not<k2>not
-<div n="lb"/>{@NOT:@}¦ <div n="1">(1) {#na,#} {%there the sun does n. shine, the%} [Page476]
-<div n="lb"/>{%moon does n. gleam:%} {#na tatra sUryastapati na virAjati #}
-<div n="lb"/>{# candramAH,#} Mat.; ({%it is%}) {%lightning n. my darling%}
-<div n="lb"/>{%Urvaśī..%} {#vidyut, priyA mama norvaSI,#} V.; {%there was%}
-<div n="lb"/>{%n. a%} ({%single%}) {%prince of high birth who did n. go:%}
-<div n="lb"/>{#nAsIdagantA kulajaH kumAraH,#} N.x. 2.; {%n. that he%}
-<div n="lb"/>{%was n. beautiful nor that she did n. know to%}
-<div n="lb"/>{%see well:%} {#nAsO na kAmyo na ca veda samyag drazwuM na sA,#}
-<div n="lb"/>R. vi. 30.; {%n. so much.. as:%} {#na taTA.. yaTA,#} Ki.
-<div n="lb"/>xiii. 32.; {%n. only with (their) hearts:%} {#na kevalaM #}
-<div n="lb"/>{# hfdayena,#} N. xi. 2.; {%n. even death can strike on%}
-<div n="lb"/>{%me:%} {#praBuH prahartuM mayi nAntako'pi,#} R. ii. 62.;
-<div n="lb"/>{%for .. n.%} : {#nahiH#} : v. For; </div><div n="1">(2) {#mA#} (prohibitive),
-<div n="lb"/><div n="xe">{%do n. boast of wealth, men or youth:%}</div> <div n="xs">{#mA kurU #}
-<div n="lb"/>{# DanajanayOvanagarvam,#}</div> J.; <div n="xe">{%let n. your sense-horses carry%}
-<div n="lb"/>{%you astray:%}</div> <div n="xs">{#mA BUvannapaTaharAstavendriyASvAH,#}</div> Ki. v.
-<div n="lb"/>50.; </div><div n="1">(3) {#a-,#} ({#an-,#} before vowels) <div n="xe">{%or%}</div> <div n="xs">{#nir-,#}</div>
-<div n="lb"/>in comp., <div n="xe">{%n. able:%}</div> <div n="xs">{#aSakta#}</div> (f. {#ktA#}); {%n. kind:%}
-<div n="lb"/>{#nirdayaH#} ({#yA, yaM#}); <div n="xe">{%there is nothing mine which is%}
-<div n="lb"/>{%n. yours:%}</div> <div n="xs">{#aBavadIyaM nEva kiYcinmatsambadDam,#}</div> D.</div>
+{@NOT:@}¦ <div n="1">(1) {#na,#} {%there the sun does n. shine, the%} [Page476]
+{%moon does n. gleam:%} {#na tatra sUryastapati na virAjati #}
+{# candramAH,#} Mat.; ({%it is%}) {%lightning n. my darling%}
+{%Urvaśī..%} {#vidyut, priyA mama norvaSI,#} V.; {%there was%}
+{%n. a%} ({%single%}) {%prince of high birth who did n. go:%}
+{#nAsIdagantA kulajaH kumAraH,#} N.x. 2.; {%n. that he%}
+{%was n. beautiful nor that she did n. know to%}
+{%see well:%} {#nAsO na kAmyo na ca veda samyag drazwuM na sA,#}
+R. vi. 30.; {%n. so much.. as:%} {#na taTA.. yaTA,#} Ki.
+xiii. 32.; {%n. only with (their) hearts:%} {#na kevalaM #}
+{# hfdayena,#} N. xi. 2.; {%n. even death can strike on%}
+{%me:%} {#praBuH prahartuM mayi nAntako'pi,#} R. ii. 62.;
+{%for .. n.%} : {#nahiH#} : v. For; </div><div n="1">(2) {#mA#} (prohibitive),
+<div n="xe">{%do n. boast of wealth, men or youth:%}</div> <div n="xs">{#mA kurU #}
+{# DanajanayOvanagarvam,#}</div> J.; <div n="xe">{%let n. your sense-horses carry%}
+{%you astray:%}</div> <div n="xs">{#mA BUvannapaTaharAstavendriyASvAH,#}</div> Ki. v.
+50.; </div><div n="1">(3) {#a-,#} ({#an-,#} before vowels) <div n="xe">{%or%}</div> <div n="xs">{#nir-,#}</div>
+in comp., <div n="xe">{%n. able:%}</div> <div n="xs">{#aSakta#}</div> (f. {#ktA#}); {%n. kind:%}
+{#nirdayaH#} ({#yA, yaM#}); <div n="xe">{%there is nothing mine which is%}
+{%n. yours:%}</div> <div n="xs">{#aBavadIyaM nEva kiYcinmatsambadDam,#}</div> D.</div>
 <LEND>

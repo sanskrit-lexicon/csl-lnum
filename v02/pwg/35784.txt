@@ -1,17 +1,17 @@
 <L>35784<pc>3-0837<k1>dvirada<k2>dvirada
-{#dvirada#}¦ ({#dvi + rada#}) 
-<div n="1"> 1) <lex>adj.</lex> {%zweizähnig%} 
-<ls>H. 1263.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%Elephant%} 
-<ls>AK. 2, 8, 2, 2.</ls> 
-<ls>H. 1217.</ls> 
-<ls>MBH. 1, 5471. 2, 819. 826. 13, 4048. fg.</ls> 
-<ls>R. 4, 9, 62. 43, 39.</ls> 
-<ls>SUŚR. 2, 522, 2.</ls> 
-<ls>MṚCCH. 1, 12.</ls> 
-<ls>RAGH. 4, 4.</ls> 
-<ls>MEGH. 60.</ls> 
-<ls>KATHĀS. 11, 10.</ls> 
-<ls>BHĀG. P. 3, 18, 7.</ls> {#°pati#} 
-<ls>5, 20, 39.</ls>
+{#dvirada#}¦ ({#dvi + rada#})
+<div n="1"> 1) <lex>adj.</lex> {%zweizähnig%}
+<ls>H. 1263.</ls>
+<div n="1">— 2) <lex>m.</lex> {%Elephant%}
+<ls>AK. 2,8,2,2.</ls>
+<ls>H. 1217.</ls>
+<ls>MBH. 1,5471.</ls> <ls n="MBH.">2,819.</ls> <ls n="MBH. 2,">826.</ls> <ls n="MBH.">13,4048. fg.</ls>
+<ls>R. 4,9,62.</ls> <ls n="R. 4,">43,39.</ls>
+<ls>SUŚR. 2,522,2.</ls>
+<ls>MṚCCH. 1,12.</ls>
+<ls>RAGH. 4,4.</ls>
+<ls>MEGH. 60.</ls>
+<ls>KATHĀS. 11,10.</ls>
+<ls>BHĀG. P. 3,18,7.</ls> {#°pati#}
+<ls n="BHĀG. P.">5,20,39.</ls>
 <LEND>

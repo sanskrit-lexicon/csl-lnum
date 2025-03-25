@@ -1,6 +1,6 @@
 <L>8130<pc>199,2<k1>kula<k2>kula
 {@kula-@}¦ <ab>nt.</ab> troupe, essaim, foule, quantité ; race, famille, communauté,
-tribu, caste ; domicile d'une communauté, maison familiale <lbinfo n="5"/>, maison ; famille
+tribu, caste ; domicile d'une communauté, maison familiale, <lbinfo n="5"/> maison ; famille
 noble, noblesse ; {%-ka-%} <ab>ifc.</ab> multitude ; <ab>m.</ab> <ab>pl.</ab> <ab>n.</ab> des Śūdra dans le
 Kuśadvīpa ; {%-vant-%} <ab>a.</ab> appartenant à une famille noble.
 
@@ -42,7 +42,7 @@ dans chaque Varṣa.
 
 <P>{%°devī-%} ({%-i-%}) <ab>f.</ab> <ab>ép.</ab> de Durgā.
 
-<P>{%°daiva-%} <ab>nt.</ab> destinée familiale, divinité familiale <lbinfo n="5"/>.
+<P>{%°daiva-%} <ab>nt.</ab> destinée familiale, divinité familiale. <lbinfo n="5"/>
 
 <P>{%°dhana-%} <ab>nt.</ab> trésor (le plus précieux) de la famille ; <ab>a.</ab> dont la
 richesse consiste dans la bonne renommée de sa famille ou dans sa noble
@@ -62,7 +62,7 @@ naissance.
 
 <P>{%°patana-%} <ab>nt.</ab> déchéance, disgrâce d'une famille.
 
-<P>{%°pati-%} <ab>m.</ab> chef de famille, chef d'une communauté <lbinfo n="7"/>.
+<P>{%°pati-%} <ab>m.</ab> chef de famille, chef d'une communauté. <lbinfo n="7"/>
 
 <P>{%°pāṃsana-%} <ab>a.</ab> qui déshonore une famille ; {%°pāṃsin- °pāṃsula-%}
 <ab>id.</ab>
@@ -72,7 +72,7 @@ naissance.
 <P>{%°pālin-%} <ab>a.</ab> qui défend l'honneur de la famille.
 
 <P>{%°putra-%} <ab>m.</ab> fils de bonne famille, jeune homme respectable ; {%-ka-%} <ab>id.</ab>
-; {%-tā-%} <ab>f.</ab> noblesse ;
+ ; {%-tā-%} <ab>f.</ab> noblesse ;
 
 <P>{%°putra-jana-%} <ab>m.</ab> jeune homme de bonne famille.
 
@@ -104,12 +104,12 @@ naissance.
 
 <P>{%°vṛddha-%} <ab>m.</ab> doyen, chef de famille.
 
-<P>{%°vrata-%} <ab>nt.</ab> voeu familial, tradition familiale <lbinfo n="5"/>.
+<P>{%°vrata-%} <ab>nt.</ab> vœu familial, tradition familiale. <lbinfo n="5"/>
 
 <P>{%°śikharin-%} <ab>m.</ab> = {%°giri- ; °śaila-%} <ab>id.</ab>
 
 <P>{%°saṃkhyā-%} <ab>f.</ab> fait d'être compté au nombre des familles honorables,
-respectabilité familiale <lbinfo n="5"/>.
+respectabilité familiale. <lbinfo n="5"/>
 
 <P>{%°saṃtati-%} <ab>f.</ab> propagation d'une famille, descendance.
 

@@ -1,17 +1,17 @@
 <L>79622<pc>422,2<k1>jIv<k2>jIv<e>1
-<s>jIv</s> ¦ <ab>cl.</ab> 1. <s>jI/vati</s> (<ab>ep.</ab> also <ab>Ā.</ab>; <ab>Subj.</ab> <s>°vAti</s>, <ls>RV. x, 85, 39</ls>; <ls>AV.</ls>; <s>°vAt</s>, <ls>RV. i, 84, 16</ls>; <ab>p.</ab> <s>jI/vat</s>; <ab>aor.</ab> <s>ajivIt</s>; <s>jIvIt</s>, <ls>AV.</ls>; <ab>pf.</ab> <s>jijIva</s>; <ab>fut.</ab> <s>jIvizya/ti</s>; <ab>Prec.</ab> <s>°vyA/sam</s>, <s>°vyAsma</s>, <ls>AV.</ls>; <ls>ŚBr.</ls>; <ab>inf.</ab> <s>jI/vitum</s>, <ls>xiv</ls>; <ls>MBh.</ls> &c.; <ab>Ved.</ab> <s>°vA<srs/>se</s>, <ls>RV.</ls>; <ls>VS.</ls>; <ls>MBh. i, 732</ls>; <s>jI/vitavE/</s>, <ls>AV. vi, 109, 1</ls>) 
+<s>jIv</s> ¦ <ab>cl.</ab> 1. <s>jI/vati</s> (<lang>ep.</lang> also <ab>Ā.</ab>; <ab>Subj.</ab> <s>°vAti</s>, <ls>RV. x, 85, 39</ls>; <ls>AV.</ls>; <s>°vAt</s>, <ls>RV. i, 84, 16</ls>; <ab>p.</ab> <s>jI/vat</s>; <ab>aor.</ab> <s>ajivIt</s>; <s>jIvIt</s>, <ls>AV.</ls>; <ab>pf.</ab> <s>jijIva</s>; <ab>fut.</ab> <s>jIvizya/ti</s>; <ab>Prec.</ab> <s>°vyA/sam</s>, <s>°vyAsma</s>, <ls>AV.</ls>; <ls>ŚBr.</ls>; <ab>inf.</ab> <s>jI/vitum</s>, <ls n="ŚBr.">xiv</ls>; <ls>MBh.</ls> &c.; <lang>Ved.</lang> <s>°vA<srs/>se</s>, <ls>RV.</ls>; <ls>VS.</ls>; <ls>MBh. i, 732</ls>; <s>jI/vitavE/</s>, <ls>AV. vi, 109, 1</ls>)
 <div n="to"/>to live, be or remain alive, <ls>RV.</ls> &c.;
 <div n="to"/>to revive, <ls>Pañcat. iv, 5, 0/1</ls>; <ls>BhP. iv, 6, 51</ls>;
 <div n="vp"/> (with <s>punar</s>), <ls>MBh.</ls>;
-<div n="to"/>to live by (<ab>instr.</ab>; exceptionally <ab>loc.</ab>, <ls>v, 1059f.</ls>), <ls>Mn.</ls>; <ls>Pāṇ. 4-4, 12</ls>; <ls>MBh.</ls> &c.:
-<div n="vp"/><ab>Caus.</ab> <s>jIva/yati</s> (<ab>ep.</ab> also <ab>Ā.</ab>; <ab>aor.</ab> <s>ajIjivat</s> or <s>ajijIv°</s>, <ls>Pāṇ. 7-4, 3</ls>) 
+<div n="to"/>to live by (<ab>instr.</ab>; exceptionally <ab>loc.</ab>, <ls n="MBh.">v, 1059 f.</ls>), <ls>Mn.</ls>; <ls>Pāṇ. iv, 4, 12</ls>; <ls>MBh.</ls> &c.:
+<div n="vp"/><ab>Caus.</ab> <s>jIva/yati</s> (<lang>ep.</lang> also <ab>Ā.</ab>; <ab>aor.</ab> <s>ajIjivat</s> or <s>ajijIv°</s>, <ls>Pāṇ. vii, 4, 3</ls>)
 <div n="to"/>to make alive, restore to life, vivify, <ls>RV. x, 137, 1</ls>; <ls>ĀśvŚr. vi, 9</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to support life, keep alive, <ls>MBh.</ls> &c.;
-<div n="to"/>to nourish, bring up, <ls>i, xiii</ls>; <ls>Kathās. iii, 17 f.</ls>; <ls>Rājat. v, 72</ls>;
+<div n="to"/>to nourish, bring up, <ls n="MBh.">i</ls>, <ls n="MBh.">xiii</ls>; <ls>Kathās. iii, 17 f.</ls>; <ls>Rājat. v, 72</ls>;
 <div n="to"/>to shout ‘<s>jIva</s>’ (<ab>i.e.</ab> long live!), <ls>Kathās. cxxiv, 113</ls>;
 <div n="to"/> <s>jIvApayati</s> (<ab>cf.</ab> <s>°pita</s>) to restore to life, <ls>Vet. ii, 9/10</ls> :
-<div n="to"/><ab>Desid.</ab> <s>jijIvizati</s> (<ab>Ā.</ab> <ls>BhP. xi, 7, 70</ls>) to wish to live, <ls>KātyŚr. xxii</ls>; <ls>Lāṭy. viii</ls>; <ls>ĪśUp.</ls>; <ls>MBh.</ls> &c.;
+<div n="vp"/><ab>Desid.</ab> <s>jijIvizati</s> (<ab>Ā.</ab> <ls>BhP. xi, 7, 70</ls>) to wish to live, <ls>KātyŚr. xxii</ls>; <ls>Lāṭy. viii</ls>; <ls>ĪśUp.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to seek a livelihood, wish to live by (<ab>instr.</ab>), <ls>Mn. x, 121</ls>; <ls>MBh. v, 702</ls>;
-<div n="vp"/> <s>ju/jyUzati</s> <ab>id.</ab>, <ls>ŚBr. iii, 2, 4, 16 and 5, 3, 11</ls>;
+<div n="vp"/> <s>ju/jyUzati</s> <ab>id.</ab>, <ls>ŚBr. iii, 2, 4, 16</ls> and <ls n="ŚBr. iii,">5, 3, 11</ls>;
 <div n="vp"/> <ab>cf.</ab> <s>jijyUzita</s>; <info whitneyroots="jIv,54"/><info verb="genuineroot" cp="1Ā"/>
 <LEND>

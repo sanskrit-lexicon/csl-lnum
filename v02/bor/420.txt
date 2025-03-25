@@ -1,7 +1,7 @@
 <L>420<pc>016<k1>afloat<k2>afloat
-<div n="lb"/>{@AFLOAT:@}¦ {#plavamAnaH#} ({#nA, naM#}), {%or%} by the verb; <div n="xe">{%I%}
-<div n="lb"/>{%was a. for the day and the whole night%}</div> <div n="xs">{#tAvadaplozi #}
-<div n="lb"/>{# yAvadapAsaradvAsaraH SarvarI ca sarvA,#}</div> <ls>D.</ls> vi. Fig.: <div n="xe">{%the%}
-<div n="lb"/>{%rumour is a.%}</div> <div n="xs">{#bahulIBUto'yamarTaH,#}</div> Sa. vi.: v. To
-<div n="lb"/>get abroad.
+{@AFLOAT:@}¦ {#plavamAnaH#} ({#nA, naM#}), {%or%} by the verb; <div n="xe">{%I%}
+{%was a. for the day and the whole night%}</div> <div n="xs">{#tAvadaplozi #}
+{# yAvadapAsaradvAsaraH SarvarI ca sarvA,#}</div> <ls>D.</ls> vi. Fig.: <div n="xe">{%the%}
+{%rumour is a.%}</div> <div n="xs">{#bahulIBUto'yamarTaH,#}</div> Sa. vi.: v. To
+get abroad.
 <LEND>

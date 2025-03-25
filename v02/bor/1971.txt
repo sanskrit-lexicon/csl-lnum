@@ -1,5 +1,5 @@
 <L>1971<pc>069<k1>bestower<k2>bestower
-<div n="lb"/>{@BESTOWER:@}¦ <div n="1">(1) {#dAtf#} <div n="xe">{%or%}</div> <div n="xs">{#pradAtf#}</div> (f. {#trI#}); </div><div n="1">(2) {#da#} {%or%}
-<div n="lb"/>{#prada#} (f. {#dA#}), in comp.; <div n="xe">{%b. of money%}</div> <div n="xs">{#DanadaH#}</div>
-<div n="lb"/>({#dA, daM#}).</div>
+{@BESTOWER:@}¦ <div n="1">(1) {#dAtf#} <div n="xe">{%or%}</div> <div n="xs">{#pradAtf#}</div> (f. {#trI#}); </div><div n="1">(2) {#da#} {%or%}
+{#prada#} (f. {#dA#}), in comp.; <div n="xe">{%b. of money%}</div> <div n="xs">{#DanadaH#}</div>
+({#dA, daM#}).</div>
 <LEND>

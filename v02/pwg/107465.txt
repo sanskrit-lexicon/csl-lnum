@@ -1,118 +1,117 @@
 <L>107465<pc>7-0857<k1>saha<k2>saha/<h>1
-1. {#saha/#}¦ (von 2. {#sa#}) indecl. 
-<ls>ŚĀNT. 4, 13.</ls> <is>gaṇa</is> {#cAdi#} zu 
-<ls>P. 1, 4, 57.</ls> = {#samam, sAkam#} 
-u.s.w. <ls>AK. 3, 5, 4.</ls> <ls>H. 1527.</ls> <ls>HALĀY. 5, 91. 99.</ls> {#saMbanDe, sAdfSye, yOgapadye, samfdDO, sAkalye#} und {#vidyamAne#} 
-<ls>H. an. 7, 53.</ls> 
-<ls>MED. avy. 90. fg.</ls> {#sAmarTye#} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="1"> 1) adv. {%gemeinsam, zusammen, zugleich%}: {#maDvA^ madema sa\ha nU sa^mA\nAH#} 
-<ls>ṚV. 3, 58, 6.</ls> <ls n="ṚV.">6, 60, 13.</ls> {#syAma^ marutaH sa\ha#} 
-<ls n="ṚV.">5, 53, 14.</ls> {#sa\ha ci\ttame^zAm#} 
-<ls n="ṚV.">10, 191, 3.</ls> {#tasmi^nde\vAH sa\ha dE\vIrvi^Santu#} ({#devIH#}) 
-<ls>AV. 12, 3, 32. 39. 6, 59, 2.</ls> {#mana\ innO^ sa\hAsa^ti#} 
-<ls>7, 36, 1. 3, 30, 6.</ls> <ls>VS. 20, 25. 36, 1.</ls> <ls>ŚAT. BR. 1, 1, 2, 18. 4, 6, 8, 13. 11, 5, 3, 7. 12, 3, 3, 14.</ls> {#etA devatAH saha yajati#} 
-<ls>9, 1, 12. 14, 7, 2, 30. 9, 4, 19.</ls> <ls>TS. 7, 4, 19, 1.</ls> <ls>TBR. 1, 1, 3, 2. 2, 1, 6, 2.</ls> {#saha nAvaTojjayAva#} 
-<ls>AIT. BR. 2, 25.</ls> {#nEkasyE bahavaH saha patayaH#} 
-<ls>3, 23. 5, 15.</ls> <ls>KĀTY. ŚR. 5, 9, 3.</ls> {#nAnA nAnA saha saha#} 
-<ls>ŚĀṄKH. ŚR. 16, 7, 9.</ls> 
-<ls>ĀŚV. GṚHY. 1, 6, 3.</ls> {#yastadvedoBayaM saha#} 
-<ls>ĪŚOP. 11.</ls> 
-<ls>TAITT. UP. 1, 3, 1. 13, 1. 2, 1, 1. 3, 1, 1.</ls> {#svayaM vE tezAM saha yezAM saha#} {%er selbst gehört mit zu denen, welchen es gemeinsam ist%}, 
-<ls>ŚAT. BR. 2, 4, 2, 19.</ls> {#aBavanmiTunaM tvazwuH saraRyUH triSirAH saha#} so
+1. {#saha/#}¦ (von 2. {#sa#}) indecl.
+<ls>ŚĀNT. 4,13.</ls> <is>gaṇa</is> {#cAdi#} zu
+<ls>P. 1,4,57.</ls> = {#samam, sAkam#}
+u.s.w. <ls>AK. 3,5,4.</ls> <ls>H. 1527.</ls> <ls>HALĀY. 5,91. 99.</ls> {#saMbanDe, sAdfSye, yOgapadye, samfdDO, sAkalye#} und {#vidyamAne#}
+<ls>H. an. 7,53.</ls>
+<ls>MED. avy. 90. fg.</ls> {#sAmarTye#}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="1"> 1) adv. {%gemeinsam, zusammen, zugleich%}: {#maDvA^ madema sa\ha nU sa^mA\nAH#}
+<ls>ṚV. 3,58,6.</ls> <ls n="ṚV.">6,60,13.</ls> {#syAma^ marutaH sa\ha#}
+<ls n="ṚV.">5,53,14.</ls> {#sa\ha ci\ttame^zAm#}
+<ls n="ṚV.">10,191,3.</ls> {#tasmi^nde\vAH sa\ha dE\vIrvi^Santu#} ({#devIH#})
+<ls>AV. 12,3,32.</ls> <ls n="AV. 12,3,">39.</ls> <ls n="AV.">6,59,2.</ls> {#mana\ innO^ sa\hAsa^ti#}
+<ls n="AV.">7,36,1.</ls> <ls n="AV.">3,30,6.</ls> <ls>VS. 20,25.</ls> <ls n="VS.">36,1.</ls> <ls>ŚAT. BR. 1,1,2,18. 4,6,8,13. 11,5,3,7. 12,3,3,14.</ls> {#etA devatAH saha yajati#}
+<ls n="ŚAT. BR.">9,1,12. 14,7,2,30. 9,4,19.</ls> <ls>TS. 7,4,19,1.</ls> <ls>TBR. 1,1,3,2. 2,1,6,2.</ls> {#saha nAvaTojjayAva#}
+<ls>AIT. BR. 2,25.</ls> {#nEkasyE bahavaH saha patayaH#}
+<ls n="AIT. BR.">3,23. 5,15.</ls> <ls>KĀTY. ŚR. 5,9,3.</ls> {#nAnA nAnA saha saha#}
+<ls>ŚĀṄKH. ŚR. 16,7,9.</ls>
+<ls>ĀŚV. GṚHY. 1,6,3.</ls> {#yastadvedoBayaM saha#}
+<ls>ĪŚOP. 11.</ls>
+<ls>TAITT. UP. 1,3,1. 13,1. 2,1,1. 3,1,1.</ls> {#svayaM vE tezAM saha yezAM saha#} {%er selbst gehört mit zu denen, welchen es gemeinsam ist%},
+<ls>ŚAT. BR. 2,4,2,19.</ls> {#aBavanmiTunaM tvazwuH saraRyUH triSirAH saha#} so
 [Page7-0858]
-v. a. {%und%} 
-<ls>BṚHADD.</ls> in <ls>Z. f.</ls> vgl. 
-<ls>Spr. 1, 442.</ls> — {#caratAM DarmaM saha#} 
-<ls>YĀJÑ. 1, 60.</ls> 
-<ls>M. 3, 30. 86. 7, 206. 214.</ls> {#evaM saha vaseyurvA pfTagvA#} 
-<ls>9, 111. 210. 215. 12. 19.</ls> <ls>MBH. 1, 7764.</ls> {#karizye maraRaM saha#} 
-<ls>?8371. 3, 58. HARIV. 6732. R. 1, 46, 14. 2, 106, 24. R. GORR. 2, 113, 26. Spr. (II) 2649, v. l.</ls> {#sahEva mftyurvrajati saha mftyurnizIdati#} 
-<ls>6979.</ls> <ls>AK. 3, 1, 34.</ls> {#parAM lakzmIM patnISca saha leBire#} 
-<ls>KATHĀS. 3, 36. 12, 30. 47, 81. 61, 77. 101, 296.</ls> {#mayyAtmAnaM saha#} (so ist zu trennen) {#jagaddrakzyasi#} {%dich selbst und zugleich die Welt%} 
-<ls>BHĀG. P. 3, 21, 31. 4, 25, 57.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 15, 7.</ls> {#na ca tAM saha jagrAha#} {%nahm sie nicht mit%} 
-<ls>KATHĀS. 15, 88.</ls> {#dA#} {%mitgeben%} 
-<ls>101, 138.</ls> {#A-dA#} {%mitnehmen%} 
-<ls>16, 26.</ls> {#kar#} dass.: {#AyayO saha kftvA tO pratIhArapulindakO#} so v. a. {%in der Begleitung von%} 
-<ls>14, 22. 60, 243.</ls> {#saha gacCanti gacCantam#} {%sie folgen ihm nach, wenn er geht%}, 
-<ls>R. 4, 8, 26.</ls> 
-<div n="1">— 2) praep. 
-<div n="2"> a) {%mit, sammt, nebst, zugleich mit%}: 
-<div n="2"> a) mit instr. (vor- oder nachstehend, nicht selten weit getrennt) 
-<ls>P. 3, 3, 19</ls> ({#apraDAne#}). 
-<ls>VOP. 5, 10.</ls> 
-<ls>ṚV. 1, 23, 17.</ls> <ls n="ṚV. 1, 23,">24.</ls> {#sa\ha vA\mana\ vyu^cCa#} 
-<ls n="ṚV. 1,">48, 1.</ls> <ls n="ṚV. 1,">50, 13.</ls> <ls n="ṚV.">5, 53, 2.</ls> <ls n="ṚV.">6, 28, 3.</ls> {#sUrya\M jyoti^zA sa\ha#} 
-<ls n="ṚV. 6,">72, 2.</ls> <ls n="ṚV.">7, 83, 6.</ls> <ls n="ṚV.">8, 65, 10.</ls> <ls n="ṚV.">10, 107, 2.</ls> <ls>VS. 11, 15.</ls> <ls>AV. 1, 1, 2. 2, 36, 1. 3, 12, 9.</ls> <ls>ŚAT. BR. 1, 8, 1, 19.</ls> <ls>KĀTY. ŚR. 4, 2, 42. 12, 6, 3. 16, 7, 9.</ls> <ls>ĀŚV. GṚHY. 1, 11, 13. 17, 11. 3, 9, 1.</ls> <ls>M. 1, 18.</ls> {#nAsIta guruRA saha#} 
-<ls>2, 203.</ls> {#na SayIta tayA saha#} 
-<ls>4, 40.</ls> {#vihareccEva strIBirantaHpure saha#} 
-<ls>7, 221. 9, 258.</ls> {#rAzwrikEH saha tadrAzwraM kziprameva vinaSyati#} 
-<ls>10, 61.</ls> <ls>MBH. 3. 1736. 2188. 2236. 2264. 4, 1762. 5, 6067. 14, 810.</ls> <ls>R. 1, 1, 44. 8, 8. 9, 70.</ls> <ls>SĀṂKHYAK. 39. 49.</ls> <ls>RAGH. 3, 19. 61.</ls> <ls>ŚĀK. 18, 21. 23, 2. 27, 15. 106, 8.</ls> {#jIvitaM ca SarIreRa jAtyEva saha jAyate#} 
-<ls>Spr. (II) 2434. 7556.</ls> {#saha dIrGA mama SvAsErimAH saMprati rAtrayaH . pARqurASca mamEvANgEH saha tAScandraBUzaRAH ..#} {%die Nächte sowohl als meine Seufzer%} 
-<ls>6969.</ls> {#nakzatreRa sahodayamupagacCati yena#} 
-<ls>VARĀH. BṚH. S. 8, 1.</ls> 
-<ls>KATHĀS. 40, 73.</ls> 
-<ls>BHĀG. P. 5, 16, 1.</ls> {#vasatastatra rAmasya vane vanacarEH saha#} 
-<ls>R. 1, 1, 42.</ls> {#taTA pravartyatAM yajYo BavadBiSca mayA saha#} 
-<ls>60, 8.</ls> {#apaTyEH saha saMBukte 'nnarase#} 
-<ls>2, 64, 57.</ls> {#Bojayetsaha BftyEstO#} 
-<ls>M. 3, 112. fg. 7, 203.</ls> {#anDo matsyAnivASnAti sa naraH kaRwakEH saha#} 
-<ls>8, 95. 391. 10, 86.</ls> <ls>MBH. 3, 2945.</ls> <ls>R. 1, 60, 16. 2, 64, 27.</ls> <ls>ŚĀK. 30, 10.</ls> <ls>VARĀH. BṚH. S. 4, 24. 9, 43.</ls> <ls>KATHĀS. 18, 123. 344. 386.</ls> — {#aTo\ vaSA^nAM BavaTA sa\ha Sri\yA#} 
-<ls>ṚV. 3, 60, 4.</ls> {#na snAnamAcaret - vastrEH saha#} 
-<ls>Spr. (II) 3501.</ls> {#A-gam#} {%zusammenkommen mit%} 
-<ls>MBH. 3, 2688.</ls> <ls>WEBER, RĀMAT. UP. 299.</ls> {#(yaH) vfzalyA saha modate#} 
-<ls>M. 3, 191.</ls> {#mantrayetsaha mantriBiH#} 
-<ls>7, 146.</ls> {#patitena sahAcaran#} 
-<ls>11, 180.</ls> {#enasviBiranirRiktErnArTaM kaMcit#} (so lesen wir) {#sahAcaret#} 189. {#sudevena sahEkAnte kaTayantIm#} 
-<ls>MBH. 3, 2687.</ls> {#saha paricayo hanta hariREH#} 
-<ls>Spr. (II) 7228.</ls> {#brAhmaRyA guptayA saha . viplutO (tO)#} 
-<ls>M. 8, 377.</ls> {#viBajeta sa tEH saha#} 
-<ls>9, 216.</ls> {#vivAdaM kar#} 
-<ls>4, 139.</ls> {#vivAhaH sadfSEH saha#} 
-<ls>10, 53.</ls> {#tABirna kuryAtsaha kAmaDarmam#} 
-<ls>VARĀH. BṚH. S. 78, 18.</ls> {#SfNgAraM vi-DA#} 
-<ls>VET.</ls> in <ls>LA. (III) 8, 18.</ls> {#sADAraRo DarmaH patnyA saha#} 
-<ls>M. 9, 96.</ls> {#sAmyametezAM mayA saha#} 
-<ls>HIT. I, 39.</ls> {#pUrvasUtreRa saha vizayaviBAgo yaTA syAt#} {%Verschiedenheit von%} 
-<ls>P. 6, 2, 80, Schol.</ls> In Verbindungen, wo die {%Gemeinsamkeit%} schon durch {#sam#} ausgedruckt ist: {#saM jA\yayA^ sa\ha pu\trEH syA^ma#} 
-<ls>AV. 12, 3, 17.</ls> {#aTa^ pa\kvena^ sa\ha saM Ba^vema#} 
-<ls>6, 119. 2. 12, 3, 10.</ls> {#saha saMmantrya mantriBiH#} 
-<ls>M. 7, 216.</ls> {#sam-gam#} 
-<ls>8, 378.</ls> <ls>MBH. 3, 2994. 3006.</ls> {#saMgamaM kar#} 
-<ls>VET.</ls> in <ls>LA. (III) 9, 15.</ls> {#saMvAsa#} 
-<ls>M. 8, 373.</ls> {#saBAzaRa#} 360. {#saMsarga#} 
-<ls>11, 54.</ls> {#saMbanDAnA-car#} 
-<ls>2, 40. 4, 244.</ls> 
-<div n="3">— β) mit abl.: {#ESvaryAtsaha saMbanDaM na kuryAt#} 
-<ls>Spr. (II) 1488.</ls> 
-<div n="2">— b) abgeschwächt für den einfachen instr. (wie deutsch {%mit%}): {#paya^sA sa\ha Su^nData#} 
-<ls>ṚV. 10, 17, 14.</ls> {#di\vyastvA\ mA DA^gvi\dyutA^ sa\ha#} 
-<ls>AV. 8, 1, 11. 12, 1, 59. 19, 30, 5.</ls> {#kaH Sakto vajreRApi sahAhave#}
+v. a. {%und%}
+<ls>BṚHADD.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls>
+— {#caratAM DarmaM saha#}
+<ls>YĀJÑ. 1,60.</ls>
+<ls>M. 3,30.</ls> <ls n="M. 3,">86.</ls> <ls n="M.">7,206.</ls> <ls n="M. 7,">214.</ls> {#evaM saha vaseyurvA pfTagvA#}
+<ls n="M.">9,111.</ls> <ls n="M. 9,">210.</ls> <ls n="M. 9,">215.</ls> <ls n="M. 9,">12.</ls> <ls n="M. 9,">19.</ls> <ls>MBH. 1,7764.</ls> {#karizye maraRaM saha#}
+<ls n="MBH. 1,">8371.</ls> <ls n="MBH.">3,58.</ls> <ls>HARIV. 6732.</ls> <ls>R. 1,46,14.</ls> <ls n="R.">2,106,24.</ls> <ls>R. GORR. 2,113,26.</ls> <ls>Spr. (II) 2649, v. l.</ls> {#sahEva mftyurvrajati saha mftyurnizIdati#}
+<ls n="Spr. (II)">6979.</ls> <ls>AK. 3,1,34.</ls> {#parAM lakzmIM patnISca saha leBire#}
+<ls>KATHĀS. 3,36.</ls> <ls n="KATHĀS.">12,30.</ls> <ls n="KATHĀS.">47,81.</ls> <ls n="KATHĀS.">61,77.</ls> <ls n="KATHĀS.">101,296.</ls> {#mayyAtmAnaM saha#} (so ist zu trennen) {#jagaddrakzyasi#} {%dich selbst und zugleich die Welt%}
+<ls>BHĀG. P. 3,21,31.</ls> <ls n="BHĀG. P.">4,25,57.</ls>
+<ls>VET. in LA. (III) 15,7.</ls> {#na ca tAM saha jagrAha#} {%nahm sie nicht mit%}
+<ls>KATHĀS. 15,88.</ls> {#dA#} {%mitgeben%}
+<ls n="KATHĀS.">101,138.</ls> {#A-dA#} {%mitnehmen%}
+<ls n="KATHĀS.">16,26.</ls> {#kar#} dass.: {#AyayO saha kftvA tO pratIhArapulindakO#} so v. a. {%in der Begleitung von%}
+<ls n="KATHĀS.">14,22.</ls> <ls n="KATHĀS.">60,243.</ls> {#saha gacCanti gacCantam#} {%sie folgen ihm nach, wenn er geht%},
+<ls>R. 4,8,26.</ls>
+<div n="1">— 2) praep.
+<div n="2"> a) {%mit, sammt, nebst, zugleich mit%}:
+<div n="2"> a) mit instr. (vor- oder nachstehend, nicht selten weit getrennt)
+<ls>P. 3,3,19</ls> ({#apraDAne#}).
+<ls>VOP. 5,10.</ls>
+<ls>ṚV. 1,23,17.</ls> <ls n="ṚV. 1,23,">24.</ls> {#sa\ha vA\mana\ vyu^cCa#}
+<ls n="ṚV. 1,">48,1.</ls> <ls n="ṚV. 1,">50,13.</ls> <ls n="ṚV.">5,53,2.</ls> <ls n="ṚV.">6,28,3.</ls> {#sUrya\M jyoti^zA sa\ha#}
+<ls n="ṚV. 6,">72,2.</ls> <ls n="ṚV.">7,83,6.</ls> <ls n="ṚV.">8,65,10.</ls> <ls n="ṚV.">10,107,2.</ls> <ls>VS. 11,15.</ls> <ls>AV. 1,1,2.</ls> <ls n="AV.">2,36,1.</ls> <ls n="AV.">3,12,9.</ls> <ls>ŚAT. BR. 1,8,1,19.</ls> <ls>KĀTY. ŚR. 4,2,42.</ls> <ls n="KĀTY. ŚR.">12,6,3.</ls> <ls n="KĀTY. ŚR.">16,7,9.</ls> <ls>ĀŚV. GṚHY. 1,11,13. 17,11. 3,9,1.</ls> <ls>M. 1,18.</ls> {#nAsIta guruRA saha#}
+<ls n="M.">2,203.</ls> {#na SayIta tayA saha#}
+<ls n="M.">4,40.</ls> {#vihareccEva strIBirantaHpure saha#}
+<ls n="M.">7,221.</ls> <ls n="M.">9,258.</ls> {#rAzwrikEH saha tadrAzwraM kziprameva vinaSyati#}
+<ls n="M.">10,61.</ls> <ls>MBH. 3,1736.</ls> <ls n="MBH. 3,">2188.</ls> <ls n="MBH. 3,">2236.</ls> <ls n="MBH. 3,">2264.</ls> <ls n="MBH.">4,1762.</ls> <ls n="MBH.">5,6067.</ls> <ls n="MBH.">14,810.</ls> <ls>R. 1,1,44.</ls> <ls n="R. 1,">8,8.</ls> <ls n="R. 1,">9,70.</ls> <ls>SĀṂKHYAK. 39. 49.</ls> <ls>RAGH. 3,19.</ls> <ls n="RAGH. 3,">61.</ls> <ls>ŚĀK. 18,21. 23,2. 27,15. 106,8.</ls> {#jIvitaM ca SarIreRa jAtyEva saha jAyate#}
+<ls>Spr. (II) 2434.</ls> <ls n="Spr. (II)">7556.</ls> {#saha dIrGA mama SvAsErimAH saMprati rAtrayaH . pARqurASca mamEvANgEH saha tAScandraBUzaRAH ..#} {%die Nächte sowohl als meine Seufzer%}
+<ls n="Spr. (II)">6969.</ls> {#nakzatreRa sahodayamupagacCati yena#}
+<ls>VARĀH. BṚH. S. 8,1.</ls>
+<ls>KATHĀS. 40,73.</ls>
+<ls>BHĀG. P. 5,16,1.</ls> {#vasatastatra rAmasya vane vanacarEH saha#}
+<ls>R. 1,1,42.</ls> {#taTA pravartyatAM yajYo BavadBiSca mayA saha#}
+<ls n="R. 1,">60,8.</ls> {#apaTyEH saha saMBukte 'nnarase#}
+<ls n="R.">2,64,57.</ls> {#Bojayetsaha BftyEstO#}
+<ls>M. 3,112. fg.</ls> <ls n="M.">7,203.</ls> {#anDo matsyAnivASnAti sa naraH kaRwakEH saha#}
+<ls n="M.">8,95.</ls> <ls n="M. 8,">391.</ls> <ls n="M.">10,86.</ls> <ls>MBH. 3,2945.</ls> <ls>R. 1,60,16.</ls> <ls n="R.">2,64,27.</ls> <ls>ŚĀK. 30,10.</ls> <ls>VARĀH. BṚH. S. 4,24. 9,43.</ls> <ls>KATHĀS. 18,123.</ls> <ls n="KATHĀS. 18,">344.</ls> <ls n="KATHĀS. 18,">386.</ls> — {#aTo\ vaSA^nAM BavaTA sa\ha Sri\yA#}
+<ls>ṚV. 3,60,4.</ls> {#na snAnamAcaret — vastrEH saha#}
+<ls>Spr. (II) 3501.</ls> {#A-gam#} {%zusammenkommen mit%}
+<ls>MBH. 3,2688.</ls> <ls>WEBER, RĀMAT. UP. 299.</ls> {#(yaH) vfzalyA saha modate#}
+<ls>M. 3,191.</ls> {#mantrayetsaha mantriBiH#}
+<ls n="M.">7,146.</ls> {#patitena sahAcaran#}
+<ls n="M.">11,180.</ls> {#enasviBiranirRiktErnArTaM kaMcit#} (so lesen wir) {#sahAcaret#} 189. {#sudevena sahEkAnte kaTayantIm#}
+<ls>MBH. 3,2687.</ls> {#saha paricayo hanta hariREH#}
+<ls>Spr. (II) 7228.</ls> {#brAhmaRyA guptayA saha . viplutO (tO)#}
+<ls>M. 8,377.</ls> {#viBajeta sa tEH saha#}
+<ls n="M.">9,216.</ls> {#vivAdaM kar#}
+<ls n="M.">4,139.</ls> {#vivAhaH sadfSEH saha#}
+<ls n="M.">10,53.</ls> {#tABirna kuryAtsaha kAmaDarmam#}
+<ls>VARĀH. BṚH. S. 78,18.</ls> {#SfNgAraM vi-DA#}
+<ls>VET. in LA. (III) 8,18.</ls> {#sADAraRo DarmaH patnyA saha#}
+<ls>M. 9,96.</ls> {#sAmyametezAM mayA saha#}
+<ls>HIT. I,39.</ls> {#pUrvasUtreRa saha vizayaviBAgo yaTA syAt#} {%Verschiedenheit von%}
+<ls>P. 6,2,80</ls>, Schol. In Verbindungen, wo die {%Gemeinsamkeit%} schon durch {#sam#} ausgedruckt ist: {#saM jA\yayA^ sa\ha pu\trEH syA^ma#}
+<ls>AV. 12,3,17.</ls> {#aTa^ pa\kvena^ sa\ha saM Ba^vema#}
+<ls n="AV. 12,">6,119.</ls> <ls n="AV. 12,6,">2.</ls> <ls n="AV.">12,3,10.</ls> {#saha saMmantrya mantriBiH#}
+<ls>M. 7,216.</ls> {#sam-gam#}
+<ls n="M.">8,378.</ls> <ls>MBH. 3,2994.</ls> <ls n="MBH. 3,">3006.</ls> {#saMgamaM kar#}
+<ls>VET. in LA. (III) 9,15.</ls> {#saMvAsa#}
+<ls>M. 8,373.</ls> {#saBAzaRa#} 360. {#saMsarga#}
+<ls n="M.">11,54.</ls> {#saMbanDAnA-car#}
+<ls n="M.">2,40.</ls> <ls n="M.">4,244.</ls>
+<div n="3">— β) mit abl.: {#ESvaryAtsaha saMbanDaM na kuryAt#}
+<ls>Spr. (II) 1488.</ls>
+<div n="2">— b) abgeschwächt für den einfachen instr. (wie deutsch {%mit%}): {#paya^sA sa\ha Su^nData#}
+<ls>ṚV. 10,17,14.</ls> {#di\vyastvA\ mA DA^gvi\dyutA^ sa\ha#}
+<ls>AV. 8,1,11.</ls> <ls n="AV.">12,1,59.</ls> <ls n="AV.">19,30,5.</ls> {#kaH Sakto vajreRApi sahAhave#}
 [Page7-0859]
-
-<ls>R. GORR. 2, 20, 38.</ls> {#saha darSanenEva#} so v. a. {%sogleich beim ersten Anblick%} 
-<ls>SADDH. P. 4, 13</ls>,b. 
-<div n="1">— 3) am Anf. eines comp. 
-<div n="2"> a) in Verbindung mit einem Nomen verbale die {%Gemeinsamkeit%} einer Thätigkeit u. s. w. ausdrückend; s. {#sahakartar, sahakAra, sahacara#} u.s.w. 
-<div n="2">— b) in Verbindung mit dem {%Begleitenden, Dabeiseienden%} ein <lex>adj.</lex> comp. bildend 
-<ls>P. 6, 3, 82.</ls> 
-<ls>VOP. 6, 17.</ls> {#sahayajYAH prajAH sfzwAH#} {%die Geschöpfe nebst den Opfern%} 
-<ls>BHAG. 3, 10.</ls> {#sahopapativeSman#} <lex>adj.</lex> {%derjenige, in dessen Hause der Liebhaber seiner Frau wohnt%}, 
-<ls>YĀJÑ. 1, 164.</ls> {#°dAra#} {%sammt den Frauen%} 
-<ls>MBH. 1, 7542.</ls> {#°vAhana#} 
-<ls>3, 2129.</ls> {#°vArzReyajIvala#} 
-<ls>2641. 2869.</ls> {#surAH sahendrAH#} 
-<ls>11915.</ls> <ls>R. 1, 1, 50. 2, 36. 9, 2. 33, 22. 59, 15. 2, 32, 27. 33, 16. 46, 27. 3, 35, 91.</ls> {#annEH sahaguqEH#} 
-<ls>VARĀH. BṚH. S. 105, 8.</ls> 
-<ls>KATHĀS. 10, 116. 33, 193.</ls> 
-<ls>MĀRK. P. 57, 47.</ls> 
-<ls>BHĀG. P. 3, 16, 9. 5, 16, 16.</ls> {#sahaputrAya svasti BUyAt#} (dem Vater) {%nebst Sohne%} 
-<ls>P. 6, 3, 83, Schol.</ls> {#sahavfdDikzayaBAvaM vahati SaSANkaH kalaNkamapi#} 
-<ls>Spr. (II) 3752.</ls> {#vanaM sahacEtyavantam#} so v. a. {#vanaM sahacEtyam#} 
-<ls>R. 5, 50, 21.</ls> 
-<div n="2">— c) in Verbindung mit einem Zeitbegriff das {%Zusammenfallen%} mit demselben ausdrückend und ein adv. comp. bildend: {#°pUrvAhRam#} {%mit dem Beginn des Vormittags%} 
-<ls>P. 6, 3, 81, Schol.</ls> <ls>VOP. 6, 61.</ls> 
-<div n="1">— 4) am Ende eines comp. {#vEnateya°#} {%mit%} <ab n="?">V.</ab> 
-<ls>HARIV. 5849. 5997.</ls>
+<ls>R. GORR. 2,20,38.</ls> {#saha darSanenEva#} so v. a. {%sogleich beim ersten Anblick%}
+<ls>SADDH. P. 4,13,b.</ls>
+<div n="1">— 3) am Anf. eines comp.
+<div n="2"> a) in Verbindung mit einem Nomen verbale die {%Gemeinsamkeit%} einer Thätigkeit u. s. w. ausdrückend; s. {#sahakartar, sahakAra, sahacara#} u.s.w.
+<div n="2">— b) in Verbindung mit dem {%Begleitenden, Dabeiseienden%} ein <lex>adj.</lex> comp. bildend
+<ls>P. 6,3,82.</ls>
+<ls>VOP. 6,17.</ls> {#sahayajYAH prajAH sfzwAH#} {%die Geschöpfe nebst den Opfern%}
+<ls>BHAG. 3,10.</ls> {#sahopapativeSman#} <lex>adj.</lex> {%derjenige, in dessen Hause der Liebhaber seiner Frau wohnt%},
+<ls>YĀJÑ. 1,164.</ls> {#°dAra#} {%sammt den Frauen%}
+<ls>MBH. 1,7542.</ls> {#°vAhana#}
+<ls n="MBH.">3,2129.</ls> {#°vArzReyajIvala#}
+<ls n="MBH. 3,">2641.</ls> <ls n="MBH. 3,">2869.</ls> {#surAH sahendrAH#}
+<ls n="MBH. 3,">11915.</ls> <ls>R. 1,1,50.</ls> <ls n="R. 1,">2,36.</ls> <ls n="R. 1,">9,2.</ls> <ls n="R. 1,">33,22.</ls> <ls n="R. 1,">59,15.</ls> <ls n="R.">2,32,27.</ls> <ls n="R. 2,">33,16.</ls> <ls n="R. 2,">46,27.</ls> <ls n="R.">3,35,91.</ls> {#annEH sahaguqEH#}
+<ls>VARĀH. BṚH. S. 105,8.</ls>
+<ls>KATHĀS. 10,116.</ls> <ls n="KATHĀS.">33,193.</ls>
+<ls>MĀRK. P. 57,47.</ls>
+<ls>BHĀG. P. 3,16,9.</ls> <ls n="BHĀG. P.">5,16,16.</ls> {#sahaputrAya svasti BUyAt#} (dem Vater) {%nebst Sohne%}
+<ls>P. 6,3,83</ls>, Schol. {#sahavfdDikzayaBAvaM vahati SaSANkaH kalaNkamapi#}
+<ls>Spr. (II) 3752.</ls> {#vanaM sahacEtyavantam#} so v. a. {#vanaM sahacEtyam#}
+<ls>R. 5,50,21.</ls>
+<div n="2">— c) in Verbindung mit einem Zeitbegriff das {%Zusammenfallen%} mit demselben ausdrückend und ein adv. comp. bildend: {#°pUrvAhRam#} {%mit dem Beginn des Vormittags%}
+<ls>P. 6,3,81</ls>, Schol. <ls>VOP. 6,61.</ls>
+<div n="1">— 4) am Ende eines comp. {#vEnateya°#} {%mit%} <ab n="?">V.</ab>
+<ls>HARIV. 5849.</ls> <ls n="HARIV.">5997.</ls>
 <LEND>

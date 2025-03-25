@@ -1,3 +1,3 @@
-<L>156670<pc>783,2<k1>mati<k2>mati/<h>b<e>2
-<s>mati/</s> <hom>b</hom> ¦ <lex>f.</lex> (in, <ls>ŚBr.</ls> also <s>ma/ti</s>) devotion, prayer, worship, hymn, sacred utterance, <ls>RV.</ls>; <ls>VS.</ls><info lex="f"/>
+<L>156670<pc>783,2<k1>mati<k2>mati/<e>2
+<s>mati/</s> ¦ <lex>f.</lex> (in <ls>ŚBr.</ls> also <s>ma/ti</s>) devotion, prayer, worship, hymn, sacred utterance, <ls>RV.</ls>; <ls>VS.</ls><info lex="f"/><info hui="b"/>
 <LEND>

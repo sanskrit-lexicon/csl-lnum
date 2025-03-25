@@ -1,31 +1,31 @@
 <L>113626<pc>7-1261<k1>stava<k2>sta/va
-{#sta/va#}¦ (von 1. {#stu#}) 
-m. <ls>Schol.</ls> zu <ls>P. 3, 3, 27. 57.</ls> <is>gaṇa</is> {#uYCAdi#} 
-zu <ls>P. 6, 1, 160</ls> (oxyt.) {%Lob, Verherrlichung, Loblied%} 
-<ls>AK. 1, 1, 5, 12.</ls> 
-<ls>TRIK. 1, 1, 117.</ls> 
-<ls>H. 269.</ls> 
-<ls>HALĀY. 1, 145.</ls> 
-<ls>ṚV. 9, 55, 2.</ls> 
-<ls>HARIV. 4937.</ls> {#rudrasya#} 
-<ls>10691. 10697.</ls> {#Arza#} 
-<ls>R. 6, 102, 34.</ls> {#balaM stavaH stAvakAnAm#} 
-<ls>Spr. (II) 4391.</ls> {#paraguRasya#} 
-<ls>?7332 (Conj.).</ls> {#cakruH stavam#} 
-<ls>MĀRK. P. 18, 24.</ls> {#kimASrayo me stava eza yojyatAm#} 
-<ls>BHĀG. P. 4, 15, 22. 7, 1, 22.</ls> {#(Baratam) tuzwuvuH stavEH#} 
-<ls>R. 2, 81, 1.</ls> {#vedoktEH svakftEScEva stavEH#} 
-<ls>HARIV. 7417.</ls> 
-<ls>MBH. 3, 13498.</ls> 
-<ls>MĀRK. P. 84, 29.</ls> <ls>WEBER, RĀMAT. UP. 363.</ls> <ls>BHĀG. P. 12, 13, 1.</ls> <ls>WILSON, Sel. Works 1, 176.</ls> {#devatA°#} 
-<ls>MBH. 13, 7662.</ls> 
-<ls>R. 5, 10, 14.</ls> 
-<ls>BHĀG. P. 4, 7, 11. 16</ls> in der Unterschr. 
-<ls>Verz. d. Oxf. H. 85,a,41.</ls> {#para°#} 
-<ls>R. 2, 26, 25 (28 GORR.).</ls> {#Atma°#} 
-<ls>3, 35, 22.</ls> {#svaguRa°#} 
-<ls>Z. d. d. m. G. 27, 22.</ls> {#miTyA°#} 
-<ls>RĀJA-TAR. 3, 153.</ls> neutr. : {#stavamidam#} (wohl nur fehlerhaft für {#imam#}) 
-<ls>HARIV. 10260. 10280.</ls> 
+{#sta/va#}¦ (von 1. {#stu#})
+m. <ls>Schol.</ls> zu <ls>P. 3,3,27.</ls> <ls n="P. 3,3,">57.</ls> <is>gaṇa</is> {#uYCAdi#}
+zu <ls>P. 6,1,160</ls> (oxyt.) {%Lob, Verherrlichung, Loblied%}
+<ls>AK. 1,1,5,12.</ls>
+<ls>TRIK. 1,1,117.</ls>
+<ls>H. 269.</ls>
+<ls>HALĀY. 1,145.</ls>
+<ls>ṚV. 9,55,2.</ls>
+<ls>HARIV. 4937.</ls> {#rudrasya#}
+<ls n="HARIV.">10691.</ls> <ls n="HARIV.">10697.</ls> {#Arza#}
+<ls>R. 6,102,34.</ls> {#balaM stavaH stAvakAnAm#}
+<ls>Spr. (II) 4391.</ls> {#paraguRasya#}
+<ls n="Spr. (II)">7332</ls> (Conj.). {#cakruH stavam#}
+<ls>MĀRK. P. 18,24.</ls> {#kimASrayo me stava eza yojyatAm#}
+<ls>BHĀG. P. 4,15,22.</ls> <ls n="BHĀG. P.">7,1,22.</ls> {#(Baratam) tuzwuvuH stavEH#}
+<ls>R. 2,81,1.</ls> {#vedoktEH svakftEScEva stavEH#}
+<ls>HARIV. 7417.</ls>
+<ls>MBH. 3,13498.</ls>
+<ls>MĀRK. P. 84,29.</ls> <ls>WEBER, RĀMAT. UP. 363.</ls> <ls>BHĀG. P. 12,13,1.</ls> <ls>WILSON, Sel. Works 1,176.</ls> {#devatA°#}
+<ls>MBH. 13,7662.</ls>
+<ls>R. 5,10,14.</ls>
+<ls>BHĀG. P. 4,7,11.</ls> <ls n="BHĀG. P. 4,7,">16</ls> in der Unterschr.
+<ls>Verz. d. Oxf. H. 85,a,41.</ls> {#para°#}
+<ls>R. 2,26,25</ls> (<ls n="GORR. 2,26,">28</ls> <ls>GORR.</ls>). {#Atma°#}
+<ls n="R.">3,35,22.</ls> {#svaguRa°#}
+<ls>Z. d. d. m. G. 27,22.</ls> {#miTyA°#}
+<ls>RĀJA-TAR. 3,153.</ls> neutr. : {#stavamidam#} (wohl nur fehlerhaft für {#imam#})
+<ls>HARIV. 10260.</ls> <ls n="HARIV.">10280.</ls>
 <div n="v">— Vgl. {#brahmatarka°, saMketa°, sarasvatI°#} .
 <LEND>

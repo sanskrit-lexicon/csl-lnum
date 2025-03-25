@@ -1,53 +1,53 @@
 <L>105708<pc>7-0712<k1>samAsa<k2>samAsa
-{#samAsa#}¦ (von 2. {#as#} mit {#sam#}) <lex>m.</lex> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} . 
-<div n="1"> 1) {%Zusammenfassung, Zusammenfügung, Vereinigung, Verbindung%}: {#hemantaSiSirayoH#} 
-<ls>AIT. BR. 1, 1. 3, 41.</ls> 
-<ls>ŚĀṄKH. BR. 5, 1.</ls> {#sarva°#} 
-<ls>KĀTY. ŚR. 12, 6, 15.</ls> 
-<ls>LĀṬY. 2, 6, 4. 10, 12, 14.</ls> 
-<ls>CHĀND. UP. 6, 4, 7.</ls> 
-<ls>R. 7, 94, 6.</ls> 
-<ls>SARVADARŚANAS. 140, 22.</ls> {#daRqasamAsA vIRA#} 
-<ls>ŚĀṄKH. ŚR. 17, 3, 9.</ls> {#samAsena#} {%insgesammt%} 
-<ls>M. 7, 202.</ls> 
-<div n="1">— 2) {%eine kurze —, gedrängte Darstellung%}; = {#saMkzepa#} 
-<ls>H. 1432.</ls> 
-<ls>an. 3, 758.</ls> 
-<ls>MED. s. 43.</ls> <ls>HALĀY. 4, 81.</ls> <ls>MBH. 3, 10554.</ls> <ls>SUŚR. 1, 2, 3.</ls> {#samAsavyAsayogatas#} 
-<ls>BHĀG. P. 1, 9, 27.</ls> 
-<ls>VARĀH. BṚH. S. 61, 1.</ls> {#iti tatsamAsaH#} 
-<ls>68, 94.</ls> {#°kft#} 
-<ls>47, 2.</ls> {#vistarESca samAsESca#} 
-<ls>MBH. 1, 27.</ls> {#vyAsasamAsAByAm#} 
-<ls>3, 67.</ls> {#samAsena#} {%in Kürze, mit kurzen Worten%} 
-<ls>KAUṢ. UP.2,15.</ls> <ls>M.2,25.3,20.9,101. 12,39.</ls> <ls>Spr. (II) 5272.</ls> <ls>BHAG. 13,3. 18,50.</ls> <ls>BHAR.</ls> <ls>NĀṬYAŚ. 18,40.</ls> <ls>SUŚR.1,112,13.2,146,6.</ls> <ls>BRAHMA-P.</ls> in <ls>LA. (III) 49,6.</ls> <ls>Verz. d. Oxf. H. 50,a,12.</ls> <ls>BHĀG. P.2,7,50.</ls> <ls>PAÑCAR.2,3,46.</ls> <ls>Ind. St.1,13,3.</ls> {#samAsAt#} dass. 
-<ls>HARIV. 8367.</ls> 
-<ls>VARĀH. BṚH. S. 12, Anf. 56, 31.</ls> {#samAsatas#} dass. 
-<ls>1, 5. 8, 52. 60, 22. 68, 117.</ls> <ls>M. 1, 68. 89. 7, 156.</ls> <ls>BHAG. 13, 18.</ls> <ls>R. 4, 34, 7. 5, 56, 49.</ls> <ls>SĀṂKHYAK. 53.</ls> <ls>SUŚR. 1, 124, 19.</ls> <ls>WEBER, JYOT. 24.</ls> <ls>VIKR. 19, 10.</ls> <ls>KATHĀS. 25, 65.</ls> <ls>TATTVAS. 25.</ls> {#vyAsasamAsatas#} 
-<ls>MBH. 12, 1296.</ls> am Anf. eines comp. ohne Flexionszeichen:
+{#samAsa#}¦ (von 2. {#as#} mit {#sam#}) <lex>m.</lex> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} .
+<div n="1"> 1) {%Zusammenfassung, Zusammenfügung, Vereinigung, Verbindung%}: {#hemantaSiSirayoH#}
+<ls>AIT. BR. 1,1.</ls> <ls n="AIT. BR.">3,41.</ls>
+<ls>ŚĀṄKH. BR. 5,1.</ls> {#sarva°#}
+<ls>KĀTY. ŚR. 12,6,15.</ls>
+<ls>LĀṬY. 2,6,4. 10,12,14.</ls>
+<ls>CHĀND. UP. 6,4,7.</ls>
+<ls>R. 7,94,6.</ls>
+<ls>SARVADARŚANAS. 140,22.</ls> {#daRqasamAsA vIRA#}
+<ls>ŚĀṄKH. ŚR. 17,3,9.</ls> {#samAsena#} {%insgesammt%}
+<ls>M. 7,202.</ls>
+<div n="1">— 2) {%eine kurze —, gedrängte Darstellung%}; = {#saMkzepa#}
+<ls>H. 1432.</ls>
+<ls>an. 3,758.</ls>
+<ls>MED. s. 43.</ls> <ls>HALĀY. 4,81.</ls> <ls>MBH. 3,10554.</ls> <ls>SUŚR. 1,2,3.</ls> {#samAsavyAsayogatas#}
+<ls>BHĀG. P. 1,9,27.</ls>
+<ls>VARĀH. BṚH. S. 61,1.</ls> {#iti tatsamAsaH#}
+<ls n="VARĀH. BṚH. S.">68,94.</ls> {#°kft#}
+<ls n="VARĀH. BṚH. S.">47,2.</ls> {#vistarESca samAsESca#}
+<ls>MBH. 1,27.</ls> {#vyAsasamAsAByAm#}
+<ls n="MBH.">3,67.</ls> {#samAsena#} {%in Kürze, mit kurzen Worten%}
+<ls>KAUṢ. UP. 2,15.</ls> <ls>M. 2,25.</ls> <ls n="M.">3,20.</ls> <ls n="M.">9,101.</ls> <ls n="M.">12,39.</ls> <ls>Spr. (II) 5272.</ls> <ls>BHAG. 13,3. 18,50.</ls> <ls>BHAR. NĀṬYAŚ. 18,40.</ls> <ls>SUŚR. 1,112,13. 2,146,6.</ls> <ls>BRAHMA-P. in LA. (III) 49,6.</ls> <ls>Verz. d. Oxf. H. 50,a,12.</ls> <ls>BHĀG. P. 2,7,50.</ls> <ls>PAÑCAR. 2,3,46.</ls> <ls>Ind. St. 1,13,3.</ls> {#samAsAt#} dass.
+<ls>HARIV. 8367.</ls>
+<ls>VARĀH. BṚH. S. 12, Anf. 56,31.</ls> {#samAsatas#} dass.
+<ls n="VARĀH. BṚH. S.">1,5. 8,52. 60,22. 68,117.</ls> <ls>M. 1,68.</ls> <ls n="M. 1,">89.</ls> <ls n="M.">7,156.</ls> <ls>BHAG. 13,18.</ls> <ls>R. 4,34,7.</ls> <ls n="R.">5,56,49.</ls> <ls>SĀṂKHYAK. 53.</ls> <ls>SUŚR. 1,124,19.</ls> <ls>WEBER, JYOT. 24.</ls> <ls>VIKR. 19,10.</ls> <ls>KATHĀS. 25,65.</ls> <ls>TATTVAS. 25.</ls> {#vyAsasamAsatas#}
+<ls>MBH. 12,1296.</ls> am Anf. eines comp. ohne Flexionszeichen:
 [Page7-0713]
-{#samAsavyAsaDAraRa#} 
-<ls>MBH. 1, 51.</ls> {#samAsavyAsakIrtana#} 85. {#°Pala#} 
-<ls>VARĀH. BṚH. S. 68, 96.</ls> 
-<ls>TATTVAS. 52.</ls> 
-<div n="1">— 3) in der Gramm. 
-<div n="2"> a) {%Compositum%} 
-<ls>H. an.</ls> <ls>ṚV. PRĀT. 10, 10.</ls> <ls n="ṚV. PRĀT.">11, 13.</ls> <ls n="ṚV. PRĀT.">15, 9.</ls> <ls>VS. PRĀT. 1, 27.</ls> <ls n="VS. PRĀT.">5, 1.</ls> <ls>AV. PRĀT. 2, 62.</ls> fg. <ls n="AV. PRĀT.">4, 9.</ls> <ls n="AV. PRĀT. 4,">27.</ls> <ls n="AV. PRĀT. 4,">43.</ls> <ls>Ind. St. 10, 408.</ls> <ls>P. 1, 2, 46. 2, 1, 3. 5, 3, 106. 6, 1, 223.</ls> <ls>Verz. d. Oxf. H. 162</ls>, {%a%}, 
-<ls>?15 u.s.w. SĀH. D. 566. PRATĀPAR. 11</ls>, {%a%}, 9 ({#nAtidIrGa°#} adj.). {#nitya#} und {#anitya#} 
-<ls>P. 2, 1, 3, Schol.</ls> {#samAsANga#} 
-<ls>ṚV. PRĀT. 1, 22.</ls> {#°prAya#} 
-<ls>TRIK. 3, 3, 25.</ls> 
-<ls>HALĀY. 1, 143.</ls> {#tadDita°#} 
-<ls>NIR. 2, 2.</ls> {#dik°#} 
-<ls>P. 1, 1, 28.</ls> {#tftIyA°#} 30. {#zazWI°#} 
-<ls>7, 4, 60, <is>Vārtt</is>. 1.</ls> <ls>SARVADARŚANAS. 92, 10.</ls> {#saptamI°#} 
-<ls>KAIYY.</ls> zu <ls>P. 8, 4, 35.</ls> {#bahuvrIhi°#} 
-<ls>P. 1, 1, 28, Schol.</ls> 
-<div n="2">— b) = {#saMDi#} 
-<ls>VS. PRĀT. 5, 39.</ls> Cit. im Comm. zu <ls>45.</ls> 
-<div n="1">— 4) in der Astr. Bez. {%eines best. Kreises%} 
-<ls>SŪRYAS. 6, 3. 6.</ls> 
-<div n="1">— 5) = {#samarTana, samarTanA#} 
-<ls>H. an.</ls> <ls>MED.</ls> 
+{#samAsavyAsaDAraRa#}
+<ls>MBH. 1,51.</ls> {#samAsavyAsakIrtana#} 85. {#°Pala#}
+<ls>VARĀH. BṚH. S. 68,96.</ls>
+<ls>TATTVAS. 52.</ls>
+<div n="1">— 3) in der Gramm.
+<div n="2"> a) {%Compositum%}
+<ls>H. an.</ls> <ls>ṚV. PRĀT. 10,10.</ls> <ls n="ṚV. PRĀT.">11,13.</ls> <ls n="ṚV. PRĀT.">15,9.</ls> <ls>VS. PRĀT. 1,27.</ls> <ls n="VS. PRĀT.">5,1.</ls> <ls>AV. PRĀT. 2,62.</ls> fg. <ls n="AV. PRĀT.">4,9.</ls> <ls n="AV. PRĀT. 4,">27.</ls> <ls n="AV. PRĀT. 4,">43.</ls> <ls>Ind. St. 10,408.</ls> <ls>P. 1,2,46.</ls> <ls n="P.">2,1,3.</ls> <ls n="P.">5,3,106.</ls> <ls n="P.">6,1,223.</ls> <ls>Verz. d. Oxf. H. 162,a,15</ls>
+u.s.w. <ls>SĀH. D. 566.</ls> <ls>PRATĀPAR. 11,a,9</ls> ({#nAtidIrGa°#} adj.). {#nitya#} und {#anitya#}
+<ls>P. 2,1,3</ls>, Schol. {#samAsANga#}
+<ls>ṚV. PRĀT. 1,22.</ls> {#°prAya#}
+<ls>TRIK. 3,3,25.</ls>
+<ls>HALĀY. 1,143.</ls> {#tadDita°#}
+<ls>NIR. 2,2.</ls> {#dik°#}
+<ls>P. 1,1,28.</ls> {#tftIyA°#} 30. {#zazWI°#}
+<ls n="P.">7,4,60</ls>, <is>Vārtt</is>. 1. <ls>SARVADARŚANAS. 92,10.</ls> {#saptamI°#}
+<ls>KAIYY.</ls> zu <ls>P. 8,4,35.</ls> {#bahuvrIhi°#}
+<ls>P. 1,1,28</ls>, Schol.
+<div n="2">— b) = {#saMDi#}
+<ls>VS. PRĀT. 5,39.</ls> Cit. im Comm. zu <ls n="VS. PRĀT. 5,">45.</ls>
+<div n="1">— 4) in der Astr. Bez. {%eines best. Kreises%}
+<ls>SŪRYAS. 6,3. 6.</ls>
+<div n="1">— 5) = {#samarTana, samarTanA#}
+<ls>H. an.</ls> <ls>MED.</ls>
 <div n="v">— Vgl. {#tattva°, sAmAsika#} und {#vyAsa#} .
 <LEND>

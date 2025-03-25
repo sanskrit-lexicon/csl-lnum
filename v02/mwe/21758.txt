@@ -1,7 +1,7 @@
 <L>21758<pc>574-b<k1>passenger<k2>passenger
-<div n="lb"/>PASSENGER¦, {%s.%} (Traveller) {#paTikaH, yAtrikaH, yAyI#} {%m.%} {#(n), gAmI#} {%m.,%}
-<div n="lb"/>{#gamI#} {%m.,%} {#mArgasTaH, paTasTaH, pAdavikaH, sAraRikaH#}. — (One who
-<div n="lb"/>crosses) {#tarI#} {%m.,%} {#taraH, taritA#} {%m.%} {#(tf), tarttarIkaH, uttaraRakft#} {%m.%} — 
-<div n="lb"/>(In a vessel) {#nOyAyI#} {%m.,%} {#nOgAmI#} {%m.,%} {#nOkAntarvarttI#} {%m.,%} {#nOkArUQaH,#}
-<div n="lb"/>{#OqupikaH#}.
+PASSENGER¦, {%s.%} (Traveller) {#paTikaH, yAtrikaH, yAyI#} {%m.%} {#(n), gAmI#} {%m.,%}
+{#gamI#} {%m.,%} {#mArgasTaH, paTasTaH, pAdavikaH, sAraRikaH#}. — (One who
+crosses) {#tarI#} {%m.,%} {#taraH, taritA#} {%m.%} {#(tf), tarttarIkaH, uttaraRakft#} {%m.%} — 
+(In a vessel) {#nOyAyI#} {%m.,%} {#nOgAmI#} {%m.,%} {#nOkAntarvarttI#} {%m.,%} {#nOkArUQaH,#}
+{#OqupikaH#}.
 <LEND>

@@ -1,91 +1,79 @@
 <L>51853<pc>5-0024<k1>barh<k2>barh<h>1
-1. {#barh#}¦ {#(varha), bfha/ti#} 
-<ls>DHĀTUP. 28, 57.</ls> {#vavarha, barhIt, avfkzAma#}; partic. {#bfQa#} 
-<ls>P. 6, 3, 111,</ls> 
-<ls>Sch.</ls> Die Schreibung schwankt zwischen {#ba#} und {#va#} und zwar nicht bloss zwischen verschiedenen Büchern, sondern auch innerhalb desselben Buchs; so hat 
-<ls>ṚV.</ls> {#ba#} bei den Formen mit {#ni, va#} bei den Verbindungen mit {#A, ud, pra#}, während 
-<ls>TS.</ls> und <ls>ŚAT. BR.</ls> bei {#A#} stets {#ba#}, bei {#ud#} stets {#va#} zeigen. Es ist nicht unwahrscheinlich, dass die ältere Form der Wurzel die mit {#va#} ist; vgl. {%vellere.%} Ohne Präp. nur in der Verbindung mit {#mUla#} gebraucht: {%ausreissen%}: {#vfhati mUlAni#} (zur etym. Erkl. von {#varAha)#} 
-<ls>NIR. 5, 4.</ls> {#mUla^mezAmavfkzA\meti^ . tanmU^la\varhaRI#} 
-<ls>TS. 1, 5, 2, 8.</ls>
-
-<div n="p">— {#ati#} {%mit Gewalt herausstossen%}: {#atibfhati retaH#} (als etym. Erkl. von {#vfzaBa)#} 
-<ls>NIR. 9, 22.</ls> {#retaH sektumatiSayenAtmAnamudyacCati#} Comm.
+1. {#barh#}¦ {#(varha), bfha/ti#}
+<ls>DHĀTUP. 28,57.</ls> {#vavarha, barhIt, avfkzAma#}; partic. {#bfQa#}
+<ls>P. 6,3,111</ls>, <ls>Sch.</ls>
+Die Schreibung schwankt zwischen {#ba#} und {#va#} und zwar nicht bloss zwischen verschiedenen Büchern, sondern auch innerhalb desselben Buchs; so hat
+<ls>ṚV.</ls> {#ba#} bei den Formen mit {#ni, va#} bei den Verbindungen mit {#A, ud, pra#}, während
+<ls>TS.</ls> und <ls>ŚAT. BR.</ls> bei {#A#} stets {#ba#}, bei {#ud#} stets {#va#} zeigen. Es ist nicht unwahrscheinlich, dass die ältere Form der Wurzel die mit {#va#} ist; vgl. {%vellere.%} Ohne Präp. nur in der Verbindung mit {#mUla#} gebraucht: {%ausreissen%}: {#vfhati mUlAni#} (zur etym. Erkl. von {#varAha)#}
+<ls>NIR. 5,4.</ls> {#mUla^mezAmavfkzA\meti^ . tanmU^la\varhaRI#}
+<ls>TS. 1,5,2,8.</ls>
+<div n="p">— {#ati#} {%mit Gewalt herausstossen%}: {#atibfhati retaH#} (als etym. Erkl. von {#vfzaBa)#}
+<ls>NIR. 9,22.</ls> {#retaH sektumatiSayenAtmAnamudyacCati#} Comm.
 [Page5-0025]
-
-<div n="p">— {#A#} {%ausreissen; losreissen, wegzerren%}: {#yatsamUlamAvfheyurvfkzaM (udvfheyuH#} 
-<ls>ŚAT. BR.</ls>) {#na punarABavet#} 
-<ls>BṚH. ĀR. UP. 3, 9, 28.</ls> 
-<ls>ṚV. 10, 61, 5.</ls> {#sa i\ndra izwa^kA^mAvf^hat#} 
-<ls>TBR. 1, 1, 2, 5.</ls> 
-<ls>ŚAT. BR. 2, 1, 2, 16.</ls> {#aSvasya sakTi#} 
-<ls>TS. 5, 3, 12, 2.</ls> 
-<ls>PAÑCAV. BR. 21, 4, 4.</ls> 
-<ls>ŚAT. BR. 13, 3, 1, 4.</ls> {#Avarham#} absolut. 
-<ls>KĀṬH. 25, 6.</ls> Vgl. {#Abarha#} fgg. — caus. part. {#Avarhita#} {%ausgerissen, entwurzelt%} 
-<ls>H. 1480.</ls> 
-<ls>HALĀY. 4, 27.</ls>
-
-<div n="p">— {#ud#} {%ausreissen, ausziehen, herausziehen%}: {#yatsamUlamudvfheyurvfkzam#} 
-<ls>ŚAT. BR. 14, 6, 9, 34.</ls> {#udvf^ha\ rakza^H sa\hamU^lam#} 
-<ls>ṚV. 3, 30, 17.</ls> <ls n="ṚV.">6, 48, 17.</ls> {#puYjIlam#} 
-<ls>TS. 6, 2, 4, 3.</ls> {#nIvim#} 
-<ls>ŚAT. BR. 2, 4, 2, 24. 6, 1, 42.</ls> {#Samye#} 
-<ls>3, 3, 4, 25.</ls> <ls>KĀTY. ŚR. 7, 9, 26.</ls> {#udvfQaH prastaraH#} 
-<ls>22, 10, 24.</ls> {#sa cApi keSO harirudvavarha SuklamekamaparaM cApi kfzRam#} 
-<ls>MBH. 1, 7307.</ls> {#udvavarha raTAccApi pannagaM garuqo yaTA#} 
-<ls>7, 4124.</ls> {#nistriMSam#} {%aus der Scheide ziehen%} 
-<ls>6, 2261. 7, 550.</ls> <ls>BHAṬṬ. 14, 8.</ls> {#Saktim#} 
-<ls>17, 90.</ls> {#udvavarhAtmanaScEva manaH sadasadAtmakam#} 
-<ls>M. 1, 14.</ls>
-
-<div n="p">— {#samud#} {%herausziehen%}: {#SarAndaSAzwO ca samudvavarha#} 
-<ls>MBH. 8, 4586.</ls> {#(Kaqgam) koSAtsamudvavarhASu vilAddIptamivoragam#} 
-<ls>10, 230.</ls>
-
-<div n="p">— {#ni#} {%niederschleudern, hinstürzen%} (trans.). {%zu Boden schmettern%} 
-<ls>NAIGH. 2, 19.</ls> {#dasyU^npfTi\vyAM SarvA\ ni ba^rhIt#} 
-<ls>ṚV. 1, 100, 18.</ls> <ls n="ṚV.">4, 16, 12.</ls> <ls n="ṚV. 4,">28, 3.</ls> — caus. dass.: {#ba\rhizma^te\ ni sa\hasrA^Ri ba\rhaya^H#} 
-<ls>ṚV. 1, 53, 6.</ls> <ls n="ṚV. 1, 53,">7.</ls> <ls n="ṚV. 1,">133, 5.</ls> <ls n="ṚV.">2, 23, 8.</ls> <ls n="ṚV.">6, 61, 3.</ls> 
-<ls>MBH. 6, 3516. 7, 8036.</ls> 
-<ls>HARIV. 8295. 8628. 8911.</ls> {%vernichten%}: {#vilokanenEva tavAmunA - nivarhitAMhasA#} 
-<ls>ŚIŚ. 1, 29.</ls> Vgl. {#nivarhaRa#} .
-
+<div n="p">— {#A#} {%ausreissen; losreissen, wegzerren%}: {#yatsamUlamAvfheyurvfkzaM (udvfheyuH#}
+<ls>ŚAT. BR.</ls>) {#na punarABavet#}
+<ls>BṚH. ĀR. UP. 3,9,28.</ls>
+<ls>ṚV. 10,61,5.</ls> {#sa i\ndra izwa^kA^mAvf^hat#}
+<ls>TBR. 1,1,2,5.</ls>
+<ls>ŚAT. BR. 2,1,2,16.</ls> {#aSvasya sakTi#}
+<ls>TS. 5,3,12,2.</ls>
+<ls>PAÑCAV. BR. 21,4,4.</ls>
+<ls>ŚAT. BR. 13,3,1,4.</ls> {#Avarham#} absolut.
+<ls>KĀṬH. 25,6.</ls> Vgl. {#Abarha#} fgg. — caus. part. {#Avarhita#} {%ausgerissen, entwurzelt%}
+<ls>H. 1480.</ls>
+<ls>HALĀY. 4,27.</ls>
+<div n="p">— {#ud#} {%ausreissen, ausziehen, herausziehen%}: {#yatsamUlamudvfheyurvfkzam#}
+<ls>ŚAT. BR. 14,6,9,34.</ls> {#udvf^ha\ rakza^H sa\hamU^lam#}
+<ls>ṚV. 3,30,17.</ls> <ls n="ṚV.">6,48,17.</ls> {#puYjIlam#}
+<ls>TS. 6,2,4,3.</ls> {#nIvim#}
+<ls>ŚAT. BR. 2,4,2,24. 6,1,42.</ls> {#Samye#}
+<ls n="ŚAT. BR.">3,3,4,25.</ls> <ls>KĀTY. ŚR. 7,9,26.</ls> {#udvfQaH prastaraH#}
+<ls n="KĀTY. ŚR.">22,10,24.</ls> {#sa cApi keSO harirudvavarha SuklamekamaparaM cApi kfzRam#}
+<ls>MBH. 1,7307.</ls> {#udvavarha raTAccApi pannagaM garuqo yaTA#}
+<ls n="MBH.">7,4124.</ls> {#nistriMSam#} {%aus der Scheide ziehen%}
+<ls n="MBH.">6,2261.</ls> <ls n="MBH.">7,550.</ls> <ls>BHAṬṬ. 14,8.</ls> {#Saktim#}
+<ls n="BHAṬṬ.">17,90.</ls> {#udvavarhAtmanaScEva manaH sadasadAtmakam#}
+<ls>M. 1,14.</ls>
+<div n="p">— {#samud#} {%herausziehen%}: {#SarAndaSAzwO ca samudvavarha#}
+<ls>MBH. 8,4586.</ls> {#(Kaqgam) koSAtsamudvavarhASu vilAddIptamivoragam#}
+<ls n="MBH.">10,230.</ls>
+<div n="p">— {#ni#} {%niederschleudern, hinstürzen%} (trans.). {%zu Boden schmettern%}
+<ls>NAIGH. 2,19.</ls> {#dasyU^npfTi\vyAM SarvA\ ni ba^rhIt#}
+<ls>ṚV. 1,100,18.</ls> <ls n="ṚV.">4,16,12.</ls> <ls n="ṚV. 4,">28,3.</ls> — caus. dass.: {#ba\rhizma^te\ ni sa\hasrA^Ri ba\rhaya^H#}
+<ls>ṚV. 1,53,6.</ls> <ls n="ṚV. 1,53,">7.</ls> <ls n="ṚV. 1,">133,5.</ls> <ls n="ṚV.">2,23,8.</ls> <ls n="ṚV.">6,61,3.</ls>
+<ls>MBH. 6,3516.</ls> <ls n="MBH.">7,8036.</ls>
+<ls>HARIV. 8295.</ls> <ls n="HARIV.">8628.</ls> <ls n="HARIV.">8911.</ls> {%vernichten%}: {#vilokanenEva tavAmunA — nivarhitAMhasA#}
+<ls>ŚIŚ. 1,29.</ls> Vgl. {#nivarhaRa#} .
 <div n="p">— {#vini#} dass.; vgl. {#vinibarhaRa, vinibarhin#} .
-
 <div n="p">— {#saMni#} dass.; vgl. {#saMnibarhaRa#} .
-
 <div n="p">— {#nis#}, s. {#nirbarhaRa#} .
-
-<div n="p">— {#pra#} {%weg-, ab-, ausreissen; ausziehen; entreissen; zerreissen, zerstören%}: {#sUra^Sca\kraM pra vf^hat#} 
-<ls>ṚV. 1, 130, 9.</ls> <ls n="ṚV. 1,">174, 5.</ls> <ls n="ṚV.">4, 16, 12.</ls> <ls n="ṚV.">5, 29, 10.</ls> {#sva\ra\Tasya\ cakra^M pra\vfhya^ nA\qIma\Biju^huyAt#} 
-<ls>TS. 3, 4, 8, 3.</ls> {#ja\hyasu^zvI\npra vf\hApf^RataH#} 
-<ls>ṚV. 6, 44, 11.</ls> {#pra hi kratu^M vf\haTo\ yaM va^nu\To ra\Drasya^ sTo\ yaja^mAnasya co\dO#} 
-<ls n="ṚV.">2, 30, 6.</ls> {#vasa^vastvA\ (soma) pravf^hantu#} 
-<ls>TS. 3, 3, 3, 1.</ls> 
-<ls>ŚAT. BR. 11, 5, 9, 7.</ls> {#pravarhaM stfRIyAt#} {%abrupfend%} 
-<ls>1, 3, 3, 10.</ls> <ls>KĀTY. ŚR. 2, 7, 27.</ls> {#paSorhfdayam#} 
-<ls>ŚAT. BR. 3, 8, 5, 8.</ls> 
-<ls>KĀTY. ŚR. 6, 8, 2.</ls> {#taM (puruzaM) svAcCarIrAtpravfhenmuYjAdivezIkAM DEryeRa#} 
-<ls>KAṬHOP. 6, 17. 2, 13.</ls> {#tezAM (lokAnAM) tapyamAnAnAM rasAnprAbfhadagniM pfTivyA vAyumantarikzAdAdityaM divaH#} 
-<ls>CHĀND. UP. 4, 17, 1. fgg.</ls> med. {%an sich ziehen%}: {#te savanAni prAvfhanta#} 
-<ls>ŚAT. BR. 11, 5, 9, 4.</ls> 
-<ls>PAÑCAV. BR. 7, 5, 7. fgg.</ls> pass.: {#tasya pAdamagfhRAtsa prAvfhyata#} {%der Fuss riss ab%} 
-<ls>KĀṬH. 13, 2.</ls> {#yo grIvAByaH pravfQAByo rasaH samasravat#} 
-<ls>34, 3.</ls> 
+<div n="p">— {#pra#} {%weg-, ab-, ausreissen; ausziehen; entreissen; zerreissen, zerstören%}: {#sUra^Sca\kraM pra vf^hat#}
+<ls>ṚV. 1,130,9.</ls> <ls n="ṚV. 1,">174,5.</ls> <ls n="ṚV.">4,16,12.</ls> <ls n="ṚV.">5,29,10.</ls> {#sva\ra\Tasya\ cakra^M pra\vfhya^ nA\qIma\Biju^huyAt#}
+<ls>TS. 3,4,8,3.</ls> {#ja\hyasu^zvI\npra vf\hApf^RataH#}
+<ls>ṚV. 6,44,11.</ls> {#pra hi kratu^M vf\haTo\ yaM va^nu\To ra\Drasya^ sTo\ yaja^mAnasya co\dO#}
+<ls n="ṚV.">2,30,6.</ls> {#vasa^vastvA\ (soma) pravf^hantu#}
+<ls>TS. 3,3,3,1.</ls>
+<ls>ŚAT. BR. 11,5,9,7.</ls> {#pravarhaM stfRIyAt#} {%abrupfend%}
+<ls n="ŚAT. BR.">1,3,3,10.</ls> <ls>KĀTY. ŚR. 2,7,27.</ls> {#paSorhfdayam#}
+<ls>ŚAT. BR. 3,8,5,8.</ls>
+<ls>KĀTY. ŚR. 6,8,2.</ls> {#taM (puruzaM) svAcCarIrAtpravfhenmuYjAdivezIkAM DEryeRa#}
+<ls>KAṬHOP. 6,17. 2,13.</ls> {#tezAM (lokAnAM) tapyamAnAnAM rasAnprAbfhadagniM pfTivyA vAyumantarikzAdAdityaM divaH#}
+<ls>CHĀND. UP. 4,17,1. fgg.</ls> med. {%an sich ziehen%}: {#te savanAni prAvfhanta#}
+<ls>ŚAT. BR. 11,5,9,4.</ls>
+<ls>PAÑCAV. BR. 7,5,7. fgg.</ls> pass.: {#tasya pAdamagfhRAtsa prAvfhyata#} {%der Fuss riss ab%}
+<ls>KĀṬH. 13,2.</ls> {#yo grIvAByaH pravfQAByo rasaH samasravat#}
+<ls n="KĀṬH.">34,3.</ls>
 <div n="v">— Vgl. {#prabarha#} .
-
-<div n="p">— {#upapra#} med. {%an sich ziehen%} 
-<ls>ŚAT. BR. 3, 9, 4, 22.</ls>
-
-<div n="p">— {#vi#} {%zerreissen, zerbrechen: zerbrechen; wegreissen, abtrennen%}: {#mfDo\ bfha\spati\rvi va^varhA^ raTA^~ iva#} 
-<ls>ṚV. 2, 23, 13.</ls> {#mezA vi va^rhi\ mA yu\gaM vi SA^ri#} 
-<ls n="ṚV.">3, 53, 17.</ls> {#df\|Ani^#} 
-<ls n="ṚV.">6, 45, 9.</ls> <ls n="ṚV.">8, 45, 8.</ls> {#vizva\gvi vf^hatA\ rapa^H#} 
-<ls n="ṚV. 8,">56, 21.</ls> <ls n="ṚV.">10, 163, 1.</ls> {#vizva^Ycame\vAsmA^tpA\pmAna\M vivf^hataH#} 
-<ls>TBR. 3, 8, 4, 1.</ls> {#yadvivfQaM tatsaMdaDAti#} 
-<ls>ŚAT. BR. 1, 7, 4, 22. 9, 3, 6. 14, 3, 2, 2.</ls> {#yaTezIkAM muYjAdvivfhedevaM sarvasvAtpApmano vyavfhat#} 
-<ls>4, 3, 3, 16. 5, 8, 12.</ls> <ls>KAUŚ. 27. 35.</ls> <ls>PĀR. GṚHY. 3, 6.</ls> -Vgl. {#vibarha#} .
-
-<div n="p">— {#sam#} {%zusammen reissen, zusammen ausziehen%}: {#yaTA mahAsuhayaH sEnDavaH paqbISaSaNkUnsaMvfhedevaM hEvemAnprARAnsaMvavarha#} 
-<ls>ŚAT. BR. 14, 9, 2, 13.</ls>
+<div n="p">— {#upapra#} med. {%an sich ziehen%}
+<ls>ŚAT. BR. 3,9,4,22.</ls>
+<div n="p">— {#vi#} {%zerreissen, zerbrechen: zerbrechen; wegreissen, abtrennen%}: {#mfDo\ bfha\spati\rvi va^varhA^ raTA^~ iva#}
+<ls>ṚV. 2,23,13.</ls> {#mezA vi va^rhi\ mA yu\gaM vi SA^ri#}
+<ls n="ṚV.">3,53,17.</ls> {#df\|Ani^#}
+<ls n="ṚV.">6,45,9.</ls> <ls n="ṚV.">8,45,8.</ls> {#vizva\gvi vf^hatA\ rapa^H#}
+<ls n="ṚV. 8,">56,21.</ls> <ls n="ṚV.">10,163,1.</ls> {#vizva^Ycame\vAsmA^tpA\pmAna\M vivf^hataH#}
+<ls>TBR. 3,8,4,1.</ls> {#yadvivfQaM tatsaMdaDAti#}
+<ls>ŚAT. BR. 1,7,4,22. 9,3,6. 14,3,2,2.</ls> {#yaTezIkAM muYjAdvivfhedevaM sarvasvAtpApmano vyavfhat#}
+<ls n="ŚAT. BR.">4,3,3,16. 5,8,12.</ls> <ls>KAUŚ. 27. 35.</ls> <ls>PĀR. GṚHY. 3,6.</ls> -Vgl. {#vibarha#} .
+<div n="p">— {#sam#} {%zusammen reissen, zusammen ausziehen%}: {#yaTA mahAsuhayaH sEnDavaH paqbISaSaNkUnsaMvfhedevaM hEvemAnprARAnsaMvavarha#}
+<ls>ŚAT. BR. 14,9,2,13.</ls>
 <LEND>

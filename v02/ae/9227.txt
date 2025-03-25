@@ -1,7 +1,7 @@
 <L>9227<pc>411<k1>scout<k2>scout
 {@Scout,@}¦ {%s.%} {#cAraH, caraH, praRiDiH, apasarpaH, gUQa-#}
-<div n="lb"/>{#-caraH;#} {%See%} {@Spy.@} {%-v. i.%} {#saMcar#} 1 P, {#gUQaM-#}
-<div n="lb"/>{#-pracCannaM paracezwAM nirUp#} 10. {%-v. t.%} {#ava-upa-#}
-<div n="lb"/>{#-has#} 1 P, {#sahAsaM niras#} 4 U or {#nirAkf#} 8 U
-<div n="lb"/>or {#pratyAdiS#} 6 P.
+{#-caraH;#} {%See%} {@Spy.@} {%-v. i.%} {#saMcar#} 1 P, {#gUQaM-#}
+{#-pracCannaM paracezwAM nirUp#} 10. {%-v. t.%} {#ava-upa-#}
+{#-has#} 1 P, {#sahAsaM niras#} 4 U or {#nirAkf#} 8 U
+or {#pratyAdiS#} 6 P.
 <LEND>

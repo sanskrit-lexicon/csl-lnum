@@ -1,5 +1,5 @@
 <L>4013<pc>130<k1>college<k2>college
-<div n="lb"/>{@COLLEGE:@}¦ {#vidyAlayaH#} <div n="xe">{%or%}</div> <div n="xs">{#praDAnavidyAlayaH,#}</div> and sim.
-<div n="lb"/>comp. s; <div n="xe">{%of your c. -life%}</div> <div n="xs">{#atramavataH vidyAgfhamaDivasataH,#}</div>
-<div n="lb"/>K.
+{@COLLEGE:@}¦ {#vidyAlayaH#} <div n="xe">{%or%}</div> <div n="xs">{#praDAnavidyAlayaH,#}</div> and sim.
+comp. s; <div n="xe">{%of your c. -life%}</div> <div n="xs">{#atramavataH vidyAgfhamaDivasataH,#}</div>
+K.
 <LEND>

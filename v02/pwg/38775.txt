@@ -1,85 +1,84 @@
 <L>38775<pc>4-0138<k1>nigraha<k2>nigraha
-{#nigraha#}¦ (von {#grah#} mit {#ni#}) <lex>m.</lex> 
-<div n="1"> 1) nom. act. 
-<div n="2"> a) {%das Ergreifen, Packen, Festhalten, Festnehmen%}; = {#banDana (banDaka#} 
-<ls>H. an.</ls>) <ls>MED. h. 17.</ls> <ls>H. an. 3, 765. fg.</ls> {#vegAdahaM pravisftaM pavanaM nirunDyAM tvannigrahe tu varagAtri na me prayatnaH#} 
-<ls>MṚCCH. 10, 21.</ls> {#tayoraTa BujAGAtAnnigrahapragrahAttaTA . AsItsuBImaH saMpAto vajraparvatayoriva ..#} 
-<ls>MBH. 2, 912. 7, 5920.</ls> 
-<ls>HARIV. 13289.</ls> {#yadASrOzaM karRaduryoDanAByAM budDiM kftAM nigrahe keSavasya#} 
-<ls>MBH. 1, 174. 7, 462.</ls> {#rakzasA nigrahaM prApya rAmasya mahizI priyA#} 
-<ls>4, 653.</ls> {#muYcEnaM hftasarvasvaM nAyamarhati nigraham#} {%er verdient es nicht, dass man ihn gefangen hält%}, 
-<ls>BHĀG. P. 8, 22, 21.</ls> {#jihvAmUlanigrahe grastametat#} {%das Hemmen, Zurückhalten in seiner Bewegung%} 
-<ls>ṚV. PRĀT. 14, 3.</ls> 
-<div n="2">— b) {%das Zurückhalten, Bändigen, im-Zaume-Halten%}: {#SravaRAdivyatiriktavizayeByo manaso nigrahaH#} 
-<ls>VEDĀNTAS. (Allah.) No. 12.</ls> {#nigrahaM prakftInAM ca kuryAdyo 'ribalasya ca#} 
-<ls>M. 7, 175.</ls> {#indriya°#} 
-<ls>M. 6, 92. 10, 63. 12, 31.</ls> 
-<ls>YĀJÑ. 1, 222.</ls> 
-<ls>MBH. 3, 13691.</ls> 
-<ls>BHARTṚ. 1, 65.</ls> {#(manasaH) tasyAhaM nigrahaM manye vAyoriva suduzkaram#} 
-<ls>BHAG. 6, 34.</ls> {#prakftiM yAnti BUtAni nigrahaH kiM karizyati#} 
-<ls>3, 33.</ls> {#samudra°#} 
-(<ls>BURN.</ls>: {%jeter un pont sur l'océan%}) 
-<ls>BHĀG. P. 1, 3, 22.</ls> 
-<div n="2">— c) {%das Zurückhalten, Verhalten, Einhalten, Hemmen%}: {#prARasya#} 
-<ls>M. 6, 71.</ls> 
-<ls>VEDĀNTAS. (Allah.) No. 131.</ls> {#mAruta°#} 
-<ls>SUŚR.1, 289, 16.</ls>
+{#nigraha#}¦ (von {#grah#} mit {#ni#}) <lex>m.</lex>
+<div n="1"> 1) nom. act.
+<div n="2"> a) {%das Ergreifen, Packen, Festhalten, Festnehmen%}; = {#banDana (banDaka#}
+<ls>H. an.</ls>) <ls>MED. h. 17.</ls> <ls>H. an. 3,765. fg.</ls> {#vegAdahaM pravisftaM pavanaM nirunDyAM tvannigrahe tu varagAtri na me prayatnaH#}
+<ls>MṚCCH. 10,21.</ls> {#tayoraTa BujAGAtAnnigrahapragrahAttaTA . AsItsuBImaH saMpAto vajraparvatayoriva ..#}
+<ls>MBH. 2,912.</ls> <ls n="MBH.">7,5920.</ls>
+<ls>HARIV. 13289.</ls> {#yadASrOzaM karRaduryoDanAByAM budDiM kftAM nigrahe keSavasya#}
+<ls>MBH. 1,174.</ls> <ls n="MBH.">7,462.</ls> {#rakzasA nigrahaM prApya rAmasya mahizI priyA#}
+<ls n="MBH.">4,653.</ls> {#muYcEnaM hftasarvasvaM nAyamarhati nigraham#} {%er verdient es nicht, dass man ihn gefangen hält%},
+<ls>BHĀG. P. 8,22,21.</ls> {#jihvAmUlanigrahe grastametat#} {%das Hemmen, Zurückhalten in seiner Bewegung%}
+<ls>ṚV. PRĀT. 14,3.</ls>
+<div n="2">— b) {%das Zurückhalten, Bändigen, im-Zaume-Halten%}: {#SravaRAdivyatiriktavizayeByo manaso nigrahaH#}
+<ls>VEDĀNTAS. (Allah.) No. 12.</ls> {#nigrahaM prakftInAM ca kuryAdyo 'ribalasya ca#}
+<ls>M. 7,175.</ls> {#indriya°#}
+<ls>M. 6,92.</ls> <ls n="M.">10,63.</ls> <ls n="M.">12,31.</ls>
+<ls>YĀJÑ. 1,222.</ls>
+<ls>MBH. 3,13691.</ls>
+<ls>BHARTṚ. 1,65.</ls> {#(manasaH) tasyAhaM nigrahaM manye vAyoriva suduzkaram#}
+<ls>BHAG. 6,34.</ls> {#prakftiM yAnti BUtAni nigrahaH kiM karizyati#}
+<ls n="BHAG.">3,33.</ls> {#samudra°#}
+(<ls>BURN.</ls>: {%jeter un pont sur l'océan%})
+<ls>BHĀG. P. 1,3,22.</ls>
+<div n="2">— c) {%das Zurückhalten, Verhalten, Einhalten, Hemmen%}: {#prARasya#}
+<ls>M. 6,71.</ls>
+<ls>VEDĀNTAS. (Allah.) No. 131.</ls> {#mAruta°#}
+<ls>SUŚR. 1,289,16.</ls>
 [Page4-0139]
-{#vega°#} 
-<ls>2, 111, 4.</ls> {#arTavfzwinigrahakft#} 
-<ls>VARĀH. BṚH. S. 6, 10.</ls> {#himanigrahEH#} 
-<ls>RAGH. 9, 25.</ls> {#eza rAjYaH paro Darmo hyArtAnAmArtinigrahaH#} 
-<ls>BHĀG. P. 1, 17, 11.</ls> {#vyADi°#} {%das Einhaltthun einer Krankheit%} 
-<ls>SUŚR. 2, 219, 8. 1, 4, 13.</ls> {#nigraha = cikitsA#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— d) {%Niederdrückung, Zufügung eines Leides, Züchtigung, Bestrafung%}; Gegens. 
-<div n="3"> α) {#anugraha#} 
-<ls>AK. 3, 3, 13.</ls> 
-<ls>H. 1508.</ls> 
-<ls>MBH. 1, 238. 3, 11303.</ls> 
-<ls>R. 4, 16, 25. 6, 5, 5,</ls> 
-<ls>RAGH. 11, 90.</ls> 
-<ls>PAÑCAT. 29, 8.</ls> 
-<ls>PRAB. 99, 17.</ls> 
-<div n="3"> β) {#pragraha#} 
-<ls>MBH. 3, 11306. 11313. 13, 4108.</ls> 
-<ls>HARIV. 4882.</ls> 
-<div n="3"> γ) {#saMgraha#} 
-<ls>M. 8, 311.</ls> 
-<ls>MBH. 5, 968.</ls> 
-<ls>BHĀG. P. 7, 2, 39.</ls> 
-<div n="3"> δ) {#parigraha#} 
-<ls>KĀM. NĪTIS. 13, 49.</ls> 
-<div n="3"> ε) {#prasAda#} 
-<ls>PAÑCAT. 24, 10.</ls> 
-<div n="3"> ζ) {#trARa#} 
-<ls>R. 4, 61, 55.</ls> 
-<div n="3"> η) {#pUjA#} 
-<ls>PRAB. 99, 7.</ls> 
-<div n="3"> θ) {#pAlana#} 
-<ls>VET.</ls> in <ls>LA. 27, 9.</ls> — {#duzwanigraho daRqaH#} 
-<ls>SĀH. D. 37, 2.</ls> {#sAmadAnaviDiBedanigrahAH#} (also = {#daRqa#}) 
-<ls>RAGH. 11, 55.</ls> {#paramaM yatnamAtizWetstenAnAM nigrahe nfpaH#} 
-<ls>M. 8, 302. 343. 387.</ls> {#dEvike nAsti nigrahaH (= daRqaH)#} 
-<ls>409.</ls> <ls>MBH. 1, 2238. 7415. 2, 2103. 5, 7530.</ls> <ls>HARIV. 3647. 6432.</ls> <ls>R. 1, 57, 1. 2, 78, 3. 3, 42, 26.</ls> <ls>RAGH. 12, 52. 63. 15, 6.</ls> <ls>KUMĀRAS. 5, 53.</ls> <ls>KATHĀS. 15, 51.</ls> {#tatastasyAvinItasya padacCedena nigraham . kartuM gopAlarAjena vayamAjYApitAH#} 
-<ls>18, 36.</ls> {#baDa°#} 
-<ls>22, 72. 26, 97. 240.</ls> <ls>PAÑCAT. 37, 5. 38, 11. 41, 25. 172, 3.</ls> <ls>HIT. II, 137.</ls> <ls>AMAR. 34.</ls> <ls>BHĀG. P. 6, 13, 9.</ls> <ls>RĀJA-TAR. 4, 112. 277. 280. 281.</ls> 
-<div n="2">— e) {%Zurechtweisung, Tadel%}; = {#Bartsana#} 
-<ls>H. an.</ls> <ls>MED.</ls> {#svamatAtpracyAvanamapanayo nigrahaH#} 
-<ls>P. 8, 2, 94,</ls> 
-<ls>Sch.</ls> 
-<div n="2">— f) im <is>Nyāya</is> {%ein Versehen im Beweise, Beweisfehler%} 
-<ls>COLEBR. Misc. Ess. I, 294.</ls> {%Ungehörigkeit%} 
-<ls>MÜLLER</ls> in <ls>Z. d. d. m. G. 6, 4, 6</ls> (<ls>MADHUS.</ls> in <ls>Ind. St. 1, 18, 4 v. u.</ls>). {#(nyAyEH) sacCalajAtinigrahamayEH#} 
-<ls>PRAB. 111, 9.</ls> 
-<div n="1">— 2) {%Handgriff%}: {#sanigraho 'nigrahaSca saMdaMSO#} 
-<ls>SUŚR. 1, 24, 11. 2, 353, 10.</ls> 
-<div n="1">— 3) {%Grenze%} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="1">— 4) N. <is>Viṣṇu's</is> oder <is>Kṛṣṇa's</is> 
-<ls>ŚKDR.</ls> <ls>WILS.</ls> {#pragraho nigraho vyAGro nEkaSfNgo gadAgrajaH . iti tasya sahasranAma#} 
-<ls>ŚKDR.</ls> Eben so unter den Namen von <is>Śiva</is> 
-<ls>MBH. 13, 1179.</ls> Hat hier offenbar die Bed. {%Züchtigung.%} 
+{#vega°#}
+<ls n="SUŚR.">2,111,4.</ls> {#arTavfzwinigrahakft#}
+<ls>VARĀH. BṚH. S. 6,10.</ls> {#himanigrahEH#}
+<ls>RAGH. 9,25.</ls> {#eza rAjYaH paro Darmo hyArtAnAmArtinigrahaH#}
+<ls>BHĀG. P. 1,17,11.</ls> {#vyADi°#} {%das Einhaltthun einer Krankheit%}
+<ls>SUŚR. 2,219,8.</ls> <ls n="SUŚR.">1,4,13.</ls> {#nigraha = cikitsA#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— d) {%Niederdrückung, Zufügung eines Leides, Züchtigung, Bestrafung%}; Gegens.
+<div n="3"> α) {#anugraha#}
+<ls>AK. 3,3,13.</ls>
+<ls>H. 1508.</ls>
+<ls>MBH. 1,238.</ls> <ls n="MBH.">3,11303.</ls>
+<ls>R. 4,16,25.</ls> <ls n="R.">6,5,5</ls>,
+<ls>RAGH. 11,90.</ls>
+<ls>PAÑCAT. 29,8.</ls>
+<ls>PRAB. 99,17.</ls>
+<div n="3"> β) {#pragraha#}
+<ls>MBH. 3,11306.</ls> <ls n="MBH. 3,">11313.</ls> <ls n="MBH.">13,4108.</ls>
+<ls>HARIV. 4882.</ls>
+<div n="3"> γ) {#saMgraha#}
+<ls>M. 8,311.</ls>
+<ls>MBH. 5,968.</ls>
+<ls>BHĀG. P. 7,2,39.</ls>
+<div n="3"> δ) {#parigraha#}
+<ls>KĀM. NĪTIS. 13,49.</ls>
+<div n="3"> ε) {#prasAda#}
+<ls>PAÑCAT. 24,10.</ls>
+<div n="3"> ζ) {#trARa#}
+<ls>R. 4,61,55.</ls>
+<div n="3"> η) {#pUjA#}
+<ls>PRAB. 99,7.</ls>
+<div n="3"> θ) {#pAlana#}
+<ls>VET. in LA. 27,9.</ls> — {#duzwanigraho daRqaH#}
+<ls>SĀH. D. 37,2.</ls> {#sAmadAnaviDiBedanigrahAH#} (also = {#daRqa#})
+<ls>RAGH. 11,55.</ls> {#paramaM yatnamAtizWetstenAnAM nigrahe nfpaH#}
+<ls>M. 8,302.</ls> <ls n="M. 8,">343.</ls> <ls n="M. 8,">387.</ls> {#dEvike nAsti nigrahaH (= daRqaH)#}
+<ls n="M. 8,">409.</ls> <ls>MBH. 1,2238.</ls> <ls n="MBH. 1,">7415.</ls> <ls n="MBH.">2,2103.</ls> <ls n="MBH.">5,7530.</ls> <ls>HARIV. 3647.</ls> <ls n="HARIV.">6432.</ls> <ls>R. 1,57,1.</ls> <ls n="R.">2,78,3</ls> <ls n="R.">3,42,26.</ls> <ls>RAGH. 12,52.</ls> <ls n="RAGH. 12,">63.</ls> <ls n="RAGH.">15,6.</ls> <ls>KUMĀRAS. 5,53.</ls> <ls>KATHĀS. 15,51.</ls> {#tatastasyAvinItasya padacCedena nigraham . kartuM gopAlarAjena vayamAjYApitAH#}
+<ls n="KATHĀS.">18,36.</ls> {#baDa°#}
+<ls n="KATHĀS.">22,72.</ls> <ls n="KATHĀS.">26,97.</ls> <ls n="KATHĀS. 26,">240.</ls> <ls>PAÑCAT. 37,5. 38,11. 41,25. 172,3.</ls> <ls>HIT. II,137.</ls> <ls>AMAR. 34.</ls> <ls>BHĀG. P. 6,13,9.</ls> <ls>RĀJA-TAR. 4,112. 277. 280. 281.</ls>
+<div n="2">— e) {%Zurechtweisung, Tadel%}; = {#Bartsana#}
+<ls>H. an.</ls> <ls>MED.</ls> {#svamatAtpracyAvanamapanayo nigrahaH#}
+<ls>P. 8,2,94</ls>, <ls>Sch.</ls>
+<div n="2">— f) im <is>Nyāya</is> {%ein Versehen im Beweise, Beweisfehler%}
+<ls>COLEBR. Misc. Ess. I,294.</ls> {%Ungehörigkeit%}
+<ls>MÜLLER</ls> in <ls>Z. d. d. m. G. 6,4,6</ls> (<ls>MADHUS.</ls> in <ls>Ind. St. 1,18,4</ls> v. u.). {#(nyAyEH) sacCalajAtinigrahamayEH#}
+<ls>PRAB. 111,9.</ls>
+<div n="1">— 2) {%Handgriff%}: {#sanigraho 'nigrahaSca saMdaMSO#}
+<ls>SUŚR. 1,24,11.</ls> <ls n="SUŚR.">2,353,10.</ls>
+<div n="1">— 3) {%Grenze%}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="1">— 4) N. <is>Viṣṇu's</is> oder <is>Kṛṣṇa's</is>
+<ls>ŚKDR.</ls> <ls>WILS.</ls> {#pragraho nigraho vyAGro nEkaSfNgo gadAgrajaH . iti tasya sahasranAma#}
+<ls>ŚKDR.</ls> Eben so unter den Namen von <is>Śiva</is>
+<ls>MBH. 13,1179.</ls> Hat hier offenbar die Bed. {%Züchtigung.%}
 <div n="v">— Vgl. {#durnigraha#} .
 <LEND>

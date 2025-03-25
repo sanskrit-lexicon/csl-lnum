@@ -1,12 +1,12 @@
 <L>2738<pc>1-0200<k1>anukroSa<k2>anukroSa
-{#anukroSa#}¦ (von {#kruS#} mit {#anu#}) <lex>m.</lex> {%Mitleid, Mitgefühl%} 
-<ls>AK. 1, 1, 7, 18.</ls> 
-<ls>H. 369.</ls> 
-<ls>KĀTY. ŚR. 25, 4, 30.</ls> 
-<ls>R. 6, 109, 66.</ls> mit dem loc.: {#mayi te padyanukroSaH#} 
-<ls>R. 3, 27, 12. 5, 24, 4. 49, 21.</ls> 
-<ls>MEGH. 113.</ls> mit {#prati#} 
-<ls>ŚĀK. 54, v. l.</ls> {#sAnukroSa#} <lex>adj.</lex> <lex>f.</lex> {#A#} {%Mitgefühl habend%} 
-<ls>R. 2, 4, 25. 6, 9, 2.</ls> 
-<ls>N.</ls> <ls>?(BOPP) 17, 42.</ls> {#niranukroSa#} {%ohne Mitgefühl%} ebend.
+{#anukroSa#}¦ (von {#kruS#} mit {#anu#}) <lex>m.</lex> {%Mitleid, Mitgefühl%}
+<ls>AK. 1,1,7,18.</ls>
+<ls>H. 369.</ls>
+<ls>KĀTY. ŚR. 25,4,30.</ls>
+<ls>R. 6,109,66.</ls> mit dem loc.: {#mayi te padyanukroSaH#}
+<ls>R. 3,27,12.</ls> <ls n="R.">5,24,4</ls> <ls n="R. 5,">49,21.</ls>
+<ls>MEGH. 113.</ls> mit {#prati#}
+<ls>ŚĀK. 54, v. l.</ls> {#sAnukroSa#} <lex>adj.</lex> <lex>f.</lex> {#A#} {%Mitgefühl habend%}
+<ls>R. 2,4,25.</ls> <ls n="R.">6,9,2.</ls>
+<ls>N. (BOPP) 17,42.</ls> {#niranukroSa#} {%ohne Mitgefühl%} ebend.
 <LEND>

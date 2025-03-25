@@ -1,14 +1,14 @@
 <L>3682<pc>121<k1>circle<k2>circle
-<div n="lb"/>{@CIRCLE@}¦ (subs.): <div n="I">I In geo.: </div><div n="1">(1) {#vfttam,#} Li.;</div>
-<div n="lb"/><div n="1">(2) {#maRqalam,#} Su. Ph. <div n="xe">{%Great c.:%}</div> <div n="xs">{#*mahAvfttam;#}</div> <div n="xe">{%small%}
-<div n="lb"/>{%c.:%}</div> <div n="xs">{#*kzudravfttam.#}</div> </div><div n="I">II A circumference, ring:
-<div n="lb"/>{#maRqalam,#} <div n="xe">{%moving in a c.%}</div> <div n="xs">{#maRqalaBramaRam,#}</div> D. vi. </div><div n="I">III
-<div n="lb"/>A sphere: q. v.: “{%c. of the earth%}” {#BUmaRqalam.#}</div>
-<div n="lb"/><div n="I">IV Compass, circuit: q. v. V. A. group of
-<div n="lb"/>persons: </div><div n="1">(1) {#maRqalam,#} <div n="xe">{%dismissing the c. of%}
-<div n="lb"/>{%sages%}</div> <div n="xs">{#visarjitamunimaRqalaH,#}</div> C.; </div><div n="1">(2) {#cakram,#} <div n="xe">{%c. of%}
-<div n="lb"/>{%archers%}</div> <div n="xs">{#DAnuzkacakram,#}</div> Ve. iv. Ph.: <div n="xe">{%in the%}
-<div n="lb"/>{%family c.:%}</div> <div n="xs">{#parivAramaDye.#}</div> VI. A province: {#maRqalam,#}
-<div n="lb"/>M. Ph.: <div n="xe">{%to argue in a c.:%}</div> <div n="xs">{#*maRqalena tarkayati; #}
-<div n="lb"/>{# prameyasADanArTaM prameyAnyeva vakraM prayunakti.#}</div></div>
+{@CIRCLE@}¦ (subs.): <div n="I">I In geo.: </div><div n="1">(1) {#vfttam,#} Li.;</div>
+<div n="1">(2) {#maRqalam,#} Su. Ph. <div n="xe">{%Great c.:%}</div> <div n="xs">{#*mahAvfttam;#}</div> <div n="xe">{%small%}
+{%c.:%}</div> <div n="xs">{#*kzudravfttam.#}</div> </div><div n="I">II A circumference, ring:
+{#maRqalam,#} <div n="xe">{%moving in a c.%}</div> <div n="xs">{#maRqalaBramaRam,#}</div> D. vi. </div><div n="I">III
+A sphere: q. v.: “{%c. of the earth%}” {#BUmaRqalam.#}</div>
+<div n="I">IV Compass, circuit: q. v. V. A. group of
+persons: </div><div n="1">(1) {#maRqalam,#} <div n="xe">{%dismissing the c. of%}
+{%sages%}</div> <div n="xs">{#visarjitamunimaRqalaH,#}</div> C.; </div><div n="1">(2) {#cakram,#} <div n="xe">{%c. of%}
+{%archers%}</div> <div n="xs">{#DAnuzkacakram,#}</div> Ve. iv. Ph.: <div n="xe">{%in the%}
+{%family c.:%}</div> <div n="xs">{#parivAramaDye.#}</div> VI. A province: {#maRqalam,#}
+M. Ph.: <div n="xe">{%to argue in a c.:%}</div> <div n="xs">{#*maRqalena tarkayati; #}
+{# prameyasADanArTaM prameyAnyeva vakraM prayunakti.#}</div></div>
 <LEND>

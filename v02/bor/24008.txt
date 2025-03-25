@@ -1,8 +1,8 @@
 <L>24008<pc>751<k1>vulgar<k2>vulgar
-<div n="lb"/>{@VULGAR:@}¦ <div n="1">(1) {#grAmya#} (f. {#myA#} = rustic), <div n="xe">{%you will%}
-<div n="lb"/>{%know that men are not v.:%}</div> <div n="xs">{#agrAmyatAM manuzyARAM #}
-<div n="lb"/>{# jYAsyasi,#}</div> K.; <div n="xe">{%although the words......are%}
-<div n="lb"/>{%v.:%}</div> <div n="xs">{#atra......SabdA grAmyA api,#}</div> Kav. vii.; </div><div n="1">(2)
-<div n="lb"/>{#asaBya#} (f. {#ByA#} = not civilized); </div><div n="1">(3) {#jaGanya#} (f.
-<div n="lb"/>{#nyA#} = low, mean).</div>
+{@VULGAR:@}¦ <div n="1">(1) {#grAmya#} (f. {#myA#} = rustic), <div n="xe">{%you will%}
+{%know that men are not v.:%}</div> <div n="xs">{#agrAmyatAM manuzyARAM #}
+{# jYAsyasi,#}</div> K.; <div n="xe">{%although the words......are%}
+{%v.:%}</div> <div n="xs">{#atra......SabdA grAmyA api,#}</div> Kav. vii.; </div><div n="1">(2)
+{#asaBya#} (f. {#ByA#} = not civilized); </div><div n="1">(3) {#jaGanya#} (f.
+{#nyA#} = low, mean).</div>
 <LEND>

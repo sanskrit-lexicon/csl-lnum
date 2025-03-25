@@ -1,9 +1,9 @@
 <L>40077<pc>4-0243<k1>nizkalmaza<k2>nizkalmaza
-{#nizkalmaza#}¦ ({#nis + ka°#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%fleckenlos, sündenlos%} 
-<ls>HARIV. 16133.</ls> 
-<ls>PAÑCAT. III, 212.</ls> <ls>RĀJA-TAR. 1, 105.</ls> {#AcAra#} 
-<ls>4, 78.</ls> {#tapas#} 
-<ls>MBH. 1, 4643. 5, 1632. 1634. 12, 7856.</ls> {#brahmacarya#} 
-<ls>7821.</ls> {#°zIBUta#} 
-<ls>YĀJÑ. 3, 218.</ls>
+{#nizkalmaza#}¦ ({#nis + ka°#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%fleckenlos, sündenlos%}
+<ls>HARIV. 16133.</ls>
+<ls>PAÑCAT. III,212.</ls> <ls>RĀJA-TAR. 1,105.</ls> {#AcAra#}
+<ls n="RĀJA-TAR.">4,78.</ls> {#tapas#}
+<ls>MBH. 1,4643.</ls> <ls n="MBH.">5,1632.</ls> <ls n="MBH. 5,">1634.</ls> <ls n="MBH.">12,7856.</ls> {#brahmacarya#}
+<ls n="MBH. 12,">7821.</ls> {#°zIBUta#}
+<ls>YĀJÑ. 3,218.</ls>
 <LEND>

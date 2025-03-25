@@ -1,8 +1,8 @@
 <L>5415<pc>225<k1>individual<k2>individual
 {@Individual,@}¦ {%s.%} {#vyakti#} {%f.,%} {#puruzaH, ekajanaH,#}
-<div n="lb"/>{#avayavaH#}. {%-a.%} {#vyaktigata, avyApaka, a-#}
-<div n="lb"/>{#-vyApin, eka#} {@-ity,@} {%s.%} {#vyaktitA, avyApakatvaM,#}
-<div n="lb"/>{#vyaktiH#}. {@2@} {#pfTaktvaM, pArTakyaM, mamatA#}. {@-ly,@}
-<div n="lb"/>{%adv.%} {#ekEkaSaH, pratyekaSaH, ekEkaM, pratyavayavaM,#}
-<div n="lb"/>{#avayavaSaH, pfTak, pfTak#}.
+{#avayavaH#}. {%-a.%} {#vyaktigata, avyApaka, a-#}
+{#-vyApin, eka#} {@-ity,@} {%s.%} {#vyaktitA, avyApakatvaM,#}
+{#vyaktiH#}. {@2@} {#pfTaktvaM, pArTakyaM, mamatA#}. {@-ly,@}
+{%adv.%} {#ekEkaSaH, pratyekaSaH, ekEkaM, pratyavayavaM,#}
+{#avayavaSaH, pfTak, pfTak#}.
 <LEND>

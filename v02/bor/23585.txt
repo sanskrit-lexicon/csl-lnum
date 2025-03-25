@@ -1,6 +1,6 @@
 <L>23585<pc>739<k1>upper<k2>upper
-<div n="lb"/>{@UPPER:@}¦ <div n="1">(1) {#uparitana#} (f. {#nI#}); </div><div n="1">(2) {#UrDvatana#}
-<div n="lb"/>(f. {#nI#}); </div><div n="1">(3) {#UrDva#} (f. {#rDvA#}); </div><div n="1">(4) {#UrDvasTa#} (f. {#sTA#});</div>
-<div n="lb"/><div n="1">(5) {#uparisTa#} (f. {#sTA#}); </div><div n="1">(6) {#uttara#} (f. {#rA#}), {%u. half:%}
-<div n="lb"/>{#uttarArDam.#}</div>
+{@UPPER:@}¦ <div n="1">(1) {#uparitana#} (f. {#nI#}); </div><div n="1">(2) {#UrDvatana#}
+(f. {#nI#}); </div><div n="1">(3) {#UrDva#} (f. {#rDvA#}); </div><div n="1">(4) {#UrDvasTa#} (f. {#sTA#});</div>
+<div n="1">(5) {#uparisTa#} (f. {#sTA#}); </div><div n="1">(6) {#uttara#} (f. {#rA#}), {%u. half:%}
+{#uttarArDam.#}</div>
 <LEND>

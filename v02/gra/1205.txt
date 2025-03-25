@@ -1,8 +1,8 @@
 <L>1205<pc>0133<k1>avyaTi<k2>a-vyaTi/
-{@a-vyathí,@}¦ a., {%nicht wankend%} [vyáthi], auf dem Gange oder im Fluge; 2) auch übertragen auf Schutz, Hülfe; 3) <ab>f.</ab>, {%sicherer Gang.%}
-<div n="P1">-ís taugriás {117,15}; suparṇás <lbinfo n="6"/> {760,3}.
-<div n="P1">-ī́ [<ab>I.</ab> <ab>f.</ab>] 3) {853,21}.
-<div n="P1">-ī́s [<ab>A.</ab> <ab>p.</ab> <ab>f.</ab>] 3) {857,10}.
-<div n="P1">-íbhis 1) patatríbhis {585,7}. — 2) ūtíbhis {112,6}.
-<div n="P1">-íṣu 3) {622,24}.
+<chg type="chg" n="41" src="gra"><old>{@á-vyathí@},</old><new>{@a-vyathí@},</new></chg>¦ <ab>a.</ab>, {%nicht wankend%} [vyáthi], auf dem Gange oder im Fluge; 2〉 auch übertragen auf Schutz, Hülfe; 3〉 <ab>f.</ab>, {%sicherer Gang%}.
+<div n="TS">-ís taugriás {117,15}; suparṇás {760,3}.
+<div n="TS">-ī́ [<ab>I.</ab> <ab>f.</ab>] 3〉 {853,21}.
+<div n="TS">-ī́s [<ab>A.</ab> <ab>p.</ab> <ab>f.</ab>] 3〉 {857,10}.
+<div n="TS">-íbhis 1〉 patatríbhis {585,7}. — 2〉 ūtíbhis {112,6}.
+<div n="TS">-íṣu 3〉 {622,24}.
 <LEND>

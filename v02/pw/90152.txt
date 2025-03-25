@@ -1,27 +1,27 @@
-<L>90152<pc>5126-1<k1>yad<k2>ya/d<e>100
+<L>90152<pc>5-126-a<k1>yad<k2>ya/d
 {#ya/d#}¦
-<div n="1">— 1) <ab>Nom.</ab> und <ab>Acc.</ab> <ab>Sg.</ab> <lex>n.</lex> und am Anfange eines Comp. {%was , welches%} ; <ab>s.u.</ab> 1. {#ya#}
-<div n="1">— 2) <ab>Conj.</ab>
-<div n="2">— a) {%<ab>dass.</ab>%} Nach {%sagen, denken%} u.s.w. vor einer directen Rede und zwar in der Regel ohne nachfolgendes {#iti#} <ls>PAÑCAT.160,24.172,7.213,18.218,2.236,2.</ls>
-<div n="2">— b) {%so <ab>dass.</ab>%}
-<div n="2">— c) {%was das betrifft , dass%}
-<div n="2">— d) {%weshalb , wessentwegen%}
-<div n="2">— e) {%wann , als%}
-<div n="2">— f) {%wenn , wofern%} <ls>33,18.39,10. </ls> Nach DELBRÜCK'S Beobachtungen in den <is>Brāhmaṇa</is> mit <ab>Potent.</ab> bei einer nicht eintretenden Voraussetzung.
-<div n="2">— g) {%weil , da%} <ls>21,19.28,25.29.31,9.</ls>
-<div n="2">— h) {%auf dass , damit%} <ls>PAÑCAT.160,17.</ls>
-<div n="2">— i) {#a/Da ya/d#} {%wenn auch , obschon%} <ls>ṚV.1,167,2.169,6.186,9.</ls>
-<div n="2">— k) {#yadapi#} {%wenn auch , obgleich.%}
-<div n="2">— l) {#yadu#} {%wie —%} {#evam#} {%so.%}
-<div n="2">— m) {#yaduta#}
-<div n="3">— α) = 2)a) <ls>BĀLAR.18,13.87,7.99,23.115,14.</ls>
-<div n="3">— β) nämlich , und zwar <ls>KĀRAṆḌ.66,7.</ls>
-<div n="2">— n) {#yatkila#} = 2)a) <ls>PRASANNAR.9,10.</ls>
-<div n="2">— o) {#yacca#}
-<div n="3">— α) {%wenn nämlich , und zwar%} <ls>CARAKA.2,3.</ls>
-<div n="3">— β) {%*dass%} mit <ab>Potent.</ab> nach {%nicht für möglich halten , nicht glauben (hoffen) nicht leiden , tadeln , Wunder.%}
-<div n="2">— p) {#yadvA#}
-<div n="3">— α) {%oder%} <ls>BĀLAR.132,13.</ls>
-<div n="3">— β) {%jedoch , indessen%} <ls>BĀLAR.8,1.29,14.30,6.35,3.</ls>
-<div n="3">— γ) mit folgendem {#yadi vA#} {%wenn — oder wenn.%}
+<div n="1">— 1〉 <ab>Nom.</ab> und <ab>Acc.</ab> <ab>Sg.</ab> <lex>n.</lex> und am Anfange eines <ab>Comp.</ab> {%was, welches;%} <ab>s. u.</ab> <hom>1.</hom> {#ya#}
+<div n="1">— 2〉 <ab>Conj.</ab>
+<div n="2">— a〉 <ab>dass.</ab> Nach {%sagen, denken%} <ab>u. s. w.</ab> vor einer directen Rede und zwar in der Regel ohne nachfolgendes {#iti#} <ls>PAÑCAT. 160,24. 172,7. 213,18. 218,2. 236,2</ls>.
+<div n="2">— b〉 {%so dass%}.
+<div n="2">— c〉 {%was das betrifft, dass%}.
+<div n="2">— d〉 {%weshalb, wessentwegen%}.
+<div n="2">— e〉 {%wann, als%}.
+<div n="2">— f〉 {%wenn, wofern%} <ls n="Chr.">33,18</ls>. <ls n="Chr.">39,10</ls>. Nach <ls>DELBRÜCK</ls>ʼs Beobachtungen in den <is>Brāhmaṇa</is> mit <ab>Potent.</ab> bei einer nicht eintretenden Voraussetzung.
+<div n="2">— g〉 {%weil, da%} <ls n="Chr.">21,19</ls>. <ls n="Chr.">28,25</ls>. <ls n="Chr. 28,">29</ls>. <ls n="Chr.">31,9</ls>.
+<div n="2">— h〉 {%auf dass, damit%} <ls>PAÑCAT. 160,17</ls>.
+<div n="2">— i〉 {#a/Da ya/d#} {%wenn auch, obschon%} <ls>ṚV. 1,167,2. 169,6. 186,9</ls>.
+<div n="2">— k〉 {#yadapi#} {%wenn auch, obgleich%}.
+<div n="2">— l〉 {#yadu#} {%wie%} — {#evam#} {%so%}.
+<div n="2">— m〉 {#yaduta#}
+<div n="3">— α〉 = 2〉a〉 <ls>BĀLAR. 18,13. 87,7. 99,23. 115,14</ls>.
+<div n="3">— β〉 nämlich, und zwar <ls>KĀRAṆḌ. 66,7</ls>.
+<div n="2">— n〉 {#yatkila#} = 2〉a〉 <ls>PRASANNAR. 9,10</ls>.
+<div n="2">— o〉 {#yacca#}
+<div n="3">— α〉 {%wenn nämlich, und zwar%} <ls>CARAKA. 2,3</ls>.
+<div n="3">— β〉 *{%dass%} mit <ab>Potent.</ab> nach {%nicht für möglich halten, nicht glauben (hoffen) nicht leiden, tadeln, Wunder%}.
+<div n="2">— p〉 {#yadvA#}
+<div n="3">— α〉 {%oder%} <ls>BĀLAR. 132,13</ls>.
+<div n="3">— β〉 {%jedoch, indessen%} <ls>BĀLAR. 8,1. 29,14. 30,6. 35,3</ls>.
+<div n="3">— γ〉 mit folgendem {#yadi vA#} {%wenn — oder wenn%}.
 <LEND>

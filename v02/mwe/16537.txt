@@ -1,6 +1,6 @@
 <L>16537<pc>409-b<k1>inundation<k2>inundation
-<div n="lb"/>INUNDATION¦, {%s.%} {#jalaplAvaH -vana, AplAvaH -vanaM, jalAplAvanaM, jalapralayaH,#}
-<div n="lb"/>{#toyaviplavaH, jalaviplavaH, salilopaplavaH, jalocCvAsaH, jalavegaH, jalapa-#}
-<div n="lb"/>{#riplavaH, pariplavaH, jalOGaH, oGaH, jalavfdDiH#} {%f.,%} {#parIvAhaH, parivAhaH,#}
-<div n="lb"/>{#vidAraH, srotas#} {%n.,%} {#vanyA#}.
+INUNDATION¦, {%s.%} {#jalaplAvaH -vana, AplAvaH -vanaM, jalAplAvanaM, jalapralayaH,#}
+{#toyaviplavaH, jalaviplavaH, salilopaplavaH, jalocCvAsaH, jalavegaH, jalapa-#}
+{#riplavaH, pariplavaH, jalOGaH, oGaH, jalavfdDiH#} {%f.,%} {#parIvAhaH, parivAhaH,#}
+{#vidAraH, srotas#} {%n.,%} {#vanyA#}.
 <LEND>

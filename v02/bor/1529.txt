@@ -1,4 +1,4 @@
 <L>1529<pc>054<k1>balcony<k2>balcony
-<div n="lb"/>{@BALCONY:@}¦ <div n="1">(1) {#pragrIvaH#} (?); </div><div n="1">(2) {#vitardDiH#} (?);</div>
-<div n="lb"/><div n="1">(3) {#indrakozaH#} (?).</div>
+{@BALCONY:@}¦ <div n="1">(1) {#pragrIvaH#} (?); </div><div n="1">(2) {#vitardDiH#} (?);</div>
+<div n="1">(3) {#indrakozaH#} (?).</div>
 <LEND>

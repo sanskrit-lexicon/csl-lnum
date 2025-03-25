@@ -1,43 +1,43 @@
 <L>116825<pc>7-1602<k1>hArya<k2>hA/rya
-{#hA/rya#}¦ (von 1. {#har#}) 
-<div n="1"> 1) <lex>adj.</lex> 
-<ls>Schol.</ls> zu <ls>P. 3, 1, 124. 6, 1, 185.</ls> = {#hartavya#} 
-<ls>H. an. 2, 390.</ls> 
-<ls>MED. y. 64.</ls> 
-<div n="2"> a) {%zu tragen%}: {#hasta°#} 
-<ls>HARIV. 7682.</ls> {#arBakahAryaSastra#} <lex>adj.</lex> 
-<ls>RAGH. 7, 64.</ls> {#vAraRarAja°#} 
-<ls>KUMĀRAS. 5, 70.</ls> {#dyucaravizwisahasra°#} 
-<ls>KATHĀS. 110, 143.</ls> 
-<div n="2">— b) {%fortzutragen%} 
-<ls>ŚAT. BR. 2, 6, 1, 12.</ls> {#niHSvAsahAryAMSuka#} 
-<ls>RAGH. 16, 43.</ls> {#oGahAryABiH sikatABiH#} 
-<ls>KATHĀS. 40, 19.</ls> 
-<div n="2">— c) {%wegzunehmen, zu rauben, was man sich aneignen kann%}: {#BartfhAryaDano hi saH (SUdraH)#} 
-<ls>M. 8, 417.</ls> {#cOra°, rAja°#} 
-<ls>Spr. (II) 3240.</ls> {#ahAryaM brAhmaRadravyaM rAjYA#} 
-<ls>M. 9, 189.</ls> 
-<div n="2">— d) {%zu benehmen%}, {#a°#} so v. a. {%unabänderlich, unerschütterlich%}: {#°niScaya#} <lex>adj.</lex> 
-<ls>KUMĀRAS. 5, 8.</ls> 
-<ls>DAŚAK. 62, 13.</ls> {#°budDi#} 
-<ls>KĀM. NĪTIS. 15, 30.</ls> {#°vftta#} 
-<ls>MBH. 5, 953.</ls> 
-<div n="2">— e) {%gewinnbar, bestechbar%}: {#Dana°#} 
-<ls>MṚCCH. 13, 15. 78, 22.</ls> {#guRa°#} 
-<ls>23.</ls> <ls>HARIV. 8658.</ls> {#arUpa°#} 
-<ls>KUMĀRAS. 5, 53.</ls> {#a°#} {%unbestechlich%} 
-<ls>M. 7, 217.</ls> 
-<ls>MBH. 12, 3144.</ls> 
-<ls>Spr. (II) 791.</ls> 
-<div n="2">— f) {%aufzuführen%}: {#vITI syAdekANkA dvipAtrahAryA taTEkahAryA vA#} 
-<ls>BHAR.</ls> <ls>NĀṬYAŚ. 18, 102.</ls> 
-<div n="2">— g) {%zu dividiren%} Comm. zu 
-<ls>ĀRYABH. 2, 27.</ls> 
-<div n="2">— h) = {#hArin#} {%hinreissend, reizend%}: {#hAryo 'yaM (hAryayaM?) vizayaH#} 
-<ls>MBH. 13, 1429.</ls> — Unklar ist uns die Bed. von {#ekahArya#} als Beiw. von {#yuga#} {%Zeitalter%} 
-<ls>MBH. 3, 13049.</ls> {#ekAhArya#} ed. Bomb., was 
-<ls>NĪLAK.</ls> sehr künstlich erklärt, indem er darin {#AhAra#} {%Speise%} sucht. 
-<div n="1">— 2) <lex>m.</lex> {%Terminalia Bellerica Roxb.%} 
-<ls>H. an.</ls> <ls>MED.</ls> 
+{#hA/rya#}¦ (von 1. {#har#})
+<div n="1"> 1) <lex>adj.</lex>
+<ls>Schol.</ls> zu <ls>P. 3,1,124.</ls> <ls n="P.">6,1,185.</ls> = {#hartavya#}
+<ls>H. an. 2,390.</ls>
+<ls>MED. y. 64.</ls>
+<div n="2"> a) {%zu tragen%}: {#hasta°#}
+<ls>HARIV. 7682.</ls> {#arBakahAryaSastra#} <lex>adj.</lex>
+<ls>RAGH. 7,64.</ls> {#vAraRarAja°#}
+<ls>KUMĀRAS. 5,70.</ls> {#dyucaravizwisahasra°#}
+<ls>KATHĀS. 110,143.</ls>
+<div n="2">— b) {%fortzutragen%}
+<ls>ŚAT. BR. 2,6,1,12.</ls> {#niHSvAsahAryAMSuka#}
+<ls>RAGH. 16,43.</ls> {#oGahAryABiH sikatABiH#}
+<ls>KATHĀS. 40,19.</ls>
+<div n="2">— c) {%wegzunehmen, zu rauben, was man sich aneignen kann%}: {#BartfhAryaDano hi saH (SUdraH)#}
+<ls>M. 8,417.</ls> {#cOra°, rAja°#}
+<ls>Spr. (II) 3240.</ls> {#ahAryaM brAhmaRadravyaM rAjYA#}
+<ls>M. 9,189.</ls>
+<div n="2">— d) {%zu benehmen%}, {#a°#} so v. a. {%unabänderlich, unerschütterlich%}: {#°niScaya#} <lex>adj.</lex>
+<ls>KUMĀRAS. 5,8.</ls>
+<ls>DAŚAK. 62,13.</ls> {#°budDi#}
+<ls>KĀM. NĪTIS. 15,30.</ls> {#°vftta#}
+<ls>MBH. 5,953.</ls>
+<div n="2">— e) {%gewinnbar, bestechbar%}: {#Dana°#}
+<ls>MṚCCH. 13,15. 78,22.</ls> {#guRa°#}
+<ls n="MṚCCH.">23.</ls> <ls>HARIV. 8658.</ls> {#arUpa°#}
+<ls>KUMĀRAS. 5,53.</ls> {#a°#} {%unbestechlich%}
+<ls>M. 7,217.</ls>
+<ls>MBH. 12,3144.</ls>
+<ls>Spr. (II) 791.</ls>
+<div n="2">— f) {%aufzuführen%}: {#vITI syAdekANkA dvipAtrahAryA taTEkahAryA vA#}
+<ls>BHAR. NĀṬYAŚ. 18,102.</ls>
+<div n="2">— g) {%zu dividiren%} Comm. zu
+<ls>ĀRYABH. 2,27.</ls>
+<div n="2">— h) = {#hArin#} {%hinreissend, reizend%}: {#hAryo 'yaM (hAryayaM?) vizayaH#}
+<ls>MBH. 13,1429.</ls> — Unklar ist uns die Bed. von {#ekahArya#} als Beiw. von {#yuga#} {%Zeitalter%}
+<ls>MBH. 3,13049.</ls> {#ekAhArya#} <ls>ed. Bomb.</ls>, was
+<ls>NĪLAK.</ls> sehr künstlich erklärt, indem er darin {#AhAra#} {%Speise%} sucht.
+<div n="1">— 2) <lex>m.</lex> {%Terminalia Bellerica Roxb.%}
+<ls>H. an.</ls> <ls>MED.</ls>
 <div n="v">— Vgl. {#vAqava°, SIrza°#} .
 <LEND>

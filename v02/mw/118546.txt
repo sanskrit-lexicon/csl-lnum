@@ -1,5 +1,5 @@
-<L>118546<pc>600,3<k1>parivid<k2>pari-vid<h>b<e>1
-<hom>b.</hom> <s>pari-</s>√ <hom>3.</hom> <s>vid</s> ¦ <ab>P.</ab> <s>-vindati</s>, to find out, ascertain, <ls>Hariv.</ls>;
-<div n="to"/>to twine, twist round (See below);
-<div n="to"/>to marry before an elder brother (only <ab>Pass.</ab> <s>yayA</s> [<ls>Mn. iii, 172</ls>] or <s>yA</s> [<ls>MBh. xii, 6108</ls>] <s>pari-vidyate</s>, [the woman] with whom such a marriage is contracted). <info verb="pre" cp="P" parse="pari+vid"/>
+<L>118546<pc>600,3<k1>parivid<k2>pari-vid<e>1
+ <s>pari-</s>√ <hom>3.</hom> <s>vid</s> ¦ <ab>P.</ab> <s>-vindati</s>, to find out, ascertain, <ls>Hariv.</ls>;
+<div n="to"/>to twine, twist round (see below);
+<div n="to"/>to marry before an elder brother (only <ab>Pass.</ab> <s>yayA</s> [<ls>Mn. iii, 172</ls>] or <s>yA</s> [<ls>MBh. xii, 6108</ls>] <s>pari-vidyate</s>, [the woman] with whom such a marriage is contracted). <info verb="pre" cp="P" parse="pari+vid"/><info hui="b"/>
 <LEND>

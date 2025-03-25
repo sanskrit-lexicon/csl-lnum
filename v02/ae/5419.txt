@@ -1,9 +1,9 @@
 <L>5419<pc>225<k1>indolent<k2>indolent
 {@Indolent,@}¦ {%a.%} {#taMdrila, alasa, taMdrAlu, maMda,#}
-<div n="lb"/>{#nirudyama, udyogavirakta, kAryadvezin, kArya-#}
-<div n="lb"/>{#-vimuKa (KI#} {%f.%}), {#niScezwa, nirutsAha, jaqa,#}
-<div n="lb"/>{#maMdakriya#}. {@-ly,@} {%adv.%} {#nirudyamaM, alasavat,#}
-<div n="lb"/>{#maMdatayA#}. {@-Indolence,@} {%s.%} {#taMdrA, AlasyaM,#}
-<div n="lb"/>{#taMdri-drI#} {%f.,%} {#maMdatA, jAqyaM, anudyogaH,#}
-<div n="lb"/>{#kAryavimuKatA, anutsAhaH, kAryadvezaH#}.
+{#nirudyama, udyogavirakta, kAryadvezin, kArya-#}
+{#-vimuKa (KI#} {%f.%}), {#niScezwa, nirutsAha, jaqa,#}
+{#maMdakriya#}. {@-ly,@} {%adv.%} {#nirudyamaM, alasavat,#}
+{#maMdatayA#}. {@-Indolence,@} {%s.%} {#taMdrA, AlasyaM,#}
+{#taMdri-drI#} {%f.,%} {#maMdatA, jAqyaM, anudyogaH,#}
+{#kAryavimuKatA, anutsAhaH, kAryadvezaH#}.
 <LEND>

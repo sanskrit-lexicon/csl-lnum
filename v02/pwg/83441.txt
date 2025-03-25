@@ -1,20 +1,20 @@
 <L>83441<pc>6-0259<k1>raTANga<k2>raTANga
-{#raTANga#}¦ ({#raTa#} + 3. {#aNga#}) 
-<div n="1"> 1) <lex>n.</lex> 
-<div n="2"> a) {%Wagentheil%} 
-<ls>H. 758.</ls> 
-<ls>HALĀY. 2, 293</ls> <ls>?(m.). ĀŚV. GṚHY. 2, 6, 7. ŚĀṄKH. GṚHY. 1, 15. MBH. 1, 6488. 14, 2447.</ls> 
-<div n="2">— b) {%Wagenrad%} 
-<ls>AK. 2, 8, 2, 24.</ls> 
-<ls>TRIK. 3, 3, 68.</ls> 
-<ls>H. 755.</ls> 
-<ls>an. 3, 130. fg.</ls> 
-<ls>MED. g. 46.</ls> <ls>HALĀY. 2, 292.</ls> <ls>ŚĀK. 98, 22.</ls> {#°nemayaH#} 
-<ls>169.</ls> <ls>VIKR. 100.</ls> {#°Dvani#} 
-<ls>RAGH. 7, 38.</ls> 
-<ls>SĀH. D. 18, 2.</ls> 
-<div n="2">— c) {%Discus%}, insbes. der <is>Kṛṣṇa's</is> oder <is>Viṣṇu's</is> 
-<ls>MBH. 6, 2594.</ls> 
-<ls>HARIV. 7329.</ls> 
-<ls>BHĀG. P. 2, 2, 8. 3, 19, 7. 9, 4, 50. 10, 38, 36. 66, 21.</ls>
+{#raTANga#}¦ ({#raTa#} + 3. {#aNga#})
+<div n="1"> 1) <lex>n.</lex>
+<div n="2"> a) {%Wagentheil%}
+<ls>H. 758.</ls>
+<ls>HALĀY. 2,293</ls> (m.). <ls>ĀŚV. GṚHY. 2,6,7.</ls> <ls>ŚĀṄKH. GṚHY. 1,15.</ls> <ls>MBH. 1,6488.</ls> <ls n="MBH.">14,2447.</ls>
+<div n="2">— b) {%Wagenrad%}
+<ls>AK. 2,8,2,24.</ls>
+<ls>TRIK. 3,3,68.</ls>
+<ls>H. 755.</ls>
+<ls>an. 3,130. fg.</ls>
+<ls>MED. g. 46.</ls> <ls>HALĀY. 2,292.</ls> <ls>ŚĀK. 98,22.</ls> {#°nemayaH#}
+<ls n="ŚĀK.">169.</ls> <ls>VIKR. 100.</ls> {#°Dvani#}
+<ls>RAGH. 7,38.</ls>
+<ls>SĀH. D. 18,2.</ls>
+<div n="2">— c) {%Discus%}, insbes. der <is>Kṛṣṇa's</is> oder <is>Viṣṇu's</is>
+<ls>MBH. 6,2594.</ls>
+<ls>HARIV. 7329.</ls>
+<ls>BHĀG. P. 2,2,8.</ls> <ls n="BHĀG. P.">3,19,7.</ls> <ls n="BHĀG. P.">9,4,50.</ls> <ls n="BHĀG. P.">10,38,36.</ls> <ls n="BHĀG. P. 10,">66,21.</ls>
 <LEND>

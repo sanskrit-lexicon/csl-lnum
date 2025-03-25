@@ -1,27 +1,27 @@
 <L>15884<pc>2-0185<k1>kavya<k2>kavya/
-{#kavya/#}¦ 
-<div n="1"> 1) <lex>adj.</lex> subst. = 1. {#kavi#} 
-<ls>?1. KĀŚ. zu P. 5, 4, 30.</ls> {#vI\tI jana^sya di\vyasya^ ka\vyEraDi^ suvA\no na^hu\zye^Bi\rindu^H#} 
-<ls>ṚV. 9, 91, 2.</ls> {#Agne^ yAhi savidatre^Bira\rvANsa\tyEH ka\vyEH pi\tfBi^rDarma\sadBi^H#} 
-<ls n="ṚV.">10, 15, 10.</ls> {#kavyo 'si havyasUdana iti SAmitram#} 
-<ls>ŚĀṄKH. ŚR. 6, 12, 9.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%eine Art Manen%}: {#mAta^lI ka\vyErya\mo aNgni^roBiH#} 
-<ls>ṚV. 10, 14, 3.</ls> 
-<ls>VP. 239,</ls> 
-<ls>N. 3.</ls> 
-<div n="2">— b) N. pr. eines der 7 Weisen im 4ten <is>Manvantara</is> 
-<ls>HARIV. 426.</ls> 
-<div n="1">— 3) <lex>n.</lex> 
-<div n="2"> a) {%die Eigenschaften —, das Thun eines Weisen%} (vgl. {#kAvyatA#}) 
-<ls>VS. 22, 2.</ls> 
-<div n="2">— b) {%das den Weisen Gebührende, das den Manen dargebrachte Opfer%} 
-<ls>AK. 2, 7, 24.</ls> 
-<ls>H. 832.</ls> {#pitfvyagurudOhitrAnBartuH svasrIyamAtulAn . pUjayetkavyapUrtAByAM vfdDAnaTAtiTInstriyaH ..#} 
-<ls>BṚHASP.</ls> in <ls>DĀY. 269, 3.</ls> {#yasyAsyena sadASnanti havyAni tridivOkasaH . kavyAni cEva pitaraH kiM BUtamaDikaM tataH ..#} 
-<ls>M. 1, 95. 94. 3, 97. 128. 130. 132. 133. 135. 147. 150. 152. 175. 190. 4, 31. 5, 16.</ls> 
-<ls>SUND. 2, 10.</ls> 
-<ls>MBH. 3, 8763. 11468. 13426. 13, 464. 488. 1533. 2531.</ls> {#kavyAni jYAnanizWeByaH pratizWApyAni#} 
-<ls>4321.</ls> <ls>VIŚV. 3, 13.</ls> <ls>VID. 247.</ls> {#vatsena pitaro 'ryamRA kavyaM kzIramaDukzata#} 
-<ls>BHĀG. P. 4, 18, 18.</ls> Fast überall in Verbindung mit {#havya#} .
+{#kavya/#}¦
+<div n="1"> 1) <lex>adj.</lex> subst. = 1. {#kavi#}
+1. <ls>KĀŚ.</ls> zu <ls>P. 5,4,30.</ls> {#vI\tI jana^sya di\vyasya^ ka\vyEraDi^ suvA\no na^hu\zye^Bi\rindu^H#}
+<ls>ṚV. 9,91,2.</ls> {#Agne^ yAhi savidatre^Bira\rvANsa\tyEH ka\vyEH pi\tfBi^rDarma\sadBi^H#}
+<ls n="ṚV.">10,15,10.</ls> {#kavyo 'si havyasUdana iti SAmitram#}
+<ls>ŚĀṄKH. ŚR. 6,12,9.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) {%eine Art Manen%}: {#mAta^lI ka\vyErya\mo aNgni^roBiH#}
+<ls>ṚV. 10,14,3.</ls>
+<ls>VP. 239</ls>,
+<ls>N. 3.</ls>
+<div n="2">— b) N. pr. eines der 7 Weisen im 4ten <is>Manvantara</is>
+<ls>HARIV. 426.</ls>
+<div n="1">— 3) <lex>n.</lex>
+<div n="2"> a) {%die Eigenschaften —, das Thun eines Weisen%} (vgl. {#kAvyatA#})
+<ls>VS. 22,2.</ls>
+<div n="2">— b) {%das den Weisen Gebührende, das den Manen dargebrachte Opfer%}
+<ls>AK. 2,7,24.</ls>
+<ls>H. 832.</ls> {#pitfvyagurudOhitrAnBartuH svasrIyamAtulAn . pUjayetkavyapUrtAByAM vfdDAnaTAtiTInstriyaH ..#}
+<ls>BṚHASP.</ls> in <ls>DĀY. 269,3.</ls> {#yasyAsyena sadASnanti havyAni tridivOkasaH . kavyAni cEva pitaraH kiM BUtamaDikaM tataH ..#}
+<ls>M. 1,95.</ls> <ls n="M. 1,">94.</ls> <ls n="M.">3,97.</ls> <ls n="M. 3,">128.</ls> <ls n="M. 3,">130.</ls> <ls n="M. 3,">132.</ls> <ls n="M. 3,">133.</ls> <ls n="M. 3,">135.</ls> <ls n="M. 3,">147.</ls> <ls n="M. 3,">150.</ls> <ls n="M. 3,">152.</ls> <ls n="M. 3,">175.</ls> <ls n="M. 3,">190.</ls> <ls n="M.">4,31.</ls> <ls n="M.">5,16.</ls>
+<ls>SUND. 2,10.</ls>
+<ls>MBH. 3,8763.</ls> <ls n="MBH. 3,">11468.</ls> <ls n="MBH. 3,">13426.</ls> <ls n="MBH.">13,464.</ls> <ls n="MBH. 13,">488.</ls> <ls n="MBH. 13,">1533.</ls> <ls n="MBH. 13,">2531.</ls> {#kavyAni jYAnanizWeByaH pratizWApyAni#}
+<ls n="MBH. 13,">4321.</ls> <ls>VIŚV. 3,13.</ls> <ls>VID. 247.</ls> {#vatsena pitaro 'ryamRA kavyaM kzIramaDukzata#}
+<ls>BHĀG. P. 4,18,18.</ls> Fast überall in Verbindung mit {#havya#} .
 <LEND>

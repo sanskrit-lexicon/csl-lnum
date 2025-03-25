@@ -1,5 +1,5 @@
 <L>14845<pc>454<k1>moderation<k2>moderation
-<div n="lb"/>{@MODERATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#laGUkaraRam;#}</div>
-<div n="lb"/><div n="1">(2) {#praSamanam#} (= quieting). </div><div n="I">II Temperance:
-<div n="lb"/>{#saMyamaH.#} </div><div n="I">III Equanimity: {#DEryam.#}</div>
+{@MODERATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#laGUkaraRam;#}</div>
+<div n="1">(2) {#praSamanam#} (= quieting). </div><div n="I">II Temperance:
+{#saMyamaH.#} </div><div n="I">III Equanimity: {#DEryam.#}</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>18633<pc>573<k1>razor<k2>razor
-<div n="lb"/>{@RAZOR:@}¦ <div n="I">I For shaving: {#kzuraH,#} <div n="xe">{%r. case:%}</div> <div n="xs">{#kzura-#}
-<div n="lb"/>{#BARqam,#}</div> <ls>H.</ls> </div><div n="I">II. A fish: {#matsyaviSezaH.#}</div>
+{@RAZOR:@}¦ <div n="I">I For shaving: {#kzuraH,#} <div n="xe">{%r. case:%}</div> <div n="xs">{#kzura-#}
+{#BARqam,#}</div> <ls>H.</ls> </div><div n="I">II. A fish: {#matsyaviSezaH.#}</div>
 <LEND>

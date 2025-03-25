@@ -1,30 +1,30 @@
 <L>3383<pc>130<k1>elephant<k2>elephant
 {@Elephant,@}¦ {%s.%} {#gajaH, hastin-karin#} {%m.,%} {#mAtaM-#}
-<div n="lb"/>{#-gaH, mataMgajaH, kuMjaraH, nAgaH, vAraRaH, iBaH,#}
-<div n="lb"/>{#dviradaH, dvi-aneka-paH, daMtin#} {%m,%} {#daMtAvalaH,#}
-<div n="lb"/>{#staMberamaH;#} ‘she-e.’ {#kariRI, kareRu#} {%f.%} {#-RukA,#}
-<div n="lb"/>{#vaSA, DenukA;#} ‘a young e.’ {#kalaBaH, kari-#}
-<div n="lb"/>{#-SAvakaH;#} ‘e. driver’ {#hastipaH-pakaH, ADo-#}
-<div n="lb"/>{#-raRaH, mahAmAtraH, nizAdin#} {%m.;%} ‘wild c.’
-<div n="lb"/>{#vanagajaH, vanyaH karI;#} ‘furious or rutting
-<div n="lb"/>(e.)’ {#madotkawaH, madakalaH, praBinnaH, garjitaH,#}
-<div n="lb"/>{#mattaH;#} ‘e. out of rut’ {#udvAMtaH; nirmadaH;#}
-<div n="lb"/>‘head of a herd of e. s’ {#yUTanATaH, yUTapaH;#}
-<div n="lb"/>‘herd of e. s’ {#hAstikaM, gajatA, gajayUTaM;#} ‘war
-<div n="lb"/>e. -s’ {#gajaGawA;#} ‘e. s of the quarters’
-<div n="lb"/>{#diggajAH;#} ‘frontal globe of an e.’
-<div n="lb"/>{#kuMBaH;#} ‘e.’ s fore-head’ {#lalAwaM, ava-#}
-<div n="lb"/>{#-grahaH;#} ‘his eyeball’ {#i#}({#I#}){#zi#}({#zI#})-
-<div n="lb"/>-{#kA, akzikUwakaM#} ‘corner of his eye’ {#ni-#}
-<div n="lb"/>{#-ryARaM;#} ‘root of his ear’ {#cUlikA;#} ‘his
-<div n="lb"/>withers’ {#AsanaM, skaMDadeSaH;#} ‘his side’
-<div n="lb"/>{#pArSvaBAgaH, pakzaBAgaH;#} ‘the temple-juice’
-<div n="lb"/>{#madaH, dAnaM;#} ‘water emitted from the
-<div n="lb"/>trunk’ {#vamaTuH, karaSIkaraH;#} ‘his roaring’
-<div n="lb"/>{#bfMhitaM, garjitaM;#} ‘the whip to strike him’
-<div n="lb"/>{#totraM, veRukaM;#} ‘binding-post’ {#AlAnaM;#}
-<div n="lb"/>‘binding chains’ {#SfMKalaM, aMdukaH, nigaqaH;#}
-<div n="lb"/>‘caparisoning of an e.’ {#kalpanA, sajjanA;#}
-<div n="lb"/>‘coloured housings’ {#praveRI, AstaraRaM,#}
-<div n="lb"/>{#varRaH, parizwo#}({#sto#}) {#maH, kuTaH#}.
+{#-gaH, mataMgajaH, kuMjaraH, nAgaH, vAraRaH, iBaH,#}
+{#dviradaH, dvi-aneka-paH, daMtin#} {%m,%} {#daMtAvalaH,#}
+{#staMberamaH;#} ‘she-e.’ {#kariRI, kareRu#} {%f.%} {#-RukA,#}
+{#vaSA, DenukA;#} ‘a young e.’ {#kalaBaH, kari-#}
+{#-SAvakaH;#} ‘e. driver’ {#hastipaH-pakaH, ADo-#}
+{#-raRaH, mahAmAtraH, nizAdin#} {%m.;%} ‘wild c.’
+{#vanagajaH, vanyaH karI;#} ‘furious or rutting
+(e.)’ {#madotkawaH, madakalaH, praBinnaH, garjitaH,#}
+{#mattaH;#} ‘e. out of rut’ {#udvAMtaH; nirmadaH;#}
+‘head of a herd of e. s’ {#yUTanATaH, yUTapaH;#}
+‘herd of e. s’ {#hAstikaM, gajatA, gajayUTaM;#} ‘war
+e. -s’ {#gajaGawA;#} ‘e. s of the quarters’
+{#diggajAH;#} ‘frontal globe of an e.’
+{#kuMBaH;#} ‘e.’ s fore-head’ {#lalAwaM, ava-#}
+{#-grahaH;#} ‘his eyeball’ {#i#}({#I#}){#zi#}({#zI#})-
+-{#kA, akzikUwakaM#} ‘corner of his eye’ {#ni-#}
+{#-ryARaM;#} ‘root of his ear’ {#cUlikA;#} ‘his
+withers’ {#AsanaM, skaMDadeSaH;#} ‘his side’
+{#pArSvaBAgaH, pakzaBAgaH;#} ‘the temple-juice’
+{#madaH, dAnaM;#} ‘water emitted from the
+trunk’ {#vamaTuH, karaSIkaraH;#} ‘his roaring’
+{#bfMhitaM, garjitaM;#} ‘the whip to strike him’
+{#totraM, veRukaM;#} ‘binding-post’ {#AlAnaM;#}
+‘binding chains’ {#SfMKalaM, aMdukaH, nigaqaH;#}
+‘caparisoning of an e.’ {#kalpanA, sajjanA;#}
+‘coloured housings’ {#praveRI, AstaraRaM,#}
+{#varRaH, parizwo#}({#sto#}) {#maH, kuTaH#}.
 <LEND>

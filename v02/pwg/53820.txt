@@ -1,36 +1,36 @@
 <L>53820<pc>5-0174<k1>Bagin<k2>Bagi/n
-{#Bagi/n#}¦ (von {#Baga)#} 
-<div n="1"> 1) <lex>adj.</lex> {%trefflich ausgestattet, glücklich, herrlich%} 
-<ls>AV. 6, 129, 1. 7, 12, 3.</ls> 
-<ls>TBR. 1, 1, 2, 4.</ls> <ls>WEBER</ls>, <is>Nakṣ</is>. 
-<ls>II, 387. fgg.</ls> <is>Agni</is> 
-<ls>ŚĀṄKH. ŚR. 2, 4, 6.</ls> 
-<ls>ĀŚV. ŚR. 2, 8.</ls> {#aSvaH paSUnAM BagitamaH#} {%das Ross ist das vollkommenste Thier%} 
-<ls>ŚAT. BR. 6, 3, 3, 13.</ls> {#gargaBagiRI = gargaBago 'syA astIti#} (so ist mit der ed. Calc. zu lesen) 
-<ls>PAT.</ls> zu <ls>P. 8, 4, 11.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. pr. eines Scholiasten des <is>Amarakośa</is> 
-<ls>ŚKDR.</ls> u. {#gaRqUza#} . Abkürzung von <is>Bhagīratha</is>. 
-<div n="1">— 3) <lex>f.</lex> {#°nI#} {%Schwester (die Glückliche%}, insofern sie nicht allein steht, sondern einen Bruder hat) 
-<ls>AK. 2, 6, 1, 29.</ls> 
-<ls>H. 553.</ls> 
-<ls>HALĀY. 2, 352.</ls> 
-<ls>NIR. 3, 6.</ls> 
-<ls>M. 2, 50. 133. 9, 192. 212. 11, 171.</ls> 
-<ls>N. 17, 12.</ls> 
-<ls>HIḌ. 2, 8. 4, 30.</ls> 
-<ls>MBH. 15, 665.</ls> 
-<ls>R. 1, 35, 7. 2, 73, 9.</ls> 
-<ls>VARĀH. BṚH. S. 51, 25.</ls> 
-<ls>KATHĀS. 17, 59. 150</ls> (wohl {#pUrvaM Ba°#} zu lesen). 
-<ls>?27, 192. 39, 101. PAÑCAR. 2, 7, 46. PRAB. 97, 9. VET. in LA. (II) 28, 2. 30, 18.</ls> {#parapatnI tu yA strI syAdasaMbanDA ca yonitaH . tAM brUyAdBavatItyevaM suBage BaginIti ca ..#} 
-<ls>M. 2, 129.</ls> 
-<ls>ŚĀK. 52, 4</ls> (uneig.). {#°pati#} 
-<ls>AK. 1, 1, 7, 12.</ls> 
-<ls>H. 332.</ls> 
-<ls>HALĀY. 1, 99.</ls> {#°suta#} 
-<ls>PAÑCAT. 214, 26. 215, 5.</ls> {#Ba/ginIBartar#} <is>gaṇa</is> {#yuktArohyAdi#} zu 
-<ls>P. 6, 2, 81.</ls> {#dakza°, garga#} (ohne Wandel des {#na)#} 
-<ls>P. 8, 4, 11, <is>Vārtt</is>.,</ls> 
-<ls>Sch.</ls> {%Weib%} überh. 
+{#Bagi/n#}¦ (von {#Baga)#}
+<div n="1"> 1) <lex>adj.</lex> {%trefflich ausgestattet, glücklich, herrlich%}
+<ls>AV. 6,129,1.</ls> <ls n="AV.">7,12,3.</ls>
+<ls>TBR. 1,1,2,4.</ls> <ls>WEBER, Nakṣ. II,387. fgg.</ls>
+<is>Agni</is>
+<ls>ŚĀṄKH. ŚR. 2,4,6.</ls>
+<ls>ĀŚV. ŚR. 2,8.</ls> {#aSvaH paSUnAM BagitamaH#} {%das Ross ist das vollkommenste Thier%}
+<ls>ŚAT. BR. 6,3,3,13.</ls> {#gargaBagiRI = gargaBago 'syA astIti#} (so ist mit der <ls>ed. Calc.</ls> zu lesen)
+<ls>PAT.</ls> zu <ls>P. 8,4,11.</ls>
+<div n="1">— 2) <lex>m.</lex> N. pr. eines Scholiasten des <is>Amarakośa</is>
+<ls>ŚKDR.</ls> u. {#gaRqUza#} . Abkürzung von <is>Bhagīratha</is>.
+<div n="1">— 3) <lex>f.</lex> {#°nI#} {%Schwester (die Glückliche%}, insofern sie nicht allein steht, sondern einen Bruder hat)
+<ls>AK. 2,6,1,29.</ls>
+<ls>H. 553.</ls>
+<ls>HALĀY. 2,352.</ls>
+<ls>NIR. 3,6.</ls>
+<ls>M. 2,50.</ls> <ls n="M. 2,">133.</ls> <ls n="M.">9,192.</ls> <ls n="M. 9,">212.</ls> <ls n="M.">11,171.</ls>
+<ls>N. 17,12.</ls>
+<ls>HIḌ. 2,8. 4,30.</ls>
+<ls>MBH. 15,665.</ls>
+<ls>R. 1,35,7.</ls> <ls n="R.">2,73,9.</ls>
+<ls>VARĀH. BṚH. S. 51,25.</ls>
+<ls>KATHĀS. 17,59.</ls> <ls n="KATHĀS. 17,">150</ls> (wohl {#pUrvaM Ba°#} zu lesen).
+<ls n="KATHĀS.">27,192.</ls> <ls n="KATHĀS.">39,101.</ls> <ls>PAÑCAR. 2,7,46.</ls> <ls>PRAB. 97,9.</ls> <ls>VET. in LA. (II) 28,2. 30,18.</ls> {#parapatnI tu yA strI syAdasaMbanDA ca yonitaH . tAM brUyAdBavatItyevaM suBage BaginIti ca ..#}
+<ls>M. 2,129.</ls>
+<ls>ŚĀK. 52,4</ls> (uneig.). {#°pati#}
+<ls>AK. 1,1,7,12.</ls>
+<ls>H. 332.</ls>
+<ls>HALĀY. 1,99.</ls> {#°suta#}
+<ls>PAÑCAT. 214,26.</ls> <ls n="PAÑCAT.">215,5.</ls> {#Ba/ginIBartar#} <is>gaṇa</is> {#yuktArohyAdi#} zu
+<ls>P. 6,2,81.</ls> {#dakza°, garga#} (ohne Wandel des {#na)#}
+<ls>P. 8,4,11</ls>, <is>Vārtt</is>., <ls>Sch.</ls>
+{%Weib%} überh.
 <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> Vgl. {#BAgineya#} .
 <LEND>

@@ -1,6 +1,6 @@
 <L>11097<pc>349<k1>holiness<k2>holiness
-<div n="lb"/>{@HOLINESS:@}¦ <div n="I">I Sanctity, sacredness: q.v.:
-<div n="lb"/>{#pavitratA.#} </div><div n="I">II In address: {#Bagavat#} (f. {#tI#}), {%if%}
-<div n="lb"/>({%your%}) {%revered h. gives%} ({%me%}) <div n="xe">{%no harbour:%}</div> <div n="xs">{#yati #}
-<div n="lb"/>{# BagavatpAdamUlamaSaraRam,#}</div> D. ii.</div>
+{@HOLINESS:@}¦ <div n="I">I Sanctity, sacredness: q.v.:
+{#pavitratA.#} </div><div n="I">II In address: {#Bagavat#} (f. {#tI#}), {%if%}
+({%your%}) {%revered h. gives%} ({%me%}) <div n="xe">{%no harbour:%}</div> <div n="xs">{#yati #}
+{# BagavatpAdamUlamaSaraRam,#}</div> D. ii.</div>
 <LEND>

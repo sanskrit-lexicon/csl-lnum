@@ -1,9 +1,9 @@
 <L>3455<pc>133<k1>emotion<k2>emotion
 {@Emotion,@}¦ {%s.%} {#vikAraH, vikfti#} {%f.,%} {#BAvaH, rAgaH,#}
-<div n="lb"/>{#cittavikAraH, vikriyA, manoDarmaH-vftti#} {%f.%} {@2@}
-<div n="lb"/>{#uttApaH, cittakzoBaH, manastApaH, aMtarvegaH, A-#}
-<div n="lb"/>{#-kulatA, AvegaH, saMkzoBaH;#} ‘under e.’ {#vikfta-#}
-<div n="lb"/>{#-cetas, vikAravaSa#} {%a.;%} ‘e. of sorrow’ {#SokA-#}
-<div n="lb"/>{#-vegaH#}. {@3@} {#rasaH, BAvaH;#} ‘e. of love’ {#SfMgAra-#}
-<div n="lb"/>{#-rasaH#}. {@-al,@} {%a.%} {#BAva-vikAra-viSizwa, vikAraprerita#}.
+{#cittavikAraH, vikriyA, manoDarmaH-vftti#} {%f.%} {@2@}
+{#uttApaH, cittakzoBaH, manastApaH, aMtarvegaH, A-#}
+{#-kulatA, AvegaH, saMkzoBaH;#} ‘under e.’ {#vikfta-#}
+{#-cetas, vikAravaSa#} {%a.;%} ‘e. of sorrow’ {#SokA-#}
+{#-vegaH#}. {@3@} {#rasaH, BAvaH;#} ‘e. of love’ {#SfMgAra-#}
+{#-rasaH#}. {@-al,@} {%a.%} {#BAva-vikAra-viSizwa, vikAraprerita#}.
 <LEND>

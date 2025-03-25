@@ -1,15 +1,14 @@
 <L>105258<pc>7-0681<k1>samadarSana<k2>samadarSana
-{#samadarSana#}¦ <lex>adj.</lex> 
-<div n="1"> 1) {%gleich, ähnlich%}: {#mahendra°#} 
-<ls>R. GORR. 2, 1, 1. 108, 12.</ls> 
-<div n="1">— 2) {%auf Alles%} oder {%Alle mit gleichen Augen schauend%} 
-<ls>MBH. 12, 8027. 13, 2178.</ls> 
-<ls>RAGH. 8, 24.</ls> 
-<ls>MĀRK. P. 59, 9.</ls> 
-<ls>BHĀG. P. 3, 29, 33. 32, 25. 4, 13, 7. 28, 37. 7, 1, 42. 9, 4, 66.</ls> {#sarvatra#} 
-<ls>BHAG. 6, 29.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 7, 10.</ls> {#sarvezAm#} 
-<ls>1, 19, 20.</ls> 
+{#samadarSana#}¦ <lex>adj.</lex>
+<div n="1"> 1) {%gleich, ähnlich%}: {#mahendra°#}
+<ls>R. GORR. 2,1,1.</ls> <ls n="R. GORR. 2,">108,12.</ls>
+<div n="1">— 2) {%auf Alles%} oder {%Alle mit gleichen Augen schauend%}
+<ls>MBH. 12,8027.</ls> <ls n="MBH.">13,2178.</ls>
+<ls>RAGH. 8,24.</ls>
+<ls>MĀRK. P. 59,9.</ls>
+<ls>BHĀG. P. 3,29,33.</ls> <ls n="BHĀG. P. 3,">32,25.</ls> <ls n="BHĀG. P.">4,13,7.</ls> <ls n="BHĀG. P. 4,">28,37.</ls> <ls n="BHĀG. P.">7,1,42.</ls> <ls n="BHĀG. P.">9,4,66.</ls> {#sarvatra#}
+<ls>BHAG. 6,29.</ls>
+<ls>R. GORR. 2,7,10.</ls> {#sarvezAm#}
+<ls n="R. GORR.">1,19,20.</ls>
 <div n="v">— Vgl. {#tulyadarSana#} .
 <LEND>

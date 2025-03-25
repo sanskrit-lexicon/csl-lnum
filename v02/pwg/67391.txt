@@ -1,44 +1,35 @@
 <L>67391<pc>5-1149<k1>Ir<k2>Ir
-{#Ir#}¦ 
-<ls>Z. 1</ls> streiche sg. und. 
-<div n="1">— 3) 
-<ls>Z. 2</ls> lies {#gA\tumEra^t#} . — caus. 
-<div n="1"> 1) {%ertönen lassen%}: {#veRum#} 
-<ls>BHĀG. P. 10, 35, 2.</ls> {#dunduBayo devagaReritAH#} 
-<ls>77, 37.</ls> {#IrayansumahAGoraSabdena pradiSo diSaH#} 
-<ls>7, 21.</ls> pass. {%genannt werden%} 
-<ls>11, 5, 26.</ls> <ls>Sp. 847, Z. 8</ls> lies {#pradozaH#} st. {#predAzaH#} .
-
-<div n="p">— {#aBi#} caus. {%herbeischaffen%}: {#a\Bi kAma^mI\raya^n#} 
-<ls>TBR. 2, 5, 4, 5.</ls>
-
-<div n="p">— {#vyava#} caus. {%zertheilen%}: {#tada\ntari^kza\M vyavE^ryata#} 
-<ls>TS. 7, 1, 5, 4.</ls>
-
-<div n="p">— {#A#} 
-<div n="1"> 1) 
-<ls>Z. 5 lies 3, 60, 3 st. 3, 6, 3.</ls>
-
-<div n="p">— {#ud#} 
-<div n="1"> 3) {#udIrRa = udAra#} 
-<ls>HALĀY. 2, 201.</ls> — caus. {%ertönen lassen%}: {#veRum#} 
-<ls>BHĀG. P. 10, 15, 2.</ls>
-
-<div n="p">— {#aByud#}, {#iti DanavatyAByudIrite#} {%nachdem sie so geredet hatte%} 
-<ls>KATHĀS. 107, 114.</ls>
-
-<div n="p">— {#pratyud#} {%dagegen ertönen lassen, erwiedern%}: {#etAvadanuvAdapariBAzayA pratyudIrya#} 
-<ls>BHĀG. P. 5, 10, 15.</ls>
-
-<div n="p">— {#samud#} caus.: {#vAyunA samudIritAH (SarAH)#} 
-<ls>MBH. 5, 7152.</ls> 
+{#Ir#}¦
+Z. 1 streiche sg. und.
+<div n="1">— 3)
+Z. 2 lies {#gA\tumEra^t#} . — caus.
+<div n="1"> 1) {%ertönen lassen%}: {#veRum#}
+<ls>BHĀG. P. 10,35,2.</ls> {#dunduBayo devagaReritAH#}
+<ls n="BHĀG. P. 10,">77,37.</ls> {#IrayansumahAGoraSabdena pradiSo diSaH#}
+<ls n="BHĀG. P. 10,">7,21.</ls> pass. {%genannt werden%}
+<ls n="BHĀG. P.">11,5,26.</ls> <ls>Sp. 847, Z. 8</ls> lies {#pradozaH#} st. {#predAzaH#} .
+<div n="p">— {#aBi#} caus. {%herbeischaffen%}: {#a\Bi kAma^mI\raya^n#}
+<ls>TBR. 2,5,4,5.</ls>
+<div n="p">— {#vyava#} caus. {%zertheilen%}: {#tada\ntari^kza\M vyavE^ryata#}
+<ls>TS. 7,1,5,4.</ls>
+<div n="p">— {#A#}
+<div n="1"> 1)
+Z. 5 lies 3, 60, 3 st. 3, 6, 3.
+<div n="p">— {#ud#}
+<div n="1"> 3) {#udIrRa = udAra#}
+<ls>HALĀY. 2,201.</ls> — caus. {%ertönen lassen%}: {#veRum#}
+<ls>BHĀG. P. 10,15,2.</ls>
+<div n="p">— {#aByud#}, {#iti DanavatyAByudIrite#} {%nachdem sie so geredet hatte%}
+<ls>KATHĀS. 107,114.</ls>
+<div n="p">— {#pratyud#} {%dagegen ertönen lassen, erwiedern%}: {#etAvadanuvAdapariBAzayA pratyudIrya#}
+<ls>BHĀG. P. 5,10,15.</ls>
+<div n="p">— {#samud#} caus.: {#vAyunA samudIritAH (SarAH)#}
+<ls>MBH. 5,7152.</ls>
 <div n="v">— Vgl. {#samudIraRa, samudIrRa#} .
-
-<div n="p">— {#pra#} caus.: {#preritahayaH#} (so ist mit der ed. Calc. zu lesen) {%angetrieben%} 
-<ls>RĀJA-TAR. 5, 329.</ls> {#pavanAGAtapreritA nOrivArRave#} {%getrieben%} 
-<ls>330.</ls> {#preritA#} {%angetrieben, aufgefordert zu sprechen%} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 182, 1.</ls> 
+<div n="p">— {#pra#} caus.: {#preritahayaH#} (so ist mit der <ls>ed. Calc.</ls> zu lesen) {%angetrieben%}
+<ls>RĀJA-TAR. 5,329.</ls> {#pavanAGAtapreritA nOrivArRave#} {%getrieben%}
+<ls n="RĀJA-TAR.">330.</ls> {#preritA#} {%angetrieben, aufgefordert zu sprechen%}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 182,1.</ls>
 <div n="v">— Vgl. {#preraka#} fgg.
-
 <div n="p">— {#aBipra#} vgl. {#aBipreraRa#} .
 <LEND>

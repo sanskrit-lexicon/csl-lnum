@@ -1,6 +1,6 @@
-<L>130790<pc>658,1<k1>pracCid<k2>pra-cCid<h>a<e>1
-<s>pra-cCid</s> <hom>a</hom> ¦ (<s>√ Cid</s>) <ab>P.</ab> <ab>Ā.</ab> <s>-cCinatti</s>, <s>-cCintte</s> to cut off or through, pierce, split, cleave, <ls>AV.</ls> &c. &c.;
+<L>130790<pc>658,1<k1>pracCid<k2>pra-cCid<e>1
+<s>pra-cCid</s> ¦ (√ <s>Cid</s>) <ab>P.</ab> <ab>Ā.</ab> <s>-cCinatti</s>, <s>-cCintte</s> to cut off or through, pierce, split, cleave, <ls>AV.</ls> &c. &c.;
 <div n="to"/>to rend or take away, withdraw, <ls>MBh.</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>-cCedayati</s>, to cause to cut off &c., <ls>MBh.</ls> :
-<div n="vp"/><ab>Caus.</ab> of <ab>Intens.</ab> <s>-cecCidayya</s>, <ls>Pat.</ls><info verb="pre" cp="PĀ" parse="pra+Cid"/>
+<div n="vp"/><ab>Caus.</ab> of <ab>Intens.</ab> <s>-cecCidayya</s>, <ls>Pat.</ls><info verb="pre" cp="PĀ" parse="pra+Cid"/><info hui="a"/>
 <LEND>

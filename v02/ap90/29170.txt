@@ -1,12 +1,12 @@
 <L>29170<pc>1087-c<k1>saMdeSaH<k2>saMdeSaH
 {#saMdeSaH#}¦ {@1@} Information, news, <lbinfo n="tid+ings"/>
-<>tidings. {@--2@} A message, an errand;  <lbinfo n="saM#deSaM"/>
-<>{#saMdeSaM me hara DanapatikroDaviSlezitasya#}
-<><ls>Me. 7</ls>, <ls n="Me.">13</ls>; <ls>R. 12. 63</ls>;  <lbinfo n="ls:Ku. 6.+ 2."/>
-<><ls>Ku. 6. 2.</ls> {@--3@} Commission, command;  <lbinfo n="anu#zWito"/>
-<>{#anuzWito guroH saMdeSaH#} <ls>Ś. 5.</ls> {@--Comp.@} {#--arTaH#}
-<>the subject of a message; <ls>Me. 5.</ls>
-<>{#--vAc#} {%<ab>f.</ab>%} a message. {#--haraH, --hArakaH#}
-<>{1} a news-bearer, messenger. {2} an
-<>envoy, ambassador.
+tidings. {@--2@} A message, an errand;  <lbinfo n="saM#deSaM"/>
+{#saMdeSaM me hara DanapatikroDaviSlezitasya#}
+<ls>Me. 7</ls>, <ls n="Me.">13</ls>; <ls>R. 12. 63</ls>;  <lbinfo n="ls:Ku. 6.+ 2."/>
+<ls>Ku. 6. 2.</ls> {@--3@} Commission, command;  <lbinfo n="anu#zWito"/>
+{#anuzWito guroH saMdeSaH#} <ls>Ś. 5.</ls> {@--Comp.@} {#--arTaH#}
+the subject of a message; <ls>Me. 5.</ls>
+{#--vAc#} {%<ab>f.</ab>%} a message. {#--haraH, --hArakaH#}
+{1} a news-bearer, messenger. {2} an
+envoy, ambassador.
 <LEND>

@@ -1,20 +1,20 @@
 <L>15048<pc>460<k1>mouth<k2>mouth
-<div n="lb"/>{@MOUTH@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#muKam,#} <div n="xe">{%from the%}
-<div n="lb"/>{%m. of Vasantaka:%}</div> <div n="xs">{#vasantakasya muKAt,#}</div> K.s.; <div n="xe">{%of%}
-<div n="lb"/>{%unchecked m.:%}</div> <div n="xs">{#ayantritamuKaH#}</div> ({#KA, KaM#}), D. viii.;
-<div n="lb"/>{%honey in m.,%} ({%but%}) <div n="xe">{%poison in heart:%}</div> <div n="xs">{#muKamaDurhf daya-#}
-<div n="lb"/>{#vizaH,#}</div> Sa. v.; </div><div n="1">(2) {#vaktram;#} </div><div n="1">(3) {#Asyam;#} </div><div n="1">(4)
-<div n="lb"/>{#Ananam;#} </div><div n="1">(5) {#vadanam.#} N.B. These words also
-<div n="lb"/>mean face and when the meaning is
-<div n="lb"/>doubtful, {#ranGra#} should be added, as {#vaktraranDram,#}
-<div n="lb"/>R. ix. 63. </div><div n="I">II Of things: </div><div n="1">(1) {#muKam,#} <div n="xe">{%pots%}
-<div n="lb"/>{%with closed m.s.:%}</div> <div n="xs">{#apinadDamuKA GawAH,#}</div> Ve. iii.;
-<div n="lb"/><div n="xe">{%rising from the m.s of caves:%}</div> <div n="xs">{#darImuKotTaH,#}</div> Ku.
-<div n="lb"/>i. 8.; </div><div n="1">(2) {#vaktram,#} <div n="xe">{%the m. of a quiver:%}</div> <div n="xs">{#nizaNgavaktram,#}</div>
-<div n="lb"/>Ki. xvii. 36.; <div n="xe">{%hundred-m.ed hole:%}</div> <div n="xs">{#SatamuKaM #}
-<div n="lb"/>{# bilam,#}</div> Mah.: v. Also orifice. </div><div n="I">III Of a
-<div n="lb"/>river: {#muKam,#} <div n="xe">{%waters at the m. of a river:%}</div> <div n="xs">{#nadI-#}
-<div n="lb"/>{#muKAmBaH,#}</div> R. xiii. 10. </div><div n="I">IV Fig.: {#muKam,#} <div n="xe">{%grammar,%}
-<div n="lb"/>{%the m. of all learning:%}</div> <div n="xs">{#sarvavidyAnAM muKaM vyAkaraRam,#}</div>
-<div n="lb"/>K. s. vi. 144.</div>
+{@MOUTH@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#muKam,#} <div n="xe">{%from the%}
+{%m. of Vasantaka:%}</div> <div n="xs">{#vasantakasya muKAt,#}</div> K.s.; <div n="xe">{%of%}
+{%unchecked m.:%}</div> <div n="xs">{#ayantritamuKaH#}</div> ({#KA, KaM#}), D. viii.;
+{%honey in m.,%} ({%but%}) <div n="xe">{%poison in heart:%}</div> <div n="xs">{#muKamaDurhf daya-#}
+{#vizaH,#}</div> Sa. v.; </div><div n="1">(2) {#vaktram;#} </div><div n="1">(3) {#Asyam;#} </div><div n="1">(4)
+{#Ananam;#} </div><div n="1">(5) {#vadanam.#} N.B. These words also
+mean face and when the meaning is
+doubtful, {#ranGra#} should be added, as {#vaktraranDram,#}
+R. ix. 63. </div><div n="I">II Of things: </div><div n="1">(1) {#muKam,#} <div n="xe">{%pots%}
+{%with closed m.s.:%}</div> <div n="xs">{#apinadDamuKA GawAH,#}</div> Ve. iii.;
+<div n="xe">{%rising from the m.s of caves:%}</div> <div n="xs">{#darImuKotTaH,#}</div> Ku.
+i. 8.; </div><div n="1">(2) {#vaktram,#} <div n="xe">{%the m. of a quiver:%}</div> <div n="xs">{#nizaNgavaktram,#}</div>
+Ki. xvii. 36.; <div n="xe">{%hundred-m.ed hole:%}</div> <div n="xs">{#SatamuKaM #}
+{# bilam,#}</div> Mah.: v. Also orifice. </div><div n="I">III Of a
+river: {#muKam,#} <div n="xe">{%waters at the m. of a river:%}</div> <div n="xs">{#nadI-#}
+{#muKAmBaH,#}</div> R. xiii. 10. </div><div n="I">IV Fig.: {#muKam,#} <div n="xe">{%grammar,%}
+{%the m. of all learning:%}</div> <div n="xs">{#sarvavidyAnAM muKaM vyAkaraRam,#}</div>
+K. s. vi. 144.</div>
 <LEND>

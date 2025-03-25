@@ -1,4 +1,4 @@
 <L>136502<pc>689,2<k1>prarej<k2>pra-rej<e>1
 <s>pra-√ rej</s> ¦ <ab>Ā.</ab> <s>-rejate</s>, to tremble at (<ab>acc.</ab>), <ls>RV. i, 38, 10</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-rejayati</s>, to cause to tremble, <ls>ib. iv, 22, 3.</ls><info verb="pre" cp="Ā" parse="pra+rej"/>
+<div n="vp"/><ab>Caus.</ab> <s>-rejayati</s>, to cause to tremble, <ls>ib.</ls> <ls n="RV.">iv, 22, 3.</ls><info verb="pre" cp="Ā" parse="pra+rej"/>
 <LEND>

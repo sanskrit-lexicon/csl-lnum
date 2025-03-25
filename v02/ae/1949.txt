@@ -1,5 +1,5 @@
 <L>1949<pc>064<k1>colossus<k2>colossus
 {@Colossus,@}¦ {%s.%} {#bfhatpratimA, BImavigrahA mUrtiH#}.
-<div n="lb"/>{@-Colossal,@} {%a.%} {#bfhatkAya, atimAnuzAkAra,#}
-<div n="lb"/>{#BImavigraha#}.
+{@-Colossal,@} {%a.%} {#bfhatkAya, atimAnuzAkAra,#}
+{#BImavigraha#}.
 <LEND>

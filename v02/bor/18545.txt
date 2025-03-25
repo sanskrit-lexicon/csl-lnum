@@ -1,6 +1,6 @@
 <L>18545<pc>570<k1>rank<k2>rank
-<div n="lb"/>{@RANK@}¦ (v. i.): expr. by {#vartate#} ({#vft,#} c. 1. = to be)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#tizWati#}</div> ({#sTA,#} c. 1. = to stand), <div n="xe">{%character r. s%}
-<div n="lb"/>{%at the head of all excellences:%}</div> <div n="xs">{#atItya hi guRAn #}
-<div n="lb"/>{# sarvAn svaBAvo mUrDni vartate,#}</div> H.
+{@RANK@}¦ (v. i.): expr. by {#vartate#} ({#vft,#} c. 1. = to be)
+<div n="xe">{%or%}</div> <div n="xs">{#tizWati#}</div> ({#sTA,#} c. 1. = to stand), <div n="xe">{%character r. s%}
+{%at the head of all excellences:%}</div> <div n="xs">{#atItya hi guRAn #}
+{# sarvAn svaBAvo mUrDni vartate,#}</div> H.
 <LEND>

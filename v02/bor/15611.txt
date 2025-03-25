@@ -1,5 +1,5 @@
 <L>15611<pc>479<k1>nursery<k2>nursery
-<div n="lb"/>{@NURSERY:@}¦ <div n="I">I For children: {#lAlanAgAram#} (?).</div>
-<div n="lb"/><div n="I">II For plants: {#*varDanasTAnam.#} </div><div n="I">III Fig.: </div><div n="1">(1)
-<div n="lb"/>{#ASrayaH;#} </div><div n="1">(2) {#kulaBavanam,#} R.</div>
+{@NURSERY:@}¦ <div n="I">I For children: {#lAlanAgAram#} (?).</div>
+<div n="I">II For plants: {#*varDanasTAnam.#} </div><div n="I">III Fig.: </div><div n="1">(1)
+{#ASrayaH;#} </div><div n="1">(2) {#kulaBavanam,#} R.</div>
 <LEND>

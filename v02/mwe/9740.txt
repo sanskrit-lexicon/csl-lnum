@@ -1,5 +1,5 @@
 <L>9740<pc>230-b<k1>enmity<k2>enmity
-<div n="lb"/>ENMITY¦, {%s.%} {#vEraM, vEritA, SatrutA, riputA, aritA, SAtravaM, vipakzatA, dvezaH#}
-<div n="lb"/>{#-zaRaM, vidvezaH, viroDaH, vEraBAvaH, pratidvandvaM, pratipakzatA, vidvizwatA,#}
-<div n="lb"/>{#aprItiH#} {%f.,%} {#paratA#}.
+ENMITY¦, {%s.%} {#vEraM, vEritA, SatrutA, riputA, aritA, SAtravaM, vipakzatA, dvezaH#}
+{#-zaRaM, vidvezaH, viroDaH, vEraBAvaH, pratidvandvaM, pratipakzatA, vidvizwatA,#}
+{#aprItiH#} {%f.,%} {#paratA#}.
 <LEND>

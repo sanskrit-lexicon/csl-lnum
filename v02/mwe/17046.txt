@@ -1,6 +1,6 @@
 <L>17046<pc>423-b<k1>justification<k2>justification
-<div n="lb"/>JUSTIFICATION¦, {%s.%} {#SudDiH#} {%f.,%} {#SoDanaM, pariSudDiH#} {%f.,%} {#pariSoDanaM, viSudDiH#} {%f.,%}
-<div n="lb"/>{#dozaSudDiH#} {%f.,%} {#dozaSoDanaM, dozamArjanA -naM, dozamocanaM, dozamuktiH#} {%f.,%} {#nirdo-#}
-<div n="lb"/>{#zIkaraRaM, AropitadozamuktiH#} {%f.,%} {#AropitadozaSoDanaM, AropitadozamArjanA,#}
-<div n="lb"/>{#dozapratIkAraH, dozanirAkaraRaM, dozanivAraRaM, dozanirasanaM#}.
+JUSTIFICATION¦, {%s.%} {#SudDiH#} {%f.,%} {#SoDanaM, pariSudDiH#} {%f.,%} {#pariSoDanaM, viSudDiH#} {%f.,%}
+{#dozaSudDiH#} {%f.,%} {#dozaSoDanaM, dozamArjanA -naM, dozamocanaM, dozamuktiH#} {%f.,%} {#nirdo-#}
+{#zIkaraRaM, AropitadozamuktiH#} {%f.,%} {#AropitadozaSoDanaM, AropitadozamArjanA,#}
+{#dozapratIkAraH, dozanirAkaraRaM, dozanivAraRaM, dozanirasanaM#}.
 <LEND>

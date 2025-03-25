@@ -1,10 +1,10 @@
 <L>20678<pc>649<k1>slack<k2>slack
-<div n="lb"/>{@SLACK,@}¦ {@-EN@} (v.): <div n="I">I Trans: </div><div n="1">(1) {#SiTilayati,#} <div n="xe">{%I%}
-<div n="lb"/>{%shall not s. the opportunity of serving:%}</div> <div n="xs">{#nAhaM #}
-<div n="lb"/>{# sevAvasaraM SiTilayizye,#}</div> Sa. iii.; </div><div n="1">(2) {#SlaTayati#}
-<div n="lb"/>(nomi.); </div><div n="1">(3) {#SiTilIkaroti,#} <div n="xe">{%s. ed his hopes%}
-<div n="lb"/>{%about the life of his father:%}</div> <div n="xs">{#pitari jIvitASAM #}
-<div n="lb"/>{# SiTilIkaroti,#}</div> K.; </div><div n="1">(4) {#SlaTIkaroti.#} </div><div n="I">II Intrans.:</div>
-<div n="lb"/><div n="1">(1) {#SiTilAyate;#} </div><div n="1">(2) {#SiTilIBavati,#} <div n="xe">{%tie the s. ed%}
-<div n="lb"/>{%dress:%}</div> <div n="xs">{#SiTilIBUtamAkalaya dukUlam,#}</div> K.</div>
+{@SLACK,@}¦ {@-EN@} (v.): <div n="I">I Trans: </div><div n="1">(1) {#SiTilayati,#} <div n="xe">{%I%}
+{%shall not s. the opportunity of serving:%}</div> <div n="xs">{#nAhaM #}
+{# sevAvasaraM SiTilayizye,#}</div> Sa. iii.; </div><div n="1">(2) {#SlaTayati#}
+(nomi.); </div><div n="1">(3) {#SiTilIkaroti,#} <div n="xe">{%s. ed his hopes%}
+{%about the life of his father:%}</div> <div n="xs">{#pitari jIvitASAM #}
+{# SiTilIkaroti,#}</div> K.; </div><div n="1">(4) {#SlaTIkaroti.#} </div><div n="I">II Intrans.:</div>
+<div n="1">(1) {#SiTilAyate;#} </div><div n="1">(2) {#SiTilIBavati,#} <div n="xe">{%tie the s. ed%}
+{%dress:%}</div> <div n="xs">{#SiTilIBUtamAkalaya dukUlam,#}</div> K.</div>
 <LEND>

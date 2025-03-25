@@ -1,8 +1,8 @@
 <L>20010<pc>622<k1>season<k2>season
-<div n="lb"/>{@SEASON@}¦ (subs.): <div n="I">I Of the year: </div><div n="1">(1) {#ftuH,#}
-<div n="lb"/>{%the s. s attend him like common gardeners:%}
-<div n="lb"/>{#udyAnapAlasAmAnyamftavastamupAsate,#} Ku. ii. 36.; </div><div n="1">(2)
-<div n="lb"/>{#kAlaH#} (= time), <div n="xe">{%the hot s.:%}</div> <div n="xs">{#nidAGakAlaH,#}</div> Ri. </div><div n="I">II
-<div n="lb"/>= time: q. v.: {#kAlaH,#} <div n="xe">{%for a s.:%}</div> <div n="xs">{#kaYcit kAlam,#}</div>
-<div n="lb"/>Mu. i.; <div n="xe">{%in due s.:%}</div> <div n="xs">{#kAle.#}</div></div>
+{@SEASON@}¦ (subs.): <div n="I">I Of the year: </div><div n="1">(1) {#ftuH,#}
+{%the s. s attend him like common gardeners:%}
+{#udyAnapAlasAmAnyamftavastamupAsate,#} Ku. ii. 36.; </div><div n="1">(2)
+{#kAlaH#} (= time), <div n="xe">{%the hot s.:%}</div> <div n="xs">{#nidAGakAlaH,#}</div> Ri. </div><div n="I">II
+= time: q. v.: {#kAlaH,#} <div n="xe">{%for a s.:%}</div> <div n="xs">{#kaYcit kAlam,#}</div>
+Mu. i.; <div n="xe">{%in due s.:%}</div> <div n="xs">{#kAle.#}</div></div>
 <LEND>

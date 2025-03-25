@@ -1,45 +1,45 @@
 <L>49833<pc>4-1076<k1>pravAha<k2>pravAha/
-{#pravAha/#}¦ (von {#vah#} mit {#pra#}) 
-<div n="1"> 1) <lex>m.</lex> 
-<div n="2"> a) {%Strom, Strömung, fliessendes Wasser%}; übertr. {%Fluss, Continuität, ununterbrochene Fortdauer%} ({#pravftti#}) 
-<ls>AK. 3, 4, 3, 21. 3, 3, 18.</ls> 
-<ls>H. 1087.</ls> 
-<ls>an. 3, 767.</ls> 
-<ls>MED. h. 21.</ls> <ls>HALĀY. 3, 47.</ls> <ls>ŚAT. BR. 12, 2, 3, 12.</ls> {#nadyA iva pravAhaH#} 
-<ls>Spr. 1403.</ls> {#gaNgA°#} 
-<ls>2162.</ls> <ls>RAGH. 5, 46. 16, 58.</ls> <ls>KUMĀRAS. 1, 55.</ls> <ls>MEGH. 47.</ls> <ls>Z. d. d. m. G. 14, 571, 14.</ls> <ls>KATHĀS. 40, 84.</ls> <ls>RĀJA-TAR. 5, 89. 92. 95.</ls> {#pfTupravAhA (nadI)#} 
-<ls>MBH. 6, 2636. 15, 248.</ls> 
-<ls>RAGH. 13, 48. 57.</ls> 
-<ls>RĀJA-TAR. 4, 703.</ls> {#apAM pravAho gANgaH#} 
-<ls>KĀM. NĪTIS. 5, 8.</ls> {#vArAM pravAhEH#} 
-<ls>PRAB. 87, 6.</ls> {#jala°#} 
-<ls>RAGH. 13, 10.</ls> {#vAri°#} (als Erkl. von {#nirJara#}) 
-<ls>AK. 2, 3, 5.</ls> {#amftasya#} 
-<ls>PAÑCAT. II, 61.</ls> {#rakta°#} 
-<ls>38, 20.</ls> <ls>RAGH. 7, 39.</ls> <ls>MĀRK. P. 13, 3. 16, 16.</ls> {#aSru°#} 
-<ls>PAÑCAT. 50, 9.</ls> 
-<ls>SOM. NALA 164.</ls> {#vyaYjanAnAM pravAhAH#} 
-<ls>MBH. 3, 8530.</ls> {#saptacCadakzIrakawu°#} 
-<ls>RAGH. 5, 48.</ls> {#vacasAm#} 
-<ls>BHĀG. P. 7, 9, 8.</ls> 
-<ls>NĪLAK. 65.</ls> {#eta u ha vE CandaHpravAhA avaraM CandaH paraM Cando 'tipravahanti#} 
-<ls>ŚĀṄKH. BR. 11, 5.</ls> {#sfzwi°#} 
-<ls>NĪLAK. 41.</ls> {#manoraTAnAmatawapravAhAH#} 
-<ls>ŚĀK. 137, v. l.</ls> 
-<ls>BHĀG. P. 4, 31, 17. 7, 7, 28.</ls> {#Bakti°#} 
-<ls>3, 33, 24.</ls> {#Bava°#} 
-<ls>1, 8, 36. 9, 32.</ls> {#guRa°#} 
-<ls>?2,1,33.3,28,35.9,5,26. Verz. d. Oxf. H. 128,b,32. VEDĀNTAS. (Allah.) No. 123. 134. KULL. zu M.1,112.5,36.6,72. Schol. zu KAP.1,27. 160.</ls> {%das Hervorströmen%} (vgl. {#pravaha#}) 
-<ls>H. 1514.</ls> = {#vyavahAra#} 
-<ls>TRIK. 3, 3, 458.</ls> 
-<ls>H. an.</ls> (st. dessen {#pravftti#} 
-<ls>MED.</ls>). {#pravAheRa#} 
-<ls>SUŚR. 2, 437, 19</ls> Druckfehler für {#pravAhaRe#} . 
-<div n="2">— b) N. pr. eines Wesens im Gefolge des <is>Skanda</is> 
-<ls>MBH. 9, 2572.</ls> 
-<div n="2">— c) {%ein schönes Pferd%} 
-<ls>NĀNĀRTHARATNAM.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#I#} {%Sand%} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
+{#pravAha/#}¦ (von {#vah#} mit {#pra#})
+<div n="1"> 1) <lex>m.</lex>
+<div n="2"> a) {%Strom, Strömung, fliessendes Wasser%}; übertr. {%Fluss, Continuität, ununterbrochene Fortdauer%} ({#pravftti#})
+<ls>AK. 3,4,3,21.</ls> <ls n="AK.">3,3,18.</ls>
+<ls>H. 1087.</ls>
+<ls>an. 3,767.</ls>
+<ls>MED. h. 21.</ls> <ls>HALĀY. 3,47.</ls> <ls>ŚAT. BR. 12,2,3,12.</ls> {#nadyA iva pravAhaH#}
+<ls>Spr. 1403.</ls> {#gaNgA°#}
+<ls n="Spr.">2162.</ls> <ls>RAGH. 5,46.</ls> <ls n="RAGH.">16,58.</ls> <ls>KUMĀRAS. 1,55.</ls> <ls>MEGH. 47.</ls> <ls>Z. d. d. m. G. 14,571,14.</ls> <ls>KATHĀS. 40,84.</ls> <ls>RĀJA-TAR. 5,89. 92. 95.</ls> {#pfTupravAhA (nadI)#}
+<ls>MBH. 6,2636.</ls> <ls n="MBH.">15,248.</ls>
+<ls>RAGH. 13,48.</ls> <ls n="RAGH. 13,">57.</ls>
+<ls>RĀJA-TAR. 4,703.</ls> {#apAM pravAho gANgaH#}
+<ls>KĀM. NĪTIS. 5,8.</ls> {#vArAM pravAhEH#}
+<ls>PRAB. 87,6.</ls> {#jala°#}
+<ls>RAGH. 13,10.</ls> {#vAri°#} (als Erkl. von {#nirJara#})
+<ls>AK. 2,3,5.</ls> {#amftasya#}
+<ls>PAÑCAT. II,61.</ls> {#rakta°#}
+<ls n="PAÑCAT.">38,20.</ls> <ls>RAGH. 7,39.</ls> <ls>MĀRK. P. 13,3. 16,16.</ls> {#aSru°#}
+<ls>PAÑCAT. 50,9.</ls>
+<ls>SOM. NALA 164.</ls> {#vyaYjanAnAM pravAhAH#}
+<ls>MBH. 3,8530.</ls> {#saptacCadakzIrakawu°#}
+<ls>RAGH. 5,48.</ls> {#vacasAm#}
+<ls>BHĀG. P. 7,9,8.</ls>
+<ls>NĪLAK. 65.</ls> {#eta u ha vE CandaHpravAhA avaraM CandaH paraM Cando 'tipravahanti#}
+<ls>ŚĀṄKH. BR. 11,5.</ls> {#sfzwi°#}
+<ls>NĪLAK. 41.</ls> {#manoraTAnAmatawapravAhAH#}
+<ls>ŚĀK. 137, v. l.</ls>
+<ls>BHĀG. P. 4,31,17.</ls> <ls n="BHĀG. P.">7,7,28.</ls> {#Bakti°#}
+<ls n="BHĀG. P.">3,33,24.</ls> {#Bava°#}
+<ls n="BHĀG. P.">1,8,36.</ls> <ls n="BHĀG. P. 1,">9,32.</ls> {#guRa°#}
+<ls n="BHĀG. P.">2,1,33.</ls> <ls n="BHĀG. P.">3,28,35.</ls> <ls n="BHĀG. P.">9,5,26.</ls> <ls>Verz. d. Oxf. H. 128,b,32.</ls> <ls>VEDĀNTAS. (Allah.) No. 123. 134.</ls> <ls>KULL.</ls> zu <ls>M. 1,112.</ls> <ls n="M.">5,36.</ls> <ls n="M.">6,72.</ls> Schol. zu <ls>KAP. 1,27. 160.</ls> {%das Hervorströmen%} (vgl. {#pravaha#})
+<ls>H. 1514.</ls> = {#vyavahAra#}
+<ls>TRIK. 3,3,458.</ls>
+<ls>H. an.</ls> (st. dessen {#pravftti#}
+<ls>MED.</ls>). {#pravAheRa#}
+<ls>SUŚR. 2,437,19</ls> Druckfehler für {#pravAhaRe#} .
+<div n="2">— b) N. pr. eines Wesens im Gefolge des <is>Skanda</is>
+<ls>MBH. 9,2572.</ls>
+<div n="2">— c) {%ein schönes Pferd%}
+<ls>NĀNĀRTHARATNAM.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 2) <lex>f.</lex> {#I#} {%Sand%}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
 <div n="v">— Vgl. {#yantrapravAha#} .
 <LEND>

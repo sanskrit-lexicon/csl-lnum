@@ -1,10 +1,10 @@
 <L>14452<pc>348-a<k1>honour<k2>honour
-<div n="lb"/>HONOUR¦, {%s.%} (Fame, reputation) {#kIrttiH#} {%f.,%} {#yaSas#} {%n.,%} {#KyAtiH#} {%f.,%}
-<div n="lb"/>{#suKyAtiH#} {%f.,%} {#viKyAtiH#} {%f.,%} {#pratizWA, viSrutiH#} {%f.,%} {#samAKyA, pratipattiH#} {%f.%}
-<div n="lb"/> — (Reverence) {#sammAnaM, mAnaM, pUjA, arcanaM -nA, arcA, aByarcA -rcanaM,#}
-<div n="lb"/>{#namaskAraH, sevA, arhA, arhaRaM -RA, AdaraH, samBAvanA, satkAraH, ArADanaM,#}
-<div n="lb"/>{#puraskAraH, samBramaH, SlAGA#}. — (Dignity, honourable rank) {#utkarzaH,#}
-<div n="lb"/>{#utkfzwatA, utkfzwapadaM, kulInapadaM, pratipattiH#} {%f.,%} {#praDAnapadaM, praDAnatA, prADAnyaM,#}
-<div n="lb"/>{#SrezWatvaM, unnatiH#} {%f.,%} {#maryyAdA, aBijAtatA, pUjyatA, mAnyatA -tvaM, aByarhaRI-#}
-<div n="lb"/>{#yetA#}. — (Family honour) {#maryyAdA, kulamaryyAdA#}.
+HONOUR¦, {%s.%} (Fame, reputation) {#kIrttiH#} {%f.,%} {#yaSas#} {%n.,%} {#KyAtiH#} {%f.,%}
+{#suKyAtiH#} {%f.,%} {#viKyAtiH#} {%f.,%} {#pratizWA, viSrutiH#} {%f.,%} {#samAKyA, pratipattiH#} {%f.%}
+ — (Reverence) {#sammAnaM, mAnaM, pUjA, arcanaM -nA, arcA, aByarcA -rcanaM,#}
+{#namaskAraH, sevA, arhA, arhaRaM -RA, AdaraH, samBAvanA, satkAraH, ArADanaM,#}
+{#puraskAraH, samBramaH, SlAGA#}. — (Dignity, honourable rank) {#utkarzaH,#}
+{#utkfzwatA, utkfzwapadaM, kulInapadaM, pratipattiH#} {%f.,%} {#praDAnapadaM, praDAnatA, prADAnyaM,#}
+{#SrezWatvaM, unnatiH#} {%f.,%} {#maryyAdA, aBijAtatA, pUjyatA, mAnyatA -tvaM, aByarhaRI-#}
+{#yetA#}. — (Family honour) {#maryyAdA, kulamaryyAdA#}.
 <LEND>

@@ -1,3 +1,3 @@
-<L>192897<pc>950,1<k1>vikAla<k2>vi/—kAla<h>a<e>3
-<s>vi/—kAla</s> <hom>a</hom> ¦ <lex>m.</lex> twilight, evening, afternoon (<s>am</s> <lex type="phw">ind.</lex> in the evening, late), <ls>ĀpŚr.</ls>; <ls>MBh.</ls> &c.<info phwchild="192897.1"/><info lex="m"/>
+<L>192897<pc>950,1<k1>vikAla<k2>vi—kAla<e>3
+<s>vi—kAla</s> ¦ <lex>m.</lex> twilight, evening, afternoon (<s>am</s> <lex type="phw">ind.</lex> in the evening, late), <ls>ĀpŚr.</ls>; <ls>MBh.</ls> &c.<info phwchild="192897.1"/><info lex="m"/><info hui="a"/>
 <LEND>

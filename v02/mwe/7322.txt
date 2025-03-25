@@ -1,6 +1,6 @@
 <L>7322<pc>166-b<k1>deity<k2>deity
-<div n="lb"/>DEITY¦, {%s.%} (A god) {#devaH, devatA, suraH, vibuDaH, WakkuraH, pUjilaH, naBaHsaQ#} {%m.,%}
-<div n="lb"/>{#nAkasad#} {%m.,%} {#nAkI#} {%m.%} {#(n), sucirAyUH#} {%m.%} {#(s), asvapnaH, animivaH,#}
-<div n="lb"/>{#dEtyAriH#} {%m.,%} {#dAnavAriH#} {%m.,%} {#gIrvARaH, nilimpaH#}. — (Divine state)
-<div n="lb"/>{#devatvaM -tA#}.
+DEITY¦, {%s.%} (A god) {#devaH, devatA, suraH, vibuDaH, WakkuraH, pUjilaH, naBaHsaQ#} {%m.,%}
+{#nAkasad#} {%m.,%} {#nAkI#} {%m.%} {#(n), sucirAyUH#} {%m.%} {#(s), asvapnaH, animivaH,#}
+{#dEtyAriH#} {%m.,%} {#dAnavAriH#} {%m.,%} {#gIrvARaH, nilimpaH#}. — (Divine state)
+{#devatvaM -tA#}.
 <LEND>

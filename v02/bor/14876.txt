@@ -1,9 +1,9 @@
 <L>14876<pc>454<k1>moment<k2>moment
-<div n="lb"/>{@MOMENT:@}¦ <div n="I">I Importance: q. v.: {#gurUtvam.#} </div><div n="I">II
-<div n="lb"/>Of time: </div><div n="1">(1) {#muhUrta#} (mn.), {%for about a m.:%}
-<div n="lb"/>{#muhUrtamiva,#} <ls>K.</ls> ; <div n="xe">{%in a m.:%}</div> <div n="xs">{#muhUrtena,#}</div> <ls>R.</ls> ; <div n="xe">{%but for a%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#muhUrtamAtram,#}</div> <ls>N.</ls> ; <div n="xe">{%after a m.:%}</div> <div n="xs">{#muhUrtApagame,#}</div> <ls>K.</ls> ;</div>
-<div n="lb"/><div n="1">(2) {#kzaRaH#} <div n="xe">{%in a m.:%}</div> <div n="xs">{#kzaRena,#}</div> <ls>V.</ls> ; {%even for a m.:%}
-<div n="lb"/>{#kzaRamapi,#} <ls>R.</ls> ; <div n="xe">{%at this very m.:%}</div> <div n="xs">{#asminneva kzaRe,#}</div>
-<div n="lb"/><ls>D.</ls> ; <div n="xe">{%in the next m.:%}</div> <div n="xs">{#tasminneva kzaRAntare,#}</div> D.</div>
+{@MOMENT:@}¦ <div n="I">I Importance: q. v.: {#gurUtvam.#} </div><div n="I">II
+Of time: </div><div n="1">(1) {#muhUrta#} (mn.), {%for about a m.:%}
+{#muhUrtamiva,#} <ls>K.</ls> ; <div n="xe">{%in a m.:%}</div> <div n="xs">{#muhUrtena,#}</div> <ls>R.</ls> ; <div n="xe">{%but for a%}
+{%m.:%}</div> <div n="xs">{#muhUrtamAtram,#}</div> <ls>N.</ls> ; <div n="xe">{%after a m.:%}</div> <div n="xs">{#muhUrtApagame,#}</div> <ls>K.</ls> ;</div>
+<div n="1">(2) {#kzaRaH#} <div n="xe">{%in a m.:%}</div> <div n="xs">{#kzaRena,#}</div> <ls>V.</ls> ; {%even for a m.:%}
+{#kzaRamapi,#} <ls>R.</ls> ; <div n="xe">{%at this very m.:%}</div> <div n="xs">{#asminneva kzaRe,#}</div>
+<ls>D.</ls> ; <div n="xe">{%in the next m.:%}</div> <div n="xs">{#tasminneva kzaRAntare,#}</div> D.</div>
 <LEND>

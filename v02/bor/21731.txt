@@ -1,10 +1,10 @@
 <L>21731<pc>685<k1>subjection<k2>subjection
-<div n="lb"/>{@SUBJECTION:@}¦ <div n="I">I The act: </div><div n="1">(1) by verb; </div><div n="1">(2)
-<div n="lb"/>{#vaSIkaraRam#} (= subjugation). </div><div n="I">II The state:</div>
-<div n="lb"/><div n="1">(1) {#vaSayatA,#} {%my s. and your holding me under s:%}
-<div n="lb"/>{#vaSitvaM vo vaSayatA ca mama,#} Vi. v.; </div><div n="1">(2) {#vaSam#} (with
-<div n="lb"/>a verb), <div n="xe">{%bringing Karṇa under s.:%}</div> <div n="xs">{#karRaM vaSe kftvA,#}</div>
-<div n="lb"/>Mah. ii. 30. 20.; {%when a son is under s.:%}
-<div n="lb"/>{#asti putro vaSe yasya,#} J.; <div n="xe">{%then they will come under%}
-<div n="lb"/>{%my s.:%}</div> <div n="xs">{#vaSamezyanti me tadA,#}</div> H. i.</div>
+{@SUBJECTION:@}¦ <div n="I">I The act: </div><div n="1">(1) by verb; </div><div n="1">(2)
+{#vaSIkaraRam#} (= subjugation). </div><div n="I">II The state:</div>
+<div n="1">(1) {#vaSayatA,#} {%my s. and your holding me under s:%}
+{#vaSitvaM vo vaSayatA ca mama,#} Vi. v.; </div><div n="1">(2) {#vaSam#} (with
+a verb), <div n="xe">{%bringing Karṇa under s.:%}</div> <div n="xs">{#karRaM vaSe kftvA,#}</div>
+Mah. ii. 30. 20.; {%when a son is under s.:%}
+{#asti putro vaSe yasya,#} J.; <div n="xe">{%then they will come under%}
+{%my s.:%}</div> <div n="xs">{#vaSamezyanti me tadA,#}</div> H. i.</div>
 <LEND>

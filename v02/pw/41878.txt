@@ -1,27 +1,27 @@
-<L>41878<pc>2256-1<k1>jar<k2>jar<h>1<e>500
-1. {#jar#}¦
-<div n="1">— 1) {#ja/rati#} (nur in der ältesten Sprache)
-<div n="2">— a) {%gebrechlich — , alt machen.%}
-<div n="2">— b) {%alt werden lassen.%}
-<div n="2">— c) {#*nyakkAre#}.
-<div n="2">— d) {#ja/rant#} (auch klassisch ; <lex>f.</lex> {#ja/ratI#}
-<div n="3">— α) {%gebrechlich , alt , greis , dürr%} (Reis) , {%verfallen , nicht mehr im Gebrauch seiend%} ; <lex>m.</lex> {%Greis.%}
-<div n="3">— β) {%früher , ehemalig.%}
-<div n="1">— 2) {#jI/ryati#} (seltener <ab>Med.</ab>)
-<div n="2">— a) {%gebrechlich werden , in Verfall kommen , sich abnutzen , — aufzehren , morsch werden , dahingehen , altern.%} {#jIryant#} und {#jIryamARa#} (ausnahmsweise) {%alternd.%} {#jAgAra#} {%ist alt geworden%} <ls>AV.5,19,10.</ls> {#jIrRa/#} {%gebrechlich , abgelebt , abgenutzt , zer- , verfallen , dürr , morsch , dahingegangen , alt geworden , zu Nichte gemacht durch%} (<ab>Instr.</ab>) , {%alt%} (auch als Gegensatz von {%neu , frisch%} <ls>CARAKA.1,27</ls>). {#saMpradAya#} <lex>m.</lex> {%eine alte Ueberlieferung%} <ab>Comm.</ab> zu <ls>KĀTY.ŚR.9,4,28.10,1,13.1.9,1,21.26,4,14.</ls>
-<div n="2">— b) {%sich auflösen , verdaut werden%} <ls>CARAKA.1,27.</ls> {#jIrRa#} {%verdaut.%} {#mAnase suKaduHKAni#} so v.a. {%zurückgehalten%} <ls>Spr.6254.</ls>
-<div n="1">— 3) {#*jfRAti#} ( {#vayohAnO#}).
+<L>41878<pc>2-256-a<k1>jar<k2>jar<h>1
+<hom>1.</hom> √{#jar#}¦
+<div n="1">— 1〉 {#ja/rati#} (nur in der ältesten Sprache)
+<div n="2">— a〉 {%gebrechlich —, alt machen%}.
+<div n="2">— b〉 {%alt werden lassen%}.
+<div n="2">— c〉 *{#nyakkAre#}.
+<div n="2">— d〉 {#ja/rant#} (auch klassisch; <lex>f.</lex> {#ja/ratI#})
+<div n="3">— α〉 {%gebrechlich, alt, greis, dürr%} (Reis), {%verfallen, nicht mehr im Gebrauch seiend;%} <lex>m.</lex> {%Greis%}.
+<div n="3">— β〉 {%früher, ehemalig%}.
+<div n="1">— 2〉 {#jI/ryati#} (seltener <ab>Med.</ab>)
+<div n="2">— a〉 {%gebrechlich werden, in Verfall kommen, sich abnutzen, — aufzehren, morsch werden, dahingehen, altern%}. {#jIryant#} und {#jIryamARa#} (ausnahmsweise) {%alternd%}. {#jAgAra#} {%ist alt geworden%} <ls>AV. 5,19,10</ls>. {#jIrRa/#} {%gebrechlich, abgelebt, abgenutzt, zer-, verfallen, dürr, morsch, dahingegangen, alt geworden, zu Nichte gemacht durch%} (<ab>Instr.</ab>), {%alt%} (auch als Gegensatz von {%neu, frisch%} <ls>CARAKA. 1,27</ls>). {#saMpradAya#} <lex>m.</lex> {%eine alte Ueberlieferung%} <ls>Comm. zu KĀTY. ŚR. 9,4,28. 10,1,13. 19,1,21. 26,4,14</ls>.
+<div n="2">— b〉 {%sich auflösen, verdaut werden%} <ls>CARAKA. 1,27</ls>. {#jIrRa#} {%verdaut%}. {#mAnase suKaduHKAni#} so <ab>v. a.</ab> {%zurückgehalten%} <ls>Spr. 6254</ls>.
+<div n="1">— 3〉 *{#jfRAti#} ({#vayohAnO#}).
 <div n="m">— <ab>Caus.</ab>
-<div n="1">— 1) {#jara/yati#} (episch auch <ab>Med.</ab>)
-<div n="2">— a) {%aufreiben , abnutzen , verzehren , altern machen.%}
-<div n="2">— b) {%verdauen%} <ls>CARAKA.1,21.</ls>
-<div n="2">— c) {%machen , dass Etwas verdaut wird.%}
-<div n="1">— 2) {#*jArayati#} ( {#vayohAnO#}.
-<div n="p">— Mit {#*anu#} {%mit Jmd (<ab>Acc.</ab>) altern.%} {#°jIrRa#} mit act. , pass. und impers. Bed.
-<div n="p">— Mit {#nis#} <ab>Caus.</ab> ( {#°jarayati#}) {%zerreiben , zermalmen.%}
+<div n="1">— 1〉 {#jara/yati#} (episch auch <ab>Med.</ab>)
+<div n="2">— a〉 {%aufreiben, abnutzen, verzehren, altern machen%}.
+<div n="2">— b〉 {%verdauen%} <ls>CARAKA. 1,21</ls>.
+<div n="2">— c〉 {%machen, dass Etwas verdaut wird%}.
+<div n="1">— 2〉 *{#jArayati#} ({#vayohAnO#}).
+<div n="p">— Mit *{#anu#} {%mit Jmd%} (<ab>Acc.</ab>) {%altern%}. {#°jIrRa#} mit <ab>act.</ab>, <ab>pass.</ab> und <ab>impers.</ab> <ab>Bed.</ab>
+<div n="p">— Mit {#nis#} <ab>Caus.</ab> ({#°jarayati#}) {%zerreiben, zermalmen%}.
 <div n="p">— Mit {#pari#}
-<div n="1">— 1) {#°jIryant#} {%alternd.%} {#°jIrRa#} {%ganz abgenutzt%} (Kleider <ls>LALIT.332,9</ls>), {%welk , alt%} (Gemüse).
-<div n="1">— 2) {#°jIryati#} , {#°te#} {%verdaut werden.%}
-<div n="p">— Mit {#pra#}, {#°jIryati#} {%verdaut werden.%} {#°jIrRa#} {%verdaut%} <ls>CARAKA.1,15.</ls>
-<div n="p">— Mit {#sam#}, {#saMjIryati#} {%zusammen alt werden%} <ls>MAITR.S.1,8,4.</ls>
+<div n="1">— 1〉 {#°jIryant#} {%alternd%}. {#°jIrRa#} {%ganz abgenutzt%} (Kleider <ls>LALIT. 332,9</ls>), {%welk, alt%} (Gemüse).
+<div n="1">— 2〉 {#°jIryati#}, {#°te#} {%verdaut werden%}.
+<div n="p">— Mit {#pra#}, {#°jIryati#} {%verdaut werden%}. {#°jIrRa#} {%verdaut%} <ls>CARAKA. 1,15</ls>.
+<div n="p">— Mit {#sam#}, {#saMjIryati#} {%zusammen alt werden%} <ls>MAITR. S. 1,8,4</ls>.
 <LEND>

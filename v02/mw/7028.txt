@@ -1,5 +1,5 @@
-<L>7028<pc>37,2<k1>anuyam<k2>anu-yam<h>a<e>1
-<s>anu-√ yam</s> <hom>a</hom> ¦ (3. <ab>pl.</ab> <s>-yacCanti</s>; Imper. <s>-yacCatu</s>; <ab>p.</ab> fem. <s>-ya/cCamAnA</s>) 
-<div n="to"/>to direct, guide, give a direction to, <ls>RV. i, 123, 13; iv, 57, 7 and vi, 75, 6</ls>;
-<div n="to"/> (<ab>perf.</ab> 3. <ab>pl.</ab> <s>-yemuH</s> <ab>Ā.</ab> 3. <ab>du.</ab> <s>-yemA/te</s>) to follow, <ls>RV.</ls><info verb="pre" cp="Ā" parse="anu+yam"/>
+<L>7028<pc>37,2<k1>anuyam<k2>anu-yam<e>1
+<s>anu-√ yam</s> ¦ (3. <ab>pl.</ab> <s>-yacCanti</s>; <ab>Imper.</ab> <s>-yacCatu</s>; <ab>p.</ab> <ab>fem.</ab> <s>-ya/cCamAnA</s>)
+<div n="to"/>to direct, guide, give a direction to, <ls>RV. i, 123, 13</ls>; <ls n="RV.">iv, 57, 7</ls> and <ls n="RV.">vi, 75, 6</ls>;
+<div n="to"/> (<ab>perf.</ab> 3. <ab>pl.</ab> <s>-yemuH</s> <ab>Ā.</ab> 3. <ab>du.</ab> <s>-yemA/te</s>) to follow, <ls>RV.</ls><info verb="pre" cp="Ā" parse="anu+yam"/><info hui="a"/>
 <LEND>

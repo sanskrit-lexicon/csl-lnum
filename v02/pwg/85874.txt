@@ -1,191 +1,175 @@
 <L>85874<pc>6-0486<k1>laNG<k2>laNG
-{#laNG#}¦, {#la/NGati, °te#} 
-<ls>DHĀTUP. 4, 34</ls> ({#gatO, BojananivfttO#}). 
-<ls>5, 55</ls> ({#SozaRe, gatO#}). 
-<div n="1"> 1) {%springen auf%}: {#anye cAlaNGizuH SElAn#} 
-<ls>BHAṬṬ. 15, 32.</ls> 
-<div n="1">— 2) {%fasten.%} 
-<div n="1">— 3) {%abzehren%}: {#yaM vyADiratidIptANgaM kadAcittu na laNGati#} 
+{#laNG#}¦, {#la/NGati, °te#}
+<ls>DHĀTUP. 4,34</ls> ({#gatO, BojananivfttO#}).
+<ls n="DHĀTUP.">5,55</ls> ({#SozaRe, gatO#}).
+<div n="1"> 1) {%springen auf%}: {#anye cAlaNGizuH SElAn#}
+<ls>BHAṬṬ. 15,32.</ls>
+<div n="1">— 2) {%fasten.%}
+<div n="1">— 3) {%abzehren%}: {#yaM vyADiratidIptANgaM kadAcittu na laNGati#}
 <ls>HALĀY.</ls> im <ls>ŚKDR.</ls>
-
-<div n="p">— caus. {#laNGa/yati#} 
-<ls>DHĀTUP. 33, 87. 121.</ls> ({#BAzArTa, BAsArTa#}). aus metrischen Rücksichten hier und da auch med. 
-<div n="1"> 1) {%springen über, überschreiten. hinübergehen über%}; mit acc.: {#vatsatantrIm#} 
-<ls>M. 4, 38.</ls> {#laNGayitvA prayAhi mAm#} 
-<ls>MBH. 3, 11173. fg.</ls> {#sAgaraH plavagendreRa krameREkena laNGitaH#} 
-<ls>11178.</ls> {#prAkAram#} 
-<ls>4, 811. 13, 1575.</ls> {#saritaH#} 
-<ls>7381.</ls> <ls>HARIV. 3747. 4282.</ls> {#velAM na laNGayati#} das Meer 
-<ls>R. GORR. 2, 11, 5. 4, 63, 16. 5, 1, 19. 28. 2, 43. 3, 7. 6, 3. 55. 16. 7, 27, 1.</ls> <ls>MEGH. 55.</ls> <ls>RAGH. 4, 52.</ls> <ls>Spr. 1239. 1519.</ls> <ls>VARĀH. BṚH. S. 53, 108.</ls> <ls>RĀJA-TAR. 3, 325. 4, 566.</ls> <ls>MĀRK. P. 35, 30. 50, 88. 51, 90.</ls> {#kalpAntavAtasaMkzoBalaNGitASezaBUBftaH#} ({#udaDeH#}) 
-<ls>PRAB.5,1. 92,15.</ls> <ls>Verz. d. Oxf. H. 33,a,4. 6.</ls> {#aDvAnam#} {%einen Weg zurücklegen%} 
-<ls>RAGH. 1, 47.</ls> {#maryAdAm#} {%die Grenze überschreiten%} 
-<ls>MBH. 12, 3565.</ls> 
-<ls>HARIV. 14324.</ls> 
-<ls>R. 7, 36, 32.</ls> 
-<ls>Spr. 4201.</ls> 
-<ls>BHĀG. P. 1, 18, 37.</ls> {#sTitim#} 
-<ls>KATHĀS. 45, 91.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 121, 17.</ls> 
-<div n="1">— 2) {%besteigen. hinüberfahren über, von oben berühren%}: {#durgAlaNGitavigraha#} ({#umAvallaBa#}) 
-<ls>SĀH. D. 18, 20.</ls> {#hasta iva BUtimalino yaTA yaTA laNGayati - darpaRam#} 
-<ls>Spr. 5397.</ls> {#kakzAgnilaNGitataru#} 
-<ls>RAGH. 11, 92.</ls> {#nivAsaScEza me 'SvatTo devErapi na laNGyate#} so v. a. {%wird betreten%} 
-<ls>KATHĀS. 94, 71.</ls> {#yAvadrUpaM Jawiti na jarayA laNGyate#} 
-(v. l. für {#lupyate#}) {#preyasInAm#} 
-<ls>Spr. 2601.</ls> 
-<ls>PRAB. 1, 10.</ls> 
-<div n="1">— 3) {%übertreten, verletzen, zuwiderhandeln%}: {#saMvidam#} 
-<ls>YĀJÑ. 2, 187.</ls> {#nideSam#} 
-<ls>RAGH. 9, 9.</ls> {#AdeSam#} 
-<ls>KATHĀS. 33, 45.</ls> {#AjYAm#} 
-<ls>51, 43.</ls> <ls>RĀJA-TAR. 4, 312.</ls> {#mantrimantram#}
+<div n="p">— caus. {#laNGa/yati#}
+<ls>DHĀTUP. 33,87.</ls> <ls n="DHĀTUP. 33,">121.</ls> ({#BAzArTa, BAsArTa#}). aus metrischen Rücksichten hier und da auch med.
+<div n="1"> 1) {%springen über, überschreiten. hinübergehen über%}; mit acc.: {#vatsatantrIm#}
+<ls>M. 4,38.</ls> {#laNGayitvA prayAhi mAm#}
+<ls>MBH. 3,11173. fg.</ls> {#sAgaraH plavagendreRa krameREkena laNGitaH#}
+<ls n="MBH. 3,">11178.</ls> {#prAkAram#}
+<ls n="MBH.">4,811.</ls> <ls n="MBH.">13,1575.</ls> {#saritaH#}
+<ls n="MBH. 3,">7381.</ls> <ls>HARIV. 3747.</ls> <ls n="HARIV.">4282.</ls> {#velAM na laNGayati#} das Meer
+<ls>R. GORR. 2,11,5.</ls> <ls n="R. GORR.">4,63,16.</ls> <ls n="R. GORR.">5,1,19.</ls> <ls n="R. GORR. 5,1,">28.</ls> <ls n="R. GORR. 5,">2,43.</ls> <ls n="R. GORR. 5,">3,7.</ls> <ls n="R. GORR. 5,">6,3.</ls> <ls n="R. GORR. 5,">55,16.</ls> <ls n="R. GORR.">7,27,1.</ls> <ls>MEGH. 55.</ls> <ls>RAGH. 4,52.</ls> <ls>Spr. 1239.</ls> <ls n="Spr.">1519.</ls> <ls>VARĀH. BṚH. S. 53,108.</ls> <ls>RĀJA-TAR. 3,325. 4,566.</ls> <ls>MĀRK. P. 35,30. 50,88. 51,90.</ls> {#kalpAntavAtasaMkzoBalaNGitASezaBUBftaH#} ({#udaDeH#})
+<ls>PRAB. 5,1. 92,15.</ls> <ls>Verz. d. Oxf. H. 33,a,4. 6.</ls> {#aDvAnam#} {%einen Weg zurücklegen%}
+<ls>RAGH. 1,47.</ls> {#maryAdAm#} {%die Grenze überschreiten%}
+<ls>MBH. 12,3565.</ls>
+<ls>HARIV. 14324.</ls>
+<ls>R. 7,36,32.</ls>
+<ls>Spr. 4201.</ls>
+<ls>BHĀG. P. 1,18,37.</ls> {#sTitim#}
+<ls>KATHĀS. 45,91.</ls>
+<ls>R. GORR. 2,121,17.</ls>
+<div n="1">— 2) {%besteigen. hinüberfahren über, von oben berühren%}: {#durgAlaNGitavigraha#} ({#umAvallaBa#})
+<ls>SĀH. D. 18,20.</ls> {#hasta iva BUtimalino yaTA yaTA laNGayati — darpaRam#}
+<ls>Spr. 5397.</ls> {#kakzAgnilaNGitataru#}
+<ls>RAGH. 11,92.</ls> {#nivAsaScEza me 'SvatTo devErapi na laNGyate#} so v. a. {%wird betreten%}
+<ls>KATHĀS. 94,71.</ls> {#yAvadrUpaM Jawiti na jarayA laNGyate#}
+(v. l. für {#lupyate#}) {#preyasInAm#}
+<ls>Spr. 2601.</ls>
+<ls>PRAB. 1,10.</ls>
+<div n="1">— 3) {%übertreten, verletzen, zuwiderhandeln%}: {#saMvidam#}
+<ls>YĀJÑ. 2,187.</ls> {#nideSam#}
+<ls>RAGH. 9,9.</ls> {#AdeSam#}
+<ls>KATHĀS. 33,45.</ls> {#AjYAm#}
+<ls n="KATHĀS.">51,43.</ls> <ls>RĀJA-TAR. 4,312.</ls> {#mantrimantram#}
 [Page6-0487]
-
-<ls>KATHĀS. 58, 53.</ls> {#vacaH#} 
-<ls>49, 16.</ls> {#guruvAkyam#} 
-<ls>Spr. 4090.</ls> {#SAstrARi#} 
-<ls>MĀRK. P. 50, 88.</ls> 
-<div n="1">— 4) {%hinüberkommen über, entgehen%}: {#niyatiH kena laNGyate#} 
-<ls>Spr. 2011.</ls> {#prAkkftaM kena laNGyate#} 
-<ls>2169.</ls> {#BAgyaM na laNGayati ko 'pi viDipraRItam#} 
-<ls>3655.</ls> {#dEvaliKitaM Bogam#} 
-<ls>KATHĀS. 40, 31.</ls> {#Sirasi liKitam#} 
-<ls>Spr. 4147.</ls> {#prajApativaram#} so v. a. {%hintertreiben, vereiteln, hemmen%} 
-<ls>R. 7, 23, 5, 58.</ls> {#dEvI ca sidDirapi laNGayituM na SakyA#} 
-<ls>MṚCCH. 98, 13.</ls> 
-<ls>Spr. 1900.</ls> 
-<div n="1">— 5) {%sich über Jmd hinwegsetzen%} so v. a. {%gegen Jmdes Willen handeln, sich vergehen gegen Jmd, beleidigen, verletzen%} 
-<ls>M. 5, 151. 8, 371.</ls> 
-<ls>MBH. 1, 1445</ls> {#lambayitvA#} ed. (Bomb.). 
-<ls>HARIV. 571</ls> ({#tarjitA#} st. {#laNGitA#} die neuere Ausg.). 
-<ls>Spr. 5397.</ls> {#rajasA alaNGitAtmA#} {%der sich nicht in der Leidenschaft vergessen hat%} 
-<ls>KATHĀS. 20, 128.</ls> {#raviRA laNGito mAsaH#} 
-<ls>WEBER, JYOT. 101.</ls> 
-<div n="1">— 6) {%Jmd übertreffen%}: {#guRErOdAryAdyErmaGavAnamalaNGayat#} 
-<ls>RĀJA-TAR. 4, 217.</ls> {%Etwas übertreffen, verdunkeln%}: {#DarzaRAmarzito rAmo DEryaM rozeRa laNGayan#} 
-<ls>R. 6, 90, 12.</ls> ({#yaSaH#}) {#jagatprakASaM tadaSezamijyayA BavadgururlaNGayituM mamodyataH#} 
-<ls>RAGH. 3, 48.</ls> 
-<div n="1">— 7) {%Jmd fasten%} (Essenszeiten {%übergehen%}) {%lassen%} 
-<ls>SUŚR. 2, 407, 12. 462, 11.</ls> {#sulaNGita#} {%den man hat richtig fasten lassen%} 
-<ls>407, 17.</ls> 
+<ls>KATHĀS. 58,53.</ls> {#vacaH#}
+<ls n="KATHĀS.">49,16.</ls> {#guruvAkyam#}
+<ls>Spr. 4090.</ls> {#SAstrARi#}
+<ls>MĀRK. P. 50,88.</ls>
+<div n="1">— 4) {%hinüberkommen über, entgehen%}: {#niyatiH kena laNGyate#}
+<ls>Spr. 2011.</ls> {#prAkkftaM kena laNGyate#}
+<ls n="Spr.">2169.</ls> {#BAgyaM na laNGayati ko 'pi viDipraRItam#}
+<ls n="Spr.">3655.</ls> {#dEvaliKitaM Bogam#}
+<ls>KATHĀS. 40,31.</ls> {#Sirasi liKitam#}
+<ls>Spr. 4147.</ls> {#prajApativaram#} so v. a. {%hintertreiben, vereiteln, hemmen%}
+<ls>R. 7,23,5,58.</ls> {#dEvI ca sidDirapi laNGayituM na SakyA#}
+<ls>MṚCCH. 98,13.</ls>
+<ls>Spr. 1900.</ls>
+<div n="1">— 5) {%sich über Jmd hinwegsetzen%} so v. a. {%gegen Jmdes Willen handeln, sich vergehen gegen Jmd, beleidigen, verletzen%}
+<ls>M. 5,151.</ls> <ls n="M.">8,371.</ls>
+<ls>MBH. 1,1445</ls> {#lambayitvA#} ed. (Bomb.).
+<ls>HARIV. 571</ls> ({#tarjitA#} st. {#laNGitA#} die neuere Ausg.).
+<ls>Spr. 5397.</ls> {#rajasA alaNGitAtmA#} {%der sich nicht in der Leidenschaft vergessen hat%}
+<ls>KATHĀS. 20,128.</ls> {#raviRA laNGito mAsaH#}
+<ls>WEBER, JYOT. 101.</ls>
+<div n="1">— 6) {%Jmd übertreffen%}: {#guRErOdAryAdyErmaGavAnamalaNGayat#}
+<ls>RĀJA-TAR. 4,217.</ls> {%Etwas übertreffen, verdunkeln%}: {#DarzaRAmarzito rAmo DEryaM rozeRa laNGayan#}
+<ls>R. 6,90,12.</ls> ({#yaSaH#}) {#jagatprakASaM tadaSezamijyayA BavadgururlaNGayituM mamodyataH#}
+<ls>RAGH. 3,48.</ls>
+<div n="1">— 7) {%Jmd fasten%} (Essenszeiten {%übergehen%}) {%lassen%}
+<ls>SUŚR. 2,407,12. 462,11.</ls> {#sulaNGita#} {%den man hat richtig fasten lassen%}
+<ls n="SUŚR.">407,17.</ls>
 <div n="v">— Vgl. {#laNGana#} fgg.
-
-<div n="p">— desid. vom caus. {%zu überschreiten gedenken%}: {#meruM lilaNGayizati#} Cit. im Comm. zu 
-<ls>KĀVYĀD. 2, 350.</ls>
-
-<div n="p">— {#ati#} caus. {%übertreten, verletzen%}: {#AjYAm#} 
-<ls>KATHĀS. 18, 37.</ls> 
-<ls>PRAB. 7, 16</ls> ({#aBilaNGya#} 
-v. l.). 
+<div n="p">— desid. vom caus. {%zu überschreiten gedenken%}: {#meruM lilaNGayizati#} Cit. im Comm. zu
+<ls>KĀVYĀD. 2,350.</ls>
+<div n="p">— {#ati#} caus. {%übertreten, verletzen%}: {#AjYAm#}
+<ls>KATHĀS. 18,37.</ls>
+<ls>PRAB. 7,16</ls> ({#aBilaNGya#}
+v. l.).
 <div n="v">— Vgl. {#atilaNGana, atilaNGin#} .
-
-<div n="p">— {#aBi#} caus. 
-<div n="1"> 1) {%springen über, überschreiten%}: {#agnim#} 
-<ls>M. 4, 54.</ls> 
-<ls>YĀJÑ. 1, 137.</ls> {#maryAdAm#} 
-<ls>MBH. 12, 5455.</ls> 
-<div n="1">— 2) {%übertreten, verletzen%}: {#Darmam#} 
-<ls>MBH. 12, 5319.</ls> {#AjYAm#} 
-<ls>PRAB. 7, 16.</ls> 
-<div n="1">— 3) {%sich vergehen gegen Jmd%}: {#brahmARam#} 
-<ls>MBH. 12, 3565.</ls> 
+<div n="p">— {#aBi#} caus.
+<div n="1"> 1) {%springen über, überschreiten%}: {#agnim#}
+<ls>M. 4,54.</ls>
+<ls>YĀJÑ. 1,137.</ls> {#maryAdAm#}
+<ls>MBH. 12,5455.</ls>
+<div n="1">— 2) {%übertreten, verletzen%}: {#Darmam#}
+<ls>MBH. 12,5319.</ls> {#AjYAm#}
+<ls>PRAB. 7,16.</ls>
+<div n="1">— 3) {%sich vergehen gegen Jmd%}: {#brahmARam#}
+<ls>MBH. 12,3565.</ls>
 <div n="v">— Vgl. {#aBilaNGana#} .
-
-<div n="p">— {#ava#} caus. {%hinwegkommen über%} (eine Zeit), {%verbringen%}: {#avahelAvalaNGite . grIzme#} 
-<ls>KATHĀS. 78, 22.</ls> {#sarvakAlamavalaNGya#} so v. a. {%keine Zeit eingehalten habend%} 
+<div n="p">— {#ava#} caus. {%hinwegkommen über%} (eine Zeit), {%verbringen%}: {#avahelAvalaNGite . grIzme#}
+<ls>KATHĀS. 78,22.</ls> {#sarvakAlamavalaNGya#} so v. a. {%keine Zeit eingehalten habend%}
 <ls>GHAṬ. 7.</ls>
-
-<div n="p">— {#ud#} caus. 
-<div n="1"> 1) {%überschreiten, hinübergehen über, passiren%}: {#kAverIm#} 
-<ls>KATHĀS. 19, 95.</ls> {#parvatam#} 
-<ls>39, 143. 43, 137. 202.</ls> {#awavIm#} 
-<ls>100, 11. 103, 1. 109, 41. 44. 116, 14.</ls> <ls>RĀJA-TAR. 3, 221.</ls> {#Bittim#} 
-<ls>Verz. d. Oxf. H. 128,b,12.</ls> {#AkASamapAram#} 
-<ls>148,a, No. 318, Z. 8.</ls> {#deSAn#} 
-<ls>KATHĀS. 25, 38. 67, 106. 25, 10.</ls> 
-<ls>RĀJA-TAR. 4, 146.</ls> {#aDvAnam#} {%einen Weg zurücklegen%} 
-<ls>MEG. 46.</ls> <ls>KATHĀS. 86, 55. 111, 42.</ls> über eine Zeit {%hinwegkommen%}, eine Zeit {%zubringen, verleben%} 
-<ls>67, 106. 72, 407.</ls> 
-<div n="1">— 2) {%sich schwingen auf, zu sitzen kommen auf%}: {#uquyena SaMBoralaNGyamullaNGitamuttamANgam#} 
-<ls>Spr. 4023.</ls> 
-<div n="1">— 3) {%übertreten, verletzen, zuwiderhandeln%}: {#svakaM Darmam#} 
-<ls>MĀRK. P. 28, 34. 132, 12.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 181, 4.</ls> {#AjYAvacanam#} 
-<ls>KATHĀS. 39, 99.</ls> {#AjYAm#} 
-<ls>RĀJA-TAR. 3, 80. 4, 218. 378. 5, 395.</ls> 
-<ls>MĀRK. P. 114, 21.</ls> {#samayam#} 
-<ls>KATHĀS. 108, 183.</ls> {#nItim#} 
-<ls>190.</ls> {#satyAmimAM giram#} 
-<ls>84, 51.</ls> {#SAsanam#} 
-<ls>56, 162.</ls> <ls>BHĀG. P. 5, 26, 6. 12, 1, 9.</ls> {#SAstram#} 
-<ls>6, 1, 67.</ls> {#satpaTam#} {%den Weg der Guten verlassen%} 
-<ls>6, 7, 2.</ls> 
-<div n="1">— 4) {%hinüberkommen über, entgehen%}: {#ko hi svaSirasaSCAyAM viDeScollaNGayedgatim#} 
-<ls>KATHĀS. 52, 211.</ls> {#prAktanam#} 
-<ls>PAÑCAR. 1, 3, 10.</ls> 
-<div n="1">— 5) {%sich vergehen gegen Jmd, beleidigen%} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 191, 20. fg.</ls> Comm. zu <ls>VĀSAVAD. 7, 1.</ls> 
+<div n="p">— {#ud#} caus.
+<div n="1"> 1) {%überschreiten, hinübergehen über, passiren%}: {#kAverIm#}
+<ls>KATHĀS. 19,95.</ls> {#parvatam#}
+<ls n="KATHĀS.">39,143.</ls> <ls n="KATHĀS.">43,137.</ls> <ls n="KATHĀS. 43,">202.</ls> {#awavIm#}
+<ls n="KATHĀS.">100,11.</ls> <ls n="KATHĀS.">103,1.</ls> <ls n="KATHĀS.">109,41.</ls> <ls n="KATHĀS. 109,">44.</ls> <ls n="KATHĀS.">116,14.</ls> <ls>RĀJA-TAR. 3,221.</ls> {#Bittim#}
+<ls>Verz. d. Oxf. H. 128,b,12.</ls> {#AkASamapAram#}
+<ls n="Verz. d. Oxf. H.">148,a, No. 318, Z. 8.</ls> {#deSAn#}
+<ls>KATHĀS. 25,38.</ls> <ls n="KATHĀS.">67,106.</ls> <ls n="KATHĀS.">25,10.</ls>
+<ls>RĀJA-TAR. 4,146.</ls> {#aDvAnam#} {%einen Weg zurücklegen%}
+<ls>MEG. 46.</ls> <ls>KATHĀS. 86,55.</ls> <ls n="KATHĀS.">111,42.</ls> über eine Zeit {%hinwegkommen%}, eine Zeit {%zubringen, verleben%}
+<ls n="KATHĀS.">67,106.</ls> <ls n="KATHĀS.">72,407.</ls>
+<div n="1">— 2) {%sich schwingen auf, zu sitzen kommen auf%}: {#uquyena SaMBoralaNGyamullaNGitamuttamANgam#}
+<ls>Spr. 4023.</ls>
+<div n="1">— 3) {%übertreten, verletzen, zuwiderhandeln%}: {#svakaM Darmam#}
+<ls>MĀRK. P. 28,34. 132,12.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 181,4.</ls> {#AjYAvacanam#}
+<ls>KATHĀS. 39,99.</ls> {#AjYAm#}
+<ls>RĀJA-TAR. 3,80. 4,218. 378. 5,395.</ls>
+<ls>MĀRK. P. 114,21.</ls> {#samayam#}
+<ls>KATHĀS. 108,183.</ls> {#nItim#}
+<ls n="KATHĀS. 108,">190.</ls> {#satyAmimAM giram#}
+<ls n="KATHĀS.">84,51.</ls> {#SAsanam#}
+<ls n="KATHĀS.">56,162.</ls> <ls>BHĀG. P. 5,26,6.</ls> <ls n="BHĀG. P.">12,1,9.</ls> {#SAstram#}
+<ls n="BHĀG. P.">6,1,67.</ls> {#satpaTam#} {%den Weg der Guten verlassen%}
+<ls n="BHĀG. P.">6,7,2.</ls>
+<div n="1">— 4) {%hinüberkommen über, entgehen%}: {#ko hi svaSirasaSCAyAM viDeScollaNGayedgatim#}
+<ls>KATHĀS. 52,211.</ls> {#prAktanam#}
+<ls>PAÑCAR. 1,3,10.</ls>
+<div n="1">— 5) {%sich vergehen gegen Jmd, beleidigen%}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 191,20. fg.</ls> Comm. zu <ls>VĀSAVAD. 7,1.</ls>
 <div n="v">— Vgl. {#ullaNGana#} fg.
-
-<div n="p">— {#samud#} caus. {%übertreten, verletzen, vernachlässigen%}: {#sadAcAram#} 
-<ls>MĀRK. P. 34, 7.</ls> {#nityanEmittikIH kriyAH#} 3.
-
-<div n="p">— {#pari#} caus. {%abspringen von, verlassen%} (einen Weg): {#nItimArgam#} 
-<ls>Spr.2718.</ls>
+<div n="p">— {#samud#} caus. {%übertreten, verletzen, vernachlässigen%}: {#sadAcAram#}
+<ls>MĀRK. P. 34,7.</ls> {#nityanEmittikIH kriyAH#} 3.
+<div n="p">— {#pari#} caus. {%abspringen von, verlassen%} (einen Weg): {#nItimArgam#}
+<ls>Spr. 2718.</ls>
 [Page6-0488]
-
 <div n="v">— Vgl. {#parilaNGana#} .
-
-<div n="p">— {#prati#} caus. 
-<div n="1"> 1) {%sich schwingen —, sich setzen auf%}: {#AsanAdIni saMvIkzya pratilaNGya ca yatnataH#} 
-<ls>SARVADARŚANAS. 39, 10.</ls> 
-<div n="1">— 2) {%übertreten, verletzen%}: {#Darmam#} 
-<ls>MBH. 12, 9576.</ls>
-
-<div n="p">— {#vi#} {%springen%}: {#sAkaM BekErvilaNGantaH#} 
-<ls>BHĀG. P. 10, 12, 10.</ls> {#itastato vilaNGadBirgovatsEH#} 
-<ls>46, 10.</ls> — {#avilaMDase#} 
-<ls>Verz. d. Oxf. H. 76,b, N. 2</ls> wohl fehlerhaft für {#avilambitam#} . — caus. 
-<div n="1"> 1) {%springen über, überschreiten, hinübergehen über, passiren%}: {#prAkAram#} 
-<ls>KATHĀS. 75, 120.</ls> {#payoniDim#} 
-<ls>69, 182.</ls> {#vinDyam#} 
-<ls>RAGH. 16, 32.</ls> 
-<ls>RĀJA-TAR. 6, 2.</ls> 
-<ls>BHĀG. P. 11, 4, 10.</ls> 
-<ls>PAÑCAR. 1, 7, 12.</ls> {#aDvAnam#} {%einen Weg zurücklegen%} 
-<ls>RAGH. 5, 42.</ls> {#gavyUtim#} 
-<ls>RĀJA-TAR. 2, 163.</ls> eine Zeit {%überspringen, nicht einhalten%}: {#samayam#} 
-<ls>KUMĀRAS. 3, 25.</ls> {#vilaNGayitvA#} so v. a. {%gewartet habend%} 
-<ls>MBH. 12, 4792.</ls> 
-<div n="1">— 2) {%sich erheben zu, gen%}: {#naBaH#} 
-<ls>Spr. 1756.</ls> 
-<ls>KIR. 5, 1.</ls> {#vilaNGitAkASa#} ({#himAcala#}) 
-<ls>RĀJA-TAR. 3, 225.</ls> 
-<div n="1">— 3) {%übertreten, verletzen, zuwiderhandeln%}: {#AjYAm#} 
-<ls>KATHĀS. 18, 33.</ls> 
-<ls>RAGH. 9, 74.</ls> 
-<div n="1">— 4) {%hinüberkommen über%} so v. a. {%überwinden%}: {#Apadam#} 
-<ls>KATHĀS. 18, 309.</ls> {#dEvam#} 
-<ls>Spr. 471, v. l.</ls> so v. a. {%vereiteln%}: {#vilaNGitADoraRatIvrayatnAH senAgajendrAH#} 
-<ls>RAGH. 5, 48.</ls> 
-<div n="1">— 5) {%übergehen, bei Seite lassen, aufgeben%}: {#anyarasAn#} 
-<ls>RAGH. 3, 4.</ls> {#lajjAm#} 
-<ls>KATHĀS. 32, 196.</ls> 
-<div n="1">— 6) {%übertreffen%}: {#karRotpalaM prAyastava dfzwyA vilaNGyate#} 
-<ls>KĀVYĀD. 2, 224.</ls> 
-<div n="1">— 7) {%sich vergehen gegen Jmd, beleidigen%} 
-<ls>Spr. 4700.</ls> 
-<div n="1">— 8) {%fasten lassen%} 
-<ls>SUŚR. 2, 486, 12.</ls> 
+<div n="p">— {#prati#} caus.
+<div n="1"> 1) {%sich schwingen —, sich setzen auf%}: {#AsanAdIni saMvIkzya pratilaNGya ca yatnataH#}
+<ls>SARVADARŚANAS. 39,10.</ls>
+<div n="1">— 2) {%übertreten, verletzen%}: {#Darmam#}
+<ls>MBH. 12,9576.</ls>
+<div n="p">— {#vi#} {%springen%}: {#sAkaM BekErvilaNGantaH#}
+<ls>BHĀG. P. 10,12,10.</ls> {#itastato vilaNGadBirgovatsEH#}
+<ls n="BHĀG. P. 10,">46,10.</ls> — {#avilaMDase#}
+<ls>Verz. d. Oxf. H. 76,b, N. 2</ls> wohl fehlerhaft für {#avilambitam#} . — caus.
+<div n="1"> 1) {%springen über, überschreiten, hinübergehen über, passiren%}: {#prAkAram#}
+<ls>KATHĀS. 75,120.</ls> {#payoniDim#}
+<ls n="KATHĀS.">69,182.</ls> {#vinDyam#}
+<ls>RAGH. 16,32.</ls>
+<ls>RĀJA-TAR. 6,2.</ls>
+<ls>BHĀG. P. 11,4,10.</ls>
+<ls>PAÑCAR. 1,7,12.</ls> {#aDvAnam#} {%einen Weg zurücklegen%}
+<ls>RAGH. 5,42.</ls> {#gavyUtim#}
+<ls>RĀJA-TAR. 2,163.</ls> eine Zeit {%überspringen, nicht einhalten%}: {#samayam#}
+<ls>KUMĀRAS. 3,25.</ls> {#vilaNGayitvA#} so v. a. {%gewartet habend%}
+<ls>MBH. 12,4792.</ls>
+<div n="1">— 2) {%sich erheben zu, gen%}: {#naBaH#}
+<ls>Spr. 1756.</ls>
+<ls>KIR. 5,1.</ls> {#vilaNGitAkASa#} ({#himAcala#})
+<ls>RĀJA-TAR. 3,225.</ls>
+<div n="1">— 3) {%übertreten, verletzen, zuwiderhandeln%}: {#AjYAm#}
+<ls>KATHĀS. 18,33.</ls>
+<ls>RAGH. 9,74.</ls>
+<div n="1">— 4) {%hinüberkommen über%} so v. a. {%überwinden%}: {#Apadam#}
+<ls>KATHĀS. 18,309.</ls> {#dEvam#}
+<ls>Spr. 471, v. l.</ls> so v. a. {%vereiteln%}: {#vilaNGitADoraRatIvrayatnAH senAgajendrAH#}
+<ls>RAGH. 5,48.</ls>
+<div n="1">— 5) {%übergehen, bei Seite lassen, aufgeben%}: {#anyarasAn#}
+<ls>RAGH. 3,4.</ls> {#lajjAm#}
+<ls>KATHĀS. 32,196.</ls>
+<div n="1">— 6) {%übertreffen%}: {#karRotpalaM prAyastava dfzwyA vilaNGyate#}
+<ls>KĀVYĀD. 2,224.</ls>
+<div n="1">— 7) {%sich vergehen gegen Jmd, beleidigen%}
+<ls>Spr. 4700.</ls>
+<div n="1">— 8) {%fasten lassen%}
+<ls>SUŚR. 2,486,12.</ls>
 <div n="v">— Vgl. {#vilaNGana#} fgg.
-
-<div n="p">— {#ativi#} caus. {%vorübergehen bei Jmd, bei Seite lassen, nicht einkehren bei%} 
-<ls>BHĀG. P. 10, 31, 16.</ls>
-
-<div n="p">— {#saMvi#} caus. {%bei Seite liegen lassen, vernachlässigen, unterlassen%}: {#viDim#} 
-<ls>PAÑCAR. 3, 7, 19.</ls>
-
-<div n="p">— {#sam#}, {#saMlaNGitA rAtriH#} {%vorübergegangen%} 
-<ls>LĀṬY. 6, 6, 15.</ls>
+<div n="p">— {#ativi#} caus. {%vorübergehen bei Jmd, bei Seite lassen, nicht einkehren bei%}
+<ls>BHĀG. P. 10,31,16.</ls>
+<div n="p">— {#saMvi#} caus. {%bei Seite liegen lassen, vernachlässigen, unterlassen%}: {#viDim#}
+<ls>PAÑCAR. 3,7,19.</ls>
+<div n="p">— {#sam#}, {#saMlaNGitA rAtriH#} {%vorübergegangen%}
+<ls>LĀṬY. 6,6,15.</ls>
 <LEND>

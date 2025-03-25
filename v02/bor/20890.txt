@@ -1,5 +1,5 @@
 <L>20890<pc>656<k1>snub-nose<k2>snub-nose
-<div n="lb"/>{@SNUB-NOSE:@}¦ <div n="1">(1) {#cipiwanAsA;#} </div><div n="1">(2) {#natanAsikA.#}
-<div n="lb"/>{%S. d:%} </div><div n="1">(1) {#natanAsika#} (f. {#kA#}); </div><div n="1">(2) {#avawIwa#} (f. {#wA#});</div>
-<div n="lb"/><div n="1">(3) {#avanAwa#} (f. {#wA#}); </div><div n="1">(4) {#avaBawa#} (f. {#wA#}).</div>
+{@SNUB-NOSE:@}¦ <div n="1">(1) {#cipiwanAsA;#} </div><div n="1">(2) {#natanAsikA.#}
+{%S. d:%} </div><div n="1">(1) {#natanAsika#} (f. {#kA#}); </div><div n="1">(2) {#avawIwa#} (f. {#wA#});</div>
+<div n="1">(3) {#avanAwa#} (f. {#wA#}); </div><div n="1">(4) {#avaBawa#} (f. {#wA#}).</div>
 <LEND>

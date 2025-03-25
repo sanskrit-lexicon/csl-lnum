@@ -1,16 +1,16 @@
 <L>48045<pc>4-0937<k1>praRASa<k2>praRASa
-{#praRASa#}¦ (von 1. {#naS#} mit {#pra#}) <lex>m.</lex> {%das Ausgehen, Aufhören, Verschwinden, Verlust%}: {#dIpacakzuzoH#} 
-<ls>SUŚR. 1, 110, 13. 118, 6.</ls> {#DarmakarmaRAm#} 
-<ls>122, 16. 2, 187, 21.</ls> {#yuzmAkaM ca kzutpraRASaM karomi#} 
-<ls>PAÑCAT. 87, 19.</ls> {#sarvaM (kilvizaM) praRASamupagacCatu#} 
-<ls>VARĀH. BṚH. S. 47, 53.</ls> {#°kft#} 
-<ls>9, 14.</ls> {%Verlust%} im Gegens. zu {#labDi#} {%Gewinn%} 
-<ls>94, 15.</ls> {#labDapraRASa#} {%der Verlust des Gewonnenen%}, Titel des 4ten Buches im <is>Pañcatantra</is> 
-<ls>PAÑCAT. 5, 10. 205, 1.</ls> {%Untergang, Tod%}: {#banDu°#} 
-<ls>BRĀHMAṆ. 1, 23.</ls> 
-<ls>R. 3, 70, 14.</ls> 
-<ls>RAGH. 14, 1.</ls> 
-<ls>RĀJA-TAR. 5, 438.</ls> {#a°#} {%das Nichtzugrundegehen%} 
-<ls>ŚAT. BR. 3, 2, 4, 20. 3, 1, 2.</ls> {#devatAnAm#} 
-<ls>PAÑCAV. BR. 14, 2, 6.</ls>
+{#praRASa#}¦ (von 1. {#naS#} mit {#pra#}) <lex>m.</lex> {%das Ausgehen, Aufhören, Verschwinden, Verlust%}: {#dIpacakzuzoH#}
+<ls>SUŚR. 1,110,13. 118,6.</ls> {#DarmakarmaRAm#}
+<ls n="SUŚR.">122,16. 2,187,21.</ls> {#yuzmAkaM ca kzutpraRASaM karomi#}
+<ls>PAÑCAT. 87,19.</ls> {#sarvaM (kilvizaM) praRASamupagacCatu#}
+<ls>VARĀH. BṚH. S. 47,53.</ls> {#°kft#}
+<ls n="VARĀH. BṚH. S.">9,14.</ls> {%Verlust%} im Gegens. zu {#labDi#} {%Gewinn%}
+<ls n="VARĀH. BṚH. S.">94,15.</ls> {#labDapraRASa#} {%der Verlust des Gewonnenen%}, Titel des 4ten Buches im <is>Pañcatantra</is>
+<ls>PAÑCAT. 5,10.</ls> <ls n="PAÑCAT.">205,1.</ls> {%Untergang, Tod%}: {#banDu°#}
+<ls>BRĀHMAṆ. 1,23.</ls>
+<ls>R. 3,70,14.</ls>
+<ls>RAGH. 14,1.</ls>
+<ls>RĀJA-TAR. 5,438.</ls> {#a°#} {%das Nichtzugrundegehen%}
+<ls>ŚAT. BR. 3,2,4,20. 3,1,2.</ls> {#devatAnAm#}
+<ls>PAÑCAV. BR. 14,2,6.</ls>
 <LEND>

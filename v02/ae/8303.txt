@@ -1,9 +1,9 @@
 <L>8303<pc>361<k1>privation<k2>privation
 {@Privation,@}¦ {%s.%} {#aBAvaH, virahaH, rAhityaM, hAni#}
-<div n="lb"/>{%f.,%} {#kzayaH, lopaH, nASaH#}. {@2@} {#kazwaM, kfcCraM, Apad-#}
-<div n="lb"/>{#-vipad#} {%-f.%} {@3@} {#AhAravirahaH, AhArABAvaH, suKa-#}
-<div n="lb"/>{#-sADanalopaH, annavastrahAniH#}. {@-Privative,@}
-<div n="lb"/>{%a.%} {#hAni-kzaya-lopa-kara#} ({#rI#} {%f.%}). {@2@} {#aBAvA-#}
-<div n="lb"/>{#-tmaka, aBAvarUpa, aBAvavAcin#}. {%-s.%} {#aBAva-#}
-<div n="lb"/>{#-SabdaH, naYpadaM#}. {@-ly,@} {%adv.%} {#aBAvarUpeRa#}.
+{%f.,%} {#kzayaH, lopaH, nASaH#}. {@2@} {#kazwaM, kfcCraM, Apad-#}
+{#-vipad#} {%-f.%} {@3@} {#AhAravirahaH, AhArABAvaH, suKa-#}
+{#-sADanalopaH, annavastrahAniH#}. {@-Privative,@}
+{%a.%} {#hAni-kzaya-lopa-kara#} ({#rI#} {%f.%}). {@2@} {#aBAvA-#}
+{#-tmaka, aBAvarUpa, aBAvavAcin#}. {%-s.%} {#aBAva-#}
+{#-SabdaH, naYpadaM#}. {@-ly,@} {%adv.%} {#aBAvarUpeRa#}.
 <LEND>

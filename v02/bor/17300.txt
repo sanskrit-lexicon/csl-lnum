@@ -1,9 +1,9 @@
 <L>17300<pc>529<k1>poetry<k2>poetry
-<div n="lb"/>{@POETRY:@}¦ <div n="1">(1) {#kAvyam,#} {%p. is language of sentiment:%}
-<div n="lb"/>{#vAkyaM rasAtmakaM kAvyam,#} Sah.; <div n="xe">{%those who know to%}
-<div n="lb"/>{%write and weigh p.:%}</div> <div n="xs">{#kAvyaM kartuM vicArayituYca ye #}
-<div n="lb"/>{# jAnanti,#}</div> Kav.; </div><div n="1">(2) {#kavitA,#} {%sweetness of p.:%}
-<div n="lb"/>{#kavitAmADuryam,#} Bho.; </div><div n="1">(3) {#padyam#} (= verse), {%what%}
-<div n="lb"/>{%is in this paper, p.:%} {#kiM patrikAyAmidam ?, padyam #} {#..,#}
-<div n="lb"/>Bho.</div>
+{@POETRY:@}¦ <div n="1">(1) {#kAvyam,#} {%p. is language of sentiment:%}
+{#vAkyaM rasAtmakaM kAvyam,#} Sah.; <div n="xe">{%those who know to%}
+{%write and weigh p.:%}</div> <div n="xs">{#kAvyaM kartuM vicArayituYca ye #}
+{# jAnanti,#}</div> Kav.; </div><div n="1">(2) {#kavitA,#} {%sweetness of p.:%}
+{#kavitAmADuryam,#} Bho.; </div><div n="1">(3) {#padyam#} (= verse), {%what%}
+{%is in this paper, p.:%} {#kiM patrikAyAmidam ?, padyam #} {#..,#}
+Bho.</div>
 <LEND>

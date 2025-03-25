@@ -1,15 +1,15 @@
 <L>46902<pc>4-0852<k1>pUrvArDa<k2>pUrvArDa/
-{#pUrvArDa/#}¦ ({#pUrva + arDa#}) <lex>m.</lex> {%Vordertheil, Obertheil, östlicher Theil%} (Gegens. {#jaGanArDa, uttarArDa, uttamArDa, parArDa#}) 
-<ls>TS. 2, 6, 2, 3.</ls> 
-<ls>ŚAT. BR. 1, 3, 3, 12. 8, 1, 13.</ls> {#paSoH#} 
-<ls>?8, 2, 4, 20. 10, 2, 3, 1. ŚĀK. 34, 1. RAGH. 16, 6. MEGH. 52. - ŚAT. BR. 1, 6, 3, 39. 3, 8, 3, 17. 5, 5, 1, 1. 7, 2, 2, 26.</ls> {#daRqasya#} 
-<ls>3, 7, 1, 26.</ls> {#havizaH#} 
-<ls>ĀŚV. GṚHY. 1, 10.</ls> {#kAMsyasya#} 
-<ls>ŚĀṄKH. ŚR. 4, 21, 8.</ls> {#uttara°#} 
-<ls>KĀTY. ŚR. 7, 2, 15.</ls> {#dakziRa°#} 
-<ls>9, 2, 8.</ls> {%Obertheil%} eines Pfeils 
-<ls>RAGH. 7, 42.</ls> {#dinasya#} {%Vormittag%} 
-<ls>Spr. 382.</ls> {%die vordere Hälfte%} (eines Halbverses) 
-<ls>ŚRUT. 5.</ls> 
+{#pUrvArDa/#}¦ ({#pUrva + arDa#}) <lex>m.</lex> {%Vordertheil, Obertheil, östlicher Theil%} (Gegens. {#jaGanArDa, uttarArDa, uttamArDa, parArDa#})
+<ls>TS. 2,6,2,3.</ls>
+<ls>ŚAT. BR. 1,3,3,12. 8,1,13.</ls> {#paSoH#}
+<ls n="ŚAT. BR.">8,2,4,20. 10,2,3,1.</ls> <ls>ŚĀK. 34,1.</ls> <ls>RAGH. 16,6.</ls> <ls>MEGH. 52.</ls> — <ls>ŚAT. BR. 1,6,3,39. 3,8,3,17. 5,5,1,1. 7,2,2,26.</ls> {#daRqasya#}
+<ls n="ŚAT. BR.">3,7,1,26.</ls> {#havizaH#}
+<ls>ĀŚV. GṚHY. 1,10.</ls> {#kAMsyasya#}
+<ls>ŚĀṄKH. ŚR. 4,21,8.</ls> {#uttara°#}
+<ls>KĀTY. ŚR. 7,2,15.</ls> {#dakziRa°#}
+<ls n="KĀTY. ŚR.">9,2,8.</ls> {%Obertheil%} eines Pfeils
+<ls>RAGH. 7,42.</ls> {#dinasya#} {%Vormittag%}
+<ls>Spr. 382.</ls> {%die vordere Hälfte%} (eines Halbverses)
+<ls>ŚRUT. 5.</ls>
 <div n="v">— Vgl. {#pOrvArDa, pOrvArDika#} .
 <LEND>

@@ -1,15 +1,15 @@
 <L>26116<pc>2-1081<k1>Candoma<k2>Candoma/
-{#Candoma/#}¦ (von {#Candas#}) <lex>m.</lex> Bez. {%des 8ten, 9ten und 10ten Tages in der Zwölftagefeier%} ({#dvAdaSAha#}) 
-<ls>TS. 7, 4, 2, 3. 6, 2.</ls> 
-<ls>ŚAT. BR. 12, 1, 2, 2. 2, 3, 9.</ls> 
-<ls>KĀTY. ŚR. 12, 3, 31. 23, 2, 8. 5, 28.</ls> 
-<ls>ĀŚV. ŚR. 8, 9.</ls> 
-<ls>ŚĀṄKH. ŚR. 10, 1, 8. 9, 11.</ls> 
-<ls>LĀṬY. 10, 3, 12. 15.</ls> {#°daSAha#} <lex>m.</lex> Bez. {%eines%} <is>Daśarātra</is> 
-<ls>KĀTY. ŚR. 23, 5, 27. 24, 4, 9.</ls> 
-<ls>ŚĀṄKH. ŚR. 13, 21, 15.</ls> {#°daSarAtra#} <lex>m.</lex> 
-<ls>MAŚ.</ls> in <ls>Verz. d. B. H. 73 (VIII, 11).</ls> {#°pavamAnatrirAtra#} <lex>m.</lex> ebend. 
-<ls>(VI, 8).</ls> {#°trikakud#} <lex>m.</lex> Bez. {%einer dreitägigen%} <is>Soma</is>-{%Feier%} 
-<ls>ŚĀṄKH. ŚR. 16, 29, 16.</ls> 
+{#Candoma/#}¦ (von {#Candas#}) <lex>m.</lex> Bez. {%des 8ten, 9ten und 10ten Tages in der Zwölftagefeier%} ({#dvAdaSAha#})
+<ls>TS. 7,4,2,3. 6,2.</ls>
+<ls>ŚAT. BR. 12,1,2,2. 2,3,9.</ls>
+<ls>KĀTY. ŚR. 12,3,31. 23,2,8. 5,28.</ls>
+<ls>ĀŚV. ŚR. 8,9.</ls>
+<ls>ŚĀṄKH. ŚR. 10,1,8. 9,11.</ls>
+<ls>LĀṬY. 10,3,12. 15.</ls> {#°daSAha#} <lex>m.</lex> Bez. {%eines%} <is>Daśarātra</is>
+<ls>KĀTY. ŚR. 23,5,27.</ls> <ls n="KĀTY. ŚR.">24,4,9.</ls>
+<ls>ŚĀṄKH. ŚR. 13,21,15.</ls> {#°daSarAtra#} <lex>m.</lex>
+<ls>MAŚ.</ls> in <ls>Verz. d. B. H. 73 (VIII,11).</ls> {#°pavamAnatrirAtra#} <lex>m.</lex> ebend.
+(<ls n="COLEBR. Misc. Ess.">VI,8</ls>). {#°trikakud#} <lex>m.</lex> Bez. {%einer dreitägigen%} <is>Soma</is>-{%Feier%}
+<ls>ŚĀṄKH. ŚR. 16,29,16.</ls>
 <div n="v">— Vgl. {#CAndoma#} .
 <LEND>

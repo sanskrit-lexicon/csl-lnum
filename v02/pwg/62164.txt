@@ -1,51 +1,43 @@
 <L>62164<pc>5-0916<k1>mokzay<k2>mokzay
-{#mokzay#}¦ (von {#mokza), mokza/yati#} 
-<ls>DHĀTUP. 33, 57.</ls> 
-<div n="1"> 1) {%auflösen, aufbinden%} 
-<ls>SUŚR. 1, 18, 3.</ls> {%ablösen, herausziehen%}: {#ulmukaM gArhapatyAt#} 
-<ls>AIT. BR. 7, 7.</ls> 
-<div n="1">— 2) {%Jmd befreien von, aus%} (abl.) 
-<ls>YĀJÑ. 2, 300.</ls> {#sarvapApeByaH#} 
-<ls>BHAG. 18, 66, v. l.</ls> 
-<ls>MBH. 1, 396.</ls> {#sarpasattrAt#} 
-<ls>1915.</ls> {#SApAt#} 
-<ls>2084.</ls> {#janmato mAnuzAt#} 
-<ls>3917.</ls> {#rAkzasAt#} 
-<ls>?5958. 7878. 3, 2390. 4, 1087. 16, 116. MĀRK. P. 66, 14. WEBER. RĀMAT. UP. 345.</ls> med.: {#mokzayaDvam#} 
-<ls>MBH. 1, 5301.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 64, 10. 11.</ls> {#mokzita#} 
-<ls>MBH. 1, 7879.</ls> 
-<ls>HARIV. 9059</ls> {#(mokzituM#} st. {#mokzituM#} die neuere Ausg.). 
-<ls>MIT. 268, 2.</ls> {%befreien, erlösen%} in philos. Sinne 
-<ls>HARIV. 14349. fgg.</ls> {#AtmAnaM mokzayantaH#} {%sich befreiend, zur Erlösung gelangend%} 
-<ls>Verz. d. Oxf. H. 269,a,26. 37.</ls> 
-<div n="1">— 3) {%Etwas von Jmd befreien%} so v. a. {%Jmd%} (abl.) {%Etwas entwinden%}: {#krIqAvfkzaH sa Sacyeti#} (d. i. {#SacyAH iti) vyapadeSena mokzitaH . mahendreRa mahAbAho pArijAtastataH#} (so die neuere Ausg.; {#tataH = rudrAt) purA ..#} 
-<ls>HARIV. 7187.</ls> 
-<div n="1">— 4) {%fliessen lassen%}: {#SoRitam#} {%Blut lassen%} 
-<ls>SUŚR. 1, 46, 2.</ls> 
-<div n="1">— 5) {%schleudern, werfen%} 
+{#mokzay#}¦ (von {#mokza), mokza/yati#}
+<ls>DHĀTUP. 33,57.</ls>
+<div n="1"> 1) {%auflösen, aufbinden%}
+<ls>SUŚR. 1,18,3.</ls> {%ablösen, herausziehen%}: {#ulmukaM gArhapatyAt#}
+<ls>AIT. BR. 7,7.</ls>
+<div n="1">— 2) {%Jmd befreien von, aus%} (abl.)
+<ls>YĀJÑ. 2,300.</ls> {#sarvapApeByaH#}
+<ls>BHAG. 18,66, v. l.</ls>
+<ls>MBH. 1,396.</ls> {#sarpasattrAt#}
+<ls n="MBH. 1,">1915.</ls> {#SApAt#}
+<ls n="MBH. 1,">2084.</ls> {#janmato mAnuzAt#}
+<ls n="MBH. 1,">3917.</ls> {#rAkzasAt#}
+<ls n="MBH. 1,">5958.</ls> <ls n="MBH. 1,">7878.</ls> <ls n="MBH.">3,2390.</ls> <ls n="MBH.">4,1087.</ls> <ls n="MBH.">16,116.</ls> <ls>MĀRK. P. 66,14.</ls> <ls>WEBER.</ls> <ls>RĀMAT. UP. 345.</ls> med.: {#mokzayaDvam#}
+<ls>MBH. 1,5301.</ls>
+<ls>R. GORR. 1,64,10.</ls> <ls n="R. GORR. 1,64,">11.</ls> {#mokzita#}
+<ls>MBH. 1,7879.</ls>
+<ls>HARIV. 9059</ls> {#(mokzituM#} st. {#mokzituM#} die neuere Ausg.).
+<ls>MIT. 268,2.</ls> {%befreien, erlösen%} in philos. Sinne
+<ls>HARIV. 14349. fgg.</ls> {#AtmAnaM mokzayantaH#} {%sich befreiend, zur Erlösung gelangend%}
+<ls>Verz. d. Oxf. H. 269,a,26. 37.</ls>
+<div n="1">— 3) {%Etwas von Jmd befreien%} so v. a. {%Jmd%} (abl.) {%Etwas entwinden%}: {#krIqAvfkzaH sa Sacyeti#} (<ab>d. i.</ab> {#SacyAH iti) vyapadeSena mokzitaH . mahendreRa mahAbAho pArijAtastataH#} (so die neuere Ausg.; {#tataH = rudrAt) purA ..#}
+<ls>HARIV. 7187.</ls>
+<div n="1">— 4) {%fliessen lassen%}: {#SoRitam#} {%Blut lassen%}
+<ls>SUŚR. 1,46,2.</ls>
+<div n="1">— 5) {%schleudern, werfen%}
 <ls>DHĀTUP.</ls>
-
-<div n="p">— {#A#} s. {#AmokzaRa#} .
-
-<div n="p">— {#pari#} {%Jmd befreien%} 
-<ls>MBH. 4, 843.</ls> 
-<ls>Spr. 608, v. l.</ls> <ls>(Th. I, S. 320).</ls> 
+<div n="p">— {#A#} s. {#AmokzaRa#} <ls>Spr. 660. 1678, v. l.</ls> (Th. III, S. 372). <ls n="Spr.">2042, v. l.</ls> <ls n="Spr.">2935, v. l.</ls>.
+<div n="p">— {#pari#} {%Jmd befreien%}
+<ls>MBH. 4,843.</ls>
+<ls>Spr. 608, v. l.</ls> (Th. I, S. 320).
 <div n="v">— Vgl. {#parimokzaRa#} .
-
 <div n="p">— {#pra#} s. {#pramokzaRa#} .
-
-<div n="p">— {#saMpra#} med. {%frei machen für sich, sich sichern%}: {#evaM sarvaM viditvA vE yastattvamanuvartate . saMpramokzayate sarvAnpanTAnaH (= paTaH)#} 
-<ls>MBH. 11, 124.</ls> {#anyAngatimArgAnmokzayate kiM tu UrDvamArgameva prApayati#} 
+<div n="p">— {#saMpra#} med. {%frei machen für sich, sich sichern%}: {#evaM sarvaM viditvA vE yastattvamanuvartate . saMpramokzayate sarvAnpanTAnaH (= paTaH)#}
+<ls>MBH. 11,124.</ls> {#anyAngatimArgAnmokzayate kiM tu UrDvamArgameva prApayati#}
 <ls>NĪLAK.</ls>
-
 <div n="p">— {#prati#} s. {#pratimokzaRa#} .
-
-<div n="p">— {#vi#} {%Jmd befreien%} 
-<ls>MBH. 1, 7880. 13, 186. 14, 2421.</ls> 
+<div n="p">— {#vi#} {%Jmd befreien%}
+<ls>MBH. 1,7880.</ls> <ls n="MBH.">13,186.</ls> <ls n="MBH.">14,2421.</ls>
 <div n="v">— Vgl. {#vimokzaRa#}.{# vimokzin#} .
-
-<div n="p">— {#sam#} dass. 
-<ls>MBH. 8, 1951.</ls>
+<div n="p">— {#sam#} dass.
+<ls>MBH. 8,1951.</ls>
 <LEND>

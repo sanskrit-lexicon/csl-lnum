@@ -1,7 +1,7 @@
 <L>23141<pc>614-a<k1>prayer<k2>prayer
-<div n="lb"/>PRAYER¦, {%s.%} {#prArTanA, prArTanaM, aByarTanA, arTaH, yAcanA, yAcYA, vinayena#}
-<div n="lb"/>{#svArTanivedanaM;#} ‘to God,’ {#ISvaraprArTanA, devaprArTanA, BagavatprArTanA,#}
-<div n="lb"/>{#ISvarapUjA;#} ‘inaudible repetition of prayers,’ {#japaH, japanaM,#}
-<div n="lb"/>{#japayajYaH;#} ‘engaged in repeating prayers,’ {#japaparAyaRaH -RA#}
-<div n="lb"/>{#-RaM;#} ‘granting prayers,’ {#varadaH -dA -daM#}.
+PRAYER¦, {%s.%} {#prArTanA, prArTanaM, aByarTanA, arTaH, yAcanA, yAcYA, vinayena#}
+{#svArTanivedanaM;#} ‘to God,’ {#ISvaraprArTanA, devaprArTanA, BagavatprArTanA,#}
+{#ISvarapUjA;#} ‘inaudible repetition of prayers,’ {#japaH, japanaM,#}
+{#japayajYaH;#} ‘engaged in repeating prayers,’ {#japaparAyaRaH -RA#}
+{#-RaM;#} ‘granting prayers,’ {#varadaH -dA -daM#}.
 <LEND>

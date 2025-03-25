@@ -1,6 +1,6 @@
 <L>23767<pc>744<k1>verb<k2>verb
-<div n="lb"/>{@VERB:@}¦ <div n="1">(1) {#DAtuH#} (verbal root), {%intransitive v.:%}
-<div n="lb"/>{#akarmako DAtuH,#} Kaṇada; <div n="xe">{%although the v. ‘to do’ is%}
-<div n="lb"/>{%transitive:%}</div> <div n="xs">{#yadyapi kfDAtoH sakarmatvamastyeva;#}</div> </div><div n="1">(2) {#kriyA#}
-<div n="lb"/>(conjugated).</div>
+{@VERB:@}¦ <div n="1">(1) {#DAtuH#} (verbal root), {%intransitive v.:%}
+{#akarmako DAtuH,#} Kaṇada; <div n="xe">{%although the v. ‘to do’ is%}
+{%transitive:%}</div> <div n="xs">{#yadyapi kfDAtoH sakarmatvamastyeva;#}</div> </div><div n="1">(2) {#kriyA#}
+(conjugated).</div>
 <LEND>

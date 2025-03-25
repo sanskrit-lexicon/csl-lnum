@@ -1,27 +1,27 @@
 <L>3952<pc>158<k1>fellow<k2>fellow
 {@Fellow,@}¦ {%s.%} {#sahAyaH, mitraM, sahacaraH, anuzaMgin#}
-<div n="lb"/>{%m.,%} {#sajus#} {%m.,%} {#sahavartin#} {%m.,%} {#vayasyaH#}. {@2@}
-<div n="lb"/>{#samapadaBAj#} {%m.,%} {#tulyapadasTaH, savayaskaH#}. {@3@}
-<div n="lb"/>{#janaH, puruzaH,#} ‘this f. is bold’ {#DfzwosO#}
-<div n="lb"/>{#janaH#}. {@4@} {#sajAtIyaH, sajAtiH#}. {@5@} {#yamaH, yamakaH,#}
-<div n="lb"/>{#ekataraH, yugmakaH#}. {@6@} {#kApuruzaH, mARavakaH,#}
-<div n="lb"/>{#jAlmaH;#} ‘my good f.’ {#Badra, sOmya#}. In
-<div n="lb"/>comp. words ex. by {#sama-saha;#} ‘f. -being,
-<div n="lb"/>-creature’ {#samAnajAtiH-jAtIyaH, sajAtI-#}
-<div n="lb"/>{#-yaH, samaBUtaM;#} ‘f. -citizen’ {#ekanagarasTaH, eka-#}
-<div n="lb"/>{#-grAmIRaH;#} ‘f. citizenship’ {#pOrasaKyaM,#}
-<div n="lb"/>{#pOrasAhityaM;#} ‘f. countryman’ {#svadeSajaH,#}
-<div n="lb"/>{#sva-eka-deSIyaH;#} ‘f. -feeling’ {#sahAnuBUti#} {%f.,%}
-<div n="lb"/>{#samaduHKatvaM, samaBAvaH, BUtAnukaMpA;#} ‘f.-
-<div n="lb"/>student, scholar’ {#sahADyAyaH, satIrTaH,#}
-<div n="lb"/>{#sahADyAyin#} {%m.,%} {#sahapAWakaH;#} ‘f. -labourer,
-<div n="lb"/>-worker’ {#sahakArin#} {%m.,%} {#saMBUyakArin#} {%m.,%}
-<div n="lb"/>{#sahakarmin#} {%m.%} ‘f. -servant’ {#sahaBftyaH, ekapraBuH;#}
-<div n="lb"/>‘f. -soldier’ {#sahayodDA;#} ‘f. sufferer’
-<div n="lb"/>{#sama-saha-duHKaH-Kin, samaduHKaBAk, sahaBogin#}
-<div n="lb"/>‘f. traveller’ {#sahayAyin, sahagAmin;#} ‘f.
-<div n="lb"/>of a- body’ {#pArizadyaH, pAMkteyaH, SreRyaByaMtaraH#}.
-<div n="lb"/>{@-ship,@} {%s.%} {#sAhAyyaM, sAhityaM, saMsargaH, saMgaH-gamaH,#}
-<div n="lb"/>{#saMGAtaH, saMyogaH, sAhacaryaM, saKyaM, mEtrI, sa-#}
-<div n="lb"/>{#-mAgamaH#}. {@2@} {#vftti#} {%f.%} {@3@} {#pArizadyapada#}.
+{%m.,%} {#sajus#} {%m.,%} {#sahavartin#} {%m.,%} {#vayasyaH#}. {@2@}
+{#samapadaBAj#} {%m.,%} {#tulyapadasTaH, savayaskaH#}. {@3@}
+{#janaH, puruzaH,#} ‘this f. is bold’ {#DfzwosO#}
+{#janaH#}. {@4@} {#sajAtIyaH, sajAtiH#}. {@5@} {#yamaH, yamakaH,#}
+{#ekataraH, yugmakaH#}. {@6@} {#kApuruzaH, mARavakaH,#}
+{#jAlmaH;#} ‘my good f.’ {#Badra, sOmya#}. In
+comp. words ex. by {#sama-saha;#} ‘f. -being,
+-creature’ {#samAnajAtiH-jAtIyaH, sajAtI-#}
+{#-yaH, samaBUtaM;#} ‘f. -citizen’ {#ekanagarasTaH, eka-#}
+{#-grAmIRaH;#} ‘f. citizenship’ {#pOrasaKyaM,#}
+{#pOrasAhityaM;#} ‘f. countryman’ {#svadeSajaH,#}
+{#sva-eka-deSIyaH;#} ‘f. -feeling’ {#sahAnuBUti#} {%f.,%}
+{#samaduHKatvaM, samaBAvaH, BUtAnukaMpA;#} ‘f.-
+student, scholar’ {#sahADyAyaH, satIrTaH,#}
+{#sahADyAyin#} {%m.,%} {#sahapAWakaH;#} ‘f. -labourer,
+-worker’ {#sahakArin#} {%m.,%} {#saMBUyakArin#} {%m.,%}
+{#sahakarmin#} {%m.%} ‘f. -servant’ {#sahaBftyaH, ekapraBuH;#}
+‘f. -soldier’ {#sahayodDA;#} ‘f. sufferer’
+{#sama-saha-duHKaH-Kin, samaduHKaBAk, sahaBogin#}
+‘f. traveller’ {#sahayAyin, sahagAmin;#} ‘f.
+of a- body’ {#pArizadyaH, pAMkteyaH, SreRyaByaMtaraH#}.
+{@-ship,@} {%s.%} {#sAhAyyaM, sAhityaM, saMsargaH, saMgaH-gamaH,#}
+{#saMGAtaH, saMyogaH, sAhacaryaM, saKyaM, mEtrI, sa-#}
+{#-mAgamaH#}. {@2@} {#vftti#} {%f.%} {@3@} {#pArizadyapada#}.
 <LEND>

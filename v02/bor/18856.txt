@@ -1,5 +1,5 @@
 <L>18856<pc>582<k1>regalia<k2>regalia
-<div n="lb"/>{@REGALIA:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#rAjaliNgAni#} (n. pl.);</div>
-<div n="lb"/><div n="1">(2) {#rAjacihrAni#} (n. pl.); etc. </div><div n="I">II In gen.:</div>
-<div n="lb"/><div n="1">(1) {#liNgAni;#} </div><div n="1">(2) {#cihnAni;#} </div><div n="1">(3) {#lakzaRAni.#}</div>
+{@REGALIA:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#rAjaliNgAni#} (n. pl.);</div>
+<div n="1">(2) {#rAjacihrAni#} (n. pl.); etc. </div><div n="I">II In gen.:</div>
+<div n="1">(1) {#liNgAni;#} </div><div n="1">(2) {#cihnAni;#} </div><div n="1">(3) {#lakzaRAni.#}</div>
 <LEND>

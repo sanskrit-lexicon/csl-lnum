@@ -1,61 +1,61 @@
 <L>92652<pc>6-1141<k1>vimuKa<k2>vimuKa
-{#vimuKa#}¦ (2. {#vi + muKa#}) 
-<div n="1"> 1) <lex>adj.</lex> (f. {#A#}) 
-<div n="2"> a) {%das Gesicht abwendend, rückwärts gerichtet%}: {#vimuKA bAnDavA yAnti#} {%kehren um, gehen heimwärts%} 
-<ls>Spr. 2238.</ls> {#yasyArTino vA SaraRAgatA vA nASABinnA vimuKAH prayAnti#} 
-<ls>3054.</ls> <ls>HARIV. 3916.</ls> {#drutaM jagAma vimuKaH#} 
-<ls>3750.</ls> {#vimuKAYCAtravAnsarvAnkArayizyati me sutaH#} {%in die Flucht schlagen%} 
-<ls>MBH. 1, 2755.</ls> {#vimuKo 'BavadraRe#} 
-<ls>5491. 3, 12109. 15741. 6, 2909. 7, 1745.fg.</ls> {#jagmurvizAdavimuKA raRe#} 
-<ls>HARIV. 11053</ls> <ls>(S. 791).</ls> {#BItAnyastrARi sarvARi vimuKAni kzaRAdyayuH#} 
-<ls>KATHĀS. 118, 84.</ls> 
-<div n="2">— b) {%das Gesicht im Unmuth%}, insbes. {%in Folge einer vereitelten Hoffnung von Jmd%} (gen.) {%abwendend, abgewiesen, unverrichteter Sache abziehend%}: {#yasyArTino na vimuKAH#} 
-<ls>Spr. 5145.</ls> {#vimuKo 'rTI na yAti me#} 
-<ls>KATHĀS. 41, 48. 123, 263.</ls> {#divAtiTO tu vimuKe gate#} 
-<ls>VP.</ls> bei <ls>KULL.</ls> zu <ls>M. 3, 105.</ls> <ls>MĀRK. P. 13, 12. 15.</ls> 
+{#vimuKa#}¦ (2. {#vi + muKa#})
+<div n="1"> 1) <lex>adj.</lex> (f. {#A#})
+<div n="2"> a) {%das Gesicht abwendend, rückwärts gerichtet%}: {#vimuKA bAnDavA yAnti#} {%kehren um, gehen heimwärts%}
+<ls>Spr. 2238.</ls> {#yasyArTino vA SaraRAgatA vA nASABinnA vimuKAH prayAnti#}
+<ls n="Spr.">3054.</ls> <ls>HARIV. 3916.</ls> {#drutaM jagAma vimuKaH#}
+<ls n="HARIV.">3750.</ls> {#vimuKAYCAtravAnsarvAnkArayizyati me sutaH#} {%in die Flucht schlagen%}
+<ls>MBH. 1,2755.</ls> {#vimuKo 'BavadraRe#}
+<ls n="MBH. 1,">5491.</ls> <ls n="MBH.">3,12109.</ls> <ls n="MBH. 3,">15741.</ls> <ls n="MBH.">6,2909.</ls> <ls n="MBH.">7,1745. fg.</ls> {#jagmurvizAdavimuKA raRe#}
+<ls>HARIV. 11053</ls> (S. 791). {#BItAnyastrARi sarvARi vimuKAni kzaRAdyayuH#}
+<ls>KATHĀS. 118,84.</ls>
+<div n="2">— b) {%das Gesicht im Unmuth%}, insbes. {%in Folge einer vereitelten Hoffnung von Jmd%} (gen.) {%abwendend, abgewiesen, unverrichteter Sache abziehend%}: {#yasyArTino na vimuKAH#}
+<ls>Spr. 5145.</ls> {#vimuKo 'rTI na yAti me#}
+<ls>KATHĀS. 41,48.</ls> <ls n="KATHĀS.">123,263.</ls> {#divAtiTO tu vimuKe gate#}
+<ls>VP.</ls> bei <ls>KULL.</ls> zu <ls>M. 3,105.</ls> <ls>MĀRK. P. 13,12. 15.</ls>
 <div n="2">— c) {%sich abwendend von Etwas, grollend, einer Person%} oder
 [Page6-1142]
-{%Sache abgeneigt, Nichts wissen wollend von%}: {#durmanA vimuKaScEva paricakrAma tAM saBAm#} 
-<ls>MBH. 2, 1665.</ls> {#na te 'haM vimuKaH#} 
-<ls>HARIV. 10858.</ls> 
-<ls>R. 3, 41, 11.</ls> 
-<ls>MĀLAV. 44, 5.</ls> 
-<ls>Spr. 445 (II).</ls> <ls>BHĀG. P. 10, 53, 25.</ls> {#viDi#} {%widerwärtiges Geschick%} 
-<ls>Spr. (II) 2310, v. l.</ls> {#atyanta°#} 
-<ls>169.</ls> {#vimuKArTasuta#} 
-<ls>VARĀH. BṚH. S. 104, 39.</ls> {#daridraBAvAdvimuKaM mitram#} {%den Rücken kehrend%} 
-<ls>Spr. 1630.</ls> {#na kzudro 'pi praTamasukftApekzayA saMSrayAya prApte mitre Bavati vimuKaH#} {%sich abwendend von%} 
-<ls>MEGH. 17.</ls> {#hare harO#} 
-<ls>Verz. d. Oxf. H. 10,a, N. 2.</ls> <ls>BHĀG. P. 10,23,39.</ls> {#hareH kaTAyAm#} 
-<ls>3, 5, 14. 32, 18.</ls> {#vivAhe#} 
-<ls>KATHĀS. 43, 254.</ls> {#sADUnAmupari#} 
-<ls>Spr. 2380.</ls> {#kfzRAt#} {%sich von%} <is>Kṛṣṇa</is> {%abwendend%} 
-<ls>BHĀG. P. 3, 1, 13. 5, 3.</ls> {#svajanavaDAt#} {%abstehend von%} 
-<ls>1, 9, 36.</ls> {#BavataH prasaNgAt - vimuKendriyAH#} 
-<ls>3, 9, 7. 4, 2, 21. 6, 3, 28.</ls> {#tato vimuKacetasaH#} 
-<ls>7, 9, 43.</ls> Gewöhnlich in comp. mit der Ergänzung: {#sODotsaNgapraRaya°#} 
-<ls>MEGH. 28.</ls> {#samara°#} 
-<ls>50.</ls> {#stanita°#} (so v. a. {%sich enthaltend%}) 
-<ls>95.</ls> {#anyakArya°#} 
-<ls>RAGH. 19, 47.</ls> {#vyApAravimuKena cetasA#} 
-<ls>MĀLAV. 28, 15.</ls> {#SAstra°#} 
-<ls>Spr. 1802.</ls> 
-<ls>PAÑCAT. 3, 13.</ls> 
-<ls>SĀH. D. 5, 19. 16, 1.</ls> 
-<ls>Spr. (II) 2063, v. l. (I) 1812. 3268.</ls> {#jalamuci vitaraRavimuKe#} 
-<ls>(II) 2359.</ls> <ls>KATHĀS. 30, 8.</ls> {#anyapatnI°#} 
-<ls>32, 122. 191. 45, 96. 113. 46, 149.</ls> <ls>PRAB. 16, 5.</ls> <ls>BHĀG. P. 3, 9, 10.</ls> {#madyAcYA°#} 
-<ls>4,27,22.7,9,10.</ls> <ls>PAÑCAR. 1,2,60.6,49. 10,11.4,2,30.</ls> <ls>Verz. d. Oxf. H. 109,b,</ls> <ls>No. 170.</ls> {#karuRAvimuKena mftyunA#} so v. a. {%kein Mitleid kennend%} 
-<ls>RAGH. 8, 66.</ls> {#manaH parastrIvimuKapravftti#} 
-<ls>16, 8.</ls> {#suKaM DEryavimuKam#} so v. a. {%ohne Bestand%} 
-<ls>Spr. 5319.</ls> 
-<div n="2">— d) {%ohne Mündung%} (gemessen) 
-<ls>ŚĀRṄG. SAṂH. 3, 11, 100.</ls> 
-<div n="2">— e) {%des Gesichtes%} d. i. {%des Kopfes beraubt%} 
-<ls>HARIV. 2755.</ls> 
-<div n="2">— f) Bez. eines best. Spruches 
-<ls>?(VS. 17, 86. 39, 7) KĀTY. ŚR. 18, 4, 24. 20, 8, 5.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. pr. eines <is>Muni</is> 
-<ls>R. 7, 1,</ls> <ls>3; v. l.</ls> {#vimuca#}.{# - 'vimuKaM#} 
-<ls>MBH. 15, 93</ls> fehlerhaft für {#'BimuKaM#}, wie die ed. Bomb. liest.
+{%Sache abgeneigt, Nichts wissen wollend von%}: {#durmanA vimuKaScEva paricakrAma tAM saBAm#}
+<ls>MBH. 2,1665.</ls> {#na te 'haM vimuKaH#}
+<ls>HARIV. 10858.</ls>
+<ls>R. 3,41,11.</ls>
+<ls>MĀLAV. 44,5.</ls>
+<ls>Spr. (II) 445.</ls> <ls>BHĀG. P. 10,53,25.</ls> {#viDi#} {%widerwärtiges Geschick%}
+<ls>Spr. (II) 2310, v. l.</ls> {#atyanta°#}
+<ls n="Spr. (II)">169.</ls> {#vimuKArTasuta#}
+<ls>VARĀH. BṚH. S. 104,39.</ls> {#daridraBAvAdvimuKaM mitram#} {%den Rücken kehrend%}
+<ls>Spr. 1630.</ls> {#na kzudro 'pi praTamasukftApekzayA saMSrayAya prApte mitre Bavati vimuKaH#} {%sich abwendend von%}
+<ls>MEGH. 17.</ls> {#hare harO#}
+<ls>Verz. d. Oxf. H. 10,a, N. 2.</ls> <ls>BHĀG. P. 10,23,39.</ls> {#hareH kaTAyAm#}
+<ls n="BHĀG. P.">3,5,14.</ls> <ls n="BHĀG. P. 3,">32,18.</ls> {#vivAhe#}
+<ls>KATHĀS. 43,254.</ls> {#sADUnAmupari#}
+<ls>Spr. 2380.</ls> {#kfzRAt#} {%sich von%} <is>Kṛṣṇa</is> {%abwendend%}
+<ls>BHĀG. P. 3,1,13.</ls> <ls n="BHĀG. P. 3,">5,3.</ls> {#svajanavaDAt#} {%abstehend von%}
+<ls n="BHĀG. P.">1,9,36.</ls> {#BavataH prasaNgAt — vimuKendriyAH#}
+<ls n="BHĀG. P.">3,9,7.</ls> <ls n="BHĀG. P.">4,2,21.</ls> <ls n="BHĀG. P.">6,3,28.</ls> {#tato vimuKacetasaH#}
+<ls n="BHĀG. P.">7,9,43.</ls> Gewöhnlich in comp. mit der Ergänzung: {#sODotsaNgapraRaya°#}
+<ls>MEGH. 28.</ls> {#samara°#}
+<ls n="MEGH.">50.</ls> {#stanita°#} (so v. a. {%sich enthaltend%})
+<ls n="MEGH.">95.</ls> {#anyakArya°#}
+<ls>RAGH. 19,47.</ls> {#vyApAravimuKena cetasA#}
+<ls>MĀLAV. 28,15.</ls> {#SAstra°#}
+<ls>Spr. 1802.</ls>
+<ls>PAÑCAT. 3,13.</ls>
+<ls>SĀH. D. 5,19.</ls> <ls n="SĀH. D.">16,1.</ls>
+<ls>Spr. (II) 2063, v. l.</ls> <ls n="Spr.">(I) 1812. 3268.</ls> {#jalamuci vitaraRavimuKe#}
+<ls n="Spr.">(II) 2359.</ls> <ls>KATHĀS. 30,8.</ls> {#anyapatnI°#}
+<ls n="KATHĀS.">32,122.</ls> <ls n="KATHĀS. 32,">191.</ls> <ls n="KATHĀS.">45,96.</ls> <ls n="KATHĀS. 45,">113.</ls> <ls n="KATHĀS.">46,149.</ls> <ls>PRAB. 16,5.</ls> <ls>BHĀG. P. 3,9,10.</ls> {#madyAcYA°#}
+<ls n="BHĀG. P.">4,27,22.</ls> <ls n="BHĀG. P.">7,9,10.</ls> <ls>PAÑCAR. 1,2,60. 6,49. 10,11. 4,2,30.</ls> <ls>Verz. d. Oxf. H. 109,b, No. 170.</ls> {#karuRAvimuKena mftyunA#} so v. a. {%kein Mitleid kennend%}
+<ls>RAGH. 8,66.</ls> {#manaH parastrIvimuKapravftti#}
+<ls n="RAGH.">16,8.</ls> {#suKaM DEryavimuKam#} so v. a. {%ohne Bestand%}
+<ls>Spr. 5319.</ls>
+<div n="2">— d) {%ohne Mündung%} (gemessen)
+<ls>ŚĀRṄG. SAṂH. 3,11,100.</ls>
+<div n="2">— e) {%des Gesichtes%} <ab>d. i.</ab> {%des Kopfes beraubt%}
+<ls>HARIV. 2755.</ls>
+<div n="2">— f) Bez. eines best. Spruches
+(<ls>VS. 17,86. 39,7</ls>) <ls>KĀTY. ŚR. 18,4,24.</ls> <ls n="KĀTY. ŚR.">20,8,5.</ls>
+<div n="1">— 2) <lex>m.</lex> N. pr. eines <is>Muni</is>
+<ls>R. 7,1</ls>, <ls n="R.">3; v. l.</ls> {#vimuca#}.{# — 'vimuKaM#}
+<ls>MBH. 15,93</ls> fehlerhaft für {#'BimuKaM#}, wie die <ls>ed. Bomb.</ls> liest.
 <LEND>

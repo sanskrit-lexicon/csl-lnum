@@ -1,25 +1,25 @@
 <L>3066<pc>0128-c<k1>aBijanaH<k2>aBijanaH
 {#aBijanaH#}¦ {@1@} ({%a%}) A family, race, <lbinfo n="lin+eage"/>
-<>lineage; {#kalahaMsakAdaBijanaM jYAtvA#} <ls>Māl. 8</ls>;  <lbinfo n="nA#BijanamIkzate"/>
-<>{#nABijanamIkzate#} <ls>K. 104</ls>; <ls>Mu. 6. 6</ls>;  <lbinfo n="ls:Ms. 4.+ 18"/>
-<><ls>Ms. 4. 18</ls>; <ls>Dk. 135</ls>, <ls n="Dk.">170</ls>; <ls>U. 4.</ls> ({%b%}) Birth,
-<>extraction, descent; {#tulyABajinezu#} <lbinfo n="BU#miBarezu"/>
-<>{#BUmiBarezu (Darezu?) rAjYAM vfttiH#} <ls>M. 1</ls>;  <lbinfo n="ls:Ms.+ 1. 100"/>
-<><ls>Ms. 1. 100</ls>; <ls>Y. 1. 123.</ls> {@--2@} High or
-<>noble descent, noble birth or <lbinfo n="fami+ly"/>
-<>family; {#stutaM tanmAhAtmyaM yadaBijanato yacca#}
-<>{#guRataH#} <ls>Māl. 2. 13</ls>; {#SIlaM#} <lbinfo n="SOlatawAtpata#tvaBijanaH"/>
-<>{#SOlatawAtpatatvaBijanaH saMdahyatAM vahninA#} <ls>Bh. 2. 39</ls>;
-<><ls>M. 5.</ls> {@--3@} Forefathers, ancestors;
-<>{#aBijanAH pUrve bAMDavAH#} Kāśī. on  <lbinfo n="ls:P. IV.+3"/>
-<><ls>P. IV. 3. 90</ls>; also descendants. {@--4@} Native
-<>country, motherland, ancestral
-<>abode (<ab>opp.</ab> {#nivAsa#}); <ab>cf.</ab> <ls>Sk.</ls> on <lbinfo n="ls:P.+IV"/>
-<><ls>P. IV. 3. 90</ls>: --{#yatra svayaM vasati sa nivAsaH#}
-<>({#yatra saMprati uzyate#} <ls>Mbh.</ls>); {#yatra pUrvEruzitaM#}
-<>{#so'BijanaH iti vivekaH#}. {@--5@} Fame, <lbinfo n="celebri+ty"/>
-<>celebrity. {@--6@} The head or ornament of a
-<>family; {#yadvidvAnapi tAdfSepyaBijane#} <lbinfo n="Da#rmyAtpaTo"/>
-<>{#DarmyAtpaTo vicyutaH#} <ls>Mv. 1. 33.</ls> {@--7@} <lbinfo n="Atten+dants"/>
-<>Attendants, retinue (= {#parijana#} <ab>q. v.</ab>).
+lineage; {#kalahaMsakAdaBijanaM jYAtvA#} <ls>Māl. 8</ls>;  <lbinfo n="nA#BijanamIkzate"/>
+{#nABijanamIkzate#} <ls>K. 104</ls>; <ls>Mu. 6. 6</ls>;  <lbinfo n="ls:Ms. 4.+ 18"/>
+<ls>Ms. 4. 18</ls>; <ls>Dk. 135</ls>, <ls n="Dk.">170</ls>; <ls>U. 4.</ls> ({%b%}) Birth,
+extraction, descent; {#tulyABajinezu#} <lbinfo n="BU#miBarezu"/>
+{#BUmiBarezu (Darezu?) rAjYAM vfttiH#} <ls>M. 1</ls>;  <lbinfo n="ls:Ms.+ 1. 100"/>
+<ls>Ms. 1. 100</ls>; <ls>Y. 1. 123.</ls> {@--2@} High or
+noble descent, noble birth or <lbinfo n="fami+ly"/>
+family; {#stutaM tanmAhAtmyaM yadaBijanato yacca#}
+{#guRataH#} <ls>Māl. 2. 13</ls>; {#SIlaM#} <lbinfo n="SOlatawAtpata#tvaBijanaH"/>
+{#SOlatawAtpatatvaBijanaH saMdahyatAM vahninA#} <ls>Bh. 2. 39</ls>;
+<ls>M. 5.</ls> {@--3@} Forefathers, ancestors;
+{#aBijanAH pUrve bAMDavAH#} Kāśī. on  <lbinfo n="ls:P. IV.+3"/>
+<ls>P. IV. 3. 90</ls>; also descendants. {@--4@} Native
+country, motherland, ancestral
+abode (<ab>opp.</ab> {#nivAsa#}); <ab>cf.</ab> <ls>Sk.</ls> on <lbinfo n="ls:P.+IV"/>
+<ls>P. IV. 3. 90</ls>: --{#yatra svayaM vasati sa nivAsaH#}
+({#yatra saMprati uzyate#} <ls>Mbh.</ls>); {#yatra pUrvEruzitaM#}
+{#so'BijanaH iti vivekaH#}. {@--5@} Fame, <lbinfo n="celebri+ty"/>
+celebrity. {@--6@} The head or ornament of a
+family; {#yadvidvAnapi tAdfSepyaBijane#} <lbinfo n="Da#rmyAtpaTo"/>
+{#DarmyAtpaTo vicyutaH#} <ls>Mv. 1. 33.</ls> {@--7@} <lbinfo n="Atten+dants"/>
+Attendants, retinue (= {#parijana#} <ab>q. v.</ab>).
 <LEND>

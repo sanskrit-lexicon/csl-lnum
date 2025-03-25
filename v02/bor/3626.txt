@@ -1,5 +1,5 @@
 <L>3626<pc>120<k1>chorister<k2>chorister
-<div n="lb"/>{@CHORISTER:@}¦ <div n="I">I A singer: {#gAyakaH,#} {%Kuvera's c.:%}
-<div n="lb"/>{#kinnaraH.#} <div n="xe">{%Indra's c.%}</div> <div n="xs">{#ganDarvaH.#}</div> </div><div n="I">II Leader of a
-<div n="lb"/>chorus: {#praDAnagAyakaH#} (?).</div>
+{@CHORISTER:@}¦ <div n="I">I A singer: {#gAyakaH,#} {%Kuvera's c.:%}
+{#kinnaraH.#} <div n="xe">{%Indra's c.%}</div> <div n="xs">{#ganDarvaH.#}</div> </div><div n="I">II Leader of a
+chorus: {#praDAnagAyakaH#} (?).</div>
 <LEND>

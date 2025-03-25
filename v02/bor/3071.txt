@@ -1,9 +1,9 @@
 <L>3071<pc>103<k1>card<k2>card
-<div n="lb"/>{@CARD@}¦ (subs.): <div n="I">I A playing c.: {#*tAsam,#} <div n="xe">{%to play%}
-<div n="lb"/>{%with c. s%}</div> <div n="xs">{#*tAsEH krIqati;#}</div> <div n="xe">{%knave of c. s:%}</div> <div n="xs">{#*dAsaH,#}</div>
-<div n="lb"/>{%Diamond, heart, club and spade%} ({%of cards%}) {#*raktaM, #}
-<div n="lb"/>{# pItaM, SyAmaM, kfzRam.#} </div><div n="I">II A visiting c. {#*nAmapatram.#}</div>
-<div n="lb"/><div n="I">III A paper on which the points of a
-<div n="lb"/>compass are marked: {#*digBAgapatram.#} </div><div n="I">IV An
-<div n="lb"/>instrument for combing wool: {#urRAmArjanI.#}</div>
+{@CARD@}¦ (subs.): <div n="I">I A playing c.: {#*tAsam,#} <div n="xe">{%to play%}
+{%with c. s%}</div> <div n="xs">{#*tAsEH krIqati;#}</div> <div n="xe">{%knave of c. s:%}</div> <div n="xs">{#*dAsaH,#}</div>
+{%Diamond, heart, club and spade%} ({%of cards%}) {#*raktaM, #}
+{# pItaM, SyAmaM, kfzRam.#} </div><div n="I">II A visiting c. {#*nAmapatram.#}</div>
+<div n="I">III A paper on which the points of a
+compass are marked: {#*digBAgapatram.#} </div><div n="I">IV An
+instrument for combing wool: {#urRAmArjanI.#}</div>
 <LEND>

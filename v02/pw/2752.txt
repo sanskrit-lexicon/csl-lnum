@@ -1,13 +1,13 @@
-<L>2752<pc>1032-2<k1>aDas<k2>aDa/s<e>100
+<L>2752<pc>1-032-b<k1>aDas<k2>aDa/s
 {#aDa/s#}¦
-<div n="1">— 1) <ab>Adv.</ab>
-<div n="2">— a) {%unten%} <ls>19,11.22.80,12.106,28.173,28.</ls> {%auf dem Erdboden%} <ls>35,32.299,21.</ls> {#aDo'DovidyamAnAnAm#} {%tiefer und tiefer gelegen%} <ls>268,4.</ls>
-<div n="2">— b) {%hinunter , hinab%} <ls>67,6.152,23.168,28.170,27.173,16.180,12.290,10.</ls> {#aDaH kar#} {%nach unten thun%} <ls>163,9.</ls> auch so v.a. {%übertreffen%} <ls>KĀD.202.</ls>
-<div n="1">— 2) Praep.
-<div n="2">— a) {%unter , unterhalb.%}
-<div n="3">— α) mit <ab>Acc.</ab> (gewöhnlich nur auf die Frage wohin) <ls>56,10.</ls> verdoppelt <ls>227,6.</ls>
-<div n="3">— β) mit <ab>Gen.</ab> (gewöhnlich auf die Frage wo) <ls>56,19.110,25.111,7.</ls>
-<div n="3">— γ) mit <ab>Abl.</ab> (auf die Frage wo).
-<div n="3">— δ) am Ende eines Comp. (auf die Frage wo) <ls>154,22.</ls>
-<div n="2">— b) {%vor%} (zeitlich) mit <ab>Abl.</ab> Cit. im <ab>Comm.</ab> zu <ls>GOBH.1,4,29.</ls>
+<div n="1">— 1〉 <lex>Adv.</lex>
+<div n="2">— a〉 {%unten%} <ls n="Chr.">19,11</ls>. <ls n="Chr. 19,">22</ls>. <ls n="Chr.">80,12</ls>. <ls n="Chr.">106,28</ls>. <ls n="Chr.">173,28</ls>. {%auf dem Erdboden%} <ls n="Chr.">35,32</ls>. <ls n="Chr.">299,21</ls>. {#aDo'DovidyamAnAnAm#} {%tiefer und tiefer gelegen%} <ls n="Chr.">268,4</ls>.
+<div n="2">— b〉 {%hinunter, hinab%} <ls n="Chr.">67,6</ls>. <ls n="Chr.">152,23</ls>. <ls n="Chr.">168,28</ls>. <ls n="Chr.">170,27</ls>. <ls n="Chr.">173,16</ls>. <ls n="Chr.">180,12</ls>. <ls n="Chr.">290,10</ls>. {#aDaH kar#} {%nach unten thun%} <ls n="Chr.">163,9</ls>. auch so <ab>v. a.</ab> {%übertreffen%} <ls>KĀD. 202</ls>.
+<div n="1">— 2〉 <ab>Praep.</ab>
+<div n="2">— a〉 {%unter, unterhalb%}.
+<div n="3">— α〉 mit <ab>Acc.</ab> (gewöhnlich nur auf die Frage wohin) <ls n="Chr.">56,10</ls>. verdoppelt <ls n="Chr.">227,6</ls>.
+<div n="3">— β〉 mit <ab>Gen.</ab> (gewöhnlich auf die Frage wo) <ls n="Chr.">56,19</ls>. <ls n="Chr.">110,25</ls>. <ls n="Chr.">111,7</ls>.
+<div n="3">— γ〉 mit <ab>Abl.</ab> (auf die Frage wo).
+<div n="3">— δ〉 am Ende eines <ab>Comp.</ab> (auf die Frage wo) <ls n="Chr.">154,22</ls>.
+<div n="2">— b〉 {%vor%} (zeitlich) mit <ab>Abl.</ab> <ab>Cit.</ab> im <ls>Comm. zu GOBH. 1,4,29</ls>.
 <LEND>

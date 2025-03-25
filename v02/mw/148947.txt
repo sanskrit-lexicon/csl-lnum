@@ -1,3 +1,3 @@
-<L>148947<pc>748,3<k1>BallikA<k2>BallikA<h>a<e>2B
-<s>BallikA</s> <hom>a</hom> ¦ <lex>f.</lex> <bot>Semecarpus Anacardium</bot>, <ls>L.</ls><info lex="f"/>
+<L>148947<pc>748,3<k1>BallikA<k2>BallikA<e>2B
+<s>BallikA</s> ¦ <lex>f.</lex> <bot>Semecarpus Anacardium</bot>, <ls>L.</ls><info lex="f"/><info hui="a"/>
 <LEND>

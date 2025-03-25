@@ -1,7 +1,7 @@
 <L>86126<pc>6-0520<k1>lavaRAmBas<k2>lavaRAmBas
-{#lavaRAmBas#}¦ <lex>m.</lex> dass. 
-<ls>MBH. 1, 619. 1131. 1168. 3, 12787. 16239.</ls> 
-<ls>HARIV. 4914.</ls> 
-<ls>R. 3, 28, 2. 72, 26. 4, 58, 36. 5, 2, 41. 54, 8. 6, 3, 7. 7, 23, 3, 40.</ls> 
-<ls>RAGH. 12, 70. 17, 54.</ls>
+{#lavaRAmBas#}¦ <lex>m.</lex> dass.
+<ls>MBH. 1,619.</ls> <ls n="MBH. 1,">1131.</ls> <ls n="MBH. 1,">1168.</ls> <ls n="MBH.">3,12787.</ls> <ls n="MBH. 3,">16239.</ls>
+<ls>HARIV. 4914.</ls>
+<ls>R. 3,28,2.</ls> <ls n="R. 3,">72,26.</ls> <ls n="R.">4,58,36.</ls> <ls n="R.">5,2,41.</ls> <ls n="R. 5,">54,8.</ls> <ls n="R.">6,3,7.</ls> <ls n="R.">7,23,3,40.</ls>
+<ls>RAGH. 12,70.</ls> <ls n="RAGH.">17,54.</ls>
 <LEND>

@@ -1,4 +1,4 @@
 <L>19145<pc>592<k1>respiration<k2>respiration
-<div n="lb"/>{@RESPIRATION:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#SvAsaH;#} </div><div n="1">(2)
-<div n="lb"/>{#SvAsapraSvAsaH.#} </div><div n="I">II Resurrection: {#ujjIvanam, prati-.#}</div>
+{@RESPIRATION:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#SvAsaH;#} </div><div n="1">(2)
+{#SvAsapraSvAsaH.#} </div><div n="I">II Resurrection: {#ujjIvanam, prati-.#}</div>
 <LEND>

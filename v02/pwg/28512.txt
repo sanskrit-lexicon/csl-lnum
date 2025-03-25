@@ -1,14 +1,14 @@
 <L>28512<pc>3-0210<k1>taTya<k2>taTya
-{#taTya#}¦ (von {#taTA#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%wahr%}, <lex>n.</lex> {%Wahres, Wahrheit%} 
-<ls>AK. 1, 1, 5, 22. 3, 4, 24, 156.</ls> 
-<ls>H. 264.</ls> {#taTyErvacoBiH#} 
-<ls>MBH. 7, 2136.</ls> {#guRAMstaTyAn#} 
-<ls>7044. 14, 2847.</ls> {#niScayaM paramaM taTyam#} 
-<ls>3, 2213.</ls> <ls>R. 34, 23.</ls> {#°vacana#} 
-<ls>PAÑCAT. 5, 1.</ls> {#priyamapi taTyamAha SakuntalAM#} 
-<ls>ŚĀK. 10, 18.</ls> {#satyaM janA vacmi na pakzapAtAllokezu sarvezu ca taTyametat#} 
-<ls>BHARTṚ. 1, 54.</ls> {#°vAdin#} 
-<ls>BHĀG. P. 8, 11, 11.</ls> {#taTyenApi bruvan#} {%der Wahrheit gemäss%} 
-<ls>M. 8, 274.</ls> {#taTyatas#} dass. 
-<ls>RĀJA-TAR. 1, 325.</ls>
+{#taTya#}¦ (von {#taTA#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%wahr%}, <lex>n.</lex> {%Wahres, Wahrheit%}
+<ls>AK. 1,1,5,22.</ls> <ls n="AK.">3,4,24,156.</ls>
+<ls>H. 264.</ls> {#taTyErvacoBiH#}
+<ls>MBH. 7,2136.</ls> {#guRAMstaTyAn#}
+<ls n="MBH. 7,">7044.</ls> <ls n="MBH.">14,2847.</ls> {#niScayaM paramaM taTyam#}
+<ls n="MBH.">3,2213.</ls> <ls>R. 2,34,23.</ls> {#°vacana#}
+<ls>PAÑCAT. 5,1.</ls> {#priyamapi taTyamAha SakuntalAM#}
+<ls>ŚĀK. 10,18.</ls> {#satyaM janA vacmi na pakzapAtAllokezu sarvezu ca taTyametat#}
+<ls>BHARTṚ. 1,54.</ls> {#°vAdin#}
+<ls>BHĀG. P. 8,11,11.</ls> {#taTyenApi bruvan#} {%der Wahrheit gemäss%}
+<ls>M. 8,274.</ls> {#taTyatas#} dass.
+<ls>RĀJA-TAR. 1,325.</ls>
 <LEND>

@@ -1,6 +1,6 @@
 <L>4225<pc>137<k1>complexion<k2>complexion
-<div n="lb"/>{@COMPLEXION:@}¦ <div n="I">I Colour of the skin: {#varRaH,#} <div n="xe">{%of%}
-<div n="lb"/>{%a dark c.:%}</div> <div n="xs">{#kfzRavarRaH#}</div> ({#rRA, rRaM#}). Ph.: {%their c. fell:%}
-<div n="lb"/>{#sa vivarRaBAvaM prapede,#} R. vi. 63. </div><div n="I">II Appearance:
-<div n="lb"/>q. v.: {#AkAraH.#} </div><div n="I">III Temperament: q. v.</div>
+{@COMPLEXION:@}¦ <div n="I">I Colour of the skin: {#varRaH,#} <div n="xe">{%of%}
+{%a dark c.:%}</div> <div n="xs">{#kfzRavarRaH#}</div> ({#rRA, rRaM#}). Ph.: {%their c. fell:%}
+{#sa vivarRaBAvaM prapede,#} R. vi. 63. </div><div n="I">II Appearance:
+q. v.: {#AkAraH.#} </div><div n="I">III Temperament: q. v.</div>
 <LEND>

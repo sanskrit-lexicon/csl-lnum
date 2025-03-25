@@ -1,8 +1,8 @@
 <L>24238<pc>758<k1>west<k2>west
-<div n="lb"/>{@WEST,@}¦ {@WESTERLY, WESTERN:@} <div n="1">(1) {#paScima#} (f.
-<div n="lb"/>{#mA#}), <div n="xe">{%in the w. sky:%}</div> <div n="xs">{#paScime naBasi,#}</div> Ki. ix. 5.;</div>
-<div n="lb"/><div n="1">(2) {#pAScAtya#} (f. {#tyA#}), <div n="xe">{%with the w. erns whose%}
-<div n="lb"/>{%strength lay in horse:%}</div> <div n="xs">{#pAScAtyEraSvasADanEH,#}</div> R. iv.
-<div n="lb"/>62.; </div><div n="1">(3) {#pratIcya#} (f. {#cyA#}) {%or%} rarely {#pratIcIna#}
-<div n="lb"/>(f. {#nA#}).</div>
+{@WEST,@}¦ {@WESTERLY, WESTERN:@} <div n="1">(1) {#paScima#} (f.
+{#mA#}), <div n="xe">{%in the w. sky:%}</div> <div n="xs">{#paScime naBasi,#}</div> Ki. ix. 5.;</div>
+<div n="1">(2) {#pAScAtya#} (f. {#tyA#}), <div n="xe">{%with the w. erns whose%}
+{%strength lay in horse:%}</div> <div n="xs">{#pAScAtyEraSvasADanEH,#}</div> R. iv.
+62.; </div><div n="1">(3) {#pratIcya#} (f. {#cyA#}) {%or%} rarely {#pratIcIna#}
+(f. {#nA#}).</div>
 <LEND>

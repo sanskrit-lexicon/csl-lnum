@@ -1,5 +1,5 @@
-<L>111134<pc>564,2<k1>nihan<k2>ni-han<h>a<e>1
-<s>ni-√ han</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-hanti</s> (<ab>Impv.</ab> <s>-jahi</s>, <ls>RV.</ls>; <ab>p.</ab> <s>-Gna/</s>, <ls>TS.</ls> &c.; 3- <ab>sg.</ab> <ab>Ā.</ab> <s>-jiGnate</s>, <ls>RV.</ls>; <ab>p.</ab> <s>jiGnamAna</s>, <ls>MBh.</ls>; <ab>pf.</ab> <s>-jaGAna</s>, <ls>RV.</ls> &c.; 3. <ab>pl.</ab> <s>-jaGnur</s>, <s>°nire</s>, <ls>MBh.</ls>; <ls>R.</ls>; <ab>fut.</ab> <s>-hanizyati</s>, <s>°te</s>, <s>-haMsyati</s>, <ls>MBh.</ls>; <ab>p.</ab> <s>-hanizya/t</s>, <ls>RV.</ls>; <ab>ind.p.</ab> <s>-hatya</s>, <ls>KātyŚr.</ls> [<ab>cf.</ab> <s>a-nihatya</s>]; <ab>inf.</ab> <s>-hantave</s>, <ls>RV.</ls>; <s>-hantum</s>, <ls>R.</ls>), 
+<L>111134<pc>564,2<k1>nihan<k2>ni-han<e>1
+<s>ni-√ han</s> ¦ <ab>P.</ab> <s>-hanti</s> (<ab>Impv.</ab> <s>-jahi</s>, <ls>RV.</ls>; <ab>p.</ab> <s>-Gna/</s>, <ls>TS.</ls> &c.; 3- <ab>sg.</ab> <ab>Ā.</ab> <s>-jiGnate</s>, <ls>RV.</ls>; <ab>p.</ab> <s>jiGnamAna</s>, <ls>MBh.</ls>; <ab>pf.</ab> <s>-jaGAna</s>, <ls>RV.</ls> &c.; 3. <ab>pl.</ab> <s>-jaGnur</s>, <s>°nire</s>, <ls>MBh.</ls>; <ls>R.</ls>; <ab>fut.</ab> <s>-hanizyati</s>, <s>°te</s>, <s>-haMsyati</s>, <ls>MBh.</ls>; <ab>p.</ab> <s>-hanizya/t</s>, <ls>RV.</ls>; <ab>ind.p.</ab> <s>-hatya</s>, <ls>KātyŚr.</ls> [<ab>cf.</ab> <s>a-nihatya</s>]; <ab>inf.</ab> <s>-hantave</s>, <ls>RV.</ls>; <s>-hantum</s>, <ls>R.</ls>),
 <div n="to"/>to strike or fix in, hurl in or upon or against (<ab>loc.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to make an attempt upon, attack, assail (<ab>acc.</ab> <ab>loc.</ab> or <ab>gen.</ab>), <ls>AV.</ls>; <ls>KātyŚr.</ls>; <ls>MBh.</ls>;
 <div n="to"/>to strike or hew down (also = mow, <ls>L.</ls>), kill, overwhelm, destroy, <ls>RV.</ls> &c. &c. (also applied to planets, <ls>Var.</ls>);
@@ -8,6 +8,6 @@
 <div n="to"/>to punish, visit, afflict, <ls>Kāv.</ls>; <ls>Pur.</ls>;
 <div n="to"/>to attach to (<ab>Pass.</ab> <s>-hanyate</s>, to be fixed upon, with <ab>loc.</ab>), <ls>AV.</ls>;
 <div n="to"/>to drop, lower, let sink (hands, wings &c.), <ls>AV.</ls>; <ls>VPrāt.</ls>;
-<div n="to"/>to speak with the unaccented tone <ab>i.e.</ab> with the <s1 slp1="anudAtta">Anudātta</s1>, <ls>RPrāt.</ls>; <ls>ĀśvŚr.</ls>;
-<div n="to"/> (in <ab>arithm.</ab>) to multiply, <ls>Āryabh.</ls> <ab>Comm.</ab> <ab>Caus.</ab> See <s>ni-GAta</s>, <s>°taya</s>.<info verb="pre" cp="PĀ" parse="ni+han"/>
+<div n="to"/>to speak with the unaccented tone <ab>i.e.</ab> with the <s1>Anudātta</s1>, <ls>RPrāt.</ls>; <ls>ĀśvŚr.</ls>;
+<div n="to"/> (in <ab>arithm.</ab>) to multiply, <ls>Āryabh.</ls> <ab>Comm.</ab> <ab>Caus.</ab> See <s>ni-GAta</s>, <s>°taya</s>.<info verb="pre" cp="PĀ" parse="ni+han"/><info hui="a"/>
 <LEND>

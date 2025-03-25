@@ -1,4 +1,4 @@
 <L>3831<pc>125<k1>clinical<k2>clinical
-<div n="lb"/>{@CLINICAL:@}¦ Ph. <div n="xe">{%c. medicine:%}</div> <div n="xs">{#SayyAgatarogi-#}
-<div n="lb"/>{#cikitsA#}</div> (?), {%or%} -{#SAstram#} (?).
+{@CLINICAL:@}¦ Ph. <div n="xe">{%c. medicine:%}</div> <div n="xs">{#SayyAgatarogi-#}
+{#cikitsA#}</div> (?), {%or%} -{#SAstram#} (?).
 <LEND>

@@ -1,12 +1,3 @@
 <L>9327<pc>120-2<k1>diS<k2>diS
-{#diS#}¦díś, {%f.%} direction, point of the compass, <lbinfo n="3"/>
-<> quarter ({%four, N., S., E., W.%}; {%eight, %}
-<>{%the same + NE., Se., Sw., and NW.; or ten, %}
-<>{%the same + above and below, are most commonly %}<lbinfo n="3"/>
-<>{% spoken of%}); region, place; space; foreign 
-<>country; indication, reference, instance; 
-<>manner: {%pl.%} all quarters, all directions ({%ac. %}
-<>{%with verb of looking, to express fear%}); {@diśi @}
-<>{@diśi@}, every where; in all directions; {@diśo'ntāt@}, 
-<>= from the end of the world.
+{#diS#}¦ díś, <lex>f.</lex> direction, point of the compass, 🞄quarter ({%four%}, <ab n="North">N.</ab>, <ab n="South">S.</ab>, <ab n="East">E.</ab>, <ab n="West">W.</ab>; {%eight, 🞄the same + <ab n="North-East">NE.</ab>, <ab n="South-East">SE.</ab>, <ab n="South-West">SW.</ab>, and <ab n="North-West">NW.</ab>; or ten, 🞄the same + above and below, are most commonly 🞄spoken of%}); region, place; space; foreign 🞄country; indication, reference, instance; 🞄manner: <ab>pl.</ab> all quarters, all directions (<ab>ac.</ab> 🞄{%with verb of looking, to express fear%}); {@diśi@} 🞄{@diśi,@} every where; in all directions; {@diśo'ntāt,@} 🞄= from the end of the world.
 <LEND>

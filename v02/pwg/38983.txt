@@ -1,15 +1,15 @@
 <L>38983<pc>4-0158<k1>nipAtin<k2>nipAtin
-{#nipAtin#}¦ (von {#pat#} mit {#ni#} oder von {#nipAta#}) <lex>adj.</lex> 
-<div n="1"> 1) {%niederfallend%}: {#Ballena saMyuktena nipAtinA#} 
-<ls>MBH. 6, 3498.</ls> {#(gadayA) BImanipAtinyA#} 
-<ls>1955.</ls> {#SarErvajranipAtiBiH#} 
-<ls>7, 6928.</ls> {#pInastanopari nipAtiBiH - asrEH#} 
-<ls>VIKR. 153.</ls> {#tuzAravarzEH - akARqanipAtiBiH#} 
-<ls>RĀJA-TAR. 4, 367.</ls> {%herabfliegend, sich herablassend auf%}: {#aliBiH - kusumapaNktinipAtiBiH#} 
-<ls>RAGH. 9, 40.</ls> {#AkA SanirvirUpaSca nipAtI hyavaSaH KagaH#} von <is>Śiva</is> 
-<ls>MBH. 13, 1181.</ls> 
-<div n="1">— 2) {%niederschlagend, vernichtend%}: {#anDaka°#} 
-<ls>MBH. 7, 9462.</ls> {#ripu°#} 
-<ls>N. 12, 68.</ls> {#jyotirinDananipAti#} {%vernichtend%} d. i. {%verbrennend%} 
-<ls>RAGH. 11, 21.</ls>
+{#nipAtin#}¦ (von {#pat#} mit {#ni#} oder von {#nipAta#}) <lex>adj.</lex>
+<div n="1"> 1) {%niederfallend%}: {#Ballena saMyuktena nipAtinA#}
+<ls>MBH. 6,3498.</ls> {#(gadayA) BImanipAtinyA#}
+<ls n="MBH. 6,">1955.</ls> {#SarErvajranipAtiBiH#}
+<ls n="MBH.">7,6928.</ls> {#pInastanopari nipAtiBiH — asrEH#}
+<ls>VIKR. 153.</ls> {#tuzAravarzEH — akARqanipAtiBiH#}
+<ls>RĀJA-TAR. 4,367.</ls> {%herabfliegend, sich herablassend auf%}: {#aliBiH — kusumapaNktinipAtiBiH#}
+<ls>RAGH. 9,40.</ls> {#AkA SanirvirUpaSca nipAtI hyavaSaH KagaH#} von <is>Śiva</is>
+<ls>MBH. 13,1181.</ls>
+<div n="1">— 2) {%niederschlagend, vernichtend%}: {#anDaka°#}
+<ls>MBH. 7,9462.</ls> {#ripu°#}
+<ls>N. 12,68.</ls> {#jyotirinDananipAti#} {%vernichtend%} <ab>d. i.</ab> {%verbrennend%}
+<ls>RAGH. 11,21.</ls>
 <LEND>

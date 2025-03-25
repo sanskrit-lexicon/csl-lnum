@@ -1,40 +1,40 @@
 <L>106009<pc>7-0733<k1>samfdDi<k2>sa/mfdDi
-{#sa/mfdDi#}¦ (von {#arD#} mit {#sam#}) <lex>f.</lex> 
-<div n="1"> 1) {%das Gelingen, Gerathen, Wohlgedeihen; Trefflichkeit, guter Zustand, Wohlfahrt%} 
-<ls>AK. 3, 3, 10. 3, 4, 9, 41.</ls> 
-<ls>AV. 6, 124, 3. 10, 2, 10. 11, 1, 10.</ls> 
-<ls>CHĀND. UP. 1, 1, 8.</ls> <ls>Spr. (II) 5362</ls> (auch {#a°#}). 
-<ls>3562</ls> ({#a°#} pl.). 
-<ls>VARĀH. BṚH. S. 15, 32.</ls> {#°kAma#} 
-<ls>ŚAT. BR. 12, 7, 3, 11.</ls> {#°karaRa#} 
-<ls>PĀR. GṚHY. 1, 6.</ls> {#°homa#} 
-<ls>KAUŚ. 5.</ls> {#ya\jYasya^#} 
-<ls>TS. 1, 5, 2, 4. 7, 1, 6, 6.</ls> {#vyfdDasya#} 
-<ls>ŚAT. BR. 9, 5, 2, 1. 14, 3, 2, 1.</ls> {#havizaH#} 
-<ls>11, 4, 4, 1.</ls> <ls>TBR. 1, 4, 4, 10. 3, 7, 11, 4.</ls> <ls>KAUŚ. 3. 5.</ls> <ls>AIT. BR. 2, 10.</ls> {#retaH°#} 
-<ls>6, 27.</ls> {#tejasaH#} 
-<ls>MAITRYUP. 6, 36.</ls> {#kAma°#} 
-<ls>R. 1, 14, 3 (2 GORR.).</ls> {#sarvakAma°#} 
-<ls>R. GORR. 2, 52, 19.</ls> {#yajYasya#} 
-<ls>1, 51, 2 (50, 2</ls> <ls>SCHL.).</ls> {#yajYa°#} 
-<ls>13.</ls> <ls>MBH. 13, 4625.</ls> {#sarvArTa°#} 
-<ls>KATHĀS. 101, 42.</ls> {#karma°#} 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>S. 7.</ls> {#sarvasaMpadAm#} 
-<ls>BHĀG. P. 10, 81, 32</ls> (pl.). {#BAgya°#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 7, 6,</ls> <ls>Śl. 18.</ls> {#DanaDAnya°#} {%Ueberfluss an%} 
-<ls>Spr. (II) 7539.</ls> {%Wohlfahrt, Wohlstand%} einer Person 
-<ls>YĀJÑ. 1, 264.</ls> 
-<ls>MBH. 3, 16882.</ls> {#samfdDivfdDilABAya#} 
-<ls>?4, 137. Spr. (II) 1046. 2747. 2991. 4556 (pl.). 4860. KATHĀS. 22, 30 (pl.).</ls> {#paramA#} 
-<ls>?45, 385. MĀRK. P. 51, 32. 118, 15. BHĀG. P. 3, 14, 10 (pl.). 4, 3, 21. 10, 81, 32. VOP. 6, 61.</ls> {#tasya BojanAcCAdAByaDikA samfdDirnAsti#} 
-<ls>PAÑCAT. 134, 8.</ls> <ls>Schol.</ls> zu <ls>NAIṢ. 22, 53.</ls> {#bahutarasu°#} 
-<ls>Spr. (II) 6305.</ls> {#parAM samfdDiM laNkAyAH#} 
-<ls>R. 5, 73, 3.</ls> {#manaH°#} so v. a. {%innere Zufriedenheit%} 
-<ls>BHĀG. P. 4, 9, 36.</ls> am Ende eines <lex>adj.</lex> comp.: {#vfkzEH PalapuzpasamfdDiBiH#} {%mit Früchten und Blumen reichlich versehen%} 
-<ls>MBH. 1, 4868.</ls> {#rAjaBiH - atIva SrIsamfdDiBiH#} 
-<ls>2, 1301.</ls> {#naKarAgasamfdDiBirmukuwaratnamarIciBiH#} {%gesteigert durch%} 
-<ls>RAGH. 9, 13.</ls> 
-<div n="1">— 2) Bez. {%eines best. Gedeihen bringenden vedischen Liedes%} 
-<ls>VARĀH. BṚH. S. 48, 71.</ls> 
+{#sa/mfdDi#}¦ (von {#arD#} mit {#sam#}) <lex>f.</lex>
+<div n="1"> 1) {%das Gelingen, Gerathen, Wohlgedeihen; Trefflichkeit, guter Zustand, Wohlfahrt%}
+<ls>AK. 3,3,10.</ls> <ls n="AK.">3,4,9,41.</ls>
+<ls>AV. 6,124,3.</ls> <ls n="AV.">10,2,10.</ls> <ls n="AV.">11,1,10.</ls>
+<ls>CHĀND. UP. 1,1,8.</ls> <ls>Spr. (II) 5362</ls> (auch {#a°#}).
+<ls n="Spr. (II)">3562</ls> ({#a°#} pl.).
+<ls>VARĀH. BṚH. S. 15,32.</ls> {#°kAma#}
+<ls>ŚAT. BR. 12,7,3,11.</ls> {#°karaRa#}
+<ls>PĀR. GṚHY. 1,6.</ls> {#°homa#}
+<ls>KAUŚ. 5.</ls> {#ya\jYasya^#}
+<ls>TS. 1,5,2,4.</ls> <ls n="TS.">7,1,6,6.</ls> {#vyfdDasya#}
+<ls>ŚAT. BR. 9,5,2,1.</ls> <ls n="ŚAT. BR.">14,3,2,1.</ls> {#havizaH#}
+<ls n="ŚAT. BR.">11,4,4,1.</ls> <ls>TBR. 1,4,4,10. 3,7,11,4.</ls> <ls>KAUŚ. 3. 5.</ls> <ls>AIT. BR. 2,10.</ls> {#retaH°#}
+<ls n="AIT. BR.">6,27.</ls> {#tejasaH#}
+<ls>MAITRYUP. 6,36.</ls> {#kAma°#}
+<ls>R. 1,14,3</ls> (<ls n="GORR. 1,14,">2</ls> <ls>GORR.</ls>). {#sarvakAma°#}
+<ls>R. GORR. 2,52,19.</ls> {#yajYasya#}
+<ls n="R. GORR.">1,51,2</ls> (<ls n="SCHL. 1,">50,2</ls> <ls>SCHL.</ls>). {#yajYa°#}
+<ls n="R. GORR. 1,51,">13.</ls> <ls>MBH. 13,4625.</ls> {#sarvArTa°#}
+<ls>KATHĀS. 101,42.</ls> {#karma°#}
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 7.</ls> {#sarvasaMpadAm#}
+<ls>BHĀG. P. 10,81,32</ls> (pl.). {#BAgya°#} Inschr. in
+<ls>Journ. of the Am. Or. S. 7,6, Śl. 18.</ls> {#DanaDAnya°#} {%Ueberfluss an%}
+<ls>Spr. (II) 7539.</ls> {%Wohlfahrt, Wohlstand%} einer Person
+<ls>YĀJÑ. 1,264.</ls>
+<ls>MBH. 3,16882.</ls> {#samfdDivfdDilABAya#}
+<ls n="MBH.">4,137.</ls> <ls>Spr. (II) 1046.</ls> <ls n="Spr. (II)">2747.</ls> <ls n="Spr. (II)">2991.</ls> <ls n="Spr. (II)">4556</ls> (pl.). <ls n="Spr. (II)">4860.</ls> <ls>KATHĀS. 22,30</ls> (pl.). {#paramA#}
+<ls n="KATHĀS.">45,385.</ls> <ls>MĀRK. P. 51,32. 118,15.</ls> <ls>BHĀG. P. 3,14,10</ls> (pl.). <ls n="BHĀG. P.">4,3,21.</ls> <ls n="BHĀG. P.">10,81,32.</ls> <ls>VOP. 6,61.</ls> {#tasya BojanAcCAdAByaDikA samfdDirnAsti#}
+<ls>PAÑCAT. 134,8.</ls> <ls>Schol.</ls> zu <ls>NAIṢ. 22,53.</ls> {#bahutarasu°#}
+<ls>Spr. (II) 6305.</ls> {#parAM samfdDiM laNkAyAH#}
+<ls>R. 5,73,3.</ls> {#manaH°#} so v. a. {%innere Zufriedenheit%}
+<ls>BHĀG. P. 4,9,36.</ls> am Ende eines <lex>adj.</lex> comp.: {#vfkzEH PalapuzpasamfdDiBiH#} {%mit Früchten und Blumen reichlich versehen%}
+<ls>MBH. 1,4868.</ls> {#rAjaBiH — atIva SrIsamfdDiBiH#}
+<ls n="MBH.">2,1301.</ls> {#naKarAgasamfdDiBirmukuwaratnamarIciBiH#} {%gesteigert durch%}
+<ls>RAGH. 9,13.</ls>
+<div n="1">— 2) Bez. {%eines best. Gedeihen bringenden vedischen Liedes%}
+<ls>VARĀH. BṚH. S. 48,71.</ls>
 <div n="v">— Vgl. {#rUpa°#} .
 <LEND>

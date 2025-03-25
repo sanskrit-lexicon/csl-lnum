@@ -1,17 +1,17 @@
 <L>61065<pc>5-0834<k1>muraja<k2>muraja
-{#muraja#}¦ 
-<div n="1"> 1) <lex>m.</lex> {%eine Art Trommel, Tambourin%} 
-<ls>AK. 1, 1, 7, 4. 5.</ls> 
-<ls>H. 287. 293.</ls> 
-<ls>HALĀY. 1, 97.</ls> 
-<ls>MBH. 5, 4790. 13, 5194.</ls> 
-<ls>HARIV. 8056. 8688.</ls> 
-<ls>R. 2, 39, 40 (38, 50 GORR.).</ls> <ls>KUMĀRAS. 6, 40.</ls> <ls>MEGH. 57.</ls> {#prahata°#} 
-<ls>?65. MĀLAV. 21. BRAHMASIDDH. bei WEBER, <is>Nakṣ</is>. 2, 391. VARĀH. BṚH. S. 69, 22. KATHĀS. 2, 34. PAÑCAR. 1, 11, 2</ls> {#(muruja#} gedr.). Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} 
-<ls>MBH. 9, 2674.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#A#} 
-<div n="2"> a) {%eine grosse Trommel.%} 
-<div n="2">— b) N. pr. der Gattin <is>Kuvera's</is> 
-<ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls> 
+{#muraja#}¦
+<div n="1"> 1) <lex>m.</lex> {%eine Art Trommel, Tambourin%}
+<ls>AK. 1,1,7,4.</ls> <ls n="AK. 1,1,7,">5.</ls>
+<ls>H. 287.</ls> <ls n="H.">293.</ls>
+<ls>HALĀY. 1,97.</ls>
+<ls>MBH. 5,4790.</ls> <ls n="MBH.">13,5194.</ls>
+<ls>HARIV. 8056.</ls> <ls n="HARIV.">8688.</ls>
+<ls>R. 2,39,40</ls> (<ls n="GORR. 2,">38,50</ls> <ls>GORR.</ls>). <ls>KUMĀRAS. 6,40.</ls> <ls>MEGH. 57.</ls> {#prahata°#}
+<ls n="MEGH.">65.</ls> <ls>MĀLAV. 21.</ls> <ls>BRAHMASIDDH.</ls> bei <ls>WEBER, Nakṣ. 2,391.</ls> <ls>VARĀH. BṚH. S. 69,22.</ls> <ls>KATHĀS. 2,34.</ls> <ls>PAÑCAR. 1,11,2</ls> {#(muruja#} gedr.). Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+<ls>MBH. 9,2674.</ls>
+<div n="1">— 2) <lex>f.</lex> {#A#}
+<div n="2"> a) {%eine grosse Trommel.%}
+<div n="2">— b) N. pr. der Gattin <is>Kuvera's</is>
+<ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>
 <div n="v">— Vgl. {#mOrajika#} .
 <LEND>

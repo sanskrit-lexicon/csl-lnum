@@ -1,279 +1,274 @@
 <L>99612<pc>7-0200<k1>Siva<k2>Siva/
-{#Siva/#}¦ 
-<ls>UṆĀDIS. 1, 153</ls> ({#Si/va#}). 
-<div n="1"> 1) <lex>adj.</lex> (f. {#A#}) {%gütig, freundlich, günstig; angenehm, zuträglich, wohlthuend, heilsam, segensreich, lieb%} (Gegens. {#Gora#}) 
-<ls>NAIGH. 3, 6.</ls> {#saKya#} 
-<ls>ṚV. 4, 10, 8.</ls> {#saKA^yaste\ vizu^RA agna e\te Si\vAsa\H santo\ aSi^vA aBUvan#} 
-<ls n="ṚV. 4,">12, 5.</ls> <ls n="ṚV.">10, 124, 2.</ls> {#atiTi#} 
-<ls n="ṚV.">7, 9, 3.</ls> <ls n="ṚV. 7,">18, 7.</ls> {#dUta#} 
-<ls n="ṚV.">8, 39, 3.</ls> {#trAtar#} 
-<ls n="ṚV.">4, 24, 1.</ls> {#pAyu#} 
-<ls n="ṚV.">1, 143, 8.</ls> {#Uti#} 
-<ls n="ṚV. 1,">187, 3.</ls> {#DAsi#} 
-<ls n="ṚV.">4, 41, 17.</ls> {#manas#} 
-<ls>VS. 2, 24.</ls> 
-<ls>AIT. BR. 7, 33.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 38, 17.</ls> {#mati#} 
-<ls>ṚV. 10, 67, 9.</ls> 
-<ls>MĀRK. P. 118, 15.</ls> {#manyu#} 
-<ls>AV. 6, 116, 3.</ls> {#niyut#} 
-<ls>ṚV. 10, 8, 6.</ls> {#tanU#} 
-<ls>VS. 4, 2. 16, 2.</ls> 
-<ls>ṚV. 10, 16, 4.</ls> 
-<ls>TS. 5, 7, 3, 3.</ls> 
-<ls>PRAŚNOP. 2, 12.</ls> {#rasa#} 
-<ls>ṚV. 10, 9, 2.</ls> {#vAja#} 
-<ls n="ṚV. 10,">53, 8.</ls> {#cakzus#} 
-<ls>AV. 1, 33, 4.</ls> Wasser 
-<ls>2, 29, 6.</ls> <ls>R. 2, 49, 9. 56, 4. 83, 22.</ls> <ls>R. GORR. 2, 124, 21.</ls> <ls>RAGH. 5, 8.</ls> <ls>Spr. 5027.</ls> <ls>VARĀH. BṚH. S. 12, 12.</ls> <ls>BHĀG. P. 1, 6, 12.</ls> Speise 
-<ls>AV. 6, 71, 3.</ls> {#tezA^mindra vftra\hatye^ Si\vo BU^H#} 
-<ls>ṚV. 7, 19, 10.</ls> {#Si\vA saKi^Bya u\ta mahya^mAsIt#} 
-<ls n="ṚV.">10, 34, 2.</ls> <ls>AV. 7, 43, 1.</ls> {#ahi^MsannaH Si\vo 'tI^hi#} 
-<ls>VS. 3, 61. 12, 17.</ls> 
-<ls>ŚAT. BR. 9, 1, 2, 30.</ls> {#mi\tro vE Si\vo de\vAnA^m#} 
-<ls>TS. 5, 1, 6, 1.</ls> {#yadvE Si\vaM tanmaya^H#} 
-<ls>TBR. 2, 2, 5, 5.</ls> {#varzAH#} 
-<ls>ĀŚV. GṚHY. 2, 4, 14.</ls> 
-<ls>PĀR. GṚHY. 3, 15.</ls> {#puruza#} 
-<ls>ŚVETĀŚV. UP. 3, 11.</ls> {#deva#} 
-<ls>5, 14.</ls> <ls>HARIV. 14407.</ls> <ls>R. 1, 44, 7.</ls> <ls>WEBER, RĀMAT. UP. 338.</ls>
+{#Siva/#}¦
+<ls>UṆĀDIS. 1,153</ls> ({#Si/va#}).
+<div n="1"> 1) <lex>adj.</lex> (f. {#A#}) {%gütig, freundlich, günstig; angenehm, zuträglich, wohlthuend, heilsam, segensreich, lieb%} (Gegens. {#Gora#})
+<ls>NAIGH. 3,6.</ls> {#saKya#}
+<ls>ṚV. 4,10,8.</ls> {#saKA^yaste\ vizu^RA agna e\te Si\vAsa\H santo\ aSi^vA aBUvan#}
+<ls n="ṚV. 4,">12,5.</ls> <ls n="ṚV.">10,124,2.</ls> {#atiTi#}
+<ls n="ṚV.">7,9,3.</ls> <ls n="ṚV. 7,">18,7.</ls> {#dUta#}
+<ls n="ṚV.">8,39,3.</ls> {#trAtar#}
+<ls n="ṚV.">4,24,1.</ls> {#pAyu#}
+<ls n="ṚV.">1,143,8.</ls> {#Uti#}
+<ls n="ṚV. 1,">187,3.</ls> {#DAsi#}
+<ls n="ṚV.">4,41,17.</ls> {#manas#}
+<ls>VS. 2,24.</ls>
+<ls>AIT. BR. 7,33.</ls>
+<ls>R. GORR. 1,38,17.</ls> {#mati#}
+<ls>ṚV. 10,67,9.</ls>
+<ls>MĀRK. P. 118,15.</ls> {#manyu#}
+<ls>AV. 6,116,3.</ls> {#niyut#}
+<ls>ṚV. 10,8,6.</ls> {#tanU#}
+<ls>VS. 4,2.</ls> <ls n="VS.">16,2.</ls>
+<ls>ṚV. 10,16,4.</ls>
+<ls>TS. 5,7,3,3.</ls>
+<ls>PRAŚNOP. 2,12.</ls> {#rasa#}
+<ls>ṚV. 10,9,2.</ls> {#vAja#}
+<ls n="ṚV. 10,">53,8.</ls> {#cakzus#}
+<ls>AV. 1,33,4.</ls> Wasser
+<ls n="AV.">2,29,6.</ls> <ls>R. 2,49,9.</ls> <ls n="R. 2,">56,4.</ls> <ls n="R. 2,">83,22.</ls> <ls>R. GORR. 2,124,21.</ls> <ls>RAGH. 5,8.</ls> <ls>Spr. 5027.</ls> <ls>VARĀH. BṚH. S. 12,12.</ls> <ls>BHĀG. P. 1,6,12.</ls> Speise
+<ls>AV. 6,71,3.</ls> {#tezA^mindra vftra\hatye^ Si\vo BU^H#}
+<ls>ṚV. 7,19,10.</ls> {#Si\vA saKi^Bya u\ta mahya^mAsIt#}
+<ls n="ṚV.">10,34,2.</ls> <ls>AV. 7,43,1.</ls> {#ahi^MsannaH Si\vo 'tI^hi#}
+<ls>VS. 3,61.</ls> <ls n="VS.">12,17.</ls>
+<ls>ŚAT. BR. 9,1,2,30.</ls> {#mi\tro vE Si\vo de\vAnA^m#}
+<ls>TS. 5,1,6,1.</ls> {#yadvE Si\vaM tanmaya^H#}
+<ls>TBR. 2,2,5,5.</ls> {#varzAH#}
+<ls>ĀŚV. GṚHY. 2,4,14.</ls>
+<ls>PĀR. GṚHY. 3,15.</ls> {#puruza#}
+<ls>ŚVETĀŚV. UP. 3,11.</ls> {#deva#}
+<ls n="ŚVETĀŚV. UP.">5,14.</ls> <ls>HARIV. 14407.</ls> <ls>R. 1,44,7.</ls> <ls>WEBER, RĀMAT. UP. 338.</ls>
 [Page7-0201]
-{#SiKin#} 
-<ls>VARĀH. BṚH. S. 11, 61. 16, 40. 18, 1. 20, 4.</ls> 
-<ls>Spr. 5007.</ls> {#ASizaH#} 
-<ls>R. 2, 32, 11.</ls> {#kAla#} 
-<ls>43, 9.</ls> {#saMDyA#} 
-<ls>46, 13. 49, 2.</ls> {#ahaH SivamupasTitam#} 
-<ls>R. GORR. 2, 12, 20.</ls> {#eza yAti SivaH panTAH#} 
-<ls>MBH. 3, 2824.</ls> 
-<ls>ŚĀK. 86.</ls> {#mahAmArga#} 
-<ls>R. 2, 46, 29.</ls> {#Sivena naya mAM paTA#} 
-<ls>KATHĀS. 18, 99.</ls> {#SivAste panTAnaH santu#} 
-<ls>ŚĀK. 57, 19.</ls> 
-<ls>ŚUK.</ls> in <ls>LA. (III) 36, 8.</ls> <ls>HIT. 68, 17.</ls> <ls>BHĀG. P. 2, 2, 33.</ls> {#AgamAste SivAH santu#} 
-<ls>R. 2, 25, 19.</ls> {#pavana#} 
-<ls>MBH. 3, 2995.</ls> 
-<ls>R. 2, 44, 9. 91, 24. 5, 95, 39.</ls> 
-<ls>BHĀG. P. 3, 15, 38.</ls> {#brahmasaras#} 
-<ls>MBH. 3, 8304.</ls> {#devanadI#} 
-<ls>9948.</ls> {#kosalAH#} 
-<ls>R. 2, 50, 8.</ls> {#purI#} 
-<ls>1, 6, 26.</ls> {#vanaBUmayaH#} 
-<ls>Spr. 5391.</ls> {#ASramataru#} 
-<ls>RAGH. 11, 33.</ls> {#kzAra#} 
-<ls>SUŚR. 1, 33, 13.</ls> {#upAya#} 
-<ls>MĀLATĪM. 6, 13.</ls> {#SivAkArA#} (zugleich {%der Gott%} <is>Śiva</is>) 
-<ls>RĀJA-TAR. 3, 416.</ls> {#svana#} 
-<ls>BHĀG. P. 3, 23, 39.</ls> {%glücklich, froh%} 
-<ls>28, 22.</ls> compar.: {#SivatareRa cakzuzA paSyatvamum#} 
-<ls>UTTARAR. 107, 5. 6 (145, 2. 3).</ls> suderl. {#Sivatama#} 
-<ls>ṚV. 1, 143, 8.</ls> <ls n="ṚV.">8, 85, 10.</ls> 
-<ls>MAITRYUP. 6, 31.</ls> <ls>BHĀG. P. 5, 1, 5. 3, 5.</ls> {#a°#} (s. auch bes.) {%Unheil bringend u.s.w.%} 
-<ls>MBH. 1, 5778.</ls> 
-<ls>Spr. 5007.</ls> 
-<ls>KIR. 1, 38.</ls> 
-<ls>BHĀG. P. 3, 17, 9. 4, 2, 15.</ls> {#Sivam#} adv. {%freundlich, zärtlich%}: {#upaspfSanti#} 
-<ls>ŚAT. BR. 12, 5, 2, 8.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%Heil, Wohlfahrt%}: {#Sivo 'stu vijayo 'stu te#} 
-<ls>R. 5, 56, 36.</ls> = {#mokza#} {%Erlösung%} 
-<ls>MED. v. 25</ls>; vgl. neutr. 
-<div n="2">— b) ein N. des <is>Rudra</is>: {%der Gütige, Freundliche%} (euphemistisch gesagt). Von ihm, mit andern Namen und Attributen auf den in die Dreiheit aufgenommenen Gott (<is>Paśupati</is>, <is>Śaṃkara</is>, <is>Śarva</is>, <is>Hara</is> 
-u.s.w.) übergegangen, dessen Hauptbezeichnung dieses Wort wird. 
-<ls>AK. 1, 1, 1, 25.</ls> 
-<ls>TRIK. 1, 1, 48. 3, 3, 422.</ls> 
-<ls>H. 197.</ls> 
-<ls>an. 2, 537. fg.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 1, 11.</ls> 
-<ls>LIA. 1, 780. fgg.</ls> {#Si\vo nAmA^si#} 
-<ls>VS. 3, 63</ls>; vgl. 
-<ls>16, 41.</ls> <is>Paśupati</is> 
-<ls>ĀŚV. GṚHY. 2, 2, 2. 4, 8, 19.</ls> {#tadvizam . prAgrasallokarakzArTaM brahmaRo vacanAcCivaH#} 
-<ls>MBH. 1, 1153. 3, 11914.</ls> {#SivamicCanmanuzyARAM tasmAdeva SivaH smftaH#} 
-<ls>7, 9622.</ls> {#paSUnAmISvaraH SivaH#} 
-<ls>14, 1178.</ls> {#°smaraRa#} 
-<ls>Spr. 2984.</ls> 
-<ls>VP. 62. 596.</ls> 
-<ls>BHĀG. P. 1, 9, 19. 3, 12, 12. 4, 2, 15. 4, 14. 8, 7, 29.</ls> 
-<ls>SARVADARŚANAS. 81, 12. 84, 9. 86, 9. 88, 20. 103, 19.</ls> {#Siva Siva Siveti pralapataH#} 
-<ls>Spr. (II) 844. 5046.</ls> 
-<ls>DHŪRTAS. 80, 16. 95, 15.</ls> {#Sivasya DAraRayantram#} 
-<ls>Verz. d. Oxf. H. 96,b,8.</ls> {#°pUjA#} 
-<ls>45,a,23. 85,a,42. 273,b,24.</ls> {#°kavaca#} 
-<ls>26,a,37. 74,b,9. 94,a,39.</ls> {#°mantra#} 
-<ls>Spr. 3009.</ls> <ls>Verz. d. Oxf. H. 93</ls>, {%b%}, 
-<ls>11. 106,a,24.fg.</ls> {#°yantra#} 
-<ls>94,b, 13. fg.</ls> {#°stotra#} 
-<ls>a,39.</ls> {#°cakra#} 
-<ls>88,a,33.</ls> {#°Basmamahimotpatti#} 
-<ls>44,b,23.</ls> bei den Buddhisten 
-<ls>BURN. Intr. 131.</ls> {#°vESravaRO#} <is>gaṇa</is> {#daDipayaAdi#} 
-zu <ls>P. 2, 4, 14.</ls> {#°SaktyoH samAyogaH#} 
-<ls>Verz. d. Oxf. H. 92,a,2.</ls> {#SivaSaktyaBedavinirRaya#} 
-<ls>45,a,1. 2.</ls> im Monat <is>Vaiśākha</is> unter diesem Namen verehrt 
-<ls>WEBER, KṚṢṆAJ. 243.</ls> <is>Śiva</is> als Autor 
-<ls>HALL 13. fg. 124.</ls> {#SivO#} du. <is>Śiva</is> {%und seine Gattin%} 
-<ls>KIR. 5, 40.</ls> 
-<ls>RĀJA-TAR. 5, 37.</ls> <ls>Verz. d. Oxf. H. 64</ls>, {%a%}, 
-<ls>19. fg. 24.</ls> 
-<div n="2">— c) {%ein secundärer%} <is>Śiva</is> bei den <is>Śaiva</is> so v. a. {%ein Erlöster mit übernatürlicher Macht%}: {#muktAtmAno 'pi SivAH#} 
-<ls>SARVADARŚANAS. 85, 10. 84, 10.</ls> {#°pada#} 
-<ls>88, 22</ls>; vgl. {#atra sidDAH SivA nAma brAhmaRA vedapAragAH . aDItya sakalAnvedA~lleBire mokzamavyayam ..#} 
-<ls>MBH. 5, 3796. fg.</ls> nach der Lesart der ed. Bomb. 
-<div n="2">— d) = {#SivaliNga#} 
-<ls>UṆĀDIK.</ls> im <ls>ŚKDR.</ls> hierher wohl {#°pradAnaka#} 
-<ls>Verz. d. Oxf. H. 85,b,1.</ls> 
-<div n="2">— e) {%Gott%} überh. 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— f) {%die heilige Schrift%} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— g) Bez. {%des 6ten Monats%} 
-<ls>Ind. St. 10, 298.</ls> 
-<div n="2">— h) {%ein Pfosten, an den die Kühe gebunden werden%} oder {%an dem sie sich kratzen%}, = {#kIla, kIlaka#} 
-<ls>TRIK. 3, 3, 422.</ls> 
-<ls>H. 1274.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> ({#kIlakagrahayogayoH#} trennt 
-<ls>ŚKDR.</ls> in {#kIlakagraha + yoga#}). 
-<div n="2">— i) {%Bdellion%} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>AUSH. 96.</ls> 
-<div n="2">— k) {%die wohlriechende Rinde von Feronia elephantum%} ({#vAluka#}) 
-<ls>MED.</ls> {#bAlaka#} st. dessen 
-<ls>H. an.</ls> 
-<div n="2">— l) = {#puRqarIka (druma)#} 
-<ls>H.</ls><ls>an.</ls> <ls>MED.</ls>
+{#SiKin#}
+<ls>VARĀH. BṚH. S. 11,61. 16,40. 18,1. 20,4.</ls>
+<ls>Spr. 5007.</ls> {#ASizaH#}
+<ls>R. 2,32,11.</ls> {#kAla#}
+<ls n="R. 2,">43,9.</ls> {#saMDyA#}
+<ls n="R. 2,">46,13.</ls> <ls n="R. 2,">49,2.</ls> {#ahaH SivamupasTitam#}
+<ls>R. GORR. 2,12,20.</ls> {#eza yAti SivaH panTAH#}
+<ls>MBH. 3,2824.</ls>
+<ls>ŚĀK. 86.</ls> {#mahAmArga#}
+<ls>R. 2,46,29.</ls> {#Sivena naya mAM paTA#}
+<ls>KATHĀS. 18,99.</ls> {#SivAste panTAnaH santu#}
+<ls>ŚĀK. 57,19.</ls>
+<ls>ŚUK. in LA. (III) 36,8.</ls> <ls>HIT. 68,17.</ls> <ls>BHĀG. P. 2,2,33.</ls> {#AgamAste SivAH santu#}
+<ls>R. 2,25,19.</ls> {#pavana#}
+<ls>MBH. 3,2995.</ls>
+<ls>R. 2,44,9.</ls> <ls n="R. 2,">91,24.</ls> <ls n="R.">5,95,39.</ls>
+<ls>BHĀG. P. 3,15,38.</ls> {#brahmasaras#}
+<ls>MBH. 3,8304.</ls> {#devanadI#}
+<ls n="MBH. 3,">9948.</ls> {#kosalAH#}
+<ls>R. 2,50,8.</ls> {#purI#}
+<ls n="R.">1,6,26.</ls> {#vanaBUmayaH#}
+<ls>Spr. 5391.</ls> {#ASramataru#}
+<ls>RAGH. 11,33.</ls> {#kzAra#}
+<ls>SUŚR. 1,33,13.</ls> {#upAya#}
+<ls>MĀLATĪM. 6,13.</ls> {#SivAkArA#} (zugleich {%der Gott%} <is>Śiva</is>)
+<ls>RĀJA-TAR. 3,416.</ls> {#svana#}
+<ls>BHĀG. P. 3,23,39.</ls> {%glücklich, froh%}
+<ls n="BHĀG. P. 3,">28,22.</ls> compar.: {#SivatareRa cakzuzA paSyatvamum#}
+<ls>UTTARAR. 107,5. 6 (145,2. 3).</ls> suderl. {#Sivatama#}
+<ls>ṚV. 1,143,8.</ls> <ls n="ṚV.">8,85,10.</ls>
+<ls>MAITRYUP. 6,31.</ls> <ls>BHĀG. P. 5,1,5.</ls> <ls n="BHĀG. P. 5,">3,5.</ls> {#a°#} (s. auch bes.) {%Unheil bringend u.s.w.%}
+<ls>MBH. 1,5778.</ls>
+<ls>Spr. 5007.</ls>
+<ls>KIR. 1,38.</ls>
+<ls>BHĀG. P. 3,17,9.</ls> <ls n="BHĀG. P.">4,2,15.</ls> {#Sivam#} adv. {%freundlich, zärtlich%}: {#upaspfSanti#}
+<ls>ŚAT. BR. 12,5,2,8.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) {%Heil, Wohlfahrt%}: {#Sivo 'stu vijayo 'stu te#}
+<ls>R. 5,56,36.</ls> = {#mokza#} {%Erlösung%}
+<ls>MED. v. 25</ls>; vgl. neutr.
+<div n="2">— b) ein N. des <is>Rudra</is>: {%der Gütige, Freundliche%} (euphemistisch gesagt). Von ihm, mit andern Namen und Attributen auf den in die Dreiheit aufgenommenen Gott (<is>Paśupati</is>, <is>Śaṃkara</is>, <is>Śarva</is>, <is>Hara</is>
+u.s.w.) übergegangen, dessen Hauptbezeichnung dieses Wort wird.
+<ls>AK. 1,1,1,25.</ls>
+<ls>TRIK. 1,1,48.</ls> <ls n="TRIK.">3,3,422.</ls>
+<ls>H. 197.</ls>
+<ls>an. 2,537. fg.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 1,11.</ls>
+<ls>LIA. 1,780. fgg.</ls> {#Si\vo nAmA^si#}
+<ls>VS. 3,63</ls>; vgl.
+<ls n="VS.">16,41.</ls> <is>Paśupati</is>
+<ls>ĀŚV. GṚHY. 2,2,2. 4,8,19.</ls> {#tadvizam . prAgrasallokarakzArTaM brahmaRo vacanAcCivaH#}
+<ls>MBH. 1,1153.</ls> <ls n="MBH.">3,11914.</ls> {#SivamicCanmanuzyARAM tasmAdeva SivaH smftaH#}
+<ls n="MBH.">7,9622.</ls> {#paSUnAmISvaraH SivaH#}
+<ls n="MBH.">14,1178.</ls> {#°smaraRa#}
+<ls>Spr. 2984.</ls>
+<ls>VP. 62. 596.</ls>
+<ls>BHĀG. P. 1,9,19.</ls> <ls n="BHĀG. P.">3,12,12.</ls> <ls n="BHĀG. P.">4,2,15.</ls> <ls n="BHĀG. P. 4,">4,14.</ls> <ls n="BHĀG. P.">8,7,29.</ls>
+<ls>SARVADARŚANAS. 81,12. 84,9. 86,9. 88,20. 103,19.</ls> {#Siva Siva Siveti pralapataH#}
+<ls>Spr. (II) 844.</ls> <ls n="Spr. (II)">5046.</ls>
+<ls>DHŪRTAS. 80,16. 95,15.</ls> {#Sivasya DAraRayantram#}
+<ls>Verz. d. Oxf. H. 96,b,8.</ls> {#°pUjA#}
+<ls n="Verz. d. Oxf. H.">45,a,23. 85,a,42. 273,b,24.</ls> {#°kavaca#}
+<ls n="Verz. d. Oxf. H.">26,a,37. 74,b,9. 94,a,39.</ls> {#°mantra#}
+<ls>Spr. 3009.</ls> <ls>Verz. d. Oxf. H. 93,b,11.</ls>
+<ls n="Verz. d. Oxf. H.">106,a,24.fg.</ls> {#°yantra#}
+<ls n="Verz. d. Oxf. H.">94,b,13. fg.</ls> {#°stotra#}
+<ls n="Verz. d. Oxf. H. 94,">a,39.</ls> {#°cakra#}
+<ls n="Verz. d. Oxf. H.">88,a,33.</ls> {#°Basmamahimotpatti#}
+<ls n="Verz. d. Oxf. H.">44,b,23.</ls> bei den Buddhisten
+<ls>BURN. Intr. 131.</ls> {#°vESravaRO#} <is>gaṇa</is> {#daDipayaAdi#}
+zu <ls>P. 2,4,14.</ls> {#°SaktyoH samAyogaH#}
+<ls>Verz. d. Oxf. H. 92,a,2.</ls> {#SivaSaktyaBedavinirRaya#}
+<ls n="Verz. d. Oxf. H.">45,a,1. 2.</ls> im Monat <is>Vaiśākha</is> unter diesem Namen verehrt
+<ls>WEBER, KṚṢṆAJ. 243.</ls> <is>Śiva</is> als Autor
+<ls>HALL 13. fg. 124.</ls> {#SivO#} du. <is>Śiva</is> {%und seine Gattin%}
+<ls>KIR. 5,40.</ls>
+<ls>RĀJA-TAR. 5,37.</ls> <ls>Verz. d. Oxf. H. 64,a,19. fg. 24.</ls>
+<div n="2">— c) {%ein secundärer%} <is>Śiva</is> bei den <is>Śaiva</is> so v. a. {%ein Erlöster mit übernatürlicher Macht%}: {#muktAtmAno 'pi SivAH#}
+<ls>SARVADARŚANAS. 85,10. 84,10.</ls> {#°pada#}
+<ls n="SARVADARŚANAS.">88,22</ls>; vgl. {#atra sidDAH SivA nAma brAhmaRA vedapAragAH . aDItya sakalAnvedA~lleBire mokzamavyayam ..#}
+<ls>MBH. 5,3796. fg.</ls> nach der Lesart der <ls>ed. Bomb.</ls>
+<div n="2">— d) = {#SivaliNga#}
+<ls>UṆĀDIK.</ls> im <ls>ŚKDR.</ls> hierher wohl {#°pradAnaka#}
+<ls>Verz. d. Oxf. H. 85,b,1.</ls>
+<div n="2">— e) {%Gott%} überh.
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— f) {%die heilige Schrift%}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— g) Bez. {%des 6ten Monats%}
+<ls>Ind. St. 10,298.</ls>
+<div n="2">— h) {%ein Pfosten, an den die Kühe gebunden werden%} oder {%an dem sie sich kratzen%}, = {#kIla, kIlaka#}
+<ls>TRIK. 3,3,422.</ls>
+<ls>H. 1274.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> ({#kIlakagrahayogayoH#} trennt
+<ls>ŚKDR.</ls> in {#kIlakagraha + yoga#}).
+<div n="2">— i) {%Bdellion%}
+<ls>H. an.</ls> <ls>MED.</ls> <ls>AUSH. 96.</ls>
+<div n="2">— k) {%die wohlriechende Rinde von Feronia elephantum%} ({#vAluka#})
+<ls>MED.</ls> {#bAlaka#} st. dessen
+<ls>H. an.</ls>
+<div n="2">— l) = {#puRqarIka (druma)#}
+<ls>H. an.</ls> <ls>MED.</ls>
 [Page7-0202]
-
-<div n="2">— m) = {#kfzRaDustUra#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— n) {%Quecksilber%} (vgl. {#SivabIja#}) 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— o) Bez. {%einer best. Glück verheissenden Constellation%} 
-<ls>TRIK. 3, 3, 422.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>KOṢṬHĪPR.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— p) Bez. eines best. Krankheitsdämons, neben {#aSiva#} 
-<ls>HARIV. 9560.</ls> 
-<div n="2">— q) pl. N. pr. einer Klasse von Göttern im 3ten <is>Manvantara</is> 
-<ls>VP. 261.</ls> 
-<ls>MĀRK. P. 73, 3.</ls> 
-<div n="2">— r) N. pr. eines Sohnes des <is>Medhātithi</is> 
-<ls>MĀRK. P. 53, 29. fg.</ls> des <is>Idhmajihva</is> 
-<ls>BHĀG. P. 5, 20, 2. 3.</ls> N. pr. eines Fürsten 
-<ls>HALL. 181.</ls> eines Gauners 
-<ls>KATHĀS. 24, 82. fgg.</ls> eines Autors 
-<ls>Verz. d. B. H. No. 878.</ls> 
-<ls>Notices of Skt. Mss. 118.</ls> 
-<div n="2">— s) = {#Sukra#} m., {#kAlaH#} und {#vasu#} 
-m. <ls>NĀNĀRTHADHVANIM.</ls> in <ls>Verz. d. Oxf. H. 194</ls>, {%a%}, 
-<ls>No. 445.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#SivA#} 
-<div n="2"> a) <is>Śiva's</is> {%Energie%}, personif. als {%seine Gattin%} 
-<ls>AK. 1, 1, 1, 32. 3, 4, 27, 214.</ls> 
-<ls>H. 204.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>VAIJ.</ls> bei <ls>MALLIN.</ls> zu <ls>KIR. 1, 38</ls> ({#umeti#} st. {#uBeti#} nach 
-<ls>STENZLER</ls> zu lesen). 
-<ls>Spr. (II) 5033, v. l.</ls> 
-<ls>KATHĀS. 78, 92.</ls> <ls>Verz. d. Oxf. H. 19</ls>, {%a%}, 
-<ls>5. 25</ls>, {%a%}, 
-<ls>33. 81</ls>, {%a%}, 
-<ls>?41. Inschr. in Journ. of the Am. Or. S. 6, 506, Śl. 23.</ls> Gattin <is>Śiva's</is> in seiner Form als <is>Īśāna</is> 
-<ls>VP. 59.</ls> bei den Buddhisten 
-<ls>TRIK. 1, 1, 18.</ls> <ls>WILSON, Sel. Works 2, 38.</ls> 
-<div n="2">— b) {%Schakal%} (ein Unglück verheissendes Thier, also euphemistisch so genannt) 
-<ls>AK.2,5,5.3,4,27,214.</ls> <ls>H. 1289.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 172.</ls> <ls>HALĀY.2,74.</ls> <ls>VAIJ.</ls> <ls>PĀR. GṚHY.3,15.</ls> <ls>MBH.1,4512.3,16823.</ls> <ls>HARIV. 4260.</ls> <ls>R.3,29,6.6,75,35.</ls> <ls>RAGH.7,47. 11,61. 12,39.</ls> <ls>KIR.1,38.</ls> <ls>VARĀH. BṚH. S. 30,30. 86,37. 90,3. fgg.</ls> <ls>KATHĀS. 25,135. 121,160. 124,108.</ls> <ls>MĀRK. P. 43,21.</ls> <ls>BHĀG. P.1,6,14. 14,12.3,17,9.5,2,16.8,10,11.</ls> <ls>Verz. d. Oxf. H. 51,b,16. 86,b,40.</ls> 
-<div n="2">— c) Bez. verschiedener Pflanzen: = {#SamI#} 
-<ls>AK. 2, 4, 2, 32.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> ({#sakftPalA#} fehlerhaft für {#saktuPalA#}). {%Terminalia Chebula%} oder {%citrina%} 
-<ls>AK. 2, 4, 2, 40.</ls> 
-<ls>TRIK. 3, 3, 423.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>RATNAM. 89.</ls> {%Emblica officinalis Gaertn.%} 
-<ls>AK. 2, 4, 4, 15.</ls> 
-<ls>TRIK.</ls> 
-<ls>H. 1145.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HĀR. 92.</ls> 
-<ls>HALĀY. 2, 463.</ls> 
-<ls>RATNAM. 90.</ls> {%Jasminum auriculatum Vahl.%} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>VIŚVA</ls> bei <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 1, 153.</ls> = {#SyAmA#} 
-<ls>TRIK.</ls> = {#haridrA#} und {#dUrvA#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> — 
-<ls>VARĀH. BṚH. S. 48, 40.</ls> 
-<div n="2">— d) {%die Wurzel von Piper longum Lin.%} 
-<ls>RATNAM. 99.</ls> 
-<div n="2">— e) {%ein best. gelbes Pigment%} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— f) {%ein best Metrum: 2 Mal%} ˘ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯ ¯, ¯ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯ ¯  
-<ls>Journ. of the Am. Or. S. 6, 514.</ls> 
-<div n="2">— g) N. pr. der Gattin des <is>Anila</is> 
-<ls>MBH. 1, 2589.</ls> 
-<ls>HARIV. 156.</ls> des <is>Aṅgiras</is> 
-<ls>MBH. 3, 14209. fgg.</ls> einer Brahmanin 
-<ls>5, 3796</ls> (die Lesart der ed. Bomb. s. u. 2) {%c%}). der Mutter <is>Nemi's</is>, des 22ten <is>Arhant's</is> der gegenwärtigen <is>Avasarpiṇī</is> 
-<ls>H. 40.</ls> der Mutter <is>Rudrabhaṭṭa's</is> 
-<ls>Verz. d. Oxf. H. 318,a, N. 1</ls> (vgl. u. {#ciraja#} in den Nachträgen). 
-<div n="2">— h) N. pr. eines Flusses 
-<ls>VAIJ. a. a. O.</ls> <ls>MBH. 6, 332</ls> <ls>?(VP. 183). HARIV. 9506.</ls> 
-<div n="1">— 4) <lex>f.</lex> {#SivI = SivA#} <is>Śiva's</is> {%Gattin%} 
-<ls>H. 204, Schol.</ls> 
-<div n="1">— 5) <lex>n.</lex> 
-<div n="2"> a) {%Heil, Wohlfahrt, Wohlergehen%}; = {#suKa, kzema#} 
-u.s.w. <ls>AK. 1, 1, 4, 3.</ls> <ls>TRIK. 1, 1, 113. 3, 3, 423.</ls> <ls>H. 86.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1, 122.</ls> {#Si\vaM pra\jAyE^ Si\vama^stu\ mahya^m#} 
-<ls>TBR. 3, 1, 2, 3.</ls> {#upapannaM nanu SivaM saptasvaNgezu yasya me#} 
-<ls>RAGH. 1, 60.</ls> {#rAjYaH SivaM BUyAt#} 
-<ls>14, 50.</ls> {#jYAnaM yatra SivaM tatra#} 
-<ls>Spr. (II) 2449. 4479.</ls> 
-<ls>VARĀH. BṚH. S. 4, 8. 5, 31. 23, 10. 24, 21. 32, 29.</ls> {#kftaGnAnAM SivaM kutaH#} 
-<ls>KATHĀS. 3, 44. 41, 57. 50, 116.</ls> 
-<ls>MĀRK. P. 118, 14. 19.</ls> 
-<ls>BHĀG. P. 5, 13, 23. 6, 18, 58.</ls> {#SarkarAkaRwakAdiByo yaTopAnatpadaH Sivam#} 
-<ls>7, 15, 17.</ls> {#api SivaM BavataH#} 
-<ls>PAÑCAT. 16, 5. 38, 6. fgg.</ls> {#SivamASaMsa me paTi#} 
-<ls>MBH. 1, 3270.</ls> {#SivaM cASAstame#} 
-<ls>3, 12071.</ls> {#SivamicCanmanuzyARAm#} 
-<ls>7, 9622.</ls> <ls>BHĀG. P. 5, 18, 9.</ls> {#°vfdDyarTam#} 
-<ls>R. GORR. 2, 17, 13.</ls> {#°da#} 
-<ls>VARĀH. BṚH. S. 11, 38.</ls> {#°suBikzakara#} 
-<ls>34, 4.</ls> {#SivAya #}
+<div n="2">— m) = {#kfzRaDustUra#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— n) {%Quecksilber%} (vgl. {#SivabIja#})
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— o) Bez. {%einer best. Glück verheissenden Constellation%}
+<ls>TRIK. 3,3,422.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>KOṢṬHĪPR.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— p) Bez. eines best. Krankheitsdämons, neben {#aSiva#}
+<ls>HARIV. 9560.</ls>
+<div n="2">— q) pl. N. pr. einer Klasse von Göttern im 3ten <is>Manvantara</is>
+<ls>VP. 261.</ls>
+<ls>MĀRK. P. 73,3.</ls>
+<div n="2">— r) N. pr. eines Sohnes des <is>Medhātithi</is>
+<ls>MĀRK. P. 53,29. fg.</ls> des <is>Idhmajihva</is>
+<ls>BHĀG. P. 5,20,2.</ls> <ls n="BHĀG. P. 5,20,">3.</ls> N. pr. eines Fürsten
+<ls>HALL. 181.</ls> eines Gauners
+<ls>KATHĀS. 24,82. fgg.</ls> eines Autors
+<ls>Verz. d. B. H. No. 878.</ls>
+<ls>Notices of Skt. Mss. 118.</ls>
+<div n="2">— s) = {#Sukra#} m., {#kAlaH#} und {#vasu#}
+m. <ls>NĀNĀRTHADHVANIM.</ls> in <ls>Verz. d. Oxf. H. 194,a,No. 445.</ls>
+<div n="1">— 3) <lex>f.</lex> {#SivA#}
+<div n="2"> a) <is>Śiva's</is> {%Energie%}, personif. als {%seine Gattin%}
+<ls>AK. 1,1,1,32.</ls> <ls n="AK.">3,4,27,214.</ls>
+<ls>H. 204.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>VAIJ.</ls> bei <ls>MALLIN.</ls> zu <ls>KIR. 1,38</ls> ({#umeti#} st. {#uBeti#} nach
+<ls>STENZLER</ls> zu lesen).
+<ls>Spr. (II) 5033, v. l.</ls>
+<ls>KATHĀS. 78,92.</ls> <ls>Verz. d. Oxf. H. 19,a,5.</ls>
+<ls n="Verz. d. Oxf. H.">25,a,33.</ls>
+<ls n="Verz. d. Oxf. H.">81,a,41.</ls>
+Inschr. in <ls>Journ. of the Am. Or. S. 6,506, Śl. 23.</ls> Gattin <is>Śiva's</is> in seiner Form als <is>Īśāna</is>
+<ls>VP. 59.</ls> bei den Buddhisten
+<ls>TRIK. 1,1,18.</ls> <ls>WILSON, Sel. Works 2,38.</ls>
+<div n="2">— b) {%Schakal%} (ein Unglück verheissendes Thier, also euphemistisch so genannt)
+<ls>AK. 2,5,5.</ls> <ls n="AK.">3,4,27,214.</ls> <ls>H. 1289.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 172.</ls> <ls>HALĀY. 2,74.</ls> <ls>VAIJ.</ls> <ls>PĀR. GṚHY. 3,15.</ls> <ls>MBH. 1,4512.</ls> <ls n="MBH.">3,16823.</ls> <ls>HARIV. 4260.</ls> <ls>R. 3,29,6.</ls> <ls n="R.">6,75,35.</ls> <ls>RAGH. 7,47.</ls> <ls n="RAGH.">11,61.</ls> <ls n="RAGH.">12,39.</ls> <ls>KIR. 1,38.</ls> <ls>VARĀH. BṚH. S. 30,30. 86,37. 90,3. fgg.</ls> <ls>KATHĀS. 25,135.</ls> <ls n="KATHĀS.">121,160.</ls> <ls n="KATHĀS.">124,108.</ls> <ls>MĀRK. P. 43,21.</ls> <ls>BHĀG. P. 1,6,14.</ls> <ls n="BHĀG. P. 1,">14,12.</ls> <ls n="BHĀG. P.">3,17,9.</ls> <ls n="BHĀG. P.">5,2,16.</ls> <ls n="BHĀG. P.">8,10,11.</ls> <ls>Verz. d. Oxf. H. 51,b,16. 86,b,40.</ls>
+<div n="2">— c) Bez. verschiedener Pflanzen: = {#SamI#}
+<ls>AK. 2,4,2,32.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> ({#sakftPalA#} fehlerhaft für {#saktuPalA#}). {%Terminalia Chebula%} oder {%citrina%}
+<ls>AK. 2,4,2,40.</ls>
+<ls>TRIK. 3,3,423.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>RATNAM. 89.</ls> {%Emblica officinalis Gaertn.%}
+<ls>AK. 2,4,4,15.</ls>
+<ls>TRIK.</ls>
+<ls>H. 1145.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HĀR. 92.</ls>
+<ls>HALĀY. 2,463.</ls>
+<ls>RATNAM. 90.</ls> {%Jasminum auriculatum Vahl.%}
+<ls>H. an.</ls> <ls>MED.</ls> <ls>VIŚVA</ls> bei <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 1,153.</ls> = {#SyAmA#}
+<ls>TRIK.</ls> = {#haridrA#} und {#dUrvA#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> —
+<ls>VARĀH. BṚH. S. 48,40.</ls>
+<div n="2">— d) {%die Wurzel von Piper longum Lin.%}
+<ls>RATNAM. 99.</ls>
+<div n="2">— e) {%ein best. gelbes Pigment%}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— f) {%ein best Metrum: 2 Mal%} ⏑ – ⏑ – – ⏑ ⏑ – ⏑ – –, – – ⏑ – – ⏑ ⏑ – ⏑ – –
+<ls>Journ. of the Am. Or. S. 6,514.</ls>
+<div n="2">— g) N. pr. der Gattin des <is>Anila</is>
+<ls>MBH. 1,2589.</ls>
+<ls>HARIV. 156.</ls> des <is>Aṅgiras</is>
+<ls>MBH. 3,14209. fgg.</ls> einer Brahmanin
+<ls n="MBH.">5,3796</ls> (die Lesart der <ls>ed. Bomb.</ls> s. u. 2) {%c%}). der Mutter <is>Nemi's</is>, des 22ten <is>Arhant's</is> der gegenwärtigen <is>Avasarpiṇī</is>
+<ls>H. 40.</ls> der Mutter <is>Rudrabhaṭṭa's</is>
+<ls>Verz. d. Oxf. H. 318,a, N. 1</ls> (vgl. u. {#ciraja#} in den Nachträgen).
+<div n="2">— h) N. pr. eines Flusses
+<ls>VAIJ. a. a. O.</ls> <ls>MBH. 6,332</ls> (<ls>VP. 183</ls>). <ls>HARIV. 9506.</ls>
+<div n="1">— 4) <lex>f.</lex> {#SivI = SivA#} <is>Śiva's</is> {%Gattin%}
+<ls>H. 204</ls>, Schol.
+<div n="1">— 5) <lex>n.</lex>
+<div n="2"> a) {%Heil, Wohlfahrt, Wohlergehen%}; = {#suKa, kzema#}
+u.s.w. <ls>AK. 1,1,4,3.</ls> <ls>TRIK. 1,1,113.</ls> <ls n="TRIK.">3,3,423.</ls> <ls>H. 86.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1,122.</ls> {#Si\vaM pra\jAyE^ Si\vama^stu\ mahya^m#}
+<ls>TBR. 3,1,2,3.</ls> {#upapannaM nanu SivaM saptasvaNgezu yasya me#}
+<ls>RAGH. 1,60.</ls> {#rAjYaH SivaM BUyAt#}
+<ls n="RAGH.">14,50.</ls> {#jYAnaM yatra SivaM tatra#}
+<ls>Spr. (II) 2449.</ls> <ls n="Spr. (II)">4479.</ls>
+<ls>VARĀH. BṚH. S. 4,8. 5,31. 23,10. 24,21. 32,29.</ls> {#kftaGnAnAM SivaM kutaH#}
+<ls>KATHĀS. 3,44.</ls> <ls n="KATHĀS.">41,57.</ls> <ls n="KATHĀS.">50,116.</ls>
+<ls>MĀRK. P. 118,14. 19.</ls>
+<ls>BHĀG. P. 5,13,23.</ls> <ls n="BHĀG. P.">6,18,58.</ls> {#SarkarAkaRwakAdiByo yaTopAnatpadaH Sivam#}
+<ls n="BHĀG. P.">7,15,17.</ls> {#api SivaM BavataH#}
+<ls>PAÑCAT. 16,5. 38,6. fgg.</ls> {#SivamASaMsa me paTi#}
+<ls>MBH. 1,3270.</ls> {#SivaM cASAstame#}
+<ls n="MBH.">3,12071.</ls> {#SivamicCanmanuzyARAm#}
+<ls n="MBH.">7,9622.</ls> <ls>BHĀG. P. 5,18,9.</ls> {#°vfdDyarTam#}
+<ls>R. GORR. 2,17,13.</ls> {#°da#}
+<ls>VARĀH. BṚH. S. 11,38.</ls> {#°suBikzakara#}
+<ls n="VARĀH. BṚH. S.">34,4.</ls> {#SivAya #}
 [Page7-0203]
-{# gAvaH pUjyantAm#} 
-<ls>HARIV. 3850.</ls> 
-<ls>MĀLATĪM. 160, 14.</ls> <ls>KATHĀS. 28, 47.</ls> {#BavatAM na SivAya tat#} 
-<ls>45, 19.</ls> <ls>BHĀG. P. 1, 4, 11. fg.</ls> <ls>VARĀH. BṚH. S. 4, 30. 22, 3. 30, 10. 29.</ls> {#sasyAnAM nASAya SivAya vA#} 
-<ls>40, 12. 46, 85.</ls> {#SivAya gamyatAM#} so v. a. {%reise glücklich%} 
-<ls>R. 3, 12, 16.</ls> {#A ga^taM Si\vena^#} {%glücklich%} 
-<ls>ṚV. 7, 73, 4.</ls> 
-<ls>MBH. 3, 16901.</ls> 
-<ls>R. 2, 52, 81.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 79, 11. 3, 5, 22. 70, 21. 5, 92, 7.</ls> {#kzayo 'sya vanavAsasya Bavizyati Sivena me#} {%zu meinem Glück%} 
-<ls>?2, 38, 42 (GORR.).</ls> {#Sivenekzasva mAm#} so v. a. {%mit Glück bringendem Auge%} 
-<ls>6, 104, 35.</ls> {#Sive/Bis#} als adv. 
-<ls>VS. 27, 7.</ls> {#a°#} (s. auch bes.) <lex>n.</lex> {%Unheil, Unglück%} 
-<ls>MBH. 1, 4512.</ls> 
-<ls>KATHĀS. 116, 3.</ls> {#Siva = mokza#} {%Erlösung%} 
-<ls>H. 74.</ls> 
-<ls>H. an.</ls> 
-<div n="2">— b) {%Wasser%} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— c) Bez. verschiedener {%Glück bringender Dinge%}: = {#sEnDava, samudralavaRa#} und {#SvetawaNkaRa#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#Amalaka, tAra#} n., {#candana, loha#} und {#tagara#} 
-<ls>AUSH. 96.</ls> 
-<div n="2">— d) N. pr. des Hauses, in dem die <is>Pāṇḍava</is> verbrannt werden sollten, 
-<ls>MBH. 1, 5778.</ls> 
-<div n="2">— e) N. pr. eines <is>Varṣa</is> in <is>Plakṣadvīpa</is> 
-<ls>MĀRK. P. 53, 30.</ls> in <is>Jambudvīpa</is> 
-<ls>BHĀG. P. 5, 20, 3.</ls> 
-<div n="2">— f) N. eines <is>Purāṇa</is>, = {#SivapurARa, SEva#} 
-<ls>Verz. d. Oxf. H. 80,a,4.</ls> 
+{# gAvaH pUjyantAm#}
+<ls>HARIV. 3850.</ls>
+<ls>MĀLATĪM. 160,14.</ls> <ls>KATHĀS. 28,47.</ls> {#BavatAM na SivAya tat#}
+<ls n="KATHĀS.">45,19.</ls> <ls>BHĀG. P. 1,4,11. fg.</ls> <ls>VARĀH. BṚH. S. 4,30. 22,3. 30,10. 29.</ls> {#sasyAnAM nASAya SivAya vA#}
+<ls n="VARĀH. BṚH. S.">40,12. 46,85.</ls> {#SivAya gamyatAM#} so v. a. {%reise glücklich%}
+<ls>R. 3,12,16.</ls> {#A ga^taM Si\vena^#} {%glücklich%}
+<ls>ṚV. 7,73,4.</ls>
+<ls>MBH. 3,16901.</ls>
+<ls>R. 2,52,81.</ls>
+<ls>R. GORR. 1,79,11.</ls> <ls n="R. GORR.">3,5,22.</ls> <ls n="R. GORR. 3,">70,21.</ls> <ls n="R. GORR.">5,92,7.</ls> {#kzayo 'sya vanavAsasya Bavizyati Sivena me#} {%zu meinem Glück%}
+<ls n="R. GORR.">2,38,42</ls> (<ls>GORR.</ls>). {#Sivenekzasva mAm#} so v. a. {%mit Glück bringendem Auge%}
+<ls n="R. GORR.">6,104,35.</ls> {#Sive/Bis#} als adv.
+<ls>VS. 27,7.</ls> {#a°#} (s. auch bes.) <lex>n.</lex> {%Unheil, Unglück%}
+<ls>MBH. 1,4512.</ls>
+<ls>KATHĀS. 116,3.</ls> {#Siva = mokza#} {%Erlösung%}
+<ls>H. 74.</ls>
+<ls>H. an.</ls>
+<div n="2">— b) {%Wasser%}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— c) Bez. verschiedener {%Glück bringender Dinge%}: = {#sEnDava, samudralavaRa#} und {#SvetawaNkaRa#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#Amalaka, tAra#} n., {#candana, loha#} und {#tagara#}
+<ls>AUSH. 96.</ls>
+<div n="2">— d) N. pr. des Hauses, in dem die <is>Pāṇḍava</is> verbrannt werden sollten,
+<ls>MBH. 1,5778.</ls>
+<div n="2">— e) N. pr. eines <is>Varṣa</is> in <is>Plakṣadvīpa</is>
+<ls>MĀRK. P. 53,30.</ls> in <is>Jambudvīpa</is>
+<ls>BHĀG. P. 5,20,3.</ls>
+<div n="2">— f) N. eines <is>Purāṇa</is>, = {#SivapurARa, SEva#}
+<ls>Verz. d. Oxf. H. 80,a,4.</ls>
 <div n="v">— Vgl. {#a°, Bawwa°, mahA°, vAma°, SIta°, sadA°#} und {#SEva#}.
 <LEND>

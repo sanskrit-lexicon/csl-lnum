@@ -1,10 +1,9 @@
-<L>41598<pc>2252-1<k1>janezwa<k2>*janezwa<e>100
-{#*janezwa#}¦
-<div n="1">— 1) <lex>m.</lex> {%eine Art Jasmin%} <ls>RĀJAN.10,79.</ls>
-<div n="1">— 2) <lex>f.</lex> {#A#}
-<div n="2">— a) {%Gelbwurz%} <ls>RĀJAN.6,198.</ls>
-<div n="2">— b) = {#jatuka#} 2)
-<div n="2">— b) <ls>RĀJAN.3,114.</ls>
-<div n="2">— c) {%ein best. Heilmittel%} ( {#vfdDi#}) <ls>RĀJAN.5,29.</ls>
-<div n="2">— d) {%die Blüthe von <bot>Jasminum grandiflorum</bot>%} <ls>RĀJAN.10,76.</ls>
+<L>41598<pc>2-252-a<k1>janezwa<k2>*janezwa
+*{#janezwa#}¦
+<div n="1">— 1〉 <lex>m.</lex> {%eine Art Jasmin%} <ls>RĀJAN. 10,79</ls>.
+<div n="1">— 2〉 <lex>f.</lex> {#A#}
+<div n="2">— a〉 {%Gelbwurz%} <ls>RĀJAN. 6,198</ls>.
+<div n="2">— b〉 = {#jatuka#} 2〉b〉 <ls>RĀJAN. 3,114</ls>.
+<div n="2">— c〉 {%ein <ab>best.</ab> Heilmittel%} ({#vfdDi#}) <ls>RĀJAN. 5,29</ls>.
+<div n="2">— d〉 {%die Blüthe von <bot>Jasminum grandiflorum</bot>%} <ls>RĀJAN. 10,76</ls>.
 <LEND>

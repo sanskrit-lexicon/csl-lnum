@@ -1,8 +1,8 @@
 <L>101209<pc>7-0319<k1>SOdra<k2>SO/dra
-{#SO/dra#}¦ (von {#SUdra#}) <lex>adj.</lex> {%einem%} <is>Śūdra</is> {%eigen, ihm gehörig u.s.w.%} 
-<ls>AIT. BR. 7, 17.</ls> {#varRa#} 
-<ls>8, 4.</ls> <ls>ŚAT. BR. 6, 4, 4, 9. 14, 4, 2, 25.</ls> {#karman#} 
-<ls>MBH. 12, 2348. 13, 2148.</ls> {#anna#} 
-<ls>6213.</ls> {%von einer%} <is>Śūdrā</is> {%geboren%} 
-<ls>M. 9, 160.</ls>
+{#SO/dra#}¦ (von {#SUdra#}) <lex>adj.</lex> {%einem%} <is>Śūdra</is> {%eigen, ihm gehörig u.s.w.%}
+<ls>AIT. BR. 7,17.</ls> {#varRa#}
+<ls n="AIT. BR.">8,4.</ls> <ls>ŚAT. BR. 6,4,4,9.</ls> <ls n="ŚAT. BR.">14,4,2,25.</ls> {#karman#}
+<ls>MBH. 12,2348.</ls> <ls n="MBH.">13,2148.</ls> {#anna#}
+<ls n="MBH. 13,">6213.</ls> {%von einer%} <is>Śūdrā</is> {%geboren%}
+<ls>M. 9,160.</ls>
 <LEND>

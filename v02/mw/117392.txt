@@ -1,6 +1,6 @@
-<L>117392<pc>593,3<k1>parici<k2>pari-ci<h>a<e>1
-<hom>a.</hom> <s>pari-</s>√ <hom>1.</hom> <s>ci</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-cinoti</s>, <s>°nute</s>, to pile up, <ls>ŚBr.</ls>;
-<div n="to"/>to surround or enclose with (<ab>instr.</ab>), Sulb.;
+<L>117392<pc>593,3<k1>parici<k2>pari-ci<e>1
+ <s>pari-</s>√ <hom>1.</hom> <s>ci</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-cinoti</s>, <s>°nute</s>, to pile up, <ls>ŚBr.</ls>;
+<div n="to"/>to surround or enclose with (<ab>instr.</ab>), <ls>Śulb.</ls>;
 <div n="to"/>to heap up, accumulate, augment, increase, <ls>RV.</ls> &c. &c.:
-<div n="to"/><ab>Pass.</ab> <s>-cIyate</s>, to be increased or augmented, to grow, <ls>Ragh. 1.</ls><info verb="pre" cp="PĀ" parse="pari+ci"/>
+<div n="vp"/><ab>Pass.</ab> <s>-cIyate</s>, to be increased or augmented, to grow, <ls>Ragh. 1.</ls><info verb="pre" cp="PĀ" parse="pari+ci"/><info hui="a"/>
 <LEND>

@@ -1,5 +1,5 @@
 <L>9341<pc>296<k1>frailness<k2>frailness
-<div n="lb"/>{@FRAILNESS,@}¦ {@FRAILTY:@} <div n="I">I Fragility: {#BaNguratA.#} </div><div n="I">II
-<div n="lb"/>Weakness; {#durbalatA.#} </div><div n="I">III Fickleness: {#anityatA.#}</div>
-<div n="lb"/><div n="I">IV Fault, foible: q.v.</div>
+{@FRAILNESS,@}¦ {@FRAILTY:@} <div n="I">I Fragility: {#BaNguratA.#} </div><div n="I">II
+Weakness; {#durbalatA.#} </div><div n="I">III Fickleness: {#anityatA.#}</div>
+<div n="I">IV Fault, foible: q.v.</div>
 <LEND>

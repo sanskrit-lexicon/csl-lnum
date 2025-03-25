@@ -1,164 +1,163 @@
 <L>23670<pc>2-0850<k1>graha<k2>gra/ha
-{#gra/ha#}¦ (von {#grah#}) 
-<ls>P. 3, 3, 58.</ls> <is>gaṇa</is> {#vfzAdi#} zu 
-<ls>6, 1, 203.</ls> 
-<div n="1"> 1) <lex>adj.</lex> am Ende eines comp. 
-<ls>P. 3, 2, 9, <is>Vārtt</is>.</ls> 
-<div n="2"> a) {%ergreifend, anfassend, haltend%}: {#tatpadagrahAvapatatAm#} 
-<ls>BHĀG. P. 3, 15, 35.</ls> Vgl. {#aNkuSagraha, Danurgraha#} u. s. w. 
-<div n="2">— b) {%einsammelnd, zusammenscharrend%}: {#yUyaM PalagrahAH#} 
-<ls>BHĀG. P. 8, 6, 23.</ls> {#vitta°, Samala°#} 
-<ls>5, 26, 36.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) nom. ag. {%Ergreifer%} u. s. w.: 
-<div n="3"> α) von den Mächten, welche vorübergehend Sonne und Mond {%angreifen%} in den Eklipsen; insbes. von <is>Rāhu</is>; dann heissen auch überhaupt die {%Planeten%} so, weil sie den Menschen magisch {%ergreifen.%} 
-<ls>AK. 3, 4, 31, 238.</ls> 
-<ls>H. 107.</ls> 
-<ls>H. an. 2, 597.</ls> 
-<ls>MED. h. 3.</ls> {#mahadByAmiva saMSlizwO grahAByAM candraBAskarO#} 
-<ls>R. 5, 73, 48.</ls> {#SaSidivAkarayorgrahapIqanam#} 
-<ls>BHARTṚ. 2, 87.</ls> {#grahakaluzendu#} 
-<ls>MĀLAV. 74.</ls> 
-<ls>RAGH. 12, 28.</ls> {#aByaDAvata saMkrudDaH Ke graho rohiRImiva#} 
-<ls>R. 6, 72, 43. 59.</ls> {#citrAmiva grahagrastAm#} 
-<ls>5, 18, 14.</ls> {#nakzatragrahapIqanAt#} 
-<ls>73, 58.</ls> {#siMhikA grahamAtA#} 
-<ls>HARIV. 11553.</ls> {#nakzatrARi grahAstaTA#} 
-<ls>M. 1, 24. 7, 121.</ls> {#candrAdityO grahAstArA nakzatrARi#} 
-<ls>MBH. 1, 7677.</ls> 
-<ls>R. 3, 5, 4. 10.</ls> 
-<ls>SUŚR. 1, 21, 16. 118, 21.</ls> {#grahA na viparItAstu#} 
-<ls>MBH. 3, 2555.</ls> {#Sukro grahaH#} 
-<ls>1, 2606.</ls> {#Sveto grahaH#} 
-<ls>5, 1376. 6, 79. 83.</ls> <ls>HARIV. 11123.</ls> {#lohitANga iva grahaH#} 
-<ls>R. 3, 31, 5.</ls> {#kzIRapuRya iva grahaH#} 
-<ls>MBH. 3, 842.</ls> Bald werden {%fünf%} (Mars, Mercur, Jupiter, Venus u. Saturn), bald {%sieben%} (die vorigen nebst <is>Rāhu</is> u. <is>Ketu</is>, dem {%auf%}- und {%niedersteigenden Knoten%}), bald {%neun Planeten%} (die vorigen nebst Sonne und Mond) erwähnt. {#rAkzasaM dudruvuH saMKye grahAH paYca raviM yaTA#} 
-<ls>MBH. 6, 4566.</ls> {#(pIqitaH) yaTA yugakzaye Gore candramAH paYcaBirgrahEH#} 
-<ls>4567.</ls> {#grahEstataH paYcaBiruccasaMSrayErasUryagEH sUcitaBAgyasaMpadam (putram)#} 
-<ls>RAGH. 3, 13.</ls> 
-<ls>R. 1, 19, 2.</ls> 
-<ls>VARĀH. BṚH.  S. 1, 10. 17, 2. 8. fgg.</ls>
+{#gra/ha#}¦ (von {#grah#})
+<ls>P. 3,3,58.</ls> <is>gaṇa</is> {#vfzAdi#} zu
+<ls n="P.">6,1,203.</ls>
+<div n="1"> 1) <lex>adj.</lex> am Ende eines comp.
+<ls>P. 3,2,9</ls>, <is>Vārtt</is>.
+<div n="2"> a) {%ergreifend, anfassend, haltend%}: {#tatpadagrahAvapatatAm#}
+<ls>BHĀG. P. 3,15,35.</ls> Vgl. {#aNkuSagraha, Danurgraha#} u. s. w.
+<div n="2">— b) {%einsammelnd, zusammenscharrend%}: {#yUyaM PalagrahAH#}
+<ls>BHĀG. P. 8,6,23.</ls> {#vitta°, Samala°#}
+<ls n="BHĀG. P.">5,26,36.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) nom. ag. {%Ergreifer%} u. s. w.:
+<div n="3"> α) von den Mächten, welche vorübergehend Sonne und Mond {%angreifen%} in den Eklipsen; insbes. von <is>Rāhu</is>; dann heissen auch überhaupt die {%Planeten%} so, weil sie den Menschen magisch {%ergreifen.%}
+<ls>AK. 3,4,31,238.</ls>
+<ls>H. 107.</ls>
+<ls>H. an. 2,597.</ls>
+<ls>MED. h. 3.</ls> {#mahadByAmiva saMSlizwO grahAByAM candraBAskarO#}
+<ls>R. 5,73,48.</ls> {#SaSidivAkarayorgrahapIqanam#}
+<ls>BHARTṚ. 2,87.</ls> {#grahakaluzendu#}
+<ls>MĀLAV. 74.</ls>
+<ls>RAGH. 12,28.</ls> {#aByaDAvata saMkrudDaH Ke graho rohiRImiva#}
+<ls>R. 6,72,43.</ls> <ls n="R. 6,72,">59</ls> {#citrAmiva grahagrastAm#}
+<ls n="R.">5,18,14.</ls> {#nakzatragrahapIqanAt#}
+<ls n="R. 6,">73,58.</ls> {#siMhikA grahamAtA#}
+<ls>HARIV. 11553.</ls> {#nakzatrARi grahAstaTA#}
+<ls>M. 1,24.</ls> <ls n="M.">7,121.</ls> {#candrAdityO grahAstArA nakzatrARi#}
+<ls>MBH. 1,7677.</ls>
+<ls>R. 3,5,4.</ls> <ls n="R. 3,5,">10</ls>
+<ls>SUŚR. 1,21,16. 118,21.</ls> {#grahA na viparItAstu#}
+<ls>MBH. 3,2555.</ls> {#Sukro grahaH#}
+<ls n="MBH.">1,2606.</ls> {#Sveto grahaH#}
+<ls n="MBH.">5,1376.</ls> <ls n="MBH.">6,79.</ls> <ls n="MBH. 6,">83.</ls> <ls>HARIV. 11123.</ls> {#lohitANga iva grahaH#}
+<ls>R. 3,31,5.</ls> {#kzIRapuRya iva grahaH#}
+<ls>MBH. 3,842.</ls> Bald werden {%fünf%} (Mars, Mercur, Jupiter, Venus u. Saturn), bald {%sieben%} (die vorigen nebst <is>Rāhu</is> u. <is>Ketu</is>, dem {%auf%}- und {%niedersteigenden Knoten%}), bald {%neun Planeten%} (die vorigen nebst Sonne und Mond) erwähnt. {#rAkzasaM dudruvuH saMKye grahAH paYca raviM yaTA#}
+<ls>MBH. 6,4566.</ls> {#(pIqitaH) yaTA yugakzaye Gore candramAH paYcaBirgrahEH#}
+<ls n="MBH. 6,">4567.</ls> {#grahEstataH paYcaBiruccasaMSrayErasUryagEH sUcitaBAgyasaMpadam (putram)#}
+<ls>RAGH. 3,13.</ls>
+<ls>R. 1,19,2.</ls>
+<ls>VARĀH. BṚH. S. 1,10.</ls> <ls n="VARĀH. BṚH. S.">17,2.</ls> <ls n="VARĀH. BṚH. S. 17,">8. fgg.</ls>
 [Page2-0851]
-
-<ls>18, 1. 7. fgg.</ls> 
-<ls>20, 1. fgg.</ls> {#te 'pIqayanBImamenam - prajAsaMharaRe rAjansomaM sapta grahA iva#} 
-<ls>MBH. 7, 5636.</ls> 
-<ls>VID. 62.</ls> {%neun Planeten%} 
-<ls>YĀJÑ. 1, 295.</ls> 
-<ls>MBH. 4, 48.</ls> 
-<ls>VARĀH. BṚH. S. 24, 6. 46,</ls> <ls>6(7). 47, 6. 29.</ls> Daher zur Bezeichnung der {%Zahl neun%} gebraucht 
-<ls>ŚRUT. 35. 41.</ls> {#grahARAM sUrya ucyate#} 
-<ls>MBH. 13, 913.</ls> {#sUryo grahARAmaDipaH#} 
-<ls>14, 1175.</ls> Schon 
-<ls>ŚAT. BR. 4, 6, 5, 1. 5</ls> wird die {%Sonne%} {#graha#} genannt, aber wohl nicht als {%Planet%}, sondern als {%ein Wesen, welches dämonischen Einfluss auf andere Wesen ausübt%}; vgl.
-<lang n="greek">β.</lang> Die {%Planeten%} werden in {%günstige%} (☿ , ♃ , ♀ , ☾), {#SuBagrahAH#} oder {#sadgrahAH#}, und in {%ungünstige%} (♂ ,  ♄ , ☉ , ☊ , ☋), {#krUragrahAH#} oder {#pApagrahAH#} eingetheilt, 
-<ls>VARĀH. BṚH. S. 16,40.</ls> <ls>39(38),2. 27,c,21. 21,31. 27,a,11. 39(38),8.</ls> Im System der <is>Jaina</is> bilden die {%Planeten%} eine der 5 Arten der <is>Jyotiṣka</is> 
-<ls>H. 92.</ls> {#grahAgamakutUhala#} Titel einer Schrift 
-<ls>Verz. d. B. H. No. 844.</ls> {#grahADizWApana#} desgl. 
-<ls>1253.</ls> {#grahakOtuka#} 
-<ls>Ind. St. 2, 253.</ls> {#grahajYABaraRa#} 
-<ls>252.</ls> 
-<div n="3">— β) von Geistern, welche auf die leibliche und geistige Gesundheit der Menschen schädlich wirken, Tobsucht u. s. w. hervorbringen. Die Heilkunde beschäftigt sich mit denselben und nimmt insbes. neunerlei (nach der Zahl der Planeten) Dämonen an, durch welche Kinder besessen werden. 
-<ls>SUŚR. 2, 382, 4. fgg.</ls> 
-<ls>393, 19.</ls> {#navagrahAkftijYAna#} 
-<ls>1, 11, 6. 9.</ls> {#duzwagraha#} 
-<ls>88, 9. 181, 15. 375, 4.</ls> {#asaMKyeyA grahagaRA grahADipatayastu ye#} 
-<ls>2, 531. 19.</ls> <ls>MBH. 3, 14479. fgg.</ls> {#UrDvaM tu zoqaSAdvarzAdye Bavanti grahA nfRAm . tAnahaM saMpravakzyAmi#} 
-<ls>14500. fgg.</ls> {#kaScitkrIqitukAmo vE BoktukAmastaTAparaH . aBikAmastaTEvAnya ityeza triviDo grahaH ..#} 
-<ls>14510.</ls> Vgl. {#ganDarva°, deva°, pitf°, bAla°, yakza°, rAkzasa°, sidDa°, skanDa°#}. 
-<ls>LALIT. 206.</ls> {#duzwagrahagfhIta#} 
-<ls>PAÑCAT. 43, 7.</ls> {#graha ivArTamaBirakzati#} 
-<ls>BHĀG. P. 5, 26, 36.</ls> {#digvAsA grahavat#} 
-<ls>7, 13, 41.</ls> {#grahagfhIta#} 
-<ls>5, 5, 31.</ls> {#grahagrasta#} 
-<ls>DAŚAK. 119, 9.</ls> Eine Gottheit, ein Gemüthszustand, welcher den ganzen Menschen {%magisch ergreift%}, wird auch öfters {#graha#} genannt: {#kfzRagrahagfhItAtman#} 
-<ls>BHĀG. P. 7, 4, 37.</ls> {#kAmagrahagrasta#} 
-<ls>9, 19, 6.</ls> <ls>BRAHMA-P. 58, 10.</ls> {#ASAgrahagrasta#} 
-<ls>HIT. II, 22.</ls> {#graha = pUtanAdi#} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="3">— γ) {%Krokodil%} oder {%Haifisch%}: {#nadI nEkagrahAkIrRA#} 
-<ls>R. 4, 44, 47.</ls> {#varuRAvAsaM caRqanakragraham#} 
-<ls>5, 74, 28. 30.</ls> {#yena gajendro mocito grahAt#} 
-<ls>BHĀG. P. 8, 1, 30.</ls> {#kAlapASagrahAM BImAM nadIM vEtaraRImiva#} 
-<ls>MBH. 16, 142.</ls> Vgl. {#grAha#}. 
-<div n="3">— δ) = {#gfha#} ({%in sich aufnehmend) Haus%} in {#agraha, Kara°, °druma, °pati#}. 
-<div n="2">— b) {%das Ergriffene%} u. s. w.: 
-<div n="3"> α) {%Beute%} 
-<ls>MBH. 3, 11461.</ls> {#Syeno grahAluYcane#} 
-<ls>MṚCCH. 50, 15.</ls> 
-<div n="3">— β) {%haustus, das was mit dem in die Flüssigkeit getauchten Gefäss geschöpft wird, ein Bechervoll%}; zuweilen das {%Schöpfgefäss%} selbst. 
-<ls>ŚAT. BR. 4</ls> ({#grahakARqa#}) handelt von den verschiedenen {#graha#} des <is>Soma</is>. Die Reihenfolge derselben ist bei der Frühspende {#(upAMSu antaryAma): EndravAyava, mEtrAvaruRa, ASvina, Sukra, manTin, AgrayaRa, ukTya, Druva, ftugrahAH, EndrAgna, vESvadeva#} (vgl. 
-<ls>VS. 7, 1 - 34</ls>); bei der Mittagsspende kommen hinzu: {#marutvatIya, mAhendra#} (
-<ls>VS. 7, 35 - 40</ls>); bei der dritten Spende: {#Aditya, sAvitra, mahAvESvadeva, pAtnIvata, hAriyojana#} 
-<ls>?(VS. 8, 1 - 11).</ls> {#grahA\nsoma^sya mimate\ dvAda^Sa#} 
-<ls>ṚV. 10, 114, 5.</ls> 
-<ls>VS. 8, 9. 9, 4. 19, 28. 89. 90.</ls> 
-<ls>AIT. BR. 2, 25. 37.</ls> {#a\pAM grahA^ngfhRAti#} 
-<ls>TS. 5, 6, 2, 1.</ls> 
-<ls>ŚAT. BR. 4, 5, 9, 13. 10, 1, 1, 5. 12, 8, 3, 13</ls> und oft. <ls>ĀŚV. ŚR. 5, 14.</ls> <ls>KĀTY. ŚR. 9, 14, 4. 10, 4, 11. 14, 2, 6.</ls> {#somagraha/, surAgraha/#} 
-<ls>ŚAT. BR. 5, 1, 2, 10.</ls> {#maDugraha/#} 
-<ls>19.</ls> {#payograha/#} 
-<ls>12, 7, 3, 12.</ls> <ls>Z. d. d. m. G. IX, LXIII.</ls> {#agfhRAccyavanaH somamaSvinordevayostadA . tamindro vArayAmAsa gfhRAnaM sa tayorgraham ..#} 
-<ls>MBH. 3, 10378. 10383.</ls> {#devA na gfhRanti grahAniha#} 
-<ls>BHĀG. P. 4, 13, 30.</ls> {#grahaM #}
+<ls n="VARĀH. BṚH. S.">18,1.</ls> <ls n="VARĀH. BṚH. S. 18,">7. fgg.</ls>
+<ls n="VARĀH. BṚH. S.">20,1. fgg.</ls> {#te 'pIqayanBImamenam — prajAsaMharaRe rAjansomaM sapta grahA iva#}
+<ls>MBH. 7,5636.</ls>
+<ls>VID. 62.</ls> {%neun Planeten%}
+<ls>YĀJÑ. 1,295.</ls>
+<ls>MBH. 4,48.</ls>
+<ls>VARĀH. BṚH. S. 24,6. 46</ls>, <ls n="VARĀH. BṚH. S.">6(7). 47,6. 29.</ls> Daher zur Bezeichnung der {%Zahl neun%} gebraucht
+<ls>ŚRUT. 35. 41.</ls> {#grahARAM sUrya ucyate#}
+<ls>MBH. 13,913.</ls> {#sUryo grahARAmaDipaH#}
+<ls n="MBH.">14,1175.</ls> Schon
+<ls>ŚAT. BR. 4,6,5,1. 5</ls> wird die {%Sonne%} {#graha#} genannt, aber wohl nicht als {%Planet%}, sondern als {%ein Wesen, welches dämonischen Einfluss auf andere Wesen ausübt%}; vgl. β.
+Die {%Planeten%} werden in {%günstige%} (☿ , ♃ , ♀ , ☾), {#SuBagrahAH#} oder {#sadgrahAH#}, und in {%ungünstige%} (♂ , ♄ , ☉ , ☊ , ☋), {#krUragrahAH#} oder {#pApagrahAH#} eingetheilt,
+<ls>VARĀH. BṚH. S. 16,40.</ls> <ls n="VARĀH. BṚH. S.">39(38),2. 27,c,21. 21,31. 27,a,11. 39(38),8.</ls> Im System der <is>Jaina</is> bilden die {%Planeten%} eine der 5 Arten der <is>Jyotiṣka</is>
+<ls>H. 92.</ls> {#grahAgamakutUhala#} Titel einer Schrift
+<ls>Verz. d. B. H. No. 844.</ls> {#grahADizWApana#} desgl.
+<ls n="Verz. d. B. H.">1253.</ls> {#grahakOtuka#}
+<ls>Ind. St. 2,253.</ls> {#grahajYABaraRa#}
+<ls n="Ind. St. 2,">252.</ls>
+<div n="3">— β) von Geistern, welche auf die leibliche und geistige Gesundheit der Menschen schädlich wirken, Tobsucht u. s. w. hervorbringen. Die Heilkunde beschäftigt sich mit denselben und nimmt insbes. neunerlei (nach der Zahl der Planeten) Dämonen an, durch welche Kinder besessen werden.
+<ls>SUŚR. 2,382,4. fgg.</ls>
+<ls n="SUŚR.">393,19.</ls> {#navagrahAkftijYAna#}
+<ls n="SUŚR.">1,11,6. 9.</ls> {#duzwagraha#}
+<ls n="SUŚR.">88,9. 181,15. 375,4.</ls> {#asaMKyeyA grahagaRA grahADipatayastu ye#}
+<ls n="SUŚR.">2,531. 19.</ls> <ls>MBH. 3,14479. fgg.</ls> {#UrDvaM tu zoqaSAdvarzAdye Bavanti grahA nfRAm . tAnahaM saMpravakzyAmi#}
+<ls n="MBH. 3,">14500. fgg.</ls> {#kaScitkrIqitukAmo vE BoktukAmastaTAparaH . aBikAmastaTEvAnya ityeza triviDo grahaH ..#}
+<ls n="MBH. 3,">14510.</ls> Vgl. {#ganDarva°, deva°, pitf°, bAla°, yakza°, rAkzasa°, sidDa°, skanDa°#}.
+<ls>LALIT. 206.</ls> {#duzwagrahagfhIta#}
+<ls>PAÑCAT. 43,7.</ls> {#graha ivArTamaBirakzati#}
+<ls>BHĀG. P. 5,26,36.</ls> {#digvAsA grahavat#}
+<ls n="BHĀG. P.">7,13,41.</ls> {#grahagfhIta#}
+<ls n="BHĀG. P.">5,5,31.</ls> {#grahagrasta#}
+<ls>DAŚAK. 119,9.</ls> Eine Gottheit, ein Gemüthszustand, welcher den ganzen Menschen {%magisch ergreift%}, wird auch öfters {#graha#} genannt: {#kfzRagrahagfhItAtman#}
+<ls>BHĀG. P. 7,4,37.</ls> {#kAmagrahagrasta#}
+<ls n="BHĀG. P.">9,19,6.</ls> <ls>BRAHMA-P. 58,10.</ls> {#ASAgrahagrasta#}
+<ls>HIT. II,22.</ls> {#graha = pUtanAdi#}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="3">— γ) {%Krokodil%} oder {%Haifisch%}: {#nadI nEkagrahAkIrRA#}
+<ls>R. 4,44,47.</ls> {#varuRAvAsaM caRqanakragraham#}
+<ls n="R.">5,74,28.</ls> <ls n="R. 5,74,">30.</ls> {#yena gajendro mocito grahAt#}
+<ls>BHĀG. P. 8,1,30.</ls> {#kAlapASagrahAM BImAM nadIM vEtaraRImiva#}
+<ls>MBH. 16,142.</ls> Vgl. {#grAha#}.
+<div n="3">— δ) = {#gfha#} ({%in sich aufnehmend) Haus%} in {#agraha, Kara°, °druma, °pati#}.
+<div n="2">— b) {%das Ergriffene%} u. s. w.:
+<div n="3"> α) {%Beute%}
+<ls>MBH. 3,11461.</ls> {#Syeno grahAluYcane#}
+<ls>MṚCCH. 50,15.</ls>
+<div n="3">— β) {%haustus, das was mit dem in die Flüssigkeit getauchten Gefäss geschöpft wird, ein Bechervoll%}; zuweilen das {%Schöpfgefäss%} selbst.
+<ls>ŚAT. BR. 4</ls> ({#grahakARqa#}) handelt von den verschiedenen {#graha#} des <is>Soma</is>. Die Reihenfolge derselben ist bei der Frühspende {#(upAMSu antaryAma): EndravAyava, mEtrAvaruRa, ASvina, Sukra, manTin, AgrayaRa, ukTya, Druva, ftugrahAH, EndrAgna, vESvadeva#} (vgl.
+<ls>VS. 7,1 — 34</ls>); bei der Mittagsspende kommen hinzu: {#marutvatIya, mAhendra#} (
+<ls>VS. 7,35 — 40</ls>); bei der dritten Spende: {#Aditya, sAvitra, mahAvESvadeva, pAtnIvata, hAriyojana#}
+(<ls>VS. 8,1 — 11).</ls> {#grahA\nsoma^sya mimate\ dvAda^Sa#}
+<ls>ṚV. 10,114,5.</ls>
+<ls>VS. 8,9. 9,4. 19,28. 89. 90.</ls>
+<ls>AIT. BR. 2,25. 37.</ls> {#a\pAM grahA^ngfhRAti#}
+<ls>TS. 5,6,2,1.</ls>
+<ls>ŚAT. BR. 4,5,9,13. 10,1,1,5. 12,8,3,13</ls> und oft. <ls>ĀŚV. ŚR. 5,14.</ls> <ls>KĀTY. ŚR. 9,14,4.</ls> <ls n="KĀTY. ŚR.">10,4,11.</ls> <ls n="KĀTY. ŚR.">14,2,6.</ls> {#somagraha/, surAgraha/#}
+<ls>ŚAT. BR. 5,1,2,10.</ls> {#maDugraha/#}
+<ls n="ŚAT. BR.">19.</ls> {#payograha/#}
+<ls n="ŚAT. BR.">12,7,3,12.</ls> <ls>Z. d. d. m. G. IX, LXIII.</ls> {#agfhRAccyavanaH somamaSvinordevayostadA . tamindro vArayAmAsa gfhRAnaM sa tayorgraham ..#}
+<ls>MBH. 3,10378.</ls> <ls n="MBH. 3,">10383.</ls> {#devA na gfhRanti grahAniha#}
+<ls>BHĀG. P. 4,13,30.</ls> {#grahaM #}
 [Page2-0852]
-{# grahIzye somasya yajYe vAm#} 
-<ls>9, 3, 12. 3, 13, 35.</ls> das {%Schöpfgefäss%} ist gemeint 
-<ls>M. 5, 116.</ls> 
-<ls>YĀJÑ. 1, 182.</ls> 
-<div n="3">— γ) {%die Griffstelle —, die Mitte des Bogens%}: {#jAtarUpagrahaM DanuH#} 
-<ls>MBH. 4, 1351.</ls> {#sugraha#} 
-<ls>1326.</ls> 
-<div n="2">— c) nom. act. 
-<div n="3"> α) {%Griff, das Ergreifen, Packen%} 
-<ls>AK. 3, 3, 8.</ls> 
-<ls>H. 1523.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {#tadannaM loBAtpunargrahItuM grahamakaravam#} 
-<ls>HIT. 32, 5.</ls> {#stana°#} 
-<ls>KAUŚ. 10.</ls> {#kacagrahamanuprAptA sAsmi#} 
-<ls>MBH. 3, 581.</ls> {#kacagrahEH#} 
-<ls>RAGH. 10, 48. 19, 31</ls>; vgl. {#keSagraha#}.{# keSastanADarAdInAM grahe#} 
-<ls>SĀH. D. 55, 17.</ls> 
-<ls>PRAB. 104, 4.</ls> {#mftaH karkawagrahAt (karkawa#} subj.) 
-<ls>PAÑCAT. I, 237.</ls> {#nIragraha#} {%das Schöpfen von Wasser%} 
-<ls>CĀT. 4.</ls> {%das Einfangen%}: {#navagrahamiva dvipam#} 
-<ls>R. 2, 58, 2.</ls> {#aNgagraha#} {%Gliederschmerz (Ergreifen in jenem dämonischen Sinne%}) 
-<ls>SUŚR. 2, 232, 7. 1, 281, 7.</ls> {%das Ergreifen der Sonne und des Mondes, Verfinsterung%} 
-<ls>AK. 1, 1, 3, 9. 3, 4, 31, 238.</ls> 
-<ls>H. 125.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {#SaM no\ grahA^ScAndrama\sAH SamA^di\tyASca^ rA\huRA^#} 
-<ls>AV. 19, 9, 10. 7.</ls> 
-<ls>VARĀH. BṚH. S. 5, 8. 49. 63. 97. 45, 84 (82).</ls> {#rAhu°#} 
-<ls>ŚṚṄGĀRAT. 2.</ls> 
-<div n="3">— β) {%Diebstahl, Raub%}: {#aNgulI granTiBedasya CedayetpraTame grahe#} 
-<ls>M. 9, 277.</ls> {#gograha#} 
-<ls>MBH. 6, 4458.</ls> 
-<div n="3">— γ) {%Entgegennahme, Empfang%}: {#yaTA dAyastaTA grahaH#} 
-<ls>M. 8, 180. 195.</ls> {#punarjanma°#} 
-<ls>ŚṚṄGĀRAT. 2.</ls> 
-<div n="3">— δ) {%Zurückhaltung, Verhaltung%}: {#vAtamUtraSakfdgraha#} 
-<ls>SUŚR. 2, 195, 11.</ls> 
-<div n="3">— ε) {%Erwähnung, Nennung%}: {#nAmajAtigrahaM tvezAmaBidroheRa kurvataH#} 
-<ls>M. 8, 271.</ls> 
-<ls>AMAR. 83.</ls> 
-<ls>RĀJA-TAR. 5, 361.</ls> 
-<div n="3">— ζ) {%Auffassung, Wahrnehmung, Erkenntniss, Verständniss%} 
-<ls>BHĀṢĀP. 58. 60.</ls> {#guRagrahaH#} 
-<ls>BHĀG. P. 2, 10, 21. 22.</ls> {#padArTaBedagrahEH#} 
-<ls>4, 7, 31.</ls> {#vAkyArTagrahaH#} 
-<ls>Sch.</ls> zu <ls>JAIM. 1, 3, 25.</ls> <ls>Sch.</ls> zu <ls>KAP. 1, 104.</ls> {#nfRAM svatvagraho yataH#} {%weil die Menschen es als Eigenthum auffassen%} 
-<ls>BHĀG. P. 7, 14, 11.</ls> Vgl. 
-u. l. {#gfhya#}. 
-<div n="3">— η) {%das Bestehen auf Etwas%}: {#brahmangrahastavAyaM cettatkaromi vacastava#} 
-<ls>KATHĀS. 24, 156</ls> (<ls>BROCKHAUS</ls>: {%Gefallen%}). = {#nirbanDa#} 
-<ls>AK. 3, 4, 31, 238.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> Vgl. {#Agraha#} 
-<ls>KATHĀS. 25, 99.</ls> 
-<div n="3">— θ) {%Kampfanstrengung%}, = {#raRodyama#} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="3">— ι) {%Gunstbezeigung%}, = {#anugraha#} diess. 
+{# grahIzye somasya yajYe vAm#}
+<ls n="BHĀG. P.">9,3,12.</ls> <ls n="BHĀG. P.">3,13,35.</ls> das {%Schöpfgefäss%} ist gemeint
+<ls>M. 5,116.</ls>
+<ls>YĀJÑ. 1,182.</ls>
+<div n="3">— γ) {%die Griffstelle —, die Mitte des Bogens%}: {#jAtarUpagrahaM DanuH#}
+<ls>MBH. 4,1351.</ls> {#sugraha#}
+<ls n="MBH. 4,">1326.</ls>
+<div n="2">— c) nom. act.
+<div n="3"> α) {%Griff, das Ergreifen, Packen%}
+<ls>AK. 3,3,8.</ls>
+<ls>H. 1523.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {#tadannaM loBAtpunargrahItuM grahamakaravam#}
+<ls>HIT. 32,5.</ls> {#stana°#}
+<ls>KAUŚ. 10.</ls> {#kacagrahamanuprAptA sAsmi#}
+<ls>MBH. 3,581.</ls> {#kacagrahEH#}
+<ls>RAGH. 10,48.</ls> <ls n="RAGH.">19,31</ls>; vgl. {#keSagraha#}.{# keSastanADarAdInAM grahe#}
+<ls>SĀH. D. 55,17.</ls>
+<ls>PRAB. 104,4.</ls> {#mftaH karkawagrahAt (karkawa#} subj.)
+<ls>PAÑCAT. I,237.</ls> {#nIragraha#} {%das Schöpfen von Wasser%}
+<ls>CĀT. 4.</ls> {%das Einfangen%}: {#navagrahamiva dvipam#}
+<ls>R. 2,58,2.</ls> {#aNgagraha#} {%Gliederschmerz (Ergreifen in jenem dämonischen Sinne%})
+<ls>SUŚR. 2,232,7.</ls> <ls n="SUŚR.">1,281,7.</ls> {%das Ergreifen der Sonne und des Mondes, Verfinsterung%}
+<ls>AK. 1,1,3,9.</ls> <ls n="AK.">3,4,31,238.</ls>
+<ls>H. 125.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {#SaM no\ grahA^ScAndrama\sAH SamA^di\tyASca^ rA\huRA^#}
+<ls>AV. 19,9,10.</ls> <ls n="AV. 19,9,">7.</ls>
+<ls>VARĀH. BṚH. S. 5,8. 49. 63. 97. 45,84 (82).</ls> {#rAhu°#}
+<ls>ŚṚṄGĀRAT. 2.</ls>
+<div n="3">— β) {%Diebstahl, Raub%}: {#aNgulI granTiBedasya CedayetpraTame grahe#}
+<ls>M. 9,277.</ls> {#gograha#}
+<ls>MBH. 6,4458.</ls>
+<div n="3">— γ) {%Entgegennahme, Empfang%}: {#yaTA dAyastaTA grahaH#}
+<ls>M. 8,180.</ls> <ls n="M. 8,">195.</ls> {#punarjanma°#}
+<ls>ŚṚṄGĀRAT. 2.</ls>
+<div n="3">— δ) {%Zurückhaltung, Verhaltung%}: {#vAtamUtraSakfdgraha#}
+<ls>SUŚR. 2,195,11.</ls>
+<div n="3">— ε) {%Erwähnung, Nennung%}: {#nAmajAtigrahaM tvezAmaBidroheRa kurvataH#}
+<ls>M. 8,271.</ls>
+<ls>AMAR. 83.</ls>
+<ls>RĀJA-TAR. 5,361.</ls>
+<div n="3">— ζ) {%Auffassung, Wahrnehmung, Erkenntniss, Verständniss%}
+<ls>BHĀṢĀP. 58. 60.</ls> {#guRagrahaH#}
+<ls>BHĀG. P. 2,10,21.</ls> <ls n="BHĀG. P. 2,10,">22.</ls> {#padArTaBedagrahEH#}
+<ls n="BHĀG. P.">4,7,31.</ls> {#vAkyArTagrahaH#}
+<ls>Sch.</ls> zu <ls>JAIM. 1,3,25.</ls> <ls>Sch.</ls> zu <ls>KAP. 1,104.</ls> {#nfRAM svatvagraho yataH#} {%weil die Menschen es als Eigenthum auffassen%}
+<ls>BHĀG. P. 7,14,11.</ls> Vgl.
+u. l. {#gfhya#}.
+<div n="3">— η) {%das Bestehen auf Etwas%}: {#brahmangrahastavAyaM cettatkaromi vacastava#}
+<ls>KATHĀS. 24,156</ls> (<ls>BROCKHAUS</ls>: {%Gefallen%}). = {#nirbanDa#}
+<ls>AK. 3,4,31,238.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> Vgl. {#Agraha#}
+<ls>KATHĀS. 25,99.</ls>
+<div n="3">— θ) {%Kampfanstrengung%}, = {#raRodyama#}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="3">— ι) {%Gunstbezeigung%}, = {#anugraha#} diess.
 <div n="v">— Vgl. {#gudagraha, Siro°, hanu°, hfdgraha#}.
 <LEND>

@@ -1,13 +1,13 @@
 <L>2079<pc>072<k1>birth<k2>birth
-<div n="lb"/>{@BIRTH@}¦ (subs): <div n="I">I Coming into life: </div><div n="1">(1) {#janman#}
-<div n="lb"/>(n.) (the best equiv.), <div n="xe">{%blind from b.%}</div> <div n="xs">{#janmAnDaH#}</div>
-<div n="lb"/>({#nDA, nDaM#}); </div><div n="1">(2) {#janyam;#} </div><div n="1">(3) {#jananam;#} </div><div n="1">(4) {#janiH;#}</div>
-<div n="lb"/><div n="1">(5) {#udBavaH;#} </div><div n="1">(6) {#utpattiH;#} </div><div n="1">(7) {#BavaH;#} </div><div n="1">(8) {#samBavaH;#}</div>
-<div n="lb"/><div n="1">(9) {#sUtiH;#} Ph. <div n="xe">{%lordship from b.%}</div> <div n="xs">{#garBeSvaratvam,#}</div> K.</div>
-<div n="lb"/><div n="I">II Lineage, descent: q. v.: </div><div n="1">(1) {#kulam,#} </div><div n="1">(2)
-<div n="lb"/>{#anvayaH;#} Ph. <div n="xe">{%proud of one's b.%}</div> <div n="xs">{#kulABimAnin#}</div> (f.
-<div n="lb"/>{#nI#}), Ki.; <div n="xe">{%of high b.%}</div> <div n="xs">{#aBijanavat#}</div> (f. {#tI#}), Sa iii.
-<div n="lb"/>The act of giving birth: </div><div n="1">(1) {#prasavaH;#} </div><div n="1">(2)
-<div n="lb"/>{#prajananam.#} </div><div n="I">IV That which is born: v.
-<div n="lb"/>Creature.</div>
+{@BIRTH@}¦ (subs): <div n="I">I Coming into life: </div><div n="1">(1) {#janman#}
+(n.) (the best equiv.), <div n="xe">{%blind from b.%}</div> <div n="xs">{#janmAnDaH#}</div>
+({#nDA, nDaM#}); </div><div n="1">(2) {#janyam;#} </div><div n="1">(3) {#jananam;#} </div><div n="1">(4) {#janiH;#}</div>
+<div n="1">(5) {#udBavaH;#} </div><div n="1">(6) {#utpattiH;#} </div><div n="1">(7) {#BavaH;#} </div><div n="1">(8) {#samBavaH;#}</div>
+<div n="1">(9) {#sUtiH;#} Ph. <div n="xe">{%lordship from b.%}</div> <div n="xs">{#garBeSvaratvam,#}</div> K.</div>
+<div n="I">II Lineage, descent: q. v.: </div><div n="1">(1) {#kulam,#} </div><div n="1">(2)
+{#anvayaH;#} Ph. <div n="xe">{%proud of one's b.%}</div> <div n="xs">{#kulABimAnin#}</div> (f.
+{#nI#}), Ki.; <div n="xe">{%of high b.%}</div> <div n="xs">{#aBijanavat#}</div> (f. {#tI#}), Sa iii.
+The act of giving birth: </div><div n="1">(1) {#prasavaH;#} </div><div n="1">(2)
+{#prajananam.#} </div><div n="I">IV That which is born: v.
+Creature.</div>
 <LEND>

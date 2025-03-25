@@ -1,7 +1,7 @@
 <L>20018<pc>623<k1>seated<k2>seated
-<div n="lb"/>{@SEATED:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#AsIna#} (f. {#nA#}), <div n="xe">{%and%}
-<div n="lb"/>{%when all of them had s.:%}</div> <div n="xs">{#sarvAsu cAsInAsu tAsu,#}</div>
-<div n="lb"/><ls>K.</ls> ; </div><div n="1">(2) {#upavizwa#} (f. {#zwA#}), {#sam-;#} </div><div n="1">(3) {#sTa#} (f. {#sTA#})
-<div n="lb"/>in comp., <div n="xe">{%s. in heart:%}</div> <div n="xs">{#hfdayasTa#}</div> (f. {#sTA#}), R. x. 19.</div>
-<div n="lb"/><div n="I">II Rooted: q. v.</div>
+{@SEATED:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#AsIna#} (f. {#nA#}), <div n="xe">{%and%}
+{%when all of them had s.:%}</div> <div n="xs">{#sarvAsu cAsInAsu tAsu,#}</div>
+<ls>K.</ls> ; </div><div n="1">(2) {#upavizwa#} (f. {#zwA#}), {#sam-;#} </div><div n="1">(3) {#sTa#} (f. {#sTA#})
+in comp., <div n="xe">{%s. in heart:%}</div> <div n="xs">{#hfdayasTa#}</div> (f. {#sTA#}), R. x. 19.</div>
+<div n="I">II Rooted: q. v.</div>
 <LEND>

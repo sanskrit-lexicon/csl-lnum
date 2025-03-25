@@ -1,5 +1,5 @@
 <L>3900<pc>127<k1>coal<k2>coal
-<div n="lb"/>{@COAL:@}¦ <div n="1">(1) {#aNgAra,#} (=charcoal); </div><div n="1">(2) {#aNgArASman#}
-<div n="lb"/>(m.) <div n="xe">{%or%}</div> <div n="xs">{#aNgAramfttikA.#}</div> <div n="xe">{%C.-heaver:%}</div> <div n="xs">{#aNgAravAhakaH#}</div> (?).
-<div n="lb"/><div n="xe">{%C.-pit:%}</div> <div n="xs">{#aNgAraBUmiH#}</div> (?).</div>
+{@COAL:@}¦ <div n="1">(1) {#aNgAra,#} (=charcoal); </div><div n="1">(2) {#aNgArASman#}
+(m.) <div n="xe">{%or%}</div> <div n="xs">{#aNgAramfttikA.#}</div> <div n="xe">{%C.-heaver:%}</div> <div n="xs">{#aNgAravAhakaH#}</div> (?).
+<div n="xe">{%C.-pit:%}</div> <div n="xs">{#aNgAraBUmiH#}</div> (?).</div>
 <LEND>

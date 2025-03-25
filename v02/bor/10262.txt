@@ -1,4 +1,4 @@
 <L>10262<pc>324<k1>greatest<k2>greatest
-<div n="lb"/>{@GREATEST:@}¦ in degree: {#paramaH#} ({#mA, maM#}): v.
-<div n="lb"/>Extreme. <div n="xe">{%In the g. degree:%}</div> <div n="xs">{#param:#}</div> v. Extremely.
+{@GREATEST:@}¦ in degree: {#paramaH#} ({#mA, maM#}): v.
+Extreme. <div n="xe">{%In the g. degree:%}</div> <div n="xs">{#param:#}</div> v. Extremely.
 <LEND>

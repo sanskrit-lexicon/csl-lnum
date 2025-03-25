@@ -1,6 +1,6 @@
 <L>11092<pc>267-b<k1>festival<k2>festival
-<div n="lb"/>FESTIVAL¦, {%s.%} {#utsavaH, parvva#} {%n.%} {#(n), parvvAhaH, parvvarIRaM, utsavadinaM, mahaH,#}
-<div n="lb"/>{#mahaH#} {%n.%} {#(s), udDarzaH, yAtrA, udDavaH, kzaRaH, aByudayaH, carcarI;#} ‘great
-<div n="lb"/>festival,’ {#mahotsavaH;#} ‘public festival,’ {#yAtrotsavaH;#} ‘fixed,’
-<div n="lb"/>{#nEScityaM;#} ‘completion of a festival,’ {#parvvapUrRatA#}.
+FESTIVAL¦, {%s.%} {#utsavaH, parvva#} {%n.%} {#(n), parvvAhaH, parvvarIRaM, utsavadinaM, mahaH,#}
+{#mahaH#} {%n.%} {#(s), udDarzaH, yAtrA, udDavaH, kzaRaH, aByudayaH, carcarI;#} ‘great
+festival,’ {#mahotsavaH;#} ‘public festival,’ {#yAtrotsavaH;#} ‘fixed,’
+{#nEScityaM;#} ‘completion of a festival,’ {#parvvapUrRatA#}.
 <LEND>

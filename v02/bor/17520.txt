@@ -1,19 +1,19 @@
 <L>17520<pc>536<k1>practice<k2>practice
-<div n="lb"/>{@PRACTICE@}¦ (subs.): <div n="I">I Customary actions:</div>
-<div n="lb"/><div n="1">(1) {#aByAsaH,#} <div n="xe">{%from great p.:%}</div> <div n="xs">{#atyAByAsAt,#}</div> Mah.
-<div n="lb"/>i. 130. 22. com.; </div><div n="1">(2) {#KuralI#} (military: rare),
-<div n="lb"/><div n="xe">{%who has had p. in the use of arms:%}</div> <div n="xs">{#astraprayoga-#}
-<div n="lb"/>{#KuralI,#}</div> Vi. ii. 34.; </div><div n="1">(3) {#SikzA#} (= learning),
-<div n="lb"/><div n="xe">{%gifted with use and p.:%}</div> <div n="xs">{#prayogaSikzAguRaBUzaRezu,#}</div> Ki.
-<div n="lb"/>xvi. 6.; </div><div n="1">(4) {#anugrahaRam#} (?), Mah. i. 130.
-<div n="lb"/>24. </div><div n="1">(5) {#yogyA#} (medical or military), <div n="xe">{%to%}
-<div n="lb"/>{%train up in p.:%}</div> <div n="xs">{#yogyAM kArayati,#}</div> Sr. i. 9. </div><div n="I">II
-<div n="lb"/>Custom: q. v.: {#AcAraH.#} </div><div n="I">III Habitually
-<div n="lb"/>doing: </div><div n="1">(1) {#kriyAprabanDaH,#} R. vi. 23.; </div><div n="1">(2)
-<div n="lb"/>{#anuzWAnasAtatyam,#} M. n.; and sim. comp.s. </div><div n="I">IV
-<div n="lb"/>Use, action: q. v.: {#vyavahAraH.#} Ph.: <div n="xe">{%consumma-%}
-<div n="lb"/>{%tion of bad p. s:%}</div> <div n="xs">{#duzkarmaRAM paripAkaH,#}</div> Vi. </div><div n="I">V Exer-
-<div n="lb"/>-cise of any profession: expr. by circumlo.,
-<div n="lb"/><div n="xe">{%the doctor has great p.:%}</div> <div n="xs">{#*bahuBirAhUyate vEdyaH.#}</div> </div><div n="I">VI
-<div n="lb"/>Stratagem: {#kOSalam.#}</div>
+{@PRACTICE@}¦ (subs.): <div n="I">I Customary actions:</div>
+<div n="1">(1) {#aByAsaH,#} <div n="xe">{%from great p.:%}</div> <div n="xs">{#atyAByAsAt,#}</div> Mah.
+i. 130. 22. com.; </div><div n="1">(2) {#KuralI#} (military: rare),
+<div n="xe">{%who has had p. in the use of arms:%}</div> <div n="xs">{#astraprayoga-#}
+{#KuralI,#}</div> Vi. ii. 34.; </div><div n="1">(3) {#SikzA#} (= learning),
+<div n="xe">{%gifted with use and p.:%}</div> <div n="xs">{#prayogaSikzAguRaBUzaRezu,#}</div> Ki.
+xvi. 6.; </div><div n="1">(4) {#anugrahaRam#} (?), Mah. i. 130.
+24. </div><div n="1">(5) {#yogyA#} (medical or military), <div n="xe">{%to%}
+{%train up in p.:%}</div> <div n="xs">{#yogyAM kArayati,#}</div> Sr. i. 9. </div><div n="I">II
+Custom: q. v.: {#AcAraH.#} </div><div n="I">III Habitually
+doing: </div><div n="1">(1) {#kriyAprabanDaH,#} R. vi. 23.; </div><div n="1">(2)
+{#anuzWAnasAtatyam,#} M. n.; and sim. comp.s. </div><div n="I">IV
+Use, action: q. v.: {#vyavahAraH.#} Ph.: <div n="xe">{%consumma-%}
+{%tion of bad p. s:%}</div> <div n="xs">{#duzkarmaRAM paripAkaH,#}</div> Vi. </div><div n="I">V Exer-
+-cise of any profession: expr. by circumlo.,
+<div n="xe">{%the doctor has great p.:%}</div> <div n="xs">{#*bahuBirAhUyate vEdyaH.#}</div> </div><div n="I">VI
+Stratagem: {#kOSalam.#}</div>
 <LEND>

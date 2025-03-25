@@ -1,4 +1,4 @@
-<L>6210<pc>32,1<k1>anugA<k2>anu-gA<h>b<e>1
-<hom>b.</hom> <s>anu-</s>√ <hom>1.</hom> <s>gA</s> ¦ to go after, follow;
-<div n="to"/>to act in conformity to, or according to the wishes of <ls>RV.</ls><info verb="pre" cp="" parse="anu+gA"/>
+<L>6210<pc>32,1<k1>anugA<k2>anu-gA<e>1
+ <s>anu-</s>√ <hom>1.</hom> <s>gA</s> ¦ to go after, follow;
+<div n="to"/>to act in conformity to, or according to the wishes of <ls>RV.</ls><info verb="pre" cp="" parse="anu+gA"/><info hui="b"/>
 <LEND>

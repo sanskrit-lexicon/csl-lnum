@@ -1,102 +1,100 @@
 <L>42634<pc>4-0509<k1>pari<k2>pa/ri
-{#pa/ri#}¦ adv. und praep. 
-<ls>NIR. 1, 3.</ls> <is>gaṇa</is> {#prAdi#} zu 
-<ls>P. 1, 4, 58.</ls> 
-<ls>VOP. 1, 8.</ls> Der Auslaut häufig gedehnt (vgl. {#parIRAma#} u. s. w.) 
-<div n="1"> 1) adv. 
-<div n="2"> a) {%rings, umher%}: {#di\df\kzeRya\H pari\ kAzWA^su\ jenya^H#} 
-<ls>ṚV. 1, 146, 5.</ls> {#avyo\ vAre\ pari^ pri\yo hari\rvane^zu sIdati#} 
-<ls n="ṚV.">9, 7, 6.</ls> 
-<div n="2">— b) {%weiterhin, dazu%}: {#yaTA^ va\H svAhA\gnaye\ dASe^ma\ parILA^BirGf\tava^dBiSca ha\vyEH#} 
-<ls>ṚV. 7, 3, 7.</ls> 
-<div n="2">— c) {%entgegen, im Wege%}: {#avA^ no vAja\yuM raTa^M su\kara^M te\ kimitpari^#} {%es ist dir leicht; was steht im Wege?%} 
-<ls>ṚV. 8, 69, 6.</ls> 
-<div n="2">— d) als adv. ist {#pari#} aufzufassen in Zusammensetzungen wie {#paryaSru#} <lex>adj.</lex> {%von Thränen gefüllt%}, {#paridurbala#} {%überaus schwach%}, {#paricaturdaSan#} {%volle vierzehn%} u. s. w. 
-<div n="1">— 2) praep. 
-<div n="2"> a) mit dem acc. 
-<div n="3"> α) {%um%} (von Ort und Zeit): {#mA\yAH kf^RvA\nasta\nvaM1^\ pari\ svAm#} 
-<ls>ṚV. 3, 53, 8.</ls> {#diva\M pari\ BUma^#} 
-<ls n="ṚV.">1, 62, 8.</ls> {#pari\ DAna^ma\ktoH#} 
-<ls n="ṚV.">3, 7, 6.</ls> {#ma\DyaMdi^na\M pari^#} 
-<ls>AV. 4, 11, 2. 6, 108, 5.</ls> 
-<div n="3">— β) {%gegen, nach - hin, entgegen%} ({#lakzaRe#} und {#itTaMBUtAKyAne#}) 
-<ls>P. 1, 4, 90.</ls> 
-<ls>VOP. 5, 7.</ls> 
-<ls>MED. avy. 67.</ls> <ls>H. an. 7, 44.</ls> {#vfkzaM pari vidyotate vidyut#} 
-<ls>Schol.</ls> zu <ls>P. 1, 4, 90. 2, 3, 10.</ls> {#sADurdevadatto mAtaraM pari#} 
-<ls>Schol.</ls> zu <ls>P. 1, 4, 90.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 2, 3, 43.</ls> {#prA\cIne^na\ mana^sA ba\rhaRA^vatA\ yada\dyA ci^tkf\Rava\H kastvA\ pari^#} {%wer hindert dich?%} 
-<ls>ṚV. 1, 54, 5.</ls> {#yadeko\ viSva\M pari\ BUma\ jAya^se#} {%dass du allein bist gegenüber der ganzen Welt%} 
-<ls>AV. 13, 2, 3.</ls> 
-<div n="3">— γ) {%zu Theil%} ({#BAge#}) 
-<ls>P. 1, 4, 90.</ls> 
-<ls>VOP. 5, 7.</ls> 
-<ls>MED.</ls> 
-<ls>H. an.</ls> {#yadatra mAM pari syAt#} {%was da auf meinen Theil fallen sollte%} 
-<ls>Schol.</ls> zu <ls>P. 1, 4, 90.</ls> {#hariM paryaBavallakzmIH#} 
-<ls>VOP. 5, 7.</ls> 
-<div n="3">— δ) {%hinaus über, mehr als%}: {#parya^sya mahi\mA pf^Ti\vIm#} 
-<ls>AV. 13, 2, 45.</ls> {#a\haM dEvI\M pari\ vAca\M viSa^Sca#} 
-<ls>6, 61, 2.</ls> 
-<div n="3">— ε) in distributiver Bedeutung ({#vIpsAyAm#}) 
-<ls>P. 1, 4, 90.</ls> 
-<ls>VOP. 5, 7.</ls> 
-<ls>MED.</ls> 
-<ls>H. an.</ls> {#vfkzaM vfkzaM pari siYcati#} {%er begiesst einen Baum nach dem andern%} 
-<ls>P. 1, 4, 90,</ls> 
-<ls>Sch.</ls> 
-<div n="2">— b) mit dem ablat. Euphonisches Verhalten des vorangehenden ablat. im <is>Veda</is> 
-<ls>P. 8, 3, 51</ls> ({#pari = aDi#} d. i. nach den Scholl. = {#upari#}). 
-<div n="3"> α) {%von - her, von - weg, aus - her%}; in Verbindung mit Verben der Bewegung, des Hervorgehens und Entstehens: {#sa\mu\drAdu\ta vA^ di\vaspari^#} 
-<ls>ṚV. 1, 47, 6.</ls> <ls n="ṚV. 1,">23, 12.</ls> <ls n="ṚV. 1,">49, 3.</ls> {#udva\yaM tama^sa\spari\ sUrya^maganma#} 
-<ls n="ṚV. 1,">50, 10.</ls> <ls n="ṚV.">2, 31, 1.</ls> {#u\ttizWa\npari^ ba\rhiza^H#} 
-<ls n="ṚV.">7, 33, 1.</ls> {#yadoza^DIBya\H pari\ jAya^te vi\zam#} 
-<ls n="ṚV. 7,">50, 3.</ls> <ls>AV. 4, 9, 9.</ls> {#apa^sa\sparyupa\ pra ya^nti DItaya^H . f\tasya^ pa\TyA\3^\ anu^#} 
-<ls>ṚV. 3, 12, 7.</ls> {#pa\ri\kftya\ pari^ tva\caH#} 
-<ls>AV. 5, 14, 3.</ls> {#keSA^ varDantAM SI\rzRaH pari^#} 
-<ls>6, 137, 2.</ls> {#va\Dama\smadyA^vayata\M pari^#} 
-<ls>1, 20, 2.</ls> {#tadagnirdevo vanutAM vayamagneH pari mAnuzAH#} 
-<ls>ŚAT. BR. 1, 9, 1, 19.</ls> {#indra\ ASA^Bya\spari\ sarvA^Byo\ aBa^yaM karat#} {%von allen Seiten%} 
-<ls>ṚV. 2, 41, 12.</ls> {#vyu\cCantI\ pari\ svasu^H#} {%aufleuchtend aus der Schwester (der Nacht%}) 
-<ls n="ṚV.">4, 52, 1.</ls> {#kutaH paryAgacCati (pari#} soll hier bedeutungslos sein und daher seinen Ton bewahren) 
-<ls>P. 1, 4, 93,</ls> 
-<ls>Sch.</ls> In der Verbindung
+{#pa/ri#}¦ adv. und praep.
+<ls>NIR. 1,3.</ls> <is>gaṇa</is> {#prAdi#} zu
+<ls>P. 1,4,58.</ls>
+<ls>VOP. 1,8.</ls> Der Auslaut häufig gedehnt (vgl. {#parIRAma#} u. s. w.)
+<div n="1"> 1) adv.
+<div n="2"> a) {%rings, umher%}: {#di\df\kzeRya\H pari\ kAzWA^su\ jenya^H#}
+<ls>ṚV. 1,146,5.</ls> {#avyo\ vAre\ pari^ pri\yo hari\rvane^zu sIdati#}
+<ls n="ṚV.">9,7,6.</ls>
+<div n="2">— b) {%weiterhin, dazu%}: {#yaTA^ va\H svAhA\gnaye\ dASe^ma\ parILA^BirGf\tava^dBiSca ha\vyEH#}
+<ls>ṚV. 7,3,7.</ls>
+<div n="2">— c) {%entgegen, im Wege%}: {#avA^ no vAja\yuM raTa^M su\kara^M te\ kimitpari^#} {%es ist dir leicht; was steht im Wege?%}
+<ls>ṚV. 8,69,6.</ls>
+<div n="2">— d) als adv. ist {#pari#} aufzufassen in Zusammensetzungen wie {#paryaSru#} <lex>adj.</lex> {%von Thränen gefüllt%}, {#paridurbala#} {%überaus schwach%}, {#paricaturdaSan#} {%volle vierzehn%} u. s. w.
+<div n="1">— 2) praep.
+<div n="2"> a) mit dem acc.
+<div n="3"> α) {%um%} (von Ort und Zeit): {#mA\yAH kf^RvA\nasta\nvaM1^\ pari\ svAm#}
+<ls>ṚV. 3,53,8.</ls> {#diva\M pari\ BUma^#}
+<ls n="ṚV.">1,62,8.</ls> {#pari\ DAna^ma\ktoH#}
+<ls n="ṚV.">3,7,6.</ls> {#ma\DyaMdi^na\M pari^#}
+<ls>AV. 4,11,2.</ls> <ls n="AV.">6,108,5.</ls>
+<div n="3">— β) {%gegen, nach — hin, entgegen%} ({#lakzaRe#} und {#itTaMBUtAKyAne#})
+<ls>P. 1,4,90.</ls>
+<ls>VOP. 5,7.</ls>
+<ls>MED. avy. 67.</ls> <ls>H. an. 7,44.</ls> {#vfkzaM pari vidyotate vidyut#}
+<ls>Schol.</ls> zu <ls>P. 1,4,90.</ls> <ls n="P.">2,3,10.</ls> {#sADurdevadatto mAtaraM pari#}
+<ls>Schol.</ls> zu <ls>P. 1,4,90.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 2,3,43.</ls> {#prA\cIne^na\ mana^sA ba\rhaRA^vatA\ yada\dyA ci^tkf\Rava\H kastvA\ pari^#} {%wer hindert dich?%}
+<ls>ṚV. 1,54,5.</ls> {#yadeko\ viSva\M pari\ BUma\ jAya^se#} {%dass du allein bist gegenüber der ganzen Welt%}
+<ls>AV. 13,2,3.</ls>
+<div n="3">— γ) {%zu Theil%} ({#BAge#})
+<ls>P. 1,4,90.</ls>
+<ls>VOP. 5,7.</ls>
+<ls>MED.</ls>
+<ls>H. an.</ls> {#yadatra mAM pari syAt#} {%was da auf meinen Theil fallen sollte%}
+<ls>Schol.</ls> zu <ls>P. 1,4,90.</ls> {#hariM paryaBavallakzmIH#}
+<ls>VOP. 5,7.</ls>
+<div n="3">— δ) {%hinaus über, mehr als%}: {#parya^sya mahi\mA pf^Ti\vIm#}
+<ls>AV. 13,2,45.</ls> {#a\haM dEvI\M pari\ vAca\M viSa^Sca#}
+<ls n="AV.">6,61,2.</ls>
+<div n="3">— ε) in distributiver Bedeutung ({#vIpsAyAm#})
+<ls>P. 1,4,90.</ls>
+<ls>VOP. 5,7.</ls>
+<ls>MED.</ls>
+<ls>H. an.</ls> {#vfkzaM vfkzaM pari siYcati#} {%er begiesst einen Baum nach dem andern%}
+<ls>P. 1,4,90</ls>, <ls>Sch.</ls>
+<div n="2">— b) mit dem ablat. Euphonisches Verhalten des vorangehenden ablat. im <is>Veda</is>
+<ls>P. 8,3,51</ls> ({#pari = aDi#} <ab>d. i.</ab> nach den Scholl. = {#upari#}).
+<div n="3"> α) {%von — her, von — weg, aus — her%}; in Verbindung mit Verben der Bewegung, des Hervorgehens und Entstehens: {#sa\mu\drAdu\ta vA^ di\vaspari^#}
+<ls>ṚV. 1,47,6.</ls> <ls n="ṚV. 1,">23,12.</ls> <ls n="ṚV. 1,">49,3.</ls> {#udva\yaM tama^sa\spari\ sUrya^maganma#}
+<ls n="ṚV. 1,">50,10.</ls> <ls n="ṚV.">2,31,1.</ls> {#u\ttizWa\npari^ ba\rhiza^H#}
+<ls n="ṚV.">7,33,1.</ls> {#yadoza^DIBya\H pari\ jAya^te vi\zam#}
+<ls n="ṚV. 7,">50,3.</ls> <ls>AV. 4,9,9.</ls> {#apa^sa\sparyupa\ pra ya^nti DItaya^H . f\tasya^ pa\TyA\3^\ anu^#}
+<ls>ṚV. 3,12,7.</ls> {#pa\ri\kftya\ pari^ tva\caH#}
+<ls>AV. 5,14,3.</ls> {#keSA^ varDantAM SI\rzRaH pari^#}
+<ls n="AV.">6,137,2.</ls> {#va\Dama\smadyA^vayata\M pari^#}
+<ls n="AV.">1,20,2.</ls> {#tadagnirdevo vanutAM vayamagneH pari mAnuzAH#}
+<ls>ŚAT. BR. 1,9,1,19.</ls> {#indra\ ASA^Bya\spari\ sarvA^Byo\ aBa^yaM karat#} {%von allen Seiten%}
+<ls>ṚV. 2,41,12.</ls> {#vyu\cCantI\ pari\ svasu^H#} {%aufleuchtend aus der Schwester (der Nacht%})
+<ls n="ṚV.">4,52,1.</ls> {#kutaH paryAgacCati (pari#} soll hier bedeutungslos sein und daher seinen Ton bewahren)
+<ls>P. 1,4,93</ls>, <ls>Sch.</ls>
+In der Verbindung
 [Page4-0510]
-{#divaH pfTivyAH paryoja udDftam#} soll nach den Scholl. zu 
-<ls>P. 8, 3, 51</ls> vor {#pari#} das {#sa#} des ablat. in <is>Visarga</is> übergegangen sein, weil {#pari#} hier {#sarvatoBAve#} (vgl. 
-<ls>H. an.</ls> <ls>MED.</ls>) gebraucht werde, während es im andern Falle = {#aDi (= upari)#} sei. Es ist ohne Zweifel 
-<ls>ṚV. 6, 47, 27</ls> {#di\vaspf^Ti\vyAH paryoja\ udBf^ta\M (udDfta#} ist gar nicht vedisch) {#vana\spati^Bya\H paryABf^ta\M saha^H#} gemeint, wo also doch {#sa#} steht; die Bed. von {#pari#} ist auch hier {%von - her.%} 
-<div n="3">— β) {%ausserhalb, mit Ausschluss von, bis auf%} ({#varjane#}) 
-<ls>P. 1, 4, 88. 2, 3, 10.</ls> 
-<ls>VOP. 5, 21.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {#pari trigarteByo vfzwo devaH#} eig. {%um%} <is>Trigarta</is> {%herum%} (aber nicht {%in%} <is>Trigarta</is> {%selbst%}) Schol. zu 
-<ls>P. 1. 4, 88. 2, 1, 12. 3, 10.</ls> {#paryanantAttrayastApAH#} 
-<ls>VOP. 5, 21.</ls> {#pari#} wird in diesem Falle auch verdoppelt nach 
-<ls>P. 8, 1, 5</ls> <ls>?(vgl. <is>Vārtt</is>. 2).</ls> {#pari pari vaNgeByo vfzwo devaH#} 
-<ls>P.</ls>, <ls>Sch.</ls> Vgl. u. 2,c. 
-<div n="3">— γ) {%nach Ablauf von%} (nach 
-<ls>KULL.</ls>): {#pari saMvatsarAt#} 
-<ls>M. 3, 119.</ls> Mit demselben Rechte könnte man {#parisaM°#} zusammenschreiben und übersetzen: {%nach einem runden (vollen) Jahre%}; vgl. {#parisaMvatsara#} und 
-<ls>MBH. 13, 4672</ls>, wo st. {#parisaMvatsarAtpunaH#} des <is>Manu</is> {#parisaMvatsarozitAn#} gelesen wird. 
-<div n="3">— δ) {%in Folge von. aus Anlass von, wegen%}: {#Di\zaRA^Bya\spari^#} 
-<ls>ṚV. 4, 36, 8.</ls> {#unma^tta\M rakza^sa\spari^#} 
-<ls>AV. 6, 111, 3. 116, 3.</ls> {#viSve^ByastvA\ Buva^neBya\spari\ tvazwA^janat#} 
-<ls>ṚV. 2, 23, 17.</ls> 
-<div n="3">— ε) {%secundum%}: {#pra pra\jABi^rjAyate\ Darma^Ra\spari^#} {%nach der Ordnung%} 
-<ls>ṚV. 6, 70, 3.</ls> {#keno\ nu ka\M Sroma^tena\ na Su^Sruve ja\nuza\H pari^ vftra\hA#} 
-<ls n="ṚV.">8, 55, 9.</ls> 
-<div n="2">— c) am Anfange eines adv. comp. ({#pari#} behält seinen Ton) {%ausserhalb, mit Ausschluss von, bis auf%} 
-<ls>P. 2, 1, 12. 6, 2, 33.</ls> {#pa/ritrigartaM vfzwo devaH#} 
-<ls>Sch.</ls> Vgl. u. 2,b,
-<lang n="greek">β.</lang> 
-<div n="2">— d) am Ende eines adv. comp. nach {#akza, SalAkA#} und einem Zahlwort dass. 
-<ls>P. 2, 1, 10.</ls> 
-<div n="2">— e) am Anf. eines <lex>adj.</lex> comp. in der Bed. von {#pariglAna#} 
-<ls>P. 2, 2, 18, <is>Vārtt</is>. 7.</ls> {#paryaDyayanaH = pariglAno 'DyayanAya#} {%der einen Abscheu vor dem Studium hat%} 
-<ls>Sch.</ls> Hier könnte {#pari#} auch als adv. gefasst werden: {%dem das Studium zuwider ist.%} — Die indischen Lexicographen und Grammatiker kennen noch folgende Bedeutungen: {#AliNgana, dozAKyAna (dozakIrtana), nirasana (nivasana#} 
-<ls>H. an.</ls>), {#pUjA, BUzaRa, vyADi, vyApti#} 
-<ls>H. an.</ls> <ls>MED.</ls> {#uparama, Soka#} 
-<ls>H. an.</ls> {#Seza#} 
-<ls>MED.</ls> {#atiSaya, tyAga, niyama#} 
+{#divaH pfTivyAH paryoja udDftam#} soll nach den Scholl. zu
+<ls>P. 8,3,51</ls> vor {#pari#} das {#sa#} des ablat. in <is>Visarga</is> übergegangen sein, weil {#pari#} hier {#sarvatoBAve#} (vgl.
+<ls>H. an.</ls> <ls>MED.</ls>) gebraucht werde, während es im andern Falle = {#aDi#} (= {#upari)#} sei. Es ist ohne Zweifel
+<ls>ṚV. 6,47,27</ls> {#di\vaspf^Ti\vyAH paryoja\ udBf^ta\M (udDfta#} ist gar nicht vedisch) {#vana\spati^Bya\H paryABf^ta\M saha^H#} gemeint, wo also doch {#sa#} steht; die Bed. von {#pari#} ist auch hier {%von — her.%}
+<div n="3">— β) {%ausserhalb, mit Ausschluss von, bis auf%} ({#varjane#})
+<ls>P. 1,4,88.</ls> <ls n="P.">2,3,10.</ls>
+<ls>VOP. 5,21.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {#pari trigarteByo vfzwo devaH#} eig. {%um%} <is>Trigarta</is> {%herum%} (aber nicht {%in%} <is>Trigarta</is> {%selbst%}) Schol. zu
+<ls>P. 1,4,88.</ls> <ls n="P.">2,1,12.</ls> <ls n="P. 2,">3,10.</ls> {#paryanantAttrayastApAH#}
+<ls>VOP. 5,21.</ls> {#pari#} wird in diesem Falle auch verdoppelt nach
+<ls>P. 8,1,5</ls> (vgl. <is>Vārtt</is>. 2). {#pari pari vaNgeByo vfzwo devaH#}
+<ls>P.</ls>, <ls>Sch.</ls> Vgl. u. 2,c.
+<div n="3">— γ) {%nach Ablauf von%} (nach
+<ls>KULL.</ls>): {#pari saMvatsarAt#}
+<ls>M. 3,119.</ls> Mit demselben Rechte könnte man {#parisaM°#} zusammenschreiben und übersetzen: {%nach einem runden (vollen) Jahre%}; vgl. {#parisaMvatsara#} und
+<ls>MBH. 13,4672</ls>, wo st. {#parisaMvatsarAtpunaH#} des <is>Manu</is> {#parisaMvatsarozitAn#} gelesen wird.
+<div n="3">— δ) {%in Folge von. aus Anlass von, wegen%}: {#Di\zaRA^Bya\spari^#}
+<ls>ṚV. 4,36,8.</ls> {#unma^tta\M rakza^sa\spari^#}
+<ls>AV. 6,111,3.</ls> <ls n="AV. 6,">116,3.</ls> {#viSve^ByastvA\ Buva^neBya\spari\ tvazwA^janat#}
+<ls>ṚV. 2,23,17.</ls>
+<div n="3">— ε) {%secundum%}: {#pra pra\jABi^rjAyate\ Darma^Ra\spari^#} {%nach der Ordnung%}
+<ls>ṚV. 6,70,3.</ls> {#keno\ nu ka\M Sroma^tena\ na Su^Sruve ja\nuza\H pari^ vftra\hA#}
+<ls n="ṚV.">8,55,9.</ls>
+<div n="2">— c) am Anfange eines adv. comp. ({#pari#} behält seinen Ton) {%ausserhalb, mit Ausschluss von, bis auf%}
+<ls>P. 2,1,12.</ls> <ls n="P.">6,2,33.</ls> {#pa/ritrigartaM vfzwo devaH#}
+<ls>Sch.</ls> Vgl. u. 2,b,β.
+<div n="2">— d) am Ende eines adv. comp. nach {#akza, SalAkA#} und einem Zahlwort dass.
+<ls>P. 2,1,10.</ls>
+<div n="2">— e) am Anf. eines <lex>adj.</lex> comp. in der Bed. von {#pariglAna#}
+<ls>P. 2,2,18</ls>, <is>Vārtt</is>. 7. {#paryaDyayanaH = pariglAno 'DyayanAya#} {%der einen Abscheu vor dem Studium hat%}
+<ls>Sch.</ls> Hier könnte {#pari#} auch als adv. gefasst werden: {%dem das Studium zuwider ist.%} — Die indischen Lexicographen und Grammatiker kennen noch folgende Bedeutungen: {#AliNgana, dozAKyAna (dozakIrtana), nirasana (nivasana#}
+<ls>H. an.</ls>), {#pUjA, BUzaRa, vyADi, vyApti#}
+<ls>H. an.</ls> <ls>MED.</ls> {#uparama, Soka#}
+<ls>H. an.</ls> {#Seza#}
+<ls>MED.</ls> {#atiSaya, tyAga, niyama#}
 <ls>DURGĀD.</ls> zu <ls>VOP.</ls> <ls>ŚKDR.</ls> Bei Aufstellung dieser verschiedenen Bedeutungen hat man zum grössten Theil übertragene Bedeutungen von Verbalwurzeln, die mit {#pari#} verbunden werden, im Auge gehabt. {#pari#} geht wie {#para, parA#} und {#pra#} auf 1. {#par#} zurück.
 <LEND>

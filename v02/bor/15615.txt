@@ -1,5 +1,5 @@
 <L>15615<pc>479<k1>nurture<k2>nurture
-<div n="lb"/>{@NURTURE@}¦ (subs.): <div n="I">I Nourishment: q.v.:
-<div n="lb"/>{#pozaRam.#} </div><div n="I">II Instruction, education: q.v.:
-<div n="lb"/>{#SikzA.#}</div>
+{@NURTURE@}¦ (subs.): <div n="I">I Nourishment: q.v.:
+{#pozaRam.#} </div><div n="I">II Instruction, education: q.v.:
+{#SikzA.#}</div>
 <LEND>

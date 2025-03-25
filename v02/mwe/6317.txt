@@ -1,9 +1,9 @@
 <L>6317<pc>141-b<k1>cousin<k2>cousin
-<div n="lb"/>COUSIN¦, {%s.%} (Male, by father's brother) {#pitfvyaputraH, pitfBrAtrIyaH#}.
-<div n="lb"/> — (Female) {#pitfvyaputrI, pitfBrAtrIyA#}. — (Male, by father's
-<div n="lb"/>sister) {#pitfzvasrIyaH, pitfzvaseyaH#}. — (Female) {#pitfzvasrIyA, pitfzva-#}
-<div n="lb"/>{#seyI#}. — (Male, by mother's brother) {#mAtulaputraH, mAtfBrAtrIyaH#}.
-<div n="lb"/> — (Female) {#mAtulaputrI, mAtfBrAtrIyA#}. — (Male, by mother's
-<div n="lb"/>sister) {#mAtfzvasrIyaH, mAtfzvaseyaH#}. — (Female) {#mAtfzvasrIyA, mAtfzva-#}
-<div n="lb"/>{#seyI#}. — (A kinsman) {#jYAtiH#} {%m.,%} {#bAnDavaH, sahajamitraM#}.
+COUSIN¦, {%s.%} (Male, by father's brother) {#pitfvyaputraH, pitfBrAtrIyaH#}.
+ — (Female) {#pitfvyaputrI, pitfBrAtrIyA#}. — (Male, by father's
+sister) {#pitfzvasrIyaH, pitfzvaseyaH#}. — (Female) {#pitfzvasrIyA, pitfzva-#}
+{#seyI#}. — (Male, by mother's brother) {#mAtulaputraH, mAtfBrAtrIyaH#}.
+ — (Female) {#mAtulaputrI, mAtfBrAtrIyA#}. — (Male, by mother's
+sister) {#mAtfzvasrIyaH, mAtfzvaseyaH#}. — (Female) {#mAtfzvasrIyA, mAtfzva-#}
+{#seyI#}. — (A kinsman) {#jYAtiH#} {%m.,%} {#bAnDavaH, sahajamitraM#}.
 <LEND>

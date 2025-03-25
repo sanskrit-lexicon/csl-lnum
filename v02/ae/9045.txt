@@ -1,6 +1,6 @@
 <L>9045<pc>404<k1>rumour<k2>rumour
 {@Rumour,@}¦ {%s.%} {#janapravAdaH, kiMvadaMtI, pravAdaH,#}
-<div n="lb"/>{#janaSruti#} {%f.,%} {#lokavAdaH-vArtA;#} {%See%} {@Report.@}
-<div n="lb"/>{%-v. t.%} Ex. by ({%s.%}); ‘it is r. ed’ {#iti#}
-<div n="lb"/>{#kiMvadaMtI SrUyate, iti janapravAdaH#}.
+{#janaSruti#} {%f.,%} {#lokavAdaH-vArtA;#} {%See%} {@Report.@}
+{%-v. t.%} Ex. by ({%s.%}); ‘it is r. ed’ {#iti#}
+{#kiMvadaMtI SrUyate, iti janapravAdaH#}.
 <LEND>

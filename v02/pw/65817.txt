@@ -1,8 +1,8 @@
-<L>65817<pc>4067-2<k1>pAdacatura<k2>*pAdacatura<e>100
-{#*pAdacatura#}¦ und {#*°catvara#} <lex>m.</lex>
-<div n="1">— 1) {%ein Mann , der nur Böses von Andern zu erzählen hat.%}
-<div n="1">— 2) {%Ziege.%}
-<div n="1">— 3) {%Sandbank.%}
-<div n="1">— 4) {%Hagel.%}
-<div n="1">— 5) {%<bot>Ficus religiosa</bot>.%}
+<L>65817<pc>4-067-b<k1>pAdacatura<k2>*pAdacatura
+*{#pAdacatura#} und *{#°catvara#}¦ <lex>m.</lex>
+<div n="1">— 1〉 {%ein Mann, der nur Böses von Andern zu erzählen hat%}.
+<div n="1">— 2〉 {%Ziege%}.
+<div n="1">— 3〉 {%Sandbank%}.
+<div n="1">— 4〉 {%Hagel%}.
+<div n="1">— 5〉 {%<bot>Ficus religiosa</bot>%}.
 <LEND>

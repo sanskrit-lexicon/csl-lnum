@@ -1,7 +1,7 @@
 <L>21307<pc>671<k1>stable<k2>stable
-<div n="lb"/>{@STABLE@}¦ (subs.): <div n="I">I For horses: </div><div n="1">(1) {#mandurA,#} <div n="xe">{%s.%}
-<div n="lb"/>{%keeper:%}</div> <div n="xs">{#mandurApAlaH,#}</div> K.; </div><div n="1">(2) {#aSvaSAlA#} and sim.
-<div n="lb"/>comp.s. </div><div n="I">II For elephants (the place where
-<div n="lb"/>they are tied up or confined): {#vArI,#} R. v.
-<div n="lb"/>45. </div><div n="I">III For cattle: {#goSAlA.#}</div>
+{@STABLE@}¦ (subs.): <div n="I">I For horses: </div><div n="1">(1) {#mandurA,#} <div n="xe">{%s.%}
+{%keeper:%}</div> <div n="xs">{#mandurApAlaH,#}</div> K.; </div><div n="1">(2) {#aSvaSAlA#} and sim.
+comp.s. </div><div n="I">II For elephants (the place where
+they are tied up or confined): {#vArI,#} R. v.
+45. </div><div n="I">III For cattle: {#goSAlA.#}</div>
 <LEND>

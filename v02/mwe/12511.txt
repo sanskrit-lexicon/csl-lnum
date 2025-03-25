@@ -1,6 +1,6 @@
 <L>12511<pc>301-b<k1>garland<k2>garland
-<div n="lb"/>GARLAND¦, {%s.%} {#mAlA, mAlyaM, srak#} {%f.%} {#(j), dAma#} {%n.%} {#(n), hAraH, AvaliH#}
-<div n="lb"/>{#-lI#} {%f.,%} {#prAlambaH -mbikA;#} ‘of flowers,’ {#kusumamAlA, puzpAvalI, kusuma-#}
-<div n="lb"/>{#stavakaH, kusumAvataMsakaM;#} ‘of pearls,’ {#muktAvalI, devacCandaH, SatayazwikaH#}
-<div n="lb"/>‘other kinds of garlands,’ {#gutsaH, gutsArdDaH, gostanaH#}.
+GARLAND¦, {%s.%} {#mAlA, mAlyaM, srak#} {%f.%} {#(j), dAma#} {%n.%} {#(n), hAraH, AvaliH#}
+{#-lI#} {%f.,%} {#prAlambaH -mbikA;#} ‘of flowers,’ {#kusumamAlA, puzpAvalI, kusuma-#}
+{#stavakaH, kusumAvataMsakaM;#} ‘of pearls,’ {#muktAvalI, devacCandaH, SatayazwikaH#}
+‘other kinds of garlands,’ {#gutsaH, gutsArdDaH, gostanaH#}.
 <LEND>

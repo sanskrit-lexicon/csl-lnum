@@ -1,4 +1,4 @@
 <L>10530<pc>331<k1>half-dead<k2>half-dead
-<div n="lb"/>{@HALF-DEAD:@}¦ <div n="1">(1) {#ardDamftaH#} ({#tA, taM#}); </div><div n="1">(2) {#mftakalpaH#}
-<div n="lb"/>({#lpA, lpaM#}); </div><div n="1">(3) {#mftaprAyaH#} ({#yA, yaM#}).</div>
+{@HALF-DEAD:@}¦ <div n="1">(1) {#ardDamftaH#} ({#tA, taM#}); </div><div n="1">(2) {#mftakalpaH#}
+({#lpA, lpaM#}); </div><div n="1">(3) {#mftaprAyaH#} ({#yA, yaM#}).</div>
 <LEND>

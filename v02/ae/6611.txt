@@ -1,25 +1,25 @@
 <L>6611<pc>285<k1>memory<k2>memory
 {@Memory,@}¦ {%s.%} {#smfti#} {%f.,%} {#smaraRaSakti#} {%f.,%} {#DAraRA,#}
-<div n="lb"/>{#smaraRaM, saMsmfti#} {%f.,%} {#saMsmaraRaM#}. {@2@} {#smArtakAlaH,#}
-<div n="lb"/>{#smftikAlaH;#} ‘retentive m.’ {#meDA, DAraRA,#}
-<div n="lb"/>{#DAraRAvatI DIH;#} ‘having retentive m.’
-<div n="lb"/>{#meDAvin, DAraRAvat;#} ‘commit to m.’
-<div n="lb"/>{#kaMWasTa#} {%-a.%} {#kf#} 8 U, {#hfdaye-manasi-citte-kf,#}
-<div n="lb"/>{#aByas#} 4 U; ‘committed to m.’ {#kaMWasTa,#}
-<div n="lb"/>{#hfdayasTa;#} ‘store in m.’ {#hfdaye ni-upa-DA#}
-<div n="lb"/>3 U or {#kf, avaDf#} 10; ‘to remain only
-<div n="lb"/>in m.’ {#smfti-vizayatAM-smftipaTaM-smartavyaSezaM-#}
-<div n="lb"/>{#-kaTAvaSezaM-gam#} 1 P or {#prAp#} 5 P; ‘loss of
-<div n="lb"/>m.’ {#smftilopaH;#} ‘time beyond m.’ {#a#}
-<div n="lb"/>{#smArtakAlaH;#} ‘within m.’ {#smArte kAle#}.
-<div n="lb"/>{@-able,@} {%a.%} {#smartavya, smaraRArha; pra-vi-KyAta,#}
-<div n="lb"/>{#prasidDa, suvijYAta#}. {@-Memorandum,@} {%s.%}
-<div n="lb"/>{#smaraRaleKaH-patraM, smArakaM patraM#}. {@-Memorial,@}
-<div n="lb"/>{%s.%} {#smaraRacihnaM, smArakaM, smArakaM kftyaM, smAraka-#}
-<div n="lb"/>{#-vizayaH#}. {@2@} {#AvedanapatraM, aByarTanAleKaH, vijYapti#}
-<div n="lb"/>{%f.,%} {#vijYApanApatraM#}. {%-a.%} {#smAraka, anuboDaka,#}
-<div n="lb"/>{#smftikara#} ({#rI#} {%f.%}). {@-ist,@} {%s.%} {#prArTakaH, arTin#}
-<div n="lb"/>{%m.,%} {#prArTayitf#} {%m.,%} {#vijYaptikft#} {%m.%} {@-ize,@} {%v. t.%}
-<div n="lb"/>{#vi-jYA#} c. ({#jYApayati#}), {#nivedanapatreRa prArT#}
-<div n="lb"/>10 A.
+{#smaraRaM, saMsmfti#} {%f.,%} {#saMsmaraRaM#}. {@2@} {#smArtakAlaH,#}
+{#smftikAlaH;#} ‘retentive m.’ {#meDA, DAraRA,#}
+{#DAraRAvatI DIH;#} ‘having retentive m.’
+{#meDAvin, DAraRAvat;#} ‘commit to m.’
+{#kaMWasTa#} {%-a.%} {#kf#} 8 U, {#hfdaye-manasi-citte-kf,#}
+{#aByas#} 4 U; ‘committed to m.’ {#kaMWasTa,#}
+{#hfdayasTa;#} ‘store in m.’ {#hfdaye ni-upa-DA#}
+3 U or {#kf, avaDf#} 10; ‘to remain only
+in m.’ {#smfti-vizayatAM-smftipaTaM-smartavyaSezaM-#}
+{#-kaTAvaSezaM-gam#} 1 P or {#prAp#} 5 P; ‘loss of
+m.’ {#smftilopaH;#} ‘time beyond m.’ {#a#}
+{#smArtakAlaH;#} ‘within m.’ {#smArte kAle#}.
+{@-able,@} {%a.%} {#smartavya, smaraRArha; pra-vi-KyAta,#}
+{#prasidDa, suvijYAta#}. {@-Memorandum,@} {%s.%}
+{#smaraRaleKaH-patraM, smArakaM patraM#}. {@-Memorial,@}
+{%s.%} {#smaraRacihnaM, smArakaM, smArakaM kftyaM, smAraka-#}
+{#-vizayaH#}. {@2@} {#AvedanapatraM, aByarTanAleKaH, vijYapti#}
+{%f.,%} {#vijYApanApatraM#}. {%-a.%} {#smAraka, anuboDaka,#}
+{#smftikara#} ({#rI#} {%f.%}). {@-ist,@} {%s.%} {#prArTakaH, arTin#}
+{%m.,%} {#prArTayitf#} {%m.,%} {#vijYaptikft#} {%m.%} {@-ize,@} {%v. t.%}
+{#vi-jYA#} c. ({#jYApayati#}), {#nivedanapatreRa prArT#}
+10 A.
 <LEND>

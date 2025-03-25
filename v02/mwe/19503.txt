@@ -1,5 +1,5 @@
 <L>19503<pc>505-b<k1>misdoer<k2>misdoer
-<div n="lb"/>MISDOER¦, {%s.%} {#kukarmmakArI#} {%m.%} {#(n), kukarmmA#} {%m.%} {#(n), pApakArI#} {%m.%} {#(n),#}
-<div n="lb"/>{#pApakarttA#} {%m.%} {#(rttf), pApakaraH, pApakft#} {%m.,%} {#pApakarmmA#} {%m.,%} {#asatkarmmA#} {%m.,%}
-<div n="lb"/>{#anyAyakArI#} {%m.,%} {#anyaTAcArI#} {%m.,%} {#mandacaritraH#}.
+MISDOER¦, {%s.%} {#kukarmmakArI#} {%m.%} {#(n), kukarmmA#} {%m.%} {#(n), pApakArI#} {%m.%} {#(n),#}
+{#pApakarttA#} {%m.%} {#(rttf), pApakaraH, pApakft#} {%m.,%} {#pApakarmmA#} {%m.,%} {#asatkarmmA#} {%m.,%}
+{#anyAyakArI#} {%m.,%} {#anyaTAcArI#} {%m.,%} {#mandacaritraH#}.
 <LEND>

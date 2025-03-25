@@ -1,6 +1,6 @@
 <L>3796<pc>081-b<k1>cashier<k2>cashier
-<div n="lb"/>{%To%} CASHIER¦, {%v. a.%} {#padAt#} or {#aDikArAd BraMS#} in caus. {#(BraMSayati -yituM),#}
-<div n="lb"/>{#praBraMS,#} or {#nipat#} in caus. ({#-pAtayati -yituM#}) or {#avaruh#} in caus.
-<div n="lb"/>({#-ropayati -yituM#}) or {#apasf#} in caus. ({#-sArayati -yituM#}) or {#visfja#} in
-<div n="lb"/>caus. {#(-sarjayati -yituM),#} or {#cyu#} in caus. {#(cyAvayati -yituM)#}.
+{%To%} CASHIER¦, {%v. a.%} {#padAt#} or {#aDikArAd BraMS#} in caus. {#(BraMSayati -yituM),#}
+{#praBraMS,#} or {#nipat#} in caus. ({#-pAtayati -yituM#}) or {#avaruh#} in caus.
+({#-ropayati -yituM#}) or {#apasf#} in caus. ({#-sArayati -yituM#}) or {#visfja#} in
+caus. {#(-sarjayati -yituM),#} or {#cyu#} in caus. {#(cyAvayati -yituM)#}.
 <LEND>

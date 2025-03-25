@@ -1,7 +1,7 @@
 <L>18068<pc>554<k1>province<k2>province
-<div n="lb"/>{@PROVINCE:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#vizayaH;#} </div><div n="1">(2) {#maRqalam;#}</div>
-<div n="lb"/><div n="1">(3) {#rAzwram#} (= kingdom). </div><div n="I">II Fig., a division:</div>
-<div n="lb"/><div n="1">(1) {#vizayaH;#} </div><div n="1">(2) {#aNgam#} (subordinate). </div><div n="I">III
-<div n="lb"/>Business, duty: q. v.: </div><div n="1">(1) {#kAryam;#} </div><div n="1">(2) {#niyogaH#}
-<div n="lb"/>(= employment). </div><div n="I">IV Duty: q. v.: {#DarmaH.#}</div>
+{@PROVINCE:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#vizayaH;#} </div><div n="1">(2) {#maRqalam;#}</div>
+<div n="1">(3) {#rAzwram#} (= kingdom). </div><div n="I">II Fig., a division:</div>
+<div n="1">(1) {#vizayaH;#} </div><div n="1">(2) {#aNgam#} (subordinate). </div><div n="I">III
+Business, duty: q. v.: </div><div n="1">(1) {#kAryam;#} </div><div n="1">(2) {#niyogaH#}
+(= employment). </div><div n="I">IV Duty: q. v.: {#DarmaH.#}</div>
 <LEND>

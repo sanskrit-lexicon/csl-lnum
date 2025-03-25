@@ -1,7 +1,7 @@
 <L>25332<pc>686-a<k1>retainer<k2>retainer
-<div n="lb"/>RETAINER¦, {%s.%} (Dependant, adherent) {#ASritaH, ASrayI#} {%m.%} {#(n),#}
-<div n="lb"/>{#anucaraH, anujIvI#} {%m.%} {#(n), upajIvI#} {%m.,%} {#BAktikaH, BftyaH, avalambI#} {%m.,%}
-<div n="lb"/>{#anuzaNgI#} {%m.,%} {#anugAmI#} {%m.,%} {#anucArI#} {%m.,%} {#anuyAyI#} {%m.,%} {#anugaH, sapakzaH,#}
-<div n="lb"/>{#sevakaH, pArSvakaH;#} ‘an old retainer,’ {#cirASritaH, cirasevakaH;#} ‘body
-<div n="lb"/>of retainers,’ {#parivAraH, BftyavargaH, sevakavargaH, anuyAyivargaH#}.
+RETAINER¦, {%s.%} (Dependant, adherent) {#ASritaH, ASrayI#} {%m.%} {#(n),#}
+{#anucaraH, anujIvI#} {%m.%} {#(n), upajIvI#} {%m.,%} {#BAktikaH, BftyaH, avalambI#} {%m.,%}
+{#anuzaNgI#} {%m.,%} {#anugAmI#} {%m.,%} {#anucArI#} {%m.,%} {#anuyAyI#} {%m.,%} {#anugaH, sapakzaH,#}
+{#sevakaH, pArSvakaH;#} ‘an old retainer,’ {#cirASritaH, cirasevakaH;#} ‘body
+of retainers,’ {#parivAraH, BftyavargaH, sevakavargaH, anuyAyivargaH#}.
 <LEND>

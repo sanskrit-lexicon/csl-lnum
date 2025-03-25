@@ -1,16 +1,16 @@
 <L>24556<pc>770<k1>year<k2>year
-<div n="lb"/>{@YEAR:@}¦ <div n="1">(1) {#varzam,#} <div n="xe">{%in three y. s.:%}</div> <div n="xs">{#varzatrayeRa,#}</div> K.; <div n="xe">{%for%}
-<div n="lb"/>{%twelve y. s:%}</div> <div n="xs">{#dvAdaSavarzARi,#}</div> D. vi.; <div n="xe">{%became ten y. s%}
-<div n="lb"/>{%old:%}</div> <div n="xs">{#baBUva daSavArzikaH,#}</div> D. b. vii. 15. 44.; <div n="xe">{%lasting%}
-<div n="lb"/>{%twelve y. s:%}</div> <div n="xs">{#dvAdaSavArzikaH#}</div> ({#kI, kaM#}), U. ii.; </div><div n="1">(2)
-<div n="lb"/>{#vatsaraH, saM-,#} Li. 50.; </div><div n="1">(3) {#abdaH,#} <div n="xe">{%in the 8th. y. from%}
-<div n="lb"/>{%conception:%}</div> <div n="xs">{#garBAzwame'bde,#}</div> M. ii. 36.; </div><div n="1">(4) {#hAyanaH,#} ({%a%}
-<div n="lb"/>{%cow%}) <div n="xe">{%four, three y. s old:%}</div> <div n="xs">{#catuztrihAyaRI,#}</div> H. c. i.
-<div n="lb"/>4. 338.; </div><div n="1">(5) {#samA#} (mostly in pl.), 14 y. s:
-<div n="lb"/>{#caturdaSa samAH,#} Vi. iv. 41.; {%for%} 100 <div n="xe">{%y. s:%}</div> <div n="xs">{#sahasra-#}
-<div n="lb"/>{#samam,#}</div> B. p. 4.; </div><div n="1">(6) {#Sarad,#} (= autumn): v.
-<div n="lb"/>Winter. Ph.: <div n="xe">{%last y.:%}</div> <div n="xs">{#parut,#}</div> A.; {%of last y.:%}
-<div n="lb"/>{#parutra#} (f. {#trI#}) (rare); <div n="xe">{%this y.:%}</div> <div n="xs">{#Ezamas,#}</div> A.; <div n="xe">{%y.%}
-<div n="lb"/>{%before last:%}</div> <div n="xs">{#parAri#}</div> (inde.), A.: <div n="xe">{%of y. before%}
-<div n="lb"/>{%last:%}</div> <div n="xs">{#parAritra#}</div> (f. {#trI#}) (rare).</div>
+{@YEAR:@}¦ <div n="1">(1) {#varzam,#} <div n="xe">{%in three y. s.:%}</div> <div n="xs">{#varzatrayeRa,#}</div> K.; <div n="xe">{%for%}
+{%twelve y. s:%}</div> <div n="xs">{#dvAdaSavarzARi,#}</div> D. vi.; <div n="xe">{%became ten y. s%}
+{%old:%}</div> <div n="xs">{#baBUva daSavArzikaH,#}</div> D. b. vii. 15. 44.; <div n="xe">{%lasting%}
+{%twelve y. s:%}</div> <div n="xs">{#dvAdaSavArzikaH#}</div> ({#kI, kaM#}), U. ii.; </div><div n="1">(2)
+{#vatsaraH, saM-,#} Li. 50.; </div><div n="1">(3) {#abdaH,#} <div n="xe">{%in the 8th. y. from%}
+{%conception:%}</div> <div n="xs">{#garBAzwame'bde,#}</div> M. ii. 36.; </div><div n="1">(4) {#hAyanaH,#} ({%a%}
+{%cow%}) <div n="xe">{%four, three y. s old:%}</div> <div n="xs">{#catuztrihAyaRI,#}</div> H. c. i.
+4. 338.; </div><div n="1">(5) {#samA#} (mostly in pl.), 14 y. s:
+{#caturdaSa samAH,#} Vi. iv. 41.; {%for%} 100 <div n="xe">{%y. s:%}</div> <div n="xs">{#sahasra-#}
+{#samam,#}</div> B. p. 4.; </div><div n="1">(6) {#Sarad,#} (= autumn): v.
+Winter. Ph.: <div n="xe">{%last y.:%}</div> <div n="xs">{#parut,#}</div> A.; {%of last y.:%}
+{#parutra#} (f. {#trI#}) (rare); <div n="xe">{%this y.:%}</div> <div n="xs">{#Ezamas,#}</div> A.; <div n="xe">{%y.%}
+{%before last:%}</div> <div n="xs">{#parAri#}</div> (inde.), A.: <div n="xe">{%of y. before%}
+{%last:%}</div> <div n="xs">{#parAritra#}</div> (f. {#trI#}) (rare).</div>
 <LEND>

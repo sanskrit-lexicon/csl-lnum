@@ -1,11 +1,11 @@
 <L>59376<pc>328,1<k1>kzi<k2>kzi<h>4<e>1
-<hom>4.</hom> <s>kzi</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>kzayati</s> (only once, <ls>R. iv, 6, 14</ls>) <ab>cl.</ab> 5. <ab>P.</ab> <s>kziRoti</s> (<ls>ŚBr.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.; 1. <ab>sg.</ab> <s>kziRo/mi</s>, <ls>VS.</ls> for <s>°RA/mi</s> of <ls>AV.</ls>) <ab>cl.</ab> 9. <ab>P.</ab> <s>kziRA/ti</s> (3. <ab>pl.</ab> <s>kziRa/nti</s>; <ab>perf.</ab> 3. <ab>du.</ab> <s>cikziyatur</s>, <ls>Kāś.</ls> on <ls>Pāṇ. 6-4, 77 and 7-4, 10</ls>), 
+<hom>4.</hom> <s>kzi</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>kzayati</s> (only once, <ls>R. iv, 6, 14</ls>) <ab>cl.</ab> 5. <ab>P.</ab> <s>kziRoti</s> (<ls>ŚBr.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.; 1. <ab>sg.</ab> <s>kziRo/mi</s>, <ls>VS.</ls> for <s>°RA/mi</s> of <ls>AV.</ls>) <ab>cl.</ab> 9. <ab>P.</ab> <s>kziRA/ti</s> (3. <ab>pl.</ab> <s>kziRa/nti</s>; <ab>perf.</ab> 3. <ab>du.</ab> <s>cikziyatur</s>, <ls>Kāś.</ls> on <ls>Pāṇ. vi, 4, 77</ls> and <ls n="Pāṇ.">vii, 4, 10</ls>),
 <div n="to"/>to destroy, corrupt, ruin, make an end of (<ab>acc.</ab>), kill, injure, <ls>RV.</ls>; <ls>AV.</ls> &c.:
-<div n="vp"/><ab>Pass.</ab> <s>kzIya/te</s> (<ls>AV. xii, 5, 45</ls>; 3. <ab>pl.</ab> <s>kzI/yante</s>, <ls>RV. i, 62, 12</ls>; <ab>aor.</ab> <ab>Subj.</ab> <s>kzezwa</s> [<ls>AV. iv, 34, 8</ls>] or <s>kzAyi</s>, <ls>TBr. i</ls>; <ab>Cond.</ab> <s>akzezyata</s>, <ls>ŚBr. viii</ls>), 
+<div n="vp"/><ab>Pass.</ab> <s>kzIya/te</s> (<ls>AV. xii, 5, 45</ls>; 3. <ab>pl.</ab> <s>kzI/yante</s>, <ls>RV. i, 62, 12</ls>; <ab>aor.</ab> <ab>Subj.</ab> <s>kzezwa</s> [<ls>AV. iv, 34, 8</ls>] or <s>kzAyi</s>, <ls>TBr. i</ls>; <ab>Cond.</ab> <s>akzezyata</s>, <ls>ŚBr. viii</ls>),
 <div n="to"/>to be diminished, decrease, wane (as the moon), waste away, perish, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls> &c.;
 <div n="to"/>to pass (said of the night), <ls>Kathās.</ls> :
-<div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <s>kzapayati</s> (<ab>fut.</ab> <s>°yizyati</s>), rarely <ab>Ā.</ab> <s>°te</s> (<ls>MBh. i, 1838</ls>; <ls>Daś.</ls>), very rarely <s>kzayayati</s> (<ls>MBh. v, 2134</ls> <ab>ed.</ab> Calc.), to destroy, ruin, make an end of (<ab>acc.</ab>), finish, <ls>MBh.</ls>; <ls>R.</ls> &c.;
+<div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <s>kzapayati</s> (<ab>fut.</ab> <s>°yizyati</s>), rarely <ab>Ā.</ab> <s>°te</s> (<ls>MBh. i, 1838</ls>; <ls>Daś.</ls>), very rarely <s>kzayayati</s> (<ls>MBh. v, 2134</ls> <ab>ed.</ab> <ab>Calc.</ab>), to destroy, ruin, make an end of (<ab>acc.</ab>), finish, <ls>MBh.</ls>; <ls>R.</ls> &c.;
 <div n="to"/>to weaken, <ls>Mn. v, 157</ls>; <ls>MBh. i, 1658</ls>; <ls>Kum. v, 29</ls>;
 <div n="to"/>to pass (as the night or time, <s>kzapAm</s>, <s>°pAs</s>, <s>kAlam</s>), <ls>Pañcat.</ls>; <ls>Kād.</ls>; <ls>ŚārṅgP.</ls>;
-<div n="vp"/> ([<ab>cf.</ab> <lang n="greek">φθί-νω</lang> <lang n="greek">φθί-σι-ς</lang>, &c.])<info whitneyroots="kzi2,29"/><info verb="genuineroot" cp="1P,5P,9P,9Ā"/>
+<div n="vp"/> [<ab>cf.</ab> <gk>ϕθί-νω</gk> <gk>ϕθί-σι-ς</gk>, &c.]<info whitneyroots="kzi2,29"/><info verb="genuineroot" cp="1P,5P,9P,9Ā"/>
 <LEND>

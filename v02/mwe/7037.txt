@@ -1,8 +1,8 @@
 <L>7037<pc>159-a<k1>debile<k2>debile
-<div n="lb"/>DEBILE¦, {%a.%} {#durbalaH -lA -laM, alpabalaH -lA -laM, alpaSaktiH -ktiH -kti,#}
-<div n="lb"/>{#SiTilabalaH -lA -laM, SiTilaSaktiH -ktiH -kti, SiTilaH -lA -laM,#}
-<div n="lb"/>{#alpavIryyaH -ryyA -ryyaM, alpatejAH -jAH -jaH (s), alpasattvaH -ttvA -ttvaM,#}
-<div n="lb"/>{#PalguH -lguH -lgu, mlAnaSaktiH -ktiH -kti, glAnaH -nA -naM, kfSaH -SA -SaM,#}
-<div n="lb"/>{#visrastatejAH -jAH -jaH (s), avasannaH -nnA -nnaM, kzAmaH -mA -maM, klIvaH -vA#}
-<div n="lb"/>{#-vaM, kzIRaSattiH -ktiH -kti#}.
+DEBILE¦, {%a.%} {#durbalaH -lA -laM, alpabalaH -lA -laM, alpaSaktiH -ktiH -kti,#}
+{#SiTilabalaH -lA -laM, SiTilaSaktiH -ktiH -kti, SiTilaH -lA -laM,#}
+{#alpavIryyaH -ryyA -ryyaM, alpatejAH -jAH -jaH (s), alpasattvaH -ttvA -ttvaM,#}
+{#PalguH -lguH -lgu, mlAnaSaktiH -ktiH -kti, glAnaH -nA -naM, kfSaH -SA -SaM,#}
+{#visrastatejAH -jAH -jaH (s), avasannaH -nnA -nnaM, kzAmaH -mA -maM, klIvaH -vA#}
+{#-vaM, kzIRaSattiH -ktiH -kti#}.
 <LEND>

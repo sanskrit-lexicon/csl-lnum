@@ -1,9 +1,9 @@
 <L>25184<pc>680-b<k1>reputation<k2>reputation
-<div n="lb"/>REPUTATION¦, {%s.%} {#kIrttiH#} {%f.,%} {#KyAtiH#} {%f.,%} {#viKyAtiH#} {%f.,%} {#pratizWA, samAKyA,#}
-<div n="lb"/>{#yaSas#} {%n.,%} {#pariKyAtiH#} {%f.,%} {#pratiKyAtiH#} {%f.,%} {#praviKyAtiH, prakIrttiH#} {%f.,%} {#kIrttanA#}
-<div n="lb"/>{#-naM, pratipattiH#} {%f.,%} {#praTA, sampraTA, maryyAdA, samAjYA, prasidDiH#} {%f.,%} {#gOravaM,#}
-<div n="lb"/>{#cAritraM;#} ‘one who has established a reputation,’ {#labDapratizWaH#}
-<div n="lb"/>{#-zWA -zWaM, prAptapratizWaH#} &c.; ‘good reputation,’ {#sukIrttiH#} {%f.,%} {#satkI-#}
-<div n="lb"/>{#rttiH#} {%f.,%} {#suKyAtiH#} {%f.;%} ‘bad reputation,’ {#kukIrttiH#} {%f.,%} {#duzkIrttiH#} {%f.,%}
-<div n="lb"/>{#akIrttiH, apakIrttiH#} {%f.,%} {#kuKyAtiH#} {%f.,%} {#aKyAtiH#} {%f.,%} {#ayaSas#} {%n.,%} {#vAcyatA#}.
+REPUTATION¦, {%s.%} {#kIrttiH#} {%f.,%} {#KyAtiH#} {%f.,%} {#viKyAtiH#} {%f.,%} {#pratizWA, samAKyA,#}
+{#yaSas#} {%n.,%} {#pariKyAtiH#} {%f.,%} {#pratiKyAtiH#} {%f.,%} {#praviKyAtiH, prakIrttiH#} {%f.,%} {#kIrttanA#}
+{#-naM, pratipattiH#} {%f.,%} {#praTA, sampraTA, maryyAdA, samAjYA, prasidDiH#} {%f.,%} {#gOravaM,#}
+{#cAritraM;#} ‘one who has established a reputation,’ {#labDapratizWaH#}
+{#-zWA -zWaM, prAptapratizWaH#} &c.; ‘good reputation,’ {#sukIrttiH#} {%f.,%} {#satkI-#}
+{#rttiH#} {%f.,%} {#suKyAtiH#} {%f.;%} ‘bad reputation,’ {#kukIrttiH#} {%f.,%} {#duzkIrttiH#} {%f.,%}
+{#akIrttiH, apakIrttiH#} {%f.,%} {#kuKyAtiH#} {%f.,%} {#aKyAtiH#} {%f.,%} {#ayaSas#} {%n.,%} {#vAcyatA#}.
 <LEND>

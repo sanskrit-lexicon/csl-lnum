@@ -1,12 +1,12 @@
 <L>13456<pc>414<k1>let<k2>let
-<div n="lb"/>{@LET:@}¦ <div n="I">I To allow, permit: q. v. </div><div n="I">II As
-<div n="lb"/>sign of imper. mood: </div><div n="1">(1) by {#low,#} <div n="xe">{%let him%}
-<div n="lb"/>{%be entirely so:%}</div> <div n="xs">{#taTAviDastAvadaSezamastu saH,#}</div> Ku.;
-<div n="lb"/><div n="xe">{%l. him say all he thinks proper to say:%}</div> <div n="xs">{#ucyatAM sa #}
-<div n="lb"/>{# vacanIyamaSezam,#}</div> Ki.; <div n="xe">{%l. it be what may be:%}</div> <div n="xs">{#yadastu #}
-<div n="lb"/>{# tadastu,#}</div> Ma.; </div><div n="1">(2) by {#luN#} after {#mA,#} {%l. it never%}
-<div n="lb"/><div n="xe">{%come to pass:%}</div> <div n="xs">{#mA sma BUt,#}</div> Ki.; <div n="xe">{%l. not cupid enchant%}
-<div n="lb"/>{%you:%}</div> <div n="xs">{#mA mUmuhadBavantamananyajanmA,#}</div> Ma. </div><div n="I">III To
-<div n="lb"/>lease: {#BAwakena dadAti,#} ({#dA,#} c. 3.). </div><div n="I">IV Of
-<div n="lb"/>blood: {#srAvayati#} (c. of {#sru#}): v. Bleed.</div>
+{@LET:@}¦ <div n="I">I To allow, permit: q. v. </div><div n="I">II As
+sign of imper. mood: </div><div n="1">(1) by {#low,#} <div n="xe">{%let him%}
+{%be entirely so:%}</div> <div n="xs">{#taTAviDastAvadaSezamastu saH,#}</div> Ku.;
+<div n="xe">{%l. him say all he thinks proper to say:%}</div> <div n="xs">{#ucyatAM sa #}
+{# vacanIyamaSezam,#}</div> Ki.; <div n="xe">{%l. it be what may be:%}</div> <div n="xs">{#yadastu #}
+{# tadastu,#}</div> Ma.; </div><div n="1">(2) by {#luN#} after {#mA,#} {%l. it never%}
+<div n="xe">{%come to pass:%}</div> <div n="xs">{#mA sma BUt,#}</div> Ki.; <div n="xe">{%l. not cupid enchant%}
+{%you:%}</div> <div n="xs">{#mA mUmuhadBavantamananyajanmA,#}</div> Ma. </div><div n="I">III To
+lease: {#BAwakena dadAti,#} ({#dA,#} c. 3.). </div><div n="I">IV Of
+blood: {#srAvayati#} (c. of {#sru#}): v. Bleed.</div>
 <LEND>

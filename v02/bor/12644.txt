@@ -1,7 +1,7 @@
 <L>12644<pc>391<k1>invert<k2>invert
-<div n="lb"/>{@INVERT@}¦ (v.t.): {#viparyAsayati#} (c. of {#as#}) (?). Ph.:
-<div n="lb"/><div n="xe">{%reads i. ing the first and the second personal pro-%}
-<div n="lb"/>{%noun:%}</div> <div n="xs">{#yuzmadasmadayorvyatyayena paWati,#}</div> Mu. v.; {%the thick-%}
-<div n="lb"/>{%ness and thinness of trees are%} ({%now%}) <div n="xe">{%i. ed:%}</div> <div n="xs">{#viparyAsaM #}
-<div n="lb"/>{# yAto GanaviralamAvaH kzitiruhAm,#}</div> U. ii. 27.
+{@INVERT@}¦ (v.t.): {#viparyAsayati#} (c. of {#as#}) (?). Ph.:
+<div n="xe">{%reads i. ing the first and the second personal pro-%}
+{%noun:%}</div> <div n="xs">{#yuzmadasmadayorvyatyayena paWati,#}</div> Mu. v.; {%the thick-%}
+{%ness and thinness of trees are%} ({%now%}) <div n="xe">{%i. ed:%}</div> <div n="xs">{#viparyAsaM #}
+{# yAto GanaviralamAvaH kzitiruhAm,#}</div> U. ii. 27.
 <LEND>

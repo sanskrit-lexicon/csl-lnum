@@ -1,5 +1,5 @@
 <L>30492<pc>174,2<k1>ucCvas<k2>uc-Cvas<e>1
-<s>uc-Cvas</s> ¦ (<s>ud-√ Svas</s>) <ab>P.</ab> <ab>Ā.</ab> <s>-Cvasiti</s> (<ab>p.</ab> <s>-Cvasat</s>, <s>-CvasamAna</s>; <ab>Pot.</ab> <s>-Cvaset</s>, <s>-CvasIta</s>) 
+<s>uc-Cvas</s> ¦ (<s>ud-√ Svas</s>) <ab>P.</ab> <ab>Ā.</ab> <s>-Cvasiti</s> (<ab>p.</ab> <s>-Cvasat</s>, <s>-CvasamAna</s>; <ab>Pot.</ab> <s>-Cvaset</s>, <s>-CvasIta</s>)
 <div n="to"/>to breathe hard, snort;
 <div n="to"/>to take a deep breath, breathe;
 <div n="to"/>to breathe again, get breath, recover, rest, <ls>Gobh.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls>; <ls>Suśr.</ls>; <ls>MārkP.</ls>; <ls>ŚvetUp.</ls> &c.;
@@ -8,7 +8,7 @@
 <div n="to"/>to unfasten one's self, <ls>BhP.</ls>;
 <div n="to"/>to open, begin to bloom, <ls>Vikr.</ls>; <ls>Mālav.</ls>;
 <div n="to"/>to heave:
-<div n="to"/><ab>Caus.</ab> <s>-CvAsayati</s>, to cause to breathe again or recover;
+<div n="vp"/><ab>Caus.</ab> <s>-CvAsayati</s>, to cause to breathe again or recover;
 <div n="to"/>to gladden, <ls>BhP.</ls>;
 <div n="to"/>to raise, lift, elevate;
 <div n="to"/>to untie (<ab>cf.</ab> <s>uc-CvAsita</s> below). <info verb="pre" cp="PĀ" parse="ud+Svas"/>

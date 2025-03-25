@@ -1,16 +1,16 @@
 <L>8517<pc>372<k1>quantity<k2>quantity
 {@Quantity,@}¦ {%s.%} {#parimARaM, pramARaM, mAnaM, mAtrA,#}
-<div n="lb"/>{#aMSaH, BAgaH#}. {@2@} {#mAtrA#}. {@3@} {#rASiH#}. {@4@} (Large)
-<div n="lb"/>{#saMcayaH, oGaH, pUgaH, puMjaH, rASiH, saMgrahaH;#}
-<div n="lb"/>‘a great q. of’ {#praBUta, pracura, bahu, vipula;#}
-<div n="lb"/>‘great q.’ {#bAhulyaM, prAcuryaM, bahuBAgaH, BU-#}
-<div n="lb"/>{#-yizWAMSaH;#} ex. by {#bahu, pracura, vipula#} (Much,
-<div n="lb"/>q. v.); ‘in large q. es’ {#bahuSaH, bAhulyena,#}
-<div n="lb"/>{#prAcuryeRa;#} ‘small q.’ {#stokAMSaH, alpaBAgaH,#}
-<div n="lb"/>{#alpaM, stokaM, alpamAtraM;#} ‘in small q. es’
-<div n="lb"/>{#alpaSaH, stokAMSena;#} ‘long q.’ {#dIrGaH;#}
-<div n="lb"/>‘short q.’ {#hrasvaH;#} ‘known q.’ {#vyakta-#}
-<div n="lb"/>{#-rASiH;#} ‘unknown q.’ {#avyaktarASiH;#}
-<div n="lb"/>‘positive, negative, q.’ {#Dana-fRa-rASiH;#}
-<div n="lb"/>‘what q. of’ {#kiyat#}.
+{#aMSaH, BAgaH#}. {@2@} {#mAtrA#}. {@3@} {#rASiH#}. {@4@} (Large)
+{#saMcayaH, oGaH, pUgaH, puMjaH, rASiH, saMgrahaH;#}
+‘a great q. of’ {#praBUta, pracura, bahu, vipula;#}
+‘great q.’ {#bAhulyaM, prAcuryaM, bahuBAgaH, BU-#}
+{#-yizWAMSaH;#} ex. by {#bahu, pracura, vipula#} (Much,
+q. v.); ‘in large q. es’ {#bahuSaH, bAhulyena,#}
+{#prAcuryeRa;#} ‘small q.’ {#stokAMSaH, alpaBAgaH,#}
+{#alpaM, stokaM, alpamAtraM;#} ‘in small q. es’
+{#alpaSaH, stokAMSena;#} ‘long q.’ {#dIrGaH;#}
+‘short q.’ {#hrasvaH;#} ‘known q.’ {#vyakta-#}
+{#-rASiH;#} ‘unknown q.’ {#avyaktarASiH;#}
+‘positive, negative, q.’ {#Dana-fRa-rASiH;#}
+‘what q. of’ {#kiyat#}.
 <LEND>

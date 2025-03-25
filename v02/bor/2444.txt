@@ -1,4 +1,4 @@
 <L>2444<pc>084<k1>boyhood<k2>boyhood
-<div n="lb"/>{@BOYHOOD:@}¦ <div n="1">(1) {#bAlyam;#} </div><div n="1">(2) {#SESavam;#} </div><div n="1">(3) {#kOmAram;#}</div>
-<div n="lb"/><div n="1">(4) {#SiSutvam#} (rare).</div>
+{@BOYHOOD:@}¦ <div n="1">(1) {#bAlyam;#} </div><div n="1">(2) {#SESavam;#} </div><div n="1">(3) {#kOmAram;#}</div>
+<div n="1">(4) {#SiSutvam#} (rare).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>767<pc>027<k1>angle<k2>angle
-<div n="lb"/>{@ANGLE@}¦ (subs): (I) {#koRaH#}; <div n="1">(2) {#asnaH.#} {%Right a.%}
-<div n="lb"/>{#samakoRaH;#} <div n="xe">{%obtuse a.%}</div> <div n="xs">{#*vizamakoRaH;#}</div> <div n="xe">{%acute a.%}</div> <div n="xs">{#samona-#}
-<div n="lb"/>{#koRaH, sUkzmakoRaH;#}</div> <div n="xe">{%alternate a.%}</div> <div n="xs">{#viparyastakoRaH.#}</div></div>
+{@ANGLE@}¦ (subs): (I) {#koRaH#}; <div n="1">(2) {#asnaH.#} {%Right a.%}
+{#samakoRaH;#} <div n="xe">{%obtuse a.%}</div> <div n="xs">{#*vizamakoRaH;#}</div> <div n="xe">{%acute a.%}</div> <div n="xs">{#samona-#}
+{#koRaH, sUkzmakoRaH;#}</div> <div n="xe">{%alternate a.%}</div> <div n="xs">{#viparyastakoRaH.#}</div></div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>22501<pc>710<k1>threshold<k2>threshold
-<div n="lb"/>{@THRESHOLD:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#dehalI;#} </div><div n="1">(2) {#dvArapiRqI;#}</div>
-<div n="lb"/><div n="1">(3) {#gfhAvagrahaRI;#} </div><div n="1">(4) {#uqumbaraH#} (rare). </div><div n="I">II Fig.:
-<div n="lb"/>{#prAramBaH:#} v. Beginning.</div>
+{@THRESHOLD:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#dehalI;#} </div><div n="1">(2) {#dvArapiRqI;#}</div>
+<div n="1">(3) {#gfhAvagrahaRI;#} </div><div n="1">(4) {#uqumbaraH#} (rare). </div><div n="I">II Fig.:
+{#prAramBaH:#} v. Beginning.</div>
 <LEND>

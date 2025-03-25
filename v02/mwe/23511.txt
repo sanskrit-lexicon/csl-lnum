@@ -1,6 +1,6 @@
 <L>23511<pc>626-a<k1>prisoner<k2>prisoner
-<div n="lb"/>PRISONER¦, {%s.%} {#vandiH#} {%f.,%} {#vandI#} {%f.,%} {#kArAsTaH, kArAgArasTaH, kArAguptaH, pagrahaH,#}
-<div n="lb"/>{#upagrahaH, grahaRaH, kaparakI#} {%f.,%} {#karamarI#} {%m.%} {#(n), vAriH#} {%f.,%} {#goraNkuH#} {%m.%}
-<div n="lb"/> — (One taken in war) {#yudDaDftaH, yudDagfhItaH, SatruDftaH, SatrugfhItaH,#}
-<div n="lb"/>{#yudDadAsaH#}.
+PRISONER¦, {%s.%} {#vandiH#} {%f.,%} {#vandI#} {%f.,%} {#kArAsTaH, kArAgArasTaH, kArAguptaH, pagrahaH,#}
+{#upagrahaH, grahaRaH, kaparakI#} {%f.,%} {#karamarI#} {%m.%} {#(n), vAriH#} {%f.,%} {#goraNkuH#} {%m.%}
+ — (One taken in war) {#yudDaDftaH, yudDagfhItaH, SatruDftaH, SatrugfhItaH,#}
+{#yudDadAsaH#}.
 <LEND>

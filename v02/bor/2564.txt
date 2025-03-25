@@ -1,4 +1,4 @@
 <L>2564<pc>088<k1>brewhouse or brewery<k2>brewhouse or brewery
-<div n="lb"/>{@BREWHOUSE or BREWERY:@}¦ {#*yavasurapAcakasTalI; #}
-<div n="lb"/>{# yavasurapAkaSAlA.#}
+{@BREWHOUSE or BREWERY:@}¦ {#*yavasurapAcakasTalI; #}
+{# yavasurapAkaSAlA.#}
 <LEND>

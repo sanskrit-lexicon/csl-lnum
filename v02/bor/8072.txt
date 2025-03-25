@@ -1,5 +1,5 @@
 <L>8072<pc>255<k1>exhibition<k2>exhibition
-<div n="lb"/>{@EXHIBITION:@}¦ <div n="I">I Display: </div><div n="1">(1) {#darSanam, pra-,#} </div><div n="1">(2)
-<div n="lb"/>{#prakawIkaraRam.#} </div><div n="I">II A show: {#pradarSanI#} (?). </div><div n="I">III A
-<div n="lb"/>scholarship: {#vfttiH,#} (or fully) {#CAtravfttiH.#}</div>
+{@EXHIBITION:@}¦ <div n="I">I Display: </div><div n="1">(1) {#darSanam, pra-,#} </div><div n="1">(2)
+{#prakawIkaraRam.#} </div><div n="I">II A show: {#pradarSanI#} (?). </div><div n="I">III A
+scholarship: {#vfttiH,#} (or fully) {#CAtravfttiH.#}</div>
 <LEND>

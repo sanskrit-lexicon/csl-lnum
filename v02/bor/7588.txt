@@ -1,11 +1,11 @@
 <L>7588<pc>240<k1>engage<k2>engage
-<div n="lb"/>{@ENGAGE@}¦ (v. t.): <div n="I">I To bind, pledge: q. v.:
-<div n="lb"/>{#baDnAti#} ({#banD,#} c. 7.). </div><div n="I">II To enlist: perh.
-<div n="lb"/>{#BAwayati#} (= to hire); {#utTApayati#} (c. of {#sTA#})
-<div n="lb"/>(= raise). </div><div n="I">III To attract: q.v.: {#Akarzati#}
-<div n="lb"/>({#kfz,#} c. 1.). </div><div n="I">IV To occupy, employ: q. v.:
-<div n="lb"/>{#vyApArayati#} (c. of {#pf#}). <div n="xe">{%To be e. d:%}</div> <div n="xs">{#vyApriyate#}</div> ({#pf,#}
-<div n="lb"/>c. 6.). <div n="xe">{%E. d:%}</div> <div n="xs">{#vyApftaH#}</div> ({#tA, taM#}); {#savyApAraH#} ({#rA, #}
-<div n="lb"/>{# raM#}), <div n="xe">{%in the daytime while e.:%}</div> <div n="xs">{#savyApArAmahani,#}</div> Me.
-<div n="lb"/>V. To encounter: q. v.: {#aByeti#} ({#i,#} c. 2.).</div>
+{@ENGAGE@}¦ (v. t.): <div n="I">I To bind, pledge: q. v.:
+{#baDnAti#} ({#banD,#} c. 7.). </div><div n="I">II To enlist: perh.
+{#BAwayati#} (= to hire); {#utTApayati#} (c. of {#sTA#})
+(= raise). </div><div n="I">III To attract: q.v.: {#Akarzati#}
+({#kfz,#} c. 1.). </div><div n="I">IV To occupy, employ: q. v.:
+{#vyApArayati#} (c. of {#pf#}). <div n="xe">{%To be e. d:%}</div> <div n="xs">{#vyApriyate#}</div> ({#pf,#}
+c. 6.). <div n="xe">{%E. d:%}</div> <div n="xs">{#vyApftaH#}</div> ({#tA, taM#}); {#savyApAraH#} ({#rA, #}
+{# raM#}), <div n="xe">{%in the daytime while e.:%}</div> <div n="xs">{#savyApArAmahani,#}</div> Me.
+V. To encounter: q. v.: {#aByeti#} ({#i,#} c. 2.).</div>
 <LEND>

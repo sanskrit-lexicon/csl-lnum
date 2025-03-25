@@ -1,7 +1,7 @@
 <L>18131<pc>462-a<k1>locomotive<k2>locomotive
-<div n="lb"/>LOCOMOTIVE¦, {%a.%} {#jaNgamaH -mA -maM, calaH -lA -laM, calanaH -nA -naM, calana-#}
-<div n="lb"/>{#SIlaH -lA -laM, calanaDarmmakaH -kA -kaM, calanaSaktikaH -kA -kaM, caraH#}
-<div n="lb"/>{#-rA -rI -raM, carizRuH -zRuH -zRu, sftvaraH -rA -raM, gAmukaH -kA -kaM,#}
-<div n="lb"/>{#gatimAn -matI -mat (t), gatvaraH -rI -raM, gamanaSaktiviSizwaH -zwA -zwaM,#}
-<div n="lb"/>{#pAdukaH -kA -kaM#}.
+LOCOMOTIVE¦, {%a.%} {#jaNgamaH -mA -maM, calaH -lA -laM, calanaH -nA -naM, calana-#}
+{#SIlaH -lA -laM, calanaDarmmakaH -kA -kaM, calanaSaktikaH -kA -kaM, caraH#}
+{#-rA -rI -raM, carizRuH -zRuH -zRu, sftvaraH -rA -raM, gAmukaH -kA -kaM,#}
+{#gatimAn -matI -mat (t), gatvaraH -rI -raM, gamanaSaktiviSizwaH -zwA -zwaM,#}
+{#pAdukaH -kA -kaM#}.
 <LEND>

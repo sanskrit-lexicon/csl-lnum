@@ -1,11 +1,11 @@
 <L>95068<pc>490,1<k1>dfMh<k2>dfMh<e>1
-<s>dfMh</s> ¦ or <s>dfh</s> <ab>cl.</ab> 1. <ab>P.</ab> <s>df/Mhati</s>, to make firm, fix, strengthen, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls> &c. (<ab>p.</ab> <s>dfMha/ntam</s>, <ls>AV. xii, 29</ls>);
-<div n="to"/> <ab>Ā.</ab> <s>°te</s>, to be firm or strong, <ls>RV.</ls> &c. (trans. = <ab>P.</ab> only in <s>dfMhe/Te</s>, <ls>RV. vi, 67, 6, and</ls> <s>dfMhAmahE</s>, <ls>ŚBr. ii, 1, 9</ls>);
-<div n="vp"/> <ab>cl.</ab> 4. <ab>Ā.</ab> <ab>P.</ab> only <ab>Impf.</ab> <s>dfhya</s> and <s>°hyasva</s>, be strong, <ls>RV.</ls>;
+<s>dfMh</s> or <s>dfh</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>df/Mhati</s>, to make firm, fix, strengthen, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls> &c. (<ab>p.</ab> <s>dfMha/ntam</s>, <ls>AV. xii, 29</ls>);
+<div n="to"/> <ab>Ā.</ab> <s>°te</s>, to be firm or strong, <ls>RV.</ls> &c. (<ab>trans.</ab> = <ab>P.</ab> only in <s>dfMhe/Te</s>, <ls>RV. vi, 67, 6</ls>, and <s>dfMhAmahE</s>, <ls>ŚBr. ii, 1, 9</ls>);
+<div n="vp"/> <ab>cl.</ab> 4. <ab>P.</ab> <ab>Ā.</ab> only <ab>Impf.</ab> <s>dfhya</s> and <s>°hyasva</s>, be strong, <ls>RV.</ls>;
 <div n="to"/> <ab>cl.</ab> 1. <s>darhati</s>, to grow, <ls>Dhātup. xvii, 84</ls> <pb n="490,2"/>;
 <div n="vp"/> <ab>pf.</ab> <s>dadarha</s> or <s>dadfMha</s>;
-<div n="vp"/> <ab>p.</ab> <ab>Ā.</ab> <s>dAdfhARa/</s>, fixing, holding, <ls>RV. i, 130, 4; iv, 26, 6</ls>;
-<div n="vp"/> fixed, firm, <ls>i, 85, 10</ls>;
-<div n="vp"/> <ab>aor.</ab> <s>a/dadfhanta</s>, they were fixed or firm, <ls>x, 82, 1</ls> :
-<div n="vp"/><ab>Caus.</ab> <ab>Ā.</ab> <ab>P.</ab> <s>dfMhayati</s>, <s>°te</s>, to make firm, fix, establish, <ls>AV.</ls>; <ls>Kauś.</ls>; <ls>Gobh.</ls><info or="95068,dfMh;95068.1,dfh"/><info westergaard="dfha,17.84,01.0473"/><info whitneyroots="dfh,78"/><info verb="genuineroot" cp="1P,1Ā,4P,4Ā"/>
+<div n="vp"/> <ab>p.</ab> <ab>Ā.</ab> <s>dAdfhARa/</s>, fixing, holding, <ls>RV. i, 130, 4</ls>; <ls n="RV.">iv, 26, 6</ls>;
+<div n="vp"/> fixed, firm, <ls n="RV.">i, 85, 10</ls>;
+<div n="vp"/> <ab>aor.</ab> <s>a/dadfhanta</s>, they were fixed or firm, <ls n="RV.">x, 82, 1</ls> :
+<div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <ab>Ā.</ab> <s>dfMhayati</s>, <s>°te</s>, to make firm, fix, establish, <ls>AV.</ls>; <ls>Kauś.</ls>; <ls>Gobh.</ls><info westergaard="dfha,17.84,01.0473"/><info whitneyroots="dfh,78"/><info verb="genuineroot" cp="1P,1Ā,4P,4Ā"/>
 <LEND>

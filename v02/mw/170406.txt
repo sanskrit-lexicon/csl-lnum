@@ -1,3 +1,3 @@
-<L>170406<pc>846,2<k1>yamakowI<k2>ya/ma—kowI<e>3
-<s>ya/ma—kowi</s> or <s>ya/ma—ko°wI</s>, <lex>f.</lex> <ab>N.</ab> of a mythical town (fabled as situated 90 degrees east of the meridian of <s1 slp1="laNkA">Laṅkā</s1>; also <s>°wi-pattana</s> <lex type="phw">n.</lex> <s>°wi-purI</s> <lex type="phw">f.</lex>), <ls>VP.</ls>; <ls>Sūryas.</ls> &c. (<ab>cf.</ab> <s>yava-kowi</s>). <info or="170405,yamakowi;170406,yamakowI"/><info phwchild="170405.1"/><info phwchild="170405.2"/><info lex="f"/>
+<L>170406<pc>846,2<k1>yamakowipattana<k2>yama—kowi-pattana<e>4
+<s>yama—kowi-pattana</s> ¦ <lex>n.</lex> <ab>N.</ab> of a mythical town<info phwparent="170405,yamakowi"/><info lex="n"/>
 <LEND>

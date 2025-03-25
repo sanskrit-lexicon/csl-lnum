@@ -1,3 +1,3 @@
-<L>249250<pc>1234,2<k1>suyyA<k2>suyyA<h>b<e>2
-<s>suyyA</s> <hom>b</hom> ¦ <lex>f.</lex> <ab>N.</ab> of a woman, <ls>Rājat.</ls><info lex="f"/>
+<L>249250<pc>1234,2<k1>suyyA<k2>suyyA<e>2
+<s>suyyA</s> ¦ <lex>f.</lex> <ab>N.</ab> of a woman, <ls>Rājat.</ls><info lex="f"/><info hui="b"/>
 <LEND>

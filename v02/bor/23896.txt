@@ -1,8 +1,8 @@
 <L>23896<pc>748<k1>violence<k2>violence
-<div n="lb"/>{@VIOLENCE:@}¦ <div n="I">I Force, strength: q. v.: {#balam.#}</div>
-<div n="lb"/><div n="I">II Vehemence, speed: q. v.: {#taras#} (n.). </div><div n="I">III</div>
-<div n="lb"/><div n="I">V to chastity: {#balAtkAraH.#} </div><div n="I">IV Any outrage:</div>
-<div n="lb"/><div n="1">(1) {#sAhasam,#} <div n="xe">{%highest v.:%}</div> <div n="xs">{#uttamaM sAhasam,#}</div> N. s.; <div n="xe">{%one%}
-<div n="lb"/>{%who abets v.:%}</div> <div n="xs">{#yaH sAhasaM kArayati,#}</div> Y.; </div><div n="1">(2)
-<div n="lb"/>{#sahobalam#} (rare), Mit.</div>
+{@VIOLENCE:@}¦ <div n="I">I Force, strength: q. v.: {#balam.#}</div>
+<div n="I">II Vehemence, speed: q. v.: {#taras#} (n.). </div><div n="I">III</div>
+<div n="I">V to chastity: {#balAtkAraH.#} </div><div n="I">IV Any outrage:</div>
+<div n="1">(1) {#sAhasam,#} <div n="xe">{%highest v.:%}</div> <div n="xs">{#uttamaM sAhasam,#}</div> N. s.; <div n="xe">{%one%}
+{%who abets v.:%}</div> <div n="xs">{#yaH sAhasaM kArayati,#}</div> Y.; </div><div n="1">(2)
+{#sahobalam#} (rare), Mit.</div>
 <LEND>

@@ -1,33 +1,33 @@
 <L>36151<pc>3-0863<k1>Danvan<k2>Da/nvan<h>2
-2. {#Da/nvan#}¦ 
-<ls>UṆĀDIS. 1, 156.</ls> <lex>m.</lex> (nicht in der älteren Sprache) und <lex>n.</lex> 
-<div n="1"> 1) {%trockenes Land%} (im Gegens. zum {%Wasser); dürres Land, Wüste%} 
-<ls>AK. 2, 1, 5. 3, 4, 25, 165.</ls> 
-<ls>TRIK. 3, 3, 244.</ls> 
-<ls>H. 940.</ls> 
-<ls>an. 2, 269.</ls> 
-<ls>MED. n. 78.</ls> {#tvayA^ hi\tamapya^ma\psu BA\gaM DanvAnvA mf^ga\yaso\ vi ta^sTuH#} 
-<ls>ṚV. 2, 38, 7.</ls> {#Arda\nDanvA^ni sa\raya^nta\ Apa^H#} 
-<ls n="ṚV.">4, 17, 2.</ls> {#sa\mu\drasya\ Danva^n#} {%am Strande%} 
-<ls n="ṚV.">1, 116, 4.</ls> {#ati\ Danve^va\ tA~ i^hi#} 
-<ls n="ṚV.">3, 45, 1.</ls> {#Danvan, nimna#} 
-<ls n="ṚV.">4, 33, 7.</ls> {#DanvA\nyajrA^~ apfRaktfzA\RAn#} 
-<ls n="ṚV. 4,">19, 7.</ls> <ls n="ṚV.">5, 53, 6.</ls> <ls n="ṚV. 5,">83, 10.</ls> {#jana\M na Danva^nna\Bi saM yadApa^H sa\trA vA^vfDu\rhava^nAni ya\jYEH#} 
-<ls n="ṚV.">6, 34, 4.</ls> <ls n="ṚV.">9, 79, 3.</ls> {#Danva^nniva pra\pA a^si#} 
-<ls n="ṚV.">10, 4, 1.</ls> <ls n="ṚV. 10,">63, 15.</ls> {#Danvan, kfntatra#} 
-<ls n="ṚV. 10,">86, 20.</ls> {#yasti\ro DanvA^ti\roca^te#} {%der über das Land hin scheint%} 
-<ls n="ṚV.">10, 187, 2.</ls> (vgl. 
-<ls>NIR. 5, 5</ls> und <ls>NAIGH. 1, 13</ls> = {#antarikza#}). 
-<ls>AV. 6, 100, 1. 5, 13, 1. 7, 41, 1.</ls> {#taM bahirDanvodavahannatrEnaM pipAsA hantu#} 
-<ls>AIT. BR. 2, 19.</ls> 
-<ls>ŚAT. BR. 7, 2, 3, 2. 14, 1, 1, 8.</ls> 
-<ls>TAITT. ĀR. 6, 5, 7.</ls> 
-<ls>P. 4, 2, 121.</ls> {#Danvadurga (pura)#} 
-<ls>M. 7, 70</ls> (Lesart des 
-<ls>KULL.</ls><ls>?). SUŚR. 1, 369, 21. BHĀG. P. 9, 4, 22.</ls> Sehr häufig mit {#maru#} in comp.: {#atItya maruDanvAnam#} 
-<ls>MBH. 7, 3781.</ls> {#sarasvatIkUle samezu maruDanvasu#} 
-<ls>3, 242. 1, 6653.</ls> <ls>HARIV. 678.</ls> <ls>BHĀG. P. 6, 8, 36.</ls> <ls>MĀRK. P. 49, 35.</ls> 
-<div n="1">— 2) {%Alhagi Maurorum Tournef., eine in dürrem Lande wachsende Pflanze%} (vgl. {#samudrAntA, DanvayavAsa, DanvayAsa#}) 
-<ls>NIGH. PR.</ls> 
+2. {#Da/nvan#}¦
+<ls>UṆĀDIS. 1,156.</ls> <lex>m.</lex> (nicht in der älteren Sprache) und <lex>n.</lex>
+<div n="1"> 1) {%trockenes Land%} (im Gegens. zum {%Wasser); dürres Land, Wüste%}
+<ls>AK. 2,1,5.</ls> <ls n="AK.">3,4,25,165.</ls>
+<ls>TRIK. 3,3,244.</ls>
+<ls>H. 940.</ls>
+<ls>an. 2,269.</ls>
+<ls>MED. n. 78.</ls> {#tvayA^ hi\tamapya^ma\psu BA\gaM DanvAnvA mf^ga\yaso\ vi ta^sTuH#}
+<ls>ṚV. 2,38,7.</ls> {#Arda\nDanvA^ni sa\raya^nta\ Apa^H#}
+<ls n="ṚV.">4,17,2.</ls> {#sa\mu\drasya\ Danva^n#} {%am Strande%}
+<ls n="ṚV.">1,116,4.</ls> {#ati\ Danve^va\ tA~ i^hi#}
+<ls n="ṚV.">3,45,1.</ls> {#Danvan, nimna#}
+<ls n="ṚV.">4,33,7.</ls> {#DanvA\nyajrA^~ apfRaktfzA\RAn#}
+<ls n="ṚV. 4,">19,7.</ls> <ls n="ṚV.">5,53,6.</ls> <ls n="ṚV. 5,">83,10.</ls> {#jana\M na Danva^nna\Bi saM yadApa^H sa\trA vA^vfDu\rhava^nAni ya\jYEH#}
+<ls n="ṚV.">6,34,4.</ls> <ls n="ṚV.">9,79,3.</ls> {#Danva^nniva pra\pA a^si#}
+<ls n="ṚV.">10,4,1.</ls> <ls n="ṚV. 10,">63,15.</ls> {#Danvan, kfntatra#}
+<ls n="ṚV. 10,">86,20.</ls> {#yasti\ro DanvA^ti\roca^te#} {%der über das Land hin scheint%}
+<ls n="ṚV.">10,187,2.</ls> (vgl.
+<ls>NIR. 5,5</ls> und <ls>NAIGH. 1,13</ls> = {#antarikza#}).
+<ls>AV. 6,100,1.</ls> <ls n="AV.">5,13,1.</ls> <ls n="AV.">7,41,1.</ls> {#taM bahirDanvodavahannatrEnaM pipAsA hantu#}
+<ls>AIT. BR. 2,19.</ls>
+<ls>ŚAT. BR. 7,2,3,2.</ls> <ls n="ŚAT. BR.">14,1,1,8.</ls>
+<ls>TAITT. ĀR. 6,5,7.</ls>
+<ls>P. 4,2,121.</ls> {#Danvadurga (pura)#}
+<ls>M. 7,70</ls> (Lesart des
+<ls>KULL.</ls>). <ls>SUŚR. 1,369,21.</ls> <ls>BHĀG. P. 9,4,22.</ls> Sehr häufig mit {#maru#} in comp.: {#atItya maruDanvAnam#}
+<ls>MBH. 7,3781.</ls> {#sarasvatIkUle samezu maruDanvasu#}
+<ls n="MBH.">3,242.</ls> <ls n="MBH.">1,6653.</ls> <ls>HARIV. 678.</ls> <ls>BHĀG. P. 6,8,36.</ls> <ls>MĀRK. P. 49,35.</ls>
+<div n="1">— 2) {%Alhagi Maurorum Tournef., eine in dürrem Lande wachsende Pflanze%} (vgl. {#samudrAntA, DanvayavAsa, DanvayAsa#})
+<ls>NIGH. PR.</ls>
 <div n="v">— Vgl. 2. {#Danu#}, 2. {#Danus#} .
 <LEND>

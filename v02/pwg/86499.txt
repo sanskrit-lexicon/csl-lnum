@@ -1,85 +1,72 @@
 <L>86499<pc>6-0558<k1>luq<k2>luq
-{#luq#}¦, {#lo/qati#} ({#viloqane, manTe#}) 
-<ls>DHĀTUP. 9, 27, v. l.</ls> {#luqa/ti#} ({#saMSlezaRe, Sleze, saMvftO#}) 
-<ls>28, 87, v. l.</ls> 
+{#luq#}¦, {#lo/qati#} ({#viloqane, manTe#})
+<ls>DHĀTUP. 9,27</ls>, v. l. {#luqa/ti#} ({#saMSlezaRe, Sleze, saMvftO#})
+<ls n="DHĀTUP.">28,87</ls>, v. l.
 <div n="v">— Vgl. {#lul#} und 2. {#luw#} .
-
-<div n="p">— caus. {#loqayati#} {%rühren, aufrühren, in Bewegung —, in Unruhe versetzen%}: {#sAramudDartumete kalaSimudaDigurvI ballavA loqayanti#} 
-<ls>ŚIŚ. 11, 8.</ls> {#mfgayUTaloqitA#} ({#sarit#}) 
-<ls>R. 2, 95, 18 (104, 19 GORR.).</ls> {#vAtaloqitA jalarASayaH#} 
-<ls>5, 74, 31.</ls> {#loqyamAnaM pARqavAnAM mahArRavam#} 
-<ls>MBH. 9, 700.</ls> {#anIkaM loqayan#} 
-<ls>7, 1804. 3367. 6, 5197. 8, 2389.</ls> {#tadvanam - loqayAmAsa duzyantaH sUdayanviviDAnmfgAn#} 
-<ls>1, 2833. 2838.</ls> <ls>R. 5, 60, 7.</ls>
-
-<div n="p">— {#A#} caus. {%rühren, umherbewegen, umrühren, mengen, hineinrühren%}: {#manTaM vA prasavyamAloqya#} 
-<ls>ĀŚV. GṚHY. 3, 10, 11.</ls> {#pizwamAloqya toyena#} 
-<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 150, 16. 510, 4.</ls> <ls>ĀŚV. GṚHY. 1, 24, 15.</ls> <ls>ŚĀRṄG. SAṂH. 2, 6, 1.</ls> <ls>SUŚR. 1, 32, 18. 158, 10. 2, 110, 13. 131, 15.</ls> {#vizamAloqya pAsyAmi#} 
-<ls>MBH. 4, 689.</ls> 
-<ls>R. 2, 48, 24.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 45, 30.</ls> {#gajAloqitatoya#} {%umgerührt, aufgerührt%} 
-<ls>SUŚR. 2, 173, 20.</ls> {#matsyajIviBirjAlEstajjalASayamAloqya#} (so die 
-v. l.) <ls>PAÑCAT. 78, 14.</ls> {#Aloqita = maTita#} 
-<ls>MED. t. 142.</ls> {%in Unordnung bringen, verwirren, in Unruhe versetzen%}: {#AloqitAnGawAn#} 
-<ls>R. 5, 14, 51.</ls> {#vyUhezvAloqyamAnezu pARqavAnAm#} 
-<ls>MBH. 7, 5096.</ls> {#mahatIM senAmAloqya#} 
-<ls>5823.</ls> {#vanecarasya kimidaM kAmenAloqyate manaH#} 
-<ls>1, 7921.</ls> {#kAkenAloqitAM tAm#} ({#sItAm#}) 
-<ls>R. GORR. 2, 105, 39.</ls> {%durchwühlen%} (ein Buch), {%sich vertraut machen mit%}: {#Aloqya sarvaSAstrARi purARAni#} 
-<ls>PRASAṄGĀBH. 13,a.</ls> <ls>SARVADARŚANAS.1,9.</ls> {#BaratAdimataM sarvamAloqyAtiprayatnataH#} 
-<ls>Verz. d. Oxf. H. 200,b, No. 476.</ls> 
+<div n="p">— caus. {#loqayati#} {%rühren, aufrühren, in Bewegung —, in Unruhe versetzen%}: {#sAramudDartumete kalaSimudaDigurvI ballavA loqayanti#}
+<ls>ŚIŚ. 11,8.</ls> {#mfgayUTaloqitA#} ({#sarit#})
+<ls>R. 2,95,18</ls> (<ls n="GORR. 2,">104,19</ls> <ls>GORR.</ls>). {#vAtaloqitA jalarASayaH#}
+<ls n="R.">5,74,31.</ls> {#loqyamAnaM pARqavAnAM mahArRavam#}
+<ls>MBH. 9,700.</ls> {#anIkaM loqayan#}
+<ls n="MBH.">7,1804.</ls> <ls n="MBH. 7,">3367.</ls> <ls n="MBH.">6,5197.</ls> <ls n="MBH.">8,2389.</ls> {#tadvanam — loqayAmAsa duzyantaH sUdayanviviDAnmfgAn#}
+<ls n="MBH.">1,2833.</ls> <ls n="MBH. 1,">2838.</ls> <ls>R. 5,60,7.</ls>
+<div n="p">— {#A#} caus. {%rühren, umherbewegen, umrühren, mengen, hineinrühren%}: {#manTaM vA prasavyamAloqya#}
+<ls>ĀŚV. GṚHY. 3,10,11.</ls> {#pizwamAloqya toyena#}
+<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 150,16. 510,4.</ls> <ls>ĀŚV. GṚHY. 1,24,15.</ls> <ls>ŚĀRṄG. SAṂH. 2,6,1.</ls> <ls>SUŚR. 1,32,18. 158,10. 2,110,13. 131,15.</ls> {#vizamAloqya pAsyAmi#}
+<ls>MBH. 4,689.</ls>
+<ls>R. 2,48,24.</ls>
+<ls>R. GORR. 2,45,30.</ls> {#gajAloqitatoya#} {%umgerührt, aufgerührt%}
+<ls>SUŚR. 2,173,20.</ls> {#matsyajIviBirjAlEstajjalASayamAloqya#} (so die
+v. l.) <ls>PAÑCAT. 78,14.</ls> {#Aloqita = maTita#}
+<ls>MED. t. 142.</ls> {%in Unordnung bringen, verwirren, in Unruhe versetzen%}: {#AloqitAnGawAn#}
+<ls>R. 5,14,51.</ls> {#vyUhezvAloqyamAnezu pARqavAnAm#}
+<ls>MBH. 7,5096.</ls> {#mahatIM senAmAloqya#}
+<ls n="MBH. 7,">5823.</ls> {#vanecarasya kimidaM kAmenAloqyate manaH#}
+<ls n="MBH.">1,7921.</ls> {#kAkenAloqitAM tAm#} ({#sItAm#})
+<ls>R. GORR. 2,105,39.</ls> {%durchwühlen%} (ein Buch), {%sich vertraut machen mit%}: {#Aloqya sarvaSAstrARi purARAni#}
+<ls>PRASAṄGĀBH. 13,a.</ls> <ls>SARVADARŚANAS. 1,9.</ls> {#BaratAdimataM sarvamAloqyAtiprayatnataH#}
+<ls>Verz. d. Oxf. H. 200,b, No. 476.</ls>
 <div n="v">— Vgl. {#Aloqana#} .
-
-<div n="p">— {#vyA#} caus.: {#°loqita = maTita#} 
-<ls>H. an. 3, 285.</ls> st. {#vyAloqayat#} ist
+<div n="p">— {#vyA#} caus.: {#°loqita = maTita#}
+<ls>H. an. 3,285.</ls> st. {#vyAloqayat#} ist
 [Page6-0559]
-
 <ls>HARIV. 9091</ls>, wie schon das Versmaass zeigt, mit der neueren Ausg. {#vyaloqayat#} zu lesen.
-
-<div n="p">— {#samA#} caus. {%zusammenrühren, umrühren, hineinrühren%} 
-<ls>SUŚR. 2, 350, 16.</ls> {#tadEkaDyaM samAloqya#} 
-<ls>65, 6.</ls> {#pizwaM samAloqya toyena saha#} 
-<ls>MBH. 13, 706.</ls> {#vizametatsamAloqya (°noqya#} ed. Calc.) {#kumBena#} 
-<ls>3, 11477.</ls> {%verwirren, in Unordnung bringen%}: {#senAm#} 
-<ls>MBH. 8, 891.</ls> {%durchwühlen%} (ein Buch), {%sich vertraut machen mit%}: {#BAzyakAramataM samyak - samAloqya#} 
-<ls>Verz. d. Oxf. H.2,b,4.</ls> Hierher wohl auch die uns nicht vorliegende Stelle 
-<ls>KĀŚĪKH. 10, 48</ls> ({%to reflect%} 
+<div n="p">— {#samA#} caus. {%zusammenrühren, umrühren, hineinrühren%}
+<ls>SUŚR. 2,350,16.</ls> {#tadEkaDyaM samAloqya#}
+<ls n="SUŚR.">65,6.</ls> {#pizwaM samAloqya toyena saha#}
+<ls>MBH. 13,706.</ls> {#vizametatsamAloqya (°noqya#} <ls>ed. Calc.</ls>) {#kumBena#}
+<ls n="MBH.">3,11477.</ls> {%verwirren, in Unordnung bringen%}: {#senAm#}
+<ls>MBH. 8,891.</ls> {%durchwühlen%} (ein Buch), {%sich vertraut machen mit%}: {#BAzyakAramataM samyak — samAloqya#}
+<ls>Verz. d. Oxf. H. 2,b,4.</ls> Hierher wohl auch die uns nicht vorliegende Stelle
+<ls>KĀŚĪKH. 10,48</ls> ({%to reflect%}
 <ls>BENFEY</ls>).
-
-<div n="p">— {#nis#} caus. {%gründlich durchwühlen, genau durchforschen%}: {#anirloqitakArya#} 
-<ls>ŚIŚ. 2, 27.</ls>
-
-<div n="p">— {#pari#} caus. {%verwirren, in Unordnung bringen%}: {#vanAni pariloqayan#} 
-<ls>MBH. 2, 389.</ls>
-
-<div n="p">— {#vipra#} caus. {%verwühlen, in Unordnung bringen%}: {#nalinI dviradeneva samantAdvipraloqitA#} 
-<ls>MBH. 7, 6624.</ls> st. dessen {#pratiloqitA#} ({#praviloqitA?#}) 
-<ls>4999.</ls>
-
+<div n="p">— {#nis#} caus. {%gründlich durchwühlen, genau durchforschen%}: {#anirloqitakArya#}
+<ls>ŚIŚ. 2,27.</ls>
+<div n="p">— {#pari#} caus. {%verwirren, in Unordnung bringen%}: {#vanAni pariloqayan#}
+<ls>MBH. 2,389.</ls>
+<div n="p">— {#vipra#} caus. {%verwühlen, in Unordnung bringen%}: {#nalinI dviradeneva samantAdvipraloqitA#}
+<ls>MBH. 7,6624.</ls> st. dessen {#pratiloqitA#} ({#praviloqitA?#})
+<ls n="MBH. 7,">4999.</ls>
 <div n="p">— {#prati#} caus. s. u. {#vipra#} .
-
-<div n="p">— {#vi#} caus. {%verrühren, umrühren, aufrühren%} 
-<ls>SUŚR. 2, 227, 13.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 509, 23.</ls> {#viloqyamAne tasmiMstu jalASaye#} 
-<ls>MBH. 12, 4901.</ls> 
-<ls>HARIV. 16095.</ls> 
-<ls>R. 3, 15, 6. 21, 12. 5, 55, 2.</ls> 
-<ls>RĀJA-TAR. 8, 2845.</ls> {%hinundherbewegen%}: {#paraM nayantIha viloqyamAnaM yaTA plavaM vAyurivArRavasTam#} 
-<ls>MBH. 12, 7515.</ls> {%umstürzen%}: {#pAdANguzWena SakawaM krIqamAno vyaloqayat#} (so die neuere Ausg.) 
-<ls>HARIV. 9091. 3412.</ls> {%verwühlen, verwirren, in Unordnung bringen, in Aufregung versetzen%}: ({#nalinIH#}) {#viloqyamAnAH paSyemAH kariBiH#} 
-<ls>MBH. 3, 11604.</ls> {#sEnyam - yaTA mfgagaRAnsiMhaH - vyaloqayat#} 
-<ls>7, 3756. 8, 840.</ls> <ls>HARIV. 6957.</ls> {#DanvinaH#} 
-<ls>?9340. MBH. 12, 7511. RAGH. ed. Calc. 7, 56.</ls> 
+<div n="p">— {#vi#} caus. {%verrühren, umrühren, aufrühren%}
+<ls>SUŚR. 2,227,13.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 509,23.</ls> {#viloqyamAne tasmiMstu jalASaye#}
+<ls>MBH. 12,4901.</ls>
+<ls>HARIV. 16095.</ls>
+<ls>R. 3,15,6.</ls> <ls n="R. 3,">21,12.</ls> <ls n="R.">5,55,2.</ls>
+<ls>RĀJA-TAR. 8,2845.</ls> {%hinundherbewegen%}: {#paraM nayantIha viloqyamAnaM yaTA plavaM vAyurivArRavasTam#}
+<ls>MBH. 12,7515.</ls> {%umstürzen%}: {#pAdANguzWena SakawaM krIqamAno vyaloqayat#} (so die neuere Ausg.)
+<ls>HARIV. 9091.</ls> <ls n="HARIV.">3412.</ls> {%verwühlen, verwirren, in Unordnung bringen, in Aufregung versetzen%}: ({#nalinIH#}) {#viloqyamAnAH paSyemAH kariBiH#}
+<ls>MBH. 3,11604.</ls> {#sEnyam — yaTA mfgagaRAnsiMhaH — vyaloqayat#}
+<ls n="MBH.">7,3756.</ls> <ls n="MBH.">8,840.</ls> <ls>HARIV. 6957.</ls> {#DanvinaH#}
+<ls n="HARIV.">9340.</ls> <ls>MBH. 12,7511.</ls> <ls>RAGH. ed. Calc. 7,56.</ls>
 <div n="v">— Vgl. {#viloqana#} .
-
-<div n="p">— {#ativi#} caus. {%umstürzen, verwüsten%}: {#yadusadanamupendrapAlitaM tridivamivAmararakzitam . prasaBamativiloqya ko haret#} 
-u.s.w. <ls>MBH. 8, 1740.</ls>
-
-<div n="p">— {#sam#} caus. {%hinundherbewegen%}: {#SiraSca rAjasiMhasya pAdena samaloqayat#} 
-<ls>MBH. 9, 3314.</ls> {%in Unordnung —, in Verwirrung bringen%}: {#evaM saMlouyAmAsa garuqastridivAlayam#} 
-<ls>1, 1477.</ls> {#yatra saMloqitA lubDEH prAyaSo DarmasetavaH#} 
-<ls>12, 10595.</ls> {#tena saMloqyamAnaM tu pARqUnAM tadbalaM mahat#} 
-<ls>6, 4292. 7, 5174. 6690. 6692. 7287. 9, 797.</ls> pass. {%zu Schanden werden%}: {#aSvameDasahasrasya PalaM saMloqyate#} 
-<ls>Spr. 271, v. l.</ls> <ls>?Th. III, S. 359.</ls> 
+<div n="p">— {#ativi#} caus. {%umstürzen, verwüsten%}: {#yadusadanamupendrapAlitaM tridivamivAmararakzitam . prasaBamativiloqya ko haret#}
+u.s.w. <ls>MBH. 8,1740.</ls>
+<div n="p">— {#sam#} caus. {%hinundherbewegen%}: {#SiraSca rAjasiMhasya pAdena samaloqayat#}
+<ls>MBH. 9,3314.</ls> {%in Unordnung —, in Verwirrung bringen%}: {#evaM saMlouyAmAsa garuqastridivAlayam#}
+<ls n="MBH.">1,1477.</ls> {#yatra saMloqitA lubDEH prAyaSo DarmasetavaH#}
+<ls n="MBH.">12,10595.</ls> {#tena saMloqyamAnaM tu pARqUnAM tadbalaM mahat#}
+<ls n="MBH.">6,4292.</ls> <ls n="MBH.">7,5174.</ls> <ls n="MBH. 7,">6690.</ls> <ls n="MBH. 7,">6692.</ls> <ls n="MBH. 7,">7287.</ls> <ls n="MBH.">9,797.</ls> pass. {%zu Schanden werden%}: {#aSvameDasahasrasya PalaM saMloqyate#}
+<ls>Spr. 271, v. l.</ls> Th. III, S. 359.
 <div n="v">— Vgl. {#saMloqana#} .
 <LEND>

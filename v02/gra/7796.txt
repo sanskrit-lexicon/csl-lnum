@@ -1,12 +1,12 @@
 <L>7796<pc>1234<k1>vasizWa<k2>va/sizWa
-{@vásiṣṭha,@}¦ a., <ab>m.</ab> [Superl. vom Verbale der Wurzel 1. vas, dem Sinne nach Superl. zu vásu], 1) a., der {%beste, herrlichste, lichteste;%} 2) <ab>m.</ab>, Eigenname eines Sängers der Vorzeit, der dem Sudas in der Zehnkönigsschlacht durch seine Indraanrufungen den Sieg verschaffte, <lbinfo n="9"/> in mythisches Gewand ist er gekleidet <lbinfo n="7"/> in 549; 3) <ab>m.</ab> <ab>pl.</ab>, das Geschlecht des Vasischtha; die Hymnen des 7. Buches stammen aus diesem Geschlechte.
-<div n="P1">-a 1) agne {517,8}; indra <lbinfo n="3"/> {227,1}. — 2) {539,1}; {549,10. 11}; {604,1}; {612,1}.
-<div n="P1">-as 1) agnís {200,1}; (purūrávās) <lbinfo n="8"/> {921,17}. — 2) {525,6}; {534,4. 21}; {538,3}; {542,5}; {549,6. 12. 14}; {558,6}; {575,3}; {589,3}; {611,6}; {891,15}; {976,5} (puróhitas, wo vielleicht Bedeutung <lbinfo n="4"/> 1); {1007,1}.
-<div n="P1">-asya 2) {549,5}.
-<div n="P1">-am 2) {112,9}; {549,13}; {586,6}; {602,5}; {604,4}.
-<div n="P1">-ās [V.] 3) {549,3. 4. 8}.
-<div n="P1">-ās [<ab>N.</ab>] 3) {523,7}; {528,3}; {549,1. 7. 9}; {553,4}; {592,6}; {593,6}; {596,1}; {606,7}; {841,8} (pitáras); {948,8}.
-<div n="P1">-āsas 3) {539,6}; {892,14}.
-<div n="P1">-ān 3) {549,2}.
-<div n="P1">-ais 3) {555,7}; {592,7}.
+{@vásiṣṭha,@}¦ <ab>a.</ab>, <ab>m.</ab> [<ab>Superl.</ab> vom Verbale der Wurzel <hom>1.</hom> vas, dem Sinne nach <ab>Superl.</ab> zu vásu], 1〉 <ab>a.</ab>, der {%beste, herrlichste, lichteste;%} 2〉 <ab>m.</ab>, Eigenname eines Sängers der Vorzeit, der dem Sudas in der Zehnkönigsschlacht durch seine Indraanrufungen den Sieg verschaffte, in mythisches Gewand ist er gekleidet in _{549,1}; 3〉 <ab>m.</ab> <ab>pl.</ab>, das Geschlecht des Vasischtha; die Hymnen des 7. Buches stammen aus diesem Geschlechte.
+<div n="TS">-a 1〉 agne {517,8}<chg type="del" n="76" src="gra"><old>; indra {227,1}</old></chg>. — 2〉 {539,1}; {549,10}. _{549,11}; {604,1}; {612,1}.
+<div n="TS">-as 1〉 agnís {200,1}; (purūrávās) {921,17}. — 2〉 {525,6}; {534,4}. _{534,21}; {538,3}; {542,5}; {549,6}. _{549,12}. _{549,14}; {558,6}; {575,3}; {589,3}; {611,6}; {891,15}; {976,5} (puróhitas, wo vielleicht Bedeutung 1); {1007,1}.
+<div n="TS">-asya 2〉 {549,5}.
+<div n="TS">-am 2〉 {112,9}; {549,13}; {586,6}; {602,5}; {604,4}.
+<div n="TS">-ās [<ab>V.</ab>] 3〉 {549,3}. _{549,4}. _{549,8}.
+<div n="TS">-ās [<ab>N.</ab>] 3〉 {523,7}; {528,3}; {549,1}. _{549,7}. _{549,9}; {553,4}; {592,6}; {593,6}; {596,1}; {606,7}; {841,8} (pitáras); {948,8}.
+<div n="TS">-āsas 3〉 {539,6}; {892,14}.
+<div n="TS">-ān 3〉 {549,2}.
+<div n="TS">-ais 3〉 {555,7}; {592,7}.
 <LEND>

@@ -1,20 +1,18 @@
 <L>25655<pc>2-1036<k1>cihnay<k2>cihnay
-{#cihnay#}¦ (von {#cihna), cihnayati#} {%zeichnen, kennzeichnen%}: {#paradArABimarSezu pravfttAnnFnmahIpatiH . udvejanakarErdaRqEScihnayitvA pravAsayet ..#} 
-<ls>M. 8, 352.</ls> {#cihnita#} {%gezeichnet, bezeichnet, kenntlich gemacht%}: {#divA careyuH kAryArTaM cihnitA rAjaSAsanEH#} 
-<ls>M. 10, 55.</ls> {#samAmAsatadarDAharnAmajAtisvagotrakEH - cihnitam (leKyam)#} 
-<ls>YĀJÑ. 2, 85. 6.</ls> 
-<ls>M. 2, 170.</ls> 
-<ls>PAÑCAT. 44, 16. 48, 20.</ls> 
-<ls>BHĀG. P. 4, 1, 24.</ls> 
-<ls>SĀH. D. 114.</ls> {#svamudroparicihnita#} {%oben mit seinem Siegel gesiegelt%} ({#leKya#}) 
-<ls>YĀJÑ. 1, 318.</ls> {#cihnayitavya#} 
-<ls>VARĀH. BṚH. S. 57, 7.</ls>
-
-<div n="p">— {#aBi#} dass.: {#svanAmANkABicihnitam . aNgurIyam#} 
-<ls>R. 4, 42, 12.</ls>
-
-<div n="p">— {#pari#} dass.: {#pfTivIM cihnErBImasya paricihnitAm#} 
-<ls>MBH. 3, 12445. 13, 2137. 2328.</ls> {#svahasta°#} {%von seiner Hand unterschrieben%} 
-<ls>YĀJÑ. 2, 93.</ls> {#aSuBEH karmaBiScApi prAyaSaH paricihnitAH#} 
-<ls>MBH. 3, 12628.</ls>
+{#cihnay#}¦ (von {#cihna), cihnayati#} {%zeichnen, kennzeichnen%}: {#paradArABimarSezu pravfttAnnFnmahIpatiH . udvejanakarErdaRqEScihnayitvA pravAsayet ..#}
+<ls>M. 8,352.</ls> {#cihnita#} {%gezeichnet, bezeichnet, kenntlich gemacht%}: {#divA careyuH kAryArTaM cihnitA rAjaSAsanEH#}
+<ls>M. 10,55.</ls> {#samAmAsatadarDAharnAmajAtisvagotrakEH — cihnitam (leKyam)#}
+<ls>YĀJÑ. 2,85. 6.</ls>
+<ls>M. 2,170.</ls>
+<ls>PAÑCAT. 44,16.</ls> <ls n="PAÑCAT.">48,20.</ls>
+<ls>BHĀG. P. 4,1,24.</ls>
+<ls>SĀH. D. 114.</ls> {#svamudroparicihnita#} {%oben mit seinem Siegel gesiegelt%} ({#leKya#})
+<ls>YĀJÑ. 1,318.</ls> {#cihnayitavya#}
+<ls>VARĀH. BṚH. S. 57,7.</ls>
+<div n="p">— {#aBi#} dass.: {#svanAmANkABicihnitam . aNgurIyam#}
+<ls>R. 4,42,12.</ls>
+<div n="p">— {#pari#} dass.: {#pfTivIM cihnErBImasya paricihnitAm#}
+<ls>MBH. 3,12445.</ls> <ls n="MBH.">13,2137.</ls> <ls n="MBH. 13,">2328.</ls> {#svahasta°#} {%von seiner Hand unterschrieben%}
+<ls>YĀJÑ. 2,93.</ls> {#aSuBEH karmaBiScApi prAyaSaH paricihnitAH#}
+<ls>MBH. 3,12628.</ls>
 <LEND>

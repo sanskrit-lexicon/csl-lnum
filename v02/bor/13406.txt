@@ -1,4 +1,4 @@
 <L>13406<pc>413<k1>legendary<k2>legendary
-<div n="lb"/>{@LEGENDARY:@}¦ <div n="1">(1) {#pOrARikaH#} ({#kI, kaM#}) (?); </div><div n="1">(2)
-<div n="lb"/>{#miTyA#} (= false).</div>
+{@LEGENDARY:@}¦ <div n="1">(1) {#pOrARikaH#} ({#kI, kaM#}) (?); </div><div n="1">(2)
+{#miTyA#} (= false).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>4590<pc>149<k1>contest<k2>contest
-<div n="lb"/>{@CONTEST@}¦ (subs.): <div n="I">I Dispute: q. v.: {#vivAdaH#}</div>
-<div n="lb"/><div n="I">II Strife: {#vigrahaH,#} <div n="xe">{%a furious c.:%}</div> <div n="xs">{#tumulo vigrahaH,#}</div>
-<div n="lb"/>Mat.</div>
+{@CONTEST@}¦ (subs.): <div n="I">I Dispute: q. v.: {#vivAdaH#}</div>
+<div n="I">II Strife: {#vigrahaH,#} <div n="xe">{%a furious c.:%}</div> <div n="xs">{#tumulo vigrahaH,#}</div>
+Mat.</div>
 <LEND>

@@ -1,11 +1,11 @@
 <L>23964<pc>750<k1>voice<k2>voice
-<div n="lb"/>{@VOICE:@}¦ <div n="I">I In gen.: {#svaraH,#} <div n="xe">{%the Brahmin's v.%}
-<div n="lb"/>{%has been changed with fear:%}</div> <div n="xs">{#BItiBinnasvaro brAhmaRaH;#}</div>
-<div n="lb"/>{%it seems to be the distressed v. of Mādhavya,%}
-<div n="lb"/>{#aye mADavyasyevArtasvaraH,#} Sa. vi. </div><div n="I">II Opinion:
-<div n="lb"/>{#matam,#} <div n="xe">{%with one v.:%}</div> <div n="xs">{#Ekyamatyena;#}</div> <div n="xe">{%he has no v. in the%}
-<div n="lb"/>{%matter:%}</div> <div n="xs">{#na tadDastagatamidam.#}</div> </div><div n="I">III In gram.:
-<div n="lb"/>{#vAcyam,#} <div n="xe">{%active v.:%}</div> <div n="xs">{#kartfvAcyam;#}</div> {%Passive v.:%}
-<div n="lb"/>{#karmavAcyam;#} <div n="xe">{%reflective v.:%}</div> <div n="xs">{#karmakartfvAcyam;#}</div> {%neuter v.:%}
-<div n="lb"/>{#BAvavAcyam.#}</div>
+{@VOICE:@}¦ <div n="I">I In gen.: {#svaraH,#} <div n="xe">{%the Brahmin's v.%}
+{%has been changed with fear:%}</div> <div n="xs">{#BItiBinnasvaro brAhmaRaH;#}</div>
+{%it seems to be the distressed v. of Mādhavya,%}
+{#aye mADavyasyevArtasvaraH,#} Sa. vi. </div><div n="I">II Opinion:
+{#matam,#} <div n="xe">{%with one v.:%}</div> <div n="xs">{#Ekyamatyena;#}</div> <div n="xe">{%he has no v. in the%}
+{%matter:%}</div> <div n="xs">{#na tadDastagatamidam.#}</div> </div><div n="I">III In gram.:
+{#vAcyam,#} <div n="xe">{%active v.:%}</div> <div n="xs">{#kartfvAcyam;#}</div> {%Passive v.:%}
+{#karmavAcyam;#} <div n="xe">{%reflective v.:%}</div> <div n="xs">{#karmakartfvAcyam;#}</div> {%neuter v.:%}
+{#BAvavAcyam.#}</div>
 <LEND>

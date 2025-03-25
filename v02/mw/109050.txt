@@ -1,4 +1,4 @@
-<L>109050<pc>551,2<k1>nimfd<k2>ni-mfd<h>a<e>1
-<s>ni-√ mfd</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-mfdnAti</s>, to crush, dash to pieces, <ls>ĀpŚr.</ls>;
-<div n="to"/>to rub off, <ls>ŚBr.</ls><info verb="pre" cp="P" parse="ni+mfd"/>
+<L>109050<pc>551,2<k1>nimfd<k2>ni-mfd<e>1
+<s>ni-√ mfd</s> ¦ <ab>P.</ab> <s>-mfdnAti</s>, to crush, dash to pieces, <ls>ĀpŚr.</ls>;
+<div n="to"/>to rub off, <ls>ŚBr.</ls><info verb="pre" cp="P" parse="ni+mfd"/><info hui="a"/>
 <LEND>

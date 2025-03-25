@@ -1,11 +1,11 @@
 <L>9428<pc>299<k1>friend<k2>friend
-<div n="lb"/>{@FRIEND:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#saKi#} (m.) (f. {#KI#}),
-<div n="lb"/><div n="xe">{%bosom f.:%}</div> <div n="xs">{#hfdayaNgamaH saKA,#}</div> Ku. </div><div n="1">(2) {#mitram,#} <div n="xe">{%greatest%}
-<div n="lb"/>{%f.:%}</div> <div n="xs">{#paraM mitram,#}</div> K.; <div n="xe">{%old f.:%}</div> <div n="xs">{#ciramitram,#}</div> H.; </div><div n="1">(3)
-<div n="lb"/>{#suhfd#} (m.), <div n="xe">{%dear old f.:%}</div> <div n="xs">{#cirantanapriyasuhfd,#}</div> U. vi.;
-<div n="lb"/><div n="xe">{%first shewing leniency as a f.:%}</div> <div n="xs">{#suhfdiva praTamamanukUlatAM #}
-<div n="lb"/>{# prakawayya,#}</div> Ma. iv. 7.; </div><div n="1">(7) {#banDuH,#} <div n="xe">{%who else is f. to%}
-<div n="lb"/>{%me like you:%}</div> <div n="xs">{#ko'paraH tvatsamo me banDuH,#}</div> K.; </div><div n="1">(5)
-<div n="lb"/>{#vayasya#} (f. {#syA#} = of the same age). </div><div n="I">II An
-<div n="lb"/>advocate: </div><div n="1">(1) {#mitram;#} </div><div n="1">(2) {#banDuH.#}</div>
+{@FRIEND:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#saKi#} (m.) (f. {#KI#}),
+<div n="xe">{%bosom f.:%}</div> <div n="xs">{#hfdayaNgamaH saKA,#}</div> Ku. </div><div n="1">(2) {#mitram,#} <div n="xe">{%greatest%}
+{%f.:%}</div> <div n="xs">{#paraM mitram,#}</div> K.; <div n="xe">{%old f.:%}</div> <div n="xs">{#ciramitram,#}</div> H.; </div><div n="1">(3)
+{#suhfd#} (m.), <div n="xe">{%dear old f.:%}</div> <div n="xs">{#cirantanapriyasuhfd,#}</div> U. vi.;
+<div n="xe">{%first shewing leniency as a f.:%}</div> <div n="xs">{#suhfdiva praTamamanukUlatAM #}
+{# prakawayya,#}</div> Ma. iv. 7.; </div><div n="1">(7) {#banDuH,#} <div n="xe">{%who else is f. to%}
+{%me like you:%}</div> <div n="xs">{#ko'paraH tvatsamo me banDuH,#}</div> K.; </div><div n="1">(5)
+{#vayasya#} (f. {#syA#} = of the same age). </div><div n="I">II An
+advocate: </div><div n="1">(1) {#mitram;#} </div><div n="1">(2) {#banDuH.#}</div>
 <LEND>

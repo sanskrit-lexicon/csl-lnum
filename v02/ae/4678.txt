@@ -1,21 +1,21 @@
 <L>4678<pc>191<k1>gross<k2>gross
 {@Gross,@}¦ {%a.%} {#sTUlakAya, bfhat, pIna, pIvara, meda-#}
-<div n="lb"/>{#-svin#}. {@2@} {#Gana, sTUla, asUkzma;#} ‘g.
-<div n="lb"/>measurement’ {#sTUlamAnaM#}. {@3@} {#gAQa, nibiqa,#}
-<div n="lb"/>{#niraMtara, avirala, sAMdra#}. {@4@} {#aSlIla, grAmya,#}
-<div n="lb"/>{#nIca, avAcya, aSizwa, asaBya, garhya, niMdya,#}
-<div n="lb"/>{#aSudDa, kutsita, ni-apa-kfzwa, apavitra, malI-#}
-<div n="lb"/>{#-masa, ameDya, ayaSaskara#} ({#rI#} {%f.%}). {@5@} {#jaqa,#}
-<div n="lb"/>{#mUQa, maMda#}. {@6@} {#avinIta, amaryAda#}. {@7@} {#atyaMta,#}
-<div n="lb"/>{#atimAtra, mahat, su-ati#} pr.; ‘g. fault’
-<div n="lb"/>{#mahAparADaH;#} ‘g. body’ {#sTUla-jaqa-dehaH;#} ‘g.
-<div n="lb"/>darkness’ {#saMtamasaM, aMDaM tamaH#}. {%-s.%} {#sTUlAMSaH,#}
-<div n="lb"/>{#praDAnaBAgaH, praDAnAMSaH, sAkalyaM, sAmagryaM,#}
-<div n="lb"/>{#samAsaH;#} ‘in the g.’ {#sTUlamAnena, sAkalyena#}.
-<div n="lb"/>{@-ly,@} {%adv.%} {#sTUlaM, GanaM, asaByaM, garhyatayA,#}
-<div n="lb"/>{#nIcaM; atyaMtaM, atimAtraM, ati-su#} pr.; ‘g.
-<div n="lb"/>corrupted’ {#atiduzwa#}. {@-ness,@} {%s.%} {#sTUlatA,#}
-<div n="lb"/>{#pInatA; nibiqatA, aSizwatA, grAmyatvaM, avi-#}
-<div n="lb"/>{#-nayaH, amaryAdA, atyaMtatA, atirekaH, gAQatA,#}
-<div n="lb"/>{#ADikyaM#}.
+{#-svin#}. {@2@} {#Gana, sTUla, asUkzma;#} ‘g.
+measurement’ {#sTUlamAnaM#}. {@3@} {#gAQa, nibiqa,#}
+{#niraMtara, avirala, sAMdra#}. {@4@} {#aSlIla, grAmya,#}
+{#nIca, avAcya, aSizwa, asaBya, garhya, niMdya,#}
+{#aSudDa, kutsita, ni-apa-kfzwa, apavitra, malI-#}
+{#-masa, ameDya, ayaSaskara#} ({#rI#} {%f.%}). {@5@} {#jaqa,#}
+{#mUQa, maMda#}. {@6@} {#avinIta, amaryAda#}. {@7@} {#atyaMta,#}
+{#atimAtra, mahat, su-ati#} pr.; ‘g. fault’
+{#mahAparADaH;#} ‘g. body’ {#sTUla-jaqa-dehaH;#} ‘g.
+darkness’ {#saMtamasaM, aMDaM tamaH#}. {%-s.%} {#sTUlAMSaH,#}
+{#praDAnaBAgaH, praDAnAMSaH, sAkalyaM, sAmagryaM,#}
+{#samAsaH;#} ‘in the g.’ {#sTUlamAnena, sAkalyena#}.
+{@-ly,@} {%adv.%} {#sTUlaM, GanaM, asaByaM, garhyatayA,#}
+{#nIcaM; atyaMtaM, atimAtraM, ati-su#} pr.; ‘g.
+corrupted’ {#atiduzwa#}. {@-ness,@} {%s.%} {#sTUlatA,#}
+{#pInatA; nibiqatA, aSizwatA, grAmyatvaM, avi-#}
+{#-nayaH, amaryAdA, atyaMtatA, atirekaH, gAQatA,#}
+{#ADikyaM#}.
 <LEND>

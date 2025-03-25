@@ -1,7 +1,7 @@
 <L>150<pc>007<k1>accord<k2>accord
-<div n="lb"/>{@ACCORD@}¦ (subs.): <div n="I">I Agreement, concur-
-<div n="lb"/>-rence: q. v.: Ph. <div n="xe">{%let us all with one a. fly%}
-<div n="lb"/>{%up with the net%}</div> <div n="xs">{#narvErekacittIBUya jAlamAdAyINNIyatAm,#}</div>
-<div n="lb"/>H. i., <div n="xe">{%of one's own a.%}</div> <div n="xs">{#svecCAtaH.#}</div> </div><div n="I">II Concord,
-<div n="lb"/>harmony. q. v.</div>
+{@ACCORD@}¦ (subs.): <div n="I">I Agreement, concur-
+-rence: q. v.: Ph. <div n="xe">{%let us all with one a. fly%}
+{%up with the net%}</div> <div n="xs">{#narvErekacittIBUya jAlamAdAyINNIyatAm,#}</div>
+H. i., <div n="xe">{%of one's own a.%}</div> <div n="xs">{#svecCAtaH.#}</div> </div><div n="I">II Concord,
+harmony. q. v.</div>
 <LEND>

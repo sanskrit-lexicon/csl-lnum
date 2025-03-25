@@ -1,8 +1,8 @@
 <L>2440<pc>088<k1>crude<k2>crude
 {@Crude,@}¦ {%a.%} {#apakva, apariRata, asidDa, asaMskfta,#}
-<div n="lb"/>{#Ama#}. {@2@} {#ajIrRa#}. {@3@} {#asaMpUrRa, asamApta; apUrRa-#}
-<div n="lb"/>{#-kAla, AkAlika#} ({#kI#} {%f.%}); ‘c. form’ {#prAti-#}
-<div n="lb"/>{#-padikaM, asidDaM, rUpaM#}. {@-ly,@} {%adv.%} {#apUrRakAle#}.
-<div n="lb"/>{@-ness.@} {%s.%} {#apakvatA, AmatA, apAkaH,#}
-<div n="lb"/>{#apariRAmaH#}.
+{#Ama#}. {@2@} {#ajIrRa#}. {@3@} {#asaMpUrRa, asamApta; apUrRa-#}
+{#-kAla, AkAlika#} ({#kI#} {%f.%}); ‘c. form’ {#prAti-#}
+{#-padikaM, asidDaM, rUpaM#}. {@-ly,@} {%adv.%} {#apUrRakAle#}.
+{@-ness.@} {%s.%} {#apakvatA, AmatA, apAkaH,#}
+{#apariRAmaH#}.
 <LEND>

@@ -1,34 +1,33 @@
 <L>33635<pc>3-0682<k1>durdina<k2>durdina
-{#durdina#}¦ (2. {#duz + dina#}) 
-<div n="1"> 1) <lex>n.</lex> {%ein trüber —, regnichter Tag. Regenwetter, Unwetter, ein bezogener Himmel, Regenwolke, Regen%} 
-<ls>AK. 1, 1, 2, 13.</ls> 
-<ls>H. 165.</ls> 
-<ls>KAUŚ. 38.</ls> im Gegens. zu {#sudina#} 
-<ls>MBH. 3, 812.</ls> {#durdine vATa vA vyaBre#} 
-<ls>HARIV. 7856.</ls> {#tumulaM durdinaM cAsIdvidyutstanayitnumat . taddurdinatalaM BittvA nAradaH pratyadfSyata ..#} 
-<ls>9609.</ls> {#(hariH) durdinAmBodanisvanaH . pratasTe durdinAkAraH sadurdina ivAcalaH ..#} 
-<ls>2900.</ls> {#mAyAm - vAtadurdinasaMkulAm#} 
-<ls>R. 3, 73, 13.</ls> {#rUkzamAruta#} 
-<ls>6, 29, 11.</ls> {#akAla°, AkAlika#} 
-<ls>MṚCCH. 76, 2. 5.</ls> {#avirataDAra#}
+{#durdina#}¦ (2. {#duz + dina#})
+<div n="1"> 1) <lex>n.</lex> {%ein trüber —, regnichter Tag. Regenwetter, Unwetter, ein bezogener Himmel, Regenwolke, Regen%}
+<ls>AK. 1,1,2,13.</ls>
+<ls>H. 165.</ls>
+<ls>KAUŚ. 38.</ls> im Gegens. zu {#sudina#}
+<ls>MBH. 3,812.</ls> {#durdine vATa vA vyaBre#}
+<ls>HARIV. 7856.</ls> {#tumulaM durdinaM cAsIdvidyutstanayitnumat . taddurdinatalaM BittvA nAradaH pratyadfSyata ..#}
+<ls n="HARIV.">9609.</ls> {#(hariH) durdinAmBodanisvanaH . pratasTe durdinAkAraH sadurdina ivAcalaH ..#}
+<ls n="HARIV.">2900.</ls> {#mAyAm — vAtadurdinasaMkulAm#}
+<ls>R. 3,73,13.</ls> {#rUkzamAruta#}
+<ls n="R.">6,29,11.</ls> {#akAla°, AkAlika#}
+<ls>MṚCCH. 76,2. 5.</ls> {#avirataDAra#}
 [Page3-0683]
-
-<ls>91, 21.</ls> <ls>BHARTṚ. 1, 46.</ls> {#aDArAvarza°#} 
-<ls>RAGH. 4, 82.</ls> 
-<ls>KUMĀRAS. 6, 43.</ls> 
-<ls>VARĀH. BṚH. S. 94, 16.</ls> 
-<ls>RĀJA-TAR. 5, 278.</ls> 
-<ls>PRAB. 87, 9.</ls> {#°grastaBAskara#} 
-<ls>RĀJA-TAR. 2, 37.</ls> {#Sara°#} 
-<ls>R. 5, 76, 10.</ls> 
-<ls>RAGH. 4, 41.</ls> {#anyo'nyavARavarzaM tat yudDadurdinamAvaBO#} 
-<ls>HARIV. 2681.</ls> {#madadurdinaSrI#} (beim Elephanten) 
-<ls>RAGH. 5, 47.</ls> Am Ende eines <lex>adj.</lex> comp. (f. {#A)H vAzpadurdinAkzI#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 187, 16.</ls> {#makarandadurdinAH - udyAnaBUmayaH#} 
-<ls>PRAB. 79, 16.</ls> 
-<div n="1">— 2) <lex>adj.</lex> <lex>f.</lex> {#A#} {%mit Regenwolken bezogen, bewölkt, trübe%}: {#saMprApte durdine kAle durdinaM BAti vE naBaH#} 
-<ls>HARIV. 3572.</ls> {#pAMSuvarzeRa patatA durdinaM ca naBo 'Bavat#} 
-<ls>R. 6, 90, 29.</ls> {#jImUtESca (SarARAM) diSaH sarvAScakre timiradurdinAH#} 
-<ls>MBH. 8, 4771.</ls> {#muYcasyeva saniSvAsaM toyamaYjanadurdinam#} 
+<ls n="MṚCCH.">91,21.</ls> <ls>BHARTṚ. 1,46.</ls> {#aDArAvarza°#}
+<ls>RAGH. 4,82.</ls>
+<ls>KUMĀRAS. 6,43.</ls>
+<ls>VARĀH. BṚH. S. 94,16.</ls>
+<ls>RĀJA-TAR. 5,278.</ls>
+<ls>PRAB. 87,9.</ls> {#°grastaBAskara#}
+<ls>RĀJA-TAR. 2,37.</ls> {#Sara°#}
+<ls>R. 5,76,10.</ls>
+<ls>RAGH. 4,41.</ls> {#anyo'nyavARavarzaM tat yudDadurdinamAvaBO#}
+<ls>HARIV. 2681.</ls> {#madadurdinaSrI#} (beim Elephanten)
+<ls>RAGH. 5,47.</ls> Am Ende eines <lex>adj.</lex> comp. (f. {#A)H vAzpadurdinAkzI#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 187,16.</ls> {#makarandadurdinAH — udyAnaBUmayaH#}
+<ls>PRAB. 79,16.</ls>
+<div n="1">— 2) <lex>adj.</lex> <lex>f.</lex> {#A#} {%mit Regenwolken bezogen, bewölkt, trübe%}: {#saMprApte durdine kAle durdinaM BAti vE naBaH#}
+<ls>HARIV. 3572.</ls> {#pAMSuvarzeRa patatA durdinaM ca naBo 'Bavat#}
+<ls>R. 6,90,29.</ls> {#jImUtESca (SarARAM) diSaH sarvAScakre timiradurdinAH#}
+<ls>MBH. 8,4771.</ls> {#muYcasyeva saniSvAsaM toyamaYjanadurdinam#}
 <ls>HARIV. 7081.</ls>
 <LEND>

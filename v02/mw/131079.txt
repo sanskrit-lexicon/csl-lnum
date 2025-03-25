@@ -1,5 +1,5 @@
 <L>131079<pc>659,3<k1>praRam<k2>pra-Ram<e>1
-<s>pra-Ram</s> ¦ (<s>√ nam</s>) <ab>P.</ab> <ab>Ā.</ab> <s>-Ramati</s>, <s>°te</s> (<ab>ind.p.</ab> <s>-Ramya</s>) to bend or bow down before (often with <s>mUrDnA</s>, <s>SirasA</s> &c.), make obeisance to (dat <ab>gen.</ab> <ab>loc.</ab> or <ab>acc.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.:
-<div n="vp"/><ab>Caus.</ab> <s>-nA<shortlong/>mayati</s>, (<ab>ind.p.</ab> <s>-namayya</s>), to cause a person (<ab>acc.</ab>) to bow before (<ab>dat.</ab>), <ls>Kālid.</ls>;
+<s>pra-Ram</s> ¦ (√ <s>nam</s>) <ab>P.</ab> <ab>Ā.</ab> <s>-Ramati</s>, <s>°te</s> (<ab>ind.p.</ab> <s>-Ramya</s>) to bend or bow down before (often with <s>mUrDnA</s>, <s>SirasA</s> &c.), make obeisance to (<ab>dat.</ab> <ab>gen.</ab> <ab>loc.</ab> or <ab>acc.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.:
+<div n="vp"/><ab>Caus.</ab> <s>-nAmayati</s> or <s>-namayati</s>, (<ab>ind.p.</ab> <s>-namayya</s>), to cause a person (<ab>acc.</ab>) to bow before (<ab>dat.</ab>), <ls>Kālid.</ls>;
 <div n="to"/>to bow, incline, <ls>ib.</ls><info verb="pre" cp="PĀ" parse="pra+nam"/>
 <LEND>

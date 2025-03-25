@@ -1,12 +1,12 @@
 <L>14025<pc>338-b<k1>heaven<k2>heaven
-<div n="lb"/>HEAVEN¦, {%s.%} (Region of the blessed) {#svargaH, svar#} indecl., {#svarlokaH,#}
-<div n="lb"/>{#puRyalokaH, suralokaH, devalokaH, tridivaH -vaM, divaM, dyOH#} {%f.%} {#(div),#}
-<div n="lb"/>{#dyO#} {%f.%} {#(dyo), nAkaH, devanikAyaH, devAlayaH, suravartma#} {%n.%} {#(n), surapaTaM,#}
-<div n="lb"/>{#SASvataM, sOrikaH, tripizwapaM, SakraBavanaM, suKADAraH, suKadaM, tridaSAlayaH,#}
-<div n="lb"/>{#tridaSAvAsaH, akuRWaDizRyaM;#} ‘the heaven of Vishnu,’ {#vEkuRWaM#}. — 
-<div n="lb"/>(The sky) {#AkASaH, gagaRaM, naBas#} {%n.,%} {#vyoma#} {%n.%} {#(n), KaM, antarIkzaM,#}
-<div n="lb"/>{#ambaraM, digantaraM, tArApaTaH, meGavartma#} {%n.%} {#(n), jyotiScakraM, jyotizacakraM;#}
-<div n="lb"/>‘heaven and earth,’ {#dyAvApfTivyO#} {%f. du.,%} {#dyAvABUmyO#} {%f. du.,%}
-<div n="lb"/>{#divaspfTivyO#} {%f. du.,%} {#AkASapfTivyO#} {%f. du.,%} {#dyoBUmyO, svargamahyO, hyA-#}
-<div n="lb"/>{#vAkzame#} {%f. du.,%} {#rodasI#} {%n. du.%} {#(s), rodasyO#} {%f. du.%}
+HEAVEN¦, {%s.%} (Region of the blessed) {#svargaH, svar#} indecl., {#svarlokaH,#}
+{#puRyalokaH, suralokaH, devalokaH, tridivaH -vaM, divaM, dyOH#} {%f.%} {#(div),#}
+{#dyO#} {%f.%} {#(dyo), nAkaH, devanikAyaH, devAlayaH, suravartma#} {%n.%} {#(n), surapaTaM,#}
+{#SASvataM, sOrikaH, tripizwapaM, SakraBavanaM, suKADAraH, suKadaM, tridaSAlayaH,#}
+{#tridaSAvAsaH, akuRWaDizRyaM;#} ‘the heaven of Vishnu,’ {#vEkuRWaM#}. — 
+(The sky) {#AkASaH, gagaRaM, naBas#} {%n.,%} {#vyoma#} {%n.%} {#(n), KaM, antarIkzaM,#}
+{#ambaraM, digantaraM, tArApaTaH, meGavartma#} {%n.%} {#(n), jyotiScakraM, jyotizacakraM;#}
+‘heaven and earth,’ {#dyAvApfTivyO#} {%f. du.,%} {#dyAvABUmyO#} {%f. du.,%}
+{#divaspfTivyO#} {%f. du.,%} {#AkASapfTivyO#} {%f. du.,%} {#dyoBUmyO, svargamahyO, hyA-#}
+{#vAkzame#} {%f. du.,%} {#rodasI#} {%n. du.%} {#(s), rodasyO#} {%f. du.%}
 <LEND>

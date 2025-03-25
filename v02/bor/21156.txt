@@ -1,5 +1,5 @@
 <L>21156<pc>666<k1>spice<k2>spice
-<div n="lb"/>{@SPICE@}¦ (subs.): {#ganDadravyam,#} <div n="xe">{%s. s:%}</div> <div n="xs">{#karpUrAdivargaH,#}</div> Bha.; <div n="xe">{%the%}
-<div n="lb"/>{%three s. s:%}</div> <div n="xs">{#trisuganDi#}</div> <div n="xe">{%or%}</div> <div n="xs">{#trijAtakam,#}</div> Bha; <div n="xe">{%the four%}
-<div n="lb"/>{%s. s:%}</div> <div n="xs">{#caturjAtakam,#}</div> Bha.
+{@SPICE@}¦ (subs.): {#ganDadravyam,#} <div n="xe">{%s. s:%}</div> <div n="xs">{#karpUrAdivargaH,#}</div> Bha.; <div n="xe">{%the%}
+{%three s. s:%}</div> <div n="xs">{#trisuganDi#}</div> <div n="xe">{%or%}</div> <div n="xs">{#trijAtakam,#}</div> Bha; <div n="xe">{%the four%}
+{%s. s:%}</div> <div n="xs">{#caturjAtakam,#}</div> Bha.
 <LEND>

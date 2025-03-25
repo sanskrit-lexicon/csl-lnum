@@ -1,4 +1,4 @@
 <L>7743<pc>245<k1>epistolary<k2>epistolary
-<div n="lb"/>{@EPISTOLARY:@}¦ expr. by {#patram,#} <div n="xe">{%e. style:%}</div> <div n="xs">{#*patrarItiH,#}</div>
-<div n="lb"/><div n="xe">{%e. correspondence:%}</div> <div n="xs">{#*patrasaMvAdaH.#}</div>
+{@EPISTOLARY:@}¦ expr. by {#patram,#} <div n="xe">{%e. style:%}</div> <div n="xs">{#*patrarItiH,#}</div>
+<div n="xe">{%e. correspondence:%}</div> <div n="xs">{#*patrasaMvAdaH.#}</div>
 <LEND>

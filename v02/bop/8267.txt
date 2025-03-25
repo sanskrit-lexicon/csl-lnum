@@ -1,6 +1,6 @@
 <L>8267<pc>368-b<k1>saptama<k2>saptama
-{#saptama#}¦ ({%f.%} {#I,#} a {#saptan#} s. {#ma#}) septimus. (Lat. {%septimus,%} lith.
-<div n="lb">{%sekma-s%} pro {%sepma-s,%} slav. {%sedmyĭ,%} germ. vet. {%sibunto(n),%}
-<div n="lb">hib. {%seachtmad,%} zend. <lang n="greek"></lang> {%haptatha,%} gr. <lang n="greek"></lang>
-<div n="lb"><lang n="greek"></lang>)
+{#saptama#}¦ ({%f.%} {#I#}, a {#saptan#} s. {#ma#}) septimus. (Lat. {%septimus%}, lith.
+{%sekma-s%} pro {%sepma-s%}, slav. {%sedmyĭ%}, germ. vet. {%sibunto(n)%},
+hib. {%seachtmad%}, zend. <lang n="Avestan"> 𐬵𐬀𐬞𐬙𐬀𐬚𐬀</lang> {%haptatha%}, gr.
+<lang n="greek">ἕβδομος</lang>.)
 <LEND>

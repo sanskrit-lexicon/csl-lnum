@@ -1,5 +1,5 @@
 <L>21821<pc>576-b<k1>patient<k2>patient
-<div n="lb"/>PATIENT¦ {%s.%} (As apposed to agent) {#karmmapAtraM, karmmADAraH, karmmASrayaH#}.
-<div n="lb"/> — (Sick person) {#rogI#} {%m.%} {#-giRI#} {%f.%} {#(n), AturaH -rA, rogArttaH -rttA,#}
-<div n="lb"/>{#sarogaH -gA#}.
+PATIENT¦ {%s.%} (As apposed to agent) {#karmmapAtraM, karmmADAraH, karmmASrayaH#}.
+ — (Sick person) {#rogI#} {%m.%} {#-giRI#} {%f.%} {#(n), AturaH -rA, rogArttaH -rttA,#}
+{#sarogaH -gA#}.
 <LEND>

@@ -1,6 +1,6 @@
 <L>22993<pc>724<k1>turn<k2>turn
-<div n="lb"/>{@TURN@}¦ (v. i.): <div n="I">I To revolve, roll: q. v.:
-<div n="lb"/>{#GUrRate#} ({#GUrRa,#} c. 1.). </div><div n="I">II To change: q. v.:</div>
-<div n="lb"/><div n="1">(1) {#parivartate#} ({#vft,#} c. 1.); by {#Bavati,#} <div n="xe">{%to t. into%}
-<div n="lb"/>{%red:%}</div> <div n="xs">{#raktIBavati.#}</div> </div><div n="I">III To t. out: q. v.</div>
+{@TURN@}¦ (v. i.): <div n="I">I To revolve, roll: q. v.:
+{#GUrRate#} ({#GUrRa,#} c. 1.). </div><div n="I">II To change: q. v.:</div>
+<div n="1">(1) {#parivartate#} ({#vft,#} c. 1.); by {#Bavati,#} <div n="xe">{%to t. into%}
+{%red:%}</div> <div n="xs">{#raktIBavati.#}</div> </div><div n="I">III To t. out: q. v.</div>
 <LEND>

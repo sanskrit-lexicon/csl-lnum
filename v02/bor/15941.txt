@@ -1,28 +1,28 @@
 <L>15941<pc>490<k1>or<k2>or
-<div n="lb"/>{@OR:@}¦ <div n="I">I In gen.: {#vA,#} {%whether child or pupil:%}
-<div n="lb"/>{#SiSurvA SizyA vA,#} U. iv. 11.; <div n="xe">{%whether God is%}
-<div n="lb"/>{%spoken of in this passage or not:%}</div> <div n="xs">{#kiM brahmAsmin #}
-<div n="lb"/>{# vAkye'BiDIyate na veti,#}</div> S. ii. 15.; <div n="xe">{%from fear of%}
-<div n="lb"/>{%the king or of thieves:%}</div> <div n="xs">{#rAjaBayAccOramayAdvA,#}</div> Mr.
-<div n="lb"/>iii.; <div n="xe">{%or else:%}</div> <div n="xs">{#kiM vA,#}</div> Vi. vi. 21. (when=other-
-<div n="lb"/>-wise: {#nocet,#} H.). </div><div n="I">II In interrogation
-<div n="lb"/>direct or implied: <div n="xe">{%is it a dream, an illusion,%}
-<div n="lb"/>{%or delusion of my mind:%}</div> <div n="xs">{#svapno nu mAyA nu matiBramo #}
-<div n="lb"/>{# nu,#}</div> Sa.; {%is my strength gone or am I another:%}
-<div n="lb"/>{#DvastaM nu me vIryamutAhamanyaH,#} Ki.; <div n="xe">{%or is (she) going%}
-<div n="lb"/>{%to live with hinds:%}</div> <div n="xs">{#Aho nivatsyati samaM hariRANga-#}
-<div n="lb"/>{#nABiH,#}</div> Sa.; <div n="xe">{%shall I kill him, or is he dream-%}
-<div n="lb"/>{%ing:%}</div> <div n="xs">{#kiM vyApAdayAmyutotsvapnAyate,#}</div> Mr. iii.; <div n="xe">{%I do%}
-<div n="lb"/>{%not know whether this is becoming of (your)%}
-<div n="lb"/>{%bark or (your) matted hair, whether it befits%}
-<div n="lb"/>{%(your) penances or it is a part of (your) religi-%}
-<div n="lb"/>{%ous observances:%}</div> <div n="xs">{#na jAne kimidaM valkalAnAM sadfSamu-#}
-<div n="lb"/>{#tAho jawAnAM samucitaM, kiM tapaso'nurUpamAhosvidDarmakarmA-#}
-<div n="lb"/>{#padeSANgamidam,#}</div> K. (N. B. {#nu#} is interro. and not
-<div n="lb"/>used in such cases). </div><div n="I">III Beginning a
-<div n="lb"/>sentence: {#aTavA,#} {%or to injure tender things:%}
-<div n="lb"/>{#aTavA mfdu vastu hiMsitum,#} R. viii. 45. </div><div n="I">IV In defi-
-<div n="lb"/>-nitions or explanations: by {#ca#} {%or%} not expr.,
-<div n="lb"/><div n="xe">{%is called a fratricide or a brother-killer:%}</div> <div n="xs">{#BrAtfhA #}
-<div n="lb"/>{# BrAtfGAtI cABiDIyate.#}</div></div>
+{@OR:@}¦ <div n="I">I In gen.: {#vA,#} {%whether child or pupil:%}
+{#SiSurvA SizyA vA,#} U. iv. 11.; <div n="xe">{%whether God is%}
+{%spoken of in this passage or not:%}</div> <div n="xs">{#kiM brahmAsmin #}
+{# vAkye'BiDIyate na veti,#}</div> S. ii. 15.; <div n="xe">{%from fear of%}
+{%the king or of thieves:%}</div> <div n="xs">{#rAjaBayAccOramayAdvA,#}</div> Mr.
+iii.; <div n="xe">{%or else:%}</div> <div n="xs">{#kiM vA,#}</div> Vi. vi. 21. (when=other-
+-wise: {#nocet,#} H.). </div><div n="I">II In interrogation
+direct or implied: <div n="xe">{%is it a dream, an illusion,%}
+{%or delusion of my mind:%}</div> <div n="xs">{#svapno nu mAyA nu matiBramo #}
+{# nu,#}</div> Sa.; {%is my strength gone or am I another:%}
+{#DvastaM nu me vIryamutAhamanyaH,#} Ki.; <div n="xe">{%or is (she) going%}
+{%to live with hinds:%}</div> <div n="xs">{#Aho nivatsyati samaM hariRANga-#}
+{#nABiH,#}</div> Sa.; <div n="xe">{%shall I kill him, or is he dream-%}
+{%ing:%}</div> <div n="xs">{#kiM vyApAdayAmyutotsvapnAyate,#}</div> Mr. iii.; <div n="xe">{%I do%}
+{%not know whether this is becoming of (your)%}
+{%bark or (your) matted hair, whether it befits%}
+{%(your) penances or it is a part of (your) religi-%}
+{%ous observances:%}</div> <div n="xs">{#na jAne kimidaM valkalAnAM sadfSamu-#}
+{#tAho jawAnAM samucitaM, kiM tapaso'nurUpamAhosvidDarmakarmA-#}
+{#padeSANgamidam,#}</div> K. (N. B. {#nu#} is interro. and not
+used in such cases). </div><div n="I">III Beginning a
+sentence: {#aTavA,#} {%or to injure tender things:%}
+{#aTavA mfdu vastu hiMsitum,#} R. viii. 45. </div><div n="I">IV In defi-
+-nitions or explanations: by {#ca#} {%or%} not expr.,
+<div n="xe">{%is called a fratricide or a brother-killer:%}</div> <div n="xs">{#BrAtfhA #}
+{# BrAtfGAtI cABiDIyate.#}</div></div>
 <LEND>

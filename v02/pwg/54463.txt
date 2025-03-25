@@ -1,86 +1,85 @@
 <L>54463<pc>5-0240<k1>BAj<k2>BAj
-{#BAj#}¦ (von {#Baj)#} 
-<div n="1"> 1) <lex>adj.</lex> am Ende eines comp. 
-<ls>P. 3, 2, 62.</ls> 
-<div n="2"> a) {%theilhabend an, betheiligt bei, berechtigt an; theilhaftig, besitzend, zu geniessen habend, sich einer Sache erfreuend, empfindend, sich hingebend%}: {#AhavanIya°#} 
-<ls>ŚĀṄKH. BR. 16, 6. fgg.</ls> {#ucCizwa°#} 
-<ls>GOBH. 4, 3, 18.</ls> {#tamo°#} 
-<ls>AIT. BR. 5, 24.</ls> {#tri°, turIya°#} 
-<ls>2, 25.</ls> <ls>MBH. 4, 202.</ls> {#zaqBAga°#} 
-<ls>M. 8, 305.</ls> {#rikTa°#} 
-<ls>9, 155.</ls> {#maKAMSa°#} 
-<ls>RAGH. 3, 44.</ls> 
-<ls>KĀM. NĪTIS. 2, 10.</ls> <ls>VARĀH. BṚH. S. 19, 13.</ls> {#nEkakratuPala°#} 
-<ls>5, 98.</ls> <ls>M. 1, 109.</ls> {#tAruRyaPala°#} 
-<ls>Spr. 3161.</ls> {#SrezWa°#} 
-<ls>MBH. 1, 6655.</ls> {#yajYa°#} 
-<ls>PAÑCAR. 1, 14, 114.</ls> {#Dana°#} 
-<ls>YĀJÑ. 2, 60.</ls> 
-<ls>Spr. 3589.</ls> {#nfpamAna°#} 
-<ls>M. 2, 139.</ls> {#arDaSarIra°#} 
-<ls>KUMĀRAS. 7, 28.</ls> {#sarvarUpa°#} 
-<ls>RAGH. 10, 21.</ls> {#UrDva°#} 
-<ls>MAITRYUP. 4, 3.</ls> {#Sakraloka°#} 
-<ls>M. 8, 386.</ls> 
-<ls>R. 2, 23, 29.</ls> 
-<ls>KĀM. NĪTIS. 2, 35.</ls> <ls>MĀRK. P. 114, 20.</ls> {#naraka°#} 
-<ls>BHĀG. P. 3, 9, 4.</ls> {#mokza°#} 
-<ls>Verz. d. Oxf. H. 249,a,15.</ls> {#SatadaRqa°#} 
-<ls>YĀJÑ. 2, 237.</ls> {#cOradaRqa°#} 
-<ls>1, 65.</ls> {#doza°#} 
-<ls>179.</ls> <ls>Verz. d. Oxf. H. 91,b,14.</ls> {#drumajanma°#} 
-<ls>BHĀG. P. 2, 3, 22.</ls> {#SIla°#} 
-<ls>Spr. 4230.</ls> {#roga°#} so v. a. {%krank%} 
-<ls>Spr. 181.</ls> {#mudBAj#} 
-<ls>VARĀH. BṚH. S. 18, 6.</ls> {#suKa°#} 
-<ls>47, 5.</ls> {#suHKaduHKa°#} 
-<ls>MAITRYUP. 6, 21.</ls> <ls>R. 6, 1, 36.</ls> <ls>Spr. 2519.</ls> {#nirvfti°#} 
-<ls>PAÑCAT. 55, 1.</ls> {#pIqA°#} 
-<ls>KIR. 5, 23.</ls> {#prIti°#} 
-<ls>KATHĀS. 22, 259.</ls> {#udvega°#} 
-<ls>48, 137.</ls> {#sahajamalinavakraBAva°#} 
-<ls>Spr. 5209.</ls> {#sOjanya°#} 
-<ls>DHŪRTAS.</ls> in <ls>LA. 96, 12.</ls> {#yuvarAjaSabda°#} 
-<ls>RAGH. 3, 35.</ls> {#lalAwasveda°#} 
-<ls>Spr. 372.</ls> 
-<ls>PAÑCAR. 3, 5, 23.</ls> {#nideSa°#} {%einen Auftrag habend%} 
-<ls>MBH. 2, 567.</ls> 
-<ls>BHĀG. P. 3, 33, 5.</ls> {#svapna°#} {%des Schlafes geniessend%} 
-<ls>Spr. 4733.</ls> {#tIrTasevanamOna°#} {%in heiligem Wasser lebend und Stillschweigen beobachtend%} 
-<ls>4132.</ls> {#uBaya°#} {%Beides übend%} 
-<ls>R. 4, 21, 36.</ls> 
-<div n="2">— b) {%einen Theil von Etwas bildend, gehörig zu%}: {#dvivaco'nta°#} 
-<ls>ṚV. PRĀT. 1, 18.</ls> <ls n="ṚV. PRĀT.">6, 15.</ls> <ls n="ṚV. PRĀT.">7, 2.</ls> <ls n="ṚV. PRĀT.">11, 3.</ls> {#apadAdi°#} 
-<ls>2, 31. 5, 10.</ls> {#pUrva°#} 
-<ls>1, 7. 18, 17.</ls> 
+{#BAj#}¦ (von {#Baj)#}
+<div n="1"> 1) <lex>adj.</lex> am Ende eines comp.
+<ls>P. 3,2,62.</ls>
+<div n="2"> a) {%theilhabend an, betheiligt bei, berechtigt an; theilhaftig, besitzend, zu geniessen habend, sich einer Sache erfreuend, empfindend, sich hingebend%}: {#AhavanIya°#}
+<ls>ŚĀṄKH. BR. 16,6. fgg.</ls> {#ucCizwa°#}
+<ls>GOBH. 4,3,18.</ls> {#tamo°#}
+<ls>AIT. BR. 5,24.</ls> {#tri°, turIya°#}
+<ls n="AIT. BR.">2,25.</ls> <ls>MBH. 4,202.</ls> {#zaqBAga°#}
+<ls>M. 8,305.</ls> {#rikTa°#}
+<ls n="M.">9,155.</ls> {#maKAMSa°#}
+<ls>RAGH. 3,44.</ls>
+<ls>KĀM. NĪTIS. 2,10.</ls> <ls>VARĀH. BṚH. S. 19,13.</ls> {#nEkakratuPala°#}
+<ls n="VARĀH. BṚH. S.">5,98.</ls> <ls>M. 1,109.</ls> {#tAruRyaPala°#}
+<ls>Spr. 3161.</ls> {#SrezWa°#}
+<ls>MBH. 1,6655.</ls> {#yajYa°#}
+<ls>PAÑCAR. 1,14,114.</ls> {#Dana°#}
+<ls>YĀJÑ. 2,60.</ls>
+<ls>Spr. 3589.</ls> {#nfpamAna°#}
+<ls>M. 2,139.</ls> {#arDaSarIra°#}
+<ls>KUMĀRAS. 7,28.</ls> {#sarvarUpa°#}
+<ls>RAGH. 10,21.</ls> {#UrDva°#}
+<ls>MAITRYUP. 4,3.</ls> {#Sakraloka°#}
+<ls>M. 8,386.</ls>
+<ls>R. 2,23,29.</ls>
+<ls>KĀM. NĪTIS. 2,35.</ls> <ls>MĀRK. P. 114,20.</ls> {#naraka°#}
+<ls>BHĀG. P. 3,9,4.</ls> {#mokza°#}
+<ls>Verz. d. Oxf. H. 249,a,15.</ls> {#SatadaRqa°#}
+<ls>YĀJÑ. 2,237.</ls> {#cOradaRqa°#}
+<ls n="YĀJÑ.">1,65.</ls> {#doza°#}
+<ls n="YĀJÑ.">179.</ls> <ls>Verz. d. Oxf. H. 91,b,14.</ls> {#drumajanma°#}
+<ls>BHĀG. P. 2,3,22.</ls> {#SIla°#}
+<ls>Spr. 4230.</ls> {#roga°#} so v. a. {%krank%}
+<ls>Spr. 181.</ls> {#mudBAj#}
+<ls>VARĀH. BṚH. S. 18,6.</ls> {#suKa°#}
+<ls n="VARĀH. BṚH. S.">47,5.</ls> {#suHKaduHKa°#}
+<ls>MAITRYUP. 6,21.</ls> <ls>R. 6,1,36.</ls> <ls>Spr. 2519.</ls> {#nirvfti°#}
+<ls>PAÑCAT. 55,1.</ls> {#pIqA°#}
+<ls>KIR. 5,23.</ls> {#prIti°#}
+<ls>KATHĀS. 22,259.</ls> {#udvega°#}
+<ls n="KATHĀS.">48,137.</ls> {#sahajamalinavakraBAva°#}
+<ls>Spr. 5209.</ls> {#sOjanya°#}
+<ls>DHŪRTAS. in LA. 96,12.</ls> {#yuvarAjaSabda°#}
+<ls>RAGH. 3,35.</ls> {#lalAwasveda°#}
+<ls>Spr. 372.</ls>
+<ls>PAÑCAR. 3,5,23.</ls> {#nideSa°#} {%einen Auftrag habend%}
+<ls>MBH. 2,567.</ls>
+<ls>BHĀG. P. 3,33,5.</ls> {#svapna°#} {%des Schlafes geniessend%}
+<ls>Spr. 4733.</ls> {#tIrTasevanamOna°#} {%in heiligem Wasser lebend und Stillschweigen beobachtend%}
+<ls n="Spr.">4132.</ls> {#uBaya°#} {%Beides übend%}
+<ls>R. 4,21,36.</ls>
+<div n="2">— b) {%einen Theil von Etwas bildend, gehörig zu%}: {#dvivaco'nta°#}
+<ls>ṚV. PRĀT. 1,18.</ls> <ls n="ṚV. PRĀT.">6,15.</ls> <ls n="ṚV. PRĀT.">7,2.</ls> <ls n="ṚV. PRĀT.">11,3.</ls> {#apadAdi°#}
+<ls n="ṚV. PRĀT.">2,31. 5,10.</ls> {#pUrva°#}
+<ls n="ṚV. PRĀT.">1,7. 18,17.</ls>
 <div n="2">— c) {%verbunden mit%}: {#samrAwSabdo hi kfcCraBAk#}
 [Page5-0241]
-
-<ls>MBH. 2, 636.</ls> {#prasUtiBAjaH sargasya#} 
-<ls>KUMĀRAS. 2, 7.</ls> {#pAdAmbujAnyambujakAntiBAYji#} 
-<ls>ṚT. 4, 4.</ls> {#karmARyaDikAraBAYji#} (so ist zu lesen mit {%K.%}) 
-<ls>PRAB. 109,13.</ls> 
-<ls>DHŪRTAS.</ls> in <ls>LA. 68,12.</ls> {#sa (utsAhaH) vIryamatiSaktiBAk#} 
-<ls>AK. 1, 1, 7, 29.</ls> {#upaBogaBAYjyayi DanAni#} {%mit Genuss verbunden, genossen werdend%} 
-<ls>Spr. 1991.</ls> {#ekApi (dik) prAcyAdivyapadeSaBAk#} so v. a. {%erhält verschiedene Benennungen%} 
-<ls>BHĀṢĀP. 46.</ls> {#jAtirliNgAnAM ca na savarBAk#} 
-<ls>P. II, S. 462.</ls> {#anudayaBAjIndO#} {%so lange der Mond nicht aufgegangen ist%} 
-<ls>Spr. 1087.</ls> 
-<div n="2">— d) {%innehabend, einnehmend%} (einen Sitz, Platz), {%bewohnend, wohnend in, an%}: {#vizwara°#} 
-<ls>RAGH. 5, 3.</ls> {#savitAnaharmya°#} 
-<ls>19, 39.</ls> {#anucitasTitideSa°#} 
-<ls>Spr. 116.</ls> {#yamunA°#} 
-<ls>RAGH. 15, 2.</ls> {#sAgara° (candra)#} 
-<ls>NAIGH. 22, 44.</ls> mit dem acc.: {#pfTakpfTagavasTAnaM BAYji#} (wohl {#avasTAnaBAYji#} zu lesen) 
-<ls>MĀRK. P. 102, 8.</ls> 
-<div n="2">— e) {%hingehend zu%}: {#nadIvoBayakUlaBAk#} 
-<ls>RAGH. 12, 35.</ls> {#aNka° (Pala)#} {%in den Schooss kommend%} so v. a. {%zufallend%} 
-<ls>KIR. 5, 52.</ls> 
-<div n="2">— f) {%verehrend%}: {#api cetsudurAcAro Bajate mAmananyaBAk#} 
-<ls>BHAG. 9, 30.</ls> {#labDavarRa°#} 
-<ls>RAGH. 11, 2.</ls> 
-<div n="1">— 2) {%Angelegenheit%}: {#vyaraMsItkftAkfteByaH kzitipAlaBAgByaH#} 
-<ls>BHAṬṬ. 3, 21.</ls> 
-<div n="v">— Vgl. {#akzara°, anta°, arDa°, aharBAj#} (auch 
-<ls>LĀṬY. 6, 2, 23. 7, 20</ls>), {#UrDva°, kAma°, kIrti°, caturTa°, janma°, deha°, DAma°, pATo°, pAda°, piRqa°, pitu°, puRya°, pUrva°, praTama°#}.{# praDAna°, pretya°, Pala°, Bakti°, BAga°, manda°, vAma°, SarIra°, savana°#} .
+<ls>MBH. 2,636.</ls> {#prasUtiBAjaH sargasya#}
+<ls>KUMĀRAS. 2,7.</ls> {#pAdAmbujAnyambujakAntiBAYji#}
+<ls>ṚT. 4,4.</ls> {#karmARyaDikAraBAYji#} (so ist zu lesen mit {%K.%})
+<ls>PRAB. 109,13.</ls>
+<ls>DHŪRTAS. in LA. 68,12.</ls> {#sa (utsAhaH) vIryamatiSaktiBAk#}
+<ls>AK. 1,1,7,29.</ls> {#upaBogaBAYjyayi DanAni#} {%mit Genuss verbunden, genossen werdend%}
+<ls>Spr. 1991.</ls> {#ekApi (dik) prAcyAdivyapadeSaBAk#} so v. a. {%erhält verschiedene Benennungen%}
+<ls>BHĀṢĀP. 46.</ls> {#jAtirliNgAnAM ca na savarBAk#}
+<ls>P. II, S. 462.</ls> {#anudayaBAjIndO#} {%so lange der Mond nicht aufgegangen ist%}
+<ls>Spr. 1087.</ls>
+<div n="2">— d) {%innehabend, einnehmend%} (einen Sitz, Platz), {%bewohnend, wohnend in, an%}: {#vizwara°#}
+<ls>RAGH. 5,3.</ls> {#savitAnaharmya°#}
+<ls n="RAGH.">19,39.</ls> {#anucitasTitideSa°#}
+<ls>Spr. 116.</ls> {#yamunA°#}
+<ls>RAGH. 15,2.</ls> {#sAgara° (candra)#}
+<ls>NAIGH. 22,44.</ls> mit dem acc.: {#pfTakpfTagavasTAnaM BAYji#} (wohl {#avasTAnaBAYji#} zu lesen)
+<ls>MĀRK. P. 102,8.</ls>
+<div n="2">— e) {%hingehend zu%}: {#nadIvoBayakUlaBAk#}
+<ls>RAGH. 12,35.</ls> {#aNka° (Pala)#} {%in den Schooss kommend%} so v. a. {%zufallend%}
+<ls>KIR. 5,52.</ls>
+<div n="2">— f) {%verehrend%}: {#api cetsudurAcAro Bajate mAmananyaBAk#}
+<ls>BHAG. 9,30.</ls> {#labDavarRa°#}
+<ls>RAGH. 11,2.</ls>
+<div n="1">— 2) {%Angelegenheit%}: {#vyaraMsItkftAkfteByaH kzitipAlaBAgByaH#}
+<ls>BHAṬṬ. 3,21.</ls>
+<div n="v">— Vgl. {#akzara°, anta°, arDa°, aharBAj#} (auch
+<ls>LĀṬY. 6,2,23. 7,20</ls>), {#UrDva°, kAma°, kIrti°, caturTa°, janma°, deha°, DAma°, pATo°, pAda°, piRqa°, pitu°, puRya°, pUrva°, praTama°#}.{# praDAna°, pretya°, Pala°, Bakti°, BAga°, manda°, vAma°, SarIra°, savana°#} .
 <LEND>

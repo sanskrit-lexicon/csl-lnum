@@ -1,35 +1,35 @@
 <L>103150<pc>7-0492<k1>saMstava<k2>saMstava
-{#saMstava#}¦ (von {#stu#} mit {#sam#}) <lex>m.</lex> 
-<div n="1"> 1) {%gemeinschaftlicher —, gleichzeitiger Preis%} 
-<ls>NIR. 4, 15.</ls> {#camasasya#} 
-<ls>11, 16.</ls> <ls>ŚĀṄKH. ŚR. 14, 11, 8.</ls> {#a°#} 
-<ls>NIR. 12, 2.</ls> 
-<div n="1">— 2) {%Preis, Belobung%}; sg. und pl. 
-<ls>HARIV. 8657.</ls> 
-<ls>Spr. (II) 2530.</ls> 
-<ls>BHĀG. P. 11, 13, 41.</ls> {#priyAyAH#} 
-<ls>HARIV. 7109.</ls> {#svabala°#} 
-<ls>MBH. 1, 1521.</ls> {#amitra°#} 
-<ls>2, 2125.</ls> {#sUtamAgaDAH . tuzwuvuH - stavErmaNgalasaMstavEH (= maNgalapratipAdakEH#} Comm.) 
-<ls>R. ed. Bomb. 2, 81, 1.</ls> 
-<div n="1">— 3) {%Erwähnung%}: {#dIrGasattra°#} Comm. zu 
-<ls>KĀTY. ŚR. 32, 13.</ls> 
-<div n="1">— 4) {%Bekanntschaft%} 
-<ls>AK. 3, 3, 23.</ls> 
-<ls>H. 1513.</ls> 
-<ls>HALĀY. 4, 88.</ls> 
-<ls>KIR. 4, 22. 25.</ls> 
-<ls>RĀJA-TAR. 4, 498.</ls> {#CAtrayoH#} 
-<ls>P. 3, 3, 31, Schol.</ls> {#°prIti#} 
-<ls>KATHĀS. 121, 62.</ls> {#prAgjanmAntara°#} 
-<ls>28, 117.</ls> {#kastABiH saMstavo mama#} 
-<ls>45, 306.</ls> {#priyABiH saha#} 
-<ls>54, 241. 104, 77.</ls> {#saMstavaM kar#} 
-<ls>60, 66.</ls> {#tena#} 
-<ls>65.</ls> {#vaRijA saha#} 
-<ls>29, 101.</ls> {#saMjAta°#} <lex>adj.</lex> 
-<ls>20, 179.</ls> {#BikzuBiH saha#} 
-<ls>63, 57.</ls> {#tatkaTAsaMstavA#} <lex>adj.</lex> 
-<ls>108, 72.</ls> {#a°#} <lex>adj.</lex> {%mit Jmd unbekannt, fremd%} 
+{#saMstava#}¦ (von {#stu#} mit {#sam#}) <lex>m.</lex>
+<div n="1"> 1) {%gemeinschaftlicher —, gleichzeitiger Preis%}
+<ls>NIR. 4,15.</ls> {#camasasya#}
+<ls n="NIR.">11,16.</ls> <ls>ŚĀṄKH. ŚR. 14,11,8.</ls> {#a°#}
+<ls>NIR. 12,2.</ls>
+<div n="1">— 2) {%Preis, Belobung%}; sg. und pl.
+<ls>HARIV. 8657.</ls>
+<ls>Spr. (II) 2530.</ls>
+<ls>BHĀG. P. 11,13,41.</ls> {#priyAyAH#}
+<ls>HARIV. 7109.</ls> {#svabala°#}
+<ls>MBH. 1,1521.</ls> {#amitra°#}
+<ls n="MBH.">2,2125.</ls> {#sUtamAgaDAH . tuzwuvuH — stavErmaNgalasaMstavEH (= maNgalapratipAdakEH#} Comm.)
+<ls>R. ed. Bomb. 2,81,1.</ls>
+<div n="1">— 3) {%Erwähnung%}: {#dIrGasattra°#} Comm. zu
+<ls>KĀTY. ŚR. 32,13.</ls>
+<div n="1">— 4) {%Bekanntschaft%}
+<ls>AK. 3,3,23.</ls>
+<ls>H. 1513.</ls>
+<ls>HALĀY. 4,88.</ls>
+<ls>KIR. 4,22. 25.</ls>
+<ls>RĀJA-TAR. 4,498.</ls> {#CAtrayoH#}
+<ls>P. 3,3,31</ls>, Schol. {#°prIti#}
+<ls>KATHĀS. 121,62.</ls> {#prAgjanmAntara°#}
+<ls n="KATHĀS.">28,117.</ls> {#kastABiH saMstavo mama#}
+<ls n="KATHĀS.">45,306.</ls> {#priyABiH saha#}
+<ls n="KATHĀS.">54,241.</ls> <ls n="KATHĀS.">104,77.</ls> {#saMstavaM kar#}
+<ls n="KATHĀS.">60,66.</ls> {#tena#}
+<ls n="KATHĀS. 60,">65.</ls> {#vaRijA saha#}
+<ls n="KATHĀS.">29,101.</ls> {#saMjAta°#} <lex>adj.</lex>
+<ls n="KATHĀS.">20,179.</ls> {#BikzuBiH saha#}
+<ls n="KATHĀS.">63,57.</ls> {#tatkaTAsaMstavA#} <lex>adj.</lex>
+<ls n="KATHĀS.">108,72.</ls> {#a°#} <lex>adj.</lex> {%mit Jmd unbekannt, fremd%}
 <ls>ŚĀK. 33, v. l.</ls>
 <LEND>

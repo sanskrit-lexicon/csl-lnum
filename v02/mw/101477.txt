@@ -1,3 +1,3 @@
-<L>101477<pc>517,3<k1>Durv<k2>Durv<h>a<e>1
-<s>Durv</s> <hom>a</hom> ¦ = <s>DUrv</s> <ab>q.v.</ab><info verb="root" cp="0"/>
+<L>101477<pc>517,3<k1>Durv<k2>Durv<e>1
+<s>Durv</s> ¦ = <s>DUrv</s>, <ab>q.v.</ab><info verb="root" cp="0"/><info hui="a"/>
 <LEND>

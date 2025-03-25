@@ -1,7 +1,7 @@
 <L>19046<pc>589<k1>representation<k2>representation
-<div n="lb"/>{@REPRESENTATION:@}¦ <div n="I">I Delineation, descrip-
-<div n="lb"/>-tion: q. v.: {#varRanA.#} </div><div n="I">II Information, respect-
-<div n="lb"/>-ful statement: </div><div n="1">(1) {#Avedanam;#} </div><div n="1">(2) {#nivedanam.#}</div>
-<div n="lb"/><div n="I">III Image, likeness: </div><div n="1">(1) {#pratikftiH;#} </div><div n="1">(2)
-<div n="lb"/>{#pratirUpam.#} </div><div n="I">IV Theatrical: {#aBinayaH.#}</div>
+{@REPRESENTATION:@}¦ <div n="I">I Delineation, descrip-
+-tion: q. v.: {#varRanA.#} </div><div n="I">II Information, respect-
+-ful statement: </div><div n="1">(1) {#Avedanam;#} </div><div n="1">(2) {#nivedanam.#}</div>
+<div n="I">III Image, likeness: </div><div n="1">(1) {#pratikftiH;#} </div><div n="1">(2)
+{#pratirUpam.#} </div><div n="I">IV Theatrical: {#aBinayaH.#}</div>
 <LEND>

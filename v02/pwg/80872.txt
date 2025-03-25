@@ -1,16 +1,16 @@
 <L>80872<pc>6-0012<k1>yajatra<k2>ya/jatra
-{#ya/jatra#}¦ (von 1. {#yaj#}) 
-<ls>UṆĀDIS. 3, 105.</ls> <lex>adj.</lex> {%dem göttliche Verehrung und Opfer gebühren%}: {#ye yaja^trA\ ya IqyA\ste te^ pibantu ji\hvayA^#} 
-<ls>ṚV. 1, 14, 8.</ls> <ls n="ṚV. 1,">65, 2.</ls> <ls n="ṚV.">3, 31, 17.</ls> {#de\vI de\veBi^ryaja\te yaja^trEH#} 
-<ls n="ṚV.">4, 56, 2.</ls> <ls n="ṚV.">6, 21, 11.</ls> <ls n="ṚV. 6,">50, 15.</ls> {#ye de\vAnA^M yajYiyA^ ya\jYiyA^nA\M mano\ryaja^trA a\mftA^H#} 
-<ls n="ṚV.">7, 35, 15.</ls> {#pi\tA ma\hAnyaja^traH#} 
-<ls n="ṚV. 7,">52, 3.</ls> <ls n="ṚV.">10, 70, 11.</ls> <is>Agni</is> 
-<ls n="ṚV.">1, 76, 4.</ls> <ls n="ṚV.">3, 22, 2.</ls> <ls>VS. 11, 76.</ls> <is>Varuṇa</is> und die <is>Āditya</is> 
-<ls>ṚV. 2, 27, 16.</ls> <ls n="ṚV. 2,">29, 6.</ls> <ls n="ṚV.">7, 88, 1.</ls> 
-<ls>AV. 6, 114, 2.</ls> Himmel und Erde 
-<ls>ṚV. 7, 53, 1.</ls> {#saM te^ prA\Ro vAte^na gacCatA\M samaNgA^ni\ yaja^trEH#} (=  {#yAgEH#} 
-<ls>MAHĪDH.</ls>) <ls>VS. 6, 10.</ls> <ls>AV. 13, 2, 44.</ls> {#pa\Scedama\nyada^Bava\dyaja^tram#} 
-<ls>ṚV. 10, 149, 3.</ls> <lex>n.</lex> = {#agnihotra#} 
-<ls>UJJVAL.</ls> <lex>m.</lex> = {#agnihotrin#} 
+{#ya/jatra#}¦ (von 1. {#yaj#})
+<ls>UṆĀDIS. 3,105.</ls> <lex>adj.</lex> {%dem göttliche Verehrung und Opfer gebühren%}: {#ye yaja^trA\ ya IqyA\ste te^ pibantu ji\hvayA^#}
+<ls>ṚV. 1,14,8.</ls> <ls n="ṚV. 1,">65,2.</ls> <ls n="ṚV.">3,31,17.</ls> {#de\vI de\veBi^ryaja\te yaja^trEH#}
+<ls n="ṚV.">4,56,2.</ls> <ls n="ṚV.">6,21,11.</ls> <ls n="ṚV. 6,">50,15.</ls> {#ye de\vAnA^M yajYiyA^ ya\jYiyA^nA\M mano\ryaja^trA a\mftA^H#}
+<ls n="ṚV.">7,35,15.</ls> {#pi\tA ma\hAnyaja^traH#}
+<ls n="ṚV. 7,">52,3.</ls> <ls n="ṚV.">10,70,11.</ls> <is>Agni</is>
+<ls n="ṚV.">1,76,4.</ls> <ls n="ṚV.">3,22,2.</ls> <ls>VS. 11,76.</ls> <is>Varuṇa</is> und die <is>Āditya</is>
+<ls>ṚV. 2,27,16.</ls> <ls n="ṚV. 2,">29,6.</ls> <ls n="ṚV.">7,88,1.</ls>
+<ls>AV. 6,114,2.</ls> Himmel und Erde
+<ls>ṚV. 7,53,1.</ls> {#saM te^ prA\Ro vAte^na gacCatA\M samaNgA^ni\ yaja^trEH#} (= {#yAgEH#}
+<ls>MAHĪDH.</ls>) <ls>VS. 6,10.</ls> <ls>AV. 13,2,44.</ls> {#pa\Scedama\nyada^Bava\dyaja^tram#}
+<ls>ṚV. 10,149,3.</ls> <lex>n.</lex> = {#agnihotra#}
+<ls>UJJVAL.</ls> <lex>m.</lex> = {#agnihotrin#}
 <ls>ŚKDR.</ls> nach <ls>UṆĀDIK.</ls>
 <LEND>

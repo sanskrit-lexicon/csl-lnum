@@ -1,27 +1,25 @@
-<L>67218<pc>4086-3<k1>piz<k2>piz<e>500
-{#piz#}¦ , {#pina/zwi (piRa/k#} 2te <ab>Sg.</ab> <ab>Conj.</ab> episch auch <ab>Med.</ab> {%zerreiben , zerstampfen , mahlen , zermalmen , vernichten.%} In der übertr. Bed. {%zermalmen , stark mitnehmen%} auch mit <ab>Gen.</ab> {#pizwa/#} {%gemahlen.%}
+<L>67218<pc>4-086-c<k1>piz<k2>piz
+√{#piz#}¦, {#pina/zwi#} ({#piRa/k#} 2te und 3te <ab>Sg.</ab> <ab>Conj.</ab>); episch auch <ab>Med.</ab> {%zerreiben, zerstampfen, mahlen, zermalmen, vernichten%}. In der <ab>übertr.</ab> <ab>Bed.</ab> {%zermalmen, stark mitnehmen%} auch mit <ab>Gen.</ab> {#pizwa/#} {%gemahlen%}.
 <div n="m">— <ab>Caus.</ab> {#pezayati#}
-<div n="1">— 1) = Simpl. <ls>CARAKA.6,12.27.</ls>
-<div n="1">— 2) {#*hiMsAbalAdAnaniketanezu#} ; auch {#dAna#} st. {#AdAna#}.
-<div n="p">— Mit {#anu#} {%anrühren , anstossen.%}
-<div n="p">— Mit {#ava#} {%zerreiben.%}
-<div n="p">— Mit {#A#} {%drücken , anrühren.%}
+<div n="1">— 1〉 = <ab>Simpl.</ab> <ls>CARAKA. 6,12. 27</ls>.
+<div n="1">— 2〉 *{#hiMsAbalAdAnaniketanezu#}; auch {#dAna#} <ab>st.</ab> {#AdAna#}.
+<div n="p">— Mit {#anu#} {%anrühren, anstossen%}.
+<div n="p">— Mit {#ava#} {%zerreiben%}.
+<div n="p">— Mit {#A#} {%drücken, anrühren%}.
 <div n="p">— Mit {#ud#}, {#utpizwa#}
-<div n="1">— 1) {%zerquetscht , zerdrückt%} <ls>321,4</ls>
-<div n="1">— 2) {%herausgequetscht%} eine Form von Gelenksdislocation.
-<div n="p">— Mit {#samud#}, {#samutpizwa#} {%herausgequetscht.%}
-<div n="p">— Mit {#ni#} {%zermalmen.%}
-<div n="p">— Mit {#*prani#} (nicht {#praRi#}).
-<div n="p">— Mit {#nis#} {%stampfen , zerstampfen , -quetschen , -malmen%} (<ls>BĀLAR.109,21</ls>). {%-schmettern , durchwalken.%} {#svacaraRO#} so v.a. {%mit den Füssen stampfen%} , {#karaM kareRa#} {%die Hände aneinander reiben%} , {#dantErdantAn#} und {#dantAndantezu#} {%mit den Zähnen knirschen.%}
-<div n="m">— <ab>Caus.</ab> {%zermalmen , vernichten.%}
-<div n="p">— Mit {#vinis#} {%zerstampfen , — quetschen , — klopfen , — malmen , — schmettern.%} {#pARO pARim#}
-[Page4087-1]
-{%die Hände aneinander reiben.%}
-<div n="p">— Mit {#pari#} {%zerreiben , — stampfen.%}
-<div n="p">— Mit {#pra#} {%zermalmen.%} {#pra/pizwa#} {%gemahlen , zerrieben.%}
-<div n="m">— <ab>Caus.</ab> {%mahlen , zerreiben.%}
-<div n="p">— Mit {#prati#} {%andrücken ; zerschmettern , zerschlagen.%} {#karaM kare , hastErhastAgram#} {%die Hände aneinander reiben.%} {#pratipizwa#} {%zerschmettert%} ; <ab>Pl.</ab> {%an einander geschlagen , sich aneinander reibend.%}
-<div n="p">— Mit {#aBiprati#} {%zer- , ausschlagen.%}
-<div n="p">— Mit {#vi#} {%Jmd bewerfen mit%} (<ab>Instr.</ab>) <ls>28,24,27.</ls>
-<div n="p">— Mit {#sam#} {%zerstossen , -drücken , -reiben , -malmen , -schmettern.%}
+<div n="1">— 1〉 {%zerquetscht, zerdrückt%} <ls n="Chr.">321,4</ls>
+<div n="1">— 2〉 {%herausgequetscht%} eine Form von Gelenksdislocation.
+<div n="p">— Mit {#samud#}, {#samutpizwa#} {%herausgequetscht%}.
+<div n="p">— Mit {#ni#} {%zermalmen%}.
+<div n="p">— Mit *{#prani#} (nicht {#praRi#}).
+<div n="p">— Mit {#nis#} {%stampfen, zerstampfen, -quetschen, -malmen%} (<ls>BĀLAR. 109,21</ls>). {%-schmettern, durchwalken%}. {#svacaraRO#} so <ab>v. a.</ab> {%mit den Füssen stampfen,%} {#karaM kareRa#} {%die Hände aneinander reiben,%} {#dantErdantAn#} und {#dantAndantezu#} {%mit den Zähnen knirschen%}.
+<div n="m">— <ab>Caus.</ab> {%zermalmen, vernichten%}.
+<div n="p">— Mit {#vinis#} {%zerstampfen, — quetschen, — klopfen, — malmen, — schmettern%}. {#pARO pARim#} [Page4-087-a] {%die Hände aneinander reiben%}.
+<div n="p">— Mit {#pari#} {%zerreiben, — stampfen%}.
+<div n="p">— Mit {#pra#} {%zermalmen%}. {#pra/pizwa#} {%gemahlen, zerrieben%}.
+<div n="m">— <ab>Caus.</ab> {%mahlen, zerreiben%}.
+<div n="p">— Mit {#prati#} {%andrücken; zerschmettern, zerschlagen%}. {#karaM kare, hastErhastAgram#} {%die Hände aneinander reiben%}. {#pratipizwa#} {%zerschmettert;%} <ab>Pl.</ab> {%an einander geschlagen, sich aneinander reibend%}.
+<div n="p">— Mit {#aBiprati#} {%zer-, ausschlagen%}.
+<div n="p">— Mit {#vi#} {%Jmd bewerfen mit%} (<ab>Instr.</ab>) <ls n="Chr.">28,24</ls>. <ls n="Chr. 28,">27</ls>.
+<div n="p">— Mit {#sam#} {%zerstossen, -drücken, -reiben, -malmen, -schmettern%}.
 <LEND>

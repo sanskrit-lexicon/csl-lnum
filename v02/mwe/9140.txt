@@ -1,14 +1,14 @@
 <L>9140<pc>214-a<k1>duty<k2>duty
-<div n="lb"/>DUTY¦, {%s.%} (That which a person is bound to do) {#DarmmaH, svaDarmmaH,#}
-<div n="lb"/>{#karttavyaM, svakarttavyaM, karttavyatA, kAryyaM, kftyaM, kriyA, svakarmma#} {%n.%} {#(n),#}
-<div n="lb"/>{#nyAyyakarmma, niyamaH, yamaH, vrataM DUH#} {%f.%} {#(Dur). DurA, tapaH#} {%n.%} {#(s)#}. — 
-<div n="lb"/>(Appointed duty, office) {#niyogaH, aDikAraH, padaM, sTAnaM, AspadaM;#}
-<div n="lb"/>‘perpetual duty,’ {#nityakftyaM, nityakarmma#} {%n.%} {#(n), yamaH;#} ‘voluntary
-<div n="lb"/>duty,’ {#niyamaH;#} ‘fulfilment of duty,’ {#DarmmanizpattiH#} {%f.,%} {#kftakftyatA;#}
-<div n="lb"/>‘one who has done his duty,’ {#kftakftyaH, kftakriyaH;#} ‘morning
-<div n="lb"/>duty,’ {#prAtaHkftyaM;#} ‘a woman's peculiar duty,’ {#strInibanDanaM;#}
-<div n="lb"/>‘charged with weighty duties,’ {#DurIRaH, DurIyaH, DurvahaH#}. — 
-<div n="lb"/>(Reverence) {#BaktiH#} {%f.,%} {#mAnaM, sammAnaM, namaskAraH AdaraH#}. — (Impost)
-<div n="lb"/>{#SulkaH -lkaM, karaH, tArikaM, tAryyaM, rAjagrAhyaBAgaH;#} ‘duty paid at
-<div n="lb"/>ferries, &c.,’ {#GawwAdideyaM#}.
+DUTY¦, {%s.%} (That which a person is bound to do) {#DarmmaH, svaDarmmaH,#}
+{#karttavyaM, svakarttavyaM, karttavyatA, kAryyaM, kftyaM, kriyA, svakarmma#} {%n.%} {#(n),#}
+{#nyAyyakarmma, niyamaH, yamaH, vrataM DUH#} {%f.%} {#(Dur). DurA, tapaH#} {%n.%} {#(s)#}. — 
+(Appointed duty, office) {#niyogaH, aDikAraH, padaM, sTAnaM, AspadaM;#}
+‘perpetual duty,’ {#nityakftyaM, nityakarmma#} {%n.%} {#(n), yamaH;#} ‘voluntary
+duty,’ {#niyamaH;#} ‘fulfilment of duty,’ {#DarmmanizpattiH#} {%f.,%} {#kftakftyatA;#}
+‘one who has done his duty,’ {#kftakftyaH, kftakriyaH;#} ‘morning
+duty,’ {#prAtaHkftyaM;#} ‘a woman's peculiar duty,’ {#strInibanDanaM;#}
+‘charged with weighty duties,’ {#DurIRaH, DurIyaH, DurvahaH#}. — 
+(Reverence) {#BaktiH#} {%f.,%} {#mAnaM, sammAnaM, namaskAraH AdaraH#}. — (Impost)
+{#SulkaH -lkaM, karaH, tArikaM, tAryyaM, rAjagrAhyaBAgaH;#} ‘duty paid at
+ferries, &c.,’ {#GawwAdideyaM#}.
 <LEND>

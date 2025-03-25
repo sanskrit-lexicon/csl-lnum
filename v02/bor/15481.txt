@@ -1,6 +1,6 @@
 <L>15481<pc>474<k1>nominate<k2>nominate
-<div n="lb"/>{@NOMINATE:@}¦ <div n="I">I To name: q. v.: </div><div n="I">II To an
-<div n="lb"/>office: {#*nirvAcayati#} (c. of {#vac#}), <div n="xe">{%they can n.,%}
-<div n="lb"/>{%but cannot appoint:%}</div> <div n="xs">{#nirvAcayituM na tu niyoktuM te #}
-<div n="lb"/>{# praBavanti.#}</div></div>
+{@NOMINATE:@}¦ <div n="I">I To name: q. v.: </div><div n="I">II To an
+office: {#*nirvAcayati#} (c. of {#vac#}), <div n="xe">{%they can n.,%}
+{%but cannot appoint:%}</div> <div n="xs">{#nirvAcayituM na tu niyoktuM te #}
+{# praBavanti.#}</div></div>
 <LEND>

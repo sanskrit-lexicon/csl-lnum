@@ -1,13 +1,13 @@
 <L>10140<pc>320<k1>govern<k2>govern
-<div n="lb"/>{@GOVERN:@}¦ <div n="I">I As a country: </div><div n="1">(1) {#SAsti, pra-, #}
-<div n="lb"/>{# anu-#} ({#SAs,#} c. 2.), <div n="xe">{%g. the world:%}</div> <div n="xs">{#SADi pfTvIm,#}</div> B. iii.
-<div n="lb"/>53.; </div><div n="1">(2) {#pAlayati, pari.#} ({#pAl,#} c. 10.) (= to
-<div n="lb"/>protect; not to regulate), <div n="xe">{%let kings g. the%}
-<div n="lb"/>{%earth always standing by virtue:%}</div> <div n="xs">{#rAjAnaH paripAlayantu #}
-<div n="lb"/>{# vasuDAM Darme sTitAH sarvadA,#}</div> Ma. x.; </div><div n="1">(3) by subs.
-<div n="lb"/>{#pramuH, ISvaraH,#} etc.: v. Lord, master. </div><div n="I">II To
-<div n="lb"/>control: q.v.: {#niyacCati#} ({#yam,#} c. 1.). </div><div n="I">III In
-<div n="lb"/>gram.: expr. by {#saMbaDyate#} (pass. of {#banD#}) {%or%}
-<div n="lb"/>{#anvIyate#} (pass of {#i#}) (= to agree: with ins.),
-<div n="lb"/>Da.; {%or%} by {#karman#} (n.) (= accusative).</div>
+{@GOVERN:@}¦ <div n="I">I As a country: </div><div n="1">(1) {#SAsti, pra-, #}
+{# anu-#} ({#SAs,#} c. 2.), <div n="xe">{%g. the world:%}</div> <div n="xs">{#SADi pfTvIm,#}</div> B. iii.
+53.; </div><div n="1">(2) {#pAlayati, pari.#} ({#pAl,#} c. 10.) (= to
+protect; not to regulate), <div n="xe">{%let kings g. the%}
+{%earth always standing by virtue:%}</div> <div n="xs">{#rAjAnaH paripAlayantu #}
+{# vasuDAM Darme sTitAH sarvadA,#}</div> Ma. x.; </div><div n="1">(3) by subs.
+{#pramuH, ISvaraH,#} etc.: v. Lord, master. </div><div n="I">II To
+control: q.v.: {#niyacCati#} ({#yam,#} c. 1.). </div><div n="I">III In
+gram.: expr. by {#saMbaDyate#} (pass. of {#banD#}) {%or%}
+{#anvIyate#} (pass of {#i#}) (= to agree: with ins.),
+Da.; {%or%} by {#karman#} (n.) (= accusative).</div>
 <LEND>

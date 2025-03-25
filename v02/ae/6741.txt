@@ -1,19 +1,19 @@
 <L>6741<pc>291<k1>mischief<k2>mischief
 {@Mischief,@}¦ {%s.%} {#apakAraH, hAni#} {%f.,%} {#hiMsA, kzati#}
-<div n="lb"/>{%f.,%} {#nASaH, apAyaH, DvaMsaH, dozaH, bADA, a-#}
-<div n="lb"/>{#-hitaM, anarTaH, anizwaM, arizwaM;#} ‘m. to crops’
-<div n="lb"/>{#SasyahiMsA#}. {@2@} {#kucezwitaM, pApaM, durA-#}
-<div n="lb"/>{#-cAraH, kucezwA;#} ‘m. -maker’ {#durjanaH,#}
-<div n="lb"/>{#durvfttaH, piSunaH, karRejapaH, upajApakaH,#}
-<div n="lb"/>{#kuvyApArin, kucezwaH;#} ‘m. -making’
-<div n="lb"/>{#dOrjanyaM, pESunyaM, kucezwA, durvfttiH, kunIti#} {%f.%}
-<div n="lb"/>{@-Mischievous,@} {%a.%} {#GAtuka, hiMsaka, hiMsA-#}
-<div n="lb"/>{#-tmaka, apakAra-hiMsA-SIla, hiMsAruci, apa-#}
-<div n="lb"/>{#-kArin, ahitakArin, duzwa, pApa, durbudDi,#}
-<div n="lb"/>{#duzwamati#}. {@2@} {#kucezwita, kucezwApriya, durguRin,#}
-<div n="lb"/>{#duScezwita;#} ‘m. trick’ {#kucezwitaM;#} ‘a m.
-<div n="lb"/>person’ {#lokakaMwakaH, kucezwApriyaH#}. {@-ly,@}
-<div n="lb"/>{%adv.%} {#duzwabudDyA, sApakAraM, kzatipUrvaM, hiMsayA#}.
-<div n="lb"/>{@-ness,@} {%s.%} {#hiMsratA, apakAraSIlatA, hiMsA-#}
-<div n="lb"/>{#-ruci#} {%f.,%} {#duzwabudDi#} {%f.,%} {#pApAtmatA#}.
+{%f.,%} {#nASaH, apAyaH, DvaMsaH, dozaH, bADA, a-#}
+{#-hitaM, anarTaH, anizwaM, arizwaM;#} ‘m. to crops’
+{#SasyahiMsA#}. {@2@} {#kucezwitaM, pApaM, durA-#}
+{#-cAraH, kucezwA;#} ‘m. -maker’ {#durjanaH,#}
+{#durvfttaH, piSunaH, karRejapaH, upajApakaH,#}
+{#kuvyApArin, kucezwaH;#} ‘m. -making’
+{#dOrjanyaM, pESunyaM, kucezwA, durvfttiH, kunIti#} {%f.%}
+{@-Mischievous,@} {%a.%} {#GAtuka, hiMsaka, hiMsA-#}
+{#-tmaka, apakAra-hiMsA-SIla, hiMsAruci, apa-#}
+{#-kArin, ahitakArin, duzwa, pApa, durbudDi,#}
+{#duzwamati#}. {@2@} {#kucezwita, kucezwApriya, durguRin,#}
+{#duScezwita;#} ‘m. trick’ {#kucezwitaM;#} ‘a m.
+person’ {#lokakaMwakaH, kucezwApriyaH#}. {@-ly,@}
+{%adv.%} {#duzwabudDyA, sApakAraM, kzatipUrvaM, hiMsayA#}.
+{@-ness,@} {%s.%} {#hiMsratA, apakAraSIlatA, hiMsA-#}
+{#-ruci#} {%f.,%} {#duzwabudDi#} {%f.,%} {#pApAtmatA#}.
 <LEND>

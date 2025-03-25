@@ -1,5 +1,5 @@
 <L>1196<pc>042<k1>aspirate<k2>aspirate
-<div n="lb"/>{@ASPIRATE@}¦ (subs.): <div n="I">I An aspirated sound:
-<div n="lb"/>{#mahAprARaH#} ({#RA, RaM#}) <div n="xe">{%or%}</div> <div n="xs">{#mahAprARavarRaH.#}</div> </div><div n="I">II The mark,
-<div n="lb"/>{#mahAprARasUcakaM cihram.#}</div>
+{@ASPIRATE@}¦ (subs.): <div n="I">I An aspirated sound:
+{#mahAprARaH#} ({#RA, RaM#}) <div n="xe">{%or%}</div> <div n="xs">{#mahAprARavarRaH.#}</div> </div><div n="I">II The mark,
+{#mahAprARasUcakaM cihram.#}</div>
 <LEND>

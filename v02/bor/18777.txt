@@ -1,9 +1,9 @@
 <L>18777<pc>579<k1>redeem<k2>redeem
-<div n="lb"/>{@REDEEM:@}¦ <div n="I">I To get back, buying back: </div><div n="1">(1)
-<div n="lb"/>{#mokzayati, pari-, vi-, saM-,#} {%if a mortgage is not r.ed:%}
-<div n="lb"/>{#yadyADirna mokzyate,#} Y. ii. 39.; </div><div n="1">(2) {#mocayati, vi-, #}
-<div n="lb"/>{# pari-, saM-#} (c. of {#muc#}), {%the debtor should r. (it):%}
-<div n="lb"/>{#fRI mocitumarhati,#} Vri.; </div><div n="1">(3) {#DanaM dattvA mokzayati,#}
-<div n="lb"/>etc., Mit. </div><div n="I">II To save: q. v.: {#mokzayati.#} </div><div n="I">III
-<div n="lb"/>To atone for: {#SoDayati, pari-, saM-#} (c. of {#SuD#}).</div>
+{@REDEEM:@}¦ <div n="I">I To get back, buying back: </div><div n="1">(1)
+{#mokzayati, pari-, vi-, saM-,#} {%if a mortgage is not r.ed:%}
+{#yadyADirna mokzyate,#} Y. ii. 39.; </div><div n="1">(2) {#mocayati, vi-, #}
+{# pari-, saM-#} (c. of {#muc#}), {%the debtor should r. (it):%}
+{#fRI mocitumarhati,#} Vri.; </div><div n="1">(3) {#DanaM dattvA mokzayati,#}
+etc., Mit. </div><div n="I">II To save: q. v.: {#mokzayati.#} </div><div n="I">III
+To atone for: {#SoDayati, pari-, saM-#} (c. of {#SuD#}).</div>
 <LEND>

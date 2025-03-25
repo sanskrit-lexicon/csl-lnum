@@ -1,21 +1,21 @@
 <L>5058<pc>211<k1>husband<k2>husband
 {@Husband,@}¦ {%s.%} {#patiH, Bartf, upayaMtf, pariRetf,#}
-<div n="lb"/>{#parigrahItf, vivoQf; kAMtaH, dayitaH, DavaH, nATaH,#}
-<div n="lb"/>{#svAmin; izwaH, priyatamaH, prAReSaH, hfdayeSaH,#}
-<div n="lb"/>all {%m.%} (poetical words); ‘h. and wife’
-<div n="lb"/>{#daM (jaM) patI, jAyApatI, BAryApatI;#} ‘h.’s
-<div n="lb"/>brother’ {#devaraH, devf#} {%m.,%} {#devalaH;#} ‘a second
-<div n="lb"/>h’ {#diDizuH;#} ‘h.'s sister’ {#nanAMdf;#} ‘h.'s
-<div n="lb"/>brother's wife’ {#yAtf;#} ‘sister's h.’
-<div n="lb"/>{#SyAlaH, SyAlakaH, AvuttaH, BaginIpatiH#}. -{%v. t.%}
-<div n="lb"/>{#parimitaM vyay#} 10 {#(vyayayati), na vikzip#} 6 P,
-<div n="lb"/>{#parimitavyayaM kf#} 8 U. {@2@} {#kfz#} 1 P, 6 U.
-<div n="lb"/>{@-less,@} {%a.%} {#viDavA, anATA, patihInA, gata-#}
-<div n="lb"/>{#-BartfkA, nirRATA#}. {@-ry,@} {%s.%} {#kfzi#} {%f.,%} {#kfzi-#}
-<div n="lb"/>{#-karman#} {%n.,%} {#karzaRaM, kfzividyA, vESyavftti#} {%f.,%} {#hala-#}
-<div n="lb"/>{#-Bfti#} {%f.%} {@2@} {#parimitavyayaH, gfhakarmanirvAhavidyA#}.
-<div n="lb"/>{@-Husbandman,@} {%s.%} {#kfza (zi) kaH, ka-#}
-<div n="lb"/>{#-rzakaH, kfzIvalaH, kzetrikaH, hAlikaH;#} {%See%}
-<div n="lb"/>{@Farmer. 2@} {#vESyaH, viS#} {%m.%} {#UrujaH, UravyaH,#}
-<div n="lb"/>{#aryaH, BUmispfS#} {%m.%}
+{#parigrahItf, vivoQf; kAMtaH, dayitaH, DavaH, nATaH,#}
+{#svAmin; izwaH, priyatamaH, prAReSaH, hfdayeSaH,#}
+all {%m.%} (poetical words); ‘h. and wife’
+{#daM (jaM) patI, jAyApatI, BAryApatI;#} ‘h.’s
+brother’ {#devaraH, devf#} {%m.,%} {#devalaH;#} ‘a second
+h’ {#diDizuH;#} ‘h.'s sister’ {#nanAMdf;#} ‘h.'s
+brother's wife’ {#yAtf;#} ‘sister's h.’
+{#SyAlaH, SyAlakaH, AvuttaH, BaginIpatiH#}. -{%v. t.%}
+{#parimitaM vyay#} 10 {#(vyayayati), na vikzip#} 6 P,
+{#parimitavyayaM kf#} 8 U. {@2@} {#kfz#} 1 P, 6 U.
+{@-less,@} {%a.%} {#viDavA, anATA, patihInA, gata-#}
+{#-BartfkA, nirRATA#}. {@-ry,@} {%s.%} {#kfzi#} {%f.,%} {#kfzi-#}
+{#-karman#} {%n.,%} {#karzaRaM, kfzividyA, vESyavftti#} {%f.,%} {#hala-#}
+{#-Bfti#} {%f.%} {@2@} {#parimitavyayaH, gfhakarmanirvAhavidyA#}.
+{@-Husbandman,@} {%s.%} {#kfza (zi) kaH, ka-#}
+{#-rzakaH, kfzIvalaH, kzetrikaH, hAlikaH;#} {%See%}
+{@Farmer. 2@} {#vESyaH, viS#} {%m.%} {#UrujaH, UravyaH,#}
+{#aryaH, BUmispfS#} {%m.%}
 <LEND>

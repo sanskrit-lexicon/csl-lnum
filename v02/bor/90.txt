@@ -1,6 +1,6 @@
 <L>90<pc>004<k1>abstemious<k2>abstemious
-<div n="lb"/>{@ABSTEMIOUS:@}¦ <div n="1">(1) {#mitAhAraH#} ({#rA, raM#}); </div><div n="1">(2)
-<div n="lb"/>{#mitASanaH#} ({#nA, naM#}); </div><div n="1">(3) {#mitaBuj#} (mfn);</div>
-<div n="lb"/><div n="1">(4) {#laDvAhAraH#} ({#rA, raM#}); </div><div n="1">(5) {#laDvASin#} (f. {#nI#});</div>
-<div n="lb"/><div n="1">(6) {#yatAhAraH#} ({#rA,#}).</div>
+{@ABSTEMIOUS:@}¦ <div n="1">(1) {#mitAhAraH#} ({#rA, raM#}); </div><div n="1">(2)
+{#mitASanaH#} ({#nA, naM#}); </div><div n="1">(3) {#mitaBuj#} (mfn);</div>
+<div n="1">(4) {#laDvAhAraH#} ({#rA, raM#}); </div><div n="1">(5) {#laDvASin#} (f. {#nI#});</div>
+<div n="1">(6) {#yatAhAraH#} ({#rA,#}).</div>
 <LEND>

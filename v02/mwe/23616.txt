@@ -1,11 +1,11 @@
 <L>23616<pc>629-b<k1>profession<k2>profession
-<div n="lb"/>PROFESSION¦, {%s.%} (Avowal, open declaration) {#aNgIkAraH, svIkAraH,#}
-<div n="lb"/>{#urIkAraH, UrIkAraH, KyApanaM, prakASaKyApanaM, pratijYA, prakASapratijYA,#}
-<div n="lb"/>{#prakASavacanaM, prakASavAdaH prakASakaTanaM, prakASakIrttanaM, svamataprakASanaM,#}
-<div n="lb"/>{#prakASanaM, sAkzyaM;#} ‘empty profession,’ {#nirarTakapratijYA;#} ‘of
-<div n="lb"/>religion,’ {#DarmmasvIkAraH#}. {%See%} PRETENDER. — (Calling, business)
-<div n="lb"/>{#vfttiH#} {%f.,%} {#vyApAraH, vyavasAyaH, varttanaM, pravfttiH#} {%f.,%} {#vfttaM, vfttitA, jIvikA,#}
-<div n="lb"/>{#upajIvikA, jIvanavfttiH#} {%f.,%} {#jIvanopAyaH, upajIvanaM, AjIvaH, AjI-#}
-<div n="lb"/>{#vanArTaM, udyogaH, vArttA, vyavahAraH;#} ‘military,’ {#SastravfttiH#} {%f.,%} {#SastrA-#}
-<div n="lb"/>{#straBfttvaM;#} ‘medical,’ {#cikitsAvfttiH#} {%f.%}
+PROFESSION¦, {%s.%} (Avowal, open declaration) {#aNgIkAraH, svIkAraH,#}
+{#urIkAraH, UrIkAraH, KyApanaM, prakASaKyApanaM, pratijYA, prakASapratijYA,#}
+{#prakASavacanaM, prakASavAdaH prakASakaTanaM, prakASakIrttanaM, svamataprakASanaM,#}
+{#prakASanaM, sAkzyaM;#} ‘empty profession,’ {#nirarTakapratijYA;#} ‘of
+religion,’ {#DarmmasvIkAraH#}. {%See%} PRETENDER. — (Calling, business)
+{#vfttiH#} {%f.,%} {#vyApAraH, vyavasAyaH, varttanaM, pravfttiH#} {%f.,%} {#vfttaM, vfttitA, jIvikA,#}
+{#upajIvikA, jIvanavfttiH#} {%f.,%} {#jIvanopAyaH, upajIvanaM, AjIvaH, AjI-#}
+{#vanArTaM, udyogaH, vArttA, vyavahAraH;#} ‘military,’ {#SastravfttiH#} {%f.,%} {#SastrA-#}
+{#straBfttvaM;#} ‘medical,’ {#cikitsAvfttiH#} {%f.%}
 <LEND>

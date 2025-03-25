@@ -1,3 +1,3 @@
-<L>60233.1<pc>1325,3<k1>kzullakavESvadeva<k2>kzullaka/-vESvadeva<h>b<e>3
-<s>kzullaka/-vESvadeva</s> <hom>b</hom> ¦ <lex>m.</lex> a small cup for the <s1 slp1="vESvadeva">Vaiśvadeva</s1>s, <ls>MaitrS.</ls><info n="sup"/><info lex="m"/>
+<L>60233.1<pc>1325,3<k1>kzullakavESvadeva<k2>kzullaka/-vESvadeva<e>3
+<s>kzullaka/-vESvadeva</s> ¦ <lex>m.</lex> a small cup for the <s1>Vaiśvadeva</s1>s, <ls>MaitrS.</ls><info n="sup"/><info lex="m"/><info hui="b"/>
 <LEND>

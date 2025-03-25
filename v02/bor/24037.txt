@@ -1,10 +1,10 @@
 <L>24037<pc>752<k1>wait<k2>wait
-<div n="lb"/>{@WAIT@}¦ (v.): <div n="1">(1) {#prati- Ikzate, apa-#} ({#Ikz,#} c. 1.),
-<div n="lb"/><div n="xe">{%w. for a short time:%}</div> <div n="xs">{#kAlaH kaScit pratIkzyatAm,#}</div> Ku.
-<div n="lb"/>ii. 54.; </div><div n="1">(2) {#prati-pAlayati pari-, anu-,#} ({#pAl,#} c.
-<div n="lb"/>10.), <div n="xe">{%where will you w. for me:%}</div> <div n="xs">{#kva punarmAM BavatyaH #}
-<div n="lb"/>{# pratipAlayizyanti,#}</div> V. i.; </div><div n="1">(3) {#tizWati#} ({#sTA,#} c. 1.
-<div n="lb"/>= to stay: q. v.); </div><div n="1">(4) {#sahate#} ({#sah,#} c. 1.
-<div n="lb"/>= bear up), <div n="xe">{%w. for two months:%}</div> <div n="xs">{#sahasva mAsadvayam,#}</div>
-<div n="lb"/>D. i.</div>
+{@WAIT@}¦ (v.): <div n="1">(1) {#prati- Ikzate, apa-#} ({#Ikz,#} c. 1.),
+<div n="xe">{%w. for a short time:%}</div> <div n="xs">{#kAlaH kaScit pratIkzyatAm,#}</div> Ku.
+ii. 54.; </div><div n="1">(2) {#prati-pAlayati pari-, anu-,#} ({#pAl,#} c.
+10.), <div n="xe">{%where will you w. for me:%}</div> <div n="xs">{#kva punarmAM BavatyaH #}
+{# pratipAlayizyanti,#}</div> V. i.; </div><div n="1">(3) {#tizWati#} ({#sTA,#} c. 1.
+= to stay: q. v.); </div><div n="1">(4) {#sahate#} ({#sah,#} c. 1.
+= bear up), <div n="xe">{%w. for two months:%}</div> <div n="xs">{#sahasva mAsadvayam,#}</div>
+D. i.</div>
 <LEND>

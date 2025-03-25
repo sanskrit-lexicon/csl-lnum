@@ -1,18 +1,18 @@
 <L>13813<pc>425<k1>lose<k2>lose
-<div n="lb"/>{@LOSE:@}¦ I. To cause to be taken: {#hArayati, apa-,#}
-<div n="lb"/>(c. of {#hf#}), {%I. lost ten sovereigns in gambling:%}
-<div n="lb"/>{#daSasuvarRaM dyUte hAritam,#} Mr.; <div n="xe">{%to l. wife:%}</div> <div n="xs">{#patnIM #}
-<div n="lb"/>{# hArayati,#}</div> Vi. v. 23. <div n="I">II To be deprived of:
-<div n="lb"/>{#viyujyate#} (pass. of {#yuj#}): v. To deprive, de-
-<div n="lb"/>-void of. </div><div n="I">III To fall from: q. v.: {#BraSyati, #}
-<div n="lb"/>{# -te, pari-, pra-,#} ({#BraMS,#} c. 4.), <div n="xe">{%l.s spirits:%}</div> <div n="xs">{#praBraSyate #}
-<div n="lb"/>{# tejasaH,#}</div> Mr. </div><div n="I">IV Opposed to win: {#parAjayate#}
-<div n="lb"/>({#ji,#} c. l.) (rare), <div n="xe">{%what you first lost:%}</div> <div n="xs">{#kinnu pUrvaM #}
-<div n="lb"/>{# parAjEzIH,#}</div> Mah. ii. 67. 7. </div><div n="I">IV To miss.: expr.
-<div n="lb"/>with {#naSyati#} ({#naS,#} c. 4.), {#pra-,#} <div n="xe">{%one who has lost%}
-<div n="lb"/>{%his way:%}</div> <div n="xs">{#pranazwavartman#}</div> (mfn.), K.; <div n="xe">{%Vasantasenā%}
-<div n="lb"/>{%is lost:%}</div> <div n="xs">{#nazwA vasantasenA,#}</div> Mr. i. V. To ruin,
-<div n="lb"/>destroy: q. v.: {#nASayati#} (c. of {#naS#}). </div><div n="I">VI Of
-<div n="lb"/>time: v. To spend, waste. Ph.: <div n="xe">{%to l.%}
-<div n="lb"/>{%oneself:%}</div> <div n="xs">{#budDya parityajyate,#}</div> Mr.</div>
+{@LOSE:@}¦ I. To cause to be taken: {#hArayati, apa-,#}
+(c. of {#hf#}), {%I. lost ten sovereigns in gambling:%}
+{#daSasuvarRaM dyUte hAritam,#} Mr.; <div n="xe">{%to l. wife:%}</div> <div n="xs">{#patnIM #}
+{# hArayati,#}</div> Vi. v. 23. <div n="I">II To be deprived of:
+{#viyujyate#} (pass. of {#yuj#}): v. To deprive, de-
+-void of. </div><div n="I">III To fall from: q. v.: {#BraSyati, #}
+{# -te, pari-, pra-,#} ({#BraMS,#} c. 4.), <div n="xe">{%l.s spirits:%}</div> <div n="xs">{#praBraSyate #}
+{# tejasaH,#}</div> Mr. </div><div n="I">IV Opposed to win: {#parAjayate#}
+({#ji,#} c. l.) (rare), <div n="xe">{%what you first lost:%}</div> <div n="xs">{#kinnu pUrvaM #}
+{# parAjEzIH,#}</div> Mah. ii. 67. 7. </div><div n="I">IV To miss.: expr.
+with {#naSyati#} ({#naS,#} c. 4.), {#pra-,#} <div n="xe">{%one who has lost%}
+{%his way:%}</div> <div n="xs">{#pranazwavartman#}</div> (mfn.), K.; <div n="xe">{%Vasantasenā%}
+{%is lost:%}</div> <div n="xs">{#nazwA vasantasenA,#}</div> Mr. i. V. To ruin,
+destroy: q. v.: {#nASayati#} (c. of {#naS#}). </div><div n="I">VI Of
+time: v. To spend, waste. Ph.: <div n="xe">{%to l.%}
+{%oneself:%}</div> <div n="xs">{#budDya parityajyate,#}</div> Mr.</div>
 <LEND>

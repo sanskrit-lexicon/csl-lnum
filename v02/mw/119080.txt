@@ -1,4 +1,4 @@
-<L>119080<pc>604,2<k1>parispfS<k2>pari-spfS<h>a<e>1
-<s>pari-√ spfS</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-spfSati</s> (<ab>pf.</ab> 3. <ab>pl.</ab> <s>-paspfSire</s>), to touch, stroke, <ls>MBh.</ls>; <ls>R.</ls>;
-<div n="to"/>to pursue, practise, <ls>HPariś.</ls><info verb="pre" cp="P" parse="pari+spfS"/>
+<L>119080<pc>604,2<k1>parispfS<k2>pari-spfS<e>1
+<s>pari-√ spfS</s> ¦ <ab>P.</ab> <s>-spfSati</s> (<ab>pf.</ab> 3. <ab>pl.</ab> <s>-paspfSire</s>), to touch, stroke, <ls>MBh.</ls>; <ls>R.</ls>;
+<div n="to"/>to pursue, practise, <ls>HPariś.</ls><info verb="pre" cp="P" parse="pari+spfS"/><info hui="a"/>
 <LEND>

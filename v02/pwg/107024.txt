@@ -1,41 +1,39 @@
 <L>107024<pc>7-0829<k1>sarvaSas<k2>sarvaSa/s
-{#sarvaSa/s#}¦ (von {#sarva#}) adv. 
-<div n="1"> 1) {%in allen seinen Theilen, vollständig, ganz und gar%}: {#sarva^ e\va sa^rva\Sa i\Dma AdI^ptaH#} 
-<ls>TBR. 2, 1, 10, 2.</ls> {#sarvamApnoti sarvaSaH#} 
-<ls>CHĀND. UP. 7, 26, 2.</ls> {#(agnim) SamayAmAsa sa°#} 
-<ls>MBH. 1, 1136.</ls> {#SarErnAnAviDEstUrRaM pArTaM saMCAdya sa°#} 
-<ls>5476.</ls> {#hftasArARi#} 
-<ls>R. 2, 33, 18.</ls> {#tacCfRuzva mama saMdeSaM sa°#} 
-<ls>5, 47, 15.</ls> {#sarvaSaSca varjayeyurgrAmacaryAm#} 
-<ls>ŚĀṄKH. ŚR. 12, 8, 3.</ls> {%im Ganzen, als Ganzes%} 
-<ls>ṚV. PRĀT. 10, 12.</ls> {%insgesammt%}, bezogen auf ein im pl. stehendes Subject 
-<ls>M. 3, 256. 272. 5, 132.</ls> 
-<ls>YĀJÑ. 3, 296.</ls> 
-<ls>BHAG. 1, 18.</ls> 
-<ls>MBH. 3, 2125. 2322. 2767. 12001.</ls> 
-<ls>R. 1, 9, 47. 60, 28. fg. 2, 91, 14.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 69, 20. 2, 21, 10.</ls> 
-<ls>Spr. (II) 6532.</ls> auf ein Collectivum im nom. sg. 
-<ls>R. 2, 78, 13.</ls> auf einen acc. pl. 
-<ls>M. 5, 14. 16. 6, 58. 9, 330. 10, 88.</ls> 
-<ls>MBH. 3, 2408. 2485.</ls> 
-<ls>R. 1, 9, 60. 29, 4. 2, 71, 23. 91, 16.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 29, 2.</ls> auf einen gen. pl. 
-<ls>M. 4, 217. 11, 143.</ls> 
-<ls>MBH. 1, 7707. 5, 7248.</ls> 
-<ls>R. 1, 2, 36.</ls> auf ein Collectivum im gen. sg.: {#vfdDabAlasya sa°#} 
-<ls>MBH. 5, 5428.</ls> auf einen instr. 
-<ls>R. 1, 18, 8.</ls> auf einem abl. pl. 
-<ls>Spr. (II) 714.</ls> auf einen loc. pl. 
-<ls>MBH. 1, 1109.</ls> auf ein im pl. gedachtes Wort am Anfange eines comp.: {#suhfttyAgaM sa°#} 
-<ls>3, 2341.</ls> 
-<div n="1">— 2) {%auf jede Weise%} 
-<ls>M. 2, 54.</ls> 
-<ls>R. 2, 32, 22.</ls> {%auf irgend eine Weise%} 
-<ls>M. 9, 320.</ls> 
-<div n="1">— 3) {%allgemein, stets, überall%}: {#f\gByo jA\tAM sa^rva\So mUrti^mAhuH#} 
-<ls>TBR. 3, 12, 9, 1.</ls> {#a°#} 
-<ls>ṚV. PRĀT. 11, 11.</ls>
+{#sarvaSa/s#}¦ (von {#sarva#}) adv.
+<div n="1"> 1) {%in allen seinen Theilen, vollständig, ganz und gar%}: {#sarva^ e\va sa^rva\Sa i\Dma AdI^ptaH#}
+<ls>TBR. 2,1,10,2.</ls> {#sarvamApnoti sarvaSaH#}
+<ls>CHĀND. UP. 7,26,2.</ls> {#(agnim) SamayAmAsa sa°#}
+<ls>MBH. 1,1136.</ls> {#SarErnAnAviDEstUrRaM pArTaM saMCAdya sa°#}
+<ls n="MBH. 1,">5476.</ls> {#hftasArARi#}
+<ls>R. 2,33,18.</ls> {#tacCfRuzva mama saMdeSaM sa°#}
+<ls n="R.">5,47,15.</ls> {#sarvaSaSca varjayeyurgrAmacaryAm#}
+<ls>ŚĀṄKH. ŚR. 12,8,3.</ls> {%im Ganzen, als Ganzes%}
+<ls>ṚV. PRĀT. 10,12.</ls> {%insgesammt%}, bezogen auf ein im pl. stehendes Subject
+<ls>M. 3,256.</ls> <ls n="M. 3,">272.</ls> <ls n="M.">5,132.</ls>
+<ls>YĀJÑ. 3,296.</ls>
+<ls>BHAG. 1,18.</ls>
+<ls>MBH. 3,2125.</ls> <ls n="MBH. 3,">2322.</ls> <ls n="MBH. 3,">2767.</ls> <ls n="MBH. 3,">12001.</ls>
+<ls>R. 1,9,47.</ls> <ls n="R. 1,">60,28. fg.</ls> <ls n="R.">2,91,14.</ls>
+<ls>R. GORR. 1,69,20.</ls> <ls n="R. GORR.">2,21,10.</ls>
+<ls>Spr. (II) 6532.</ls> auf ein Collectivum im nom. sg.
+<ls>R. 2,78,13.</ls> auf einen acc. pl.
+<ls>M. 5,14.</ls> <ls n="M. 5,">16.</ls> <ls n="M.">6,58.</ls> <ls n="M.">9,330.</ls> <ls n="M.">10,88.</ls>
+<ls>MBH. 3,2408.</ls> <ls n="MBH. 3,">2485.</ls>
+<ls>R. 1,9,60.</ls> <ls n="R. 1,">29,4.</ls> <ls n="R.">2,71,23.</ls> <ls n="R. 2,">91,16.</ls>
+<ls>R. GORR. 2,29,2.</ls> auf einen gen. pl.
+<ls>M. 4,217.</ls> <ls n="M.">11,143.</ls>
+<ls>MBH. 1,7707.</ls> <ls n="MBH.">5,7248.</ls>
+<ls>R. 1,2,36.</ls> auf ein Collectivum im gen. sg.: {#vfdDabAlasya sa°#}
+<ls>MBH. 5,5428.</ls> auf einen instr.
+<ls>R. 1,18,8.</ls> auf einem abl. pl.
+<ls>Spr. (II) 714.</ls> auf einen loc. pl.
+<ls>MBH. 1,1109.</ls> auf ein im pl. gedachtes Wort am Anfange eines comp.: {#suhfttyAgaM sa°#}
+<ls n="MBH.">3,2341.</ls>
+<div n="1">— 2) {%auf jede Weise%}
+<ls>M. 2,54.</ls>
+<ls>R. 2,32,22.</ls> {%auf irgend eine Weise%}
+<ls>M. 9,320.</ls>
+<div n="1">— 3) {%allgemein, stets, überall%}: {#f\gByo jA\tAM sa^rva\So mUrti^mAhuH#}
+<ls>TBR. 3,12,9,1.</ls> {#a°#}
+<ls>ṚV. PRĀT. 11,11.</ls>
 <LEND>

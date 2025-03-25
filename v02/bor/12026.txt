@@ -1,5 +1,5 @@
 <L>12026<pc>375<k1>indigo<k2>indigo
-<div n="lb"/>{@INDIGO:@}¦ {#nIlam#} <div n="xe">{%or%}</div> <div n="xs">{#nilI,#}</div> <div n="xe">{%dyed with i.:%}</div> <div n="xs">{#nIlIraktaH#}</div>
-<div n="lb"/>({#ktA, ktaM#}), A.s.; <div n="xe">{%where i. is sown:%}</div> <div n="xs">{#vApitA yatra #}
-<div n="lb"/>{# nIlI syAt,#}</div> A.s.
+{@INDIGO:@}¦ {#nIlam#} <div n="xe">{%or%}</div> <div n="xs">{#nilI,#}</div> <div n="xe">{%dyed with i.:%}</div> <div n="xs">{#nIlIraktaH#}</div>
+({#ktA, ktaM#}), A.s.; <div n="xe">{%where i. is sown:%}</div> <div n="xs">{#vApitA yatra #}
+{# nIlI syAt,#}</div> A.s.
 <LEND>

@@ -1,46 +1,42 @@
 <L>60285<pc>5-0759<k1>mAsika<k2>mA/sika
-{#mA/sika#}¦ (von 1. {#mAsa)#} <lex>adj.</lex> <lex>f.</lex> {#I#} 
-<ls>P. 4, 3, 11,</ls> 
-<ls>Sch. 2, 104, <is>Vārtt</is>. 14,</ls> 
-<ls>Sch.</ls> 
-<div n="1"> 1) am Ende eines comp. {%zum Monat - in Beziehung stehend%}: {#dvAdaSI mAGamAsikI#} {%der 12te Tag im Monat%} <is>Māgha</is> 
-<ls>MBH. ed. Bomb. 14, 2513</ls> {#(mAGapAkzikI#} ed. Calc.). 
-<div n="1">— 2) {%monatlich, jeden Monat erfolgend%}: {#SUdrARAM mAsikaM kAryaM vapanaM nyAyavartinAm#} 
-<ls>M. 5, 140.</ls> {#pitFRAM mAsikaM SrAdDamanvAhAryaM vidurbuDAH#} 
-<ls>?3, 123. n.</ls> = {#mAsikaM SrAdDam#} 
-<ls>AK.2,7,31.</ls> <ls>Verz. d. Oxf. H. 277,b,3.</ls> {#mAsikAnnaM tu yo 'SnIyAt#} 
-<ls>M. 11, 157.</ls> {#zaRmAsikaprasava#} {%alle sechs Monate geschehend%} 
-<ls>PAÑCAT. 252, 14.</ls> {#droRa#} {%jeden Monat gegeben werdend%} 
-<ls>M. 7, 126.</ls> {#zaRmAsika AcCAdaH#} {%alle sechs Monate%} d. i. {%zwei Mal im Jahre verabfolgt werdend%} ebend. 
-<div n="1">— 3) {%einen Monat während, - vorhaltend%}: {#vyADi#} 
-<ls>Sch.</ls> zu <ls>P. 5, 1, 80. 93.</ls> {#cAndrAyaRa#} 
-<ls>93</ls>, <ls>Sch.</ls> {#brahmacarya#} 
-<ls>94</ls>, <ls>Sch.</ls> {#tapas#} 
-<ls>ŚATR. 14, 180.</ls> {#°saMcaya#} 
-<ls>MBH. 12, 8891.</ls> {#azwamAsikI tfptiH#} 
-<ls>MBH. 13, 4246.</ls> 
-<ls>MĀRK. P. 32, 4. 5.</ls> {#azwamAsikI nadI#} {%ein Fluss, der acht Monate hindurch Wasser hat%}, 
-<ls>MBH. 5, 7363.</ls> {#mAsiko brahmacArI#} {%einen Monat lang%} <is>Brahmac</is>. {%seiend%} 
-<ls>P. 5, 1, 94,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 4) {%innerhalb eines Monats —, nach einem Monat erfolgend%}, = {#mAsena nirvfttam#} 
-<ls>P. 5, 1, 79,</ls> 
-<ls>Sch.</ls> = {#mAse kAryam, dIyate#} 
-<ls>96</ls>, <ls>Sch.</ls> {#pAka#} 
-<ls>VARĀH. BṚH. S. 97, 1.</ls> {#utsava#} 
-<ls>P. 5, 1, 80,</ls> 
-<ls>Sch.</ls> {#pawa, prAsAda#} {%fertig werdend, herzustellen%} 
-<ls>93</ls>, <ls>Sch.</ls> {#fRam#} {%nach einem Monat zu entrichten%} 
-<ls>4, 3, 47</ls>, <ls>Sch.</ls> 
-<div n="1">— 5) {%auf einen Monat in Dienst genommen%}: {#aDyApaka, karmakara#} 
-<ls>P. 5, 1, 80,</ls> 
-<ls>Sch.</ls> in Comp. mit dem Lohne 
-<ls>4, 116, <is>Vārtt</is>. 4.</ls> {#paYcaka°, zawka°, daSa°#} 
-<ls>Sch.</ls> 
+{#mA/sika#}¦ (von 1. {#mAsa)#} <lex>adj.</lex> <lex>f.</lex> {#I#}
+<ls>P. 4,3,11</ls>, <ls>Sch. 2,104, <is>Vārtt</is>. 14</ls>,
+<ls>Sch.</ls>
+<div n="1"> 1) am Ende eines comp. {%zum Monat — in Beziehung stehend%}: {#dvAdaSI mAGamAsikI#} {%der 12te Tag im Monat%} <is>Māgha</is>
+<ls>MBH. ed. Bomb. 14,2513</ls> {#(mAGapAkzikI#} <ls>ed. Calc.</ls>).
+<div n="1">— 2) {%monatlich, jeden Monat erfolgend%}: {#SUdrARAM mAsikaM kAryaM vapanaM nyAyavartinAm#}
+<ls>M. 5,140.</ls> {#pitFRAM mAsikaM SrAdDamanvAhAryaM vidurbuDAH#}
+<ls n="M.">3,123.</ls> n. = {#mAsikaM SrAdDam#}
+<ls>AK. 2,7,31.</ls> <ls>Verz. d. Oxf. H. 277,b,3.</ls> {#mAsikAnnaM tu yo 'SnIyAt#}
+<ls>M. 11,157.</ls> {#zaRmAsikaprasava#} {%alle sechs Monate geschehend%}
+<ls>PAÑCAT. 252,14.</ls> {#droRa#} {%jeden Monat gegeben werdend%}
+<ls>M. 7,126.</ls> {#zaRmAsika AcCAdaH#} {%alle sechs Monate%} <ab>d. i.</ab> {%zwei Mal im Jahre verabfolgt werdend%} ebend.
+<div n="1">— 3) {%einen Monat während, — vorhaltend%}: {#vyADi#}
+<ls>Sch.</ls> zu <ls>P. 5,1,80.</ls> <ls n="P. 5,1,">93.</ls> {#cAndrAyaRa#}
+<ls n="P. 5,1,">93</ls>, <ls>Sch.</ls> {#brahmacarya#}
+<ls n="P. 5,1,">94</ls>, <ls>Sch.</ls> {#tapas#}
+<ls>ŚATR. 14,180.</ls> {#°saMcaya#}
+<ls>MBH. 12,8891.</ls> {#azwamAsikI tfptiH#}
+<ls>MBH. 13,4246.</ls>
+<ls>MĀRK. P. 32,4. 5.</ls> {#azwamAsikI nadI#} {%ein Fluss, der acht Monate hindurch Wasser hat%},
+<ls>MBH. 5,7363.</ls> {#mAsiko brahmacArI#} {%einen Monat lang%} <is>Brahmac</is>. {%seiend%}
+<ls>P. 5,1,94</ls>, <ls>Sch.</ls>
+<div n="1">— 4) {%innerhalb eines Monats —, nach einem Monat erfolgend%}, = {#mAsena nirvfttam#}
+<ls>P. 5,1,79</ls>, <ls>Sch.</ls>
+= {#mAse kAryam, dIyate#}
+<ls n="P. 5,1,">96</ls>, <ls>Sch.</ls> {#pAka#}
+<ls>VARĀH. BṚH. S. 97,1.</ls> {#utsava#}
+<ls>P. 5,1,80</ls>, <ls>Sch.</ls>
+{#pawa, prAsAda#} {%fertig werdend, herzustellen%}
+<ls n="P. 5,1,">93</ls>, <ls>Sch.</ls> {#fRam#} {%nach einem Monat zu entrichten%}
+<ls n="P.">4,3,47</ls>, <ls>Sch.</ls>
+<div n="1">— 5) {%auf einen Monat in Dienst genommen%}: {#aDyApaka, karmakara#}
+<ls>P. 5,1,80</ls>, <ls>Sch.</ls>
+in Comp. mit dem Lohne
+<ls n="P. 5,">4,116</ls>, <is>Vārtt</is>. 4. {#paYcaka°, zawka°, daSa°#} <ls>Sch.</ls>
 <div n="1">— 6) {%einem Monat geweiht%}: {#havis#}
 [Page5-0760]
-= {#mAso devatAsya#} 
-<ls>P. 4, 2, 34,</ls> 
-<ls>Sch.</ls> 
+= {#mAso devatAsya#}
+<ls>P. 4,2,34</ls>, <ls>Sch.</ls>
 <div n="v">— Vgl. {#arDa°#} .
 <LEND>

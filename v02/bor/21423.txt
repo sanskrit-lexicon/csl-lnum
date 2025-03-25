@@ -1,18 +1,18 @@
 <L>21423<pc>675<k1>steal<k2>steal
-<div n="lb"/>{@STEAL@}¦ (v.): <div n="I">I Lit.: </div><div n="1">(1) {#corayati#} ({#cur,#} c. 10.),
-<div n="lb"/><div n="xe">{%we stole so as to reduce him to earthen%}
-<div n="lb"/>{%pots:%}</div> <div n="xs">{#mfdBARqAvaSezamacorayAva,#}</div> D. ii.; {%for s. ing:%}
-<div n="lb"/>{#cOryArTam,#} Viv.; </div><div n="1">(2) {#stenayati#} ({#sten,#} c. 10.: rare),
-<div n="lb"/><div n="xe">{%for those who s. large animals:%}</div> <div n="xs">{#mahApaSUn stenayataH,#}</div>
-<div n="lb"/>N. s.; </div><div n="1">(3) {#muzRAti, pari-#} ({#muz,#} c. 9.), <div n="xe">{%s. ing the%}
-<div n="lb"/>{%valuable leather from Udāraka:%}</div> <div n="xs">{#ajinaratnamudArakA-#}
-<div n="lb"/>{#nmuzitvA,#}</div> D. ii.; </div><div n="1">(4) {#harati, apa-#} ({#hf,#} c. 1. = to
-<div n="lb"/>take away), <div n="xe">{%to s. paddy:%}</div> <div n="xs">{#DAnyaM harati,#}</div> M. viii.
-<div n="lb"/>320. </div><div n="I">II Fig., to s. away: {#alakzitaM gacCati,#}
-<div n="lb"/>(=to go) <div n="xe">{%or%}</div> <div n="xs">{#apasarati#}</div> (=go away). </div><div n="I">III Fig.,
-<div n="lb"/>to s. over or upon=to slip in: {#alakzitaM #}
-<div n="lb"/>{# samAkrAmati#} ({#kram,#} c. 1.). </div><div n="I">IV To gain or win
-<div n="lb"/>unperceived; {#apaharati,#} ({%your%}) <div n="xe">{%heart which is%}
-<div n="lb"/>{%going to be stolen away by her:%}</div> <div n="xs">{#apahniyamARamanayA #}
-<div n="lb"/>{# hfdayam,#}</div> K.: v. To rob.</div>
+{@STEAL@}¦ (v.): <div n="I">I Lit.: </div><div n="1">(1) {#corayati#} ({#cur,#} c. 10.),
+<div n="xe">{%we stole so as to reduce him to earthen%}
+{%pots:%}</div> <div n="xs">{#mfdBARqAvaSezamacorayAva,#}</div> D. ii.; {%for s. ing:%}
+{#cOryArTam,#} Viv.; </div><div n="1">(2) {#stenayati#} ({#sten,#} c. 10.: rare),
+<div n="xe">{%for those who s. large animals:%}</div> <div n="xs">{#mahApaSUn stenayataH,#}</div>
+N. s.; </div><div n="1">(3) {#muzRAti, pari-#} ({#muz,#} c. 9.), <div n="xe">{%s. ing the%}
+{%valuable leather from Udāraka:%}</div> <div n="xs">{#ajinaratnamudArakA-#}
+{#nmuzitvA,#}</div> D. ii.; </div><div n="1">(4) {#harati, apa-#} ({#hf,#} c. 1. = to
+take away), <div n="xe">{%to s. paddy:%}</div> <div n="xs">{#DAnyaM harati,#}</div> M. viii.
+320. </div><div n="I">II Fig., to s. away: {#alakzitaM gacCati,#}
+(=to go) <div n="xe">{%or%}</div> <div n="xs">{#apasarati#}</div> (=go away). </div><div n="I">III Fig.,
+to s. over or upon=to slip in: {#alakzitaM #}
+{# samAkrAmati#} ({#kram,#} c. 1.). </div><div n="I">IV To gain or win
+unperceived; {#apaharati,#} ({%your%}) <div n="xe">{%heart which is%}
+{%going to be stolen away by her:%}</div> <div n="xs">{#apahniyamARamanayA #}
+{# hfdayam,#}</div> K.: v. To rob.</div>
 <LEND>

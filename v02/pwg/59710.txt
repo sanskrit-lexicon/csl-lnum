@@ -1,26 +1,26 @@
 <L>59710<pc>5-0712<k1>mATura<k2>mATura
-{#mATura#}¦ 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} {%aus%} <is>Mathurā</is> {%kommend, dort geboren, zu%} 
-<ls>M.</ls> {%in Beziehung stehend%} 
-<ls>Sch.</ls> zu <ls>P. 4, 2, 109. 3, 25.</ls> <ls>VOP. 7, 15.</ls> {#vaRikputra#} 
-<ls>KATHĀS. 36, 73. 37, 100.</ls> {#narendra#} {%Fürst von%} 
-<ls>HARIV. 4277. 6304.</ls> {#BUmi#} 
-<ls>6390.</ls> {#prAdurBAva (kfzRasya)#} 
-<ls>6989.</ls> {#kalpa#} 
-<ls>2359. 11047.</ls> subst. {%ein Bewohner von%} <is>Mathurā</is>, du. 
-<ls>HARIV. 5306.</ls> pl.: {#rAjendraM mATurARAm (maTu°#} die neuere Ausg.) 
-<ls>6313.</ls> <ls>KATHĀS. 12,179. 184.</ls> <ls>MĀRK. P. 58,7.</ls> <ls>Verz. d. Oxf. H. 62,b,12.</ls> {#maDUnAm = mATurARAm#} 
-<ls>Schol.</ls> zu <ls>MBH. 3, 12589.</ls> {#mATurAn SUrasenAMSca vizayAnbuBuje purA#} {%das Gebiet von%} <is>Mathurā</is> 
-<ls>BHĀG. P. 10, 1, 27.</ls> 
-<div n="2">— b) {%zu%} <is>Mathura</is> (N. pr. eines Mannes) {%in Beziehung stehend%}: {#vaMSa#} 
-<ls>Verz. d. Oxf. H. 143,a, No. 292. 398,b, No. 152.</ls> {%von%} <is>Mathura</is> (= <is>Madhura</is>) {%verfasst%}: {#vftti#} (v. l. {#mADurI)#} 
-<ls>PAT.</ls> in <ls>Ind. St. 5, 69.</ls> von <is>Mathuranātha</is> {%verfasst%}: {#wippanI#} 
-<ls>Verz. d. Oxf. H. 241,b, No. 591.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. pr. 
-<div n="2"> a) eines Sohnes des <is>Citragupta</is> 
-<ls>Verz. d. Oxf. H. 341,b, No. 799.</ls> 
+{#mATura#}¦
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} {%aus%} <is>Mathurā</is> {%kommend, dort geboren, zu%}
+<ls>M.</ls> {%in Beziehung stehend%}
+<ls>Sch.</ls> zu <ls>P. 4,2,109.</ls> <ls n="P. 4,">3,25.</ls> <ls>VOP. 7,15.</ls> {#vaRikputra#}
+<ls>KATHĀS. 36,73.</ls> <ls n="KATHĀS.">37,100.</ls> {#narendra#} {%Fürst von%}
+<ls>HARIV. 4277.</ls> <ls n="HARIV.">6304.</ls> {#BUmi#}
+<ls n="HARIV.">6390.</ls> {#prAdurBAva (kfzRasya)#}
+<ls n="HARIV.">6989.</ls> {#kalpa#}
+<ls n="HARIV.">2359.</ls> <ls n="HARIV.">11047.</ls> subst. {%ein Bewohner von%} <is>Mathurā</is>, du.
+<ls>HARIV. 5306.</ls> pl.: {#rAjendraM mATurARAm (maTu°#} die neuere Ausg.)
+<ls n="HARIV.">6313.</ls> <ls>KATHĀS. 12,179.</ls> <ls n="KATHĀS. 12,">184.</ls> <ls>MĀRK. P. 58,7.</ls> <ls>Verz. d. Oxf. H. 62,b,12.</ls> {#maDUnAm = mATurARAm#}
+<ls>Schol.</ls> zu <ls>MBH. 3,12589.</ls> {#mATurAn SUrasenAMSca vizayAnbuBuje purA#} {%das Gebiet von%} <is>Mathurā</is>
+<ls>BHĀG. P. 10,1,27.</ls>
+<div n="2">— b) {%zu%} <is>Mathura</is> (N. pr. eines Mannes) {%in Beziehung stehend%}: {#vaMSa#}
+<ls>Verz. d. Oxf. H. 143,a, No. 292. 398,b, No. 152.</ls> {%von%} <is>Mathura</is> (= <is>Madhura</is>) {%verfasst%}: {#vftti#} (v. l. {#mADurI)#}
+<ls>PAT.</ls> in <ls>Ind. St. 5,69.</ls> von <is>Mathuranātha</is> {%verfasst%}: {#wippanI#}
+<ls>Verz. d. Oxf. H. 241,b, No. 591.</ls>
+<div n="1">— 2) <lex>m.</lex> N. pr.
+<div n="2"> a) eines Sohnes des <is>Citragupta</is>
+<ls>Verz. d. Oxf. H. 341,b, No. 799.</ls>
 <div n="2">— b)
 [Page5-0713]
-des Inhabers eines Spielhauses 
-<ls>MṚCCH. 29, 25.</ls>
+des Inhabers eines Spielhauses
+<ls>MṚCCH. 29,25.</ls>
 <LEND>

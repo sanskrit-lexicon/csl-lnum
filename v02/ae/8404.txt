@@ -1,10 +1,10 @@
 <L>8404<pc>368<k1>province<k2>province
 {@Province,@}¦ {%s.%} {#vizayaH, rAzwraM, deSaH, cakraM, maMqalaM#}.
-<div n="lb"/>{@2@} {#niyogaH, kAryaM, karman#} {%n.,%} {#kartavyaM, aDikAraH#}.
-<div n="lb"/>{@3@} {#prakaraRaM, aMgaM, vizayaH#} (fig. also), ({#sarva-#}
-<div n="lb"/>{#-trOdarikasyAByavahAryameva vizayaH#} V. 3.
-<div n="lb"/>{@-ial,@} {%a.%} {#deSIya, deSya, rAzwrIya, rAzwrika-#}
-<div n="lb"/>{#-dESika#}-({#kI#} {%f.%}), {#deSa-rAzwra#} in comp. {%-s.%}
-<div n="lb"/>{#deSasTaH, grAmasTaH#}. {@-ialism,@} {%s.%} {#grAmIRaBAzA,#}
-<div n="lb"/>{#asaMskftaBAzA#}.
+{@2@} {#niyogaH, kAryaM, karman#} {%n.,%} {#kartavyaM, aDikAraH#}.
+{@3@} {#prakaraRaM, aMgaM, vizayaH#} (fig. also), ({#sarva-#}
+{#-trOdarikasyAByavahAryameva vizayaH#} V. 3.
+{@-ial,@} {%a.%} {#deSIya, deSya, rAzwrIya, rAzwrika-#}
+{#-dESika#}-({#kI#} {%f.%}), {#deSa-rAzwra#} in comp. {%-s.%}
+{#deSasTaH, grAmasTaH#}. {@-ialism,@} {%s.%} {#grAmIRaBAzA,#}
+{#asaMskftaBAzA#}.
 <LEND>

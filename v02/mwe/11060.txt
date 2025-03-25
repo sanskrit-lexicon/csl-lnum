@@ -1,5 +1,5 @@
 <L>11060<pc>266-b<k1>fermentation<k2>fermentation
-<div n="lb"/>FERMENTATION¦, {%s.%} {#sanDAnaM, sanDikA, antardahanaM, antaHkzoBaH, antastApaH,#}
-<div n="lb"/>{#antardAhaH, antarutsekaH, utsekaH, utsecanaM, udBAvaH, uttApaH, ugratvaM,#}
-<div n="lb"/>{#antaruzmaH, uccaRqatA, antaScaRqatA, antarAloqanaM, vikAraH#}.
+FERMENTATION¦, {%s.%} {#sanDAnaM, sanDikA, antardahanaM, antaHkzoBaH, antastApaH,#}
+{#antardAhaH, antarutsekaH, utsekaH, utsecanaM, udBAvaH, uttApaH, ugratvaM,#}
+{#antaruzmaH, uccaRqatA, antaScaRqatA, antarAloqanaM, vikAraH#}.
 <LEND>

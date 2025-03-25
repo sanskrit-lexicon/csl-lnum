@@ -1,45 +1,43 @@
-<L>12183<pc>1143-1<k1>as<k2>as<h>1<e>500
-1. {#as#}¦ , {#a/sita#} <ab>Med.</ab> 2. <ab>Sg.</ab> {#se#} zu belegen in der älteren Sprache nur im umschriebenen Futurum von medialen Verben <ls>30,22.</ls> <ls>TS.2,6,2,3.</ls> (1te <ab>Sg.</ab>?). Nur in den Formen vom Präsensstamme und im Perfectum {#A/sa#}
-<div n="1">— 1) {%sein , da — , vorhanden sein , existiren ; Statt finden , geschehen , sich ereignen.%} {#ayamasmi#} {%da bin ich%} <ls>39,26.</ls> Mit {#na#}
-<div n="2">— a) {%nicht da sein.%} {#so 'pi nAsti yaTA taTA#} {%und auch dieser ist so gut wie nicht da%} <ls>66,17.</ls> {#nAsti#} {%es ist Nichts da , ich habe Nichts.%} Damit wird ein Bittender abgewiesen <ls>Spr.7615.</ls>
-<div n="2">— b) {%verloren — , hin — , nicht mehr zu retten sein.%}
-<div n="1">— 2) {%weilen , sich aufhalten , sich irgendwo oder irgendwobei%} (<ab>Loc.</ab>) {%befinden.%}
-<div n="1">— 3) mit <ab>Gen.</ab> oder <ab>Dat.</ab> {%esse alicui , Jmd gehören , da sein — , geben für.%} {#asti me#} {%ich besitze Etwas , ich bin reich.%} {#tavAsmi#} {%ich gehöre dir , ich bin dein Gefangener.%} {#kasyAsi#} {%wem gehörst du?%} so v.a. {%wessen Gattin — , wessen Tochter bist du?%} <ls>MBH.3,64,118.</ls> Mit <ab>Loc.</ab> {%sich bei Jmd befinden , angetroffen werden , Jmd eigen sein%} <ls>102,23.</ls>
-<div n="1">— 4) {%bereit — , gegenwärtig — , Jmd%} (<ab>Dat.</ab>) {%zur Hand sein.%}
-<div n="1">— 5) {%hinreichen , genug.%}
-[Page1143-2]
-{%sein für%} (<ab>Gen.</ab>) <ls>74,27.</ls> {%einer Sache%} (<ab>Dat.</ab>) {%gewachsen sein , vermögen%} <ls>34,23.</ls>
-<div n="1">— 6) {%Jmd%} (<ab>Dat.</ab>) {%zu Etwas%} (<ab>Dat.</ab>) {%gereichen , — behülflich sein.%}
-<div n="1">— 7) {%sein%} (copula). {#kA tavAsmi#} {%was bin ich dir?%} <ls>180,6.</ls> Bildet mit Participien verschiedene Arten von Aussageformen. Mit Adverbien {%sein , sich verhalten.%} {#taTEva#} {%wie zuvor%} <ls>57,18.</ls> {#evamastu#} {%so sei es , so v.a. einverstanden.%} {#syAdevamapi#} mit <ab>Potent.</ab> {%es könnte auch sein , <ab>dass.</ab>%}
-<div n="1">— 8) {#Asa#} mit dem <ab>Acc.</ab> eines <ab>Nom.</ab> act. auf {#A#} bildet umschriebene Perfecta. <ls>AIT.BR.7,17.</ls>
-<div n="1">— 9) {%werden.%} Mit <ab>Gen.</ab> {%Jmd zu Theil werden , zufallen%} <ls>59,26.</ls> {#AsIcca me manasi#} so v.a. {%und es tauchte in mir der Gedanke auf%} <ls>KĀD.35,4.160,1.198,19.</ls>
-<div n="1">— 10) {#asti#} {%so ist es%} (vollständig {#astyetat#}). Am Anfange eines Satzes mit einem andern Verbum finitum (ist es wieder {#asti#} , so fällt es weg) {%es ist (war) der Fall — , es kommt vor , dass ; zuweilen%} <ls>MṚCCH.49,17.</ls> <ls>MAHĀBH.1,67</ls> b. <ls>185</ls> a. <ls>294</ls> a. {#astyatra kAM cidgAM paSyasi#} (fragend) <ls>211</ls> a. *Fragend in Verbindung mit einem Fut. {%kommt es wirklich vor , dass?%} {#asmi#} mit einer 1. <ab>Sg.</ab> {%ich bin in dem Falle , dass ich%} <ls>KATHĀS.25,187.</ls> Cit. bei <ls>MALLIN.</ls> zu <ls>KIR.3,6.</ls> {#asi#} mit einer 2<ab>Sg.</ab> {%du bist in dem Falle , dass%} <ls>VĀMANA.5,2,82.</ls>
-<div n="1">— 11) {#astu#} {%es geschehe , so v.a. gut , einverstanden.%} {#yadastu#} {%es geschehe , was da wolle.%} {#yadastu me#} {%was mir auch geschehen möge%} {#astu#} und {#santu#} mit einem folgenden <ab>Nom.</ab> {%um nicht davon zu reden%} <ls>Spr.6790.</ls>
+<L>12183<pc>1-143-a<k1>as<k2>as<h>1
+<hom>1.</hom> √{#as#}¦, {#a/sita#} <ab>Med.</ab> <ab>2.</ab> <ab>Sg.</ab> {#se#} zu belegen in der älteren Sprache nur im umschriebenen Futurum von medialen Verben <ls n="Chr.">30,22</ls>. <ls>TS. 2,6,2,3</ls>. (1te <ab>Sg.</ab>?). Nur in den Formen vom Präsensstamme und im Perfectum {#A/sa#}
+<div n="1">— 1〉 {%sein, da —, vorhanden sein, existiren; Statt finden, geschehen, sich ereignen%}. {#ayamasmi#} {%da bin ich%} <ls n="Chr.">39,26</ls>. Mit {#na#}
+<div n="2">— a〉 {%nicht da sein%}. {#so 'pi nAsti yaTA taTA#} {%und auch dieser ist so gut wie nicht da%} <ls n="Chr.">66,17</ls>. {#nAsti#} {%es ist Nichts da, ich habe Nichts%}. Damit wird ein Bittender abgewiesen <ls>Spr. 7615</ls>.
+<div n="2">— b〉 {%verloren —, hin —, nicht mehr zu retten sein%}.
+<div n="1">— 2〉 {%weilen, sich aufhalten, sich irgendwo oder irgendwobei%} (<ab>Loc.</ab>) {%befinden%}.
+<div n="1">— 3〉 mit <ab>Gen.</ab> oder <ab>Dat.</ab> {%esse alicui, Jmd gehören, da sein —, geben für%}. {#asti me#} {%ich besitze Etwas, ich bin reich%}. {#tavAsmi#} {%ich gehöre dir, ich bin dein Gefangener%}. {#kasyAsi#} {%wem gehörst du?%} so <ab>v. a.</ab> {%wessen Gattin —, wessen Tochter bist du?%} <ls>MBH. 3,64,118</ls>. Mit <ab>Loc.</ab> {%sich bei Jmd befinden, angetroffen werden, Jmd eigen sein%} <ls n="Chr.">102,23</ls>.
+<div n="1">— 4〉 {%bereit —, gegenwärtig —, Jmd%} (<ab>Dat.</ab>) {%zur Hand sein%}.
+<div n="1">— 5〉 {%hinreichen, genug%}. [Page1-143-b] {%sein für%} (<ab>Gen.</ab>) <ls n="Chr.">74,27</ls>. {%einer Sache%} (<ab>Dat.</ab>) {%gewachsen sein, vermögen%} <ls n="Chr.">34,23</ls>.
+<div n="1">— 6〉 {%Jmd%} (<ab>Dat.</ab>) {%zu Etwas%} (<ab>Dat.</ab>) {%gereichen, — behülflich sein%}.
+<div n="1">— 7〉 {%sein%} (copula). {#kA tavAsmi#} {%was bin ich dir?%} <ls n="Chr.">180,6</ls>. Bildet mit Participien verschiedene Arten von Aussageformen. Mit Adverbien {%sein, sich verhalten%}. {#taTEva#} {%wie zuvor%} <ls n="Chr.">57,18</ls>. {#evamastu#} {%so sei es,%} so <ab>v. a.</ab> {%einverstanden%}. {#syAdevamapi#} mit <ab>Potent.</ab> {%es könnte auch sein, dass%}.
+<div n="1">— 8〉 {#Asa#} mit dem <ab>Acc.</ab> eines <ab>Nom.</ab> <ab>act.</ab> auf {#A#} bildet umschriebene Perfecta <ls>AIT. BR. 7,17</ls>.
+<div n="1">— 9〉 {%werden%}. Mit <ab>Gen.</ab> {%Jmd zu Theil werden, zufallen%} <ls n="Chr.">59,26</ls>. {#AsIcca me manasi#} so <ab>v. a.</ab> {%und es tauchte in mir der Gedanke auf%} <ls>KĀD. 35,4. 160,1. 198,19</ls>.
+<div n="1">— 10〉 {#asti#} {%so ist es%} (vollständig {#astyetat#}). Am Anfange eines Satzes mit einem andern Verbum finitum (ist es wieder {#asti#}, so fällt es weg) {%es ist (war) der Fall —, es kommt vor, dass; zuweilen%} <ls>MṚCCH. 49,17</ls>. <ls>MAHĀBH. 1,67,b. 185,a. 294,a.</ls> {#astyatra kAM cidgAM paSyasi#} (fragend) <ls n="MAHĀBH.">211,a.</ls> *Fragend in Verbindung mit einem <ab>Fut.</ab> {%kommt es wirklich vor, dass?%} {#asmi#} mit einer <ab>1.</ab> <ab>Sg.</ab> {%ich bin in dem Falle, dass ich%} <ls>KATHĀS. 25,187</ls>. <ab>Cit.</ab> bei <ls>MALLIN. zu KIR. 3,6</ls>. {#asi#} mit einer <ab>2.</ab> <ab>Sg.</ab> {%du bist in dem Falle, dass%} <ls>VĀMANA 5,2,82</ls>.
+<div n="1">— 11〉 {#astu#} {%es geschehe,%} so <ab>v. a.</ab> {%gut, einverstanden%}. {#yadastu#} {%es geschehe, was da wolle%}. {#yadastu me#} {%was mir auch geschehen möge%} {#astu#} und {#santu#} mit einem folgenden <ab>Nom.</ab> {%um nicht davon zu reden%} <ls>Spr. 6790</ls>.
 <div n="p">— Mit {#ati#} {%übertreffen%} (mit <ab>Acc.</ab>).
-<div n="p">— Mit {#*vyati#} <ls>MED.</ls> {%mehr sein , überwiegen.%}
+<div n="p">— Mit *{#vyati#} <ls>MED.</ls> {%mehr sein, überwiegen%}.
 <div n="p">— Mit {#anu#}
-<div n="1">— 1) {%dabei sein%} (mit <ab>Acc.</ab>)
-<div n="1">— 2) {%bereit sein , sich darbieten.%}
-<div n="1">— 3) {%gelangen zu%} (<ab>Acc.</ab>) , {%erreichen.%}
-<div n="p">— Mit {#*vyatyanu#} <ab>Med.</ab>
-<div n="p">— Mit {#apa#} {%sich fern halten.%}
+<div n="1">— 1〉 {%dabei sein%} (mit <ab>Acc.</ab>)
+<div n="1">— 2〉 {%bereit sein, sich darbieten%}.
+<div n="1">— 3〉 {%gelangen zu%} (<ab>Acc.</ab>), {%erreichen%}.
+<div n="p">— Mit *{#vyatyanu#} <ab>Med.</ab>
+<div n="p">— Mit {#apa#} {%sich fern halten%}.
 <div n="p">— Mit {#api#}
-<div n="1">— 1) {%sein , sich befinden bei oder in.%}
-<div n="1">— 2) {%zu Theil werden , zufallen.%}
-<div n="1">— 3) impers. mit <ab>Gen.</ab> der Person {%theilhaben an%} (<ab>Loc.</ab>).
+<div n="1">— 1〉 {%sein, sich befinden bei oder in%}.
+<div n="1">— 2〉 {%zu Theil werden, zufallen%}.
+<div n="1">— 3〉 <ab>impers.</ab> mit <ab>Gen.</ab> der Person {%theilhaben an%} (<ab>Loc.</ab>).
 <div n="p">— Mit {#aBi#}
-<div n="1">— 1) {%*zufallen , auf Jmds%} (<ab>Gen.</ab>) {%Theil kommen.%}
-<div n="1">— 2) {%darüber sein , übertreffen , beherrschen , bewältigen ; Jmd%} (gen. oder <ab>Dat.</ab>) {%mehr gelten als%} (<ab>Abl.</ab>) <ls>ṚV.5,33,3.</ls>
-<div n="p">— Mit {#upa#} {%sein — , sich befinden in%} (<ab>Acc.</ab>). — {#upAsti#} st. {#upAste#} von {#As#}.
-<div n="p">— Mit {#ni#} {%dabei , sein , Theil haben an%} (<ab>Gen.</ab>).
+<div n="1">— 1〉 *{%zufallen, auf Jmds%} (<ab>Gen.</ab>) {%Theil kommen%}.
+<div n="1">— 2〉 {%darüber sein, übertreffen, beherrschen, bewältigen; Jmd%} (<ab>Gen.</ab> oder <ab>Dat.</ab>) {%mehr gelten als%} (<ab>Abl.</ab>) <ls>ṚV. 5,33,3</ls>.
+<div n="p">— Mit {#upa#} {%sein —, sich befinden in%} (<ab>Acc.</ab>). — {#upAsti#} <ab>st.</ab> {#upAste#} von {#As#}.
+<div n="p">— Mit {#ni#} {%dabei, sein, Theil haben an%} (<ab>Gen.</ab>).
 <div n="p">— Mit {#pari#}
-<div n="1">— 1) {%überholen.%}
-<div n="1">— 2) {%über%} (einen Zeitpunkt) {%hinaus gehen%} , (e.z.) {%nicht einhalten%} <ls>ṚV.7,103,7.</ls>
-<div n="p">— Mit {#pra#} {%voran sein , in ausgezeichnetem Maasse sein , vorwiegen , hervorragen.%}
-<div n="p">— Mit {#prati#} {%Jmd gleichkommen , mit Jmd wetteifern.%}
-<div n="p">— Mit {#*vi#}.
+<div n="1">— 1〉 {%überholen%}.
+<div n="1">— 2〉 {%über%} (einen Zeitpunkt) {%hinaus gehen,%} (<ab n="einen Zeitpunkt">e. Z.</ab>) {%nicht einhalten%} <ls>ṚV. 7,103,7</ls>.
+<div n="p">— Mit {#pra#} {%voran sein, in ausgezeichnetem Maasse sein, vorwiegen, hervorragen%}.
+<div n="p">— Mit {#prati#} {%Jmd gleichkommen, mit Jmd wetteifern%}.
+<div n="p">— Mit *{#vi#}.
 <div n="p">— Mit {#sam#}
-<div n="1">— 1) {%Jmd%} (<ab>Acc.</ab>). {%gleich sein.%}
-<div n="1">— 2) {%vereinigt sein mit%} {#saha#}.
-<div n="1">— 3) {%sein , geben , existiren%} <ls>SARVAD.9,15.</ls> — {#samastu#} <ls>MBH.13,1323.</ls> fehlerhaft für {#mamAsti#}.
+<div n="1">— 1〉 {%Jmd%} (<ab>Acc.</ab>). {%gleich sein%}.
+<div n="1">— 2〉 {%vereinigt sein mit%} {#saha#}.
+<div n="1">— 3〉 {%sein, geben, existiren%} <ls>SARVAD. 9,15</ls>. — {#samastu#} <ls>MBH. 13,1323</ls> fehlerhaft für {#mamAsti#}.
 <LEND>

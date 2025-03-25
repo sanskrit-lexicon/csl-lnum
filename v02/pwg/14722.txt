@@ -1,8 +1,8 @@
 <L>14722<pc>2-0053<k1>kanaKala<k2>kanaKala
-{#kanaKala#}¦ <lex>n.</lex> und <lex>m.</lex> pl. N. pr. eines <is>Tirtha</is> und der angrenzenden Berge 
-<ls>MBH. 3, 8008. 8231. 8393. 13, 1700.</ls> 
-<ls>HARIV.</ls> 
-<ls>LANGAL. I, 509.</ls> <ls>VP. 62, N. 2.</ls> <ls>MEGH. 51.</ls> {#tIrTaM kanaKalaM nAma gaNgAdvAre 'sti pAvanam . yatra kAYcanapAtena jAhnavI devadantinA . uSInaragiriprasTAdBittvA tamavatAritA ..#} 
-<ls>KATHĀS. 3, 4. 5.</ls> {#ete kanaKalA rAjannfzIRAM dayitA nagAH#} 
-<ls>MBH. 3, 10696.</ls>
+{#kanaKala#}¦ <lex>n.</lex> und <lex>m.</lex> pl. N. pr. eines <is>Tirtha</is> und der angrenzenden Berge
+<ls>MBH. 3,8008.</ls> <ls n="MBH. 3,">8231.</ls> <ls n="MBH. 3,">8393.</ls> <ls n="MBH.">13,1700.</ls>
+<ls>HARIV.</ls>
+<ls>LANGAL. I,509.</ls> <ls>VP. 62, N. 2.</ls> <ls>MEGH. 51.</ls> {#tIrTaM kanaKalaM nAma gaNgAdvAre 'sti pAvanam . yatra kAYcanapAtena jAhnavI devadantinA . uSInaragiriprasTAdBittvA tamavatAritA ..#}
+<ls>KATHĀS. 3,4.</ls> <ls n="KATHĀS. 3,">5.</ls> {#ete kanaKalA rAjannfzIRAM dayitA nagAH#}
+<ls>MBH. 3,10696.</ls>
 <LEND>

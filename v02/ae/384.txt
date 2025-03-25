@@ -1,9 +1,9 @@
 <L>384<pc>015<k1>animal<k2>animal
 {@Animal,@}¦ {%s.%} {#jaMtuH, prARin#} {%m.,%} {#jIvin#} {%m.,%}
-<div n="lb"/>{#jIvaH, janmavat#} {%m.%} {@2@} {#paSuH, mfgaH, tiryac#} {%m.%}
-<div n="lb"/>{%-a.%} {#prARisaMbaMDin#} &c. {@2@} {#cetana;#} ‘a. food’
-<div n="lb"/>{#mAMsAhAraH;#} ‘a. pleasures’ {#vizayAH, vizaya-#}
-<div n="lb"/>{#-suKAni;#} ‘a. passions’ (carnal) {#zaq-#}
-<div n="lb"/>{#-ripavaH-iMdriyARi;#} ‘a. kingdom’ {#prARivargaH#}.
-<div n="lb"/>{@-cule,@} {%s.%} {#kzudrajaMtuH#}.
+{#jIvaH, janmavat#} {%m.%} {@2@} {#paSuH, mfgaH, tiryac#} {%m.%}
+{%-a.%} {#prARisaMbaMDin#} &c. {@2@} {#cetana;#} ‘a. food’
+{#mAMsAhAraH;#} ‘a. pleasures’ {#vizayAH, vizaya-#}
+{#-suKAni;#} ‘a. passions’ (carnal) {#zaq-#}
+{#-ripavaH-iMdriyARi;#} ‘a. kingdom’ {#prARivargaH#}.
+{@-cule,@} {%s.%} {#kzudrajaMtuH#}.
 <LEND>

@@ -1,7 +1,7 @@
 <L>3940<pc>157<k1>feces<k2>feces
 {@Feces,@}¦ {%s.%} {#malaM, purIzaM, viz#} {%f.,%} {#uccAraH, apa(va)-#}
-<div n="lb"/>{#-skaraH, vizWA;#} {%See%} {@Dung. 2@} {#KalaM, ucCizwaM,#}
-<div n="lb"/>{#SezaM#}. {@-Fecal,@} {%a.%} {#viRmaya-malamaya#} ({#yI#} {%f.%}),
-<div n="lb"/>{#aSudDa, ameDya#}. {@-Feculent,@} {%a.%} {#samala, ka-#}
-<div n="lb"/>{#-luza, ameDya, maladUzita, Kalin#}.
+{#-skaraH, vizWA;#} {%See%} {@Dung. 2@} {#KalaM, ucCizwaM,#}
+{#SezaM#}. {@-Fecal,@} {%a.%} {#viRmaya-malamaya#} ({#yI#} {%f.%}),
+{#aSudDa, ameDya#}. {@-Feculent,@} {%a.%} {#samala, ka-#}
+{#-luza, ameDya, maladUzita, Kalin#}.
 <LEND>

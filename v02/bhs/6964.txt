@@ -1,19 +1,3 @@
 <L>6964<pc>253,2<k1>tirya<k2>tirya
-{@tirya@}¦, adj. and subst. (= Skt. tiryañc, tiryak, § 15.3,
-<div n="lb">cf. Pali tiriyaṃ, adv., and AMg. tiri, tiriya, adj. and subst.
-<div n="lb">{%animal%}; spelling tiriya not recorded in BHS but metrically
-<div n="lb">demanded in Mmk 107.27, 28), ({@1@}) adj. {%oblique, transverse%}:
-<div n="lb">ākāśagamanaṃ cāpi tiryaṃ cāpi nabhastale Mmk 148.20
-<div n="lb">(vs; perhaps adv., or adj. with -gamanam understood);
-<div n="lb">({@2@}) subst., {%animal%} (sub-human): tiryāṇa (gen. pl.; separate
-<div n="lb">word) yonīṣu ca so sadā ramī SP 97.2 (vs); tiryāṇa yonīṣu
-<div n="lb">358.13 (vs); tiryā, n. pl., LV 336.3 (vs); meter seems to
-<div n="lb">demand tiriya, contrary to text, in tiryebhyo dadau
-<div n="lb">vratī Mmk 107.27 and °bhyo tu dattvā vai 28 (vss).
-<div n="lb">Also for the Skt. cpds. tiryag-gata and °gati, tirya- occurs
-<div n="lb">m.c., Samādh 19.17; Suv 48.1; RP 27.10 (text here tīr°);
-<div n="lb">32.8. The stem tirya has been recorded only in verses.
-[Page254-a+ 71]
-<div n="lb">The AMg. form tiri, with ‘saṃprasāraṇa’, suggests the
-<div n="lb">origin of the penultimate i of {@tiriccha, °cchāna@}.
+{@tirya@}¦, <lex>adj.</lex> and <lex>subst.</lex> (= <lang>Skt.</lang> tiryañc, tiryak, 〔§ 15.3〕, <ab>cf.</ab> <lang>Pali</lang> tiriyaṃ, <lex>adv.</lex>, and <lang>AMg.</lang> tiri, tiriya, <lex>adj.</lex> and <lex>subst.</lex> {%animal%}; spelling tiriya not recorded in <lang>BHS</lang> but metrically demanded in <ls>Mmk</ls> 〔107.27, 28〕), ({@1@}) <lex>adj.</lex> {%oblique, transverse%}: ākāśagamanaṃ cāpi tiryaṃ cāpi nabhastale <ls>Mmk</ls> 〔148.20〕 (<ab>vs</ab>; perhaps <lex>adv.</lex>, or <lex>adj.</lex> with -gamanam understood); ({@2@}) <lex>subst.</lex>, {%animal%} (sub-human): tiryāṇa (<lex>gen.</lex> <ab>pl.</ab>; separate word) yonīṣu ca so sadā ramī <ls>SP</ls> 〔97.2〕 (<ab>vs</ab>); tiryāṇa yonīṣu 〔358.13〕 (<ab>vs</ab>); tiryā, <ab>n. pl.</ab>, <ls>LV</ls> 〔336.3〕 (<ab>vs</ab>); meter seems to demand tiriya, contrary to text, in tiryebhyo dadau vratī <ls>Mmk</ls> 〔107.27〕 and °bhyo tu dattvā vai 28 (<ab>vss</ab>). Also for the <lang>Skt.</lang> <ab>cpds.</ab> tiryag-gata and °gati, tirya- occurs <ab>m.c.</ab>, <ls>Samādh</ls> 〔19.17〕; <ls>Suv</ls> 〔48.1〕; <ls>RP</ls> 〔27.10〕 (text here tīr°); 〔32.8〕. The stem tirya has been recorded only in verses. [Page254-a] The <lang>AMg.</lang> form tiri, with ‘saṃprasāraṇa’, suggests the origin of the penultimate i of {@tiriccha, °cchāna@}.
 <LEND>

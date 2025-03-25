@@ -1,7 +1,7 @@
 <L>11575<pc>362<k1>immediately<k2>immediately
-<div n="lb"/>{@IMMEDIATELY:@}¦ <div n="I">I Proximately: </div><div n="1">(1) {#anantaram;#}</div>
-<div n="lb"/><div n="1">(2) {#avyavahitam.#} </div><div n="I">II Instantly: q.v. </div><div n="1">(1) {#sadyaH;#}</div>
-<div n="lb"/><div n="1">(2) {#sapadi.#} Ph.: <div n="xe">{%i. after or on:%}</div> <div n="xs">{#anantarameva;#}</div> {%i. on%}
-<div n="lb"/>({%his%}) <div n="xe">{%saying:%}</div> <div n="xs">{#vacanAntarameva,#}</div> K.: v. Also as
-<div n="lb"/>soon as.</div>
+{@IMMEDIATELY:@}¦ <div n="I">I Proximately: </div><div n="1">(1) {#anantaram;#}</div>
+<div n="1">(2) {#avyavahitam.#} </div><div n="I">II Instantly: q.v. </div><div n="1">(1) {#sadyaH;#}</div>
+<div n="1">(2) {#sapadi.#} Ph.: <div n="xe">{%i. after or on:%}</div> <div n="xs">{#anantarameva;#}</div> {%i. on%}
+({%his%}) <div n="xe">{%saying:%}</div> <div n="xs">{#vacanAntarameva,#}</div> K.: v. Also as
+soon as.</div>
 <LEND>

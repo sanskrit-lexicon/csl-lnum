@@ -1,16 +1,16 @@
 <L>4050<pc>162<k1>fish<k2>fish
 {@Fish,@}¦ {%s.%} {#matsyaH, mInaH, JazaH, vEsAriRaH, aMqajaH,#}
-<div n="lb"/>{#visAraH, Sakulin#} {%m.,%} {#pfTuroman#} {%m. -v. i.%}
-<div n="lb"/>{#matsyAn grah#} 9 U or {#Df#} 1 P or {#baMD#} 9 P. {@2@}
-<div n="lb"/>{#anusf#} 1 P; ‘f. -basket’ {#matsyADAnI, ku-#}
-<div n="lb"/>{#-veRI;#} ‘f. -hook’ {#baqiSaM-SA-SI, matsyaveDanaM;#}
-<div n="lb"/>‘f. -ing net’ {#jAlaM, AnAyaH, kupinI;#}
-<div n="lb"/>‘f. -market’ {#mInavikrayasTAnaM;#} ‘f. -mon-
-<div n="lb"/>-ger’ {#matsyavikrayin;#} ‘f. -pond’ {#mInASrayaH,#}
-<div n="lb"/>{#matsyAlayaH, matsyapUrRaM saraH;#} ‘f. -spawn’
-<div n="lb"/>{#matsyAMqaM;#} ‘f. -woman’ {#matsyavikretrI#}. {@-er,@}
-<div n="lb"/>{@-erman,@} {%s.%} {#DIvaraH, kEvartaH, dAsaH-SaH, jA-#}
-<div n="lb"/>{#-likaH, matsyAjIvaH, matsyopajIvin#} {%m.,%} {#mA-#}
-<div n="lb"/>{#-tsyikaH, nizAdaH#}. {@-ery, -ing,@} {%s.%} {#DIvara-#}
-<div n="lb"/>{#-karman#} {%n.,%} {#matsyabaMDanaM-grahaRaM#}.
+{#visAraH, Sakulin#} {%m.,%} {#pfTuroman#} {%m. -v. i.%}
+{#matsyAn grah#} 9 U or {#Df#} 1 P or {#baMD#} 9 P. {@2@}
+{#anusf#} 1 P; ‘f. -basket’ {#matsyADAnI, ku-#}
+{#-veRI;#} ‘f. -hook’ {#baqiSaM-SA-SI, matsyaveDanaM;#}
+‘f. -ing net’ {#jAlaM, AnAyaH, kupinI;#}
+‘f. -market’ {#mInavikrayasTAnaM;#} ‘f. -mon-
+-ger’ {#matsyavikrayin;#} ‘f. -pond’ {#mInASrayaH,#}
+{#matsyAlayaH, matsyapUrRaM saraH;#} ‘f. -spawn’
+{#matsyAMqaM;#} ‘f. -woman’ {#matsyavikretrI#}. {@-er,@}
+{@-erman,@} {%s.%} {#DIvaraH, kEvartaH, dAsaH-SaH, jA-#}
+{#-likaH, matsyAjIvaH, matsyopajIvin#} {%m.,%} {#mA-#}
+{#-tsyikaH, nizAdaH#}. {@-ery, -ing,@} {%s.%} {#DIvara-#}
+{#-karman#} {%n.,%} {#matsyabaMDanaM-grahaRaM#}.
 <LEND>

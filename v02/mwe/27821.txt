@@ -1,20 +1,20 @@
 <L>27821<pc>764-a<k1>speech<k2>speech
-<div n="lb"/>SPEECH¦, {%s.%} (Faculty of speech, speaking) {#vAk#} {%f.%} {#(c), vARI,#}
-<div n="lb"/>{#vAcA, gIH#} {%f.%} {#(gir), girA, uktiH#} {%f.,%} {#vAkSaktiH#} {%f.,%} {#vadantiH#} {%f.,%}
-<div n="lb"/>{#nigadaH, nigAdaH, vyAhAraH, vyAhftiH#} {%f.,%} {#BAzaRaM, BAzA, bacanaM, pravacanaM,#}
-<div n="lb"/>{#vAdaH, lApaH, aBilApaH, lapitaM, lapanaM, vAgvyApAraH, SabdavyApAraH,#}
-<div n="lb"/>{#BaRitiH#} {%f.,%} {#nideSaH, BAratI, sarasvatI, rADanA, kAsUH#} {%f.,%} {#SabdajAlaM#}. — 
-<div n="lb"/>(Words, that which is spoken) {#vAkyaM, vacanaM, vacas#} {%n.,%} {#uktiH#} {%f.,%}
-<div n="lb"/>{#uktaM, BAzaRaM, BAzA, BAzitaM, lapitaM#}. — (Harangue) {#vAkyaM, sAlaNkA-#}
-<div n="lb"/>{#ravAkyaM, alaNkAravadvAkyaM#}. — (Language) {#BAzA, uktiH#} {%f.;%} ‘clever-
-<div n="lb"/>ness of speech,’ {#vAkcAturyyaM, vAkkOSalyaM, vAkpawutA;#} ‘liberty
-<div n="lb"/>of speech,’ {#vAgapratibanDaH, vANmuktiH#} {%f.;%} ‘control of it,’ {#vANni-#}
-<div n="lb"/>{#roDaH, vAgdaRqaH, vANniyamaH -manaM;#} ‘softness of speech,’ {#vANmA-#}
-<div n="lb"/>{#DuryyaM;#} ‘stopping one's speech,’ {#vAgbanDanaM;#} ‘elegance of speech,’
-<div n="lb"/>{#SabdalAlityaM;#} ‘covert speech,’ {#vyAjoktiH#} {%f.;%} ‘bad speech,’
-<div n="lb"/>{#durvacanaM, duruktiH#} {%f.,%} {#durBAzaRaM, durvAcyaM;#} ‘mere speech,’ {#vANmAtraM;#}
-<div n="lb"/>‘opening of speech,’ {#vANmuKaM;#} ‘of measured speech,’ {#mita-#}
-<div n="lb"/>{#vAk#} {%m. f. n.%} {#(c), mitaBAzI -ziRI#} &c.; ‘Part of speech in
-<div n="lb"/>grammar,’ {#SabdaH;#} ‘goddess of speech,’ {#sarasvatI, BAratI,#}
-<div n="lb"/>{#vAgdevI,#} {%see%} SARASWATĪ.
+SPEECH¦, {%s.%} (Faculty of speech, speaking) {#vAk#} {%f.%} {#(c), vARI,#}
+{#vAcA, gIH#} {%f.%} {#(gir), girA, uktiH#} {%f.,%} {#vAkSaktiH#} {%f.,%} {#vadantiH#} {%f.,%}
+{#nigadaH, nigAdaH, vyAhAraH, vyAhftiH#} {%f.,%} {#BAzaRaM, BAzA, bacanaM, pravacanaM,#}
+{#vAdaH, lApaH, aBilApaH, lapitaM, lapanaM, vAgvyApAraH, SabdavyApAraH,#}
+{#BaRitiH#} {%f.,%} {#nideSaH, BAratI, sarasvatI, rADanA, kAsUH#} {%f.,%} {#SabdajAlaM#}. — 
+(Words, that which is spoken) {#vAkyaM, vacanaM, vacas#} {%n.,%} {#uktiH#} {%f.,%}
+{#uktaM, BAzaRaM, BAzA, BAzitaM, lapitaM#}. — (Harangue) {#vAkyaM, sAlaNkA-#}
+{#ravAkyaM, alaNkAravadvAkyaM#}. — (Language) {#BAzA, uktiH#} {%f.;%} ‘clever-
+ness of speech,’ {#vAkcAturyyaM, vAkkOSalyaM, vAkpawutA;#} ‘liberty
+of speech,’ {#vAgapratibanDaH, vANmuktiH#} {%f.;%} ‘control of it,’ {#vANni-#}
+{#roDaH, vAgdaRqaH, vANniyamaH -manaM;#} ‘softness of speech,’ {#vANmA-#}
+{#DuryyaM;#} ‘stopping one's speech,’ {#vAgbanDanaM;#} ‘elegance of speech,’
+{#SabdalAlityaM;#} ‘covert speech,’ {#vyAjoktiH#} {%f.;%} ‘bad speech,’
+{#durvacanaM, duruktiH#} {%f.,%} {#durBAzaRaM, durvAcyaM;#} ‘mere speech,’ {#vANmAtraM;#}
+‘opening of speech,’ {#vANmuKaM;#} ‘of measured speech,’ {#mita-#}
+{#vAk#} {%m. f. n.%} {#(c), mitaBAzI -ziRI#} &c.; ‘Part of speech in
+grammar,’ {#SabdaH;#} ‘goddess of speech,’ {#sarasvatI, BAratI,#}
+{#vAgdevI,#} {%see%} SARASWATĪ.
 <LEND>

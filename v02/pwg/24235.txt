@@ -1,22 +1,22 @@
 <L>24235<pc>2-0899<k1>Gozavant<k2>Gozavant
-{#Gozavant#}¦ (von {#Goza#}) 
-<div n="1"> 1) <lex>adj.</lex> {%tönend, lärmend%}: {#balAhaka#} 
-<ls>MBH. 1, 1289.</ls> {#samudra#} 
-<ls>6, 578. 1665.</ls> {#yAna, raTa#} 
-<ls>13, 3248. 3510.</ls> <ls>R. 5, 12, 22.</ls> {#amBas#} 
-<ls>BHĀG. P. 2, 5, 28.</ls> {#vAruRaSca mahASaNKo devadattaH suGozavAn#} 
-<ls>MBH. 2, 65.</ls> gramm. {%tönend, mit Stimme gesprochen%}, von Lauten 
-<ls>ṚV. PRĀT. 4, 1.</ls> 
-<ls>UPAL. 1, 7.</ls> 
-<ls>P. 8, 4, 62,</ls> 
-<ls>Sch.</ls> {#sarve svarA Gozavanto balavanto vaktavyAH#} 
-<ls>CHĀND. UP. 2, 22, 5.</ls> {#nAma GozavadAdi#} 
-<ls>ĀŚV. GṚHY. 1, 15.</ls> 
-<ls>GOBH. 2, 8, 15.</ls> 
-<ls>PĀR. GṚHY. 1, 17.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. pr. eines Mannes 
-<ls>SCHIEFNER,</ls> <ls>Lebensb. 275 (45).</ls> 
-<div n="1">— 3) <lex>f.</lex> {#°vatI#} {%Laute%} ({#vIRA#}) 
-<ls>H. 287.</ls> wie es scheint {%eine best. Art Laute%} oder N. pr. einer {%Laute%}: {#vIRAM GozavatIM ca tAm . dattAM vAsukinA pUrvam#} 
-<ls>KATHĀS. 11, 3. 12, 32</ls> (hier ohne Beisatz von {#vIRA#}).
+{#Gozavant#}¦ (von {#Goza#})
+<div n="1"> 1) <lex>adj.</lex> {%tönend, lärmend%}: {#balAhaka#}
+<ls>MBH. 1,1289.</ls> {#samudra#}
+<ls n="MBH.">6,578.</ls> <ls n="MBH. 6,">1665.</ls> {#yAna, raTa#}
+<ls n="MBH.">13,3248.</ls> <ls n="MBH. 13,">3510.</ls> <ls>R. 5,12,22.</ls> {#amBas#}
+<ls>BHĀG. P. 2,5,28.</ls> {#vAruRaSca mahASaNKo devadattaH suGozavAn#}
+<ls>MBH. 2,65.</ls> gramm. {%tönend, mit Stimme gesprochen%}, von Lauten
+<ls>ṚV. PRĀT. 4,1.</ls>
+<ls>UPAL. 1,7.</ls>
+<ls>P. 8,4,62</ls>, <ls>Sch.</ls>
+{#sarve svarA Gozavanto balavanto vaktavyAH#}
+<ls>CHĀND. UP. 2,22,5.</ls> {#nAma GozavadAdi#}
+<ls>ĀŚV. GṚHY. 1,15.</ls>
+<ls>GOBH. 2,8,15.</ls>
+<ls>PĀR. GṚHY. 1,17.</ls>
+<div n="1">— 2) <lex>m.</lex> N. pr. eines Mannes
+<ls>SCHIEFNER, Lebensb. 275 (45).</ls>
+<div n="1">— 3) <lex>f.</lex> {#°vatI#} {%Laute%} ({#vIRA#})
+<ls>H. 287.</ls> wie es scheint {%eine best. Art Laute%} oder N. pr. einer {%Laute%}: {#vIRAM GozavatIM ca tAm . dattAM vAsukinA pUrvam#}
+<ls>KATHĀS. 11,3.</ls> <ls n="KATHĀS.">12,32</ls> (hier ohne Beisatz von {#vIRA#}).
 <LEND>

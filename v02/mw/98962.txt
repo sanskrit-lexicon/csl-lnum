@@ -1,7 +1,7 @@
 <L>98962<pc>506,3<k1>dviz<k2>dviz<h>2<e>1
-<hom>2.</hom> <s>dviz</s> ¦ <ab>cl.</ab> 2. <ab>Ā.</ab> <ab>P.</ab> <s>dve/zwi</s>, <s>dvizwe</s> (<ab>ep.</ab> also <s>dvizati</s>, <s>°te</s>; <ab>Subj.</ab> <s>dve/zat</s>, <ls>AV.</ls>; <ab>impf.</ab> <s>advew</s>, 3. <ab>pl.</ab> <s>advizur</s> and <s>advi°zan</s>, <ls>Pāṇ. 3-4, 112</ls>; <ab>pf.</ab> <s>didveza</s>, <ls>ŚBr.</ls>; <ab>aor.</ab> <s>dvikzat</s>, <s>°zata</s> (3. <ab>sg.</ab>), <ls>AV.</ls>; <ab>fut.</ab> <s>dvekzyati</s>, <s>dvezwA</s>, <ls>Siddh.</ls>; <ls>Pāṇ. 7-2, 10</ls>; <ab>inf.</ab> <s>dvezwum</s>, <ls>MBh.</ls>; <s>dve/zwos</s>, <ls>ŚBr.</ls>) 
+<hom>2.</hom> <s>dviz</s> ¦ <ab>cl.</ab> 2. <ab>P.</ab> <ab>Ā.</ab> <s>dve/zwi</s>, <s>dvizwe</s> (<lang>ep.</lang> also <s>dvizati</s>, <s>°te</s>; <ab>Subj.</ab> <s>dve/zat</s>, <ls>AV.</ls>; <ab>impf.</ab> <s>advew</s>, 3. <ab>pl.</ab> <s>advizur</s> and <s>advi°zan</s>, <ls>Pāṇ. iii, 4, 112</ls>; <ab>pf.</ab> <s>didveza</s>, <ls>ŚBr.</ls>; <ab>aor.</ab> <s>dvikzat</s>, <s>°zata</s> (3. <ab>sg.</ab>), <ls>AV.</ls>; <ab>fut.</ab> <s>dvekzyati</s>, <s>dvezwA</s>, <ls>Siddh.</ls>; <ls>Pāṇ. vii, 2, 10</ls>; <ab>inf.</ab> <s>dvezwum</s>, <ls>MBh.</ls>; <s>dve/zwos</s>, <ls>ŚBr.</ls>)
 <div n="to"/>to hate, show hatred against (<ab>acc.</ab>; rarely <ab>dat.</ab> or <ab>gen.</ab>), be hostile or unfriendly, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
-<div n="to"/>to be a rival or a match for, <ls>Kāvyâd. ii, 61</ls> :
+<div n="to"/>to be a rival or a match for, <ls>Kāvyād. ii, 61</ls> :
 <div n="vp"/><ab>Pass.</ab> <s>dvizyate</s>; <ab>aor.</ab> <s>advezi</s> <ab>Gr.</ab>:
 <div n="vp"/><ab>Caus.</ab> <s>dvezayati</s>, <ls>Kāv.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>didvikzati</s>, <s>°te</s> <ab>Gr.</ab>; <ab>Intens.</ab> <s>dedvizyate</s>, <s>dedvezwi</s> or <s>dedvizIti</s> <ab>Gr.</ab> <info whitneyroots="dviz,81"/><info verb="genuineroot" cp="2P,2Ā"/>

@@ -1,14 +1,14 @@
 <L>6222<pc>200<k1>direction<k2>direction
-<div n="lb"/>{@DIRECTION:@}¦ <div n="I">I Management, guidance,
-<div n="lb"/>command: q. v. </div><div n="I">II Order, prescription:
-<div n="lb"/>q. v.: {#niyogaH,#} {%by the d. of%} ({%her%}) <div n="xe">{%superior:%}</div> <div n="xs">{#guro-#}
-<div n="lb"/>{#rniyogAt,#}</div> Ku. </div><div n="I">III Line of motion: {#diS#} (f.),
-<div n="lb"/><div n="xe">{%in whichever d. the eye is thrown:%}</div> <div n="xs">{#yasyAM yasyAM #}
-<div n="lb"/>{# diSi vikzipyate cakzuH,#}</div> K.; <div n="xe">{%in whatever d. the%}
-<div n="lb"/>{%will of Providence runs:%}</div> <div n="xs">{#yayA diSA DAvati #}
-<div n="lb"/>{# veDasaH spfhA,#}</div> N.; <div n="xe">{%in every d.:%}</div> <div n="xs">{#pratidiSam,#}</div> Ki.;
-<div n="lb"/><div n="xe">{%cast his eyes in that d.:%}</div> <div n="xs">{#tAmeva diSaM cakzuH prAhiRot,#}</div>
-<div n="lb"/>K.: </div><div n="I">IV The name and residence of a
-<div n="lb"/>person: {#nAmaDAmanI#} (n. du.). A board of
-<div n="lb"/>directors: {#nAyakavargaH#} (?).</div>
+{@DIRECTION:@}¦ <div n="I">I Management, guidance,
+command: q. v. </div><div n="I">II Order, prescription:
+q. v.: {#niyogaH,#} {%by the d. of%} ({%her%}) <div n="xe">{%superior:%}</div> <div n="xs">{#guro-#}
+{#rniyogAt,#}</div> Ku. </div><div n="I">III Line of motion: {#diS#} (f.),
+<div n="xe">{%in whichever d. the eye is thrown:%}</div> <div n="xs">{#yasyAM yasyAM #}
+{# diSi vikzipyate cakzuH,#}</div> K.; <div n="xe">{%in whatever d. the%}
+{%will of Providence runs:%}</div> <div n="xs">{#yayA diSA DAvati #}
+{# veDasaH spfhA,#}</div> N.; <div n="xe">{%in every d.:%}</div> <div n="xs">{#pratidiSam,#}</div> Ki.;
+<div n="xe">{%cast his eyes in that d.:%}</div> <div n="xs">{#tAmeva diSaM cakzuH prAhiRot,#}</div>
+K.: </div><div n="I">IV The name and residence of a
+person: {#nAmaDAmanI#} (n. du.). A board of
+directors: {#nAyakavargaH#} (?).</div>
 <LEND>

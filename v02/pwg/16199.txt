@@ -1,89 +1,88 @@
 <L>16199<pc>2-0206<k1>kARqa<k2>kA/Rqa<h>1
-1. {#kA/Rqa#}¦ <lex>m.</lex> <lex>n.</lex> 
-<ls>SIDDH. K.248,b,5.</ls> Accent eines auf {#kARqa#} ausgeh. comp. 
-<ls>P. 6, 2, 122. 126. 135.</ls> 
-<div n="1"> 1) {%Abschnitt, Stück%}; bei einer Pflanze {%das Stück des Halms oder Stängels von einem Absatz zum andern%}, in einer Handlung {%der Absatz u.s.w.%} {#tri\BiH kARqE\strIntsva\rgAna^rukzan#} 
-<ls>AV. 12, 3, 42.</ls> {#i\daM prApa^mutta\maM kARqa^masya\ yasmA^llo\kAtpa^rame\zWI sa\mApa^#} 
-<ls>45.</ls> {#kARqe^ kARqe\ vE kri\yamA^Re#} 
-<ls>TS. 6, 1, 7, 3. 2, 10, 1.</ls> {#kARqA^tkARqAtpra\roha^ntI\ paru^zaH paruza\spari^#} 
-<ls>VS. 13, 20.</ls> {#izuH trikARqA#} {%ein Pfeil, aus einem Rohr mit drei Absätzen bestehend%}; dann Name {%eines Sternbildes%} 
-<ls>AIT. BR. 3, 33.</ls> 
-<ls>ŚAT. BR. 2, 1, 2, 9.</ls> {#Sata/kARqa#} 
-<ls>AV. 19, 32, 1.</ls> {#saha/srakARqa#} 
-<ls>3. 2, 7, 3.</ls> {#dvikARqI #}
+1. {#kA/Rqa#}¦ <lex>m.</lex> <lex>n.</lex>
+<ls>SIDDH. K. 248,b,5.</ls> Accent eines auf {#kARqa#} ausgeh. comp.
+<ls>P. 6,2,122.</ls> <ls n="P. 6,2,">126.</ls> <ls n="P. 6,2,">135.</ls>
+<div n="1"> 1) {%Abschnitt, Stück%}; bei einer Pflanze {%das Stück des Halms oder Stängels von einem Absatz zum andern%}, in einer Handlung {%der Absatz u.s.w.%} {#tri\BiH kARqE\strIntsva\rgAna^rukzan#}
+<ls>AV. 12,3,42.</ls> {#i\daM prApa^mutta\maM kARqa^masya\ yasmA^llo\kAtpa^rame\zWI sa\mApa^#}
+<ls n="AV. 12,3,">45.</ls> {#kARqe^ kARqe\ vE kri\yamA^Re#}
+<ls>TS. 6,1,7,3. 2,10,1.</ls> {#kARqA^tkARqAtpra\roha^ntI\ paru^zaH paruza\spari^#}
+<ls>VS. 13,20.</ls> {#izuH trikARqA#} {%ein Pfeil, aus einem Rohr mit drei Absätzen bestehend%}; dann Name {%eines Sternbildes%}
+<ls>AIT. BR. 3,33.</ls>
+<ls>ŚAT. BR. 2,1,2,9.</ls> {#Sata/kARqa#}
+<ls>AV. 19,32,1.</ls> {#saha/srakARqa#}
+<ls n="AV. 19,32,">3.</ls> <ls n="AV.">2,7,3.</ls> {#dvikARqI #}
 [Page2-0207]
-{# rajjuH#} {%ein aus zwei Strängen bestehender Strick%} 
-<ls>P. 4, 1, 23,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 6, 55.</ls> {%Abschnitt eines Buches%} 
-<ls>AK. 3, 4, 11, 46.</ls> 
-<ls>TRIK. 3, 2, 24.</ls> 
-<ls>H. an. 2, 111.</ls> In {#kARqa#} zerfällt z. B. 
-<ls>AV.</ls> <ls>TS.</ls> <ls>ŚAT. BR.</ls> <ls>R.</ls> <ls>AK.</ls> <ls>H.</ls> {#karmakA/Rqa#} {%der über die heiligen Werke handelnde Abschnitt im%} <is>Veda</is> 
-<ls>KĀŚ.</ls> zu <ls>P. 4, 2, 51.</ls> <ls>Ind. St. 1, 16. 2, 85.</ls> <ls>PRAB. 107, 4. 109, 12.</ls> {#kriyAkARqa#} 
-<ls>BHĀG. P. 4, 24, 9. 8, 5, 35.</ls> {#brahmakARqa#} 
-<ls>Ind. St. 1, 16.</ls> {#jYAnakARqa#} 
-<ls>2, 85.</ls> {#kARqAnukrama, °kramaRikA, °kramaRI#} {%Inhaltsverzeichniss der%} <is>Kāṇḍa</is> {%in der%} 
-<ls>TS.</ls> <ls>ROTH</ls>, Einl. zu 
-<ls>NIR. VIII. XXII.</ls> 
-<ls>Zur G. u. L. d. W. VIII.</ls> 
-<ls>COLEBR. Misc. Ess. I, 16.</ls> 
-<div n="1">— 2) {%Halm, Stängel, Gerte%}: {#udBijjAH sTAvarAH sarve vIjakARqaprarohiRaH#} 
-<ls>M. 1, 46. 48.</ls> {#ikzukARqa#} 
-<ls>R. 2, 91, 15.</ls> 
-<ls>SUŚR. 2, 87, 8.</ls> {#SarakARqa#} 
-<ls>1, 333, 20. 2, 365, 5.</ls> {#vacAguqUcIkARqAni#} 
-<ls>432, 13. 36, 14. 16.</ls> {#vaMSakARqa#} 
-<ls>PRAB. 21, 10.</ls> {#(BujaH) KaNgena BfSatIkzRena nikfttastilakARqavat#} 
-<ls>MBH. 3, 16081.</ls> {#UrudvayaM mfgadfSaH kadalasya kARqO#} 
-<ls>AMAR. 95.</ls> {#kalmAze kARqe#} 
-<ls>KAUŚ. 27. 29. 62. 86.</ls> {#pfzatA varatrAkARqenAhanti#} 
-<ls>KĀTY. ŚR. 7, 8, 27.</ls> {#tAstu (nAvaH) gatvA paraM tIramavaropya ca taM janam . nivfttAH kARqacitrARi kriyante dAsabanDuBiH ..#} 
-<ls>R. 2, 89, 19.</ls> Nach den Lexicographen: = {#nAla#} oder {#nAqI#} {%Stängel%} 
-<ls>AK. 2, 9, 22. 3, 4, 11, 46</ls> ( = {#daRqa#}, was im 
-<ls>ŚKDR.</ls> durch {#nAla#} erklärt wird). 
-<ls>H. 1182. fg.</ls> 
-<ls>H. an.</ls> <ls>MED. ḍ. 3.</ls> {%Baumstamm%} und = {#stamba ( = tfRAdigucCa#} {%ein Bündel Gras%}) 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="1">— 3) {%Pfeil%} 
-<ls>AK. 3, 4, 11, 46. 26, 195.</ls> 
-<ls>H. 778.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {#savizaM kARqamAdAya mfgayAmAsa vE mfgam#} 
-<ls>MBH. 13, 265.</ls> {#DanuH kARqaM ca#} 
-<ls>HIT. 85, 5.</ls> 
-<div n="1">— 4) {%Rohr eines Knochens, ein langer Knochen%}: {#kARqaBagna#} {%Knochenbruch%} 
-<ls>SUŚR. 2, 31, 5. 1, 300, 19. 301, 8.</ls> {#SroRIkARqa#} 
-<ls>350, 3. 6.</ls> {#pucCakARqa#} 
-<ls>ŚAT. BR. 4, 5, 7, 5.</ls> 
-<ls>KĀTY. ŚR. 25, 6, 5.</ls> 
-<div n="1">— 5) Name einer Pflanze ({#vfkzaBid#}) 
-<ls>MED.</ls> {%Saccharum Sara%} ({#Sara#}) {%Roxb.%} 
-<ls>WILS.</ls> 
-<div n="1">— 6) {%Menge%} am Ende eines comp. 
-<ls>KĀŚ.</ls> zu <ls>P. 4, 2, 51.</ls> <ls>MED.</ls> {#kimetanmeGasaMkASaM parvatasyAvidUrataH . vfkzakaRqamito#} (sic!) {#BAti - darSanIyaM mfgAkIrRam#} 
-<ls>R. 1, 30, 15 (GORR. 1, 31, 18</ls> {#vana#} st. {#vfkzakaRqa#}). 
-<div n="1">— 7) {%ein best. Flächenmaass%} 
-<ls>P. 4, 1, 23.</ls> {#dvikARqA kzetraBaktiH = dve kARqe pramARamasyAH#} 
-<ls>Sch.</ls> {#trikARqA BUmiH#} 
-<ls>VOP. 6, 55.</ls> 
-<div n="1">— 8) am Ende eines comp. {%einen Tadel (ein Stück von Etwas, nicht das Ding selbst%}) bezeichnend 
-<ls>P. 6, 2, 126.</ls> {#BUtakA/Rqam#} 
-<ls>Sch.</ls> = {#arvan#} (welches bei 
-<ls>COLEBR.</ls>, 
-<ls>LOIS.</ls> und 
-<ls>WILS.</ls> in diesem Falle auch als {%Pferd%} gedeutet wird) 
-<ls>AK. 3, 4, 11, 46.</ls> = {#aDama#} oder {#kutsita#} 
-<ls>H. 1442.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> = {#pApIyaMs#} {%sehr schlecht, böse%} 
-<ls>DHAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 9) {%Wasser.%} 
-<div n="1">— 10) {%Gelegenheit, Veranlassung%} 
-<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> Vgl. {#akARqa#} und {#akARqe#} . 
-<div n="1">— 11) {%ein geheimer Ort%} ({#rahas#}) 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="1">— 12) {%Lob, Schmeichelei%} 
-<ls>H. an.</ls> 
+{# rajjuH#} {%ein aus zwei Strängen bestehender Strick%}
+<ls>P. 4,1,23</ls>, <ls>Sch.</ls>
+<ls>VOP. 6,55.</ls> {%Abschnitt eines Buches%}
+<ls>AK. 3,4,11,46.</ls>
+<ls>TRIK. 3,2,24.</ls>
+<ls>H. an. 2,111.</ls> In {#kARqa#} zerfällt z. B.
+<ls>AV.</ls> <ls>TS.</ls> <ls>ŚAT. BR.</ls> <ls>R.</ls> <ls>AK.</ls> <ls>H.</ls> {#karmakA/Rqa#} {%der über die heiligen Werke handelnde Abschnitt im%} <is>Veda</is>
+<ls>KĀŚ.</ls> zu <ls>P. 4,2,51.</ls> <ls>Ind. St. 1,16. 2,85.</ls> <ls>PRAB. 107,4.</ls> <ls n="PRAB.">109,12.</ls> {#kriyAkARqa#}
+<ls>BHĀG. P. 4,24,9.</ls> <ls n="BHĀG. P.">8,5,35.</ls> {#brahmakARqa#}
+<ls>Ind. St. 1,16.</ls> {#jYAnakARqa#}
+<ls n="Ind. St.">2,85.</ls> {#kARqAnukrama, °kramaRikA, °kramaRI#} {%Inhaltsverzeichniss der%} <is>Kāṇḍa</is> {%in der%}
+<ls>TS.</ls> <ls>ROTH</ls>, Einl. zu
+<ls>NIR. VIII. XXII.</ls>
+<ls>Zur G. u. L. d. W. VIII.</ls>
+<ls>COLEBR. Misc. Ess. I,16.</ls>
+<div n="1">— 2) {%Halm, Stängel, Gerte%}: {#udBijjAH sTAvarAH sarve vIjakARqaprarohiRaH#}
+<ls>M. 1,46.</ls> <ls n="M. 1,">48.</ls> {#ikzukARqa#}
+<ls>R. 2,91,15.</ls>
+<ls>SUŚR. 2,87,8.</ls> {#SarakARqa#}
+<ls n="SUŚR.">1,333,20. 2,365,5.</ls> {#vacAguqUcIkARqAni#}
+<ls n="SUŚR.">432,13. 36,14. 16.</ls> {#vaMSakARqa#}
+<ls>PRAB. 21,10.</ls> {#(BujaH) KaNgena BfSatIkzRena nikfttastilakARqavat#}
+<ls>MBH. 3,16081.</ls> {#UrudvayaM mfgadfSaH kadalasya kARqO#}
+<ls>AMAR. 95.</ls> {#kalmAze kARqe#}
+<ls>KAUŚ. 27. 29. 62. 86.</ls> {#pfzatA varatrAkARqenAhanti#}
+<ls>KĀTY. ŚR. 7,8,27.</ls> {#tAstu (nAvaH) gatvA paraM tIramavaropya ca taM janam . nivfttAH kARqacitrARi kriyante dAsabanDuBiH ..#}
+<ls>R. 2,89,19.</ls> Nach den Lexicographen: = {#nAla#} oder {#nAqI#} {%Stängel%}
+<ls>AK. 2,9,22.</ls> <ls n="AK.">3,4,11,46.</ls> ( = {#daRqa#}, was im
+<ls>ŚKDR.</ls> durch {#nAla#} erklärt wird).
+<ls>H. 1182. fg.</ls>
+<ls>H. an.</ls> <ls>MED. ḍ. 3.</ls> {%Baumstamm%} und = {#stamba ( = tfRAdigucCa#} {%ein Bündel Gras%})
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="1">— 3) {%Pfeil%}
+<ls>AK. 3,4,11,46</ls> <ls n="AK. 3,4,">26,195</ls>
+<ls>H. 778.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {#savizaM kARqamAdAya mfgayAmAsa vE mfgam#}
+<ls>MBH. 13,265.</ls> {#DanuH kARqaM ca#}
+<ls>HIT. 85,5.</ls>
+<div n="1">— 4) {%Rohr eines Knochens, ein langer Knochen%}: {#kARqaBagna#} {%Knochenbruch%}
+<ls>SUŚR. 2,31,5. 1,300,19. 301,8.</ls> {#SroRIkARqa#}
+<ls n="SUŚR.">350,3. 6.</ls> {#pucCakARqa#}
+<ls>ŚAT. BR. 4,5,7,5.</ls>
+<ls>KĀTY. ŚR. 25,6,5.</ls>
+<div n="1">— 5) Name einer Pflanze ({#vfkzaBid#})
+<ls>MED.</ls> {%Saccharum Sara%} ({#Sara#}) {%Roxb.%}
+<ls>WILS.</ls>
+<div n="1">— 6) {%Menge%} am Ende eines comp.
+<ls>KĀŚ.</ls> zu <ls>P. 4,2,51.</ls> <ls>MED.</ls> {#kimetanmeGasaMkASaM parvatasyAvidUrataH . vfkzakaRqamito#} (sic!) {#BAti — darSanIyaM mfgAkIrRam#}
+<ls>R. 1,30,15</ls> (<ls>GORR. 1,31,18</ls> {#vana#} st. {#vfkzakaRqa#}).
+<div n="1">— 7) {%ein best. Flächenmaass%}
+<ls>P. 4,1,23.</ls> {#dvikARqA kzetraBaktiH = dve kARqe pramARamasyAH#}
+<ls>Sch.</ls> {#trikARqA BUmiH#}
+<ls>VOP. 6,55.</ls>
+<div n="1">— 8) am Ende eines comp. {%einen Tadel (ein Stück von Etwas, nicht das Ding selbst%}) bezeichnend
+<ls>P. 6,2,126.</ls> {#BUtakA/Rqam#}
+<ls>Sch.</ls> = {#arvan#} (welches bei
+<ls>COLEBR.</ls>,
+<ls>LOIS.</ls> und
+<ls>WILS.</ls> in diesem Falle auch als {%Pferd%} gedeutet wird)
+<ls>AK. 3,4,11,46.</ls> = {#aDama#} oder {#kutsita#}
+<ls>H. 1442.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> = {#pApIyaMs#} {%sehr schlecht, böse%}
+<ls>DHAR.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 9) {%Wasser.%}
+<div n="1">— 10) {%Gelegenheit, Veranlassung%}
+<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> Vgl. {#akARqa#} und {#akARqe#} .
+<div n="1">— 11) {%ein geheimer Ort%} ({#rahas#})
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="1">— 12) {%Lob, Schmeichelei%}
+<ls>H. an.</ls>
 <div n="v">— Vgl. {#arjunakARqa, ikzu°, ugra°, uttara°, pra°, uzwrakARqI#} .
 <LEND>

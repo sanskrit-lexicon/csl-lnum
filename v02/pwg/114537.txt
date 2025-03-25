@@ -1,26 +1,26 @@
 <L>114537<pc>7-1380<k1>sPowana<k2>sPowana
-{#sPowana#}¦ (von {#sPuw#}) 
-<div n="1"> 1) <lex>adj.</lex> {%spaltend, zermalmend%}: {#vajra#} 
-<ls>HARIV. 13997. <is>Śiva</is></ls> 
-<ls>MBH. 12, 10387.</ls> {#saMSaya°#} (vgl. {#saMSayaM Cid#}) so v. a. {%lösend, entfernend%} 
-<ls>MĀRK. P. S. 658, Z. 8 v. u.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%der Spalter%}, Bez. {%des zwischen bestimmten Consonantengruppen hörbaren vocalischen Lautes%} 
-<ls>AV. PRĀT. 1, 103.</ls> <ls n="AV. PRĀT.">2, 38.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#I#} {%Bohrer%} 
-<ls>BHARATA</ls> im <ls>DVIRŪPAK.</ls> nach <ls>ŚKDR.</ls> 
-<div n="1">— 4) <lex>n.</lex> 
-<div n="2"> a) {%das Platzen%} 
-<ls>SUŚR. 1, 85, 9.</ls> 
-<div n="2">— b) {%das Spalten, Zerbrechen, Aufreissen, Aufstechen%} 
-<ls>BHARATA</ls> zu <ls>AK. 3, 3, 5</ls> nach <ls>ŚKDR.</ls> {#naKEH#} 
-<ls>ĀPAST. 2, 20, 13.</ls> {#SaNku°#} 
-<ls>SUŚR. 2, 458, 5.</ls> {#aRqa°#} 
-<ls>PAÑCAT. 81, 8.</ls> {%das Auseinanderrupfen%}: {#tUla°#} 
-<ls>H. 912.</ls> in der Grammatik {%das Spalten bestimmter Consonantengruppen durch Einfügung eines vocalischen Lautes%} 
-<ls>VS. PRĀT. 4, 162.</ls> 
-<div n="2">— c) {%das Schütteln%}: {#bAhu°#} 
-<ls>SĀH. D. 232.</ls> {%swelling%} 
-<ls>BALLANTYNE.</ls> 
-<div n="2">— d) {%das Knacken%}: {#aNguli°#} 
+{#sPowana#}¦ (von {#sPuw#})
+<div n="1"> 1) <lex>adj.</lex> {%spaltend, zermalmend%}: {#vajra#}
+<ls>HARIV. 13997.</ls> <is>Śiva</is>
+<ls>MBH. 12,10387.</ls> {#saMSaya°#} (vgl. {#saMSayaM Cid#}) so v. a. {%lösend, entfernend%}
+<ls>MĀRK. P. S. 658, Z. 8</ls> v. u.
+<div n="1">— 2) <lex>m.</lex> {%der Spalter%}, Bez. {%des zwischen bestimmten Consonantengruppen hörbaren vocalischen Lautes%}
+<ls>AV. PRĀT. 1,103.</ls> <ls n="AV. PRĀT.">2,38.</ls>
+<div n="1">— 3) <lex>f.</lex> {#I#} {%Bohrer%}
+<ls>BHARATA</ls> im <ls>DVIRŪPAK.</ls> nach <ls>ŚKDR.</ls>
+<div n="1">— 4) <lex>n.</lex>
+<div n="2"> a) {%das Platzen%}
+<ls>SUŚR. 1,85,9.</ls>
+<div n="2">— b) {%das Spalten, Zerbrechen, Aufreissen, Aufstechen%}
+<ls>BHARATA</ls> zu <ls>AK. 3,3,5</ls> nach <ls>ŚKDR.</ls> {#naKEH#}
+<ls>ĀPAST. 2,20,13.</ls> {#SaNku°#}
+<ls>SUŚR. 2,458,5.</ls> {#aRqa°#}
+<ls>PAÑCAT. 81,8.</ls> {%das Auseinanderrupfen%}: {#tUla°#}
+<ls>H. 912.</ls> in der Grammatik {%das Spalten bestimmter Consonantengruppen durch Einfügung eines vocalischen Lautes%}
+<ls>VS. PRĀT. 4,162.</ls>
+<div n="2">— c) {%das Schütteln%}: {#bAhu°#}
+<ls>SĀH. D. 232.</ls> {%swelling%}
+<ls>BALLANTYNE.</ls>
+<div n="2">— d) {%das Knacken%}: {#aNguli°#}
 <ls>AŚOKĀVAD. 18.</ls>
 <LEND>

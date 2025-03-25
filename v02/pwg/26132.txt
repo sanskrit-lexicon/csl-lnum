@@ -1,40 +1,38 @@
 <L>26132<pc>2-1082<k1>Card<k2>Card
-{#Card#}¦ {#(Cfd), CfRatti; Cardizyati#} und {#Cartsyati#} 
-<ls>P. 7, 2, 57.</ls> 
-<ls>VOP. 11, 2. 14, 1</ls>; {#cacCfdus#} 
-<ls>P. 7, 4, 83, <is>Vārtt</is>. 2,</ls> 
-<ls>Sch.</ls> (ed. Calc.). {%begiessen%}: {#CfRattu tvA vAk CfnDi vAcam#} 
-<ls>TAITT. ĀR. 4, 3, 3.</ls> — {#CfRatti#} und {#Cfntte#} {%spielen; glänzen%} 
-<ls>DHĀTUP. 29, 8.</ls> {%ausbrechen, vomiren%} 
-<ls>VOP.</ls> {#Ca/rdati#} {%anzünden%} 
-<ls>DHĀTUP. 34, 14.</ls> — caus. 
-<div n="1"> 1) {%ausschütten%}: {#tadDEka utsicya cCardayanti#} 
-<ls>ŚAT. BR. 12, 4, 2, 9.</ls> 
-<div n="1">— 2) {%ausspeien, sich erbrechen%}; med.: {#yaH somaM pItvA Cardayeta#} 
-<ls>LĀṬY. 8, 10, 9.</ls> 
-<ls>KĀTY. ŚR. 25, 11, 31.</ls> 
-<ls>KAUŚ. 28.</ls> <ls>?act. DHĀTUP. 32, 51. MBH. 5, 3493 (3492). SUŚR. 1, 321, 20. VARĀH. BṚH. S. 44 (43), 12.</ls> {%Etwas ausbrechen%}, act.: {#Buktam#} 
-<ls>SUŚR. 1, 118, 15.</ls> {#lohitam#} 
-<ls>121, 13.</ls> {#SoRitam#} 
-<ls>MBH. 6, 93.</ls> 
-<div n="1">— 3) {%speien machen%} 
-<ls>SUŚR. 2, 69, 4.</ls> 
-<div n="1">— 4) {%anzünden%} 
-<ls>DHĀTUP. 34, 14.</ls> — desid.
+{#Card#}¦ {#(Cfd), CfRatti; Cardizyati#} und {#Cartsyati#}
+<ls>P. 7,2,57.</ls>
+<ls>VOP. 11,2.</ls> <ls n="VOP.">14,1</ls>; {#cacCfdus#}
+<ls>P. 7,4,83</ls>, <is>Vārtt</is>. 2, <ls>Sch.</ls>
+(<ls>ed. Calc.</ls>). {%begiessen%}: {#CfRattu tvA vAk CfnDi vAcam#}
+<ls>TAITT. ĀR. 4,3,3.</ls> — {#CfRatti#} und {#Cfntte#} {%spielen; glänzen%}
+<ls>DHĀTUP. 29,8.</ls> {%ausbrechen, vomiren%}
+<ls>VOP.</ls> {#Ca/rdati#} {%anzünden%}
+<ls>DHĀTUP. 34,14.</ls> — caus.
+<div n="1"> 1) {%ausschütten%}: {#tadDEka utsicya cCardayanti#}
+<ls>ŚAT. BR. 12,4,2,9.</ls>
+<div n="1">— 2) {%ausspeien, sich erbrechen%}; med.: {#yaH somaM pItvA Cardayeta#}
+<ls>LĀṬY. 8,10,9.</ls>
+<ls>KĀTY. ŚR. 25,11,31.</ls>
+<ls>KAUŚ. 28.</ls> act. <ls>DHĀTUP. 32,51.</ls> <ls>MBH. 5,3493</ls> (<ls n="MBH. 5,">3492</ls>). <ls>SUŚR. 1,321,20.</ls> <ls>VARĀH. BṚH. S. 44 (43),12.</ls> {%Etwas ausbrechen%}, act.: {#Buktam#}
+<ls>SUŚR. 1,118,15.</ls> {#lohitam#}
+<ls n="SUŚR.">121,13.</ls> {#SoRitam#}
+<ls>MBH. 6,93.</ls>
+<div n="1">— 3) {%speien machen%}
+<ls>SUŚR. 2,69,4.</ls>
+<div n="1">— 4) {%anzünden%}
+<ls>DHĀTUP. 34,14.</ls> — desid.
 [Page2-1083]
-{#cicCardizati#} und {#cicCftsati#} 
-<ls>P. 7, 2, 57.</ls> — desid. vom caus. {#cicCardayizati#} 
-<ls>P. 7, 4, 83, <is>Vārtt</is>. 2,</ls> 
-<ls>Sch.</ls> (ed. Calc.).
-
-<div n="p">— {#A#} {%übergiessen, vollgiessen%}: {#A cCf^ndantu#} 
-<ls>VS. 11, 65.</ls> 
-<ls>TS. 5, 1, 7, 4.</ls> 
-<ls>ŚAT. BR. 6, 5, 4, 15. fgg.</ls> 
-<ls>14, 1, 2, 25.</ls>
-
-<div n="p">— {#pra#} caus. act. {%sich erbrechen%} 
-<ls>SUŚR. 1, 276, 14.</ls> {%ausbrechen%} 
-<ls>2, 491, 14.</ls> 
+{#cicCardizati#} und {#cicCftsati#}
+<ls>P. 7,2,57.</ls> — desid. vom caus. {#cicCardayizati#}
+<ls>P. 7,4,83</ls>, <is>Vārtt</is>. 2, <ls>Sch.</ls>
+(<ls>ed. Calc.</ls>).
+<div n="p">— {#A#} {%übergiessen, vollgiessen%}: {#A cCf^ndantu#}
+<ls>VS. 11,65.</ls>
+<ls>TS. 5,1,7,4.</ls>
+<ls>ŚAT. BR. 6,5,4,15. fgg.</ls>
+<ls n="ŚAT. BR.">14,1,2,25.</ls>
+<div n="p">— {#pra#} caus. act. {%sich erbrechen%}
+<ls>SUŚR. 1,276,14.</ls> {%ausbrechen%}
+<ls n="SUŚR.">2,491,14.</ls>
 <div n="v">— Vgl. {#pracCardikA#} .
 <LEND>

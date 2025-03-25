@@ -1,8 +1,8 @@
 <L>8354<pc>264<k1>faith<k2>faith
-<div n="lb"/>{@FAITH@}¦ (subs.): {#SradDA,#} <div n="xe">{%being full of f. saluted the%}
-<div n="lb"/>{%gods:%}</div> <div n="xs">{#SradDAmayIBUya suparvaRastAn nanAma,#}</div> N.: v. Belief.
-<div n="lb"/><div n="xe">{%To have f. in:%}</div> <div n="xs">{#SraddaDAti#}</div> <div n="xe">{%or%}</div> <div n="xs">{#Datte#}</div> ({#DA,#} c. 3.) (with
-<div n="lb"/>loc.), <div n="xe">{%having f. in gods:%}</div> <div n="xs">{#surezu SraddaDat#}</div> (f. {#tI#}),
-<div n="lb"/>N.; <div n="xe">{%he had f. in Rāma's prowess:%}</div> <div n="xs">{#sa pOruzaM #}
-<div n="lb"/>{# rAGave SraddaDe,#}</div> R.
+{@FAITH@}¦ (subs.): {#SradDA,#} <div n="xe">{%being full of f. saluted the%}
+{%gods:%}</div> <div n="xs">{#SradDAmayIBUya suparvaRastAn nanAma,#}</div> N.: v. Belief.
+<div n="xe">{%To have f. in:%}</div> <div n="xs">{#SraddaDAti#}</div> <div n="xe">{%or%}</div> <div n="xs">{#Datte#}</div> ({#DA,#} c. 3.) (with
+loc.), <div n="xe">{%having f. in gods:%}</div> <div n="xs">{#surezu SraddaDat#}</div> (f. {#tI#}),
+N.; <div n="xe">{%he had f. in Rāma's prowess:%}</div> <div n="xs">{#sa pOruzaM #}
+{# rAGave SraddaDe,#}</div> R.
 <LEND>

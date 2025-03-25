@@ -1,94 +1,93 @@
 <L>7626<pc>1-0570<k1>ahan<k2>a/han
-{#a/han#}¦ <lex>n.</lex> und {#a/has#} (oder {#ahar#}) <lex>n.</lex> 
-<ls>Uṇ. 1, 157.</ls> {%Tag%} 
-<ls>AK. 1, 1, 3, 2.</ls> 
-<ls>H. 138.</ls> In der klass. Sprache ergänzen sich beide Stämme bei der Bildung der cass.: von {#ahan#} stammt der instr. dat. abl. gen. loc. sg., der nom. acc. voc. gen. loc. du. und nom. acc. voc. gen. pl.; von {#ahas#} die übrigen casus, 
-<ls>P. 8, 2, 68. 69.</ls> 
-<ls>VOP. 2, 54. 3, 150. 165.</ls> {#na#} geht nicht in {#Ra#} über 
-<ls>3, 30. 6, 9</ls>, Anf. Im <is>Veda</is> hat der Stamm {#ahan#} eine weitere Ausdehnung. {#ahnA#} 
-<ls>M. 5, 64. 102. 6, 69.</ls> {#ekAhnA#} (vgl. weiter u.) 
-<ls>N. 19, 2. 10.</ls> 
-<ls>R. 1, 38,29.</ls>
+{#a/han#}¦ <lex>n.</lex> und {#a/has#} (oder {#ahar#}) <lex>n.</lex>
+<ls>Uṇ. 1,157.</ls> {%Tag%}
+<ls>AK. 1,1,3,2.</ls>
+<ls>H. 138.</ls> In der klass. Sprache ergänzen sich beide Stämme bei der Bildung der cass.: von {#ahan#} stammt der instr. dat. abl. gen. loc. sg., der nom. acc. voc. gen. loc. du. und nom. acc. voc. gen. pl.; von {#ahas#} die übrigen casus,
+<ls>P. 8,2,68.</ls> <ls n="P. 8,2,">69.</ls>
+<ls>VOP. 2,54.</ls> <ls n="VOP.">3,150.</ls> <ls n="VOP. 3,">165.</ls> {#na#} geht nicht in {#Ra#} über
+<ls n="VOP.">3,30.</ls> <ls n="VOP.">6,9</ls>, Anf. Im <is>Veda</is> hat der Stamm {#ahan#} eine weitere Ausdehnung. {#ahnA#}
+<ls>M. 5,64.</ls> <ls n="M. 5,">102.</ls> <ls n="M.">6,69.</ls> {#ekAhnA#} (vgl. weiter u.)
+<ls>N. 19,2.</ls> <ls n="N. 19,">10.</ls>
+<ls>R. 1,38,29.</ls>
 [Page1-0571]
-{#a/hne#} 
-<ls>VS. 9, 20. 24, 25. 30, 21.</ls> {#a/hnas#} 
-<ls>VS. 8, 48. 24, 36.</ls> 
-<ls>ŚAT. BR. 14, 9, 1, 18</ls> <ls>?= BṚH. ĀR. UP. 6, 2, 15. AK. 2, 7, 31.</ls> {#i\dAhna^H#} 
-<ls>ṚV. 4, 33, 11.</ls> {#na rAtryA\ ahna^ AsItprake\taH#} 
-<ls n="ṚV.">10, 129, 2.</ls> {#sa\kfdahna^H#} 
-<ls n="ṚV. 10,">93, 16.</ls> {#trirahna^H#} 
-<ls n="ṚV. 10, 93,">5.</ls> <ls>ŚAT. BR. 11, 5, 1, 1. 3, 4, 4, 23.</ls> <ls>M. 11, 223. 259.</ls> {#a/hani#} 
-<ls>ṚV. 1, 110, 7.</ls> <ls n="ṚV. 1,">132, 1.</ls> 
-<ls>AV. 7, 52, 2.</ls> 
-<ls>M. 4, 51. 6, 68. 11, 182.</ls> 
-<ls>N. 9, 12</ls> ({#bahutiTe 'hani#}). 
-<ls>15, 1.</ls> <ls>R. 1, 28, 37. 2, 57, 5.</ls> <ls>PAÑCAT. 95, 23.</ls> {#ahanyahani#} {%jeden Tag%} 
-<ls>M. 2, 82. 132. 5, 30. 8, 419.</ls> 
-<ls>ŚĀK. 153.</ls> {#a/hni#} 
-<ls>AV. 6, 110, 3.</ls> 
-<ls>MEGH. 90.</ls> 
-<ls>KATHĀS. 24, 124.</ls> 
-<ls>AK. 3, 5, 22.</ls> {#a/han#} (gleichfalls loc.) 
-<ls>ṚV. 4, 16, 11.</ls> <ls n="ṚV.">10, 95, 1.</ls> 
-<ls>ŚAT. BR. 3, 2, 2, 4.</ls> u. s. w. {#triraha^n#} 
-<ls>ṚV. 9, 86, 18.</ls> {#sasmi\nnaha^n#} 
-<ls n="ṚV.">10, 95, 11.</ls> du. {#a/hanI#} {%Tag und Nacht%}: {#vizu^rUpe\ aha^nI\ saM ca^rete#} 
-<ls>ṚV. 1, 123, 7.</ls> <ls n="ṚV.">4, 55, 3.</ls> <ls n="ṚV.">5, 82, 8.</ls> <ls n="ṚV.">6, 58, 1.</ls> <ls n="ṚV.">10, 39, 12.</ls> <ls n="ṚV. 10,">76, 1.</ls> 
-<ls>AV. 13, 2, 3.</ls> — {#ahanI yuyuDe dve tu karRaH#} 
-<ls>MBH. 1, 301.</ls> {#rAtryahanI#} 
-<ls>M. 1, 66. 67.</ls> {#a/hnos#} 
-<ls>ŚAT. BR. 11, 5, 5, 13.</ls> {#a/hAni#} 
-<ls>ṚV. 1, 88, 4.</ls> <ls n="ṚV.">10, 18, 5.</ls> 
-<ls>VS. 11, 17.</ls> 
-<ls>ŚAT. BR. 1, 1, 2, 21. 3, 5, 9. 3, 4, 3, 22.</ls> 
-<ls>M. 11, 157.</ls> 
-<ls>YĀJÑ. 3, 22.</ls> 
-<ls>MBH. 1, 300.</ls> {#aGAhAni#} 
-<ls>M. 5, 84.</ls> {#a/hA#} (wie von einem neutr. auf {#a#}) 
-<ls>ṚV. 1, 50, 7.</ls> <ls n="ṚV.">5, 48, 3.</ls> <ls n="ṚV.">10, 12, 4.</ls> {#a/haByas#} 
-<ls n="ṚV.">7, 87, 1.</ls> {#a/haBis#} 
-<ls n="ṚV. 7,">28, 4.</ls> <ls n="ṚV.">10, 10, 9.</ls> {#a/hnAm#} 
-<ls n="ṚV.">10, 85, 19.</ls> <ls n="ṚV. 10,">110, 4.</ls> <ls>AV. 6, 128, 2.</ls> {#i\dA hyahnA^m#} 
-<ls>ṚV. 4, 31, 1.</ls> {#i\dA ci\dahA^nAm#} 
-<ls n="ṚV.">8, 22, 13.</ls> {#a/hasu#} 
-<ls n="ṚV.">1, 124, 9.</ls> {#a/has#} nom. acc.: {#kenAha^rakarodru\ce#} 
-<ls>AV. 10, 2, 16.</ls> {#ahariti hanti pApmAnaM jahAti ca#} (etym. Spielerei) 
-<ls>ŚAT. BR. 14, 8, 6, 4</ls> <ls>?= BṚH. ĀR. UP. 5, 5, 3.</ls> {#aharahaH#} {%Tag für Tag, täglich%}: {#aha^raharjAyate mA\si mA^si#} 
-<ls>ṚV. 10, 52, 2.</ls> <ls n="ṚV. 10, 52,">3.</ls> 
-<ls>ŚAT. BR. 2, 3, 2, 3. 9, 4, 4, 15.</ls> 
-<ls>BṚH. ĀR. UP. 2, 1, 3.</ls> 
-<ls>M. 2, 182. 3, 182. 8, 306. 11, 248.</ls> 
-<ls>VID. 186. 223.</ls> {#aharahaHkarma/n#} 
-<ls>ŚAT. BR. 9, 4, 4, 17.</ls> {#tadahas#} {%an demselben Tage%} 
-<ls>4, 6, 8, 4. 6. 6, 7, 4, 14. 8, 1, 5.</ls> {#yadahas#} {%an welchem Tage%} 
-<ls>2, 1, 4, 1. 4, 6, 8, 5. 6, 7, 4, 13.</ls> {#ahoByAm#} 
-<ls>H. 144.</ls> {#a/hoBis#} 
-<ls>ṚV. 10, 14, 9.</ls> 
-<ls>VS. 35, 1.</ls> 
-<ls>ŚAT. BR. 14, 7, 2, 20</ls> <ls>?(= BṚH. ĀR. UP. 4, 4, 16). ĀŚV. ŚR. 9, 1. M. 3, 46. PAÑCAT. 191, 17.</ls> {#a/hoByas#} 
-<ls>VS. 6, 15.</ls> {#a/hassu#} 
-<ls>ŚAT. BR. 10, 2, 5, 15.</ls> 
-<ls>AIT. BR. 6, 18.</ls> 
-<ls>MBH. 1, 6059.</ls> {#aho#} (sic) {#ramyam#} 
-<ls>KĀŚ.</ls> zu <ls>P. 8, 2, 68.</ls> — {%Tag in einer nach Tagen abgetheilten Opfer- oder Festfeier, Tagewerk, Tagesabschnitt%}; häufig in liturg. Büchern 
-<ls>AIT. BR. 4, 1. fgg.</ls> 
-<ls>ĀŚV. ŚR. 10, 2</ls> und oft. <ls>KĀTY. ŚR. 12, 3, 20. 2, 2. 6, 28.</ls> — der {%Tag%} person. ist einer der 
-<ls>8</ls> <is>Vasu</is> 
-<ls>MBH. 1, 2582. 2584. 2587.</ls> — {#ahas#} {%Tag%} und {#sudina#} {%schöner Tag%} heissen zwei <is>Tīrtha</is> 
-<ls>MBH. 3, 6070.</ls> — Am Anfange einer Zusammens. immer nur {#ahas#} oder {#ahar (ahaHSeza#} 
-<ls>M. 11, 204.</ls> {#aharAgama#} 
-<ls>BHAG. 8, 18. 19.</ls> {#ahoratna#} 
-<ls>KĀŚ.</ls> zu <ls>P. 8, 2, 68</ls>), am Ende {#ahas#} (vgl. {#anaha/r#} im <is>gaṇa</is> {#cArvAdi#}) und {#ahan#} (s. oben {#ekAhnA, aGAhAni#} und 
-<ls>P. 6, 3, 110.</ls> 
-<ls>VOP. 3, 42</ls>), meist aber {#aha/#} <lex>m.</lex> (selten <lex>n.</lex> wie z. B. in {#puRyAha, BadrAha, sudinAha#} 
-<ls>AK. 3, 6, 29</ls>) <ls>P. 2, 4, 29. 5, 4, 91. 6, 4, 145.</ls> <ls>VOP. 6, 37. 56.</ls> <ls>AK. 3, 6, 12.</ls> {#za\qa\haH#} 
-<ls>AV. 8, 9, 16.</ls> {#tryaho#} ({%ein Werk von 3 Tagen%}) {#'SvameDaH saMKyAtaH#} 
-<ls>R. 1, 13, 42.</ls> {#tryaham#} u. s. w. acc. 
-<ls>BṚH. ĀR. UP. 6, 3, 1. 4, 13.</ls> 
-<ls>M. 11, 125. 148. 157. u.s.w.</ls> <ls>R. 2, 34, 33.</ls> {#tryaheRa#} 
-u.s.w. <ls>M. 10, 92. 5, 83.</ls> {#tryahAt#} u. s. w. 
-<ls>5, 64. 8, 108.</ls> {#tryahe#} u. s. w. 
-<ls>PĀR. GṚHY. 2, 3.</ls> 
-<ls>M. 5, 76.</ls> {#tadahe#} 
+{#a/hne#}
+<ls>VS. 9,20.</ls> <ls n="VS.">24,25.</ls> <ls n="VS.">30,21.</ls> {#a/hnas#}
+<ls>VS. 8,48.</ls> <ls n="VS.">24,36.</ls>
+<ls>ŚAT. BR. 14,9,1,18</ls> = <ls>BṚH. ĀR. UP. 6,2,15.</ls> <ls>AK. 2,7,31.</ls> {#i\dAhna^H#}
+<ls>ṚV. 4,33,11.</ls> {#na rAtryA\ ahna^ AsItprake\taH#}
+<ls n="ṚV.">10,129,2.</ls> {#sa\kfdahna^H#}
+<ls n="ṚV. 10,">93,16.</ls> {#trirahna^H#}
+<ls n="ṚV. 10,93,">5.</ls> <ls>ŚAT. BR. 11,5,1,1.</ls> <ls n="ŚAT. BR.">3,4,4,23.</ls> <ls>M. 11,223.</ls> <ls n="M. 11,">259.</ls> {#a/hani#}
+<ls>ṚV. 1,110,7.</ls> <ls n="ṚV. 1,">132,1.</ls>
+<ls>AV. 7,52,2.</ls>
+<ls>M. 4,51.</ls> <ls n="M.">6,68.</ls> <ls n="M.">11,182.</ls>
+<ls>N. 9,12</ls> ({#bahutiTe 'hani#}).
+<ls n="N.">15,1.</ls> <ls>R. 1,28,37.</ls> <ls n="R.">2,57,5.</ls> <ls>PAÑCAT. 95,23.</ls> {#ahanyahani#} {%jeden Tag%}
+<ls>M. 2,82.</ls> <ls n="M. 2,">132.</ls> <ls n="M.">5,30.</ls> <ls n="M.">8,419.</ls>
+<ls>ŚĀK. 153.</ls> {#a/hni#}
+<ls>AV. 6,110,3.</ls>
+<ls>MEGH. 90.</ls>
+<ls>KATHĀS. 24,124.</ls>
+<ls>AK. 3,5,22.</ls> {#a/han#} (gleichfalls loc.)
+<ls>ṚV. 4,16,11.</ls> <ls n="ṚV.">10,95,1.</ls>
+<ls>ŚAT. BR. 3,2,2,4.</ls> u. s. w. {#triraha^n#}
+<ls>ṚV. 9,86,18.</ls> {#sasmi\nnaha^n#}
+<ls n="ṚV.">10,95,11.</ls> du. {#a/hanI#} {%Tag und Nacht%}: {#vizu^rUpe\ aha^nI\ saM ca^rete#}
+<ls>ṚV. 1,123,7.</ls> <ls n="ṚV.">4,55,3.</ls> <ls n="ṚV.">5,82,8.</ls> <ls n="ṚV.">6,58,1.</ls> <ls n="ṚV.">10,39,12.</ls> <ls n="ṚV. 10,">76,1.</ls>
+<ls>AV. 13,2,3.</ls> — {#ahanI yuyuDe dve tu karRaH#}
+<ls>MBH. 1,301.</ls> {#rAtryahanI#}
+<ls>M. 1,66.</ls> <ls n="M. 1,">67.</ls> {#a/hnos#}
+<ls>ŚAT. BR. 11,5,5,13.</ls> {#a/hAni#}
+<ls>ṚV. 1,88,4.</ls> <ls n="ṚV.">10,18,5.</ls>
+<ls>VS. 11,17.</ls>
+<ls>ŚAT. BR. 1,1,2,21.</ls> <ls n="ŚAT. BR. 1,">3,5,9.</ls> <ls n="ŚAT. BR.">3,4,3,22.</ls>
+<ls>M. 11,157.</ls>
+<ls>YĀJÑ. 3,22.</ls>
+<ls>MBH. 1,300.</ls> {#aGAhAni#}
+<ls>M. 5,84.</ls> {#a/hA#} (wie von einem neutr. auf {#a#})
+<ls>ṚV. 1,50,7.</ls> <ls n="ṚV.">5,48,3.</ls> <ls n="ṚV.">10,12,4.</ls> {#a/haByas#}
+<ls n="ṚV.">7,87,1.</ls> {#a/haBis#}
+<ls n="ṚV. 7,">28,4.</ls> <ls n="ṚV.">10,10,9.</ls> {#a/hnAm#}
+<ls n="ṚV.">10,85,19.</ls> <ls n="ṚV. 10,">110,4.</ls> <ls>AV. 6,128,2.</ls> {#i\dA hyahnA^m#}
+<ls>ṚV. 4,31,1.</ls> {#i\dA ci\dahA^nAm#}
+<ls n="ṚV.">8,22,13.</ls> {#a/hasu#}
+<ls n="ṚV.">1,124,9.</ls> {#a/has#} nom. acc.: {#kenAha^rakarodru\ce#}
+<ls>AV. 10,2,16.</ls> {#ahariti hanti pApmAnaM jahAti ca#} (etym. Spielerei)
+<ls>ŚAT. BR. 14,8,6,4</ls> = <ls>BṚH. ĀR. UP. 5,5,3.</ls> {#aharahaH#} {%Tag für Tag, täglich%}: {#aha^raharjAyate mA\si mA^si#}
+<ls>ṚV. 10,52,2.</ls> <ls n="ṚV. 10,52,">3.</ls>
+<ls>ŚAT. BR. 2,3,2,3.</ls> <ls n="ŚAT. BR.">9,4,4,15.</ls>
+<ls>BṚH. ĀR. UP. 2,1,3.</ls>
+<ls>M. 2,182.</ls> <ls n="M.">3,182.</ls> <ls n="M.">8,306.</ls> <ls n="M.">11,248.</ls>
+<ls>VID. 186. 223.</ls> {#aharahaHkarma/n#}
+<ls>ŚAT. BR. 9,4,4,17.</ls> {#tadahas#} {%an demselben Tage%}
+<ls n="ŚAT. BR.">4,6,8,4.</ls> <ls n="ŚAT. BR. 4,6,8,">6.</ls> <ls n="ŚAT. BR.">6,7,4,14.</ls> <ls n="ŚAT. BR. 6,">8,1,5.</ls> {#yadahas#} {%an welchem Tage%}
+<ls n="ŚAT. BR.">2,1,4,1.</ls> <ls n="ŚAT. BR.">4,6,8,5.</ls> <ls n="ŚAT. BR.">6,7,4,13.</ls> {#ahoByAm#}
+<ls>H. 144.</ls> {#a/hoBis#}
+<ls>ṚV. 10,14,9.</ls>
+<ls>VS. 35,1.</ls>
+<ls>ŚAT. BR. 14,7,2,20</ls> (= <ls>BṚH. ĀR. UP. 4,4,16</ls>). <ls>ĀŚV. ŚR. 9,1.</ls> <ls>M. 3,46.</ls> <ls>PAÑCAT. 191,17.</ls> {#a/hoByas#}
+<ls>VS. 6,15.</ls> {#a/hassu#}
+<ls>ŚAT. BR. 10,2,5,15.</ls>
+<ls>AIT. BR. 6,18.</ls>
+<ls>MBH. 1,6059.</ls> {#aho#} (sic) {#ramyam#}
+<ls>KĀŚ.</ls> zu <ls>P. 8,2,68.</ls> — {%Tag in einer nach Tagen abgetheilten Opfer- oder Festfeier, Tagewerk, Tagesabschnitt%}; häufig in liturg. Büchern
+<ls>AIT. BR. 4,1. fgg.</ls>
+<ls>ĀŚV. ŚR. 10,2</ls> und oft. <ls>KĀTY. ŚR. 12,3,20.</ls> <ls n="KĀTY. ŚR. 12,">2,2.</ls> <ls n="KĀTY. ŚR. 12,">6,28.</ls> — der {%Tag%} person. ist einer der 8 <is>Vasu</is>
+<ls>MBH. 1,2582.</ls> <ls n="MBH. 1,">2584.</ls> <ls n="MBH. 1,">2587.</ls> — {#ahas#} {%Tag%} und {#sudina#} {%schöner Tag%} heissen zwei <is>Tīrtha</is>
+<ls>MBH. 3,6070.</ls> — Am Anfange einer Zusammens. immer nur {#ahas#} oder {#ahar (ahaHSeza#}
+<ls>M. 11,204.</ls> {#aharAgama#}
+<ls>BHAG. 8,18. 19.</ls> {#ahoratna#}
+<ls>KĀŚ.</ls> zu <ls>P. 8,2,68</ls>), am Ende {#ahas#} (vgl. {#anaha/r#} im <is>gaṇa</is> {#cArvAdi#}) und {#ahan#} (s. oben {#ekAhnA, aGAhAni#} und
+<ls>P. 6,3,110.</ls>
+<ls>VOP. 3,42</ls>), meist aber {#aha/#} <lex>m.</lex> (selten <lex>n.</lex> wie z. B. in {#puRyAha, BadrAha, sudinAha#}
+<ls>AK. 3,6,29</ls>) <ls>P. 2,4,29.</ls> <ls n="P.">5,4,91.</ls> <ls n="P.">6,4,145.</ls> <ls>VOP. 6,37.</ls> <ls n="VOP. 6,">56.</ls> <ls>AK. 3,6,12.</ls> {#za\qa\haH#}
+<ls>AV. 8,9,16.</ls> {#tryaho#} ({%ein Werk von 3 Tagen%}) {#'SvameDaH saMKyAtaH#}
+<ls>R. 1,13,42.</ls> {#tryaham#} u. s. w. acc.
+<ls>BṚH. ĀR. UP. 6,3,1. 4,13.</ls>
+<ls>M. 11,125.</ls> <ls n="M. 11,">148.</ls> <ls n="M. 11,">157.</ls> u.s.w. <ls>R. 2,34,33.</ls> {#tryaheRa#}
+u.s.w. <ls>M. 10,92.</ls> <ls n="M.">5,83.</ls> {#tryahAt#} u. s. w.
+<ls n="M.">5,64.</ls> <ls n="M.">8,108.</ls> {#tryahe#} u. s. w.
+<ls>PĀR. GṚHY. 2,3.</ls>
+<ls>M. 5,76.</ls> {#tadahe#}
 <ls>H. 374.</ls> ein solches comp. als letztes Glied eines <lex>adj.</lex> comp. erhält im <lex>f.</lex> {#A#}, s. {#anirdaSAha#} . Vgl. {#ityaha, puRyAha, BadrAha, yAvadaha, sudinAha, anvaham#} und {#pratyaham#} . Ueber die vierte Form {#ahna#} s. u. d. W.
 <LEND>

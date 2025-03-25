@@ -1,14 +1,14 @@
 <L>16234<pc>400-a<k1>instrument<k2>instrument
-<div n="lb"/>INSTRUMENT¦, {%s.%} (Tool, implement) {#yantraM, upakaraRaM, sADanaM, karmmasADanaM,#}
-<div n="lb"/>{#kAryyasADanaM, sAmagryaM -grI, dravyaM, upaskaraH, vilAlaH;#} ‘astronomical
-<div n="lb"/>instrument,’ {#jyotizayantraM#}. — (Means, instrumental cause)
-<div n="lb"/>{#kAraRaM, karaRaM, hetuH#} {%m.,%} {#nimittaM -ttakaM, nimittakAraRaM, prayojanaM#}. — 
-<div n="lb"/>(Agent, doer) {#kArakaH, karttA#} {%m.%} {#(rttf), sADakaH, prayojakaH, prayojyaH,#}
-<div n="lb"/>{#kAryyasADakaH, hetukaH, kArakahetuH#} {%m.%} — (Musical instrument) {#vAditraM,#}
-<div n="lb"/>{#vAdyaM, tUryyaM, AtodyaM, tAlitaM;#} ‘a wind instrument,’ {#SuziraM,#}
-<div n="lb"/>{#SuziravAdyaM, SaNKaH -NKaM;#} ‘stringed instrument,’ {#tataM, tantuvAdyaM;#}
-<div n="lb"/>‘instrument for martial music,’ {#raRavAdyaM;#} ‘sounded by
-<div n="lb"/>the mouth,’ {#muKavAdyaM;#} ‘covered with skin,’ {#carBmavAdyaM#}. {%See%}
-<div n="lb"/>DRUM. (Deed, writing) {#sADanapatraM, leKaH, leKapatraM, patraM, patrakaM,#}
-<div n="lb"/>{#leKyaM, leKyaprasaNgaH, karaRaM#}.
+INSTRUMENT¦, {%s.%} (Tool, implement) {#yantraM, upakaraRaM, sADanaM, karmmasADanaM,#}
+{#kAryyasADanaM, sAmagryaM -grI, dravyaM, upaskaraH, vilAlaH;#} ‘astronomical
+instrument,’ {#jyotizayantraM#}. — (Means, instrumental cause)
+{#kAraRaM, karaRaM, hetuH#} {%m.,%} {#nimittaM -ttakaM, nimittakAraRaM, prayojanaM#}. — 
+(Agent, doer) {#kArakaH, karttA#} {%m.%} {#(rttf), sADakaH, prayojakaH, prayojyaH,#}
+{#kAryyasADakaH, hetukaH, kArakahetuH#} {%m.%} — (Musical instrument) {#vAditraM,#}
+{#vAdyaM, tUryyaM, AtodyaM, tAlitaM;#} ‘a wind instrument,’ {#SuziraM,#}
+{#SuziravAdyaM, SaNKaH -NKaM;#} ‘stringed instrument,’ {#tataM, tantuvAdyaM;#}
+‘instrument for martial music,’ {#raRavAdyaM;#} ‘sounded by
+the mouth,’ {#muKavAdyaM;#} ‘covered with skin,’ {#carBmavAdyaM#}. {%See%}
+DRUM. (Deed, writing) {#sADanapatraM, leKaH, leKapatraM, patraM, patrakaM,#}
+{#leKyaM, leKyaprasaNgaH, karaRaM#}.
 <LEND>

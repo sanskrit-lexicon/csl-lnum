@@ -1,12 +1,12 @@
 <L>34411<pc>3-0741<k1>devaKAta<k2>devaKAta
-{#devaKAta#}¦ ({#deva + KAta#}) <lex>adj.</lex> {%von den Göttern gegraben%} d. i. {%von Natur ausgehöhlt%}: {#°vila#} 
-<ls>AK. 2, 3, 6.</ls> <lex>n.</lex> {%ein natürlicher Wasserbehälter%} 
-<ls>H. 1034.</ls> {#nadIzu devaKAtezu taqAgezu saritsu ca . snAnaM samAcaret#} 
-<ls>M. 4, 203.</ls> 
-<ls>YĀJÑ. 1, 159.</ls> {#snAyIta devaKAtezu gaNgAhradasaritsu ca#} 
-<ls>MĀRK. P. 35, 32.</ls> {#°tIrTa#} N. pr. eines <is>Tīrtha</is> 
-<ls>ŚIVA-P.</ls> in <ls>Verz. d. Oxf. H. 67,b,1.</ls> {#devaKAtA#} <lex>f.</lex> ({#saMjYAyAm#}) 
-<ls>P. 6, 2, 148,</ls> 
-<ls>Sch.</ls> {#devaKAtaka#} <lex>n.</lex> = {#devaKAta#} <lex>n.</lex> 
-<ls>AK. 1, 2, 3, 27.</ls>
+{#devaKAta#}¦ ({#deva + KAta#}) <lex>adj.</lex> {%von den Göttern gegraben%} <ab>d. i.</ab> {%von Natur ausgehöhlt%}: {#°vila#}
+<ls>AK. 2,3,6.</ls> <lex>n.</lex> {%ein natürlicher Wasserbehälter%}
+<ls>H. 1034.</ls> {#nadIzu devaKAtezu taqAgezu saritsu ca . snAnaM samAcaret#}
+<ls>M. 4,203.</ls>
+<ls>YĀJÑ. 1,159.</ls> {#snAyIta devaKAtezu gaNgAhradasaritsu ca#}
+<ls>MĀRK. P. 35,32.</ls> {#°tIrTa#} N. pr. eines <is>Tīrtha</is>
+<ls>ŚIVA-P.</ls> in <ls>Verz. d. Oxf. H. 67,b,1.</ls> {#devaKAtA#} <lex>f.</lex> ({#saMjYAyAm#})
+<ls>P. 6,2,148</ls>, <ls>Sch.</ls>
+{#devaKAtaka#} <lex>n.</lex> = {#devaKAta#} <lex>n.</lex>
+<ls>AK. 1,2,3,27.</ls>
 <LEND>

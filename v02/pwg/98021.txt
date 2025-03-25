@@ -1,61 +1,61 @@
 <L>98021<pc>7-0086<k1>SayyA<k2>SayyA/
-{#SayyA/#}¦ (von 2. {#SI#}) <lex>f.</lex> 
-<div n="1"> 1) {%Lager, Ruhebett%} 
-<ls>P. 3, 3, 99.</ls> 
-<ls>AK. 2, 6, 3, 39. 3, 4, 19, 133.</ls> 
-<ls>H. 682.</ls> 
-<ls>an. 2, 384.</ls> 
-<ls>MED. y. 57.</ls> <ls>HĀR. 172.</ls> <ls>HALĀY. 2, 152.</ls> <ls>ŚĀṄKH. GṚHY. 2, 14. 4, 15.</ls> <ls>KAUŚ. 141.</ls> {#°praBaYjana#} 
-<ls>ṢAḌV. BR.</ls> in <ls>Ind. St. 1, 39, 2 v. u.</ls> <ls>M. 3, 107. 4, 29. 202. 232. 250. 9, 17. 10, 56. 11, 165.</ls> {#mfdvI#} 
-<ls>SUŚR. 2, 35, 7.</ls> {#puzpamayI#} 
-<ls>ŚĀK. 74.</ls> {#°prAntavivartana#} 
-<ls>132.</ls> {#dAntA rukmaparicCadA#} 
-<ls>BHĀG. P. 3, 33, 16.</ls> {#tfRAni#} 
-<ls>Spr. 2727.</ls> {#SAdvalam#} 
-<ls>2958.</ls> {#SElaSilA#} 
-<ls>2959.</ls> <ls>VARĀH. BṚH. S. 46, 22. 60, 14. 74, 1. 78, 4. 79, 8. 88, 12.</ls> {#°dAna#} 
-<ls>Verz. d. Oxf. H. 35,b,15. 272,b, No. 644. 277,b,3.</ls> {#SayyAsanAramBa#} 
-<ls>86,b,32.</ls> {#SayyAsanam#} 
-<ls>M. 2, 198.</ls> {#°Boga#} 
-<ls>Verz. d. B. H. No. 590.</ls> {#mAtuH SayyAntare lInaH#} 
-<ls>KĀM. NĪTIS. 7, 51.</ls> {#SaMyyAsane 'DyAcarite SreyasA na samAviSet#} 
-<ls>M. 2, 119.</ls> {#SayyAM vfkzadalEH kftAM saMviveSa#} 
-<ls>R. 2, 46, 14.</ls> {#SayyAmaDizWA#} 
-<ls>VP. 3, 11, 108.</ls> {#SayyAmimAM vaDUm . Aropaya#} 
-<ls>KATHĀS. 17, 87.</ls> {#BavyaSayyAyAmArUQaH suzvApa#} 
-<ls>PAÑCAT. 138, 11.</ls> {#muYca SayyAm#} 
-<ls>RAGH. 5, 66.</ls> {#SayyotsaNga#} 
-<ls>MEGH. 91.</ls> {#suKA SayyA tvadarTamupakalpitA#} 
-<ls>R. 2, 51, 2. 86, 3.</ls> {#raTaM svAstIrRaM suKaSayyayA#} 
-<ls>?7, 46, 4. KATHĀS. 22, 6. VET. in LA. (III) 9, 1.</ls> {#parRa°, tfRa°#} 
-<ls>R. GORR. 2, 28, 20.</ls> {#veRu°#} 
-<ls>5, 13, 47.</ls>
+{#SayyA/#}¦ (von 2. {#SI#}) <lex>f.</lex>
+<div n="1"> 1) {%Lager, Ruhebett%}
+<ls>P. 3,3,99.</ls>
+<ls>AK. 2,6,3,39.</ls> <ls n="AK.">3,4,19,133.</ls>
+<ls>H. 682.</ls>
+<ls>an. 2,384.</ls>
+<ls>MED. y. 57.</ls> <ls>HĀR. 172.</ls> <ls>HALĀY. 2,152.</ls> <ls>ŚĀṄKH. GṚHY. 2,14. 4,15.</ls> <ls>KAUŚ. 141.</ls> {#°praBaYjana#}
+<ls>ṢAḌV. BR.</ls> in <ls>Ind. St. 1,39,2</ls> v. u. <ls>M. 3,107.</ls> <ls n="M.">4,29.</ls> <ls n="M. 4,">202.</ls> <ls n="M. 4,">232.</ls> <ls n="M. 4,">250.</ls> <ls n="M.">9,17.</ls> <ls n="M.">10,56.</ls> <ls n="M.">11,165.</ls> {#mfdvI#}
+<ls>SUŚR. 2,35,7.</ls> {#puzpamayI#}
+<ls>ŚĀK. 74.</ls> {#°prAntavivartana#}
+<ls n="ŚĀK.">132.</ls> {#dAntA rukmaparicCadA#}
+<ls>BHĀG. P. 3,33,16.</ls> {#tfRAni#}
+<ls>Spr. 2727.</ls> {#SAdvalam#}
+<ls n="Spr.">2958.</ls> {#SElaSilA#}
+<ls n="Spr.">2959.</ls> <ls>VARĀH. BṚH. S. 46,22. 60,14. 74,1. 78,4. 79,8. 88,12.</ls> {#°dAna#}
+<ls>Verz. d. Oxf. H. 35,b,15. 272,b, No. 644. 277,b,3.</ls> {#SayyAsanAramBa#}
+<ls n="Verz. d. Oxf. H.">86,b,32.</ls> {#SayyAsanam#}
+<ls>M. 2,198.</ls> {#°Boga#}
+<ls>Verz. d. B. H. No. 590.</ls> {#mAtuH SayyAntare lInaH#}
+<ls>KĀM. NĪTIS. 7,51.</ls> {#SaMyyAsane 'DyAcarite SreyasA na samAviSet#}
+<ls>M. 2,119.</ls> {#SayyAM vfkzadalEH kftAM saMviveSa#}
+<ls>R. 2,46,14.</ls> {#SayyAmaDizWA#}
+<ls>VP. 3,11,108.</ls> {#SayyAmimAM vaDUm . Aropaya#}
+<ls>KATHĀS. 17,87.</ls> {#BavyaSayyAyAmArUQaH suzvApa#}
+<ls>PAÑCAT. 138,11.</ls> {#muYca SayyAm#}
+<ls>RAGH. 5,66.</ls> {#SayyotsaNga#}
+<ls>MEGH. 91.</ls> {#suKA SayyA tvadarTamupakalpitA#}
+<ls>R. 2,51,2.</ls> <ls n="R. 2,">86,3.</ls> {#raTaM svAstIrRaM suKaSayyayA#}
+<ls n="R.">7,46,4.</ls> <ls>KATHĀS. 22,6.</ls> <ls>VET. in LA. (III) 9,1.</ls> {#parRa°, tfRa°#}
+<ls>R. GORR. 2,28,20.</ls> {#veRu°#}
+<ls n="R. GORR.">5,13,47.</ls>
 [Page7-0087]
-{#pAMsu°#} 
-<ls>SUŚR. 2, 158, 6.</ls> {#Seza°#} 
-<ls>RĀJA-TAR. 5, 355.</ls> {#ahIndra°#} 
-<ls>BHĀG. P. 3, 32, 4.</ls> {#tadaNka°#} 
-<ls>RAGH. 5, 7.</ls> {#arizwa°#} {%das Lager einer Wöchnerin%} 
-<ls>3, 15.</ls> {#sidDAntaSayyAmaDiSayya#} 
-<ls>SĀH. D. 31, 10.</ls> am Ende eines <lex>adj.</lex> comp. (f. {#A): aNka°#} 
-<ls>KUMĀRAS. 7, 65.</ls> {#BUmi°#} 
-<ls>R. 3, 52, 41. 5, 57, 11.</ls> {#manaHSilAguha°#} ({#vAnara#}) 
-<ls>4, 37, 6.</ls> {#a°#} 
-<ls>KATHĀS. 17, 87.</ls> 
-<div n="1">— 2) {%das Liegen, Ruhen, Schlafen%} 
-<ls>VOP. 26, 186.</ls> 
-<ls>KĀTY. ŚR. 4, 15, 31.</ls> 
-<ls>M. 7, 220.</ls> 
-<ls>BHAG. 11, 42.</ls> {#na SayyAsanaBogezu ratiM vindati#} 
-<ls>MBH. 3, 2107.</ls> 
-<ls>SUŚR. 1, 69, 21. 2, 187, 5.</ls> {#pfTakCayyA nArIRAm#} 
-<ls>Spr. (II) 878.</ls> {#yAM tAM vane duHKaSayyAmavAtsIt - Apnotu taM duHKatarAmanarTAmantyAM SayyAM DArtarAzwraH parAsuH#} 
-<ls>MBH. 5, 1819.</ls> 
-<div n="1">— 3) = {#gumPana#} 
-<ls>MED. y. 57.</ls> = {#SabdagumPa#} 
-<ls>H. an.</ls> = {#granTasya nirmitiH#} 
-<ls>HĀR. 146.</ls> Bez. eines <is>Śabdālaṃkāra</is> (neben {#gumPanA#}) 
-<ls>Verz. d. Oxf. H. 208,a, No. 489.</ls> 
-<div n="v">— Vgl. {#aDaHSayya, aDaHSayyA, garBa°#} (auch 
-<ls>KATHĀS. 34, 63</ls>), {#jala°, parRa°, puzpa°, BU°, BUmi°, mahA°, rAja°, vilAsa°, vIra°, Sara°, samAnaSayya#} und {#SAyyika#} .
+{#pAMsu°#}
+<ls>SUŚR. 2,158,6.</ls> {#Seza°#}
+<ls>RĀJA-TAR. 5,355.</ls> {#ahIndra°#}
+<ls>BHĀG. P. 3,32,4.</ls> {#tadaNka°#}
+<ls>RAGH. 5,7.</ls> {#arizwa°#} {%das Lager einer Wöchnerin%}
+<ls n="RAGH.">3,15.</ls> {#sidDAntaSayyAmaDiSayya#}
+<ls>SĀH. D. 31,10.</ls> am Ende eines <lex>adj.</lex> comp. (f. {#A): aNka°#}
+<ls>KUMĀRAS. 7,65.</ls> {#BUmi°#}
+<ls>R. 3,52,41.</ls> <ls n="R.">5,57,11.</ls> {#manaHSilAguha°#} ({#vAnara#})
+<ls n="R.">4,37,6.</ls> {#a°#}
+<ls>KATHĀS. 17,87.</ls>
+<div n="1">— 2) {%das Liegen, Ruhen, Schlafen%}
+<ls>VOP. 26,186.</ls>
+<ls>KĀTY. ŚR. 4,15,31.</ls>
+<ls>M. 7,220.</ls>
+<ls>BHAG. 11,42.</ls> {#na SayyAsanaBogezu ratiM vindati#}
+<ls>MBH. 3,2107.</ls>
+<ls>SUŚR. 1,69,21.</ls> <ls n="SUŚR.">2,187,5.</ls> {#pfTakCayyA nArIRAm#}
+<ls>Spr. (II) 878.</ls> {#yAM tAM vane duHKaSayyAmavAtsIt — Apnotu taM duHKatarAmanarTAmantyAM SayyAM DArtarAzwraH parAsuH#}
+<ls>MBH. 5,1819.</ls>
+<div n="1">— 3) = {#gumPana#}
+<ls>MED. y. 57.</ls> = {#SabdagumPa#}
+<ls>H. an.</ls> = {#granTasya nirmitiH#}
+<ls>HĀR. 146.</ls> Bez. eines <is>Śabdālaṃkāra</is> (neben {#gumPanA#})
+<ls>Verz. d. Oxf. H. 208,a, No. 489.</ls>
+<div n="v">— Vgl. {#aDaHSayya, aDaHSayyA, garBa°#} (auch
+<ls>KATHĀS. 34,63</ls>), {#jala°, parRa°, puzpa°, BU°, BUmi°, mahA°, rAja°, vilAsa°, vIra°, Sara°, samAnaSayya#} und {#SAyyika#} .
 <LEND>

@@ -1,9 +1,9 @@
 <L>19429<pc>603<k1>rogue<k2>rogue
-<div n="lb"/>{@ROGUE:@}¦ <div n="1">(1) {#DUrta#} (f. {#rtA#}), {%r. s live by snares:%}
-<div n="lb"/>{#jAlopajIvinI DUrtAH,#} K. s. xxiv. 199.; </div><div n="1">(2) {#vaYcaka#}
-<div n="lb"/>(f. {#YcikA#} = cheat), <div n="xe">{%where is the r. now:%}</div> <div n="xs">{#sa #}
-<div n="lb"/>{# vaYcakaH kvAste,#}</div> <ls>H.</ls> ; </div><div n="1">(3) {#SaWa#} (f. {#WA#}), <div n="xe">{%hypocrites%}
-<div n="lb"/>{%and r. s:%}</div> <div n="xs">{#vEqAlavratikAn SaWAn,#}</div> V.p. iii. 18. 99.;</div>
-<div n="lb"/><div n="1">(4) {#Kala#} (f. {#lA#}) (=mischievous); </div><div n="1">(5) {#durjanaH#}
-<div n="lb"/>(= bad man).</div>
+{@ROGUE:@}¦ <div n="1">(1) {#DUrta#} (f. {#rtA#}), {%r. s live by snares:%}
+{#jAlopajIvinI DUrtAH,#} K. s. xxiv. 199.; </div><div n="1">(2) {#vaYcaka#}
+(f. {#YcikA#} = cheat), <div n="xe">{%where is the r. now:%}</div> <div n="xs">{#sa #}
+{# vaYcakaH kvAste,#}</div> <ls>H.</ls> ; </div><div n="1">(3) {#SaWa#} (f. {#WA#}), <div n="xe">{%hypocrites%}
+{%and r. s:%}</div> <div n="xs">{#vEqAlavratikAn SaWAn,#}</div> V.p. iii. 18. 99.;</div>
+<div n="1">(4) {#Kala#} (f. {#lA#}) (=mischievous); </div><div n="1">(5) {#durjanaH#}
+(= bad man).</div>
 <LEND>

@@ -1,12 +1,9 @@
 <L>9509<pc>351,1<k1>naktam<k2>naktam
-{#naktam#}¦ {%naktam%} <ab>adv.</ab> (<ab>ac.</ab> de l'inus. {%nakta)%} pendant la nuit.
+{#naktam#}¦ {%naktam%} <ab>adv.</ab> (<ab>ac.</ab> de l'<ab>inus.</ab> {%nakta)%} pendant la nuit.
 || <ab>Lat.</ab> noctu [nox]; <ab>gr.</ab>
-<lang n="greek"></lang> <ab>lith.</ab> naktis; <ab>cf.</ab> {%niś.%}
-
+<lang n="greek">νυϰτός (νύξ)</lang>; <ab>lith.</ab> naktis; <ab>cf.</ab> {%niś.%}
 <P>{%naktacārin%} et {%naktañcara%} <ab>a.</ab> {%(car)%} qui va la nuit.
 -- <ab>S.</ab> <ab>m.</ab> chat; || chouette; || voleur; || <s1 slp1="rAkzasa">rākṣasa</s1>. || Bdellium, arbre.
-
 <P>{%naktamāla%} <ab>m.</ab> gadelupa arborea, <ab>bot.</ab>
-
 <P>{%naktamukhā%} <ab>f.</ab> {%(mukha)%} la nuit. 
 <LEND>

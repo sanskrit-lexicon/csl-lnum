@@ -1,7 +1,7 @@
 <L>21023<pc>553-b<k1>opponent<k2>opponent
-<div n="lb"/>OPPONENT¦, {%s.%} {#pratiroDI#} {%m.%} {#(n), viroDI#} {%m.,%} {#vErI#} {%m.,%} {#SatruH#} {%m.,%} {#ariH#} {%m.,%}
-<div n="lb"/>{#pratiyogI#} {%m.,%} {#pratirodDA#} {%m.%} {#(dDf), pratiroDakaH, pratibanDakaH, pratiyodDA#} {%m.%}
-<div n="lb"/>{#(dDf), pratipakzaH, aBiyAtI#} {%m.%} {#(n), vijigIzuH#} {%m.%} — (In controversy)
-<div n="lb"/>{#vivAdI#} {%m.%} {#(n), pUrvvavAdI#} {%m.,%} {#agravAdI#} {%m.,%} {#prativAdI#} {%m.,%} {#uttaravAdI#} {%m.,%}
-<div n="lb"/>{#pUrvvapakzI#} {%m.,%} {#pratipakzI#} {%m.,%} {#vAdI#} {%m.%}
+OPPONENT¦, {%s.%} {#pratiroDI#} {%m.%} {#(n), viroDI#} {%m.,%} {#vErI#} {%m.,%} {#SatruH#} {%m.,%} {#ariH#} {%m.,%}
+{#pratiyogI#} {%m.,%} {#pratirodDA#} {%m.%} {#(dDf), pratiroDakaH, pratibanDakaH, pratiyodDA#} {%m.%}
+{#(dDf), pratipakzaH, aBiyAtI#} {%m.%} {#(n), vijigIzuH#} {%m.%} — (In controversy)
+{#vivAdI#} {%m.%} {#(n), pUrvvavAdI#} {%m.,%} {#agravAdI#} {%m.,%} {#prativAdI#} {%m.,%} {#uttaravAdI#} {%m.,%}
+{#pUrvvapakzI#} {%m.,%} {#pratipakzI#} {%m.,%} {#vAdI#} {%m.%}
 <LEND>

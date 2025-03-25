@@ -1,9 +1,9 @@
 <L>10264<pc>324<k1>greatness<k2>greatness
-<div n="lb"/>{@GREATNESS:@}¦ <div n="1">(1) {#mahattvam,#} <div n="xe">{%for accession of g.:%}</div> <div n="xs">{#mahattva-#}
-<div n="lb"/>{#yogAya,#}</div> Ki. iii. 23.; </div><div n="1">(2) {#mahiman#} (m.), <div n="xe">{%the chief%}
-<div n="lb"/>{%of devotees domineers with her g.:%}</div> <div n="xs">{#praBavati hi mahimnA #}
-<div n="lb"/>{# svena yogeSvarIyam,#}</div> Ma. x. 8.: v. Eminence,
-<div n="lb"/>grandeur; </div><div n="1">(3) {#gurutvam#} (= importance: q.v.);</div>
-<div n="lb"/><div n="1">(4) {#udAratA#} (= magnanimity: q.v.); </div><div n="1">(5)
-<div n="lb"/>{#vipulatA#} (= largeness: q.v.).</div>
+{@GREATNESS:@}¦ <div n="1">(1) {#mahattvam,#} <div n="xe">{%for accession of g.:%}</div> <div n="xs">{#mahattva-#}
+{#yogAya,#}</div> Ki. iii. 23.; </div><div n="1">(2) {#mahiman#} (m.), <div n="xe">{%the chief%}
+{%of devotees domineers with her g.:%}</div> <div n="xs">{#praBavati hi mahimnA #}
+{# svena yogeSvarIyam,#}</div> Ma. x. 8.: v. Eminence,
+grandeur; </div><div n="1">(3) {#gurutvam#} (= importance: q.v.);</div>
+<div n="1">(4) {#udAratA#} (= magnanimity: q.v.); </div><div n="1">(5)
+{#vipulatA#} (= largeness: q.v.).</div>
 <LEND>

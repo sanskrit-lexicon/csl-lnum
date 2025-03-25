@@ -1,12 +1,12 @@
 <L>2393<pc>051-b<k1>birth<k2>birth
-<div n="lb"/>BIRTH¦, {%s.%} {#janma#} {%n.%} {#(n), jAtiH#} {%f.,%} {#janiH#} {%f.,%} {#jananaM, janimA#} {%m.%} {#(n), utpattiH#} {%f.,%}
-<div n="lb"/>{#udBavaH, samBavaH, BavaH, januH#} {%n.%} ({#s#}). — (The act of bringing forth)
-<div n="lb"/>{#prasavanaM, prasavaH, utpAdanaM, prasUtiH#} {%f.%} — (Extraction, lineage) {#vaMSaH,#}
-<div n="lb"/>{#kulaM, anvayaH, jAtiH#} {%f.%} — (Rise, origin) {#yoniH#} {%m. f.,%} {#mUlaM, udBavaH#}.
-<div n="lb"/> — (Rank, high birth) {#kulInatA, kOlInaM;#} ‘of good birth,’
-<div n="lb"/>{#kulInaH -nA -naM, kulakaH -kA -kaM, kOleyaH -yI -yaM, sujanmA -nmA -nma#}
-<div n="lb"/>{#(n), mahAkulaprasUtaH -tA -taM, mahAkulaH -lA -laM;#} ‘pride of birth,’
-<div n="lb"/>{#kulABimAnaM;#} ‘blind from birth,’ {#janmAnDaH -nDA -nDaM, jAtyanDaH#}
-<div n="lb"/>{#nDA -nDaM#}. — (To give birth to) {#su#} (c. 1. {#savati,#} c. 2. {#sOti, sotuM#}),
-<div n="lb"/>{#prasu, jan#} in caus. {#(janayati -yituM), saYjan#}.
+BIRTH¦, {%s.%} {#janma#} {%n.%} {#(n), jAtiH#} {%f.,%} {#janiH#} {%f.,%} {#jananaM, janimA#} {%m.%} {#(n), utpattiH#} {%f.,%}
+{#udBavaH, samBavaH, BavaH, januH#} {%n.%} ({#s#}). — (The act of bringing forth)
+{#prasavanaM, prasavaH, utpAdanaM, prasUtiH#} {%f.%} — (Extraction, lineage) {#vaMSaH,#}
+{#kulaM, anvayaH, jAtiH#} {%f.%} — (Rise, origin) {#yoniH#} {%m. f.,%} {#mUlaM, udBavaH#}.
+ — (Rank, high birth) {#kulInatA, kOlInaM;#} ‘of good birth,’
+{#kulInaH -nA -naM, kulakaH -kA -kaM, kOleyaH -yI -yaM, sujanmA -nmA -nma#}
+{#(n), mahAkulaprasUtaH -tA -taM, mahAkulaH -lA -laM;#} ‘pride of birth,’
+{#kulABimAnaM;#} ‘blind from birth,’ {#janmAnDaH -nDA -nDaM, jAtyanDaH#}
+{#nDA -nDaM#}. — (To give birth to) {#su#} (c. 1. {#savati,#} c. 2. {#sOti, sotuM#}),
+{#prasu, jan#} in caus. {#(janayati -yituM), saYjan#}.
 <LEND>

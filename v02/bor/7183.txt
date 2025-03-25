@@ -1,7 +1,7 @@
 <L>7183<pc>228<k1>eastern<k2>eastern
-<div n="lb"/>{@EASTERN:@}¦ <div n="1">(1) {#pUrvaH#} ({#rvA, rvaM#}), <div n="xe">{%the e. and western%}
-<div n="lb"/>{%oceans:%}</div> <div n="xs">{#pUrvAparO toyaniDI,#}</div> Ku.; </div><div n="1">(2) {#prAcyaH#} ({#cyA, #}
-<div n="lb"/>{# cyaM#}), <div n="xe">{%e. gate:%}</div> <div n="xs">{#prAcyaM dvAram,#}</div> B.; <div n="xe">{%the e. s:%}</div> <div n="xs">{#prAcyAH,#}</div>
-<div n="lb"/>Mah.; </div><div n="1">(3) {#pOrastya#} (f. {#styA#}), <div n="xe">{%e. regions:%}</div> <div n="xs">{#pOra-#}
-<div n="lb"/>{#styA janapadAH,#}</div> R.</div>
+{@EASTERN:@}¦ <div n="1">(1) {#pUrvaH#} ({#rvA, rvaM#}), <div n="xe">{%the e. and western%}
+{%oceans:%}</div> <div n="xs">{#pUrvAparO toyaniDI,#}</div> Ku.; </div><div n="1">(2) {#prAcyaH#} ({#cyA, #}
+{# cyaM#}), <div n="xe">{%e. gate:%}</div> <div n="xs">{#prAcyaM dvAram,#}</div> B.; <div n="xe">{%the e. s:%}</div> <div n="xs">{#prAcyAH,#}</div>
+Mah.; </div><div n="1">(3) {#pOrastya#} (f. {#styA#}), <div n="xe">{%e. regions:%}</div> <div n="xs">{#pOra-#}
+{#styA janapadAH,#}</div> R.</div>
 <LEND>

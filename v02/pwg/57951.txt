@@ -1,42 +1,42 @@
 <L>57951<pc>5-0586<k1>mardana<k2>mardana
-{#mardana#}¦ (wie eben) 
-<div n="1"> 1) nom. ag. (f. {#I)#} dass.: {#ditijasaMGAnAm#} 
-<ls>MBH. 13, 971.</ls> {#ari°#} 
-<ls>1, 2487. 3, 11944. 12039. 15679. 13, 796. 798. N. 12, 77.</ls> {#Satru°#} 
-<ls>KATHĀS. 42, 125.</ls> {#sarvakzatriya°#} 
-<ls>MBH. 1, 5125.</ls> {#kzatriya°#} 
-<ls>7, 3652. 5060.</ls> {#amitrabala°#} 
-<ls>R. 2, 93, 23 (102, 25 GORR.).</ls> {#devadAnava°#} 
-<ls>4, 61, 46.</ls> {#dEtyadAnava°#} 
-<ls>N. 4, 11.</ls> {#vIra°#} 
-<ls>BHĀG. P. 8, 11, 10.</ls> {#para°#} 
-<ls>12.</ls> {#kAliya°#} 
-<ls>PAÑCAR. 3, 14, 35.</ls> {#kula°#} 
-<ls>KATHĀS. 70, 104.</ls> {#rAhuM candrArkamardanam#} {%angreifend, plagend, quälend%} 
-<ls>MBH. 1, 2539.</ls> {#(graham) arkendumardanam#} 
-<ls>2676.</ls> {#samiti°#} {%im Kampfe die Feinde hart mitnehmend%} 
-<ls>9, 3063.</ls> {#samara°#} 
-<ls>13, 1195.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. pr. eines Fürsten der <is>Vidyādhara</is> 
-<ls>KATHĀS. 48, 78.</ls> 
-<div n="1">— 3) <lex>n.</lex> {%das Zerdrücken, Zerreiben, Vernichten; Drücken, Reiben%}: = {#prEza#} 
-<ls>AK. 3, 4, 29, 221.</ls> {#kaRwakAnAm#} 
-<ls>P. 3, 3, 116,</ls> 
-<ls>Sch.</ls> {#durgakaRwakamardanEH#} (so ist zu lesen) 
-<ls>Spr. 4463, v. l.</ls> {#ikzudaRqAstilAH SUdrAH kAntA kAYcanamedinI . candanaM tAmbUlaM mardanaM guRavarDanam ..#} 
-<ls>VṚDDHA-CĀṆ. 9, 13.</ls> {#Kala = DAnyAdimardanasTAna#} 
-<ls>KULL.</ls> zu <ls>M. 11, 17.</ls> {#yavaKala = yavamardana#} 
-<ls>Schol.</ls> zu <ls>ŚĀṄKH. ŚR. 14, 40, 15.</ls> {#tezAm - AsIdveRUnAmiva mardanam#} 
-<ls>BHĀG. P. 3, 4, 2.</ls> 
-<ls>GĪT. 2, 6.</ls> {#ari°#} 
-<ls>KATHĀS. 30, 87.</ls> {#pararAzwrARAm#} {%des Verwüsten%} 
-<ls>MBH. 12, 2463.</ls> {#hima°#} {%das Vernichten —, Auflösen des Schnees%} 
-<ls>BHĀG. P. 3, 26. 40.</ls> in der Astr. {%Reibung%} so v. a. {%Kampf, Opposition%} (der Planeten) 
-<ls>VARĀH. BṚH. S. 5, 49. 16, 40. 17, 3.</ls> {%das Reiben, Frottiren; Einreiben, Einsalben%} 
-<ls>AK.3,3,22.</ls> <ls>Spr. 775.</ls> <ls>Verz. d. Oxf. H. 320,a,8.</ls> {#keSa°#} 
-<ls>217,a,14.</ls> {#tElAdinA SiraHsahitadehamardanam#} 
-<ls>KULL</ls> zu <ls>M. 2, 178.</ls> {#aByaNga°#} 
-<ls>PAÑCAT. 238. 7.</ls> {#tElakajjalamardanEH#} 
-<ls>KATHĀS. 4, 57.</ls> 
+{#mardana#}¦ (wie eben)
+<div n="1"> 1) nom. ag. (f. {#I#}) dass.: {#ditijasaMGAnAm#}
+<ls>MBH. 13,971.</ls> {#ari°#}
+<ls n="MBH.">1,2487.</ls> <ls n="MBH.">3,11944.</ls> <ls n="MBH. 3,">12039.</ls> <ls n="MBH. 3,">15679.</ls> <ls n="MBH.">13,796.</ls> <ls n="MBH. 13,">798.</ls> <ls>N. 12,77.</ls> {#Satru°#}
+<ls>KATHĀS. 42,125.</ls> {#sarvakzatriya°#}
+<ls>MBH. 1,5125.</ls> {#kzatriya°#}
+<ls n="MBH.">7,3652.</ls> <ls n="MBH. 7,">5060.</ls> {#amitrabala°#}
+<ls>R. 2,93,23</ls> (<ls n="GORR. 2,">102,25</ls> <ls>GORR.</ls>). {#devadAnava°#}
+<ls n="R.">4,61,46.</ls> {#dEtyadAnava°#}
+<ls>N. 4,11.</ls> {#vIra°#}
+<ls>BHĀG. P. 8,11,10.</ls> {#para°#}
+<ls n="BHĀG. P. 8,11,">12.</ls> {#kAliya°#}
+<ls>PAÑCAR. 3,14,35.</ls> {#kula°#}
+<ls>KATHĀS. 70,104.</ls> {#rAhuM candrArkamardanam#} {%angreifend, plagend, quälend%}
+<ls>MBH. 1,2539.</ls> {#(graham) arkendumardanam#}
+<ls n="MBH. 1,">2676.</ls> {#samiti°#} {%im Kampfe die Feinde hart mitnehmend%}
+<ls n="MBH.">9,3063.</ls> {#samara°#}
+<ls n="MBH.">13,1195.</ls>
+<div n="1">— 2) <lex>m.</lex> N. pr. eines Fürsten der <is>Vidyādhara</is>
+<ls>KATHĀS. 48,78.</ls>
+<div n="1">— 3) <lex>n.</lex> {%das Zerdrücken, Zerreiben, Vernichten; Drücken, Reiben%}: = {#prEza#}
+<ls>AK. 3,4,29,221.</ls> {#kaRwakAnAm#}
+<ls>P. 3,3,116</ls>, <ls>Sch.</ls>
+{#durgakaRwakamardanEH#} (so ist zu lesen)
+<ls>Spr. 4463, v. l.</ls> {#ikzudaRqAstilAH SUdrAH kAntA kAYcanamedinI . candanaM tAmbUlaM mardanaM guRavarDanam ..#}
+<ls>VṚDDHA-CĀṆ. 9,13.</ls> {#Kala = DAnyAdimardanasTAna#}
+<ls>KULL.</ls> zu <ls>M. 11,17.</ls> {#yavaKala = yavamardana#}
+<ls>Schol.</ls> zu <ls>ŚĀṄKH. ŚR. 14,40,15.</ls> {#tezAm — AsIdveRUnAmiva mardanam#}
+<ls>BHĀG. P. 3,4,2.</ls>
+<ls>GĪT. 2,6.</ls> {#ari°#}
+<ls>KATHĀS. 30,87.</ls> {#pararAzwrARAm#} {%des Verwüsten%}
+<ls>MBH. 12,2463.</ls> {#hima°#} {%das Vernichten —, Auflösen des Schnees%}
+<ls>BHĀG. P. 3,26,40.</ls> in der Astr. {%Reibung%} so v. a. {%Kampf, Opposition%} (der Planeten)
+<ls>VARĀH. BṚH. S. 5,49. 16,40. 17,3.</ls> {%das Reiben, Frottiren; Einreiben, Einsalben%}
+<ls>AK. 3,3,22.</ls> <ls>Spr. 775.</ls> <ls>Verz. d. Oxf. H. 320,a,8.</ls> {#keSa°#}
+<ls n="Verz. d. Oxf. H.">217,a,14.</ls> {#tElAdinA SiraHsahitadehamardanam#}
+<ls>KULL</ls> zu <ls>M. 2,178.</ls> {#aByaNga°#}
+<ls>PAÑCAT. 238. 7.</ls> {#tElakajjalamardanEH#}
+<ls>KATHĀS. 4,57.</ls>
 <div n="v">— Vgl. {#ari°, ahimardanI, kAmamardana, kAsa°, graha°, pAMsu°, maDvamuKa°#} .
 <LEND>

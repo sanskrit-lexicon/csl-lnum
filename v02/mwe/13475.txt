@@ -1,4 +1,4 @@
 <L>13475<pc>325-a<k1>guild-hall<k2>guild-hall
-<div n="lb"/>GUILD-HALL¦, {%s.%} {#sahakAriRAM bARijajanAnAM samAgamaSAlA, nigamaSAlA,#}
-<div n="lb"/>{#nagarakAryyasampAdanArTaM mahAcatvaraM#}.
+GUILD-HALL¦, {%s.%} {#sahakAriRAM bARijajanAnAM samAgamaSAlA, nigamaSAlA,#}
+{#nagarakAryyasampAdanArTaM mahAcatvaraM#}.
 <LEND>

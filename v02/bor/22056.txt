@@ -1,7 +1,7 @@
 <L>22056<pc>696<k1>swelling<k2>swelling
-<div n="lb"/>{@SWELLING:@}¦ <div n="I">I Lit.: {#sPItiH:#} v. Also increase,
-<div n="lb"/>inflation. </div><div n="I">II Of the body: </div><div n="1">(1) {#SvayaTuH,#} <div n="xe">{%to%}
-<div n="lb"/>{%produce a s.:%}</div> <div n="xs">{#SvayaTuM janayati,#}</div> Si.; {%very deep s.:%}
-<div n="lb"/>{#pragAQaH SvayaTuH,#} Sr.; </div><div n="1">(2) {#SoTaH#} <div n="xe">{%or%}</div> <div n="xs">{#SoPaH,#}</div> {%ripe s.:%}
-<div n="lb"/>{#pakvaH SoPaH,#} Sr.</div>
+{@SWELLING:@}¦ <div n="I">I Lit.: {#sPItiH:#} v. Also increase,
+inflation. </div><div n="I">II Of the body: </div><div n="1">(1) {#SvayaTuH,#} <div n="xe">{%to%}
+{%produce a s.:%}</div> <div n="xs">{#SvayaTuM janayati,#}</div> Si.; {%very deep s.:%}
+{#pragAQaH SvayaTuH,#} Sr.; </div><div n="1">(2) {#SoTaH#} <div n="xe">{%or%}</div> <div n="xs">{#SoPaH,#}</div> {%ripe s.:%}
+{#pakvaH SoPaH,#} Sr.</div>
 <LEND>

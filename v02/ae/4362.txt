@@ -1,13 +1,13 @@
 <L>4362<pc>177<k1>fury<k2>fury
 {@Fury,@}¦ {%s.%} {#mattatA, unmattatA, caMqatA, ugratA,#}
-<div n="lb"/>{#OtkawyaM#}. {@2@} {#saMraMBaH, kopaH, kroDaH, rozaH,#}
-<div n="lb"/>{#AveSaH, amarzaH#}. {@3@} {#mahAvegaH, atyaMtavegaH-javaH,#}
-<div n="lb"/>{#balaM, ApAtaH#}. {@4@} {#caMqI, durgA#}. {@-Furious,@} {%a.%}
-<div n="lb"/>{#pra-, caMqa, tIvra, ugra, prabala, mahAvegavat#}. {@2@}
-<div n="lb"/>{#unmatta, matta, madotkawa, madakala, samada, udagra-#}
-<div n="lb"/>{#-mada, unmAdasaMrabDa, utkawa#}. {@3@} {#kopAkula#}.
-<div n="lb"/>{#saMrabDa, kroDAvizwa, kopaparIta, rozaRa, idDa-#}
-<div n="lb"/>{#-kopa, jAtAmarza#}. {@-ly,@} {%adv.%} {#ugraM, caMqaM#}
-<div n="lb"/>{#mahAvegena, saMraMBeRa#}. {@-ness,@} {%s.%} {#saMraMBaH, ugratA,#}
-<div n="lb"/>{#unmAdaH, kopAkulatva#}.
+{#OtkawyaM#}. {@2@} {#saMraMBaH, kopaH, kroDaH, rozaH,#}
+{#AveSaH, amarzaH#}. {@3@} {#mahAvegaH, atyaMtavegaH-javaH,#}
+{#balaM, ApAtaH#}. {@4@} {#caMqI, durgA#}. {@-Furious,@} {%a.%}
+{#pra-, caMqa, tIvra, ugra, prabala, mahAvegavat#}. {@2@}
+{#unmatta, matta, madotkawa, madakala, samada, udagra-#}
+{#-mada, unmAdasaMrabDa, utkawa#}. {@3@} {#kopAkula#}.
+{#saMrabDa, kroDAvizwa, kopaparIta, rozaRa, idDa-#}
+{#-kopa, jAtAmarza#}. {@-ly,@} {%adv.%} {#ugraM, caMqaM#}
+{#mahAvegena, saMraMBeRa#}. {@-ness,@} {%s.%} {#saMraMBaH, ugratA,#}
+{#unmAdaH, kopAkulatva#}.
 <LEND>

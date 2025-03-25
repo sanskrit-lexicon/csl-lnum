@@ -1,7 +1,7 @@
 <L>260291<pc>1287,1<k1>had<k2>had<e>1
-<s>had</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. xxiii, 8</ls>) <s>hadati</s>, <s>°te</s> (<ab>pf.</ab> <s>jahade</s>; <ab>aor.</ab> <s>ahatta</s> &c. <ab>Gr.</ab>), 
-<div n="to"/>to evacuate, discharge excrement, <ls>BhP.</ls>; <ls>Sarasv.</ls>; <ls>Kathârṇ.</ls> :
+<s>had</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxiii, 8</ls>) <s>hadati</s>, <s>°te</s> (<ab>pf.</ab> <s>jahade</s>; <ab>aor.</ab> <s>ahatta</s> &c. <ab>Gr.</ab>),
+<div n="to"/>to evacuate, discharge excrement, <ls>BhP.</ls>; <ls>Sarasv.</ls>; <ls>Kathārṇ.</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>hAdayati</s> <ab>Gr.</ab>:
 <div n="vp"/><ab>Desid.</ab> <s>jihatsate</s>, <ls>ib.</ls> :
-<div n="vp"/><ab>Intens.</ab> <s>jAhadyate</s>, <s>jAhatti</s>, <ls>ib.</ls> [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">χέζω</lang>.]<info westergaard="hada,23.8,01.0696"/><info whitneyroots="had,202"/><info verb="genuineroot" cp="1P,1Ā"/>
+<div n="vp"/><ab>Intens.</ab> <s>jAhadyate</s>, <s>jAhatti</s>, <ls>ib.</ls> [<ab>cf.</ab> <lang>Gk.</lang> <gk>χέζω</gk>.]<info westergaard="hada,23.8,01.0696"/><info whitneyroots="had,202"/><info verb="genuineroot" cp="1P,1Ā"/>
 <LEND>

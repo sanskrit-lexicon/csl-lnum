@@ -1,13 +1,13 @@
 <L>32692<pc>3-0600<k1>dAlBya<k2>dA/lBya
-{#dA/lBya#}¦ (von {#dalBa#}) <lex>m.</lex> patron. (Nebenform von {#dArBya#}) <is>gaṇa</is> {#gargAdi#} zu 
-<ls>P. 4, 1, 105.</ls> 
-<ls>MBH. 3, 8383. 16874.</ls> <is>Keśin</is> 
-<ls>PAÑCAV. BR. 13, 10, 8.</ls> 
-<ls>KAUṢ. BR. 7, 4.</ls> <is>Vaka</is> 
-<ls>CHĀND. UP. 1, 2, 13.</ls> 
-<ls>MBH. 2, 106. 3, 968. 9, 2317.</ls> <is>Caikitāyana</is> 
-<ls>CHĀND. UP. 1, 8, 1.</ls> 
-<ls>MATSYA-P.</ls> in <ls>Verz. d. Oxf. H. 41</ls>, {%a%}, Kap. 69. N. eines Grammatikers 
-<ls>VS. PRĀT. 4, 15.</ls> {#°pariSizwa#} 
-<ls>Ind. St. 1, 59.</ls>
+{#dA/lBya#}¦ (von {#dalBa#}) <lex>m.</lex> patron. (Nebenform von {#dArBya#}) <is>gaṇa</is> {#gargAdi#} zu
+<ls>P. 4,1,105.</ls>
+<ls>MBH. 3,8383.</ls> <ls n="MBH. 3,">16874.</ls> <is>Keśin</is>
+<ls>PAÑCAV. BR. 13,10,8.</ls>
+<ls>KAUṢ. BR. 7,4.</ls> <is>Vaka</is>
+<ls>CHĀND. UP. 1,2,13.</ls>
+<ls>MBH. 2,106.</ls> <ls n="MBH.">3,968.</ls> <ls n="MBH.">9,2317.</ls> <is>Caikitāyana</is>
+<ls>CHĀND. UP. 1,8,1.</ls>
+<ls>MATSYA-P.</ls> in <ls>Verz. d. Oxf. H. 41,a,Kap. 69.</ls> N. eines Grammatikers
+<ls>VS. PRĀT. 4,15.</ls> {#°pariSizwa#}
+<ls>Ind. St. 1,59.</ls>
 <LEND>

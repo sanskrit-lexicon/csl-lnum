@@ -1,15 +1,14 @@
 <L>4610<pc>0652<k1>dvipad<k2>dvi-pa/d
-{@dvi-pád,@}¦ a., stark dvi-pā́d, {%zwei Füsse%} [pád] {%habend, zweifüssig;%} 2) {%zwei Versglieder%} [pád = pāda] {%enthaltend;%} 3) <ab>n.</ab> {%das zweifüssige <lbinfo n="7"/> Geschlecht.%} — Ueberall mit dem Gegensatze cátuṣpad.
-<div n="P1">-ā́d [<ab>N.</ab> <ab>s.</ab> <ab>m.</ab>] {943,8}.
-<div n="P1">-ā́d [<ab>n.</ab>] 2) yád (uktám) {853,10}. — 3) {347,5}.
-<div n="P1">-ád [<ab>n.</ab>] yád {94,5}. — 3) {49,3}; {124,1}; {923,20}.
-<div n="P1">-ádā 2) vākéna {164,24}.
-<div n="P1">-áde jánmane {863,11}. — 3) {114,1}; {157,3}; {296,14}; {435,2}; {515,1}; {570,1}; {781,7}; {911,43. 44}; {991,1}.
-<div n="P1">-ā́de [D., metrisch für -áde] 3) {121,3}.
-<div n="P1">-ádas [Ab.] {943,8}.
-<div n="P1">-ádas [<ab>G.</ab>] 3) yás ī́śe asyá … {947,3}; víśvasya …
-... nivéśane {512,2}.
-<div n="P1">-ā́das [<ab>N.</ab> <ab>p.</ab>] {647,12}.
-<div n="P1">-ádām … abhiṣvaré {943,8}.
-<div n="P1">-ádī gaurī́s {164,41}.
+{@dvi-pád,@}¦ <ab>a.</ab>, stark dvi-pā́d, {%zwei Füsse%} [pád] {%habend, zweifüssig;%} 2〉 {%zwei Versglieder%} [pád = pāda] {%enthaltend;%} 3〉 <ab>n.</ab> {%das zweifüssige Geschlecht%}. — Ueberall mit dem Gegensatze cátuṣpad.
+<div n="TS">-ā́d [<ab>N.</ab> <ab>s.</ab> <ab>m.</ab>] {943,8}.
+<div n="TS">-ā́d [<ab>n.</ab>] 2〉 yád (uktám) {853,10}. — 3〉 {347,5}.
+<div n="TS">-ád [<ab>n.</ab>] yád {94,5}. — 3〉 {49,3}; {124,1}; {923,20}.
+<div n="TS">-ádā 2〉 vākéna {164,24}.
+<div n="TS">-áde jánmane {863,11}. — 3〉 {114,1}; {157,3}; {296,14}; {435,2}; {515,1}; {570,1}; {781,7}; {911,43}. _{911,44}; {991,1}.
+<div n="TS">-ā́de [<ab>D.</ab>, metrisch für -áde] 3〉 {121,3}.
+<div n="TS">-ádas [<ab>Ab.</ab>] {943,8}.
+<div n="TS">-ádas [<ab>G.</ab>] 3〉 yás ī́śe asyá 〰 {947,3}; víśvasya 〰 … nivéśane {512,2}.
+<div n="TS">-ā́das [<ab>N.</ab> <ab>p.</ab>] {647,12}.
+<div n="TS">-ádām 〰 abhiṣvaré {943,8}.
+<div n="TS">-ádī gaurī́s {164,41}.
 <LEND>

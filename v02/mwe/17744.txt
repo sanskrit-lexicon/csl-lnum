@@ -1,7 +1,7 @@
 <L>17744<pc>448-a<k1>leprosy<k2>leprosy
-<div n="lb"/>LEPROSY¦, {%s.%} {#kuzWaM, kuzWarogaH, SvitraM, SvEtraM, SvetaM, SvEtyaM, tvagrogaH, tvagdozaH,#}
-<div n="lb"/>{#carmmadUzikA, duzwacarmmatvaM, duScarmmatvaM, siDmalA, citraM, maRqalakaM, koWaH;#}
-<div n="lb"/>‘black leprosy,’ {#raktakuzWaM, mahArogaH, mahAvyADiH#} {%m.,%} {#vyADiH;#}
-<div n="lb"/>‘afflicted with it,’ {#raktakuzWI#} {%m.%} {#(n), mahArogI#} {%m.%} ({#n#}); ‘white
-<div n="lb"/>leprosy,’ {#SvetakuzWaM;#} ‘wasting leprosy,’ {#galatkuzWaM#}.
+LEPROSY¦, {%s.%} {#kuzWaM, kuzWarogaH, SvitraM, SvEtraM, SvetaM, SvEtyaM, tvagrogaH, tvagdozaH,#}
+{#carmmadUzikA, duzwacarmmatvaM, duScarmmatvaM, siDmalA, citraM, maRqalakaM, koWaH;#}
+‘black leprosy,’ {#raktakuzWaM, mahArogaH, mahAvyADiH#} {%m.,%} {#vyADiH;#}
+‘afflicted with it,’ {#raktakuzWI#} {%m.%} {#(n), mahArogI#} {%m.%} ({#n#}); ‘white
+leprosy,’ {#SvetakuzWaM;#} ‘wasting leprosy,’ {#galatkuzWaM#}.
 <LEND>

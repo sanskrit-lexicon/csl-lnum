@@ -1,3 +1,3 @@
-<L>213639<pc>1057,1<k1>Sarva<k2>Sarva/<h>a<e>2
-<s>Sarva/</s> <hom>a</hom> ¦ <lex>m.</lex> (<ab>fr.</ab> <s>Sa/ru</s>) <ab>N.</ab> of a god who kills people with arrows (mentioned together with <s1 slp1="Bava">Bhava</s1> and other names of <s1 slp1="rudra">Rudra</s1>-<s1 slp1="Siva">Śiva</s1>)<info lex="m"/>
+<L>213639<pc>1057,1<k1>Sarva<k2>Sarva/<e>2
+<s>Sarva/</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <s>Sa/ru</s>) <ab>N.</ab> of a god who kills people with arrows (mentioned together with <s1>Bhava</s1> and other names of <s1>Rudra</s1>-<s1>Śiva</s1>)<info lex="m"/><info hui="a"/>
 <LEND>

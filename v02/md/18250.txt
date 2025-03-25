@@ -1,18 +1,3 @@
 <L>18250<pc>320-1<k1>Sram<k2>Sram
-{#Sram#}¦ŚRAM, IV.P. {@śrā́mya@} ({%V., C.%}), I.P. 
-<>Ā. {@śrama@} ({%V., C.%}: {%rare%}), grow weary, 
-<>of ({%inf.%}); exert oneself, labour in vain; practise <lbinfo n="4"/>
-<> austerity: {%ps.%} {@śrāntá@}, wearied, tired, 
-<>exhausted; {%cs.%} P. {@śrămaya@}, fatigue, tire. 
-<>{@pari,@} {%pp.%} greatly fatigued, exhausted; weary 
-<>of (-°); {%cs.%} {@-śramaya@}, P. fatigue, tire. {@vi,@} 
-<>take a rest, repose; cease, stop; rest {%or%} depend <lbinfo n="2"/>
-<> on ({%lc.%}); rely on ({%lc.%}); feel at ease: {%pp.%} 
-<>{@viśrānta@}, having rested, from (-°); reposing; 
-<>abated, ceased, stopped; coming to an end at 
-<>= reaching to ({%ac.,%} -°); destitute of (-°); {%cs.%} 
-<>({@ă@}) P. cause to rest {%or%} repose; cause ({%dust%}) 
-<>to settle on ({%lc.%}); put an end to: {%pp.%} {@-śram-@}
-<>{@-ita@}. {@pari-vi,@} {%pp.%} completely rested. {@sam,@} 
-<>{%pp.%} exhausted.
+{#Sram#}¦ ŚRAM, <cl>Ⅳ.</cl> <lex>P.</lex> {@śrā́mya@} (<ab>V.</ab>, <ab>C.</ab>), <cl>Ⅰ.</cl> <lex>P.</lex> 🞄<lex>Ā.</lex> {@śrama@} (<ab>V.</ab>, <ab>C.</ab>: {%rare%}), grow weary, 🞄of (<ab>inf.</ab>); exert oneself, labour in vain; practise 🞄austerity: <ab>ps.</ab> {@śrāntá,@} wearied, tired, 🞄exhausted; <ab>cs.</ab> <lex>P.</lex> {@śrā̆maya,@} fatigue, tire. 🞄{@pari,@} <ab>pp.</ab> greatly fatigued, exhausted; weary 🞄of (<ab>—°</ab>); <ab>cs.</ab> {@-śramaya,@} <lex>P.</lex> fatigue, tire. {@vi,@} 🞄take a rest, repose; cease, stop; rest {%or%} depend 🞄on (<ab>lc.</ab>); rely on (<ab>lc.</ab>); feel at ease: <ab>pp.</ab> 🞄{@viśrānta,@} having rested, from (<ab>—°</ab>); reposing; 🞄abated, ceased, stopped; coming to an end at 🞄= reaching to (<ab>ac.</ab>, <ab>—°</ab>); destitute of (<ab>—°</ab>); <ab>cs.</ab> 🞄({@ā̆@}) <lex>P.</lex> cause to rest {%or%} repose; cause ({%dust%}) 🞄to settle on (<ab>lc.</ab>); put an end to: <ab>pp.</ab> {@-śramita@}. {@pari-vi,@} <ab>pp.</ab> completely rested. {@sam,@} 🞄<ab>pp.</ab> exhausted.
 <LEND>

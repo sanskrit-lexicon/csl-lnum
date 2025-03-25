@@ -1,7 +1,7 @@
-<L>116934<pc>590,3<k1>parAvfj<k2>parA-vfj<h>a<e>1
-<s>parA-√ vfj</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-vfRakti</s> (<ab>impf.</ab> <s>-vfRak</s>; <ab>pf.</ab> <s>-vavfjur</s>; <ab>aor.</ab> <s>-vark</s>, <s>-varktam</s>), 
+<L>116934<pc>590,3<k1>parAvfj<k2>parA-vfj<e>1
+<s>parA-√ vfj</s> ¦ <ab>P.</ab> <s>-vfRakti</s> (<ab>impf.</ab> <s>-vfRak</s>; <ab>pf.</ab> <s>-vavfjur</s>; <ab>aor.</ab> <s>-vark</s>, <s>-varktam</s>),
 <div n="to"/>to turn away;
 <div n="to"/> (with <s>SIrzA</s>) to flee, <ls>RV.</ls>;
 <div n="to"/>to wring off (as a head), <ls>ib.</ls>;
-<div n="to"/>to throw away, remove, reject, abandon, <ls>ib.</ls><info verb="pre" cp="P" parse="parA+vfj"/>
+<div n="to"/>to throw away, remove, reject, abandon, <ls>ib.</ls><info verb="pre" cp="P" parse="parA+vfj"/><info hui="a"/>
 <LEND>

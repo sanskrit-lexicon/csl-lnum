@@ -1,7 +1,7 @@
 <L>6322<pc>203<k1>discount<k2>discount
-<div n="lb"/>{@DISCOUNT@}¦ (v.): <div n="I">I To deduct a percentage:
-<div n="lb"/>Ph.: <div n="xe">{%to d. five per cent:%}</div> <div n="xs">{#*paYcakaM SataM tyajati#}</div> ({#tyaj,#}
-<div n="lb"/>c. 1.). </div><div n="I">II To pay a bill, deducting the
-<div n="lb"/>percentage: Ph.: <div n="xe">{%d. this bill:%}</div> <div n="xs">{#*tyAgaM gfhItvA #}
-<div n="lb"/>{# huRqimUlyaM dehi.#}</div></div>
+{@DISCOUNT@}¦ (v.): <div n="I">I To deduct a percentage:
+Ph.: <div n="xe">{%to d. five per cent:%}</div> <div n="xs">{#*paYcakaM SataM tyajati#}</div> ({#tyaj,#}
+c. 1.). </div><div n="I">II To pay a bill, deducting the
+percentage: Ph.: <div n="xe">{%d. this bill:%}</div> <div n="xs">{#*tyAgaM gfhItvA #}
+{# huRqimUlyaM dehi.#}</div></div>
 <LEND>

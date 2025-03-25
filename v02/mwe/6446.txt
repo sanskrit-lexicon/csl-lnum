@@ -1,9 +1,9 @@
 <L>6446<pc>145-a<k1>creature<k2>creature
-<div n="lb"/>CREATURE¦, {%s.%} (Being created) {#BUtaM, sfzwaM, sfzwiH#} {%f.,%} {#utpannaM#}. — (Animal)
-<div n="lb"/>{#jantuH#} {%m.,%} {#prARI#} {%m.%} {#(n), jIvI#} {%m.%} {#(n), SarIrI#} {%m.%} {#(n), dehI#} {%m.%}
-<div n="lb"/>{#(n), cetanaH, janmI#} {%m.%} ({#n#}); ‘living creatures,’ {#prARinaH#} {%m. pl.,%}
-<div n="lb"/>{#jIvantaH#} {%m. pl.,%} {#jantavaH#} {%m. pl.,%} {#prajAH#} {%f. pl.%} — (A word of contempt
-<div n="lb"/>for a human being) {#tapasvI#} {%m.%} {#(n), jAlmaH, kfpaRaH#}. — (A word
-<div n="lb"/>of tenderness) {#vatsaH -tsA, priyaH -yA#}. — (A person who owes
-<div n="lb"/>his fortune to another) {#ASritaH, upajIvI#} {%m.%} {#(n), kArpawaH, BAktikaH#}.
+CREATURE¦, {%s.%} (Being created) {#BUtaM, sfzwaM, sfzwiH#} {%f.,%} {#utpannaM#}. — (Animal)
+{#jantuH#} {%m.,%} {#prARI#} {%m.%} {#(n), jIvI#} {%m.%} {#(n), SarIrI#} {%m.%} {#(n), dehI#} {%m.%}
+{#(n), cetanaH, janmI#} {%m.%} ({#n#}); ‘living creatures,’ {#prARinaH#} {%m. pl.,%}
+{#jIvantaH#} {%m. pl.,%} {#jantavaH#} {%m. pl.,%} {#prajAH#} {%f. pl.%} — (A word of contempt
+for a human being) {#tapasvI#} {%m.%} {#(n), jAlmaH, kfpaRaH#}. — (A word
+of tenderness) {#vatsaH -tsA, priyaH -yA#}. — (A person who owes
+his fortune to another) {#ASritaH, upajIvI#} {%m.%} {#(n), kArpawaH, BAktikaH#}.
 <LEND>

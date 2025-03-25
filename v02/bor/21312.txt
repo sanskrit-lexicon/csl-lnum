@@ -1,6 +1,6 @@
 <L>21312<pc>671<k1>staff<k2>staff
-<div n="lb"/>{@STAFF:@}¦ <div n="I">I Stick: q. v.: {#daRqaH,#} <div n="xe">{%flag-s.:%}</div> <div n="xs">{#ketudaRqaH,#}</div>
-<div n="lb"/>D. </div><div n="I">II Support: q. v.: {#AlambaH, -nam.#} </div><div n="I">III
-<div n="lb"/>Of officers: perh. {#vargaH.#} Ph.: <div n="xe">{%he belongs to my%}
-<div n="lb"/>{%s.;%}</div> <div n="xs">{#madaDInasTaH karmacArI.#}</div></div>
+{@STAFF:@}¦ <div n="I">I Stick: q. v.: {#daRqaH,#} <div n="xe">{%flag-s.:%}</div> <div n="xs">{#ketudaRqaH,#}</div>
+D. </div><div n="I">II Support: q. v.: {#AlambaH, -nam.#} </div><div n="I">III
+Of officers: perh. {#vargaH.#} Ph.: <div n="xe">{%he belongs to my%}
+{%s.;%}</div> <div n="xs">{#madaDInasTaH karmacArI.#}</div></div>
 <LEND>

@@ -1,11 +1,11 @@
 <L>6621<pc>285<k1>menstrual<k2>menstrual
 {@Menstrual,@}¦ {%a.%} {#mAsika#} ({#kI#} {%f.%}), {#mAsya,#}
-<div n="lb"/>{#mAsIya, prAtimAsika;#} ‘m. time’ {#ftuH,#}
-<div n="lb"/>{#ftukAlaH;#} ‘m. discharge’ {#rajas#} {%n.,%} {#puzpaM,#}
-<div n="lb"/>{#ftuH#}. {@-Menstruate,@} {%v. i.%} {#rajasvalA-#}
-<div n="lb"/>{#-ftumatI-BU#} 1 P. {@-ion,@} {%s.%} {#ftusrAvaH#}.
-<div n="lb"/>{@-Menotruous,@} {%a.%} {#Artava#} ({#vI#} {%f.%}), {#ftu#} in
-<div n="lb"/>comp. {@2@} {#rajasvalA, ftumatI, puzpavatI, strI-#}
-<div n="lb"/>{#-DarmiRI, aviH, AtreyI; malinI, udakyA,#}
-<div n="lb"/>{#asparSA#}.
+{#mAsIya, prAtimAsika;#} ‘m. time’ {#ftuH,#}
+{#ftukAlaH;#} ‘m. discharge’ {#rajas#} {%n.,%} {#puzpaM,#}
+{#ftuH#}. {@-Menstruate,@} {%v. i.%} {#rajasvalA-#}
+{#-ftumatI-BU#} 1 P. {@-ion,@} {%s.%} {#ftusrAvaH#}.
+{@-Menotruous,@} {%a.%} {#Artava#} ({#vI#} {%f.%}), {#ftu#} in
+comp. {@2@} {#rajasvalA, ftumatI, puzpavatI, strI-#}
+{#-DarmiRI, aviH, AtreyI; malinI, udakyA,#}
+{#asparSA#}.
 <LEND>

@@ -1,7 +1,7 @@
 <L>12382<pc>384<k1>inspiration<k2>inspiration
-<div n="lb"/>{@INSPIRATION:@}¦ <div n="I">I Inhalation: q.v.: {#SvAsaH.#}</div>
-<div n="lb"/><div n="I">II Divine prompting: <div n="xe">{%by divine i.:%}</div> <div n="xs">{#Akasmika-#}
-<div n="lb"/>{#pratyavaBAsAt,#}</div> U., ii.; <div n="xe">{%one who has received i. of%}
-<div n="lb"/>{%language:%}</div> <div n="xs">{#AvirBUtaSabdabrahmaprakASaH#}</div> ({#SA, SaM#}), U., ii.</div>
-<div n="lb"/><div n="I">III Infusion: {#ADAnam, sam-.#}</div>
+{@INSPIRATION:@}¦ <div n="I">I Inhalation: q.v.: {#SvAsaH.#}</div>
+<div n="I">II Divine prompting: <div n="xe">{%by divine i.:%}</div> <div n="xs">{#Akasmika-#}
+{#pratyavaBAsAt,#}</div> U., ii.; <div n="xe">{%one who has received i. of%}
+{%language:%}</div> <div n="xs">{#AvirBUtaSabdabrahmaprakASaH#}</div> ({#SA, SaM#}), U., ii.</div>
+<div n="I">III Infusion: {#ADAnam, sam-.#}</div>
 <LEND>

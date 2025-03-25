@@ -1,58 +1,58 @@
 <L>46308<pc>4-0805<k1>pulaka<k2>pulaka
-{#pulaka#}¦ 
-<div n="1"> 1) <lex>m.</lex> 
-<div n="2"> a) {%eine best. essbare Pflanze%}: {#aSrAdDeyAni DAnyAni kodravAH pulakAstaTA#} 
-<ls>MBH. 13, 4363.</ls> 
-<div n="2">— b) {%das Sträuben der Härchen am Körper%} (als Zeichen von Geilheit oder grosser Freude) 
-<ls>TRIK. 1, 1, 131. 3, 3, 30.</ls> 
-<ls>H. 305.</ls> 
-<ls>an. 3, 68.</ls> 
-<ls>MED. k. 120. fg.</ls> <ls>HALĀY. 3, 29.</ls> <is>gaṇa</is> {#tArakAdi#} zu 
-<ls>P. 5, 2, 36.</ls> {#pulakEH kalitaM mama gAtrakam#} 
-<ls>VIKR. 57.</ls> {#prakASapulakANga#} 
-<ls>MĀRK. P. 37, 22.</ls> {#pulakotkampa#} 
-<ls>KATHĀS. 17, 130.</ls> {#kapolatale - pulakEranukUle#} 
-<ls>GĪT. 1, 41.</ls> {#pulakANgura#} 
-<ls>12, 10.</ls> {#pulakAYcita#} ad 
-<ls>ŚĀK. 63</ls> ({#pulakAcita#} v. l.). 
-<ls>BRAHMA-P.</ls> in <ls>LA. 54, 7.</ls> {#pulakANkitasarvANgI#} 
-<ls>PAÑCAT. 46, 8. 181, 17. 187, 3.</ls> {#pulakodDUzitaSarIrA (udDUzita = udDarzita)#} 
-<ls>190, 21.</ls> {#jAtapulakAmAlokya gaRqasTalIm#} 
-<ls>AMAR. 77. 57.</ls> 
-<ls>SĀH. D. 43, 2.</ls> {#pulakodgama#} 
-<ls>ŚABDĀRTHAK.</ls> bei <ls>WILS.</ls> <ls>Spr. 738.</ls> {#pulakodBeda#} 
-<ls>918.</ls> <ls>BHĀG. P. 7, 3, 25.</ls> {#udBinnaromapulakErbahuBiH#} 
-<ls>CAURAP. 35.</ls> {#nirBinnapulaka#} 
-<ls>BHĀG. P. 1, 6, 18.</ls> {#prodBUta°#} 
-<ls>MĀRK. P. 61, 22.</ls> {#udDUtapulakA#} (lies {#udBUta°#}) 
-<ls>76, 8.</ls> {#sapulaka#} <lex>adj.</lex> 
-<ls>Spr. 1235.</ls> {#sapulakam#} adv. 
-<ls>GĪT. 7, 22.</ls> 
-<div n="2">— c) {%ein best. Edelstein%} 
-<ls>VARĀH. BṚH. S. 81, 4.</ls> = {#SilABeda, prastaraBeda, prastarAntara#} 
-<ls>TRIK. 3, 3, 30.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> = {#galvarka#} (welches 
-<ls>WILS.</ls> hier durch {%Trinkglas%} wiedergiebt) 
-<ls>H. an.</ls> 
-<div n="2">— d) {%ein Fehler in einem Edelstein%}, = {#maRidoza#} diess. 
-<div n="2">— e) {%eine Art Ungeziefer%} 
-<ls>H. 1202.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 3, 14.</ls> 
-<div n="2">— f) {%Fladen aus Mehl, mit denen man die Elephanten füttert%}, = {#gajAnnapiRqa#} 
-<ls>H. an.</ls> <ls>MED.</ls><ls>?; vgl. Carl Graf v. GÖRTZ, Reise um die Welt III, 552.</ls> 
-<div n="2">— g) {%Auripigment%} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— h) {%ein%} <is>Gandharva</is> 
-<ls>MED.</ls> Statt dessen {#galvarka#} (s. u. {%c%}) 
-<ls>H. an.</ls> 
-<div n="2">— i) = {#asurAjI (°rAjyAM)#} 
-<ls>H. an.</ls> {%eine Art Senf%} 
-<ls>WILS.</ls>; vgl. {#AsurI#} und {#rAjikA#}, die diese Bed. haben. 
-<div n="2">— k) 
-<ls>PAÑCAT. III, 99</ls> fehlerhaft für {#pulAka#} . 
-<div n="1">— 2) <lex>n.</lex> {%eine best. Erdart%}, = {#kaNkuzWa#} 
+{#pulaka#}¦
+<div n="1"> 1) <lex>m.</lex>
+<div n="2"> a) {%eine best. essbare Pflanze%}: {#aSrAdDeyAni DAnyAni kodravAH pulakAstaTA#}
+<ls>MBH. 13,4363.</ls>
+<div n="2">— b) {%das Sträuben der Härchen am Körper%} (als Zeichen von Geilheit oder grosser Freude)
+<ls>TRIK. 1,1,131.</ls> <ls n="TRIK.">3,3,30.</ls>
+<ls>H. 305.</ls>
+<ls>an. 3,68.</ls>
+<ls>MED. k. 120. fg.</ls> <ls>HALĀY. 3,29.</ls> <is>gaṇa</is> {#tArakAdi#} zu
+<ls>P. 5,2,36.</ls> {#pulakEH kalitaM mama gAtrakam#}
+<ls>VIKR. 57.</ls> {#prakASapulakANga#}
+<ls>MĀRK. P. 37,22.</ls> {#pulakotkampa#}
+<ls>KATHĀS. 17,130.</ls> {#kapolatale — pulakEranukUle#}
+<ls>GĪT. 1,41.</ls> {#pulakANgura#}
+<ls n="GĪT.">12,10.</ls> {#pulakAYcita#} ad
+<ls>ŚĀK. 63</ls> ({#pulakAcita#} v. l.).
+<ls>BRAHMA-P. in LA. 54,7.</ls> {#pulakANkitasarvANgI#}
+<ls>PAÑCAT. 46,8.</ls> <ls n="PAÑCAT.">181,17.</ls> <ls n="PAÑCAT.">187,3.</ls> {#pulakodDUzitaSarIrA (udDUzita = udDarzita)#}
+<ls n="PAÑCAT.">190,21.</ls> {#jAtapulakAmAlokya gaRqasTalIm#}
+<ls>AMAR. 77. 57.</ls>
+<ls>SĀH. D. 43,2.</ls> {#pulakodgama#}
+<ls>ŚABDĀRTHAK.</ls> bei <ls>WILS.</ls> <ls>Spr. 738.</ls> {#pulakodBeda#}
+<ls n="Spr.">918.</ls> <ls>BHĀG. P. 7,3,25.</ls> {#udBinnaromapulakErbahuBiH#}
+<ls>CAURAP. 35.</ls> {#nirBinnapulaka#}
+<ls>BHĀG. P. 1,6,18.</ls> {#prodBUta°#}
+<ls>MĀRK. P. 61,22.</ls> {#udDUtapulakA#} (lies {#udBUta°#})
+<ls n="MĀRK. P.">76,8.</ls> {#sapulaka#} <lex>adj.</lex>
+<ls>Spr. 1235.</ls> {#sapulakam#} adv.
+<ls>GĪT. 7,22.</ls>
+<div n="2">— c) {%ein best. Edelstein%}
+<ls>VARĀH. BṚH. S. 81,4.</ls> = {#SilABeda, prastaraBeda, prastarAntara#}
+<ls>TRIK. 3,3,30.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> = {#galvarka#} (welches
+<ls>WILS.</ls> hier durch {%Trinkglas%} wiedergiebt)
+<ls>H. an.</ls>
+<div n="2">— d) {%ein Fehler in einem Edelstein%}, = {#maRidoza#} diess.
+<div n="2">— e) {%eine Art Ungeziefer%}
+<ls>H. 1202.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 3,14.</ls>
+<div n="2">— f) {%Fladen aus Mehl, mit denen man die Elephanten füttert%}, = {#gajAnnapiRqa#}
+<ls>H. an.</ls> <ls>MED.</ls>; vgl. Carl Graf v. GÖRTZ, Reise um die Welt III,552.
+<div n="2">— g) {%Auripigment%}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— h) {%ein%} <is>Gandharva</is>
+<ls>MED.</ls> Statt dessen {#galvarka#} (s. u. {%c%})
+<ls>H. an.</ls>
+<div n="2">— i) = {#asurAjI (°rAjyAM)#}
+<ls>H. an.</ls> {%eine Art Senf%}
+<ls>WILS.</ls>; vgl. {#AsurI#} und {#rAjikA#}, die diese Bed. haben.
+<div n="2">— k)
+<ls>PAÑCAT. III,99</ls> fehlerhaft für {#pulAka#} .
+<div n="1">— 2) <lex>n.</lex> {%eine best. Erdart%}, = {#kaNkuzWa#}
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
 <LEND>

@@ -1,8 +1,8 @@
 <L>259990<pc>1285,3<k1>svarita<k2>svarita<e>2B
-<s>svarita</s> ¦ <lex>m.</lex> <lex type="hw">n.</lex> the <s1 slp1="svarita">Svarita</s1> accent (a kind of mixed tone, produced by a combination of high and low tone, and therefore named in <ls>Pāṇ. 1-2, 31</ls> <s>sam-AhAra</s>, the high and low tones being called <s>ud-Atta</s>, ‘raised’ or ‘acute’, and <s>an-udAtta</s>, ‘low’ or ‘grave’;
-the <ab n="Svarita" slp1="svarita">Sv°</ab> corresponds to the Greek circumflex and is of four kinds, <ab>viz.</ab> <s>kzEpra</s> [as in <s>vy-A/pta</s> for <s>vi/-Apta</s>], <s>jAtya</s> [as in <s>kva/</s> for <s>ku/a</s>], <s>praSlizwa</s> [as in <s>divI/va</s> for <s>divi/ iva</s>], or <s>aBinihita</s> [as in <s>te/ 'bruvan</s> for <s>te/ abruvan</s>];
+<s>svarita</s> ¦ <lex>m.</lex> <lex type="hw">n.</lex> the <s1>Svarita</s1> accent (a kind of mixed tone, produced by a combination of high and low tone, and therefore named in <ls>Pāṇ. i, 2, 31</ls> <s>sam-AhAra</s>, the high and low tones being called <s>ud-Atta</s>, ‘raised’ or ‘acute’, and <s>an-udAtta</s>, ‘low’ or ‘grave’;
+the <s1 n="Svarita">Sv°</s1> corresponds to the Greek circumflex and is of four kinds, <ab>viz.</ab> <s>kzEpra</s> [as in <s>vy-A/pta</s> for <s>vi/-Apta</s>], <s>jAtya</s> [as in <s>kva^</s> for <s>ku/a</s>], <s>praSlizwa</s> [as in <s>divI/va</s> for <s>divi/ iva</s>], or <s>aBinihita</s> [as in <s>te/ 'bruvan</s> for <s>te/ abruvan</s>];
 it is marked in <ls>RV.</ls> by a small upright stroke above a syllable;
-and when produced by an <s>udAtta</s> immediately preceding is sometimes called ‘a dependent <s1 slp1="svarita">Svarita</s1>’, and, when it properly belongs to a word, an ‘independent <s1 slp1="svarita">Svarita</s1>’), <ls>ĀśvŚr.</ls>;
+and when produced by an <s>udAtta</s> immediately preceding is sometimes called ‘a dependent <s1>Svarita</s1>’, and, when it properly belongs to a word, an ‘independent <s1>Svarita</s1>’), <ls>ĀśvŚr.</ls>;
 <ls>Prāt.</ls>;
 <ls>Pāṇ.</ls><info lex="m:n"/>
 <LEND>

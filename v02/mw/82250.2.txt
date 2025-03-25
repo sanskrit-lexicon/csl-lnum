@@ -1,3 +1,3 @@
-<L>82250.2<pc>435,2<k1>tanA<k2>ta/nA<h>a<e>2C
-<s>ta/nA</s> <hom>a</hom> ¦ <lex>ind.</lex> (<s>ta/nA</s>, once <s>tanA</s>, <ls>x, 93, 12</ls>) <ab>instr.</ab> in uninterrupted succession, one after another, continually, <ls>RV. i, 3; 38; 77; ii, 2, 1; viii ff.</ls><info lex="ind"/>
+<L>82250.2<pc>435,2<k1>tanA<k2>ta/nA<e>2C
+<s>ta/nA</s> ¦ <lex>ind.</lex> (<s>ta/nA</s>, once <s>tanA</s>, <ls n="RV.">x, 93, 12</ls>) <ab>instr.</ab> in uninterrupted succession, one after another, continually, <ls>RV. i, 3</ls>; <ls n="RV. i,">38</ls>; <ls n="RV. i,">77</ls>; <ls n="RV.">ii, 2, 1</ls>; <ls n="RV.">viii ff.</ls><info lex="ind"/><info hui="a"/>
 <LEND>

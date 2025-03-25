@@ -1,9 +1,9 @@
 <L>59259<pc>5-0671<k1>mahItala<k2>mahItala
-{#mahItala#}¦ {#(ma° + tala)#} <lex>n.</lex> {%Erdboden%} 
-<ls>M. 4, 168. 11, 207.</ls> 
-<ls>MBH. 3, 2337. 2542.</ls> 
-<ls>R. 1, 2, 14. 40, 17. 41, 13. 42, 21. 3, 52, 36.</ls> 
-<ls>RAGH. 2, 50.</ls> 
-<ls>BHĀG. P. 2, 1, 27.</ls> 
-<ls>MĀRK. P. 20, 8.</ls>
+{#mahItala#}¦ ({#ma° + tala#}) <lex>n.</lex> {%Erdboden%}
+<ls>M. 4,168.</ls> <ls n="M.">11,207.</ls>
+<ls>MBH. 3,2337.</ls> <ls n="MBH. 3,">2542.</ls>
+<ls>R. 1,2,14.</ls> <ls n="R. 1,">40,17.</ls> <ls n="R. 1,">41,13.</ls> <ls n="R. 1,">42,21.</ls> <ls n="R.">3,52,36.</ls>
+<ls>RAGH. 2,50.</ls>
+<ls>BHĀG. P. 2,1,27.</ls>
+<ls>MĀRK. P. 20,8.</ls>
 <LEND>

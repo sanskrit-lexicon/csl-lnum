@@ -1,10 +1,10 @@
 <L>2334<pc>083<k1>country<k2>country
 {@Country,@}¦ {%s.%} {#pra-, deSaH, vizayaH, rAzwraM; diS#} {%f.,%}
-<div n="lb"/>{#ASA#}. {@2@} {#grAmaH, janapadaH,#} (opposed to
-<div n="lb"/>{#nagaraM, puraM#}); ‘c. folk’ {#jAnapadAH, grAmyAH;#}
-<div n="lb"/>‘c. life’ {#jAnapadavfttiH, grAmavasatiH;#}
-<div n="lb"/>‘native c.’ {#janmaBUmi#} {%f.,%} {#svadeSaH;#} ‘c.
-<div n="lb"/>man’ {#svadeSIyaH, ekadeSasTaH, deSabaMDuH;#}
-<div n="lb"/>{#jAnapadaH, grAmyajanaH, grAmIRaH;#} ‘c. parson’
-<div n="lb"/>{#jAnapadAcAryaH, grAmaguruH#}.
+{#ASA#}. {@2@} {#grAmaH, janapadaH,#} (opposed to
+{#nagaraM, puraM#}); ‘c. folk’ {#jAnapadAH, grAmyAH;#}
+‘c. life’ {#jAnapadavfttiH, grAmavasatiH;#}
+‘native c.’ {#janmaBUmi#} {%f.,%} {#svadeSaH;#} ‘c.
+man’ {#svadeSIyaH, ekadeSasTaH, deSabaMDuH;#}
+{#jAnapadaH, grAmyajanaH, grAmIRaH;#} ‘c. parson’
+{#jAnapadAcAryaH, grAmaguruH#}.
 <LEND>

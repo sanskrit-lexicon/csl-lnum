@@ -1,25 +1,25 @@
 <L>31120<pc>3-0442<k1>trivarga<k2>trivarga
-{#trivarga#}¦ ({#tri + varga#}) <lex>m.</lex> {%eine Zusammenstellung von drei Dingen, Stoffen u.s.w.%} 
-<ls>KĀTY. ŚR. 8, 6, 11.</ls> 
-<ls>LĀṬY. 4, 12, 9.</ls> {#dattvA trivargaM maDuraM ca kftsnam#} (s. {#maDuvarga#}) 
-<ls>SUŚR. 2, 449, 8.</ls> = {#triPalA#} und {#kawutrika#} (vgl. {#trikawu#}) 
-<ls>MED. g. 35.</ls> = {#Darma, kAma#} und {#arTa#} {%Tugend, Vergnügen und Nutzen%} (vgl. {#trigaRa#}) 
-<ls>AK. 2, 7, 57.</ls> 
-<ls>H. 1382.</ls> 
-<ls>MED.</ls> 
-<ls>M. 2, 224. 7, 27.</ls> 
-<ls>YĀJÑ. 1, 74.</ls> 
-<ls>MBH. 1, 6844. 13, 2028. fg.</ls> 
-<ls>HARIV. 4135. 11421.</ls> 
-<ls>R. 1, 6, 5.</ls> 
-<ls>KUMĀRAS. 5, 38.</ls> 
-<ls>KATHĀS. 24, 151.</ls> 
-<ls>BHĀG. P. 2, 8, 21. 8, 16, 11.</ls> 
-<ls>MĀRK. P. 21, 71. 76. 34, 10.</ls> = {#kzaya, sTAna#} und {#vfdDi#} {%Verlust, status quo und Gewinn%} 
-<ls>AK. 2, 8, 1, 19.</ls> 
-<ls>MED.</ls> 
-<ls>MBH. 12, 2664.</ls> = {#sattva, rajas#} und {#tamas#} (s. {#triguRa#}) 
-<ls>MED.</ls> {%die drei oberen Kasten%} 
-<ls>MBH. 13, 6464. 6605.</ls> = {#sunIti#} {%gutes Benehmen%} 
+{#trivarga#}¦ ({#tri + varga#}) <lex>m.</lex> {%eine Zusammenstellung von drei Dingen, Stoffen u.s.w.%}
+<ls>KĀTY. ŚR. 8,6,11.</ls>
+<ls>LĀṬY. 4,12,9.</ls> {#dattvA trivargaM maDuraM ca kftsnam#} (s. {#maDuvarga#})
+<ls>SUŚR. 2,449,8.</ls> = {#triPalA#} und {#kawutrika#} (vgl. {#trikawu#})
+<ls>MED. g. 35.</ls> = {#Darma, kAma#} und {#arTa#} {%Tugend, Vergnügen und Nutzen%} (vgl. {#trigaRa#})
+<ls>AK. 2,7,57.</ls>
+<ls>H. 1382.</ls>
+<ls>MED.</ls>
+<ls>M. 2,224.</ls> <ls n="M.">7,27.</ls>
+<ls>YĀJÑ. 1,74.</ls>
+<ls>MBH. 1,6844.</ls> <ls n="MBH.">13,2028. fg.</ls>
+<ls>HARIV. 4135.</ls> <ls n="HARIV.">11421.</ls>
+<ls>R. 1,6,5.</ls>
+<ls>KUMĀRAS. 5,38.</ls>
+<ls>KATHĀS. 24,151.</ls>
+<ls>BHĀG. P. 2,8,21.</ls> <ls n="BHĀG. P.">8,16,11.</ls>
+<ls>MĀRK. P. 21,71. 76. 34,10.</ls> = {#kzaya, sTAna#} und {#vfdDi#} {%Verlust, status quo und Gewinn%}
+<ls>AK. 2,8,1,19.</ls>
+<ls>MED.</ls>
+<ls>MBH. 12,2664.</ls> = {#sattva, rajas#} und {#tamas#} (s. {#triguRa#})
+<ls>MED.</ls> {%die drei oberen Kasten%}
+<ls>MBH. 13,6464.</ls> <ls n="MBH. 13,">6605.</ls> = {#sunIti#} {%gutes Benehmen%}
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
 <LEND>

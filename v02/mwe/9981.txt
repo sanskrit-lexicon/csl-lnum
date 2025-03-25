@@ -1,9 +1,9 @@
 <L>9981<pc>236-b<k1>error<k2>error
-<div n="lb"/>ERROR¦, {%s.%} (Mistake) {#BramaH, BrAntiH#} {%f.,%} {#matiBramaH, matiBrAntiH#} {%f.,%} {#viBramaH,#}
-<div n="lb"/>{#mativiBramaH, pramAdaH, miTyAmatiH#} {%f.,%} {#pariBramaH, BrAmaH, prapaYcaH, mohaH,#}
-<div n="lb"/>{#vyamohaH, vivarttaH, vicikitsA#}. — (Irregular course, deviation)
-<div n="lb"/>{#unmArgaH, unmArgagamanaM, vimArgagamanaM, utpaTaH, satpaTaBraMSaH, yaTocitAdBraMSaH,#}
-<div n="lb"/>{#utkramaH, vyatikramaH, vyaBicAraH, BrezaH#}. — (Fault, sin) {#dozaH, aparADaH,#}
-<div n="lb"/>{#pApaM;#} ‘in error,’ {#aparADI -DinI -Di (n), aparAdDaH -dDA -dDaM;#} ‘I
-<div n="lb"/>am not in error,’ {#nAham aparAdDaH#}.
+ERROR¦, {%s.%} (Mistake) {#BramaH, BrAntiH#} {%f.,%} {#matiBramaH, matiBrAntiH#} {%f.,%} {#viBramaH,#}
+{#mativiBramaH, pramAdaH, miTyAmatiH#} {%f.,%} {#pariBramaH, BrAmaH, prapaYcaH, mohaH,#}
+{#vyamohaH, vivarttaH, vicikitsA#}. — (Irregular course, deviation)
+{#unmArgaH, unmArgagamanaM, vimArgagamanaM, utpaTaH, satpaTaBraMSaH, yaTocitAdBraMSaH,#}
+{#utkramaH, vyatikramaH, vyaBicAraH, BrezaH#}. — (Fault, sin) {#dozaH, aparADaH,#}
+{#pApaM;#} ‘in error,’ {#aparADI -DinI -Di (n), aparAdDaH -dDA -dDaM;#} ‘I
+am not in error,’ {#nAham aparAdDaH#}.
 <LEND>

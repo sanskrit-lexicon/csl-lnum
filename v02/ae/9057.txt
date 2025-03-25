@@ -1,7 +1,7 @@
 <L>9057<pc>405<k1>rustic<k2>rustic
 {@Rustic,@}¦ {%a.%} {#grAmya, grAmIya-Ra, grAmika#} ({#kI#} {%f.%}),
-<div n="lb"/>{#jAnapada#} ({#dI#} {%f.%}), {#asaBya, aSizwa, avinIta,#}
-<div n="lb"/>{#prAkfta#}. {%-s.%} {#grAmyaH, grAmIRaH, vfzalaH, jAnapadaH#}.
-<div n="lb"/>{@-ally,@} {%adv.%} {#grAmikavat, grAmyajanavat#}.
-<div n="lb"/>{@-ity,@} {%s.%} {#grAmyatA, aSizwatA, asaByatA#}.
+{#jAnapada#} ({#dI#} {%f.%}), {#asaBya, aSizwa, avinIta,#}
+{#prAkfta#}. {%-s.%} {#grAmyaH, grAmIRaH, vfzalaH, jAnapadaH#}.
+{@-ally,@} {%adv.%} {#grAmikavat, grAmyajanavat#}.
+{@-ity,@} {%s.%} {#grAmyatA, aSizwatA, asaByatA#}.
 <LEND>

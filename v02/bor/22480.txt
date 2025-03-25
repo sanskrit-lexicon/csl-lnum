@@ -1,12 +1,12 @@
 <L>22480<pc>709<k1>thousand<k2>thousand
-<div n="lb"/>{@THOUSAND:@}¦ <div n="1">(1) {#sahasram,#} <div n="xe">{%not less than four t.%}
-<div n="lb"/>{%verses:%}</div> <div n="xs">{#anyUnacatvAri SlokasahasrARi,#}</div> V. m. 107.
-<div n="lb"/>11.; <div n="xe">{%two t.:%}</div> <div n="xs">{#dve sahasre;#}</div> <div n="xe">{%ten t.:%}</div> <div n="xs">{#daSa sahasrARi;#}</div>
-<div n="lb"/><div n="xe">{%t. arms:%}</div> <div n="xs">{#dozRAM sahasram,#}</div> Mah.; </div><div n="1">(2) {#daSaSatam#} ({#tI#})
-<div n="lb"/>(rare). <div n="xe">{%T. times:%}</div> <div n="xs">{#sahasrakftvaH;#}</div> {%t.s of times:%}
-<div n="lb"/>{#sahasraSaH;#} <div n="xe">{%in t. ways or parts:%}</div> <div n="xs">{#sahasraDA;#}</div> {%ten t.:%}
-<div n="lb"/>{#ayutam;#} <div n="xe">{%hundred t.:%}</div> <div n="xs">{#lakzam;#}</div> {%the t.-eyed (Indra):%}
-<div n="lb"/>{#sahasrAkzaH;#} <div n="xe">{%the t.-armed (Arjuna):%}</div> <div n="xs">{#sahasrabAhuH;#}</div> <div n="xe">{%the%}
-<div n="lb"/>{%t.-rayed (sun):%}</div> <div n="xs">{#sahasrAMSuH;#}</div> {%the t.-headed (sun):%}
-<div n="lb"/>{#sahasraSIrzaH.#}</div>
+{@THOUSAND:@}¦ <div n="1">(1) {#sahasram,#} <div n="xe">{%not less than four t.%}
+{%verses:%}</div> <div n="xs">{#anyUnacatvAri SlokasahasrARi,#}</div> V. m. 107.
+11.; <div n="xe">{%two t.:%}</div> <div n="xs">{#dve sahasre;#}</div> <div n="xe">{%ten t.:%}</div> <div n="xs">{#daSa sahasrARi;#}</div>
+<div n="xe">{%t. arms:%}</div> <div n="xs">{#dozRAM sahasram,#}</div> Mah.; </div><div n="1">(2) {#daSaSatam#} ({#tI#})
+(rare). <div n="xe">{%T. times:%}</div> <div n="xs">{#sahasrakftvaH;#}</div> {%t.s of times:%}
+{#sahasraSaH;#} <div n="xe">{%in t. ways or parts:%}</div> <div n="xs">{#sahasraDA;#}</div> {%ten t.:%}
+{#ayutam;#} <div n="xe">{%hundred t.:%}</div> <div n="xs">{#lakzam;#}</div> {%the t.-eyed (Indra):%}
+{#sahasrAkzaH;#} <div n="xe">{%the t.-armed (Arjuna):%}</div> <div n="xs">{#sahasrabAhuH;#}</div> <div n="xe">{%the%}
+{%t.-rayed (sun):%}</div> <div n="xs">{#sahasrAMSuH;#}</div> {%the t.-headed (sun):%}
+{#sahasraSIrzaH.#}</div>
 <LEND>

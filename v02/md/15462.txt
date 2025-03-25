@@ -1,12 +1,3 @@
 <L>15462<pc>259-a3<k1>lagna<k2>lagna
-{#lagna#}¦lag-na, {%pp.%} √ lag; {%m. n.%} point of intersection, <lbinfo n="5"/>
-<> point where the sun and the planets 
-<>rise; horoscope; auspicious {%or%} lucky moment 
-<>for (-°): {@-kāla,@} {%m.%} auspicious time ({%for an %}
-<>{%undertaking%}); {@-graha,@} {%a.%} persistent, obtrusive; <lbinfo n="2"/>
-<> {@-dina,@} {%n.,%} {@-divasa,@} {%m.%} auspicious 
-<>{%or%} lucky day ({%for an undertaking%}); {@-velā,@} 
-<>{%f.,%} {@-samaya,@} {%m.%} auspicious time ({%for an undertaking%}); <lbinfo n="2"/>
-<> {@-aha,@} {%m.%} auspicious day ({%for an %}
-<>{%undertaking%}).
+{#lagna#}¦ lag-na, <ab>pp.</ab> √ lag; <lex>m.</lex> <lex>n.</lex> point of intersection, 🞄point where the sun and the planets 🞄rise; horoscope; auspicious {%or%} lucky moment 🞄for (<ab>—°</ab>): {@-kāla,@} <lex>m.</lex> auspicious time ({%for an 🞄undertaking%}); {@-graha,@} <lex>a.</lex> persistent, obtrusive; 🞄{@-dina,@} <lex>n.</lex>, {@-divasa,@} <lex>m.</lex> auspicious 🞄{%or%} lucky day ({%for an undertaking%}); {@-velā,@} 🞄<lex>f.</lex>, {@-samaya,@} <lex>m.</lex> auspicious time ({%for an undertaking%}); 🞄{@-aha,@} <lex>m.</lex> auspicious day ({%for an 🞄undertaking%}).
 <LEND>

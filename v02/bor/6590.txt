@@ -1,6 +1,6 @@
 <L>6590<pc>211<k1>distance<k2>distance
-<div n="lb"/>{@DISTANCE@}¦ (v.): <div n="1">(1) {#dUrIkaroti, vi-,#} <div n="xe">{%garden plants%}
-<div n="lb"/>{%have been d. d by wild plants:%}</div> <div n="xs">{#dUrIkftA udyAnalatA #}
-<div n="lb"/>{# vanalatABiH,#}</div> Sa.; </div><div n="1">(2) {#davayati#} (nomi.). (rare),
-<div n="lb"/><div n="xe">{%d. ing the places reached:%}</div> <div n="xs">{#davayatprAptamUrvIviBAgam,#}</div> <ls>B.</ls></div>
+{@DISTANCE@}¦ (v.): <div n="1">(1) {#dUrIkaroti, vi-,#} <div n="xe">{%garden plants%}
+{%have been d. d by wild plants:%}</div> <div n="xs">{#dUrIkftA udyAnalatA #}
+{# vanalatABiH,#}</div> Sa.; </div><div n="1">(2) {#davayati#} (nomi.). (rare),
+<div n="xe">{%d. ing the places reached:%}</div> <div n="xs">{#davayatprAptamUrvIviBAgam,#}</div> <ls>B.</ls></div>
 <LEND>

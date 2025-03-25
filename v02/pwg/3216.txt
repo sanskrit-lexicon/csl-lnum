@@ -1,173 +1,172 @@
 <L>3216<pc>1-0233<k1>anta<k2>a/nta
-{#a/nta#}¦ <lex>m.</lex> 
-<ls>Uṇ. 3, 85.</ls> 
-<ls>SIDDH. K. 249</ls>, {%b%}, 
-<ls>?15. m. n. 251</ls>, {%b%}, 1. am Ende einer <lex>adj.</lex> Zusammens. <lex>f.</lex> {#A#} 
-<ls>M. 1, 50.</ls> 
-<ls>R. 1, 5, 1. 2, 12, 32. 5, 18, 35. 6, 96, 7.</ls> 
-<ls>KATHĀS. 3, 77.</ls> mit angefügtem {#ka (°antaka)#} 
-<ls>TRIK. 2, 1, 5. 3, 5, 21.</ls> 
-<ls>H. 242.</ls> Accent im comp. nach einer Präposition 
-<ls>P. 6, 2, 180. 181.</ls> 
-<div n="1"> 1) <lex>m.</lex> {%Rand, Saum, Grenze, Endpunkt, Ende im Raume%} 
-<ls>H. 962.</ls> 
-<ls>an. 2, 157.</ls> {#di\vo 'nte^Byaspari#} 
-<ls>ṚV. 1, 49, 3.</ls> <ls n="ṚV. 1,">92, 11.</ls> <ls n="ṚV.">10, 8, 1.</ls> {#pfcCAmi tvA paramantaM pfTivyAH - iyaM vediH paro 'ntaH pfTivyAH#} 
-<ls>VS. 23, 61. 62.</ls> {#u\BAvantO^#} {%die beiden entgegengesetzten Horizonte%} 
-<ls>AV. 6, 89, 3. 13, 2, 6. 13.</ls> {#antAnvaH prajA BakzIzwa#} {%der Grenzen (des Landes%} d. h. {%des werthlosesten Theils) sollen eure Nachkommen theilhaftig werden%} 
-<ls>AIT. BR. 7, 18.</ls> {#yaM yamantamaBikAmA#} ({%nach welcher Grenze, nach welcher Gegend immer%}) {#Bavanti yaM janapadaM ca yaM kzetraBAgaM taM tamevopajIvanti#} 
-<ls>CHĀND. UP. 8, 1, 5. 2, 10.</ls> {#laNkAyAM vizayAntezu#} 
-<ls>R. 3, 61, 24.</ls> {#gahanezvASramAntezu#} {%in an Einsiedeleien grenzenden Wäldern%} 
-<ls>1, 23.</ls> {#sAgarAntezu#} {%an den Ufern des Meeres%} 
-<ls>6, 9, 18.</ls> {#taqAgam - padmotkaravicitrAntam#} 
-<ls>3, 15, 6.</ls> {#AkASAnnte#} ({%vom Aether begrenzt%}) {#nimagnAsi vivfte SokasAgare#} 
-<ls>4, 22, 14.</ls>
+{#a/nta#}¦ <lex>m.</lex>
+<ls>Uṇ. 3,85.</ls>
+<ls>SIDDH. K. 249,b,15.</ls>
+m. n. <ls n="SIDDH. K.">251,b,1.</ls> am Ende einer <lex>adj.</lex> Zusammens. <lex>f.</lex> {#A#}
+<ls>M. 1,50.</ls>
+<ls>R. 1,5,1.</ls> <ls n="R.">2,12,32.</ls> <ls n="R.">5,18,35.</ls> <ls n="R.">6,96,7.</ls>
+<ls>KATHĀS. 3,77.</ls> mit angefügtem {#ka (°antaka)#}
+<ls>TRIK. 2,1,5.</ls> <ls n="TRIK.">3,5,21.</ls>
+<ls>H. 242.</ls> Accent im comp. nach einer Präposition
+<ls>P. 6,2,180.</ls> <ls n="P. 6,2,">181.</ls>
+<div n="1"> 1) <lex>m.</lex> {%Rand, Saum, Grenze, Endpunkt, Ende im Raume%}
+<ls>H. 962.</ls>
+<ls>an. 2,157.</ls> {#di\vo 'nte^Byaspari#}
+<ls>ṚV. 1,49,3.</ls> <ls n="ṚV. 1,">92,11.</ls> <ls n="ṚV.">10,8,1.</ls> {#pfcCAmi tvA paramantaM pfTivyAH — iyaM vediH paro 'ntaH pfTivyAH#}
+<ls>VS. 23,61. 62.</ls> {#u\BAvantO^#} {%die beiden entgegengesetzten Horizonte%}
+<ls>AV. 6,89,3.</ls> <ls n="AV.">13,2,6.</ls> <ls n="AV. 13,2,">13.</ls> {#antAnvaH prajA BakzIzwa#} {%der Grenzen (des Landes%} d. h. {%des werthlosesten Theils) sollen eure Nachkommen theilhaftig werden%}
+<ls>AIT. BR. 7,18.</ls> {#yaM yamantamaBikAmA#} ({%nach welcher Grenze, nach welcher Gegend immer%}) {#Bavanti yaM janapadaM ca yaM kzetraBAgaM taM tamevopajIvanti#}
+<ls>CHĀND. UP. 8,1,5. 2,10.</ls> {#laNkAyAM vizayAntezu#}
+<ls>R. 3,61,24.</ls> {#gahanezvASramAntezu#} {%in an Einsiedeleien grenzenden Wäldern%}
+<ls n="R. 3,">1,23.</ls> {#sAgarAntezu#} {%an den Ufern des Meeres%}
+<ls n="R.">6,9,18.</ls> {#taqAgam — padmotkaravicitrAntam#}
+<ls n="R.">3,15,6.</ls> {#AkASAnnte#} ({%vom Aether begrenzt%}) {#nimagnAsi vivfte SokasAgare#}
+<ls n="R.">4,22,14.</ls>
 [Page1-0234]
-{#sAgarAnta#} oder {#samudrAnta#} <lex>adj.</lex> <lex>f.</lex> {#A#} {%vom Meere begrenzt%}, ein Beiwort der Erde 
-<ls>1, 5, 1. 2, 12, 32. 5, 18, 35.</ls> <ls>KATHĀS. 3, 77.</ls> {#citAM candanakAzWAntAm#} 
-<ls>R. 6, 96, 7.</ls> {#netrARAM raktAntAnAm#} 
-<ls>SUND. 3, 27. 4, 11.</ls> 
-<ls>N. 24, 16.</ls> 
-<ls>R. 3, 26, 12. 52, 34. 4, 33, 31.</ls> {#vanAnta#} {%Saum eines Waldes%} 
-<ls>2, 30, 14. 54, 39. 4, 37, 9. 5, 28, 1.</ls> <ls>MEGH. 24.</ls> {#mahatIyamitaH senA sAgarABA pradfSyate . nAsyAntamavagacCAmi manasApi vicintayan ..#} 
-<ls>R. 2, 84, 2.</ls> {#somopanahanasya antAn#} ({%Gipfel%}) 
-<ls>ŚAT. BR. 3, 3, 2, 18.</ls> 
-<ls>KĀTY. ŚR. 7, 7, 20.</ls> {#vastrAnta#} {%Zipfel eines Gewandes%} 
-<ls>R. 4, 6, 16. 5, 21, 20.</ls> 
-<ls>N. 5, 26.</ls> 
-<ls>ŚĀK. 69, 11.</ls> 
-<ls>AMAR. 2.</ls> 
-<ls>ŚṚṄGĀRAT. 10.</ls> 
-<ls>VID. 131.</ls> {#apANgO netrayorantO#} 
-<ls>AK. 2, 6, 2, 45.</ls> 
-<ls>H. 579.</ls> {#pAdAnta#} {%Fussende%}: {#tenApi pAdAntenAkrAntaH#} 
-<ls>PAÑCAT. 167, 17.</ls> {#pAdAnte vinipatya#} 
-<ls>SĀH. D. 48, 7.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%Ende eines Gewebes, Zeltelende, Leiste, Saum%}: {#ko vo\ varzi^zWa\ A na^ro di\vaSca\ gmaSca^ DUtayaH . yatsI\manta\M na DU^nuTa ..#} 
-<ls>ṚV. 1, 37, 6.</ls> {#yA akf^nta\nnava^ya\nyASca^ tatni\re yA de\vIrantA^~ aBito 'dadanta#} 
-<ls>AV. 14, 1, 45.</ls> {#ye antA\ yAva^tI\H sico\ ya ota^vo\ ye ca\ tanta^vaH#} 
-<ls>2, 51.</ls> 
-<div n="1">— 3) <lex>m.</lex> {%Nähe%} 
-<ls>H. an. 2, 157.</ls> 
-<ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 20, 22.</ls> und <ls>KIR. 6, 17.</ls> {#AntA\dA pa^rA\kAt#} 
-<ls>ṚV. 1, 30, 21.</ls> {#so a\gnerante^ vfza\laH pa^pAda#} 
-<ls n="ṚV.">10, 34, 4.</ls> {#nADIyIta SmaSAnAnte grAmAnte#} 
-<ls>M. 4, 116. 11, 78.</ls> 
-<ls>YĀJÑ. 2, 162.</ls> {#jalAnte#} 
-<ls>1, 143.</ls> {#gaNgAprapAtAntavirUQaSazpaM gahvaram#} 
-<ls>RAGH. 2, 26.</ls> {#ante#} {%im Beisein, in Gegenwart%} 
-<ls>ŚAT. BR. 1, 6, 1, 21.</ls> {#goH#} 
-<ls>3, 1, 2, 17.</ls> {#yAM tu kumArasyAnte vAcamaBAzaTAstAM me brUhi#} 
-<ls>?14, 9, 1, 8. (= BṚH. ĀR. UP. 6, 2, 5.) CHĀHD. UP. 5, 3, 6.</ls> {#anyo'nyAmantraRaM yatsyAjjanAnte tajjanAntikam#} 
-<ls>SĀH. D. (1828) 177, 18.</ls> {#antam#} am Ende eines comp. {%bis zu%}: {#prAyaRAntamoMkAramaBiDyAyIta#} ({%bis zum Tode%}) 
-<ls>PRAŚNOP. 5, 1.</ls> {#udakAntamupanIya matsyam#} 
-<ls>MATSYOP. 10.</ls> {#SravaRAntamupAnIya (cApam)#} 
-<ls>R. 3, 50, 17.</ls> {#udakAntaM snigDo 'nugamyate#} 
-<ls>ŚĀK. CH. 85, 11.</ls> {#antAt#} {%von - her%}: {#tamAvartamAnam - vanAntAt#} 
-<ls>RAGH. 2, 19.</ls> {#A - antati#} {%bis zu%}: {#odakAntAtsnigDo jano 'nugantavyaH#} 
-<ls>ŚĀK. 54, 21.</ls> {#AmaraRAnta#} <lex>adj.</lex> {%bis zum Tode während%} 
-<ls>HIT. I, 180.</ls> 
-<div n="1">— 4) <lex>m.</lex> <lex>n.</lex> {%Ende, Ausgang%} 
-<ls>AK. 3, 2, 30.</ls> 
-<ls>TRIK. 3, 3, 145.</ls> 
-<ls>H. 1459.</ls> 
-<ls>MED. t. 2.</ls> {#ante - AdO#} 
-<ls>ŚVETĀŚV. UP. 4, 1.</ls> {#na\hi te\ anta\H Sava^saH parI\RaSe^#} 
-<ls>ṚV. 1, 54, 1.</ls> <ls n="ṚV. 1,">52, 14.</ls> {#na Satru\ranta^M vividadyu\DA te^#} 
-<ls n="ṚV.">7, 21, 6.</ls> {#antAya bahuvAdinamantAya mUkam#} 
-<ls>VS. 30, 19.</ls> {#anto hi yajYasya samizwayajuH#} 
-<ls>ŚAT. BR. 3, 1, 3, 6. 5, 2, 2, 19. 21. 4, 4, 25.</ls> {#tadiqAntaM Bavati#} 
-<ls>1, 9, 2, 14. 3, 4, 1, 26.</ls> {#SamwvantaM Bavati#} 
-<ls>2, 3, 23.</ls> {#duHKasyAntaM Bavizyati#} 
-<ls>ŚVETĀŚV. UP. 6, 20.</ls> {#jIvitasyAntaH#} 
-<ls>R. 2, 9, 50.</ls> {#jIvitAntamupAgamat#} 
-<ls>DAŚ. 2, 72.</ls> {#aharniSasyAnte#} 
-<ls>M. 1, 74.</ls> 
-<ls>R. 1, 46, 15.</ls> 
-<ls>HIT. I, 43.</ls> <ls>RAGH. 4, 1.</ls> {#uBayorapi (asataH sataSca) dfzwo 'ntastvanayostattvadarSiBiH#} 
-<ls>BHAG. 2, 16</ls> (<ls>SCHL.</ls>: {%discrimen%}). {#vyasanAni durantAni#} 
-<ls>M. 7, 45.</ls> {#kaTAnte#} 
-<ls>N. 22, 4.</ls> 
-<ls>VIŚV. 2, 12.</ls> {#sekAnte#} 
-<ls>RAGH. 1, 51.</ls> {#tfpternAstyanto yasya darSanAt#} 
-<ls>AK. 3, 2, 2.</ls> {#ekasya kazwasya na yAvadantaM gacCAmyahaM pAramivArRavasya#} 
-<ls>PAÑCAT. II, 187.</ls> {#vyasanaM varDayatyeva tasyAntaM nADigacCati#} 
-<ls>195.</ls> {#antaM gam#} 
-<ls>ŚĀK. 139.</ls> (vgl. v. l.) bedeutet sowohl {%sein Ende erreichen%} als auch {%mit Etwas zu Ende gelangen%} (vgl. {#antaM yA#} v.l. in der letzteren Bedeutung). {#ante#} {%zuletzt, am Schluss%} 
-<ls>ŚĀK. CH. 155, 14.</ls> Die Beziehungen von {#anta#} {%Ende%} am Ende eines <lex>adj.</lex> comp. zu dem vorangehenden Begriffe und zu dem Begriffe, mit dem das comp. verbunden wird (der 3te Begriff), sind mannichfach: 
-<div n="2"> a) der vorangehende Begriff bezeichnet speciell das {%Ende%} des 3ten Begriffs: {#BasmAntaM#} ({%schliesslich in Asche aufgehend%}) {#SarIram#} 
-<ls>ĪŚOP. 17.</ls> 
-<div n="2">— b) der vorangehende Begriff ist die Veranlassung, dass der 3te Begriff sein {%Ende%} erreicht: {#kalahAntAni#} ({%durch Streit ihr Ende erreichend%}) {#harmyARi kuvAkyAntaM ca sOhfdam . kurAjAntAni rAzwrARi kukarmAntaM yaSo nfRAm ..#} 
-<ls>PAÑCAT. V, 64.</ls> {#tadantaM tasya jIvitam#}
+{#sAgarAnta#} oder {#samudrAnta#} <lex>adj.</lex> <lex>f.</lex> {#A#} {%vom Meere begrenzt%}, ein Beiwort der Erde
+<ls n="R.">1,5,1.</ls> <ls n="R.">2,12,32.</ls> <ls n="R.">5,18,35.</ls> <ls>KATHĀS. 3,77.</ls> {#citAM candanakAzWAntAm#}
+<ls>R. 6,96,7.</ls> {#netrARAM raktAntAnAm#}
+<ls>SUND. 3,27. 4,11.</ls>
+<ls>N. 24,16.</ls>
+<ls>R. 3,26,12.</ls> <ls n="R. 3,">52,34.</ls> <ls n="R.">4,33,31.</ls> {#vanAnta#} {%Saum eines Waldes%}
+<ls n="R.">2,30,14.</ls> <ls n="R. 2,">54,39.</ls> <ls n="R.">4,37,9.</ls> <ls n="R.">5,28,1.</ls> <ls>MEGH. 24.</ls> {#mahatIyamitaH senA sAgarABA pradfSyate . nAsyAntamavagacCAmi manasApi vicintayan ..#}
+<ls>R. 2,84,2.</ls> {#somopanahanasya antAn#} ({%Gipfel%})
+<ls>ŚAT. BR. 3,3,2,18.</ls>
+<ls>KĀTY. ŚR. 7,7,20.</ls> {#vastrAnta#} {%Zipfel eines Gewandes%}
+<ls>R. 4,6,16.</ls> <ls n="R.">5,21,20.</ls>
+<ls>N. 5,26.</ls>
+<ls>ŚĀK. 69,11.</ls>
+<ls>AMAR. 2.</ls>
+<ls>ŚṚṄGĀRAT. 10.</ls>
+<ls>VID. 131.</ls> {#apANgO netrayorantO#}
+<ls>AK. 2,6,2,45.</ls>
+<ls>H. 579.</ls> {#pAdAnta#} {%Fussende%}: {#tenApi pAdAntenAkrAntaH#}
+<ls>PAÑCAT. 167,17.</ls> {#pAdAnte vinipatya#}
+<ls>SĀH. D. 48,7.</ls>
+<div n="1">— 2) <lex>m.</lex> {%Ende eines Gewebes, Zeltelende, Leiste, Saum%}: {#ko vo\ varzi^zWa\ A na^ro di\vaSca\ gmaSca^ DUtayaH . yatsI\manta\M na DU^nuTa ..#}
+<ls>ṚV. 1,37,6.</ls> {#yA akf^nta\nnava^ya\nyASca^ tatni\re yA de\vIrantA^~ aBito 'dadanta#}
+<ls>AV. 14,1,45.</ls> {#ye antA\ yAva^tI\H sico\ ya ota^vo\ ye ca\ tanta^vaH#}
+<ls n="AV. 14,">2,51.</ls>
+<div n="1">— 3) <lex>m.</lex> {%Nähe%}
+<ls>H. an. 2,157.</ls>
+<ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 20,22.</ls> und <ls>KIR. 6,17.</ls> {#AntA\dA pa^rA\kAt#}
+<ls>ṚV. 1,30,21.</ls> {#so a\gnerante^ vfza\laH pa^pAda#}
+<ls n="ṚV.">10,34,4.</ls> {#nADIyIta SmaSAnAnte grAmAnte#}
+<ls>M. 4,116.</ls> <ls n="M.">11,78.</ls>
+<ls>YĀJÑ. 2,162.</ls> {#jalAnte#}
+<ls n="YĀJÑ.">1,143.</ls> {#gaNgAprapAtAntavirUQaSazpaM gahvaram#}
+<ls>RAGH. 2,26.</ls> {#ante#} {%im Beisein, in Gegenwart%}
+<ls>ŚAT. BR. 1,6,1,21.</ls> {#goH#}
+<ls n="ŚAT. BR.">3,1,2,17.</ls> {#yAM tu kumArasyAnte vAcamaBAzaTAstAM me brUhi#}
+<ls n="ŚAT. BR.">14,9,1,8.</ls> (= <ls>BṚH. ĀR. UP. 6,2,5.</ls>) <ls>CHĀND. UP. 5,3,6.</ls> {#anyo'nyAmantraRaM yatsyAjjanAnte tajjanAntikam#}
+<ls>SĀH. D. (1828) 177,18.</ls> {#antam#} am Ende eines comp. {%bis zu%}: {#prAyaRAntamoMkAramaBiDyAyIta#} ({%bis zum Tode%})
+<ls>PRAŚNOP. 5,1.</ls> {#udakAntamupanIya matsyam#}
+<ls>MATSYOP. 10.</ls> {#SravaRAntamupAnIya (cApam)#}
+<ls>R. 3,50,17.</ls> {#udakAntaM snigDo 'nugamyate#}
+<ls>ŚĀK. CH. 85,11.</ls> {#antAt#} {%von — her%}: {#tamAvartamAnam — vanAntAt#}
+<ls>RAGH. 2,19.</ls> {#A — antati#} {%bis zu%}: {#odakAntAtsnigDo jano 'nugantavyaH#}
+<ls>ŚĀK. 54,21.</ls> {#AmaraRAnta#} <lex>adj.</lex> {%bis zum Tode während%}
+<ls>HIT. I,180.</ls>
+<div n="1">— 4) <lex>m.</lex> <lex>n.</lex> {%Ende, Ausgang%}
+<ls>AK. 3,2,30.</ls>
+<ls>TRIK. 3,3,145.</ls>
+<ls>H. 1459.</ls>
+<ls>MED. t. 2.</ls> {#ante — AdO#}
+<ls>ŚVETĀŚV. UP. 4,1.</ls> {#na\hi te\ anta\H Sava^saH parI\RaSe^#}
+<ls>ṚV. 1,54,1.</ls> <ls n="ṚV. 1,">52,14.</ls> {#na Satru\ranta^M vividadyu\DA te^#}
+<ls n="ṚV.">7,21,6.</ls> {#antAya bahuvAdinamantAya mUkam#}
+<ls>VS. 30,19.</ls> {#anto hi yajYasya samizwayajuH#}
+<ls>ŚAT. BR. 3,1,3,6.</ls> <ls n="ŚAT. BR.">5,2,2,19.</ls> <ls n="ŚAT. BR. 5,2,2,">21.</ls> <ls n="ŚAT. BR. 5,">4,4,25.</ls> {#tadiqAntaM Bavati#}
+<ls n="ŚAT. BR.">1,9,2,14.</ls> <ls n="ŚAT. BR.">3,4,1,26.</ls> {#SamwvantaM Bavati#}
+<ls n="ŚAT. BR. 3,">2,3,23.</ls> {#duHKasyAntaM Bavizyati#}
+<ls>ŚVETĀŚV. UP. 6,20.</ls> {#jIvitasyAntaH#}
+<ls>R. 2,9,50.</ls> {#jIvitAntamupAgamat#}
+<ls>DAŚ. 2,72.</ls> {#aharniSasyAnte#}
+<ls>M. 1,74.</ls>
+<ls>R. 1,46,15.</ls>
+<ls>HIT. I,43.</ls> <ls>RAGH. 4,1.</ls> {#uBayorapi (asataH sataSca) dfzwo 'ntastvanayostattvadarSiBiH#}
+<ls>BHAG. 2,16</ls> (<ls>SCHL.</ls>: {%discrimen%}). {#vyasanAni durantAni#}
+<ls>M. 7,45.</ls> {#kaTAnte#}
+<ls>N. 22,4.</ls>
+<ls>VIŚV. 2,12.</ls> {#sekAnte#}
+<ls>RAGH. 1,51.</ls> {#tfpternAstyanto yasya darSanAt#}
+<ls>AK. 3,2,2.</ls> {#ekasya kazwasya na yAvadantaM gacCAmyahaM pAramivArRavasya#}
+<ls>PAÑCAT. II,187.</ls> {#vyasanaM varDayatyeva tasyAntaM nADigacCati#}
+<ls n="PAÑCAT. II,">195.</ls> {#antaM gam#}
+<ls>ŚĀK. 139.</ls> (vgl. v. l.) bedeutet sowohl {%sein Ende erreichen%} als auch {%mit Etwas zu Ende gelangen%} (vgl. {#antaM yA#} v.l. in der letzteren Bedeutung). {#ante#} {%zuletzt, am Schluss%}
+<ls>ŚĀK. CH. 155,14.</ls> Die Beziehungen von {#anta#} {%Ende%} am Ende eines <lex>adj.</lex> comp. zu dem vorangehenden Begriffe und zu dem Begriffe, mit dem das comp. verbunden wird (der 3te Begriff), sind mannichfach:
+<div n="2"> a) der vorangehende Begriff bezeichnet speciell das {%Ende%} des 3ten Begriffs: {#BasmAntaM#} ({%schliesslich in Asche aufgehend%}) {#SarIram#}
+<ls>ĪŚOP. 17.</ls>
+<div n="2">— b) der vorangehende Begriff ist die Veranlassung, dass der 3te Begriff sein {%Ende%} erreicht: {#kalahAntAni#} ({%durch Streit ihr Ende erreichend%}) {#harmyARi kuvAkyAntaM ca sOhfdam . kurAjAntAni rAzwrARi kukarmAntaM yaSo nfRAm ..#}
+<ls>PAÑCAT. V,64.</ls> {#tadantaM tasya jIvitam#}
 [Page1-0235]
-
-<ls>HIT. I, 85.</ls> {#kopamakAraRam . vaDAntaM kaTayitvA#} 
-<ls>KATHĀS. 5, 41.</ls> 
-<div n="2">— c) das {%Ende%} des vorangehenden und des 3ten Begriffs fallen zusammen: {#yugasahasrAntaM#} ({%nach Abfluss von 1000%} <is>Yuga</is> {%sein Ende erreichend%}) {#brAhmaM puRyamaharviduH#} 
-<ls>M. 1, 73.</ls> {#triyojanasahasrAntamaDvAnaM samatItya#} 
-<ls>R. 6, 4, 14.</ls> 
-<div n="2">— d) der 3te Begriff steht in genauer Verbindung mit dem {%Ende%} des vorangehenden Begriffs: {#prARAntaM daRqam#} {%eine Strafe, die mit dem Ende des Lebens verbunden ist, Todesstrafe%} 
-<ls>M. 8, 359.</ls> {#ftvantAsu rAtrizu#} {%in den Nächten am Ende der Jahreszeiten%} 
-<ls>4, 119.</ls> 
-<div n="1">— 5) <lex>m.</lex> {%Lebensende, Tod, Vernichtung%} 
-<ls>AK. 2, 8, 2, 85. 3, 4, 43.</ls> 
-<ls>TRIK. 3, 3, 145.</ls> 
-<ls>H. an. 2, 157.</ls> 
-<ls>MED. t. 2.</ls> <ls>VAIJ. a. a. O.</ls> {#taTA nAntameti taTA jyogjIvati#} 
-<ls>ŚAT. BR. 5, 2, 2, 4.</ls> {#rAmastvAmantamupanezyati#} 
-<ls>R. 5, 87, 26.</ls> {#daSaraTAntAya#} 
-<ls>2, 53, 14.</ls> {#mamApyante#} 
-<ls>ŚĀK. 91, 13.</ls> 
-<ls>RAGH. 1, 8. 2, 48. 12, 75.</ls> {#SarIrAnte#} 
-<ls>R. 6, 95, 25.</ls> {#ozaDyaH PalapAkAntAH#} 
-<ls>M. 1, 46.</ls> <ls>?= AK. 2, 4, 1, 6.</ls> Vgl. {#antakAla#} . 
-<div n="1">— 6) <lex>m.</lex> {%Lösung, Enthüllung, Entwirrung%} ({#niScaya#}) 
-<ls>H. 1374.</ls> 
-<ls>an. 2, 157.</ls> 
-<ls>VAIJ. a. a. O.</ls> {#sarveByo mAnteBya#} 
-(<ls>ŚAṂK.</ls>: {#praSnanirRayAvasAna) udarOtsIt#} 
-<ls>ŚAT. BR. 14, 7, 1, 41.</ls> <ls>?= BṚH. ĀR. UP. 4, 3, 33.</ls> {#dvikarRasya tu mantrasya brahmApyantaM na gacCati#} 
-<ls>VET. 3, 11. 15, 3.</ls> {#suguptasyApi damBasya brahmApyantaM na gacCati#} 
-<ls>PAÑCAT. I, 222.</ls> {%Abrechnung%}: {#hanta te 'nayA kAtyAyanyAntaM karavARi#} {%ich will zwischen dir und K. eine Abrechnung machen%} 
-<ls>ŚAT. BR. 14, 5, 4, 1. 7, 3, 2.</ls> <ls>?= BṚH. ĀR. UP. 2, 4, 1. 4, 5, 2.</ls> Dieselbe Bedeutung hat {#anta#} wohl auch in {#aRvanta, vedAnta, sidDAnta#} . 
-<div n="1">— 7) {%Inbegriff, Gesammtheit%}: {#kAmAnta#} 
-<ls>VET. 21, 2.</ls> Hierher gehört vielleicht auch {#keSAnta#} und {#vfttAnta#} . 
-<div n="1">— 8) {%Endsilbe, Endung, Auslaut%} 
-<ls>P. 6, 2, 92. 143. 8, 4, 20.</ls> {#gotrAnta#} {%ein Patronymicum%} 
-<ls>AK. 3, 3, 40.</ls> <ls>?(COLEBR. 39.)</ls> {#adanta#} {%auf ein kurzes a auslautend%} 
-<ls>3, 6, 3.</ls> {#styAdyantakaM padam#} 
-<ls>H. 242.</ls> {#AbantakAH#} 
-<ls>TRIK. 3, 5, 21.</ls> 
-<div n="1">— 9) {%das letzte Wort einer Zusammensetzung%}: {#°daDidugDajalAntakAH#} 
-<ls>TRIK. 2, 1, 5.</ls> 
-<div n="1">— 10) {%Pause%} 
-<ls>VOP. 2, 43.</ls> 
-<div n="1">— 11) {%eine ungeheure Zahl%}: {#arbudErarbudaSatErmaDyErantESca#} 
-<ls>R. 4, 38, 55.</ls> 
-<ls>Sch.</ls> : {#maDyErmaDyadeSasTErantErdeSaprAntasTEH#} . Vgl. {#antya#}, wie vielleicht hier zu lesen ist. 
-<div n="1">— 12) {%Art%} ({#svarUpa#}) <lex>m.</lex> 
-<ls>MED. t. 2.</ls> <ls>VAIJ. a. a. O.</ls> n. <ls>TRIK. 3, 3, 145.</ls> <ls>H. an. 2, 157.</ls> {#etadantAstu#} ({%derartig%}) {#gatayo brahmAdyo samudAhftAH#} 
-<ls>M. 1, 50.</ls> 
-<div n="1">— 13) <lex>m.</lex> {%Zustand%}: {#etAbuBAvantAvanusaMcarati svapnAntaM#} ({%den Zustand des Schlafes%}) {#ca budDAntaM#} ({%den Zustand des Wachens%}) {#ca#} 
-<ls>BṚH. ĀR. UP. 4, 3, 18. 16. 17.</ls> 
-<ls>CHĀND. UP. 6, 8, 1.</ls> 
-<ls>R. 5, 27, 10.</ls> {#jAgaritAnta#} (=  {#budDAnta#}) 
-<ls>KAṬHOP. 4, 4.</ls> {#no cedenamahaM#} ({%das Meer%}) {#sTalAntamadyEva nezyAmi#} 
-<ls>PAÑCAT. 84, 10.</ls> Statt {#sTalAnta#} finden wir ebend. 
-<ls>20</ls> : {#sTalatA#} . 
-<div n="1">— 14) {%das Innere%}: {#yuzmadIyaM ca jalAnte#} ({%im Wasser%}) {#gfham#} 
-<ls>PAÑCAT. 208, 5.</ls> {#kUpAntaM#} ({%in den Brunnen%}) {#patitaH#} 
-<ls>II, 86.</ls> {#kUpAntamAsAdya#} 
-<ls>211, 24.</ls> Hierher gehört wohl auch {#kAnanAntAni#} 
-<ls>R. 4, 48, 14.</ls> und vielleicht auch {#vanAnte#} 
-<ls>RAGH. 2, 58.</ls> Vgl. {#antatas#} und {#antara#} . — Die indischen Lexicographen geben {#anta#} noch folgende Bedeutungen: 
-<div n="1"> 15) <lex>m.</lex> = {#aDyavasita#} 
-<ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>KIR. 6, 17</ls> (zu <ls>ŚIŚ. 20, 22</ls> : {#asyavasite#}). = {#avasita#} 
-<ls>ŚABDĀRṆ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 4, 40</ls> (st. {#samAsO#} ist {#samAptO#} zu lesen). 
-<div n="1">— 16) <lex>adj.</lex> {%nahe%} 
-<ls>TRIK. 3, 3, 145</ls> (lies {#antike#} st. {#attike#}). 
-<ls>MED. t. 2.</ls> 
-<div n="1">— 17) {%lieblich, angenehm%}, = {#ramya#} 
-<ls>ŚABDĀRṆ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 4, 40.</ls> = {#atimanohara#} 
+<ls>HIT. I,85.</ls> {#kopamakAraRam . vaDAntaM kaTayitvA#}
+<ls>KATHĀS. 5,41.</ls>
+<div n="2">— c) das {%Ende%} des vorangehenden und des 3ten Begriffs fallen zusammen: {#yugasahasrAntaM#} ({%nach Abfluss von 1000%} <is>Yuga</is> {%sein Ende erreichend%}) {#brAhmaM puRyamaharviduH#}
+<ls>M. 1,73.</ls> {#triyojanasahasrAntamaDvAnaM samatItya#}
+<ls>R. 6,4,14.</ls>
+<div n="2">— d) der 3te Begriff steht in genauer Verbindung mit dem {%Ende%} des vorangehenden Begriffs: {#prARAntaM daRqam#} {%eine Strafe, die mit dem Ende des Lebens verbunden ist, Todesstrafe%}
+<ls>M. 8,359.</ls> {#ftvantAsu rAtrizu#} {%in den Nächten am Ende der Jahreszeiten%}
+<ls n="M.">4,119.</ls>
+<div n="1">— 5) <lex>m.</lex> {%Lebensende, Tod, Vernichtung%}
+<ls>AK. 2,8,2,85.</ls> <ls n="AK.">3,4,43.</ls>
+<ls>TRIK. 3,3,145.</ls>
+<ls>H. an. 2,157.</ls>
+<ls>MED. t. 2.</ls> <ls>VAIJ. a. a. O.</ls> {#taTA nAntameti taTA jyogjIvati#}
+<ls>ŚAT. BR. 5,2,2,4.</ls> {#rAmastvAmantamupanezyati#}
+<ls>R. 5,87,26.</ls> {#daSaraTAntAya#}
+<ls n="R.">2,53,14.</ls> {#mamApyante#}
+<ls>ŚĀK. 91,13.</ls>
+<ls>RAGH. 1,8.</ls> <ls n="RAGH.">2,48.</ls> <ls n="RAGH.">12,75.</ls> {#SarIrAnte#}
+<ls>R. 6,95,25.</ls> {#ozaDyaH PalapAkAntAH#}
+<ls>M. 1,46.</ls> = <ls>AK. 2,4,1,6.</ls> Vgl. {#antakAla#} .
+<div n="1">— 6) <lex>m.</lex> {%Lösung, Enthüllung, Entwirrung%} ({#niScaya#})
+<ls>H. 1374.</ls>
+<ls>an. 2,157.</ls>
+<ls>VAIJ. a. a. O.</ls> {#sarveByo mAnteBya#}
+(<ls>ŚAṂK.</ls>: {#praSnanirRayAvasAna) udarOtsIt#}
+<ls>ŚAT. BR. 14,7,1,41.</ls> = <ls>BṚH. ĀR. UP. 4,3,33.</ls> {#dvikarRasya tu mantrasya brahmApyantaM na gacCati#}
+<ls>VET. 3,11. 15,3.</ls> {#suguptasyApi damBasya brahmApyantaM na gacCati#}
+<ls>PAÑCAT. I,222.</ls> {%Abrechnung%}: {#hanta te 'nayA kAtyAyanyAntaM karavARi#} {%ich will zwischen dir und K. eine Abrechnung machen%}
+<ls>ŚAT. BR. 14,5,4,1. 7,3,2.</ls> = <ls>BṚH. ĀR. UP. 2,4,1. 4,5,2.</ls> Dieselbe Bedeutung hat {#anta#} wohl auch in {#aRvanta, vedAnta, sidDAnta#} .
+<div n="1">— 7) {%Inbegriff, Gesammtheit%}: {#kAmAnta#}
+<ls>VET. 21,2.</ls> Hierher gehört vielleicht auch {#keSAnta#} und {#vfttAnta#} .
+<div n="1">— 8) {%Endsilbe, Endung, Auslaut%}
+<ls>P. 6,2,92.</ls> <ls n="P. 6,2,">143.</ls> <ls n="P.">8,4,20.</ls> {#gotrAnta#} {%ein Patronymicum%}
+<ls>AK. 3,3,40.</ls> (<ls>COLEBR. 39.</ls>) {#adanta#} {%auf ein kurzes a auslautend%}
+<ls n="AK.">3,6,3.</ls> {#styAdyantakaM padam#}
+<ls>H. 242.</ls> {#AbantakAH#}
+<ls>TRIK. 3,5,21.</ls>
+<div n="1">— 9) {%das letzte Wort einer Zusammensetzung%}: {#°daDidugDajalAntakAH#}
+<ls>TRIK. 2,1,5.</ls>
+<div n="1">— 10) {%Pause%}
+<ls>VOP. 2,43.</ls>
+<div n="1">— 11) {%eine ungeheure Zahl%}: {#arbudErarbudaSatErmaDyErantESca#}
+<ls>R. 4,38,55.</ls>
+<ls>Sch.</ls> : {#maDyErmaDyadeSasTErantErdeSaprAntasTEH#} . Vgl. {#antya#}, wie vielleicht hier zu lesen ist.
+<div n="1">— 12) {%Art%} ({#svarUpa#}) <lex>m.</lex>
+<ls>MED. t. 2.</ls> <ls>VAIJ. a. a. O.</ls> n. <ls>TRIK. 3,3,145.</ls> <ls>H. an. 2,157.</ls> {#etadantAstu#} ({%derartig%}) {#gatayo brahmAdyo samudAhftAH#}
+<ls>M. 1,50.</ls>
+<div n="1">— 13) <lex>m.</lex> {%Zustand%}: {#etAbuBAvantAvanusaMcarati svapnAntaM#} ({%den Zustand des Schlafes%}) {#ca budDAntaM#} ({%den Zustand des Wachens%}) {#ca#}
+<ls>BṚH. ĀR. UP. 4,3,18. 16. 17.</ls>
+<ls>CHĀND. UP. 6,8,1.</ls>
+<ls>R. 5,27,10.</ls> {#jAgaritAnta#} (= {#budDAnta#})
+<ls>KAṬHOP. 4,4.</ls> {#no cedenamahaM#} ({%das Meer%}) {#sTalAntamadyEva nezyAmi#}
+<ls>PAÑCAT. 84,10.</ls> Statt {#sTalAnta#} finden wir ebend.
+<ls n="PAÑCAT. 84,">20</ls> : {#sTalatA#} .
+<div n="1">— 14) {%das Innere%}: {#yuzmadIyaM ca jalAnte#} ({%im Wasser%}) {#gfham#}
+<ls>PAÑCAT. 208,5.</ls> {#kUpAntaM#} ({%in den Brunnen%}) {#patitaH#}
+<ls n="PAÑCAT.">II,86.</ls> {#kUpAntamAsAdya#}
+<ls n="PAÑCAT.">211,24.</ls> Hierher gehört wohl auch {#kAnanAntAni#}
+<ls>R. 4,48,14.</ls> und vielleicht auch {#vanAnte#}
+<ls>RAGH. 2,58.</ls> Vgl. {#antatas#} und {#antara#} . — Die indischen Lexicographen geben {#anta#} noch folgende Bedeutungen:
+<div n="1"> 15) <lex>m.</lex> = {#aDyavasita#}
+<ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>KIR. 6,17</ls> (zu <ls>ŚIŚ. 20,22</ls> : {#asyavasite#}). = {#avasita#}
+<ls>ŚABDĀRṆ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 4,40</ls> (st. {#samAsO#} ist {#samAptO#} zu lesen).
+<div n="1">— 16) <lex>adj.</lex> {%nahe%}
+<ls>TRIK. 3,3,145</ls> (lies {#antike#} st. {#attike#}).
+<ls>MED. t. 2.</ls>
+<div n="1">— 17) {%lieblich, angenehm%}, = {#ramya#}
+<ls>ŚABDĀRṆ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 4,40.</ls> = {#atimanohara#}
 <ls>VIŚVA</ls> im <ls>ŚKDR.</ls>
 <LEND>

@@ -1,6 +1,6 @@
 <L>7180<pc>228<k1>east<k2>east
-<div n="lb"/>{@EAST@}¦ (subs.): <div n="1">(1) {#pUrvadiS#} (f.), and sim. comp.s,
-<div n="lb"/><div n="xe">{%flow towards the e.:%}</div> <div n="xs">{#pUrvAM diSaM prati sravanti,#}</div> S. c.;</div>
-<div n="lb"/><div n="1">(2) {#prAcI,#} <div n="xe">{%he first went to the e.:%}</div> <div n="xs">{#sa yayO praTamaM prAcIM,#}</div>
-<div n="lb"/>R.; </div><div n="1">(3) {#EndrI dik#} and sim. comp.s, Ki.</div>
+{@EAST@}¦ (subs.): <div n="1">(1) {#pUrvadiS#} (f.), and sim. comp.s,
+<div n="xe">{%flow towards the e.:%}</div> <div n="xs">{#pUrvAM diSaM prati sravanti,#}</div> S. c.;</div>
+<div n="1">(2) {#prAcI,#} <div n="xe">{%he first went to the e.:%}</div> <div n="xs">{#sa yayO praTamaM prAcIM,#}</div>
+R.; </div><div n="1">(3) {#EndrI dik#} and sim. comp.s, Ki.</div>
 <LEND>

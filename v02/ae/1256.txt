@@ -1,9 +1,9 @@
 <L>1256<pc>043<k1>brush<k2>brush
 {@Brush,@}¦ {%s.%} {#AGarzaRI; lomamayI mArjanI#} or {#So-#}
-<div n="lb"/>{#-DanI#}. {@2@} {#tUlikA, SalAkA, vartikA#}. {@3@} {#saMGawwaH,#}
-<div n="lb"/>{#samAGAtaH#}. {%-v. t.%} {#mfj#} 2 P, {#Gfz#} 1 P, {#Garza-#}
-<div n="lb"/>{#-Rena SuD#} c. {@2@} {#mfdu taq#} 10, {#laGugatyA prahf#}
-<div n="lb"/>1 P. {%-v. i.%} (by) {#laGu Gfz#}. {@2@} {#apaDAv#} 1 P,
-<div n="lb"/>{#visfp#} 1 P. {@-wood,@} {%s.%} {#gulmaH, jaMgalaM#}. {@-y,@}
-<div n="lb"/>{%a.%} {#lomaSa#}.
+{#-DanI#}. {@2@} {#tUlikA, SalAkA, vartikA#}. {@3@} {#saMGawwaH,#}
+{#samAGAtaH#}. {%-v. t.%} {#mfj#} 2 P, {#Gfz#} 1 P, {#Garza-#}
+{#-Rena SuD#} c. {@2@} {#mfdu taq#} 10, {#laGugatyA prahf#}
+1 P. {%-v. i.%} (by) {#laGu Gfz#}. {@2@} {#apaDAv#} 1 P,
+{#visfp#} 1 P. {@-wood,@} {%s.%} {#gulmaH, jaMgalaM#}. {@-y,@}
+{%a.%} {#lomaSa#}.
 <LEND>

@@ -1,43 +1,43 @@
 <L>17043<pc>2-0273<k1>kASyapa<k2>kA/Syapa
-{#kA/Syapa#}¦ (von {#kaSyapa#}) 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} <is>Kaśyapa</is> {%gehörig, mit ihm in Verbindung stehend u.s.w.%}: {#ojas#} 
-<ls>BHĀG. P. 3, 15, 10.</ls> {#evaM varzasahasrARi divyAni satataM nfpa . triMSataH kASyapI rAjanBUmirAsIdatandritA ..#} 
-<ls>MBH. 13, 7237.</ls> {#pfTivI kASyapI jajYe sutA tasya (kaSyapasya) mahAtmanaH#} 
-<ls>7238.</ls> {#stotavyA ceha pfTivI nivApasyeha DAriRI . vEzRavI kASyapI ceti taTEvehAkzayeti ca ..#} 
-<ls>4350.</ls> {#kASyapIM devIm#} d. i. {%die Erde%} 
-<ls>HARIV. 10645.</ls> Daher {#kASyapI#} <lex>f.</lex> {%die Erde%} 
-<ls>AK. 2, 1, 2.</ls> 
-<ls>H. 937.</ls> 
-<ls>an. 3, 442.</ls> 
-<ls>MED. p. 19.</ls> {#sarvakAmasamAyuktAM kASyapIM yaH prayacCati#} 
-<ls>MBH. 13, 3164.</ls> 
-<div n="1">— 2) patron. von <is>Kaśyapa</is> <is>gaṇa</is> {#vidAdi#} zu 
-<ls>P. 4, 1, 104.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>ŚAT. BR. 7, 5, 1, 5.</ls> 
-<ls>ĀŚV. ŚR. 12, 14.</ls> 
-<ls>Ind. St. 1, 188. 2, 315. 3, 459.</ls> 
-<ls>TAITT. ĀR. 2, 18. 10, 1, 8.</ls> 
-<ls>MBH. 1, 2975. 13, 6298.</ls> 
-<ls>HARIV. 417.</ls> 
-<ls>R. 1, 9, 28. 2, 21, 24. 67, 2.</ls> 
-<ls>P. 4, 1, 124. 3, 103.</ls> 
-<ls>ŚĀK. 9, 13. 46, 7.</ls> 
-<ls>COLEBR. Misc. Ess. II, 64. 356.</ls> pl. <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 62.</ls> <ls>MBH. 3, 970.</ls> <is>Kāśyapa</is> = <is>Kṛtakoṭi</is> 
-<ls>TRIK. 2, 7, 19.</ls> = {#kaRAda#} 
-<ls>21.</ls> = {#kASyapi = aruRa#} 
-<ls>Sch.</ls> zu <ls>AK. 1, 1, 2, 33.</ls> Ein alter Grammatiker 
-<ls>WEBER, Lit. 139.</ls> <ls>P. 8, 4, 67.</ls> <ls>MĀDHAVA</ls> zu <ls>P. 7, 2, 48.</ls> buddh. <ls>H. 236.</ls> <ls>COLEBR. Misc. Ess. II, 317.</ls> <ls>BURN. Intr. 45. 158. 273. 317. 329. 391. 446. 578.</ls> <ls>LALIT. 7. 168. 270. 272.</ls> <ls>LIA. II, 78. fgg.</ls> 
-<ls>456.</ls> Dieses patron. ist so gewöhnlich, dass man es auch da gebrauchte, wo man den Geschlechtsnamen nicht kannte: {#gotrAjYAne kASyapa iti#} 
-<ls>Sch.</ls> zu <ls>KĀTY. ŚR. 4, 1, 12.</ls>
+{#kA/Syapa#}¦ (von {#kaSyapa#})
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} <is>Kaśyapa</is> {%gehörig, mit ihm in Verbindung stehend u.s.w.%}: {#ojas#}
+<ls>BHĀG. P. 3,15,10.</ls> {#evaM varzasahasrARi divyAni satataM nfpa . triMSataH kASyapI rAjanBUmirAsIdatandritA ..#}
+<ls>MBH. 13,7237.</ls> {#pfTivI kASyapI jajYe sutA tasya (kaSyapasya) mahAtmanaH#}
+<ls n="MBH. 13,">7238.</ls> {#stotavyA ceha pfTivI nivApasyeha DAriRI . vEzRavI kASyapI ceti taTEvehAkzayeti ca ..#}
+<ls n="MBH. 13,">4350.</ls> {#kASyapIM devIm#} <ab>d. i.</ab> {%die Erde%}
+<ls>HARIV. 10645.</ls> Daher {#kASyapI#} <lex>f.</lex> {%die Erde%}
+<ls>AK. 2,1,2.</ls>
+<ls>H. 937.</ls>
+<ls>an. 3,442.</ls>
+<ls>MED. p. 19.</ls> {#sarvakAmasamAyuktAM kASyapIM yaH prayacCati#}
+<ls>MBH. 13,3164.</ls>
+<div n="1">— 2) patron. von <is>Kaśyapa</is> <is>gaṇa</is> {#vidAdi#} zu
+<ls>P. 4,1,104.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>ŚAT. BR. 7,5,1,5.</ls>
+<ls>ĀŚV. ŚR. 12,14.</ls>
+<ls>Ind. St. 1,188. 2,315. 3,459.</ls>
+<ls>TAITT. ĀR. 2,18. 10,1,8.</ls>
+<ls>MBH. 1,2975.</ls> <ls n="MBH.">13,6298.</ls>
+<ls>HARIV. 417.</ls>
+<ls>R. 1,9,28.</ls> <ls n="R.">2,21,24</ls> <ls n="R. 2,">67,2.</ls>
+<ls>P. 4,1,124.</ls> <ls n="P. 4,">3,103.</ls>
+<ls>ŚĀK. 9,13.</ls> <ls n="ŚĀK.">46,7.</ls>
+<ls>COLEBR. Misc. Ess. II,64. 356.</ls> pl. <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 62.</ls> <ls>MBH. 3,970.</ls> <is>Kāśyapa</is> = <is>Kṛtakoṭi</is>
+<ls>TRIK. 2,7,19.</ls> = {#kaRAda#}
+<ls n="TRIK. 2,7,">21.</ls> = {#kASyapi = aruRa#}
+<ls>Sch.</ls> zu <ls>AK. 1,1,2,33.</ls> Ein alter Grammatiker
+<ls>WEBER, Lit. 139.</ls> <ls>P. 8,4,67.</ls> <ls>MĀDHAVA</ls> zu <ls>P. 7,2,48.</ls> buddh. <ls>H. 236.</ls> <ls>COLEBR. Misc. Ess. II,317.</ls> <ls>BURN. Intr. 45. 158. 273. 317. 329. 391. 446. 578.</ls> <ls>LALIT. 7. 168. 270. 272.</ls> <ls>LIA. II,78. fgg.</ls>
+<ls n="LIA. II,">456.</ls> Dieses patron. ist so gewöhnlich, dass man es auch da gebrauchte, wo man den Geschlechtsnamen nicht kannte: {#gotrAjYAne kASyapa iti#}
+<ls>Sch.</ls> zu <ls>KĀTY. ŚR. 4,1,12.</ls>
 [Page2-0274]
-Häufig durch ein vorangehendes Wort im comp. näher bestimmt; s. {#uruvilvAkASyapa, gayA°, daSabala°, nadI°, mahA°, hasti°#} . 
-<div n="1">— 3) <lex>m.</lex> {%eine Hirschart%} 
-<ls>MED. p. 19.</ls> 
-<div n="1">— 4) <lex>m.</lex> {%Fisch%} ({#mIna#}) 
-<ls>H. an.</ls> 
-<div n="1">— 5) <lex>n.</lex> {%Fleisch%} 
-<ls>H. 622.</ls> 
+Häufig durch ein vorangehendes Wort im comp. näher bestimmt; s. {#uruvilvAkASyapa, gayA°, daSabala°, nadI°, mahA°, hasti°#} .
+<div n="1">— 3) <lex>m.</lex> {%eine Hirschart%}
+<ls>MED. p. 19.</ls>
+<div n="1">— 4) <lex>m.</lex> {%Fisch%} ({#mIna#})
+<ls>H. an.</ls>
+<div n="1">— 5) <lex>n.</lex> {%Fleisch%}
+<ls>H. 622.</ls>
 <div n="v">— Vgl. {#kaSyapa#} .
 <LEND>

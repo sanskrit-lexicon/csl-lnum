@@ -1,14 +1,13 @@
 <L>49810<pc>4-1074<k1>pravAcya<k2>pravA/cya
-{#pravA/cya#}¦ (wie eben) 
-<ls>P. 7, 3, 66.</ls> 
-<ls>VOP. 26, 9.</ls> 
-<div n="1"> 1) <lex>adj.</lex> 
-<div n="2"> a) {%laut zu verkünden, rühmenswerth, preiswürdig%}: {#viSvettA te\ sava^nezu pravA\cyA^#} 
-<ls>ṚV. 1, 51, 13.</ls> <ls n="ṚV. 1,">105, 16.</ls> <ls n="ṚV. 1, 51,">117.</ls> <ls n="ṚV. 1, 51,">8.</ls> <ls n="ṚV. 1,">132, 4.</ls> <ls n="ṚV.">2, 22, 4.</ls> <ls n="ṚV.">3, 33, 7.</ls> {#pra\vAcyA^mindra\ tattava^ vI\ryA^Ri karizya\taH#} 
-<ls n="ṚV.">8, 51, 3.</ls> 
-<div n="2">— b) {%anzureden%}: {#iti, pravAcyo maDusUdanastvayA#} {%so musst du zu%} <is>Madh</is>. {%sprechen%} 
-<ls>HARIV. 7334. 7211.</ls> 
-<div n="1">— 2) <lex>n.</lex> = {#granTa#} {%ein literärisches Product%} 
-<ls>P. 7, 3, 66,</ls> 
-<ls>Sch.</ls>
+{#pravA/cya#}¦ (wie eben)
+<ls>P. 7,3,66.</ls>
+<ls>VOP. 26,9.</ls>
+<div n="1"> 1) <lex>adj.</lex>
+<div n="2"> a) {%laut zu verkünden, rühmenswerth, preiswürdig%}: {#viSvettA te\ sava^nezu pravA\cyA^#}
+<ls>ṚV. 1,51,13.</ls> <ls n="ṚV. 1,">105,16.</ls> <ls n="ṚV. 1,51,">117.</ls> <ls n="ṚV. 1,51,">8.</ls> <ls n="ṚV. 1,">132,4.</ls> <ls n="ṚV.">2,22,4.</ls> <ls n="ṚV.">3,33,7.</ls> {#pra\vAcyA^mindra\ tattava^ vI\ryA^Ri karizya\taH#}
+<ls n="ṚV.">8,51,3.</ls>
+<div n="2">— b) {%anzureden%}: {#iti, pravAcyo maDusUdanastvayA#} {%so musst du zu%} <is>Madh</is>. {%sprechen%}
+<ls>HARIV. 7334.</ls> <ls n="HARIV.">7211.</ls>
+<div n="1">— 2) <lex>n.</lex> = {#granTa#} {%ein literärisches Product%}
+<ls>P. 7,3,66</ls>, <ls>Sch.</ls>
 <LEND>

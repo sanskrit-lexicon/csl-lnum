@@ -1,11 +1,11 @@
 <L>11146<pc>350<k1>honourable<k2>honourable
-<div n="lb"/>{@HONOURABLE:@}¦ <div n="I">I Possessing a high mind:
-<div n="lb"/>{#mAnin#} (f. {#nI#}). </div><div n="I">II Illustrious, respected:</div>
-<div n="lb"/><div n="1">(1) {#mAnya#} (f. {#nyA#}) <div n="xe">{%or%}</div> <div n="xs">{#mAnanIyaH#}</div> ({#yA, yaM#}), {#sam-;#}</div>
-<div n="lb"/><div n="1">(2) {#pUjya#} (f. {#jyA#}) <div n="xe">{%or%}</div> <div n="xs">{#pUjanIyaH#}</div> ({#yA, yaM#}), {%I have%}
-<div n="lb"/>{%been commanded by h. sir%} ({%you%}): {#pUjyenAhamAdizwaH,#}
-<div n="lb"/>Mah.: v. Respectable. </div><div n="I">III Conferring
-<div n="lb"/>honour: {#sammAnakaraH#} ({#rI, raM#}) and sim. comp.s.:
-<div n="lb"/>v. Also famous. </div><div n="I">IV Good, noble: q.v.:
-<div n="lb"/>{#SudDa#} (f. {#dDA#}).</div>
+{@HONOURABLE:@}¦ <div n="I">I Possessing a high mind:
+{#mAnin#} (f. {#nI#}). </div><div n="I">II Illustrious, respected:</div>
+<div n="1">(1) {#mAnya#} (f. {#nyA#}) <div n="xe">{%or%}</div> <div n="xs">{#mAnanIyaH#}</div> ({#yA, yaM#}), {#sam-;#}</div>
+<div n="1">(2) {#pUjya#} (f. {#jyA#}) <div n="xe">{%or%}</div> <div n="xs">{#pUjanIyaH#}</div> ({#yA, yaM#}), {%I have%}
+{%been commanded by h. sir%} ({%you%}): {#pUjyenAhamAdizwaH,#}
+Mah.: v. Respectable. </div><div n="I">III Conferring
+honour: {#sammAnakaraH#} ({#rI, raM#}) and sim. comp.s.:
+v. Also famous. </div><div n="I">IV Good, noble: q.v.:
+{#SudDa#} (f. {#dDA#}).</div>
 <LEND>

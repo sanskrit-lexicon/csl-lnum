@@ -1,15 +1,15 @@
 <L>33795<pc>3-0693<k1>durvAra<k2>durvAra
-{#durvAra#}¦ (2. {#duz + vAra#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%schwer zurückzuhalten, - zu hemmen, unwiderstehlich%}: {#BIzaRakara#} 
-<ls>CAURAP. 31.</ls> {#astra#} 
-<ls>MBH. 7, 344.</ls> {#raTa#} 
-<ls>8, 2163. 14, 912.</ls> {#aridurvAraH - pASaH#} 
-<ls>KUMĀRAS. 2, 21.</ls> 
-<ls>MBH. 12, 6191.</ls> {#pOruza, vIrya#} 
-<ls>7, 45. 8, 64.</ls> <ls>KATHĀS. 22, 204.</ls> {#cetas#} 
-<ls>PRAB. 94, 12.</ls> {#roza#} 
-<ls>R. 6, 99, 29.</ls> {#duHKa#} 
-<ls>RAGH. 14, 87.</ls> 
-<ls>PRAB. 75, 13. 82, 12.</ls> 
-<ls>GĪT. 9, 11.</ls> Davon nom. abstr. {#durvAratva#} <lex>n.</lex> 
-<ls>SUŚR. 1, 96, 13.</ls>
+{#durvAra#}¦ (2. {#duz + vAra#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%schwer zurückzuhalten, — zu hemmen, unwiderstehlich%}: {#BIzaRakara#}
+<ls>CAURAP. 31.</ls> {#astra#}
+<ls>MBH. 7,344.</ls> {#raTa#}
+<ls n="MBH.">8,2163.</ls> <ls n="MBH.">14,912.</ls> {#aridurvAraH — pASaH#}
+<ls>KUMĀRAS. 2,21.</ls>
+<ls>MBH. 12,6191.</ls> {#pOruza, vIrya#}
+<ls n="MBH.">7,45.</ls> <ls n="MBH.">8,64.</ls> <ls>KATHĀS. 22,204.</ls> {#cetas#}
+<ls>PRAB. 94,12.</ls> {#roza#}
+<ls>R. 6,99,29.</ls> {#duHKa#}
+<ls>RAGH. 14,87.</ls>
+<ls>PRAB. 75,13.</ls> <ls n="PRAB.">82,12.</ls>
+<ls>GĪT. 9,11.</ls> Davon nom. abstr. {#durvAratva#} <lex>n.</lex>
+<ls>SUŚR. 1,96,13.</ls>
 <LEND>

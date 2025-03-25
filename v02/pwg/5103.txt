@@ -1,15 +1,15 @@
 <L>5103<pc>1-0371<k1>amarzaRa<k2>amarzaRa
-{#amarzaRa#}¦ (3. {#a + ma°#}) 
-<div n="1"> 1) <lex>adj.</lex> {%der nichts hingehen lässt, sich nichts gefallen lässt, leicht aufbrausend, zornig%} 
-<ls>AK. 3, 1, 32.</ls> 
-<ls>H. 392.</ls> 
-<ls>N. 12, 40.</ls> 
-<ls>DRAUP. 7, 17.</ls> 
-<ls>R. 4, 9, 64. 14, 1. 35, 31. 5, 89, 2. 6, 4, 26. 79, 29. 100, 15.</ls> 
-<ls>SUŚR. 1, 335, 21.</ls> 
-<ls>RAGH. 3, 53.</ls> {#atyama°#} 
-<ls>HIḌ. 4, 54.</ls> {#raRAma°#} 
-<ls>R. 4, 22, 5.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. pr. = 2. {#amarza#} 
-<ls>?2. BHĀG. P. in LIA. I, Anh. CVII (zu S. XII, N. 27.).</ls>
+{#amarzaRa#}¦ (3. {#a + ma°#})
+<div n="1"> 1) <lex>adj.</lex> {%der nichts hingehen lässt, sich nichts gefallen lässt, leicht aufbrausend, zornig%}
+<ls>AK. 3,1,32.</ls>
+<ls>H. 392.</ls>
+<ls>N. 12,40.</ls>
+<ls>DRAUP. 7,17.</ls>
+<ls>R. 4,9,64.</ls> <ls n="R. 4,">14,1.</ls> <ls n="R. 4,">35,31.</ls> <ls n="R.">5,89,2.</ls> <ls n="R.">6,4,26.</ls> <ls n="R. 6,">79,29.</ls> <ls n="R. 6,">100,15.</ls>
+<ls>SUŚR. 1,335,21.</ls>
+<ls>RAGH. 3,53.</ls> {#atyama°#}
+<ls>HIḌ. 4,54.</ls> {#raRAma°#}
+<ls>R. 4,22,5.</ls>
+<div n="1">— 2) <lex>m.</lex> N. pr. = 2. {#amarza#}
+<ls n="R. 4,22,">2.</ls> <ls>BHĀG. P.</ls> in <ls>LIA. I, Anh. CVII (zu S. XII, N. 27.).</ls>
 <LEND>

@@ -1,10 +1,10 @@
 <L>26988<pc>739-a<k1>shoulder<k2>shoulder
-<div n="lb"/>SHOULDER¦, {%s.%} {#skanDaH, aMSaH, aMsaH, BujaSiras#} {%n.,%} {#BujaSiKaraM, doHSi-#}
-<div n="lb"/>{#KaraM, bAhumUlaM;#} ‘having wide shoulders,’ {#pfTuskanDaH -nDA -nDaM,#}
-<div n="lb"/>{#vipulaskanDaH#} &c., {#vipulAMSaH -SA -SaM;#} ‘shoulder-joint,’ {#skanDa-#}
-<div n="lb"/>{#sanDiH#} {%m.,%} {#ciru#} {%n.;%} ‘upon the shoulder,’ {#skanDe, skanDena, prati-#}
-<div n="lb"/>{#skanDaM;#} ‘he bears faggots on his shoulder,’ {#inDanaM skanDena#}
-<div n="lb"/>{#vahati;#} ‘the dog is borne on the shoulder,’ {#kukkuraH skanDena#}
-<div n="lb"/>{#uhyate;#} he places the goat on his shoulder,’ {#CAgaM skanDe#}
-<div n="lb"/>{#karoti;#} ‘resting on the shoulder,’ {#skanDasTaH -sTA -sTaM#}.
+SHOULDER¦, {%s.%} {#skanDaH, aMSaH, aMsaH, BujaSiras#} {%n.,%} {#BujaSiKaraM, doHSi-#}
+{#KaraM, bAhumUlaM;#} ‘having wide shoulders,’ {#pfTuskanDaH -nDA -nDaM,#}
+{#vipulaskanDaH#} &c., {#vipulAMSaH -SA -SaM;#} ‘shoulder-joint,’ {#skanDa-#}
+{#sanDiH#} {%m.,%} {#ciru#} {%n.;%} ‘upon the shoulder,’ {#skanDe, skanDena, prati-#}
+{#skanDaM;#} ‘he bears faggots on his shoulder,’ {#inDanaM skanDena#}
+{#vahati;#} ‘the dog is borne on the shoulder,’ {#kukkuraH skanDena#}
+{#uhyate;#} he places the goat on his shoulder,’ {#CAgaM skanDe#}
+{#karoti;#} ‘resting on the shoulder,’ {#skanDasTaH -sTA -sTaM#}.
 <LEND>

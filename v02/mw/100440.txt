@@ -1,3 +1,3 @@
 <L>100440<pc>512,3<k1>DarmASoka<k2>DarmASoka<e>3
-<s>DarmA<srs/>Soka</s> ¦ <lex>m.</lex> ‘the <s1 slp1="aSoka">Aśoka</s1> of justice’, <ab>N.</ab> of king <ab n="Aśoka" slp1="aSoka">A°</ab> (the grandson of <s1 slp1="candra-gupta">Candra-gupta</s1>)<info lex="m"/>
+<s>DarmA<srs/>Soka</s> ¦ <lex>m.</lex> ‘the <s1>Aśoka</s1> of justice’, <ab>N.</ab> of king <s1 n="Aśoka">A°</s1> (the grandson of <s1>Candra-gupta</s1>)<info lex="m"/>
 <LEND>

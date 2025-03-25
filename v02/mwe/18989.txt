@@ -1,6 +1,6 @@
 <L>18989<pc>490-b<k1>measurement<k2>measurement
-<div n="lb"/>MEASUREMENT¦, {%s.%} {#mApanaM, parimARaM, mitiH#} {%f.,%} {#parimitiH#} {%f.,%} {#pramitiH#} {%f.,%}
-<div n="lb"/>{#pramARaM, mAnaM, mAnaparIkzA, parimARaparIkzA, mAnanirUpaRaM, mApakaraRaM;#}
-<div n="lb"/>‘rough measurement,’ {#sTUlamAnaM;#} ‘exact measurement,’
-<div n="lb"/>{#sUkzmamAnaM#}.
+MEASUREMENT¦, {%s.%} {#mApanaM, parimARaM, mitiH#} {%f.,%} {#parimitiH#} {%f.,%} {#pramitiH#} {%f.,%}
+{#pramARaM, mAnaM, mAnaparIkzA, parimARaparIkzA, mAnanirUpaRaM, mApakaraRaM;#}
+‘rough measurement,’ {#sTUlamAnaM;#} ‘exact measurement,’
+{#sUkzmamAnaM#}.
 <LEND>

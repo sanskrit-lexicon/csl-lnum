@@ -1,35 +1,35 @@
 <L>48426<pc>4-0966<k1>pratiBA<k2>pratiBA
-{#pratiBA#}¦ ({#BA#} mit {#prati#}) <lex>f.</lex> 
-<div n="1"> 1) {%Abbild%} 
-<ls>NIR. 14,</ls> <ls>?4; vgl. Ind. St. 1, 397. 2, 217.</ls> 
-<div n="1">— 2) {%Erscheinung, Aussehen%}; am Ende eines <lex>adj.</lex> comp.: {#devatApratiBAsi (°pratimAsi?)#} {%einer Gottheit ähnlich%} 
-<ls>MBH. 2, 728.</ls> 
-<div n="1">— 3) {%Licht%}; s. {#nizpratiBa#} . 
-<div n="1">— 4) {%ein aufleuchtender Gedanke; schnelles Begreifen, Verstand, Einsicht%} 
-<ls>H. 309.</ls> 
-<ls>HALĀY. 2, 179.</ls> {#nidrAM ca pratiBAM#} ({%Phantasiegebilde%}) {#cEva jYAnAByAsena (vinivartayet)#} 
-<ls>MBH. 12, 9861. 8791.</ls> {#pratiBA tvasti me kAcittAM brUyAmanumAnataH#} 
-<ls>9257.</ls> {#na ca me pratiBA kAcidasti kiMcitpraBAzitum#} 
-<ls>1868.</ls> {#jAtEzA pratiBApi te#} 
-<ls>KATHĀS. 34, 64.</ls> {#guRadvayaM parIkzeta prAgalByaM pratiBAM taTA#} 
-<ls>KĀM. NĪTIS. 4, 36.</ls> <ls>SĀH. D. 73, 8.</ls> <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 4.</ls> {#°vaSAt#} 
-<ls>KATHĀS. 5, 32.</ls> {#°tas#} 
-<ls>96. 38, 156.</ls> {#na paSyetsarvasaMvedyAnBAvAnpratiBayA yadi#} 
-<ls>RĀJA-TAR. 1, 5.</ls> {#°balAt#} 
-<ls>6, 6.</ls> {#°kzaya#} 
-<ls>KULL.</ls> zu <ls>M.8,1.</ls> <ls>Verz. d. Oxf. H. 170,b,40.</ls> {#samuKaH sa Kalu prokto yo vakti pratiBAnvitaH#} 
-<ls>HALĀY. 2, 219.</ls> {#pratiBAnvita = pragalBa#} 
-<ls>AK. 3, 1, 25.</ls> 
-<ls>H. 343.</ls> {#luptapratiBa#} 
-<ls>RĀJA-TAR. 1, 358.</ls> {#tatkzaRopajAtayA pratiBayA vyacIcaram#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 194, 15.</ls> {#utpannapratiBA#} <lex>adj.</lex> 
-<ls>PAÑCAT. 199, 11.</ls> {#sapratiBa#} {%verständig, klug%} 
-<ls>R. 5, 81, 46.</ls> 
-<ls>KATHĀS. 46, 135.</ls> 
-<div n="1">— 5) {%das Gutscheinen, Gefallen, Zusagen%}: {#a°#} 
-<ls>ŚĀṄKH. ŚR. 10, 12, 5.</ls> 
-<ls>LĀṬY. 3, 7, 6.</ls> 
-<ls>KĀTY. ŚR. 12, 4, 22.</ls> — {#pratiBa#} {%verständig, klug%}: {#cakzus#} 
-<ls>RAGH. ed. Calc. 8, 79</ls>; doch hat die STENZLER'sche Ausg. eine andere Lesart. 
+{#pratiBA#}¦ ({#BA#} mit {#prati#}) <lex>f.</lex>
+<div n="1"> 1) {%Abbild%}
+<ls>NIR. 14,4</ls>; vgl. <ls>Ind. St. 1,397. 2,217.</ls>
+<div n="1">— 2) {%Erscheinung, Aussehen%}; am Ende eines <lex>adj.</lex> comp.: {#devatApratiBAsi (°pratimAsi?)#} {%einer Gottheit ähnlich%}
+<ls>MBH. 2,728.</ls>
+<div n="1">— 3) {%Licht%}; s. {#nizpratiBa#} .
+<div n="1">— 4) {%ein aufleuchtender Gedanke; schnelles Begreifen, Verstand, Einsicht%}
+<ls>H. 309.</ls>
+<ls>HALĀY. 2,179.</ls> {#nidrAM ca pratiBAM#} ({%Phantasiegebilde%}) {#cEva jYAnAByAsena (vinivartayet)#}
+<ls>MBH. 12,9861.</ls> <ls n="MBH. 12,">8791.</ls> {#pratiBA tvasti me kAcittAM brUyAmanumAnataH#}
+<ls n="MBH. 12,">9257.</ls> {#na ca me pratiBA kAcidasti kiMcitpraBAzitum#}
+<ls n="MBH. 12,">1868.</ls> {#jAtEzA pratiBApi te#}
+<ls>KATHĀS. 34,64.</ls> {#guRadvayaM parIkzeta prAgalByaM pratiBAM taTA#}
+<ls>KĀM. NĪTIS. 4,36.</ls> <ls>SĀH. D. 73,8.</ls> <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 4.</ls> {#°vaSAt#}
+<ls>KATHĀS. 5,32.</ls> {#°tas#}
+<ls n="KATHĀS. 5,">96.</ls> <ls n="KATHĀS.">38,156.</ls> {#na paSyetsarvasaMvedyAnBAvAnpratiBayA yadi#}
+<ls>RĀJA-TAR. 1,5.</ls> {#°balAt#}
+<ls n="RĀJA-TAR.">6,6.</ls> {#°kzaya#}
+<ls>KULL.</ls> zu <ls>M. 8,1.</ls> <ls>Verz. d. Oxf. H. 170,b,40.</ls> {#samuKaH sa Kalu prokto yo vakti pratiBAnvitaH#}
+<ls>HALĀY. 2,219.</ls> {#pratiBAnvita = pragalBa#}
+<ls>AK. 3,1,25.</ls>
+<ls>H. 343.</ls> {#luptapratiBa#}
+<ls>RĀJA-TAR. 1,358.</ls> {#tatkzaRopajAtayA pratiBayA vyacIcaram#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 194,15.</ls> {#utpannapratiBA#} <lex>adj.</lex>
+<ls>PAÑCAT. 199,11.</ls> {#sapratiBa#} {%verständig, klug%}
+<ls>R. 5,81,46.</ls>
+<ls>KATHĀS. 46,135.</ls>
+<div n="1">— 5) {%das Gutscheinen, Gefallen, Zusagen%}: {#a°#}
+<ls>ŚĀṄKH. ŚR. 10,12,5.</ls>
+<ls>LĀṬY. 3,7,6.</ls>
+<ls>KĀTY. ŚR. 12,4,22.</ls> — {#pratiBa#} {%verständig, klug%}: {#cakzus#}
+<ls>RAGH. ed. Calc. 8,79</ls>; doch hat die STENZLER'sche Ausg. eine andere Lesart.
 <div n="v">— Vgl. {#apratiBa, pratiBAna#} .
 <LEND>

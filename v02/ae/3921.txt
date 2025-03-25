@@ -1,11 +1,11 @@
 <L>3921<pc>156<k1>fatigue<k2>fatigue
 {@Fatigue,@}¦ {%s.%} {#AyAsaH, klamaH, SramaH, avasAdaH,#}
-<div n="lb"/>{#KedaH, pariSramaH, kleSaH, glAni-klAMti-SrAMti#} {%-f.,%}
-<div n="lb"/>{#taMdrA,#} ‘inured to f.’ {#SramasahizRu, jitaSrama#}.
-<div n="lb"/>{%-v. t.%} {#Kid#} c., {#Ayas#} c., {#avasad#} c.,
-<div n="lb"/>{#klam#} c. or {#Sram#} c. ({#kla-Sra-mayati#}), {#kliS#}
-<div n="lb"/>9 P, {#glE#} c. ({#gla-glA-payati#}). {@-ed,@} {%a.%} {#SrAMta,#}
-<div n="lb"/>{#klAMta, Kinna, glAna, avasanna, SramArta, saSrama,#}
-<div n="lb"/>{#jAtaKeda-Srama;#} ‘to be f.’ {#Sram#} 4 P, {#klam#} 1,
-<div n="lb"/>4 P, {#Ayas#} 1, 4 P, {#Kid#} pass.
+{#KedaH, pariSramaH, kleSaH, glAni-klAMti-SrAMti#} {%-f.,%}
+{#taMdrA,#} ‘inured to f.’ {#SramasahizRu, jitaSrama#}.
+{%-v. t.%} {#Kid#} c., {#Ayas#} c., {#avasad#} c.,
+{#klam#} c. or {#Sram#} c. ({#kla-Sra-mayati#}), {#kliS#}
+9 P, {#glE#} c. ({#gla-glA-payati#}). {@-ed,@} {%a.%} {#SrAMta,#}
+{#klAMta, Kinna, glAna, avasanna, SramArta, saSrama,#}
+{#jAtaKeda-Srama;#} ‘to be f.’ {#Sram#} 4 P, {#klam#} 1,
+4 P, {#Ayas#} 1, 4 P, {#Kid#} pass.
 <LEND>

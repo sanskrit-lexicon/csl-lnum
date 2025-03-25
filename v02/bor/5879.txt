@@ -1,4 +1,4 @@
 <L>5879<pc>188<k1>deprecation<k2>deprecation
-<div n="lb"/>{@DEPRECATION:@}¦ <div n="I">I Prayer: {#stavaH.#} </div><div n="I">II Begging
-<div n="lb"/>pardon: {#kzamAprArTanA.#} </div><div n="I">III Curse: {#SApaH.#}</div>
+{@DEPRECATION:@}¦ <div n="I">I Prayer: {#stavaH.#} </div><div n="I">II Begging
+pardon: {#kzamAprArTanA.#} </div><div n="I">III Curse: {#SApaH.#}</div>
 <LEND>

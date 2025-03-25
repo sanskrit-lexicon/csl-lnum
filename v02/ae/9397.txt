@@ -1,8 +1,8 @@
 <L>9397<pc>422<k1>sheep<k2>sheep
 {@Sheep,@}¦ {%s.%} {#mezaH, aviH, uraBraH, UrRAyuH;#} {%See%}
-<div n="lb"/>{@Ram;@} ‘a female s.’ {#mezI, eqakA;#} ‘goats
-<div n="lb"/>and s.’ {#ajAvikaM;#} ‘flock of s.’ {#OraBraM#}.
-<div n="lb"/>{@-ish,@} {%a.%} {#apratiBa, lajjASIla, janaBIta;#}
-<div n="lb"/>{#nistejas, nizpraBa, hata-nazwa-gata-vIrya, meza-#}
-<div n="lb"/>{#-svaBAva-SIla#}.
+{@Ram;@} ‘a female s.’ {#mezI, eqakA;#} ‘goats
+and s.’ {#ajAvikaM;#} ‘flock of s.’ {#OraBraM#}.
+{@-ish,@} {%a.%} {#apratiBa, lajjASIla, janaBIta;#}
+{#nistejas, nizpraBa, hata-nazwa-gata-vIrya, meza-#}
+{#-svaBAva-SIla#}.
 <LEND>

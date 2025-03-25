@@ -1,4 +1,4 @@
 <L>7460<pc>235<k1>emergency<k2>emergency
-<div n="lb"/>{@EMERGENCY:@}¦ <div n="I">I Crisis, occasion: q. v.: {#saNkawam.#}</div>
-<div n="lb"/><div n="I">II Exigency: q. v.: {#prayojanam.#}</div>
+{@EMERGENCY:@}¦ <div n="I">I Crisis, occasion: q. v.: {#saNkawam.#}</div>
+<div n="I">II Exigency: q. v.: {#prayojanam.#}</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>9095<pc>287<k1>follower<k2>follower
-<div n="lb"/>{@FOLLOWER:@}¦ <div n="1">(1) {#anugAmin#} (f. {#nI#}), <div n="xe">{%women follow%}
-<div n="lb"/>{%the way of their husbands:%}</div> <div n="xs">{#striyaH patimArgAnugAminyaH,#}</div>
-<div n="lb"/>M.n.; </div><div n="1">(2) {#anuyAyin#} (f. {#nI#}), <div n="xe">{%a body of f.s:%}</div> <div n="xs">{#anuyAyi-#}
-<div n="lb"/>{#vargaH,#}</div> R. ii. 4.; </div><div n="1">(3) {#anusArin#} (f. {#RI#}), <div n="xe">{%f.s of the%}
-<div n="lb"/>{%doctrines of Jaimini:%}</div> <div n="xs">{#jEminimatAnusAriRaH,#}</div> Va.; </div><div n="1">(4)
-<div n="lb"/>{#anugaH#} ({#gA, gaM#}); </div><div n="1">(5) {#anusara#} (f. {#rI#}) (= atten-
-<div n="lb"/>-dant).</div>
+{@FOLLOWER:@}¦ <div n="1">(1) {#anugAmin#} (f. {#nI#}), <div n="xe">{%women follow%}
+{%the way of their husbands:%}</div> <div n="xs">{#striyaH patimArgAnugAminyaH,#}</div>
+M.n.; </div><div n="1">(2) {#anuyAyin#} (f. {#nI#}), <div n="xe">{%a body of f.s:%}</div> <div n="xs">{#anuyAyi-#}
+{#vargaH,#}</div> R. ii. 4.; </div><div n="1">(3) {#anusArin#} (f. {#RI#}), <div n="xe">{%f.s of the%}
+{%doctrines of Jaimini:%}</div> <div n="xs">{#jEminimatAnusAriRaH,#}</div> Va.; </div><div n="1">(4)
+{#anugaH#} ({#gA, gaM#}); </div><div n="1">(5) {#anusara#} (f. {#rI#}) (= atten-
+-dant).</div>
 <LEND>

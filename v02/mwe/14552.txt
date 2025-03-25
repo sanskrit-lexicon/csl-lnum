@@ -1,5 +1,5 @@
 <L>14552<pc>350-b<k1>hospitality<k2>hospitality
-<div n="lb"/>HOSPITALITY¦, {%s.%} {#AtiTyaM, atiTitvaM, atiTikriyA, AtiTyakarmma#} {%n.%} {#(n),#}
-<div n="lb"/>{#atiTisatkAraH, atiTisatkriyA, satkAraH, satkriyA, satkarmma#} {%n.%} {#(n),#}
-<div n="lb"/>{#satkftiH#} {%f.,%} {#satkftaM, atiTisevA, atiTipUjanaM, manuzyayajYaH, nfyajYaH#}.
+HOSPITALITY¦, {%s.%} {#AtiTyaM, atiTitvaM, atiTikriyA, AtiTyakarmma#} {%n.%} {#(n),#}
+{#atiTisatkAraH, atiTisatkriyA, satkAraH, satkriyA, satkarmma#} {%n.%} {#(n),#}
+{#satkftiH#} {%f.,%} {#satkftaM, atiTisevA, atiTipUjanaM, manuzyayajYaH, nfyajYaH#}.
 <LEND>

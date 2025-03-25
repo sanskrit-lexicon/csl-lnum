@@ -1,15 +1,15 @@
 <L>11130<pc>1-0906<k1>utseka<k2>utseka
-{#utseka#}¦ (von {#sic#} mit {#ud#}) <lex>m.</lex> 
-<div n="1"> 1) {%Ergiessung, das Ueberfluthen, Uebermaass%}: {#Slezmotseka#} 
-<ls>SUŚR. 2, 415, 17.</ls> {#tezAmanyatamotseke#} 
-<ls>MBH. 14, 318.</ls> {#vIryotseka#} 
-<ls>R. 1, 14, 32. 4, 9, 88.</ls> {#balo°#} 
-<ls>1, 31, 4.</ls> {#darpo°#} 
-<ls>3, 43, 4.</ls> <ls>MEGH. 55.</ls> 
-<div n="1">— 2) = {#darpotseka#} {%Hochmuth, hochfahrendes Wesen%} 
-<ls>AK. 3, 4, 211.</ls> {#notsekAtpravadAmyaham#} 
-<ls>R. 5, 3, 10.</ls> 
-<ls>PAÑCAT. III, 264.</ls> <ls>RAGH. 4, 70.</ls> <ls>RĀJA-TAR. 5, 350.</ls> {#anutseko lakzmyAm#} 
-<ls>BHARTṚ. 2, 54.</ls> {#notsedamagamaccedaM kadAcidiha naH kulam#} 
-<ls>MBH. 1, 4364</ls> (wohl {#utsekam#} für {#utsedam#} zu lesen).
+{#utseka#}¦ (von {#sic#} mit {#ud#}) <lex>m.</lex>
+<div n="1"> 1) {%Ergiessung, das Ueberfluthen, Uebermaass%}: {#Slezmotseka#}
+<ls>SUŚR. 2,415,17.</ls> {#tezAmanyatamotseke#}
+<ls>MBH. 14,318.</ls> {#vIryotseka#}
+<ls>R. 1,14,32.</ls> <ls n="R.">4,9,88.</ls> {#balo°#}
+<ls n="R.">1,31,4.</ls> {#darpo°#}
+<ls n="R.">3,43,4.</ls> <ls>MEGH. 55.</ls>
+<div n="1">— 2) = {#darpotseka#} {%Hochmuth, hochfahrendes Wesen%}
+<ls>AK. 3,4,211.</ls> {#notsekAtpravadAmyaham#}
+<ls>R. 5,3,10.</ls>
+<ls>PAÑCAT. III,264.</ls> <ls>RAGH. 4,70.</ls> <ls>RĀJA-TAR. 5,350.</ls> {#anutseko lakzmyAm#}
+<ls>BHARTṚ. 2,54.</ls> {#notsedamagamaccedaM kadAcidiha naH kulam#}
+<ls>MBH. 1,4364</ls> (wohl {#utsekam#} für {#utsedam#} zu lesen).
 <LEND>

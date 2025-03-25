@@ -1,7 +1,7 @@
 <L>3880<pc>127<k1>club<k2>club
-<div n="lb"/>{@CLUB@}¦ (subs.): <div n="I">I A cudgel: </div><div n="1">(1) {#yazwiH;#} </div><div n="1">(2)
-<div n="lb"/>{#laguqaH,#} <div n="xe">{%to maul severely with c. s.%}</div> <div n="xs">{#laguqaprahArErjarjarI-#}
-<div n="lb"/>{#karoti,#}</div> P. </div><div n="I">II An association: q. v.: {#samAjaH#} (?),
-<div n="lb"/><div n="xe">{%who will not come to the c. today:%}</div> <div n="xs">{#yo'dya samAje #}
-<div n="lb"/>{# nAgamizyati,#}</div> V. p.</div>
+{@CLUB@}¦ (subs.): <div n="I">I A cudgel: </div><div n="1">(1) {#yazwiH;#} </div><div n="1">(2)
+{#laguqaH,#} <div n="xe">{%to maul severely with c. s.%}</div> <div n="xs">{#laguqaprahArErjarjarI-#}
+{#karoti,#}</div> P. </div><div n="I">II An association: q. v.: {#samAjaH#} (?),
+<div n="xe">{%who will not come to the c. today:%}</div> <div n="xs">{#yo'dya samAje #}
+{# nAgamizyati,#}</div> V. p.</div>
 <LEND>

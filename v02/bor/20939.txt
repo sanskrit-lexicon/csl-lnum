@@ -1,5 +1,5 @@
 <L>20939<pc>658<k1>softly<k2>softly
-<div n="lb"/>{@SOFTLY:@}¦ <div n="1">(1) {#mfdu;#} </div><div n="1">(2) {#komalam;#} </div><div n="1">(3) {#mfdulam;#} </div><div n="1">(4)
-<div n="lb"/>{#pelavam;#} </div><div n="1">(5) {#snigDam;#} </div><div n="1">(6) {#SlakzRam;#} </div><div n="1">(7) {#maDuram;#}</div>
-<div n="lb"/><div n="1">(8) {#masfRam:#} v. Soft.</div>
+{@SOFTLY:@}¦ <div n="1">(1) {#mfdu;#} </div><div n="1">(2) {#komalam;#} </div><div n="1">(3) {#mfdulam;#} </div><div n="1">(4)
+{#pelavam;#} </div><div n="1">(5) {#snigDam;#} </div><div n="1">(6) {#SlakzRam;#} </div><div n="1">(7) {#maDuram;#}</div>
+<div n="1">(8) {#masfRam:#} v. Soft.</div>
 <LEND>

@@ -1,44 +1,44 @@
 <L>30471<pc>3-0390<k1>tejana<k2>tejana
-{#tejana#}¦ (von {#tij#}) 
-<div n="1"> 1) <lex>n.</lex> 
-<div n="2"> a) {%das Schärfen%} 
-<ls>DHĀTUP. 23, 26. 24, 28.</ls> {%das Entzünden%}: {#tvaksTasyAgneH#} 
-<ls>SUŚR. 2, 140, 10. 17.</ls> 
-<div n="2">— b) {%Spitze, Pfeilspitze%}: {#tigma°#} 
-<ls>MBH. 6, 3187.</ls> {#su°#} 
-<ls>4, 1523. 1579. 6, 2856</ls>; vgl. {#sutejitAH SarAH#} 
-<ls>5, 7169. 6, 3183.</ls> {#agnijvalita°#} 
-<ls>M. 7, 90</ls> (<ls>KULL.</ls> giebt {#tejana#} durch {#Palaka#} wieder). 
-<div n="2">— c) proparox. {%Rohr, Rohrstab; Schaft%} (des Pfeils): {#kzetra^miva\ ma^mu\steja^nena\~ eka\M pAtra^mf\Bavo\ jeha^mAnam#} 
-<ls>ṚV. 1, 110, 5.</ls> {#yaTA dyAM ca^ pfTi\vIM cA\ntastizWa^ti\ teja^nam#} 
-<ls>AV. 1, 2, 4. 6, 49, 1. 20, 136, 3.</ls> {#izu\meka^tejanAM Sa\taSa^lyAm#} 
-<ls>6, 57, 1.</ls> {#anIkam, SalyaH, tejanam, parRAni#} 
-<ls>AIT. BR. 1, 25. 3, 26.</ls> 
-<ls>KĀṬH. 25, 1.</ls> 
-<ls>Ind. St. 2, 313.</ls> {#SaravyA vE tejanam#} 
-<ls>P. 6, 1, 83, <is>Vārtt</is>. 2,</ls> 
-<ls>Sch.</ls> = {#vaMSa#} 
-<ls>AK. 2, 4, 5, 26.</ls> 
-<ls>MED. n. 72.</ls> = {#muYja, Sara#} {%Saccharum Sara Roxb.%} 
-<ls>H. 1192.</ls> 
-<ls>an. 2, 410.</ls> 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#BadramuYja#} 
-<ls>RĀJAN.</ls> = {#rAmabARa#} 
-<ls>NIGH. PR.</ls> Das {%Rohr%} ist vielleicht so benannt worden, weil es {%spitz zuläuft.%} 
-<div n="1">— 2) <lex>f.</lex> {#I/#} <is>gaṇa</is> {#gOrAdi#} zu 
-<ls>P. 4, 1, 41.</ls> 
-<div n="2"> a) {%ein Geflecht —, ein Gebund von Schilf, Stroh u.s.w.; Bündel, Bausch, manipulus%}: {#yaTA vE tejanyUyata eva yajYa Uyate#} 
-<ls>KĀṬH. 23, 9.</ls> {#tadyaTEvAda iti ha smAha tejanyA uBayato 'ntayoraprasraMsAya barsO nahyati#} 
-<ls>AIT. BR. 1, 11</ls> <ls>?(nach SĀY.</ls> = {#rajju#}). 
-<ls>KĀṬH. 22, 13.</ls> {#tejanImuttarato DArayanti#} 
-<ls>ŚAT. BR. 13, 8, 3, 12.</ls> {#paScAdagnestejanIM kawaM vA dakziRapAdena prahftya#} 
-<ls>PĀR. GṚHY. 1, 5.</ls> 
-<ls>KAUŚ. 86.</ls> = {#tfRapUlaka#} wohl {%Matte%} 
-<ls>MED.</ls> Viell. {%Haarbusch auf dem Kopfe%} (eines Pferdes): {#aSvAnAM ca na keSAMSCindyuH#}.{# na tejanIdantAn na prasravaRAni#} 
-<ls>LĀṬY. 9, 2, 26. 28.</ls> 
-<div n="2">— b) N. einer Pflanze, = {#mUrvA#} {%Sanseviera Roxburghiana Schult.%} 
-<ls>AK. 2, 4, 3, 2.</ls> 
-<ls>RATNAM. 32.</ls> = {#jyotizmatI#} {%Cardiospermum Halicacabum%} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
+{#tejana#}¦ (von {#tij#})
+<div n="1"> 1) <lex>n.</lex>
+<div n="2"> a) {%das Schärfen%}
+<ls>DHĀTUP. 23,26.</ls> <ls n="DHĀTUP.">24,28.</ls> {%das Entzünden%}: {#tvaksTasyAgneH#}
+<ls>SUŚR. 2,140,10. 17.</ls>
+<div n="2">— b) {%Spitze, Pfeilspitze%}: {#tigma°#}
+<ls>MBH. 6,3187.</ls> {#su°#}
+<ls n="MBH.">4,1523.</ls> <ls n="MBH. 4,">1579.</ls> <ls n="MBH.">6,2856</ls>; vgl. {#sutejitAH SarAH#}
+<ls n="MBH.">5,7169.</ls> <ls n="MBH.">6,3183.</ls> {#agnijvalita°#}
+<ls>M. 7,90</ls> (<ls>KULL.</ls> giebt {#tejana#} durch {#Palaka#} wieder).
+<div n="2">— c) proparox. {%Rohr, Rohrstab; Schaft%} (des Pfeils): {#kzetra^miva\ ma^mu\steja^nena\~ eka\M pAtra^mf\Bavo\ jeha^mAnam#}
+<ls>ṚV. 1,110,5.</ls> {#yaTA dyAM ca^ pfTi\vIM cA\ntastizWa^ti\ teja^nam#}
+<ls>AV. 1,2,4.</ls> <ls n="AV.">6,49,1.</ls> <ls n="AV.">20,136,3.</ls> {#izu\meka^tejanAM Sa\taSa^lyAm#}
+<ls n="AV.">6,57,1.</ls> {#anIkam, SalyaH, tejanam, parRAni#}
+<ls>AIT. BR. 1,25.</ls> <ls n="AIT. BR.">3,26.</ls>
+<ls>KĀṬH. 25,1.</ls>
+<ls>Ind. St. 2,313.</ls> {#SaravyA vE tejanam#}
+<ls>P. 6,1,83</ls>, <is>Vārtt</is>. 2, <ls>Sch.</ls>
+= {#vaMSa#}
+<ls>AK. 2,4,5,26.</ls>
+<ls>MED. n. 72.</ls> = {#muYja, Sara#} {%Saccharum Sara Roxb.%}
+<ls>H. 1192.</ls>
+<ls>an. 2,410.</ls>
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#BadramuYja#}
+<ls>RĀJAN.</ls> = {#rAmabARa#}
+<ls>NIGH. PR.</ls> Das {%Rohr%} ist vielleicht so benannt worden, weil es {%spitz zuläuft.%}
+<div n="1">— 2) <lex>f.</lex> {#I/#} <is>gaṇa</is> {#gOrAdi#} zu
+<ls>P. 4,1,41.</ls>
+<div n="2"> a) {%ein Geflecht —, ein Gebund von Schilf, Stroh u.s.w.; Bündel, Bausch, manipulus%}: {#yaTA vE tejanyUyata eva yajYa Uyate#}
+<ls>KĀṬH. 23,9.</ls> {#tadyaTEvAda iti ha smAha tejanyA uBayato 'ntayoraprasraMsAya barsO nahyati#}
+<ls>AIT. BR. 1,11</ls> (nach <ls>SĀY.</ls> = {#rajju#}).
+<ls>KĀṬH. 22,13.</ls> {#tejanImuttarato DArayanti#}
+<ls>ŚAT. BR. 13,8,3,12.</ls> {#paScAdagnestejanIM kawaM vA dakziRapAdena prahftya#}
+<ls>PĀR. GṚHY. 1,5.</ls>
+<ls>KAUŚ. 86.</ls> = {#tfRapUlaka#} wohl {%Matte%}
+<ls>MED.</ls> Viell. {%Haarbusch auf dem Kopfe%} (eines Pferdes): {#aSvAnAM ca na keSAMSCindyuH#}.{# na tejanIdantAn na prasravaRAni#}
+<ls>LĀṬY. 9,2,26. 28.</ls>
+<div n="2">— b) N. einer Pflanze, = {#mUrvA#} {%Sanseviera Roxburghiana Schult.%}
+<ls>AK. 2,4,3,2.</ls>
+<ls>RATNAM. 32.</ls> = {#jyotizmatI#} {%Cardiospermum Halicacabum%}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
 <div n="v">— Vgl. {#suganDitejana#} .
 <LEND>

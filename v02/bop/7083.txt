@@ -1,17 +1,15 @@
 <L>7083<pc>312-b<k1>vas<k2>vas<h>3
-3. {#vas#}¦ 2. {%A.%} sibi induere. R. Schl. II. 37. 7.: {#munivastrARy#}
-<div n="lb">{#avasta;#} MAN. 2. 41.: {#carmARi…vasIran;#} 6. 6.: {#vasIta#}
-<div n="lb">{#carmacIram#}. (Goth. {%vasja%} vestio = {%Caus.%} {#vAsayAmi,#}
-<div n="lb">v. gr. comp. 109^{%a%}). 6.; {%vas-ti%} (Them. {%vastjô%}) pallium; for-
-<div n="lb">tasse germ. vet. {%wât%} f. vestis (Them. {%wâti%}) e {%was-ti;%} lat.
-<div n="lb">{%ves-tis;%} gr. <lang n="greek"></lang> per assim. pro <lang n="greek"></lang>
-<div n="lb">fut. <lang n="greek"></lang> cambro-brit. {%gwisg,%} armor. {%gwisk%} vestitus.)
-<div n="pfx">c. {#ni#} {%Caus. P.%} induere. N. 14. 24.: {#vAsaSce 'dan nivA-#}
-<div n="lb">{#sayeH#}.
-<div n="pfx">c. {#pra#} {%i. q. simpl.%} R. Schl. II. 100. 30.: {#mfgAjine so 'yam#}
-<div n="lb">{#iha pravaste#}.
-<div n="pfx">c. {#prati#} {%Caus.%} induere. MAH. 2. 2502.: {#ajinEH prativA-#}
-<div n="lb">{#sitAH#}.
-<div n="pfx">c. {#vi#} {%Caus.%} induere. -- {%Pass. Caus. c. nom. pers. et acc.%}
-<div n="lb">{%rei.%} MAH. 2. 2420.: {#vivAsyantAM rurucarmARi sarve#}.
+3. {#vas#}¦ 2. {%A.%} sibi induere. R. Schl. II.37.7.: {#munivastrARy
+avasta#}; MAN. 2.41.: {#carmARi…vasIran#}; 6.6.: {#vasIta
+carmacIram#}. (Goth. {%vasja%} vestio = {%Caus.%} {#vAsayAmi#},
+v. gr. comp. 109^{%a%}).6.; {%vas-ti%} (Them. {%vastjô%}) pallium; fortasse
+germ. vet. {%wât%} f. vestis (Them. {%wâti%}) e {%was-ti%}; lat.
+{%ves-tis%}; gr. <lang n="greek">ἐσ-ϑής, ἕν-νυμι</lang> per assim. pro <lang n="greek">ἕσ-νυμι</lang>,
+fut. <lang n="greek">ἕσ-σω</lang>; cambro-brit. {%gwisg%}, armor. {%gwisk%} vestitus.)
+<div n="pfx">c. {#ni#} {%Caus. P.%} induere. N. 14.24.: {#vAsaSce 'dan nivAsayeH#}.
+<div n="pfx">c. {#pra#} {%i. q. simpl.%} R. Schl. II.100.30.: {#mfgAjine so 'yam
+iha pravaste#}.
+<div n="pfx">c. {#prati#} {%Caus.%} induere. MAH. 2.2502.: {#ajinEH prativAsitAH#}.
+<div n="pfx">c. {#vi#} {%Caus.%} induere. — {%Pass. Caus. c. nom. pers. et acc.
+rei%}. MAH. 2.2420.: {#vivAsyantAM rurucarmARi sarve#}.
 <LEND>

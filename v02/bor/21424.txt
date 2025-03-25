@@ -1,6 +1,6 @@
 <L>21424<pc>675<k1>stealer<k2>stealer
-<div n="lb"/>{@STEALER:@}¦ <div n="1">(1) {#steyakft,#} <div n="xe">{%s. of gold:%}</div> <div n="xs">{#suvarRasteyakft,#}</div>
-<div n="lb"/>K. b.; </div><div n="1">(2) {#-muz,#} in comp., {%s. from travellers:%}
-<div n="lb"/>{#pAMTamuz,#} Viv.; </div><div n="1">(3) {#hartf, apa-#} (f. {#rtrI#}), {%man-s.:%}
-<div n="lb"/>{#narahartA,#} Mit.</div>
+{@STEALER:@}¦ <div n="1">(1) {#steyakft,#} <div n="xe">{%s. of gold:%}</div> <div n="xs">{#suvarRasteyakft,#}</div>
+K. b.; </div><div n="1">(2) {#-muz,#} in comp., {%s. from travellers:%}
+{#pAMTamuz,#} Viv.; </div><div n="1">(3) {#hartf, apa-#} (f. {#rtrI#}), {%man-s.:%}
+{#narahartA,#} Mit.</div>
 <LEND>

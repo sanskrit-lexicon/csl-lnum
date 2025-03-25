@@ -1,3 +1,3 @@
-<L>110071<pc>558,1<k1>nirvf<k2>nir-vf<h>b<e>1
-<hom>b.</hom> <s>nir-</s>√ <hom>2.</hom> <s>vf</s> ¦ <ab>Ā.</ab> <s>-vfRIte</s>, to choose, select, <ls>RV.</ls>; <ls>TS.</ls><info verb="pre" cp="Ā" parse="nir+vf"/>
+<L>110071<pc>558,1<k1>nirvf<k2>nir-vf<e>1
+ <s>nir-</s>√ <hom>2.</hom> <s>vf</s> ¦ <ab>Ā.</ab> <s>-vfRIte</s>, to choose, select, <ls>RV.</ls>; <ls>TS.</ls><info verb="pre" cp="Ā" parse="nir+vf"/><info hui="b"/>
 <LEND>

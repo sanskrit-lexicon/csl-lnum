@@ -1,8 +1,8 @@
 <L>19286<pc>598<k1>reward<k2>reward
-<div n="lb"/>{@REWARD@}¦ (subs.): <div n="1">(1) {#pAritozikam,#} <div n="xe">{%has favoured%}
-<div n="lb"/>{%you with this r.:%}</div> <div n="xs">{#etatpAritozikaM te prasAdIkftam,#}</div>
-<div n="lb"/>Sa. v.: </div><div n="1">(3) {#prati-Palam#} (gen. in bad sense),
-<div n="lb"/><div n="xe">{%will get r. befitting his skill:%}</div> <div n="xs">{#dAkzyasyAnurUpaM #}
-<div n="lb"/>{# PalamaDigamizyati,#}</div> Mu. iii.; </div><div n="1">(3) {#mUlyam#} (= price:
-<div n="lb"/>q. v.).</div>
+{@REWARD@}¦ (subs.): <div n="1">(1) {#pAritozikam,#} <div n="xe">{%has favoured%}
+{%you with this r.:%}</div> <div n="xs">{#etatpAritozikaM te prasAdIkftam,#}</div>
+Sa. v.: </div><div n="1">(3) {#prati-Palam#} (gen. in bad sense),
+<div n="xe">{%will get r. befitting his skill:%}</div> <div n="xs">{#dAkzyasyAnurUpaM #}
+{# PalamaDigamizyati,#}</div> Mu. iii.; </div><div n="1">(3) {#mUlyam#} (= price:
+q. v.).</div>
 <LEND>

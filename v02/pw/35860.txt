@@ -1,27 +1,25 @@
-<L>35860<pc>2171-2<k1>gup<k2>gup<h>1<e>500
-1. {#gup#}¦ (ohne Präsensstamm ; {#gopant#} = {#gopayant#} <ls>GĪT.6,12</ls> verdächtig) , {#jugopa#} u.s.w.
-<div n="1">— 1) {%hüten , bewahren , bewachen , schützen , — vor%} (<ab>Abl.</ab>). {#gupita/#} und
-[Page2171-3]
-{#gupta/#} (jünger) {%gehütet , bewacht , geschützt.%} Super. {#guptatama#}.
-<div n="1">— 2) {%gut verwahren , verheimlichen , geheim halten.%} {#gopitum#} <ls>179,3.</ls> {#gupta#} {%gut verwahrt , geheim gehalten , versteckt , verborgen.%} {#daRqa#} {%eine heimliche Strafe , so v.a. eine erpresste Geldsumme.%} {#guptam#} <ab>Adv.</ab> {%im Geheimen , — Verborgenen , ungesehen , versteckt%} <ls>114,17,24.116,18.22.117,16.126,28.</ls> {#gupta°#} <ab>dass.</ab> <ls>HEMĀDRI.1,89,9.</ls>
+<L>35860<pc>2-171-b<k1>gup<k2>gup<h>1
+<hom>1.</hom> √{#gup#}¦ (ohne Präsensstamm; {#gopant#} = {#gopayant#} <ls>GĪT. 6,12</ls> verdächtig), {#jugopa#} <ab>u. s. w.</ab>
+<div n="1">— 1〉 {%hüten, bewahren, bewachen, schützen, — vor%} (<ab>Abl.</ab>). {#gupita/#} und [Page2-171-c] {#gupta/#} (jünger) {%gehütet, bewacht, geschützt%}. <ab>Superl.</ab> {#guptatama#}.
+<div n="1">— 2〉 {%gut verwahren, verheimlichen, geheim halten%}. {#gopitum#} <ls n="Chr.">179,3</ls>. {#gupta#} {%gut verwahrt, geheim gehalten, versteckt, verborgen%}. {#daRqa#} {%eine heimliche Strafe,%} so <ab>v. a.</ab> {%eine erpresste Geldsumme%}. {#guptam#} <lex>Adv.</lex> {%im Geheimen, — Verborgenen, ungesehen, versteckt%} <ls n="Chr.">114,17</ls>. <ls n="Chr. 114,">24</ls>. <ls n="Chr.">116,18</ls>. <ls n="Chr. 116,">22</ls>. <ls n="Chr.">117,16</ls>. <ls n="Chr.">126,28</ls>. {#gupta°#} <ab>dass.</ab> <ls>HEMĀDRI 1,89,9</ls>.
 <div n="m">— <ab>Desid.</ab> {#jugupsate#} (episch auch <ab>Act.</ab>)
-<div n="1">— 1) {%sich hüten vor%} (<ab>Abl.</ab>). {#jugupsita#} {%*einen Abscheu habend vor%} (<ab>Abl.</ab>).
-<div n="1">— 2) {%meiden , vermeiden , verabscheuen%} ; mit <ab>Acc.</ab> <ls>166,10.</ls> {#jugupsita#} {%vor dem oder wovor man einen Abscheu hat.%} Super. {#°tama#}
-<div n="1">— 3) {%sich abgestossen — , sich unangenehm berührt — , sich beleidigt fühlen.%}
-<div n="p">— Mit {#aDi#}, {#°gupta#} {%beschützt von%} (im Comp. vorangehend).
+<div n="1">— 1〉 {%sich hüten vor%} (<ab>Abl.</ab>). {#jugupsita#} *{%einen Abscheu habend vor%} (<ab>Abl.</ab>).
+<div n="1">— 2〉 {%meiden, vermeiden, verabscheuen;%} mit <ab>Acc.</ab> <ls n="Chr.">166,10</ls>. {#jugupsita#} {%vor dem oder wovor man einen Abscheu hat%}. <ab>Superl.</ab> {#°tama#}
+<div n="1">— 3〉 {%sich abgestossen —, sich unangenehm berührt —, sich beleidigt fühlen%}.
+<div n="p">— Mit {#aDi#}, {#°gupta#} {%beschützt von%} (im <ab>Comp.</ab> vorangehend).
 <div n="p">— Mit {#anu#}, {#°gupta#}
-<div n="1">— 1) {%behütet , beschützt , bewahrt.%} {#°guptaM ni-DApay#} {%Etwas gut verwahren%} <ls>CARAKA.3,7.</ls>
-<div n="1">— 2) {%verdeckt , versteckt.%} {#°m#} <ab>Adv.</ab> {%im Geheimen.%}
-<div n="p">— Mit {#aBi#}, {#°gupta#} {%behütet , beschützt , bewahrt.%}
-<div n="p">— Mit {#upa#}, {#°gupta#} {%versteckt , verborgen.%}
-<div n="p">— Mit {#*nis#} {%behüten , beschützen.%}
+<div n="1">— 1〉 {%behütet, beschützt, bewahrt%}. {#°guptaM niDApay#} {%Etwas gut verwahren%} <ls>CARAKA. 3,7</ls>.
+<div n="1">— 2〉 {%verdeckt, versteckt%}. {#°m#} <lex>Adv.</lex> {%im Geheimen%}.
+<div n="p">— Mit {#aBi#}, {#°gupta#} {%behütet, beschützt, bewahrt%}.
+<div n="p">— Mit {#upa#}, {#°gupta#} {%versteckt, verborgen%}.
+<div n="p">— Mit *{#nis#} {%behüten, beschützen%}.
 <div n="p">— Mit {#pari#} <ab>Desid.</ab> {%sich hüten vor%} (<ab>Abl.</ab>).
 <div n="p">— Mit {#prati#}
-<div n="1">— 1) {%sich hüten vor%} (<ab>Abl.</ab>).
-<div n="1">— 2) {#pratigupta#} {%behütet , geschützt.%}
-<div n="p">— Mit {#vi#} <ab>Desid.</ab> {%sich scheu zurückziehen.%}
+<div n="1">— 1〉 {%sich hüten vor%} (<ab>Abl.</ab>).
+<div n="1">— 2〉 {#pratigupta#} {%behütet, geschützt%}.
+<div n="p">— Mit {#vi#} <ab>Desid.</ab> {%sich scheu zurückziehen%}.
 <div n="p">— Mit {#sam#}, {#saMgupta#}
-<div n="1">— 1) {%gehütet , beschützt , bewacht.%}
-<div n="1">— 2) {%verwahrt , versteckt , verborgen , geheim gehalten.%}
-<div n="p">— Mit {#aBisam#}, {#°saMgupta#} {%gehütet , beschützt.%}
+<div n="1">— 1〉 {%gehütet, beschützt, bewacht%}.
+<div n="1">— 2〉 {%verwahrt, versteckt, verborgen, geheim gehalten%}.
+<div n="p">— Mit {#aBisam#}, {#°saMgupta#} {%gehütet, beschützt%}.
 <LEND>

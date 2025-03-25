@@ -1,7 +1,7 @@
 <L>703<pc>025<k1>amount<k2>amount
-<div n="lb"/>{@AMOUNT@}¦ (v. i.) Ph. <div n="xe">{%a. ing to a lac%}</div> <div n="xs">{#lakzyasaMKyakaH#}</div> ({#kA, #}
-<div n="lb"/>{# kaM#}); <div n="xe">{%these races together a. to fourteen%}</div> <div n="xs">{#etAnyekatra #}
-<div n="lb"/>{# caturdaSakulAni,#}</div> K.; <div n="xe">{%ascertain what the balance a. s%}
-<div n="lb"/>{%to%}</div> <div n="xs">{#*kiyadavaSizwamiti parijYAyatAm;#}</div> <div n="xe">{%your argument a. s%}
-<div n="lb"/>{%to this%}</div> <div n="xs">{#*etadaBiprAyakaste tarkaH.#}</div>
+{@AMOUNT@}¦ (v. i.) Ph. <div n="xe">{%a. ing to a lac%}</div> <div n="xs">{#lakzyasaMKyakaH#}</div> ({#kA, #}
+{# kaM#}); <div n="xe">{%these races together a. to fourteen%}</div> <div n="xs">{#etAnyekatra #}
+{# caturdaSakulAni,#}</div> K.; <div n="xe">{%ascertain what the balance a. s%}
+{%to%}</div> <div n="xs">{#*kiyadavaSizwamiti parijYAyatAm;#}</div> <div n="xe">{%your argument a. s%}
+{%to this%}</div> <div n="xs">{#*etadaBiprAyakaste tarkaH.#}</div>
 <LEND>

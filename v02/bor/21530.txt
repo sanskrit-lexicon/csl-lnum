@@ -1,18 +1,18 @@
 <L>21530<pc>678<k1>stone<k2>stone
-<div n="lb"/>{@STONE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#aSman#} (m.), <div n="xe">{%even%}
-<div n="lb"/>{%a s. attains divinity:%}</div> <div n="xs">{#aSmApi yAti devatvam,#}</div> H.;
-<div n="lb"/>{%red s.:%} (=ruby) {#tAmrASman,#} Si. iii. 7.; </div><div n="1">(2)
-<div n="lb"/>{#upalaH,#} {%variety of%} ({%precious%}) <div n="xe">{%s. s:%}</div> <div n="xs">{#vEcitryamupalAnAm,#}</div>
-<div n="lb"/>V. m. 80. 3.; </div><div n="1">(3) {#SilA#} (not applied to
-<div n="lb"/>precious s. s: but applied also to s. for
-<div n="lb"/>grinding), <div n="xe">{%sitting on another s.:%}</div> <div n="xs">{#dvitIyaSilA-#}
-<div n="lb"/>{#talopavizwaH,#}</div> K.; {%like a%} ({%grinding%}) {%s. of gold:%}
-<div n="lb"/>{#kanakaSilAniBaH,#} Ki. xvii. 63.; </div><div n="1">(4) {#pAzARaH#}
-<div n="lb"/>(=3.); </div><div n="1">(5) {#prastaraH#} (=3); </div><div n="1">(6) {#grAvan#} (m. = 3);</div>
-<div n="lb"/><div n="1">(7) {#dfzad#} (f.: rare). </div><div n="I">II In the bladder:
-<div n="lb"/>{#aSman#} (m.), <div n="xe">{%s. -breaking:%}</div> <div n="xs">{#aSmaBid#}</div> (mfn.), Sr.;
-<div n="lb"/>{#aSmarI#} (the disease). </div><div n="I">III Of fruits: {#asTi#}
-<div n="lb"/>(n.= bone). </div><div n="I">IV Testicle: q. v.: {#Palam,#} <div n="xe">{%be%}
-<div n="lb"/>{%without s. s:%}</div> <div n="xs">{#tvaM viPalo Bava,#}</div> Ram. i. 49. 27.</div>
-<div n="lb"/><div n="I">V A weight: {#*saptaseram.#}</div>
+{@STONE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#aSman#} (m.), <div n="xe">{%even%}
+{%a s. attains divinity:%}</div> <div n="xs">{#aSmApi yAti devatvam,#}</div> H.;
+{%red s.:%} (=ruby) {#tAmrASman,#} Si. iii. 7.; </div><div n="1">(2)
+{#upalaH,#} {%variety of%} ({%precious%}) <div n="xe">{%s. s:%}</div> <div n="xs">{#vEcitryamupalAnAm,#}</div>
+V. m. 80. 3.; </div><div n="1">(3) {#SilA#} (not applied to
+precious s. s: but applied also to s. for
+grinding), <div n="xe">{%sitting on another s.:%}</div> <div n="xs">{#dvitIyaSilA-#}
+{#talopavizwaH,#}</div> K.; {%like a%} ({%grinding%}) {%s. of gold:%}
+{#kanakaSilAniBaH,#} Ki. xvii. 63.; </div><div n="1">(4) {#pAzARaH#}
+(=3.); </div><div n="1">(5) {#prastaraH#} (=3); </div><div n="1">(6) {#grAvan#} (m. = 3);</div>
+<div n="1">(7) {#dfzad#} (f.: rare). </div><div n="I">II In the bladder:
+{#aSman#} (m.), <div n="xe">{%s. -breaking:%}</div> <div n="xs">{#aSmaBid#}</div> (mfn.), Sr.;
+{#aSmarI#} (the disease). </div><div n="I">III Of fruits: {#asTi#}
+(n.= bone). </div><div n="I">IV Testicle: q. v.: {#Palam,#} <div n="xe">{%be%}
+{%without s. s:%}</div> <div n="xs">{#tvaM viPalo Bava,#}</div> Ram. i. 49. 27.</div>
+<div n="I">V A weight: {#*saptaseram.#}</div>
 <LEND>

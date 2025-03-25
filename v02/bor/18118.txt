@@ -1,12 +1,12 @@
 <L>18118<pc>555<k1>public<k2>public
-<div n="lb"/>{@PUBLIC@}¦ (adj.): <div n="I">I Of the p.: expr. by comp.
-<div n="lb"/>or gen., <div n="xe">{%for the p. good:%}</div> <div n="xs">{#prakftihitAya,#}</div> Sa. vii.,
-<div n="lb"/>{#lokAnugrahaH,#} R. x. 31.; {%afraid of p. scandal:%}
-<div n="lb"/>{#jananirvAdaBayAt,#} Ki. ii. 10. </div><div n="I">II Relating to the
-<div n="lb"/>state: <div n="xe">{%p. affairs:%}</div> <div n="xs">{#rAjakAryARi;#}</div> {%at the p. expenses:%}
-<div n="lb"/>{#rAjavyayena#} (better {#rAzwravyayena,#} though uncommon).</div>
-<div n="lb"/><div n="I">III Not private or secret: {#prakASa#} (f. {#SA#}).
-<div n="lb"/><div n="xe">{%keeping in p.:%}</div> <div n="xs">{#prakASAvasTApanam,#}</div> D. iv.; <div n="xe">{%p.%}
-<div n="lb"/>{%woman:%}</div> <div n="xs">{#prakASanArI,#}</div> Mr. iii. </div><div n="I">IV Open to
-<div n="lb"/>common uses: {#sADAraRa-#} in comp.</div>
+{@PUBLIC@}¦ (adj.): <div n="I">I Of the p.: expr. by comp.
+or gen., <div n="xe">{%for the p. good:%}</div> <div n="xs">{#prakftihitAya,#}</div> Sa. vii.,
+{#lokAnugrahaH,#} R. x. 31.; {%afraid of p. scandal:%}
+{#jananirvAdaBayAt,#} Ki. ii. 10. </div><div n="I">II Relating to the
+state: <div n="xe">{%p. affairs:%}</div> <div n="xs">{#rAjakAryARi;#}</div> {%at the p. expenses:%}
+{#rAjavyayena#} (better {#rAzwravyayena,#} though uncommon).</div>
+<div n="I">III Not private or secret: {#prakASa#} (f. {#SA#}).
+<div n="xe">{%keeping in p.:%}</div> <div n="xs">{#prakASAvasTApanam,#}</div> D. iv.; <div n="xe">{%p.%}
+{%woman:%}</div> <div n="xs">{#prakASanArI,#}</div> Mr. iii. </div><div n="I">IV Open to
+common uses: {#sADAraRa-#} in comp.</div>
 <LEND>

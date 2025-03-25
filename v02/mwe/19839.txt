@@ -1,4 +1,4 @@
 <L>19839<pc>516-a<k1>mortgagee<k2>mortgagee
-<div n="lb"/>MORTGAGEE¦, {%s.%} {#ADiDArI#} {%m.%} {#(n), nyAsaDArI#} {%m.%} {#(n), ADigrAhI#} {%m.%}
-<div n="lb"/>{#(n), banDakagrAhI#} {%m.,%} {#banDakaDArI#} {%m.,%} {#ADigrAhakaH#}.
+MORTGAGEE¦, {%s.%} {#ADiDArI#} {%m.%} {#(n), nyAsaDArI#} {%m.%} {#(n), ADigrAhI#} {%m.%}
+{#(n), banDakagrAhI#} {%m.,%} {#banDakaDArI#} {%m.,%} {#ADigrAhakaH#}.
 <LEND>

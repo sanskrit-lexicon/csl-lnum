@@ -1,24 +1,24 @@
 <L>9716<pc>438<k1>speak<k2>speak
 {@Speak,@}¦ {%v. t.%} {#vad#} 1 P, {#vac#} 2 P, {#BaR-gad#}
-<div n="lb"/>1 P, {#BAz#} 1 A, {#brU#} 2 U. {#Alap#} 1 P; {%See%}
-<div n="lb"/>{@Say;@} {#vAcaM-giraM-udIr#} c. or {#ud-gF#} 6 P;
-<div n="lb"/>‘s. of’ {#aBi-DA#} 3 U, {#kaT#} 10, {#nirdiS#}
-<div n="lb"/>6 P, {#varR#} 10; ‘s. ill of’ {#apaBAz, pari-#}
-<div n="lb"/>{#-apa-vad#} 1 A, {#niMd#} 1 P; ‘s. out’ {#spazwaM-#}
-<div n="lb"/>{#-sPuwaM-vad, prakASaM brU;#} ‘s. well of’ {#praSaMs#} 1 P;
-<div n="lb"/>{%See%} {@Praise;@} ‘s. with,’ ‘s. together’
-<div n="lb"/>{#saMvad, saMBAz, saMmaMtr#} 10 A. {@-er,@} {%s.%} {#pra-,#}
-<div n="lb"/>{#vaktf#} {%m.,%} {#vAgmin#} {%m.,%} {#vAdin#} {%m.%} {@-ing,@} {%s.%}
-<div n="lb"/>{#BAzaRaM, BAzitaM, vacas#} {%n.,%} {#ukti#} {%f.,%} {#vyAhAraH;#}
-<div n="lb"/>{%See%} {@Speech@} below. {@-Speech,@} {%s.%} {#vAc#} {%f.,%}
-<div n="lb"/>{#vAkSakti#} {%f.,%} {#vARI, gir#} {%f.%} {@2@} {#vAk, vacaH,#}
-<div n="lb"/>{#gIH, vARI, uktiH, vyAhAraH, BAzaRaM, vacanaM,#}
-<div n="lb"/>{#AlApaH, vAkyaM, BAratI, sarasvatI, vyAhfti#}
-<div n="lb"/>{%f.%} {@3@} {#BAzA, uktiH;#} ‘eloquence of s.’
-<div n="lb"/>{#Sabda-pada-lAlityaM;#} ‘covert s’ {#BaMgiBAzaRaM,#}
-<div n="lb"/>{#vyAjoktiH;#} ‘opening of s.’ {#vANmuKaM;#} ‘god-
-<div n="lb"/>-dess of s.’ {#vAgdevI, BAratI, sarasvatI;#}
-<div n="lb"/>‘part of s.’ {#SabdajAtiH-BedaH#}. {@-ify,@} {%v. i.%}
-<div n="lb"/>{@Harangue,@} q. v. {@-less,@} {%a.%} {#mUka, vAGhIna,#}
-<div n="lb"/>{#staMBitavAk#}. {%See%} {@Mute.@}
+1 P, {#BAz#} 1 A, {#brU#} 2 U. {#Alap#} 1 P; {%See%}
+{@Say;@} {#vAcaM-giraM-udIr#} c. or {#ud-gF#} 6 P;
+‘s. of’ {#aBi-DA#} 3 U, {#kaT#} 10, {#nirdiS#}
+6 P, {#varR#} 10; ‘s. ill of’ {#apaBAz, pari-#}
+{#-apa-vad#} 1 A, {#niMd#} 1 P; ‘s. out’ {#spazwaM-#}
+{#-sPuwaM-vad, prakASaM brU;#} ‘s. well of’ {#praSaMs#} 1 P;
+{%See%} {@Praise;@} ‘s. with,’ ‘s. together’
+{#saMvad, saMBAz, saMmaMtr#} 10 A. {@-er,@} {%s.%} {#pra-,#}
+{#vaktf#} {%m.,%} {#vAgmin#} {%m.,%} {#vAdin#} {%m.%} {@-ing,@} {%s.%}
+{#BAzaRaM, BAzitaM, vacas#} {%n.,%} {#ukti#} {%f.,%} {#vyAhAraH;#}
+{%See%} {@Speech@} below. {@-Speech,@} {%s.%} {#vAc#} {%f.,%}
+{#vAkSakti#} {%f.,%} {#vARI, gir#} {%f.%} {@2@} {#vAk, vacaH,#}
+{#gIH, vARI, uktiH, vyAhAraH, BAzaRaM, vacanaM,#}
+{#AlApaH, vAkyaM, BAratI, sarasvatI, vyAhfti#}
+{%f.%} {@3@} {#BAzA, uktiH;#} ‘eloquence of s.’
+{#Sabda-pada-lAlityaM;#} ‘covert s’ {#BaMgiBAzaRaM,#}
+{#vyAjoktiH;#} ‘opening of s.’ {#vANmuKaM;#} ‘god-
+-dess of s.’ {#vAgdevI, BAratI, sarasvatI;#}
+‘part of s.’ {#SabdajAtiH-BedaH#}. {@-ify,@} {%v. i.%}
+{@Harangue,@} q. v. {@-less,@} {%a.%} {#mUka, vAGhIna,#}
+{#staMBitavAk#}. {%See%} {@Mute.@}
 <LEND>

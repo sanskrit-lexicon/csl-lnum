@@ -1,14 +1,14 @@
 <L>32592<pc>3-0594<k1>dAraka<k2>dAraka<h>2
-2. {#dAraka#}¦ <lex>m.</lex> {%Knabe, Sohn%} 
-<ls>H. 542.</ls> 
-<ls>an. 3, 52.</ls> 
-<ls>MED. k. 102.</ls> <ls>MBH. 1, 4880. fg. 12, 5742. 14, 1833.</ls> <ls>R. 2, 32, 29. 36, 19.</ls> <ls>SUŚR. 2, 390, 4. 6.</ls> <ls>MṚCCH. 35, 22.</ls> <ls>PAÑCAT. 100, 24. 238, 8.</ls> <ls>BHĀG. P. 4, 28, 21.</ls> {#mfga°#} {%eine junge Antilope%} 
-<ls>5, 8, 17.</ls> {#nAga°#} 
-<ls>MĀRK. P. 20, 16.</ls> {#dArakO#} <lex>m.</lex> du. von {%einem Knaben und einem Mädchen%} 
-<ls>BRĀHMAṆ. 2, 35.</ls> 
-<ls>N. 8, 20. 16, 25. 17, 19.</ls> <lex>f.</lex> {%Mädchen, Tochter%} 
-<ls>H. 542.</ls> {#dArikA#} 
-<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>HARIV. 2360. 4173.</ls> <ls>KATHĀS. 12, 62.</ls> <ls>MÜLLER, SL. 409.</ls> <ls>VARĀH. BṚH. S. 67, 49.</ls> {#°dAna#} 
-<ls>KĀM. NĪTIS. 9, 6.</ls> {#dArakI#} (nom. pl. {#°kIs#}) 
-<ls>BHĀG. P. 4, 28, 21.</ls>
+2. {#dAraka#}¦ <lex>m.</lex> {%Knabe, Sohn%}
+<ls>H. 542.</ls>
+<ls>an. 3,52.</ls>
+<ls>MED. k. 102.</ls> <ls>MBH. 1,4880. fg.</ls> <ls n="MBH.">12,5742.</ls> <ls n="MBH.">14,1833.</ls> <ls>R. 2,32,29.</ls> <ls n="R. 2,">36,19.</ls> <ls>SUŚR. 2,390,4. 6.</ls> <ls>MṚCCH. 35,22.</ls> <ls>PAÑCAT. 100,24.</ls> <ls n="PAÑCAT.">238,8.</ls> <ls>BHĀG. P. 4,28,21.</ls> {#mfga°#} {%eine junge Antilope%}
+<ls n="BHĀG. P.">5,8,17.</ls> {#nAga°#}
+<ls>MĀRK. P. 20,16.</ls> {#dArakO#} <lex>m.</lex> du. von {%einem Knaben und einem Mädchen%}
+<ls>BRĀHMAṆ. 2,35.</ls>
+<ls>N. 8,20.</ls> <ls n="N.">16,25.</ls> <ls n="N.">17,19.</ls> <lex>f.</lex> {%Mädchen, Tochter%}
+<ls>H. 542.</ls> {#dArikA#}
+<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>HARIV. 2360.</ls> <ls n="HARIV.">4173.</ls> <ls>KATHĀS. 12,62.</ls> <ls>MÜLLER, SL. 409.</ls> <ls>VARĀH. BṚH. S. 67,49.</ls> {#°dAna#}
+<ls>KĀM. NĪTIS. 9,6.</ls> {#dArakI#} (nom. pl. {#°kIs#})
+<ls>BHĀG. P. 4,28,21.</ls>
 <LEND>

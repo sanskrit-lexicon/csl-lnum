@@ -1,7 +1,7 @@
-<L>23154<pc>133,2<k1>AjYA<k2>A-jYA<h>1<e>1
-<hom>1.</hom> <s>A-√ jYA</s> ¦ <s>-jAnAti</s> (<ab>Impv.</ab> 2. <ab>pl.</ab> <s>-jAnIta</s>; <ab>perf.</ab> <s>-jajYO</s>; <ab>p.</ab> <s>jAna/t</s>) 
-<div n="to"/>to mind, perceive, notice, understand, <ls>RV. i, 94, 8; 156, 3</ls>; <ls>ŚBr.</ls>; <ls>TāṇḍyaBr.</ls>;
+<L>23154<pc>133,1<k1>AjYA<k2>A-jYA<h>1<e>1
+<hom>1.</hom> <s>A-√ jYA</s> ¦ <s>-jAnAti</s> (<ab>Impv.</ab> 2. <ab>pl.</ab> <s>-jAnIta</s>; <ab>perf.</ab> <s>-jajYO</s>; <ab>p.</ab> <s>jAna/t</s>)
+<div n="to"/>to mind, perceive, notice, understand, <ls>RV. i, 94, 8</ls>; <ls n="RV. i,">156, 3</ls>; <ls>ŚBr.</ls>; <ls>TāṇḍyaBr.</ls>;
 <div n="vp"/> (<ab>cf.</ab> <s>a/n-AjAnat</s>) :
-<div n="to"/><ab>Caus.</ab> <s>-jYApayati</s>, <s>°te</s> (Inf. <s>-jYaptum</s>, <ls>R. iv, 40, 8</ls>) to order, command, direct, <ls>MBh.</ls> &c.;
+<div n="vp"/><ab>Caus.</ab> <s>-jYApayati</s>, <s>°te</s> (<ab>Inf.</ab> <s>-jYaptum</s>, <ls>R. iv, 40, 8</ls>) to order, command, direct, <ls>MBh.</ls> &c.;
 <div n="to"/>to assure, <ls>R. vi, 103, 10.</ls><info verb="pre" cp="" parse="A+jYA"/>
 <LEND>

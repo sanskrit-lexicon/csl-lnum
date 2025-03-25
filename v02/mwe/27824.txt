@@ -1,5 +1,5 @@
 <L>27824<pc>764-a<k1>speed<k2>speed
-<div n="lb"/>SPEED¦, {%s.%} {#vegaH, SIGratA, javaH, prajavaH, jUtiH#} {%f.,%} {#javanaM, satvaratA, tvarA,#}
-<div n="lb"/>{#jUrRiH#} {%f.,%} {#tUrRiH#} {%m.,%} {#rayaH, raBasaH, tarasI, taras#} {%n.,%} {#raMhatiH#} {%f.,%} {#raMhas#} {%n.,%}
-<div n="lb"/>{#ASugamanaM, tvaritagatiH#} {%f.,%} {#syadaH#}. {%See%} QUICKNESS.
+SPEED¦, {%s.%} {#vegaH, SIGratA, javaH, prajavaH, jUtiH#} {%f.,%} {#javanaM, satvaratA, tvarA,#}
+{#jUrRiH#} {%f.,%} {#tUrRiH#} {%m.,%} {#rayaH, raBasaH, tarasI, taras#} {%n.,%} {#raMhatiH#} {%f.,%} {#raMhas#} {%n.,%}
+{#ASugamanaM, tvaritagatiH#} {%f.,%} {#syadaH#}. {%See%} QUICKNESS.
 <LEND>

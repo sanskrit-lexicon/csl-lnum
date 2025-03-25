@@ -1,3 +1,3 @@
-<L>259060<pc>1281,1<k1>svapna<k2>sv-a/pna<h>b<e>1
-<s>sv-a/pna</s> <hom>b</hom> ¦ <lex>mfn.</lex> (for <s>svapna</s> See p.1280) = next (<ab>accord.</ab> to some), <ls>RV. i, 120, 12; viii, 2, 18.</ls><info lex="m:f:n"/>
+<L>259060<pc>1281,1<k1>svapna<k2>sv-a/pna<e>1
+<s>sv-a/pna</s> ¦ <lex>mfn.</lex> (for <s>svapna</s> See <ab>p.</ab> 1280) = next (<ab>accord.</ab> to some), <ls>RV. i, 120, 12</ls>; <ls n="RV.">viii, 2, 18.</ls><info lex="m:f:n"/><info hui="b"/>
 <LEND>

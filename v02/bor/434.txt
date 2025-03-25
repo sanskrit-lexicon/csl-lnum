@@ -1,4 +1,4 @@
 <L>434<pc>017<k1>after-noon<k2>after-noon
-<div n="lb"/>{@AFTER-NOON@}¦ (adj.): <div n="1">(1) {#aparAhvatanaH#} ({#nI, naM#});</div>
-<div n="lb"/><div n="1">(2) {#AparAhvikaH#} ({#kI, kaM#}); </div><div n="1">(3) {#vEkAlikaH#} ({#kI, kaM#}).</div>
+{@AFTER-NOON@}¦ (adj.): <div n="1">(1) {#aparAhvatanaH#} ({#nI, naM#});</div>
+<div n="1">(2) {#AparAhvikaH#} ({#kI, kaM#}); </div><div n="1">(3) {#vEkAlikaH#} ({#kI, kaM#}).</div>
 <LEND>

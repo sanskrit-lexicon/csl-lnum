@@ -1,14 +1,14 @@
 <L>8415<pc>1-0631<k1>Aditas<k2>Adita/s
-{#Adita/s#}¦ (von {#Adi#}) adv. {%vom Anfange an, am Anfange, im Beginn, zuerst%} 
-<ls>P. 5, 4, 44, <is>Vārtt</is>.</ls> 
-<ls>AV. PRĀT. 1, 17.</ls> 
-<ls>KĀTY. ŚR. 24, 1, 8. 5, 14.</ls> 
-<ls>AIT. UP. 4, 1.</ls> 
-<ls>M. 1, 34. 58. 78. 94. 2, 69. 3, 211. 8, 216.</ls> 
-<ls>R. 1, 5, 4. 3, 20, 6. 4, 21, 19.</ls> 
-<ls>MṚCCH. 90, 3.</ls> {#AditaScakAraH kartavyaH#} <is>ca</is> {%ist voranzustellen%} 
-<ls>P. 3, 1, 9, <is>Vārtt</is>.</ls> mit dem gen.: {#tasyAdita udAttamarDahrasvam#} 
-<ls>P. 1, 2, 32.</ls> am Ende eines comp.: {#rAmasaMdarSanAditaH#} {%von dem Augenblicke, da sie%} 
-<ls>R.</ls> {%erblickte%} 
-<ls>R. 1, 51, 7.</ls>
+{#Adita/s#}¦ (von {#Adi#}) adv. {%vom Anfange an, am Anfange, im Beginn, zuerst%}
+<ls>P. 5,4,44</ls>, <is>Vārtt</is>.
+<ls>AV. PRĀT. 1,17.</ls>
+<ls>KĀTY. ŚR. 24,1,8. 5,14.</ls>
+<ls>AIT. UP. 4,1.</ls>
+<ls>M. 1,34.</ls> <ls n="M. 1,">58.</ls> <ls n="M. 1,">78.</ls> <ls n="M. 1,">94.</ls> <ls n="M.">2,69.</ls> <ls n="M.">3,211.</ls> <ls n="M.">8,216.</ls>
+<ls>R. 1,5,4.</ls> <ls n="R.">3,20,6</ls> <ls n="R.">4,21,19.</ls>
+<ls>MṚCCH. 90,3.</ls> {#AditaScakAraH kartavyaH#} <is>ca</is> {%ist voranzustellen%}
+<ls>P. 3,1,9</ls>, <is>Vārtt</is>. mit dem gen.: {#tasyAdita udAttamarDahrasvam#}
+<ls>P. 1,2,32.</ls> am Ende eines comp.: {#rAmasaMdarSanAditaH#} {%von dem Augenblicke, da sie%}
+<ls>R.</ls> {%erblickte%}
+<ls>R. 1,51,7.</ls>
 <LEND>

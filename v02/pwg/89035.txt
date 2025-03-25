@@ -1,29 +1,29 @@
 <L>89035<pc>6-0849<k1>vasuDA<k2>vasuDA
-{#vasuDA#}¦ 
-<div n="1"> 1) <lex>adj.</lex> oxyt. {%Güter schaffend, freigebig%}: {#°tama#} 
-<ls>VS. 27, 15.</ls> 
-<ls>TS. 4, 1, 8, 2</ls>; vgl. <ls>AV. 5, 27, 6</ls> (<ls>AV. PRĀT. 4, 45</ls>).
-<div n="1">— 2) <lex>f.</lex> 
-<div n="2"> a) {%die Erde; Land, Reich%} 
-<ls>AK. 2, 1, 3.</ls> 
-<ls>H. 935.</ls> 
-<ls>HALĀY. 2, 1.</ls> 
-<ls>MBH. 3, 2238.</ls> 
-<ls>R. 1, 3, 38</ls> {#(°tale)#} . 
-<ls>2, 34, 41. 37, 27.</ls> <ls>ŚĀK. 192.</ls> <ls>Spr. 203. 484. 1886.</ls> <ls>BHĀG. P. 2, 7, 9.</ls> <ls>VARĀH. BṚH. S. 27, 2. 32, 3. 54, 2.</ls> {#BuktvA samyagvasuDAm#} so v. a. {%regiert habend%} 
-<ls>69, 19.</ls> {#SAsti vasuDAm#} 
-<ls>BṚH. 11, 8.</ls> {#rAjye sAraM vasuDA vasuDAyAmapi puram#} 
-<ls>Spr. 2624. 4250. 4721.</ls> {#rudDavasuDAnmlecCAn#} 
-<ls>RĀJA-TAR. 1, 115.</ls> {#magaDadeSe DarmAraRyasaMnihitavasuDAyAm#} {%Gegend%} 
-<ls>HIT. 49, 9. fg.</ls> {#gahanavasuDAH#} {%Gegenden%} 
-<ls>RĀJA-TAR. 2, 164.</ls> {#vasuDAgama#} {%Ertrag vom Boden%} 
-<ls>VARĀH. BṚH. S. 72, 6.</ls> {#kzetra°#} {%die Erde des Feldes%} 
-<ls>R. 3, 4, 17.</ls> {#samIkzya vasuDAM caret#} {%Erdboden%} 
-<ls>M. 6, 68.</ls> {#°reRu#} 
-<ls>MBH. 1, 6022.</ls> 
-<ls>MEGH. 43.</ls> {#°talAt#} 
-<ls>ŚĀK. 25.</ls> {#°tale#} 
-<ls>KATHĀS. 43, 123.</ls> 
-<div n="2">— b) {%Anapaest%} (was das Wort {#vasuDA#} ist) 
-<ls>Ind. St. 8, 217.</ls>
+{#vasuDA#}¦
+<div n="1"> 1) <lex>adj.</lex> oxyt. {%Güter schaffend, freigebig%}: {#°tama#}
+<ls>VS. 27,15.</ls>
+<ls>TS. 4,1,8,2</ls>; vgl. <ls>AV. 5,27,6</ls> (<ls>AV. PRĀT. 4,45</ls>).
+<div n="1">— 2) <lex>f.</lex>
+<div n="2"> a) {%die Erde; Land, Reich%}
+<ls>AK. 2,1,3.</ls>
+<ls>H. 935.</ls>
+<ls>HALĀY. 2,1.</ls>
+<ls>MBH. 3,2238.</ls>
+<ls>R. 1,3,38</ls> ({#°tale#}) .
+<ls n="R.">2,34,41.</ls> <ls n="R. 2,">37,27.</ls> <ls>ŚĀK. 192.</ls> <ls>Spr. 203.</ls> <ls n="Spr.">484.</ls> <ls n="Spr.">1886.</ls> <ls>BHĀG. P. 2,7,9.</ls> <ls>VARĀH. BṚH. S. 27,2. 32,3. 54,2.</ls> {#BuktvA samyagvasuDAm#} so v. a. {%regiert habend%}
+<ls n="VARĀH. BṚH. S.">69,19.</ls> {#SAsti vasuDAm#}
+<ls>BṚH. 11,8.</ls> {#rAjye sAraM vasuDA vasuDAyAmapi puram#}
+<ls>Spr. 2624.</ls> <ls n="Spr.">4250.</ls> <ls n="Spr.">4721.</ls> {#rudDavasuDAnmlecCAn#}
+<ls>RĀJA-TAR. 1,115.</ls> {#magaDadeSe DarmAraRyasaMnihitavasuDAyAm#} {%Gegend%}
+<ls>HIT. 49,9. fg.</ls> {#gahanavasuDAH#} {%Gegenden%}
+<ls>RĀJA-TAR. 2,164.</ls> {#vasuDAgama#} {%Ertrag vom Boden%}
+<ls>VARĀH. BṚH. S. 72,6.</ls> {#kzetra°#} {%die Erde des Feldes%}
+<ls>R. 3,4,17.</ls> {#samIkzya vasuDAM caret#} {%Erdboden%}
+<ls>M. 6,68.</ls> {#°reRu#}
+<ls>MBH. 1,6022.</ls>
+<ls>MEGH. 43.</ls> {#°talAt#}
+<ls>ŚĀK. 25.</ls> {#°tale#}
+<ls>KATHĀS. 43,123.</ls>
+<div n="2">— b) {%Anapaest%} (was das Wort {#vasuDA#} ist)
+<ls>Ind. St. 8,217.</ls>
 <LEND>

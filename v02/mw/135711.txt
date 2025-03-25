@@ -1,9 +1,9 @@
-<L>135711<pc>685,2<k1>pramad<k2>pra-mad<h>a<e>1
-<s>pra-√ mad</s> <hom>a</hom> ¦ (or <s>mand</s>) <ab>P.</ab> (rarely <ab>Ā.</ab>) <s>-madati</s>, <s>-mandati</s>, <s>-mAdyati</s> (<s>°te</s>), 
+<L>135711<pc>685,2<k1>pramad<k2>pra-mad<e>1
+<s>pra-√ mad</s> (or <s>mand</s>) ¦ <ab>P.</ab> (rarely <ab>Ā.</ab>) <s>-madati</s>, <s>-mandati</s>, <s>-mAdyati</s> (<s>°te</s>),
 <div n="to"/>to enjoy one's self, be joyous, sport, play, <ls>RV.</ls>;
 <div n="to"/>to be careless or negligent, to be indifferent to or heedless about (<ab>abl.</ab> or <ab>loc.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to neglect duty for, idle away time in (<ab>loc.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to be thrown into confusion, <ls>MBh.</ls> :
-<div n="to"/><ab>Caus.</ab> <ab>P.</ab> <s>-mA<shortlong/>dayati</s>, to gladden, delight, <ls>Bālar.</ls>;
-<div n="to"/> <ab>Ā.</ab> <s>-mAdayate</s>, to enjoy, indulge in <ls>RV.</ls><info or="135711,pramad;135711.1,pramand"/><info verb="pre" cp="PĀ" parse="pra+mad"/>
+<div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <s>-mAdayati</s> or <s>-madayati</s>, to gladden, delight, <ls>Bālar.</ls>;
+<div n="to"/> <ab>Ā.</ab> <s>-mAdayate</s>, to enjoy, indulge in <ls>RV.</ls><info verb="pre" cp="PĀ" parse="pra+"/>
 <LEND>

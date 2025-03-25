@@ -1,3 +1,3 @@
-<L>60938.1<pc>335,1<k1>KawikA<k2>KawikA<h>b<e>2B
-<s>KawikA</s> <hom>b</hom> ¦ <lex>f.</lex> See, <ls>ib.</ls><info lex="f"/>
+<L>60938.1<pc>335,1<k1>KawikA<k2>KawikA<e>2B
+<s>KawikA</s> ¦ <lex>f.</lex> See <ls>ib.</ls><info lex="f"/><info hui="b"/>
 <LEND>

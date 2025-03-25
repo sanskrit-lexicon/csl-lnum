@@ -1,30 +1,30 @@
 <L>10006<pc>1-0781<k1>iq<k2>iq
-{#iq#}¦ <lex>f.</lex> nur gebraucht im instr. gen. abl. sg. {#(iLA/, iLa/s)#}; nom. ({#i/Las#}) und acc. pl. ({#iLa/s#} und {#i/Las#}) 
-<div n="1"> 1) {%Labetrank, Labung%}; den Göttern gegeben: {%Spende%}: {#Apo\ yaM va^H praTa\maM de^va\yanta^ indra\pAna^mU\rmimakf^Rvate\LaH#} {%deren von%} <is>Indra</is> {%getrunkene Woge die Gottverlangenden zuerst zu Labetränken machten%} 
-<ls>ṚV. 7, 47, 1.</ls> {#(sarasvati) sa\ha\srA\rGami\Lo atra^ BA\gaM rA\yaspoza\M yaja^mAnezu Dehi#} 
-<ls n="ṚV.">10, 17, 9.</ls> {#pra dIDi^tirvi\SvavA^rA jigAti\ hotA^rami\LaH pra^Ta\maM yaja^DyE#} 
-<ls n="ṚV.">3, 4, 3.</ls> {#iLa/spa/ti#} heisst <is>Pūṣan</is> 
-<ls n="ṚV.">6, 58, 4.</ls> und <is>Bṛhaspati</is> 
-<ls n="ṚV.">5, 42, 14.</ls> : {#pra su^zwu\ti sta\naya^ntaM ru\vanta^mi\Laspati^M jaritarnU\nama^SyAH#} . 
-<div n="1">— 2) pl. Bezeichnung des Gegenstandes der Andacht, welcher in der dritten Stelle der eilf <is>Āprī</is> (in der vierten, wo zwölf gezählt werden) angerufen wird. Das Wort hat in dieser Bedeutung seine Anknüpfung einzig an 
-<ls>ṚV. 3, 4, 3</ls> (s. oben) und ist im Uebrigen eine auf Vermengung der Bedeutungen 1 und 3 beruhende, zugleich etymologisch irrige Abstraction aus dem Inhalt der betreffenden <is>Āprī</is>- Liederverse, welche an <is>Agni</is> als {%den zu erflehenden%} oder {%erflehten%} ({#Iqya, Iqita#} u. s. w.; vgl. 
-<ls>ROTH,</ls> Erll. zu <ls>NIR. 8, 7</ls>) gerichtet sind. {#i\qo ba\hvIri^va yajati#} 
-<ls>TS. 2, 6, 1, 4.</ls> {#iqo ya^jati va\rzA e\vAva^runDe#} 1. {#iLo yajatyannaM vA iLaH#} 
-<ls>AIT. BR. 2, 4.</ls> {#iLo -agna Ajyasya vyantu#} 
-<ls>ĀŚV. ŚR. 1, 5.</ls> {#aTe\qo yajati varzA vA i\qa i\ti#} 
-<ls>ŚAT. BR. 1, 5, 3, 11.</ls> {#prajA vA iqaH#} 
-<ls>4, 3. 6, 1, 8.</ls> Als pl. ist es nach diesen Vorgängen auch 
-<ls>NAIGH. 5, 2</ls> zu verstehen, während es von 
-<ls>YĀSKA NIR. 8, 7</ls> irrig für
+{#iq#}¦ <lex>f.</lex> nur gebraucht im instr. gen. abl. sg. ({#iLA/, iLa/s#}); nom. ({#i/Las#}) und acc. pl. ({#iLa/s#} und {#i/Las#})
+<div n="1"> 1) {%Labetrank, Labung%}; den Göttern gegeben: {%Spende%}: {#Apo\ yaM va^H praTa\maM de^va\yanta^ indra\pAna^mU\rmimakf^Rvate\LaH#} {%deren von%} <is>Indra</is> {%getrunkene Woge die Gottverlangenden zuerst zu Labetränken machten%}
+<ls>ṚV. 7,47,1.</ls> {#(sarasvati) sa\ha\srA\rGami\Lo atra^ BA\gaM rA\yaspoza\M yaja^mAnezu Dehi#}
+<ls n="ṚV.">10,17,9.</ls> {#pra dIDi^tirvi\SvavA^rA jigAti\ hotA^rami\LaH pra^Ta\maM yaja^DyE#}
+<ls n="ṚV.">3,4,3.</ls> {#iLa/spa/ti#} heisst <is>Pūṣan</is>
+<ls n="ṚV.">6,58,4.</ls> und <is>Bṛhaspati</is>
+<ls n="ṚV.">5,42,14.</ls> : {#pra su^zwu\ti sta\naya^ntaM ru\vanta^mi\Laspati^M jaritarnU\nama^SyAH#} .
+<div n="1">— 2) pl. Bezeichnung des Gegenstandes der Andacht, welcher in der dritten Stelle der eilf <is>Āprī</is> (in der vierten, wo zwölf gezählt werden) angerufen wird. Das Wort hat in dieser Bedeutung seine Anknüpfung einzig an
+<ls>ṚV. 3,4,3</ls> (s. oben) und ist im Uebrigen eine auf Vermengung der Bedeutungen 1 und 3 beruhende, zugleich etymologisch irrige Abstraction aus dem Inhalt der betreffenden <is>Āprī</is>- Liederverse, welche an <is>Agni</is> als {%den zu erflehenden%} oder {%erflehten%} ({#Iqya, Iqita#} u. s. w.; vgl.
+<ls>ROTH</ls>, Erll. zu <ls>NIR. 8,7</ls>) gerichtet sind. {#i\qo ba\hvIri^va yajati#}
+<ls>TS. 2,6,1,4.</ls> {#iqo ya^jati va\rzA e\vAva^runDe#} 1. {#iLo yajatyannaM vA iLaH#}
+<ls>AIT. BR. 2,4.</ls> {#iLo -agna Ajyasya vyantu#}
+<ls>ĀŚV. ŚR. 1,5.</ls> {#aTe\qo yajati varzA vA i\qa i\ti#}
+<ls>ŚAT. BR. 1,5,3,11.</ls> {#prajA vA iqaH#}
+<ls n="ŚAT. BR.">4,3. 6,1,8.</ls> Als pl. ist es nach diesen Vorgängen auch
+<ls>NAIGH. 5,2</ls> zu verstehen, während es von
+<ls>YĀSKA</ls> <ls>NIR. 8,7</ls> irrig für
 [Page1-0782]
-sg. <lex>m.</lex> genommen wird. Vgl. {#iqa#} . 
-<div n="1">— 3) übertragen gleich anderen Bezeichnungen {%des Fliessenden%} auf {%die Rede%} (vgl. {#sarasvatI, mahI):#} {%Ergiessung, Fluss heiliger Rede%} und {%Andacht, Strömung des Gebets%}: {#sa ha\vyA mAnu^zARAmi\LA kf\tAni^ patyate#} 
-<ls>ṚV. 1, 128, 7.</ls> {#agna^ i\LA sami^Dyase#} 
-<ls n="ṚV.">3, 24, 2.</ls> {#ni tvA^ daDe\ vare^Rya\M dakza^sye\LA sa^haskfta#} 
-<ls n="ṚV. 3,">27, 10.</ls> <ls>VS. 21, 32.</ls> Besonders in der Verbindung {#i\Laspa\de#} (vgl. 
-<ls>P. 8, 3, 53</ls>) {%an der Stätte heiliger Ergiessung%} d. h. {%am Altar%}; womit auch nach der ersten Bedeutung: {%am Orte der Spende%} zusammentrifft: {#(agniH) i\Laspa\de manu^zA\ yatsami^dDaH#} 
-<ls>ṚV. 2, 10, 1.</ls> {#i\Laspa\de prati^ haryA Gf\tAcI^m#} 
-<ls n="ṚV.">10, 70, 1.</ls> <ls n="ṚV. 10,">91, 1.</ls> {#i\Laspa\da i\zaya\nnIqya\H sat#} 
-<ls n="ṚV.">6, 1, 2.</ls> <ls n="ṚV.">1, 128, 1.</ls> <ls n="ṚV.">10, 191, 1.</ls> <ls>VS. 21, 29. 28, 1.</ls> Vgl. {#ilAspada#} (sic) <lex>n.</lex> N. eines <is>Tīrtha</is> 
-<ls>MBH. 3, 6047.</ls> — Verwandt mit {#irA#} und {#iz#} nom., aber nicht mit {#Iq#}; vgl. {#iqA#} .
+sg. <lex>m.</lex> genommen wird. Vgl. {#iqa#} .
+<div n="1">— 3) übertragen gleich anderen Bezeichnungen {%des Fliessenden%} auf {%die Rede%} (vgl. {#sarasvatI, mahI):#} {%Ergiessung, Fluss heiliger Rede%} und {%Andacht, Strömung des Gebets%}: {#sa ha\vyA mAnu^zARAmi\LA kf\tAni^ patyate#}
+<ls>ṚV. 1,128,7.</ls> {#agna^ i\LA sami^Dyase#}
+<ls n="ṚV.">3,24,2.</ls> {#ni tvA^ daDe\ vare^Rya\M dakza^sye\LA sa^haskfta#}
+<ls n="ṚV. 3,">27,10.</ls> <ls>VS. 21,32.</ls> Besonders in der Verbindung {#i\Laspa\de#} (vgl.
+<ls>P. 8,3,53</ls>) {%an der Stätte heiliger Ergiessung%} d. h. {%am Altar%}; womit auch nach der ersten Bedeutung: {%am Orte der Spende%} zusammentrifft: {#(agniH) i\Laspa\de manu^zA\ yatsami^dDaH#}
+<ls>ṚV. 2,10,1.</ls> {#i\Laspa\de prati^ haryA Gf\tAcI^m#}
+<ls n="ṚV.">10,70,1.</ls> <ls n="ṚV. 10,">91,1.</ls> {#i\Laspa\da i\zaya\nnIqya\H sat#}
+<ls n="ṚV.">6,1,2.</ls> <ls n="ṚV.">1,128,1.</ls> <ls n="ṚV.">10,191,1.</ls> <ls>VS. 21,29.</ls> <ls n="VS.">28,1.</ls> Vgl. {#ilAspada#} (sic) <lex>n.</lex> N. eines <is>Tīrtha</is>
+<ls>MBH. 3,6047.</ls> — Verwandt mit {#irA#} und {#iz#} nom., aber nicht mit {#Iq#}; vgl. {#iqA#} .
 <LEND>

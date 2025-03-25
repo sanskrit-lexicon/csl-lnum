@@ -1,9 +1,9 @@
 <L>18847<pc>581<k1>refuse<k2>refuse
-<div n="lb"/>{@REFUSE@}¦ (v.): <div n="I">I Not to grant, decline: {#na #}
-<div n="lb"/>{# icCati#} ({#iz,#} c. 6. = wish): v. Also to forbid.</div>
-<div n="lb"/><div n="I">II To reject: q. v.: </div><div n="1">(1) {#pratyAKyAti#} ({#KyA,#}
-<div n="lb"/>c. 2.), <div n="xe">{%if you r. me being asked:%}</div> <div n="xs">{#yadi mAM yAcitaH #}
-<div n="lb"/>{# pratyAKyAsyasi,#}</div> Mah. i. 74. 16.; </div><div n="1">(2) {#pratyAcazwe#}
-<div n="lb"/>({#cakza,#} c. l.), <div n="xe">{%I r. not for any fault:%}</div> <div n="xs">{#ahaM #}
-<div n="lb"/>{# pratyAcakze na dozataH,#}</div> 17.</div>
+{@REFUSE@}¦ (v.): <div n="I">I Not to grant, decline: {#na #}
+{# icCati#} ({#iz,#} c. 6. = wish): v. Also to forbid.</div>
+<div n="I">II To reject: q. v.: </div><div n="1">(1) {#pratyAKyAti#} ({#KyA,#}
+c. 2.), <div n="xe">{%if you r. me being asked:%}</div> <div n="xs">{#yadi mAM yAcitaH #}
+{# pratyAKyAsyasi,#}</div> Mah. i. 74. 16.; </div><div n="1">(2) {#pratyAcazwe#}
+({#cakza,#} c. l.), <div n="xe">{%I r. not for any fault:%}</div> <div n="xs">{#ahaM #}
+{# pratyAcakze na dozataH,#}</div> 17.</div>
 <LEND>

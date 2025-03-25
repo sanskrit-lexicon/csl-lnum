@@ -1,68 +1,62 @@
 <L>88913<pc>6-0825<k1>vas<k2>vas<h>2
-2. {#vas#}¦, {#ucCa/ti, OcCat, avasran, uvA/sa, Uza/#} 
-<ls>2.</ls> pl. {#Uzus, avatsyat#}, inf. {#va/stave#} 
-<ls>ṚV. 1, 48, 2.</ls> {%hell werden, - sein, leuchten%} (vom Lichte des anbrechenden Morgens): {#u\vAso\zA u\cCAcca\ nu#} 
-<ls>ṚV. 1, 48, 3.</ls> <ls n="ṚV.">10, 11, 3.</ls> {#u\zaso^ re\vadU^zuH#} 
-<ls n="ṚV.">3, 7, 10.</ls> {#ava^srannu\zaso^ viBA\tIH#} 
-<ls n="ṚV. 3,">4, 2.</ls> <ls n="ṚV. 3, 4,">19.</ls> <ls n="ṚV.">6, 65, 6.</ls> {#OcCa\tsA rAtrI^#} {%illuxit%} 
-<ls n="ṚV.">5, 30, 14.</ls> {#dU\re a\mitra^mucCa#} {%leuchte weg%} 
-<ls n="ṚV.">7, 77, 4.</ls> {#a\dyA tadu^cCa gfRa\te#} {%bringe durch dein Licht%} 
-<ls n="ṚV.">1, 113, 7.</ls> fehlerhaft scheint {#ucCantu#} st. {#ukzantu#} zu stehen 
-<ls>AV. 3, 12, 4.</ls> {#uzita = vyuzwa#} 
-<ls>TRIK. 3, 3, 102.</ls> = {#vyuzita#} 
-<ls>H. an. 3, 253.</ls> 
-<ls>MED. t. 96.</ls> 
-<div n="v">— Vgl. 1. {#uza, uzas#}, 
-<ls>2. und 3.</ls> {#uzA#}, 2. {#usra#} .
-
-<div n="p">— caus. {%aufleuchten machen%}: {#pra ca^kzaya\ roda^sI vAsayo\zasa^H#} 
-<ls>ṚV. 1, 134, 3.</ls> <ls n="ṚV.">6, 17, 5.</ls> <ls n="ṚV. 6,">32, 2.</ls> <ls n="ṚV.">7, 91, 1.</ls>
-
-<div n="p">— {#aDi#}, {#aDyuzite#} {%bei Tagesanbruch%} 
-<ls>MBH. 8, 1673.</ls>
-
-<div n="p">— {#apa#} 
-<div n="1"> 1) {%durch Helle vertreiben%} 
-<ls>ṚV. 1, 48, 8.</ls> {#u\zA u^cCa\dapa\ sriDa^H#} 
-<ls n="ṚV.">7, 81, 6.</ls> <ls n="ṚV. 7,">104, 23.</ls> <ls>AV. 2, 8, 2.</ls> {#ca\ndramA\ vo 'po^cCatu#} 
-<ls>6, 83, 1. 14, 2, 48. 16, 6, 2.</ls> 
-<div n="1">— 2) {%erlöschen%}: {#a\pa\vA\sa u\zasA\mapa^ kzetri\yamu^cCatu#} 
-<ls>AV. 3, 7, 7.</ls> 
+2. {#vas#}¦, {#ucCa/ti, OcCat, avasran, uvA/sa, Uza/#}
+2. pl. {#Uzus, avatsyat#}, inf. {#va/stave#}
+<ls>ṚV. 1,48,2.</ls> {%hell werden, — sein, leuchten%} (vom Lichte des anbrechenden Morgens): {#u\vAso\zA u\cCAcca\ nu#}
+<ls>ṚV. 1,48,3.</ls> <ls n="ṚV.">10,11,3.</ls> {#u\zaso^ re\vadU^zuH#}
+<ls n="ṚV.">3,7,10.</ls> {#ava^srannu\zaso^ viBA\tIH#}
+<ls n="ṚV. 3,">4,2.</ls> <ls n="ṚV. 3,4,">19.</ls> <ls n="ṚV.">6,65,6.</ls> {#OcCa\tsA rAtrI^#} {%illuxit%}
+<ls n="ṚV.">5,30,14.</ls> {#dU\re a\mitra^mucCa#} {%leuchte weg%}
+<ls n="ṚV.">7,77,4.</ls> {#a\dyA tadu^cCa gfRa\te#} {%bringe durch dein Licht%}
+<ls n="ṚV.">1,113,7.</ls> fehlerhaft scheint {#ucCantu#} st. {#ukzantu#} zu stehen
+<ls>AV. 3,12,4.</ls> {#uzita = vyuzwa#}
+<ls>TRIK. 3,3,102.</ls> = {#vyuzita#}
+<ls>H. an. 3,253.</ls>
+<ls>MED. t. 96.</ls>
+<div n="v">— Vgl. 1. {#uza, uzas#},
+2. und 3. {#uzA#}, 2. {#usra#} .
+<div n="p">— caus. {%aufleuchten machen%}: {#pra ca^kzaya\ roda^sI vAsayo\zasa^H#}
+<ls>ṚV. 1,134,3.</ls> <ls n="ṚV.">6,17,5.</ls> <ls n="ṚV. 6,">32,2.</ls> <ls n="ṚV.">7,91,1.</ls>
+<div n="p">— {#aDi#}, {#aDyuzite#} {%bei Tagesanbruch%}
+<ls>MBH. 8,1673.</ls>
+<div n="p">— {#apa#}
+<div n="1"> 1) {%durch Helle vertreiben%}
+<ls>ṚV. 1,48,8.</ls> {#u\zA u^cCa\dapa\ sriDa^H#}
+<ls n="ṚV.">7,81,6.</ls> <ls n="ṚV. 7,">104,23.</ls> <ls>AV. 2,8,2.</ls> {#ca\ndramA\ vo 'po^cCatu#}
+<ls n="AV.">6,83,1.</ls> <ls n="AV.">14,2,48.</ls> <ls n="AV.">16,6,2.</ls>
+<div n="1">— 2) {%erlöschen%}: {#a\pa\vA\sa u\zasA\mapa^ kzetri\yamu^cCatu#}
+<ls>AV. 3,7,7.</ls>
 <div n="v">— Vgl. {#apavAsa#} .
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%aufleuchten, in%} oder {%an das Licht treten%} 
-<ls>ṚV. 1, 113, 7.</ls> {#yA vyU\zuryASca^ nU\naM vyu\cCAn#} 
-<ls n="ṚV. 1, 113,">10.</ls> <ls n="ṚV. 1, 113,">13.</ls> <ls n="ṚV.">3, 55, 1.</ls> {#ahA\ yadi^ndra su\dinA^ vyu\cCAn#} 
-<ls n="ṚV.">7, 30, 3.</ls> {#pra\Ta\mA ha\ vyu^vAsa#} 
-<ls>AV. 3, 10, 1. 4.</ls> 
-<ls>ŚAT. BR. 6, 2, 2, 17. 7, 2, 4.</ls> {#na vyavatsyat#}
+<div n="p">— {#vi#}
+<div n="1"> 1) {%aufleuchten, in%} oder {%an das Licht treten%}
+<ls>ṚV. 1,113,7.</ls> {#yA vyU\zuryASca^ nU\naM vyu\cCAn#}
+<ls n="ṚV. 1,113,">10.</ls> <ls n="ṚV. 1,113,">13.</ls> <ls n="ṚV.">3,55,1.</ls> {#ahA\ yadi^ndra su\dinA^ vyu\cCAn#}
+<ls n="ṚV.">7,30,3.</ls> {#pra\Ta\mA ha\ vyu^vAsa#}
+<ls>AV. 3,10,1.</ls> <ls n="AV. 3,10,">4.</ls>
+<ls>ŚAT. BR. 6,2,2,17. 7,2,4.</ls> {#na vyavatsyat#}
 [Page6-0826]
-{%es wäre nicht Tag geworden%} 
-<ls>4, 3, 1, 10.</ls> <ls>ŚĀṄKH. ŚR. 15, 16, 6.</ls> infin. loc.: {#vyu/zi#} 
-<ls>ṚV. 5, 3, 8.</ls> <ls n="ṚV. 5,">45, 8.</ls> {#tavedu^zo\ vyuzi\ sUrya^sya ca#} 
-<ls n="ṚV.">7, 81, 2.</ls> <ls n="ṚV.">8, 46, 21.</ls> {#vyuzwa#} {%hell geworden%}: {#vyuzwAyAM rAtrO#} 
-<ls>ŚAT. BR. 12, 7, 3, 3.</ls> 
-<ls>KĀTY. ŚR. 20, 4, 33.</ls> 
-<ls>MBH. 1, 1205. 3, 11917. 4, 452</ls> {#(suvyuzwA rajanI mama)#} . 
-<ls>?7, 2605. 12, 1548. 15, 355. R. 2, 54, 37. R. GORR. 1, 30, 1. BHĀG. P. 9, 2, 8. 10, 42, 32. PAÑCAT. 130, 7. n.</ls> = {#dina, praBAta#} 
-<ls>H. an. 2, 99.</ls> 
-<ls>TRIK. 1, 1, 103.</ls> = {#kalya#} 
-<ls>3, 3, 102.</ls> <ls>MED. ṭ. 28</ls>; vgl. {#avyuzwa#}.{# vyuzite#} 
-<ls>ŚĀṄKH. ŚR. 2, 7, 3.</ls> 
-<div n="1">— 2) {%erhellen%}: {#Adityo vivasvAnahorAtra vivaste#} (ganz unregelmässig der Etymologie wegen) 
-<ls>ŚAT. BR. 10, 5, 2, 4.</ls> — caus. {%hell werden lassen%}: {#vye^vAsmE^ vAsayati#} {%er lässt ihm Tag werden%} 
-<ls>TBR. 1, 8, 2, 3</ls> <ls>?(nach dem Comm. zu 3.</ls> {#vas)#}.{# a\yaM vA^saya\dvyf1^\tena^ pU\rvIH#} 
-<ls>ṚV. 6, 39, 4.</ls> {#i\daM no\ vivA^sayatam#} 
-<ls>TS. 6, 4, 8, 3.</ls> 
-<ls>TBR. 1, 4, 4, 5.</ls> 
-<ls>PAÑCAV. BR. 8, 1, 13. 18, 9, 8. 11, 11.</ls>
-
-<div n="p">— {#aBivi#} {%hell werden über%} d. h. {%zur Zeit von%} (acc.): {#yadi paryAyAnaBivyucCet#} {%über den%} p. d. h. {%ehe diese beendet sind%} 
-<ls>ĀŚV. ŚR. 6, 6, 1.</ls> 
-<ls>PAÑCAV. BR. 9, 3, 3.</ls> med. ({#°cCeta#} vielleicht nur Schreibfehler für {#°cCet#}) 
-<ls>ŚĀṄKH. ŚR. 13, 10, 4.</ls>
-
-<div n="p">— {#parivi#} {%aufleuchten von - her%} so v. a. {%nach%}: {#vyu\cCantI\ pari\ svasu^H#} 
-<ls>ṚV. 4, 52, 1.</ls>
+{%es wäre nicht Tag geworden%}
+<ls n="ŚAT. BR.">4,3,1,10.</ls> <ls>ŚĀṄKH. ŚR. 15,16,6.</ls> infin. loc.: {#vyu/zi#}
+<ls>ṚV. 5,3,8.</ls> <ls n="ṚV. 5,">45,8.</ls> {#tavedu^zo\ vyuzi\ sUrya^sya ca#}
+<ls n="ṚV.">7,81,2.</ls> <ls n="ṚV.">8,46,21.</ls> {#vyuzwa#} {%hell geworden%}: {#vyuzwAyAM rAtrO#}
+<ls>ŚAT. BR. 12,7,3,3.</ls>
+<ls>KĀTY. ŚR. 20,4,33.</ls>
+<ls>MBH. 1,1205.</ls> <ls n="MBH.">3,11917.</ls> <ls n="MBH.">4,452</ls> ({#suvyuzwA rajanI mama#}) .
+<ls n="MBH.">7,2605.</ls> <ls n="MBH.">12,1548.</ls> <ls n="MBH.">15,355.</ls> <ls>R. 2,54,37.</ls> <ls>R. GORR. 1,30,1.</ls> <ls>BHĀG. P. 9,2,8.</ls> <ls n="BHĀG. P.">10,42,32.</ls> <ls>PAÑCAT. 130,7. n.</ls> = {#dina, praBAta#}
+<ls>H. an. 2,99.</ls>
+<ls>TRIK. 1,1,103.</ls> = {#kalya#}
+<ls n="TRIK.">3,3,102.</ls> <ls>MED. ṭ. 28</ls>; vgl. {#avyuzwa#}.{# vyuzite#}
+<ls>ŚĀṄKH. ŚR. 2,7,3.</ls>
+<div n="1">— 2) {%erhellen%}: {#Adityo vivasvAnahorAtra vivaste#} (ganz unregelmässig der Etymologie wegen)
+<ls>ŚAT. BR. 10,5,2,4.</ls> — caus. {%hell werden lassen%}: {#vye^vAsmE^ vAsayati#} {%er lässt ihm Tag werden%}
+<ls>TBR. 1,8,2,3</ls> (nach dem Comm. zu 3. {#vas)#}.{# a\yaM vA^saya\dvyf1^\tena^ pU\rvIH#}
+<ls>ṚV. 6,39,4.</ls> {#i\daM no\ vivA^sayatam#}
+<ls>TS. 6,4,8,3.</ls>
+<ls>TBR. 1,4,4,5.</ls>
+<ls>PAÑCAV. BR. 8,1,13. 18,9,8. 11,11.</ls>
+<div n="p">— {#aBivi#} {%hell werden über%} d. h. {%zur Zeit von%} (acc.): {#yadi paryAyAnaBivyucCet#} {%über den%} p. d. h. {%ehe diese beendet sind%}
+<ls>ĀŚV. ŚR. 6,6,1.</ls>
+<ls>PAÑCAV. BR. 9,3,3.</ls> med. ({#°cCeta#} vielleicht nur Schreibfehler für {#°cCet#})
+<ls>ŚĀṄKH. ŚR. 13,10,4.</ls>
+<div n="p">— {#parivi#} {%aufleuchten von — her%} so v. a. {%nach%}: {#vyu\cCantI\ pari\ svasu^H#}
+<ls>ṚV. 4,52,1.</ls>
 <LEND>

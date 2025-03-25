@@ -1,5 +1,5 @@
 <L>15961<pc>390-b<k1>ingredient<k2>ingredient
-<div n="lb"/>INGREDIENT¦, {%s.%} {#BAgaH, aMSaH, dravyaM, sADanadravyaM, upakaraRaM, aNgaM, vastu;#}
-<div n="lb"/>‘any thing mixed as an ingredient in drugs in the
-<div n="lb"/>course of decoction,’ {#prakziptaM, BAvitaM#}.
+INGREDIENT¦, {%s.%} {#BAgaH, aMSaH, dravyaM, sADanadravyaM, upakaraRaM, aNgaM, vastu;#}
+‘any thing mixed as an ingredient in drugs in the
+course of decoction,’ {#prakziptaM, BAvitaM#}.
 <LEND>

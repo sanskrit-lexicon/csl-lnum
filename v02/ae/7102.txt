@@ -1,26 +1,26 @@
 <L>7102<pc>307<k1>night<k2>night
 {@Night,@}¦ {%s.%} {#rAtri-trI, rajaniH-nI, kzapA, niSA,#}
-<div n="lb"/>{#viBAvarI, Sa#} ({#SA#}) {#rvarI, yAminI, triyAmA,#}
-<div n="lb"/>{#niSITinI, kzaRadA, tamasvinI, tamiH-mI-mA,#}
-<div n="lb"/>(all {%f.%}); ‘a dark n.’ {#tamisrA, tAmasI;#}
-<div n="lb"/>‘moon'light n.’ {#jyOtsnI, jyotizmatI;#} ‘by
-<div n="lb"/>n.’, ‘at n.’ {#rAtrO, niSi, naktaM, dozA;#}
-<div n="lb"/>‘number of n. s’ {#gaRarAtraM;#} ‘beginning
-<div n="lb"/>of n.’ {#pradozaH, rajanImuKaM, niSAmuKaM;#} ‘n. and
-<div n="lb"/>day’ {#rAtriMdivaM, naktaMdivaM;#} ‘a n. and
-<div n="lb"/>2 days’ {#pakziRI;#} ‘sitting up at n.’ {#rAtri-#}
-<div n="lb"/>{#-jAgaraH;#} ‘n.-attack’ {#sOptikaM, sOptikAkramaH;#}
-<div n="lb"/>‘n.-blindness’ {#rAtryaMDatA;#} ‘n.-dress’
-<div n="lb"/>{#rAtriveSaH;#} ‘n.-fall’ {#pradozaH, niSA-rajanI-#}
-<div n="lb"/>{#-muKaM, saMDyAkAlaH, rAtriyogaH;#} ‘n.-hag’
-<div n="lb"/>{#rAtricarA, rAtryawA;#} ‘n.-man’ {#Kala-mala-pUH;#}
-<div n="lb"/>‘n. mare’ {#duHsvapnaH, kusvapnaH;#} ‘n.-shade’
-<div n="lb"/>{#nidigDikA, spfSI, vyAGrI, bfhatI, kaMwakA-#}
-<div n="lb"/>{#-rikA, pracodanI, kulI, kzudrA, duHsparSA,#}
-<div n="lb"/>{#rAzwrikA;#} ‘n-wandering’ {#niSAcara,#}
-<div n="lb"/>{#rAtri(triM)cara;#} ‘n.-watch’ {#nagararakziRaH#}
-<div n="lb"/>(pl.); {#yAmaH, praharaH#}. {@-ly,@} {%a.%} {#nESa#} ({#SI#} {%f.%}),
-<div n="lb"/>{#dozAtana#} ({#nI#} {%f.%}), ({%s.%}) in comp.; ‘n.
-<div n="lb"/>watch’ {#rAtrijAgaraRaM#}. {%-adv.%} {#rAtrO, niSi,#}
-<div n="lb"/>{#naktaM#}. {@2@} {#pratirAtraM, niSiniSi, rAtrO rAtrO#}.
+{#viBAvarI, Sa#} ({#SA#}) {#rvarI, yAminI, triyAmA,#}
+{#niSITinI, kzaRadA, tamasvinI, tamiH-mI-mA,#}
+(all {%f.%}); ‘a dark n.’ {#tamisrA, tAmasI;#}
+‘moon'light n.’ {#jyOtsnI, jyotizmatI;#} ‘by
+n.’, ‘at n.’ {#rAtrO, niSi, naktaM, dozA;#}
+‘number of n. s’ {#gaRarAtraM;#} ‘beginning
+of n.’ {#pradozaH, rajanImuKaM, niSAmuKaM;#} ‘n. and
+day’ {#rAtriMdivaM, naktaMdivaM;#} ‘a n. and
+2 days’ {#pakziRI;#} ‘sitting up at n.’ {#rAtri-#}
+{#-jAgaraH;#} ‘n.-attack’ {#sOptikaM, sOptikAkramaH;#}
+‘n.-blindness’ {#rAtryaMDatA;#} ‘n.-dress’
+{#rAtriveSaH;#} ‘n.-fall’ {#pradozaH, niSA-rajanI-#}
+{#-muKaM, saMDyAkAlaH, rAtriyogaH;#} ‘n.-hag’
+{#rAtricarA, rAtryawA;#} ‘n.-man’ {#Kala-mala-pUH;#}
+‘n. mare’ {#duHsvapnaH, kusvapnaH;#} ‘n.-shade’
+{#nidigDikA, spfSI, vyAGrI, bfhatI, kaMwakA-#}
+{#-rikA, pracodanI, kulI, kzudrA, duHsparSA,#}
+{#rAzwrikA;#} ‘n-wandering’ {#niSAcara,#}
+{#rAtri(triM)cara;#} ‘n.-watch’ {#nagararakziRaH#}
+(pl.); {#yAmaH, praharaH#}. {@-ly,@} {%a.%} {#nESa#} ({#SI#} {%f.%}),
+{#dozAtana#} ({#nI#} {%f.%}), ({%s.%}) in comp.; ‘n.
+watch’ {#rAtrijAgaraRaM#}. {%-adv.%} {#rAtrO, niSi,#}
+{#naktaM#}. {@2@} {#pratirAtraM, niSiniSi, rAtrO rAtrO#}.
 <LEND>

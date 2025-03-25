@@ -1,48 +1,48 @@
 <L>20096<pc>2-0524<k1>kzata<k2>kzata/
-{#kzata/#}¦ (von {#kzan#}) partic. 
-<div n="1"> 1) <lex>adj.</lex> {%verwundet, verletzt; gebrochen, zerstört, vernichtet%} 
-<ls>ŚAT. BR. 6, 4, 3, 1.</ls> 
-<ls>YĀJÑ. 3, 246.</ls> 
-<ls>MBH. 13, 5189.</ls> 
-<ls>SUŚR. 1, 155, 11. 167, 19.</ls> 
-<ls>DAŚ. 2, 46.</ls> 
-<ls>PAÑCAT. 87, 6. 171, 3.</ls> {#patriRA hfdi kzataH#} 
-<ls>RAGH. 3, 53. 1, 28.</ls> 
-<ls>ŚĀK. 45.</ls> 
-<ls>H. 1295.</ls> {#akzata#} 
-<ls>MBH. 3, 1587.</ls> 
-<ls>R. 5, 51, 26.</ls> 
-<ls>PAÑCAT. 38, 17.</ls> 
-<ls>RAGH. 2, 56.</ls> {#kzatA#} und {#akzatA#} (von einem Mädchen) 
-<ls>YĀJÑ. 1, 67. 2, 130.</ls> {#kzetrAdDalamuKakzatAt#} 
-<ls>R. 5, 19, 4.</ls> {#sadAvagAhakzatavArisaMcaya#} 
-<ls>ṚT. 1, 1.</ls> {#kzArakzatA (Bitti)#} 
-<ls>MṚCCH. 47, 17.</ls> {#niSAH SaSANkakzatanIlarAjayaH#} 
-<ls>ṚT. 1, 2.</ls> {#°timira#} 
-<ls>BHAṬṬ. 10, 68.</ls> {#manas#} 
-<ls>SUŚR. 2, 154, 4.</ls> {#kzatakAmadarpa#} 
-<ls>CAURAP. 32.</ls> {#kzatapuRyaleSa#} 
-<ls>BHĀG. P. 3, 1, 9.</ls> {#tejas#} 
-<ls>16, 24.</ls> {#°huMkAra#} 
-<ls>KUMĀRAS. 2, 26.</ls> {#°vrata#} {%der sein Gelübde gebrochen hat%} 
-<ls>AK. 2, 7, 53.</ls> 
-<ls>H. 854.</ls> {#°vftti#} {%dessen Lebensunterhalt erschöpft ist%} 
-<ls>R. 2, 32, 28.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%Verletzung, Wunde; Contusion%} 
-<ls>H. 464.</ls> 
-<ls>SUŚR. 1, 64, 12. 213, 14.</ls> {#kaRqUyanAtkzataM samupajAyate tasmiMSca kzate duzwamAMsajAH prarohA jAyante#} 
-<ls>260, 8. 2, 446, 21.</ls> {#Sastrakzatam#} 
-<ls>338, 12.</ls> {#kzatanimittaH #}
+{#kzata/#}¦ (von {#kzan#}) partic.
+<div n="1"> 1) <lex>adj.</lex> {%verwundet, verletzt; gebrochen, zerstört, vernichtet%}
+<ls>ŚAT. BR. 6,4,3,1.</ls>
+<ls>YĀJÑ. 3,246.</ls>
+<ls>MBH. 13,5189.</ls>
+<ls>SUŚR. 1,155,11. 167,19.</ls>
+<ls>DAŚ. 2,46.</ls>
+<ls>PAÑCAT. 87,6.</ls> <ls n="PAÑCAT.">171,3.</ls> {#patriRA hfdi kzataH#}
+<ls>RAGH. 3,53.</ls> <ls n="RAGH.">1,28.</ls>
+<ls>ŚĀK. 45.</ls>
+<ls>H. 1295.</ls> {#akzata#}
+<ls>MBH. 3,1587.</ls>
+<ls>R. 5,51,26.</ls>
+<ls>PAÑCAT. 38,17.</ls>
+<ls>RAGH. 2,56.</ls> {#kzatA#} und {#akzatA#} (von einem Mädchen)
+<ls>YĀJÑ. 1,67.</ls> <ls n="YĀJÑ.">2,130.</ls> {#kzetrAdDalamuKakzatAt#}
+<ls>R. 5,19,4.</ls> {#sadAvagAhakzatavArisaMcaya#}
+<ls>ṚT. 1,1.</ls> {#kzArakzatA (Bitti)#}
+<ls>MṚCCH. 47,17.</ls> {#niSAH SaSANkakzatanIlarAjayaH#}
+<ls>ṚT. 1,2.</ls> {#°timira#}
+<ls>BHAṬṬ. 10,68.</ls> {#manas#}
+<ls>SUŚR. 2,154,4.</ls> {#kzatakAmadarpa#}
+<ls>CAURAP. 32.</ls> {#kzatapuRyaleSa#}
+<ls>BHĀG. P. 3,1,9.</ls> {#tejas#}
+<ls n="BHĀG. P. 3,">16,24.</ls> {#°huMkAra#}
+<ls>KUMĀRAS. 2,26.</ls> {#°vrata#} {%der sein Gelübde gebrochen hat%}
+<ls>AK. 2,7,53.</ls>
+<ls>H. 854.</ls> {#°vftti#} {%dessen Lebensunterhalt erschöpft ist%}
+<ls>R. 2,32,28.</ls>
+<div n="1">— 2) <lex>n.</lex> {%Verletzung, Wunde; Contusion%}
+<ls>H. 464.</ls>
+<ls>SUŚR. 1,64,12. 213,14.</ls> {#kaRqUyanAtkzataM samupajAyate tasmiMSca kzate duzwamAMsajAH prarohA jAyante#}
+<ls n="SUŚR.">260,8. 2,446,21.</ls> {#Sastrakzatam#}
+<ls n="SUŚR.">338,12.</ls> {#kzatanimittaH #}
 [Page2-0525]
-{# koTaH#} 
-<ls>1, 266, 16.</ls> {#nAticCinnaM nAtiBinnamuBayorlakzaRAnvitam . vizamaM vraRamaNge yattatkzataM tvaBinirdiSet ..#} 
-<ls>2, 19, 1.</ls> <ls>MBH. 3, 6096.</ls> {#kzIRasyApyAyanaM dfzwaM kzatasya kzatarohaRam#} 
-<ls>13, 5189.</ls> <ls>MĀLAV. 62.</ls> {#kzate prahArA nipatantyaBIkzRam#} (sprichwörtlich) 
-<ls>PAÑCAT. II, 193.</ls> <ls>RAGH. 2, 53.</ls> {#kaRwakakzata#} 
-<ls>BHĀG. P. 3, 6, 31.</ls> {#naKarakzatEH#} 
-<ls>SĀH. D. 44, 11.</ls> {#sarpakzata#} 
-<ls>TRIK. 3, 3, 427.</ls> {#kzatAByaNga#} ({%die verletzte Stelle eines%} <is>Havis</is>, d. i. {%wo man Etwas davon weggenommen hat%}) 
-<ls>PADDH.</ls> zu <ls>KĀTY. ŚR. 3, 3.</ls> {#na prarohati vAkkzatam#} 
-<ls>PAÑCAT. III, 112.</ls> 
+{# koTaH#}
+<ls n="SUŚR.">1,266,16.</ls> {#nAticCinnaM nAtiBinnamuBayorlakzaRAnvitam . vizamaM vraRamaNge yattatkzataM tvaBinirdiSet ..#}
+<ls n="SUŚR.">2,19,1.</ls> <ls>MBH. 3,6096.</ls> {#kzIRasyApyAyanaM dfzwaM kzatasya kzatarohaRam#}
+<ls n="MBH.">13,5189.</ls> <ls>MĀLAV. 62.</ls> {#kzate prahArA nipatantyaBIkzRam#} (sprichwörtlich)
+<ls>PAÑCAT. II,193.</ls> <ls>RAGH. 2,53.</ls> {#kaRwakakzata#}
+<ls>BHĀG. P. 3,6,31.</ls> {#naKarakzatEH#}
+<ls>SĀH. D. 44,11.</ls> {#sarpakzata#}
+<ls>TRIK. 3,3,427.</ls> {#kzatAByaNga#} ({%die verletzte Stelle eines%} <is>Havis</is>, <ab>d. i.</ab> {%wo man Etwas davon weggenommen hat%})
+<ls>PADDH.</ls> zu <ls>KĀTY. ŚR. 3,3.</ls> {#na prarohati vAkkzatam#}
+<ls>PAÑCAT. III,112.</ls>
 <div n="v">— Vgl. {#akzata#} .
 <LEND>

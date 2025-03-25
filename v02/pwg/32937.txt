@@ -1,116 +1,106 @@
 <L>32937<pc>3-0616<k1>div<k2>div<h>1
-1. {#div#}¦, {#dI/vyati#} 
-<ls>DHĀTUP. 26, 1.</ls> 
-<ls>P. 8, 2, 77.</ls> 
-<ls>VOP. 11, 1</ls>; {#dideva, dideviTa#} 
-<ls>P. 6, 4, 121,</ls> 
-<ls>Sch.</ls> {#didivaMs#} 
-<ls>P. 6, 1, 66,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 26, 132.</ls> {#dudyUvaMs#} 
-<ls>VOP.</ls>; {#adevIt#} (hierher und nicht zu {#dev#}) 
-<ls>P. 7, 2, 4,</ls> 
-<ls>Sch.</ls> {#devizyati; devitA#} 
-<ls>P. 7, 2, 49,</ls> 
-<ls>Sch.</ls>; {#devitvA#} (hierher und nicht zu {#dev#}) 
-<ls>P. 1, 2, 18,</ls> 
-<ls>Sch. 26,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 26, 207</ls>; partic. {#dyUta#} s. bes.; ep. auch med. Die Grundbedeutung ist viell. {%hervorschiessen%} (insbes. von Strahlen), trans. {%hervorschiessen lassen, werfen, schleudern.%} 
-<div n="1"> 1) {%strahlen%}, = {#dyuti#} 
-<ls>DHĀTUP.</ls> {#devatAH praBayA yA yA dIvyanpramuKato 'sfjat#} 
-<ls>BHĀG. P. 3, 20, 22.</ls> Vgl. {#div#} {%Himmel%}, 2. {#dI#} {%leuchten%}, {#dIp, deva, dyut#} . 
-<div n="1">— 2) {%schleudern, werfen%} (vgl. {#didyu, didyut): adIvyadrOdram#} 
-<ls>BHAṬṬ. 17, 87.</ls> {#dIvyamAnaM#} (vgl. 
-<ls>P. 3, 2, 129</ls>) {#SitAnvARAn#} 
-<ls>5, 81.</ls> 
-<div n="1">— 3) {%Würfel werfen, mit Würfeln spielen, würfeln%}, = {#vijigIzA#} 
-<ls>DHĀTUP.</ls> {#akzAn#} und {#akzErdIvyati#} 
-<ls>P. 1, 4, 43.</ls> 
-<ls>VOP. 5, 8.</ls> {#a\kzErmA dI^vyAH#} 
-<ls>ṚV. 10, 34, 13.</ls> {#yadA\dIDye\ na de^vizARyeBiH#} 
-<ls n="ṚV. 10, 34,">5.</ls> {#dIvyAva - vfzeRa#} 
-<ls>MBH. 3, 2260.</ls> {#dIvyAva (divyAva#} 
-<ls>MBH. 3, 3033</ls>) <ls>N. 26, 4.</ls> {#dIvyAmi Sakune tvayA#} 
-<ls>MBH. 2, 2509. 3, 2257.</ls> {#anena vyavasAyena dIvyAma#} 
-<ls>2, 2512.</ls> {#puRyaSlokasya dIvyataH#} 
-<ls>3, 2297. 4, 494.</ls> {#adevIt#} 
-<ls>2, 2203.</ls> {#na sa jAnAti devitum#} 
-<ls>1720.</ls> {#dIvyasva#} 
-<ls>2504.</ls> {#dIvyamAna#} 
-<ls>2003. 3, 2263. 5, 37.</ls> {#tvayEva tAvadvicakzaRena devizyAmi#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 186, 2.</ls> Mit dem gen. des Einsatzes 
-<ls>P. 2, 3, 58.</ls> {#Satasya dIvyati#} 
-<ls>Sch.</ls> mit dem instr.: {#tena (Danena) dIvyAmyahaM tvayA#} 
-<ls>MBH. 2, 2061.</ls> {#ko hi dIvyedBAryayA#} 
-<ls>2202.</ls> {#yadi nizkasahasreRa - adevizyadapi#} 
-<ls>4, 534.</ls> mit dem dat.: {#ko hi - pravrajyAyEva dIvyeta#} 
-<ls>533.</ls> {#punardivyAma#} (sic) {#BadraM te vanavAsAya#} 
-<ls>2, 2468.</ls> mit dem acc. in den <is>Brāhmaṇa</is> 
-<ls>P. 2, 3, 60</ls>, {#gAmasya tadahaH saBAyAM dIvyeyuH#} <ls>Sch.</ls> {#gAM dIvyaDvam#} 
-<ls>ŚAT. BR. 5, 4, 4, 22.</ls> — {%wetten auf%} (dat.): {#ehi sArDaM mayA dIvya dAsIBAvAya#} 
-<ls>MBH. 1, 1192.</ls> — {%spielen, scherzen, tändeln%} überh., = {#krIqA#} 
-<ls>DHĀTUP.</ls> {#videvaM dIvyamAnA jAtyA Asate#} 
-<ls>ŚAT. BR. 1, 8, 3, 6.</ls> {#striyo dIvya#} {%spiele mit den Weibern%} 
-<ls>BHAṬṬ. 5, 8.</ls> {#icCa snehena dIvyantI vizayAnBuvaneSvaram#} so v. a. {%die Sinnenreize spielen lassen%} 
-<ls>8, 78.</ls> {%mit Jmd spielen%} so v. a. {%Jmd%} (acc.) {%zum Besten haben%}: {#yo no^ di\deva^ yata\mo ja\GAsa^#} (von {#has#}) 
-<ls>AV. 5, 29, 2.</ls> {%spielen%} so v. a. {%auf's Spiel setzen%}, mit dem gen.: {#adevIdbanDuBogAnAm#} 
-<ls>BHAṬṬ. 8, 122.</ls> {%spielen%} so v. a. {%freies Spiel haben, sich frei bewegen können%}: {#Danakzaye dIvyati jAWarAgniH#} 
-<ls>PAÑCAT. II, 193</ls>; st. dessen {#varDati#} 
-<ls>?IV, 66; BENFEY</ls> vermuthet {#dIpyati#} . Die Bed. {#vyavahAra#} im 
-<ls>DHĀTUP.</ls> hat sich wohl aus 
-<ls>P. 2, 3, 57</ls> eingeschlichen. Vgl. {#dIve#} (u. {#dIv#}) und {#dIvana#}, die einzigen Formen, welche eine Länge des Wurzelvocals voraussetzen. 
-<div n="1">— 4) {%loben%} (vgl. {#paRate#} {%wetten%} und {#paRAyati#} {%loben%}) 
-<ls>DHĀTUP.</ls> {#brAhmaRaM dIvyati = stOti#} 
-<ls>P. 2, 3, 58,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 5) {%sich freuen%} ({#moda#}). 
-<div n="1">— 6) {%trunken sein%} ({#mada#}). 
-<div n="1">— 7) {%schlafen%} ({#svapna#}). 
-<div n="1">— 8) {%begehren, verlangen%} ({#kAnti, icCA#}). 
-<div n="1">— 9) {%gehen%} 
-<ls>DHĀTUP.</ls> — caus. {#devayati#} {%Jmd würfeln lassen%}: {#kitavo yaH svayaM devitumanaBijYaH svArTaM parAndevayati#} 
-<ls>KULL.</ls> zu <ls>M. 3, 159.</ls> — desid. {#didevizati#} und {#dudyUzati#} 
-<ls>P. 7, 2, 49,</ls> 
-<ls>Sch.</ls> (fälschlich {#didyUzati#}). 
-<ls>VOP. 19, 8. 11. 12.</ls> — caus. vom desid. {%Jmd zum Spielen anreizen%}: {#tenAdudyUzayadrAmaM mfgeRa mfgalocanA#} 
-<ls>BHAṬṬ. 5, 49.</ls> — intens. {#dedivIti, dedyoti, dedeti#} u. s. w. 
-<ls>VOP. 20, 17.</ls>
-
-<div n="p">— {#ati#} 
-<div n="1"> 1) {%höher würfeln%}: {#u\ta pra\HAma^ti\dIvyA^ jayAti#} 
-<ls>ṚV. 10, 42, 9.</ls> 
-<div n="1">— 2) {%verspielen%} (?): {#tadvE vittaM mAtidevIH#} 
-<ls>MBH. 2, 2041.</ls>
-
+1. {#div#}¦, {#dI/vyati#}
+<ls>DHĀTUP. 26,1.</ls>
+<ls>P. 8,2,77.</ls>
+<ls>VOP. 11,1</ls>; {#dideva, dideviTa#}
+<ls>P. 6,4,121</ls>, <ls>Sch.</ls>
+{#didivaMs#}
+<ls>P. 6,1,66</ls>, <ls>Sch.</ls>
+<ls>VOP. 26,132.</ls> {#dudyUvaMs#}
+<ls>VOP.</ls>; {#adevIt#} (hierher und nicht zu {#dev#})
+<ls>P. 7,2,4</ls>, <ls>Sch.</ls>
+{#devizyati; devitA#}
+<ls>P. 7,2,49</ls>, <ls>Sch.</ls>;
+{#devitvA#} (hierher und nicht zu {#dev#})
+<ls>P. 1,2,18</ls>, <ls>Sch. 26</ls>,
+<ls>Sch.</ls>
+<ls>VOP. 26,207</ls>; partic. {#dyUta#} s. bes.; ep. auch med. Die Grundbedeutung ist viell. {%hervorschiessen%} (insbes. von Strahlen), trans. {%hervorschiessen lassen, werfen, schleudern.%}
+<div n="1"> 1) {%strahlen%}, = {#dyuti#}
+<ls>DHĀTUP.</ls> {#devatAH praBayA yA yA dIvyanpramuKato 'sfjat#}
+<ls>BHĀG. P. 3,20,22.</ls> Vgl. {#div#} {%Himmel%},2. {#dI#} {%leuchten%}, {#dIp, deva, dyut#} .
+<div n="1">— 2) {%schleudern, werfen%} (vgl. {#didyu, didyut): adIvyadrOdram#}
+<ls>BHAṬṬ. 17,87.</ls> {#dIvyamAnaM#} (vgl.
+<ls>P. 3,2,129</ls>) {#SitAnvARAn#}
+<ls n="P. 3,">5,81.</ls>
+<div n="1">— 3) {%Würfel werfen, mit Würfeln spielen, würfeln%}, = {#vijigIzA#}
+<ls>DHĀTUP.</ls> {#akzAn#} und {#akzErdIvyati#}
+<ls>P. 1,4,43.</ls>
+<ls>VOP. 5,8.</ls> {#a\kzErmA dI^vyAH#}
+<ls>ṚV. 10,34,13.</ls> {#yadA\dIDye\ na de^vizARyeBiH#}
+<ls n="ṚV. 10,34,">5.</ls> {#dIvyAva — vfzeRa#}
+<ls>MBH. 3,2260.</ls> {#dIvyAva (divyAva#}
+<ls>MBH. 3,3033</ls>) <ls>N. 26,4.</ls> {#dIvyAmi Sakune tvayA#}
+<ls>MBH. 2,2509.</ls> <ls n="MBH.">3,2257.</ls> {#anena vyavasAyena dIvyAma#}
+<ls n="MBH.">2,2512.</ls> {#puRyaSlokasya dIvyataH#}
+<ls n="MBH.">3,2297.</ls> <ls n="MBH.">4,494.</ls> {#adevIt#}
+<ls n="MBH.">2,2203.</ls> {#na sa jAnAti devitum#}
+<ls n="MBH. 2,">1720.</ls> {#dIvyasva#}
+<ls n="MBH. 2,">2504.</ls> {#dIvyamAna#}
+<ls n="MBH. 2,">2003.</ls> <ls n="MBH.">3,2263.</ls> <ls n="MBH.">5,37.</ls> {#tvayEva tAvadvicakzaRena devizyAmi#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 186,2.</ls> Mit dem gen. des Einsatzes
+<ls>P. 2,3,58.</ls> {#Satasya dIvyati#}
+<ls>Sch.</ls> mit dem instr.: {#tena (Danena) dIvyAmyahaM tvayA#}
+<ls>MBH. 2,2061.</ls> {#ko hi dIvyedBAryayA#}
+<ls n="MBH. 2,">2202.</ls> {#yadi nizkasahasreRa — adevizyadapi#}
+<ls n="MBH.">4,534.</ls> mit dem dat.: {#ko hi — pravrajyAyEva dIvyeta#}
+<ls n="MBH. 4,">533.</ls> {#punardivyAma#} (sic) {#BadraM te vanavAsAya#}
+<ls n="MBH.">2,2468.</ls> mit dem acc. in den <is>Brāhmaṇa</is>
+<ls>P. 2,3,60</ls>, {#gAmasya tadahaH saBAyAM dIvyeyuH#} <ls>Sch.</ls> {#gAM dIvyaDvam#}
+<ls>ŚAT. BR. 5,4,4,22.</ls> — {%wetten auf%} (dat.): {#ehi sArDaM mayA dIvya dAsIBAvAya#}
+<ls>MBH. 1,1192.</ls> — {%spielen, scherzen, tändeln%} überh., = {#krIqA#}
+<ls>DHĀTUP.</ls> {#videvaM dIvyamAnA jAtyA Asate#}
+<ls>ŚAT. BR. 1,8,3,6.</ls> {#striyo dIvya#} {%spiele mit den Weibern%}
+<ls>BHAṬṬ. 5,8.</ls> {#icCa snehena dIvyantI vizayAnBuvaneSvaram#} so v. a. {%die Sinnenreize spielen lassen%}
+<ls n="BHAṬṬ.">8,78.</ls> {%mit Jmd spielen%} so v. a. {%Jmd%} (acc.) {%zum Besten haben%}: {#yo no^ di\deva^ yata\mo ja\GAsa^#} (von {#has#})
+<ls>AV. 5,29,2.</ls> {%spielen%} so v. a. {%auf's Spiel setzen%}, mit dem gen.: {#adevIdbanDuBogAnAm#}
+<ls>BHAṬṬ. 8,122.</ls> {%spielen%} so v. a. {%freies Spiel haben, sich frei bewegen können%}: {#Danakzaye dIvyati jAWarAgniH#}
+<ls>PAÑCAT. II,193</ls>; st. dessen {#varDati#}
+<ls n="PAÑCAT.">IV,66</ls>; <ls>BENFEY</ls> vermuthet {#dIpyati#} . Die Bed. {#vyavahAra#} im
+<ls>DHĀTUP.</ls> hat sich wohl aus
+<ls>P. 2,3,57</ls> eingeschlichen. Vgl. {#dIve#} (u. {#dIv#}) und {#dIvana#}, die einzigen Formen, welche eine Länge des Wurzelvocals voraussetzen.
+<div n="1">— 4) {%loben%} (vgl. {#paRate#} {%wetten%} und {#paRAyati#} {%loben%})
+<ls>DHĀTUP.</ls> {#brAhmaRaM dIvyati = stOti#}
+<ls>P. 2,3,58</ls>, <ls>Sch.</ls>
+<div n="1">— 5) {%sich freuen%} ({#moda#}).
+<div n="1">— 6) {%trunken sein%} ({#mada#}).
+<div n="1">— 7) {%schlafen%} ({#svapna#}).
+<div n="1">— 8) {%begehren, verlangen%} ({#kAnti, icCA#}).
+<div n="1">— 9) {%gehen%}
+<ls>DHĀTUP.</ls> — caus. {#devayati#} {%Jmd würfeln lassen%}: {#kitavo yaH svayaM devitumanaBijYaH svArTaM parAndevayati#}
+<ls>KULL.</ls> zu <ls>M. 3,159.</ls> — desid. {#didevizati#} und {#dudyUzati#}
+<ls>P. 7,2,49</ls>, <ls>Sch.</ls>
+(fälschlich {#didyUzati#}).
+<ls>VOP. 19,8.</ls> <ls n="VOP. 19,">11.</ls> <ls n="VOP. 19,">12.</ls> — caus. vom desid. {%Jmd zum Spielen anreizen%}: {#tenAdudyUzayadrAmaM mfgeRa mfgalocanA#}
+<ls>BHAṬṬ. 5,49.</ls> — intens. {#dedivIti, dedyoti, dedeti#} u. s. w.
+<ls>VOP. 20,17.</ls>
+<div n="p">— {#ati#}
+<div n="1"> 1) {%höher würfeln%}: {#u\ta pra\HAma^ti\dIvyA^ jayAti#}
+<ls>ṚV. 10,42,9.</ls>
+<div n="1">— 2) {%verspielen%} (?): {#tadvE vittaM mAtidevIH#}
+<ls>MBH. 2,2041.</ls>
 <div n="p">— {#aDi#} s. {#aDidevana#} .
-
 <div n="p">— {#A#} s. {#Adevana#} .
-
-<div n="p">— {#pra#} 
-<div n="1"> 1) {%werfen, schleudern%}: {#prAdevItpariGam#} 
-<ls>BHAṬṬ. 9, 9.</ls> 
+<div n="p">— {#pra#}
+<div n="1"> 1) {%werfen, schleudern%}: {#prAdevItpariGam#}
+<ls>BHAṬṬ. 9,9.</ls>
 <div n="1">— 2) {%würfeln,%}
 [Page3-0617]
-{%spielen um%}: {#Satasya#} oder {#SataM pradIvyati#} 
-<ls>P. 2, 3, 59,</ls> 
-<ls>Sch.</ls> Uneig.: {#tatastayoryudDamatIva dAruRaM pradIvyatoH prARadurodaraM dvayoH#} 
-<ls>MBH. 8, 4210.</ls> {#prAdevIdAtmasaMpadam#} 
-<ls>BHAṬṬ. 8, 122.</ls>
-
-<div n="p">— {#prati#} 
-<div n="1"> 1) {%entgegenwerfen%}: {#SalAkAM pratidIvyati#} 
-<ls>P. 2, 3, 59,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 2) {%gegen Jmd%} (acc.) {%würfeln%}: {#yo a\smAnpra^ti\dIvya^ti#} 
-<ls>AV. 7, 109, 4.</ls> {#sa dIvyamAnaH pratidIvyadenam#} 
-<ls>MBH. 5, 37.</ls> {#tanmAM SaWaH kitavaH pratyadevIt#} 
-<ls>3, 1356.</ls> {#yena mAM tvaM mahArAja Danena pratidIvyase#} 
-<ls>2, 2057.</ls> 
+{%spielen um%}: {#Satasya#} oder {#SataM pradIvyati#}
+<ls>P. 2,3,59</ls>, <ls>Sch.</ls>
+Uneig.: {#tatastayoryudDamatIva dAruRaM pradIvyatoH prARadurodaraM dvayoH#}
+<ls>MBH. 8,4210.</ls> {#prAdevIdAtmasaMpadam#}
+<ls>BHAṬṬ. 8,122.</ls>
+<div n="p">— {#prati#}
+<div n="1"> 1) {%entgegenwerfen%}: {#SalAkAM pratidIvyati#}
+<ls>P. 2,3,59</ls>, <ls>Sch.</ls>
+<div n="1">— 2) {%gegen Jmd%} (acc.) {%würfeln%}: {#yo a\smAnpra^ti\dIvya^ti#}
+<ls>AV. 7,109,4.</ls> {#sa dIvyamAnaH pratidIvyadenam#}
+<ls>MBH. 5,37.</ls> {#tanmAM SaWaH kitavaH pratyadevIt#}
+<ls n="MBH.">3,1356.</ls> {#yena mAM tvaM mahArAja Danena pratidIvyase#}
+<ls n="MBH.">2,2057.</ls>
 <div n="v">— Vgl. {#pratidivan, pratidIvan#} .
-
-<div n="p">— {#vi#} {%verspielen%}: {#gAM vidIvyante#} 
-<ls>KĀṬH. 8, 7.</ls> {#imAM saBAmaDye yo vyadevIdglahezu#} 
-<ls>MBH. 2, 2384.</ls> {%spielen, tändeln%}: {#videvaM dIvyamAnA jAtyA Asate#} 
-<ls>ŚAT. BR. 1, 8, 3, 6.</ls>
+<div n="p">— {#vi#} {%verspielen%}: {#gAM vidIvyante#}
+<ls>KĀṬH. 8,7.</ls> {#imAM saBAmaDye yo vyadevIdglahezu#}
+<ls>MBH. 2,2384.</ls> {%spielen, tändeln%}: {#videvaM dIvyamAnA jAtyA Asate#}
+<ls>ŚAT. BR. 1,8,3,6.</ls>
 <LEND>

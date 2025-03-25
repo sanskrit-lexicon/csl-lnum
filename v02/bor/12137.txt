@@ -1,9 +1,9 @@
 <L>12137<pc>378<k1>infant<k2>infant
-<div n="lb"/>{@INFANT@}¦ (subs.): <div n="1">(1) {#SiSuH,#} {%i. child of a Brahmin:%}
-<div n="lb"/>{#SiSurdvijasya,#} U.; </div><div n="1">(2) {#bAlaH#} (f. {#lA#}) (= child),
-<div n="lb"/><div n="xe">{%he while an i. was...:%}</div> <div n="xs">{#sa bAla AsIt,#}</div> Si. i. 70.;</div>
-<div n="lb"/><div n="1">(3) {#dArakaH#} f. {#rikA#}), <div n="xe">{%saw an i. crying:%}</div> <div n="xs">{#kamapi dArakaM #}
-<div n="lb"/>{# rudantamadrAkzam,#}</div> D. iv.; </div><div n="1">(4) {#arBakaH#} (rare), R. iii.
-<div n="lb"/>25.; </div><div n="1">(5) {#qimBa#} (f. {#mmA#}) (in joke or con-
-<div n="lb"/>-tempt).</div>
+{@INFANT@}¦ (subs.): <div n="1">(1) {#SiSuH,#} {%i. child of a Brahmin:%}
+{#SiSurdvijasya,#} U.; </div><div n="1">(2) {#bAlaH#} (f. {#lA#}) (= child),
+<div n="xe">{%he while an i. was...:%}</div> <div n="xs">{#sa bAla AsIt,#}</div> Si. i. 70.;</div>
+<div n="1">(3) {#dArakaH#} f. {#rikA#}), <div n="xe">{%saw an i. crying:%}</div> <div n="xs">{#kamapi dArakaM #}
+{# rudantamadrAkzam,#}</div> D. iv.; </div><div n="1">(4) {#arBakaH#} (rare), R. iii.
+25.; </div><div n="1">(5) {#qimBa#} (f. {#mmA#}) (in joke or con-
+-tempt).</div>
 <LEND>

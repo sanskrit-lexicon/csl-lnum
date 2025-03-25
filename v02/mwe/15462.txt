@@ -1,4 +1,4 @@
 <L>15462<pc>375-a<k1>income<k2>income
-<div n="lb"/>INCOME¦, {%s.%} {#AyaH, AgamaH, DanAgamaH, arTAgamaH, udayaH, DanodayaH, utpannaM,#}
-<div n="lb"/>{#prAptiH#} {%f.;%} ‘income and expenditure,’ {#AyavyayO#} {%m.%} du.
+INCOME¦, {%s.%} {#AyaH, AgamaH, DanAgamaH, arTAgamaH, udayaH, DanodayaH, utpannaM,#}
+{#prAptiH#} {%f.;%} ‘income and expenditure,’ {#AyavyayO#} {%m.%} du.
 <LEND>

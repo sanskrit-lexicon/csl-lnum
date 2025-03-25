@@ -1,9 +1,9 @@
 <L>20757<pc>652<k1>slip<k2>slip
-<div n="lb"/>{@SLIP@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#svalanam:#} </div><div n="1">(2) {#sKali-#}
-<div n="lb"/>{#tam.#} </div><div n="I">II Fig., mistake, fault: q. v.: {#sKalanam#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#sKalitam,#}</div> <div n="xe">{%how shall I cover this s.:%}</div> <div n="xs">{#kenedaM #}
-<div n="lb"/>{# sKalitaM pracCAdayAmi,#}</div> K.; <div n="xe">{%when there is s. of%}
-<div n="lb"/>{%tongue:%}</div> <div n="xs">{#gotrezu sKalito yadA Bavati,#}</div> Sa. vi. 4.</div>
-<div n="lb"/><div n="I">III A twig: q. v.: {#viwapaH.#} </div><div n="I">IV Of paper
-<div n="lb"/>etc.: {#KaRqa#} (mn.: (?).</div>
+{@SLIP@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#svalanam:#} </div><div n="1">(2) {#sKali-#}
+{#tam.#} </div><div n="I">II Fig., mistake, fault: q. v.: {#sKalanam#}
+<div n="xe">{%or%}</div> <div n="xs">{#sKalitam,#}</div> <div n="xe">{%how shall I cover this s.:%}</div> <div n="xs">{#kenedaM #}
+{# sKalitaM pracCAdayAmi,#}</div> K.; <div n="xe">{%when there is s. of%}
+{%tongue:%}</div> <div n="xs">{#gotrezu sKalito yadA Bavati,#}</div> Sa. vi. 4.</div>
+<div n="I">III A twig: q. v.: {#viwapaH.#} </div><div n="I">IV Of paper
+etc.: {#KaRqa#} (mn.: (?).</div>
 <LEND>

@@ -1,12 +1,13 @@
 <L>6924<pc>1059<k1>mfR<k2>mfR
-{@mṛṇ,@}¦ aus dem Stamme mṛṇā́ von mur zu einer eigenen Wurzel entwickelt, {%zermalmen, zerschmettern%} <lbinfo n="12"/> [<ab>A.</ab>].
-<div n="P1">{@ní@} {%niederschmettern%} [A]. {@prá@} {%fortschmettern, hinwegstossen%} [<ab>A.</ab>]; <ab>vgl.</ab> pramṛṇá.
-<div n="P1">{@sám@} {%zerschmettern, zermalmen%} <lbinfo n="8"/> [<ab>A.</ab>].
+{@√mṛṇ,@}¦ aus dem Stamme mṛṇā́ von mur zu einer eigenen Wurzel entwickelt, {%zermalmen, zerschmettern%} [<ab>A.</ab>].
+<div n="Pf">{@ní@} {%niederschmettern%} [<ab>A.</ab>].
+<div n="Pf">{@prá@} {%fortschmettern, hinwegstossen%} [<ab>A.</ab>]; <ab>vgl.</ab> pramṛṇá.
+<div n="Pf">{@sám@} {%zerschmettern, zermalmen%} [<ab>A.</ab>].
 <div n="H">Stamm {@mṛṇa:@}
-<div n="P1">-asi yātudhā́nān {913,19}.
-<div n="P1">-a (-ā) {@prá@} dásyūn {312,12}; amítrān {485,17} (párācas); rákṣas {620,22}. — {@sám@} piśā́cim {133,5}; gardabhám {29,5}.
+<div n="TS">-asi yātudhā́nān {913,19}.
+<div n="TS">-a (-ā) {@prá@} dásyūn {312,12}; amítrān {485,17} (párācas); rákṣas {620,22}. — {@sám@} piśā́cim {133,5}; gardabhám {29,5}.
 <div n="H"><ab>Impf.</ab> {@ámṛṇa@} (betont nur {324,4}):
-<div n="P1">-as dásyūn {383,10} (vadhéna). <lbinfo n="7"/>
-<div n="P1">-at nidhī́n ádevān {964,4}.
-<div n="P1">-atam {@ní@} śátrūn {324,4}.
-<LEND>
+<div n="TS">-as dásyūn {383,10} (vadhéna).
+<div n="TS">-at nidhī́n ádevān {964,4}.
+<div n="TS">-atam {@ní@} śátrūn {324,4}.
+<LEND> [Page1060]

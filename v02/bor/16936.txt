@@ -1,4 +1,4 @@
 <L>16936<pc>519<k1>phase<k2>phase
-<div n="lb"/>{@PHASE:@}¦ <div n="xe">{%p. s of the moon:%}</div> <div n="xs">{#candrasya hAsavfdDI#}</div> (?);
-<div n="lb"/><div n="xe">{%p. s of an eclipse:%}</div> <div n="xs">{#grahaRasya pragrahasTitimokzAH#}</div> (?).
+{@PHASE:@}¦ <div n="xe">{%p. s of the moon:%}</div> <div n="xs">{#candrasya hAsavfdDI#}</div> (?);
+<div n="xe">{%p. s of an eclipse:%}</div> <div n="xs">{#grahaRasya pragrahasTitimokzAH#}</div> (?).
 <LEND>

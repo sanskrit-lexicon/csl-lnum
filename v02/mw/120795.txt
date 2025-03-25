@@ -1,16 +1,16 @@
 <L>120795<pc>612,3<k1>pA<k2>pA<h>1<e>1
-<hom>1.</hom> <s>pA</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xxii, 27</ls>) <s>pi/bati</s> 
-(<ab>Ved.</ab> and <ab>ep.</ab> also <ab>Ā.</ab> <s>°te</s>;
-rarely <s>pipati</s>, <s>°te</s>, <ls>Kāṭh.</ls>; <ls>Br.</ls>) 
+<hom>1.</hom> <s>pA</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xxii, 27</ls>) <s>pi/bati</s>
+(<lang>Ved.</lang> and <lang>ep.</lang> also <ab>Ā.</ab> <s>°te</s>;
+rarely <s>pipati</s>, <s>°te</s>, <ls>Kāṭh.</ls>; <ls>Br.</ls>)
 <ab>cl.</ab> 2. <s>pAti</s>, <s>pATa/s</s>, <s>pAnti</s>, <ls>RV.</ls>; <ls>AV.</ls>;
-<ab>p.</ab> <ab>Ā.</ab> <s>papAna/</s>, <ls>RV.</ls>, <s>pi/pAna</s>, <ls>AV.</ls> 
+<ab>p.</ab> <ab>Ā.</ab> <s>papAna/</s>, <ls>RV.</ls>, <s>pi/pAna</s>, <ls>AV.</ls>
 (<ab>pf.</ab> <ab>P.</ab> <s>papO/</s>, 2. <ab>sg.</ab> <s>papATa</s>, <ls>RV.</ls>;
-<s>papiTa</s>, <ls>Pāṇ. 6-4, 64</ls> <ab>Sch.</ab>;
+<s>papiTa</s>, <ls>Pāṇ. vi, 4, 64</ls>, <ab>Sch.</ab>;
 <s>papIyAt</s>, <ls>RV.</ls>;
 <ab>p.</ab> <s>papiva/s</s>, <ls>AV.</ls>;
 <ab>Ā.</ab> <s>pape</s>, <s>papire</s>, <ls>RV.</ls>;
 <ab>p.</ab> <s>papAna/</s>, <ls>ib.</ls>;
-<ab>aor.</ab> or <ab>impf.</ab> <s>apAt</s>, <ls>RV.</ls> [<ab>cf.</ab> <ls>Pāṇ. 2-4, 77</ls>];
+<ab>aor.</ab> or <ab>impf.</ab> <s>apAt</s>, <ls>RV.</ls> [<ab>cf.</ab> <ls>Pāṇ. ii, 4, 77</ls>];
 3. <ab>pl.</ab> <s>apuH</s> [?] <ls>RV. i, 164, 7</ls>;
 <s>-pAsta</s>, <ls>AV. xii, 3, 43</ls>;
 <ab>Prec.</ab> 3. <ab>sg.</ab> <s>peyAs</s>, <ls>RV.</ls>;
@@ -19,17 +19,17 @@ rarely <s>pipati</s>, <s>°te</s>, <ls>Kāṭh.</ls>; <ls>Br.</ls>)
 <ab>ind.p.</ab> <s>pItvA/</s>, <ls>RV.</ls> &c. &c., <s>°tvI</s>, <ls>RV.</ls>;
 <s>-pAya</s>, <ls>AV.</ls> &c. &c.;
 <s>-pIya</s>, <ls>MBh.</ls>;
-<s>pAyam</s>, <ls>Kāvyâd.</ls>;
+<s>pAyam</s>, <ls>Kāvyād.</ls>;
 <ab>inf.</ab> <s>pi/baDyE</s>, <ls>RV.</ls>;
 <s>pAtum</s>, <ls>MBh.</ls> &c.;
 <s>pA/tave</s>, <ls>AV.</ls>; <ls>Br.</ls>;
-<s>pA/tavE/</s>, <ls>RV.</ls>), 
+<s>pA/tavE/</s>, <ls>RV.</ls>),
 <div n="to"/>to drink, quaff, suck, sip, swallow (with <ab>acc.</ab>, rarely <ab>gen.</ab>), <ls>RV.</ls> &c. &c.;
-<div n="to"/> (met.) to imbibe, draw in, appropriate, enjoy, feast upon (with the eyes, ears &c.), <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/> (<ab>met.</ab>) to imbibe, draw in, appropriate, enjoy, feast upon (with the eyes, ears &c.), <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to drink up, exhaust, absorb, <ls>BhP.</ls>; <ls>Pañc.</ls>;
 <div n="to"/>to drink intoxicating liquors, <ls>Buddh.</ls> :
 <div n="vp"/><ab>Pass.</ab> <s>pIya/te</s>, <ls>AV.</ls> &c. &c.:
-<div n="vp"/><ab>Caus.</ab> <s>pAyayati</s>, <s>°te</s> (<ab>pf.</ab> <s>pAyayAm AsA</s>, <ls>MBh.</ls>; <ab>aor.</ab> <s>apIpyat</s>, <ls>Pāṇ. 7-4, 4</ls>; <ab>ind.p.</ab> <s>pAyayitvA</s>, <ls>MBh.</ls>; <ab>inf.</ab> <s>pA/yayitavE/</s>, <ls>ŚBr.</ls>), 
+<div n="vp"/><ab>Caus.</ab> <s>pAyayati</s>, <s>°te</s> (<ab>pf.</ab> <s>pAyayAm AsA</s>, <ls>MBh.</ls>; <ab>aor.</ab> <s>apIpyat</s>, <ls>Pāṇ. vii, 4, 4</ls>; <ab>ind.p.</ab> <s>pAyayitvA</s>, <ls>MBh.</ls>; <ab>inf.</ab> <s>pA/yayitavE/</s>, <ls>ŚBr.</ls>),
 <div n="to"/>to cause to drink, give to drink, water (horses or cattle), <ls>RV.</ls> &c. &c.:
 <div n="vp"/><ab>Desid.</ab> <s>pipAsati</s> (<ls>RV.</ls> also <s>pipIzati</s>), to wish to drink, thirst, <ls>ib.</ls> :
 <div n="vp"/><ab>Desid.</ab> of <ab>Caus.</ab> <s>pipAyayizati</s>, to wish or intend to give to drink, <ls>Kāṭh.</ls> :

@@ -1,4 +1,4 @@
 <L>1806<pc>063<k1>bed-rid<k2>bed-rid
-<div n="lb"/>{@BED-RID, BED-RIDDEN:@}¦ <div n="1">(1) {#SayyAgataH#} ({#tA, taM#});</div>
-<div n="lb"/><div n="1">(2) {#SayyAgrastaH#} ({#stA, staM#}).</div>
+{@BED-RID, BED-RIDDEN:@}¦ <div n="1">(1) {#SayyAgataH#} ({#tA, taM#});</div>
+<div n="1">(2) {#SayyAgrastaH#} ({#stA, staM#}).</div>
 <LEND>

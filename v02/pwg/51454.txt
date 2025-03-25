@@ -1,62 +1,61 @@
 <L>51454<pc>4-1199<k1>Pal<k2>Pal<h>2
-2. {#Pal#}¦ (von {#Pala), Palati#} {%Früchte bringen, - geben, reifen, Folge haben, in Erfüllung gehen%} 
-<ls>DHĀTUP. 15, 23.</ls> {#drumAH Palanti#} 
-<ls>HARIV. 12799.</ls> {#paropakArAya Palanti drumAH#} 
-<ls>Spr. 1734. 921.</ls> 
-<ls>BHAṬṬ. 3, 42.</ls> {#yaTA ca veRuH kadalI nalo vA PalatyaBAvAya na BUtaye 'tmanaH#} 
-<ls>DRAUP. 5, 9.</ls> {#arTinAM prArTitAH pUrve (kalpadrumAH) Palantyanye (santaH) svayaM yataH#} 
-<ls>Spr. 3883. 3768.</ls> {#Palati dAnamahIruhaH#} 
-<ls>RĀJA-TAR. 4, 234.</ls> {#Saradyeva PalatyASu SAliH#} 
-<ls>Spr. 3000.</ls> {#bIjAni#} 
-<ls>929.</ls> {#puRyabIjam#} 
-<ls>KATHĀS. 27, 121.</ls> {#nadyaH samudrA girayaH savanaspativIruDaH . PalantyozaDayaH sarvAH kAmamanvftu tatra vE ..#} 
-<ls>BHĀG. P. 1, 10, 5.</ls> {#nADarmaScarito loke sadyaH Palati gOriva#} 
-<ls>Spr. 1529.</ls> {#vyavasAyaM vinA karma#} ({%das Schicksal%}) {#na Palati#} 
-<ls>PAÑCAT. 133, 17.</ls> {#Palizyati na te vidyA#} 
-<ls>MBH. 1, 3275. 12, 12359.</ls> {#svakftaM karma#} 
-<ls>3, 12635. 13, 304.</ls> <ls>Spr. 1932.</ls> <ls>VOP. 2, 47.</ls> {#evaM kukarma sarvasya PalatmAtmani sarvadA#} 
-<ls>KATHĀS. 17, 148.</ls> 
-<ls>MBH. 5, 1700.</ls> 
-<ls>HARIV. 965.</ls> <ls>?ad. MEGH. 18.</ls> {#DAtuH Palati lAvaRyanirmARaM tadidaM tvayi#} 
-<ls>KATHĀS. 30, 34.</ls> {#KalaH karoti durvfttaM nUnaM Palati sADuzu#} so v. a. {%Gute müssen es büssen%} 
-<ls>Spr. 799.</ls> {#amoGaM hi maharzIRAM vIryaM Palati tatkzaRam#} 
-<ls>KATHĀS. 32, 103.</ls> {#nEvAkftiH Palati nEva kulaM na SIlam#} 
-<ls>Spr. 1648.</ls> {#nItiH#} 
-<ls>2301.</ls> {#anyaTA virudDaM te Palizyati#} 
-<ls>HIT. 58, 18.</ls> {#Palizyanti DruvaM tAni (nimittAni) rAvaRasya nibarhaRAt#} {%werden in Erfüllung gehen%} 
-<ls>R. 6, 74, 31.</ls> {#vedoktamAyurmartyAnAmASizaScEva karmaRAm . PalantyanuyugaM loke praBAvaSca SarIriRAm ..#} 
-<ls>M. 1, 84.</ls> {#yadA na PeluH kzaRadAcarARAM manoraTAH#} 
-<ls>BHAṬṬ. 14, 113.</ls> Mit dem instr. der Frucht: {#nAnAPalEH Palati kalpalateva BUmiH#} 
-<ls>Spr. 2602.</ls> mit dem acc.: {#kANkzitAni Palanti sma te drumAH#} 
-<ls>HARIV. 8253.</ls> {#sarvakAmAnPalanti (nagAH)#} 
-<ls>R. 4, 44, 94. 97. 100. fg.</ls> 
-<ls>Spr. 2154. 2755.</ls> 
-<ls>KATHĀS. 27, 122.</ls> {#seyaM nItimahAvallI kiM nAma na PaletPalam#} 
-<ls>33, 85.</ls> <ls>BHAṬṬ. 12, 66.</ls> med. mit einem acc.: {#AcAraH #}
+2. {#Pal#}¦ (von {#Pala), Palati#} {%Früchte bringen, — geben, reifen, Folge haben, in Erfüllung gehen%}
+<ls>DHĀTUP. 15,23.</ls> {#drumAH Palanti#}
+<ls>HARIV. 12799.</ls> {#paropakArAya Palanti drumAH#}
+<ls>Spr. 1734.</ls> <ls n="Spr.">921.</ls>
+<ls>BHAṬṬ. 3,42.</ls> {#yaTA ca veRuH kadalI nalo vA PalatyaBAvAya na BUtaye 'tmanaH#}
+<ls>DRAUP. 5,9.</ls> {#arTinAM prArTitAH pUrve (kalpadrumAH) Palantyanye (santaH) svayaM yataH#}
+<ls>Spr. 3883.</ls> <ls n="Spr.">3768.</ls> {#Palati dAnamahIruhaH#}
+<ls>RĀJA-TAR. 4,234.</ls> {#Saradyeva PalatyASu SAliH#}
+<ls>Spr. 3000.</ls> {#bIjAni#}
+<ls n="Spr.">929.</ls> {#puRyabIjam#}
+<ls>KATHĀS. 27,121.</ls> {#nadyaH samudrA girayaH savanaspativIruDaH . PalantyozaDayaH sarvAH kAmamanvftu tatra vE ..#}
+<ls>BHĀG. P. 1,10,5.</ls> {#nADarmaScarito loke sadyaH Palati gOriva#}
+<ls>Spr. 1529.</ls> {#vyavasAyaM vinA karma#} ({%das Schicksal%}) {#na Palati#}
+<ls>PAÑCAT. 133,17.</ls> {#Palizyati na te vidyA#}
+<ls>MBH. 1,3275.</ls> <ls n="MBH.">12,12359.</ls> {#svakftaM karma#}
+<ls n="MBH.">3,12635.</ls> <ls n="MBH.">13,304.</ls> <ls>Spr. 1932.</ls> <ls>VOP. 2,47.</ls> {#evaM kukarma sarvasya PalatmAtmani sarvadA#}
+<ls>KATHĀS. 17,148.</ls>
+<ls>MBH. 5,1700.</ls>
+<ls>HARIV. 965.</ls> ad. <ls>MEGH. 18.</ls> {#DAtuH Palati lAvaRyanirmARaM tadidaM tvayi#}
+<ls>KATHĀS. 30,34.</ls> {#KalaH karoti durvfttaM nUnaM Palati sADuzu#} so v. a. {%Gute müssen es büssen%}
+<ls>Spr. 799.</ls> {#amoGaM hi maharzIRAM vIryaM Palati tatkzaRam#}
+<ls>KATHĀS. 32,103.</ls> {#nEvAkftiH Palati nEva kulaM na SIlam#}
+<ls>Spr. 1648.</ls> {#nItiH#}
+<ls n="Spr.">2301.</ls> {#anyaTA virudDaM te Palizyati#}
+<ls>HIT. 58,18.</ls> {#Palizyanti DruvaM tAni (nimittAni) rAvaRasya nibarhaRAt#} {%werden in Erfüllung gehen%}
+<ls>R. 6,74,31.</ls> {#vedoktamAyurmartyAnAmASizaScEva karmaRAm . PalantyanuyugaM loke praBAvaSca SarIriRAm ..#}
+<ls>M. 1,84.</ls> {#yadA na PeluH kzaRadAcarARAM manoraTAH#}
+<ls>BHAṬṬ. 14,113.</ls> Mit dem instr. der Frucht: {#nAnAPalEH Palati kalpalateva BUmiH#}
+<ls>Spr. 2602.</ls> mit dem acc.: {#kANkzitAni Palanti sma te drumAH#}
+<ls>HARIV. 8253.</ls> {#sarvakAmAnPalanti (nagAH)#}
+<ls>R. 4,44,94.</ls> <ls n="R. 4,44,">97.</ls> <ls n="R. 4,44,">100. fg.</ls>
+<ls>Spr. 2154.</ls> <ls n="Spr.">2755.</ls>
+<ls>KATHĀS. 27,122.</ls> {#seyaM nItimahAvallI kiM nAma na PaletPalam#}
+<ls n="KATHĀS.">33,85.</ls> <ls>BHAṬṬ. 12,66.</ls> med. mit einem acc.: {#AcAraH #}
 [Page4-1200]
-{# Palate DarmamAcAraH Palate Danam#} 
-<ls>MBH. 5, 3887.</ls> {#Palita/#} (adj. von {#Pala#} und partic. von {#Pal#}) <is>gaṇa</is> {#tArakAdi#} zu 
-<ls>P. 5, 2, 36.</ls> 
-<ls>VOP. 7, 80.</ls> {%Früchte tragend, mit Früchten versehen%}: {#vanaspati#} 
-<ls>MBH. 1, 5884.</ls> {#latA#} 
-<ls>3, 10042. 5, 1117</ls> (st. dessen {#Palavant#} 
-<ls>?1, 5608. 12, 5277). Spr. 3706. RAGH. 13, 53. KATHĀS. 42, 5.</ls> {%was Früchte gebracht hat, Erfolg gehabt hat%}: {#vrata#} 
-<ls>3, 23. 21, 101.</ls> {#SvaSrUkftA vyApadihApi PalitA mama#} 
-<ls>29, 109.</ls> {#kArya#} 
-<ls>Spr. 2430.</ls> {#tava sunItiH#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 196, 1.</ls> {#kAmAH#} {%in Erfüllung gegangen%} 
-<ls>RAGH. 13, 59.</ls> {#tadutpattiPalitasvamanoraTa#} 
-<ls>KATHĀS. 42, 71.</ls> {#SAMBavaM vAkyam#} 
-<ls>46, 84.</ls> {#evaM ca sUtraM na kAryamiti Palitam#} so v. a. {%dieses ergiebt sich als Folge davon%} 
-<ls>PAT.</ls> zu <ls>P. 4, 3, 133.</ls> {#evaM cAtra SAstre samAsAdisaMjYArahitatvaM guRavacanatvaM Palitam#} 
-<ls>P. 1, 4, 1, <is>Vārtt</is>. 6,</ls> 
-<ls>Sch.</ls> {#Palitam#} impers.: {#PalitaM vfkzEstatkzaRaropitEH#} {%die Bäume trugen Früchte%} 
-<ls>RĀJA-TAR. 2, 15.</ls> {#PalitaM tA vadasmAkaM kapawaprabanDena#} 
-<ls>HIT. 21, 13.</ls> 
-<ls>KULL.</ls> zu <ls>M. 1, 4.</ls> {#PalitA#} <lex>adj.</lex> <lex>f.</lex> {%menstruirend%} 
-<ls>NIGH. PR.</ls> — Statt {#sa Palayan#} 
-<ls>RĀJA-TAR. 2, 142</ls> ist mit der Calc. Ausg. {#saPalayan#} zu schreiben.
-
-<div n="p">— {#vi#} {%Früchte ansetzen, zur Reife gelangen%}: {#BavyamuKyAH samAramBAH pratyavekzAniratyayAH . garBaSAlisaDarmARastasya gUQaM viPelire (vipecire#} 
-<ls>STENZLER</ls><ls>?) || RAGH. ed. Calc. 17, 52.</ls>
+{# Palate DarmamAcAraH Palate Danam#}
+<ls>MBH. 5,3887.</ls> {#Palita/#} (adj. von {#Pala#} und partic. von {#Pal#}) <is>gaṇa</is> {#tArakAdi#} zu
+<ls>P. 5,2,36.</ls>
+<ls>VOP. 7,80.</ls> {%Früchte tragend, mit Früchten versehen%}: {#vanaspati#}
+<ls>MBH. 1,5884.</ls> {#latA#}
+<ls n="MBH.">3,10042.</ls> <ls n="MBH.">5,1117</ls> (st. dessen {#Palavant#} <ls n="MBH.">1,5608.</ls> <ls n="MBH.">12,5277</ls>).
+<ls>Spr. 3706.</ls> <ls>RAGH. 13,53.</ls> <ls>KATHĀS. 42,5.</ls> {%was Früchte gebracht hat, Erfolg gehabt hat%}: {#vrata#}
+<ls n="KATHĀS.">3,23.</ls> <ls n="KATHĀS.">21,101.</ls> {#SvaSrUkftA vyApadihApi PalitA mama#}
+<ls n="KATHĀS.">29,109.</ls> {#kArya#}
+<ls>Spr. 2430.</ls> {#tava sunItiH#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 196,1.</ls> {#kAmAH#} {%in Erfüllung gegangen%}
+<ls>RAGH. 13,59.</ls> {#tadutpattiPalitasvamanoraTa#}
+<ls>KATHĀS. 42,71.</ls> {#SAMBavaM vAkyam#}
+<ls n="KATHĀS.">46,84.</ls> {#evaM ca sUtraM na kAryamiti Palitam#} so v. a. {%dieses ergiebt sich als Folge davon%}
+<ls>PAT.</ls> zu <ls>P. 4,3,133.</ls> {#evaM cAtra SAstre samAsAdisaMjYArahitatvaM guRavacanatvaM Palitam#}
+<ls>P. 1,4,1</ls>, <is>Vārtt</is>. 6, <ls>Sch.</ls>
+{#Palitam#} impers.: {#PalitaM vfkzEstatkzaRaropitEH#} {%die Bäume trugen Früchte%}
+<ls>RĀJA-TAR. 2,15.</ls> {#PalitaM tA vadasmAkaM kapawaprabanDena#}
+<ls>HIT. 21,13.</ls>
+<ls>KULL.</ls> zu <ls>M. 1,4.</ls> {#PalitA#} <lex>adj.</lex> <lex>f.</lex> {%menstruirend%}
+<ls>NIGH. PR.</ls> — Statt {#sa Palayan#}
+<ls>RĀJA-TAR. 2,142</ls> ist mit der Calc. Ausg. {#saPalayan#} zu schreiben.
+<div n="p">— {#vi#} {%Früchte ansetzen, zur Reife gelangen%}: {#BavyamuKyAH samAramBAH pratyavekzAniratyayAH . garBaSAlisaDarmARastasya gUQaM viPelire (vipecire#}
+<ls>STENZLER</ls>) || <ls>RAGH. ed. Calc. 17,52.</ls>
 <LEND>

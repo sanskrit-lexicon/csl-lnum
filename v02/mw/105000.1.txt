@@ -1,3 +1,3 @@
-<L>105000.1<pc>1329,2<k1>nAgadantaka<k2>nAga—dantaka<h>b<e>3
-<s>nAga—dantaka</s> <hom>b</hom> ¦ <lex>n.</lex> a <ab>partic.</ab> posture in <s1 slp1="yoga">Yoga</s1>, <ls>L.</ls><info n="sup"/><info lex="n"/>
+<L>105000.1<pc>1329,2<k1>nAgadantaka<k2>nAga—dantaka<e>3
+<s>nAga—dantaka</s> ¦ <lex>n.</lex> a <ab>partic.</ab> posture in <s1>Yoga</s1>, <ls>L.</ls><info n="sup"/><info lex="n"/><info hui="b"/>
 <LEND>

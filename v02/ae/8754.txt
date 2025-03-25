@@ -1,8 +1,8 @@
 <L>8754<pc>386<k1>register<k2>register
 {@Register,@}¦ {%s.%} {#leKyaM, leKaH, patrikA, paMjikA;#}
-<div n="lb"/>{#gaRanApatraM,#} {%-v. t.%} {#patrikAyAM liK#} 6 P or
-<div n="lb"/>{#niviS#} c. {@-Registrar,@} {%s.%} {#leKakaH, paMjikA-#}
-<div n="lb"/>{#-DikftaH#}. {@-Registry, Registration,@}
-<div n="lb"/>{%s.%} {#nAmaliKanaM, patrikAyAM niveSanaM#} or {#Aro-#}
-<div n="lb"/>{#-paRaM#}. {@2@} {#liKanasTAnaM#}.
+{#gaRanApatraM,#} {%-v. t.%} {#patrikAyAM liK#} 6 P or
+{#niviS#} c. {@-Registrar,@} {%s.%} {#leKakaH, paMjikA-#}
+{#-DikftaH#}. {@-Registry, Registration,@}
+{%s.%} {#nAmaliKanaM, patrikAyAM niveSanaM#} or {#Aro-#}
+{#-paRaM#}. {@2@} {#liKanasTAnaM#}.
 <LEND>

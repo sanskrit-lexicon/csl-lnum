@@ -1,4 +1,4 @@
 <L>1576<pc>055<k1>banker<k2>banker
-<div n="lb"/>{@BANKER:@}¦ <div n="1">(1) {#SrezWin#} (m.) (?); </div><div n="1">(2) {#*DanAgArapatiH;#}</div>
-<div n="lb"/><div n="1">(3) {#kusIdaH; vArdDuzikaH#} (money-lender).</div>
+{@BANKER:@}¦ <div n="1">(1) {#SrezWin#} (m.) (?); </div><div n="1">(2) {#*DanAgArapatiH;#}</div>
+<div n="1">(3) {#kusIdaH; vArdDuzikaH#} (money-lender).</div>
 <LEND>

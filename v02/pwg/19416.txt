@@ -1,37 +1,36 @@
 <L>19416<pc>2-0454<k1>kozWa<k2>ko/zWa
-{#ko/zWa#}¦ <lex>n.</lex> 
-<ls>Uṇ. 2, 4.</ls> 
-<ls>P. 7. 2. 9,</ls> 
-<ls>Sch.</ls> 
-<div n="1"> 1) <lex>m.</lex> {%Eingeweide.%} namentlich {%die Behälter von Speise, Flüssigkeiten u.s.w., der Unterleib%} 
-<ls>AK. 3, 4, 10, 43.</ls> 
-<ls>H. an. 2, 105.</ls> 
-<ls>MED. ṭh. 4.</ls> {#sTAnAnyAmAgnipakvAnAM mUtramya ruDirasya ca . hfduRqukaH PuzPusaSca kozWa ityaBiDIyate ..#} 
-<ls>SUŚR. 2, 18, 7. 1, 117, 5. 146. 16. 275, 8. 10. 277, 15. 2, 21, 19. 177, 8.</ls> {#laGukozWa#} 1. {#BinnakozWa#} 
-<ls>1. 36, 16.</ls> {#stabDapUrRakozWatA#} 
-<ls>79, 14. 350, 9.</ls> {#kozWagata#} 
-<ls>84, 15. 97. 10. 2, 102, 12.</ls> {#BuktaM BuktamidaM kozWe kaTamannaM vipacyate#} 
-<ls>MBH. 14, 570.</ls> {#kozWezu#} 
-<ls>BHĀG. P. 4, 23, 14.</ls> {#patiM cArcyopatizWeta DyAyetkozWagataM ca tam#} 
-<ls>6, 18, 52.</ls> <ls>MĀRK. P. 2, 38. 10. 5. 19.</ls> neutr.: {#kezAMcitpAwayAmAsa naKEH kozWAni kesarI#} 
-<ls>DEV. 6, 13.</ls> {#kozWAgni#} {%das Feuer im Unterleib, das Feuer der Verdauung%} 
-<ls>Ind. St. 2, 70.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%ein inneres Gemach.%} 
-<div n="1">— 3) {%Vorrathskammer%}, <lex>m.</lex> 
-<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> n.: {#kaccitkozaSca kozWaM ca vAhanaM dvAramAyuDam . AyaSca kftakalyAREstava BaktEranuzWitaH ..#} 
-<ls>MBH. 2, 201.</ls> {#vihArakozWaSrIdvAragopurasadovalaBIviwaNka#} 
-<ls>BHĀG. P. 9, 10, 17.</ls> Auch {%Schatzkammer%} nach 
-<ls>WILS.</ls> 
-<div n="1">— 4) <lex>n.</lex> {%Ringmauer%}: {#(padam) paYcArAmaM navadvAramekapAlaM trikozWakam#} u.s.w. {#paYcendriyArTA ArAmA dvArAH prARA nava praBo . tejo'bannAni kozWAni#} 
-<ls>BHĀG. P. 4, 28, 56. 57.</ls> 
-<div n="1">— 5) {%eine Art Gefäss%}: {#jaratkozWAdvrIhIM CarkarAmiSrAnAvapati#} 
-<ls>KAUŚ. 18.</ls> {#jaratkozWe SItaM Basma viharati#} 
-<ls>71.</ls> 
-<div n="1">— 6) {%the shell of any thing%} 
-<ls>WILKINS Ms.</ls> <ls>HAUGHT.</ls> 
-<div n="1">— 7) {%eigen%}, <lex>m.</lex> 
-<ls>TRIK. 3, 3, 106.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> <lex>adj.</lex> 
+{#ko/zWa#}¦ <lex>n.</lex>
+<ls>Uṇ. 2,4.</ls>
+<ls>P. 7,2,9</ls>, <ls>Sch.</ls>
+<div n="1"> 1) <lex>m.</lex> {%Eingeweide.%} namentlich {%die Behälter von Speise, Flüssigkeiten u.s.w., der Unterleib%}
+<ls>AK. 3,4,10,43.</ls>
+<ls>H. an. 2,105.</ls>
+<ls>MED. ṭh. 4.</ls> {#sTAnAnyAmAgnipakvAnAM mUtramya ruDirasya ca . hfduRqukaH PuzPusaSca kozWa ityaBiDIyate ..#}
+<ls>SUŚR. 2,18,7. 1,117,5. 146. 16. 275,8. 10. 277,15. 2,21,19. 177,8.</ls> {#laGukozWa#} 1. {#BinnakozWa#}
+<ls n="SUŚR.">1. 36,16.</ls> {#stabDapUrRakozWatA#}
+<ls n="SUŚR.">79,14. 350,9.</ls> {#kozWagata#}
+<ls n="SUŚR.">84,15. 97. 10. 2,102,12.</ls> {#BuktaM BuktamidaM kozWe kaTamannaM vipacyate#}
+<ls>MBH. 14,570.</ls> {#kozWezu#}
+<ls>BHĀG. P. 4,23,14.</ls> {#patiM cArcyopatizWeta DyAyetkozWagataM ca tam#}
+<ls n="BHĀG. P.">6,18,52.</ls> <ls>MĀRK. P. 2,38. 10. 5. 19.</ls> neutr.: {#kezAMcitpAwayAmAsa naKEH kozWAni kesarI#}
+<ls>DEV. 6,13.</ls> {#kozWAgni#} {%das Feuer im Unterleib, das Feuer der Verdauung%}
+<ls>Ind. St. 2,70.</ls>
+<div n="1">— 2) <lex>m.</lex> {%ein inneres Gemach.%}
+<div n="1">— 3) {%Vorrathskammer%}, <lex>m.</lex>
+<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> n.: {#kaccitkozaSca kozWaM ca vAhanaM dvAramAyuDam . AyaSca kftakalyAREstava BaktEranuzWitaH ..#}
+<ls>MBH. 2,201.</ls> {#vihArakozWaSrIdvAragopurasadovalaBIviwaNka#}
+<ls>BHĀG. P. 9,10,17.</ls> Auch {%Schatzkammer%} nach
+<ls>WILS.</ls>
+<div n="1">— 4) <lex>n.</lex> {%Ringmauer%}: {#(padam) paYcArAmaM navadvAramekapAlaM trikozWakam#} u.s.w. {#paYcendriyArTA ArAmA dvArAH prARA nava praBo . tejo'bannAni kozWAni#}
+<ls>BHĀG. P. 4,28,56.</ls> <ls n="BHĀG. P. 4,28,">57.</ls>
+<div n="1">— 5) {%eine Art Gefäss%}: {#jaratkozWAdvrIhIM CarkarAmiSrAnAvapati#}
+<ls>KAUŚ. 18.</ls> {#jaratkozWe SItaM Basma viharati#}
+<ls n="KAUŚ.">71.</ls>
+<div n="1">— 6) {%the shell of any thing%}
+<ls>WILKINS Ms.</ls> <ls>HAUGHT.</ls>
+<div n="1">— 7) {%eigen%}, <lex>m.</lex>
+<ls>TRIK. 3,3,106.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> <lex>adj.</lex>
 <ls>ŚKDR.</ls> und <ls>WILS.</ls> — Wohl desselben Ursprungs wie {#kukzi#} und {#koSa#} .
 <LEND>

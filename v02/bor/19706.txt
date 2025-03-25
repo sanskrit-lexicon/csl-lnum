@@ -1,19 +1,19 @@
 <L>19706<pc>612<k1>same<k2>same
-<div n="lb"/>{@SAME:@}¦ <div n="I">I Identical: expr. by {#tad,#} <div n="xe">{%it is like%}
-<div n="lb"/>{%it, but not the s.:%}</div> <div n="xs">{#sadfSa ezaH, na punaH saH,#}</div> Mr. ix.;
-<div n="lb"/><div n="xe">{%it is certainly the s.:%}</div> <div n="xs">{#niyataM sa ezaH,#}</div> U. iii. 12.;
-<div n="lb"/><div n="xe">{%saying he is the s.:%}</div> <div n="xs">{#so'yamitIrayitvA,#}</div> Ma. i.
-<div n="lb"/>25.; {%the order is to go to the very s. place:%}
-<div n="lb"/>{#tatrEva gamanAdeSaH,#} Vi. iv. 43.; <div n="xe">{%what I am, the s.%}
-<div n="lb"/>{%is the son of Sun to you:%}</div> <div n="xs">{#yo'haM sUryasutaH sa eza #}
-<div n="lb"/>{# BavatAm,#}</div> Vi. v. 55. </div><div n="I">II One, not different:</div>
-<div n="lb"/><div n="1">(1) {#sa-#} in certain comp. s. (G. § 109. A.),
-<div n="lb"/><div n="xe">{%of the s. colour:%}</div> <div n="xs">{#savarRa#}</div> (f. {#rRA#}), Me.; <div n="xe">{%at the%}
-<div n="lb"/>{%s. time:%}</div> <div n="xs">{#samameva,#}</div> Ki. xiv. 44.; </div><div n="1">(2) {#ekaH#}
-<div n="lb"/>({#kA, kaM#}), <div n="xe">{%living in the s. place:%}</div> <div n="xs">{#ekAyatanaH#}</div>
-<div n="lb"/>({#nA, naM#}), Mah.; <div n="xe">{%in the s. place:%}</div> <div n="xs">{#ekatra,#}</div> C. i.;
-<div n="lb"/><div n="xe">{%getting on the s. chariot:%}</div> <div n="xs">{#ekaM syandamAsTitO,#}</div> R. i.
-<div n="lb"/>36. </div><div n="I">III Corresponding: {#samaH#} ({#mA, maM#}) {%or%}
-<div n="lb"/>{#samAnaH#} ({#nA, naM#}): v. Equal, like, Ph.: <div n="xe">{%in%}
-<div n="lb"/>{%the s. manner:%}</div> <div n="xs">{#taTA, tadvat;#}</div> <div n="xe">{%s. as:%}</div> <div n="xs">{#yaTA...taTEva.#}</div></div>
+{@SAME:@}¦ <div n="I">I Identical: expr. by {#tad,#} <div n="xe">{%it is like%}
+{%it, but not the s.:%}</div> <div n="xs">{#sadfSa ezaH, na punaH saH,#}</div> Mr. ix.;
+<div n="xe">{%it is certainly the s.:%}</div> <div n="xs">{#niyataM sa ezaH,#}</div> U. iii. 12.;
+<div n="xe">{%saying he is the s.:%}</div> <div n="xs">{#so'yamitIrayitvA,#}</div> Ma. i.
+25.; {%the order is to go to the very s. place:%}
+{#tatrEva gamanAdeSaH,#} Vi. iv. 43.; <div n="xe">{%what I am, the s.%}
+{%is the son of Sun to you:%}</div> <div n="xs">{#yo'haM sUryasutaH sa eza #}
+{# BavatAm,#}</div> Vi. v. 55. </div><div n="I">II One, not different:</div>
+<div n="1">(1) {#sa-#} in certain comp. s. (G. § 109. A.),
+<div n="xe">{%of the s. colour:%}</div> <div n="xs">{#savarRa#}</div> (f. {#rRA#}), Me.; <div n="xe">{%at the%}
+{%s. time:%}</div> <div n="xs">{#samameva,#}</div> Ki. xiv. 44.; </div><div n="1">(2) {#ekaH#}
+({#kA, kaM#}), <div n="xe">{%living in the s. place:%}</div> <div n="xs">{#ekAyatanaH#}</div>
+({#nA, naM#}), Mah.; <div n="xe">{%in the s. place:%}</div> <div n="xs">{#ekatra,#}</div> C. i.;
+<div n="xe">{%getting on the s. chariot:%}</div> <div n="xs">{#ekaM syandamAsTitO,#}</div> R. i.
+36. </div><div n="I">III Corresponding: {#samaH#} ({#mA, maM#}) {%or%}
+{#samAnaH#} ({#nA, naM#}): v. Equal, like, Ph.: <div n="xe">{%in%}
+{%the s. manner:%}</div> <div n="xs">{#taTA, tadvat;#}</div> <div n="xe">{%s. as:%}</div> <div n="xs">{#yaTA...taTEva.#}</div></div>
 <LEND>

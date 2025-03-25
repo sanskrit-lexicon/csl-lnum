@@ -1,3 +1,3 @@
-<L>18215<pc>104,3<k1>avasya<k2>avasya<h>a<e>2
-<s>avasya</s> <hom>a</hom> ¦ <ab>Nom.</ab> <ab>P.</ab> (<ab>p.</ab> <ab>dat.</ab> <ab>sg.</ab> <lex type="part">m.</lex> <s>avasyate</s>) to seek favour or assistance, <ls>RV. i, 116, 23.</ls><info verb="nom" cp="P"/>
+<L>18215<pc>104,3<k1>avasya<k2>avasya<e>2
+<s>avasya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> (<ab>p.</ab> <ab>dat.</ab> <ab>sg.</ab> <lex type="part">m.</lex> <s>avasyate</s>) to seek favour or assistance, <ls>RV. i, 116, 23.</ls><info verb="nom" cp="P"/><info hui="a"/>
 <LEND>

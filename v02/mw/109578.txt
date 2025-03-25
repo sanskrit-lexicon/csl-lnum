@@ -1,6 +1,6 @@
-<L>109578<pc>555,1<k1>nirRij<k2>nir-Rij<h>a<e>1
-<s>nir-Rij</s> <hom>a</hom> ¦ (<s>√ nij</s>) <ab>P.</ab> <s>-Renekti</s> (<ab>Subj.</ab> <s>-Renijati</s>; <ab>Ā.</ab> <s>Renikte</s>, <ls>Br.</ls>; <ab>dat.</ab> <ab>inf.</ab> <s>-Ri/je</s>, <ls>RV.</ls>), (<ab>P.</ab>) 
+<L>109578<pc>555,1<k1>nirRij<k2>nir-Rij<e>1
+<s>nir-Rij</s> ¦ (√ <s>nij</s>) <ab>P.</ab> <s>-Renekti</s> (<ab>Subj.</ab> <s>-Renijati</s>; <ab>Ā.</ab> <s>Renikte</s>, <ls>Br.</ls>; <ab>dat.</ab> <ab>inf.</ab> <s>-Ri/je</s>, <ls>RV.</ls>), (<ab>P.</ab>)
 <div n="to"/>to wash off, cleanse, <ls>Br.</ls>; <ls>ChUp.</ls>;
 <div n="vp"/> (<ab>Ā.</ab>) <ab>id.</ab>, <ls>TS.</ls>;
-<div n="to"/>to wash or dress or adorn one's self, <ls>RV.</ls>; &c.<info verb="pre" cp="PĀ" parse="nir+nij"/>
+<div n="to"/>to wash or dress or adorn one's self, <ls>RV.</ls>; &c.<info verb="pre" cp="PĀ" parse="nir+nij"/><info hui="a"/>
 <LEND>

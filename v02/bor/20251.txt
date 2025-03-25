@@ -1,4 +1,4 @@
 <L>20251<pc>632<k1>seventh<k2>seventh
-<div n="lb"/>{@SEVENTH:@}¦ <div n="I">I Adj.: {#saptamaH#} ({#mI, maM#}). </div><div n="I">II Subs.:</div>
-<div n="lb"/><div n="1">(1) {#saptamaH;#} </div><div n="1">(2) {#saptamAMSaH;#} </div><div n="1">(3) {#saptAMSaH:#} v. Part.</div>
+{@SEVENTH:@}¦ <div n="I">I Adj.: {#saptamaH#} ({#mI, maM#}). </div><div n="I">II Subs.:</div>
+<div n="1">(1) {#saptamaH;#} </div><div n="1">(2) {#saptamAMSaH;#} </div><div n="1">(3) {#saptAMSaH:#} v. Part.</div>
 <LEND>

@@ -1,120 +1,111 @@
 <L>61106<pc>5-0836<k1>muz<k2>muz<h>1
-1. {#muz#}¦, {#muzRAti#} 
-<ls>DHĀTUP. 31, 58.</ls> hier und da {#muzati#} aus metrischen Rücksichten, {#mo/zati#} 
-<ls>DHĀTUP. 17, 25, v. l.</ls> ved. {#mo/zaTa, muzAya/ti; mumozaH amozIt#} 
-<ls>Sch.</ls> zu <ls>P. 7, 2, 4. 8, 2, 28.</ls> {#muzitvA#} 
-<ls>P. 1, 2, 8.</ls> 
-<ls>VOP. 19. 16. 26, 207.</ls> partic. {#muzita (= mUzita#} 
-<ls>AK. 3, 2, 37.</ls> 
+1. {#muz#}¦, {#muzRAti#}
+<ls>DHĀTUP. 31,58.</ls> hier und da {#muzati#} aus metrischen Rücksichten, {#mo/zati#}
+<ls>DHĀTUP. 17,25</ls>, v. l. ved. {#mo/zaTa, muzAya/ti; mumozaH amozIt#}
+<ls>Sch.</ls> zu <ls>P. 7,2,4.</ls> <ls n="P.">8,2,28.</ls> {#muzitvA#}
+<ls>P. 1,2,8.</ls>
+<ls>VOP. 19,16.</ls> <ls n="VOP.">26,207.</ls> partic. {#muzita#} (= {#mUzita#}
+<ls>AK. 3,2,37.</ls>
 <ls>H. 1483</ls>) und {#muzwa#} (selten); {%rauben, berauben, plündern%}; mit 2 acc. (
-<ls>SIDDH. K.</ls> zu <ls>P.1.4,51.</ls> <ls>VOP.5,6</ls>) {%Jmd einer Sache berauben; an sich reissen; stehlen, bestehlen%}: {#yadamu^zRItamava\saM pa\RiM gAH#} 
-<ls>ṚV. 1, 93, 4.</ls> {#mu\zA\yadvizRu^H paca\taM sahI^yAn#} 
-<ls n="ṚV. 1,">61, 7.</ls> <ls n="ṚV. 1,">131, 4.</ls> {#mu\zA\ya sUrya^M ca\kramISA^na\ oja^sA#} 
-<ls n="ṚV. 1,">175, 4.</ls> <ls n="ṚV.">6, 31, 3.</ls> <ls n="ṚV.">2, 20, 5.</ls> <ls n="ṚV.">4, 30, 4.</ls> <ls n="ṚV.">5, 44, 4.</ls> {#moza^TA vf\kzaM ka^pa\neva^#} 
-<ls n="ṚV. 5,">54, 6.</ls> {#upedda^dAti\ na svaM mu^zAyati#} {%er nimmt ihm nicht das Seine, sondern giebt noch dazu%} 
-<ls n="ṚV.">6, 28, 2.</ls> {#indu^ramuzRA\daSi^vasya mA\yAH#} 
-<ls n="ṚV. 6,">44, 22.</ls> {#hi\meva^ pa\rRA mu^zi\tA vanA^ni#} 
-<ls n="ṚV.">10, 68, 10.</ls> <ls n="ṚV. 10,">99, 5.</ls> <ls n="ṚV.">7, 99, 1.</ls> <ls>VS. 16, 21.</ls> {#nagna iva muzita iva#} (vgl.{#nagnamuzita)#} {%ausgeplündert, ausgezogen%} 
-<ls>ŚAT. BR. 1, 2, 2, 16.</ls> — {#muzRatAmiva cOrARAm#} 
-<ls>VARĀH. BṚH. S. 74, 15.</ls> {#DarmavEtAMsikAH kzudrA muzRanti Dvajino jagat#} 
-<ls>MBH. 12, 5894.</ls> {#nAnAcOragaRA muzanti#} (sic) {#pfTivIm#} 
-<ls>LA. (II) 30, 1</ls> (Lesart der Hdschr.). {#striyaH svapnezu muzRantI#} {%bestehlend%} 
-<ls>MBH. 16, 57.</ls> 
-<ls>MṚCCH. 61, 2.</ls> 
-<ls>KATHĀS. 54, 92.</ls> {#muzitvA Danadam#} 
-<ls>BHAṬṬ. 7, 97.</ls> 
-<ls>KATHĀS. 72, 114.</ls> {#bAliSo hi vizayendriyacOrErmuzyate svaBavane ca vane ca#} 
-<ls>Spr. 5229.</ls> {#(ajYaH) muzyate DUrtacewakEH#} 
-<ls>KATHĀS. 34, 202.</ls> {#SrutvABimanyostanayaM jAtaM ca mftameva ca . muzitA iva vArzReya droRaputreRa pARqavAH#} 
-<ls>MBH. 14, 1970.</ls> {#muzitAH smaH#} 
-<ls>KATHĀS. 10, 117. 24, 83. 36, 75. 54, 92. 62, 206. 69, 126. 71, 232.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 194, 1.</ls> <ls>PAÑCAT. ed. orn. 31, 13</ls> ({#muzwo 'smi#} 
-<ls>PAÑCAT. 35, 10.</ls>) {#muzita#} so v. a. {%hintergangen%} 
-<ls>BHĀG. P. 1, 13, 35. 15, 13.</ls> 
-<ls>PAÑCAR. 4, 3, 199.</ls> {#mumoza nfpamandiram#} {%plündern%} 
-<ls>RĀJA-TAR. 5, 268. 168.</ls> {#taTEvAnuniSaM koSamamuzRAtsa ca BUpateH#} {%bestehlen%} 
-<ls>KATHĀS. 43, 28.</ls> {#muzyamARe - rAjagaYje#} 
-<ls>30.</ls> {#muzitaH koSaH#} 
-<ls>KĀM. NĪTIS. 13, 66.</ls> {#muzARa ratnAni#} {%stehlen%} 
-<ls>ŚIŚ. 1, 51.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 189, 22.</ls> {#tadgfhAtsvarRasaMcayam . sarvaM muzitvA#} 
-<ls>KATHĀS. 13, 95.</ls> {#muzitASezakoSA#} 
-<ls>103. 52, 297.</ls> {#ekaM nAma jaqAtmakasya muzitaM lAvaRyamindostaTA#} 
-<ls>Spr. 3825.</ls> {#muzwamarTam#} 
-<ls>ŚĀK. 116.</ls> Mit 2 acc. {#deva-dattaM SataM muzRAti#} 
-<ls>SIDDH. K.</ls> zu <ls>P.1,4,51.</ls> <ls>VOP.5,6.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr.191,16.</ls> {%berauben, bestehlen, rauben. stehlen%} in übertr. Bed. so v. a. {%ravir, Jmd fortreissen, hinreissen%}: {#tanmuKAmodamuzitaH#} 
-<ls>BHĀG. P. 9, 14, 25.</ls> {#mahatA Bayena muzitaH#} 
-<ls>HIT. 42, 12.</ls> {#muzRandfzwIH kzatriyARAM maDyAhna iva BAskaraH#} so v. a. {%blenden%} 
-<ls>MBH. 1, 6815.</ls> 
-<ls>R. 2, 16, 28 (13, 23 GORR.).</ls> {#tejasA #}
+<ls>SIDDH. K.</ls> zu <ls>P. 1,4,51.</ls> <ls>VOP. 5,6</ls>) {%Jmd einer Sache berauben; an sich reissen; stehlen, bestehlen%}: {#yadamu^zRItamava\saM pa\RiM gAH#}
+<ls>ṚV. 1,93,4.</ls> {#mu\zA\yadvizRu^H paca\taM sahI^yAn#}
+<ls n="ṚV. 1,">61,7.</ls> <ls n="ṚV. 1,">131,4.</ls> {#mu\zA\ya sUrya^M ca\kramISA^na\ oja^sA#}
+<ls n="ṚV. 1,">175,4.</ls> <ls n="ṚV.">6,31,3.</ls> <ls n="ṚV.">2,20,5.</ls> <ls n="ṚV.">4,30,4.</ls> <ls n="ṚV.">5,44,4.</ls> {#moza^TA vf\kzaM ka^pa\neva^#}
+<ls n="ṚV. 5,">54,6.</ls> {#upedda^dAti\ na svaM mu^zAyati#} {%er nimmt ihm nicht das Seine, sondern giebt noch dazu%}
+<ls n="ṚV.">6,28,2.</ls> {#indu^ramuzRA\daSi^vasya mA\yAH#}
+<ls n="ṚV. 6,">44,22.</ls> {#hi\meva^ pa\rRA mu^zi\tA vanA^ni#}
+<ls n="ṚV.">10,68,10.</ls> <ls n="ṚV. 10,">99,5.</ls> <ls n="ṚV.">7,99,1.</ls> <ls>VS. 16,21.</ls> {#nagna iva muzita iva#} (vgl.{#nagnamuzita)#} {%ausgeplündert, ausgezogen%}
+<ls>ŚAT. BR. 1,2,2,16.</ls> — {#muzRatAmiva cOrARAm#}
+<ls>VARĀH. BṚH. S. 74,15.</ls> {#DarmavEtAMsikAH kzudrA muzRanti Dvajino jagat#}
+<ls>MBH. 12,5894.</ls> {#nAnAcOragaRA muzanti#} (sic) {#pfTivIm#}
+<ls>LA. (II) 30,1</ls> (Lesart der Hdschr.). {#striyaH svapnezu muzRantI#} {%bestehlend%}
+<ls>MBH. 16,57.</ls>
+<ls>MṚCCH. 61,2.</ls>
+<ls>KATHĀS. 54,92.</ls> {#muzitvA Danadam#}
+<ls>BHAṬṬ. 7,97.</ls>
+<ls>KATHĀS. 72,114.</ls> {#bAliSo hi vizayendriyacOrErmuzyate svaBavane ca vane ca#}
+<ls>Spr. 5229.</ls> {#(ajYaH) muzyate DUrtacewakEH#}
+<ls>KATHĀS. 34,202.</ls> {#SrutvABimanyostanayaM jAtaM ca mftameva ca . muzitA iva vArzReya droRaputreRa pARqavAH#}
+<ls>MBH. 14,1970.</ls> {#muzitAH smaH#}
+<ls>KATHĀS. 10,117.</ls> <ls n="KATHĀS.">24,83.</ls> <ls n="KATHĀS.">36,75.</ls> <ls n="KATHĀS.">54,92.</ls> <ls n="KATHĀS.">62,206.</ls> <ls n="KATHĀS.">69,126.</ls> <ls n="KATHĀS.">71,232.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 194,1.</ls> <ls>PAÑCAT. ed. orn. 31,13</ls> ({#muzwo 'smi#}
+<ls>PAÑCAT. 35,10.</ls>) {#muzita#} so v. a. {%hintergangen%}
+<ls>BHĀG. P. 1,13,35.</ls> <ls n="BHĀG. P. 1,">15,13.</ls>
+<ls>PAÑCAR. 4,3,199.</ls> {#mumoza nfpamandiram#} {%plündern%}
+<ls>RĀJA-TAR. 5,268. 168.</ls> {#taTEvAnuniSaM koSamamuzRAtsa ca BUpateH#} {%bestehlen%}
+<ls>KATHĀS. 43,28.</ls> {#muzyamARe — rAjagaYje#}
+<ls n="KATHĀS. 43,">30.</ls> {#muzitaH koSaH#}
+<ls>KĀM. NĪTIS. 13,66.</ls> {#muzARa ratnAni#} {%stehlen%}
+<ls>ŚIŚ. 1,51.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 189,22.</ls> {#tadgfhAtsvarRasaMcayam . sarvaM muzitvA#}
+<ls>KATHĀS. 13,95.</ls> {#muzitASezakoSA#}
+<ls n="KATHĀS. 13,">103.</ls> <ls n="KATHĀS.">52,297.</ls> {#ekaM nAma jaqAtmakasya muzitaM lAvaRyamindostaTA#}
+<ls>Spr. 3825.</ls> {#muzwamarTam#}
+<ls>ŚĀK. 116.</ls> Mit 2 acc. {#deva-dattaM SataM muzRAti#}
+<ls>SIDDH. K.</ls> zu <ls>P. 1,4,51.</ls> <ls>VOP. 5,6.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 191,16.</ls> {%berauben, bestehlen, rauben. stehlen%} in übertr. Bed. so v. a. {%ravir, Jmd fortreissen, hinreissen%}: {#tanmuKAmodamuzitaH#}
+<ls>BHĀG. P. 9,14,25.</ls> {#mahatA Bayena muzitaH#}
+<ls>HIT. 42,12.</ls> {#muzRandfzwIH kzatriyARAM maDyAhna iva BAskaraH#} so v. a. {%blenden%}
+<ls>MBH. 1,6815.</ls>
+<ls>R. 2,16,28</ls> (<ls n="GORR. 2,">13,23</ls> <ls>GORR.</ls>). {#tejasA #}
 [Page5-0837]
-{# tasya divyena cakzUMzi muzitAni vaH#} 
-<ls>MBH. 1, 6824.</ls> {#muzRantI praBayA rAjYAM cakzUMzi ca manAMsi ca#} 
-<ls>3, 2198.</ls> {#dEvaM hi prajYAM muzRAti cakzusteja ivApatat#} {%das Schicksal raubt ja (dem Menschen) den Verstand, wie ein plötzlich erscheinendes Licht die Sehkraft%} 
-<ls>Spr. 4219.</ls> {#mAyayA muzitacetasaH#} 
-<ls>BHĀG. P. 8, 12, 10.</ls> {#muzRankzatriyatejAMsi nakzatrARAmivAMSumAn#} 
-<ls>MBH. 7, 6569.</ls> {#aTa candrapraBAM muzRannAdityasya puraHsaraH . aruRo 'ByudayAM cakre#} 
-<ls>8458.</ls> {#(balam) muzRacca tAM sahasrAMSorgagane vipulAM praBAm#} 
-<ls>R. 4, 39, 8.</ls> {#sEnyareRumuzitArkadIDiti#} 
-<ls>RAGH. 11, 51.</ls> {#muzRantamiva#} (=  {#KaRqayantamiva#} Schol.) {#tejAMsi#} 
-<ls>BHAṬṬ. 9, 92.</ls> {#pratyayaH strIzu muzRAti vimarSaM viduzAmapi#} 
-<ls>KATHĀS. 20, 124. 54, 2.</ls> {#pAnamadena muzitasmftiH#} 
-<ls>56, 289.</ls> {#mAramuzitatrapA#} 
-<ls>66, 90.</ls> <ls>BHĀG. P. 3, 18, 2.</ls> {#muzRan SriyamaSokAnAM raktEH parijanAmbarEH . gItErvarANganAnAM ca kokilaBramaraDvanim ..#} so v. a. {%übertreffend%} 
-<ls>KATHĀS. 55, 113.</ls> {#vAmapAdAmbujAgreRa muzRatA pallavacCavim#} 
-<ls>PAÑCAR. 3, 15, 8.</ls> {#muzita = hfta#} und{#KaRqita#} (vgl. 4. {#muz#}) 
-<ls>H. an. 3, 286</ls> {#(hata#} fehlerhaft für {#hfta)#} . 
-<ls>MED. t. 143.</ls> 
+{# tasya divyena cakzUMzi muzitAni vaH#}
+<ls>MBH. 1,6824.</ls> {#muzRantI praBayA rAjYAM cakzUMzi ca manAMsi ca#}
+<ls n="MBH.">3,2198.</ls> {#dEvaM hi prajYAM muzRAti cakzusteja ivApatat#} {%das Schicksal raubt ja (dem Menschen) den Verstand, wie ein plötzlich erscheinendes Licht die Sehkraft%}
+<ls>Spr. 4219.</ls> {#mAyayA muzitacetasaH#}
+<ls>BHĀG. P. 8,12,10.</ls> {#muzRankzatriyatejAMsi nakzatrARAmivAMSumAn#}
+<ls>MBH. 7,6569.</ls> {#aTa candrapraBAM muzRannAdityasya puraHsaraH . aruRo 'ByudayAM cakre#}
+<ls n="MBH. 7,">8458.</ls> {#(balam) muzRacca tAM sahasrAMSorgagane vipulAM praBAm#}
+<ls>R. 4,39,8.</ls> {#sEnyareRumuzitArkadIDiti#}
+<ls>RAGH. 11,51.</ls> {#muzRantamiva#} (= {#KaRqayantamiva#} Schol.) {#tejAMsi#}
+<ls>BHAṬṬ. 9,92.</ls> {#pratyayaH strIzu muzRAti vimarSaM viduzAmapi#}
+<ls>KATHĀS. 20,124.</ls> <ls n="KATHĀS.">54,2.</ls> {#pAnamadena muzitasmftiH#}
+<ls n="KATHĀS.">56,289.</ls> {#mAramuzitatrapA#}
+<ls n="KATHĀS.">66,90.</ls> <ls>BHĀG. P. 3,18,2.</ls> {#muzRan SriyamaSokAnAM raktEH parijanAmbarEH . gItErvarANganAnAM ca kokilaBramaraDvanim ..#} so v. a. {%übertreffend%}
+<ls>KATHĀS. 55,113.</ls> {#vAmapAdAmbujAgreRa muzRatA pallavacCavim#}
+<ls>PAÑCAR. 3,15,8.</ls> {#muzita = hfta#} und{#KaRqita#} (vgl. 4. {#muz#})
+<ls>H. an. 3,286</ls> {#(hata#} fehlerhaft für {#hfta)#} .
+<ls>MED. t. 143.</ls>
 <div n="v">— Vgl. {#mUz#} .
-
-<div n="p">— desid. {#mumuzizati#} 
-<ls>P. 1, 2, 8.</ls> 
-<ls>VOP. 19, 16.</ls> 
+<div n="p">— desid. {#mumuzizati#}
+<ls>P. 1,2,8.</ls>
+<ls>VOP. 19,16.</ls>
 <div n="v">— Vgl. {#mumuzizu#} .
-
-<div n="p">— {#ava#} {%wegnehmen%} 
-<ls>KĀṬH. 23, 5.</ls>
-
-<div n="p">— {#A#} {%an sich reissen, wegnehmen%}: {#A\muzyA\ soma^mapibacca\mUzu^#} 
-<ls>ṚV. 3, 48, 4.</ls> <ls n="ṚV.">8, 4, 4.</ls> 
-<ls>AIT. BR. 7, 27.</ls> {#aro^dayatpa\RimA gA a^muzRAt#} 
-<ls>ṚV. 10, 67, 6.</ls> 
+<div n="p">— {#ava#} {%wegnehmen%}
+<ls>KĀṬH. 23,5.</ls>
+<div n="p">— {#A#} {%an sich reissen, wegnehmen%}: {#A\muzyA\ soma^mapibacca\mUzu^#}
+<ls>ṚV. 3,48,4.</ls> <ls n="ṚV.">8,4,4.</ls>
+<ls>AIT. BR. 7,27.</ls> {#aro^dayatpa\RimA gA a^muzRAt#}
+<ls>ṚV. 10,67,6.</ls>
 <div n="v">— Vgl. {#Amoza#} fg.
-
-<div n="p">— {#ud#}, partic. {#unmuzita#} {%gestohlen%} 
-<ls>VARĀH. BṚH. S. 51, 28.</ls>
-
-<div n="p">— {#nis#} {%entziehen, ausziehen%}: {#vAsaH#} 
+<div n="p">— {#ud#}, partic. {#unmuzita#} {%gestohlen%}
+<ls>VARĀH. BṚH. S. 51,28.</ls>
+<div n="p">— {#nis#} {%entziehen, ausziehen%}: {#vAsaH#}
 <ls>KAUŚ. 54.</ls>
-
-<div n="p">— {#pari#} {%rauben, berauben%} (mit 2 acc.): {#nEnA^nya\maH pari^ muzRAti\ reta^H#} 
-<ls>AV. 4, 34, 4.</ls> {#soma^mAhri\yamA^RaM ganDa\rvo vi\SvAva^su\H parya^muzRAt#} 
-<ls>TS. 6, 1, 6, 5.</ls> 
-<ls>ŚAT. BR. 3, 2, 4, 2.</ls> {#parimuzRanti SAstrARi Darmasya paripanTinaH#} 
-<ls>MBH. 12, 5431.</ls> {#anyo'nyaM parimuzRantaH#} 
-<ls>3, 13030.</ls> {#hasto hastaM parimuzet#} 
-<ls>13047. 12, 2562</ls> (hier wohl auch {#hasto hastaM#} zu lesen). {#dasyuBiH parimuzyatAm#} (partic. pass.) — {#prajAnAm#} 
-<ls>360.</ls> 
+<div n="p">— {#pari#} {%rauben, berauben%} (mit 2 acc.): {#nEnA^nya\maH pari^ muzRAti\ reta^H#}
+<ls>AV. 4,34,4.</ls> {#soma^mAhri\yamA^RaM ganDa\rvo vi\SvAva^su\H parya^muzRAt#}
+<ls>TS. 6,1,6,5.</ls>
+<ls>ŚAT. BR. 3,2,4,2.</ls> {#parimuzRanti SAstrARi Darmasya paripanTinaH#}
+<ls>MBH. 12,5431.</ls> {#anyo'nyaM parimuzRantaH#}
+<ls n="MBH.">3,13030.</ls> {#hasto hastaM parimuzet#}
+<ls n="MBH. 3,">13047.</ls> <ls n="MBH.">12,2562</ls> (hier wohl auch {#hasto hastaM#} zu lesen). {#dasyuBiH parimuzyatAm#} (partic. pass.) — {#prajAnAm#}
+<ls n="MBH. 3,">360.</ls>
 <div n="v">— Vgl. {#parimoza#} fgg.
-
-<div n="p">— {#pra#} {%rauben, wegnehmen%}: {#mA na\ Ayu\H pra (Ayuzpra#} nach 
-<ls>AV. PRĀT. 2, 76</ls>) {#mo^zIH#} 
-<ls>ṚV. 1, 24, 11.</ls> 
-<ls>PĀR. GṚHY. 2, 1.</ls> {#mA na^H pri\yA Boja^nAni\ pra mo^zIH#} 
-<ls>ṚV. 1, 104, 8.</ls> {#prAtra^ BedaM sa\rvatA^tA muzAyat#} 
-<ls n="ṚV.">7, 18, 19.</ls> {#cakzuH#} 
-<ls>ŚAT. BR. 14, 1, 3, 16.</ls> {#parAtmIyavivekaM ca prAmuzRAtkapirakzasAm#} 
-<ls>BHAṬṬ. 17, 60.</ls> {#vrIqApramuzitahAsAvaloka#} 
-<ls>BHĀG. P. 5, 1, 29.</ls> {#nArAyaRapAdapaNkajasmftiH pramuzwAtiSayendriyotsavAt#} 
-<ls>19, 22.</ls> {#pramuzitendriya#} {%fortgerissen%} 
-<ls>8, 12, 27.</ls> {#tApena dahyamAno 'ntarmUkaH pramuzito yaTA#} so v. a. {%ausser sich%} 
-<ls>KATHĀS. 7, 66.</ls> Vgl. {#pramuzitA#} .
-
-<div n="p">— {#saMpra#}, {#cittasaMpramuzita#} {%hingerissen%} 
+<div n="p">— {#pra#} {%rauben, wegnehmen%}: {#mA na\ Ayu\H pra (Ayuzpra#} nach
+<ls>AV. PRĀT. 2,76</ls>) {#mo^zIH#}
+<ls>ṚV. 1,24,11.</ls>
+<ls>PĀR. GṚHY. 2,1.</ls> {#mA na^H pri\yA Boja^nAni\ pra mo^zIH#}
+<ls>ṚV. 1,104,8.</ls> {#prAtra^ BedaM sa\rvatA^tA muzAyat#}
+<ls n="ṚV.">7,18,19.</ls> {#cakzuH#}
+<ls>ŚAT. BR. 14,1,3,16.</ls> {#parAtmIyavivekaM ca prAmuzRAtkapirakzasAm#}
+<ls>BHAṬṬ. 17,60.</ls> {#vrIqApramuzitahAsAvaloka#}
+<ls>BHĀG. P. 5,1,29.</ls> {#nArAyaRapAdapaNkajasmftiH pramuzwAtiSayendriyotsavAt#}
+<ls n="BHĀG. P. 5,">19,22.</ls> {#pramuzitendriya#} {%fortgerissen%}
+<ls n="BHĀG. P.">8,12,27.</ls> {#tApena dahyamAno 'ntarmUkaH pramuzito yaTA#} so v. a. {%ausser sich%}
+<ls>KATHĀS. 7,66.</ls> Vgl. {#pramuzitA#} .
+<div n="p">— {#saMpra#}, {#cittasaMpramuzita#} {%hingerissen%}
 <ls>VYUTP. 25.</ls>
-
-<div n="p">— {#vi#} {%rauben, wegnehmen%}: {#grahASca taddfzwivimuzwarocizaH#} 
-<ls>BHĀG. P. 7, 8, 32.</ls> {#nUnaM vimuzwamatayastava mAyayA te#} 
-<ls>4, 9, 9.</ls> {#vimuzayan#} partic. dass. 
-<ls>ŚATR. 14, 343.</ls>
+<div n="p">— {#vi#} {%rauben, wegnehmen%}: {#grahASca taddfzwivimuzwarocizaH#}
+<ls>BHĀG. P. 7,8,32.</ls> {#nUnaM vimuzwamatayastava mAyayA te#}
+<ls n="BHĀG. P.">4,9,9.</ls> {#vimuzayan#} partic. dass.
+<ls>ŚATR. 14,343.</ls>
 <LEND>

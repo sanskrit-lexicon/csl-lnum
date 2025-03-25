@@ -1,5 +1,5 @@
 <L>19447<pc>604<k1>room<k2>room
-<div n="lb"/>{@ROOM:@}¦ <div n="I">I Space: q. v.: {#avasaraH.#} </div><div n="I">II Place:
-<div n="lb"/>q. v.: {#BUmiH.#} </div><div n="I">III An apartment: {#kozWaH.#}
-<div n="lb"/>{%Top-r.:%} </div><div n="1">(1) {#candraSAlA;#} </div><div n="1">(2) {#Sirogfham.#}</div>
+{@ROOM:@}¦ <div n="I">I Space: q. v.: {#avasaraH.#} </div><div n="I">II Place:
+q. v.: {#BUmiH.#} </div><div n="I">III An apartment: {#kozWaH.#}
+{%Top-r.:%} </div><div n="1">(1) {#candraSAlA;#} </div><div n="1">(2) {#Sirogfham.#}</div>
 <LEND>

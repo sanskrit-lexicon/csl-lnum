@@ -1,3 +1,3 @@
 <L>204114.1<pc>1008,1<k1>vfka<k2>vfka<e>2E
-<s>vfka</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">λύκος</lang>; <ab>Lat.</ab> <etym>lupus</etym>; <ab>Slav.</ab> <etym>vlŭkŭ</etym>; <ab>Lith.</ab> <etym>vílas</etym>; <ab>Goth.</ab> <etym>wulfs</etym>; <ab>Germ.</ab> <ab>Eng.</ab> <etym>wolf</etym>]
+<s>vfka</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <gk>λύκος</gk>; <lang>Lat.</lang> <etym>lupus</etym>; <lang>Slav.</lang> <etym>vlǔkǔ</etym>; <lang>Lith.</lang> <etym>vìlkas</etym>; <lang>Goth.</lang> <etym>wulfs</etym>; <lang>Germ.</lang> <lang>Eng.</lang> <etym>wolf</etym>]
 <LEND>

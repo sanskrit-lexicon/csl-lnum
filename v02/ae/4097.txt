@@ -1,12 +1,12 @@
 <L>4097<pc>164<k1>flesh<k2>flesh
 {@Flesh,@}¦ {%s.%} {#mAMsaM, AmizaM, piSitaM, kravyaM,#}
-<div n="lb"/>{#tarasaM, palalaM;#} ‘dried f.’ {#vallaraM-rA,#}
-<div n="lb"/>{#uttaptaM, SuzkaM mAMsaM#}. {@2@} {#SarIraM, vizayasevA,#}
-<div n="lb"/>{#vizayAsakti#} {%f.;%} ‘f. diet or meat’ {#mAM-#}
-<div n="lb"/>{#-sAhAraH;#} ‘f. -colour’ {#mAMsavarRaH-rAgaH-lohi-#}
-<div n="lb"/>{#-taH;#} ‘f. -monger’ {#mAMsavikrayin#} {%m.%} {@-less,@}
-<div n="lb"/>{%a.%} {#amAMsa, apuzwa, mAMsahIna#}. {@-ly,@} {%a.%} {#SArI-#}
-<div n="lb"/>{#-rika-dEhika#} ({#kI#} {%f.%}), {#vizayin, sAMsArika-#}
-<div n="lb"/>{#-Ehika#} ({#kI#} {%f.%}). {@-ly,@} {%a.%} {#mAMsala, puzwa, pIna,#}
-<div n="lb"/>{#pIvara, medasvin;#} {%See%} {@Fat.@}
+{#tarasaM, palalaM;#} ‘dried f.’ {#vallaraM-rA,#}
+{#uttaptaM, SuzkaM mAMsaM#}. {@2@} {#SarIraM, vizayasevA,#}
+{#vizayAsakti#} {%f.;%} ‘f. diet or meat’ {#mAM-#}
+{#-sAhAraH;#} ‘f. -colour’ {#mAMsavarRaH-rAgaH-lohi-#}
+{#-taH;#} ‘f. -monger’ {#mAMsavikrayin#} {%m.%} {@-less,@}
+{%a.%} {#amAMsa, apuzwa, mAMsahIna#}. {@-ly,@} {%a.%} {#SArI-#}
+{#-rika-dEhika#} ({#kI#} {%f.%}), {#vizayin, sAMsArika-#}
+{#-Ehika#} ({#kI#} {%f.%}). {@-ly,@} {%a.%} {#mAMsala, puzwa, pIna,#}
+{#pIvara, medasvin;#} {%See%} {@Fat.@}
 <LEND>

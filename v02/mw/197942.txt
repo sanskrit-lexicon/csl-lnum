@@ -1,6 +1,6 @@
 <L>197942<pc>975,3<k1>viprayuj<k2>vi-pra-yuj<e>1
 <s>vi-pra-√ yuj</s> ¦ <ab>P.</ab> <s>-yunakti</s>, to separate from, deprive of (<ab>instr.</ab>), <ls>MBh.</ls> :
-<div n="to"/><ab>Pass.</ab> <s>-yujyate</s>, to be separated from (<ab>instr.</ab>), <ls>R.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-yojayati</s>, to cause to be separated from, deprive of (<ab>instr.</ab>), <ls>R.</ls>;
+<div n="vp"/><ab>Pass.</ab> <s>-yujyate</s>, to be separated from (<ab>instr.</ab>), <ls>R.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>-yojayati</s>, to cause to be separated from, deprive of (<ab>instr.</ab>), <ls>R.</ls>;
 <div n="to"/>to release from (<ab>instr.</ab>), <ls>Hariv.</ls><info verb="pre" cp="P" parse="vi+pra+yuj"/>
 <LEND>

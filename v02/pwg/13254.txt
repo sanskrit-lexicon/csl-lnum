@@ -1,18 +1,17 @@
 <L>13254<pc>1-1075<k1>ekadeSa<k2>ekadeSa<h>1
-1. {#ekadeSa#}¦ ({#eka + deSa#}) <lex>m.</lex> {%eine Stelle eines Dinges, Theil eines Ganzen%} 
-<ls>AK. 3, 4, 7.</ls> 
-<ls>H. 566.</ls> {#SAmitrEkadeSa#} 
-<ls>KĀTY. ŚR. 6, 6, 14. 8, 17. 9, 4, 40.</ls> {#vedasya#} 
-<ls>M. 2, 141.</ls> 
-<ls>YĀJÑ. 1, 35. 2, 20.</ls> 
-<ls>MBH. 13, 1855.</ls> 
-<ls>R. 5, 50, 3.</ls> 
-<ls>SUŚR. 1, 147, 14.</ls> 
-<ls>ṚV. PRĀT. 11, 27.</ls> 
-<ls>P. 4, 3, 7.</ls> 
-<ls>PAT.</ls> zu <ls>P. 1, 1, 62.</ls> {#ekadeSe CidraM kftvA saMhfzwamanAH pravizwaH#} 
-<ls>PAÑCAT. 21, 13.</ls> {#samudratIrEkadeSe#} 
-<ls>74, 17. 93, 1.</ls> <ls>HIT. 21, 8.</ls> <ls>KATHĀS. 18, 32.</ls> <ls>SĀH. D. 35, 13.</ls> {#ekadeSena pawaH SuklIBavati#} {%theilweise%} 
-<ls>P. 5, 4, 52,</ls> 
-<ls>Sch.</ls>
+1. {#ekadeSa#}¦ ({#eka + deSa#}) <lex>m.</lex> {%eine Stelle eines Dinges, Theil eines Ganzen%}
+<ls>AK. 3,4,7.</ls>
+<ls>H. 566.</ls> {#SAmitrEkadeSa#}
+<ls>KĀTY. ŚR. 6,6,14. 8,17. 9,4,40.</ls> {#vedasya#}
+<ls>M. 2,141.</ls>
+<ls>YĀJÑ. 1,35.</ls> <ls n="YĀJÑ.">2,20.</ls>
+<ls>MBH. 13,1855.</ls>
+<ls>R. 5,50,3.</ls>
+<ls>SUŚR. 1,147,14.</ls>
+<ls>ṚV. PRĀT. 11,27.</ls>
+<ls>P. 4,3,7.</ls>
+<ls>PAT.</ls> zu <ls>P. 1,1,62.</ls> {#ekadeSe CidraM kftvA saMhfzwamanAH pravizwaH#}
+<ls>PAÑCAT. 21,13.</ls> {#samudratIrEkadeSe#}
+<ls n="PAÑCAT.">74,17. 93,1.</ls> <ls>HIT. 21,8.</ls> <ls>KATHĀS. 18,32.</ls> <ls>SĀH. D. 35,13.</ls> {#ekadeSena pawaH SuklIBavati#} {%theilweise%}
+<ls>P. 5,4,52</ls>, <ls>Sch.</ls>
 <LEND>

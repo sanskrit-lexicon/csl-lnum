@@ -1,12 +1,12 @@
 <L>13098<pc>315-b<k1>government<k2>government
-<div n="lb"/>GOVERNMENT¦, {%s.%} (Administration of government) {#rAjyaM, rAjyA-#}
-<div n="lb"/>{#DikAraH, rAjyaDurA, rAjaDurA, rAjyanItiH#} {%f.,%} {#rAjyapAlanaM, rAjyavyavahAraH,#}
-<div n="lb"/>{#nItiH#} {%f.,%} {#vESastraM#}. — (Control, regulation) {#SAsanaM, SAstiH#} {%f.,%} {#anu-#}
-<div n="lb"/>{#SAsanaM, vaSaH -SaM, yamaH, saMyamaH, viniyamaH, nigrahaH, damaH -manaM, yantraRaM#}.
-<div n="lb"/> — (Authority) {#aDikAraH, aDIkAraH, ADipatyaM, praButvaM, ISatvaM, ESvaryyaM#}.
-<div n="lb"/> — (Empire) {#rAjyaM, rAjatvaM, ADipatyaM#}. — (The king's ministers)
-<div n="lb"/>{#rAjaDurvahAH#} {%m. pl.,%} {#rAjamantriRaH#} {%m. pl.,%} {#rAjasacivAH#} {%m. pl.;%} ‘form
-<div n="lb"/>of government,’ {#rAjyarItiH#} {%f.,%} {#rAjyaviDiH#} {%m.;%} ‘government
-<div n="lb"/>affairs,’ {#rAjyavyavahAraH, rAjakAryyaM;#} ‘good government,’ {#samyak#}
-<div n="lb"/>{#pAlanaM;#} ‘bad government,’ {#asamyak pAlanaM#}.
+GOVERNMENT¦, {%s.%} (Administration of government) {#rAjyaM, rAjyA-#}
+{#DikAraH, rAjyaDurA, rAjaDurA, rAjyanItiH#} {%f.,%} {#rAjyapAlanaM, rAjyavyavahAraH,#}
+{#nItiH#} {%f.,%} {#vESastraM#}. — (Control, regulation) {#SAsanaM, SAstiH#} {%f.,%} {#anu-#}
+{#SAsanaM, vaSaH -SaM, yamaH, saMyamaH, viniyamaH, nigrahaH, damaH -manaM, yantraRaM#}.
+ — (Authority) {#aDikAraH, aDIkAraH, ADipatyaM, praButvaM, ISatvaM, ESvaryyaM#}.
+ — (Empire) {#rAjyaM, rAjatvaM, ADipatyaM#}. — (The king's ministers)
+{#rAjaDurvahAH#} {%m. pl.,%} {#rAjamantriRaH#} {%m. pl.,%} {#rAjasacivAH#} {%m. pl.;%} ‘form
+of government,’ {#rAjyarItiH#} {%f.,%} {#rAjyaviDiH#} {%m.;%} ‘government
+affairs,’ {#rAjyavyavahAraH, rAjakAryyaM;#} ‘good government,’ {#samyak#}
+{#pAlanaM;#} ‘bad government,’ {#asamyak pAlanaM#}.
 <LEND>

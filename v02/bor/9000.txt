@@ -1,7 +1,7 @@
 <L>9000<pc>285<k1>floor<k2>floor
-<div n="lb"/>{@FLOOR@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#talam;#} </div><div n="1">(2)
-<div n="lb"/>{#BUtalam:#} v. Ground. </div><div n="I">II Story: q.v. </div><div n="1">(1)
-<div n="lb"/>{#BUmiH,#} <div n="xe">{%in the seventh f.:%}</div> <div n="xs">{#saptamaBUmimAge,#}</div> N. xxii. 1.;</div>
-<div n="lb"/><div n="1">(2) perh. {#talam#} (comp. Bengali {#dotAlA, tetAlA,#}
-<div n="lb"/>etc.). </div><div n="I">III A platform: q.v.</div>
+{@FLOOR@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#talam;#} </div><div n="1">(2)
+{#BUtalam:#} v. Ground. </div><div n="I">II Story: q.v. </div><div n="1">(1)
+{#BUmiH,#} <div n="xe">{%in the seventh f.:%}</div> <div n="xs">{#saptamaBUmimAge,#}</div> N. xxii. 1.;</div>
+<div n="1">(2) perh. {#talam#} (comp. Bengali {#dotAlA, tetAlA,#}
+etc.). </div><div n="I">III A platform: q.v.</div>
 <LEND>

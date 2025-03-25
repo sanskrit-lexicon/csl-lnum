@@ -1,37 +1,35 @@
-<L>113549<pc>6251-1<k1>SuB<k2>SuB<h>3<e>500
-3. {#SuB#}¦ , {#SumB#} ; in der älteren Sprache {#SumBa/ti , Su/mBate , SumBa/nt#} und {#Su/mBant , SumBamAna#} und {#SumBa/mAna#} , {#So/Bate , So/BamAna#} und {#SuBAna/#} ; in der nach vedischen Zeit mit intrans. Bed. {#SoBate#} und {#SoBati#} (metrisch , {#aSuBat#} <ls>HEM.PAR.1,423</ls>), mit trans. und intrans. Bed. ganz vereinzelt auch {#SumBati#}.
-<div n="1">— 1) {%schmücken , herausputzen , verschönern ; zurüsten , bereit machen%} ; <ab>Med.</ab> {%sich schmücken , schmuck — , stattlich sein , einen guten Eindruck machen , sich gut machen , sich schön ausnehmen , wohl anstehen , — durch%} oder {%mit%} (<ab>Instr.</ab>) Mit {#na#} {%kein Ansehen haben , einen schlechten Eindruck machen , sich schlecht machen , sich übel ausnehmen.%} Mit {#iva#} , {#yaTA#} oder mit prädicativem <lex>Adj.</lex> {#°saMkASa#} , {#°sama#} {%schmuck sein — , prangen wie%} , aber auch abgeblasst so v.a. {%erscheinen wie.%}
-<div n="1">— 2) {%zurichten%} , so v.a. {%geschickt , geneigt machen für Etwas%} (<ab>Dat.</ab>) ; <ab>Med.</ab> {%sich anschicken zu.%}
-<div n="1">— 3) {#SumBati#} missbräuchlich statt {#SunD#} {%reinigen.%}
-<div n="1">— 4) {#*hiMsAyAm#} (<ab>Vgl.</ab> u. {#ni#}) und {#BAzaRe#}.
-<div n="1">— 5) {#SumBita#} {%geschmückt%} in {#bra/hma°#}.
-<div n="1">— 6) {#SuBita/#} <ls>TS.4,4,12,2.</ls> nach <ls>PAT.zuP.3,1,85.</ls> = {#suhita#}.
-<div n="m">— <ab>Caus.</ab> {#SoBayati#} (<ab>vgl.</ab> auch. 2 {#SuBay#}) {%schmücken , zieren , Glanz verleihen%} (eig. und übertr.). {#SoBita#} {%geschmückt , prangend , — mit Schmuck%} u.s.w. {%erscheinend durch%} (<ab>Instr.</ab> oder im Comp. vorangehend).
-<div n="m">— <ab>Desid.</ab> {#SuSoBizate#} {%geschickt zu machen suchen.%}
-<div n="m">— <ab>Intens.</ab> {#SoSuByate#} {%überaus schmuck sein , sich sehr stattlich machen.%}
-<div n="p">— Mit {#ati#} {%sich sehr wohl ausnehmen%} u. s. s. <ls>MBH.13,152,22.</ls> Mit {#na#} {%kein rechtes Ansehen haben , Jmd%} (<ab>Dat.</ab>) {%nicht gefallen.%}
-<div n="m">— <ab>Caus.</ab> {#°SoBayati#} {%in hohem Grade schmücken , zieren.%}
+<L>113549<pc>6-251-a<k1>SuB<k2>SuB<h>3
+<hom>3.</hom> √{#SuB#}, √{#SumB#}¦ in der älteren Sprache {#SumBa/ti, Su/mBate, SumBa/nt#} und {#Su/mBant, SumBamAna#} und {#SumBa/mAna#}, {#So/Bate, So/BamAna#} und {#SuBAna/#}; in der nach vedischen Zeit mit <ab>intrans.</ab> <ab>Bed.</ab> {#SoBate#} und {#SoBati#} (metrisch, {#aSuBat#} <ls>HEM. PAR. 1,423</ls>), mit <ab>trans.</ab> und <ab>intrans.</ab> <ab>Bed.</ab> ganz vereinzelt auch {#SumBati#}.
+<div n="1">— 1〉 {%schmücken, herausputzen, verschönern; zurüsten, bereit machen;%} <ab>Med.</ab> {%sich schmücken, schmuck —, stattlich sein, einen guten Eindruck machen, sich gut machen, sich schön ausnehmen, wohl anstehen, — durch%} oder {%mit%} (<ab>Instr.</ab>) Mit {#na#} {%kein Ansehen haben, einen schlechten Eindruck machen, sich schlecht machen, sich übel ausnehmen%}. Mit {#iva#}, {#yaTA#} oder mit prädicativem <lex>Adj.</lex> {#°saMkASa#}, {#°sama#} {%schmuck sein —, prangen wie,%} aber auch abgeblasst so <ab>v. a.</ab> {%erscheinen wie%}.
+<div n="1">— 2〉 {%zurichten,%} so <ab>v. a.</ab> {%geschickt, geneigt machen für Etwas%} (<ab>Dat.</ab>); <ab>Med.</ab> {%sich anschicken zu%}.
+<div n="1">— 3〉 {#SumBati#} missbräuchlich statt {#SunD#} {%reinigen%}.
+<div n="1">— 4〉 *{#hiMsAyAm#} (<ab>Vgl.</ab> <ab n="unter">u.</ab> {#ni#}) und {#BAzaRe#}.
+<div n="1">— 5〉 {#SumBita#} {%geschmückt%} in {#bra/hma°#}.
+<div n="1">— 6〉 {#SuBita/#} <ls>TS. 4,4,12,2</ls>. nach <ls>PAT. zu P. 3,1,85</ls> = {#suhita#}.
+<div n="m">— <ab>Caus.</ab> {#SoBayati#} (<ab>vgl.</ab> auch <hom>2.</hom> {#SuBay#}) {%schmücken, zieren, Glanz verleihen%} (<ab>eig.</ab> und <ab>übertr.</ab>). {#SoBita#} {%geschmückt, prangend, — mit Schmuck%} <ab>u. s. w.</ab> {%erscheinend durch%} (<ab>Instr.</ab> oder im <ab>Comp.</ab> vorangehend).
+<div n="m">— <ab>Desid.</ab> {#SuSoBizate#} {%geschickt zu machen suchen%}.
+<div n="m">— <ab>Intens.</ab> {#SoSuByate#} {%überaus schmuck sein, sich sehr stattlich machen%}.
+<div n="p">— Mit {#ati#} {%sich sehr wohl ausnehmen%} <ab>u. s. w.</ab> <ls>MBH. 13,152,22</ls>. Mit {#na#} {%kein rechtes Ansehen haben, Jmd%} (<ab>Dat.</ab>) {%nicht gefallen%}.
+<div n="m">— <ab>Caus.</ab> {#°SoBayati#} {%in hohem Grade schmücken, zieren%}.
 <div n="p">— Mit {#anu#} in {#anuSoBin#}.
 <div n="p">— Mit {#aBi#} <ab>Med.</ab>
-<div n="1">— 1) {%schmückend umlegen.%} Nur {#aBi/ Su/mBamAnam#}.
-<div n="1">— 2) {#°SoBate#} {%schmuck sein , sich schön ausnehmen.%}
-<div n="m">— <ab>Caus.</ab> {#aBiSoBita#} {%geschmückt — , geziert — , ein schönes Aussehen habend%}
-[Page6251-2]
-{%stattlich erscheinend durch%} (<ab>Instr.</ab>).
-<div n="p">— Mit {#samaBi#} ( {#°SoBate#}) {%schmuck sein , sich schön ausnehmen mit%} (<ab>Instr.</ab>).
-<div n="p">— Mit {#upa#} ( {#°SoBate#} und {#°SumBate#}) <ab>dass.</ab> <ls>VĀSAV.217,3.</ls>
-<div n="m">— <ab>Caus.</ab> {#°SoBayati#} {%schmücken , zieren.%} {#upaSoBita#} {%geschmückt , geziert , — mit oder durch%} (<ab>Instr.</ab> oder im Comp. vorangehend).
-<div n="p">— Mit {#ni#} ( {#°SumBati#}) {%zertreten%} <ls>BĀLAR.239,8.</ls> Vgl {#niSumBa#} fgg.
+<div n="1">— 1〉 {%schmückend umlegen%}. Nur {#aBi/ Su/mBamAnam#}.
+<div n="1">— 2〉 {#°SoBate#} {%schmuck sein, sich schön ausnehmen%}.
+<div n="m">— <ab>Caus.</ab> {#aBiSoBita#} {%geschmückt —, geziert —, ein schönes Aussehen habend [Page6-251-b] stattlich erscheinend durch%} (<ab>Instr.</ab>).
+<div n="p">— Mit {#samaBi#} ({#°SoBate#}) {%schmuck sein, sich schön ausnehmen mit%} (<ab>Instr.</ab>).
+<div n="p">— Mit {#upa#} ({#°SoBate#} und {#°SumBate#}) <ab>dass.</ab> <ls>VĀSAV. 217,3</ls>.
+<div n="m">— <ab>Caus.</ab> {#°SoBayati#} {%schmücken, zieren%}. {#upaSoBita#} {%geschmückt, geziert, — mit oder durch%} (<ab>Instr.</ab> oder im <ab>Comp.</ab> vorangehend).
+<div n="p">— Mit {#ni#} ({#°SumBati#}) {%zertreten%} <ls>BĀLAR. 239,8</ls>. <ab>Vgl.</ab> {#niSumBa#} fgg.
 <div n="p">— Mit {#pari#}
-<div n="1">— 1) <ab>Act.</ab> ( {#°Su/mBati#}) {%zubereiten.%}
-<div n="1">— 2) <ab>Med.</ab> ( {#°SoBate#}) {%sich schön ausnehmen.%}
-<div n="m">— <ab>Caus.</ab> {#pariSoBita#} {%geschmückt , geziert , — mit%} (<ab>Instr.</ab> oder im Comp. vorangehend).
-<div n="p">— Mit {#pra#} ( {#pra/ = So/Be#} = {#SoBate#} nach <ls>SĀY.</ls>). {%schön prangen.%}
-<div n="p">— Mit {#prati#} <ab>Caus.</ab> {#°SoBita#} {%geschmückt- , geziert mit%} (<ab>Instr.</ab>).
-<div n="p">— Mit {#vi#} ( {#°SoBate#}) {%recht schmuck sein , sich sehr schön ausnehmen.%}
-<div n="m">— <ab>Caus.</ab> {#viSoBita#} {%geschmückt — , geziert mit%} (<ab>Instr.</ab> oder im Comp. vorangehend).
-<div n="p">— Mit {#sam#} <ab>Med.</ab> ( {#saMSo/Bate#})
-<div n="1">— 1) {%schmuck sein , sich schön ausnehmen.%}
-<div n="1">— 2) {%gleich schmuck sein%} , mit <ab>Instr.</ab>
-<div n="m">— <ab>Caus.</ab> {#saMSoBayati#} {%herausputzen , schmücken.%} {#saMSoBita#} {%geschmückt mit%} (<ab>Instr.</ab>).
+<div n="1">— 1〉 <ab>Act.</ab> ({#°Su/mBati#}) {%zubereiten%}.
+<div n="1">— 2〉 <ab>Med.</ab> ({#°SoBate#}) {%sich schön ausnehmen%}.
+<div n="m">— <ab>Caus.</ab> {#pariSoBita#} {%geschmückt, geziert, — mit%} (<ab>Instr.</ab> oder im <ab>Comp.</ab> vorangehend).
+<div n="p">— Mit {#pra#} ({#pra/ — So/Be#} = {#SoBate#} nach <ls>SĀY.</ls>). {%schön prangen%}.
+<div n="p">— Mit {#prati#} <ab>Caus.</ab> {#°SoBita#} {%geschmückt-, geziert mit%} (<ab>Instr.</ab>).
+<div n="p">— Mit {#vi#} ({#°SoBate#}) {%recht schmuck sein, sich sehr schön ausnehmen%}.
+<div n="m">— <ab>Caus.</ab> {#viSoBita#} {%geschmückt —, geziert mit%} (<ab>Instr.</ab> oder im <ab>Comp.</ab> vorangehend).
+<div n="p">— Mit {#sam#} <ab>Med.</ab> ({#saMSo/Bate#})
+<div n="1">— 1〉 {%schmuck sein, sich schön ausnehmen%}.
+<div n="1">— 2〉 {%gleich schmuck sein,%} mit <ab>Instr.</ab>
+<div n="m">— <ab>Caus.</ab> {#saMSoBayati#} {%herausputzen, schmücken%}. {#saMSoBita#} {%geschmückt mit%} (<ab>Instr.</ab>).
 <LEND>

@@ -1,5 +1,5 @@
 <L>13662<pc>420<k1>literary<k2>literary
-<div n="lb"/>{@LITERARY:@}¦ <div n="xe">{%L. conversation:%}</div> <div n="xs">{#SAstrAlApaH;#}</div> <div n="xe">{%l. his-%}
-<div n="lb"/>{%tory:%}</div> <div n="xs">{#*SAstrARAmitihAsaH;#}</div> <div n="xe">{%l. man:%}</div> <div n="xs">{#paRqitaH;#}</div> <div n="xe">{%l.%}
-<div n="lb"/>{%fame:%}</div> <div n="xs">{#pARqityayaSas;#}</div> etc.
+{@LITERARY:@}¦ <div n="xe">{%L. conversation:%}</div> <div n="xs">{#SAstrAlApaH;#}</div> <div n="xe">{%l. his-%}
+{%tory:%}</div> <div n="xs">{#*SAstrARAmitihAsaH;#}</div> <div n="xe">{%l. man:%}</div> <div n="xs">{#paRqitaH;#}</div> <div n="xe">{%l.%}
+{%fame:%}</div> <div n="xs">{#pARqityayaSas;#}</div> etc.
 <LEND>

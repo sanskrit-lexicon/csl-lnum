@@ -1,58 +1,58 @@
 <L>32490<pc>3-0585<k1>dAna<k2>dA/na<h>1
-1. {#dA/na#}¦ (von 1. {#dA#}) <lex>n.</lex> 
-<div n="1"> 1) {%das Geben, Schenken, Spenden; Gabe, Spende%} 
-<ls>AK. 2, 7, 28.</ls> 
-<ls>TRIK. 3, 2, 6. 3, 242.</ls> 
-<ls>H. 386.</ls> 
-<ls>an. 2, 268.</ls> 
-<ls>MED. n. 10.</ls> {#adi^tsantaM cidAGfRe\ pUza\ndAnA^ya codaya#} 
-<ls>ṚV. 5, 53, 3.</ls> <ls n="ṚV.">10, 141, 5.</ls> <ls n="ṚV. 10, 141,">6.</ls> {#sa hi zmA\ dAna\minva^ti\ vasU^nAm#} 
-<ls n="ṚV.">1, 128, 5.</ls> {#naki\rhi dAna^M pari\marDi^za\ttve#} 
-<ls n="ṚV.">8, 50, 6.</ls> <ls n="ṚV. 8,">46, 4.</ls> {#pE\ja\va\nasya^#} 
-<ls n="ṚV.">7, 18, 22.</ls> <ls n="ṚV.">5, 30, 7.</ls> <ls n="ṚV. 5, 30,">33.</ls> <ls n="ṚV. 5, 30,">6.</ls> {#upo\pennu ma^Gava\nBUya\ innu te\ dAna^M de\vasya^ pfcyate#} 
-<ls>VĀLAKH. 3, 7.</ls> 
-<ls>AV. 12, 4, 32.</ls> {#vAjo^ no a\dya pra su^vAti\ dAna^m#} 
-<ls>VS. 18, 33. 21, 61.</ls> 
-<ls>ŚAT. BR. 11, 5, 7, 1. 14, 9, 1, 19.</ls> 
-<ls>KĀTY. ŚR. 1, 8, 20. 4, 8, 27.</ls> 
-<ls>ĀŚV. GṚHY. 4, 4.</ls> 
-<ls>ŚĀṄKH. ŚR. 2, 3, 25.</ls> {#saha/sra°#} 
-<ls>ṚV. 7, 33, 12.</ls> — {#dAnamekaM kaliyuge#} 
-<ls>M. 1, 86. 88. 90. 91.</ls> 
-<ls>N. 6, 10.</ls> 
-<ls>RAGH. 1, 69.</ls> 
-<ls>HIT. Pr. 15. I, 11.</ls> {#dAnaM car#} 
-<ls>10, 21.</ls> {#°Darma#} 
-<ls>M. 4, 227.</ls> {#na dAnEH SuDyate nArI#} 
-<ls>VET. 32, 11.</ls> {#aBIpsitAnAmarTAnAm#} 
-<ls>7, 204.</ls> {#trirvittapUrRapfTivI°#} 
-<ls>YĀJÑ. 1, 48.</ls> {#anyo'nyAhAra°#} 
-<ls>HIT. 25, 17.</ls> 
-<ls>RAGH. 9, 32.</ls> 
-<ls>KUMĀRAS. 5, 15.</ls> {#trARa°#} 
-<ls>MĀRK. P. 15, 64. 56.</ls> <ls>?ad HIT. 27, 16.</ls> {#yaTA cAjYe 'PalaM dAnam#} 
-<ls>M. 2, 158. 7, 85.</ls> {%Darbringung%} 
-<ls>10, 91.</ls> {#havirdAna#} 
-<ls>3, 211.</ls>
+1. {#dA/na#}¦ (von 1. {#dA#}) <lex>n.</lex>
+<div n="1"> 1) {%das Geben, Schenken, Spenden; Gabe, Spende%}
+<ls>AK. 2,7,28.</ls>
+<ls>TRIK. 3,2,6.</ls> <ls n="TRIK. 3,">3,242.</ls>
+<ls>H. 386.</ls>
+<ls>an. 2,268.</ls>
+<ls>MED. n. 10.</ls> {#adi^tsantaM cidAGfRe\ pUza\ndAnA^ya codaya#}
+<ls>ṚV. 5,53,3.</ls> <ls n="ṚV.">10,141,5.</ls> <ls n="ṚV. 10,141,">6.</ls> {#sa hi zmA\ dAna\minva^ti\ vasU^nAm#}
+<ls n="ṚV.">1,128,5.</ls> {#naki\rhi dAna^M pari\marDi^za\ttve#}
+<ls n="ṚV.">8,50,6.</ls> <ls n="ṚV. 8,">46,4.</ls> {#pE\ja\va\nasya^#}
+<ls n="ṚV.">7,18,22.</ls> <ls n="ṚV.">5,30,7.</ls> <ls n="ṚV. 5,30,">33.</ls> <ls n="ṚV. 5,30,">6.</ls> {#upo\pennu ma^Gava\nBUya\ innu te\ dAna^M de\vasya^ pfcyate#}
+<ls>VĀLAKH. 3,7.</ls>
+<ls>AV. 12,4,32.</ls> {#vAjo^ no a\dya pra su^vAti\ dAna^m#}
+<ls>VS. 18,33.</ls> <ls n="VS.">21,61.</ls>
+<ls>ŚAT. BR. 11,5,7,1.</ls> <ls n="ŚAT. BR.">14,9,1,19.</ls>
+<ls>KĀTY. ŚR. 1,8,20.</ls> <ls n="KĀTY. ŚR.">4,8,27.</ls>
+<ls>ĀŚV. GṚHY. 4,4.</ls>
+<ls>ŚĀṄKH. ŚR. 2,3,25.</ls> {#saha/sra°#}
+<ls>ṚV. 7,33,12.</ls> — {#dAnamekaM kaliyuge#}
+<ls>M. 1,86.</ls> <ls n="M. 1,">88.</ls> <ls n="M. 1,">90.</ls> <ls n="M. 1,">91.</ls>
+<ls>N. 6,10.</ls>
+<ls>RAGH. 1,69.</ls>
+<ls>HIT. Pr. 15. I,11.</ls> {#dAnaM car#}
+<ls n="HIT.">10,21.</ls> {#°Darma#}
+<ls>M. 4,227.</ls> {#na dAnEH SuDyate nArI#}
+<ls>VET. 32,11.</ls> {#aBIpsitAnAmarTAnAm#}
+<ls n="VET.">7,204.</ls> {#trirvittapUrRapfTivI°#}
+<ls>YĀJÑ. 1,48.</ls> {#anyo'nyAhAra°#}
+<ls>HIT. 25,17.</ls>
+<ls>RAGH. 9,32.</ls>
+<ls>KUMĀRAS. 5,15.</ls> {#trARa°#}
+<ls>MĀRK. P. 15,64. 56.</ls> ad <ls>HIT. 27,16.</ls> {#yaTA cAjYe 'PalaM dAnam#}
+<ls>M. 2,158.</ls> <ls n="M.">7,85.</ls> {%Darbringung%}
+<ls n="M.">10,91.</ls> {#havirdAna#}
+<ls n="M.">3,211.</ls>
 [Page3-0586]
-{#udaka°#} (einem Verstorbenen) 
-<ls>PRAB. 98, 3.</ls> {#kanyAyAH#} {%das Weggeben, Verheirathen einer Tochter%} 
-<ls>NIR. 3, 4.</ls> 
-<ls>M. 3, 27. 28. 35. 11, 60.</ls> {#prARa°#} {%das Hingeben seines Lebens%} 
-<ls>PAÑCAT. II, 31.</ls> {#AtmaSarIra°#} 
-<ls>70, 14.</ls> {#brahma°#} {%das Mittheilen, Lehren der heiligen Schrift%} 
-<ls>M. 4, 233.</ls> {%Abtragung einer Schuld%} 
-<ls>8, 160.</ls> <ls>YĀJÑ. 2, 53.</ls> {#dAnaM dA#} {%eine Gabe spenden%} 
-<ls>M. 11, 2. 3, 178.</ls> 
-<ls>YĀJÑ. 3, 274.</ls> 
-<ls>BHAG. 17, 20.</ls> <ls>?ad HIT. I, 10. VET. 29, 7.</ls> {#dAnaM prayacCati#} 
-<ls>M. 4, 234.</ls> {%Geschenke, Bestechung%}, eines der 4 Mittel, durch welche man dem Gegner beikommt, 
-<ls>AK. 2, 8, 1, 20.</ls> 
-<ls>H. 736.</ls> 
-<ls>M. 7, 198.</ls> Ausnahmsweise in comp. mit dem Empfänger: {#apANktyadAna#} 
-<ls>3, 169.</ls> 
-<div n="1">— 2) {%das Hinzulegen%} 
-<ls>PAÑCAT. II, 74.</ls> {%Addition%}: {#navakadAnaviSoDanAByAm#} 
-<ls>VARĀH. BṚH. 25 (24), 11.</ls> 
+{#udaka°#} (einem Verstorbenen)
+<ls>PRAB. 98,3.</ls> {#kanyAyAH#} {%das Weggeben, Verheirathen einer Tochter%}
+<ls>NIR. 3,4.</ls>
+<ls>M. 3,27.</ls> <ls n="M. 3,">28.</ls> <ls n="M. 3,">35.</ls> <ls n="M.">11,60.</ls> {#prARa°#} {%das Hingeben seines Lebens%}
+<ls>PAÑCAT. II,31.</ls> {#AtmaSarIra°#}
+<ls n="PAÑCAT.">70,14.</ls> {#brahma°#} {%das Mittheilen, Lehren der heiligen Schrift%}
+<ls>M. 4,233.</ls> {%Abtragung einer Schuld%}
+<ls n="M.">8,160.</ls> <ls>YĀJÑ. 2,53.</ls> {#dAnaM dA#} {%eine Gabe spenden%}
+<ls>M. 11,2.</ls> <ls n="M.">3,178.</ls>
+<ls>YĀJÑ. 3,274.</ls>
+<ls>BHAG. 17,20.</ls> ad <ls>HIT. I,10.</ls> <ls>VET. 29,7.</ls> {#dAnaM prayacCati#}
+<ls>M. 4,234.</ls> {%Geschenke, Bestechung%}, eines der 4 Mittel, durch welche man dem Gegner beikommt,
+<ls>AK. 2,8,1,20.</ls>
+<ls>H. 736.</ls>
+<ls>M. 7,198.</ls> Ausnahmsweise in comp. mit dem Empfänger: {#apANktyadAna#}
+<ls n="M.">3,169.</ls>
+<div n="1">— 2) {%das Hinzulegen%}
+<ls>PAÑCAT. II,74.</ls> {%Addition%}: {#navakadAnaviSoDanAByAm#}
+<ls>VARĀH. BṚH. 25 (24),11.</ls>
 <div n="v">— Vgl. {#a°#} .
 <LEND>

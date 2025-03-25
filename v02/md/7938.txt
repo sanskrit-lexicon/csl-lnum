@@ -1,20 +1,3 @@
 <L>7938<pc>100-1<k1>jaladAna<k2>jaladAna
-{#jaladAna#}¦jala-dāna, {%n.%} libation of water ({%festival %}<lbinfo n="6"/>
-<>{% in Uggayinī%}); {@-dravya,@} {%n.%} ocean-product, <lbinfo n="9"/>
-<> pearl; {@-dhara,@} {%m.%} (water-bearer), cloud: 
-<>{@-mālā,@} {%f.%} tract of clouds, {@-abhyudaya,@} {%m.%} 
-<>(rise of the clouds), rainy season; {@-dhārā,@} {%f.%} 
-<>stream of water, shower; {@-dhi,@} {%m.%} ocean, sea: 
-<>{@-tā,@} {%f. abst. N.,%} {@-rasanā,@} {%f.%} ocean-girt ({%earth%}); 
-<>{@-nidhi,@} {%m.%} ocean, sea; {@-pakṣin,@} {%m.%} waterbird; <lbinfo n="5"/>
-<> {@-patha,@} {%m.%} sea-voyage; {@-pāda,@} {%m.%} 
-<>(water-foot), {%N. of a frog-king%}; {@-pūra,@} {%m.%} 
-<>full channel ({%of a river%}); {@-pūruṣa,@} {%m.%} water-pixie; <lbinfo n="5"/>
-<> {@-pravāha,@} {%m.%} current; {@-plava,@} {%m.%} deluge; <lbinfo n="2"/>
-<> {@-bindu,@} {%m.%} drop of water: {@-durdina,@} 
-<>{%n.%} shower of rain; {@-budbuda,@} {%m.%} water-bubble; <lbinfo n="9"/>
-<> {@-bhājana@}, {%n.%} water-vessel; {@-maya,@} {%a.%} 
-<>({@ī@}) consisting of water; {@-mānuṣa,@} {%m.%} ({@ī@}) {%fabulous%} <lbinfo n="4"/>
-<> aquatic being; otter; -muc, {%a.%} discharging <lbinfo n="3"/>
-<> rain; {%m.%} cloud.
+{#jaladAna#}¦ jala-dāna, <lex>n.</lex> libation of water ({%festival 🞄in Ujjayinī%}); {@-dravya,@} <lex>n.</lex> ocean-product, 🞄pearl; {@-dhara,@} <lex>m.</lex> (water-bearer), cloud: 🞄{@-mālā,@} <lex>f.</lex> tract of clouds, {@-abhyudaya,@} <lex>m.</lex> 🞄(rise of the clouds), rainy season; {@-dhārā,@} <lex>f.</lex> 🞄stream of water, shower; {@-dhi,@} <lex>m.</lex> ocean, sea: 🞄{@-tā,@} <lex>f.</lex> <ab>abst. ɴ.</ab>, {@-rasanā,@} <lex>f.</lex> ocean-girt ({%earth%}); 🞄{@-nidhi,@} <lex>m.</lex> ocean, sea; {@-pakṣin,@} <lex>m.</lex> waterbird; 🞄{@-patha,@} <lex>m.</lex> sea-voyage; {@-pāda,@} <lex>m.</lex> 🞄(water-foot), <ab>N.</ab> {%of a frog-king%}; {@-pūra,@} <lex>m.</lex> 🞄full channel ({%of a river%}); {@-pūruṣa,@} <lex>m.</lex> water-pixie; 🞄{@-pravāha,@} <lex>m.</lex> current; {@-plava,@} <lex>m.</lex> deluge; 🞄{@-bindu,@} <lex>m.</lex> drop of water: {@-durdina,@} 🞄<lex>n.</lex> shower of rain; {@-budbuda,@} <lex>m.</lex> water-bubble; 🞄{@-bhājana,@} <lex>n.</lex> water-vessel; {@-maya,@} <lex>a.</lex> 🞄({@ī@}) consisting of water; {@-mānuṣa,@} <lex>m.</lex> ({@ī@}) {%fabulous%} 🞄aquatic being; otter; -muc, <lex>a.</lex> discharging 🞄rain; <lex>m.</lex> cloud.
 <LEND>

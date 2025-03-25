@@ -1,8 +1,8 @@
 <L>1862<pc>062<k1>coal<k2>coal
 {@Coal,@}¦ {%s.%} {#KanijAMgAraH -raM;#} ‘c. black’
-<div n="lb"/>{#aMgArasavarRa, ati-kfzRa#}. {%-v. i.%} {#KanijAMgArAn#}
-<div n="lb"/>{#upakxp#} c., ‘c. field,’ {%s.%} {#KanijAMgArakzetraM#}
-<div n="lb"/>‘c. gas,’ {%s.%} {#KanijAMgAravAyuH#} {%m.%} ‘c. mine,’
-<div n="lb"/>‘pit,’ {#aMgAraKani#} ({#nI#}) {%f.%} ‘-c. ing station,’
-<div n="lb"/>{#aMgAraBaraRasTAnaM#}.
+{#aMgArasavarRa, ati-kfzRa#}. {%-v. i.%} {#KanijAMgArAn#}
+{#upakxp#} c., ‘c. field,’ {%s.%} {#KanijAMgArakzetraM#}
+‘c. gas,’ {%s.%} {#KanijAMgAravAyuH#} {%m.%} ‘c. mine,’
+‘pit,’ {#aMgAraKani#} ({#nI#}) {%f.%} ‘-c. ing station,’
+{#aMgAraBaraRasTAnaM#}.
 <LEND>

@@ -1,15 +1,15 @@
 <L>4830<pc>199<k1>health<k2>health
 {@Health,@}¦ {%s.%} {#kuSalaM, arogaH, susTatA, vArttaM,#}
-<div n="lb"/>{#rogABAvaH, nirAmayatvaM, susTiti#} {%f.,%} {#ArogyaM,#}
-<div n="lb"/>{#svAsTyaM, anAmayaM, kalyatvaM-tA, SarIrasuKaM,#}
-<div n="lb"/>{#arogitA#}. {@2@} {#prakfti#} {%f.,%} {#SarIrAvasTA, SarIra-#}
-<div n="lb"/>{#-sTitiH-prakftiH;#} ‘of a delicate h.’ {#prakfti-#}
-<div n="lb"/>{#-komala-durbala;#} ‘he is in good h.’ {#susTosO,#}
-<div n="lb"/>{#kuSalamasya#}. {@-ful, -y,@} {%a.%} {#Arogyavat, a-#}
-<div n="lb"/>{#-rogin, nIroga, nIruja-j, svasTa, vyADi-#}
-<div n="lb"/>{#-rahita, nirAmaya, vArtta, susTa, kalya, kuSalin,#}
-<div n="lb"/>{#nirvyADi;#} ‘became as h. as before’ {#pUrva-#}
-<div n="lb"/>{#-vat prakftisTaH samajAyata#}. {@2@} {#Arogya-suKa-kara#}
-<div n="lb"/>({#rI#} {%f.%}), {#paTya, hita, svAsTyajanaka, suKAvaha#}.
-<div n="lb"/>{@-fulness,@} {%See%} ({%s.%}).
+{#rogABAvaH, nirAmayatvaM, susTiti#} {%f.,%} {#ArogyaM,#}
+{#svAsTyaM, anAmayaM, kalyatvaM-tA, SarIrasuKaM,#}
+{#arogitA#}. {@2@} {#prakfti#} {%f.,%} {#SarIrAvasTA, SarIra-#}
+{#-sTitiH-prakftiH;#} ‘of a delicate h.’ {#prakfti-#}
+{#-komala-durbala;#} ‘he is in good h.’ {#susTosO,#}
+{#kuSalamasya#}. {@-ful, -y,@} {%a.%} {#Arogyavat, a-#}
+{#-rogin, nIroga, nIruja-j, svasTa, vyADi-#}
+{#-rahita, nirAmaya, vArtta, susTa, kalya, kuSalin,#}
+{#nirvyADi;#} ‘became as h. as before’ {#pUrva-#}
+{#-vat prakftisTaH samajAyata#}. {@2@} {#Arogya-suKa-kara#}
+({#rI#} {%f.%}), {#paTya, hita, svAsTyajanaka, suKAvaha#}.
+{@-fulness,@} {%See%} ({%s.%}).
 <LEND>

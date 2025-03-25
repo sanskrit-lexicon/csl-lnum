@@ -1,6 +1,6 @@
 <L>6024<pc>250<k1>lamp<k2>lamp
 {@Lamp,@}¦ {%s.%} {#pra-, dIpaH, dIpakaH, dIpikA, daSA-#}
-<div n="lb"/>{#-karzaH, dozAsyaH;#} ‘l. -black’ {#kajjalaM, dIpa-#}
-<div n="lb"/>{#-kiwwaM;#} ‘l.-light’ {#dIpapraBA-prakASaH;#} ‘l.-stand’
-<div n="lb"/>{#dIpavfkzaH-pAdapaH-ADAraH#}.
+{#-karzaH, dozAsyaH;#} ‘l. -black’ {#kajjalaM, dIpa-#}
+{#-kiwwaM;#} ‘l.-light’ {#dIpapraBA-prakASaH;#} ‘l.-stand’
+{#dIpavfkzaH-pAdapaH-ADAraH#}.
 <LEND>

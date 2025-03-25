@@ -1,14 +1,14 @@
 <L>22822<pc>604-a<k1>poison<k2>poison
-<div n="lb"/>POISON¦, {%s.%} {#vizaM, garaM -raH, garalaM, garadaM, BUgaraM, jIvanAGAtaM, jaNgulaM, jANgulaM,#}
-<div n="lb"/>{#halAhalaM -laH, hAlAhalaM, hAlahAlaM, hAlahalaM, halahalaM, hAhalaM -laH,#}
-<div n="lb"/>{#kAlakUwaM -waH, kalAkulaM, kAkolaM -laH, sOrAzwrikaM, sorAzwrikaM, dAradaH,#}
-<div n="lb"/>{#pradIpanaH, brahmaputraH, SOklikeyaH, vatsanABaH, DUlakaM, nidaH, kzveqaH;#} ‘ad-
-<div n="lb"/>ministering poison,’ {#vizaprayogaH, vizaviDAnaM, vizadAnaM;#} ‘taking
-<div n="lb"/>poison,’ {#vizaBakzaRaM;#} ‘worthy of death by poison,’ {#vizyaH -zyA#}
-<div n="lb"/>{#-zyaM;#} ‘yielding poison,’ {#vizadaH -dA -daM;#} ‘removing or cur-
-<div n="lb"/>ing poison,’ {#vizaGnaH -GnI -GnaM, vizanASI -SinI -Si(n), vizaGAtI#}
-<div n="lb"/>&c., {#vipaharaH -rI -raM, vizApahaH -hA -haM, garaGnaH#} &c.; ‘art of cur-
-<div n="lb"/>ing poisons,’ {#vizavidyA, vizanASanavidyA;#} ‘curer of poisons,’
-<div n="lb"/>{#vipavEdyaH, vizaBizak#} {%m.%} {#(j), jANgulikaH, jANguliH#} {%m.,%} {#gAruqikaH;#}
-<div n="lb"/>‘charm against poison,’ {#gAruqaH -qaM#}.
+POISON¦, {%s.%} {#vizaM, garaM -raH, garalaM, garadaM, BUgaraM, jIvanAGAtaM, jaNgulaM, jANgulaM,#}
+{#halAhalaM -laH, hAlAhalaM, hAlahAlaM, hAlahalaM, halahalaM, hAhalaM -laH,#}
+{#kAlakUwaM -waH, kalAkulaM, kAkolaM -laH, sOrAzwrikaM, sorAzwrikaM, dAradaH,#}
+{#pradIpanaH, brahmaputraH, SOklikeyaH, vatsanABaH, DUlakaM, nidaH, kzveqaH;#} ‘ad-
+ministering poison,’ {#vizaprayogaH, vizaviDAnaM, vizadAnaM;#} ‘taking
+poison,’ {#vizaBakzaRaM;#} ‘worthy of death by poison,’ {#vizyaH -zyA#}
+{#-zyaM;#} ‘yielding poison,’ {#vizadaH -dA -daM;#} ‘removing or cur-
+ing poison,’ {#vizaGnaH -GnI -GnaM, vizanASI -SinI -Si(n), vizaGAtI#}
+&c., {#vipaharaH -rI -raM, vizApahaH -hA -haM, garaGnaH#} &c.; ‘art of cur-
+ing poisons,’ {#vizavidyA, vizanASanavidyA;#} ‘curer of poisons,’
+{#vipavEdyaH, vizaBizak#} {%m.%} {#(j), jANgulikaH, jANguliH#} {%m.,%} {#gAruqikaH;#}
+‘charm against poison,’ {#gAruqaH -qaM#}.
 <LEND>

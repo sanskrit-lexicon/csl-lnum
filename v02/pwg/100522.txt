@@ -1,86 +1,86 @@
 <L>100522<pc>7-0272<k1>Suzka<k2>Su/zka
-{#Su/zka#}¦ (von 1. {#Suz#}) und in der klass. Sprache {#Suzka/#} 
-<ls>UṆĀDIS. 3, 41.</ls> 
-<div n="1"> 1) <lex>adj.</lex> (als partic. angesehen; <lex>f.</lex> {#A#}) 
-<ls>P. 8, 2, 51.</ls> 
-<ls>VOP. 26, 99.</ls> 
-<div n="2"> a) {%ausgetrocknet, trocken, dürr%} 
-<ls>ṚV. 1, 68, 3.</ls> {#ArdrAdA Suzka\M maDu^maddudohiTa#} 
-<ls n="ṚV.">2, 13, 6.</ls> {#atasa#} 
-<ls n="ṚV.">4, 4, 4.</ls> {#vana#} 
-<ls n="ṚV.">6, 18, 10.</ls> {#dfti#} 
-<ls n="ṚV.">7, 103, 2.</ls> <ls n="ṚV.">10, 92, 1.</ls> <ls>AV. 19, 49, 10.</ls> <ls>ŚAT. BR. 1, 3, 3, 4. 6, 3, 23. 41.</ls> {#sikatAH#} 
-<ls>7, 3, 1, 37.</ls> {#sTARu#} 
-<ls>9, 5, 2, 13.</ls> <ls>CHĀND. UP. 5, 2, 3.</ls> <ls>ĀŚV. GṚHY. 2, 8, 5.</ls> — {#nadI#} 
-<ls>MBH. 1, 2839.</ls> 
-<ls>Spr. (II) 5085.</ls> 
-<ls>PAÑCAT. 51, 5.</ls> {#°toyeva nimnagA#} 
-<ls>MBH. 7, 27. 3, 2668.</ls> 
-<ls>R. 5, 21, 15.</ls> Baum, Stamm, Holz, Pflanze, Frucht, Blatt 
-<ls>KAUṢ. UP. 2, 14.</ls> 
-<ls>R. 2, 47, 8. 55, 14. 69, 12.</ls> 
-<ls>ṚT. 1, 25.</ls> 
-<ls>Spr. 3006. fgg. (II) 3849. 4374.</ls> 
-<ls>SUŚR. 1, 29, 6. 218, 5. 6. 219, 5. 6. 2, 325, 19.</ls> 
-<ls>VARĀH. BṚH. S. 46, 28. 51, 3. 59, 3. 79, 3.</ls> {#°virohaRa#} 
-<ls>46, 88.</ls> {#kziptaH saMsAravAtena cezwate SuzkaparRavat#} 
-<ls>AṢṬĀV. 18, 21.</ls> <ls>BHĀG. P. 3, 17, 7. 4, 23, 5. 5, 8, 30.</ls> <ls>AK. 2, 4, 1, 15.</ls> <ls>HALĀY. 1, 151. 2, 34.</ls> {#UrDva°#} Baum 
-<ls>MBH. 4, 813.</ls> 
-<ls>VARĀH. BṚH. S. 43, 13. 85, 2.</ls> {#gomaya#} 
-<ls>AK. 2, 9, 51.</ls> 
-<ls>TRIK. 2, 9, 21.</ls> 
-<ls>HĀR. 170.</ls> {#anna#} 
-<ls>MBH. 11, 166.</ls> 
-<ls>VARĀH. BṚH. S. 89, 1.</ls> {#mAMsa#} 
-<ls>AK. 2, 6, 2, 14.</ls> 
-<ls>M. 11, 155.</ls> 
-<ls>R. 2, 84, 17.</ls> 
-<ls>SUŚR. 1, 207, 10. 13.</ls> 
-<ls>Spr.3005.</ls> 
-<ls>KATHĀS. 8, 23.</ls>
+{#Su/zka#}¦ (von 1. {#Suz#}) und in der klass. Sprache {#Suzka/#}
+<ls>UṆĀDIS. 3,41.</ls>
+<div n="1"> 1) <lex>adj.</lex> (als partic. angesehen; <lex>f.</lex> {#A#})
+<ls>P. 8,2,51.</ls>
+<ls>VOP. 26,99.</ls>
+<div n="2"> a) {%ausgetrocknet, trocken, dürr%}
+<ls>ṚV. 1,68,3.</ls> {#ArdrAdA Suzka\M maDu^maddudohiTa#}
+<ls n="ṚV.">2,13,6.</ls> {#atasa#}
+<ls n="ṚV.">4,4,4.</ls> {#vana#}
+<ls n="ṚV.">6,18,10.</ls> {#dfti#}
+<ls n="ṚV.">7,103,2.</ls> <ls n="ṚV.">10,92,1.</ls> <ls>AV. 19,49,10.</ls> <ls>ŚAT. BR. 1,3,3,4. 6,3,23. 41.</ls> {#sikatAH#}
+<ls n="ŚAT. BR.">7,3,1,37.</ls> {#sTARu#}
+<ls n="ŚAT. BR.">9,5,2,13.</ls> <ls>CHĀND. UP. 5,2,3.</ls> <ls>ĀŚV. GṚHY. 2,8,5.</ls> — {#nadI#}
+<ls>MBH. 1,2839.</ls>
+<ls>Spr. (II) 5085.</ls>
+<ls>PAÑCAT. 51,5.</ls> {#°toyeva nimnagA#}
+<ls>MBH. 7,27.</ls> <ls n="MBH.">3,2668.</ls>
+<ls>R. 5,21,15.</ls> Baum, Stamm, Holz, Pflanze, Frucht, Blatt
+<ls>KAUṢ. UP. 2,14.</ls>
+<ls>R. 2,47,8.</ls> <ls n="R. 2,">55,14.</ls> <ls n="R. 2,">69,12.</ls>
+<ls>ṚT. 1,25.</ls>
+<ls>Spr. 3006. fgg.</ls> <ls>Spr. (II) 3849.</ls> <ls n="Spr. (II)">4374.</ls>
+<ls>SUŚR. 1,29,6. 218,5. 6. 219,5. 6. 2,325,19.</ls>
+<ls>VARĀH. BṚH. S. 46,28. 51,3. 59,3. 79,3.</ls> {#°virohaRa#}
+<ls n="VARĀH. BṚH. S.">46,88.</ls> {#kziptaH saMsAravAtena cezwate SuzkaparRavat#}
+<ls>AṢṬĀV. 18,21.</ls> <ls>BHĀG. P. 3,17,7.</ls> <ls n="BHĀG. P.">4,23,5.</ls> <ls n="BHĀG. P.">5,8,30.</ls> <ls>AK. 2,4,1,15.</ls> <ls>HALĀY. 1,151. 2,34.</ls> {#UrDva°#} Baum
+<ls>MBH. 4,813.</ls>
+<ls>VARĀH. BṚH. S. 43,13. 85,2.</ls> {#gomaya#}
+<ls>AK. 2,9,51.</ls>
+<ls>TRIK. 2,9,21.</ls>
+<ls>HĀR. 170.</ls> {#anna#}
+<ls>MBH. 11,166.</ls>
+<ls>VARĀH. BṚH. S. 89,1.</ls> {#mAMsa#}
+<ls>AK. 2,6,2,14.</ls>
+<ls>M. 11,155.</ls>
+<ls>R. 2,84,17.</ls>
+<ls>SUŚR. 1,207,10. 13.</ls>
+<ls>Spr. 3005.</ls>
+<ls>KATHĀS. 8,23.</ls>
 [Page7-0273]
-{#aSani#} 
-<ls>MBH. 7, 2709.</ls> 
-<ls>HARIV. 4263.</ls> 
-<ls>R. 1, 56, 9 (57, 10 GORR.).</ls> {%eine trockene Waffe%} 
-<ls>HARIV. 5865.</ls> 
-<ls>BHĀG. P. 8, 11, 37. fg. 40.</ls> {#nAsikA#} 
-<ls>SUŚR. 1, 115, 5.</ls> {#yoni#} 
-<ls>ŚĀRṄG. SAṂH. 1, 7, 102.</ls> {#°kaRWOzWatAluka#} 
-<ls>PAÑCAR. 1, 4, 28.</ls> {#asurasya tanuH#} 
-<ls>R. 4, 9, 92.</ls> {#grIvA#} 
-<ls>VARĀH. BṚH. S. 68, 31. 60.</ls> {#jaNGe#} 
-<ls>70, 17</ls> (vgl. {#°jaNGA#} 
-<ls>KĀŚ.</ls> zu <ls>P. 8, 2, 1</ls>). {#hasta#} 22. {#°nitambasTalI#} 
-<ls>DHŪRTAS. 80, 15.</ls> {#°muKa#} so v. a. {%mit einem eingefallenen Gesicht%} 
-<ls>R. 3, 65, 18.</ls> 
-<ls>Spr. (II) 3054.</ls> {#dIrGaSuzkanaKO bAhU#} so v. a. {%spröde%} 
-<ls>R. 3, 74, 22.</ls> {#asTi#} {%an dem kein Fleisch mehr hängt%} 
-<ls>VARĀH. BṚH. S. 89, 1.</ls> {#°rudita#} <lex>n.</lex> {%ein Weinen ohne Thränen%} 
-<ls>SĀH. D. 140.</ls> 
-<ls>ŚIŚ. 10, 69.</ls> {#°saMmUtraRa#} 
-<ls>VARĀH. BṚH. S. 89, 1.</ls> — {#Atapa° = Atape SuzkaH#} 
-<ls>P. 2, 1, 41.</ls> {#a°#} 
-<ls>ŚĀṄKH. ŚR. 1, 6, 9.</ls> 
-<ls>GOBH. 4, 7, 5.</ls> 
-<ls>M. 11, 64.</ls> 
-<div n="2">— b) {%trocken%} so v. a. {%ohne die gewöhnliche Begleitung%}: {#gAna#} {%einfacher Gesang%} (ohne Tanz) 
-<ls>SĀH. D. 505.</ls> 
-<div n="2">— c) {%trocken%} so v. a. {%leer, eitel, unbegründet; zwecklos, unnütz%}: {#°vEra#} 
-<ls>M. 4, 139.</ls> 
-<ls>MBH. 12, 5302.</ls> 
-<ls>Spr. (II) 4236.</ls> {#°vErin#} 
-<ls>BHĀG. P. 12, 3, 25.</ls> {#°vigraha#} 
-<ls>11, 17, 19.</ls> {#°vAdavivAda#} 
-<ls>18, 30.</ls> {#°kalaha#} 
-<ls>PAÑCAT. 171, 25.</ls> {#°tarka#} 
-<ls>Ind. St. 5, 159.</ls> {#na SuzkAM giramIrayet#} 
-<ls>M. 11, 35.</ls> 
-<ls>MBH. 12, 6058.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. pr. eines Mannes 
-<ls>RĀJA-TAR. 4, 713.</ls> 
-<div n="1">— 3) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#arDarcAdi#} 
-zu <ls>P.2,4,31.</ls> <ls>SIDDH. K. 249,a,1.</ls> wohl {%getrocknete Frucht.%} 
-<div n="v">— Vgl. {#ucCuzka, pari°, vi°#} (auch 
-<ls>BHAṬṬ. 3, 14</ls>), {#saM°#} .
+{#aSani#}
+<ls>MBH. 7,2709.</ls>
+<ls>HARIV. 4263.</ls>
+<ls>R. 1,56,9</ls> (<ls n="GORR. 1,">57,10</ls> <ls>GORR.</ls>). {%eine trockene Waffe%}
+<ls>HARIV. 5865.</ls>
+<ls>BHĀG. P. 8,11,37. fg.</ls> <ls n="BHĀG. P. 8,11,">40.</ls> {#nAsikA#}
+<ls>SUŚR. 1,115,5.</ls> {#yoni#}
+<ls>ŚĀRṄG. SAṂH. 1,7,102.</ls> {#°kaRWOzWatAluka#}
+<ls>PAÑCAR. 1,4,28.</ls> {#asurasya tanuH#}
+<ls>R. 4,9,92.</ls> {#grIvA#}
+<ls>VARĀH. BṚH. S. 68,31. 60.</ls> {#jaNGe#}
+<ls n="VARĀH. BṚH. S.">70,17</ls> (vgl. {#°jaNGA#}
+<ls>KĀŚ.</ls> zu <ls>P. 8,2,1</ls>). {#hasta#} 22. {#°nitambasTalI#}
+<ls>DHŪRTAS. 80,15.</ls> {#°muKa#} so v. a. {%mit einem eingefallenen Gesicht%}
+<ls>R. 3,65,18.</ls>
+<ls>Spr. (II) 3054.</ls> {#dIrGaSuzkanaKO bAhU#} so v. a. {%spröde%}
+<ls>R. 3,74,22.</ls> {#asTi#} {%an dem kein Fleisch mehr hängt%}
+<ls>VARĀH. BṚH. S. 89,1.</ls> {#°rudita#} <lex>n.</lex> {%ein Weinen ohne Thränen%}
+<ls>SĀH. D. 140.</ls>
+<ls>ŚIŚ. 10,69.</ls> {#°saMmUtraRa#}
+<ls>VARĀH. BṚH. S. 89,1.</ls> — {#Atapa° = Atape SuzkaH#}
+<ls>P. 2,1,41.</ls> {#a°#}
+<ls>ŚĀṄKH. ŚR. 1,6,9.</ls>
+<ls>GOBH. 4,7,5.</ls>
+<ls>M. 11,64.</ls>
+<div n="2">— b) {%trocken%} so v. a. {%ohne die gewöhnliche Begleitung%}: {#gAna#} {%einfacher Gesang%} (ohne Tanz)
+<ls>SĀH. D. 505.</ls>
+<div n="2">— c) {%trocken%} so v. a. {%leer, eitel, unbegründet; zwecklos, unnütz%}: {#°vEra#}
+<ls>M. 4,139.</ls>
+<ls>MBH. 12,5302.</ls>
+<ls>Spr. (II) 4236.</ls> {#°vErin#}
+<ls>BHĀG. P. 12,3,25.</ls> {#°vigraha#}
+<ls n="BHĀG. P.">11,17,19.</ls> {#°vAdavivAda#}
+<ls n="BHĀG. P. 11,">18,30.</ls> {#°kalaha#}
+<ls>PAÑCAT. 171,25.</ls> {#°tarka#}
+<ls>Ind. St. 5,159.</ls> {#na SuzkAM giramIrayet#}
+<ls>M. 11,35.</ls>
+<ls>MBH. 12,6058.</ls>
+<div n="1">— 2) <lex>m.</lex> N. pr. eines Mannes
+<ls>RĀJA-TAR. 4,713.</ls>
+<div n="1">— 3) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#arDarcAdi#}
+zu <ls>P. 2,4,31.</ls> <ls>SIDDH. K. 249,a,1.</ls> wohl {%getrocknete Frucht.%}
+<div n="v">— Vgl. {#ucCuzka, pari°, vi°#} (auch
+<ls>BHAṬṬ. 3,14</ls>), {#saM°#} .
 <LEND>

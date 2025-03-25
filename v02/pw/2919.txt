@@ -1,6 +1,6 @@
-<L>2919<pc>1034-3<k1>aDivAsa<k2>aDivAsa<h>1<e>100
-1. {#aDivAsa#}¦ <lex>m.</lex>
-<div n="1">— 1) {%Bewohner.%}
-<div n="1">— 2) {%Nachbar%} <ls>215,6,11.</ls>
-<div n="1">— 3) {%Wohnung , Wohnart , Sitz%} <ls>216,23</ls> (am Ende eines <lex>adj.</lex> Comp. <lex>f.</lex> {#A#}).
+<L>2919<pc>1-034-c<k1>aDivAsa<k2>aDivAsa<h>1
+<hom>1.</hom> {#aDivAsa#}¦ <lex>m.</lex>
+<div n="1">— 1〉 {%Bewohner%}.
+<div n="1">— 2〉 {%Nachbar%} <ls n="Chr.">215,6</ls>. <ls n="Chr. 215,">11</ls>.
+<div n="1">— 3〉 {%Wohnung, Wohnart, Sitz%} <ls n="Chr.">216,23</ls> (am Ende eines <ab>adj. Comp.</ab> <lex>f.</lex> {#A#}).
 <LEND>

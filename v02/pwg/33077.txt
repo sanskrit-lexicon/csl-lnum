@@ -1,126 +1,112 @@
 <L>33077<pc>3-0639<k1>dih<k2>dih
-{#dih#}¦, {#degDi, digDe#} 
-<ls>DHĀTUP. 24, 5</ls>; {#Dekzyati, degDA#} <is>Kār</is>. 6 aus 
-<ls>SIDDH. K.</ls> zu <ls>P.7,2,10</ls>; {#aDikzat, aDikzata#} und {#adigDa#} 
-<ls>P. 7, 3, 73.</ls> 
-<ls>VOP. 8, 130. 9, 46.</ls> {%bestreichen, verstreichen, verkitten, salben%}: {#vA\cA Sa\lyA~ a\Sani^BirdihA\naH#} 
-<ls>ṚV. 10, 87, 4.</ls> {#ye apI^za\nye adi^ha\nya Asya\nye a\vAsf^jan (izum)#} 
-<ls>AV. 4, 6, 7.</ls> {#adihaMScandanEH SuBrEH#} 
-<ls>BHAṬṬ. 17, 54.</ls> {#digDa/#} {%bestrichen, besalbt, beschmiert, besudelt%} 
-<ls>AK. 3, 2, 39.</ls> 
-<ls>TRIK. 3, 3, 218.</ls> 
-<ls>H. 1483.</ls> 
-<ls>an. 2, 241.</ls> 
-<ls>MED. dh. 7.</ls> {#mfdA digDA#} 
-<ls>ŚAT. BR. 6, 7, 1, 15.</ls> 
-<ls>KĀTY. ŚR. 16, 5, 2.</ls> 
-<ls>KAUŚ. 28.</ls> {#divyacandanadigDANga#} 
-<ls>R. 3, 42, 49.</ls> 
-<ls>BHARTṚ. 1, 48.</ls> 
-<ls>BHAṬṬ. 3, 21.</ls> {#nadISEvAladigDANga#} 
-<ls>MBH. 13, 2660.</ls> {#hastAvasfgdigDO#} 
-<ls>M. 3, 132.</ls> 
-<ls>RAGH. 16, 15.</ls> {#maladigDANgI#} 
-<ls>N. 24, 41.</ls> {#pAMSuSoRitadigDANga#} 
-<ls>DAŚ. 1, 34.</ls> {%mit Gift bestrichen%} (Pfeil), subst. {%ein vergifteter Pfeil%} 
-<ls>AK. 2, 8, 2, 56.</ls> 
-<ls>TRIK.</ls> 
-<ls>H. 779.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {#izu^riva di\gDA pf^dA\kuri^va#} 
-<ls>AV. 5, 18, 15.</ls> 
-<ls>M. 7, 90.</ls> {#digDavidDa#} 
-<ls>ŚAT. BR. 14, 9, 4, 8.</ls> {#digDahata#} 
-<ls>R. GORR. 2, 114, 33.</ls> {#digDahasta#} 
-<ls>MBH. 5, 1473.</ls> {#sA vidDA bahuBirvAkyErdigDEriva gajANganA#} 
-<ls>R. 2, 30, 23.</ls> 
-<div n="v">— Vgl. {#digDa#} . — desid. {#DI/kzate#} {%sich salben wollen%} 
-<ls>ŚAT. BR. 3, 2, 2, 30.</ls> {#DIkzita#} ebend.
-
-<div n="p">— {#aBi#}, partic. {#aBidigDa#} {%angekittet%} oder {%bestrichen%} so v. a. {%vergiftet%}: {#dantA\stapa^sA\Bidi^gDAH#} 
-<ls>AV. 5, 18, 8.</ls>
-
-<div n="p">— {#ava#} {%bestreichen, beschmieren%}: {#dantarajasAvadegDi#} 
+{#dih#}¦, {#degDi, digDe#}
+<ls>DHĀTUP. 24,5</ls>; {#Dekzyati, degDA#} <is>Kār.</is> 6 aus
+<ls>SIDDH. K.</ls> zu <ls>P. 7,2,10</ls>; {#aDikzat, aDikzata#} und {#adigDa#}
+<ls>P. 7,3,73.</ls>
+<ls>VOP. 8,130.</ls> <ls n="VOP.">9,46.</ls> {%bestreichen, verstreichen, verkitten, salben%}: {#vA\cA Sa\lyA~ a\Sani^BirdihA\naH#}
+<ls>ṚV. 10,87,4.</ls> {#ye apI^za\nye adi^ha\nya Asya\nye a\vAsf^jan (izum)#}
+<ls>AV. 4,6,7.</ls> {#adihaMScandanEH SuBrEH#}
+<ls>BHAṬṬ. 17,54.</ls> {#digDa/#} {%bestrichen, besalbt, beschmiert, besudelt%}
+<ls>AK. 3,2,39.</ls>
+<ls>TRIK. 3,3,218.</ls>
+<ls>H. 1483.</ls>
+<ls>an. 2,241.</ls>
+<ls>MED. dh. 7.</ls> {#mfdA digDA#}
+<ls>ŚAT. BR. 6,7,1,15.</ls>
+<ls>KĀTY. ŚR. 16,5,2.</ls>
+<ls>KAUŚ. 28.</ls> {#divyacandanadigDANga#}
+<ls>R. 3,42,49.</ls>
+<ls>BHARTṚ. 1,48.</ls>
+<ls>BHAṬṬ. 3,21.</ls> {#nadISEvAladigDANga#}
+<ls>MBH. 13,2660.</ls> {#hastAvasfgdigDO#}
+<ls>M. 3,132.</ls>
+<ls>RAGH. 16,15.</ls> {#maladigDANgI#}
+<ls>N. 24,41.</ls> {#pAMSuSoRitadigDANga#}
+<ls>DAŚ. 1,34.</ls> {%mit Gift bestrichen%} (Pfeil), subst. {%ein vergifteter Pfeil%}
+<ls>AK. 2,8,2,56.</ls>
+<ls>TRIK.</ls>
+<ls>H. 779.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {#izu^riva di\gDA pf^dA\kuri^va#}
+<ls>AV. 5,18,15.</ls>
+<ls>M. 7,90.</ls> {#digDavidDa#}
+<ls>ŚAT. BR. 14,9,4,8.</ls> {#digDahata#}
+<ls>R. GORR. 2,114,33.</ls> {#digDahasta#}
+<ls>MBH. 5,1473.</ls> {#sA vidDA bahuBirvAkyErdigDEriva gajANganA#}
+<ls>R. 2,30,23.</ls>
+<div n="v">— Vgl. {#digDa#} . — desid. {#DI/kzate#} {%sich salben wollen%}
+<ls>ŚAT. BR. 3,2,2,30.</ls> {#DIkzita#} ebend.
+<div n="p">— {#aBi#}, partic. {#aBidigDa#} {%angekittet%} oder {%bestrichen%} so v. a. {%vergiftet%}: {#dantA\stapa^sA\Bidi^gDAH#}
+<ls>AV. 5,18,8.</ls>
+<div n="p">— {#ava#} {%bestreichen, beschmieren%}: {#dantarajasAvadegDi#}
 <ls>KAUŚ. 31.</ls>
 [Page3-0640]
-
-<div n="p">— {#A#}, partic. {#AdigDa#} {%bestrichen, besalbt, beschmiert%}: {#bAhuBiScandanAdigDEH#} 
-<ls>MBH. 7, 4386.</ls> {#kavacEH SoRitAdigDEH#} 
-<ls>6, 4384.</ls> <ls>HARIV. 9357.</ls> <ls>BHĀG. P. 5, 5, 32.</ls>
-
-<div n="p">— {#ud#} {%aufwerfen%}: {#UrjaM vA etaM rasaM pfTivyA upadIkA uddihanti yadvalmIkam#} 
-<ls>TAITT. ĀR. 5, 2, 8.</ls> 
+<div n="p">— {#A#}, partic. {#AdigDa#} {%bestrichen, besalbt, beschmiert%}: {#bAhuBiScandanAdigDEH#}
+<ls>MBH. 7,4386.</ls> {#kavacEH SoRitAdigDEH#}
+<ls n="MBH.">6,4384.</ls> <ls>HARIV. 9357.</ls> <ls>BHĀG. P. 5,5,32.</ls>
+<div n="p">— {#ud#} {%aufwerfen%}: {#UrjaM vA etaM rasaM pfTivyA upadIkA uddihanti yadvalmIkam#}
+<ls>TAITT. ĀR. 5,2,8.</ls>
 <div n="v">— Vgl. {#uddehikA#} .
-
-<div n="p">— {#upa#}, partic. {#upadigDa#} {%beschmiert, belegt mit%}: {#SirogalaM kaPopadigDam#} 
-<ls>SUŚR. 2, 376, 11.</ls> {#lohAnAM ca maRInAM ca malapaNkopadigDatA#} 
-<ls>KĀM. NĪTIS. 7, 24.</ls> viell. {%gefleckt%}: {#suviBaktadehA na copadigDA na kfSAH kzamASca#} (sind die <is>Bhadra</is> genannten Elephanten) 
-<ls>VARĀH. BṚH. S. 66, 1.</ls> 
+<div n="p">— {#upa#}, partic. {#upadigDa#} {%beschmiert, belegt mit%}: {#SirogalaM kaPopadigDam#}
+<ls>SUŚR. 2,376,11.</ls> {#lohAnAM ca maRInAM ca malapaNkopadigDatA#}
+<ls>KĀM. NĪTIS. 7,24.</ls> viell. {%gefleckt%}: {#suviBaktadehA na copadigDA na kfSAH kzamASca#} (sind die <is>Bhadra</is> genannten Elephanten)
+<ls>VARĀH. BṚH. S. 66,1.</ls>
 <div n="v">— Vgl. {#upadeha#} .
-
-<div n="p">— {#ni#} 
-<ls>P. 8, 4, 17.</ls> partic. {#nidigDa#} {%klebend an%}: {#yaTADo BUmO nidigDaM tadamuyA syAdevaM tat#} 
-<ls>ŚAT. BR. 1, 7, 2, 13.</ls> 
-<ls>SĀY.</ls> hat {#nidagDaM#} gelesen. = {#upacita#} 
-<ls>AK. 3, 2, 38</ls>; vgl. u. {#nis#} .
-
-<div n="p">— {#pariRi#}, {#°degDi#} 
-<ls>P. 8, 4, 17,</ls> 
-<ls>Sch.</ls>
-
-<div n="p">— {#praRi#}, {#°degDi#} 
-<ls>P. 8, 4, 47,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 8, 22. 9, 46.</ls>
-
-<div n="p">— {#nis#}, partic. {#nirdigDa = mAMsala, upacita#} {%mit Fleisch belegt, wohlgenährt%} 
-<ls>H. 449.</ls> 
+<div n="p">— {#ni#}
+<ls>P. 8,4,17.</ls> partic. {#nidigDa#} {%klebend an%}: {#yaTADo BUmO nidigDaM tadamuyA syAdevaM tat#}
+<ls>ŚAT. BR. 1,7,2,13.</ls>
+<ls>SĀY.</ls> hat {#nidagDaM#} gelesen. = {#upacita#}
+<ls>AK. 3,2,38</ls>; vgl. u. {#nis#} .
+<div n="p">— {#pariRi#}, {#°degDi#}
+<ls>P. 8,4,17</ls>, <ls>Sch.</ls>
+<div n="p">— {#praRi#}, {#°degDi#}
+<ls>P. 8,4,47</ls>, <ls>Sch.</ls>
+<ls>VOP. 8,22.</ls> <ls n="VOP.">9,46.</ls>
+<div n="p">— {#nis#}, partic. {#nirdigDa = mAMsala, upacita#} {%mit Fleisch belegt, wohlgenährt%}
+<ls>H. 449.</ls>
 <div n="v">— Vgl. u. {#ni#} .
-
-<div n="p">— {#pari#} {%belegen, überziehen%}: {#yadvi\jAma\nparu^zi\ vanda^na\M Buva^dazWI\vantO\ pari^ ku\lPO ca\ deha^t#} 
-<ls>ṚV. 7, 50, 2.</ls>
-
-<div n="p">— {#pra#} {%beschmieren, bestreichen, salben%}: {#SigruBirnavanItamiSrEH pradegDi#} 
-<ls>KAUŚ. 29.</ls> {#pradehEH pradihyAt#} 
-<ls>SUŚR. 1, 42, 19.</ls> {#pradihya#} 
-<ls>100, 21.</ls> {#pradigDa#} {%beschmiert, bestrichen, befleckt, besalbt, überzogen mit%} 
-<ls>42, 2. 97, 18. 110, 6 (230, 16</ls> ist wohl {#pradagDa#} zu lesen). {#ruDira°#} 
-<ls>BHAG. 2, 5.</ls> 
-<ls>MBH. 8, 3306.</ls> {#viza°#} 
-<ls>VARĀH. BṚH. S. 77, 1.</ls> {#mala°#} 
-<ls>BṚH. 26 (25), 16.</ls> <ls>R. 5, 11, 24.</ls>
-
-<div n="p">— {#sam#} {%beschmieren, bestreichen, überziehen%}: {#lomAni jatunA saMdihya#} 
-<ls>KAUŚ. 13. 26.</ls> {#raktacandanasaMdigDO - bAhU#} 
-<ls>MBH. 8, 3161.</ls> {#DUpErjAlaviniHsftErvalaBayaH saMdigDapAravatAH#} 
-<ls>VIKR. 43.</ls> — pass. ({%zusammengeklebt sein, verschwimmen) verwechselt werden mit%}: {#sA pfTivyA saMdihyate#} 
-<ls>NIR. 2, 7.</ls> {#karotikiratI saMdigDO varzakarmaRA#} 
-<ls>8.</ls> {#anugarjitasaMdigDAH - murajasvanAH#} 
-<ls>KUMĀRAS. 6, 40.</ls> {#saMdigDa#} {%nicht deutlich hervortretend, unverständlich%}: {#saMdigDAkzarayA girA#} 
-<ls>MBH. 1, 6565.</ls> {#vAzpasaMdigDayA girA#} 
-<ls>2, 701. 3, 2500. 2913.</ls> <ls>R. 2, 100, 28. 4, 58, 9.</ls> {#vAzpasaMdigDayA vAcA#} 
-<ls>5, 32, 2</ls>; vgl. {#asaMdigDa#} . {%in Zweifel, in Ungewissheit sein, dem Zweifel unterliegen%}: {#tasya saMdidihe budDistAM dfzwvA tadvinirRaye#} 
-<ls>R. 5, 18, 17.</ls> {#saMdihyamAnAnyavyaktAjAdipadAni#} 
-<ls>MADHUS.</ls> in <ls>Ind. St. 1, 19, 22.</ls> med. dass.: {#marizyati na veti saMdihAnAH#} 
-<ls>SĀY.</ls> zu <ls>ṢAḌV. BR. 4, 6.</ls> {#saMdigDa#} {%verzweifelnd an%}: {#avIryA vIryasaMdigDAH#} 
-<ls>R. 1, 66, 25.</ls> {%in Zweifel, in Ungewissheit sich befindend; zweifelhaft, ungewiss%}: {#sa saMdigDamivAtmAnaM mene#} 
-<ls>HARIV. 3758.</ls> {#°mati#} 
-<ls>YĀJÑ. 3, 152.</ls> {#cetas#} 
-<ls>MĀLAV. 63.</ls> {#°budDi#} 
-<ls>ŚĀK. 69, 2.</ls> {#°niScaya#} 
-<ls>R. 1, 7, 6.</ls> {#smfti#} 
-<ls>5, 18, 7.</ls> {#saMdigDasADyavAnpakzaH#} (Gegens. {#niScita#}) 
-<ls>TARKAS. 39.</ls> {#saMdigDArTa#} 
-<ls>YĀJÑ. 2, 16.</ls> {#paraloka#} 
-<ls>PAÑCAT. I, 196.</ls> {#saMdigDo vijayo yuDi#} 
-<ls>III, 11.</ls> {#°Pala#} 
-(<ls>WILSON</ls>None und 
-<ls>BENFEY</ls> {%vergiftet%}) 
-<ls>DAŚAK. 88, 1</ls> <ls>?(BENF. Chr. 197, 2).</ls> {#asaMdigDam#} adv. {%ohne Zweifel, bestimmt%} 
-<ls>PAÑCAT. 241, 8.</ls> 
-<ls>VID. 67.</ls> 
-<ls>MĀRK. P. 23, 66.</ls> 
-<div n="v">— Vgl. {#saMdeGa, saMdeha#} . — caus. {%undeutlich machen, verwirren%}: {#tanme saMdehayaddiSaH#} 
-<ls>MBH. 1, 5183.</ls> med. {%in Zweifel, in Ungewissheit sein%}: {#aTa saMdehayAnAnAM dfzwvA spfzwvA ca pArTivam . yattadASaNkitaM pApaM tasya jajYe viniScayaH ..#} 
-<ls>R. 2, 65, 15.</ls>
+<div n="p">— {#pari#} {%belegen, überziehen%}: {#yadvi\jAma\nparu^zi\ vanda^na\M Buva^dazWI\vantO\ pari^ ku\lPO ca\ deha^t#}
+<ls>ṚV. 7,50,2.</ls>
+<div n="p">— {#pra#} {%beschmieren, bestreichen, salben%}: {#SigruBirnavanItamiSrEH pradegDi#}
+<ls>KAUŚ. 29.</ls> {#pradehEH pradihyAt#}
+<ls>SUŚR. 1,42,19.</ls> {#pradihya#}
+<ls n="SUŚR.">100,21.</ls> {#pradigDa#} {%beschmiert, bestrichen, befleckt, besalbt, überzogen mit%}
+<ls n="SUŚR.">42,2. 97,18. 110,6 (230,16</ls> ist wohl {#pradagDa#} zu lesen). {#ruDira°#}
+<ls>BHAG. 2,5.</ls>
+<ls>MBH. 8,3306.</ls> {#viza°#}
+<ls>VARĀH. BṚH. S. 77,1.</ls> {#mala°#}
+<ls>BṚH. 26 (25),16.</ls> <ls>R. 5,11,24.</ls>
+<div n="p">— {#sam#} {%beschmieren, bestreichen, überziehen%}: {#lomAni jatunA saMdihya#}
+<ls>KAUŚ. 13. 26.</ls> {#raktacandanasaMdigDO — bAhU#}
+<ls>MBH. 8,3161.</ls> {#DUpErjAlaviniHsftErvalaBayaH saMdigDapAravatAH#}
+<ls>VIKR. 43.</ls> — pass. ({%zusammengeklebt sein, verschwimmen) verwechselt werden mit%}: {#sA pfTivyA saMdihyate#}
+<ls>NIR. 2,7.</ls> {#karotikiratI saMdigDO varzakarmaRA#}
+<ls n="NIR.">8.</ls> {#anugarjitasaMdigDAH — murajasvanAH#}
+<ls>KUMĀRAS. 6,40.</ls> {#saMdigDa#} {%nicht deutlich hervortretend, unverständlich%}: {#saMdigDAkzarayA girA#}
+<ls>MBH. 1,6565.</ls> {#vAzpasaMdigDayA girA#}
+<ls n="MBH.">2,701.</ls> <ls n="MBH.">3,2500.</ls> <ls n="MBH. 3,">2913.</ls> <ls>R. 2,100,28.</ls> <ls n="R.">4,58,9.</ls> {#vAzpasaMdigDayA vAcA#}
+<ls n="R.">5,32,2</ls>; vgl. {#asaMdigDa#} . {%in Zweifel, in Ungewissheit sein, dem Zweifel unterliegen%}: {#tasya saMdidihe budDistAM dfzwvA tadvinirRaye#}
+<ls>R. 5,18,17.</ls> {#saMdihyamAnAnyavyaktAjAdipadAni#}
+<ls>MADHUS.</ls> in <ls>Ind. St. 1,19,22.</ls> med. dass.: {#marizyati na veti saMdihAnAH#}
+<ls>SĀY.</ls> zu <ls>ṢAḌV. BR. 4,6.</ls> {#saMdigDa#} {%verzweifelnd an%}: {#avIryA vIryasaMdigDAH#}
+<ls>R. 1,66,25.</ls> {%in Zweifel, in Ungewissheit sich befindend; zweifelhaft, ungewiss%}: {#sa saMdigDamivAtmAnaM mene#}
+<ls>HARIV. 3758.</ls> {#°mati#}
+<ls>YĀJÑ. 3,152.</ls> {#cetas#}
+<ls>MĀLAV. 63.</ls> {#°budDi#}
+<ls>ŚĀK. 69,2.</ls> {#°niScaya#}
+<ls>R. 1,7,6.</ls> {#smfti#}
+<ls n="R.">5,18,7.</ls> {#saMdigDasADyavAnpakzaH#} (Gegens. {#niScita#})
+<ls>TARKAS. 39.</ls> {#saMdigDArTa#}
+<ls>YĀJÑ. 2,16.</ls> {#paraloka#}
+<ls>PAÑCAT. I,196.</ls> {#saMdigDo vijayo yuDi#}
+<ls n="PAÑCAT.">III,11.</ls> {#°Pala#}
+(<ls>WILSON</ls> und
+<ls>BENFEY</ls> {%vergiftet%})
+<ls>DAŚAK. 88,1</ls> (<ls>BENF. Chr. 197,2).</ls> {#asaMdigDam#} adv. {%ohne Zweifel, bestimmt%}
+<ls>PAÑCAT. 241,8.</ls>
+<ls>VID. 67.</ls>
+<ls>MĀRK. P. 23,66.</ls>
+<div n="v">— Vgl. {#saMdeGa, saMdeha#} . — caus. {%undeutlich machen, verwirren%}: {#tanme saMdehayaddiSaH#}
+<ls>MBH. 1,5183.</ls> med. {%in Zweifel, in Ungewissheit sein%}: {#aTa saMdehayAnAnAM dfzwvA spfzwvA ca pArTivam . yattadASaNkitaM pApaM tasya jajYe viniScayaH ..#}
+<ls>R. 2,65,15.</ls>
 <LEND>

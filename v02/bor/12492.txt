@@ -1,7 +1,7 @@
 <L>12492<pc>388<k1>intercourse<k2>intercourse
-<div n="lb"/>{@INTERCOURSE:@}¦ <div n="1">(1) {#saNgaH, saNgamaH#} <div n="xe">{%or%}</div> <div n="xs">{#samAgamaH,#}</div> <div n="xe">{%by i.%}
-<div n="lb"/>{%with inferiors:%}</div> <div n="xs">{#hInEH saha samAgamAt,#}</div> H. i. 42.;
-<div n="lb"/><div n="xe">{%i. with a lioness:%}</div> <div n="xs">{#kesarikalatrasamAgamaH,#}</div> D. ii.; </div><div n="1">(2)
-<div n="lb"/>{#saMsargaH,#} <div n="xe">{%i. with wanton women:%}</div> <div n="xs">{#puMScaliBiH saha saMsargaH,#}</div>
-<div n="lb"/>H. i. 113.</div>
+{@INTERCOURSE:@}¦ <div n="1">(1) {#saNgaH, saNgamaH#} <div n="xe">{%or%}</div> <div n="xs">{#samAgamaH,#}</div> <div n="xe">{%by i.%}
+{%with inferiors:%}</div> <div n="xs">{#hInEH saha samAgamAt,#}</div> H. i. 42.;
+<div n="xe">{%i. with a lioness:%}</div> <div n="xs">{#kesarikalatrasamAgamaH,#}</div> D. ii.; </div><div n="1">(2)
+{#saMsargaH,#} <div n="xe">{%i. with wanton women:%}</div> <div n="xs">{#puMScaliBiH saha saMsargaH,#}</div>
+H. i. 113.</div>
 <LEND>

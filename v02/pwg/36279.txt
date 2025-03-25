@@ -1,9 +1,9 @@
 <L>36279<pc>3-0886<k1>Darmatas<k2>Darmatas
-{#Darmatas#}¦ (von {#Darma#}) adv. {%dem Gesetze nach, der Regel gemäss, von Rechtswegen%} 
-<ls>M. 1, 93. 2, 35. 45. 109. 150. 3, 131. 248. 4, 8. 6, 36. 9, 145.</ls> 
-<ls>BRĀHMAṆ. 3, 3.</ls> 
-<ls>N. 6, 9.</ls> 
-<ls>R. 1, 7, 13. 16. 53, 9.</ls> 
-<ls>PAÑCAT. 165, 1.</ls> {%aus Tugend, aus einem edlen Motive%} 
-<ls>M. 8, 103.</ls>
+{#Darmatas#}¦ (von {#Darma#}) adv. {%dem Gesetze nach, der Regel gemäss, von Rechtswegen%}
+<ls>M. 1,93.</ls> <ls n="M.">2,35.</ls> <ls n="M. 2,">45.</ls> <ls n="M. 2,">109.</ls> <ls n="M. 2,">150.</ls> <ls n="M.">3,131.</ls> <ls n="M. 3,">248.</ls> <ls n="M.">4,8.</ls> <ls n="M.">6,36.</ls> <ls n="M.">9,145.</ls>
+<ls>BRĀHMAṆ. 3,3.</ls>
+<ls>N. 6,9.</ls>
+<ls>R. 1,7,13.</ls> <ls n="R. 1,7,">16.</ls> <ls n="R. 1,">53,9.</ls>
+<ls>PAÑCAT. 165,1.</ls> {%aus Tugend, aus einem edlen Motive%}
+<ls>M. 8,103.</ls>
 <LEND>

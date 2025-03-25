@@ -1,5 +1,5 @@
 <L>13085<pc>404<k1>known<k2>known
-<div n="lb"/>{@KNOWN@}¦ (adj.): i. e. celebrated, renowned:
-<div n="lb"/>q.v.: {#prasidDa#} (f. {#dDA#}). <div n="xe">{%Well-k.:%}</div> <div n="xs">{#suprasidDa#}</div> (f. {#dDA#}).
-<div n="lb"/><div n="xe">{%Ill-k.:%}</div> <div n="xs">{#aprasidDa#}</div> (f. {#dDA#}).
+{@KNOWN@}¦ (adj.): i. e. celebrated, renowned:
+q.v.: {#prasidDa#} (f. {#dDA#}). <div n="xe">{%Well-k.:%}</div> <div n="xs">{#suprasidDa#}</div> (f. {#dDA#}).
+<div n="xe">{%Ill-k.:%}</div> <div n="xs">{#aprasidDa#}</div> (f. {#dDA#}).
 <LEND>

@@ -1,26 +1,26 @@
 <L>8759<pc>386<k1>regular<k2>regular
 {@Regular,@}¦ {%a.%} {#niyata, niyamAnusArin, nEyamika-#}
-<div n="lb"/>{#-vEDika-#} ({#kI#} {%f.%}), {#viDyanurUpa, sUtra-viDi-#}
-<div n="lb"/>{#-anusArin;#} ‘not at r. hours’ {#aniyata-#}
-<div n="lb"/>{#-velaM#} (S. 2) {@2@} {#anupUrva, anukramAgata, yaTA-#}
-<div n="lb"/>{#-krama, kramAnugata, anuloma, kramAnusArin#}. {@3@}
-<div n="lb"/>{#niyatakAlikaH#} ({#kI#} {%f.%}) {#niyatavela,#} {@4@} {#vya-#}
-<div n="lb"/>({#-vyA#}) {#vahArika-AcArika-#} ({#kI#} {%f.%}), {#nitya,#}
-<div n="lb"/>{#yaTAmArga, yaTArIti#}. {@4@} (Of persons)
-<div n="lb"/>{#niyamAnusArin, niyamanizWa-para-SIla, viDi-#}
-<div n="lb"/>{#-niyama-anuvartin; vyavasTita, atyaktakrama,#}
-<div n="lb"/>{#avyaBicArin, niyatavftti#}. {@-ity,@} {%s.%} {#niyata-#}
-<div n="lb"/>{#-tvaM, viDyanusAraH, niyamaH, sUtrAnusAraH,#}
-<div n="lb"/>{#neyamikatvaM#}. {@2@} {#paryAyaH, anukramaH, paripAwi-#}
-<div n="lb"/>{#-wI#} {%f.,%} {#vyavasTA, paraMparA, AnupUrvyaM, AnulomyaM;#}
-<div n="lb"/>{%See%} {@Order. 3@} {#viDi-niyama-nizWA, niyamA-#}
-<div n="lb"/>{#-nusAritvaM, viDyanuvartanaM, kramAtyAgaH, vyava-#}
-<div n="lb"/>{#-sTiti#} {%f.,%} {#viDi-niyama-paratA#}. {@4@} (Of arrange-
-<div n="lb"/>-ment) {#viracanaM-nA, vyUhaH-hanaM, vinyAsaH#}.
-<div n="lb"/>{@-ly,@} {%adv.%} {#yaTA-anu-kramaM, anupUrvaSaH, Anu-#}
-<div n="lb"/>{#-pUrvyeRa, anulomaM, Anulomyena, kramaSaH, krameRa,#}
-<div n="lb"/>{#paryAyeRa#}. {@2@} {#yaTAviDi, viDivat, viDitaH,#}
-<div n="lb"/>{#yaTAniyamaM, yaTAsUtraM, viDipUrvakaM, viDi-ni-#}
-<div n="lb"/>{#-yama-anusAreRa#}. {@3@} {#nityaM, anujJitakramaM,#}
-<div n="lb"/>{#niyatakrameRa, niyatavelAyAM#}.
+{#-vEDika-#} ({#kI#} {%f.%}), {#viDyanurUpa, sUtra-viDi-#}
+{#-anusArin;#} ‘not at r. hours’ {#aniyata-#}
+{#-velaM#} (S. 2) {@2@} {#anupUrva, anukramAgata, yaTA-#}
+{#-krama, kramAnugata, anuloma, kramAnusArin#}. {@3@}
+{#niyatakAlikaH#} ({#kI#} {%f.%}) {#niyatavela,#} {@4@} {#vya-#}
+({#-vyA#}) {#vahArika-AcArika-#} ({#kI#} {%f.%}), {#nitya,#}
+{#yaTAmArga, yaTArIti#}. {@4@} (Of persons)
+{#niyamAnusArin, niyamanizWa-para-SIla, viDi-#}
+{#-niyama-anuvartin; vyavasTita, atyaktakrama,#}
+{#avyaBicArin, niyatavftti#}. {@-ity,@} {%s.%} {#niyata-#}
+{#-tvaM, viDyanusAraH, niyamaH, sUtrAnusAraH,#}
+{#neyamikatvaM#}. {@2@} {#paryAyaH, anukramaH, paripAwi-#}
+{#-wI#} {%f.,%} {#vyavasTA, paraMparA, AnupUrvyaM, AnulomyaM;#}
+{%See%} {@Order. 3@} {#viDi-niyama-nizWA, niyamA-#}
+{#-nusAritvaM, viDyanuvartanaM, kramAtyAgaH, vyava-#}
+{#-sTiti#} {%f.,%} {#viDi-niyama-paratA#}. {@4@} (Of arrange-
+-ment) {#viracanaM-nA, vyUhaH-hanaM, vinyAsaH#}.
+{@-ly,@} {%adv.%} {#yaTA-anu-kramaM, anupUrvaSaH, Anu-#}
+{#-pUrvyeRa, anulomaM, Anulomyena, kramaSaH, krameRa,#}
+{#paryAyeRa#}. {@2@} {#yaTAviDi, viDivat, viDitaH,#}
+{#yaTAniyamaM, yaTAsUtraM, viDipUrvakaM, viDi-ni-#}
+{#-yama-anusAreRa#}. {@3@} {#nityaM, anujJitakramaM,#}
+{#niyatakrameRa, niyatavelAyAM#}.
 <LEND>

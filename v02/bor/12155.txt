@@ -1,9 +1,9 @@
 <L>12155<pc>378<k1>inferior<k2>inferior
-<div n="lb"/>{@INFERIOR:@}¦ <div n="1">(1) {#hInaH#} ({#nA, naM#}), <div n="xe">{%from association%}
-<div n="lb"/>{%with i. s.:%}</div> <div n="xs">{#hInEH saha samAgamAt,#}</div> H.; <div n="xe">{%a man of i.%}
-<div n="lb"/>{%caste:%}</div> <div n="xs">{#hInavarRaH,#}</div> H.; <div n="xe">{%but little i. to them:%}</div> <div n="xs">{#kintu #}
-<div n="lb"/>{# kiYcitteByo hInAH,#}</div> Bha.; </div><div n="1">(2) {#UnaH#} ({#nA, naM#}) (in
-<div n="lb"/>comp.), <div n="xe">{%not i. in qualities:%}</div> <div n="xs">{#guREranUnaH#}</div> ({#nA, naM#}),
-<div n="lb"/>R.; <div n="xe">{%not i. to Chaitraratha:%}</div> <div n="xs">{#cEtraraTAdanUnaH#}</div> ({#nA, naM#}),
-<div n="lb"/>R. vi. 50.: v. Also low, bad.</div>
+{@INFERIOR:@}¦ <div n="1">(1) {#hInaH#} ({#nA, naM#}), <div n="xe">{%from association%}
+{%with i. s.:%}</div> <div n="xs">{#hInEH saha samAgamAt,#}</div> H.; <div n="xe">{%a man of i.%}
+{%caste:%}</div> <div n="xs">{#hInavarRaH,#}</div> H.; <div n="xe">{%but little i. to them:%}</div> <div n="xs">{#kintu #}
+{# kiYcitteByo hInAH,#}</div> Bha.; </div><div n="1">(2) {#UnaH#} ({#nA, naM#}) (in
+comp.), <div n="xe">{%not i. in qualities:%}</div> <div n="xs">{#guREranUnaH#}</div> ({#nA, naM#}),
+R.; <div n="xe">{%not i. to Chaitraratha:%}</div> <div n="xs">{#cEtraraTAdanUnaH#}</div> ({#nA, naM#}),
+R. vi. 50.: v. Also low, bad.</div>
 <LEND>

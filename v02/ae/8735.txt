@@ -1,13 +1,13 @@
 <L>8735<pc>385<k1>refuge<k2>refuge
 {@Refuge,@}¦ {%s.%} {#ASrayaH, saMSrayaH, SaraRaM, gati#}
-<div n="lb"/>{%f.;%} (person) {#SaraRyaH, ASrayaBUtaH, pAlakaH,#}
-<div n="lb"/>{#rakzakaH, trAtf#} {%m.%} {@2@} {#upAyaH, pra-, yukti#} {%f.,%} {#gatiH,#}
-<div n="lb"/>{#sADanaM;#} ‘giving r.’ {#SaraRyaH#} &c; ‘take r.
-<div n="lb"/>with’ {#SaraRaM yA#} 2 P or {#gam#} 1 P or {#prapad#}
-<div n="lb"/>4 A, {#upA-A-saM-Sri#} 1 U, {#avalaMb#} 1 A,
-<div n="lb"/>{#SaraRArTaM gam#} &c; ‘seeking r.’ {#SaraRArTin;#}
-<div n="lb"/>‘come for r.’ {#SaraRaM prapannaH, SaraRAgata;#}
-<div n="lb"/>‘having only one r.’ {#ananyagatika#}.
-<div n="lb"/>{@-Refugee,@} {%s.%} {#SaraRaM prapanna, SaraRAgataH,#}
-<div n="lb"/>{#SaraRArTin#} {%m.%} {#ASritaH, avalaMbitaH#}.
+{%f.;%} (person) {#SaraRyaH, ASrayaBUtaH, pAlakaH,#}
+{#rakzakaH, trAtf#} {%m.%} {@2@} {#upAyaH, pra-, yukti#} {%f.,%} {#gatiH,#}
+{#sADanaM;#} ‘giving r.’ {#SaraRyaH#} &c; ‘take r.
+with’ {#SaraRaM yA#} 2 P or {#gam#} 1 P or {#prapad#}
+4 A, {#upA-A-saM-Sri#} 1 U, {#avalaMb#} 1 A,
+{#SaraRArTaM gam#} &c; ‘seeking r.’ {#SaraRArTin;#}
+‘come for r.’ {#SaraRaM prapannaH, SaraRAgata;#}
+‘having only one r.’ {#ananyagatika#}.
+{@-Refugee,@} {%s.%} {#SaraRaM prapanna, SaraRAgataH,#}
+{#SaraRArTin#} {%m.%} {#ASritaH, avalaMbitaH#}.
 <LEND>

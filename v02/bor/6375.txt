@@ -1,5 +1,5 @@
 <L>6375<pc>204<k1>disenchant<k2>disenchant
-<div n="lb"/>{@DISENCHANT:@}¦ Ph.: <div n="xe">{%d. this place:%}</div> <div n="xs">{#*atrasTAM mAyAM #}
-<div n="lb"/>{# nASaya#}</div> <div n="xe">{%or%}</div> <div n="xs">{#nirDUnaya,#}</div> etc.: <div n="xe">{%I will d. you:%}</div> <div n="xs">{#*tava mohaM #}
-<div n="lb"/>{# dUrIkaromi.#}</div>
+{@DISENCHANT:@}¦ Ph.: <div n="xe">{%d. this place:%}</div> <div n="xs">{#*atrasTAM mAyAM #}
+{# nASaya#}</div> <div n="xe">{%or%}</div> <div n="xs">{#nirDUnaya,#}</div> etc.: <div n="xe">{%I will d. you:%}</div> <div n="xs">{#*tava mohaM #}
+{# dUrIkaromi.#}</div>
 <LEND>

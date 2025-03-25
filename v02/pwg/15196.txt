@@ -1,67 +1,66 @@
 <L>15196<pc>2-0113<k1>karAla<k2>karAla
-{#karAla#}¦ 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%weit offen stehend, klaffend%}: {#saMDi#} 
-<ls>MṚCCH. 47, 2.</ls> {#prahArastasya karAlatAM gataH#} 
-<ls>PAÑCAT. 217, 23.</ls> {#tasya lalAwe vikarAlaM prahArakzataM dfzwvA#} 
-<ls>218, 1.</ls> {#tato prahAravikAro 'yaM me lalAwa evaM vikarAlatAM gataH#} 
-<ls>218, 13.</ls> {#vyAkIrRakeSarakarAlamuKA mfgendrAH#} 
-<ls>I, 207.</ls> {#karAlavaktra (ulUka)#} 
-<ls>158, 22.</ls> Häufig mit vorangeh. {#daMzwrA#} von {%einem grossen, Schauder erregenden Rachen mit hervorragenden Zähnen%}: {#daMzwrAkarAlavadana#} 
-<ls>HIḌ. 2, 3.</ls> 
-<ls>BHAG. 11, 25. 27.</ls> 
-<ls>R. 4, 14, 4. 5, 6, 4.</ls> 
-<ls>PRAB. 66, 6.</ls> 
-<ls>BHĀG. P. 7, 5, 39.</ls> {#BramadBrukuwidaMzwrakarAlavaktra#} 
-<ls>2, 7, 14.</ls> Zuletzt überh. {%Schauder erregend%}, von <is>Rakṣas</is> und andern gespenstischen Wesen (wobei man noch immer an {%einen weit geöffneten Rachen%} gedacht haben mag) 
-<ls>HIḌ. 2, 5.</ls> 
-<ls>MBH. 1, 6273.</ls> 
-<ls>R. 3, 24, 11. 13. 5, 10, 19. 17, 26. 25, 20. 6, 74, 8.</ls> 
-<ls>SUŚR. 2, 389, 4. 390, 5.</ls> {#tatrorDvastanI#} (Amme) {#karAlaM kuryAt#} 
-<ls>?1, 371, 18. von <is>Śiva</is> MBH. 14, 192.</ls> vom <is>Kāla</is> 
-<ls>?16, 34. R. 6, 11, 43. von <is>Viṣṇu</is> MBH. 13, 7367.</ls> als N. pr. eines <is>Asura</is> 
-<ls>HARIV. 2288. 12395. 14291.</ls> eines <is>Rakṣas</is> 
-<ls>R. 5, 12, 15.</ls> eines <is>Devagandharva</is> 
-<ls>MBH. 1, 4813.</ls> — {#(rUpam) bahudaMzwrAkarAlam#} 
-<ls>BHAG. 11, 23.</ls> {#karAladanta#} 
-<ls>MBH. 2, 296.</ls> {#karAladaMzwra#} 
-<ls>BHĀG. P. 3, 13, 28.</ls> {#karAlaPaRamaRqala#} 
-<ls>RAGH. 12, 98.</ls> {#karAlOzWI#} 
-<ls>KATHĀS. 20, 108.</ls> {#karAlakarabAla#} 
-<ls>PRAB. 55, 4.</ls> 
-<ls>GĪT. 1, 14.</ls> {#kAlaH karAlaraBasaH#} 
-<ls>BHĀG. P. 5, 8, 25.</ls> {#°srotas#} 
-<ls>3, 21, 18.</ls> {#saMyamAmBasyudIrRavAtormiravEH karAle#} 
-<ls>6, 9, 23.</ls> {#nikAradahanajvAlAkarAle gfhe#} 
-<ls>ŚĀNTIŚ. 4, 12.</ls> {#akarAla#} {%kein Grauen erregend%}: {#SastrARi#} {%chirurgische Instrumente%} 
-<ls>SUŚR. 1, 27, 14.</ls> {#akarAladfgByAm#} 
-<ls>BHĀG. P. 3, 13, 28.</ls> Nach den Lexicographen: {%hervorstehende Zähne habend; hoch%} 
-<ls>AK. 3, 4, 26, 207.</ls> 
-<ls>H. an. 3, 632.</ls> 
-<ls>MED. l. 68.</ls> <ls>VAIJ.</ls> beim Schol. zu <ls>ŚIŚ. 15, 90.</ls> {%Schrecken erregend%} 
-<ls>H. an.</ls> <ls>MED.</ls> {%entstellt, verunstaltet%} 
-<ls>VAIJ.</ls> {%weit%} ({#uru#}) 
-<ls>H. an.</ls> ({#viSAla#}) 
-<ls>VAIJ.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%ein best. Thier%} 
-<ls>SUŚR. 1, 200, 8.</ls> 
-<div n="2">— b) {%ein Gemisch von Oel mit dem Harze der Shorea robusta%} 
-<ls>TRIK. 3, 3, 388.</ls> 
+{#karAla#}¦
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%weit offen stehend, klaffend%}: {#saMDi#}
+<ls>MṚCCH. 47,2.</ls> {#prahArastasya karAlatAM gataH#}
+<ls>PAÑCAT. 217,23.</ls> {#tasya lalAwe vikarAlaM prahArakzataM dfzwvA#}
+<ls n="PAÑCAT.">218,1.</ls> {#tato prahAravikAro 'yaM me lalAwa evaM vikarAlatAM gataH#}
+<ls n="PAÑCAT.">218,13.</ls> {#vyAkIrRakeSarakarAlamuKA mfgendrAH#}
+<ls n="PAÑCAT.">I,207.</ls> {#karAlavaktra (ulUka)#}
+<ls n="PAÑCAT.">158,22.</ls> Häufig mit vorangeh. {#daMzwrA#} von {%einem grossen, Schauder erregenden Rachen mit hervorragenden Zähnen%}: {#daMzwrAkarAlavadana#}
+<ls>HIḌ. 2,3.</ls>
+<ls>BHAG. 11,25. 27.</ls>
+<ls>R. 4,14,4.</ls> <ls n="R.">5,6,4.</ls>
+<ls>PRAB. 66,6.</ls>
+<ls>BHĀG. P. 7,5,39.</ls> {#BramadBrukuwidaMzwrakarAlavaktra#}
+<ls n="BHĀG. P.">2,7,14.</ls> Zuletzt überh. {%Schauder erregend%}, von <is>Rakṣas</is> und andern gespenstischen Wesen (wobei man noch immer an {%einen weit geöffneten Rachen%} gedacht haben mag)
+<ls>HIḌ. 2,5.</ls>
+<ls>MBH. 1,6273.</ls>
+<ls>R. 3,24,11.</ls> <ls n="R. 3,24,">13.</ls> <ls n="R.">5,10,19.</ls> <ls n="R. 5,">17,26.</ls> <ls n="R. 5,">25,20.</ls> <ls n="R.">6,74,8.</ls>
+<ls>SUŚR. 2,389,4. 390,5.</ls> {#tatrorDvastanI#} (Amme) {#karAlaM kuryAt#}
+<ls n="SUŚR.">1,371,18.</ls> von <is>Śiva</is> <ls>MBH. 14,192.</ls> vom <is>Kāla</is>
+<ls n="MBH.">16,34.</ls> <ls>R. 6,11,43.</ls> von <is>Viṣṇu</is> <ls>MBH. 13,7367.</ls> als N. pr. eines <is>Asura</is>
+<ls>HARIV. 2288.</ls> <ls n="HARIV.">12395.</ls> <ls n="HARIV.">14291.</ls> eines <is>Rakṣas</is>
+<ls>R. 5,12,15.</ls> eines <is>Devagandharva</is>
+<ls>MBH. 1,4813.</ls> — {#(rUpam) bahudaMzwrAkarAlam#}
+<ls>BHAG. 11,23.</ls> {#karAladanta#}
+<ls>MBH. 2,296.</ls> {#karAladaMzwra#}
+<ls>BHĀG. P. 3,13,28.</ls> {#karAlaPaRamaRqala#}
+<ls>RAGH. 12,98.</ls> {#karAlOzWI#}
+<ls>KATHĀS. 20,108.</ls> {#karAlakarabAla#}
+<ls>PRAB. 55,4.</ls>
+<ls>GĪT. 1,14.</ls> {#kAlaH karAlaraBasaH#}
+<ls>BHĀG. P. 5,8,25.</ls> {#°srotas#}
+<ls n="BHĀG. P.">3,21,18.</ls> {#saMyamAmBasyudIrRavAtormiravEH karAle#}
+<ls n="BHĀG. P.">6,9,23.</ls> {#nikAradahanajvAlAkarAle gfhe#}
+<ls>ŚĀNTIŚ. 4,12.</ls> {#akarAla#} {%kein Grauen erregend%}: {#SastrARi#} {%chirurgische Instrumente%}
+<ls>SUŚR. 1,27,14.</ls> {#akarAladfgByAm#}
+<ls>BHĀG. P. 3,13,28.</ls> Nach den Lexicographen: {%hervorstehende Zähne habend; hoch%}
+<ls>AK. 3,4,26,207.</ls>
+<ls>H. an. 3,632.</ls>
+<ls>MED. l. 68.</ls> <ls>VAIJ.</ls> beim Schol. zu <ls>ŚIŚ. 15,90.</ls> {%Schrecken erregend%}
+<ls>H. an.</ls> <ls>MED.</ls> {%entstellt, verunstaltet%}
+<ls>VAIJ.</ls> {%weit%} ({#uru#})
+<ls>H. an.</ls> ({#viSAla#})
+<ls>VAIJ.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) {%ein best. Thier%}
+<ls>SUŚR. 1,200,8.</ls>
+<div n="2">— b) {%ein Gemisch von Oel mit dem Harze der Shorea robusta%}
+<ls>TRIK. 3,3,388.</ls>
 <ls>H.</ls>
-<ls>an.</ls> 
+<ls>an.</ls>
 <ls>MED.</ls>
 [Page2-0114]
-
-<div n="2">— c) N. pr. einer Localität 
-<ls>RĀJA-TAR. 1, 97.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#karAlA#} 
-<div n="2"> a) N. einer Pflanze, {%Hemidesmus indicus R. Br.%} ({#SArivA#}, vulg. {#anantamUla#}), 
-<ls>RATNAM.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— b) Bein. der <is>Durgā</is> 
-<ls>MĀLAT. 75, 6.</ls> {#karAlAyatana#} 
-<ls>?80, 8. 159, 8. Nach WILS. Hindu Th. II, 57</ls> heisst sie auch {#karAlavadanA#} . 
-<div n="1">— 4) <lex>f.</lex> {#karAlI#} N. einer der sieben Zungen und neun <is>Samidh</is> des <is>Agni</is> 
-<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>MUṆḌ. UP. 1, 2, 4.</ls> <ls>GṚHYASAṂGR. 1, 14. 21. 27.</ls> 
-<div n="1">— 5) <lex>n.</lex> {%eine Art Ocimum%} ({#kfzRakuWeraka#}) 
+<div n="2">— c) N. pr. einer Localität
+<ls>RĀJA-TAR. 1,97.</ls>
+<div n="1">— 3) <lex>f.</lex> {#karAlA#}
+<div n="2"> a) N. einer Pflanze, {%Hemidesmus indicus R. Br.%} ({#SArivA#}, vulg. {#anantamUla#}),
+<ls>RATNAM.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— b) Bein. der <is>Durgā</is>
+<ls>MĀLAT. 75,6.</ls> {#karAlAyatana#}
+<ls n="MĀLAT.">80,8. 159,8.</ls> nach <ls>WILS.</ls> <ls>Hindu Th. II,57</ls> heisst sie auch {#karAlavadanA#} .
+<div n="1">— 4) <lex>f.</lex> {#karAlI#} N. einer der sieben Zungen und neun <is>Samidh</is> des <is>Agni</is>
+<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>MUṆḌ. UP. 1,2,4.</ls> <ls>GṚHYASAṂGR. 1,14. 21. 27.</ls>
+<div n="1">— 5) <lex>n.</lex> {%eine Art Ocimum%} ({#kfzRakuWeraka#})
 <ls>H. an.</ls> <ls>MED.</ls>
 <LEND>

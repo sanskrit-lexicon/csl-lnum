@@ -1,5 +1,5 @@
 <L>17437<pc>533<k1>portrait<k2>portrait
-<div n="lb"/>{@PORTRAIT:@}¦ {#AleKyam,#} {%the p. of a young lady:%}
-<div n="lb"/>{#AleKyagatA yuvatiH,#} D. vi.: v. Painting. <div n="xe">{%P.%}
-<div n="lb"/>{%statue:%}</div> <div n="xs">{#pratimA#}</div> (= image).
+{@PORTRAIT:@}¦ {#AleKyam,#} {%the p. of a young lady:%}
+{#AleKyagatA yuvatiH,#} D. vi.: v. Painting. <div n="xe">{%P.%}
+{%statue:%}</div> <div n="xs">{#pratimA#}</div> (= image).
 <LEND>

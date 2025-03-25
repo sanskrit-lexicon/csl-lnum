@@ -1,4 +1,4 @@
 <L>16264<pc>499<k1>paint-brush<k2>paint-brush
-<div n="lb"/>{@PAINT-BRUSH:@}¦ <div n="1">(1) {#vartikA,#} {%skill in the use of p.:%}
-<div n="lb"/>{#vartikAleKAnipuRatA,#} Sa.; </div><div n="1">(2) {#varRatUlI, -likA.#}</div>
+{@PAINT-BRUSH:@}¦ <div n="1">(1) {#vartikA,#} {%skill in the use of p.:%}
+{#vartikAleKAnipuRatA,#} Sa.; </div><div n="1">(2) {#varRatUlI, -likA.#}</div>
 <LEND>

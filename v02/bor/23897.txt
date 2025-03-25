@@ -1,8 +1,8 @@
 <L>23897<pc>748<k1>violent<k2>violent
-<div n="lb"/>{@VIOLENT:@}¦ <div n="I">I Vehement: {#pracaRqa#} (f. {#RqA#}); </div><div n="1">(2)
-<div n="lb"/>{#ugra#} (f. {#grA#}): v. Sharp.; </div><div n="1">(3) {#gAQa#} (f. {#QA#}):
-<div n="lb"/>v. Deep; </div><div n="1">(4) {#guru#} (f. also {#rvI#}): v. Heavy;</div>
-<div n="lb"/><div n="1">(5) {#prabala#} (f. {#lA#}): v. Strong, powerful. </div><div n="I">II
-<div n="lb"/>Outrageous: {#sAhasika#} (f. {#kI#}). Ph.: {%v. end:%}
-<div n="lb"/>{#dAruRaH pariRAmaH;#} <div n="xe">{%v. death:%}</div> <div n="xs">{#apaGAtaH.#}</div></div>
+{@VIOLENT:@}¦ <div n="I">I Vehement: {#pracaRqa#} (f. {#RqA#}); </div><div n="1">(2)
+{#ugra#} (f. {#grA#}): v. Sharp.; </div><div n="1">(3) {#gAQa#} (f. {#QA#}):
+v. Deep; </div><div n="1">(4) {#guru#} (f. also {#rvI#}): v. Heavy;</div>
+<div n="1">(5) {#prabala#} (f. {#lA#}): v. Strong, powerful. </div><div n="I">II
+Outrageous: {#sAhasika#} (f. {#kI#}). Ph.: {%v. end:%}
+{#dAruRaH pariRAmaH;#} <div n="xe">{%v. death:%}</div> <div n="xs">{#apaGAtaH.#}</div></div>
 <LEND>

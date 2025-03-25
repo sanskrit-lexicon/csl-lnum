@@ -1,10 +1,10 @@
 <L>16448<pc>407-a<k1>interval<k2>interval
-<div n="lb"/>INTERVAL¦, {%s.%} (Intermediate space) {#antaraM, aByantaraM, aByantarasTAnaM,#}
-<div n="lb"/>{#antarAlaH, avakASaH, maDyaH, maDyasTAnaM, vyavaDAnaM, vyavAyaH, sanDiH#} {%m.%}
-<div n="lb"/> — (Interval of time) {#kAlAntaraM, aByantarakAlaH, maDyakAlaH, ava-#}
-<div n="lb"/>{#kASaH, antarAvasaraH, avaDiH#} {%m.%} — (Pause, remission) {#virAmaH,#}
-<div n="lb"/>{#vicCedaH, viratiH#} {%f.,%} {#nivfttiH#} {%f.,%} {#sanDiH#} {%m.,%} {#upaSamaH, SAntiH#} {%f.;%} ‘with-
-<div n="lb"/>out interval,’ {#anantaraH -rA -raM, nirantaraH -rA -raM, nirantarAlaH -lA#}
-<div n="lb"/>{#-laM;#} ‘at intervals,’ {#kAle kAle, vAraM vAraM, SanEs;#} ‘interval be-
-<div n="lb"/>tween the equinoxes,’ {#ayanakAlaH#}.
+INTERVAL¦, {%s.%} (Intermediate space) {#antaraM, aByantaraM, aByantarasTAnaM,#}
+{#antarAlaH, avakASaH, maDyaH, maDyasTAnaM, vyavaDAnaM, vyavAyaH, sanDiH#} {%m.%}
+ — (Interval of time) {#kAlAntaraM, aByantarakAlaH, maDyakAlaH, ava-#}
+{#kASaH, antarAvasaraH, avaDiH#} {%m.%} — (Pause, remission) {#virAmaH,#}
+{#vicCedaH, viratiH#} {%f.,%} {#nivfttiH#} {%f.,%} {#sanDiH#} {%m.,%} {#upaSamaH, SAntiH#} {%f.;%} ‘with-
+out interval,’ {#anantaraH -rA -raM, nirantaraH -rA -raM, nirantarAlaH -lA#}
+{#-laM;#} ‘at intervals,’ {#kAle kAle, vAraM vAraM, SanEs;#} ‘interval be-
+tween the equinoxes,’ {#ayanakAlaH#}.
 <LEND>

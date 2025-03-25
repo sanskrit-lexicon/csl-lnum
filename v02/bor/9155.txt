@@ -1,12 +1,12 @@
 <L>9155<pc>290<k1>force<k2>force
-<div n="lb"/>{@FORCE@}¦ (v.): <div n="I">I To compel: q.v.: {#balAt#} {%or%}
-<div n="lb"/>{#balena kArayati#} (c. of {#kf#}). </div><div n="I">II To ravish: {#balAt #}
-<div n="lb"/>{# karoti.#} </div><div n="I">III <div n="xe">{%To take by f., storm:%}</div> <div n="xs">{#balAt gfhRAti,#}</div>
-<div n="lb"/>({#grah,#} c. 9.). </div><div n="I">IV To garrison: q.v. Ph.:
-<div n="lb"/><div n="xe">{%to f. a passage:%}</div> <div n="xs">{#mArgaM sADayati#}</div> (c. of {#siD#}), Vi.
-<div n="lb"/>vi.; {%f. d (fruit, wine, etc.%}): {#*tvaritakAritaH#} ({#tA, #}
-<div n="lb"/>{# taM#}), Comp.s: <div n="xe">{%f. down:%}</div> <div n="xs">{#aDaH#}</div> {#prerayati#} (c. of {#Ir#})
-<div n="lb"/>etc.: <div n="xe">{%f. from or out:%}</div> <div n="xs">{#nizkarzati#}</div> ({#kfz#}): v. To
-<div n="lb"/>extort: <div n="xe">{%f. on or upon:%}</div> <div n="xs">{#balAt kArayati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#yojayati#}</div>
-<div n="lb"/>(c. of {#yuj#}); <div n="xe">{%f. up:%}</div> <div n="xs">{#pracodayati#}</div> (c. of {#cud#}).</div>
+{@FORCE@}¦ (v.): <div n="I">I To compel: q.v.: {#balAt#} {%or%}
+{#balena kArayati#} (c. of {#kf#}). </div><div n="I">II To ravish: {#balAt #}
+{# karoti.#} </div><div n="I">III <div n="xe">{%To take by f., storm:%}</div> <div n="xs">{#balAt gfhRAti,#}</div>
+({#grah,#} c. 9.). </div><div n="I">IV To garrison: q.v. Ph.:
+<div n="xe">{%to f. a passage:%}</div> <div n="xs">{#mArgaM sADayati#}</div> (c. of {#siD#}), Vi.
+vi.; {%f. d (fruit, wine, etc.%}): {#*tvaritakAritaH#} ({#tA, #}
+{# taM#}), Comp.s: <div n="xe">{%f. down:%}</div> <div n="xs">{#aDaH#}</div> {#prerayati#} (c. of {#Ir#})
+etc.: <div n="xe">{%f. from or out:%}</div> <div n="xs">{#nizkarzati#}</div> ({#kfz#}): v. To
+extort: <div n="xe">{%f. on or upon:%}</div> <div n="xs">{#balAt kArayati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#yojayati#}</div>
+(c. of {#yuj#}); <div n="xe">{%f. up:%}</div> <div n="xs">{#pracodayati#}</div> (c. of {#cud#}).</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>10786<pc>340<k1>hearty<k2>hearty
-<div n="lb"/>{@HEARTY:@}¦ <div n="I">I Sincere: q.v.: {#akftrimaH#} ({#mA, maM#}).</div>
-<div n="lb"/><div n="I">II Cordial: </div><div n="1">(1) {#hfdya#} (f. {#dyA#}); </div><div n="1">(2) {#snehanirBaraH.#}
-<div n="lb"/>({#rA, raM#}) (= affectionate). </div><div n="I">III Rich, abun-
-<div n="lb"/>-dant: q.v.: by adv., <div n="xe">{%h. sleep.:%}</div> <div n="xs">{#prakAmaSayitavyam,#}</div>
-<div n="lb"/>Sa. </div><div n="I">IV Sound, firm: q.v.</div>
+{@HEARTY:@}¦ <div n="I">I Sincere: q.v.: {#akftrimaH#} ({#mA, maM#}).</div>
+<div n="I">II Cordial: </div><div n="1">(1) {#hfdya#} (f. {#dyA#}); </div><div n="1">(2) {#snehanirBaraH.#}
+({#rA, raM#}) (= affectionate). </div><div n="I">III Rich, abun-
+-dant: q.v.: by adv., <div n="xe">{%h. sleep.:%}</div> <div n="xs">{#prakAmaSayitavyam,#}</div>
+Sa. </div><div n="I">IV Sound, firm: q.v.</div>
 <LEND>

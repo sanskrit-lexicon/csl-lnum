@@ -1,10 +1,10 @@
 <L>19019<pc>491-b<k1>medical<k2>medical
-<div n="lb"/>MEDICAL¦, {%a.%} {#vEdyaH -dyI -dyaM, vEdyakaH -kI -kaM, vEdyakriyAsambanDI -nDinI#}
-<div n="lb"/>{#-nDi (n), vEdyakasambanDI#} &c., {#vEdyakavizayaH -yA -yaM, cikitsAsambanDI#}
-<div n="lb"/>&c., {#OzaDIyaH -yA -yaM, OzaDopacArasambanDI#} &c., {#BezajaprayogasambanDI#}
-<div n="lb"/>&c., {#AyurvedasambanDI#} &c., {#AyurvedI -dinI#} &c., {#AyurvedamayaH -yI -yaM,#}
-<div n="lb"/>{#vEdyaSAstrIyaH -yA -yaM;#} ‘medical science,’ {#vEdyakaSAstraM, vEdyaSAstraM,#}
-<div n="lb"/>{#AyurvedaH -daM;#} ‘medical treatment,’ {#vEdyopacAraH, OzaDopacAraH,#}
-<div n="lb"/>{#BezajopacAraH, OzaDaprayogaH, BezajaprayogaH;#} ‘medical man,’ {#vEdyaH,#}
-<div n="lb"/>{#cikitsakaH, cikitsAjIvI#} {%m.%} {#AyurvedI#}.
+MEDICAL¦, {%a.%} {#vEdyaH -dyI -dyaM, vEdyakaH -kI -kaM, vEdyakriyAsambanDI -nDinI#}
+{#-nDi (n), vEdyakasambanDI#} &c., {#vEdyakavizayaH -yA -yaM, cikitsAsambanDI#}
+&c., {#OzaDIyaH -yA -yaM, OzaDopacArasambanDI#} &c., {#BezajaprayogasambanDI#}
+&c., {#AyurvedasambanDI#} &c., {#AyurvedI -dinI#} &c., {#AyurvedamayaH -yI -yaM,#}
+{#vEdyaSAstrIyaH -yA -yaM;#} ‘medical science,’ {#vEdyakaSAstraM, vEdyaSAstraM,#}
+{#AyurvedaH -daM;#} ‘medical treatment,’ {#vEdyopacAraH, OzaDopacAraH,#}
+{#BezajopacAraH, OzaDaprayogaH, BezajaprayogaH;#} ‘medical man,’ {#vEdyaH,#}
+{#cikitsakaH, cikitsAjIvI#} {%m.%} {#AyurvedI#}.
 <LEND>

@@ -1,10 +1,10 @@
 <L>9221<pc>216-b<k1>east<k2>east
-<div n="lb"/>EAST¦, EASTERLY, EASTERN, {%a.%} {#prAN prAcI prAk (c) prAcyaH -cyA -cyaM,#}
-<div n="lb"/>{#pUrvvaH -rvvI -rvvaM, prAcInaH -nA -naM, pUrvvadiSyaH -SyA -SyaM, pUrvvadeSAyaH -yA -yaM#}
-<div n="lb"/>{#pUrvvadiksTaH -sTA -sTaM, pUrvvadeSajaH -jA -jaM, pUrvvajaH -jA -jaM;#} ‘facing
-<div n="lb"/>the east,’ {#prANmaKaH -KA -KI -KaM, pUrvvamuKaH -KA -KaM;#} ‘Madhyadesha
-<div n="lb"/>is east of Vinashana,’ {#maDyadeSo vinaSanAt pUrvvaH;#} ‘as far as
-<div n="lb"/>the eastern ocean,’ {#ApUrvvasamudrAt;#} ‘the eastern mountain,’
-<div n="lb"/>{#udayaH, udayagiriH#} {%m.,%} {#udayAcalaH, udayaSElaH, pUrvvaparvvataH, pUrvvAdriH#} {%m.,%}
-<div n="lb"/>{#dinamUrdDA#} {%m.%} {#(n), pUrvvAcalaH#}.
+EAST¦, EASTERLY, EASTERN, {%a.%} {#prAN prAcI prAk (c) prAcyaH -cyA -cyaM,#}
+{#pUrvvaH -rvvI -rvvaM, prAcInaH -nA -naM, pUrvvadiSyaH -SyA -SyaM, pUrvvadeSAyaH -yA -yaM#}
+{#pUrvvadiksTaH -sTA -sTaM, pUrvvadeSajaH -jA -jaM, pUrvvajaH -jA -jaM;#} ‘facing
+the east,’ {#prANmaKaH -KA -KI -KaM, pUrvvamuKaH -KA -KaM;#} ‘Madhyadesha
+is east of Vinashana,’ {#maDyadeSo vinaSanAt pUrvvaH;#} ‘as far as
+the eastern ocean,’ {#ApUrvvasamudrAt;#} ‘the eastern mountain,’
+{#udayaH, udayagiriH#} {%m.,%} {#udayAcalaH, udayaSElaH, pUrvvaparvvataH, pUrvvAdriH#} {%m.,%}
+{#dinamUrdDA#} {%m.%} {#(n), pUrvvAcalaH#}.
 <LEND>

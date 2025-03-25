@@ -1,32 +1,32 @@
 <L>14267<pc>2-0016<k1>kaca<k2>kaca
-{#kaca#}¦ 
-<div n="1"> 1) <lex>m.</lex> 
-<div n="2"> a) {%Haupthaar%} 
-<ls>AK. 2, 6, 2, 46. 3, 4, 25, 166.</ls> 
-<ls>TRIK. 3, 3, 75. 349.</ls> 
-<ls>H. 567. 570. 571. 63.</ls> 
-<ls>an. 2, 56.</ls> 
-<ls>MED. c. 1.</ls> {#kacezu ca nigfhyEtAn#} 
-<ls>MBH. 1, 4982.</ls> {#kacagraha#} 
-<ls>3, 581.</ls> <ls>RAGH. 10, 48. 19, 31.</ls> <ls>ŚUK. 43, 12. 45, 4.</ls> {#kacAnAM cayaH#} 
-<ls>BHARTṚ. 1, 5.</ls> {#kacasaMcaya#} 
-<ls>PAÑCAT. I, 205.</ls> {#saMyatAH kacAH#} 
-<ls>AK. 2, 6, 2, 48.</ls> {#lagnakaca#} 
-<ls>?3, 4, 9, 40. - SUŚR. 2, 14, 3. BHĀG. P. 1, 8, 5. 8, 7, 17.</ls> 
-<div n="2">— b) {%Narbe%} 
-<ls>TRIK. 3, 3, 75.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<div n="2">— c) {%Band%} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— d) {%Wolke%} 
-<ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— e) N. pr. eines Sohnes von <is>Bṛhaspati</is> 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 260.</ls> <ls>MBH. 1, 3193. 3199. 13, 1765.</ls> <ls>RĀJA-TAR. 2, 96.</ls> <ls>BHĀG. P. 9, 18, 22.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#kacA#} 
-<div n="2"> a) {%Elephantenweibchen%} 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— b) {%Glanz, Schönheit%} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
+{#kaca#}¦
+<div n="1"> 1) <lex>m.</lex>
+<div n="2"> a) {%Haupthaar%}
+<ls>AK. 2,6,2,46.</ls> <ls n="AK.">3,4,25,166.</ls>
+<ls>TRIK. 3,3,75.</ls> <ls n="TRIK. 3,3,">349.</ls>
+<ls>H. 567.</ls> <ls n="H.">570.</ls> <ls n="H.">571.</ls> <ls n="H.">63.</ls>
+<ls>an. 2,56.</ls>
+<ls>MED. c. 1.</ls> {#kacezu ca nigfhyEtAn#}
+<ls>MBH. 1,4982.</ls> {#kacagraha#}
+<ls n="MBH.">3,581.</ls> <ls>RAGH. 10,48.</ls> <ls n="RAGH.">19,31.</ls> <ls>ŚUK. 43,12. 45,4.</ls> {#kacAnAM cayaH#}
+<ls>BHARTṚ. 1,5.</ls> {#kacasaMcaya#}
+<ls>PAÑCAT. I,205.</ls> {#saMyatAH kacAH#}
+<ls>AK. 2,6,2,48.</ls> {#lagnakaca#}
+<ls n="AK.">3,4,9,40.</ls> — <ls>SUŚR. 2,14,3.</ls> <ls>BHĀG. P. 1,8,5.</ls> <ls n="BHĀG. P.">8,7,17.</ls>
+<div n="2">— b) {%Narbe%}
+<ls>TRIK. 3,3,75.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<div n="2">— c) {%Band%}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— d) {%Wolke%}
+<ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— e) N. pr. eines Sohnes von <is>Bṛhaspati</is>
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 260.</ls> <ls>MBH. 1,3193.</ls> <ls n="MBH. 1,">3199.</ls> <ls n="MBH.">13,1765.</ls> <ls>RĀJA-TAR. 2,96.</ls> <ls>BHĀG. P. 9,18,22.</ls>
+<div n="1">— 2) <lex>f.</lex> {#kacA#}
+<div n="2"> a) {%Elephantenweibchen%}
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— b) {%Glanz, Schönheit%}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
 <div n="v">— Vgl. {#akaca, utkaca, UrDvakaca, vikaca#} .
 <LEND>

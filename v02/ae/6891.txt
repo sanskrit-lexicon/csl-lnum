@@ -1,20 +1,20 @@
 <L>6891<pc>297<k1>mortal<k2>mortal
 {@Mortal,@}¦ {%s.%} {#martyaH, manuzyaH, martyaDarman, janmin,#}
-<div n="lb"/>{#prARin, SarIrin, dehin,#} all {%m,.%} {#deha-tanu-#}
-<div n="lb"/>{#-Bft, mftyuvaSaH;#} {%See%} {@Man.@} {%-a.%} {#martya, martya-#}
-<div n="lb"/>{#-Darman, maraRaSIla, mftyuvaSa, naSvara, nASa-maraRa-#}
-<div n="lb"/>{#-aDIna, maraRa-kAla-Ayatta, anitya, vinASin;#}
-<div n="lb"/>‘men are m.’ {#manuzyA martyaDarmARaH#}. {@2@} {#prARa-#}
-<div n="lb"/>{#-hara#} ({#rI#} {%f.%}), {#jIvitApaha, prARAMtaka, mArA-#}
-<div n="lb"/>{#-tmaka, marmaBedin, aMtakara#} ({#rI#} {%f.%}), {#prARApaha,#}
-<div n="lb"/>{#prARaGna#} ({#GnI#} {%f.%}), {#maraRAvaha#}. {@3@} {#martya, mAnuza#}
-<div n="lb"/>({#zI#} {%f.%}), {#manuzyaDarman;#} {%See%} {@Human. 4@}
-<div n="lb"/>{#atyaMtadAruRa, atikleSaka;#} ‘m. enemy’
-<div n="lb"/>{#AmaraRAMtavErin#} {%m.,%} {#dfQa-badDa-vEraH#}. {@-ity,@} {%s.%}
-<div n="lb"/>{#martyatA, maraRaSIlatA, mftyuvaSatA, mftyu-maraRa-#}
-<div n="lb"/>{#-DarmaH, kAlaDarmaH, naSvaratA, anityatA#}. {@2@} {#mftyu-#}
-<div n="lb"/>{#-maraRaM, nASaH, jIvitanASaH#} {@3@} {#mAnuzyaM, mAnu-#}
-<div n="lb"/>{#-zatA#} {@-ly,@} {%adv.%} {#saprARanASaM,#} ex. by {%a.;%}
-<div n="lb"/>‘he was m. wounded’ {#tasya prARaharA#}
-<div n="lb"/>{#vraRAH saMjAtAH, BinnamarmA'BUt#}.
+{#prARin, SarIrin, dehin,#} all {%m,.%} {#deha-tanu-#}
+{#-Bft, mftyuvaSaH;#} {%See%} {@Man.@} {%-a.%} {#martya, martya-#}
+{#-Darman, maraRaSIla, mftyuvaSa, naSvara, nASa-maraRa-#}
+{#-aDIna, maraRa-kAla-Ayatta, anitya, vinASin;#}
+‘men are m.’ {#manuzyA martyaDarmARaH#}. {@2@} {#prARa-#}
+{#-hara#} ({#rI#} {%f.%}), {#jIvitApaha, prARAMtaka, mArA-#}
+{#-tmaka, marmaBedin, aMtakara#} ({#rI#} {%f.%}), {#prARApaha,#}
+{#prARaGna#} ({#GnI#} {%f.%}), {#maraRAvaha#}. {@3@} {#martya, mAnuza#}
+({#zI#} {%f.%}), {#manuzyaDarman;#} {%See%} {@Human. 4@}
+{#atyaMtadAruRa, atikleSaka;#} ‘m. enemy’
+{#AmaraRAMtavErin#} {%m.,%} {#dfQa-badDa-vEraH#}. {@-ity,@} {%s.%}
+{#martyatA, maraRaSIlatA, mftyuvaSatA, mftyu-maraRa-#}
+{#-DarmaH, kAlaDarmaH, naSvaratA, anityatA#}. {@2@} {#mftyu-#}
+{#-maraRaM, nASaH, jIvitanASaH#} {@3@} {#mAnuzyaM, mAnu-#}
+{#-zatA#} {@-ly,@} {%adv.%} {#saprARanASaM,#} ex. by {%a.;%}
+‘he was m. wounded’ {#tasya prARaharA#}
+{#vraRAH saMjAtAH, BinnamarmA'BUt#}.
 <LEND>

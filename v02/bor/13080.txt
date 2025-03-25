@@ -1,21 +1,21 @@
 <L>13080<pc>403<k1>know<k2>know
-<div n="lb"/>{@KNOW@}¦ (v.): <div n="1">(1) {#jAnAti, vi-, saM-, pari-, pra-,#} {%or%}
-<div n="lb"/>{#jAnIte#} ({#jYA,#} c. 9 (best equiv.), <div n="xe">{%everybody does%}
-<div n="lb"/>{%not k. everything:%}</div> <div n="xs">{#na hi sarvaH sarvaM jAnAti,#}</div> Mu.; <div n="xe">{%I%}
-<div n="lb"/>{%don't k. how it is propitiated:%}</div> <div n="xs">{#na jAne kaTaM sArADitA #}
-<div n="lb"/>{# Bavati,#}</div> <ls>V.</ls> ; <div n="xe">{%don't you k. she is Chandrarekhā:%}</div> <div n="xs">{#kiM na #}
-<div n="lb"/>{# jAnAsi sA Kalu candrareKeti,#}</div> V. t.; <div n="xe">{%did not k. that%}
-<div n="lb"/>{%a long while had passed:%}</div> <div n="xs">{#mahAntaM kAlamatikrAntaM nAjYA-#}
-<div n="lb"/>{#sIt,#}</div> <ls>K.</ls> ; <div n="xe">{%you k. how to amuse the queen:%}</div> <div n="xs">{#jAnAsi #}
-<div n="lb"/>{# devIM vinodayitum,#}</div> <ls>U.</ls> ; <div n="xe">{%I do not k. any other man%}
-<div n="lb"/>{%except you:%}</div> <div n="xs">{#tvAM vihAya na jAne puruzAntaram,#}</div> H. ii.; </div><div n="1">(2)
-<div n="lb"/>{#vetti#} ({#vid,#} c. 2.), <div n="xe">{%k. me to be (your) husband's%}
-<div n="lb"/>{%friend:%}</div> <div n="xs">{#BarturmitraM mAM vidDi,#}</div> Me.; <div n="xe">{%one who k. s all%}
-<div n="lb"/>{%that is to be k. n.:%}</div> <div n="xs">{#viditasakalaveditavyaH#}</div> ({#vyA, vyaM#})
-<div n="lb"/>V. t.; </div><div n="1">(3) {#avEti#} ({#i#} c. 2.), {%I k. your strength:%}
-<div n="lb"/>{#avEmi te sAram,#} Ku.; </div><div n="1">(4) {#avagacCati#} ({#gam,#} c. 1.)
-<div n="lb"/>(= to find out, understand), {%k. ing the body%}
-<div n="lb"/>{%to be reduced to%} ({%a subject%}) {%of talk%} ({%only%}): {#avagamya #}
-<div n="lb"/>{# kaTIkftaM vapuH,#} <ls>K.</ls> ; </div><div n="1">(5) {#buDyate#} ({#buD,#} c. 4 (= to
-<div n="lb"/>understand: q.v.).</div>
+{@KNOW@}¦ (v.): <div n="1">(1) {#jAnAti, vi-, saM-, pari-, pra-,#} {%or%}
+{#jAnIte#} ({#jYA,#} c. 9 (best equiv.), <div n="xe">{%everybody does%}
+{%not k. everything:%}</div> <div n="xs">{#na hi sarvaH sarvaM jAnAti,#}</div> Mu.; <div n="xe">{%I%}
+{%don't k. how it is propitiated:%}</div> <div n="xs">{#na jAne kaTaM sArADitA #}
+{# Bavati,#}</div> <ls>V.</ls> ; <div n="xe">{%don't you k. she is Chandrarekhā:%}</div> <div n="xs">{#kiM na #}
+{# jAnAsi sA Kalu candrareKeti,#}</div> V. t.; <div n="xe">{%did not k. that%}
+{%a long while had passed:%}</div> <div n="xs">{#mahAntaM kAlamatikrAntaM nAjYA-#}
+{#sIt,#}</div> <ls>K.</ls> ; <div n="xe">{%you k. how to amuse the queen:%}</div> <div n="xs">{#jAnAsi #}
+{# devIM vinodayitum,#}</div> <ls>U.</ls> ; <div n="xe">{%I do not k. any other man%}
+{%except you:%}</div> <div n="xs">{#tvAM vihAya na jAne puruzAntaram,#}</div> H. ii.; </div><div n="1">(2)
+{#vetti#} ({#vid,#} c. 2.), <div n="xe">{%k. me to be (your) husband's%}
+{%friend:%}</div> <div n="xs">{#BarturmitraM mAM vidDi,#}</div> Me.; <div n="xe">{%one who k. s all%}
+{%that is to be k. n.:%}</div> <div n="xs">{#viditasakalaveditavyaH#}</div> ({#vyA, vyaM#})
+V. t.; </div><div n="1">(3) {#avEti#} ({#i#} c. 2.), {%I k. your strength:%}
+{#avEmi te sAram,#} Ku.; </div><div n="1">(4) {#avagacCati#} ({#gam,#} c. 1.)
+(= to find out, understand), {%k. ing the body%}
+{%to be reduced to%} ({%a subject%}) {%of talk%} ({%only%}): {#avagamya #}
+{# kaTIkftaM vapuH,#} <ls>K.</ls> ; </div><div n="1">(5) {#buDyate#} ({#buD,#} c. 4 (= to
+understand: q.v.).</div>
 <LEND>

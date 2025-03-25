@@ -1,6 +1,6 @@
 <L>109097<pc>551,3<k1>nimyakz<k2>ni-myakz<e>1
-<s>ni-√ myakz</s> ¦ <ab>P.</ab> <s>-myakzati</s> (<ab>pf.</ab> 3. <ab>du.</ab> <s>-mimikzatur</s>; 3. <ab>pl.</ab> <s>-mimikzur</s> <ab>Ā.</ab> <s>°kzire</s>), 
-<div n="to"/>to hold, wield (thunderbolt &c.), <ls>RV. vii, 20, 4, viii, 50, 5</ls>;
-<div n="to"/> (<ab>Ā.</ab>) to be contained or present in (<ab>loc.</ab>), <ls>x, 96, 5</ls>;
-<div n="to"/>to be fixed on (<ab>loc.</ab>), i, 64, 4 (read <s>mimikzur</s> for <s>mimfkzur</s>). <info verb="pre" cp="PĀ" parse="ni+myakz"/>
+<s>ni-√ myakz</s> ¦ <ab>P.</ab> <s>-myakzati</s> (<ab>pf.</ab> 3. <ab>du.</ab> <s>-mimikzatur</s>; 3. <ab>pl.</ab> <s>-mimikzur</s> <ab>Ā.</ab> <s>°kzire</s>),
+<div n="to"/>to hold, wield (thunderbolt &c.), <ls>RV. vii, 20, 4</ls>; <ls n="RV.">viii, 50, 5</ls>;
+<div n="to"/> (<ab>Ā.</ab>) to be contained or present in (<ab>loc.</ab>), <ls n="RV.">x, 96, 5</ls>;
+<div n="to"/>to be fixed on (<ab>loc.</ab>), <ls n="RV.">i, 64, 4</ls> (read <s>mimikzur</s> for <s>mimfkzur</s>). <info verb="pre" cp="PĀ" parse="ni+myakz"/>
 <LEND>

@@ -1,53 +1,50 @@
 <L>105452<pc>7-0694<k1>samavAya<k2>samavAya
-{#samavAya#}¦ (von 3. {#i#} mit {#samava#}) <lex>m.</lex> 
-<div n="1"> 1) {%Zusammenkunft, Versammlung: Vereinigung, Verbindung, Gemenge, Aggregat%} 
-<ls>AK. 2, 5, 40. 3, 4, 24, 153.</ls> 
-<ls>H. 1412.</ls> 
-<ls>HALĀY. 4, 1.</ls> {#janasya#} 
-<ls>M. 4, 108.</ls> {#rAjYAm#} 
-<ls>MBH. 1, 125. 4646.</ls> {#samavAyezu sarvezu#} 
-<ls>5605. 5, 8. 13, 4544. 7673.</ls> <ls>HARIV. 2351. 3888.</ls> {#bahUnAmapyasArARAM samavAyo balAvahaH#} 
-<ls>Spr. (II) 4425.</ls> 
-<ls>PRAB. 86, 15.</ls> 
-<ls>BHĀG. P. 4, 12, 47.</ls> {#jana°#} 
-<ls>ŚĀṄKH. GṚHY. 4, 12.</ls> 
-<ls>MṚCCH. 147, 2.</ls> 
-<ls>DAŚAK. 61, 6.</ls> <ls>Verz. d. Oxf. H. 216</ls>, {%a%}, 
-<ls>25. 31.</ls> <ls>BHĀG. P. 6, 9, 33.</ls> <ls>PAÑCAT. 130, 7. 9. 57, 8.</ls> {#vawapippala°#} {%das Zusammenstehen, Sichberühren%} 
-<ls>VARĀH. BṚH. S. 54, 96.</ls> {#svarARAm#}
+{#samavAya#}¦ (von 3. {#i#} mit {#samava#}) <lex>m.</lex>
+<div n="1"> 1) {%Zusammenkunft, Versammlung: Vereinigung, Verbindung, Gemenge, Aggregat%}
+<ls>AK. 2,5,40.</ls> <ls n="AK.">3,4,24,153.</ls>
+<ls>H. 1412.</ls>
+<ls>HALĀY. 4,1.</ls> {#janasya#}
+<ls>M. 4,108.</ls> {#rAjYAm#}
+<ls>MBH. 1,125.</ls> <ls n="MBH. 1,">4646.</ls> {#samavAyezu sarvezu#}
+<ls n="MBH. 1,">5605.</ls> <ls n="MBH.">5,8.</ls> <ls n="MBH.">13,4544.</ls> <ls n="MBH. 13,">7673.</ls> <ls>HARIV. 2351.</ls> <ls n="HARIV.">3888.</ls> {#bahUnAmapyasArARAM samavAyo balAvahaH#}
+<ls>Spr. (II) 4425.</ls>
+<ls>PRAB. 86,15.</ls>
+<ls>BHĀG. P. 4,12,47.</ls> {#jana°#}
+<ls>ŚĀṄKH. GṚHY. 4,12.</ls>
+<ls>MṚCCH. 147,2.</ls>
+<ls>DAŚAK. 61,6.</ls> <ls>Verz. d. Oxf. H. 216,a,25. 31.</ls>
+<ls>BHĀG. P. 6,9,33.</ls> <ls>PAÑCAT. 130,7. 9. 57,8.</ls> {#vawapippala°#} {%das Zusammenstehen, Sichberühren%}
+<ls>VARĀH. BṚH. S. 54,96.</ls> {#svarARAm#}
 [Page7-0695]
-
-<ls>ṚV. PRĀT. 14, 24.</ls> 
-<ls>SUŚR. 1, 4, 1. 31, 12.</ls> {#paryuzitAkaRvodakapizwa°#} {%ein Teig aus Hefe, Wasser und Mehl%} 
-<ls>81, 6. 347, 11.</ls> {#dozARAm#} 
-<ls>2, 442, 17.</ls> <ls>SARVADARŚANAS. 21, 2. 4.</ls> {#miTaH#} 
-<ls>Verz. d. Oxf. H. 104</ls>, {%b%}, 11. {#samavAyaM kar#} {%sich zusammenthun%} 
-<ls>PAÑCAT. ed. Bomb. I, 88, 1.</ls> {#samavAyAMSca kurvate#} {%schaaren sich zusammen%} 
-<ls>MBH. 6, 51.</ls> 
-<ls>R. 6, 11, 37.</ls> {#samavAyena#} {%in Gemeinschaft%} 
-<ls>YĀJÑ. 2, 259.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 90, 11.</ls> 
-<ls>MĀRK. P. 39, 33.</ls> {#samavAyAt#} dass. 
-<ls>PAÑCAT. 81, 24.</ls> {#samavAya#} als Bed. von {#sap#} 
-<ls>DHĀTUP. 11, 6.</ls> 
-<div n="1">— 2) {%eine Conjunction des Mondes mit der Sonne, mit Planeten und Sternen%}: {#SaSino BAskarasya ca#} 
-<ls>MBH. 3, 14272.</ls> {#SaSi°#} 
-<ls>VARĀH. BṚH. S. 18, 8</ls> (pl.). 
-<div n="1">— 3) {%Zusammenstoss, Collision%}: {#samavAye BUyasAM kalpaH#} 
-<ls>LĀṬY. 6, 4, 15.</ls> 
-<ls>ANUPADAS. 4, 6</ls> in <ls>Ind. St. 10, 94.</ls> {#tulya°#} 
-<ls>KĀTY. ŚR. 1, 5, 10. 7, 2. 4, 3, 9.</ls> <ls>Verz. d. Oxf. H. 216</ls>, {%a%}, 
-<ls>?32. KULL. zu M. 2, 117. SARVADARŚANAS. 159, 15.</ls> 
-<div n="1">— 4) {%inniger Zusammenhang, das Ineinandersein, Inhärenz%} (eine der sechs, resp. sieben logischen Kategorien) 
-<ls>KAṆ. 1, 1, 4. 26. 2, 1, 26. 4, 1, 8. 11. 7, 2, 26.</ls> <ls>Verz. d. Oxf. H. 240</ls>, {%a%}, 
-<ls>1 v. u. 259</ls>, {%a%}, 
-<ls>N. 4.</ls> 
-<ls>Ind. St. 1, 18, 1 v. u.</ls> 
-<ls>TARKAS. 1. 11. 57.</ls> <ls>NĪLAK. 93.</ls> <ls>BHĀṢĀP. 1.</ls> <ls>SARVADARŚANAS. 12, 21. 31, 8. fgg. 104, 19. 105, 3. fgg.</ls> <ls>MBH. 1, 2886. 2, 137. 13, 42.</ls> {#tena hyftusamavAyacihnaM pratipadyatAM latA kusumam#} 
-<ls>ŚĀK. 108, 10.</ls> 
-<div n="1">— 5) {%Verlauf, Dauer%}: {#samavAye ca yudDasya rAmasyAgamanam#} so v. a. {%während des Kampfes%} 
-<ls>MBH. 1, 556.</ls> 
-<div n="v">— Vgl. {#saMyukta°#} (auch 
+<ls>ṚV. PRĀT. 14,24.</ls>
+<ls>SUŚR. 1,4,1. 31,12.</ls> {#paryuzitAkaRvodakapizwa°#} {%ein Teig aus Hefe, Wasser und Mehl%}
+<ls n="SUŚR.">81,6. 347,11.</ls> {#dozARAm#}
+<ls n="SUŚR.">2,442,17.</ls> <ls>SARVADARŚANAS. 21,2. 4.</ls> {#miTaH#}
+<ls>Verz. d. Oxf. H. 104,b,11.</ls> {#samavAyaM kar#} {%sich zusammenthun%}
+<ls>PAÑCAT. ed. Bomb. I,88,1.</ls> {#samavAyAMSca kurvate#} {%schaaren sich zusammen%}
+<ls>MBH. 6,51.</ls>
+<ls>R. 6,11,37.</ls> {#samavAyena#} {%in Gemeinschaft%}
+<ls>YĀJÑ. 2,259.</ls>
+<ls>R. GORR. 2,90,11.</ls>
+<ls>MĀRK. P. 39,33.</ls> {#samavAyAt#} dass.
+<ls>PAÑCAT. 81,24.</ls> {#samavAya#} als Bed. von {#sap#}
+<ls>DHĀTUP. 11,6.</ls>
+<div n="1">— 2) {%eine Conjunction des Mondes mit der Sonne, mit Planeten und Sternen%}: {#SaSino BAskarasya ca#}
+<ls>MBH. 3,14272.</ls> {#SaSi°#}
+<ls>VARĀH. BṚH. S. 18,8</ls> (pl.).
+<div n="1">— 3) {%Zusammenstoss, Collision%}: {#samavAye BUyasAM kalpaH#}
+<ls>LĀṬY. 6,4,15.</ls>
+<ls>ANUPADAS. 4,6</ls> in <ls>Ind. St. 10,94.</ls> {#tulya°#}
+<ls>KĀTY. ŚR. 1,5,10. 7,2. 4,3,9.</ls> <ls>Verz. d. Oxf. H. 216,a,32.</ls>
+<ls>KULL.</ls> zu <ls>M. 2,117.</ls> <ls>SARVADARŚANAS. 159,15.</ls>
+<div n="1">— 4) {%inniger Zusammenhang, das Ineinandersein, Inhärenz%} (eine der sechs, resp. sieben logischen Kategorien)
+<ls>KAṆ. 1,1,4. 26. 2,1,26. 4,1,8. 11. 7,2,26.</ls> <ls>Verz. d. Oxf. H. 240,a,1</ls>
+v. u. <ls n="Verz. d. Oxf. H.">259,a,N. 4.</ls>
+<ls>Ind. St. 1,18,1</ls> v. u.
+<ls>TARKAS. 1. 11. 57.</ls> <ls>NĪLAK. 93.</ls> <ls>BHĀṢĀP. 1.</ls> <ls>SARVADARŚANAS. 12,21. 31,8. fgg. 104,19. 105,3. fgg.</ls> <ls>MBH. 1,2886.</ls> <ls n="MBH.">2,137.</ls> <ls n="MBH.">13,42.</ls> {#tena hyftusamavAyacihnaM pratipadyatAM latA kusumam#}
+<ls>ŚĀK. 108,10.</ls>
+<div n="1">— 5) {%Verlauf, Dauer%}: {#samavAye ca yudDasya rAmasyAgamanam#} so v. a. {%während des Kampfes%}
+<ls>MBH. 1,556.</ls>
+<div n="v">— Vgl. {#saMyukta°#} (auch
 <ls>BHĀṢĀP. 58</ls>), {#saMyuktasamaveta°, samAvAya#} und {#sAmavAyika#} .
 <LEND>

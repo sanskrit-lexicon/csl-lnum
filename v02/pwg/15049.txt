@@ -1,40 +1,40 @@
 <L>15049<pc>2-0079<k1>kambu<k2>kambu
-{#kambu#}¦ 
-<div n="1"> 1) <lex>m.</lex> <lex>n.</lex> 
-<ls>TRIK. 3, 5, 9.</ls> {%Muschel%} 
-<ls>AK. 1, 2, 3, 23. 3, 4, 2, 19. 21, 136.</ls> 
-<ls>H. 1204.</ls> 
-<ls>an. 2, 303.</ls> 
-<ls>MED. b. 2</ls> (hier und <ls>H. an.</ls> : = {#SaNKa#} {%Muschel%} und {#SambUka#} {%zweischalige Muschel%}). 
-<ls>BHĀG. P. 4, 7, 20. 9, 4.</ls> {#kambugrIvA#} {%ein muschelförmiger Nacken%} (angeblich mit drei Falten) 
-<ls>AK. 2, 6, 2, 39.</ls> 
-<ls>H. 586.</ls> {#kambugrIva#} <lex>adj.</lex> 
-<ls>MBH. 3, 11690. 17078.</ls> 
-<ls>HIḌ. 2, 19.</ls> 
-<ls>R. 1, 1, 11. 5, 32, 10.</ls> <lex>f.</lex> {#A#} 
-<ls>MBH. 4, 255.</ls> 
-<ls>ŚRUT. 19.</ls> {#kambukaRWI#} 
-<ls>KATHĀS. 4, 7.</ls> {#kambukaMDara#} 
-<ls>BHĀG. P. 4, 21, 17.</ls> {#kambusujAtakaRWa#} 
-<ls>1, 19, 26.</ls> Daher {#kambu = grIvAvila#} (wohl {#grIvAvali#} {%Falte im Nacken%}) 
-<ls>TRIK. 3, 3, 281.</ls> 
-<div n="1">— 2) {%Armband von Muscheln%}: {#kambukeyUraDAriRyaH#} 
-<ls>MBH. 2, 2067. 3, 14694.</ls> {#pinadDakambuH pARiByAm#} 
-<ls>4, 54.</ls> {#pratimucya kuRqale dIrTe ca kambUpari hAwake SuBe#} 
-<ls>296.</ls> {#Amucya kambUpari hAwake SuBe#} 
-<ls>301.</ls> {#suvarRamAlAH kambUMSca kuRqale parihAwake#} 
-<ls>453.</ls> {#kambupARin#} 
-<ls>582.</ls> {#kambu#} <lex>m.</lex> = {%Armband%} 
-<ls>AK. 3, 4, 21, 136.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<div n="1">— 3) <lex>m.</lex> {%Elephant%} 
-<ls>TRIK. 3, 3, 281.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> Vgl. {#kamboja#} . 
-<div n="1">— 4) <lex>m.</lex> {%Hals.%} 
-<div n="1">— 5) <lex>m.</lex> {%ein röhrenförmiger Knochen%} ({#nalaka#}). 
-<div n="1">— 6) <lex>m.</lex> = {#karcUra#} 
-(<ls>ŚKDR.</ls> {#karbUravarRa#}; vgl. {#karbu#}) 
+{#kambu#}¦
+<div n="1"> 1) <lex>m.</lex> <lex>n.</lex>
+<ls>TRIK. 3,5,9.</ls> {%Muschel%}
+<ls>AK. 1,2,3,23.</ls> <ls n="AK.">3,4,2,19.</ls> <ls n="AK. 3,4,">21,136.</ls>
+<ls>H. 1204.</ls>
+<ls>an. 2,303.</ls>
+<ls>MED. b. 2</ls> (hier und <ls>H. an.</ls> : = {#SaNKa#} {%Muschel%} und {#SambUka#} {%zweischalige Muschel%}).
+<ls>BHĀG. P. 4,7,20.</ls> <ls n="BHĀG. P. 4,">9,4.</ls> {#kambugrIvA#} {%ein muschelförmiger Nacken%} (angeblich mit drei Falten)
+<ls>AK. 2,6,2,39.</ls>
+<ls>H. 586.</ls> {#kambugrIva#} <lex>adj.</lex>
+<ls>MBH. 3,11690.</ls> <ls n="MBH. 3,">17078.</ls>
+<ls>HIḌ. 2,19.</ls>
+<ls>R. 1,1,11.</ls> <ls n="R.">5,32,10.</ls> <lex>f.</lex> {#A#}
+<ls>MBH. 4,255.</ls>
+<ls>ŚRUT. 19.</ls> {#kambukaRWI#}
+<ls>KATHĀS. 4,7.</ls> {#kambukaMDara#}
+<ls>BHĀG. P. 4,21,17.</ls> {#kambusujAtakaRWa#}
+<ls n="BHĀG. P.">1,19,26.</ls> Daher {#kambu = grIvAvila#} (wohl {#grIvAvali#} {%Falte im Nacken%})
+<ls>TRIK. 3,3,281.</ls>
+<div n="1">— 2) {%Armband von Muscheln%}: {#kambukeyUraDAriRyaH#}
+<ls>MBH. 2,2067.</ls> <ls n="MBH.">3,14694.</ls> {#pinadDakambuH pARiByAm#}
+<ls n="MBH.">4,54.</ls> {#pratimucya kuRqale dIrTe ca kambUpari hAwake SuBe#}
+<ls n="MBH. 4,">296.</ls> {#Amucya kambUpari hAwake SuBe#}
+<ls n="MBH. 4,">301.</ls> {#suvarRamAlAH kambUMSca kuRqale parihAwake#}
+<ls n="MBH. 4,">453.</ls> {#kambupARin#}
+<ls n="MBH. 4,">582.</ls> {#kambu#} <lex>m.</lex> = {%Armband%}
+<ls>AK. 3,4,21,136.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<div n="1">— 3) <lex>m.</lex> {%Elephant%}
+<ls>TRIK. 3,3,281.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> Vgl. {#kamboja#} .
+<div n="1">— 4) <lex>m.</lex> {%Hals.%}
+<div n="1">— 5) <lex>m.</lex> {%ein röhrenförmiger Knochen%} ({#nalaka#}).
+<div n="1">— 6) <lex>m.</lex> = {#karcUra#}
+(<ls>ŚKDR.</ls> {#karbUravarRa#}; vgl. {#karbu#})
 <ls>H. an.</ls>
 <LEND>

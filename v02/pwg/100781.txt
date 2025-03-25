@@ -1,33 +1,33 @@
 <L>100781<pc>7-0292<k1>Sfta<k2>Sfta/
-{#Sfta/#}¦ (partic. von {#Sar = SrA#}) 
-<div n="1"> 1) <lex>adj.</lex> {%gekocht%} 
-<ls>P. 6, 1, 27.</ls> 
-<ls>VOP. 26, 111.</ls> 
-<ls>AK. 3, 2, 45.</ls> 
-<ls>H. 1485.</ls> 
-<ls>HALĀY. 2, 121. 261.</ls> 
-<ls>ŚAT. BR. 1, 2, 2, 14. 16. 5, 26. 3, 8, 3, 6.</ls> {#svayaM°#} 
-<ls>7, 3, 1, 26.</ls> {#mAMsa#} 
-<ls>MBH. 3, 2941.</ls> {#kroDena tajjalaM tasya sarvaM SftamivABavat#} 
-<ls>HARIV. 3659.</ls> {#payas#} 
-<ls>8447</ls> ({#sfta#} die ältere Ausg.). 
-<ls>R. 2, 56, 24</ls>
+{#Sfta/#}¦ (partic. von {#Sar = SrA#})
+<div n="1"> 1) <lex>adj.</lex> {%gekocht%}
+<ls>P. 6,1,27.</ls>
+<ls>VOP. 26,111.</ls>
+<ls>AK. 3,2,45.</ls>
+<ls>H. 1485.</ls>
+<ls>HALĀY. 2,121. 261.</ls>
+<ls>ŚAT. BR. 1,2,2,14. 16. 5,26. 3,8,3,6.</ls> {#svayaM°#}
+<ls n="ŚAT. BR.">7,3,1,26.</ls> {#mAMsa#}
+<ls>MBH. 3,2941.</ls> {#kroDena tajjalaM tasya sarvaM SftamivABavat#}
+<ls>HARIV. 3659.</ls> {#payas#}
+<ls n="HARIV.">8447</ls> ({#sfta#} die ältere Ausg.).
+<ls>R. 2,56,24</ls>
 [Page7-0293]
-({#Srita#} 
-<ls>SCHL.</ls> und ed. Bomb.; {#Sfta#} ed. 
-<ls>GORR. 26). 3, 1, 24.</ls> <ls>SUŚR. 1, 161, 16.</ls> <ls>VARĀH. BṚH. S. 54, 113. 55, 23. 76, 4. fgg.</ls> (überall 
-v. l. {#Srita#}). 
-<ls>BHĀG. P. 8, 16. 52.</ls> {#payasi#} {%in Milch%} 
-<ls>40.</ls> {#payaHSftena cAruRA#} 
-<ls>6, 19, 21.</ls> {#SaNKapuzpISftaM payaH#} 
-<ls>M. 11, 147.</ls> {#a°#} 
-<ls>RATNAM.</ls> im <ls>ŚKDR.</ls> <ls>ŚAT. BR. 1, 7, 3, 27. 3, 8, 1, 7. 3, 6. 4, 5, 2, 16. 11, 4, 4, 4.</ls> {#su°#} 
-<ls>R. GORR. 2, 56, 25.</ls> <ls>BHĀG. P. 10, 9, 7.</ls> <ls>PAÑCAR. 3, 8, 12.</ls> {#suSftaM pAyase brUyAdyavAgvAM kfsare taTA#} 
-<ls>MBH. 12, 7054.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%Gekochtes%}, speciell {%gekochte Milch%}: {#Sf\tena^ prAtaHsava\ne SrI^RIyAt da\DnA ma\DyaMdine^#} 
-<ls>TBR. 1, 4, 8, 6.</ls> 
-<ls>ŚAT. BR. 1, 6, 4, 7. 3, 3, 3, 2.</ls> 
-<ls>KĀTY. ŚR. 4, 4, 8.</ls> 
-<ls>ĀŚV. ŚR. 6, 8, 10.</ls> 
-<ls>PAÑCAV. BR. 9, 5, 5.</ls>
+({#Srita#}
+<ls>SCHL.</ls> und <ls>ed. Bomb.</ls>; {#Sfta#} ed.
+GORR. <ls n="GORR. 2,56,">26</ls>). <ls n="R.">3,1,24.</ls> <ls>SUŚR. 1,161,16.</ls> <ls>VARĀH. BṚH. S. 54,113. 55,23. 76,4. fgg.</ls> (überall
+v. l. {#Srita#}).
+<ls>BHĀG. P. 8,16,52.</ls> {#payasi#} {%in Milch%}
+<ls n="BHĀG. P. 8,16,">40.</ls> {#payaHSftena cAruRA#}
+<ls n="BHĀG. P.">6,19,21.</ls> {#SaNKapuzpISftaM payaH#}
+<ls>M. 11,147.</ls> {#a°#}
+<ls>RATNAM.</ls> im <ls>ŚKDR.</ls> <ls>ŚAT. BR. 1,7,3,27. 3,8,1,7. 3,6. 4,5,2,16. 11,4,4,4.</ls> {#su°#}
+<ls>R. GORR. 2,56,25.</ls> <ls>BHĀG. P. 10,9,7.</ls> <ls>PAÑCAR. 3,8,12.</ls> {#suSftaM pAyase brUyAdyavAgvAM kfsare taTA#}
+<ls>MBH. 12,7054.</ls>
+<div n="1">— 2) <lex>n.</lex> {%Gekochtes%}, speciell {%gekochte Milch%}: {#Sf\tena^ prAtaHsava\ne SrI^RIyAt da\DnA ma\DyaMdine^#}
+<ls>TBR. 1,4,8,6.</ls>
+<ls>ŚAT. BR. 1,6,4,7.</ls> <ls n="ŚAT. BR.">3,3,3,2.</ls>
+<ls>KĀTY. ŚR. 4,4,8.</ls>
+<ls>ĀŚV. ŚR. 6,8,10.</ls>
+<ls>PAÑCAV. BR. 9,5,5.</ls>
 <LEND>

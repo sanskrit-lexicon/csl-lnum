@@ -1,5 +1,5 @@
 <L>404<pc>016<k1>affirmative<k2>affirmative
-<div n="lb"/>{@AFFIRMATIVE@}¦ (subs).: Ph. <div n="xe">{%‘yes’ is an a.%}</div> <div n="xs">{#aTa kiM #}
-<div n="lb"/>{# svIkAre;#}</div> <div n="xe">{%one maintains the a., the other the%}
-<div n="lb"/>{%negative%}</div> <div n="xs">{#eko'stitvamaparo nAstitvaM bravIti.#}</div>
+{@AFFIRMATIVE@}¦ (subs).: Ph. <div n="xe">{%‘yes’ is an a.%}</div> <div n="xs">{#aTa kiM #}
+{# svIkAre;#}</div> <div n="xe">{%one maintains the a., the other the%}
+{%negative%}</div> <div n="xs">{#eko'stitvamaparo nAstitvaM bravIti.#}</div>
 <LEND>

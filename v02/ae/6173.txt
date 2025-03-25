@@ -1,5 +1,5 @@
 <L>6173<pc>258<k1>lexicon<k2>lexicon
 {@Lexicon,@}¦ {%s.%} {#koSaH-zaH; aBiDAnaM, SabdasaMgrahaH-#}
-<div n="lb"/>{#-koSaH, niGaMwuH#}. {@-Lexicographer,@} {%s.%} {#ko-#}
-<div n="lb"/>{#-SakAraH#}. {@-Lexicography,@} {%s.%} {#koSaracanA#}.
+{#-koSaH, niGaMwuH#}. {@-Lexicographer,@} {%s.%} {#ko-#}
+{#-SakAraH#}. {@-Lexicography,@} {%s.%} {#koSaracanA#}.
 <LEND>

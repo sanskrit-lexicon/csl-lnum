@@ -1,3 +1,3 @@
 <L>144224<pc>727,2<k1>bahrAmaKAna<k2>bahrAmaKAna<e>1
-<s>bahrAmaKAna</s> ¦ <lex>m.</lex> = <lang script="Arabic" n="Persian">بهرام</lang> <lang script="Arabic" n="Turkish">خان</lang><info lex="m"/>
+<s>bahrAmaKAna</s> ¦ <lex>m.</lex> = <arab lang="Persian">بهرام</arab> <arab lang="Turkish">خان</arab><info lex="m"/>
 <LEND>

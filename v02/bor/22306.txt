@@ -1,6 +1,6 @@
 <L>22306<pc>703<k1>ten<k2>ten
-<div n="lb"/>{@TEN:@}¦ {#daSan#} (mfn.), <div n="xe">{%t.-armed:%}</div> <div n="xs">{#daSaBujaH#}</div> ({#jA, jaM#});
-<div n="lb"/><div n="xe">{%twice t.:%}</div> <div n="xs">{#dvidaSAH;#}</div> <div n="xe">{%in t. ways:%}</div> <div n="xs">{#daSaGA;#}</div> {%t. times:%}
-<div n="lb"/>{#daSakftvaH, daSavArAn;#} <div n="xe">{%in the t. quarters:%}</div> <div n="xs">{#daSasu dikzu#}</div>
-<div n="lb"/>R. viii. 29.
+{@TEN:@}¦ {#daSan#} (mfn.), <div n="xe">{%t.-armed:%}</div> <div n="xs">{#daSaBujaH#}</div> ({#jA, jaM#});
+<div n="xe">{%twice t.:%}</div> <div n="xs">{#dvidaSAH;#}</div> <div n="xe">{%in t. ways:%}</div> <div n="xs">{#daSaGA;#}</div> {%t. times:%}
+{#daSakftvaH, daSavArAn;#} <div n="xe">{%in the t. quarters:%}</div> <div n="xs">{#daSasu dikzu#}</div>
+R. viii. 29.
 <LEND>

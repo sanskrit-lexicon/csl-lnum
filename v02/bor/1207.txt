@@ -1,8 +1,8 @@
 <L>1207<pc>043<k1>assassinate<k2>assassinate
-<div n="lb"/>{@ASSASSINATE:@}¦ <div n="1">(1) {#GAtayati#} (c. of {#han#}), <div n="xe">{%or%}</div> <div n="xs">{#mArayati#}</div>
-<div n="lb"/>(c. of {#mf#}), <div n="xe">{%or%}</div> <div n="xs">{#vaDaM#}</div> <div n="xe">{%or%}</div> <div n="xs">{#hatyAM karoti#}</div> (with gen.)
-<div n="lb"/>(=to kill, murder); </div><div n="1">(2) {#upAMSu#} <div n="xe">{%or%}</div> <div n="xs">{#niBftaM#}</div> {%or%}
-<div n="lb"/>{#gopanena vaDaM karoti#} etc. (=to kill by secret
-<div n="lb"/>assault); </div><div n="1">(3) {#avaskandya vaDaM karoti#} <div n="xe">{%or%}</div> <div n="xs">{#GAtayati#}</div>
-<div n="lb"/>(=to kill by surprise).</div>
+{@ASSASSINATE:@}¦ <div n="1">(1) {#GAtayati#} (c. of {#han#}), <div n="xe">{%or%}</div> <div n="xs">{#mArayati#}</div>
+(c. of {#mf#}), <div n="xe">{%or%}</div> <div n="xs">{#vaDaM#}</div> <div n="xe">{%or%}</div> <div n="xs">{#hatyAM karoti#}</div> (with gen.)
+(=to kill, murder); </div><div n="1">(2) {#upAMSu#} <div n="xe">{%or%}</div> <div n="xs">{#niBftaM#}</div> {%or%}
+{#gopanena vaDaM karoti#} etc. (=to kill by secret
+assault); </div><div n="1">(3) {#avaskandya vaDaM karoti#} <div n="xe">{%or%}</div> <div n="xs">{#GAtayati#}</div>
+(=to kill by surprise).</div>
 <LEND>

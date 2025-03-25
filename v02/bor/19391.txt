@@ -1,6 +1,6 @@
 <L>19391<pc>602<k1>risk<k2>risk
-<div n="lb"/>{@RISK:@}¦ <div n="I">I Subs.: {#saNkawam:#} v. Danger, peril.</div>
-<div n="lb"/><div n="I">II Verb.: </div><div n="1">(1) {#saMSaye, sandehe#} <div n="xe">{%or%}</div> <div n="xs">{#saNkawe kzipati, ni-,#}</div>
-<div n="lb"/>({#kzip,#} c. 6.), etc.: </div><div n="1">(2) {#saMSayasTaM#} (f. {#sTAM#}),
-<div n="lb"/>etc. {#karoti.#}</div>
+{@RISK:@}¦ <div n="I">I Subs.: {#saNkawam:#} v. Danger, peril.</div>
+<div n="I">II Verb.: </div><div n="1">(1) {#saMSaye, sandehe#} <div n="xe">{%or%}</div> <div n="xs">{#saNkawe kzipati, ni-,#}</div>
+({#kzip,#} c. 6.), etc.: </div><div n="1">(2) {#saMSayasTaM#} (f. {#sTAM#}),
+etc. {#karoti.#}</div>
 <LEND>

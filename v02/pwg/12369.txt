@@ -1,25 +1,22 @@
 <L>12369<pc>1-0993<k1>uB<k2>uB
-{#uB#}¦, {#umBa/ti, umBa/ti#} 
-<ls>DHĀTUP. 28, 32</ls> ({#pUraRe#}). 
-<ls>P. 7, 1, 59, <is>Vārtt</is>.</ls> 
-<ls>VOP. 13, 4.</ls> {#uBnA/ti, unapti#} (imperf. {#unap); ubDa/#}; 
-<div n="1"> 1) {%zusammenhalten; in Verschluss halten%}: {#df\|AnyO^BnAdu\SamA^na\ oja^H#} 
-<ls>ṚV. 4, 19, 4.</ls> {#vf\traM yadva^jrinnu\BnAH#} 
-<ls n="ṚV.">1, 63, 4.</ls> {#df\Dramu\bDaM gA ye^mA\naM pari\ zanta\madri^m#} 
-<ls n="ṚV.">4, 1, 15.</ls> 
-<div n="1">— 2) {%bedecken%}: {#kAkutsTamOmBattIkzREH SilImuKEH#} 
-<ls>BHAṬṬ. 17, 88.</ls>
-
-<div n="p">— {#apa#} {%binden, fesseln%}: {#naya^tA\mUnmf^tyudUtA\ yama^dUtA\ apo^mBata#} 
-<ls>AV. 8, 8, 11.</ls> {#dAmnApO^Ba\nsa vA ezopo^bDo jAyate#} 
-<ls>TS. 2, 4, 13, 1.</ls>
-
-<div n="p">— {#pra#} {%binden%}: {#ajAM vA proBya#} 
-<ls>ŚĀṄKH. GṚHY. 4, 14, 13.</ls>
-
-<div n="p">— {#sam#} {%zusammenhalten; zuschliessen, zudecken%}: {#a\ra\jjO dasyU\nsamu^nap#} 
-<ls>ṚV. 2, 13, 9.</ls> {#ku\mA\raM mA\tA yu^va\tiH samu^bDa\M guhA^ biBarti#} 
-<ls n="ṚV.">5, 2, 1.</ls> {#uBO samubDO BavataH#} 
-<ls>NIR. 4, 4.</ls> {#na mA^ garanna\dyo mA\tfta^mA dA\sA yadI\M susa^mubDama\vADu^H#} 
-<ls>ṚV. 1, 158, 5.</ls>
+{#uB#}¦, {#umBa/ti, umBa/ti#}
+<ls>DHĀTUP. 28,32</ls> ({#pUraRe#}).
+<ls>P. 7,1,59</ls>, <is>Vārtt</is>.
+<ls>VOP. 13,4.</ls> {#uBnA/ti, unapti#} (imperf. {#unap); ubDa/#};
+<div n="1"> 1) {%zusammenhalten; in Verschluss halten%}: {#df\|AnyO^BnAdu\SamA^na\ oja^H#}
+<ls>ṚV. 4,19,4.</ls> {#vf\traM yadva^jrinnu\BnAH#}
+<ls n="ṚV.">1,63,4.</ls> {#df\Dramu\bDaM gA ye^mA\naM pari\ zanta\madri^m#}
+<ls n="ṚV.">4,1,15.</ls>
+<div n="1">— 2) {%bedecken%}: {#kAkutsTamOmBattIkzREH SilImuKEH#}
+<ls>BHAṬṬ. 17,88.</ls>
+<div n="p">— {#apa#} {%binden, fesseln%}: {#naya^tA\mUnmf^tyudUtA\ yama^dUtA\ apo^mBata#}
+<ls>AV. 8,8,11.</ls> {#dAmnApO^Ba\nsa vA ezopo^bDo jAyate#}
+<ls>TS. 2,4,13,1.</ls>
+<div n="p">— {#pra#} {%binden%}: {#ajAM vA proBya#}
+<ls>ŚĀṄKH. GṚHY. 4,14,13.</ls>
+<div n="p">— {#sam#} {%zusammenhalten; zuschliessen, zudecken%}: {#a\ra\jjO dasyU\nsamu^nap#}
+<ls>ṚV. 2,13,9.</ls> {#ku\mA\raM mA\tA yu^va\tiH samu^bDa\M guhA^ biBarti#}
+<ls n="ṚV.">5,2,1.</ls> {#uBO samubDO BavataH#}
+<ls>NIR. 4,4.</ls> {#na mA^ garanna\dyo mA\tfta^mA dA\sA yadI\M susa^mubDama\vADu^H#}
+<ls>ṚV. 1,158,5.</ls>
 <LEND>

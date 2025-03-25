@@ -1,14 +1,12 @@
 <L>66884<pc>363,3<k1>go<k2>go/<e>1
 <s>go/</s> ¦ <s>gO/s</s> (<ab>acc.</ab> <s>gA/m</s> <ab>instr.</ab> <s>ga/vA</s> <ab>dat.</ab> <s>ga/ve</s>, <ab>gen.</ab> <ab>abl.</ab> <s>go/s</s> <ab>loc.</ab> <s>ga/vi</s>;
-<ab>du.</ab> <s>gA/vA</s> [Ved.], <s>gA/vO</s>;
-<ab>pl.</ab> <ab>nom.</ab> <s>gA/vas</s> <ab>acc.</ab> <s>gA/s</s> [rarely <s>gA/vas</s>, <ls>TBr. iii</ls>;
-<ls>TUp.</ls>;
-<ls>MBh. iv, 1506</ls>;
-<ls>R. ii</ls>] <ab>instr.</ab> <s>go/Bis</s> <ab>dat.</ab> <ab>abl.</ab> <s>go/Byas</s>, <ab>gen.</ab> <s>ga/vAm</s> [once at the end of a <s1 slp1="pAda">Pāda</s1>, <ls>RV. iv, 1, 19</ls>] and [in, <ls>RV.</ls> at the end of <s1 slp1="pAda">Pāda</s1>s only <ab>cf.</ab> <ls>Pāṇ. 7-1, 57</ls>] <s>go/nAm</s> <ab>loc.</ab> <s>go/zu</s>) <lex>m.</lex> an ox <lex type="hw">f.</lex> a cow, (<ab>pl.</ab>) cattle, kine, herd of cattle, <ls>RV.</ls> &c. (in <ab>comp.</ab> before vowels [<ab>cf.</ab> <ls>Pāṇ. 6-1, 122 ff.</ls>] <s>gav</s>, <s>gava</s>, <ab>qq.vv.</ab>;
+<ab>du.</ab> <s>gA/vA</s> [<lang>Ved.</lang>], <s>gA/vO</s>;
+<ab>pl.</ab> <ab>nom.</ab> <s>gA/vas</s> <ab>acc.</ab> <s>gA/s</s>
+[rarely <s>gA/vas</s>, <ls>TBr. iii</ls>; <ls>TUp.</ls>; <ls>MBh. iv, 1506</ls>; <ls>R. ii</ls>]
+<ab>instr.</ab> <s>go/Bis</s> <ab>dat.</ab> <ab>abl.</ab> <s>go/Byas</s>, <ab>gen.</ab> <s>ga/vAm</s> [once at the end of a <s1>Pāda</s1>, <ls>RV. iv, 1, 19</ls>] and [in <ls>RV.</ls> at the end of <s1>Pāda</s1>s only, <ab>cf.</ab> <ls>Pāṇ. vii, 1, 57</ls>] <s>go/nAm</s> <ab>loc.</ab> <s>go/zu</s>) <lex>m.</lex> an ox <lex type="hw">f.</lex> a cow, (<ab>pl.</ab>) cattle, kine, herd of cattle, <ls>RV.</ls> &c. (in <ab>comp.</ab> before vowels [<ab>cf.</ab> <ls>Pāṇ. vi, 1, 122 ff.</ls>] <s>gav</s>, <s>gava</s>, <ab>qq.vv.</ab>;
 <ab>cf.</ab> also <s>gavAm</s>, <s>gavi</s>, <s>gAM</s> <ab>ss.vv.</ab>;
-<s>gavAM vrata</s> <ab>N.</ab> of a <s1 slp1="sAman">Sāman</s1>;
-<s>gavAM tIrTa</s> See <s>go t°</s>;
-<s>go/zu-√ gam</s>, to set out for a battle [to conquer cows] <ls>RV. ii, 25, 4;
-v, 45, 9;
-viii, 71, 5</ls>)<info lex="m:f"/>
+<s>gavAM vrata</s>, <ab>N.</ab> of a <s1>Sāman</s1>;
+<s>gavAM tIrTa</s>, see <s>go t°</s>;
+<s>go/zu-√ gam</s>, to set out for a battle [to conquer cows] <ls>RV. ii, 25, 4</ls>; <ls n="RV.">v, 45, 9</ls>; <ls n="RV.">viii, 71, 5</ls>)
+<info lex="m:f"/>
 <LEND>

@@ -1,4 +1,4 @@
 <L>340<pc>013<k1>advancement<k2>advancement
-<div n="lb"/>{@ADVANCEMENT:@}¦ <div n="1">(1) {#unnatiH.#} </div><div n="1">(2) {#aByudayaH:#} v.
-<div n="lb"/>Promotion.</div>
+{@ADVANCEMENT:@}¦ <div n="1">(1) {#unnatiH.#} </div><div n="1">(2) {#aByudayaH:#} v.
+Promotion.</div>
 <LEND>

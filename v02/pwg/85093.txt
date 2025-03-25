@@ -1,1043 +1,985 @@
 <L>85093<pc>6-0406<k1>ruh<k2>ruh<h>1
-1. {#ruh#}¦, {#ro/hati#} ({#bIjajanmani prAdurBAve ca#}) 
-<ls>DHĀTUP. 20, 29.</ls> {#ruroha, rurohiTa; arukzat#} und {#aruhat#} (ved. und episch 
-<ls>P. 3, 1, 59</ls>), {#ruheyam, AruheTAs#} (
-<ls>MBH. 3, 12776</ls>), {#aDyAruhemahi#} (
-<ls>MBH. 9, 277</ls>), {#Aruhasva#} (
-<ls>HARIV. 6306</ls>), {#ru/hARa; rokzyati#} und {#roQA#} 
-<ls>?<is>Kār</is>. 6 aus SIDDH. K. zu P. 7, 2, 10.</ls> {#Arohizye#} 
-<ls>MBH. 13, 539</ls>; {#rUQvA, roQum, rohitum#} ep., {#rohizyE#} 
-ved. <ls>P. 3, 4, 10.</ls> {#rUQa#}; med. aus metrischen Rücksichten. 
-<div n="1"> 1) {%ersteigen, erklimmen%}: {#dyAmi^va rohati#} 
-<ls>ṚV. 8, 41, 8.</ls> <ls n="ṚV. 8,">61, 4.</ls> <ls n="ṚV.">1, 110, 6.</ls> {#di\vo rohA^MsyaruhatpfTi\vyAH#} 
-<ls n="ṚV.">6, 71, 5.</ls> {#ruho^ ruroha\ rohi^taH#} 
-<ls>AV. 13, 3, 26.</ls> 
-<ls>VS. 12, 103.</ls> 
-<ls>AIT. BR. 1, 5.</ls> {#yUpam#} 
-<ls>ŚAT. BR. 5, 1, 5, 2.</ls> {#vfkzam#} 
-<ls>9, 3, 3, 6.</ls> <ls>ĀŚV. ŚR. 11, 3, 7.</ls> {#rUQaparicCadAH#} so v. a. {%aufgeladen%} 
-<ls>BHĀG. P. 10, 11, 29.</ls> {%erklimmen%} so v. a. {%erreichen%}: {#kAmam#} 
-<ls>ŚAT. BR. 2, 1, 2, 7.</ls> {#mano\ ruhA^RAH#} etwa {%ihren Willen erreichend%} 
-<ls>ṚV. 1, 32, 8.</ls> 
-<div n="1">— 2) (in die Höhe) {%wachsen%}: {#va\yA i^va ruruhuH sa\pta vi\sruha^H#} 
-<ls>ṚV. 6, 7, 6.</ls> <ls n="ṚV.">10, 16, 13.</ls> {#yaTA\ bIja^mu\rvarA^yA\M roha^ti#} 
-<ls>AV. 10, 6, 33. 8, 7, 17.</ls> {#tri\BiH kARqE\strInsva\rgAna^rukzat#} 
-<ls>12, 3, 42.</ls> <ls>ŚAT. BR. 14, 6, 9, 33.</ls> {#yaTA sasyAni rohanti prakIrRARi mahItale#} 
-<ls>MBH. 13, 3149.</ls> {#Cinno hi rohati taruH#} 
-<ls>Spr. 925. 3808.</ls> {#tataH sasyAni nAruhan#} 
-<ls>MBH. 1, 6623.</ls> {#rohate - vanaM paraSunA hatam#} 
-<ls>Spr. 2647.</ls> {#rohate sasyam#} 
-<ls>VARĀH. BṚH. S. 54, 95.</ls> {#na cApi sarvabIjAni samyagrohanti#} 
-<ls>MBH. 3, 12855. 5, 386.</ls> {#yaTozare bIjamuptaM na rohet#} 
-<ls>13,4314. </ls> <ls>Spr. 2469. 4378.</ls> <ls>BHĀG. P. 6, 16, 39.</ls>
+1. {#ruh#}¦, {#ro/hati#} ({#bIjajanmani prAdurBAve ca#})
+<ls>DHĀTUP. 20,29.</ls> {#ruroha, rurohiTa; arukzat#} und {#aruhat#} (ved. und episch
+<ls>P. 3,1,59</ls>), {#ruheyam, AruheTAs#} (
+<ls>MBH. 3,12776</ls>), {#aDyAruhemahi#} (
+<ls>MBH. 9,277</ls>), {#Aruhasva#} (
+<ls>HARIV. 6306</ls>), {#ru/hARa; rokzyati#} und {#roQA#}
+<ls><is>Kār.</is> 6</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7,2,10.</ls> {#Arohizye#}
+<ls>MBH. 13,539</ls>; {#rUQvA, roQum, rohitum#} ep., {#rohizyE#}
+ved. <ls>P. 3,4,10.</ls> {#rUQa#}; med. aus metrischen Rücksichten.
+<div n="1"> 1) {%ersteigen, erklimmen%}: {#dyAmi^va rohati#}
+<ls>ṚV. 8,41,8.</ls> <ls n="ṚV. 8,">61,4.</ls> <ls n="ṚV.">1,110,6.</ls> {#di\vo rohA^MsyaruhatpfTi\vyAH#}
+<ls n="ṚV.">6,71,5.</ls> {#ruho^ ruroha\ rohi^taH#}
+<ls>AV. 13,3,26.</ls>
+<ls>VS. 12,103.</ls>
+<ls>AIT. BR. 1,5.</ls> {#yUpam#}
+<ls>ŚAT. BR. 5,1,5,2.</ls> {#vfkzam#}
+<ls n="ŚAT. BR.">9,3,3,6.</ls> <ls>ĀŚV. ŚR. 11,3,7.</ls> {#rUQaparicCadAH#} so v. a. {%aufgeladen%}
+<ls>BHĀG. P. 10,11,29.</ls> {%erklimmen%} so v. a. {%erreichen%}: {#kAmam#}
+<ls>ŚAT. BR. 2,1,2,7.</ls> {#mano\ ruhA^RAH#} etwa {%ihren Willen erreichend%}
+<ls>ṚV. 1,32,8.</ls>
+<div n="1">— 2) (in die Höhe) {%wachsen%}: {#va\yA i^va ruruhuH sa\pta vi\sruha^H#}
+<ls>ṚV. 6,7,6.</ls> <ls n="ṚV.">10,16,13.</ls> {#yaTA\ bIja^mu\rvarA^yA\M roha^ti#}
+<ls>AV. 10,6,33.</ls> <ls n="AV.">8,7,17.</ls> {#tri\BiH kARqE\strInsva\rgAna^rukzat#}
+<ls n="AV.">12,3,42.</ls> <ls>ŚAT. BR. 14,6,9,33.</ls> {#yaTA sasyAni rohanti prakIrRARi mahItale#}
+<ls>MBH. 13,3149.</ls> {#Cinno hi rohati taruH#}
+<ls>Spr. 925.</ls> <ls n="Spr.">3808.</ls> {#tataH sasyAni nAruhan#}
+<ls>MBH. 1,6623.</ls> {#rohate — vanaM paraSunA hatam#}
+<ls>Spr. 2647.</ls> {#rohate sasyam#}
+<ls>VARĀH. BṚH. S. 54,95.</ls> {#na cApi sarvabIjAni samyagrohanti#}
+<ls>MBH. 3,12855.</ls> <ls n="MBH.">5,386.</ls> {#yaTozare bIjamuptaM na rohet#}
+<ls n="MBH.">13,4314.</ls> <ls>Spr. 2469.</ls> <ls n="Spr.">4378.</ls> <ls>BHĀG. P. 6,16,39.</ls>
 [Page6-0407]
-{#hastO ruruhatuH#} 
-<ls>BHĀG. P. 2, 10, 24.</ls> {#pAdO ruruhAte#} 
-<ls>25.</ls> {#BfgoH SmaSrURi rohantu#} 
-<ls>4, 6, 51.</ls> {#rUQo 'yamaSuBAvahaH - vizadrumaH#} 
-<ls>RĀJA-TAR. 4, 26.</ls> 
-<ls>KĀM. NĪTIS. 13, 13.</ls> {#rUQaSAdvala#} ({#araRya#}) 
-<ls>HARIV. 3643.</ls> {#rUQatfRANkurezu#} ({#harmyezu#}) 
-<ls>RAGH. 16, 18.</ls> {#rUQaskanDo mahAdrumaH#} 
-<ls>R. 2, 105, 6.</ls> {#rUQarAgapravAla#} ({#manasijataru#}) 
-<ls>MĀLAV. 59.</ls> {#kesarErarDarUQEH#} 
-<ls>MEGH. 21.</ls> {#arUQamUlatva#} 
-<ls>MĀLAV. 8.</ls> {#rUQaSmaSru#} 
-<ls>R. 7, 23, 1, 13.</ls> 
-<div n="1">— 3) {%verwachsen, heilen%}: {#carma^RA\ carma^ rohatu, mA\MsaM mA\Msena^ ro°#} 
-<ls>AV. 4, 12, 4.</ls> {#vraRaScAsya cireRa rohati#} 
-<ls>SUŚR. 1, 37, 6.</ls> 
-<ls>Spr. 2647</ls> <ls>?(med.). KATHĀS. 28, 160. 179.</ls> {#rUQavraRa#} 
-<ls>R. 6, 105, 15.</ls> 
-<ls>SUŚR. 1, 37, 6. 60, 18. 88, 15. fg. 18.</ls> 
-<ls>RAGH. 13, 73.</ls> 
-<ls>KATHĀS. 10, 197. 65, 15. 101, 348.</ls> 
-<ls>RĀJA-TAR. 4, 281.</ls> 
-<ls>H. 465.</ls> Vgl. {#dUrUQa#} . 
-<div n="1">— 4) {%wachsen%} so v. a. {%sich entwickeln, sich bilden, hervorgehen; gedeihen, an Umfang gewinnen, zunehmen%}: {#rohanti hA DikpratyUhAH#} 
-<ls>RĀJA-TAR. 1, 158.</ls> {#kaScinmativiparyAsaprakAro hfdi rohati#} 
-<ls>3, 42. 4, 236.</ls> {#kAmaDiyastvayi racitA na parama rohanti#} 
-<ls>BHĀG. P. 6, 16, 39.</ls> {#tattadA vAkyaM na rohati#} so v. a. {%trägt keine Frucht, ist unnütz%} 
-<ls>MBH. 12, 11944.</ls> {#ArtiM me hfdaye rUQAm#} 
-<ls>6, 581.</ls> <ls>Spr. 2358.</ls> <ls>RĀJA-TAR. 3, 48.</ls> <ls>BHĀG. P. 1, 8, 48. 9, 9, 47.</ls> {#°yOvana#} {%bei dem sich das Jünglingsalter eingestellt hat%} 
-<ls>10, 55, 9.</ls> <ls>PAÑCAR. 3, 7, 37.</ls> <ls>KATHĀS. 27, 187.</ls> {#saMSrayadozarUQa#} {%hervorgegangen aus%} 
-<ls>RAGH. 6, 41. 1, 31.</ls> {#rUQaSca kftamUlaSca SezaM sTAsyati te sutaH#} {%gewachsen%} so v. a. {%sich Anhang verschafft habend%} 
-<ls>R. 2, 9, 27.</ls> {#rUQasOhfda#} {%bei dem die Freundschaft Wurzeln geschlagen hat%} 
-<ls>VIKR. 10.</ls> {#yogino rUQayogAH#} 
-<ls>BHĀG. P. 3, 21, 13.</ls> {#fzayo rUQamanyavaH#} 
-<ls>4, 14, 34. 5, 12, 6. 8, 22, 6. 10, 47, 59. fg. 55, 40.</ls> {#rUQa = jAta#} 
-<ls>MED. ḍh. 3.</ls> 
-<div n="1">— 5) {#rUQa#} {%gewachsen%} so v. a. {%verbreitet, allgemein bekannt, offenkundig%}; = {#prasidDa#} 
-<ls>MED.</ls> {#tava tanvaNgi miTyEva rUQamaNgezu mArdavam#} 
-<ls>Spr. 4112.</ls> {#kzatAtkila trAyata ityudagraH kzatrasya Sabdo Buvanezu rUQaH#} 
-<ls>RAGH.2,53.</ls> <ls>SĀH. D. 13,3.</ls> <ls>DAŚAK. 82,3.</ls> <ls>Verz. d. Oxf. H. 177,b,17.</ls> <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 61.</ls> <ls>Schol.</ls> zu <ls>BHAṬṬ.5,18.</ls> {#surUQe horArTe#} 
-<ls>VARĀH. BṚH. S. 2, 3.</ls> {#arUQa#} {%unbekannt, unerhört%} (und nicht {#rUQa#} oder {#ArUQa#}) ist wohl anzunehmen 
-<ls>KATHĀS. 61, 251.</ls> 
-<ls>RĀJA-TAR. 4, 124. 5, 173.</ls> 
-<div n="1">— 6) {#rUQa#} {%überliefert, allgemein bekannt%} von Wörtern, {%deren Bedeutung etymologisch sich nicht erklären lässt; eine specielle, von der Etymologie unabhängige%} (nach indischer Anschauung) {%Bedeutung habend%} 
-<ls>H. 1.</ls> {#vyutpattirahitAH SabdA rUQA AKaRqalAdayaH#} 
-<ls>2.</ls> {#yatrAvayavaSaktinErapekzeRa#} (d. i. {#°kzyeRa) samudAyaSaktimAtreRa buDyate tadrUQaM yaTA gopadaGawAdipadam#} Comm. zu 
-<ls>BHĀṢĀP. S. 83.</ls> <ls>Schol.</ls> zu <ls>P. 2, 2, 26.</ls> {#amanuzyaSabdo rakzaHpiSAcAdizu rUQaH#} 
-<ls>?4, 23. 3, 1, 129. 4, 3, 99. 5, 1, 48. 59. 3, 27. 6, 2, 8. SIDDH. K. zu P. 6, 3, 34. VOP. 7, 14.</ls> {#nAma rUQamapi ca vyudapAdi#} 
-<ls>ŚIŚ. 10, 23.</ls> {#°nAmamAlA#} 
-<ls>Verz. d. Oxf. H. 210,b,4 v. u.</ls>; vgl. {#yogarUQa#} und {#yOgikarUQa#} unter {#yOgika#} . — 
-<ls>MBH. 1, 5337</ls> ist nicht {#ruhyante#}, wie 
+{#hastO ruruhatuH#}
+<ls>BHĀG. P. 2,10,24.</ls> {#pAdO ruruhAte#}
+<ls n="BHĀG. P. 2,10,">25.</ls> {#BfgoH SmaSrURi rohantu#}
+<ls n="BHĀG. P.">4,6,51.</ls> {#rUQo 'yamaSuBAvahaH — vizadrumaH#}
+<ls>RĀJA-TAR. 4,26.</ls>
+<ls>KĀM. NĪTIS. 13,13.</ls> {#rUQaSAdvala#} ({#araRya#})
+<ls>HARIV. 3643.</ls> {#rUQatfRANkurezu#} ({#harmyezu#})
+<ls>RAGH. 16,18.</ls> {#rUQaskanDo mahAdrumaH#}
+<ls>R. 2,105,6.</ls> {#rUQarAgapravAla#} ({#manasijataru#})
+<ls>MĀLAV. 59.</ls> {#kesarErarDarUQEH#}
+<ls>MEGH. 21.</ls> {#arUQamUlatva#}
+<ls>MĀLAV. 8.</ls> {#rUQaSmaSru#}
+<ls>R. 7,23,1,13.</ls>
+<div n="1">— 3) {%verwachsen, heilen%}: {#carma^RA\ carma^ rohatu, mA\MsaM mA\Msena^ ro°#}
+<ls>AV. 4,12,4.</ls> {#vraRaScAsya cireRa rohati#}
+<ls>SUŚR. 1,37,6.</ls>
+<ls>Spr. 2647</ls> (med.). <ls>KATHĀS. 28,160.</ls> <ls n="KATHĀS. 28,">179.</ls> {#rUQavraRa#}
+<ls>R. 6,105,15.</ls>
+<ls>SUŚR. 1,37,6. 60,18. 88,15. fg. 18.</ls>
+<ls>RAGH. 13,73.</ls>
+<ls>KATHĀS. 10,197.</ls> <ls n="KATHĀS.">65,15.</ls> <ls n="KATHĀS.">101,348.</ls>
+<ls>RĀJA-TAR. 4,281.</ls>
+<ls>H. 465.</ls> Vgl. {#dUrUQa#} .
+<div n="1">— 4) {%wachsen%} so v. a. {%sich entwickeln, sich bilden, hervorgehen; gedeihen, an Umfang gewinnen, zunehmen%}: {#rohanti hA DikpratyUhAH#}
+<ls>RĀJA-TAR. 1,158.</ls> {#kaScinmativiparyAsaprakAro hfdi rohati#}
+<ls n="RĀJA-TAR.">3,42. 4,236.</ls> {#kAmaDiyastvayi racitA na parama rohanti#}
+<ls>BHĀG. P. 6,16,39.</ls> {#tattadA vAkyaM na rohati#} so v. a. {%trägt keine Frucht, ist unnütz%}
+<ls>MBH. 12,11944.</ls> {#ArtiM me hfdaye rUQAm#}
+<ls n="MBH.">6,581.</ls> <ls>Spr. 2358.</ls> <ls>RĀJA-TAR. 3,48.</ls> <ls>BHĀG. P. 1,8,48.</ls> <ls n="BHĀG. P.">9,9,47.</ls> {#°yOvana#} {%bei dem sich das Jünglingsalter eingestellt hat%}
+<ls n="BHĀG. P.">10,55,9.</ls> <ls>PAÑCAR. 3,7,37.</ls> <ls>KATHĀS. 27,187.</ls> {#saMSrayadozarUQa#} {%hervorgegangen aus%}
+<ls>RAGH. 6,41.</ls> <ls n="RAGH.">1,31.</ls> {#rUQaSca kftamUlaSca SezaM sTAsyati te sutaH#} {%gewachsen%} so v. a. {%sich Anhang verschafft habend%}
+<ls>R. 2,9,27.</ls> {#rUQasOhfda#} {%bei dem die Freundschaft Wurzeln geschlagen hat%}
+<ls>VIKR. 10.</ls> {#yogino rUQayogAH#}
+<ls>BHĀG. P. 3,21,13.</ls> {#fzayo rUQamanyavaH#}
+<ls n="BHĀG. P.">4,14,34.</ls> <ls n="BHĀG. P.">5,12,6.</ls> <ls n="BHĀG. P.">8,22,6.</ls> <ls n="BHĀG. P.">10,47,59. fg.</ls> <ls n="BHĀG. P. 10,">55,40.</ls> {#rUQa = jAta#}
+<ls>MED. ḍh. 3.</ls>
+<div n="1">— 5) {#rUQa#} {%gewachsen%} so v. a. {%verbreitet, allgemein bekannt, offenkundig%}; = {#prasidDa#}
+<ls>MED.</ls> {#tava tanvaNgi miTyEva rUQamaNgezu mArdavam#}
+<ls>Spr. 4112.</ls> {#kzatAtkila trAyata ityudagraH kzatrasya Sabdo Buvanezu rUQaH#}
+<ls>RAGH. 2,53.</ls> <ls>SĀH. D. 13,3.</ls> <ls>DAŚAK. 82,3.</ls> <ls>Verz. d. Oxf. H. 177,b,17.</ls> <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 61.</ls> <ls>Schol.</ls> zu <ls>BHAṬṬ. 5,18.</ls> {#surUQe horArTe#}
+<ls>VARĀH. BṚH. S. 2,3.</ls> {#arUQa#} {%unbekannt, unerhört%} (und nicht {#rUQa#} oder {#ArUQa#}) ist wohl anzunehmen
+<ls>KATHĀS. 61,251.</ls>
+<ls>RĀJA-TAR. 4,124. 5,173.</ls>
+<div n="1">— 6) {#rUQa#} {%überliefert, allgemein bekannt%} von Wörtern, {%deren Bedeutung etymologisch sich nicht erklären lässt; eine specielle, von der Etymologie unabhängige%} (nach indischer Anschauung) {%Bedeutung habend%}
+<ls>H. 1.</ls> {#vyutpattirahitAH SabdA rUQA AKaRqalAdayaH#}
+<ls n="H.">2.</ls> {#yatrAvayavaSaktinErapekzeRa#} (<ab>d. i.</ab> {#°kzyeRa) samudAyaSaktimAtreRa buDyate tadrUQaM yaTA gopadaGawAdipadam#} Comm. zu
+<ls>BHĀṢĀP. S. 83.</ls> <ls>Schol.</ls> zu <ls>P. 2,2,26.</ls> {#amanuzyaSabdo rakzaHpiSAcAdizu rUQaH#}
+<ls n="P. 2,">4,23.</ls> <ls n="P.">3,1,129.</ls> <ls n="P.">4,3,99.</ls> <ls n="P.">5,1,48.</ls> <ls n="P. 5,1,">59.</ls> <ls n="P. 5,">3,27.</ls> <ls n="P.">6,2,8.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 6,3,34.</ls> <ls>VOP. 7,14.</ls> {#nAma rUQamapi ca vyudapAdi#}
+<ls>ŚIŚ. 10,23.</ls> {#°nAmamAlA#}
+<ls>Verz. d. Oxf. H. 210,b,4</ls> v. u.; vgl. {#yogarUQa#} und {#yOgikarUQa#} unter {#yOgika#} . —
+<ls>MBH. 1,5337</ls> ist nicht {#ruhyante#}, wie
 <ls>JOHNSON</ls> und nach ihm <ls>BENFEY</ls> annehmen, sondern {#uhyante#} gemeint. Vgl. 1. {#ruD#} .
-
-<div n="p">— caus. {#roha/yati#} und später {#ropa/yati#} 
-<ls>P. 7, 3, 43.</ls> 
-<ls>VOP. 18, 13.</ls> 
-<div n="1"> 1) {%in die Höhe bringen, aufsteigen machen%}: {#ye sUrya\maro^hayandi\vi#} 
-<ls>ṚV. 10, 62, 3.</ls> <ls n="ṚV. 10,">65, 11.</ls> 
-<ls>AV. 13, 1, 13.</ls> 
-<ls>TBR. 1, 2, 4, 1.</ls> {#catuzpaYcASataM hastAnropayitvA mahASilAm#} {%aufführen%} 
-<ls>RĀJA-TAR. 4, 199.</ls> 
-<div n="1">— 2) {%legen auf, bringen in, stecken an, in%}: {#PalavantaSca ye vfkzAH samUlaviwapAstaTA . ropayitvA bfhannOzu#} 
-<ls>R. GORR. 1, 9, 8.</ls> {#tAmaropayat . gurunAsAM muKe tasyAH#} 
-<ls>KATHĀS. 61, 16.</ls> {#cAparopitaSara#} 
-<ls>Spr. 2289.</ls> {#mukuwe ropitaH kAcaScaraRABaraRe maRiH#} {%gefasst in%} 
-<ls>2206.</ls> {#ahitaropitamArgaRa#} {%gerichtet auf%} 
-<ls>RAGH. 9, 22.</ls> {#rAjaveSmani te suBru rohitam#}
+<div n="p">— caus. {#roha/yati#} und später {#ropa/yati#}
+<ls>P. 7,3,43.</ls>
+<ls>VOP. 18,13.</ls>
+<div n="1"> 1) {%in die Höhe bringen, aufsteigen machen%}: {#ye sUrya\maro^hayandi\vi#}
+<ls>ṚV. 10,62,3.</ls> <ls n="ṚV. 10,">65,11.</ls>
+<ls>AV. 13,1,13.</ls>
+<ls>TBR. 1,2,4,1.</ls> {#catuzpaYcASataM hastAnropayitvA mahASilAm#} {%aufführen%}
+<ls>RĀJA-TAR. 4,199.</ls>
+<div n="1">— 2) {%legen auf, bringen in, stecken an, in%}: {#PalavantaSca ye vfkzAH samUlaviwapAstaTA . ropayitvA bfhannOzu#}
+<ls>R. GORR. 1,9,8.</ls> {#tAmaropayat . gurunAsAM muKe tasyAH#}
+<ls>KATHĀS. 61,16.</ls> {#cAparopitaSara#}
+<ls>Spr. 2289.</ls> {#mukuwe ropitaH kAcaScaraRABaraRe maRiH#} {%gefasst in%}
+<ls n="Spr.">2206.</ls> {#ahitaropitamArgaRa#} {%gerichtet auf%}
+<ls>RAGH. 9,22.</ls> {#rAjaveSmani te suBru rohitam#}
 [Page6-0408]
-{%deine Versetzung in%} 
-<ls>MBH. 4, 271.</ls> {#te sugfBruhe tu#} d. i. {#te suBru gfhe tu#} ed. Bomb. {%übergeben, übertragen%}: {#guRavatsutaropitaSriyaH - dilIpavaMSajAH#} 
-<ls>RAGH. 8, 11.</ls> 
-<div n="1">— 3) {%pflanzen, säen%}: {#tasmAdvfkzAMSca ropayet#} 
-<ls>MBH. 13, 2995. 6072.</ls> 
-<ls>R. 2, 80, 7 (87, 8 GORR.).</ls> <ls>Spr. 2349.</ls> <ls>VARĀH. BṚH. S. 55, 8. fg. 20.</ls> <ls>RĀJA-TAR. 2, 15. 130.</ls> {#SAKA eva ropitA vfkzatAM yAnti#} {%in die Erde gesteckt%} 
-<ls>KULL.</ls> zu <ls>M. 1, 46.</ls> {#ArAmAMSca ropayet#} 
-<ls>MBH. 13, 3002.</ls> {#prayanti sarvabIjAni ropyamARAni cEva ha#} 
-<ls>3, 13116.</ls> bildlich: {#uccaKAna - badDamUlAM kzaRAllakzmIM SucaM dIrGAmaropayat#} 
-<ls>RĀJA-TAR. 5, 149.</ls> {#tadeza SantanorvaMSaH#} (so die neuere Ausg.) {#pfTivyAM ropito mayA#} 
-<ls>HARIV. 3007.</ls> 
-<div n="1">— 4) {%wachsen —, verwachsen machen, heilen lassen, heilen%} (trans.): {#ro\haye\dam#} (sc. {#asTi cCinnam#}) 
-<ls>AV. 4, 12, 1.</ls> {#vraRAnropayet#} 
-<ls>SUŚR. 2, 10, 11. 4.</ls> 
-<ls>KATHĀS. 28, 163. 169. fg. 177. fg.</ls>
-
-<div n="p">— desid. {#rurukzati#}; 
-<ls>BHĀG. P. 4, 8, 67</ls> ist {#premRArurukzantaM#} (desid. von {#A - ruh#}) zu schreiben.
-
-<div n="p">— {#ati#} 
-<div n="1"> 1) {%hinaussteigen über%}: {#ati\ trI so^ma roca\nA roha\nna BrA^jase di\vam#} 
-<ls>ṚV. 9, 17, 5.</ls> 
-<div n="1">— 2) {%grösser wachsen%}: {#yadanne^nAti\roha^ti#} 
-<ls>ṚV. 10, 90, 2</ls> <ls>?= ŚVETĀŚV. UP. 3, 15 = TATTVAS. 20</ls>  (v. l. {#anyena#}). 
-<div n="1">— 3) {#atirUQatva#} {%allgemeine Verbreitung, allgemeines Bekanntsein, Landkundigkeit%} 
-<ls>RĀJA-TAR. 6, 272.</ls>
-
-<div n="p">— {#vyati#} {%erlangen, theilhaftig werden%}; mit acc.: {#tadA dehI dehamanyaM vyatirohati kAlataH#} 
-<ls>MBH. 3, 13929.</ls> statt dessen {#tadA dehErdehavanto vyatirohanti nAnyaTA#} 
-<ls>6, 184.</ls> — caus. {%vertreiben, der Herrschaft berauben%}: {#tatrAcakzamahaM dozAnyErBavAnvyatiropitaH#} 
-<ls>MBH. 3, 601.</ls>
-
-<div n="p">— {#aDi#} 
-<div n="1"> 1) {%ersteigen, besteigen%}: {#gi\riM na ve\nA aDi^ roha\ teja^sA#} 
-<ls>ṚV. 1, 56, 2.</ls> {#nAva^m#} 
-<ls n="ṚV.">8, 42, 3.</ls> {#sTURA^m#} 
-<ls>AV. 3, 12, 6.</ls> {#dyAm#} 
-<ls>13, 3, 26.</ls> {#svo^ ruhA^RA\ aDi\ nAka^mutta\mam#} 
-<ls>VS. 11, 22.</ls> {#sa mA\yamaDi^ rohatu ma\RiH SrEzWyA^ya mUrDa\taH#} 
-<ls>AV. 10, 6, 31. 11, 1, 13.</ls> {#divyena vimAnena svargamaDyaruhat#} 
-<ls>R. 2, 64, 48.</ls> 
-<ls>ŚĀK. 98, 14.</ls> {#girimaDirohitum#} 
-<ls>MBH. 3, 9982.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 45, 5. 5, 54, 9.</ls> 
-<ls>ŚIŚ. 9, 1.</ls> 
-<ls>VIKR. 14.</ls> {#hemakUwaSiKare#} 
-<ls>6, 15.</ls> {#kravyAdAn#} 
-<ls>YĀJÑ. 1, 272.</ls> {#aDirohanti yaM nityaM piSAcAH puruzaM prati#} 
-<ls>MBH. 3, 14506.</ls> {#hayAn#} 
-<ls>7, 8917.</ls> <ls>R. 5, 73, 28.</ls> <ls>Spr. 4001.</ls> <ls>KATHĀS. 12, 135. 13, 28.</ls> {#vedIm#} 
-<ls>MBH. 3, 11019</ls> <ls>?(S. 570, med.). 11021</ls> (ebend., act.). {#tarum#} 
-<ls>R. 3, 76, 28.</ls> {#citAm#} 
-<ls>HARIV. 771</ls> (med.). {#vimAnam, raTam#} 
-<ls>MBH. 3, 4095. 14943</ls> <ls>?(med.). R. 2, 83, 2. 7, 75, 8 (med.). KATHĀS. 45, 364. BHĀG. P. 4, 12, 27. MĀRK. P. 125, 16. BHAṬṬ. 5, 108.</ls> {#paryaNkam#} 
-<ls>MBH. 5, 1188.</ls> {#Asanam#} 
-<ls>R. 1, 70, 9</ls> (med.). {#Sayanam#} 
-<ls>2, 42, 29.</ls> {%besteigen%} (zur Begattung): {#putro mAtaraM svasAraM cADirohati#} 
-<ls>AIT. BR. 7, 13.</ls> {%treten auf%}: {#keSAdInnADirohet#} 
-<ls>KULL.</ls> zu <ls>M. 4, 78.</ls> <ls>SUŚR. 1, 110, 17</ls> (zugleich {%besteigen%}). {#pAdAhataM yadutTAya mUrDAnamaDirohati - reRuH#} {%sich setzen auf%} 
-<ls>Spr. 1762.</ls> {#aDirohArya pAdAByAM pAduke#} {%tritt mit den Füssen in die Schuhe%} 
-<ls>R. 2, 112, 21. fg.</ls> {%sich in die Luft erheben, aufsteigen%}: {#raTANgAhvayanA dvijAH . aDirohanti#} 
-<ls>95, 11.</ls> <ls>BHĀG. P. 3, 23, 20.</ls> {#aDirUQa#} {%erstiegen —, bestiegen habend, sitzend auf%}: {#giriSfNgADi°#} 
-<ls>RĀJA-TAR. 5, 217.</ls> {#yugAntam, gaganAntaram#} 
-<ls>ŚĀK. 57, 2 v. l.</ls> {#vawavfkzADi°#} 
-<ls>VET.</ls> in <ls>LA. (III) 21, 11.</ls> {#raTADirUQa#} 
-<ls>ŚĀK. 97, 1.</ls> 
-<ls>RAGH. 12, 104.</ls> {#laGukAzWADi°#} 
-<ls>PAÑCAT. 76, 18.</ls> {#aNgadaM cADirUQaH#} 
-<ls>R. 5, 73, 27.</ls> 
-<ls>VOP. 26, 129.</ls> {#turagADi°#} 
-<ls>RAGH. 7, 34.</ls> {#dvijaskanDADi°#} 
-<ls>R. 2, 45, 21 (43, 22 GORR.).</ls> <ls>BHĀG. P. 2, 7, 16.</ls> <ls>SARVADARŚANAS. 153, 11.</ls> {#rakzo'Di°#} 
-<ls>KATHĀS. 18, 382.</ls> {#aDirUQe gajArohe#} {%hinaufgestiegen%} 
-<ls>R. 3, 57, 23.</ls> {#°govAwA#} 
-<ls>KATHĀS. 20, 145.</ls> {#avaruhyADirUQaH#} 
-<ls>RĀJA-TAR. 6, 52.</ls> 
-<ls>PAÑCAT. 128, 19.</ls> {#parvatasyADirUQaM sTalam#} {%oben gelegen%} 
-<ls>P. 5, 2, 34,</ls> 
-<ls>Sch.</ls> 
+{%deine Versetzung in%}
+<ls>MBH. 4,271.</ls> {#te sugfBruhe tu#} <ab>d. i.</ab> {#te suBru gfhe tu#} <ls>ed. Bomb.</ls> {%übergeben, übertragen%}: {#guRavatsutaropitaSriyaH — dilIpavaMSajAH#}
+<ls>RAGH. 8,11.</ls>
+<div n="1">— 3) {%pflanzen, säen%}: {#tasmAdvfkzAMSca ropayet#}
+<ls>MBH. 13,2995.</ls> <ls n="MBH. 13,">6072.</ls>
+<ls>R. 2,80,7</ls> (<ls n="GORR. 2,">87,8</ls> <ls>GORR.</ls>). <ls>Spr. 2349.</ls> <ls>VARĀH. BṚH. S. 55,8. fg. 20.</ls> <ls>RĀJA-TAR. 2,15. 130.</ls> {#SAKA eva ropitA vfkzatAM yAnti#} {%in die Erde gesteckt%}
+<ls>KULL.</ls> zu <ls>M. 1,46.</ls> {#ArAmAMSca ropayet#}
+<ls>MBH. 13,3002.</ls> {#prayanti sarvabIjAni ropyamARAni cEva ha#}
+<ls n="MBH.">3,13116.</ls> bildlich: {#uccaKAna — badDamUlAM kzaRAllakzmIM SucaM dIrGAmaropayat#}
+<ls>RĀJA-TAR. 5,149.</ls> {#tadeza SantanorvaMSaH#} (so die neuere Ausg.) {#pfTivyAM ropito mayA#}
+<ls>HARIV. 3007.</ls>
+<div n="1">— 4) {%wachsen —, verwachsen machen, heilen lassen, heilen%} (trans.): {#ro\haye\dam#} (sc. {#asTi cCinnam#})
+<ls>AV. 4,12,1.</ls> {#vraRAnropayet#}
+<ls>SUŚR. 2,10,11. 4.</ls>
+<ls>KATHĀS. 28,163.</ls> <ls n="KATHĀS. 28,">169. fg.</ls> <ls n="KATHĀS. 28,">177. fg.</ls>
+<div n="p">— desid. {#rurukzati#};
+<ls>BHĀG. P. 4,8,67</ls> ist {#premRArurukzantaM#} (desid. von {#A — ruh#}) zu schreiben.
+<div n="p">— {#ati#}
+<div n="1"> 1) {%hinaussteigen über%}: {#ati\ trI so^ma roca\nA roha\nna BrA^jase di\vam#}
+<ls>ṚV. 9,17,5.</ls>
+<div n="1">— 2) {%grösser wachsen%}: {#yadanne^nAti\roha^ti#}
+<ls>ṚV. 10,90,2</ls> = <ls>ŚVETĀŚV. UP. 3,15</ls> = <ls>TATTVAS. 20</ls> (v. l. {#anyena#}).
+<div n="1">— 3) {#atirUQatva#} {%allgemeine Verbreitung, allgemeines Bekanntsein, Landkundigkeit%}
+<ls>RĀJA-TAR. 6,272.</ls>
+<div n="p">— {#vyati#} {%erlangen, theilhaftig werden%}; mit acc.: {#tadA dehI dehamanyaM vyatirohati kAlataH#}
+<ls>MBH. 3,13929.</ls> statt dessen {#tadA dehErdehavanto vyatirohanti nAnyaTA#}
+<ls n="MBH.">6,184.</ls> — caus. {%vertreiben, der Herrschaft berauben%}: {#tatrAcakzamahaM dozAnyErBavAnvyatiropitaH#}
+<ls>MBH. 3,601.</ls>
+<div n="p">— {#aDi#}
+<div n="1"> 1) {%ersteigen, besteigen%}: {#gi\riM na ve\nA aDi^ roha\ teja^sA#}
+<ls>ṚV. 1,56,2.</ls> {#nAva^m#}
+<ls n="ṚV.">8,42,3.</ls> {#sTURA^m#}
+<ls>AV. 3,12,6.</ls> {#dyAm#}
+<ls n="AV.">13,3,26.</ls> {#svo^ ruhA^RA\ aDi\ nAka^mutta\mam#}
+<ls>VS. 11,22.</ls> {#sa mA\yamaDi^ rohatu ma\RiH SrEzWyA^ya mUrDa\taH#}
+<ls>AV. 10,6,31.</ls> <ls n="AV.">11,1,13.</ls> {#divyena vimAnena svargamaDyaruhat#}
+<ls>R. 2,64,48.</ls>
+<ls>ŚĀK. 98,14.</ls> {#girimaDirohitum#}
+<ls>MBH. 3,9982.</ls>
+<ls>R. GORR. 1,45,5.</ls> <ls n="R. GORR.">5,54,9.</ls>
+<ls>ŚIŚ. 9,1.</ls>
+<ls>VIKR. 14.</ls> {#hemakUwaSiKare#}
+<ls n="VIKR.">6,15.</ls> {#kravyAdAn#}
+<ls>YĀJÑ. 1,272.</ls> {#aDirohanti yaM nityaM piSAcAH puruzaM prati#}
+<ls>MBH. 3,14506.</ls> {#hayAn#}
+<ls n="MBH.">7,8917.</ls> <ls>R. 5,73,28.</ls> <ls>Spr. 4001.</ls> <ls>KATHĀS. 12,135.</ls> <ls n="KATHĀS.">13,28.</ls> {#vedIm#}
+<ls>MBH. 3,11019</ls> (S. 570, med.). <ls n="MBH. 3,">11021</ls> (ebend., act.). {#tarum#}
+<ls>R. 3,76,28.</ls> {#citAm#}
+<ls>HARIV. 771</ls> (med.). {#vimAnam, raTam#}
+<ls>MBH. 3,4095.</ls> <ls n="MBH. 3,">14943</ls> (med.). <ls>R. 2,83,2.</ls> <ls n="R.">7,75,8</ls> (med.). <ls>KATHĀS. 45,364.</ls> <ls>BHĀG. P. 4,12,27.</ls> <ls>MĀRK. P. 125,16.</ls> <ls>BHAṬṬ. 5,108.</ls> {#paryaNkam#}
+<ls>MBH. 5,1188.</ls> {#Asanam#}
+<ls>R. 1,70,9</ls> (med.). {#Sayanam#}
+<ls n="R.">2,42,29.</ls> {%besteigen%} (zur Begattung): {#putro mAtaraM svasAraM cADirohati#}
+<ls>AIT. BR. 7,13.</ls> {%treten auf%}: {#keSAdInnADirohet#}
+<ls>KULL.</ls> zu <ls>M. 4,78.</ls> <ls>SUŚR. 1,110,17</ls> (zugleich {%besteigen%}). {#pAdAhataM yadutTAya mUrDAnamaDirohati — reRuH#} {%sich setzen auf%}
+<ls>Spr. 1762.</ls> {#aDirohArya pAdAByAM pAduke#} {%tritt mit den Füssen in die Schuhe%}
+<ls>R. 2,112,21. fg.</ls> {%sich in die Luft erheben, aufsteigen%}: {#raTANgAhvayanA dvijAH . aDirohanti#}
+<ls n="R. 2,">95,11.</ls> <ls>BHĀG. P. 3,23,20.</ls> {#aDirUQa#} {%erstiegen —, bestiegen habend, sitzend auf%}: {#giriSfNgADi°#}
+<ls>RĀJA-TAR. 5,217.</ls> {#yugAntam, gaganAntaram#}
+<ls>ŚĀK. 57,2 v. l.</ls> {#vawavfkzADi°#}
+<ls>VET. in LA. (III) 21,11.</ls> {#raTADirUQa#}
+<ls>ŚĀK. 97,1.</ls>
+<ls>RAGH. 12,104.</ls> {#laGukAzWADi°#}
+<ls>PAÑCAT. 76,18.</ls> {#aNgadaM cADirUQaH#}
+<ls>R. 5,73,27.</ls>
+<ls>VOP. 26,129.</ls> {#turagADi°#}
+<ls>RAGH. 7,34.</ls> {#dvijaskanDADi°#}
+<ls>R. 2,45,21</ls> (<ls n="GORR. 2,">43,22</ls> <ls>GORR.</ls>). <ls>BHĀG. P. 2,7,16.</ls> <ls>SARVADARŚANAS. 153,11.</ls> {#rakzo'Di°#}
+<ls>KATHĀS. 18,382.</ls> {#aDirUQe gajArohe#} {%hinaufgestiegen%}
+<ls>R. 3,57,23.</ls> {#°govAwA#}
+<ls>KATHĀS. 20,145.</ls> {#avaruhyADirUQaH#}
+<ls>RĀJA-TAR. 6,52.</ls>
+<ls>PAÑCAT. 128,19.</ls> {#parvatasyADirUQaM sTalam#} {%oben gelegen%}
+<ls>P. 5,2,34</ls>, <ls>Sch.</ls>
 <div n="1">— 2) {%erklimmen%} so v. a. {%erreichen, gelangen zu%}: {#ezAmaDiroQumaYjasA #}
 [Page6-0409]
-{# padaM param#} 
-<ls>BHĀG. P. 4, 3, 21.</ls> {#parasparatulAmaDirohatAM dve#} {%erlangen gegenseitige Aehnlichkeit%} 
-<ls>RAGH. 5, 68.</ls> {#pratijYAmaDyarohata#} so v. a. {%gelangte zu dem, was er gelobt hatte, löste sein Wort%} 
-<ls>R. 7, 67, 8.</ls> {#aDirUQa#} 
-<div n="2"> a) mit pass. Bed.: {#pada#} 
-<ls>BHĀG. P. 4, 12, 42.</ls> {#°samADiyoga#} 
-<ls>3, 28, 38.</ls> 
-<div n="2">— b) mit act. Bed.: {#niSAmaDirUQayoryUnoH#} 
-<ls>Spr. 916.</ls> {#yogADi°#} 
-<ls>RAGH. 13, 52.</ls> 
-<div n="v">— Vgl. {#aDirohaRa, DArADirUQa#} . — caus. 
-<div n="1"> 1) {%besteigen machen, hinaufgehen lassen, setzen auf%}: {#nAke\ 'Di^ rohayEnam#} 
-<ls>VS. 12, 63.</ls> {#nAka\maDi^ rohaye\mam#} 
-<ls>AV. 1, 9, 2. 18, 3, 4.</ls> {#marya^ iva\ yozA\maDi^ rohayEnAm#} 
-<ls>14, 2, 37.</ls> {#nAvaM cApyaDirohitAH#} 
-<ls>MBH. 13, 4390.</ls> {#yadyeza prAsAdamaDiropyate#} 
-<ls>KATHĀS. 20, 170.</ls> {#tAmaNkam#} 
-<ls>1, 22.</ls> {#SarIraM tulAm#} 
-<ls>7, 95.</ls> {#raTe#} 
-<ls>56, 336.</ls> {#vAhane#} 
-<ls>26, 123. 52, 328.</ls> {#SUle#} 
-<ls>88, 42.</ls> {#skanDe#} 
-<ls>26, 241.</ls> <ls>RĀJA-TAR. 4, 259.</ls> {#nAByAM sTitaM#} ({#anilaM#}) {#hfdi#} 
-<ls>BHĀG. P. 2, 2, 20.</ls> {#vimAnADiropita#} 
-<ls>KATHĀS. 47, 39.</ls> {#SUlADi°#} 
-<ls>18, 148.</ls> {#yakzaskanDADi°#} 
-<ls>73, 248.</ls> {#SudDAntakAntAnAM mUrDAnamaDiropitA#} so v. a. {%an die Spitze von - gestellt%} 
-<ls>RĀJA-TAR. 6, 74.</ls> 
-<div n="1">— 2) {%hineinstecken, einsäen%}: {#aDiropya#} 
-<ls>VARĀH. BṚH. S. 55, 23.</ls> {%anlegen, anthun%}: {#aDiropyArya pAdAByAmime gfhRIzva pAduke#} 
-<ls>R. GORR. 2, 123, 20. fg.</ls> {%einsetzen in%}: {#pitrye rAjye#} 
-<ls>KATHĀS. 70, 21.</ls> {%versetzen in%}: {#vasatO purARaSoBAmaDiropitAyAm#} 
-<ls>RAGH. 16, 42.</ls> {%schliessen in%}: {#nijamanasi sadA yErvItarAgo 'Dyaropi#} 
-<ls>ŚATR. 14, 328.</ls> 
-<div n="1">— 3) {%spannen%}: {#kArmukam#} 
-<ls>RAGH. 11, 81.</ls> 
-<div n="1">— 4) {%übergeben, übertragen%}: {#vinamrezvaDiropya SAsanam - aKiladeSarAjasu#} 
-<ls>KATHĀS. 20, 225.</ls> {%beilegen, ertheilen%}: {#udAraka iti prItalokADiropitanAmA#} 
-<ls>DAŚAK. 72, 4. 5.</ls> 
+{# padaM param#}
+<ls>BHĀG. P. 4,3,21.</ls> {#parasparatulAmaDirohatAM dve#} {%erlangen gegenseitige Aehnlichkeit%}
+<ls>RAGH. 5,68.</ls> {#pratijYAmaDyarohata#} so v. a. {%gelangte zu dem, was er gelobt hatte, löste sein Wort%}
+<ls>R. 7,67,8.</ls> {#aDirUQa#}
+<div n="2"> a) mit pass. Bed.: {#pada#}
+<ls>BHĀG. P. 4,12,42.</ls> {#°samADiyoga#}
+<ls n="BHĀG. P.">3,28,38.</ls>
+<div n="2">— b) mit act. Bed.: {#niSAmaDirUQayoryUnoH#}
+<ls>Spr. 916.</ls> {#yogADi°#}
+<ls>RAGH. 13,52.</ls>
+<div n="v">— Vgl. {#aDirohaRa, DArADirUQa#} . — caus.
+<div n="1"> 1) {%besteigen machen, hinaufgehen lassen, setzen auf%}: {#nAke\ 'Di^ rohayEnam#}
+<ls>VS. 12,63.</ls> {#nAka\maDi^ rohaye\mam#}
+<ls>AV. 1,9,2.</ls> <ls n="AV.">18,3,4.</ls> {#marya^ iva\ yozA\maDi^ rohayEnAm#}
+<ls n="AV.">14,2,37.</ls> {#nAvaM cApyaDirohitAH#}
+<ls>MBH. 13,4390.</ls> {#yadyeza prAsAdamaDiropyate#}
+<ls>KATHĀS. 20,170.</ls> {#tAmaNkam#}
+<ls n="KATHĀS.">1,22.</ls> {#SarIraM tulAm#}
+<ls n="KATHĀS.">7,95.</ls> {#raTe#}
+<ls n="KATHĀS.">56,336.</ls> {#vAhane#}
+<ls n="KATHĀS.">26,123.</ls> <ls n="KATHĀS.">52,328.</ls> {#SUle#}
+<ls n="KATHĀS.">88,42.</ls> {#skanDe#}
+<ls n="KATHĀS.">26,241.</ls> <ls>RĀJA-TAR. 4,259.</ls> {#nAByAM sTitaM#} ({#anilaM#}) {#hfdi#}
+<ls>BHĀG. P. 2,2,20.</ls> {#vimAnADiropita#}
+<ls>KATHĀS. 47,39.</ls> {#SUlADi°#}
+<ls n="KATHĀS.">18,148.</ls> {#yakzaskanDADi°#}
+<ls n="KATHĀS.">73,248.</ls> {#SudDAntakAntAnAM mUrDAnamaDiropitA#} so v. a. {%an die Spitze von — gestellt%}
+<ls>RĀJA-TAR. 6,74.</ls>
+<div n="1">— 2) {%hineinstecken, einsäen%}: {#aDiropya#}
+<ls>VARĀH. BṚH. S. 55,23.</ls> {%anlegen, anthun%}: {#aDiropyArya pAdAByAmime gfhRIzva pAduke#}
+<ls>R. GORR. 2,123,20. fg.</ls> {%einsetzen in%}: {#pitrye rAjye#}
+<ls>KATHĀS. 70,21.</ls> {%versetzen in%}: {#vasatO purARaSoBAmaDiropitAyAm#}
+<ls>RAGH. 16,42.</ls> {%schliessen in%}: {#nijamanasi sadA yErvItarAgo 'Dyaropi#}
+<ls>ŚATR. 14,328.</ls>
+<div n="1">— 3) {%spannen%}: {#kArmukam#}
+<ls>RAGH. 11,81.</ls>
+<div n="1">— 4) {%übergeben, übertragen%}: {#vinamrezvaDiropya SAsanam — aKiladeSarAjasu#}
+<ls>KATHĀS. 20,225.</ls> {%beilegen, ertheilen%}: {#udAraka iti prItalokADiropitanAmA#}
+<ls>DAŚAK. 72,4. 5.</ls>
 <div n="v">— Vgl. {#aDiropaRa#} .
-
-<div n="p">— {#anvaDi#} {%nach Jmd hinaufsteigen%} 
-<ls>LĀṬY. 3, 18, 8.</ls>
-
-<div n="p">— {#upADi#} {%zu Jmd hinaufsteigen%} 
-<ls>ŚAT. BR. 3, 2, 1, 8. 6, 8, 1, 7.</ls>
-
-<div n="p">— {#samaDi#} 
-<div n="1"> 1) {%besteigen, hinaufsteigen%} 
-<ls>AIT. BR. 4, 20.</ls> 
-<ls>HARIV. 6533</ls> nach der Lesart der neueren Ausg. 
-<div n="1">— 2) {%auf Etwas —, hinter Etwas kommen, sich überzeugen von%}: {#tava DEryaM ca vIryaM ca sarve samaDirUQAH sma#} 
-<ls>MBH. 5, 2283.</ls>
-
-<div n="p">— {#anu#} 
-<div n="1"> 1) {%besteigen%}: {#paYca^ pa\dAni^ ru\po anva^roham#} 
-<ls>ṚV. 10, 13, 3.</ls> 
-<div n="1">— 2) med. {%erwachsen%}: {#va\yA i\vAnu^ rohate#} 
-<ls>ṚV. 2, 5, 4.</ls> <ls n="ṚV.">8, 13, 6.</ls>
-
-<div n="p">— {#vyapa#} caus. 
-<div n="1"> 1) {%ablegen, ausziehen%}: {#aDiropya pAduke vyaparopya ca#} 
-<ls>R. GORR. 2, 123, 21.</ls> 
-<div n="1">— 2) {%Jmd um Etwas%} (abl. instr.) {%bringen%}: {#rAjyAt#} 
-<ls>MBH. 3, 10246.</ls> {#jIvitAt#} 
-<ls>1579.</ls> {#prAREH#} 
-<ls>14, 2160.</ls>
-
-<div n="p">— {#api#} {%verwachsen, zuwachsen%}: {#pf\Ti\vyE KA\tamapi^rohati#} 
-<ls>TS. 2, 5, 1, 3.</ls>
-
-<div n="p">— {#samapi#} dass.: {#samasTyapi^ rohatu#} 
-<ls>AV. 4, 12, 5.</ls>
-
-<div n="p">— {#aBi#} {%hinsteigen zu, besteigen%} 
-<ls>ŚAT. BR. 12, 2, 3, 10.</ls> {#a\BImaha\ svaje^nya\M BUmA^ pf\zWeva^ ruruhuH#} 
-<ls>ṚV. 5, 7, 5.</ls> {#himavataH SfNgam#} 
-<ls>R. 1, 44, 5.</ls> 
-<ls>VIKR. 14, v. l.</ls> {#prAsAdaharmyARi vimAnaSiKarARi ca#} 
-<ls>R. 2, 33, 3.</ls> {#raTam#} 
-<ls>MBH. 5, 7233.</ls> {#yAnapAtram#} 
-<ls>KATHĀS. 25, 40.</ls> {#ye ca mAmaBiroheyuH#} {%hinaufsteigen zu%} 
+<div n="p">— {#anvaDi#} {%nach Jmd hinaufsteigen%}
+<ls>LĀṬY. 3,18,8.</ls>
+<div n="p">— {#upADi#} {%zu Jmd hinaufsteigen%}
+<ls>ŚAT. BR. 3,2,1,8.</ls> <ls n="ŚAT. BR.">6,8,1,7.</ls>
+<div n="p">— {#samaDi#}
+<div n="1"> 1) {%besteigen, hinaufsteigen%}
+<ls>AIT. BR. 4,20.</ls>
+<ls>HARIV. 6533</ls> nach der Lesart der neueren Ausg.
+<div n="1">— 2) {%auf Etwas —, hinter Etwas kommen, sich überzeugen von%}: {#tava DEryaM ca vIryaM ca sarve samaDirUQAH sma#}
+<ls>MBH. 5,2283.</ls>
+<div n="p">— {#anu#}
+<div n="1"> 1) {%besteigen%}: {#paYca^ pa\dAni^ ru\po anva^roham#}
+<ls>ṚV. 10,13,3.</ls>
+<div n="1">— 2) med. {%erwachsen%}: {#va\yA i\vAnu^ rohate#}
+<ls>ṚV. 2,5,4.</ls> <ls n="ṚV.">8,13,6.</ls>
+<div n="p">— {#vyapa#} caus.
+<div n="1"> 1) {%ablegen, ausziehen%}: {#aDiropya pAduke vyaparopya ca#}
+<ls>R. GORR. 2,123,21.</ls>
+<div n="1">— 2) {%Jmd um Etwas%} (abl. instr.) {%bringen%}: {#rAjyAt#}
+<ls>MBH. 3,10246.</ls> {#jIvitAt#}
+<ls n="MBH. 3,">1579.</ls> {#prAREH#}
+<ls n="MBH.">14,2160.</ls>
+<div n="p">— {#api#} {%verwachsen, zuwachsen%}: {#pf\Ti\vyE KA\tamapi^rohati#}
+<ls>TS. 2,5,1,3.</ls>
+<div n="p">— {#samapi#} dass.: {#samasTyapi^ rohatu#}
+<ls>AV. 4,12,5.</ls>
+<div n="p">— {#aBi#} {%hinsteigen zu, besteigen%}
+<ls>ŚAT. BR. 12,2,3,10.</ls> {#a\BImaha\ svaje^nya\M BUmA^ pf\zWeva^ ruruhuH#}
+<ls>ṚV. 5,7,5.</ls> {#himavataH SfNgam#}
+<ls>R. 1,44,5.</ls>
+<ls>VIKR. 14, v. l.</ls> {#prAsAdaharmyARi vimAnaSiKarARi ca#}
+<ls>R. 2,33,3.</ls> {#raTam#}
+<ls>MBH. 5,7233.</ls> {#yAnapAtram#}
+<ls>KATHĀS. 25,40.</ls> {#ye ca mAmaBiroheyuH#} {%hinaufsteigen zu%}
 <ls>HARIV. 12031.</ls>
-
-<div n="p">— {#samaBi#} {%zusammen hinaufsteigen, besteigen%} 
-<ls>HARIV. 6533</ls> ({#samaDirohata#} die neuere Ausg.). {#SfNgARi#} 
-<ls>12795.</ls> — caus. {%aufladen%}: {#BARqaM samaBiropyatAm#} 
+<div n="p">— {#samaBi#} {%zusammen hinaufsteigen, besteigen%}
+<ls>HARIV. 6533</ls> ({#samaDirohata#} die neuere Ausg.). {#SfNgARi#}
+<ls n="HARIV.">12795.</ls> — caus. {%aufladen%}: {#BARqaM samaBiropyatAm#}
 <ls>HARIV. 3522.</ls>
-
-<div n="p">— {#ava#} {%hinabsteigen; beschreiten, betreten%}: {#a\va\roha^nnf\bIsa^m#} 
-<ls>ṚV. 5, 78, 4.</ls> 
-<ls>ŚAT. BR. 5, 1, 5, 4.</ls> {#carmaRi#} 
-<ls>KĀTY. ŚR. 14, 5, 15.</ls> 
-<ls>ĀŚV. GṚHY. 2, 6, 12.</ls> {#kUpam#} 
-<ls>3, 9, 6.</ls> {#panTAnam#} 
-<ls>ŚR. 2, 5, 6.</ls> {#yO vyA\GrAvava^rUQO\ jiGa^tsataH#} {%herbeigekommen%} 
-<ls>AV. 6, 140, 1.</ls> — {#yAnAsanasTaScEvEnamavaruhyABivAdayet#} 
-<ls>M. 2, 202.</ls> {#mahendravAhAt#} (vgl. 
-<ls>P. 5, 4, 45</ls>, wo gesagt wird, dass statt der Endung des abl. hier nicht {#tas#} stehen könne) 
-<ls>MBH. 3, 11906. 11922. 6, 2221. 9, 3468. fg. 3470</ls> (med.). {#prAsAdAt#} 
-<ls>HARIV. 11022</ls> <ls>?(S. 790). R. 2, 7, 11</ls> (med.). {#vfkzAgrAt#} 
-<ls>?98, 27. R. GORR. 1, 79, 28. 4, 49, 25 (med.). 5, 74, 14. RAGH. 1, 54. 4, 80. ŚĀK. 167.KATHĀS. 17, 116. 21, 71. 42, 11. BHĀG. P. 4, 6, 25. 9, 42. 5, 10, 16. PAÑCAR. 1, 4, 62. BHAṬṬ. 8, 104.</ls>
+<div n="p">— {#ava#} {%hinabsteigen; beschreiten, betreten%}: {#a\va\roha^nnf\bIsa^m#}
+<ls>ṚV. 5,78,4.</ls>
+<ls>ŚAT. BR. 5,1,5,4.</ls> {#carmaRi#}
+<ls>KĀTY. ŚR. 14,5,15.</ls>
+<ls>ĀŚV. GṚHY. 2,6,12.</ls> {#kUpam#}
+<ls n="ĀŚV. GṚHY.">3,9,6.</ls> {#panTAnam#}
+<ls>ŚR. 2,5,6.</ls> {#yO vyA\GrAvava^rUQO\ jiGa^tsataH#} {%herbeigekommen%}
+<ls>AV. 6,140,1.</ls> — {#yAnAsanasTaScEvEnamavaruhyABivAdayet#}
+<ls>M. 2,202.</ls> {#mahendravAhAt#} (vgl.
+<ls>P. 5,4,45</ls>, wo gesagt wird, dass statt der Endung des abl. hier nicht {#tas#} stehen könne)
+<ls>MBH. 3,11906.</ls> <ls n="MBH. 3,">11922.</ls> <ls n="MBH.">6,2221.</ls> <ls n="MBH.">9,3468. fg.</ls> <ls n="MBH. 9,">3470</ls> (med.). {#prAsAdAt#}
+<ls>HARIV. 11022</ls> (S. 790). <ls>R. 2,7,11</ls> (med.). {#vfkzAgrAt#}
+<ls n="R. 2,">98,27.</ls> <ls>R. GORR. 1,79,28.</ls> <ls n="R. GORR.">4,49,25</ls> (med.). <ls n="R. GORR.">5,74,14.</ls> <ls>RAGH. 1,54.</ls> <ls n="RAGH.">4,80.</ls> <ls>ŚĀK. 167.KATHĀS. 17,116. 21,71. 42,11.</ls> <ls>BHĀG. P. 4,6,25.</ls> <ls n="BHĀG. P. 4,">9,42.</ls> <ls n="BHĀG. P.">5,10,16.</ls> <ls>PAÑCAR. 1,4,62.</ls> <ls>BHAṬṬ. 8,104.</ls>
 [Page6-0410]
-{#avaruhyADirUQaH#} in einen Brunnen 
-<ls>RĀJA-TAR. 6, 52.</ls> {#avaruhya ca te BUmim#} 
-<ls>R. 4, 49, 26.</ls> {#avarUQaSca vipadBAro mamAtmanaH#} so v. a. {%abgenommen, abgeladen%} 
-<ls>KATHĀS. 27, 98.</ls> {#ESvaryAt#} {%hinabsteigen von der Herrschaft%} so v. a. {%darum kommen%} 
-<ls>BHĀG. P. 4, 14, 16.</ls> Vgl. {#avaroha#} fgg. — caus. 
-<div n="1"> 1) {%hinabsteigen —, betreten lassen%} 
-<ls>KAUŚ. 61. 80.</ls> {#°ropya#} 
-<ls>GOBH. 2, 4, 6.</ls> {#avarohayaDvam#} {%lasset sie absteigen%} 
-<ls>MBH. 3, 15609.</ls> {#tAmavAropayatpatnIM raTAt#} 
-<ls>RAGH. 1, 54</ls> ({#avArohayat#} ed. Calc.). 
-<ls>HARIV. 9721.</ls> {%aussteigen lassen%} (aus einem Schiffe) 
-<ls>R. 2, 89, 19.</ls> {%herabnehmen%}: {#vfkzAgrAdDanUMzi#} 
-<ls>MBH. 4, 1318.</ls> {#gARqIvam#} (vom Wagen) 
-<ls>9, 3468.</ls> {#skanDAcCivikAm#} 
-<ls>R. 4, 24, 31.</ls> 
-<ls>BHĀG. P. 8, 6, 39.</ls> 
-<div n="1">— 2) {%pflanzen%}: {#avaropya vfkzam#} 
-<ls>MBH. 1, 7063</ls>; vgl. {#avaropaRa#} . 
-<div n="1">— 3) {%Jmd entsetzen, bringen um%}: {#rAjyAdavaropitaH#} 
-<ls>MBH. 4, 2101.</ls> 
-<ls>R. 4, 8, 20.</ls> 
-<ls>MĀRK. P. 8, 212. 9, 6.</ls> 
-<div n="1">— 4) {%herabsetzen, vermindern%}: {#pAdaSastvavaropitaH#} ({#DarmaH#}) 
-<ls>M. 1, 82.</ls> 
-<ls>MBH. 12, 8501.</ls> 
-<div n="1">— 5) {%herunterbringen, zu Nichte machen%}: {#rAzwrARi#} 
-<ls>BHĀG. P. 1, 16, 23.</ls> {#tvadavaropitakartfvAdAH#} 
-<ls>8, 22, 19.</ls>
-
-<div n="p">— {#aDyava#} {%herabtreten auf%}: {#hiraRyam#} 
-<ls>TBR. 1, 3, 7, 7.</ls>
-
-<div n="p">— {#anvava#} {%nach Jmd betreten%}: {#nAsya devA na ganDarvAH#} u.s.w. {#padamanvavarohanti prAptasya paramAM gatim#} 
-<ls>MBH. 12, 8453.</ls>
-
-<div n="p">— {#aByava#} {%herabtreten auf%} 
-<ls>ŚAT. BR. 5, 2, 1, 20. fg.</ls> {#hutASanaH . SvetASvamiva prAsAdaM jvalannaByavarUQavAn#} 
-<ls>R. 5, 52, 15.</ls>
-
-<div n="p">— {#upAva#} {%herabsteigen auf, zu%} (acc.), {%heraustreten aus%} (abl.): {#upAva^roha jAtavedaH puna\stvam#} 
-<ls>TBR. 2, 5, 8, 8.</ls> {#soma^ rAja\nviSvA\stvaM pra\jA u\pAva^roha#} 
-<ls>VS. 6, 26.</ls> 
-<ls>TS. 7, 3, 10, 1.</ls> 
-<ls>PAÑCAV. BR. 18, 10, 10.</ls> 
-<ls>ŚAT. BR. 5, 2, 2, 19. 10, 3, 3, 5.</ls> — caus. {%heraustreten lassen aus%} (abl.), technischer Ausdruck für das {%Wiederhervorholen%} des durch eine symbolische Handlung in den Reibhölzern u.s.w. geborgenen Feuers, 
-<ls>ŚĀṄKH. ŚR. 2, 17, 8.</ls> 
-<ls>GṚHY. 5, 1.</ls> <ls>KAUŚ. 40.</ls> <ls>Ind. St. 9, 311.</ls> 
+{#avaruhyADirUQaH#} in einen Brunnen
+<ls>RĀJA-TAR. 6,52.</ls> {#avaruhya ca te BUmim#}
+<ls>R. 4,49,26.</ls> {#avarUQaSca vipadBAro mamAtmanaH#} so v. a. {%abgenommen, abgeladen%}
+<ls>KATHĀS. 27,98.</ls> {#ESvaryAt#} {%hinabsteigen von der Herrschaft%} so v. a. {%darum kommen%}
+<ls>BHĀG. P. 4,14,16.</ls> Vgl. {#avaroha#} fgg. — caus.
+<div n="1"> 1) {%hinabsteigen —, betreten lassen%}
+<ls>KAUŚ. 61. 80.</ls> {#°ropya#}
+<ls>GOBH. 2,4,6.</ls> {#avarohayaDvam#} {%lasset sie absteigen%}
+<ls>MBH. 3,15609.</ls> {#tAmavAropayatpatnIM raTAt#}
+<ls>RAGH. 1,54</ls> ({#avArohayat#} <ls>ed. Calc.</ls>).
+<ls>HARIV. 9721.</ls> {%aussteigen lassen%} (aus einem Schiffe)
+<ls>R. 2,89,19.</ls> {%herabnehmen%}: {#vfkzAgrAdDanUMzi#}
+<ls>MBH. 4,1318.</ls> {#gARqIvam#} (vom Wagen)
+<ls n="MBH.">9,3468.</ls> {#skanDAcCivikAm#}
+<ls>R. 4,24,31.</ls>
+<ls>BHĀG. P. 8,6,39.</ls>
+<div n="1">— 2) {%pflanzen%}: {#avaropya vfkzam#}
+<ls>MBH. 1,7063</ls>; vgl. {#avaropaRa#} .
+<div n="1">— 3) {%Jmd entsetzen, bringen um%}: {#rAjyAdavaropitaH#}
+<ls>MBH. 4,2101.</ls>
+<ls>R. 4,8,20.</ls>
+<ls>MĀRK. P. 8,212. 9,6.</ls>
+<div n="1">— 4) {%herabsetzen, vermindern%}: {#pAdaSastvavaropitaH#} ({#DarmaH#})
+<ls>M. 1,82.</ls>
+<ls>MBH. 12,8501.</ls>
+<div n="1">— 5) {%herunterbringen, zu Nichte machen%}: {#rAzwrARi#}
+<ls>BHĀG. P. 1,16,23.</ls> {#tvadavaropitakartfvAdAH#}
+<ls n="BHĀG. P.">8,22,19.</ls>
+<div n="p">— {#aDyava#} {%herabtreten auf%}: {#hiraRyam#}
+<ls>TBR. 1,3,7,7.</ls>
+<div n="p">— {#anvava#} {%nach Jmd betreten%}: {#nAsya devA na ganDarvAH#} u.s.w. {#padamanvavarohanti prAptasya paramAM gatim#}
+<ls>MBH. 12,8453.</ls>
+<div n="p">— {#aByava#} {%herabtreten auf%}
+<ls>ŚAT. BR. 5,2,1,20. fg.</ls> {#hutASanaH . SvetASvamiva prAsAdaM jvalannaByavarUQavAn#}
+<ls>R. 5,52,15.</ls>
+<div n="p">— {#upAva#} {%herabsteigen auf, zu%} (acc.), {%heraustreten aus%} (abl.): {#upAva^roha jAtavedaH puna\stvam#}
+<ls>TBR. 2,5,8,8.</ls> {#soma^ rAja\nviSvA\stvaM pra\jA u\pAva^roha#}
+<ls>VS. 6,26.</ls>
+<ls>TS. 7,3,10,1.</ls>
+<ls>PAÑCAV. BR. 18,10,10.</ls>
+<ls>ŚAT. BR. 5,2,2,19.</ls> <ls n="ŚAT. BR.">10,3,3,5.</ls> — caus. {%heraustreten lassen aus%} (abl.), technischer Ausdruck für das {%Wiederhervorholen%} des durch eine symbolische Handlung in den Reibhölzern u.s.w. geborgenen Feuers,
+<ls>ŚĀṄKH. ŚR. 2,17,8.</ls>
+<ls>GṚHY. 5,1.</ls> <ls>KAUŚ. 40.</ls> <ls>Ind. St. 9,311.</ls>
 <div n="v">— Vgl. u. {#samA#} .
-
-<div n="p">— {#pratyava#} 
-<div n="1"> 1) {%wieder heruntersteigen zu%} (acc.), {%herabsteigen auf%} 
-<ls>AIT. BR. 4, 21.</ls> 
-<ls>ŚAT. BR. 5, 1, 1, 5. 6, 7, 3, 6.</ls> {#svargAllokAt#} 
-<ls>12, 4, 2, 6.</ls> {#i\maM lo\kam#} 
-<ls>TBR. 1, 8, 8, 5.</ls> {#ma\nu\zya\ra\TenE\va de^vara\TaM pra\tyava^rohati#} 
-<ls>1, 6, 8.</ls> {#pratyavaroha jAtevadaH#} (vgl. u. {#upAva#}) 
-<ls>ĀŚV. ŚR. 3, 10, 8.</ls> 
-<ls>TS. 1, 7, 6, 2. 5, 6, 9, 1.</ls> 
-<div n="1">— 2) {%vor Jmd%} (acc.) {%ehrerbietig absteigen%} (vom Sitz, Wagen): {#yaTA SreyasyAyati pApIyAnpratyavarohet#} 
-<ls>ŚAT. BR. 4, 1, 3, 9.</ls> {#sa\Mva\tsa\raM na kaM ca\na pra\tyava^rohet#} 
-<ls>TS. 5, 5, 4, 3.</ls> {#kzatriyaM viSaH#} 
-<ls>ŚAT. BR. 3, 9, 3, 7.</ls> {#raTAt#} 
-<ls>MBH. 8, 3302.</ls> 
-<div n="1">— 3) {%die%} <is>Pratyavarohaṇa</is> {%genannte Feier begehen%}, beziehungsweise {%das Lager aus der Bettstelle wieder auf den Erdboden verlegen%} (vgl. 
-<ls>STENZLER</ls> zu <ls>ĀŚV. GṚHY.</ls> <ls>S. 69</ls>) <ls>ŚĀṄKH. GṚHY. 4, 17.</ls> 
-<div n="v">— Vgl. {#pratyavarUQi, pratyavaroha#} fgg. — caus. {%Jmd herabbringen von, Jmd%} (acc.) {%um Etwas%} (abl. instr.) {%bringen%}: {#darpAt#} 
-<ls>MBH. 8, 2769.</ls> {#mAnAt#} 
-<ls>12, 4159.</ls> {#SriyA#} 
-<ls>4, 536.</ls>
-
-<div n="p">— {#aBipratyava#} {%herabsteigen auf%}: {#udumbaraSAKAm#} 
-<ls>AIT. BR. 8, 9.</ls>
-
-<div n="p">— {#vyava#} {%besteigen%}: {#Sayanam#} 
-<ls>MBH. 13, 1458</ls> (med.). — caus. {%Jmd entsetzen%}: {#kAlena balirindraH kftaH kAlena vyavaropitaH#} 
-<ls>Verz. d. Oxf. H. 216,b,6.</ls> {%Jmd um Etwas%} (abl.) {%bringen%}: {#sTAnAt#} 
-<ls>Spr. 4920.</ls> {#BojanAt#} 
-<ls>MBH. 5, 3688.</ls>
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {%besteigen, ersteigen; sich erheben zu, einsteigen in; sich aufschwingen —, sich setzen auf%}; mit acc. und loc.: {#sAno\H sAnu^m#} 
-<ls>ṚV. 1, 10, 2.</ls> {#raTa^m#} 
-<ls n="ṚV. 1,">34, 5.</ls> {#garta^m#} 
-<ls n="ṚV.">5, 62, 8.</ls> {#nAva^m#} 
-<ls n="ṚV.">7, 88, 3.</ls> {#nAka^m#} 
-<ls n="ṚV.">3, 2, 12.</ls> {#svargaM lokamAruheyam#} ved. Cit. 
-<ls>P. 3, 1, 86</ls>, <ls>Sch.</ls> {#A yadaSvA\nvana^nvataH Sra\dDayA\haM raTe^ ru\ham#}
+<div n="p">— {#pratyava#}
+<div n="1"> 1) {%wieder heruntersteigen zu%} (acc.), {%herabsteigen auf%}
+<ls>AIT. BR. 4,21.</ls>
+<ls>ŚAT. BR. 5,1,1,5.</ls> <ls n="ŚAT. BR.">6,7,3,6.</ls> {#svargAllokAt#}
+<ls n="ŚAT. BR.">12,4,2,6.</ls> {#i\maM lo\kam#}
+<ls>TBR. 1,8,8,5.</ls> {#ma\nu\zya\ra\TenE\va de^vara\TaM pra\tyava^rohati#}
+<ls n="TBR.">1,6,8.</ls> {#pratyavaroha jAtevadaH#} (vgl. u. {#upAva#})
+<ls>ĀŚV. ŚR. 3,10,8.</ls>
+<ls>TS. 1,7,6,2.</ls> <ls n="TS.">5,6,9,1.</ls>
+<div n="1">— 2) {%vor Jmd%} (acc.) {%ehrerbietig absteigen%} (vom Sitz, Wagen): {#yaTA SreyasyAyati pApIyAnpratyavarohet#}
+<ls>ŚAT. BR. 4,1,3,9.</ls> {#sa\Mva\tsa\raM na kaM ca\na pra\tyava^rohet#}
+<ls>TS. 5,5,4,3.</ls> {#kzatriyaM viSaH#}
+<ls>ŚAT. BR. 3,9,3,7.</ls> {#raTAt#}
+<ls>MBH. 8,3302.</ls>
+<div n="1">— 3) {%die%} <is>Pratyavarohaṇa</is> {%genannte Feier begehen%}, beziehungsweise {%das Lager aus der Bettstelle wieder auf den Erdboden verlegen%} (vgl.
+<ls>STENZLER</ls> zu <ls>ĀŚV. GṚHY.</ls> S. 69) <ls>ŚĀṄKH. GṚHY. 4,17.</ls>
+<div n="v">— Vgl. {#pratyavarUQi, pratyavaroha#} fgg. — caus. {%Jmd herabbringen von, Jmd%} (acc.) {%um Etwas%} (abl. instr.) {%bringen%}: {#darpAt#}
+<ls>MBH. 8,2769.</ls> {#mAnAt#}
+<ls n="MBH.">12,4159.</ls> {#SriyA#}
+<ls n="MBH.">4,536.</ls>
+<div n="p">— {#aBipratyava#} {%herabsteigen auf%}: {#udumbaraSAKAm#}
+<ls>AIT. BR. 8,9.</ls>
+<div n="p">— {#vyava#} {%besteigen%}: {#Sayanam#}
+<ls>MBH. 13,1458</ls> (med.). — caus. {%Jmd entsetzen%}: {#kAlena balirindraH kftaH kAlena vyavaropitaH#}
+<ls>Verz. d. Oxf. H. 216,b,6.</ls> {%Jmd um Etwas%} (abl.) {%bringen%}: {#sTAnAt#}
+<ls>Spr. 4920.</ls> {#BojanAt#}
+<ls>MBH. 5,3688.</ls>
+<div n="p">— {#A#}
+<div n="1"> 1) {%besteigen, ersteigen; sich erheben zu, einsteigen in; sich aufschwingen —, sich setzen auf%}; mit acc. und loc.: {#sAno\H sAnu^m#}
+<ls>ṚV. 1,10,2.</ls> {#raTa^m#}
+<ls n="ṚV. 1,">34,5.</ls> {#garta^m#}
+<ls n="ṚV.">5,62,8.</ls> {#nAva^m#}
+<ls n="ṚV.">7,88,3.</ls> {#nAka^m#}
+<ls n="ṚV.">3,2,12.</ls> {#svargaM lokamAruheyam#} ved. Cit.
+<ls>P. 3,1,86</ls>, <ls>Sch.</ls> {#A yadaSvA\nvana^nvataH Sra\dDayA\haM raTe^ ru\ham#}
 [Page6-0411]
-
-<ls>ṚV. 8, 1, 31.</ls> {#A somo^ a\smA~ a^ruhat#} {%ist bei uns eingekehrt%} 
-<ls n="ṚV. 8,">48, 11.</ls> <ls n="ṚV. 8,">89, 5.</ls> <ls n="ṚV.">9, 40, 2.</ls> <ls n="ṚV. 9,">63, 22.</ls> {#yoni^m#} 
-<ls>AV. 3, 20, 1.</ls> {#sA BUmi\mA ru^rohiTa va\hyaM SrA\ntA va\DUri^va#} 
-<ls>4, 20, 3.</ls> {#A ro^ha\ tama^so\ jyoti^H#} 
-<ls>8, 1, 8.</ls> {#di\vi Goza\ Aru^hat#} 
-<ls>ṚV. 7, 83, 3.</ls> {#tve a^su\rya1^\mAru^hat#} 
-<ls n="ṚV.">5, 10, 2.</ls> {#raTe^#} 
-<ls n="ṚV.">8, 22, 9.</ls> {#yo a^Sva\tTaH Sa^mIga\rBa A^ru\roha\ tve sacA^#} 
-<ls>TBR. 1, 2, 1, 8.</ls> {#paSum#} 
-<ls>ŚAT. BR. 7, 3, 2, 17.</ls> {#tulAm#} 
-<ls>11, 2, 7, 33.</ls> {#A ro^ha\tAyu^rja\rasa^M vfRA\nAH#} 
-<ls>ṚV. 10, 18, 7.</ls> {#uKAmarciH#} 
-<ls>ŚAT. BR. 6, 6, 2, 8.</ls> {%beschreiten%}: {#agnim#} 
-<ls>7, 3, 2, 17. 5, 2, 40. 9, 2, 1, 2.</ls> bei der Begattung 
-<ls>KAUŚ. 89.</ls> — {#dyAmAruroha#} so v. a. {%starb%} 
-<ls>RĀJA-TAR. 3, 385.</ls> {#svarlokamArokzyan#} 
-<ls>BHĀG. P. 4, 12, 31.</ls> {#Arokzan#} (!) 
-<ls>11, 17, 30.</ls> {#girimAruhya#} 
-<ls>MBH. 3, 11949.</ls> 
-<ls>HARIV. 5493</ls> <ls>?(pass.). 7612. VOP. 5, 21.</ls> {#mahadveSma#} 
-<ls>MBH. 3, 2868.</ls> {#prAsAdAn#} 
-<ls>R. 2, 33, 4.</ls> {#prAkAram#} 
-<ls>BHAṬṬ. 8, 56.</ls> {#Aruruhe paraM padam#} 
-<ls>BHĀG. P. 4, 21, 7.</ls> {#acalam#} 
-<ls>MBH. 9, 3044.</ls> 
-<ls>R. 6, 14, 17.</ls> 
-<ls>Spr. 1740.</ls> {#kIwo 'pi - Arohati satAM SiraH#} 
-<ls>Spr. 689.</ls> {#raTam#} 
-<ls>MBH. 3, 1724. 1727. 1729. 5, 7125.</ls> 
-<ls>R. 2, 40, 11. 13. 3, 48, 6. 7, 46, 23.</ls> 
-<ls>KĀM. NĪTIS. 7, 30.</ls> <ls>ŚĀK. 95, 11. 96, 2.</ls> <ls>PRAB. 79, 2.</ls> <ls>VET.</ls> in <ls>LA. (III) 31, 13.</ls> {#ArohamARA raTam#} 
-<ls>MBH. 1, 5734. 3, 1728. 1731. 8, 2964.</ls> 
-<ls>HARIV. 6306.</ls> 
-<ls>R. 7, 46, 22.</ls> 
-<ls>BHĀG. P. 8, 11, 16. 10, 47, 65.</ls> {#AruhyatAmayaM raTaH#} 
-<ls>R. 3, 48, 5.</ls> {#yo na yAnaM na paryaNkaM na pIWaM na gajaM raTam . Arohet#} 
-<ls>MBH. 4, 96.</ls> {#vicAradolAm#} 
-<ls>KATHĀS. 9, 87. 101, 188.</ls> {#Asanam#} 
-<ls>Spr. 5395.</ls> 
-<ls>BHĀG. P. 4, 8, 11.</ls> {#nAvam#} 
-<ls>R. 1, 26, 3 (27, 3 GORR.). 2, 52, 8. 69. 89, 14. 21.</ls> <ls>Spr. 3537.</ls> <ls>KATHĀS. 26, 7.</ls> <ls>RĀJA-TAR. 5, 84.</ls> <ls>BHĀG. P. 8, 24, 42.</ls> {#hayAn#} 
-<ls>R. 2, 68, 10. 97, 20.</ls> 
-<ls>VARĀH. BṚH. S. 44, 22. 93, 13.</ls> 
-<ls>KATHĀS. 13, 9. 18, 18. 26, 86.</ls> 
-<ls>ŚUK.</ls> in <ls>LA. (III) 35, 15.</ls> {#KagADipam#} 
-<ls>BHĀG. P. 8, 4, 26.</ls> {#Arohizye kaTaM tvaSvam#} 
-<ls>MBH. 13, 539. 5, 3854.</ls> {#Arohanti SanErBftyA Dunvantamapi pArTivam#} 
-<ls>Spr. 749.</ls> {#gAvaScAruruhurvfzAn#} {%besprangen%} 
-<ls>HARIV. 8290.</ls> {#yatrArohanti jetAro vahanti ca parAjitAH#} (ein Spiel) {%in dem die Sieger reiten und die Besiegten trägen%} ({%geritten werden%}) 
-<ls>BHĀG. P. 10, 18, 21.</ls> {#AruhemAM mama SroRIM nezyAmi tvAM vihAyasA#} 
-<ls>MBH. 1, 5966.</ls> {#jaNGAm#} 
-<ls>KATHĀS. 18, 310.</ls> {#skanDam#} 
-<ls>165. 349.</ls> {#aNkam#} 
-<ls>Spr. 2855.</ls> {#SAKAm#} 
-<ls>R.</ls> Einl. {#agnimArokzyate#} so v. a. {%wird den Scheiterhaufen besteigen%} 
-<ls>R. 6, 72, 57.</ls> {#vedIm#} 
-<ls>MBH. 3, 11018</ls> <ls>?(S. 570). KATHĀS. 16, 79.</ls> {#kzetramAruhya mAlam#} 
-<ls>MEGH. 16.</ls> 
-<ls>ŚĀK. 62, 15.</ls> {#Arurohottare girO#} 
-<ls>KATHĀS. 25, 26.</ls> {#tatrAroheta#} 
-<ls>MBH. 3, 8002.</ls> {#vfkzezu#} 
-<ls>2545.</ls> <ls>VARĀH. BṚH. S. 79, 6.</ls> {#raTAdizu#} 
-<ls>BHAṬṬ. 14, 8.</ls> {#kzipramAruhyatAm#} impers. (sc. {#raTe#}) 
-<ls>R. 2, 46, 24.</ls> {#SayyAsanayoH#} 
-<ls>MĀRK. P. 34, 85.</ls> {#nAvi#} 
-<ls>MBH. 3, 12776.</ls> {#kareRukAyAm#} 
-<ls>KATHĀS. 13, 21. fg.</ls> {#vihage#} 
-<ls>12, 147. 152.</ls> {#skanDe#} 
-<ls>18, 156. 380.</ls> {#Arohati na yaH svasya vaMSasyAgre Dvajo yaTA#} 
-<ls>Spr. 679.</ls> {#A/rUQa#} 
-<div n="2"> a) in pass. Bed.: {#ArUQo vfkzo BavatA#} 
-<ls>P. 3, 4, 72,</ls> 
-<ls>Sch.</ls> ({#vAraREH#}) {#mahAmAtrottamArUQEH#} {%geritten von%} 
-<ls>HARIV. 5469.</ls> 
-<ls>MBH. 4, 1031.</ls> {#°nfpasTAna#} {%bestiegen%} 
-<ls>BHĀG. P. 4, 14, 4.</ls> impers.: {#ArUQaM BavatA#} 
-<ls>P. 3, 4, 72,</ls> 
-<ls>Sch.</ls> 
-<div n="2">— b) in act. Bed.: {#dUramArUQaH savitA#} 
-<ls>ŚĀK. 57, 2, v. l.</ls> {#ArUQacyuta#} {%gestiegen und wieder gefallen%} 
-<ls>BHĀG. P. 11, 7, 74.</ls> {#Sa\mIma^Sva\tTa ArU^QaH#} 
-<ls>AV. 6, 11, 1.</ls> {#vyoma#} 
-<ls>KATHĀS. 48, 84.</ls> {#yugAntaramArUQaH savitA#} 
-<ls>ŚĀK. 57, 2.</ls> {#adrIn#} 
-<ls>RAGH. 6, 77.</ls> 
-<ls>MEGH. 18.</ls> {#vfkzam#} 
-<ls>P. 3, 4, 72,</ls> 
-<ls>Sch.</ls> {#kAko vfkzAgramArUQaH#} 
-<ls>HIT. 38, 11.</ls> {#aSvam, vfkzam, hastinam, nAvam, Karam, uzwram#} 
-<ls>M. 4, 120.</ls> {#raTam#} 
-<ls>R. 2, 40, 17.</ls> {#hayam#} 
-<ls>1, 19, 23.</ls> {#citAm#} 
-<ls>KATHĀS. 27, 98.</ls> {#ambarotsaNgam#} 
-<ls>22, 10.</ls> {#brahmaRaH panTAnamArUQAH#} {%sich erhoben habend auf, betreten habend%} 
-<ls>MAITRYUP. 6, 29.</ls> {#pavanapadavIm#} 
-<ls>MEGH. 8.</ls> {#yOvanapadavIm#} 
-<ls>PAÑCAT. 87, 14.</ls> {#utpaTam#} 
-<ls>R. 3, 45, 6.</ls> {#tarO#} 
-<ls>KATHĀS. 29, 129.</ls> {#siMhAsane#} 
-<ls>18, 53.</ls> {#maWopari#} 
-<ls>24, 218.</ls> {#svarArUQaH#} 
-<ls>BHAṬṬ. 7, 81.</ls> {#prAsAdArUQa#} 
-<ls>HIT. 4, 6.</ls> {#raTArUQa#} 
-<ls>ŚĀK. 97, 1, v. l.</ls> 
-<ls>VIKR. 5, 4.</ls> 
-<ls>KATHĀS. 18, 388.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 30, 17.</ls> <ls>RĀJA-TAR. 5, 218.</ls>
+<ls>ṚV. 8,1,31.</ls> {#A somo^ a\smA~ a^ruhat#} {%ist bei uns eingekehrt%}
+<ls n="ṚV. 8,">48,11.</ls> <ls n="ṚV. 8,">89,5.</ls> <ls n="ṚV.">9,40,2.</ls> <ls n="ṚV. 9,">63,22.</ls> {#yoni^m#}
+<ls>AV. 3,20,1.</ls> {#sA BUmi\mA ru^rohiTa va\hyaM SrA\ntA va\DUri^va#}
+<ls n="AV.">4,20,3.</ls> {#A ro^ha\ tama^so\ jyoti^H#}
+<ls n="AV.">8,1,8.</ls> {#di\vi Goza\ Aru^hat#}
+<ls>ṚV. 7,83,3.</ls> {#tve a^su\rya1^\mAru^hat#}
+<ls n="ṚV.">5,10,2.</ls> {#raTe^#}
+<ls n="ṚV.">8,22,9.</ls> {#yo a^Sva\tTaH Sa^mIga\rBa A^ru\roha\ tve sacA^#}
+<ls>TBR. 1,2,1,8.</ls> {#paSum#}
+<ls>ŚAT. BR. 7,3,2,17.</ls> {#tulAm#}
+<ls n="ŚAT. BR.">11,2,7,33.</ls> {#A ro^ha\tAyu^rja\rasa^M vfRA\nAH#}
+<ls>ṚV. 10,18,7.</ls> {#uKAmarciH#}
+<ls>ŚAT. BR. 6,6,2,8.</ls> {%beschreiten%}: {#agnim#}
+<ls n="ŚAT. BR.">7,3,2,17. 5,2,40. 9,2,1,2.</ls> bei der Begattung
+<ls>KAUŚ. 89.</ls> — {#dyAmAruroha#} so v. a. {%starb%}
+<ls>RĀJA-TAR. 3,385.</ls> {#svarlokamArokzyan#}
+<ls>BHĀG. P. 4,12,31.</ls> {#Arokzan#} (!)
+<ls n="BHĀG. P.">11,17,30.</ls> {#girimAruhya#}
+<ls>MBH. 3,11949.</ls>
+<ls>HARIV. 5493</ls> (pass.). <ls n="HARIV.">7612.</ls> <ls>VOP. 5,21.</ls> {#mahadveSma#}
+<ls>MBH. 3,2868.</ls> {#prAsAdAn#}
+<ls>R. 2,33,4.</ls> {#prAkAram#}
+<ls>BHAṬṬ. 8,56.</ls> {#Aruruhe paraM padam#}
+<ls>BHĀG. P. 4,21,7.</ls> {#acalam#}
+<ls>MBH. 9,3044.</ls>
+<ls>R. 6,14,17.</ls>
+<ls>Spr. 1740.</ls> {#kIwo 'pi — Arohati satAM SiraH#}
+<ls>Spr. 689.</ls> {#raTam#}
+<ls>MBH. 3,1724.</ls> <ls n="MBH. 3,">1727.</ls> <ls n="MBH. 3,">1729.</ls> <ls n="MBH.">5,7125.</ls>
+<ls>R. 2,40,11.</ls> <ls n="R. 2,40,">13.</ls> <ls n="R.">3,48,6.</ls> <ls n="R.">7,46,23.</ls>
+<ls>KĀM. NĪTIS. 7,30.</ls> <ls>ŚĀK. 95,11.</ls> <ls n="ŚĀK.">96,2.</ls> <ls>PRAB. 79,2.</ls> <ls>VET. in LA. (III) 31,13.</ls> {#ArohamARA raTam#}
+<ls>MBH. 1,5734.</ls> <ls n="MBH.">3,1728.</ls> <ls n="MBH. 3,">1731.</ls> <ls n="MBH.">8,2964.</ls>
+<ls>HARIV. 6306.</ls>
+<ls>R. 7,46,22.</ls>
+<ls>BHĀG. P. 8,11,16.</ls> <ls n="BHĀG. P.">10,47,65.</ls> {#AruhyatAmayaM raTaH#}
+<ls>R. 3,48,5.</ls> {#yo na yAnaM na paryaNkaM na pIWaM na gajaM raTam . Arohet#}
+<ls>MBH. 4,96.</ls> {#vicAradolAm#}
+<ls>KATHĀS. 9,87.</ls> <ls n="KATHĀS.">101,188.</ls> {#Asanam#}
+<ls>Spr. 5395.</ls>
+<ls>BHĀG. P. 4,8,11.</ls> {#nAvam#}
+<ls>R. 1,26,3</ls> (<ls n="GORR. 1,">27,3</ls> <ls>GORR.</ls>). <ls n="R.">2,52,8.</ls> <ls n="R. 2,52,">69.</ls> <ls n="R. 2,">89,14.</ls> <ls n="R. 2,89,">21.</ls> <ls>Spr. 3537.</ls> <ls>KATHĀS. 26,7.</ls> <ls>RĀJA-TAR. 5,84.</ls> <ls>BHĀG. P. 8,24,42.</ls> {#hayAn#}
+<ls>R. 2,68,10.</ls> <ls n="R. 2,">97,20.</ls>
+<ls>VARĀH. BṚH. S. 44,22. 93,13.</ls>
+<ls>KATHĀS. 13,9.</ls> <ls n="KATHĀS.">18,18.</ls> <ls n="KATHĀS.">26,86.</ls>
+<ls>ŚUK. in LA. (III) 35,15.</ls> {#KagADipam#}
+<ls>BHĀG. P. 8,4,26.</ls> {#Arohizye kaTaM tvaSvam#}
+<ls>MBH. 13,539.</ls> <ls n="MBH.">5,3854.</ls> {#Arohanti SanErBftyA Dunvantamapi pArTivam#}
+<ls>Spr. 749.</ls> {#gAvaScAruruhurvfzAn#} {%besprangen%}
+<ls>HARIV. 8290.</ls> {#yatrArohanti jetAro vahanti ca parAjitAH#} (ein Spiel) {%in dem die Sieger reiten und die Besiegten trägen%} ({%geritten werden%})
+<ls>BHĀG. P. 10,18,21.</ls> {#AruhemAM mama SroRIM nezyAmi tvAM vihAyasA#}
+<ls>MBH. 1,5966.</ls> {#jaNGAm#}
+<ls>KATHĀS. 18,310.</ls> {#skanDam#}
+<ls n="KATHĀS. 18,">165.</ls> <ls n="KATHĀS. 18,">349.</ls> {#aNkam#}
+<ls>Spr. 2855.</ls> {#SAKAm#}
+<ls>R.</ls> Einl. {#agnimArokzyate#} so v. a. {%wird den Scheiterhaufen besteigen%}
+<ls>R. 6,72,57.</ls> {#vedIm#}
+<ls>MBH. 3,11018</ls> (S. 570). <ls>KATHĀS. 16,79.</ls> {#kzetramAruhya mAlam#}
+<ls>MEGH. 16.</ls>
+<ls>ŚĀK. 62,15.</ls> {#Arurohottare girO#}
+<ls>KATHĀS. 25,26.</ls> {#tatrAroheta#}
+<ls>MBH. 3,8002.</ls> {#vfkzezu#}
+<ls n="MBH. 3,">2545.</ls> <ls>VARĀH. BṚH. S. 79,6.</ls> {#raTAdizu#}
+<ls>BHAṬṬ. 14,8.</ls> {#kzipramAruhyatAm#} impers. (sc. {#raTe#})
+<ls>R. 2,46,24.</ls> {#SayyAsanayoH#}
+<ls>MĀRK. P. 34,85.</ls> {#nAvi#}
+<ls>MBH. 3,12776.</ls> {#kareRukAyAm#}
+<ls>KATHĀS. 13,21. fg.</ls> {#vihage#}
+<ls n="KATHĀS.">12,147.</ls> <ls n="KATHĀS. 12,">152.</ls> {#skanDe#}
+<ls n="KATHĀS.">18,156.</ls> <ls n="KATHĀS. 18,">380.</ls> {#Arohati na yaH svasya vaMSasyAgre Dvajo yaTA#}
+<ls>Spr. 679.</ls> {#A/rUQa#}
+<div n="2"> a) in pass. Bed.: {#ArUQo vfkzo BavatA#}
+<ls>P. 3,4,72</ls>, <ls>Sch.</ls>
+({#vAraREH#}) {#mahAmAtrottamArUQEH#} {%geritten von%}
+<ls>HARIV. 5469.</ls>
+<ls>MBH. 4,1031.</ls> {#°nfpasTAna#} {%bestiegen%}
+<ls>BHĀG. P. 4,14,4.</ls> impers.: {#ArUQaM BavatA#}
+<ls>P. 3,4,72</ls>, <ls>Sch.</ls>
+<div n="2">— b) in act. Bed.: {#dUramArUQaH savitA#}
+<ls>ŚĀK. 57,2, v. l.</ls> {#ArUQacyuta#} {%gestiegen und wieder gefallen%}
+<ls>BHĀG. P. 11,7,74.</ls> {#Sa\mIma^Sva\tTa ArU^QaH#}
+<ls>AV. 6,11,1.</ls> {#vyoma#}
+<ls>KATHĀS. 48,84.</ls> {#yugAntaramArUQaH savitA#}
+<ls>ŚĀK. 57,2.</ls> {#adrIn#}
+<ls>RAGH. 6,77.</ls>
+<ls>MEGH. 18.</ls> {#vfkzam#}
+<ls>P. 3,4,72</ls>, <ls>Sch.</ls>
+{#kAko vfkzAgramArUQaH#}
+<ls>HIT. 38,11.</ls> {#aSvam, vfkzam, hastinam, nAvam, Karam, uzwram#}
+<ls>M. 4,120.</ls> {#raTam#}
+<ls>R. 2,40,17.</ls> {#hayam#}
+<ls n="R.">1,19,23.</ls> {#citAm#}
+<ls>KATHĀS. 27,98.</ls> {#ambarotsaNgam#}
+<ls n="KATHĀS.">22,10.</ls> {#brahmaRaH panTAnamArUQAH#} {%sich erhoben habend auf, betreten habend%}
+<ls>MAITRYUP. 6,29.</ls> {#pavanapadavIm#}
+<ls>MEGH. 8.</ls> {#yOvanapadavIm#}
+<ls>PAÑCAT. 87,14.</ls> {#utpaTam#}
+<ls>R. 3,45,6.</ls> {#tarO#}
+<ls>KATHĀS. 29,129.</ls> {#siMhAsane#}
+<ls n="KATHĀS.">18,53.</ls> {#maWopari#}
+<ls n="KATHĀS.">24,218.</ls> {#svarArUQaH#}
+<ls>BHAṬṬ. 7,81.</ls> {#prAsAdArUQa#}
+<ls>HIT. 4,6.</ls> {#raTArUQa#}
+<ls>ŚĀK. 97,1, v. l.</ls>
+<ls>VIKR. 5,4.</ls>
+<ls>KATHĀS. 18,388.</ls>
+<ls>VET. in LA. (III) 30,17.</ls> <ls>RĀJA-TAR. 5,218.</ls>
 [Page6-0412]
-{#hayArUQa#} {%reitend auf, sitzend auf%} 
-<ls>Spr. 4885.</ls> 
-<ls>VARĀH. BṚH. S. 58, 56. fg.</ls> 
-<ls>KATHĀS. 12, 157. 18, 384.</ls> 
-<ls>RĀJA-TAR. 4, 277.</ls> 
-<ls>MĀRK. P. 78, 24.</ls> 
-<ls>PAÑCAT. 43, 5. 44, 23. 46, 6.</ls> 
-<ls>Verz. d. B. H. No. 936.</ls> {#skanDArUQa#} 
-<ls>KATHĀS. 18, 157.</ls> {#latArUQa#} ({#vihaMga#}) 
-<ls>BHĀG. P. 5, 2, 4.</ls> {#sTalArUQa#} {%auf dem Erdboden stehend%} (d. i. {%nicht zu Wagen seiend%}) 
-<ls>M. 7, 91.</ls> {#sarvaBUtAni yantrArUQAni#} {%gesetzt auf%} 
-<ls>BHAG. 18, 61.</ls> {#cakrArUQa#} 
-<ls>PAÑCAT. 163, 2.</ls> {#hastArUQa#} {%auf der Hand liegend%} 
-<ls>HARIV. 12181.</ls> {#dolArUQa#} {%auf einer Schaukel sitzend, sich schaukelnd%} 
-<ls>PAÑCAT. 256, 16.</ls> so v. a. {%schwankend, in Zweifel seiend%} 
-<ls>KATHĀS. 32, 9. 57, 102. 67, 30.</ls> {#dolArUQa ivABavat#} 
-<ls>83, 31. 119, 90.</ls> {#ArUQa#} ohne Ergänzung {%reitend%}: {#svArUQEH#} ({#sArU°#} die neuere Ausg.) {#sAdiBiH#} 
-<ls>HARIV. 5470.</ls> {%eingestiegen%} (in ein Schiff) 
-<ls>R. 2, 89, 17.</ls> {%aufgesteckt, oben aufgesetzt%}: {#ArUQaprocCritacCattra#} ({#kuYjara#}) 
-<ls>KATHĀS. 19, 63.</ls> mit einem loc. so v. a. {%enthalten in, liegend in%}: {#pra\jAsu\ vA e\za#} ({#agniH#}) {#e\tarhyArU^QaH#} 
-<ls>TS. 5, 1, 5, 5.</ls> {#pramAtaryanArUQo 'naDigata iti yAvat#} 
-<ls>Schol.</ls> zu <ls>KAP. 1, 88.</ls> {#rePArUQA mUrtayaH syuH Saktayastisra eva ca#} 
-<ls>WEBER, RĀMAT. UP. 289.</ls> 
-<div n="2">— c) <lex>n.</lex> {%das Bespringen%}: {#gavArUQezu#} ({#gavArohezu#} die neuere Ausg.) 
-<ls>HARIV. 4104.</ls> 
-<div n="1">— 2) {%anwachsen%}: {#nAsikAM CittvA BAryAyAstAmaropayat . gurunAsAM muKe tasyA na ca tatrAruroha sA ..#} 
-<ls>KATHĀS. 61, 16.</ls> 
-<div n="1">— 3) eine Bogensehne {%steigt, wenn das unbefestigte Ende derselben mit der oberen Spitze des aufrecht stehenden Bogens verbunden wird%}: {#ArohadguRanamreRa DanuzA#} 
-<ls>KATHĀS. 27, 8</ls>; vgl. weiter unten u. caus. 3). 
-<div n="1">— 4) {%aufsteigen%} so v. a. {%hervorgehen, entstehen, sich entwickeln%}: {#ArohadguRanamreRa vapuzA#} 
-<ls>KATHĀS. 27, 8.</ls> {#yA prajA pUrvamArUQA mAnasI#} 
-<ls>HARIV. 11845.</ls> {#ityArUQabahupratarkamaparicCedAkulaM me manaH#} 
-<ls>ŚĀK. 106.</ls> {#ArUQaruzA - anena#} 
-<ls>KUMĀRAS. 7, 67.</ls> {#ArUQavega#} ({#Sarva#}) 
-<ls>KATHĀS. 20, 81.</ls> {#yOvanArUQagarva#} 
-<ls>Spr. 2597.</ls> {#tadAgamArUQagurupraharza#} 
-<ls>RAGH. 5, 61.</ls> 
-<ls>NĪLAK. 48. 51. 56.</ls> 
-<div n="1">— 5) {%an Etwas gehen, zu machen beginnen; sich begeben in, gerathen in, erreichen, gelangen zu%}: {#a\na\rvARa\M Sloka\mA ro^hase di\vi#} 
-<ls>ṚV. 1, 51, 12.</ls> {#na saMSayamanAruhya naro BadrARi paSyati . saMSayaM punarAruhya yadi jIvati paSyati ..#} {%sich in Gefahr begeben%} 
-<ls>Spr. 1483.</ls> {#Arohasi kimarTaM tvamIdfSAnprARasaMSayAn#} 
-<ls>KATHĀS. 26, 128. 18, 373.</ls> {#SrIrArohati saMdeham#} {%geräth in Gefahr%} 
-<ls>Spr. 3422.</ls> {#na darpamArohati#} 
-<ls>4353.</ls> {#Aruroha kumudAkaropamAm#} {%bekam Aehnlichkeit mit%} d. i. {%wurde ähnlich%} 
-<ls>RAGH. 19, 34.</ls> {#tava tulAM yadArohati dantavAsasA#} 
-<ls>KUMĀRAS. 5, 34.</ls> {#Aruroha pratijYAM sa sarpasattrAya#} so v. a. {%er gelobte%} 
-<ls>MBH. 1, 2015.</ls> 
-<ls>R. 7, 17, 17.</ls> {#ArUQa#} 
-<div n="2"> a) in pass. Bed.: {#°samADiyoga#} 
-<ls>BHĀG. P. 3, 8, 21.</ls> {#nityArUQasamADitvAt#} 
-<ls>33, 27.</ls> 
-<div n="2">— b) in act. Bed.: {#padam#} {%der sein Ziel erreicht hat%} 
-<ls>BHĀG. P. 3, 32, 25.</ls> {#saMSayam#} {%in Gefahr gerathen%} 
-<ls>ŚĀK. 92, 6.</ls> {#upAyAntaramapi hfdayamArUQam#} so v. a. {%ist mir eingefallen%} 
-<ls>PRAB. 37, 4.</ls> {#udayam#} {%aufgegangen%} (vom Monde) und zugleich {%zur Höhe gelangt%} (von einem Fürsten) 
-<ls>Spr. 3650.</ls> {#navayOvanam#} 
-<ls>KATHĀS. 25, 199.</ls> {#yOvanArUQA#} 
-<ls>18, 261. 52, 94.</ls> {#yogArUQa#} 
-<ls>BHAG. 6, 4.</ls> 
-<ls>BHĀG. P. 3, 18, 15.</ls> {#mAnArUQa#} 
-<ls>4, 26, 8.</ls> {#svagocarArUQa#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 256. 282.</ls> {#manoraTArUQa#} {%seinen Wünschen —, seiner Phantasie nachhängend%} ({%zugleich wohl%} {%in dem Wagen des Herzens fahrend%}) 
-<ls>KATHĀS. 10, 202.</ls> 
-<div n="1">— 6) {#na tvArokzyAmi#} 
-<ls>R. GORR. 2, 68, 36</ls> fehlerhaft für {#nAnvArokzyAmi#} . 
-<div n="v">— Vgl. {#Aruh#} fg., {#ArUQi, AroQar#} fg., {#Aroha#} fgg. — caus. 
-<div n="1"> 1) {%aufsteigen machen, besteigen lassen, setzen auf; beschreiten lassen%}; mit dopp. acc. oder mit acc. und loc.: {#sUrya^M di\vyAro^hayaH#} 
-<ls>ṚV. 1, 51, 4.</ls> <ls n="ṚV.">4, 13, 2.</ls> {#tIrTenASvam#} 
-<ls>KĀTY. ŚR. 17, 3, 23.</ls> {#carma#} 
-<ls>15, 5, 25.</ls> {#aSmAnam#} 
-<ls>ĀŚV. GṚHY. 1, 7, 7. 4, 6, 8.</ls> {#nAvam#} 
-<ls>KAUŚ. 71.</ls> {#aSvam#} 
-<ls>17.</ls> {#CadirAropya#}
+{#hayArUQa#} {%reitend auf, sitzend auf%}
+<ls>Spr. 4885.</ls>
+<ls>VARĀH. BṚH. S. 58,56. fg.</ls>
+<ls>KATHĀS. 12,157.</ls> <ls n="KATHĀS.">18,384.</ls>
+<ls>RĀJA-TAR. 4,277.</ls>
+<ls>MĀRK. P. 78,24.</ls>
+<ls>PAÑCAT. 43,5.</ls> <ls n="PAÑCAT.">44,23.</ls> <ls n="PAÑCAT.">46,6.</ls>
+<ls>Verz. d. B. H. No. 936.</ls> {#skanDArUQa#}
+<ls>KATHĀS. 18,157.</ls> {#latArUQa#} ({#vihaMga#})
+<ls>BHĀG. P. 5,2,4.</ls> {#sTalArUQa#} {%auf dem Erdboden stehend%} (<ab>d. i.</ab> {%nicht zu Wagen seiend%})
+<ls>M. 7,91.</ls> {#sarvaBUtAni yantrArUQAni#} {%gesetzt auf%}
+<ls>BHAG. 18,61.</ls> {#cakrArUQa#}
+<ls>PAÑCAT. 163,2.</ls> {#hastArUQa#} {%auf der Hand liegend%}
+<ls>HARIV. 12181.</ls> {#dolArUQa#} {%auf einer Schaukel sitzend, sich schaukelnd%}
+<ls>PAÑCAT. 256,16.</ls> so v. a. {%schwankend, in Zweifel seiend%}
+<ls>KATHĀS. 32,9.</ls> <ls n="KATHĀS.">57,102.</ls> <ls n="KATHĀS.">67,30.</ls> {#dolArUQa ivABavat#}
+<ls n="KATHĀS.">83,31.</ls> <ls n="KATHĀS.">119,90.</ls> {#ArUQa#} ohne Ergänzung {%reitend%}: {#svArUQEH#} ({#sArU°#} die neuere Ausg.) {#sAdiBiH#}
+<ls>HARIV. 5470.</ls> {%eingestiegen%} (in ein Schiff)
+<ls>R. 2,89,17.</ls> {%aufgesteckt, oben aufgesetzt%}: {#ArUQaprocCritacCattra#} ({#kuYjara#})
+<ls>KATHĀS. 19,63.</ls> mit einem loc. so v. a. {%enthalten in, liegend in%}: {#pra\jAsu\ vA e\za#} ({#agniH#}) {#e\tarhyArU^QaH#}
+<ls>TS. 5,1,5,5.</ls> {#pramAtaryanArUQo 'naDigata iti yAvat#}
+<ls>Schol.</ls> zu <ls>KAP. 1,88.</ls> {#rePArUQA mUrtayaH syuH Saktayastisra eva ca#}
+<ls>WEBER, RĀMAT. UP. 289.</ls>
+<div n="2">— c) <lex>n.</lex> {%das Bespringen%}: {#gavArUQezu#} ({#gavArohezu#} die neuere Ausg.)
+<ls>HARIV. 4104.</ls>
+<div n="1">— 2) {%anwachsen%}: {#nAsikAM CittvA BAryAyAstAmaropayat . gurunAsAM muKe tasyA na ca tatrAruroha sA ..#}
+<ls>KATHĀS. 61,16.</ls>
+<div n="1">— 3) eine Bogensehne {%steigt, wenn das unbefestigte Ende derselben mit der oberen Spitze des aufrecht stehenden Bogens verbunden wird%}: {#ArohadguRanamreRa DanuzA#}
+<ls>KATHĀS. 27,8</ls>; vgl. weiter unten u. caus. 3).
+<div n="1">— 4) {%aufsteigen%} so v. a. {%hervorgehen, entstehen, sich entwickeln%}: {#ArohadguRanamreRa vapuzA#}
+<ls>KATHĀS. 27,8.</ls> {#yA prajA pUrvamArUQA mAnasI#}
+<ls>HARIV. 11845.</ls> {#ityArUQabahupratarkamaparicCedAkulaM me manaH#}
+<ls>ŚĀK. 106.</ls> {#ArUQaruzA — anena#}
+<ls>KUMĀRAS. 7,67.</ls> {#ArUQavega#} ({#Sarva#})
+<ls>KATHĀS. 20,81.</ls> {#yOvanArUQagarva#}
+<ls>Spr. 2597.</ls> {#tadAgamArUQagurupraharza#}
+<ls>RAGH. 5,61.</ls>
+<ls>NĪLAK. 48. 51. 56.</ls>
+<div n="1">— 5) {%an Etwas gehen, zu machen beginnen; sich begeben in, gerathen in, erreichen, gelangen zu%}: {#a\na\rvARa\M Sloka\mA ro^hase di\vi#}
+<ls>ṚV. 1,51,12.</ls> {#na saMSayamanAruhya naro BadrARi paSyati . saMSayaM punarAruhya yadi jIvati paSyati ..#} {%sich in Gefahr begeben%}
+<ls>Spr. 1483.</ls> {#Arohasi kimarTaM tvamIdfSAnprARasaMSayAn#}
+<ls>KATHĀS. 26,128.</ls> <ls n="KATHĀS.">18,373.</ls> {#SrIrArohati saMdeham#} {%geräth in Gefahr%}
+<ls>Spr. 3422.</ls> {#na darpamArohati#}
+<ls n="Spr.">4353.</ls> {#Aruroha kumudAkaropamAm#} {%bekam Aehnlichkeit mit%} <ab>d. i.</ab> {%wurde ähnlich%}
+<ls>RAGH. 19,34.</ls> {#tava tulAM yadArohati dantavAsasA#}
+<ls>KUMĀRAS. 5,34.</ls> {#Aruroha pratijYAM sa sarpasattrAya#} so v. a. {%er gelobte%}
+<ls>MBH. 1,2015.</ls>
+<ls>R. 7,17,17.</ls> {#ArUQa#}
+<div n="2"> a) in pass. Bed.: {#°samADiyoga#}
+<ls>BHĀG. P. 3,8,21.</ls> {#nityArUQasamADitvAt#}
+<ls n="BHĀG. P. 3,">33,27.</ls>
+<div n="2">— b) in act. Bed.: {#padam#} {%der sein Ziel erreicht hat%}
+<ls>BHĀG. P. 3,32,25.</ls> {#saMSayam#} {%in Gefahr gerathen%}
+<ls>ŚĀK. 92,6.</ls> {#upAyAntaramapi hfdayamArUQam#} so v. a. {%ist mir eingefallen%}
+<ls>PRAB. 37,4.</ls> {#udayam#} {%aufgegangen%} (vom Monde) und zugleich {%zur Höhe gelangt%} (von einem Fürsten)
+<ls>Spr. 3650.</ls> {#navayOvanam#}
+<ls>KATHĀS. 25,199.</ls> {#yOvanArUQA#}
+<ls n="KATHĀS.">18,261.</ls> <ls n="KATHĀS.">52,94.</ls> {#yogArUQa#}
+<ls>BHAG. 6,4.</ls>
+<ls>BHĀG. P. 3,18,15.</ls> {#mAnArUQa#}
+<ls n="BHĀG. P.">4,26,8.</ls> {#svagocarArUQa#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 256. 282.</ls> {#manoraTArUQa#} {%seinen Wünschen —, seiner Phantasie nachhängend%} ({%zugleich wohl%} {%in dem Wagen des Herzens fahrend%})
+<ls>KATHĀS. 10,202.</ls>
+<div n="1">— 6) {#na tvArokzyAmi#}
+<ls>R. GORR. 2,68,36</ls> fehlerhaft für {#nAnvArokzyAmi#} .
+<div n="v">— Vgl. {#Aruh#} fg., {#ArUQi, AroQar#} fg., {#Aroha#} fgg. — caus.
+<div n="1"> 1) {%aufsteigen machen, besteigen lassen, setzen auf; beschreiten lassen%}; mit dopp. acc. oder mit acc. und loc.: {#sUrya^M di\vyAro^hayaH#}
+<ls>ṚV. 1,51,4.</ls> <ls n="ṚV.">4,13,2.</ls> {#tIrTenASvam#}
+<ls>KĀTY. ŚR. 17,3,23.</ls> {#carma#}
+<ls n="KĀTY. ŚR.">15,5,25.</ls> {#aSmAnam#}
+<ls>ĀŚV. GṚHY. 1,7,7. 4,6,8.</ls> {#nAvam#}
+<ls>KAUŚ. 71.</ls> {#aSvam#}
+<ls n="KAUŚ.">17.</ls> {#CadirAropya#}
 [Page6-0413]
-{%aufschlagen%} 
-<ls>KĀTY. ŚR. 8, 6, 10.</ls> — {#Aropita#} {%aufsteigen gemacht%} 
-<ls>KATHĀS. 20, 171.</ls> 
-<ls>BHĀG. P. 5, 26, 28.</ls> {#svargam#} 
-<ls>MBH. 13, 324.</ls> {#prAsAdftalam#} 
-<ls>3, 2583.</ls> {#raTam, yAnam, bimAnam#} 
-<ls>?15749. 15789. 5, 5955 (med.). R. 1, 61, 22. 2, 36, 24. R. GORR. 1, 75, 30. 3, 55, 33. 6, 22, 20. BHĀG. P. 3, 23, 37. 9, 23, 35.</ls> {#yAne#} 
-<ls>SUŚR. 1, 98, 3.</ls> {#raTe#} 
-<ls>VET.</ls> in <ls>LA. (III) 31, 14.</ls> mit Ergänzung von {#raTam#} oder {#raTe#} 
-<ls>MBH. 3, 2290. 2793.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 39, 21.</ls> {#nAvam#} 
-<ls>R.</ls> <ls>SCHL. 2, 52, 69.</ls> {#nAvi#} 
-<ls>BHĀG. P. 1, 3, 15.</ls> mit Ergänzung von {#nAvam#} oder {#nAvi#} 
-<ls>R. 2, 52, 9.</ls> {#Sayanam#} 
-<ls>M. 3, 17.</ls> {#SayyAm#} 
-<ls>KATHĀS. 17, 87.</ls> {#SayyAyAm#} 
-<ls>PAÑCAT. 38, 22.</ls> {#citAm#} 
-<ls>R. 2, 64, 55. 3, 73, 36. fg.</ls> {#skanDam#} 
-<ls>PAÑCAT. 169, 25.</ls> 
-<ls>SARVADARŚANAS. 153, 10.</ls> {#skanDe#} 
-<ls>KATHĀS. 18, 380.</ls> {#hayapfzWam#} 
-<ls>VET.</ls> in <ls>LA. (III) 11, 18.</ls> {#gardaBam#} 
-<ls>22, 16.</ls> {#vfzendram#} 
-<ls>BHĀG. P. 4, 4, 5.</ls> {#aNkam#} 
-<ls>MBH. 3, 1776. 5, 6042.</ls> 
-<ls>KUMĀRAS. 1, 37</ls> ({#AropitA#} zu lesen). 
-<ls>RAGH. 3, 26.</ls> {#aNke#} 
-<ls>R. 2, 72, 4. 101, 2.</ls> {#vakzasi#} 
-<ls>Spr. 1750.</ls> {#SUlAn#} 
-<ls>YĀJÑ. 2, 273.</ls> {#SUlAyAm#} 
-<ls>KATHĀS. 20, 18.</ls> 
-<ls>PAÑCAT. 41, 15.</ls> 
-<ls>MĀRK. P. 14, 75.</ls> {#utsaNge Sira Aropya#} {%legen auf%} 
-<ls>MBH. 3, 16810.</ls> {#aNke SIrzamAropya bAlinaH#} 
-<ls>R. 4, 20, 20. 24, 32.</ls> {#maYjUzAmAropya maWikopari#} {%stellen auf%} 
-<ls>KATHĀS. 15, 49.</ls> {%laden auf%}: {#gajezvAropitaH koSaH#} 
-<ls>KĀM. NĪTIS. 19, 16.</ls> <ls>R. GORR. 2, 39, 20.</ls> {#putre kuwumbacintABAram#} 
-<ls>KULL.</ls> zu <ls>M. 4, 257.</ls> {#Aropita#} {%aufgeladen, darauf gelegt%} 
-<ls>HALĀY. 4, 62.</ls> 
-<ls>KAIY.</ls> zu <ls>P. 8, 4, 8.</ls> <ls>KATHĀS. 37, 155.</ls> <ls>Spr. 3059.</ls> {#tulAm#} {%auf die Wagschale stellen%} so v. a. {%in Gefahr bringen%} 
-<ls>3916.</ls> {#pattram#} so v. a. {%Etwas zu Papier bringen, niederschreiben%} 
-<ls>ŚĀK. 81, 2.</ls> {#manovizayam#} so v. a. {%Jmd in sein Herz schliessen%} 
-<ls>KUMĀRAS. 6, 17.</ls> med. {%sich besteigen lassen%} 
-<ls>P. 1, 3, 67,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 2) {%pflanzen%} 
-<ls>KATHĀS. 61, 34.</ls> 
-<ls>MĀRK. P. 68, 49.</ls> 
-<div n="1">— 3) einen Bogen {%mit der Sehne beziehen%} 
-<ls>MBH. 1, 7032</ls> (wo das pass. {#AropyamARaH#} nicht richtig sein kann; 
-<ls>NĪLAK.</ls> er klärt die Form durch {#sajjIkartumicCan#}). 
-<ls>?7048. 16,230. HARIV. 4506. R.1,33,10. 67,16. fg.3,4,28. 45.4,8,30 (med.). KUMĀRAS.3,35. ŚĀK. 94,2. KATHĀS. 112,54. UTTARAR. 91,10 (118,1). GĪT.3,12. MĀRK. P. 132,17. BHAṬṬ. 14,8. Verz. d. Oxf. H. 137,b, No. 267.</ls> eine Bogensehne {%aufrichten%} so v. a. {%das unbefestigte Ende derselben mit der oberen Spitze des aufrecht stehenden Bogens verbinden%}: {#kodaRqe namatyAropitaM guRam#} 
-<ls>KATHĀS. 120, 62. 113, 34.</ls> {#AropitaBrU#} {%bogenförmig zusammengezogen%} 
-<ls>BHĀG. P. 4, 3, 18. 9, 10, 4.</ls> 
-<div n="1">— 4) {%steigen lassen%} so v. a. {%befördern, an einen hohen Platz stellen%} 
-<ls>RAGH. 15, 91.</ls> {#rAjye#} {%in die Herrschaft einsetzen%} 
-<ls>KATHĀS. 30, 59.</ls> 
-<div n="1">— 5) {%legen —, stecken —, thun in%}: {#bIjAni - tasyAmArohayernAvi#} 
-<ls>MBH. 3, 12777.</ls> {#tAsvapsu bIjaM SaktirUpamAropitavAn#} 
-<ls>KULL.</ls> zu <ls>M. 1, 8.</ls> {#timimatsyAngajAMScEva nIqAnAropayanti te#} {%in ihr Lager%} 
-<ls>R. 4, 43, 16.</ls> {#tAnagnInAropya cAtmani#} (vgl. u. {#samA#} im caus.) 
-<ls>YĀJÑ. 3, 56.</ls> 
-<ls>BHĀG. P. 5, 5, 28.</ls> {#tasminnidaM sarvaM SarIramAropya#} (symbolisch) 
-<ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 125.</ls> {#mayA hi tatra carO sakalEva SOryavIryabalasaMpadAropitA#} 
-<ls>VP.</ls> bei <ls>MUIR, ST. I, 85.</ls> {#AtmapratikftiM tasminDvaja Aropayizyati#} {%anbringen%} 
-<ls>MBH. 5, 2222.</ls> {%richten auf%}: {#yasminnevADikaM cakzurAropayati#} ({#Arohayati#} v. l.) 
-<ls>Spr. 2424.</ls> 
-<div n="1">— 6) {%hervorgehen lassen, bewirken, hervorrufen%}: {#manasi saMdehamAropayati#} 
-<ls>PRAB. 84, 8.</ls> {#AropitamEtrAM tAM svaBartari#} 
-<ls>MĀRK. P. 72, 13.</ls> {#AropitaguRa#} {%der Vorzüge an den Tag gelegt hat%} 
-<ls>KATHĀS. 113, 34. 120, 62.</ls> {#nyAyAropitavikrama#} 
-<ls>Spr. 5381</ls>; in der Ausg. von 
-<ls>BÜHLER</ls> wird {#nyAyAropitavikramARyapi nfRAM#} gelesen und der Herausgeber übersetzt {%from whom powerful assistance might be justly be expected%}; genauer {%denen mit Recht - beigelegt wird%} (vgl. 7). 
-<div n="1">— 7) {%beilegen, zuschreiben, übertragen auf%} (loc.) 
-<ls>SĀH. D. 280,1.</ls> 
-<ls>BHĀG. P.1,3,31.2,10,45.</ls> 
-<ls>PRATĀPAR. 80,a,1. 5.</ls> <ls>VEDĀNTAS. (Allah.) No. 80.</ls> <ls>H. 70.</ls> <ls>Verz. d. Oxf. H. 29,a,18. 42.b,10.</ls> <ls>MALLIN.</ls> zu <ls>KIR.1,1.</ls> Comm. zu <ls>R.</ls> bei <ls>MUIR, ST. IV, 392.</ls> <ls>SARVADARŚANAS. 110,10. 18.</ls> Schol. zu <ls>KAP.1,59.</ls> <ls>KUSUM. 14,15.</ls>
+{%aufschlagen%}
+<ls>KĀTY. ŚR. 8,6,10.</ls> — {#Aropita#} {%aufsteigen gemacht%}
+<ls>KATHĀS. 20,171.</ls>
+<ls>BHĀG. P. 5,26,28.</ls> {#svargam#}
+<ls>MBH. 13,324.</ls> {#prAsAdftalam#}
+<ls n="MBH.">3,2583.</ls> {#raTam, yAnam, bimAnam#}
+<ls n="MBH. 3,">15749.</ls> <ls n="MBH. 3,">15789.</ls> <ls n="MBH.">5,5955</ls> (med.). <ls>R. 1,61,22.</ls> <ls n="R.">2,36,24.</ls> <ls>R. GORR. 1,75,30.</ls> <ls n="R. GORR.">3,55,33.</ls> <ls n="R. GORR.">6,22,20.</ls> <ls>BHĀG. P. 3,23,37.</ls> <ls n="BHĀG. P.">9,23,35.</ls> {#yAne#}
+<ls>SUŚR. 1,98,3.</ls> {#raTe#}
+<ls>VET. in LA. (III) 31,14.</ls> mit Ergänzung von {#raTam#} oder {#raTe#}
+<ls>MBH. 3,2290.</ls> <ls n="MBH. 3,">2793.</ls>
+<ls>R. GORR. 2,39,21.</ls> {#nAvam#}
+<ls>R. SCHL. 2,52,69.</ls> {#nAvi#}
+<ls>BHĀG. P. 1,3,15.</ls> mit Ergänzung von {#nAvam#} oder {#nAvi#}
+<ls>R. 2,52,9.</ls> {#Sayanam#}
+<ls>M. 3,17.</ls> {#SayyAm#}
+<ls>KATHĀS. 17,87.</ls> {#SayyAyAm#}
+<ls>PAÑCAT. 38,22.</ls> {#citAm#}
+<ls>R. 2,64,55.</ls> <ls n="R.">3,73,36. fg.</ls> {#skanDam#}
+<ls>PAÑCAT. 169,25.</ls>
+<ls>SARVADARŚANAS. 153,10.</ls> {#skanDe#}
+<ls>KATHĀS. 18,380.</ls> {#hayapfzWam#}
+<ls>VET. in LA. (III) 11,18.</ls> {#gardaBam#}
+<ls n="VET. in LA. (III)">22,16.</ls> {#vfzendram#}
+<ls>BHĀG. P. 4,4,5.</ls> {#aNkam#}
+<ls>MBH. 3,1776.</ls> <ls n="MBH.">5,6042.</ls>
+<ls>KUMĀRAS. 1,37</ls> ({#AropitA#} zu lesen).
+<ls>RAGH. 3,26.</ls> {#aNke#}
+<ls>R. 2,72,4.</ls> <ls n="R. 2,">101,2.</ls> {#vakzasi#}
+<ls>Spr. 1750.</ls> {#SUlAn#}
+<ls>YĀJÑ. 2,273.</ls> {#SUlAyAm#}
+<ls>KATHĀS. 20,18.</ls>
+<ls>PAÑCAT. 41,15.</ls>
+<ls>MĀRK. P. 14,75.</ls> {#utsaNge Sira Aropya#} {%legen auf%}
+<ls>MBH. 3,16810.</ls> {#aNke SIrzamAropya bAlinaH#}
+<ls>R. 4,20,20.</ls> <ls n="R. 4,">24,32.</ls> {#maYjUzAmAropya maWikopari#} {%stellen auf%}
+<ls>KATHĀS. 15,49.</ls> {%laden auf%}: {#gajezvAropitaH koSaH#}
+<ls>KĀM. NĪTIS. 19,16.</ls> <ls>R. GORR. 2,39,20.</ls> {#putre kuwumbacintABAram#}
+<ls>KULL.</ls> zu <ls>M. 4,257.</ls> {#Aropita#} {%aufgeladen, darauf gelegt%}
+<ls>HALĀY. 4,62.</ls>
+<ls>KAIY.</ls> zu <ls>P. 8,4,8.</ls> <ls>KATHĀS. 37,155.</ls> <ls>Spr. 3059.</ls> {#tulAm#} {%auf die Wagschale stellen%} so v. a. {%in Gefahr bringen%}
+<ls n="Spr.">3916.</ls> {#pattram#} so v. a. {%Etwas zu Papier bringen, niederschreiben%}
+<ls>ŚĀK. 81,2.</ls> {#manovizayam#} so v. a. {%Jmd in sein Herz schliessen%}
+<ls>KUMĀRAS. 6,17.</ls> med. {%sich besteigen lassen%}
+<ls>P. 1,3,67</ls>, <ls>Sch.</ls>
+<div n="1">— 2) {%pflanzen%}
+<ls>KATHĀS. 61,34.</ls>
+<ls>MĀRK. P. 68,49.</ls>
+<div n="1">— 3) einen Bogen {%mit der Sehne beziehen%}
+<ls>MBH. 1,7032</ls> (wo das pass. {#AropyamARaH#} nicht richtig sein kann;
+<ls>NĪLAK.</ls> er klärt die Form durch {#sajjIkartumicCan#}).
+<ls n="MBH. 1,">7048.</ls> <ls n="MBH.">16,230.</ls> <ls>HARIV. 4506.</ls> <ls>R. 1,33,10.</ls> <ls n="R. 1,">67,16. fg.</ls> <ls n="R.">3,4,28.</ls> <ls n="R. 3,4,">45.</ls> <ls n="R.">4,8,30</ls> (med.). <ls>KUMĀRAS. 3,35.</ls> <ls>ŚĀK. 94,2.</ls> <ls>KATHĀS. 112,54.</ls> <ls>UTTARAR. 91,10 (118,1).</ls> <ls>GĪT. 3,12.</ls> <ls>MĀRK. P. 132,17.</ls> <ls>BHAṬṬ. 14,8.</ls> <ls>Verz. d. Oxf. H. 137,b, No. 267.</ls> eine Bogensehne {%aufrichten%} so v. a. {%das unbefestigte Ende derselben mit der oberen Spitze des aufrecht stehenden Bogens verbinden%}: {#kodaRqe namatyAropitaM guRam#}
+<ls>KATHĀS. 120,62.</ls> <ls n="KATHĀS.">113,34.</ls> {#AropitaBrU#} {%bogenförmig zusammengezogen%}
+<ls>BHĀG. P. 4,3,18.</ls> <ls n="BHĀG. P.">9,10,4.</ls>
+<div n="1">— 4) {%steigen lassen%} so v. a. {%befördern, an einen hohen Platz stellen%}
+<ls>RAGH. 15,91.</ls> {#rAjye#} {%in die Herrschaft einsetzen%}
+<ls>KATHĀS. 30,59.</ls>
+<div n="1">— 5) {%legen —, stecken —, thun in%}: {#bIjAni — tasyAmArohayernAvi#}
+<ls>MBH. 3,12777.</ls> {#tAsvapsu bIjaM SaktirUpamAropitavAn#}
+<ls>KULL.</ls> zu <ls>M. 1,8.</ls> {#timimatsyAngajAMScEva nIqAnAropayanti te#} {%in ihr Lager%}
+<ls>R. 4,43,16.</ls> {#tAnagnInAropya cAtmani#} (vgl. u. {#samA#} im caus.)
+<ls>YĀJÑ. 3,56.</ls>
+<ls>BHĀG. P. 5,5,28.</ls> {#tasminnidaM sarvaM SarIramAropya#} (symbolisch)
+<ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9,125.</ls> {#mayA hi tatra carO sakalEva SOryavIryabalasaMpadAropitA#}
+<ls>VP.</ls> bei <ls>MUIR, ST. I,85.</ls> {#AtmapratikftiM tasminDvaja Aropayizyati#} {%anbringen%}
+<ls>MBH. 5,2222.</ls> {%richten auf%}: {#yasminnevADikaM cakzurAropayati#} ({#Arohayati#} v. l.)
+<ls>Spr. 2424.</ls>
+<div n="1">— 6) {%hervorgehen lassen, bewirken, hervorrufen%}: {#manasi saMdehamAropayati#}
+<ls>PRAB. 84,8.</ls> {#AropitamEtrAM tAM svaBartari#}
+<ls>MĀRK. P. 72,13.</ls> {#AropitaguRa#} {%der Vorzüge an den Tag gelegt hat%}
+<ls>KATHĀS. 113,34.</ls> <ls n="KATHĀS.">120,62.</ls> {#nyAyAropitavikrama#}
+<ls>Spr. 5381</ls>; in der Ausg. von
+<ls>BÜHLER</ls> wird {#nyAyAropitavikramARyapi nfRAM#} gelesen und der Herausgeber übersetzt {%from whom powerful assistance might be justly be expected%}; genauer {%denen mit Recht — beigelegt wird%} (vgl. 7).
+<div n="1">— 7) {%beilegen, zuschreiben, übertragen auf%} (loc.)
+<ls>SĀH. D. 280,1.</ls>
+<ls>BHĀG. P. 1,3,31.</ls> <ls n="BHĀG. P.">2,10,45.</ls>
+<ls>PRATĀPAR. 80,a,1. 5.</ls> <ls>VEDĀNTAS. (Allah.) No. 80.</ls> <ls>H. 70.</ls> <ls>Verz. d. Oxf. H. 29,a,18. 42.b,10.</ls> <ls>MALLIN.</ls> zu <ls>KIR. 1,1.</ls> Comm. zu <ls>R.</ls> bei <ls>MUIR, ST. IV,392.</ls> <ls>SARVADARŚANAS. 110,10. 18.</ls> Schol. zu <ls>KAP. 1,59.</ls> <ls>KUSUM. 14,15.</ls>
 [Page6-0414]
-{#CAyA hi BUmeH SaSino malatvenAropitA SudDimataH prajABiH#} so v. a. {%den Schatten der Erde haben die Menschen fälschlicher Weise zu einem Schmutzflecken des reinen Mondes gemacht%} 
-<ls>RAGH. 14, 40.</ls> die ungrammatische Form {#Arupita#} 
-<ls>BHĀG. P. 10, 87, 25.</ls> 
-<div n="1">— 8) = simpl. {%besteigen%}: {#parvatasyAparaM pArSvaM kzipramArohayantvamI#} 
-<ls>HARIV. 5495.</ls> {#raTamArohayatvAyuzmAn#} 
-<ls>ŚĀK. CH. 145, 3.</ls> {#Arohatu#} die andere Rec. 
-<div n="1">— 9) {#ArohayAmAsa#} in der Stelle: {#SIGramArohayAmAsa dAnadvErdvArakAM purIm#} 
-<ls>HARIV. 6933</ls> fehlerhaft für {#AroDayAmAsa#} {%liess belagern%}; {#sarvamAhArayAmAsa#} die neuere Ausg. 
-<div n="v">— Vgl. {#Aropa#} fgg. — desid. {%zu ersteigen —, zu besteigen wünschen%}: {#dyAmA\ruru^kzataH#} 
-<ls>ṚV. 8, 14, 14.</ls> {#divam#} 
-<ls>BHĀG. P. 8, 11, 5.</ls> {#girim#} 
-<ls>5, 14, 18.</ls> {#raTam#} 
-<ls>10, 53, 56.</ls> {#aNkam#} 
-<ls>4, 8, 9. 67.</ls> {#hastiyantA gajasyeva Sira evArurukzati#} 
-<ls>MBH. 12, 2024.</ls> {#ArurukzatyupAnadvE Siro mukuwasevitam#} 
-<ls>BHĀG. P. 10, 68, 24.</ls> Vgl. {#Arurukzu#} .
-
-<div n="p">— {#atyA#} {%über seine Grenzen hinaus steigen%}: {#nAtyArohati jAtormirmahOGaH svanavAnapi#} 
-<ls>R. 4, 17, 22.</ls> {#atyArUQa#} {%die Grenzen überschreitend. übermässig%}: {#atyArUQo hi nArIRAmakAlajYo manoBavaH#} 
-<ls>RAGH. 12, 33.</ls> {#mayA tasya durAtmanaH . atyArUQaM ripoH soQam#} so v. a. {%gar zu viel von ihm ertragen%} 
-<ls>10, 43.</ls>
-
-<div n="p">— {#aDyA#} 
-<div n="1"> 1) {%besteigen, ersteigen%}: {#A sUrya^sya bfha\to bf\hannaDi\ raTa^maruhat#} 
-<ls>ṚV. 9, 75, 1.</ls> {#diva^M pfTi\vyA aDyA ru^hAma#} 
-<ls>VS. 8, 52.</ls> {#vasuDA vizRupadaM dvitIyamaDyAruroheva rajaSCalena#} 
-<ls>RAGH. 16, 28.</ls> {#SiKarAgram#} 
-<ls>R. 5, 74, 12. 6, 14, 3</ls> <ls>?(med.). 15. 18 (med.).</ls> {#vfkzAn#} 
-<ls>MBH. 4, 271.</ls> {#vaDyaSilAm#} 
-<ls>KATHĀS. 22, 222.</ls> {#sarastIram#} 
-<ls>56, 209.</ls> {#aBraMlihAnsODAn#} 
-<ls>RĀJA-TAR. 3, 359.</ls> {#raTam#} 
-<ls>MBH. 1, 6395.</ls> 
-<ls>R. 2, 92, 31 (101, 34 GORR.). 7, 22, 3</ls> (med.). {#vAraRam#} 
-<ls>DAŚAK. 74, 18.</ls> {#jaGanam#} 
-<ls>R. 7, 26, 24.</ls> {#mArgam#} {%betreten%} 
-<ls>MBH. 9, 277.</ls> {#raTANgAhvayanA dvi jAH . aDyArohanti#} {%erheben sich in die Lüfte%} 
-<ls>R. GORR. 2, 104, 11.</ls> {#aDyArUQa = samArUQa#} 
-<ls>H. an. 4, 73.</ls> 
-<ls>MED. ḍh. 11.</ls> 
-<div n="1">— 2) {%über das gewöhnliche Maass gehen%}: {#aDyArUQa = aByaDika#} 
-<ls>H. an.</ls> <ls>MED.</ls> — caus. 
-<div n="1"> 1) {%besteigen lassen%}, mit dopp. acc.: {#plavam#} 
-<ls>R. 2, 55, 16.</ls> 
-<div n="1">— 2) {%Jmd zu Etwas befördern, an Etwas stellen%}: {#amAtyapade 'DyAropitastvam#} 
-<ls>PAÑCAT. 24, 9.</ls> 
-<div n="1">— 3) {%voraussetzen bei, fälschlich übertragen auf%} (loc.) 
-<ls>BHĀG. P. 5, 10, 6. 13, 25.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 166. 200. 211. zu CHĀND. UP. S. 7.</ls> 
-<div n="1">— 4) {%übertreiben%} 
-<ls>P. 2, 1, 33,</ls> 
-<ls>Sch.</ls> — {#aDyAropa#} .
-
-<div n="p">— {#anvA#} {%nach%} oder {%bei Jmd aufsteigen; ersteigen, beschreiten%}: {#ya\jYaM yanta\M mana^sA\nvAro^hAmi#} {%ich fahre im Geiste mit dem Opfer hin%} 
-<ls>AV. 6, 122, 4.</ls> 
-<ls>TS. 5, 4, 10, 2.</ls> {#a\gniM yannAnvA\rohe^t#} 
-<ls>6, 8, 1.</ls> {#e\za vE dEva\yAna\H panTA\stamevAnvAro^ham#} 
-<ls>7, 2, 1, 4.</ls> {#kratUn#} 
-<ls>ŚAT. BR. 13, 3, 2, 1.</ls> — {#anvArohacca sugrIvaH#} sc. {#girim#} {%er bestieg nach ihm den Berg%} 
-<ls>R. 6, 14, 11.</ls> {#anvArUQASca tatputrAstatra#} (d. i. {#girO) tAm#} 
-<ls>KATHĀS. 29, 130.</ls> {#anvAruroha cApyenam#} sc. {#raTam#} 
-<ls>MBH. 2, 36. 5, 3345. 7, 2991.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 13, 26.</ls> {#taM citAgnigatam - anvAruruhuH patnyaScatasraH#} 
-<ls>MBH. 16, 200.</ls> {#yA tvAM citAM samArUQaM na tvArokzyati#} (lies {#nAnvAro°#}) 
-<ls>R. GORR. 2, 68, 36.</ls> {#SArIra AtmA prAjYenAtmanAnvArUQaH#} {%enthält in sich%} 
-<ls>ŚAT. BR. 14, 7, 1, 42.</ls> Vgl. {#anvArohaRa#} . — caus. {%wieder hinaufbringen%}: {#tAm#} ({#pratimAm#}) — {#anvArohayitA punaH#} 
-<ls>ŚATR. 14. 231.</ls> {#ru\draM gf\hAna\nvAro^hayet#} {%bringt in sein Haus%} 
-<ls>TS. 3, 4, 10, 4.</ls> — des. {%nach Jmd Etwas zu erklimmen wünschen%} 
-<ls>BHĀG. P. 4, 12, 42.</ls>
+{#CAyA hi BUmeH SaSino malatvenAropitA SudDimataH prajABiH#} so v. a. {%den Schatten der Erde haben die Menschen fälschlicher Weise zu einem Schmutzflecken des reinen Mondes gemacht%}
+<ls>RAGH. 14,40.</ls> die ungrammatische Form {#Arupita#}
+<ls>BHĀG. P. 10,87,25.</ls>
+<div n="1">— 8) = simpl. {%besteigen%}: {#parvatasyAparaM pArSvaM kzipramArohayantvamI#}
+<ls>HARIV. 5495.</ls> {#raTamArohayatvAyuzmAn#}
+<ls>ŚĀK. CH. 145,3.</ls> {#Arohatu#} die andere Rec.
+<div n="1">— 9) {#ArohayAmAsa#} in der Stelle: {#SIGramArohayAmAsa dAnadvErdvArakAM purIm#}
+<ls>HARIV. 6933</ls> fehlerhaft für {#AroDayAmAsa#} {%liess belagern%}; {#sarvamAhArayAmAsa#} die neuere Ausg.
+<div n="v">— Vgl. {#Aropa#} fgg. — desid. {%zu ersteigen —, zu besteigen wünschen%}: {#dyAmA\ruru^kzataH#}
+<ls>ṚV. 8,14,14.</ls> {#divam#}
+<ls>BHĀG. P. 8,11,5.</ls> {#girim#}
+<ls n="BHĀG. P.">5,14,18.</ls> {#raTam#}
+<ls n="BHĀG. P.">10,53,56.</ls> {#aNkam#}
+<ls n="BHĀG. P.">4,8,9.</ls> <ls n="BHĀG. P. 4,8,">67.</ls> {#hastiyantA gajasyeva Sira evArurukzati#}
+<ls>MBH. 12,2024.</ls> {#ArurukzatyupAnadvE Siro mukuwasevitam#}
+<ls>BHĀG. P. 10,68,24.</ls> Vgl. {#Arurukzu#} .
+<div n="p">— {#atyA#} {%über seine Grenzen hinaus steigen%}: {#nAtyArohati jAtormirmahOGaH svanavAnapi#}
+<ls>R. 4,17,22.</ls> {#atyArUQa#} {%die Grenzen überschreitend. übermässig%}: {#atyArUQo hi nArIRAmakAlajYo manoBavaH#}
+<ls>RAGH. 12,33.</ls> {#mayA tasya durAtmanaH . atyArUQaM ripoH soQam#} so v. a. {%gar zu viel von ihm ertragen%}
+<ls n="RAGH.">10,43.</ls>
+<div n="p">— {#aDyA#}
+<div n="1"> 1) {%besteigen, ersteigen%}: {#A sUrya^sya bfha\to bf\hannaDi\ raTa^maruhat#}
+<ls>ṚV. 9,75,1.</ls> {#diva^M pfTi\vyA aDyA ru^hAma#}
+<ls>VS. 8,52.</ls> {#vasuDA vizRupadaM dvitIyamaDyAruroheva rajaSCalena#}
+<ls>RAGH. 16,28.</ls> {#SiKarAgram#}
+<ls>R. 5,74,12.</ls> <ls n="R.">6,14,3</ls> (med.). <ls n="R. 6,14,">15.</ls> <ls n="R. 6,14,">18</ls> (med.). {#vfkzAn#}
+<ls>MBH. 4,271.</ls> {#vaDyaSilAm#}
+<ls>KATHĀS. 22,222.</ls> {#sarastIram#}
+<ls n="KATHĀS.">56,209.</ls> {#aBraMlihAnsODAn#}
+<ls>RĀJA-TAR. 3,359.</ls> {#raTam#}
+<ls>MBH. 1,6395.</ls>
+<ls>R. 2,92,31</ls> (<ls n="GORR. 2,">101,34</ls> <ls>GORR.</ls>). <ls n="R.">7,22,3</ls> (med.). {#vAraRam#}
+<ls>DAŚAK. 74,18.</ls> {#jaGanam#}
+<ls>R. 7,26,24.</ls> {#mArgam#} {%betreten%}
+<ls>MBH. 9,277.</ls> {#raTANgAhvayanA dvi jAH . aDyArohanti#} {%erheben sich in die Lüfte%}
+<ls>R. GORR. 2,104,11.</ls> {#aDyArUQa = samArUQa#}
+<ls>H. an. 4,73.</ls>
+<ls>MED. ḍh. 11.</ls>
+<div n="1">— 2) {%über das gewöhnliche Maass gehen%}: {#aDyArUQa = aByaDika#}
+<ls>H. an.</ls> <ls>MED.</ls> — caus.
+<div n="1"> 1) {%besteigen lassen%}, mit dopp. acc.: {#plavam#}
+<ls>R. 2,55,16.</ls>
+<div n="1">— 2) {%Jmd zu Etwas befördern, an Etwas stellen%}: {#amAtyapade 'DyAropitastvam#}
+<ls>PAÑCAT. 24,9.</ls>
+<div n="1">— 3) {%voraussetzen bei, fälschlich übertragen auf%} (loc.)
+<ls>BHĀG. P. 5,10,6.</ls> <ls n="BHĀG. P. 5,">13,25.</ls>
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 166. 200. 211.</ls> zu <ls>CHĀND. UP. S. 7.</ls>
+<div n="1">— 4) {%übertreiben%}
+<ls>P. 2,1,33</ls>, <ls>Sch.</ls>
+— {#aDyAropa#} .
+<div n="p">— {#anvA#} {%nach%} oder {%bei Jmd aufsteigen; ersteigen, beschreiten%}: {#ya\jYaM yanta\M mana^sA\nvAro^hAmi#} {%ich fahre im Geiste mit dem Opfer hin%}
+<ls>AV. 6,122,4.</ls>
+<ls>TS. 5,4,10,2.</ls> {#a\gniM yannAnvA\rohe^t#}
+<ls n="TS.">6,8,1.</ls> {#e\za vE dEva\yAna\H panTA\stamevAnvAro^ham#}
+<ls n="TS.">7,2,1,4.</ls> {#kratUn#}
+<ls>ŚAT. BR. 13,3,2,1.</ls> — {#anvArohacca sugrIvaH#} sc. {#girim#} {%er bestieg nach ihm den Berg%}
+<ls>R. 6,14,11.</ls> {#anvArUQASca tatputrAstatra#} (<ab>d. i.</ab> {#girO) tAm#}
+<ls>KATHĀS. 29,130.</ls> {#anvAruroha cApyenam#} sc. {#raTam#}
+<ls>MBH. 2,36.</ls> <ls n="MBH.">5,3345.</ls> <ls n="MBH.">7,2991.</ls>
+<ls>R. GORR. 2,13,26.</ls> {#taM citAgnigatam — anvAruruhuH patnyaScatasraH#}
+<ls>MBH. 16,200.</ls> {#yA tvAM citAM samArUQaM na tvArokzyati#} (lies {#nAnvAro°#})
+<ls>R. GORR. 2,68,36.</ls> {#SArIra AtmA prAjYenAtmanAnvArUQaH#} {%enthält in sich%}
+<ls>ŚAT. BR. 14,7,1,42.</ls> Vgl. {#anvArohaRa#} . — caus. {%wieder hinaufbringen%}: {#tAm#} ({#pratimAm#}) — {#anvArohayitA punaH#}
+<ls>ŚATR. 14. 231.</ls> {#ru\draM gf\hAna\nvAro^hayet#} {%bringt in sein Haus%}
+<ls>TS. 3,4,10,4.</ls> — des. {%nach Jmd Etwas zu erklimmen wünschen%}
+<ls>BHĀG. P. 4,12,42.</ls>
 [Page6-0415]
-
-<div n="p">— {#upAnvA#} {%nach Jmd Etwas besteigen und neben ihm Platz nehmen%}: {#raTam#} 
-<ls>MBH. 5, 4745.</ls>
-
-<div n="p">— {#samanvA#} {%nach Jmd Etwas besteigen%}: {#tatrEnaM citAgnisTaM mAdrI samanvAruroha#} sc. {#citAm#} 
-<ls>MBH. 1, 3818.</ls>
-
-<div n="p">— {#aByA#} {%ersteigen, besteigen; sich emporschwingen —, sich hinaufsetzen zu, beschreiten%}: {#nAka^m#} 
-<ls>AV. 3, 29, 3.</ls> {#su\va\rgaM lo\kam#} 
-<ls>TBR. 1, 8, 8, 5. 5, 1, 3.</ls> ein Schiff 
-<ls>ŚAT. BR. 4, 2, 5, 10.</ls> {#a\Bi vA ezo^ 'gnI Aro^hati\ ya e^nAvupa\tizWa^te#} 
-<ls>TS. 1, 5, 9, 5.</ls> {#SarI^raM sa\MskftyA\ByAro^hati#} 
-<ls>5, 6, 6, 4.</ls> {#sA\kzAdvA e\za de\vAna\ByAro^hati\ ya e^zAM ya\jYama^ByA\roha^ti\ yaTA\ Kalu\ vE SreyA^na\ByArU^QaH kA\maya^te\ taTA^ karoti#} {%geradezu zu den Göttern erhebt sich, wer zu ihrem Opfer sich erhebt, so wie ein angesehener Hochstehender nur zu wünschen hat, so thut er%}, 
-<ls>TS. 2, 5, 5, 5. 7, 4, 5, 1.</ls> {#kzatram#} 
-<ls>ŚAT. BR. 2, 4, 3, 7. 3, 3, 4, 9.</ls> {#aBi ha vE SreyAMsaM rohati nEnaM pApIyAnaByArohati#} {%erhebt sich über ihn%} 
-<ls>12, 2, 3, 10.</ls> 
+<div n="p">— {#upAnvA#} {%nach Jmd Etwas besteigen und neben ihm Platz nehmen%}: {#raTam#}
+<ls>MBH. 5,4745.</ls>
+<div n="p">— {#samanvA#} {%nach Jmd Etwas besteigen%}: {#tatrEnaM citAgnisTaM mAdrI samanvAruroha#} sc. {#citAm#}
+<ls>MBH. 1,3818.</ls>
+<div n="p">— {#aByA#} {%ersteigen, besteigen; sich emporschwingen —, sich hinaufsetzen zu, beschreiten%}: {#nAka^m#}
+<ls>AV. 3,29,3.</ls> {#su\va\rgaM lo\kam#}
+<ls>TBR. 1,8,8,5. 5,1,3.</ls> ein Schiff
+<ls>ŚAT. BR. 4,2,5,10.</ls> {#a\Bi vA ezo^ 'gnI Aro^hati\ ya e^nAvupa\tizWa^te#}
+<ls>TS. 1,5,9,5.</ls> {#SarI^raM sa\MskftyA\ByAro^hati#}
+<ls n="TS.">5,6,6,4.</ls> {#sA\kzAdvA e\za de\vAna\ByAro^hati\ ya e^zAM ya\jYama^ByA\roha^ti\ yaTA\ Kalu\ vE SreyA^na\ByArU^QaH kA\maya^te\ taTA^ karoti#} {%geradezu zu den Göttern erhebt sich, wer zu ihrem Opfer sich erhebt, so wie ein angesehener Hochstehender nur zu wünschen hat, so thut er%},
+<ls>TS. 2,5,5,5.</ls> <ls n="TS.">7,4,5,1.</ls> {#kzatram#}
+<ls>ŚAT. BR. 2,4,3,7.</ls> <ls n="ŚAT. BR.">3,3,4,9.</ls> {#aBi ha vE SreyAMsaM rohati nEnaM pApIyAnaByArohati#} {%erhebt sich über ihn%}
+<ls n="ŚAT. BR.">12,2,3,10.</ls>
 <div n="v">— Vgl. {#anaByArUQa, aByAroha#} fgg.
-
-<div n="p">— {#avA#} caus. {%herabbringen von%} (abl.): {#raTasTAM pratimAM BarturavArohayitA gireH#} 
-<ls>ŚATR. 14, 229.</ls>
-
-<div n="p">— {#udA#} {%sich erheben zu%}: {#pf\Ti\vyA a\hamuda\ntari^kza\mAru^ham#} 
-<ls>VS. 17, 67.</ls> 
-<ls>AV. 18, 1, 61.</ls>
-
-<div n="p">— {#upA#} 
-<div n="1"> 1) {%hinaufsteigen zu Jmd%} 
-<ls>ĀŚV. GṚHY. 3, 12, 12.</ls> 
-<ls>MBH. 2, 37. 939.</ls> {%besteigen%}: {#giripfzWam#} 
-<ls>Spr. 833, v. l.</ls> 
-<ls>MBH. 1, 1107.</ls> {#SamIm#} 
-<ls>4, 170.</ls> {#prAsAdAgramupArUQA#} 
-<ls>R. GORR. 2, 6, 1.</ls> {#mahAraTamupAruhat#} 
-<ls>7, 12, 20.</ls> {#yAnAnyupArUQAH#} 
-<ls>6, 111, 16.</ls> {#nAvamupAruhat#} 
-<ls>7, 46, 33.</ls> {#sTalImupArUQA (upAruhya#} ed. Bomb. 
-<ls>3, 13, 22</ls>) {#parvatasyAvidUrataH . tatra paYcavawI nAma#} {%gelegen auf%} 
-<ls>3, 19, 23.</ls> {#na saMtAnaH pramARapadavImupAroQumarhati#} so v. a. {%darf nicht als wirklicher Beweis gelten%} 
-<ls>SARVADARŚANAS. 26, 6.</ls> 
-<div n="1">— 2) {%herankommen, sich nähern%} 
-<ls>MBH. 7, 5738.</ls> {#upArUQo maDyAhnaH#} {%Mittag ist da%} 
-<ls>MĀLAV. 24, 2.</ls> {%kommen —, gelangen zu%}: {#sTalamupAruhya parvatasyAvidUrataH#} 
-<ls>R. ed. Bomb. 3, 13, 22.</ls> {#upArUQaH sAmagryamiva candramAH#} 
-<ls>RAGH. 17, 30.</ls> 
-<div n="v">— Vgl. {#upAruh#} . — caus. {%zu sich heraufsteigen lassen auf%} (acc. oder loc.): {#tAvupAropya syandanam#} 
-<ls>MBH. 10, 654.</ls> {#raTe#} 
-<ls>5, 4726.</ls>
-
-<div n="p">— {#samupA#} {%besteigen%}: {#vimAnam#} 
-<ls>MBH. 3, 15436.</ls> {#vfzaBaM samupArUQA devI pArvatI#} 
-<ls>R. 5, 35, 26.</ls>
-
-<div n="p">— {#paryA#} {%heraufsteigen aus%}: {#(sUryam) A\roha^ntaM bfha\taH pAja^sa\spari^#} 
-<ls>ṚV. 10, 37, 8.</ls>
-
-<div n="p">— {#prA#} {%hinaufsteigen zu, besteigen%}: {#trivizwapam#} 
-<ls>MBH. 3, 10594.</ls> {#pAdErhayAn#} 
-<ls>7, 9041.</ls>
-
-<div n="p">— {#pratyA#} caus. {%wieder hinaufsteigen lassen, - hinaufbefördern%}: {#pratyAropaya raTopari rAjaputram#} 
-<ls>UTTARAR. 100, 9 (133, 4).</ls> <ls>R. 4, 58, 39.</ls>
-
-<div n="p">— {#samA#} 
-<div n="1"> 1) {%hinaufsteigen zu, auf, besteigen, beschreiten%}: {#svargam#} 
-<ls>MBH. 5, 4078.</ls> {#surapurIm#} 
-<ls>Spr. 2462</ls> (med.). {#naBaH#} 
-<ls>KATHĀS. 35, 158.</ls> {#giripfzWam#} 
-<ls>Spr. 833.</ls> {#girim#} 
-<ls>R. 5, 74, 1.</ls> {#uzwrayAnam, KarayAnam#} 
-<ls>M. 11, 201.</ls> {#raTam, vimAnam#} 
-<ls>MBH. 3, 1729. 2791. 12027. 5, 7339.</ls> 
-<ls>HARIV. 13133.</ls> 
-<ls>R. 1, 1, 85. 5, 43, 15.</ls> 
-<ls>KATHĀS. 43, 41.</ls> {#nAvam#} 
-<ls>AIT. BR. 6, 21.</ls> 
-<ls>KATHĀS. 18, 293.</ls> {#siMhAsanam#} 
-<ls>52.</ls> {#Sayane#} 
-<ls>PAÑCAT. 186, 23.</ls> {#vAjinam#} 
-<ls>KATHĀS. 18, 118.</ls> 
-<ls>RĀJA-TAR. 4, 268.</ls> 
-<ls>BHĀG. P. 9, 6, 15.</ls> {#matpfzWam#} 
-<ls>PAÑCAT. 115, 3.</ls> {#tatpfzWopari#} 
-<ls>198, 10.</ls> {#taccakram - tanmastakAdbrAhmaRaSirasi samAruroha#} 
-<ls>242, 10. 14.</ls> {#priyasyANke#} 
-<ls>R. 2, 96, 16.</ls> {#hutASanam#} so v. a. {#citAm#} 
-<ls>Spr. 4741.</ls> {#imA~llokAn#} 
-<ls>ŚAT. BR. 1, 9, 3, 10. 2, 1, 2, 3.</ls> einen Pfad 
-<ls>TS. 2, 5, 6, 2.</ls> {#devA gArhapatyaM citvA samArohan#} 
-<ls>ŚAT. BR.7, 2, 1, 1. 8, 2, 1, 1. 9, 2, 3, 13.</ls>
+<div n="p">— {#avA#} caus. {%herabbringen von%} (abl.): {#raTasTAM pratimAM BarturavArohayitA gireH#}
+<ls>ŚATR. 14,229.</ls>
+<div n="p">— {#udA#} {%sich erheben zu%}: {#pf\Ti\vyA a\hamuda\ntari^kza\mAru^ham#}
+<ls>VS. 17,67.</ls>
+<ls>AV. 18,1,61.</ls>
+<div n="p">— {#upA#}
+<div n="1"> 1) {%hinaufsteigen zu Jmd%}
+<ls>ĀŚV. GṚHY. 3,12,12.</ls>
+<ls>MBH. 2,37.</ls> <ls n="MBH. 2,">939.</ls> {%besteigen%}: {#giripfzWam#}
+<ls>Spr. 833, v. l.</ls>
+<ls>MBH. 1,1107.</ls> {#SamIm#}
+<ls n="MBH.">4,170.</ls> {#prAsAdAgramupArUQA#}
+<ls>R. GORR. 2,6,1.</ls> {#mahAraTamupAruhat#}
+<ls n="R. GORR.">7,12,20.</ls> {#yAnAnyupArUQAH#}
+<ls n="R. GORR.">6,111,16.</ls> {#nAvamupAruhat#}
+<ls n="R. GORR.">7,46,33.</ls> {#sTalImupArUQA (upAruhya#} <ls>ed. Bomb.</ls>
+<ls n="R. GORR.">3,13,22</ls>) {#parvatasyAvidUrataH . tatra paYcavawI nAma#} {%gelegen auf%}
+<ls n="R. GORR.">3,19,23.</ls> {#na saMtAnaH pramARapadavImupAroQumarhati#} so v. a. {%darf nicht als wirklicher Beweis gelten%}
+<ls>SARVADARŚANAS. 26,6.</ls>
+<div n="1">— 2) {%herankommen, sich nähern%}
+<ls>MBH. 7,5738.</ls> {#upArUQo maDyAhnaH#} {%Mittag ist da%}
+<ls>MĀLAV. 24,2.</ls> {%kommen —, gelangen zu%}: {#sTalamupAruhya parvatasyAvidUrataH#}
+<ls>R. ed. Bomb. 3,13,22.</ls> {#upArUQaH sAmagryamiva candramAH#}
+<ls>RAGH. 17,30.</ls>
+<div n="v">— Vgl. {#upAruh#} . — caus. {%zu sich heraufsteigen lassen auf%} (acc. oder loc.): {#tAvupAropya syandanam#}
+<ls>MBH. 10,654.</ls> {#raTe#}
+<ls n="MBH.">5,4726.</ls>
+<div n="p">— {#samupA#} {%besteigen%}: {#vimAnam#}
+<ls>MBH. 3,15436.</ls> {#vfzaBaM samupArUQA devI pArvatI#}
+<ls>R. 5,35,26.</ls>
+<div n="p">— {#paryA#} {%heraufsteigen aus%}: {#(sUryam) A\roha^ntaM bfha\taH pAja^sa\spari^#}
+<ls>ṚV. 10,37,8.</ls>
+<div n="p">— {#prA#} {%hinaufsteigen zu, besteigen%}: {#trivizwapam#}
+<ls>MBH. 3,10594.</ls> {#pAdErhayAn#}
+<ls n="MBH.">7,9041.</ls>
+<div n="p">— {#pratyA#} caus. {%wieder hinaufsteigen lassen, — hinaufbefördern%}: {#pratyAropaya raTopari rAjaputram#}
+<ls>UTTARAR. 100,9 (133,4).</ls> <ls>R. 4,58,39.</ls>
+<div n="p">— {#samA#}
+<div n="1"> 1) {%hinaufsteigen zu, auf, besteigen, beschreiten%}: {#svargam#}
+<ls>MBH. 5,4078.</ls> {#surapurIm#}
+<ls>Spr. 2462</ls> (med.). {#naBaH#}
+<ls>KATHĀS. 35,158.</ls> {#giripfzWam#}
+<ls>Spr. 833.</ls> {#girim#}
+<ls>R. 5,74,1.</ls> {#uzwrayAnam, KarayAnam#}
+<ls>M. 11,201.</ls> {#raTam, vimAnam#}
+<ls>MBH. 3,1729.</ls> <ls n="MBH. 3,">2791.</ls> <ls n="MBH. 3,">12027.</ls> <ls n="MBH.">5,7339.</ls>
+<ls>HARIV. 13133.</ls>
+<ls>R. 1,1,85.</ls> <ls n="R.">5,43,15.</ls>
+<ls>KATHĀS. 43,41.</ls> {#nAvam#}
+<ls>AIT. BR. 6,21.</ls>
+<ls>KATHĀS. 18,293.</ls> {#siMhAsanam#}
+<ls n="KATHĀS. 18,">52.</ls> {#Sayane#}
+<ls>PAÑCAT. 186,23.</ls> {#vAjinam#}
+<ls>KATHĀS. 18,118.</ls>
+<ls>RĀJA-TAR. 4,268.</ls>
+<ls>BHĀG. P. 9,6,15.</ls> {#matpfzWam#}
+<ls>PAÑCAT. 115,3.</ls> {#tatpfzWopari#}
+<ls n="PAÑCAT.">198,10.</ls> {#taccakram — tanmastakAdbrAhmaRaSirasi samAruroha#}
+<ls n="PAÑCAT.">242,10. 14.</ls> {#priyasyANke#}
+<ls>R. 2,96,16.</ls> {#hutASanam#} so v. a. {#citAm#}
+<ls>Spr. 4741.</ls> {#imA~llokAn#}
+<ls>ŚAT. BR. 1,9,3,10.</ls> <ls n="ŚAT. BR.">2,1,2,3.</ls> einen Pfad
+<ls>TS. 2,5,6,2.</ls> {#devA gArhapatyaM citvA samArohan#}
+<ls>ŚAT. BR. 7,2,1,1.</ls> <ls n="ŚAT. BR.">8,2,1,1.</ls> <ls n="ŚAT. BR.">9,2,3,13.</ls>
 [Page6-0416]
-{#vitarkapadavIm#} 
-<ls>PRAB. 116, 9.</ls> {#samArUQa#} 
-<div n="2"> a) in pass. Bed.: {#mAtaNgAH samArUQAH kuSalErhastisAdiBiH#} {%geritten von%} 
-<ls>MBH. 4, 1038.</ls> {#SataM sahasrARyaSvAnAM samArUQAni DanviBiH#} 
-<ls>R. 2, 83, 5.</ls> {#°kareRukA#} 
-<ls>KATHĀS. 18, 87. 52, 345.</ls> 
-<div n="2">— b) in act. Bed.: {#suralokam#} 
-<ls>R. 1, 36, 22.</ls> {#samArUQA#} (sc. {#Kam) BUtAsanavimAnakAH#} 
-<ls>KATHĀS. 46, 31.</ls> {#ekavfkze (°kzA#} die Ausgg.) {#samArUQA vihaMgamAH#} 
-<ls>VṚDDHA-CĀṆ. 10, 15.</ls> {#raTam#} 
-<ls>MĀRK. P. 132, 42.</ls> {#aSvam#} 
-<ls>R. GORR. 2, 90, 5.</ls> <ls>MĀRK. P. 21, 50.</ls> <ls>KATHĀS. 18, 101.</ls> {#dArumaye garuqe#} 
-<ls>PAÑCAT. 48, 10.</ls> {#patnIskanDe#} 
-<ls>MĀRK. P. 16, 28.</ls> {#tasyopari#} 
-<ls>PAÑCAT. 115, 4.</ls> {#KawvAm#} 
-<ls>Spr. 4890.</ls> {#siMhAsanam#} 
-<ls>KATHĀS. 9, 18.</ls> {#citAm#} 
-<ls>R. GORR. 2, 68, 36.</ls> {#utpaTam#} {%auf Abwege gerathen%} 
-<ls>R.</ls> <ls>SCHL. 2, 78, 4.</ls> {%hineingegangen in, aufgenommen in%}: {#samArUQezu cAraRInASe#} {%wenn die Reibhölzer verloren gehen, nachdem die Feuer in sie aufgenommen sind%}, 
-<ls>ĀŚV. ŚR. 3, 12, 30.</ls> 
-<ls>KĀTY. ŚR. 5, 2, 19. 6, 10, 12.</ls> 
-<div n="1">— 2) {%zuwachsen, zuheilen%}: {#°rUQa#} 
-<ls>HARIV. 11076.</ls> {%gewachsen%} nach 
-<ls>NĪLAK.</ls> 
-<div n="1">— 3) {%losgehen auf Jmd%} oder {%Etwas%} 
-<ls>MBH. 7, 5084.</ls> {#Dvajamasya samAruhya#} ({#samAsAdya#} ed. Bomb.) {#tasTO BImo mahItale#} 
-<ls>5768.</ls> 
-<div n="1">— 4) {%an Etwas gehen, antreten%}: {#ugraM tapaH#} 
-<ls>MBH. 13, 7608.</ls> {#naBasA tulAM samAruroha#} so v. a. {%bekam Aehnlichkeit mit%} 
-<ls>RAGH. 8, 15.</ls> {#cakravfdDiM samArUQaH#} {%eingegangen auf%} 
-<ls>M. 8, 156.</ls> {#prajYayA vAcam, cakzuH, Srotram, jihvAm, hastO, SarIram, upasTam, pAdO, manaH samAruhya#} {%an die Rede, das Auge%} u.s.w. {%mittelst des Verstandes gehend%} so v. a. {%in Thätigkeit setzend%} 
-<ls>KAUṢ. UP. 3, 5.</ls> 
-<div n="v">— Vgl. {#samAroha, samArohaRa#} . — caus. 
-<div n="1"> 1) {%hinaufsteigen —, besteigen lassen%}: {#pi\tf\yARE\H saM va\ A ro^hayAmi#} 
-<ls>AV. 18, 4, 1.</ls> {#a\mume\vEna^M lo\kaM sa\mAro^hayati#} 
-<ls>TS. 6, 6, 1, 1.</ls> {#diSaH#} 
-<ls>ŚAT. BR. 5, 4, 1, 3.</ls> {#svargaM samAropitaH#} 
-<ls>Spr. 2462.</ls> {#vEnateye#} 
-<ls>PAÑCAT. 44, 16.</ls> {#pfzWe#} 
-<ls>52, 2.</ls> {#aNkam#} 
-<ls>BHĀG. P. 4, 4, 26.</ls> {#SUle#} 
-<ls>MṚCCH. 170, 22.</ls> 
-<ls>RĀJA-TAR. 2, 79.</ls> {%aufladen, auflegen%} 
-<ls>MBH. 9, 1349.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 34, 16. 71, 2. 6, 19, 49.</ls> 
-<ls>KATHĀS. 43, 234.</ls> {#fkzaM divi#} {%aufgehen lassen%} 
-<ls>MĀRK. P. 75, 61. fg.</ls> {#vedIm#} {%aufführen%} 
-<ls>KATHĀS. 45, 312.</ls> {%in die Höhe heben, aufheben%} 
-<ls>MBH. 4, 802.</ls> bildlich so v. a. {%befördern, an einen hohen Platz stellen%} 
-<ls>RAGH. ed. Calc. 15, 91.</ls> 
-<div n="1">— 2) {%setzen in%}: {#pIWikAm#} 
-<ls>KATHĀS. 75, 119.</ls> {%versetzen in, unter%}: {#sarve jIvitasaMSayaM vayamamI vAcA samAropitAH#} 
-<ls>VEṆĪS.</ls> in <ls>SĀH. D. 160, 8.</ls> {#taM putriRAm - samAropayadagrasaMKyAm#} 
-<ls>RAGH. 18, 29.</ls> das Feuer {%versetzen in%} (loc. oder acc.), vom symbolischen Auffangen desselben in einen andern Gegenstand durch Wärmen der Hände, Hölzer 
-u.s.w. : {#araRyoH, Atman, Atmani#} 
-<ls>TS. 3, 4, 10, 4. 5.</ls> 
-<ls>ŚAT. BR. 4, 6, 8, 3. 12, 4, 3, 10. 41. 13, 6, 2, 20.</ls> 
-<ls>M. 6, 25. 38.</ls> 
-<ls>BHĀG. P. 7, 12, 24.</ls> {#araRI volmukaM vA#} 
-<ls>AIT. BR. 7, 7.</ls> auch ohne Bez. des Ortes 
-<ls>KĀTY. ŚR. 5, 3, 1. 7, 1, 36. 25, 3, 9.</ls> 
-<ls>ĀŚV. ŚR. 3, 10, 4.</ls> {#°ropya#} 
-<ls>LĀṬY. 3, 4, 6.</ls> 
-<ls>ŚĀṄKH. ŚR. 16, 16, 2.</ls> 
-<ls>KAUŚ. 40.</ls> med. {%sich aufnehmen lassen%}: {#gfhapatireMva praTamaH samArohayate#} 
-<ls>ŚAT. BR. 4, 6, 8, 13.</ls> 
-<ls>KĀTY. ŚR. 12, 2, 8.</ls> 
-<div n="1">— 3) einen Bogen {%mit der Sehne beziehen%}: {#samAropitakArmuka#} 
-<ls>R. 6, 66, 7.</ls> 
-<ls>BHĀG. P. 1, 17, 4</ls>; vgl. u. {#A#} caus. 3). 
-<div n="1">— 4) {%Jmd%} (loc.) {%Etwas übergeben, übertragen%}: {#putre rAjyaM samAropya#} 
-<ls>Verz. d. Oxf. H. 38,b, No. 95.</ls> {#samAropya vaco mayi#} 
-<ls>MBH. 12, 1418</ls>; vgl. {#vAkyAni - ekasminbrAhmaRe niveSya#} 
-<ls>15, 311.</ls> {%beilegen, zuschreiben, übertragen auf%} 
-<ls>BHĀG. P. 5, 5, 30.</ls> 
-<ls>SARVADARŚANAS. 173, 2. 3.</ls> 
-<div n="1">— 5) {%an den Tag legen%}: {#samAropitaSOca#} 
-<ls>MBH. 13, 5362.</ls> {#samAropitavikrama#} 
-<ls>R. 6, 69, 21.</ls> 
+{#vitarkapadavIm#}
+<ls>PRAB. 116,9.</ls> {#samArUQa#}
+<div n="2"> a) in pass. Bed.: {#mAtaNgAH samArUQAH kuSalErhastisAdiBiH#} {%geritten von%}
+<ls>MBH. 4,1038.</ls> {#SataM sahasrARyaSvAnAM samArUQAni DanviBiH#}
+<ls>R. 2,83,5.</ls> {#°kareRukA#}
+<ls>KATHĀS. 18,87.</ls> <ls n="KATHĀS.">52,345.</ls>
+<div n="2">— b) in act. Bed.: {#suralokam#}
+<ls>R. 1,36,22.</ls> {#samArUQA#} (sc. {#Kam) BUtAsanavimAnakAH#}
+<ls>KATHĀS. 46,31.</ls> {#ekavfkze (°kzA#} die Ausgg.) {#samArUQA vihaMgamAH#}
+<ls>VṚDDHA-CĀṆ. 10,15.</ls> {#raTam#}
+<ls>MĀRK. P. 132,42.</ls> {#aSvam#}
+<ls>R. GORR. 2,90,5.</ls> <ls>MĀRK. P. 21,50.</ls> <ls>KATHĀS. 18,101.</ls> {#dArumaye garuqe#}
+<ls>PAÑCAT. 48,10.</ls> {#patnIskanDe#}
+<ls>MĀRK. P. 16,28.</ls> {#tasyopari#}
+<ls>PAÑCAT. 115,4.</ls> {#KawvAm#}
+<ls>Spr. 4890.</ls> {#siMhAsanam#}
+<ls>KATHĀS. 9,18.</ls> {#citAm#}
+<ls>R. GORR. 2,68,36.</ls> {#utpaTam#} {%auf Abwege gerathen%}
+<ls>R. SCHL. 2,78,4.</ls> {%hineingegangen in, aufgenommen in%}: {#samArUQezu cAraRInASe#} {%wenn die Reibhölzer verloren gehen, nachdem die Feuer in sie aufgenommen sind%},
+<ls>ĀŚV. ŚR. 3,12,30.</ls>
+<ls>KĀTY. ŚR. 5,2,19.</ls> <ls n="KĀTY. ŚR.">6,10,12.</ls>
+<div n="1">— 2) {%zuwachsen, zuheilen%}: {#°rUQa#}
+<ls>HARIV. 11076.</ls> {%gewachsen%} nach
+<ls>NĪLAK.</ls>
+<div n="1">— 3) {%losgehen auf Jmd%} oder {%Etwas%}
+<ls>MBH. 7,5084.</ls> {#Dvajamasya samAruhya#} ({#samAsAdya#} <ls>ed. Bomb.</ls>) {#tasTO BImo mahItale#}
+<ls n="MBH. 7,">5768.</ls>
+<div n="1">— 4) {%an Etwas gehen, antreten%}: {#ugraM tapaH#}
+<ls>MBH. 13,7608.</ls> {#naBasA tulAM samAruroha#} so v. a. {%bekam Aehnlichkeit mit%}
+<ls>RAGH. 8,15.</ls> {#cakravfdDiM samArUQaH#} {%eingegangen auf%}
+<ls>M. 8,156.</ls> {#prajYayA vAcam, cakzuH, Srotram, jihvAm, hastO, SarIram, upasTam, pAdO, manaH samAruhya#} {%an die Rede, das Auge%} u.s.w. {%mittelst des Verstandes gehend%} so v. a. {%in Thätigkeit setzend%}
+<ls>KAUṢ. UP. 3,5.</ls>
+<div n="v">— Vgl. {#samAroha, samArohaRa#} . — caus.
+<div n="1"> 1) {%hinaufsteigen —, besteigen lassen%}: {#pi\tf\yARE\H saM va\ A ro^hayAmi#}
+<ls>AV. 18,4,1.</ls> {#a\mume\vEna^M lo\kaM sa\mAro^hayati#}
+<ls>TS. 6,6,1,1.</ls> {#diSaH#}
+<ls>ŚAT. BR. 5,4,1,3.</ls> {#svargaM samAropitaH#}
+<ls>Spr. 2462.</ls> {#vEnateye#}
+<ls>PAÑCAT. 44,16.</ls> {#pfzWe#}
+<ls n="PAÑCAT.">52,2.</ls> {#aNkam#}
+<ls>BHĀG. P. 4,4,26.</ls> {#SUle#}
+<ls>MṚCCH. 170,22.</ls>
+<ls>RĀJA-TAR. 2,79.</ls> {%aufladen, auflegen%}
+<ls>MBH. 9,1349.</ls>
+<ls>R. GORR. 1,34,16.</ls> <ls n="R. GORR. 1,">71,2.</ls> <ls n="R. GORR.">6,19,49.</ls>
+<ls>KATHĀS. 43,234.</ls> {#fkzaM divi#} {%aufgehen lassen%}
+<ls>MĀRK. P. 75,61. fg.</ls> {#vedIm#} {%aufführen%}
+<ls>KATHĀS. 45,312.</ls> {%in die Höhe heben, aufheben%}
+<ls>MBH. 4,802.</ls> bildlich so v. a. {%befördern, an einen hohen Platz stellen%}
+<ls>RAGH. ed. Calc. 15,91.</ls>
+<div n="1">— 2) {%setzen in%}: {#pIWikAm#}
+<ls>KATHĀS. 75,119.</ls> {%versetzen in, unter%}: {#sarve jIvitasaMSayaM vayamamI vAcA samAropitAH#}
+<ls>VEṆĪS.</ls> in <ls>SĀH. D. 160,8.</ls> {#taM putriRAm — samAropayadagrasaMKyAm#}
+<ls>RAGH. 18,29.</ls> das Feuer {%versetzen in%} (loc. oder acc.), vom symbolischen Auffangen desselben in einen andern Gegenstand durch Wärmen der Hände, Hölzer
+u.s.w. : {#araRyoH, Atman, Atmani#}
+<ls>TS. 3,4,10,4. 5.</ls>
+<ls>ŚAT. BR. 4,6,8,3. 12,4,3,10. 41. 13,6,2,20.</ls>
+<ls>M. 6,25.</ls> <ls n="M. 6,">38.</ls>
+<ls>BHĀG. P. 7,12,24.</ls> {#araRI volmukaM vA#}
+<ls>AIT. BR. 7,7.</ls> auch ohne Bez. des Ortes
+<ls>KĀTY. ŚR. 5,3,1.</ls> <ls n="KĀTY. ŚR.">7,1,36.</ls> <ls n="KĀTY. ŚR.">25,3,9.</ls>
+<ls>ĀŚV. ŚR. 3,10,4.</ls> {#°ropya#}
+<ls>LĀṬY. 3,4,6.</ls>
+<ls>ŚĀṄKH. ŚR. 16,16,2.</ls>
+<ls>KAUŚ. 40.</ls> med. {%sich aufnehmen lassen%}: {#gfhapatireMva praTamaH samArohayate#}
+<ls>ŚAT. BR. 4,6,8,13.</ls>
+<ls>KĀTY. ŚR. 12,2,8.</ls>
+<div n="1">— 3) einen Bogen {%mit der Sehne beziehen%}: {#samAropitakArmuka#}
+<ls>R. 6,66,7.</ls>
+<ls>BHĀG. P. 1,17,4</ls>; vgl. u. {#A#} caus. 3).
+<div n="1">— 4) {%Jmd%} (loc.) {%Etwas übergeben, übertragen%}: {#putre rAjyaM samAropya#}
+<ls>Verz. d. Oxf. H. 38,b, No. 95.</ls> {#samAropya vaco mayi#}
+<ls>MBH. 12,1418</ls>; vgl. {#vAkyAni — ekasminbrAhmaRe niveSya#}
+<ls n="MBH.">15,311.</ls> {%beilegen, zuschreiben, übertragen auf%}
+<ls>BHĀG. P. 5,5,30.</ls>
+<ls>SARVADARŚANAS. 173,2. 3.</ls>
+<div n="1">— 5) {%an den Tag legen%}: {#samAropitaSOca#}
+<ls>MBH. 13,5362.</ls> {#samAropitavikrama#}
+<ls>R. 6,69,21.</ls>
 <div n="v">— Vgl. {#samAropaRa#} .
-
-<div n="p">— {#anusamA#} {%aufsteigen nach%}: {#u\dyanta^mAdi\tyama\gniranu^sa\mAro^hati#} 
-<ls>TBR. 2, 1, 2, 10.</ls>
-
+<div n="p">— {#anusamA#} {%aufsteigen nach%}: {#u\dyanta^mAdi\tyama\gniranu^sa\mAro^hati#}
+<ls>TBR. 2,1,2,10.</ls>
 <div n="p">— {#aBisamA#} (zu einem Opfer in den heiligen Raum) {%schreiten%}: {#te prA^ya\RIya^ma\Bisa\mAro^han#}
 [Page6-0417]
-
-<ls>TBR. 1, 5, 9, 3.</ls> {#prAyaRIyAKyakarmABilakzya devayajanaM pravizwaH#} Comm.
-
-<div n="p">— {#upa#} 
-<div n="1"> 1) {%verwachsen, vernarben%}: {#vraRaH#} 
-<ls>SUŚR. 2, 13, 15. 58, 14.</ls> {#uparUQavraRa#} 
-<ls>63, 13.</ls> 
-<div n="1">— 2) {%kommen —, übergehen in%}: {#pUrvasmAdavasTAntaramuparUQA tatraBavatI#} so v. a. {%sie hat sich verändert%} 
-<ls>MĀLAV. 31, 13.</ls> 
-<div n="1">— 3) {#uparUQa#} {%haftend —, befindlich an%} (loc.) 
-<ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 30</ls> ({#°QaM#} zu lesen). — caus. {%verwachsen —, vernarben lassen%} 
-<ls>SUŚR. 2, 106, 7.</ls>
-
-<div n="p">— {#ni#}, partic. {#nirUQa#} {%gewachsen%}: {#mahAkadambaH supArSvanirUQaH#} 
-<ls>BHĀG. P. 5, 16, 23. 25.</ls> {#°mUla#} 
-<ls>3, 30, 7.</ls> {%fest wurzelnd%}: {#mamatA#} 
-<ls>2, 4, 2</ls> ({#virUQA#} 
-<ls>?ed. Bomb.). 4, 27, 10.</ls> so v. a. {#rUQa#} {%aus der Etymologie nicht erklärlich%} 
-<ls>SARVADARŚANAS. 172, 21.</ls> — caus. {%verpflanzen, versetzen nach%} (loc.), Menschen 
-<ls>RĀJA-TAR. 1, 345.</ls>
-
+<ls>TBR. 1,5,9,3.</ls> {#prAyaRIyAKyakarmABilakzya devayajanaM pravizwaH#} Comm.
+<div n="p">— {#upa#}
+<div n="1"> 1) {%verwachsen, vernarben%}: {#vraRaH#}
+<ls>SUŚR. 2,13,15. 58,14.</ls> {#uparUQavraRa#}
+<ls n="SUŚR.">63,13.</ls>
+<div n="1">— 2) {%kommen —, übergehen in%}: {#pUrvasmAdavasTAntaramuparUQA tatraBavatI#} so v. a. {%sie hat sich verändert%}
+<ls>MĀLAV. 31,13.</ls>
+<div n="1">— 3) {#uparUQa#} {%haftend —, befindlich an%} (loc.)
+<ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 30</ls> ({#°QaM#} zu lesen). — caus. {%verwachsen —, vernarben lassen%}
+<ls>SUŚR. 2,106,7.</ls>
+<div n="p">— {#ni#}, partic. {#nirUQa#} {%gewachsen%}: {#mahAkadambaH supArSvanirUQaH#}
+<ls>BHĀG. P. 5,16,23.</ls> <ls n="BHĀG. P. 5,16,">25.</ls> {#°mUla#}
+<ls n="BHĀG. P.">3,30,7.</ls> {%fest wurzelnd%}: {#mamatA#}
+<ls n="BHĀG. P.">2,4,2</ls> ({#virUQA#} <ls>ed. Bomb.</ls>).
+<ls n="BHĀG. P.">4,27,10.</ls> so v. a. {#rUQa#} {%aus der Etymologie nicht erklärlich%}
+<ls>SARVADARŚANAS. 172,21.</ls> — caus. {%verpflanzen, versetzen nach%} (loc.), Menschen
+<ls>RĀJA-TAR. 1,345.</ls>
 <div n="p">— {#nis#} s. {#nIroha#} .
-
-<div n="p">— {#pra#} 
-<div n="1"> 1) {%hervorwachsen, treiben, sprossen%}: {#kARqA^tkARqAtpra\roha^ntI#} 
-<ls>VS. 13, 20.</ls> {#te mu^va\rgaM lo\kamA prAro^han#} 
-<ls>TBR. 1, 1, 2, 5.</ls> {#mUlAt#} 
-<ls>ŚAT. BR. 14, 6, 9, 33.</ls> {#palASAni#} 
-<ls>9, 3, 15.</ls> <ls>CHĀND. UP. 5, 2, 3.</ls> {#vrIhayaH SAlayo mudgAstilA mAzAstaTA yavAH . yaTAbIjaM prarohanti#} 
-<ls>M. 9, 39.</ls> {#kvacitsasyaM#} (so die ed. Bomb.) {#prarohati#} 
-<ls>MBH. 12, 2691. 13, 7141.</ls> {#na parvatAgre nalinI prarohati#} 
-<ls>Spr. 1416.</ls> {#yadA prasfzwA ozaDyo na prarohanti tAH punaH#} 
-<ls>MĀRK. P. 49, 73.</ls> {#upyate yadDi yadbIjaM tattadeva prarohati#} 
-<ls>Spr. 130.</ls> 
-<ls>M. 9, 54.</ls> 
-<ls>MBH. 12, 6896</ls> <ls>?(med.) KULL. zu M. 2, 112.</ls> {#mantrabIjam#} 
-<ls>Spr. 2113.</ls> {#tuzeRApi parityaktA na prarohanti taRqulAH#} 
-<ls>3084.</ls> {#nahyanuptaM prarohati#} 
-<ls>MBH. 13, 7608.</ls> {#prarUQaSAli#} 
-<ls>ṚT. 5, 1.</ls> {#latAstamAlasya navaprarUQAH#} 
-<ls>R. 5, 11, 17.</ls> {#nABiprarUQAmburuha#} 
-<ls>RAGH. 13, 6.</ls> {#prarUQabIjA mahI#} 
-<ls>VARĀH. BṚH. S. 53, 98.</ls> {#prarUQakeSaSmaSrunaKaromopacita#} {%lang gewachsen%} 
-<ls>PAÑCAT. 182, 10.</ls> {#sPItasasyaprarUQAni#} (so die neuere Ausg.) {#vanAni#} {%bewachsen mit%} 
-<ls>HARIV. 3729.</ls> {#prarUQa = badDamUla#} 
-<ls>MED. ḍh. 8.</ls> 
-<div n="1">— 2) {%wachsen%} so v. a. {%gedeihen, zunehmen, stärker werden%}: {#nahi durbaladagDAnAM kule kiMcitprarohati#} 
-<ls>Spr. 2176.</ls> {#goBiH paSuBiraSvESca kfzyA ca susamfdDayA . kulAni na prarohanti yAni hInAni vfttataH ..#} 
-<ls>MBH. 5, 1290.</ls> {#gurudrohaprarohatsukftAtyaya#} 
-<ls>RĀJA-TAR. 4, 123.</ls> {#prarUQa#} {%weit verbreitet, gewachsen%} so v. a. {%gross —, stark geworden%}: {#Buvi vyasanitAKyAtiH prarUQA te lateva yA#} 
-<ls>KATHĀS. 11, 23.</ls> {#prarUQe saMsarge maRiBujagayorjanmajanite#} 
-<ls>Spr. 288.</ls> {#°smarayOvanA#} 
-<ls>SĀH. D. 100.</ls> {#°BAva#} 
-<ls>BHĀG. P. 4, 13, 1.</ls> {#ruzaH#} 
-<ls>RĀJA-TAR. 3, 284.</ls> {#°kiraRe hi candre nakzatrARAmalpatA Bavati#} 
-<ls>Schol.</ls> zu <ls>NAIṢ. 22, 54.</ls> = {#vfdDa#} 
-<ls>H. an. 3, 189.</ls> = {#jaWara#} d. i. {#jaraWa#} {%alt%} ebend. und 
-<ls>MED. a. a. O.</ls> 
-<div n="1">— 3) {%hervorgehen, entstehen%}: {#yasyAyamaNgAtprarUQaH#} 
-<ls>ŚĀK. 178.</ls> {#yaTA prarUQo GarmAnte dahetkakzaM hutASanaH#} 
-<ls>HARIV. 13551.</ls> {#striyaH prarUQagarBAH#} so v. a. {%schwanger%} 
-<ls>R. 1, 15, 26 (24 GORR.).</ls> {#svedabindu°#} 
-<ls>3, 76, 19.</ls> <ls>BHĀG. P. 4, 11, 30.</ls> 
-<div n="1">— 4) {%verwachsen, vernarben%}: {#na prarohati#} 
-(v. l. für {#saMrohati) vAkkzatam#} 
-<ls>Spr. 2647.</ls> {#kzataprarUQAmiva bARareKAm#} 
-<ls>R. 5, 11, 24.</ls> 
-<div n="v">— Vgl. {#praruh, prarUQi, praroha#} fgg. — caus. 
-<div n="1"> 1) {%pflanzen%}: {#°ropita#} 
-<ls>Spr. 2350. 3976.</ls> bildlich: {#atyudAttaguRezvezA kftapuRyEH praropitA . SataSAKI Bavatyeva yAvanmAtrApi satkriyA ..#} {%gepflanzt auf%} so v. a. {%ihnen erwiesen%} 
-<ls>3423.</ls> 
-<div n="1">— 2) {%stecken - befestigen an, in%}: {#yazwiM praropayedyantre#} 
-<ls>VARĀH. BṚH. S. 43, 29.</ls>
-
-<div n="p">— {#anupra#} {%nachwachsen%} 
-<ls>ŚAT. BR. 7, 4, 2, 13.</ls>
-
-<div n="p">— {#aBipra#} {%sprossen%} 
-<ls>SUŚR. 2, 360, 15.</ls>
-
-<div n="p">— {#prati#} 
-<div n="1"> 1) {%wieder sprossen, - treiben%}: {#Cinnasya yadi vfkzasya na mUlaM pratirohati#} 
-<ls>MBH. 12, 6896.</ls> 
+<div n="p">— {#pra#}
+<div n="1"> 1) {%hervorwachsen, treiben, sprossen%}: {#kARqA^tkARqAtpra\roha^ntI#}
+<ls>VS. 13,20.</ls> {#te mu^va\rgaM lo\kamA prAro^han#}
+<ls>TBR. 1,1,2,5.</ls> {#mUlAt#}
+<ls>ŚAT. BR. 14,6,9,33.</ls> {#palASAni#}
+<ls n="ŚAT. BR.">9,3,15.</ls> <ls>CHĀND. UP. 5,2,3.</ls> {#vrIhayaH SAlayo mudgAstilA mAzAstaTA yavAH . yaTAbIjaM prarohanti#}
+<ls>M. 9,39.</ls> {#kvacitsasyaM#} (so die <ls>ed. Bomb.</ls>) {#prarohati#}
+<ls>MBH. 12,2691.</ls> <ls n="MBH.">13,7141.</ls> {#na parvatAgre nalinI prarohati#}
+<ls>Spr. 1416.</ls> {#yadA prasfzwA ozaDyo na prarohanti tAH punaH#}
+<ls>MĀRK. P. 49,73.</ls> {#upyate yadDi yadbIjaM tattadeva prarohati#}
+<ls>Spr. 130.</ls>
+<ls>M. 9,54.</ls>
+<ls>MBH. 12,6896</ls> (med.) <ls>KULL.</ls> zu <ls>M. 2,112.</ls> {#mantrabIjam#}
+<ls>Spr. 2113.</ls> {#tuzeRApi parityaktA na prarohanti taRqulAH#}
+<ls n="Spr.">3084.</ls> {#nahyanuptaM prarohati#}
+<ls>MBH. 13,7608.</ls> {#prarUQaSAli#}
+<ls>ṚT. 5,1.</ls> {#latAstamAlasya navaprarUQAH#}
+<ls>R. 5,11,17.</ls> {#nABiprarUQAmburuha#}
+<ls>RAGH. 13,6.</ls> {#prarUQabIjA mahI#}
+<ls>VARĀH. BṚH. S. 53,98.</ls> {#prarUQakeSaSmaSrunaKaromopacita#} {%lang gewachsen%}
+<ls>PAÑCAT. 182,10.</ls> {#sPItasasyaprarUQAni#} (so die neuere Ausg.) {#vanAni#} {%bewachsen mit%}
+<ls>HARIV. 3729.</ls> {#prarUQa = badDamUla#}
+<ls>MED. ḍh. 8.</ls>
+<div n="1">— 2) {%wachsen%} so v. a. {%gedeihen, zunehmen, stärker werden%}: {#nahi durbaladagDAnAM kule kiMcitprarohati#}
+<ls>Spr. 2176.</ls> {#goBiH paSuBiraSvESca kfzyA ca susamfdDayA . kulAni na prarohanti yAni hInAni vfttataH ..#}
+<ls>MBH. 5,1290.</ls> {#gurudrohaprarohatsukftAtyaya#}
+<ls>RĀJA-TAR. 4,123.</ls> {#prarUQa#} {%weit verbreitet, gewachsen%} so v. a. {%gross —, stark geworden%}: {#Buvi vyasanitAKyAtiH prarUQA te lateva yA#}
+<ls>KATHĀS. 11,23.</ls> {#prarUQe saMsarge maRiBujagayorjanmajanite#}
+<ls>Spr. 288.</ls> {#°smarayOvanA#}
+<ls>SĀH. D. 100.</ls> {#°BAva#}
+<ls>BHĀG. P. 4,13,1.</ls> {#ruzaH#}
+<ls>RĀJA-TAR. 3,284.</ls> {#°kiraRe hi candre nakzatrARAmalpatA Bavati#}
+<ls>Schol.</ls> zu <ls>NAIṢ. 22,54.</ls> = {#vfdDa#}
+<ls>H. an. 3,189.</ls> = {#jaWara#} <ab>d. i.</ab> {#jaraWa#} {%alt%} ebend. und
+<ls>MED. a. a. O.</ls>
+<div n="1">— 3) {%hervorgehen, entstehen%}: {#yasyAyamaNgAtprarUQaH#}
+<ls>ŚĀK. 178.</ls> {#yaTA prarUQo GarmAnte dahetkakzaM hutASanaH#}
+<ls>HARIV. 13551.</ls> {#striyaH prarUQagarBAH#} so v. a. {%schwanger%}
+<ls>R. 1,15,26</ls> (<ls n="GORR. 1,15,">24</ls> <ls>GORR.</ls>). {#svedabindu°#}
+<ls n="R.">3,76,19.</ls> <ls>BHĀG. P. 4,11,30.</ls>
+<div n="1">— 4) {%verwachsen, vernarben%}: {#na prarohati#}
+(v. l. für {#saMrohati) vAkkzatam#}
+<ls>Spr. 2647.</ls> {#kzataprarUQAmiva bARareKAm#}
+<ls>R. 5,11,24.</ls>
+<div n="v">— Vgl. {#praruh, prarUQi, praroha#} fgg. — caus.
+<div n="1"> 1) {%pflanzen%}: {#°ropita#}
+<ls>Spr. 2350.</ls> <ls n="Spr.">3976.</ls> bildlich: {#atyudAttaguRezvezA kftapuRyEH praropitA . SataSAKI Bavatyeva yAvanmAtrApi satkriyA ..#} {%gepflanzt auf%} so v. a. {%ihnen erwiesen%}
+<ls n="Spr.">3423.</ls>
+<div n="1">— 2) {%stecken — befestigen an, in%}: {#yazwiM praropayedyantre#}
+<ls>VARĀH. BṚH. S. 43,29.</ls>
+<div n="p">— {#anupra#} {%nachwachsen%}
+<ls>ŚAT. BR. 7,4,2,13.</ls>
+<div n="p">— {#aBipra#} {%sprossen%}
+<ls>SUŚR. 2,360,15.</ls>
+<div n="p">— {#prati#}
+<div n="1"> 1) {%wieder sprossen, — treiben%}: {#Cinnasya yadi vfkzasya na mUlaM pratirohati#}
+<ls>MBH. 12,6896.</ls>
 <div n="1">— 2) {%nachahmen%}: {#gatismitaprekzaRaBAzaRAdizu #}
 [Page6-0418]
-{# priyAH priyasya pratirUQamUrtayaH#} 
-<ls>BHĀG. P. 10, 30, 3.</ls> — caus. 
-<div n="1"> 1) {%je an seine Stelle pflanzen%} 
-<ls>VARĀH. BṚH. S. 55, 6.</ls> 
-<div n="1">— 2) {%wieder pflanzen, wieder einsetzen%}: {#kalamA utKAtapratiropitAH#} 
-<ls>RAGH. 4, 37.</ls> {#utKAtAnpratiropayan#} von Pflanzen und Fürsten 
-<ls>Spr. 440.</ls> {#SatrUnudDftya pratiropayan#} 
-<ls>RAGH. 17, 42.</ls>
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%auswachsen, austreiben, sprossen%}: {#vana^spate Sa\tava^lSo\ vi roha#} 
-<ls>ṚV. 3, 8, 11.</ls> 
-<ls>AV. 6, 30, 2.</ls> 
-<ls>ṚV. 6, 24, 3.</ls> {#vi cA^ruhanvI\ruDa^H#} 
-<ls n="ṚV.">10, 40, 9.</ls> {#e\vA mayi^ pra\jA pa\Savo 'nna^manna\M vi ro^hatu#} 
-<ls>AV. 10, 6, 33.</ls> 
-<ls>VS. 5, 43. 12, 100. 13, 21.</ls> {#yUpaH#} 
-<ls>TBR. 1, 4, 7, 1.</ls> {#vya^syA\moza^Dayo rohanti#} 
-<ls>TS. 3, 4, 3, 3.</ls> von der {%Erection%} 
-<ls>AV. 4, 4, 3.</ls> {#virUQa#} {%ausgewachsen, gewachsen, gekeimt%} 
-<ls>H. an. 3, 190.</ls> 
-<ls>MED. ḍh. 9.</ls> <ls>KĀTY. ŚR. 15, 9, 28. fg.</ls> <ls>ŚĀṄKH. ŚR. 13, 4, 1.</ls> <ls>ŚAT. BR. 7, 2, 4, 27.</ls> {#aSvatTaM suvirUQamUlam#} 
-<ls>BHAG. 15, 3.</ls> {#°tfRANkurAsu#} ({#gfhadehalIzu#}) 
-<ls>MṚCCH. 6, 19.</ls> 
-<ls>RAGH. 2, 26.</ls> {#uwajadvAravirUQaM nIvArabalim#} 
-<ls>ŚĀK. 96.</ls> {#salilAdvirUQaM kaMjam#} 
-<ls>BHĀG. P. 3, 8, 17.</ls> {#sarvabIjavirUQeva yaTA sItA#} {%mit aufgegangenem Samen aller Art bestanden%} 
-<ls>MBH. 7, 3945.</ls> 
-<div n="1">— 2) {%hervorgehen, entstehen%}: {#virUQa = jAta#} 
-<ls>H. an.</ls> <ls>MED.</ls> {#°boDa#} 
-<ls>BHĀG. P. 3, 8, 22.</ls> {#°svedakaRikA#} 
-<ls>10, 43, 16.</ls> 
-<div n="1">— 3) {%besteigen%}: {#suvirUQAnAM hastyArohErviSAradEH nAgAnAm#} {%gut geritten von%} 
-<ls>MBH. 7, 3105.</ls> 
-<div n="v">— Vgl. {#virUQaka, viroha, virohaRa#} . — caus. 
-<div n="1"> 1) {%wachsen machen%} 
-<ls>ṚV. 8, 80, 5.</ls> {%pflanzen%}: {#viropyantAM gulminaH#} 
-<ls>R. 7, 54, 11.</ls> 
-<div n="1">— 2) {%verwachsen —, vernarben machen%}: {#viropitavraRa#} 
-<ls>DAŚAK. 86, 2. 3.</ls> 
-<div n="1">— 3) {%entsetzen, vertreiben aus%}: {#putraM rAjyAccApi vyaropayat#} 
-<ls>MBH. 5, 5049.</ls> 
+{# priyAH priyasya pratirUQamUrtayaH#}
+<ls>BHĀG. P. 10,30,3.</ls> — caus.
+<div n="1"> 1) {%je an seine Stelle pflanzen%}
+<ls>VARĀH. BṚH. S. 55,6.</ls>
+<div n="1">— 2) {%wieder pflanzen, wieder einsetzen%}: {#kalamA utKAtapratiropitAH#}
+<ls>RAGH. 4,37.</ls> {#utKAtAnpratiropayan#} von Pflanzen und Fürsten
+<ls>Spr. 440.</ls> {#SatrUnudDftya pratiropayan#}
+<ls>RAGH. 17,42.</ls>
+<div n="p">— {#vi#}
+<div n="1"> 1) {%auswachsen, austreiben, sprossen%}: {#vana^spate Sa\tava^lSo\ vi roha#}
+<ls>ṚV. 3,8,11.</ls>
+<ls>AV. 6,30,2.</ls>
+<ls>ṚV. 6,24,3.</ls> {#vi cA^ruhanvI\ruDa^H#}
+<ls n="ṚV.">10,40,9.</ls> {#e\vA mayi^ pra\jA pa\Savo 'nna^manna\M vi ro^hatu#}
+<ls>AV. 10,6,33.</ls>
+<ls>VS. 5,43.</ls> <ls n="VS.">12,100.</ls> <ls n="VS.">13,21.</ls> {#yUpaH#}
+<ls>TBR. 1,4,7,1.</ls> {#vya^syA\moza^Dayo rohanti#}
+<ls>TS. 3,4,3,3.</ls> von der {%Erection%}
+<ls>AV. 4,4,3.</ls> {#virUQa#} {%ausgewachsen, gewachsen, gekeimt%}
+<ls>H. an. 3,190.</ls>
+<ls>MED. ḍh. 9.</ls> <ls>KĀTY. ŚR. 15,9,28. fg.</ls> <ls>ŚĀṄKH. ŚR. 13,4,1.</ls> <ls>ŚAT. BR. 7,2,4,27.</ls> {#aSvatTaM suvirUQamUlam#}
+<ls>BHAG. 15,3.</ls> {#°tfRANkurAsu#} ({#gfhadehalIzu#})
+<ls>MṚCCH. 6,19.</ls>
+<ls>RAGH. 2,26.</ls> {#uwajadvAravirUQaM nIvArabalim#}
+<ls>ŚĀK. 96.</ls> {#salilAdvirUQaM kaMjam#}
+<ls>BHĀG. P. 3,8,17.</ls> {#sarvabIjavirUQeva yaTA sItA#} {%mit aufgegangenem Samen aller Art bestanden%}
+<ls>MBH. 7,3945.</ls>
+<div n="1">— 2) {%hervorgehen, entstehen%}: {#virUQa = jAta#}
+<ls>H. an.</ls> <ls>MED.</ls> {#°boDa#}
+<ls>BHĀG. P. 3,8,22.</ls> {#°svedakaRikA#}
+<ls n="BHĀG. P.">10,43,16.</ls>
+<div n="1">— 3) {%besteigen%}: {#suvirUQAnAM hastyArohErviSAradEH nAgAnAm#} {%gut geritten von%}
+<ls>MBH. 7,3105.</ls>
+<div n="v">— Vgl. {#virUQaka, viroha, virohaRa#} . — caus.
+<div n="1"> 1) {%wachsen machen%}
+<ls>ṚV. 8,80,5.</ls> {%pflanzen%}: {#viropyantAM gulminaH#}
+<ls>R. 7,54,11.</ls>
+<div n="1">— 2) {%verwachsen —, vernarben machen%}: {#viropitavraRa#}
+<ls>DAŚAK. 86,2. 3.</ls>
+<div n="1">— 3) {%entsetzen, vertreiben aus%}: {#putraM rAjyAccApi vyaropayat#}
+<ls>MBH. 5,5049.</ls>
 <div n="v">— Vgl. {#viropaRa#} .
-
-<div n="p">— {#sam#} 
-<div n="1"> 1) {%wachsen%}: {#premadgumAH saMruruhuH priyARAm#} 
-<ls>BHAṬṬ. 11, 5.</ls> {#harmyAgrasaMrUQatfRANkurezu#} 
-<ls>RAGH. 6, 47.</ls> {#saMrUQa = aNkurita#} 
-<ls>H. an. 3, 191.</ls> 
-<ls>MED. ḍh. 10.</ls> 
-<div n="1">— 2) {%zusammenwachsen, verwachsen, vernarben%}: {#tasmA\dviDf^tA\ aDvA\no 'BU^va\nna panTA^na\H sama^rukzan#} 
-<ls>TS. 2, 5, 11, 2.</ls> {#saMruruhurvraRAH#} 
-<ls>R. ed. Bomb. 6, 50, 39.</ls> <ls>SUŚR. 1, 67, 11. 83, 15.</ls> {#na saMrohati vAkkzatam (vAkkftam#} fälschlich bei 
-<ls>KULL.</ls> zu <ls>M. 7, 52</ls>) <ls>Spr. 2647.</ls> {#saMrUQavraRa#} 
-<ls>R. 3, 73, 6. 6, 71, 25.</ls> {#saMrUQaSaravikzata#} (fälschlich {#saMrUQaM#} 
-<ls>ARJ. 11, 1</ls>) <ls>MBH. 3, 12274.</ls> 
-<div n="1">— 3) {%hervorbrechen, zum Vorschein kommen%}: {#saMrohatpulakA#} 
-<ls>SĀH. D. 243, 11.</ls> {#miTaH saMrUQarAgayoH#} 
-<ls>214.</ls> {#zazwivarzagate kAle yadrozo 'BUnmamAnaGa . sa saMrUQo 'sakft#} 
-<ls>HARIV. 2127.</ls> 
-<div n="1">— 4) {#saMrUQa#} {%fest wurzelnd, - haftend%}: {#tanno manasi saMrUQaM karizyAmaH#} so v. a. {%das werden wir dem Gemüth fest einprägen%} 
-<ls>MBH. 12, 12366.</ls> = {#prOQa#} 
-<ls>H. an.</ls> <ls>MED.</ls> — caus. 
-<div n="1"> 1) {%wachsen machen%}: {#vaMSaM kurorvaMSadavAgninirhftaM saMrohayitvA#} 
-<ls>BHĀG. P. 1, 10, 2.</ls> {%pflanzen, einsetzen%}: {#saMropitAnpAlayan#} von Pflanzen und Fürsten 
-<ls>Spr. 440, v. l.</ls> {%säen%}: {#saMropite 'pyAtmani DarmapatnI tyaktA mayA#} {%obgleich ich mich gesäet hatte%} (sc. in ihrem Mutterleibe) so v. a. {%ein Kind mit ihr gezeugt hatte%} 
-<ls>ŚĀK. 151.</ls> 
-<div n="1">— 2) {%zusammenwachsen —, vernarben lassen%} 
-<ls>SUŚR. 1, 60, 5.</ls>
-
-<div n="p">— {#upasam#} {%verwachsen, vernarben%}: {#vraRaScirAdupasaMrohati#} 
-<ls>SUŚR. 1, 18, 3. 4.</ls> 
+<div n="p">— {#sam#}
+<div n="1"> 1) {%wachsen%}: {#premadgumAH saMruruhuH priyARAm#}
+<ls>BHAṬṬ. 11,5.</ls> {#harmyAgrasaMrUQatfRANkurezu#}
+<ls>RAGH. 6,47.</ls> {#saMrUQa = aNkurita#}
+<ls>H. an. 3,191.</ls>
+<ls>MED. ḍh. 10.</ls>
+<div n="1">— 2) {%zusammenwachsen, verwachsen, vernarben%}: {#tasmA\dviDf^tA\ aDvA\no 'BU^va\nna panTA^na\H sama^rukzan#}
+<ls>TS. 2,5,11,2.</ls> {#saMruruhurvraRAH#}
+<ls>R. ed. Bomb. 6,50,39.</ls> <ls>SUŚR. 1,67,11. 83,15.</ls> {#na saMrohati vAkkzatam (vAkkftam#} fälschlich bei
+<ls>KULL.</ls> zu <ls>M. 7,52</ls>) <ls>Spr. 2647.</ls> {#saMrUQavraRa#}
+<ls>R. 3,73,6.</ls> <ls n="R.">6,71,25.</ls> {#saMrUQaSaravikzata#} (fälschlich {#saMrUQaM#}
+<ls>ARJ. 11,1</ls>) <ls>MBH. 3,12274.</ls>
+<div n="1">— 3) {%hervorbrechen, zum Vorschein kommen%}: {#saMrohatpulakA#}
+<ls>SĀH. D. 243,11.</ls> {#miTaH saMrUQarAgayoH#}
+<ls n="SĀH. D.">214.</ls> {#zazwivarzagate kAle yadrozo 'BUnmamAnaGa . sa saMrUQo 'sakft#}
+<ls>HARIV. 2127.</ls>
+<div n="1">— 4) {#saMrUQa#} {%fest wurzelnd, — haftend%}: {#tanno manasi saMrUQaM karizyAmaH#} so v. a. {%das werden wir dem Gemüth fest einprägen%}
+<ls>MBH. 12,12366.</ls> = {#prOQa#}
+<ls>H. an.</ls> <ls>MED.</ls> — caus.
+<div n="1"> 1) {%wachsen machen%}: {#vaMSaM kurorvaMSadavAgninirhftaM saMrohayitvA#}
+<ls>BHĀG. P. 1,10,2.</ls> {%pflanzen, einsetzen%}: {#saMropitAnpAlayan#} von Pflanzen und Fürsten
+<ls>Spr. 440, v. l.</ls> {%säen%}: {#saMropite 'pyAtmani DarmapatnI tyaktA mayA#} {%obgleich ich mich gesäet hatte%} (sc. in ihrem Mutterleibe) so v. a. {%ein Kind mit ihr gezeugt hatte%}
+<ls>ŚĀK. 151.</ls>
+<div n="1">— 2) {%zusammenwachsen —, vernarben lassen%}
+<ls>SUŚR. 1,60,5.</ls>
+<div n="p">— {#upasam#} {%verwachsen, vernarben%}: {#vraRaScirAdupasaMrohati#}
+<ls>SUŚR. 1,18,3. 4.</ls>
 <div n="v">— Vgl. {#upasaMroha#} .
 <LEND>

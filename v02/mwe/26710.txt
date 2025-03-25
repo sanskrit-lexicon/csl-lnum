@@ -1,13 +1,13 @@
 <L>26710<pc>729-b<k1>servant<k2>servant
-<div n="lb"/>SERVANT¦, {%s.%} {#sevakaH, prezyaH, cewakaH, cewaH, kiNkaraH, dAsaH, dASaH, BftyaH,#}
-<div n="lb"/>{#BftakaH, karmmakaraH, karmmakAraH, karmmakArI#} {%m.%} {#(n), anucaraH, paricaraH,#}
-<div n="lb"/>{#paricArakaH, parijanaH, vetanopajIvI#} {%m.%} {#(n), vetanajIvI#} {%m.,%} {#sevopa-#}
-<div n="lb"/>{#jIvI#} {%m.,%} {#sevAjIvI#} {%m.,%} {#BftiBuk#} {%m.%} {#(j), BftijIvI#} {%m.,%} {#anujIvI#} {%m.,%}
-<div n="lb"/>{#niyojyaH, prEpyaH, BaraRIyaH, vEtanikaH, SuSrUzakaH, ceqaH, ceqakaH, pArSikaH,#}
-<div n="lb"/>{#pArSvAnucaraH, sErinGraH, arTI#} {%m.,%} {#BujizyaH, dAseraH, dAseyaH, gopyaH, -pyakaH;#}
-<div n="lb"/>‘old servant,’ {#mUlaBftyaH;#} servant who waits at table,’ {#pari-#}
-<div n="lb"/>{#vezwA#} {%m.%} {#(zwf), parivezakaH;#} ‘attentive servant who watches a
-<div n="lb"/>master's countenance,’ {#lAlAwikaH;#} ‘servants, a set of
-<div n="lb"/>servants,’ {#dAsavargaH, BftyavargaH, sevakavargaH;#} ‘relation between
-<div n="lb"/>master and servant,’ {#sevyasevakaBAvaH#}.
+SERVANT¦, {%s.%} {#sevakaH, prezyaH, cewakaH, cewaH, kiNkaraH, dAsaH, dASaH, BftyaH,#}
+{#BftakaH, karmmakaraH, karmmakAraH, karmmakArI#} {%m.%} {#(n), anucaraH, paricaraH,#}
+{#paricArakaH, parijanaH, vetanopajIvI#} {%m.%} {#(n), vetanajIvI#} {%m.,%} {#sevopa-#}
+{#jIvI#} {%m.,%} {#sevAjIvI#} {%m.,%} {#BftiBuk#} {%m.%} {#(j), BftijIvI#} {%m.,%} {#anujIvI#} {%m.,%}
+{#niyojyaH, prEpyaH, BaraRIyaH, vEtanikaH, SuSrUzakaH, ceqaH, ceqakaH, pArSikaH,#}
+{#pArSvAnucaraH, sErinGraH, arTI#} {%m.,%} {#BujizyaH, dAseraH, dAseyaH, gopyaH, -pyakaH;#}
+‘old servant,’ {#mUlaBftyaH;#} servant who waits at table,’ {#pari-#}
+{#vezwA#} {%m.%} {#(zwf), parivezakaH;#} ‘attentive servant who watches a
+master's countenance,’ {#lAlAwikaH;#} ‘servants, a set of
+servants,’ {#dAsavargaH, BftyavargaH, sevakavargaH;#} ‘relation between
+master and servant,’ {#sevyasevakaBAvaH#}.
 <LEND>

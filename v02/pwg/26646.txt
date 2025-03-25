@@ -1,20 +1,20 @@
 <L>26646<pc>3-0037<k1>japya<k2>ja/pya
-{#ja/pya#}¦ (wie eben) 
-<div n="1"> 1) <lex>adj.</lex> dass. 
-<ls>VOP. 26, 12.</ls> 
-<ls>ŚAT. BR. 10, 1, 5, 2. 3.</ls> 
-<ls>ŚĀṄKH. ŚR. 17, 14, 4.</ls> 
-<ls>M. 11, 142.</ls> 
-<ls>VARĀH. BṚH. S. 45, 56.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%ein flüsternd herzusagendes Gebet%} 
-<ls>M. 2, 87. 222. 5, 107. 11, 193.</ls> 
-<ls>YĀJÑ. 3, 290.</ls> 
-<ls>INDR. 1, 20.</ls> 
-<ls>MBH. 12, 7154. 13, 970.</ls> 
-<ls>R. 1, 2, 10. 3, 16, 28. 74, 2.</ls> 
-<ls>SUŚR. 1, 103, 1. 2, 535, 1.</ls> 
-<ls>AK. 2, 7, 47.</ls> 
-<ls>H. 844.</ls> <lex>m.</lex> (sc. {#mantra#}) 
-<ls>BHĀG. P. 4, 8, 53.</ls> 
+{#ja/pya#}¦ (wie eben)
+<div n="1"> 1) <lex>adj.</lex> dass.
+<ls>VOP. 26,12.</ls>
+<ls>ŚAT. BR. 10,1,5,2. 3.</ls>
+<ls>ŚĀṄKH. ŚR. 17,14,4.</ls>
+<ls>M. 11,142.</ls>
+<ls>VARĀH. BṚH. S. 45,56.</ls>
+<div n="1">— 2) <lex>n.</lex> {%ein flüsternd herzusagendes Gebet%}
+<ls>M. 2,87.</ls> <ls n="M. 2,">222.</ls> <ls n="M.">5,107.</ls> <ls n="M.">11,193.</ls>
+<ls>YĀJÑ. 3,290.</ls>
+<ls>INDR. 1,20.</ls>
+<ls>MBH. 12,7154.</ls> <ls n="MBH.">13,970.</ls>
+<ls>R. 1,2,10.</ls> <ls n="R.">3,16,28</ls> <ls n="R. 3,">74,2.</ls>
+<ls>SUŚR. 1,103,1.</ls> <ls n="SUŚR.">2,535,1.</ls>
+<ls>AK. 2,7,47.</ls>
+<ls>H. 844.</ls> <lex>m.</lex> (sc. {#mantra#})
+<ls>BHĀG. P. 4,8,53.</ls>
 <div n="v">— Vgl. {#jApya, kiMjapya, DyAna°#} .
 <LEND>

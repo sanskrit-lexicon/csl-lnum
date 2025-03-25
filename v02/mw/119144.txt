@@ -1,8 +1,8 @@
 <L>119144<pc>604,3<k1>parihA<k2>pari-hA<e>1
-<s>pari-</s>√ <hom>3.</hom> <s>hA</s> ¦ <ab>P.</ab> <s>-jahAti</s>, (<ab>ind.p.</ab> <s>-hAya</s>; <ab>inf.</ab> <s>-hAtum</s>), 
+<s>pari-</s>√ <hom>3.</hom> <s>hA</s> ¦ <ab>P.</ab> <s>-jahAti</s>, (<ab>ind.p.</ab> <s>-hAya</s>; <ab>inf.</ab> <s>-hAtum</s>),
 <div n="to"/>to leave, abandon, quit, <ls>R.</ls>; <ls>BhP.</ls>;
 <div n="to"/>to omit, neglect, disregard, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Hariv.</ls> :
-<div n="to"/><ab>Pass.</ab> <s>-hIyate</s> (with <ab>fut.</ab> <s>-hAsyati</s>, <ls>MBh.</ls>), to be avoided or omitted, be destitute or deprived of, desist or be excluded from (<ab>abl.</ab>), be wanting or deficient, be inferior to (<ab>abl.</ab> or <ab>instr.</ab>), wane, fail, decrease, pass away, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
-<div n="to"/><ab>Caus.</ab> <s>-hApayati</s>, to cause to relinquish or abandon, <ls>Naiṣ.</ls>;
+<div n="vp"/><ab>Pass.</ab> <s>-hIyate</s> (with <ab>fut.</ab> <s>-hAsyati</s>, <ls>MBh.</ls>), to be avoided or omitted, be destitute or deprived of, desist or be excluded from (<ab>abl.</ab>), be wanting or deficient, be inferior to (<ab>abl.</ab> or <ab>instr.</ab>), wane, fail, decrease, pass away, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
+<div n="vp"/><ab>Caus.</ab> <s>-hApayati</s>, to cause to relinquish or abandon, <ls>Naiṣ.</ls>;
 <div n="to"/>to interrupt, leave unfinished, <ls>Mn. viii, 206.</ls><info verb="pre" cp="P" parse="pari+hA"/>
 <LEND>

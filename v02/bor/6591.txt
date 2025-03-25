@@ -1,8 +1,8 @@
 <L>6591<pc>211<k1>distant<k2>distant
-<div n="lb"/>{@DISTANT:@}¦ <div n="I">I Of objects: {#dUrasTa#} (f. {#sTA#}). Ph.:
-<div n="lb"/><div n="xe">{%the temple is not d. far:%}</div> <div n="xs">{#nAtidUre sidDAyatanam.#}</div> </div><div n="I">II
-<div n="lb"/>Of relations, etc.: </div><div n="1">(1) {#dUraH#} ({#rA, raM#}); </div><div n="1">(2)
-<div n="lb"/>{#viprakfzwaH#} ({#zwA, zwaM#}) (rare). </div><div n="I">III Not cordial:
-<div n="lb"/>{#aviSramBaH#} ({#mBA, mBaM#}). </div><div n="I">IV Discrepant, repug-
-<div n="lb"/>-nant: {#viBinnaH#} ({#nnA, nnaM#}).</div>
+{@DISTANT:@}¦ <div n="I">I Of objects: {#dUrasTa#} (f. {#sTA#}). Ph.:
+<div n="xe">{%the temple is not d. far:%}</div> <div n="xs">{#nAtidUre sidDAyatanam.#}</div> </div><div n="I">II
+Of relations, etc.: </div><div n="1">(1) {#dUraH#} ({#rA, raM#}); </div><div n="1">(2)
+{#viprakfzwaH#} ({#zwA, zwaM#}) (rare). </div><div n="I">III Not cordial:
+{#aviSramBaH#} ({#mBA, mBaM#}). </div><div n="I">IV Discrepant, repug-
+-nant: {#viBinnaH#} ({#nnA, nnaM#}).</div>
 <LEND>

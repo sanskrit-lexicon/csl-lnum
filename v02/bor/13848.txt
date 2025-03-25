@@ -1,5 +1,5 @@
 <L>13848<pc>426<k1>lower<k2>lower
-<div n="lb"/>{@LOWER@}¦ (adj.): <div n="I">I In place: {#aDas#} in comp.,
-<div n="lb"/><div n="xe">{%l. world:%}</div> <div n="xs">{#aDoBuvanam;#}</div> <div n="xe">{%l. garment:%}</div> <div n="xs">{#aDoM'Sukam.#}</div></div>
-<div n="lb"/><div n="I">II Socially: {#nIcaH#} ({#cA, caM#}).</div>
+{@LOWER@}¦ (adj.): <div n="I">I In place: {#aDas#} in comp.,
+<div n="xe">{%l. world:%}</div> <div n="xs">{#aDoBuvanam;#}</div> <div n="xe">{%l. garment:%}</div> <div n="xs">{#aDoM'Sukam.#}</div></div>
+<div n="I">II Socially: {#nIcaH#} ({#cA, caM#}).</div>
 <LEND>

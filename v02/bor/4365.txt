@@ -1,5 +1,5 @@
 <L>4365<pc>142<k1>confederate<k2>confederate
-<div n="lb"/>{@CONFEDERATE:@}¦ <div n="I">I Adj.: {#sanDibadDaH#} ({#dDA, dDaM#});
-<div n="lb"/>{#saMhataH#} ({#tA, taM#}) (=combined). </div><div n="I">II Subs.;
-<div n="lb"/>{#mitram#} (=ally).</div>
+{@CONFEDERATE:@}¦ <div n="I">I Adj.: {#sanDibadDaH#} ({#dDA, dDaM#});
+{#saMhataH#} ({#tA, taM#}) (=combined). </div><div n="I">II Subs.;
+{#mitram#} (=ally).</div>
 <LEND>

@@ -1,3 +1,3 @@
 <L>172148<pc>855,2<k1>yuva<k2>yuva/<h>1<e>1
-<s>yuva/</s> <hom>1</hom> ¦ actual base of the 2nd <ab>pers.</ab> <ab>pron.</ab> in the dual number (from which the forms <s>yuvA/m</s>, <s>yuvA/ByAm</s>, <s>yuva/yos</s>; <ab>ved.</ab> also <s>yuva/m</s>, <s>yuva/ByAm</s>, <s>yuva/t</s>, <s>yuvo/s</s>, are derived). <info lexcat="LEXID=pron,STEM=yuzmad"/>
+<hom>1.</hom> <s>yuva/</s> ¦ actual base of the 2nd <ab>pers.</ab> <ab>pron.</ab> in the dual number (from which the forms <s>yuvA/m</s>, <s>yuvA/ByAm</s>, <s>yuva/yos</s>; <lang>Ved.</lang> also <s>yuva/m</s>, <s>yuva/ByAm</s>, <s>yuva/t</s>, <s>yuvo/s</s>, are derived). <info lexcat="LEXID=pron,STEM=yuzmad"/>
 <LEND>

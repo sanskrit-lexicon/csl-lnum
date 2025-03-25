@@ -1,8 +1,8 @@
 <L>130299<pc>655,2<k1>prakzip<k2>pra-kzip<e>1
 <s>pra-√ kzip</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-kzipa/ti</s>, <s>-kzipate</s>, to cast, hurl, throw or fling at or into (<ab>loc.</ab>), place in, put before, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to let down, <ls>Kathās.</ls>;
-<div n="to"/>to launch a ship, <ls>Divyâv.</ls>;
+<div n="to"/>to launch a ship, <ls>Divyāv.</ls>;
 <div n="to"/>to add, <ls>Sūryas.</ls>;
-<div n="to"/>to insert, interpolate, <ls>Pāṇ.</ls> <ab>Sch.</ab>; <ls>R.</ls> <ab>Sch.</ab>:
-<div n="to"/><ab>Caus.</ab> <s>-kzepayati</s>, to cause or order to cast or put into (<ab>loc.</ab>), <ls>MBh.</ls><info verb="pre" cp="PĀ" parse="pra+kzip"/>
+<div n="to"/>to insert, interpolate, <ls>Pāṇ.</ls>, <ab>Sch.</ab>; <ls>R.</ls>, <ab>Sch.</ab>:
+<div n="vp"/><ab>Caus.</ab> <s>-kzepayati</s>, to cause or order to cast or put into (<ab>loc.</ab>), <ls>MBh.</ls><info verb="pre" cp="PĀ" parse="pra+kzip"/>
 <LEND>

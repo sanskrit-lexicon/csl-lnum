@@ -1,4 +1,4 @@
 <L>18864<pc>582<k1>regeneration<k2>regeneration
-<div n="lb"/>{@REGENERATION:@}¦ <div n="1">(1) {#punarjanman#} (n.); </div><div n="1">(2) {#punarutpattiH;#}</div>
-<div n="lb"/><div n="1">(3) {#punarBavaH;#} </div><div n="1">(4) {#punarjananam,#} etc.</div>
+{@REGENERATION:@}¦ <div n="1">(1) {#punarjanman#} (n.); </div><div n="1">(2) {#punarutpattiH;#}</div>
+<div n="1">(3) {#punarBavaH;#} </div><div n="1">(4) {#punarjananam,#} etc.</div>
 <LEND>

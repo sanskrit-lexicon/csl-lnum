@@ -1,16 +1,16 @@
 <L>8068<pc>348<k1>poet<k2>poet
 {@Poet,@}¦ {%s.%} {#kaviH, sUriH;#} ‘a ready p.’ {#SIGra-#}
-<div n="lb"/>{#kaviH#}. {@-ic, -ical,@} {%a.%} Ex. by {#kavitA-kAvya#}
-<div n="lb"/>in comp.; ‘p. genius’ {#kavitvaSaktiH#}. {@2@}
-<div n="lb"/>{#Sloka-kavitA-rUpa-badDa, padyamaya#} ({#yI#} {%f.%}),
-<div n="lb"/>{#CaMdobadDa-rUpa, padyAtmaka;#} ‘p. work’ {#padyA-#}
-<div n="lb"/>{#-tmako graMTaH#}. {@-ically,@} {%adv.%} {#padyarUpeRa, CaMdo-#}
-<div n="lb"/>{#-rUpeRa#}. {@-Poetics,@} {%s.%} {#kAvyaSAstraM, padyaSAstraM;#}
-<div n="lb"/>{#sAhityaM#}. {@-Poetry,@} {%s.%} {#kAvyaM, kavitA#}. {@2@}
-<div n="lb"/>{#padyaM#} (opp. of prose). {@3@} {#kAvyaracanA,#}
-<div n="lb"/>{#kavitvaM, kavitAvidyA#}. {@-Poetaster,@} {%s.%}
-<div n="lb"/>{#kukaviH, kavideSyaH#}. {@-Poem,@} {%s.%} {#kAvyaM, kA-#}
-<div n="lb"/>{#-vyaprabaMDaH, kAvyabaMDaH, kavitA;#} ‘a p. inter-
-<div n="lb"/>-spersed with prose’ {#KaMqakAvyaM#}. {@-Poesy,@}
-<div n="lb"/>{#kavitvaM-tA#}. {@2@} {#kAvyaracanA, kavitASakti#} {%f.%}
+{#kaviH#}. {@-ic, -ical,@} {%a.%} Ex. by {#kavitA-kAvya#}
+in comp.; ‘p. genius’ {#kavitvaSaktiH#}. {@2@}
+{#Sloka-kavitA-rUpa-badDa, padyamaya#} ({#yI#} {%f.%}),
+{#CaMdobadDa-rUpa, padyAtmaka;#} ‘p. work’ {#padyA-#}
+{#-tmako graMTaH#}. {@-ically,@} {%adv.%} {#padyarUpeRa, CaMdo-#}
+{#-rUpeRa#}. {@-Poetics,@} {%s.%} {#kAvyaSAstraM, padyaSAstraM;#}
+{#sAhityaM#}. {@-Poetry,@} {%s.%} {#kAvyaM, kavitA#}. {@2@}
+{#padyaM#} (opp. of prose). {@3@} {#kAvyaracanA,#}
+{#kavitvaM, kavitAvidyA#}. {@-Poetaster,@} {%s.%}
+{#kukaviH, kavideSyaH#}. {@-Poem,@} {%s.%} {#kAvyaM, kA-#}
+{#-vyaprabaMDaH, kAvyabaMDaH, kavitA;#} ‘a p. inter-
+-spersed with prose’ {#KaMqakAvyaM#}. {@-Poesy,@}
+{#kavitvaM-tA#}. {@2@} {#kAvyaracanA, kavitASakti#} {%f.%}
 <LEND>

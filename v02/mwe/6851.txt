@@ -1,6 +1,6 @@
 <L>6851<pc>154-a<k1>damage<k2>damage
-<div n="lb"/>DAMAGE¦, {%s.%} {#kzatiH#} {%f.,%} {#kzataM, apacayaH, apAyaH, hAniH#} {%f.,%} {#nASaH, dozaH,#}
-<div n="lb"/>{#dUzaRaM, kzayaH, upakzayaH, apakAraH, apakftaM, hiMsA, drohaH, DvaMsaH, praGvaMsaH,#}
-<div n="lb"/>{#BraMSaH, anizwaM#}. — (Damages in law) {#kzatipUraRaM, daRqaH, pAritozikaM,#}
-<div n="lb"/>{#pratiPalaM, nizkftiH#} {%f.,%} {#prAyaScittaM#}.
+DAMAGE¦, {%s.%} {#kzatiH#} {%f.,%} {#kzataM, apacayaH, apAyaH, hAniH#} {%f.,%} {#nASaH, dozaH,#}
+{#dUzaRaM, kzayaH, upakzayaH, apakAraH, apakftaM, hiMsA, drohaH, DvaMsaH, praGvaMsaH,#}
+{#BraMSaH, anizwaM#}. — (Damages in law) {#kzatipUraRaM, daRqaH, pAritozikaM,#}
+{#pratiPalaM, nizkftiH#} {%f.,%} {#prAyaScittaM#}.
 <LEND>

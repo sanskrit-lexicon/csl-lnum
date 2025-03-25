@@ -1,14 +1,14 @@
 <L>7925<pc>342<k1>physic<k2>physic
 {@Physic,@}¦ {%s.%} {#cikitsA, upacAraH, vEdyakriyA,#}
-<div n="lb"/>{#OzaDopacAraH#}. {@2@} {#OzaDaM, BezajaM, agadaH#}.
-<div n="lb"/>{%-v. t.%} {#kit#} desid, ({#cikitsati-te#}), {#upa-#}
-<div n="lb"/>{#-car#} 1 P, {#BezajaM dA#} 3 U. {@-ian,@} {%s.%} {#vEdyaH,#}
-<div n="lb"/>{#Bizaj#} {%m.,%} {#cikitsakaH, agadaMkAraH, rogahArin-#}
-<div n="lb"/>{#-hft#} {%m.%} {@-Physical,@} {%a.%} {#sAkAra, sTUla, jaqa;#}
-<div n="lb"/>{%See%} {@Material. 2@} {#aMga, vigraha, SarIra#} in
-<div n="lb"/>comp.: ‘p. strength’ {#SarIrabalaM;#} ‘p.
-<div n="lb"/>substance’ {#sTUladravyaM-vastu#}. {@3 Medicinal,@}
-<div n="lb"/>q. v.; ‘p. science (physics)’ {#padArTa-#}
-<div n="lb"/>{#-vijYAnaM, -SAstraM#}. {@-ly,@} {%adv.%} {#prakftyA, svaBAvataH,#}
-<div n="lb"/>{#jAtitaH, janmataH;#} {%See%} {@Naturally.@}
+{#OzaDopacAraH#}. {@2@} {#OzaDaM, BezajaM, agadaH#}.
+{%-v. t.%} {#kit#} desid, ({#cikitsati-te#}), {#upa-#}
+{#-car#} 1 P, {#BezajaM dA#} 3 U. {@-ian,@} {%s.%} {#vEdyaH,#}
+{#Bizaj#} {%m.,%} {#cikitsakaH, agadaMkAraH, rogahArin-#}
+{#-hft#} {%m.%} {@-Physical,@} {%a.%} {#sAkAra, sTUla, jaqa;#}
+{%See%} {@Material. 2@} {#aMga, vigraha, SarIra#} in
+comp.: ‘p. strength’ {#SarIrabalaM;#} ‘p.
+substance’ {#sTUladravyaM-vastu#}. {@3 Medicinal,@}
+q. v.; ‘p. science (physics)’ {#padArTa-#}
+{#-vijYAnaM, -SAstraM#}. {@-ly,@} {%adv.%} {#prakftyA, svaBAvataH,#}
+{#jAtitaH, janmataH;#} {%See%} {@Naturally.@}
 <LEND>

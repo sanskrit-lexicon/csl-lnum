@@ -1,6 +1,6 @@
 <L>25716<pc>698-b<k1>roundness<k2>roundness
-<div n="lb"/>ROUNDNESS¦, {%s.%} {#varttulatA -tvaM, varttulAkAratA, maRqalAkAratA, cakrAkAratA,#}
-<div n="lb"/>{#golAkAratA, golatvaM, maRqalatvaM, parimaRqalatA, maRqalAkftiH#} {%f.,%} {#varttula-#}
-<div n="lb"/>{#kftiH#} {%f.%} — (Plumpness) {#pInatA, unnatiH#} {%f.,%} {#sTUlatA#}. — (Plainness)
-<div n="lb"/>{#avakratA, vyaktatA, spazwatA#}.
+ROUNDNESS¦, {%s.%} {#varttulatA -tvaM, varttulAkAratA, maRqalAkAratA, cakrAkAratA,#}
+{#golAkAratA, golatvaM, maRqalatvaM, parimaRqalatA, maRqalAkftiH#} {%f.,%} {#varttula-#}
+{#kftiH#} {%f.%} — (Plumpness) {#pInatA, unnatiH#} {%f.,%} {#sTUlatA#}. — (Plainness)
+{#avakratA, vyaktatA, spazwatA#}.
 <LEND>

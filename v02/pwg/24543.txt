@@ -1,8 +1,8 @@
 <L>24543<pc>2-0928<k1>caturanta<k2>caturanta
-{#caturanta#}¦ ({#ca° + anta#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%von allen vier Seiten%} (vom Meere) {%begrenzt%}, von der Erde 
-<ls>MBH. 1, 2801. 3100.</ls> 
-<ls>R. 2, 104, 11. 5, 30, 4.</ls> 
-<ls>ŚĀK. 95.</ls> {#caturantA#} <lex>f.</lex> {%die Erde%}: {#caturanteSa#} <lex>m.</lex> {%Herr der Erde, König%} 
-<ls>RAGH. 10, 86.</ls> <ls>STENZLER</ls> : {%quatuor plagarum dominus%} (vgl. {#caturdigISa#} 
-<ls>RAGH. 18, 14),</ls> <ls>Sch.</ls> in der Calc. Ausgabe: {#caturRAmantAnAM digantAnAmISaH#} .
+{#caturanta#}¦ ({#ca° + anta#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%von allen vier Seiten%} (vom Meere) {%begrenzt%}, von der Erde
+<ls>MBH. 1,2801.</ls> <ls n="MBH. 1,">3100.</ls>
+<ls>R. 2,104,11.</ls> <ls n="R.">5,30,4.</ls>
+<ls>ŚĀK. 95.</ls> {#caturantA#} <lex>f.</lex> {%die Erde%}: {#caturanteSa#} <lex>m.</lex> {%Herr der Erde, König%}
+<ls>RAGH. 10,86.</ls> <ls>STENZLER</ls> : {%quatuor plagarum dominus%} (vgl. {#caturdigISa#}
+<ls>RAGH. 18,14</ls>), <ls>Sch.</ls> in der Calc. Ausgabe: {#caturRAmantAnAM digantAnAmISaH#} .
 <LEND>

@@ -1,7 +1,7 @@
 <L>6280<pc>140-b<k1>country<k2>country
-<div n="lb"/>COUNTRY¦, {%s.%} (A region) {#deSaH, pradeSaH, vizayaH, rAzwraM, dik#} {%f.%} {#(S),#}
-<div n="lb"/>{#ASA, tAyikaH, DizRyaM;#} ‘inhabitated country,’ {#janapadaH, nIvft;#}
-<div n="lb"/>‘barbarous country,’ {#mlecCadeSaH#}. — (As opposed to the town)
-<div n="lb"/>{#grAmaH, janapadaH#}. — (Native country) {#janmaBUmiH#} {%f.,%} {#svadeSaH, svarAzwraM,#}
-<div n="lb"/>{#svavizayaH#}. — (Country-road) {#diNmArgaH#}.
+COUNTRY¦, {%s.%} (A region) {#deSaH, pradeSaH, vizayaH, rAzwraM, dik#} {%f.%} {#(S),#}
+{#ASA, tAyikaH, DizRyaM;#} ‘inhabitated country,’ {#janapadaH, nIvft;#}
+‘barbarous country,’ {#mlecCadeSaH#}. — (As opposed to the town)
+{#grAmaH, janapadaH#}. — (Native country) {#janmaBUmiH#} {%f.,%} {#svadeSaH, svarAzwraM,#}
+{#svavizayaH#}. — (Country-road) {#diNmArgaH#}.
 <LEND>

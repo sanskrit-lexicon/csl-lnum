@@ -1,8 +1,8 @@
 <L>14166<pc>435<k1>many<k2>many
-<div n="lb"/>{@MANY,@}¦ {@SO@}: <div n="I">I Absol.: </div><div n="1">(1) {#iyat#} (f. {#tI#}), <div n="xe">{%so%}
-<div n="lb"/>{%m. years:%}</div> <div n="xs">{#iyanti varzARi,#}</div> <ls>R.</ls> ; </div><div n="1">(2) {#etAvat#} (f. {#tI#}),
-<div n="lb"/><div n="xe">{%so m. days:%}</div> <div n="xs">{#etAvato divasAn,#}</div> U. i. </div><div n="I">II In
-<div n="lb"/>connection with: {#yAvat, tAvat#} (f. {#tI#}), <div n="xe">{%so m.%}
-<div n="lb"/>{%he appeared to them:%}</div> <div n="xs">{#tAvAYca dadfSe sa tEH,#}</div> R.
-<div n="lb"/>xii. 45.</div>
+{@MANY,@}¦ {@SO@}: <div n="I">I Absol.: </div><div n="1">(1) {#iyat#} (f. {#tI#}), <div n="xe">{%so%}
+{%m. years:%}</div> <div n="xs">{#iyanti varzARi,#}</div> <ls>R.</ls> ; </div><div n="1">(2) {#etAvat#} (f. {#tI#}),
+<div n="xe">{%so m. days:%}</div> <div n="xs">{#etAvato divasAn,#}</div> U. i. </div><div n="I">II In
+connection with: {#yAvat, tAvat#} (f. {#tI#}), <div n="xe">{%so m.%}
+{%he appeared to them:%}</div> <div n="xs">{#tAvAYca dadfSe sa tEH,#}</div> R.
+xii. 45.</div>
 <LEND>

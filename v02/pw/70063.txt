@@ -1,18 +1,16 @@
-<L>70063<pc>4124-2<k1>pOrava<k2>pOrava<e>100
+<L>70063<pc>4-124-b<k1>pOrava<k2>pOrava
 {#pOrava#}¦
-<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%dem <is>Pūru</is> gehörig , von ihm abstammend.%}
-<div n="1">— 2) <lex>m.</lex>
-<div n="2">— a) {%ein Abkömmling <is>Pūru</is>'s.%} <ab>Pl.</ab> {%die Nachkommen — , das Geschlecht des <is>P</is>.%}
-<div n="2">— b) <ab>N.pr.</ab>
-<div n="3">— α) eines Fürsten.
-<div n="3">— β) <ab>Pl.</ab> eines Volkes.
-<div n="3">— γ) einer Dynastie <ls>VP.4,19,15.</ls>
-<div n="1">— 3) <lex>f.</lex> {#I#}
-<div n="2">— a) {%ein best. <is>Mūrkhanā</is>%} <ls>S.S.S.31.</ls>
-<div n="2">— b) {%ein best.%}
-[Page4124-3]
-<is>Rāga</is> <ls>S.S.S.108.</ls>
-<div n="2">— c) <ab>N.pr.</ab> einer Gattin
-<div n="3">— α) <is>Vasudeva</is>'s
-<div n="3">— β) <is>Yudhiṣṭhira</is>'s.
+<div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%dem%} <is>Pūru</is> {%gehörig, von ihm abstammend%}.
+<div n="1">— 2〉 <lex>m.</lex>
+<div n="2">— a〉 {%ein Abkömmling%} <is>Pūru</is>ʼs. <ab>Pl.</ab> {%die Nachkommen —, das Geschlecht des%} <is n="Pūru">P.</is>
+<div n="2">— b〉 <ab>N. pr.</ab>
+<div n="3">— α〉 eines Fürsten.
+<div n="3">— β〉 <ab>Pl.</ab> eines Volkes.
+<div n="3">— γ〉 einer Dynastie <ls>VP. 4,19,15</ls>.
+<div n="1">— 3〉 <lex>f.</lex> {#I#}
+<div n="2">— a〉 {%ein <ab>best.</ab>%} <is>Mūrchanā</is> <ls>S. S. S. 31</ls>.
+<div n="2">— b〉 {%ein <ab>best.</ab>%} [Page4-124-c] <is>Rāga</is> <ls>S. S. S. 108</ls>.
+<div n="2">— c〉 <ab>N. pr.</ab> einer Gattin
+<div n="3">— α〉 <is>Vasudeva</is>ʼs.
+<div n="3">— β〉 <is>Yudhiṣṭhira</is>ʼs.
 <LEND>

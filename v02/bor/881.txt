@@ -1,8 +1,8 @@
 <L>881<pc>031<k1>anywhere<k2>anywhere
-<div n="lb"/>{@ANYWHERE:@}¦ <div n="1">(1) {#kutrApi,#} <div n="xe">{%a. else%}</div> <div n="xs">{#anyatra kutrApi;#}</div></div>
-<div n="lb"/><div n="1">(2) {#kvacidapi,#} <ls>N.</ls> kiii. 55. Ph. <div n="xe">{%go a. you%}
-<div n="lb"/>{%like%}</div> <div n="xs">{#gacCa yaTecCam,#}</div> <ls>N.</ls> i. 143.; {%die a. you like%}
-<div n="lb"/>{#yatra tatra vA prARatyAgaM kuru,#} Vi. vi.; <div n="xe">{%I do not allow%}
-<div n="lb"/>{%you to go a. ele from here%}</div> <div n="xs">{#ito'nyato na vo gantumanu-#}
-<div n="lb"/>{#manye,#}</div> Sa. iiii.</div>
+{@ANYWHERE:@}¦ <div n="1">(1) {#kutrApi,#} <div n="xe">{%a. else%}</div> <div n="xs">{#anyatra kutrApi;#}</div></div>
+<div n="1">(2) {#kvacidapi,#} <ls>N.</ls> kiii. 55. Ph. <div n="xe">{%go a. you%}
+{%like%}</div> <div n="xs">{#gacCa yaTecCam,#}</div> <ls>N.</ls> i. 143.; {%die a. you like%}
+{#yatra tatra vA prARatyAgaM kuru,#} Vi. vi.; <div n="xe">{%I do not allow%}
+{%you to go a. ele from here%}</div> <div n="xs">{#ito'nyato na vo gantumanu-#}
+{#manye,#}</div> Sa. iiii.</div>
 <LEND>

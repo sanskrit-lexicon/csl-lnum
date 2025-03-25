@@ -1,16 +1,16 @@
 <L>58950<pc>5-0654<k1>mahAvAkya<k2>mahAvAkya
-{#mahAvAkya#}¦ {#(ma° + vAkya)#} <lex>n.</lex> 
-<div n="1"> 1) {%eine grosse Menge von Sätzen, ein grosses Gefüge einzelner Sätze, ein literarisches Product%} (wie das <is>Mahābhārata</is>, <is>Rāmāyaṇa</is>, <is>Raghuvaṃśa</is>) 
-<ls>SĀH. D. 9, 4. 10.</ls> Davon nom. abstr. {#°tva#} <lex>n.</lex> 7. 
-<div n="1">— 2) {%ein grosser Satz, - Gedanke%}; Bez. von zwölf {%Aussprüchen%} der <is>Upaniṣad's</is> {#(tattvamasi, ahaM brahmAsmi, brahmEvedaM sarvam#} u. s. w.), insbes. aber der mystisch gedeuteten {%Silben%} {#tattvam#}, 
-<ls>Verz. d. B. H. 181, No. 618.</ls> <ls>Verz. d. Oxf. H. 227,b,23.</ls> <ls>VEDĀNTAS. (Allah.) No. 35. 78.</ls> <ls>BANERJEA 376.</ls> {#°viveka#} 
-<ls>Verz. d. B. H. No. 631.</ls> <ls>Verz. d. Oxf. H. 222.b,11.</ls> {#dvAdaSamahAvAkyanirRaya#} 
-<ls>HALL 138.</ls> {#°vicAra#} ebend. {#mahAvAkyArTa#} 
-<ls>142.</ls> {#mahAvAkyArTapraboDa#} 
-<ls>137.</ls> {#mahAvAkyArTavicAra#} 
-<ls>138.</ls> {#°rahasya#} 
-<ls>142.</ls> {#°vivaraRa#} 
-<ls>138.</ls> {#°muktAvalI#} 
-<ls>WEBER, Lit. 149.</ls> {#mahAvAkya#} auch N. einer <is>Upaniṣad</is> 
-<ls>Ind. St. 3, 326.</ls>
+{#mahAvAkya#}¦ ({#ma° + vAkya#}) <lex>n.</lex>
+<div n="1"> 1) {%eine grosse Menge von Sätzen, ein grosses Gefüge einzelner Sätze, ein literarisches Product%} (wie das <is>Mahābhārata</is>, <is>Rāmāyaṇa</is>, <is>Raghuvaṃśa</is>)
+<ls>SĀH. D. 9,4. 10.</ls> Davon nom. abstr. {#°tva#} <lex>n.</lex> 7.
+<div n="1">— 2) {%ein grosser Satz, — Gedanke%}; Bez. von zwölf {%Aussprüchen%} der <is>Upaniṣad's</is> {#(tattvamasi, ahaM brahmAsmi, brahmEvedaM sarvam#} u. s. w.), insbes. aber der mystisch gedeuteten {%Silben%} {#tattvam#},
+<ls>Verz. d. B. H. 181, No. 618.</ls> <ls>Verz. d. Oxf. H. 227,b,23.</ls> <ls>VEDĀNTAS. (Allah.) No. 35. 78.</ls> <ls>BANERJEA 376.</ls> {#°viveka#}
+<ls>Verz. d. B. H. No. 631.</ls> <ls>Verz. d. Oxf. H. 222.b,11.</ls> {#dvAdaSamahAvAkyanirRaya#}
+<ls>HALL 138.</ls> {#°vicAra#} ebend. {#mahAvAkyArTa#}
+<ls n="HALL">142.</ls> {#mahAvAkyArTapraboDa#}
+<ls n="HALL">137.</ls> {#mahAvAkyArTavicAra#}
+<ls n="HALL">138.</ls> {#°rahasya#}
+<ls n="HALL">142.</ls> {#°vivaraRa#}
+<ls n="HALL">138.</ls> {#°muktAvalI#}
+<ls>WEBER, Lit. 149.</ls> {#mahAvAkya#} auch N. einer <is>Upaniṣad</is>
+<ls>Ind. St. 3,326.</ls>
 <LEND>

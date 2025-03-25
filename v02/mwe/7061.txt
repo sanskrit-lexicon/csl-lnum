@@ -1,7 +1,7 @@
 <L>7061<pc>159-b<k1>decay<k2>decay
-<div n="lb"/>DECAY¦, {%s.%} {#kzayaH, kziyA, kzIRatA, parikzayaH, saMkzayaH, sAdaH, avasAdaH,#}
-<div n="lb"/>{#avasannatA, jIrRiH#} {%f.,%} {#jIrRatA -tvaM, jaraWaH, SIrRatA, viSIrRatA, mlAniH#} {%f.,%}
-<div n="lb"/>{#pralayaH, nASaH, vinASaH, praRASaH, DvaMsaH, viDvaMsaH, visraMsA, glAniH#} {%f.,%}
-<div n="lb"/>{#hAniH#} {%f.,%} {#hrAsaH, apacayaH, vyayaH, kzAmatA, galanaM;#} ‘of the teeth,’
-<div n="lb"/>{#dantavyasanaM, kfmidantakaH#}.
+DECAY¦, {%s.%} {#kzayaH, kziyA, kzIRatA, parikzayaH, saMkzayaH, sAdaH, avasAdaH,#}
+{#avasannatA, jIrRiH#} {%f.,%} {#jIrRatA -tvaM, jaraWaH, SIrRatA, viSIrRatA, mlAniH#} {%f.,%}
+{#pralayaH, nASaH, vinASaH, praRASaH, DvaMsaH, viDvaMsaH, visraMsA, glAniH#} {%f.,%}
+{#hAniH#} {%f.,%} {#hrAsaH, apacayaH, vyayaH, kzAmatA, galanaM;#} ‘of the teeth,’
+{#dantavyasanaM, kfmidantakaH#}.
 <LEND>

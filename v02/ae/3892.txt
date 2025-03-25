@@ -1,26 +1,26 @@
 <L>3892<pc>154<k1>fancy<k2>fancy
 {@Fancy,@}¦ {%s.%} {#vAsanA, BAvanA, kalpanA, BAvanA-#}
-<div n="lb"/>{#-kalpanA-Sakti#} {%f.%} {@2@} {#budDi#} {%f.,%} {#mati#} {%f.,%} {#saMkalpaH#}.
-<div n="lb"/>{@3@} {#manolOlyaM, kAmacAraH, budDicApalyaM, cA-#}
-<div n="lb"/>{#-palaM, laharI, taraMgaH, CaMdaH#}. {@4@} {#ruci#} {%f.;%} {#aBi-#}
-<div n="lb"/>{#-ruciH, kAmaH;#} ‘to have or take a f. for’
-<div n="lb"/>{#spfh#} 10 (with dat.) or ex. by {#kAma-#}
-<div n="lb"/>{#-manaH#} with inf.; {#spfhayAmi Kalu durlalitAyAsmE#}
-<div n="lb"/>(S. 7); ‘took a f.; to hunt’ {#mfgayAM#}
-<div n="lb"/>{#kartumanA baBUva#}. {%-v. t.%} {#man#} 1 A, {#tark#} 10,
-<div n="lb"/>{#saM-vi-BU#} c.; {#ciMt#} 10, {#manasA kxp#} c.; {#citte-#}
-<div n="lb"/>{#-manasi-kf, Aloc#} 10. {@2@} {#ruc#} 1 A, {#aBi-#}
-<div n="lb"/>{#-naMd#} 1 P; ‘f. ing oneself to be learned’
-<div n="lb"/>{#paMqitaMmanya, paMqitamAnin;#} ‘doing what one
-<div n="lb"/>f. es’ {#kAmacArin#}. {@-Fanciful,@} {%a.%} {#mAnasa#}
-<div n="lb"/>({#sI#} {%f.%}), {#kAlpanika-mAnasika#} ({#kI#} {%f.%}),
-<div n="lb"/>{#manaHkalpita, BAvita, manoraTasfzwa-kalpita,#}
-<div n="lb"/>{#BAvanotpAdita, vAsanAkalpita, saMkalpaja,#}
-<div n="lb"/>{#mAyAmaya#} ({#yI#} {%f.%}) {@2@} (Of persons) {#calacitta,#}
-<div n="lb"/>{#lolamati, kAmacArin, capalabudDi, manolO-#}
-<div n="lb"/>{#-lyavat, svErin, svEravftta#}. {@3@} {#anarTakavAsanA-#}
-<div n="lb"/>{#-kft, asaMBavakalpaka#}. {@-ly,@} {%adv.%} {#kAmacAreRa,#}
-<div n="lb"/>{#manolOlyAt, svEraM; cApalyena#}. {@-ness,@} {%s.%} {#cala-#}
-<div n="lb"/>{#-cittatA, lolamati#} {%f.,%} {#kAmacAritA, mano-#}
-<div n="lb"/>{#-lOlyaM, budDicApalyaM, svEritA#}.
+{#-kalpanA-Sakti#} {%f.%} {@2@} {#budDi#} {%f.,%} {#mati#} {%f.,%} {#saMkalpaH#}.
+{@3@} {#manolOlyaM, kAmacAraH, budDicApalyaM, cA-#}
+{#-palaM, laharI, taraMgaH, CaMdaH#}. {@4@} {#ruci#} {%f.;%} {#aBi-#}
+{#-ruciH, kAmaH;#} ‘to have or take a f. for’
+{#spfh#} 10 (with dat.) or ex. by {#kAma-#}
+{#-manaH#} with inf.; {#spfhayAmi Kalu durlalitAyAsmE#}
+(S. 7); ‘took a f.; to hunt’ {#mfgayAM#}
+{#kartumanA baBUva#}. {%-v. t.%} {#man#} 1 A, {#tark#} 10,
+{#saM-vi-BU#} c.; {#ciMt#} 10, {#manasA kxp#} c.; {#citte-#}
+{#-manasi-kf, Aloc#} 10. {@2@} {#ruc#} 1 A, {#aBi-#}
+{#-naMd#} 1 P; ‘f. ing oneself to be learned’
+{#paMqitaMmanya, paMqitamAnin;#} ‘doing what one
+f. es’ {#kAmacArin#}. {@-Fanciful,@} {%a.%} {#mAnasa#}
+({#sI#} {%f.%}), {#kAlpanika-mAnasika#} ({#kI#} {%f.%}),
+{#manaHkalpita, BAvita, manoraTasfzwa-kalpita,#}
+{#BAvanotpAdita, vAsanAkalpita, saMkalpaja,#}
+{#mAyAmaya#} ({#yI#} {%f.%}) {@2@} (Of persons) {#calacitta,#}
+{#lolamati, kAmacArin, capalabudDi, manolO-#}
+{#-lyavat, svErin, svEravftta#}. {@3@} {#anarTakavAsanA-#}
+{#-kft, asaMBavakalpaka#}. {@-ly,@} {%adv.%} {#kAmacAreRa,#}
+{#manolOlyAt, svEraM; cApalyena#}. {@-ness,@} {%s.%} {#cala-#}
+{#-cittatA, lolamati#} {%f.,%} {#kAmacAritA, mano-#}
+{#-lOlyaM, budDicApalyaM, svEritA#}.
 <LEND>

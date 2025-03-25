@@ -1,11 +1,11 @@
 <L>31099<pc>3-0441<k1>trirAtra<k2>trirAtra/<h>1
-1. {#trirAtra/#}¦ ({#tri + rAtri#}) <lex>n.</lex> {%ein Zeitraum von drei Nächten%} d. i. {%Tagen%} 
-<ls>ŚAT. BR. 4, 5, 8, 1. 14, 9, 4, 12.</ls> 
-<ls>KĀTY. ŚR. 25, 11, 16.</ls> 
-<ls>KAUŚ. 139.</ls> {#°tram#} adv. {%drei Tage lang%} 
-<ls>KĀTY. ŚR. 4, 10, 16. 11, 3. 19, 1, 21.</ls> 
-<ls>ĀŚV. GṚHY. 1, 8.</ls> {#trirAtramakzAralavaRASinaH syuH#} 
-<ls>4, 4.</ls> <ls>M. 4, 119. 5, 76. 80. 81. 11, 132. 166.</ls> <ls>N. 9, 7. 10.</ls> <ls>R. GORR. 1, 170, 1.</ls> {#trirAtrAt#} {%nach drei Tagen%} 
-<ls>M. 5, 67. 71.</ls> {#trirAtreRa#} dass. 
-<ls>88. 101.</ls> {#trirAtrEreva ca triBiH#} 64.
+1. {#trirAtra/#}¦ ({#tri + rAtri#}) <lex>n.</lex> {%ein Zeitraum von drei Nächten%} <ab>d. i.</ab> {%Tagen%}
+<ls>ŚAT. BR. 4,5,8,1.</ls> <ls n="ŚAT. BR.">14,9,4,12.</ls>
+<ls>KĀTY. ŚR. 25,11,16.</ls>
+<ls>KAUŚ. 139.</ls> {#°tram#} adv. {%drei Tage lang%}
+<ls>KĀTY. ŚR. 4,10,16. 11,3. 19,1,21.</ls>
+<ls>ĀŚV. GṚHY. 1,8.</ls> {#trirAtramakzAralavaRASinaH syuH#}
+<ls n="ĀŚV. GṚHY.">4,4.</ls> <ls>M. 4,119.</ls> <ls n="M.">5,76.</ls> <ls n="M. 5,">80.</ls> <ls n="M. 5,">81.</ls> <ls n="M.">11,132.</ls> <ls n="M. 11,">166.</ls> <ls>N. 9,7. 10.</ls> <ls>R. GORR. 1,170,1.</ls> {#trirAtrAt#} {%nach drei Tagen%}
+<ls>M. 5,67.</ls> <ls n="M. 5,">71.</ls> {#trirAtreRa#} dass.
+<ls n="M. 5,">88.</ls> <ls n="M. 5,">101.</ls> {#trirAtrEreva ca triBiH#} 64.
 <LEND>

@@ -1,10 +1,10 @@
 <L>3029<pc>102<k1>capital<k2>capital
-<div n="lb"/>{@CAPITAL@}¦ (subs.): <div n="I">I Of a column: {#cUqA#} (?).</div>
-<div n="lb"/><div n="I">II Of a country: {#rAjaDAnI,#} <div n="xe">{%c. of the king%}
-<div n="lb"/>{%Bhima%}</div> <div n="xs">{#mImaBUmipatirAjaDAnI,#}</div> N. vi. l. Ph.: {%the%}
-<div n="lb"/>{%city named Puspapura%} ({%Patna%}) {%the c. of%}
-<div n="lb"/>{%Magadha%} ({%Behar%}) {#*magaDadeSaSeKarIBUtA puzpapurI nAma #}
-<div n="lb"/>{# nagarI,#} <ls>D.</ls> </div><div n="I">III. A c. letter; {#*bfhadakzaram.#} </div><div n="I">IV
-<div n="lb"/>Stock, principal q. v.: </div><div n="1">(1) {#mUlam;#} </div><div n="1">(2) {#mUla-#}
-<div n="lb"/>{#Danam.#}</div>
+{@CAPITAL@}¦ (subs.): <div n="I">I Of a column: {#cUqA#} (?).</div>
+<div n="I">II Of a country: {#rAjaDAnI,#} <div n="xe">{%c. of the king%}
+{%Bhima%}</div> <div n="xs">{#mImaBUmipatirAjaDAnI,#}</div> N. vi. l. Ph.: {%the%}
+{%city named Puspapura%} ({%Patna%}) {%the c. of%}
+{%Magadha%} ({%Behar%}) {#*magaDadeSaSeKarIBUtA puzpapurI nAma #}
+{# nagarI,#} <ls>D.</ls> </div><div n="I">III. A c. letter; {#*bfhadakzaram.#} </div><div n="I">IV
+Stock, principal q. v.: </div><div n="1">(1) {#mUlam;#} </div><div n="1">(2) {#mUla-#}
+{#Danam.#}</div>
 <LEND>

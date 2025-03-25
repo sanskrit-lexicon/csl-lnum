@@ -1,3 +1,3 @@
-<L>70045<pc>379,1<k1>GftAnna<k2>GftAnna<e>3
-<s>GftA<srs/>nna</s> ¦ <lex>mfn.</lex> one whose food is ghee (<s1 slp1="mitra">Mitra</s1> and <s1 slp1="varuRa">Varuṇa</s1>, <s1 slp1="agni">Agni</s1>), <ls>RV. vi, 67, 8 and vii, 3, 1.</ls><info lex="m:f:n"/>
+<L>70045<pc>379,1<k1>GftAnna<k2>GftA/nna<e>3
+<s>GftA/<srs/>nna</s> ¦ <lex>mfn.</lex> one whose food is ghee (<s1>Mitra</s1> and <s1>Varuṇa</s1>, <s1>Agni</s1>), <ls>RV. vi, 67, 8</ls> and <ls n="RV.">vii, 3, 1.</ls><info lex="m:f:n"/>
 <LEND>

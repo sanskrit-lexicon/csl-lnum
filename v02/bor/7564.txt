@@ -1,4 +1,4 @@
 <L>7564<pc>239<k1>endorsement<k2>endorsement
-<div n="lb"/>{@ENDORSEMENT:@}¦ {#pfzWaliKitam,#} {%this is my e.:%}
-<div n="lb"/>{#*mamEtat pfzWaliKitam#} <div n="xe">{%or%}</div> <div n="xs">{#mayEtat pfzWe liKitam.#}</div>
+{@ENDORSEMENT:@}¦ {#pfzWaliKitam,#} {%this is my e.:%}
+{#*mamEtat pfzWaliKitam#} <div n="xe">{%or%}</div> <div n="xs">{#mayEtat pfzWe liKitam.#}</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>8127<pc>257<k1>expense<k2>expense
-<div n="lb"/>{@EXPENSE:@}¦ {#vyayaH, pari-,#} <div n="xe">{%e. s connected with commo-%}
-<div n="lb"/>{%dities:%}</div> <div n="xs">{#vyayaH paRyasamudBavaH,#}</div> Y.; <div n="xe">{%and who have e. s%}
-<div n="lb"/>{%and no income:%}</div> <div n="xs">{#nirAyA vyayavantaSca,#}</div> Y.; <div n="xe">{%at the e. of%}
-<div n="lb"/>{%food:%}</div> <div n="xs">{#Baktavyayena,#}</div> K. b.
+{@EXPENSE:@}¦ {#vyayaH, pari-,#} <div n="xe">{%e. s connected with commo-%}
+{%dities:%}</div> <div n="xs">{#vyayaH paRyasamudBavaH,#}</div> Y.; <div n="xe">{%and who have e. s%}
+{%and no income:%}</div> <div n="xs">{#nirAyA vyayavantaSca,#}</div> Y.; <div n="xe">{%at the e. of%}
+{%food:%}</div> <div n="xs">{#Baktavyayena,#}</div> K. b.
 <LEND>

@@ -1,23 +1,23 @@
 <L>22096<pc>2-0713<k1>gava<k2>gava<h>1
-1. {#gava#}¦ 
-<div n="1"> 1) = {#go#} {%Rind, Kuh%}; 
-<div n="2"> a) am Anfange eines comp. vor einem vocalisch anlautenden Worte 
-<ls>P. 6, 1, 123. fg.</ls> 
-<ls>VOP. 2, 15.</ls> {#gavArha#} {%eines Rindes werth%} 
-<ls>MBH. 2, 828.</ls> {#gavArTe#} {%eines Rindes halber%} 
-<ls>13, 3339.</ls> <ls>M. 10, 62. 11, 79.</ls> <ls>PAÑCAT. II, 112.</ls> {#gavAnfta#} {%eine Unwahrheit in Bezug auf%} 
-<ls>M. 8, 98.</ls> Vor einem Consonanten in {#gavarAja#} . Vgl. {#gavAkza#} u. s. w. 
-<div n="2">— b) am Ende eines comp. oxyt. 
-<ls>P. 5, 4, 92.</ls> {#paramagava/H, paYcagava/m#} {%fünf Kühe%}, {#paYcagavaDanaH#} 
-<ls>Sch.</ls> <ls>VOP. 6, 47. 56. 57.</ls> {#za\qga\vena^ kfzati#} 
-<ls>TS. 5, 2, 5, 2.</ls> {#azwAvazwagavAnyUhuH SakawAni#} 
-<ls>MBH. 8, 799.</ls> Der Ton auf der ersten Silbe des ersten Wortes bei einer Vergleichung 
-<ls>P. 6, 2, 72.</ls> {#DA/nyagavaH#} {%Korn in Gestalt eines Rindes aufgestapelt%} 
-<ls>Sch.</ls> Am Ende eines <lex>adj.</lex> comp.: {#zaqgavamanaH#} 
-<ls>KĀTY. ŚR. 22, 11, 2.</ls> {#dvAdaSagava/M sIram#} 
-<ls>ŚAT. BR. 7, 2, 2, 6.</ls> 
-<ls>KĀTY. ŚR. 21, 3, 34.</ls> Vgl. {#aDigava, anu°, puM°, SaM°, SUla°, saM°, su°#} . <lex>f.</lex> {#gavI#} s. {#brahmagavI, Billa°, strI°, gurugavI#} 
-<ls>ĀŚV. GṚHY. 2, 10.</ls> Vgl. {#gu#} . 
-<div n="1">— 2) <lex>m.</lex> = {#go#} {%Sonnenstrahl%}: {#arjunasya ime vARA neme vARAH SiKaRqinaH . kfntanti mama gAtrARi mAGamAse gavA iva ..#} 
-<ls>MBH. 6, 5632.</ls>
+1. {#gava#}¦
+<div n="1"> 1) = {#go#} {%Rind, Kuh%};
+<div n="2"> a) am Anfange eines comp. vor einem vocalisch anlautenden Worte
+<ls>P. 6,1,123. fg.</ls>
+<ls>VOP. 2,15.</ls> {#gavArha#} {%eines Rindes werth%}
+<ls>MBH. 2,828.</ls> {#gavArTe#} {%eines Rindes halber%}
+<ls n="MBH.">13,3339.</ls> <ls>M. 10,62.</ls> <ls n="M.">11,79.</ls> <ls>PAÑCAT. II,112.</ls> {#gavAnfta#} {%eine Unwahrheit in Bezug auf%}
+<ls>M. 8,98.</ls> Vor einem Consonanten in {#gavarAja#} . Vgl. {#gavAkza#} u. s. w.
+<div n="2">— b) am Ende eines comp. oxyt.
+<ls>P. 5,4,92.</ls> {#paramagava/H, paYcagava/m#} {%fünf Kühe%}, {#paYcagavaDanaH#}
+<ls>Sch.</ls> <ls>VOP. 6,47.</ls> <ls n="VOP. 6,">56.</ls> <ls n="VOP. 6,">57.</ls> {#za\qga\vena^ kfzati#}
+<ls>TS. 5,2,5,2.</ls> {#azwAvazwagavAnyUhuH SakawAni#}
+<ls>MBH. 8,799.</ls> Der Ton auf der ersten Silbe des ersten Wortes bei einer Vergleichung
+<ls>P. 6,2,72.</ls> {#DA/nyagavaH#} {%Korn in Gestalt eines Rindes aufgestapelt%}
+<ls>Sch.</ls> Am Ende eines <lex>adj.</lex> comp.: {#zaqgavamanaH#}
+<ls>KĀTY. ŚR. 22,11,2.</ls> {#dvAdaSagava/M sIram#}
+<ls>ŚAT. BR. 7,2,2,6.</ls>
+<ls>KĀTY. ŚR. 21,3,34.</ls> Vgl. {#aDigava, anu°, puM°, SaM°, SUla°, saM°, su°#} . <lex>f.</lex> {#gavI#} s. {#brahmagavI, Billa°, strI°, gurugavI#}
+<ls>ĀŚV. GṚHY. 2,10.</ls> Vgl. {#gu#} .
+<div n="1">— 2) <lex>m.</lex> = {#go#} {%Sonnenstrahl%}: {#arjunasya ime vARA neme vARAH SiKaRqinaH . kfntanti mama gAtrARi mAGamAse gavA iva ..#}
+<ls>MBH. 6,5632.</ls>
 <LEND>

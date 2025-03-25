@@ -1,8 +1,8 @@
 <L>3860<pc>152<k1>faction<k2>faction
 {@Faction,@}¦ {%s.%} {#dalaM, pakzaH, SAKA#}. {@2@} {#BedaH, vi-#}
-<div n="lb"/>{#-roDaH, vipratipatti#} {%f.,%} {#dvaMdvaM, dvEDaM, pakzaBedaH#}.
-<div n="lb"/>{@-Factious,@} {%a.%} {#kalahapriya, BedakArin, upa-#}
-<div n="lb"/>{#-jApin, upajApaka, Bedin#}. {@2@} {#pAkza#} ({#kzI#} {%f.%}).
-<div n="lb"/>{@-ly,@} {%adv.%} {#sopajApaM#}. {@-ness,@} {%s.%} {#upajApaH,#}
-<div n="lb"/>{#BedakAritA#}.
+{#-roDaH, vipratipatti#} {%f.,%} {#dvaMdvaM, dvEDaM, pakzaBedaH#}.
+{@-Factious,@} {%a.%} {#kalahapriya, BedakArin, upa-#}
+{#-jApin, upajApaka, Bedin#}. {@2@} {#pAkza#} ({#kzI#} {%f.%}).
+{@-ly,@} {%adv.%} {#sopajApaM#}. {@-ness,@} {%s.%} {#upajApaH,#}
+{#BedakAritA#}.
 <LEND>

@@ -1,20 +1,20 @@
 <L>5103<pc>212<k1>identical<k2>identical
 {@Identical,@}¦ {%a.%} {#tad#} {%(pron. a.%}) with {#eva, a-#}
-<div n="lb"/>{#-nanya, ananyarUpa, nirviSeza, aBinna, avyati-#}
-<div n="lb"/>{#-rikta, aBinnarUpa, sama, samAna, nirastaBeda,#}
-<div n="lb"/>{#Atman-rUpa#} in comp.; ‘i. with the
-<div n="lb"/>world’ {#jagadAtmaka viSvarUpa;#} ‘becoming
-<div n="lb"/>i. with Brahman’ {#brahmasAyujyaM prAptaH,#}
-<div n="lb"/>{#brahmalInaH#}. {@-ly,@} {%adv.%} {#aBinnaM, samaM, nirviSezaM#}.
-<div n="lb"/>-{@Identify,@} {%v. t.%} {#samIkf#} 8 U {#tulyIkf,#}
-<div n="lb"/>{#ananyIkf#}. {@2@} {#tadeva iti prati-pad#} c. or {#vi-BU#}
-<div n="lb"/>c. or {#aBijYA#} 9 U, {#tulyatvena paricCid#} 7 P.
-<div n="lb"/>{%-v. i.%} {#samIBU#}. {@-ication,@} {%s.%} {#samIkaraRaM, eka-#}
-<div n="lb"/>{#-rUpatA, sAyujyaM, aBijYAnaM, viBAvanaM;#} ‘i.
-<div n="lb"/>with Brahman’ {#brahmasAyujyaM, brahmaBUyaM#}.
-<div n="lb"/>{@-Identity,@} {%s.%} {#EkyaM, sAmyaM, saMvAdaH, nirviSezaH,#}
-<div n="lb"/>{#aBedaH, ananyatA, tAdAtmyaM, sArUpyaM, sarUpa-#}
-<div n="lb"/>{#-tA, AtmatA, sAyujyaM;#} ‘i. of thoughts’
-<div n="lb"/>{#cittEkyaM, ekacittatA;#} ‘i. of class’ {#sA-#}
-<div n="lb"/>{#-varRyaM, sajAtitvaM;#} ‘i. of hand’ {#varRasaMvAdaH#}.
+{#-nanya, ananyarUpa, nirviSeza, aBinna, avyati-#}
+{#-rikta, aBinnarUpa, sama, samAna, nirastaBeda,#}
+{#Atman-rUpa#} in comp.; ‘i. with the
+world’ {#jagadAtmaka viSvarUpa;#} ‘becoming
+i. with Brahman’ {#brahmasAyujyaM prAptaH,#}
+{#brahmalInaH#}. {@-ly,@} {%adv.%} {#aBinnaM, samaM, nirviSezaM#}.
+-{@Identify,@} {%v. t.%} {#samIkf#} 8 U {#tulyIkf,#}
+{#ananyIkf#}. {@2@} {#tadeva iti prati-pad#} c. or {#vi-BU#}
+c. or {#aBijYA#} 9 U, {#tulyatvena paricCid#} 7 P.
+{%-v. i.%} {#samIBU#}. {@-ication,@} {%s.%} {#samIkaraRaM, eka-#}
+{#-rUpatA, sAyujyaM, aBijYAnaM, viBAvanaM;#} ‘i.
+with Brahman’ {#brahmasAyujyaM, brahmaBUyaM#}.
+{@-Identity,@} {%s.%} {#EkyaM, sAmyaM, saMvAdaH, nirviSezaH,#}
+{#aBedaH, ananyatA, tAdAtmyaM, sArUpyaM, sarUpa-#}
+{#-tA, AtmatA, sAyujyaM;#} ‘i. of thoughts’
+{#cittEkyaM, ekacittatA;#} ‘i. of class’ {#sA-#}
+{#-varRyaM, sajAtitvaM;#} ‘i. of hand’ {#varRasaMvAdaH#}.
 <LEND>

@@ -1,10 +1,10 @@
 <L>9787<pc>309<k1>gentle<k2>gentle
-<div n="lb"/>{@GENTLE:@}¦ <div n="I">I Well-born, refined: {#BadraH#} ({#drA, draM#}),
-<div n="lb"/><div n="xe">{%of g. nature:%}</div> <div n="xs">{#BadraprakftiH#}</div> (mfn.); {%g. behaviour:%}
-<div n="lb"/>{#BadravyavahAraH;#} <div n="xe">{%g. address:%}</div> <div n="xs">{#BadrasamBAzaRam.#}</div> </div><div n="I">II Mild,
-<div n="lb"/>soft: q.v.: </div><div n="1">(1) {#mfdu#} (f. {#dvI#}), <div n="xe">{%with g. fire:%}</div> <div n="xs">{#mfdunA #}
-<div n="lb"/>{# vahrinA,#}</div> Bha.; <div n="xe">{%with g. foams:%}</div> <div n="xs">{#mfduBiH PenEH,#}</div> B. xii.
-<div n="lb"/>48.; </div><div n="1">(2) {#SAntaH#} ({#ntA, ntaM#}) (= calm, quiet).</div>
-<div n="lb"/><div n="I">III Of inclinations: {#alakzitaH#} ({#tA, taM#})
-<div n="lb"/>(= unperceived) (?).</div>
+{@GENTLE:@}¦ <div n="I">I Well-born, refined: {#BadraH#} ({#drA, draM#}),
+<div n="xe">{%of g. nature:%}</div> <div n="xs">{#BadraprakftiH#}</div> (mfn.); {%g. behaviour:%}
+{#BadravyavahAraH;#} <div n="xe">{%g. address:%}</div> <div n="xs">{#BadrasamBAzaRam.#}</div> </div><div n="I">II Mild,
+soft: q.v.: </div><div n="1">(1) {#mfdu#} (f. {#dvI#}), <div n="xe">{%with g. fire:%}</div> <div n="xs">{#mfdunA #}
+{# vahrinA,#}</div> Bha.; <div n="xe">{%with g. foams:%}</div> <div n="xs">{#mfduBiH PenEH,#}</div> B. xii.
+48.; </div><div n="1">(2) {#SAntaH#} ({#ntA, ntaM#}) (= calm, quiet).</div>
+<div n="I">III Of inclinations: {#alakzitaH#} ({#tA, taM#})
+(= unperceived) (?).</div>
 <LEND>

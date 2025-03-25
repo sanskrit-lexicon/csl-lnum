@@ -1,95 +1,94 @@
 <L>18700<pc>2-0401<k1>kftya<k2>kftya/
-{#kftya/#}¦ (wie eben) 
-<ls>P. 3, 1, 120.</ls> 
-<ls>VOP. 26, 19.</ls> 
-<div n="1"> 1) <lex>adj.</lex> 
-<div n="2"> a) {%zu thun%}, = {#kArya#} 
-<ls>H. an. 2, 353.</ls> 
-<ls>MED. y. 15.</ls> {%recht, angemessen%}; <lex>n.</lex> {%das Rechte, Angemessene%}: {#kiM kftyamiti cintayan#} 
-<ls>R. 3, 60, 27.</ls> {#taTA vidaDyAM suSroRi kftyamASu#} 
-<ls>MBH.</ls> in <ls>BENF. Chr. 55, 19.</ls> {#SIGrakftyezu kAryezu vilambayati yo naraH#} 
-<ls>PAÑCAT. III, 232.</ls> {#kftyAkftyaviDi#} 
-<ls>SUŚR. 1, 86, 4.</ls> {#kftyAkftyaM na manyeta kzatriyo yuDi saMgataH#} 
-<ls>PAÑCAT. I, 309.</ls> {#kftyAkftyavicakzaRa#} 
-<ls>59.</ls> <ls>SĀH. D. 1, 13.</ls> {#kftyam#} mit einem instr. {%es ist um Etwas zu thun%}: {#na ca me vasantasenAvirahitasya jIvitena kftyam#} {%es ist mir nicht um das Leben zu thun%} 
-<ls>MṚCCH. 154, 3.</ls> {#sTirayA yadi kftyaM vo DuryarakzitayA SriyA#} 
-<ls>VID. 69.</ls> {#na hi nizPalasyANgEH kftyamasti#} 
-<ls>Sch.</ls> zu <ls>KĀTY. ŚR. 1, 2, 19.</ls> {#kftyatama#} {%was vor Allem zu thun ist, das Angemessenste%}: {#etatkftyatamaM rAjannasmAkam#} 
-<ls>MBH. 2, 2472. 3, 10280. 13, 2084. 2087.</ls> 
-<ls>R. 5, 1, 85.</ls> {#akftya#} <lex>n.</lex> {%Unrecht, Sünde%}: {#aho mahadakftyametat#} 
-<ls>PAÑCAT. 128, 12.</ls> 
-<div n="2">— b) {%der abtrünnig gemacht werden kann, bestechlich, verrätherisch%}, = {#Bedyo DanAdiBiH#} 
-<ls>AK. 3, 4, 24, 160.</ls> = {#vidviz#} 
-<ls>H. an.</ls> = {#vidvizwa#} 
-<ls>MED.</ls> {#tasminkAle mahIpAlavigrahAnugrahakzamam . tatra tatra padAtInAM kftyasaMhatyaBUtkulam ..#} 
-<ls>RĀJA-TAR. 5, 247.</ls> Davon nom. abstr. {#kftyatA#} f.: {#ripavo vikramAkrAntA ye ca sve kftyatAM gatAH - vizErnihanyurnipuRaM nfpatiM duzwacetasaH#} 
-<ls>SUŚR. 2, 243, 6. fgg.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) (sc. {#pratyaya#}) die allgem. Bezeichnung für {%alle Suffixe, welche zur Bildung des participii futuri passivi verwendet werden%} ({#tavya, anIya, ya, elima#} 
-u.s.w.): so benannt nach dem partic. fut. pass. einer sehr gebräuchlichen Verbalwurzel. 
-<ls>P. 3, 1, 95. fgg.</ls> 
-<ls>4, 14. fg.</ls> 
-<ls>70</ls> (vgl. 
-<ls>68). 3, 113. 163. fg.</ls> 
-<ls>169. fgg.</ls> 
-<ls>?2, 1, 33. 43. 68. 3, 71. 6, 2, 2. 160. <is>Vārtt</is>. 4 zu P. 6, 1, 144. AK. 3, 6, 8, 45.</ls>
+{#kftya/#}¦ (wie eben)
+<ls>P. 3,1,120.</ls>
+<ls>VOP. 26,19.</ls>
+<div n="1"> 1) <lex>adj.</lex>
+<div n="2"> a) {%zu thun%}, = {#kArya#}
+<ls>H. an. 2,353.</ls>
+<ls>MED. y. 15.</ls> {%recht, angemessen%}; <lex>n.</lex> {%das Rechte, Angemessene%}: {#kiM kftyamiti cintayan#}
+<ls>R. 3,60,27.</ls> {#taTA vidaDyAM suSroRi kftyamASu#}
+<ls>MBH.</ls> in <ls>BENF. Chr. 55,19.</ls> {#SIGrakftyezu kAryezu vilambayati yo naraH#}
+<ls>PAÑCAT. III,232.</ls> {#kftyAkftyaviDi#}
+<ls>SUŚR. 1,86,4.</ls> {#kftyAkftyaM na manyeta kzatriyo yuDi saMgataH#}
+<ls>PAÑCAT. I,309.</ls> {#kftyAkftyavicakzaRa#}
+<ls n="PAÑCAT. I,">59.</ls> <ls>SĀH. D. 1,13.</ls> {#kftyam#} mit einem instr. {%es ist um Etwas zu thun%}: {#na ca me vasantasenAvirahitasya jIvitena kftyam#} {%es ist mir nicht um das Leben zu thun%}
+<ls>MṚCCH. 154,3.</ls> {#sTirayA yadi kftyaM vo DuryarakzitayA SriyA#}
+<ls>VID. 69.</ls> {#na hi nizPalasyANgEH kftyamasti#}
+<ls>Sch.</ls> zu <ls>KĀTY. ŚR. 1,2,19.</ls> {#kftyatama#} {%was vor Allem zu thun ist, das Angemessenste%}: {#etatkftyatamaM rAjannasmAkam#}
+<ls>MBH. 2,2472.</ls> <ls n="MBH.">3,10280.</ls> <ls n="MBH.">13,2084.</ls> <ls n="MBH. 13,">2087.</ls>
+<ls>R. 5,1,85.</ls> {#akftya#} <lex>n.</lex> {%Unrecht, Sünde%}: {#aho mahadakftyametat#}
+<ls>PAÑCAT. 128,12.</ls>
+<div n="2">— b) {%der abtrünnig gemacht werden kann, bestechlich, verrätherisch%}, = {#Bedyo DanAdiBiH#}
+<ls>AK. 3,4,24,160.</ls> = {#vidviz#}
+<ls>H. an.</ls> = {#vidvizwa#}
+<ls>MED.</ls> {#tasminkAle mahIpAlavigrahAnugrahakzamam . tatra tatra padAtInAM kftyasaMhatyaBUtkulam ..#}
+<ls>RĀJA-TAR. 5,247.</ls> Davon nom. abstr. {#kftyatA#} f.: {#ripavo vikramAkrAntA ye ca sve kftyatAM gatAH — vizErnihanyurnipuRaM nfpatiM duzwacetasaH#}
+<ls>SUŚR. 2,243,6. fgg.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) (sc. {#pratyaya#}) die allgem. Bezeichnung für {%alle Suffixe, welche zur Bildung des participii futuri passivi verwendet werden%} ({#tavya, anIya, ya, elima#}
+u.s.w.): so benannt nach dem partic. fut. pass. einer sehr gebräuchlichen Verbalwurzel.
+<ls>P. 3,1,95. fgg.</ls>
+<ls n="P. 3,">4,14. fg.</ls>
+<ls n="P. 3,1,">70</ls> (vgl. <ls n="P. 3,1,">68</ls>).
+<ls n="P. 3,">3,113.</ls> <ls n="P. 3,3,">163. fg.</ls>
+<ls n="P. 3,1,">169. fgg.</ls>
+<ls n="P.">2,1,33.</ls> <ls n="P. 2,1,">43.</ls> <ls n="P. 2,1,">68.</ls> <ls n="P. 2,">3,71.</ls> <ls n="P.">6,2,2.</ls> <ls n="P. 6,2,">160.</ls> <is>Vārtt</is>. 4 zu <ls>P. 6,1,144.</ls> <ls>AK. 3,6,8,45.</ls>
 [Page2-0402]
-
-<div n="2">— b) {%eine Art Gespenst%}, allein und in Verbindung mit {#yakza, mAnuza, asura#} 
-u.s.w. <ls>BURN. Lot. de la b. l. 239. 420.</ls> <ls>BURNOUF</ls> nimmt an, dass {#kftyA#} (vgl. 3, {%b%}) gelesen werden müsse. 
-<div n="1">— 3) <lex>f.</lex> {#A/#} 
-<ls>P. 3, 3, 100.</ls> 
-<ls>VOP. 26, 187.</ls> 
-<div n="2"> a) {%Handlung, That%} 
-<ls>AK. 3, 4, 24, 160.</ls> 
-<ls>TRIK. 3, 2, 1.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>AV. 5, 9, 8.</ls> {#brAhmaRasya rujaH kftyA#} {%die Misshandlung eines Brahmanen%} 
-<ls>M. 11, 67.</ls> {#saMkarApAtrakftyAsu mAsaM SoDanamEndavam#} 
-<ls>125.</ls> 
-<div n="2">— b) {%das Anthun, Behexung, Zauber%}; personif. {%eine Zauberin, eine böse Fee%}: {#kf\tyEzA pa\dvatI^ BU\tvyA jA\yA vi^Sate\ pati^m#} 
-<ls>ṚV. 10, 85, 29.</ls> <ls n="ṚV. 10, 85,">28.</ls> 
-<ls>VS. 5, 23. 35, 11.</ls> {#mf\gIva^ kf\tyA ka\rtAra^mfcCatu#} 
-<ls>AV. 5, 14, 11.</ls> {#A\me mA\Mse kf\tyAM yAM ca\kruH#} 
-<ls>4, 17, 4. 18, 2. 10, 1, 20.</ls> {#yaH kurute kftyAmAtmanaH kurute#} 
-<ls>KAUŚ. 6.</ls> 
-<ls>ŚAT. BR. 2, 4, 3, 2. 13. 3, 5. 4, 2. 3. 4, 1, 5, 1.</ls> 
-<ls>M. 9, 290.</ls> {#tAni (gehAni) kftyAhatAnIva vinaSyanti samantataH#} 
-<ls>3, 58.</ls> {#yAmISaptAni gehAni nikfttAnIva kftyayA . nEva BAnti na varDante SriyA hInAni pArTiva ..#} 
-<ls>MBH. 13, 2490.</ls> {#paYcakalpamaTarvARaM kftyABiH parivfMhitam#} 
-<ls>12, 13258.</ls> <ls>SUŚR. 1, 16, 14. 17, 20. 21, 14.</ls> {#kftyAmasADayat#} 
-<ls>KATHĀS. 5, 121.</ls> {#tasmAdagneH samuttasTO kftyA lokaBayaMkarI . tasyA nAma vfzAdarBiryAtuDAnItyaTAkarot ..#} 
-<ls>MBH. 13, 4453. fg.</ls> 
-<ls>4474. fgg.</ls> {#kftapratiSrave rAjYi vihArakftaye punaH . praharzotPullanayanA kftyAdevI tirodaDe ..#} 
-<ls>RĀJA-TAR. 1, 146. fg.</ls> {#tayA (jawayA) sa nirmame tasmE kftyAM kAlAnalopamAm#} 
-<ls>BHĀG. P. 9, 4, 46. 48.</ls> 
-<ls>VP. 599,</ls> 
-<ls>N. 5.</ls> Nach <ls>AK. 3, 4, 24, 160.</ls> <ls>H. an.</ls> und <ls>MED.</ls> = {#devatA#}; nach dem 
-<ls>Schol.</ls> zu <ls>PRAB. 8, 16</ls> = {#aBicArotpannahiMsradevatA#} . 
-<div n="2">— c) N. pr. eines Flusses 
-<ls>VP. 182.</ls> 
-<div n="1">— 4) <lex>n.</lex> 
-<div n="2"> a) {%Obliegenheit, Geschäft, Verrichtung%} 
-<ls>AK. 3, 4, 16, 96. 18, 116.</ls> {#trizvetezviti kftyaM hi puruzasya samApyate#} 
-<ls>M. 2. 237. 7, 67. 9, 297.</ls> {#asmiMstu tAta kftye me sAhAyyaM kartumarhasi#} 
-<ls>R. 3, 44, 15.</ls> 
-<ls>PAÑCAT. I, 122.</ls> {#yasminkftyaM samAveSya#} 
-<ls>106.</ls> <ls>ŚĀK. 50. 94.</ls> {#tatkftyaM viDAya#} 
-<ls>VET. 9, 5.</ls> {#sahAyakftyam#} 
-<ls>R. 4, 36, 8.</ls> {#putrakftyamanuzWAtumarhati (BavAn)#} 
-<ls>ŚĀK. 30, 5.</ls> {#banDukftyam#} 
-<ls>105.</ls> <ls>MEGH. 112.</ls> {#rAjakftyAni, pOrakftyAni#} 
-<ls>PAÑCAT. 30, 11. 40, 14.</ls> {#Atmakftya#} 
-<ls>117, 6.</ls> {#anyo'nyakftyEH#} {%durch gegenseitige Dienstleistungen%} 
-<ls>ŚĀK. 193.</ls> 
-<div n="2">— b) {%Zweck, Bestimmung eines Dinges%} 
-<ls>H. 1514.</ls> {#BoH kimAgamane kftyam#} 
-<ls>MBH. 13, 2320.</ls> {#kimAgamanakftyaM te#} 
-<ls>1964. 14, 2402.</ls> <ls>R. 6, 33, 18.</ls> {#alipaNktiranekaSastvayA guRakftye Danuzo niyojitA#} {%als Bogensehne verwendet%} 
-<ls>KUMĀRAS. 4, 15.</ls> {#vaMSakftya#} 
-<ls>RAGH. 2, 12.</ls> {#eraRqaBiRqArkanalEH praBUtErapi saMcitEH . dArukftyaM yaTA nAsti taTEvAjYEH prayojanam ..#} 
-<ls>PAÑCAT. I, 108.</ls> {#avataMsa°#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 199, 3.</ls> 
+<div n="2">— b) {%eine Art Gespenst%}, allein und in Verbindung mit {#yakza, mAnuza, asura#}
+u.s.w. <ls>BURN.</ls> <ls>Lot. de la b. l. 239. 420.</ls> <ls>BURNOUF</ls> nimmt an, dass {#kftyA#} (vgl. 3, {%b%}) gelesen werden müsse.
+<div n="1">— 3) <lex>f.</lex> {#A/#}
+<ls>P. 3,3,100.</ls>
+<ls>VOP. 26,187.</ls>
+<div n="2"> a) {%Handlung, That%}
+<ls>AK. 3,4,24,160.</ls>
+<ls>TRIK. 3,2,1.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>AV. 5,9,8.</ls> {#brAhmaRasya rujaH kftyA#} {%die Misshandlung eines Brahmanen%}
+<ls>M. 11,67.</ls> {#saMkarApAtrakftyAsu mAsaM SoDanamEndavam#}
+<ls n="M. 11,">125.</ls>
+<div n="2">— b) {%das Anthun, Behexung, Zauber%}; personif. {%eine Zauberin, eine böse Fee%}: {#kf\tyEzA pa\dvatI^ BU\tvyA jA\yA vi^Sate\ pati^m#}
+<ls>ṚV. 10,85,29.</ls> <ls n="ṚV. 10,85,">28.</ls>
+<ls>VS. 5,23.</ls> <ls n="VS.">35,11.</ls> {#mf\gIva^ kf\tyA ka\rtAra^mfcCatu#}
+<ls>AV. 5,14,11.</ls> {#A\me mA\Mse kf\tyAM yAM ca\kruH#}
+<ls n="AV.">4,17,4.</ls> <ls n="AV. 4,">18,2.</ls> <ls n="AV.">10,1,20.</ls> {#yaH kurute kftyAmAtmanaH kurute#}
+<ls>KAUŚ. 6.</ls>
+<ls>ŚAT. BR. 2,4,3,2. 13. 3,5. 4,2. 3. 4,1,5,1.</ls>
+<ls>M. 9,290.</ls> {#tAni (gehAni) kftyAhatAnIva vinaSyanti samantataH#}
+<ls n="M.">3,58.</ls> {#yAmISaptAni gehAni nikfttAnIva kftyayA . nEva BAnti na varDante SriyA hInAni pArTiva ..#}
+<ls>MBH. 13,2490.</ls> {#paYcakalpamaTarvARaM kftyABiH parivfMhitam#}
+<ls n="MBH.">12,13258.</ls> <ls>SUŚR. 1,16,14. 17,20. 21,14.</ls> {#kftyAmasADayat#}
+<ls>KATHĀS. 5,121.</ls> {#tasmAdagneH samuttasTO kftyA lokaBayaMkarI . tasyA nAma vfzAdarBiryAtuDAnItyaTAkarot ..#}
+<ls>MBH. 13,4453. fg.</ls>
+<ls n="MBH. 13,">4474. fgg.</ls> {#kftapratiSrave rAjYi vihArakftaye punaH . praharzotPullanayanA kftyAdevI tirodaDe ..#}
+<ls>RĀJA-TAR. 1,146. fg.</ls> {#tayA (jawayA) sa nirmame tasmE kftyAM kAlAnalopamAm#}
+<ls>BHĀG. P. 9,4,46.</ls> <ls n="BHĀG. P. 9,4,">48.</ls>
+<ls>VP. 599</ls>,
+<ls>N. 5.</ls> Nach <ls>AK. 3,4,24,160.</ls> <ls>H. an.</ls> und <ls>MED.</ls> = {#devatA#}; nach dem
+<ls>Schol.</ls> zu <ls>PRAB. 8,16</ls> = {#aBicArotpannahiMsradevatA#} .
+<div n="2">— c) N. pr. eines Flusses
+<ls>VP. 182.</ls>
+<div n="1">— 4) <lex>n.</lex>
+<div n="2"> a) {%Obliegenheit, Geschäft, Verrichtung%}
+<ls>AK. 3,4,16,96</ls> <ls n="AK. 3,4,">18,116</ls> {#trizvetezviti kftyaM hi puruzasya samApyate#}
+<ls>M. 2,237.</ls> <ls n="M.">7,67.</ls> <ls n="M.">9,297.</ls> {#asmiMstu tAta kftye me sAhAyyaM kartumarhasi#}
+<ls>R. 3,44,15.</ls>
+<ls>PAÑCAT. I,122.</ls> {#yasminkftyaM samAveSya#}
+<ls n="PAÑCAT. I,">106.</ls> <ls>ŚĀK. 50. 94.</ls> {#tatkftyaM viDAya#}
+<ls>VET. 9,5.</ls> {#sahAyakftyam#}
+<ls>R. 4,36,8.</ls> {#putrakftyamanuzWAtumarhati (BavAn)#}
+<ls>ŚĀK. 30,5.</ls> {#banDukftyam#}
+<ls n="ŚĀK.">105.</ls> <ls>MEGH. 112.</ls> {#rAjakftyAni, pOrakftyAni#}
+<ls>PAÑCAT. 30,11.</ls> <ls n="PAÑCAT.">40,14.</ls> {#Atmakftya#}
+<ls n="PAÑCAT.">117,6.</ls> {#anyo'nyakftyEH#} {%durch gegenseitige Dienstleistungen%}
+<ls>ŚĀK. 193.</ls>
+<div n="2">— b) {%Zweck, Bestimmung eines Dinges%}
+<ls>H. 1514.</ls> {#BoH kimAgamane kftyam#}
+<ls>MBH. 13,2320.</ls> {#kimAgamanakftyaM te#}
+<ls n="MBH. 13,">1964.</ls> <ls n="MBH.">14,2402.</ls> <ls>R. 6,33,18.</ls> {#alipaNktiranekaSastvayA guRakftye Danuzo niyojitA#} {%als Bogensehne verwendet%}
+<ls>KUMĀRAS. 4,15.</ls> {#vaMSakftya#}
+<ls>RAGH. 2,12.</ls> {#eraRqaBiRqArkanalEH praBUtErapi saMcitEH . dArukftyaM yaTA nAsti taTEvAjYEH prayojanam ..#}
+<ls>PAÑCAT. I,108.</ls> {#avataMsa°#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 199,3.</ls>
 <div n="v">— Vgl. {#akftya, arTakftya, arTakftyA, karmakftya, ku°, kfta°, pApakftyA, puRya°, preta°, sADu°#} .
 <LEND>

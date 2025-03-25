@@ -1,3 +1,3 @@
-<L>27890<pc>159,3<k1>Asya<k2>Asya/<h>a<e>2
-<s>Asya/</s> <hom>a</hom> ¦ <lex>n.</lex> ([<ab>ifc.</ab> <lex type="hwifc">mf(<s>A</s>)n.</lex>]) mouth, jaws, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>; <ls>MBh.</ls> &c.<info lex="m:f#A:n"/>
+<L>27890<pc>159,3<k1>Asya<k2>Asya^<e>2
+<s>Asya^</s> ¦ <s>am</s>, <lex>n.</lex> [<ab>ifc.</ab> <lex type="hwifc">mf(<s>A</s>)n.</lex>] mouth, jaws, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>; <ls>MBh.</ls> &c.<info lex="m:f#A:n"/><info hui="a"/>
 <LEND>

@@ -1,8 +1,8 @@
 <L>1215<pc>043<k1>assemblage<k2>assemblage
-<div n="lb"/>{@ASSEMBLAGE:@}¦ <div n="1">(1) {#samUhaH;#} </div><div n="1">(2) {#saNGAtaH;#} </div><div n="1">(3) {#samAhAraH;#}</div>
-<div n="lb"/><div n="1">(4) {#samuccayaH;#} </div><div n="1">(5) {#sannipAtaH;#} </div><div n="1">(6) {#samavAyaH;#} </div><div n="1">(7)
-<div n="lb"/>{#samudayaH;#} </div><div n="1">(8) {#saMhatiH;#} </div><div n="1">(9) {#trAtaH;#} </div><div n="1">(10) {#nikaraH;#}</div>
-<div n="lb"/><div n="1">(11) by a deriv., <div n="xe">{%an a. of Kshatriyas%}</div> <div n="xs">{#rAjanyakam;#}</div>
-<div n="lb"/><div n="xe">{%an a. of peacocks%}</div> <div n="xs">{#mAyUram;#}</div> <div n="xe">{%an a. of men%}</div> <div n="xs">{#janatA;#}</div>
-<div n="lb"/><div n="xe">{%an a. of horses%}</div> <div n="xs">{#aSvIyam.#}</div></div>
+{@ASSEMBLAGE:@}¦ <div n="1">(1) {#samUhaH;#} </div><div n="1">(2) {#saNGAtaH;#} </div><div n="1">(3) {#samAhAraH;#}</div>
+<div n="1">(4) {#samuccayaH;#} </div><div n="1">(5) {#sannipAtaH;#} </div><div n="1">(6) {#samavAyaH;#} </div><div n="1">(7)
+{#samudayaH;#} </div><div n="1">(8) {#saMhatiH;#} </div><div n="1">(9) {#trAtaH;#} </div><div n="1">(10) {#nikaraH;#}</div>
+<div n="1">(11) by a deriv., <div n="xe">{%an a. of Kshatriyas%}</div> <div n="xs">{#rAjanyakam;#}</div>
+<div n="xe">{%an a. of peacocks%}</div> <div n="xs">{#mAyUram;#}</div> <div n="xe">{%an a. of men%}</div> <div n="xs">{#janatA;#}</div>
+<div n="xe">{%an a. of horses%}</div> <div n="xs">{#aSvIyam.#}</div></div>
 <LEND>

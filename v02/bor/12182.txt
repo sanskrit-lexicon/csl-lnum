@@ -1,4 +1,4 @@
 <L>12182<pc>379<k1>inflict<k2>inflict
-<div n="lb"/>{@INFLICT:@}¦ <div n="xe">{%to i. punishment:%}</div> <div n="xs">{#daRqaM praRayati#}</div> ({#nI,#} c. 1.)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#pAtayati#}</div> (c. of {#pat#}): v. To impose, apply.
+{@INFLICT:@}¦ <div n="xe">{%to i. punishment:%}</div> <div n="xs">{#daRqaM praRayati#}</div> ({#nI,#} c. 1.)
+<div n="xe">{%or%}</div> <div n="xs">{#pAtayati#}</div> (c. of {#pat#}): v. To impose, apply.
 <LEND>

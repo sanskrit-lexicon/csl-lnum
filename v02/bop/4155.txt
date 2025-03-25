@@ -1,23 +1,22 @@
 <L>4155<pc>172-b<k1>duz<k2>duz
-{#duz#}¦ 4. {%P.%} 1) peccare. MAN. 5. 32.: {#KAdan mAMsan na du-#}
-<div n="lb">{#zyati;#} 8. 349.: {#Gnan Darmena na duzyati#}.{# duzwa#} impro-
-<div n="lb">bus. N. 11. 35. H. 2. 27. 2) vitiari, contaminari. MAH. 3.
-<div n="lb">7802.: {#Darmo na duzyati#}. {%ATM.%} MAH. 1. 2405.: {#tvatsaMyo-#}
-<div n="lb">{#gAcca duzyeta kanyABAvo mamA 'naGa#}. -- {%Caus.%} ({#dUzayA-#}
-<div n="lb">{#mi#} gr. 524.) 1) corrumpere, vitiare, foedare, dedecora-
-<div n="lb">re. HIT. 96. 1.: {#dUzayeccA 'sya satataM yavasAnnodake-#}
-<div n="lb">{#nDanam;#} MAN. 8. 364.: {#yo 'kAmAn dUzayet kanyAm;#}
-<div n="lb">H. 4. 5.: {#nE 'zA dUzayate kulam;#} HIT. 55. 4.: {#sADvasadU-#}
-<div n="lb">{#zitahfdaya;#} R. Schl. 59. 17.; MAH. 2. 21331. 2) offen-
-<div n="lb">dere, offensionem alicui afferre, injuriam inferre. R.
-<div n="lb">Schl. II. 74. 3.: {#kinnu te'dUzayad rAjA rAmo vA BfSa-#}
-<div n="lb">{#DArmikaH#}. ({%Cf.%} {#dus, dviz#}.)
-<div n="pfx">c. {#aBi#} {%Caus.%} laedere, ferire. DEV. 8. 37.: {#asurAH Siva-#}
-<div n="lb">{#dUtyaBidUzitAH petuH pfTivyAm#}.
-<div n="pfx">c. {#pra#} 1) peccare. MAH. 3. 13815. 2) vitiari, corrumpi
-<div n="lb">{%stupro.%} MAN. 11. 177. BH. 1. 41.
-<div n="pfx">c. {#pra#} praef. {#vi#} {%id. sgnf.%} 2. MAN. 11. 176.
-<div n="pfx">c. {#pra#} praef. {#sam#} peccare, crimine contaminari. MAH. 2.
-<div n="lb">2397.
-<div n="pfx">c. {#prati#} {%Caus.%} corrumpere, contaminare. MAN. 4. 65.
+{#duz#}¦ 4. {%P.%} 1) peccare. MAN. 5.32.: {#KAdan mAMsan na duzyati#};
+8.349.: {#Gnan Darmena na duzyati#}. {#duzwa#} improbus.
+N. 11.35. H. 2.27. 2) vitiari, contaminari. MAH. 3.7802.:
+{#Darmo na duzyati#}. {%ATM.%} MAH. 1.2405.: {#tvatsaMyogAcca
+duzyeta kanyABAvo mamA 'naGa#}. — {%Caus.%} ({#dUzayAmi#}
+gr. 524.) 1) corrumpere, vitiare, foedare, dedecorare.
+HIT. 96.1.: {#dUzayeccA 'sya satataM yavasAnnodakenDanam#};
+MAN. 8.364.: {#yo 'kAmAn dUzayet kanyAm#};
+H. 4.5.: {#nE 'zA dUzayate kulam#}; HIT. 55.4.: {#sADvasadUzitahfdaya#};
+R. Schl. 59.17.; MAH. 2.21331. 2) offendere,
+offensionem alicui afferre, injuriam inferre. R. Schl. II.74.3.:
+{#kinnu te'dUzayad rAjA rAmo vA BfSaDArmikaH#}.
+({%Cf.%} {#dus, dviz#}.)
+<div n="pfx">c. {#aBi#} {%Caus.%} laedere, ferire. DEV. 8.37.: {#asurAH SivadUtyaBidUzitAH
+petuH pfTivyAm#}.
+<div n="pfx">c. {#pra#} 1) peccare. MAH. 3.13815. 2) vitiari, corrumpi
+{%stupro%}. MAN. 11.177. BH. 1.41.
+<div n="pfx">c. {#pra#} praef. {#vi#} {%id.%} {%sgnf.%} 2. MAN. 11.176.
+<div n="pfx">c. {#pra#} praef. {#sam#} peccare, crimine contaminari. MAH. 2.2397.
+<div n="pfx">c. {#prati#} {%Caus.%} corrumpere, contaminare. MAN. 4.65.
 <LEND>

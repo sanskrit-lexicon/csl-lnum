@@ -1,24 +1,24 @@
 <L>49168<pc>4-1021<k1>pradiS<k2>pradi/S<h>1
-1. {#pradi/S#}¦ (1. {#diS#} mit {#pra#}) <lex>f.</lex> 
-<div n="1"> 1) {%Hinweis, Anweisung; Leitung, Befehl, Botmässigkeit%} 
-<ls>NIR. 8, 12.</ls> {#ru\drARA^meti pra\diSA^ vicakza\RaH#} 
-<ls>ṚV. 1, 101, 7.</ls> {#yasyASvA^saH pra\diSi\ yasya\ gAva^H#} 
-<ls n="ṚV.">2, 12, 7.</ls> <ls n="ṚV.">1, 164, 36.</ls> {#f\tasya^ mA pra\diSo^ barDayanti#} 
-<ls n="ṚV.">8, 89, 4.</ls> <ls n="ṚV.">10, 110, 4.</ls> {#prA\cIna\M jyoti^H pra\diSA^ di\SantA^#} 
-<ls n="ṚV. 10, 110,">7.</ls> <ls n="ṚV. 10, 110,">11.</ls> {#a\sya pra\diSi\ jyoti^rastu#} 
-<ls>AV. 1, 9, 2. 4, 23, 7.</ls> 
-<ls>VS. 29, 7.</ls> Hierher auch 
-<ls>ṚV. 1, 95, 3.</ls> <ls n="ṚV.">4, 29, 3</ls>, wo st. {#pra diSam#} ursprünglich wohl {#pradiSam#} gestanden hat. 
-<div n="1">— 2) {%Richtung, Himmelsgegend%}; die vier 
-<ls>H.</ls> <ls>ṚV. 1, 164, 42.</ls> <ls n="ṚV.">7, 35, 4.</ls> <ls n="ṚV.">10, 19, 8.</ls> <ls>AV. 1, 11, 2. 2, 10, 3.</ls> fünf 
-<ls>ṚV. 9, 86, 29.</ls> 
-<ls>AV. 1, 30, 4. 3, 4, 2. 20, 9.</ls> sechs 
-<ls>4, 11, 1. 20, 2. 10, 7, 35.</ls> sieben 
-<ls>VS. 18, 32.</ls> {#sarvA^H pra\diSo^ jayema#} 
-<ls>ṚV. 6, 75, 2.</ls> <ls n="ṚV.">10, 121, 4.</ls> {#pitryA#} {%Süden%} 
-<ls n="ṚV.">2, 42, 2.</ls> {#prAcI#} 
-<ls>AV. 12, 3, 7.</ls> {#antardeSAH, pradiSaH#} 
-<ls>10, 6, 19.</ls> <ls>VS. 18, 36. 32, 4.</ls> {#pradiSo gatam#} {%nach allen Himmelsrichtungen%} 
-<ls>MBH. 1, 5116.</ls> {#pradiSo vidiSaScEva#} 
+1. {#pradi/S#}¦ (1. {#diS#} mit {#pra#}) <lex>f.</lex>
+<div n="1"> 1) {%Hinweis, Anweisung; Leitung, Befehl, Botmässigkeit%}
+<ls>NIR. 8,12.</ls> {#ru\drARA^meti pra\diSA^ vicakza\RaH#}
+<ls>ṚV. 1,101,7.</ls> {#yasyASvA^saH pra\diSi\ yasya\ gAva^H#}
+<ls n="ṚV.">2,12,7.</ls> <ls n="ṚV.">1,164,36.</ls> {#f\tasya^ mA pra\diSo^ barDayanti#}
+<ls n="ṚV.">8,89,4.</ls> <ls n="ṚV.">10,110,4.</ls> {#prA\cIna\M jyoti^H pra\diSA^ di\SantA^#}
+<ls n="ṚV. 10,110,">7.</ls> <ls n="ṚV. 10,110,">11.</ls> {#a\sya pra\diSi\ jyoti^rastu#}
+<ls>AV. 1,9,2.</ls> <ls n="AV.">4,23,7.</ls>
+<ls>VS. 29,7.</ls> Hierher auch
+<ls>ṚV. 1,95,3.</ls> <ls n="ṚV.">4,29,3</ls>, wo st. {#pra diSam#} ursprünglich wohl {#pradiSam#} gestanden hat.
+<div n="1">— 2) {%Richtung, Himmelsgegend%}; die vier
+<ls>H.</ls> <ls>ṚV. 1,164,42.</ls> <ls n="ṚV.">7,35,4.</ls> <ls n="ṚV.">10,19,8.</ls> <ls>AV. 1,11,2.</ls> <ls n="AV.">2,10,3.</ls> fünf
+<ls>ṚV. 9,86,29.</ls>
+<ls>AV. 1,30,4.</ls> <ls n="AV.">3,4,2.</ls> <ls n="AV. 3,">20,9.</ls> sechs
+<ls n="AV.">4,11,1.</ls> <ls n="AV. 4,">20,2.</ls> <ls n="AV.">10,7,35.</ls> sieben
+<ls>VS. 18,32.</ls> {#sarvA^H pra\diSo^ jayema#}
+<ls>ṚV. 6,75,2.</ls> <ls n="ṚV.">10,121,4.</ls> {#pitryA#} {%Süden%}
+<ls n="ṚV.">2,42,2.</ls> {#prAcI#}
+<ls>AV. 12,3,7.</ls> {#antardeSAH, pradiSaH#}
+<ls n="AV.">10,6,19.</ls> <ls>VS. 18,36.</ls> <ls n="VS.">32,4.</ls> {#pradiSo gatam#} {%nach allen Himmelsrichtungen%}
+<ls>MBH. 1,5116.</ls> {#pradiSo vidiSaScEva#}
 <ls>HARIV. 9367.</ls>
 <LEND>

@@ -1,10 +1,10 @@
 <L>11698<pc>365<k1>import<k2>import
-<div n="lb"/>{@IMPORT@}¦ (v.): <div n="I">I Of goods: {#videSAt#} <div n="xe">{%or%}</div> <div n="xs">{#deSAntarAt #}
-<div n="lb"/>{# Anayani#}</div> ({#nI,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#Aharati#}</div> ({#hf,#} c. 1.). {%I.%}
-<div n="lb"/>{%ed from%} may be expr. also by: {#AgataH#} ({#tA, taM#})
-<div n="lb"/>(= come), <div n="xe">{%i. from China:%}</div> <div n="xs">{#cInAgataH#}</div> ({#tA, taM#}).</div>
-<div n="lb"/><div n="I">II To imply, mean: expr. by {#arTa#}
-<div n="lb"/>(= meaning) <div n="xe">{%or%}</div> <div n="xs">{#amiprAyaH#}</div> (= purport). </div><div n="I">III
-<div n="lb"/>To concern: </div><div n="1">(1) {#avalambate#} ({#lamb,#}) c. 1.); </div><div n="1">(2)
-<div n="lb"/>by gen.</div>
+{@IMPORT@}¦ (v.): <div n="I">I Of goods: {#videSAt#} <div n="xe">{%or%}</div> <div n="xs">{#deSAntarAt #}
+{# Anayani#}</div> ({#nI,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#Aharati#}</div> ({#hf,#} c. 1.). {%I.%}
+{%ed from%} may be expr. also by: {#AgataH#} ({#tA, taM#})
+(= come), <div n="xe">{%i. from China:%}</div> <div n="xs">{#cInAgataH#}</div> ({#tA, taM#}).</div>
+<div n="I">II To imply, mean: expr. by {#arTa#}
+(= meaning) <div n="xe">{%or%}</div> <div n="xs">{#amiprAyaH#}</div> (= purport). </div><div n="I">III
+To concern: </div><div n="1">(1) {#avalambate#} ({#lamb,#}) c. 1.); </div><div n="1">(2)
+by gen.</div>
 <LEND>

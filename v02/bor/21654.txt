@@ -1,11 +1,11 @@
 <L>21654<pc>682<k1>strip<k2>strip
-<div n="lb"/>{@STRIP@}¦ (v.t.): <div n="1">(1) by comp. with {#vi-, nir-,#} {%or%}
-<div n="lb"/>{#apa-,#} <div n="xe">{%to s. the clothes off:%}</div> <div n="xs">{#vivastrayati;#}</div> <div n="xe">{%to s. the%}
-<div n="lb"/>{%bark off:%}</div> <div n="xs">{#vivalkayati;#}</div> {%to s. the leaves off:%}
-<div n="lb"/>{#nizpatrayati,#} Mah.; <div n="xe">{%a s. ped sword:%}</div> <div n="xs">{#vikozo'siH,#}</div>
-<div n="lb"/>Ki. xvii. 45.; <div n="xe">{%s. ped of the bow:%}</div> <div n="xs">{#vikArmuka#}</div> (f. {#kA#}),
-<div n="lb"/>Ki. xvii. 53.; <div n="xe">{%s. ped off, of skin:%}</div> <div n="xs">{#apatvac#}</div>
-<div n="lb"/>(mfn.), D. vii.; <div n="xe">{%s. ped of water:%}</div> <div n="xs">{#apapayas#}</div> (mfn.),
-<div n="lb"/>Ki. v. 12.; </div><div n="1">(2) {#harati#} ({#hf,#} c. 1. = to deprive of:
-<div n="lb"/>q. v.).</div>
+{@STRIP@}¦ (v.t.): <div n="1">(1) by comp. with {#vi-, nir-,#} {%or%}
+{#apa-,#} <div n="xe">{%to s. the clothes off:%}</div> <div n="xs">{#vivastrayati;#}</div> <div n="xe">{%to s. the%}
+{%bark off:%}</div> <div n="xs">{#vivalkayati;#}</div> {%to s. the leaves off:%}
+{#nizpatrayati,#} Mah.; <div n="xe">{%a s. ped sword:%}</div> <div n="xs">{#vikozo'siH,#}</div>
+Ki. xvii. 45.; <div n="xe">{%s. ped of the bow:%}</div> <div n="xs">{#vikArmuka#}</div> (f. {#kA#}),
+Ki. xvii. 53.; <div n="xe">{%s. ped off, of skin:%}</div> <div n="xs">{#apatvac#}</div>
+(mfn.), D. vii.; <div n="xe">{%s. ped of water:%}</div> <div n="xs">{#apapayas#}</div> (mfn.),
+Ki. v. 12.; </div><div n="1">(2) {#harati#} ({#hf,#} c. 1. = to deprive of:
+q. v.).</div>
 <LEND>

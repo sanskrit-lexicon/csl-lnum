@@ -1,6 +1,6 @@
 <L>19460<pc>605<k1>rose<k2>rose
-<div n="lb"/>{@ROSE:@}¦ <div n="1">(1) {#sevatI;#} </div><div n="1">(2) {#SatapatrI;#} </div><div n="1">(3) {#lAkzA,#} Bha.;
-<div n="lb"/><div n="xe">{%oil of r.:%}</div> <div n="xs">{#lAkzAtElam#}</div> (?); <div n="xe">{%r. -water:%}</div> <div n="xs">{#sevatItElam#}</div>
-<div n="lb"/>(?). <div n="xe">{%China-r.:%}</div> <div n="xs">{#javA#}</div>({#pA#}). {%R. -apple%} (both the
-<div n="lb"/>tree and its fruit) {#jambUH.#} <div n="xe">{%R. -wood:%}</div> <div n="xs">{#dAruviSezaH.#}</div></div>
+{@ROSE:@}¦ <div n="1">(1) {#sevatI;#} </div><div n="1">(2) {#SatapatrI;#} </div><div n="1">(3) {#lAkzA,#} Bha.;
+<div n="xe">{%oil of r.:%}</div> <div n="xs">{#lAkzAtElam#}</div> (?); <div n="xe">{%r. -water:%}</div> <div n="xs">{#sevatItElam#}</div>
+(?). <div n="xe">{%China-r.:%}</div> <div n="xs">{#javA#}</div>({#pA#}). {%R. -apple%} (both the
+tree and its fruit) {#jambUH.#} <div n="xe">{%R. -wood:%}</div> <div n="xs">{#dAruviSezaH.#}</div></div>
 <LEND>

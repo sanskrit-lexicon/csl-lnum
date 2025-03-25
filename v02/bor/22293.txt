@@ -1,6 +1,6 @@
 <L>22293<pc>703<k1>temperate<k2>temperate
-<div n="lb"/>{@TEMPERATE:@}¦ <div n="I">I Moderate: q. v.: {#mita#} (f.
-<div n="lb"/>{#tA#}). </div><div n="I">II Cool, calm: q. v.: {#SAnta#} (f. {#ntA#}).</div>
-<div n="lb"/><div n="I">III Continent: q. v.: {#saMyata#} (f. {#tA#}), perh.:
-<div n="lb"/><div n="xe">{%t. zone:%}</div> <div n="xs">{#*nAtiSItozRamaRqalam.#}</div></div>
+{@TEMPERATE:@}¦ <div n="I">I Moderate: q. v.: {#mita#} (f.
+{#tA#}). </div><div n="I">II Cool, calm: q. v.: {#SAnta#} (f. {#ntA#}).</div>
+<div n="I">III Continent: q. v.: {#saMyata#} (f. {#tA#}), perh.:
+<div n="xe">{%t. zone:%}</div> <div n="xs">{#*nAtiSItozRamaRqalam.#}</div></div>
 <LEND>

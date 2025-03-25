@@ -1,28 +1,28 @@
 <L>10137<pc>1577<k1>sfp<k2>sfp
-{@sṛp@}¦ [<ab>Cu.</ab> 338], aus sṛ erweitert; Grundbegriff der einer gleitenden, am Boden, sich hinziehenden <lbinfo n="9"/> Bewegung, {%schliechen, kriechen.%}
-<div n="P1">{@Mit áti@} 1) {%hinüberkriechen%} <lbinfo n="10"/> über [<ab>A.</ab>]; 2) {%hinübergleiten%} über [<ab>A.</ab>].
-<div n="P1">-úd <ab>Desid.</ab> {%sich erheben wollen.%}
-<div n="P1">{@úpa@} 1) {%herankriechen%} an [<ab>A.</ab>] (in einem Wortspiele); 2) {%hingleiten,%} <lbinfo n="10"/> (leise) {%herantreten%} <lbinfo n="8"/> zu, an [<ab>A.</ab>] (vom Geiste eines Verstorbenen).
-<div n="P1">{@pári@} {%umschleíchen%} [<ab>A.</ab>].
-<div n="P1">{@prá@} 1) {%vordringen%} zu [<ab>A.</ab>]; 2) {%gleitend%} oder {%strömend vordringen.%} <lbinfo n="6"/>
-<div n="P">-{@ví@} {%sich hinwegschleichen%} <lbinfo n="6"/> von [Ab.].
+{@√sṛp@}¦ [<ls>Cu. 〔338〕</ls>], aus sṛ erweitert; Grundbegriff der einer gleitenden, am Boden, sich hinziehenden Bewegung, {%schliechen, kriechen%}.
+<div n="Pf">Mit {@áti@} 1〉 {%hinüberkriechen%} über [<ab>A.</ab>]; 2〉 {%hinübergleiten%} über [<ab>A.</ab>].
+<div n="Pf">{@úd@} <ab>Desid.</ab> {%sich erheben wollen%}.
+<div n="Pf">{@úpa@} 1〉 {%herankriechen%} an [<ab>A.</ab>] (in einem Wortspiele); 2〉 {%hingleiten,%} (leise) {%herantreten%} zu, an [<ab>A.</ab>] (vom Geiste eines Verstorbenen).
+<div n="Pf">{@pári@} {%umschleíchen%} [<ab>A.</ab>].
+<div n="Pf">{@prá@} 1〉 {%vordringen%} zu [<ab>A.</ab>]; 2〉 {%gleitend%} oder {%strömend vordringen%}.
+<div n="Pf">{@ví@} {%sich hinwegschleichen%} von [<ab>Ab.</ab>].
 <div n="H">Stamm {@sárpa:@}
-<div n="P1">(-āmi) {@prá@} 2) VS. {10,30}.
-<div n="P1">-ati {@ati@} 1) yád vamrás … {711,21}.
-<div n="P1">-atha {@pra@} 1) yásya‿ oṣadhīs … áṅgam-aṅgam <lbinfo n="3"/> páruṣ-parus {923,12}.
+<div n="TS">(-āmi) {@prá@} 2〉 <ls>VS. 〔10,30〕</ls>.
+<div n="TS">-ati {@ati@} 1〉 yád vamrás 〰 {711,21}.
+<div n="TS">-atha {@pra@} 1〉 yásya‿ oṣadhīs 〰 áṅgam-aṅgam páruṣ-parus {923,12}.
 <div n="H">{@sarpa:@}
-<div n="P1">-ati áti áhis ná jūrṇám … tvácam {798,44} (sómas). <lbinfo n="5"/>
-<div n="P1">-at {@prá@} 1) kumārás ná vīrúdhas {905,3} (agnís). <lbinfo n="6"/> — {@úpa@} 1) vamrakás <lbinfo n="6"/> paḍbhís … índram <lbinfo n="4"/> {925,12}.
-<div n="P1">-a úpa 2) mātáram bhū́mim <lbinfo n="3"/> {844,10}.
-<div n="P1">-atu {@prá@} 2) sómas {637,7}.
-<div n="P1">-ata ví átas {840,9}.
+<div n="TS">-ati áti áhis ná jūrṇám 〰 tvácam {798,44} (sómas).
+<div n="TS">-at {@prá@} 1〉 kumārás ná vīrúdhas {905,3} (agnís). — {@úpa@} 1〉 vamrakás paḍbhís 〰 índram {925,12}.
+<div n="TS">-a úpa 2〉 mātáram bhū́mim {844,10}.
+<div n="TS">-atu {@prá@} 2〉 sómas {637,7}.
+<div n="TS">-ata ví átas {840,9}.
 <div n="H"><ab>Impf.</ab> {@ásarpa:@}
-<div n="P1">-ata [2. <ab>p.</ab>] {@pari@} bhúvanā {161,12} (sammī́lya).
-<div n="P">Stamm des <ab>Intens.</ab> {@sarīsṛp@} (schnell gleiten) enthalten in sarīsṛpá.
+<div n="TS">-ata [<per>2.</per> <ab>p.</ab>] {@pari@} bhúvanā {161,12} (sammī́lya).
+<div n="H">Stamm des <ab>Intens.</ab> {@sarīsṛp@} (schnell gleiten) enthalten in sarīsṛpá.
 <div n="H"><ab>Part.</ab> {@(sárpat):@}
-<div n="P1">-antam vīdhré sū́ryam iva … piśācám {AV. 4,20,7}.
-<div n="H">{@Part.@} des <ab>Desid.</ab> {@sísṛpsat:@}
-<div n="P1">-atas [<ab>A.</ab> <ab>p.</ab> <ab>m.</ab>] ud dásyūn {634,14} neben dyā́m ārúrukṣatas.
+<div n="TS">-antam vīdhré sū́ryam iva 〰 piśācám <ls>AV. 4,20,7</ls>.
+<div n="H"><ab>Part.</ab> des <ab>Desid.</ab> {@sísṛpsat:@}
+<div n="TS">-atas [<ab>A.</ab> <ab>p.</ab> <ab>m.</ab>] ud dásyūn {634,14} neben dyā́m ārúrukṣatas.
 <div n="H">Verbale {@sṛ́p@} als <ab>Infin.</ab>:
-<div n="P1">-ṛ́pas [Ab.] mit vi nach Pāṇ. 1,1,40; {8,3},110.
+<div n="TS">-ṛ́pas [<ab>Ab.</ab>] mit vi nach <ls>Pāṇ. 〔1,1,40〕</ls>; <ls n="Pāṇ. ">〔8,3,110〕</ls>.
 <LEND>

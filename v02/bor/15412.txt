@@ -1,5 +1,5 @@
 <L>15412<pc>472<k1>niece<k2>niece
-<div n="lb"/>{@NIECE:@}¦ <div n="I">I Brother's daughter: </div><div n="1">(1) {#BrAtuzputrI;#}</div>
-<div n="lb"/><div n="1">(2) {#BrAtfjA#} (rare). </div><div n="I">II Sister's d.: </div><div n="1">(1) {#BAgineyI;#}</div>
-<div n="lb"/><div n="1">(2) {#svasrIyA#} (rare), <div n="xe">{%maternal n.:%}</div> <div n="xs">{#mAtfzvasreyI,#}</div> M.</div>
+{@NIECE:@}¦ <div n="I">I Brother's daughter: </div><div n="1">(1) {#BrAtuzputrI;#}</div>
+<div n="1">(2) {#BrAtfjA#} (rare). </div><div n="I">II Sister's d.: </div><div n="1">(1) {#BAgineyI;#}</div>
+<div n="1">(2) {#svasrIyA#} (rare), <div n="xe">{%maternal n.:%}</div> <div n="xs">{#mAtfzvasreyI,#}</div> M.</div>
 <LEND>

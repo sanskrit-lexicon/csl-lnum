@@ -1,10 +1,10 @@
 <L>1909<pc>063<k1>cohere<k2>cohere
 {@Cohere,@}¦ {%v. i.%} {#saMsaMj-saMyuj-saMhan-saMSliz-#}
-<div n="lb"/>pass. {@2@} {#yuj#} pass. {@-ence,@} {%s.%} {#saMsakti#} {%f.,%}
-<div n="lb"/>{#saMSlezaH, saMyogaH#}. {@2@} {#saMbaMDaH, saMgati#} {%f.,%} {#anvayaH,#}
-<div n="lb"/>{#saMdarBaH, aviroDaH#}. {@-ent,@} {%a.%} {#saMsakta, saMSlizwa,#}
-<div n="lb"/>{#saMhata, saMlagna#}. {@2@} {#saMgata, avirudDa, saMbadDa,#}
-<div n="lb"/>{#anurUpa, sAnvaya#}. {@-Cohesion,@} {%s.%} {#saMsakti#} {%f.,%}
-<div n="lb"/>{#saMyogaH, saMSlezaH, saMlagnatA#}. {@-Cohesive,@} {%a.%}
-<div n="lb"/>{#sAMdra, saMlagnaSIla, snigDa#}.
+pass. {@2@} {#yuj#} pass. {@-ence,@} {%s.%} {#saMsakti#} {%f.,%}
+{#saMSlezaH, saMyogaH#}. {@2@} {#saMbaMDaH, saMgati#} {%f.,%} {#anvayaH,#}
+{#saMdarBaH, aviroDaH#}. {@-ent,@} {%a.%} {#saMsakta, saMSlizwa,#}
+{#saMhata, saMlagna#}. {@2@} {#saMgata, avirudDa, saMbadDa,#}
+{#anurUpa, sAnvaya#}. {@-Cohesion,@} {%s.%} {#saMsakti#} {%f.,%}
+{#saMyogaH, saMSlezaH, saMlagnatA#}. {@-Cohesive,@} {%a.%}
+{#sAMdra, saMlagnaSIla, snigDa#}.
 <LEND>

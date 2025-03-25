@@ -1,20 +1,20 @@
 <L>20672<pc>648<k1>sky<k2>sky
-<div n="lb"/>{@SKY:@}¦ <div n="1">(1) {#naBas#} (n.), <div n="xe">{%s. -blue:%}</div> <div n="xs">{#naBastalaSyAmaH#}</div> ({#mA, #}
-<div n="lb"/>{# maM#}), R. xviii. 6.; {%quickly descending from the%} [Page649]
-<div n="lb"/><div n="xe">{%s. ies:%}</div> <div n="xs">{#naBoviBAgAttarasAvatIrya,#}</div> N. iii. 1.; <div n="xe">{%thunder%}
-<div n="lb"/>{%fell from a cloudless s.:%}</div> <div n="xs">{#papAta vajraM naBaso nirambudAt,#}</div>
-<div n="lb"/>Ku. xv. 20; </div><div n="1">(2) {#vyoman#} (n.), {%s. -touching:%}
-<div n="lb"/>{#vyomaspfS#} (mfn.), Si. iv. 31.; </div><div n="1">(3) {#AkASaH,#}
-<div n="lb"/><div n="xe">{%picturesque scene drawn in the s. ies without any%}
-<div n="lb"/>{%foundation:%}</div> <div n="xs">{#AkASe racitamaBitti citrakarma,#}</div> Si. iv.
-<div n="lb"/>53.; </div><div n="1">(4) {#gaganam,#} <div n="xe">{%residents of the s.:%}</div> <div n="xs">{#gaganasadaH,#}</div>
-<div n="lb"/>Si. iv. 53.; </div><div n="1">(5) {#antari#}({#rI#}){#kzam,#} <div n="xe">{%then a voice%}
-<div n="lb"/>{%from the s. loudly proclaimed:%}</div> <div n="xs">{#aTAntarikze vAguccEH #}
-<div n="lb"/>{# prAha,#}</div> V. p. v. 28. 21.; </div><div n="1">(6) {#ambaram,#} <div n="xe">{%s.%}
-<div n="lb"/>{%lighting:%}</div> <div n="xs">{#ambaravikASin#}</div> (f. {#nI#}), Si. v. 3.; </div><div n="1">(7)
-<div n="lb"/>{#Kam,#} <div n="xe">{%ambling in the s.:%}</div> <div n="xs">{#Ke KelagABI,#}</div> Ku. vii.
-<div n="lb"/>49.; </div><div n="1">(8) {#dyOH#} (= heaven: q. v.), {%s.-bird:%}
-<div n="lb"/>{#dyupakzI,#} Ku. xv. 14.; </div><div n="1">(9) {#vihAyas#} (n.); </div><div n="1">(10)
-<div n="lb"/>{#viyat;#} </div><div n="1">(11) {#gIrvARavartma,#} K., Ki. v. 17. and
-<div n="lb"/>sim. comp. s. (poet.).</div>
+{@SKY:@}¦ <div n="1">(1) {#naBas#} (n.), <div n="xe">{%s. -blue:%}</div> <div n="xs">{#naBastalaSyAmaH#}</div> ({#mA, #}
+{# maM#}), R. xviii. 6.; {%quickly descending from the%} [Page649]
+<div n="xe">{%s. ies:%}</div> <div n="xs">{#naBoviBAgAttarasAvatIrya,#}</div> N. iii. 1.; <div n="xe">{%thunder%}
+{%fell from a cloudless s.:%}</div> <div n="xs">{#papAta vajraM naBaso nirambudAt,#}</div>
+Ku. xv. 20; </div><div n="1">(2) {#vyoman#} (n.), {%s. -touching:%}
+{#vyomaspfS#} (mfn.), Si. iv. 31.; </div><div n="1">(3) {#AkASaH,#}
+<div n="xe">{%picturesque scene drawn in the s. ies without any%}
+{%foundation:%}</div> <div n="xs">{#AkASe racitamaBitti citrakarma,#}</div> Si. iv.
+53.; </div><div n="1">(4) {#gaganam,#} <div n="xe">{%residents of the s.:%}</div> <div n="xs">{#gaganasadaH,#}</div>
+Si. iv. 53.; </div><div n="1">(5) {#antari#}({#rI#}){#kzam,#} <div n="xe">{%then a voice%}
+{%from the s. loudly proclaimed:%}</div> <div n="xs">{#aTAntarikze vAguccEH #}
+{# prAha,#}</div> V. p. v. 28. 21.; </div><div n="1">(6) {#ambaram,#} <div n="xe">{%s.%}
+{%lighting:%}</div> <div n="xs">{#ambaravikASin#}</div> (f. {#nI#}), Si. v. 3.; </div><div n="1">(7)
+{#Kam,#} <div n="xe">{%ambling in the s.:%}</div> <div n="xs">{#Ke KelagABI,#}</div> Ku. vii.
+49.; </div><div n="1">(8) {#dyOH#} (= heaven: q. v.), {%s.-bird:%}
+{#dyupakzI,#} Ku. xv. 14.; </div><div n="1">(9) {#vihAyas#} (n.); </div><div n="1">(10)
+{#viyat;#} </div><div n="1">(11) {#gIrvARavartma,#} K., Ki. v. 17. and
+sim. comp. s. (poet.).</div>
 <LEND>

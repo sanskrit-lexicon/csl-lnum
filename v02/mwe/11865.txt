@@ -1,13 +1,13 @@
 <L>11865<pc>286-b<k1>form<k2>form
-<div n="lb"/>FORM¦, {%s.%} (Shape) {#AkAraH, AkftiH#} {%f.,%} {#rUpaM, mUrttiH#} {%f.,%} {#saMskAraH, saMsTAnaM,#}
-<div n="lb"/>{#DarimA#} {%m.%} {#(n), vigrahaH, vapuH#} {%n.%} {#(s), varpaH#} {%n.%} {#(s);#} ‘in the form
-<div n="lb"/>of a man,’ {#nararUpeRa;#} ‘of regular form,’ {#AkAraSudDaH -dDA -dDaM#}.
-<div n="lb"/> — (Manner, fashion) {#prakAraH, rItiH#} {%f.,%} {#viDaH, viDiH#} {%m.,%} {#mArgaH,#}
-<div n="lb"/>{#viDAnaM, prakftiH#} {%f.,%} {#BedaH#}. — (Established rule) {#viDiH#} {%m.,%} {#niyamaH,#}
-<div n="lb"/>{#sTitiH#} {%f.,%} {#sUtraM, DarmmaH, saryyAdA, vyavasTA, kramaH, AcAraH, caryyA, vyavahAraH#}.
-<div n="lb"/> — (Mcthod) {#kramaH#} — (Ceremony) {#niyamaH, viDiH#} {%m.%} {#saMskAraH#}. — 
-<div n="lb"/>(Arrangement) {#vinyAsaH, paryyAyaH, prativiDAnaM, viracanA#}. — (Long
-<div n="lb"/>seat) {#dIrGAsanaM, dIrGapIWaM, PalakaM#}. — (Class of scholars) {#sahADyA-#}
-<div n="lb"/>{#-yinAM paMktiH#} {%f.,%} {#CAtrapadaM#}. — (Bed of a hare) {#SaSakaSayyA, SaSakAsanaM;#}
-<div n="lb"/>‘in due form,’ {#yaTAviDi, yaTAvat, viDivat, viDitas#}.
+FORM¦, {%s.%} (Shape) {#AkAraH, AkftiH#} {%f.,%} {#rUpaM, mUrttiH#} {%f.,%} {#saMskAraH, saMsTAnaM,#}
+{#DarimA#} {%m.%} {#(n), vigrahaH, vapuH#} {%n.%} {#(s), varpaH#} {%n.%} {#(s);#} ‘in the form
+of a man,’ {#nararUpeRa;#} ‘of regular form,’ {#AkAraSudDaH -dDA -dDaM#}.
+ — (Manner, fashion) {#prakAraH, rItiH#} {%f.,%} {#viDaH, viDiH#} {%m.,%} {#mArgaH,#}
+{#viDAnaM, prakftiH#} {%f.,%} {#BedaH#}. — (Established rule) {#viDiH#} {%m.,%} {#niyamaH,#}
+{#sTitiH#} {%f.,%} {#sUtraM, DarmmaH, saryyAdA, vyavasTA, kramaH, AcAraH, caryyA, vyavahAraH#}.
+ — (Mcthod) {#kramaH#} — (Ceremony) {#niyamaH, viDiH#} {%m.%} {#saMskAraH#}. — 
+(Arrangement) {#vinyAsaH, paryyAyaH, prativiDAnaM, viracanA#}. — (Long
+seat) {#dIrGAsanaM, dIrGapIWaM, PalakaM#}. — (Class of scholars) {#sahADyA-#}
+{#-yinAM paMktiH#} {%f.,%} {#CAtrapadaM#}. — (Bed of a hare) {#SaSakaSayyA, SaSakAsanaM;#}
+‘in due form,’ {#yaTAviDi, yaTAvat, viDivat, viDitas#}.
 <LEND>

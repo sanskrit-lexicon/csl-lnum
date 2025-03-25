@@ -1,7 +1,7 @@
 <L>22274<pc>702<k1>tedious<k2>tedious
-<div n="lb"/>{@TEDIOUS:@}¦ <div n="I">I Tiresome, wearisome: q. v.:
-<div n="lb"/>{#klAntikara#} (f. {#rI#}) and sim. comp.s, <div n="xe">{%if it is not%}
-<div n="lb"/>{%very t.:%}</div> <div n="xs">{#tad yadi nAtiKedakaram,#}</div> K. </div><div n="I">II Slow:
-<div n="lb"/>q. v.: {#manTara#} (f. {#rA#}). </div><div n="I">III As a writer:
-<div n="lb"/>{#dIrGasUtra#} (f. {#trA#}).</div>
+{@TEDIOUS:@}¦ <div n="I">I Tiresome, wearisome: q. v.:
+{#klAntikara#} (f. {#rI#}) and sim. comp.s, <div n="xe">{%if it is not%}
+{%very t.:%}</div> <div n="xs">{#tad yadi nAtiKedakaram,#}</div> K. </div><div n="I">II Slow:
+q. v.: {#manTara#} (f. {#rA#}). </div><div n="I">III As a writer:
+{#dIrGasUtra#} (f. {#trA#}).</div>
 <LEND>

@@ -1,21 +1,21 @@
 <L>21750<pc>574-a<k1>pass<k2>pass
-<div n="lb"/>{%To%} PASS¦, {%v. n.%} (Move, go) {#gam, yA, cal, car, sf, i#} &c. — (Be
-<div n="lb"/>spent, go on, as time, &c.) {#vft#} (c. 1. {#varttate -rttituM#}), {#pravft, gam#}
-<div n="lb"/> — (Gain currency) {#pracalIBU, pracalitaH -tA -taM BU, pracal, pracar#}.
-<div n="lb"/>(Be enacted) {#siD#} (c. 4. {#siDyati, sedDuM#}), {#sidDIBU, nizyannIBU, vyava-#}
-<div n="lb"/>{#sTApitaH -tA -taM BU#}. — (Be approved) {#sammataH -tA -taM BU#}. — (Occur,
-<div n="lb"/>come to pass) {#upasTA, samupasTA, upapad, sampad, upapannaH -nnA -nnaM#}
-<div n="lb"/>{#BU, Apat, samBU, saMvft, saMvfttaH -ttA -ttaM BU, Agam, upAgam, Gaw#}. — 
-<div n="lb"/>(Be transferred) {#saMkram#} (c. 1. {#-krAmati -kramituM#}), {#upasaMkram#}. — (Pass
-<div n="lb"/>away, disappear, fade away) {#naS, praRaS, kzi, pralI, vilI,#}
-<div n="lb"/>{#pravilI, tirogam, tiroBU, kzar#}. — (Pass away, as time, &c.) {#ati-#}
-<div n="lb"/>{#kram, ativft, atI, vyatI, samatI, gam;#} ‘six months passed
-<div n="lb"/>away,’ {#zaRmAsam atyavarttata;#} ‘six seasons passed away,’ {#ftUnAM#}
-<div n="lb"/>{#zaw samatyayuH;#} ‘let not the moment pass away,’ {#nAtivartteta kzaRaM#}.
-<div n="lb"/> — (Pass by) {#atikram, atI, atigam, aticar, atiyA, samatiyA#}.
-<div n="lb"/> — (Pass on) {#prayA, pragam, pravft, prasf, gam, yA;#} ‘jokes pass,’
-<div n="lb"/>{#pravarttate hAsaH#}. — (Pass over, cross) {#tF, atitF, nistF, atikram,#}
-<div n="lb"/>{#atI#}. — (Let pass, omit) {#tyaj, parityaj, utsfj, visfj, upekz;#}
-<div n="lb"/>‘let it pass,’ {#yAtu;#} ‘that which passes in the mind,’ {#manogataM,#}
-<div n="lb"/>{#antargataM manaH#}.
+{%To%} PASS¦, {%v. n.%} (Move, go) {#gam, yA, cal, car, sf, i#} &c. — (Be
+spent, go on, as time, &c.) {#vft#} (c. 1. {#varttate -rttituM#}), {#pravft, gam#}
+ — (Gain currency) {#pracalIBU, pracalitaH -tA -taM BU, pracal, pracar#}.
+(Be enacted) {#siD#} (c. 4. {#siDyati, sedDuM#}), {#sidDIBU, nizyannIBU, vyava-#}
+{#sTApitaH -tA -taM BU#}. — (Be approved) {#sammataH -tA -taM BU#}. — (Occur,
+come to pass) {#upasTA, samupasTA, upapad, sampad, upapannaH -nnA -nnaM#}
+{#BU, Apat, samBU, saMvft, saMvfttaH -ttA -ttaM BU, Agam, upAgam, Gaw#}. — 
+(Be transferred) {#saMkram#} (c. 1. {#-krAmati -kramituM#}), {#upasaMkram#}. — (Pass
+away, disappear, fade away) {#naS, praRaS, kzi, pralI, vilI,#}
+{#pravilI, tirogam, tiroBU, kzar#}. — (Pass away, as time, &c.) {#ati-#}
+{#kram, ativft, atI, vyatI, samatI, gam;#} ‘six months passed
+away,’ {#zaRmAsam atyavarttata;#} ‘six seasons passed away,’ {#ftUnAM#}
+{#zaw samatyayuH;#} ‘let not the moment pass away,’ {#nAtivartteta kzaRaM#}.
+ — (Pass by) {#atikram, atI, atigam, aticar, atiyA, samatiyA#}.
+ — (Pass on) {#prayA, pragam, pravft, prasf, gam, yA;#} ‘jokes pass,’
+{#pravarttate hAsaH#}. — (Pass over, cross) {#tF, atitF, nistF, atikram,#}
+{#atI#}. — (Let pass, omit) {#tyaj, parityaj, utsfj, visfj, upekz;#}
+‘let it pass,’ {#yAtu;#} ‘that which passes in the mind,’ {#manogataM,#}
+{#antargataM manaH#}.
 <LEND>

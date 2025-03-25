@@ -1,13 +1,13 @@
 <L>16788<pc>2-0254<k1>kAlaDarma<k2>kAlaDarma
-{#kAlaDarma#}¦ (2. {#kAla + Darma#}) <lex>m.</lex> {%das Gesetz der Zeit, Tod%} 
-<ls>AK. 2, 8, 2, 84.</ls> 
-<ls>H. 324.</ls> {#kAlaDarmamupeyivAn#} 
-<ls>MBH. 1, 4070.</ls> 
-<ls>R. 1, 43, 10. 70, 29.</ls> {#kAlaDarmaM gate sagare#} 
-<ls>43, 1.</ls> {#kAlaDarmamavApa#} 
-<ls>MBH. 13, 467.</ls> {#kAlaDarmaparikziptaH pASEriva mahAgajaH#} 
-<ls>R. 2, 72, 38.</ls> Auch {#kAlaDarman#} m.: {#yuyuje kAlaDarmaRA#} 
-<ls>MBH. 1, 4877.</ls> {#saMyuktaH kAlaDarmaRA#} 
-<ls>3, 11095 (p. 572).</ls> <ls>HARIV. 11848.</ls> {#parItAH kAlaDarmaRA#} 
-<ls>MBH. 14, 1584.</ls>
+{#kAlaDarma#}¦ (2. {#kAla + Darma#}) <lex>m.</lex> {%das Gesetz der Zeit, Tod%}
+<ls>AK. 2,8,2,84.</ls>
+<ls>H. 324.</ls> {#kAlaDarmamupeyivAn#}
+<ls>MBH. 1,4070.</ls>
+<ls>R. 1,43,10.</ls> <ls n="R. 1,">70,29.</ls> {#kAlaDarmaM gate sagare#}
+<ls n="R. 1,">43,1.</ls> {#kAlaDarmamavApa#}
+<ls>MBH. 13,467.</ls> {#kAlaDarmaparikziptaH pASEriva mahAgajaH#}
+<ls>R. 2,72,38.</ls> Auch {#kAlaDarman#} m.: {#yuyuje kAlaDarmaRA#}
+<ls>MBH. 1,4877.</ls> {#saMyuktaH kAlaDarmaRA#}
+<ls n="MBH.">3,11095</ls> (p. 572). <ls>HARIV. 11848.</ls> {#parItAH kAlaDarmaRA#}
+<ls>MBH. 14,1584.</ls>
 <LEND>

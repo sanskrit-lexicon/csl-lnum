@@ -1,6 +1,6 @@
-<L>110355<pc>560,1<k1>nivft<k2>ni-vft<h>a<e>1
-<s>ni-√ vft</s> <hom>a</hom> ¦ <ab>Ā.</ab> <s>-vartate</s> (<ab>ind.p.</ab> <s>-vftya</s>, <ls>AV.</ls>; infin. <s>-vartitum</s>, <ls>MBh.</ls>; rarely <ab>P.</ab> <ab>e.g.</ab> <ab>Pot.</ab> <s>-vartet</s>, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ab>impf.</ab> or subj. <s>-vartat</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>-vAvftur</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>-vartizyati</s>, <ls>MBh.</ls>; <s>-vartsyan</s>, <ls>Bhaṭṭ.</ls>; <ab>aor.</ab> <s>-avftat</s>, <ls>ib.</ls>), 
-<div n="to"/>to turn back, stop (trans. and intrans.), <ls>RV.</ls> &c.;
+<L>110355<pc>560,1<k1>nivft<k2>ni-vft<e>1
+<s>ni-√ vft</s> ¦ <ab>Ā.</ab> <s>-vartate</s> (<ab>ind.p.</ab> <s>-vftya</s>, <ls>AV.</ls>; infin. <s>-vartitum</s>, <ls>MBh.</ls>; rarely <ab>P.</ab>, <ab>e.g.</ab> <ab>Pot.</ab> <s>-vartet</s>, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ab>impf.</ab> or <ab>subj.</ab> <s>-vartat</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>-vAvftur</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>-vartizyati</s>, <ls>MBh.</ls>; <s>-vartsyan</s>, <ls>Bhaṭṭ.</ls>; <ab>aor.</ab> <s>-avftat</s>, <ls>ib.</ls>),
+<div n="to"/>to turn back, stop (<ab>trans.</ab> and <ab>intrans.</ab>), <ls>RV.</ls> &c.;
 <div n="to"/>to return from (<ab>abl.</ab>) to (<ab>acc.</ab> with or without <s>prati</s>, or <ab>dat.</ab>);
 <div n="to"/>to return into life, revive, be born again, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to turn away, retreat, flee, escape, abstain or desist from, get rid of (<ab>abl.</ab>), <ls>ib.</ls>;
@@ -12,7 +12,7 @@
 <div n="to"/>to be wanting, not to exist (<s>yato vAco nivartante</s>, for which there are no words), <ls>TUp.</ls>;
 <div n="to"/>to pass over to (<ab>loc.</ab>), <ls>MBh.</ls>;
 <div n="to"/>to be turned upon (<ab>loc.</ab> or <s>tatra</s>), <ls>ib.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>-vartayati</s>, <s>°te</s> (<ab>Ā.</ab> <ab>Pot.</ab> <s>-vartayIta</s>, <ls>ĀśvŚr.</ls>; <ab>Pass.</ab> <s>-vartyate</s>, <ls>Ragh.</ls>), 
+<div n="vp"/><ab>Caus.</ab> <s>-vartayati</s>, <s>°te</s> (<ab>Ā.</ab> <ab>Pot.</ab> <s>-vartayIta</s>, <ls>ĀśvŚr.</ls>; <ab>Pass.</ab> <s>-vartyate</s>, <ls>Ragh.</ls>),
 <div n="to"/>to turn downwards, let sink (the head), <ls>TBr.</ls>;
 <div n="to"/>to turn back <ab>i.e.</ab> shorten (the hair), <ls>Br.</ls>;
 <div n="to"/>to lead or bring back, reconduct, return, <ls>AV.</ls> &c. &c.;
@@ -21,5 +21,5 @@
 <div n="to"/>to annul, remove, destroy, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>Pur.</ls>;
 <div n="to"/>to bring to an end <ab>i.e.</ab> perform, accomplish (a sacrifice &c.), <ls>R.</ls>; <ls>BhP.</ls>;
 <div n="to"/>to procure, bestow, <ls>Hariv.</ls>; <ls>MārkP.</ls>;
-<div n="to"/>to desist from (<ab>abl.</ab>), <ls>MBh.</ls>; <ls>R.</ls><info verb="pre" cp="PĀ" parse="ni+vft"/>
+<div n="to"/>to desist from (<ab>abl.</ab>), <ls>MBh.</ls>; <ls>R.</ls><info verb="pre" cp="PĀ" parse="ni+vft"/><info hui="a"/>
 <LEND>

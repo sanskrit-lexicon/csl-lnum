@@ -1,17 +1,17 @@
 <L>7153<pc>309<k1>north<k2>north
 {@North,@}¦ {%s.%} {#uttarA, udIcI, uttaradiS-diSA,#}
-<div n="lb"/>{#uttarASA, kOberI;#} ‘to the n.’ {#uttaraM#}
-<div n="lb"/>(with abl.), {#uttarataH#} (with gen.);
-<div n="lb"/>‘facing the n.’ {#udaNmuKa#} {%-a.%} ({#KI#} {%f.%}),
-<div n="lb"/>{%-a.,%} {@-erly, -ern,@} {%a.%} {#uttara, udIcIna, uttara-#}
-<div n="lb"/>{#-sTa, udIcya, udac;#} ‘in a n. direction’
-<div n="lb"/>{#uttareRa#} (with acc. or gen.); ‘n.-east’
-<div n="lb"/>{#uttarapUrvA, pUrvottarA, ESAnI, prAguttarA, prAgu-#}
-<div n="lb"/>{#-dIcI;#} ({%a.,%} -erly, -ern), {#prAguttara, pUrvottara,#}
-<div n="lb"/>{#prAgudIcIna; pUrvottarasTa;#} ‘n.-pole’ ‘n. -star’
-<div n="lb"/>{#DruvaH;#} ‘n.-west’ {#uttarapaScimA, vAyavI;#}
-<div n="lb"/>({%a.,%} -erly,-ern) {#vAyava, vAyudiksTa#}.
-<div n="lb"/>{@-ward,@} {%a.%} {#uttara, uttaradiksTa#}. {@-wards,@}
-<div n="lb"/>{%adv.%} {#uttarABimuKaM, uttarataH, uttareRa, uttara-#}
-<div n="lb"/>{#-diSi#}.
+{#uttarASA, kOberI;#} ‘to the n.’ {#uttaraM#}
+(with abl.), {#uttarataH#} (with gen.);
+‘facing the n.’ {#udaNmuKa#} {%-a.%} ({#KI#} {%f.%}),
+{%-a.,%} {@-erly, -ern,@} {%a.%} {#uttara, udIcIna, uttara-#}
+{#-sTa, udIcya, udac;#} ‘in a n. direction’
+{#uttareRa#} (with acc. or gen.); ‘n.-east’
+{#uttarapUrvA, pUrvottarA, ESAnI, prAguttarA, prAgu-#}
+{#-dIcI;#} ({%a.,%} -erly, -ern), {#prAguttara, pUrvottara,#}
+{#prAgudIcIna; pUrvottarasTa;#} ‘n.-pole’ ‘n. -star’
+{#DruvaH;#} ‘n.-west’ {#uttarapaScimA, vAyavI;#}
+({%a.,%} -erly,-ern) {#vAyava, vAyudiksTa#}.
+{@-ward,@} {%a.%} {#uttara, uttaradiksTa#}. {@-wards,@}
+{%adv.%} {#uttarABimuKaM, uttarataH, uttareRa, uttara-#}
+{#-diSi#}.
 <LEND>

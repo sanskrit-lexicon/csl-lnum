@@ -1,8 +1,8 @@
 <L>20932<pc>550-a<k1>omen<k2>omen
-<div n="lb"/>OMEN¦, {%s.%} {#pUrvvalakzaRaM, pUrvvacihnaM, pUrvvaliNgaM, SuBASuBalakzaRaM, maNgalAmaNgala-#}
-<div n="lb"/>{#lakzaRaM, BAvisUcakacihnaM, BavizyatsUcakacihnaM, SakunaM -naH, cihnaM, lakzaRaM,#}
-<div n="lb"/>{#ajanyaM, nimittaM, utpAtaH, pUrvvarUpaM, BavizyadudboDakacihnaM;#} ‘good omen,’
-<div n="lb"/>{#sucihnaM, sulakzaRaM;#} ‘bad omen,’ {#durlakzaRaM, duScihnaM, avacihnaM, avalakzaRaM,#}
-<div n="lb"/>{#apaSakunaM -naH, duHSakunaM -naH, anizwasUcakacihnaM, aSuBalakzaRaM, aSuBa-#}
-<div n="lb"/>{#cihnaM, amaNgalacihnaM, upaliNgaM;#} ‘interpretation of omens,’ {#SAkunikaM#}.
+OMEN¦, {%s.%} {#pUrvvalakzaRaM, pUrvvacihnaM, pUrvvaliNgaM, SuBASuBalakzaRaM, maNgalAmaNgala-#}
+{#lakzaRaM, BAvisUcakacihnaM, BavizyatsUcakacihnaM, SakunaM -naH, cihnaM, lakzaRaM,#}
+{#ajanyaM, nimittaM, utpAtaH, pUrvvarUpaM, BavizyadudboDakacihnaM;#} ‘good omen,’
+{#sucihnaM, sulakzaRaM;#} ‘bad omen,’ {#durlakzaRaM, duScihnaM, avacihnaM, avalakzaRaM,#}
+{#apaSakunaM -naH, duHSakunaM -naH, anizwasUcakacihnaM, aSuBalakzaRaM, aSuBa-#}
+{#cihnaM, amaNgalacihnaM, upaliNgaM;#} ‘interpretation of omens,’ {#SAkunikaM#}.
 <LEND>

@@ -1,29 +1,29 @@
 <L>11288<pc>498<k1>world<k2>world
 {@World,@}¦ {%s.%} {#viSvaM, jagat#} {%n.,%} {#BuvanaM, lokaH, ca-#}
-<div n="lb"/>{#-rAcaraM, trivizwapaM, aKilaM jagat, brahmAMqaM;#}
-<div n="lb"/>‘three w. s.’ {#triBuvanaM, trilokI, trElokyaM#}.
-<div n="lb"/>{@2 Earth,@} q. v.; ‘end of the w.’ {#ka-#}
-<div n="lb"/>{#-lpAMtaH#}. {@3@} {#lokaH, janaH,#} (pl. also). {@4@}
-<div n="lb"/>{#saMsAraH, BavaH, saMsfti#} {%f.,%} {#prapaMcaH, jIvayAtrA#}.
-<div n="lb"/>{@5@} {#lokAcAraH-mArgaH, janarIti#} {%f.,%} {#rUQi#} {%f.,%}
-<div n="lb"/>{#lOkikaM, lokaH;#} ‘in this w.’ {#iha;#} ‘in
-<div n="lb"/>the next w.’ {#aButra, paratra, pretya#} ‘the
-<div n="lb"/>next world’ {#para-preta-lokaH, lokAMtaraM;#} ‘of
-<div n="lb"/>this w.’ {#Ehika;#} ‘of the next w.’ {#pAra-#}
-<div n="lb"/>{#-trika-Amuzmika-pAralOkika-#} ({#kI#} {%f.%});
-<div n="lb"/>‘you are my all the w.’ {#tvaM mama jIvita-#}
-<div n="lb"/>{#-sarvasvIBUtaH;#} ‘renounce the w.’ {#saMnyas#}
-<div n="lb"/>4 P, {#vErAgyaM Baj#} 1 U; ‘aversion to w.;’
-<div n="lb"/>{#vErAgyaM;#} ‘knowing the ways of the w.’
-<div n="lb"/>{#lOkikajYa#} (S. 4); ‘snares of the w.’
-<div n="lb"/>{#mohapASaH, mAyAjAlaM-cakraM#}. {@-Worldly,@} {%a.%}
-<div n="lb"/>{#lOkika;#} ‘w. sages’ {#lOkikAH sADavaH;#}
-<div n="lb"/>({%s.%}) in comp; ‘w. tie’ {#saMsArataMtuH-ni-#}
-<div n="lb"/>{#-baMDanaM, BavapASaH#}. {@2@} {#Ehika, sAMsArika, EhalO-#}
-<div n="lb"/>{#-kika, prApaMcika#}. {@3@} (W.-minded), {#Ehika-#}
-<div n="lb"/>{#-dfzwi-budDi, saMsAranizwa, vizayAsaktacitta,#}
-<div n="lb"/>{#prapaMcAsakta;#} ‘w. wise’ {#saMsArajYAnin;#} ‘w.
-<div n="lb"/>wisdom’ {#saMsArajYAnaM, vyavahArajYAnaM#}.
-<div n="lb"/>{@-iness,@} {%s.%} {#saMsAranizWA, prapaMca-vizaya-Asakti#}
-<div n="lb"/>{%f.%} {@-Worldling,@} {%s. See%} {@Sensualist.@}
+{#-rAcaraM, trivizwapaM, aKilaM jagat, brahmAMqaM;#}
+‘three w. s.’ {#triBuvanaM, trilokI, trElokyaM#}.
+{@2 Earth,@} q. v.; ‘end of the w.’ {#ka-#}
+{#-lpAMtaH#}. {@3@} {#lokaH, janaH,#} (pl. also). {@4@}
+{#saMsAraH, BavaH, saMsfti#} {%f.,%} {#prapaMcaH, jIvayAtrA#}.
+{@5@} {#lokAcAraH-mArgaH, janarIti#} {%f.,%} {#rUQi#} {%f.,%}
+{#lOkikaM, lokaH;#} ‘in this w.’ {#iha;#} ‘in
+the next w.’ {#aButra, paratra, pretya#} ‘the
+next world’ {#para-preta-lokaH, lokAMtaraM;#} ‘of
+this w.’ {#Ehika;#} ‘of the next w.’ {#pAra-#}
+{#-trika-Amuzmika-pAralOkika-#} ({#kI#} {%f.%});
+‘you are my all the w.’ {#tvaM mama jIvita-#}
+{#-sarvasvIBUtaH;#} ‘renounce the w.’ {#saMnyas#}
+4 P, {#vErAgyaM Baj#} 1 U; ‘aversion to w.;’
+{#vErAgyaM;#} ‘knowing the ways of the w.’
+{#lOkikajYa#} (S. 4); ‘snares of the w.’
+{#mohapASaH, mAyAjAlaM-cakraM#}. {@-Worldly,@} {%a.%}
+{#lOkika;#} ‘w. sages’ {#lOkikAH sADavaH;#}
+({%s.%}) in comp; ‘w. tie’ {#saMsArataMtuH-ni-#}
+{#-baMDanaM, BavapASaH#}. {@2@} {#Ehika, sAMsArika, EhalO-#}
+{#-kika, prApaMcika#}. {@3@} (W.-minded), {#Ehika-#}
+{#-dfzwi-budDi, saMsAranizwa, vizayAsaktacitta,#}
+{#prapaMcAsakta;#} ‘w. wise’ {#saMsArajYAnin;#} ‘w.
+wisdom’ {#saMsArajYAnaM, vyavahArajYAnaM#}.
+{@-iness,@} {%s.%} {#saMsAranizWA, prapaMca-vizaya-Asakti#}
+{%f.%} {@-Worldling,@} {%s. See%} {@Sensualist.@}
 <LEND>

@@ -1,9 +1,9 @@
 <L>21208<pc>668<k1>split<k2>split
-<div n="lb"/>{@SPLIT:@}¦ <div n="I">I Intrans.: </div><div n="1">(1) {#sPuwati, pra-, vi-, pari-#}
-<div n="lb"/>({#sPuw,#} c. 1.), <div n="xe">{%heart is s. ting:%}</div> <div n="xs">{#sPuwati hfdayam,#}</div>
-<div n="lb"/>Mr. iii.; </div><div n="1">(2) {#dIryate, vi-,#} (pass. of {#dF#}),
-<div n="lb"/><div n="xe">{%sound of s. ting rock:%}</div> <div n="xs">{#vidIryamARASmaninAdaH,#}</div> Ki.</div>
-<div n="lb"/><div n="I">II Trans.,: {#sPowayati#} (c. of {#sPuw#}); </div><div n="1">(2)
-<div n="lb"/>{#vidArayati#} (c. of {#dF#}). </div><div n="I">III Subs.: </div><div n="1">(1) expr.
-<div n="lb"/>by verb; </div><div n="1">(2) {#Cidram#} (=hole)</div>
+{@SPLIT:@}¦ <div n="I">I Intrans.: </div><div n="1">(1) {#sPuwati, pra-, vi-, pari-#}
+({#sPuw,#} c. 1.), <div n="xe">{%heart is s. ting:%}</div> <div n="xs">{#sPuwati hfdayam,#}</div>
+Mr. iii.; </div><div n="1">(2) {#dIryate, vi-,#} (pass. of {#dF#}),
+<div n="xe">{%sound of s. ting rock:%}</div> <div n="xs">{#vidIryamARASmaninAdaH,#}</div> Ki.</div>
+<div n="I">II Trans.,: {#sPowayati#} (c. of {#sPuw#}); </div><div n="1">(2)
+{#vidArayati#} (c. of {#dF#}). </div><div n="I">III Subs.: </div><div n="1">(1) expr.
+by verb; </div><div n="1">(2) {#Cidram#} (=hole)</div>
 <LEND>

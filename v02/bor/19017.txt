@@ -1,4 +1,4 @@
 <L>19017<pc>588<k1>repeater<k2>repeater
-<div n="lb"/>{@REPEATER:@}¦ <div n="I">I Reciter: {#vyAhartf#} (f. {#rtrI#}). </div><div n="I">II
-<div n="lb"/>A watch: {#*horAvAdaH.#}</div>
+{@REPEATER:@}¦ <div n="I">I Reciter: {#vyAhartf#} (f. {#rtrI#}). </div><div n="I">II
+A watch: {#*horAvAdaH.#}</div>
 <LEND>

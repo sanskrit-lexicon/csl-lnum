@@ -1,5 +1,5 @@
 <L>19231<pc>596<k1>reunion<k2>reunion
-<div n="lb"/>{@REUNION:@}¦ <div n="I">I Lit.: {#punaHsaMyogaH#} and sim. comp.s.</div>
-<div n="lb"/><div n="I">II An assembly, meeting: q. v.: </div><div n="1">(1) {#saNgamaH;#}</div>
-<div n="lb"/><div n="1">(2) {#samAgamaH.#}</div>
+{@REUNION:@}¦ <div n="I">I Lit.: {#punaHsaMyogaH#} and sim. comp.s.</div>
+<div n="I">II An assembly, meeting: q. v.: </div><div n="1">(1) {#saNgamaH;#}</div>
+<div n="1">(2) {#samAgamaH.#}</div>
 <LEND>

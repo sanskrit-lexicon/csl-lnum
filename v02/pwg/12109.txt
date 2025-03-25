@@ -1,11 +1,11 @@
 <L>12109<pc>1-0975<k1>upaSAnti<k2>upaSAnti
-{#upaSAnti#}¦ (von {#Sam#} mit {#upa#}) <lex>f.</lex> {%das zur-Ruhe-Gelangen, Nachlassen, Aufhören%}: {#vedanopaSAnti#} 
-<ls>SUŚR. 1, 67, 4.</ls> {#dozocCrAyopaSAntyarTam#} 
-<ls>2, 4, 14. 371, 7. 433, 3.</ls> {#vipadAm#} 
-<ls>PAÑCAT. I, 416.</ls> {#kAmopa°#} 
-<ls>163.</ls> {#darpo°#} 
-<ls>HIT. II, 155.</ls> {#Bayopa°#} 
-<ls>RAGH. 8, 31.</ls> 
-<ls>KATHĀS. 7, 113. 9, 4. 24, 21.</ls> {#rogopa°#} 
-<ls>24, 167.</ls> <ls>AMAR. 65.</ls>
+{#upaSAnti#}¦ (von {#Sam#} mit {#upa#}) <lex>f.</lex> {%das zur-Ruhe-Gelangen, Nachlassen, Aufhören%}: {#vedanopaSAnti#}
+<ls>SUŚR. 1,67,4.</ls> {#dozocCrAyopaSAntyarTam#}
+<ls n="SUŚR.">2,4,14.</ls> <ls n="SUŚR. 2,">371,7.</ls> <ls n="SUŚR. 2,">433,3.</ls> {#vipadAm#}
+<ls>PAÑCAT. I,416.</ls> {#kAmopa°#}
+<ls n="PAÑCAT. I,">163.</ls> {#darpo°#}
+<ls>HIT. II,155.</ls> {#Bayopa°#}
+<ls>RAGH. 8,31.</ls>
+<ls>KATHĀS. 7,113.</ls> <ls n="KATHĀS.">9,4.</ls> <ls n="KATHĀS.">24,21.</ls> {#rogopa°#}
+<ls n="KATHĀS.">24,167.</ls> <ls>AMAR. 65.</ls>
 <LEND>

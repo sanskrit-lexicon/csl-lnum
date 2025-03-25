@@ -1,4 +1,4 @@
 <L>16994<pc>520<k1>pickaxe<k2>pickaxe
-<div n="lb"/>{@PICKAXE:@}¦ <div n="1">(1) {#pAzARadAraRaH, -RI;#} </div><div n="1">(2) {#pAzARaBedanI;#}</div>
-<div n="lb"/><div n="1">(3) {#waMkaH.#}</div>
+{@PICKAXE:@}¦ <div n="1">(1) {#pAzARadAraRaH, -RI;#} </div><div n="1">(2) {#pAzARaBedanI;#}</div>
+<div n="1">(3) {#waMkaH.#}</div>
 <LEND>

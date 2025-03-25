@@ -1,8 +1,8 @@
 <L>6005<pc>193<k1>detail<k2>detail
-<div n="lb"/>{@DETAIL@}¦ (v. t.): {#vistareRa#} <div n="xe">{%or%}</div> <div n="xs">{#vistarataH#}</div> <div n="xe">{%or%}</div> <div n="xs">{#kArtsyena kaTayati#}</div>
-<div n="lb"/>({#kaT,#} c. 10.) (=to tell: q. v.) <div n="xe">{%or%}</div> <div n="xs">{#varRayati#}</div>
-<div n="lb"/>(=to describe), {%d. to us the birth of Kārtika:%}
-<div n="lb"/>{#asmAkaM guhajanma kAtsyena brUhi,#} Mat.; <div n="xe">{%I want to%}
-<div n="lb"/>{%hear a d. ed account of it:%}</div> <div n="xs">{#vistareRa SrotumicCAmi,#}</div>
-<div n="lb"/>Mu. iv.
+{@DETAIL@}¦ (v. t.): {#vistareRa#} <div n="xe">{%or%}</div> <div n="xs">{#vistarataH#}</div> <div n="xe">{%or%}</div> <div n="xs">{#kArtsyena kaTayati#}</div>
+({#kaT,#} c. 10.) (=to tell: q. v.) <div n="xe">{%or%}</div> <div n="xs">{#varRayati#}</div>
+(=to describe), {%d. to us the birth of Kārtika:%}
+{#asmAkaM guhajanma kAtsyena brUhi,#} Mat.; <div n="xe">{%I want to%}
+{%hear a d. ed account of it:%}</div> <div n="xs">{#vistareRa SrotumicCAmi,#}</div>
+Mu. iv.
 <LEND>

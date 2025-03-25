@@ -1,11 +1,11 @@
 <L>8940<pc>398<k1>rice<k2>rice
 {@Rice,@}¦ {%s.%} (Plant) {#SAliH, kalamaH, nIvAraH,#}
-<div n="lb"/>{#vrIhiH#} (various kinds). {@2@} {#taMqulaH,#}
-<div n="lb"/>{#DAnyAsTi#} {%n.%} {@3@} (Boiled) {#annaM, odanaH-#}
-<div n="lb"/>{#-naM, BaktaM;#} {%See%} {@Food;@} ‘r. with milk and
-<div n="lb"/>sugar’ {#pAyasam, paramAnnaM;#} ‘scum of r.’
-<div n="lb"/>{#mAsaraH, AcAmaH, nisra#} ({#srA#}) {#vaH, BaktamaMqaH;#}
-<div n="lb"/>‘scorched r.’ {#missawA, dagDikA;#} ‘fried
-<div n="lb"/>r.’ {#DAnAH#} ({%f.%} pl.); ‘ear of r.’
-<div n="lb"/>{#kaRiSaH SaM, DAnyaSIrzakaH#}.
+{#vrIhiH#} (various kinds). {@2@} {#taMqulaH,#}
+{#DAnyAsTi#} {%n.%} {@3@} (Boiled) {#annaM, odanaH-#}
+{#-naM, BaktaM;#} {%See%} {@Food;@} ‘r. with milk and
+sugar’ {#pAyasam, paramAnnaM;#} ‘scum of r.’
+{#mAsaraH, AcAmaH, nisra#} ({#srA#}) {#vaH, BaktamaMqaH;#}
+‘scorched r.’ {#missawA, dagDikA;#} ‘fried
+r.’ {#DAnAH#} ({%f.%} pl.); ‘ear of r.’
+{#kaRiSaH SaM, DAnyaSIrzakaH#}.
 <LEND>

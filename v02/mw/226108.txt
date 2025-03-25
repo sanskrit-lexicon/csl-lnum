@@ -1,10 +1,10 @@
-<L>226108<pc>1114,3<k1>saMvas<k2>saM-vas<h>b<e>1
-<hom>b.</hom> <s>saM-</s>√ <hom>5.</hom> <s>vas</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-vasati</s>, <s>°te</s>, (<ab>inf.</ab> <s>-vastum</s>; <ab>pr. p.</ab> <s>-vasat</s>, or <s>-va/sAna</s> [<ab>q.v.</ab>]), 
+<L>226108<pc>1114,3<k1>saMvas<k2>saM-vas<e>1
+ <s>saM-</s>√ <hom>5.</hom> <s>vas</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-vasati</s>, <s>°te</s>, (<ab>inf.</ab> <s>-vastum</s>; <ab>pr. p.</ab> <s>-vasat</s>, or <s>-va/sAna</s> [<ab>q.v.</ab>]),
 <div n="to"/>to dwell together, live or associate with (<ab>instr.</ab> with and without <s>saha</s>, or <ab>acc.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to cohabit with (<ab>acc.</ab>), <ls>W.</ls>;
 <div n="to"/>to meet or assemble together, <ls>R.</ls>;
 <div n="to"/>to stay, abide, dwell in (<ab>loc.</ab>), <ls>MBh.</ls>; <ls>R.</ls>;
 <div n="to"/>to spend, pass (time), <ls>R.</ls>; <ls>BhP.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-vAsayati</s>, to cause to live together, bring together with (<ab>instr.</ab> with or without <s>saha</s>), <ls>RV.</ls>; <ls>TBr.</ls>; <ls>Lāṭy.</ls>;
-<div n="to"/>to provide with a lodging or dwelling, <ls>MBh.</ls><info verb="pre" cp="PĀ" parse="sam+vas"/>
+<div n="vp"/><ab>Caus.</ab> <s>-vAsayati</s>, to cause to live together, bring together with (<ab>instr.</ab> with or without <s>saha</s>), <ls>RV.</ls>; <ls>TBr.</ls>; <ls>Lāṭy.</ls>;
+<div n="to"/>to provide with a lodging or dwelling, <ls>MBh.</ls><info verb="pre" cp="PĀ" parse="sam+vas"/><info hui="b"/>
 <LEND>

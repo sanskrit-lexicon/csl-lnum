@@ -1,45 +1,45 @@
 <L>48149<pc>4-0947<k1>pratikUla<k2>pratikUla
-{#pratikUla#}¦ (1. {#pra° + kUla#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%widrig%} (eig. und übertr.; Gegens. {#anukUla#}) 
-<ls>AK. 3, 2, 33. 3, 4, 1, 7.</ls> 
-<ls>H. 1465.</ls> 
-<ls>HALĀY. 4, 58. 71. 5, 22.</ls> {#mAruta, vAyu#} 
-<ls>R. 3, 30, 31.</ls> 
-<ls>KATHĀS. 46, 139.</ls> {#dEva#} 
-<ls>HARIV. 11261.</ls> 
-<ls>R. 6, 8, 15.</ls> 
-<ls>RAGH. 6, 58.</ls> 
-<ls>ŚĀK. 7, 16.</ls> {#jyotIMzi#} 
-<ls>MBH. 3, 13085.</ls> {#buDa#} {%der Planet Mercur%} 
-<ls>HARIV. 1356.</ls> {#pratikUlaM taccakAra yamaSAsanam#} {%verkehrt%} 
-<ls>MBH. 13, 3403.</ls> {#vAkya#} {%Gegenrede%} 
-<ls>R. 3, 30, 14. 45, 1.</ls> {#vAkyamapratikUlam#} 
-<ls>44, 10.</ls> {#Sabda#} {%widrig, unangenehm%} 
-<ls>KUMĀRAS. 1, 46.</ls> {#aDarmajanyaM duHKaM syAtpratikUlaM sacetasAm#} 
-<ls>BHĀṢĀP. 144.</ls> {#dIpo netrAntarasyeva pratikUlAsi me dfQam#} 
-<ls>R. 6, 100, 17.</ls> {#(tava) karizyanti pratikUlAni#} {%was Euch unangenehm ist%} 
-<ls>MBH. 15, 348.</ls> {#AtmanaH pratikUlAni parezAM na samAcaret#} 
-<ls>Spr. 3047.</ls> {#na tatparasya saMdaDyAtpratikUlaM yadAtmanaH#} 
-<ls>1383.</ls> <ls>YĀJÑ. 3, 283.</ls> <ls>SUŚR. 2, 537, 7.</ls> <ls>MBH. 13, 126.</ls> <ls>R. 2, 21, 35.</ls> <ls>PRAB. 84, 18.</ls> {#°vedanIya#} 
-<ls>TARKAS. 53.</ls> {#pratikUlezu sTitAn#} {%in Opposition stehend%} 
-<ls>M. 9, 275.</ls> {%sich widersetzend, in Opposition stehend, widersetzlich, sich auflehnend wider%} (gen.); von Personen 
-<ls>M. 9, 80.</ls> 
-<ls>YĀJÑ. 2, 142.</ls> {#pratikUlaH pituryaSca na sa putraH satAM mataH#} 
-<ls>MBH. 1, 3523. 3, 1355.</ls> 
-<ls>R. 3, 44, 21. 45, 11.</ls> 
-<ls>BHĀG. P. 4, 28, 7.</ls> 
-<ls>MĀRK. P. 69, 60. 72, 7.</ls> 
-<ls>PRAB. 41, 16.</ls> 
-<ls>SĀH. 75, 22.</ls> {#(nahi) bOdDASca naH pratikUlAH syuH#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 7. 104.</ls> {#a°#} 
-<ls>ŚĀṄKH. GṚHY. 1, 12.</ls> {#sarvatrApratikUlastasya#} 
-<ls>MBH. 1, 741.</ls> {#pratikU/lam#} adv. {%entgegen, gegen die%}
+{#pratikUla#}¦ (1. {#pra° + kUla#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%widrig%} (eig. und übertr.; Gegens. {#anukUla#})
+<ls>AK. 3,2,33.</ls> <ls n="AK.">3,4,1,7.</ls>
+<ls>H. 1465.</ls>
+<ls>HALĀY. 4,58. 71. 5,22.</ls> {#mAruta, vAyu#}
+<ls>R. 3,30,31.</ls>
+<ls>KATHĀS. 46,139.</ls> {#dEva#}
+<ls>HARIV. 11261.</ls>
+<ls>R. 6,8,15.</ls>
+<ls>RAGH. 6,58.</ls>
+<ls>ŚĀK. 7,16.</ls> {#jyotIMzi#}
+<ls>MBH. 3,13085.</ls> {#buDa#} {%der Planet Mercur%}
+<ls>HARIV. 1356.</ls> {#pratikUlaM taccakAra yamaSAsanam#} {%verkehrt%}
+<ls>MBH. 13,3403.</ls> {#vAkya#} {%Gegenrede%}
+<ls>R. 3,30,14.</ls> <ls n="R. 3,">45,1.</ls> {#vAkyamapratikUlam#}
+<ls n="R. 3,">44,10.</ls> {#Sabda#} {%widrig, unangenehm%}
+<ls>KUMĀRAS. 1,46.</ls> {#aDarmajanyaM duHKaM syAtpratikUlaM sacetasAm#}
+<ls>BHĀṢĀP. 144.</ls> {#dIpo netrAntarasyeva pratikUlAsi me dfQam#}
+<ls>R. 6,100,17.</ls> {#(tava) karizyanti pratikUlAni#} {%was Euch unangenehm ist%}
+<ls>MBH. 15,348.</ls> {#AtmanaH pratikUlAni parezAM na samAcaret#}
+<ls>Spr. 3047.</ls> {#na tatparasya saMdaDyAtpratikUlaM yadAtmanaH#}
+<ls n="Spr.">1383.</ls> <ls>YĀJÑ. 3,283.</ls> <ls>SUŚR. 2,537,7.</ls> <ls>MBH. 13,126.</ls> <ls>R. 2,21,35.</ls> <ls>PRAB. 84,18.</ls> {#°vedanIya#}
+<ls>TARKAS. 53.</ls> {#pratikUlezu sTitAn#} {%in Opposition stehend%}
+<ls>M. 9,275.</ls> {%sich widersetzend, in Opposition stehend, widersetzlich, sich auflehnend wider%} (gen.); von Personen
+<ls>M. 9,80.</ls>
+<ls>YĀJÑ. 2,142.</ls> {#pratikUlaH pituryaSca na sa putraH satAM mataH#}
+<ls>MBH. 1,3523.</ls> <ls n="MBH.">3,1355.</ls>
+<ls>R. 3,44,21.</ls> <ls n="R. 3,">45,11.</ls>
+<ls>BHĀG. P. 4,28,7.</ls>
+<ls>MĀRK. P. 69,60. 72,7.</ls>
+<ls>PRAB. 41,16.</ls>
+<ls>SĀH. 75,22.</ls> {#(nahi) bOdDASca naH pratikUlAH syuH#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 7. 104.</ls> {#a°#}
+<ls>ŚĀṄKH. GṚHY. 1,12.</ls> {#sarvatrApratikUlastasya#}
+<ls>MBH. 1,741.</ls> {#pratikU/lam#} adv. {%entgegen, gegen die%}
 [Page4-0948]
-{%natürliche Weise, in umgekehrter Ordnung%} 
-<ls>AV. 5, 14, 13.</ls> 
-<ls>TS. 7, 5, 7, 4.</ls> 
-<ls>KĀṬH. 33, 7.</ls> {#pra° vavO vAyuH#} 
-<ls>R. 6, 90, 26.</ls> {#vartamAna#} 
-<ls>M. 10, 31.</ls> {#pratikUlena#} dass. 
-<ls>BHĀG. P. 3, 28, 9.</ls> 
+{%natürliche Weise, in umgekehrter Ordnung%}
+<ls>AV. 5,14,13.</ls>
+<ls>TS. 7,5,7,4.</ls>
+<ls>KĀṬH. 33,7.</ls> {#pra° vavO vAyuH#}
+<ls>R. 6,90,26.</ls> {#vartamAna#}
+<ls>M. 10,31.</ls> {#pratikUlena#} dass.
+<ls>BHĀG. P. 3,28,9.</ls>
 <div n="v">— Vgl. {#prAtikUlika#}.{# prAtikUlya#} .
 <LEND>

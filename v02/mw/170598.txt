@@ -1,3 +1,3 @@
-<L>170598<pc>847,1<k1>yamunABrAtf<k2>yamu/nA—BrAtf<e>3
-<s>yamu/nA—BrAtf</s> ¦ <lex>m.</lex> ‘brother of <ab n="Yamunā" slp1="yamunA">Y°</ab>’, <ab>N.</ab> of <s1 slp1="yama">Yama</s1>, <ls>L.</ls><info lex="m"/>
+<L>170598<pc>847,1<k1>yamunABrAtf<k2>yamunA—BrAtf<e>3
+<s>yamunA—BrAtf</s> ¦ <lex>m.</lex> ‘brother of <s1 n="Yamunā">Y°</s1>’, <ab>N.</ab> of <s1>Yama</s1>, <ls>L.</ls><info lex="m"/>
 <LEND>

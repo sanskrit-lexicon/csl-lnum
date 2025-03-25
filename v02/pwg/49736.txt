@@ -1,34 +1,33 @@
 <L>49736<pc>4-1066<k1>pravacana<k2>pravacana
-{#pravacana#}¦ (von {#vac#} mit {#pra#}) <lex>n.</lex> 
-<div n="1"> 1) {%das Reden, Sprechen%}; = {#prakfzwavacana#} 
-<ls>H. an. 4, 179.</ls> 
-<ls>MED. n. 191.</ls> <ls>Spr. 647.</ls> {#°pawu#} {%beredt%} 
-<ls>2257.</ls> 
+{#pravacana#}¦ (von {#vac#} mit {#pra#}) <lex>n.</lex>
+<div n="1"> 1) {%das Reden, Sprechen%}; = {#prakfzwavacana#}
+<ls>H. an. 4,179.</ls>
+<ls>MED. n. 191.</ls> <ls>Spr. 647.</ls> {#°pawu#} {%beredt%}
+<ls n="Spr.">2257.</ls>
 <div n="1">— 2) {%Vortrag,%}
 [Page4-1067]
-{%das Hersagen, mündliche Unterweisung, das Lehren%} 
-<ls>ŚAT. BR. 11, 5, 7, 1.</ls> 
-<ls>TAITT. UP. 1, 1, 3. 9.</ls> {#nAyamAtmA pravacanena laByo na meDayA na bahunA Srutena#} 
-<ls>KAṬHOP. 2, 23</ls> ?= <ls>MUṆḌ. UP. 3, 2, 3.</ls> <ls>PĀR. GṚHY. 2, 12.</ls> <ls>ṚV. PRĀT. 15, 16.</ls> <ls>JAIM. 1, 30.</ls> <ls>MBH. 12, 9500.</ls> <ls>BHĀG. P. 7, 15, 1.</ls> <ls>KULL.</ls> zu <ls>M. 2, 16.</ls> {#Darma°#} (s. auch bes.) 
-<ls>MBH. 8, 3458. fg. 12, 472.</ls> {#Cando'Nga°#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 7, 12,</ls> <ls>Śl. 50.</ls> 
-<div n="1">— 3) {%Ankündigung%} 
-<ls>LĀṬY. 1, 2, 7. 9. 3, 8, 12.</ls> 
-<div n="1">— 4) {%Ausdruck, Bezeichnung%} 
-<ls>NIR. 4, 15. 25.</ls> 
-<div n="1">— 5) {%die vorgetragene Lehre, die heiligen Schriften%}, insbes. {%die%} <is>Brāhmaṇa</is>: {#anUcAnaH pravacane sANge 'DItI#} 
-<ls>AK. 2, 7, 9.</ls> 
-<ls>H. 78.</ls> = {#Agama#} 
-<ls>H. an.</ls> <ls>MED.</ls> {#agryAH sarvezu vedezu sarvapravacanezu ca (pravacana = aNga#} 
-<ls>KULL.</ls>) <ls>M. 3, 184</ls> <ls>?= MBH. 13, 4305.</ls> {#uvAca vedAMScaturo mantrapravacanArcitAn#} 
-<ls>HARIV. 9662.</ls> 
-<ls>Ind. St. 1, 47. 50.</ls> <ls>MÜLLER, SL. 53, 1 v. u. 109. 320.</ls> {#samastapravacanavaMSaH#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 1093.</ls> {#pravacanaSabdena ArzaH pAWa ucyate#} 
-<ls>Schol.</ls> zu <ls>VS. PRĀT. 1, 132.</ls> {%Hauptlehre der Buddhisten%} 
-<ls>VYUTP. 43.</ls> {%die heiligen Schriften der%} <is>Jaina</is> 
-<ls>H. 245,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 6) enklit. nach einem Verbum finitum <is>gaṇa</is> {#gotrAdi#} zu 
-<ls>P. 8, 1, 27. 57.</ls> 
+{%das Hersagen, mündliche Unterweisung, das Lehren%}
+<ls>ŚAT. BR. 11,5,7,1.</ls>
+<ls>TAITT. UP. 1,1,3. 9.</ls> {#nAyamAtmA pravacanena laByo na meDayA na bahunA Srutena#}
+<ls>KAṬHOP. 2,23</ls> ?= <ls>MUṆḌ. UP. 3,2,3.</ls> <ls>PĀR. GṚHY. 2,12.</ls> <ls>ṚV. PRĀT. 15,16.</ls> <ls>JAIM. 1,30.</ls> <ls>MBH. 12,9500.</ls> <ls>BHĀG. P. 7,15,1.</ls> <ls>KULL.</ls> zu <ls>M. 2,16.</ls> {#Darma°#} (s. auch bes.)
+<ls>MBH. 8,3458. fg.</ls> <ls n="MBH.">12,472.</ls> {#Cando'Nga°#} Inschr. in
+<ls>Journ. of the Am. Or. S. 7,12, Śl. 50.</ls>
+<div n="1">— 3) {%Ankündigung%}
+<ls>LĀṬY. 1,2,7. 9. 3,8,12.</ls>
+<div n="1">— 4) {%Ausdruck, Bezeichnung%}
+<ls>NIR. 4,15. 25.</ls>
+<div n="1">— 5) {%die vorgetragene Lehre, die heiligen Schriften%}, insbes. {%die%} <is>Brāhmaṇa</is>: {#anUcAnaH pravacane sANge 'DItI#}
+<ls>AK. 2,7,9.</ls>
+<ls>H. 78.</ls> = {#Agama#}
+<ls>H. an.</ls> <ls>MED.</ls> {#agryAH sarvezu vedezu sarvapravacanezu ca (pravacana = aNga#}
+<ls>KULL.</ls>) <ls>M. 3,184</ls> = <ls>MBH. 13,4305.</ls> {#uvAca vedAMScaturo mantrapravacanArcitAn#}
+<ls>HARIV. 9662.</ls>
+<ls>Ind. St. 1,47. 50.</ls> <ls>MÜLLER, SL. 53,1</ls> v. u. <ls n="Ind. St. 1,">109. 320.</ls> {#samastapravacanavaMSaH#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 1093.</ls> {#pravacanaSabdena ArzaH pAWa ucyate#}
+<ls>Schol.</ls> zu <ls>VS. PRĀT. 1,132.</ls> {%Hauptlehre der Buddhisten%}
+<ls>VYUTP. 43.</ls> {%die heiligen Schriften der%} <is>Jaina</is>
+<ls>H. 245</ls>, <ls>Sch.</ls>
+<div n="1">— 6) enklit. nach einem Verbum finitum <is>gaṇa</is> {#gotrAdi#} zu
+<ls>P. 8,1,27.</ls> <ls n="P. 8,1,">57.</ls>
 <div n="v">— Vgl. {#sAMKya°, prAvacana#} .
 <LEND>

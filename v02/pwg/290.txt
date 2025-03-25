@@ -1,20 +1,20 @@
 <L>290<pc>1-0023<k1>aKila<k2>aKila
-{#aKila#}¦ (3. {#a + Kila#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%ganz, sämmtlich, all%} 
-<ls>AK. 3, 2, 14.</ls> 
-<ls>H. 1433.</ls> {#rAjYaSca DarmamaKilam#} 
-<ls>M. 1, 144.</ls> {#vedo 'KilaH#} 
-<ls>2, 6.</ls> {#mahImaKilAm#} 
-<ls>9, 67.</ls> {#aKilaM Danam#} 
-<ls>131. 132.</ls> {#ezo 'Kilo karmaviDirukto rAjYaH#} 
-<ls>325.</ls> {#trElokyamaKilam#} 
-<ls>VIŚV. 15, 16.</ls> {#jagadaKilam#} 
-<ls>BHAG. 15, 12.</ls> {#aKilaM cArimaRqalam#} 
-<ls>RAGH. 4, 4.</ls> {#aKilAM niSAm#} 
-<ls>VID. 48.</ls> {#yo veda DarmAnaKilAn#} 
-<ls>N. 6, 8.</ls> {#svaBAryA aKilAH#} 
-<ls>VID. 330.</ls> Erscheint bisweilen mit {#sarvaH etadDi matto 'Dijage sarvamezo 'KilaM muniH#} 
-<ls>M. 1, 59.</ls> {#sarvaM karmAKilaM pArTa jYAne parisamApyate#} 
-<ls>BHAG. 4, 33.</ls> Ueber {#aKila#} als Beiwort des 
-<ls>MAHĀBHĀRATA</ls> s. <ls>LIA. I, 485, N. 2.</ls> 
+{#aKila#}¦ (3. {#a + Kila#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%ganz, sämmtlich, all%}
+<ls>AK. 3,2,14.</ls>
+<ls>H. 1433.</ls> {#rAjYaSca DarmamaKilam#}
+<ls>M. 1,114.</ls> {#vedo 'KilaH#}
+<ls n="M.">2,6.</ls> {#mahImaKilAm#}
+<ls n="M.">9,67.</ls> {#aKilaM Danam#}
+<ls n="M. 9,">131.</ls> <ls n="M. 9,">132.</ls> {#ezo 'Kilo karmaviDirukto rAjYaH#}
+<ls n="M. 9,">325.</ls> {#trElokyamaKilam#}
+<ls>VIŚV. 15,16.</ls> {#jagadaKilam#}
+<ls>BHAG. 15,12.</ls> {#aKilaM cArimaRqalam#}
+<ls>RAGH. 4,4.</ls> {#aKilAM niSAm#}
+<ls>VID. 48.</ls> {#yo veda DarmAnaKilAn#}
+<ls>N. 6,8.</ls> {#svaBAryA aKilAH#}
+<ls>VID. 330.</ls> Erscheint bisweilen mit {#sarvaH etadDi matto 'Dijage sarvamezo 'KilaM muniH#}
+<ls>M. 1,59.</ls> {#sarvaM karmAKilaM pArTa jYAne parisamApyate#}
+<ls>BHAG. 4,33.</ls> Ueber {#aKila#} als Beiwort des
+<ls>MAHĀBHĀRATA</ls> s. <ls>LIA. I,485, N. 2.</ls>
 <div n="v">— Vgl. {#aKilena#} und {#niKila#} .
 <LEND>

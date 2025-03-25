@@ -1,3 +1,3 @@
-<L>232800.2<pc>1151,1<k1>saPatva<k2>sa-Pa—tva<h>b<e>3
-<s>sa-Pa—tva</s> <hom>b</hom> ¦ <lex>n.</lex><info phwparent="232800,saPa"/><info lex="n"/>
+<L>232800.2<pc>1151,1<k1>saPatva<k2>sa-Pa—tva<e>3
+<s>sa-Pa—tva</s> ¦ <lex>n.</lex><info phwparent="232800,saPa"/><info lex="n"/><info hui="b"/>
 <LEND>

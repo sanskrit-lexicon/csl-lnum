@@ -1,10 +1,10 @@
 <L>13282<pc>409<k1>law<k2>law
-<div n="lb"/>{@LAW:@}¦ <div n="I">I A command: {#SAsanam.#} </div><div n="I">II Natural:
-<div n="lb"/>{#niyamaH#} (?). </div><div n="I">III Statute: {#viDiH#} (?). </div><div n="I">IV Juris-
-<div n="lb"/>-prudence: q. v.: Ph.: <div n="xe">{%l. asks you:%}</div> <div n="xs">{#vyavahArastvAM #}
-<div n="lb"/>{# pfcCati,#}</div> Mr. ix.; <div n="xe">{%who has come to l. against%}
-<div n="lb"/>{%me:%}</div> <div n="xs">{#kena saha mama vyavahAraH#}</div> Mr.: v. Action, to
-<div n="lb"/>inform; {%against%} ({%the common%}) <div n="xe">{%l.:%}</div> <div n="xs">{#smftivirudDam#}</div> {%or%}
-<div n="lb"/>{#smftyapetena mArgeRa;#} <div n="xe">{%l. -breaker:%}</div> <div n="xs">{#viDiBedakaH#}</div> (?) (after
-<div n="lb"/>{#sTitiBettA#}).</div>
+{@LAW:@}¦ <div n="I">I A command: {#SAsanam.#} </div><div n="I">II Natural:
+{#niyamaH#} (?). </div><div n="I">III Statute: {#viDiH#} (?). </div><div n="I">IV Juris-
+-prudence: q. v.: Ph.: <div n="xe">{%l. asks you:%}</div> <div n="xs">{#vyavahArastvAM #}
+{# pfcCati,#}</div> Mr. ix.; <div n="xe">{%who has come to l. against%}
+{%me:%}</div> <div n="xs">{#kena saha mama vyavahAraH#}</div> Mr.: v. Action, to
+inform; {%against%} ({%the common%}) <div n="xe">{%l.:%}</div> <div n="xs">{#smftivirudDam#}</div> {%or%}
+{#smftyapetena mArgeRa;#} <div n="xe">{%l. -breaker:%}</div> <div n="xs">{#viDiBedakaH#}</div> (?) (after
+{#sTitiBettA#}).</div>
 <LEND>

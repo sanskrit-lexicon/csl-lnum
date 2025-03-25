@@ -1,5 +1,5 @@
 <L>217<pc>009<k1>across<k2>across
-<div n="lb"/>{@ACROSS@}¦ (prep.): Ph. <div n="xe">{%I will go a. the river.%}</div> <div n="xs">{#nadI-#}
-<div n="lb"/>{#pAraM gamizyAmi;#}</div> <div n="xe">{%a bridge has been laid a. the%}
-<div n="lb"/>{%Son%}</div> <div n="xs">{#*Sonasyopari seturbabanDe.#}</div>
+{@ACROSS@}¦ (prep.): Ph. <div n="xe">{%I will go a. the river.%}</div> <div n="xs">{#nadI-#}
+{#pAraM gamizyAmi;#}</div> <div n="xe">{%a bridge has been laid a. the%}
+{%Son%}</div> <div n="xs">{#*Sonasyopari seturbabanDe.#}</div>
 <LEND>

@@ -1,11 +1,11 @@
 <L>15591<pc>478<k1>number<k2>number
-<div n="lb"/>{@NUMBER@}¦ (v.): <div n="I">I To count: q. v.: {#saMKyAti, #}
-<div n="lb"/>{# pari-,#} ({#KyA,#} c. 2.), {%by n.ing one, two, three:%}
-<div n="lb"/>{#ekA dve tisna iti saMKyAnena,#} M. n. </div><div n="I">II To give
-<div n="lb"/>the n. of, perh. {#saMKyAti; saMKyAM karoti,#} Mah.</div>
-<div n="lb"/><div n="I">III To reckon as one of a n.: </div><div n="1">(1) {#saMKyAti;#}</div>
-<div n="lb"/><div n="1">(2) expr. by {#saMKyA,#} <div n="xe">{%or to n. above men:%}</div> <div n="xs">{#manuzya-#}
-<div n="lb"/>{#saMKyAmativartituM vA,#}</div> Ki. iii, 40. </div><div n="I">IV To amount
-<div n="lb"/>to: expr. by {#saMKyA,#} <div n="xe">{%n.ing five thousand:%}</div> <div n="xs">{#paYca-#}
-<div n="lb"/>{#sahasrasaMKya#}</div> (f. {#KyA#}), {#-ka#} (f. {#-kA#}).</div>
+{@NUMBER@}¦ (v.): <div n="I">I To count: q. v.: {#saMKyAti, #}
+{# pari-,#} ({#KyA,#} c. 2.), {%by n.ing one, two, three:%}
+{#ekA dve tisna iti saMKyAnena,#} M. n. </div><div n="I">II To give
+the n. of, perh. {#saMKyAti; saMKyAM karoti,#} Mah.</div>
+<div n="I">III To reckon as one of a n.: </div><div n="1">(1) {#saMKyAti;#}</div>
+<div n="1">(2) expr. by {#saMKyA,#} <div n="xe">{%or to n. above men:%}</div> <div n="xs">{#manuzya-#}
+{#saMKyAmativartituM vA,#}</div> Ki. iii, 40. </div><div n="I">IV To amount
+to: expr. by {#saMKyA,#} <div n="xe">{%n.ing five thousand:%}</div> <div n="xs">{#paYca-#}
+{#sahasrasaMKya#}</div> (f. {#KyA#}), {#-ka#} (f. {#-kA#}).</div>
 <LEND>

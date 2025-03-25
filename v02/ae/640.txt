@@ -1,8 +1,8 @@
 <L>640<pc>024<k1>attire<k2>attire
 {@Attire,@}¦ {%s.%} {#vezaH, veSaH, vastraM, pariDAnaM, ABaraRaM,#}
-<div n="lb"/>{#paricCadaH, nepaTyaM, alaMkAraH;#} ‘richly attir-
-<div n="lb"/>-ed’ {#gfhItamahArGavezaH, udAra-Arya-nepaTyaH#}.
-<div n="lb"/>{%-v. t.%} ({#vastreRa#}) {#AcCad#} 10, {#vezwa#} 1 A, {#saMvye#}
-<div n="lb"/>1 P. {@2@} {#BUz#} 10, {%See%} {@Adorn,@} ‘a. oneself’
-<div n="lb"/>{#vas#} 2 A; a. ing business’ {#nepaTyaviDAnaM#}.
+{#paricCadaH, nepaTyaM, alaMkAraH;#} ‘richly attir-
+-ed’ {#gfhItamahArGavezaH, udAra-Arya-nepaTyaH#}.
+{%-v. t.%} ({#vastreRa#}) {#AcCad#} 10, {#vezwa#} 1 A, {#saMvye#}
+1 P. {@2@} {#BUz#} 10, {%See%} {@Adorn,@} ‘a. oneself’
+{#vas#} 2 A; a. ing business’ {#nepaTyaviDAnaM#}.
 <LEND>

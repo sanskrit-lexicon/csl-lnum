@@ -1,28 +1,24 @@
 <L>99827<pc>7-0217<k1>SI<k2>SI<h>1
-1. {#SI#}¦, {#SI/yate#} (Nebenform von 2. {#Sad#} nach den Grammatikern) 
-<ls>P. 7, 3, 78. 1, 3, 60.</ls> 
-<ls>VOP. 8, 70.</ls> {%ausfallen%}: {#yadaSva^sya\ lomA^ni\ SIya^nte#} 
-<ls>TBR. 3, 9, 4, 4.</ls> 
-<ls>ŚAT. BR. 7, 4, 2, 11.</ls> {%weichen, schwinden, zu Grunde gehen%} 
-<ls>Spr. (II) 3032.</ls> {#aSIyata nfmAMsAdAM balam#} 
-<ls>BHAṬṬ. 17, 77.</ls> {#SIyamAnAnDakArezu#} 
-<ls>8, 36.</ls>
-
-<div n="p">— {#ati#} {%hinausfallen über%}: {#SamyAm#} 
-<ls>KĀṬH. 15, 1.</ls> {%herauskommen aus%} so v. a. {%verlassen%}; mit acc. 
-<ls>CHĀND. UP. 3, 12, 2. fgg.</ls>
-
-<div n="p">— {#aBi#} {%herabfallen auf%}: {#pa\rRaM vana\spate^riva . a\Bi na^H SIyatAM ra\yiH#} 
-<ls>TBR. 3, 7, 14, 5.</ls>
-
-<div n="p">— {#ava#} {%niederfallen, abfallen%}: {#SaM te^ pru\zvAva^ SIyatAm#} 
-<ls>AV. 18, 3, 60.</ls> {#ye pra\tyaYca\H SamyA^yA ava\SIya^nte#} 
-<ls>TS. 1, 8, 1, 1.</ls> 
-<ls>ŚAT. BR. 5, 2, 3, 2.</ls> 
-<ls>KĀṬH. 15, 1.</ls> {#puzpARi#} 
-<ls>PAÑCAV. BR. 8, 4, 1.</ls>
-
-<div n="p">— {#nis#} {%zerfallen, abfallen%} 
-<ls>KAUŚ. 83.</ls> {#niHSIyatAmayamiti niHSIyamAnamAstfRAti#} 
-<ls>85. fg.</ls>
+1. {#SI#}¦, {#SI/yate#} (Nebenform von 2. {#Sad#} nach den Grammatikern)
+<ls>P. 7,3,78.</ls> <ls n="P.">1,3,60.</ls>
+<ls>VOP. 8,70.</ls> {%ausfallen%}: {#yadaSva^sya\ lomA^ni\ SIya^nte#}
+<ls>TBR. 3,9,4,4.</ls>
+<ls>ŚAT. BR. 7,4,2,11.</ls> {%weichen, schwinden, zu Grunde gehen%}
+<ls>Spr. (II) 3032.</ls> {#aSIyata nfmAMsAdAM balam#}
+<ls>BHAṬṬ. 17,77.</ls> {#SIyamAnAnDakArezu#}
+<ls n="BHAṬṬ.">8,36.</ls>
+<div n="p">— {#ati#} {%hinausfallen über%}: {#SamyAm#}
+<ls>KĀṬH. 15,1.</ls> {%herauskommen aus%} so v. a. {%verlassen%}; mit acc.
+<ls>CHĀND. UP. 3,12,2. fgg.</ls>
+<div n="p">— {#aBi#} {%herabfallen auf%}: {#pa\rRaM vana\spate^riva . a\Bi na^H SIyatAM ra\yiH#}
+<ls>TBR. 3,7,14,5.</ls>
+<div n="p">— {#ava#} {%niederfallen, abfallen%}: {#SaM te^ pru\zvAva^ SIyatAm#}
+<ls>AV. 18,3,60.</ls> {#ye pra\tyaYca\H SamyA^yA ava\SIya^nte#}
+<ls>TS. 1,8,1,1.</ls>
+<ls>ŚAT. BR. 5,2,3,2.</ls>
+<ls>KĀṬH. 15,1.</ls> {#puzpARi#}
+<ls>PAÑCAV. BR. 8,4,1.</ls>
+<div n="p">— {#nis#} {%zerfallen, abfallen%}
+<ls>KAUŚ. 83.</ls> {#niHSIyatAmayamiti niHSIyamAnamAstfRAti#}
+<ls n="KAUŚ.">85. fg.</ls>
 <LEND>

@@ -1,5 +1,5 @@
 <L>15622<pc>479<k1>nutmeg<k2>nutmeg
-<div n="lb"/>{@NUTMEG:@}¦ <div n="I">I The plant: {#jAtiH#} <div n="xe">{%or%}</div> <div n="xs">{#jAtI.#}</div> </div><div n="I">II
-<div n="lb"/>The fruit: </div><div n="1">(1) {#jAtIPalam;#} </div><div n="1">(2) {#jAtikozam#}
-<div n="lb"/>({#Sam#}).</div>
+{@NUTMEG:@}¦ <div n="I">I The plant: {#jAtiH#} <div n="xe">{%or%}</div> <div n="xs">{#jAtI.#}</div> </div><div n="I">II
+The fruit: </div><div n="1">(1) {#jAtIPalam;#} </div><div n="1">(2) {#jAtikozam#}
+({#Sam#}).</div>
 <LEND>

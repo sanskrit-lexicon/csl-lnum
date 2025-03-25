@@ -1,9 +1,9 @@
 <L>20414<pc>638<k1>shoot<k2>shoot
-<div n="lb"/>{@SHOOT@}¦ (v. i.): <div n="I">I To discharge a missile:
-<div n="lb"/>{#AgneyAstraM#} <div n="xe">{%or%}</div> <div n="xs">{#SaraM#}</div> etc. {#muYcati,#} etc. </div><div n="I">II As pain:
-<div n="lb"/>{#viDyate, pra-, vipra-#} (pass. of {#vyaD#} = to pierce). <div n="xe">{%S.%}
-<div n="lb"/>{%ing pain:%}</div> <div n="xs">{#SUla#}</div> (mn.). </div><div n="I">III To germinate:</div>
-<div n="lb"/><div n="1">(1) by subs., {%does not seem about to s. forth:%}
-<div n="lb"/>{#na ca prarohABimuKo'pi dfSyate,#} Ku. v. 60.; </div><div n="1">(2)
-<div n="lb"/>{#aNkurayati#} (nomi.): v. Also to come out.</div>
+{@SHOOT@}¦ (v. i.): <div n="I">I To discharge a missile:
+{#AgneyAstraM#} <div n="xe">{%or%}</div> <div n="xs">{#SaraM#}</div> etc. {#muYcati,#} etc. </div><div n="I">II As pain:
+{#viDyate, pra-, vipra-#} (pass. of {#vyaD#} = to pierce). <div n="xe">{%S.%}
+{%ing pain:%}</div> <div n="xs">{#SUla#}</div> (mn.). </div><div n="I">III To germinate:</div>
+<div n="1">(1) by subs., {%does not seem about to s. forth:%}
+{#na ca prarohABimuKo'pi dfSyate,#} Ku. v. 60.; </div><div n="1">(2)
+{#aNkurayati#} (nomi.): v. Also to come out.</div>
 <LEND>

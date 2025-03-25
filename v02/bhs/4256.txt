@@ -1,12 +1,3 @@
 <L>4256<pc>160,2<k1>osarati<k2>osarati<h>1
-1 {@osarati@}¦ (= Pali id. or avasarati; cf. prec.; see
-<div n="lb">{@avasarati@} 1, and for 2 osarati see s.v. {@avaśirati@}), ({@1@})
-<div n="lb">{%enters, approaches, arrives%}: Mv ii.108.7 kumāro siṃhasya
-<div n="lb">va (? mss. ca) osarantasya śabdaṃ śṛṇvati; iii.453.3 (vs)
-<div n="lb">na te koṣṭhesmiṃ (so read with 1 ms.) osaranti (the Pali
-<div n="lb">version, Jāt. v.252.20, has upenti); ({@2@}) caus. osārayati =
-<div n="lb">Pali osāreti, {%restores%} (a monk to good standing in the
-<div n="lb">order): osārayantu mām āyuṣmantaḥ MSV ii.115.2, 14;
-<div n="lb">116.7, 20; 192.15; osāryate 179.12 f. (prose). See also
-<div n="lb">{@utsārayati, vosārayati@}.
+<hom>1</hom> {@osarati@}¦ (= <lang>Pali</lang> <ab>id.</ab> or avasarati; <ab>cf.</ab> <ab>prec.</ab>; see {@avasarati@} 1, and for <hom>2</hom> osarati see <ab>s.v.</ab> {@avaśirati@}), ({@1@}) {%enters, approaches, arrives%}: <ls>Mv</ls> 〔ii.108.7〕 kumāro siṃhasya va (? <ab>mss.</ab> ca) osarantasya śabdaṃ śṛṇvati; 〔iii.453.3〕 (<ab>vs</ab>) na te koṣṭhesmiṃ (so read with 1 <ab>ms.</ab>) osaranti (the <lang>Pali</lang> version, <ls>Jāt.</ls> 〔v.252.20〕, has upenti); ({@2@}) <lex>caus.</lex> osārayati = <lang>Pali</lang> osāreti, {%restores%} (a monk to good standing in the order): osārayantu mām āyuṣmantaḥ <ls>MSV</ls> 〔ii.115.2, 14〕; 〔116.7, 20〕; 〔192.15〕; osāryate 〔179.12 f.〕 (prose). See also {@utsārayati, vosārayati@}.
 <LEND>

@@ -1,49 +1,47 @@
-<L>132155<pc>7233-3<k1>svap<k2>svap<h>1<e>500
-1. {#svap#}¦ , {#sva/piti#} (auch {#svapa#} , {#sva/ptu#} , {#svapta#} , metrisch auch <ab>Med.</ab> {#supyate#} <ab>Pass.</ab>)
-<div n="1">— 1) {%schlafen , einschlafen.%} {#varzaSatam#} so v.a. {%den ewigen Schlaf schlafen%} , {#*paYcAlAn#} {%bei den P. schlafen.%}
-<div n="1">— 2) {%sich niederlegen auf%} (<ab>Loc.</ab>).
-<div n="1">— 3) {%den ewigen Schlaf schlafen , todt daliegen.%}
-<div n="1">— 4) {#suzupva/Ms#} und {#suzupARa/#} (<ls>7,9</ls>) {%schlafend.%}
-<div n="1">— 5) {#supta/#}
-<div n="2">— a) {%eingeschlafen , schlafend.%}
-<div n="2">— b) {%der sich zum Schlafen niedergelegt hat.%}
-<div n="2">— c) {%eingeschlafen%} , so v.a. {%taub , empfindungslos.%}
-<div n="2">— d) {%schlafend%} vom Blumen , so v.a. {%ruhend , unthätig , latent.%}
+<L>132155<pc>7-233-c<k1>svap<k2>svap<h>1
+<hom>1.</hom> √{#svap#}¦, {#sva/piti#} (auch {#svapa#}, {#sva/ptu#}, {#svapta#}, metrisch auch <ab>Med.</ab> {#supyate#} <ab>Pass.</ab>)
+<div n="1">— 1〉 {%schlafen, einschlafen%}. {#varzaSatam#} so <ab>v. a.</ab> {%den ewigen Schlaf schlafen,%} *{#paYcAlAn#} {%bei den%} <is n="Pañcālā">P.</is> {%schlafen%}.
+<div n="1">— 2〉 {%sich niederlegen auf%} (<ab>Loc.</ab>).
+<div n="1">— 3〉 {%den ewigen Schlaf schlafen, todt daliegen%}.
+<div n="1">— 4〉 {#suzupva/Ms#} und {#suzupARa/#} (<ls n="Chr.">7,9</ls>) {%schlafend%}.
+<div n="1">— 5〉 {#supta/#}
+<div n="2">— a〉 {%eingeschlafen, schlafend%}.
+<div n="2">— b〉 {%der sich zum Schlafen niedergelegt hat%}.
+<div n="2">— c〉 {%eingeschlafen,%} so <ab>v. a.</ab> {%taub, empfindungslos%}.
+<div n="2">— d〉 {%schlafend%} vom Blumen, so <ab>v. a.</ab> {%ruhend, unthätig, latent%}.
 <div n="m">— <ab>Caus.</ab> {#svApayati#} und {#svapayati#} (metrisch)
-<div n="1">— 1) {%einschläfern.%} {#asUzupat#} <ls>HEM.PAR.2,174.</ls>
-<div n="1">— 2) {%zum ewige Schlaf bringen , tödten.%}
-<div n="1">— 3) {%zur Ruhe%}
-[Page7234-1]
-{%bringen.%}
-<div n="m">— <ab>Desid.</ab> {#suzupsati#} {%schlafen wollen.%}
-<div n="m">— *<ab>Intens.</ab> {#sozupyate#} , {#sAsvapIti#} , {#sAsvapti , zozupIti#} , {#sozopti#}.
+<div n="1">— 1〉 {%einschläfern%}. {#asUzupat#} <ls>HEM. PAR. 2,174</ls>.
+<div n="1">— 2〉 {%zum ewige Schlaf bringen, tödten%}.
+<div n="1">— 3〉 {%zur Ruhe [Page7-234-a] bringen%}.
+<div n="m">— <ab>Desid.</ab> {#suzupsati#} {%schlafen wollen%}.
+<div n="m">— *<ab>Intens.</ab> {#sozupyate#}, {#sAsvapIti#}, {#sAsvapti, zozupIti#}, {#sozopti#}.
 <div n="p">— Mit {#anu#} in {#anuzvA/pam#}.
-<div n="p">— Mit {#ava#} , {#avasupta#} {%schlafend.%}
-<div n="p">— Mit {#*dus#} (der Anlaut geht in {#za#} über) {%schlecht schlafen , böse Träume haben.%}
+<div n="p">— Mit {#ava#}, {#avasupta#} {%schlafend%}.
+<div n="p">— Mit *{#dus#} (der Anlaut geht in {#za#} über) {%schlecht schlafen, böse Träume haben%}.
 <div n="p">— Mit {#ni#}
-<div n="1">— 1) {%einschlafen.%}
-<div n="1">— 2) so v.a. {%den Tod finden.%}
+<div n="1">— 1〉 {%einschlafen%}.
+<div n="1">— 2〉 so <ab>v. a.</ab> {%den Tod finden%}.
 <div n="m">— <ab>Caus.</ab>
-<div n="1">— 1) {%einschläfern.%}
-<div n="1">— 2) so v.a. {%tödten.%}
-<div n="p">— Mit {#*nis#} (der Anlaut geht in {#za#} über).
+<div n="1">— 1〉 {%einschläfern%}.
+<div n="1">— 2〉 so <ab>v. a.</ab> {%tödten%}.
+<div n="p">— Mit *{#nis#} (der Anlaut geht in {#za#} über).
 <div n="p">— Mit {#pra#}
-<div n="1">— 1) {%einschlafen , schlafen.%}
-<div n="1">— 2) {%sich schlafen legen.%}
-<div n="1">— 3) {#prasupta#}
-<div n="2">— a) {%eingeschlafen , schlafend.%}
-<div n="2">— b) {%geschlafen habend.%} <ls>155,1.</ls>
-<div n="2">— c) {%sich zum Schlafen niedergelegt habend%} <ls>PAÑCAT.117,12.</ls>
-<div n="2">— d) {%eingeschlafen%} , so v.a. {%taub , empfindungslos.%}
-<div n="2">— e) {%schlafend%} , so v.a. {%ruhend , unthätig , latent.%}
-<div n="m">— <ab>Caus.</ab> (metrisch auch <ab>Med.</ab>) {%einschläfern , schlafen machen.%}
-<div n="p">— Mit {#aBipra#} , {#°supta#} {%eingeschlafen , schlafend ; ruhend%} <ls>R.ed.Bomb.3,66,18</ls> ( {#jYAna#}).
-<div n="p">— Mit {#saMpra#} , {#°supta#}
-<div n="1">— 1) <ab>dass.</ab> <ls>47,21.</ls>
-<div n="1">— 2) von Blumen so v.a. {%die Kelche geschlossen habend.%}
-<div n="p">— Mit {#prati#} , {#°supta#} {%eingeschlafen , schlafend.%}
-<div n="p">— Mit {#vi#} , {#vizupta#} {%eingeschlummert%} <ls>ĀPAST.ŚR.6,27,1.</ls>
-<div n="p">— Mit {#sam#} , {#saMsupta#}
-<div n="1">— 1) {%eingeschlafen , schlafend.%}
-<div n="1">— 2) {%sich gelegt habend , gewichen%} ( {#darpa#}) <ls>JĀTAKAM.9,13.</ls>
+<div n="1">— 1〉 {%einschlafen, schlafen%}.
+<div n="1">— 2〉 {%sich schlafen legen%}.
+<div n="1">— 3〉 {#prasupta#}
+<div n="2">— a〉 {%eingeschlafen, schlafend%}.
+<div n="2">— b〉 {%geschlafen habend%}. <ls n="Chr.">155,1</ls>.
+<div n="2">— c〉 {%sich zum Schlafen niedergelegt habend%} <ls>PAÑCAT. 117,12</ls>.
+<div n="2">— d〉 {%eingeschlafen,%} so <ab>v. a.</ab> {%taub, empfindungslos%}.
+<div n="2">— e〉 {%schlafend,%} so <ab>v. a.</ab> {%ruhend, unthätig, latent%}.
+<div n="m">— <ab>Caus.</ab> (metrisch auch <ab>Med.</ab>) {%einschläfern, schlafen machen%}.
+<div n="p">— Mit {#aBipra#}, {#°supta#} {%eingeschlafen, schlafend; ruhend%} <ls>R. ed. Bomb. 3,66,18</ls> ({#jYAna#}).
+<div n="p">— Mit {#saMpra#}, {#°supta#}
+<div n="1">— 1〉 <ab>dass.</ab> <ls n="Chr.">47,21</ls>.
+<div n="1">— 2〉 von Blumen so <ab>v. a.</ab> {%die Kelche geschlossen habend%}.
+<div n="p">— Mit {#prati#}, {#°supta#} {%eingeschlafen, schlafend%}.
+<div n="p">— Mit {#vi#}, {#vizupta#} {%eingeschlummert%} <ls>ĀPAST. ŚR. 6,27,1</ls>.
+<div n="p">— Mit {#sam#}, {#saMsupta#}
+<div n="1">— 1〉 {%eingeschlafen, schlafend%}.
+<div n="1">— 2〉 {%sich gelegt habend, gewichen%} ({#darpa#}) <ls>JĀTAKAM. 9,13</ls>.
 <LEND>

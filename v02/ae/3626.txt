@@ -1,7 +1,7 @@
 <L>3626<pc>139<k1>equinox<k2>equinox
 {@Equinox,@}¦ {%s.%} {#vizuvaM, vizuvat#} {%n.;%} ‘the
-<div n="lb"/>vernal e.’ {#mahAvizuvaM, haripadaM;#} ‘the
-<div n="lb"/>autumnal e.’ {#vizupadaM, jalavizuvaM;#}
-<div n="lb"/>{@-Equinoctial,@} {%a.%} {#vizuvIya;#} ‘e. line’
-<div n="lb"/>{#vizuvadvfttaM, vizumaMqalaM;#} ‘e. point’ {#ayanaM#}.
+vernal e.’ {#mahAvizuvaM, haripadaM;#} ‘the
+autumnal e.’ {#vizupadaM, jalavizuvaM;#}
+{@-Equinoctial,@} {%a.%} {#vizuvIya;#} ‘e. line’
+{#vizuvadvfttaM, vizumaMqalaM;#} ‘e. point’ {#ayanaM#}.
 <LEND>

@@ -1,17 +1,17 @@
 <L>43180<pc>4-0552<k1>pariSeza<k2>pariSeza
-{#pariSeza#}¦ (von {#Siz#} mit {#pari#}) 
-<div n="1"> 1) <lex>adj.</lex> {%übrig%} 
-<ls>ŚĀṄKH. ŚR. 12, 7, 1.</ls> {#°zaM cezwitaM dvipahayAnAm#} {%sonstig%} 
-<ls>VARĀH. BṚH. S. 43, 19. 85, 13. 94, 4.</ls> {#°SAstra#} {%ein Ergänzungsbuch, ein Supplement zu einem Werke%} 
-<ls>MÜLLER, SL. 250.</ls> 
-<div n="1">— 2) <lex>m.</lex> <lex>n.</lex> {%das Uebrigbleiben%}: {#pariSezAt#} {%weil diese übrig bleiben%} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 109.</ls> {%Rest%} 
-<ls>ŚĀṄKH. ŚR. 18, 24, 23.</ls> {#ucCeza°#} 
-<ls>MBH. 13, 1621.</ls> {#tatpariSezam#} {%der Rest davon%} 
-<ls>VARĀH. BṚH. S. 102, 3.</ls> {%Ergänzung, Supplement%}: {#tataH SatapaTaM kftsnaM sarahasyaM sasaMgraham . cakre sapariSezaM ca#} 
-<ls>MBH. 12, 11739.</ls> {#pariSezeRa#} {%mit dem Rest, bis auf den Rest, vollständig%}: {#hutvAjyaM pariSezeRa yaddravyamupakalpitam#} 
-<ls>GṚHYASAṂGR. 2, 8.</ls> {#Acakzva#} 
-<ls>MBH. 4, 519.</ls> {#parI°#} {%Ueberrest%} 
-<ls>AIT. BR. 7, 5.</ls> 
+{#pariSeza#}¦ (von {#Siz#} mit {#pari#})
+<div n="1"> 1) <lex>adj.</lex> {%übrig%}
+<ls>ŚĀṄKH. ŚR. 12,7,1.</ls> {#°zaM cezwitaM dvipahayAnAm#} {%sonstig%}
+<ls>VARĀH. BṚH. S. 43,19. 85,13. 94,4.</ls> {#°SAstra#} {%ein Ergänzungsbuch, ein Supplement zu einem Werke%}
+<ls>MÜLLER, SL. 250.</ls>
+<div n="1">— 2) <lex>m.</lex> <lex>n.</lex> {%das Uebrigbleiben%}: {#pariSezAt#} {%weil diese übrig bleiben%}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 109.</ls> {%Rest%}
+<ls>ŚĀṄKH. ŚR. 18,24,23.</ls> {#ucCeza°#}
+<ls>MBH. 13,1621.</ls> {#tatpariSezam#} {%der Rest davon%}
+<ls>VARĀH. BṚH. S. 102,3.</ls> {%Ergänzung, Supplement%}: {#tataH SatapaTaM kftsnaM sarahasyaM sasaMgraham . cakre sapariSezaM ca#}
+<ls>MBH. 12,11739.</ls> {#pariSezeRa#} {%mit dem Rest, bis auf den Rest, vollständig%}: {#hutvAjyaM pariSezeRa yaddravyamupakalpitam#}
+<ls>GṚHYASAṂGR. 2,8.</ls> {#Acakzva#}
+<ls>MBH. 4,519.</ls> {#parI°#} {%Ueberrest%}
+<ls>AIT. BR. 7,5.</ls>
 <div n="v">— Vgl. {#a°, pAriSezya#} .
 <LEND>

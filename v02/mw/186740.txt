@@ -1,3 +1,3 @@
-<L>186740<pc>921,3<k1>varuRya<k2>varuRya/<e>2
-<s>varuRya/</s> ¦ <lex>mf(<s>A</s>)n.</lex> coming from <s1 slp1="varuRa">Varuṇa</s1>, belonging to him &c., <ls>RV.</ls>; <ls>ŚBr.</ls> (<lex type="hwinfo">f.</lex> <ab>pl.</ab> with <s>ApaH</s>, ‘stagnant water’). <info lex="m:f#A:n"/>
+<L>186740<pc>921,3<k1>varuRya<k2>varuRya^<e>2
+<s>varuRya^</s> ¦ <lex>mf(<s>A</s>)n.</lex> coming from <s1>Varuṇa</s1>, belonging to him &c., <ls>RV.</ls>; <ls>ŚBr.</ls> (<lex type="hwinfo">f.</lex> <ab>pl.</ab> with <s>ApaH</s>, ‘stagnant water’). <info lex="m:f#A:n"/>
 <LEND>

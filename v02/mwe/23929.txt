@@ -1,6 +1,6 @@
 <L>23929<pc>641-a<k1>publicity<k2>publicity
-<div n="lb"/>PUBLICITY¦, {%s.%} {#prakASatA, lokaprakASatA, lokaprakASaH janaprakASaH, prakASaH,#}
-<div n="lb"/>{#prAkawyaM, lokaprAkawyaM, prasidDiH#} {%f.,%} {#lokaprasidDiH#} {%f.,%} {#prasidDatA, loka-#}
-<div n="lb"/>{#prasidDatA -tvaM, lokaviSrutiH#} {%f.,%} {#viSrutiH, janaprasidDiH#} {%f.,%} {#praKyAtiH#} {%f.,%}
-<div n="lb"/>{#viKyAtiH#} {%f.,%} {#KyAtiH#} {%f.,%} {#lOkikatA -tvaM, sPuwatA, vyaktatA, spazwatA#}.
+PUBLICITY¦, {%s.%} {#prakASatA, lokaprakASatA, lokaprakASaH janaprakASaH, prakASaH,#}
+{#prAkawyaM, lokaprAkawyaM, prasidDiH#} {%f.,%} {#lokaprasidDiH#} {%f.,%} {#prasidDatA, loka-#}
+{#prasidDatA -tvaM, lokaviSrutiH#} {%f.,%} {#viSrutiH, janaprasidDiH#} {%f.,%} {#praKyAtiH#} {%f.,%}
+{#viKyAtiH#} {%f.,%} {#KyAtiH#} {%f.,%} {#lOkikatA -tvaM, sPuwatA, vyaktatA, spazwatA#}.
 <LEND>

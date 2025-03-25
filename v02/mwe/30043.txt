@@ -1,12 +1,12 @@
 <L>30043<pc>814-b<k1>turn<k2>turn
-<div n="lb"/>TURN¦, TURNING, {%s.%} (Revolution) {#parivarttanaM, AvarttaH -rttanaM, parivarttaH,#}
-<div n="lb"/>{#parivfttiH#} {%f.%} — (Bend, winding) {#vaNkaH, vakratA;#} ‘of a river,’
-<div n="lb"/>{#nadIvaNkaH#}. — (Change) {#parivarttanaM, vikAraH, AvfttiH#} {%f.%} — (Recurring
-<div n="lb"/>season, alternation) {#paryyAyaH, viparyyayaH, parivfttiH#} {%f.,%} {#AvfttiH#} {%f.,%}
-<div n="lb"/>{#vAraH, vAsaraH;#} ‘by turns, in turn,’ {#paryyAyeRa, krameRa, viparyyayeRa;#}
-<div n="lb"/>‘to do by turns, take turns,’ {#paryyAyeRa kf, vihf#}. — (Occasion)
-<div n="lb"/>{#kAlaH, samayaH, avasaraH, vAraH#}. — (Form, cast) {#AkAraH, AkftiH#} {%f.,%}
-<div n="lb"/>{#SIlaH -latA, BAvaH, svaBAvaH;#} ‘of mind,’ {#manaHsvaBAvaH, cittavfttiH#} {%f.%}
-<div n="lb"/> — (Walk to and fro) {#vihAraH, IzadvihAraH, IzatparikramaH, itastataH#}
-<div n="lb"/>{#parikramaH#}. — (A good turn) {#upakAraH#}. — (An ill turn) {#apakAraH#}.
+TURN¦, TURNING, {%s.%} (Revolution) {#parivarttanaM, AvarttaH -rttanaM, parivarttaH,#}
+{#parivfttiH#} {%f.%} — (Bend, winding) {#vaNkaH, vakratA;#} ‘of a river,’
+{#nadIvaNkaH#}. — (Change) {#parivarttanaM, vikAraH, AvfttiH#} {%f.%} — (Recurring
+season, alternation) {#paryyAyaH, viparyyayaH, parivfttiH#} {%f.,%} {#AvfttiH#} {%f.,%}
+{#vAraH, vAsaraH;#} ‘by turns, in turn,’ {#paryyAyeRa, krameRa, viparyyayeRa;#}
+‘to do by turns, take turns,’ {#paryyAyeRa kf, vihf#}. — (Occasion)
+{#kAlaH, samayaH, avasaraH, vAraH#}. — (Form, cast) {#AkAraH, AkftiH#} {%f.,%}
+{#SIlaH -latA, BAvaH, svaBAvaH;#} ‘of mind,’ {#manaHsvaBAvaH, cittavfttiH#} {%f.%}
+ — (Walk to and fro) {#vihAraH, IzadvihAraH, IzatparikramaH, itastataH#}
+{#parikramaH#}. — (A good turn) {#upakAraH#}. — (An ill turn) {#apakAraH#}.
 <LEND>

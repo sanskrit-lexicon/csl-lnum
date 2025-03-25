@@ -1,8 +1,8 @@
 <L>22432<pc>592-b<k1>pile<k2>pile
-<div n="lb"/>PILE¦, {%s.%} (Heap) {#rASiH#} {%m.,%} {#cayaH, saYcayaH, nicayaH, citiH#} {%f.,%} {#utkaraH,#}
-<div n="lb"/>{#prakaraH, nikaraH, puYjaH, oGaH, stUpaH, stomaH, sannayaH, samUhaH, cAyaH#}. — 
-<div n="lb"/>(Funeral pile) {#citiH#} {%f.,%} {#citA, cityA, stUpaH, kUpakaH, kAzwamaWI,#}
-<div n="lb"/>{#muH#} {%m.%} — (Stake for support) {#sTURA, sTARuH#} {%m.,%} {#stamBaH, upastamBaH,#}
-<div n="lb"/>{#SaNkuH#} {%m.,%} {#kIlaH#}. — (Edifice) {#harmyaM, mahAmandiraM, mahAgfhaM, mahABAvanaM,#}
-<div n="lb"/>{#vfhanmandiraM, vfhadDarmyaM#}. — (Disease). {%See%} PILES.
+PILE¦, {%s.%} (Heap) {#rASiH#} {%m.,%} {#cayaH, saYcayaH, nicayaH, citiH#} {%f.,%} {#utkaraH,#}
+{#prakaraH, nikaraH, puYjaH, oGaH, stUpaH, stomaH, sannayaH, samUhaH, cAyaH#}. — 
+(Funeral pile) {#citiH#} {%f.,%} {#citA, cityA, stUpaH, kUpakaH, kAzwamaWI,#}
+{#muH#} {%m.%} — (Stake for support) {#sTURA, sTARuH#} {%m.,%} {#stamBaH, upastamBaH,#}
+{#SaNkuH#} {%m.,%} {#kIlaH#}. — (Edifice) {#harmyaM, mahAmandiraM, mahAgfhaM, mahABAvanaM,#}
+{#vfhanmandiraM, vfhadDarmyaM#}. — (Disease). {%See%} PILES.
 <LEND>

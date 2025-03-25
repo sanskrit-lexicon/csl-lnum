@@ -1,10 +1,10 @@
-<L>156626<pc>783,1<k1>man<k2>man<h>b<e>1
-<s>man</s> <hom>b</hom> ¦ <ab>cl.</ab> 8. 4. <ab>Ā.</ab> (<ls>Dhātup. xxx, 9; xxv, 67</ls>) <s>manute/</s>, <s>ma/nyate</s> 
-(<ab>ep.</ab> also <s>°ti</s>;
+<L>156626<pc>783,1<k1>man<k2>man<e>1
+<s>man</s> ¦ <ab>cl.</ab> 8. 4. <ab>Ā.</ab> (<ls>Dhātup. xxx, 9</ls>; <ls n="Dhātup.">xxv, 67</ls>) <s>manute/</s>, <s>ma/nyate</s>
+(<lang>ep.</lang> also <s>°ti</s>;
 3. <ab>pl.</ab> <s>manvate/</s>, <ls>RV.</ls>;
 <ab>pf.</ab> <s>mene</s>, <ls>Br.</ls> &c.;
 <s>mamnA/Te</s>, <s>°nA/ts</s>, <ls>RV.</ls>;
-<ab>aor.</ab> <s>a/mata</s>, <s>a/manmahi</s> <ab>Subj.</ab> <s>manAmahe</s>, <s>mananta</s>, <ab>p.</ab> <s>manAna/</s> <ab>q.v.</ab>, <ls>RV.</ls>;
+<ab>aor.</ab> <s>a/mata</s>, <s>a/manmahi</s> <ab>Subj.</ab> <s>manAmahe</s>, <s>mananta</s>, <ab>p.</ab> <s>manAna/</s>, <ab>q.v.</ab>, <ls>RV.</ls>;
 <s>maMsi</s>, <s>amaMsta</s> <ab>Subj.</ab> <s>maMsate</s> <ab>Prec.</ab> <s>maMsIzwa</s>, 1. <ab>pers.</ab> <ab>mc.</ab> <s>masIya</s>, <ls>ib.</ls>;
 <s>mAMsta</s>, <ls>AV.</ls>, <s>°stAdm</s>, <ls>TĀr.</ls>;
 <s>manDvam</s>, <ls>Br.</ls>;
@@ -16,23 +16,23 @@
 <ab>ind.p.</ab> <s>matvA/</s>, <ls>Up.</ls> &c.;
 <s>manitvA</s> <ab>Gr.</ab>;
 <s>-matya</s>, <ls>Br.</ls> &c.;
-<s>-manya</s>, <ls>MBh.</ls> &c.), 
-<div n="to"/>to think, believe, imagine, suppose, conjecture, <ls>RV.</ls> &c. &c. (<s>manye</s>, I think, methinks, is in later language often inserted in a sentence without affecting the construction; <ab>cf.</ab> <ab>g.</ab> <s>cA<srs/>di</s> and, <ls>Pāṇ. 4-1, 106</ls>);
-<div n="to"/>to regard or consider any one or anything (<ab>acc.</ab>) as (<ab>acc.</ab> with or without <s>iva</s>, or <ab>adv.</ab>, often in <s>-vat</s>; in later language also <ab>dat.</ab>, to express contempt [<ab>cf.</ab> <ls>Pāṇ. 2-3, 17</ls>], <ab>e.g.</ab> <ab>g.</ab> <s>rAjyaM tfRAya manye</s>, ‘I value empire at a straw’ <ab>i.e.</ab> I make light of it = <s>laGu √ man</s>, and <ab>opp.</ab> to <s>bahu</s>, or <s>sADu √ man</s>, to think much or well of, praise, approve), <ls>ib.</ls>;
+<s>-manya</s>, <ls>MBh.</ls> &c.),
+<div n="to"/>to think, believe, imagine, suppose, conjecture, <ls>RV.</ls> &c. &c. (<s>manye</s>, I think, methinks, is in later language often inserted in a sentence without affecting the construction; <ab>cf.</ab> <ab>g.</ab> <s>cA<srs/>di</s> and <ls>Pāṇ. iv, 1, 106</ls>);
+<div n="to"/>to regard or consider any one or anything (<ab>acc.</ab>) as (<ab>acc.</ab> with or without <s>iva</s>, or <ab>adv.</ab>, often in <s>-vat</s>; in later language also <ab>dat.</ab>, to express contempt [<ab>cf.</ab> <ls>Pāṇ. ii, 3, 17</ls>], <ab>e.g.</ab> <ab>g.</ab> <s>rAjyaM tfRAya manye</s>, ‘I value empire at a straw’ <ab>i.e.</ab> I make light of it = <s>laGu √ man</s>, and <ab>opp.</ab> to <s>bahu</s>, or <s>sADu √ man</s>, to think much or well of, praise, approve), <ls>ib.</ls>;
 <div n="to"/>to think one's self or be thought to be, appear as, pass for (<ab>nom.</ab>; also with <s>iva</s>), <ls>ib.</ls>;
 <div n="to"/>to be of opinion, think fit or right, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to agree or be of the same opinion with (<ab>acc.</ab>), <ls>MBh.</ls>;
 <div n="to"/>to set the heart or mind on, honour, esteem (with <s>na</s>, disdain), hope or wish for (<ab>acc.</ab> or <ab>gen.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to think of (in prayer &c., either ‘to remember, meditate on’, or ‘mention, declare’, or ‘excogitate, invent’), <ls>RV.</ls>; <ls>AV.</ls>;
-<div n="to"/>to perceive, observe, learn, know, understand, comprehend (<ab>acc.</ab>, <ab>Ved.</ab> also <ab>gen.</ab>), <ls>RV.</ls> &c. &c.;
+<div n="to"/>to perceive, observe, learn, know, understand, comprehend (<ab>acc.</ab>, <lang>Ved.</lang> also <ab>gen.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to offer, present, <ls>MBh.</ls> :
-<div n="vp"/><ab>Caus.</ab> (<ls>Dhātup. xxxiv, 36</ls>) <s>mAnayati</s> (<ab>ep.</ab> also <s>°te</s>; <ab>aor.</ab> <s>amImanat</s>; <ab>Pass.</ab> <s>mAnyate</s>), 
+<div n="vp"/><ab>Caus.</ab> (<ls>Dhātup. xxxiv, 36</ls>) <s>mAnayati</s> (<lang>ep.</lang> also <s>°te</s>; <ab>aor.</ab> <s>amImanat</s>; <ab>Pass.</ab> <s>mAnyate</s>),
 <div n="to"/>to honour, esteem, value highly (also with <s>uru</s>, <s>bahu</s> and <s>sADu</s>), <ls>AV.</ls> &c. &c.;
 <div n="vp"/> (<ab>Ā.</ab>) <s>stamBe</s>, <ls>Dhātup. xxxiii, 35</ls>;
 <div n="vp"/> <s>garvake</s>, <ls>ib.</ls>; <ls>Vop.</ls> :
-<div n="vp"/><ab>Desid.</ab> (<ls>Dhātup. xxiii, 3</ls>) <s>mImAMsate</s> (rarely <s>°ti</s>; <s>amImAMsizWAs</s>, <ls>ŚBr.</ls>; <s>mImAMsya/te</s>, <ls>AV.</ls>; <s>mimaMsate</s>, <s>mimanizate</s> <ab>Gr.</ab>), 
+<div n="vp"/><ab>Desid.</ab> (<ls>Dhātup. xxiii, 3</ls>) <s>mImAMsate</s> (rarely <s>°ti</s>; <s>amImAMsizWAs</s>, <ls>ŚBr.</ls>; <s>mImAMsya/te</s>, <ls>AV.</ls>; <s>mimaMsate</s>, <s>mimanizate</s> <ab>Gr.</ab>),
 <div n="to"/>to reflect upon, consider, examine, investigate, <ls>AV.</ls>; <ls>Br.</ls> &c.;
 <div n="to"/>to call in question, doubt (‘with regard to’ <ab>loc.</ab>), <ls>ib.</ls> :
 <div n="vp"/><ab>Desid.</ab> of <ab>Desid.</ab> <s>mimAmizate</s> <ab>Gr.</ab>:
-<div n="vp"/><ab>Intens.</ab> <s>manmanyate</s>, <s>manmanti</s> <ls>ib.</ls> <info westergaard="mAna,34.36,10.0234;mana,33.35,10.0153;mAna,23.3,01.0690;manu,30.9,08.0010"/><info whitneyroots="man,118"/><info verb="genuineroot" cp="8,4Ā"/>
+<div n="vp"/><ab>Intens.</ab> <s>manmanyate</s>, <s>manmanti</s>, <ls>ib.</ls> <info westergaard="mAna,34.36,10.0234;mana,33.35,10.0153;mAna,23.3,01.0690;manu,30.9,08.0010"/><info whitneyroots="man,118"/><info verb="genuineroot" cp="8,4Ā"/><info hui="b"/>
 <LEND>

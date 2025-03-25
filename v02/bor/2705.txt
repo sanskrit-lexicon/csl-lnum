@@ -1,6 +1,6 @@
 <L>2705<pc>092<k1>bucket<k2>bucket
-<div n="lb"/>{@BUCKET:@}¦ <div n="I">I For drawing up water: </div><div n="1">(1)
-<div n="lb"/>{#araGawwaH;#} </div><div n="1">(2) {#udGAwanam;#} </div><div n="1">(3) {#udaYcanam,#} D. vi.;</div>
-<div n="lb"/><div n="1">(4) {#GawIyantram.#} </div><div n="I">II For carrying water: </div><div n="1">(1)
-<div n="lb"/>{#droRI;#} </div><div n="1">(2) {#secanI.#}</div>
+{@BUCKET:@}¦ <div n="I">I For drawing up water: </div><div n="1">(1)
+{#araGawwaH;#} </div><div n="1">(2) {#udGAwanam;#} </div><div n="1">(3) {#udaYcanam,#} D. vi.;</div>
+<div n="1">(4) {#GawIyantram.#} </div><div n="I">II For carrying water: </div><div n="1">(1)
+{#droRI;#} </div><div n="1">(2) {#secanI.#}</div>
 <LEND>

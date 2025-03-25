@@ -1,46 +1,46 @@
 <L>9690<pc>436<k1>sound<k2>sound
 {@Sound,@}¦ {%s.%} {#SabdaH, ni-, nAdaH, DvaniH, ni-, sva-#}
-<div n="lb"/>{#-(svA)naH, nihrAdaH, svaraH, ninadaH, nir-, GozaH,#}
-<div n="lb"/>{#rAvaH, ravaH, vi-saMrAvaH ni-, svA(Dva)naH, svanitaM;#}
-<div n="lb"/>‘musical s.’ {#nikvA(kva)RaH, kvaRitaM;#}
-<div n="lb"/>‘confused s.’ {#kolAhalaH, kalakalaH,#}
-<div n="lb"/>{#tumularavaH;#} ‘rattling s.’ {#raRaH, raRitaM#}.
-<div n="lb"/>{@2@} {#saMDisAgaraH#}. -{%a.%} {#susTa, arugRa, kalya,#}
-<div n="lb"/>{#nirAmaya, anAmaya, nIroga, nIruja, prakftisTa,#}
-<div n="lb"/>{#vyADirahita;#} (in body) {#akzataSarIra, avi-#}
-<div n="lb"/>{#-kaleMdriya#} (in mind) {#anupahatacitta, avipluta,#}
-<div n="lb"/>{#avAtula, avikzipta#}. {@2@} {#akzata, ajAtakzata, a-#}
+{#-(svA)naH, nihrAdaH, svaraH, ninadaH, nir-, GozaH,#}
+{#rAvaH, ravaH, vi-saMrAvaH ni-, svA(Dva)naH, svanitaM;#}
+‘musical s.’ {#nikvA(kva)RaH, kvaRitaM;#}
+‘confused s.’ {#kolAhalaH, kalakalaH,#}
+{#tumularavaH;#} ‘rattling s.’ {#raRaH, raRitaM#}.
+{@2@} {#saMDisAgaraH#}. -{%a.%} {#susTa, arugRa, kalya,#}
+{#nirAmaya, anAmaya, nIroga, nIruja, prakftisTa,#}
+{#vyADirahita;#} (in body) {#akzataSarIra, avi-#}
+{#-kaleMdriya#} (in mind) {#anupahatacitta, avipluta,#}
+{#avAtula, avikzipta#}. {@2@} {#akzata, ajAtakzata, a-#}
 [Page437]
-<div n="lb"/>-{#nir-vraRa, kzata-vraRa-hIna#}. {@3@} {#sasAra, sAravat,#}
-<div n="lb"/>{#sAragarBa#}. {@4@} {#avikala, anyUna, aKaMqa, aBinna#}.
-<div n="lb"/>{@5@} {#tIkzRa, tIvra; nirBara, pra-, gAQa, su-ati#}
-<div n="lb"/>pr.; ‘s. sleep’ {#gAQanidrA;#} ‘s. beating’
-<div n="lb"/>{#tIkzRadaMqaH, atitAqanaM#}. {@6@} {#nirdoza, nicCidra,#}
-<div n="lb"/>{#viSudDa, dozahIna#}. {@7@} {#gAQa, ga(gaM)BIra, agADa,#}
-<div n="lb"/>{#supariRata, paripakva#}. {@8@} (Argument &c.)
-<div n="lb"/>{#aKaMqya, sapramARa, dfQa-su-pramARa, nyAyya, Darmya,#}
-<div n="lb"/>{#yuktisidDa#}. {@9@} (In views) {#viSudDAcAra;#}
-<div n="lb"/>{#satyamArgAnuyAyin#}. -{%v. i.%} {#ni-, nad#} 1 P,
-<div n="lb"/>{#Dvan#} 1 P, {#svan#} 1 P, {#kvaR#} 1 P, {#hrAd#} 1 A,
-<div n="lb"/>{#vi-, ru#} 2 P, {#stan-ras#} -1 P, {#SabdaM kf#} 8 U,
-<div n="lb"/>{#SabdAyate#} (D.). -{%v. t.%} {#Dvan#} c., {#svan#} c.,
-<div n="lb"/>{#nad#} c.; {#vad#} c., {#A-DmA#} 1 P, {#muKamArutena#}
-<div n="lb"/>{#pUr#} 10, (trumpet, conch &c.); (drum)
-<div n="lb"/>{#taq#} 10, {#Ahan#} 2 U; ‘the drum being s.
-<div n="lb"/>ed’ {#AhatAyAM BeryAM;#} (bow) {#AsPal#} c. {@2@}
-<div n="lb"/>{#parIkz#} 1 A, {#sUkzmaM-nipuRaM-nirUp#} 10 or {#anusaM-#}
-<div n="lb"/>{#-DA#} 3 U, {#jYA#} desid. ({#jijYAsate#}.) {@3@} {#ud-#}
-<div n="lb"/>{#-Guz#} 10, {#pra-KyA#} c. ({#KyApayati#}), {#prakAS#} c.,
-<div n="lb"/>{#prakawIkf;#} ‘s. the depth’ {#talaM avagAh#}
-<div n="lb"/>1 A, ‘s. the depth of water’ {#jalaveDaM#}
-<div n="lb"/>{#pari-mA#} 3 A, 2 P. {@-ing,@} {%a.%} {#Sabdana, muKara,#}
-<div n="lb"/>{#SabdAyamAna, ninAdin, ninadat, GozaRa,#}
-<div n="lb"/>{#garjat, nirhrAdin, Sabdakara#} ({#rI#} {%f.%}); ‘s.-
-<div n="lb"/>lead’ {#laMbaH, laMbasIsakaM#}. -{%s.%} {#DvAnanaM, SabdanaM,#}
-<div n="lb"/>{#vAdanaM#}. {@2@} {#veDaparimARa, talAvagAhanaM#}. {@-ly,@}
-<div n="lb"/>{%adv.%} {#tIvaM, tIkzRaM, atyaMtaM, pra-, gAQaM; nirBaraM,#}
-<div n="lb"/>{#dfQaM, suKena, su-ati#} pr. {@-ness,@} {%s.%} {#svAsTyaM,#}
-<div n="lb"/>{#kalyatA, ArogyaM, akzatatvaM, nirvraRatvaM, avEka-#}
-<div n="lb"/>{#-lyaM, anyUnatA, aKaMqyatA, nirdozatA,#} &c.;
-<div n="lb"/>‘s. of mind’ {#cittasvAsTyaM, aviplavaH#}.
+-{#nir-vraRa, kzata-vraRa-hIna#}. {@3@} {#sasAra, sAravat,#}
+{#sAragarBa#}. {@4@} {#avikala, anyUna, aKaMqa, aBinna#}.
+{@5@} {#tIkzRa, tIvra; nirBara, pra-, gAQa, su-ati#}
+pr.; ‘s. sleep’ {#gAQanidrA;#} ‘s. beating’
+{#tIkzRadaMqaH, atitAqanaM#}. {@6@} {#nirdoza, nicCidra,#}
+{#viSudDa, dozahIna#}. {@7@} {#gAQa, ga(gaM)BIra, agADa,#}
+{#supariRata, paripakva#}. {@8@} (Argument &c.)
+{#aKaMqya, sapramARa, dfQa-su-pramARa, nyAyya, Darmya,#}
+{#yuktisidDa#}. {@9@} (In views) {#viSudDAcAra;#}
+{#satyamArgAnuyAyin#}. -{%v. i.%} {#ni-, nad#} 1 P,
+{#Dvan#} 1 P, {#svan#} 1 P, {#kvaR#} 1 P, {#hrAd#} 1 A,
+{#vi-, ru#} 2 P, {#stan-ras#} -1 P, {#SabdaM kf#} 8 U,
+{#SabdAyate#} (D.). -{%v. t.%} {#Dvan#} c., {#svan#} c.,
+{#nad#} c.; {#vad#} c., {#A-DmA#} 1 P, {#muKamArutena#}
+{#pUr#} 10, (trumpet, conch &c.); (drum)
+{#taq#} 10, {#Ahan#} 2 U; ‘the drum being s.
+ed’ {#AhatAyAM BeryAM;#} (bow) {#AsPal#} c. {@2@}
+{#parIkz#} 1 A, {#sUkzmaM-nipuRaM-nirUp#} 10 or {#anusaM-#}
+{#-DA#} 3 U, {#jYA#} desid. ({#jijYAsate#}.) {@3@} {#ud-#}
+{#-Guz#} 10, {#pra-KyA#} c. ({#KyApayati#}), {#prakAS#} c.,
+{#prakawIkf;#} ‘s. the depth’ {#talaM avagAh#}
+1 A, ‘s. the depth of water’ {#jalaveDaM#}
+{#pari-mA#} 3 A, 2 P. {@-ing,@} {%a.%} {#Sabdana, muKara,#}
+{#SabdAyamAna, ninAdin, ninadat, GozaRa,#}
+{#garjat, nirhrAdin, Sabdakara#} ({#rI#} {%f.%}); ‘s.-
+lead’ {#laMbaH, laMbasIsakaM#}. -{%s.%} {#DvAnanaM, SabdanaM,#}
+{#vAdanaM#}. {@2@} {#veDaparimARa, talAvagAhanaM#}. {@-ly,@}
+{%adv.%} {#tIvaM, tIkzRaM, atyaMtaM, pra-, gAQaM; nirBaraM,#}
+{#dfQaM, suKena, su-ati#} pr. {@-ness,@} {%s.%} {#svAsTyaM,#}
+{#kalyatA, ArogyaM, akzatatvaM, nirvraRatvaM, avEka-#}
+{#-lyaM, anyUnatA, aKaMqyatA, nirdozatA,#} &c.;
+‘s. of mind’ {#cittasvAsTyaM, aviplavaH#}.
 <LEND>

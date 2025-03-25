@@ -1,28 +1,27 @@
 <L>49091<pc>4-1015<k1>praTamaja<k2>praTamaja/
-{#praTamaja/#}¦ und {#°jA/ (pra°#} + 1. {#ja, jA#}) <lex>adj.</lex> {%erstgeboren, Erstling, primitiae; ursprünglich, Anfänger, primigenius%} 
-<ls>VS. 24, 16.</ls> {#go#} {%der Erstling des betr. Jahres%} 
-<ls>ŚAT. BR. 2, 4, 3, 13. 5, 1, 21.</ls> 
-<ls>KĀTY. ŚR. 4, 6, 8.</ls> 
-<ls>TBR. 1, 6, 1, 11.</ls> {#°jA nyagroDAnAm#} 
-<ls>AIT. BR. 7, 30.</ls> {#aha^nnenaM praTama\jAmahI^nAm#} {%die Urschlange%} 
-<ls>ṚV. 1, 32, 3.</ls> <ls n="ṚV. 1, 32,">4.</ls> {#a\pAM saKA^ praTama\jA f\tAvA^ (vAtaH)#} 
-<ls n="ṚV.">10, 168, 3.</ls> {#yo adri\Bitpra^Tama\jA f\tAvA\ bfha\spati^H#} 
-<ls n="ṚV.">6, 73, 1.</ls> {#Apo^ de\vIH pra°#} 
-<ls n="ṚV.">10, 109, 1.</ls> {#pra\Ta\ma\jA f\tasya^#} 
-<ls n="ṚV.">1, 164, 37.</ls> <ls n="ṚV.">10, 61, 19.</ls> <ls>VS. 32, 11.</ls> <ls>AV. 4, 35, 1. 6, 122, 1. 12, 1, 61.</ls> <ls>TBR. 2, 8, 1, 4.</ls> {#pra\Ta\ma\jA brahma^Ro\ viSva\midvi^duH#} 
-<ls>ṚV. 3, 29, 15.</ls> {#de\vAnA\moja^H praTama\jaM hye\3^\tat#} 
-<ls>VS. 34, 51.</ls> {#brahmAsya sarvasya praTamajam#} 
-<ls>ŚAT. BR. 6, 1, 1, 10. 8, 6, 1, 5. 14, 8, 5, 1.</ls> {#a\pAM rasa^H praTama\jaH#} 
-<ls>AV. 4, 4, 5.</ls> {#fza^yaH praTama\jAH#} 
-<ls>10, 7, 14.</ls> <ls>VS. 15, 10. 18, 52.</ls> {#devyo^ vamryo BU\tasya^ praTama\jAH#} {%Erstlinge der Schöpfung%} 
-<ls>37, 4.</ls> {#ahamasmi °jAH#} 
-<ls>TAITT. UP. 3, 10, 6.</ls> — {#DftarAzwraH °jaH#} 
-<ls>MBH. 1, 3745.</ls> 
-<ls>RAGH. 12, 16.</ls> {#BrAtar#} 
-<ls>MBH. 11, 819.</ls> {#putra, suta#} 
-<ls>R. 2, 48, 4.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 45, 7.</ls> 
-<ls>MĀRK. P. 25, 9.</ls> {%in der ersten (zuerst genannten Ehe) geboren%} 
-<ls>YĀJÑ. 1, 59.</ls>
+{#praTamaja/#}¦ und {#°jA/ (pra°#} + 1. {#ja, jA#}) <lex>adj.</lex> {%erstgeboren, Erstling, primitiae; ursprünglich, Anfänger, primigenius%}
+<ls>VS. 24,16.</ls> {#go#} {%der Erstling des betr. Jahres%}
+<ls>ŚAT. BR. 2,4,3,13. 5,1,21.</ls>
+<ls>KĀTY. ŚR. 4,6,8.</ls>
+<ls>TBR. 1,6,1,11.</ls> {#°jA nyagroDAnAm#}
+<ls>AIT. BR. 7,30.</ls> {#aha^nnenaM praTama\jAmahI^nAm#} {%die Urschlange%}
+<ls>ṚV. 1,32,3.</ls> <ls n="ṚV. 1,32,">4.</ls> {#a\pAM saKA^ praTama\jA f\tAvA^ (vAtaH)#}
+<ls n="ṚV.">10,168,3.</ls> {#yo adri\Bitpra^Tama\jA f\tAvA\ bfha\spati^H#}
+<ls n="ṚV.">6,73,1.</ls> {#Apo^ de\vIH pra°#}
+<ls n="ṚV.">10,109,1.</ls> {#pra\Ta\ma\jA f\tasya^#}
+<ls n="ṚV.">1,164,37.</ls> <ls n="ṚV.">10,61,19.</ls> <ls>VS. 32,11.</ls> <ls>AV. 4,35,1.</ls> <ls n="AV.">6,122,1.</ls> <ls n="AV.">12,1,61.</ls> <ls>TBR. 2,8,1,4.</ls> {#pra\Ta\ma\jA brahma^Ro\ viSva\midvi^duH#}
+<ls>ṚV. 3,29,15.</ls> {#de\vAnA\moja^H praTama\jaM hye\3^\tat#}
+<ls>VS. 34,51.</ls> {#brahmAsya sarvasya praTamajam#}
+<ls>ŚAT. BR. 6,1,1,10.</ls> <ls n="ŚAT. BR.">8,6,1,5.</ls> <ls n="ŚAT. BR.">14,8,5,1.</ls> {#a\pAM rasa^H praTama\jaH#}
+<ls>AV. 4,4,5.</ls> {#fza^yaH praTama\jAH#}
+<ls n="AV.">10,7,14.</ls> <ls>VS. 15,10.</ls> <ls n="VS.">18,52.</ls> {#devyo^ vamryo BU\tasya^ praTama\jAH#} {%Erstlinge der Schöpfung%}
+<ls n="VS.">37,4.</ls> {#ahamasmi °jAH#}
+<ls>TAITT. UP. 3,10,6.</ls> — {#DftarAzwraH °jaH#}
+<ls>MBH. 1,3745.</ls>
+<ls>RAGH. 12,16.</ls> {#BrAtar#}
+<ls>MBH. 11,819.</ls> {#putra, suta#}
+<ls>R. 2,48,4.</ls>
+<ls>R. GORR. 2,45,7.</ls>
+<ls>MĀRK. P. 25,9.</ls> {%in der ersten (zuerst genannten Ehe) geboren%}
+<ls>YĀJÑ. 1,59.</ls>
 <LEND>

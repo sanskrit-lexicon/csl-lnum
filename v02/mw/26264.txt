@@ -1,7 +1,7 @@
 <L>26264<pc>151,1<k1>AruD<k2>A-ruD<e>1
-<s>A-</s>√ <hom>2.</hom> <s>ruD</s> ¦ <ab>P.</ab> <s>-ruRadDi</s> and <ab>Ā.</ab> (<ab>Impv.</ab> 3. <ab>sg.</ab> <s>A/-rundDAm</s>, <ls>AV. iii, 20, 10</ls>; <ab>pf.</ab> <s>A/ruruDre</s>, <ls>AV. iv, 31, 3</ls>) 
+<s>A-</s>√ <hom>2.</hom> <s>ruD</s> ¦ <ab>P.</ab> <s>-ruRadDi</s> and <ab>Ā.</ab> (<ab>Impv.</ab> 3. <ab>sg.</ab> <s>A/-rundDAm</s>, <ls>AV. iii, 20, 10</ls>; <ab>pf.</ab> <s>A/ruruDre</s>, <ls>AV. iv, 31, 3</ls>)
 <div n="to"/>to shut up, lock in <ls>BhP.</ls>;
 <div n="to"/>to blockade, besiege, <ls>Hariv.</ls>;
 <div n="to"/>to keep off, ward off, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-roDayati</s>, to obstruct, impede, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Hariv.</ls><info verb="pre" cp="PĀ" parse="A+ruD"/>
+<div n="vp"/><ab>Caus.</ab> <s>-roDayati</s>, to obstruct, impede, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Hariv.</ls><info verb="pre" cp="PĀ" parse="A+ruD"/>
 <LEND>

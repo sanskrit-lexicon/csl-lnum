@@ -1,5 +1,5 @@
 <L>3562<pc>118<k1>child-birth<k2>child-birth
-<div n="lb"/>{@CHILD-BIRTH:@}¦ <div n="1">(1) {#prasavaH;#} {%from the pains of c.%}
-<div n="lb"/>{#prasavavedanayA,#} K.: <div n="xe">{%up to c.:%}</div> <div n="xs">{#A prasavAt,#}</div> Sr.;</div>
-<div n="lb"/><div n="1">(2) {#prajananam,#} Sr.; </div><div n="1">(3) {#garBanirgamaH,#} Sr.</div>
+{@CHILD-BIRTH:@}¦ <div n="1">(1) {#prasavaH;#} {%from the pains of c.%}
+{#prasavavedanayA,#} K.: <div n="xe">{%up to c.:%}</div> <div n="xs">{#A prasavAt,#}</div> Sr.;</div>
+<div n="1">(2) {#prajananam,#} Sr.; </div><div n="1">(3) {#garBanirgamaH,#} Sr.</div>
 <LEND>

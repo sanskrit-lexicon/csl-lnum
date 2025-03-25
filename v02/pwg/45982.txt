@@ -1,29 +1,29 @@
 <L>45982<pc>4-0777<k1>puratas<k2>puratas
-{#puratas#}¦ adv. = {#puras#} 
-<div n="1"> 1) {%voran, vorn, davor, vor sich, vor mir u.s.w.%} 
-<ls>AK. 3, 5, 7.</ls> 
-<ls>H. 1529.</ls> 
-<ls>an. 7, 59.</ls> 
-<ls>MED. avy. 83.</ls> {#purataste pratasTire#} 
-<ls>R. 2, 80, 3.</ls> {#yo 'haM pAvakasaMkASaM paSyAmi purataH sTitam#} {%vor mir%} 
-<ls>39, 6.</ls> <ls>ŚĀK. CH. 60, 2.</ls> {#purato natiM kftvA#} {%vor ihm%} 
-<ls>KATHĀS. 9, 79.</ls> {#dadarSa purato hAram#} {%vor sich%} 
-<ls>?28, 136. BRAHMAVAIV. (ST.) 2, 70.</ls> {#tasyEtadASramapadaM purato viBAti#} {%vor uns%} 
-<ls>DHŪRTAS. 75, 2.</ls> 
-<ls>RĀJA-TAR. 1, 207.</ls> 
-<ls>AMAR. 43.</ls> 
-<ls>SUŚR. 1, 107, 20.</ls> {#mftyupASAnpurataH (pUrvameva SarIrapAtAt#} 
-<ls>ŚAṂK.</ls>) {#praRodya#} 
-<ls>KAṬHOP. 1, 18.</ls> {%vor, in Gegenwart von%}, mit einem gen. 
-<ls>Spr. 2091.</ls> 
-<ls>ŚĀK. CH. 96, 8.</ls> 
-<ls>KATHĀS. 4, 75. 39, 72. 42, 150. 49, 12.</ls> 
-<ls>VET.</ls> in <ls>LA. 31, 6. 33, 6.</ls> <ls>PRAB. 86, 13.</ls> mit der Ergänzung comp.: {#priya°#} 
-<ls>Spr. 1916.</ls> 
-<ls>PAÑCAT. 26, 23. 64, 1.</ls> {#purataH kar#} {%voranstellen, vorangehenlassen%} 
-<ls>R. 1, 67, 3. 2, 104, 1.</ls> in übertr. Bed.: {#yanmayA sahasA devyAH pratijYA purataH kftA#} 
-<ls>KATHĀS. 32, 134.</ls> 
-<div n="1">— 2) = {#Adye, praTame#} 
-<ls>H. an.</ls> <ls>MED.</ls> {%vor%} (zeitlich), mit dem gen.: {#purataH kfcCrakAlasya#} 
-<ls>MBH. 1, 8404.</ls>
+{#puratas#}¦ adv. = {#puras#}
+<div n="1"> 1) {%voran, vorn, davor, vor sich, vor mir u.s.w.%}
+<ls>AK. 3,5,7.</ls>
+<ls>H. 1529.</ls>
+<ls>an. 7,59.</ls>
+<ls>MED. avy. 83.</ls> {#purataste pratasTire#}
+<ls>R. 2,80,3.</ls> {#yo 'haM pAvakasaMkASaM paSyAmi purataH sTitam#} {%vor mir%}
+<ls n="R. 2,">39,6.</ls> <ls>ŚĀK. CH. 60,2.</ls> {#purato natiM kftvA#} {%vor ihm%}
+<ls>KATHĀS. 9,79.</ls> {#dadarSa purato hAram#} {%vor sich%}
+<ls n="KATHĀS.">28,136.</ls> <ls>BRAHMAVAIV. (ST.) 2,70.</ls> {#tasyEtadASramapadaM purato viBAti#} {%vor uns%}
+<ls>DHŪRTAS. 75,2.</ls>
+<ls>RĀJA-TAR. 1,207.</ls>
+<ls>AMAR. 43.</ls>
+<ls>SUŚR. 1,107,20.</ls> {#mftyupASAnpurataH (pUrvameva SarIrapAtAt#}
+<ls>ŚAṂK.</ls>) {#praRodya#}
+<ls>KAṬHOP. 1,18.</ls> {%vor, in Gegenwart von%}, mit einem gen.
+<ls>Spr. 2091.</ls>
+<ls>ŚĀK. CH. 96,8.</ls>
+<ls>KATHĀS. 4,75.</ls> <ls n="KATHĀS.">39,72.</ls> <ls n="KATHĀS.">42,150.</ls> <ls n="KATHĀS.">49,12.</ls>
+<ls>VET. in LA. 31,6. 33,6.</ls> <ls>PRAB. 86,13.</ls> mit der Ergänzung comp.: {#priya°#}
+<ls>Spr. 1916.</ls>
+<ls>PAÑCAT. 26,23.</ls> <ls n="PAÑCAT.">64,1.</ls> {#purataH kar#} {%voranstellen, vorangehenlassen%}
+<ls>R. 1,67,3.</ls> <ls n="R.">2,104,1.</ls> in übertr. Bed.: {#yanmayA sahasA devyAH pratijYA purataH kftA#}
+<ls>KATHĀS. 32,134.</ls>
+<div n="1">— 2) = {#Adye, praTame#}
+<ls>H. an.</ls> <ls>MED.</ls> {%vor%} (zeitlich), mit dem gen.: {#purataH kfcCrakAlasya#}
+<ls>MBH. 1,8404.</ls>
 <LEND>

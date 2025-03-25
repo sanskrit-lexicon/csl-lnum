@@ -1,3 +1,3 @@
 <L>47871<pc>271,2<k1>kApila<k2>kApila<e>1
-<s>kApila</s> ¦ <lex>mf(<s>I</s>)n.</lex> (<ab>fr.</ab> <s>kapila</s>), peculiar or belonging to or derived from <s1 slp1="kapila">Kapila</s1>, <ls>MBh.</ls>; <ls>R.</ls><info lex="m:f#I:n"/>
+<s>kApila</s> ¦ <lex>mf(<s>I</s>)n.</lex> (<ab>fr.</ab> <s>kapila</s>), peculiar or belonging to or derived from <s1>Kapila</s1>, <ls>MBh.</ls>; <ls>R.</ls><info lex="m:f#I:n"/><listinfo n="sup"/>
 <LEND>

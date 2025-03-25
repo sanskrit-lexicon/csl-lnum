@@ -1,16 +1,16 @@
 <L>8303<pc>262<k1>face<k2>face
-<div n="lb"/>{@FACE@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#muKam,#} <div n="xe">{%struck%}
-<div n="lb"/>{%Yudhisṭhira on the f.:%}</div> <div n="xs">{#yuDizWiraM muKe'hanam,#}</div> Mah.:
-<div n="lb"/><div n="xe">{%with a f. beautiful as the moon:%}</div> <div n="xs">{#indusundaramuKI,#}</div>
-<div n="lb"/>Ma.; <div n="xe">{%how (we) will shew our f. to men:%}</div> <div n="xs">{#kaTaM #}
-<div n="lb"/>{# lokasya muKaM drakzyAmaH,#}</div> Ana.; <div n="xe">{%makes thousands of%}
-<div n="lb"/>{%f. s:%}</div> <div n="xs">{#muKaBaNgisahasrARi kurute,#}</div> K.; <div n="xe">{%is it proper for a%}
-<div n="lb"/>{%king to turn his f. from duty:%}</div> <div n="xs">{#kiM DarmaM prati vimuKa-#}
-<div n="lb"/>{#tocitA rAJaH,#}</div> Sa.; {%you have come before my f.%}
-<div n="lb"/>(= eyes: v. Eye): {#matsammuKaBAgato'si,#} Ve.; <div n="xe">{%the%}
-<div n="lb"/>{%f.s of the quarters:%}</div> <div n="xs">{#diSAM muKAni,#}</div> N.; </div><div n="1">(2)
-<div n="lb"/>{#Ananam;#} </div><div n="1">(3) {#vadanam;#} </div><div n="1">(4) {#vaktram;#} </div><div n="1">(5) {#Asyam.#}
-<div n="lb"/>Ph.: <div n="xe">{%in the f. of the Vedāntas:%}</div> <div n="xs">{#vedAntozu jAgarukezu,#}</div>
-<div n="lb"/>D.s. </div><div n="I">II In Geo.: {#pASrvaH,#} K. d.: {#*muKam,#} <div n="xe">{%hav-%}
-<div n="lb"/>{%ing six f. s:%}</div> <div n="xs">{#zaRmuKaH#}</div> ({#KI, KaM#}).</div>
+{@FACE@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#muKam,#} <div n="xe">{%struck%}
+{%Yudhisṭhira on the f.:%}</div> <div n="xs">{#yuDizWiraM muKe'hanam,#}</div> Mah.:
+<div n="xe">{%with a f. beautiful as the moon:%}</div> <div n="xs">{#indusundaramuKI,#}</div>
+Ma.; <div n="xe">{%how (we) will shew our f. to men:%}</div> <div n="xs">{#kaTaM #}
+{# lokasya muKaM drakzyAmaH,#}</div> Ana.; <div n="xe">{%makes thousands of%}
+{%f. s:%}</div> <div n="xs">{#muKaBaNgisahasrARi kurute,#}</div> K.; <div n="xe">{%is it proper for a%}
+{%king to turn his f. from duty:%}</div> <div n="xs">{#kiM DarmaM prati vimuKa-#}
+{#tocitA rAJaH,#}</div> Sa.; {%you have come before my f.%}
+(= eyes: v. Eye): {#matsammuKaBAgato'si,#} Ve.; <div n="xe">{%the%}
+{%f.s of the quarters:%}</div> <div n="xs">{#diSAM muKAni,#}</div> N.; </div><div n="1">(2)
+{#Ananam;#} </div><div n="1">(3) {#vadanam;#} </div><div n="1">(4) {#vaktram;#} </div><div n="1">(5) {#Asyam.#}
+Ph.: <div n="xe">{%in the f. of the Vedāntas:%}</div> <div n="xs">{#vedAntozu jAgarukezu,#}</div>
+D.s. </div><div n="I">II In Geo.: {#pASrvaH,#} K. d.: {#*muKam,#} <div n="xe">{%hav-%}
+{%ing six f. s:%}</div> <div n="xs">{#zaRmuKaH#}</div> ({#KI, KaM#}).</div>
 <LEND>

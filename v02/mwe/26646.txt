@@ -1,7 +1,7 @@
 <L>26646<pc>727-b<k1>sensuality<k2>sensuality
-<div n="lb"/>SENSUALITY¦, SENSUALNESS, {%s.%} {#vizayAsaktiH#} {%f.,%} {#vizayAsaktatA, vizayasevA#}
-<div n="lb"/>{#vizayopasevA, vizayasuKAsaktiH#} {%f.,%} {#indriyasuKAsaktiH#} {%f.,%} {#indriyADInatA#}
-<div n="lb"/>{#vipayADInatA, vizayavaSatA, vizayasaNgaH, vizayavyAsaNgaH, vizayaparatA#}
-<div n="lb"/>{#SArIrikasuKAsaktiH#} {%f.,%} {#SArIrikasuKasevA, SArIrikavizayAnurAgaH, BogA#}
-<div n="lb"/>{#saktiH#} {%f.,%} {#kAmAsaktiH#} {%f.,%} {#vanitopaBogaH#}.
+SENSUALITY¦, SENSUALNESS, {%s.%} {#vizayAsaktiH#} {%f.,%} {#vizayAsaktatA, vizayasevA#}
+{#vizayopasevA, vizayasuKAsaktiH#} {%f.,%} {#indriyasuKAsaktiH#} {%f.,%} {#indriyADInatA#}
+{#vipayADInatA, vizayavaSatA, vizayasaNgaH, vizayavyAsaNgaH, vizayaparatA#}
+{#SArIrikasuKAsaktiH#} {%f.,%} {#SArIrikasuKasevA, SArIrikavizayAnurAgaH, BogA#}
+{#saktiH#} {%f.,%} {#kAmAsaktiH#} {%f.,%} {#vanitopaBogaH#}.
 <LEND>

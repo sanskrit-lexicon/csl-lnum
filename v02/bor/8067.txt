@@ -1,7 +1,7 @@
 <L>8067<pc>255<k1>exhaustion<k2>exhaustion
-<div n="lb"/>{@EXHAUSTION:@}¦ <div n="I">I Emptying: </div><div n="1">(1) {#SUnyIkaraRam;#}</div>
-<div n="lb"/><div n="1">(2) {#riktIkaraRam.#} </div><div n="I">II Drying up: {#SozaRam, vi-, #}
-<div n="lb"/>{# ut-.#} </div><div n="I">III Consumption: {#kzayaH, pari-.#} </div><div n="I">IV
-<div n="lb"/>Fatigue: q. v.: {#KedaH.#} v. Dejection: {#ava-#}
-<div n="lb"/>{#sAdaH.#}</div>
+{@EXHAUSTION:@}¦ <div n="I">I Emptying: </div><div n="1">(1) {#SUnyIkaraRam;#}</div>
+<div n="1">(2) {#riktIkaraRam.#} </div><div n="I">II Drying up: {#SozaRam, vi-, #}
+{# ut-.#} </div><div n="I">III Consumption: {#kzayaH, pari-.#} </div><div n="I">IV
+Fatigue: q. v.: {#KedaH.#} v. Dejection: {#ava-#}
+{#sAdaH.#}</div>
 <LEND>

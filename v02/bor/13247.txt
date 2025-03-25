@@ -1,7 +1,7 @@
 <L>13247<pc>408<k1>latitude<k2>latitude
-<div n="lb"/>{@LATITUDE:@}¦ <div n="I">I Geo.: {#akzAMSaH,#} Su. com.; {#akza-#}
-<div n="lb"/>{#BAgaH,#} Gan. Ph.: <div n="xe">{%place of no. l.:%}</div> <div n="xs">{#nirakzadeSaH;#}</div> <div n="xe">{%they%}
-<div n="lb"/>{%have no l.:%}</div> <div n="xs">{#tAsu nAkzasyonnatirazyate,#}</div> Su. xii. 42.;
-<div n="lb"/><div n="xe">{%celestial l:%}</div> <div n="xs">{#vikzepaH,#}</div> Su. </div><div n="I">II Breadth: q. v. </div><div n="I">III
-<div n="lb"/>Laxity, freedom: {#gurulAGavam#} (??).</div>
+{@LATITUDE:@}¦ <div n="I">I Geo.: {#akzAMSaH,#} Su. com.; {#akza-#}
+{#BAgaH,#} Gan. Ph.: <div n="xe">{%place of no. l.:%}</div> <div n="xs">{#nirakzadeSaH;#}</div> <div n="xe">{%they%}
+{%have no l.:%}</div> <div n="xs">{#tAsu nAkzasyonnatirazyate,#}</div> Su. xii. 42.;
+<div n="xe">{%celestial l:%}</div> <div n="xs">{#vikzepaH,#}</div> Su. </div><div n="I">II Breadth: q. v. </div><div n="I">III
+Laxity, freedom: {#gurulAGavam#} (??).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>2549<pc>087<k1>bred<k2>bred
-<div n="lb"/>{@BRED:@}¦ v. To breed, <div n="xe">{%well-b.:%}</div> <div n="xs">{#vinItaH#}</div> ({#tA, taM#}).
-<div n="lb"/><div n="xe">{%Ill-b.:%}</div> <div n="xs">{#durvinItaH#}</div> ({#tA, taM#}).
+{@BRED:@}¦ v. To breed, <div n="xe">{%well-b.:%}</div> <div n="xs">{#vinItaH#}</div> ({#tA, taM#}).
+<div n="xe">{%Ill-b.:%}</div> <div n="xs">{#durvinItaH#}</div> ({#tA, taM#}).
 <LEND>

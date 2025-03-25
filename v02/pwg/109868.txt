@@ -1,11 +1,11 @@
 <L>109868<pc>7-1037<k1>suKay<k2>suKay
-{#suKay#}¦ (von {#suKa), °yati#} 
-<ls>DHĀTUP. 35, 75</ls> ({#suKakriyAyAm#}). {%Wohlbehagen bewirken, erquicken, erfreuen%} (mit acc.): {#na taTA suKayatyagnirna prAvArA na kambalAH . SItavAtArditaM lokaM yaTA tava marIcayaH ..#} 
-<ls>MBH.3,181.</ls> <ls>MEGH. 86.</ls> <ls>ŚĀK. CH. 49,9.</ls> <ls>VIKR. 61.</ls> <ls>Spr. (II) 1039. 2215.</ls> <ls>MĀLATĪM. 150,19.</ls> <ls>GĪT.2,20.4,18.9,9.</ls> <ls>KATHĀS. 87,15.</ls> <ls>BHĀG. P.5,8,17.6,13,11.</ls> <ls>KULL.</ls> zu <ls>M.7,45.</ls> <ls>Verz. d. Oxf. H. 161,b,32.</ls> {#suKita/#} <is>gaṇa</is> {#tArakAdi#} 
-zu <ls>P. 5, 2, 36</ls> (auf {#suKa#} zurückgeführt). {%Wohlbehagen empfindend, froh, glücklich%} 
-<ls>R. 1, 17, 18 (7 GORR.). 2, 42, 31. 58, 4.</ls> <ls>R. GORR. 2, 109, 6.</ls> <ls>VARĀH. BṚH. S. 100, 1.</ls> <ls>BṚH. 12, 14. 20, 8.</ls> <ls>Spr. (II) 1627. 5595. 5715.</ls> <ls>KATHĀS. 11, 43. 33, 10.</ls> {#paravyasana°#} 
-<ls>VIKR. 59, 1.</ls> {#niDAnaprApti°#} 
-<ls>KATHĀS. 23, 50. 24, 198. 54, 98.</ls> 
-<ls>RĀJA-TAR. 4, 666.</ls> {#suKitam#} adv. {%froh, glücklich%}: {#suKitamAsva#} (d. i. {#Assva) tataH SaradAM Satam#} 
-<ls>SĀH. D. 12, 14.</ls>
+{#suKay#}¦ (von {#suKa), °yati#}
+<ls>DHĀTUP. 35,75</ls> ({#suKakriyAyAm#}). {%Wohlbehagen bewirken, erquicken, erfreuen%} (mit acc.): {#na taTA suKayatyagnirna prAvArA na kambalAH . SItavAtArditaM lokaM yaTA tava marIcayaH ..#}
+<ls>MBH. 3,181.</ls> <ls>MEGH. 86.</ls> <ls>ŚĀK. CH. 49,9.</ls> <ls>VIKR. 61.</ls> <ls>Spr. (II) 1039.</ls> <ls n="Spr. (II)">2215.</ls> <ls>MĀLATĪM. 150,19.</ls> <ls>GĪT. 2,20. 4,18. 9,9.</ls> <ls>KATHĀS. 87,15.</ls> <ls>BHĀG. P. 5,8,17.</ls> <ls n="BHĀG. P.">6,13,11.</ls> <ls>KULL.</ls> zu <ls>M. 7,45.</ls> <ls>Verz. d. Oxf. H. 161,b,32.</ls> {#suKita/#} <is>gaṇa</is> {#tArakAdi#}
+zu <ls>P. 5,2,36</ls> (auf {#suKa#} zurückgeführt). {%Wohlbehagen empfindend, froh, glücklich%}
+<ls>R. 1,17,18</ls> (<ls n="GORR. 1,17,">7</ls> <ls>GORR.</ls>). <ls n="R.">2,42,31.</ls> <ls n="R. 2,">58,4.</ls> <ls>R. GORR. 2,109,6.</ls> <ls>VARĀH. BṚH. S. 100,1.</ls> <ls>BṚH. 12,14. 20,8.</ls> <ls>Spr. (II) 1627.</ls> <ls n="Spr. (II)">5595.</ls> <ls n="Spr. (II)">5715.</ls> <ls>KATHĀS. 11,43.</ls> <ls n="KATHĀS.">33,10.</ls> {#paravyasana°#}
+<ls>VIKR. 59,1.</ls> {#niDAnaprApti°#}
+<ls>KATHĀS. 23,50.</ls> <ls n="KATHĀS.">24,198.</ls> <ls n="KATHĀS.">54,98.</ls>
+<ls>RĀJA-TAR. 4,666.</ls> {#suKitam#} adv. {%froh, glücklich%}: {#suKitamAsva#} (<ab>d. i.</ab> {#Assva) tataH SaradAM Satam#}
+<ls>SĀH. D. 12,14.</ls>
 <LEND>

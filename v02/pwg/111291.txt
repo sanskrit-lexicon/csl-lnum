@@ -1,13 +1,13 @@
 <L>111291<pc>7-1115<k1>surApa<k2>surApa
-{#surApa#}¦ <lex>adj.</lex> {%Branntwein trinkend, Branntweintrinker%} 
-<ls>ŚĀṄKH. ŚR. 15, 15, 14.</ls> 
-<ls>KAUŚ. 11.</ls> 
-<ls>M. 9, 235. 11, 49. 149. 249. 12, 56.</ls> 
-<ls>YĀJÑ. 3, 207.</ls> 
-<ls>MBH. 5, 270</ls> ({#vaktra#}). 
-<ls>?12, 5969. R. 2, 91, 50 (100, 49 GORR.). Spr. (II) 2198. WEBER, KṚṢṆAJ. 224. MĀRK. P. 14, 91. BHĀG. P. 6, 2, 9. f.</ls> {#A#} und {#I#} 
-<ls>P. 3, 2, 8</ls>, <is>Vārtt</is>. {#A#} 
-<ls>BHĀG. P. 6, 2, 27.</ls> {#I#} 
-<ls>M. 5, 90.</ls> 
-<ls>YĀJÑ. 1, 73. 3, 6.</ls>
+{#surApa#}¦ <lex>adj.</lex> {%Branntwein trinkend, Branntweintrinker%}
+<ls>ŚĀṄKH. ŚR. 15,15,14.</ls>
+<ls>KAUŚ. 11.</ls>
+<ls>M. 9,235.</ls> <ls n="M.">11,49.</ls> <ls n="M. 11,">149.</ls> <ls n="M. 11,">249.</ls> <ls n="M.">12,56.</ls>
+<ls>YĀJÑ. 3,207.</ls>
+<ls>MBH. 5,270</ls> ({#vaktra#}).
+<ls n="MBH.">12,5969.</ls> <ls>R. 2,91,50</ls> (<ls n="GORR. 2,">100,49</ls> <ls>GORR.</ls>). <ls>Spr. (II) 2198.</ls> <ls>WEBER, KṚṢṆAJ. 224.</ls> <ls>MĀRK. P. 14,91.</ls> <ls>BHĀG. P. 6,2,9.</ls> f. {#A#} und {#I#}
+<ls>P. 3,2,8</ls>, <is>Vārtt</is>. {#A#}
+<ls>BHĀG. P. 6,2,27.</ls> {#I#}
+<ls>M. 5,90.</ls>
+<ls>YĀJÑ. 1,73.</ls> <ls n="YĀJÑ.">3,6.</ls>
 <LEND>

@@ -1,5 +1,5 @@
 <L>20788<pc>544-b<k1>obtainment<k2>obtainment
-<div n="lb"/>OBTAINMENT¦, {%s.%} {#prAptiH#} {%f.,%} {#samprAptiH#} {%f.,%} {#AptiH#} {%f.,%} {#prApaRaM, ApattiH#} {%f.,%}
-<div n="lb"/>{#labDiH#} {%f.,%} {#lABaH, AsAdanaM, samAsAdanaM, arjanaM, upArjanaM, pratipattiH#} {%f.,%}
-<div n="lb"/>{#sampAdanaM, aDigamaH#}.
+OBTAINMENT¦, {%s.%} {#prAptiH#} {%f.,%} {#samprAptiH#} {%f.,%} {#AptiH#} {%f.,%} {#prApaRaM, ApattiH#} {%f.,%}
+{#labDiH#} {%f.,%} {#lABaH, AsAdanaM, samAsAdanaM, arjanaM, upArjanaM, pratipattiH#} {%f.,%}
+{#sampAdanaM, aDigamaH#}.
 <LEND>

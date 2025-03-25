@@ -1,3 +1,3 @@
-<L>263104<pc>1299,2<k1>himAlaya<k2>himAlaya<h>b<e>3
-<s>himA<srs/>laya</s> <hom>b</hom> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s>, to resemble the <s1 slp1="himAlaya">Himâlaya</s1>, <ls>Dhūrtas.</ls><info verb="nom" cp="P"/>
+<L>263104<pc>1299,2<k1>himAlaya<k2>himAlaya<e>3
+<s>himA<srs/>laya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s>, to resemble the <s1>Himālaya</s1>, <ls>Dhūrtas.</ls><info verb="nom" cp="P"/><info hui="b"/>
 <LEND>

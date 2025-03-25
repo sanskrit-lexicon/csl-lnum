@@ -1,8 +1,8 @@
 <L>8394<pc>266<k1>falsify<k2>falsify
-<div n="lb"/>{@FALSIFY@}¦ (v.t.): <div n="I">I To counterfeit; forge. </div><div n="I">II
-<div n="lb"/>To prove to be false: </div><div n="1">(1) {#miTyAkaroti, #}
-<div n="lb"/>{# vitaTIkaroti,#} etc., {%if you f. your own saying:%}
-<div n="lb"/>{#miTyAkarozi cet svIyaM BAzitam,#} A. r.; </div><div n="1">(2) {#anftaM#}
-<div n="lb"/>(f. {#tAM#}) {#karoti;#} <div n="xe">{%you should not f. it:%}</div> <div n="xs">{#tattvayA #}
-<div n="lb"/>{# nAnftaM kAryam,#}</div> V. p.</div>
+{@FALSIFY@}¦ (v.t.): <div n="I">I To counterfeit; forge. </div><div n="I">II
+To prove to be false: </div><div n="1">(1) {#miTyAkaroti, #}
+{# vitaTIkaroti,#} etc., {%if you f. your own saying:%}
+{#miTyAkarozi cet svIyaM BAzitam,#} A. r.; </div><div n="1">(2) {#anftaM#}
+(f. {#tAM#}) {#karoti;#} <div n="xe">{%you should not f. it:%}</div> <div n="xs">{#tattvayA #}
+{# nAnftaM kAryam,#}</div> V. p.</div>
 <LEND>

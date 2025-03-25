@@ -1,12 +1,12 @@
 <L>40049<pc>4-0241<k1>nizeva<k2>nizeva
-{#nizeva#}¦ (von {#sev#} mit {#ni#}) 
-<div n="1"> 1) <lex>adj.</lex> {%übend, obliegend%}: {#hrI°#} {%bescheiden%} 
-<ls>MBH. 1, 3682. 2, 1909. 4, 594. 1118. 7, 9126. 8, 207. 9, 516. 11, 770.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#A#} 
-<div n="2"> a) {%das Ueben, Obliegen%}: {#sattva°#} 
-<ls>BHĀG. P. 7, 15, 24.</ls> {#yannityasaMbanDa°#} 
-<ls>4, 21, 39.</ls> 
-<div n="2">— b) {%Verehrung%}: {#uttamaSlokapadAravindayoH#} 
-<ls>BHĀG. P. 7, 4, 42.</ls> {#tatpUruza°#} 
-<ls>6, 1, 16.</ls>
+{#nizeva#}¦ (von {#sev#} mit {#ni#})
+<div n="1"> 1) <lex>adj.</lex> {%übend, obliegend%}: {#hrI°#} {%bescheiden%}
+<ls>MBH. 1,3682.</ls> <ls n="MBH.">2,1909.</ls> <ls n="MBH.">4,594.</ls> <ls n="MBH. 4,">1118.</ls> <ls n="MBH.">7,9126.</ls> <ls n="MBH.">8,207.</ls> <ls n="MBH.">9,516.</ls> <ls n="MBH.">11,770.</ls>
+<div n="1">— 2) <lex>f.</lex> {#A#}
+<div n="2"> a) {%das Ueben, Obliegen%}: {#sattva°#}
+<ls>BHĀG. P. 7,15,24.</ls> {#yannityasaMbanDa°#}
+<ls n="BHĀG. P.">4,21,39.</ls>
+<div n="2">— b) {%Verehrung%}: {#uttamaSlokapadAravindayoH#}
+<ls>BHĀG. P. 7,4,42.</ls> {#tatpUruza°#}
+<ls n="BHĀG. P.">6,1,16.</ls>
 <LEND>

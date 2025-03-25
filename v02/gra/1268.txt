@@ -1,5 +1,5 @@
-<L>1268<pc>0141<k1>aSvabuDya<k2>a/Sva-bu/Dya
-{@áśva-búdhya,@}¦ a., {%durch Rosse bemerkenswerth%} oder {%ausgezeichnet%} [budhya].
-<div n="P1">-am rayím {92,8}.
-<div n="P1">-ān vā́jān {92,7}; {121,14}.
-<LEND>
+<L>1268<pc>0141<k1>aSvabuDya<k2>a/Sva-buDya
+<chg type="chg" n="46" src="gra"><old>{@aśva-búdhya,@}</old><new>{@áśva-budhya,@}</new></chg>¦ <ab>a.</ab>, {%durch Rosse bemerkenswerth%} oder {%ausgezeichnet%} [budhya].
+<div n="TS">-am rayím {92,8}.
+<div n="TS">-ān vā́jān {92,7}; {121,14}.
+<LEND> [Page142]

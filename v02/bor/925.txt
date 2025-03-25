@@ -1,9 +1,9 @@
 <L>925<pc>032<k1>appeal<k2>appeal
-<div n="lb"/>{@APPEAL@}¦ (subs.): <div n="I">I Leg. t. t.: {#*punarvicAraprArTanA.#}
-<div n="lb"/><div n="xe">{%A court of a.%}</div> <div n="xs">{#*ye prAqvivAkAH punarvicAraprArTanAM #}
-<div n="lb"/>{# Srotumarhanti#}</div> <div n="xe">{%or%}</div> <div n="xs">{#SfRvanti.#}</div> </div><div n="I">II Reference to some
-<div n="lb"/>one as an authority or witness: Ph. to
-<div n="lb"/>make an a. to {#pramARayati#} (nomi.). </div><div n="I">III Resort,
-<div n="lb"/>recourse: q. v. </div><div n="I">IV An address of entreaty:
-<div n="lb"/>{#prArTanA.#}</div>
+{@APPEAL@}¦ (subs.): <div n="I">I Leg. t. t.: {#*punarvicAraprArTanA.#}
+<div n="xe">{%A court of a.%}</div> <div n="xs">{#*ye prAqvivAkAH punarvicAraprArTanAM #}
+{# Srotumarhanti#}</div> <div n="xe">{%or%}</div> <div n="xs">{#SfRvanti.#}</div> </div><div n="I">II Reference to some
+one as an authority or witness: Ph. to
+make an a. to {#pramARayati#} (nomi.). </div><div n="I">III Resort,
+recourse: q. v. </div><div n="I">IV An address of entreaty:
+{#prArTanA.#}</div>
 <LEND>

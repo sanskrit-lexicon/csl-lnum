@@ -1,9 +1,9 @@
 <L>6400<pc>273<k1>magistrate<k2>magistrate
 {@Magistrate,@}¦ {%s.%} {#DarmADyakzaH, nyAyADyakzaH;#} {%See%}
-<div n="lb"/>{@Judge. -Magistracy,@} {%s.%} {#DarmADipatyaM,#}
-<div n="lb"/>{#nyAyADikaraRaM, DarmADikAraH#}. {@2@} {#DarmADyakza-#}
-<div n="lb"/>{#-gaRaH-samUhaH#}. {@-Magisterial,@} {%a.%} ({%s.%}) in
-<div n="lb"/>comp., {#ADikArika#} ({#kI#} {%f.%}). {@2@} {#praButva#}.
-<div n="lb"/>{#viSizwa, AjYApaka, sAvalepa, dfpta, pragalBa#}.
-<div n="lb"/>{@-ly,@} {%adv.%} {#SAsanarUpeRa; sadarpaM, sAvalepaM#}.
+{@Judge. -Magistracy,@} {%s.%} {#DarmADipatyaM,#}
+{#nyAyADikaraRaM, DarmADikAraH#}. {@2@} {#DarmADyakza-#}
+{#-gaRaH-samUhaH#}. {@-Magisterial,@} {%a.%} ({%s.%}) in
+comp., {#ADikArika#} ({#kI#} {%f.%}). {@2@} {#praButva#}.
+{#viSizwa, AjYApaka, sAvalepa, dfpta, pragalBa#}.
+{@-ly,@} {%adv.%} {#SAsanarUpeRa; sadarpaM, sAvalepaM#}.
 <LEND>

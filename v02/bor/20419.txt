@@ -1,7 +1,7 @@
 <L>20419<pc>638<k1>shore<k2>shore
-<div n="lb"/>{@SHORE@}¦ (subs): <div n="I">I Coast: </div><div n="1">(1) {#kUlam,#} <div n="xe">{%on the s. of%}
-<div n="lb"/>{%the Yamunā:%}</div> <div n="xs">{#upakUlaM kAlindyAH,#}</div> R. xv. 28.; </div><div n="1">(2)
-<div n="lb"/>{#tIram;#} </div><div n="1">(3) {#tawam;#} </div><div n="1">(4) {#velA#} (= sea-s.); </div><div n="1">(5) {#roDasa#}
-<div n="lb"/>(n.: rare), R. viii. 33. </div><div n="I">II A prop: </div><div n="1">(1)
-<div n="lb"/>{#upaGraH;#} </div><div n="1">(2) {#avazwamBaH.#}</div>
+{@SHORE@}¦ (subs): <div n="I">I Coast: </div><div n="1">(1) {#kUlam,#} <div n="xe">{%on the s. of%}
+{%the Yamunā:%}</div> <div n="xs">{#upakUlaM kAlindyAH,#}</div> R. xv. 28.; </div><div n="1">(2)
+{#tIram;#} </div><div n="1">(3) {#tawam;#} </div><div n="1">(4) {#velA#} (= sea-s.); </div><div n="1">(5) {#roDasa#}
+(n.: rare), R. viii. 33. </div><div n="I">II A prop: </div><div n="1">(1)
+{#upaGraH;#} </div><div n="1">(2) {#avazwamBaH.#}</div>
 <LEND>

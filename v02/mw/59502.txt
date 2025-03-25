@@ -1,24 +1,24 @@
 <L>59502<pc>328,3<k1>kzip<k2>kzip<h>1<e>1
-<hom>1.</hom> <s>kzip</s> ¦ <ab>cl.</ab> 6. <ab>P.</ab> <s>kzipa/ti</s> <ab>Ā.</ab> <s>kzipate</s> (<ls>MBh.</ls> &c.; <ab>cl.</ab> 4. <ab>P.</ab> <s>kzipyati</s>, only, <ls>Bhaṭṭ.</ls>; <ab>Subj.</ab> <s>kzipa/t</s>; <ab>perf.</ab> <s>cikzepa</s>, <ls>MBh.</ls> &c.; <ab>ep.</ab> also <s>cikzipe</s>; <ab>fut.</ab> 2nd <s>kzepsyati</s>, <ls>MBh.</ls> &c.; <ab>ep.</ab> also <s>°te</s>; <ab>inf.</ab> <s>kzeptum</s>; <ab>cf.</ab> <ls>Pāṇ. 7-2, 10</ls>; <ls>Siddh.</ls>), 
-<div n="to"/>to throw, cast, send, despatch, <ls>AV. ix, 1, 10 and 20</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> (<ab>Pass.</ab> <ab>pr. p.</ab> <s>kzipyat</s>, <ls>i, 1126</ls>) &c.;
+<hom>1.</hom> <s>kzip</s> ¦ <ab>cl.</ab> 6. <ab>P.</ab> <s>kzipa/ti</s> <ab>Ā.</ab> <s>kzipate</s> (<ls>MBh.</ls> &c.; <ab>cl.</ab> 4. <ab>P.</ab> <s>kzipyati</s>, only, <ls>Bhaṭṭ.</ls>; <ab>Subj.</ab> <s>kzipa/t</s>; <ab>perf.</ab> <s>cikzepa</s>, <ls>MBh.</ls> &c.; <lang>ep.</lang> also <s>cikzipe</s>; <ab>fut.</ab> 2nd <s>kzepsyati</s>, <ls>MBh.</ls> &c.; <lang>ep.</lang> also <s>°te</s>; <ab>inf.</ab> <s>kzeptum</s>; <ab>cf.</ab> <ls>Pāṇ. vii, 2, 10</ls>; <ls>Siddh.</ls>),
+<div n="to"/>to throw, cast, send, despatch, <ls>AV. ix, 1, 10</ls> and <ls n="AV. ix, 1,">20</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> (<ab>Pass.</ab> <ab>pr. p.</ab> <s>kzipyat</s>, <ls n="MBh.">i, 1126</ls>) &c.
 <div n="to"/>to move hastily (the arms or legs), <ls>Mṛcch.</ls>; <ls>BhP. x, 36, 14</ls>;
 <div n="to"/>to throw a glance (as the eye), <ls>Bhartṛ. i, 94</ls>;
-<div n="to"/>to strike or hit (with a weapon), <ls>RV. i, 182, 1-3</ls>;
+<div n="to"/>to strike or hit (with a weapon), <ls>RV. i, 182, 1</ls>-<ls n="RV. i, 182,">3</ls>;
 <div n="to"/>to put or place anything on or in (<ab>loc.</ab>), pour on, scatter, fix or attach to (<ab>loc.</ab>), <ls>Yājñ. i, 230</ls>; <ls>Bhag.</ls>; <ls>Mṛcch.</ls> &c.;
 <div n="to"/>to direct (the thoughts) upon (<ab>loc.</ab>), <ls>Sarvad.</ls>;
 <div n="to"/>to throw away, cast away, get rid of <ls>Bhartṛ. ii, 69</ls>; <ls>Kathās.</ls>;
 <div n="to"/>to lay (the blame) on (<ab>loc.</ab>), <ls>Hit.</ls>;
 <div n="to"/>to utter abusive words, insult, revile, abuse, <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
-<div n="vp"/> ‘to disdain’ <ab>i.e.</ab> to excel, beat, outvie, <ls>BhP. iv, 8, 24 and 15, 17</ls>;
+<div n="vp"/> ‘to disdain’ <ab>i.e.</ab> to excel, beat, outvie, <ls>BhP. iv, 8, 24</ls> and <ls n="BhP. iv,">15, 17</ls>;
 <div n="to"/>to strike down, ruin, destroy, <ls>BhP. vi, 1, 14</ls>; <ls>BrahmaP.</ls>;
 <div n="vp"/> (<ab>Ā.</ab> ‘to destroy one another, go to ruin’ <ab>Pot.</ab> 3. <ab>pl.</ab> <s>kziperan</s>, <ls>MBh. iii, 1094</ls>);
-<div n="to"/>to pass or while away (the time or night, <s>kAlam</s>, <s>kzapAm</s>), <ls>Kathās. lv, 154; xcii, 84</ls>;
+<div n="to"/>to pass or while away (the time or night, <s>kAlam</s>, <s>kzapAm</s>), <ls>Kathās. lv, 154</ls>; <ls n="Kathās.">xcii, 84</ls>;
 <div n="to"/>to lose (time, <s>kAlam</s>; <ab>cf.</ab> <s>kAlakzepa</s>), <ls>R. vii, 80, 14</ls>;
 <div n="to"/>to skip or pass over (a day, <s>dinam</s>.), <ls>Car. vi, 3</ls>;
 <div n="vp"/> (in <ab>math.</ab>) to add, <ls>Gol.</ls> :
-<div n="to"/><ab>Caus.</ab> <ab>P.</ab> <s>kzepayati</s>, to cause to cast or throw into (<s>antar</s>), <ls>Kathās. xiii, 160</ls>;
+<div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <s>kzepayati</s>, to cause to cast or throw into (<s>antar</s>), <ls>Kathās. xiii, 160</ls>;
 <div n="to"/>to throw into, <ls>R. ii, 76, 16</ls>;
 <div n="to"/>to cause to descend into (<ab>loc.</ab>), <ls>Kathās. lxxv, 121</ls>;
-<div n="to"/>to pass or while away (the night, <s>kzapAm</s>), <ls>ib. lvi, 75</ls>;
+<div n="to"/>to pass or while away (the night, <s>kzapAm</s>), <ls>ib.</ls> <ls n="Kathās.">lvi, 75</ls>;
 <div n="to"/> (<ab>aor.</ab> <ab>Subj.</ab> 2. <ab>sg.</ab> <s>cikzipas</s>) to hurt, injure, <ls>RV. x, 16, 1</ls> (<ab>cf.</ab> <ab>Subj.</ab> <s>kzepayat</s> <ab>s.v.</ab> √ <hom>2.</hom> <s>kzi</s>); <info whitneyroots="kzip,29"/><info verb="genuineroot" cp="6P,6Ā,4P,4Ā"/>
 <LEND>

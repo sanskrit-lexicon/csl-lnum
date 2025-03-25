@@ -1,8 +1,8 @@
 <L>7618<pc>241<k1>enlarge<k2>enlarge
-<div n="lb"/>{@ENLARGE@}¦ (v. i.): <div n="I">I Lit.: {#varDate#} ({#vfD,#} c. 1.), <div n="xe">{%the%}
-<div n="lb"/>{%fish e. d there:%}</div> <div n="xs">{#sa tatra vavfDe matsyaH,#}</div> Mah.: v. To
-<div n="lb"/>increase, extend. </div><div n="I">II <div n="xe">{%To e. upon:%}</div> <div n="xs">{#prapaYcayati#}</div>
-<div n="lb"/>({#paYc,#} c. 10.), <div n="xe">{%now we will e. on its different%}
-<div n="lb"/>{%states:%}</div> <div n="xs">{#idAnI tasyEvAvasTABedaH prapaYcayate,#}</div> S.: v. To
-<div n="lb"/>detail.</div>
+{@ENLARGE@}¦ (v. i.): <div n="I">I Lit.: {#varDate#} ({#vfD,#} c. 1.), <div n="xe">{%the%}
+{%fish e. d there:%}</div> <div n="xs">{#sa tatra vavfDe matsyaH,#}</div> Mah.: v. To
+increase, extend. </div><div n="I">II <div n="xe">{%To e. upon:%}</div> <div n="xs">{#prapaYcayati#}</div>
+({#paYc,#} c. 10.), <div n="xe">{%now we will e. on its different%}
+{%states:%}</div> <div n="xs">{#idAnI tasyEvAvasTABedaH prapaYcayate,#}</div> S.: v. To
+detail.</div>
 <LEND>

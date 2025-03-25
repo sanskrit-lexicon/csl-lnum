@@ -1,274 +1,271 @@
 <L>14149<pc>2-0001<k1>ka<k2>ka<h>1
-1. {#ka#}¦ pron. interr. nom. <lex>m.</lex> {#kas#}, <lex>f.</lex> {#kA#}, nom. acc. <lex>n.</lex> {#kad#}, später {#kim#}; die übrigen casus regelmässig nach der pronom. Declination, <is>gaṇa</is> {#sarvAdi#} zu 
-<ls>P. 1, 1, 27. 7, 2, 103.</ls> 
-<ls>VOP. 3, 9. 56. 132. 163. 165.</ls> 
-<div n="1"> 1) eig. pron. interr. subst. und <lex>adj.</lex> {%wer, welcher%}: {#kasya\ brahmA^Ri jujuzu\ryuvA^na\H ko a^Dva\re ma\ruta\ A va^varta#} 
-<ls>ṚV. 1, 165, 2.</ls> {#kayA^ ma\tI kuta\ etA^sa e\te#} 1. {#ko a\dDA ve^da\ ka i\ha pra vo^cat#} 
-<ls n="ṚV.">3, 54, 5.</ls> {#kA ma\ryAdA^ va\yunA\ kadDa^ vA\mam#} 
-<ls n="ṚV.">4, 5, 13.</ls> <ls n="ṚV.">5, 41, 11.</ls> {#kadyadU^ci\ma#} 
-<ls n="ṚV.">1, 161, 1.</ls> {#ko^ 'si kata\mo^ 'si kasyA^si\ ko nAmA^si#} 
-<ls>VS. 7, 29. 48.</ls> 
-<ls>ŚAT. BR. 14, 6, 3, 1.</ls> {#kiM BUtamaDikaM tataH#} 
-<ls>M. 1, 95.</ls> {#kena hetunA#} 
-<ls>8, 161.</ls> {#kastasmAttadapohati#} 
-<ls>414.</ls> {#kA tvaM kiM ca cikIrzasi#} 
-<ls>N. 12, 51.</ls> {#ke vE BavantaH kaScAsO yasyAhaM dUta IpsitaH . kiM ca tadvo mayA kAryam#} 
-<ls>3, 2.</ls> {#kasya tvam#} 
-<ls>11, 28.</ls> {#pumAMsaM kaM na mohayeH#} 
-<ls>MBH. 4, 266.</ls> {#kA satI ke vayaM tava#} 
-<ls>1, 8398.</ls> {#kiM tat#} (sc. {#sTAnam#}) {%was ist das (für ein Standort)?%} 
-<ls>HIT. 26, 11.</ls> {#na ca jYAyeta kasya saH#} {%und wenn man nicht wüsste, wessen%} (Sohn) {%er ist%} 
-<ls>M. 9, 170.</ls> {#kaTyatAM kA gatirduHKasyeti#} 
-<ls>MUDRĀR. 134, 15.</ls> Ueber diesen Gebrauch des interr. mit und ohne {#iti#} s. 
-<ls>BÖHTL.</ls> zu <ls>ŚĀK. 3, 9. 10.</ls> {#maraRavyADiSokAnAM kimadya nipatizyati#} {%was%} (von den Dreien) 
-<ls>HIT. I, 3.</ls> {#tAnniGnatA kiM na hataM rakzatA kiM na rakzitam#} {%wer dieses%} (das Leben) {%opfert, was hat der nicht vernichtet%} (d. h. {%der hat Alles vernichtet)? wer dieses erhält, was hat der nicht erhalten?%} 
-<ls>37.</ls> {#tadA laByaM Bavenna kim#} 
-<ls>42.</ls> {#AH kastizWa kastizWa#} {%wer bist du? bleibe stehen!%} 
-<ls>ŚĀK. 94, 1, v. l.</ls> {#ke mama Danvino 'nye#} {%wer sind die andern Bogenträger für mich?%} (d. i. {%was vermögen sie gegen mich?%}) 
-<ls>KUMĀRAS. 3, 10</ls>; vgl. im <is>Prākrit</is>: {#kAo vaM BawwiRo paRaapariggahassa#} 
-<ls>MĀLAV. 40, 16.</ls> {#kA tumaM visajjidavvassa runDidabvassa vA#} 
-<ls>ŚĀK. 17, 11.</ls> {#kAo vaaM parittAduM#} {%wie vermögen wir zu retten?%} 
-<ls>12, 9.</ls> <ls>MĀLAV. 55, 13.</ls> In Verbindung mit einem demonstr.: {#ko 'yamAyAti#} {%wer kommt da?%} 
-<ls>HIT. 18, 11.</ls> {#ko 'yamAcaratyavinayam#} 
-<ls>ŚĀK. 24.</ls> 
-<ls>N. 12, 73.</ls> {#kimidaM prArTitaM kartum#} 
-<ls>19, 14.</ls> {#kAmenAM Socase nityam#} 
-<ls>15, 11.</ls> — {#kaM Bojayati, Bojayizyati#} oder {#BojayitA (lipsAyAm#} d. i. wenn der Fragende selbst gespeist zu werden wünscht) 
-<ls>P. 3, 3, 6.</ls> 
-<ls>VOP. 25, 5.</ls> Häufig mit dem potent.: {#ko vaDena mamArTI syAt#} {%wer möchte meinen Tod wünschen?%} 
-<ls>DAŚ. 1, 27.</ls> {#kimaparaM heyaM BavenmAninAm#} 
-<ls>CĀT. 4.</ls> {#kaH patidevatAmanyaH parimArzwumutsaheta#} 
-<ls>ŚĀK. 83, 17.</ls> {#ko hariM nindet#} oder {#nindizyati (garhAyAm)#} 
-<ls>P. 3, 3, 144.</ls> 
-<ls>VOP. 25, 10. 11.</ls> Wiederholt: {#kaH #}
+1. {#ka#}¦ pron. interr. nom. <lex>m.</lex> {#kas#}, <lex>f.</lex> {#kA#}, nom. acc. <lex>n.</lex> {#kad#}, später {#kim#}; die übrigen casus regelmässig nach der pronom. Declination, <is>gaṇa</is> {#sarvAdi#} zu
+<ls>P. 1,1,27.</ls> <ls n="P.">7,2,103.</ls>
+<ls>VOP. 3,9.</ls> <ls n="VOP. 3,">56.</ls> <ls n="VOP. 3,">132.</ls> <ls n="VOP. 3,">163.</ls> <ls n="VOP. 3,">165.</ls>
+<div n="1"> 1) eig. pron. interr. subst. und <lex>adj.</lex> {%wer, welcher%}: {#kasya\ brahmA^Ri jujuzu\ryuvA^na\H ko a^Dva\re ma\ruta\ A va^varta#}
+<ls>ṚV. 1,165,2.</ls> {#kayA^ ma\tI kuta\ etA^sa e\te#} 1. {#ko a\dDA ve^da\ ka i\ha pra vo^cat#}
+<ls n="ṚV.">3,54,5.</ls> {#kA ma\ryAdA^ va\yunA\ kadDa^ vA\mam#}
+<ls n="ṚV.">4,5,13.</ls> <ls n="ṚV.">5,41,11.</ls> {#kadyadU^ci\ma#}
+<ls n="ṚV.">1,161,1.</ls> {#ko^ 'si kata\mo^ 'si kasyA^si\ ko nAmA^si#}
+<ls>VS. 7,29. 48.</ls>
+<ls>ŚAT. BR. 14,6,3,1.</ls> {#kiM BUtamaDikaM tataH#}
+<ls>M. 1,95.</ls> {#kena hetunA#}
+<ls n="M.">8,161.</ls> {#kastasmAttadapohati#}
+<ls n="M. 8,">414.</ls> {#kA tvaM kiM ca cikIrzasi#}
+<ls>N. 12,51.</ls> {#ke vE BavantaH kaScAsO yasyAhaM dUta IpsitaH . kiM ca tadvo mayA kAryam#}
+<ls n="N.">3,2.</ls> {#kasya tvam#}
+<ls n="N.">11,28.</ls> {#pumAMsaM kaM na mohayeH#}
+<ls>MBH. 4,266.</ls> {#kA satI ke vayaM tava#}
+<ls n="MBH.">1,8398.</ls> {#kiM tat#} (sc. {#sTAnam#}) {%was ist das (für ein Standort)?%}
+<ls>HIT. 26,11.</ls> {#na ca jYAyeta kasya saH#} {%und wenn man nicht wüsste, wessen%} (Sohn) {%er ist%}
+<ls>M. 9,170.</ls> {#kaTyatAM kA gatirduHKasyeti#}
+<ls>MUDRĀR. 134,15.</ls> Ueber diesen Gebrauch des interr. mit und ohne {#iti#} s.
+<ls>BÖHTL.</ls> zu <ls>ŚĀK. 3,9. 10.</ls> {#maraRavyADiSokAnAM kimadya nipatizyati#} {%was%} (von den Dreien)
+<ls>HIT. I,3.</ls> {#tAnniGnatA kiM na hataM rakzatA kiM na rakzitam#} {%wer dieses%} (das Leben) {%opfert, was hat der nicht vernichtet%} (d. h. {%der hat Alles vernichtet%})? {%wer dieses erhält, was hat der nicht erhalten?%}
+<ls n="HIT. I,">37.</ls> {#tadA laByaM Bavenna kim#}
+<ls n="HIT. I,">42.</ls> {#AH kastizWa kastizWa#} {%wer bist du? bleibe stehen!%}
+<ls>ŚĀK. 94,1, v. l.</ls> {#ke mama Danvino 'nye#} {%wer sind die andern Bogenträger für mich?%} (<ab>d. i.</ab> {%was vermögen sie gegen mich?%})
+<ls>KUMĀRAS. 3,10</ls>; vgl. im <is>Prākrit</is>: {#kAo vaM BawwiRo paRaapariggahassa#}
+<ls>MĀLAV. 40,16.</ls> {#kA tumaM visajjidavvassa runDidabvassa vA#}
+<ls>ŚĀK. 17,11.</ls> {#kAo vaaM parittAduM#} {%wie vermögen wir zu retten?%}
+<ls n="ŚĀK.">12,9.</ls> <ls>MĀLAV. 55,13.</ls> In Verbindung mit einem demonstr.: {#ko 'yamAyAti#} {%wer kommt da?%}
+<ls>HIT. 18,11.</ls> {#ko 'yamAcaratyavinayam#}
+<ls>ŚĀK. 24.</ls>
+<ls>N. 12,73.</ls> {#kimidaM prArTitaM kartum#}
+<ls n="N.">19,14.</ls> {#kAmenAM Socase nityam#}
+<ls n="N.">15,11.</ls> — {#kaM Bojayati, Bojayizyati#} oder {#BojayitA (lipsAyAm#} <ab>d. i.</ab> wenn der Fragende selbst gespeist zu werden wünscht)
+<ls>P. 3,3,6.</ls>
+<ls>VOP. 25,5.</ls> Häufig mit dem potent.: {#ko vaDena mamArTI syAt#} {%wer möchte meinen Tod wünschen?%}
+<ls>DAŚ. 1,27.</ls> {#kimaparaM heyaM BavenmAninAm#}
+<ls>CĀT. 4.</ls> {#kaH patidevatAmanyaH parimArzwumutsaheta#}
+<ls>ŚĀK. 83,17.</ls> {#ko hariM nindet#} oder {#nindizyati (garhAyAm)#}
+<ls>P. 3,3,144.</ls>
+<ls>VOP. 25,10.</ls> <ls n="VOP. 25,">11.</ls> Wiederholt: {#kaH #}
 [Page2-0002]
-{# ko 'tra BoH#} {%wer, wer da?%} 
-<ls>ŚĀK. 22, 21. 92, 21. 112, 10.</ls> 
-<ls>PRAB. 31, 18.</ls> {#kiM kiM na karoti#} 
-<ls>PAÑCAT. I, 338.</ls> {#kaskaH#} <is>gaṇa</is> {#kaskAdi#} zu 
-<ls>P. 8, 3, 48.</ls> {#kAMskAn#} oder {#kA~skAn#} 
-<ls>P. 8, 3, 12.</ls> auch {#kAnkAn#} 
-<ls>VOP. 2, 35.</ls> Bei einer Doppelfrage in einem und demselben Satze wie im Griechischen und in den slawischen Sprachen: {#kena kaM paSyet kena kaM jiGret#} 
-<ls>ŚAT. BR. 14, 5, 4, 16.</ls> {#kA vAM kaM varamicCati#} 
-<ls>R. 1, 39, 12.</ls> {#kaH kaM paritrAyate#} 
-<ls>PAÑCAT. III, 268.</ls> {#prajAsu kaH kena paTA prayAtItyaSezato veditumasti SaktiH#} 
-<ls>ŚĀK. 153.</ls> {#kim#} mit einem instr. oder einem gerund. auf {#tvA (ya)#} {%was durch dieses?%} d. i. {%was liegt daran? wozu dieses?%} 
-<ls>H. 1528.</ls> 
-<ls>MED. <is>avy</is>. 52</ls> ({#nizeDe#}). Die betheiligte Person im gen. {#kiM vilambena#} {%wozu das Zögern?%} 
-<ls>R. 3, 35, 35.</ls> {#bahunA kiM pralApena#} 
-<ls>VIŚV. 3, 25.</ls> {#kiM bahunA#} {%wozu die vielen Worte?%} 
-<ls>PAÑCAT. 5, 3.</ls> 
-<ls>ŚĀK. 25, 16. 39, 2. 70, 3.</ls> 
-<ls>HIT. Pr. 11</ls> (wechselt mit {#ko 'rTaH#}). 
-<ls>21, 3.</ls> {#kimanena saMtatirasti nAstIti#} {%was liegt daran, ob Jemand Nachkommenschaft hat oder nicht?%} 
-<ls>ŚĀK. 91, 7.</ls> {#kimanena ciraM BIma jIvatA pAparakzasA#} {%was liegt daran, dass er noch lange lebt?%} 
-<ls>HIḌ. 4, 45.</ls> {#vyADitasyOzaDaM paTyaM nIrujastu kimOzaDEH#} 
-<ls>HIT. I, 13.</ls> <ls>PAÑCAT. I, 120. 94, 12.</ls> <ls>RAGH. 2, 53.</ls> {#kiM tavAnena#} {%was geht dich das an?%} 
-<ls>P. 3, 4, 28,</ls> 
-<ls>Sch.</ls> 
-<ls>ŚĀK. 123.</ls> {#kiM te jYAtErmUQa mahADanurDarEH#} {%was liegt dir daran, sie zu kennen?%} 
-<ls>DRAUP. 7, 4.</ls> {#kiM te yoDErnipAtitEH#} 
-<ls>8, 38.</ls> {#kiM te sUryaM nipAtya vE#} {%was liegt dir daran. die Sonne zu Fall zu bringen?%} 
-<ls>MBH. 13, 4628.</ls> {#kim#} am Anf. eines <lex>adj.</lex> comp.: {#ki/Mdevata#} {%welche Gottheit habend?%} 
-<ls>ŚAT. BR. 14, 6, 9, 21-25.</ls> {#kiMvIrya#}.{# kiMparAkrama#} 
-<ls>R. 3, 38, 2.</ls> {#kiMrUpa, kiMprahAra#} 
-<ls>PAÑCAT. 258, 13.</ls> {#kimAKya#} 
-<ls>ŚĀK. 104, 18.</ls> {#kiMvyApAra#} 
-<ls>ŚĀK. CH. 150, 8.</ls> {#kiMnAman#} 
-<ls>VID. 267.</ls> {#kiMkzaRa#} {%der da sagt: was ist ein Augenblick?%} d. i. {%der den Augenblick nicht achtet%}, ebenso {#kiMvarAwaka#} 
-<ls>HIT. II, 87.</ls> {#kiMrAjan#} {%ein schlechter König%} (eig. {%ist das ein König?%}) und ähnliche compp. werden wir unter {#kim#} aufführen, da hier {#kim#} Fragepartikel ist. Sehr verführerisch ist es, in manchen mit {#ka#} anlautenden Wörtern dieses {#ka#} als pron. interr. d. i. als Ausdruck der {%Verwunderung%} aufzufassen. Wenn wir auch eine solche Art von Zusammensetzung nicht schlechtweg in Abrede zu stellen gedenken, so müssen wir doch darauf aufmerksam machen, dass man mit dieser Erklärungsweise hier und da nach unserer Ansicht zu weit gegangen ist. Vgl.
+{# ko 'tra BoH#} {%wer, wer da?%}
+<ls>ŚĀK. 22,21. 92,21. 112,10.</ls>
+<ls>PRAB. 31,18.</ls> {#kiM kiM na karoti#}
+<ls>PAÑCAT. I,338.</ls> {#kaskaH#} <is>gaṇa</is> {#kaskAdi#} zu
+<ls>P. 8,3,48.</ls> {#kAMskAn#} oder {#kA~skAn#}
+<ls>P. 8,3,12.</ls> auch {#kAnkAn#}
+<ls>VOP. 2,35.</ls> Bei einer Doppelfrage in einem und demselben Satze wie im Griechischen und in den slawischen Sprachen: {#kena kaM paSyet kena kaM jiGret#}
+<ls>ŚAT. BR. 14,5,4,16.</ls> {#kA vAM kaM varamicCati#}
+<ls>R. 1,39,12.</ls> {#kaH kaM paritrAyate#}
+<ls>PAÑCAT. III,268.</ls> {#prajAsu kaH kena paTA prayAtItyaSezato veditumasti SaktiH#}
+<ls>ŚĀK. 153.</ls> {#kim#} mit einem instr. oder einem gerund. auf {#tvA (ya)#} {%was durch dieses?%} <ab>d. i.</ab> {%was liegt daran? wozu dieses?%}
+<ls>H. 1528.</ls>
+<ls>MED. <is>avy</is>. 52</ls> ({#nizeDe#}). Die betheiligte Person im gen. {#kiM vilambena#} {%wozu das Zögern?%}
+<ls>R. 3,35,35.</ls> {#bahunA kiM pralApena#}
+<ls>VIŚV. 3,25.</ls> {#kiM bahunA#} {%wozu die vielen Worte?%}
+<ls>PAÑCAT. 5,3.</ls>
+<ls>ŚĀK. 25,16. 39,2. 70,3.</ls>
+<ls>HIT. Pr. 11</ls> (wechselt mit {#ko 'rTaH#}).
+<ls n="HIT.">21,3.</ls> {#kimanena saMtatirasti nAstIti#} {%was liegt daran, ob Jemand Nachkommenschaft hat oder nicht?%}
+<ls>ŚĀK. 91,7.</ls> {#kimanena ciraM BIma jIvatA pAparakzasA#} {%was liegt daran, dass er noch lange lebt?%}
+<ls>HIḌ. 4,45.</ls> {#vyADitasyOzaDaM paTyaM nIrujastu kimOzaDEH#}
+<ls>HIT. I,13.</ls> <ls>PAÑCAT. I,120. 94,12.</ls> <ls>RAGH. 2,53.</ls> {#kiM tavAnena#} {%was geht dich das an?%}
+<ls>P. 3,4,28</ls>, <ls>Sch.</ls>
+<ls>ŚĀK. 123.</ls> {#kiM te jYAtErmUQa mahADanurDarEH#} {%was liegt dir daran, sie zu kennen?%}
+<ls>DRAUP. 7,4.</ls> {#kiM te yoDErnipAtitEH#}
+<ls n="DRAUP.">8,38.</ls> {#kiM te sUryaM nipAtya vE#} {%was liegt dir daran. die Sonne zu Fall zu bringen?%}
+<ls>MBH. 13,4628.</ls> {#kim#} am Anf. eines <lex>adj.</lex> comp.: {#ki/Mdevata#} {%welche Gottheit habend?%}
+<ls>ŚAT. BR. 14,6,9,21-25.</ls> {#kiMvIrya#}.{# kiMparAkrama#}
+<ls>R. 3,38,2.</ls> {#kiMrUpa, kiMprahAra#}
+<ls>PAÑCAT. 258,13.</ls> {#kimAKya#}
+<ls>ŚĀK. 104,18.</ls> {#kiMvyApAra#}
+<ls>ŚĀK. CH. 150,8.</ls> {#kiMnAman#}
+<ls>VID. 267.</ls> {#kiMkzaRa#} {%der da sagt: was ist ein Augenblick?%} <ab>d. i.</ab> {%der den Augenblick nicht achtet%}, ebenso {#kiMvarAwaka#}
+<ls>HIT. II,87.</ls> {#kiMrAjan#} {%ein schlechter König%} (eig. {%ist das ein König?%}) und ähnliche compp. werden wir unter {#kim#} aufführen, da hier {#kim#} Fragepartikel ist. Sehr verführerisch ist es, in manchen mit {#ka#} anlautenden Wörtern dieses {#ka#} als pron. interr. <ab>d. i.</ab> als Ausdruck der {%Verwunderung%} aufzufassen. Wenn wir auch eine solche Art von Zusammensetzung nicht schlechtweg in Abrede zu stellen gedenken, so müssen wir doch darauf aufmerksam machen, dass man mit dieser Erklärungsweise hier und da nach unserer Ansicht zu weit gegangen ist. Vgl.
 [Page2-0003]
-{#kad, kam, kava, kA, ku#}. — Das interr. in Verbindung mit verschiedenen Partikeln: 
-<div n="2"> a) mit {#iva#} (vgl. u. {#iva#} 
-<ls>3</ls>): {#kimivEza aBUt#} 
-<ls>ŚAT. BR. 11, 4, 1, 8.</ls> 
-<div n="2">— b) mit {#u#} (vgl. u. 
-<ls>2.</ls> {#u#}, 
-<ls>3,c und 7</ls>): {#ka u tasmE manuzyo yaH#} 
-<ls>ŚAT. BR. 5, 2, 2, 3. 10, 4, 4, 3.</ls> {#ka u^ Sravat#} 
-<ls>ṚV. 4, 43, 1.</ls> {#kimu SmaSrURi#} 
-<ls>AIT. BR. 7, 13.</ls> 
-<div n="2">— c) mit {#nAma#} {%wohl%}: {#siMhaM voDayati ko nAma#} 
-<ls>PAÑCAT. I, 351. II, 166. 165, 6.</ls> <ls>?ad. ŚĀK. 94. KATHĀS. 4, 133. 16, 9. PRAB. 15, 16. 29, 13. 33, 17.</ls> {#kimiva nAmAyuzmAnamareSvarAnnArhati#} 
-<ls>ŚĀK. 97, 15.</ls> 
-<div n="2">— d) mit der Fragepartikel {#nu#} 
-<ls>ṚV. 1, 165, 13.</ls> <ls n="ṚV.">8, 45, 37.</ls> {#ko nvayam#} 
-<ls>ŚAT. BR. 13, 4, 1, 15. 14, 6, 9, 34.</ls> {#kiM nu malaM kimajinam#} 
-<ls>AIT. BR. 7, 13.</ls> {#ka u\ nu te^ mahi\mana^H samasyA\smatpUrva\ fza\yo 'nta^mApuH#} 
-<ls>ṚV. 10, 54, 3.</ls> {#kadU\ nva1^\syAkf^tam#} 
-<ls n="ṚV.">8, 55, 9.</ls> {#ko nvasminsAMprataM loke guRavAnkaSca vIryavAn#} 
-<ls>R. 1, 1, 2.</ls> {#ko nvetalloke 'sminpraTayet#} 
-<ls>4, 1.</ls> {#kiM nvidamucyate (vanam)#} {%wie heisst dieser (Wald)?%} 
-<ls>26, 15.</ls> {#kiM nu kAryaM hatasyeha mama#} 
-<ls>2, 73, 2. 5, 15, 2. 3.</ls> {#kaM nu pfcCAmi#} 
-<ls>N. 12, 20.</ls> {#ko nu me jIvitenArTaH#} 
-<ls>65.</ls> {#ko nu Kalveza niziDyate#} 
-<ls>ŚĀK. 101, 19. 20. 55, 2.</ls> {#kiM nu Kalu syAt#} 
-<ls>71, 20.</ls> 
-<div n="2">— e) mit {#vA#} {%wohl%} 
-<ls>ŚAT. BR. 13, 3, 3, 6.</ls> {#kiM te hiqimba etErvA suKasuptEH praboDitEH#} 
-<ls>HIḌ. 4, 2.</ls> {#parivartini saMsAre mftaH ko vA na jAyate#} 
-<ls>BHARTṚ. 2, 24.</ls> 
-<ls>MEGH. 55.</ls> 
-<ls>ŚṚṄGĀRAT. 4.</ls> {#dahatu madanaH kiM vA mftyoH pareRa viDAsyati#} 
-<ls>SĀH. D. 53, 15.</ls> {#kacam - punarjIvayituM ko vA dEvAdanyaH pragalBate#} 
-<ls>RĀJA-TAR. 2, 96.</ls> Vgl. u. 3,d. 
-<div n="2">— f) mit {#svid: kaH svi^dvf\kzo nizWi^taH#} 
-<ls>ṚV. 1, 182, 7.</ls> {#kaM svi\darDa^m#} 
-<ls n="ṚV. 1,">164, 17.</ls> <ls n="ṚV.">8, 53, 8.</ls> {#kiM svi^dAsIdaDi\zWAna^m#} 
-<ls n="ṚV.">10, 81, 2.</ls> {#kaH svit ka u svit kiM svidBezajam#} 
-<ls>VS. 23, 9.</ls> 
-<ls>ŚAT. BR. 11, 2, 7, 12.</ls> {#kiM svitsvapnaNna nimizati kiM svijjAtaM na copati . kasya svidDfdayaM nAsti kiM svidvegena varDate ..#} 
-<ls>MBH. 3, 10648. 13, 295.</ls> 
-<ls>ŚĀK. 110.</ls> {#kiM svit#} {%was mag das sein?%} 
-<ls>R. 2, 65, 11.</ls> {#kiM nu svidetatpatati#} {%was mag da wohl fallen?%} 
-<ls>MBH. 1, 3571.</ls> {#tatremaM ka upAsIranka u svidanuSerate#} 
-<ls>BHĀG. P. 3, 7, 37.</ls> 
-<div n="1">— 2) indef. {%irgendwer, Jemand, irgendwelcher%}; meist in negat. Sätzen: {#mA kasya^ ya\kzaM sada\midDu\ro gA^H#} 
-<ls>ṚV. 4, 3, 13.</ls> <ls n="ṚV.">5, 70, 4.</ls> {#mA kasmE^ DAtama\Byami\triRe^ naH#} 
-<ls n="ṚV.">1, 120, 8.</ls> {#mA kasya^ no\ ara^ruzo DU\rtiH pra Ra\Nmartya^sya#} 
-<ls n="ṚV.">7, 94, 8.</ls> {#na hi SaSakavizARaM ko 'pi kasmE dadAti#} 
-<ls>BHARTṚ. 3, 99.</ls> {#na kasya ko vallaBaH#} 
-<ls>PAÑCAT. II, 102.</ls> {#nAnyo jAnAti kaH#} 
-<ls>KATHĀS. 1, 56.</ls> {#vipAkaH karmaRAM pretya kezAMcidiha jAyate . iha cAmutra vE kezAm#} ({%für Einige%}) 
-<ls>YĀJÑ. 3, 133.</ls> {#kaTaM sa puruzaH pArTa kaM GAtayati hanti kam#} 
-<ls>BHAG. 2, 21.</ls> 
-<div n="1">— 3) zum eigentlichen indef. wird das interrog. durch seine Verbindung mit den Partikeln {#ca, cana (ca na), cid, vA, api#}; davor erscheint häufig noch das relat. {#ya#}. 
-<div n="2"> a) mit {#ca#} ({%auch) irgend wer%} oder {%welcher%}, pl. {%etwelche%}: {#anyAMSca dantavaktrAdInavaDItkAMSca GAtayat#} 
-<ls>BHĀG. P. 3, 3, 11.</ls> {#na ca kena ca#} 
-(v. l. {#cid) DarmeRa viruDyante prajA imAH#} 
-<ls>MBH.</ls> in <ls>LASSEN, Pent. 68, 48. 71, 80</ls>  (v. l. {#ke ca na#} st. {#kena ca#}). Sehr häufig, namentlich in der älteren Sprache, mit vorang. relat. {%wer%} oder {%welcher immer; Jedermann, jeglich%}; bald relat. indef., bald reines indef.: {#ye ke ca\ prati^Satravaste#} 
-<ls>AV. 4, 22, 6. 5, 13, 9. 23, 5.</ls> {#yo vE kaSca mriyate sa SavaH#} 
-<ls>ŚAT. BR. 13, 8, 1, 1. 14, 4, 1, 21.</ls> {#etarhi ya eva kaSca brahmA Bavati#} 
-<ls>12, 6, 1, 41.</ls> {#yatkiM ca^ pfTi\vyAmaDi^#} 
-<ls>ṚV. 5, 83, 9.</ls> {#yAH kASca^ vI\ruDa^H#} 
-<ls>AV. 11, 4, 17. 7, 70, 3. 76, 3.</ls> 
-<ls>VS. 13, 6.</ls> {#yasmi\nkasmi^MSca\ jAya^te#} 
-<ls>AV. 12, 4, 14.</ls> {#yasyE kasyE ca devatAyE#} 
-<ls>ŚAT. BR. 1, 6, 3, 19.</ls> {#tasmAdyasmAtkasmAccANgAtprARa utkrAmati#} 
-<ls>BṚH. ĀR. UP. 1, 3, 19.</ls> {#tasmAdyayA kayA ca viDayA vahvannaM prApnuyAt#} 
-<ls>TAITT. UP. 3, 10, 1.</ls> {#yA vedabAhyAH smftayo yASca kASca kudfzwayaH . sarvAstA nizPalAH#} 
-<ls>M. 12, 95.</ls> {#yAni kAni ca mitrARi kartavyAni SatAni ca#} ad 
-<ls>HIT. 17, 3.</ls> {#yatkiM ca#} 
-<ls>BHĀG. P. 2, 6, 44.</ls> 
+{#kad, kam, kava, kA, ku#}. — Das interr. in Verbindung mit verschiedenen Partikeln:
+<div n="2"> a) mit {#iva#} (vgl. u. {#iva#} 3):
+{#kimivEza aBUt#}
+<ls>ŚAT. BR. 11,4,1,8.</ls>
+<div n="2">— b) mit {#u#} (vgl. u. 2. {#u#}, 3,c und 7):
+{#ka u tasmE manuzyo yaH#}
+<ls>ŚAT. BR. 5,2,2,3.</ls> <ls n="ŚAT. BR.">10,4,4,3.</ls> {#ka u^ Sravat#}
+<ls>ṚV. 4,43,1.</ls> {#kimu SmaSrURi#}
+<ls>AIT. BR. 7,13.</ls>
+<div n="2">— c) mit {#nAma#} {%wohl%}: {#siMhaM voDayati ko nAma#}
+<ls>PAÑCAT. I,351.</ls> <ls n="PAÑCAT.">II,166.</ls> <ls n="PAÑCAT. II,">165,6.</ls> ad. <ls>ŚĀK. 94.</ls> <ls>KATHĀS. 4,133.</ls> <ls n="KATHĀS.">16,9.</ls> <ls>PRAB. 15,16.</ls> <ls n="PRAB.">29,13.</ls> <ls n="PRAB.">33,17.</ls> {#kimiva nAmAyuzmAnamareSvarAnnArhati#}
+<ls>ŚĀK. 97,15.</ls>
+<div n="2">— d) mit der Fragepartikel {#nu#}
+<ls>ṚV. 1,165,13.</ls> <ls n="ṚV.">8,45,37.</ls> {#ko nvayam#}
+<ls>ŚAT. BR. 13,4,1,15.</ls> <ls n="ŚAT. BR.">14,6,9,34.</ls> {#kiM nu malaM kimajinam#}
+<ls>AIT. BR. 7,13.</ls> {#ka u\ nu te^ mahi\mana^H samasyA\smatpUrva\ fza\yo 'nta^mApuH#}
+<ls>ṚV. 10,54,3.</ls> {#kadU\ nva1^\syAkf^tam#}
+<ls n="ṚV.">8,55,9.</ls> {#ko nvasminsAMprataM loke guRavAnkaSca vIryavAn#}
+<ls>R. 1,1,2.</ls> {#ko nvetalloke 'sminpraTayet#}
+<ls n="R. 1,">4,1.</ls> {#kiM nvidamucyate (vanam)#} {%wie heisst dieser (Wald)?%}
+<ls n="R. 1,">26,15.</ls> {#kiM nu kAryaM hatasyeha mama#}
+<ls n="R.">2,73,2.</ls> <ls n="R.">5,15,2.</ls> <ls n="R. 5,15,">3.</ls> {#kaM nu pfcCAmi#}
+<ls>N. 12,20.</ls> {#ko nu me jIvitenArTaH#}
+<ls n="N.">65.</ls> {#ko nu Kalveza niziDyate#}
+<ls>ŚĀK. 101,19. 20. 55,2.</ls> {#kiM nu Kalu syAt#}
+<ls n="ŚĀK.">71,20.</ls>
+<div n="2">— e) mit {#vA#} {%wohl%}
+<ls>ŚAT. BR. 13,3,3,6.</ls> {#kiM te hiqimba etErvA suKasuptEH praboDitEH#}
+<ls>HIḌ. 4,2.</ls> {#parivartini saMsAre mftaH ko vA na jAyate#}
+<ls>BHARTṚ. 2,24.</ls>
+<ls>MEGH. 55.</ls>
+<ls>ŚṚṄGĀRAT. 4.</ls> {#dahatu madanaH kiM vA mftyoH pareRa viDAsyati#}
+<ls>SĀH. D. 53,15.</ls> {#kacam — punarjIvayituM ko vA dEvAdanyaH pragalBate#}
+<ls>RĀJA-TAR. 2,96.</ls> Vgl. u. 3,d.
+<div n="2">— f) mit {#svid: kaH svi^dvf\kzo nizWi^taH#}
+<ls>ṚV. 1,182,7.</ls> {#kaM svi\darDa^m#}
+<ls n="ṚV. 1,">164,17.</ls> <ls n="ṚV.">8,53,8.</ls> {#kiM svi^dAsIdaDi\zWAna^m#}
+<ls n="ṚV.">10,81,2.</ls> {#kaH svit ka u svit kiM svidBezajam#}
+<ls>VS. 23,9.</ls>
+<ls>ŚAT. BR. 11,2,7,12.</ls> {#kiM svitsvapnaNna nimizati kiM svijjAtaM na copati . kasya svidDfdayaM nAsti kiM svidvegena varDate ..#}
+<ls>MBH. 3,10648.</ls> <ls n="MBH.">13,295.</ls>
+<ls>ŚĀK. 110.</ls> {#kiM svit#} {%was mag das sein?%}
+<ls>R. 2,65,11.</ls> {#kiM nu svidetatpatati#} {%was mag da wohl fallen?%}
+<ls>MBH. 1,3571.</ls> {#tatremaM ka upAsIranka u svidanuSerate#}
+<ls>BHĀG. P. 3,7,37.</ls>
+<div n="1">— 2) indef. {%irgendwer, Jemand, irgendwelcher%}; meist in negat. Sätzen: {#mA kasya^ ya\kzaM sada\midDu\ro gA^H#}
+<ls>ṚV. 4,3,13.</ls> <ls n="ṚV.">5,70,4.</ls> {#mA kasmE^ DAtama\Byami\triRe^ naH#}
+<ls n="ṚV.">1,120,8.</ls> {#mA kasya^ no\ ara^ruzo DU\rtiH pra Ra\Nmartya^sya#}
+<ls n="ṚV.">7,94,8.</ls> {#na hi SaSakavizARaM ko 'pi kasmE dadAti#}
+<ls>BHARTṚ. 3,99.</ls> {#na kasya ko vallaBaH#}
+<ls>PAÑCAT. II,102.</ls> {#nAnyo jAnAti kaH#}
+<ls>KATHĀS. 1,56.</ls> {#vipAkaH karmaRAM pretya kezAMcidiha jAyate . iha cAmutra vE kezAm#} ({%für Einige%})
+<ls>YĀJÑ. 3,133.</ls> {#kaTaM sa puruzaH pArTa kaM GAtayati hanti kam#}
+<ls>BHAG. 2,21.</ls>
+<div n="1">— 3) zum eigentlichen indef. wird das interrog. durch seine Verbindung mit den Partikeln {#ca, cana (ca na), cid, vA, api#}; davor erscheint häufig noch das relat. {#ya#}.
+<div n="2"> a) mit {#ca#} ({%auch) irgend wer%} oder {%welcher%}, pl. {%etwelche%}: {#anyAMSca dantavaktrAdInavaDItkAMSca GAtayat#}
+<ls>BHĀG. P. 3,3,11.</ls> {#na ca kena ca#}
+(v. l. {#cid) DarmeRa viruDyante prajA imAH#}
+<ls>MBH.</ls> in <ls>LASSEN, Pent. 68,48. 71,80</ls> (v. l. {#ke ca na#} st. {#kena ca#}). Sehr häufig, namentlich in der älteren Sprache, mit vorang. relat. {%wer%} oder {%welcher immer; Jedermann, jeglich%}; bald relat. indef., bald reines indef.: {#ye ke ca\ prati^Satravaste#}
+<ls>AV. 4,22,6.</ls> <ls n="AV.">5,13,9.</ls> <ls n="AV. 5,">23,5.</ls> {#yo vE kaSca mriyate sa SavaH#}
+<ls>ŚAT. BR. 13,8,1,1.</ls> <ls n="ŚAT. BR.">14,4,1,21.</ls> {#etarhi ya eva kaSca brahmA Bavati#}
+<ls n="ŚAT. BR.">12,6,1,41.</ls> {#yatkiM ca^ pfTi\vyAmaDi^#}
+<ls>ṚV. 5,83,9.</ls> {#yAH kASca^ vI\ruDa^H#}
+<ls>AV. 11,4,17.</ls> <ls n="AV.">7,70,3.</ls> <ls n="AV. 7,">76,3.</ls>
+<ls>VS. 13,6.</ls> {#yasmi\nkasmi^MSca\ jAya^te#}
+<ls>AV. 12,4,14.</ls> {#yasyE kasyE ca devatAyE#}
+<ls>ŚAT. BR. 1,6,3,19.</ls> {#tasmAdyasmAtkasmAccANgAtprARa utkrAmati#}
+<ls>BṚH. ĀR. UP. 1,3,19.</ls> {#tasmAdyayA kayA ca viDayA vahvannaM prApnuyAt#}
+<ls>TAITT. UP. 3,10,1.</ls> {#yA vedabAhyAH smftayo yASca kASca kudfzwayaH . sarvAstA nizPalAH#}
+<ls>M. 12,95.</ls> {#yAni kAni ca mitrARi kartavyAni SatAni ca#} ad
+<ls>HIT. 17,3.</ls> {#yatkiM ca#}
+<ls>BHĀG. P. 2,6,44.</ls>
 <div n="2">— b) mit {#cana/ (ca#} {%auch%}
 [Page2-0004]
-+ {#na#} {%nicht) auch Niemand, auch Nichts, auch nicht ein%}: {#adf^zwA\H kiM ca\neha va^H#} 
-<ls>ṚV. 1, 191, 7.</ls> {#yasmA\dindrA^dbfha\taH kiM ca\nemf\te#} 
-<ls n="ṚV.">2, 16, 2.</ls> {#sa viBramanmahIM sarvAM kvacidAsAdya kiM ca na#} 
-<ls>N. 15, 15.</ls> Sehr häufig in einem Satze mit einer zweiten negat. Partikel, wodurch die Negation nicht etwa aufgehoben, sondern nur verstärkt wird: {#mAmIzA\M kaM ca\nocCi^zaH#} 
-<ls>ṚV. 6, 75, 16.</ls> <ls n="ṚV.">2, 16, 3.</ls> {#nAti^ paSyati\ kaSca\na#} 
-<ls>AV. 4, 5, 2.</ls> 
-<ls>VS. 23, 18.</ls> {#yasmA^jjA\taM na pu\rA kiM ca\nEva#} 
-<ls>32, 5.</ls> <ls>AV. 4, 25, 2. 11, 4, 25.</ls> {#na kiM cana#} 
-<ls>ŚAT. BR. 2, 4, 1, 14. 14, 5, 5, 18.</ls> {#na yuvayoreza kiM cana#} {%er geht Euch gar Nichts an%} 
-<ls>1, 6, 3, 13. 14, 6, 8, 1. - 10, 6, 5, 1. 14, 5, 1, 21.</ls> {#na hIdfSamanAyuzyaM loke kiM ca na vidyate#} 
-<ls>M. 4, 134. 5, 47. 6, 47. 8, 189. 351. 9, 26. 11, 261.</ls> 
-<ls>N. 7, 9. 20, 6. 21, 20.</ls> 
-<ls>VIŚV. 7, 20.</ls> {#mA kiM ca na SucaH#} 
-<ls>BHĀG. P. 1, 13, 39.</ls> In solcher Stellung geht das Gefühl für die in {#cana#} enthaltene Negation allmählich verloren und man beginnt die Verbindung in dem Sinne von {%wer%} oder {%was es auch sei, irgend ein%} aufzufassen: {#tvadA kaSca\na hi pra^ke\taH#} 
-<ls>ṚV. 3, 30, 1.</ls> {#sa\vi\tuH kacca\na pri\yam#} 
-<ls n="ṚV.">5, 82, 2.</ls> {#yatrAnibadDo 'pIkzeta SfRuyAdvApi kiMcana#} 
-<ls>M. 8, 76.</ls> {#yadi vaH prativrUyAdDi kaScana#} 
-<ls>N. 17, 40.</ls> 
-<ls>RAGH. 12, 49.</ls> 
-<ls>BHĀG. P. 1, 5, 14.</ls> {#kecana#} {%Einige%} 
-<ls>5, 23, 4.</ls> {#rASIkftAn SuzyamARAnanyAnkAMScana kAMScana#} {%etwelche, verschiedene%} 
-<ls>R. 2, 96, 34.</ls> Wie {#kaSca#} in Verbindung mit dem relat.: {#ahaM cEva hi yaccAnyanmamAsti vasu kiMcana . tatsarvaM tava#} 
-<ls>N. 4, 2. 9, 1. 26, 5.</ls> {#pratyuvAca tataH sADvI - sArTavAhaM ca sArTaM ca janA ye tatra kecana#} 
-<ls>12, 91.</ls> {#tatsarvaM naH samAcakzva pfzwo yadiha kiMcana#} 
-<ls>BHĀG. P. 1, 4, 13.</ls> Als bequemer Ausgang eines Halbverses ist die Verbindung des interr. mit {#cana#} sehr beliebt. In den Beispielen aus der klassischen Literatur schreiben wir {#ca na#} bald getrennt, bald verbunden, je nachdem die Negation ihre ursprüngliche Bedeutung bewahrt oder verloren hat. {#kiMcana#} verbindet sich mit dem neg. {#a#} (s. {#akiMcana#}) und mit {#nis (nizkiMcana#} 
-<ls>BHĀG. P. 2, 9, 6. 6, 3, 28</ls>) zu einem <lex>adj.</lex> comp. in der Bed. {%Nichts besitzend.%} 
-<div n="2">— c) mit {#cid#} {%wer, was%} oder {%welcher immer; irgend ein, ein, Jemand, Etwas%}: {#mA hi^Msizwa pitaraH kena^ cinnaH#} 
-<ls>ṚV. 10, 15, 6.</ls> {#yada^syA\H kasmE^ ci\dBogA^ya\ bAlA\nkaSci^tpra\kfntati^#} 
-<ls>AV. 12, 4, 7. 6, 20, 1.</ls> {#a\nyastezA^M pari\Dira^stu\ kaSci^t#} 
-<ls>ṚV. 1, 125, 7.</ls> {#pfta^nAsu kAsu^ cit#} 
-<ls n="ṚV. 1,">129, 2.</ls> {#pra\Re\tAra\H kasya^ cidftA\yoH#} 
-<ls n="ṚV. 1,">169, 5.</ls> {#yacca^kf\mA kacci\dAga^H#} 
-<ls n="ṚV. 1,">185, 8.</ls> <ls n="ṚV.">2, 42, 1.</ls> <ls n="ṚV.">3, 45, 1.</ls> {#yatte kaScidabravIt#} 
-<ls>ŚAT. BR. 14, 6, 10, 1. 12, 6, 1, 6. 13, 8, 3, 4.</ls> {#kAM cinmAyAM kuryAt#} 
-<ls>4, 3, 11.</ls> {#kaScidDIraH#} 
-<ls>KAṬHOP. 4, 1.</ls> — {#DarmArTaM yena dattaM syAtkasmEcidyAcate Danam#} 
-<ls>M. 8, 212.</ls> {#yadi strI yadyavarajaH SreyaH kiMcitsamAcaret#} 
-<ls>2, 223.</ls> {#kasmEcidasmE namaH#} {%Verehrung ihm, wer er auch sei%}, 
-<ls>SĀH. D. 7, 12.</ls> {#prArTayedyadi mAM kaScit#} 
-<ls>N. 13, 43.</ls> {#tatra SuSrAva SabdaM vE maDye BUtasya kasyacit#} 
-<ls>14, 2.</ls> {#saBAM kAMcidupeyatuH#} 
-<ls>10, 4.</ls> {#kenacidarTena#} 
-<ls>15, 13.</ls> {#kasmiMScitkAraRAntare#} 
-<ls>13, 34.</ls> <ls>ŚĀK. 64, 11. 106.</ls> <ls>VID. 18. 163. 187.</ls> {#yaTAnyaH puruzaH kaScitpalASErmohito Bavet#} 
-<ls>DAŚ. 1, 12.</ls> 
-<ls>R. 1, 8, 8.</ls> {#tato 'parasminsaMprApte kAle kasmiMScideva tu#} 
-<ls>MBH. 1, 1664.</ls> {#kiMcidgrAmAntaraM gataH#} 
-<ls>PAÑCAT. 169, 7.</ls> {#kAMcitkAlam#} {%einige Zeit hindurch%} 
-<ls>R. 3, 21, 31.</ls> {#kenacitkAlena#} 
-<ls>VIŚV. 5, 13.</ls> {#kasyacitkAlasya#} 
-<ls>ŚĀK. 110, 15.</ls> {%der Eine oder der Andere%} im Gegens. zu {%viele%} oder {%alle%}: {#manuzyARAM sahasrezu kaScidyatate sidDaye . yatatAmapi sidDAnAM kaScinmAM vetti tattvataH ..#} 
-<ls>BHAG. 7, 4.</ls> {#paropadeSe pARqityaM sarvezAM sukaraM nfRAm . Darme svayamanuzWAnaM kasyacittu mahAtmanaH ..#} 
-<ls>HIT. I, 98.</ls> {#kaScittaM deSaM parivarjayet#} {%solche Gegend vermeide Jedermann%} 
-<ls>CĀṆ. 37.</ls> {#kecit#} {%etwelche, einige%} 
-<ls>M. 3, 53.</ls> 
-<ls>BRĀHMAṆ. 1, 17.</ls> 
-<ls>R. 5, 91, 18.</ls> 
-<ls>PAÑCAT. 120, 4.</ls> 
-<ls>ŚĀK. 27, 1.</ls> {#padAni gaRayangacCa svAni nEzaDa kAnicit#}
++ {#na#} {%nicht) auch Niemand, auch Nichts, auch nicht ein%}: {#adf^zwA\H kiM ca\neha va^H#}
+<ls>ṚV. 1,191,7.</ls> {#yasmA\dindrA^dbfha\taH kiM ca\nemf\te#}
+<ls n="ṚV.">2,16,2.</ls> {#sa viBramanmahIM sarvAM kvacidAsAdya kiM ca na#}
+<ls>N. 15,15.</ls> Sehr häufig in einem Satze mit einer zweiten negat. Partikel, wodurch die Negation nicht etwa aufgehoben, sondern nur verstärkt wird: {#mAmIzA\M kaM ca\nocCi^zaH#}
+<ls>ṚV. 6,75,16.</ls> <ls n="ṚV.">2,16,3.</ls> {#nAti^ paSyati\ kaSca\na#}
+<ls>AV. 4,5,2.</ls>
+<ls>VS. 23,18.</ls> {#yasmA^jjA\taM na pu\rA kiM ca\nEva#}
+<ls n="VS.">32,5.</ls> <ls>AV. 4,25,2.</ls> <ls n="AV.">11,4,25.</ls> {#na kiM cana#}
+<ls>ŚAT. BR. 2,4,1,14.</ls> <ls n="ŚAT. BR.">14,5,5,18.</ls> {#na yuvayoreza kiM cana#} {%er geht Euch gar Nichts an%}
+<ls n="ŚAT. BR.">1,6,3,13. 14,6,8,1. — 10,6,5,1. 14,5,1,21.</ls> {#na hIdfSamanAyuzyaM loke kiM ca na vidyate#}
+<ls>M. 4,134.</ls> <ls n="M.">5,47.</ls> <ls n="M.">6,47.</ls> <ls n="M.">8,189.</ls> <ls n="M. 8,">351.</ls> <ls n="M.">9,26.</ls> <ls n="M.">11,261.</ls>
+<ls>N. 7,9.</ls> <ls n="N.">20,6.</ls> <ls n="N.">21,20.</ls>
+<ls>VIŚV. 7,20.</ls> {#mA kiM ca na SucaH#}
+<ls>BHĀG. P. 1,13,39.</ls> In solcher Stellung geht das Gefühl für die in {#cana#} enthaltene Negation allmählich verloren und man beginnt die Verbindung in dem Sinne von {%wer%} oder {%was es auch sei, irgend ein%} aufzufassen: {#tvadA kaSca\na hi pra^ke\taH#}
+<ls>ṚV. 3,30,1.</ls> {#sa\vi\tuH kacca\na pri\yam#}
+<ls n="ṚV.">5,82,2.</ls> {#yatrAnibadDo 'pIkzeta SfRuyAdvApi kiMcana#}
+<ls>M. 8,76.</ls> {#yadi vaH prativrUyAdDi kaScana#}
+<ls>N. 17,40.</ls>
+<ls>RAGH. 12,49.</ls>
+<ls>BHĀG. P. 1,5,14.</ls> {#kecana#} {%Einige%}
+<ls n="BHĀG. P.">5,23,4.</ls> {#rASIkftAn SuzyamARAnanyAnkAMScana kAMScana#} {%etwelche, verschiedene%}
+<ls>R. 2,96,34.</ls> Wie {#kaSca#} in Verbindung mit dem relat.: {#ahaM cEva hi yaccAnyanmamAsti vasu kiMcana . tatsarvaM tava#}
+<ls>N. 4,2.</ls> <ls n="N.">9,1.</ls> <ls n="N.">26,5.</ls> {#pratyuvAca tataH sADvI — sArTavAhaM ca sArTaM ca janA ye tatra kecana#}
+<ls n="N.">12,91.</ls> {#tatsarvaM naH samAcakzva pfzwo yadiha kiMcana#}
+<ls>BHĀG. P. 1,4,13.</ls> Als bequemer Ausgang eines Halbverses ist die Verbindung des interr. mit {#cana#} sehr beliebt. In den Beispielen aus der klassischen Literatur schreiben wir {#ca na#} bald getrennt, bald verbunden, je nachdem die Negation ihre ursprüngliche Bedeutung bewahrt oder verloren hat. {#kiMcana#} verbindet sich mit dem neg. {#a#} (s. {#akiMcana#}) und mit {#nis (nizkiMcana#}
+<ls>BHĀG. P. 2,9,6.</ls> <ls n="BHĀG. P.">6,3,28</ls>) zu einem <lex>adj.</lex> comp. in der Bed. {%Nichts besitzend.%}
+<div n="2">— c) mit {#cid#} {%wer, was%} oder {%welcher immer; irgend ein, ein, Jemand, Etwas%}: {#mA hi^Msizwa pitaraH kena^ cinnaH#}
+<ls>ṚV. 10,15,6.</ls> {#yada^syA\H kasmE^ ci\dBogA^ya\ bAlA\nkaSci^tpra\kfntati^#}
+<ls>AV. 12,4,7.</ls> <ls n="AV.">6,20,1.</ls> {#a\nyastezA^M pari\Dira^stu\ kaSci^t#}
+<ls>ṚV. 1,125,7.</ls> {#pfta^nAsu kAsu^ cit#}
+<ls n="ṚV. 1,">129,2.</ls> {#pra\Re\tAra\H kasya^ cidftA\yoH#}
+<ls n="ṚV. 1,">169,5.</ls> {#yacca^kf\mA kacci\dAga^H#}
+<ls n="ṚV. 1,">185,8.</ls> <ls n="ṚV.">2,42,1.</ls> <ls n="ṚV.">3,45,1.</ls> {#yatte kaScidabravIt#}
+<ls>ŚAT. BR. 14,6,10,1.</ls> <ls n="ŚAT. BR.">12,6,1,6.</ls> <ls n="ŚAT. BR.">13,8,3,4.</ls> {#kAM cinmAyAM kuryAt#}
+<ls n="ŚAT. BR.">4,3,11.</ls> {#kaScidDIraH#}
+<ls>KAṬHOP. 4,1.</ls> — {#DarmArTaM yena dattaM syAtkasmEcidyAcate Danam#}
+<ls>M. 8,212.</ls> {#yadi strI yadyavarajaH SreyaH kiMcitsamAcaret#}
+<ls n="M.">2,223.</ls> {#kasmEcidasmE namaH#} {%Verehrung ihm, wer er auch sei%},
+<ls>SĀH. D. 7,12.</ls> {#prArTayedyadi mAM kaScit#}
+<ls>N. 13,43.</ls> {#tatra SuSrAva SabdaM vE maDye BUtasya kasyacit#}
+<ls n="N.">14,2.</ls> {#saBAM kAMcidupeyatuH#}
+<ls n="N.">10,4.</ls> {#kenacidarTena#}
+<ls n="N.">15,13.</ls> {#kasmiMScitkAraRAntare#}
+<ls n="N.">13,34.</ls> <ls>ŚĀK. 64,11. 106.</ls> <ls>VID. 18. 163. 187.</ls> {#yaTAnyaH puruzaH kaScitpalASErmohito Bavet#}
+<ls>DAŚ. 1,12.</ls>
+<ls>R. 1,8,8.</ls> {#tato 'parasminsaMprApte kAle kasmiMScideva tu#}
+<ls>MBH. 1,1664.</ls> {#kiMcidgrAmAntaraM gataH#}
+<ls>PAÑCAT. 169,7.</ls> {#kAMcitkAlam#} {%einige Zeit hindurch%}
+<ls>R. 3,21,31.</ls> {#kenacitkAlena#}
+<ls>VIŚV. 5,13.</ls> {#kasyacitkAlasya#}
+<ls>ŚĀK. 110,15.</ls> {%der Eine oder der Andere%} im Gegens. zu {%viele%} oder {%alle%}: {#manuzyARAM sahasrezu kaScidyatate sidDaye . yatatAmapi sidDAnAM kaScinmAM vetti tattvataH ..#}
+<ls>BHAG. 7,4.</ls> {#paropadeSe pARqityaM sarvezAM sukaraM nfRAm . Darme svayamanuzWAnaM kasyacittu mahAtmanaH ..#}
+<ls>HIT. I,98.</ls> {#kaScittaM deSaM parivarjayet#} {%solche Gegend vermeide Jedermann%}
+<ls>CĀṆ. 37.</ls> {#kecit#} {%etwelche, einige%}
+<ls>M. 3,53.</ls>
+<ls>BRĀHMAṆ. 1,17.</ls>
+<ls>R. 5,91,18.</ls>
+<ls>PAÑCAT. 120,4.</ls>
+<ls>ŚĀK. 27,1.</ls> {#padAni gaRayangacCa svAni nEzaDa kAnicit#}
 [Page2-0005]
-
-<ls>N. 14, 11.</ls> {#kEScidahorAtrEH#} {%in einigen Tagen%} 
-<ls>12, 64.</ls> <ls>R. 1, 12, 32. 6, 12, 9.</ls> In negat. Sätzen: {#praviSantaM na mAM kaScidapaSyan#} {%Niemand sah mich hereintreten%} 
-<ls>N. 3, 24. 12, 6. 14.</ls> 
-<ls>M. 1, 81. 2, 56. 110.</ls> 
-<ls>ŚĀK. 107.</ls> {#nEza kaScinmayi sTite#} {%dieser vermag nichts%} 
-<ls>HIḌ. 3, 7.</ls> {#na kiMcinna#} {%Nichts nicht%} d. i. {%Alles%} 
-<ls>R. 5, 15, 12.</ls> {#akiMcid#} {%Nichts%} ({#uktvA#}) 
-<ls>MBH. 13, 2334. 2751. 2869.</ls> Durch {#api#} verstärkt: {#svArjitaM kiMcidapyasti mayA hi tapasaH Palam#} 
-<ls>VIŚV. 10, 14.</ls> {#na brAhmaRakzatriyayorApadyapi hi tizWatoH . kasmiMScidapi vfttAnte SUdrA BAryopadiSyate#} 
-<ls>M. 3, 14. 4, 83. 7, 6.</ls> {#nAnivedya prakurvIta BftyaH kiMcidapi#} ({%durchaus Nichts%}) {#svayam#} 
-<ls>HIT. II, 86.</ls> {#kiMcitkiMcit#} {%das Eine und Andere, Eines nach dem Andern%} 
-<ls>BHARTṚ. 2, 8.</ls> {#kaScit - kaScit, kecit - kecit#} (mit {#anya#} und {#apara#} wechselnd) {%der Eine - der Andere, Einige - Andere%} 
-<ls>R. 1, 4, 18. fgg.</ls> 
-<ls>ŚĀK. 80.</ls> 
-<ls>N. 12, 86. 87.</ls> 
-<ls>M. 3, 134. 261. 9, 32. 11, 48.</ls> {#kiMcid#} am Anf. eines comp.: {#kiMcijjYa#} im Gegens. zu {#sarvajYa#} 
-<ls>BHARTṚ. 2, 8.</ls> {#kiMcitkAlopaBogya#} 
-<ls>HIT. I, 169.</ls> {#kiMcinnimittAdapi manaHsaMtApAt#} {%irgend einen Grund habend%} 
-<ls>ŚĀK. 95, 14.</ls> Wie {#kaSca#} und {#kaScana#} in Verbindung mit dem relat.: {#jano\ yaH kaSci\daha^virmahI\yate^#} 
-<ls>ṚV. 1, 182, 3.</ls> {#yo vA idaM kaScidbrUyAdveda vedeti#} {%Jedermann könnte sagen: ich weiss, ich weiss%} 
-<ls>ŚAT. BR. 14, 6, 7, 5.</ls> {#yaH kaScitkasyacidDarmo manunA parikIrtitaH . sa sarvo 'Bihito vede#} 
-<ls>M. 2, 7. 4. 123. 3, 191. 273. 4, 117. 5, 24. 9, 271. 12, 96.</ls> 
-<ls>YĀJÑ. 2, 84.</ls> 
-<ls>PAÑCAT. 148, 10.</ls> {#yena kenacidaNgena hiMsyeccecCrezWamantyajaH . CettavyaM tattadevAsya#} 
-<ls>M. 8, 279.</ls> {#trizu lokezu yadBUtaM kiMcitsTAvaraM jaNgamam . sarvasmAnnO BayaM na syAt#} 
-<ls>SUND. 1, 25.</ls> 
-<ls>R. 3, 55, 48.</ls> {#yatkiMcideva#} ({%irgend Etwas%}) {#deyaM tu jyAyase#} 
-<ls>M. 9, 115. 4, 228. 7, 137.</ls> {#na ye kecit (sAkzyamarhanti)#} {%nicht der erste Beste%} 
-<ls>8, 62.</ls> {#saMtuzwo yena kenacit#} {%mit Allem zufrieden%} 
-<ls>BHAG. 12, 19.</ls> 
-<ls>MBH. 3, 4052.</ls> {#mama cEtAvA~lloBaviraho yena svahastasTamapi suvarRakaNkaRaM yasmE kasmEciddAtumicCAmi#} 
-<ls>HIT. 11, 5.</ls> In den Beispielen aus der klass. Lit. schreiben wir {#cid#} mit dem pron. verbunden, weil hier die Partikel nur in Verbindung mit dem interr. erscheint. 
-<div n="2">— d) mit {#vAH ke vA na santi#} ({%giebt es nicht etwelche?%}) {#Buvi tAmarasAvataMsA haMsAvalIvalayino jalasaMniveSAH#} 
-<ls>CĀT. 5.</ls> In Verbindung mit dem relat.: {#SUdrastu yasminkasminvA (deSe) nivasedvfttikarzitaH#} {%an einem beliebigen Orte%} 
-<ls>M. 2, 24.</ls> Andere Beispiele stehen uns nicht zu Gebote. {#vA#} nach dem interr. hat sonst eine andere Bedeutung; vgl. 1,e. 
-<div n="2">— e) mit {#api#} {%Jemand, Etwas, irgend ein, ein.%} Diese Verbindung ist eine verhältnissmässig junge (MANU kennt sie nicht) und in den späteren Schriften sehr beliebte, ohne dass dadurch die Verbindungen mit {#cid#} und {#cana#} ganz ausser Gebrauch kämen. {#miTyEtaduktaM kenApi#} 
-<ls>MBH.</ls> in <ls>BENF. Chr. 60, 26.</ls> {#sa BUpatirekadA prAsAdArUQaH paTi gacCatA kenApi paWyamAnaM SlokadvayaM SuSrAva#} 
-<ls>HIT. 4, 7.</ls> {#tadatra kenApi kAraRena Bavitavyam#} {%daher muss hier irgend ein Grund sein%} 
-<ls>27, 19.</ls> {#kimapi#} ({%irgend Etwas%}) {#vigaRayanto vudDimantaH sahante#} 
-<ls>PAÑCAT. III, 40.</ls> {#kimapi#} ({%eine%}) {#nagaramAsAdyAvasTitaH#} 
-<ls>127, 17.</ls> {#kenApyutkzipateva paSya BuvanaM matpArSvamAnIyate#} 
-<ls>ŚĀK. 167. 178.</ls> {#SezaM kasyApi rakzasi#} {%den Rest bewahrst du wer weiss für wen%} 
-<ls>HIT. I, 160.</ls> {#kApyaBiKyA#} ({%ein gewisser, nicht näher zu bezeichnender Glanz%}) {#tayorAsIt#} 
-<ls>RAGH. 1, 46.</ls> 
-<ls>KUMĀRAS. 7, 18.</ls> {#mOgTyaviBUzaRasya sahajaH ko 'pyeza kAntaH kramaH#} 
-<ls>AMAR. 43.</ls> {#kApyavasTABavacCucA#} 
-<ls>KATHĀS. 4, 112.</ls> — 
-<ls>AMAR. 46.</ls> 
-<ls>KATHĀS. 6, 165.</ls> 
-<ls>VID. 5. 6. 39. 43. 143. 160.</ls> 
-<ls>SĀH. D. 40, 10.</ls> {#ke 'pi#} {%einige%} 
-<ls>AK. 3, 4, 1, 1.</ls> In Verbindung mit einer Negation: {#na hi SaSakavizARaM ko 'pi kasmE dadAti#} {%Niemand%}
+<ls>N. 14,11.</ls> {#kEScidahorAtrEH#} {%in einigen Tagen%}
+<ls n="N.">12,64.</ls> <ls>R. 1,12,32.</ls> <ls n="R.">6,12,9.</ls> In negat. Sätzen: {#praviSantaM na mAM kaScidapaSyan#} {%Niemand sah mich hereintreten%}
+<ls>N. 3,24. 12,6. 14.</ls>
+<ls>M. 1,81.</ls> <ls n="M.">2,56.</ls> <ls n="M. 2,">110.</ls>
+<ls>ŚĀK. 107.</ls> {#nEza kaScinmayi sTite#} {%dieser vermag nichts%}
+<ls>HIḌ. 3,7.</ls> {#na kiMcinna#} {%Nichts nicht%} <ab>d. i.</ab> {%Alles%}
+<ls>R. 5,15,12.</ls> {#akiMcid#} {%Nichts%} ({#uktvA#})
+<ls>MBH. 13,2334.</ls> <ls n="MBH. 13,">2751.</ls> <ls n="MBH. 13,">2869.</ls> Durch {#api#} verstärkt: {#svArjitaM kiMcidapyasti mayA hi tapasaH Palam#}
+<ls>VIŚV. 10,14.</ls> {#na brAhmaRakzatriyayorApadyapi hi tizWatoH . kasmiMScidapi vfttAnte SUdrA BAryopadiSyate#}
+<ls>M. 3,14.</ls> <ls n="M.">4,83.</ls> <ls n="M.">7,6.</ls> {#nAnivedya prakurvIta BftyaH kiMcidapi#} ({%durchaus Nichts%}) {#svayam#}
+<ls>HIT. II,86.</ls> {#kiMcitkiMcit#} {%das Eine und Andere, Eines nach dem Andern%}
+<ls>BHARTṚ. 2,8.</ls> {#kaScit — kaScit, kecit — kecit#} (mit {#anya#} und {#apara#} wechselnd) {%der Eine — der Andere, Einige — Andere%}
+<ls>R. 1,4,18. fgg.</ls>
+<ls>ŚĀK. 80.</ls>
+<ls>N. 12,86. 87.</ls>
+<ls>M. 3,134.</ls> <ls n="M. 3,">261.</ls> <ls n="M.">9,32.</ls> <ls n="M.">11,48.</ls> {#kiMcid#} am Anf. eines comp.: {#kiMcijjYa#} im Gegens. zu {#sarvajYa#}
+<ls>BHARTṚ. 2,8.</ls> {#kiMcitkAlopaBogya#}
+<ls>HIT. I,169.</ls> {#kiMcinnimittAdapi manaHsaMtApAt#} {%irgend einen Grund habend%}
+<ls>ŚĀK. 95,14.</ls> Wie {#kaSca#} und {#kaScana#} in Verbindung mit dem relat.: {#jano\ yaH kaSci\daha^virmahI\yate^#}
+<ls>ṚV. 1,182,3.</ls> {#yo vA idaM kaScidbrUyAdveda vedeti#} {%Jedermann könnte sagen: ich weiss, ich weiss%}
+<ls>ŚAT. BR. 14,6,7,5.</ls> {#yaH kaScitkasyacidDarmo manunA parikIrtitaH . sa sarvo 'Bihito vede#}
+<ls>M. 2,7.</ls> <ls n="M. 2,">4.</ls> <ls n="M. 2,">123.</ls> <ls n="M.">3,191.</ls> <ls n="M. 3,">273.</ls> <ls n="M.">4,117.</ls> <ls n="M.">5,24.</ls> <ls n="M.">9,271.</ls> <ls n="M.">12,96.</ls>
+<ls>YĀJÑ. 2,84.</ls>
+<ls>PAÑCAT. 148,10.</ls> {#yena kenacidaNgena hiMsyeccecCrezWamantyajaH . CettavyaM tattadevAsya#}
+<ls>M. 8,279.</ls> {#trizu lokezu yadBUtaM kiMcitsTAvaraM jaNgamam . sarvasmAnnO BayaM na syAt#}
+<ls>SUND. 1,25.</ls>
+<ls>R. 3,55,48.</ls> {#yatkiMcideva#} ({%irgend Etwas%}) {#deyaM tu jyAyase#}
+<ls>M. 9,115.</ls> <ls n="M.">4,228.</ls> <ls n="M.">7,137.</ls> {#na ye kecit (sAkzyamarhanti)#} {%nicht der erste Beste%}
+<ls n="M.">8,62.</ls> {#saMtuzwo yena kenacit#} {%mit Allem zufrieden%}
+<ls>BHAG. 12,19.</ls>
+<ls>MBH. 3,4052.</ls> {#mama cEtAvA~lloBaviraho yena svahastasTamapi suvarRakaNkaRaM yasmE kasmEciddAtumicCAmi#}
+<ls>HIT. 11,5.</ls> In den Beispielen aus der klass. Lit. schreiben wir {#cid#} mit dem pron. verbunden, weil hier die Partikel nur in Verbindung mit dem interr. erscheint.
+<div n="2">— d) mit {#vAH ke vA na santi#} ({%giebt es nicht etwelche?%}) {#Buvi tAmarasAvataMsA haMsAvalIvalayino jalasaMniveSAH#}
+<ls>CĀT. 5.</ls> In Verbindung mit dem relat.: {#SUdrastu yasminkasminvA (deSe) nivasedvfttikarzitaH#} {%an einem beliebigen Orte%}
+<ls>M. 2,24.</ls> Andere Beispiele stehen uns nicht zu Gebote. {#vA#} nach dem interr. hat sonst eine andere Bedeutung; vgl. 1,e.
+<div n="2">— e) mit {#api#} {%Jemand, Etwas, irgend ein, ein.%} Diese Verbindung ist eine verhältnissmässig junge (MANU kennt sie nicht) und in den späteren Schriften sehr beliebte, ohne dass dadurch die Verbindungen mit {#cid#} und {#cana#} ganz ausser Gebrauch kämen. {#miTyEtaduktaM kenApi#}
+<ls>MBH.</ls> in <ls>BENF. Chr. 60,26.</ls> {#sa BUpatirekadA prAsAdArUQaH paTi gacCatA kenApi paWyamAnaM SlokadvayaM SuSrAva#}
+<ls>HIT. 4,7.</ls> {#tadatra kenApi kAraRena Bavitavyam#} {%daher muss hier irgend ein Grund sein%}
+<ls n="HIT.">27,19.</ls> {#kimapi#} ({%irgend Etwas%}) {#vigaRayanto vudDimantaH sahante#}
+<ls>PAÑCAT. III,40.</ls> {#kimapi#} ({%eine%}) {#nagaramAsAdyAvasTitaH#}
+<ls n="PAÑCAT.">127,17.</ls> {#kenApyutkzipateva paSya BuvanaM matpArSvamAnIyate#}
+<ls>ŚĀK. 167. 178.</ls> {#SezaM kasyApi rakzasi#} {%den Rest bewahrst du wer weiss für wen%}
+<ls>HIT. I,160.</ls> {#kApyaBiKyA#} ({%ein gewisser, nicht näher zu bezeichnender Glanz%}) {#tayorAsIt#}
+<ls>RAGH. 1,46.</ls>
+<ls>KUMĀRAS. 7,18.</ls> {#mOgTyaviBUzaRasya sahajaH ko 'pyeza kAntaH kramaH#}
+<ls>AMAR. 43.</ls> {#kApyavasTABavacCucA#}
+<ls>KATHĀS. 4,112.</ls> —
+<ls>AMAR. 46.</ls>
+<ls>KATHĀS. 6,165.</ls>
+<ls>VID. 5. 6. 39. 43. 143. 160.</ls>
+<ls>SĀH. D. 40,10.</ls> {#ke 'pi#} {%einige%}
+<ls>AK. 3,4,1,1.</ls> In Verbindung mit einer Negation: {#na hi SaSakavizARaM ko 'pi kasmE dadAti#} {%Niemand%}
 [Page2-0006]
-{%giebt Jemand ein Hasenhorn%} 
-<ls>BHARTṚ. 3, 99.</ls> {#ko 'pi tatpArSvaM na Bajate#} 
-<ls>HIT. 10, 9. 38, 12.</ls> 
+{%giebt Jemand ein Hasenhorn%}
+<ls>BHARTṚ. 3,99.</ls> {#ko 'pi tatpArSvaM na Bajate#}
+<ls>HIT. 10,9.</ls> <ls n="HIT.">38,12.</ls>
 <div n="v">— Vgl. {#katama, katara, kati, kaTam, kaTA, kad, kadA, kam, kaya, kayA, karhi, kava, kasmAt, kA, ki, kim, ku, kena#}.
 <LEND>

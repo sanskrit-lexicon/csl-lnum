@@ -1,3 +1,3 @@
-<L>75229<pc>403,1<k1>cOrya<k2>cOrya<h>a<e>2
-<s>cOrya</s> <hom>a</hom> ¦ <lex>n.</lex> (<ab>g.</ab> <s>brAhmaRA<srs/>di</s>) = <s>°ra-karman</s>, <ls>Mn. ix, xi</ls>; <ls>Yājñ. ii, 72</ls>; <ls>Mṛcch.</ls> &c.<info lex="n"/>
+<L>75229<pc>403,1<k1>cOrya<k2>cOrya<e>2
+<s>cOrya</s> ¦ <lex>n.</lex> (<ab>g.</ab> <s>brAhmaRA<srs/>di</s>) = <s>°ra-karman</s>, <ls>Mn. ix</ls>, <ls n="Mn.">xi</ls>; <ls>Yājñ. ii, 72</ls>; <ls>Mṛcch.</ls> &c.<info lex="n"/><info hui="a"/>
 <LEND>

@@ -1,4 +1,4 @@
 <L>14351<pc>440<k1>meanwhile<k2>meanwhile
-<div n="lb"/>{@MEANWHILE:@}¦ <div n="1">(1) {#atrAntare,#} <ls>K.</ls> ; </div><div n="1">(2) {#ityevakAle,#}
-<div n="lb"/>Vet.</div>
+{@MEANWHILE:@}¦ <div n="1">(1) {#atrAntare,#} <ls>K.</ls> ; </div><div n="1">(2) {#ityevakAle,#}
+Vet.</div>
 <LEND>

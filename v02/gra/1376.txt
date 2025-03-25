@@ -1,4 +1,4 @@
-<L>1376<pc>0159<k1>aspandamAna<k2>a/-spandamAna
-{@á-spandamāna,@}¦ a., {%nicht wankend, nicht zuckend.%}
-<div n="P1">-as {299,10} von Agni.
+<L>1376<pc>0159<k1>asyandamAna<k2>a/syandamAna
+<chg type="chg" n="52" src="gra"><old>{@á-spandamāna,@}</old><new>{@ásyandamāna,@}</new></chg>¦ <ab>a.</ab>, <chg type="chg" n="53" src="gra"><old>{%nicht wankend, nicht zuckend%}</old><new>{%nicht gleitend%}</new></chg>.
+<div n="TS">-as {299,10} von Agni.
 <LEND>

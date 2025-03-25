@@ -1,3 +1,3 @@
-<L>62656<pc>343,3<k1>gaReSAna<k2>gaReSAna<h>a<e>3
-<s>gaRe<srs/>SAna</s> <hom>a</hom> ¦ <lex>m.</lex> the god <s1 slp1="gaReSa">Gaṇéśa</s1>, <ls>MBh. i, 75</ls>; <ls>Hcat.</ls><info lex="m"/>
+<L>62656<pc>343,3<k1>gaReSAna<k2>gaReSAna<e>3
+<s>gaRe<srs/>SAna</s> ¦ <lex>m.</lex> the god <s1>Gaṇéśa</s1>, <ls>MBh. i, 75</ls>; <ls>Hcat.</ls><info lex="m"/><info hui="a"/>
 <LEND>

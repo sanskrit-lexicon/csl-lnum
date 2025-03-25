@@ -1,14 +1,14 @@
 <L>4286<pc>139<k1>conceive<k2>conceive
-<div n="lb"/>{@CONCEIVE@}¦ (v.): <div n="I">I <div n="xe">{%To c. a child:%}</div> <div n="xs">{#garBaM daDAti#}</div> {%or%}
-<div n="lb"/>{#Datte#} ({#DA,#} c. 3.) <div n="xe">{%or%}</div> <div n="xs">{#DArayati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#Darati#}</div> ({#Df,#} c. 10.
-<div n="lb"/>and 1.), <div n="xe">{%to c. by him:%}</div> <div n="xs">{#tasmAdgarBaM daDAti#}</div> (after
-<div n="lb"/>R.). Ph.: <div n="xe">{%and the Queen of Benares c. d a%}
-<div n="lb"/>{%daughter:%}</div> <div n="xs">{#kASirAjasya patnyASca garBe kanyA AsIt,#}</div>
-<div n="lb"/>V. p.: v. Pregnant. </div><div n="I">II To form in the
-<div n="lb"/>mind: {#BAvayati, vi-,#} (c. of {#BU#}), <div n="xe">{%c. ing the frailty%}
-<div n="lb"/>{%of every substance:%}</div> <div n="xs">{#BAvayitvAnityatAM sarvaBAvAnAM,#}</div>
-<div n="lb"/>K.: v. Think, desire. </div><div n="I">III To imagine:
-<div n="lb"/>q. v.: {#samBAvayati#} (c. of {#BU#}), <div n="xe">{%who would c. that%}
-<div n="lb"/>{%king Chandragupta would sell ornaments:%}</div> <div n="xs">{#mOrye #}
-<div n="lb"/>{# BUzaRAvikrayaM narapatO ko nAma samBAvayet,#}</div> Mu.</div>
+{@CONCEIVE@}¦ (v.): <div n="I">I <div n="xe">{%To c. a child:%}</div> <div n="xs">{#garBaM daDAti#}</div> {%or%}
+{#Datte#} ({#DA,#} c. 3.) <div n="xe">{%or%}</div> <div n="xs">{#DArayati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#Darati#}</div> ({#Df,#} c. 10.
+and 1.), <div n="xe">{%to c. by him:%}</div> <div n="xs">{#tasmAdgarBaM daDAti#}</div> (after
+R.). Ph.: <div n="xe">{%and the Queen of Benares c. d a%}
+{%daughter:%}</div> <div n="xs">{#kASirAjasya patnyASca garBe kanyA AsIt,#}</div>
+V. p.: v. Pregnant. </div><div n="I">II To form in the
+mind: {#BAvayati, vi-,#} (c. of {#BU#}), <div n="xe">{%c. ing the frailty%}
+{%of every substance:%}</div> <div n="xs">{#BAvayitvAnityatAM sarvaBAvAnAM,#}</div>
+K.: v. Think, desire. </div><div n="I">III To imagine:
+q. v.: {#samBAvayati#} (c. of {#BU#}), <div n="xe">{%who would c. that%}
+{%king Chandragupta would sell ornaments:%}</div> <div n="xs">{#mOrye #}
+{# BUzaRAvikrayaM narapatO ko nAma samBAvayet,#}</div> Mu.</div>
 <LEND>

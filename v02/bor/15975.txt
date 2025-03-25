@@ -1,5 +1,5 @@
 <L>15975<pc>492<k1>ore<k2>ore
-<div n="lb"/>{@ORE:@}¦ <div n="I">I A metal: {#DAtuH.#} </div><div n="I">II In mining:
-<div n="lb"/>{#AkaraH#} (?). Ph.: <div n="xe">{%common pyritic iron o.:%}</div> <div n="xs">{#svarRa-#}
-<div n="lb"/>{#mAkzikam,#}</div> Wilson.</div>
+{@ORE:@}¦ <div n="I">I A metal: {#DAtuH.#} </div><div n="I">II In mining:
+{#AkaraH#} (?). Ph.: <div n="xe">{%common pyritic iron o.:%}</div> <div n="xs">{#svarRa-#}
+{#mAkzikam,#}</div> Wilson.</div>
 <LEND>

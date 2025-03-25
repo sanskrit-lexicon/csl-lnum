@@ -1,5 +1,5 @@
 <L>8010<pc>254<k1>exclusion<k2>exclusion
-<div n="lb"/>{@EXCLUSION:@}¦ <div n="I">I Turning out: </div><div n="1">(1) {#bahizkaraRam;#}</div>
-<div n="lb"/><div n="1">(2) {#niHsAraRam.#} </div><div n="I">II Exception: {#barjanam, vi-, #}
-<div n="lb"/>{# pari-.#} </div><div n="I">III Rejection: {#pratyAKyAnam.#}</div>
+{@EXCLUSION:@}¦ <div n="I">I Turning out: </div><div n="1">(1) {#bahizkaraRam;#}</div>
+<div n="1">(2) {#niHsAraRam.#} </div><div n="I">II Exception: {#barjanam, vi-, #}
+{# pari-.#} </div><div n="I">III Rejection: {#pratyAKyAnam.#}</div>
 <LEND>

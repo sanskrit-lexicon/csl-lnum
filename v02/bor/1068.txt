@@ -1,6 +1,6 @@
 <L>1068<pc>037<k1>aristocracy<k2>aristocracy
-<div n="lb"/>{@ARISTOCRACY:@}¦ <div n="I">I A form of Government:
-<div n="lb"/>{#*kulInaSAsanam#} <div n="xe">{%or%}</div> <div n="xs">{#kulInapraButvam.#}</div> </div><div n="I">II The persons
-<div n="lb"/>of whom it is composed {#*kulInasampradAyaH#} {%or%}
-<div n="lb"/>{#rAjyaSAsakakulInavargaH.#}</div>
+{@ARISTOCRACY:@}¦ <div n="I">I A form of Government:
+{#*kulInaSAsanam#} <div n="xe">{%or%}</div> <div n="xs">{#kulInapraButvam.#}</div> </div><div n="I">II The persons
+of whom it is composed {#*kulInasampradAyaH#} {%or%}
+{#rAjyaSAsakakulInavargaH.#}</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>10648<pc>335<k1>harmless<k2>harmless
-<div n="lb"/>{@HARMLESS:@}¦ <div n="I">I Innocent: q.v.: {#niraparADaH#} ({#DA, DaM#}).</div>
-<div n="lb"/><div n="I">II Unhurt: {#akzataH#} ({#tA, taM#}).</div>
+{@HARMLESS:@}¦ <div n="I">I Innocent: q.v.: {#niraparADaH#} ({#DA, DaM#}).</div>
+<div n="I">II Unhurt: {#akzataH#} ({#tA, taM#}).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>19352<pc>501-a<k1>milliner<k2>milliner
-<div n="lb"/>MILLINER¦, {%s.%} {#strIparicCadakAriRI, strIparicCadavikretrI, strIvastravyApAriRI,#}
-<div n="lb"/>{#strIvastrakaraRopajIvinI, strIvastrakft#} {%f.%}
+MILLINER¦, {%s.%} {#strIparicCadakAriRI, strIparicCadavikretrI, strIvastravyApAriRI,#}
+{#strIvastrakaraRopajIvinI, strIvastrakft#} {%f.%}
 <LEND>

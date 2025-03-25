@@ -1,5 +1,5 @@
 <L>9126<pc>289<k1>footed<k2>footed
-<div n="lb"/>{@FOOTED@}¦ (adj.): <div n="I">I Lit.: expr. by comp.,
-<div n="lb"/><div n="xe">{%two-f.:%}</div> <div n="xs">{#dvipadaH#}</div> ({#dA, daM#}); <div n="xe">{%f. like the goat:%}</div> <div n="xs">{#ajapAdaH#}</div>
-<div n="lb"/>({#dA, daM#}). </div><div n="I">II Established: {#badDamUlaH#} ({#lA, laM#}).</div>
+{@FOOTED@}¦ (adj.): <div n="I">I Lit.: expr. by comp.,
+<div n="xe">{%two-f.:%}</div> <div n="xs">{#dvipadaH#}</div> ({#dA, daM#}); <div n="xe">{%f. like the goat:%}</div> <div n="xs">{#ajapAdaH#}</div>
+({#dA, daM#}). </div><div n="I">II Established: {#badDamUlaH#} ({#lA, laM#}).</div>
 <LEND>

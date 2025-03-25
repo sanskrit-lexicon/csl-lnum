@@ -1,4 +1,4 @@
 <L>19943<pc>620<k1>scrip<k2>scrip
-<div n="lb"/>{@SCRIP:@}¦ <div n="I">I A bag: {#puwaH(wI).#} </div><div n="I">II Of writing:
-<div n="lb"/>{#patrikA.#}</div>
+{@SCRIP:@}¦ <div n="I">I A bag: {#puwaH(wI).#} </div><div n="I">II Of writing:
+{#patrikA.#}</div>
 <LEND>

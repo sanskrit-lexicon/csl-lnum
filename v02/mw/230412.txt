@@ -1,3 +1,3 @@
-<L>230412<pc>1138,1<k1>satUrya<k2>sa—tUrya<h>a<e>3
-<s>sa—tUrya</s> <hom>a</hom> ¦ <lex>mfn.</lex> accompanied by music (<s>am</s> <lex type="phw">ind.</lex>), <ls>Hariv.</ls>; <ls>Kāv.</ls>; <ls>VarBṛS.</ls><info phwchild="230412.1"/><info lex="m:f:n"/>
+<L>230412<pc>1138,1<k1>satUrya<k2>sa—tUrya<e>3
+<s>sa—tUrya</s> ¦ <lex>mfn.</lex> accompanied by music (<s>am</s> <lex type="phw">ind.</lex>), <ls>Hariv.</ls>; <ls>Kāv.</ls>; <ls>VarBṛS.</ls><info phwchild="230412.1"/><info lex="m:f:n"/><info hui="a"/>
 <LEND>

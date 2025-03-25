@@ -1,11 +1,11 @@
 <L>4492<pc>182<k1>giant<k2>giant
 {@Giant,@}¦ {%s.%} {#mahApuruzaH, vikawavigrahaH, bfhacCarIraH,#}
-<div n="lb"/>{#BImavigrahaH, bfhatkAyaH, atiSaktyupetaH,#}
-<div n="lb"/>{#rAkzasaH#}. {@2@} {#dEtyaH, dAnavaH;#} {%See%} {@Demon.@}
-<div n="lb"/>{%-a.,%} {@-like,@} {%a.%} {#atisTUla, prakAMqadeha, sTUla-#}
-<div n="lb"/>{#-pramARa, atimahat, bfhatkAya, mahASarIra,#}
-<div n="lb"/>{#vikawa#}. {@-ess,@} {%s.%} {#rAkzasI, bfhacCarIrA#}. {@-Gi-@}
-<div n="lb"/>{@-gantic,@} {%a.%} {#atimAnuza#} ({#zI#} {%f.%}), {#rAkzasa-#}
-<div n="lb"/>{#-parimARa, BImavigraha, atimahat-bfhat,#}
-<div n="lb"/>{#sTUlakAya, vikawa#}.
+{#BImavigrahaH, bfhatkAyaH, atiSaktyupetaH,#}
+{#rAkzasaH#}. {@2@} {#dEtyaH, dAnavaH;#} {%See%} {@Demon.@}
+{%-a.,%} {@-like,@} {%a.%} {#atisTUla, prakAMqadeha, sTUla-#}
+{#-pramARa, atimahat, bfhatkAya, mahASarIra,#}
+{#vikawa#}. {@-ess,@} {%s.%} {#rAkzasI, bfhacCarIrA#}. {@-Gi-@}
+{@-gantic,@} {%a.%} {#atimAnuza#} ({#zI#} {%f.%}), {#rAkzasa-#}
+{#-parimARa, BImavigraha, atimahat-bfhat,#}
+{#sTUlakAya, vikawa#}.
 <LEND>

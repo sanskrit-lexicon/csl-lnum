@@ -1,8 +1,8 @@
 <L>3954<pc>158<k1>felon<k2>felon
 {@Felon,@}¦ {%s.%} {#sAhasikaH, GorapAtakaH, AtatAyin#}
-<div n="lb"/>{%m.,%} {#mahApApin-pAtakin#} {%m.,%} {#mahAparADin#}
-<div n="lb"/>{%m.%} {@-ous,@} {%a.%} {#AtatAyin, jiGAMsu, vaDodyata#}.
-<div n="lb"/>{@2@} {#durAcAra, duzwa, pApizWa, durvftta, atiniMdya#}.
-<div n="lb"/>{@-y,@} {%s.%} {#mahApApaM-pAtakaM, mahAparADaH, sAhasaM;#}
-<div n="lb"/>{#AtatAyitA, GorapApaM#}.
+{%m.,%} {#mahApApin-pAtakin#} {%m.,%} {#mahAparADin#}
+{%m.%} {@-ous,@} {%a.%} {#AtatAyin, jiGAMsu, vaDodyata#}.
+{@2@} {#durAcAra, duzwa, pApizWa, durvftta, atiniMdya#}.
+{@-y,@} {%s.%} {#mahApApaM-pAtakaM, mahAparADaH, sAhasaM;#}
+{#AtatAyitA, GorapApaM#}.
 <LEND>

@@ -1,12 +1,12 @@
 <L>13007<pc>313-b<k1>gold<k2>gold
-<div n="lb"/>GOLD¦, {%s.%} {#suvarRaM, svarRaM, kanakaM, kAYcanaM, hiraRyaM, hema#} {%n.%} {#(n), hemaM, rukmaM,#}
-<div n="lb"/>{#rugmaM, Barma#} {%n.%} {#(n), BarmaM, jAtarUpaM, jAmbUnadaM, SAtakumBaM, SatakumBaH, SAta-#}
-<div n="lb"/>{#kOmBaM, cAmIkaraM, nizkaM, hAwakaM, hiraRaM, tapanIyaM, mahArajataM, kalaDOtaM,#}
-<div n="lb"/>{#kalaDUtaM, kArttasvaraM, azwApadaH -daM, karburaM, karbUraM, gANgeyaM, gOraM, dIptaM,#}
-<div n="lb"/>{#BAskaraM, jAmbavaM, tejas, SataKARqaM, mahADAtuH#} {%m.,%} {#sOmerukaM, lohottamaM,#}
-<div n="lb"/>{#piYjAnaM, surArhaM, dAkzAyaRaM, sAnasiH#} {%m.,%} {#purawaM, purudaM, vahnivIjaM, akupyaM,#}
-<div n="lb"/>{#mfdunnakaM;#} ‘pure gold,’ {#kumAraM;#} ‘virgin gold,’ {#piNgASaM;#} ‘false
-<div n="lb"/>gold,’ {#kUwasvarRaM;#} ‘gold for ornaments,’ {#SfNgikanakaM;#} ‘a heap
-<div n="lb"/>of gold,’ {#kAYcanacayaH;#} ‘a piece of gold,’ {#kanakaBaNgaH;#} ‘a gold
-<div n="lb"/>coin,’ {#suvarRamudrA;#} ‘a weight of gold,’ {#kanakapalaH, suvarRaH -rRaM#}.
+GOLD¦, {%s.%} {#suvarRaM, svarRaM, kanakaM, kAYcanaM, hiraRyaM, hema#} {%n.%} {#(n), hemaM, rukmaM,#}
+{#rugmaM, Barma#} {%n.%} {#(n), BarmaM, jAtarUpaM, jAmbUnadaM, SAtakumBaM, SatakumBaH, SAta-#}
+{#kOmBaM, cAmIkaraM, nizkaM, hAwakaM, hiraRaM, tapanIyaM, mahArajataM, kalaDOtaM,#}
+{#kalaDUtaM, kArttasvaraM, azwApadaH -daM, karburaM, karbUraM, gANgeyaM, gOraM, dIptaM,#}
+{#BAskaraM, jAmbavaM, tejas, SataKARqaM, mahADAtuH#} {%m.,%} {#sOmerukaM, lohottamaM,#}
+{#piYjAnaM, surArhaM, dAkzAyaRaM, sAnasiH#} {%m.,%} {#purawaM, purudaM, vahnivIjaM, akupyaM,#}
+{#mfdunnakaM;#} ‘pure gold,’ {#kumAraM;#} ‘virgin gold,’ {#piNgASaM;#} ‘false
+gold,’ {#kUwasvarRaM;#} ‘gold for ornaments,’ {#SfNgikanakaM;#} ‘a heap
+of gold,’ {#kAYcanacayaH;#} ‘a piece of gold,’ {#kanakaBaNgaH;#} ‘a gold
+coin,’ {#suvarRamudrA;#} ‘a weight of gold,’ {#kanakapalaH, suvarRaH -rRaM#}.
 <LEND>

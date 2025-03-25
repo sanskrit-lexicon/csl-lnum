@@ -1,5 +1,5 @@
 <L>643<pc>024<k1>always<k2>always
-<div n="lb"/>{@ALWAYS:@}¦ <div n="I">I Perpetually, constantly: q. v.:</div>
-<div n="lb"/><div n="1">(1) {#sadA;#} </div><div n="1">(2) {#sarvadA;#} </div><div n="1">(3) {#satatam;#} </div><div n="1">(4) {#sarvakAlam;#}</div>
-<div n="lb"/><div n="1">(5) {#aniSam.#} </div><div n="I">II Invariably: q. v.: {#niyatam.#}</div>
+{@ALWAYS:@}¦ <div n="I">I Perpetually, constantly: q. v.:</div>
+<div n="1">(1) {#sadA;#} </div><div n="1">(2) {#sarvadA;#} </div><div n="1">(3) {#satatam;#} </div><div n="1">(4) {#sarvakAlam;#}</div>
+<div n="1">(5) {#aniSam.#} </div><div n="I">II Invariably: q. v.: {#niyatam.#}</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>142512<pc>720,1<k1>banD<k2>banD<e>1
-<s>banD</s> ¦ <ab>cl.</ab> 9. <ab>P.</ab> (<ls>Dhātup. xxxi, 37</ls>) <s>baDnA/ti</s> 
+<s>banD</s> ¦ <ab>cl.</ab> 9. <ab>P.</ab> (<ls>Dhātup. xxxi, 37</ls>) <s>baDnA/ti</s>
 (rarely <ab>Ā.</ab> <s>baDnIte/</s>;
 <ab>cl.</ab> 1. <ab>P.</ab> <ab>Ā.</ab> <s>banDati</s>, <s>°te</s>, <ls>MBh.</ls>;
 <ab>cl.</ab> 4. <ab>P.</ab> <s>baDyati</s>, <ls>Hariv.</ls>;
@@ -11,7 +11,7 @@
 <ab>aor.</ab> <s>aBAntsIt</s> <ab>Gr.</ab>;
 <ab>Prec.</ab> <s>baDyAt</s>, <ls>ib.</ls>;
 <ab>inf.</ab> <s>bandDum</s>, or <s>banDitum</s>, <ls>R.</ls>, <s>ba/De</s>, <ls>AV.</ls> <ab>ind.p.</ab> <s>badDvA/</s>, <ls>AV.</ls>, <s>°DvA/ya</s>, <ls>Br.</ls>, <s>-baDya</s>, <ls>ib.</ls>;
-<s>-banDam</s>, <ls>Pāṇ. 3-4, 41</ls> <ab>Sch.</ab>), 
+<s>-banDam</s>, <ls>Pāṇ. iii, 4, 41</ls>, <ab>Sch.</ab>),
 <div n="to"/>to bind, tie, fix, fasten, chain, fetter, <ls>RV.</ls> &c. &c.;
 <div n="to"/>to bind round, put on (<ab>Ā.</ab>; later also <ab>P.</ab> ‘on one's self’), <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to catch, take or hold captive, met. = to attach to world or to sin, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kap.</ls>;
@@ -22,7 +22,7 @@
 <div n="to"/>to join, unite, put together or produce anything in this way, <ab>e.g.</ab> fold (the hands), clench (the fist), knit or bend (the eyebrows), arrange, assume (a posture), set up (a limit), construct (a dam or a bridge), span, bridge over (a river), conceive or contract (friendship or enmity), compose, construct (a poem or verse), <ls>MBh.</ls>; <ls>Kāv.</ls> &c. <pb n="720,2"/>;
 <div n="to"/>to form or produce in any way, cause, effect, do, make, bear (fruit), strike (roots), take up (one's abode), <ls>ib.</ls>;
 <div n="to"/>to entertain, cherish, show, exhibit, betray (joy, resolution &c.), <ls>ib.</ls> :
-<div n="to"/><ab>Pass.</ab> <s>baDya/te</s> (<s>°ti</s>, <ls>Hariv.</ls>), to be bound &c. &c.;
+<div n="vp"/><ab>Pass.</ab> <s>baDya/te</s> (<s>°ti</s>, <ls>Hariv.</ls>), to be bound &c. &c.;
 <div n="to"/> (<ab>esp.</ab>) to be bound by the fetters of existence or evil, sin again, <ls>Mn.</ls>; <ls>BhP.</ls>;
 <div n="to"/>to be affected by <ab>i.e.</ab> experience, suffer (<ab>instr.</ab>), <ls>Pañcat.</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>banDayati</s> (<ab>aor.</ab> <s>ababanDat</s>), to cause to bind or catch or capture, imprison, <ls>ŚBr.</ls> &c. &c.;

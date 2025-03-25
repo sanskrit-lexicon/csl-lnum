@@ -1,5 +1,5 @@
 <L>1457<pc>049<k1>caravan<k2>caravan
 {@Caravan,@}¦ {%s.%} {#sArTaH, saMGaH;#} ‘leader of c.’
-<div n="lb"/>{#sArTavAhaH#}. {@-sary,@} {%s.%} {#paTikAvAsaH; pAMTa-#}
-<div n="lb"/>{#-nivAsasTAnaM#}.
+{#sArTavAhaH#}. {@-sary,@} {%s.%} {#paTikAvAsaH; pAMTa-#}
+{#-nivAsasTAnaM#}.
 <LEND>

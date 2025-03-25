@@ -1,8 +1,8 @@
-<L>235946<pc>1171,3<k1>sampat<k2>sam-pat<h>a<e>1
-<s>sam-√ pat</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-patati</s>, to fly or rush together (in a friendly or hostile manner), encounter, meet any one (<ab>acc.</ab>), meet with (<ab>instr.</ab>), <ls>RV.</ls> &c. &c.;
+<L>235946<pc>1171,3<k1>sampat<k2>sam-pat<e>1
+<s>sam-√ pat</s> ¦ <ab>P.</ab> <s>-patati</s>, to fly or rush together (in a friendly or hostile manner), encounter, meet any one (<ab>acc.</ab>), meet with (<ab>instr.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to fly along, fly to, hasten towards, arrive at, reach (<ab>acc.</ab> or <ab>loc.</ab>), <ls>AitBr.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to fly or fall down, alight on (<ab>loc.</ab>), <ls>MBh.</ls>;
 <div n="to"/>to go or roam about, <ls>R.</ls>; <ls>VarBṛS.</ls>;
 <div n="to"/>to come to pass, take place, happen, occur, <ls>MBh.</ls>; <ls>Hariv.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-pAtayati</s>, to cause to fly or fall, throw or hurl down, <ls>R.</ls>; <ls>BhP.</ls><info verb="pre" cp="P" parse="sam+pat"/>
+<div n="vp"/><ab>Caus.</ab> <s>-pAtayati</s>, to cause to fly or fall, throw or hurl down, <ls>R.</ls>; <ls>BhP.</ls><info verb="pre" cp="P" parse="sam+pat"/><info hui="a"/>
 <LEND>

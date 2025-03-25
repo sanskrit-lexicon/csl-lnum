@@ -1,392 +1,361 @@
 <L>102166<pc>7-0413<k1>Svas<k2>Svas<h>1
-1. {#Svas#}¦, {#Sva/siti#} 
-<ls>NAIGH. 2, 19</ls> ({#vaDakarman#}). 
-<ls>DHĀTUP. 24, 61</ls> ({#prARane#}). 
-<ls>P. 7, 2, 76.</ls> 
-<ls>VOP. 9, 27.</ls> {#Svasihi/#} (ep. auch {#°Svasa#}), {#Sva/santi#} und {#Svasa/nti#} 
-<ls>P. 6, 1, 188.</ls> {#°Svasante#} und {#SvasamAna#} ep., {#SvasyAt#} (ep. auch {#°Svaset#} und {#°SvasIta)#}; imperf. {#aSvasIt#} und {#aSvasat#} 
-<ls>P. 7, 3, 98. fg.</ls> 
-<ls>VOP. 9, 27.</ls> aor. {#aSvasIt#} 
-<ls>P. 7, 2, 5.</ls> 
-<ls>VOP. 8, 49. 9, 27.</ls> {#SaSvAsa, Svasizyati, Svasitum#} . 
-<div n="1"> 1) {%blasen, zischen, sausen, schnaufen%}: {#(agniH) Svasi^tya\psu ha\Mso na sIda^n#} 
-<ls>ṚV. 1, 65, 9.</ls> 
-<ls>KAUŚ. 93. 131.</ls> {#prati^ Sva\santa^M bruvImahi#} 
-<ls>ṚV. 8, 21, 11.</ls> {#Svasa^ntu\ garga^rA a\pAm#} 
-<ls>AV. 4, 15, 12. 6, 101, 1.</ls> {#DIra\maDI^rA Dayati Sva\santa^m#} 
-<ls>ṚV. 1, 179, 4.</ls> {#yacCva\santo^ jagrasA\nA arA^vizuH#} 
-<ls n="ṚV.">10, 94, 6.</ls> {#sarpAH SvasantaH#} 
-<ls>MBH. 1, 2036.</ls> {#Saro vyAla iva Svasan#} 
-<ls>5, 7277.</ls> <ls>HARIV. 15244.</ls> <ls>R. 2, 22, 1. 92, 27.</ls> <ls>R. GORR. 2, 9, 6. 3, 7, 32. 4, 15, 16. 6, 67, 18.</ls> <ls>ṚT. 1, 13.</ls> <ls>MĀRK. P. 23, 69.</ls> <ls>BHĀG. P. 3, 1, 11. 19, 7. 4, 8, 14. 7, 8, 5. 9, 18, 15.</ls> {#mfgarAja iva Svasan#} 
-<ls>MBH. 4, 510.</ls> {#SvasadBirhayEH#} 
-<ls>6, 3964. 5, 7231.</ls> <ls>SUŚR. 1, 38, 13.</ls> {#Svasiti mfdu#} (ein Elephant) 
-<ls>VARĀH. BṚH. S. 94, 12.</ls> {#Svasiti vihagavargaH#} 
-<ls>ṚT. 1, 23.</ls> med. : {#SvasamAnA ivASugAH#} 
-<ls>MBH. 3, 12544. 4, 2040.</ls> 
-<div n="1">— 2) {%athmen%} 
-<ls>BHAG. 5, 8.</ls> {#sa lohakAraBastreva Svasannapi na jIvati#} 
-<ls>Spr. (II) 2767. 5372.</ls> <ls>Verz. d. Oxf. H. 156,a,23</ls> (lies {#Svasiti)#}.{# Svasan SavaH#} 
-<ls>BHĀG. P. 2, 3, 23. 7, 11. 3, 29, 43. 4, 29, 61. 6, 12, 8.</ls> {#yaM vE Svasantamanu viSvasfjaH Svasanti#} 
-<ls>16, 48.</ls> {#SvasanmftaH#} 
-<ls>8, 19, 43. 10, 4, 16.</ls> {#dftaya iva Svasanti#} 
-<ls>87, 17.</ls> {#SvasAna#} {%athmend%} so v. a. {%nur eben lebend%} 
-<ls>3, 1, 15.</ls> 
-<div n="1">— 3) {%seufzen, aufseufzen%} 
-<ls>MBH. 3, 1867.</ls> {#Svasato dIrGamuzRaM ca duHKArtasya muhurmuhuH#}
+1. {#Svas#}¦, {#Sva/siti#}
+<ls>NAIGH. 2,19</ls> ({#vaDakarman#}).
+<ls>DHĀTUP. 24,61</ls> ({#prARane#}).
+<ls>P. 7,2,76.</ls>
+<ls>VOP. 9,27.</ls> {#Svasihi/#} (ep. auch {#°Svasa#}), {#Sva/santi#} und {#Svasa/nti#}
+<ls>P. 6,1,188.</ls> {#°Svasante#} und {#SvasamAna#} ep., {#SvasyAt#} (ep. auch {#°Svaset#} und {#°SvasIta)#}; imperf. {#aSvasIt#} und {#aSvasat#}
+<ls>P. 7,3,98. fg.</ls>
+<ls>VOP. 9,27.</ls> aor. {#aSvasIt#}
+<ls>P. 7,2,5.</ls>
+<ls>VOP. 8,49.</ls> <ls n="VOP.">9,27.</ls> {#SaSvAsa, Svasizyati, Svasitum#} .
+<div n="1"> 1) {%blasen, zischen, sausen, schnaufen%}: {#(agniH) Svasi^tya\psu ha\Mso na sIda^n#}
+<ls>ṚV. 1,65,9.</ls>
+<ls>KAUŚ. 93. 131.</ls> {#prati^ Sva\santa^M bruvImahi#}
+<ls>ṚV. 8,21,11.</ls> {#Svasa^ntu\ garga^rA a\pAm#}
+<ls>AV. 4,15,12.</ls> <ls n="AV.">6,101,1.</ls> {#DIra\maDI^rA Dayati Sva\santa^m#}
+<ls>ṚV. 1,179,4.</ls> {#yacCva\santo^ jagrasA\nA arA^vizuH#}
+<ls n="ṚV.">10,94,6.</ls> {#sarpAH SvasantaH#}
+<ls>MBH. 1,2036.</ls> {#Saro vyAla iva Svasan#}
+<ls n="MBH.">5,7277.</ls> <ls>HARIV. 15244.</ls> <ls>R. 2,22,1.</ls> <ls n="R. 2,">92,27.</ls> <ls>R. GORR. 2,9,6.</ls> <ls n="R. GORR.">3,7,32.</ls> <ls n="R. GORR.">4,15,16.</ls> <ls n="R. GORR.">6,67,18.</ls> <ls>ṚT. 1,13.</ls> <ls>MĀRK. P. 23,69.</ls> <ls>BHĀG. P. 3,1,11.</ls> <ls n="BHĀG. P. 3,">19,7.</ls> <ls n="BHĀG. P.">4,8,14.</ls> <ls n="BHĀG. P.">7,8,5.</ls> <ls n="BHĀG. P.">9,18,15.</ls> {#mfgarAja iva Svasan#}
+<ls>MBH. 4,510.</ls> {#SvasadBirhayEH#}
+<ls n="MBH.">6,3964.</ls> <ls n="MBH.">5,7231.</ls> <ls>SUŚR. 1,38,13.</ls> {#Svasiti mfdu#} (ein Elephant)
+<ls>VARĀH. BṚH. S. 94,12.</ls> {#Svasiti vihagavargaH#}
+<ls>ṚT. 1,23.</ls> med. : {#SvasamAnA ivASugAH#}
+<ls>MBH. 3,12544.</ls> <ls n="MBH.">4,2040.</ls>
+<div n="1">— 2) {%athmen%}
+<ls>BHAG. 5,8.</ls> {#sa lohakAraBastreva Svasannapi na jIvati#}
+<ls>Spr. (II) 2767.</ls> <ls n="Spr. (II)">5372.</ls> <ls>Verz. d. Oxf. H. 156,a,23</ls> (lies {#Svasiti)#}.{# Svasan SavaH#}
+<ls>BHĀG. P. 2,3,23.</ls> <ls n="BHĀG. P. 2,">7,11.</ls> <ls n="BHĀG. P.">3,29,43.</ls> <ls n="BHĀG. P.">4,29,61.</ls> <ls n="BHĀG. P.">6,12,8.</ls> {#yaM vE Svasantamanu viSvasfjaH Svasanti#}
+<ls n="BHĀG. P. 6,">16,48.</ls> {#SvasanmftaH#}
+<ls n="BHĀG. P.">8,19,43.</ls> <ls n="BHĀG. P.">10,4,16.</ls> {#dftaya iva Svasanti#}
+<ls n="BHĀG. P. 10,">87,17.</ls> {#SvasAna#} {%athmend%} so v. a. {%nur eben lebend%}
+<ls n="BHĀG. P.">3,1,15.</ls>
+<div n="1">— 3) {%seufzen, aufseufzen%}
+<ls>MBH. 3,1867.</ls> {#Svasato dIrGamuzRaM ca duHKArtasya muhurmuhuH#}
 [Page7-0414]
-
-<ls>R. GORR. 2, 79, 38.</ls> <ls>KATHĀS. 39, 188.</ls> <ls>BHAṬṬ. 3, 18.</ls> <ls>BHĀG. P. 3, 30, 18.</ls> — partic. 
-<div n="1"> 1) {#Svasita#} 
-<div n="2"> a) <lex>adj.</lex> so v. a. {%aufgelebt%}: {#amfteneva vacasA tava siktamidaM mama . cEtanyamaBUcCvasitam#} 
-<ls>KATHĀS. 117, 111.</ls> 
-<div n="2">— b) <lex>n.</lex> {%das Athmen. Athem%} 
-<ls>H. 1368.</ls> 
-<ls>R. 2, 59, 29.</ls> 
-<ls>ŚIŚ. 9, 65</ls> (pl.). {#aDika#} 
-<ls>MĀLATĪM. 11, 9.</ls> <ls>BHĀG. P. 2, 1, 33.</ls> 
-<div n="1">— 3) {#Svasta, a°#} 
-<ls>P. 7, 2, 16, Schol.</ls> 
+<ls>R. GORR. 2,79,38.</ls> <ls>KATHĀS. 39,188.</ls> <ls>BHAṬṬ. 3,18.</ls> <ls>BHĀG. P. 3,30,18.</ls> — partic.
+<div n="1"> 1) {#Svasita#}
+<div n="2"> a) <lex>adj.</lex> so v. a. {%aufgelebt%}: {#amfteneva vacasA tava siktamidaM mama . cEtanyamaBUcCvasitam#}
+<ls>KATHĀS. 117,111.</ls>
+<div n="2">— b) <lex>n.</lex> {%das Athmen. Athem%}
+<ls>H. 1368.</ls>
+<ls>R. 2,59,29.</ls>
+<ls>ŚIŚ. 9,65</ls> (pl.). {#aDika#}
+<ls>MĀLATĪM. 11,9.</ls> <ls>BHĀG. P. 2,1,33.</ls>
+<div n="1">— 3) {#Svasta, a°#}
+<ls>P. 7,2,16</ls>, Schol.
 <div n="v">— Vgl. 3. {#Suz#} .
-
-<div n="p">— caus. {#SvAsayati#} {%schweren Athem machen%} 
-<ls>SUŚR. 2, 497, 6.</ls> — {#SvAsitA#} 
-<ls>R. 2, 84, 18</ls> fehlerhaft für {#svASitA#}, wie die ed. Bomb. liest.
-
-<div n="p">— intens. {#SA/Svasat#} {%schnaubend%}: Rosse 
-<ls>ṚV. 1, 30, 16.</ls> <ls n="ṚV.">10, 48, 6.</ls>
-
-<div n="p">— {#anu#} {%fortwährend athmen%}: {#jIvastvahorAtramanuSvasanvE SvAsAnkarotIha katipramARAn#} 
+<div n="p">— caus. {#SvAsayati#} {%schweren Athem machen%}
+<ls>SUŚR. 2,497,6.</ls> — {#SvAsitA#}
+<ls>R. 2,84,18</ls> fehlerhaft für {#svASitA#}, wie die <ls>ed. Bomb.</ls> liest.
+<div n="p">— intens. {#SA/Svasat#} {%schnaubend%}: Rosse
+<ls>ṚV. 1,30,16.</ls> <ls n="ṚV.">10,48,6.</ls>
+<div n="p">— {#anu#} {%fortwährend athmen%}: {#jIvastvahorAtramanuSvasanvE SvAsAnkarotIha katipramARAn#}
 <ls>Verz. d. Oxf. H. 149,b,20. fg.</ls>
-
-<div n="p">— {#apa#}, {#apaSvasiti#} zur Erklärung von {#apAniti#} (das {%einathmen%} bedeuten soll) 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>S. 42.</ls>
-
-<div n="p">— {#aBi#} {%herblasen, - sausen%}: {#a\Bi\Sva\sansta\naya^nneti\ nAna^dat#} 
-<ls>ṚV. 1, 140, 5.</ls> {#BI\masya\ vfzRo^ ja\WarA^daBi\Svaso^#} (infin. mit Attraction) {#Bayate#} 
-<ls n="ṚV.">10, 92, 8.</ls> (hiernach der Artikel {#aBiSvasa#} zu streichen). {%zischen, pfeifen%}: {#rakzoBiraBiSvasadBiH#} 
-<ls>R. 5, 11, 13.</ls> {%stöhnen%}: {#SarABiGAtArtamaBiSvasantam#} 
-<ls>2, 65, 44.</ls> 
+<div n="p">— {#apa#}, {#apaSvasiti#} zur Erklärung von {#apAniti#} (das {%einathmen%} bedeuten soll)
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 42.</ls>
+<div n="p">— {#aBi#} {%herblasen, — sausen%}: {#a\Bi\Sva\sansta\naya^nneti\ nAna^dat#}
+<ls>ṚV. 1,140,5.</ls> {#BI\masya\ vfzRo^ ja\WarA^daBi\Svaso^#} (infin. mit Attraction) {#Bayate#}
+<ls n="ṚV.">10,92,8.</ls> (hiernach der Artikel {#aBiSvasa#} zu streichen). {%zischen, pfeifen%}: {#rakzoBiraBiSvasadBiH#}
+<ls>R. 5,11,13.</ls> {%stöhnen%}: {#SarABiGAtArtamaBiSvasantam#}
+<ls n="R.">2,65,44.</ls>
 <div n="v">— Vgl. {#aBiSvAsa#} .
-
 <div n="p">— {#ava#} s. {#avaSvasam#} .
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {%aufathmen, sich erholen, sich beruhigen, gutes Muths werden. - sein%}: {#kasyASvasiti ceto hi vihitasvErasAhasam#} 
-<ls>KATHĀS. 27, 202.</ls> 
-<ls>MEGH. 8.</ls> {#ASvasihi#} 
-<ls>MBH. 13, 2048.</ls> 
-<ls>BHAṬṬ. 4, 38. 5, 23.</ls> {#ASvasa putraM duryoDanaM prati#} 
-<ls>MBH. 6, 490.</ls> 
-<ls>HARIV. 8899.</ls> {#nASvasat#} 
-<ls>KATHĀS. 33, 129.</ls> {#ASvasIdiva vanam#} 
-<ls>BHAṬṬ. 9, 56.</ls> {#kftvAparADaM nazwaH sandUrasTo 'smIti nASvaset#} 
-<ls>Spr. (II) 1885. 4737. 4747.</ls> {#ASvasaDvam#} 
-<ls>MBH. 3, 690.</ls> {#tatrASvasIta satkftvA asatkftvA na viSvaset#} 
-<ls>MBH. 13, 7612.</ls> {#kAlaM kaMcidASvasya#} 
-<ls>2, 17.</ls> <ls>R. 6, 36, 40.</ls> <ls>MĀLATĪM. 64, 4.</ls> {%Vertrauen haben zu%} (loc.): {#apyasminnASvasante#} 
-<ls>MBH. 5, 4620.</ls> {#yasminmitre pitarIvASvasIta#} 
-<ls>Spr. (II) 3265.</ls> partic. {#viSvasita#} und {#viSvasta#} (nur dieses zu belegen) 
-<ls>VOP. 26, 103. fg.</ls> {%erholt, zu sich gekommen, gutes Muths geworden%} 
-<ls>MBH. 1, 217. 3, 13149. 16865. 5, 3278.</ls> 
-<ls>KATHĀS. 42, 103.</ls> 
-<ls>BHĀG. P. 5, 6, 12.</ls> {#°manas#} 
-<ls>8, 9, 11.</ls> 
-<div n="v">— Vgl. {#ASvAsa#} . — caus. {%Jmd zu Athem kommen —, sich erholen lassen, beruhigen, trösten%}: {#SItABiradBirAturamASvAsya#} 
-<ls>SUŚR. 1, 16, 6. 369, 3.</ls> — 
-<ls>?69, 13. 100, 19. BHĀG. 11, 50. MBH. 1, 5406. 3, 2221. 2371. 2434. 2679. 2764. 4, 691. 5, 6020. 7189. 7280. R. 2, 44, 24. 46, 7. 53, 29. 60, 4. 71, 6. 7. 75, 39. 89, 23. 103, 17. R. GORR. 2, 98, 24. 3, 51, 43. 5, 61, 7. 6, 104, 5. KĀM. NĪTIS. 12, 19. ad MEGH. 112. RAGH. 12, 5. 14, 58. 15, 45. KFMĀRAS. 4, 45. VIKR. 50. 154. Spr. (II) 3611. KATHĀS. 8, 37</ls> ({#kaTA#} personificirt). 
-<ls>18, 95. 175. 290. 20, 30. 30, 48. 32, 132. 56, 70</ls> ({#ASvAsita#} zu lesen). 
-<ls>DAŚAK. 59, 16. 69, 9.</ls> 
-<ls>RĀJA-TAR. 2, 410.</ls> 
-<ls>BHĀG. P. 1, 11, 23. 3, 24, 20.</ls> 
-<ls>PAÑCAT. 104, 7</ls> ({#°CAyASvAsita#} zu lesen). ed. orn. 
-<ls>?4, 25. HIT. 57, 7. 90, 9, v. l. VET. in LA. (III) 18, 3.</ls> {#ASiSvasat#} 
-<ls>BHAṬṬ. 15, 95.</ls> {#ASvAsya#} <lex>adj.</lex> 
+<div n="p">— {#A#}
+<div n="1"> 1) {%aufathmen, sich erholen, sich beruhigen, gutes Muths werden. — sein%}: {#kasyASvasiti ceto hi vihitasvErasAhasam#}
+<ls>KATHĀS. 27,202.</ls>
+<ls>MEGH. 8.</ls> {#ASvasihi#}
+<ls>MBH. 13,2048.</ls>
+<ls>BHAṬṬ. 4,38. 5,23.</ls> {#ASvasa putraM duryoDanaM prati#}
+<ls>MBH. 6,490.</ls>
+<ls>HARIV. 8899.</ls> {#nASvasat#}
+<ls>KATHĀS. 33,129.</ls> {#ASvasIdiva vanam#}
+<ls>BHAṬṬ. 9,56.</ls> {#kftvAparADaM nazwaH sandUrasTo 'smIti nASvaset#}
+<ls>Spr. (II) 1885.</ls> <ls n="Spr. (II)">4737.</ls> <ls n="Spr. (II)">4747.</ls> {#ASvasaDvam#}
+<ls>MBH. 3,690.</ls> {#tatrASvasIta satkftvA asatkftvA na viSvaset#}
+<ls>MBH. 13,7612.</ls> {#kAlaM kaMcidASvasya#}
+<ls n="MBH.">2,17.</ls> <ls>R. 6,36,40.</ls> <ls>MĀLATĪM. 64,4.</ls> {%Vertrauen haben zu%} (loc.): {#apyasminnASvasante#}
+<ls>MBH. 5,4620.</ls> {#yasminmitre pitarIvASvasIta#}
+<ls>Spr. (II) 3265.</ls> partic. {#viSvasita#} und {#viSvasta#} (nur dieses zu belegen)
+<ls>VOP. 26,103. fg.</ls> {%erholt, zu sich gekommen, gutes Muths geworden%}
+<ls>MBH. 1,217.</ls> <ls n="MBH.">3,13149.</ls> <ls n="MBH. 3,">16865.</ls> <ls n="MBH.">5,3278.</ls>
+<ls>KATHĀS. 42,103.</ls>
+<ls>BHĀG. P. 5,6,12.</ls> {#°manas#}
+<ls n="BHĀG. P.">8,9,11.</ls>
+<div n="v">— Vgl. {#ASvAsa#} . — caus. {%Jmd zu Athem kommen —, sich erholen lassen, beruhigen, trösten%}: {#SItABiradBirAturamASvAsya#}
+<ls>SUŚR. 1,16,6. 369,3.</ls> —
+<ls n="SUŚR.">69,13. 100,19.</ls> <ls>BHĀG. 11,50.</ls> <ls>MBH. 1,5406.</ls> <ls n="MBH.">3,2221.</ls> <ls n="MBH. 3,">2371.</ls> <ls n="MBH. 3,">2434.</ls> <ls n="MBH. 3,">2679.</ls> <ls n="MBH. 3,">2764.</ls> <ls n="MBH.">4,691.</ls> <ls n="MBH.">5,6020.</ls> <ls n="MBH. 5,">7189.</ls> <ls n="MBH. 5,">7280.</ls> <ls>R. 2,44,24.</ls> <ls n="R. 2,">46,7.</ls> <ls n="R. 2,">53,29.</ls> <ls n="R. 2,">60,4.</ls> <ls n="R. 2,">71,6.</ls> <ls n="R. 2,71,">7.</ls> <ls n="R. 2,">75,39.</ls> <ls n="R. 2,">89,23.</ls> <ls n="R. 2,">103,17.</ls> <ls>R. GORR. 2,98,24.</ls> <ls n="R. GORR.">3,51,43.</ls> <ls n="R. GORR.">5,61,7.</ls> <ls n="R. GORR.">6,104,5.</ls> <ls>KĀM. NĪTIS. 12,19.</ls> ad <ls>MEGH. 112.</ls> <ls>RAGH. 12,5.</ls> <ls n="RAGH.">14,58.</ls> <ls n="RAGH.">15,45.</ls> <ls>KUMĀRAS. 4,45.</ls> <ls>VIKR. 50. 154.</ls> <ls>Spr. (II) 3611.</ls> <ls>KATHĀS. 8,37</ls> ({#kaTA#} personificirt).
+<ls n="KATHĀS.">18,95.</ls> <ls n="KATHĀS. 18,">175.</ls> <ls n="KATHĀS. 18,">290.</ls> <ls n="KATHĀS.">20,30.</ls> <ls n="KATHĀS.">30,48.</ls> <ls n="KATHĀS.">32,132.</ls> <ls n="KATHĀS.">56,70</ls> ({#ASvAsita#} zu lesen).
+<ls>DAŚAK. 59,16.</ls> <ls n="DAŚAK.">69,9.</ls>
+<ls>RĀJA-TAR. 2,410.</ls>
+<ls>BHĀG. P. 1,11,23.</ls> <ls n="BHĀG. P.">3,24,20.</ls>
+<ls>PAÑCAT. 104,7</ls> ({#°CAyASvAsita#} zu lesen). ed. orn.
+<ls n="PAÑCAT.">4,25.</ls> <ls>HIT. 57,7. 90,9, v. l.</ls> <ls>VET. in LA. (III) 18,3.</ls> {#ASiSvasat#}
+<ls>BHAṬṬ. 15,95.</ls> {#ASvAsya#} <lex>adj.</lex>
 <ls>MEGH. 99.</ls> Vgl. {#ASvAsana#} .
-
-<div n="p">— {#paryA#} {%aufathmen, sich erholen, sich beruhigen%}: {#°Svasihi#} 
-<ls>R. GORR. 2, 94, 4.</ls> {#°Svasa#} 
-<ls>MBH. 8, 4832.</ls> {#°Svasta#} partic. 
-<ls>14, 2396.</ls> — caus. {%Jmd zu Athem kommen —, sich erholen lassen, beruhigen%} 
-<ls>MBH. 3, 11006. 5, 6042</ls> <ls>?(med.). 7, 6846. 8, 5037. 9, 1348.</ls>
-
-<div n="p">— {#prA#} caus. {%beruhigen, trösten%} 
-<ls>R. 3, 35, 115.</ls>
-
-<div n="p">— {#pratyA#} {%wieder zu Athem kommen, sich wieder erholen%}: {#°SvasantaM ripumAcakANGa#} 
-<ls>RAGH. 7, 44.</ls> {#°Svasihi#} 
-<ls>R. 2, 51, 2 (48, 2 GORR.). 86, 3.</ls> {#°Svasya#}
+<div n="p">— {#paryA#} {%aufathmen, sich erholen, sich beruhigen%}: {#°Svasihi#}
+<ls>R. GORR. 2,94,4.</ls> {#°Svasa#}
+<ls>MBH. 8,4832.</ls> {#°Svasta#} partic.
+<ls n="MBH.">14,2396.</ls> — caus. {%Jmd zu Athem kommen —, sich erholen lassen, beruhigen%}
+<ls>MBH. 3,11006.</ls> <ls n="MBH.">5,6042</ls> (med.). <ls n="MBH.">7,6846.</ls> <ls n="MBH.">8,5037.</ls> <ls n="MBH.">9,1348.</ls>
+<div n="p">— {#prA#} caus. {%beruhigen, trösten%}
+<ls>R. 3,35,115.</ls>
+<div n="p">— {#pratyA#} {%wieder zu Athem kommen, sich wieder erholen%}: {#°SvasantaM ripumAcakANGa#}
+<ls>RAGH. 7,44.</ls> {#°Svasihi#}
+<ls>R. 2,51,2</ls> (<ls n="GORR. 2,">48,2</ls> <ls>GORR.</ls>). <ls n="R. 2,">86,3.</ls> {#°Svasya#}
 [Page7-0415]
-
-<ls>MBH. 5, 1980.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 66, 18.</ls> {#°Svasta#} partic. 
-<ls>MBH. 7, 3356. 4919. 9, 48.</ls> 
-<ls>HARIV. 8904.</ls> 
-<ls>R. 1, 67, 20 (69, 21 GORR.). 2, 58, 1,</ls> <ls>R. GORR. 2, 61, 1.</ls> <ls>MEGH. 96.</ls> Vgl. {#pratyASvAsa#} . — caus. {%beruhigen, trösten%} 
-<ls>R. GORR. 2, 117, 26.</ls> Vgl. {#pratyASvAsana#} .
-
-<div n="p">— {#samA#} {%aufathmen, sich erholen, sich beruhigen, gutes Muths werden%}: {#hfdayaM °Svasiti#} 
-<ls>KATHĀS. 43, 264.</ls> {#°Svasihi#} 
-<ls>MBH. 3, 2472.</ls> 
-<ls>R. 3, 53, 23.</ls> 
-<ls>MṚCCH. 61, 19.</ls> 
-<ls>VIKR. 7, 7.</ls> 
-<ls>MĀLATĪM. 20, 10.</ls> <ls>HIT. 103, 18.</ls> {#°Svasam#} 
-<ls>R. 3, 43, 26.</ls> {#°Svasat#} 
-<ls>MBH. 3, 2465.</ls> {#°SvasIt#} 
-<ls>R. GORR. 2, 51, 4.</ls> {#°Svasya#} 
-<ls>2, 17, 25.</ls> <ls>RĀJA-TAR. 3, 419.</ls> <ls>PRAB. 48, 3. 67, 5. 90, 8.</ls> {#mayi Sizye ca Bftye ca sahAye ca samASvasa#} {%verlass dich ruhig auf%} 
-<ls>MBH. 3, 16098.</ls> partic. {#°Svasta#} {%erholt, beruhigt%} 
-<ls>5, 7281.</ls> <ls>R. GORR. 2, 95, 14. 4, 38, 49. 5, 9, 5. 7, 7, 46.</ls> <ls>KATHĀS. 13, 61. 18, 185. 21, 52. 29, 173. 60, 15.</ls> {%voller Vertrauen%} 
-<ls>M. 7, 59.</ls> Vgl. {#samASvAsa#} . — caus. {%Jmd zu Athem kommen — , sich erholen lassen, beruhigen, trösten%} 
-<ls>MBH. 2, 958. 3, 896. 2391. 2679. 2884</ls> (Rosse).  
-<ls>?3011 (med). 12268. 4, 1459. R. 1, 9, 51 (49 GORR.). 17, 29 (18 GORR.). 2, 78, 26. 105, 12. 3, 1, 34. ŚĀK. CH. 60, 9. KATHĀS. 20, 148. 25, 168. MĀRK. P. 21, 24. PRAB. 22, 8. 90, 8. 9. DAŚAK. 93, 10. fg. HIT. 90, 9. 21.</ls> Vgl. {#samASvAsana#} .
-
-<div n="p">— {#ud#} 
-<div n="1"> 1) {%aufzischen, aufschnaufen%}: {#vyAlavaducCvasantaH#} 
-<ls>MBH. 3, 15690.</ls> {#ASIvizavaducCvasya#} 
-<ls>7, 47.</ls> <ls>BHĀG. P. 10, 78, 11.</ls> {#ucCvasamAna#} 
-<ls>MBH. 13, 34.</ls> 
-<div n="1">— 2) {%aufathmen, ausschnaufen von%} so v. a. {%inne halten%} 
-<ls>GOBH. 4, 5, 5.</ls> 
-<ls>SUŚR. 1, 255, 9. 120, 19.</ls> {#somaparigrahAt#} 
-<ls>2, 166, 2.</ls> {#anucCvasya#} {%in einem Athem%} 
-<ls>ĀŚV. ŚR. 2, 17, 4.</ls> 
-<ls>KĀTY. ŚR. 12, 5, 8.</ls> {#kuto vAyaM praSvasiti ucCvasityapi vA punaH#} {%ausathmen%} 
-<ls>MBH. 14, 573.</ls> {#niHSvasyocCvasya cAturaH#} 
-<ls>MĀRK. P. 23, 11.</ls> {%athmen%} überh.: {#nAsikayocCvasIta#} (so zu lesen) 
-<ls>ŚVETĀŚV. UP. 2, 9.</ls> {#nocCvaset#} 
-<ls>AMṚTAN. UP.</ls> in <ls>Ind. St. 9, 27.</ls> {#ucCvasanna sa jIvati#} 
-<ls>M. 3, 72</ls> <ls>?= MBH. 3, 17343. Spr. (II) 2812.</ls> {#aTa vA nocCvasizyAmi saMvatsaraSatAnyapi#} 
-<ls>R. 1, 64, 18.</ls> {#anucCvasan#} 20. {#mandam#} 
-<ls>4, 21, 1.</ls> {#BfSamucCvasya dAruRam#} 
-<ls>MBH. 14, 482.</ls> {#anucCvasamAna#} 
-<ls>R. 1, 65, 8.</ls> {#ucCvasant#} <lex>n.</lex> {%ein athmendes Wesen%} 
-<ls>7, 109, 22.</ls> 
-<div n="1">— 3) {%aufseufzen%}: {#kozRam#} 
-<ls>BHAṬṬ. 6, 120. 14, 55.</ls> 
-<div n="1">— 4) {%sich heben%}: {#mandArakusumadAmnA gururasyAH sUcyate hfdayakampaH . muhurucCvasatA#} 
-<ls>VIKR. 6.</ls> 
-<div n="1">— 5) {%sich lösen von%} (abl.) 
-<ls>BHĀG. P. 10, 38, 20.</ls> {#ucCvasannIvI#} 
-<ls>PAÑCAR. 3, 5, 28.</ls> 
-<div n="1">— 6) {%sich öffnen, aufblühen%}: {#kumudam#} 
-<ls>VIKR. 57.</ls> 
-<ls>MĀLAV. 31.</ls> — partic. 
-<div n="1"> 1) {#ucCvasta#} {%beruhigt%} 
-<ls>KATHĀS. 71, 194.</ls> 
-<div n="1">— 2) {#ucCvasita#} 
-<div n="2"> a) <lex>adj.</lex> 
-<div n="3"> α) {%beruhigt%} 
-<ls>KUMĀRAS. 6, 14.</ls> 
-<ls>MĀLAV. 41</ls> (st. {#jIvitum#} liest die ed. Bomb. besser {#viklavam#}). 
-<ls>KATHĀS. 49, 67.</ls> {%erfrischt, erquickt%}: {#tvannizyandocCvasitavasuDA#} 
-<ls>MEGH. 43.</ls> {#virajaskErnaBasvadBirdiSa ucCvasitA iva#} 
-<ls>RAGH. 10, 74.</ls> 
-<div n="3">— β) {%gehoben, emporgerichtet, geschwollen%}: {#ucCvasitAlakaM muKam#} 
-<ls>RAGH. 8, 54.</ls> {#drutAgatAyAH kasyAScinmuhurucCvasitO stanO#} 
-<ls>KATHĀS. 18, 16.</ls> 
-<ls>CAURAP. 14.</ls> {#utkaRWocCvasitahfdayA#} 
-<ls>MEGH. 98.</ls> 
-<div n="3">— γ) {%weit geöffnet%}: {#ucCvasitogralocana#} 
-<ls>BHĀG. P. 10, 17, 6.</ls> {%aufgeblüht%} 
-<ls>MĀLATĪM. 12, 15.</ls> 
-<div n="2">— b) <lex>n.</lex> 
-<div n="3"> α) {%das Ausstossen des Athems%} 
-<ls>SĀH. D. 170.</ls> {%von feuchten Dünsten%} 
-<ls>RAGH. 8, 3.</ls> {%Athem, Lebenshauch%}: {#pitrorumA viSezocCvasitaM baBUva#} 
-<ls>KUMĀRAS. 7, 4.</ls> 
-<ls>ŚĀK. 31, 10.</ls> 
-<div n="3">— β) {%das Aufgehen, Sichlösen%}: {#nIvIbanDocCvasita#} 
-<ls>MEGH. 69.</ls> {#keyUrabanDocCvasitEH#} 
-<ls>RAGH. 6, 68.</ls> 
-<div n="v">— Vgl. {#ucCvAsa#} fg. — caus. 
-<div n="1"> 1) {%aufathmen lassen%} 
-<ls>KĀṬH. 33, 7.</ls> {%beleben, erfrischen%} 
-<ls>BHĀG. P. 3, 11, 15</ls> {#(ucCvasayan)#}.{# SlaTabanDanAni gAtrARi#} 
-<ls>ṚT. 6, 8, v. l.</ls> {#ucCvAsitahfdambujA#} 
-<ls>KATHĀS. 33, 215.</ls> 
-<div n="1">— 2) {%in die Höhe heben%} 
-<ls>R. 7, 15, 34.</ls> 
-<ls>MEGH. 71</ls> (mit den Scholiasten zu lesen: {#°BujocCvAsitAliNgitAnAm#}). 
-<div n="1">— 3) {%lösen%}: {#daSamuKaBujocCAsitaprasTasaMDi#} 
+<ls>MBH. 5,1980.</ls>
+<ls>R. GORR. 2,66,18.</ls> {#°Svasta#} partic.
+<ls>MBH. 7,3356.</ls> <ls n="MBH. 7,">4919.</ls> <ls n="MBH.">9,48.</ls>
+<ls>HARIV. 8904.</ls>
+<ls>R. 1,67,20</ls> (<ls n="GORR. 1,">69,21</ls> <ls>GORR.</ls>). <ls n="R.">2,58,1</ls>, <ls>R. GORR. 2,61,1.</ls> <ls>MEGH. 96.</ls> Vgl. {#pratyASvAsa#} . — caus. {%beruhigen, trösten%}
+<ls>R. GORR. 2,117,26.</ls> Vgl. {#pratyASvAsana#} .
+<div n="p">— {#samA#} {%aufathmen, sich erholen, sich beruhigen, gutes Muths werden%}: {#hfdayaM °Svasiti#}
+<ls>KATHĀS. 43,264.</ls> {#°Svasihi#}
+<ls>MBH. 3,2472.</ls>
+<ls>R. 3,53,23.</ls>
+<ls>MṚCCH. 61,19.</ls>
+<ls>VIKR. 7,7.</ls>
+<ls>MĀLATĪM. 20,10.</ls> <ls>HIT. 103,18.</ls> {#°Svasam#}
+<ls>R. 3,43,26.</ls> {#°Svasat#}
+<ls>MBH. 3,2465.</ls> {#°SvasIt#}
+<ls>R. GORR. 2,51,4.</ls> {#°Svasya#}
+<ls n="R. GORR.">2,17,25.</ls> <ls>RĀJA-TAR. 3,419.</ls> <ls>PRAB. 48,3. 67,5. 90,8.</ls> {#mayi Sizye ca Bftye ca sahAye ca samASvasa#} {%verlass dich ruhig auf%}
+<ls>MBH. 3,16098.</ls> partic. {#°Svasta#} {%erholt, beruhigt%}
+<ls n="MBH.">5,7281.</ls> <ls>R. GORR. 2,95,14.</ls> <ls n="R. GORR.">4,38,49.</ls> <ls n="R. GORR.">5,9,5.</ls> <ls n="R. GORR.">7,7,46.</ls> <ls>KATHĀS. 13,61.</ls> <ls n="KATHĀS.">18,185.</ls> <ls n="KATHĀS.">21,52.</ls> <ls n="KATHĀS.">29,173.</ls> <ls n="KATHĀS.">60,15.</ls> {%voller Vertrauen%}
+<ls>M. 7,59.</ls> Vgl. {#samASvAsa#} . — caus. {%Jmd zu Athem kommen — , sich erholen lassen, beruhigen, trösten%}
+<ls>MBH. 2,958.</ls> <ls n="MBH.">3,896.</ls> <ls n="MBH. 3,">2391.</ls> <ls n="MBH. 3,">2679.</ls> <ls n="MBH. 3,">2884</ls> (Rosse).
+<ls n="MBH. 3,">3011</ls> (med). <ls n="MBH. 3,">12268.</ls> <ls n="MBH.">4,1459.</ls> <ls>R. 1,9,51</ls> (<ls n="GORR. 1,9,">49</ls> <ls>GORR.</ls>). <ls n="R. 1,">17,29</ls> (<ls n="GORR. 1,17,">18</ls> <ls>GORR.</ls>). <ls n="R.">2,78,26.</ls> <ls n="R. 2,">105,12.</ls> <ls n="R.">3,1,34.</ls> <ls>ŚĀK. CH. 60,9.</ls> <ls>KATHĀS. 20,148.</ls> <ls n="KATHĀS.">25,168.</ls> <ls>MĀRK. P. 21,24.</ls> <ls>PRAB. 22,8. 90,8. 9.</ls> <ls>DAŚAK. 93,10. fg.</ls> <ls>HIT. 90,9. 21.</ls> Vgl. {#samASvAsana#} .
+<div n="p">— {#ud#}
+<div n="1"> 1) {%aufzischen, aufschnaufen%}: {#vyAlavaducCvasantaH#}
+<ls>MBH. 3,15690.</ls> {#ASIvizavaducCvasya#}
+<ls n="MBH.">7,47.</ls> <ls>BHĀG. P. 10,78,11.</ls> {#ucCvasamAna#}
+<ls>MBH. 13,34.</ls>
+<div n="1">— 2) {%aufathmen, ausschnaufen von%} so v. a. {%inne halten%}
+<ls>GOBH. 4,5,5.</ls>
+<ls>SUŚR. 1,255,9. 120,19.</ls> {#somaparigrahAt#}
+<ls n="SUŚR.">2,166,2.</ls> {#anucCvasya#} {%in einem Athem%}
+<ls>ĀŚV. ŚR. 2,17,4.</ls>
+<ls>KĀTY. ŚR. 12,5,8.</ls> {#kuto vAyaM praSvasiti ucCvasityapi vA punaH#} {%ausathmen%}
+<ls>MBH. 14,573.</ls> {#niHSvasyocCvasya cAturaH#}
+<ls>MĀRK. P. 23,11.</ls> {%athmen%} überh.: {#nAsikayocCvasIta#} (so zu lesen)
+<ls>ŚVETĀŚV. UP. 2,9.</ls> {#nocCvaset#}
+<ls>AMṚTAN. UP.</ls> in <ls>Ind. St. 9,27.</ls> {#ucCvasanna sa jIvati#}
+<ls>M. 3,72</ls> = <ls>MBH. 3,17343.</ls> <ls>Spr. (II) 2812.</ls> {#aTa vA nocCvasizyAmi saMvatsaraSatAnyapi#}
+<ls>R. 1,64,18.</ls> {#anucCvasan#} 20. {#mandam#}
+<ls n="R.">4,21,1.</ls> {#BfSamucCvasya dAruRam#}
+<ls>MBH. 14,482.</ls> {#anucCvasamAna#}
+<ls>R. 1,65,8.</ls> {#ucCvasant#} <lex>n.</lex> {%ein athmendes Wesen%}
+<ls n="R.">7,109,22.</ls>
+<div n="1">— 3) {%aufseufzen%}: {#kozRam#}
+<ls>BHAṬṬ. 6,120. 14,55.</ls>
+<div n="1">— 4) {%sich heben%}: {#mandArakusumadAmnA gururasyAH sUcyate hfdayakampaH . muhurucCvasatA#}
+<ls>VIKR. 6.</ls>
+<div n="1">— 5) {%sich lösen von%} (abl.)
+<ls>BHĀG. P. 10,38,20.</ls> {#ucCvasannIvI#}
+<ls>PAÑCAR. 3,5,28.</ls>
+<div n="1">— 6) {%sich öffnen, aufblühen%}: {#kumudam#}
+<ls>VIKR. 57.</ls>
+<ls>MĀLAV. 31.</ls> — partic.
+<div n="1"> 1) {#ucCvasta#} {%beruhigt%}
+<ls>KATHĀS. 71,194.</ls>
+<div n="1">— 2) {#ucCvasita#}
+<div n="2"> a) <lex>adj.</lex>
+<div n="3"> α) {%beruhigt%}
+<ls>KUMĀRAS. 6,14.</ls>
+<ls>MĀLAV. 41</ls> (st. {#jIvitum#} liest die <ls>ed. Bomb.</ls> besser {#viklavam#}).
+<ls>KATHĀS. 49,67.</ls> {%erfrischt, erquickt%}: {#tvannizyandocCvasitavasuDA#}
+<ls>MEGH. 43.</ls> {#virajaskErnaBasvadBirdiSa ucCvasitA iva#}
+<ls>RAGH. 10,74.</ls>
+<div n="3">— β) {%gehoben, emporgerichtet, geschwollen%}: {#ucCvasitAlakaM muKam#}
+<ls>RAGH. 8,54.</ls> {#drutAgatAyAH kasyAScinmuhurucCvasitO stanO#}
+<ls>KATHĀS. 18,16.</ls>
+<ls>CAURAP. 14.</ls> {#utkaRWocCvasitahfdayA#}
+<ls>MEGH. 98.</ls>
+<div n="3">— γ) {%weit geöffnet%}: {#ucCvasitogralocana#}
+<ls>BHĀG. P. 10,17,6.</ls> {%aufgeblüht%}
+<ls>MĀLATĪM. 12,15.</ls>
+<div n="2">— b) <lex>n.</lex>
+<div n="3"> α) {%das Ausstossen des Athems%}
+<ls>SĀH. D. 170.</ls> {%von feuchten Dünsten%}
+<ls>RAGH. 8,3.</ls> {%Athem, Lebenshauch%}: {#pitrorumA viSezocCvasitaM baBUva#}
+<ls>KUMĀRAS. 7,4.</ls>
+<ls>ŚĀK. 31,10.</ls>
+<div n="3">— β) {%das Aufgehen, Sichlösen%}: {#nIvIbanDocCvasita#}
+<ls>MEGH. 69.</ls> {#keyUrabanDocCvasitEH#}
+<ls>RAGH. 6,68.</ls>
+<div n="v">— Vgl. {#ucCvAsa#} fg. — caus.
+<div n="1"> 1) {%aufathmen lassen%}
+<ls>KĀṬH. 33,7.</ls> {%beleben, erfrischen%}
+<ls>BHĀG. P. 3,11,15</ls> ({#ucCvasayan#}).{# SlaTabanDanAni gAtrARi#}
+<ls>ṚT. 6,8, v. l.</ls> {#ucCvAsitahfdambujA#}
+<ls>KATHĀS. 33,215.</ls>
+<div n="1">— 2) {%in die Höhe heben%}
+<ls>R. 7,15,34.</ls>
+<ls>MEGH. 71</ls> (mit den Scholiasten zu lesen: {#°BujocCvAsitAliNgitAnAm#}).
+<div n="1">— 3) {%lösen%}: {#daSamuKaBujocCAsitaprasTasaMDi#}
 <ls>MEGH. 59.</ls>
 [Page7-0416]
-
-<div n="p">— {#prod#} {%schnaufen, heftig athmen%}: {#prAyaH procCvasizi drutaM hutavahajvAlAsamaM rAtrizu#} 
+<div n="p">— {#prod#} {%schnaufen, heftig athmen%}: {#prAyaH procCvasizi drutaM hutavahajvAlAsamaM rAtrizu#}
 <ls>Spr. (II) 7036.</ls>
-
-<div n="p">— {#samud#} 
-<div n="1"> 1) {%Athem holen%} 
-<ls>SUŚR. 2, 370, 12.</ls> {%aufathmen, sich erholen%}: {#brAhmaRI sAmbusikteva taptA BUH samudaSvasat#} 
-<ls>KATHĀS. 21, 51.</ls> 
-<div n="1">— 2) {%tief aufseufzen%} (oder auch in Bed. 1): {#mayA samucCvasitam#} (impers.) 
-<ls>Spr. (II) 1512.</ls> — caus. {%in die Höhe heben%}: {#SramavArileSEH kiMcitsamucCvAsitapattraleKam (priyAmuKam)#} 
-<ls>KUMĀRAS. 3, 38.</ls> = {#viSlezita#} 
+<div n="p">— {#samud#}
+<div n="1"> 1) {%Athem holen%}
+<ls>SUŚR. 2,370,12.</ls> {%aufathmen, sich erholen%}: {#brAhmaRI sAmbusikteva taptA BUH samudaSvasat#}
+<ls>KATHĀS. 21,51.</ls>
+<div n="1">— 2) {%tief aufseufzen%} (oder auch in Bed. 1): {#mayA samucCvasitam#} (impers.)
+<ls>Spr. (II) 1512.</ls> — caus. {%in die Höhe heben%}: {#SramavArileSEH kiMcitsamucCvAsitapattraleKam (priyAmuKam)#}
+<ls>KUMĀRAS. 3,38.</ls> = {#viSlezita#}
 <ls>MALLIN.</ls>
-
-<div n="p">— {#upa#} s. {#°Svasa#} . caus. {%anbrausen, mil Brausen füllen%}: {#upa^ SvAsaya pfTi\vImu\ta dyAm (dunduBe)#} 
-<ls>ṚV. 6, 47, 29.</ls>
-
-<div n="p">— {#ni#} 
-<div n="1"> 1) {%zischen, schnaufen%}: {#niSvasantaM (niH°#} ed. Bomb.) {#yaTA nAgam#} 
-<ls>MBH. 1, 219.</ls> 
-<ls>R. 3, 53, 55. 5, 11, 13.</ls> 
-<ls>MĀRK. P. 23, 73. 69, 17.</ls> {#niSaSvAsorago yaTA#} 
-<ls>MBH. 1, 5901.</ls> {#vanagajo yaTA#} 
-<ls>R. GORR. 2, 101, 30.</ls> {#nyaSvasItkalpavAyuvat#} 
-<ls>BHAṬṬ. 15, 24.</ls> 
-<div n="1">— 2) {%aufseufzen%}: {#niSvasantI#} 
-<ls>MĀRK. P. 62, 8.</ls> {#niSaSvAsa#} 
-<ls>MBH. 2, 514. 3, 460. 3000. 9, 1712.</ls> 
-<ls>R. 3, 68, 21.</ls> 
-<ls>MĀRK. P. 122, 16.</ls> {#°Svasya#} ({#niH°#} ed. Bomb.) 
-<ls>MBH. 3, 2376.</ls> 
-<ls>ŚĀK. CH. 26, 3.</ls> 
-<ls>MĀRK. P. 21, 23.</ls> 
-<ls>DAŚAK. 59, 11.</ls> {#nyaSvasat#} 
-<ls>MBH. 8, 4833.</ls> {#nyaSvasIt#} 
-<ls>BHAṬṬ. 6, 34. 3, 17.</ls> — partic. {#niSvasita#} <lex>n.</lex> {%Aushauch%} 
-<ls>ŚAT. BR. 14, 5, 4, 10</ls> <ls>?= MAITRYUP. 6, 32.</ls> 
+<div n="p">— {#upa#} s. {#°Svasa#} . caus. {%anbrausen, mil Brausen füllen%}: {#upa^ SvAsaya pfTi\vImu\ta dyAm (dunduBe)#}
+<ls>ṚV. 6,47,29.</ls>
+<div n="p">— {#ni#}
+<div n="1"> 1) {%zischen, schnaufen%}: {#niSvasantaM (niH°#} <ls>ed. Bomb.</ls>) {#yaTA nAgam#}
+<ls>MBH. 1,219.</ls>
+<ls>R. 3,53,55.</ls> <ls n="R.">5,11,13.</ls>
+<ls>MĀRK. P. 23,73. 69,17.</ls> {#niSaSvAsorago yaTA#}
+<ls>MBH. 1,5901.</ls> {#vanagajo yaTA#}
+<ls>R. GORR. 2,101,30.</ls> {#nyaSvasItkalpavAyuvat#}
+<ls>BHAṬṬ. 15,24.</ls>
+<div n="1">— 2) {%aufseufzen%}: {#niSvasantI#}
+<ls>MĀRK. P. 62,8.</ls> {#niSaSvAsa#}
+<ls>MBH. 2,514.</ls> <ls n="MBH.">3,460.</ls> <ls n="MBH. 3,">3000.</ls> <ls n="MBH.">9,1712.</ls>
+<ls>R. 3,68,21.</ls>
+<ls>MĀRK. P. 122,16.</ls> {#°Svasya#} ({#niH°#} <ls>ed. Bomb.</ls>)
+<ls>MBH. 3,2376.</ls>
+<ls>ŚĀK. CH. 26,3.</ls>
+<ls>MĀRK. P. 21,23.</ls>
+<ls>DAŚAK. 59,11.</ls> {#nyaSvasat#}
+<ls>MBH. 8,4833.</ls> {#nyaSvasIt#}
+<ls>BHAṬṬ. 6,34. 3,17.</ls> — partic. {#niSvasita#} <lex>n.</lex> {%Aushauch%}
+<ls>ŚAT. BR. 14,5,4,10</ls> = <ls>MAITRYUP. 6,32.</ls>
 <div n="v">— Vgl. {#niSvAsa#} und {#Svas#} mit {#nis#} .
-
-<div n="p">— {#vini#} 
-<div n="1"> 1) {%zischen, schnaufen%}: {#°SvasankrudDa ivoragADipaH#} 
-<ls>R. 4, 5, 31.</ls> 
-<ls>BHAṬṬ. 8, 94.</ls> 
-<div n="1">— 2) {%aufseufzen%}: {#°SvasatyuzRam#} (so!, {#viniH°#} ed. Bomb.) 
-<ls>MBH. 3, 14759.</ls> {#°Svasan#} 
-<ls>R. GORR. 2, 62, 43. 3, 47, 18.</ls> <ls>RAGH. 6, 40.</ls> <ls>Spr. (II) 445.</ls> {#°Svasya#} 
-<ls>MBH. 3, 2750</ls> ({#viniH°#} ed. Bomb.). 
-<ls>15663</ls> ({#viniH°#} ed. Bomb.). 
-<ls>4, 459.</ls> <ls>R. GORR. 1, 57, 22. 58, 1. 3, 68, 22.</ls> 
+<div n="p">— {#vini#}
+<div n="1"> 1) {%zischen, schnaufen%}: {#°SvasankrudDa ivoragADipaH#}
+<ls>R. 4,5,31.</ls>
+<ls>BHAṬṬ. 8,94.</ls>
+<div n="1">— 2) {%aufseufzen%}: {#°SvasatyuzRam#} (so!, {#viniH°#} <ls>ed. Bomb.</ls>)
+<ls>MBH. 3,14759.</ls> {#°Svasan#}
+<ls>R. GORR. 2,62,43.</ls> <ls n="R. GORR.">3,47,18.</ls> <ls>RAGH. 6,40.</ls> <ls>Spr. (II) 445.</ls> {#°Svasya#}
+<ls>MBH. 3,2750</ls> ({#viniH°#} <ls>ed. Bomb.</ls>).
+<ls n="MBH. 3,">15663</ls> ({#viniH°#} <ls>ed. Bomb.</ls>).
+<ls n="MBH.">4,459.</ls> <ls>R. GORR. 1,57,22.</ls> <ls n="R. GORR. 1,">58,1.</ls> <ls n="R. GORR.">3,68,22.</ls>
 <div n="v">— Vgl. {#Svas#} mit {#vinis#} .
-
-<div n="p">— {#nis#} 
-<div n="1"> 1) {%zischen, schnaufen%}: {#niHSaSvAsa mahAsarpo bilasTa iva rozitaH#} 
-<ls>R. 2, 23, 2 (20, 2 GORR.). 92, 27.</ls> <ls>R. GORR. 2, 19, 1.</ls> {#SaraM dIptaM niHSvasantamivoragam#} 
-<ls>6, 92, 42.</ls> {#niHSvasanniva kuYjaraH#} 
-<ls>R.</ls> <ls>SCHL. 2, 20, 8. 101, 16 (40, 14</ls> <ls>GORR.</ls><ls>).</ls> 
-<div n="1">— 2) {%aushauchen%} 
-<ls>SUŚR. 1, 38, 15.</ls> {%einathmen%}: {#niHSvasyocCvasya cAturaH#} 
-<ls>MĀRK. P. 23, 11.</ls> 
-<div n="1">— 3) {%aufseufzen%}: {#°Svasanti#} 
-<ls>R. 2, 59, 13.</ls> {#°Svasant#} 
-<ls>MBH. 1, 5922. 2, 1647.</ls> 
-<ls>R. 1, 63, 13. 2, 34, 2.</ls> 
-<ls>MĀRK. P. 22, 42.</ls> 
-<ls>RĀJA-TAR. 3, 286.</ls> 
-<ls>BHĀG. P. 4, 8, 15.</ls> {#°Svasya#} 
-<ls>R. 1, 54, 5. 2, 35, 1. 57, 11. 3, 48, 1.</ls> 
-<ls>ŚĀK. 20, 2 </ls> (v. l. {#ni°#}). 
-<ls>VIKR. 21, 14.</ls> 
-<ls>KATHĀS. 26, 52.</ls> 
-<ls>HIT. 22, 14.</ls> — partic. {#°Svasita#} <lex>n.</lex> {%der ausgestossene Athem%} 
-<ls>RAGH. 8, 63.</ls> 
-<ls>SĀY.</ls> zu <ls>ŚAT. BR. 14, 5, 4, 10.</ls> {%das Seufzen, Seufzer%} 
-<ls>KUMĀRAS. 5, 46.</ls> 
-<ls>VIKR. 37</ls> (pl.). 
+<div n="p">— {#nis#}
+<div n="1"> 1) {%zischen, schnaufen%}: {#niHSaSvAsa mahAsarpo bilasTa iva rozitaH#}
+<ls>R. 2,23,2</ls> (<ls n="GORR. 2,">20,2</ls> <ls>GORR.</ls>). <ls n="R. 2,">92,27.</ls> <ls>R. GORR. 2,19,1.</ls> {#SaraM dIptaM niHSvasantamivoragam#}
+<ls n="R. GORR.">6,92,42.</ls> {#niHSvasanniva kuYjaraH#}
+<ls>R. SCHL. 2,20,8.</ls> <ls n="R. SCHL. 2,">101,16</ls> (<ls n="GORR. 2,">40,14</ls> <ls>GORR.</ls>).
+<div n="1">— 2) {%aushauchen%}
+<ls>SUŚR. 1,38,15.</ls> {%einathmen%}: {#niHSvasyocCvasya cAturaH#}
+<ls>MĀRK. P. 23,11.</ls>
+<div n="1">— 3) {%aufseufzen%}: {#°Svasanti#}
+<ls>R. 2,59,13.</ls> {#°Svasant#}
+<ls>MBH. 1,5922.</ls> <ls n="MBH.">2,1647.</ls>
+<ls>R. 1,63,13.</ls> <ls n="R.">2,34,2.</ls>
+<ls>MĀRK. P. 22,42.</ls>
+<ls>RĀJA-TAR. 3,286.</ls>
+<ls>BHĀG. P. 4,8,15.</ls> {#°Svasya#}
+<ls>R. 1,54,5.</ls> <ls n="R.">2,35,1.</ls> <ls n="R. 2,">57,11.</ls> <ls n="R.">3,48,1.</ls>
+<ls>ŚĀK. 20,2</ls> (v. l. {#ni°#}).
+<ls>VIKR. 21,14.</ls>
+<ls>KATHĀS. 26,52.</ls>
+<ls>HIT. 22,14.</ls> — partic. {#°Svasita#} <lex>n.</lex> {%der ausgestossene Athem%}
+<ls>RAGH. 8,63.</ls>
+<ls>SĀY.</ls> zu <ls>ŚAT. BR. 14,5,4,10.</ls> {%das Seufzen, Seufzer%}
+<ls>KUMĀRAS. 5,46.</ls>
+<ls>VIKR. 37</ls> (pl.).
 <div n="v">— Vgl. {#niHSvAsa#} und {#Svas#} mit {#ni#} .
-
-<div n="p">— {#atinis#} {%heftig aufseufzen%}: {#°Svasan#} 
-<ls>R. GORR. 2, 84, 5.</ls> {#sudIrGamatiniHSvasya#} 
-<ls>MBH. 13, 282.</ls> 
-<ls>R. 2, 36, 1.</ls>
-
-<div n="p">— {#vinis#} 
-<div n="1"> 1) {%zischen, schnaufen%}: {#°SvasanBujaNga iva rozitaH#} 
-<ls>R. 4, 5, 16.</ls> {#kareRUnAmivarzaBaH#} 
-<ls>R.</ls> <ls>SCHL. 2, 42, 17.</ls> <ls>MBH. 7, 3089.</ls> 
-<div n="1">— 2) {%aufseufzen%}: {#°Svasan#} 
-<ls>R. 2, 85, 19.</ls> 
-<ls>KATHĀS. 10, 154.</ls> {#°Svasya#} 
-<ls>MBH. 5, 7332.</ls> 
-<ls>R. 1, 56, 22.</ls> 
-<ls>BHĀG. P. 4, 4, 3.</ls> 
+<div n="p">— {#atinis#} {%heftig aufseufzen%}: {#°Svasan#}
+<ls>R. GORR. 2,84,5.</ls> {#sudIrGamatiniHSvasya#}
+<ls>MBH. 13,282.</ls>
+<ls>R. 2,36,1.</ls>
+<div n="p">— {#vinis#}
+<div n="1"> 1) {%zischen, schnaufen%}: {#°SvasanBujaNga iva rozitaH#}
+<ls>R. 4,5,16.</ls> {#kareRUnAmivarzaBaH#}
+<ls>R. SCHL. 2,42,17.</ls> <ls>MBH. 7,3089.</ls>
+<div n="1">— 2) {%aufseufzen%}: {#°Svasan#}
+<ls>R. 2,85,19.</ls>
+<ls>KATHĀS. 10,154.</ls> {#°Svasya#}
+<ls>MBH. 5,7332.</ls>
+<ls>R. 1,56,22.</ls>
+<ls>BHĀG. P. 4,4,3.</ls>
 <div n="v">— Vgl. {#Svas#} mit {#vini#} .
-
-<div n="p">— {#parA#} {%vertrauen auf%} (loc.): {#tvayi parASvasya#} 
-<ls>MBH. 3, 17011.</ls>
-
-<div n="p">— {#pra#} {%einathmen%}: {#kuto vAyaM praSvasiti ucCvasityapi vA punaH#} 
-<ls>MBH. 14, 573.</ls> Vgl. {#praSvasitavya#} fg. — caus. 
-<div n="1"> 1) {%athmen machen%} 
-<ls>ŚAT. BR. 13, 2, 7, 12.</ls> 
-<div n="1">— 2) {%beruhigen, trösten%} 
-<ls>HARIV. 6343.</ls> 
-<ls>R. 5, 63, 4.</ls>
-
-<div n="p">— {#aBipra#} {%anblasen%}, mit acc. 
-<ls>AIT. BR. 3, 20.</ls>
-
-<div n="p">— {#prati#} {%gegen Jmd schnaufen%}: {#prati^ Sva\santa\mava^ dAna\vaM ha^n#} 
-<ls>ṚV. 5, 29, 4.</ls> Die Accentuirung zieht die Präp. zu {#han#} .
-
+<div n="p">— {#parA#} {%vertrauen auf%} (loc.): {#tvayi parASvasya#}
+<ls>MBH. 3,17011.</ls>
+<div n="p">— {#pra#} {%einathmen%}: {#kuto vAyaM praSvasiti ucCvasityapi vA punaH#}
+<ls>MBH. 14,573.</ls> Vgl. {#praSvasitavya#} fg. — caus.
+<div n="1"> 1) {%athmen machen%}
+<ls>ŚAT. BR. 13,2,7,12.</ls>
+<div n="1">— 2) {%beruhigen, trösten%}
+<ls>HARIV. 6343.</ls>
+<ls>R. 5,63,4.</ls>
+<div n="p">— {#aBipra#} {%anblasen%}, mit acc.
+<ls>AIT. BR. 3,20.</ls>
+<div n="p">— {#prati#} {%gegen Jmd schnaufen%}: {#prati^ Sva\santa\mava^ dAna\vaM ha^n#}
+<ls>ṚV. 5,29,4.</ls> Die Accentuirung zieht die Präp. zu {#han#} .
 <div n="p">— {#vi#} {%Zuversicht —, Vertrauen —, kein Arges haben, unbesorgt sein%}:
 [Page7-0417]
-{#°Svasizi#} 
-<ls>KATHĀS. 60, 45.</ls> {#°Svasanti#} 
-<ls>Spr. (II) 1458.</ls> {#°Svasan#} 
-<ls>5646, v. l.</ls> <ls>KATHĀS. 36, 65</ls> ({#a°#}). 
-<ls>RĀJA-TAR. 6, 201</ls> ({#a°#}). {#°Svaset#} 
-<ls>MBH. 4, 95.</ls> 
-<ls>Spr. (II) 1677. 6755.</ls> {#°Svasya#} 
-<ls>R. 4, 27, 18.</ls> 
-<ls>KATHĀS. 33, 173.</ls> {#°Svasitum#} 
-<ls>R. 4, 44, 69.</ls> {#°SaSvase#} (impers.) {#pakzigaREH#} 
-<ls>BHAṬṬ. 2, 25.</ls> mit loc. der Person: {#°Svasiti#} 
-<ls>Spr. (II) 287. 4219. 4741.</ls> 
-<ls>SĀH. D. 59, 13.</ls> {#°santi#} 
-<ls>Spr. (II) 6064.</ls> {#°Svasan (a°)#} 
-<ls>KATHĀS. 43, 70.</ls> {#°Svasihi#} 
-<ls>R. 5, 22, 7.</ls> {#°Svaset#} 
-<ls>4, 55, 7.</ls> <ls>Spr. (II) 3430. fgg.</ls> <ls>KATHĀS. 5, 91.</ls> {#°SvaseH#} 
-<ls>MBH. 5, 453.</ls> {#°SaSvAsa#} 
-<ls>KATHĀS. 40, 75.</ls> {#°SaSvasuH#} 
-<ls>KUMĀRAS. 5, 15.</ls> {#°Svase#} 
-<ls>HARIV. 1179.</ls> {#°SvasIta#} 
-<ls>MĀRK. P. 27, 8.</ls> mit loc. der Sache: {#AcAre calacittasya strIcaritre ca#} 
-<ls>Spr. (II) 6202.</ls> mit gen. der Person: {#°Svasimi#} 
-u.s.w. <ls>PAÑCAT. 109, 12. 32, 25. 238, 9</ls> ({#viSvasiti#} zu lesen). 
-<ls>Spr. (II) 1694.</ls> 
-<ls>MĀRK. P. 68, 22.</ls> {#°Svaset#} 
-<ls>MBH. 3, 17310.</ls> 
-<ls>Spr. (II) 3387. 3428. fg. 3848. 5184. 6208.</ls> {#°SvaseyuH#} 
-<ls>1268.</ls> {#mA viSvasIH#} 
-<ls>RĀJA-TAR. 7, 461.</ls> {#°Svasizyati#} 
-<ls>R. 2, 12, 67.</ls> mit acc. der Person: {#na viSvaseyustAM duzwAm#} 
-<ls>Spr. (II) 3434.</ls> partic. {#°Svasta#} und {#viSvasita#} 
-<ls>VOP. 26, 103. fg.</ls> {#viSvasta#} {%voller Vertrauen, kein Arges habend, unbesorgt%} 
-<ls>H. an. 3, 301.</ls> 
-<ls>MED. t. 155.</ls> <ls>MBH. 1, 5924. 5949. 4, 2327.</ls> {#tena#} 
-<ls>R. 1, 1, 65. 3, 1, 25. 78, 3</ls> ({#°mfgaSArdUla#}). 
-<ls>?4, 6, 20. 5, 79, 3. R. GORR. 1, 47, 14. ŚĀK. 9, 18, v. l. Spr. 3306. (II) 2197. 2575. 3412. 3431. fgg. 3637. 5923. 6209. KATHĀS. 24, 135. RĀJA-TAR. 5, 404. fg. PAÑCAT. 33, 8.</ls> {#°vaYcaka#} 
-<ls>KATHĀS. 26, 240.</ls> {#°GAtin#} 
-<ls>57, 23.</ls> {#°GAtaka (viSvasto GA°#} gedr.) 
-<ls>PAÑCAT. ed. orn. 43, 5.</ls> mit gen. der Person 
-<ls>PAÑCAT. 63, 6.</ls> {#su°#} 
-<ls>34, 25.</ls> {#a°#} 
-<ls>R. 3, 1, 25.</ls> 
-<ls>Spr. (II) 287. 3412. 3431. fgg. 5923. 6209.</ls> {#viSvastam#} 
-<ls>?adv. 3622. 5644</ls> (vielleicht so vu lesen st. {#viSvasto#}). 
-<ls>SUŚR. 2, 343, 18.</ls> {#viSvasita#} nur 
-<ls>BHĀG. P. 10, 87, 20.</ls> Vgl. {#viSvasanIya, viSvasitavya, viSvasta, viSvAsa, viSvAsin, viSvAsya#} ({#°tara#} {%mehr Vertrauen verdienend%} 
-<ls>DAŚAK. 70, 11</ls>). — caus. {%Jmdes Vertrauen gewinnen, Jmd Vertrauen einflössen%}; mit acc. der Person 
-<ls>R. 5, 33, 15.</ls> 
-<ls>KĀM. NĪTIS. 5, 16.</ls> <ls>Spr. (II) 659. 1458. 2398. 3431. 4659. 6207. fgg.</ls> <ls>KATHĀS. 13, 95. 46, 232. 121, 183.</ls> <ls>PAÑCAT. 33, 7. 68, 20.</ls> <ls>HIT. 20, 11. III, 1.</ls> <ls>BHAṬṬ. 8, 105.</ls> Vgl. {#viSvAsana#} . — desid. vom caus. {%Jmd%} (acc.) {%Vertrauen einzuflössen beabsichtigen%}: {#viSiSvAsayizAM cakruryozitaH#} 
-<ls>BHAṬṬ. 14, 12.</ls>
-
-<div n="p">— {#ativi#} {%grosses (zu grosses) Vertrauen haben%} u. s. w.: {#mano nAtiviSaSvAsa#} 
-<ls>RAGH. 12, 101.</ls> {#viSvaste nAtiviSvaset#} 
-<ls>Spr. (II) 3431. fgg.</ls> {#viSvastAnnAtiviSvaset#} 
-<ls>6209.</ls> {#°Svasta#} 
-<ls>MBH. 3, 12274.</ls>
-
-<div n="p">— {#aBivi#} caus. {%Jmdes Vertrauen gewinnen, Jmd Vertrauen einflössen%}; mit acc. der Person 
-<ls>MBH. 3, 10021.</ls> 
-<ls>SUŚR. 1, 316, 19.</ls>
-
-<div n="p">— {#parivi#}, partic. {#°Svasta#} {%voller Vertrauen, kein Arges habend, unbesorgt%} 
-<ls>MBH. 1, 5618. 3, 11452. 15, 1012.</ls> — caus. {%beruhigen, trösten%} 
-<ls>R. 2, 30, 26.</ls>
+{#°Svasizi#}
+<ls>KATHĀS. 60,45.</ls> {#°Svasanti#}
+<ls>Spr. (II) 1458.</ls> {#°Svasan#}
+<ls n="Spr. (II)">5646, v. l.</ls> <ls>KATHĀS. 36,65</ls> ({#a°#}).
+<ls>RĀJA-TAR. 6,201</ls> ({#a°#}). {#°Svaset#}
+<ls>MBH. 4,95.</ls>
+<ls>Spr. (II) 1677.</ls> <ls n="Spr. (II)">6755.</ls> {#°Svasya#}
+<ls>R. 4,27,18.</ls>
+<ls>KATHĀS. 33,173.</ls> {#°Svasitum#}
+<ls>R. 4,44,69.</ls> {#°SaSvase#} (impers.) {#pakzigaREH#}
+<ls>BHAṬṬ. 2,25.</ls> mit loc. der Person: {#°Svasiti#}
+<ls>Spr. (II) 287.</ls> <ls n="Spr. (II)">4219.</ls> <ls n="Spr. (II)">4741.</ls>
+<ls>SĀH. D. 59,13.</ls> {#°santi#}
+<ls>Spr. (II) 6064.</ls> {#°Svasan (a°)#}
+<ls>KATHĀS. 43,70.</ls> {#°Svasihi#}
+<ls>R. 5,22,7.</ls> {#°Svaset#}
+<ls n="R.">4,55,7.</ls> <ls>Spr. (II) 3430. fgg.</ls> <ls>KATHĀS. 5,91.</ls> {#°SvaseH#}
+<ls>MBH. 5,453.</ls> {#°SaSvAsa#}
+<ls>KATHĀS. 40,75.</ls> {#°SaSvasuH#}
+<ls>KUMĀRAS. 5,15.</ls> {#°Svase#}
+<ls>HARIV. 1179.</ls> {#°SvasIta#}
+<ls>MĀRK. P. 27,8.</ls> mit loc. der Sache: {#AcAre calacittasya strIcaritre ca#}
+<ls>Spr. (II) 6202.</ls> mit gen. der Person: {#°Svasimi#}
+u.s.w. <ls>PAÑCAT. 109,12. 32,25. 238,9</ls> ({#viSvasiti#} zu lesen).
+<ls>Spr. (II) 1694.</ls>
+<ls>MĀRK. P. 68,22.</ls> {#°Svaset#}
+<ls>MBH. 3,17310.</ls>
+<ls>Spr. (II) 3387.</ls> <ls n="Spr. (II)">3428. fg.</ls> <ls n="Spr. (II)">3848.</ls> <ls n="Spr. (II)">5184.</ls> <ls n="Spr. (II)">6208.</ls> {#°SvaseyuH#}
+<ls n="Spr. (II)">1268.</ls> {#mA viSvasIH#}
+<ls>RĀJA-TAR. 7,461.</ls> {#°Svasizyati#}
+<ls>R. 2,12,67.</ls> mit acc. der Person: {#na viSvaseyustAM duzwAm#}
+<ls>Spr. (II) 3434.</ls> partic. {#°Svasta#} und {#viSvasita#}
+<ls>VOP. 26,103. fg.</ls> {#viSvasta#} {%voller Vertrauen, kein Arges habend, unbesorgt%}
+<ls>H. an. 3,301.</ls>
+<ls>MED. t. 155.</ls> <ls>MBH. 1,5924.</ls> <ls n="MBH. 1,">5949.</ls> <ls n="MBH.">4,2327.</ls> {#tena#}
+<ls>R. 1,1,65.</ls> <ls n="R.">3,1,25.</ls> <ls n="R. 3,">78,3</ls> ({#°mfgaSArdUla#}).
+<ls n="R.">4,6,20.</ls> <ls n="R.">5,79,3.</ls> <ls>R. GORR. 1,47,14.</ls> <ls>ŚĀK. 9,18, v. l.</ls> <ls>Spr. 3306.</ls> <ls>Spr. (II) 2197.</ls> <ls n="Spr. (II)">2575.</ls> <ls n="Spr. (II)">3412.</ls> <ls n="Spr. (II)">3431. fgg.</ls> <ls n="Spr. (II)">3637.</ls> <ls n="Spr. (II)">5923.</ls> <ls n="Spr. (II)">6209.</ls> <ls>KATHĀS. 24,135.</ls> <ls>RĀJA-TAR. 5,404. fg.</ls> <ls>PAÑCAT. 33,8.</ls> {#°vaYcaka#}
+<ls>KATHĀS. 26,240.</ls> {#°GAtin#}
+<ls n="KATHĀS.">57,23.</ls> {#°GAtaka (viSvasto GA°#} gedr.)
+<ls>PAÑCAT. ed. orn. 43,5.</ls> mit gen. der Person
+<ls>PAÑCAT. 63,6.</ls> {#su°#}
+<ls n="PAÑCAT.">34,25.</ls> {#a°#}
+<ls>R. 3,1,25.</ls>
+<ls>Spr. (II) 287.</ls> <ls n="Spr. (II)">3412.</ls> <ls n="Spr. (II)">3431. fgg.</ls> <ls n="Spr. (II)">5923.</ls> <ls n="Spr. (II)">6209.</ls> {#viSvastam#}
+adv. <ls n="Spr.">3622.</ls> <ls n="Spr.">5644</ls> (vielleicht so vu lesen st. {#viSvasto#}).
+<ls>SUŚR. 2,343,18.</ls> {#viSvasita#} nur
+<ls>BHĀG. P. 10,87,20.</ls> Vgl. {#viSvasanIya, viSvasitavya, viSvasta, viSvAsa, viSvAsin, viSvAsya#} ({#°tara#} {%mehr Vertrauen verdienend%}
+<ls>DAŚAK. 70,11</ls>). — caus. {%Jmdes Vertrauen gewinnen, Jmd Vertrauen einflössen%}; mit acc. der Person
+<ls>R. 5,33,15.</ls>
+<ls>KĀM. NĪTIS. 5,16.</ls> <ls>Spr. (II) 659.</ls> <ls n="Spr. (II)">1458.</ls> <ls n="Spr. (II)">2398.</ls> <ls n="Spr. (II)">3431.</ls> <ls n="Spr. (II)">4659.</ls> <ls n="Spr. (II)">6207. fgg.</ls> <ls>KATHĀS. 13,95.</ls> <ls n="KATHĀS.">46,232.</ls> <ls n="KATHĀS.">121,183.</ls> <ls>PAÑCAT. 33,7.</ls> <ls n="PAÑCAT.">68,20.</ls> <ls>HIT. 20,11. III,1.</ls> <ls>BHAṬṬ. 8,105.</ls> Vgl. {#viSvAsana#} . — desid. vom caus. {%Jmd%} (acc.) {%Vertrauen einzuflössen beabsichtigen%}: {#viSiSvAsayizAM cakruryozitaH#}
+<ls>BHAṬṬ. 14,12.</ls>
+<div n="p">— {#ativi#} {%grosses (zu grosses) Vertrauen haben%} u. s. w.: {#mano nAtiviSaSvAsa#}
+<ls>RAGH. 12,101.</ls> {#viSvaste nAtiviSvaset#}
+<ls>Spr. (II) 3431. fgg.</ls> {#viSvastAnnAtiviSvaset#}
+<ls n="Spr. (II)">6209.</ls> {#°Svasta#}
+<ls>MBH. 3,12274.</ls>
+<div n="p">— {#aBivi#} caus. {%Jmdes Vertrauen gewinnen, Jmd Vertrauen einflössen%}; mit acc. der Person
+<ls>MBH. 3,10021.</ls>
+<ls>SUŚR. 1,316,19.</ls>
+<div n="p">— {#parivi#}, partic. {#°Svasta#} {%voller Vertrauen, kein Arges habend, unbesorgt%}
+<ls>MBH. 1,5618.</ls> <ls n="MBH.">3,11452.</ls> <ls n="MBH.">15,1012.</ls> — caus. {%beruhigen, trösten%}
+<ls>R. 2,30,26.</ls>
 <LEND>

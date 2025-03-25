@@ -1,109 +1,101 @@
 <L>28981<pc>3-0272<k1>tark<k2>tark
-{#tark#}¦, {#tarka/yati#} (ep. auch med.) 
-<ls>DHĀTUP. 33, 107</ls> ({#Uhe#}). 
-<div n="1"> 1) {%vermuthen, eine Vermuthung aufstellen%}: {#tAM samIkzya - tarkayAmAsa BEmIti#} 
-<ls>MBH. 3, 2663.</ls> 
-<ls>R. 5, 18, 22.</ls> {#evaM sA tarkayitvA#} 
-<ls>MBH. 3, 2889.</ls> {#taTA tarkayAmi yaTAnenAcirapravrajitena Bavitavyam#} 
-<ls>MṚCCH. 113, 24.</ls> 
-<ls>PRAB. 20, 5.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 199, 10.</ls> {#ayi tarkaya kena devI gatA syAt#} {%sprich deine Vermuthung aus%} 
-<ls>ŚĀK. 83, 5, v. l.</ls> {#na miTyA mama tarkitam#} {%Vermuthung%} 
-<ls>HARIV. 9467.</ls> 
-<div n="1">— 2) {%sich in Vermuthungen über Jmd%} oder {%Etwas ergehen, hinter Jmd zu kommen suchen, sich eine Vorstellung von Jmd%} oder {%Etwas machen%}; mit dem acc.: {#dakziRenATa vAmena katareRa svidasyati . iti mAM saMgatAH sarve tarkayizyanti SatravaH ..#} 
-<ls>MBH. 4, 1970.</ls> {#SatroH sakASAtsaMprAptaH sarvaTA tarkyatAmayam . viSvAsayogo sahasA na kartavyo viBIzaRe ..#} 
-<ls>R. 5, 90, 10.</ls> {#viDervilAsAnabDeSca taraMgAnko hi tarkayet#} 
-<ls>KATHĀS. 26, 18.</ls> {#atyadButamacintyaM ca atarkitamidaM mayA#} 
-<ls>R. 1, 67, 21.</ls> {#nAhaM taTA - carAmi loke yaTA tvaM mAM tarjayase#} (lies: {#tarkayase#} {%beurtheilst, dir vorstellst%}) {#svabudDyA#} 
-<ls>MBH. 14, 913.</ls> 
-<div n="1">— 3) {%für Jmd%} oder {%Etwas halten%}; mit dopp. acc.: {#sa hi tAM tarkayAmAsa rUpato nfpatiH Sriyam#} 
-<ls>MBH. 1, 6540.</ls> {#rUpaM na sadfSaM tasyAstarkayAmAsa kiM ca na#} 
-<ls>6545.</ls> {#(tAm) durDarzAM tarkayAmAsa dIptAmagniSiKAmiva#} 
-<ls>3, 2398.</ls> {#tarkaye tvAM mahadBUtam#} 
-<ls>HARIV. 11402.</ls> {#tvaM tAvatkatamAM tarkayasi#} {%welche hältst du dafür%} 
-<ls>ŚĀK. 86, 9.</ls> {#itTaMBUtAM praTamavirahe tAmahaM tarkayAmi#} 
-<ls>MEGH. 92.</ls> {#pratyAdeSAnna#} (acc.) {#Kalu Bavato DIratAM tarkayAmi#} 
-<ls>112.</ls> {#saMpratyetAvatIM SaktiM gamane tarkayAmyaham . daSonaM yojanaSataM navonaM vA na saMSayaH ..#} 
-<ls>R. 5, 1, 56.</ls> {#pUrvameva mayA rAma tarkitastvam - mahatA tejasA yukto gUQo 'gniriva dAruzu#} 
-<ls>4, 11, 9. 3, 27, 22.</ls> 
-<div n="1">— 4) {%nachsinnen, in Gedanken sich Jmd%} oder {%Etwas vorführen, im Sinne haben, an Jmd%} oder {%Etwas denken%}: {#taTA tarkayatastasya#} 
-<ls>MBH. 3, 1723.</ls> {#dfzwvA tatsOkaraM rUpaM tarkayAmAsa citraDA#} 
-<ls>BHĀG. P. 3, 13, 20.</ls> {#SrutAni devaliNgAni tarkayAmAsa#} 
-<ls>MBH. 3, 2204.</ls> {#sadA hyenaM tarkayate#} 
-<ls>5, 1895.</ls> {#prAgjyotizapure #}
+{#tark#}¦, {#tarka/yati#} (ep. auch med.)
+<ls>DHĀTUP. 33,107</ls> ({#Uhe#}).
+<div n="1"> 1) {%vermuthen, eine Vermuthung aufstellen%}: {#tAM samIkzya — tarkayAmAsa BEmIti#}
+<ls>MBH. 3,2663.</ls>
+<ls>R. 5,18,22.</ls> {#evaM sA tarkayitvA#}
+<ls>MBH. 3,2889.</ls> {#taTA tarkayAmi yaTAnenAcirapravrajitena Bavitavyam#}
+<ls>MṚCCH. 113,24.</ls>
+<ls>PRAB. 20,5.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 199,10.</ls> {#ayi tarkaya kena devI gatA syAt#} {%sprich deine Vermuthung aus%}
+<ls>ŚĀK. 83,5, v. l.</ls> {#na miTyA mama tarkitam#} {%Vermuthung%}
+<ls>HARIV. 9467.</ls>
+<div n="1">— 2) {%sich in Vermuthungen über Jmd%} oder {%Etwas ergehen, hinter Jmd zu kommen suchen, sich eine Vorstellung von Jmd%} oder {%Etwas machen%}; mit dem acc.: {#dakziRenATa vAmena katareRa svidasyati . iti mAM saMgatAH sarve tarkayizyanti SatravaH ..#}
+<ls>MBH. 4,1970.</ls> {#SatroH sakASAtsaMprAptaH sarvaTA tarkyatAmayam . viSvAsayogo sahasA na kartavyo viBIzaRe ..#}
+<ls>R. 5,90,10.</ls> {#viDervilAsAnabDeSca taraMgAnko hi tarkayet#}
+<ls>KATHĀS. 26,18.</ls> {#atyadButamacintyaM ca atarkitamidaM mayA#}
+<ls>R. 1,67,21.</ls> {#nAhaM taTA — carAmi loke yaTA tvaM mAM tarjayase#} (lies: {#tarkayase#} {%beurtheilst, dir vorstellst%}) {#svabudDyA#}
+<ls>MBH. 14,913.</ls>
+<div n="1">— 3) {%für Jmd%} oder {%Etwas halten%}; mit dopp. acc.: {#sa hi tAM tarkayAmAsa rUpato nfpatiH Sriyam#}
+<ls>MBH. 1,6540.</ls> {#rUpaM na sadfSaM tasyAstarkayAmAsa kiM ca na#}
+<ls n="MBH. 1,">6545.</ls> {#(tAm) durDarzAM tarkayAmAsa dIptAmagniSiKAmiva#}
+<ls n="MBH.">3,2398.</ls> {#tarkaye tvAM mahadBUtam#}
+<ls>HARIV. 11402.</ls> {#tvaM tAvatkatamAM tarkayasi#} {%welche hältst du dafür%}
+<ls>ŚĀK. 86,9.</ls> {#itTaMBUtAM praTamavirahe tAmahaM tarkayAmi#}
+<ls>MEGH. 92.</ls> {#pratyAdeSAnna#} (acc.) {#Kalu Bavato DIratAM tarkayAmi#}
+<ls n="MEGH.">112.</ls> {#saMpratyetAvatIM SaktiM gamane tarkayAmyaham . daSonaM yojanaSataM navonaM vA na saMSayaH ..#}
+<ls>R. 5,1,56.</ls> {#pUrvameva mayA rAma tarkitastvam — mahatA tejasA yukto gUQo 'gniriva dAruzu#}
+<ls n="R.">4,11,9.</ls> <ls n="R.">3,27,22.</ls>
+<div n="1">— 4) {%nachsinnen, in Gedanken sich Jmd%} oder {%Etwas vorführen, im Sinne haben, an Jmd%} oder {%Etwas denken%}: {#taTA tarkayatastasya#}
+<ls>MBH. 3,1723.</ls> {#dfzwvA tatsOkaraM rUpaM tarkayAmAsa citraDA#}
+<ls>BHĀG. P. 3,13,20.</ls> {#SrutAni devaliNgAni tarkayAmAsa#}
+<ls>MBH. 3,2204.</ls> {#sadA hyenaM tarkayate#}
+<ls n="MBH.">5,1895.</ls> {#prAgjyotizapure #}
 [Page3-0273]
-{# cApi narakaM sADu tarkaye#} (in Parallele mit {#jAnAmi, vidito me#}) 
-<ls>HARIV. 3134.</ls> {%im Sinne haben zu, gedenken zu%}; mit dem infin.: {#so 'smAnatarkayat Boktum#} 
-<ls>MBH. 3, 16244.</ls> {#tarkayante surAnhantum#} 
-<ls>1894.</ls> {#balimiva pariBoktuM vAyasAstarkayanti#} 
-<ls>MṚCCH. 157, 11.</ls> 
-<ls>MEGH. 52.</ls> {#atarkita#} {%an den%} oder {%woran man nicht gedacht hat, unerwartet%} 
-<ls>AK. 3, 5, 7.</ls> 
-<ls>HARIV. 4467.</ls> 
-<ls>BHARTṚ. 3, 63.</ls> 
-<ls>KUMĀRAS. 4, 22.</ls> 
-<ls>KATHĀS. 10, 187. 25, 219.</ls> 
-<ls>PRAB. 117, 6</ls> (vgl. Schol. 
-<ls>2</ls>). 
-<div n="1">— 5) {%in's Klare kommen%}: {#devO vA tO manuzyO vA na tarkayitumutsahe#} 
-<ls>R. 3, 25, 12.</ls> 
-<div n="1">— 6) {%scheinen%} oder {%sprechen%} 
-<ls>DHĀTUP.</ls> — 
+{# cApi narakaM sADu tarkaye#} (in Parallele mit {#jAnAmi, vidito me#})
+<ls>HARIV. 3134.</ls> {%im Sinne haben zu, gedenken zu%}; mit dem infin.: {#so 'smAnatarkayat Boktum#}
+<ls>MBH. 3,16244.</ls> {#tarkayante surAnhantum#}
+<ls n="MBH. 3,">1894.</ls> {#balimiva pariBoktuM vAyasAstarkayanti#}
+<ls>MṚCCH. 157,11.</ls>
+<ls>MEGH. 52.</ls> {#atarkita#} {%an den%} oder {%woran man nicht gedacht hat, unerwartet%}
+<ls>AK. 3,5,7.</ls>
+<ls>HARIV. 4467.</ls>
+<ls>BHARTṚ. 3,63.</ls>
+<ls>KUMĀRAS. 4,22.</ls>
+<ls>KATHĀS. 10,187.</ls> <ls n="KATHĀS.">25,219.</ls>
+<ls>PRAB. 117,6</ls> (vgl. Schol.
+<ls n="PRAB.">2</ls>).
+<div n="1">— 5) {%in's Klare kommen%}: {#devO vA tO manuzyO vA na tarkayitumutsahe#}
+<ls>R. 3,25,12.</ls>
+<div n="1">— 6) {%scheinen%} oder {%sprechen%}
+<ls>DHĀTUP.</ls> —
 <ls>WEBER</ls> vermuthet, dass die urspr. Bed. {%drehen%} sei; vgl. {%torqueo.%}
-
-<div n="p">— {#anu#} 
-<div n="1"> 1) {%in Gedanken bei Jmd sein%}: {#devamevAnvatarkayat#} 
-<ls>MBH. 3, 1722.</ls> 
-<div n="1">— 2) {%in Jmd Etwas sehen, Jmd halten für%}: {#tvAmarTinaM viprasutAnutarkaye#} 
-<ls>BHĀG. P. 8, 18, 32.</ls>
-
+<div n="p">— {#anu#}
+<div n="1"> 1) {%in Gedanken bei Jmd sein%}: {#devamevAnvatarkayat#}
+<ls>MBH. 3,1722.</ls>
+<div n="1">— 2) {%in Jmd Etwas sehen, Jmd halten für%}: {#tvAmarTinaM viprasutAnutarkaye#}
+<ls>BHĀG. P. 8,18,32.</ls>
 <div n="p">— {#nis#} s. {#nizwarkya#} .
-
-<div n="p">— {#pari#} 
-<div n="1"> 1) {%hinundhersinnen, sich in Gedanken womit beschäftigen%}: {#manoraTEScEva tu cintayAmi taTEva budDyA paritarkayAmi#} 
-<ls>R. 5, 30, 18.</ls> {#na hyahaM taM kapi manye karmaBiH paritarkayan#} 
-<ls>41, 6.</ls> {#ime hi divye maRikuRqale me devASca - tEstErupAyErapahartukAmASCidrezu nityaM paritarkayanti#} 
-<ls>MBH. 14, 1683.</ls> {#aparitarkita#} {%unerwartet%} 
-<ls>HARIV. 4500.</ls> 
-<div n="1">— 2) {%Jmd gerichtlich verhören, vernehmen%}: {#kaccinna tarkayuktA vA ye cApyaparitarkitAH . tvayA vA tava vAmAtyErbADyante tAta mAnavAH ..#} 
-<ls>R. GORR. 2, 109, 16.</ls>
-
-<div n="p">— {#pra#} 
-<div n="1"> 1) {%über Etwas%} (acc.) {%in's Klare kommen, erschliessen%}: {#idamidamiti tatra tatra tattatsvaparamatErgahanaM pratarkayadBiH#} 
-<ls>MBH. 12, 6687.</ls> {#sTiratvavyAyAmErbalaM vEdyaH pratarkayet#} 
-<ls>SUŚR. 1, 130, 1.</ls> 
-<div n="1">— 2) {%halten für%}: {#pratiDvanInAtmakftAnniSamya - pratarkayannanyamfgendranAdAn#} 
-<ls>BHAṬṬ. 2, 9.</ls> 
+<div n="p">— {#pari#}
+<div n="1"> 1) {%hinundhersinnen, sich in Gedanken womit beschäftigen%}: {#manoraTEScEva tu cintayAmi taTEva budDyA paritarkayAmi#}
+<ls>R. 5,30,18.</ls> {#na hyahaM taM kapi manye karmaBiH paritarkayan#}
+<ls n="R. 5,">41,6.</ls> {#ime hi divye maRikuRqale me devASca — tEstErupAyErapahartukAmASCidrezu nityaM paritarkayanti#}
+<ls>MBH. 14,1683.</ls> {#aparitarkita#} {%unerwartet%}
+<ls>HARIV. 4500.</ls>
+<div n="1">— 2) {%Jmd gerichtlich verhören, vernehmen%}: {#kaccinna tarkayuktA vA ye cApyaparitarkitAH . tvayA vA tava vAmAtyErbADyante tAta mAnavAH ..#}
+<ls>R. GORR. 2,109,16.</ls>
+<div n="p">— {#pra#}
+<div n="1"> 1) {%über Etwas%} (acc.) {%in's Klare kommen, erschliessen%}: {#idamidamiti tatra tatra tattatsvaparamatErgahanaM pratarkayadBiH#}
+<ls>MBH. 12,6687.</ls> {#sTiratvavyAyAmErbalaM vEdyaH pratarkayet#}
+<ls>SUŚR. 1,130,1.</ls>
+<div n="1">— 2) {%halten für%}: {#pratiDvanInAtmakftAnniSamya — pratarkayannanyamfgendranAdAn#}
+<ls>BHAṬṬ. 2,9.</ls>
 <div n="v">— Vgl. {#pratarka, pratarkya#} .
-
-<div n="p">— {#saMpra#} {%halten für%}: {#apayAtaM ca samarAdvizaRRaM saMpratarkya tam#} 
+<div n="p">— {#saMpra#} {%halten für%}: {#apayAtaM ca samarAdvizaRRaM saMpratarkya tam#}
 <ls>HARIV. 13804.</ls>
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%vermuthen, glauben%}: {#tannUnaM mftyumApsyatIti vitarkayAmi#} 
-<ls>PAÑCAT. 35, 5.</ls> {%sich in Vermuthungen ergehen%}: {#kiM nu svidetatpatatIti sarve vitarkayantaH parimohitAH smaH#} 
-<ls>MBH. 1, 3571.</ls> {%Vermuthungen über Jmd%} (acc.) {%anstellen%}: {#itTaM saSizyezu BfguzvanekaDA vitarkyamARo BagavAnsa vAmanaH#} 
-<ls>BHĀG. P. 8, 18, 23.</ls> {#avitarkita#} {%wovon man keine Ahnung gehabt hat%} 
-<ls>R. 2, 69, 21.</ls> 
-<div n="1">— 2) {%halten für%}: {#alajIlakzaREryuktamalajIM vitarkayet#} 
-<ls>SUŚR. 1, 298, 17.</ls> 
-<div n="1">— 3) {%nachdenken, nachsinnen, erwägen%} 
-<ls>MBH. 4, 221.</ls> {#vitarkayannAsya laBAmi niScayam#} 
-<ls>234.</ls> {#vitarkya manasApi#} 
-<ls>R. 5, 35, 39.</ls> {#tataH sa vitarkyAbravIt#} 
-<ls>PAÑCAT. 121, 25.</ls> 
-<ls>KATHĀS. 21, 124.</ls> 
-<ls>BHĀG. P. 1, 4, 27.</ls> {#vitarkayanto bahuDA#} 
-<ls>3, 20, 33.</ls> {%über Etwas%} (acc.) {%nachsinnen%}: {#gurulAGavamarTAnAmAramBezvavitarkayan#} 
-<ls>R. GORR. 2, 65, 6.</ls> 
-<div n="1">— 4) {%in's Klare kommen, erschliessen%}: {#vitarkya kAmajErcihnEH#} 
-<ls>KATHĀS. 7, 67.</ls> 
+<div n="p">— {#vi#}
+<div n="1"> 1) {%vermuthen, glauben%}: {#tannUnaM mftyumApsyatIti vitarkayAmi#}
+<ls>PAÑCAT. 35,5.</ls> {%sich in Vermuthungen ergehen%}: {#kiM nu svidetatpatatIti sarve vitarkayantaH parimohitAH smaH#}
+<ls>MBH. 1,3571.</ls> {%Vermuthungen über Jmd%} (acc.) {%anstellen%}: {#itTaM saSizyezu BfguzvanekaDA vitarkyamARo BagavAnsa vAmanaH#}
+<ls>BHĀG. P. 8,18,23.</ls> {#avitarkita#} {%wovon man keine Ahnung gehabt hat%}
+<ls>R. 2,69,21.</ls>
+<div n="1">— 2) {%halten für%}: {#alajIlakzaREryuktamalajIM vitarkayet#}
+<ls>SUŚR. 1,298,17.</ls>
+<div n="1">— 3) {%nachdenken, nachsinnen, erwägen%}
+<ls>MBH. 4,221.</ls> {#vitarkayannAsya laBAmi niScayam#}
+<ls n="MBH. 4,">234.</ls> {#vitarkya manasApi#}
+<ls>R. 5,35,39.</ls> {#tataH sa vitarkyAbravIt#}
+<ls>PAÑCAT. 121,25.</ls>
+<ls>KATHĀS. 21,124.</ls>
+<ls>BHĀG. P. 1,4,27.</ls> {#vitarkayanto bahuDA#}
+<ls n="BHĀG. P.">3,20,33.</ls> {%über Etwas%} (acc.) {%nachsinnen%}: {#gurulAGavamarTAnAmAramBezvavitarkayan#}
+<ls>R. GORR. 2,65,6.</ls>
+<div n="1">— 4) {%in's Klare kommen, erschliessen%}: {#vitarkya kAmajErcihnEH#}
+<ls>KATHĀS. 7,67.</ls>
 <div n="v">— Vgl. {#vitarka#} fgg.
-
-<div n="p">— {#saMvi#} {%über Etwas nachdenken%} 
-<ls>MBH. 4, 234.</ls>
-
-<div n="p">— {#sam#} {%halten für%}: {#(tAm) punaH saMtarkayAmAsaM raverBrazwAmiva praBAm#} 
-<ls>MBH. 1, 6540.</ls> {#evaM saMtarkayAmAsa rUpadraviRasaMpadA . kanyAmasadfSIM loke#} 
-<ls>6548.</ls>
+<div n="p">— {#saMvi#} {%über Etwas nachdenken%}
+<ls>MBH. 4,234.</ls>
+<div n="p">— {#sam#} {%halten für%}: {#(tAm) punaH saMtarkayAmAsaM raverBrazwAmiva praBAm#}
+<ls>MBH. 1,6540.</ls> {#evaM saMtarkayAmAsa rUpadraviRasaMpadA . kanyAmasadfSIM loke#}
+<ls n="MBH. 1,">6548.</ls>
 <LEND>

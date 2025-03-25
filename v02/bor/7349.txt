@@ -1,9 +1,9 @@
 <L>7349<pc>232<k1>element<k2>element
-<div n="lb"/>{@ELEMENT:@}¦ <div n="I">I An e. ary substance: </div><div n="1">(1) {#BUtam,#} [Page233]
-<div n="lb"/><div n="xe">{%sky, etc. are the five e.s:%}</div> <div n="xs">{#paYcaBUtAni viyadAdIni,#}</div>
-<div n="lb"/>D. s.; <div n="xe">{%the sixth of the great e. s:%}</div> <div n="xs">{#BUtAnAM mahatAM zazWaH,#}</div>
-<div n="lb"/>R.; </div><div n="1">(2) {#mUlapadArTaH.#} </div><div n="I">II Rudiments: q. v.:
-<div n="lb"/><div n="xe">{%e. s of grammer:%}</div> <div n="xs">{#vyAkaraRasAraH#}</div> <div n="xe">{%or%}</div> <div n="xs">{#laGuvyAkaraRam.#}</div> </div><div n="I">III
-<div n="lb"/>The proper sphere: Ph.: {%he is out of his e.:%}
-<div n="lb"/>{#*na svaBUmO vartate saH.#}</div>
+{@ELEMENT:@}¦ <div n="I">I An e. ary substance: </div><div n="1">(1) {#BUtam,#} [Page233]
+<div n="xe">{%sky, etc. are the five e.s:%}</div> <div n="xs">{#paYcaBUtAni viyadAdIni,#}</div>
+D. s.; <div n="xe">{%the sixth of the great e. s:%}</div> <div n="xs">{#BUtAnAM mahatAM zazWaH,#}</div>
+R.; </div><div n="1">(2) {#mUlapadArTaH.#} </div><div n="I">II Rudiments: q. v.:
+<div n="xe">{%e. s of grammer:%}</div> <div n="xs">{#vyAkaraRasAraH#}</div> <div n="xe">{%or%}</div> <div n="xs">{#laGuvyAkaraRam.#}</div> </div><div n="I">III
+The proper sphere: Ph.: {%he is out of his e.:%}
+{#*na svaBUmO vartate saH.#}</div>
 <LEND>

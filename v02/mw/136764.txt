@@ -1,4 +1,4 @@
-<L>136764<pc>690,3<k1>pravap<k2>pra-vap<h>b<e>1
-<hom>b.</hom> <s>pra-</s>√ <hom>2.</hom> <s>vap</s> ¦ <ab>P.</ab> <s>-vapati</s>, to scatter, strew, throw, <ls>RV.</ls> &c. &c.:
-<div n="to"/><ab>Caus.</ab> <s>-vApayati</s>, to scatter, strew, <ls>TS.</ls>; <ls>Kāṭh. 2.</ls><info verb="pre" cp="P" parse="pra+vap"/>
+<L>136764<pc>690,3<k1>pravap<k2>pra-vap<e>1
+ <s>pra-</s>√ <hom>2.</hom> <s>vap</s> ¦ <ab>P.</ab> <s>-vapati</s>, to scatter, strew, throw, <ls>RV.</ls> &c. &c.:
+<div n="vp"/><ab>Caus.</ab> <s>-vApayati</s>, to scatter, strew, <ls>TS.</ls>; <ls>Kāṭh. 2.</ls><info verb="pre" cp="P" parse="pra+vap"/><info hui="b"/>
 <LEND>

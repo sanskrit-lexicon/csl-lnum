@@ -1,7 +1,7 @@
 <L>11308<pc>355<k1>human<k2>human
-<div n="lb"/>{@HUMAN:@}¦ <div n="1">(1) by comp., <div n="xe">{%in h. tongue:%}</div> <div n="xs">{#manuzyavAcA,#}</div>
-<div n="lb"/>R.; <div n="xe">{%h. nature:%}</div> <div n="xs">{#mAnuzatA,#}</div> K.: v. Man; </div><div n="1">(2)
-<div n="lb"/>{#mAnuzaH#} ({#zI, zaM#}), <div n="xe">{%h. body:%}</div> <div n="xs">{#mAnuzI tanuH,#}</div> R. xvi. 22.;</div>
-<div n="lb"/><div n="1">(3) {#mAnavaH#} ({#vI, vaM#}) <div n="xe">{%or-%}</div> <div n="xs">{#vIyaH#}</div> ({#yA, yaM#}), {%h. form:%}
-<div n="lb"/>{#mAnavaM rUpam,#} M. n.</div>
+{@HUMAN:@}¦ <div n="1">(1) by comp., <div n="xe">{%in h. tongue:%}</div> <div n="xs">{#manuzyavAcA,#}</div>
+R.; <div n="xe">{%h. nature:%}</div> <div n="xs">{#mAnuzatA,#}</div> K.: v. Man; </div><div n="1">(2)
+{#mAnuzaH#} ({#zI, zaM#}), <div n="xe">{%h. body:%}</div> <div n="xs">{#mAnuzI tanuH,#}</div> R. xvi. 22.;</div>
+<div n="1">(3) {#mAnavaH#} ({#vI, vaM#}) <div n="xe">{%or-%}</div> <div n="xs">{#vIyaH#}</div> ({#yA, yaM#}), {%h. form:%}
+{#mAnavaM rUpam,#} M. n.</div>
 <LEND>

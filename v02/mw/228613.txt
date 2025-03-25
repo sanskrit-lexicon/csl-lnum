@@ -1,5 +1,5 @@
 <L>228613<pc>1129,2<k1>saMgrah<k2>saM-grah<e>1
-<s>saM-√ grah</s> ¦ (or √ <s>graB</s>) <ab>P.</ab> <ab>Ā.</ab> <s>-gfhRAti</s>, <s>-gfhRIte</s> (<ab>Ved.</ab> generally <s>-gfBRAti</s>, <s>-gfBRIte</s>), to seize or hold together, take or lay hold of. grab, grasp, gripe, clasp, clench, snatch, <ls>RV.</ls> &c. &c.;
+<s>saM-√ grah</s> (or -√ <s>graB</s>) ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-gfhRAti</s>, <s>-gfhRIte</s> (<lang>Ved.</lang> generally <s>-gfBRAti</s>, <s>-gfBRIte</s>), to seize or hold together, take or lay hold of, grab, grasp, gripe, clasp, clench, snatch, <ls>RV.</ls> &c. &c.;
 <div n="to"/>to take, receive (kindly or hospitably), encourage, support, favour, protect, <ls>Hit.</ls>; <ls>BhP.</ls>;
 <div n="to"/>to seize on, attack (as an illness), <ls>MBh.</ls>;
 <div n="to"/>to apprehend, conceive, understand, <ls>BhP.</ls>;
@@ -17,5 +17,5 @@
 <div n="to"/> <ab>Caus.</ab> <s>-grAhayati</s>, to cause to grasp or take hold of or receive or comprehend or understand, impart, communicate (with <ab>acc.</ab> of thing and <ab>acc.</ab> or <ab>dat.</ab> of person), <ls>Car.</ls>; <ls>BhP.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>jiGfkzati</s>, to wish to take hold of &c.;
 <div n="to"/>to wish to collect, <ls>MBh.</ls>;
-<div n="to"/>to wish to take in marriage, desire to marry, <ls>Daś.</ls><info or="228613,saMgrah;228613.1,saMgraB"/><info verb="pre" cp="PĀ" parse="sam+grah"/>
+<div n="to"/>to wish to take in marriage, desire to marry, <ls>Daś.</ls><info verb="pre" cp="PĀ" parse="sam+"/>
 <LEND>

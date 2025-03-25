@@ -1,8 +1,8 @@
 <L>46728<pc>265,2<k1>kaz<k2>kaz<e>1
-<s>kaz</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> <s>kazati</s>, <s>°te</s>, to rub, scratch, scrape, <ls>Pāṇ. 3-4, 34</ls>; <ls>Naiṣ.</ls> : <ab>Ā.</ab> to rub or scratch one's self, <ls>ChUp.</ls> (<ab>pr. p.</ab> <ab>Ā.</ab> <s>kazamARa</s>), <ls>Vait.</ls>;
+<s>kaz</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <ab>Ā.</ab> <s>kazati</s>, <s>°te</s>, to rub, scratch, scrape, <ls>Pāṇ. iii, 4, 34</ls>; <ls>Naiṣ.</ls> : <ab>Ā.</ab> to rub or scratch one's self, <ls>ChUp.</ls> (<ab>pr. p.</ab> <ab>Ā.</ab> <s>kazamARa</s>), <ls>Vait.</ls>;
 <div n="to"/>to itch (<ab>Ā.</ab>), <ls>BhP.</ls>;
-<div n="to"/>to rub with a touchstone, test, try, <ls>Kāś.</ls> on <ls>Pāṇ. 7-2, 22</ls>;
+<div n="to"/>to rub with a touchstone, test, try, <ls>Kāś.</ls> on <ls>Pāṇ. vii, 2, 22</ls>;
 <div n="to"/>to injure, hurt, destroy, kill, <ls>Dhātup. xvii, 34</ls>;
-<div n="to"/>to leap, <ls>ib. xvii, 77</ls> (<ab>v.l.</ab>) :
-<div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <s>kAzayati</s>, to hurt, <ls>ib. xxxii, 121</ls> (<ab>v.l.</ab>); ([<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">κεωρέω</lang>, <lang n="greek">κάσσα</lang>.])<info westergaard="kaza,17.34,01.0447"/><info whitneyroots="kaz,17"/><info verb="genuineroot" cp="1P,1Ā"/>
+<div n="to"/>to leap, <ls>ib.</ls> <ls n="Dhātup.">xvii, 77</ls> (<ab>v.l.</ab>) :
+<div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <s>kAzayati</s>, to hurt, <ls>ib.</ls> <ls n="Dhātup.">xxxii, 121</ls> (<ab>v.l.</ab>); [<ab>cf.</ab> <lang>Gk.</lang> <gk>κεωρέω</gk>, <gk>κάσσα</gk>.]<info westergaard="kaza,17.34,01.0447"/><info whitneyroots="kaz,17"/><info verb="genuineroot" cp="1P,1Ā"/>
 <LEND>

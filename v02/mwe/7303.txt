@@ -1,13 +1,13 @@
 <L>7303<pc>166-a<k1>degree<k2>degree
-<div n="lb"/>DEGREE¦, {%s.%} (Station, rank) {#padaM, sTAnaM, AspadaM, padaviH#} {%f.%} {#-vI, vfttiH#} {%f.,%}
-<div n="lb"/>{#pratipattiH#} {%f.;%} ‘high degree,’ {#paramapadaM#}. — (State in which a
-<div n="lb"/>thing is) {#avasTA, BAvaH, daSA, sTitiH#} {%f.,%} {#vfttiH#} {%f.,%} {#gatiH#} {%f.%} — (Step
-<div n="lb"/>to any thing) {#kramaH, padaM#}. — (Order of lineage) {#AvaliH#} {%f.,%}
-<div n="lb"/>{#SreRI;#} ‘of high degree,’ {#mahAkulaprasUtaH#}. — (Measure, extent)
-<div n="lb"/>{#parimARaM, pramARaM, paryyantaM, mAtraM;#} ‘to what degree’? {#kiyat pramARaM,#}
-<div n="lb"/>{#kiyat paryyantaM, kiM paryyantaM;#} ‘in some degree,’ {#kiYcit, Izat,#}
-<div n="lb"/>{#katipayena -yAt#}. — (Class, order) {#gaRaH, paMktiH#} {%f.,%} {#SreRI, vargaH#}. — 
-<div n="lb"/>(Degree of latitude, &c.) {#BAgaH, aMSaH, akzaBAgaH, akzAMSaH#}. — 
-<div n="lb"/>(In arithmetic) {#aNkatrayaM#}. — (By degrees) {#kramaSas, krameRa, krame#}
-<div n="lb"/>{#krame, pade pade, padaSas, pratipadaM, anupadaM, padAtpadaM, SanEH, SanEH SanEH#}.
+DEGREE¦, {%s.%} (Station, rank) {#padaM, sTAnaM, AspadaM, padaviH#} {%f.%} {#-vI, vfttiH#} {%f.,%}
+{#pratipattiH#} {%f.;%} ‘high degree,’ {#paramapadaM#}. — (State in which a
+thing is) {#avasTA, BAvaH, daSA, sTitiH#} {%f.,%} {#vfttiH#} {%f.,%} {#gatiH#} {%f.%} — (Step
+to any thing) {#kramaH, padaM#}. — (Order of lineage) {#AvaliH#} {%f.,%}
+{#SreRI;#} ‘of high degree,’ {#mahAkulaprasUtaH#}. — (Measure, extent)
+{#parimARaM, pramARaM, paryyantaM, mAtraM;#} ‘to what degree’? {#kiyat pramARaM,#}
+{#kiyat paryyantaM, kiM paryyantaM;#} ‘in some degree,’ {#kiYcit, Izat,#}
+{#katipayena -yAt#}. — (Class, order) {#gaRaH, paMktiH#} {%f.,%} {#SreRI, vargaH#}. — 
+(Degree of latitude, &c.) {#BAgaH, aMSaH, akzaBAgaH, akzAMSaH#}. — 
+(In arithmetic) {#aNkatrayaM#}. — (By degrees) {#kramaSas, krameRa, krame#}
+{#krame, pade pade, padaSas, pratipadaM, anupadaM, padAtpadaM, SanEH, SanEH SanEH#}.
 <LEND>

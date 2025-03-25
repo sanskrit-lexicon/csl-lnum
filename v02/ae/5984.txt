@@ -1,39 +1,39 @@
 <L>5984<pc>249<k1>labor<k2>labor
 {@Labor (Labour),@}¦ {%s.%} {#SramaH, pariSramaH, pra-#}
-<div n="lb"/>{#-A-yAsaH, kleSaH, kazwaM, duHKaM#} {@2@} {#udyamaH, u-#}
-<div n="lb"/>{#-dyogaH, vyApAraH, vyavasAyaH, cezwA, pra-, yatnaH,#}
-<div n="lb"/>{#utsAhaH#}. {@3@} {#prasUtikAlaH-samayaH, prasavakAlaH,#}
-<div n="lb"/>{#prasavAvasTA;#} ‘pain of l.’ {#prasUti-prasava-ve-#}
-<div n="lb"/>{#-danA-yAtanA-vyaTA;#} ‘bodily l.’ {#vrAtaM, deha-#}
-<div n="lb"/>{#-kAya-kleSa-AyAsaH-SramaH;#} ‘unpaid l.’ {#vizwi#}
-<div n="lb"/>{%f.,%} {#AjUH;#} ‘got by one's l.’ {#svakazwArjita#}.
-<div n="lb"/>{%-v. i.%} {#pariSramaM-AyAsaM-kf#} 8 U, {#Sram#} 4 P,
-<div n="lb"/>{#pra-, yat#} 1 A, {#Dyava-so#} 4 U, {#cezw#} 1 A, {#udyam#}
-<div n="lb"/>1 P, {#pravft#} 1 A, {#Ayas#} 1, 4 P, {#vrAtaM kf,#}
-<div n="lb"/>{#SarIrAyAsaM kf#}. {@2@} {#Kid-kliS-pIq#} pass.,
-<div n="lb"/>{#vyaT#} 1 A. {@3@} {#prasavAvasTAyAM vft, (Asanna-#}
-<div n="lb"/>{#-prasavA#} or {#prAptaprasavavedanA sA strI);#} ‘1. under’
-<div n="lb"/>{#bAD-aBiBU-Akram-pIq-upahan#}-pass., ‘l.
-<div n="lb"/>ing under hundreds of anxieties’
-<div n="lb"/>{#ciMtASatErbADyamAna-aBiBUta; atiBArAkrAMta#}
-<div n="lb"/>&c.; ‘l. ing under a disease’ {#roga-#}
-<div n="lb"/>{#-pIqita, rujArta#}. {%-v. t.%} {#mahASrameRa-prayatnena-sAD#}
-<div n="lb"/>5 P or {#saM-pad#} c. or {#kxp#} c. or {#vi-DA#} 3 U
-<div n="lb"/>or {#kf#} or {#anu-zWA#} 1 P. {@2@} {#kfz#} 6 U. {@-ed,@} {%a.%}
-<div n="lb"/>{#Srama-yatna-kazwa-sidDa, yatna-Srama-pUrva, prayatna-#}
-<div n="lb"/>{#-kfta#}. {@-er,@} {%s.%} {#kftaSramaH, karmin#} {%m.,%} {#vyavasA-#}
-<div n="lb"/>{#-yin#} {%m.,%} {#kArmaH#}. {@2@} {#karmakaraH, karmakAraH, BftakaH,#}
-<div n="lb"/>{#vEtanikaH, Bfti-BaraRya-Buj#} {%m.%} {@3@} {#kfzakaH,#}
-<div n="lb"/>{#kfzIvalaH;#} {%See%} {@Farmer. -Laborious,@} {%a.%}
-<div n="lb"/>{#Srama-AyAsa-kazwa-sADya, kazwa-AyAsa-prad,#}
-<div n="lb"/>{#pIqAkara (rI#} {%f%}), {#duHKasADya, kazwa#}. {@2@} {#A-#}
-<div n="lb"/>{#-yAsin, kftaSrama, Srama-udyoga-karma-SIla, udya-#}
-<div n="lb"/>{#-min, udyogin, sodyama, sodyoga, sotsAha;#}
-<div n="lb"/>{%See%} {@Industrious. -ly,@} {%adv.%} {#SrameRa,#}
-<div n="lb"/>{#Srama-AyAsa-pUrvaM, A-pra-yAsena, sayatnaM,#}
-<div n="lb"/>{#sodyogaM, sodyamaM, sotsAhaM, kazwena, kfcCreRa#}.
-<div n="lb"/>{@-ness,@} {%s.%} {#SramasADyatA#}. {@2@} {#udyogaH, udyamaH,#}
-<div n="lb"/>{#vyavasAyaH, udyogaSIlatA#}. {@-Laboratory,@}
-<div n="lb"/>{%s.%} {#rasakriyAsTAnaM, rasasaMskAraSAlA#}. {@2@} {#udyoga-#}
-<div n="lb"/>{#-Silpa-SAlA-gfhaM#}.
+{#-A-yAsaH, kleSaH, kazwaM, duHKaM#} {@2@} {#udyamaH, u-#}
+{#-dyogaH, vyApAraH, vyavasAyaH, cezwA, pra-, yatnaH,#}
+{#utsAhaH#}. {@3@} {#prasUtikAlaH-samayaH, prasavakAlaH,#}
+{#prasavAvasTA;#} ‘pain of l.’ {#prasUti-prasava-ve-#}
+{#-danA-yAtanA-vyaTA;#} ‘bodily l.’ {#vrAtaM, deha-#}
+{#-kAya-kleSa-AyAsaH-SramaH;#} ‘unpaid l.’ {#vizwi#}
+{%f.,%} {#AjUH;#} ‘got by one's l.’ {#svakazwArjita#}.
+{%-v. i.%} {#pariSramaM-AyAsaM-kf#} 8 U, {#Sram#} 4 P,
+{#pra-, yat#} 1 A, {#Dyava-so#} 4 U, {#cezw#} 1 A, {#udyam#}
+1 P, {#pravft#} 1 A, {#Ayas#} 1, 4 P, {#vrAtaM kf,#}
+{#SarIrAyAsaM kf#}. {@2@} {#Kid-kliS-pIq#} pass.,
+{#vyaT#} 1 A. {@3@} {#prasavAvasTAyAM vft, (Asanna-#}
+{#-prasavA#} or {#prAptaprasavavedanA sA strI);#} ‘1. under’
+{#bAD-aBiBU-Akram-pIq-upahan#}-pass., ‘l.
+ing under hundreds of anxieties’
+{#ciMtASatErbADyamAna-aBiBUta; atiBArAkrAMta#}
+&c.; ‘l. ing under a disease’ {#roga-#}
+{#-pIqita, rujArta#}. {%-v. t.%} {#mahASrameRa-prayatnena-sAD#}
+5 P or {#saM-pad#} c. or {#kxp#} c. or {#vi-DA#} 3 U
+or {#kf#} or {#anu-zWA#} 1 P. {@2@} {#kfz#} 6 U. {@-ed,@} {%a.%}
+{#Srama-yatna-kazwa-sidDa, yatna-Srama-pUrva, prayatna-#}
+{#-kfta#}. {@-er,@} {%s.%} {#kftaSramaH, karmin#} {%m.,%} {#vyavasA-#}
+{#-yin#} {%m.,%} {#kArmaH#}. {@2@} {#karmakaraH, karmakAraH, BftakaH,#}
+{#vEtanikaH, Bfti-BaraRya-Buj#} {%m.%} {@3@} {#kfzakaH,#}
+{#kfzIvalaH;#} {%See%} {@Farmer. -Laborious,@} {%a.%}
+{#Srama-AyAsa-kazwa-sADya, kazwa-AyAsa-prad,#}
+{#pIqAkara (rI#} {%f%}), {#duHKasADya, kazwa#}. {@2@} {#A-#}
+{#-yAsin, kftaSrama, Srama-udyoga-karma-SIla, udya-#}
+{#-min, udyogin, sodyama, sodyoga, sotsAha;#}
+{%See%} {@Industrious. -ly,@} {%adv.%} {#SrameRa,#}
+{#Srama-AyAsa-pUrvaM, A-pra-yAsena, sayatnaM,#}
+{#sodyogaM, sodyamaM, sotsAhaM, kazwena, kfcCreRa#}.
+{@-ness,@} {%s.%} {#SramasADyatA#}. {@2@} {#udyogaH, udyamaH,#}
+{#vyavasAyaH, udyogaSIlatA#}. {@-Laboratory,@}
+{%s.%} {#rasakriyAsTAnaM, rasasaMskAraSAlA#}. {@2@} {#udyoga-#}
+{#-Silpa-SAlA-gfhaM#}.
 <LEND>

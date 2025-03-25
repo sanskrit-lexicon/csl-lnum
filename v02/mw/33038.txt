@@ -1,5 +1,5 @@
 <L>33038<pc>188,2<k1>uddyut<k2>ud-dyut<e>1
-<s>ud-</s>√ <hom>1.</hom> <s>dyut</s> ¦ <ab>P.</ab> <ab>Ved.</ab> (<ab>impf.</ab> <s>-adyOt</s>) <ab>Ā.</ab> <s>-dyotate</s>, to blaze up, shine, shine forth, <ls>RV. iii, 5, 9</ls>; <ls>Hariv.</ls>;
+<s>ud-</s>√ <hom>1.</hom> <s>dyut</s> ¦ <ab>P.</ab> <lang>Ved.</lang> (<ab>impf.</ab> <s>-adyOt</s>) <ab>Ā.</ab> <s>-dyotate</s>, to blaze up, shine, shine forth, <ls>RV. iii, 5, 9</ls>; <ls>Hariv.</ls>;
 <div n="to"/> <ab>Caus.</ab> <ab>P.</ab> <s>-dyotayati</s>, to cause to shine or shine forth, <ls>Prab.</ls>; <ls>Ragh.</ls> :
-<div n="to"/><ab>Intens.</ab> <ab>Ved.</ab> (<ab>Subj.</ab> <s>-da/vidyutat</s>) to shine intensely, <ls>RV. vi, 16, 45.</ls><info verb="pre" cp="PĀ" parse="ud+dyut"/>
+<div n="vp"/><ab>Intens.</ab> <lang>Ved.</lang> (<ab>Subj.</ab> <s>-da/vidyutat</s>) to shine intensely, <ls>RV. vi, 16, 45.</ls><info verb="pre" cp="PĀ" parse="ud+dyut"/>
 <LEND>

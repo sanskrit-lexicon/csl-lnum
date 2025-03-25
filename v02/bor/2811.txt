@@ -1,6 +1,6 @@
 <L>2811<pc>095<k1>burst<k2>burst
-<div n="lb"/>{@BURST@}¦ (subs.): <div n="I">I Lit.: {#sPowanam#} <div n="xe">{%or%}</div> <div n="xs">{#sPuwanam.#}</div> </div><div n="I">II
-<div n="lb"/>Fig.: expr. by verb.: <div n="xe">{%there was a b. of%}
-<div n="lb"/>{%applause%}</div> <div n="xs">{#udatizWan praSaMsAvAcaH;#}</div> <div n="xe">{%b. of thunder%}</div> <div n="xs">{#sPUrja-#}
-<div n="lb"/>{#TusPUrjitam,#}</div> Vi.</div>
+{@BURST@}¦ (subs.): <div n="I">I Lit.: {#sPowanam#} <div n="xe">{%or%}</div> <div n="xs">{#sPuwanam.#}</div> </div><div n="I">II
+Fig.: expr. by verb.: <div n="xe">{%there was a b. of%}
+{%applause%}</div> <div n="xs">{#udatizWan praSaMsAvAcaH;#}</div> <div n="xe">{%b. of thunder%}</div> <div n="xs">{#sPUrja-#}
+{#TusPUrjitam,#}</div> Vi.</div>
 <LEND>

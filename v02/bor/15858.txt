@@ -1,32 +1,32 @@
 <L>15858<pc>487<k1>on<k2>on
-<div n="lb"/>{@ON@}¦ (prep.): <div n="I">I In contact with: </div><div n="1">(1) by loc.,
-<div n="lb"/><div n="xe">{%lying on a grass bed:%}</div> <div n="xs">{#saMvizwaH kuSaSayane,#}</div> R.;
-<div n="lb"/><div n="xe">{%putting on his head:%}</div> <div n="xs">{#SirasyAropya;#}</div> Vi.; <div n="xe">{%to fall%}
-<div n="lb"/>{%on the ground:%}</div> <div n="xs">{#BUmO patati,#}</div> Mr.; </div><div n="1">(2) {#upari#}
-<div n="lb"/>(= over: q.v.): (with gen.), <div n="xe">{%to throw on%}
-<div n="lb"/>{%Vairodhaka:%}</div> <div n="xs">{#vEroDakasyopari nipAtanAya,#}</div> Mu. N. B.
-<div n="lb"/>The ins. must be used after verbs of motion:
-<div n="lb"/><div n="xe">{%to go on horse:%}</div> <div n="xs">{#aSvena gacCati,#}</div> S.; <div n="xe">{%carrying on%}
-<div n="lb"/>{%his shoulders:%}</div> <div n="xs">{#skanDenodUhya,#}</div> D.; {%take me to%} ({%our%})
-<div n="lb"/><div n="xe">{%house on a fresh cloud:%}</div> <div n="xs">{#naya mAM navena vasatiM payomucA,#}</div>
-<div n="lb"/><ls>V.</ls> </div><div n="I">II. = at, near: </div><div n="1">(1) by loc., <div n="xe">{%a cow-station%}
-<div n="lb"/>{%on the Ganges:%}</div> <div n="xs">{#gaNgAyAM GozaH,#}</div> Kav.; {%on the north:%}
-<div n="lb"/>{#uttarasyAM diSi,#} Ku.; </div><div n="1">(2) by affix {#tas,#} <div n="xe">{%on the%}
-<div n="lb"/>{%right:%}</div> <div n="xs">{#dakziRataH;#}</div> <div n="xe">{%on the left:%}</div> <div n="xs">{#vAmataH;#}</div> {%on the rear:%}
-<div n="lb"/>{#pfzWataH;#} <div n="xe">{%on both sides:%}</div> <div n="xs">{#uBayataH.#}</div> </div><div n="I">III At the time
-<div n="lb"/>of: by loc., <div n="xe">{%on the first of Āṣāḍha:%}</div> <div n="xs">{#AzAQasya #}
-<div n="lb"/>{# praTamadivase,#}</div> Me.; <div n="xe">{%on the following day:%}</div> <div n="xs">{#parasminnahani#}</div>
-<div n="lb"/>(or commonly, {#paredyuH#}). </div><div n="I">IV = after: q.v.:
-<div n="lb"/>by loc. abs., <div n="xe">{%on her departure:%}</div> <div n="xs">{#gatAyAM tasyAm,#}</div> <ls>K.</ls>
-<div n="lb"/><ls>V.</ls> Denoting logical basis of connexion:
-<div n="lb"/>expr. by ins., <div n="xe">{%on one condition:%}</div> <div n="xs">{#ekenABisanDinA,#}</div>
-<div n="lb"/>Sa.; <div n="xe">{%on oath:%}</div> <div n="xs">{#SapaTena#}</div> (?). </div><div n="I">VI Concerning:
-<div n="lb"/>q.v.: expr. by comp., {%a treatise on spheres:%}
-<div n="lb"/>{#golaprabanDaH,#} Go. </div><div n="I">VII To denote various rela-
-<div n="lb"/>-tions: v. The several verbs after which
-<div n="lb"/>it is used. Miscell.: <div n="xe">{%on high:%}</div> <div n="xs">{#uccEH;#}</div> <div n="xe">{%on a%}
-<div n="lb"/>{%sudden:%}</div> <div n="xs">{#sapadi;#}</div> {%on the wing:%} v. To fly; <div n="xe">{%on%}
-<div n="lb"/>{%the alert:%}</div> <div n="xs">{#sAvaDAnaH#}</div> ({#nA, naM#}); <div n="xe">{%on hand:%}</div> <div n="xs">{#hastagataH#}</div>
-<div n="lb"/>({#tA, taM#}); {%the gods were on (the side of) Arjuna:%}
-<div n="lb"/>{#devA arjunato'Bavan,#} S. k.</div>
+{@ON@}¦ (prep.): <div n="I">I In contact with: </div><div n="1">(1) by loc.,
+<div n="xe">{%lying on a grass bed:%}</div> <div n="xs">{#saMvizwaH kuSaSayane,#}</div> R.;
+<div n="xe">{%putting on his head:%}</div> <div n="xs">{#SirasyAropya;#}</div> Vi.; <div n="xe">{%to fall%}
+{%on the ground:%}</div> <div n="xs">{#BUmO patati,#}</div> Mr.; </div><div n="1">(2) {#upari#}
+(= over: q.v.): (with gen.), <div n="xe">{%to throw on%}
+{%Vairodhaka:%}</div> <div n="xs">{#vEroDakasyopari nipAtanAya,#}</div> Mu. N. B.
+The ins. must be used after verbs of motion:
+<div n="xe">{%to go on horse:%}</div> <div n="xs">{#aSvena gacCati,#}</div> S.; <div n="xe">{%carrying on%}
+{%his shoulders:%}</div> <div n="xs">{#skanDenodUhya,#}</div> D.; {%take me to%} ({%our%})
+<div n="xe">{%house on a fresh cloud:%}</div> <div n="xs">{#naya mAM navena vasatiM payomucA,#}</div>
+<ls>V.</ls> </div><div n="I">II. = at, near: </div><div n="1">(1) by loc., <div n="xe">{%a cow-station%}
+{%on the Ganges:%}</div> <div n="xs">{#gaNgAyAM GozaH,#}</div> Kav.; {%on the north:%}
+{#uttarasyAM diSi,#} Ku.; </div><div n="1">(2) by affix {#tas,#} <div n="xe">{%on the%}
+{%right:%}</div> <div n="xs">{#dakziRataH;#}</div> <div n="xe">{%on the left:%}</div> <div n="xs">{#vAmataH;#}</div> {%on the rear:%}
+{#pfzWataH;#} <div n="xe">{%on both sides:%}</div> <div n="xs">{#uBayataH.#}</div> </div><div n="I">III At the time
+of: by loc., <div n="xe">{%on the first of Āṣāḍha:%}</div> <div n="xs">{#AzAQasya #}
+{# praTamadivase,#}</div> Me.; <div n="xe">{%on the following day:%}</div> <div n="xs">{#parasminnahani#}</div>
+(or commonly, {#paredyuH#}). </div><div n="I">IV = after: q.v.:
+by loc. abs., <div n="xe">{%on her departure:%}</div> <div n="xs">{#gatAyAM tasyAm,#}</div> <ls>K.</ls>
+<ls>V.</ls> Denoting logical basis of connexion:
+expr. by ins., <div n="xe">{%on one condition:%}</div> <div n="xs">{#ekenABisanDinA,#}</div>
+Sa.; <div n="xe">{%on oath:%}</div> <div n="xs">{#SapaTena#}</div> (?). </div><div n="I">VI Concerning:
+q.v.: expr. by comp., {%a treatise on spheres:%}
+{#golaprabanDaH,#} Go. </div><div n="I">VII To denote various rela-
+-tions: v. The several verbs after which
+it is used. Miscell.: <div n="xe">{%on high:%}</div> <div n="xs">{#uccEH;#}</div> <div n="xe">{%on a%}
+{%sudden:%}</div> <div n="xs">{#sapadi;#}</div> {%on the wing:%} v. To fly; <div n="xe">{%on%}
+{%the alert:%}</div> <div n="xs">{#sAvaDAnaH#}</div> ({#nA, naM#}); <div n="xe">{%on hand:%}</div> <div n="xs">{#hastagataH#}</div>
+({#tA, taM#}); {%the gods were on (the side of) Arjuna:%}
+{#devA arjunato'Bavan,#} S. k.</div>
 <LEND>

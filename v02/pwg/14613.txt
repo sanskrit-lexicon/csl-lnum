@@ -1,32 +1,30 @@
 <L>14613<pc>2-0041<k1>katT<k2>katT
-{#katT#}¦, {#ka/tTate#} (act. s. u. {#vi#}) 
-<ls>DHĀTUP. 2, 36</ls> ({#SlAGAyAm#}). 
-<div n="1"> 1) {%prahlen%}: {#kiM te katTitena#} ({%wozu nützt dein Prahlen%}) {#ca mAnuza . kftvEtatkarmaRA sarvaM katTeTAH#} 
-<ls>MBH. 1, 5995. 3, 2819.</ls> 
-<ls>MBH.</ls> in <ls>BENF. Chr. 24, 39.</ls> <ls>R. 6, 36, 73.</ls> <ls>BHĀG. P. 5, 24, 16.</ls> {#katTizyate na kaH#} 
-<ls>BHAṬṬ. 16, 4.</ls> {#tvaM katTase mahArAja satyavAdI#} {%du prahlst damit, dass du wahrhaft seiest%} 
-<ls>R. 2, 13, 3.</ls> 
-<div n="1">— 2) {%lobend hervorheben, loben%}: {#pOruzaM puruzezu ca . katTamAno 'BiniryAya#} 
-<ls>MBH. 4, 1252.</ls> {#kaTayankatTase ca yO#} 
-<ls>16, 155.</ls> {#katTase yacca vIryeRa rAmam#} 
-<ls>R. 3, 55, 8.</ls> 
-<div n="1">— 3) {%tadelnd hervorheben, tadeln, herabsetzen%}: {#ye tvA - katTanta ugrapuruzaM nirataM SmaSAne#} 
-<ls>BHĀG. P. 8, 7, 33.</ls>
-
+{#katT#}¦, {#ka/tTate#} (act. s. u. {#vi#})
+<ls>DHĀTUP. 2,36</ls> ({#SlAGAyAm#}).
+<div n="1"> 1) {%prahlen%}: {#kiM te katTitena#} ({%wozu nützt dein Prahlen%}) {#ca mAnuza . kftvEtatkarmaRA sarvaM katTeTAH#}
+<ls>MBH. 1,5995.</ls> <ls n="MBH.">3,2819.</ls>
+<ls>MBH.</ls> in <ls>BENF. Chr. 24,39.</ls> <ls>R. 6,36,73.</ls> <ls>BHĀG. P. 5,24,16.</ls> {#katTizyate na kaH#}
+<ls>BHAṬṬ. 16,4.</ls> {#tvaM katTase mahArAja satyavAdI#} {%du prahlst damit, dass du wahrhaft seiest%}
+<ls>R. 2,13,3.</ls>
+<div n="1">— 2) {%lobend hervorheben, loben%}: {#pOruzaM puruzezu ca . katTamAno 'BiniryAya#}
+<ls>MBH. 4,1252.</ls> {#kaTayankatTase ca yO#}
+<ls n="MBH.">16,155.</ls> {#katTase yacca vIryeRa rAmam#}
+<ls>R. 3,55,8.</ls>
+<div n="1">— 3) {%tadelnd hervorheben, tadeln, herabsetzen%}: {#ye tvA — katTanta ugrapuruzaM nirataM SmaSAne#}
+<ls>BHĀG. P. 8,7,33.</ls>
 <div n="p">— {#A#} {%prahlen%}, s. {#AkatTana#} .
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%prahlen%} 
-<ls>MBH. 3, 11635. 4, 1554.</ls> 
-<ls>R. 6, 36, 42.</ls> {#ko vikatTitumarhati#} 
-<ls>MBH. 2, 2533.</ls> {#janasya goptAsmi vikatTamAnaH#} 
-<ls>BHĀG. P. 5, 12, 7. 7, 8, 12.</ls> {#yatte saBAmaDye bahuvAcA vikatTitam . na me yuDi samo 'stIti tadidaM samupasTitam ..#} 
-<ls>MBH. 4, 1923.</ls> mit dem instr.: {#gAnDAravidyayA hi tvaM rAjamaDye vikatTase#} 
-<ls>2, 2529. 17, 71.</ls> <ls>R. 2, 7, 14.</ls> act.: {#ko vikatTedvicakzaRaH#} 
-<ls>MBH. 4, 1563.</ls> 
-<div n="1">— 2) {%lobend hervorheben, viel Lärm von Etwas%} (acc.) {%machen%}: {#prAkftA hyakftAtmAno loke 'sminkulapAMsanAH . nirarTakaM vikatTante yaTA rAma vikatTase ..#} 
-<ls>R. 3, 35, 21.</ls> 
-<div n="1">— 3) {%Jmd%} (acc.) {%herabsetzen, mit Etwas%} (instr.) {%demüthigen%}: {#sadA BavAnPAlgunasya guRErasmAnvikatTase . na cArjunaH kalApUrRo mama duryoDanasya ca ..#} 
-<ls>MBH. 4, 1299.</ls> — caus. {%demüthigen%}: {#vikatTayitvA rAjAnaM tataH prAha#} 
-<ls>DRAUP. 9, 10.</ls>
+<div n="p">— {#vi#}
+<div n="1"> 1) {%prahlen%}
+<ls>MBH. 3,11635.</ls> <ls n="MBH.">4,1554.</ls>
+<ls>R. 6,36,42.</ls> {#ko vikatTitumarhati#}
+<ls>MBH. 2,2533.</ls> {#janasya goptAsmi vikatTamAnaH#}
+<ls>BHĀG. P. 5,12,7.</ls> <ls n="BHĀG. P.">7,8,12.</ls> {#yatte saBAmaDye bahuvAcA vikatTitam . na me yuDi samo 'stIti tadidaM samupasTitam ..#}
+<ls>MBH. 4,1923.</ls> mit dem instr.: {#gAnDAravidyayA hi tvaM rAjamaDye vikatTase#}
+<ls n="MBH.">2,2529.</ls> <ls n="MBH.">17,71.</ls> <ls>R. 2,7,14.</ls> act.: {#ko vikatTedvicakzaRaH#}
+<ls>MBH. 4,1563.</ls>
+<div n="1">— 2) {%lobend hervorheben, viel Lärm von Etwas%} (acc.) {%machen%}: {#prAkftA hyakftAtmAno loke 'sminkulapAMsanAH . nirarTakaM vikatTante yaTA rAma vikatTase ..#}
+<ls>R. 3,35,21.</ls>
+<div n="1">— 3) {%Jmd%} (acc.) {%herabsetzen, mit Etwas%} (instr.) {%demüthigen%}: {#sadA BavAnPAlgunasya guRErasmAnvikatTase . na cArjunaH kalApUrRo mama duryoDanasya ca ..#}
+<ls>MBH. 4,1299.</ls> — caus. {%demüthigen%}: {#vikatTayitvA rAjAnaM tataH prAha#}
+<ls>DRAUP. 9,10.</ls>
 <LEND>

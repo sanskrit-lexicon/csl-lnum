@@ -1,7 +1,7 @@
 <L>11718<pc>282-b<k1>foot-step<k2>foot-step
-<div n="lb"/>FOOT-STEP¦, {%s.%} (Mark of the foot) {#pAdacihnaM, padANkaH, padapaMktiH#} {%f.,%}
-<div n="lb"/>{#pAdamudrA, caraRapadavI#}. — (Tread) {#padapAtaH, pAdapAtaH, pAdanpAsaH,#}
-<div n="lb"/>{#caraRapAtaH, padavikzepaH, padavizwamBaH#}. — (Course, track) {#padaviH -vI#} {%f.,%}
-<div n="lb"/>{#anuzadaM, padDatiH#} {%f.,%} {#paTaH, mArgaH, ayanaM, vartma#} {%n.%} ({#n#}). — (Token)
-<div n="lb"/>{#cihnaM, lakzaRaM#}.
+FOOT-STEP¦, {%s.%} (Mark of the foot) {#pAdacihnaM, padANkaH, padapaMktiH#} {%f.,%}
+{#pAdamudrA, caraRapadavI#}. — (Tread) {#padapAtaH, pAdapAtaH, pAdanpAsaH,#}
+{#caraRapAtaH, padavikzepaH, padavizwamBaH#}. — (Course, track) {#padaviH -vI#} {%f.,%}
+{#anuzadaM, padDatiH#} {%f.,%} {#paTaH, mArgaH, ayanaM, vartma#} {%n.%} ({#n#}). — (Token)
+{#cihnaM, lakzaRaM#}.
 <LEND>

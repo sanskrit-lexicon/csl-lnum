@@ -1,5 +1,5 @@
 <L>18681<pc>575<k1>rebuff<k2>rebuff
-<div n="lb"/>{@REBUFF@}¦ (subs.): <div n="I">I Repulsion: </div><div n="1">(1) {#pratyAdeSaH;#}</div>
-<div n="lb"/><div n="1">(2) {#avaDIraRA.#} </div><div n="I">II Repercussion: </div><div n="1">(1) {#pratiGAtaH;#}</div>
-<div n="lb"/><div n="1">(2) {#pratihatiH.#}</div>
+{@REBUFF@}¦ (subs.): <div n="I">I Repulsion: </div><div n="1">(1) {#pratyAdeSaH;#}</div>
+<div n="1">(2) {#avaDIraRA.#} </div><div n="I">II Repercussion: </div><div n="1">(1) {#pratiGAtaH;#}</div>
+<div n="1">(2) {#pratihatiH.#}</div>
 <LEND>

@@ -1,55 +1,55 @@
 <L>11300<pc>1-0918<k1>udAra<k2>udAra/
-{#udAra/#}¦ (von {#ar#} mit {#ud#}) 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} und {#I#} <is>gaṇa</is> {#bahvAdi#} zu 
-<ls>P. 4, 1, 45.</ls> 
-<div n="2"> a) {%erhaben, edel, ausgezeichnet, vorzüglich%}: {#kumArAMSca trInudArAn#} 
-<ls>N. 1, 8. 4.</ls> 
-<ls>BHAG. 7, 18.</ls> 
-<ls>DAŚ. 2, 58.</ls> 
-<ls>R. 1, 1, 5.</ls> 
-<ls>VID. 135.</ls> 
-<ls>DHŪRTAS. 71, 6.</ls> {#°sattva#} 
-<ls>R. 3, 57, 34.</ls> {#°sattvABijana#} 
-<ls>4, 47, 19.</ls> {#udArArTamaNgado vAkyamabravIt#} 
-<ls>5, 1, 59.</ls> {#maDurodAraM vAkyam#} 
-<ls>1, 33, 3.</ls> {#udArameva vidvAMso DarmaM prAhurmanIziRaH . udAraM pratipadyasva nAvare sTAtumarhasi ..#} 
-<ls>MBH. 3, 1316.</ls> {#°vftta#} 
-<ls>R. 1, 2, 45.</ls> {#°carita#} 
-<ls>HIT. I, 64.</ls> {#°mati#} 
-<ls>RAGH. 8, 90.</ls> {#°darSana#} 
-<ls>R. 3, 74, 32.</ls> 
-<ls>KUMĀRAS. 5, 36.</ls> {#°satkAra#} 
-<ls>KATHĀS. 16, 26.</ls> {#kalpaH#} 
-<ls>ŚĀK. 67, 18.</ls> {#°kIrti#} ein Bein. <is>Śiva's</is> 
-<ls>ŚIV.</ls> {#vana, vfkza#} 
-<ls>MBH. 3, 13158. fg.</ls> {#aguru#} 
-<ls>R. 6, 96, 8.</ls> 
-<ls>RAGH. 13, 79.</ls> {#°maRqana#} 
-<ls>KATHĀS. 17, 125.</ls> {#°hAra#} 
-<ls>PRAB. 95, 1. -</ls> <ls>SUŚR. 2, 326, 19. 421, 17. 450, 12. 481, 21. 490, 1.</ls> <ls>ŚĀK. 99, 13.</ls> <ls>KUMĀRAS. 7, 14.</ls> <ls>KATHĀS. 22, 258.</ls> {#raTodAra#} {%der trefflichste der Wagen%} 
-<ls>MBH. 3, 16511.</ls> <lex>f.</lex> {#A#} 
-<ls>MBH. 13, 1840.</ls> 
-<ls>R. 1, 35, 8. 4, 21, 17. 29.</ls> 
-<ls>RAGH. 5, 12.</ls> 
-<ls>KATHĀS. 13, 196.</ls> {#udAram#} adv. {%laut%} 
-(<ls>Sch.</ls>: = {#uccEs): pragIyate#} 
-<ls>ŚIŚUP. 4, 33.</ls> Nach den Lexicographen 
-<ls>?(AK. 3, 1, 8. 4, 194. TRIK. 3,3,  331</ls>
+{#udAra/#}¦ (von {#ar#} mit {#ud#})
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} und {#I#} <is>gaṇa</is> {#bahvAdi#} zu
+<ls>P. 4,1,45.</ls>
+<div n="2"> a) {%erhaben, edel, ausgezeichnet, vorzüglich%}: {#kumArAMSca trInudArAn#}
+<ls>N. 1,8. 4.</ls>
+<ls>BHAG. 7,18.</ls>
+<ls>DAŚ. 2,58.</ls>
+<ls>R. 1,1,5.</ls>
+<ls>VID. 135.</ls>
+<ls>DHŪRTAS. 71,6.</ls> {#°sattva#}
+<ls>R. 3,57,34.</ls> {#°sattvABijana#}
+<ls n="R.">4,47,19.</ls> {#udArArTamaNgado vAkyamabravIt#}
+<ls n="R.">5,1,59.</ls> {#maDurodAraM vAkyam#}
+<ls n="R.">1,33,3.</ls> {#udArameva vidvAMso DarmaM prAhurmanIziRaH . udAraM pratipadyasva nAvare sTAtumarhasi ..#}
+<ls>MBH. 3,1316.</ls> {#°vftta#}
+<ls>R. 1,2,45.</ls> {#°carita#}
+<ls>HIT. I,64.</ls> {#°mati#}
+<ls>RAGH. 8,90.</ls> {#°darSana#}
+<ls>R. 3,74,32.</ls>
+<ls>KUMĀRAS. 5,36.</ls> {#°satkAra#}
+<ls>KATHĀS. 16,26.</ls> {#kalpaH#}
+<ls>ŚĀK. 67,18.</ls> {#°kIrti#} ein Bein. <is>Śiva's</is>
+<ls>ŚIV.</ls> {#vana, vfkza#}
+<ls>MBH. 3,13158. fg.</ls> {#aguru#}
+<ls>R. 6,96,8.</ls>
+<ls>RAGH. 13,79.</ls> {#°maRqana#}
+<ls>KATHĀS. 17,125.</ls> {#°hAra#}
+<ls>PRAB. 95,1. -</ls> <ls>SUŚR. 2,326,19. 421,17. 450,12. 481,21. 490,1.</ls> <ls>ŚĀK. 99,13.</ls> <ls>KUMĀRAS. 7,14.</ls> <ls>KATHĀS. 22,258.</ls> {#raTodAra#} {%der trefflichste der Wagen%}
+<ls>MBH. 3,16511.</ls> <lex>f.</lex> {#A#}
+<ls>MBH. 13,1840.</ls>
+<ls>R. 1,35,8.</ls> <ls n="R.">4,21,17.</ls> <ls n="R. 4,21,">29.</ls>
+<ls>RAGH. 5,12.</ls>
+<ls>KATHĀS. 13,196.</ls> {#udAram#} adv. {%laut%}
+(<ls>Sch.</ls>: = {#uccEs): pragIyate#}
+<ls>ŚIŚUP. 4,33.</ls> Nach den Lexicographen
+(<ls>AK. 3,1,8.</ls> <ls n="AK. 3,">4,194.</ls> <ls>TRIK. 3,3,331</ls>
 [Page1-0919]
-[lies {#udArO#} st. {#udarO]#} . 
-<ls>H. 367. 376. 385.</ls> 
-<ls>an. 3, 525.</ls> 
-<ls>MED. r. 118</ls>): {%gross; rechtschaffen; freigebig.%} 
-<div n="2">— b) {%erregend, hervortreibend%}: {#SrI\RAmu^dA\raH#} 
-<ls>ṚV. 10, 45, 5.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%aufsteigender Nebel, Dunst%}: {#marI^cIrDU\mAnpra vi\SAnu^ pApmannudA\rAnga^cCo\ta vA^ nIhA\rAn#} 
-<ls>AV. 6, 113, 2.</ls> {#u\dA\re na sa^rzat#} 
-<ls>4, 11, 3.</ls> 
-<div n="2">— b) pl. {%Nebelgeister, Dunstgestalten%}: {#utti^zWata\ saM na^hyaDva\mudA^rAH ke\tuBi^H sa\ha#} 
-<ls>AV. 11, 10, 1.</ls> {#u\dA\rAMSca\ pra da^rSaya#} 
-<ls>9, 1.</ls> {#sa\pta jA\tAnnya^rbuda udA\rARA^M samI\kzaya^n#} 
-<ls>6.</ls> {#ya u^dA\rA a\ntarhi^tA ganDarvApsa\rasa^Sca\ ye#} 
-<ls>16.</ls> {#tAn#} ({#asurAn#}) {#samantamevodArAnpariyattAnudapaSyan#} 
-<ls>AIT. BR. 2, 31.</ls>
+[lies {#udArO#} st. {#udarO]#} .
+<ls>H. 367.</ls> <ls n="H.">376.</ls> <ls n="H.">385.</ls>
+<ls>an. 3,525.</ls>
+<ls>MED. r. 118</ls>): {%gross; rechtschaffen; freigebig.%}
+<div n="2">— b) {%erregend, hervortreibend%}: {#SrI\RAmu^dA\raH#}
+<ls>ṚV. 10,45,5.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) {%aufsteigender Nebel, Dunst%}: {#marI^cIrDU\mAnpra vi\SAnu^ pApmannudA\rAnga^cCo\ta vA^ nIhA\rAn#}
+<ls>AV. 6,113,2.</ls> {#u\dA\re na sa^rzat#}
+<ls n="AV.">4,11,3.</ls>
+<div n="2">— b) pl. {%Nebelgeister, Dunstgestalten%}: {#utti^zWata\ saM na^hyaDva\mudA^rAH ke\tuBi^H sa\ha#}
+<ls>AV. 11,10,1.</ls> {#u\dA\rAMSca\ pra da^rSaya#}
+<ls n="AV. 11,">9,1.</ls> {#sa\pta jA\tAnnya^rbuda udA\rARA^M samI\kzaya^n#}
+<ls n="AV. 11,10,">6.</ls> {#ya u^dA\rA a\ntarhi^tA ganDarvApsa\rasa^Sca\ ye#}
+<ls n="AV. 11,10,">16.</ls> {#tAn#} ({#asurAn#}) {#samantamevodArAnpariyattAnudapaSyan#}
+<ls>AIT. BR. 2,31.</ls>
 <LEND>

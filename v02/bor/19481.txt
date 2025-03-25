@@ -1,7 +1,7 @@
 <L>19481<pc>605<k1>roughness<k2>roughness
-<div n="lb"/>{@ROUGHNESS:@}¦ <div n="I">I Unevenness: </div><div n="1">(1) {#banDu(nDU)ratA;#}</div>
-<div n="lb"/><div n="1">(2) {#vEzamyam.#} </div><div n="I">II Harshness, severity:</div>
-<div n="lb"/><div n="1">(1) {#rOkzyam#} <div n="xe">{%or%}</div> <div n="xs">{#ru#}</div>({#rU#}){#kzatA, -tvam;#} </div><div n="1">(2) {#kArkaSyam#} {%or%}
-<div n="lb"/>{#karkaSatA, -tvam.#} </div><div n="I">III Coarseness: {#sTUlatA.#} </div><div n="I">IV
-<div n="lb"/>Tempestuousness: {#kzubDatA, saM-, vi-, pra-.#}</div>
+{@ROUGHNESS:@}¦ <div n="I">I Unevenness: </div><div n="1">(1) {#banDu(nDU)ratA;#}</div>
+<div n="1">(2) {#vEzamyam.#} </div><div n="I">II Harshness, severity:</div>
+<div n="1">(1) {#rOkzyam#} <div n="xe">{%or%}</div> <div n="xs">{#ru#}</div>({#rU#}){#kzatA, -tvam;#} </div><div n="1">(2) {#kArkaSyam#} {%or%}
+{#karkaSatA, -tvam.#} </div><div n="I">III Coarseness: {#sTUlatA.#} </div><div n="I">IV
+Tempestuousness: {#kzubDatA, saM-, vi-, pra-.#}</div>
 <LEND>

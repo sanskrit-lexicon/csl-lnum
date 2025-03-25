@@ -1,19 +1,19 @@
-<L>126695<pc>7152-1<k1>supattra<k2>supattra<h>2<e>100
-2. {#supattra#}¦
-<div n="1">— 1) <lex>Adj.</lex>
-<div n="2">— a) {%schöne Flügel habend%} <ls>ŚIŚ.12,2.</ls>
-<div n="2">— b) {%schön befiedert%} (Pfeil) <ls>R.6,36,75.</ls>
-<div n="2">— c) {%mit einem schönen Vehikel versehen%} <ls>ŚIŚ.12,2.</ls>
-<div n="2">— d) {%*schönblätterig.%}
-<div n="1">— 2) <lex>m.</lex>
-<div n="2">— a) {%ein best. mythischer Vogel.%}
-<div n="2">— b) {%*<bot>Helianthus annuus</bot>.%}
-<div n="2">— c) {%*eine best. Grasart%} , = {#pallivAha#}.
-<div n="1">— 3) *<lex>f.</lex> {#A#}
-<div n="2">— a) {%<bot>Asparagus racemosus</bot>.%}
-<div n="2">— b) {%<bot>Glycine debilis</bot>.%}
-<div n="2">— c) {%<bot>Prosopis spicigera</bot>.%}
-<div n="2">— d) {%<bot>Beta bengalensis</bot>%} <ls>RĀJAN.7,131.</ls>
-<div n="2">— e) {%eine best. Schlingpflanze%} , = {#rudrajawA#}.
-<div n="1">— 4) *<lex>f.</lex> {#I#} {%eine best. Pflanze%} , = {#gaNgApattrI#}.
+<L>126695<pc>7-152-a<k1>supattra<k2>supattra<h>2
+<hom>2.</hom> {#supattra#}¦
+<div n="1">— 1〉 <lex>Adj.</lex>
+<div n="2">— a〉 {%schöne Flügel habend%} <ls>ŚIŚ. 12,2</ls>.
+<div n="2">— b〉 {%schön befiedert%} (Pfeil) <ls>R. 6,36,75</ls>.
+<div n="2">— c〉 {%mit einem schönen Vehikel versehen%} <ls>ŚIŚ. 12,2</ls>.
+<div n="2">— d〉 *{%schönblätterig%}.
+<div n="1">— 2〉 <lex>m.</lex>
+<div n="2">— a〉 {%ein <ab>best.</ab> mythischer Vogel%}.
+<div n="2">— b〉 *{%<bot>Helianthus annuus</bot>%}.
+<div n="2">— c〉 *{%eine <ab>best.</ab> Grasart,%} = {#pallivAha#}.
+<div n="1">— 3〉 *<lex>f.</lex> {#A#}
+<div n="2">— a〉 {%<bot>Asparagus racemosus</bot>%}.
+<div n="2">— b〉 {%<bot>Glycine debilis</bot>%}.
+<div n="2">— c〉 {%<bot>Prosopis spicigera</bot>%}.
+<div n="2">— d〉 {%<bot>Beta bengalensis</bot>%} <ls>RĀJAN. 7,131</ls>.
+<div n="2">— e〉 {%eine <ab>best.</ab> Schlingpflanze,%} = {#rudrajawA#}.
+<div n="1">— 4〉 *<lex>f.</lex> {#I#} {%eine <ab>best.</ab> Pflanze,%} = {#gaNgApattrI#}.
 <LEND>

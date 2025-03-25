@@ -1,5 +1,5 @@
-<L>130763<pc>657,3<k1>pracCad<k2>pra-cCad<h>a<e>1
-<s>pra-cCad</s> <hom>a</hom> ¦ (<s>√ Cad</s>) <ab>P.</ab> <ab>Ā.</ab> <s>-cCAdayati</s>, <s>°te</s> to cover, envelop, wrap up (<ab>Ā.</ab> with <ab>instr.</ab> ‘to cover one's self with, put on’), <ls>ŚBr.</ls>; <ls>GṛŚrS.</ls>; <ls>MBh.</ls> &c.;
+<L>130763<pc>657,3<k1>pracCad<k2>pra-cCad<e>1
+<s>pra-cCad</s> ¦ (√ <s>Cad</s>) <ab>P.</ab> <ab>Ā.</ab> <s>-cCAdayati</s>, <s>°te</s> to cover, envelop, wrap up (<ab>Ā.</ab> with <ab>instr.</ab> ‘to cover one's self with, put on’), <ls>ŚBr.</ls>; <ls>GṛŚrS.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to be in the way, be an obstacle to (<ab>acc.</ab>), <ls>R.</ls>;
-<div n="to"/>to hide, conceal, disguise, keep secret, <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info verb="pre" cp="PĀ" parse="pra+Cad"/>
+<div n="to"/>to hide, conceal, disguise, keep secret, <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info verb="pre" cp="PĀ" parse="pra+Cad"/><info hui="a"/>
 <LEND>

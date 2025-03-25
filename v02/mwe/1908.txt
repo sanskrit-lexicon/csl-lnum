@@ -1,4 +1,4 @@
 <L>1908<pc>041-a<k1>battle-field<k2>battle-field
-<div n="lb"/>BATTLE-FIELD¦, {%s.%} {#raRaBUmiH#} {%f.,%} {#AyoDanaM, raRaH, raRANgaRaM, raRAjiraM, mallaBUH#}
-<div n="lb"/>{%f.,%} {#mallaBUmiH#} {%f.,%} {#raNgaH, raNgaBUmiH#} {%f.%}
+BATTLE-FIELD¦, {%s.%} {#raRaBUmiH#} {%f.,%} {#AyoDanaM, raRaH, raRANgaRaM, raRAjiraM, mallaBUH#}
+{%f.,%} {#mallaBUmiH#} {%f.,%} {#raNgaH, raNgaBUmiH#} {%f.%}
 <LEND>

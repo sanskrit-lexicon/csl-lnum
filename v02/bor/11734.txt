@@ -1,7 +1,7 @@
 <L>11734<pc>367<k1>impression<k2>impression
-<div n="lb"/>{@IMPRESSION:@}¦ <div n="I">I Marking: {#aNkanam.#} </div><div n="I">II Mark:
-<div n="lb"/>q.v.: {#cihnam.#} </div><div n="I">III Mental: Ph.: <div n="xe">{%it made no i.%}
-<div n="lb"/>{%on him.%}</div> <div n="xs">{#tasya hfdayaM na jagrAha#}</div> <div n="xe">{%or%}</div> <div n="xs">{#jahAra#}</div> <div n="xe">{%or%}</div> <div n="xs">{#tasya hfdaye #}
-<div n="lb"/>{# sTAnaM na leBe.#}</div> </div><div n="I">IV Idea: {#anumavaH.#} </div><div n="I">V An edi-
-<div n="lb"/>-tion, copy: {#*anulipiH.#}</div>
+{@IMPRESSION:@}¦ <div n="I">I Marking: {#aNkanam.#} </div><div n="I">II Mark:
+q.v.: {#cihnam.#} </div><div n="I">III Mental: Ph.: <div n="xe">{%it made no i.%}
+{%on him.%}</div> <div n="xs">{#tasya hfdayaM na jagrAha#}</div> <div n="xe">{%or%}</div> <div n="xs">{#jahAra#}</div> <div n="xe">{%or%}</div> <div n="xs">{#tasya hfdaye #}
+{# sTAnaM na leBe.#}</div> </div><div n="I">IV Idea: {#anumavaH.#} </div><div n="I">V An edi-
+-tion, copy: {#*anulipiH.#}</div>
 <LEND>

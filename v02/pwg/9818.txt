@@ -1,22 +1,22 @@
 <L>9818<pc>1-0742<k1>AsTAna<k2>AsTA/na
-{#AsTA/na#}¦ (wie eben) 
-<div n="1"> 1) <lex>n.</lex> 
-<div n="2"> a) {%Standort, Ort, Unterlage%} 
-<ls>VS. 11, 21.</ls> {#tAsA^mA\sTAnA\dujji^hatA\moza^DayaH#} 
-<ls>38.</ls> <ls>AV. 1, 23, 3. 32, 2.</ls> {#A\sTA\ne parva^tA asTuH#} 
-<ls>6, 77, 1.</ls> {#indro vftrasyAsTAnamacCinat#} 
-<ls>ŚAT. BR. 5, 5, 5, 14.</ls> {#anutta svAdAsTAnAt#} 
-<ls>11, 5, 5, 8.</ls> Vgl. {#anAsTAna#} . 
-<div n="2">— b) {%Versammlung%} 
-<ls>AK. 2, 7, 15.</ls> 
-<ls>H. 481.</ls> {%Audienzsaal des Königs%}: {#AsTAnagata#} 
-<ls>KATHĀS. 21, 17. 24, 47.</ls> {#°vartin#} 
-<ls>21, 38. 18, 28.</ls> <ls>BROCKHAUS</ls> : {%Thron.%} {#AsTAnagfha#} <lex>n.</lex> {%Versammlungszimmer%} 
-<ls>H. 997.</ls> {#AsTAnaBoga#} 
-<ls>Verz. d. B. H. 172, 3.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#°nI#} 
-<ls>TRIK. 3, 5, 21.</ls> {%Versammlung%} 
-<ls>AK. 2, 7, 15. 3, 4, 90.</ls> {#AsTAnIDUrtakEH#} 
-<ls>PRAB. 102, 10.</ls> {#anEzIcca tAto me devasyAlakeSvarasyAsTAnIm#} {%in den Audienzsaal%} <is>Kuvera's</is> 
-<ls>DAŚAK. 117, 3</ls> v. u.
+{#AsTA/na#}¦ (wie eben)
+<div n="1"> 1) <lex>n.</lex>
+<div n="2"> a) {%Standort, Ort, Unterlage%}
+<ls>VS. 11,21.</ls> {#tAsA^mA\sTAnA\dujji^hatA\moza^DayaH#}
+<ls n="VS. 11,">38.</ls> <ls>AV. 1,23,3.</ls> <ls n="AV. 1,">32,2.</ls> {#A\sTA\ne parva^tA asTuH#}
+<ls n="AV.">6,77,1.</ls> {#indro vftrasyAsTAnamacCinat#}
+<ls>ŚAT. BR. 5,5,5,14.</ls> {#anutta svAdAsTAnAt#}
+<ls n="ŚAT. BR.">11,5,5,8.</ls> Vgl. {#anAsTAna#} .
+<div n="2">— b) {%Versammlung%}
+<ls>AK. 2,7,15.</ls>
+<ls>H. 481.</ls> {%Audienzsaal des Königs%}: {#AsTAnagata#}
+<ls>KATHĀS. 21,17.</ls> <ls n="KATHĀS.">24,47.</ls> {#°vartin#}
+<ls n="KATHĀS.">21,38.</ls> <ls n="KATHĀS.">18,28.</ls> <ls>BROCKHAUS</ls> : {%Thron.%} {#AsTAnagfha#} <lex>n.</lex> {%Versammlungszimmer%}
+<ls>H. 997.</ls> {#AsTAnaBoga#}
+<ls>Verz. d. B. H. 172,3.</ls>
+<div n="1">— 2) <lex>f.</lex> {#°nI#}
+<ls>TRIK. 3,5,21.</ls> {%Versammlung%}
+<ls>AK. 2,7,15.</ls> <ls n="AK.">3,4,90.</ls> {#AsTAnIDUrtakEH#}
+<ls>PRAB. 102,10.</ls> {#anEzIcca tAto me devasyAlakeSvarasyAsTAnIm#} {%in den Audienzsaal%} <is>Kuvera's</is>
+<ls>DAŚAK. 117,3</ls> v. u.
 <LEND>

@@ -1,11 +1,11 @@
 <L>24447<pc>766<k1>wood<k2>wood
-<div n="lb"/>{@WOOD:@}¦ <div n="I">I Of trees: </div><div n="1">(1) {#kAzWam,#} {%to cut w.:%}
-<div n="lb"/>{#kAzWaM pAwayati,#} Mah. iii. 297. 2.; <div n="xe">{%made of w. of%}
-<div n="lb"/>{%trees:%}</div> <div n="xs">{#tarURAM kAzWErGawita#}</div> (f. {#tA#}), V. m. 79. 39.;
-<div n="lb"/><div n="xe">{%w. -cutter:%}</div> <div n="xs">{#kAzWikaH,#}</div> K. s. vi. 43.; </div><div n="1">(2) {#dAru#} (n.),
-<div n="lb"/><div n="xe">{%the enemy of Mura h s transformed himself into%}
-<div n="lb"/>{%w.:%}</div> <div n="xs">{#dAruBUto murAriH,#}</div> Ha. ii.; </div><div n="1">(3) by comp.,
-<div n="lb"/><div n="xe">{%with a pestle of catechu w.:%}</div> <div n="xs">{#KAdireRa musalena,#}</div> D.
-<div n="lb"/>vi. </div><div n="I">II Forest: q. v.: {#vanam,#} {%went to w.:%}
-<div n="lb"/>{#prasTito vanam,#} Mah.</div>
+{@WOOD:@}¦ <div n="I">I Of trees: </div><div n="1">(1) {#kAzWam,#} {%to cut w.:%}
+{#kAzWaM pAwayati,#} Mah. iii. 297. 2.; <div n="xe">{%made of w. of%}
+{%trees:%}</div> <div n="xs">{#tarURAM kAzWErGawita#}</div> (f. {#tA#}), V. m. 79. 39.;
+<div n="xe">{%w. -cutter:%}</div> <div n="xs">{#kAzWikaH,#}</div> K. s. vi. 43.; </div><div n="1">(2) {#dAru#} (n.),
+<div n="xe">{%the enemy of Mura h s transformed himself into%}
+{%w.:%}</div> <div n="xs">{#dAruBUto murAriH,#}</div> Ha. ii.; </div><div n="1">(3) by comp.,
+<div n="xe">{%with a pestle of catechu w.:%}</div> <div n="xs">{#KAdireRa musalena,#}</div> D.
+vi. </div><div n="I">II Forest: q. v.: {#vanam,#} {%went to w.:%}
+{#prasTito vanam,#} Mah.</div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>12876<pc>397<k1>joint<k2>joint
-<div n="lb"/>{@JOINT@}¦ (adj.): <div n="I">I Combined: </div><div n="1">(1) {#samavetaH#} ({#tA, #}
-<div n="lb"/>{# taM#}); </div><div n="1">(2) {#saMhataH#} ({#tA, taM#}). </div><div n="I">II Held in comp-
-<div n="lb"/>-mon: {#sADAraRa#} (f. {#RI#}), <div n="xe">{%j. property:%}</div> <div n="xs">{#sADAraRaDanm,#}</div>
-<div n="lb"/>Da.; <div n="xe">{%j. -family property:%}</div> <div n="xs">{#saMsfzwiDanam,#}</div> Mit.: <div n="xe">{%j.-%}
-<div n="lb"/>{%stock-company:%}</div> <div n="xs">{#samBUyakAriRaH#}</div> {%or%} precisely {#*samavAya-#}
-<div n="lb"/>{#mUlaprayoktAraH.#} </div><div n="I">III Sharing in common: {#saha-#}
-<div n="lb"/>in comp., <div n="xe">{%j. heir;%}</div> <div n="xs">{#ekarikTin#}</div> (f. {#nI#}), M. ix.
-<div n="lb"/>162.</div>
+{@JOINT@}¦ (adj.): <div n="I">I Combined: </div><div n="1">(1) {#samavetaH#} ({#tA, #}
+{# taM#}); </div><div n="1">(2) {#saMhataH#} ({#tA, taM#}). </div><div n="I">II Held in comp-
+-mon: {#sADAraRa#} (f. {#RI#}), <div n="xe">{%j. property:%}</div> <div n="xs">{#sADAraRaDanm,#}</div>
+Da.; <div n="xe">{%j. -family property:%}</div> <div n="xs">{#saMsfzwiDanam,#}</div> Mit.: <div n="xe">{%j.-%}
+{%stock-company:%}</div> <div n="xs">{#samBUyakAriRaH#}</div> {%or%} precisely {#*samavAya-#}
+{#mUlaprayoktAraH.#} </div><div n="I">III Sharing in common: {#saha-#}
+in comp., <div n="xe">{%j. heir;%}</div> <div n="xs">{#ekarikTin#}</div> (f. {#nI#}), M. ix.
+162.</div>
 <LEND>

@@ -1,10 +1,3 @@
-<L>168873.1<pc>837,2<k1>mfkz<k2>mfkz<h>b<e>1
-<s>mrakz</s> ¦ or <s>mfkz</s> <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xvii, 12</ls>) <s>mrakzati</s> or <s>mfkza/ti</s> (<ab>pf.</ab> <s>mimfkzuH</s>), 
-<div n="to"/>to rub, stroke, curry, <ls>RV. viii, 74, 13</ls>;
-<div n="to"/>to smear, <ls>Lalit.</ls>;
-<div n="to"/>to accumulate, collect, <ls>Dhātup.</ls> :
-<div n="vp"/><ab>Caus.</ab> (or <ab>cl.</ab> 10. <ls>Dhātup. xxxii, 119</ls>) <s>mrakzayati</s> or <s>mfkzayati</s>, to rub, smear, anoint, <ls>KātyŚr.</ls>; <ls>Buddh.</ls>;
-<div n="to"/>to accumulate, <ls>Dhātup.</ls>;
-<div n="to"/>to speak indistinctly or incorrectly, <ls>ib.</ls>;
-<div n="to"/>to cut, <ls>ib.</ls><info or="168873,mrakz;168873.1,mfkz"/><info westergaard="mrakza,17.12,01.0432;mrakza,32.119,10.0109"/><info whitneyroots="mfkz,124"/><info verb="genuineroot" cp="1P,10"/>
+<L>168873.1<pc>837,2<k1>mfkz<k2>mfkz<e>1
+{{Lbody=168873}}
 <LEND>

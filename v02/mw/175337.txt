@@ -1,3 +1,3 @@
-<L>175337<pc>869,1<k1>ravA<k2>ravA<h>b<e>1
-<s>ravA</s> <hom>b</hom> ¦ <lex>f.</lex> <bot>Gossypium Herbaceum</bot>, <ls>L.</ls><info lex="f"/>
+<L>175337<pc>869,1<k1>ravA<k2>ravA<e>1
+<s>ravA</s> ¦ <lex>f.</lex> <bot>Gossypium Herbaceum</bot>, <ls>L.</ls><info lex="f"/><info hui="b"/>
 <LEND>

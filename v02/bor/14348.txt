@@ -1,6 +1,6 @@
 <L>14348<pc>440<k1>meanly<k2>meanly
-<div n="lb"/>{@MEANLY:@}¦ <div n="I">I Humbly: <div n="xe">{%m. born:%}</div> <div n="xs">{#apajAtaH#}</div> ({#tA, #}
-<div n="lb"/>{# taM#}); <div n="xe">{%m. clad:%}</div> <div n="xs">{#kfpaRavezaH#}</div> ({#zA, zaM#}), etc. </div><div n="I">II
-<div n="lb"/>Dishonourably: {#nIcam#} <div n="xe">{%or%}</div> <div n="xs">{#nIca#}</div>- in comp. </div><div n="I">III
-<div n="lb"/>Moderately: {#nADikam.#}</div>
+{@MEANLY:@}¦ <div n="I">I Humbly: <div n="xe">{%m. born:%}</div> <div n="xs">{#apajAtaH#}</div> ({#tA, #}
+{# taM#}); <div n="xe">{%m. clad:%}</div> <div n="xs">{#kfpaRavezaH#}</div> ({#zA, zaM#}), etc. </div><div n="I">II
+Dishonourably: {#nIcam#} <div n="xe">{%or%}</div> <div n="xs">{#nIca#}</div>- in comp. </div><div n="I">III
+Moderately: {#nADikam.#}</div>
 <LEND>

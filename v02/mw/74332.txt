@@ -1,3 +1,3 @@
-<L>74332<pc>399,1<k1>cirAya<k2>cirAya<h>b<e>2
-<s>cirAya</s> <hom>b</hom> ¦ <ab>Nom.</ab> <ab>P.</ab> <ab>Ā.</ab> (<ab>p.</ab> <s>°yamARa</s>) <ab>id.</ab>, <ls>MBh.</ls> &c.<info verb="nom" cp="PĀ"/>
+<L>74332<pc>399,1<k1>cirAya<k2>cirAya<e>2
+<s>cirAya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <ab>Ā.</ab> (<ab>p.</ab> <s>°yamARa</s>) <ab>id.</ab>, <ls>MBh.</ls> &c.<info verb="nom" cp="PĀ"/><info hui="b"/>
 <LEND>

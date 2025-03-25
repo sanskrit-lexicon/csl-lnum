@@ -1,24 +1,23 @@
 <L>19330<pc>2-0446<k1>kopana<k2>kopana
-{#kopana#}¦ (von {#kup#} simpl. und caus.) 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} 
-<div n="2"> a) {%zum Zorn geneigt, zornig, böse%} 
-<ls>MBH. 1, 1354. 3, 9976. 10749. 13, 4588.</ls> 
-<ls>R. 1, 34, 22. 4, 46, 8.</ls> 
-<ls>VIŚV. 10, 5.</ls> 
-<ls>KĀṆ. 61.</ls> <ls>KATHĀS. 5, 42.</ls> <ls>ŚUK. 40, 9.</ls> <ls>H. 392.</ls> fem. <ls>AK. 2, 6. 1. 4.</ls> <ls>H. 510.</ls> <ls>PAÑCAT. IV, 8.</ls> <ls>VIKR. 57, 11.</ls> <ls>KUMĀRAS. 3, 8.</ls> <ls>AMAR. 65.</ls> 
-<div n="2">— b) {%in krankhafte Aufregung versetzend, reizend%} 
-<ls>SUŚR. 1, 177, 15.</ls> {#vAtakopana#}
+{#kopana#}¦ (von {#kup#} simpl. und caus.)
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#}
+<div n="2"> a) {%zum Zorn geneigt, zornig, böse%}
+<ls>MBH. 1,1354.</ls> <ls n="MBH.">3,9976.</ls> <ls n="MBH. 3,">10749.</ls> <ls n="MBH.">13,4588.</ls>
+<ls>R. 1,34,22.</ls> <ls n="R.">4,46,8.</ls>
+<ls>VIŚV. 10,5.</ls>
+<ls>KĀṆ. 61.</ls> <ls>KATHĀS. 5,42.</ls> <ls>ŚUK. 40,9.</ls> <ls>H. 392.</ls> fem. <ls>AK. 2,6,1,4.</ls> <ls>H. 510.</ls> <ls>PAÑCAT. IV,8.</ls> <ls>VIKR. 57,11.</ls> <ls>KUMĀRAS. 3,8.</ls> <ls>AMAR. 65.</ls>
+<div n="2">— b) {%in krankhafte Aufregung versetzend, reizend%}
+<ls>SUŚR. 1,177,15.</ls> {#vAtakopana#}
 [Page2-0447]
-
-<ls>190, 5. 16. 197, 12.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. pr. eines <is>Asura</is> 
-<ls>HARIV. 2284.</ls> 
-<div n="1">— 3) <lex>n.</lex> 
-<div n="2"> a) {%Aufregung, Reizung%}: {#svadopakopanAdrogaM laBate#} 
-<ls>MBH. 14, 466.</ls> {#vAtasya SamanaM kopanaM vA#} 
-<ls>P. 5, 1, 38, <is>Vārtt</is>. 1,</ls> 
-<ls>Sch.</ls> {#yaToktEH kopanEH dozAH kupitAH#} 
-<ls>SUŚR. 2, 450, 16.</ls> 
-<div n="2">— b) {%das Erzürnen%} (trans.): {#ayaSasyamaDarmyaM ca yanmfzA Darmakopanam#} 
-<ls>MBH. 13, 2426.</ls>
+<ls n="SUŚR.">190,5. 16. 197,12.</ls>
+<div n="1">— 2) <lex>m.</lex> N. pr. eines <is>Asura</is>
+<ls>HARIV. 2284.</ls>
+<div n="1">— 3) <lex>n.</lex>
+<div n="2"> a) {%Aufregung, Reizung%}: {#svadopakopanAdrogaM laBate#}
+<ls>MBH. 14,466.</ls> {#vAtasya SamanaM kopanaM vA#}
+<ls>P. 5,1,38</ls>, <is>Vārtt</is>. 1, <ls>Sch.</ls>
+{#yaToktEH kopanEH dozAH kupitAH#}
+<ls>SUŚR. 2,450,16.</ls>
+<div n="2">— b) {%das Erzürnen%} (trans.): {#ayaSasyamaDarmyaM ca yanmfzA Darmakopanam#}
+<ls>MBH. 13,2426.</ls>
 <LEND>

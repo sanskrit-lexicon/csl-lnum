@@ -1,12 +1,12 @@
 <L>4060<pc>131<k1>come<k2>come
-<div n="lb"/>{@COME:@}¦ <div n="1">(1) {#AgacCati#} ({#gam,#} c. l), {%I am c. ing:%}
-<div n="lb"/>{#ayamAgato'smi,#} Mr. ix.; {%does not c.%} ({%back%}) {%yet:%}
-<div n="lb"/>{#nAdyApyagacCati,#} Mr. v.; <div n="xe">{%will he c. here:%}</div> <div n="xs">{#kimaya-#}
-<div n="lb"/>{#matrAgamizyati,#}</div> K.; </div><div n="1">(2) {#eti#} ({#i,#} c. 2), <div n="xe">{%c. c. my%}
-<div n="lb"/>{%child:%}</div> <div n="xs">{#ehyehi vatsa,#}</div> Vi. i.; </div><div n="1">(3) {#AyAti#} ({#yA,#} c.
-<div n="lb"/>2), <div n="xe">{%came to Yudhishthira:%}</div> <div n="xs">{#yuDizWiraM samAyayO,#}</div> Ki. [Page132]
-<div n="lb"/>i. 1. Ph.: <div n="xe">{%the summer season is c.:%}</div> <div n="xs">{#nidADakAlo'-#}
-<div n="lb"/>{#yamupAgataH,#}</div> Ri. i. l.; <div n="xe">{%the news of his father's%}
-<div n="lb"/>{%death is c.:%}</div> <div n="xs">{#tasya pitfmaraRavArtA samAgatA.#}</div> N. B. These
-<div n="lb"/>verbs take an acc.</div>
+{@COME:@}¦ <div n="1">(1) {#AgacCati#} ({#gam,#} c. l), {%I am c. ing:%}
+{#ayamAgato'smi,#} Mr. ix.; {%does not c.%} ({%back%}) {%yet:%}
+{#nAdyApyagacCati,#} Mr. v.; <div n="xe">{%will he c. here:%}</div> <div n="xs">{#kimaya-#}
+{#matrAgamizyati,#}</div> K.; </div><div n="1">(2) {#eti#} ({#i,#} c. 2), <div n="xe">{%c. c. my%}
+{%child:%}</div> <div n="xs">{#ehyehi vatsa,#}</div> Vi. i.; </div><div n="1">(3) {#AyAti#} ({#yA,#} c.
+2), <div n="xe">{%came to Yudhishthira:%}</div> <div n="xs">{#yuDizWiraM samAyayO,#}</div> Ki. [Page132]
+i. 1. Ph.: <div n="xe">{%the summer season is c.:%}</div> <div n="xs">{#nidADakAlo'-#}
+{#yamupAgataH,#}</div> Ri. i. l.; <div n="xe">{%the news of his father's%}
+{%death is c.:%}</div> <div n="xs">{#tasya pitfmaraRavArtA samAgatA.#}</div> N. B. These
+verbs take an acc.</div>
 <LEND>

@@ -1,3 +1,3 @@
-<L>257099<pc>1271,3<k1>smera<k2>smera<h>a<e>2
-<s>smera</s> <hom>a</hom> ¦ <lex>mf(<s>A</s>)n.</lex> smiling, friendly, <ls>Hariv.</ls>; <ls>Kālid.</ls>; <ls>Kathās.</ls> &c.<info lex="m:f#A:n"/>
+<L>257099<pc>1271,3<k1>smera<k2>smera<e>2
+<s>smera</s> ¦ <lex>mf(<s>A</s>)n.</lex> smiling, friendly, <ls>Hariv.</ls>; <ls>Kālid.</ls>; <ls>Kathās.</ls> &c.<info lex="m:f#A:n"/><info hui="a"/>
 <LEND>

@@ -1,8 +1,8 @@
 <L>20903<pc>657<k1>so far<k2>so far
-<div n="lb"/>{@SO FAR:@}¦ <div n="I">I With <div n="xe">{%as:%}</div> <div n="xs">{#yAvat#}</div> (f. {#tI#}), <div n="xe">{%so far as%}
-<div n="lb"/>{%lies in my power:%}</div> <div n="xs">{#yAvacCaktitaH,#}</div> Ka. </div><div n="I">II Abs.:
-<div n="lb"/>{#etAvat#} <div n="xe">{%or%}</div> <div n="xs">{#iyat#}</div> (f. {#tI#}), {%so far and no further:%}
-<div n="lb"/>{#etAvannADikam.#} </div><div n="I">III With {%from%} expr. with
-<div n="lb"/>{#AstAm#} (=let, alone) <div n="xe">{%or%}</div> <div n="xs">{#dUrataH,#}</div> <div n="xe">{%far from%}
-<div n="lb"/>{%seeing:%}</div> <div n="xs">{#dUre taddarSanam,#}</div> K. s. 25. 31.</div>
+{@SO FAR:@}¦ <div n="I">I With <div n="xe">{%as:%}</div> <div n="xs">{#yAvat#}</div> (f. {#tI#}), <div n="xe">{%so far as%}
+{%lies in my power:%}</div> <div n="xs">{#yAvacCaktitaH,#}</div> Ka. </div><div n="I">II Abs.:
+{#etAvat#} <div n="xe">{%or%}</div> <div n="xs">{#iyat#}</div> (f. {#tI#}), {%so far and no further:%}
+{#etAvannADikam.#} </div><div n="I">III With {%from%} expr. with
+{#AstAm#} (=let, alone) <div n="xe">{%or%}</div> <div n="xs">{#dUrataH,#}</div> <div n="xe">{%far from%}
+{%seeing:%}</div> <div n="xs">{#dUre taddarSanam,#}</div> K. s. 25. 31.</div>
 <LEND>

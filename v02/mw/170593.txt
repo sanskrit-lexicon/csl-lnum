@@ -1,3 +1,3 @@
-<L>170593<pc>847,1<k1>yamunApati<k2>yamu/nA—pati<e>3
-<s>yamu/nA—pati</s> ¦ <lex>m.</lex> ‘lord of <ab n="Yamunā" slp1="yamunA">Y°</ab>’, <ab>N.</ab> of <s1 slp1="vizRu">Viṣṇu</s1>, <ls>Pañcar.</ls><info lex="m"/>
+<L>170593<pc>847,1<k1>yamunApati<k2>yamunA—pati<e>3
+<s>yamunA—pati</s> ¦ <lex>m.</lex> ‘lord of <s1 n="Yamunā">Y°</s1>’, <ab>N.</ab> of <s1>Viṣṇu</s1>, <ls>Pañcar.</ls><info lex="m"/>
 <LEND>

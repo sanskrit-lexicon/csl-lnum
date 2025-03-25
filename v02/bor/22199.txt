@@ -1,5 +1,5 @@
 <L>22199<pc>700<k1>tank<k2>tank
-<div n="lb"/>{@TANK:@}¦ <div n="I">I Of water: </div><div n="1">(1) {#taqAgam;#} </div><div n="1">(2) {#dIrGikA#}
-<div n="lb"/>(long t.); </div><div n="1">(3) {#vApI#} (= square t.); </div><div n="1">(4)
-<div n="lb"/>{#jalASayaH#} (in gen.). </div><div n="I">II A vessel: {#kfRqam.#}</div>
+{@TANK:@}¦ <div n="I">I Of water: </div><div n="1">(1) {#taqAgam;#} </div><div n="1">(2) {#dIrGikA#}
+(long t.); </div><div n="1">(3) {#vApI#} (= square t.); </div><div n="1">(4)
+{#jalASayaH#} (in gen.). </div><div n="I">II A vessel: {#kfRqam.#}</div>
 <LEND>

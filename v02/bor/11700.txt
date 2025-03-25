@@ -1,10 +1,10 @@
 <L>11700<pc>365<k1>importance<k2>importance
-<div n="lb"/>{@IMPORTANCE:@}¦ {#gOravam#} (of persons) <div n="xe">{%or%}</div> <div n="xs">{#gurutvam, -tA#}</div>
-<div n="lb"/>(of things), <div n="xe">{%why do you raise into i. this attack%}
-<div n="lb"/>{%by men:%}</div> <div n="xs">{#narAmiyogaM...kiM nayase gurutvam,#}</div> B. xii. 17.;
-<div n="lb"/><div n="xe">{%lightening mountains in i.:%}</div> <div n="xs">{#gOravena laGayanmahIBftaH,#}</div> [Page366]
-<div n="lb"/>Ki. xiii. 33.: v. Also distinction, weight.
-<div n="lb"/>Ph.: (a) <div n="xe">{%of no i.:%}</div> <div n="xs">{#akiYcitkaraH#}</div> ({#rI, raM#}) <div n="xe">{%or%}</div> <div n="xs">{#nirarTakaH#}</div>
-<div n="lb"/>({#kA, kaM#}); (b) {%of great, much i.,%} etc.; {#bahuPalaH#}
-<div n="lb"/>({#lA, laM#}), {#mahAprayojanaH#} ({#nA, naM#}); etc.
+{@IMPORTANCE:@}¦ {#gOravam#} (of persons) <div n="xe">{%or%}</div> <div n="xs">{#gurutvam, -tA#}</div>
+(of things), <div n="xe">{%why do you raise into i. this attack%}
+{%by men:%}</div> <div n="xs">{#narAmiyogaM...kiM nayase gurutvam,#}</div> B. xii. 17.;
+<div n="xe">{%lightening mountains in i.:%}</div> <div n="xs">{#gOravena laGayanmahIBftaH,#}</div> [Page366]
+Ki. xiii. 33.: v. Also distinction, weight.
+Ph.: (a) <div n="xe">{%of no i.:%}</div> <div n="xs">{#akiYcitkaraH#}</div> ({#rI, raM#}) <div n="xe">{%or%}</div> <div n="xs">{#nirarTakaH#}</div>
+({#kA, kaM#}); (b) {%of great, much i.,%} etc.; {#bahuPalaH#}
+({#lA, laM#}), {#mahAprayojanaH#} ({#nA, naM#}); etc.
 <LEND>

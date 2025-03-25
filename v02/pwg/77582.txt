@@ -1,104 +1,91 @@
 <L>77582<pc>5-1562<k1>nI<k2>nI<h>1
-1. {#nI#}¦ 
-<div n="1"> 1) {#santo hi satyena nayanti sUryam#} 
-<ls>Spr. 5154.</ls> 
-<div n="1">— 3) {#tato vivAhyAnicCantImapyanEzItsa mAM dvijaH#} 
-<ls>KATHĀS. 52, 38.</ls> {#anAyizata#} 
-<ls>Spr. 2842.</ls> {#cOreRApi na nIyate (vidyAratnam)#} 
-<ls>985.</ls> <ls>KATHĀS. 58, 73.</ls> 
-<div n="1">— 4) am Ende, {#BasmasAnnItaH#} 
-<ls>MBH. 15, 951.</ls> 
-<ls>HARIV. 3662. 5950.</ls> 
-<div n="1">— 12) {#anyaTA#} {%anders auslegen%} 
-<ls>LA. (II) 91, 7. - Z. 3</ls> vom Schluss, die ed. Bomb. liest 
-<ls>MBH. 7, 9557</ls> {#BettuM#} st. {#netuM#} .
-
-<div n="p">— {#anu#} 
-<div n="1"> 3) {#anumIya#} 
-<ls>MBH. 3, 286</ls> fehlerhaft für {#anunIya#}, wie die ed. Bomb. liest.
-
-<div n="p">— {#apa#} 
-<div n="1"> 9) {#apanIta#} <lex>n.</lex> auch 
-<ls>R. ed. Bomb. 6, 95, 38.</ls>
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {#yAvadAyuDamAnaye#} {%bis ich herbeibringe%} 
-<ls>R. 7, 68, 17.</ls> {#AninyaTuH pitfsTAnAdgurave gurudakziRAm#} 
-<ls>BHĀG. P. 10, 85, 32.</ls> 
-<div n="1">— 5) {#mitrARi SatrutvamivAnayantI mitratvamapyarTavaSAcca SatrUn#} 
-<ls>Spr. 4722.</ls> — caus. 
-<ls>LA. (II) 91, 12. Z. 5</ls> die ed. Bomb. 
-<ls>R. 2, 14, 21</ls> {#AnAyayitum#}; 
-<ls>GILD.</ls> in <ls>LA. (III) 102, N.</ls>: {#AnApituM#} (wohl Druckfehler für {#AnApayituM)#} lectio est codicum, qui 
-<ls>RAGHUNĀTHAM</ls> sequuntur; libri scholiis 
-<ls>MAHEŚVARATĪRTHAE</ls> instructi {#AnAyituM#} (lies {#AnAyayituM)#} praebent. — desid. {%herbeizubringen die Absicht haben%} 
-<ls>BHĀG. P. 10, 89, 42.</ls>
-
-<div n="p">— {#upA#} 
-<div n="1"> 1) {#maDuparkamupAnIya#} 
-<ls>BHĀG. P. 10, 53, 33.</ls> 
-<div n="1">— 2) 
-<ls>?Z. 3. fg. NĪLAK. zu MBH. 5, 1339</ls> : {#asato duzwasya sattvaM sADutvaM asataH mfzArTasya sattvaM satyatvaM vA upAnayIta samarTayate#} .
-
-<div n="p">— {#pratyA#} 
-<div n="1"> 1) {#°naya surendrasya trElokyamidamavyayam#} {%wiederverschaffen%} 
-<ls>HARIV. 14199.</ls> 
+1. {#nI#}¦
+<div n="1"> 1) {#santo hi satyena nayanti sUryam#}
+<ls>Spr. 5154.</ls>
+<div n="1">— 3) {#tato vivAhyAnicCantImapyanEzItsa mAM dvijaH#}
+<ls>KATHĀS. 52,38.</ls> {#anAyizata#}
+<ls>Spr. 2842.</ls> {#cOreRApi na nIyate (vidyAratnam)#}
+<ls n="Spr.">985.</ls> <ls>KATHĀS. 58,73.</ls>
+<div n="1">— 4) am Ende, {#BasmasAnnItaH#}
+<ls>MBH. 15,951.</ls>
+<ls>HARIV. 3662.</ls> <ls n="HARIV.">5950.</ls>
+<div n="1">— 12) {#anyaTA#} {%anders auslegen%}
+<ls>LA. (II) 91,7.</ls> — Z. 3 vom Schluss, die <ls>ed. Bomb.</ls> liest
+<ls>MBH. 7,9557</ls> {#BettuM#} st. {#netuM#} .
+<div n="p">— {#anu#}
+<div n="1"> 3) {#anumIya#}
+<ls>MBH. 3,286</ls> fehlerhaft für {#anunIya#}, wie die <ls>ed. Bomb.</ls> liest.
+<div n="p">— {#apa#}
+<div n="1"> 9) {#apanIta#} <lex>n.</lex> auch
+<ls>R. ed. Bomb. 6,95,38.</ls>
+<div n="p">— {#A#}
+<div n="1"> 1) {#yAvadAyuDamAnaye#} {%bis ich herbeibringe%}
+<ls>R. 7,68,17.</ls> {#AninyaTuH pitfsTAnAdgurave gurudakziRAm#}
+<ls>BHĀG. P. 10,85,32.</ls>
+<div n="1">— 5) {#mitrARi SatrutvamivAnayantI mitratvamapyarTavaSAcca SatrUn#}
+<ls>Spr. 4722.</ls> — caus.
+<ls>LA. (II) 91,12.</ls> Z. 5 die <ls>ed. Bomb.</ls>
+<ls>R. 2,14,21</ls> {#AnAyayitum#};
+<ls>GILD.</ls> in <ls>LA. (III) 102, N.</ls>: {#AnApituM#} (wohl Druckfehler für {#AnApayituM)#} lectio est codicum, qui
+<ls>RAGHUNĀTHAM</ls> sequuntur; libri scholiis
+<ls>MAHEŚVARATĪRTHAE</ls> instructi {#AnAyituM#} (lies {#AnAyayituM)#} praebent. — desid. {%herbeizubringen die Absicht haben%}
+<ls>BHĀG. P. 10,89,42.</ls>
+<div n="p">— {#upA#}
+<div n="1"> 1) {#maDuparkamupAnIya#}
+<ls>BHĀG. P. 10,53,33.</ls>
+<div n="1">— 2)
+Z. 3. fg. <ls>NĪLAK.</ls> zu <ls>MBH. 5,1339</ls> : {#asato duzwasya sattvaM sADutvaM asataH mfzArTasya sattvaM satyatvaM vA upAnayIta samarTayate#} .
+<div n="p">— {#pratyA#}
+<div n="1"> 1) {#°naya surendrasya trElokyamidamavyayam#} {%wiederverschaffen%}
+<ls>HARIV. 14199.</ls>
 <div n="v">— Vgl. {#pratyAnayana, pratyAneya#} .
-
-<div n="p">— {#ud#} 
-<div n="1"> 1) {%aufheben, aufrichten%}: {#unnIya vaktram#} 
-<ls>BHĀG. P. 10, 83, 29.</ls> {%auf seine Schulter heben%}, med. 
-<ls>30, 31.</ls> {%in die Höhe bringen%} so v. a. {%in hohem Grade erregen%}: {#utsavaM dfSInAmunnayan#} 
-<ls>35, 23.</ls> <ls>Sp. 274, Z. 5</ls> lies {#Sayane#} . 
-<div n="1">— 5) zu streichen, da die Stelle zu 
-<div n="1"> 1) gehört: {%den Eiter hinausschaffend.%} 
-<div n="1">— 6) {#svarajAtIramiSritAH . unninye#} 
-<ls>BHĀG. P. 10, 33, 10.</ls> {#tadEva Druvamunninye#} ebend.
-
-<div n="p">— {#upa#} 
-<div n="1"> 1) {%hinführen zu%} (loc.): {#ESvarye vA suvistIrRe vyasane vA sudAruRe . rajjveva puruzo badDvA kftAntenopanIyate ..#} 
+<div n="p">— {#ud#}
+<div n="1"> 1) {%aufheben, aufrichten%}: {#unnIya vaktram#}
+<ls>BHĀG. P. 10,83,29.</ls> {%auf seine Schulter heben%}, med.
+<ls n="BHĀG. P. 10,">30,31.</ls> {%in die Höhe bringen%} so v. a. {%in hohem Grade erregen%}: {#utsavaM dfSInAmunnayan#}
+<ls n="BHĀG. P. 10,">35,23.</ls> <ls>Sp. 274, Z. 5</ls> lies {#Sayane#} .
+<div n="1">— 5) zu streichen, da die Stelle zu
+<div n="1"> 1) gehört: {%den Eiter hinausschaffend.%}
+<div n="1">— 6) {#svarajAtIramiSritAH . unninye#}
+<ls>BHĀG. P. 10,33,10.</ls> {#tadEva Druvamunninye#} ebend.
+<div n="p">— {#upa#}
+<div n="1"> 1) {%hinführen zu%} (loc.): {#ESvarye vA suvistIrRe vyasane vA sudAruRe . rajjveva puruzo badDvA kftAntenopanIyate ..#}
 <ls>Spr. 3856.</ls>
-
-<div n="p">— {#samupa#}, {#taM yajYaM samupAnayan#} {%brachten das Opfer%} 
-<ls>R. 7, 86, 6.</ls> = {#avedayan, smftavantaH#} 
+<div n="p">— {#samupa#}, {#taM yajYaM samupAnayan#} {%brachten das Opfer%}
+<ls>R. 7,86,6.</ls> = {#avedayan, smftavantaH#}
 <ls>Schol.</ls>
 [Page5-1563]
-
-<div n="p">— {#ni#} 
-<div n="1"> 4) {%darbringen%}: {#ninIyApaH piRqAn#} 
-<ls>BHĀG. P. 10, 57, 37.</ls>
-
-<div n="p">— {#pari#} 
-<div n="1"> 2) {#pariRItaBartar#} 
-<ls>VET.</ls> in <ls>LA. (II) 19, 12. 21, 16</ls> scheint {%den nur angetrauten Gatten, der seine Frau noch nicht heimgeführt hat%}, zu bezeichnen. 
-<ls>UTTARARĀMAC. 29, 15 (39, 3)</ls> fasst der 
-<ls>Schol.</ls> {#pariRItam#} als nom. act. {%Heirath.%} — 
-<ls>Z. 15</ls> des Artikels ist 
-<div n="1"> 3) st. 
-<div n="1"> 8) zu lesen. 
-<div n="1">— 4) 
+<div n="p">— {#ni#}
+<div n="1"> 4) {%darbringen%}: {#ninIyApaH piRqAn#}
+<ls>BHĀG. P. 10,57,37.</ls>
+<div n="p">— {#pari#}
+<div n="1"> 2) {#pariRItaBartar#}
+<ls>VET. in LA. (II) 19,12. 21,16</ls> scheint {%den nur angetrauten Gatten, der seine Frau noch nicht heimgeführt hat%}, zu bezeichnen.
+<ls>UTTARARĀMAC. 29,15 (39,3)</ls> fasst der
+<ls>Schol.</ls> {#pariRItam#} als nom. act. {%Heirath.%} —
+<ls>Z. 15</ls> des Artikels ist
+<div n="1"> 3) st.
+<div n="1"> 8) zu lesen.
+<div n="1">— 4)
 <ls>NĪLAK.</ls> : {#supariRItena sADunA#} .
-
-<div n="p">— {#pra#} 
-<div n="1"> 2) 
-<ls>Sp. 278, Z. 6</ls> füge hinzu: {#praRItA Apo mantrasaMskftA AhavanIyasyottarato nihitAH#} Comm. zu 
-<ls>ĀŚV. ŚR. 1, 1, 4.</ls> {#praRIta#} heisst {%eine Begehung, bei welcher kein geweihtes Wasser%} {#(praRItAH)#} {%gebraucht wird%}, 
-<ls>ĀŚV. ŚR. 1, 1, 5.</ls> <ls>Z. 8 lies 11, 2, 6, 1 st. 11, 26, 1.</ls> 
-<div n="1">— 6) {#na laNGayati ko 'pi viDipraRItam#} {%was das Schicksal bestimmt hat%} 
-<ls>Spr. 3655.</ls> {#nEtadDi samyakkaviBiH praRItam#} {%gelehrt, ausgesprochen%} 
-<ls>2293.</ls> {#tatpraRItAgama#} {%verfasst%} 
-<ls>LA. (II) 86, 13.</ls> 
-<ls>SARVADARŚANAS. 128, 4. 135, 10. 154, 3.</ls> {#BagavAnkaRAdaH praRinAya sUtram#} 
-<ls>111, 12.</ls> {#praRItatva#} <lex>n.</lex> 
-<ls>127, 8. 129, 1.</ls>
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%verscheuchen%} {#(Sokam)#}, 
-<div n="1"> 6) {%lenken%} und 
-<div n="1"> 7) {%unterrichten, unterweisen%} 
-<ls>R. 7, 52, 13.</ls>
-
-<div n="p">— {#sam#} 
-<div n="1"> 2) die Stelle 
-<ls>ṚV. 5, 65, 6</ls> gehört zu 1).
+<div n="p">— {#pra#}
+<div n="1"> 2)
+<ls>Sp. 278, Z. 6</ls> füge hinzu: {#praRItA Apo mantrasaMskftA AhavanIyasyottarato nihitAH#} Comm. zu
+<ls>ĀŚV. ŚR. 1,1,4.</ls> {#praRIta#} heisst {%eine Begehung, bei welcher kein geweihtes Wasser%} ({#praRItAH#}) {%gebraucht wird%},
+<ls>ĀŚV. ŚR. 1,1,5.</ls> Z. 8 lies 11,2,6,1 st. 11,26,1.
+<div n="1">— 6) {#na laNGayati ko 'pi viDipraRItam#} {%was das Schicksal bestimmt hat%}
+<ls>Spr. 3655.</ls> {#nEtadDi samyakkaviBiH praRItam#} {%gelehrt, ausgesprochen%}
+<ls n="Spr.">2293.</ls> {#tatpraRItAgama#} {%verfasst%}
+<ls>LA. (II) 86,13.</ls>
+<ls>SARVADARŚANAS. 128,4. 135,10. 154,3.</ls> {#BagavAnkaRAdaH praRinAya sUtram#}
+<ls n="SARVADARŚANAS.">111,12.</ls> {#praRItatva#} <lex>n.</lex>
+<ls n="SARVADARŚANAS.">127,8. 129,1.</ls>
+<div n="p">— {#vi#}
+<div n="1"> 1) {%verscheuchen%} ({#Sokam#}),
+<div n="1"> 6) {%lenken%} und
+<div n="1"> 7) {%unterrichten, unterweisen%}
+<ls>R. 7,52,13.</ls>
+<div n="p">— {#sam#}
+<div n="1"> 2) die Stelle
+<ls>ṚV. 5,65,6</ls> gehört zu 1).
 <LEND>

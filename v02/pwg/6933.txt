@@ -1,39 +1,38 @@
 <L>6933<pc>1-0513<k1>aSeza<k2>aSeza
-{#aSeza#}¦ (3. {#a + Seza#}) 
-<div n="1"> 1) <lex>m.</lex> {%Nicht - Rest%} 
-<ls>KĀTY. ŚR. 3, 3, 28.</ls> 
-<div n="1">— 2) <lex>adj.</lex> <lex>f.</lex> {#A#} {%ohne Rest, ganz, vollständig, all, jeder%} 
-<ls>AK. 3, 2, 14.</ls> 
-<ls>H. 1433.</ls> 
-<ls>KĀTY. ŚR. 6, 8, 10.</ls> {#aSezasaMbanDa#} 
-<ls>P. 5, 4, 4,</ls> 
-<ls>Sch.</ls> {#astrARyaSezARi#} 
-<ls>R. 1, 23, 11.</ls> {#aSezakAryezu#} 
-<ls>PAÑCAT. 163, 7.</ls> 
-<ls>PRAB. 5, 1.</ls> 
-<ls>ṚT. 1, 20.</ls> 
-<ls>AK. 2, 8, 1, 2.</ls> {#kratoraSezaM Palam#} 
-<ls>RAGH. 3, 65.</ls> {#yaSaH#} 
-<ls>48.</ls> {#aBimatasidDiraSezA#} 
-<ls>PAÑCAT. V, 27.</ls> {#brUhyaSezam#} 
-<ls>R. 2, 59, 1.</ls> 
-<ls>PAÑCAT. 43, 13.</ls> {#aSeze pramARaM tu BavantaH#} 
-<ls>N. 4, 31.</ls> {#DOtASrvaSezamudakam#} {%Wasser, das nur aus hellen Thränen besteht%}, 
-<ls>ŚĀK. 152.</ls> 
-<div n="1">— 3) {#aSezam#} adv. {%vollständig, ganz%}: {#taTAviDastAvadaSezamastu vaH#} 
-<ls>KUMĀRAS. 5, 82.</ls> 
-<div n="1">— 4) {#aSezeRa#} dass.: {#tadvAkyam - nyavedayadaSezeRa#} 
-<ls>N. 8, 21.</ls> 
-<ls>BHAG. 10, 16.</ls> {#yena BUtAnyaSezeRa drakzyasyAtmani#} 
-<ls>4, 35.</ls> {#yaTAjYaptamaSezeRa cakrurnfpatiSAsanam#} 
-<ls>R. 1, 11, 18. 20, 23.</ls> {#tAni dAsyatyaSezeRa rAmAya#} 
-<ls>23, 18. 2, 45, 6. 4, 44, 127.</ls> {#evaM sarvamaSezeRa rAvaRAntaHpuraM kapiH . anviyeza#} 
-<ls>5, 14, 54.</ls> 
-<div n="1">— 5) {#aSezatas#} dass.: {#etadvo 'yaM BfguH SAstraM SrAvayizyatyaSezataH#} 
-<ls>M. 1, 59. 2, 66. 3, 124. 169. 193. 266. 5, 26. 8, 37. 131. 9, 105. 10, 25. 12, 24. 30. 87. 107.</ls> 
-<ls>N. 16, 34.</ls> 
-<ls>R. 1, 4, 8. 11, 4. 23, 12. 29, 23. 5, 36, 6.</ls> 
-<ls>ŚĀK. 153.</ls> — Davon {#aSezatA#} <lex>f.</lex> {%Totalität%} 
-<ls>P. 2, 1, 6,</ls> 
-<ls>Sch.</ls>
+{#aSeza#}¦ (3. {#a + Seza#})
+<div n="1"> 1) <lex>m.</lex> {%Nicht — Rest%}
+<ls>KĀTY. ŚR. 3,3,28.</ls>
+<div n="1">— 2) <lex>adj.</lex> <lex>f.</lex> {#A#} {%ohne Rest, ganz, vollständig, all, jeder%}
+<ls>AK. 3,2,14.</ls>
+<ls>H. 1433.</ls>
+<ls>KĀTY. ŚR. 6,8,10.</ls> {#aSezasaMbanDa#}
+<ls>P. 5,4,4</ls>, <ls>Sch.</ls>
+{#astrARyaSezARi#}
+<ls>R. 1,23,11.</ls> {#aSezakAryezu#}
+<ls>PAÑCAT. 163,7.</ls>
+<ls>PRAB. 5,1.</ls>
+<ls>ṚT. 1,20.</ls>
+<ls>AK. 2,8,1,2.</ls> {#kratoraSezaM Palam#}
+<ls>RAGH. 3,65.</ls> {#yaSaH#}
+<ls n="RAGH. 3,">48.</ls> {#aBimatasidDiraSezA#}
+<ls>PAÑCAT. V,27.</ls> {#brUhyaSezam#}
+<ls>R. 2,59,1.</ls>
+<ls>PAÑCAT. 43,13.</ls> {#aSeze pramARaM tu BavantaH#}
+<ls>N. 4,31.</ls> {#DOtASrvaSezamudakam#} {%Wasser, das nur aus hellen Thränen besteht%},
+<ls>ŚĀK. 152.</ls>
+<div n="1">— 3) {#aSezam#} adv. {%vollständig, ganz%}: {#taTAviDastAvadaSezamastu vaH#}
+<ls>KUMĀRAS. 5,82.</ls>
+<div n="1">— 4) {#aSezeRa#} dass.: {#tadvAkyam — nyavedayadaSezeRa#}
+<ls>N. 8,21.</ls>
+<ls>BHAG. 10,16.</ls> {#yena BUtAnyaSezeRa drakzyasyAtmani#}
+<ls n="BHAG.">4,35.</ls> {#yaTAjYaptamaSezeRa cakrurnfpatiSAsanam#}
+<ls>R. 1,11,18.</ls> <ls n="R. 1,">20,23.</ls> {#tAni dAsyatyaSezeRa rAmAya#}
+<ls n="R. 1,">23,18.</ls> <ls n="R.">2,45,6.</ls> <ls n="R.">4,44,127.</ls> {#evaM sarvamaSezeRa rAvaRAntaHpuraM kapiH . anviyeza#}
+<ls n="R.">5,14,54.</ls>
+<div n="1">— 5) {#aSezatas#} dass.: {#etadvo 'yaM BfguH SAstraM SrAvayizyatyaSezataH#}
+<ls>M. 1,59.</ls> <ls n="M.">2,66.</ls> <ls n="M.">3,124.</ls> <ls n="M. 3,">169.</ls> <ls n="M. 3,">193.</ls> <ls n="M. 3,">266.</ls> <ls n="M.">5,26.</ls> <ls n="M.">8,37.</ls> <ls n="M. 8,">131.</ls> <ls n="M.">9,105.</ls> <ls n="M.">10,25.</ls> <ls n="M.">12,24.</ls> <ls n="M. 12,">30.</ls> <ls n="M. 12,">87.</ls> <ls n="M. 12,">107.</ls>
+<ls>N. 16,34.</ls>
+<ls>R. 1,4,8.</ls> <ls n="R. 1,">11,4.</ls> <ls n="R. 1,">23,12.</ls> <ls n="R. 1,">29,23.</ls> <ls n="R.">5,36,6.</ls>
+<ls>ŚĀK. 153.</ls> — Davon {#aSezatA#} <lex>f.</lex> {%Totalität%}
+<ls>P. 2,1,6</ls>, <ls>Sch.</ls>
 <LEND>

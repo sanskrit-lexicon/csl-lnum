@@ -1,4 +1,4 @@
 <L>1411<pc>048<k1>cannon<k2>cannon
 {@Cannon,@}¦ {%s.%} {#guliprakzepaRI lohanAqi-qI#} {%f.%}
-<div n="lb"/>{@-Ball,@} {%s.%} {#AgneyAstraM, raRaguli#} {%f.%}
+{@-Ball,@} {%s.%} {#AgneyAstraM, raRaguli#} {%f.%}
 <LEND>

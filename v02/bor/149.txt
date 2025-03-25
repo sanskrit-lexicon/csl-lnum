@@ -1,7 +1,7 @@
 <L>149<pc>007<k1>accomplishment<k2>accomplishment
-<div n="lb"/>{@ACCOMPLISHMENT:@}¦ <div n="I">I The act of accom-
-<div n="lb"/>-plishing: </div><div n="1">(1) {#sidDiH;#} </div><div n="1">(2) {#sADanam;#} </div><div n="1">(3) {#sampA-#}
-<div n="lb"/>{#danam;#} </div><div n="1">(4) {#nizpattiH;#} </div><div n="1">(5) {#rAdDiH;#} </div><div n="1">(6) {#nivfttiH.#}</div>
-<div n="lb"/><div n="I">II Attainment, acquirement, culture:
-<div n="lb"/>q. v.</div>
+{@ACCOMPLISHMENT:@}¦ <div n="I">I The act of accom-
+-plishing: </div><div n="1">(1) {#sidDiH;#} </div><div n="1">(2) {#sADanam;#} </div><div n="1">(3) {#sampA-#}
+{#danam;#} </div><div n="1">(4) {#nizpattiH;#} </div><div n="1">(5) {#rAdDiH;#} </div><div n="1">(6) {#nivfttiH.#}</div>
+<div n="I">II Attainment, acquirement, culture:
+q. v.</div>
 <LEND>

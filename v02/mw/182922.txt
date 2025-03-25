@@ -1,8 +1,8 @@
-<L>182922<pc>904,2<k1>luq<k2>luq<e>1
+<L>182922<pc>904,1<k1>luq<k2>luq<e>1
 <s>luq</s> ¦ (connected with √ <s>lul</s> and √ <hom>2.</hom> <s>luW</s>) <ab>cl.</ab> 1. <ab>P.</ab> <s>loqati</s>, to agitate, move, stir, <ls>Dhātup. ix, 27</ls>;
 <div n="to"/> <ab>cl.</ab> 6. <ab>P.</ab> <s>luqati</s>, to adhere;
-<div n="to"/>to cover, <ls>xxviii, 87</ls>;
+<div n="to"/>to cover, <ls n="Dhātup.">xxviii, 87</ls>;
 <div n="to"/>to cover, <ls>Vop.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>loqayati</s> (<ab>ind.p.</ab> <s>-loqya</s>; <ab>Pass.</ab> <s>loqyate</s>), 
+<div n="vp"/><ab>Caus.</ab> <s>loqayati</s> (<ab>ind.p.</ab> <s>-loqya</s>; <ab>Pass.</ab> <s>loqyate</s>),
 <div n="to"/>to set in motion, agitate, disturb, <ls>MBh.</ls>; <ls>R.</ls> &c.<info westergaard="luwa,9.27,01.0211"/><info whitneyroots="luq,149"/><info verb="genuineroot" cp="1P,6P"/>
 <LEND>

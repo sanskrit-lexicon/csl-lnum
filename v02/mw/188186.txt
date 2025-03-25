@@ -1,3 +1,3 @@
-<L>188186<pc>928,1<k1>valkala<k2>valkala<h>a<e>2
-<s>valkala</s> <hom>a</hom> ¦ <lex>mn.</lex> (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>) the bark of a tree, a garment made of bark (worn by ascetics &c.), <ls>Yājñ.</ls>; <ls>MBh.</ls> &c.<info lex="m:f#A:n"/>
+<L>188186<pc>928,1<k1>valkala<k2>valkala<e>2
+<s>valkala</s> ¦ <lex>m.</lex> <lex>n.</lex> (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>) the bark of a tree, a garment made of bark (worn by ascetics &c.), <ls>Yājñ.</ls>; <ls>MBh.</ls> &c.<info lex="m:f#A:n"/><info hui="a"/>
 <LEND>

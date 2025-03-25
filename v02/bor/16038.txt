@@ -1,11 +1,11 @@
 <L>16038<pc>493<k1>otherwise<k2>otherwise
-<div n="lb"/>{@OTHERWISE:@}¦ <div n="I">I Differently: {#anyaTA,#} <div n="xe">{%what%}
-<div n="lb"/>{%should not be done o.:%}</div> <div n="xs">{#nAnyaTA yadDi kartavyam,#}</div> Mah.
-<div n="lb"/>iii. 1. 34.; <div n="xe">{%if I speak o.:%}</div> <div n="xs">{#anyaTA ced bravImyaham,#}</div>
-<div n="lb"/>V. p. iv. 13. 60. </div><div n="I">II In other respects:
-<div n="lb"/>perh. {#anyaTA; anyAnya-#} <div n="xe">{%or%}</div> <div n="xs">{#aparAparavizayezu#}</div> (?).</div>
-<div n="lb"/><div n="I">III = or else: </div><div n="1">(1) {#na#} ({#no#}) {#cet,#} <div n="xe">{%o. I would%}
-<div n="lb"/>{%kill you:%}</div> <div n="xs">{#no cedDantavyo'si mayA,#}</div> H.; </div><div n="1">(2) {#viparIte#}
-<div n="lb"/>(= on the contrary), Mah. iii. 10. 36.;</div>
-<div n="lb"/><div n="1">(3) {#anyaTA,#} Da.</div>
+{@OTHERWISE:@}¦ <div n="I">I Differently: {#anyaTA,#} <div n="xe">{%what%}
+{%should not be done o.:%}</div> <div n="xs">{#nAnyaTA yadDi kartavyam,#}</div> Mah.
+iii. 1. 34.; <div n="xe">{%if I speak o.:%}</div> <div n="xs">{#anyaTA ced bravImyaham,#}</div>
+V. p. iv. 13. 60. </div><div n="I">II In other respects:
+perh. {#anyaTA; anyAnya-#} <div n="xe">{%or%}</div> <div n="xs">{#aparAparavizayezu#}</div> (?).</div>
+<div n="I">III = or else: </div><div n="1">(1) {#na#} ({#no#}) {#cet,#} <div n="xe">{%o. I would%}
+{%kill you:%}</div> <div n="xs">{#no cedDantavyo'si mayA,#}</div> H.; </div><div n="1">(2) {#viparIte#}
+(= on the contrary), Mah. iii. 10. 36.;</div>
+<div n="1">(3) {#anyaTA,#} Da.</div>
 <LEND>

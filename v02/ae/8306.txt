@@ -1,10 +1,10 @@
 <L>8306<pc>361<k1>prize<k2>prize
 {@Prize,@}¦ {%s.%} {#pAritozikaM, upAyanaM, pratiPalaM#}. {@2@}
-<div n="lb"/>{#ratnaM, bahumUlyaM vastu, mahArGadravyaM#}. {@3@} {#yudDajitaM#}
-<div n="lb"/>{#DanaM-dravyaM#}. {@4@} {#jaya#} or {#sidDi-PalaM#} or {#lABaH#}. {@5@}
-<div n="lb"/>{#sparDA-paRa-jeyaM, paRaH;#} ‘p.-fighter’ {#mallaH;#}
-<div n="lb"/>‘p.- fighting’ {#mallayudDaM, sparDAyudDaM#}. {%-v. t.%}
-<div n="lb"/>{#bahu man#} 4 A, {#avekzayA pA#} c. ({#pAlayati#}),
-<div n="lb"/>{#saMman#} c. {@2@} {#mUlyaM-arGaM-nirUp#} 10 or {#nirRI#}
-<div n="lb"/>1 P. {@-ed,@} {%a.%} {#bahumata, aBIpsita, izwa#}.
+{#ratnaM, bahumUlyaM vastu, mahArGadravyaM#}. {@3@} {#yudDajitaM#}
+{#DanaM-dravyaM#}. {@4@} {#jaya#} or {#sidDi-PalaM#} or {#lABaH#}. {@5@}
+{#sparDA-paRa-jeyaM, paRaH;#} ‘p.-fighter’ {#mallaH;#}
+‘p.- fighting’ {#mallayudDaM, sparDAyudDaM#}. {%-v. t.%}
+{#bahu man#} 4 A, {#avekzayA pA#} c. ({#pAlayati#}),
+{#saMman#} c. {@2@} {#mUlyaM-arGaM-nirUp#} 10 or {#nirRI#}
+1 P. {@-ed,@} {%a.%} {#bahumata, aBIpsita, izwa#}.
 <LEND>

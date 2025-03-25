@@ -1,13 +1,13 @@
 <L>30813<pc>3-0419<k1>trasa<k2>trasa
-{#trasa#}¦ (von 1. {#tras#}) 
-<div n="1"> 1) <lex>adj.</lex> {%was sich bewegt%} 
-<ls>AK. 3, 2, 23.</ls> 
-<ls>H. 1454.</ls> <lex>n.</lex> {%das Bewegliche, das Lebendige, die Thiere, Thiere und Menschen%} (im Gegens. zu {#sTAvara#}; vgl. {#jagat#}) 
-<ls>MATSYOP. 29.</ls> 
-<ls>MBH. 12, 261. 13, 1713.</ls> {#trasayonaya ityazwO#} 
-<ls>H. 1357.</ls> Hier werden {%Götter, Menschen%} und {%Bewohner der Unterwelt%} zu den {#trasa#} gezählt. Vgl. {#trAsa#} . 
-<div n="1">— 2) <lex>m.</lex> (!) {%das Herz (das Zitternde%}) 
-<ls>H. ś. 124.</ls> 
-<div n="1">— 3) <lex>n.</lex> {%Wald%} 
-<ls>TRIK. 2, 4, 1.</ls>
+{#trasa#}¦ (von 1. {#tras#})
+<div n="1"> 1) <lex>adj.</lex> {%was sich bewegt%}
+<ls>AK. 3,2,23.</ls>
+<ls>H. 1454.</ls> <lex>n.</lex> {%das Bewegliche, das Lebendige, die Thiere, Thiere und Menschen%} (im Gegens. zu {#sTAvara#}; vgl. {#jagat#})
+<ls>MATSYOP. 29.</ls>
+<ls>MBH. 12,261.</ls> <ls n="MBH.">13,1713.</ls> {#trasayonaya ityazwO#}
+<ls>H. 1357.</ls> Hier werden {%Götter, Menschen%} und {%Bewohner der Unterwelt%} zu den {#trasa#} gezählt. Vgl. {#trAsa#} .
+<div n="1">— 2) <lex>m.</lex> (!) {%das Herz (das Zitternde%})
+<ls>H. ś. 124.</ls>
+<div n="1">— 3) <lex>n.</lex> {%Wald%}
+<ls>TRIK. 2,4,1.</ls>
 <LEND>

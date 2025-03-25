@@ -1,8 +1,8 @@
 <L>142<pc>006<k1>accommodation<k2>accommodation
-<div n="lb"/>{@ACCOMMODATION:@}¦ <div n="I">I Adaptation: q. v.:
-<div n="lb"/>{#upayogitA.#} </div><div n="I">II Reconciliation: q. v. </div><div n="I">III
-<div n="lb"/>Conveniences: Ph.: <div n="xe">{%we received every a.%}
-<div n="lb"/>{%in the inn.%}</div> <div n="xs">{#sarvopakaraRAnyasmABiH paTikASrame samaDigatAni.#}</div></div>
-<div n="lb"/><div n="I">IV A loan of money: Ph. <div n="xe">{%a. bill%}</div> <div n="xs">{#*upakaraRa-#}
-<div n="lb"/>{#patram.#}</div></div>
+{@ACCOMMODATION:@}¦ <div n="I">I Adaptation: q. v.:
+{#upayogitA.#} </div><div n="I">II Reconciliation: q. v. </div><div n="I">III
+Conveniences: Ph.: <div n="xe">{%we received every a.%}
+{%in the inn.%}</div> <div n="xs">{#sarvopakaraRAnyasmABiH paTikASrame samaDigatAni.#}</div></div>
+<div n="I">IV A loan of money: Ph. <div n="xe">{%a. bill%}</div> <div n="xs">{#*upakaraRa-#}
+{#patram.#}</div></div>
 <LEND>

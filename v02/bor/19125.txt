@@ -1,10 +1,10 @@
 <L>19125<pc>592<k1>resolution<k2>resolution
-<div n="lb"/>{@RESOLUTION:@}¦ <div n="I">I Dissolution, analysis: {#viSleza-#}
-<div n="lb"/>{#Ram#} (?). </div><div n="I">II Solution, explanation: q. v.</div>
-<div n="lb"/><div n="I">III Firmness, constancy: q. v.: {#sTEryam.#}</div>
-<div n="lb"/><div n="I">IV Determination, resolve: </div><div n="1">(1) {#niScayaH,#} <div n="xe">{%it%}
-<div n="lb"/>{%is my firm r.:%}</div> <div n="xs">{#eza me sTiro niScayaH,#}</div> Mu. i.; </div><div n="1">(2)
-<div n="lb"/>{#sargaH#} (rare), {%take up arms if this is your r.:%}
-<div n="lb"/>{#gfhARa SastraM yadi sarga eza te,#} R. iii. 51.: </div><div n="I">V Deci-
-<div n="lb"/>-sion: {#nirRayaH.#}</div>
+{@RESOLUTION:@}¦ <div n="I">I Dissolution, analysis: {#viSleza-#}
+{#Ram#} (?). </div><div n="I">II Solution, explanation: q. v.</div>
+<div n="I">III Firmness, constancy: q. v.: {#sTEryam.#}</div>
+<div n="I">IV Determination, resolve: </div><div n="1">(1) {#niScayaH,#} <div n="xe">{%it%}
+{%is my firm r.:%}</div> <div n="xs">{#eza me sTiro niScayaH,#}</div> Mu. i.; </div><div n="1">(2)
+{#sargaH#} (rare), {%take up arms if this is your r.:%}
+{#gfhARa SastraM yadi sarga eza te,#} R. iii. 51.: </div><div n="I">V Deci-
+-sion: {#nirRayaH.#}</div>
 <LEND>

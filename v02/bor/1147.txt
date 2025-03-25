@@ -1,41 +1,41 @@
 <L>1147<pc>040<k1>as<k2>as
-<div n="lb"/>{@AS:@}¦ <div n="I">I As a particle of comparison: </div><div n="1">(1)
-<div n="lb"/>{#vat#} affixed, ({%he who looks on%}) {%other's wives as%}
-<div n="lb"/><div n="xe">{%mothers, on other's things as clods%}</div> <div n="xs">{#mAtfvat paradArezu #}
-<div n="lb"/>{# paradravyezu lozwravat,#}</div> <ls>H.</ls> i.; <div n="xe">{%as before%}</div> <div n="xs">{#pUrvavat;#}</div> </div><div n="1">(2) {#yaTA#}
-<div n="lb"/>(either in comp. to expr. {%sim. comparison,%}
-<div n="lb"/>{%or%} with {#taTA#} <div n="xe">{%or%}</div> <div n="xs">{#evaM#}</div> to expr. {%as......so......%}
-<div n="lb"/>also to introduce illustrations): {%as ordered%}
-<div n="lb"/>{#yaTAnideSaM;#} <div n="xe">{%as prescribed%}</div> <div n="xs">{#yaTAviDi;#}</div> {%as before%}
-<div n="lb"/>{#yaTApurA,#} Sa. vi.; <div n="xe">{%as eating is inferred from%}
-<div n="lb"/>{%nourishment or country from its language, so is%}
-<div n="lb"/>{%knowable inferred from knowledge,%}</div> <div n="xs">{#yaTA puzwayA #}
-<div n="lb"/>{# BojanamanumIyate yaTA ca BAzayA deSaH taTA jYAnAkAreRa #}
-<div n="lb"/>{# jYeyamanumeyam.#}</div> <ls>D.</ls> s. (see also R. iii. 23 and
-<div n="lb"/>notice the repetition of {#yaTA#} in such cases);
-<div n="lb"/><div n="xe">{%as animals attempt to fly away when they see%}
-<div n="lb"/>{%men with sticks, so....%}</div> <div n="xs">{#yaTA paSvAdayaH daRqodyatakaraM #}
-<div n="lb"/>{# purUzamaBimuKamupalaBya palAyitumAraBante evaM..#}</div> <ls>S.</ls> i. p.;
-<div n="lb"/><div n="xe">{%as for instance, fire is inferred from smoke%}</div> <div n="xs">{#yaTA #}
-<div n="lb"/>{# DUmenAgniriti,#}</div> N. d. {%As for instance:%} sometimes
-<div n="lb"/>expr. by {#taTAhiH#} <div n="xe">{%he, as a rule, enjoyed the pleasures%}
-<div n="lb"/>{%of youth as for instance, sometimes roamed over%}
-<div n="lb"/>{%artificial mountains, sometimes walked through%}
-<div n="lb"/>{%summer houses%}</div> <div n="xs">{#sa prAyaSo yOvanasuKamanubaBUva, taTAhi #}
-<div n="lb"/>{# kadAcit krIqAparvatezu vicacAra kadAcillatAgfhezu baBrAma,#}</div>
-<div n="lb"/><ls>K.</ls> </div><div n="I">II. While: expr. by the pres. part:
-<div n="lb"/><div n="xe">{%as he went, he thought%}</div> <div n="xs">{#vrajaMSca samarTayAmAsa,#}</div> <ls>K.</ls></div>
-<div n="lb"/><div n="I">III. Since, in as much as: q. v.: </div><div n="1">(1) by the
-<div n="lb"/>abl. and when the subs. ends in {#tA#} <div n="xe">{%or%}</div> <div n="xs">{#A#}</div> by
-<div n="lb"/>the ins.: {%as the motion of the vessels%} ({%at sea%})
-<div n="lb"/><div n="xe">{%depends on wind%}</div> <div n="xs">{#vAtADInapotagamanatvAt,#}</div> K. b.;
-<div n="lb"/><div n="xe">{%as there was much political work%}</div> <div n="xs">{#rAjakAryasya #}
-<div n="lb"/>{# bahulatayA#}</div> Sa. vi.; </div><div n="1">(2) {#yataH...tataH..#} Miscell:
-<div n="lb"/><div n="xe">{%as long as one lives%}</div> <div n="xs">{#yAvajjIvaM;#}</div> {%as far as the ocean%}
-<div n="lb"/>{#A samudrAt;#} <div n="xe">{%as high as the knee%}</div> <div n="xs">{#jAnudaGnaH#}</div> ({#GnA, GnaM#});
-<div n="lb"/><div n="xe">{%as yet%}</div> <div n="xs">{#adyApi.#}</div> N. B. {%as,%} when it connects two
-<div n="lb"/>subs. s in apposition is expr. by {#BUtvA#} <div n="xe">{%or%}</div> <div n="xs">{#kftvA:#}</div>
-<div n="lb"/><div n="xe">{%I will remain as your queen%}</div> <div n="xs">{#tava mahizI BUtvA tizWAmi;#}</div>
-<div n="lb"/><div n="xe">{%sent me to you as his agent%}</div> <div n="xs">{#mAM pratiniDiM kftvA #}
-<div n="lb"/>{# tvatsakASaM prerayAmAsa.#}</div></div>
+{@AS:@}¦ <div n="I">I As a particle of comparison: </div><div n="1">(1)
+{#vat#} affixed, ({%he who looks on%}) {%other's wives as%}
+<div n="xe">{%mothers, on other's things as clods%}</div> <div n="xs">{#mAtfvat paradArezu #}
+{# paradravyezu lozwravat,#}</div> <ls>H.</ls> i.; <div n="xe">{%as before%}</div> <div n="xs">{#pUrvavat;#}</div> </div><div n="1">(2) {#yaTA#}
+(either in comp. to expr. {%sim. comparison,%}
+{%or%} with {#taTA#} <div n="xe">{%or%}</div> <div n="xs">{#evaM#}</div> to expr. {%as......so......%}
+also to introduce illustrations): {%as ordered%}
+{#yaTAnideSaM;#} <div n="xe">{%as prescribed%}</div> <div n="xs">{#yaTAviDi;#}</div> {%as before%}
+{#yaTApurA,#} Sa. vi.; <div n="xe">{%as eating is inferred from%}
+{%nourishment or country from its language, so is%}
+{%knowable inferred from knowledge,%}</div> <div n="xs">{#yaTA puzwayA #}
+{# BojanamanumIyate yaTA ca BAzayA deSaH taTA jYAnAkAreRa #}
+{# jYeyamanumeyam.#}</div> <ls>D.</ls> s. (see also R. iii. 23 and
+notice the repetition of {#yaTA#} in such cases);
+<div n="xe">{%as animals attempt to fly away when they see%}
+{%men with sticks, so....%}</div> <div n="xs">{#yaTA paSvAdayaH daRqodyatakaraM #}
+{# purUzamaBimuKamupalaBya palAyitumAraBante evaM..#}</div> <ls>S.</ls> i. p.;
+<div n="xe">{%as for instance, fire is inferred from smoke%}</div> <div n="xs">{#yaTA #}
+{# DUmenAgniriti,#}</div> N. d. {%As for instance:%} sometimes
+expr. by {#taTAhiH#} <div n="xe">{%he, as a rule, enjoyed the pleasures%}
+{%of youth as for instance, sometimes roamed over%}
+{%artificial mountains, sometimes walked through%}
+{%summer houses%}</div> <div n="xs">{#sa prAyaSo yOvanasuKamanubaBUva, taTAhi #}
+{# kadAcit krIqAparvatezu vicacAra kadAcillatAgfhezu baBrAma,#}</div>
+<ls>K.</ls> </div><div n="I">II. While: expr. by the pres. part:
+<div n="xe">{%as he went, he thought%}</div> <div n="xs">{#vrajaMSca samarTayAmAsa,#}</div> <ls>K.</ls></div>
+<div n="I">III. Since, in as much as: q. v.: </div><div n="1">(1) by the
+abl. and when the subs. ends in {#tA#} <div n="xe">{%or%}</div> <div n="xs">{#A#}</div> by
+the ins.: {%as the motion of the vessels%} ({%at sea%})
+<div n="xe">{%depends on wind%}</div> <div n="xs">{#vAtADInapotagamanatvAt,#}</div> K. b.;
+<div n="xe">{%as there was much political work%}</div> <div n="xs">{#rAjakAryasya #}
+{# bahulatayA#}</div> Sa. vi.; </div><div n="1">(2) {#yataH...tataH..#} Miscell:
+<div n="xe">{%as long as one lives%}</div> <div n="xs">{#yAvajjIvaM;#}</div> {%as far as the ocean%}
+{#A samudrAt;#} <div n="xe">{%as high as the knee%}</div> <div n="xs">{#jAnudaGnaH#}</div> ({#GnA, GnaM#});
+<div n="xe">{%as yet%}</div> <div n="xs">{#adyApi.#}</div> N. B. {%as,%} when it connects two
+subs. s in apposition is expr. by {#BUtvA#} <div n="xe">{%or%}</div> <div n="xs">{#kftvA:#}</div>
+<div n="xe">{%I will remain as your queen%}</div> <div n="xs">{#tava mahizI BUtvA tizWAmi;#}</div>
+<div n="xe">{%sent me to you as his agent%}</div> <div n="xs">{#mAM pratiniDiM kftvA #}
+{# tvatsakASaM prerayAmAsa.#}</div></div>
 <LEND>

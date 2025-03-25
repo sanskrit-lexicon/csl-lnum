@@ -1,7 +1,7 @@
 <L>2507<pc>0321<k1>kas<k2>kas
-{@kas@}¦ mit {@úd,@} {%sich spalten, sich aufthun;%} mit {@ví,@} {%sich spalten.%}
+{@√kas@}¦ mit {@úd,@} {%sich spalten, sich aufthun;%} mit {@ví,@} {%sich spalten%}.
 <div n="H">Stamm {@kasa:@}
-<div n="P1">-antu {@úd@} {AV. 11,9,21}.
-<div n="H"><ab>Part.</ab> {@II. kasta:@}
-<div n="P1">-am {@ví@} {117,24} śyā́vam (trídhā víkastam).
+<div n="TS">-antu {@úd@} <ls>AV. 11,9,21</ls>.
+<div n="H"><ab>Part.</ab> II. {@kasta:@}
+<div n="TS">-am {@ví@} {117,24} śyā́vam (trídhā víkastam).
 <LEND>

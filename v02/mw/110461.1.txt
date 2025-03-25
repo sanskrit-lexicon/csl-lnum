@@ -1,3 +1,3 @@
-<L>110461.1<pc>560,2<k1>niSam<k2>niSam<h>a<e>2C
-<s>niSam</s> <hom>a</hom> ¦ <lex>ind.</lex><info phwparent="110461,niSa"/><info lex="ind"/>
+<L>110461.1<pc>560,2<k1>niSam<k2>niSam<e>2C
+<s>niSam</s> ¦ <lex>ind.</lex><info phwparent="110461,niSa"/><info lex="ind"/><info hui="a"/>
 <LEND>

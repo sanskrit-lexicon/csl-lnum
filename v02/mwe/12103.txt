@@ -1,9 +1,9 @@
 <L>12103<pc>292-b<k1>friend<k2>friend
-<div n="lb"/>FRIEND¦, {%s.%} {#mitraM, suhft#} {%m.%} {#(d), saKA#} {%m.%} {#(Ki), banDuH#} {%m.,%} {#vayasyaH, snigDaH,#}
-<div n="lb"/>{#snehI#} {%m.%} {#(n), bAnDavaH, sahAyaH, anurAgI#} {%m.%} {#(n), praRayI#} {%m.%} {#(n),#}
-<div n="lb"/>{#suhfttamaH, hitaH, hitakArI#} {%m.%} {#(n), priyakft#} {%m.,%} {#sajUH#} {%m.%} {#(s), anukUlaH,#}
-<div n="lb"/>{#viBAvaH, kelikaraH, saNgI#} {%m.%} {#(n), AryyaH;#} ‘friend of the same
-<div n="lb"/>age,’ {#savayAH#} {%m.%} {#(s), vayasyaH;#} ‘female friend,’ {#saKI#} {%f.;%} ‘an
-<div n="lb"/>old friend,’ {#ciramitraM;#} ‘a true friend,’ {#sanmitraM;#} ‘my friend,’
-<div n="lb"/>{#saKe#} voc. c. {%m.,%} {#saKi#} voc. c. {%f.%}
+FRIEND¦, {%s.%} {#mitraM, suhft#} {%m.%} {#(d), saKA#} {%m.%} {#(Ki), banDuH#} {%m.,%} {#vayasyaH, snigDaH,#}
+{#snehI#} {%m.%} {#(n), bAnDavaH, sahAyaH, anurAgI#} {%m.%} {#(n), praRayI#} {%m.%} {#(n),#}
+{#suhfttamaH, hitaH, hitakArI#} {%m.%} {#(n), priyakft#} {%m.,%} {#sajUH#} {%m.%} {#(s), anukUlaH,#}
+{#viBAvaH, kelikaraH, saNgI#} {%m.%} {#(n), AryyaH;#} ‘friend of the same
+age,’ {#savayAH#} {%m.%} {#(s), vayasyaH;#} ‘female friend,’ {#saKI#} {%f.;%} ‘an
+old friend,’ {#ciramitraM;#} ‘a true friend,’ {#sanmitraM;#} ‘my friend,’
+{#saKe#} voc. c. {%m.,%} {#saKi#} voc. c. {%f.%}
 <LEND>

@@ -1,12 +1,12 @@
 <L>503<pc>019<k1>air<k2>air
-<div n="lb"/>{@AIR@}¦ (subs): <div n="I">I The atmosphere: </div><div n="1">(1) {#vAyuH;#}</div>
-<div n="lb"/><div n="1">(2) {#marut;#} </div><div n="1">(3) {#mAtariSvan#} (m). </div><div n="I">II The space
-<div n="lb"/>occupied by air: </div><div n="1">(1) {#vAyuvartman;#} </div><div n="1">(2) {#vyoman#}
-<div n="lb"/>(n.): v. Sky. </div><div n="I">III Air in motion: </div><div n="1">(1)
-<div n="lb"/>{#vAyuH;#} </div><div n="1">(2) {#pavanaH;#} </div><div n="1">(3) {#anilaH;#} </div><div n="1">(4) {#vAtaH;#} </div><div n="1">(5)
-<div n="lb"/>{#samIraRaH;#} </div><div n="1">(6) {#ganDavahaH.#} Ph. <div n="xe">{%for taking a.%}</div> <div n="xs">{#vAyu-#}
-<div n="lb"/>{#sevanArTam;#}</div> <div n="xe">{%the vital a.%}</div> <div n="xs">{#prARaH#}</div> </div><div n="I">IV Manner, mien,
-<div n="lb"/>look: q. v.: {#AkftiH#} </div><div n="I">V A tune or melody:
-<div n="lb"/>q. v.: {#rAgaH,#} Ph.: {%to take a.:%} i. e. to get
-<div n="lb"/>abroad: q. v.: {#bahulIBavati.#}</div>
+{@AIR@}¦ (subs): <div n="I">I The atmosphere: </div><div n="1">(1) {#vAyuH;#}</div>
+<div n="1">(2) {#marut;#} </div><div n="1">(3) {#mAtariSvan#} (m). </div><div n="I">II The space
+occupied by air: </div><div n="1">(1) {#vAyuvartman;#} </div><div n="1">(2) {#vyoman#}
+(n.): v. Sky. </div><div n="I">III Air in motion: </div><div n="1">(1)
+{#vAyuH;#} </div><div n="1">(2) {#pavanaH;#} </div><div n="1">(3) {#anilaH;#} </div><div n="1">(4) {#vAtaH;#} </div><div n="1">(5)
+{#samIraRaH;#} </div><div n="1">(6) {#ganDavahaH.#} Ph. <div n="xe">{%for taking a.%}</div> <div n="xs">{#vAyu-#}
+{#sevanArTam;#}</div> <div n="xe">{%the vital a.%}</div> <div n="xs">{#prARaH#}</div> </div><div n="I">IV Manner, mien,
+look: q. v.: {#AkftiH#} </div><div n="I">V A tune or melody:
+q. v.: {#rAgaH,#} Ph.: {%to take a.:%} i. e. to get
+abroad: q. v.: {#bahulIBavati.#}</div>
 <LEND>

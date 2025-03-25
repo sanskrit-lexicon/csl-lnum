@@ -1,6 +1,6 @@
 <L>13328<pc>411<k1>leader<k2>leader
-<div n="lb"/>{@LEADER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#netf#} (m.), {%l. of armies:%}
-<div n="lb"/>{#netA camUnAm,#} <ls>R.</ls> : v. Commander; </div><div n="1">(2) {#nAyakaH,#}
-<div n="lb"/><div n="xe">{%l. of sailors:%}</div> <div n="xs">{#nAvikanAyakaH,#}</div> <ls>D.</ls> : v. Chief. </div><div n="I">II A
-<div n="lb"/>leading article: {#*muKyaprabanDaH.#}</div>
+{@LEADER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#netf#} (m.), {%l. of armies:%}
+{#netA camUnAm,#} <ls>R.</ls> : v. Commander; </div><div n="1">(2) {#nAyakaH,#}
+<div n="xe">{%l. of sailors:%}</div> <div n="xs">{#nAvikanAyakaH,#}</div> <ls>D.</ls> : v. Chief. </div><div n="I">II A
+leading article: {#*muKyaprabanDaH.#}</div>
 <LEND>

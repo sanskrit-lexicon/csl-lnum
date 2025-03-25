@@ -1,6 +1,6 @@
 <L>7569<pc>239<k1>endurance<k2>endurance
-<div n="lb"/>{@ENDURANCE:@}¦ <div n="I">I The habit of enduring:
-<div n="lb"/>{#sahizRutA, pra-,#} <div n="xe">{%e. of troubles:%}</div> <div n="xs">{#kleSasahizRutA,#}</div> Ka.</div>
-<div n="lb"/><div n="I">II The act of e.: </div><div n="1">(1) {#sahanam;#} </div><div n="1">(2) {#marzaH, Ram-.#}</div>
-<div n="lb"/><div n="I">III Lastingness: {#sTAyitvam.#}</div>
+{@ENDURANCE:@}¦ <div n="I">I The habit of enduring:
+{#sahizRutA, pra-,#} <div n="xe">{%e. of troubles:%}</div> <div n="xs">{#kleSasahizRutA,#}</div> Ka.</div>
+<div n="I">II The act of e.: </div><div n="1">(1) {#sahanam;#} </div><div n="1">(2) {#marzaH, Ram-.#}</div>
+<div n="I">III Lastingness: {#sTAyitvam.#}</div>
 <LEND>

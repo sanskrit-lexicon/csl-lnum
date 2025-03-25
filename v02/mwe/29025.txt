@@ -1,5 +1,5 @@
 <L>29025<pc>793-b<k1>symptom<k2>symptom
-<div n="lb"/>SYMPTOM¦, {%s.%} {#lakzaRaM, pUrvvalakzaRaM, cihnaM, pUrvvacihnaM, sUcanA, prajYAnaM, kAntAraM#}
-<div n="lb"/>{%see%} INDICATION, SIGN; ‘of disease,’ {#rogalakzaRaM, lakzaRaM, vimU-#}
-<div n="lb"/>{#cikA;#} ‘secondary symptom,’ {#anubanDaH#}.
+SYMPTOM¦, {%s.%} {#lakzaRaM, pUrvvalakzaRaM, cihnaM, pUrvvacihnaM, sUcanA, prajYAnaM, kAntAraM#}
+{%see%} INDICATION, SIGN; ‘of disease,’ {#rogalakzaRaM, lakzaRaM, vimU-#}
+{#cikA;#} ‘secondary symptom,’ {#anubanDaH#}.
 <LEND>

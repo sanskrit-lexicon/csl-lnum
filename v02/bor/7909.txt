@@ -1,6 +1,6 @@
 <L>7909<pc>250<k1>evening<k2>evening
-<div n="lb"/>{@EVENING@}¦ (adj.): <div n="1">(1) {#sAyantanaH#} ({#nI, naM#}); </div><div n="1">(2)
-<div n="lb"/>{#prAdozikaH#} ({#kI, kaM#}); </div><div n="1">(3) {#sAyaMkAlInaH#} ({#nA, naM#});</div>
-<div n="lb"/><div n="1">(4) {#sAnDyaH#} (f. {#nDyA#}); </div><div n="1">(5) {#vEkAlikaH#} ({#kI, kaM#});</div>
-<div n="lb"/><div n="1">(6) by tat. comp. <div n="xe">{%The e. star:%}</div> <div n="xs">{#*pradozatArA.#}</div></div>
+{@EVENING@}¦ (adj.): <div n="1">(1) {#sAyantanaH#} ({#nI, naM#}); </div><div n="1">(2)
+{#prAdozikaH#} ({#kI, kaM#}); </div><div n="1">(3) {#sAyaMkAlInaH#} ({#nA, naM#});</div>
+<div n="1">(4) {#sAnDyaH#} (f. {#nDyA#}); </div><div n="1">(5) {#vEkAlikaH#} ({#kI, kaM#});</div>
+<div n="1">(6) by tat. comp. <div n="xe">{%The e. star:%}</div> <div n="xs">{#*pradozatArA.#}</div></div>
 <LEND>

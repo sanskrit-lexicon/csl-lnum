@@ -1,7 +1,7 @@
 <L>22528<pc>595-a<k1>pitcher<k2>pitcher
-<div n="lb"/>PITCHER¦, {%s.%} {#kumBaH, kalaSaH -SI -SaM, GawaH, kuRqaH -RqI -RqikA, udakapAtraM,#}
-<div n="lb"/>{#udapAtraM, jalapAtraM, udakaBARqaM, mftpAtraM, mfdBARqaM -RqakaM, mftkAMSyaM, mfdBAjanaM,#}
-<div n="lb"/>{#mfRmayapAtraM, jalaBAjanaM, mftsnABARqakaM, AluH#} {%f.,%} {#AruH#} {%m.,%} {#puwagrIvaH,#}
-<div n="lb"/>{#maRikaM, karkarI, aliYjaraH, galantikA;#} ‘half of a broken pitcher,’
-<div n="lb"/>{#kapAlaH -laM;#} ‘bottom of a pitcher,’ {#sUryyagrahaH#}.
+PITCHER¦, {%s.%} {#kumBaH, kalaSaH -SI -SaM, GawaH, kuRqaH -RqI -RqikA, udakapAtraM,#}
+{#udapAtraM, jalapAtraM, udakaBARqaM, mftpAtraM, mfdBARqaM -RqakaM, mftkAMSyaM, mfdBAjanaM,#}
+{#mfRmayapAtraM, jalaBAjanaM, mftsnABARqakaM, AluH#} {%f.,%} {#AruH#} {%m.,%} {#puwagrIvaH,#}
+{#maRikaM, karkarI, aliYjaraH, galantikA;#} ‘half of a broken pitcher,’
+{#kapAlaH -laM;#} ‘bottom of a pitcher,’ {#sUryyagrahaH#}.
 <LEND>

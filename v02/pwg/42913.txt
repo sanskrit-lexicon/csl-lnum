@@ -1,18 +1,17 @@
 <L>42913<pc>4-0534<k1>paripAlana<k2>paripAlana
-{#paripAlana#}¦ (wie eben) <lex>n.</lex> {%das Behüten, Beschützen, Bewahren, Erhalten, Aufrechterhalten%}: {#utpAdanamapatyasya jAtasya paripAlanam#} 
-<ls>M. 9, 27.</ls> {#prajAnAm#} 
-<ls>YĀJÑ. 1, 119. 334.</ls> 
-<ls>MBH. 1, 838. 3503. 2, 523. 5, 345. 14, 1025. 1027. 2747.</ls> 
-<ls>R. 2, 23, 27. 105, 30.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 56, 11.</ls> 
-<ls>RĀJA-TAR. 5, 481.</ls> 
-<ls>DEV. 4, 3. 12, 32.</ls> {#svagozWI°#} 
-<ls>Verz. d. Oxf. H. 25,a, N. 2.</ls> {#labDa°#} 
-<ls>Spr. 582.</ls> {#tvatsatya°#} 
-<ls>R. GORR. 2, 35, 46.</ls> {#pratijYA°#} 
-<ls>?6, 85, 9. VP. bei MUIR, Sanskrit Texts I, 181, 1 v. u.</ls> {#AcAra°#} 
-<ls>MĀRK. P. 34, 6.</ls> {#svalokadarSananimitta°#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 248.</ls> {#parayaSaH°#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 7, 43.</ls>
+{#paripAlana#}¦ (wie eben) <lex>n.</lex> {%das Behüten, Beschützen, Bewahren, Erhalten, Aufrechterhalten%}: {#utpAdanamapatyasya jAtasya paripAlanam#}
+<ls>M. 9,27.</ls> {#prajAnAm#}
+<ls>YĀJÑ. 1,119. 334.</ls>
+<ls>MBH. 1,838.</ls> <ls n="MBH. 1,">3503.</ls> <ls n="MBH.">2,523.</ls> <ls n="MBH.">5,345.</ls> <ls n="MBH.">14,1025.</ls> <ls n="MBH. 14,">1027.</ls> <ls n="MBH. 14,">2747.</ls>
+<ls>R. 2,23,27.</ls> <ls n="R. 2,">105,30.</ls>
+<ls>R. GORR. 1,56,11.</ls>
+<ls>RĀJA-TAR. 5,481.</ls>
+<ls>DEV. 4,3. 12,32.</ls> {#svagozWI°#}
+<ls>Verz. d. Oxf. H. 25,a, N. 2.</ls> {#labDa°#}
+<ls>Spr. 582.</ls> {#tvatsatya°#}
+<ls>R. GORR. 2,35,46.</ls> {#pratijYA°#}
+<ls n="R. GORR.">6,85,9.</ls> <ls>VP.</ls> bei <ls>MUIR, Sanskrit Texts I,181,1</ls> v. u. {#AcAra°#}
+<ls>MĀRK. P. 34,6.</ls> {#svalokadarSananimitta°#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 248.</ls> {#parayaSaH°#} Inschr. in
+<ls>Journ. of the Am. Or. S. 7,43.</ls>
 <LEND>

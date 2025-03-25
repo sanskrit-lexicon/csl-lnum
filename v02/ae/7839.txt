@@ -1,13 +1,13 @@
 <L>7839<pc>338<k1>period<k2>period
 {@Period,@}¦ {%s.%} {#samayaH, kAlaH, velA, kAlAvaDiH,#}
-<div n="lb"/>{#aMtaraM, avaDiH, niyatakAlaH#}. {@2@} {#kAlacakraM-#}
-<div n="lb"/>{#-paryAyaH-AvartaH, varzacakraM, yugaM#}. {@3@} {#aMtaH, ava-#}
-<div n="lb"/>{#-sAnaM, virAmaH#}. {@4@} {#pUrRavAkyaM, vAkyoccayaH,#}
-<div n="lb"/>{#pUrRavirAmaH;#} ‘p. of life’ {#vayaH, vayovasTA;#}
-<div n="lb"/>‘last p.’ {#caramavayaH, aMtyAvasTA#}. {@-ic, -ical,@}
-<div n="lb"/>{%a.%} {#nitya, anukAlika-niyatakAlika-sAma-#}
-<div n="lb"/>{#-yika#}-({#kI#} {%f.%}). {%-s.%} {#sAmayikapustakaM;#} ‘a
-<div n="lb"/>monthly p.’ {#mAsikapustakaM#}. {@-ically,@}
-<div n="lb"/>{%adv.%} {#kAle kAle, samayataH, kAlAnurUpaM#}.
-<div n="lb"/>{#niyatakAle#}.
+{#aMtaraM, avaDiH, niyatakAlaH#}. {@2@} {#kAlacakraM-#}
+{#-paryAyaH-AvartaH, varzacakraM, yugaM#}. {@3@} {#aMtaH, ava-#}
+{#-sAnaM, virAmaH#}. {@4@} {#pUrRavAkyaM, vAkyoccayaH,#}
+{#pUrRavirAmaH;#} ‘p. of life’ {#vayaH, vayovasTA;#}
+‘last p.’ {#caramavayaH, aMtyAvasTA#}. {@-ic, -ical,@}
+{%a.%} {#nitya, anukAlika-niyatakAlika-sAma-#}
+{#-yika#}-({#kI#} {%f.%}). {%-s.%} {#sAmayikapustakaM;#} ‘a
+monthly p.’ {#mAsikapustakaM#}. {@-ically,@}
+{%adv.%} {#kAle kAle, samayataH, kAlAnurUpaM#}.
+{#niyatakAle#}.
 <LEND>

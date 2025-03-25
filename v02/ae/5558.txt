@@ -1,6 +1,6 @@
 <L>5558<pc>230<k1>inquisitor<k2>inquisitor
 {@Inquisitor,@}¦ {%s.%} {#parIkzakaH, vicArakaH, nirUpakaH#}.
-<div n="lb"/>{@2@} {#DarmavicArasaBAsad#} {%m.%} {@-ial,@} {%a.%} {#atiparI-#}
-<div n="lb"/>{#-kzakanirUpaka, aticarcaka#}. {@-ially,@} {%adv.%}
-<div n="lb"/>{#aticarcayA, atiparIkzApUrvaM#}.
+{@2@} {#DarmavicArasaBAsad#} {%m.%} {@-ial,@} {%a.%} {#atiparI-#}
+{#-kzakanirUpaka, aticarcaka#}. {@-ially,@} {%adv.%}
+{#aticarcayA, atiparIkzApUrvaM#}.
 <LEND>

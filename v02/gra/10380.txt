@@ -1,9 +1,9 @@
 <L>10380<pc>1622<k1>svatavas<k2>sva/-tavas
-{@svá-tavas,@}¦ a., {%durch sich selbst stark, urkräftig%} <lbinfo n="9"/> [<ab>vgl.</ab> tavás].
-<div n="P1">-as [V.] (indra) {463,6}.
-<div n="P1">-ān [<ab>N.</ab> <ab>s.</ab> <ab>m.</ab>] … pāyús {298,6} (Prāt. 297); giris <lbinfo n="3"/> ná yás … ṛṣvás índras {316,6}.
-<div n="P1">-as [<ab>N.</ab> <ab>n.</ab>] mánas {159,2}.
-<div n="P1">-ase mā́rutāya {507,9}; sómāya {723,4}.
-<div n="P1">-asas [V.p.] marutas {575,11}.
-<div n="P1">-asas [<ab>N.</ab> <ab>p.</ab>] (marútas) {64,7} (giráyas ná); {85,7}; {166,2}; {168,2}; (aśvinau <lbinfo n="6"/> pūṣā́) {186,10}.
+{@svá-tavas,@}¦ <ab>a.</ab>, {%durch sich selbst stark, urkräftig%} [<ab>vgl.</ab> tavás].
+<div n="TS">-as [<ab>V.</ab>] (indra) {463,6}.
+<div n="TS">-ān [<ab>N.</ab> <ab>s.</ab> <ab>m.</ab>] 〰 pāyús {298,6} (<ls>Prāt. 〔297〕</ls>); giris ná yás 〰 ṛṣvás índras {316,6}.
+<div n="TS">-as [<ab>N.</ab> <ab>n.</ab>] mánas {159,2}.
+<div n="TS">-ase mā́rutāya {507,9}; sómāya {723,4}.
+<div n="TS">-asas [<ab>V.</ab> <ab>p.</ab>] marutas {575,11}.
+<div n="TS">-asas [<ab>N.</ab> <ab>p.</ab>] (marútas) {64,7} (giráyas ná); {85,7}; {166,2}; {168,2}; (aśvinau pūṣā́) {186,10}.
 <LEND>

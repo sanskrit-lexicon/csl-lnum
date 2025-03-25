@@ -1,5 +1,5 @@
 <L>7340<pc>232<k1>electricity<k2>electricity
-<div n="lb"/>{@ELECTRICITY:@}¦ <div n="1">(1) {#taqit#} (f.), {%the science of e.:%}
-<div n="lb"/>{#*taqidvijYAnam;#} </div><div n="1">(2) {#vidyut#} (f.), {%atmospheric e.:%}
-<div n="lb"/>{#*vAyavavidyut.#}</div>
+{@ELECTRICITY:@}¦ <div n="1">(1) {#taqit#} (f.), {%the science of e.:%}
+{#*taqidvijYAnam;#} </div><div n="1">(2) {#vidyut#} (f.), {%atmospheric e.:%}
+{#*vAyavavidyut.#}</div>
 <LEND>

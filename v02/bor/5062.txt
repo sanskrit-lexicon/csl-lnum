@@ -1,6 +1,6 @@
 <L>5062<pc>163<k1>crest<k2>crest
-<div n="lb"/>{@CREST:@}¦ <div n="I">I Of animals: </div><div n="1">(1) {#cUqA;#} </div><div n="1">(2) {#SiKA.#} </div><div n="I">II
-<div n="lb"/>Of a helmet: </div><div n="1">(1) {#SiKA;#} </div><div n="1">(2) {#cUqA;#} </div><div n="1">(3) {#SeKaraH.#}</div>
-<div n="lb"/><div n="I">III Of a mountain: </div><div n="1">(1) {#cUqA;#} </div><div n="1">(2) {#SiKaraH:#}
-<div n="lb"/>v. Summit.</div>
+{@CREST:@}¦ <div n="I">I Of animals: </div><div n="1">(1) {#cUqA;#} </div><div n="1">(2) {#SiKA.#} </div><div n="I">II
+Of a helmet: </div><div n="1">(1) {#SiKA;#} </div><div n="1">(2) {#cUqA;#} </div><div n="1">(3) {#SeKaraH.#}</div>
+<div n="I">III Of a mountain: </div><div n="1">(1) {#cUqA;#} </div><div n="1">(2) {#SiKaraH:#}
+v. Summit.</div>
 <LEND>

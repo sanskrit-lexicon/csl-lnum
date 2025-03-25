@@ -1,14 +1,12 @@
 <L>43579<pc>4-0582<k1>paryezaRa<k2>paryezaRa
-{#paryezaRa#}¦ (von {#iz#} oder {#ez#} mit {#pari#}) <lex>n.</lex> und {#°RA#} <lex>f.</lex> (=  {#parIzwi#} 
-<ls>P. 3, 3, 107, <is>Vārtt</is>. 3,</ls> 
-<ls>Sch.</ls>) 
-<div n="1"> 1) <lex>n.</lex> {%das Suchen, Nachforschen%} 
-<ls>VYUTP. 26. 169.</ls> {#sItA°#} 
-<ls>MBH. 3, 16213.</ls> {#nAsya paryezaRaM gacCetprAcInaM nota dakziRam#} 
-<ls>5, 1677. 1678.</ls> {#brAhmaRezu meDAvI budDiparyezaRaM caret#} 
-<ls>3, 981.</ls> {#paryezaRA#} <lex>f.</lex> 
-<ls>AK. 2, 7, 31.</ls> 
-<div n="1">— 2) <lex>f.</lex> {%das Dienen, Aufwarten%} 
-<ls>H. 497,</ls> 
-<ls>Sch.</ls>
+{#paryezaRa#}¦ (von {#iz#} oder {#ez#} mit {#pari#}) <lex>n.</lex> und {#°RA#} <lex>f.</lex> (= {#parIzwi#}
+<ls>P. 3,3,107</ls>, <is>Vārtt</is>. 3, <ls>Sch.</ls>)
+<div n="1"> 1) <lex>n.</lex> {%das Suchen, Nachforschen%}
+<ls>VYUTP. 26. 169.</ls> {#sItA°#}
+<ls>MBH. 3,16213.</ls> {#nAsya paryezaRaM gacCetprAcInaM nota dakziRam#}
+<ls n="MBH.">5,1677.</ls> <ls n="MBH. 5,">1678.</ls> {#brAhmaRezu meDAvI budDiparyezaRaM caret#}
+<ls n="MBH.">3,981.</ls> {#paryezaRA#} <lex>f.</lex>
+<ls>AK. 2,7,31.</ls>
+<div n="1">— 2) <lex>f.</lex> {%das Dienen, Aufwarten%}
+<ls>H. 497</ls>, <ls>Sch.</ls>
 <LEND>

@@ -1,8 +1,8 @@
 <L>10734<pc>338<k1>headache<k2>headache
-<div n="lb"/>{@HEADACHE:@}¦ <div n="1">(1) {#SirovedanA, SiraHpIqA,#} and sim.
-<div n="lb"/>comp.s., <div n="xe">{%violent h.:%}</div> <div n="xs">{#prabalA SirovedanA,#}</div> K.; <div n="xe">{%I have%}
-<div n="lb"/>{%got h. by looking into this picture:%}</div> <div n="xs">{#maBedaM citraM #}
-<div n="lb"/>{# paSyantyAH SIrzavedanA samutpannA,#}</div> Ra. ii.; </div><div n="1">(2) {#SiraHSUlam,#}
-<div n="lb"/>(rare), D.; </div><div n="1">(3) {#SirorogaH#} (= any disease of
-<div n="lb"/>the head).</div>
+{@HEADACHE:@}¦ <div n="1">(1) {#SirovedanA, SiraHpIqA,#} and sim.
+comp.s., <div n="xe">{%violent h.:%}</div> <div n="xs">{#prabalA SirovedanA,#}</div> K.; <div n="xe">{%I have%}
+{%got h. by looking into this picture:%}</div> <div n="xs">{#maBedaM citraM #}
+{# paSyantyAH SIrzavedanA samutpannA,#}</div> Ra. ii.; </div><div n="1">(2) {#SiraHSUlam,#}
+(rare), D.; </div><div n="1">(3) {#SirorogaH#} (= any disease of
+the head).</div>
 <LEND>

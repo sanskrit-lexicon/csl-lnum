@@ -1,8 +1,8 @@
 <L>9673<pc>435<k1>sonorous<k2>sonorous
 {@Sonorous,@}¦ {%a.%} {#maDura, maMjula#}. {@2@} {#vyakta, spazwa,#}
-<div n="lb"/>{#parisPuwa, vyaktavarRa#}. {@3@} {#virAvin, ucca, mu-#}
-<div n="lb"/>{#-Kara, Sabdana, GozaRa, Sabd-Dvani-kara#} ({#rI#} {%f.%}),
-<div n="lb"/>{@-ly,@} {%adv.%} {#maDuraM, spazwaM; uccEH; mahASabdena#}.
-<div n="lb"/>{@-ness,@} {%s.%} {#mADuryaM, spazwatA, uccattA#}.
-<div n="lb"/>{#muKaratA#}.
+{#parisPuwa, vyaktavarRa#}. {@3@} {#virAvin, ucca, mu-#}
+{#-Kara, Sabdana, GozaRa, Sabd-Dvani-kara#} ({#rI#} {%f.%}),
+{@-ly,@} {%adv.%} {#maDuraM, spazwaM; uccEH; mahASabdena#}.
+{@-ness,@} {%s.%} {#mADuryaM, spazwatA, uccattA#}.
+{#muKaratA#}.
 <LEND>

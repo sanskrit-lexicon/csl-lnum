@@ -1,12 +1,12 @@
 <L>1030<pc>035<k1>birth<k2>birth
 {@Birth,@}¦ {%s.%} {#janman#} {%n.,%} {#udBavaH, saMBavaH, utpatti#} {%f.,%}
-<div n="lb"/>{#jani#} {%f.,%} {#utpAdanaM, prasUti#} {%f.;%} ‘rich from his
-<div n="lb"/>b.’ {#garBeSvaraH;#} ‘high or noble b.’ {#kulaM, ku-#}
-<div n="lb"/>{#-lInatA, aBijAtatA, aBijanaH, kule janma#}. {@2@}
-<div n="lb"/>{#vaMSaH, kulaM, anvayaH#}. {@3@} {#yoni#} {%f.,%} {#mUlaM;#} ‘pride
-<div n="lb"/>of b.’ {#kulABimAnaH;#} ‘blind from b.’
-<div n="lb"/>{#jAtyaMDa, janmAMDa, januzAMDa#}. {@-day,@} {%s.%} {#janma-#}
-<div n="lb"/>{#-divasaH-dinaM#}. {@-place,@} {%s.%} {#janmasTAnaM-BUmi#} {%f.%}
-<div n="lb"/>{@-right,@} {%s.%} {#janmato labDoDikAraH; pEtfkaM#}
-<div n="lb"/>{#svatvaM#}.
+{#jani#} {%f.,%} {#utpAdanaM, prasUti#} {%f.;%} ‘rich from his
+b.’ {#garBeSvaraH;#} ‘high or noble b.’ {#kulaM, ku-#}
+{#-lInatA, aBijAtatA, aBijanaH, kule janma#}. {@2@}
+{#vaMSaH, kulaM, anvayaH#}. {@3@} {#yoni#} {%f.,%} {#mUlaM;#} ‘pride
+of b.’ {#kulABimAnaH;#} ‘blind from b.’
+{#jAtyaMDa, janmAMDa, januzAMDa#}. {@-day,@} {%s.%} {#janma-#}
+{#-divasaH-dinaM#}. {@-place,@} {%s.%} {#janmasTAnaM-BUmi#} {%f.%}
+{@-right,@} {%s.%} {#janmato labDoDikAraH; pEtfkaM#}
+{#svatvaM#}.
 <LEND>

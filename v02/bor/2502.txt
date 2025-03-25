@@ -1,8 +1,8 @@
 <L>2502<pc>085<k1>breach<k2>breach
-<div n="lb"/>{@BREACH:@}¦ <div n="I">I Fracture: q. v. </div><div n="I">II A gap made
-<div n="lb"/>by breaking: </div><div n="1">(1) {#Cidram;#} </div><div n="1">(2) {#ranDram#} </div><div n="I">III Vio-
-<div n="lb"/>-lation: q. v.: Ph. <div n="xe">{%b. of peace%}</div> <div n="xs">{#SAntiBaNgaH#}</div> (?);
-<div n="lb"/><div n="xe">{%b. of promise%}</div> <div n="xs">{#pratijYABaNgaH;#}</div> <div n="xe">{%b. of agreement%}</div> <div n="xs">{#samaya-#}
-<div n="lb"/>{#BedaH;#}</div> <div n="xe">{%b. of faith%}</div> <div n="xs">{#viSvAsaGAtaH.#}</div> </div><div n="I">IV. B. of union:
-<div n="lb"/>{#BedaH;#} <div n="xe">{%a b. between friends%}</div> <div n="xs">{#suhfdBedaH.#}</div></div>
+{@BREACH:@}¦ <div n="I">I Fracture: q. v. </div><div n="I">II A gap made
+by breaking: </div><div n="1">(1) {#Cidram;#} </div><div n="1">(2) {#ranDram#} </div><div n="I">III Vio-
+-lation: q. v.: Ph. <div n="xe">{%b. of peace%}</div> <div n="xs">{#SAntiBaNgaH#}</div> (?);
+<div n="xe">{%b. of promise%}</div> <div n="xs">{#pratijYABaNgaH;#}</div> <div n="xe">{%b. of agreement%}</div> <div n="xs">{#samaya-#}
+{#BedaH;#}</div> <div n="xe">{%b. of faith%}</div> <div n="xs">{#viSvAsaGAtaH.#}</div> </div><div n="I">IV. B. of union:
+{#BedaH;#} <div n="xe">{%a b. between friends%}</div> <div n="xs">{#suhfdBedaH.#}</div></div>
 <LEND>

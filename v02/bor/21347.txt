@@ -1,10 +1,10 @@
 <L>21347<pc>672<k1>stand<k2>stand
-<div n="lb"/>{@STAND@}¦ (subs.): <div n="I">I Stopping, s. still: <div n="xe">{%to bring%}
-<div n="lb"/>{%to a s.:%}</div> <div n="xs">{#stamBayati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#staBnAti:#}</div> v. To stop; <div n="xe">{%to%}
-<div n="lb"/>{%come to s.:%}</div> <div n="xs">{#stabDIBavati,#}</div> <div n="xe">{%to be at s.:%}</div> <div n="xs">{#stabDa#}</div> (f.
-<div n="lb"/>{#bDA#}), {#ni-, nis-.#} Ph.: {%to make a s. against:%}
-<div n="lb"/>{#pratIpayati#} (nomi.): v. To oppose. </div><div n="I">II Plat-
-<div n="lb"/>-form: q. v.: {#maYcaH.#} </div><div n="I">III For other things:
-<div n="lb"/><div n="xe">{%s. for lamps:%}</div> <div n="xs">{#dIpADAraH;#}</div> <div n="xe">{%ink.s.:%}</div> <div n="xs">{#masIBAjanam, #}
-<div n="lb"/>{# -pAtram;#}</div> <div n="xe">{%salt-s.:%}</div> <div n="xs">{#lavaRapAtram,#}</div> etc.</div>
+{@STAND@}¦ (subs.): <div n="I">I Stopping, s. still: <div n="xe">{%to bring%}
+{%to a s.:%}</div> <div n="xs">{#stamBayati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#staBnAti:#}</div> v. To stop; <div n="xe">{%to%}
+{%come to s.:%}</div> <div n="xs">{#stabDIBavati,#}</div> <div n="xe">{%to be at s.:%}</div> <div n="xs">{#stabDa#}</div> (f.
+{#bDA#}), {#ni-, nis-.#} Ph.: {%to make a s. against:%}
+{#pratIpayati#} (nomi.): v. To oppose. </div><div n="I">II Plat-
+-form: q. v.: {#maYcaH.#} </div><div n="I">III For other things:
+<div n="xe">{%s. for lamps:%}</div> <div n="xs">{#dIpADAraH;#}</div> <div n="xe">{%ink.s.:%}</div> <div n="xs">{#masIBAjanam, #}
+{# -pAtram;#}</div> <div n="xe">{%salt-s.:%}</div> <div n="xs">{#lavaRapAtram,#}</div> etc.</div>
 <LEND>

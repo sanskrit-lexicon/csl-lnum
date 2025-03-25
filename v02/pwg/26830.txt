@@ -1,9 +1,9 @@
 <L>26830<pc>3-0054<k1>jarjarita<k2>jarjarita
-{#jarjarita#}¦ (von {#jarjara#}) <lex>adj.</lex> {%zerfetzt%}: {#kfzRajarjaritANgasya kuYjarasya#} 
-<ls>HARIV. 4676.</ls> {#saMBinnajarjaritakozWaSiraHkapAla#} 
-<ls>SUŚR. 1, 352, 17.</ls> {#laguqaprahArEstAM jarjaritadehAm#} 
-<ls>PAÑCAT. 37, 5. 47, 10. 87, 17.</ls> {#smaraSarajarjarita#} 
-<ls>GĪT. 8, 1.</ls> {#preNKatkawAkzASugaSreRIjarjarita (manas)#} 
-<ls>3, 12.</ls> {#jarAjarjaritaM patim#} {%mitgenommen, entkräftet%} 
-<ls>MBH. 3, 10353.</ls>
+{#jarjarita#}¦ (von {#jarjara#}) <lex>adj.</lex> {%zerfetzt%}: {#kfzRajarjaritANgasya kuYjarasya#}
+<ls>HARIV. 4676.</ls> {#saMBinnajarjaritakozWaSiraHkapAla#}
+<ls>SUŚR. 1,352,17.</ls> {#laguqaprahArEstAM jarjaritadehAm#}
+<ls>PAÑCAT. 37,5.</ls> <ls n="PAÑCAT.">47,10.</ls> <ls n="PAÑCAT.">87,17.</ls> {#smaraSarajarjarita#}
+<ls>GĪT. 8,1.</ls> {#preNKatkawAkzASugaSreRIjarjarita (manas)#}
+<ls n="GĪT.">3,12.</ls> {#jarAjarjaritaM patim#} {%mitgenommen, entkräftet%}
+<ls>MBH. 3,10353.</ls>
 <LEND>

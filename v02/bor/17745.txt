@@ -1,6 +1,6 @@
 <L>17745<pc>543<k1>price<k2>price
-<div n="lb"/>{@PRICE@}¦ (v.): <div n="1">(1) {#mUlyaM sTirIkaroti#} <div n="xe">{%or%}</div> <div n="xs">{#kalpayati#}</div> (c. of
-<div n="lb"/>{#kxp#}). </div><div n="1">(2) to have price, or be p. d: {#arGati#}
-<div n="lb"/>({#arGa,#} c. 1; rare), <div n="xe">{%gems have no p.:%}</div> <div n="xs">{#nArGanti #}
-<div n="lb"/>{# ratnAni,#}</div> P. i. 1.</div>
+{@PRICE@}¦ (v.): <div n="1">(1) {#mUlyaM sTirIkaroti#} <div n="xe">{%or%}</div> <div n="xs">{#kalpayati#}</div> (c. of
+{#kxp#}). </div><div n="1">(2) to have price, or be p. d: {#arGati#}
+({#arGa,#} c. 1; rare), <div n="xe">{%gems have no p.:%}</div> <div n="xs">{#nArGanti #}
+{# ratnAni,#}</div> P. i. 1.</div>
 <LEND>

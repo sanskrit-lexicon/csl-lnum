@@ -1,5 +1,5 @@
-<L>118507<pc>600,3<k1>parivas<k2>pari-vas<h>b<e>1
-<hom>b.</hom> <s>pari-</s>√ <hom>5.</hom> <s>vas</s> ¦ <ab>P.</ab> <s>-vasati</s>, (<ab>ind.p.</ab> <s>pary-uzya</s>), to abide, stay, remain with (<ab>instr.</ab>), <ls>KātyŚr.</ls>; <ls>R.</ls> &c.;
+<L>118507<pc>600,3<k1>parivas<k2>pari-vas<e>1
+ <s>pari-</s>√ <hom>5.</hom> <s>vas</s> ¦ <ab>P.</ab> <s>-vasati</s>, (<ab>ind.p.</ab> <s>pary-uzya</s>), to abide, stay, remain with (<ab>instr.</ab>), <ls>KātyŚr.</ls>; <ls>R.</ls> &c.;
 <div n="to"/> (with <s>saMsargitayA</s>) to associate with (<ab>acc.</ab>), <ls>Kull.</ls> on <ls>Mn. xi, 190</ls> :
-<div n="to"/><ab>Caus.</ab> <s>vAsayati</s>, to let stand overnight, <ls>ĀśvGṛ.</ls><info verb="pre" cp="P" parse="pari+vas"/>
+<div n="vp"/><ab>Caus.</ab> <s>vAsayati</s>, to let stand overnight, <ls>ĀśvGṛ.</ls><info verb="pre" cp="P" parse="pari+vas"/><info hui="b"/>
 <LEND>

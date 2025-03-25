@@ -1,7 +1,7 @@
 <L>1667<pc>058<k1>baseness<k2>baseness
-<div n="lb"/>{@BASENESS:@}¦ <div n="I">I Meanness: q. v.: </div><div n="1">(1) {#nikfzwatA;#}</div>
-<div n="lb"/><div n="1">(2) {#kadaryatA;#} </div><div n="1">(3) {#anAryatA.#} </div><div n="I">II Of birth:
-<div n="lb"/>{#duzkulInatA.#} </div><div n="I">III Bastardy: {#vijanmatA.#} </div><div n="I">IV Of
-<div n="lb"/>sounds: {#gAmmIryam.#} V. Of metal: </div><div n="1">(1)
-<div n="lb"/>{#nikfzwatA;#} </div><div n="1">(2) {#apakfzwatA.#}</div>
+{@BASENESS:@}¦ <div n="I">I Meanness: q. v.: </div><div n="1">(1) {#nikfzwatA;#}</div>
+<div n="1">(2) {#kadaryatA;#} </div><div n="1">(3) {#anAryatA.#} </div><div n="I">II Of birth:
+{#duzkulInatA.#} </div><div n="I">III Bastardy: {#vijanmatA.#} </div><div n="I">IV Of
+sounds: {#gAmmIryam.#} V. Of metal: </div><div n="1">(1)
+{#nikfzwatA;#} </div><div n="1">(2) {#apakfzwatA.#}</div>
 <LEND>

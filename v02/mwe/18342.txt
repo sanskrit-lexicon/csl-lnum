@@ -1,10 +1,10 @@
 <L>18342<pc>470-b<k1>luck<k2>luck
-<div n="lb"/>LUCK¦, {%s.%} {#dEvaM, BAgyaM, BAgaH, BAgaDeyaM, dEvayogaH, dEvagatiH#} {%f.,%} {#dEvadaSA, dEvikaM;#}
-<div n="lb"/>{#dizwaM, adfzwaM, niyatiH#} {%f.,%} {#viDiH#} {%m.,%} {#kAlaniyogaH, BavitavyatA, rizwaM,#}
-<div n="lb"/>{#saNgatiH#} {%f.;%} ‘good luck,’ {#sOBAgyaM, suBAgyaM, kuSalaM -latA, kOSalyaM,#}
-<div n="lb"/>{#SuBaM, kalyARaM, BadraM, maNgalaM, mANgalyaM, puRyodayaH, Sarmma#} {%n.%} {#(n), sadgatiH#} {%f.,%}
-<div n="lb"/>{#sampattiH#} {%f.,%} {#sampad#} {%f.,%} {#ayaH, SrIH#} {%f.,%} {#lakzmIH#} {%f.;%} ‘bad luck,’ {#dOrBAgyaM,#}
-<div n="lb"/>{#durBAgyaM, durdEvaM, vipattiH#} {%f.,%} {#durgatiH#} {%f.,%} {#aSuBaM, amaNgalaM;#} ‘good luck
-<div n="lb"/>to you,’ {#dizwyA, dizwyA varDase;#} ‘good and ill luck,’ {#SuBASuBaM,#}
-<div n="lb"/>{#BadrABadraM, maNgalAmaNgalaM#}.
+LUCK¦, {%s.%} {#dEvaM, BAgyaM, BAgaH, BAgaDeyaM, dEvayogaH, dEvagatiH#} {%f.,%} {#dEvadaSA, dEvikaM;#}
+{#dizwaM, adfzwaM, niyatiH#} {%f.,%} {#viDiH#} {%m.,%} {#kAlaniyogaH, BavitavyatA, rizwaM,#}
+{#saNgatiH#} {%f.;%} ‘good luck,’ {#sOBAgyaM, suBAgyaM, kuSalaM -latA, kOSalyaM,#}
+{#SuBaM, kalyARaM, BadraM, maNgalaM, mANgalyaM, puRyodayaH, Sarmma#} {%n.%} {#(n), sadgatiH#} {%f.,%}
+{#sampattiH#} {%f.,%} {#sampad#} {%f.,%} {#ayaH, SrIH#} {%f.,%} {#lakzmIH#} {%f.;%} ‘bad luck,’ {#dOrBAgyaM,#}
+{#durBAgyaM, durdEvaM, vipattiH#} {%f.,%} {#durgatiH#} {%f.,%} {#aSuBaM, amaNgalaM;#} ‘good luck
+to you,’ {#dizwyA, dizwyA varDase;#} ‘good and ill luck,’ {#SuBASuBaM,#}
+{#BadrABadraM, maNgalAmaNgalaM#}.
 <LEND>

@@ -1,5 +1,5 @@
 <L>1339<pc>048<k1>attestation<k2>attestation
-<div n="lb"/>{@ATTESTATION:@}¦ <div n="I">I Verbal: {#sAkzyam.#} </div><div n="I">II Written:
-<div n="lb"/>Ph. <div n="xe">{%the a. s of the will are all forged%}</div> <div n="xs">{#*icCApatre #}
-<div n="lb"/>{# yezAM sAkziRAM nAmAni liKitAni tat sarvaM kftrimam.#}</div></div>
+{@ATTESTATION:@}¦ <div n="I">I Verbal: {#sAkzyam.#} </div><div n="I">II Written:
+Ph. <div n="xe">{%the a. s of the will are all forged%}</div> <div n="xs">{#*icCApatre #}
+{# yezAM sAkziRAM nAmAni liKitAni tat sarvaM kftrimam.#}</div></div>
 <LEND>

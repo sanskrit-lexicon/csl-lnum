@@ -1,5 +1,5 @@
 <L>799<pc>028<k1>anniversary<k2>anniversary
-<div n="lb"/>{@ANNIVERSARY:@}¦ <div n="1">(1) {#vArzikaH#} ({#kI, kaM#}); </div><div n="1">(2) {#sAMvat-#}
-<div n="lb"/>{#sarikaH#} ({#kI, kaM#}). {%The a. of Kṛṣṇa's birth%}
-<div n="lb"/>{#janmAzwamI;#} <div n="xe">{%the a. of Rāma's birth%}</div> <div n="xs">{#rAmanavamI.#}</div></div>
+{@ANNIVERSARY:@}¦ <div n="1">(1) {#vArzikaH#} ({#kI, kaM#}); </div><div n="1">(2) {#sAMvat-#}
+{#sarikaH#} ({#kI, kaM#}). {%The a. of Kṛṣṇa's birth%}
+{#janmAzwamI;#} <div n="xe">{%the a. of Rāma's birth%}</div> <div n="xs">{#rAmanavamI.#}</div></div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>30101<pc>3-0365<k1>turvaRi<k2>turva/Ri
-{#turva/Ri#}¦ (von {#tur#} = 1. {#tar#}) <lex>adj.</lex> {%überlegen, überwältigend, siegreich%} 
-<ls>NIR. 6, 14.</ls> <is>Indra</is> 
-<ls>ṚV. 1, 56, 3.</ls> <ls n="ṚV. 1,">61, 11.</ls> <ls n="ṚV.">5, 35, 3.</ls> <ls n="ṚV.">10, 32, 5.</ls> {#su\mnAni viSvA\ manu^zeva tu\rvaRi\rahA\ viSve^va tu\rvaRi^H#} 
-<ls n="ṚV.">1, 130, 9.</ls> {#Sa\taM cakzA^Ro a\kzaBi^rde\vo vane^zu tu\rvaRi^H#} 
-<ls n="ṚV. 1,">128, 3.</ls> {#sa\matsu^ tu\rvaRi^H pa\ta\nyUn#} 
-<ls n="ṚV.">4, 20, 1.</ls>
+{#turva/Ri#}¦ (von {#tur#} = 1. {#tar#}) <lex>adj.</lex> {%überlegen, überwältigend, siegreich%}
+<ls>NIR. 6,14.</ls> <is>Indra</is>
+<ls>ṚV. 1,56,3.</ls> <ls n="ṚV. 1,">61,11.</ls> <ls n="ṚV.">5,35,3.</ls> <ls n="ṚV.">10,32,5.</ls> {#su\mnAni viSvA\ manu^zeva tu\rvaRi\rahA\ viSve^va tu\rvaRi^H#}
+<ls n="ṚV.">1,130,9.</ls> {#Sa\taM cakzA^Ro a\kzaBi^rde\vo vane^zu tu\rvaRi^H#}
+<ls n="ṚV. 1,">128,3.</ls> {#sa\matsu^ tu\rvaRi^H pa\ta\nyUn#}
+<ls n="ṚV.">4,20,1.</ls>
 <LEND>

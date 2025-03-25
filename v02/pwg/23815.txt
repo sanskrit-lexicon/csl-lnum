@@ -1,11 +1,11 @@
 <L>23815<pc>2-0862<k1>grAvastut<k2>grAvastu/t
-{#grAvastu/t#}¦ ({#grAvan + stut#}) <lex>m.</lex> 
-<ls>P. 3, 2, 177.</ls> {%einer der sechszehn gewöhnlich aufgeführten Liturgen%}, genannt nach {%dem an die <is>Soma</is>-Steine gerichteten Lobgesang%}, 
-<ls>ṚV. 10, 94, 1.</ls> fgg. 
-<ls>AIT. BR. 6, 1. 7, 1.</ls> 
-<ls>ĀŚV. ŚR. 4, 1. 5, 12. 9, 4.</ls> 
-<ls>ŚAT. BR. 4, 3, 4, 22. 12, 1, 1, 9.</ls> 
-<ls>PAÑCAV. BR.</ls> im <ls>Ind. St. 1, 35.</ls> {#yaH prastotA sa brAhmaRAcCaMsI sa grAvastut#} 
-<ls>ŚĀṄKH. ŚR. 13, 24, 11.</ls> 
-<ls>COLEBR. Misc. Ess. I, 355</ls> ({%Gravastata%}).
+{#grAvastu/t#}¦ ({#grAvan + stut#}) <lex>m.</lex>
+<ls>P. 3,2,177.</ls> {%einer der sechszehn gewöhnlich aufgeführten Liturgen%}, genannt nach {%dem an die <is>Soma</is>-Steine gerichteten Lobgesang%},
+<ls>ṚV. 10,94,1.</ls> fgg.
+<ls>AIT. BR. 6,1.</ls> <ls n="AIT. BR.">7,1.</ls>
+<ls>ĀŚV. ŚR. 4,1. 5,12. 9,4.</ls>
+<ls>ŚAT. BR. 4,3,4,22.</ls> <ls n="ŚAT. BR.">12,1,1,9.</ls>
+<ls>PAÑCAV. BR.</ls> im <ls>Ind. St. 1,35.</ls> {#yaH prastotA sa brAhmaRAcCaMsI sa grAvastut#}
+<ls>ŚĀṄKH. ŚR. 13,24,11.</ls>
+<ls>COLEBR. Misc. Ess. I,355</ls> ({%Gravastata%}).
 <LEND>

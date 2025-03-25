@@ -1,19 +1,19 @@
 <L>6671<pc>213<k1>divide<k2>divide
-<div n="lb"/>{@DIVIDE@}¦ (v. t.): <div n="I">I To apportion: </div><div n="1">(1) {#Bajati#}
-<div n="lb"/>(commonly) {#vi-, pravi-, saM-,#} ({#Baj,#} c. 1.),
-<div n="lb"/><div n="xe">{%after the demise of the father, the sons should d.%}
-<div n="lb"/>{%his property:%}</div> <div n="xs">{#pitaryUrdDaM gate putrA viBajeyurDanaM pituH,#}</div> N.
-<div n="lb"/>s.; <div n="xe">{%d. d among the two wives:%}</div> <div n="xs">{#patnyorviBeje,#}</div> <ls>R.</ls>
-<div n="lb"/>x. 54.; </div><div n="1">(2) {#vaRwayati#} ({#vaRw,#} c. 10.), <div n="xe">{%the rest%}
-<div n="lb"/>{%should be d. d:%}</div> <div n="xs">{#SezaM vaRwanIyam,#}</div> Viv. </div><div n="I">II In
-<div n="lb"/>arith: </div><div n="1">(1) {#Bajati, vi-,#} {%d. ing%} ({%we%}) <div n="xe">{%get the quo-%}
-<div n="lb"/>{%tient:%}</div> <div n="xs">{#BajanAllabDo guRyaH,#}</div> Li.; </div><div n="1">(2) {#harati#} ({#hf,#} c. 1.)
-<div n="lb"/><div n="xe">{%d. d by the remainder:%}</div> <div n="xs">{#SezErhftaH#}</div> ({#tA, taM#}), Li.</div>
-<div n="lb"/><div n="I">III To sever, separate, cut into pieces:
-<div n="lb"/>q. v.: {#viBajati,#} <div n="xe">{%as the Meru was not d. d and%}
-<div n="lb"/>{%made over to the beggars:%}</div> <div n="xs">{#viBajya merurna yadarTisAtkftaH,#}</div>
-<div n="lb"/>N. <div n="xe">{%To d. into two:%}</div> <div n="xs">{#dviDAkaroti;#}</div> <div n="xe">{%into three%}
-<div n="lb"/>{%parts:%}</div> <div n="xs">{#triDAkaroti,#}</div> Ve. </div><div n="I">IV In opinion or
-<div n="lb"/>interest: Ph.: ({%they are%}) <div n="xe">{%neither combined nor%}
-<div n="lb"/>{%d. d:%}</div> <div n="xs">{#na saMhatA na BinnavfttayaH,#}</div> Ki. i. 19.</div>
+{@DIVIDE@}¦ (v. t.): <div n="I">I To apportion: </div><div n="1">(1) {#Bajati#}
+(commonly) {#vi-, pravi-, saM-,#} ({#Baj,#} c. 1.),
+<div n="xe">{%after the demise of the father, the sons should d.%}
+{%his property:%}</div> <div n="xs">{#pitaryUrdDaM gate putrA viBajeyurDanaM pituH,#}</div> N.
+s.; <div n="xe">{%d. d among the two wives:%}</div> <div n="xs">{#patnyorviBeje,#}</div> <ls>R.</ls>
+x. 54.; </div><div n="1">(2) {#vaRwayati#} ({#vaRw,#} c. 10.), <div n="xe">{%the rest%}
+{%should be d. d:%}</div> <div n="xs">{#SezaM vaRwanIyam,#}</div> Viv. </div><div n="I">II In
+arith: </div><div n="1">(1) {#Bajati, vi-,#} {%d. ing%} ({%we%}) <div n="xe">{%get the quo-%}
+{%tient:%}</div> <div n="xs">{#BajanAllabDo guRyaH,#}</div> Li.; </div><div n="1">(2) {#harati#} ({#hf,#} c. 1.)
+<div n="xe">{%d. d by the remainder:%}</div> <div n="xs">{#SezErhftaH#}</div> ({#tA, taM#}), Li.</div>
+<div n="I">III To sever, separate, cut into pieces:
+q. v.: {#viBajati,#} <div n="xe">{%as the Meru was not d. d and%}
+{%made over to the beggars:%}</div> <div n="xs">{#viBajya merurna yadarTisAtkftaH,#}</div>
+N. <div n="xe">{%To d. into two:%}</div> <div n="xs">{#dviDAkaroti;#}</div> <div n="xe">{%into three%}
+{%parts:%}</div> <div n="xs">{#triDAkaroti,#}</div> Ve. </div><div n="I">IV In opinion or
+interest: Ph.: ({%they are%}) <div n="xe">{%neither combined nor%}
+{%d. d:%}</div> <div n="xs">{#na saMhatA na BinnavfttayaH,#}</div> Ki. i. 19.</div>
 <LEND>

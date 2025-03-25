@@ -1,69 +1,60 @@
 <L>102712<pc>7-0449<k1>zWiv<k2>zWiv
-{#zWiv#}¦ oder {#zWIv, zWI/vati#} und {#zWI/vyati#} (nicht zu belegen) 
-<ls>DHĀTUP. 15, 52. 26, 4</ls> ({#nirasane#}). 
-<ls>7, 3, 75. 6, 1, 64, <is>Vārtt</is>.</ls> <ls>VOP. 8, 42. 66. 71.</ls> {#wizWeva#} und {#tizWeva#} 72. {%spucken, ausspeien%} 
-<ls>VARĀH. BṚH. S. 51, 32.</ls> 
-<ls>BHAṬṬ. 12, 18.</ls> {#SoRitam#} 
-<ls>SUŚR. 2, 192, 18. 1, 304, 4. 2, 446, 16.</ls> {#tena yatrAhamazWIvamaBUttattatra kAYcanam#} 
-<ls>KATHĀS. 108, 78.</ls> {#zWIvantyasya ca mUrDani#} 
-<ls>BHĀG. P. 11, 23, 35.</ls>
-
-<div n="p">— {#aBi#} {%bespeien%}: {#°tizWeva#} 
-<ls>ŚAT. BR. 1, 2, 3, 1.</ls> {#°zWyUta#} 
-<ls>2, 1, 1, 2.</ls>
-
-<div n="p">— {#ava#} dass.: {#°zWyUta#} 
-<ls>ŚAT. BR. 1, 2, 3, 1.</ls>
-
-<div n="p">— {#ni#} {%ausspucken%} 
-<ls>ŚAT. BR. 4, 1, 3, 9. 14, 4, 1, 33.</ls> 
-<ls>KĀTY. ŚR. 25, 11, 26.</ls> 
-<ls>ŚĀṄKH. GṚHY. 4, 12.</ls> 
-<ls>CHĀND. UP. 2, 12, 2.</ls> 
-<ls>KAUŚ. 58.</ls> 
-<ls>MBH. 6, 2767.</ls> 
-<ls>SUŚR. 1, 317, 13. 2, 237, 10.</ls> 
-<ls>BHAṬṬ. 18, 14.</ls> {#nyazWIvat - tasya mUrDani#} 
-<ls>MBH. 3, 11797.</ls> 
-<ls>BHAṬṬ. 17, 10.</ls> {#°tizWivuH#} 
-<ls>14, 100.</ls> {#°zWIvya#} 
-<ls>M. 5, 145.</ls> 
-<ls>MBH. 13, 5067.</ls> 
-<ls>MĀRK. P. 34, 69.</ls> {#nizWyUta#} (öftersfälschlich {#nizWUta#} geschr.) {%ausgespuckt%} 
-<ls>KĀTY. ŚR. 25, 11, 31.</ls> 
-<ls>KĀVYĀD. 1, 95.</ls> <ls>RĀJA-TAR. 5, 462.</ls> {%entlassen, von sich gegeben%} 
-<ls>AK. 3, 2, 37.</ls> 
-<ls>H. 1482.</ls> {#tejo vahninizWyUtam#} 
-<ls>RAGH. 2, 75.</ls> ({#candreRa#}) {#°marIciBAsA#} 
-<ls>KUMĀRAS. 7, 35.</ls> {#nizWyUtaH - lAkzArasaH kenacit (taruRA)#} 
-<ls>ŚĀK. 80.</ls> 
-<ls>Spr. (II) 3912.</ls> 
-<ls>RĀJA-TAR. 5, 96.</ls> <lex>n.</lex> {%ausgeworfener Speichel%} 
-<ls>M. 4, 132.</ls> 
-<ls>YĀJÑ. 2, 213.</ls> 
-<ls>BHĀG. P. 5, 24, 17.</ls> 
+{#zWiv#}¦ oder {#zWIv, zWI/vati#} und {#zWI/vyati#} (nicht zu belegen)
+<ls>DHĀTUP. 15,52.</ls> <ls n="DHĀTUP.">26,4</ls> ({#nirasane#}).
+<ls n="P.">7,3,75.</ls> <ls n="P.">6,1,64</ls>, <is>Vārtt</is>. <ls>VOP. 8,42.</ls> <ls n="VOP. 8,">66.</ls> <ls n="VOP. 8,">71.</ls> {#wizWeva#} und {#tizWeva#} <ls n="VOP. 8,">72.</ls> {%spucken, ausspeien%}
+<ls>VARĀH. BṚH. S. 51,32.</ls>
+<ls>BHAṬṬ. 12,18.</ls> {#SoRitam#}
+<ls>SUŚR. 2,192,18. 1,304,4. 2,446,16.</ls> {#tena yatrAhamazWIvamaBUttattatra kAYcanam#}
+<ls>KATHĀS. 108,78.</ls> {#zWIvantyasya ca mUrDani#}
+<ls>BHĀG. P. 11,23,35.</ls>
+<div n="p">— {#aBi#} {%bespeien%}: {#°tizWeva#}
+<ls>ŚAT. BR. 1,2,3,1.</ls> {#°zWyUta#}
+<ls n="ŚAT. BR.">2,1,1,2.</ls>
+<div n="p">— {#ava#} dass.: {#°zWyUta#}
+<ls>ŚAT. BR. 1,2,3,1.</ls>
+<div n="p">— {#ni#} {%ausspucken%}
+<ls>ŚAT. BR. 4,1,3,9.</ls> <ls n="ŚAT. BR.">14,4,1,33.</ls>
+<ls>KĀTY. ŚR. 25,11,26.</ls>
+<ls>ŚĀṄKH. GṚHY. 4,12.</ls>
+<ls>CHĀND. UP. 2,12,2.</ls>
+<ls>KAUŚ. 58.</ls>
+<ls>MBH. 6,2767.</ls>
+<ls>SUŚR. 1,317,13.</ls> <ls n="SUŚR.">2,237,10.</ls>
+<ls>BHAṬṬ. 18,14.</ls> {#nyazWIvat — tasya mUrDani#}
+<ls>MBH. 3,11797.</ls>
+<ls>BHAṬṬ. 17,10.</ls> {#°tizWivuH#}
+<ls n="BHAṬṬ.">14,100.</ls> {#°zWIvya#}
+<ls>M. 5,145.</ls>
+<ls>MBH. 13,5067.</ls>
+<ls>MĀRK. P. 34,69.</ls> {#nizWyUta#} (öftersfälschlich {#nizWUta#} geschr.) {%ausgespuckt%}
+<ls>KĀTY. ŚR. 25,11,31.</ls>
+<ls>KĀVYĀD. 1,95.</ls> <ls>RĀJA-TAR. 5,462.</ls> {%entlassen, von sich gegeben%}
+<ls>AK. 3,2,37.</ls>
+<ls>H. 1482.</ls> {#tejo vahninizWyUtam#}
+<ls>RAGH. 2,75.</ls> ({#candreRa#}) {#°marIciBAsA#}
+<ls>KUMĀRAS. 7,35.</ls> {#nizWyUtaH — lAkzArasaH kenacit (taruRA)#}
+<ls>ŚĀK. 80.</ls>
+<ls>Spr. (II) 3912.</ls>
+<ls>RĀJA-TAR. 5,96.</ls> <lex>n.</lex> {%ausgeworfener Speichel%}
+<ls>M. 4,132.</ls>
+<ls>YĀJÑ. 2,213.</ls>
+<ls>BHĀG. P. 5,24,17.</ls>
 <div n="v">— Vgl. {#nizWIva#} fgg. und {#nizWeva#} fgg.
-
-<div n="p">— {#aBini#} {%ausspucken auf%} 
-<ls>ŚAT. BR. 14, 1, 1, 33.</ls> 
+<div n="p">— {#aBini#} {%ausspucken auf%}
+<ls>ŚAT. BR. 14,1,1,33.</ls>
 <ls>KAUŚ. 31. 36.</ls>
-
-<div n="p">— {#avani#} dass. 
-<ls>M. 8, 282.</ls>
-
-<div n="p">— {#vini#} {%ausspeien%} 
-<ls>SUŚR. 2, 503, 18.</ls>
-
-<div n="p">— {#nis#} dass.: {#nirazWIvat#} 
-<ls>ŚAT. BR. 5, 5, 4, 10.</ls> 
-<ls>P. 1, 4, 62, Schol.</ls> {%hinwerfen%}
+<div n="p">— {#avani#} dass.
+<ls>M. 8,282.</ls>
+<div n="p">— {#vini#} {%ausspeien%}
+<ls>SUŚR. 2,503,18.</ls>
+<div n="p">— {#nis#} dass.: {#nirazWIvat#}
+<ls>ŚAT. BR. 5,5,4,10.</ls>
+<ls>P. 1,4,62</ls>, Schol. {%hinwerfen%}
 [Page7-0450]
-so v. a. {%hinzeichnen%}: {#tadrasena suDABittO cakravAkamiTunaM nirazWIvam#} 
-<ls>DAŚAK. 92, 6. 7.</ls>
-
-<div n="p">— {#pra#} {%ausspeien%} 
-<ls>ĀŚV. ŚR. 6, 13, 10.</ls>
-
-<div n="p">— {#prati#} {%bespucken%}: {#brA\hma\Ram#} 
-<ls>AV. 5, 19, 3.</ls>
+so v. a. {%hinzeichnen%}: {#tadrasena suDABittO cakravAkamiTunaM nirazWIvam#}
+<ls>DAŚAK. 92,6. 7.</ls>
+<div n="p">— {#pra#} {%ausspeien%}
+<ls>ĀŚV. ŚR. 6,13,10.</ls>
+<div n="p">— {#prati#} {%bespucken%}: {#brA\hma\Ram#}
+<ls>AV. 5,19,3.</ls>
 <LEND>

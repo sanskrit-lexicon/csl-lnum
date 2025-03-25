@@ -1,3 +1,3 @@
-<L>24001<pc>137,3<k1>AdigDa<k2>A-digDa<h>b<e>2
-<s>A-digDa</s> <hom>b</hom> ¦ <lex>mfn.</lex> <ab>ifc.</ab> besmeared, anointed, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>BhP.</ls><info lex="m:f:n"/>
+<L>24001<pc>137,3<k1>AdigDa<k2>A-digDa<e>2
+<s>A-digDa</s> ¦ <lex>mfn.</lex> <ab>ifc.</ab> besmeared, anointed, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>BhP.</ls><info lex="m:f:n"/><info hui="b"/>
 <LEND>

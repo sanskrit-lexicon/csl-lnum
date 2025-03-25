@@ -1,139 +1,127 @@
 <L>114704<pc>7-1399<k1>sraMs<k2>sraMs
-{#sraMs#}¦, {#sra/Msate#} 
-<ls>NAIGH. 2, 14</ls> ({#gatikarman#}). 
-<ls>DHĀTUP. 18, 15.</ls> ({#avasraMsane#}). 
-<ls>10, 33, v. l.</ls> (für {#SramB prasAde, pramAde)#}.{# asraMsizwa#} und {#asrasat#} 
-<ls>P. 1, 3, 91. 3, 1, 55.</ls> {#asraMsizata, a/srat#} 
-3. sg., {#(aBi) srAs; sasraMse#} 
-<ls>P. 1, 2, 5, Schol.</ls> {#sasraMsa; sraMsitvA#} 
-<ls>P. 1, 2, 23, Schol.</ls> pass. impers. {#srasyate#} 
-<ls>P. 6, 4, 24, Schol.</ls> 
-<div n="1"> 1) {%abfallen, sich ablösen; zerfallen, in Stücke gehen%}: {#garBo^ asrajja\rAyu^RA sa\ha#} 
-<ls>VS. 8, 28.</ls> 
-<ls>ŚAT. BR. 4, 5, 2, 5.</ls> {#u\Ke a^sraMsetAm#} 
-<ls>TBR. 3, 2, 3, 1.</ls> {#gARqIvaM sraMsate hastAt#} 
-<ls>BHAG. 1, 30.</ls> {#nAsrasatkariRAM grEvam#} 
-<ls>RAGH. 4, 48.</ls> 
-<ls>BHAṬṬ. 14, 72. 15, 61. 84.</ls> {%herabfallen%} vom Augenlide 
-<ls>SUŚR. 2, 332, 2.</ls> {#yoniH sraMsate#} (v. l. für {#spandate#}) 
-<ls>397, 2.</ls> {#sraMsate (DvaMsate#} die ältere Ausg. 
-<ls>60, 3</ls>) {#dehabanDaH#} {%zerfällt, geht auseinander%} 
-<ls>UTTAR. ed. Cow. 77, 15.</ls> {#sraMsanta iva majjAnastAvakAnAM#} (so ed. Bomb.) {#BayAt#} 
-<ls>MBH. 7, 3763.</ls> {#sraMsadUrukarAmbara#} {%schlaff herabhängend%} 
-<ls>R. 7, 34, 17.</ls> 
-<div n="1">— 2) {%erschlaffen, schwinden, vergehen%}: {#sraMsate madanavyaTA#} 
-<ls>Spr. (II) 2669.</ls> {#sraMsamAnatrapa#} 
-<ls>SĀH. D. 60, 13.</ls> 
-<div n="1">— 3) partic. {#srasta/#} 
-<ls>P. 6, 4, 24, Schol.</ls> {%abgefallen, herabgefallen%} 
-<ls>AK. 3, 2, 53.</ls> 
-<ls>H. 1491.</ls> Blätter <ls>R. 2, 71, 23.</ls> Gewand <ls>5, 20, 20. 54, 15.</ls> <ls>MEGH. 64.</ls> {#aNgAddukUlam#} 
-<ls>PRAB. 113, 11.</ls> {#mUrDAMSuka#} 
-<ls>RĀJA-TAR. 1, 374.</ls> {#srastaM SaraM cApamapi svahastAt#} 
-<ls>KUMĀRAS. 3, 51.</ls> {#maRibanDanAtkanakavalayam#} 
-<ls>ŚĀK. 61.</ls> {#uragapratisara#} 
-<ls>KIR. 5, 33.</ls> {#pAdAnmaRinUpuram#} 
-<ls>KATHĀS. 25, 152. 43, 36.</ls> 
-<ls>DAŚAK. 87, 11.</ls> {#kalaSAt#} {%herausgefallen aus%} 
-<ls>RĀJA-TAR. 3, 372.</ls> {#srastagAtra#} {%schlaff herabhängend%} 
-<ls>R. GORR. 2, 122, 9.</ls> {#srastANga#} 
-<ls>7, 69, 12.</ls> <ls>SUŚR. 2, 403, 5.</ls> <ls>MṚCCH. 61, 21.</ls> <ls>KATHĀS. 96, 14. 122, 86.</ls> {#srastANgatA#} 
-<ls>SUŚR. 1, 94, 21. 301, 2.</ls> {#°piRqikAMsapARipAda#} 
-<ls>118, 14.</ls> {#°muzka#} 
-<ls>17.</ls> {#srastAMsa#} 
-<ls>ŚĀK. 29.</ls> {#°SarIrasaMDi#} {%erschlafft%} 
-<ls>MṚCCH. 48, 24.</ls> {%eingefallen%} von Augen 
-<ls>SUŚR. 1, 115, 7.</ls> {#srastApAna#} {%mit prolapsus ani behaftet%} 
-<ls>2, 428,13.  Vgl.</ls>
+{#sraMs#}¦, {#sra/Msate#}
+<ls>NAIGH. 2,14</ls> ({#gatikarman#}).
+<ls>DHĀTUP. 18,15.</ls> ({#avasraMsane#}).
+<ls n="DHĀTUP.">10,33</ls>, v. l. (für {#SramB prasAde, pramAde)#}.{# asraMsizwa#} und {#asrasat#}
+<ls>P. 1,3,91.</ls> <ls n="P.">3,1,55.</ls> {#asraMsizata, a/srat#}
+3. sg., {#(aBi) srAs; sasraMse#}
+<ls>P. 1,2,5</ls>, Schol. {#sasraMsa; sraMsitvA#}
+<ls>P. 1,2,23</ls>, Schol. pass. impers. {#srasyate#}
+<ls>P. 6,4,24</ls>, Schol.
+<div n="1"> 1) {%abfallen, sich ablösen; zerfallen, in Stücke gehen%}: {#garBo^ asrajja\rAyu^RA sa\ha#}
+<ls>VS. 8,28.</ls>
+<ls>ŚAT. BR. 4,5,2,5.</ls> {#u\Ke a^sraMsetAm#}
+<ls>TBR. 3,2,3,1.</ls> {#gARqIvaM sraMsate hastAt#}
+<ls>BHAG. 1,30.</ls> {#nAsrasatkariRAM grEvam#}
+<ls>RAGH. 4,48.</ls>
+<ls>BHAṬṬ. 14,72. 15,61. 84.</ls> {%herabfallen%} vom Augenlide
+<ls>SUŚR. 2,332,2.</ls> {#yoniH sraMsate#} (v. l. für {#spandate#})
+<ls n="SUŚR.">397,2.</ls> {#sraMsate (DvaMsate#} die ältere Ausg.
+<ls n="SUŚR.">60,3</ls>) {#dehabanDaH#} {%zerfällt, geht auseinander%}
+<ls>UTTARAR. ed. Cow. 77,15.</ls> {#sraMsanta iva majjAnastAvakAnAM#} (so <ls>ed. Bomb.</ls>) {#BayAt#}
+<ls>MBH. 7,3763.</ls> {#sraMsadUrukarAmbara#} {%schlaff herabhängend%}
+<ls>R. 7,34,17.</ls>
+<div n="1">— 2) {%erschlaffen, schwinden, vergehen%}: {#sraMsate madanavyaTA#}
+<ls>Spr. (II) 2669.</ls> {#sraMsamAnatrapa#}
+<ls>SĀH. D. 60,13.</ls>
+<div n="1">— 3) partic. {#srasta/#}
+<ls>P. 6,4,24</ls>, Schol. {%abgefallen, herabgefallen%}
+<ls>AK. 3,2,53.</ls>
+<ls>H. 1491.</ls> Blätter <ls>R. 2,71,23.</ls> Gewand <ls n="R.">5,20,20.</ls> <ls n="R. 5,">54,15.</ls> <ls>MEGH. 64.</ls> {#aNgAddukUlam#}
+<ls>PRAB. 113,11.</ls> {#mUrDAMSuka#}
+<ls>RĀJA-TAR. 1,374.</ls> {#srastaM SaraM cApamapi svahastAt#}
+<ls>KUMĀRAS. 3,51.</ls> {#maRibanDanAtkanakavalayam#}
+<ls>ŚĀK. 61.</ls> {#uragapratisara#}
+<ls>KIR. 5,33.</ls> {#pAdAnmaRinUpuram#}
+<ls>KATHĀS. 25,152.</ls> <ls n="KATHĀS.">43,36.</ls>
+<ls>DAŚAK. 87,11.</ls> {#kalaSAt#} {%herausgefallen aus%}
+<ls>RĀJA-TAR. 3,372.</ls> {#srastagAtra#} {%schlaff herabhängend%}
+<ls>R. GORR. 2,122,9.</ls> {#srastANga#}
+<ls n="R. GORR.">7,69,12.</ls> <ls>SUŚR. 2,403,5.</ls> <ls>MṚCCH. 61,21.</ls> <ls>KATHĀS. 96,14.</ls> <ls n="KATHĀS.">122,86.</ls> {#srastANgatA#}
+<ls>SUŚR. 1,94,21. 301,2.</ls> {#°piRqikAMsapARipAda#}
+<ls n="SUŚR.">118,14.</ls> {#°muzka#}
+<ls n="SUŚR.">17.</ls> {#srastAMsa#}
+<ls>ŚĀK. 29.</ls> {#°SarIrasaMDi#} {%erschlafft%}
+<ls>MṚCCH. 48,24.</ls> {%eingefallen%} von Augen
+<ls>SUŚR. 1,115,7.</ls> {#srastApAna#} {%mit prolapsus ani behaftet%}
+<ls n="SUŚR.">2,428,13.</ls> Vgl.
 [Page7-1400]
 {#svayaMsrasta#} .
-
-<div n="p">— caus. 
-<div n="1"> 1) {%abfallen machen, ablösen%}: {#Sa\lyama^sisrasan#} 
-<ls>AV. 7, 107, 1.</ls> {#vAto 'pi nAsraMsayadaMSukAni#} 
-<ls>RAGH. 6, 75.</ls> {#pfTujaGanAt#} 
-<ls>Spr. (II) 2302.</ls> {#sraMsyamAne vasane#} 
-<ls>R. 5, 36, 37.</ls> {#sraMsitabanDana#} 
-<ls>UTTARAR. 30, 21 (40, 12).</ls> <ls>KATHĀS. 13, 20.</ls> {#u\dara^M SraMSayi\tvA#} (v. l. {#SraMsa°#}) {%den Bauch hängen lassend%} 
-<ls>AV. 4, 16, 7.</ls> 
-<div n="1">— 2) {%vertreiben, verscheuchen%}: {#dozAn#} 
-<ls>SUŚR. 2, 190, 7.</ls>
-
-<div n="p">— intens. {#sanIsrasyate, sanIsraMsIti#} 
-<ls>P. 6, 4, 24. 7, 4, 84.</ls> 
+<div n="p">— caus.
+<div n="1"> 1) {%abfallen machen, ablösen%}: {#Sa\lyama^sisrasan#}
+<ls>AV. 7,107,1.</ls> {#vAto 'pi nAsraMsayadaMSukAni#}
+<ls>RAGH. 6,75.</ls> {#pfTujaGanAt#}
+<ls>Spr. (II) 2302.</ls> {#sraMsyamAne vasane#}
+<ls>R. 5,36,37.</ls> {#sraMsitabanDana#}
+<ls>UTTARAR. 30,21 (40,12).</ls> <ls>KATHĀS. 13,20.</ls> {#u\dara^M SraMSayi\tvA#} (v. l. {#SraMsa°#}) {%den Bauch hängen lassend%}
+<ls>AV. 4,16,7.</ls>
+<div n="1">— 2) {%vertreiben, verscheuchen%}: {#dozAn#}
+<ls>SUŚR. 2,190,7.</ls>
+<div n="p">— intens. {#sanIsrasyate, sanIsraMsIti#}
+<ls>P. 6,4,24.</ls> <ls n="P.">7,4,84.</ls>
 <div n="v">— Vgl. {#sanisrasa, sanIsraMsa#} .
-
-<div n="p">— {#ati#} {%hinausfallen%} so v. a. {%sich entziehen%}: {#ati^ srasema vf\jana\M nAMha^H#} 
-<ls>ṚV. 6, 11, 6.</ls>
-
-<div n="p">— {#aBi#} {%herabfallen lassen auf%}: {#mA no\ 'Bi srA^ ma\tya^M devahe\tim#} 
-<ls>AV. 11, 2, 19.</ls>
-
-<div n="p">— {#ava#} {%herabfallen%}: {#asta^BnA\ddyAma^va\srasa^H#} (abl.) 
-<ls>ṚV. 2, 17, 5.</ls> 
-<ls>SUŚR. 1, 277, 14.</ls> partic. {#°srasta#} 
-<ls>118, 1.</ls>
-
-<div n="p">— {#vyava#} {%auseinander fallen%}: {#vizU^cI saMvatsa\rasya\ pakza^sI\ vyava^sraMseyAtAm#} 
-<ls>TBR. 1, 2, 3, 1.</ls> 
+<div n="p">— {#ati#} {%hinausfallen%} so v. a. {%sich entziehen%}: {#ati^ srasema vf\jana\M nAMha^H#}
+<ls>ṚV. 6,11,6.</ls>
+<div n="p">— {#aBi#} {%herabfallen lassen auf%}: {#mA no\ 'Bi srA^ ma\tya^M devahe\tim#}
+<ls>AV. 11,2,19.</ls>
+<div n="p">— {#ava#} {%herabfallen%}: {#asta^BnA\ddyAma^va\srasa^H#} (abl.)
+<ls>ṚV. 2,17,5.</ls>
+<ls>SUŚR. 1,277,14.</ls> partic. {#°srasta#}
+<ls n="SUŚR.">118,1.</ls>
+<div n="p">— {#vyava#} {%auseinander fallen%}: {#vizU^cI saMvatsa\rasya\ pakza^sI\ vyava^sraMseyAtAm#}
+<ls>TBR. 1,2,3,1.</ls>
 <div n="v">— Vgl. {#vyavasraMsa#} .
-
-<div n="p">— {#A#}, partic. {#Asrasta#} {%abgefallen%}: {#°vastrABaraRa (asrasta°#} 
-<ls>ed. Bomb.</ls>) <ls>MBH. 4, 777.</ls>
-
+<div n="p">— {#A#}, partic. {#Asrasta#} {%abgefallen%}: {#°vastrABaraRa#} ({#asrasta°#} <ls>ed. Bomb.</ls>)
+<ls>MBH. 4,777.</ls>
 <div n="p">— {#pari#} s. {#parisrasA#} .
-
-<div n="p">— {#pra#} {%herausfallen, herausdringen%} (vom Fötus) 
-<ls>SUŚR. 1, 376, 3.</ls> 
+<div n="p">— {#pra#} {%herausfallen, herausdringen%} (vom Fötus)
+<ls>SUŚR. 1,376,3.</ls>
 <div n="v">— Vgl. {#prasraMsa#} fg.
-
-<div n="p">— {#vi#} {%auseinanderfallen, sich ablösen%} (auch vom {%Brechen%} der Glieder), {%sich lösen%}: {#Kfga^leva vi\srasa^H pAtama\smAn#} 
-<ls>ṚV. 2, 39, 4.</ls> {#vi\srasa^Sca\ritrA^t#} 
-<ls n="ṚV.">8, 48, 5.</ls> {#pra\jApa^tiH#} 
-<ls>TBR. 2, 3, 6, 1.</ls> {#yajYasya parva#} 
-<ls>ŚAT. BR. 4, 5, 7, 6.</ls> {#parvARi visasraMsuH#} 
-<ls>1, 6, 3, 35.</ls> {#vyasraMsizatAsyANgAni#} 
-<ls>14, 6, 7, 6.</ls> {#prAkSarIrasya visrasaH#} 
-<ls>KAṬHOP. 6, 4.</ls> {#lozWaH#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 88.</ls> {#granTirasi mA visrasaH#} {%los werden%} 
-<ls>ŚĀṄKH. GṚHY. 3, 8.</ls> {#A visrasaH#} {%bis zur Gebrechlichkeit%} (des Alters) 
-<ls>AIT. BR. 8, 20.</ls> {#ja\rasA^ vi\srasA\muM lo\kame^ti#} 
-<ls>TBR. 3, 8, 20, 5.</ls> {#asya visraMsamAnasya SarIrasTasya dehinaH . dehAdvimucyamAnasya#} 
-<ls>KAṬHOP. 5, 4.</ls> {#viSraMsire#} (so beide Ausgg.) {#keSAH kucAgre#} {%fielen herab auf%} 
-<ls>HARIV. 4097.</ls> {#visraMsatkabarIkalApa#} 
-<ls>PAÑCAR. 3, 5, 28.</ls> — partic. {#vi/srasta#} {%auseinandergefallen, aufgelöst%}: {#saM te^ mA\Msasya\ visra^staM rohatu#} 
-<ls>AV. 4, 12, 4.</ls> {#parvan#} 
-<ls>ŚAT. BR. 1, 6, 3, 36. 8, 1, 1, 3. 7, 4, 1, 1. 2, 3.</ls> 
-<ls>AIT. BR. 6, 23</ls> ({#a°#}). 
-<ls>MBH. 14, 274.</ls> {#klinnavisrastaDAtutva#} 
-<ls>SUŚR. 1, 248, 7.</ls> {%herabgefallen, abgefallen%}: {#devatA#} (vom Fussgestell) 
-<ls>R. 5, 21, 1.</ls> {#°sragviBUzaRa#} 
-<ls>MBH. 3, 12261.</ls> {#aMsAt#} 
-<ls>RAGH. 6, 14.</ls> {#°banDana#} 
-<ls>KATHĀS. 50, 52.</ls> {#°vasana#} 
-<ls>55, 119.</ls> {#°kusumasraj#} 
-<ls>104, 88.</ls> {#°SiroruhAmbara#} 
-<ls>BHĀG. P. 6, 14, 50. 7, 2, 32.</ls> {#°mohapawala#} 
-<ls>3, 33, 1.</ls> <ls>PAÑCAR. 3, 10, 17.</ls> {#visrastANga#} so v. a. {%erschlafft%} 
-<ls>MBH. 8, 226.</ls> {#°cetas (viDvastacetana#} 
-<ls>?ed. Bomb.) 7, 7283.</ls> {#°pOMsna#} 
-<ls>BHĀG. P. 4, 26, 26.</ls> — caus. {%zerfallen machen, auflösen%} 
-<ls>?(Knoten u.s.w.) AV. 9, 3, 2. ŚAT. BR. 1, 3, 3, 5. 6. 9, 2, 21. TS. 5, 1, 6, 1. 6, 2, 9, 4. TBR. 3, 3, 6, 5</ls>, {#dehinaH#} 
-<ls>SUŚR. 1, 51, 4.</ls> {#iDmam#} {%lösen, losbinden%} 
-<ls>KĀTY. ŚR. 2, 7, 19. 21.</ls> {#nIvim#} 
-<ls>4, 1, 15.</ls> <ls>KATHĀS. 94, 61.</ls> {#visraMsitakeSabanDana#} 
-<ls>BHĀG. P. 10, 9, 10.</ls> {%herabfallen lassen, abwerfen%} 
-<ls>MAHĀVĪRAC. 73, 17.</ls> <ls>KUMĀRAS. 3, 62.</ls> {#vAtavisraMsitAMSuka#} 
-<ls>KATHĀS. 9, 24.</ls> {%lösen%} so v. a. {%verrathen%}: {#mantram#} 
-<ls>MBH. 12, 2042.</ls> {#visraMsita = visrasta#} {%herausgefallen%}: {#muKAt#} 
-<ls>BHĀG. P. 2, 7, 12.</ls> {#garBa#} 
-<ls>10, 2, 15.</ls> 
+<div n="p">— {#vi#} {%auseinanderfallen, sich ablösen%} (auch vom {%Brechen%} der Glieder), {%sich lösen%}: {#Kfga^leva vi\srasa^H pAtama\smAn#}
+<ls>ṚV. 2,39,4.</ls> {#vi\srasa^Sca\ritrA^t#}
+<ls n="ṚV.">8,48,5.</ls> {#pra\jApa^tiH#}
+<ls>TBR. 2,3,6,1.</ls> {#yajYasya parva#}
+<ls>ŚAT. BR. 4,5,7,6.</ls> {#parvARi visasraMsuH#}
+<ls n="ŚAT. BR.">1,6,3,35.</ls> {#vyasraMsizatAsyANgAni#}
+<ls n="ŚAT. BR.">14,6,7,6.</ls> {#prAkSarIrasya visrasaH#}
+<ls>KAṬHOP. 6,4.</ls> {#lozWaH#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 88.</ls> {#granTirasi mA visrasaH#} {%los werden%}
+<ls>ŚĀṄKH. GṚHY. 3,8.</ls> {#A visrasaH#} {%bis zur Gebrechlichkeit%} (des Alters)
+<ls>AIT. BR. 8,20.</ls> {#ja\rasA^ vi\srasA\muM lo\kame^ti#}
+<ls>TBR. 3,8,20,5.</ls> {#asya visraMsamAnasya SarIrasTasya dehinaH . dehAdvimucyamAnasya#}
+<ls>KAṬHOP. 5,4.</ls> {#viSraMsire#} (so beide Ausgg.) {#keSAH kucAgre#} {%fielen herab auf%}
+<ls>HARIV. 4097.</ls> {#visraMsatkabarIkalApa#}
+<ls>PAÑCAR. 3,5,28.</ls> — partic. {#vi/srasta#} {%auseinandergefallen, aufgelöst%}: {#saM te^ mA\Msasya\ visra^staM rohatu#}
+<ls>AV. 4,12,4.</ls> {#parvan#}
+<ls>ŚAT. BR. 1,6,3,36. 8,1,1,3. 7,4,1,1. 2,3.</ls>
+<ls>AIT. BR. 6,23</ls> ({#a°#}).
+<ls>MBH. 14,274.</ls> {#klinnavisrastaDAtutva#}
+<ls>SUŚR. 1,248,7.</ls> {%herabgefallen, abgefallen%}: {#devatA#} (vom Fussgestell)
+<ls>R. 5,21,1.</ls> {#°sragviBUzaRa#}
+<ls>MBH. 3,12261.</ls> {#aMsAt#}
+<ls>RAGH. 6,14.</ls> {#°banDana#}
+<ls>KATHĀS. 50,52.</ls> {#°vasana#}
+<ls n="KATHĀS.">55,119.</ls> {#°kusumasraj#}
+<ls n="KATHĀS.">104,88.</ls> {#°SiroruhAmbara#}
+<ls>BHĀG. P. 6,14,50.</ls> <ls n="BHĀG. P.">7,2,32.</ls> {#°mohapawala#}
+<ls n="BHĀG. P.">3,33,1.</ls> <ls>PAÑCAR. 3,10,17.</ls> {#visrastANga#} so v. a. {%erschlafft%}
+<ls>MBH. 8,226.</ls> {#°cetas (viDvastacetana#} <ls>ed. Bomb.</ls>)
+<ls n="MBH.">7,7283.</ls> {#°pOMsna#}
+<ls>BHĀG. P. 4,26,26.</ls> — caus. {%zerfallen machen, auflösen%}
+(Knoten u.s.w.) <ls>AV. 9,3,2.</ls> <ls>ŚAT. BR. 1,3,3,5. 6. 9,2,21.</ls> <ls>TS. 5,1,6,1.</ls> <ls n="TS.">6,2,9,4.</ls> <ls>TBR. 3,3,6,5</ls>, {#dehinaH#}
+<ls>SUŚR. 1,51,4.</ls> {#iDmam#} {%lösen, losbinden%}
+<ls>KĀTY. ŚR. 2,7,19. 21.</ls> {#nIvim#}
+<ls n="KĀTY. ŚR.">4,1,15.</ls> <ls>KATHĀS. 94,61.</ls> {#visraMsitakeSabanDana#}
+<ls>BHĀG. P. 10,9,10.</ls> {%herabfallen lassen, abwerfen%}
+<ls>MAHĀVĪRAC. 73,17.</ls> <ls>KUMĀRAS. 3,62.</ls> {#vAtavisraMsitAMSuka#}
+<ls>KATHĀS. 9,24.</ls> {%lösen%} so v. a. {%verrathen%}: {#mantram#}
+<ls>MBH. 12,2042.</ls> {#visraMsita = visrasta#} {%herausgefallen%}: {#muKAt#}
+<ls>BHĀG. P. 2,7,12.</ls> {#garBa#}
+<ls n="BHĀG. P.">10,2,15.</ls>
 <div n="v">— Vgl. {#visraMsa#} fgg. und {#visras#} fgg.
-
-<div n="p">— {#anuvi#} caus. {%lösen%}: {#saMnahanam#} 
-<ls>ŚAT. BR. 2, 6, 1, 15.</ls>
+<div n="p">— {#anuvi#} caus. {%lösen%}: {#saMnahanam#}
+<ls>ŚAT. BR. 2,6,1,15.</ls>
 [Page7-1401]
-
-<div n="p">— {#sam#} {%befallen, überfallen%}: {#mA na\H saM srA^ di\vyenA\gninA^#} 
-<ls>AV. 11, 2, 26.</ls>
+<div n="p">— {#sam#} {%befallen, überfallen%}: {#mA na\H saM srA^ di\vyenA\gninA^#}
+<ls>AV. 11,2,26.</ls>
 <LEND>

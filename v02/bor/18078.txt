@@ -1,8 +1,8 @@
 <L>18078<pc>554<k1>provoke<k2>provoke
-<div n="lb"/>{@PROVOKE:@}¦ <div n="I">I To irritate, make angry: </div><div n="1">(1)
-<div n="lb"/>{#pra-kopayati#} (c. of {#kup#}); </div><div n="1">(2) {#kopaM#} <div n="xe">{%or%}</div> <div n="xs">{#kroDaM janayati#}</div>
-<div n="lb"/>({#jan,#} c. 10.) <div n="xe">{%or%}</div> <div n="xs">{#uddIpayati#}</div> (c. of {#dIp#}). </div><div n="I">II To
-<div n="lb"/>excite: q. v.: </div><div n="1">(1) {#uddIpayati;#} </div><div n="1">(2) {#uttejayati#}
-<div n="lb"/>(c. of {#tij#}). </div><div n="I">III To challenge: {#Ahvayate#}
-<div n="lb"/>({#hve,#} c. 1.).</div>
+{@PROVOKE:@}¦ <div n="I">I To irritate, make angry: </div><div n="1">(1)
+{#pra-kopayati#} (c. of {#kup#}); </div><div n="1">(2) {#kopaM#} <div n="xe">{%or%}</div> <div n="xs">{#kroDaM janayati#}</div>
+({#jan,#} c. 10.) <div n="xe">{%or%}</div> <div n="xs">{#uddIpayati#}</div> (c. of {#dIp#}). </div><div n="I">II To
+excite: q. v.: </div><div n="1">(1) {#uddIpayati;#} </div><div n="1">(2) {#uttejayati#}
+(c. of {#tij#}). </div><div n="I">III To challenge: {#Ahvayate#}
+({#hve,#} c. 1.).</div>
 <LEND>

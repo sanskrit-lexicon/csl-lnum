@@ -1,7 +1,7 @@
 <L>23400<pc>735<k1>unless<k2>unless
-<div n="lb"/>{@UNLESS:@}¦ <div n="1">(1) {#na(no)cet,#} {%please reply u. it is secret.:%}
-<div n="lb"/>{#na cedrahasyaM prativaktumarhasi,#} Ku. v. 40.; </div><div n="1">(2) {#yadi na#}
-<div n="lb"/>(sometimes {#yadi#} is understood), <div n="xe">{%u. those who%}
-<div n="lb"/>{%are dependents like me:%}</div> <div n="xs">{#na syAdanyo'pyahamiva jano yaH #}
-<div n="lb"/>{# parADInavfttiH,#}</div> Me. i. 8.: v. Also except.</div>
+{@UNLESS:@}¦ <div n="1">(1) {#na(no)cet,#} {%please reply u. it is secret.:%}
+{#na cedrahasyaM prativaktumarhasi,#} Ku. v. 40.; </div><div n="1">(2) {#yadi na#}
+(sometimes {#yadi#} is understood), <div n="xe">{%u. those who%}
+{%are dependents like me:%}</div> <div n="xs">{#na syAdanyo'pyahamiva jano yaH #}
+{# parADInavfttiH,#}</div> Me. i. 8.: v. Also except.</div>
 <LEND>

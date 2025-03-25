@@ -1,5 +1,5 @@
 <L>20212<pc>630<k1>servile<k2>servile
-<div n="lb"/>{@SERVILE:@}¦ <div n="1">(1) by comp., <div n="xe">{%s. state:%}</div> <div n="xs">{#dAsa-#}</div> <div n="xe">{%or%}</div> <div n="xs">{#dAsI-#}
-<div n="lb"/>{#mAvaH,#}</div> Mah.; </div><div n="1">(2) by adv. {#dAsavat:#} v. Also
-<div n="lb"/>abject, mean.</div>
+{@SERVILE:@}¦ <div n="1">(1) by comp., <div n="xe">{%s. state:%}</div> <div n="xs">{#dAsa-#}</div> <div n="xe">{%or%}</div> <div n="xs">{#dAsI-#}
+{#mAvaH,#}</div> Mah.; </div><div n="1">(2) by adv. {#dAsavat:#} v. Also
+abject, mean.</div>
 <LEND>

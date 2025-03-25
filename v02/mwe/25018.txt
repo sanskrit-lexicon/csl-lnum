@@ -1,9 +1,9 @@
 <L>25018<pc>675-b<k1>remission<k2>remission
-<div n="lb"/>REMISSION¦, {%s.%} (Relaxation) {#SETilyaM, SiTilatA, mocanaM, muktiH#} {%f.%} — 
-<div n="lb"/>(Abatement) {#SAntiH#} {%f.,%} {#upaSAntiH#} {%f.,%} {#SamaH, upaSamaH#}. — (Release)
-<div n="lb"/>{#muktiH#} {%f.,%} {#vimuktiH#} {%f.,%} {#mokzaH, udDAraH, nistAraH, visarjanaM#}. — (Pardon)
-<div n="lb"/>{#kzamA, kzAntiH#} {%f.,%} {#mocanaM, muktiH#} {%f.,%} {#nizkftiH#} {%f.;%} of sin,’ {#pApamocanaM,#}
-<div n="lb"/>{#pApamuktiH#} {%f.,%} {#pApamArjanA#}. — (Intermission) {#virAmaH, viratiH#} {%f.,%} {#ava-#}
-<div n="lb"/>{#ratiH#} {%f.,%} {#nivfttiH#} {%f.,%} {#vicCedaH, CedaH;#} ‘of study, &c.,’ {#avakASaH,#}
-<div n="lb"/>{#anaDyAyaH, aDyayanavirAmaH, aDyayananivfttiH#} {%f.%}
+REMISSION¦, {%s.%} (Relaxation) {#SETilyaM, SiTilatA, mocanaM, muktiH#} {%f.%} — 
+(Abatement) {#SAntiH#} {%f.,%} {#upaSAntiH#} {%f.,%} {#SamaH, upaSamaH#}. — (Release)
+{#muktiH#} {%f.,%} {#vimuktiH#} {%f.,%} {#mokzaH, udDAraH, nistAraH, visarjanaM#}. — (Pardon)
+{#kzamA, kzAntiH#} {%f.,%} {#mocanaM, muktiH#} {%f.,%} {#nizkftiH#} {%f.;%} of sin,’ {#pApamocanaM,#}
+{#pApamuktiH#} {%f.,%} {#pApamArjanA#}. — (Intermission) {#virAmaH, viratiH#} {%f.,%} {#ava-#}
+{#ratiH#} {%f.,%} {#nivfttiH#} {%f.,%} {#vicCedaH, CedaH;#} ‘of study, &c.,’ {#avakASaH,#}
+{#anaDyAyaH, aDyayanavirAmaH, aDyayananivfttiH#} {%f.%}
 <LEND>

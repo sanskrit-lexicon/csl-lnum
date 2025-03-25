@@ -1,220 +1,200 @@
 <L>83977<pc>6-0310<k1>rAj<k2>rAj<h>1
-1. {#rAj#}¦, {#rA/jati, °te#} ({#dIptO#}) 
-<ls>DHĀTUP. 19, 74.</ls> ved. auch {#rA/zwi, arAq; rarAja, rarAjatus#} und {#rejatus, rarAje#} und {#reje, rarAjiTa#} und {#rejiTa#} 
-<ls>P. 6, 4, 125.</ls> 
-<ls>VOP. 8, 127.</ls> {#(vi) arAjizus#}; in der alteren Sprache nur act.; {#rAja/se#} infin. 
-<ls>ṚV. 8, 86, 10.</ls> <ls n="ṚV.">9, 86, 36.</ls> 
-<div n="1"> 1) {%walten, herrschen; Fürst —, König%} —, überh. {%der Erste sein%}; mit gen. {%gebieten über%}; mit acc. {%regieren, lenken%} 
-<ls>NAIGH. 2, 21.</ls> {#sami^dDo a\dya rA^jasi de\vo de\vEH sa^hasra\hit#} 
-<ls>ṚV. 1, 188, 1.</ls> {#de\vezu^#} 
-<ls n="ṚV.">8, 49, 15.</ls> <ls n="ṚV. 8,">19, 22.</ls> {#trayo^ rAja\ntyasu^rasya vI\rAH#} 
-<ls n="ṚV.">3, 56, 8.</ls> {#svena\ dakze^Ra rAjaTaH#} 
-<ls n="ṚV.">4, 56, 6.</ls> <ls n="ṚV.">8, 15, 3.</ls> {#a\gniM rAja^ntaM di\vyena^ So\cizA^#} (<is>Agni</is> heisst oft {#rAjan#}) 
-<ls n="ṚV.">3, 2, 4.</ls> {#u\zasA^masi pri\yaH kza\po vastu^zu rAjasi#} 
-<ls n="ṚV.">8, 19, 31.</ls> {#e\te sada^si rAjataH#} 
-<ls>AV. 7, 54, 1.</ls> {#di\vaSca\ gmaSca^#} 
-<ls>ṚV. 1, 25, 20.</ls> {#vAja^sya#} 
-<ls n="ṚV. 1,">36, 12.</ls> <ls n="ṚV. 1,">45, 4.</ls> {#ya eko\ vasvo\ varu^Ro\ na rAja^ti#} 
-<ls n="ṚV. 1,">143, 4.</ls> <ls n="ṚV. 1,">144, 6.</ls> <ls n="ṚV.">3, 62, 17.</ls> {#kf\zweH#} 
-<ls n="ṚV.">4, 42, 1.</ls> <ls n="ṚV. 4,">53, 4.</ls> <ls n="ṚV.">6, 70, 2.</ls> {#su\tasya^ ka\laSa^sya#} 
-<ls n="ṚV.">10, 167, 1.</ls> 
-<div n="1">— 2) {%sich auszeichnen, ein Ansehen haben, besonders in die Augen fallen, prangen, glänzen; erscheinen wie%}; act.: {#(tisro jihvAH) tAsA\M yA maDye\ rAja^ti\ sA va\SA du^zprati\grahA^#} 
-<ls>AV. 10, 10, 28.</ls> {#pra pUrvA^Bistirate\ rAzwi\ SUra^H#} 
-<ls>ṚV. 1, 104, 4.</ls> {#maDye\ hotA^ duro\Re ba\rhizo\ rALa\gniH#} (Accent missverständlich) 
-<ls n="ṚV.">6, 12, 1.</ls> {#AdityatejaHpratimAnatejA BIzmo yaTA rAjasi suvratastvam#} 
-<ls>MBH. 1, 2109.</ls> {#nahi rAjatyayoDyeyaM sAsArevArjunI kzapA#} 
-<ls>R. 2, 114, 14.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 53, 36.</ls> {#rAmalakzmaRayormaDye sItA rAjati te snuzA #}|{# vizRuvAsavayormaDye padmA SrIriva rUpiRI #}|| 
-<ls>60, 13.</ls> {#SilAH SElasya rAjanti - bahuDA bahuBirvarREH#} 
-<ls>103, 20.</ls> <ls>VARĀH. BṚH. S. 13, 1.</ls> <ls>GĪT. 5, 12.</ls> {#yasya rAjanti valiviBaNgAH#} 
-<ls>VĀSAVAD. 3.</ls> <ls>SĀH. D. 49, 1.</ls> {#susUkzmeRottarIyeRa #}
+1. {#rAj#}¦, {#rA/jati, °te#} ({#dIptO#})
+<ls>DHĀTUP. 19,74.</ls> ved. auch {#rA/zwi, arAq; rarAja, rarAjatus#} und {#rejatus, rarAje#} und {#reje, rarAjiTa#} und {#rejiTa#}
+<ls>P. 6,4,125.</ls>
+<ls>VOP. 8,127.</ls> {#(vi) arAjizus#}; in der alteren Sprache nur act.; {#rAja/se#} infin.
+<ls>ṚV. 8,86,10.</ls> <ls n="ṚV.">9,86,36.</ls>
+<div n="1"> 1) {%walten, herrschen; Fürst —, König%} —, überh. {%der Erste sein%}; mit gen. {%gebieten über%}; mit acc. {%regieren, lenken%}
+<ls>NAIGH. 2,21.</ls> {#sami^dDo a\dya rA^jasi de\vo de\vEH sa^hasra\hit#}
+<ls>ṚV. 1,188,1.</ls> {#de\vezu^#}
+<ls n="ṚV.">8,49,15.</ls> <ls n="ṚV. 8,">19,22.</ls> {#trayo^ rAja\ntyasu^rasya vI\rAH#}
+<ls n="ṚV.">3,56,8.</ls> {#svena\ dakze^Ra rAjaTaH#}
+<ls n="ṚV.">4,56,6.</ls> <ls n="ṚV.">8,15,3.</ls> {#a\gniM rAja^ntaM di\vyena^ So\cizA^#} (<is>Agni</is> heisst oft {#rAjan#})
+<ls n="ṚV.">3,2,4.</ls> {#u\zasA^masi pri\yaH kza\po vastu^zu rAjasi#}
+<ls n="ṚV.">8,19,31.</ls> {#e\te sada^si rAjataH#}
+<ls>AV. 7,54,1.</ls> {#di\vaSca\ gmaSca^#}
+<ls>ṚV. 1,25,20.</ls> {#vAja^sya#}
+<ls n="ṚV. 1,">36,12.</ls> <ls n="ṚV. 1,">45,4.</ls> {#ya eko\ vasvo\ varu^Ro\ na rAja^ti#}
+<ls n="ṚV. 1,">143,4.</ls> <ls n="ṚV. 1,">144,6.</ls> <ls n="ṚV.">3,62,17.</ls> {#kf\zweH#}
+<ls n="ṚV.">4,42,1.</ls> <ls n="ṚV. 4,">53,4.</ls> <ls n="ṚV.">6,70,2.</ls> {#su\tasya^ ka\laSa^sya#}
+<ls n="ṚV.">10,167,1.</ls>
+<div n="1">— 2) {%sich auszeichnen, ein Ansehen haben, besonders in die Augen fallen, prangen, glänzen; erscheinen wie%}; act.: {#(tisro jihvAH) tAsA\M yA maDye\ rAja^ti\ sA va\SA du^zprati\grahA^#}
+<ls>AV. 10,10,28.</ls> {#pra pUrvA^Bistirate\ rAzwi\ SUra^H#}
+<ls>ṚV. 1,104,4.</ls> {#maDye\ hotA^ duro\Re ba\rhizo\ rALa\gniH#} (Accent missverständlich)
+<ls n="ṚV.">6,12,1.</ls> {#AdityatejaHpratimAnatejA BIzmo yaTA rAjasi suvratastvam#}
+<ls>MBH. 1,2109.</ls> {#nahi rAjatyayoDyeyaM sAsArevArjunI kzapA#}
+<ls>R. 2,114,14.</ls>
+<ls>R. GORR. 2,53,36.</ls> {#rAmalakzmaRayormaDye sItA rAjati te snuzA #}|{# vizRuvAsavayormaDye padmA SrIriva rUpiRI #}||
+<ls n="R. GORR. 2,">60,13.</ls> {#SilAH SElasya rAjanti — bahuDA bahuBirvarREH#}
+<ls n="R. GORR. 2,">103,20.</ls> <ls>VARĀH. BṚH. S. 13,1.</ls> <ls>GĪT. 5,12.</ls> {#yasya rAjanti valiviBaNgAH#}
+<ls>VĀSAVAD. 3.</ls> <ls>SĀH. D. 49,1.</ls> {#susUkzmeRottarIyeRa #}
 [Page6-0311]
-{# meGavarRena rAjatA#} 
-<ls>MBH. 3, 1831. 4, 190.</ls> {#rAjantIm - nalinImiva sarvataH#} 
-<ls>R. 2, 95, 4.</ls> {#rAjatkuRqalamAlA#} 
-<ls>3, 42, 43.</ls> {#(girim) rAjantamucCritEH SfNgEH#} 
-<ls>4, 41, 40.</ls> {#SaNKacakragadApadmarAjadBujacatuzwaya#} 
-<ls>PAÑCAR. 3, 11, 21. 12, 12. 15, 4.</ls> <ls>PRAB. 81, 4.</ls> {#rarAja kuntyA mAdryA ca pARquH saha vane caran #}|{# kareRvoriva maDyasTaH SrImAnpOraMdaro gajaH #}|| 
-<ls>MBH. 1, 4477. 2, 695. 5, 7.</ls> 
-<ls>HARIV. 3968.</ls> 
-<ls>R. 1, 1, 32.</ls> {#rarAja suBfSaM yajYaH kalpavfkzErivocCritEH#} 
-<ls>R. GORR. 1, 13, 27.</ls> {#na rarAja SaSI cApi#} 
-<ls>2, 40, 16. 5, 5, 26.</ls> <ls>RAGH. 3, 7. 6, 6.</ls> {#raRakzitiH - rarAja mftyoriva pAnaBUmiH#} 
-<ls>7, 46. 12, 100.</ls> <ls>KUMĀRAS. 1, 38.</ls> <ls>KATHĀS. 18, 404. 27, 13.</ls> <ls>BHĀG. P. 8, 15, 9.</ls> <ls>BHAṬṬ. 9, 61.</ls> {#tAni grastAnyanIkAni rejurarjunamArgaREH #}|{# SElaM prati balABrARi vyAptAnIvArkaraSmiBiH #}|| 
-<ls>MBH. 4, 1703. 1705.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 60, 16. 31, 18. 6, 70, 11.</ls> 
-<ls>RAGH. 10, 60. 11, 7.</ls> 
-<ls>KATHĀS. 22, 3.</ls> 
-<ls>BHĀG. P. 4, 10, 19. 8, 10, 15.</ls> 
-<ls>BHAṬṬ. 2, 2. 14, 7.</ls> med.: {#tatra sma rAjate BEmI sarvABaraRaBUzitA #}|{# saKImaDye 'navAdyANgI vidyutsOdAmanI yaTA #}|| 
-<ls>MBH. 3, 2083.</ls> {#ezA gaNgA saptaviDA rAjate#} 
-<ls>10821.</ls> {#upagIyamAnA BramarE rAjante vanarAjayaH#} 
-<ls>11606.</ls> <ls>R. 2, 66, 22.</ls> {#mAlyApaRezu rAjante nAdya paRyAni vE taTA#} 
-<ls>71, 37. 76, 9.</ls> <ls>R. GORR. 2, 107, 14.</ls> <ls>MṚCCH. 1, 7.</ls> <ls>VIKR. 160.</ls> {#sato 'pi hi na rAjante daridrasyetare guRAH#} 
-<ls>Spr. 3120.</ls> {#muktAkaratayA#} {%in der Gestalt von%} 
-<ls>3152. 3842.</ls> {#pratiSaSI ca yadA divi rAjate#} 
-<ls>VARĀH. BṚH. S. 28, 11.</ls> 
-<ls>KATHĀS. 27, 136.</ls> {#haMsavatkApi rAjate#} 
-<ls>47, 111.</ls> {#nfttena kAcidrAjate#} 
-<ls>113.</ls> <ls>WEBER, RĀMAT. UP. 286.</ls> {#rAjante tAvadanyAni purARAni satAM gaRe #}|{# yAvadBAgavataM nEva SrUyate#} 
-<ls>BHĀG. P. 12, 13, 14.</ls> 
-<ls>MĀRK. P. 31, 65.</ls> 
-<ls>PRAB. 41, 10.</ls> {#toyadezu yaTA - rAjamAnA SatahradA#} 
-<ls>MBH. 6, 4542.</ls> {#sUkzmavastraDaraM reje jaGanam#} 
-<ls>3, 1827.</ls> <ls>KUMĀRAS. 6, 49.</ls> {#guruRA stanaBAreRa muKacandreRa BAsvatA #}|{# SanEScarAByAM pAdAByAM reje grahamayIva #}|| 
-<ls>Spr. 865. 2211.</ls> {#suptaprabudDamiva tadreje rAjagfhaM tataH#} 
-<ls>KATHĀS. 14, 21. 21, 14. 27, 8. 39, 160.</ls> 
-<ls>RĀJA-TAR. 4, 514.</ls> 
-<ls>BHĀG. P. 3, 19, 3. 8, 15, 35.</ls> — partic. {#rAjita#} (könnte auch zum caus. gezogen werden) {%sich auszeichnend, prangend, glänzend, verschönert%}: {#vakzorAjitakOstuBa#} 
-<ls>HARIV. 15778.</ls> {#(DvajaH) vicitravarRavicaladvEjayantIva rAjitaH#} 
-<ls>KATHĀS. 81, 35.</ls> {#vihaMgamEH #}|{# guYjadBirita ehIti vadadBiriva rAjitam#} ({#vanam#}) 
-<ls>71, 195.</ls> <ls>BHĀG. P. 4, 6, 18.</ls> <ls>KĀVYĀD. 3, 10.</ls> <ls>BHAṬṬ. 17, 101.</ls> {#bAREH - gArDrarAjitEH#} (vgl. u. {#gArDravAjita#}, auch in den Nachträgen) 
-<ls>MBH. 3, 12230.</ls> {#kaNka°#} ({#kaNkatejita#} die neuere Ausg.) 
-<ls>HARIV. 9318.</ls> 
-<ls>KIR. 5, 9.</ls> {#ratna°#} 
-<ls>KATHĀS. 12, 154.</ls> {#hArakeyUra°#} 
-<ls>26, 232. 33, 211. 43, 9.</ls> {#vikIrRakUladrumarAjitAsu nadIzu#} 
-<ls>MBH. 13, 522.</ls> {#(saraH) jalormiravarAjitam#} 
-<ls>ŚATR. 1, 60.</ls> {#ullasanmattakokilArAvarAjite maDUtsave#} 
-<ls>KATHĀS. 35, 5.</ls>
-
-<div n="p">— caus. {%walten, herrschen%}: {#a\Di\rA\jo rAja^su rAjayAtE (°ti#} 
-<ls>TS.</ls>) <ls>AV. 6, 98, 1.</ls>
-
-<div n="p">— {#ati#} {%hinfahren über%}: {#sa\dyo yaH sya\ndro vizi^to\ DavI^yAnf\Ro na tA\yurati\ DanvA^ rAw#} 
-<ls>ṚV. 6, 12, 5.</ls>
-
-<div n="p">— {#anu#} {%nachahmen%}: {#u\Be vAcO^ vadati sAma\gA i^va gAya\traM ca\ trEzwu^Ba\M cAnu^ rAjati#} 
-<ls>ṚV. 2, 43, 1.</ls> {#somo^ vi\rAja\manu^ rAjati\ zwup#} 
-<ls n="ṚV.">9, 96, 18.</ls>
-
-<div n="p">— {#aBi#} med. {%prangen%}: {#etasyorasi suvyaktaM SrIvatsamaBirAjate#} 
-<ls>MBH. 3, 10960.</ls>
-
-<div n="p">— {#upa#} an zwei verdorbenen Stellen, nämlich 
-<ls>MBH. 9, 3608</ls> und <ls>PAÑCAT. V, 12</ls>; an der ersten Stelle ist mit der ed. Bomb. zu lesen: {#na vimatiM kAMcidBajitvA tu parAjitaH#}, an der zweiten mit 
+{# meGavarRena rAjatA#}
+<ls>MBH. 3,1831.</ls> <ls n="MBH.">4,190.</ls> {#rAjantIm — nalinImiva sarvataH#}
+<ls>R. 2,95,4.</ls> {#rAjatkuRqalamAlA#}
+<ls n="R.">3,42,43.</ls> {#(girim) rAjantamucCritEH SfNgEH#}
+<ls n="R.">4,41,40.</ls> {#SaNKacakragadApadmarAjadBujacatuzwaya#}
+<ls>PAÑCAR. 3,11,21. 12,12. 15,4.</ls> <ls>PRAB. 81,4.</ls> {#rarAja kuntyA mAdryA ca pARquH saha vane caran #}|{# kareRvoriva maDyasTaH SrImAnpOraMdaro gajaH #}||
+<ls>MBH. 1,4477.</ls> <ls n="MBH.">2,695.</ls> <ls n="MBH.">5,7.</ls>
+<ls>HARIV. 3968.</ls>
+<ls>R. 1,1,32.</ls> {#rarAja suBfSaM yajYaH kalpavfkzErivocCritEH#}
+<ls>R. GORR. 1,13,27.</ls> {#na rarAja SaSI cApi#}
+<ls n="R. GORR.">2,40,16.</ls> <ls n="R. GORR.">5,5,26.</ls> <ls>RAGH. 3,7.</ls> <ls n="RAGH.">6,6.</ls> {#raRakzitiH — rarAja mftyoriva pAnaBUmiH#}
+<ls n="RAGH.">7,46.</ls> <ls n="RAGH.">12,100.</ls> <ls>KUMĀRAS. 1,38.</ls> <ls>KATHĀS. 18,404.</ls> <ls n="KATHĀS.">27,13.</ls> <ls>BHĀG. P. 8,15,9.</ls> <ls>BHAṬṬ. 9,61.</ls> {#tAni grastAnyanIkAni rejurarjunamArgaREH #}|{# SElaM prati balABrARi vyAptAnIvArkaraSmiBiH #}||
+<ls>MBH. 4,1703.</ls> <ls n="MBH. 4,">1705.</ls>
+<ls>R. GORR. 2,60,16.</ls> <ls n="R. GORR. 2,">31,18.</ls> <ls n="R. GORR.">6,70,11.</ls>
+<ls>RAGH. 10,60.</ls> <ls n="RAGH.">11,7.</ls>
+<ls>KATHĀS. 22,3.</ls>
+<ls>BHĀG. P. 4,10,19.</ls> <ls n="BHĀG. P.">8,10,15.</ls>
+<ls>BHAṬṬ. 2,2. 14,7.</ls> med.: {#tatra sma rAjate BEmI sarvABaraRaBUzitA #}|{# saKImaDye 'navAdyANgI vidyutsOdAmanI yaTA #}||
+<ls>MBH. 3,2083.</ls> {#ezA gaNgA saptaviDA rAjate#}
+<ls n="MBH. 3,">10821.</ls> {#upagIyamAnA BramarE rAjante vanarAjayaH#}
+<ls n="MBH. 3,">11606.</ls> <ls>R. 2,66,22.</ls> {#mAlyApaRezu rAjante nAdya paRyAni vE taTA#}
+<ls n="R. 2,">71,37.</ls> <ls n="R. 2,">76,9.</ls> <ls>R. GORR. 2,107,14.</ls> <ls>MṚCCH. 1,7.</ls> <ls>VIKR. 160.</ls> {#sato 'pi hi na rAjante daridrasyetare guRAH#}
+<ls>Spr. 3120.</ls> {#muktAkaratayA#} {%in der Gestalt von%}
+<ls n="Spr.">3152.</ls> <ls n="Spr.">3842.</ls> {#pratiSaSI ca yadA divi rAjate#}
+<ls>VARĀH. BṚH. S. 28,11.</ls>
+<ls>KATHĀS. 27,136.</ls> {#haMsavatkApi rAjate#}
+<ls n="KATHĀS.">47,111.</ls> {#nfttena kAcidrAjate#}
+<ls n="KATHĀS. 47,">113.</ls> <ls>WEBER, RĀMAT. UP. 286.</ls> {#rAjante tAvadanyAni purARAni satAM gaRe #}|{# yAvadBAgavataM nEva SrUyate#}
+<ls>BHĀG. P. 12,13,14.</ls>
+<ls>MĀRK. P. 31,65.</ls>
+<ls>PRAB. 41,10.</ls> {#toyadezu yaTA — rAjamAnA SatahradA#}
+<ls>MBH. 6,4542.</ls> {#sUkzmavastraDaraM reje jaGanam#}
+<ls n="MBH.">3,1827.</ls> <ls>KUMĀRAS. 6,49.</ls> {#guruRA stanaBAreRa muKacandreRa BAsvatA #}|{# SanEScarAByAM pAdAByAM reje grahamayIva #}||
+<ls>Spr. 865.</ls> <ls n="Spr.">2211.</ls> {#suptaprabudDamiva tadreje rAjagfhaM tataH#}
+<ls>KATHĀS. 14,21.</ls> <ls n="KATHĀS.">21,14.</ls> <ls n="KATHĀS.">27,8.</ls> <ls n="KATHĀS.">39,160.</ls>
+<ls>RĀJA-TAR. 4,514.</ls>
+<ls>BHĀG. P. 3,19,3.</ls> <ls n="BHĀG. P.">8,15,35.</ls> — partic. {#rAjita#} (könnte auch zum caus. gezogen werden) {%sich auszeichnend, prangend, glänzend, verschönert%}: {#vakzorAjitakOstuBa#}
+<ls>HARIV. 15778.</ls> {#(DvajaH) vicitravarRavicaladvEjayantIva rAjitaH#}
+<ls>KATHĀS. 81,35.</ls> {#vihaMgamEH #}|{# guYjadBirita ehIti vadadBiriva rAjitam#} ({#vanam#})
+<ls n="KATHĀS.">71,195.</ls> <ls>BHĀG. P. 4,6,18.</ls> <ls>KĀVYĀD. 3,10.</ls> <ls>BHAṬṬ. 17,101.</ls> {#bAREH — gArDrarAjitEH#} (vgl. u. {#gArDravAjita#}, auch in den Nachträgen)
+<ls>MBH. 3,12230.</ls> {#kaNka°#} ({#kaNkatejita#} die neuere Ausg.)
+<ls>HARIV. 9318.</ls>
+<ls>KIR. 5,9.</ls> {#ratna°#}
+<ls>KATHĀS. 12,154.</ls> {#hArakeyUra°#}
+<ls n="KATHĀS.">26,232.</ls> <ls n="KATHĀS.">33,211.</ls> <ls n="KATHĀS.">43,9.</ls> {#vikIrRakUladrumarAjitAsu nadIzu#}
+<ls>MBH. 13,522.</ls> {#(saraH) jalormiravarAjitam#}
+<ls>ŚATR. 1,60.</ls> {#ullasanmattakokilArAvarAjite maDUtsave#}
+<ls>KATHĀS. 35,5.</ls>
+<div n="p">— caus. {%walten, herrschen%}: {#a\Di\rA\jo rAja^su rAjayAtE (°ti#}
+<ls>TS.</ls>) <ls>AV. 6,98,1.</ls>
+<div n="p">— {#ati#} {%hinfahren über%}: {#sa\dyo yaH sya\ndro vizi^to\ DavI^yAnf\Ro na tA\yurati\ DanvA^ rAw#}
+<ls>ṚV. 6,12,5.</ls>
+<div n="p">— {#anu#} {%nachahmen%}: {#u\Be vAcO^ vadati sAma\gA i^va gAya\traM ca\ trEzwu^Ba\M cAnu^ rAjati#}
+<ls>ṚV. 2,43,1.</ls> {#somo^ vi\rAja\manu^ rAjati\ zwup#}
+<ls n="ṚV.">9,96,18.</ls>
+<div n="p">— {#aBi#} med. {%prangen%}: {#etasyorasi suvyaktaM SrIvatsamaBirAjate#}
+<ls>MBH. 3,10960.</ls>
+<div n="p">— {#upa#} an zwei verdorbenen Stellen, nämlich
+<ls>MBH. 9,3608</ls> und <ls>PAÑCAT. V,12</ls>; an der ersten Stelle ist mit der <ls>ed. Bomb.</ls> zu lesen: {#na vimatiM kAMcidBajitvA tu parAjitaH#}, an der zweiten mit
 <ls>BÜHLER</ls> : {#A janmanaH smarotpattO mAnasenozarAyitam#} .
-
-<div n="p">— {#nis#} caus. 
+<div n="p">— {#nis#} caus.
 <div n="1"> 1) {%prangend machen, erglänzen lassen%}: {#aspfzwacaraRA #}
 [Page6-0312]
-{# hyasya cUqAmaRimarIciBiH . nIrAjayanti BUpAlAH pAdapIWAntaBUtalam ..#} 
-<ls>PRAB. 23, 6. 7.</ls> {#amaracayacamUcakracUqAmaRiSreRinIrAjitopAntapAdadvayAmBoja#} 
-<ls>81, 3. 2, 3.</ls> {#divyAstrasPuradugradIDitiSiKAnIrAjitajyaM DanuH#} 
-<ls>UTTARAR. 111, 14 (150, 12).</ls> 
-<div n="1">— 2) {%die%} {#nIrAjana#} {%genannte Cerimonie vollziehen an%} (acc.): {#nIrAjayitvA sEnyAni prayAnti vijigIzavaH#} ({#pfTivIkzitaH#}) 
-<ls>HARIV. 3840.</ls> {#rAjA nIrAjitaH#} 
-<ls>VARĀH. BṚH. S. 44, 22.</ls> {#nIrAjitahayadvipa#} 
-<ls>KĀM. NĪTIS. 4, 66.</ls>
-
-<div n="p">— {#pari#} {%nach allen Seiten hin Glanz verbreiten%}: {#praBayA parirAjantam#} ({#mfgam#}) 
-<ls>R. 3, 49, 3.</ls> {#vftAH suhfdBiH parirejurojasA yaTA sadasyErfziBistrayo 'gnayaH#} 
-<ls>2, 112, 33.</ls> {#sarvato hanumAnekaH saMpatanparirAjate . hutASana ivAkASe jvAlAmAlAparizkftaH ..#} 
-<ls>5, 52, 7.</ls>
-
-<div n="p">— {#prati#} {%in seinem Glanze erscheinen wie%} {#(iva): anUpopavanEH kAntEH kAntA janamanoramA . satArakA dyOriva sA dvArakA pratyarAjata ..#} 
+{# hyasya cUqAmaRimarIciBiH . nIrAjayanti BUpAlAH pAdapIWAntaBUtalam ..#}
+<ls>PRAB. 23,6. 7.</ls> {#amaracayacamUcakracUqAmaRiSreRinIrAjitopAntapAdadvayAmBoja#}
+<ls n="PRAB.">81,3. 2,3.</ls> {#divyAstrasPuradugradIDitiSiKAnIrAjitajyaM DanuH#}
+<ls>UTTARAR. 111,14 (150,12).</ls>
+<div n="1">— 2) {%die%} {#nIrAjana#} {%genannte Cerimonie vollziehen an%} (acc.): {#nIrAjayitvA sEnyAni prayAnti vijigIzavaH#} ({#pfTivIkzitaH#})
+<ls>HARIV. 3840.</ls> {#rAjA nIrAjitaH#}
+<ls>VARĀH. BṚH. S. 44,22.</ls> {#nIrAjitahayadvipa#}
+<ls>KĀM. NĪTIS. 4,66.</ls>
+<div n="p">— {#pari#} {%nach allen Seiten hin Glanz verbreiten%}: {#praBayA parirAjantam#} ({#mfgam#})
+<ls>R. 3,49,3.</ls> {#vftAH suhfdBiH parirejurojasA yaTA sadasyErfziBistrayo 'gnayaH#}
+<ls n="R.">2,112,33.</ls> {#sarvato hanumAnekaH saMpatanparirAjate . hutASana ivAkASe jvAlAmAlAparizkftaH ..#}
+<ls n="R.">5,52,7.</ls>
+<div n="p">— {#prati#} {%in seinem Glanze erscheinen wie%} {#(iva): anUpopavanEH kAntEH kAntA janamanoramA . satArakA dyOriva sA dvArakA pratyarAjata ..#}
 <ls>HARIV. 6545.</ls>
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) = simpl. 1): {#bf\hanma^hAnta urvi\yA vi rA^jaTa#} 
-<ls>ṚV. 5, 55, 2.</ls> <ls n="ṚV.">1, 188, 4.</ls> <ls n="ṚV.">3, 10, 7.</ls> {#sa da^rSa\tasya\ vapu^zo\ vi rA^jasi#} 
-<ls n="ṚV.">10, 140, 4.</ls> {#vI\rasya^#} 
-<ls n="ṚV. 10,">159, 6.</ls> {#de\vAnA^m#} 
-<ls>AV. 1, 10, 1. 19, 42, 4.</ls> {#vi te\ madA^ arAjizuH#} {%bemeisterten dich%} 
-<ls>8, 14, 10.</ls> {#ma\ndA\no a\sya ba\rhizo\ vi rA^jasi#} 
-<ls>13, 4. 15, 5.</ls> {#Diyo\ viSvA\ vi rA^jati#} 
-<ls>1, 3, 12.</ls> {#pu\rURyannA\ saha^sA\ vi rA^jasi#} {%bemeistern%} 
-<ls>5, 8, 5.</ls> {#viSva\M Buva^nam#} 
-<ls>63, 7.</ls> {#reBo na pU\rvIru\zaso\ vi rA^jati#} 
-<ls>9, 71, 7. 10, 170, 1.</ls> {#tri\MSadDAma^#} 
-<ls>189, 3.</ls> {#vi parva^tezu rAjaTa#} 
-<ls>8, 7, 1.</ls> {#a\gniH pri\yezu\ DAma^su sa\mrAqeko\ vi rA^jati#} 
-<ls>VS. 12, 117.</ls> 
-<ls>AV. 2, 36, 3. 3, 4, 1.</ls> {#u\gro vi\rAja\nnapa^ vfNkzva\ SatrU^n#} 
-<ls>12, 6. 11, 1, 22. 5, 16. 14, 1, 64.</ls> {#yo vAva sarvAsu dikzu virAjati sa eva virAjati#} 
-<ls>ŚAT. BR. 8, 5, 1, 5.</ls> {#loke#} 
-<ls>AIT. BR. 1, 5.</ls> {#pava^mAno\ (somaH#}, der auch {#rAjan#} ist) {#vi rA^jati#} 
-<ls>ṚV. 9, 5, 1.</ls> {#ra\yirvi rA^jati dyu\mAn#} 
-<ls n="ṚV. 9, 5,">3.</ls> <ls n="ṚV. 9,">61, 18.</ls> 
-<div n="1">— 2) = simpl. 2); act.: {#virAjati prajYayA paSuBirbrahmavarcasA#} 
-<ls>CHĀND. UP. 2, 16, 2.</ls> {#vyarAjaYCAKinastatra sUryAMSupratiraYjitAH#} 
-<ls>MBH. 1, 1412.</ls> {#virAjati yaTA somo meGErmuktaH#} 
-<ls>3, 8106. 8148.</ls> {#ezA BAgIraTI - vAteritA patAkeva virAjati naBastale#} 
-<ls>8646.</ls> <ls>R. 2, 97, 19.</ls> <ls>R. GORR. 2, 103, 6. 106, 16. 3, 32, 31.</ls> {#hfdyAvupacitO vfttO saMhatO tO#} {#(payoDarO) virAjataH#} 
-<ls>?52, 25. 4, 44, 56. 5, 67, 13. R. ed. Bomb. 4, 40, 55. Spr. 2277.</ls> {#SIlaM SOcaM kzAntirdAkziRyaM maDuratA kule janma . na virAjanti hi sarve vittahInasya puruzasya ..#} 
-<ls>2992.</ls> <ls>ŚIŚ. 9, 62.</ls> {#mfdukuYcitadIrGeRa kusumotkaraDAriRA . keSahastena lalanA jagAmATa virAjatI ..#} 
-<ls>MBH. 3, 1822. 2437. 12068.</ls> {#some mandaraSmO virAjati#} 
-<ls>HARIV. 4356.</ls> {#sUrye virAjati#} 
-<ls>4897.</ls> <ls>R. 5, 11, 1. 45, 2. 6, 84, 27.</ls> {#karakamalavirAjatsvAyuDA#} 
-<ls>PAÑCAR. 3, 8, 2.</ls> <ls>BHAṬṬ. 6, 143.</ls> {#saha sItayA . virarAja mahAbAhuScitrayeva niSAkaraH#} 
-<ls>R. 3, 23, 11.</ls> 
-<ls>RAGH. 2, 20. 15, 10.</ls> 
-<ls>RĀJA-TAR. 6, 279.</ls> {#kfzRayAnugatO tatra nfvIrO tO virejatuH#} 
-<ls>MBH. 1, 7125.</ls> 
-<ls>R. 1, 19, 12. 2, 104, 30. 3, 56, 32.</ls> 
-<ls>KATHĀS. 18, 6. 19, 68. 34, 32.</ls> 
-<ls>BHAṬṬ. 11, 21.</ls> — med.: {#anusaMvatsaraM jAtA api te kurusattamAH . pARquputrA vyarAjanta paYca saMvatsarA iva ..#} {%erschienen wie%} 
-<ls>MBH. 1, 4856.</ls> {#etasmAtkAraRAt - hariScandro virAjate . teByo rAjasahasreByaH#} {%überragen%} 
-<ls>2, 496.</ls> {#vimAnasTo virAjate#} 
-<ls>3, 8138.</ls> {#eza tasyASramaH puRyo ya ezo 'gre virAjate#} 
-<ls>10510.</ls> {#candravisparDinA devi muKena tvaM virAjase#} 
-<ls>4, 189. 238. 1043.</ls> {#yaSasA#} 
-<ls>13, 1707.</ls> {#guRAH#} 
-<ls>5898.</ls> <ls>R. 1, 13, 29. 2, 65, 17. 80, 21. 94, 6.</ls> <ls>R. GORR. 2, 8, 43. 26, 12. 59, 17. 3, 52, 30. 4, 2, 15. 6, 92, 83.</ls> <ls>KĀM. NĪTIS. 8, 2. 87.</ls> <ls>Spr. 1271. 3347. 4165. 4409.</ls> {#(vAk) priyA vA maDurA vA tu svAmyezveva virAjate#} so v. a. {%am Platze sein%} 
-<ls>4600. 5195.</ls> <ls>KIR. 5,16.</ls> <ls>KATHĀS. 25,173.</ls> <ls>RĀJA-TAR. 4,401.</ls> <ls>BHĀG. P. 2,9,12.3,13,39.9,5,8.</ls> <ls>Verz. d. Oxf. H. 148,b,8.</ls> {#nAgASca BUrimadarAjivirAjamAnAH#} 
-<ls>Spr. 2916.</ls> 
-<ls>RĀJA-TAR. 6, 317.</ls> 
-<ls>BHĀG. P. 8, 15, 5.</ls> 
-<ls>PRAB. 21, 18.</ls> {#sOBAgyacihnamiva mUrDni padaM vireje#} 
-<ls>Spr.</ls> <ls>?3248.RĀJA-TAR. 4, 195. 5, 449. BHĀG. P. 4, 15, 13.</ls>
+<div n="p">— {#vi#}
+<div n="1"> 1) = simpl. 1): {#bf\hanma^hAnta urvi\yA vi rA^jaTa#}
+<ls>ṚV. 5,55,2.</ls> <ls n="ṚV.">1,188,4.</ls> <ls n="ṚV.">3,10,7.</ls> {#sa da^rSa\tasya\ vapu^zo\ vi rA^jasi#}
+<ls n="ṚV.">10,140,4.</ls> {#vI\rasya^#}
+<ls n="ṚV. 10,">159,6.</ls> {#de\vAnA^m#}
+<ls>AV. 1,10,1.</ls> <ls n="AV.">19,42,4.</ls> {#vi te\ madA^ arAjizuH#} {%bemeisterten dich%}
+<ls n="AV.">8,14,10.</ls> {#ma\ndA\no a\sya ba\rhizo\ vi rA^jasi#}
+<ls n="AV. 1,">13,4.</ls> <ls n="AV. 1,">15,5.</ls> {#Diyo\ viSvA\ vi rA^jati#}
+<ls n="AV.">1,3,12.</ls> {#pu\rURyannA\ saha^sA\ vi rA^jasi#} {%bemeistern%}
+<ls n="AV.">5,8,5.</ls> {#viSva\M Buva^nam#}
+<ls n="AV. 1,">63,7.</ls> {#reBo na pU\rvIru\zaso\ vi rA^jati#}
+<ls n="AV.">9,71,7.</ls> <ls n="AV.">10,170,1.</ls> {#tri\MSadDAma^#}
+<ls n="AV. 1,">189,3.</ls> {#vi parva^tezu rAjaTa#}
+<ls n="AV.">8,7,1.</ls> {#a\gniH pri\yezu\ DAma^su sa\mrAqeko\ vi rA^jati#}
+<ls>VS. 12,117.</ls>
+<ls>AV. 2,36,3.</ls> <ls n="AV.">3,4,1.</ls> {#u\gro vi\rAja\nnapa^ vfNkzva\ SatrU^n#}
+<ls n="AV. 2,">12,6.</ls> <ls n="AV.">11,1,22.</ls> <ls n="AV. 11,">5,16.</ls> <ls n="AV.">14,1,64.</ls> {#yo vAva sarvAsu dikzu virAjati sa eva virAjati#}
+<ls>ŚAT. BR. 8,5,1,5.</ls> {#loke#}
+<ls>AIT. BR. 1,5.</ls> {#pava^mAno\ (somaH#}, der auch {#rAjan#} ist) {#vi rA^jati#}
+<ls>ṚV. 9,5,1.</ls> {#ra\yirvi rA^jati dyu\mAn#}
+<ls n="ṚV. 9,5,">3.</ls> <ls n="ṚV. 9,">61,18.</ls>
+<div n="1">— 2) = simpl. 2); act.: {#virAjati prajYayA paSuBirbrahmavarcasA#}
+<ls>CHĀND. UP. 2,16,2.</ls> {#vyarAjaYCAKinastatra sUryAMSupratiraYjitAH#}
+<ls>MBH. 1,1412.</ls> {#virAjati yaTA somo meGErmuktaH#}
+<ls n="MBH.">3,8106.</ls> <ls n="MBH. 3,">8148.</ls> {#ezA BAgIraTI — vAteritA patAkeva virAjati naBastale#}
+<ls n="MBH. 1,">8646.</ls> <ls>R. 2,97,19.</ls> <ls>R. GORR. 2,103,6.</ls> <ls n="R. GORR. 2,">106,16.</ls> <ls n="R. GORR.">3,32,31.</ls> {#hfdyAvupacitO vfttO saMhatO tO#} {#(payoDarO) virAjataH#}
+<ls n="R. GORR. 2,">52,25.</ls> <ls n="R. GORR.">4,44,56.</ls> <ls n="R. GORR.">5,67,13.</ls> <ls>R. ed. Bomb. 4,40,55.</ls> <ls>Spr. 2277.</ls> {#SIlaM SOcaM kzAntirdAkziRyaM maDuratA kule janma . na virAjanti hi sarve vittahInasya puruzasya ..#}
+<ls n="Spr.">2992.</ls> <ls>ŚIŚ. 9,62.</ls> {#mfdukuYcitadIrGeRa kusumotkaraDAriRA . keSahastena lalanA jagAmATa virAjatI ..#}
+<ls>MBH. 3,1822.</ls> <ls n="MBH. 3,">2437.</ls> <ls n="MBH. 3,">12068.</ls> {#some mandaraSmO virAjati#}
+<ls>HARIV. 4356.</ls> {#sUrye virAjati#}
+<ls n="HARIV.">4897.</ls> <ls>R. 5,11,1.</ls> <ls n="R. 5,">45,2.</ls> <ls n="R.">6,84,27.</ls> {#karakamalavirAjatsvAyuDA#}
+<ls>PAÑCAR. 3,8,2.</ls> <ls>BHAṬṬ. 6,143.</ls> {#saha sItayA . virarAja mahAbAhuScitrayeva niSAkaraH#}
+<ls>R. 3,23,11.</ls>
+<ls>RAGH. 2,20.</ls> <ls n="RAGH.">15,10.</ls>
+<ls>RĀJA-TAR. 6,279.</ls> {#kfzRayAnugatO tatra nfvIrO tO virejatuH#}
+<ls>MBH. 1,7125.</ls>
+<ls>R. 1,19,12.</ls> <ls n="R.">2,104,30</ls> <ls n="R.">3,56,32.</ls>
+<ls>KATHĀS. 18,6.</ls> <ls n="KATHĀS.">19,68.</ls> <ls n="KATHĀS.">34,32.</ls>
+<ls>BHAṬṬ. 11,21.</ls> — med.: {#anusaMvatsaraM jAtA api te kurusattamAH . pARquputrA vyarAjanta paYca saMvatsarA iva ..#} {%erschienen wie%}
+<ls>MBH. 1,4856.</ls> {#etasmAtkAraRAt — hariScandro virAjate . teByo rAjasahasreByaH#} {%überragen%}
+<ls n="MBH.">2,496.</ls> {#vimAnasTo virAjate#}
+<ls n="MBH.">3,8138.</ls> {#eza tasyASramaH puRyo ya ezo 'gre virAjate#}
+<ls n="MBH. 3,">10510.</ls> {#candravisparDinA devi muKena tvaM virAjase#}
+<ls n="MBH.">4,189.</ls> <ls n="MBH. 4,">238.</ls> <ls n="MBH. 4,">1043.</ls> {#yaSasA#}
+<ls n="MBH.">13,1707.</ls> {#guRAH#}
+<ls n="MBH. 13,">5898.</ls> <ls>R. 1,13,29.</ls> <ls n="R.">2,65,17.</ls> <ls n="R. 2,">80,21.</ls> <ls n="R. 2,">94,6.</ls> <ls>R. GORR. 2,8,43.</ls> <ls n="R. GORR. 2,">26,12.</ls> <ls n="R. GORR. 2,">59,17.</ls> <ls n="R. GORR.">3,52,30.</ls> <ls n="R. GORR.">4,2,15.</ls> <ls n="R. GORR.">6,92,83.</ls> <ls>KĀM. NĪTIS. 8,2. 87.</ls> <ls>Spr. 1271.</ls> <ls n="Spr.">3347.</ls> <ls n="Spr.">4165.</ls> <ls n="Spr.">4409.</ls> {#(vAk) priyA vA maDurA vA tu svAmyezveva virAjate#} so v. a. {%am Platze sein%}
+<ls n="Spr.">4600.</ls> <ls n="Spr.">5195.</ls> <ls>KIR. 5,16.</ls> <ls>KATHĀS. 25,173.</ls> <ls>RĀJA-TAR. 4,401.</ls> <ls>BHĀG. P. 2,9,12.</ls> <ls n="BHĀG. P.">3,13,39.</ls> <ls n="BHĀG. P.">9,5,8.</ls> <ls>Verz. d. Oxf. H. 148,b,8.</ls> {#nAgASca BUrimadarAjivirAjamAnAH#}
+<ls>Spr. 2916.</ls>
+<ls>RĀJA-TAR. 6,317.</ls>
+<ls>BHĀG. P. 8,15,5.</ls>
+<ls>PRAB. 21,18.</ls> {#sOBAgyacihnamiva mUrDni padaM vireje#}
+<ls>Spr. 3248.</ls> <ls>RĀJA-TAR. 4,195. 5,449.</ls> <ls>BHĀG. P. 4,15,13.</ls>
 [Page6-0313]
-— partic. {#virAjita#} (könnte auch zum caus. gezogen werden) = {#rAjitaH toraRena virAjitaM raNgam#} 
-<ls>MBH. 3, 2193.</ls> {#suvarRaSfNgEstu virAjitAnAM gavAm#} 
-<ls>?13, 2952. HARIV. 2422. 6880. 11790. R. 2, 100, 21 (108, 20 GORR.). 5, 13, 29. VARĀH. BṚH. S. 12, 2.</ls> {#SIlena virAjitavapurguRaH#} 
-<ls>KATHĀS. 20,117. 22,251. 25,15.</ls> 
-<ls>BHĀG. P.3,23,15.8,18,3.</ls> <ls>Verz. d. Oxf. H. 151,a,7.</ls> <ls>PAÑCAR.1,6,15.7,29.</ls> {#gfhaM krIqArativirAjitam#} 
-<ls>MBH. 4, 741. 7, 1567.</ls> {#yudDaM siMhanAdavirAjitam#} 
-<ls>7063. 12, 12316.</ls> <ls>HARIV. 11861.</ls> <ls>R. 5, 13, 11.</ls> <ls>KIR. 5, 4.</ls> <ls>KATHĀS. 106, 46.</ls> {#jYAnena vijYAnavirAjitena#} 
-<ls>BHĀG. P. 5, 5, 13.</ls> 
-<ls>PAÑCAR. 1, 3, 77. fg. 4, 57.</ls> <ls>ŚATR. 1, 296.</ls> 
-<div n="v">— Vgl. {#virAj#} . — caus. {%prangen machen, mit Glanz erfüllen, Glanz verleihen, erhellen%}; mit acc.: {#(gokulam) virAjayati taM deSam#} 
-<ls>MBH. 13, 2699.</ls> {#virAjayanrAjasuto rAjamArgam#} 
-<ls>R. 2, 26, 2.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 38, 17. 3, 75, 55.</ls> {#BUtAni sarvARi virAjayantam#} ({#SItAMSum#}) 
-<ls>5, 11, 4.</ls> <ls>BHĀG. P. 5, 20, 13.</ls> {#vyarA jayata vEdehI veSma tatsuviBUzitA . udyatoM 'SumataH kAle KaM praBeva vivasvataH ..#} 
-<ls>R. 2, 39, 18.</ls>
-
-<div n="p">— {#ativi#} ({#ati vi#}) {%in hohem Grade prangen, - glänzen%}; med. 
-<ls>MBH. 3, 2700. 11844. 11860. 11863.</ls> 
-<ls>HARIV. 7078.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 2, 22.</ls> 
-<ls>KĀM. NĪTIS. 3, 14.</ls>
-
-<div n="p">— {#aDivi#} {%vorherrschen, sich auszeichnen vor%} (acc.): {#su\ru\kme hyaDi^ Sri\yA vi\rAja^taH#} 
-<ls>ṚV. 1, 188, 6.</ls> {#aDi^ tripf\zWa u\zaso\ vi rA^jati#} 
-<ls n="ṚV.">9, 75, 3.</ls>
-
-<div n="p">— {#anuvi#} {%nachlenken%}: {#anu^ pra\yARa^mu\zaso\ vi rA^jati#} {%der Bahn der Morgenröthe zieht er nach%} 
-<ls>ṚV. 5, 81, 2.</ls>
-
-<div n="p">— {#aBivi#} 
-<div n="1"> 1) als Umschreibung von {#vi + rAj#} 
-<ls>NIR. 11, 27</ls> wohl {%regieren.%} 
-<div n="1">— 2) {%prangen, einen Glanz um sich verbreiten%}; med.: {#(nArAyaRasTAnam) BAsayansarvaBUtAni suSriyABivirAjate#} 
-<ls>MBH. 3, 11861. 7, 3945.</ls> {#na tatra sUryastapati na somo 'BivirAjate#} 
-<ls>12, 13362.</ls> <ls>HARIV. 6413.</ls> <ls>R. 2, 26, 10.</ls> <ls>BHĀG. P. 8, 3, 5.</ls> partic. {#°rAjita#} (könnte auch caus. sein) {%prangend, in vollem Glanze stehend%}: {#divyapuzpopahArESca sarvato 'BivirAjitam#} ({#ASramam#}) 
-<ls>MBH. 3, 11042. 12, 1546.</ls>
-
-<div n="p">— {#saMvi#} {%prangen%}: {#arjunastu raRe rAjanyoDayansaMvyarAjata#} 
-<ls>MBH. 6, 5472.</ls>
-
-<div n="p">— {#sam#} {%walten über%}: {#sa\mrAja^ntamaDva\rARA^m#} 
-<ls>ṚV. 1, 27, 1.</ls> {#saMrAjitum#} 
-<ls>P. 8, 3, 25,</ls> 
-<ls>Sch.</ls> 
+— partic. {#virAjita#} (könnte auch zum caus. gezogen werden) = {#rAjitaH toraRena virAjitaM raNgam#}
+<ls>MBH. 3,2193.</ls> {#suvarRaSfNgEstu virAjitAnAM gavAm#}
+<ls n="MBH.">13,2952.</ls> <ls>HARIV. 2422.</ls> <ls n="HARIV.">6880.</ls> <ls n="HARIV.">11790.</ls> <ls>R. 2,100,21</ls> (<ls n="GORR. 2,">108,20</ls> <ls>GORR.</ls>). <ls n="R.">5,13,29.</ls> <ls>VARĀH. BṚH. S. 12,2.</ls> {#SIlena virAjitavapurguRaH#}
+<ls>KATHĀS. 20,117.</ls> <ls n="KATHĀS.">22,251.</ls> <ls n="KATHĀS.">25,15.</ls>
+<ls>BHĀG. P. 3,23,15.</ls> <ls n="BHĀG. P.">8,18,3.</ls> <ls>Verz. d. Oxf. H. 151,a,7.</ls> <ls>PAÑCAR. 1,6,15. 7,29.</ls> {#gfhaM krIqArativirAjitam#}
+<ls>MBH. 4,741.</ls> <ls n="MBH.">7,1567.</ls> {#yudDaM siMhanAdavirAjitam#}
+<ls n="MBH. 7,">7063.</ls> <ls n="MBH.">12,12316.</ls> <ls>HARIV. 11861.</ls> <ls>R. 5,13,11.</ls> <ls>KIR. 5,4.</ls> <ls>KATHĀS. 106,46.</ls> {#jYAnena vijYAnavirAjitena#}
+<ls>BHĀG. P. 5,5,13.</ls>
+<ls>PAÑCAR. 1,3,77. fg. 4,57.</ls> <ls>ŚATR. 1,296.</ls>
+<div n="v">— Vgl. {#virAj#} . — caus. {%prangen machen, mit Glanz erfüllen, Glanz verleihen, erhellen%}; mit acc.: {#(gokulam) virAjayati taM deSam#}
+<ls>MBH. 13,2699.</ls> {#virAjayanrAjasuto rAjamArgam#}
+<ls>R. 2,26,2.</ls>
+<ls>R. GORR. 2,38,17.</ls> <ls n="R. GORR.">3,75,55.</ls> {#BUtAni sarvARi virAjayantam#} ({#SItAMSum#})
+<ls n="R. GORR.">5,11,4.</ls> <ls>BHĀG. P. 5,20,13.</ls> {#vyarA jayata vEdehI veSma tatsuviBUzitA . udyatoM 'SumataH kAle KaM praBeva vivasvataH ..#}
+<ls>R. 2,39,18.</ls>
+<div n="p">— {#ativi#} ({#ati vi#}) {%in hohem Grade prangen, — glänzen%}; med.
+<ls>MBH. 3,2700.</ls> <ls n="MBH. 3,">11844.</ls> <ls n="MBH. 3,">11860.</ls> <ls n="MBH. 3,">11863.</ls>
+<ls>HARIV. 7078.</ls>
+<ls>R. GORR. 2,2,22.</ls>
+<ls>KĀM. NĪTIS. 3,14.</ls>
+<div n="p">— {#aDivi#} {%vorherrschen, sich auszeichnen vor%} (acc.): {#su\ru\kme hyaDi^ Sri\yA vi\rAja^taH#}
+<ls>ṚV. 1,188,6.</ls> {#aDi^ tripf\zWa u\zaso\ vi rA^jati#}
+<ls n="ṚV.">9,75,3.</ls>
+<div n="p">— {#anuvi#} {%nachlenken%}: {#anu^ pra\yARa^mu\zaso\ vi rA^jati#} {%der Bahn der Morgenröthe zieht er nach%}
+<ls>ṚV. 5,81,2.</ls>
+<div n="p">— {#aBivi#}
+<div n="1"> 1) als Umschreibung von {#vi + rAj#}
+<ls>NIR. 11,27</ls> wohl {%regieren.%}
+<div n="1">— 2) {%prangen, einen Glanz um sich verbreiten%}; med.: {#(nArAyaRasTAnam) BAsayansarvaBUtAni suSriyABivirAjate#}
+<ls>MBH. 3,11861.</ls> <ls n="MBH.">7,3945.</ls> {#na tatra sUryastapati na somo 'BivirAjate#}
+<ls n="MBH.">12,13362.</ls> <ls>HARIV. 6413.</ls> <ls>R. 2,26,10.</ls> <ls>BHĀG. P. 8,3,5.</ls> partic. {#°rAjita#} (könnte auch caus. sein) {%prangend, in vollem Glanze stehend%}: {#divyapuzpopahArESca sarvato 'BivirAjitam#} ({#ASramam#})
+<ls>MBH. 3,11042.</ls> <ls n="MBH.">12,1546.</ls>
+<div n="p">— {#saMvi#} {%prangen%}: {#arjunastu raRe rAjanyoDayansaMvyarAjata#}
+<ls>MBH. 6,5472.</ls>
+<div n="p">— {#sam#} {%walten über%}: {#sa\mrAja^ntamaDva\rARA^m#}
+<ls>ṚV. 1,27,1.</ls> {#saMrAjitum#}
+<ls>P. 8,3,25</ls>, <ls>Sch.</ls>
 <div n="v">— Vgl. {#samrAj#} .
 <LEND>

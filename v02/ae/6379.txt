@@ -1,25 +1,25 @@
 <L>6379<pc>272<k1>luxury<k2>luxury
 {@Luxury,@}¦ {%s.%} {#vizayasuKaM, suKopaBogaH, suKa-#}
-<div n="lb"/>{#-Boga-Asakti#} {%f.,%} {#vizayaBogaH-sevA, vilAsaH,#}
-<div n="lb"/>{#vilAsitvaM, suKasevA-AsvAdaH#}. {@2@} {#suKaM,#}
-<div n="lb"/>{#BogaH, suKasADanaM, BogasADanaM, suKasAhityaM#}.
-<div n="lb"/>{@3@} {#svAdvannaM, BojanaviSezaH, uttamAnnaM, viSizwa-#}
-<div n="lb"/>{#-BojanaM#}. {@-iance, -iancy,@} {%s.%} {#ati-vfdDi-sPIti#}
-<div n="lb"/>{%f.,%} {#samfdDi#} {%f.,%} {#vfdDibAhulyaM, udrekaH#}. {@-iant,@}
-<div n="lb"/>{%a.%} {#ativarDizRu, atisPIta, atisamfdDa,#}
-<div n="lb"/>{#supracura, atyata, atibahula, udrikta, ati-#}
-<div n="lb"/>{#-rika, atyaDika#} {@-iantly,@} {%adv.%} {#atisamf-#}
-<div n="lb"/>{#-dDyA, atiprAcuryeRa, bAhulyena, atibahulaM,#}
-<div n="lb"/>{#atiriktaM, atibahuSaH#}. {@-late,@} {%v. i.%} {#atyaMtaM#}
-<div n="lb"/>{#vfD#} or {#sPAy#} 1 A or {#fD#} 4, 5 P or {#A-pyE#}
-<div n="lb"/>1 A, {#ativfdDiM i#} 1 P, {#atipracurIBU#} 1. P. {@2@}
-<div n="lb"/>{#ativilAsena vft#} 1 A or {#vyava-hf#} 1 A
-<div n="lb"/>{#yaTecCaM sev#} 1 A or {#upaBuj#} 7 A.
-<div n="lb"/>{@-ious,@} {%a.%} {#vilAsAsakta, vizayasevin, viza-#}
-<div n="lb"/>{#-yAsakta, suKa-Boga-parAyaRa, iMdriyasuKanirata,#}
-<div n="lb"/>{#suKAsvAdatatpara#}. {@2@} {#vilAsayukta-maya#} ({#yI#} {%f.%}),
-<div n="lb"/>{#savilAsa, atisuKAvaha, suKaBogakara#} ({#rI#} {%f.%}),
-<div n="lb"/>{#BogAnukUla#}. {@-iously,@} {%adv.%} {#savilAsaM,#}
-<div n="lb"/>{#atisuKena; suKopaBogapUrvaM, suKAsaktavat#}.
-<div n="lb"/>{@-iousness,@} {%s.%} {#vilAsitvaM#} &c.; {%See (s.%}).
+{#-Boga-Asakti#} {%f.,%} {#vizayaBogaH-sevA, vilAsaH,#}
+{#vilAsitvaM, suKasevA-AsvAdaH#}. {@2@} {#suKaM,#}
+{#BogaH, suKasADanaM, BogasADanaM, suKasAhityaM#}.
+{@3@} {#svAdvannaM, BojanaviSezaH, uttamAnnaM, viSizwa-#}
+{#-BojanaM#}. {@-iance, -iancy,@} {%s.%} {#ati-vfdDi-sPIti#}
+{%f.,%} {#samfdDi#} {%f.,%} {#vfdDibAhulyaM, udrekaH#}. {@-iant,@}
+{%a.%} {#ativarDizRu, atisPIta, atisamfdDa,#}
+{#supracura, atyata, atibahula, udrikta, ati-#}
+{#-rika, atyaDika#} {@-iantly,@} {%adv.%} {#atisamf-#}
+{#-dDyA, atiprAcuryeRa, bAhulyena, atibahulaM,#}
+{#atiriktaM, atibahuSaH#}. {@-late,@} {%v. i.%} {#atyaMtaM#}
+{#vfD#} or {#sPAy#} 1 A or {#fD#} 4, 5 P or {#A-pyE#}
+1 A, {#ativfdDiM i#} 1 P, {#atipracurIBU#} 1. P. {@2@}
+{#ativilAsena vft#} 1 A or {#vyava-hf#} 1 A
+{#yaTecCaM sev#} 1 A or {#upaBuj#} 7 A.
+{@-ious,@} {%a.%} {#vilAsAsakta, vizayasevin, viza-#}
+{#-yAsakta, suKa-Boga-parAyaRa, iMdriyasuKanirata,#}
+{#suKAsvAdatatpara#}. {@2@} {#vilAsayukta-maya#} ({#yI#} {%f.%}),
+{#savilAsa, atisuKAvaha, suKaBogakara#} ({#rI#} {%f.%}),
+{#BogAnukUla#}. {@-iously,@} {%adv.%} {#savilAsaM,#}
+{#atisuKena; suKopaBogapUrvaM, suKAsaktavat#}.
+{@-iousness,@} {%s.%} {#vilAsitvaM#} &c.; {%See (s.%}).
 <LEND>

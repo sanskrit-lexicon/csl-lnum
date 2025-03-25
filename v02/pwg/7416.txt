@@ -1,37 +1,36 @@
 <L>7416<pc>1-0553<k1>asu<k2>a/su
-{#a/su#}¦ 
-<div n="1"> 1) <lex>m.</lex> 
-<div n="2"> a) {%Lebenshauch, Leben%} (als Kraft und als Zustand); pl. (in der klass. Sprache nur dieser in Gebrauch) {%Lebensgeister%} 
-<ls>NIR. 3, 8. 11,18.</ls>  
-<ls>Uṇ. 1, 10.</ls> 
-<ls>AK. 2, 8, 2, 88.</ls> 
-<ls>TRIK. 3, 5, 6.</ls> 
-<ls>H. 1367.</ls> 
-<ls>SIDDH. K. 249</ls>
+{#a/su#}¦
+<div n="1"> 1) <lex>m.</lex>
+<div n="2"> a) {%Lebenshauch, Leben%} (als Kraft und als Zustand); pl. (in der klass. Sprache nur dieser in Gebrauch) {%Lebensgeister%}
+<ls>NIR. 3,8. 11,18.</ls>
+<ls>Uṇ. 1,10.</ls>
+<ls>AK. 2,8,2,88.</ls>
+<ls>TRIK. 3,5,6.</ls>
+<ls>H. 1367.</ls>
+<ls>SIDDH. K. 249,b,12.</ls>
 [Page1-0554]
-, {%b%}, 
-<ls>12.</ls> {#asu\M para^M ja\naya^M jI\vamastf^tam#} 
-<ls>ṚV. 1, 140, 8.</ls> <ls n="ṚV. 1,">113, 16.</ls> {#BUmyA\ asu\rasf^gA\tmA kva^ svit#} 
-<ls n="ṚV. 1,">164, 4.</ls> {#yadde\vasya\ Sava^sA\ prAri^RA\ asu^M ri\Ranna\paH#} 
-<ls n="ṚV.">2, 22, 4.</ls> {#ati^ kramizwaM ju\rata^M pa\Rerasu^m#} 
-<ls n="ṚV.">1, 182, 3.</ls> {#puna^rdAtA\masu^ma\dyeha Ba\dram#} 
-<ls n="ṚV.">10, 14, 12.</ls> <ls n="ṚV. 10,">12, 1.</ls> <ls n="ṚV. 10,">59, 7.</ls> <ls n="ṚV. 10,">121, 7.</ls> {#asu\M vAgapi^ gacCatu#} 
-<ls>AV. 2, 12, 8. 5, 1, 7. 29, 5. 30, 1. 6, 53, 2. 7, 2, 1. 8, 1, 1. 3. 15. u.s.w.</ls> <ls>VS. 8, 58. 18, 2. 22, 30.</ls> <ls>ŚAT. BR. 2, 4, 2, 21. 6, 6, 2, 6. 14, 5, 1, 11</ls> <ls>?= BṚH. ĀR. UP. 2, 1, 10. 3, 9, 15. AIT. UP. 5, 2.</ls> pl.: {#asu\nAsU\ntsama^cCidan#} 
-<ls>AV. 6, 104, 1.</ls> {#mA te^ hAsizu\rasa^va\H SarI^ram#} 
-<ls>8, 2, 26. 12, 2, 55.</ls> {#trirAyamya SanErasUn#} 
-<ls>M. 3, 217.</ls> {#vigatErasuBiH#} 
-<ls>R. 3, 26, 33.</ls> {#yo hi rakzatyasUnnaraH#} 
-<ls>PAÑCAT. II, 111.</ls> {#adya yAntyetasya#} ({%schwinden%}) {#hi nAsavaH#} 
-<ls>KATHĀS. 25, 143.</ls> {#asUnapi saMtyajanti#} 
-<ls>BHARTṚ. 2, 100.</ls> {#SarIreByo 'marArIRAmasUniva vicinvanti#} 
-<ls>DEV. 2, 67.</ls> {#asuvyayena#} 
-<ls>PRAB. 64, 12.</ls> {#punarasu/#} <lex>adj.</lex> {%wieder auflebend%} 
-<ls>ŚAT. BR. 1, 5, 3, 14.</ls> Vgl. {#adabDAsu, amftAsu, gatAsu, parAsu, vyasu#} . 
-<div n="2">— b) {%das unkörperliche Leben, Geisterleben%}: {#(pitaraH) asu\M ya I\yuH#} 
-<ls>ṚV. 10, 15, 1.</ls> — Ein {#prajYAnAma#} 
-<ls>NAIGH. 3, 9.</ls> 
-<div n="1">— 2) <lex>n.</lex> 
-<div n="2"> a) {%Trauer.%} 
-<div n="2">— b) {%Geist%} ({#citta#}) 
+{#asu\M para^M ja\naya^M jI\vamastf^tam#}
+<ls>ṚV. 1,140,8.</ls> <ls n="ṚV. 1,">113,16.</ls> {#BUmyA\ asu\rasf^gA\tmA kva^ svit#}
+<ls n="ṚV. 1,">164,4.</ls> {#yadde\vasya\ Sava^sA\ prAri^RA\ asu^M ri\Ranna\paH#}
+<ls n="ṚV.">2,22,4.</ls> {#ati^ kramizwaM ju\rata^M pa\Rerasu^m#}
+<ls n="ṚV.">1,182,3.</ls> {#puna^rdAtA\masu^ma\dyeha Ba\dram#}
+<ls n="ṚV.">10,14,12.</ls> <ls n="ṚV. 10,">12,1.</ls> <ls n="ṚV. 10,">59,7.</ls> <ls n="ṚV. 10,">121,7.</ls> {#asu\M vAgapi^ gacCatu#}
+<ls>AV. 2,12,8.</ls> <ls n="AV.">5,1,7.</ls> <ls n="AV. 5,">29,5.</ls> <ls n="AV. 5,">30,1.</ls> <ls n="AV.">6,53,2.</ls> <ls n="AV.">7,2,1.</ls> <ls n="AV.">8,1,1.</ls> <ls n="AV. 8,1,">3.</ls> <ls n="AV. 8,1,">15.</ls> u.s.w. <ls>VS. 8,58.</ls> <ls n="VS.">18,2.</ls> <ls n="VS.">22,30.</ls> <ls>ŚAT. BR. 2,4,2,21. 6,6,2,6. 14,5,1,11</ls> = <ls>BṚH. ĀR. UP. 2,1,10. 3,9,15.</ls> <ls>AIT. UP. 5,2.</ls> pl.: {#asu\nAsU\ntsama^cCidan#}
+<ls>AV. 6,104,1.</ls> {#mA te^ hAsizu\rasa^va\H SarI^ram#}
+<ls n="AV.">8,2,26.</ls> <ls n="AV.">12,2,55.</ls> {#trirAyamya SanErasUn#}
+<ls>M. 3,217.</ls> {#vigatErasuBiH#}
+<ls>R. 3,26,33.</ls> {#yo hi rakzatyasUnnaraH#}
+<ls>PAÑCAT. II,111.</ls> {#adya yAntyetasya#} ({%schwinden%}) {#hi nAsavaH#}
+<ls>KATHĀS. 25,143.</ls> {#asUnapi saMtyajanti#}
+<ls>BHARTṚ. 2,100.</ls> {#SarIreByo 'marArIRAmasUniva vicinvanti#}
+<ls>DEV. 2,67.</ls> {#asuvyayena#}
+<ls>PRAB. 64,12.</ls> {#punarasu/#} <lex>adj.</lex> {%wieder auflebend%}
+<ls>ŚAT. BR. 1,5,3,14.</ls> Vgl. {#adabDAsu, amftAsu, gatAsu, parAsu, vyasu#} .
+<div n="2">— b) {%das unkörperliche Leben, Geisterleben%}: {#(pitaraH) asu\M ya I\yuH#}
+<ls>ṚV. 10,15,1.</ls> — Ein {#prajYAnAma#}
+<ls>NAIGH. 3,9.</ls>
+<div n="1">— 2) <lex>n.</lex>
+<div n="2"> a) {%Trauer.%}
+<div n="2">— b) {%Geist%} ({#citta#})
 <ls>UṆĀDIK.</ls> im <ls>ŚKDR.</ls>
 <LEND>

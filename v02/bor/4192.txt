@@ -1,5 +1,5 @@
 <L>4192<pc>136<k1>compellable<k2>compellable
-<div n="lb"/>{@COMPELLABLE:@}¦ expr. by future pass. part:
-<div n="lb"/><div n="xe">{%c. to pay:%}</div> <div n="xs">{#balAddApyaH#}</div> ({#pyA, pyaM#}); <div n="xe">{%c. to do:%}</div> <div n="xs">{#balAt #}
-<div n="lb"/>{# kAryaH#}</div> ({#ryA, ryaM#}).
+{@COMPELLABLE:@}¦ expr. by future pass. part:
+<div n="xe">{%c. to pay:%}</div> <div n="xs">{#balAddApyaH#}</div> ({#pyA, pyaM#}); <div n="xe">{%c. to do:%}</div> <div n="xs">{#balAt #}
+{# kAryaH#}</div> ({#ryA, ryaM#}).
 <LEND>

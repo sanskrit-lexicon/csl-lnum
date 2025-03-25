@@ -1,10 +1,10 @@
 <L>2540<pc>087<k1>breath<k2>breath
-<div n="lb"/>{@BREATH:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#SvAsaH,#} <div n="xe">{%to take b.%}</div> <div n="xs">{#Svasiti;#}</div></div>
-<div n="lb"/><div n="1">(2) {#niHSvAsaH#} (=air exhaled), <div n="xe">{%to hold b.%}</div> <div n="xs">{#niHSvAsaM #}
-<div n="lb"/>{# ruRadDi;#}</div> </div><div n="1">(3) {#prARaH#} (=air inhaled), {%restraint of%}
-<div n="lb"/>{%b.%} (a religious exercise) {#prARAyAmaH;#} <div n="xe">{%or%}</div> <div n="xs">{#prARa-#}
-<div n="lb"/>{#saMyamaH#}</div> </div><div n="1">(4) {#Svasitam,#} <div n="xe">{%out of b.%}</div> <div n="xs">{#muhurmuhuratyulvaRaM niHSvasiti,#}</div>
-<div n="lb"/><ls>K.</ls> </div><div n="I">II. Life: {#prARAH#} (m. pl.). </div><div n="I">III Respite,
-<div n="lb"/>pause: q. v. {#virAmaH.#} </div><div n="I">IV An instant: {#nimezaH,#}
-<div n="lb"/><div n="xe">{%in a b.%}</div> <div n="xs">{#nimezeRa.#}</div> V. Breeze: q. v.</div>
+{@BREATH:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#SvAsaH,#} <div n="xe">{%to take b.%}</div> <div n="xs">{#Svasiti;#}</div></div>
+<div n="1">(2) {#niHSvAsaH#} (=air exhaled), <div n="xe">{%to hold b.%}</div> <div n="xs">{#niHSvAsaM #}
+{# ruRadDi;#}</div> </div><div n="1">(3) {#prARaH#} (=air inhaled), {%restraint of%}
+{%b.%} (a religious exercise) {#prARAyAmaH;#} <div n="xe">{%or%}</div> <div n="xs">{#prARa-#}
+{#saMyamaH#}</div> </div><div n="1">(4) {#Svasitam,#} <div n="xe">{%out of b.%}</div> <div n="xs">{#muhurmuhuratyulvaRaM niHSvasiti,#}</div>
+<ls>K.</ls> </div><div n="I">II. Life: {#prARAH#} (m. pl.). </div><div n="I">III Respite,
+pause: q. v. {#virAmaH.#} </div><div n="I">IV An instant: {#nimezaH,#}
+<div n="xe">{%in a b.%}</div> <div n="xs">{#nimezeRa.#}</div> V. Breeze: q. v.</div>
 <LEND>

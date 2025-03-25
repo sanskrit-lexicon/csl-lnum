@@ -1,236 +1,232 @@
 <L>108632<pc>7-0945<k1>sAra<k2>sA/ra<h>2
-2. {#sA/ra#}¦ ({#sAra/#} 
-<ls>P. 3, 3, 17</ls>; vgl. 
-<ls>6, 1, 159</ls>) 
-<div n="1"> 1) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#arDarcAdi#} 
-zu <ls>P.2,4,31.</ls> <ls>SIDDH. K. 249,b,4.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} . 
-<div n="2"> a) {%die inneren festen Bestandtheile eines Körpers%}: {#Ka\di\rasya^#} {%Kernholz%} 
-<ls>ṚV. 3, 53, 19.</ls> {#Kadira°, SAla°#} 
-<ls>P. 3, 3, 17, Schol.</ls> {#tindukasAreRa nirmitaH paryaNkaH#} 
-<ls>VARĀH. BṚH. S. 79, 11.</ls> {#aByantaragatEH sArEryaTA tizWanti BUruhAH . asTisArEstaTA dehAH#} 
-<ls>SUŚR. 1, 339, 18.</ls> 
-<ls>ŚĀRṄG. SAṂH. 1, 5, 4.</ls> {#asTIni na vinaSyanti sArARyetAni dehinAm#} 
-<ls>SUŚR. 1, 339, 21.</ls> {#sArARi#} von Früchten neben {#rasa#} und {#tvac#} vielleicht {%Kerngehäuse%} 
-<ls>MBH. 3, 10064.</ls> {#sAra#} <lex>m.</lex> = {#sTira#} 
-<ls>P. 3, 3, 17.</ls> = {#sTirAMSa#} 
-<ls>AK. 3, 4, 25, 173.</ls> 
-<ls>H. an. 2, 466.</ls> 
-<ls>MED. r. 96.</ls> = {#atidfQa#} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— b) {%Festigkeit, Härte; Stärke, Kraft%}: {#BujayoH sAramarpaya#} 
-<ls>MBH. 1, 6029. 5, 1991.</ls> 
-<ls>BHĀG. P. 5, 1, 29.</ls> {#°sTita#} 
-<ls>SUŚR. 1, 188, 3.</ls> {#DaritrIDaraRakzama#} eines Berges 
-<ls>KUMĀRAS. 1, 17.</ls> {#°guruBiH padanyAsEH#} desgl. 
-<ls>6, 50. <is>Kāma's</is> 3, 13.</ls> {#aKilasArasaMBfta#} <is>Viṣṇu</is> als Zwerg 
-<ls>BHĀG. P. 8, 18, 20.</ls> {#yadi vaH praDane SradDA sAraM vA kzullakA hfdi#} 
-<ls>6, 11, 5.</ls> {#adrAkzamahametatte hftsAraM mahadadButam#} 
-<ls>7, 3, 18.</ls> {#AhArasya#} {%die nährende Kraft%} 
-<ls>SUŚR. 1, 43, 5. 247, 21.</ls> 
-<ls>ŚĀRṄG. SAṂH. 1, 6, 4.</ls> {#sArodDaraRadUzita (mAMsa)#} 
-<ls>MĀRK. P. 34, 56.</ls> {#sAra^ (sArA#} <is>Padap</is>., wohl für {#sAram) fza\BARA^m#} {%die zeugende Kraft%} 
-<ls>AV. 4, 4, 4.</ls> {#vAksAra#} {%die Kraft der Rede, Beredsamkeit%} 
-<ls>VARĀH.</ls><ls>BṚH. S. 2, S. 4, Z. 18. fg.</ls>
+2. {#sA/ra#}¦ ({#sAra/#}
+<ls>P. 3,3,17</ls>; vgl.
+<ls n="P.">6,1,159</ls>)
+<div n="1"> 1) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#arDarcAdi#}
+zu <ls>P. 2,4,31.</ls> <ls>SIDDH. K. 249,b,4.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} .
+<div n="2"> a) {%die inneren festen Bestandtheile eines Körpers%}: {#Ka\di\rasya^#} {%Kernholz%}
+<ls>ṚV. 3,53,19.</ls> {#Kadira°, SAla°#}
+<ls>P. 3,3,17</ls>, Schol. {#tindukasAreRa nirmitaH paryaNkaH#}
+<ls>VARĀH. BṚH. S. 79,11.</ls> {#aByantaragatEH sArEryaTA tizWanti BUruhAH . asTisArEstaTA dehAH#}
+<ls>SUŚR. 1,339,18.</ls>
+<ls>ŚĀRṄG. SAṂH. 1,5,4.</ls> {#asTIni na vinaSyanti sArARyetAni dehinAm#}
+<ls>SUŚR. 1,339,21.</ls> {#sArARi#} von Früchten neben {#rasa#} und {#tvac#} vielleicht {%Kerngehäuse%}
+<ls>MBH. 3,10064.</ls> {#sAra#} <lex>m.</lex> = {#sTira#}
+<ls>P. 3,3,17.</ls> = {#sTirAMSa#}
+<ls>AK. 3,4,25,173.</ls>
+<ls>H. an. 2,466.</ls>
+<ls>MED. r. 96.</ls> = {#atidfQa#}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— b) {%Festigkeit, Härte; Stärke, Kraft%}: {#BujayoH sAramarpaya#}
+<ls>MBH. 1,6029.</ls> <ls n="MBH.">5,1991.</ls>
+<ls>BHĀG. P. 5,1,29.</ls> {#°sTita#}
+<ls>SUŚR. 1,188,3.</ls> {#DaritrIDaraRakzama#} eines Berges
+<ls>KUMĀRAS. 1,17.</ls> {#°guruBiH padanyAsEH#} desgl.
+<ls n="KUMĀRAS.">6,50. <is>Kāma's</is> 3,13.</ls> {#aKilasArasaMBfta#} <is>Viṣṇu</is> als Zwerg
+<ls>BHĀG. P. 8,18,20.</ls> {#yadi vaH praDane SradDA sAraM vA kzullakA hfdi#}
+<ls n="BHĀG. P.">6,11,5.</ls> {#adrAkzamahametatte hftsAraM mahadadButam#}
+<ls n="BHĀG. P.">7,3,18.</ls> {#AhArasya#} {%die nährende Kraft%}
+<ls>SUŚR. 1,43,5. 247,21.</ls>
+<ls>ŚĀRṄG. SAṂH. 1,6,4.</ls> {#sArodDaraRadUzita (mAMsa)#}
+<ls>MĀRK. P. 34,56.</ls> {#sAra^ (sArA#} <is>Padap</is>., wohl für {#sAram) fza\BARA^m#} {%die zeugende Kraft%}
+<ls>AV. 4,4,4.</ls> {#vAksAra#} {%die Kraft der Rede, Beredsamkeit%}
+<ls>VARĀH. BṚH. S. 2, S. 4, Z. 18. fg.</ls>
 [Page7-0946]
-am Ende eines <lex>adj.</lex> comp.: {#vajrasamAna°#} ein Mann 
-<ls>MBH. 1, 7076.</ls> {#mahendrAdisamAna°#} 
-<ls>RAGH. 6, 54.</ls> {#mahABujO giriSfNgasArO#} 
-<ls>R. 6, 37, 64.</ls> {#Buje BujagendrasamAnasAre#} 
-<ls>RAGH. 2, 74.</ls> {#nala°#} {%die Härte%} (d. i. {%Weichheit, Schwäche) des Rohrschilfs habend%} 
-<ls>MBH. 12, 11156.</ls> {#utpalapattra°#} 
-<ls>RAGH. 6, 42.</ls> {#sarvAtirikta° (Atman)#} 
-<ls>1, 14.</ls> {#vapuH sasAram#} 
-<ls>KUMĀRAS. 5, 19.</ls> {#dfzwa°#} 
-<ls>Spr. (II) 6212</ls> ({#gajendra#}). 
-<ls>RAGH. 11, 47</ls> ({#vIryaSulka#}). {#dfzwistfRIkftajagattrayasattvasArA#} 
-<ls>UTTARAR. 111, 17 (151, 1</ls> <ls>?= SĀH. D. 38, 10).</ls> {#ajAta°#} 
-<ls>R. GORR. 1, 39, 17.</ls> {#aBedya°#} 
-<ls>RĀJA-TAR. 4, 298.</ls> {#kzIRa°#} 
-<ls>MBH. 13, 281.</ls> {#gfhIta°#} 
-<ls>BHĀG. P. 5, 14, 19.</ls> {#Atta°#} 
-<ls>6, 10, 29.</ls> {#smaranunna°#} 
-<ls>10, 21, 12.</ls> {#mahA°#} {%fest, stark%}: Bogen 
-<ls>R. 2, 100, 19.</ls> {#alpa°#} {%schwach%} 
-<ls>Spr. (II) 1952.</ls> 
-<ls>KĀM. NĪTIS. 11, 8.</ls> {#hftasArA suDA#} {%berauschende Kraft%} 
-<ls>R. 2, 61, 18.</ls> {#sAra#} <lex>m.</lex> = {#sTAman#} 
-<ls>HALĀY. 5, 67.</ls> = {#bala#} 
-<ls>AK. 2, 4, 12.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<div n="2">— c) {%Werth%}: {#sAratas#} 
-<ls>M. 8, 405.</ls> 
-<ls>YĀJÑ. 2, 275.</ls> {#(vijYAtaH) rAjYA himavataH sAro rAjYaH sAro himAdriRA#} 
-<ls>RAGH. 4, 79.</ls> {#puruzArTa°#} 
-<ls>BHĀG. P. 3, 13, 49.</ls> {#mahA°#} <lex>adj.</lex> {%werthvoll, kostbar%} 
-<ls>R. 3, 72, 1. 4, 33, 15. 43, 33.</ls> {#alpa°#} <lex>adj.</lex> {%von geringem Werth%} 
-<ls>M. 11, 164.</ls> {#gata°#} <lex>adj.</lex> {%werthlos geworden, nichtig%} 
-<ls>Spr. (II) 2067. 6122.</ls> 
-<div n="2">— d) {%Vermögen, Besitz, Reichthum%}; neutr. 
-<ls>H. 191.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 1, 80.</ls> masc. <ls>5, 67.</ls> {#sArAparADO#} 
-<ls>M. 8, 126. 9, 262.</ls> {#karaM dApayAmAsa sAragrahaRapUrvakam#} 
-<ls>MĀRK. P. 122, 10.</ls> {#sArApahAramakarotparihAsapurasya#} 
-<ls>RĀJA-TAR. 5, 160.</ls> {#sAratas#} 
-<ls>DAŚAK. 70, 13.</ls> am Ende eines <lex>adj.</lex> comp.: {#nEkakowi°#} 
-<ls>75, 13.</ls> {#sAvitrImAtra°#} 
-<ls>M. 2, 118.</ls> {#gAmAttasArAm#} 
-<ls>RAGH. 5, 26.</ls> 
-<div n="2">— e) {%Kern%} so v. a. {%Hauptsache, Quintessenz, das Beste, Werthvollste, etwas Werthvolles%}: {#etatsAram#} ({#kAmaH#}) — {#DarmArTAvatra saMsTitO#} 
-<ls>MBH. 12, 6244.</ls> {#sAraM tato grAhyam#} 
-<ls>Spr. (II) 243.</ls> {#sarvataH sAramAdadyAt#} 
-<ls>459.</ls> {#atra na kimapi sAramaRIyaH#} 
-<ls>554. 777. 1794. 2347. 2954. 5699. 5776. 6605. 6639. fg. 7211.</ls> {#sAra iti#} (besser als {#ratnamiti#}) 
-<ls>VIKR. 143, v. l.</ls> 
-<ls>KATHĀS. 28, 16. 34, 190. 39, 213.</ls> 
-<ls>SĀH. D. 23, 17.</ls> 
-<ls>MĀRK. P. 18, 43.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 16, 16.</ls> <ls>BHĀG. P. 1, 1, 11. 4, 18, 2. 13.</ls> <ls>SARVADARŚANAS. 158, 20.</ls> {#sArAtsAraM vadasva naH#} 
-<ls>Verz. d. Oxf. H. 7</ls>, {%a%}, 
-<ls>No. 42.</ls> {#apAm#} 
-<ls>RAGH. 10, 10. 53.</ls> {#kftsnasya jagataH#} 
-<ls>R. 5, 12, 27.</ls> {#Darmasya#} 
-<ls>KATHĀS. 33, 34.</ls> {#dfzwaH sArastasyAH#} (so ist zu lesen) {#puro BavAn#} 
-<ls>54, 62.</ls> {#tat - sarvavedetihAsAnAM sAraM sAraM samuddftam#} 
-<ls>BHĀG. P. 1, 3, 41.</ls> 
-<ls>PAÑCAR. 1, 15, 13.</ls> {#sarvamantrezu sAraSca mantrarAjaH prakIrtitaH#} 
-<ls>2,3,104.</ls> <ls>Verz. d. Oxf. H. 252,b, No. 626, Z. 4.</ls> {#kaTAmeva kaTAsu sAram . udDftya puzpeBya iva#} 
-<ls>BHĀG. P. 3, 5, 15.</ls> {#°mArgaRam#} 
-<ls>Spr. (II) 4823.</ls> {#sArAdAnaM zawpadavat#} 
-<ls>KAP. 4, 13.</ls> {#°SUnya#} 
-<ls>Spr. (II) 2919.</ls> {#°saMgraha#} 
-<ls>CĀṆ. 1.</ls> {#°grAhin#} 
-<ls>R. 3, 72, 1.</ls> {#°darSin#} 
-<ls>5, 84, 7.</ls> {#sArArTin#} 
-<ls>MBH. 4, 1567.</ls> {#samudra°#} 
-<ls>2, 1893.</ls> {#kaTAsAro hi sA (kaTA) matA#} 
-<ls>12, 12711.</ls> {#loka°#} 
-<ls>14, 597.</ls> {#trivarga°#} ({#Darma#}) 
-<ls>KUMĀRAS. 5, 31.</ls> {#muktA°#} 
-<ls>RAGH. 4, 50.</ls> 
-<ls>PAÑCAR. 1, 4, 54. 7, 49. 11, 13.</ls> {#veda°, yajYa°, sAma°#} 
-<ls>4, 3, 50.</ls> {#AcAra°#} 
-<ls>RĀJA-TAR. 4, 344.</ls> {#mandira°#} 
-<ls>Spr. (II) 473.</ls> {#sakalArTaSAstra°#} 
-<ls>PAÑCAT. Pr. 3.</ls> {#jIvaloka°#} 
-<ls>49, 4.</ls> {#samastavastusaMBAra°#} 
-<ls>157, 22.</ls> <ls>DHŪRTAS. 88, 1.</ls> {#vastusArARAm#} 
-<ls>BHĀG. P. 2, 6, 4. 10, 6, 7.</ls> am Ende eines <lex>adj.</lex> comp.: {#hfta°#} 
-<ls>R. 2, 33, 18.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 36, 12.</ls> {#upAtta°#} 
-<ls>MĀLAV. 22, 19.</ls> {#Atta°#} 
-<ls>BHĀG. P. 3, 15, 23.</ls> {#sAra#} <lex>m.</lex> = {#SrezWa#} 
-<ls>H. an.</ls> <ls>HALĀY. 5, 67.</ls> 
-<div n="2">— f) {%das Vorwaltende, Hauptsache%} am Ende eines <lex>adj.</lex> comp. (vgl. den Gebrauch von {#para#}): {#tUzRIM°#} 
-<ls>AIT. BR. 2, 31.</ls> {#prIti°#} ({#kAma#}) 
-<ls>MBH. 2, 153.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 109, 61.</ls> {#kzamA°#} 
-<ls>HARIV. 15624. fg.</ls> {#Darma°#} 
-<ls>R. 2, 33, 15.</ls> 
-<ls>Spr. (II) 3113.</ls> <ls>WEBER, RĀMAT. UP. 338.</ls> <ls>ŚRUT. 20.</ls> <ls>Spr. (II) 2789. 3738. 4253. 6233. 6985.</ls> <ls>GĪT. 5, 8.</ls> <ls>KATHĀS. 40, 48.</ls> <ls>VP. 1, 9, 22.</ls> <ls>BHĀG. P. 1, 19, 19. 3, 5, 45. 6, 9, 50. 8, 16,</ls> <ls>?60.CAURAP. 5. 33.</ls>
+am Ende eines <lex>adj.</lex> comp.: {#vajrasamAna°#} ein Mann
+<ls>MBH. 1,7076.</ls> {#mahendrAdisamAna°#}
+<ls>RAGH. 6,54.</ls> {#mahABujO giriSfNgasArO#}
+<ls>R. 6,37,64.</ls> {#Buje BujagendrasamAnasAre#}
+<ls>RAGH. 2,74.</ls> {#nala°#} {%die Härte%} (<ab>d. i.</ab> {%Weichheit, Schwäche) des Rohrschilfs habend%}
+<ls>MBH. 12,11156.</ls> {#utpalapattra°#}
+<ls>RAGH. 6,42.</ls> {#sarvAtirikta° (Atman)#}
+<ls n="RAGH.">1,14.</ls> {#vapuH sasAram#}
+<ls>KUMĀRAS. 5,19.</ls> {#dfzwa°#}
+<ls>Spr. (II) 6212</ls> ({#gajendra#}).
+<ls>RAGH. 11,47</ls> ({#vIryaSulka#}). {#dfzwistfRIkftajagattrayasattvasArA#}
+<ls>UTTARAR. 111,17 (151,1</ls> = <ls>SĀH. D. 38,10).</ls> {#ajAta°#}
+<ls>R. GORR. 1,39,17.</ls> {#aBedya°#}
+<ls>RĀJA-TAR. 4,298.</ls> {#kzIRa°#}
+<ls>MBH. 13,281.</ls> {#gfhIta°#}
+<ls>BHĀG. P. 5,14,19.</ls> {#Atta°#}
+<ls n="BHĀG. P.">6,10,29.</ls> {#smaranunna°#}
+<ls n="BHĀG. P.">10,21,12.</ls> {#mahA°#} {%fest, stark%}: Bogen
+<ls>R. 2,100,19.</ls> {#alpa°#} {%schwach%}
+<ls>Spr. (II) 1952.</ls>
+<ls>KĀM. NĪTIS. 11,8.</ls> {#hftasArA suDA#} {%berauschende Kraft%}
+<ls>R. 2,61,18.</ls> {#sAra#} <lex>m.</lex> = {#sTAman#}
+<ls>HALĀY. 5,67.</ls> = {#bala#}
+<ls>AK. 2,4,12.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<div n="2">— c) {%Werth%}: {#sAratas#}
+<ls>M. 8,405.</ls>
+<ls>YĀJÑ. 2,275.</ls> {#(vijYAtaH) rAjYA himavataH sAro rAjYaH sAro himAdriRA#}
+<ls>RAGH. 4,79.</ls> {#puruzArTa°#}
+<ls>BHĀG. P. 3,13,49.</ls> {#mahA°#} <lex>adj.</lex> {%werthvoll, kostbar%}
+<ls>R. 3,72,1.</ls> <ls n="R.">4,33,15</ls> <ls n="R. 4,">43,33.</ls> {#alpa°#} <lex>adj.</lex> {%von geringem Werth%}
+<ls>M. 11,164.</ls> {#gata°#} <lex>adj.</lex> {%werthlos geworden, nichtig%}
+<ls>Spr. (II) 2067.</ls> <ls n="Spr. (II)">6122.</ls>
+<div n="2">— d) {%Vermögen, Besitz, Reichthum%}; neutr.
+<ls>H. 191.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 1,80.</ls> masc. <ls n="HALĀY.">5,67.</ls> {#sArAparADO#}
+<ls>M. 8,126.</ls> <ls n="M.">9,262.</ls> {#karaM dApayAmAsa sAragrahaRapUrvakam#}
+<ls>MĀRK. P. 122,10.</ls> {#sArApahAramakarotparihAsapurasya#}
+<ls>RĀJA-TAR. 5,160.</ls> {#sAratas#}
+<ls>DAŚAK. 70,13.</ls> am Ende eines <lex>adj.</lex> comp.: {#nEkakowi°#}
+<ls n="DAŚAK.">75,13.</ls> {#sAvitrImAtra°#}
+<ls>M. 2,118.</ls> {#gAmAttasArAm#}
+<ls>RAGH. 5,26.</ls>
+<div n="2">— e) {%Kern%} so v. a. {%Hauptsache, Quintessenz, das Beste, Werthvollste, etwas Werthvolles%}: {#etatsAram#} ({#kAmaH#}) — {#DarmArTAvatra saMsTitO#}
+<ls>MBH. 12,6244.</ls> {#sAraM tato grAhyam#}
+<ls>Spr. (II) 243.</ls> {#sarvataH sAramAdadyAt#}
+<ls n="Spr. (II)">459.</ls> {#atra na kimapi sAramaRIyaH#}
+<ls n="Spr. (II)">554. 777. 1794. 2347. 2954. 5699. 5776. 6605. 6639. fg. 7211.</ls> {#sAra iti#} (besser als {#ratnamiti#})
+<ls>VIKR. 143, v. l.</ls>
+<ls>KATHĀS. 28,16.</ls> <ls n="KATHĀS.">34,190.</ls> <ls n="KATHĀS.">39,213.</ls>
+<ls>SĀH. D. 23,17.</ls>
+<ls>MĀRK. P. 18,43.</ls>
+<ls>VET. in LA. (III) 16,16.</ls> <ls>BHĀG. P. 1,1,11.</ls> <ls n="BHĀG. P.">4,18,2.</ls> <ls n="BHĀG. P. 4,18,">13.</ls> <ls>SARVADARŚANAS. 158,20.</ls> {#sArAtsAraM vadasva naH#}
+<ls>Verz. d. Oxf. H. 7,a,No. 42.</ls>
+{#apAm#}
+<ls>RAGH. 10,10.</ls> <ls n="RAGH. 10,">53.</ls> {#kftsnasya jagataH#}
+<ls>R. 5,12,27.</ls> {#Darmasya#}
+<ls>KATHĀS. 33,34.</ls> {#dfzwaH sArastasyAH#} (so ist zu lesen) {#puro BavAn#}
+<ls n="KATHĀS.">54,62.</ls> {#tat — sarvavedetihAsAnAM sAraM sAraM samuddftam#}
+<ls>BHĀG. P. 1,3,41.</ls>
+<ls>PAÑCAR. 1,15,13.</ls> {#sarvamantrezu sAraSca mantrarAjaH prakIrtitaH#}
+<ls n="PAÑCAR.">2,3,104.</ls> <ls>Verz. d. Oxf. H. 252,b, No. 626, Z. 4.</ls> {#kaTAmeva kaTAsu sAram . udDftya puzpeBya iva#}
+<ls>BHĀG. P. 3,5,15.</ls> {#°mArgaRam#}
+<ls>Spr. (II) 4823.</ls> {#sArAdAnaM zawpadavat#}
+<ls>KAP. 4,13.</ls> {#°SUnya#}
+<ls>Spr. (II) 2919.</ls> {#°saMgraha#}
+<ls>CĀṆ. 1.</ls> {#°grAhin#}
+<ls>R. 3,72,1.</ls> {#°darSin#}
+<ls n="R.">5,84,7.</ls> {#sArArTin#}
+<ls>MBH. 4,1567.</ls> {#samudra°#}
+<ls n="MBH.">2,1893.</ls> {#kaTAsAro hi sA (kaTA) matA#}
+<ls n="MBH.">12,12711.</ls> {#loka°#}
+<ls n="MBH.">14,597.</ls> {#trivarga°#} ({#Darma#})
+<ls>KUMĀRAS. 5,31.</ls> {#muktA°#}
+<ls>RAGH. 4,50.</ls>
+<ls>PAÑCAR. 1,4,54. 7,49. 11,13.</ls> {#veda°, yajYa°, sAma°#}
+<ls n="PAÑCAR.">4,3,50.</ls> {#AcAra°#}
+<ls>RĀJA-TAR. 4,344.</ls> {#mandira°#}
+<ls>Spr. (II) 473.</ls> {#sakalArTaSAstra°#}
+<ls>PAÑCAT. Pr. 3.</ls> {#jIvaloka°#}
+<ls n="PAÑCAT.">49,4.</ls> {#samastavastusaMBAra°#}
+<ls n="PAÑCAT.">157,22.</ls> <ls>DHŪRTAS. 88,1.</ls> {#vastusArARAm#}
+<ls>BHĀG. P. 2,6,4.</ls> <ls n="BHĀG. P.">10,6,7.</ls> am Ende eines <lex>adj.</lex> comp.: {#hfta°#}
+<ls>R. 2,33,18.</ls>
+<ls>R. GORR. 2,36,12.</ls> {#upAtta°#}
+<ls>MĀLAV. 22,19.</ls> {#Atta°#}
+<ls>BHĀG. P. 3,15,23.</ls> {#sAra#} <lex>m.</lex> = {#SrezWa#}
+<ls>H. an.</ls> <ls>HALĀY. 5,67.</ls>
+<div n="2">— f) {%das Vorwaltende, Hauptsache%} am Ende eines <lex>adj.</lex> comp. (vgl. den Gebrauch von {#para#}): {#tUzRIM°#}
+<ls>AIT. BR. 2,31.</ls> {#prIti°#} ({#kAma#})
+<ls>MBH. 2,153.</ls>
+<ls>R. GORR. 2,109,61.</ls> {#kzamA°#}
+<ls>HARIV. 15624. fg.</ls> {#Darma°#}
+<ls>R. 2,33,15.</ls>
+<ls>Spr. (II) 3113.</ls> <ls>WEBER, RĀMAT. UP. 338.</ls> <ls>ŚRUT. 20.</ls> <ls>Spr. (II) 2789.</ls> <ls n="Spr. (II)">3738.</ls> <ls n="Spr. (II)">4253.</ls> <ls n="Spr. (II)">6233.</ls> <ls n="Spr. (II)">6985.</ls> <ls>GĪT. 5,8.</ls> <ls>KATHĀS. 40,48.</ls> <ls>VP. 1,9,22.</ls> <ls>BHĀG. P. 1,19,19.</ls> <ls n="BHĀG. P.">3,5,45.</ls> <ls n="BHĀG. P.">6,9,50.</ls> <ls n="BHĀG. P.">8,16,60.</ls> <ls>CAURAP. 5. 33.</ls>
 [Page7-0947]
-
-<div n="2">— g) {%ein dem Temperamente eines Menschen zu Grunde liegender Hauptbestandtheil des Körpers%}: es werden deren acht oder auch nur sieben angenommen: {#sattva#} (fehlt bei 
-<ls>VARĀH.</ls>), {#Sukra, majjan, asTi, medas, mAMsa, rakta#} und {#Sukra#} 
-<ls>SUŚR. 1, 125, 11. 126, 18.</ls> {#tvaksAra#} <lex>adj.</lex> 
-<ls>127, 3.</ls> <ls>CARAKA 3, 8.</ls> <ls>VARĀH. BṚH. S. 68, 1. 96. 69, 21.</ls> {#rakta°#} <lex>adj.</lex> 
-<ls>68, 97.</ls> {#mAMsa°#} <lex>adj.</lex> 
-<ls>100.</ls> <ls>LAGHUJ. 2, 13. fgg.</ls> 
-<div n="2">— h) {%Bestandtheil%} überh.: {#paYca°#} <lex>adj.</lex> ({#peya#}) 
-<ls>SUŚR. 2, 421, 5.</ls> 
-<div n="2">— i) {%das Rechte, Richtige%}; neutr. = {#nyAyya#} 
-<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#nEtatsAram#} Comm. zu 
-<ls>TS. PRĀT. 14, 5.</ls> {#tadasAram#} 
-zu <ls>1, 21.</ls> 
-<div n="2">— k) {%Nektar%}: {#yattatrotpatsyate sAraM tatpAsyAmaH#} 
-<ls>R. GORR. 1, 46, 19.</ls> {#sAraM juzAM caraRayoH#} 
-<ls>BHĀG. P. 7, 6, 25.</ls> am Ende eines <lex>adj.</lex> comp.: {#nirvizwasArAM pitfBirhimAMSorantyAM kalAm#} 
-<ls>RAGH. 14, 80.</ls> 
-<div n="2">— l) {%Seim%} 
-<ls>KAP. 4, 13.</ls> 
-<ls>BHĀG. P. 1, 18, 7.</ls> 
-<div n="2">— m) {%saurer Rahm%} 
-<ls>SUŚR. 2, 378, 6.</ls> {#daDnA sasAreRa#} 
-<ls>441, 8.</ls> {#sAra#} <lex>n.</lex> = {#daDyuttara#} 
-<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— n) {%verdickter als Räucherwerk verwandter Pflanzensaft, Harz%} 
-<ls>SUŚR. 1, 133, 9. 12. 183, 15. 2, 12, 15. 63, 1. 73, 21. 83, 14. fg. 119, 3. 175, 4. 468, 21.</ls> 
-<ls>ŚĀRṄG. SAṂH. 1, 1, 42.</ls> Vgl. {#sArin#} . 
-<div n="2">— o) {%Dünger%} 
-<ls>KṚṢIS. 8, 26.</ls> {#vinA sAreRa yadDAnyaM varDate na Palatyapi#} 
-<ls>9, 3.</ls> 
-<div n="2">— p) {%ein Fürst, der einem andern im Kriege zu Hilfe kommt, Bundesgenosse%} 
-<ls>VARĀH. BṚH. S. 34, 22</ls>; vgl. {#AsAra#} 
-<div n="1"> 3) in den Nachträgen. 
-<div n="2">— q) Bez. {%des Gürtels bei den%} <is>Maga</is> 
-<ls>Verz. d. Oxf. H. 33,b,30.</ls> 
-<div n="2">— r) <lex>m.</lex> in der Rhetorik {%eine Art Klimax%}: {#uttarottaramutkarzo BavetsAraH parAvaDiH#} 
-<ls>KĀVYAPR. 173,8</ls> <ls>?(331,15). SĀH. D. 731. KUVALAY. 113,a. PRATĀPAR. 103,b,3.</ls> Beispiele 
-<ls>Spr. (II) 2347. 5776.</ls> — Die Lexicographen kennen noch folgende nicht zu belegende Bedd. 
-<div n="3"> α) <lex>m.</lex> = {#majjan#} 
-<ls>AK. 2, 4, 1, 12.</ls> 
-<ls>H. 1121.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 2, 28. 5, 67.</ls> = {#asTi#} 
-<ls>H. 626</ls> (neutr. 
-v. l.). = {#tvacisAra#} 
-<ls>1153, Schol.</ls> = {#vajrakzAra#} 
-<ls>RĀJAN. 6, 256.</ls> = {#vAyu#} (vgl. {#SAra#}) 
-<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> = {#roga#} 
-<ls>DHAR.</ls> ebend. = {#pASaka#} (vgl. {#SAra#}) 
+<div n="2">— g) {%ein dem Temperamente eines Menschen zu Grunde liegender Hauptbestandtheil des Körpers%}: es werden deren acht oder auch nur sieben angenommen: {#sattva#} (fehlt bei
+<ls>VARĀH.</ls>), {#Sukra, majjan, asTi, medas, mAMsa, rakta#} und {#Sukra#}
+<ls>SUŚR. 1,125,11. 126,18.</ls> {#tvaksAra#} <lex>adj.</lex>
+<ls n="SUŚR.">127,3.</ls> <ls>CARAKA 3,8.</ls> <ls>VARĀH. BṚH. S. 68,1. 96. 69,21.</ls> {#rakta°#} <lex>adj.</lex>
+<ls n="VARĀH. BṚH. S.">68,97.</ls> {#mAMsa°#} <lex>adj.</lex>
+<ls n="VARĀH. BṚH. S.">100.</ls> <ls>LAGHUJ. 2,13. fgg.</ls>
+<div n="2">— h) {%Bestandtheil%} überh.: {#paYca°#} <lex>adj.</lex> ({#peya#})
+<ls>SUŚR. 2,421,5.</ls>
+<div n="2">— i) {%das Rechte, Richtige%}; neutr. = {#nyAyya#}
+<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#nEtatsAram#} Comm. zu
+<ls>TS. PRĀT. 14,5.</ls> {#tadasAram#}
+zu <ls n="TS. PRĀT.">1,21.</ls>
+<div n="2">— k) {%Nektar%}: {#yattatrotpatsyate sAraM tatpAsyAmaH#}
+<ls>R. GORR. 1,46,19.</ls> {#sAraM juzAM caraRayoH#}
+<ls>BHĀG. P. 7,6,25.</ls> am Ende eines <lex>adj.</lex> comp.: {#nirvizwasArAM pitfBirhimAMSorantyAM kalAm#}
+<ls>RAGH. 14,80.</ls>
+<div n="2">— l) {%Seim%}
+<ls>KAP. 4,13.</ls>
+<ls>BHĀG. P. 1,18,7.</ls>
+<div n="2">— m) {%saurer Rahm%}
+<ls>SUŚR. 2,378,6.</ls> {#daDnA sasAreRa#}
+<ls n="SUŚR.">441,8.</ls> {#sAra#} <lex>n.</lex> = {#daDyuttara#}
+<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— n) {%verdickter als Räucherwerk verwandter Pflanzensaft, Harz%}
+<ls>SUŚR. 1,133,9. 12. 183,15. 2,12,15. 63,1. 73,21. 83,14. fg. 119,3. 175,4. 468,21.</ls>
+<ls>ŚĀRṄG. SAṂH. 1,1,42.</ls> Vgl. {#sArin#} .
+<div n="2">— o) {%Dünger%}
+<ls>KṚṢIS. 8,26.</ls> {#vinA sAreRa yadDAnyaM varDate na Palatyapi#}
+<ls n="KṚṢIS.">9,3.</ls>
+<div n="2">— p) {%ein Fürst, der einem andern im Kriege zu Hilfe kommt, Bundesgenosse%}
+<ls>VARĀH. BṚH. S. 34,22</ls>; vgl. {#AsAra#}
+<div n="1"> 3) in den Nachträgen.
+<div n="2">— q) Bez. {%des Gürtels bei den%} <is>Maga</is>
+<ls>Verz. d. Oxf. H. 33,b,30.</ls>
+<div n="2">— r) <lex>m.</lex> in der Rhetorik {%eine Art Klimax%}: {#uttarottaramutkarzo BavetsAraH parAvaDiH#}
+<ls>KĀVYAPR. 173,8 (331,15).</ls> <ls>SĀH. D. 731.</ls> <ls>KUVALAY. 113,a.</ls> <ls>PRATĀPAR. 103,b,3.</ls> Beispiele
+<ls>Spr. (II) 2347.</ls> <ls n="Spr. (II)">5776.</ls> — Die Lexicographen kennen noch folgende nicht zu belegende Bedd.
+<div n="3"> α) <lex>m.</lex> = {#majjan#}
+<ls>AK. 2,4,1,12.</ls>
+<ls>H. 1121.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 2,28. 5,67.</ls> = {#asTi#}
+<ls>H. 626</ls> (neutr. v. l.). = {#tvacisAra#}
+<ls n="H.">1153</ls>, Schol. = {#vajrakzAra#}
+<ls>RĀJAN. 6,256.</ls> = {#vAyu#} (vgl. {#SAra#})
+<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> = {#roga#}
+<ls>DHAR.</ls> ebend. = {#pASaka#} (vgl. {#SAra#})
 <ls>ŚABDAR.</ls> ebend.
-<div n="3">— β) <lex>n.</lex> = {#jala#} 
-<ls>H. an.</ls> <ls>MED.</ls> = {#navanIta#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#lOha#} 
-<ls>BHĀVAPR.</ls> ebend. = {#vipina#} 
+<div n="3">— β) <lex>n.</lex> = {#jala#}
+<ls>H. an.</ls> <ls>MED.</ls> = {#navanIta#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#lOha#}
+<ls>BHĀVAPR.</ls> ebend. = {#vipina#}
 <ls>ŚABDAR.</ls> ebend.
-<div n="1">— 2) <lex>f.</lex> {#A = kfzRatrivftA#} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> = {#dUrvA#} (vgl. {#SArI#}) 
+<div n="1">— 2) <lex>f.</lex> {#A = kfzRatrivftA#}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> = {#dUrvA#} (vgl. {#SArI#})
 <ls>ŚABDAC.</ls> ebend.
-<div n="1">— 3) <lex>f.</lex> {#I#} {%der Vogel%} <is>Sārikā</is> und = {#pASaka#} (vgl. {#SArI#}) 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> = {#saptalA#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 4) <lex>adj.</lex> 
-<div n="2"> a) {%hart, fest, stark%}: {#°druma#} 
-<ls>VARĀH. BṚH. S. 43, 58.</ls> {#°dAru#} 
-<ls>54, 118.</ls> {#DanuzI#} 
-<ls>R. GORR. 1, 77, 14.</ls> {#°puNKa#} 
-<ls>ŚĀK. 10.</ls> {#°gAtra (°yoDa#} ed. Bomb.) 
-<ls>MBH. 6, 3316.</ls> 
-<ls>SUŚR. 1, 151, 5.</ls> <ls>CARAKA 3, 8.</ls> {#maDusUdana#} 
-<ls>HARIV. 5794.</ls> {#ye tu garBANkurAH sArAstAndivyAnparvatAnviduH#} 
-<ls>11446</ls> (die neuere Ausg. hat eine andere Lesart). {#bala#} {%Kerntruppen%} (Gegens. {#Palgu#}) 
-<ls>MBH. 2, 1031. 5, 2205. 2516. fg. 5244.</ls> 
-<ls>KĀM. NĪTIS. 18, 58. 19, 59.</ls> <ls>Spr. (II) 5966.</ls> <ls>MĀRK. P. 122, 18.</ls> 
-<div n="2">— b) {%kostbar, werthvoll%}: {#sArABaraRa#} 
-<ls>DAŚAK. 84, 11.</ls> 
-<div n="2">— c) {%der vorzüglichste, beste%}; = {#vara#} 
-<ls>AK. 3, 4, 25, 173.</ls> 
-<ls>MED.</ls> {#sarvavedodDftaH sAro mantraH#} 
-<ls>Verz. d. Oxf. H. 106,a,32.</ls> {#sUkta#} 
-<ls>BHĀG. P. 4, 22, 17.</ls> 
-<ls>PAÑCAR. 1, 5, 22.</ls> 
-<div n="2">— d) mit einem instr. {%voller%}: {#SukreRa = SukrasAra#} <lex>adj.</lex> comp. {%Samen zum Hauptbestandtheil im Körper habend%} 
-<ls>VARĀH. BṚH. S. 69, 33.</ls> 
-<div n="2">— e) = {#SAra#} {%bunt, scheckig%}: {#maRqUkaH kfzRaH sAraH#} ({#kfzRasAraH?#}) {#kuhakaH#} 
-<ls>SUŚR. 2, 290, 6.</ls> {#sAraH SabalaH kfzRaScAsO sAraSca kfzRasAraH kfzRamfgaH#} 
-<ls>MALLIN.</ls> zu <ls>KUMĀRAS. 3, 36.</ls> nicht {%schwarz und scheckig%}, sondern {%in dem das Schwarze vorwaltet.%} — {#sAraniyuktaM#} 
-<ls>HARIV. 4530</ls> wohl fehlerhaft für {#sADunirvyUhaM#}, wie die neuere Ausg. liest. Vgl. {#a°#} ({%werthlos, nichtig%} auch 
-<ls>MBH. 14, 597.</ls> 
-<ls>KATHĀS. 36, 105.</ls> 
-<ls>BHĀG. P. 7, 5, 26</ls>), {#aguru°#} ({%das Harz der Aquilaria Agallocha%} 
-<ls>SUŚR. 1, 183, 15. 2, 175, 4.</ls> 
-<ls>RAGH. 6, 8</ls>), {#agra°, adri°, antaH°#} ({%innerer Gehalt%} 
-<ls>Spr.(II) 350.</ls>
+<div n="1">— 3) <lex>f.</lex> {#I#} {%der Vogel%} <is>Sārikā</is> und = {#pASaka#} (vgl. {#SArI#})
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> = {#saptalA#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 4) <lex>adj.</lex>
+<div n="2"> a) {%hart, fest, stark%}: {#°druma#}
+<ls>VARĀH. BṚH. S. 43,58.</ls> {#°dAru#}
+<ls n="VARĀH. BṚH. S.">54,118.</ls> {#DanuzI#}
+<ls>R. GORR. 1,77,14.</ls> {#°puNKa#}
+<ls>ŚĀK. 10.</ls> {#°gAtra (°yoDa#} <ls>ed. Bomb.</ls>)
+<ls>MBH. 6,3316.</ls>
+<ls>SUŚR. 1,151,5.</ls> <ls>CARAKA 3,8.</ls> {#maDusUdana#}
+<ls>HARIV. 5794.</ls> {#ye tu garBANkurAH sArAstAndivyAnparvatAnviduH#}
+<ls n="HARIV.">11446</ls> (die neuere Ausg. hat eine andere Lesart). {#bala#} {%Kerntruppen%} (Gegens. {#Palgu#})
+<ls>MBH. 2,1031.</ls> <ls n="MBH.">5,2205.</ls> <ls n="MBH. 5,">2516. fg.</ls> <ls n="MBH. 5,">5244.</ls>
+<ls>KĀM. NĪTIS. 18,58. 19,59.</ls> <ls>Spr. (II) 5966.</ls> <ls>MĀRK. P. 122,18.</ls>
+<div n="2">— b) {%kostbar, werthvoll%}: {#sArABaraRa#}
+<ls>DAŚAK. 84,11.</ls>
+<div n="2">— c) {%der vorzüglichste, beste%}; = {#vara#}
+<ls>AK. 3,4,25,173.</ls>
+<ls>MED.</ls> {#sarvavedodDftaH sAro mantraH#}
+<ls>Verz. d. Oxf. H. 106,a,32.</ls> {#sUkta#}
+<ls>BHĀG. P. 4,22,17.</ls>
+<ls>PAÑCAR. 1,5,22.</ls>
+<div n="2">— d) mit einem instr. {%voller%}: {#SukreRa = SukrasAra#} <lex>adj.</lex> comp. {%Samen zum Hauptbestandtheil im Körper habend%}
+<ls>VARĀH. BṚH. S. 69,33.</ls>
+<div n="2">— e) = {#SAra#} {%bunt, scheckig%}: {#maRqUkaH kfzRaH sAraH#} ({#kfzRasAraH?#}) {#kuhakaH#}
+<ls>SUŚR. 2,290,6.</ls> {#sAraH SabalaH kfzRaScAsO sAraSca kfzRasAraH kfzRamfgaH#}
+<ls>MALLIN.</ls> zu <ls>KUMĀRAS. 3,36.</ls> nicht {%schwarz und scheckig%}, sondern {%in dem das Schwarze vorwaltet.%} — {#sAraniyuktaM#}
+<ls>HARIV. 4530</ls> wohl fehlerhaft für {#sADunirvyUhaM#}, wie die neuere Ausg. liest. Vgl. {#a°#} ({%werthlos, nichtig%} auch
+<ls>MBH. 14,597.</ls>
+<ls>KATHĀS. 36,105.</ls>
+<ls>BHĀG. P. 7,5,26</ls>), {#aguru°#} ({%das Harz der Aquilaria Agallocha%}
+<ls>SUŚR. 1,183,15.</ls> <ls n="SUŚR.">2,175,4.</ls>
+<ls>RAGH. 6,8</ls>), {#agra°, adri°, antaH°#} ({%innerer Gehalt%}
+<ls>Spr. (II) 350.</ls>
 [Page7-0948]
-{%inwendig hart, - fest%} 
-<ls>VARĀH. BṚH. 3, 7</ls>), {#amBaH, arTa°, aSma°, kaM°, karka°, kAla°, kusuma°, kfzRa°, kzIra°, ganDa°, gAyatri°, giri°, Gana°, candana°#} (auch 
-<ls>R. 2, 78, 6</ls>), {#carma°, takra°, tantu°, tantra°, taru°, tIkzRa°, tfRa°, tvak°, tvaci°, dravya°, DAnya°, naya°, niH°, nIti°, piNga°, picCila°, pIta°, pIlu°, puRya°, puzkarasArI, puzpa°, prapaYca°, prayoga°, prARa°#} ({%Lebenskraft%} 
-<ls>RĀJA-TAR. 6, 368</ls>), {#bahu°, bindu°, bimbi°, Badra°, BAgavata°, BAvasAraviveka, BAvanAsArasaMgraha, BUta°, BUzaRasAradarpaRa, majjA°, maRi°, mada°, manaH°, mahA°, mAMsa°, mADvasidDAnta°, meGa°, moca°, yajYa°, yaTAsAram, yudDa°, yoga°, rakta°, laGu°, lokabindu°, vajra°, vasu°, vAkya°, vAri°, viveka°, viSva°, veda°, vezwa°, vEdyakasArasaMgraha, vEyAkaraRaBUzaRa°#} (unter {#vEyAkaraRaBUzaRa), vyavahAra°, vyAKyA°, SAla°, SilA°, SuBa°, SEla°#} (auch 
-<ls>KIR. 10, 14</ls>), {#SyAma°, Sveta°, sakalavedopanizat°, saMkzipta°#} (unter {#saMkzipta), saMgIta°, samara°, samudra°, sarva°, sita°, sidDAnta°#} .
+{%inwendig hart, — fest%}
+<ls>VARĀH. BṚH. 3,7</ls>), {#amBaH, arTa°, aSma°, kaM°, karka°, kAla°, kusuma°, kfzRa°, kzIra°, ganDa°, gAyatri°, giri°, Gana°, candana°#} (auch
+<ls>R. 2,78,6</ls>), {#carma°, takra°, tantu°, tantra°, taru°, tIkzRa°, tfRa°, tvak°, tvaci°, dravya°, DAnya°, naya°, niH°, nIti°, piNga°, picCila°, pIta°, pIlu°, puRya°, puzkarasArI, puzpa°, prapaYca°, prayoga°, prARa°#} ({%Lebenskraft%}
+<ls>RĀJA-TAR. 6,368</ls>), {#bahu°, bindu°, bimbi°, Badra°, BAgavata°, BAvasAraviveka, BAvanAsArasaMgraha, BUta°, BUzaRasAradarpaRa, majjA°, maRi°, mada°, manaH°, mahA°, mAMsa°, mADvasidDAnta°, meGa°, moca°, yajYa°, yaTAsAram, yudDa°, yoga°, rakta°, laGu°, lokabindu°, vajra°, vasu°, vAkya°, vAri°, viveka°, viSva°, veda°, vezwa°, vEdyakasArasaMgraha, vEyAkaraRaBUzaRa°#} (unter {#vEyAkaraRaBUzaRa), vyavahAra°, vyAKyA°, SAla°, SilA°, SuBa°, SEla°#} (auch
+<ls>KIR. 10,14</ls>), {#SyAma°, Sveta°, sakalavedopanizat°, saMkzipta°#} (unter {#saMkzipta), saMgIta°, samara°, samudra°, sarva°, sita°, sidDAnta°#} .
 <LEND>

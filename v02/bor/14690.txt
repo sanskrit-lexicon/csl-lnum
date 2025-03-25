@@ -1,6 +1,6 @@
 <L>14690<pc>450<k1>mirror<k2>mirror
-<div n="lb"/>{@MIRROR@}¦ (subs.): <div n="1">(1) {#darpaRaH,#} <div n="xe">{%but on the clean%}
-<div n="lb"/>{%surface of a m.;%}</div> <div n="xs">{#SudDe tu darpaRatale,#}</div> Sa.; </div><div n="1">(2) {#AdarSaH,#}
-<div n="lb"/><div n="xe">{%on the m.-like sky:%}</div> <div n="xs">{#AdarSaniBe naBastale,#}</div> N.; </div><div n="1">(3)
-<div n="lb"/>{#mukuraH,#} Go.</div>
+{@MIRROR@}¦ (subs.): <div n="1">(1) {#darpaRaH,#} <div n="xe">{%but on the clean%}
+{%surface of a m.;%}</div> <div n="xs">{#SudDe tu darpaRatale,#}</div> Sa.; </div><div n="1">(2) {#AdarSaH,#}
+<div n="xe">{%on the m.-like sky:%}</div> <div n="xs">{#AdarSaniBe naBastale,#}</div> N.; </div><div n="1">(3)
+{#mukuraH,#} Go.</div>
 <LEND>

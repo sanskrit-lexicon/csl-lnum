@@ -1,8 +1,8 @@
 <L>9838<pc>311<k1>get into<k2>get into
-<div n="lb"/>{@GET INTO:@}¦ Ph.: <div n="xe">{%to g. into a carriage:%}</div> <div n="xs">{#pravahaRam #}
-<div n="lb"/>{# Arohati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#aDirohati#}</div> ({#ruh,#} c. 1.), Mr. <div n="xe">{%or%}</div> <div n="xs">{#aDyAste#}</div>
-<div n="lb"/>({#As,#} c. 1.), R. vi. 10.; <div n="xe">{%he himself helped%}
-<div n="lb"/>{%Damayantī in g.ting into the car:%}</div> <div n="xs">{#raTe sa BEmIM #}
-<div n="lb"/>{# svayamaDyarUruhat,#}</div> N. xvi. 114.; <div n="xe">{%to g. into debt:%}</div> <div n="xs">{#fRa-#}
-<div n="lb"/>{#grastaH#}</div> ({#stA, staM#}) {#Bavati.#}
+{@GET INTO:@}¦ Ph.: <div n="xe">{%to g. into a carriage:%}</div> <div n="xs">{#pravahaRam #}
+{# Arohati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#aDirohati#}</div> ({#ruh,#} c. 1.), Mr. <div n="xe">{%or%}</div> <div n="xs">{#aDyAste#}</div>
+({#As,#} c. 1.), R. vi. 10.; <div n="xe">{%he himself helped%}
+{%Damayantī in g.ting into the car:%}</div> <div n="xs">{#raTe sa BEmIM #}
+{# svayamaDyarUruhat,#}</div> N. xvi. 114.; <div n="xe">{%to g. into debt:%}</div> <div n="xs">{#fRa-#}
+{#grastaH#}</div> ({#stA, staM#}) {#Bavati.#}
 <LEND>

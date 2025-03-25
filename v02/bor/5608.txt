@@ -1,10 +1,10 @@
 <L>5608<pc>180<k1>decrease<k2>decrease
-<div n="lb"/>{@DECREASE@}¦ (v. i.): <div n="1">(1) {#hrAsamupEti, aDigacCati,#} etc.,
-<div n="lb"/><div n="xe">{%spirit d. s:%}</div> <div n="xs">{#satvaM hrAsamupEti,#}</div> Mr.; </div><div n="1">(2) {#kzIyate, #}
-<div n="lb"/>{# pari-,#} (pass. of {#kzi#}), <div n="xe">{%the nights d. when the sun%}
-<div n="lb"/>{%is on the north of the equator:%}</div> <div n="xs">{#kzIyante KalUttarAyaRe #}
-<div n="lb"/>{# rAtrayaH#}</div> M. n.; </div><div n="1">(3) {#hIyate, pari-, pra-,#} (pass. of {#hA#}),
-<div n="lb"/><div n="xe">{%every day you are d. ing in your body:%}</div> <div n="xs">{#anudivasaM #}
-<div n="lb"/>{# Kalu parihIyase'Ngezu,#}</div> Sa.; </div><div n="1">(4) {#apacIyate#} (pass. of
-<div n="lb"/>{#ci#}) (rare).</div>
+{@DECREASE@}¦ (v. i.): <div n="1">(1) {#hrAsamupEti, aDigacCati,#} etc.,
+<div n="xe">{%spirit d. s:%}</div> <div n="xs">{#satvaM hrAsamupEti,#}</div> Mr.; </div><div n="1">(2) {#kzIyate, #}
+{# pari-,#} (pass. of {#kzi#}), <div n="xe">{%the nights d. when the sun%}
+{%is on the north of the equator:%}</div> <div n="xs">{#kzIyante KalUttarAyaRe #}
+{# rAtrayaH#}</div> M. n.; </div><div n="1">(3) {#hIyate, pari-, pra-,#} (pass. of {#hA#}),
+<div n="xe">{%every day you are d. ing in your body:%}</div> <div n="xs">{#anudivasaM #}
+{# Kalu parihIyase'Ngezu,#}</div> Sa.; </div><div n="1">(4) {#apacIyate#} (pass. of
+{#ci#}) (rare).</div>
 <LEND>

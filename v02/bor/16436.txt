@@ -1,4 +1,4 @@
 <L>16436<pc>504<k1>parliament<k2>parliament
-<div n="lb"/>{@PARLIAMENT:@}¦ {#*mahAsaBA,#} <div n="xe">{%members of p.:%}</div> <div n="xs">{#*mahA-#}
-<div n="lb"/>{#saBADizWitAH.#}</div>
+{@PARLIAMENT:@}¦ {#*mahAsaBA,#} <div n="xe">{%members of p.:%}</div> <div n="xs">{#*mahA-#}
+{#saBADizWitAH.#}</div>
 <LEND>

@@ -1,129 +1,129 @@
 <L>43618<pc>4-0585<k1>parvan<k2>pa/rvan
-{#pa/rvan#}¦ (=  {#parus#}) <lex>n.</lex> 
-<ls>NIR. 1, 20.</ls> 
-<ls>UṆĀDIS. 4, 112.</ls> 
-<div n="1"> 1) {%Knoten am Rohr und an Pflanzen überh.%} 
-<ls>AK. 2, 4, 5, 27.</ls> 
-<ls>TRIK. 3, 3, 246.</ls> 
-<ls>H. 1130.</ls> 
-<ls>an. 2, 273.</ls> 
-<ls>MED. n. 88.</ls> <ls>HALĀY. 2, 34.</ls> {#ahi^Msanta\ oza^DIrdAntu\ parva^n#} 
-<ls>AV. 12, 3, 31.</ls> 
-<ls>TS. 1, 1, 2, 1.</ls> {#upari parvaRAM lUtvA#} 
-<ls>KAUŚ. 1, 61.</ls> 
-<ls>ŚAT. BR. 6, 3, 1, 31.</ls> {#ikzoH#} 
-<ls>Spr. 413.</ls> {#tAlEH - SyAmaparvaBiH#} 
-<ls>HARIV. 3707.</ls> {#dantakAzWAni - yugmaparvARi#} 
-<ls>VARĀH. BṚH. S. 80 (79), 2.</ls> am Stiel eines <is>Cāmara</is> 
-<ls>70, 5.</ls> eines Sonnenschirms 
-<ls>71, 2.</ls> am Pfeilschaft: {#SarARAM nataparvaRAm#} 
-<ls>MBH. 5, 7143. 14, 2151.</ls> 
-<ls>ŚĀK. 162</ls> (wo {#aDunA nata°#} zu trennen ist). {#bARenAnataparvaRA#} (d. i. {#Anata#}) 
-<ls>MBH. 1, 1667.</ls> 
-<ls>R. 1, 1, 64.</ls> {#paYca°#} 
-<ls>3, 35, 87. 43, 20.</ls> {#tri°#} 
-<ls>MBH. 4, 1361.</ls> {#nirma\jjAna\M na parva^Ro jaBAra#} {%Rohr%} oder {%Röhre%} (des Knochens) 
-<ls>ṚV. 10, 68, 9.</ls> 
-<div n="1">— 2) {%Gelenk, Fuge, Glied%}: {#a\sirna parva^ vfji\nA Sf^RAsi#} 
-<ls>ṚV. 10, 89, 8.</ls> <ls n="ṚV.">1, 61, 12.</ls> 
-<ls>VS. 23, 40.</ls> {#nirBU^duKa\cCitsama^ranta\ parva^#} 
-<ls>ṚV. 4, 19, 9.</ls> {#i\me mA^ pI\tA raTa\M na gAva\H sama^nAha\ parva^su#} 
-<ls n="ṚV.">8, 48, 5.</ls> <ls>AV. 1, 12, 2. 2, 9, 1. 6, 14, 1. 11, 8, 12.</ls> {#aNgA\ parvA^Ri\ vi Sra^Taya#} 
-<ls>12, 5, 71.</ls> <ls>AIT. BR. 3, 31.</ls> {#parvARi visasraMsuH#} 
-<ls>ŚAT. BR. 1, 6, 3, 35. fgg.</ls> {#grIvARAm#} 
-<ls>3, 4, 4, 2. 6, 1, 2, 31. 10, 4, 5, 2.</ls> {#yaTA parvaRA parva saMdaDyAt#} 
-<ls>11, 5, 8, 6.</ls> {#vi parvA^Ri jihatAM sUta\vA u^#} 
-<ls>AV. 1, 11, 1.</ls> {#BujenAyataparvaRA#}
+{#pa/rvan#}¦ (= {#parus#}) <lex>n.</lex>
+<ls>NIR. 1,20.</ls>
+<ls>UṆĀDIS. 4,112.</ls>
+<div n="1"> 1) {%Knoten am Rohr und an Pflanzen überh.%}
+<ls>AK. 2,4,5,27.</ls>
+<ls>TRIK. 3,3,246.</ls>
+<ls>H. 1130.</ls>
+<ls>an. 2,273.</ls>
+<ls>MED. n. 88.</ls> <ls>HALĀY. 2,34.</ls> {#ahi^Msanta\ oza^DIrdAntu\ parva^n#}
+<ls>AV. 12,3,31.</ls>
+<ls>TS. 1,1,2,1.</ls> {#upari parvaRAM lUtvA#}
+<ls>KAUŚ. 1,61.</ls>
+<ls>ŚAT. BR. 6,3,1,31.</ls> {#ikzoH#}
+<ls>Spr. 413.</ls> {#tAlEH — SyAmaparvaBiH#}
+<ls>HARIV. 3707.</ls> {#dantakAzWAni — yugmaparvARi#}
+<ls>VARĀH. BṚH. S. 80 (79),2.</ls> am Stiel eines <is>Cāmara</is>
+<ls n="VARĀH. BṚH. S.">70,5.</ls> eines Sonnenschirms
+<ls n="VARĀH. BṚH. S.">71,2.</ls> am Pfeilschaft: {#SarARAM nataparvaRAm#}
+<ls>MBH. 5,7143.</ls> <ls n="MBH.">14,2151.</ls>
+<ls>ŚĀK. 162</ls> (wo {#aDunA nata°#} zu trennen ist). {#bARenAnataparvaRA#} (<ab>d. i.</ab> {#Anata#})
+<ls>MBH. 1,1667.</ls>
+<ls>R. 1,1,64.</ls> {#paYca°#}
+<ls n="R.">3,35,87.</ls> <ls n="R. 3,">43,20.</ls> {#tri°#}
+<ls>MBH. 4,1361.</ls> {#nirma\jjAna\M na parva^Ro jaBAra#} {%Rohr%} oder {%Röhre%} (des Knochens)
+<ls>ṚV. 10,68,9.</ls>
+<div n="1">— 2) {%Gelenk, Fuge, Glied%}: {#a\sirna parva^ vfji\nA Sf^RAsi#}
+<ls>ṚV. 10,89,8.</ls> <ls n="ṚV.">1,61,12.</ls>
+<ls>VS. 23,40.</ls> {#nirBU^duKa\cCitsama^ranta\ parva^#}
+<ls>ṚV. 4,19,9.</ls> {#i\me mA^ pI\tA raTa\M na gAva\H sama^nAha\ parva^su#}
+<ls n="ṚV.">8,48,5.</ls> <ls>AV. 1,12,2.</ls> <ls n="AV.">2,9,1.</ls> <ls n="AV.">6,14,1.</ls> <ls n="AV.">11,8,12.</ls> {#aNgA\ parvA^Ri\ vi Sra^Taya#}
+<ls n="AV.">12,5,71.</ls> <ls>AIT. BR. 3,31.</ls> {#parvARi visasraMsuH#}
+<ls>ŚAT. BR. 1,6,3,35. fgg.</ls> {#grIvARAm#}
+<ls n="ŚAT. BR.">3,4,4,2. 6,1,2,31. 10,4,5,2.</ls> {#yaTA parvaRA parva saMdaDyAt#}
+<ls n="ŚAT. BR.">11,5,8,6.</ls> {#vi parvA^Ri jihatAM sUta\vA u^#}
+<ls>AV. 1,11,1.</ls> {#BujenAyataparvaRA#}
 [Page4-0586]
-{%Handgelenk%} 
-<ls>HARIV. 4336.</ls> {#karatalErAparvaBAgotTitEH#} 
-<ls>ŚĀK. 80.</ls> {#aNguzWa°, aNguli°#} 
-<ls>KĀTY. ŚR. 1, 3, 38. 3, 4, 9. 22, 8, 16.</ls> 
-<ls>ŚĀṄKH. ŚR. 1, 10, 2.</ls> {#aNguzWaparvamAtrARAM garBARAm#} 
-<ls>MBH. 1, 4501.</ls> 
-<ls>HARIV. 5687.</ls> 
-<ls>Spr. 29.</ls> 
-<ls>BHĀG. P. 5, 21, 17. 6, 8, 6.</ls> {#pradeSinyagra°#} 
-<ls>SUŚR. 1, 27, 11.</ls> {#parvagOrava#} 
-<ls>90, 20.</ls> {#pradeSinI maDyaparvadalahInA, kanizWikA tu parvonA#} 
-<ls>VARĀH. BṚH. S. 58, 27. 67, 42.</ls> 
-<ls>LAGHUJ. 2, 18.</ls> vom {%Glied%} der Gliederthiere 
-<ls>SUŚR. 2, 293, 7. 13.</ls> 
-<div n="1">— 3) {%Absatz, Abschnitt, Abtheilung%} überh., {%Glied%} in übertr. Bed.: {#sopAnaparvARi#} 
-<ls>RAGH. 16, 46.</ls> {#(Kaqgasya) vraRo 'SuBo vipamaparvasTaH#} 
-<ls>VARĀH. BṚH. S. 49, 1.</ls> {#harivaMSo 'yaM papraTe 'nekaparvaBft#} 
-<ls>ŚATR. 10, 312.</ls> {#tamo moha#} (lies {#moho) mahAmohastAmisro 'tyanDasaMjYitaH . avidyA paYcaparvEzA prAdurBUtA mahAtmanaH ..#} 
-<ls>VP. 1, 5, 4</ls> bei <ls>MUIR, Sanscrit Texts 1, 20</ls> ; vgl. <ls>BHĀG. P. 3, 20, 18. Schol.</ls> zu <ls>KAP. 1, 70.</ls> {#caturviMSati° (kAlacakra)#} {%die 24 Halbmonate des Jahres%} 
-<ls>MBH. 3, 10644. fg.</ls> {#cakre caturviMSatiparvayoge#} 
-<ls>1, 808.</ls> {#triSataMzazwi° (kAlacakra)#} {%die 360 Tage%} 
-<ls>BHĀG. P. 3, 21, 18.</ls> {%Abtheilung in einem Schriftwerke%}, = {#granTasaMDi#} 
-<ls>TRIK. 3, 2, 25.</ls> = {#granTaviSeza#} 
-<ls>H. an.</ls> <ls>ŚAT. BR. 13, 4, 3, 7. fgg.</ls> <ls>MBH. 1, 310. fgg.</ls> {#sAmavedAnAM parvAdIn#} 
-<ls>Verz. d. B. H. 315, 4.</ls> {#guRa°#} 
-<ls>YOGAS. 2, 19.</ls> {#viMSArhatsuvratasya ca . paYcaparvABirAmaSri caritaM kIrtayizyate ..#} 
-<ls>ŚATR. 10, 320.</ls> {%ein natürlicher Haltepunkt in einer Erzählung, in einem Gespräch%}: {#aparvaRi kaTABaNgaM karoti virasIBavan#} 
-<ls>KĀM. NĪTIS. 5, 44.</ls> {%Glied eines Compositums%} 
-<ls>VS. PRĀT. 1, 138.</ls> <ls n="VS. PRĀT. 1,">149.</ls> <ls n="VS. PRĀT.">5, 7.</ls> 
-<ls>AV. PRĀT. 4, 53.</ls> <ls n="AV. PRĀT. 4,">77.</ls> 
-<ls>NIR. 2, 2.</ls> 
-<div n="1">— 4) {%Zeitabschnitt, ein bestimmter Zeitpunkt, Knotenpunkt eines Zeitumlaufs%} 
-<ls>ṚV. 1, 94, 4.</ls> 
-<ls>ŚAT. BR. 1, 6, 3, 35. 6, 2, 2, 24.</ls> 
-<ls>VS. 13, 43.</ls> {#sAMvatsarikezu parvasu#} 
-<ls>GOBH. 2, 8, 17.</ls> 
-<ls>ŚĀṄKH. ŚR. 2, 14, 8. 3, 11, 9.</ls> {#saMvatsara°#} 
-<ls>P. 4, 2, 21, <is>Vārtt</is>. 3.</ls> {#trIRi parvARi karmaRaH pOrRamAsyamAvAsye puRyaM nakzatram#} 
-<ls>KAUŚ. 94.</ls> insbes. {%die%} <is>Cāturmāsya</is>-{%Feiertage%} 
-<ls>KĀTY. ŚR. 5, 2, 13. 22, 7, 1. 16. 17. 24, 4, 30.</ls> 
-<ls>ŚĀṄKH. ŚR. 14, 5, 6. 10, 4. 18.</ls> 
-<ls>ĀŚV. ŚR. 9, 2. 3.</ls> {%die beiden%} (oder {%die vier) Mondwechsel%} 
-<ls>KĀTY. ŚR. 24, 6, 4. 25. 30.</ls> 
-<ls>ŚĀṄKH. ŚR. 3, 2, 1. 3, 1.</ls> 
-<ls>LĀṬY. 8, 8, 46. 10, 16, 3. 13.</ls> 
-<ls>GOBH. 1, 1, 13. 5, 14.</ls> {#vivarDamAno vIryeRa samudra iva parvaRi#} 
-<ls>R. 1, 55, 20. 2, 43, 11. 80, 4. 6, 78, 7.</ls> {#Sukle parvaRi pUrRasya#} ({%des Vollmondes%}) {#yaTA rUpaM mahodaDeH#} 
-<ls>HARIV. 5479.</ls> {#sAvitrAYCAntihomAMSca kuryAtparvasu nityaSaH#} 
-<ls>M. 4, 150. 153.</ls> 
-<ls>SĀV. 1, 25.</ls> {#parvaRi taM yajYaM yajamAnasya#} 
-<ls>R. 1, 40, 7.</ls> {#ya imaM SuciraDyAyaM paWetparvaRi parvaRi#} 
-<ls>MBH. 1, 262. 3, 13626. 4, 435.</ls> 
-<ls>YĀJÑ. 3, 334.</ls> 
-<ls>VP. 312.</ls> {#parvavarjaM vrajeccEnAm (BAryAm)#} 
-<ls>M. 3, 45.</ls> 
-<ls>YĀJÑ. 1, 79</ls>; vgl. {#amAvAsyAmazwamIM#} (d. i. in der ersten Monatshälfte) {#pOrRamAsIM caturdaSIm#} (d. i. in der zweiten Monatshälfte) {#brahmacArI Bavennityam#} 
-<ls>4, 128.</ls> {#parvaSradDAdi#} 
-<ls>MĀRK. P. 30, 3.</ls> {#Siro 'parvaRi#} ({%an einem gewöhnlichen Tage%}) {#muRqitam#} 
-<ls>Spr. 1352.</ls> {#tasmAdapAvartata kuRqineSaH parvAtyaye#} (so v. a. {#amAvAsyAtyaye) soma ivozRaraSmeH#} 
-<ls>RAGH. 7, 30.</ls> {#darSamaskandayanparva pOrRamAsaM ca yogataH#} 
-<ls>M. 6, 9.</ls> {#mama cEtatsamArabDaM parva#} {%das beim Mondwechsel übliche Opfer%} 
-<ls>R. 3, 42, 14.</ls> {#pravidDo rakzasAM BAgaH parvaRIvAhitAgninA#} 
-<ls>R.</ls> <ls>SCHL. 2, 43, 5.</ls> {%die Zeit, da der Mond bei seiner Conjunction oder Opposition durch den Knoten geht%} (Sonnenfinsterniss oder Mondfinsterniss): {#satamaskaM parva vinA tvazwA nAmArkamaRqalaM kurute#} 
-<ls>VARĀH. BṚH. S. 3, 6. 5, 23. fgg.</ls> 
-<ls>SŪRYAS. 4, 8. 5, 3. 14, 15.</ls> {#pIqAkaraM PAlguRamAsi parva#} 
-<ls>VARĀH. BṚH. S. 5, 73.</ls> {#AzAQaparvaRi#} 77. {#dvAveva grasate dineSvaraniSAprAReSvarO BAsurO BrAntaH parvaRi paSya dAnavapatiH SIrzAvaSezIkftaH#} 
-<ls>BHARTṚ. 2, 27.</ls> {#aparvaRi mahArAja sUryaM rAhurupEzyati#} 
-<ls>MBH. 3, 13091.</ls> 
-<ls>HARIV. 9872.</ls> {#aparvaRi grahakaluzendumaRqalA viBAvarI kaTaya kaTaM Bavizyati#} 
-<ls>MĀLAV. 74.</ls> 
-<ls>BHĀG. P. 5, 24, 2.</ls> {#sUryagrahaRaparvaRi#}
+{%Handgelenk%}
+<ls>HARIV. 4336.</ls> {#karatalErAparvaBAgotTitEH#}
+<ls>ŚĀK. 80.</ls> {#aNguzWa°, aNguli°#}
+<ls>KĀTY. ŚR. 1,3,38.</ls> <ls n="KĀTY. ŚR.">3,4,9.</ls> <ls n="KĀTY. ŚR.">22,8,16.</ls>
+<ls>ŚĀṄKH. ŚR. 1,10,2.</ls> {#aNguzWaparvamAtrARAM garBARAm#}
+<ls>MBH. 1,4501.</ls>
+<ls>HARIV. 5687.</ls>
+<ls>Spr. 29.</ls>
+<ls>BHĀG. P. 5,21,17.</ls> <ls n="BHĀG. P.">6,8,6.</ls> {#pradeSinyagra°#}
+<ls>SUŚR. 1,27,11.</ls> {#parvagOrava#}
+<ls n="SUŚR.">90,20.</ls> {#pradeSinI maDyaparvadalahInA, kanizWikA tu parvonA#}
+<ls>VARĀH. BṚH. S. 58,27. 67,42.</ls>
+<ls>LAGHUJ. 2,18.</ls> vom {%Glied%} der Gliederthiere
+<ls>SUŚR. 2,293,7. 13.</ls>
+<div n="1">— 3) {%Absatz, Abschnitt, Abtheilung%} überh., {%Glied%} in übertr. Bed.: {#sopAnaparvARi#}
+<ls>RAGH. 16,46.</ls> {#(Kaqgasya) vraRo 'SuBo vipamaparvasTaH#}
+<ls>VARĀH. BṚH. S. 49,1.</ls> {#harivaMSo 'yaM papraTe 'nekaparvaBft#}
+<ls>ŚATR. 10,312.</ls> {#tamo moha#} (lies {#moho) mahAmohastAmisro 'tyanDasaMjYitaH . avidyA paYcaparvEzA prAdurBUtA mahAtmanaH ..#}
+<ls>VP. 1,5,4</ls> bei <ls>MUIR, Sanscrit Texts 1,20</ls> ; vgl. <ls>BHĀG. P. 3,20,18.</ls> Schol. zu <ls>KAP. 1,70.</ls> {#caturviMSati° (kAlacakra)#} {%die 24 Halbmonate des Jahres%}
+<ls>MBH. 3,10644. fg.</ls> {#cakre caturviMSatiparvayoge#}
+<ls n="MBH.">1,808.</ls> {#triSataMzazwi° (kAlacakra)#} {%die 360 Tage%}
+<ls>BHĀG. P. 3,21,18.</ls> {%Abtheilung in einem Schriftwerke%}, = {#granTasaMDi#}
+<ls>TRIK. 3,2,25.</ls> = {#granTaviSeza#}
+<ls>H. an.</ls> <ls>ŚAT. BR. 13,4,3,7. fgg.</ls> <ls>MBH. 1,310. fgg.</ls> {#sAmavedAnAM parvAdIn#}
+<ls>Verz. d. B. H. 315,4.</ls> {#guRa°#}
+<ls>YOGAS. 2,19.</ls> {#viMSArhatsuvratasya ca . paYcaparvABirAmaSri caritaM kIrtayizyate ..#}
+<ls>ŚATR. 10,320.</ls> {%ein natürlicher Haltepunkt in einer Erzählung, in einem Gespräch%}: {#aparvaRi kaTABaNgaM karoti virasIBavan#}
+<ls>KĀM. NĪTIS. 5,44.</ls> {%Glied eines Compositums%}
+<ls>VS. PRĀT. 1,138.</ls> <ls n="VS. PRĀT. 1,">149.</ls> <ls n="VS. PRĀT.">5,7.</ls>
+<ls>AV. PRĀT. 4,53.</ls> <ls n="AV. PRĀT. 4,">77.</ls>
+<ls>NIR. 2,2.</ls>
+<div n="1">— 4) {%Zeitabschnitt, ein bestimmter Zeitpunkt, Knotenpunkt eines Zeitumlaufs%}
+<ls>ṚV. 1,94,4.</ls>
+<ls>ŚAT. BR. 1,6,3,35.</ls> <ls n="ŚAT. BR.">6,2,2,24.</ls>
+<ls>VS. 13,43.</ls> {#sAMvatsarikezu parvasu#}
+<ls>GOBH. 2,8,17.</ls>
+<ls>ŚĀṄKH. ŚR. 2,14,8. 3,11,9.</ls> {#saMvatsara°#}
+<ls>P. 4,2,21</ls>, <is>Vārtt</is>. 3. {#trIRi parvARi karmaRaH pOrRamAsyamAvAsye puRyaM nakzatram#}
+<ls>KAUŚ. 94.</ls> insbes. {%die%} <is>Cāturmāsya</is>-{%Feiertage%}
+<ls>KĀTY. ŚR. 5,2,13. 22,7,1. 16. 17. 24,4,30.</ls>
+<ls>ŚĀṄKH. ŚR. 14,5,6. 10,4. 18.</ls>
+<ls>ĀŚV. ŚR. 9,2. 3.</ls> {%die beiden%} (oder {%die vier) Mondwechsel%}
+<ls>KĀTY. ŚR. 24,6,4. 25. 30.</ls>
+<ls>ŚĀṄKH. ŚR. 3,2,1. 3,1.</ls>
+<ls>LĀṬY. 8,8,46. 10,16,3. 13.</ls>
+<ls>GOBH. 1,1,13. 5,14.</ls> {#vivarDamAno vIryeRa samudra iva parvaRi#}
+<ls>R. 1,55,20.</ls> <ls n="R.">2,43,11.</ls> <ls n="R. 2,">80,4.</ls> <ls n="R.">6,78,7.</ls> {#Sukle parvaRi pUrRasya#} ({%des Vollmondes%}) {#yaTA rUpaM mahodaDeH#}
+<ls>HARIV. 5479.</ls> {#sAvitrAYCAntihomAMSca kuryAtparvasu nityaSaH#}
+<ls>M. 4,150.</ls> <ls n="M. 4,">153.</ls>
+<ls>SĀV. 1,25.</ls> {#parvaRi taM yajYaM yajamAnasya#}
+<ls>R. 1,40,7.</ls> {#ya imaM SuciraDyAyaM paWetparvaRi parvaRi#}
+<ls>MBH. 1,262.</ls> <ls n="MBH.">3,13626.</ls> <ls n="MBH.">4,435.</ls>
+<ls>YĀJÑ. 3,334.</ls>
+<ls>VP. 312.</ls> {#parvavarjaM vrajeccEnAm (BAryAm)#}
+<ls>M. 3,45.</ls>
+<ls>YĀJÑ. 1,79</ls>; vgl. {#amAvAsyAmazwamIM#} (<ab>d. i.</ab> in der ersten Monatshälfte) {#pOrRamAsIM caturdaSIm#} (<ab>d. i.</ab> in der zweiten Monatshälfte) {#brahmacArI Bavennityam#}
+<ls n="YĀJÑ.">4,128.</ls> {#parvaSradDAdi#}
+<ls>MĀRK. P. 30,3.</ls> {#Siro 'parvaRi#} ({%an einem gewöhnlichen Tage%}) {#muRqitam#}
+<ls>Spr. 1352.</ls> {#tasmAdapAvartata kuRqineSaH parvAtyaye#} (so v. a. {#amAvAsyAtyaye) soma ivozRaraSmeH#}
+<ls>RAGH. 7,30.</ls> {#darSamaskandayanparva pOrRamAsaM ca yogataH#}
+<ls>M. 6,9.</ls> {#mama cEtatsamArabDaM parva#} {%das beim Mondwechsel übliche Opfer%}
+<ls>R. 3,42,14.</ls> {#pravidDo rakzasAM BAgaH parvaRIvAhitAgninA#}
+<ls>R. SCHL. 2,43,5.</ls> {%die Zeit, da der Mond bei seiner Conjunction oder Opposition durch den Knoten geht%} (Sonnenfinsterniss oder Mondfinsterniss): {#satamaskaM parva vinA tvazwA nAmArkamaRqalaM kurute#}
+<ls>VARĀH. BṚH. S. 3,6. 5,23. fgg.</ls>
+<ls>SŪRYAS. 4,8. 5,3. 14,15.</ls> {#pIqAkaraM PAlguRamAsi parva#}
+<ls>VARĀH. BṚH. S. 5,73.</ls> {#AzAQaparvaRi#} 77. {#dvAveva grasate dineSvaraniSAprAReSvarO BAsurO BrAntaH parvaRi paSya dAnavapatiH SIrzAvaSezIkftaH#}
+<ls>BHARTṚ. 2,27.</ls> {#aparvaRi mahArAja sUryaM rAhurupEzyati#}
+<ls>MBH. 3,13091.</ls>
+<ls>HARIV. 9872.</ls> {#aparvaRi grahakaluzendumaRqalA viBAvarI kaTaya kaTaM Bavizyati#}
+<ls>MĀLAV. 74.</ls>
+<ls>BHĀG. P. 5,24,2.</ls> {#sUryagrahaRaparvaRi#}
 [Page4-0587]
-Inschr. in 
-<ls>Journ. of the Am. Or. S. 7, 32, 10.</ls> {#calatyaparvaRi mahI#} 
-<ls>HARIV. 4262.</ls> Nicht klar ist die Bedeutung des Wortes an den beiden folgenden Stellen: {#parva cEva caturviMSaM#} ({%die 24te, letzte Monatshälfte?%}) {#tadA sUryamupasTitam#} 
-<ls>MBH. 3, 14271.</ls> {#rarAja rAjanrajanIyakarmA yaTEkaparvA rucirEkaSfNgaH#} 
-<ls>4, 2088.</ls> Nach den Lexicographen = {#tiTiBeda, tiTiviSeza#} 
-<ls>AK. 3, 4, 18, 124.</ls> 
-<ls>H. an.</ls> = {#darSapratipatsaMDiH#} 
-<ls>H. an.</ls> <ls>MED.</ls> = {#paYcadaSI#} 
-<ls>H. 148.</ls> = {#vizuvAdi#} 
-<ls>TRIK. 3, 3, 246.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> = {#kzaRa, maha, utsava#} {%Festtag%} 
-<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> (nach dieser Aut. {%a moment%} bei 
-<ls>WILS.</ls>). = {#lakzaRAntara#} 
-<ls>H. an.</ls> <ls>MED.</ls> {%the moment of the sun's entering a new sign%} 
-<ls>WILS.</ls> = {#prastAva#} 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {%opportunity, occasion%} 
-<ls>WILS.</ls> 
+Inschr. in
+<ls>Journ. of the Am. Or. S. 7,32,10.</ls> {#calatyaparvaRi mahI#}
+<ls>HARIV. 4262.</ls> Nicht klar ist die Bedeutung des Wortes an den beiden folgenden Stellen: {#parva cEva caturviMSaM#} ({%die 24te, letzte Monatshälfte?%}) {#tadA sUryamupasTitam#}
+<ls>MBH. 3,14271.</ls> {#rarAja rAjanrajanIyakarmA yaTEkaparvA rucirEkaSfNgaH#}
+<ls n="MBH.">4,2088.</ls> Nach den Lexicographen = {#tiTiBeda, tiTiviSeza#}
+<ls>AK. 3,4,18,124.</ls>
+<ls>H. an.</ls> = {#darSapratipatsaMDiH#}
+<ls>H. an.</ls> <ls>MED.</ls> = {#paYcadaSI#}
+<ls>H. 148.</ls> = {#vizuvAdi#}
+<ls>TRIK. 3,3,246.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> = {#kzaRa, maha, utsava#} {%Festtag%}
+<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> (nach dieser Aut. {%a moment%} bei
+<ls>WILS.</ls>). = {#lakzaRAntara#}
+<ls>H. an.</ls> <ls>MED.</ls> {%the moment of the sun's entering a new sign%}
+<ls>WILS.</ls> = {#prastAva#}
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {%opportunity, occasion%}
+<ls>WILS.</ls>
 <div n="v">— Vgl. {#aparvaka, aparvan, Uru°, kaNka°, tantu°, vi°, vfza°, Sata°, su°, soma°#} .
 <LEND>

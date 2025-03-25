@@ -1,13 +1,13 @@
 <L>5838<pc>187<k1>deny<k2>deny
-<div n="lb"/>{@DENY@}¦ (v. t.): <div n="I">I To gainsay, disown: </div><div n="1">(1)
-<div n="lb"/>{#na svIkaroti,#} etc. (=not acknowledge: q. v.),
-<div n="lb"/>{%if any one were to d. the authority of inference:%}
-<div n="lb"/>{#yadi kaScit prAmARyamanumAnasya nANgIkuryAt,#} D. s.; </div><div n="1">(2)
-<div n="lb"/>{#apa- hnute, ni-,#} ({#hnu,#} c. 2.), {%and who%} ({%first%}) {%speci-%}
-<div n="lb"/>{%fies and%} ({%then%}) <div n="xe">{%d. s:%}</div> <div n="xs">{#nirdiSyApahnu te ca yaH,#}</div> M.;</div>
-<div n="lb"/><div n="1">(3) {#pratyAKvyAti#} ({#KyA,#} c. 2.), <div n="xe">{%it cannot be d. ed%}
-<div n="lb"/>{%that by devotion one can get divinity:%}</div> <div n="xs">{#yoga #}
-<div n="lb"/>{# ESvaryaprAptiPalako na Sakyate pratyAKyAtum,#}</div> S. </div><div n="I">II To
-<div n="lb"/>refuse, withhold: q. v. Ph.: {%to d. one's self:%}
-<div n="lb"/>{#AtmAnaM saMyavcCati#} ({#yam,#} c. l.): v. Self-denial.</div>
+{@DENY@}¦ (v. t.): <div n="I">I To gainsay, disown: </div><div n="1">(1)
+{#na svIkaroti,#} etc. (=not acknowledge: q. v.),
+{%if any one were to d. the authority of inference:%}
+{#yadi kaScit prAmARyamanumAnasya nANgIkuryAt,#} D. s.; </div><div n="1">(2)
+{#apa- hnute, ni-,#} ({#hnu,#} c. 2.), {%and who%} ({%first%}) {%speci-%}
+{%fies and%} ({%then%}) <div n="xe">{%d. s:%}</div> <div n="xs">{#nirdiSyApahnu te ca yaH,#}</div> M.;</div>
+<div n="1">(3) {#pratyAKvyAti#} ({#KyA,#} c. 2.), <div n="xe">{%it cannot be d. ed%}
+{%that by devotion one can get divinity:%}</div> <div n="xs">{#yoga #}
+{# ESvaryaprAptiPalako na Sakyate pratyAKyAtum,#}</div> S. </div><div n="I">II To
+refuse, withhold: q. v. Ph.: {%to d. one's self:%}
+{#AtmAnaM saMyavcCati#} ({#yam,#} c. l.): v. Self-denial.</div>
 <LEND>

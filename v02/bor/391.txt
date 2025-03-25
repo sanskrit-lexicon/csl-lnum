@@ -1,8 +1,8 @@
 <L>391<pc>015<k1>affectionate<k2>affectionate
-<div n="lb"/>{@AFFECTIONATE:@}¦ <div n="1">(1) {#snigDaH#} ({#gDA, gDaM#}); </div><div n="1">(2)
-<div n="lb"/>{#praRayin#} (f. {#nI#}), <div n="xe">{%a. heart%}</div> <div n="xs">{#praRayi hfdayam#}</div> Me. i. 10;</div>
-<div n="lb"/><div n="1">(3) {#vatsalaH#} ({#lA, laM#}) (applied to parents);</div>
-<div n="lb"/><div n="1">(4) {#Baktimat#} (f. {#tI#}) (of dutiful affection
-<div n="lb"/>towards parents and elder relatives); </div><div n="1">(5)
-<div n="lb"/>{#premaparaH#} ({#rA, raM#}).</div>
+{@AFFECTIONATE:@}¦ <div n="1">(1) {#snigDaH#} ({#gDA, gDaM#}); </div><div n="1">(2)
+{#praRayin#} (f. {#nI#}), <div n="xe">{%a. heart%}</div> <div n="xs">{#praRayi hfdayam#}</div> Me. i. 10;</div>
+<div n="1">(3) {#vatsalaH#} ({#lA, laM#}) (applied to parents);</div>
+<div n="1">(4) {#Baktimat#} (f. {#tI#}) (of dutiful affection
+towards parents and elder relatives); </div><div n="1">(5)
+{#premaparaH#} ({#rA, raM#}).</div>
 <LEND>

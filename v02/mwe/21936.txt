@@ -1,6 +1,6 @@
 <L>21936<pc>579-b<k1>pedigree<k2>pedigree
-<div n="lb"/>PEDIGREE¦, {%s.%} (Lineage) {#vaMSAvaliH -lI#} {%f.,%} {#vaMSaparamparA, vaMSavitatiH#} {%f.,%}
-<div n="lb"/>{#vaMSaH, atpayaH, santatiH#} {%f.,%} {#santAnaH, kulaM#}. — (List of a line of
-<div n="lb"/>ancestors) {#vaMSAvalipatraM, vaMSaparisaMKyApatraM, pitfpitAmahAdiparisaMKyA#}
-<div n="lb"/> — (Account of ancestors) {#vaMSacaritraM, vaMSAnucaritaM#}.
+PEDIGREE¦, {%s.%} (Lineage) {#vaMSAvaliH -lI#} {%f.,%} {#vaMSaparamparA, vaMSavitatiH#} {%f.,%}
+{#vaMSaH, atpayaH, santatiH#} {%f.,%} {#santAnaH, kulaM#}. — (List of a line of
+ancestors) {#vaMSAvalipatraM, vaMSaparisaMKyApatraM, pitfpitAmahAdiparisaMKyA#}
+ — (Account of ancestors) {#vaMSacaritraM, vaMSAnucaritaM#}.
 <LEND>

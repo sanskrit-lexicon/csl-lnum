@@ -1,5 +1,5 @@
 <L>17481<pc>100,1<k1>avaDU<k2>ava-DU<e>1
-<s>ava-√ DU</s> ¦ <ab>Ved.</ab> <ab>P.</ab> (Imper. 2. <ab>sg.</ab> <s>-DUnuhi</s>, 2. <ab>pl.</ab> <s>-DUnutA</s>) to shake off or out or down, <ls>RV. x, 66, 14 & 134, 3</ls>; <ls>KātyŚr.</ls> &c.: <ab>Ā.</ab> (2. <ab>sg.</ab> <s>-DUnuze/</s>; <ab>impf.</ab> 2. <ab>sg.</ab> <s>-DUnuTAs</s>; <ab>aor.</ab> <s>-aDUzata</s>; <ab>perf.</ab> <ab>Pot.</ab> <s>-duDuvIta</s>; <ab>p.</ab> <s>-DUnvAna/</s>) 
+<s>ava-√ DU</s> ¦ <lang>Ved.</lang> <ab>P.</ab> (<ab>Imper.</ab> 2. <ab>sg.</ab> <s>-DUnuhi</s>, 2. <ab>pl.</ab> <s>-DUnutA</s>) to shake off or out or down, <ls>RV. x, 66, 14</ls> & <ls n="RV. x,">134, 3</ls>; <ls>KātyŚr.</ls> &c.: <ab>Ā.</ab> (2. <ab>sg.</ab> <s>-DUnuze/</s>; <ab>impf.</ab> 2. <ab>sg.</ab> <s>-DUnuTAs</s>; <ab>aor.</ab> <s>-aDUzata</s>; <ab>perf.</ab> <ab>Pot.</ab> <s>-duDuvIta</s>; <ab>p.</ab> <s>-DUnvAna/</s>)
 <div n="to"/>to shake off (as enemies or evil spirits or anything disagreeable), frighten away, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls> :
-<div n="to"/><ab>Caus.</ab> (<ab>Pot.</ab> <s>-DUnayet</s>) to shake, <ls>Mn. iii, 229.</ls><info verb="pre" cp="PĀ" parse="ava+DU"/>
+<div n="vp"/><ab>Caus.</ab> (<ab>Pot.</ab> <s>-DUnayet</s>) to shake, <ls>Mn. iii, 229.</ls><info verb="pre" cp="PĀ" parse="ava+DU"/>
 <LEND>

@@ -1,6 +1,6 @@
 <L>86098<pc>451,2<k1>turv<k2>turv<e>1
-<s>turv</s> ¦ (<ab>cf.</ab> √ <hom>1.</hom> <s>tur</s>) <ab>cl.</ab> 1. <ab>P.</ab> (2. <ab>sg.</ab> <s>tUrvasi</s> <ab>du.</ab> <ab>Impv.</ab> <s>°vatam</s>; <ab>p.</ab> <s>tU/rvat</s>) 
-<div n="to"/>to overpower, excel, <ls>RV.</ls> (<ab>inf.</ab> <s>turva/Re</s>, <ls>vi, viii, x</ls>);
-<div n="to"/>to cause to overpower, help to victory, save, <ls>vi, viii</ls>;
+<s>turv</s> ¦ (<ab>cf.</ab> √ <hom>1.</hom> <s>tur</s>) <ab>cl.</ab> 1. <ab>P.</ab> (2. <ab>sg.</ab> <s>tUrvasi</s> <ab>du.</ab> <ab>Impv.</ab> <s>°vatam</s>; <ab>p.</ab> <s>tU/rvat</s>)
+<div n="to"/>to overpower, excel, <ls>RV.</ls> (<ab>inf.</ab> <s>turva/Re</s>, <ls n="RV.">vi</ls>, <ls n="RV.">viii</ls>, <ls n="RV.">x</ls>);
+<div n="to"/>to cause to overpower, help to victory, save, <ls n="RV.">vi</ls>, <ls n="RV.">viii</ls>;
 <div n="vp"/> <ab>cf.</ab> <s>pra-</s>.<info whitneyroots="turv,64"/><info verb="root" cp="1P"/>
 <LEND>

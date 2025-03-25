@@ -1,7 +1,7 @@
 <L>7496<pc>170-b<k1>departure<k2>departure
-<div n="lb"/>DEPARTURE¦, {%s.%} {#apagamaH, vyapagamaH, vigamah, gamanaM, apAyaH, prayARaM, apayAnaM,#}
-<div n="lb"/>{#prasTAnaM, samprasTAnaM, apAsaraRaM, apasaraRaM, apakramaH -maRaM, utkramaRaM, atyayaH,#}
-<div n="lb"/>{#nirgamaH, visargaH, viyogaH#}. — (Death) {#apagamaH, atyayaH, saMsTitiH#} {%f.,%}
-<div n="lb"/>{#tanutyAgaH, jIvotsargaH, prayARaM#}. — (Abandonment) {#tyAgaH, nivfttiH#}
-<div n="lb"/>{%f.,%} {#projJanaM#}.
+DEPARTURE¦, {%s.%} {#apagamaH, vyapagamaH, vigamah, gamanaM, apAyaH, prayARaM, apayAnaM,#}
+{#prasTAnaM, samprasTAnaM, apAsaraRaM, apasaraRaM, apakramaH -maRaM, utkramaRaM, atyayaH,#}
+{#nirgamaH, visargaH, viyogaH#}. — (Death) {#apagamaH, atyayaH, saMsTitiH#} {%f.,%}
+{#tanutyAgaH, jIvotsargaH, prayARaM#}. — (Abandonment) {#tyAgaH, nivfttiH#}
+{%f.,%} {#projJanaM#}.
 <LEND>

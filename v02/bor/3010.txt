@@ -1,4 +1,4 @@
 <L>3010<pc>101<k1>cantonment<k2>cantonment
-<div n="lb"/>{@CANTONMENT:@}¦ {#niveSaH,#} <div n="xe">{%military c.%}</div> <div n="xs">{#senAniveSaH:#}</div> v.
-<div n="lb"/>Quarters.
+{@CANTONMENT:@}¦ {#niveSaH,#} <div n="xe">{%military c.%}</div> <div n="xs">{#senAniveSaH:#}</div> v.
+Quarters.
 <LEND>

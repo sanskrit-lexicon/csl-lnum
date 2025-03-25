@@ -1,13 +1,13 @@
 <L>11685<pc>281-b<k1>food<k2>food
-<div n="lb"/>FOOD¦, {%s.%} {#BojanaM, AhAraH, BojyaM, BakzyaM, KAdyaM, adyaM, AdyaM, adanaM, KAdanaM,#}
-<div n="lb"/>[Page282-a+ 51]
-<div n="lb"/>{#AhAryyaM, aByAhAryyaM, AmizaM, jagDiH#} {%f.,%} {#aSanaM, BakzaRaM, BaktaM, cAmyaM,#}
-<div n="lb"/>{#jemanaM, jamanaM, canaH#} {%n.%} {#(s), GasiH#} {%m.,%} {#niGasaH, viGasaH, grAsaH, psAnaM,#}
-<div n="lb"/>{#pratyadanaM, ASaH, dehayAtrA, jIvanakaH, SarIrayAtrA, nyAdaH, lepaH, lehaH;#}
-<div n="lb"/>‘choice food,’ {#paramAnnaM, uttamAnnaM, BojanaviSezaH;#} ‘bad food,’ {#kadannaM;#}
-<div n="lb"/>‘food and raiment,’ {#grAsAcCAdanaM, annAcCAdanaM, aSannAcCAdanaM#} or
-<div n="lb"/>{#-ne#} {%n.%} du., {#annavastraM, kaSipUH#} {%m.%} du.; ‘food of the gods,’ {#amftaM,#}
-<div n="lb"/>{#pIyUzaM, peyUzaM, suDA, lehmaM;#} ‘to eat food,’ {#AhAraM kf#}. Food is
-<div n="lb"/>divided by the Hindūs into five kinds, {#BakzyaM, BojyaM, lehyaM,#}
-<div n="lb"/>{#cozyaM, peyaM#}.
+FOOD¦, {%s.%} {#BojanaM, AhAraH, BojyaM, BakzyaM, KAdyaM, adyaM, AdyaM, adanaM, KAdanaM,#}
+[Page282-a+ 51]
+{#AhAryyaM, aByAhAryyaM, AmizaM, jagDiH#} {%f.,%} {#aSanaM, BakzaRaM, BaktaM, cAmyaM,#}
+{#jemanaM, jamanaM, canaH#} {%n.%} {#(s), GasiH#} {%m.,%} {#niGasaH, viGasaH, grAsaH, psAnaM,#}
+{#pratyadanaM, ASaH, dehayAtrA, jIvanakaH, SarIrayAtrA, nyAdaH, lepaH, lehaH;#}
+‘choice food,’ {#paramAnnaM, uttamAnnaM, BojanaviSezaH;#} ‘bad food,’ {#kadannaM;#}
+‘food and raiment,’ {#grAsAcCAdanaM, annAcCAdanaM, aSannAcCAdanaM#} or
+{#-ne#} {%n.%} du., {#annavastraM, kaSipUH#} {%m.%} du.; ‘food of the gods,’ {#amftaM,#}
+{#pIyUzaM, peyUzaM, suDA, lehmaM;#} ‘to eat food,’ {#AhAraM kf#}. Food is
+divided by the Hindūs into five kinds, {#BakzyaM, BojyaM, lehyaM,#}
+{#cozyaM, peyaM#}.
 <LEND>

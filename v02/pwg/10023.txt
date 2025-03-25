@@ -1,11 +1,11 @@
 <L>10023<pc>1-0786<k1>itaraTA<k2>itara/TA
-{#itara/TA#}¦ (wie eben) adv. {%auf andere Art; in entgegengesetzter Weise, umgekehrt, im entgegengesetzten Falle, sonst%} 
-<ls>H. ś. 204.</ls> {#evameva cita itaraTAcitaH#} 
-<ls>ŚAT. BR. 8, 7, 2, 10.</ls> {#evaM devatretaraTA mAnuze#} 
-<ls>6, 8, 1, 8. 7, 2, 2, 6.</ls> {#aTo itaraTAhuH#} 
-<ls>1, 7, 2, 26. 3, 4, 4, 7.</ls> {#itaraTA pAtre viparyasyete#} 
-<ls>4, 3, 1, 13. 4, 5, 19. 11, 1, 4, 2. 13, 5, 3, 9.</ls> <ls>KĀTY. ŚR. 1, 8, 28.</ls> {#itaraTetaraH#} 
-<ls>ṚV. PRĀT. 13, 10.</ls> <ls n="ṚV. PRĀT.">11, 24.</ls> 
-<ls>P. 4, 2, 104, <is>Vārtt</is>. 2.</ls> 
-<ls>PAT.</ls> zu <ls>8, 3, 74.</ls>
+{#itara/TA#}¦ (wie eben) adv. {%auf andere Art; in entgegengesetzter Weise, umgekehrt, im entgegengesetzten Falle, sonst%}
+<ls>H. ś. 204.</ls> {#evameva cita itaraTAcitaH#}
+<ls>ŚAT. BR. 8,7,2,10.</ls> {#evaM devatretaraTA mAnuze#}
+<ls n="ŚAT. BR.">6,8,1,8.</ls> <ls n="ŚAT. BR.">7,2,2,6.</ls> {#aTo itaraTAhuH#}
+<ls n="ŚAT. BR.">1,7,2,26.</ls> <ls n="ŚAT. BR.">3,4,4,7.</ls> {#itaraTA pAtre viparyasyete#}
+<ls n="ŚAT. BR.">4,3,1,13.</ls> <ls n="ŚAT. BR. 4,">4,5,19.</ls> <ls n="ŚAT. BR.">11,1,4,2.</ls> <ls n="ŚAT. BR.">13,5,3,9.</ls> <ls>KĀTY. ŚR. 1,8,28.</ls> {#itaraTetaraH#}
+<ls>ṚV. PRĀT. 13,10.</ls> <ls n="ṚV. PRĀT.">11,24.</ls>
+<ls>P. 4,2,104</ls>, <is>Vārtt</is>. 2.
+<ls>PAT.</ls> zu <ls n="P.">8,3,74.</ls>
 <LEND>

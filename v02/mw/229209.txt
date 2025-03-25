@@ -1,3 +1,3 @@
-<L>229209<pc>1132,2<k1>saMCad<k2>saM-Cad<h>b<e>1
-<hom>b.</hom> <s>saM-</s>√ <hom>2.</hom> <s>Cad</s> ¦ (or <s>Cand</s>), Caus. <s>-Candayati</s> (only <ab>ind.p.</ab> <s>-Candya</s>), to present, offer (with <ab>acc.</ab> of <ab>pers.</ab> and <ab>instr.</ab> of thing), <ls>MBh.</ls><info verb="pre" cp="" parse="sam+Cad"/><info or="229209,saMCad;229209.1,saMCand"/>
+<L>229209<pc>1132,2<k1>saMCad<k2>saM-Cad<e>1
+ <s>saM-</s>√ <hom>2.</hom> <s>Cad</s> (or <s>Cand</s>), ¦ <ab>Caus.</ab> <s>-Candayati</s> (only <ab>ind.p.</ab> <s>-Candya</s>), to present, offer (with <ab>acc.</ab> of <ab>pers.</ab> and <ab>instr.</ab> of thing), <ls>MBh.</ls><info verb="pre" cp="" parse="sam+Cad"/>
 <LEND>

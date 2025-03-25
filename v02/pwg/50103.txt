@@ -1,28 +1,27 @@
 <L>50103<pc>4-1098<k1>prasAdana<k2>prasAdana
-{#prasAdana#}¦ (wie eben) 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} {%klärend%}; s. {#ambu°, toya°#} . {%beruhigend, erheiternd%}: {#SoRitarasa°#} 
-<ls>SUŚR. 1, 155, 11.</ls> {#SoRitapittayoH#} 
-<ls>199, 1.</ls> {#indriyARAm#} 
-<ls>167, 2.</ls> {#Atma° (Bakti)#} 
-<ls>BHĀG. P. 1, 2, 22.</ls> {#karRasya#} {%das Ohr erheiternd%} 
-<ls>R. 5, 13, 17.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%ein königliches Zelt%} 
-<ls>H. 993,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#A#} {%Dienst%} 
-<ls>H. 496.</ls> 
-<ls>HALĀY. 1, 129.</ls> 
-<div n="1">— 4) <lex>n.</lex> 
-<div n="2"> a) {%das Klären, Klarmachen%} 
-<ls>SUŚR. 1, 171, 7.</ls> {%das Beruhigen%}: {#netra°#} so v. a. {%das kunstgerechte Behandeln der Augen%} 
-<ls>Verz. d. B. H. 285, 1.</ls> {%das Erheitern%}: {#Sruti°#} 
-<ls>ŚĀK. 4, 2.</ls> {#citta°#} 
-<ls>INDR. 2, 31.</ls> 
-<ls>YOGAS. 1, 33.</ls> {#pARqavasya#} 
-<ls>MBH. 4, 2311.</ls> 
-<ls>R. 1, 3, 15 (10</ls> <ls>GORR.). 2, 62</ls> in der Unterschr. <ls>PRAB. 97, 10.</ls> Citat beim Schol. zu <ls>ŚĀK. 5, 5.</ls> {#tvatprasAdanAt#} {%dadurch, dass ich dich gnädig stimme%}, 
-<ls>SĀV. 5, 81.</ls> {#prasADana#} 
-<ls>MBH. 9, 3527.</ls> fehlerhaft für {#prasAdana#} . Vgl. {#duzprasAdana#} . 
-<div n="2">— b) {%gekochter Reis%} 
-<ls>TRIK. 2, 9. 15</ls> <ls>?(m.; ŚKDR. und WILSON n. nach ders. Aut.). H. 395. - HARIV. 7777 und MĀLAV. 40</ls> ist {#prasADana#} st. {#prasAdana#} zu lesen.
+{#prasAdana#}¦ (wie eben)
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} {%klärend%}; s. {#ambu°, toya°#} . {%beruhigend, erheiternd%}: {#SoRitarasa°#}
+<ls>SUŚR. 1,155,11.</ls> {#SoRitapittayoH#}
+<ls n="SUŚR.">199,1.</ls> {#indriyARAm#}
+<ls n="SUŚR.">167,2.</ls> {#Atma° (Bakti)#}
+<ls>BHĀG. P. 1,2,22.</ls> {#karRasya#} {%das Ohr erheiternd%}
+<ls>R. 5,13,17.</ls>
+<div n="1">— 2) <lex>m.</lex> {%ein königliches Zelt%}
+<ls>H. 993</ls>, <ls>Sch.</ls>
+<div n="1">— 3) <lex>f.</lex> {#A#} {%Dienst%}
+<ls>H. 496.</ls>
+<ls>HALĀY. 1,129.</ls>
+<div n="1">— 4) <lex>n.</lex>
+<div n="2"> a) {%das Klären, Klarmachen%}
+<ls>SUŚR. 1,171,7.</ls> {%das Beruhigen%}: {#netra°#} so v. a. {%das kunstgerechte Behandeln der Augen%}
+<ls>Verz. d. B. H. 285,1.</ls> {%das Erheitern%}: {#Sruti°#}
+<ls>ŚĀK. 4,2.</ls> {#citta°#}
+<ls>INDR. 2,31.</ls>
+<ls>YOGAS. 1,33.</ls> {#pARqavasya#}
+<ls>MBH. 4,2311.</ls>
+<ls>R. 1,3,15</ls> (<ls n="GORR. 1,3,">10</ls> <ls>GORR.</ls>). <ls n="R.">2,62</ls> in der Unterschr. <ls>PRAB. 97,10.</ls> Citat beim Schol. zu <ls>ŚĀK. 5,5.</ls> {#tvatprasAdanAt#} {%dadurch, dass ich dich gnädig stimme%},
+<ls>SĀV. 5,81.</ls> {#prasADana#}
+<ls>MBH. 9,3527.</ls> fehlerhaft für {#prasAdana#} . Vgl. {#duzprasAdana#} .
+<div n="2">— b) {%gekochter Reis%}
+<ls>TRIK. 2,9,15</ls> (m.; <ls>ŚKDR.</ls> und <ls>WILSON</ls> n. nach ders. Aut.). <ls>H. 395.</ls> — <ls>HARIV. 7777</ls> und <ls>MĀLAV. 40</ls> ist {#prasADana#} st. {#prasAdana#} zu lesen.
 <LEND>

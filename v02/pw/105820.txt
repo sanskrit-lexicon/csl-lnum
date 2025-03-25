@@ -1,11 +1,11 @@
-<L>105820<pc>6141-2<k1>vihasta<k2>vihasta<e>100
+<L>105820<pc>6-141-b<k1>vihasta<k2>vihasta
 {#vihasta#}¦
-<div n="1">— 1) <lex>Adj.</lex>
-<div n="2">— a) {%handlos%} <ls>NAIṢ.6.16.</ls>
-<div n="2">— b) {%des Rüssels beraubt.%} <ab>Nom.abstr.</ab> {#°tA#} <lex>f.</lex> <ls>ŚIŚ.1967.</ls>
-<div n="2">— c) {%ungeschickt , unerfahren%} in {#A°#}.
-<div n="2">— d) {%verwirrt , benommen , befangen , nicht wissend was zu thun , rathlos%} <ls>KĀD.2,135,9(165,17).</ls> <ls>NAIṢ.6,16.</ls> <ab>Nom.abstr.</ab> {#°tA#} <lex>f.</lex> <ls>ŚIŚ.19,67.</ls> <ls>HARṢAC.123,17.</ls>
-<div n="2">— e) am Ende eines Comp. {%ganz vertieft in , — beschäftigt mit.%}
-<div n="2">— f) {%behend , geschickt , erfahren , — in%} (im Comp. vorangehend).
-<div n="1">— 2) <lex>m.</lex> {%Eunuch%} (!).
+<div n="1">— 1〉 <lex>Adj.</lex>
+<div n="2">— a〉 {%handlos%} <ls>NAIṢ. 6,16</ls>.
+<div n="2">— b〉 {%des Rüssels beraubt%}. <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex> <ls>ŚIŚ. 19,67</ls>.
+<div n="2">— c〉 {%ungeschickt, unerfahren%} in {#A°#}.
+<div n="2">— d〉 {%verwirrt, benommen, befangen, nicht wissend was zu thun, rathlos%} <ls>KĀD. 2,135,9 (165,17)</ls>. <ls>NAIṢ. 6,16</ls>. <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex> <ls>ŚIŚ. 19,67</ls>. <ls>HARṢAC. 123,17</ls>.
+<div n="2">— e〉 am Ende eines <ab>Comp.</ab> {%ganz vertieft in, — beschäftigt mit%}.
+<div n="2">— f〉 {%behend, geschickt, erfahren, — in%} (im <ab>Comp.</ab> vorangehend).
+<div n="1">— 2〉 <lex>m.</lex> {%Eunuch%} (!).
 <LEND>

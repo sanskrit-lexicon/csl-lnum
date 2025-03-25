@@ -1,13 +1,13 @@
 <L>171731<pc>853,2<k1>yuj<k2>yuj<h>1<e>1
-<hom>1.</hom> <s>yuj</s> ¦ (<ab>cf.</ab> √ <hom>2.</hom> <s>yu</s>) <ab>cl.</ab> 7. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxix, 7</ls>) <s>yuna/kti</s>, <s>yuNkte/</s> 
-(<ab>ep.</ab> also <s>yuYjati</s>, <s>°te</s>;
-<ab>Ved.</ab> <s>yojati</s>, <s>°te</s>;
+<hom>1.</hom> <s>yuj</s> ¦ (<ab>cf.</ab> √ <hom>2.</hom> <s>yu</s>) <ab>cl.</ab> 7. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxix, 7</ls>) <s>yuna/kti</s>, <s>yuNkte/</s>
+(<lang>ep.</lang> also <s>yuYjati</s>, <s>°te</s>;
+<lang>Ved.</lang> <s>yojati</s>, <s>°te</s>;
 <s>yuje</s>, <s>yujmahe</s>, 3. <ab>pl.</ab> <s>yujata</s> <ab>Impv.</ab> <s>yukzva/</s>;
 <ab>Pot.</ab> <s>yuYjIyAt</s>, <ls>R.</ls>;
 <ab>pf.</ab> <s>yuyo/ja</s>, <s>yuyuje/</s>, <ls>RV.</ls> &c. &c., 3. <ab>sg.</ab> <s>yuyojate</s>, <ls>RV. viii, 70, 7</ls>;
-<ab>aor.</ab> <ab>Class.</ab> <ab>P.</ab> <s>ayokzIt</s>, <s>ayOkzIt</s> or <s>ayujat</s>;
-<ab>Ved.</ab> also <ab>Ā.</ab> <s>a/yuji</s>;
-<ab>Ved.</ab> and Class. <s>ayukzi</s>, <s>ayukta</s>;
+<ab>aor.</ab> <lang>Class.</lang> <ab>P.</ab> <s>ayokzIt</s>, <s>ayOkzIt</s> or <s>ayujat</s>;
+<lang>Ved.</lang> also <ab>Ā.</ab> <s>a/yuji</s>;
+<lang>Ved.</lang> and <lang>Class.</lang> <s>ayukzi</s>, <s>ayukta</s>;
 <ab>fut.</ab> <s>yoktA/</s>, <ls>Br.</ls>;
 <s>yokzyati</s>, <ls>ib.</ls>;
 <s>°te</s>, <ls>AV.</ls> &c. &c.;
@@ -15,7 +15,7 @@
 <s>yuje/</s>, <ls>RV.</ls>;
 <ab>ind.p.</ab> <s>yuktvA/</s>, <ls>ib.</ls> &c. &c.;
 <s>yuktvA/ya</s>, <ls>RV.</ls>; <ls>Br.</ls>;
-<s>-yujya</s>, <ls>MBh.</ls> &c.), 
+<s>-yujya</s>, <ls>MBh.</ls> &c.),
 <div n="to"/>to yoke or join or fasten or harness (horses or a chariot), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to make ready, prepare, arrange, fit out, set to work, use, employ, apply, <ls>ib.</ls>;
 <div n="to"/>to equip (an army), <ls>R.</ls>;
@@ -32,7 +32,7 @@
 <div n="to"/>to bring into possession of, furnish or endow with (<ab>instr.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>R.</ls> &c.;
 <div n="to"/>to join one's self to (<ab>acc.</ab>), <ls>RV.</ls>;
 <div n="to"/> (in <ab>astron.</ab>) to come into union or conjunction with (<ab>acc.</ab>), <ls>VarBṛS.</ls> :
-<div n="vp"/><ab>Pass.</ab> <s>yujya/te</s> (<ab>ep.</ab> also <s>°ti</s>; <ab>aor.</ab> <s>a/yoji</s>), 
+<div n="vp"/><ab>Pass.</ab> <s>yujya/te</s> (<lang>ep.</lang> also <s>°ti</s>; <ab>aor.</ab> <s>a/yoji</s>),
 <div n="to"/>to be yoked or harnessed or joined &c., <ls>RV.</ls> &c. &c.;
 <div n="to"/>to attach one's self to (<ab>loc.</ab>), <ls>Hit.</ls>;
 <div n="to"/>to be made ready or prepared for (<ab>dat.</ab>), <ls>Bhag.</ls>;
@@ -42,7 +42,7 @@
 <div n="to"/>to accrue to, fall to the lot of (<ab>gen.</ab>), <ls>Pañcat.</ls>;
 <div n="to"/>to be fit or proper or suitable or right, suit anything (<ab>instr.</ab>), be fitted for (<ab>loc.</ab>), belong to or suit any one (<ab>loc.</ab> or <ab>gen.</ab>), deserve to be (<ab>nom.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
 <div n="vp"/> (with <s>na</s>) not to be fit or proper &c. for (<ab>instr.</ab>) or to (<ab>inf.</ab>, also with <ab>pass.</ab> sense = ‘ought not to be’), <ls>Kāv.</ls>; <ls>Kathās.</ls>; <ls>Pañcat.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>yojayati</s> (<ab>mc.</ab> also <s>°te</s>; <ab>aor.</ab> <s>ayUyujat</s>; <ab>Pass.</ab> <s>yojyate</s>), 
+<div n="vp"/><ab>Caus.</ab> <s>yojayati</s> (<ab>mc.</ab> also <s>°te</s>; <ab>aor.</ab> <s>ayUyujat</s>; <ab>Pass.</ab> <s>yojyate</s>),
 <div n="to"/>to harness, yoke with (<ab>instr.</ab>), put to (<ab>loc.</ab>), <ls>Kauś.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to equip (an army), draw up (troops), <ls>MBh.</ls>; <ls>R.</ls> &c.;
 <div n="to"/>to use, employ, set to work, apply, undertake, carry on, perform, accomplish, <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
@@ -59,7 +59,7 @@
 <div n="to"/>to endow or furnish or provide with (<ab>instr.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to mix (food) with (<ab>instr.</ab>), <ls>Mn. vii, 218</ls>;
 <div n="to"/>to confer anything upon (<ab>loc.</ab>), <ls>BhP.</ls>;
-<div n="to"/> (in <ab>astron.</ab>) to ascertain or know (<s>jAnAti</s>) the conjunction of the moon with an asterism (<ab>instr.</ab>), <ls>Pāṇ. 3-1, 26</ls>, <ab>Vārtt.</ab> 11 <ls>Pat.</ls>;
+<div n="to"/> (in <ab>astron.</ab>) to ascertain or know (<s>jAnAti</s>) the conjunction of the moon with an asterism (<ab>instr.</ab>), <ls>Pāṇ. iii, 1, 26</ls>, <ab>Vārtt.</ab> 11 <ls>Pat.</ls>;
 <div n="to"/> (<ab>Ā.</ab>) to think little of, esteem lightly, despise, <ls>Vop.</ls> in <ls>Dhātup. xxxiii, 36</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>yuyukzati</s>, to wish to harness or yoke or join &c.;
 <div n="to"/>to wish to appoint or institute, <ls>MBh.</ls>;

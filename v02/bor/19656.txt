@@ -1,12 +1,12 @@
 <L>19656<pc>611<k1>sail<k2>sail
-<div n="lb"/>{@SAIL@}¦ (v.): <div n="I">I To be impelled by wind: {#vAyunA #}
-<div n="lb"/>{# codyate#} (pass. of {#cud#}) etc., {%s. ing against wind:%}
-<div n="lb"/>{#ananukUlavAtanunnA,#} D. vi.: v. To drive. </div><div n="I">II To
-<div n="lb"/>set on a voyage: {#potena#} (= on a boat) {%or%}
-<div n="lb"/>{#samudreRa#} (by sea) {#gacCati#} ({#gam,#} c. 1. etc.), <div n="xe">{%s. to%}
-<div n="lb"/>{%the island:%}</div> <div n="xs">{#pravahaRena dvIpaM gacCa,#}</div> K. s. 25.
-<div n="lb"/>36.; <div n="xe">{%s. ed on his ship:%}</div> <div n="xs">{#tadIyaM yAnapAtramaDiruhya #}
-<div n="lb"/>{# pratasTe'mbuDivartmanA,#}</div> 40.; {%s. ing%} ({%vessels%}): {#samudra-#}
-<div n="lb"/>{#yAyin#} (f. {#nI#}) and sim. comp.s, M.n.: v.
-<div n="lb"/>Ship, sea, go, pass.</div>
+{@SAIL@}¦ (v.): <div n="I">I To be impelled by wind: {#vAyunA #}
+{# codyate#} (pass. of {#cud#}) etc., {%s. ing against wind:%}
+{#ananukUlavAtanunnA,#} D. vi.: v. To drive. </div><div n="I">II To
+set on a voyage: {#potena#} (= on a boat) {%or%}
+{#samudreRa#} (by sea) {#gacCati#} ({#gam,#} c. 1. etc.), <div n="xe">{%s. to%}
+{%the island:%}</div> <div n="xs">{#pravahaRena dvIpaM gacCa,#}</div> K. s. 25.
+36.; <div n="xe">{%s. ed on his ship:%}</div> <div n="xs">{#tadIyaM yAnapAtramaDiruhya #}
+{# pratasTe'mbuDivartmanA,#}</div> 40.; {%s. ing%} ({%vessels%}): {#samudra-#}
+{#yAyin#} (f. {#nI#}) and sim. comp.s, M.n.: v.
+Ship, sea, go, pass.</div>
 <LEND>

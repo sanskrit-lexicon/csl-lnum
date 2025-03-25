@@ -1,14 +1,14 @@
 <L>24424<pc>765<k1>witness<k2>witness
-<div n="lb"/>{@WITNESS@}¦ (subs.): <div n="I">I <div n="xe">{%The person w. ing:%}</div> <div n="xs">{#sAkzin#}</div>
-<div n="lb"/>(m.), <div n="xe">{%one w. is no w.:%}</div> <div n="xs">{#ekaScAsAkzI,#}</div> V. s.; {%and%}
-<div n="lb"/>{%among women, women%} ({%will be%}) <div n="xe">{%w. es:%}</div> <div n="xs">{#striyaH #}
-<div n="lb"/>{# strIzu ca sAkziRaH,#}</div> N. s.; {%in the absence of w. es:%}
-<div n="lb"/>{#sAkzyaBAve,#} M.; {%to cite, swear, examine w. es:%}
-<div n="lb"/>{#sAkziRaH diSati, SApayati, parIkzate,#} M.; <div n="xe">{%w. es for%}
-<div n="lb"/>{%the prosecution, for the defence:%}</div> <div n="xs">{#sAkziRaH pUrvavAdinaH, #}
-<div n="lb"/>{# uttaravAdinaH,#}</div> Y.; <div n="xe">{%ear-w.:%}</div> <div n="xs">{#SrutasAkzI,#}</div> Mit.; <div n="xe">{%to%}
-<div n="lb"/>{%produce w. es:%}</div> <div n="xs">{#sAkziRa upanyasyati,#}</div> Mit.; {#“jAgara-#}
-<div n="lb"/>{#duHKasAkziRI niSA ca SayyA ca”,#} N. i. 49. </div><div n="I">II
-<div n="lb"/>Testimony: {#sAkzyam,#} <div n="xe">{%to bear w.:%}</div> <div n="xs">{#sAkzyaM dadAti,#}</div>
-<div n="lb"/>Y.</div>
+{@WITNESS@}¦ (subs.): <div n="I">I <div n="xe">{%The person w. ing:%}</div> <div n="xs">{#sAkzin#}</div>
+(m.), <div n="xe">{%one w. is no w.:%}</div> <div n="xs">{#ekaScAsAkzI,#}</div> V. s.; {%and%}
+{%among women, women%} ({%will be%}) <div n="xe">{%w. es:%}</div> <div n="xs">{#striyaH #}
+{# strIzu ca sAkziRaH,#}</div> N. s.; {%in the absence of w. es:%}
+{#sAkzyaBAve,#} M.; {%to cite, swear, examine w. es:%}
+{#sAkziRaH diSati, SApayati, parIkzate,#} M.; <div n="xe">{%w. es for%}
+{%the prosecution, for the defence:%}</div> <div n="xs">{#sAkziRaH pUrvavAdinaH, #}
+{# uttaravAdinaH,#}</div> Y.; <div n="xe">{%ear-w.:%}</div> <div n="xs">{#SrutasAkzI,#}</div> Mit.; <div n="xe">{%to%}
+{%produce w. es:%}</div> <div n="xs">{#sAkziRa upanyasyati,#}</div> Mit.; {#“jAgara-#}
+{#duHKasAkziRI niSA ca SayyA ca”,#} N. i. 49. </div><div n="I">II
+Testimony: {#sAkzyam,#} <div n="xe">{%to bear w.:%}</div> <div n="xs">{#sAkzyaM dadAti,#}</div>
+Y.</div>
 <LEND>

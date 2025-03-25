@@ -1,8 +1,3 @@
-<L>178103.1<pc>880,3<k1>reB<k2>reB<h>a<e>1
-<s>riB</s> ¦ or <s>reB</s> <ab>cl.</ab> 1. <ab>P.</ab> <s>re/Bati</s> (<ab>accord.</ab> to <ls>Dhātup. x, 22</ls> <ab>Ā.</ab> <s>°te</s>; <ab>pf.</ab> <s>rireBa</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>areBIt</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>reBitA</s>, <s>reBizyati</s>, <ls>ib.</ls>), 
-<div n="to"/>to crackle (as fire), <ls>RV.</ls>;
-<div n="to"/>to creak (as a car), <ls>TS.</ls>;
-<div n="to"/>to murmur (as fluids), <ls>RV.</ls>;
-<div n="to"/>to chatter, talk aloud, <ls>AitBr.</ls>;
-<div n="to"/>to shout, sing, praise, <ls>RV.</ls><info or="178103,riB;178103.1,reB"/><info westergaard="reBf,10.22,01.0264"/><info whitneyroots="riB,140"/><info verb="genuineroot" cp="1P,1Ā"/>
+<L>178103.1<pc>880,3<k1>reB<k2>reB<e>1
+{{Lbody=178103}}
 <LEND>

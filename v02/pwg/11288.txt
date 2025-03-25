@@ -1,28 +1,27 @@
 <L>11288<pc>1-0917<k1>udAtta<k2>udAtta
-{#udAtta#}¦ (von {#dA, dadAti#} mit {#ud + A#}) 
-<div n="1"> 1) <lex>adj.</lex> {%hoch, hervorragend%} (sinnlich und übertr.): {#udAttadantAnAM kuYjarARAm#} 
-<ls>R. 2, 100, 10.</ls> {#udAttaviveka#} 
-<ls>PRAB. 97, 1.</ls> {#avikatTanaH kzamAvAnatigamBIro mahAsattvaH . sTeyAnnigUQamAno DIrodAtto dfQavrataH kaTitaH ..#} 
-<ls>SĀH. D. 32, 20.</ls> {%hochbetont%} und <lex>m.</lex> (näml. {#svara#}) {%hoher Ton, Acut%} 
-<ls>ṚV. PRĀT. 3, 1.</ls> {#udAttatarodAttAt#} 2. {#udAttaSruti#} 
-<ls>3.</ls> {#uccErudAttaH#} 
-<ls>VS. PRĀT. 1, 109.</ls> {#tasyAdita udAttaM svarArDamAtram#} 
-<ls>127.</ls> <ls>NIR. 4, 25.</ls> <ls>P. 1, 2, 29. 37. 7, 3, 34.</ls> <ls>AK. 1, 1, 5, 5.</ls> {#udAttatva#} 
-<ls>P. 1, 2, 31,</ls> 
-<ls>Sch.</ls> — Nach 
-<ls>H. 367</ls> : {%grossmüthig%}; nach 
-<ls>H. an. 3, 254</ls> : {%freigebig, gross, angenehm%} ({#hfdya#}); nach 
-<ls>MED. t. 96</ls> : {%mitleidig und freigebig.%} 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%Acut%} (s. u. 1.) 
-<div n="2">— b) {%Gabe.%} 
-<div n="2">— c) {%ein best. musicalisches Instrument%} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— d) {%eine best. Redefigur%} (s. u. 3.). 
-<div n="2">— e) {%Geschäft%} ({#kftya#}) 
-<ls>MED.</ls> 
-<div n="1">— 3) <lex>n.</lex> {%Ausschmückung, Verschönerung%}, eine Redefigur: {#udAttamfdDeScaritaM SlADyaM cAnyopalakzaRam#} 
-<ls>KUVALAY. 153</ls>,b. 
-<ls>SĀH. D. 752.</ls> 
+{#udAtta#}¦ (von {#dA, dadAti#} mit {#ud + A#})
+<div n="1"> 1) <lex>adj.</lex> {%hoch, hervorragend%} (sinnlich und übertr.): {#udAttadantAnAM kuYjarARAm#}
+<ls>R. 2,100,10.</ls> {#udAttaviveka#}
+<ls>PRAB. 97,1.</ls> {#avikatTanaH kzamAvAnatigamBIro mahAsattvaH . sTeyAnnigUQamAno DIrodAtto dfQavrataH kaTitaH ..#}
+<ls>SĀH. D. 32,20.</ls> {%hochbetont%} und <lex>m.</lex> (näml. {#svara#}) {%hoher Ton, Acut%}
+<ls>ṚV. PRĀT. 3,1.</ls> {#udAttatarodAttAt#} 2. {#udAttaSruti#} 3. {#uccErudAttaH#}
+<ls>VS. PRĀT. 1,109.</ls> {#tasyAdita udAttaM svarArDamAtram#}
+<ls n="VS. PRĀT. 1,">127.</ls> <ls>NIR. 4,25.</ls> <ls>P. 1,2,29.</ls> <ls n="P. 1,2,">37.</ls> <ls n="P.">7,3,34.</ls> <ls>AK. 1,1,5,5.</ls> {#udAttatva#}
+<ls>P. 1,2,31</ls>, <ls>Sch.</ls>
+— Nach
+<ls>H. 367</ls> : {%grossmüthig%}; nach
+<ls>H. an. 3,254</ls> : {%freigebig, gross, angenehm%} ({#hfdya#}); nach
+<ls>MED. t. 96</ls> : {%mitleidig und freigebig.%}
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) {%Acut%} (s. u. 1.)
+<div n="2">— b) {%Gabe.%}
+<div n="2">— c) {%ein best. musicalisches Instrument%}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— d) {%eine best. Redefigur%} (s. u. 3.).
+<div n="2">— e) {%Geschäft%} ({#kftya#})
+<ls>MED.</ls>
+<div n="1">— 3) <lex>n.</lex> {%Ausschmückung, Verschönerung%}, eine Redefigur: {#udAttamfdDeScaritaM SlADyaM cAnyopalakzaRam#}
+<ls>KUVALAY. 153,b.</ls>
+<ls>SĀH. D. 752.</ls>
 <div n="v">— Vgl. {#anudAtta#} .
 <LEND>

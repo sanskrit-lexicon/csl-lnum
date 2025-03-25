@@ -1,7 +1,7 @@
 <L>11957<pc>373<k1>incur<k2>incur
-<div n="lb"/>{@INCUR:@}¦ <div n="1">(1) {#majate#} ({#Baj,#} c. 1.), <div n="xe">{%he i. s guilt:%}</div> <div n="xs">{#sa doza-#}
-<div n="lb"/>{#BAk,#}</div> Ku. v. 83; <div n="xe">{%the doer of this i. s. the%}
-<div n="lb"/>{%punishment of a thief:%}</div> <div n="xs">{#tatkartA cOradaRqamAk,#}</div> Mit.;</div>
-<div n="lb"/><div n="1">(2) by circumlo. {%i. s the hatred of people:%}
-<div n="lb"/>{#dvezyatAM yAti loke,#} P.: v. To become.</div>
+{@INCUR:@}¦ <div n="1">(1) {#majate#} ({#Baj,#} c. 1.), <div n="xe">{%he i. s guilt:%}</div> <div n="xs">{#sa doza-#}
+{#BAk,#}</div> Ku. v. 83; <div n="xe">{%the doer of this i. s. the%}
+{%punishment of a thief:%}</div> <div n="xs">{#tatkartA cOradaRqamAk,#}</div> Mit.;</div>
+<div n="1">(2) by circumlo. {%i. s the hatred of people:%}
+{#dvezyatAM yAti loke,#} P.: v. To become.</div>
 <LEND>

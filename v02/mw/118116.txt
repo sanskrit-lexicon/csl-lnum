@@ -1,6 +1,6 @@
 <L>118116<pc>598,1<k1>pariBAz<k2>pari-BAz<e>1
 <s>pari-√ BAz</s> ¦ <ab>Ā.</ab> <s>-BAzate</s>, to speak to (<ab>acc.</ab>), address, admonish, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>R.</ls>;
-<div n="to"/>to declare, teach, explain, define, <ls>Gṛhyās.</ls>; <ls>Hariv.</ls>; <ls>Kāś.</ls>;
+<div n="to"/>to declare, teach, explain, define, <ls>Gṛhyās.</ls>; <ls>Hariv.</ls>, <ls>Kāś.</ls>;
 <div n="to"/>to persuade, exhort, encourage, <ls>MW.</ls>;
-<div n="to"/>to abuse, <ls>Divyâv.</ls><info verb="pre" cp="Ā" parse="pari+BAz"/>
+<div n="to"/>to abuse, <ls>Divyāv.</ls><info verb="pre" cp="Ā" parse="pari+BAz"/>
 <LEND>

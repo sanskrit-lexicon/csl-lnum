@@ -1,6 +1,6 @@
-<L>181033<pc>894,3<k1>laGaya<k2>laGaya<h>b<e>2
-<s>laGaya</s> <hom>b</hom> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s>, to make light, lessen, diminish, mitigate, soften, alleviate, <ls>Kālid.</ls>; <ls>Kir.</ls>;
+<L>181033<pc>894,3<k1>laGaya<k2>laGaya<e>2
+<s>laGaya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> <s>°yati</s>, to make light, lessen, diminish, mitigate, soften, alleviate, <ls>Kālid.</ls>; <ls>Kir.</ls>;
 <div n="to"/>to cause to appear light, <ls>Subh.</ls>;
 <div n="to"/>to make light of, slight, despise, <ls>Kir.</ls>;
-<div n="to"/>to excel, surpass, <ls>Hcar.</ls><info verb="nom" cp="P"/>
+<div n="to"/>to excel, surpass, <ls>Hcar.</ls><info verb="nom" cp="P"/><info hui="b"/>
 <LEND>

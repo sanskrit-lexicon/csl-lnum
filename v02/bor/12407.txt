@@ -1,5 +1,5 @@
 <L>12407<pc>385<k1>institute<k2>institute
-<div n="lb"/>{@INSTITUTE@}¦ (subs.): <div n="I">I Maxim, precept: q.v.</div>
-<div n="lb"/><div n="I">II An institution: {#samA#} (?). </div><div n="I">III In pl.
-<div n="lb"/>{#saMhitA,#} <div n="xe">{%i. s. of Manu:%}</div> <div n="xs">{#manusaMhitA.#}</div></div>
+{@INSTITUTE@}¦ (subs.): <div n="I">I Maxim, precept: q.v.</div>
+<div n="I">II An institution: {#samA#} (?). </div><div n="I">III In pl.
+{#saMhitA,#} <div n="xe">{%i. s. of Manu:%}</div> <div n="xs">{#manusaMhitA.#}</div></div>
 <LEND>

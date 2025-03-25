@@ -1,12 +1,12 @@
 <L>18242<pc>559<k1>purpose<k2>purpose
-<div n="lb"/>{@PURPOSE@}¦ (subs.): <div n="1">(1) {#aBiprAyaH:#} v. Intention;</div>
-<div n="lb"/><div n="1">(2) {#ASayaH:#} v. Design. </div><div n="1">(3) {#arTaH:#} v. Object;</div>
-<div n="lb"/><div n="1">(4) {#cikIrzA#} <div n="xe">{%or%}</div> <div n="xs">{#cikIrzitam#}</div> (= aim); </div><div n="1">(5) {#AkUtam#}
-<div n="lb"/>(rare), <div n="xe">{%who thus declared his p.:%}</div> <div n="xs">{#itIritAkUtam,#}</div>
-<div n="lb"/>Ki. xiv. 26. Ph.: (a) {%on p.:%} v. Purposely;
-<div n="lb"/>(b) <div n="xe">{%for what p.:%}</div> <div n="xs">{#kimarTam:#}</div> v. Why; (c) <div n="xe">{%to%}
-<div n="lb"/>{%no p.:%}</div> <div n="xs">{#nirarTakam:#}</div> v. Vain, in; (d) <div n="xe">{%for this,%}
-<div n="lb"/>{%that p.:%}</div> <div n="xs">{#etadarTam, tadarTam:#}</div> v. For (II, III); </div><div n="1">(6)
-<div n="lb"/>{%to the p.:%} (of arguments, words, etc.) {#upapannam#}
-<div n="lb"/>(= appositely) <div n="xe">{%or%}</div> <div n="xs">{#samyak#}</div> (= well).</div>
+{@PURPOSE@}¦ (subs.): <div n="1">(1) {#aBiprAyaH:#} v. Intention;</div>
+<div n="1">(2) {#ASayaH:#} v. Design. </div><div n="1">(3) {#arTaH:#} v. Object;</div>
+<div n="1">(4) {#cikIrzA#} <div n="xe">{%or%}</div> <div n="xs">{#cikIrzitam#}</div> (= aim); </div><div n="1">(5) {#AkUtam#}
+(rare), <div n="xe">{%who thus declared his p.:%}</div> <div n="xs">{#itIritAkUtam,#}</div>
+Ki. xiv. 26. Ph.: (a) {%on p.:%} v. Purposely;
+(b) <div n="xe">{%for what p.:%}</div> <div n="xs">{#kimarTam:#}</div> v. Why; (c) <div n="xe">{%to%}
+{%no p.:%}</div> <div n="xs">{#nirarTakam:#}</div> v. Vain, in; (d) <div n="xe">{%for this,%}
+{%that p.:%}</div> <div n="xs">{#etadarTam, tadarTam:#}</div> v. For (II, III); </div><div n="1">(6)
+{%to the p.:%} (of arguments, words, etc.) {#upapannam#}
+(= appositely) <div n="xe">{%or%}</div> <div n="xs">{#samyak#}</div> (= well).</div>
 <LEND>

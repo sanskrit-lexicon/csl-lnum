@@ -1,7 +1,7 @@
 <L>24641<pc>662-a<k1>receptacle<k2>receptacle
-<div n="lb"/>RECEPTACLE¦, {%s.%} {#ADAraH, pAtraM, BAjanaM, ASayaH, niDAnaM, niDiH#} {%m.,%}
-<div n="lb"/>{#ADAnaM, ASrayaH, aDiSrayaH, aDikaraRaM, garBaH, AspadaM, vinyAsaH, vIjaM#}.
-<div n="lb"/>The word {#ASayaH#} is especially used in composition thus,
-<div n="lb"/>‘the receptacle of the blood,’ {#raktASayaH;#} ‘of the food,’ {#annA-#}
-<div n="lb"/>{#SayaH, AmASayaH;#} ‘of bile,’ {#pittASayaH#}.
+RECEPTACLE¦, {%s.%} {#ADAraH, pAtraM, BAjanaM, ASayaH, niDAnaM, niDiH#} {%m.,%}
+{#ADAnaM, ASrayaH, aDiSrayaH, aDikaraRaM, garBaH, AspadaM, vinyAsaH, vIjaM#}.
+The word {#ASayaH#} is especially used in composition thus,
+‘the receptacle of the blood,’ {#raktASayaH;#} ‘of the food,’ {#annA-#}
+{#SayaH, AmASayaH;#} ‘of bile,’ {#pittASayaH#}.
 <LEND>

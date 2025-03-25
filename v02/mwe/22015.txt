@@ -1,5 +1,5 @@
 <L>22015<pc>581-b<k1>pension<k2>pension
-<div n="lb"/>PENSION¦, {%s.%} {#vfttiH#} {%f.,%} {#vArzikavfttiH#} {%f.,%} {#vArzikaM, jIrRasevakavfttiH#} {%f.,%} {#jIrRa-#}
-<div n="lb"/>{#BftyavfttiH#} {%f.,%} {#jIrRasevakavetanaM, karmmanivfttavetanaM, karmmanivfttamUlyaM, sevAni-#}
-<div n="lb"/>{#vfttavetanaM, BUtasevAmUlyaM, vfttasevApekzakavetanaM#}.
+PENSION¦, {%s.%} {#vfttiH#} {%f.,%} {#vArzikavfttiH#} {%f.,%} {#vArzikaM, jIrRasevakavfttiH#} {%f.,%} {#jIrRa-#}
+{#BftyavfttiH#} {%f.,%} {#jIrRasevakavetanaM, karmmanivfttavetanaM, karmmanivfttamUlyaM, sevAni-#}
+{#vfttavetanaM, BUtasevAmUlyaM, vfttasevApekzakavetanaM#}.
 <LEND>

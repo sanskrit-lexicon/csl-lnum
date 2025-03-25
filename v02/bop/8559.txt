@@ -1,42 +1,39 @@
 <L>8559<pc>380-a<k1>sf<k2>sf<h>1
-1. {#sf#}¦ 1. {%P.%} ire, incedere, progredi. MAH. 1. 1696.: {#sa rAjA#}
-<div n="lb">{#mfgayAM yAtaH…sasAra#}. {%C. acc.%} adire, aggredi. N. 17.
-<div n="lb">35.: {#damayantIm aTo sftvA#}. Fluere. RIGV. 32. 12.: {#a-#}
-<div n="lb">{#vAsfjaH sartave sapta sindUn#} «emittebas and dimanan-
-<div n="lb">dum septem fluvios»; RIGV. V. 101. 4.: {#treDA sasrur A-#}
-<div n="lb">{#paH#}. (Vid. {#sal, salila, sarit, saras#} et cf. {#f, sru,#}
-<div n="lb">{#sfp,#} gr. <lang n="greek"></lang> sicut lat. {%currus%} a {%currendo,%} v. {#car#}.)
-<div n="pfx">c. {#anu#} sequi. MAH. 3. 11556.: {#panTAnam…anusasruH#}.
-<div n="lb">{%Caus.%} sequi, persequi. MAH. 1. 4309.: {#dasyavaH…anu-#}
-<div n="lb">{#sAryamARA bahuBI rakziBiH#}.
-<div n="pfx">c. {#apa#} abire. HIT. 18. 18.: {#dUram apasara#}. {%Caus.%} facere ut
-<div n="lb">quis abeat, amovere. MAN. 7. 149.
-<div n="pfx">c. {#aBi#} adire, advenire, accedere. N. 11. 26. SA. 5. 62. DR.
-<div n="lb">6. 10. {%Caus. id.%} MR. 130. 5.: {#Bavantam aBisArayitum#}
-<div n="lb">{#AgatA;#} MAH. 1. 1221.
-<div n="pfx">c. {#ut#} {%Caus.%} facere ut quis proveniat, exeat, MAH. 3.
-<div n="lb">14872.: {#utsArayata tAn#}.
-<div n="pfx">c. {#ut#} praef. {#pra#} {%Caus.%} concedere, dare. HIT. 74. 21.: {#pro-#}
-<div n="lb">{#tsAritArDAsanaH#}.
-<div n="pfx">c. {#upa#} adire, aggredi, accedere. MAH. 2. 2596. Coire {%cum%}
-<div n="lb">{%viro.%} MAH. 3. 8587.: {#icCAmi tvAM sragvinam…upasa-#}
-<div n="lb">{#rtum#}.
-<div n="pfx">c. {#nis#} egredi, provenire. N. 20. 30. SU. 3. 25. 26. {%Caus.%}
-<div n="lb">facere ut quis exeat. MAH. 3. 12995. Expellere, abigere.
-<div n="lb">HIT. 65. 19. 83. 7.
-<div n="pfx">c. {#nis#} praef. {#vi#} egredi. IN. 1. 26. N. 20. 31.
-<div n="pfx">c. {#pari#} circumire, circumfluere. MAH. 3. 10983.: {#ApaH pa-#}
-<div n="lb">{#risasruH#}.
-<div n="pfx">c. {#pra#} procedere, prodire. R. Schl. II. 59. 10. BH. 15. 4. --
-<div n="lb">{#prasfta#} modestus. R. Schl. I. 12. 2. -- {%Caus.%} protendere,
-<div n="lb">extendere. HIT. 10. 18.: {#hastam prasArya;#} 85. 7.: {#pakzO#}
-<div n="lb">{#prasArya#}.{# -- paRyAni prasArayitum#} res venales exponere.
+1. {#sf#}¦ 1. {%P.%} ire, incedere, progredi. MAH. 1.1696.: {#sa rAjA
+mfgayAM yAtaH…sasAra#}. {%C. acc.%} adire, aggredi. N. 17.35.:
+{#damayantIm aTo sftvA#}. Fluere. RIGV. 32.12.: {#avAsfjaH
+sartave sapta sindUn#} «emittebas and dimanandum
+septem fluvios»; RIGV. V. 101.4.: {#treDA sasrur ApaH#}.
+(Vid. {#sal, salila, sarit, saras#} et cf. {#f, sru,
+sfp#}, gr. <lang n="greek">ἅϱ-μα</lang>, sicut lat. {%currus%} a {%currendo%}, v. {#car#}.)
+<div n="pfx">c. {#anu#} sequi. MAH. 3.11556.: {#panTAnam…anusasruH#}.
+{%Caus.%} sequi, persequi. MAH. 1.4309.: {#dasyavaH…anusAryamARA
+bahuBI rakziBiH#}.
+<div n="pfx">c. {#apa#} abire. HIT. 18.18.: {#dUram apasara#}. {%Caus.%} facere ut
+quis abeat, amovere. MAN. 7.149.
+<div n="pfx">c. {#aBi#} adire, advenire, accedere. N. 11.26. SA. 5.62. DR. 6.10.
+{%Caus.%} {%id.%} MR. 130.5.: {#Bavantam aBisArayitum
+AgatA#}; MAH. 1.1221.
+<div n="pfx">c. {#ut#} {%Caus.%} facere ut quis proveniat, exeat, MAH. 3.14872.:
+{#utsArayata tAn#}.
+<div n="pfx">c. {#ut#} praef. {#pra#} {%Caus.%} concedere, dare. HIT. 74.21.: {#protsAritArDAsanaH#}.
+<div n="pfx">c. {#upa#} adire, aggredi, accedere. MAH. 2.2596. Coire {%cum
+viro%}. MAH. 3.8587.: {#icCAmi tvAM sragvinam…upasartum#}.
+<div n="pfx">c. {#nis#} egredi, provenire. N. 20.30. SU. 3.25. 26. {%Caus.%}
+facere ut quis exeat. MAH. 3.12995. Expellere, abigere.
+HIT. 65.19. 83.7.
+<div n="pfx">c. {#nis#} praef. {#vi#} egredi. IN. 1.26. N. 20.31.
+<div n="pfx">c. {#pari#} circumire, circumfluere. MAH. 3.10983.: {#ApaH parisasruH#}.
+<div n="pfx">c. {#pra#} procedere, prodire. R. Schl. II.59.10. BH. 15.4. — {#prasfta#}
+modestus. R. Schl. I.12.2. — {%Caus.%} protendere,
+extendere. HIT. 10.18.: {#hastam prasArya#}; 85.7.: {#pakzO
+prasArya#}. — {#paRyAni prasArayitum#} res venales exponere.
 [Page380-b+ 36]
-<div n="lb">R. Schl. II. 48. 3.: {#vaRijo na prasArayan nacA 'SoBanta#}
-<div n="lb">{#paRyAni;#} MAN. 5. 129.
-<div n="pfx">c. {#pra#} praef. {#vi#} dimanare, diffundi. RAGH. 16. 3.: {#tezAm…#}
-<div n="lb">{#Binno 'zwaDA viprasasAra vaMSaH#} (schol. {#vistftaH#}).
-<div n="pfx">c. {#vi#} {%Caus.%} protendere. R. Schl. I. 42. 6.
-<div n="pfx">c. {#sam#} ire, adire. MAN. 12. 70. -- {%Caus.%} facere ut quis
-<div n="lb">eat, movere. MAN. 12. 124.
+R. Schl. II.48.3.: {#vaRijo na prasArayan nacA 'SoBanta
+paRyAni#}; MAN. 5.129.
+<div n="pfx">c. {#pra#} praef. {#vi#} dimanare, diffundi. RAGH. 16.3.: {#tezAm…
+Binno 'zwaDA viprasasAra vaMSaH#} (schol. {#vistftaH#}).
+<div n="pfx">c. {#vi#} {%Caus.%} protendere. R. Schl. I.42.6.
+<div n="pfx">c. {#sam#} ire, adire. MAN. 12.70. — {%Caus.%} facere ut quis
+eat, movere. MAN. 12.124.
 <LEND>

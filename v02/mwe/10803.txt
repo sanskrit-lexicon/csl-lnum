@@ -1,5 +1,5 @@
 <L>10803<pc>260-b<k1>fare<k2>fare
-<div n="lb"/>FARE¦, {%s.%} (Passage-money) {#AtAraH, AtaraH, tarapaRyaM, taramUlyaM, tArikaM,#}
-<div n="lb"/>{#tAryyaM, anutaraM#}. — (Food) {#BojanaM, AhAraH, annaM, BakzyaM;#} ‘good fare,’
-<div n="lb"/>{#uttamAhAraH, paramAnnaM, uttamAnnaM;#} ‘bad fare,’ {#kadannaM#}.
+FARE¦, {%s.%} (Passage-money) {#AtAraH, AtaraH, tarapaRyaM, taramUlyaM, tArikaM,#}
+{#tAryyaM, anutaraM#}. — (Food) {#BojanaM, AhAraH, annaM, BakzyaM;#} ‘good fare,’
+{#uttamAhAraH, paramAnnaM, uttamAnnaM;#} ‘bad fare,’ {#kadannaM#}.
 <LEND>

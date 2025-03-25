@@ -1,15 +1,15 @@
 <L>70334<pc>5-1280<k1>kApila<k2>kApila
-{#kApila#}¦ 
-<div n="1"> 1) <lex>adj.</lex> (f. {#I)#} 
-<div n="2"> a) {#maRqala#} 
-<ls>MBH. 12, 7891.</ls> {#gotra#} 
-<ls>Verz. d. Oxf. H. 19,a,16.</ls> {#SAstra#} und {#vARI#} 
-<ls>247,a, N. 3.</ls> {#sidDAntagati#} 
-<ls>259,b,3.</ls> {#tIrTa#} 
-<ls>71,a,31. 77,b,23.</ls> {#kApile viSAKe#} 
-<ls>WEBER, <is>Nakṣ</is>. 2, 392.</ls> 
-<div n="1">— 2) 
-<ls>Verz. d. Oxf. H. 242,b, No. 599. 259,a,35.</ls> <ls>KĀVYĀD.3,175.</ls> 
-<div n="1">— 3) <lex>n.</lex> {%ein von%} <is>Kapila</is> {%verfasstes Werk%}: {#kApile paYcarAtrezu kfzRenoktaM suvistaram#} 
-<ls>PAÑCAR. 2, 7, 50</ls>; vgl. {#kApileya#} .
+{#kApila#}¦
+<div n="1"> 1) <lex>adj.</lex> (f. {#I#})
+<div n="2"> a) {#maRqala#}
+<ls>MBH. 12,7891.</ls> {#gotra#}
+<ls>Verz. d. Oxf. H. 19,a,16.</ls> {#SAstra#} und {#vARI#}
+<ls n="Verz. d. Oxf. H.">247,a, N. 3.</ls> {#sidDAntagati#}
+<ls n="Verz. d. Oxf. H.">259,b,3.</ls> {#tIrTa#}
+<ls n="Verz. d. Oxf. H.">71,a,31. 77,b,23.</ls> {#kApile viSAKe#}
+<ls>WEBER, Nakṣ. 2,392.</ls>
+<div n="1">— 2)
+<ls>Verz. d. Oxf. H. 242,b, No. 599. 259,a,35.</ls> <ls>KĀVYĀD. 3,175.</ls>
+<div n="1">— 3) <lex>n.</lex> {%ein von%} <is>Kapila</is> {%verfasstes Werk%}: {#kApile paYcarAtrezu kfzRenoktaM suvistaram#}
+<ls>PAÑCAR. 2,7,50</ls>; vgl. {#kApileya#} .
 <LEND>

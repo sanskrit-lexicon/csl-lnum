@@ -1,8 +1,8 @@
 <L>7173<pc>228<k1>ease<k2>ease
-<div n="lb"/>{@Ease@}¦ (subs.): <div n="I">I Comfort: {#suKam,#} <div n="xe">{%at e.:%}</div> <div n="xs">{#suKena#}</div> {%or%}
-<div n="lb"/>{#nirudvegena.#} </div><div n="I">II Peace, tranquillity: </div><div n="1">(1) {#nirvfttiH,#}
-<div n="lb"/><div n="xe">{%how could he have e.%}</div> <div n="xs">{#kaDaM syAttasya nirvftiH,#}</div> P.;</div>
-<div n="lb"/><div n="1">(2) {#svAsTyam,#} <div n="xe">{%I am now at e.:%}</div> <div n="xs">{#labDamidAnIM svAsTyam,#}</div>
-<div n="lb"/>Sa. </div><div n="I">III Facility: {#anAyAsaH,#} {%with e.:%} v.
-<div n="lb"/>Easily. </div><div n="I">IV Of style, etc.: {#svAcCandyam#} (?).</div>
+{@Ease@}¦ (subs.): <div n="I">I Comfort: {#suKam,#} <div n="xe">{%at e.:%}</div> <div n="xs">{#suKena#}</div> {%or%}
+{#nirudvegena.#} </div><div n="I">II Peace, tranquillity: </div><div n="1">(1) {#nirvfttiH,#}
+<div n="xe">{%how could he have e.%}</div> <div n="xs">{#kaDaM syAttasya nirvftiH,#}</div> P.;</div>
+<div n="1">(2) {#svAsTyam,#} <div n="xe">{%I am now at e.:%}</div> <div n="xs">{#labDamidAnIM svAsTyam,#}</div>
+Sa. </div><div n="I">III Facility: {#anAyAsaH,#} {%with e.:%} v.
+Easily. </div><div n="I">IV Of style, etc.: {#svAcCandyam#} (?).</div>
 <LEND>

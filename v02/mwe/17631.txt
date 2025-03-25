@@ -1,4 +1,4 @@
 <L>17631<pc>444-b<k1>leather-seller<k2>leather-seller
-<div n="lb"/>LEATHER-SELLER¦, {%s.%} {#carmmavikretA#} {%m.%} {#(tf), carmmavikrayI#} {%m.%} {#(n), carmmavi-#}
-<div n="lb"/>{#krayopajIvI#} {%m.%}
+LEATHER-SELLER¦, {%s.%} {#carmmavikretA#} {%m.%} {#(tf), carmmavikrayI#} {%m.%} {#(n), carmmavi-#}
+{#krayopajIvI#} {%m.%}
 <LEND>

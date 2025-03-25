@@ -1,57 +1,54 @@
 <L>35412<pc>3-0812<k1>druh<k2>druh<h>1
-1. {#druh#}¦, {#dru/hyati#} 
-<ls>DHĀTUP. 26, 88</ls>; {#dudro/haH adruhas, adrukzas; drohitA, drogDA#} und {#droQA#} 
-<ls>P. 7, 2, 45. 8, 2, 33</ls>; ep. auch med. {%Jmd Etwas zu Leide thun, zu schaden suchen%} ({#hiMsAyAm#}) 
-<ls>DHĀTUP.</ls> mit dem dat. 
-<ls>P. 1, 4, 37.</ls> 
-<ls>VOP. 5, 15.</ls> {#yaddu\drohi^Ta Sepi\ze stri\yE#} 
-<ls>AV. 5, 30, 3.</ls> {#na yajamAnAya druhyasi#} 
-<ls>ŚAT. BR. 2, 3, 4, 38. 3, 4, 2, 9.</ls> 
-<ls>PAÑCAV. BR. 12, 6.</ls> 
-<ls>KĀṬH. 24, 9.</ls> {#adrukzo vE me#} 
-<ls>AIT. BR. 8, 23. 15.</ls> {#nAsmE druhyet#} 
-<ls>NIR. 2, 4.</ls> {#mahizAH SfNgiRo rOdrA na te druhyantu#} 
-<ls>R. 2, 25, 17.</ls> {#tasmE BavAndruhyati#} 
-<ls>BHĀG. P. 4, 4, 15. 7, 4, 28.</ls> {#mA drumeByo mahABAgA dIneByo drogDumarhaTa#} 
-<ls>6, 4, 7.</ls> med.: {#tasmE sa druhyatAm#} 
-<ls>R. 2, 75, 22.</ls> {#saMbanDiByo 'pi yErdrugDam#} (impers.) 
-<ls>RĀJA-TAR. 5, 298.</ls> mit dem gen.: {#(kaH) jyezWasya BrAturizwasya druhyet#} 
-<ls>R. GORR. 2, 99, 23.</ls> {#tataH sa nfpateH prARAntikaM druhyati#} 
-<ls>HIT. II, 121.</ls> mit dem loc.: {#Bagavati - druhyati#} 
-<ls>BHĀG. P. 4, 2, 21</ls> (vgl. {#drogDavya#}). mit dem acc.: {#taM na druhyetkadA ca na#} 
-<ls>M. 2, 144.</ls> {#pARqavAnmA druhaH#} 
-<ls>MBH. 2, 2107. 6, 3940.</ls> ohne Ergänzung 
-<ls>MBH. 1, 3289. 3, 13795.</ls> 
-<ls>HIT. 70, 14</ls> (v. l. fügt einen dat. bei). 
-<ls>BHAṬṬ. 4, 39.</ls> — partic. {#drugDa/#} {%der Jmd Etwas zu Leide thut%} 
-<ls>ṚV. 5, 40, 7.</ls> {#viSva\M hyu^gra nici\kezi^ dru\gDam#} 
-<ls>AV. 1, 10, 2.</ls> 
-<ls>PĀR. GṚHY. 3, 13.</ls> 
-<ls>MBH. 5, 715.</ls> mit pass. Bed. in {#akzadrugDa#} (könnte aber auch bedeuten: {%mit Würfeln schadend, ein gefährlicher [betrügerischer] Spieler).%} <lex>n.</lex> {%Beleidigung, Kränkung%}: {#ava^ dru\gDAni\ pitryA^ sfjA naH#} 
-<ls>ṚV. 7, 86, 5.</ls> 
+1. {#druh#}¦, {#dru/hyati#}
+<ls>DHĀTUP. 26,88</ls>; {#dudro/haH adruhas, adrukzas; drohitA, drogDA#} und {#droQA#}
+<ls>P. 7,2,45.</ls> <ls n="P.">8,2,33</ls>; ep. auch med. {%Jmd Etwas zu Leide thun, zu schaden suchen%} ({#hiMsAyAm#})
+<ls>DHĀTUP.</ls> mit dem dat.
+<ls>P. 1,4,37.</ls>
+<ls>VOP. 5,15.</ls> {#yaddu\drohi^Ta Sepi\ze stri\yE#}
+<ls>AV. 5,30,3.</ls> {#na yajamAnAya druhyasi#}
+<ls>ŚAT. BR. 2,3,4,38.</ls> <ls n="ŚAT. BR.">3,4,2,9.</ls>
+<ls>PAÑCAV. BR. 12,6.</ls>
+<ls>KĀṬH. 24,9.</ls> {#adrukzo vE me#}
+<ls>AIT. BR. 8,23. 15.</ls> {#nAsmE druhyet#}
+<ls>NIR. 2,4.</ls> {#mahizAH SfNgiRo rOdrA na te druhyantu#}
+<ls>R. 2,25,17.</ls> {#tasmE BavAndruhyati#}
+<ls>BHĀG. P. 4,4,15.</ls> <ls n="BHĀG. P.">7,4,28.</ls> {#mA drumeByo mahABAgA dIneByo drogDumarhaTa#}
+<ls n="BHĀG. P.">6,4,7.</ls> med.: {#tasmE sa druhyatAm#}
+<ls>R. 2,75,22.</ls> {#saMbanDiByo 'pi yErdrugDam#} (impers.)
+<ls>RĀJA-TAR. 5,298.</ls> mit dem gen.: {#(kaH) jyezWasya BrAturizwasya druhyet#}
+<ls>R. GORR. 2,99,23.</ls> {#tataH sa nfpateH prARAntikaM druhyati#}
+<ls>HIT. II,121.</ls> mit dem loc.: {#Bagavati — druhyati#}
+<ls>BHĀG. P. 4,2,21</ls> (vgl. {#drogDavya#}). mit dem acc.: {#taM na druhyetkadA ca na#}
+<ls>M. 2,144.</ls> {#pARqavAnmA druhaH#}
+<ls>MBH. 2,2107.</ls> <ls n="MBH.">6,3940.</ls> ohne Ergänzung
+<ls>MBH. 1,3289.</ls> <ls n="MBH.">3,13795.</ls>
+<ls>HIT. 70,14</ls> (v. l. fügt einen dat. bei).
+<ls>BHAṬṬ. 4,39.</ls> — partic. {#drugDa/#} {%der Jmd Etwas zu Leide thut%}
+<ls>ṚV. 5,40,7.</ls> {#viSva\M hyu^gra nici\kezi^ dru\gDam#}
+<ls>AV. 1,10,2.</ls>
+<ls>PĀR. GṚHY. 3,13.</ls>
+<ls>MBH. 5,715.</ls> mit pass. Bed. in {#akzadrugDa#} (könnte aber auch bedeuten: {%mit Würfeln schadend, ein gefährlicher [betrügerischer] Spieler).%} <lex>n.</lex> {%Beleidigung, Kränkung%}: {#ava^ dru\gDAni\ pitryA^ sfjA naH#}
+<ls>ṚV. 7,86,5.</ls>
 <div n="v">— Vgl. {#drogDar, drogDavya, droGa, droha, drohin#} .
-
-<div n="p">— {#aBi#} dass.: {#mABi dru^haH paru\SaH ka^lpayEnam#} {%thue ihm kein Leid%} (dem Opferthiere, durch ungeschicktes Zerlegen) 
-<ls>AV. 9, 5, 4.</ls> {#mA no\ martA^ a\Bi dru^hanta\nUnA^m#} 
-<ls>ṚV. 1, 5, 10.</ls> {#yaccA^Bidu\drohAnf^ta\M yacca^ Se\pe#} 
-<ls>VS. 6, 17.</ls> {#tayo\ryaH pUrvo^ 'Bi\druhya^ti#} 
-<ls>TS. 2, 2, 6, 2.</ls> {#kiMsaKA yo 'Bidruhyati#} 
-<ls>P. 2, 1, 64,</ls> 
-<ls>Sch.</ls> {#nABidruhyati BUteByaH#} 
-<ls>BHĀG. P. 4, 20, 3.</ls> {#tataH sa nfpateH prARezvaBidruhyate#} (v. l. {#°druhyati#}) 
-<ls>PAÑCAT. I, 270.</ls> mit dem acc. 
-<ls>P. 1, 4, 38.</ls> {#mAtaraM ca ye 'Bidruhyante manasA karmaRA cA#} 
-<ls>MBH. 12, 4019.</ls> {#BavAMstAnaBidruhyeta#} 
-<ls>R. 3, 11, 18.</ls> {#mA parasvamaBidrogDAH#} {%Schaden zufügen%} 
-<ls>MBH. 3, 11002</ls> <ls>(p. 569).</ls> partic. {#aBidrugDa#} mit act. Bed. 
-<ls>PĀR. GṚHY. 3, 12.</ls> {#aBidrugDAH pare cenno na Betavyam#} 
-<ls>MBH. 5, 2160.</ls> mit pass. Bed. 
-<ls>BHĀG. P. 5, 26, 17.</ls> — desid. {#aBidudrukzat#} 
-<ls>KĀṬH. 10, 3. 13, 1.</ls> 
+<div n="p">— {#aBi#} dass.: {#mABi dru^haH paru\SaH ka^lpayEnam#} {%thue ihm kein Leid%} (dem Opferthiere, durch ungeschicktes Zerlegen)
+<ls>AV. 9,5,4.</ls> {#mA no\ martA^ a\Bi dru^hanta\nUnA^m#}
+<ls>ṚV. 1,5,10.</ls> {#yaccA^Bidu\drohAnf^ta\M yacca^ Se\pe#}
+<ls>VS. 6,17.</ls> {#tayo\ryaH pUrvo^ 'Bi\druhya^ti#}
+<ls>TS. 2,2,6,2.</ls> {#kiMsaKA yo 'Bidruhyati#}
+<ls>P. 2,1,64</ls>, <ls>Sch.</ls>
+{#nABidruhyati BUteByaH#}
+<ls>BHĀG. P. 4,20,3.</ls> {#tataH sa nfpateH prARezvaBidruhyate#} (v. l. {#°druhyati#})
+<ls>PAÑCAT. I,270.</ls> mit dem acc.
+<ls>P. 1,4,38.</ls> {#mAtaraM ca ye 'Bidruhyante manasA karmaRA cA#}
+<ls>MBH. 12,4019.</ls> {#BavAMstAnaBidruhyeta#}
+<ls>R. 3,11,18.</ls> {#mA parasvamaBidrogDAH#} {%Schaden zufügen%}
+<ls>MBH. 3,11002</ls> (p. 569). partic. {#aBidrugDa#} mit act. Bed.
+<ls>PĀR. GṚHY. 3,12.</ls> {#aBidrugDAH pare cenno na Betavyam#}
+<ls>MBH. 5,2160.</ls> mit pass. Bed.
+<ls>BHĀG. P. 5,26,17.</ls> — desid. {#aBidudrukzat#}
+<ls>KĀṬH. 10,3. 13,1.</ls>
 <div n="v">— Vgl. {#aBidruh#} fg.
-
 <div n="p">— {#prati#} {%eine Beleidigung erwiedern%}; vgl. {#pratidruh#} .
-
-<div n="p">— {#vi#} {%Jmd%} (dat.) {%Etwas zu Leide thun%}: {#BrAtre paretAya vidudruhe yaH#} 
-<ls>BHĀG. P. 3, 1, 41.</ls>
+<div n="p">— {#vi#} {%Jmd%} (dat.) {%Etwas zu Leide thun%}: {#BrAtre paretAya vidudruhe yaH#}
+<ls>BHĀG. P. 3,1,41.</ls>
 <LEND>

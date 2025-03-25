@@ -1,6 +1,6 @@
 <L>25621<pc>695-b<k1>robbery<k2>robbery
-<div n="lb"/>ROBBERY¦, {%s.%} {#cOryyaM, steyaM, cOrikA, cOratvaM, stEnyaM, apahAraH, DanApahAraH#}
-<div n="lb"/>{#-raRaM, apaharaRaM, apahAraRaM, DanApaharaRaM, aBihAraH, aByAhAraH, DanA-#}
-<div n="lb"/>{#BihAraH, aBigrahaRaM, haraRaM, DanaharaRaM, parasvaharaRaM, parasvApaharaRaM, luRWanaM,#}
-<div n="lb"/>{#luRwanaM, mozaRaM, muzwaM, tAskaryyaM, sAhasaM#}.
+ROBBERY¦, {%s.%} {#cOryyaM, steyaM, cOrikA, cOratvaM, stEnyaM, apahAraH, DanApahAraH#}
+{#-raRaM, apaharaRaM, apahAraRaM, DanApaharaRaM, aBihAraH, aByAhAraH, DanA-#}
+{#BihAraH, aBigrahaRaM, haraRaM, DanaharaRaM, parasvaharaRaM, parasvApaharaRaM, luRWanaM,#}
+{#luRwanaM, mozaRaM, muzwaM, tAskaryyaM, sAhasaM#}.
 <LEND>

@@ -1,6 +1,6 @@
 <L>22231<pc>701<k1>taste<k2>taste
-<div n="lb"/>{@TASTE@}¦ (v. t.): <div n="1">(1) {#svAdayati, A-#} (c. of {#svad#}), <div n="xe">{%to%}
-<div n="lb"/>{%t. blood:%}</div> <div n="xs">{#SoRitamAsvAdayati,#}</div> Mu. i. 8.; </div><div n="1">(2)
-<div n="lb"/>{#rasayati#} ({#ras,#} c. 10.), <div n="xe">{%to t. wine:%}</div> <div n="xs">{#vAruRIM rasayati,#}</div>
-<div n="lb"/>Ki. ix. 54.</div>
+{@TASTE@}¦ (v. t.): <div n="1">(1) {#svAdayati, A-#} (c. of {#svad#}), <div n="xe">{%to%}
+{%t. blood:%}</div> <div n="xs">{#SoRitamAsvAdayati,#}</div> Mu. i. 8.; </div><div n="1">(2)
+{#rasayati#} ({#ras,#} c. 10.), <div n="xe">{%to t. wine:%}</div> <div n="xs">{#vAruRIM rasayati,#}</div>
+Ki. ix. 54.</div>
 <LEND>

@@ -1,47 +1,47 @@
 <L>6705<pc>289<k1>mind<k2>mind
 {@Mind,@}¦ {%s.%} {#manas#} {%n.,%} {#mAnasaM, cittaM, cetas#} {%n.,%}
-<div n="lb"/>{#budDi#} {%f.,%} {#mati#} {%f.,%} {#DIH; prajYA, boDaH;#} {%See%}
-<div n="lb"/>{@Intellect. 2@} {#hfdayaM, hfd#} {%n.,%} {#aMtaHkaraRaM,#}
-<div n="lb"/>{#cittaM, manaH, cetaH, aMtaraM#}. {@3@} {#matiH, budDiH,#}
-<div n="lb"/>{#mataM; kAmaH, icCA, vAMCA, ruci#} {%f.,%} {#manoraTaH,#}
-<div n="lb"/>{#vAsanA, BAvaH, IpsitaM, aBilAzaH#}. {@4@} {#aBi-#}
-<div n="lb"/>{#-prAyaH; uddeSaH, saMkalpaH, aBipretaM, matiH, budDiH,#}
-<div n="lb"/>{#mataM#}. {@5@} {#smaraRaM, smfti#} {%f.,%} {#smaraRaSakti#} {%f.,%} {#anu-#}
-<div n="lb"/>{#-boDaH;#} ‘to give the m. to’ {#BAvaM-mano-#}
-<div n="lb"/>{#-niviS#} c. or {#baMD#} 9 P or {#A-ni-DA#} 3 U,
-<div n="lb"/>{#Asakta-nivizwa-citta#} {%-a.%} {#BU;#} {%See%} under
-<div n="lb"/>{@Set;@} ‘out of one's m.’ {#BrAMta-avyava-#}
-<div n="lb"/>{#-sTita-budDi#} ({%a.%}); ‘fixed in the m.’ {#citta-#}
-<div n="lb"/>{#-nizWa;#} ‘of low m.’ {#kfpaRa-nIca-budDi;#} ‘work-
-<div n="lb"/>-ing of the m.’ {#citta#} or {#mano-vyApAraH#} or
-<div n="lb"/>{#vftti#} {%f.,%} {#manaScezwA, cetovikAraH;#} ‘accord-
-<div n="lb"/>-ing to one's m.’ {#yaTAkAmaM, yaTezwaM, yaTe-#}
-<div n="lb"/>{#-psitaM, yaTAruci;#} ‘have a m. to ask’
-<div n="lb"/>{#prazwumanAH-kAmaH;#} ‘to cross the m.’ {#manasi#}
-<div n="lb"/>{#ud-i#} 2 P or {#udBU#} 1 P, {#budDO saMjan#} 4 A;
-<div n="lb"/>{%See%} {@Occur;@} ‘call to m.’ {#smf#} 1 P, {#saM-#}
-<div n="lb"/>{#-anu-°, anuciMt#} 10; ‘put in m.’ {#smf#} c.,
-<div n="lb"/>{#anu-ud-buD#} c.; ‘of one m.’ {#ekacitta#} {%-a.;%}
-<div n="lb"/>‘being of one m.’ {#ekacittIBUya;#} ‘change
-<div n="lb"/>of m.’ {#budDi-mati-BedaH;#} ‘flashing across
-<div n="lb"/>the m.’ {#sPuraRaM, sahasA AvirBAvaH#}. {%-v. t.%}
-<div n="lb"/>{#man#} 4 A, {#gaR#} 10, {#Adf#} 6 A, {#ava-apa-Ikz#}
-<div n="lb"/>1 A, {#Aloc#} 10, {#ava-DA#} 3 U, {#citte-#}
-<div n="lb"/>{#-manasi-kf#} 8 U, {#avaDf#} 10, {#mano dA#} 3 U. {@2@}
-<div n="lb"/>{#sev#} 1 A, {#Baj#} 1 U, {#anu-zWA#} 1 P, {#anuruD#}
-<div n="lb"/>4 A, {#anuvi-DA#} 3 U. {@3@} {#rakz#} 1 P, {#pA#} c.
-<div n="lb"/>({#pAlayati#}); ‘never m. the first ques-
-<div n="lb"/>-tion, answer the second’ {#AstAM-tizWatu-#}
-<div n="lb"/>{#-tAvat praTamaH praSnaH, dvitIyasya uttaraM dehi;#}
-<div n="lb"/>‘never m.’ {#agurvarTametat;#} {%See%} {@Matter.@}
-<div n="lb"/>{@-ed,@} {%a.%} {#pravftta, pravaRa, SIla, manas, manaska#}
-<div n="lb"/>in comp.; ‘worldly-m.’ {#saMsArAsaktacitta;#}
-<div n="lb"/>{#DIramanaska,#} &c. {@-ful,@} {%a.%} {#sAvaDAna, avahita,#}
-<div n="lb"/>{#jAgarUka, avahitacitta#}. {@2@} {#kftAdara, manyamAna,#}
-<div n="lb"/>{#avekzaka#}. {@3@} {#avaDArayat, smarat, citte kurvat;#}
-<div n="lb"/>-‘to be m. of’ {#smf#}. {@-fully,@} {%adv.%} {#sAva-#}
-<div n="lb"/>{#-DAnaM, sAdaraM, avekzayA#}. {@-fulness,@} {%s.%} {#ava-#}
-<div n="lb"/>{#-DAnaM, avekzA#}. {@-less,@} {%a.%} {#anavaDAna, pramatta,#}
-<div n="lb"/>{#anavekzaka, nirapekza#}. {@2@} {#nazwasmfti-budDiM, budDi-#}
-<div n="lb"/>{#-hIna#}.
+{#budDi#} {%f.,%} {#mati#} {%f.,%} {#DIH; prajYA, boDaH;#} {%See%}
+{@Intellect. 2@} {#hfdayaM, hfd#} {%n.,%} {#aMtaHkaraRaM,#}
+{#cittaM, manaH, cetaH, aMtaraM#}. {@3@} {#matiH, budDiH,#}
+{#mataM; kAmaH, icCA, vAMCA, ruci#} {%f.,%} {#manoraTaH,#}
+{#vAsanA, BAvaH, IpsitaM, aBilAzaH#}. {@4@} {#aBi-#}
+{#-prAyaH; uddeSaH, saMkalpaH, aBipretaM, matiH, budDiH,#}
+{#mataM#}. {@5@} {#smaraRaM, smfti#} {%f.,%} {#smaraRaSakti#} {%f.,%} {#anu-#}
+{#-boDaH;#} ‘to give the m. to’ {#BAvaM-mano-#}
+{#-niviS#} c. or {#baMD#} 9 P or {#A-ni-DA#} 3 U,
+{#Asakta-nivizwa-citta#} {%-a.%} {#BU;#} {%See%} under
+{@Set;@} ‘out of one's m.’ {#BrAMta-avyava-#}
+{#-sTita-budDi#} ({%a.%}); ‘fixed in the m.’ {#citta-#}
+{#-nizWa;#} ‘of low m.’ {#kfpaRa-nIca-budDi;#} ‘work-
+-ing of the m.’ {#citta#} or {#mano-vyApAraH#} or
+{#vftti#} {%f.,%} {#manaScezwA, cetovikAraH;#} ‘accord-
+-ing to one's m.’ {#yaTAkAmaM, yaTezwaM, yaTe-#}
+{#-psitaM, yaTAruci;#} ‘have a m. to ask’
+{#prazwumanAH-kAmaH;#} ‘to cross the m.’ {#manasi#}
+{#ud-i#} 2 P or {#udBU#} 1 P, {#budDO saMjan#} 4 A;
+{%See%} {@Occur;@} ‘call to m.’ {#smf#} 1 P, {#saM-#}
+{#-anu-°, anuciMt#} 10; ‘put in m.’ {#smf#} c.,
+{#anu-ud-buD#} c.; ‘of one m.’ {#ekacitta#} {%-a.;%}
+‘being of one m.’ {#ekacittIBUya;#} ‘change
+of m.’ {#budDi-mati-BedaH;#} ‘flashing across
+the m.’ {#sPuraRaM, sahasA AvirBAvaH#}. {%-v. t.%}
+{#man#} 4 A, {#gaR#} 10, {#Adf#} 6 A, {#ava-apa-Ikz#}
+1 A, {#Aloc#} 10, {#ava-DA#} 3 U, {#citte-#}
+{#-manasi-kf#} 8 U, {#avaDf#} 10, {#mano dA#} 3 U. {@2@}
+{#sev#} 1 A, {#Baj#} 1 U, {#anu-zWA#} 1 P, {#anuruD#}
+4 A, {#anuvi-DA#} 3 U. {@3@} {#rakz#} 1 P, {#pA#} c.
+({#pAlayati#}); ‘never m. the first ques-
+-tion, answer the second’ {#AstAM-tizWatu-#}
+{#-tAvat praTamaH praSnaH, dvitIyasya uttaraM dehi;#}
+‘never m.’ {#agurvarTametat;#} {%See%} {@Matter.@}
+{@-ed,@} {%a.%} {#pravftta, pravaRa, SIla, manas, manaska#}
+in comp.; ‘worldly-m.’ {#saMsArAsaktacitta;#}
+{#DIramanaska,#} &c. {@-ful,@} {%a.%} {#sAvaDAna, avahita,#}
+{#jAgarUka, avahitacitta#}. {@2@} {#kftAdara, manyamAna,#}
+{#avekzaka#}. {@3@} {#avaDArayat, smarat, citte kurvat;#}
+-‘to be m. of’ {#smf#}. {@-fully,@} {%adv.%} {#sAva-#}
+{#-DAnaM, sAdaraM, avekzayA#}. {@-fulness,@} {%s.%} {#ava-#}
+{#-DAnaM, avekzA#}. {@-less,@} {%a.%} {#anavaDAna, pramatta,#}
+{#anavekzaka, nirapekza#}. {@2@} {#nazwasmfti-budDiM, budDi-#}
+{#-hIna#}.
 <LEND>

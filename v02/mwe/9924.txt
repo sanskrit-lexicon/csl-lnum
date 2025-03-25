@@ -1,5 +1,5 @@
 <L>9924<pc>235-a<k1>equipment<k2>equipment
-<div n="lb"/>EQUIPMENT¦, {%s.%} (Act of equipping) {#sajjIkaraRaM, sajjanaM -nA, sajjakarmma#}
-<div n="lb"/>{%n.%} {#(n), sajjA, sADanaM, samBAraH, samBftiH#} {%f.,%} {#AyojanaM, upAkarmma#} {%n.%}
-<div n="lb"/>{#(n), puraskAraH, puraskaraRaM#}. {%See%} EQUIPAGE.
+EQUIPMENT¦, {%s.%} (Act of equipping) {#sajjIkaraRaM, sajjanaM -nA, sajjakarmma#}
+{%n.%} {#(n), sajjA, sADanaM, samBAraH, samBftiH#} {%f.,%} {#AyojanaM, upAkarmma#} {%n.%}
+{#(n), puraskAraH, puraskaraRaM#}. {%See%} EQUIPAGE.
 <LEND>

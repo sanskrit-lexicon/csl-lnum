@@ -1,13 +1,13 @@
 <L>14446<pc>443<k1>memory<k2>memory
-<div n="lb"/>{@MEMORY:@}¦ <div n="I">I The faculty: </div><div n="1">(1) {#smftiH,#} <div n="xe">{%to cover%}
-<div n="lb"/>{%the m.:%}</div> <div n="xs">{#smftimArohati,#}</div> N. ii. 44.; </div><div n="1">(2) {#meDA#}
-<div n="lb"/>(= retentive m.), <div n="xe">{%is very skilful and has a%}
-<div n="lb"/>{%good m.:%}</div> <div n="xs">{#paramanipuRA meDAvinI ca,#}</div> Mal. Ph.:
-<div n="lb"/><div n="xe">{%committed to m.:%}</div> <div n="xs">{#kaRWasTa#}</div> (f. {#sTA#}), Bha.; <div n="xe">{%to%}
-<div n="lb"/>{%consign to m.:%}</div> <div n="xs">{#hfdaye nidaDAti,#}</div> <ls>N.</ls> </div><div n="I">II. Remem-
-<div n="lb"/>-brance: q. v.: {#smftiH,#} <div n="xe">{%held in the m.:%}</div> <div n="xs">{#smfti-#}
-<div n="lb"/>{#DftaH#}</div> ({#tA, taM#}), N. v. 134.; <div n="xe">{%loss of m.:%}</div> <div n="xs">{#smfti-#}
-<div n="lb"/>{#lopaH,#}</div> Sa. vii. </div><div n="I">III The time that can be
-<div n="lb"/>remembered: {#smArtakAlaH,#} {%within, beyond m.:%}
-<div n="lb"/>{#smArte, asmArte kAle,#} Mi.</div>
+{@MEMORY:@}¦ <div n="I">I The faculty: </div><div n="1">(1) {#smftiH,#} <div n="xe">{%to cover%}
+{%the m.:%}</div> <div n="xs">{#smftimArohati,#}</div> N. ii. 44.; </div><div n="1">(2) {#meDA#}
+(= retentive m.), <div n="xe">{%is very skilful and has a%}
+{%good m.:%}</div> <div n="xs">{#paramanipuRA meDAvinI ca,#}</div> Mal. Ph.:
+<div n="xe">{%committed to m.:%}</div> <div n="xs">{#kaRWasTa#}</div> (f. {#sTA#}), Bha.; <div n="xe">{%to%}
+{%consign to m.:%}</div> <div n="xs">{#hfdaye nidaDAti,#}</div> <ls>N.</ls> </div><div n="I">II. Remem-
+-brance: q. v.: {#smftiH,#} <div n="xe">{%held in the m.:%}</div> <div n="xs">{#smfti-#}
+{#DftaH#}</div> ({#tA, taM#}), N. v. 134.; <div n="xe">{%loss of m.:%}</div> <div n="xs">{#smfti-#}
+{#lopaH,#}</div> Sa. vii. </div><div n="I">III The time that can be
+remembered: {#smArtakAlaH,#} {%within, beyond m.:%}
+{#smArte, asmArte kAle,#} Mi.</div>
 <LEND>

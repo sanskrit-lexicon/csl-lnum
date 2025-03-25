@@ -1,22 +1,22 @@
 <L>114779<pc>7-1409<k1>sruti<k2>sruti/
-{#sruti/#}¦ (von {#sru#}) <lex>f.</lex> 
-<div n="1"> 1) {%Ausfluss%} 
-<ls>MED. n. 148.</ls> {#ruDira°#} 
-<ls>R. 6, 21, 5.</ls> {#asfksrutiBiH#} 
-<ls>BHĀG. P. 8, 10, 37.</ls> {#kzIra°#} 
-<ls>MEGH. 106.</ls> {#rasa°#} 
-<ls>VARĀH. BṚH. S. 55, 14.</ls> {#amftalava°#} 
-<ls>KIR. 5, 44.</ls> {#madaSruti#} 
-<ls>16, 2.</ls> {#lAlA°#} 
-<ls>Z. d. d. m. G. 27, 79.</ls> {#jala°#} 
-<ls>RĀJA-TAR. 5, 111.</ls> {#hima°#} {%Schneefall%} 
-<ls>RAGH. 16, 44.</ls> {#tuzAra°#} 
-<ls>KUMĀRAS. 1, 5.</ls> 
-<div n="1">— 2) {%Weg, Strasse%} 
-<ls>ṚV. 1, 42, 3.</ls> {#di\vaH#} 
-<ls n="ṚV. 1,">46, 11.</ls> <ls n="ṚV.">2, 13, 12.</ls> {#gavA^m#} 
-<ls n="ṚV.">6, 24, 4.</ls> <ls n="ṚV.">8, 80, 1.</ls> {#pU\rvIrhi te^ sru\taya\H santi\ yAta^ve#} 
-<ls n="ṚV.">9, 78, 2.</ls> <ls n="ṚV.">10, 88, 5.</ls> {#a\Yja\sInA^#} 
-<ls n="ṚV. 10,">32, 7.</ls> <ls>TS. 7, 2, 1, 2. 3, 5, 3.</ls> <ls>TBR. 3, 12, 5, 2.</ls> <ls>AIT. BR. 1, 2. 4, 17.</ls> <ls>ŚĀṄKH. ŚR. 7, 6, 2.</ls> {%ein um die%} <is>Vedi</is> {%geführter Strich%} ({#reKA#}) 
-<ls>17, 12, 5.</ls>
+{#sruti/#}¦ (von {#sru#}) <lex>f.</lex>
+<div n="1"> 1) {%Ausfluss%}
+<ls>MED. n. 148.</ls> {#ruDira°#}
+<ls>R. 6,21,5.</ls> {#asfksrutiBiH#}
+<ls>BHĀG. P. 8,10,37.</ls> {#kzIra°#}
+<ls>MEGH. 106.</ls> {#rasa°#}
+<ls>VARĀH. BṚH. S. 55,14.</ls> {#amftalava°#}
+<ls>KIR. 5,44.</ls> {#madaSruti#}
+<ls n="KIR.">16,2.</ls> {#lAlA°#}
+<ls>Z. d. d. m. G. 27,79.</ls> {#jala°#}
+<ls>RĀJA-TAR. 5,111.</ls> {#hima°#} {%Schneefall%}
+<ls>RAGH. 16,44.</ls> {#tuzAra°#}
+<ls>KUMĀRAS. 1,5.</ls>
+<div n="1">— 2) {%Weg, Strasse%}
+<ls>ṚV. 1,42,3.</ls> {#di\vaH#}
+<ls n="ṚV. 1,">46,11.</ls> <ls n="ṚV.">2,13,12.</ls> {#gavA^m#}
+<ls n="ṚV.">6,24,4.</ls> <ls n="ṚV.">8,80,1.</ls> {#pU\rvIrhi te^ sru\taya\H santi\ yAta^ve#}
+<ls n="ṚV.">9,78,2.</ls> <ls n="ṚV.">10,88,5.</ls> {#a\Yja\sInA^#}
+<ls n="ṚV. 10,">32,7.</ls> <ls>TS. 7,2,1,2. 3,5,3.</ls> <ls>TBR. 3,12,5,2.</ls> <ls>AIT. BR. 1,2.</ls> <ls n="AIT. BR.">4,17.</ls> <ls>ŚĀṄKH. ŚR. 7,6,2.</ls> {%ein um die%} <is>Vedi</is> {%geführter Strich%} ({#reKA#})
+<ls n="ŚĀṄKH. ŚR.">17,12,5.</ls>
 <LEND>

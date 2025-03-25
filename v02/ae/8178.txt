@@ -1,32 +1,32 @@
 <L>8178<pc>353<k1>power<k2>power
 {@Power,@}¦ {%s.%} {#Sakti#} {%f.,%} {#sAmarTyaM, balaM, praBAvaH,#}
-<div n="lb"/>{#vIryaM, UrjaH, sahas-ojas#} {%-n.,%} {#viBavaH#} ({#vA-#}
-<div n="lb"/>{#-gviBavaH#}); (martial) {#tejas#} {%n.,%} {#vi-parA-#}
-<div n="lb"/>{#-kramaH, SOryaM#}. {@2@} (Ability) {#SaktiH, kzamatA,#}
-<div n="lb"/>{#DISaktiH;#} ‘p. or thinking’ {#vicAraRA-#}
-<div n="lb"/>{#-SaktiH;#} ‘according to one's p.’ {#yaTA-#}
-<div n="lb"/>{#-Sakti-balaM, yAvacCakyaM#}. {@3@} (Influence)
-<div n="lb"/>{#praButvaM, praBAvaH, vaSaH-SaM, balaM, gOravaM, aDi-#}
-<div n="lb"/>{#-kAraH; ADipatyaM, ISatvaM, sattA, ESvaryaM,#}
-<div n="lb"/>{#aDInatA#}. {@4@} {#aDipaH-patiH, aDISaH, praBuH#}. {@5@}
-<div n="lb"/>(Legal) {#aDikAraH,#} or by {#arh#} 1 P. 6
-<div n="lb"/>{#aDikArijanaH, aDikftaH#}. 7 {#GAtaH#}. 8 {#senA,#}
-<div n="lb"/>{#balaM, pftanA;#} ‘have or exercise p. over
-<div n="lb"/>{#praBU#} 1 P, {#IS#} 2 A (with gen.), {#vaSIkf,#}
-<div n="lb"/>{#AyattIkf, AtmavaSaM nI#} 1 P; in (under)
-<div n="lb"/>the p. of’ {#vaSa, aDIna, Ayatta, taMtra#} in
-<div n="lb"/>comp.; ‘fallen into another's p.’ {#para#}
-<div n="lb"/>{#hastagata;#} ‘to be in one's p.’ ex. by
-<div n="lb"/>{#Sak#} 5 P or by ({%s.%}). {@-ful,@} {%a.%} {#bala-sA-#}
-<div n="lb"/>{#-marTya-vat, Sakta, balin, sabala, prabala, Urja-#}
-<div n="lb"/>{#-svala, ojasvin, Saktimat, Urjitasattva,#}
-<div n="lb"/>{#balAQya, sapraBAva, praBavizRu#}. {@2@} {#SUra, vIra,#}
-<div n="lb"/>{#vikrAMta, tejasvin, mahApratApa, pratApavat, DA-#}
-<div n="lb"/>{#-mavat, uruvikrama#}. {@3@} (Medicine) {#vIryavat,#}
-<div n="lb"/>{#amoGa, guRAvaha, prabala, alaMtama#}. {@4@} {#dfQa,#}
-<div n="lb"/>{#pratItikArin, prabala#}. {@-fully,@} {%adv.%} {#balavat,#}
-<div n="lb"/>{#prabalaM, sapraBAvaM, atyaMtaM#}. {@-fulness,@} {%s.%} {#prA-#}
-<div n="lb"/>{#-balyaM, SaktatvaM#}. {@-less,@} {%a.%} {#nirbala, SaktihIna,#}
-<div n="lb"/>{#aSakta, abala, nizpraBAva, asamarTa, akzama#}.
-<div n="lb"/>{@-lessness,@} {%s.%} {#aSakti#} {%f.,%} {#asAmarTya#}.
+{#vIryaM, UrjaH, sahas-ojas#} {%-n.,%} {#viBavaH#} ({#vA-#}
+{#-gviBavaH#}); (martial) {#tejas#} {%n.,%} {#vi-parA-#}
+{#-kramaH, SOryaM#}. {@2@} (Ability) {#SaktiH, kzamatA,#}
+{#DISaktiH;#} ‘p. or thinking’ {#vicAraRA-#}
+{#-SaktiH;#} ‘according to one's p.’ {#yaTA-#}
+{#-Sakti-balaM, yAvacCakyaM#}. {@3@} (Influence)
+{#praButvaM, praBAvaH, vaSaH-SaM, balaM, gOravaM, aDi-#}
+{#-kAraH; ADipatyaM, ISatvaM, sattA, ESvaryaM,#}
+{#aDInatA#}. {@4@} {#aDipaH-patiH, aDISaH, praBuH#}. {@5@}
+(Legal) {#aDikAraH,#} or by {#arh#} 1 P. 6
+{#aDikArijanaH, aDikftaH#}. 7 {#GAtaH#}. 8 {#senA,#}
+{#balaM, pftanA;#} ‘have or exercise p. over
+{#praBU#} 1 P, {#IS#} 2 A (with gen.), {#vaSIkf,#}
+{#AyattIkf, AtmavaSaM nI#} 1 P; in (under)
+the p. of’ {#vaSa, aDIna, Ayatta, taMtra#} in
+comp.; ‘fallen into another's p.’ {#para#}
+{#hastagata;#} ‘to be in one's p.’ ex. by
+{#Sak#} 5 P or by ({%s.%}). {@-ful,@} {%a.%} {#bala-sA-#}
+{#-marTya-vat, Sakta, balin, sabala, prabala, Urja-#}
+{#-svala, ojasvin, Saktimat, Urjitasattva,#}
+{#balAQya, sapraBAva, praBavizRu#}. {@2@} {#SUra, vIra,#}
+{#vikrAMta, tejasvin, mahApratApa, pratApavat, DA-#}
+{#-mavat, uruvikrama#}. {@3@} (Medicine) {#vIryavat,#}
+{#amoGa, guRAvaha, prabala, alaMtama#}. {@4@} {#dfQa,#}
+{#pratItikArin, prabala#}. {@-fully,@} {%adv.%} {#balavat,#}
+{#prabalaM, sapraBAvaM, atyaMtaM#}. {@-fulness,@} {%s.%} {#prA-#}
+{#-balyaM, SaktatvaM#}. {@-less,@} {%a.%} {#nirbala, SaktihIna,#}
+{#aSakta, abala, nizpraBAva, asamarTa, akzama#}.
+{@-lessness,@} {%s.%} {#aSakti#} {%f.,%} {#asAmarTya#}.
 <LEND>

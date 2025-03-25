@@ -1,50 +1,44 @@
 <L>25822<pc>2-1048<k1>cUrRay<k2>cUrRay
-{#cUrRay#}¦ (von {#cUrRa), cUrRa/yati#} {%zu Staub —, Mehl machen, zerreiben; zersplittern, zermalmen, zerschmettern%} 
-<ls>DHĀTUP. 32, 18.</ls> 
-<ls>MBH. 1, 3238.</ls> {#cUrRayitvA tu tO BAgO#} 
-<ls>SUŚR. 1, 166, 6.</ls> {#yaTA ca na Bidyate cUrRyate vA#} 
-<ls>2, 56, 3.</ls> {#(aSmavarzam) acUrRayam - SarajAlEH#} 
-<ls>MBH. 3, 12133.</ls> {#cUrRyamAne 'Smavarze#} 
-<ls>12134.</ls> {#gadAm#} 
-<ls>7, 3404.</ls> {#vftim#} 
-<ls>PAÑCAT. 249, 13.</ls> {#pAdapAMSca mahAkAyAMScUrRayAmAsa#} 
-<ls>MBH. 1, 6290.</ls> {#tasya gAtrARi sarvARi cUrRayAmAma#} 
-<ls>3, 11520.</ls> {#svarakziRastataH sarvAMScUrRayAmAsa#} 
-<ls>R. 5, 49, 33.</ls> {#cUrRayArIn#} 
-<ls>BHĀG. P. 6, 8, 22. -</ls> <ls>MBH. 12, 10315.</ls> <ls>R. 6, 39, 11.</ls> <ls>KATHĀS. 10, 123. 13, 102.</ls> <ls>BHĀG. P. 4, 18, 29. 8, 6, 35. 10, 45.</ls> <ls>DEVĪM. 3, 35. 9, 12.</ls> — {#cUrRita#} 
-<ls>SUŚR. 1, 46, 15. 104, 8. 161, 17.</ls> {#dfzadi#} 
-<ls>231, 10.</ls> {#asTi#} 
-<ls>67, 8. 301, 6.</ls> {#uttamANgEH#} 
-<ls>BHĀG. 11, 27. -</ls> <ls>MBH. 1, 4776. 7, 1972. 13, 7221.</ls> <ls>R. 5, 37, 41.</ls> {#payoDarotseDanipAtacUrRitAH - praTamodavindavaH#} 
-<ls>KUMĀRAS. 5, 24.</ls> {#padAGAtaraTANgacUrRitAdAyoDanAt#} 
-<ls>BHĀG. P. 8, 10, 37.</ls>
-
-<div n="p">— {#ava#} {%mit Staub, Mehl u.s.w. bestreuen, überziehen%} 
-<ls>P. 3, 1, 25,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 21, 17.</ls> {#cUrREH SanErvraRamuKamavacUrRya#} 
-<ls>SUŚR. 1, 46, 14. 60, 15. 2, 12, 2. 123, 11. 365, 18.</ls> {#aYjanena - SanakEravacUrRayet#} 
-<ls>HARIV. 7897.</ls> {#avacUrRita#} 
-<ls>AK. 3, 2, 43.</ls> 
-<ls>SUŚR. 1, 162, 4.</ls> 
-<ls>HARIV. 8442.</ls> {#ganDacUrRAva°#} 
-<ls>MBH. 8, 456.</ls> {#Beryo divyapuzpAvacUrRitAH#} 
-<ls>2, 813.</ls>
-
-<div n="p">— {#vini#} = simpl. 
-<ls>MBH. 8, 4665.</ls>
-
-<div n="p">— {#pra#} dass.: {#prAcucUrRacca pAdAByAm - plavaMgamAn#} 
-<ls>BHAṬṬ. 15, 36.</ls>
-
-<div n="p">— {#vi#} dass. 
-<ls>SUŚR. 2, 151, 20. 520, 5.</ls> {#yadaNkAtpatito mAtuH SilAM gAtrErvyacUrRayat#} 
-<ls>MBH. 1, 4773. 4775. 6258. 7, 1972. 8, 813. 4327.</ls> {#naranAgASvavfndAni muzalena vyacUrRayat#} 
-<ls>HARIV. 6229. 7043. 9353.</ls> 
-<ls>R. 6, 87, 23.</ls>
-
-<div n="p">— {#sam#} dass. 
-<ls>SUŚR. 1, 162, 19.</ls> {#gajenAkzipya balinA raTaH saMcUrRitaH kzitO#} 
-<ls>MBH. 7, 1394.</ls> {#saMcUrRitaSiroDara#} 
-<ls>?3, 11419. CĀT. 3. RĀJA-TAR. 5, 411. ŚATR. 14, 52. ŚAṂK. zu CHĀND. UP. 2, 22, 4.</ls>
+{#cUrRay#}¦ (von {#cUrRa), cUrRa/yati#} {%zu Staub —, Mehl machen, zerreiben; zersplittern, zermalmen, zerschmettern%}
+<ls>DHĀTUP. 32,18.</ls>
+<ls>MBH. 1,3238.</ls> {#cUrRayitvA tu tO BAgO#}
+<ls>SUŚR. 1,166,6.</ls> {#yaTA ca na Bidyate cUrRyate vA#}
+<ls n="SUŚR.">2,56,3.</ls> {#(aSmavarzam) acUrRayam — SarajAlEH#}
+<ls>MBH. 3,12133.</ls> {#cUrRyamAne 'Smavarze#}
+<ls n="MBH. 3,">12134.</ls> {#gadAm#}
+<ls n="MBH.">7,3404.</ls> {#vftim#}
+<ls>PAÑCAT. 249,13.</ls> {#pAdapAMSca mahAkAyAMScUrRayAmAsa#}
+<ls>MBH. 1,6290.</ls> {#tasya gAtrARi sarvARi cUrRayAmAma#}
+<ls n="MBH.">3,11520.</ls> {#svarakziRastataH sarvAMScUrRayAmAsa#}
+<ls>R. 5,49,33.</ls> {#cUrRayArIn#}
+<ls>BHĀG. P. 6,8,22.</ls> — <ls>MBH. 12,10315.</ls> <ls>R. 6,39,11.</ls> <ls>KATHĀS. 10,123.</ls> <ls n="KATHĀS.">13,102.</ls> <ls>BHĀG. P. 4,18,29.</ls> <ls n="BHĀG. P.">8,6,35.</ls> <ls n="BHĀG. P. 8,">10,45.</ls> <ls>DEVĪM. 3,35. 9,12.</ls> — {#cUrRita#}
+<ls>SUŚR. 1,46,15. 104,8. 161,17.</ls> {#dfzadi#}
+<ls n="SUŚR.">231,10.</ls> {#asTi#}
+<ls n="SUŚR.">67,8. 301,6.</ls> {#uttamANgEH#}
+<ls>BHĀG. 11,27.</ls> — <ls>MBH. 1,4776.</ls> <ls n="MBH.">7,1972.</ls> <ls n="MBH.">13,7221.</ls> <ls>R. 5,37,41.</ls> {#payoDarotseDanipAtacUrRitAH — praTamodavindavaH#}
+<ls>KUMĀRAS. 5,24.</ls> {#padAGAtaraTANgacUrRitAdAyoDanAt#}
+<ls>BHĀG. P. 8,10,37.</ls>
+<div n="p">— {#ava#} {%mit Staub, Mehl u.s.w. bestreuen, überziehen%}
+<ls>P. 3,1,25</ls>, <ls>Sch.</ls>
+<ls>VOP. 21,17.</ls> {#cUrREH SanErvraRamuKamavacUrRya#}
+<ls>SUŚR. 1,46,14. 60,15. 2,12,2. 123,11. 365,18.</ls> {#aYjanena — SanakEravacUrRayet#}
+<ls>HARIV. 7897.</ls> {#avacUrRita#}
+<ls>AK. 3,2,43.</ls>
+<ls>SUŚR. 1,162,4.</ls>
+<ls>HARIV. 8442.</ls> {#ganDacUrRAva°#}
+<ls>MBH. 8,456.</ls> {#Beryo divyapuzpAvacUrRitAH#}
+<ls n="MBH.">2,813.</ls>
+<div n="p">— {#vini#} = simpl.
+<ls>MBH. 8,4665.</ls>
+<div n="p">— {#pra#} dass.: {#prAcucUrRacca pAdAByAm — plavaMgamAn#}
+<ls>BHAṬṬ. 15,36.</ls>
+<div n="p">— {#vi#} dass.
+<ls>SUŚR. 2,151,20. 520,5.</ls> {#yadaNkAtpatito mAtuH SilAM gAtrErvyacUrRayat#}
+<ls>MBH. 1,4773.</ls> <ls n="MBH. 1,">4775.</ls> <ls n="MBH. 1,">6258.</ls> <ls n="MBH.">7,1972.</ls> <ls n="MBH.">8,813.</ls> <ls n="MBH. 8,">4327.</ls> {#naranAgASvavfndAni muzalena vyacUrRayat#}
+<ls>HARIV. 6229.</ls> <ls n="HARIV.">7043.</ls> <ls n="HARIV.">9353.</ls>
+<ls>R. 6,87,23.</ls>
+<div n="p">— {#sam#} dass.
+<ls>SUŚR. 1,162,19.</ls> {#gajenAkzipya balinA raTaH saMcUrRitaH kzitO#}
+<ls>MBH. 7,1394.</ls> {#saMcUrRitaSiroDara#}
+<ls n="MBH.">3,11419.</ls> <ls>CĀT. 3.</ls> <ls>RĀJA-TAR. 5,411.</ls> <ls>ŚATR. 14,52.</ls> <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. 2,22,4.</ls>
 <LEND>

@@ -1,9 +1,9 @@
 <L>27318<pc>750-a<k1>slaughter<k2>slaughter
-<div n="lb"/>SLAUGHTER¦, {%s.%} {#baDaH, GAtaH -tanaM, hananaM, nihananaM, mAraRaM, vyApAdanaM, ni-#}
-<div n="lb"/>{#zUdanaM, sUdanaM, saMhAraH, viSasanaM, vESasaM, pratiGAtanaM, kzaRanaM, pramayaH,#}
-<div n="lb"/>{#AlamBaH, vimardanaM, nivarhaRaM, nirvarhaRaM, pramApaRaM, nikAraRaM, niSAraRaM,#}
-<div n="lb"/>{#viSaraH, viSAraRaM, pravAsanaM, nikfntanaM, parAsanaM, nihiMsanaM, nirvAsanaM,#}
-<div n="lb"/>{#saMjYapanaM, nirgranTanaM, nirganDanaM, apAsanaM, nistarhaRaM, parivarjanaM, nirvApaRaM,#}
-<div n="lb"/>{#udvAsanaM, udvAsaH, pramaTanaM, kraTanaM, maTanaM, ujjAsanaM, piYjaH, unmanTaH,#}
-<div n="lb"/>{#niSumBaH -mBanaM#}.
+SLAUGHTER¦, {%s.%} {#baDaH, GAtaH -tanaM, hananaM, nihananaM, mAraRaM, vyApAdanaM, ni-#}
+{#zUdanaM, sUdanaM, saMhAraH, viSasanaM, vESasaM, pratiGAtanaM, kzaRanaM, pramayaH,#}
+{#AlamBaH, vimardanaM, nivarhaRaM, nirvarhaRaM, pramApaRaM, nikAraRaM, niSAraRaM,#}
+{#viSaraH, viSAraRaM, pravAsanaM, nikfntanaM, parAsanaM, nihiMsanaM, nirvAsanaM,#}
+{#saMjYapanaM, nirgranTanaM, nirganDanaM, apAsanaM, nistarhaRaM, parivarjanaM, nirvApaRaM,#}
+{#udvAsanaM, udvAsaH, pramaTanaM, kraTanaM, maTanaM, ujjAsanaM, piYjaH, unmanTaH,#}
+{#niSumBaH -mBanaM#}.
 <LEND>

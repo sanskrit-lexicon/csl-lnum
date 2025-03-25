@@ -1,32 +1,31 @@
 <L>8500<pc>1-0637<k1>ADAna<k2>ADA/na
-{#ADA/na#}¦ (von {#DA, daDAti#} mit {#A#}) <lex>n.</lex> 
-<div n="1"> 1) {%das Anlegen, Zulegen, Legen%} 
-<ls>ŚAT. BR. 2, 1, 4, 29.</ls> {#tulADAna#} 
-<ls>11, 2, 7, 33.</ls> {#samidADAna#} 
-<ls>KĀTY. ŚR. 5, 5, 35. 6, 10, 9. 4, 10, 15.</ls> 
-<ls>M. 2, 176.</ls> {#pUtidArvADAna#} 
-<ls>KĀTY. ŚR. 4, 11, 1. 8, 6, 30. 10, 8, 6.</ls> Vgl. {#garBADAna#} . 
-<div n="1">— 2) = {#agnyADAna#} (s. d.): {#BAryAyE pUrvamAriRyE dattvAgnInantyakarmaRi . punardArakriyAM punarADAnameva ca ..#} 
-<ls>M. 5, 168</ls> (<ls>KULL.</ls>: {#smArtAgnIn SrOtAgnInvA AdaDyAt)#}.{# raTaM hareta cADvaryurbrahmADAne#} 
-(<ls>RĀGHAV.</ls>: {#karmaRi#}, 
-<ls>KULL.</ls> : {#kezAMcicCAKinAmADAne#}; gehört viell. zu 3.) {#ca vAjinam . hotA vApi haredaSvamudgAtA cApyanaH kraye ..#} 
-<ls>8, 209.</ls> {#ADAnapaSubanDezwimantrayajYatapaHkriyAH . tvatprasAdAdavApyante brahmakzatraviSAM gaREH#} (die Sonne wird angeredet) 
-<ls>MBH. 3, 184.</ls> {#tataH sa cakre BagavAnfzIRAM viDivattadA . sarvezAM punarADAnaM viDidfzwena karmaRA ..#} 
-<ls>8194.</ls> {#zaqADAne dakziRAmAhureke#} 
-<ls>10663.</ls> 
-<div n="1">— 3) = {#garBADAna#} {%Empfängniss%} 
-<ls>Verz. d. B. H. No. 858</ls> <ls>?(III). 862 (258, 17). Ind. St. 1, 59, 3 v. u. 2, 287, N. 2.</ls> {#ketakADAnahetoH#} 
-<ls>MEGH. 3.</ls> 
-<div n="1">— 4) {%das Niederlegen als Pand, Verpfändung%} 
-<ls>YĀJÑ. 2, 238.</ls> {#ADAnaM vikrayaM vApi nayataH#} 
-<ls>247.</ls> Vgl. 1. {#ADi#} . 
-<div n="1">— 5) {%das Beilegen, Zutheilen, Anwenden%}: {#guRo viSezADAnahetuH sidDo vastuDarmaH#} 
-<ls>SĀH. D. 10, 13.</ls> {#prajAnAM vinayADAnAt#} 
-<ls>RAGH. 1, 24.</ls> {#pratiyatno guRADAnam#} 
-<ls>P. 1, 3, 32,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 6) {%der Ort, an welchen Etwas gelegt wird, in welchem Etwas ruht, sich befindet%} 
-<ls>ŚAT. BR. 14, 5, 2, 1</ls> <ls>?= BṚH. ĀR. UP. 2, 2, 1.</ls> Vgl. {#pakvADAna, purIzADAna#} . 
-<div n="1">— 7) {%Umfangung, Umfassung%}: {#tezA^mA\DAna\M parye^ti harya\tam#} 
-<ls>ṚV. 10, 94, 8.</ls>
+{#ADA/na#}¦ (von {#DA, daDAti#} mit {#A#}) <lex>n.</lex>
+<div n="1"> 1) {%das Anlegen, Zulegen, Legen%}
+<ls>ŚAT. BR. 2,1,4,29.</ls> {#tulADAna#}
+<ls n="ŚAT. BR.">11,2,7,33.</ls> {#samidADAna#}
+<ls>KĀTY. ŚR. 5,5,35.</ls> <ls n="KĀTY. ŚR.">6,10,9.</ls> <ls n="KĀTY. ŚR.">4,10,15.</ls>
+<ls>M. 2,176.</ls> {#pUtidArvADAna#}
+<ls>KĀTY. ŚR. 4,11,1.</ls> <ls n="KĀTY. ŚR.">8,6,30.</ls> <ls n="KĀTY. ŚR.">10,8,6.</ls> Vgl. {#garBADAna#} .
+<div n="1">— 2) = {#agnyADAna#} (s. d.): {#BAryAyE pUrvamAriRyE dattvAgnInantyakarmaRi . punardArakriyAM punarADAnameva ca ..#}
+<ls>M. 5,168</ls> (<ls>KULL.</ls>: {#smArtAgnIn SrOtAgnInvA AdaDyAt)#}.{# raTaM hareta cADvaryurbrahmADAne#}
+(<ls>RĀGHAV.</ls>: {#karmaRi#}, <ls>KULL.</ls> : {#kezAMcicCAKinAmADAne#}; gehört viell. zu 3.)
+{#ca vAjinam . hotA vApi haredaSvamudgAtA cApyanaH kraye ..#}
+<ls n="M.">8,209.</ls> {#ADAnapaSubanDezwimantrayajYatapaHkriyAH . tvatprasAdAdavApyante brahmakzatraviSAM gaREH#} (die Sonne wird angeredet)
+<ls>MBH. 3,184.</ls> {#tataH sa cakre BagavAnfzIRAM viDivattadA . sarvezAM punarADAnaM viDidfzwena karmaRA ..#}
+<ls n="MBH. 3,">8194.</ls> {#zaqADAne dakziRAmAhureke#}
+<ls n="MBH. 3,">10663.</ls>
+<div n="1">— 3) = {#garBADAna#} {%Empfängniss%}
+<ls>Verz. d. B. H. No. 858</ls> (<ls n="Verz. d. B. H.">III</ls>). <ls n="Verz. d. B. H. No.">862</ls> (<ls n="Verz. d. B. H.">258,17</ls>). <ls>Ind. St. 1,59,3</ls> v. u. <ls n="Ind. St.">2,287, N. 2.</ls> {#ketakADAnahetoH#}
+<ls>MEGH. 3.</ls>
+<div n="1">— 4) {%das Niederlegen als Pand, Verpfändung%}
+<ls>YĀJÑ. 2,238.</ls> {#ADAnaM vikrayaM vApi nayataH#}
+<ls n="YĀJÑ.">247.</ls> Vgl. 1. {#ADi#} .
+<div n="1">— 5) {%das Beilegen, Zutheilen, Anwenden%}: {#guRo viSezADAnahetuH sidDo vastuDarmaH#}
+<ls>SĀH. D. 10,13.</ls> {#prajAnAM vinayADAnAt#}
+<ls>RAGH. 1,24.</ls> {#pratiyatno guRADAnam#}
+<ls>P. 1,3,32</ls>, <ls>Sch.</ls>
+<div n="1">— 6) {%der Ort, an welchen Etwas gelegt wird, in welchem Etwas ruht, sich befindet%}
+<ls>ŚAT. BR. 14,5,2,1</ls> = <ls>BṚH. ĀR. UP. 2,2,1.</ls> Vgl. {#pakvADAna, purIzADAna#} .
+<div n="1">— 7) {%Umfangung, Umfassung%}: {#tezA^mA\DAna\M parye^ti harya\tam#}
+<ls>ṚV. 10,94,8.</ls>
 <LEND>

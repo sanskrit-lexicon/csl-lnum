@@ -1,7 +1,7 @@
 <L>19383<pc>601<k1>ripeness<k2>ripeness
-<div n="lb"/>{@RIPENESS:@}¦ <div n="1">(1) {#pAkaH, vi-, pari-,#} <div n="xe">{%by the r. of the%}
-<div n="lb"/>{%fruit:%}</div> <div n="xs">{#Palasya vipAkena,#}</div> Ki. iv. 26.; <div n="xe">{%resulting%}
-<div n="lb"/>{%from the r. of purity:%}</div> <div n="xs">{#puRyaparipAkopAdAna#}</div> (f. {#nA#}),
-<div n="lb"/>Vi. iv.; </div><div n="1">(2) {#pakvatA, -tvam, pari-, vi-;#} </div><div n="1">(3) {#pariRAmaH;#}</div>
-<div n="lb"/><div n="1">(4) {#pariRatiH.#}</div>
+{@RIPENESS:@}¦ <div n="1">(1) {#pAkaH, vi-, pari-,#} <div n="xe">{%by the r. of the%}
+{%fruit:%}</div> <div n="xs">{#Palasya vipAkena,#}</div> Ki. iv. 26.; <div n="xe">{%resulting%}
+{%from the r. of purity:%}</div> <div n="xs">{#puRyaparipAkopAdAna#}</div> (f. {#nA#}),
+Vi. iv.; </div><div n="1">(2) {#pakvatA, -tvam, pari-, vi-;#} </div><div n="1">(3) {#pariRAmaH;#}</div>
+<div n="1">(4) {#pariRatiH.#}</div>
 <LEND>

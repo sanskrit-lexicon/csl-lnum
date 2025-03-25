@@ -1,31 +1,31 @@
 <L>48211<pc>4-0952<k1>pratiGAta<k2>pratiGAta
-{#pratiGAta#}¦ (wie eben) <lex>m.</lex> {%Abwehr, das Wehren, Zurückweisung, Zurückhaltung, Behinderung, Hemmniss, Hinderniss, Widerstand%}: {#°vid#} 
-<ls>MBH. 1, 5755.</ls> {#kftyAnAm#} 
-<ls>SUŚR. 1, 16, 14.</ls> 
-<ls>R. 1, 42, 3. 5, 95, 45.</ls> 
-<ls>VARĀH. BṚH. S. 45, 3. 57. 82.</ls> {#astra°#} 
-<ls>MBH. 4, 2118. 5, 7282. 6, 3779.</ls> 
-<ls>HARIV. 9415.</ls> 
-<ls>ARJ. 3, 53. 5, 7.</ls> {#sarvezAmeva SApAnAM pratiGAto vidyate#} 
-<ls>MBH. 1, 1592</ls> <ls>?= MĀRK. P. 106, 28.</ls> {#kftakzut°#} 
-<ls>KATHĀS. 20, 144.</ls> {#vfzakzudrapaSUnAM ca puMstvasya °Gft#} so v. a. {%der Männlichkeit beraubend%} 
-<ls>YĀJÑ. 2, 236.</ls> {#pratiGAtena sAntvasya dAruRaM saMpravartate#} {%wenn gute Worte zurückgewiesen werden%} 
-<ls>MBH. 5, 2650.</ls> {#mUtra°#} {%Urinverhaltung%} 
-<ls>SUŚR. 1, 262, 9.</ls> 
-<ls>MBH. 13, 3750</ls> (wo {#°purIzARAM#} zu lesen ist). {#suhfddidfkzA°#} {%Behinderung%} 
-<ls>BHĀG. P. 4, 4, 2.</ls> {#pratiGAtotTitArcizA (haricakreRa)#} {%durch Widerstand%} 
-<ls>KUMĀRAS. 2, 49.</ls> 
-<ls>MBH. 10, 246.</ls> 
-<ls>SUŚR. 1, 96, 17.</ls> {#sEnyasya#} {%der Widerstand, den das Heer erfährt%}, 
-<ls>MBH. 7, 1373. 8166.</ls> 
-<ls>R. 6, 79, 34.</ls> {#necCAmi pratiGAtaM te nAsmi viGnakarastava#} 
-<ls>MBH. 3, 16307.</ls> {#na tAsAM pratiGAto 'sti#} {%Nichts steht ihnen im Wege%} 
-<ls>MĀRK. P. 49, 14.</ls> 
-<ls>VĀYUP.</ls> bei <ls>MUIR, ST. I, 29, N. 49.</ls> {#evameva nAsya sarvajYatve sarvakfttve vA kvacitpratiGAtaH#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 312.</ls> {#AtmanaH pratiGAtamASaNkamAnaH (pratiGAta = BraMSa#} 
-<ls>Schol.</ls>) <ls>BHĀG. P. 5, 9, 3.</ls> {#a°#} {%Unbehindertheit%} 
-<ls>SUŚR. 1, 50, 17.</ls> {#manasaH#} 
-<ls>2, 154, 3.</ls> {%unbehindert, unwiderstehlich%}: {#dEva#} 
-<ls>BHĀG. P. 1, 12, 16.</ls> 
+{#pratiGAta#}¦ (wie eben) <lex>m.</lex> {%Abwehr, das Wehren, Zurückweisung, Zurückhaltung, Behinderung, Hemmniss, Hinderniss, Widerstand%}: {#°vid#}
+<ls>MBH. 1,5755.</ls> {#kftyAnAm#}
+<ls>SUŚR. 1,16,14.</ls>
+<ls>R. 1,42,3.</ls> <ls n="R.">5,95,45.</ls>
+<ls>VARĀH. BṚH. S. 45,3. 57. 82.</ls> {#astra°#}
+<ls>MBH. 4,2118.</ls> <ls n="MBH.">5,7282.</ls> <ls n="MBH.">6,3779.</ls>
+<ls>HARIV. 9415.</ls>
+<ls>ARJ. 3,53. 5,7.</ls> {#sarvezAmeva SApAnAM pratiGAto vidyate#}
+<ls>MBH. 1,1592</ls> = <ls>MĀRK. P. 106,28.</ls> {#kftakzut°#}
+<ls>KATHĀS. 20,144.</ls> {#vfzakzudrapaSUnAM ca puMstvasya °Gft#} so v. a. {%der Männlichkeit beraubend%}
+<ls>YĀJÑ. 2,236.</ls> {#pratiGAtena sAntvasya dAruRaM saMpravartate#} {%wenn gute Worte zurückgewiesen werden%}
+<ls>MBH. 5,2650.</ls> {#mUtra°#} {%Urinverhaltung%}
+<ls>SUŚR. 1,262,9.</ls>
+<ls>MBH. 13,3750</ls> (wo {#°purIzARAM#} zu lesen ist). {#suhfddidfkzA°#} {%Behinderung%}
+<ls>BHĀG. P. 4,4,2.</ls> {#pratiGAtotTitArcizA (haricakreRa)#} {%durch Widerstand%}
+<ls>KUMĀRAS. 2,49.</ls>
+<ls>MBH. 10,246.</ls>
+<ls>SUŚR. 1,96,17.</ls> {#sEnyasya#} {%der Widerstand, den das Heer erfährt%},
+<ls>MBH. 7,1373.</ls> <ls n="MBH. 7,">8166.</ls>
+<ls>R. 6,79,34.</ls> {#necCAmi pratiGAtaM te nAsmi viGnakarastava#}
+<ls>MBH. 3,16307.</ls> {#na tAsAM pratiGAto 'sti#} {%Nichts steht ihnen im Wege%}
+<ls>MĀRK. P. 49,14.</ls>
+<ls>VĀYUP.</ls> bei <ls>MUIR, ST. I,29, N. 49.</ls> {#evameva nAsya sarvajYatve sarvakfttve vA kvacitpratiGAtaH#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 312.</ls> {#AtmanaH pratiGAtamASaNkamAnaH (pratiGAta = BraMSa#}
+<ls>Schol.</ls>) <ls>BHĀG. P. 5,9,3.</ls> {#a°#} {%Unbehindertheit%}
+<ls>SUŚR. 1,50,17.</ls> {#manasaH#}
+<ls n="SUŚR.">2,154,3.</ls> {%unbehindert, unwiderstehlich%}: {#dEva#}
+<ls>BHĀG. P. 1,12,16.</ls>
 <div n="v">— Vgl. {#pratIGAta#} .
 <LEND>

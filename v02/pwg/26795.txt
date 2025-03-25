@@ -1,14 +1,14 @@
 <L>26795<pc>3-0051<k1>jaradazwi<k2>jara/dazwi
-{#jara/dazwi#}¦ ({#jarant + azwi#}) 
-<div n="1"> 1) <lex>adj.</lex> {%langlebig%}: {#gf\BRAmi^ te sOBaga\tvAya\ hasta\M mayA\ patyA^ ja\rada^zwi\ryaTAsa^H#} 
-<ls>ṚV. 10, 85, 36.</ls> 
-<ls>VS. 34, 52.</ls> 
-<ls>AV. 2, 28, 5. 8, 5, 19. 21.</ls> 
-<ls>ĀŚV. GṚHY. 1, 8. 17.</ls> 
-<ls>PĀR. GṚHY. 1, 6.</ls> {#pra\tyakse^vasva Beza\jaM ja\rada^zwiM kfRomi tvA#} 
-<ls>AV. 5, 30, 5. 8. 12, 1, 22. 14, 1, 49. 18, 3, 12.</ls> {#ja\rada^zwiH kf\tavI^ryo\ vihA^yAH sa\hasrA^yuH#} 
-<ls>17, 1, 27. 9, 3, 9. 18, 3, 10.</ls> 
-<div n="1">— 2) <lex>f.</lex> {%Langlebigkeit%}: {#A ra^Basve\mAma\mfta^sya\ Sruzwi\macCi^dyamAnA ja\rada^zwirastu te#} 
-<ls>AV. 8, 2, 1.</ls> {#upa^ triba\nDurja\rada^zwime\tyasva^veSa\M yaM kf\Rava^nta\ martAH#} 
-<ls>ṚV. 7, 37, 7.</ls>
+{#jara/dazwi#}¦ ({#jarant + azwi#})
+<div n="1"> 1) <lex>adj.</lex> {%langlebig%}: {#gf\BRAmi^ te sOBaga\tvAya\ hasta\M mayA\ patyA^ ja\rada^zwi\ryaTAsa^H#}
+<ls>ṚV. 10,85,36.</ls>
+<ls>VS. 34,52.</ls>
+<ls>AV. 2,28,5.</ls> <ls n="AV.">8,5,19.</ls> <ls n="AV. 8,5,">21.</ls>
+<ls>ĀŚV. GṚHY. 1,8. 17.</ls>
+<ls>PĀR. GṚHY. 1,6.</ls> {#pra\tyakse^vasva Beza\jaM ja\rada^zwiM kfRomi tvA#}
+<ls>AV. 5,30,5.</ls> <ls n="AV. 5,30,">8.</ls> <ls n="AV.">12,1,22.</ls> <ls n="AV.">14,1,49.</ls> <ls n="AV.">18,3,12.</ls> {#ja\rada^zwiH kf\tavI^ryo\ vihA^yAH sa\hasrA^yuH#}
+<ls n="AV.">17,1,27.</ls> <ls n="AV.">9,3,9.</ls> <ls n="AV.">18,3,10.</ls>
+<div n="1">— 2) <lex>f.</lex> {%Langlebigkeit%}: {#A ra^Basve\mAma\mfta^sya\ Sruzwi\macCi^dyamAnA ja\rada^zwirastu te#}
+<ls>AV. 8,2,1.</ls> {#upa^ triba\nDurja\rada^zwime\tyasva^veSa\M yaM kf\Rava^nta\ martAH#}
+<ls>ṚV. 7,37,7.</ls>
 <LEND>

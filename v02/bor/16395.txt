@@ -1,5 +1,5 @@
 <L>16395<pc>503<k1>paralysis<k2>paralysis
-<div n="lb"/>{@PARALYSIS:@}¦ <div n="1">(1) {#stamBaH,#} <div n="xe">{%p. of the thigh:%}</div> <div n="xs">{#UrUstamBaH;#}</div></div>
-<div n="lb"/><div n="1">(2) {#pakzAGAtaH#} (= hemiplegia); </div><div n="1">(3) {#ekANgavAtaH,#}
-<div n="lb"/>Bha.</div>
+{@PARALYSIS:@}¦ <div n="1">(1) {#stamBaH,#} <div n="xe">{%p. of the thigh:%}</div> <div n="xs">{#UrUstamBaH;#}</div></div>
+<div n="1">(2) {#pakzAGAtaH#} (= hemiplegia); </div><div n="1">(3) {#ekANgavAtaH,#}
+Bha.</div>
 <LEND>

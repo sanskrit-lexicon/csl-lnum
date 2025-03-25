@@ -1,5 +1,5 @@
-<L>119722<pc>607,3<k1>paryas<k2>pary-as<h>a<e>1
-<hom>a.</hom> <s>pary-</s>√ <hom>1.</hom> <s>as</s> ¦ <ab>P.</ab> <s>pary-asti</s>, (3. <ab>du.</ab> <s>pa/ri-zwaH</s>; 2. <ab>pl.</ab> <s>pa/ri-zWa</s>; <ab>pf.</ab> <s>pa/ry-Asa</s>), 
+<L>119722<pc>607,3<k1>paryas<k2>pary-as<e>1
+ <s>pary-</s>√ <hom>1.</hom> <s>as</s> ¦ <ab>P.</ab> <s>pary-asti</s>, (3. <ab>du.</ab> <s>pa/ri-zwaH</s>; 2. <ab>pl.</ab> <s>pa/ri-zWa</s>; <ab>pf.</ab> <s>pa/ry-Asa</s>),
 <div n="to"/>to be in the way of (<ab>acc.</ab>), <ls>RV.</ls>;
-<div n="to"/>to pass or spend time, <ls>ib.</ls><info verb="pre" cp="P" parse="pari+as"/>
+<div n="to"/>to pass or spend time, <ls>ib.</ls><info verb="pre" cp="P" parse="pari+as"/><info hui="a"/>
 <LEND>

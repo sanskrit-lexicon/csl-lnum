@@ -1,25 +1,25 @@
 <L>114508<pc>7-1378<k1>sPuraRa<k2>sPuraRa
-{#sPuraRa#}¦ (wie eben) 
-<div n="1"> 1) <lex>adj.</lex> {%blinkend, funkelnd%} 
-<ls>VARĀH. BṚH. S. 4, 29. 12, 19.</ls> 
-<div n="1">— 2) <lex>n.</lex> nom. act. 
-<ls>DHĀTUP. 28, 95.</ls> = {#sParaRa#} 
-<ls>AK. 3, 3, 10</ls> (auch <lex>f.</lex> {#A#} nach dem Comm.). 
-<ls>H. 1523.</ls> 
-<div n="2"> a) {%das Zucken%}: der Glieder 
-<ls>MĀRK. P. 51, 15.</ls> <ls>Schol.</ls> zu <ls>ŚĀK. 15.</ls> <ls>SUŚR. 1, 49, 19. 156, 17. 251, 12.</ls> {#yoneH#} {%pruritus%} 
-<ls>321, 17.</ls> {#garBa°#} 
-<ls>?376, 2. 2, 351, 6. einer Wunde 2, 4.</ls> 
-<div n="2">— b) {%das Blinken, Funkeln%}: {#vidyuddAma°#} 
-<ls>MEGH. 28.</ls> 
-<ls>MĀLATĪM. 143, 5.</ls> 
-<div n="2">— c) {%das Erscheinen, Zutagetreten, Offenbarwerden%} 
-<ls>AṢṬĀV. 20, 5.</ls> <ls>SĀH. D. 295, 11. 13. 320, 11. fg.</ls> {#mantrArTa°#} (so richtig) 
-<ls>Verz. d. Oxf. H. 91,b,16.</ls> {#dravya°#} 
-<ls>BHĀG. P. 3, 26, 29.</ls> {#budDi°#} 
-<ls>PAÑCAT. 42, 6</ls> <ls>?(ed. orn. 38, 2). SARVADARŚANAS. 100, 18.</ls> {#Sabdasya#} 
-<ls>PRATĀPAR.7,a,9.</ls> {#arTa°#} 
-<ls>b,2.</ls> {#uBaya°#} 5. {#alakzya°#} 
-<ls>?ady. AṢṬĀV. 18, 70.</ls> {#SudDa°#} 
-<ls>71.</ls>
+{#sPuraRa#}¦ (wie eben)
+<div n="1"> 1) <lex>adj.</lex> {%blinkend, funkelnd%}
+<ls>VARĀH. BṚH. S. 4,29. 12,19.</ls>
+<div n="1">— 2) <lex>n.</lex> nom. act.
+<ls>DHĀTUP. 28,95.</ls> = {#sParaRa#}
+<ls>AK. 3,3,10</ls> (auch <lex>f.</lex> {#A#} nach dem Comm.).
+<ls>H. 1523.</ls>
+<div n="2"> a) {%das Zucken%}: der Glieder
+<ls>MĀRK. P. 51,15.</ls> <ls>Schol.</ls> zu <ls>ŚĀK. 15.</ls> <ls>SUŚR. 1,49,19. 156,17. 251,12.</ls> {#yoneH#} {%pruritus%}
+<ls n="SUŚR.">321,17.</ls> {#garBa°#}
+<ls n="SUŚR.">376,2. 2,351,6.</ls> einer Wunde 2,4.
+<div n="2">— b) {%das Blinken, Funkeln%}: {#vidyuddAma°#}
+<ls>MEGH. 28.</ls>
+<ls>MĀLATĪM. 143,5.</ls>
+<div n="2">— c) {%das Erscheinen, Zutagetreten, Offenbarwerden%}
+<ls>AṢṬĀV. 20,5.</ls> <ls>SĀH. D. 295,11. 13. 320,11. fg.</ls> {#mantrArTa°#} (so richtig)
+<ls>Verz. d. Oxf. H. 91,b,16.</ls> {#dravya°#}
+<ls>BHĀG. P. 3,26,29.</ls> {#budDi°#}
+<ls>PAÑCAT. 42,6</ls> (<ls n="PAÑCAT.">ed. orn. 38,2</ls>). <ls>SARVADARŚANAS. 100,18.</ls> {#Sabdasya#}
+<ls>PRATĀPAR. 7,a,9.</ls> {#arTa°#}
+<ls n="PRATĀPAR. 7,">b,2.</ls> {#uBaya°#} 5. {#alakzya°#}
+<lex>adj.</lex> <ls>AṢṬĀV. 18,70.</ls> {#SudDa°#}
+<ls n="AṢṬĀV. 18,">71.</ls>
 <LEND>

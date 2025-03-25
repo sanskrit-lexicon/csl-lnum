@@ -1,157 +1,145 @@
 <L>49080<pc>4-1011<k1>praT<k2>praT<h>1
-1. {#praT#}¦ 
-<div n="1"> 1) act. (selten) 
-<div n="2"> a) {%breiten%}: {#apra^TataM jI\vase^ no\ rajA^Msi#} 
-<ls>ṚV. 6, 69, 5.</ls> {#fza^yastvA praTantu#} 
-<ls>VS. 15, 10.</ls> 
-<div n="2">— b) {%sich ausdehnen, - strecken%}: {#mAlyavadganDamAdanO - dvisahasraM papraTatuH#} so v. a. {%dehnen sich aus, sind breit%} 
-<ls>BHĀG. P. 5, 16, 10.</ls> 
-<div n="1">— 2) med. {#pra/Tate#} 
-<ls>DHĀTUP. 19, 3.</ls> {#pra/TamAna, praTAna/, apraTetAm, pra/Tizwa, papraTe#} . 
-<div n="2"> a) {%sich ausdehnen, - strecken; grösser —, weiter werden%} oder {%sein, sich verbreiten, zunehmen, sich mehren%}: {#sa de\vo de\vAnprati^ papraTe pf\Tu#} 
-<ls>ṚV. 2, 24, 11.</ls> {#U\rva i^va papraTe\ kAmo^ asya#} 
-<ls n="ṚV.">3, 30, 19.</ls> {#AntA^ddi\vaH pa^praTa\ A pf^Ti\vyAH#} 
-<ls n="ṚV. 3,">61, 4.</ls> <ls n="ṚV.">6, 64, 3.</ls> {#praTi^zwa\ yAma^npfTi\vI ci^dezAm#} 
-<ls n="ṚV.">5, 58, 7.</ls> <ls n="ṚV.">7, 18, 5.</ls> <ls n="ṚV. 7,">33, 6.</ls> <ls n="ṚV.">8, 3, 4.</ls> {#indro^ varDate\ praTa^te vfzA\yate^#} 
-<ls n="ṚV.">10, 94, 9.</ls> {#Adi^tyAsaH ka\vaya^H papraTA\nAH#} 
-<ls n="ṚV.">3, 54, 10.</ls> <ls n="ṚV.">10, 31, 6.</ls> {#rayiH#} 
-<ls>VĀLAKH. 3, 10.</ls> 
-<ls>AV. 4, 26, 1.</ls> 
-<ls>VS. 11, 29. 29, 4.</ls> {#puzwi\ryA te^ manu\zye^zu pra\Te#} (Comm.: {#prasidDA vartate#}) 
-<ls>TBR. 1, 2, 1, 22.</ls> {#praTemahi#} 
-<ls>4, 10, 9.</ls> {#praTe^ya pa\SuBi^H#} 
-<ls>TS. 2, 1, 2, 3.</ls> 
-<ls>KĀṬH. 28, 4.</ls> 
-<ls>KĀTY. ŚR. 2, 2, 12.</ls> {#zawtriMSadgfhalakzARi puraM tatpapraTe purA#} 
-<ls>RĀJA-TAR. 3, 357.</ls> {%sich verbreiten%}, vom Ruhme, einem Namen, einem Gerücht, einer Rede: {#taTA yaSo 'sya praTate#} 
-<ls>M. 11, 15.</ls> 
-<ls>MBH. 5, 1956.</ls> {#papraTe nAma#} 
-<ls>12, 1112.</ls> {#KyAtiH#} 
-<ls>RĀJA-TAR. 1, 325.</ls> {#sarasvatI#} 
-<ls>2, 72.</ls> {#tanmUlA Danamitrasya kIrtirapraTata#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 193, 19.</ls> {#praTita#} {%ausgebreitet, verbreitet%}: {#tataH sahasraSastAsu prajAsu praTitAsu#} {%nachdem sie sich zu Tausenden verbreitet, vermehrt hatten%} 
-<ls>VĀYU-P.</ls> bei <ls>MUIR, ST. I, 29, N. 49.</ls> {#loke hi praTitA #}
+1. {#praT#}¦
+<div n="1"> 1) act. (selten)
+<div n="2"> a) {%breiten%}: {#apra^TataM jI\vase^ no\ rajA^Msi#}
+<ls>ṚV. 6,69,5.</ls> {#fza^yastvA praTantu#}
+<ls>VS. 15,10.</ls>
+<div n="2">— b) {%sich ausdehnen, — strecken%}: {#mAlyavadganDamAdanO — dvisahasraM papraTatuH#} so v. a. {%dehnen sich aus, sind breit%}
+<ls>BHĀG. P. 5,16,10.</ls>
+<div n="1">— 2) med. {#pra/Tate#}
+<ls>DHĀTUP. 19,3.</ls> {#pra/TamAna, praTAna/, apraTetAm, pra/Tizwa, papraTe#} .
+<div n="2"> a) {%sich ausdehnen, — strecken; grösser —, weiter werden%} oder {%sein, sich verbreiten, zunehmen, sich mehren%}: {#sa de\vo de\vAnprati^ papraTe pf\Tu#}
+<ls>ṚV. 2,24,11.</ls> {#U\rva i^va papraTe\ kAmo^ asya#}
+<ls n="ṚV.">3,30,19.</ls> {#AntA^ddi\vaH pa^praTa\ A pf^Ti\vyAH#}
+<ls n="ṚV. 3,">61,4.</ls> <ls n="ṚV.">6,64,3.</ls> {#praTi^zwa\ yAma^npfTi\vI ci^dezAm#}
+<ls n="ṚV.">5,58,7.</ls> <ls n="ṚV.">7,18,5.</ls> <ls n="ṚV. 7,">33,6.</ls> <ls n="ṚV.">8,3,4.</ls> {#indro^ varDate\ praTa^te vfzA\yate^#}
+<ls n="ṚV.">10,94,9.</ls> {#Adi^tyAsaH ka\vaya^H papraTA\nAH#}
+<ls n="ṚV.">3,54,10.</ls> <ls n="ṚV.">10,31,6.</ls> {#rayiH#}
+<ls>VĀLAKH. 3,10.</ls>
+<ls>AV. 4,26,1.</ls>
+<ls>VS. 11,29.</ls> <ls n="VS.">29,4.</ls> {#puzwi\ryA te^ manu\zye^zu pra\Te#} (Comm.: {#prasidDA vartate#})
+<ls>TBR. 1,2,1,22.</ls> {#praTemahi#}
+<ls n="TBR.">4,10,9.</ls> {#praTe^ya pa\SuBi^H#}
+<ls>TS. 2,1,2,3.</ls>
+<ls>KĀṬH. 28,4.</ls>
+<ls>KĀTY. ŚR. 2,2,12.</ls> {#zawtriMSadgfhalakzARi puraM tatpapraTe purA#}
+<ls>RĀJA-TAR. 3,357.</ls> {%sich verbreiten%}, vom Ruhme, einem Namen, einem Gerücht, einer Rede: {#taTA yaSo 'sya praTate#}
+<ls>M. 11,15.</ls>
+<ls>MBH. 5,1956.</ls> {#papraTe nAma#}
+<ls n="MBH.">12,1112.</ls> {#KyAtiH#}
+<ls>RĀJA-TAR. 1,325.</ls> {#sarasvatI#}
+<ls n="RĀJA-TAR.">2,72.</ls> {#tanmUlA Danamitrasya kIrtirapraTata#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 193,19.</ls> {#praTita#} {%ausgebreitet, verbreitet%}: {#tataH sahasraSastAsu prajAsu praTitAsu#} {%nachdem sie sich zu Tausenden verbreitet, vermehrt hatten%}
+<ls>VĀYU-P.</ls> bei <ls>MUIR, ST. I,29, N. 49.</ls> {#loke hi praTitA #}
 [Page4-1012]
-{# nanu Srutiriyam#} 
-<ls>Spr. 1812.</ls> {#tena ganDavatItyevaM nAmAsyAH praTitaM Buvi#} 
-<ls>MBH. 1, 2411. 13, 1111.</ls> {#yadyapi trizu lokezu praTitaM te mahadyaSaH#} 
-<ls>R. 2, 61, 2.</ls> 
-<ls>Spr. 1135.</ls> 
-<ls>MĀLAV. 3, 12.</ls> 
-<div n="2">— b) {%sich verbreiten%} so v. a. {%bekannt —, berühmt werden%} 
-<ls>DHĀTUP.</ls> {#maNgalAdIni hi SAstrARi praTante maNgalamaDyAni maNgalAntAni ca#} 
-<ls>P. 8, 4, 67,</ls> 
-<ls>Sch.</ls> {#unmAdinIti nAmnA ca kanyakA sApi papraTe#} 
-<ls>KATHĀS. 15, 65.</ls> 
-<ls>MBH. 9, 3009. 13, 4679.</ls> 
-<ls>RAGH. 15, 101.</ls> 
-<ls>ŚATR. 7, 1</ls> (wo wohl {#yannAmnA#} zu lesen ist). 
-<ls>10, 312.</ls> {#praTita#} {%allgemein bekannt, berühmt%} 
-<ls>AK. 3, 1, 9.</ls> 
-<ls>TRIK. 3, 1, 17.</ls> 
-<ls>H. 1493.</ls> {#praTitA pretakftyEzA pitryaM nAma viDukzaye#} 
-<ls>M. 3, 127. 8, 131.</ls> {#loke vede ca praTitaH puruzottamaH#} 
-<ls>BHAG. 15, 18.</ls> 
-<ls>DRAUP. 3, 4.</ls> 
-<ls>MBH. 5, 3159. 7367. 12, 6851.</ls> 
-<ls>HARIV. 3882. 15056.</ls> 
-<ls>R. 1, 8, 9. 11. 9, 62. 41, 24. 2, 110, 29.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 1, 2. 3, 53, 12.</ls> 
-<ls>RAGH. 5, 65. 9, 76.</ls> {#prajAsu paScAtpraTitaM tadAKyayA#} 
-<ls>KUMĀRAS. 5, 7.</ls> 
-<ls>MEGH. 25.</ls> 
-<ls>ŚĀK. 69, 8.</ls> 
-<ls>Spr. 1980. 2273. 2978. 3205.</ls> 
-<ls>SŪRYAS. 14, 7.</ls> 
-<ls>RĀJA-TAR. 4, 31.</ls> 
-<ls>KATHĀS. 30, 64.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 318. PRAB. 2, 13. ŚIŚ. 9, 16.</ls> {#vacas#} (nach dem 
-<ls>Schol.</ls> {%Allen hörbar%}) 
-<ls>R. 2, 2, 1.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 77, 39.</ls> Die Form {#pfTita#} 
-<ls>HARIV. 6781. 15054</ls> ist ohne Zweifel fehlerhaft. 
-<div n="2">— c) {%an den Tag —, zum Vorschein kommen, auftauchen, entstehen%}: {#Sramo nu tAsAM madano nu papraTe (= prAdurbaBUva#} 
-<ls>Schol.</ls>) <ls>KIR. 8, 53.</ls> {#kartuM puraM svanAmANkaM papraTe sa manoraTaH#} 
-<ls>RĀJA-TAR. 3, 336.</ls> {#dfgvyApArEH svasaMvedyEH saMlApa iva papraTe#} 
-<ls>5, 366.</ls> {#upAyo 'sya sTiterheturnEkaH kasya na papraTe#} so v. a. {%einfallen, in den Sinn kommen%} 
-<ls>1, 366</ls>
-
-<div n="p">— caus. {#praTa/yati, apapraTat#} 
-<ls>P. 7, 4, 95.</ls> 
-<ls>VOP. 18, 2.</ls> {#papra/Tat#} ved. 
-<div n="1"> 1) act. 
-<div n="2"> a) {%ausbreiten, vergrössern, dehnen, mehren%}: {#sa DA^rayatpfTi\vIM pa\praTa^cca#} 
-<ls>ṚV. 1, 93, 2.</ls> <ls n="ṚV.">3, 53, 2.</ls> <ls n="ṚV.">7, 86, 1.</ls> {#goBI^ ra\yiM pa^praTat#} 
-<ls n="ṚV.">2, 25, 2.</ls> <ls n="ṚV.">3, 30, 20.</ls> {#di\vo na vf\zwiM pra\Taya^n#} 
-<ls n="ṚV.">8, 12, 6.</ls> <ls>AV. 12, 3, 37.</ls> <ls>TBR. 1, 1, 3, 6.</ls> {#ya\jYa e\va yaja^mAnaM pra\jayA^ pa\SuBi^H praTayati#} 
-<ls>3, 3, 7, 5.</ls> {#mftpiRqam#} 
-<ls>ŚAT. BR. 6, 5, 2, 3.</ls> {#a\Yjanti\ yaM praTaya^nto\ na viprA^ va\pAva^nta\M nAgninA\ tapantaH#} ({%über dem Feuer ausbreiten) rösten, braten%} 
-<ls>ṚV. 5, 43, 7.</ls> — {#vastUni praTayati ca saMkocayati ca#} 
-<ls>Spr. 1713.</ls> {#SreyaH#} 
-<ls>Verz. d. Oxf. H. No. 289,</ls> <ls>Śl. 1.</ls> {#yaSaH#} 
-<ls>MBH. 1, 4794.</ls> 
-<ls>R. 6, 95, 58.</ls> 
-<ls>BHĀG. P. 2, 7, 20.</ls> 
-<div n="2">— b) {%verbreiten%} so v. a. {%allgemein bekannt —, berühmt machen%} 
-<ls>HARIV. 353. 6326.</ls> 
-<ls>R. 1, 4, 1.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 2, 35.</ls> {#sajjanA eva sADUnAM praTayanti guRotkaram#} 
-<ls>Spr. 3109.</ls> 
-<ls>BHĀG. P. 9, 24, 65.</ls> 
-<ls>BHAṬṬ. 15, 72.</ls> {#prATayati#} 
-<ls>DHĀTUP. 32, 19.</ls> 
-<div n="2">— c) {%entfalten, an den Tag legen, vor Augen führen, verrathen%}: {#kaRwakitena praTayati mayyanurAgaM kapolena#} 
-<ls>ŚĀK. 63.</ls> 
-<ls>Spr. 294.</ls> {#Srute 'tyantAsaktiH puruzamaBijAtaM praTayati#} (v. l. {#kaTayati#}) 
-<ls>?1859, v. l. MEGH. 26. GĪT. 8, 8. KIR. 5, 3. CAURAP. 44. BHĀG. P. 9, 10, 11.</ls> {#tato mAyAmayAnmUrDno rAkzaso 'praTayadraRe#} 
-<ls>BHAṬṬ. 17, 107.</ls> {#dOrjanyamAtmani paraM praTitaM viDAtrA BUrjadrumasya viPalatvasamarpaRena#} {%dadurch, dass der Schöpfer der Birke keine Früchte verlieh, hat er nur%} ({#param#}) {%gegen sich selbst Schlechtigkeit an den Tag gelegt, hat er nur gegen sich selbst schlecht gehandelt%} 
-<ls>Spr. 1259.</ls> 
-<ls>SĀH. D. 12, 13. 41, 7.</ls> 
-<div n="2">— d) {%bescheinen%} (vgl. {#tan#} mit {#A): pra\Taya\nsUryo\ nFn#} 
-<ls>ṚV. 3, 14, 4.</ls> 
-<div n="1">— 2) med. {%sich ausbreiten, - strecken, - dehnen; zunehmen%}: {#i\ra\jyanna^gne praTayasva ja\ntuBi^H#} 
-<ls>ṚV. 10, 140, 4.</ls> {#agne^ Su\kreRa^ So\cizo\ru pra^Tayase bf\hat#} 
-<ls n="ṚV. 10,">21, 8.</ls> {#yaTA^si\taH pra\Taya^te\ vaSA\~ anu^#} 
-<ls>AV. 6, 72, 1. 101, 1.</ls>
-
-<div n="p">— {#anu#} med. {%sich ausbreiten entlang von%} 
-<ls>TS. 3, 3, 10, 2.</ls> 
-<ls>VS. 8, 30.</ls> {%rühmen%} nach 
+{# nanu Srutiriyam#}
+<ls>Spr. 1812.</ls> {#tena ganDavatItyevaM nAmAsyAH praTitaM Buvi#}
+<ls>MBH. 1,2411.</ls> <ls n="MBH.">13,1111.</ls> {#yadyapi trizu lokezu praTitaM te mahadyaSaH#}
+<ls>R. 2,61,2.</ls>
+<ls>Spr. 1135.</ls>
+<ls>MĀLAV. 3,12.</ls>
+<div n="2">— b) {%sich verbreiten%} so v. a. {%bekannt —, berühmt werden%}
+<ls>DHĀTUP.</ls> {#maNgalAdIni hi SAstrARi praTante maNgalamaDyAni maNgalAntAni ca#}
+<ls>P. 8,4,67</ls>, <ls>Sch.</ls>
+{#unmAdinIti nAmnA ca kanyakA sApi papraTe#}
+<ls>KATHĀS. 15,65.</ls>
+<ls>MBH. 9,3009.</ls> <ls n="MBH.">13,4679.</ls>
+<ls>RAGH. 15,101.</ls>
+<ls>ŚATR. 7,1</ls> (wo wohl {#yannAmnA#} zu lesen ist).
+<ls n="ŚATR.">10,312.</ls> {#praTita#} {%allgemein bekannt, berühmt%}
+<ls>AK. 3,1,9.</ls>
+<ls>TRIK. 3,1,17.</ls>
+<ls>H. 1493.</ls> {#praTitA pretakftyEzA pitryaM nAma viDukzaye#}
+<ls>M. 3,127.</ls> <ls n="M.">8,131.</ls> {#loke vede ca praTitaH puruzottamaH#}
+<ls>BHAG. 15,18.</ls>
+<ls>DRAUP. 3,4.</ls>
+<ls>MBH. 5,3159.</ls> <ls n="MBH. 5,">7367.</ls> <ls n="MBH.">12,6851.</ls>
+<ls>HARIV. 3882.</ls> <ls n="HARIV.">15056.</ls>
+<ls>R. 1,8,9.</ls> <ls n="R. 1,8,">11.</ls> <ls n="R. 1,">9,62.</ls> <ls n="R. 1,">41,24.</ls> <ls n="R.">2,110,29.</ls>
+<ls>R. GORR. 1,1,2.</ls> <ls n="R. GORR.">3,53,12.</ls>
+<ls>RAGH. 5,65.</ls> <ls n="RAGH.">9,76.</ls> {#prajAsu paScAtpraTitaM tadAKyayA#}
+<ls>KUMĀRAS. 5,7.</ls>
+<ls>MEGH. 25.</ls>
+<ls>ŚĀK. 69,8.</ls>
+<ls>Spr. 1980.</ls> <ls n="Spr.">2273.</ls> <ls n="Spr.">2978.</ls> <ls n="Spr.">3205.</ls>
+<ls>SŪRYAS. 14,7.</ls>
+<ls>RĀJA-TAR. 4,31.</ls>
+<ls>KATHĀS. 30,64.</ls>
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 318.</ls> <ls>PRAB. 2,13.</ls> <ls>ŚIŚ. 9,16.</ls> {#vacas#} (nach dem
+<ls>Schol.</ls> {%Allen hörbar%})
+<ls>R. 2,2,1.</ls>
+<ls>R. GORR. 1,77,39.</ls> Die Form {#pfTita#}
+<ls>HARIV. 6781.</ls> <ls n="HARIV.">15054</ls> ist ohne Zweifel fehlerhaft.
+<div n="2">— c) {%an den Tag —, zum Vorschein kommen, auftauchen, entstehen%}: {#Sramo nu tAsAM madano nu papraTe (= prAdurbaBUva#}
+<ls>Schol.</ls>) <ls>KIR. 8,53.</ls> {#kartuM puraM svanAmANkaM papraTe sa manoraTaH#}
+<ls>RĀJA-TAR. 3,336.</ls> {#dfgvyApArEH svasaMvedyEH saMlApa iva papraTe#}
+<ls n="RĀJA-TAR.">5,366.</ls> {#upAyo 'sya sTiterheturnEkaH kasya na papraTe#} so v. a. {%einfallen, in den Sinn kommen%}
+<ls n="RĀJA-TAR.">1,366</ls>
+<div n="p">— caus. {#praTa/yati, apapraTat#}
+<ls>P. 7,4,95.</ls>
+<ls>VOP. 18,2.</ls> {#papra/Tat#} ved.
+<div n="1"> 1) act.
+<div n="2"> a) {%ausbreiten, vergrössern, dehnen, mehren%}: {#sa DA^rayatpfTi\vIM pa\praTa^cca#}
+<ls>ṚV. 1,93,2.</ls> <ls n="ṚV.">3,53,2.</ls> <ls n="ṚV.">7,86,1.</ls> {#goBI^ ra\yiM pa^praTat#}
+<ls n="ṚV.">2,25,2.</ls> <ls n="ṚV.">3,30,20.</ls> {#di\vo na vf\zwiM pra\Taya^n#}
+<ls n="ṚV.">8,12,6.</ls> <ls>AV. 12,3,37.</ls> <ls>TBR. 1,1,3,6.</ls> {#ya\jYa e\va yaja^mAnaM pra\jayA^ pa\SuBi^H praTayati#}
+<ls n="TBR.">3,3,7,5.</ls> {#mftpiRqam#}
+<ls>ŚAT. BR. 6,5,2,3.</ls> {#a\Yjanti\ yaM praTaya^nto\ na viprA^ va\pAva^nta\M nAgninA\ tapantaH#} ({%über dem Feuer ausbreiten) rösten, braten%}
+<ls>ṚV. 5,43,7.</ls> — {#vastUni praTayati ca saMkocayati ca#}
+<ls>Spr. 1713.</ls> {#SreyaH#}
+<ls>Verz. d. Oxf. H. No. 289, Śl. 1.</ls> {#yaSaH#}
+<ls>MBH. 1,4794.</ls>
+<ls>R. 6,95,58.</ls>
+<ls>BHĀG. P. 2,7,20.</ls>
+<div n="2">— b) {%verbreiten%} so v. a. {%allgemein bekannt —, berühmt machen%}
+<ls>HARIV. 353.</ls> <ls n="HARIV.">6326.</ls>
+<ls>R. 1,4,1.</ls>
+<ls>R. GORR. 1,2,35.</ls> {#sajjanA eva sADUnAM praTayanti guRotkaram#}
+<ls>Spr. 3109.</ls>
+<ls>BHĀG. P. 9,24,65.</ls>
+<ls>BHAṬṬ. 15,72.</ls> {#prATayati#}
+<ls>DHĀTUP. 32,19.</ls>
+<div n="2">— c) {%entfalten, an den Tag legen, vor Augen führen, verrathen%}: {#kaRwakitena praTayati mayyanurAgaM kapolena#}
+<ls>ŚĀK. 63.</ls>
+<ls>Spr. 294.</ls> {#Srute 'tyantAsaktiH puruzamaBijAtaM praTayati#} (v. l. {#kaTayati#})
+<ls n="Spr.">1859, v. l.</ls> <ls>MEGH. 26.</ls> <ls>GĪT. 8,8.</ls> <ls>KIR. 5,3.</ls> <ls>CAURAP. 44.</ls> <ls>BHĀG. P. 9,10,11.</ls> {#tato mAyAmayAnmUrDno rAkzaso 'praTayadraRe#}
+<ls>BHAṬṬ. 17,107.</ls> {#dOrjanyamAtmani paraM praTitaM viDAtrA BUrjadrumasya viPalatvasamarpaRena#} {%dadurch, dass der Schöpfer der Birke keine Früchte verlieh, hat er nur%} ({#param#}) {%gegen sich selbst Schlechtigkeit an den Tag gelegt, hat er nur gegen sich selbst schlecht gehandelt%}
+<ls>Spr. 1259.</ls>
+<ls>SĀH. D. 12,13.</ls> <ls n="SĀH. D.">41,7.</ls>
+<div n="2">— d) {%bescheinen%} (vgl. {#tan#} mit {#A): pra\Taya\nsUryo\ nFn#}
+<ls>ṚV. 3,14,4.</ls>
+<div n="1">— 2) med. {%sich ausbreiten, — strecken, — dehnen; zunehmen%}: {#i\ra\jyanna^gne praTayasva ja\ntuBi^H#}
+<ls>ṚV. 10,140,4.</ls> {#agne^ Su\kreRa^ So\cizo\ru pra^Tayase bf\hat#}
+<ls n="ṚV. 10,">21,8.</ls> {#yaTA^si\taH pra\Taya^te\ vaSA\~ anu^#}
+<ls>AV. 6,72,1.</ls> <ls n="AV. 6,">101,1.</ls>
+<div n="p">— {#anu#} med. {%sich ausbreiten entlang von%}
+<ls>TS. 3,3,10,2.</ls>
+<ls>VS. 8,30.</ls> {%rühmen%} nach
 <ls>MAHĪDH.</ls>
-
-<div n="p">— {#aBi#} med. {%sich ausbreiten vor, gegen%}: {#pra\tyaNma viSvA\ Buva^nA\Bi pa^praTe#} 
-<ls>ṚV. 9, 80, 3.</ls> — caus. {%umherbreiten in%} (acc.): {#sarvA^Ri ka\pAlA^nya\Bipra^Tayati#}
+<div n="p">— {#aBi#} med. {%sich ausbreiten vor, gegen%}: {#pra\tyaNma viSvA\ Buva^nA\Bi pa^praTe#}
+<ls>ṚV. 9,80,3.</ls> — caus. {%umherbreiten in%} (acc.): {#sarvA^Ri ka\pAlA^nya\Bipra^Tayati#}
 [Page4-1013]
-
-<ls>TS. 2, 6, 3, 4.</ls> {%verbreiten%}: {#AtmakIrtim#} 
-<ls>MBH. 12, 6687.</ls>
-
-<div n="p">— {#A#} caus. {%ausbreiten, dehnen%}: {#A sa^mu\drARi^ papraTuH pu\rURi^#} 
-<ls>ṚV. 6, 72, 3.</ls> {#A ye viSvA\ pArTi^vAni pa\praTa^nroca\nA di\vaH#} 
-<ls n="ṚV.">8, 83, 9.</ls>
-
-<div n="p">— {#ni#} caus. {%eindringend verbreiten%}: {#dU\re pA\re vARI^M va\rDaya^nta\ indre^zitAM Da\mani^M papraTa\nni#} 
-<ls>ṚV. 2, 11, 8.</ls>
-
-<div n="p">— {#pari#} med. {%sich erstrecken um, über%}: {#pari\ yo viSvA\ Buva^nAni papra\Te#} 
-<ls>ṚV. 6, 7, 7.</ls>
-
-<div n="p">— {#vi#} act. {%ausbreiten%}: {#apra^TataM pfTi\vIM mA\taraM vi#} 
-<ls>ṚV. 6, 72, 2.</ls> med. {%sich ausbreiten —, weit machen, weit sein%}: {#UrRa^mradA\ vi pra^Tasva#} 
-<ls>ṚV. 5, 5, 4.</ls> <ls n="ṚV.">10, 70, 4.</ls> <ls n="ṚV. 10,">110, 4.</ls> <ls n="ṚV. 10,">62, 9.</ls> <ls n="ṚV. 10,">69, 2.</ls> {#f\tasya\ SfNga^murvi\yA vi pa^praTe#} 
-<ls n="ṚV.">8, 75, 5.</ls> {#di\vaSci^dasya vari\mA vi pa^praTa#} 
-<ls n="ṚV.">1, 55, 1.</ls> <ls n="ṚV. 1,">124, 5.</ls> <ls n="ṚV.">2, 3, 5.</ls> <ls n="ṚV. 2,">11, 7.</ls> <ls>TS. 1, 1, 12, 1.</ls> {#vipraTita#} {%weit verbreitet%}: {#Dfzwadyumno droRamftyuriti vipraTitaM vacaH#} 
-<ls>MBH. 2, 2667.</ls> — caus. 
-<div n="1"> 1) {%ausbreiten, verbreiten%} 
-<ls>ṚV. 1, 62, 5.</ls> {#uta tri\DAtu^ praTaya\dvi BUma^#} 
-<ls n="ṚV.">4, 42, 4.</ls> <ls n="ṚV.">10, 62, 3.</ls> {#paraM yaSo vipraTayaMstava senAsu#} 
-<ls>MBH. 5, 5894. 12, 1955.</ls> 
-<div n="1">— 2) {%entfalten, an den Tag legen, zeigen%}: {#kulocitaM vipraTayantu karma#} 
-<ls>MBH. 3, 10277.</ls>
-
-<div n="p">— {#sam#}, partic. {#saMpraTita#} {%allgemein bekannt, berühmt%} 
-<ls>MBH. 5, 5457.</ls>
+<ls>TS. 2,6,3,4.</ls> {%verbreiten%}: {#AtmakIrtim#}
+<ls>MBH. 12,6687.</ls>
+<div n="p">— {#A#} caus. {%ausbreiten, dehnen%}: {#A sa^mu\drARi^ papraTuH pu\rURi^#}
+<ls>ṚV. 6,72,3.</ls> {#A ye viSvA\ pArTi^vAni pa\praTa^nroca\nA di\vaH#}
+<ls n="ṚV.">8,83,9.</ls>
+<div n="p">— {#ni#} caus. {%eindringend verbreiten%}: {#dU\re pA\re vARI^M va\rDaya^nta\ indre^zitAM Da\mani^M papraTa\nni#}
+<ls>ṚV. 2,11,8.</ls>
+<div n="p">— {#pari#} med. {%sich erstrecken um, über%}: {#pari\ yo viSvA\ Buva^nAni papra\Te#}
+<ls>ṚV. 6,7,7.</ls>
+<div n="p">— {#vi#} act. {%ausbreiten%}: {#apra^TataM pfTi\vIM mA\taraM vi#}
+<ls>ṚV. 6,72,2.</ls> med. {%sich ausbreiten —, weit machen, weit sein%}: {#UrRa^mradA\ vi pra^Tasva#}
+<ls>ṚV. 5,5,4.</ls> <ls n="ṚV.">10,70,4.</ls> <ls n="ṚV. 10,">110,4.</ls> <ls n="ṚV. 10,">62,9.</ls> <ls n="ṚV. 10,">69,2.</ls> {#f\tasya\ SfNga^murvi\yA vi pa^praTe#}
+<ls n="ṚV.">8,75,5.</ls> {#di\vaSci^dasya vari\mA vi pa^praTa#}
+<ls n="ṚV.">1,55,1.</ls> <ls n="ṚV. 1,">124,5.</ls> <ls n="ṚV.">2,3,5.</ls> <ls n="ṚV. 2,">11,7.</ls> <ls>TS. 1,1,12,1.</ls> {#vipraTita#} {%weit verbreitet%}: {#Dfzwadyumno droRamftyuriti vipraTitaM vacaH#}
+<ls>MBH. 2,2667.</ls> — caus.
+<div n="1"> 1) {%ausbreiten, verbreiten%}
+<ls>ṚV. 1,62,5.</ls> {#uta tri\DAtu^ praTaya\dvi BUma^#}
+<ls n="ṚV.">4,42,4.</ls> <ls n="ṚV.">10,62,3.</ls> {#paraM yaSo vipraTayaMstava senAsu#}
+<ls>MBH. 5,5894.</ls> <ls n="MBH.">12,1955.</ls>
+<div n="1">— 2) {%entfalten, an den Tag legen, zeigen%}: {#kulocitaM vipraTayantu karma#}
+<ls>MBH. 3,10277.</ls>
+<div n="p">— {#sam#}, partic. {#saMpraTita#} {%allgemein bekannt, berühmt%}
+<ls>MBH. 5,5457.</ls>
 <LEND>

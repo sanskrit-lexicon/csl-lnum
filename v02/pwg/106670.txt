@@ -1,32 +1,32 @@
 <L>106670<pc>7-0811<k1>sarpis<k2>sarpi/s
-{#sarpi/s#}¦ (von {#sarp#}) <lex>n.</lex> 
-<ls>UṆĀDIS. 2, 109.</ls> <ls>VOP. 26, 68.</ls> 
-<div n="1"> 1) {%zerlassene Butter, Schmalz in flüssigem oder festem Zustande%} (nicht verschieden von {#Gfta#}, obgleich man die Bestimmung findet, {#sarpis#} sei {%das flüssige%}, {#Gfta#} {%das gestandene Schmalz%}, Cit. bei 
-<ls>SĀY.</ls> zu <ls>AIT. BR. 1, 3</ls>) <ls>AK. 2, 9, 52.</ls> <ls>H. 407.</ls> <ls>HALĀY. 2, 120. 167.</ls> <ls>ṚV. 1, 127, 1.</ls> {#sa\rpizo\ darvI^#} 
-<ls n="ṚV.">5, 6, 9.</ls> {#AYja^nena sa\rpizA\ saM vi^Santu#} 
-<ls n="ṚV.">10, 18, 7.</ls> <ls>AV. 1, 15, 4. 9, 6, 41.</ls> {#kzI\raM sa\rpiraTo\ maDu^#} 
-<ls>10, 9, 12.</ls> {#A si^Yca sa\rpirGf\tava\tsama^NDi#} 
-<ls>12, 3, 45.</ls> <ls>TS. 2, 3, 10, 1.</ls> <ls>ŚAT. BR. 9, 3, 2, 4.</ls> <ls>PAÑCAV. BR. 24, 18, 3. 5.</ls> <ls>ṢAḌV. BR. 5, 2.</ls> <ls>KĀTY. ŚR. 2, 1, 10. 8, 8. 4, 8, 5.</ls> {#juhotItyukte sarpiH pratIyate#} 
-<ls>ŚĀṄKH. ŚR. 1, 2, 21.</ls> 
-<ls>LĀṬY. 3, 6, 8. 9, 8, 9.</ls> {#DAnAH sarpirmiSrAH#} 
-<ls>KAUŚ. 10.</ls> 
-<ls>ĀŚV. GṚHY. 1, 24, 6. 4, 1, 18.</ls> 
-<ls>ŚR. 2, 6, 10.</ls> <ls>M. 11, 119. 212.</ls> <ls>SUŚR. 1, 136, 15.</ls> {#gavya#} 
-<ls>180, 15. 181, 11.</ls> <ls>Spr. (II) 7010.</ls> <ls>VARĀH. BṚH. S. 46, 24. 48, 50.</ls> <ls>BHĀG. P. 6, 19, 21.</ls> <ls>WEBER, KṚṢṆAJ. 302.</ls> {#sarpIzi viviDAni#} 
-<ls>Spr. (II) 2602.</ls> {#maDusarpizI#} <is>gaṇa</is> {#rAjadantAdi#} 
-zu <ls>P. 2, 2, 31</ls> und {#daDipayaAdi#} 
-zu <ls>4, 14.</ls> <ls>M. 3, 274.</ls> {#maDusarpizA#} 
-<ls>VARĀH. BṚH. S. 55, 24.</ls> {#daDisarpizoH#} 
-<ls>Spr. (II) 3106.</ls> {#hiraRyamaDusarpizAm#} 
-<ls>M. 2, 29. 4, 233. 7, 131.</ls> 
-<ls>SUŚR.1, 128, 17.</ls> 
+{#sarpi/s#}¦ (von {#sarp#}) <lex>n.</lex>
+<ls>UṆĀDIS. 2,109.</ls> <ls>VOP. 26,68.</ls>
+<div n="1"> 1) {%zerlassene Butter, Schmalz in flüssigem oder festem Zustande%} (nicht verschieden von {#Gfta#}, obgleich man die Bestimmung findet, {#sarpis#} sei {%das flüssige%}, {#Gfta#} {%das gestandene Schmalz%}, Cit. bei
+<ls>SĀY.</ls> zu <ls>AIT. BR. 1,3</ls>) <ls>AK. 2,9,52.</ls> <ls>H. 407.</ls> <ls>HALĀY. 2,120. 167.</ls> <ls>ṚV. 1,127,1.</ls> {#sa\rpizo\ darvI^#}
+<ls n="ṚV.">5,6,9.</ls> {#AYja^nena sa\rpizA\ saM vi^Santu#}
+<ls n="ṚV.">10,18,7.</ls> <ls>AV. 1,15,4.</ls> <ls n="AV.">9,6,41.</ls> {#kzI\raM sa\rpiraTo\ maDu^#}
+<ls n="AV.">10,9,12.</ls> {#A si^Yca sa\rpirGf\tava\tsama^NDi#}
+<ls n="AV.">12,3,45.</ls> <ls>TS. 2,3,10,1.</ls> <ls>ŚAT. BR. 9,3,2,4.</ls> <ls>PAÑCAV. BR. 24,18,3. 5.</ls> <ls>ṢAḌV. BR. 5,2.</ls> <ls>KĀTY. ŚR. 2,1,10. 8,8. 4,8,5.</ls> {#juhotItyukte sarpiH pratIyate#}
+<ls>ŚĀṄKH. ŚR. 1,2,21.</ls>
+<ls>LĀṬY. 3,6,8. 9,8,9.</ls> {#DAnAH sarpirmiSrAH#}
+<ls>KAUŚ. 10.</ls>
+<ls>ĀŚV. GṚHY. 1,24,6. 4,1,18.</ls>
+<ls>ŚR. 2,6,10.</ls> <ls>M. 11,119.</ls> <ls n="M. 11,">212.</ls> <ls>SUŚR. 1,136,15.</ls> {#gavya#}
+<ls n="SUŚR.">180,15. 181,11.</ls> <ls>Spr. (II) 7010.</ls> <ls>VARĀH. BṚH. S. 46,24. 48,50.</ls> <ls>BHĀG. P. 6,19,21.</ls> <ls>WEBER, KṚṢṆAJ. 302.</ls> {#sarpIzi viviDAni#}
+<ls>Spr. (II) 2602.</ls> {#maDusarpizI#} <is>gaṇa</is> {#rAjadantAdi#}
+zu <ls>P. 2,2,31</ls> und {#daDipayaAdi#}
+zu <ls n="P. 2,">4,14.</ls> <ls>M. 3,274.</ls> {#maDusarpizA#}
+<ls>VARĀH. BṚH. S. 55,24.</ls> {#daDisarpizoH#}
+<ls>Spr. (II) 3106.</ls> {#hiraRyamaDusarpizAm#}
+<ls>M. 2,29.</ls> <ls n="M.">4,233.</ls> <ls n="M.">7,131.</ls>
+<ls>SUŚR. 1,128,17.</ls>
 <ls>Spr. (II) 5843.</ls>
 [Page7-0812]
-{#daDidugDasarpiraSana#} 
-<ls>7417.</ls> {#sarpirmaDunI#} <is>gaṇa</is> {#rAjadantAdi#} 
-zu <ls>P. 2, 2, 31</ls> und {#daDipayaAdi#} 
-zu <ls>4, 14.</ls> 
-<div n="1">— 2) angeblich so v. a. {#udaka#} 
-<ls>NAIGH. 1, 12.</ls> 
+{#daDidugDasarpiraSana#}
+<ls n="Spr. (II)">7417.</ls> {#sarpirmaDunI#} <is>gaṇa</is> {#rAjadantAdi#}
+zu <ls>P. 2,2,31</ls> und {#daDipayaAdi#}
+zu <ls n="P. 2,">4,14.</ls>
+<div n="1">— 2) angeblich so v. a. {#udaka#}
+<ls>NAIGH. 1,12.</ls>
 <div n="v">— Vgl. {#sArpiza, sArpizka#} .
 <LEND>

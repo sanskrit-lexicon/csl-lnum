@@ -1,26 +1,26 @@
 <L>8523<pc>373<k1>quarter<k2>quarter
 {@Quarter,@}¦ {%s.%} {#pAdaH, turyaH, turIyaH, arDArDaM,#}
-<div n="lb"/>{#turIya-caturTaM-BAgaH;#} ‘a rupee and a q.’
-<div n="lb"/>{#sapAdarUpakaH#}. {@2@} {#diS-SA, ASA, kAzWA,#}
-<div n="lb"/>{#kakuB, harit;#} {%See%} {@Direction;@} ‘in
-<div n="lb"/>intermediate q.’ {#apadiSaM;#} ‘guardian
-<div n="lb"/>of a q.’ {#dikpAlaH, lokapAlaH;#} ‘guardian
-<div n="lb"/>elephant of the q.’ {#diggajaH,#} {@3@} {#pra-, deSaH,#}
-<div n="lb"/>{#uddeSaH, sTAnaM, dik-SA, digBAgaH, digdeSaH,#}
-<div n="lb"/>{#digaMtaH;#} ‘from various q. s’ {#nAnAdigdeSAt,#}
-<div n="lb"/>{#nAnAdigaMteByaH, nAnAdigByaH;#} ‘in every q.’
-<div n="lb"/>{#caturdikzu#}. 4 (Q. s) {#vAsaH, vasati#} {%f.,%} {#nike-#}
-<div n="lb"/>{#-tanaM, vAsasTAnaM, niveSaH, kawakaH-kaM;#} ‘head
-<div n="lb"/>q. s’ {#senApatiniveSaH, kawakaH#}. {@5@} {#dayA, kfpA,#}
-<div n="lb"/>{#jIva-prARa-dAnaM;#} ‘give q.’ {#dayAM kf#} 8 U,
-<div n="lb"/>{#aBayaM dA#} 3 U. {@6@} (Of night) {#yAmaH, praharaH#}.
-<div n="lb"/>{@7@} {#mAsatrayaM, trimAsaM, vatsarapAdaH;#} ‘to close
-<div n="lb"/>q. s’ {#bAhUbAhavi, hastAhasti, miTaHpratyAsanna-#}
-<div n="lb"/>{%-a.;%} ‘they two came to close q. s’ {#tO#}
-<div n="lb"/>{#bAhUbAhavi DyAsfjetAm#} (Si. XVIII. 12).
-<div n="lb"/>{%-v. t.%} {#caturDA viBaj#} 1 U or {#KaMq#} 10 or
-<div n="lb"/>{#Cid#} 7 P. {@2@} {#vas#} c., {#niviS#} c. {%-v. i.%} {#nivas#}
-<div n="lb"/>1 P, {#niviS#} 6 A, {#aDyAs#} 2 A. {@-ly,@} {%a.%}
-<div n="lb"/>{#trEmAsika#} ({#kI#} {%f.%}), {#pAdika#} ({#kI#} {%f.%}).
-<div n="lb"/>{%-adv.%} {#mAsatrayAMte, pratitrimAsaM#}.
+{#turIya-caturTaM-BAgaH;#} ‘a rupee and a q.’
+{#sapAdarUpakaH#}. {@2@} {#diS-SA, ASA, kAzWA,#}
+{#kakuB, harit;#} {%See%} {@Direction;@} ‘in
+intermediate q.’ {#apadiSaM;#} ‘guardian
+of a q.’ {#dikpAlaH, lokapAlaH;#} ‘guardian
+elephant of the q.’ {#diggajaH,#} {@3@} {#pra-, deSaH,#}
+{#uddeSaH, sTAnaM, dik-SA, digBAgaH, digdeSaH,#}
+{#digaMtaH;#} ‘from various q. s’ {#nAnAdigdeSAt,#}
+{#nAnAdigaMteByaH, nAnAdigByaH;#} ‘in every q.’
+{#caturdikzu#}. 4 (Q. s) {#vAsaH, vasati#} {%f.,%} {#nike-#}
+{#-tanaM, vAsasTAnaM, niveSaH, kawakaH-kaM;#} ‘head
+q. s’ {#senApatiniveSaH, kawakaH#}. {@5@} {#dayA, kfpA,#}
+{#jIva-prARa-dAnaM;#} ‘give q.’ {#dayAM kf#} 8 U,
+{#aBayaM dA#} 3 U. {@6@} (Of night) {#yAmaH, praharaH#}.
+{@7@} {#mAsatrayaM, trimAsaM, vatsarapAdaH;#} ‘to close
+q. s’ {#bAhUbAhavi, hastAhasti, miTaHpratyAsanna-#}
+{%-a.;%} ‘they two came to close q. s’ {#tO#}
+{#bAhUbAhavi DyAsfjetAm#} (Si. XVIII. 12).
+{%-v. t.%} {#caturDA viBaj#} 1 U or {#KaMq#} 10 or
+{#Cid#} 7 P. {@2@} {#vas#} c., {#niviS#} c. {%-v. i.%} {#nivas#}
+1 P, {#niviS#} 6 A, {#aDyAs#} 2 A. {@-ly,@} {%a.%}
+{#trEmAsika#} ({#kI#} {%f.%}), {#pAdika#} ({#kI#} {%f.%}).
+{%-adv.%} {#mAsatrayAMte, pratitrimAsaM#}.
 <LEND>

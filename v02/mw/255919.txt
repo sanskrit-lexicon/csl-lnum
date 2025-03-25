@@ -1,3 +1,3 @@
-<L>255919<pc>1265,2<k1>sTaviman<k2>sTa/viman<e>2
-<s>sTavimat</s>, <lex>n.</lex> and <s>sTa/viman</s>, <lex>m.</lex> the thick end, broad part, breadth (<s>°ma-ta/s</s> <lex type="phw">ind.</lex> ‘on the broad side’), <ls>MaitrS.</ls>; <ls>TS.</ls>; <ls>Br.</ls>; <ls>Kāṭh.</ls><info and="255918,sTavimat;255919,sTaviman"/><info phwchild="255918.1"/><info lex="m"/>
+<L>255919<pc>1265,2<k1>sTavimatas<k2>sTavima-ta/s<e>2C
+<s>sTavima-ta/s</s> ¦ <lex>ind.</lex>, ‘on the broad side’<info phwparent="255918,sTavimat"/><info lex="ind"/><info hui="a"/>
 <LEND>

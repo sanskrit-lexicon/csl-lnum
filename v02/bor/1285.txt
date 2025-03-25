@@ -1,4 +1,4 @@
 <L>1285<pc>045<k1>astronomy<k2>astronomy
-<div n="lb"/>{@ASTRONOMY:@}¦ <div n="1">(1) {#jyotizam;#} </div><div n="1">(2) {#jyotiHSAstram;#}</div>
-<div n="lb"/><div n="1">(3) {#grahagaRitam,#} K.; </div><div n="1">(4) {#KagolavidyA.#}</div>
+{@ASTRONOMY:@}¦ <div n="1">(1) {#jyotizam;#} </div><div n="1">(2) {#jyotiHSAstram;#}</div>
+<div n="1">(3) {#grahagaRitam,#} K.; </div><div n="1">(4) {#KagolavidyA.#}</div>
 <LEND>

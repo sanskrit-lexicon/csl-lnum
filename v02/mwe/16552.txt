@@ -1,5 +1,5 @@
 <L>16552<pc>410-a<k1>invalid<k2>invalid
-<div n="lb"/>INVALID¦, {%s.%} (A sick or infirm person) {#rogI#} {%m.%} {#-giRI#} {%f.,%} {#rogavAn#} {%m.%}
-<div n="lb"/>{#-vatI#} {%f.,%} {#rogArttaH -rttA, sarogaH -gA, asvasTaSarIraH -rA, asvasTaH -sTA,#}
-<div n="lb"/>{#janmarogI#} {%m.%} {#-giRI, jarI#} {%m.%} {#-riRI#}.
+INVALID¦, {%s.%} (A sick or infirm person) {#rogI#} {%m.%} {#-giRI#} {%f.,%} {#rogavAn#} {%m.%}
+{#-vatI#} {%f.,%} {#rogArttaH -rttA, sarogaH -gA, asvasTaSarIraH -rA, asvasTaH -sTA,#}
+{#janmarogI#} {%m.%} {#-giRI, jarI#} {%m.%} {#-riRI#}.
 <LEND>

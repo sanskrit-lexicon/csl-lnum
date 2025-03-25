@@ -1,5 +1,5 @@
 <L>20913<pc>657<k1>soap<k2>soap
-<div n="lb"/>{@SOAP:@}¦ <div n="I">I Subs.: {#*sAvanam.#} </div><div n="I">II Verb. {#sAvanena #}
-<div n="lb"/>{# mArzwi#} <div n="xe">{%or%}</div> <div n="xs">{#mArjayati, pari-, saM-, pra-,#}</div> ({#mfj,#} c. 2. and
-<div n="lb"/>10.).</div>
+{@SOAP:@}¦ <div n="I">I Subs.: {#*sAvanam.#} </div><div n="I">II Verb. {#sAvanena #}
+{# mArzwi#} <div n="xe">{%or%}</div> <div n="xs">{#mArjayati, pari-, saM-, pra-,#}</div> ({#mfj,#} c. 2. and
+10.).</div>
 <LEND>

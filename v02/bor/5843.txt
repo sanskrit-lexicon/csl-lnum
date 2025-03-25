@@ -1,5 +1,5 @@
 <L>5843<pc>187<k1>departure<k2>departure
-<div n="lb"/>{@DEPARTURE:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#prasTAnam;#} </div><div n="1">(2) {#prayARam.#}</div>
-<div n="lb"/><div n="I">II Death: q. v. {#paralokagamanam.#} </div><div n="I">III Deviation:
-<div n="lb"/>q. v.: {#vyatikramaH.#} </div><div n="I">IV Desertion: q. v.: {#tyAgaH.#}</div>
+{@DEPARTURE:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#prasTAnam;#} </div><div n="1">(2) {#prayARam.#}</div>
+<div n="I">II Death: q. v. {#paralokagamanam.#} </div><div n="I">III Deviation:
+q. v.: {#vyatikramaH.#} </div><div n="I">IV Desertion: q. v.: {#tyAgaH.#}</div>
 <LEND>

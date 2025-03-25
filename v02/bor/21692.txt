@@ -1,11 +1,11 @@
 <L>21692<pc>684<k1>study<k2>study
-<div n="lb"/>{@STUDY@}¦ (v.): <div n="I">I To learn, read: q. v.: </div><div n="1">(1)
-<div n="lb"/>{#aDIte#} ({#i,#} c. 2.), <div n="xe">{%he s. ed this with me:%}</div> <div n="xs">{#etanmattaH #}
-<div n="lb"/>{# so'Dijage,#}</div> M. i. 59.; <div n="xe">{%one who has s. ied all%}
-<div n="lb"/>{%Śāstras:%}</div> <div n="xs">{#aDItasarvaSAsra#}</div> (f. {#srA#}), K.; <div n="xe">{%one who%}
-<div n="lb"/>{%has s. ied the four Vedas:%}</div> <div n="xs">{#aDItI caturzvAmnAyezu,#}</div>
-<div n="lb"/>D. v.; </div><div n="1">(2) {#aDigacCati#} ({#gam,#} c. 1. = acquire:
-<div n="lb"/>q. v. ). </div><div n="I">II To practise, learn by rote: q. v.:
-<div n="lb"/>{#aByasyati#} ({#as,#} c. 4.), {%do you s. archery:%}
-<div n="lb"/>{#kaccidaByasyate Danurvedasya sUtram,#} Mah. ii. 5. 121.</div>
+{@STUDY@}¦ (v.): <div n="I">I To learn, read: q. v.: </div><div n="1">(1)
+{#aDIte#} ({#i,#} c. 2.), <div n="xe">{%he s. ed this with me:%}</div> <div n="xs">{#etanmattaH #}
+{# so'Dijage,#}</div> M. i. 59.; <div n="xe">{%one who has s. ied all%}
+{%Śāstras:%}</div> <div n="xs">{#aDItasarvaSAsra#}</div> (f. {#srA#}), K.; <div n="xe">{%one who%}
+{%has s. ied the four Vedas:%}</div> <div n="xs">{#aDItI caturzvAmnAyezu,#}</div>
+D. v.; </div><div n="1">(2) {#aDigacCati#} ({#gam,#} c. 1. = acquire:
+q. v. ). </div><div n="I">II To practise, learn by rote: q. v.:
+{#aByasyati#} ({#as,#} c. 4.), {%do you s. archery:%}
+{#kaccidaByasyate Danurvedasya sUtram,#} Mah. ii. 5. 121.</div>
 <LEND>

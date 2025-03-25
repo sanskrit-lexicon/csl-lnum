@@ -1,64 +1,63 @@
 <L>56334<pc>5-0435<k1>maYjari<k2>maYjari
-{#maYjari#}¦ und {#°rI#} <lex>f.</lex> 
-<div n="1"> 1) {%Blüthenstrauss, eine dichtblumige Rispe%}; = {#vallari#} 
-<ls>AK. 2, 4, 1, 13.</ls> 
-<ls>TRIK. 2, 4, 5.</ls> 
-<ls>H. 1122.</ls> 
-<ls>H. an. 3, 593.</ls> 
-<ls>MED. r. 204</ls> <ls>?(auch m.). HALĀY. 2, 30. ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#gulmErmaYjarIjAlaDAriBiH#} 
-<ls>MBH. 2, 355.</ls> 
-<ls>HARIV. 12659.</ls> {#citramaYjariDAriRaH (drumAH)#} 
-<ls>MBH. 3, 11703.</ls> {#puzpamaYjariDAriRIH (latAH)#} 
-<ls>HARIV. 12672.</ls> 
-<ls>R. 2, 48, 11 (45, 12 GORR.).</ls> {#jAlakaM maYjarIRAm - DArayanti drumAH#} 
-<ls>6, 15, 7.</ls> {#sahakArAn - maYjarIBirvirAjitAn#} 
-<ls>MBH. 3, 11592.</ls> 
-<ls>KUMĀRAS. 4, 38.</ls> 
-<ls>Spr. 3790.</ls> {#maYjarI mAkandezu pikANganABiraDunA motkaRWamAlokyate#} 
-<ls>1769.</ls> {#paricumbati saMviSya BramaraScUtamaYjarIm#} 
-<ls>R. 3, 79, 17.</ls> 
-<ls>VIKR. 26.</ls> 
-<ls>Spr. 4975.</ls> 
-<ls>Ind. St. 8, 349, 4 v. u.</ls> {#vyADUyante niculataruBirmaYjarIcAmarARi#} 
-<ls>VIKR. 76.</ls> {#SEvalamaYjarIRAM jAlAni#} 
-<ls>RAGH. 5, 46.</ls> {#madfSakAntiralakzyata maYjarI tilakajAlakajAlakamOktikEH#} 
-<ls>9, 43.</ls> {#arjunasya#} 
-<ls>16, 51.</ls> {#priyAludrumamaYjarIRAM rajaHkaREH#} 
-<ls>KUMĀRAS. 3, 31.</ls> {#kakuBadrumamaYjarIBiH#} 
-<ls>ṚT. 2, 21.</ls> {#KaramaYjaryA maYjarIBiH#} 
-<ls>PAÑCAR. 3, 14, 17.</ls> {#mADavI#} 
-<ls>KATHĀS. 45, 336.</ls> {#kamala°#} 
-<ls>Spr. 3757.</ls> {#marja tvaM maYjarIBiH pravaro vanAnAm#} 
-<ls>GHAṬ. 16.</ls> {#yA sanmArgatarorezA vidvatsaMgatimaYjarI#} 
-<ls>KATHĀS. 17, 113.</ls> {#vAgdevISrutipArijAtakusumasparDAkarI maYjarI#} (mit Anspielung auf den Titel des Buches {#rasamaYjarI)#} 
-<ls>Verz. d. Oxf. H. 213,b, No. 507.</ls> {%Blüthenknöspchen%}: {#atrodyAne mayA dfzwA vallarI#} {%(der Arm)%} {#paYcapallavA#} {%(Finger)%} {#. pallave pallane tAmrA yasyAM kusumamaYjarI#} {%(Fingernagel)%} || 
-<ls>Spr. 3427.</ls> {#akasmAdeva te caRqi sPuritADarapallavam . muKaM muktAruco Datte GarmAmBaHkaRamaYjarIH ..#} 
-<ls>KĀVYĀD. 2, 71.</ls> {#maYjarIkftya GarmAmBaH#} 
-<ls>72.</ls> In der Bed. {%Blüthenstrauss%} häufig am Ende von Büchertiteln. 
-<div n="1">— 2) {%nebeneinander laufende Streifen, - Reihen%}: {#kapolatale cakAsti kAntasvahastaliKitA mama maYjarI#} 
-<ls>SĀH. D. 56, 14.</ls> {#sPuratu kucakumBayorupari #}
+{#maYjari#}¦ und {#°rI#} <lex>f.</lex>
+<div n="1"> 1) {%Blüthenstrauss, eine dichtblumige Rispe%}; = {#vallari#}
+<ls>AK. 2,4,1,13.</ls>
+<ls>TRIK. 2,4,5.</ls>
+<ls>H. 1122.</ls>
+<ls>H. an. 3,593.</ls>
+<ls>MED. r. 204</ls> (auch m.). <ls>HALĀY. 2,30.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#gulmErmaYjarIjAlaDAriBiH#}
+<ls>MBH. 2,355.</ls>
+<ls>HARIV. 12659.</ls> {#citramaYjariDAriRaH (drumAH)#}
+<ls>MBH. 3,11703.</ls> {#puzpamaYjariDAriRIH (latAH)#}
+<ls>HARIV. 12672.</ls>
+<ls>R. 2,48,11</ls> (<ls n="GORR. 2,">45,12</ls> <ls>GORR.</ls>). {#jAlakaM maYjarIRAm — DArayanti drumAH#}
+<ls n="R.">6,15,7.</ls> {#sahakArAn — maYjarIBirvirAjitAn#}
+<ls>MBH. 3,11592.</ls>
+<ls>KUMĀRAS. 4,38.</ls>
+<ls>Spr. 3790.</ls> {#maYjarI mAkandezu pikANganABiraDunA motkaRWamAlokyate#}
+<ls n="Spr.">1769.</ls> {#paricumbati saMviSya BramaraScUtamaYjarIm#}
+<ls>R. 3,79,17.</ls>
+<ls>VIKR. 26.</ls>
+<ls>Spr. 4975.</ls>
+<ls>Ind. St. 8,349,4</ls> v. u. {#vyADUyante niculataruBirmaYjarIcAmarARi#}
+<ls>VIKR. 76.</ls> {#SEvalamaYjarIRAM jAlAni#}
+<ls>RAGH. 5,46.</ls> {#madfSakAntiralakzyata maYjarI tilakajAlakajAlakamOktikEH#}
+<ls n="RAGH.">9,43.</ls> {#arjunasya#}
+<ls n="RAGH.">16,51.</ls> {#priyAludrumamaYjarIRAM rajaHkaREH#}
+<ls>KUMĀRAS. 3,31.</ls> {#kakuBadrumamaYjarIBiH#}
+<ls>ṚT. 2,21.</ls> {#KaramaYjaryA maYjarIBiH#}
+<ls>PAÑCAR. 3,14,17.</ls> {#mADavI#}
+<ls>KATHĀS. 45,336.</ls> {#kamala°#}
+<ls>Spr. 3757.</ls> {#marja tvaM maYjarIBiH pravaro vanAnAm#}
+<ls>GHAṬ. 16.</ls> {#yA sanmArgatarorezA vidvatsaMgatimaYjarI#}
+<ls>KATHĀS. 17,113.</ls> {#vAgdevISrutipArijAtakusumasparDAkarI maYjarI#} (mit Anspielung auf den Titel des Buches {#rasamaYjarI)#}
+<ls>Verz. d. Oxf. H. 213,b, No. 507.</ls> {%Blüthenknöspchen%}: {#atrodyAne mayA dfzwA vallarI#} ({%der Arm%}) {#paYcapallavA#} ({%Finger%}) {#. pallave pallane tAmrA yasyAM kusumamaYjarI#} ({%Fingernagel%}) ||
+<ls>Spr. 3427.</ls> {#akasmAdeva te caRqi sPuritADarapallavam . muKaM muktAruco Datte GarmAmBaHkaRamaYjarIH ..#}
+<ls>KĀVYĀD. 2,71.</ls> {#maYjarIkftya GarmAmBaH#}
+<ls n="KĀVYĀD. 2,">72.</ls> In der Bed. {%Blüthenstrauss%} häufig am Ende von Büchertiteln.
+<div n="1">— 2) {%nebeneinander laufende Streifen, — Reihen%}: {#kapolatale cakAsti kAntasvahastaliKitA mama maYjarI#}
+<ls>SĀH. D. 56,14.</ls> {#sPuratu kucakumBayorupari #}
 [Page5-0436]
-{# maRimaYjI raYjayatu tava hfdayadeSam#} 
-<ls>GĪT. 10, 6.</ls> {#rucimaYjarIBiH#} 
-<ls>11, 12.</ls> {#sakalasAmantacakracUqAmaRimarIcimaYjarInIrAjitacaraRakamalena#} 
-<ls>PRAB. 2, 3.</ls> {#marIcimaYjaryaH = kiraRaparaMparAH#} 
-<ls>Schol.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 199, 1</ls>, wo vielleicht {#°kiraRamaYjarI#} zu lesen ist. 
-<div n="1">— 3) {%ein best. Baum%}, = {#tilaka#} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>ŚABDAR.</ls> {#nirgate maYjarIkuYjAdapaSyat - kanye#} 
-<ls>RĀJA-TAR. 1, 207.</ls> {#maYjarI = latA#} {%Schlingpflanze%} 
-<ls>ŚABDAR.</ls> = {#tulasI#} {%Basilienkraut%} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 4) N. zweier Metra: 
-<div n="2"> a) {%4 Mal%} {Ç}, {Ç} 
-<ls>COLEBR. Misc. Ess. II, 161</ls> <ls>(IX, 12).</ls> 
-<div n="2">— b) {%12, 8, 16 und 20 Silben%} 
-<ls>COLEBR. Misc. Ess. II, 165.</ls> <ls>Ind. St. St. 8, 349</ls> (wo 
-<ls>16</ls> st. 
-<ls>19</ls> und {#kAminAM#} st. {#kAminInAM#} zu lesen ist). 
-<div n="1">— 5) abgekürzter Titel der Schrift {#nyAyasidDAntamaYjarI#}.{# °prakASa#} und {#°sAra#} Titel von Commentaren zu jener Schrift 
-<ls>HALL 25.</ls> 
-<div n="1">— 6) {%Perle%}: {#°rI#} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>ŚABDAR.</ls> 
-<div n="v">— Vgl. {#maYjara, maYjA, maYji, aNgAramaYjarI, anekArTaDvani°, aSoka°, udaka°, karpUra°#} (auch N. pr. der Tochter eines Flamingo 
-<ls>HIT. 98, 6</ls>), {#kAma°, Kara°, Cando°, tarkaBAzAsAra°#} (u. {#tarkaBAzA), tIkzRa°, tridaSa°, DAtu°, nIti°, paWa°, pattra°, pada°, pAWa°, pradIpa°, pravara°, preta°, bahu°, BAzA°, maRi°, madana°, rasa°, rAga°#} .
+{# maRimaYjI raYjayatu tava hfdayadeSam#}
+<ls>GĪT. 10,6.</ls> {#rucimaYjarIBiH#}
+<ls n="GĪT.">11,12.</ls> {#sakalasAmantacakracUqAmaRimarIcimaYjarInIrAjitacaraRakamalena#}
+<ls>PRAB. 2,3.</ls> {#marIcimaYjaryaH = kiraRaparaMparAH#}
+<ls>Schol.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 199,1</ls>, wo vielleicht {#°kiraRamaYjarI#} zu lesen ist.
+<div n="1">— 3) {%ein best. Baum%}, = {#tilaka#}
+<ls>H. an.</ls> <ls>MED.</ls> <ls>ŚABDAR.</ls> {#nirgate maYjarIkuYjAdapaSyat — kanye#}
+<ls>RĀJA-TAR. 1,207.</ls> {#maYjarI = latA#} {%Schlingpflanze%}
+<ls>ŚABDAR.</ls> = {#tulasI#} {%Basilienkraut%}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 4) N. zweier Metra:
+<div n="2"> a) {%4 Mal%} ⏑ ⏑ – ⏑ –, ⏑ ⏑ ⏑ – ⏑ – – ⏑ –
+<ls>COLEBR. Misc. Ess. II,161</ls> (<ls n="COLEBR. Misc. Ess.">IX,12</ls>).
+<div n="2">— b) {%12, 8, 16 und 20 Silben%}
+<ls>COLEBR. Misc. Ess. II,165.</ls> <ls>Ind. St. St. 8,349</ls>
+(wo 16 st. 19 und {#kAminAM#} st. {#kAminInAM#} zu lesen ist).
+<div n="1">— 5) abgekürzter Titel der Schrift {#nyAyasidDAntamaYjarI#}.{# °prakASa#} und {#°sAra#} Titel von Commentaren zu jener Schrift
+<ls>HALL 25.</ls>
+<div n="1">— 6) {%Perle%}: {#°rI#}
+<ls>H. an.</ls> <ls>MED.</ls> <ls>ŚABDAR.</ls>
+<div n="v">— Vgl. {#maYjara, maYjA, maYji, aNgAramaYjarI, anekArTaDvani°, aSoka°, udaka°, karpUra°#} (auch N. pr. der Tochter eines Flamingo
+<ls>HIT. 98,6</ls>), {#kAma°, Kara°, Cando°, tarkaBAzAsAra°#} (u. {#tarkaBAzA), tIkzRa°, tridaSa°, DAtu°, nIti°, paWa°, pattra°, pada°, pAWa°, pradIpa°, pravara°, preta°, bahu°, BAzA°, maRi°, madana°, rasa°, rAga°#} .
 <LEND>

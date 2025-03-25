@@ -1,7 +1,7 @@
-<L>135505<pc>684,2<k1>praBid<k2>pra-Bid<h>a<e>1
-<s>pra-√ Bid</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-Binatti</s>, to cleave, split asunder, break, pierce, open, <ls>RV.</ls> &c. &c.:
-<div n="to"/><ab>Pass.</ab> <s>-Bidyate</s>, to be broken in pieces, crumble, <ls>ŚBr.</ls>;
+<L>135505<pc>684,2<k1>praBid<k2>pra-Bid<e>1
+<s>pra-√ Bid</s> ¦ <ab>P.</ab> <s>-Binatti</s>, to cleave, split asunder, break, pierce, open, <ls>RV.</ls> &c. &c.:
+<div n="vp"/><ab>Pass.</ab> <s>-Bidyate</s>, to be broken in pieces, crumble, <ls>ŚBr.</ls>;
 <div n="to"/>to be dissolved, open, <ls>KaṭhUp.</ls>;
-<div n="to"/>to split, divide (intr.), <ls>MBh.</ls> :
-<div n="vp"/><ab>Caus.</ab> of <ab>Intens.</ab> <s>-beBidayya</s>, <ls>Pat.</ls><info verb="pre" cp="P" parse="pra+Bid"/>
+<div n="to"/>to split, divide (<ab>intr.</ab>), <ls>MBh.</ls> :
+<div n="vp"/><ab>Caus.</ab> of <ab>Intens.</ab> <s>-beBidayya</s>, <ls>Pat.</ls><info verb="pre" cp="P" parse="pra+Bid"/><info hui="a"/>
 <LEND>

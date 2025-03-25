@@ -1,3 +1,3 @@
-<L>148977<pc>748,3<k1>BallikA<k2>BallikA<h>b<e>1B
-<s>BallikA</s> <hom>b</hom> ¦ <lex>f.</lex> See under <s>Ballaka</s>.<info lex="f"/>
+<L>148977<pc>748,3<k1>BallikA<k2>BallikA<e>1B
+<s>BallikA</s> ¦ <lex>f.</lex> See under <s>Ballaka</s>.<info lex="f"/><info hui="b"/>
 <LEND>

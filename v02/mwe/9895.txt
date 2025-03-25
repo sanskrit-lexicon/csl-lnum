@@ -1,7 +1,7 @@
 <L>9895<pc>234-b<k1>epoch<k2>epoch
-<div n="lb"/>EPOCH¦, EPOCHA, {%s.%} (A fixed era from which computation of
-<div n="lb"/>years begin) {#DruvaH, SAkaH, SakaH, saMvat#} indec. The era of
-<div n="lb"/>Śālivāhana is called {#SAkaH,#} that of Vikramāditya, {#saMvat#}. — 
-<div n="lb"/>(Any period or fixed time) {#kAlaH, kAlAvaDiH#} {%m.,%} {#avaDiH#} {%m.,%}
-<div n="lb"/>{#nirRItakAlaH#}.
+EPOCH¦, EPOCHA, {%s.%} (A fixed era from which computation of
+years begin) {#DruvaH, SAkaH, SakaH, saMvat#} indec. The era of
+Śālivāhana is called {#SAkaH,#} that of Vikramāditya, {#saMvat#}. — 
+(Any period or fixed time) {#kAlaH, kAlAvaDiH#} {%m.,%} {#avaDiH#} {%m.,%}
+{#nirRItakAlaH#}.
 <LEND>

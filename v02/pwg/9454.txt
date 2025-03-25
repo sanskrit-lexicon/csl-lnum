@@ -1,17 +1,17 @@
 <L>9454<pc>1-0708<k1>Avali<k2>Avali
-{#Avali#}¦ und {#°lI#} <lex>f.</lex> {%Streifen, Reihe, Zug%} 
-<ls>AK. 2, 4, 1, 4. 3, 4, 200.</ls> 
-<ls>TRIK. 2, 4, 1.</ls> 
-<ls>H. 1423.</ls> {#dantAvalI#} 
-<ls>BHARTṚ. 3, 74.</ls> {#arA°#} 
-<ls>VIKR. 4.</ls> {#alakA°#} 
-<ls>AMAR. 3.</ls> {#DUmA°#} 
-<ls>91.</ls> {#SiKA°#} 
-<ls>89.</ls> <ls>ŚṚṄGĀRAT. 16.</ls> {#taraMgA°#} 
-<ls>PRAB. 69, 11.</ls> {#haMsA°#} 
-<ls>CĀT. 5.</ls> {#muktA°#} 
-<ls>HIT. I, 90.</ls> {#ratnA°#} 
-<ls>29, 11.</ls> {#udAharaRA°#} 
-<ls>H. 5.</ls> {%Allee%} (?) 
-<ls>YAVANEŚV.</ls> in <ls>Z. f. d. K. d. M. 4, 346.</ls> <ls>LASSEN</ls> : {%Furche.%}
+{#Avali#}¦ und {#°lI#} <lex>f.</lex> {%Streifen, Reihe, Zug%}
+<ls>AK. 2,4,1,4.</ls> <ls n="AK.">3,4,200.</ls>
+<ls>TRIK. 2,4,1.</ls>
+<ls>H. 1423.</ls> {#dantAvalI#}
+<ls>BHARTṚ. 3,74.</ls> {#arA°#}
+<ls>VIKR. 4.</ls> {#alakA°#}
+<ls>AMAR. 3.</ls> {#DUmA°#}
+<ls n="AMAR.">91.</ls> {#SiKA°#}
+<ls n="AMAR.">89.</ls> <ls>ŚṚṄGĀRAT. 16.</ls> {#taraMgA°#}
+<ls>PRAB. 69,11.</ls> {#haMsA°#}
+<ls>CĀT. 5.</ls> {#muktA°#}
+<ls>HIT. I,90.</ls> {#ratnA°#}
+<ls n="HIT.">29,11.</ls> {#udAharaRA°#}
+<ls>H. 5.</ls> {%Allee%} (?)
+<ls>YAVANEŚV.</ls> in <ls>Z. f. d. K. d. M. 4,346.</ls> <ls>LASSEN</ls> : {%Furche.%}
 <LEND>

@@ -1,10 +1,10 @@
-<L>227296<pc>1122,1<k1>saMspfS<k2>saM-spfS<h>a<e>1
-<s>saM-√ spfS</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-spfSati</s> (rarely <ab>Ā.</ab> <s>°te</s>), to touch, bring into contact with (<ab>Ā.</ab> ‘touch one's self’), <ls>AV.</ls> &c. &c.;
+<L>227296<pc>1122,1<k1>saMspfS<k2>saM-spfS<e>1
+<s>saM-√ spfS</s> ¦ <ab>P.</ab> <s>-spfSati</s> (rarely <ab>Ā.</ab> <s>°te</s>), to touch, bring into contact with (<ab>Ā.</ab> ‘touch one's self’), <ls>AV.</ls> &c. &c.;
 <div n="to"/> (with or without <s>salilam</s>, <s>apas</s> &c.) to touch water, sprinkle, wash, <ls>MBh.</ls>; <ls>R.</ls>;
 <div n="to"/>to touch, come into contact (in <ab>astrol.</ab> sense), <ls>VarBṛS.</ls>;
 <div n="to"/>to reach or penetrate to, attain, <ls>MBh.</ls>; <ls>Kathās.</ls>; <ls>BhP.</ls>; <ls>Jātakam.</ls>;
 <div n="to"/>to come into close relation with (<ab>acc.</ab>), <ls>Rājat.</ls>;
 <div n="to"/>to come upon, visit, afflict, <ls>R.</ls>;
 <div n="to"/>to take out of (<ab>abl.</ab>), <ls>MBh. viii, 788</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-sparSayati</s>, to bring into contact, <ls>TS.</ls>; <ls>Br.</ls>; <ls>ŚrS.</ls><info verb="pre" cp="PĀ" parse="sam+spfS"/>
+<div n="vp"/><ab>Caus.</ab> <s>-sparSayati</s>, to bring into contact, <ls>TS.</ls>; <ls>Br.</ls>; <ls>ŚrS.</ls><info verb="pre" cp="PĀ" parse="sam+spfS"/><info hui="a"/>
 <LEND>

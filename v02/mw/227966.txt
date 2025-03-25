@@ -1,5 +1,5 @@
-<L>227966<pc>1125,3<k1>saMkal<k2>saM-kal<h>b<e>1
-<hom>b.</hom> <s>saM-</s>√ <hom>3.</hom> <s>kal</s> ¦ <ab>P.</ab> <s>-kalayati</s>, to heap together, accumulate, <ls>Suśr.</ls>;
+<L>227966<pc>1125,3<k1>saMkal<k2>saM-kal<e>1
+ <s>saM-</s>√ <hom>3.</hom> <s>kal</s> ¦ <ab>P.</ab> <s>-kalayati</s>, to heap together, accumulate, <ls>Suśr.</ls>;
 <div n="to"/>to add, <ls>Gaṇit.</ls>;
-<div n="to"/>to be of opinion, <ls>Kpr.</ls><info verb="pre" cp="P" parse="sam+kal"/>
+<div n="to"/>to be of opinion, <ls>Kpr.</ls><info verb="pre" cp="P" parse="sam+kal"/><info hui="b"/>
 <LEND>

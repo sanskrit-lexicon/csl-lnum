@@ -1,3 +1,3 @@
 <L>188998.1<pc>932,1<k1>vas<k2>vas<e>1E
-<s>vas</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἕννυμι</lang> for <lang n="greek">ϝεσ-νυμι</lang>; <ab>Lat.</ab> <etym>vestis</etym>; <ab>Goth.</ab> <etym>wasjan</etym>; <ab>Angl.Sax.</ab> <etym>werian</etym>; <ab>Eng.</ab> <etym>wear</etym>.]
+<s>vas</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <gk>ἕννυμι</gk> for <gk>ϝεσ-νυμι</gk>, <gk>εἷμα</gk>; <lang>Lat.</lang> <etym>vestis</etym>; <lang>Goth.</lang> <etym>wasjan</etym>; <lang>Angl.Sax.</lang> <etym>werian</etym>; <lang>Eng.</lang> <etym>wear</etym>.]
 <LEND>

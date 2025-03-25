@@ -1,22 +1,22 @@
 <L>7825<pc>338<k1>perfect<k2>perfect
 {@Perfect,@}¦ {%a.%} {#sidDa, saMpanna, nizpanna, samApta,#}
-<div n="lb"/>{#pariRata#}. {@2@} {#aSeza, samagra, sakala, saM-pari-#}
-<div n="lb"/>{#-pUrRa, samasta, avikala, aKaMqa, akzata, anyUna,#}
-<div n="lb"/>{#nirdoza#}. {@3@} {#parama, utkfzwa, viSizwa, uttama;#}
-<div n="lb"/>{#nipuRa, kuSala, aBijYa, pAraMgata, viSArada,#}
-<div n="lb"/>{#pravIRa, paripakva, saMpanna#}. {@4@} (In grammar)
-<div n="lb"/>{#lid#}. {%-v. t.%} {#sAD#} c., {#siD#} c. ({#sADayati#}),
-<div n="lb"/>{#saM-niH-pad#} c., {#pari-saM-pUr#} 10, {#samAp#} c.,
-<div n="lb"/>{#nirvft#} c.; ex. by {#kf#} 8 U with ({%a.%}).
-<div n="lb"/>{@-er,@} {%s.%} {#saMpAdakaH, sADakaH#}. {@-ion, -ness,@}
-<div n="lb"/>{%s.%} {#sidDi#} {%f.,%} {#saMpannatA, samagratA, aKaMqatA,#}
-<div n="lb"/>{#saMpari-pUrRatA, nizpatti-samApti#}- {%f.%} {@2@} {#pari-,#}
-<div n="lb"/>{#pAkaH, pariRati#} {%f.,%} {#pakvAvasTA, utkfzwatA,#}
-<div n="lb"/>{#utkarzaH, viSizwatA, prakarzaH, parA kowiH-kAzWA#}.
-<div n="lb"/>{@3@} {#nEpuRyaM, saMpannatA, kOSalaM, vijYAnaM, prA-#}
-<div n="lb"/>{#-vIRyaM#}. {@4@} {#guRaH, parama-uttama-guRaH, viSezaH,#}
-<div n="lb"/>{#pra-ut-karzaH#}. {@-ive,@} {%a.%} {#sADaka, saMpAdaka,#}
-<div n="lb"/>{#samApaka, sidDikara#} ({#rI#} {%f.%}). {@-ly,@} {%adv.%}
-<div n="lb"/>{#sarvaTA, sarvaSaH, sAkalyena; samagraM, saMpUrRaM,#}
-<div n="lb"/>{#aSezataH, niHSezaM#}.
+{#pariRata#}. {@2@} {#aSeza, samagra, sakala, saM-pari-#}
+{#-pUrRa, samasta, avikala, aKaMqa, akzata, anyUna,#}
+{#nirdoza#}. {@3@} {#parama, utkfzwa, viSizwa, uttama;#}
+{#nipuRa, kuSala, aBijYa, pAraMgata, viSArada,#}
+{#pravIRa, paripakva, saMpanna#}. {@4@} (In grammar)
+{#lid#}. {%-v. t.%} {#sAD#} c., {#siD#} c. ({#sADayati#}),
+{#saM-niH-pad#} c., {#pari-saM-pUr#} 10, {#samAp#} c.,
+{#nirvft#} c.; ex. by {#kf#} 8 U with ({%a.%}).
+{@-er,@} {%s.%} {#saMpAdakaH, sADakaH#}. {@-ion, -ness,@}
+{%s.%} {#sidDi#} {%f.,%} {#saMpannatA, samagratA, aKaMqatA,#}
+{#saMpari-pUrRatA, nizpatti-samApti#}- {%f.%} {@2@} {#pari-,#}
+{#pAkaH, pariRati#} {%f.,%} {#pakvAvasTA, utkfzwatA,#}
+{#utkarzaH, viSizwatA, prakarzaH, parA kowiH-kAzWA#}.
+{@3@} {#nEpuRyaM, saMpannatA, kOSalaM, vijYAnaM, prA-#}
+{#-vIRyaM#}. {@4@} {#guRaH, parama-uttama-guRaH, viSezaH,#}
+{#pra-ut-karzaH#}. {@-ive,@} {%a.%} {#sADaka, saMpAdaka,#}
+{#samApaka, sidDikara#} ({#rI#} {%f.%}). {@-ly,@} {%adv.%}
+{#sarvaTA, sarvaSaH, sAkalyena; samagraM, saMpUrRaM,#}
+{#aSezataH, niHSezaM#}.
 <LEND>

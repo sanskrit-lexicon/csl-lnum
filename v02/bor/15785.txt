@@ -1,10 +1,10 @@
 <L>15785<pc>484<k1>off<k2>off
-<div n="lb"/>{@OFF:@}¦ <div n="I">I Interj.: {#apehi:#} v. Away, begone.</div>
-<div n="lb"/><div n="I">II Adj.: {#dUravartin#} (f. {#nI#}) and sim. comp.s.</div>
-<div n="lb"/><div n="I">III Adv.: {#dUre#} <div n="xe">{%or%}</div> <div n="xs">{#dUrataH:#}</div> v. Far. </div><div n="I">IV With
-<div n="lb"/>verbs or adverbs: v. The several verbs,
-<div n="lb"/>etc. V. Prep.: expr. by circumlo., <div n="xe">{%to be o.%}
-<div n="lb"/>{%the bed:%}</div> <div n="xs">{#SayyAM muYcati.#}</div> Ph.: (a) {%o. and on:%}
-<div n="lb"/>{#saktAsaktam#} (??); (b) <div n="xe">{%o. -hand:%}</div> <div n="xs">{#vinA samADAnena#}</div>
-<div n="lb"/>(?).</div>
+{@OFF:@}¦ <div n="I">I Interj.: {#apehi:#} v. Away, begone.</div>
+<div n="I">II Adj.: {#dUravartin#} (f. {#nI#}) and sim. comp.s.</div>
+<div n="I">III Adv.: {#dUre#} <div n="xe">{%or%}</div> <div n="xs">{#dUrataH:#}</div> v. Far. </div><div n="I">IV With
+verbs or adverbs: v. The several verbs,
+etc. V. Prep.: expr. by circumlo., <div n="xe">{%to be o.%}
+{%the bed:%}</div> <div n="xs">{#SayyAM muYcati.#}</div> Ph.: (a) {%o. and on:%}
+{#saktAsaktam#} (??); (b) <div n="xe">{%o. -hand:%}</div> <div n="xs">{#vinA samADAnena#}</div>
+(?).</div>
 <LEND>

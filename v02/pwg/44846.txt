@@ -1,19 +1,19 @@
 <L>44846<pc>4-0685<k1>pArSvatas<k2>pArSvata/s
-{#pArSvata/s#}¦ (von {#pArSva#}) adv. {%aus —, von —, an der Seite; seitwärts, abseits%} 
-<ls>NIR. 4, 3.</ls> <is>gaṇa</is> {#AdyAdi#} zu 
-<ls>P. 5, 4, 44, <is>Vārtt</is>.</ls> 
-<ls>VS. 21, 43.</ls> 
-<ls>TBR. 1, 1, 5, 9.</ls> 
-<ls>TS. 6, 3, 9, 2.</ls> {#purastAtpArSvataScazAlamupanidaDAti#} 
-<ls>ŚAT. BR. 3, 7, 1, 3. 4, 5, 2, 7. 6, 8, 1, 7.</ls> {#sa deveByaH pArSvata iva cacAra#} 
-<ls>ŚĀṄKH. ŚR. 14, 50, 4.</ls> {#pArSvato nizAdagrAmasya vaset#} 
-<ls>LĀṬY. 8, 2, 8.</ls> 
-<ls>KĀTY. ŚR. 16, 6, 19. 25, 10, 7.</ls> 
-<ls>MBH. 7, 1505.</ls> 
-<ls>SUND. 3, 25. 27.</ls> 
-<ls>R. 1, 64, 6.</ls> 
-<ls>KATHĀS. 32, 99.</ls> 
-<ls>Spr. 23.</ls> {#prAyeRa BUmipatayaH pramadA latASca yatpArSvato Bavati tatparivezwayaMnti#} 
-<ls>404.</ls> <ls>RAGH. 19, 31.</ls> <ls>H. 1228.</ls> {#vilokya#} 
-<ls>PRAB. 37, 9.</ls>
+{#pArSvata/s#}¦ (von {#pArSva#}) adv. {%aus —, von —, an der Seite; seitwärts, abseits%}
+<ls>NIR. 4,3.</ls> <is>gaṇa</is> {#AdyAdi#} zu
+<ls>P. 5,4,44</ls>, <is>Vārtt</is>.
+<ls>VS. 21,43.</ls>
+<ls>TBR. 1,1,5,9.</ls>
+<ls>TS. 6,3,9,2.</ls> {#purastAtpArSvataScazAlamupanidaDAti#}
+<ls>ŚAT. BR. 3,7,1,3.</ls> <ls n="ŚAT. BR.">4,5,2,7.</ls> <ls n="ŚAT. BR.">6,8,1,7.</ls> {#sa deveByaH pArSvata iva cacAra#}
+<ls>ŚĀṄKH. ŚR. 14,50,4.</ls> {#pArSvato nizAdagrAmasya vaset#}
+<ls>LĀṬY. 8,2,8.</ls>
+<ls>KĀTY. ŚR. 16,6,19.</ls> <ls n="KĀTY. ŚR.">25,10,7.</ls>
+<ls>MBH. 7,1505.</ls>
+<ls>SUND. 3,25. 27.</ls>
+<ls>R. 1,64,6.</ls>
+<ls>KATHĀS. 32,99.</ls>
+<ls>Spr. 23.</ls> {#prAyeRa BUmipatayaH pramadA latASca yatpArSvato Bavati tatparivezwayaMnti#}
+<ls n="Spr.">404.</ls> <ls>RAGH. 19,31.</ls> <ls>H. 1228.</ls> {#vilokya#}
+<ls>PRAB. 37,9.</ls>
 <LEND>

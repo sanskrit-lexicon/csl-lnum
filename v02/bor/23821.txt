@@ -1,5 +1,5 @@
 <L>23821<pc>746<k1>veterinary<k2>veterinary
-<div n="lb"/>{@VETERINARY:@}¦ {%v. surgeon:%} <div n="1">(1) {#paSucikitsakaH;#}</div>
-<div n="lb"/><div n="1">(2) {#SAlihotraSo vEdyaH,#} (a class of), P. v. 10.;
-<div n="lb"/><div n="xe">{%v. art:%}</div> <div n="xs">{#paSucikitsA.#}</div></div>
+{@VETERINARY:@}¦ {%v. surgeon:%} <div n="1">(1) {#paSucikitsakaH;#}</div>
+<div n="1">(2) {#SAlihotraSo vEdyaH,#} (a class of), P. v. 10.;
+<div n="xe">{%v. art:%}</div> <div n="xs">{#paSucikitsA.#}</div></div>
 <LEND>

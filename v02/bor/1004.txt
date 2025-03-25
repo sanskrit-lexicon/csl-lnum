@@ -1,7 +1,7 @@
 <L>1004<pc>035<k1>aquatic<k2>aquatic
-<div n="lb"/>{@AQUATIC:@}¦ <div n="I">I Pertaining to water: {#jala#} (in
-<div n="lb"/>comp.): {%a. animal%}: </div><div n="1">(1) {#jalajantuH;#} </div><div n="1">(2) {#yAdasa#}
-<div n="lb"/>(n). </div><div n="I">II Pertaining to water: {#jalacaraH#} {%or%}
-<div n="lb"/>{#jalecaraH#} ({#rI, raM#}). </div><div n="I">III Born in water: </div><div n="1">(1)
-<div n="lb"/>{#jalajaH#} ({#jA, jaM#}); </div><div n="1">(2) {#vArijaH#} ({#jA, jaM#}); etc.</div>
+{@AQUATIC:@}¦ <div n="I">I Pertaining to water: {#jala#} (in
+comp.): {%a. animal%}: </div><div n="1">(1) {#jalajantuH;#} </div><div n="1">(2) {#yAdasa#}
+(n). </div><div n="I">II Pertaining to water: {#jalacaraH#} {%or%}
+{#jalecaraH#} ({#rI, raM#}). </div><div n="I">III Born in water: </div><div n="1">(1)
+{#jalajaH#} ({#jA, jaM#}); </div><div n="1">(2) {#vArijaH#} ({#jA, jaM#}); etc.</div>
 <LEND>

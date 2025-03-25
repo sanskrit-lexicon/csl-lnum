@@ -1,12 +1,12 @@
 <L>7721<pc>334<k1>patron<k2>patron
 {@Patron,@}¦ {%s.%} {#saMBAvayitf#} {%m.,%} {#pAlakaH, upakArakaH#}.
-<div n="lb"/>{#saMvarDakaH, ASrayaH, puraskartf#} {%m.,%} {#rakzakaH, SaraRaM;#}
-<div n="lb"/>{#nATaH, pozakaH, piMqadaH#}. {@-age,@} {%s.%} {#saMBAvanA,#}
-<div n="lb"/>{#ASrayaH, sAhAyyaM, anugrahaH, upakAraH, pAlanaM,#}
-<div n="lb"/>{#pozaRaM, rakzaRaM, saMvarDanaM, avalaMbaH, puraskAraH#}.
-<div n="lb"/>{@-al,@} {%a.%} {#rakzaka, varDaka#}. {@-ize,@} {%v. t.%} {#saM-BU#} c.,
-<div n="lb"/>{#ASrayaM dA#} 3 U, {#prati-anu-pA#} c. ({#pAlayati#}),
-<div n="lb"/>{#anugrah#} 9 P, {#avalaMb#} 1 A, {#saMvfD#} c.; oft.
-<div n="lb"/>by ({%s.%}) with {#BU#} 1 P. {@-less,@} {%a.%} {#nirASraya,#}
-<div n="lb"/>{#anATa, aSaraRa, niravalaMba, nirADAra#}.
+{#saMvarDakaH, ASrayaH, puraskartf#} {%m.,%} {#rakzakaH, SaraRaM;#}
+{#nATaH, pozakaH, piMqadaH#}. {@-age,@} {%s.%} {#saMBAvanA,#}
+{#ASrayaH, sAhAyyaM, anugrahaH, upakAraH, pAlanaM,#}
+{#pozaRaM, rakzaRaM, saMvarDanaM, avalaMbaH, puraskAraH#}.
+{@-al,@} {%a.%} {#rakzaka, varDaka#}. {@-ize,@} {%v. t.%} {#saM-BU#} c.,
+{#ASrayaM dA#} 3 U, {#prati-anu-pA#} c. ({#pAlayati#}),
+{#anugrah#} 9 P, {#avalaMb#} 1 A, {#saMvfD#} c.; oft.
+by ({%s.%}) with {#BU#} 1 P. {@-less,@} {%a.%} {#nirASraya,#}
+{#anATa, aSaraRa, niravalaMba, nirADAra#}.
 <LEND>

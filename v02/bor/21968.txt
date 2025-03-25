@@ -1,7 +1,7 @@
 <L>21968<pc>693<k1>surety<k2>surety
-<div n="lb"/>{@SURETY:@}¦ {#pratiBUH,#} <div n="xe">{%to take s.:%}</div> <div n="xs">{#pratiBUM gfhnAti,#}</div> Mit.;
-<div n="lb"/><div n="xe">{%four kinds of s. ies:%}</div> <div n="xs">{#catuHprakAraH pratiBUH,#}</div> Vri.; <div n="xe">{%to%}
-<div n="lb"/>{%stand s.:%}</div> <div n="xs">{#pratiBUstizWati,#}</div> Kat.; {%to give time to s.:%}
-<div n="lb"/>{#pratiBuve kAlaM dadAti,#} Vri.; <div n="1">(2) {#lagnakaH,#} {%to make s.:%}
-<div n="lb"/>{#lagnakaM kArayati,#} Kat.</div>
+{@SURETY:@}¦ {#pratiBUH,#} <div n="xe">{%to take s.:%}</div> <div n="xs">{#pratiBUM gfhnAti,#}</div> Mit.;
+<div n="xe">{%four kinds of s. ies:%}</div> <div n="xs">{#catuHprakAraH pratiBUH,#}</div> Vri.; <div n="xe">{%to%}
+{%stand s.:%}</div> <div n="xs">{#pratiBUstizWati,#}</div> Kat.; {%to give time to s.:%}
+{#pratiBuve kAlaM dadAti,#} Vri.; <div n="1">(2) {#lagnakaH,#} {%to make s.:%}
+{#lagnakaM kArayati,#} Kat.</div>
 <LEND>

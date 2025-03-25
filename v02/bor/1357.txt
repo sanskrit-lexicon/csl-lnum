@@ -1,4 +1,4 @@
 <L>1357<pc>048<k1>auction<k2>auction
-<div n="lb"/>{@AUCTION:@}¦ {#*AhvAnavikrayaH; sarvoccamUlyadAtre prakASa-#}
-<div n="lb"/>{#vikrayaH,#} <div n="xe">{%A. room%}</div> <div n="xs">{#*AhvAnavikrayagfhaM; AhvAnavikrayaSAlA.#}</div>
+{@AUCTION:@}¦ {#*AhvAnavikrayaH; sarvoccamUlyadAtre prakASa-#}
+{#vikrayaH,#} <div n="xe">{%A. room%}</div> <div n="xs">{#*AhvAnavikrayagfhaM; AhvAnavikrayaSAlA.#}</div>
 <LEND>

@@ -1,7 +1,7 @@
-<L>201893<pc>996,3<k1>vizad<k2>vi-zad<e>1
-<s>vi-zad</s> ¦ (<s>√ sad</s>) <ab>P.</ab> <s>-zIdati</s> (<ab>impf.</ab> <ab>Class.</ab> <s>vy-azIdat</s>, <ab>Ved.</ab> <s>vya-zIdat</s>, or <s>vy-asIdat</s>, <ls>Pāṇ. 8-3, 119</ls>; <ab>pf.</ab> <s>vi-zasAda</s>, <ls>ib. 118</ls>; <ab>inf.</ab> <s>-zattum</s> or <s>-zIditum</s>, <ls>MBh.</ls>), 
+<L>201893<pc>996,2<k1>vizad<k2>vi-zad<e>1
+<s>vi-zad</s> ¦ (√ <s>sad</s>) <ab>P.</ab> <s>-zIdati</s> (<ab>impf.</ab> <lang>Class.</lang> <s>vy-azIdat</s>, <lang>Ved.</lang> <s>vya-zIdat</s>, or <s>vy-asIdat</s>, <ls>Pāṇ. viii, 3, 119</ls>; <ab>pf.</ab> <s>vi-zasAda</s>, <ls>ib.</ls> <ls n="Pāṇ. viii, 3,">118</ls>; <ab>inf.</ab> <s>-zattum</s> or <s>-zIditum</s>, <ls>MBh.</ls>),
 <div n="to"/>to be exhausted or dejected, despond, despair, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to sink down, be immersed in (<ab>loc.</ab>), <ls>R. v, 95, 15</ls> (perhaps <s>vi-zeduH</s> <ab>w.r.</ab> for <s>ni-z°</s>) :
-<div n="to"/><ab>Caus.</ab> <s>-zAdayati</s>, to cause to despond or despair, vex, grieve, afflict, <ls>MBh.</ls>;
+<div n="vp"/><ab>Caus.</ab> <s>-zAdayati</s>, to cause to despond or despair, vex, grieve, afflict, <ls>MBh.</ls>;
 <div n="vp"/> <ab>B.</ab> &c.<info verb="pre" cp="P" parse="vi+sad"/>
 <LEND>

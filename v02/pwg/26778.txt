@@ -1,171 +1,167 @@
 <L>26778<pc>3-0047<k1>jar<k2>jar<h>1
-1. {#jar#}¦ {#(jF), ja/rati#} (nur in der älteren Sprache; partic. {#jarant#} jedoch auch in der späteren) 
-<ls>DHĀTUP. 34, 9.</ls> {#jI/ryati#} (auch {#°te#}) 
-<ls>26, 22.</ls> {#jfRAti#} (nicht zu belegen) 
-<ls>31, 24.</ls> {#jajA/ra, jajarus#} und {#jerus#} 
-<ls>P. 6, 4, 124.</ls> 
-<ls>VOP. 8, 52.</ls> {#ajarat#} und {#ajArIt#} 
-<ls>P. 3, 1, 38.</ls> 
-<ls>VOP. 8, 38.</ls> {#jArizus; jaritA#} und {#jarItA#} 
-<ls>VOP. 11, 2.</ls> {#jaritvA#} und {#jarItvA#} 
-<ls>P. 7, 2, 55.</ls> 
-<ls>VOP. 26, 210.</ls> {#jIrRa#} . Vgl. {#jur#} . 
-<div n="1"> 1) {%gebrechlich werden, in Verfall kommen, sich abnutzen, morsch werden, altern%}: {#na ma^mAra\ na jI^ryati#} 
-<ls>AV. 10, 8, 32.</ls> 
-<ls>TS. 1, 5, 4, 1. 7, 3.</ls> {#mA jA^rizuH sU\raya^H suvra\tAsa^H#} 
-<ls>ṚV. 1, 125, 7.</ls> 
-<ls>BHĀG. P. 9, 19, 16.</ls> {#na mriyeyurna jIryeyuH#} 
-<ls>MBH.3, 13860.</ls>
+1. {#jar#}¦ {#(jF), ja/rati#} (nur in der älteren Sprache; partic. {#jarant#} jedoch auch in der späteren)
+<ls>DHĀTUP. 34,9.</ls> {#jI/ryati#} (auch {#°te#})
+<ls n="DHĀTUP.">26,22.</ls> {#jfRAti#} (nicht zu belegen)
+<ls n="DHĀTUP.">31,24.</ls> {#jajA/ra, jajarus#} und {#jerus#}
+<ls>P. 6,4,124.</ls>
+<ls>VOP. 8,52.</ls> {#ajarat#} und {#ajArIt#}
+<ls>P. 3,1,38.</ls>
+<ls>VOP. 8,38.</ls> {#jArizus; jaritA#} und {#jarItA#}
+<ls>VOP. 11,2.</ls> {#jaritvA#} und {#jarItvA#}
+<ls>P. 7,2,55.</ls>
+<ls>VOP. 26,210.</ls> {#jIrRa#} . Vgl. {#jur#} .
+<div n="1"> 1) {%gebrechlich werden, in Verfall kommen, sich abnutzen, morsch werden, altern%}: {#na ma^mAra\ na jI^ryati#}
+<ls>AV. 10,8,32.</ls>
+<ls>TS. 1,5,4,1. 7,3.</ls> {#mA jA^rizuH sU\raya^H suvra\tAsa^H#}
+<ls>ṚV. 1,125,7.</ls>
+<ls>BHĀG. P. 9,19,16.</ls> {#na mriyeyurna jIryeyuH#}
+<ls>MBH. 3,13860.</ls>
 [Page3-0048]
-{#yAsAM pItvA kila kzIraM na jIryanti mahAsurAH#} 
-<ls>HARIV. 10918.</ls> {#na ca jIryeta kvacit#} 
-<ls>MBH. 1, 5608.</ls> {#dAsye jIryatu#} 
-<ls>13, 4531.</ls> {#jIryanti jIryataH keSA dantA jIryanti jIryataH .. cakzuHSrotre ca jIryete tfzREkA na tu jIryate#} 
-<ls>?367. fg. HARIV. 1643. fg. PAÑCAT. V, 15.</ls> {#jIryate (navAmbaram)#} 
-<ls>VARĀH. BṚH. S. 72, 15.</ls> {#antarikzodaraH koSo BUmibuDno na jIryati#} 
-<ls>CHĀND. UP. 3, 15, 1. 8, 1, 5.</ls> {#jaritveva javenAnye nipetustasya SAKinaH#} 
-<ls>BHAṬṬ. 9, 41.</ls> {#sanA^ BUvandyu\mnAni\ mota jA^rizuH#} 
-<ls>ṚV. 1, 139, 8.</ls> {#jIryanti ha vE juhvato yajamAnasyAgnayaH#} {%sich aufzehren%} 
-<ls>ŚAT. BR. 11, 7, 1, 1.</ls> {#yA (tfzRA) na jIryati jIryataH#} 
-<ls>MBH. 1, 3513. 3, 82. 13, 364.</ls> 
-<ls>BHĀG. P. 9, 19, 16</ls> (med.). {#sOhfdAnyapi jIryante kAlena#} 
-<ls>MBH. 1, 5139.</ls> {#saMgatAnIha jIryanti kAlena#} 
-<ls>5197.</ls> {#kESca saMDirna jIryate#} 
-<ls>3, 17360.</ls> {#jerurASA daSAsyasya#} 
-<ls>BHAṬṬ. 14, 112.</ls> {#ajArIdiva ca prajYA balaM SokAttaTAjarat#} 
-<ls>6, 30.</ls> {#jIryante yena paryAptA IrzyAvizavisUcikAH#} {%durch den sich legten%} (wie das pass. eines trans. construirt; vgl. weiter unten {#jIrRa#}) 
-<ls>RĀJA-TAR. 3, 512.</ls> {#yasmE^ kf\tA Saye\ sa yaSca\kAra^ ja\jAra\ saH#} {%ist alt geworden%} 
-<ls>AV. 10, 8, 26.</ls> {#sA jIrya tvaM mayA saha#} {%werde mit mir alt%} 
-<ls>PĀR. GṚHY. 1, 11.</ls> {#jIryant#} {%alternd%} 
-<ls>KAṬHOP. 1, 28.</ls> 
-<ls>MBH. 1, 3513. 3, 82. 13, 364. 367.</ls> 
-<ls>BHĀG. P. 9, 19, 16.</ls> {#jIryamARa#} dass. 
-<ls>MBH. 7, 5967.</ls> {#ja/rant#} (f. {#jaratI#}) {%gebrechlich, alt, greis%} 
-<ls>P. 3, 2, 104.</ls> 
-<ls>AK. 2, 6, 1, 42.</ls> 
-<ls>H. 339.</ls> kann mit seinem subst. compon. werden 
-<ls>P. 2, 1, 49.</ls> {#jaradupAnahO#} 
-<ls>KAUŚ. 18. 28. 41. 84.</ls> {#ozaDayaH#} {%dürre Reiser%} 
-<ls>ṚV. 9, 112, 2.</ls> {#izIkA#} 
-<ls>AV. 12, 2, 54.</ls> {#jaraddevagfheByaH#} 
-<ls>RĀJA-TAR. 6, 172.</ls> {#jaratkUpa#} {%alte%}, d. h. {%trockene, ungebrauchte Cisterne%} 
-<ls>SUŚR. 2, 543, 15.</ls> {#kimi\daM vA^M purARa\vajjara^toriva Sasyate#} 
-<ls>ṚV. 8, 62, 11.</ls> <ls n="ṚV.">10, 80, 3.</ls> {#yA jara^ntA yuva\SA tAkf^Rotana#} 
-<ls n="ṚV.">1, 161, 7.</ls> <ls n="ṚV. 1,">117, 13.</ls> <ls>AV. 14, 2, 29.</ls> {#aSva#} 
-<ls>ṚV. 10, 34, 3.</ls> {#go#} 
-<ls>P. 2, 1, 49,</ls> 
-<ls>Sch.</ls> {#jaraddAsa#} 
-<ls>ĀŚV. GṚHY. 4, 2.</ls> {#jaradyozA#} 
-<ls>MBH. 3, 10023.</ls> {#jarattApasI#} 
-<ls>DHŪRTAS. 81, 1.</ls> {#jara/tkumArI#} 
-<ls>P. 6, 2, 95,</ls> 
-<ls>Sch.</ls> {#jaratpannaga#} 
-<ls>BHĀG. P. 4, 28, 2.</ls> {%Greis%} 
-<ls>ŚĀK. CH. 91, 12.</ls> 
-<ls>VARĀH. BṚH. S. 75, 12.</ls> {%aus der alten Zeit stammend%} 
-<ls>H. 1449.</ls> {#jaranmImAMsaka#} 
-<ls>SĀH. D. 26, 3</ls>; vgl. {#ajarant#}.{# jIrRa/#} {%gebrechlich, abgelebt, abgenutzt, zerfallen, morsch, dahingegangen, alt%} 
-<ls>P. 3, 2, 104.</ls> 
-<ls>AK. 2, 6, 1, 42. 3, 4, 23, 147.</ls> 
-<ls>H. 340. 1448.</ls> 
-<ls>MED. ṇ. 13.</ls> {#tanu#} 
-<ls>TS. 1, 5, 4, 1.</ls> {#SarIra#} 
-<ls>R. 2, 2, 6.</ls> {#jarAjIrRamimaM deham#} 
-<ls>3, 11, 9.</ls> <ls>BHARTṚ. 1, 89.</ls> {#(dehaH) jIrRo jarayA vAsasIva#} 
-<ls>BHĀG. P. 1, 13, 23.</ls> {#tvaM jI\rRo da\Rqena^ vaYcasi#} 
-<ls>AV. 10, 8, 27.</ls> 
-<ls>BHĀG. P. 9, 22, 13.</ls> {#jAtAH sUryodaye jIrRA Bavanti rajanIkzaye#} 
-<ls>R. 4, 44, 109.</ls> {#tfzRA na jIrRA vayameva jIrRAH#} 
-<ls>BHARTṚ. 3, 8.</ls> {#jIrRaM paSuM vayasApta ityAcakzate#} 
-<ls>ŚAT. BR. 8, 2, 3, 14.</ls> 
-<ls>ŚĀṄKH. ŚR. 14, 12, 6.</ls> von Gewändern 
-<ls>AK. 2, 6, 3, 16.</ls> 
-<ls>TRIK. 2, 6, 23.</ls> 
-<ls>H. 678.</ls> 
-<ls>M. 4, 34. 6, 15. 10, 125.</ls> 
-<ls>BHAG. 2, 22.</ls> 
-<ls>R. 5, 49, 5.</ls> 
-<ls>SUŚR. 1, 105, 6.</ls> 
-<ls>VID. 176.</ls> {#AgAra#} {%baufällig, verfallen%} 
-<ls>SUŚR. 1, 129, 9.</ls> {#devAyatana#} 
-<ls>M. 4, 46.</ls> 
-<ls>MṚCCH. 47, 3.</ls> 
-<ls>PĀṬ. 10</ls> (v. l. {#SIrRa#}). 
-<ls>RĀJA-TAR. 1, 105. 6, 307.</ls> {#Danus#} 
-<ls>BHAṬṬ. 5, 42.</ls> {#jIrRAM tvacamivoragaH (tyajati)#} 
-<ls>R. 3, 9, 32.</ls> {#jIrRamUlo vanaspatiH#} 
-<ls>MBH. 3, 678.</ls> {#SAli#} 
-<ls>SUŚR. 1, 72, 1.</ls> {#latA#} {%welk%} 
-<ls>ŚĀK. 170.</ls> {#parRa#} 
-<ls>MEGH. 30, v. l.</ls> für {#SIrRa#}.{# smarAmi tAni sarvARi bAlye vattAni yAni nO . tAni sarvARi jIrRAni sAMprataM nO raRAjire ..#} 
-<ls>MBH. 7, 8652.</ls> {#jIrRena vayasA#} 
-<ls>14, 2751.</ls> {#sarvAsAM naH suKaM jIrRam#} 
-<ls>R. 4, 19, 9.</ls> 
-<ls>RĀJA-TAR. 1, 229.</ls> {#udyAna#} {%alt%} 
-<ls>M. 9, 265.</ls> 
-<ls>VET. 17, 2.</ls> {#madya#} (im Gegens. zu {%neu, frisch%}) 
-<ls>SUŚR. 1, 190, 19.</ls> {%zu Nichte gemacht von%} (instr.): {#maheSvareRa yo rAjanna jIrRo hyazwamUrtinA . kastamutsahate vIro yudDe jarayituM pumAn ..#} 
-<ls>MBH. 3, 1939.</ls> 
-<div n="1">— 2) {%sich auflösen, verdaut werden%}: {#BuktaM samyaNna jIryati#} 
-<ls>SUŚR. 1, 70, 18. 80, 10. 199, 11.</ls> {#sneho na jIryati#} 
-<ls>2, 178, 18.</ls> <ls>YĀJÑ. 2, 111.</ls> {#jaWare na ca jIryedyaH#} 
-<ls>MBH. 1, 1331.</ls> {#udare cAjarannanye#} 
-<ls>BHAṬṬ. 15, 50.</ls> {#jIryeta#} 
-<ls>SUŚR. 1, 236, 4.</ls> 
-<ls>VARĀH. BṚH. S. 75, 10. 78, 28.</ls> {#jIrRa#}
+{#yAsAM pItvA kila kzIraM na jIryanti mahAsurAH#}
+<ls>HARIV. 10918.</ls> {#na ca jIryeta kvacit#}
+<ls>MBH. 1,5608.</ls> {#dAsye jIryatu#}
+<ls n="MBH.">13,4531.</ls> {#jIryanti jIryataH keSA dantA jIryanti jIryataH .. cakzuHSrotre ca jIryete tfzREkA na tu jIryate#}
+<ls n="MBH. 13,">367. fg.</ls> <ls>HARIV. 1643. fg.</ls> <ls>PAÑCAT. V,15.</ls> {#jIryate (navAmbaram)#}
+<ls>VARĀH. BṚH. S. 72,15.</ls> {#antarikzodaraH koSo BUmibuDno na jIryati#}
+<ls>CHĀND. UP. 3,15,1.</ls> <ls n="CHĀND. UP.">8,1,5.</ls> {#jaritveva javenAnye nipetustasya SAKinaH#}
+<ls>BHAṬṬ. 9,41.</ls> {#sanA^ BUvandyu\mnAni\ mota jA^rizuH#}
+<ls>ṚV. 1,139,8.</ls> {#jIryanti ha vE juhvato yajamAnasyAgnayaH#} {%sich aufzehren%}
+<ls>ŚAT. BR. 11,7,1,1.</ls> {#yA (tfzRA) na jIryati jIryataH#}
+<ls>MBH. 1,3513.</ls> <ls n="MBH.">3,82.</ls> <ls n="MBH.">13,364.</ls>
+<ls>BHĀG. P. 9,19,16</ls> (med.). {#sOhfdAnyapi jIryante kAlena#}
+<ls>MBH. 1,5139.</ls> {#saMgatAnIha jIryanti kAlena#}
+<ls n="MBH. 1,">5197.</ls> {#kESca saMDirna jIryate#}
+<ls n="MBH.">3,17360.</ls> {#jerurASA daSAsyasya#}
+<ls>BHAṬṬ. 14,112.</ls> {#ajArIdiva ca prajYA balaM SokAttaTAjarat#}
+<ls n="BHAṬṬ.">6,30.</ls> {#jIryante yena paryAptA IrzyAvizavisUcikAH#} {%durch den sich legten%} (wie das pass. eines trans. construirt; vgl. weiter unten {#jIrRa#})
+<ls>RĀJA-TAR. 3,512.</ls> {#yasmE^ kf\tA Saye\ sa yaSca\kAra^ ja\jAra\ saH#} {%ist alt geworden%}
+<ls>AV. 10,8,26.</ls> {#sA jIrya tvaM mayA saha#} {%werde mit mir alt%}
+<ls>PĀR. GṚHY. 1,11.</ls> {#jIryant#} {%alternd%}
+<ls>KAṬHOP. 1,28.</ls>
+<ls>MBH. 1,3513.</ls> <ls n="MBH.">3,82.</ls> <ls n="MBH.">13,364.</ls> <ls n="MBH. 13,">367.</ls>
+<ls>BHĀG. P. 9,19,16.</ls> {#jIryamARa#} dass.
+<ls>MBH. 7,5967.</ls> {#ja/rant#} (f. {#jaratI#}) {%gebrechlich, alt, greis%}
+<ls>P. 3,2,104.</ls>
+<ls>AK. 2,6,1,42.</ls>
+<ls>H. 339.</ls> kann mit seinem subst. compon. werden
+<ls>P. 2,1,49.</ls> {#jaradupAnahO#}
+<ls>KAUŚ. 18. 28. 41. 84.</ls> {#ozaDayaH#} {%dürre Reiser%}
+<ls>ṚV. 9,112,2.</ls> {#izIkA#}
+<ls>AV. 12,2,54.</ls> {#jaraddevagfheByaH#}
+<ls>RĀJA-TAR. 6,172.</ls> {#jaratkUpa#} {%alte%}, d. h. {%trockene, ungebrauchte Cisterne%}
+<ls>SUŚR. 2,543,15.</ls> {#kimi\daM vA^M purARa\vajjara^toriva Sasyate#}
+<ls>ṚV. 8,62,11.</ls> <ls n="ṚV.">10,80,3.</ls> {#yA jara^ntA yuva\SA tAkf^Rotana#}
+<ls n="ṚV.">1,161,7.</ls> <ls n="ṚV. 1,">117,13.</ls> <ls>AV. 14,2,29.</ls> {#aSva#}
+<ls>ṚV. 10,34,3.</ls> {#go#}
+<ls>P. 2,1,49</ls>, <ls>Sch.</ls>
+{#jaraddAsa#}
+<ls>ĀŚV. GṚHY. 4,2.</ls> {#jaradyozA#}
+<ls>MBH. 3,10023.</ls> {#jarattApasI#}
+<ls>DHŪRTAS. 81,1.</ls> {#jara/tkumArI#}
+<ls>P. 6,2,95</ls>, <ls>Sch.</ls>
+{#jaratpannaga#}
+<ls>BHĀG. P. 4,28,2.</ls> {%Greis%}
+<ls>ŚĀK. CH. 91,12.</ls>
+<ls>VARĀH. BṚH. S. 75,12.</ls> {%aus der alten Zeit stammend%}
+<ls>H. 1449.</ls> {#jaranmImAMsaka#}
+<ls>SĀH. D. 26,3</ls>; vgl. {#ajarant#}.{# jIrRa/#} {%gebrechlich, abgelebt, abgenutzt, zerfallen, morsch, dahingegangen, alt%}
+<ls>P. 3,2,104.</ls>
+<ls>AK. 2,6,1,42.</ls> <ls n="AK.">3,4,23,147.</ls>
+<ls>H. 340.</ls> <ls n="H.">1448.</ls>
+<ls>MED. ṇ. 13.</ls> {#tanu#}
+<ls>TS. 1,5,4,1.</ls> {#SarIra#}
+<ls>R. 2,2,6.</ls> {#jarAjIrRamimaM deham#}
+<ls n="R.">3,11,9.</ls> <ls>BHARTṚ. 1,89.</ls> {#(dehaH) jIrRo jarayA vAsasIva#}
+<ls>BHĀG. P. 1,13,23.</ls> {#tvaM jI\rRo da\Rqena^ vaYcasi#}
+<ls>AV. 10,8,27.</ls>
+<ls>BHĀG. P. 9,22,13.</ls> {#jAtAH sUryodaye jIrRA Bavanti rajanIkzaye#}
+<ls>R. 4,44,109.</ls> {#tfzRA na jIrRA vayameva jIrRAH#}
+<ls>BHARTṚ. 3,8.</ls> {#jIrRaM paSuM vayasApta ityAcakzate#}
+<ls>ŚAT. BR. 8,2,3,14.</ls>
+<ls>ŚĀṄKH. ŚR. 14,12,6.</ls> von Gewändern
+<ls>AK. 2,6,3,16.</ls>
+<ls>TRIK. 2,6,23.</ls>
+<ls>H. 678.</ls>
+<ls>M. 4,34.</ls> <ls n="M.">6,15.</ls> <ls n="M.">10,125.</ls>
+<ls>BHAG. 2,22.</ls>
+<ls>R. 5,49,5.</ls>
+<ls>SUŚR. 1,105,6.</ls>
+<ls>VID. 176.</ls> {#AgAra#} {%baufällig, verfallen%}
+<ls>SUŚR. 1,129,9.</ls> {#devAyatana#}
+<ls>M. 4,46.</ls>
+<ls>MṚCCH. 47,3.</ls>
+<ls>PĀṬ. 10</ls> (v. l. {#SIrRa#}).
+<ls>RĀJA-TAR. 1,105. 6,307.</ls> {#Danus#}
+<ls>BHAṬṬ. 5,42.</ls> {#jIrRAM tvacamivoragaH (tyajati)#}
+<ls>R. 3,9,32.</ls> {#jIrRamUlo vanaspatiH#}
+<ls>MBH. 3,678.</ls> {#SAli#}
+<ls>SUŚR. 1,72,1.</ls> {#latA#} {%welk%}
+<ls>ŚĀK. 170.</ls> {#parRa#}
+<ls>MEGH. 30, v. l.</ls> für {#SIrRa#}.{# smarAmi tAni sarvARi bAlye vattAni yAni nO . tAni sarvARi jIrRAni sAMprataM nO raRAjire ..#}
+<ls>MBH. 7,8652.</ls> {#jIrRena vayasA#}
+<ls n="MBH.">14,2751.</ls> {#sarvAsAM naH suKaM jIrRam#}
+<ls>R. 4,19,9.</ls>
+<ls>RĀJA-TAR. 1,229.</ls> {#udyAna#} {%alt%}
+<ls>M. 9,265.</ls>
+<ls>VET. 17,2.</ls> {#madya#} (im Gegens. zu {%neu, frisch%})
+<ls>SUŚR. 1,190,19.</ls> {%zu Nichte gemacht von%} (instr.): {#maheSvareRa yo rAjanna jIrRo hyazwamUrtinA . kastamutsahate vIro yudDe jarayituM pumAn ..#}
+<ls>MBH. 3,1939.</ls>
+<div n="1">— 2) {%sich auflösen, verdaut werden%}: {#BuktaM samyaNna jIryati#}
+<ls>SUŚR. 1,70,18. 80,10. 199,11.</ls> {#sneho na jIryati#}
+<ls n="SUŚR.">2,178,18.</ls> <ls>YĀJÑ. 2,111.</ls> {#jaWare na ca jIryedyaH#}
+<ls>MBH. 1,1331.</ls> {#udare cAjarannanye#}
+<ls>BHAṬṬ. 15,50.</ls> {#jIryeta#}
+<ls>SUŚR. 1,236,4.</ls>
+<ls>VARĀH. BṚH. S. 75,10. 78,28.</ls> {#jIrRa#}
 [Page3-0049]
-{%verdaut%} Med. ṇ. 
-<ls>13.</ls> <ls>SUŚR. 1, 136, 18. 165, 8. 2, 178, 20. 195, 6.</ls> <ls>CĀṆ. 79.</ls> <ls>HIT. I, 19.</ls> {#tasmAjjIrRo Baveha me#} 
-<ls>R. 3, 49, 52.</ls> 
-<ls>HARIV. 11367.</ls> {#mayA jIrRastu so 'suraH#} {%von mir verdaut%} 
-<ls>MBH. 3, 8623.</ls> {#jIrRaSca yenAsuraH#} 
-<ls>VARĀH. BṚH. S. 12, 2.</ls> 
-<div n="1">— 3) {%gebrechlich —, alt machen%}: {#na yaM jara^nti Sa\rado\ na mAsA^H#} 
-<ls>ṚV. 6, 24, 7.</ls> {%alt werden lassen%}: {#Da\ttaM ratnA^ni\ jara^taM ca sU\rIn#} 
-<ls n="ṚV.">7, 67, 10.</ls> {#jar (jf), ja/rati#} {%unterwerfen, demüthigen%} ({#nyakkAre#}) 
-<ls>KAVIKALPADR.</ls> im <ls>ŚKDR.</ls> — caus. {#jarayati#} (ep. auch {#°te#}) 
-<ls>DHĀTUP. 19, 64.</ls> 
-<ls>VOP. 18, 22.</ls> 
-<div n="1"> 1) {%aufreiben, abnutzen, verzehren, altern machen%}: {#marta^sya de\vI ja\raya\ntyAyu^H#} 
-<ls>ṚV. 1, 92, 10.</ls> {#jA\raya^ntI#} (<is>Padap</is>. {#jara°#}) 
-<ls n="ṚV. 1,">124, 10.</ls> {#u\zaso^ ja\raya^ntIH#} 
-<ls n="ṚV. 1,">179, 1.</ls> <ls n="ṚV.">7, 75, 5.</ls> {#ajI^rRA\ tvaM ja^rayasi\ sarva^manyat#} 
-<ls>TS. 4, 3, 11, 5.</ls> {#(agniH) a\ju\ryo ja\raya^nna\rim#} 
-<ls>ṚV. 2, 8, 2.</ls> <ls n="ṚV. 2,">16, 1.</ls> <ls n="ṚV.">1, 48, 5.</ls> {#sarvendriyARAM jarayanti tejaH#} 
-<ls>KAṬHOP. 1, 26.</ls> {#ye - tapasi prasaktAH - jarapanti dehAn#} 
-<ls>MBH. 3, 12646.</ls> {#jarAjaritasarvANga#} 
-<ls>HARIV. 15988.</ls> 
-<ls>R. 2, 2, 5.</ls> {#jarAntarjaritEH pattrEH#} 
-<ls>3, 22, 25.</ls> {#vyaktaM hi jIryamARo 'pi budDiM jarayate naraH#} 
-<ls>MBH. 7, 5967.</ls> {#kastamutsahate vIro yudDe jarayituM pumAn#} so v. a. {%klein kriegen%} 
-<ls>3, 1939.</ls> {#jarayatyASu yA kozaM nigIrRamanalo yaTA#} 
-<ls>BHĀG. P. 3, 25, 33.</ls> {#neyaM jarayituM SakyA sAsurEramarErapi . vizasaMsfzwamatyarTaM BuktamannamivOjasA ..#} 
-<ls>R. 5, 47, 24.</ls> In den beiden letzten Beispielen {%aufzehren, klein kriegen%} und auch {%verdaut werden lassen.%} 
-<div n="1">— 2) {%verdauen, machen dass Etwas verdaut wird%}: {#jarayAmAsa tat (vizam) - sahAnnena#} 
-<ls>MBH. 1, 2240.</ls> {#(enam) saMBakzya jarayizyAmi yaTAgastyo mahAsuram#} 
-<ls>3, 422. 13, 4374. 4381.</ls> {#yaTA hi balavAnkaScidAhArAndviguRAnapi . BuNktvA jarayate#} 
-<ls>R. 5, 84, 12.</ls> {#tena (pAdapena) tajjalamAdattaM jarayatyagnimArutO#} 
-<ls>MBH. 12, 6838.</ls> {#agnirjarayate yacca#} 
-<ls>6841.</ls> — {#jAra/yati#} {%altern%} (!) 
-<ls>DHĀTUP. 34, 9.</ls>
-
-<div n="p">— {#anu#} {%nach, durch Jmd gebrechlich werden, - sich abnutzen, - altern%}: {#anujIrRo vfzalIM devadattaH . anujIrRA vfzalI devadattena, anujIrRaM devadattena#} 
-<ls>P. 3, 4, 72,</ls> 
-<ls>Sch.</ls> {#viSvamanujIrRo 'nantaH#} 
-<ls>VOP. 26, 129.</ls>
-
-<div n="p">— {#nis#} caus. {%zerreiben, zermalmen%}: {#girirAwpAdacArIva padByAM nirjarayanmahIm#} 
-<ls>BHĀG. P. 6, 12, 29.</ls>
-
-<div n="p">— {#pari#} 
-<div n="1"> 1) {%sich abnutzen, altern%}: {#vAsAMsi parijIrRAni#} 
-<ls>MBH. 4, 332.</ls> {#parijIrRaM pattraSAkam#} {%welk, alt%} 
-<ls>SUŚR. 1, 224, 20.</ls> {#parijIryant#} {%alternd%} 
-<ls>MBH. 1, 5139. 5197.</ls> 
-<div n="1">— 2) {%verdaut werden%}: {#parijIryati#} 
-<ls>SUŚR. 2, 178, 14. 12.</ls> {#°yeta#} 
-<ls>6. 8. 10.</ls>
-
-<div n="p">— {#pra#} {%verdaut werden%}: {#suKamannaM prajIryati#} 
-<ls>SUŚR. 1, 239, 1. 244, 16.</ls>
+{%verdaut%} Med. ṇ.
+<ls n="VARĀH. BṚH. S.">13.</ls> <ls>SUŚR. 1,136,18. 165,8. 2,178,20. 195,6.</ls> <ls>CĀṆ. 79.</ls> <ls>HIT. I,19.</ls> {#tasmAjjIrRo Baveha me#}
+<ls>R. 3,49,52.</ls>
+<ls>HARIV. 11367.</ls> {#mayA jIrRastu so 'suraH#} {%von mir verdaut%}
+<ls>MBH. 3,8623.</ls> {#jIrRaSca yenAsuraH#}
+<ls>VARĀH. BṚH. S. 12,2.</ls>
+<div n="1">— 3) {%gebrechlich —, alt machen%}: {#na yaM jara^nti Sa\rado\ na mAsA^H#}
+<ls>ṚV. 6,24,7.</ls> {%alt werden lassen%}: {#Da\ttaM ratnA^ni\ jara^taM ca sU\rIn#}
+<ls n="ṚV.">7,67,10.</ls> {#jar (jf), ja/rati#} {%unterwerfen, demüthigen%} ({#nyakkAre#})
+<ls>KAVIKALPADR.</ls> im <ls>ŚKDR.</ls> — caus. {#jarayati#} (ep. auch {#°te#})
+<ls>DHĀTUP. 19,64.</ls>
+<ls>VOP. 18,22.</ls>
+<div n="1"> 1) {%aufreiben, abnutzen, verzehren, altern machen%}: {#marta^sya de\vI ja\raya\ntyAyu^H#}
+<ls>ṚV. 1,92,10.</ls> {#jA\raya^ntI#} (<is>Padap</is>. {#jara°#})
+<ls n="ṚV. 1,">124,10.</ls> {#u\zaso^ ja\raya^ntIH#}
+<ls n="ṚV. 1,">179,1.</ls> <ls n="ṚV.">7,75,5.</ls> {#ajI^rRA\ tvaM ja^rayasi\ sarva^manyat#}
+<ls>TS. 4,3,11,5.</ls> {#(agniH) a\ju\ryo ja\raya^nna\rim#}
+<ls>ṚV. 2,8,2.</ls> <ls n="ṚV. 2,">16,1.</ls> <ls n="ṚV.">1,48,5.</ls> {#sarvendriyARAM jarayanti tejaH#}
+<ls>KAṬHOP. 1,26.</ls> {#ye — tapasi prasaktAH — jarapanti dehAn#}
+<ls>MBH. 3,12646.</ls> {#jarAjaritasarvANga#}
+<ls>HARIV. 15988.</ls>
+<ls>R. 2,2,5.</ls> {#jarAntarjaritEH pattrEH#}
+<ls n="R.">3,22,25.</ls> {#vyaktaM hi jIryamARo 'pi budDiM jarayate naraH#}
+<ls>MBH. 7,5967.</ls> {#kastamutsahate vIro yudDe jarayituM pumAn#} so v. a. {%klein kriegen%}
+<ls n="MBH.">3,1939.</ls> {#jarayatyASu yA kozaM nigIrRamanalo yaTA#}
+<ls>BHĀG. P. 3,25,33.</ls> {#neyaM jarayituM SakyA sAsurEramarErapi . vizasaMsfzwamatyarTaM BuktamannamivOjasA ..#}
+<ls>R. 5,47,24.</ls> In den beiden letzten Beispielen {%aufzehren, klein kriegen%} und auch {%verdaut werden lassen.%}
+<div n="1">— 2) {%verdauen, machen dass Etwas verdaut wird%}: {#jarayAmAsa tat (vizam) — sahAnnena#}
+<ls>MBH. 1,2240.</ls> {#(enam) saMBakzya jarayizyAmi yaTAgastyo mahAsuram#}
+<ls n="MBH.">3,422.</ls> <ls n="MBH.">13,4374.</ls> <ls n="MBH. 13,">4381.</ls> {#yaTA hi balavAnkaScidAhArAndviguRAnapi . BuNktvA jarayate#}
+<ls>R. 5,84,12.</ls> {#tena (pAdapena) tajjalamAdattaM jarayatyagnimArutO#}
+<ls>MBH. 12,6838.</ls> {#agnirjarayate yacca#}
+<ls n="MBH. 12,">6841.</ls> — {#jAra/yati#} {%altern%} (!)
+<ls>DHĀTUP. 34,9.</ls>
+<div n="p">— {#anu#} {%nach, durch Jmd gebrechlich werden, — sich abnutzen, — altern%}: {#anujIrRo vfzalIM devadattaH . anujIrRA vfzalI devadattena, anujIrRaM devadattena#}
+<ls>P. 3,4,72</ls>, <ls>Sch.</ls>
+{#viSvamanujIrRo 'nantaH#}
+<ls>VOP. 26,129.</ls>
+<div n="p">— {#nis#} caus. {%zerreiben, zermalmen%}: {#girirAwpAdacArIva padByAM nirjarayanmahIm#}
+<ls>BHĀG. P. 6,12,29.</ls>
+<div n="p">— {#pari#}
+<div n="1"> 1) {%sich abnutzen, altern%}: {#vAsAMsi parijIrRAni#}
+<ls>MBH. 4,332.</ls> {#parijIrRaM pattraSAkam#} {%welk, alt%}
+<ls>SUŚR. 1,224,20.</ls> {#parijIryant#} {%alternd%}
+<ls>MBH. 1,5139.</ls> <ls n="MBH. 1,">5197.</ls>
+<div n="1">— 2) {%verdaut werden%}: {#parijIryati#}
+<ls>SUŚR. 2,178,14. 12.</ls> {#°yeta#}
+<ls n="SUŚR.">6. 8. 10.</ls>
+<div n="p">— {#pra#} {%verdaut werden%}: {#suKamannaM prajIryati#}
+<ls>SUŚR. 1,239,1. 244,16.</ls>
 <LEND>

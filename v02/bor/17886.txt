@@ -1,7 +1,7 @@
 <L>17886<pc>548<k1>profit<k2>profit
-<div n="lb"/>{@PROFIT@}¦ (v. i.): <div n="I">I To gain: expr. with {#lABaH#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#upakAraH.#}</div> </div><div n="I">II To take advantage of: expr.
-<div n="lb"/>with {#laBate#} ({#laB,#} c. 1.), <div n="xe">{%p. ing by the oppor-%}
-<div n="lb"/>{%tunity:%}</div> <div n="xs">{#avasaraMlabDvA.#}</div> </div><div n="I">III To bring good:
-<div n="lb"/>{#SuBam Avahati.#}</div>
+{@PROFIT@}¦ (v. i.): <div n="I">I To gain: expr. with {#lABaH#}
+<div n="xe">{%or%}</div> <div n="xs">{#upakAraH.#}</div> </div><div n="I">II To take advantage of: expr.
+with {#laBate#} ({#laB,#} c. 1.), <div n="xe">{%p. ing by the oppor-%}
+{%tunity:%}</div> <div n="xs">{#avasaraMlabDvA.#}</div> </div><div n="I">III To bring good:
+{#SuBam Avahati.#}</div>
 <LEND>

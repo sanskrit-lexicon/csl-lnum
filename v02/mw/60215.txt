@@ -1,3 +1,3 @@
-<L>60215<pc>332,1<k1>kzora<k2>kzora<h>a<e>2
-<s>kzora</s> <hom>a</hom> ¦ <lex>m.</lex> the act of shaving, <ls>Vop.</ls> (<ls>Dhātup. xxviii, 52</ls>). <info westergaard="Kura,28.52,06.0051"/><info lex="m"/>
+<L>60215<pc>332,1<k1>kzora<k2>kzora<e>2
+<s>kzora</s> ¦ <lex>m.</lex> the act of shaving, <ls>Vop.</ls> (<ls>Dhātup. xxviii, 52</ls>). <info westergaard="Kura,28.52,06.0051"/><info lex="m"/><info hui="a"/>
 <LEND>

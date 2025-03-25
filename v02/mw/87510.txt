@@ -1,5 +1,5 @@
 <L>87510<pc>457,3<k1>tras<k2>tras<h>2<e>1
-<hom>2.</hom> <s>tras</s> ¦ <ab>cl.</ab> 1. <s>tra/sati</s> (<ls>Pāṇ. 3-1, 70</ls>), <ab>cl.</ab> 4. <s>trasyati</s> (<ls>MBh.</ls> &c.; <ab>ep.</ab> also <ab>Ā.</ab>; <ab>pf.</ab> 3. <s>tatrasur</s> [<ls>BhP. vi</ls>] or <s>tresur</s> [<ls>Devīm. ix, 21</ls>] <ls>Pāṇ. 6-4, 124</ls>) 
-<div n="to"/>to tremble, quiver, be afraid of (<ab>abl.</ab> <ab>gen.</ab>, rarely <ab>instr.</ab>), <ls>RV. vi, 14, 4</ls> and (<ab>p.</ab> <lex type="part">f.</lex> <s>tara/santI</s>), <ls>x, 85, 8</ls>; <ls>AV. v, 21, 8</ls>; <ls>ŚBr.</ls> &c.:
-<div n="to"/><ab>Caus.</ab> <s>trAsayati</s> (<ab>ep.</ab> also <ab>Ā.</ab>) to cause to tremble, frighten, scare, <ls>MBh.</ls> &c.; <info whitneyroots="tras,67"/><info verb="genuineroot" cp="1,4Ā"/>
+<hom>2.</hom> <s>tras</s> ¦ <ab>cl.</ab> 1. <s>tra/sati</s> (<ls>Pāṇ. iii, 1, 70</ls>), <ab>cl.</ab> 4. <s>trasyati</s> (<ls>MBh.</ls> &c.; <lang>ep.</lang> also <ab>Ā.</ab>; <ab>pf.</ab> 3. <s>tatrasur</s> [<ls>BhP. vi</ls>] or <s>tresur</s> [<ls>Devīm. ix, 21</ls>] <ls>Pāṇ. vi, 4, 124</ls>)
+<div n="to"/>to tremble, quiver, be afraid of (<ab>abl.</ab> <ab>gen.</ab>, rarely <ab>instr.</ab>), <ls>RV. vi, 14, 4</ls> and (<ab>p.</ab> <lex type="part">f.</lex> <s>tara/santI</s>), <ls n="RV.">x, 85, 8</ls>; <ls>AV. v, 21, 8</ls>; <ls>ŚBr.</ls> &c.:
+<div n="vp"/><ab>Caus.</ab> <s>trAsayati</s> (<lang>ep.</lang> also <ab>Ā.</ab>) to cause to tremble, frighten, scare, <ls>MBh.</ls> &c.; <info whitneyroots="tras,67"/><info verb="genuineroot" cp="1,4Ā"/>
 <LEND>

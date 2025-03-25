@@ -1,18 +1,17 @@
 <L>25152<pc>2-0988<k1>cAturhotra<k2>cAturhotra
-{#cAturhotra#}¦ (von {#catur + hotar#}) 
-<div n="1"> 1) <lex>adj.</lex> {%von den 4 Hauptpriestern%} ({#hotar, aDvaryu, brahman, udgAtar#}) {%geleitet, von ihnen vollbracht%}: {#citi#} 
-<ls>Ind. St. 3, 380. 1, 75.</ls> {#karman#} 
-<ls>BHĀG. P. 1, 4, 19.</ls> Gewöhnlich subst. <lex>n.</lex> {%ein von 4 Priestern geleitetes Opfer%}: {#°pravartaka#} 
-<ls>MBH. 12, 10420.</ls> 
-<ls>HARIV. 10404.</ls> {#°PalASana#} 
-<ls>3772.</ls> {#°viDAna#} 
-<ls>MBH. 14, 728.</ls> {#°viDi#} 
-<ls>BHĀG. P. 5, 7, 5.</ls> {%die Functionen der 4 Hauptpriester%} 
-<ls>MBH. 12, 1574. 1837.</ls> 
-<ls>BHĀG. P. 2, 6, 24. 3, 12, 35. 13, 34.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%die 4 Hauptpriester%}: {#cAturhotraM ca DUryA me#} 
-<ls>MBH. 5, 2307.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 13, 41.</ls> 
-<ls>BHĀG. P. 4, 24, 37.</ls>
+{#cAturhotra#}¦ (von {#catur + hotar#})
+<div n="1"> 1) <lex>adj.</lex> {%von den 4 Hauptpriestern%} ({#hotar, aDvaryu, brahman, udgAtar#}) {%geleitet, von ihnen vollbracht%}: {#citi#}
+<ls>Ind. St. 3,380. 1,75.</ls> {#karman#}
+<ls>BHĀG. P. 1,4,19.</ls> Gewöhnlich subst. <lex>n.</lex> {%ein von 4 Priestern geleitetes Opfer%}: {#°pravartaka#}
+<ls>MBH. 12,10420.</ls>
+<ls>HARIV. 10404.</ls> {#°PalASana#}
+<ls n="HARIV.">3772.</ls> {#°viDAna#}
+<ls>MBH. 14,728.</ls> {#°viDi#}
+<ls>BHĀG. P. 5,7,5.</ls> {%die Functionen der 4 Hauptpriester%}
+<ls>MBH. 12,1574.</ls> <ls n="MBH. 12,">1837.</ls>
+<ls>BHĀG. P. 2,6,24.</ls> <ls n="BHĀG. P.">3,12,35.</ls> <ls n="BHĀG. P. 3,">13,34.</ls>
+<div n="1">— 2) <lex>n.</lex> {%die 4 Hauptpriester%}: {#cAturhotraM ca DUryA me#}
+<ls>MBH. 5,2307.</ls>
+<ls>R. GORR. 1,13,41.</ls>
+<ls>BHĀG. P. 4,24,37.</ls>
 <LEND>

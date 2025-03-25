@@ -1,4 +1,4 @@
 <L>143<pc>0015<k1>aNgya<k2>a/Ngya
-({@áṅgya@})¦, {@áṅgia,@} a., in den Gliedern (áṅga) befindlich.
-<div n="P1">-ās [<ab>m.</ab>] sūcī́kās {191,7} (neben áṃsiās).
+<chg type="chg" n="6" src="gra"><old>{@(ángya),@}</old><new>{@(áṅgya),@}</new></chg> {@áṅgia,@}¦ <ab>a.</ab>, in den Gliedern (áṅga) befindlich.
+<div n="TS">-ās [<ab>m.</ab>] sūcī́kās {191,7} (neben áṃsiās).
 <LEND>

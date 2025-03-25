@@ -1,3 +1,3 @@
-<L>54183<pc>301,3<k1>kftena<k2>kfte/na<h>a<e>2C
-<s>kfte/na</s> <hom>a</hom> ¦ <lex>ind.</lex> <ab>instr.</ab> <ab>id.</ab>, <ls>MBh.</ls>; <ls>R. i, 76, 6 and vi, 85, 10.</ls><info lex="ind"/>
+<L>54183<pc>301,3<k1>kftena<k2>kfte/na<e>2C
+<s>kfte/na</s> ¦ (<s>ena</s>), <lex>ind.</lex> <ab>instr.</ab> <ab>id.</ab>, <ls>MBh.</ls>; <ls>R. i, 76, 6</ls> and <ls n="R.">vi, 85, 10.</ls><info lex="ind"/><info hui="a"/>
 <LEND>

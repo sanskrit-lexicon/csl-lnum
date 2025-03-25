@@ -1,12 +1,12 @@
 <L>10555<pc>475<k1>treasure<k2>treasure
 {@Treasure,@}¦ {%s.%} {#koSaH-zaH, niDiH, niDAnaM, dravya-#}
-<div n="lb"/>{#-saMcayaH-rASiH-saMgrahaH#}. {@2@} {#vittaM, DanaM, BAMqaM,#}
-<div n="lb"/>{#draviRaM;#} {%See%} {@Wealth.@} {%-v. t.%} {#saM-ci#} 5 U,
-<div n="lb"/>{#rASIkf#} 8 U, {#ni-upa-DA#} 3 U; {%See%} {@Store;@}
-<div n="lb"/>‘t. in the heart’ {#hfdi upa-ni-DA, avaDf#}
-<div n="lb"/>10, {#citte kf#}. {@-er,@} {%s.%} {#koSADyakzaH-aDISaH,#}
-<div n="lb"/>{#kozagfhe niyuktaH, arTADikArin#} {%m.,%} {#DanA-#}
-<div n="lb"/>{#-DyakzaH, kanakADyakzaH, BOrikaH#} (gold t.);
-<div n="lb"/>{#rUpyADyakzaH, nEzkikaH#} (silver t.). {@-y,@} {%s.%}
-<div n="lb"/>{#kozAgAraM, koSaH-zaH, BAMqAgAraM, koSagfhaM#}.
+{#-saMcayaH-rASiH-saMgrahaH#}. {@2@} {#vittaM, DanaM, BAMqaM,#}
+{#draviRaM;#} {%See%} {@Wealth.@} {%-v. t.%} {#saM-ci#} 5 U,
+{#rASIkf#} 8 U, {#ni-upa-DA#} 3 U; {%See%} {@Store;@}
+‘t. in the heart’ {#hfdi upa-ni-DA, avaDf#}
+10, {#citte kf#}. {@-er,@} {%s.%} {#koSADyakzaH-aDISaH,#}
+{#kozagfhe niyuktaH, arTADikArin#} {%m.,%} {#DanA-#}
+{#-DyakzaH, kanakADyakzaH, BOrikaH#} (gold t.);
+{#rUpyADyakzaH, nEzkikaH#} (silver t.). {@-y,@} {%s.%}
+{#kozAgAraM, koSaH-zaH, BAMqAgAraM, koSagfhaM#}.
 <LEND>

@@ -1,3 +1,3 @@
-<L>179972<pc>890,1<k1>romaka<k2>romaka<h>3b<e>2
-<s>romaka</s> <hom>3b</hom> ¦ <lex>n.</lex> hair (= <s>roman</s>), <ls>Hcat.</ls> (<ab>esp.</ab> <ab>ifc.</ab> <lex type="hwifc">f(<s>ikA</s>). </lex>). <info lex="f#ikA:n"/>
+<L>179972<pc>890,1<k1>romaka<k2>romaka<h>3<e>2
+<hom>3.</hom> <s>romaka</s> ¦ <lex>n.</lex> hair (= <s>roman</s>), <ls>Hcat.</ls> (<ab>esp.</ab> <ab>ifc.</ab> <lex type="hwifc">f(<s>ikA</s>). </lex>). <info lex="f#ikA:n"/>
 <LEND>

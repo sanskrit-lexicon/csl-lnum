@@ -1,7 +1,7 @@
 <L>1029<pc>035<k1>bird<k2>bird
 {@Bird,@}¦ {%s.%} {#vihagaH, vihaMgaH, -gamaH, pakzin#} {%m.,%}
-<div n="lb"/>{#KagaH, SakuMtaH, patatrin#} {%m.,%} {#garutmat#} {%m.,%} {#dvijaH,#}
-<div n="lb"/>{#patrin#} {%m.,%} {#SakuMtiH, aMqajaH, pataMgaH, SakuniH;#}
-<div n="lb"/>‘bird's eye view’ {#uccasTAnAdAlokanaM,#}
-<div n="lb"/>{#sTUladarSanaM, asUkzmadfzwiH#}.
+{#KagaH, SakuMtaH, patatrin#} {%m.,%} {#garutmat#} {%m.,%} {#dvijaH,#}
+{#patrin#} {%m.,%} {#SakuMtiH, aMqajaH, pataMgaH, SakuniH;#}
+‘bird's eye view’ {#uccasTAnAdAlokanaM,#}
+{#sTUladarSanaM, asUkzmadfzwiH#}.
 <LEND>

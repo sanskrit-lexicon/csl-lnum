@@ -1,37 +1,37 @@
 <L>8127<pc>1-0609<k1>Aji<k2>Aji/
-{#Aji/#}¦ (von {#aj#}) <lex>f.</lex> 
-<ls>P. 3, 3, 108, <is>Vārtt</is>. 6.</ls> 
-<ls>Uṇ. 4, 132.</ls> 
-<ls>TRIK. 3, 5, 1.</ls> 
-<div n="1"> 1) {%Wettlauf, Wettkampf, Kampf%} überh. 
-<ls>NAIGH. 2, 17.</ls> 
-<ls>NIR. 9, 23.</ls> 
-<ls>AK. 2, 8, 2, 74. 3, 4, 34. 95.</ls> 
-<ls>H. 797.</ls> 
-<ls>an. 2, 66.</ls> 
-<ls>MED. j. 3.</ls> <ls>SIDDH. K. 251</ls>, {%a%}, 6. ({#raTaM#}) {#pu\ro\yAvA^namA\jizu^#} 
-<ls>ṚV. 5, 35, 7.</ls> {#A\jiM na ja^gmurgirvAho\ aSvA^H#} 
-<ls n="ṚV.">6, 24, 6.</ls> {#taM tvayA\jiM sO^Srava\saM ja^yema#} 
-<ls n="ṚV.">7, 98, 4.</ls> <ls n="ṚV.">4, 20, 3.</ls> <ls n="ṚV. 4,">16, 19.</ls> <ls n="ṚV. 4,">17, 9.</ls> <ls n="ṚV. 4,">42, 5.</ls> <ls n="ṚV. 4,">58, 10.</ls> <ls>u.s.w.</ls> <ls>AV. 2, 14, 5. 6, 92, 2.</ls> In den 
-<ls>BRĀHMAṆA</ls> häufig mit {#aj, i, DAv, sar#} {%einen Wettlauf anstellen%}: {#ta AjimayustezAmAjiM yatAmaBisfzwAnAM vAyurmuKaM praTamaH pratyapadyata#} 
-<ls>AIT. BR. 2, 25. 4, 27.</ls> {#AjimevAsminnajAmahE#} 
-<ls>ŚAT. BR. 2, 4, 3, 4. 5, 1, 1, 3. 4, 1.</ls> {#AjiM hi sarzyanto Bavanti#} 
-<ls>15. 6, 1, 2, 12. 7, 1, 2, 1.</ls> <ls>KĀTY. ŚR. 14, 3, 21.</ls> <ls>ĀŚV. ŚR. 9, 9.</ls> {#AjeH saraRam#} {%Anstellung eines Wettlaufes%} 
-<ls>CHĀND. UP. 1, 3, 5.</ls> {#Ajisf/t#} 
-<ls>ŚAT. BR. 5, 1, 5, 10. 28. 11, 1, 2, 13.</ls> {#AjO#} {%im Kampfe%} 
-<ls>MBH. 3, 772.</ls> 
-<ls>ARJ. 10, 74.</ls> 
-<ls>R. 1, 29, 3. 3, 26, 18. 59, 24.</ls> 
-<ls>RAGH. 12, 45.</ls> {#AjiSiras#} {%Vordertreffen%} 
-<ls>MBH. 3, 16479.</ls> 
-<div n="1">— 2) {%Rennbahn%}: {#dI\rGaM yadA\jima\ByaKya^da\ryaH#} 
-<ls>ṚV. 4, 24, 8.</ls> {#taM tvA^ paSyanti pari\yAnta^mA\jim#} 
-<ls>AV. 13, 2, 4.</ls> {%ebener Boden%} 
-<ls>AK. 3, 4, 34.</ls> 
-<ls>H. an. 2, 66.</ls> 
-<ls>MED. j. 3.</ls> 
-<div n="1">— 3) {%Tadel%} ({#Akzepa#}) 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 4) {%Augenblick%} 
+{#Aji/#}¦ (von {#aj#}) <lex>f.</lex>
+<ls>P. 3,3,108</ls>, <is>Vārtt</is>. 6.
+<ls>Uṇ. 4,132.</ls>
+<ls>TRIK. 3,5,1.</ls>
+<div n="1"> 1) {%Wettlauf, Wettkampf, Kampf%} überh.
+<ls>NAIGH. 2,17.</ls>
+<ls>NIR. 9,23.</ls>
+<ls>AK. 2,8,2,74.</ls> <ls n="AK.">3,4,34.</ls> <ls n="AK. 3,4,">95.</ls>
+<ls>H. 797.</ls>
+<ls>an. 2,66.</ls>
+<ls>MED. j. 3.</ls> <ls>SIDDH. K. 251,a,6.</ls> ({#raTaM#}) {#pu\ro\yAvA^namA\jizu^#}
+<ls>ṚV. 5,35,7.</ls> {#A\jiM na ja^gmurgirvAho\ aSvA^H#}
+<ls n="ṚV.">6,24,6.</ls> {#taM tvayA\jiM sO^Srava\saM ja^yema#}
+<ls n="ṚV.">7,98,4.</ls> <ls n="ṚV.">4,20,3.</ls> <ls n="ṚV. 4,">16,19.</ls> <ls n="ṚV. 4,">17,9.</ls> <ls n="ṚV. 4,">42,5.</ls> <ls n="ṚV. 4,">58,10.</ls> u.s.w. <ls>AV. 2,14,5.</ls> <ls n="AV.">6,92,2.</ls> In den
+<ls>BRĀHMAṆA</ls> häufig mit {#aj, i, DAv, sar#} {%einen Wettlauf anstellen%}: {#ta AjimayustezAmAjiM yatAmaBisfzwAnAM vAyurmuKaM praTamaH pratyapadyata#}
+<ls>AIT. BR. 2,25.</ls> <ls n="AIT. BR.">4,27.</ls> {#AjimevAsminnajAmahE#}
+<ls>ŚAT. BR. 2,4,3,4.</ls> <ls n="ŚAT. BR.">5,1,1,3.</ls> <ls n="ŚAT. BR. 5,1,">4,1.</ls> {#AjiM hi sarzyanto Bavanti#}
+<ls n="ŚAT. BR. 5,1,4,">15.</ls> <ls n="ŚAT. BR.">6,1,2,12.</ls> <ls n="ŚAT. BR.">7,1,2,1.</ls> <ls>KĀTY. ŚR. 14,3,21.</ls> <ls>ĀŚV. ŚR. 9,9.</ls> {#AjeH saraRam#} {%Anstellung eines Wettlaufes%}
+<ls>CHĀND. UP. 1,3,5.</ls> {#Ajisf/t#}
+<ls>ŚAT. BR. 5,1,5,10.</ls> <ls n="ŚAT. BR. 5,1,5,">28.</ls> <ls n="ŚAT. BR.">11,1,2,13.</ls> {#AjO#} {%im Kampfe%}
+<ls>MBH. 3,772.</ls>
+<ls>ARJ. 10,74.</ls>
+<ls>R. 1,29,3.</ls> <ls n="R.">3,26,18</ls> <ls n="R. 3,">59,24.</ls>
+<ls>RAGH. 12,45.</ls> {#AjiSiras#} {%Vordertreffen%}
+<ls>MBH. 3,16479.</ls>
+<div n="1">— 2) {%Rennbahn%}: {#dI\rGaM yadA\jima\ByaKya^da\ryaH#}
+<ls>ṚV. 4,24,8.</ls> {#taM tvA^ paSyanti pari\yAnta^mA\jim#}
+<ls>AV. 13,2,4.</ls> {%ebener Boden%}
+<ls>AK. 3,4,34.</ls>
+<ls>H. an. 2,66.</ls>
+<ls>MED. j. 3.</ls>
+<div n="1">— 3) {%Tadel%} ({#Akzepa#})
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 4) {%Augenblick%}
 <ls>H. an.</ls>
 <LEND>

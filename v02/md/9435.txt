@@ -1,14 +1,3 @@
 <L>9435<pc>122-1<k1>durnaya<k2>durnaya
-{#durnaya#}¦dur-naya, {%m.%} ({%sg. & pl.%}) bad {%or%} imprudent <lbinfo n="2"/>
-<> behaviour; {@-nigraha,@} {%a.%} hard to restrain <lbinfo n="2"/>
-<> {%or%} subdue; {@-nimita,@} {%pp.%} ill-measured, 
-<>irregular, faltering ({%step%}); {@-nimitta,@} {%n.%} evil 
-<>omen; {@-niyántu,@} {%a.%} hard to restrain; {@-nir-@}
-<>{@-īkṣya,@} {%fp.%} hard to look at; hard to be seen 
-<>by ({%in., g.%}); {@-nirūpa,@} {%a.%} hard to determine; 
-<>{@-nivāra,@} {%a.%} hard to repel, -- restrain; -- get 
-<>rid of {%or%} set aside: {@-tva,@} {%n. abst. N.%}; {@-nivār-@}
-<>{@-ya,@} {%fp. id.%}; {@-nivṛtta@}, {%pp.%} hard to return from; 
-<>{@-nīta,@} {%pp.%} badly conducted {%or%} executed; {%n.%} 
-<>evil plight; demerit; {@-nṛpa@}, {%m.%} bad king.
+{#durnaya#}¦ dur-naya, <lex>m.</lex> (<ab>sg.</ab> & <ab>pl.</ab>) bad {%or%} imprudent 🞄behaviour; {@-nigraha,@} <lex>a.</lex> hard to restrain 🞄{%or%} subdue; {@-nimita,@} <ab>pp.</ab> ill-measured, 🞄irregular, faltering ({%step%}); {@-nimitta,@} <lex>n.</lex> evil 🞄omen; {@-niyántu,@} <lex>a.</lex> hard to restrain; {@-nirīkṣya,@} <ab>fp.</ab> hard to look at; hard to be seen 🞄by (<ab>in.</ab>, <ab>g.</ab>); {@-nirūpa,@} <lex>a.</lex> hard to determine; 🞄{@-nivāra,@} <lex>a.</lex> hard to repel, — restrain; — get 🞄rid of {%or%} set aside: {@-tva,@} <lex>n.</lex> <ab>abst. ɴ.</ab>; {@-nivārya,@} <ab>fp.</ab> <ab>id.</ab>; {@-nivṛtta,@} <ab>pp.</ab> hard to return from; 🞄{@-nīta,@} <ab>pp.</ab> badly conducted {%or%} executed; <lex>n.</lex> 🞄evil plight; demerit; {@-nṛpa,@} <lex>m.</lex> bad king.
 <LEND>

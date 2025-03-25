@@ -1,5 +1,5 @@
 <L>5215<pc>168<k1>cuirass<k2>cuirass
-<div n="lb"/>{@CUIRASS:@}¦ <div n="1">(1) {#kavaca#} (mn.); </div><div n="1">(2) {#varman#} (n.); </div><div n="1">(3)
-<div n="lb"/>{#vAravARaH;#} </div><div n="1">(4) {#kaNkawaH, -kaH;#} </div><div n="1">(5) {#tanutram;#} </div><div n="1">(6) {#uraSCadaH;#}</div>
-<div n="lb"/><div n="1">(7) {#daMSanam#} (rare).</div>
+{@CUIRASS:@}¦ <div n="1">(1) {#kavaca#} (mn.); </div><div n="1">(2) {#varman#} (n.); </div><div n="1">(3)
+{#vAravARaH;#} </div><div n="1">(4) {#kaNkawaH, -kaH;#} </div><div n="1">(5) {#tanutram;#} </div><div n="1">(6) {#uraSCadaH;#}</div>
+<div n="1">(7) {#daMSanam#} (rare).</div>
 <LEND>

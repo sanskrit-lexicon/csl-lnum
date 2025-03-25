@@ -1,31 +1,29 @@
-<L>135644<pc>7286-2<k1>hnu<k2>hnu<e>500
-{#hnu#}¦ , {#hnute#} (mit Präpositionen auch <ab>Act.</ab>)
-<div n="1">— 1) {%*sich verstecken vor%} (<ab>Dat.</ab>).
-<div n="1">— 2) {%vertreiben%} <ls>BHAṬṬ.</ls>
+<L>135644<pc>7-286-b<k1>hnu<k2>hnu
+√{#hnu#}¦, {#hnute#} (mit Präpositionen auch <ab>Act.</ab>)
+<div n="1">— 1〉 *{%sich verstecken vor%} (<ab>Dat.</ab>).
+<div n="1">— 2〉 {%vertreiben%} <ls>BHAṬṬ.</ls>
 <div n="p">— Mit {#apa#} <ab>Med.</ab>
-<div n="1">— 1) {%sich Etwas verbitten , ablehnen.%}
-<div n="1">— 2) {%von sich abweisen%} , so v.a. {%in Abrede stellen , läugnen.%}
-<div n="1">— 3) {%verschweigen , — vor%} (<ab>Dat.</ab>).
-<div n="1">— 4) {%verhüllen%} <ls>ŚIŚ.12,23.</ls> <ls>VĀSAV.179,2.</ls>
-<div n="1">— 5) {%Jmd%} (<ab>Dat.</ab>) {%Genugthuung leisten , sich entschuldigen.%}
-<div n="p">— Mit {#api#} <ab>Act.</ab> {%ablehnen.%}
+<div n="1">— 1〉 {%sich Etwas verbitten, ablehnen%}.
+<div n="1">— 2〉 {%von sich abweisen,%} so <ab>v. a.</ab> {%in Abrede stellen, läugnen%}.
+<div n="1">— 3〉 {%verschweigen, — vor%} (<ab>Dat.</ab>).
+<div n="1">— 4〉 {%verhüllen%} <ls>ŚIŚ. 12,23</ls>. <ls>VĀSAV. 179,2</ls>.
+<div n="1">— 5〉 {%Jmd%} (<ab>Dat.</ab>) {%Genugthuung leisten, sich entschuldigen%}.
+<div n="p">— Mit {#api#} <ab>Act.</ab> {%ablehnen%}.
 <div n="p">— Mit {#ni#} <ab>Med.</ab> (ausnahmsweise <ab>Act.</ab>)
-<div n="1">— 1) {%Jmd%} (<ab>Dat.</ab>). {%Busse leisten für Etwas%} (<ab>Acc.</ab>) , {%Etwas abbitten.%} Im Ritual eine symbolische Handlung der {%Abbitte%} , indem die <is>Ṛtvij</is> auf den <is>Prastara</is> die Hände legen und dazu den Spruch <ls>VS.5,7</ls> sprechen , <ls>VAITĀN.13,24.15,2.</ls>
-<div n="1">— 2) {%ablehnen , weigern.%}
-<div n="1">— 3) {%in Abrede stellen , läugnen.%}
-<div n="1">— 4) {%verschweigen , verhehlen.%}
-<div n="1">— 5) {%verbergen , verhüllen , verstecken%} <ls>302,20.21</ls> (im <is n="1">Prākrit</is>). <ls>ŚIŚ.12,15.</ls> <ls>BĀLAR.16,6.</ls>
-<div n="1">— 6) {#nihnuta#}
-<div n="2">— a) {%verschwiegen , verhohlen , verheimlicht.%}
-<div n="2">— b) {%versteckt , verhüllt%} (<ls>312,4</ls>) ; {%anders dargestellt , für etwas Anderen ausgegeben%} <ls>301,30.</ls>
-<div n="p">— Mit {#atini#} {%hartnäckig läugnen.%} Nur {#°hnutya#}.
-<div n="p">— Mit {#apani#} <ab>Med.</ab> {%in Abrede stellen.%}
+<div n="1">— 1〉 {%Jmd%} (<ab>Dat.</ab>). {%Busse leisten für Etwas%} (<ab>Acc.</ab>), {%Etwas abbitten%}. Im Ritual eine symbolische Handlung der {%Abbitte,%} indem die <is>Ṛtvij</is> auf den <is>Prastara</is> die Hände legen und dazu den Spruch <ls>VS. 5,7</ls> sprechen, <ls>VAITĀN. 13,24. 15,2</ls>.
+<div n="1">— 2〉 {%ablehnen, weigern%}.
+<div n="1">— 3〉 {%in Abrede stellen, läugnen%}.
+<div n="1">— 4〉 {%verschweigen, verhehlen%}.
+<div n="1">— 5〉 {%verbergen, verhüllen, verstecken%} <ls n="Chr.">302,20</ls>. <ls n="Chr. 302,">21</ls> (im <lang>Prākrit</lang>). <ls>ŚIŚ. 12,15</ls>. <ls>BĀLAR. 16,6</ls>.
+<div n="1">— 6〉 {#nihnuta#}
+<div n="2">— a〉 {%verschwiegen, verhohlen, verheimlicht%}.
+<div n="2">— b〉 {%versteckt, verhüllt%} (<ls n="Chr.">312,4</ls>); {%anders dargestellt, für etwas Anderen ausgegeben%} <ls n="Chr.">301,30</ls>.
+<div n="p">— Mit {#atini#} {%hartnäckig läugnen%}. Nur {#°hnutya#}.
+<div n="p">— Mit {#apani#} <ab>Med.</ab> {%in Abrede stellen%}.
 <div n="p">— Mit {#aBini#} in {#°hnava#}.
 <div n="p">— Mit {#vini#}
-<div n="1">— 1) {%in Abrede stellen , läugnen%} <ls>MBH.13,111,124</ls> ( {#vinihnOti#} zu lesen).
-<div n="1">— 2) {#vinihnuta#} {%versteckt.%}
-<div n="p">— Mit {#pari#}. {#pa/rihRuta#} etwa
-[Page7286-3]
-{%verläugnet , abgeläugnet.%}
-<div n="p">— Mit {#*vi#} <ab>Med.</ab>
+<div n="1">— 1〉 {%in Abrede stellen, läugnen%} <ls>MBH. 13,111,124</ls> ({#vinihnOti#} zu lesen).
+<div n="1">— 2〉 {#vinihnuta#} {%versteckt%}.
+<div n="p">— Mit {#pari#}. {#pa/rihRuta#} etwa [Page7-286-c] {%verläugnet, abgeläugnet%}.
+<div n="p">— Mit *{#vi#} <ab>Med.</ab>
 <LEND>

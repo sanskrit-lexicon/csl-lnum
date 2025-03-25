@@ -1,6 +1,6 @@
 <L>4144<pc>134<k1>common<k2>common
-<div n="lb"/>{@COMMON; IN:@}¦ <div n="1">(1) {#sAmAnyena#} <div n="xe">{%or%}</div> <div n="xs">{#sAmAnyataH,#}</div> <div n="xe">{%but the%}
-<div n="lb"/>{%three gems were held in c.:%}</div> <div n="xs">{#kintu ratnatrayaM sABAnye #}
-<div n="lb"/>{# sTitaB,#}</div> Vet.; </div><div n="1">(2) {#sADAraRyena,#} {%in c. with others%}
-<div n="lb"/>{#*anyezAM sADAraRyena.#}</div>
+{@COMMON; IN:@}¦ <div n="1">(1) {#sAmAnyena#} <div n="xe">{%or%}</div> <div n="xs">{#sAmAnyataH,#}</div> <div n="xe">{%but the%}
+{%three gems were held in c.:%}</div> <div n="xs">{#kintu ratnatrayaM sABAnye #}
+{# sTitaB,#}</div> Vet.; </div><div n="1">(2) {#sADAraRyena,#} {%in c. with others%}
+{#*anyezAM sADAraRyena.#}</div>
 <LEND>

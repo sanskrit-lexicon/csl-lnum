@@ -1,9 +1,9 @@
 <L>6020<pc>193<k1>determination<k2>determination
-<div n="lb"/>{@DETERMINATION:@}¦ <div n="I">I The act of determining:
-<div n="lb"/>{#nirRayaH, vi-,#} <div n="xe">{%d. of boundaries:%}</div> <div n="xs">{#sImAvinirRayaH,#}</div> M.</div>
-<div n="lb"/><div n="I">II Resolution: q. v.: {#niScayaH,#} {%is this your d.:%}
-<div n="lb"/>{#eza te niScayaH,#} Mu. </div><div n="I">III.: Purpose: q. v.: {#prati-#}
-<div n="lb"/>{#pattiH,#} <div n="xe">{%what is your d.:%}</div> <div n="xs">{#kA te pratipattiH,#}</div> D. </div><div n="I">IV
-<div n="lb"/>Direction or tendency: {#gatiH.#} </div><div n="I">V Termina-
-<div n="lb"/>-tion: q. v.</div>
+{@DETERMINATION:@}¦ <div n="I">I The act of determining:
+{#nirRayaH, vi-,#} <div n="xe">{%d. of boundaries:%}</div> <div n="xs">{#sImAvinirRayaH,#}</div> M.</div>
+<div n="I">II Resolution: q. v.: {#niScayaH,#} {%is this your d.:%}
+{#eza te niScayaH,#} Mu. </div><div n="I">III.: Purpose: q. v.: {#prati-#}
+{#pattiH,#} <div n="xe">{%what is your d.:%}</div> <div n="xs">{#kA te pratipattiH,#}</div> D. </div><div n="I">IV
+Direction or tendency: {#gatiH.#} </div><div n="I">V Termina-
+-tion: q. v.</div>
 <LEND>

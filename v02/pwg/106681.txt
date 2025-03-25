@@ -1,93 +1,91 @@
 <L>106681<pc>7-0812<k1>sarva<k2>sa/rva
-{#sa/rva#}¦ 
-<div n="1"> 1) <lex>adj.</lex> (f. {#A#}) 
-<ls>UṆĀDIS. 1, 153.</ls> <ls>VS. PRĀT. 2, 39.</ls> <ls>P. 6, 1, 191.</ls> mit pronominaler Decl. 
-<ls>1, 1, 27.</ls> <ls>VOP. 3, 9.</ls> {#gfhakarmasu sarvasu#} (wohl {#sarvaSaH#} zu lesen) 
-<ls>GṚHYAS. 1, 58.</ls> Accent eines damit anlautenden comp. 
-<ls>P. 6, 2, 93. 105.</ls> 
-<div n="2"> a) {%ganz, all, jeder%}; <lex>m.</lex> sg. {%Jedermann%}, pl. {%Alle%}, <lex>n.</lex> sg. {%Alles%} 
-<ls>AK. 3, 2, 14.</ls> 
-<ls>H. 1433.</ls> 
-<ls>HALĀY. 4, 28.</ls> {#sarva^M parikro\SaM ja^hi#} 
-<ls>ṚV. 1, 29, 7.</ls> {#sarva^yA vi\SA#}
-<lang n="greek">πανδημεί</lang> 
-<ls n="ṚV. 1,">39, 5.</ls> <ls n="ṚV. 1,">127, 8.</ls> {#ni mA^mfje\ pura\ indra\H su sarvA^H#} 
-<ls n="ṚV.">7, 26, 3.</ls> {#taM tvA^ Baga\ sarva\ ijjo^havIti#} 
-<ls n="ṚV. 7,">41, 5.</ls> <ls n="ṚV.">5, 85, 8.</ls> {#de\vAH#} 
-<ls n="ṚV.">6, 75, 19.</ls> {#Si\vAsmE sarva^smE\ kzetrA^ya#} 
-<ls>AV. 3, 28, 3. 5, 23, 13.</ls> {#viSve^zu de\vezu^ va\yaM sarve^zu ya\Sasa^H syAma#} {%allen und jedem%} 
-<ls>6, 58, 2.</ls> {#yasye\mA viSvA\ Buva^nAni\ sarvA^#} 
-<ls>TBR. 3, 1, 1, 1.</ls> {#e\za vE pra\jAMpa^ti\M sarva^M karoti\ yo^ 'Svame\Dena\ yaja^te\ sarva^ e\va Ba^vati\ sarva^sya\ vA e\zA prAya^ScittiH#} 
-u.s.w. <ls>TS. 5, 3, 12, 1.</ls> <ls>AIT. BR. 1, 6.</ls> {#sarvasyE vAcaH sarvasya brahmaRaH parigfhItyE#} 
-<ls>2, 15.</ls> {#adByo hIdaM sarvaM jAyate#} 
-<ls>ŚAT. BR. 6, 1, 3, 11. 3, 1, 1, 9. 10. 2, 3. 14, 2, 2, 46.</ls> 
-<ls>ŚĀṄKH. ŚR. 4, 11, 3.</ls> {#sarvamahaH#} 
-<ls>LĀṬY. 9, 2, 12.</ls> {#sarvamAyuH#} 
-<ls>ŚAT. BR. 2, 1, 3, 4.</ls> 
-<ls>ĀŚV. GṚHY. 1, 17, 14. 2, 7.</ls> — {#sarvaM Cidram#} 
-<ls>M. 8, 239.</ls> {#sarvaM grAmam#} 
-<ls>2, 185.</ls> {#kulam#} 
-<ls>3, 62.</ls> {#sarveRa prayatnena#} 
-<ls>7, 71.</ls> {#sarvaH kAntamAtmAnaM paSyati#} 
-<ls>ŚĀK. 25, 4.</ls> {#sa sarvasya hitaprepsuH#} 
-<ls>M. 5, 46.</ls> 
-<ls>KATHĀS. 14, 59.</ls> {#kimabravIcca naH sarvAn#} 
-<ls>MBH. 3, 2183.</ls> {#idaM sarvam#} 
-<ls>M. 1, 27. 41.</ls> {#asya sarvasya#} 33. {#sarvamidam#} 
-<ls>63. 51.</ls> {#sarvasyAsya#} 94. {#gavAM sarvam#} {%Alles was von den Kühen kommt%} 
-<ls>AK. 2, 9, 50.</ls> {#sarve 'pi#} (vgl. den Gebrauch von {#api#} nach Zahlwörtern) 
-<ls>VARĀH. BṚH. S. 96, 5. 104, 4.</ls> 
-<ls>H. 694.</ls> {#sarva eva#} 
-<ls>M. 9, 214.</ls> {#caturo vedAnsarvAn#} 
-<ls>MBH. 3, 2247.</ls> {#sarvezveva caturzvapi#} 
-<ls>M. 3, 135.</ls> {#sarvaM niKilam#} 
-<ls>R. 1, 5, 4.</ls> mit einer Negation: {#yasmAtsarvA viBaktirnotpadyate#} {%nicht alle Casusendungen%} 
-<ls>P. 1, 1, 38, Schol.</ls> {#sarvaM ca tilasaMbadDaM nAdyAt#} {%er esse Nichts was u.s.w.%} 
-<ls>M. 4, 75.</ls> {#na Bakzayet - sarvAnpaYcanaKAMstaTA#} {%auch esse er kein fünfkralliges Thier%} 
-<ls>5, 17. 11, 94.</ls> {#na tAH sma pratigfhRanti sarve te devadAnavAH#} 
-<ls>R. 1, 45, 35. 74, 14.</ls> {#indriyArTezu sarvezu na prasajyeta#} 
-<ls>Spr. (II) 1121.</ls> {#jYAtuM na SakyaM hi kimasti sarvEH#} 
-<ls>2448.</ls> {#na kruDyedyaSca sarvasya#} 
-<ls>5634.</ls> {#sarvaH sarvaM na jAnAti#} 
-<ls>6941.</ls> {#sarvaBUtAnyapIqayan#} 
-<ls>3090.</ls> {#sarvamalajjAkaramiha#} 
-<ls>5911.</ls> {#sarvezAM kftavErARAmaviSvAsaH suKodayaH#} 
-<ls>6952.</ls> am Anf. eines comp. als adj.: {#°varRAnAm#} 
-<ls>M. 1, 2.</ls> {#°BUtAni#} 16. {#°dikzu#} 
-<ls>3, 87.</ls> als subst.: {#sarvABAve#} 
-<ls>9, 189.</ls> {#sarvABisaMDaka#} 
-<ls>Spr. (II) 3096.</ls> {#°SrezWa#} {%unter Allen der beste%} 
-<ls>MĀRK. P. 16, 18.</ls> {#°mahant#} {%der allergrösste%} 
-<ls>KATHĀS. 23, 40.</ls> {#°Sveta = sarvezAM SvetataraH#} 
-<ls>P. 6, 2, 93, Schol.</ls> 
+{#sa/rva#}¦
+<div n="1"> 1) <lex>adj.</lex> (f. {#A#})
+<ls>UṆĀDIS. 1,153.</ls> <ls>VS. PRĀT. 2,39.</ls> <ls>P. 6,1,191.</ls> mit pronominaler Decl.
+<ls n="P.">1,1,27.</ls> <ls>VOP. 3,9.</ls> {#gfhakarmasu sarvasu#} (wohl {#sarvaSaH#} zu lesen)
+<ls>GṚHYAS. 1,58.</ls> Accent eines damit anlautenden comp.
+<ls>P. 6,2,93.</ls> <ls n="P. 6,2,">105.</ls>
+<div n="2"> a) {%ganz, all, jeder%}; <lex>m.</lex> sg. {%Jedermann%}, pl. {%Alle%}, <lex>n.</lex> sg. {%Alles%}
+<ls>AK. 3,2,14.</ls>
+<ls>H. 1433.</ls>
+<ls>HALĀY. 4,28.</ls> {#sarva^M parikro\SaM ja^hi#}
+<ls>ṚV. 1,29,7.</ls> {#sarva^yA vi\SA#}
+<lang n="greek">πανδημεί</lang>
+<ls n="ṚV. 1,">39,5.</ls> <ls n="ṚV. 1,">127,8.</ls> {#ni mA^mfje\ pura\ indra\H su sarvA^H#}
+<ls n="ṚV.">7,26,3.</ls> {#taM tvA^ Baga\ sarva\ ijjo^havIti#}
+<ls n="ṚV. 7,">41,5.</ls> <ls n="ṚV.">5,85,8.</ls> {#de\vAH#}
+<ls n="ṚV.">6,75,19.</ls> {#Si\vAsmE sarva^smE\ kzetrA^ya#}
+<ls>AV. 3,28,3.</ls> <ls n="AV.">5,23,13.</ls> {#viSve^zu de\vezu^ va\yaM sarve^zu ya\Sasa^H syAma#} {%allen und jedem%}
+<ls n="AV.">6,58,2.</ls> {#yasye\mA viSvA\ Buva^nAni\ sarvA^#}
+<ls>TBR. 3,1,1,1.</ls> {#e\za vE pra\jAMpa^ti\M sarva^M karoti\ yo^ 'Svame\Dena\ yaja^te\ sarva^ e\va Ba^vati\ sarva^sya\ vA e\zA prAya^ScittiH#}
+u.s.w. <ls>TS. 5,3,12,1.</ls> <ls>AIT. BR. 1,6.</ls> {#sarvasyE vAcaH sarvasya brahmaRaH parigfhItyE#}
+<ls n="AIT. BR.">2,15.</ls> {#adByo hIdaM sarvaM jAyate#}
+<ls>ŚAT. BR. 6,1,3,11. 3,1,1,9. 10. 2,3. 14,2,2,46.</ls>
+<ls>ŚĀṄKH. ŚR. 4,11,3.</ls> {#sarvamahaH#}
+<ls>LĀṬY. 9,2,12.</ls> {#sarvamAyuH#}
+<ls>ŚAT. BR. 2,1,3,4.</ls>
+<ls>ĀŚV. GṚHY. 1,17,14. 2,7.</ls> — {#sarvaM Cidram#}
+<ls>M. 8,239.</ls> {#sarvaM grAmam#}
+<ls n="M.">2,185.</ls> {#kulam#}
+<ls n="M.">3,62.</ls> {#sarveRa prayatnena#}
+<ls n="M.">7,71.</ls> {#sarvaH kAntamAtmAnaM paSyati#}
+<ls>ŚĀK. 25,4.</ls> {#sa sarvasya hitaprepsuH#}
+<ls>M. 5,46.</ls>
+<ls>KATHĀS. 14,59.</ls> {#kimabravIcca naH sarvAn#}
+<ls>MBH. 3,2183.</ls> {#idaM sarvam#}
+<ls>M. 1,27.</ls> <ls n="M. 1,">41.</ls> {#asya sarvasya#} <ls n="M. 1,">33.</ls> {#sarvamidam#}
+<ls n="M. 1,">63.</ls> <ls n="M. 1,">51.</ls> {#sarvasyAsya#} 94. {#gavAM sarvam#} {%Alles was von den Kühen kommt%}
+<ls>AK. 2,9,50.</ls> {#sarve 'pi#} (vgl. den Gebrauch von {#api#} nach Zahlwörtern)
+<ls>VARĀH. BṚH. S. 96,5. 104,4.</ls>
+<ls>H. 694.</ls> {#sarva eva#}
+<ls>M. 9,214.</ls> {#caturo vedAnsarvAn#}
+<ls>MBH. 3,2247.</ls> {#sarvezveva caturzvapi#}
+<ls>M. 3,135.</ls> {#sarvaM niKilam#}
+<ls>R. 1,5,4.</ls> mit einer Negation: {#yasmAtsarvA viBaktirnotpadyate#} {%nicht alle Casusendungen%}
+<ls>P. 1,1,38</ls>, Schol. {#sarvaM ca tilasaMbadDaM nAdyAt#} {%er esse Nichts was u.s.w.%}
+<ls>M. 4,75.</ls> {#na Bakzayet — sarvAnpaYcanaKAMstaTA#} {%auch esse er kein fünfkralliges Thier%}
+<ls n="M.">5,17.</ls> <ls n="M.">11,94.</ls> {#na tAH sma pratigfhRanti sarve te devadAnavAH#}
+<ls>R. 1,45,35.</ls> <ls n="R. 1,">74,14.</ls> {#indriyArTezu sarvezu na prasajyeta#}
+<ls>Spr. (II) 1121.</ls> {#jYAtuM na SakyaM hi kimasti sarvEH#}
+<ls n="Spr. (II)">2448.</ls> {#na kruDyedyaSca sarvasya#}
+<ls n="Spr. (II)">5634.</ls> {#sarvaH sarvaM na jAnAti#}
+<ls n="Spr. (II)">6941.</ls> {#sarvaBUtAnyapIqayan#}
+<ls n="Spr. (II)">3090.</ls> {#sarvamalajjAkaramiha#}
+<ls n="Spr. (II)">5911.</ls> {#sarvezAM kftavErARAmaviSvAsaH suKodayaH#}
+<ls n="Spr. (II)">6952.</ls> am Anf. eines comp. als adj.: {#°varRAnAm#}
+<ls>M. 1,2.</ls> {#°BUtAni#} 16. {#°dikzu#}
+<ls n="M.">3,87.</ls> als subst.: {#sarvABAve#}
+<ls n="M.">9,189.</ls> {#sarvABisaMDaka#}
+<ls>Spr. (II) 3096.</ls> {#°SrezWa#} {%unter Allen der beste%}
+<ls>MĀRK. P. 16,18.</ls> {#°mahant#} {%der allergrösste%}
+<ls>KATHĀS. 23,40.</ls> {#°Sveta = sarvezAM SvetataraH#}
+<ls>P. 6,2,93</ls>, Schol.
 <div n="2">— b) {%allerlei, allerhand, von aller Art, von welcher Art es auch sei%}: {#ApadaH#}
 [Page7-0813]
-
-<ls>M. 7, 214.</ls> {#cAndrAyaRaM caretsarvAnavakfzwAnnihatya tu#} 
-<ls>YĀJÑ. 3, 262.</ls> {#annAnAM nicayaM sarvaM sfjasva#} 
-<ls>R. 1, 52, 24.</ls> 
-<ls>VARĀH. BṚH. S. 54, 31.</ls> {#°sasyAnAm#} 
-<ls>29, 3. 42, 4. 48, 41. fg.</ls> {#°ratnasamanvita#} 
-<ls>MBH. 3, 2493.</ls> {#°SilpiBiH#} 
-<ls>R. 1, 5, 17.</ls> {#viBARqakasutaM sarvopAyErihAnaya#} 
-<ls>8, 15.</ls> {#°saMsTAna#} <lex>adj.</lex> 
-<ls>VARĀH. BṚH. S. 80, 8.</ls> 
-<div n="2">— c) in Verbindung mit einem <lex>adj.</lex> so v. a. {%ganz, in allen seinen Theilen, überall%}: {#sarvA\hama^smi roma\SA#} {%ganz haarig%} 
-<ls>ṚV. 1, 126, 7.</ls> {#sarva eva suvarRaH#} {%ganz golden%} 
-<ls>CHĀND. UP. 1, 6, 6.</ls> gewöhnlich mit dem <lex>adj.</lex> comp. 
-<ls>P. 6, 2, 93</ls> (Accent solcher compp.). {#°Sveta, °kfzRa, °sOvarRa#} Schol. Vgl. {#yaH sarvaH SrIparRyA paryaNko nirmitaH#} {%ganz aus - verfertigt%} 
-<ls>VARĀH. BṚH. S. 79, 11.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. pr. (nicht pronominal decl.) 
-<ls>P. 1, 1, 27, <is>Vārtt</is>., Schol.</ls> Bein. <is>Kṛṣṇa's</is>: {#sarvaM samApnozi tato 'si sarvaH#} 
-<ls>BHAG. 11, 40.</ls> {#sarvAya sarveSvarAya sarvapataye sarvasaMBavAya govindAya#} 
-<ls>WEBER, KṚṢṆAJ. 308.</ls> <ls>PAÑCAR. 4, 3, 14.</ls> Bein. <is>Śiva's</is> (vgl. {#Sarva#}) 
-<ls>AK. 1, 1, 1, 26.</ls> 
-<ls>MBH. 7, 9620</ls> (<ls>NĪLAK.</ls> erwähnt die 
-v. l. {#Sarva#}). 
-<ls>12,10363. 13,743.</ls> <ls>VOP. 3,37,</ls> <ls>Śl. 3.</ls> <ls>Verz. d. Oxf. H. 170,a,5.</ls> N. pr. eines <is>Muni</is> 
-<ls>Verz. d. Oxf. H. 52</ls>, {%b%}, 
-<ls>?25. pl.</ls> N. pr. eines Volkes 
-<ls>MĀRK. P. 58, 22.</ls> 
-<div n="v">— Vgl. {#a/°#} (auch 
-<ls>ŚAT. BR. 2, 2, 1, 14. 4, 1, 5, 10. 5, 1, 4, 5. 2, 1, 10. 6, 3, 1, 23. u.s.w.</ls>), {#ati°, sArva#} .
+<ls>M. 7,214.</ls> {#cAndrAyaRaM caretsarvAnavakfzwAnnihatya tu#}
+<ls>YĀJÑ. 3,262.</ls> {#annAnAM nicayaM sarvaM sfjasva#}
+<ls>R. 1,52,24.</ls>
+<ls>VARĀH. BṚH. S. 54,31.</ls> {#°sasyAnAm#}
+<ls n="VARĀH. BṚH. S.">29,3. 42,4. 48,41. fg.</ls> {#°ratnasamanvita#}
+<ls>MBH. 3,2493.</ls> {#°SilpiBiH#}
+<ls>R. 1,5,17.</ls> {#viBARqakasutaM sarvopAyErihAnaya#}
+<ls n="R. 1,">8,15.</ls> {#°saMsTAna#} <lex>adj.</lex>
+<ls>VARĀH. BṚH. S. 80,8.</ls>
+<div n="2">— c) in Verbindung mit einem <lex>adj.</lex> so v. a. {%ganz, in allen seinen Theilen, überall%}: {#sarvA\hama^smi roma\SA#} {%ganz haarig%}
+<ls>ṚV. 1,126,7.</ls> {#sarva eva suvarRaH#} {%ganz golden%}
+<ls>CHĀND. UP. 1,6,6.</ls> gewöhnlich mit dem <lex>adj.</lex> comp.
+<ls>P. 6,2,93</ls> (Accent solcher compp.). {#°Sveta, °kfzRa, °sOvarRa#} Schol. Vgl. {#yaH sarvaH SrIparRyA paryaNko nirmitaH#} {%ganz aus — verfertigt%}
+<ls>VARĀH. BṚH. S. 79,11.</ls>
+<div n="1">— 2) <lex>m.</lex> N. pr. (nicht pronominal decl.)
+<ls>P. 1,1,27</ls>, <is>Vārtt</is>., Schol. Bein. <is>Kṛṣṇa's</is>: {#sarvaM samApnozi tato 'si sarvaH#}
+<ls>BHAG. 11,40.</ls> {#sarvAya sarveSvarAya sarvapataye sarvasaMBavAya govindAya#}
+<ls>WEBER, KṚṢṆAJ. 308.</ls> <ls>PAÑCAR. 4,3,14.</ls> Bein. <is>Śiva's</is> (vgl. {#Sarva#})
+<ls>AK. 1,1,1,26.</ls>
+<ls>MBH. 7,9620</ls> (<ls>NĪLAK.</ls> erwähnt die v. l. {#Sarva#}).
+<ls n="MBH.">12,10363.</ls> <ls n="MBH.">13,743.</ls> <ls>VOP. 3,37, Śl. 3.</ls> <ls>Verz. d. Oxf. H. 170,a,5.</ls> N. pr. eines <is>Muni</is>
+<ls>Verz. d. Oxf. H. 52,b,25.</ls>
+pl. N. pr. eines Volkes
+<ls>MĀRK. P. 58,22.</ls>
+<div n="v">— Vgl. {#a/°#} (auch
+<ls>ŚAT. BR. 2,2,1,14. 4,1,5,10. 5,1,4,5. 2,1,10. 6,3,1,23.</ls> u.s.w.), {#ati°, sArva#} .
 <LEND>

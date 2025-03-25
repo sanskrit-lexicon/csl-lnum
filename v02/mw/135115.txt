@@ -1,11 +1,11 @@
 <L>135115<pc>682,1<k1>prapad<k2>pra-pad<h>1<e>1
-<hom>1.</hom> <s>pra-</s>√ <hom>2.</hom> <s>pad</s> ¦ <ab>Ā.</ab> <s>-padyate</s> (<ab>ep.</ab> also <ab>P.</ab>), to fall or drop down from (<ab>abl.</ab>), throw one's self down (at a person's feet), <ls>MBh.</ls>;
+<hom>1.</hom> <s>pra-</s>√ <hom>2.</hom> <s>pad</s> ¦ <ab>Ā.</ab> <s>-padyate</s> (<lang>ep.</lang> also <ab>P.</ab>), to fall or drop down from (<ab>abl.</ab>), throw one's self down (at a person's feet), <ls>MBh.</ls>;
 <div n="to"/>to go forwards set out for, resort to, arrive at, attain, enter (with <ab>acc.</ab>, rarely <ab>loc.</ab>), <ls>AV.</ls> &c. &c.;
 <div n="to"/>to fly to for succour, take refuge with (<ab>acc.</ab>), <ls>TS.</ls> &c. &c.;
 <div n="to"/>to fall upon, attack, assail, <ls>RV.</ls>; <ls>AV.</ls>;
 <div n="to"/>to come to a <ab>partic.</ab> state or condition, incur, undergo (<ab>acc.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
-<div n="to"/> (with an <ab>adv.</ab> in <s>sAt</s>), to become <ab>e.g.</ab> <s>sarpasAt pra-√ pad</s>, to <ab n="become">bec°</ab> a serpent, <ls>Bhaṭṭ.</ls>;
-<div n="to"/>to obtain, gain (<s>patini</s>, ‘as husband’), partake of, share in (<ab>acc.</ab>), <ls>ib.</ls>;
+<div n="to"/> (with an <ab>adv.</ab> in <s>sAt</s>), to become, <ab>e.g.</ab> <s>sarpasAt pra-√ pad</s>, to <ab n="become">bec°</ab> a serpent, <ls>Bhaṭṭ.</ls>;
+<div n="to"/>to obtain, gain (<s>patim</s>, ‘as husband’), partake of, share in (<ab>acc.</ab>), <ls>ib.</ls>;
 <div n="to"/>to adopt or embrace (a doctrine), <ls>Rājat.</ls>;
 <div n="to"/>to undertake, commence, begin, do, <ls>MBh.</ls>; <ls>Kāv.</ls>;
 <div n="to"/>to form (a judgement), <ls>MBh.</ls>;
@@ -16,7 +16,7 @@
 <div n="to"/>to take effect, succeed, <ls>MBh.</ls>;
 <div n="to"/>to turn out (<s>anyaTA</s>, ‘differently’ <ab>i.e.</ab> without any effect or consequence), <ls>Hariv.</ls>;
 <div n="to"/>to admit (a claim), <ls>R.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-pAdayati</s>, <s>°te</s>, to cause to enter, introduce into (<ab>acc.</ab> or <ab>loc.</ab>), <ls>Br.</ls> :
-<div n="to"/><ab>Desid.</ab> <ab>P.</ab> <s>pi/tsati</s>, to wish to enter, <ls>ŚBr.</ls>;
-<div n="to"/> <ab>Ā.</ab> <s>-pitsate</s> (<ab>cf.</ab> <ls>Pāṇ. 7-4, 54</ls>), to be going to incur or undertake, <ls>Daś.</ls><info verb="pre" cp="PĀ" parse="pra+pad"/>
+<div n="vp"/><ab>Caus.</ab> <s>-pAdayati</s>, <s>°te</s>, to cause to enter, introduce into (<ab>acc.</ab> or <ab>loc.</ab>), <ls>Br.</ls> :
+<div n="vp"/><ab>Desid.</ab> <ab>P.</ab> <s>pi/tsati</s>, to wish to enter, <ls>ŚBr.</ls>;
+<div n="to"/> <ab>Ā.</ab> <s>-pitsate</s> (<ab>cf.</ab> <ls>Pāṇ. vii, 4, 54</ls>), to be going to incur or undertake, <ls>Daś.</ls><info verb="pre" cp="PĀ" parse="pra+pad"/>
 <LEND>

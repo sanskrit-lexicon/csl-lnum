@@ -1,6 +1,6 @@
 <L>6180<pc>198<k1>diluent<k2>diluent
-<div n="lb"/>{@DILUENT:@}¦ {#tanUkaraRaSIlaH#} ({#lA, laM#}) (?). Ph.: <div n="xe">{%“there%}
-<div n="lb"/>{%is no real d. but water”:%}</div> <div n="xs">{#yaTArTato jalAdanyaH padArTo #}
-<div n="lb"/>{# nAsti yaH padArTAntarAn tanUkaroti#}</div> (thins) <div n="xe">{%or%}</div> <div n="xs">{#vilayati#}</div>
-<div n="lb"/>(dissolves) <div n="xe">{%or%}</div> <div n="xs">{#kzIRIkaroti#}</div> (weakens).
+{@DILUENT:@}¦ {#tanUkaraRaSIlaH#} ({#lA, laM#}) (?). Ph.: <div n="xe">{%“there%}
+{%is no real d. but water”:%}</div> <div n="xs">{#yaTArTato jalAdanyaH padArTo #}
+{# nAsti yaH padArTAntarAn tanUkaroti#}</div> (thins) <div n="xe">{%or%}</div> <div n="xs">{#vilayati#}</div>
+(dissolves) <div n="xe">{%or%}</div> <div n="xs">{#kzIRIkaroti#}</div> (weakens).
 <LEND>

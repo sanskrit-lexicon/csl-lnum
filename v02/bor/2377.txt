@@ -1,10 +1,10 @@
 <L>2377<pc>082<k1>bosom<k2>bosom
-<div n="lb"/>{@BOSOM@}¦ (subs.): <div n="I">I The breast: </div><div n="1">(1) {#vakzas#} (n.),
-<div n="lb"/>{%pressed%} ({%him%}) <div n="xe">{%to his bosom%}</div> <div n="xs">{#nizpipeza pariraBya vakzasA.#}</div>
-<div n="lb"/>Ki. xviii. 13; </div><div n="1">(2) {#uram#} (n.), <div n="xe">{%and beat her%}
-<div n="lb"/>{%b.%}</div> <div n="xs">{#uro jaGAna ca,#}</div> Ku. iv. 26; </div><div n="1">(3) {#vakzaHsTalam;#}</div>
-<div n="lb"/><div n="1">(4) {#BujAntaram#} (poet). </div><div n="I">II Fig.: The heart:
-<div n="lb"/>q. v. {#hfdayam,#} <div n="xe">{%b. friend%}</div> <div n="xs">{#hfdayaNgamaH saKA#}</div> Ku. iv.
-<div n="lb"/>24. </div><div n="I">III The interior: {#garBaH,#} <div n="xe">{%the b. of the%}
-<div n="lb"/>{%earth%}</div> <div n="xs">{#BUgarBaH.#}</div></div>
+{@BOSOM@}¦ (subs.): <div n="I">I The breast: </div><div n="1">(1) {#vakzas#} (n.),
+{%pressed%} ({%him%}) <div n="xe">{%to his bosom%}</div> <div n="xs">{#nizpipeza pariraBya vakzasA.#}</div>
+Ki. xviii. 13; </div><div n="1">(2) {#uram#} (n.), <div n="xe">{%and beat her%}
+{%b.%}</div> <div n="xs">{#uro jaGAna ca,#}</div> Ku. iv. 26; </div><div n="1">(3) {#vakzaHsTalam;#}</div>
+<div n="1">(4) {#BujAntaram#} (poet). </div><div n="I">II Fig.: The heart:
+q. v. {#hfdayam,#} <div n="xe">{%b. friend%}</div> <div n="xs">{#hfdayaNgamaH saKA#}</div> Ku. iv.
+24. </div><div n="I">III The interior: {#garBaH,#} <div n="xe">{%the b. of the%}
+{%earth%}</div> <div n="xs">{#BUgarBaH.#}</div></div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>10344<pc>326<k1>grossness<k2>grossness
-<div n="lb"/>{@GROSSNESS:@}¦ <div n="I">I Thickness, coarseness: {#sTOlyam#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#sTUlatA.#}</div> </div><div n="I">II Enormity, greatness: {#mahattvam#}</div>
-<div n="lb"/><div n="I">III Indecency: {#aSlIlatA.#}</div>
+{@GROSSNESS:@}¦ <div n="I">I Thickness, coarseness: {#sTOlyam#}
+<div n="xe">{%or%}</div> <div n="xs">{#sTUlatA.#}</div> </div><div n="I">II Enormity, greatness: {#mahattvam#}</div>
+<div n="I">III Indecency: {#aSlIlatA.#}</div>
 <LEND>

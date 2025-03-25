@@ -1,99 +1,84 @@
 <L>115159<pc>7-1440<k1>svar<k2>svar<h>1
-1. {#svar#}¦, {#sva/rati#} 
-<ls>NAIGH. 3, 14</ls> ({#arcatikarman#}). 
-<ls>DHĀTUP. 22, 34</ls> {#(SabdopatApayoH)#}.{# sasvAra, sasvarus#} 
-<ls>P. 7, 4, 10, Schol.</ls> {#sasvariTa#} und {#sasvarTa#} 
-<ls>VOP. 8, 46. 90.</ls> {#asvArIt#} und {#asvArzIt#} ebend. ved. {#asvAr, asvArzwAm; svarizyati#} 
-<ls>P. 7, 2, 70</ls>, <is>Vārtt</is>. 
-<ls>KĀŚ.</ls> zu <ls>44.</ls> {#svaritA#} und {#svartA#} 
-<ls>7, 2, 44, Schol.</ls> {#svftvA#} 
-<ls>KĀŚ.</ls> zu <ls>7, 2, 44.</ls> der Anlaut wird nicht in {#za#} verwandelt 
-<ls>AV. PRĀT. 2, 102.</ls> 
-<div n="1"> 1) {%einen Laut von sich geben, erschallen, tönen%}: {#Apa^H#} 
-<ls>ṚV. 5, 54, 2.</ls> Opfergesang 
-<ls>?8, 12, 32. Wind 5, 54, 8.</ls> {#omiti hyeza (AdityaH) svaranneti#} (zugleich {%leuchtend%} von 2. {#svar#}) 
-<ls>CHĀND. UP. 1, 5, 1.</ls> 
-<div n="1">— 2) {%erschallen lassen%}, mit acc.: {#svara^nti\ Goza\M vita^tam#} 
-<ls>ṚV. 5, 54, 12.</ls> {#Gf\ta\Scuta^M svA\ram#} 
-<ls n="ṚV.">2, 11, 7.</ls> 
-<div n="1">— 3) {%besingen%}: {#svara^nti tvA su\te nara^H#} 
-<ls>ṚV. 8, 33, 2.</ls> {#indra\M stome^BiH#} 
-<ls n="ṚV. 8,">3, 16.</ls> {#A yaste\ yoni^M Gf\tava^nta\masvA^H#} 
-<ls n="ṚV.">10, 148, 5.</ls> <ls n="ṚV.">1, 151, 5.</ls>
-
-<div n="p">— caus. {#svarayati#} 
-<ls>DHĀTUP. 35, 11</ls> ({#Akzepe#}). {%mit dem%} <is>Svarita</is>-{%Ton sprechen%} 
-<ls>LĀṬY. 1, 6, 3</ls> pass. {#svaryate#} 
-<ls>ṚV. PRĀT. 3, 9.</ls> 
-<ls>AV. PRĀT. 3, 67.</ls> Comm. zu <ls>1, 93. 3, 56. 4, 11.</ls> <ls>TS. PRĀT. 20, 2.</ls> <ls n="TS. PRĀT. 20,">3.</ls> Comm. zu <ls>1, 41.</ls> <ls>PAT.</ls> zu <ls>P. 1, 3, 11</ls> ({#svarayizyate#} u. s. w.). — {#svarita#} s. bes.
-
-<div n="p">— desid. {#sisvarizati#} und {#susvUrzati#} 
-<ls>P. 7, 2, 49.</ls> 
-<ls>VOP. 8, 46. 19, 8.</ls>
-
-<div n="p">— intens. {#sAsvaryate#} 
-<ls>P. 7, 4, 30, Schol.</ls>
-
-<div n="p">— {#ati#} {%den Ton ausklingen lassen%} 
-<ls>PAÑCAV. BR. 13, 12, 11</ls> ({#atimandram#} Comm.). {#yadA vA fcamApnotyomityevAtisvarati#} 
-<ls>CHĀND. UP. 1, 4, 4.</ls> {#atisvArya#} <lex>m.</lex> {%der letzte unter den sieben Tönen%} 
-<ls>TS. PRĀT. 23, 12.</ls> Comm. zu <ls>13.</ls>
-
-<div n="p">— {#anu#} caus.: {#sAnusvaritarAgAyAH sarasvatyAH#} etwa {%nachklingend%} 
-<ls>HARIV. 11873.</ls> {#°rAmAyAH#} die neuere Ausg. {#sAnu SiKara upanizaditi yAvat svaritaM svargatiH tatsADanaM karma tAByAM rAmABirAmA tasyAH#} 
-<ls>NĪLAK.</ls> Vgl. {#vAcaH sAnusvArakriyAH#} 
-<ls>11882.</ls> hier hat die neuere Ausg. {#sAnusArAH#} und 
+1. {#svar#}¦, {#sva/rati#}
+<ls>NAIGH. 3,14</ls> ({#arcatikarman#}).
+<ls>DHĀTUP. 22,34</ls> ({#SabdopatApayoH#}).{# sasvAra, sasvarus#}
+<ls>P. 7,4,10</ls>, Schol. {#sasvariTa#} und {#sasvarTa#}
+<ls>VOP. 8,46.</ls> <ls n="VOP. 8,">90.</ls> {#asvArIt#} und {#asvArzIt#} ebend. ved. {#asvAr, asvArzwAm; svarizyati#}
+<ls>P. 7,2,70</ls>, <is>Vārtt</is>.
+<ls>KĀŚ.</ls> zu <ls n="P. 7,2,">44.</ls> {#svaritA#} und {#svartA#}
+<ls n="P.">7,2,44</ls>, Schol. {#svftvA#}
+<ls>KĀŚ.</ls> zu <ls n="P.">7,2,44.</ls> der Anlaut wird nicht in {#za#} verwandelt
+<ls>AV. PRĀT. 2,102.</ls>
+<div n="1"> 1) {%einen Laut von sich geben, erschallen, tönen%}: {#Apa^H#}
+<ls>ṚV. 5,54,2.</ls> Opfergesang
+<ls n="ṚV.">8,12,32.</ls> Wind <ls n="ṚV.">5,54,8.</ls> {#omiti hyeza (AdityaH) svaranneti#} (zugleich {%leuchtend%} von 2. {#svar#})
+<ls>CHĀND. UP. 1,5,1.</ls>
+<div n="1">— 2) {%erschallen lassen%}, mit acc.: {#svara^nti\ Goza\M vita^tam#}
+<ls>ṚV. 5,54,12.</ls> {#Gf\ta\Scuta^M svA\ram#}
+<ls n="ṚV.">2,11,7.</ls>
+<div n="1">— 3) {%besingen%}: {#svara^nti tvA su\te nara^H#}
+<ls>ṚV. 8,33,2.</ls> {#indra\M stome^BiH#}
+<ls n="ṚV. 8,">3,16.</ls> {#A yaste\ yoni^M Gf\tava^nta\masvA^H#}
+<ls n="ṚV.">10,148,5.</ls> <ls n="ṚV.">1,151,5.</ls>
+<div n="p">— caus. {#svarayati#}
+<ls>DHĀTUP. 35,11</ls> ({#Akzepe#}). {%mit dem%} <is>Svarita</is>-{%Ton sprechen%}
+<ls>LĀṬY. 1,6,3</ls> pass. {#svaryate#}
+<ls>ṚV. PRĀT. 3,9.</ls>
+<ls>AV. PRĀT. 3,67.</ls> Comm. zu <ls n="AV. PRĀT.">1,93. 3,56. 4,11.</ls> <ls>TS. PRĀT. 20,2.</ls> <ls n="TS. PRĀT. 20,">3.</ls> Comm. zu <ls n="TS. PRĀT.">1,41.</ls> <ls>PAT.</ls> zu <ls>P. 1,3,11</ls> ({#svarayizyate#} u. s. w.). — {#svarita#} s. bes.
+<div n="p">— desid. {#sisvarizati#} und {#susvUrzati#}
+<ls>P. 7,2,49.</ls>
+<ls>VOP. 8,46.</ls> <ls n="VOP.">19,8.</ls>
+<div n="p">— intens. {#sAsvaryate#}
+<ls>P. 7,4,30</ls>, Schol.
+<div n="p">— {#ati#} {%den Ton ausklingen lassen%}
+<ls>PAÑCAV. BR. 13,12,11</ls> ({#atimandram#} Comm.). {#yadA vA fcamApnotyomityevAtisvarati#}
+<ls>CHĀND. UP. 1,4,4.</ls> {#atisvArya#} <lex>m.</lex> {%der letzte unter den sieben Tönen%}
+<ls>TS. PRĀT. 23,12.</ls> Comm. zu <ls n="TS. PRĀT.">13.</ls>
+<div n="p">— {#anu#} caus.: {#sAnusvaritarAgAyAH sarasvatyAH#} etwa {%nachklingend%}
+<ls>HARIV. 11873.</ls> {#°rAmAyAH#} die neuere Ausg. {#sAnu SiKara upanizaditi yAvat svaritaM svargatiH tatsADanaM karma tAByAM rAmABirAmA tasyAH#}
+<ls>NĪLAK.</ls> Vgl. {#vAcaH sAnusvArakriyAH#}
+<ls n="HARIV.">11882.</ls> hier hat die neuere Ausg. {#sAnusArAH#} und
 <ls>NĪLAK.</ls> erklärt: {#anusarAH#} (sic) {#sahAyAScamasADvaryAdayaH tatsahitAH#} Vgl. {#anusvAra#} .
-
-<div n="p">— {#samanu#} {%nachklingen lassen%} 
+<div n="p">— {#samanu#} {%nachklingen lassen%}
 <ls>ŚIKṢĀ 29.</ls>
-
-<div n="p">— {#aBi#} {%mit Tönen begrüssen, singend einfallen, einstimmen%}: {#yatrA^ supa\rRA vi\daTA^Bi\svara^nti#} 
-<ls>ṚV. 1, 164, 21.</ls> {#a\Bi sva^ranti ba\havo^ manI\ziRa^H#} 
-<ls n="ṚV.">9, 85, 3.</ls> {#a\Bi sva^ra\ DanvA^ pU\yamA^naH#} 
-<ls n="ṚV. 9,">97, 3.</ls> {#ehi\ svomA^~ a\Bi sva^rA\Bi gf^RIhi#} 
-<ls n="ṚV.">1, 10, 4.</ls> — {#i\ha yu^jA\no harI^ a\Bi sva^ra#} 
-<ls n="ṚV.">8, 13, 27.</ls> {#a\Bi sva^rantu\ ye tava\ viSa^H#} 
-<ls n="ṚV. 8, 13,">28.</ls> In Stellen wie diese von dem Comm. mit {#aBigacCa#} erklärt; vgl. 
-<ls>NAIGH. 2, 14.</ls> 
-<ls>NIR. 3, 12.</ls> Wir finden jedoch keine andern Belege für eine Wurzel mit dieser Bedeutung. {#aByu svareRa saptamamahaH svarati saMtatyE#} {%den Ton hinüberleiten%} 
-<ls>PAÑCAV. BR. 13, 12, 13.</ls> 
+<div n="p">— {#aBi#} {%mit Tönen begrüssen, singend einfallen, einstimmen%}: {#yatrA^ supa\rRA vi\daTA^Bi\svara^nti#}
+<ls>ṚV. 1,164,21.</ls> {#a\Bi sva^ranti ba\havo^ manI\ziRa^H#}
+<ls n="ṚV.">9,85,3.</ls> {#a\Bi sva^ra\ DanvA^ pU\yamA^naH#}
+<ls n="ṚV. 9,">97,3.</ls> {#ehi\ svomA^~ a\Bi sva^rA\Bi gf^RIhi#}
+<ls n="ṚV.">1,10,4.</ls> — {#i\ha yu^jA\no harI^ a\Bi sva^ra#}
+<ls n="ṚV.">8,13,27.</ls> {#a\Bi sva^rantu\ ye tava\ viSa^H#}
+<ls n="ṚV. 8,13,">28.</ls> In Stellen wie diese von dem Comm. mit {#aBigacCa#} erklärt; vgl.
+<ls>NAIGH. 2,14.</ls>
+<ls>NIR. 3,12.</ls> Wir finden jedoch keine andern Belege für eine Wurzel mit dieser Bedeutung. {#aByu svareRa saptamamahaH svarati saMtatyE#} {%den Ton hinüberleiten%}
+<ls>PAÑCAV. BR. 13,12,13.</ls>
 <div n="v">— Vgl. {#aBisvar#} fgg.
-
-<div n="p">— {#ava#} {%ertönen%}: {#ava^ svarAti\ garga^raH#} 
-<ls>ṚV. 8, 58, 8.</ls> {%austönen, die Stimme sinken lassen%} 
-<ls>LĀṬY. 7, 11, 12.</ls>
-
-<div n="p">— {#upa#} {%einstimmen%}: {#manasA#} {%in Gedanken mitsingen%} 
-<ls>LĀṬY. 1, 8, 9.</ls>
-
-<div n="p">— {#ni#} zweifelhafte Lesart {#amba\ nizva^ra#} (=  {#nirgacCa#} Comm.) 
-<ls>TS. 1, 4, 1, 2</ls>, wofür {#nizpa^ra#} 
-<ls>VS. 6, 36.</ls>
-
-<div n="p">— {#nis#} {%wegsingen%}: {#indriyam#} 
-<ls>KĀṬH. 26, 1.</ls>
-
+<div n="p">— {#ava#} {%ertönen%}: {#ava^ svarAti\ garga^raH#}
+<ls>ṚV. 8,58,8.</ls> {%austönen, die Stimme sinken lassen%}
+<ls>LĀṬY. 7,11,12.</ls>
+<div n="p">— {#upa#} {%einstimmen%}: {#manasA#} {%in Gedanken mitsingen%}
+<ls>LĀṬY. 1,8,9.</ls>
+<div n="p">— {#ni#} zweifelhafte Lesart {#amba\ nizva^ra#} (= {#nirgacCa#} Comm.)
+<ls>TS. 1,4,1,2</ls>, wofür {#nizpa^ra#}
+<ls>VS. 6,36.</ls>
+<div n="p">— {#nis#} {%wegsingen%}: {#indriyam#}
+<ls>KĀṬH. 26,1.</ls>
 <div n="p">— {#pari#} s. {#parisvAra#} .
-
-<div n="p">— {#pra#} {%einen gezogenen Ton ausstossen%}: {#sa o3miti prasvarati#} 
-<ls>ṚV. PRĀT. 15, 3.</ls> 
+<div n="p">— {#pra#} {%einen gezogenen Ton ausstossen%}: {#sa o3miti prasvarati#}
+<ls>ṚV. PRĀT. 15,3.</ls>
 <div n="v">— Vgl. {#prasvAra#} .
-
-<div n="p">— {#sam#} {%zusammentönen, - stimmen; im Chor besingen, anrufen%}: {#soma^M ma\tI viprA\H sama^svaran#} 
-<ls>ṚV. 9, 63, 21.</ls> <ls n="ṚV. 9,">73, 1.</ls> <ls n="ṚV. 9, 63,">4.</ls> fgg. {#samu^ tvA DI\Bira^svaran#} 
-<ls n="ṚV. 9,">66, 8.</ls> <ls n="ṚV. 9,">67, 9.</ls> <ls n="ṚV. 9,">45, 5.</ls> {#indra\M soma^sya pI\taye^#} 
-<ls n="ṚV.">8, 86, 11.</ls> <ls n="ṚV.">9, 101, 11.</ls> {%mitsingen%}
+<div n="p">— {#sam#} {%zusammentönen, — stimmen; im Chor besingen, anrufen%}: {#soma^M ma\tI viprA\H sama^svaran#}
+<ls>ṚV. 9,63,21.</ls> <ls n="ṚV. 9,">73,1.</ls> <ls n="ṚV. 9,63,">4.</ls> fgg. {#samu^ tvA DI\Bira^svaran#}
+<ls n="ṚV. 9,">66,8.</ls> <ls n="ṚV. 9,">67,9.</ls> <ls n="ṚV. 9,">45,5.</ls> {#indra\M soma^sya pI\taye^#}
+<ls n="ṚV.">8,86,11.</ls> <ls n="ṚV.">9,101,11.</ls> {%mitsingen%}
 [Page7-1441]
-{%(in demselben Tone%}) 
-<ls>LĀṬY. 6, 10, 19.</ls> {#saMsvAram#} absol. 
-<ls>ŚĀṄKH. ŚR. 1, 1, 30.</ls> Nach <ls>P. 1, 3, 29, <is>Vārtt</is>. 1</ls> und <ls>VOP. 13, 14</ls> med. {#saMsvarizIzWAs (= upatApaya#} Comm.) 
-<ls>BHAṬṬ. 9, 28.</ls>
-
-<div n="p">— {#aBisam#} {%einstimmig besingen, - begrüssen, - einladen%}: {#a\Bi tvA^ pU\rvapI^taye\ stome^BiH . sa\mI\cI\nAsa\H sama^svaran#} 
-<ls>ṚV. 8, 3, 7.</ls> {#gi\rA#} 
-<ls n="ṚV.">9, 67, 9.</ls> {#ma\taya^H#} 
-<ls n="ṚV. 9,">106, 11.</ls> {#indra\M jAya^mAnam#} 
-<ls n="ṚV. 9,">110, 8.</ls> {#hari\M hi yoni^maBi ye sa\masva^ran#} 
-<ls n="ṚV.">10, 96, 2.</ls>
+{%(in demselben Tone%})
+<ls>LĀṬY. 6,10,19.</ls> {#saMsvAram#} absol.
+<ls>ŚĀṄKH. ŚR. 1,1,30.</ls> Nach <ls>P. 1,3,29</ls>, <is>Vārtt</is>. 1 und <ls>VOP. 13,14</ls> med. {#saMsvarizIzWAs#} (= {#upatApaya#} Comm.)
+<ls>BHAṬṬ. 9,28.</ls>
+<div n="p">— {#aBisam#} {%einstimmig besingen, — begrüssen, — einladen%}: {#a\Bi tvA^ pU\rvapI^taye\ stome^BiH . sa\mI\cI\nAsa\H sama^svaran#}
+<ls>ṚV. 8,3,7.</ls> {#gi\rA#}
+<ls n="ṚV.">9,67,9.</ls> {#ma\taya^H#}
+<ls n="ṚV. 9,">106,11.</ls> {#indra\M jAya^mAnam#}
+<ls n="ṚV. 9,">110,8.</ls> {#hari\M hi yoni^maBi ye sa\masva^ran#}
+<ls n="ṚV.">10,96,2.</ls>
 <LEND>

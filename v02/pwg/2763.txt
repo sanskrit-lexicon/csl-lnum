@@ -1,35 +1,35 @@
 <L>2763<pc>1-0202<k1>anucara<k2>anucara/
-{#anucara/#}¦ (von {#car#} mit {#anu#}) 
-<div n="1"> 1) <lex>adj.</lex> {%nachgehend, folgend%} 
-<ls>AK. 2, 8, 2, 39.</ls> das obj. im gen.: {#tenAnucareRa DenoH#} 
-<ls>RAGH. 2, 4.</ls> mit dem obj. componirt: {#AtmAnucarasya BAvaM jijYAsamAnA#} 
-<ls>RAGH. 2, 26.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%Begleiter, Diener%}, pl. {%Gefolge%} 
-<ls>AK. 3, 6, 11.</ls> 
-<ls>H. 496.</ls> {#kaTaM hyanucarAnhitvA SatrumaDye palAyase#} 
-<ls>DRAUP. 8, 59.</ls> mit dem gen. 
-<ls>YĀJÑ. 3, 116.</ls> 
-<ls>HIT. 17, 20.</ls> 
-<ls>MEGH. 3.</ls> im comp.: {#vibuDAnucarASca ye#} 
-<ls>M. 12, 47.</ls> {#devAnucarasya#} 
-<ls>RAGH. 2, 52.</ls> {#rAjAnucarEH#} 
-<ls>ITIH.</ls> bei <ls>ROSEN</ls> zu <ls>ṚV. 18, 1.</ls> <lex>f.</lex> {#anucarI#} {%Dienerin%}: {#catvAri ca SatAnyanucarIRAm#} 
-<ls>ŚAT. BR. 13, 5, 2, 1. 4, 27.</ls> 
-<ls>KĀTY. ŚR. 20, 1, 12. 5, 17. 6, 19. 20. 8, 25. 27.</ls> {#anucarIjAtIya#} {%von demselben Geschlecht als die Dienerin%} 
-<ls>20, 2, 20.</ls> {#anucarA#} 
-<ls>R. 6, 38, 14</ls> : {#apsaraso mahendrAnucarA daSa#} Am Ende eines <lex>adj.</lex> comp. (f. {#A#}) — {%zum Begleiter habend, begleitet%}
+{#anucara/#}¦ (von {#car#} mit {#anu#})
+<div n="1"> 1) <lex>adj.</lex> {%nachgehend, folgend%}
+<ls>AK. 2,8,2,39.</ls> das obj. im gen.: {#tenAnucareRa DenoH#}
+<ls>RAGH. 2,4.</ls> mit dem obj. componirt: {#AtmAnucarasya BAvaM jijYAsamAnA#}
+<ls>RAGH. 2,26.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) {%Begleiter, Diener%}, pl. {%Gefolge%}
+<ls>AK. 3,6,11.</ls>
+<ls>H. 496.</ls> {#kaTaM hyanucarAnhitvA SatrumaDye palAyase#}
+<ls>DRAUP. 8,59.</ls> mit dem gen.
+<ls>YĀJÑ. 3,116.</ls>
+<ls>HIT. 17,20.</ls>
+<ls>MEGH. 3.</ls> im comp.: {#vibuDAnucarASca ye#}
+<ls>M. 12,47.</ls> {#devAnucarasya#}
+<ls>RAGH. 2,52.</ls> {#rAjAnucarEH#}
+<ls>ITIH.</ls> bei <ls>ROSEN</ls> zu <ls>ṚV. 18,1.</ls> <lex>f.</lex> {#anucarI#} {%Dienerin%}: {#catvAri ca SatAnyanucarIRAm#}
+<ls>ŚAT. BR. 13,5,2,1.</ls> <ls n="ŚAT. BR. 13,5,">4,27.</ls>
+<ls>KĀTY. ŚR. 20,1,12.</ls> <ls n="KĀTY. ŚR. 20,">5,17.</ls> <ls n="KĀTY. ŚR. 20,">6,19.</ls> <ls n="KĀTY. ŚR. 20,6,">20.</ls> <ls n="KĀTY. ŚR. 20,">8,25.</ls> <ls n="KĀTY. ŚR. 20,8,">27.</ls> {#anucarIjAtIya#} {%von demselben Geschlecht als die Dienerin%}
+<ls n="KĀTY. ŚR.">20,2,20.</ls> {#anucarA#}
+<ls>R. 6,38,14</ls> : {#apsaraso mahendrAnucarA daSa#} Am Ende eines <lex>adj.</lex> comp. (f. {#A#}) — {%zum Begleiter habend, begleitet%}
 [Page1-0203]
-{%von%} —: {#dvyanucaro maDuparko Bo iti#} 
-<ls>KAUŚ. 90.</ls> {#sutaM lakzmaRAnucaram#} 
-<ls>R. 1, 24, 3.</ls> {#lakzmaRAnucaro rAmaH#} 
-<ls>4, 16, 10.</ls> {#sumitrAnucarA#} 
-<ls>2, 75, 14.</ls> {#vivarAnucaro granTirapsu budbudako yaTA#} 
-<ls>SUŚR. 1, 282, 5.</ls> 
+{%von%} —: {#dvyanucaro maDuparko Bo iti#}
+<ls>KAUŚ. 90.</ls> {#sutaM lakzmaRAnucaram#}
+<ls>R. 1,24,3.</ls> {#lakzmaRAnucaro rAmaH#}
+<ls n="R.">4,16,10.</ls> {#sumitrAnucarA#}
+<ls n="R.">2,75,14.</ls> {#vivarAnucaro granTirapsu budbudako yaTA#}
+<ls>SUŚR. 1,282,5.</ls>
 <div n="2">— b) {%die Folgestrophe%}, entsprechend der {%Eingangsstrophe%} ({#pratipad#}), bei gewissen gottesdienstlichen Recitationen: {#A tvA raTaM yaTotaya#} (
-<ls>ṚV. 8, 57, 1.</ls>) {#idaM vaso sutamanDa#} (
-<ls n="ṚV. 8,">2, 1.</ls>)
- {#iti rATaMtarI pratipadrATaMtaro 'nucaraH#} 
-<ls>AIT. BR. 8, 1.</ls> 
-<ls>ĀŚV. ŚR. 5, 14. 18. 7, 6.</ls>
+<ls>ṚV. 8,57,1.</ls>) {#idaM vaso sutamanDa#} (
+<ls n="ṚV. 8,">2,1.</ls>)
+ {#iti rATaMtarI pratipadrATaMtaro 'nucaraH#}
+<ls>AIT. BR. 8,1.</ls>
+<ls>ĀŚV. ŚR. 5,14. 18. 7,6.</ls>
 <LEND>

@@ -1,7 +1,7 @@
 <L>9864<pc>446<k1>steel<k2>steel
 {@Steel,@}¦ {%s.%} {#citrAyasa, sAralohaM, piMqAyasaM, tI-#}
-<div n="lb"/>{#-kzRAyasaM, SastrakaM#}. {@2@} {#SastraM, SastrakaM;#} ‘s. -yard’
-<div n="lb"/>{#tulAdaMqaH, mApanadaMqaH#}. -{%a.%} {#tIkzRAyasa#}
-<div n="lb"/>({#sI#} {%f.%}). -{%v. t.%} {#kaWinIkf#} 8 U, {#dfQI-#}
-<div n="lb"/>{#-nirdayI-kf#}.
+{#-kzRAyasaM, SastrakaM#}. {@2@} {#SastraM, SastrakaM;#} ‘s. -yard’
+{#tulAdaMqaH, mApanadaMqaH#}. -{%a.%} {#tIkzRAyasa#}
+({#sI#} {%f.%}). -{%v. t.%} {#kaWinIkf#} 8 U, {#dfQI-#}
+{#-nirdayI-kf#}.
 <LEND>

@@ -1,4 +1,4 @@
 <L>16567<pc>508<k1>patient<k2>patient
-<div n="lb"/>{@PATIENT@}¦ (subs.): {#rogin#} (f. {#RI#}), {%in-p.:%}
-<div n="lb"/>{#antaHsTarogin;#} <div n="xe">{%out-p.:%}</div> <div n="xs">{#*bahiHsTarogin#}</div> (m.).
+{@PATIENT@}¦ (subs.): {#rogin#} (f. {#RI#}), {%in-p.:%}
+{#antaHsTarogin;#} <div n="xe">{%out-p.:%}</div> <div n="xs">{#*bahiHsTarogin#}</div> (m.).
 <LEND>

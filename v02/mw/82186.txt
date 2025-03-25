@@ -1,3 +1,3 @@
-<L>82186<pc>434,3<k1>tan<k2>tan<h>a<e>2
-<s>tan</s> <hom>a</hom> ¦ in <ab>comp.</ab> for <s>ta/d</s>.<info lexcat="LEXID=pron,STEM=tad"/>
+<L>82186<pc>434,3<k1>tan<k2>tan<e>2
+<s>tan</s> ¦ in <ab>comp.</ab> for <s>ta/d</s>.<info lexcat="LEXID=pron,STEM=tad"/><info hui="a"/>
 <LEND>

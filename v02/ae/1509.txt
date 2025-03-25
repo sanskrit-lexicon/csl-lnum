@@ -1,9 +1,9 @@
 <L>1509<pc>051<k1>caste<k2>caste
 {@Caste,@}¦ {%s.%} {#varRaH, jAti#} {%f,%} {#kulaM;#} ‘of the
-<div n="lb"/>same c.’ {#savarRaH;#} ‘low c.’ {#hInavarRaH,#}
-<div n="lb"/>{#nIcaH, nikfzwajAtiH;#} ‘high c.’ {#uttamavarRaH;#}
-<div n="lb"/>‘mixture of c. s’ {#varRasaMkaraH;#} ‘low c.
-<div n="lb"/>man’ {#aMtyajaH;#} ‘loss of c.’ {#jAtiBraMSaH;#}
-<div n="lb"/>‘out of c.’ {#apasadaH, cAMQAlaH, jAtihInaH;#}
-<div n="lb"/>‘c. man’ {#sajAtIyaH#}.
+same c.’ {#savarRaH;#} ‘low c.’ {#hInavarRaH,#}
+{#nIcaH, nikfzwajAtiH;#} ‘high c.’ {#uttamavarRaH;#}
+‘mixture of c. s’ {#varRasaMkaraH;#} ‘low c.
+man’ {#aMtyajaH;#} ‘loss of c.’ {#jAtiBraMSaH;#}
+‘out of c.’ {#apasadaH, cAMQAlaH, jAtihInaH;#}
+‘c. man’ {#sajAtIyaH#}.
 <LEND>

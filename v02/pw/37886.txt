@@ -1,9 +1,9 @@
-<L>37886<pc>2198-3<k1>Gas<k2>Gas<e>500
-{#Gas#}¦ , {#Gasti , *Gasati#} {%versehren , verschlingen , fressen , essen.%}
-<div n="m">— <ab>Desid.</ab> {#ji/Gatsati#} {%zu fressen wünschen%} (auch vom {%unedlen , gierigen Essen%} der Menschen).
-<div n="p">— Mit {#api#} {%abfressen.%}
-<div n="p">— Mit {#*ud#} in {#*udGasa#}.
-<div n="p">— Mit {#*ni#} in {#*niGasa#}.
+<L>37886<pc>2-198-c<k1>Gas<k2>Gas
+√{#Gas#}¦, {#Gasti#}, *{#Gasati#} {%versehren, verschlingen, fressen, essen%}.
+<div n="m">— <ab>Desid.</ab> {#ji/Gatsati#} {%zu fressen wünschen%} (auch vom {%unedlen, gierigen Essen%} der Menschen).
+<div n="p">— Mit {#api#} {%abfressen%}.
+<div n="p">— Mit *{#ud#} in *{#udGasa#}.
+<div n="p">— Mit *{#ni#} in *{#niGasa#}.
 <div n="p">— Mit {#pra#} in {#praGasa#}.
 <div n="p">— Mit {#vi#} in {#viDasa#}.
 <LEND>

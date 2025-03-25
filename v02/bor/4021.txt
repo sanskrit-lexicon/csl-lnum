@@ -1,4 +1,4 @@
 <L>4021<pc>130<k1>colloquial<k2>colloquial
-<div n="lb"/>{@COLLOQUIAL:@}¦ Ph.: <div n="xe">{%c. language%}</div> <div n="xs">{#prAkftaBAzA#}</div> (?);
-<div n="lb"/><div n="xe">{%c. talent:%}</div> <div n="xs">{#samBAzaRaSaktiH#}</div> (?).
+{@COLLOQUIAL:@}¦ Ph.: <div n="xe">{%c. language%}</div> <div n="xs">{#prAkftaBAzA#}</div> (?);
+<div n="xe">{%c. talent:%}</div> <div n="xs">{#samBAzaRaSaktiH#}</div> (?).
 <LEND>

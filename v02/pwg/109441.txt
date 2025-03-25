@@ -1,344 +1,334 @@
 <L>109441<pc>7-1001<k1>siD<k2>siD<h>2
-2. {#siD#}¦ (vgl. {#sAD), si/Dyati#} 
-<ls>DHĀTUP. 26, 83</ls> {#(saMrAdDO)#}.{# sizeDa, asEtsIt, setsyati#} (vgl. 
-<ls>Kār. 4. 8</ls> <ls>?aus SIDDH. K. zu P. 7, 2, 10</ls>). med. nur des Metrums wegen. 
-<div n="1"> 1) {%zum Ziel kommen, treffen%}: {#izavaH siDyanti lakzye cale#} 
-<ls>ŚĀK. 38.</ls> 
-<div n="1">— 2) {%frommen, fruchten, Erfolg haben; gelingen, in Erfüllung gehen, zu Stande kommen%}: {#nAsmE^ vi\dyunna ta^nya\tuH si^zeDa#} {%nicht half ihm Donner und Blitz%} 
-<ls>ṚV. 1, 32, 13.</ls> {#yasmA^df\te na siDya^ti ya\jYaH#} 
-<ls n="ṚV. 1,">18, 7.</ls> {#nahi prajYApetA DIH kA ca na siDyet#} 
-<ls>KAUṢ. UP. 3, 7.</ls> {#kftaH puruzakAraSca so 'pi dEvena siDyati#} 
-<ls>Spr. (II) 1852.</ls> {#dEvaM hi mAnuzopetaM BfSaM siDyati#} 
-<ls>2972. 5124. 5161.</ls> {#upAyAH sAma#} u. s. w. {#samyakprayuktAH siDyeyuH#} 
-<ls>YĀJÑ. 1, 345.</ls> {#yadi yudDAni vacanEH siDyeyuH (sidDeyuH#} ed. Calc., {#yotsyante#} die neuere Ausg.) 
-<ls>HARIV. 10745.</ls> {#setsyate sa ca kAryArTaH#} 
-<ls>3125. 3979.</ls> <ls>R. 5, 1, 91.</ls> {#taTAsya sarvArTAH siDyanti#} 
-<ls>Spr. (II) 5134.</ls> 
-<ls>DAŚAK. 89, 12.</ls> {#udyamena hi siDyanti kAryARi na manoraTEH#} 
-<ls>Spr. (II) 1249. 3215. 7508.</ls> 
-<ls>KATHĀS. 18, 243.</ls> 
-<ls>BHAṬṬ. 12, 14.</ls> {#kriyA sADyezvapi na siDyati#} 
-<ls>SUŚR. 1, 127, 20.</ls> {#kuSalAnyASu siDyanti netarARi kftAni yat#} 
-<ls>BHĀG. P. 1, 18, 7.</ls> {#vicCidyante samAramBAH siDyante cApi dEvataH#} 
-<ls>Spr. (II) 6062.</ls> {#parAkramAH#} 
-<ls>R. 2, 25, 19.</ls> {#vikramAH#} 
-<ls>5, 80, 9.</ls> {#manoraTAH#} 
-<ls>2, 25, 37.</ls> <ls>Spr. (II) 1248.</ls> {#icCA#} 
-<ls>KATHĀS. 6, 157.</ls> {#vAYCA#} 
-<ls>9, 21.</ls> {#Ipsitam#} 
-<ls>22, 170.</ls> {#samIhitam#} 
-<ls>37, 29.</ls> {#mAnasaH saMkalpaH#} 
-<ls>MBH. 5, 2339</ls> <ls>?(med.). BHĀG. P.8, 24, 60.</ls>
+2. {#siD#}¦ (vgl. {#sAD), si/Dyati#}
+<ls>DHĀTUP. 26,83</ls> ({#saMrAdDO#}).{# sizeDa, asEtsIt, setsyati#} (vgl.
+<ls>Kār. 4. 8</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7,2,10</ls>). med. nur des Metrums wegen.
+<div n="1"> 1) {%zum Ziel kommen, treffen%}: {#izavaH siDyanti lakzye cale#}
+<ls>ŚĀK. 38.</ls>
+<div n="1">— 2) {%frommen, fruchten, Erfolg haben; gelingen, in Erfüllung gehen, zu Stande kommen%}: {#nAsmE^ vi\dyunna ta^nya\tuH si^zeDa#} {%nicht half ihm Donner und Blitz%}
+<ls>ṚV. 1,32,13.</ls> {#yasmA^df\te na siDya^ti ya\jYaH#}
+<ls n="ṚV. 1,">18,7.</ls> {#nahi prajYApetA DIH kA ca na siDyet#}
+<ls>KAUṢ. UP. 3,7.</ls> {#kftaH puruzakAraSca so 'pi dEvena siDyati#}
+<ls>Spr. (II) 1852.</ls> {#dEvaM hi mAnuzopetaM BfSaM siDyati#}
+<ls n="Spr. (II)">2972. 5124. 5161.</ls> {#upAyAH sAma#} u. s. w. {#samyakprayuktAH siDyeyuH#}
+<ls>YĀJÑ. 1,345.</ls> {#yadi yudDAni vacanEH siDyeyuH (sidDeyuH#} <ls>ed. Calc.</ls>, {#yotsyante#} die neuere Ausg.)
+<ls>HARIV. 10745.</ls> {#setsyate sa ca kAryArTaH#}
+<ls n="HARIV.">3125.</ls> <ls n="HARIV.">3979.</ls> <ls>R. 5,1,91.</ls> {#taTAsya sarvArTAH siDyanti#}
+<ls>Spr. (II) 5134.</ls>
+<ls>DAŚAK. 89,12.</ls> {#udyamena hi siDyanti kAryARi na manoraTEH#}
+<ls>Spr. (II) 1249.</ls> <ls n="Spr. (II)">3215.</ls> <ls n="Spr. (II)">7508.</ls>
+<ls>KATHĀS. 18,243.</ls>
+<ls>BHAṬṬ. 12,14.</ls> {#kriyA sADyezvapi na siDyati#}
+<ls>SUŚR. 1,127,20.</ls> {#kuSalAnyASu siDyanti netarARi kftAni yat#}
+<ls>BHĀG. P. 1,18,7.</ls> {#vicCidyante samAramBAH siDyante cApi dEvataH#}
+<ls>Spr. (II) 6062.</ls> {#parAkramAH#}
+<ls>R. 2,25,19.</ls> {#vikramAH#}
+<ls n="R.">5,80,9.</ls> {#manoraTAH#}
+<ls n="R.">2,25,37.</ls> <ls>Spr. (II) 1248.</ls> {#icCA#}
+<ls>KATHĀS. 6,157.</ls> {#vAYCA#}
+<ls n="KATHĀS.">9,21.</ls> {#Ipsitam#}
+<ls n="KATHĀS.">22,170.</ls> {#samIhitam#}
+<ls n="KATHĀS.">37,29.</ls> {#mAnasaH saMkalpaH#}
+<ls>MBH. 5,2339</ls> (med.). <ls>BHĀG. P. 8,24,60.</ls>
 [Page7-1002]
-{#pratijYA#} 
-<ls>KATHĀS. 38, 41.</ls> {#yatne kfte yadi na siDyati ko 'tra dozaH#} 
-<ls>Spr. (II) 1255. 3514.</ls> 
-<ls>VARĀH. BṚH. S. 98, 7. 104, 61.</ls> 
-<ls>KATHĀS. 15, 24. 61. 34. 67, 52.</ls> {#yadi vacanamAtrAdevADipatyaM siDyati#} 
-<ls>HIT. 84,7.</ls> <ls>Verz. d. Oxf. H. 68,a,3 v. u.</ls> ({#setsyati#} st. {#sepsati#} zu lesen). 
-<ls>?256,b,9. RĀJA-TAR.4,564. SARVADARŚANAS. 15,9. 97,12. 126,7. 147,2. LALIT. ed. Calc. 271,15. 16</ls> ({#siDyatAm#} ohne Noth st. {#siDyatu#}). so v. a. {%entstehen%}: {#siDyanti jIvantyuta varDamAnAH . lokA yataH#} 
-<ls>BHĀG. P. 8, 5, 33.</ls> 
-<div n="1">— 3) {%giltig sein%}: {#samakzadarSanAtsAkzyaM SravaRAccEva siDyati#} 
-<ls>M. 8, 74.</ls> {#vyavahAraH#} 
-<ls>163.</ls> <ls>YĀJÑ. 2, 32.</ls> ({#vfdDiH#} {%Zins%}) {#kftAnusArAdaDikA vyatiriktA na siDyati#} 
-<ls>M. 8, 152.</ls> 
-<div n="1">— 4) {%Jmd%} (gen.) {%zu Theil werden%} 
-<ls>PRAB. 61, 14.</ls> 
-<div n="1">— 5) {%in Ordnung kommen, geheilt werden%}: {#kAkaRaM nEva siDyati#} {%ist unheilbar%} 
-<ls>CARAKA 8, 5.</ls> {#ye ye grahA na siDyanti#} 
-<ls>SUŚR. 2, 536, 8.</ls> {#yenEza me karSito 'tiriraMsayAtmA . siDyeta#} 
-<ls>BHĀG. P. 3, 23, 11.</ls> 
-<div n="1">— 6) {%sich aus Etwas ergeben, folgen, sich als richtig erweisen, bewiesen sein%}: {#tena siDyati mARavaH#} 
-<ls>?<is>Kār</is>. zu P. 4, 1, 161. PAT.</ls> (unzählige Male). {#tadasmAnna siDyati#} 
-<ls>PAÑCAT. 59, 9.</ls> Comm. zu <ls>TS. PRĀT. 2, 25.</ls> <ls n="TS. PRĀT.">8, 8.</ls> <ls n="TS. PRĀT. 8,">16.</ls> <ls n="TS. PRĀT.">9, 7.</ls> <ls n="TS. PRĀT.">13, 14.</ls> <ls n="TS. PRĀT.">16, 18.</ls> zu <ls>JAIM. 1, 9. </ls> <ls>SARVADARŚANAS. 28, 16. 126, 9</ls> ({#mA sEtsIt#}) 
-<ls>137, 6.</ls> 
-<div n="1">— 7) {%sich in Jmdes Willen fügen, nachgeben%}: {#evaM kaliNgasenAsO tava - setsyati#} 
-<ls>KATHĀS. 30, 17.</ls> {#api vIryotkawaH Satruryato Bedena siDyati#} 
-<ls>434. 3435</ls> (oder zu 8). 
-<div n="1">— 8) {%sein Ziel erreichen. Erfolg haben%} (von Personen): {#siDyanti karmasu mahatsvapi yanniyojyAH#} 
-<ls>Spr. (II) 7050. 3435</ls> <ls>?(oder zu 7).</ls> {#anarTAH saMSayAvasTAH siDyante muktasaMSayAH#} 
-<ls>MBH. 3, 1244.</ls> {%das höchste Ziel erreichen, vollkommen —, glückselig werden%} 
-<ls>29. 8203.</ls> <ls>R. 7, 36, 45.</ls> <ls>ŚATR. 1, 285.</ls> <ls>BHĀG. P. 4, 12, 49. 5, 18, 10. 6, 14, 4.</ls> — partic. {#sidDa#} 
-<div n="1"> 1) <lex>adj.</lex> 
-<div n="2"> a) {%getroffen%}: {#sidDalakzeRa bARena#} 
-<ls>KATHĀS. 112, 56.</ls> 
-<div n="2">— b) {%erfolgt, gelungen, zu Stande gekommen, erreicht, vollbracht%}; = {#nizpanna#} 
-<ls>AK. 3, 2, 50.</ls> 
-<ls>TRIK. 3, 3, 224</ls> ({#nizpandana?#}) 
-<ls>H. 1487.</ls> 
-<ls>an. 2, 255.</ls> 
-<ls>MED. dh. 24.</ls> {#kArya#} 
-<ls>Spr. (II) 3216.</ls> {#sAmasidDAni kAryARi#} 
-<ls>7012. 7018.</ls> {#sAhasasidDakArya#} 
-<ls>VARĀH. BṚH. S. 69, 28.</ls> {#satkarman (satkarma ja°#} zu schreiben) 
-<ls>RĀJA-TAR. 5, 115.</ls> {#arTa#} 
-<ls>DAŚAK. 89, 9.</ls> 
-<ls>BHĀG. P. 2, 2, 3.</ls> {#AramBa#} 
-<ls>MEGH. 72.</ls> {#manoraTAH#} 
-<ls>PRAB. 18, 4.</ls> {#prayojana#} 
-<ls>PAÑCAT. 44, 10.</ls> {#samIhita#} 
-<ls>HIT. 44, 7.</ls> {#svAyuDEkasidDe mfgayArase#} 
-<ls>KATHĀS. 21, 16.</ls> {#nimittEH sADyasidDEH#} {%die noch in Erfüllung gehen sollten und die schon in Erfüllung gegangen waren%} 
-<ls>R. 5, 28, 16.</ls> 
-<div n="2">— c) {%eingegangen%} (von Geldern): {#arTa#} 
-<ls>Spr. (II) 4500.</ls> 
-<div n="2">— d) {%verfertigt%}: {#BramasidDo dantidantajaH SaNkuH#} 
-<ls>GOLĀDHY.</ls> <ls>YANTRĀDHY. 9.</ls> {%zubereitet, fertig gemacht, gekocht u.s.w.%} 
-<ls>TRIK. 2, 7, 11.</ls> 
-<ls>H. 412.</ls> 
-<ls>M. 3, 84. 121.</ls> 
-<ls>MBH. 13, 2769.</ls> 
-<ls>HARIV. 8441.</ls> 
-<ls>R. 1, 65, 5. 3, 52, 51.</ls> 
-<ls>SUŚR. 2, 66, 14.</ls> 
-<ls>PAÑCAT. 116, 22.</ls> 
-<ls>BHĀG. P. 4, 13, 36.</ls> {#arDa°#} 
-<ls>MĀRK. P. 51, 33.</ls> {#su°#} 
-<ls>Spr. (II) 4216.</ls> {#anala°#} 
-<ls>MBH. 3, 2943.</ls> {#uKA°#} 
-<ls>H. 411.</ls> {#sfgAlavinnA°#} 
-<ls>SUŚR. 2, 38, 7.</ls> {#bastARqa°#} 
-<ls>155, 1.</ls> 
-<div n="2">— e) {%giltig%}: {#a°#} 
-<ls>P. 6, 1, 86. 4, 22. 8, 2, 1.</ls> 
-<div n="2">— f) {%zu Theil geworden%}: {#tapaHpraBAvasidDABirviSezapratipattiBiH#} 
-<ls>RAGH. 15, 12.</ls> {#nEsargikI suraBiRaH kusumasya sidDA mUrDni sTitiH#} so v. a. {%eigenthümlich, eigen%} 
-<ls>UTTAR. 7, 1 (10, 8</ls> <ls>?= MĀLATĪM. 160, 5).</ls> {#avihita°#} so v. a. {%unerkünstelt, natürlich%} 
-<ls>113, 16 (154, 3).</ls> {#akaruRatvam#} u. s. w. {#prakftisidDaM hi durAtmanAm#} {%von Natur eigen%} 
-<ls>Spr. (II) 3. 6147.</ls> {#svaBAva°#} 
-<ls>5690.</ls> {#nisarga°#} 
-<ls>5857.</ls> {#jAti°#} 
-<ls>KATHĀS. 39, 108.</ls> {#sidDa = nitya#} 
-<ls>TRIK. 3, 3, 224.</ls> 
+{#pratijYA#}
+<ls>KATHĀS. 38,41.</ls> {#yatne kfte yadi na siDyati ko 'tra dozaH#}
+<ls>Spr. (II) 1255.</ls> <ls n="Spr. (II)">3514.</ls>
+<ls>VARĀH. BṚH. S. 98,7. 104,61.</ls>
+<ls>KATHĀS. 15,24.</ls> <ls n="KATHĀS. 15,">61.</ls> <ls n="KATHĀS. 15,">34.</ls> <ls n="KATHĀS.">67,52.</ls> {#yadi vacanamAtrAdevADipatyaM siDyati#}
+<ls>HIT. 84,7.</ls> <ls>Verz. d. Oxf. H. 68,a,3</ls> v. u. ({#setsyati#} st. {#sepsati#} zu lesen).
+<ls n="Verz. d. Oxf. H.">256,b,9.</ls> <ls>RĀJA-TAR. 4,564.</ls> <ls>SARVADARŚANAS. 15,9. 97,12. 126,7. 147,2.</ls> <ls>LALIT. ed. Calc. 271,15. 16</ls> ({#siDyatAm#} ohne Noth st. {#siDyatu#}). so v. a. {%entstehen%}: {#siDyanti jIvantyuta varDamAnAH . lokA yataH#}
+<ls>BHĀG. P. 8,5,33.</ls>
+<div n="1">— 3) {%giltig sein%}: {#samakzadarSanAtsAkzyaM SravaRAccEva siDyati#}
+<ls>M. 8,74.</ls> {#vyavahAraH#}
+<ls n="M. 8,">163.</ls> <ls>YĀJÑ. 2,32.</ls> ({#vfdDiH#} {%Zins%}) {#kftAnusArAdaDikA vyatiriktA na siDyati#}
+<ls>M. 8,152.</ls>
+<div n="1">— 4) {%Jmd%} (gen.) {%zu Theil werden%}
+<ls>PRAB. 61,14.</ls>
+<div n="1">— 5) {%in Ordnung kommen, geheilt werden%}: {#kAkaRaM nEva siDyati#} {%ist unheilbar%}
+<ls>CARAKA 8,5.</ls> {#ye ye grahA na siDyanti#}
+<ls>SUŚR. 2,536,8.</ls> {#yenEza me karSito 'tiriraMsayAtmA . siDyeta#}
+<ls>BHĀG. P. 3,23,11.</ls>
+<div n="1">— 6) {%sich aus Etwas ergeben, folgen, sich als richtig erweisen, bewiesen sein%}: {#tena siDyati mARavaH#}
+<is>Kār.</is> zu <ls>P. 4,1,161.</ls> <ls>PAT.</ls> (unzählige Male). {#tadasmAnna siDyati#}
+<ls>PAÑCAT. 59,9.</ls> Comm. zu <ls>TS. PRĀT. 2,25.</ls> <ls n="TS. PRĀT.">8,8.</ls> <ls n="TS. PRĀT. 8,">16.</ls> <ls n="TS. PRĀT.">9,7.</ls> <ls n="TS. PRĀT.">13,14.</ls> <ls n="TS. PRĀT.">16,18.</ls> zu <ls>JAIM. 1,9.</ls> <ls>SARVADARŚANAS. 28,16. 126,9</ls> ({#mA sEtsIt#})
+<ls n="SARVADARŚANAS.">137,6.</ls>
+<div n="1">— 7) {%sich in Jmdes Willen fügen, nachgeben%}: {#evaM kaliNgasenAsO tava — setsyati#}
+<ls>KATHĀS. 30,17.</ls> {#api vIryotkawaH Satruryato Bedena siDyati#}
+<ls n="Spr. (II)">434.</ls> <ls n="Spr. (II)">3435</ls> (oder zu 8).
+<div n="1">— 8) {%sein Ziel erreichen. Erfolg haben%} (von Personen): {#siDyanti karmasu mahatsvapi yanniyojyAH#}
+<ls>Spr. (II) 7050.</ls> <ls n="Spr. (II)">3435</ls> (oder zu 7). {#anarTAH saMSayAvasTAH siDyante muktasaMSayAH#}
+<ls>MBH. 3,1244.</ls> {%das höchste Ziel erreichen, vollkommen —, glückselig werden%}
+<ls n="MBH. 3,">29.</ls> <ls n="MBH. 3,">8203.</ls> <ls>R. 7,36,45.</ls> <ls>ŚATR. 1,285.</ls> <ls>BHĀG. P. 4,12,49.</ls> <ls n="BHĀG. P.">5,18,10.</ls> <ls n="BHĀG. P.">6,14,4.</ls> — partic. {#sidDa#}
+<div n="1"> 1) <lex>adj.</lex>
+<div n="2"> a) {%getroffen%}: {#sidDalakzeRa bARena#}
+<ls>KATHĀS. 112,56.</ls>
+<div n="2">— b) {%erfolgt, gelungen, zu Stande gekommen, erreicht, vollbracht%}; = {#nizpanna#}
+<ls>AK. 3,2,50.</ls>
+<ls>TRIK. 3,3,224</ls> ({#nizpandana?#})
+<ls>H. 1487.</ls>
+<ls>an. 2,255.</ls>
+<ls>MED. dh. 24.</ls> {#kArya#}
+<ls>Spr. (II) 3216.</ls> {#sAmasidDAni kAryARi#}
+<ls n="Spr. (II)">7012. 7018.</ls> {#sAhasasidDakArya#}
+<ls>VARĀH. BṚH. S. 69,28.</ls> {#satkarman (satkarma ja°#} zu schreiben)
+<ls>RĀJA-TAR. 5,115.</ls> {#arTa#}
+<ls>DAŚAK. 89,9.</ls>
+<ls>BHĀG. P. 2,2,3.</ls> {#AramBa#}
+<ls>MEGH. 72.</ls> {#manoraTAH#}
+<ls>PRAB. 18,4.</ls> {#prayojana#}
+<ls>PAÑCAT. 44,10.</ls> {#samIhita#}
+<ls>HIT. 44,7.</ls> {#svAyuDEkasidDe mfgayArase#}
+<ls>KATHĀS. 21,16.</ls> {#nimittEH sADyasidDEH#} {%die noch in Erfüllung gehen sollten und die schon in Erfüllung gegangen waren%}
+<ls>R. 5,28,16.</ls>
+<div n="2">— c) {%eingegangen%} (von Geldern): {#arTa#}
+<ls>Spr. (II) 4500.</ls>
+<div n="2">— d) {%verfertigt%}: {#BramasidDo dantidantajaH SaNkuH#}
+<ls>GOLĀDHY.</ls> <ls>YANTRĀDHY. 9.</ls> {%zubereitet, fertig gemacht, gekocht u.s.w.%}
+<ls>TRIK. 2,7,11.</ls>
+<ls>H. 412.</ls>
+<ls>M. 3,84.</ls> <ls n="M. 3,">121.</ls>
+<ls>MBH. 13,2769.</ls>
+<ls>HARIV. 8441.</ls>
+<ls>R. 1,65,5.</ls> <ls n="R.">3,52,51.</ls>
+<ls>SUŚR. 2,66,14.</ls>
+<ls>PAÑCAT. 116,22.</ls>
+<ls>BHĀG. P. 4,13,36.</ls> {#arDa°#}
+<ls>MĀRK. P. 51,33.</ls> {#su°#}
+<ls>Spr. (II) 4216.</ls> {#anala°#}
+<ls>MBH. 3,2943.</ls> {#uKA°#}
+<ls>H. 411.</ls> {#sfgAlavinnA°#}
+<ls>SUŚR. 2,38,7.</ls> {#bastARqa°#}
+<ls n="SUŚR.">155,1.</ls>
+<div n="2">— e) {%giltig%}: {#a°#}
+<ls>P. 6,1,86.</ls> <ls n="P. 6,">4,22.</ls> <ls n="P.">8,2,1.</ls>
+<div n="2">— f) {%zu Theil geworden%}: {#tapaHpraBAvasidDABirviSezapratipattiBiH#}
+<ls>RAGH. 15,12.</ls> {#nEsargikI suraBiRaH kusumasya sidDA mUrDni sTitiH#} so v. a. {%eigenthümlich, eigen%}
+<ls>UTTAR. 7,1</ls> (<ls n="UTTAR.">10,8</ls> = <ls>MĀLATĪM. 160,5</ls>). {#avihita°#} so v. a. {%unerkünstelt, natürlich%}
+<ls n="UTTAR.">113,16 (154,3).</ls> {#akaruRatvam#} u. s. w. {#prakftisidDaM hi durAtmanAm#} {%von Natur eigen%}
+<ls>Spr. (II) 3.</ls> <ls n="Spr. (II)">6147.</ls> {#svaBAva°#}
+<ls n="Spr. (II)">5690.</ls> {#nisarga°#}
+<ls n="Spr. (II)">5857.</ls> {#jAti°#}
+<ls>KATHĀS. 39,108.</ls> {#sidDa = nitya#}
+<ls>TRIK. 3,3,224.</ls>
 <ls>H. an.</ls> Bei <ls>PAT.</ls> in der Einl
-zu <ls>MAHĀBH. (1, 12</ls>, {%a%} lith. Ausg.) ist {#sidDa = nitya#} so v. a. {%unvergänglich, unveränderlich%}; so sage man {#sidDA dyOH, sidDA pfTivI, sidDamAkASam#} . 
-<div n="2">— g) {%in Ordnung gekommen, geheilt%}: eine Person 
-<ls>Spr. (II) 356.</ls> 
+zu <ls>MAHĀBH.</ls> (<ls>1,12,a</ls> lith. Ausg.) ist {#sidDa = nitya#} so v. a. {%unvergänglich, unveränderlich%}; so sage man {#sidDA dyOH, sidDA pfTivI, sidDamAkASam#} .
+<div n="2">— g) {%in Ordnung gekommen, geheilt%}: eine Person
+<ls>Spr. (II) 356.</ls>
 <div n="2">— h) {%aus Etwas sich%}
 [Page7-1003]
-{%ergebend, - folgend, feststehend, sich als richtig erweisend, erwiesend, erwiesen, bewiesen%}: {#sAkzipratyayasidDAni kAryARi#} 
-<ls>M. 8, 178.</ls> 
-<ls>Spr. (II) 4051.</ls> 
-<ls>SĀṂKHYAK. 6. 14. 18. fg.</ls> 
-<ls>TARKAS. 40. 43. 59.</ls> <ls>BHĀṢĀP. 20.</ls> <ls>SARVADARŚANAS. 8, 9. 12, 14. 16, 8. 17, 10.</ls> <ls>PAT.</ls> (unzählige Male). 
-<ls>SIDDH. K.</ls> zu <ls>P. 2, 2, 11.</ls> <ls>Schol.</ls> zu <ls n="P.">1, 1, 62.</ls> <ls n="P. 1,">3, 61.</ls> zu <ls>TS. PRĀT. 1, 11.</ls> <ls n="TS. PRĀT. 1,">14.</ls> <ls n="TS. PRĀT.">4, 3.</ls> <ls n="TS. PRĀT.">5, 26.</ls> <ls n="TS. PRĀT.">8, 21.</ls> {#pratyakza°#} 
-<ls>SĀH. D. 2, 2.</ls> {#svaBAva°#} {%selbstverständlich%} 
-<ls>KĀŚ.</ls> zu <ls>P. 1, 2, 53.</ls> 
-<div n="2">— i) {%feststehend%} so v. a. {%bekannt%}; = {#prasidDa#} 
-<ls>H. an.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>ĀŚV. ŚR. 9, 1, 2.</ls> {#vizwArapaNkti#} 
-<ls>Ind. St. 8, 97. fgg.</ls> {#bfhatI#} 
-<ls>244. 417. 424. 10, 407.</ls> {#AtmEva sidDo 'dvitIyaH#} 
-<ls>9, 162.</ls> <ls>RĀJA-TAR. 1, 190.</ls> {#prAk°#} 
-<ls>4, 141.</ls> {#sidDatara#} {%bekannter, berühmter%} 
-<ls>R. 1, 32, 25 (33, 24 GORR.).</ls> in comp. mit einem im loc. gedachten Worte, das seinen Ton bewahrt, 
-<ls>P. 2, 1, 41. 6, 2, 32. 3, 19.</ls> {#sAMkASya°#} Schol. {#loka°#} 
-<ls>HARIV. 3734.</ls> 
-<ls>BHĀG. P. 10, 18, 16.</ls> 
-<ls>SARVADARŚANAS. 3, 14.</ls> 
-<div n="2">— k) {%wirksam, Zauberkraft besitzend%}: leblose Gegenstände 
-<ls>Spr. (II) 7046.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 3, 15.</ls> <ls>RĀJA-TAR. 1, 110.</ls> Vgl. {#sidDakajjala#} u. s. w. 
-<div n="2">— l) {%zu Willen seiend, zu Jmdes%} (gen.) {%Verfügung stehend%} (insbes. von Geistern und andern Zaubermitteln): {#sidDA yasya sarasvatI BagavatI#} 
-<ls>Z. d. d. m. G. 27, 77.</ls> {#yakziRI#} 
-<ls>KATHĀS. 10, 178.</ls> {#vetAla#} 
-<ls>18, 177.</ls> {#piSAca#} 
-<ls>28, 169. 49, 184. 109, 104.</ls> <ls>PAÑCAT. 250, 12.</ls> {#°sADana#} 
-<ls>Verz. d. Oxf. H. 86,a,21.</ls> {#sidDAni cAsya ratnAni vidyASca#} 
-<ls>KATHĀS. 46, 188. 109, 19. 21.</ls> 
-<div n="2">— m) {%der sein Ziel erreicht hat%} 
-<ls>BHĀG. P. 10, 22, 27.</ls> {%der das höchste Ziel erreicht hat, zur Vollkommenheit gelangt —, Meister geworden in Etwas%} (geht im comp. voran) 
-<ls>VARĀH. BṚH. 21 (19), 2.</ls> {#mantra°#} 
-<ls>MBH. 1, 6310.</ls> {#karma°#} 
-<ls>6356.</ls> {#tapaH°#} 
-<ls>7668.</ls> <ls>R. 1, 47, 11.</ls> <ls>BHĀG. P. 7, 3, 17.</ls> {#anarTAya#} {%Meister im Unheilstiften%} 
-<ls>KATHĀS. 28, 185.</ls> 
-<div n="2">— n) {%vollkommen geworden%} so v. a. {%in den Besitz übernatürlicher Kräfte gelangt, den Naturgesetzen nicht mehr unterworfen%}; = {#mukta#} 
-<ls>H. an.</ls> {#sidDo 'hyatra mahAtapAH#} 
-<ls>R. 1, 31, 3.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 36, 12. 2, 98, 7. 3, 6, 22. <is>Śiva</is></ls> 
-<ls>MBH. 14, 196.</ls> 
-<ls>Spr. (II) 2784.</ls> 
-<ls>KATHĀS. 5, 135. 121, 79.</ls> 
-<ls>BHĀG. P. 3, 23, 8. 6, 12, 19.</ls> {#saMkalpa°#} 
-<ls>MBH. 5, 7490.</ls> {#janmOzaDitapomattrayoga°#} 
-<ls>BHĀG. P. 4, 6, 9.</ls> {#nitya°, yoga°#} 
-<ls>COLEBR. Misc. Ess. 1, 381.</ls> {#asidDasya hatA vidyA#} {%verloren ist der Zauberspruch für den, der nicht die Zaubermacht besitzt%}, 
-<ls>Spr. (II) 3754</ls> (hier anders gefasst). subst. {%Seher, Wahrsager, Zauberer%} 
-<ls>HĀR. 161.</ls> {#sidDAnAmayamAdeSaH#} 
-<ls>Spr. (II) 6758.</ls> 
-<ls>RATNĀV. 103, 16.</ls> 
-<ls>KATHĀS. 44, 88.</ls> 
-<ls>RĀJA-TAR. 3, 468.</ls> 
-<ls>PAÑCAT. 242, 21.</ls> {#suvarRa°#} 
-<ls>243, 1. fgg.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%ein Vollendeter, Glückseliger%}, Bez. einer Klasse von Halbgöttern (wie <is>Kapila</is>, <is>Vyāsa</is>, <is>Vasiṣṭha</is>, <is>Viśvāmitra</is>, <is>Bharadvāja</is>), denen übernatürliche Kräfte, insbes. das Fliegen durch den Luftraum, beigeschrieben werden, 
-<ls>AK. 1, 1, 1, 6.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> ({#vyAsAdi#} und {#Bedo devayoneH#} als zwei Bedd.). 
-<ls>HALĀY. 1, 87.</ls> 
-<ls>ĀŚV. GṚHY. 3, 4, 1.</ls> 
-<ls>MBH. 1, 2570. 3, 1748. 1765. 1786. 1830. 12, 6788. 13, 1777.</ls> 
-<ls>BHAG. 10, 26. 11, 21. fg. 36.</ls> 
-<ls>R. 1, 51, 23. 2, 70, 30. 95, 13. 112, 2.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 34, 22. 101, 23.</ls> 
-<ls>MEGH. 22. 46. 56.</ls> 
-<ls>RAGH. 3, 57.</ls> 
-<ls>KUMĀRAS. 1, 6.</ls> 
-<ls>SŪRYAS. 12, 28.</ls> 
-<ls>VARĀH. BṚH. S. 13, 8. 48, 25. 55. 74, 19.</ls> 
-<ls>Spr. (II) 7047.</ls> 
-<ls>KATHĀS. 20, 179. 32, 30.</ls> 
-<ls>RĀJA-TAR. 1, 285. 2, 165. 3, 267. 272. 450. 5, 66.</ls> 
-<ls>VP. 227.</ls> 
-<ls>MĀRK. P. 63, 25.</ls> 
-<ls>BHĀG. P. 3, 4, 9. 20, 44. 33, 32. 4, 15, 7. 18, 19. 31, 2. 9, 3, 13.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 49, 18.</ls> <ls>SARVADARŚANAS. 99, 5.</ls> <ls>PAÑCAR. 1, 1, 1. 4, 1, 5.</ls> {#°yozit#} 
-<ls>BHĀG. P. 4, 6, 11.</ls> {#sidDANganA#} 
-<ls>MEGH. 14.</ls> {#sidDA#} 
-f. <ls>R. 3, 2, 7. 77, 8.</ls> 
-<div n="2">— b) bei den <is>Jaina</is> Bez. eines <is>Jina</is> und daher {%der Zahl vierundzwanzig%} 
-<ls>GAṆIT.</ls> 
-<ls>PRATYABDAŚ. 22.</ls> <ls>SPAṢṬĀDH. 4.</ls> <ls>TRIPR. 62.</ls> 
+{%ergebend, — folgend, feststehend, sich als richtig erweisend, erwiesend, erwiesen, bewiesen%}: {#sAkzipratyayasidDAni kAryARi#}
+<ls>M. 8,178.</ls>
+<ls>Spr. (II) 4051.</ls>
+<ls>SĀṂKHYAK. 6. 14. 18. fg.</ls>
+<ls>TARKAS. 40. 43. 59.</ls> <ls>BHĀṢĀP. 20.</ls> <ls>SARVADARŚANAS. 8,9. 12,14. 16,8. 17,10.</ls> <ls>PAT.</ls> (unzählige Male).
+<ls>SIDDH. K.</ls> zu <ls>P. 2,2,11.</ls> <ls>Schol.</ls> zu <ls n="P.">1,1,62.</ls> <ls n="P. 1,">3,61.</ls> zu <ls>TS. PRĀT. 1,11.</ls> <ls n="TS. PRĀT. 1,">14.</ls> <ls n="TS. PRĀT.">4,3.</ls> <ls n="TS. PRĀT.">5,26.</ls> <ls n="TS. PRĀT.">8,21.</ls> {#pratyakza°#}
+<ls>SĀH. D. 2,2.</ls> {#svaBAva°#} {%selbstverständlich%}
+<ls>KĀŚ.</ls> zu <ls>P. 1,2,53.</ls>
+<div n="2">— i) {%feststehend%} so v. a. {%bekannt%}; = {#prasidDa#}
+<ls>H. an.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>ĀŚV. ŚR. 9,1,2.</ls> {#vizwArapaNkti#}
+<ls>Ind. St. 8,97. fgg.</ls> {#bfhatI#}
+<ls n="Ind. St.">244. 417. 424. 10,407.</ls> {#AtmEva sidDo 'dvitIyaH#}
+<ls n="Ind. St.">9,162.</ls> <ls>RĀJA-TAR. 1,190.</ls> {#prAk°#}
+<ls n="RĀJA-TAR.">4,141.</ls> {#sidDatara#} {%bekannter, berühmter%}
+<ls>R. 1,32,25</ls> (<ls n="GORR. 1,">33,24</ls> <ls>GORR.</ls>). in comp. mit einem im loc. gedachten Worte, das seinen Ton bewahrt,
+<ls>P. 2,1,41.</ls> <ls n="P.">6,2,32.</ls> <ls n="P. 6,">3,19.</ls> {#sAMkASya°#} Schol. {#loka°#}
+<ls>HARIV. 3734.</ls>
+<ls>BHĀG. P. 10,18,16.</ls>
+<ls>SARVADARŚANAS. 3,14.</ls>
+<div n="2">— k) {%wirksam, Zauberkraft besitzend%}: leblose Gegenstände
+<ls>Spr. (II) 7046.</ls>
+<ls>VET. in LA. (III) 3,15.</ls> <ls>RĀJA-TAR. 1,110.</ls> Vgl. {#sidDakajjala#} u. s. w.
+<div n="2">— l) {%zu Willen seiend, zu Jmdes%} (gen.) {%Verfügung stehend%} (insbes. von Geistern und andern Zaubermitteln): {#sidDA yasya sarasvatI BagavatI#}
+<ls>Z. d. d. m. G. 27,77.</ls> {#yakziRI#}
+<ls>KATHĀS. 10,178.</ls> {#vetAla#}
+<ls n="KATHĀS.">18,177.</ls> {#piSAca#}
+<ls n="KATHĀS.">28,169.</ls> <ls n="KATHĀS.">49,184.</ls> <ls n="KATHĀS.">109,104.</ls> <ls>PAÑCAT. 250,12.</ls> {#°sADana#}
+<ls>Verz. d. Oxf. H. 86,a,21.</ls> {#sidDAni cAsya ratnAni vidyASca#}
+<ls>KATHĀS. 46,188.</ls> <ls n="KATHĀS.">109,19.</ls> <ls n="KATHĀS. 109,">21.</ls>
+<div n="2">— m) {%der sein Ziel erreicht hat%}
+<ls>BHĀG. P. 10,22,27.</ls> {%der das höchste Ziel erreicht hat, zur Vollkommenheit gelangt —, Meister geworden in Etwas%} (geht im comp. voran)
+<ls>VARĀH. BṚH. 21 (19),2.</ls> {#mantra°#}
+<ls>MBH. 1,6310.</ls> {#karma°#}
+<ls n="MBH. 1,">6356.</ls> {#tapaH°#}
+<ls n="MBH. 1,">7668.</ls> <ls>R. 1,47,11.</ls> <ls>BHĀG. P. 7,3,17.</ls> {#anarTAya#} {%Meister im Unheilstiften%}
+<ls>KATHĀS. 28,185.</ls>
+<div n="2">— n) {%vollkommen geworden%} so v. a. {%in den Besitz übernatürlicher Kräfte gelangt, den Naturgesetzen nicht mehr unterworfen%}; = {#mukta#}
+<ls>H. an.</ls> {#sidDo 'hyatra mahAtapAH#}
+<ls>R. 1,31,3.</ls>
+<ls>R. GORR. 1,36,12.</ls> <ls n="R. GORR.">2,98,7.</ls> <ls n="R. GORR.">3,6,22.</ls> <is>Śiva</is>
+<ls>MBH. 14,196.</ls>
+<ls>Spr. (II) 2784.</ls>
+<ls>KATHĀS. 5,135.</ls> <ls n="KATHĀS.">121,79.</ls>
+<ls>BHĀG. P. 3,23,8.</ls> <ls n="BHĀG. P.">6,12,19.</ls> {#saMkalpa°#}
+<ls>MBH. 5,7490.</ls> {#janmOzaDitapomattrayoga°#}
+<ls>BHĀG. P. 4,6,9.</ls> {#nitya°, yoga°#}
+<ls>COLEBR. Misc. Ess. 1,381.</ls> {#asidDasya hatA vidyA#} {%verloren ist der Zauberspruch für den, der nicht die Zaubermacht besitzt%},
+<ls>Spr. (II) 3754</ls> (hier anders gefasst). subst. {%Seher, Wahrsager, Zauberer%}
+<ls>HĀR. 161.</ls> {#sidDAnAmayamAdeSaH#}
+<ls>Spr. (II) 6758.</ls>
+<ls>RATNĀV. 103,16.</ls>
+<ls>KATHĀS. 44,88.</ls>
+<ls>RĀJA-TAR. 3,468.</ls>
+<ls>PAÑCAT. 242,21.</ls> {#suvarRa°#}
+<ls n="PAÑCAT.">243,1. fgg.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) {%ein Vollendeter, Glückseliger%}, Bez. einer Klasse von Halbgöttern (wie <is>Kapila</is>, <is>Vyāsa</is>, <is>Vasiṣṭha</is>, <is>Viśvāmitra</is>, <is>Bharadvāja</is>), denen übernatürliche Kräfte, insbes. das Fliegen durch den Luftraum, beigeschrieben werden,
+<ls>AK. 1,1,1,6.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> ({#vyAsAdi#} und {#Bedo devayoneH#} als zwei Bedd.).
+<ls>HALĀY. 1,87.</ls>
+<ls>ĀŚV. GṚHY. 3,4,1.</ls>
+<ls>MBH. 1,2570.</ls> <ls n="MBH.">3,1748.</ls> <ls n="MBH. 3,">1765.</ls> <ls n="MBH. 3,">1786.</ls> <ls n="MBH. 3,">1830.</ls> <ls n="MBH.">12,6788.</ls> <ls n="MBH.">13,1777.</ls>
+<ls>BHAG. 10,26. 11,21. fg. 36.</ls>
+<ls>R. 1,51,23.</ls> <ls n="R.">2,70,30.</ls> <ls n="R. 2,">95,13.</ls> <ls n="R. 2,">112,2.</ls>
+<ls>R. GORR. 2,34,22.</ls> <ls n="R. GORR. 2,">101,23.</ls>
+<ls>MEGH. 22. 46. 56.</ls>
+<ls>RAGH. 3,57.</ls>
+<ls>KUMĀRAS. 1,6.</ls>
+<ls>SŪRYAS. 12,28.</ls>
+<ls>VARĀH. BṚH. S. 13,8. 48,25. 55. 74,19.</ls>
+<ls>Spr. (II) 7047.</ls>
+<ls>KATHĀS. 20,179.</ls> <ls n="KATHĀS.">32,30.</ls>
+<ls>RĀJA-TAR. 1,285. 2,165. 3,267. 272. 450. 5,66.</ls>
+<ls>VP. 227.</ls>
+<ls>MĀRK. P. 63,25.</ls>
+<ls>BHĀG. P. 3,4,9.</ls> <ls n="BHĀG. P. 3,">20,44.</ls> <ls n="BHĀG. P. 3,">33,32.</ls> <ls n="BHĀG. P.">4,15,7.</ls> <ls n="BHĀG. P. 4,">18,19.</ls> <ls n="BHĀG. P. 4,">31,2.</ls> <ls n="BHĀG. P.">9,3,13.</ls>
+<ls>BRAHMA-P. in LA. (III) 49,18.</ls> <ls>SARVADARŚANAS. 99,5.</ls> <ls>PAÑCAR. 1,1,1. 4,1,5.</ls> {#°yozit#}
+<ls>BHĀG. P. 4,6,11.</ls> {#sidDANganA#}
+<ls>MEGH. 14.</ls> {#sidDA#}
+f. <ls>R. 3,2,7.</ls> <ls n="R. 3,">77,8.</ls>
+<div n="2">— b) bei den <is>Jaina</is> Bez. eines <is>Jina</is> und daher {%der Zahl vierundzwanzig%}
+<ls>GAṆIT.</ls>
+<ls>PRATYABDAŚ. 22.</ls> <ls>SPAṢṬĀDH. 4.</ls> <ls>TRIPR. 62.</ls>
 <div n="2">— c)
 [Page7-1004]
-Bez. {%einer best. Constellation%} 
-<ls>MED.</ls> <ls>KOṢṬHĪPR.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— d) N. pr. 
-<div n="3"> α) pl. eines Volkes 
-<ls>MBH. 6, 364</ls> <ls>?(VP. 192).</ls> 
-<div n="3">— β) eines <is>Devagandharva</is> 
-<ls>MBH. 1, 2554.</ls> 
-<div n="3">— γ) eines <is>Rājarṣi</is> 
-<ls>MBH. 2, 320.</ls> eines Fürsten 
-<ls>RĀJA-TAR. 1, 276.</ls> eines Bruders des <is>Jajja</is> 
-<ls>4, 519.</ls> eines Brahmanen 
-<ls>TĀRAN. 4. 24.</ls> 
-<div n="2">— e) = {#vyavahAra#} (wohl <lex>adj.</lex> in der Bed. {%giltig%}) 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> = {#kfzRaDustUra#} und {#guqa#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#A#} . 
-<div n="2"> a) <lex>adj.</lex> am Ende von Hetärennamen 
-<ls>SĀH. D. 426.</ls> 
-<div n="2">— b) {%eine best. Pflanze%}, = {#fdDi#} 
-<ls>RĀJAN. 5, 28.</ls> 
-<div n="2">— c) {%eine Art Fee%} ({#yoginI#}) 
-<ls>JĀTAKADĪPIKĀ</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— d) {%eine Vollendete, Glückselige%}; s. u. 
-<div n="1"> 2) 
-<div n="2"> a) am Ende. 
-<div n="1">— 4) <lex>n.</lex> 
-<div n="2"> a) {%Zaubermacht, übernatürliche Kraft%}: {#yadDftvA paWanAtsidDAH sidDAni prApnuvanti ca#} 
-<ls>PAÑCAR. 1, 5, 11.</ls> {#aRimA#} u. s. w. {#vAksidDaM sidDaM saptadaSa smftam#} 
-<ls>2, 8, 4.</ls> 
-<div n="2">— b) {%Kochsalz%} ({#sEnDavalavaRa#}) 
-<ls>RĀJAN. 6, 90.</ls> {#SudDa#} 
-v. l. 
-<div n="2">— c) {#sidDaM puram#} ungenau für {#sidDapuram#} d. i. {#sidDAnAM puram#} 
-<ls>GOLĀDHY.</ls> <ls>BHUVANAK. 26.</ls> eben so {#sidDe nArAyaRakzetre#} für {#nArAyaRasya sidDakzetre#} 
-<ls>PAÑCAR. 1, 2, 3.</ls> 
+Bez. {%einer best. Constellation%}
+<ls>MED.</ls> <ls>KOṢṬHĪPR.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— d) N. pr.
+<div n="3"> α) pl. eines Volkes
+<ls>MBH. 6,364</ls> (<ls>VP. 192).</ls>
+<div n="3">— β) eines <is>Devagandharva</is>
+<ls>MBH. 1,2554.</ls>
+<div n="3">— γ) eines <is>Rājarṣi</is>
+<ls>MBH. 2,320.</ls> eines Fürsten
+<ls>RĀJA-TAR. 1,276.</ls> eines Bruders des <is>Jajja</is>
+<ls n="RĀJA-TAR.">4,519.</ls> eines Brahmanen
+<ls>TĀRAN. 4. 24.</ls>
+<div n="2">— e) = {#vyavahAra#} (wohl <lex>adj.</lex> in der Bed. {%giltig%})
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> = {#kfzRaDustUra#} und {#guqa#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 3) <lex>f.</lex> {#A#} .
+<div n="2"> a) <lex>adj.</lex> am Ende von Hetärennamen
+<ls>SĀH. D. 426.</ls>
+<div n="2">— b) {%eine best. Pflanze%}, = {#fdDi#}
+<ls>RĀJAN. 5,28.</ls>
+<div n="2">— c) {%eine Art Fee%} ({#yoginI#})
+<ls>JĀTAKADĪPIKĀ</ls> im <ls>ŚKDR.</ls>
+<div n="2">— d) {%eine Vollendete, Glückselige%}; s. u.
+<div n="1"> 2)
+<div n="2"> a) am Ende.
+<div n="1">— 4) <lex>n.</lex>
+<div n="2"> a) {%Zaubermacht, übernatürliche Kraft%}: {#yadDftvA paWanAtsidDAH sidDAni prApnuvanti ca#}
+<ls>PAÑCAR. 1,5,11.</ls> {#aRimA#} u. s. w. {#vAksidDaM sidDaM saptadaSa smftam#}
+<ls n="PAÑCAR.">2,8,4.</ls>
+<div n="2">— b) {%Kochsalz%} ({#sEnDavalavaRa#})
+<ls>RĀJAN. 6,90.</ls> {#SudDa#}
+v. l.
+<div n="2">— c) {#sidDaM puram#} ungenau für {#sidDapuram#} <ab>d. i.</ab> {#sidDAnAM puram#}
+<ls>GOLĀDHY. BHUVANAK. 26.</ls> eben so {#sidDe nArAyaRakzetre#} für {#nArAyaRasya sidDakzetre#}
+<ls>PAÑCAR. 1,2,3.</ls>
 <div n="v">— Vgl. {#arTasidDa, manoraTa°, mantra°, yaTA°, rasa°, Sveta°, sarvArTa°, saha°, sva°#} .
-
-<div n="p">— caus. 
-<div n="1"> 1) {#seDayati (pAralOkike)#} 
-<ls>P. 6, 1, 49.</ls> {%Jmdes Wissen an den Tag legen%}: {#tapastApasaM seDayati, svAnyevEnaM karmARi seDayanti = jYAnamasya prakASayati (°nti)#} 
-<ls>PAT.</ls> eher {%glückselig machen.%} 
-<div n="1">— 2) {#sADayati#} 
-<ls>P. 6, 1.</ls> <ls>?49; s. u. 1.</ls> {#sAD#} .
-
-<div n="p">— {#anu#} partic. {#°sidDa#} {%allmählich zu Stande gekommen%}: {#tapasA kramAnusidDena#} 
-<ls>BHĀG. P. 4, 23, 8.</ls>
-
-<div n="p">— {#aBi#} 
-<div n="1"> 1) {%gelingen, zu Stande kommen%}: {#arTo 'BisiDyati#} 
-<ls>MBH. 12, 7427.</ls> 
-<div n="1">— 2) {%erlangen, erreichen, gewinnen%}; mit acc. 
-<ls>CHĀND. UP. 7, 4, 3.</ls>
-
-<div n="p">— {#pra#} 
-<div n="1"> 1) {%gelingen, erfolgen, zu Stande kommen%} 
-<ls>M. 11, 237.</ls> {#SarIrayAtrApi ca te na prasiDyedakarmaRaH#} 
-<ls>BHAG. 3, 8.</ls> {#na brAhmaRaH sADayate havyaM dEvAtprasiDyati#} 
-<ls>MBH. 13, 1536.</ls> {#prasiDyatA samAgamena#} 
-<ls>Spr. (II) 272.</ls> {#arTaH#} 
-<ls>3618.</ls> <ls>VARĀH. BṚH. S. 104, 61.</ls> {#yatkarma svayameva prasiDyati#} 
-<ls>VOP. 24, 8.</ls> {#tAsAmAyAcitam - tvatprasAdAtprasiDyatAm#} (am Ende eines <is>Śloka</is>!) 
-<ls>R. GORR. 2, 1, 40.</ls> 
-<div n="1">— 2) {%sich ergeben, seine Erklärung finden%}: {#sarvaM vedAtprasiDyati#} 
-<ls>M. 12, 97. fg.</ls> {#taTEkavfttitA tayoH svaraSca me prasiDyati#} 
-<ls>?<is>Kār</is>. zu P. 3, 1, 122.</ls> — partic. {#pra/sidDa#} 
-<div n="1"> 1) {%zu Stande gekommen, vollbracht%}: {#aprasidDaM karma#} 
-<ls>KUMĀRAS. 3, 19.</ls> 
-<div n="1">— 2) {%in Ordnung gekommen, - gebracht, geordnet%}; = {#BUzita#} 
-<ls>AK. 3, 4, 17, 107.</ls> 
-<ls>H. an. 3, 346.</ls> 
-<ls>MED. ṣ. 34.</ls> Haare 
-<ls>KUMĀRAS. 5, 9. 7, 16.</ls> {#nepaTya#} 36. 
-<div n="1">— 3) {%bekannt%} 
-<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 224.</ls> {#prasi^dDame\vADva\ryurda^kzi\Rena\ prapa^dyate#} 
-<ls>TS. 6, 5, 3, 4.</ls> 
-<ls>NIR. 6, 16.</ls> {#°BAs#} zur Erklärung von {#BAfjIka#} 
-? 4 (vgl. 21). <ls>YĀJÑ. 2, 201.</ls> <ls>MAITRYUP. 6, 10.</ls> <ls>KAṆ. 3, 1, 1.</ls> <ls>ŚRUT. 38. 44.</ls> <ls>ŚĀK. 69, 8</ls>, v. l. <ls>Spr. (II) 224. 544. 1406. 6110. 6138. 7295. 7522.</ls> <ls>KATHĀS. 6, 49. 33, 90. 39, 29.</ls> <ls>PRAB. 51, 5.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 50. 267.</ls> zu <ls>CHĀND. UP. S. 17.</ls> <ls>DHŪRTAS. 75, 1.</ls> <ls>BHĀG. P. 6, 4, 30.</ls> <ls>PAÑCAT. 127, 22.</ls> Schol. zu <ls>P. 1, 1, 9.</ls> <ls n="P.">5, 2, 26.</ls> <ls n="P.">6, 3, 26.</ls> <ls n="P.">8, 4, 67.</ls> zu <ls>TS. PRĀT. 1, 21.</ls> <ls n="TS. PRĀT.">2, 47.</ls> <ls n="TS. PRĀT.">13, 14.</ls> fg. <ls>19, 3.</ls> <ls>SĀY.</ls> zu <ls>ṚV. 1, 11, 5.</ls> Inschr. in <ls>Journ. of the Am. Or. S. 6, 505, Śl. 17. 543, 11.</ls> <ls>SARVADARŚANAS. 9, 2. 20, 21. 93, 4</ls> (so v. a. {%in der gangbaren Bedeutung%}). 
-<ls>178, 11.</ls> {#svaBAva°#} 
-<ls>SUŚR. 1, 117, 15.</ls> {#loka°#} 
-<ls>KĀM. NĪTIS. 11, 49.</ls> {#aNgapura°#} 
-<ls>DAŚAK. 82, 3.</ls> 
-<ls>PRAB. 23, 11.</ls> {#ati°#} 
-<ls>MBH. 9, 1396.</ls> 
-<ls>AK. 3, 4, 28, 220.</ls> {#su°#} 
-<ls>SĀH. D. 2, 1.</ls> Davon nom. abstr. {#prasidDatva#} <lex>n.</lex> 
-<ls>SARVADARŚANAS. 135, 7. 140, 6.</ls> 
+<div n="p">— caus.
+<div n="1"> 1) {#seDayati (pAralOkike)#}
+<ls>P. 6,1,49.</ls> {%Jmdes Wissen an den Tag legen%}: {#tapastApasaM seDayati, svAnyevEnaM karmARi seDayanti = jYAnamasya prakASayati (°nti)#}
+<ls>PAT.</ls> eher {%glückselig machen.%}
+<div n="1">— 2) {#sADayati#}
+<ls>P. 6,1,49</ls>; s. u. 1. {#sAD#} .
+<div n="p">— {#anu#} partic. {#°sidDa#} {%allmählich zu Stande gekommen%}: {#tapasA kramAnusidDena#}
+<ls>BHĀG. P. 4,23,8.</ls>
+<div n="p">— {#aBi#}
+<div n="1"> 1) {%gelingen, zu Stande kommen%}: {#arTo 'BisiDyati#}
+<ls>MBH. 12,7427.</ls>
+<div n="1">— 2) {%erlangen, erreichen, gewinnen%}; mit acc.
+<ls>CHĀND. UP. 7,4,3.</ls>
+<div n="p">— {#pra#}
+<div n="1"> 1) {%gelingen, erfolgen, zu Stande kommen%}
+<ls>M. 11,237.</ls> {#SarIrayAtrApi ca te na prasiDyedakarmaRaH#}
+<ls>BHAG. 3,8.</ls> {#na brAhmaRaH sADayate havyaM dEvAtprasiDyati#}
+<ls>MBH. 13,1536.</ls> {#prasiDyatA samAgamena#}
+<ls>Spr. (II) 272.</ls> {#arTaH#}
+<ls n="Spr. (II)">3618.</ls> <ls>VARĀH. BṚH. S. 104,61.</ls> {#yatkarma svayameva prasiDyati#}
+<ls>VOP. 24,8.</ls> {#tAsAmAyAcitam — tvatprasAdAtprasiDyatAm#} (am Ende eines <is>Śloka</is>!)
+<ls>R. GORR. 2,1,40.</ls>
+<div n="1">— 2) {%sich ergeben, seine Erklärung finden%}: {#sarvaM vedAtprasiDyati#}
+<ls>M. 12,97. fg.</ls> {#taTEkavfttitA tayoH svaraSca me prasiDyati#}
+<is>Kār.</is> zu <ls>P. 3,1,122.</ls> — partic. {#pra/sidDa#}
+<div n="1"> 1) {%zu Stande gekommen, vollbracht%}: {#aprasidDaM karma#}
+<ls>KUMĀRAS. 3,19.</ls>
+<div n="1">— 2) {%in Ordnung gekommen, — gebracht, geordnet%}; = {#BUzita#}
+<ls>AK. 3,4,17,107.</ls>
+<ls>H. an. 3,346.</ls>
+<ls>MED. ṣ. 34.</ls> Haare
+<ls>KUMĀRAS. 5,9. 7,16.</ls> {#nepaTya#} 36.
+<div n="1">— 3) {%bekannt%}
+<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 224.</ls> {#prasi^dDame\vADva\ryurda^kzi\Rena\ prapa^dyate#}
+<ls>TS. 6,5,3,4.</ls>
+<ls>NIR. 6,16.</ls> {#°BAs#} zur Erklärung von {#BAfjIka#}
+? 4 (vgl. 21). <ls>YĀJÑ. 2,201.</ls> <ls>MAITRYUP. 6,10.</ls> <ls>KAṆ. 3,1,1.</ls> <ls>ŚRUT. 38. 44.</ls> <ls>ŚĀK. 69,8</ls>, v. l. <ls>Spr. (II) 224.</ls> <ls n="Spr. (II)">544.</ls> <ls n="Spr. (II)">1406.</ls> <ls n="Spr. (II)">6110.</ls> <ls n="Spr. (II)">6138.</ls> <ls n="Spr. (II)">7295.</ls> <ls n="Spr. (II)">7522.</ls> <ls>KATHĀS. 6,49.</ls> <ls n="KATHĀS.">33,90.</ls> <ls n="KATHĀS.">39,29.</ls> <ls>PRAB. 51,5.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 50. 267.</ls> zu <ls>CHĀND. UP. S. 17.</ls> <ls>DHŪRTAS. 75,1.</ls> <ls>BHĀG. P. 6,4,30.</ls> <ls>PAÑCAT. 127,22.</ls> Schol. zu <ls>P. 1,1,9.</ls> <ls n="P.">5,2,26.</ls> <ls n="P.">6,3,26.</ls> <ls n="P.">8,4,67.</ls> zu <ls>TS. PRĀT. 1,21.</ls> <ls n="TS. PRĀT.">2,47.</ls> <ls n="TS. PRĀT.">13,14.</ls> fg. <ls n="TS. PRĀT.">19,3.</ls> <ls>SĀY.</ls> zu <ls>ṚV. 1,11,5.</ls> Inschr. in <ls>Journ. of the Am. Or. S. 6,505, Śl. 17. 543,11.</ls> <ls>SARVADARŚANAS. 9,2. 20,21. 93,4</ls> (so v. a. {%in der gangbaren Bedeutung%}).
+<ls n="SARVADARŚANAS.">178,11.</ls> {#svaBAva°#}
+<ls>SUŚR. 1,117,15.</ls> {#loka°#}
+<ls>KĀM. NĪTIS. 11,49.</ls> {#aNgapura°#}
+<ls>DAŚAK. 82,3.</ls>
+<ls>PRAB. 23,11.</ls> {#ati°#}
+<ls>MBH. 9,1396.</ls>
+<ls>AK. 3,4,28,220.</ls> {#su°#}
+<ls>SĀH. D. 2,1.</ls> Davon nom. abstr. {#prasidDatva#} <lex>n.</lex>
+<ls>SARVADARŚANAS. 135,7. 140,6.</ls>
 <div n="v">— Vgl. {#prasidDi#} .
-
-<div n="p">— {#saMpra#}, partic. {#°sidDa#} {%zubereitet%}: {#GftaM pibetklItakasaMprasidDam#} 
-<ls>SUŚR. 2, 108, 19.</ls>
+<div n="p">— {#saMpra#}, partic. {#°sidDa#} {%zubereitet%}: {#GftaM pibetklItakasaMprasidDam#}
+<ls>SUŚR. 2,108,19.</ls>
 [Page7-1005]
-
-<div n="p">— {#sam#} 
-<div n="1"> 1) {%gelingen, zu Stande kommen%}: {#yasyArabDaM sarvameva saMsiDyati#} 
-<ls>PAÑCAT. 201, 7.</ls> 
-<div n="1">— 2) {%das höchste Ziel erreichen, glückselig werden%}: {#japyenEva tu saMsiDyedbrAhmaRaH#} 
-<ls>M. 2, 87.</ls> 
-<ls>BHĀG. P. 11, 18, 25.</ls> {#saMsiDyasva#} 
-<ls>MBH. 3, 12025.</ls> — partic. {#saMsidDa#} 
-<div n="1"> 1) {%zu Stande gekommen, in Erfüllung gegangen%}: {#karman#} 
-<ls>R. GORR. 1, 32, 11.</ls> {#kArya#} 
-<ls>3, 44, 22.</ls> {#saMsidDArTa#} <lex>adj.</lex> 
-<ls>2, 25, 38.</ls> {#izwa#} 
-<ls>Verz. d. Oxf. H. 256,a,31.</ls> {#dEvaM svaBAvasaMsidDam#} 
-<ls>R. GORR. 2, 19, 17.</ls> 
-<div n="1">— 2) {%zu Theil geworden, erreicht, erlangt%}: {#Pala#} 
-<ls>Spr. (II) 2846.</ls> {#vArttA#} {%Lebensunterhalt%} 
-<ls>VP. 1, 6, 32</ls> <ls>?= MĀRK. P. 49, 75.</ls> 
-<div n="1">— 3) {%zurechtgemacht, bereitet%}: {#parvatAntarasaMsidDe bahupAdapasaMvfte . DAtusaMraYjitaSile same#} 
-<ls>HARIV. 11860.</ls> {#kAYcana#} {%Gold gemacht%} 
-<ls>KATHĀS. 35, 83.</ls> {%zubereitet%} (von Speisen): {#PalaniryUha°#} 
-<ls>R. 2, 91, 66 (100, 64 GORR.).</ls> {#lavaRodaka°#} 
-<ls>HALĀY. 2, 167.</ls> {#uKA°#} 
-<ls>168.</ls> 
-<div n="1">— 4) {%hergestellt, geheilt%}: {#OzaDa°#} 
-<ls>KATHĀS. 40, 69.</ls> {#°rUpa#} 
-<ls>MBH. 1, 3241.</ls> 
-<div n="1">— 5) {%bereit zu%} (dat.): {#pretaBAvAya#} 
-<ls>R. 4, 21, 32.</ls> 
-<div n="1">— 6) {%fest entschlossen%} 
-<ls>R. ed. Bomb. 2, 40, 8.</ls> 
-<div n="1">— 7) {%befriedigt, zufriedengestellt%} 
-<ls>R. 2, 92, 30.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 61, 4.</ls> 
-<div n="1">— 8) {%geschickt, erfahren%}: {#mahAyudDezu#} 
-<ls>MBH. 4, 1183.</ls> 
-<div n="1">— 9) {%der das höchste Ziel erreicht hat, der Vollkommenheit erlangt hat, glückselig%} 
-<ls>MBH. 5, 2982. 6, 645. 13, 3842.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 70, 16.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 48, 18.</ls> <ls>BHĀG. P. 1, 19, 36. 6, 4, 43. 16, 50.</ls> {#yoga°#} 
-<ls>BHAG. 4, 38.</ls> {#anekajanma°#} 
-<ls>6, 45.</ls> {#tapaScaraRa°#} 
-<ls>R. 1, 51, 25 (52, 24 GORR.).</ls> {#jYAnavijYAna°#} 
-<ls>BHĀG. P. 11, 19, 3.</ls> 
+<div n="p">— {#sam#}
+<div n="1"> 1) {%gelingen, zu Stande kommen%}: {#yasyArabDaM sarvameva saMsiDyati#}
+<ls>PAÑCAT. 201,7.</ls>
+<div n="1">— 2) {%das höchste Ziel erreichen, glückselig werden%}: {#japyenEva tu saMsiDyedbrAhmaRaH#}
+<ls>M. 2,87.</ls>
+<ls>BHĀG. P. 11,18,25.</ls> {#saMsiDyasva#}
+<ls>MBH. 3,12025.</ls> — partic. {#saMsidDa#}
+<div n="1"> 1) {%zu Stande gekommen, in Erfüllung gegangen%}: {#karman#}
+<ls>R. GORR. 1,32,11.</ls> {#kArya#}
+<ls n="R. GORR.">3,44,22.</ls> {#saMsidDArTa#} <lex>adj.</lex>
+<ls n="R. GORR.">2,25,38.</ls> {#izwa#}
+<ls>Verz. d. Oxf. H. 256,a,31.</ls> {#dEvaM svaBAvasaMsidDam#}
+<ls>R. GORR. 2,19,17.</ls>
+<div n="1">— 2) {%zu Theil geworden, erreicht, erlangt%}: {#Pala#}
+<ls>Spr. (II) 2846.</ls> {#vArttA#} {%Lebensunterhalt%}
+<ls>VP. 1,6,32</ls> = <ls>MĀRK. P. 49,75.</ls>
+<div n="1">— 3) {%zurechtgemacht, bereitet%}: {#parvatAntarasaMsidDe bahupAdapasaMvfte . DAtusaMraYjitaSile same#}
+<ls>HARIV. 11860.</ls> {#kAYcana#} {%Gold gemacht%}
+<ls>KATHĀS. 35,83.</ls> {%zubereitet%} (von Speisen): {#PalaniryUha°#}
+<ls>R. 2,91,66</ls> (<ls n="GORR. 2,">100,64</ls> <ls>GORR.</ls>). {#lavaRodaka°#}
+<ls>HALĀY. 2,167.</ls> {#uKA°#}
+<ls n="HALĀY.">168.</ls>
+<div n="1">— 4) {%hergestellt, geheilt%}: {#OzaDa°#}
+<ls>KATHĀS. 40,69.</ls> {#°rUpa#}
+<ls>MBH. 1,3241.</ls>
+<div n="1">— 5) {%bereit zu%} (dat.): {#pretaBAvAya#}
+<ls>R. 4,21,32.</ls>
+<div n="1">— 6) {%fest entschlossen%}
+<ls>R. ed. Bomb. 2,40,8.</ls>
+<div n="1">— 7) {%befriedigt, zufriedengestellt%}
+<ls>R. 2,92,30.</ls>
+<ls>R. GORR. 1,61,4.</ls>
+<div n="1">— 8) {%geschickt, erfahren%}: {#mahAyudDezu#}
+<ls>MBH. 4,1183.</ls>
+<div n="1">— 9) {%der das höchste Ziel erreicht hat, der Vollkommenheit erlangt hat, glückselig%}
+<ls>MBH. 5,2982.</ls> <ls n="MBH.">6,645.</ls> <ls n="MBH.">13,3842.</ls>
+<ls>R. GORR. 2,70,16.</ls>
+<ls>BRAHMA-P. in LA. (III) 48,18.</ls> <ls>BHĀG. P. 1,19,36.</ls> <ls n="BHĀG. P.">6,4,43.</ls> <ls n="BHĀG. P. 6,">16,50.</ls> {#yoga°#}
+<ls>BHAG. 4,38.</ls> {#anekajanma°#}
+<ls n="BHAG.">6,45.</ls> {#tapaScaraRa°#}
+<ls>R. 1,51,25</ls> (<ls n="GORR. 1,">52,24</ls> <ls>GORR.</ls>). {#jYAnavijYAna°#}
+<ls>BHĀG. P. 11,19,3.</ls>
 <div n="v">— Vgl. {#saMsidDi, sAMsidDya#} .
 <LEND>

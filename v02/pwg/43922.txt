@@ -1,93 +1,86 @@
 <L>43922<pc>4-0618<k1>pA<k2>pA<h>3
-3. {#pA#}¦, {#pA/ti#} 
-<ls>DHĀTUP. 24, 48.</ls> {#pIpAya, pAsati#} und {#(pari) pAsatas#} ved.; aor. {#apAsIt#}; prec. {#pAyAt#} 
-<ls>P. 6, 4, 68,</ls> 
-<ls>Sch.</ls> 
-<div n="1"> 1) {%bewachen, bewahren, schützen, schirmen, hüten vor%} (abl.): {#mA\saSca^ pA\TaH Sa\rada^Sca pU\rvIH#} 
-<ls>ṚV. 7, 91, 2.</ls> {#pA\taM na^H pA\yuBi^H#} 
-<ls n="ṚV.">5, 70, 3.</ls> {#tadvArya\M yatpAnti^ (devAH)#} 
-<ls n="ṚV.">8, 25, 13.</ls> <ls n="ṚV.">1, 180, 7.</ls> <ls>VS. 4, 9. 11.</ls> <ls>AV. 6, 3, 1. fgg.</ls> {#yaM pA\TanA\ SaMsA^t#} 
-<ls>ṚV. 1, 166, 8.</ls> <ls n="ṚV. 1,">41, 2.</ls> {#ni\daspA^tu#} (vgl. 
-<ls>P. 8, 3, 52) 6, 61, 11.</ls> {#di\va ska\mBaH samf^taH pAti\ nAka^m#} 
-<ls>4, 13, 5.</ls> <ls>ŚAT. BR. 1, 5, 1, 22.</ls> {#te yajYaM pAntu rajasaH#} 
-<ls>TBR. 3, 1, 2, 8</ls> in <ls>Z. f. d. K. d. M. 7, 272.</ls> — {#tAMstvaM pAsi#} 
-<ls>MBH. 2, 2607. 14, 514.</ls> {#nfpamapaTagaM pAnti#} 
-<ls>RĀJA-TAR. 4, 321.</ls> 
-<ls>GHAṬ. 12.</ls> {#nAvyAropya mahImayyAmapAdvEvasvataM manum#} 
-<ls>BHĀG. P. 1, 3, 15.</ls> {#pAntO#} partic. 
-<ls>BHAṬṬ. 6, 96.</ls> {#pAhi#} 
-<ls>MBH. 1, 1258.</ls> 
-<ls>R. 2, 79, 5.</ls> {#pAtu, pAntu#} 
-<ls>DHŪRTAS. 66, 6.</ls> 
-<ls>MBH. 5, 1331.</ls> 
-<ls>R. 2, 25, 12.</ls> 
-<ls>VARĀH. BṚH. S. 47, 79. 61, 2.</ls> 
-<ls>VOP. 25, 24.</ls> {#sa pAyAdvo gajAnanaH#} 
-<ls>KATHĀS. 27, 1.</ls> 
-<ls>BHĀG. P. 6, 8, 12.</ls> {#pAtum#} 
-<ls>R. 1, 21, 8.</ls> 
-<ls>RAGH. 10, 26.</ls> {#aDarmAtpAhi mAm#} 
-<ls>MBH. 1, 3417.</ls> {#BayeByaH#} 
-<ls>9, 2733.</ls> {#sarvataH#} 
-<ls>R. 2, 107, 12.</ls> {#upaplaveByaH#} 
-<ls>RAGH. 2, 48.</ls> 
-<ls>BHĀG. P. 6, 8, 18.</ls> {#pAtyetAM sAMprataM purIm#} 
-<ls>R. GORR. 1, 48, 19.</ls> {#pAntu pfTvIm - BUpAH#} 
-<ls>MṚCCH. 178, 12.</ls> {#dvApaYcASatamabdAnkzmAM dvO ca mAsO tadAtmajaH . apAsIt#} so v. a. {%regierte%} 
-<ls>RĀJA-TAR. 1, 339. 3, 379. 475.</ls> {#sa yAmAdyEH suragaRErapAtsvAyaMBuvAntaram#} 
-<ls>BHĀG. P. 1, 3, 12.</ls>
+3. {#pA#}¦, {#pA/ti#}
+<ls>DHĀTUP. 24,48.</ls> {#pIpAya, pAsati#} und {#(pari) pAsatas#} ved.; aor. {#apAsIt#}; prec. {#pAyAt#}
+<ls>P. 6,4,68</ls>, <ls>Sch.</ls>
+<div n="1"> 1) {%bewachen, bewahren, schützen, schirmen, hüten vor%} (abl.): {#mA\saSca^ pA\TaH Sa\rada^Sca pU\rvIH#}
+<ls>ṚV. 7,91,2.</ls> {#pA\taM na^H pA\yuBi^H#}
+<ls n="ṚV.">5,70,3.</ls> {#tadvArya\M yatpAnti^ (devAH)#}
+<ls n="ṚV.">8,25,13.</ls> <ls n="ṚV.">1,180,7.</ls> <ls>VS. 4,9. 11.</ls> <ls>AV. 6,3,1. fgg.</ls> {#yaM pA\TanA\ SaMsA^t#}
+<ls>ṚV. 1,166,8.</ls> <ls n="ṚV. 1,">41,2.</ls> {#ni\daspA^tu#} (vgl.
+<ls>P. 8,3,52</ls>) <ls n="ṚV.">6,61,11.</ls> {#di\va ska\mBaH samf^taH pAti\ nAka^m#}
+<ls n="ṚV.">4,13,5.</ls> <ls>ŚAT. BR. 1,5,1,22.</ls> {#te yajYaM pAntu rajasaH#}
+<ls>TBR. 3,1,2,8</ls> in <ls>Z. f. d. K. d. M. 7,272.</ls> — {#tAMstvaM pAsi#}
+<ls>MBH. 2,2607.</ls> <ls n="MBH.">14,514.</ls> {#nfpamapaTagaM pAnti#}
+<ls>RĀJA-TAR. 4,321.</ls>
+<ls>GHAṬ. 12.</ls> {#nAvyAropya mahImayyAmapAdvEvasvataM manum#}
+<ls>BHĀG. P. 1,3,15.</ls> {#pAntO#} partic.
+<ls>BHAṬṬ. 6,96.</ls> {#pAhi#}
+<ls>MBH. 1,1258.</ls>
+<ls>R. 2,79,5.</ls> {#pAtu, pAntu#}
+<ls>DHŪRTAS. 66,6.</ls>
+<ls>MBH. 5,1331.</ls>
+<ls>R. 2,25,12.</ls>
+<ls>VARĀH. BṚH. S. 47,79. 61,2.</ls>
+<ls>VOP. 25,24.</ls> {#sa pAyAdvo gajAnanaH#}
+<ls>KATHĀS. 27,1.</ls>
+<ls>BHĀG. P. 6,8,12.</ls> {#pAtum#}
+<ls>R. 1,21,8.</ls>
+<ls>RAGH. 10,26.</ls> {#aDarmAtpAhi mAm#}
+<ls>MBH. 1,3417.</ls> {#BayeByaH#}
+<ls n="MBH.">9,2733.</ls> {#sarvataH#}
+<ls>R. 2,107,12.</ls> {#upaplaveByaH#}
+<ls>RAGH. 2,48.</ls>
+<ls>BHĀG. P. 6,8,18.</ls> {#pAtyetAM sAMprataM purIm#}
+<ls>R. GORR. 1,48,19.</ls> {#pAntu pfTvIm — BUpAH#}
+<ls>MṚCCH. 178,12.</ls> {#dvApaYcASatamabdAnkzmAM dvO ca mAsO tadAtmajaH . apAsIt#} so v. a. {%regierte%}
+<ls>RĀJA-TAR. 1,339. 3,379. 475.</ls> {#sa yAmAdyEH suragaRErapAtsvAyaMBuvAntaram#}
+<ls>BHĀG. P. 1,3,12.</ls>
 [Page4-0619]
-{#kIrtim#} 
-<ls>BHAṬṬ. 7, 69.</ls> {#pAta#} {%bewahrt%} u. s. w. 
-<ls>TRIK. 3, 3, 169.</ls> 
-<ls>MED. t. 32.</ls> 
-<div n="1">— 2) {%beobachten, merken, aufpassen auf; beaufsichtigen, beachten, halten, befolgen%}: {#ke DA\si^magne\ anf^tasya pAnti#} 
-<ls>ṚV. 5, 12, 4.</ls> {#ukTA#} 
-<ls n="ṚV. 5,">18, 4.</ls> <ls n="ṚV. 5,">19, 2.</ls> <ls n="ṚV. 5,">52, 2.</ls> {#pAsi\ tyaja^sA\ marta\maMha^H#} 
-<ls n="ṚV.">6, 3, 1.</ls> {#pAti^ ya\hvaScara^Ra\M sUrya^sya#} 
-<ls n="ṚV.">3, 5, 5.</ls> {#pa\Ta eka^H pIpAya\ taska^ro yaTA~ e\za ve^da niDInAm#} 
-<ls n="ṚV.">8, 29, 6.</ls> {#raja^spAtya\ntO^#} 
-<ls n="ṚV.">5, 47, 3.</ls> {#f\taM sa pA^tyaru\zasya\ vfzRa^H#} 
-<ls n="ṚV.">5, 12, 6.</ls> {#vizRurvE yajYasya durizwaM pAti varuRaH svizwam#} 
-<ls>AIT. BR. 3, 38.</ls> med.: {#vra\tAni^ pA\no a\mfta^sya\ cAru^Ra u\Be nf\cakzA\ anu^ paSyate\ viSO#} 
-<ls>ṚV. 9, 70, 4.</ls>
-
+{#kIrtim#}
+<ls>BHAṬṬ. 7,69.</ls> {#pAta#} {%bewahrt%} u. s. w.
+<ls>TRIK. 3,3,169.</ls>
+<ls>MED. t. 32.</ls>
+<div n="1">— 2) {%beobachten, merken, aufpassen auf; beaufsichtigen, beachten, halten, befolgen%}: {#ke DA\si^magne\ anf^tasya pAnti#}
+<ls>ṚV. 5,12,4.</ls> {#ukTA#}
+<ls n="ṚV. 5,">18,4.</ls> <ls n="ṚV. 5,">19,2.</ls> <ls n="ṚV. 5,">52,2.</ls> {#pAsi\ tyaja^sA\ marta\maMha^H#}
+<ls n="ṚV.">6,3,1.</ls> {#pAti^ ya\hvaScara^Ra\M sUrya^sya#}
+<ls n="ṚV.">3,5,5.</ls> {#pa\Ta eka^H pIpAya\ taska^ro yaTA~ e\za ve^da niDInAm#}
+<ls n="ṚV.">8,29,6.</ls> {#raja^spAtya\ntO^#}
+<ls n="ṚV.">5,47,3.</ls> {#f\taM sa pA^tyaru\zasya\ vfzRa^H#}
+<ls n="ṚV.">5,12,6.</ls> {#vizRurvE yajYasya durizwaM pAti varuRaH svizwam#}
+<ls>AIT. BR. 3,38.</ls> med.: {#vra\tAni^ pA\no a\mfta^sya\ cAru^Ra u\Be nf\cakzA\ anu^ paSyate\ viSO#}
+<ls>ṚV. 9,70,4.</ls>
 <div n="p">— {#aDi#} s. {#aDipa, °pA#} .
-
-<div n="p">— {#aBi#} {%behüten; beobachten%}: {#viSvA\nyadya\jYA~ a^Bi\pAsi^#} 
-<ls>ṚV. 3, 9, 6.</ls> {#yo vA\mada^bDo a\Bi pAti\ citti^BiH#} 
-<ls>VĀLAKH. 9, 3.</ls> 
-<ls>ṚV. 10, 1, 3.</ls> {#a\gnizwvA\Bi pA^tu ma\hyA sva\styA#} 
-<ls>VS. 13, 19.</ls>
-
-<div n="p">— {#ni#} {%beschützen, behüten%}: {#viSve^BiH pAtu pA\yuBi\rni sU\rIn#} 
-<ls>ṚV. 7, 38, 3.</ls> <ls n="ṚV. 7,">3, 7.</ls> {#yo va^nuzya\to ni\pAti^#} 
-<ls n="ṚV. 7,">1, 15.</ls> <ls n="ṚV. 7,">40, 6.</ls> <ls n="ṚV.">1, 106, 7.</ls> <ls n="ṚV.">4, 55, 3.</ls> {#ni pA^ta\M veda^sA\ vaya^H#} 
-<ls n="ṚV.">8, 76, 2.</ls> {#ka\dA ca\na pra yu^cCasyu\Be ni pA^si\ janma^nI#} 
-<ls>VĀLAKH. 4, 7.</ls> {%beobachten, überwachen%}: {#i\me SaMsa^M vanuzya\to ni pA^nti#} 
-<ls>ṚV. 7, 56, 19.</ls> {#A\re viSvA^M durma\tiM yanni\pAsi^#} 
-<ls n="ṚV.">4, 11, 6.</ls> {#yaH kratvA^ ni\pAti^ vf\jinA^ni\ viSvA^#} 
-<ls n="ṚV.">1, 73, 2.</ls> <ls>AV. 9, 10, 23.</ls> {%beobachten, wahren%}: {#f\tasya^ pa\daM ka\vayo\ ni pA^nti#} 
-<ls>ṚV. 10, 5, 2.</ls> {#tAM dyota^mAnAM sva\rya^M manI\zAmf\tasya^ pa\de ka\vayo\ ni pA^nti#} 
-<ls n="ṚV.">10, 177, 2.</ls>
-
-<div n="p">— {#nis#} {%behüten vor%} (abl.): {#yenA\ niraMha^so yU\yaM pA\Ta ne\TA ca\ martya\mati\ dviza^H#} 
-<ls>ṚV. 10, 126, 2.</ls> Diese Praep. scheint übrigens durch das folg. {#neTa#} oder ein im Sinne liegendes {#piparta#} veranlasst zu sein.
-
-<div n="p">— {#pari#} {%rings behüten, - beschützen, bewahren%}: {#u\Be roda^sI\ pari^ pAsato naH#} 
-<ls>ṚV. 7, 34, 23.</ls> {#Ayu^rvi\SvAyu\H pari^ pAsati tvA#} 
-<ls n="ṚV.">10, 17, 4.</ls> {#pumA\npumA^Msa\M pari^ pAtu vi\Svata^H#} 
-<ls n="ṚV.">6, 75, 14.</ls> <ls n="ṚV. 6,">71, 3.</ls> {#taM pari^ pAto\ aMha^saH#} 
-<ls n="ṚV.">1, 136, 5.</ls> <ls n="ṚV. 1,">143, 8.</ls> <ls>VS. 26, 14.</ls> <ls>AV. 6, 110, 2. 8, 2, 26.</ls> {#tena naH paripAhi#} 
-<ls>MBH. 1, 8413.</ls> {#BagavAnparipAti dInAn#} 
-<ls>BHĀG. P. 4, 9, 17. 5, 8, 21.</ls> {#paripAhi vasuMDarAm#} 
-<ls>MBH. 12, 1203.</ls> {#viSvam#} 
-<ls>BHĀG. P. 2, 6, 31.</ls> 
-<ls>DEV. 11, 32.</ls> {#anuSAsanam#} {%bewahren, aufrecht erhalten%} 
-<ls>BHĀG. P. 1, 7, 53.</ls> {#DarmeRa DarmaH paripAti setum#} 
-<ls>3, 1, 36.</ls> 
+<div n="p">— {#aBi#} {%behüten; beobachten%}: {#viSvA\nyadya\jYA~ a^Bi\pAsi^#}
+<ls>ṚV. 3,9,6.</ls> {#yo vA\mada^bDo a\Bi pAti\ citti^BiH#}
+<ls>VĀLAKH. 9,3.</ls>
+<ls>ṚV. 10,1,3.</ls> {#a\gnizwvA\Bi pA^tu ma\hyA sva\styA#}
+<ls>VS. 13,19.</ls>
+<div n="p">— {#ni#} {%beschützen, behüten%}: {#viSve^BiH pAtu pA\yuBi\rni sU\rIn#}
+<ls>ṚV. 7,38,3.</ls> <ls n="ṚV. 7,">3,7.</ls> {#yo va^nuzya\to ni\pAti^#}
+<ls n="ṚV. 7,">1,15.</ls> <ls n="ṚV. 7,">40,6.</ls> <ls n="ṚV.">1,106,7.</ls> <ls n="ṚV.">4,55,3.</ls> {#ni pA^ta\M veda^sA\ vaya^H#}
+<ls n="ṚV.">8,76,2.</ls> {#ka\dA ca\na pra yu^cCasyu\Be ni pA^si\ janma^nI#}
+<ls>VĀLAKH. 4,7.</ls> {%beobachten, überwachen%}: {#i\me SaMsa^M vanuzya\to ni pA^nti#}
+<ls>ṚV. 7,56,19.</ls> {#A\re viSvA^M durma\tiM yanni\pAsi^#}
+<ls n="ṚV.">4,11,6.</ls> {#yaH kratvA^ ni\pAti^ vf\jinA^ni\ viSvA^#}
+<ls n="ṚV.">1,73,2.</ls> <ls>AV. 9,10,23.</ls> {%beobachten, wahren%}: {#f\tasya^ pa\daM ka\vayo\ ni pA^nti#}
+<ls>ṚV. 10,5,2.</ls> {#tAM dyota^mAnAM sva\rya^M manI\zAmf\tasya^ pa\de ka\vayo\ ni pA^nti#}
+<ls n="ṚV.">10,177,2.</ls>
+<div n="p">— {#nis#} {%behüten vor%} (abl.): {#yenA\ niraMha^so yU\yaM pA\Ta ne\TA ca\ martya\mati\ dviza^H#}
+<ls>ṚV. 10,126,2.</ls> Diese Praep. scheint übrigens durch das folg. {#neTa#} oder ein im Sinne liegendes {#piparta#} veranlasst zu sein.
+<div n="p">— {#pari#} {%rings behüten, — beschützen, bewahren%}: {#u\Be roda^sI\ pari^ pAsato naH#}
+<ls>ṚV. 7,34,23.</ls> {#Ayu^rvi\SvAyu\H pari^ pAsati tvA#}
+<ls n="ṚV.">10,17,4.</ls> {#pumA\npumA^Msa\M pari^ pAtu vi\Svata^H#}
+<ls n="ṚV.">6,75,14.</ls> <ls n="ṚV. 6,">71,3.</ls> {#taM pari^ pAto\ aMha^saH#}
+<ls n="ṚV.">1,136,5.</ls> <ls n="ṚV. 1,">143,8.</ls> <ls>VS. 26,14.</ls> <ls>AV. 6,110,2.</ls> <ls n="AV.">8,2,26.</ls> {#tena naH paripAhi#}
+<ls>MBH. 1,8413.</ls> {#BagavAnparipAti dInAn#}
+<ls>BHĀG. P. 4,9,17.</ls> <ls n="BHĀG. P.">5,8,21.</ls> {#paripAhi vasuMDarAm#}
+<ls>MBH. 12,1203.</ls> {#viSvam#}
+<ls>BHĀG. P. 2,6,31.</ls>
+<ls>DEV. 11,32.</ls> {#anuSAsanam#} {%bewahren, aufrecht erhalten%}
+<ls>BHĀG. P. 1,7,53.</ls> {#DarmeRa DarmaH paripAti setum#}
+<ls n="BHĀG. P.">3,1,36.</ls>
 <div n="v">— Vgl. {#paripARa#} .
-
-<div n="p">— {#pra#} {%behüten, bewahren vor%} (abl.): {#kalkiH kaleH kAlamalAtprapAtu#} 
-<ls>BHĀG. P. 6, 8, 17.</ls>
+<div n="p">— {#pra#} {%behüten, bewahren vor%} (abl.): {#kalkiH kaleH kAlamalAtprapAtu#}
+<ls>BHĀG. P. 6,8,17.</ls>
 <LEND>

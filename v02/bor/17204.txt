@@ -1,8 +1,8 @@
 <L>17204<pc>526<k1>player<k2>player
-<div n="lb"/>{@PLAYER:@}¦ <div n="I">I On the stage: {#aBinetf#} (f. {#trI#}):
-<div n="lb"/>v. Actor. </div><div n="I">II A gambler: q. v.: {#kitavaH,#}
-<div n="lb"/><div n="xe">{%opposite p.:%}</div> <div n="xs">{#pratikitavaH,#}</div> D. ii. </div><div n="I">III On an
-<div n="lb"/>instrument: {#vAdakaH,#} <div n="xe">{%p. s. played drums:%}</div> <div n="xs">{#vAdakA #}
-<div n="lb"/>{# vAdayAmAsurBerIH,#}</div> Mah. v. 156. 27.: v. To
-<div n="lb"/>play.</div>
+{@PLAYER:@}¦ <div n="I">I On the stage: {#aBinetf#} (f. {#trI#}):
+v. Actor. </div><div n="I">II A gambler: q. v.: {#kitavaH,#}
+<div n="xe">{%opposite p.:%}</div> <div n="xs">{#pratikitavaH,#}</div> D. ii. </div><div n="I">III On an
+instrument: {#vAdakaH,#} <div n="xe">{%p. s. played drums:%}</div> <div n="xs">{#vAdakA #}
+{# vAdayAmAsurBerIH,#}</div> Mah. v. 156. 27.: v. To
+play.</div>
 <LEND>

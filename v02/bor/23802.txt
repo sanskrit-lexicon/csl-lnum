@@ -1,6 +1,6 @@
 <L>23802<pc>745<k1>vertical<k2>vertical
-<div n="lb"/>{@VERTICAL:@}¦ <div n="I">I Upper: q. v.: {#UrDvatana#} (f. {#nI#}).</div>
-<div n="lb"/><div n="I">II Perpendicular: q. v. Ph.: {%v. circle:%}
-<div n="lb"/>{#dfgvfttam;#} <div n="xe">{%v. parallax:%}</div> <div n="xs">{#dfglambanam;#}</div> <div n="xe">{%prime v.:%}</div> <div n="xs">{#sama-#}
-<div n="lb"/>{#maRqalam,#}</div> Su.</div>
+{@VERTICAL:@}¦ <div n="I">I Upper: q. v.: {#UrDvatana#} (f. {#nI#}).</div>
+<div n="I">II Perpendicular: q. v. Ph.: {%v. circle:%}
+{#dfgvfttam;#} <div n="xe">{%v. parallax:%}</div> <div n="xs">{#dfglambanam;#}</div> <div n="xe">{%prime v.:%}</div> <div n="xs">{#sama-#}
+{#maRqalam,#}</div> Su.</div>
 <LEND>

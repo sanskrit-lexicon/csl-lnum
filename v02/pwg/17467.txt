@@ -1,90 +1,81 @@
 <L>17467<pc>2-0307<k1>kuc<k2>kuc
-{#kuc#}¦, {#kuca/ti#} und {#kuYc, kuYcate#} {%sich zusammenziehen, sich krümmen%}: {#kuYcamAnaM rujArtaM vA gAtram#} 
-<ls>SUŚR. 2, 34, 9.</ls> {#kuYcita#} (könnte auch vom caus. sein) {%zusammengezogen, gekrümmt, kraus, geringelt%} (von Haaren) 
-<ls>AK. 3, 2, 20.</ls> 
-<ls>H. 1456.</ls> {#kuYcitAsya#} (von einem Pferde) 
-<ls>1247.</ls> {#kuYcitAkzI#} 
-<ls>ṚT. 4, 16.</ls> {#kuYcitAyatadIrGARi lANgUlAni#} 
-<ls>R. 5, 55, 27.</ls> {#kuYcitagrIva#} 
-<ls>PAÑCAT. 50, 10.</ls> {#nIlakuYcitakeSI#} 
-<ls>MBH. 2, 2173. 3, 1822. 15953.</ls> 
-<ls>R. 1, 45, 41. 6, 37, 61. 103, 3.</ls> 
-<ls>SUŚR. 2, 166, 21.</ls> 
-<ls>BHĀG. P. 2, 2, 11. 8, 8, 33.</ls> {#kuYcitA#} (näml. {#sirA#}) {%eine best. fehlerhafte Art des Oeffnens der Ader%} 
-<ls>SUŚR. 1, 361, 11. 17.</ls> — Nach dem 
-<ls>DHĀTUP.</ls> {#kuc, ko/cati#} 
-<div n="1"> 1) {%einen lauten Ton von sich geben%} ({#kocati QakkA#} 
-<ls>DURGAD.</ls> bei <ls>WEST.</ls>). 
-<div n="1">— 2) {%glätten, poliren%} ({#kocati kAYcIM baRik#} 
-<ls>BHAṬṬAMALLA</ls> bei <ls>WEST.</ls>). 
-<div n="1">— 3) {%gehen%} (nach 
-<ls>KṢĪRASVĀMIN</ls><ls>) 7, 2.</ls> 
-<div n="1">— 4) {%verbinden, vermischen.%} 
-<div n="1">— 5) {%krümmen%} oder {%sich krümmen.%} 
-<div n="1">— 6) {%widerstehen, hindern.%} 
-<div n="1">— 7) {%Striche ziehen, schreiben%} ({#vileKane#}) 
-<ls>20, 27.</ls> — {#kuc, kuca/ti#} {%zusammenziehen%} ({#saMkocane#}) 
-<ls>28, 75.</ls> — {#kuYc, ku/Ycati#} 
-<div n="1"> 1) {%krümmen%} oder {%sich krümmen.%} 
-<div n="1">— 2) {%klein sein%} oder {%klein machen%} 
-<ls>7, 3.</ls> — {#kucita/ = parimita#} 
-<ls>Uṇ. 4, 187.</ls>
+{#kuc#}¦, {#kuca/ti#} und {#kuYc, kuYcate#} {%sich zusammenziehen, sich krümmen%}: {#kuYcamAnaM rujArtaM vA gAtram#}
+<ls>SUŚR. 2,34,9.</ls> {#kuYcita#} (könnte auch vom caus. sein) {%zusammengezogen, gekrümmt, kraus, geringelt%} (von Haaren)
+<ls>AK. 3,2,20.</ls>
+<ls>H. 1456.</ls> {#kuYcitAsya#} (von einem Pferde)
+<ls n="H.">1247.</ls> {#kuYcitAkzI#}
+<ls>ṚT. 4,16.</ls> {#kuYcitAyatadIrGARi lANgUlAni#}
+<ls>R. 5,55,27.</ls> {#kuYcitagrIva#}
+<ls>PAÑCAT. 50,10.</ls> {#nIlakuYcitakeSI#}
+<ls>MBH. 2,2173.</ls> <ls n="MBH.">3,1822.</ls> <ls n="MBH. 3,">15953.</ls>
+<ls>R. 1,45,41.</ls> <ls n="R.">6,37,61</ls> <ls n="R. 6,">103,3.</ls>
+<ls>SUŚR. 2,166,21.</ls>
+<ls>BHĀG. P. 2,2,11.</ls> <ls n="BHĀG. P.">8,8,33.</ls> {#kuYcitA#} (näml. {#sirA#}) {%eine best. fehlerhafte Art des Oeffnens der Ader%}
+<ls>SUŚR. 1,361,11. 17.</ls> — Nach dem
+<ls>DHĀTUP.</ls> {#kuc, ko/cati#}
+<div n="1"> 1) {%einen lauten Ton von sich geben%}
+({#kocati QakkA#} <ls>DURGAD.</ls> bei <ls>WEST.</ls>).
+<div n="1">— 2) {%glätten, poliren%} ({#kocati kAYcIM baRik#} <ls>BHAṬṬAMALLA</ls> bei <ls>WEST.</ls>).
+<div n="1">— 3) {%gehen%} (nach <ls>KṢĪRASVĀMIN</ls>)
+<ls n="DHĀTUP.">7,2.</ls>
+<div n="1">— 4) {%verbinden, vermischen.%}
+<div n="1">— 5) {%krümmen%} oder {%sich krümmen.%}
+<div n="1">— 6) {%widerstehen, hindern.%}
+<div n="1">— 7) {%Striche ziehen, schreiben%} ({#vileKane#})
+<ls n="DHĀTUP.">20,27.</ls> — {#kuc, kuca/ti#} {%zusammenziehen%} ({#saMkocane#})
+<ls n="DHĀTUP.">28,75.</ls> — {#kuYc, ku/Ycati#}
+<div n="1"> 1) {%krümmen%} oder {%sich krümmen.%}
+<div n="1">— 2) {%klein sein%} oder {%klein machen%}
+<ls n="DHĀTUP.">7,3.</ls> — {#kucita/ = parimita#}
+<ls>Uṇ. 4,187.</ls>
 [Page2-0308]
-
-<div n="p">— {#anu#}, partic. {#anukuYcita#} {%eingebogen, gekrümmt%} 
+<div n="p">— {#anu#}, partic. {#anukuYcita#} {%eingebogen, gekrümmt%}
 <ls>DHANURV.</ls> beim <ls>Sch.</ls> zu <ls>H. 777.</ls>
-
 <div n="p">— {#ava#} s. {#avakuYcana#} .
-
-<div n="p">— {#A#}, partic. {#AkuYcita#} {%eingebogen, eingezogen, zusammengezogen, gebogen, kraus%}: {#sakTnorAkuYcitayoH#} 
-<ls>SUŚR. 1, 358, 14.</ls> {#AkuYcitadakziRasakTi#} 
-<ls>2, 217, 15.</ls> {#AkuYcitasavyapAda#} 
-<ls>KUMĀRAS. 3, 70.</ls> {#AkuYcitAgrANgulinA (pAdena)#} 
-<ls>RAGH. 6, 15.</ls> {#AkuYcitoBayajAnu#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 198, 19.</ls> {#kvacidvARanikfttAni SirAMsi dvizatAM raRe . sPurantyAkuYcitozWAni#} 
-<ls>R. 3, 31, 21.</ls> {#BrUcAturyAkuYcitAkzAH#} (v. l. {#BrUcAturyaM ku°) kawAkzAH#} 
-<ls>BHARTṚ. 1, 3.</ls> {#kfzRAkuYcitamUrDaja#} 
-<ls>MBH. 13, 882.</ls> — caus. {%zusammenziehen, einbiegen, verkürzen%}: {#prasAryAkuYcayetsaMDim#} 
-<ls>SUŚR. 2, 29, 9.</ls> {#sirAstvAkuccya#} (lies {#AkuYcya#}) 
-<ls>1, 257, 2.</ls> 
+<div n="p">— {#A#}, partic. {#AkuYcita#} {%eingebogen, eingezogen, zusammengezogen, gebogen, kraus%}: {#sakTnorAkuYcitayoH#}
+<ls>SUŚR. 1,358,14.</ls> {#AkuYcitadakziRasakTi#}
+<ls n="SUŚR.">2,217,15.</ls> {#AkuYcitasavyapAda#}
+<ls>KUMĀRAS. 3,70.</ls> {#AkuYcitAgrANgulinA (pAdena)#}
+<ls>RAGH. 6,15.</ls> {#AkuYcitoBayajAnu#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 198,19.</ls> {#kvacidvARanikfttAni SirAMsi dvizatAM raRe . sPurantyAkuYcitozWAni#}
+<ls>R. 3,31,21.</ls> {#BrUcAturyAkuYcitAkzAH#} (v. l. {#BrUcAturyaM ku°) kawAkzAH#}
+<ls>BHARTṚ. 1,3.</ls> {#kfzRAkuYcitamUrDaja#}
+<ls>MBH. 13,882.</ls> — caus. {%zusammenziehen, einbiegen, verkürzen%}: {#prasAryAkuYcayetsaMDim#}
+<ls>SUŚR. 2,29,9.</ls> {#sirAstvAkuccya#} (lies {#AkuYcya#})
+<ls n="SUŚR.">1,257,2.</ls>
 <div n="v">— Vgl. {#AkuYcana#} .
-
-<div n="p">— {#ud#} {%sich aufwärts —, sich auseinander biegen, sich krümmen%}: {#utkucatIzu snAvarajjuzu#} 
+<div n="p">— {#ud#} {%sich aufwärts —, sich auseinander biegen, sich krümmen%}: {#utkucatIzu snAvarajjuzu#}
 <ls>KAUŚ. 15.</ls> Aus {#utkoca#} {%Bestechung%} dürfen wir auf die übertr. Bed. {%sich auf einen krummen Weg begeben%} oder {%Jmd auf einen solchen führen%} schliessen.
-
 <div n="p">— {#ni#} s. {#nikuciti#} und {#nikucyakarRi#} .
-
-<div n="p">— {#vi#}, partic. {#vikuYcita#} {%zusammengezogen, geringelt%}: {#vikuYcitalalAwaBft#} 
-<ls>MBH. 1, 4112.</ls> {#vikuYcitaBrUlatam#} 
-<ls>KUMĀRAS. 5, 74.</ls> {#keSAnnitAntaGananIlavikuYcitAgrAn#} 
-<ls>ṚT. 3, 19.</ls> — caus. {%zusammenziehen, einziehen%}: {#vikuYcya karRO hanumAnutpapAta#} {%die Ohren zurückschlagend%} 
-<ls>R. 5, 5, 18</ls>; vgl. {#nikucyakarRi DAvati#} 
-<ls>P. 5, 4, 128,</ls> 
-<ls>Sch.</ls>
-
-<div n="p">— {#sam#} 
-<div n="1"> 1) {%sich zusammenziehen, sich schliessen%} (von einer Blume): {#mfgapatirapi kopAtsaMkucatyutpatizRuH#} 
-<ls>PAÑCAT. III, 40.</ls> {#niyataM divase 'tIte saMkucatyambujaM yaTA#} 
-<ls>SUŚR. 1, 321, 8.</ls> {#kamalavanAni samakucan#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 184, 3.</ls> pass. dass.: {#saMkucyate dfzwiH#} 
-<ls>SUŚR. 2, 319, 1.</ls> {#saMkucita#} {%zusammengezogen, geschlossen%}: {#saMkucitavraRatA#} 
-<ls>1, 36, 2.</ls> {#IzatsaMkucita#} 
-<ls>359, 2. 2, 55, 11.</ls> {#dehe saMkucite#} (Gegens. {#uttAna#}) 
-<ls>203, 4.</ls> {#gAtraM saMkucitam#} 
-<ls>BHARTṚ. 3, 74.</ls> {#SItAtsaMkucito vfScikaH#} 
-<ls>VOP. 26, 91.</ls> {#saMkucitastasTO tatkAlaM kamalopamaH#} 
-<ls>KATHĀS. 19, 23.</ls> von einer Blume 
-<ls>H. 1129.</ls> {#na hi saMkucitaH#} ({%nicht geschlossen, offen stehend%}) {#panTA yena bAlI hato gataH . samaye tizWa sugrIva mA bAlipaTamanvagAH ..#} 
-<ls>R. 4, 30, 20. 34, 33.</ls> {#asaMkucita#} {%nicht gerunzelt%}: {#pawwa#} 
-<ls>SUŚR. 1, 66, 6.</ls> 
-<div n="1">— 2) {%zusammenziehen, einziehen%}: {#pratyaNjanAnsaMcukocAntakAle#} Cit. bei 
-<ls>DURGA</ls> zu 
-<ls>NIR. 1, 15.</ls> — caus. 
-<div n="1"> 1) {%zusammenziehen%}: {#(gajAH) saMkocyAgrakarAn#} 
-<ls>MBH. 1, 2843.</ls> {#saMkocayetsirAH#} 
-<ls>SUŚR. 1, 47, 8.</ls> {#saMpIqya saMkocya viSozya vApi granTiM karoti#} 
-<ls>2, 287, 8.</ls> 
-<div n="1">— 2) {%verringern, verkleinern%}: {#vastUni praTayati ca saMkocayati ca#} 
-<ls>BHARTṚ. 2, 37.</ls> 
+<div n="p">— {#vi#}, partic. {#vikuYcita#} {%zusammengezogen, geringelt%}: {#vikuYcitalalAwaBft#}
+<ls>MBH. 1,4112.</ls> {#vikuYcitaBrUlatam#}
+<ls>KUMĀRAS. 5,74.</ls> {#keSAnnitAntaGananIlavikuYcitAgrAn#}
+<ls>ṚT. 3,19.</ls> — caus. {%zusammenziehen, einziehen%}: {#vikuYcya karRO hanumAnutpapAta#} {%die Ohren zurückschlagend%}
+<ls>R. 5,5,18</ls>; vgl. {#nikucyakarRi DAvati#}
+<ls>P. 5,4,128</ls>, <ls>Sch.</ls>
+<div n="p">— {#sam#}
+<div n="1"> 1) {%sich zusammenziehen, sich schliessen%} (von einer Blume): {#mfgapatirapi kopAtsaMkucatyutpatizRuH#}
+<ls>PAÑCAT. III,40.</ls> {#niyataM divase 'tIte saMkucatyambujaM yaTA#}
+<ls>SUŚR. 1,321,8.</ls> {#kamalavanAni samakucan#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 184,3.</ls> pass. dass.: {#saMkucyate dfzwiH#}
+<ls>SUŚR. 2,319,1.</ls> {#saMkucita#} {%zusammengezogen, geschlossen%}: {#saMkucitavraRatA#}
+<ls n="SUŚR.">1,36,2.</ls> {#IzatsaMkucita#}
+<ls n="SUŚR.">359,2. 2,55,11.</ls> {#dehe saMkucite#} (Gegens. {#uttAna#})
+<ls n="SUŚR.">203,4.</ls> {#gAtraM saMkucitam#}
+<ls>BHARTṚ. 3,74.</ls> {#SItAtsaMkucito vfScikaH#}
+<ls>VOP. 26,91.</ls> {#saMkucitastasTO tatkAlaM kamalopamaH#}
+<ls>KATHĀS. 19,23.</ls> von einer Blume
+<ls>H. 1129.</ls> {#na hi saMkucitaH#} ({%nicht geschlossen, offen stehend%}) {#panTA yena bAlI hato gataH . samaye tizWa sugrIva mA bAlipaTamanvagAH ..#}
+<ls>R. 4,30,20.</ls> <ls n="R. 4,">34,33.</ls> {#asaMkucita#} {%nicht gerunzelt%}: {#pawwa#}
+<ls>SUŚR. 1,66,6.</ls>
+<div n="1">— 2) {%zusammenziehen, einziehen%}: {#pratyaNjanAnsaMcukocAntakAle#} Cit. bei
+<ls>DURGA</ls> zu
+<ls>NIR. 1,15.</ls> — caus.
+<div n="1"> 1) {%zusammenziehen%}: {#(gajAH) saMkocyAgrakarAn#}
+<ls>MBH. 1,2843.</ls> {#saMkocayetsirAH#}
+<ls>SUŚR. 1,47,8.</ls> {#saMpIqya saMkocya viSozya vApi granTiM karoti#}
+<ls n="SUŚR.">2,287,8.</ls>
+<div n="1">— 2) {%verringern, verkleinern%}: {#vastUni praTayati ca saMkocayati ca#}
+<ls>BHARTṚ. 2,37.</ls>
 <div n="v">— Vgl. {#saMkoca, saMkocana#} .
 <LEND>

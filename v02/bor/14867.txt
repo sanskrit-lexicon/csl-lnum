@@ -1,5 +1,5 @@
 <L>14867<pc>454<k1>mole<k2>mole
-<div n="lb"/>{@MOLE:@}¦ <div n="I">I A mark on the body: {#tilaH, -kaH.#}</div>
-<div n="lb"/><div n="I">II An animal: {#*talpaH; bileSayo jantuBedaH.#}</div>
-<div n="lb"/><div n="I">III A mound: q. v. {#vapram.#}</div>
+{@MOLE:@}¦ <div n="I">I A mark on the body: {#tilaH, -kaH.#}</div>
+<div n="I">II An animal: {#*talpaH; bileSayo jantuBedaH.#}</div>
+<div n="I">III A mound: q. v. {#vapram.#}</div>
 <LEND>

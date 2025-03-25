@@ -1,16 +1,16 @@
 <L>1303<pc>1-0096<k1>atidUra<k2>atidUra
-{#atidUra#}¦ ({#ati + dUra#}) 
-<div n="1"> 1) <lex>adj.</lex> {%sehr entfernt%} 
-<ls>H. 1452.</ls> 
-<div n="1">— 2) {%grosse Entfernung%}: {#nAtidUranirIkzin#} 
-<ls>R. 5, 86, 12.</ls> {#nAtidUraM gatvA#} 
-<ls>PAÑCAT. 105, 4.</ls> {#nAtidUraM yAvatsaraso gacCati#} 
-<ls>142, 12.</ls> {#nAtidUramatikramya#} 
-<ls>VID. 90.</ls> {#nAtidUre, nAtidUrAt, nAtidUreRa#} {%in der Nähe%}: {#nAtidUre ca nagaraM vanAdasmAdvilakzaye#} 
-<ls>HIḌ. 1, 51</ls> <ls>?(MBH. 1, 5924:</ls> {#nAtidUreRa na° asmAdDi la°)#}.{# nAtidUre tapovanasya#} 
-<ls>ŚĀK. 18, 23.</ls> 
-<ls>PAÑCAT. 51, 15. 175, 1.</ls> {#ASramo nAtidUre 'sO tasya#} 
-<ls>R. 3, 17, 16.</ls> {#nAtidUrAdito vanam#} 
-<ls>3, 1, 29.</ls> {#anatidUre#} 
-<ls>PAÑCAT. 174, 10.</ls>
+{#atidUra#}¦ ({#ati + dUra#})
+<div n="1"> 1) <lex>adj.</lex> {%sehr entfernt%}
+<ls>H. 1452.</ls>
+<div n="1">— 2) {%grosse Entfernung%}: {#nAtidUranirIkzin#}
+<ls>R. 5,86,12.</ls> {#nAtidUraM gatvA#}
+<ls>PAÑCAT. 105,4.</ls> {#nAtidUraM yAvatsaraso gacCati#}
+<ls n="PAÑCAT.">142,12.</ls> {#nAtidUramatikramya#}
+<ls>VID. 90.</ls> {#nAtidUre, nAtidUrAt, nAtidUreRa#} {%in der Nähe%}: {#nAtidUre ca nagaraM vanAdasmAdvilakzaye#}
+<ls>HIḌ. 1,51</ls> (<ls>MBH. 1,5924</ls>: {#nAtidUreRa na° asmAdDi la°)#}.{# nAtidUre tapovanasya#}
+<ls>ŚĀK. 18,23.</ls>
+<ls>PAÑCAT. 51,15.</ls> <ls n="PAÑCAT.">175,1.</ls> {#ASramo nAtidUre 'sO tasya#}
+<ls>R. 3,17,16.</ls> {#nAtidUrAdito vanam#}
+<ls n="R.">3,1,29.</ls> {#anatidUre#}
+<ls>PAÑCAT. 174,10.</ls>
 <LEND>

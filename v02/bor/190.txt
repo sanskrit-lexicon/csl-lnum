@@ -1,4 +1,4 @@
 <L>190<pc>008<k1>acid<k2>acid
-<div n="lb"/>{@ACID:@}¦ <div n="I">I adj. {#amla:#} ({#mlA, mlaM#}). </div><div n="I">II Subs.:
-<div n="lb"/>{#amlaH.#}</div>
+{@ACID:@}¦ <div n="I">I adj. {#amla:#} ({#mlA, mlaM#}). </div><div n="I">II Subs.:
+{#amlaH.#}</div>
 <LEND>

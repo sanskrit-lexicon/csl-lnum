@@ -1,9 +1,9 @@
 <L>7805<pc>179-b<k1>devotion<k2>devotion
-<div n="lb"/>DEVOTION¦, {%s.%} (Devoted attachment) {#BaktiH#} {%f.,%} {#BaktatvaM, anurAgaH,#}
-<div n="lb"/>{#AsaktiH#} {%f.,%} {#prasaktiH#} {%f.,%} {#saktiH#} {%f.,%} {#anuraktiH#} {%f.,%} {#yogaH, sevA, upAsanA,#}
-<div n="lb"/>{#upasevanaM#}. — (Piety) {#ISvaraBaktiH#} {%f.,%} {#BajanaSIlatA, DarmmatvaM, ISvarasevA,#}
-<div n="lb"/>{#utsargaH#}. — (Act of worship) {#niyamaH, DarmmakriyA, DarmmakftyaM, tapaH#} {%n.%}
-<div n="lb"/>({#s#}); ‘to perform austere devotion,’ {#tapas#} (nom. {#tapasyati#})
-<div n="lb"/>or {#tapas tap#} in pass. ({#tapyate#}); ‘self-devotion,’ {#AtmaparityAgaH;#}
-<div n="lb"/>‘devotion to a husband,’ {#patisevA, pAtivratyaM#}.
+DEVOTION¦, {%s.%} (Devoted attachment) {#BaktiH#} {%f.,%} {#BaktatvaM, anurAgaH,#}
+{#AsaktiH#} {%f.,%} {#prasaktiH#} {%f.,%} {#saktiH#} {%f.,%} {#anuraktiH#} {%f.,%} {#yogaH, sevA, upAsanA,#}
+{#upasevanaM#}. — (Piety) {#ISvaraBaktiH#} {%f.,%} {#BajanaSIlatA, DarmmatvaM, ISvarasevA,#}
+{#utsargaH#}. — (Act of worship) {#niyamaH, DarmmakriyA, DarmmakftyaM, tapaH#} {%n.%}
+({#s#}); ‘to perform austere devotion,’ {#tapas#} (nom. {#tapasyati#})
+or {#tapas tap#} in pass. ({#tapyate#}); ‘self-devotion,’ {#AtmaparityAgaH;#}
+‘devotion to a husband,’ {#patisevA, pAtivratyaM#}.
 <LEND>

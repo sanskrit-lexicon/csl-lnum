@@ -1,5 +1,5 @@
 <L>1226<pc>043<k1>assess<k2>assess
-<div n="lb"/>{@ASSESS:@}¦ <div n="I">I To tax: {#karaM nirUpayati#} ({#rUp,#} c. 10.) {%or%}
-<div n="lb"/>{#avaDArayati#} <div n="xe">{%or%}</div> <div n="xs">{#nirDArayati#}</div> ({#Df,#} c. 1.). </div><div n="I">II To value:
-<div n="lb"/>q. v. Ph. <div n="xe">{%to a. damages%}</div> <div n="xs">{#kzatiM nirUpayati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#nirDArayati.#}</div></div>
+{@ASSESS:@}¦ <div n="I">I To tax: {#karaM nirUpayati#} ({#rUp,#} c. 10.) {%or%}
+{#avaDArayati#} <div n="xe">{%or%}</div> <div n="xs">{#nirDArayati#}</div> ({#Df,#} c. 1.). </div><div n="I">II To value:
+q. v. Ph. <div n="xe">{%to a. damages%}</div> <div n="xs">{#kzatiM nirUpayati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#nirDArayati.#}</div></div>
 <LEND>

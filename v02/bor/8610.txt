@@ -1,9 +1,9 @@
 <L>8610<pc>273<k1>feminine<k2>feminine
-<div n="lb"/>{@FEMININE:@}¦ <div n="I">I As opposed to manly: {#strERa#} (f.
-<div n="lb"/>{#RI#}), {%hesitates from f.%} ({%consideration%}): {#strERena #}
-<div n="lb"/>{# vicikitsati,#} Vi. i. 37.: v. Also effeminate.</div>
-<div n="lb"/><div n="I">II In gram.: {#strI,#} <div n="xe">{%f. gender:%}</div> <div n="xs">{#strIliNgam#}</div> (the
-<div n="lb"/>word); {#izuDi#} <div n="xe">{%is also f.:%}</div> <div n="xs">{#izuDiH strI ca,#}</div> S.k.; <div n="xe">{%the%}
-<div n="lb"/>{%five words%}</div> <div n="xs">{#ap#}</div> {%etc. are f. and%} ({%used in the%})
-<div n="lb"/><div n="xe">{%plural:%}</div> <div n="xs">{#abAdInAM paYcAnAM srItvaM bahutvaM ca,#}</div> S.k.</div>
+{@FEMININE:@}¦ <div n="I">I As opposed to manly: {#strERa#} (f.
+{#RI#}), {%hesitates from f.%} ({%consideration%}): {#strERena #}
+{# vicikitsati,#} Vi. i. 37.: v. Also effeminate.</div>
+<div n="I">II In gram.: {#strI,#} <div n="xe">{%f. gender:%}</div> <div n="xs">{#strIliNgam#}</div> (the
+word); {#izuDi#} <div n="xe">{%is also f.:%}</div> <div n="xs">{#izuDiH strI ca,#}</div> S.k.; <div n="xe">{%the%}
+{%five words%}</div> <div n="xs">{#ap#}</div> {%etc. are f. and%} ({%used in the%})
+<div n="xe">{%plural:%}</div> <div n="xs">{#abAdInAM paYcAnAM srItvaM bahutvaM ca,#}</div> S.k.</div>
 <LEND>

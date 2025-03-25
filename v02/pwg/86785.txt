@@ -1,66 +1,57 @@
 <L>86785<pc>6-0587<k1>loc<k2>loc
-{#loc#}¦, {#lo/cate#} ({#darSane#}) 
-<ls>DHĀTUP. 6, 3.</ls> Verwandt mit {#ruc#} und {#lok#} .
-
-<div n="p">— caus. {#locaya/ti#} ({#BAzArTa#} oder {#BAsArTa#}) 
-<ls>DHĀTUP. 33, 104.</ls>
-
-<div n="p">— {#A#} {%eine Betrachtung anstellen%}: {#sa ca Bagno manasedamAluloce#} {%stellte im Geiste folgende Betrachtung an%} 
-<ls>Verz. d. Oxf. H. 258,b,23.</ls> — caus. 
-<div n="1"> 1) {%vor Augen führen, sehen machen%}: {#svarUpamAlocayate ca rUpaM param#} 
-<ls>MBH. 12, 7416.</ls> 
-<div n="1">— 2) {%sich Etwas vor Augen halten, dem Geiste vorführen, erwägen, eine Betrachtung anstellen%}: {#iti yadi SatakftvastattvamAlocayAmaH#} 
-<ls>ŚĀṄTIŚ.</ls> in <ls>ŚATAKĀV. S. 29.</ls> Comm. zu <ls>KĀTY. ŚR. 85, 3 v. u. 86, 1.</ls> {#Alocayanto vistAramamBasAM dakziRodaDeH#} 
-<ls>BHAṬṬ. 7, 40.</ls> {#manasA trayImAlocitavAn#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 49.</ls> {#Alocya girimuKyaM taM mAgaDaM tIrRameva ca . mADavAH - parAM mudamavApnuvan ..#} 
-<ls>MBH. 2, 617.</ls> {#Alocya tAmraliptAM tAM dUrAm#} 
-<ls>KATHĀS. 13, 70. 18, 47.</ls> {#anAlocya premRaH pariRatim#} 
-<ls>Spr. 98. 787.</ls> 
-<ls>HIT. 119, 20.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 52. SĀH. D. 73, 11. MĀRK. P. 44, 23.</ls> {#parasparamAlocya pratyUcuste na kiM ca na#} 
-<ls>R. 3, 1, 8.</ls> 
-<ls>KATHĀS. 6, 133.</ls> {#SrutvA ca samyagAlocya#} 
-<ls>MĀRK. P. 44, 21. fg.</ls> {#AlocyAjYApaya#} 
-<ls>69, 54.</ls> {#tEH sahAlocya yatkAryam#} 
-<ls>?135, 28. PAÑCAR. 1, 2, 13. 15, 30. HIT. 92, 21, v. l.</ls> {#evamAlocya#} {%diese Betrachtung angestellt habend%} 
-<ls>KATHĀS. 56, 369.</ls> {#ityAlocya#} 
-<ls>5, 64. 16, 56. 18, 167. 190. 252. 333. 19, 23. 21, 81. 119. 22, 84. 26, 34. 114. 27, 70. 160. 28, 89. 135. 183. 29, 99. 30, 6. 32, 137. 36, 97. 37, 16. 39, 50. 206. 41, 25. 49, 80.</ls> <ls>Spr. 661.</ls> <ls>VṚDDHA-CĀṆ. 10, 17.</ls> <ls>MĀRK. P. 44, 23.</ls> <ls>HIT. 9, 8,</ls> <ls>v. l. 14, 17. 17, 17. 18, 16. 47, 19. 91, 19. 113, 14.</ls>
+{#loc#}¦, {#lo/cate#} ({#darSane#})
+<ls>DHĀTUP. 6,3.</ls> Verwandt mit {#ruc#} und {#lok#} .
+<div n="p">— caus. {#locaya/ti#} ({#BAzArTa#} oder {#BAsArTa#})
+<ls>DHĀTUP. 33,104.</ls>
+<div n="p">— {#A#} {%eine Betrachtung anstellen%}: {#sa ca Bagno manasedamAluloce#} {%stellte im Geiste folgende Betrachtung an%}
+<ls>Verz. d. Oxf. H. 258,b,23.</ls> — caus.
+<div n="1"> 1) {%vor Augen führen, sehen machen%}: {#svarUpamAlocayate ca rUpaM param#}
+<ls>MBH. 12,7416.</ls>
+<div n="1">— 2) {%sich Etwas vor Augen halten, dem Geiste vorführen, erwägen, eine Betrachtung anstellen%}: {#iti yadi SatakftvastattvamAlocayAmaH#}
+<ls>ŚĀṄTIŚ.</ls> in <ls>ŚATAKĀV. S. 29.</ls> Comm. zu <ls>KĀTY. ŚR. 85,3</ls> v. u. <ls n="KĀTY. ŚR.">86,1.</ls> {#Alocayanto vistAramamBasAM dakziRodaDeH#}
+<ls>BHAṬṬ. 7,40.</ls> {#manasA trayImAlocitavAn#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 49.</ls> {#Alocya girimuKyaM taM mAgaDaM tIrRameva ca . mADavAH — parAM mudamavApnuvan ..#}
+<ls>MBH. 2,617.</ls> {#Alocya tAmraliptAM tAM dUrAm#}
+<ls>KATHĀS. 13,70.</ls> <ls n="KATHĀS.">18,47.</ls> {#anAlocya premRaH pariRatim#}
+<ls>Spr. 98.</ls> <ls n="Spr.">787.</ls>
+<ls>HIT. 119,20.</ls>
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 52.</ls> <ls>SĀH. D. 73,11.</ls> <ls>MĀRK. P. 44,23.</ls> {#parasparamAlocya pratyUcuste na kiM ca na#}
+<ls>R. 3,1,8.</ls>
+<ls>KATHĀS. 6,133.</ls> {#SrutvA ca samyagAlocya#}
+<ls>MĀRK. P. 44,21. fg.</ls> {#AlocyAjYApaya#}
+<ls n="MĀRK. P.">69,54.</ls> {#tEH sahAlocya yatkAryam#}
+<ls n="MĀRK. P.">135,28.</ls> <ls>PAÑCAR. 1,2,13. 15,30.</ls> <ls>HIT. 92,21, v. l.</ls> {#evamAlocya#} {%diese Betrachtung angestellt habend%}
+<ls>KATHĀS. 56,369.</ls> {#ityAlocya#}
+<ls n="KATHĀS.">5,64.</ls> <ls n="KATHĀS.">16,56.</ls> <ls n="KATHĀS.">18,167.</ls> <ls n="KATHĀS. 18,">190.</ls> <ls n="KATHĀS. 18,">252.</ls> <ls n="KATHĀS. 18,">333.</ls> <ls n="KATHĀS.">19,23.</ls> <ls n="KATHĀS.">21,81.</ls> <ls n="KATHĀS. 21,">119.</ls> <ls n="KATHĀS.">22,84.</ls> <ls n="KATHĀS.">26,34.</ls> <ls n="KATHĀS. 26,">114.</ls> <ls n="KATHĀS.">27,70.</ls> <ls n="KATHĀS. 27,">160.</ls> <ls n="KATHĀS.">28,89.</ls> <ls n="KATHĀS. 28,">135.</ls> <ls n="KATHĀS. 28,">183.</ls> <ls n="KATHĀS.">29,99.</ls> <ls n="KATHĀS.">30,6.</ls> <ls n="KATHĀS.">32,137.</ls> <ls n="KATHĀS.">36,97.</ls> <ls n="KATHĀS.">37,16.</ls> <ls n="KATHĀS.">39,50.</ls> <ls n="KATHĀS. 39,">206.</ls> <ls n="KATHĀS.">41,25.</ls> <ls n="KATHĀS.">49,80.</ls> <ls>Spr. 661.</ls> <ls>VṚDDHA-CĀṆ. 10,17.</ls> <ls>MĀRK. P. 44,23.</ls> <ls>HIT. 9,8, v. l. 14,17. 17,17. 18,16. 47,19. 91,19. 113,14.</ls>
 [Page6-0588]
-{#mayEtadAlocitamasti yat#} 
-u.s.w. <ls>114, 16.</ls> {#AlocitaSezakArya#} 
-<ls>KATHĀS. 15, 114.</ls> {#pAnTenAlocitam#} impers. 
-<ls>HIT. 10, 10. 30, 17. 80, 20. 110, 10.</ls> {#anAlocitakftavaDa#} {%ohne Ueberlegung%} 
-<ls>PAÑCAT. 239, 4.</ls> {#anAlocitacezwita#} 
-<ls>Spr. 3417.</ls> {#AlocanIya#} 
-<ls>VEDĀNTAS. (Allah.) No. 4.</ls> 
+{#mayEtadAlocitamasti yat#}
+u.s.w. <ls n="HIT.">114,16.</ls> {#AlocitaSezakArya#}
+<ls>KATHĀS. 15,114.</ls> {#pAnTenAlocitam#} impers.
+<ls>HIT. 10,10. 30,17. 80,20. 110,10.</ls> {#anAlocitakftavaDa#} {%ohne Ueberlegung%}
+<ls>PAÑCAT. 239,4.</ls> {#anAlocitacezwita#}
+<ls>Spr. 3417.</ls> {#AlocanIya#}
+<ls>VEDĀNTAS. (Allah.) No. 4.</ls>
 <div n="v">— Vgl. {#Alocaka#} fg.
-
-<div n="p">— {#anvA#} caus. {%sich Etwas vor Augen halten, dem Geiste vorführen, in Erwägung ziehen%}: {#trayIvihitaM sfzwikramaM manasA anvAlocayat#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 49.</ls>
-
-<div n="p">— {#avA#} {%eine Betrachtung anstellen%}: {#itTaM nfpaH pUrvamavAluloce#} 
-<ls>BHAṬṬ. 1, 23.</ls>
-
-<div n="p">— {#paryA#} caus. {%sich Etwas vor Augen hälten, dem Geiste vorführen, in Erwägung ziehen, eine Betrachtung anstellen%}: {#pfzwaH sandevadattasya SuBASuBaM paryAlocayati#} 
-<ls>P. 1, 4, 39,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 5, 15.</ls> {#kzemaMkarARi kAryARi#} 
-<ls>BHAṬṬ. 6, 105.</ls> {#nigamAKyAMSca granTAn#} 
-<ls>KULL.</ls> zu <ls>M. 4, 19.</ls> <ls>KATHĀS. 52, 281</ls> (ohne obj.). {#svamanasA paryAlocitavAn#} 
-<ls>PAÑCAT. ed. orn. 56, 11.</ls> <ls>SĀY.</ls> zu <ls>AIT. BR. 5, 32.</ls> {#etatparyAlocya#} 
-<ls>VET.</ls> in <ls>LA. (III) 27,17.</ls> <ls>Verz. d. Oxf. H. 174,b, No. 395. fg.</ls> <ls>KULL.</ls> zu <ls>M.2,8.9,299.</ls> {#paryAlocita#} ders. zu 
-<ls>8, 77.</ls> 
+<div n="p">— {#anvA#} caus. {%sich Etwas vor Augen halten, dem Geiste vorführen, in Erwägung ziehen%}: {#trayIvihitaM sfzwikramaM manasA anvAlocayat#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 49.</ls>
+<div n="p">— {#avA#} {%eine Betrachtung anstellen%}: {#itTaM nfpaH pUrvamavAluloce#}
+<ls>BHAṬṬ. 1,23.</ls>
+<div n="p">— {#paryA#} caus. {%sich Etwas vor Augen hälten, dem Geiste vorführen, in Erwägung ziehen, eine Betrachtung anstellen%}: {#pfzwaH sandevadattasya SuBASuBaM paryAlocayati#}
+<ls>P. 1,4,39</ls>, <ls>Sch.</ls>
+<ls>VOP. 5,15.</ls> {#kzemaMkarARi kAryARi#}
+<ls>BHAṬṬ. 6,105.</ls> {#nigamAKyAMSca granTAn#}
+<ls>KULL.</ls> zu <ls>M. 4,19.</ls> <ls>KATHĀS. 52,281</ls> (ohne obj.). {#svamanasA paryAlocitavAn#}
+<ls>PAÑCAT. ed. orn. 56,11.</ls> <ls>SĀY.</ls> zu <ls>AIT. BR. 5,32.</ls> {#etatparyAlocya#}
+<ls>VET. in LA. (III) 27,17.</ls> <ls>Verz. d. Oxf. H. 174,b, No. 395. fg.</ls> <ls>KULL.</ls> zu <ls>M. 2,8.</ls> <ls n="M.">9,299.</ls> {#paryAlocita#} ders. zu
+<ls n="M.">8,77.</ls>
 <div n="v">— Vgl. {#paryAlocana#} .
-
-<div n="p">— {#samA#} caus. dass.: {#amUM vfttiM samAlocya#} 
-<ls>UJJVAL.</ls> in der Einl. zu <ls>UṆĀDIS. Śl. 7.</ls> {#tattatsarvam#} 
-<ls>PAÑCAR. 1, 1, 17.</ls> {#SamBunA#} 
-<ls>12, 3.</ls> {#surEH sArDam#} 
-<ls>14, 43.</ls> {#iti#} 
-<ls>HIT. 113, 14, v. l.</ls>
-
+<div n="p">— {#samA#} caus. dass.: {#amUM vfttiM samAlocya#}
+<ls>UJJVAL.</ls> in der Einl. zu <ls>UṆĀDIS. Śl. 7.</ls> {#tattatsarvam#}
+<ls>PAÑCAR. 1,1,17.</ls> {#SamBunA#}
+<ls n="PAÑCAR.">12,3.</ls> {#surEH sArDam#}
+<ls n="PAÑCAR.">14,43.</ls> {#iti#}
+<ls>HIT. 113,14, v. l.</ls>
 <div n="p">— {#ud#} s. {#ulloca#} .
-
-<div n="p">— {#nis#} caus. {%in Erwägung ziehen, eine Betrachtung anstellen%}: {#nirlocya#} 
-<ls>KATHĀS. 121, 180.</ls>
+<div n="p">— {#nis#} caus. {%in Erwägung ziehen, eine Betrachtung anstellen%}: {#nirlocya#}
+<ls>KATHĀS. 121,180.</ls>
 <LEND>

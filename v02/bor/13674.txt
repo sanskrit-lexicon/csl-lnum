@@ -1,6 +1,6 @@
 <L>13674<pc>420<k1>litter<k2>litter
-<div n="lb"/>{@LITTER@}¦ (subs.): <div n="I">I The vehicle: </div><div n="1">(1) {#SivikA;#}</div>
-<div n="lb"/><div n="1">(2) {#SiraskA#} (rare). </div><div n="I">II Of straw: {#tfRasaMstaraH.#}</div>
-<div n="lb"/><div n="I">III Of young: {#sahajAtaH SAvakagaRaH.#} </div><div n="I">IV Dis-
-<div n="lb"/>-order: q. v.</div>
+{@LITTER@}¦ (subs.): <div n="I">I The vehicle: </div><div n="1">(1) {#SivikA;#}</div>
+<div n="1">(2) {#SiraskA#} (rare). </div><div n="I">II Of straw: {#tfRasaMstaraH.#}</div>
+<div n="I">III Of young: {#sahajAtaH SAvakagaRaH.#} </div><div n="I">IV Dis-
+-order: q. v.</div>
 <LEND>

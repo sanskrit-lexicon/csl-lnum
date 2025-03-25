@@ -1,154 +1,152 @@
 <L>21600<pc>2-0646<k1>gati<k2>ga/ti
-{#ga/ti#}¦ (von {#gam#}) <lex>f.</lex> 
-<div n="1"> 1) {%Gang, Art zu gehen, Fähigkeit zu gehen; Weggang; Fortgang, Fortschritt%} 
-<ls>TRIK. 3, 3, 155.</ls> 
-<ls>H. 1500.</ls> 
-<ls>an. 2, 115.</ls> 
-<ls>MED. t. 14.</ls> <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>KIR. 4, 35.</ls> {#yannU\nama\SyAM gati^M mi\trasya^ yAyAM pa\TA#} 
-<ls>ṚV. 5, 64, 3.</ls> {#i\tyA ca^ me\ gati^Sca me ya\jYena^ kalpantAm#} 
-<ls>VS. 18, 15.</ls> {#utkrAntiM gatiM pratizWAM tfptiM punarAvfttim#} 
-<ls>ŚAT. BR. 11, 6, 2, 4. 1, 3, 5, 11. 9, 3, 20.</ls> {#sarvAsu gatizu yaTA vrajantyanyaTA tataH pratyAyanti#} 
-<ls>ŚĀṄKH. ŚR. 4, 6, 12. 1, 14. 21.</ls> 
-<ls>LĀṬY. 1, 11, 9.</ls> 
-<ls>TS. 7, 1, 4, 2.</ls> 
-<ls>ĀŚV. ŚR. 12, 6.</ls> {#na cEvAsyAnukurvIta gatiBAzitacezwitam#} 
-<ls>M. 2, 199. 8, 26.</ls> {#Bujaga iva gatO#} 
-<ls>MṚCCH. 50, 20.</ls> {#sKalitABiH - gatiBiH#} 
-<ls>ŚIŚ. 9, 78.</ls> {#gatizu viDuratA#} 
-<ls>DHŪRTAS. 72, 11.</ls> {#laGugati#} 
-<ls>MEGH. 16.</ls> {#drutataragati#} 
-<ls>19.</ls> {#mandagatitva#} 
-<ls>PAÑCAT. 142, 11.</ls> {#gatyutkampa#} 
-<ls>MEGH. 68.</ls> {#avihatagati#} 
-<ls>10.</ls> {#nAnyaTA mama gatirasti#} 
-<ls>PAÑCAT. 114, 23.</ls> {#camUgati#} 
-<ls>AK. 3. 4, 13, 57.</ls> {#aSvasya#} 
-<ls>2, 8, 2, 17.</ls> <ls>H. 1246.</ls> {#Kagagati#} 
-<ls>AK. 2, 5, 37.</ls> {#garutmataH#} 
-<ls>VID. 21.</ls> {#raTasya#} 
-<ls>YĀJÑ. 1, 350.</ls> 
-<ls>ŚĀK. 192.</ls> {#astragati#} {%der Gang, Flug der Geschosse%}: {#sarvAstragatikovida#} 
-<ls>R. 5, 76, 7.</ls> {#na rAkzasErastragatistu SakyA#} 
-<ls>44, 14.</ls> {#gatirudagdakziRArkasya#} 
-<ls>AK. 1, 1, 3, 13.</ls> 
-<ls>H. 158.</ls> {#nadInAm#} 
-<ls>R. 2, 60, 12.</ls> {#(yena te) Bavizyatyambare gatiH#} 
-<ls>VID. 111.</ls> {#AkASagati#} 
-<ls>PAÑCAT. 48, 7.</ls> {#yato 'hamanekajalagatIrjAnAmi#} 
-<ls>246, 22.</ls> {#aDvagati#} 
-<ls>SĀH. D. 65, 12.</ls> {#agatistatra rAmasya - yatra gamizyAmi vihAyasA#} 
-<ls>R. 3, 44, 25. 47, 4.</ls> 
-<ls>PAÑCAT. I, 365. V, 30.</ls> <ls>VID. 283.</ls> {#aTa vA kftavAgdvAre vaMSe 'sminpUrvasUriBiH . maRO vajrasamutkIrRe sUtrasyevAsti me gatiH ..#} 
-<ls>RAGH. 1, 4.</ls> {#parAM gatiM gam#} {%den letzten Gang gehen. sterben%} 
-<ls>BRĀHMAṆ. 2, 22.</ls> {#dEvagati#} {%der Gang des Schicksals%} 
-<ls>R. 6, 94, 26.</ls> 
-<ls>MEGH. 94.</ls> {#viDeH#} 
-<ls>VID. 199.</ls> {#manaso gatiH#} {%die Bewegung des Geistes%} 
-<ls>YĀJÑ. 3, 175.</ls> {#gatyA taTAgatyA#} {%durch Gehen und Kommen%} 
-<ls>170.</ls> {#kAvyasya gatiH#}
+{#ga/ti#}¦ (von {#gam#}) <lex>f.</lex>
+<div n="1"> 1) {%Gang, Art zu gehen, Fähigkeit zu gehen; Weggang; Fortgang, Fortschritt%}
+<ls>TRIK. 3,3,155.</ls>
+<ls>H. 1500.</ls>
+<ls>an. 2,115.</ls>
+<ls>MED. t. 14.</ls> <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>KIR. 4,35.</ls> {#yannU\nama\SyAM gati^M mi\trasya^ yAyAM pa\TA#}
+<ls>ṚV. 5,64,3.</ls> {#i\tyA ca^ me\ gati^Sca me ya\jYena^ kalpantAm#}
+<ls>VS. 18,15.</ls> {#utkrAntiM gatiM pratizWAM tfptiM punarAvfttim#}
+<ls>ŚAT. BR. 11,6,2,4. 1,3,5,11. 9,3,20.</ls> {#sarvAsu gatizu yaTA vrajantyanyaTA tataH pratyAyanti#}
+<ls>ŚĀṄKH. ŚR. 4,6,12. 1,14. 21.</ls>
+<ls>LĀṬY. 1,11,9.</ls>
+<ls>TS. 7,1,4,2.</ls>
+<ls>ĀŚV. ŚR. 12,6.</ls> {#na cEvAsyAnukurvIta gatiBAzitacezwitam#}
+<ls>M. 2,199.</ls> <ls n="M.">8,26.</ls> {#Bujaga iva gatO#}
+<ls>MṚCCH. 50,20.</ls> {#sKalitABiH — gatiBiH#}
+<ls>ŚIŚ. 9,78.</ls> {#gatizu viDuratA#}
+<ls>DHŪRTAS. 72,11.</ls> {#laGugati#}
+<ls>MEGH. 16.</ls> {#drutataragati#}
+<ls n="MEGH.">19.</ls> {#mandagatitva#}
+<ls>PAÑCAT. 142,11.</ls> {#gatyutkampa#}
+<ls>MEGH. 68.</ls> {#avihatagati#}
+<ls n="MEGH.">10.</ls> {#nAnyaTA mama gatirasti#}
+<ls>PAÑCAT. 114,23.</ls> {#camUgati#}
+<ls>AK. 3,4,13,57.</ls> {#aSvasya#}
+<ls n="AK.">2,8,2,17.</ls> <ls>H. 1246.</ls> {#Kagagati#}
+<ls>AK. 2,5,37.</ls> {#garutmataH#}
+<ls>VID. 21.</ls> {#raTasya#}
+<ls>YĀJÑ. 1,350.</ls>
+<ls>ŚĀK. 192.</ls> {#astragati#} {%der Gang, Flug der Geschosse%}: {#sarvAstragatikovida#}
+<ls>R. 5,76,7.</ls> {#na rAkzasErastragatistu SakyA#}
+<ls n="R. 5,">44,14.</ls> {#gatirudagdakziRArkasya#}
+<ls>AK. 1,1,3,13.</ls>
+<ls>H. 158.</ls> {#nadInAm#}
+<ls>R. 2,60,12.</ls> {#(yena te) Bavizyatyambare gatiH#}
+<ls>VID. 111.</ls> {#AkASagati#}
+<ls>PAÑCAT. 48,7.</ls> {#yato 'hamanekajalagatIrjAnAmi#}
+<ls n="PAÑCAT.">246,22.</ls> {#aDvagati#}
+<ls>SĀH. D. 65,12.</ls> {#agatistatra rAmasya — yatra gamizyAmi vihAyasA#}
+<ls>R. 3,44,25.</ls> <ls n="R. 3,">47,4.</ls>
+<ls>PAÑCAT. I,365. V,30.</ls> <ls>VID. 283.</ls> {#aTa vA kftavAgdvAre vaMSe 'sminpUrvasUriBiH . maRO vajrasamutkIrRe sUtrasyevAsti me gatiH ..#}
+<ls>RAGH. 1,4.</ls> {#parAM gatiM gam#} {%den letzten Gang gehen. sterben%}
+<ls>BRĀHMAṆ. 2,22.</ls> {#dEvagati#} {%der Gang des Schicksals%}
+<ls>R. 6,94,26.</ls>
+<ls>MEGH. 94.</ls> {#viDeH#}
+<ls>VID. 199.</ls> {#manaso gatiH#} {%die Bewegung des Geistes%}
+<ls>YĀJÑ. 3,175.</ls> {#gatyA taTAgatyA#} {%durch Gehen und Kommen%}
+<ls n="YĀJÑ.">170.</ls> {#kAvyasya gatiH#}
 [Page2-0647]
-{%der Fortgang, der Verlauf des Gedichts%} 
-<ls>R. 1, 3, 2.</ls> 
-<div n="1">— 2) {%das Gelangen zu, Erreichen%}: {#svargasya lokasya gatyE#} 
-<ls>ŚAT. BR. 9, 4, 4, 15. 10.</ls> {#yadi puMsAM gatirbrahmankaTaMcinnopapadyate . apyanyo'nyaM pravartante (striyaH)#} 
-<ls>MBH. 13, 2223.</ls> {#BogESvaryagati#} 
-<ls>BHAG. 2, 43.</ls> 
-<div n="1">— 3) {%Weg, Bahn%}, = {#aDvan#} 
-<ls>H. an.</ls> = {#mArga#} und {#saraRI#} 
-<ls>MED.</ls> = {#gantavyadeSa#} 
-<ls>VAIJ.</ls> <ls>BHAG. 8, 26.</ls> {#jagAmAtmagatiM praBuH#} 
-<ls>R. 1, 76, 24.</ls> {#kAM gatiM tvadya gamizyAmi sabAnDavaH#} 
-<ls>BRĀHMAṆ. 1, 35.</ls> {%die Bahn der Gestirne%}: {#alakzyA hi yaTA lokErvyomni candrArkayorgatiH . nakzatrARAM grahARAM ca taTA vfttaM mahAtmanAm ..#} 
-<ls>R. 5, 81, 21.</ls> in der Astr. {%eine best. Strecke der Mondbahn%} und {%der Stand eines Planeten in derselben%}: {#prAkftavimiSrasaMkziptatIkzRayogAntaGorapApAKyAH . sapta parASaratantre nakzatrEH kIrtitAH gatayaH ..#} 
-<ls>VARĀH. BṚH. 7, 8. fgg.</ls> {%the diurnal motion of a planet in its orbit%} 
-<ls>KĀLAS. 364</ls> bei <ls>HAUGHT.</ls> 
-<div n="1">— 4) {%Ausgang%}: {#prARApAnagatI rudDvA#} 
-<ls>BHAG. 4, 29.</ls> {%Ausgang, Gang%} einer Wunde, eines Geschwürs: {#gatayo 'nyo'nyasaMbadDA bAhyAScCedyAH#} 
-<ls>SUŚR. 2, 58, 15.</ls> {#srAvagati#} 
-<ls>60, 14.</ls> {#ezaRyA gatimanvizya#} 
-<ls>103, 6. 7. 104, 6. 122, 7.</ls> {#tElaM saMSoDanaM hanyAddantagatAM gatim#} 
-<ls>128, 3.</ls> = {#nAqIvraRa#} 
-<ls>H. 470.</ls> 
-<ls>MED.</ls> = {#vfhadvraRa#} 
-<ls>H. an.</ls> 
-<div n="1">— 5) {%Ausgangspunkt, Ursprung, Grund%}: {#kA sAmno gatiriti svara iti hovAca svarasya kA gatiriti prARa iti hovAca prARasya kA gatirityannamiti hovAca#} u. s. w. 
-<ls>CHĀND. UP. 1, 8, 4. 5.</ls> {#evamAcArato dfzwvA Darmasya munayo gatim#} 
-<ls>M. 1, 110.</ls> {#sTityutpattivinASAnAM tvAmAhuH paramAM gatim#} 
-<ls>R. 6, 102, 29.</ls> {#kA gatirduHKasya#} 
-<ls>MUDR. 134, 15.</ls> 
-<div n="1">— 6) {%Ausweg, Möglichkeit, Mittel%}, = {#upAya#} und {#aByupAya#} 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>VAIJ.</ls> <ls>KĀṬHOP. 2,</ls> <ls>?8(?).</ls> {#daRqastvagatikA gatiH#} 
-<ls>YĀJÑ. 1, 345.</ls> {#gatiM putrA na paSyAmi rakzasAm#} {%ich sehe nicht ein, wie dies den%} <is>Rakṣas</is> {%möglich gewesen ist%} 
-<ls>R. 1, 40, 12.</ls> {#kva gatirmAnuzARAM ca Danuzo 'sya prapUraRe#} 
-<ls>67, 10.</ls> {#apyatra kasyacidupakramasya gatiH syAt#} 
-<ls>MĀLAV. 44, 23.</ls> {#nAstyagatirmanoraTAnAm#} 
-<ls>VIKR. 26, 3.</ls> {#gatimanyAmapaSyan#} 
-<ls>VID. 30.</ls> {#gatyaBAvAt#} 
-<ls>Sch.</ls> zu <ls>KĀTY. ŚR. 1, 6, 14.</ls> {#agatyA#} 
-<ls>?5, 10. Sch. zu JAIM. 1, 2, 17.</ls> {%Kunstgriff, Strategem%}: {#gatIrdaSa samApannO pravartananivartanEH#} 
-<ls>R. 6, 92, 4.</ls> {#darSayitvA tatastO tu gatIrvahuviDA raRe#} 
-<ls>6.</ls> {#mAyAvI tvaM samarTaSca gatiyukto 'Ta budDimAn#} 
-<ls>3, 47, 14.</ls> 
-<div n="1">— 7) {%Zuflucht%}: {#AtmEva hyAtmanaH sAkzI gatirAtmA taTAtmanaH#} 
-<ls>M. 8, 84.</ls> 
-<ls>BRĀHMAṆ. 1, 25.</ls> {#tvaM hi naH paramA gatiH#} 
-<ls>R. 1, 38, 4.</ls> {#gatirekA patirnAryA dvitIyA gatirAtmajaH . tftIyA jYAtayo rAjan caturTI nEva vidyate ..#} 
-<ls>2, 61, 24. 72, 15. 88, 19. 3, 3, 2. 14, 13. 18, 33. 40, 1. 4, 8, 14. 27. 22, 14.</ls> <ls>DAŚ. 2, 9.</ls> {#pratyAKyAto vasizWena gatimanyAm - guruputrAnfte sarvAnnAhaM paSyAmi kAM ca na#} 
-<ls>VIŚV. 7, 20. 21. 8, 3.</ls> {#pratyAKyAto BagavatA guruputrEstaTEva hi . anyAM gatiM gamizyAmi#} 7. {#Seze kArye BavAngatiH#} 
-<ls>R. 6, 6, 33.</ls> 
-<ls>VET. 32, 8.</ls> 
-<div n="1">— 8) {%Stellung, Lage%} (des Kindes bei der Geburt): {#garBasya gatayaScitrA jAyante 'nilakopataH#} 
-<ls>SUŚR. 2, 93, 6. 91, 17.</ls> 
-<div n="1">— 9) {%Zustand, Lage, Verhältniss, Wesen%}, = {#daSA#} 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#puruzAnna paraM kiMcitsA kAzWA sA parA gatiH#} 
-<ls>KAṬHOP. 3, 11.</ls> {#gahanA karmaRo gatiH#} 
-<ls>BHAG. 4, 17.</ls> {#SaktivEkalyanamrasya#} u.s.w. {#tfRasya ca samA gatiH#} 
-<ls>PAÑCAT. I, 119.</ls> {#dAnaM Bogo nASastisro gatayo Bavanti vittasya#} 
-<ls>II, 159.</ls> {#anizwAdizwalABe 'pi na gatirjAyate SuBA#} 
-<ls>HIT. I, 5.</ls> {#nAnyA gatirBavati vArida cAtakasya#} 
-<ls>CĀT. 3.</ls> 
-<div n="1">— 10) {%ein glücklicher Zustand, Glück%}: {#yaSca DarmarataH sa gatiM laBate#} 
-<ls>MBH. 3, 17398.</ls> 
-<div n="1">— 11) {%die Wanderung der Seele durch verschiedene Körper; die bei diesem Kreislauf dem Einzelnen angewiesene Stellung%}: {#uccAvacezu BUtezu - saMpaSyedgatimasyAntarAtmanaH#} 
-<ls>M. 6, 73. 1, 50.</ls> {#avekzeta gatIrnFRAM karmadozasamudBavAH#} 
-<ls>6, 61.</ls> {#karmajA gatayo nFRAmuttamADamamaDyamAH#} 
-<ls>12, 3. 23. 40.</ls> {#gORikI#} 
-<ls>41.</ls> {#tAmasI#} 
-<ls>42 - 44.</ls> {#rAjasI#}
+{%der Fortgang, der Verlauf des Gedichts%}
+<ls>R. 1,3,2.</ls>
+<div n="1">— 2) {%das Gelangen zu, Erreichen%}: {#svargasya lokasya gatyE#}
+<ls>ŚAT. BR. 9,4,4,15. 10.</ls> {#yadi puMsAM gatirbrahmankaTaMcinnopapadyate . apyanyo'nyaM pravartante (striyaH)#}
+<ls>MBH. 13,2223.</ls> {#BogESvaryagati#}
+<ls>BHAG. 2,43.</ls>
+<div n="1">— 3) {%Weg, Bahn%}, = {#aDvan#}
+<ls>H. an.</ls> = {#mArga#} und {#saraRI#}
+<ls>MED.</ls> = {#gantavyadeSa#}
+<ls>VAIJ.</ls> <ls>BHAG. 8,26.</ls> {#jagAmAtmagatiM praBuH#}
+<ls>R. 1,76,24.</ls> {#kAM gatiM tvadya gamizyAmi sabAnDavaH#}
+<ls>BRĀHMAṆ. 1,35.</ls> {%die Bahn der Gestirne%}: {#alakzyA hi yaTA lokErvyomni candrArkayorgatiH . nakzatrARAM grahARAM ca taTA vfttaM mahAtmanAm ..#}
+<ls>R. 5,81,21.</ls> in der Astr. {%eine best. Strecke der Mondbahn%} und {%der Stand eines Planeten in derselben%}: {#prAkftavimiSrasaMkziptatIkzRayogAntaGorapApAKyAH . sapta parASaratantre nakzatrEH kIrtitAH gatayaH ..#}
+<ls>VARĀH. BṚH. 7,8. fgg.</ls> {%the diurnal motion of a planet in its orbit%}
+<ls>KĀLAS. 364</ls> bei <ls>HAUGHT.</ls>
+<div n="1">— 4) {%Ausgang%}: {#prARApAnagatI rudDvA#}
+<ls>BHAG. 4,29.</ls> {%Ausgang, Gang%} einer Wunde, eines Geschwürs: {#gatayo 'nyo'nyasaMbadDA bAhyAScCedyAH#}
+<ls>SUŚR. 2,58,15.</ls> {#srAvagati#}
+<ls n="SUŚR.">60,14.</ls> {#ezaRyA gatimanvizya#}
+<ls n="SUŚR.">103,6. 7. 104,6. 122,7.</ls> {#tElaM saMSoDanaM hanyAddantagatAM gatim#}
+<ls n="SUŚR.">128,3.</ls> = {#nAqIvraRa#}
+<ls>H. 470.</ls>
+<ls>MED.</ls> = {#vfhadvraRa#}
+<ls>H. an.</ls>
+<div n="1">— 5) {%Ausgangspunkt, Ursprung, Grund%}: {#kA sAmno gatiriti svara iti hovAca svarasya kA gatiriti prARa iti hovAca prARasya kA gatirityannamiti hovAca#} u. s. w.
+<ls>CHĀND. UP. 1,8,4. 5.</ls> {#evamAcArato dfzwvA Darmasya munayo gatim#}
+<ls>M. 1,110.</ls> {#sTityutpattivinASAnAM tvAmAhuH paramAM gatim#}
+<ls>R. 6,102,29.</ls> {#kA gatirduHKasya#}
+<ls>MUDR. 134,15.</ls>
+<div n="1">— 6) {%Ausweg, Möglichkeit, Mittel%}, = {#upAya#} und {#aByupAya#}
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>VAIJ.</ls> <ls>KĀṬHOP. 2,8 (?).</ls> {#daRqastvagatikA gatiH#}
+<ls>YĀJÑ. 1,345.</ls> {#gatiM putrA na paSyAmi rakzasAm#} {%ich sehe nicht ein, wie dies den%} <is>Rakṣas</is> {%möglich gewesen ist%}
+<ls>R. 1,40,12.</ls> {#kva gatirmAnuzARAM ca Danuzo 'sya prapUraRe#}
+<ls n="R. 1,">67,10.</ls> {#apyatra kasyacidupakramasya gatiH syAt#}
+<ls>MĀLAV. 44,23.</ls> {#nAstyagatirmanoraTAnAm#}
+<ls>VIKR. 26,3.</ls> {#gatimanyAmapaSyan#}
+<ls>VID. 30.</ls> {#gatyaBAvAt#}
+<ls>Sch.</ls> zu <ls>KĀTY. ŚR. 1,6,14.</ls> {#agatyA#}
+<ls n="KĀTY. ŚR.">5,10.</ls> Sch. zu <ls>JAIM. 1,2,17.</ls> {%Kunstgriff, Strategem%}: {#gatIrdaSa samApannO pravartananivartanEH#}
+<ls>R. 6,92,4.</ls> {#darSayitvA tatastO tu gatIrvahuviDA raRe#}
+<ls n="R. 6,92,">6.</ls> {#mAyAvI tvaM samarTaSca gatiyukto 'Ta budDimAn#}
+<ls n="R.">3,47,14.</ls>
+<div n="1">— 7) {%Zuflucht%}: {#AtmEva hyAtmanaH sAkzI gatirAtmA taTAtmanaH#}
+<ls>M. 8,84.</ls>
+<ls>BRĀHMAṆ. 1,25.</ls> {#tvaM hi naH paramA gatiH#}
+<ls>R. 1,38,4.</ls> {#gatirekA patirnAryA dvitIyA gatirAtmajaH . tftIyA jYAtayo rAjan caturTI nEva vidyate ..#}
+<ls n="R.">2,61,24.</ls> <ls n="R. 2,">72,15.</ls> <ls n="R. 2,">88,19.</ls> <ls n="R.">3,3,2.</ls> <ls n="R. 3,">14,13.</ls> <ls n="R. 3,">18,33.</ls> <ls n="R. 3,">40,1.</ls> <ls n="R.">4,8,14.</ls> <ls n="R. 4,8,">27.</ls> <ls n="R. 4,">22,14.</ls> <ls>DAŚ. 2,9.</ls> {#pratyAKyAto vasizWena gatimanyAm — guruputrAnfte sarvAnnAhaM paSyAmi kAM ca na#}
+<ls>VIŚV. 7,20. 21. 8,3.</ls> {#pratyAKyAto BagavatA guruputrEstaTEva hi . anyAM gatiM gamizyAmi#} 7. {#Seze kArye BavAngatiH#}
+<ls>R. 6,6,33.</ls>
+<ls>VET. 32,8.</ls>
+<div n="1">— 8) {%Stellung, Lage%} (des Kindes bei der Geburt): {#garBasya gatayaScitrA jAyante 'nilakopataH#}
+<ls>SUŚR. 2,93,6. 91,17.</ls>
+<div n="1">— 9) {%Zustand, Lage, Verhältniss, Wesen%}, = {#daSA#}
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#puruzAnna paraM kiMcitsA kAzWA sA parA gatiH#}
+<ls>KAṬHOP. 3,11.</ls> {#gahanA karmaRo gatiH#}
+<ls>BHAG. 4,17.</ls> {#SaktivEkalyanamrasya#} u.s.w. {#tfRasya ca samA gatiH#}
+<ls>PAÑCAT. I,119.</ls> {#dAnaM Bogo nASastisro gatayo Bavanti vittasya#}
+<ls n="PAÑCAT.">II,159.</ls> {#anizwAdizwalABe 'pi na gatirjAyate SuBA#}
+<ls>HIT. I,5.</ls> {#nAnyA gatirBavati vArida cAtakasya#}
+<ls>CĀT. 3.</ls>
+<div n="1">— 10) {%ein glücklicher Zustand, Glück%}: {#yaSca DarmarataH sa gatiM laBate#}
+<ls>MBH. 3,17398.</ls>
+<div n="1">— 11) {%die Wanderung der Seele durch verschiedene Körper; die bei diesem Kreislauf dem Einzelnen angewiesene Stellung%}: {#uccAvacezu BUtezu — saMpaSyedgatimasyAntarAtmanaH#}
+<ls>M. 6,73.</ls> <ls n="M.">1,50.</ls> {#avekzeta gatIrnFRAM karmadozasamudBavAH#}
+<ls n="M.">6,61.</ls> {#karmajA gatayo nFRAmuttamADamamaDyamAH#}
+<ls n="M.">12,3.</ls> <ls n="M. 12,">23.</ls> <ls n="M. 12,">40.</ls> {#gORikI#}
+<ls n="M. 12,">41.</ls> {#tAmasI#}
+<ls n="M. 12,">42</ls> — <ls n="M. 12,">44.</ls> {#rAjasI#}
 [Page2-0648]
-
-<ls>45 - 47.</ls> {#sAttvikI#} 
-<ls>48 - 50.</ls> <ls>YĀJÑ. 3, 63.</ls> {#gatInAM mokza ucyase#} 
-<ls>MBH. 13, 917.</ls> {#kANkzangatimanuttamAm#} 
-<ls>M. 2, 242.</ls> 
-<ls>YĀJÑ. 1, 87.</ls> {#AtmAnaM ca paSUMScEva gamayatyuttamAM gatim#} 
-<ls>M. 5, 42.</ls> 
-<ls>R. 3, 73, 42.</ls> {#prApnoti paramAM gatim#} 
-<ls>M. 4, 14. 6, 88. 93. 96. 8, 420. 10, 130. 12, 116.</ls> 
-<ls>YĀJÑ. 1, 265.</ls> 
-<ls>BRAHMA-P. 49, 12.</ls> {#parAM gatim#} 
-<ls>BHAG. 6, 45.</ls> 
-<ls>R.</ls> Einl. {#yaTezwAM gatim#} 
-<ls>M. 12, 126.</ls> {#pitAmahAnAM pUrvezAM nAhaM gatimavApnuyAm#} 
-<ls>MBH. 2, 2301.</ls> {#sadAcAro BavAneva kaTametAM gatiM gataH#} 
-<ls>KATHĀS. 2, 7.</ls> {#divyAM gatiM vararuciH sa nijAM prayede#} 
-<ls>5, 141.</ls> {#imAM vA tvadgatiM rAma tapobalasamarjitAm . - hanizyAmIti me matiH#} 
-<ls>R. 1, 76, 7. 15. 28, 11.</ls> {#gatirezA hftA yena#} 
-<ls>BRAHMA-P. 58, 10.</ls> {#iha hi muktagatirdevagatirmanuzyagatistiryaggatirnarakagatiriti jIvAnAM paYca gatayo Bavanti#} 
-<ls>H. 20,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 12) {%Art und Weise%} 
-<ls>VYUTP. 151.</ls> 
-<div n="1">— 13) {%Kenntniss%} 
-<ls>H. an.</ls> <ls>MED.</ls> {%Einsicht%} 
-<ls>VYUTP. 28. 151.</ls> 
-<div n="1">— 14) in der Gramm. {%die Präpositionen und bestimmte andere adverbialische Formen, wenn sie in unmittelbarem Bezug zu einem Verbalbegriff stehen%}, 
-<ls>P. 1, 4, 60. fgg.</ls> 
-<ls>6, 2, 49. fgg.</ls> 
-<ls>139. 8, 1, 70. 71.</ls> 
-<div n="1">— 15) {%eine best. hohe Zahl%} 
-<ls>VYUTP. 180. 183. 185.</ls> 
-<div n="1">— 16) der personif. {%Gang%} ist eine Tochter der <is>Devahūti</is> und Gemahlin <is>Pulaha's</is> 
-<ls>VP. 55,</ls> 
+<ls n="M. 12,">45</ls> — <ls n="M. 12,">47.</ls> {#sAttvikI#}
+<ls n="M. 12,">48</ls> — <ls n="M. 12,">50.</ls> <ls>YĀJÑ. 3,63.</ls> {#gatInAM mokza ucyase#}
+<ls>MBH. 13,917.</ls> {#kANkzangatimanuttamAm#}
+<ls>M. 2,242.</ls>
+<ls>YĀJÑ. 1,87.</ls> {#AtmAnaM ca paSUMScEva gamayatyuttamAM gatim#}
+<ls>M. 5,42.</ls>
+<ls>R. 3,73,42.</ls> {#prApnoti paramAM gatim#}
+<ls>M. 4,14.</ls> <ls n="M.">6,88.</ls> <ls n="M. 6,">93.</ls> <ls n="M. 6,">96.</ls> <ls n="M.">8,420.</ls> <ls n="M.">10,130.</ls> <ls n="M.">12,116.</ls>
+<ls>YĀJÑ. 1,265.</ls>
+<ls>BRAHMA-P. 49,12.</ls> {#parAM gatim#}
+<ls>BHAG. 6,45.</ls>
+<ls>R.</ls> Einl. {#yaTezwAM gatim#}
+<ls>M. 12,126.</ls> {#pitAmahAnAM pUrvezAM nAhaM gatimavApnuyAm#}
+<ls>MBH. 2,2301.</ls> {#sadAcAro BavAneva kaTametAM gatiM gataH#}
+<ls>KATHĀS. 2,7.</ls> {#divyAM gatiM vararuciH sa nijAM prayede#}
+<ls n="KATHĀS.">5,141.</ls> {#imAM vA tvadgatiM rAma tapobalasamarjitAm . — hanizyAmIti me matiH#}
+<ls>R. 1,76,7.</ls> <ls n="R. 1,76,">15.</ls> <ls n="R. 1,">28,11.</ls> {#gatirezA hftA yena#}
+<ls>BRAHMA-P. 58,10.</ls> {#iha hi muktagatirdevagatirmanuzyagatistiryaggatirnarakagatiriti jIvAnAM paYca gatayo Bavanti#}
+<ls>H. 20</ls>, <ls>Sch.</ls>
+<div n="1">— 12) {%Art und Weise%}
+<ls>VYUTP. 151.</ls>
+<div n="1">— 13) {%Kenntniss%}
+<ls>H. an.</ls> <ls>MED.</ls> {%Einsicht%}
+<ls>VYUTP. 28. 151.</ls>
+<div n="1">— 14) in der Gramm. {%die Präpositionen und bestimmte andere adverbialische Formen, wenn sie in unmittelbarem Bezug zu einem Verbalbegriff stehen%},
+<ls>P. 1,4,60. fgg.</ls>
+<ls n="P.">6,2,49. fgg.</ls>
+<ls n="P. 1,4,">139.</ls> <ls n="P.">8,1,70.</ls> <ls n="P. 8,1,">71.</ls>
+<div n="1">— 15) {%eine best. hohe Zahl%}
+<ls>VYUTP. 180. 183. 185.</ls>
+<div n="1">— 16) der personif. {%Gang%} ist eine Tochter der <is>Devahūti</is> und Gemahlin <is>Pulaha's</is>
+<ls>VP. 55</ls>,
 <ls>N. 12.</ls>
 <LEND>

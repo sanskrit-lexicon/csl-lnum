@@ -1,5 +1,5 @@
 <L>14349<pc>440<k1>meanness<k2>meanness
-<div n="lb"/>{@MEANNESS:@}¦ <div n="I">I Lowness: </div><div n="1">(1) {#nikfzwatA;#} </div><div n="1">(2)
-<div n="lb"/>{#apakfzwatA.#} </div><div n="I">II Poorness, niggardliness: {#kfpaRatA#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#kArpaRyam.#}</div></div>
+{@MEANNESS:@}¦ <div n="I">I Lowness: </div><div n="1">(1) {#nikfzwatA;#} </div><div n="1">(2)
+{#apakfzwatA.#} </div><div n="I">II Poorness, niggardliness: {#kfpaRatA#}
+<div n="xe">{%or%}</div> <div n="xs">{#kArpaRyam.#}</div></div>
 <LEND>

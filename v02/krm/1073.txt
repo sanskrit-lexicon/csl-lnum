@@ -1,6 +1,6 @@
 <L>1073<pc>0904<k1>prIY<k2>prIY
 (1073) {@<s>“prIY tarpaRe”</s>@}¦ (X<s>-curAdiH</s>-1837. <s>saka</s>. <s>sew</s>. <s>uBa</s>.)
-<div n="lb"><s>ADfzIyaH .</s>
+<s>ADfzIyaH .</s>
 <div n="NI"><s>‘—yO YittvasAPalyAt prIRayet prayate prayet .’</s> (<s>Slo</s>. 20) <s>iti devaH .</s>
 <sup>3</sup> <s>prIRakaH-RikA</s>,
 <sup>4</sup> <s>prAyakaH-yikA</s>,
@@ -8,43 +8,43 @@
 <sup>6</sup> <s>prAyakaH-yikA</s>,
 <sup>7</sup> <s>piprIzakaH-zikA</s>,
 <sup>8</sup> <s>peprIyakaH-yikA</s>;
-<div n="lb"><s>prIRayitA-trI, piprIRayizitA-trI, pretA-trI, piprIzitA-trI, peprIyitA-trI</s>;
-<div n="lb"><s>prIRayan-ntI, piprIRayizan-ntI</s>,
+<s>prIRayitA-trI, piprIRayizitA-trI, pretA-trI, piprIzitA-trI, peprIyitA-trI</s>;
+<s>prIRayan-ntI, piprIRayizan-ntI</s>,
 <sup>9</sup> <s>prayan</s>
 <sup>A</sup> <s>-ntI, piprIzan-ntI; -</s>- 
 [Page0905+ 25]
-<div n="lb"><s>prIRayizyan-piprIRayizizyan-ntI-tI, prezyan-ntI-tI, piprIzizyan-ntI-tI</s>;
-<div n="lb"><s>mitraprIH-mitrapriyO-mitrapriyaH; -</s>-
-<div n="lb"><s>prIRitam-taH, piprIRayizitaH-tavAn, prItam-taH, piprIzitaH, peprIyitaH-tavAn</s>;
-<div n="lb"><s>prIRaH, piprIRayizuH, priyaH, piprIzuH, prepriyaH</s>;
-<div n="lb"><s>prIRayitavyam, piprIRayizitavyam, pretavyam, piprIzitavyam, preprIyitavyam</s>;
-<div n="lb"><s>prIRanIyam, piprIRayizaRIyam, prayaRIyam, piprIzaRIyam, peprIyaRIyam</s>;
-<div n="lb"><s>prIRyam, piprIRayizyam, preyam, piprIzyam, peprIyyam</s>;
-<div n="lb"><s>IzatprIRaH-duzprIRaH-suprIRaH, IzatprayaH-duzprayaH-suprayaH; — -</s>-
-<div n="lb"><s>prIRyamAnaH, piprIRayizyamARaH, prIyamARaH, piprIzyamARaH, peprIyyamARaH</s>;
-<div n="lb"><s>prIRaH, piprIRayizaH</s>,
+<s>prIRayizyan-piprIRayizizyan-ntI-tI, prezyan-ntI-tI, piprIzizyan-ntI-tI</s>;
+<s>mitraprIH-mitrapriyO-mitrapriyaH; -</s>-
+<s>prIRitam-taH, piprIRayizitaH-tavAn, prItam-taH, piprIzitaH, peprIyitaH-tavAn</s>;
+<s>prIRaH, piprIRayizuH, priyaH, piprIzuH, prepriyaH</s>;
+<s>prIRayitavyam, piprIRayizitavyam, pretavyam, piprIzitavyam, preprIyitavyam</s>;
+<s>prIRanIyam, piprIRayizaRIyam, prayaRIyam, piprIzaRIyam, peprIyaRIyam</s>;
+<s>prIRyam, piprIRayizyam, preyam, piprIzyam, peprIyyam</s>;
+<s>IzatprIRaH-duzprIRaH-suprIRaH, IzatprayaH-duzprayaH-suprayaH; — -</s>-
+<s>prIRyamAnaH, piprIRayizyamARaH, prIyamARaH, piprIzyamARaH, peprIyyamARaH</s>;
+<s>prIRaH, piprIRayizaH</s>,
 <sup>1</sup> <s>prayaH, piprIzaH, peprIyaH</s>;
-<div n="lb"><s>prIRayitum, piprIRayizitum, pretum, piprIzitum, peprIyitum</s>;
-<div n="lb"><s>prIRanA, piprIRayizA, prItiH, piprIzA, peprIyA</s>;
-<div n="lb"><s>prIRanam, piprIRayizaRam, prayaRam, piprIzaRam, peprIyaRam</s>;
-<div n="lb"><s>prIRayitvA, piprIRayizitvA, prItvA, piprIzitvA, peprIyitvA</s>;
-<div n="lb"><s>viprIRya, vipiprIRayizya, viprIya, vipiprIzya, vipeprIyya</s>;
-<div n="lb"><note n="1"/><s>prIRam</s> 2, <s>prIRayitvA</s> 2, <s>piprIRayizam</s> 2, <s>piprIRayizitvA</s> 2, <s>prAyam</s> 2, <s>prItvA</s> 2, <s>piprIzam</s> 2, <s>piprIzitvA</s> 2, <s>peprIyam</s> 2<s>; peprIyitvA</s> 2.
+<s>prIRayitum, piprIRayizitum, pretum, piprIzitum, peprIyitum</s>;
+<s>prIRanA, piprIRayizA, prItiH, piprIzA, peprIyA</s>;
+<s>prIRanam, piprIRayizaRam, prayaRam, piprIzaRam, peprIyaRam</s>;
+<s>prIRayitvA, piprIRayizitvA, prItvA, piprIzitvA, peprIyitvA</s>;
+<s>viprIRya, vipiprIRayizya, viprIya, vipiprIzya, vipeprIyya</s>;
+<note n="1"/><s>prIRam</s> 2, <s>prIRayitvA</s> 2, <s>piprIRayizam</s> 2, <s>piprIRayizitvA</s> 2, <s>prAyam</s> 2, <s>prItvA</s> 2, <s>piprIzam</s> 2, <s>piprIzitvA</s> 2, <s>peprIyam</s> 2<s>; peprIyitvA</s> 2.
 <F>3. <s>‘DUYprIYornug vaktavyaH’ (vA</s>. 7-3-37) <s>iti Ryante sarvatra nugAgamo Bavati .</s>
-<div n="lb"><s>etaccAviSezeRa Ryante sarvatreti matena liKitam .</s></F>
+<s>etaccAviSezeRa Ryante sarvatreti matena liKitam .</s></F>
 <F>4. <s>‘DUYprIYoH—’ (vA</s>. 7-3-37) <s>iti nugAgamaH ‘DUY’ sAhacaryeRa krEyAdikasya</s>
-<div n="lb"><s>prIRAterRAveveti, haradattAdimate tu nugaBAvAt vfdDO, AyAdeSe ca rUpamevam .</s>
-<div n="lb"><s>evameva tfjAdizvapi prAyayitA-trI ityAdIni rUpARi yaTAyaTamUhyAni .</s></F>
+<s>prIRAterRAveveti, haradattAdimate tu nugaBAvAt vfdDO, AyAdeSe ca rUpamevam .</s>
+<s>evameva tfjAdizvapi prAyayitA-trI ityAdIni rUpARi yaTAyaTamUhyAni .</s></F>
 <F>5. <s>curAdiprIYo'pi nugAgamavAdinAM pakze RyantAt sani rUpamevam . haradattAdimate</s>
-<div n="lb"><s>tu piprAyayizakaH ityAdIni rUpARIti ca jYeyam .</s></F>
+<s>tu piprAyayizakaH ityAdIni rUpARIti ca jYeyam .</s></F>
 <F>6. <s>‘ADfzAd vA’ (ga</s>. <s>sU</s>. <s>curAdO) iti vacanena Rico vEkalpikatvAt, RijaBAvapakze</s>
-<div n="lb"><s>SudDAdrUpamevam .</s></F>
+<s>SudDAdrUpamevam .</s></F>
 <F>7. <s>RijaBAvapakze sani, ‘ekAca upadeSe—’</s> (7-2-10) <s>itIRnizeDe, sanaH kittve, dIrGe</s>
-<div n="lb"><s>ca rUpam . DAtorasya curAdipaWitasya sewtve'pi RijaBAvapakze BvAdipAWe'niwtvaM</s>
-<div n="lb"><s>SAstravaSAditi jYeyam .</s></F>
+<s>ca rUpam . DAtorasya curAdipaWitasya sewtve'pi RijaBAvapakze BvAdipAWe'niwtvaM</s>
+<s>SAstravaSAditi jYeyam .</s></F>
 <F>8. <s>RijaBAvapakze SudDAt yaNante rUpamevamiti jYeyam .</s></F>
 <F>9. <s>RijaBAvapakze SudDAt, ‘SezAt katari—’</s> (1-3-78) <s>iti SatEva .</s></F>
 <F>A. <s>‘… svEraM tatra janAn prayan vigalitaSranTAn kacAn granTayan .’ DA</s>. <s>kA</s>. 3. 51.</F>
 <F>1. <s>‘erac’</s> (3-3-56) <s>iti BAve GaYapavAdo'ppratyayaH . ‘erajaRyantAnAm’ iti</s>
-<div n="lb"><s>mataM tu BAzyA sammatatvAdaprAmARikam . spazwamidaM kEyawe</s> (3-2-1) <s>.</s></F>
+<s>mataM tu BAzyA sammatatvAdaprAmARikam . spazwamidaM kEyawe</s> (3-2-1) <s>.</s></F>
 <LEND>

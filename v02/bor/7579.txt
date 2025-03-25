@@ -1,5 +1,5 @@
 <L>7579<pc>239<k1>enervation<k2>enervation
-<div n="lb"/>{@ENERVATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#durbalIkaraRam;#}</div>
-<div n="lb"/><div n="1">(2) {#vIryakzayaH.#} </div><div n="I">II The state: </div><div n="1">(1) {#hatavIryatA;#}</div>
-<div n="lb"/><div n="1">(2) {#nirvIryatA;#} </div><div n="1">(3) {#klEvyam.#}</div>
+{@ENERVATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#durbalIkaraRam;#}</div>
+<div n="1">(2) {#vIryakzayaH.#} </div><div n="I">II The state: </div><div n="1">(1) {#hatavIryatA;#}</div>
+<div n="1">(2) {#nirvIryatA;#} </div><div n="1">(3) {#klEvyam.#}</div>
 <LEND>

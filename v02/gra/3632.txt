@@ -1,7 +1,7 @@
 <L>3632<pc>0514<k1>tadokas<k2>ta/d-okas
-{@tád-okas,@}¦ a., {%daran Behagen%} [ókas] {%findend.%}
-<div n="P1">-ās (índras) {545,1}.
-<div n="P1">-ase vṛ́ṣṇe (índrāya) {269,7}.
-<div n="P1">-asā [d.] (índrā bṛ́haspátī) <lbinfo n="6"/> {345,6}.
-<div n="P1">-asas [<ab>N.</ab>] índavas {15,1}.
+{@tád-okas,@}¦ <ab>a.</ab>, {%daran Behagen%} [ókas] {%findend%}.
+<div n="TS">-ās (índras) {545,1}.
+<div n="TS">-ase vṛ́ṣṇe (índrāya) {269,7}.
+<div n="TS">-asā [<ab>d.</ab>] (índrā bṛ́haspátī) {345,6}.
+<div n="TS">-asas [<ab>N.</ab>] índavas {15,1}.
 <LEND>

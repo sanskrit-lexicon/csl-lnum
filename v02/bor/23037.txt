@@ -1,5 +1,5 @@
 <L>23037<pc>725<k1>twinkle<k2>twinkle
-<div n="lb"/>{@TWINKLE,@}¦ {@TWINKLING@} (subs.): <div n="I">I Of the eye:
-<div n="lb"/>{#nimezaH,#} <div n="xe">{%in the t. of an eye:%}</div> <div n="xs">{#nimezamAtrAt#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-mAtreRa.#}</div></div>
-<div n="lb"/><div n="I">II Sparkling: {#sPuritam.#}</div>
+{@TWINKLE,@}¦ {@TWINKLING@} (subs.): <div n="I">I Of the eye:
+{#nimezaH,#} <div n="xe">{%in the t. of an eye:%}</div> <div n="xs">{#nimezamAtrAt#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-mAtreRa.#}</div></div>
+<div n="I">II Sparkling: {#sPuritam.#}</div>
 <LEND>

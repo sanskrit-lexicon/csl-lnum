@@ -1,4 +1,4 @@
 <L>1935<pc>067<k1>benumb<k2>benumb
-<div n="lb"/>{@BENUMB:@}¦ <div n="1">(1) {#jaqIkaroti#} <div n="xe">{%or%}</div> <div n="xs">{#jaqayati#}</div> (nomi.);</div>
-<div n="lb"/><div n="1">(2) {#staBnAti#} ({#stamB,#} c. 9.).</div>
+{@BENUMB:@}¦ <div n="1">(1) {#jaqIkaroti#} <div n="xe">{%or%}</div> <div n="xs">{#jaqayati#}</div> (nomi.);</div>
+<div n="1">(2) {#staBnAti#} ({#stamB,#} c. 9.).</div>
 <LEND>

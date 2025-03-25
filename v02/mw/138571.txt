@@ -1,4 +1,4 @@
-<L>138571<pc>700,3<k1>prahA<k2>pra-hA<h>a<e>1
-<hom>a.</hom> <s>pra-</s>√ <hom>2.</hom> <s>hA</s> ¦ <ab>Ā.</ab>, <s>-jihIte</s>, to drive off, haste away, <ls>RV.</ls>;
-<div n="to"/>to spring up, <ls>ŚBr.</ls><info verb="pre" cp="Ā" parse="pra+hA"/>
+<L>138571<pc>700,3<k1>prahA<k2>pra-hA<e>1
+ <s>pra-</s>√ <hom>2.</hom> <s>hA</s> ¦ <ab>Ā.</ab>, <s>-jihIte</s>, to drive off, haste away, <ls>RV.</ls>;
+<div n="to"/>to spring up, <ls>ŚBr.</ls><info verb="pre" cp="Ā" parse="pra+hA"/><info hui="a"/>
 <LEND>

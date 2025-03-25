@@ -1,22 +1,19 @@
 <L>6868<pc>301-a<k1>lih<k2>lih
 {#lih#}¦ 2. {%P. A.%} lingere, lambere ({#leQi, lIQe#} v. gr. 102.).
-<div n="lb">HIT. 28. 13.: {#asTi nirdaSanaH Sve 'va jihvayA le-#}
-<div n="lb">{#Qi#}. -- {%Intens.%} {#lelih, lelihya#}. MAH. 3. 10394.: {#leli-#}
-<div n="lb">{#hajjihvayA;#} A. 10. 43.: {#lelihAnEr mahAnAgEH;#} BH. 11.
-<div n="lb">30.: {#lelihyase…lokAn samagrAn vadanEr jvala-#}
-<div n="lb">{#dBiH#}. -- In dial. Vêd. {#rih#} pro {#lih,#} RIGV. 22. 14.: {#payo#}
-<div n="lb">{#viprA rihanti#}. (Cf. gr. AIX, <lang n="greek"></lang>
-<div n="lb"><lang n="greek"></lang> hib. {%lighim, im-lighim%} «I lick»; lat. {%lingo;%} goth.
-<div n="lb">{%laigô%} lingo = Caus. {#lehayAmi,#} v. gr. comp. 109^{%a%}). 6.;
-<div n="lb">lith. {%lai%}<lang n="greek"></lang>{%au%} lingo, {%liē4%}<lang n="greek"></lang>{%uwis%} lingua; slav. {%ob-li%}<lang n="greek"></lang>{%-a-ti%} lin-
-<div n="lb">gere.)
-<div n="pfx">c. {#ava#} {%i. q. simpl.%} DR. 6. 21.: {#purA somo 'Dvarago 'vali-#}
-<div n="lb">{#hyate SunA;#} MAH. 1. 667.
-<div n="pfx">c. {#A#} {%id.%} RAGH. 2. 37.: {#senAnyam AlIQam ivA 'surA-#}
-<div n="lb">{#strEH#}.
-<div n="pfx">c. {#pari#} circumlambere, {%part. pass.%} {#parilIQa#}. R. Schl. II.
-<div n="lb">61. 16.
-<div n="pfx">c. {#sam#} {%i. q. simpl.%} MAH. 3. 10653.
-<div n="pfx">c. {#sam#} praef. {#pari#} circumlambere. MAH. 3. 11500.: {#BImaH#}
-<div n="lb">{#sfkkaRI parisaMlihan#}.
+HIT. 28.13.: {#asTi nirdaSanaH Sve 'va jihvayA leQi#}.
+— {%Intens.%} {#lelih, lelihya#}. MAH. 3.10394.: {#lelihajjihvayA#};
+A. 10.43.: {#lelihAnEr mahAnAgEH#}; BH. 11.30.:
+{#lelihyase…lokAn samagrAn vadanEr jvaladBiH#}.
+— In dial. Vêd. {#rih#} pro {#lih#}, RIGV. 22.14.: {#payo
+viprA rihanti#}. (Cf. gr. <lang n="greek">ΛΙΧ, λείχω, λίχνος, λιχανός</lang>;
+hib. {%lighim, im-lighim%} «I lick»; lat. {%lingo%}; goth.
+{%laigô%} lingo = Caus. {#lehayAmi#}, v. gr. comp. 109^{%a%}).6.;
+lith. {%laiźau%} lingo, {%liếźuwis%} lingua; slav. {%ob-liζ-a-ti%} lingere.)
+<div n="pfx">c. {#ava#} {%i. q. simpl.%} DR. 6.21.: {#purA somo 'Dvarago 'valihyate
+SunA#}; MAH. 1.667.
+<div n="pfx">c. {#A#} {%id.%} RAGH. 2.37.: {#senAnyam AlIQam ivA 'surAstrEH#}.
+<div n="pfx">c. {#pari#} circumlambere, {%part. pass.%} {#parilIQa#}. R. Schl. II.61.16.
+<div n="pfx">c. {#sam#} {%i. q. simpl.%} MAH. 3.10653.
+<div n="pfx">c. {#sam#} praef. {#pari#} circumlambere. MAH. 3.11500.: {#BImaH
+sfkkaRI parisaMlihan#}.
 <LEND>

@@ -1,21 +1,21 @@
 <L>104303<pc>7-0607<k1>sadAcAra<k2>sadAcAra<h>1
-1. {#sadAcAra#}¦ ({#sant + A°#}) <lex>m.</lex> {%die Sitte der Guten, ein guter Wandel%} 
-<ls>M. 2, 12. 18. 4, 155.</ls> 
-<ls>YĀJÑ. 1, 7.</ls> 
-<ls>RAGH. 14, 37.</ls> 
-<ls>Spr. (II) 2452.</ls> {#°vivarjana#} 
-<ls>3040.</ls> <ls>RĀJA-TAR. 3, 47. 4, 28. 73.</ls> <ls>VP. 3, 11, 1. fgg.</ls> <ls>MĀRK. P. 34, 5. fgg.</ls> <ls>BHĀG. P. 6, 1, 21</ls> ({#nazwa°#} adj.). 
-<ls>PRAB. 35, 10.</ls> <ls>MUIR, ST. 4, 44, 4.</ls> <ls>Verz. d. B. H. 128</ls>, {%b%} 
-<ls>(17). 130</ls>, {%b%} 
-<ls>?(25). Verz. d. Oxf. H. 13</ls>, {%a%}, 
-<ls>26. 16</ls>, {%b%}, 
-<ls>No. 60. 35</ls>, {%b%}, 
-<ls>32. 45</ls>, {%a%}, 2. 123, {%a%}, 41. {#°vartin#} 
-<ls>PAÑCAT. 40, 20.</ls> {#°krama#} <lex>m.</lex> Titel einer Schrift 
-<ls>Ind. St. 1, 467.</ls> {#°candrodaya#} <lex>m.</lex> desgl. 
-<ls>Verz. d. Oxf. H. 274</ls>, {%a%}, 
-<ls>No. 649.</ls> {#°prakaraRa#} desgl. 
-<ls>HALL 142.</ls> {#°saMgraha#} <lex>m.</lex> desgl. 
-<ls>Notices of Skt. Mss. 103.</ls> {#°smftivyAKyA#} <lex>f.</lex> desgl. 
-<ls>MACK. Coll. 1, 25.</ls> Vgl. {#bahu°#} .
+1. {#sadAcAra#}¦ ({#sant + A°#}) <lex>m.</lex> {%die Sitte der Guten, ein guter Wandel%}
+<ls>M. 2,12.</ls> <ls n="M. 2,">18.</ls> <ls n="M.">4,155.</ls>
+<ls>YĀJÑ. 1,7.</ls>
+<ls>RAGH. 14,37.</ls>
+<ls>Spr. (II) 2452.</ls> {#°vivarjana#}
+<ls n="Spr. (II)">3040.</ls> <ls>RĀJA-TAR. 3,47. 4,28. 73.</ls> <ls>VP. 3,11,1. fgg.</ls> <ls>MĀRK. P. 34,5. fgg.</ls> <ls>BHĀG. P. 6,1,21</ls> ({#nazwa°#} adj.).
+<ls>PRAB. 35,10.</ls> <ls>MUIR, ST. 4,44,4.</ls>
+<ls>Verz. d. B. H. 128,b (17).</ls> <ls n="Verz. d. B. H.">130,b (25).</ls>
+<ls>Verz. d. Oxf. H. 13,a,26.</ls>
+<ls n="Verz. d. Oxf. H.">16,b,No. 60.</ls>
+<ls n="Verz. d. Oxf. H.">35,b,32.</ls>
+<ls n="Verz. d. Oxf. H.">45,a,2.</ls> <ls n="Verz. d. Oxf. H.">123,a,41.</ls> {#°vartin#}
+<ls>PAÑCAT. 40,20.</ls> {#°krama#} <lex>m.</lex> Titel einer Schrift
+<ls>Ind. St. 1,467.</ls> {#°candrodaya#} <lex>m.</lex> desgl.
+<ls>Verz. d. Oxf. H. 274,a,No. 649.</ls>
+{#°prakaraRa#} desgl.
+<ls>HALL 142.</ls> {#°saMgraha#} <lex>m.</lex> desgl.
+<ls>Notices of Skt. Mss. 103.</ls> {#°smftivyAKyA#} <lex>f.</lex> desgl.
+<ls>MACK. Coll. 1,25.</ls> Vgl. {#bahu°#} .
 <LEND>

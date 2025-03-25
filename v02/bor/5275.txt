@@ -1,5 +1,5 @@
 <L>5275<pc>169<k1>current<k2>current
-<div n="lb"/>{@CURRENT@}¦ (adj.): <div n="1">(1) {#pracalitaH#} ({#tA, taM#}); </div><div n="1">(2)
-<div n="lb"/>{#pracalaH#} ({#lA, laM#}). Ph.: <div n="xe">{%c. year:%}</div> <div n="xs">{#vartamAnavatsaraH;#}</div>
-<div n="lb"/><div n="xe">{%c. report:%}</div> <div n="xs">{#janapravAdaH.#}</div></div>
+{@CURRENT@}¦ (adj.): <div n="1">(1) {#pracalitaH#} ({#tA, taM#}); </div><div n="1">(2)
+{#pracalaH#} ({#lA, laM#}). Ph.: <div n="xe">{%c. year:%}</div> <div n="xs">{#vartamAnavatsaraH;#}</div>
+<div n="xe">{%c. report:%}</div> <div n="xs">{#janapravAdaH.#}</div></div>
 <LEND>

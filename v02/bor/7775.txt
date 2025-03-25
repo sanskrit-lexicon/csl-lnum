@@ -1,4 +1,4 @@
 <L>7775<pc>246<k1>equinox<k2>equinox
-<div n="lb"/>{@EQUINOX:@}¦ <div n="1">(1) {#vizuvam;#} </div><div n="1">(2) {#vizuvat#} (n.). <div n="xe">{%Vernal%}
-<div n="lb"/>{%e.:%}</div> <div n="xs">{#mahAvizuvam,#}</div> <div n="xe">{%Autumnal e.:%}</div> <div n="xs">{#jalavizuvam.#}</div></div>
+{@EQUINOX:@}¦ <div n="1">(1) {#vizuvam;#} </div><div n="1">(2) {#vizuvat#} (n.). <div n="xe">{%Vernal%}
+{%e.:%}</div> <div n="xs">{#mahAvizuvam,#}</div> <div n="xe">{%Autumnal e.:%}</div> <div n="xs">{#jalavizuvam.#}</div></div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>10398<pc>248-b<k1>expenditure<k2>expenditure
-<div n="lb"/>EXPENDITURE¦, EXPENSE, {%s.%} {#vyayaH, DanavyayaH, apavyayaH, vyayIkaraRaM, apacayaH,#}
-<div n="lb"/>{#apacitiH#} {%f.,%} {#visargaH, utsargaH -rjjanaM, tyAgaH, parityAgaH, arTotsargaH,#}
-<div n="lb"/>{#arTatyAgaH, kzayaH, upakzayaH, saMkzayaH, avakzayaH, mokzaRaM, kzepaH, viniyogaH,#}
-<div n="lb"/>{#apahAraH, nyayaH;#} ‘income and expenditure,’ {#AyavyayO#}.
+EXPENDITURE¦, EXPENSE, {%s.%} {#vyayaH, DanavyayaH, apavyayaH, vyayIkaraRaM, apacayaH,#}
+{#apacitiH#} {%f.,%} {#visargaH, utsargaH -rjjanaM, tyAgaH, parityAgaH, arTotsargaH,#}
+{#arTatyAgaH, kzayaH, upakzayaH, saMkzayaH, avakzayaH, mokzaRaM, kzepaH, viniyogaH,#}
+{#apahAraH, nyayaH;#} ‘income and expenditure,’ {#AyavyayO#}.
 <LEND>

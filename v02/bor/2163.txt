@@ -1,6 +1,6 @@
 <L>2163<pc>075<k1>bleeding<k2>bleeding
-<div n="lb"/>{@BLEEDING@}¦ (subs.): <div n="I">I Letting of blood; </div><div n="1">(1)
-<div n="lb"/>{#raktasrAvaH, -RaM;#} </div><div n="1">(2) {#raktamokzaRam;#} </div><div n="1">(3) {#raktAvasecanam,#}
-<div n="lb"/>etc. </div><div n="I">II Flowing of blood: </div><div n="1">(1) {#raktasru tiH;#}</div>
-<div n="lb"/><div n="1">(2) {#raktacyutiH;#} </div><div n="1">(3) {#raktakzaraRam#} etc.</div>
+{@BLEEDING@}¦ (subs.): <div n="I">I Letting of blood; </div><div n="1">(1)
+{#raktasrAvaH, -RaM;#} </div><div n="1">(2) {#raktamokzaRam;#} </div><div n="1">(3) {#raktAvasecanam,#}
+etc. </div><div n="I">II Flowing of blood: </div><div n="1">(1) {#raktasru tiH;#}</div>
+<div n="1">(2) {#raktacyutiH;#} </div><div n="1">(3) {#raktakzaraRam#} etc.</div>
 <LEND>

@@ -1,76 +1,76 @@
 <L>43539<pc>4-0579<k1>paryAya<k2>paryAya/
-{#paryAya/#}¦ (von 3. {#i#} mit {#pari#}) <lex>m.</lex> 
-<ls>P. 3, 3, 38. 6, 2, 144.</ls> 
-<div n="1"> 1) {%Umgang, Umlauf%} 
-<ls>KĀTY. ŚR. 13, 3, 19.</ls> {%Umdrehung, Windung%}: {#jAlaM triparyAyam#} 
-<ls>7, 4, 7.</ls> 
-<div n="1">— 2) {%Ablauf%} (der Zeit). = {#paryaya#} 
-<ls>COLEBR.</ls> und <ls>LOIS.</ls> zu <ls>AK. 3, 3, 33.</ls> {#samayujyata dehasya kAlaparyAyaDarmaRA#} (vgl. {#kAlaDarma#}) 
-<ls>MBH. 3, 15974.</ls> {#aho kAlo mahAvIryo yena paryAyakarmaRA . kAlatulyaH sapatnAnAM tvaM kzipramapanIyase ..#} 
-<ls>HARIV. 4791.</ls> {#kAlaparyAyeRa (°paryayeRa?)#} {%nach Verlauf einiger Zeit%} 
-<ls>VET.</ls> in <ls>LA. 21, 18.</ls> {#paryAyasyAdya saMprAptaM PalaM paSya sudAruRam#} {%des Wechsels%}
+{#paryAya/#}¦ (von 3. {#i#} mit {#pari#}) <lex>m.</lex>
+<ls>P. 3,3,38.</ls> <ls n="P.">6,2,144.</ls>
+<div n="1"> 1) {%Umgang, Umlauf%}
+<ls>KĀTY. ŚR. 13,3,19.</ls> {%Umdrehung, Windung%}: {#jAlaM triparyAyam#}
+<ls n="KĀTY. ŚR.">7,4,7.</ls>
+<div n="1">— 2) {%Ablauf%} (der Zeit). = {#paryaya#}
+<ls>COLEBR.</ls> und <ls>LOIS.</ls> zu <ls>AK. 3,3,33.</ls> {#samayujyata dehasya kAlaparyAyaDarmaRA#} (vgl. {#kAlaDarma#})
+<ls>MBH. 3,15974.</ls> {#aho kAlo mahAvIryo yena paryAyakarmaRA . kAlatulyaH sapatnAnAM tvaM kzipramapanIyase ..#}
+<ls>HARIV. 4791.</ls> {#kAlaparyAyeRa (°paryayeRa?)#} {%nach Verlauf einiger Zeit%}
+<ls>VET. in LA. 21,18.</ls> {#paryAyasyAdya saMprAptaM PalaM paSya sudAruRam#} {%des Wechsels%}
 [Page4-0580]
-{%der Zeiten%} 
-<ls>MBH. 6, 3745.</ls> 
-<div n="1">— 3) {%regelmässige Wiederkehr, Wiederholung%} 
-<ls>SUŚR. 2, 235, 14.</ls> {#tatsattre paryAyeRa kuryuH#} 
-<ls>LĀṬY. 5, 12, 6.</ls> {#aBizavastriparyAyaH#} 
-<ls>KĀTY. ŚR. 9, 5, 2. 10, 1, 4. 3, 14.</ls> {#sTitaM pUrvaM jalaM yatra punastatrEva gacCati . iti paryAyamicCantI pratIkza udayaM punaH ..#} 
-<ls>MBH. 4, 612.</ls> {#so 'haM paryAyavAkyena parvatAnsamupasTitaH#} so v. a. {%mit denselben Worten%} 
-<ls>HARIV. 9647.</ls> {#tasya vAkyasya paryAyam#} 
-<ls>9652.</ls> {#caturTe paryAye#} {%beim vierten Mal%} 
-<ls>ŚAṂK.</ls> bei <ls>WIND. Sancara 114.</ls> 
-<div n="1">— 4) {%Aufeinanderfolge, Reihenfolge%} 
-<ls>AK. 2, 7, 36. 3, 4, 21, 149.</ls> 
-<ls>H. 1503.</ls> 
-<ls>an. 3, 494.</ls> 
-<ls>MED. y. 88.</ls> <ls>HALĀY. 4, 54.</ls> <ls>MBH. 5, 3089.</ls> {#lokaparyAyavfttAntaM prAjYo jAnAti netaraH#} 
-<ls>Spr. 1424.</ls> {#yayO ca tatpravahaRaM kzaRamUrDvamaDaH kzaRam . ucCrAyapAtaparyAyaM DaninAM darSayanniva ..#} 
-<ls>KATHĀS. 25, 44.</ls> {#aTa paryAyaSaH sarvAnvAhanAyopacakrame . paryAyaScApyagastyasya samapadyata#} {%die Reihe kam an%} 
-<ls>MBH. 13, 4755.</ls> 
-<ls>P. 3, 3, 38,</ls> 
-<ls>Sch.</ls> {#pitfparyAyAgataM vanam#} 
-<ls>PAÑCAT. 21, 5. 247, 4.</ls> {#paryAyeRa#} {%der Reihe nach, abwechselnd%} (Gegens. {#yugapad#} {%auf ein Mal, zugleich%}) 
-<ls>M. 4, 87.</ls> 
-<ls>MBH. 13, 2201.</ls> 
-<ls>HARIV. 10828.</ls> 
-<ls>SŪRYAS. 13, 25.</ls> 
-<ls>P. 7, 3, 31. Schol.</ls> zu <ls>P. 2, 3, 9.</ls> <ls>RĀJA-TAR. 5, 284.</ls> {#yugapaditi paryAyanivfttyarTam#} 
-<ls>Schol.</ls> zu <ls>P. 6, 1, 200.</ls> {#eza paryAyavAso me vasUnAM saMniDO kftaH#} 
-<ls>MBH. 1, 3919.</ls> {#°sevA#} 
-<ls>KUMĀRAS. 2, 36.</ls> {#upaSAyo viSAyaSca paryAyaSayanArTakO#} 
-<ls>AK. 3, 3, 32.</ls> {#paryAyAliNgita#} 
-<ls>KATHĀS. 42, 149.</ls> 
-<ls>PRAB. 21, 6.</ls> 
-<div n="1">— 5) {%eine regelmässig wiederkehrende Reihe, Wendung, Satz%} (in Formeln, liturgischen Handlungen u. s. w.); im Ritual besonders {%die drei Umläufe der nächtlichen Cerimonien mit den%} <is>Soma</is>-{%Schalen im%} <is>Atirātra</is> 
-<ls>AIT. BR. 3, 41. 4, 5.</ls> 
-<ls>PAÑCAV. BR. 9, 1, 4. 3, 3.</ls> 
-<ls>ŚĀṄKH. BR. 17, 4. 8.</ls> {#rAtri°#} 
-<ls>ŚR. 6, 13, 5. 9, 19, 4.</ls> <ls>KĀTY. ŚR. 20, 8, 14.</ls> <ls>LĀṬY. 2, 7, 5. 3, 4, 7.</ls> {#(stomAH) catuzparyAyAH#} 
-<ls>6, 8, 1. fgg. 5, 1. 4, 4, 1.</ls> {#trayaH paryAyAScamasEScatustotraH paryAyaH#} 
-<ls>KĀTY. ŚR. 12, 6, 4.</ls> 
-<ls>ĀŚV. ŚR. 5, 9. 10. 6, 4. 6.</ls> {%Strophe, Satz%} (eines Liedes u. s. w.); daher {#°sUkta#}, wie die Stücke im 
-<ls>AV. 8, 10. 9, 6. 11, 3. 12, 5. 15, 1 u.s.w.</ls> heissen 
-<ls>AV. ANUKR.</ls> {#bahuBiH paryAyErupetA kAcidAKyocyate tatra praTamaM paryAyaM darSayati#} 
-<ls>SĀY.</ls> zu <ls>AIT. BR. 2, 8.</ls> 
-<div n="1">— 6) {%Wechselbegriff, Synonym%} 
-<ls>VIJAYARAKṢITA</ls> im <ls>ŚKDR.</ls> <ls>SUŚR. 1, 10, 9.</ls> {#paryAyo maraRasyAyaM nirDanatvaM SarIriRAm#} 
-<ls>PAÑCAT. II, 107.</ls> <ls>AK. 3, 4, 1. 3, 6, 2, 11. 16.</ls> <ls>H. 10. 18. 961.</ls> <ls>Schol.</ls> zu <ls>P. 2, 2, 16. 3, 73. 3, 2, 112. 7, 3, 18.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 4, 4, 35.</ls> <ls>SĀH.</ls> <ls>D. 23, 14.</ls> 
-<div n="1">— 7) {%eine best. rhetorische Figur%} 
-<ls>SĀH. D. 733.</ls> 
-<ls>PRATĀPAR. 102,a.</ls> 
-<div n="1">— 8) {%Art und Weise%} ({#prakAra#}) 
-<ls>TRIK. 3, 3, 315.</ls> 
-<ls>MED.</ls> {#anena paryAyeRa#} {%auf diese Weise%} 
-<ls>SADDH. P.4,22,a. 23,b.</ls> 
-<div n="1">— 9) = {#avasara#} {%Gelegenheit, ein günstiger Augenblick%} 
-<ls>AK. 3, 4, 24, 149.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<div n="1">— 10) = {#nirmARa#} {%Bildung, Schöpfung.%} 
-<div n="1">— 11) = {#dravyaDarma#} {%der Dinge Eigenschaften%} 
-<ls>H. an.</ls> 
-<div n="1">— 12) = {#saMparkaviSezaH . yena saha yatsaMparkaH saMbanDastena saha tatparyAyaH . yaTA . samAnaM kulaBAvaM ca dAnAdAnaM taTEva ca . tayorvaMSasamAnaM hi paryAyaM ca pracakzate .. iti kuladIpikA ..#} 
-<ls>ŚKDR.</ls> 
+{%der Zeiten%}
+<ls>MBH. 6,3745.</ls>
+<div n="1">— 3) {%regelmässige Wiederkehr, Wiederholung%}
+<ls>SUŚR. 2,235,14.</ls> {#tatsattre paryAyeRa kuryuH#}
+<ls>LĀṬY. 5,12,6.</ls> {#aBizavastriparyAyaH#}
+<ls>KĀTY. ŚR. 9,5,2. 10,1,4. 3,14.</ls> {#sTitaM pUrvaM jalaM yatra punastatrEva gacCati . iti paryAyamicCantI pratIkza udayaM punaH ..#}
+<ls>MBH. 4,612.</ls> {#so 'haM paryAyavAkyena parvatAnsamupasTitaH#} so v. a. {%mit denselben Worten%}
+<ls>HARIV. 9647.</ls> {#tasya vAkyasya paryAyam#}
+<ls n="HARIV.">9652.</ls> {#caturTe paryAye#} {%beim vierten Mal%}
+<ls>ŚAṂK.</ls> bei <ls>WIND. Sancara 114.</ls>
+<div n="1">— 4) {%Aufeinanderfolge, Reihenfolge%}
+<ls>AK. 2,7,36.</ls> <ls n="AK.">3,4,21,149.</ls>
+<ls>H. 1503.</ls>
+<ls>an. 3,494.</ls>
+<ls>MED. y. 88.</ls> <ls>HALĀY. 4,54.</ls> <ls>MBH. 5,3089.</ls> {#lokaparyAyavfttAntaM prAjYo jAnAti netaraH#}
+<ls>Spr. 1424.</ls> {#yayO ca tatpravahaRaM kzaRamUrDvamaDaH kzaRam . ucCrAyapAtaparyAyaM DaninAM darSayanniva ..#}
+<ls>KATHĀS. 25,44.</ls> {#aTa paryAyaSaH sarvAnvAhanAyopacakrame . paryAyaScApyagastyasya samapadyata#} {%die Reihe kam an%}
+<ls>MBH. 13,4755.</ls>
+<ls>P. 3,3,38</ls>, <ls>Sch.</ls>
+{#pitfparyAyAgataM vanam#}
+<ls>PAÑCAT. 21,5.</ls> <ls n="PAÑCAT.">247,4.</ls> {#paryAyeRa#} {%der Reihe nach, abwechselnd%} (Gegens. {#yugapad#} {%auf ein Mal, zugleich%})
+<ls>M. 4,87.</ls>
+<ls>MBH. 13,2201.</ls>
+<ls>HARIV. 10828.</ls>
+<ls>SŪRYAS. 13,25.</ls>
+<ls>P. 7,3,31.</ls> Schol. zu <ls>P. 2,3,9.</ls> <ls>RĀJA-TAR. 5,284.</ls> {#yugapaditi paryAyanivfttyarTam#}
+<ls>Schol.</ls> zu <ls>P. 6,1,200.</ls> {#eza paryAyavAso me vasUnAM saMniDO kftaH#}
+<ls>MBH. 1,3919.</ls> {#°sevA#}
+<ls>KUMĀRAS. 2,36.</ls> {#upaSAyo viSAyaSca paryAyaSayanArTakO#}
+<ls>AK. 3,3,32.</ls> {#paryAyAliNgita#}
+<ls>KATHĀS. 42,149.</ls>
+<ls>PRAB. 21,6.</ls>
+<div n="1">— 5) {%eine regelmässig wiederkehrende Reihe, Wendung, Satz%} (in Formeln, liturgischen Handlungen u. s. w.); im Ritual besonders {%die drei Umläufe der nächtlichen Cerimonien mit den%} <is>Soma</is>-{%Schalen im%} <is>Atirātra</is>
+<ls>AIT. BR. 3,41.</ls> <ls n="AIT. BR.">4,5.</ls>
+<ls>PAÑCAV. BR. 9,1,4. 3,3.</ls>
+<ls>ŚĀṄKH. BR. 17,4. 8.</ls> {#rAtri°#}
+<ls>ŚR. 6,13,5. 9,19,4.</ls> <ls>KĀTY. ŚR. 20,8,14.</ls> <ls>LĀṬY. 2,7,5. 3,4,7.</ls> {#(stomAH) catuzparyAyAH#}
+<ls n="LĀṬY.">6,8,1. fgg. 5,1. 4,4,1.</ls> {#trayaH paryAyAScamasEScatustotraH paryAyaH#}
+<ls>KĀTY. ŚR. 12,6,4.</ls>
+<ls>ĀŚV. ŚR. 5,9. 10. 6,4. 6.</ls> {%Strophe, Satz%} (eines Liedes u. s. w.); daher {#°sUkta#}, wie die Stücke im
+<ls>AV. 8,10.</ls> <ls n="AV.">9,6.</ls> <ls n="AV.">11,3.</ls> <ls n="AV.">12,5.</ls> <ls n="AV.">15,1</ls> u.s.w. heissen
+<ls>AV. ANUKR.</ls> {#bahuBiH paryAyErupetA kAcidAKyocyate tatra praTamaM paryAyaM darSayati#}
+<ls>SĀY.</ls> zu <ls>AIT. BR. 2,8.</ls>
+<div n="1">— 6) {%Wechselbegriff, Synonym%}
+<ls>VIJAYARAKṢITA</ls> im <ls>ŚKDR.</ls> <ls>SUŚR. 1,10,9.</ls> {#paryAyo maraRasyAyaM nirDanatvaM SarIriRAm#}
+<ls>PAÑCAT. II,107.</ls> <ls>AK. 3,4,1.</ls> <ls n="AK.">3,6,2,11.</ls> <ls n="AK. 3,6,2,">16.</ls> <ls>H. 10.</ls> <ls n="H.">18.</ls> <ls n="H.">961.</ls> <ls>Schol.</ls> zu <ls>P. 2,2,16.</ls> <ls n="P. 2,">3,73.</ls> <ls n="P.">3,2,112.</ls> <ls n="P.">7,3,18.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 4,4,35.</ls> <ls>SĀH.</ls> <ls>D. 23,14.</ls>
+<div n="1">— 7) {%eine best. rhetorische Figur%}
+<ls>SĀH. D. 733.</ls>
+<ls>PRATĀPAR. 102,a.</ls>
+<div n="1">— 8) {%Art und Weise%} ({#prakAra#})
+<ls>TRIK. 3,3,315.</ls>
+<ls>MED.</ls> {#anena paryAyeRa#} {%auf diese Weise%}
+<ls>SADDH. P. 4,22,a. 23,b.</ls>
+<div n="1">— 9) = {#avasara#} {%Gelegenheit, ein günstiger Augenblick%}
+<ls>AK. 3,4,24,149.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<div n="1">— 10) = {#nirmARa#} {%Bildung, Schöpfung.%}
+<div n="1">— 11) = {#dravyaDarma#} {%der Dinge Eigenschaften%}
+<ls>H. an.</ls>
+<div n="1">— 12) = {#saMparkaviSezaH . yena saha yatsaMparkaH saMbanDastena saha tatparyAyaH . yaTA . samAnaM kulaBAvaM ca dAnAdAnaM taTEva ca . tayorvaMSasamAnaM hi paryAyaM ca pracakzate .. iti kuladIpikA ..#}
+<ls>ŚKDR.</ls>
 <div n="v">— Vgl. {#vAta°#} .
 <LEND>

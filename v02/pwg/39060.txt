@@ -1,35 +1,35 @@
 <L>39060<pc>4-0165<k1>nimeza<k2>nimeza/
-{#nimeza/#}¦ (von {#miz#} mit {#ni#}) <lex>m.</lex> 
-<div n="1"> 1) {%das Blinzeln, Schliessen des Auges%} (Gegens. {#unmeza#}) 
-<ls>H. 578.</ls> 
-<ls>an. 3, 737.</ls> 
-<ls>MED. ṣ. 39.</ls> <ls>VS. 23, 8.</ls> {#sarve^ nime\zA ja^jYire vi\dyuta\H puru^zA\daDi^#} 
-<ls>?32, 2. TBR. 2, 1, 5, 9. TS. 7, 5, 25, 1. YĀJÑ. 3, 175. N. 5, 24. MBH. 14, 1237. SUŚR. 1, 312, 16. RAGH. 2, 19. ŚĀK. 37, 4. BHĀG. P. 3, 11, 37. 9, 13, 11. neutr.</ls> : {#yAvadakzinimezARi#} 
-<ls>MBH. 13, 4812.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} 
-<ls>?ad ŚĀK. 25, 7.</ls> 
-<div n="1">— 2) {%das Blinzeln der Augen%} als Bez. {%eines best. Zeitmaasses%} 
-<ls>H. an.</ls> <ls>MED.</ls> {#°mAtreRa#} 
-<ls>DRAUP. 8, 9.</ls> {#nimezAdiva#} 
-<ls>MBH. 3, 8632. 15151. 7, 568. 8, 2341. 13, 989.</ls> 
-<ls>R. 3, 36, 19. 43, 24. 47, 13. 6, 19, 21. 82, 81.</ls> 
-<ls>BHARTṚ. 3, 77.</ls> 
-<ls>RAGH. 3, 61.</ls> {#nimezArDa#} 
-<ls>12, 99.</ls> {#akzi°#} 
-<ls>SUŚR. 1, 19, 2.</ls> {#nimezaM nimezam#} {%jeden Augenblick%} 
-<ls>ŚAT. BR. 3, 6, 2, 9.</ls> Genauere Bestimmung desselben, die sehr variirt, 
-<ls>ŚAT. BR. 12, 3, 2, 5.</ls> 
-<ls>ŚĀṄKH. ŚR. 14, 81. 1.</ls> 
-<ls>M. 1, 64.</ls> 
-<ls>MBH. 12, 8489.</ls> 
-<ls>VP. 22,</ls> 
-<ls>N. 3.</ls> 
-<ls>BHĀG. P. 3, 11, 7.</ls> 
-<ls>AK. 1, 1, 3, 11.</ls> 
-<ls>H. 136.</ls> <ls>BURGESS</ls> zu <ls>SŪRYAS. 1, 12.</ls> 
-<div n="1">— 3) {%krankhaftes Blinzeln%} oder {%Schliessen des Augendeckels%} 
-<ls>SUŚR. 2, 232, 4. 309, 17.</ls> 
-<div n="1">— 4) N. pr. eines mythischen Wesens 
-<ls>MBH. 1, 1489.</ls> 
-<div n="v">— Vgl. {#nimiza#} und {#animeza#} ({%Gott%} 
-<ls>BHĀG. P. 6, 10, 1</ls>).
+{#nimeza/#}¦ (von {#miz#} mit {#ni#}) <lex>m.</lex>
+<div n="1"> 1) {%das Blinzeln, Schliessen des Auges%} (Gegens. {#unmeza#})
+<ls>H. 578.</ls>
+<ls>an. 3,737.</ls>
+<ls>MED. ṣ. 39.</ls> <ls>VS. 23,8.</ls> {#sarve^ nime\zA ja^jYire vi\dyuta\H puru^zA\daDi^#}
+<ls n="VS.">32,2.</ls> <ls>TBR. 2,1,5,9.</ls> <ls>TS. 7,5,25,1.</ls> <ls>YĀJÑ. 3,175.</ls> <ls>N. 5,24.</ls> <ls>MBH. 14,1237.</ls> <ls>SUŚR. 1,312,16.</ls> <ls>RAGH. 2,19.</ls> <ls>ŚĀK. 37,4.</ls> <ls>BHĀG. P. 3,11,37.</ls> <ls n="BHĀG. P.">9,13,11.</ls> neutr. : {#yAvadakzinimezARi#}
+<ls>MBH. 13,4812.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+ad <ls>ŚĀK. 25,7.</ls>
+<div n="1">— 2) {%das Blinzeln der Augen%} als Bez. {%eines best. Zeitmaasses%}
+<ls>H. an.</ls> <ls>MED.</ls> {#°mAtreRa#}
+<ls>DRAUP. 8,9.</ls> {#nimezAdiva#}
+<ls>MBH. 3,8632.</ls> <ls n="MBH. 3,">15151.</ls> <ls n="MBH.">7,568.</ls> <ls n="MBH.">8,2341.</ls> <ls n="MBH.">13,989.</ls>
+<ls>R. 3,36,19.</ls> <ls n="R. 3,">43,24.</ls> <ls n="R. 3,">47,13.</ls> <ls n="R.">6,19,21.</ls> <ls n="R. 6,">82,81.</ls>
+<ls>BHARTṚ. 3,77.</ls>
+<ls>RAGH. 3,61.</ls> {#nimezArDa#}
+<ls n="RAGH.">12,99.</ls> {#akzi°#}
+<ls>SUŚR. 1,19,2.</ls> {#nimezaM nimezam#} {%jeden Augenblick%}
+<ls>ŚAT. BR. 3,6,2,9.</ls> Genauere Bestimmung desselben, die sehr variirt,
+<ls>ŚAT. BR. 12,3,2,5.</ls>
+<ls>ŚĀṄKH. ŚR. 14,81. 1.</ls>
+<ls>M. 1,64.</ls>
+<ls>MBH. 12,8489.</ls>
+<ls>VP. 22</ls>,
+<ls>N. 3.</ls>
+<ls>BHĀG. P. 3,11,7.</ls>
+<ls>AK. 1,1,3,11.</ls>
+<ls>H. 136.</ls> <ls>BURGESS</ls> zu <ls>SŪRYAS. 1,12.</ls>
+<div n="1">— 3) {%krankhaftes Blinzeln%} oder {%Schliessen des Augendeckels%}
+<ls>SUŚR. 2,232,4. 309,17.</ls>
+<div n="1">— 4) N. pr. eines mythischen Wesens
+<ls>MBH. 1,1489.</ls>
+<div n="v">— Vgl. {#nimiza#} und {#animeza#} ({%Gott%}
+<ls>BHĀG. P. 6,10,1</ls>).
 <LEND>

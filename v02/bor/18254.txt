@@ -1,7 +1,7 @@
 <L>18254<pc>560<k1>pursuit<k2>pursuit
-<div n="lb"/>{@PURSUIT:@}¦ <div n="I">I Chasing: </div><div n="1">(1) {#anusaraRam;#} </div><div n="1">(2) {#anu-#}
-<div n="lb"/>{#DAvanam;#} </div><div n="1">(3) {#anudravaH#} (rare). </div><div n="I">II Following:</div>
-<div n="lb"/><div n="1">(1) {#anusaraRam;#} </div><div n="1">(2) {#anuDAvanam;#} </div><div n="1">(3) {#anuvartanam#} {%or%}
-<div n="lb"/>{#anuvftiH.#} </div><div n="I">III Occupation, employment:
-<div n="lb"/>q.v.: {#vyApAraH.#}</div>
+{@PURSUIT:@}¦ <div n="I">I Chasing: </div><div n="1">(1) {#anusaraRam;#} </div><div n="1">(2) {#anu-#}
+{#DAvanam;#} </div><div n="1">(3) {#anudravaH#} (rare). </div><div n="I">II Following:</div>
+<div n="1">(1) {#anusaraRam;#} </div><div n="1">(2) {#anuDAvanam;#} </div><div n="1">(3) {#anuvartanam#} {%or%}
+{#anuvftiH.#} </div><div n="I">III Occupation, employment:
+q.v.: {#vyApAraH.#}</div>
 <LEND>

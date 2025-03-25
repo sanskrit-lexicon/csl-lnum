@@ -1,15 +1,15 @@
 <L>2223<pc>077<k1>blow<k2>blow
-<div n="lb"/>{@BLOW@}¦ (v. t.): <div n="I">I To b. the fire: {#Damati, saBA-, #}
-<div n="lb"/>{# pra-, upa-,#} ({#DmA,#} c. l.) M. iv. 53. </div><div n="I">II To drive,
-<div n="lb"/>to impel: q. v.: Ph. <div n="xe">{%the tempest blew the%}
-<div n="lb"/>{%ship ashore%}</div> <div n="xs">{#*vAtyA potaM vicikzepa#}</div> ({#kzip,#} c. 6.)
-<div n="lb"/>{#tawe;#} <div n="xe">{%dust b. n by the wind%}</div> <div n="xs">{#anilodDataM#}</div> ({#DU,#} c. 9.)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#anilotTApitaM#}</div> (c. of {#sTA#}) {#rajaH.#} </div><div n="I">III To
-<div n="lb"/>sound a wind instrument: </div><div n="1">(1) {#Damati, saBA-,#}
-<div n="lb"/><div n="xe">{%blew the shell%}</div> <div n="xs">{#jalajaM daDmO#}</div> R.; </div><div n="1">(2) {#pUrayati#} {%or%}
-<div n="lb"/>{#muKamArutena pUrayati#} ({#pUr,#} c. 10.), <div n="xe">{%blew horns%}</div> <div n="xs">{#kAhalAH #}
-<div n="lb"/>{# pUrayAYcakruH,#}</div> B. xiv. 3. </div><div n="I">IV To spread, pub-
-<div n="lb"/>-lish: q. v.: Ph.: <div n="xe">{%to b. the nose%}</div> <div n="xs">{#nAsikAM Damati;#}</div>
-<div n="lb"/><div n="xe">{%one who does so%}</div> <div n="xs">{#nAsikanDamaH.#}</div> <div n="xe">{%To b. hot and%}
-<div n="lb"/>{%cold:%}</div> <div n="xs">{#anugrahanigrahO prakawayati#}</div> (nomi.).</div>
+{@BLOW@}¦ (v. t.): <div n="I">I To b. the fire: {#Damati, saBA-, #}
+{# pra-, upa-,#} ({#DmA,#} c. l.) M. iv. 53. </div><div n="I">II To drive,
+to impel: q. v.: Ph. <div n="xe">{%the tempest blew the%}
+{%ship ashore%}</div> <div n="xs">{#*vAtyA potaM vicikzepa#}</div> ({#kzip,#} c. 6.)
+{#tawe;#} <div n="xe">{%dust b. n by the wind%}</div> <div n="xs">{#anilodDataM#}</div> ({#DU,#} c. 9.)
+<div n="xe">{%or%}</div> <div n="xs">{#anilotTApitaM#}</div> (c. of {#sTA#}) {#rajaH.#} </div><div n="I">III To
+sound a wind instrument: </div><div n="1">(1) {#Damati, saBA-,#}
+<div n="xe">{%blew the shell%}</div> <div n="xs">{#jalajaM daDmO#}</div> R.; </div><div n="1">(2) {#pUrayati#} {%or%}
+{#muKamArutena pUrayati#} ({#pUr,#} c. 10.), <div n="xe">{%blew horns%}</div> <div n="xs">{#kAhalAH #}
+{# pUrayAYcakruH,#}</div> B. xiv. 3. </div><div n="I">IV To spread, pub-
+-lish: q. v.: Ph.: <div n="xe">{%to b. the nose%}</div> <div n="xs">{#nAsikAM Damati;#}</div>
+<div n="xe">{%one who does so%}</div> <div n="xs">{#nAsikanDamaH.#}</div> <div n="xe">{%To b. hot and%}
+{%cold:%}</div> <div n="xs">{#anugrahanigrahO prakawayati#}</div> (nomi.).</div>
 <LEND>

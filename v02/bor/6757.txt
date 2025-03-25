@@ -1,4 +1,4 @@
 <L>6757<pc>216<k1>doll<k2>doll
-<div n="lb"/>{@DOLL:@}¦ <div n="1">(1) {#putrakaH#} <div n="xe">{%or%}</div> <div n="xs">{#putrikA,#}</div> Ku. i: 29.; </div><div n="1">(2)
-<div n="lb"/>{#pAYcAlikA;#} </div><div n="1">(3) {#puttalI;#} </div><div n="1">(4) {#SAlamaYcikA;#} </div><div n="1">(5) {#dArugarBA.#}</div>
+{@DOLL:@}¦ <div n="1">(1) {#putrakaH#} <div n="xe">{%or%}</div> <div n="xs">{#putrikA,#}</div> Ku. i: 29.; </div><div n="1">(2)
+{#pAYcAlikA;#} </div><div n="1">(3) {#puttalI;#} </div><div n="1">(4) {#SAlamaYcikA;#} </div><div n="1">(5) {#dArugarBA.#}</div>
 <LEND>

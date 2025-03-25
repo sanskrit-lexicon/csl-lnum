@@ -1,4 +1,4 @@
-<L>2764<pc>0360<k1>kruDmin<k2>kruDmi/n
-{@krudhmín@}¦ oder {@krudhmí,@} a., {%zum Zorne reizbar%} <lbinfo n="5"/> [von krudh, vermittelt durch ein nicht nachweisbares krudhma, Zorn].
-<div n="P1">-ī́ [<ab>n.</ab> <ab>pl.</ab>] mánāṃsi {572,8}.
+<L>2764<pc>0360<k1>kruDmi<k2>kru/Dmi
+<chg type="chg" n="90" src="gra"><old>{@krudhmín@} oder {@krudhmí,@}</old><new>{@krúdhmi,@}</new></chg>¦ <ab>a.</ab>, {%zum Zorne reizbar%} [von krudh, vermittelt durch ein nicht nachweisbares krudhma, Zorn].
+<div n="TS"><chg type="chg" n="91" src="gra"><old>-ī́</old><new>-ī</new></chg> [<ab>n.</ab> <ab>pl.</ab>] mánāṃsi {572,8}.
 <LEND>

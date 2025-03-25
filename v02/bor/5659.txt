@@ -1,5 +1,5 @@
 <L>5659<pc>181<k1>defender<k2>defender
-<div n="lb"/>{@DEFENDER:@}¦ <div n="1">(1) {#rakzakaH;#} </div><div n="1">(2) {#goptwa#} (m.), <div n="xe">{%d. of the%}
-<div n="lb"/>{%faith:%}</div> <div n="xs">{#Darmasya goptA,#}</div> Vi. v.: v. Protector,
-<div n="lb"/>guardian.</div>
+{@DEFENDER:@}¦ <div n="1">(1) {#rakzakaH;#} </div><div n="1">(2) {#goptwa#} (m.), <div n="xe">{%d. of the%}
+{%faith:%}</div> <div n="xs">{#Darmasya goptA,#}</div> Vi. v.: v. Protector,
+guardian.</div>
 <LEND>

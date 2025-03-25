@@ -1,3 +1,3 @@
-<L>26861<pc>154,1<k1>Alaya<k2>A-laya<h>b<e>2
-<s>A-laya</s> <hom>b</hom> ¦ <lex>m.</lex> and <lex type="hw">n.</lex> a house, dwelling<info lex="m:n"/>
+<L>26861<pc>154,1<k1>Alaya<k2>A-laya<e>2
+<s>A-laya</s> ¦ <lex>m.</lex> and <lex type="hw">n.</lex> a house, dwelling<info lex="m:n"/><info hui="b"/>
 <LEND>

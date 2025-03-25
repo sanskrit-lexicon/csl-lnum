@@ -1,4 +1,4 @@
 <L>4213<pc>137<k1>complainant<k2>complainant
-<div n="lb"/>{@COMPLAINANT:@}¦ <div n="1">(1) {#aBiyoktf#} (f. {#ktrI#}); </div><div n="1">(2)
-<div n="lb"/>{#arTin#} (f. {#nI#}); </div><div n="1">(3) {#vAdin#} (f. {#nI#}).</div>
+{@COMPLAINANT:@}¦ <div n="1">(1) {#aBiyoktf#} (f. {#ktrI#}); </div><div n="1">(2)
+{#arTin#} (f. {#nI#}); </div><div n="1">(3) {#vAdin#} (f. {#nI#}).</div>
 <LEND>

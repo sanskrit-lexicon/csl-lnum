@@ -1,10 +1,9 @@
 <L>6586<pc>0993<k1>man<k2>man<h>2
-2. {@man,@}¦ {%zaudern, zögern, still stehen%} [zend. fra-man, upa-man,
-<lang n="greek">μέν-ω</lang> la. man-eo, <ab>Cu.</ab> 280, S. 99], im späteren Sanskrit durch d erweitert. <lbinfo n="5"/> Diese Erweiterung ist im RV. nicht sicher nachzuweisen, da die hier vorkommenden <lbinfo n="3"/> Formen einfacher auf die Form man zurückzuführen sind (vergl. mā́na, <ab>m.</ab>). Der ursprüngliche Begriff ist wahrscheinlich (<ab>Cu.</ab> S. 99) “sich besinnen” (1. man), woraus sich dann der Begriff des Zauderns entwickelte.
-<div n="P1">{@Mit pari@} {%zum Stillstand bringen, festhalten%} [<ab>A.</ab>], nur einmal in der Form mamanyāt. Diese unmittelbar auf 1. man zurückzuführen ist bedenklich, da 1. man (im Veda) nur im Medium vorkommt, und auch der Sinn der Stelle Widerspruch <lbinfo n="6"/> einlegt.
+<hom>2.</hom> {@√man,@}¦ {%zaudern, zögern, still stehen%} [<lang>zend.</lang> fra-man, upa-man, <gk>μέν-ω</gk>, <lang>la.</lang> man-eo, <ls>Cu. 〔280〕, 〔S. 99〕</ls>], im späteren <lang>Sanskrit</lang> durch d erweitert. Diese Erweiterung ist im <ls>RV.</ls> nicht sicher nachzuweisen, da die hier vorkommenden Formen einfacher auf die Form man zurückzuführen sind (<ab>vergl.</ab> mā́na, <ab>m.</ab>). Der ursprüngliche Begriff ist wahrscheinlich (<ls>Cu. 〔S. 99〕</ls>) „sich besinnen“ (<hom>1.</hom> man), woraus sich dann der Begriff des Zauderns entwickelte.
+<div n="Pf">Mit {@pari@} {%zum Stillstand bringen, festhalten%} [<ab>A.</ab>], nur einmal in der Form mamanyāt. Diese unmittelbar auf <hom>1.</hom> man zurückzuführen ist bedenklich, da <hom>1.</hom> man (im Veda) nur im Medium vorkommt, und auch der Sinn der Stelle Widerspruch einlegt.
 <div n="H">Stamm {@maman:@}
-<div n="P1">-nyāt {@pári@} dráviṇam {857,2} (mártas).
-<div n="P1">-ndhi mā́‿u ṣú prá sedhīs <lbinfo n="4"/> múhur íd … {853,20}.
+<div n="TS">-nyāt {@pári@} dráviṇam {857,2} (mártas).
+<div n="TS">-ndhi mā́‿u ṣú prá sedhīs múhur íd 〰 {853,20}.
 <div n="H"><ab>Impf.</ab> {@ámaman:@}
-<div n="P1">-n {858,8} adyá‿íd u prā́ṇīt … imā́‿áhā.
+<div n="TS">-n {858,8} adyá‿íd u prā́ṇīt 〰 imā́‿áhā.
 <LEND>

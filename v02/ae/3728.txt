@@ -1,14 +1,14 @@
 <L>3728<pc>144<k1>examine<k2>examine
 {@Examine,@}¦ {%v. t.%} {#parIkz#} 1 A, {#nirUp#} 10, {#anu-#}
-<div n="lb"/>{#-saMDA#} 3 U, {#vicar#} c., {#vimfS#} 6 P. {#avekz,#}
-<div n="lb"/>{#A-paryA-loc#} 10. {@2@} {#nirRI#} 1 P, {#niSci#} 5 U,
-<div n="lb"/>{#paricCid#} 7 P. {@3@} {#anuyuj#} 7 A, {#pracC#} 6 P;
-<div n="lb"/>{#mfg#} 10 A, {#anviz#} 4 P, {#carcAM kf#} 8 U, {#jYA#}
-<div n="lb"/>desid. ({#jijYAsate#}) {@4@} {#nirIkz, samIkz,#}
-<div n="lb"/>{#parIkz, nirUp, dfS#} 1 P, {#A-ava-lok#} 1 A,
-<div n="lb"/>10. {@-ation,@} {%s.%} {#parIkzA-kzaRaM, vicAraH-raRaM-RA,#}
-<div n="lb"/>{#nirUpaRaM, anusaMDAnaM, anuyogaH, praSnaH#}. {@2@}
-<div n="lb"/>{#nirIkzaRaM, AlocanaM, saMdarSanaM, avekzA;#}
-<div n="lb"/>‘judicial e.’ {#vyavahAradarSanaM#}. {@-er,@} {%s.%} {#parI-#}
-<div n="lb"/>{#-kzakaH, vicArakaH, anuyoktf#} {%m.,%} {#prASnikaH#}.
+{#-saMDA#} 3 U, {#vicar#} c., {#vimfS#} 6 P. {#avekz,#}
+{#A-paryA-loc#} 10. {@2@} {#nirRI#} 1 P, {#niSci#} 5 U,
+{#paricCid#} 7 P. {@3@} {#anuyuj#} 7 A, {#pracC#} 6 P;
+{#mfg#} 10 A, {#anviz#} 4 P, {#carcAM kf#} 8 U, {#jYA#}
+desid. ({#jijYAsate#}) {@4@} {#nirIkz, samIkz,#}
+{#parIkz, nirUp, dfS#} 1 P, {#A-ava-lok#} 1 A,
+10. {@-ation,@} {%s.%} {#parIkzA-kzaRaM, vicAraH-raRaM-RA,#}
+{#nirUpaRaM, anusaMDAnaM, anuyogaH, praSnaH#}. {@2@}
+{#nirIkzaRaM, AlocanaM, saMdarSanaM, avekzA;#}
+‘judicial e.’ {#vyavahAradarSanaM#}. {@-er,@} {%s.%} {#parI-#}
+{#-kzakaH, vicArakaH, anuyoktf#} {%m.,%} {#prASnikaH#}.
 <LEND>

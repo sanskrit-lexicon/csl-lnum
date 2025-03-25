@@ -1,11 +1,11 @@
 <L>7537<pc>238<k1>encounter<k2>encounter
-<div n="lb"/>{@ENCOUNTER@}¦ (v. t.): <div n="I">I To meet in opposition:</div>
-<div n="lb"/><div n="1">(1) {#aBi- eti, A-,#} ({#i,#} c. 2.), <div n="xe">{%footmen e. ed%}
-<div n="lb"/>{%footmen:%}</div> <div n="xs">{#pattiH pattimaBIyAya raRAya,#}</div> Ku.; <div n="xe">{%horse e.%}
-<div n="lb"/>{%ed horse:%}</div> <div n="xs">{#vAhameyAya vAjI,#}</div> Si.; </div><div n="1">(2) {#aByA-patati#}
-<div n="lb"/>({#pat,#} c. 1.), <ls>R.</ls> ; <div n="xe">{%of the two armies coming up%}
-<div n="lb"/>{%to e. each other:%}</div> <div n="xs">{#saMgrAmAya sannipatataH sEnyayugasya,#}</div>
-<div n="lb"/>Ku.; </div><div n="1">(3) {#vi-gfhvAti#} ({#grah,#} c. 9.) (= to fight), <div n="xe">{%for%}
-<div n="lb"/>{%whom we have e. ed enemies:%}</div> <div n="xs">{#yatkfte'rIn vyagfhvIma,#}</div>
-<div n="lb"/>B. </div><div n="I">II To struggle with: q. v.</div>
+{@ENCOUNTER@}¦ (v. t.): <div n="I">I To meet in opposition:</div>
+<div n="1">(1) {#aBi- eti, A-,#} ({#i,#} c. 2.), <div n="xe">{%footmen e. ed%}
+{%footmen:%}</div> <div n="xs">{#pattiH pattimaBIyAya raRAya,#}</div> Ku.; <div n="xe">{%horse e.%}
+{%ed horse:%}</div> <div n="xs">{#vAhameyAya vAjI,#}</div> Si.; </div><div n="1">(2) {#aByA-patati#}
+({#pat,#} c. 1.), <ls>R.</ls> ; <div n="xe">{%of the two armies coming up%}
+{%to e. each other:%}</div> <div n="xs">{#saMgrAmAya sannipatataH sEnyayugasya,#}</div>
+Ku.; </div><div n="1">(3) {#vi-gfhvAti#} ({#grah,#} c. 9.) (= to fight), <div n="xe">{%for%}
+{%whom we have e. ed enemies:%}</div> <div n="xs">{#yatkfte'rIn vyagfhvIma,#}</div>
+B. </div><div n="I">II To struggle with: q. v.</div>
 <LEND>

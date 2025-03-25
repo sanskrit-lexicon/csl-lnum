@@ -1,4 +1,4 @@
 <L>1699<pc>059<k1>battalion<k2>battalion
-<div n="lb"/>{@BATTALION:@}¦ {#*dalam.#} <div n="xe">{%Five b. s of infantry%}</div> <div n="xs">{#pattInAM #}
-<div n="lb"/>{# paYca dalAni.#}</div>
+{@BATTALION:@}¦ {#*dalam.#} <div n="xe">{%Five b. s of infantry%}</div> <div n="xs">{#pattInAM #}
+{# paYca dalAni.#}</div>
 <LEND>

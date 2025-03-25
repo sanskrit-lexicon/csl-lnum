@@ -1,7 +1,7 @@
 <L>4528<pc>1-0333<k1>aBijiti<k2>aBiji/ti
-{#aBiji/ti#}¦ (wie eben) <lex>f.</lex> {%Sieg, Erkämpfung%}: {#aBijityA aBijayAni#} 
-<ls>ŚAT. BR. 3, 4, 4, 9. 14.</ls> {#varaM dadAmi jityA aBijityE vijityE saMjityA iti vAcaM visfjate#} 
-<ls>AIT. BR. 8, 9. 1, 25.</ls> {#ezAM lokAnAmaBijityE#} 
-<ls>ŚAT. BR. 3, 7, 1, 14.</ls> {#sarvasya lokasyABijityE#} 
-<ls>13, 1, 3, 1.</ls>
+{#aBiji/ti#}¦ (wie eben) <lex>f.</lex> {%Sieg, Erkämpfung%}: {#aBijityA aBijayAni#}
+<ls>ŚAT. BR. 3,4,4,9.</ls> <ls n="ŚAT. BR. 3,4,4,">14.</ls> {#varaM dadAmi jityA aBijityE vijityE saMjityA iti vAcaM visfjate#}
+<ls>AIT. BR. 8,9.</ls> <ls n="AIT. BR.">1,25.</ls> {#ezAM lokAnAmaBijityE#}
+<ls>ŚAT. BR. 3,7,1,14.</ls> {#sarvasya lokasyABijityE#}
+<ls n="ŚAT. BR.">13,1,3,1.</ls>
 <LEND>

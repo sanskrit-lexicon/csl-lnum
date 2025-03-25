@@ -1,5 +1,5 @@
 <L>7596<pc>240<k1>engineering<k2>engineering
-<div n="lb"/>{@ENGINEERING:@}¦ {#vAstuvidyA#} (?): <div n="xe">{%Civil e.:%}</div> <div n="xs">{#paTa-#}
-<div n="lb"/>{#praRAlyAdinirmARavidyA#}</div> (?). <div n="xe">{%Military e.:%}</div> <div n="xs">{#vaprapariKAdi-#}
-<div n="lb"/>{#nirmARavidyA#}</div> (?). <div n="xe">{%Mechanical e.:%}</div> <div n="xs">{#yantravidyA#}</div> (?).
+{@ENGINEERING:@}¦ {#vAstuvidyA#} (?): <div n="xe">{%Civil e.:%}</div> <div n="xs">{#paTa-#}
+{#praRAlyAdinirmARavidyA#}</div> (?). <div n="xe">{%Military e.:%}</div> <div n="xs">{#vaprapariKAdi-#}
+{#nirmARavidyA#}</div> (?). <div n="xe">{%Mechanical e.:%}</div> <div n="xs">{#yantravidyA#}</div> (?).
 <LEND>

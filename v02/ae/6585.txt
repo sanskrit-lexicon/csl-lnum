@@ -1,11 +1,11 @@
 <L>6585<pc>283<k1>medicine<k2>medicine
 {@Medicine,@}¦ {%s.%} {#OzaDaM, BezajaM, agadaH, BEzajyaM,#}
-<div n="lb"/>{#jAyuH;#} ‘administering of m.’ {#OzaDo-#}
-<div n="lb"/>{#-pacAraH, OzaDopakramaH, BezajaprayogaH, ci-#}
-<div n="lb"/>{#-kitsA, rukpratikriyA, upakramaH, upacAraH,#}
-<div n="lb"/>{#upacaryA, vEdyakriyA-upacAraH-upakramaH#}. {@2@}
-<div n="lb"/>(Science) {#AyurvedaH, vEdyakaM, vEdyaSAstraM#}.
-<div n="lb"/>{@-al,@} {%a.%} {#OzaDIya, BEzaja#} ({#jI#} {%f.%}), {#rogaGna#}
-<div n="lb"/>({#GnI#} {%f.%}), {#rogahara, rogahArin#}. {@2@} {#OzaDa-#}
-<div n="lb"/>{#-vizayaka#}.
+{#jAyuH;#} ‘administering of m.’ {#OzaDo-#}
+{#-pacAraH, OzaDopakramaH, BezajaprayogaH, ci-#}
+{#-kitsA, rukpratikriyA, upakramaH, upacAraH,#}
+{#upacaryA, vEdyakriyA-upacAraH-upakramaH#}. {@2@}
+(Science) {#AyurvedaH, vEdyakaM, vEdyaSAstraM#}.
+{@-al,@} {%a.%} {#OzaDIya, BEzaja#} ({#jI#} {%f.%}), {#rogaGna#}
+({#GnI#} {%f.%}), {#rogahara, rogahArin#}. {@2@} {#OzaDa-#}
+{#-vizayaka#}.
 <LEND>

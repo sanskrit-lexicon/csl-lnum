@@ -1,8 +1,8 @@
 <L>19759<pc>513-a<k1>monster<k2>monster
-<div n="lb"/>MONSTER¦, {%s.%} (Something unnatural) {#adButaM, adButavipayaH, adButavastu#} {%n.,%}
-<div n="lb"/>{#apUrvvavizayaH, mahodButaM#}. — (Something deformed) {#aparUpavastu#} {%n.,%}
-<div n="lb"/>{#virUpavizayaH, aparUpaM, aparUpatA, vErUpyaM#}. — (A being enormously
-<div n="lb"/>large or very frightful) {#rAkzasaSarIraH, BImaSarIraH, vikawAkAraH,#}
-<div n="lb"/>{#vikawarUpaH, GorarUpI#} {%m.%} {#(n), suvfhatparimARaH#}. — (Horribly wicked
-<div n="lb"/>person) {#rAkzasaH, rAvaRaH, GorakarmmA#} {%m.%} ({#n#}).
+MONSTER¦, {%s.%} (Something unnatural) {#adButaM, adButavipayaH, adButavastu#} {%n.,%}
+{#apUrvvavizayaH, mahodButaM#}. — (Something deformed) {#aparUpavastu#} {%n.,%}
+{#virUpavizayaH, aparUpaM, aparUpatA, vErUpyaM#}. — (A being enormously
+large or very frightful) {#rAkzasaSarIraH, BImaSarIraH, vikawAkAraH,#}
+{#vikawarUpaH, GorarUpI#} {%m.%} {#(n), suvfhatparimARaH#}. — (Horribly wicked
+person) {#rAkzasaH, rAvaRaH, GorakarmmA#} {%m.%} ({#n#}).
 <LEND>

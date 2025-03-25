@@ -1,610 +1,578 @@
 <L>28717<pc>3-0236<k1>tap<k2>tap<h>1
-1. {#tap#}¦, {#ta/pati#} 
-<ls>DHĀTUP. 23, 16</ls>; {#tatA/pa; atApsIt#} 
-<ls>VOP. 8, 65.</ls> {#(aBi) tApsat#} 
-<ls>PĀR. GṚHY. 3, 6</ls>; {#tapsyati#} (ep. auch {#tapizyati); taptA#} (<is>Kār</is>. 4 aus 
-<ls>SIDDH. K.</ls> zu <ls>P.7,2,10</ls>); selten med.; {#ta/pyate#} dat. partic. 
-<ls>VS. 39, 12.</ls> 
-<div n="1"> 1) {%Wärme von sich geben, warm sein, scheinen%} (von der Sonne): {#nya^ktapati\ sUrya^H#} 
-<ls>ṚV. 10, 60, 11.</ls> <ls n="ṚV.">2, 24, 9.</ls> {#SaM na^stapatu\ sUrya^H#} 
-<ls n="ṚV.">8, 18, 9.</ls> <ls>ŚAT. BR. 1, 6, 4, 18. 2, 2, 4, 6. 7, 4, 1, 18. 13, 4, 2, 2.</ls> <ls>ARJ. 4, 47.</ls> <ls>R. 1, 14, 17.</ls> {#agniH#} 
-<ls>ŚAT. BR. 4, 4, 5, 8. 14, 3, 1, 12.</ls> {#tapAmyahaM varzaM nigfhRAmi#} 
-<ls>BHAG. 9, 19.</ls> {#eza hyezAM samastAnAM maDye tejobalaparAkramEH . maDye tapannivABAti jyotizAmiva BAskaraH ..#} 
-<ls>MBH. 2, 1333.</ls> {#tapatAM varaH#} ({#AdityaH#}) 
-<ls>HARIV. 551.</ls> 
-<ls>R. 1, 16, 11.</ls> {#BagavAMstapatAM patistapanaH#} 
-<ls>BHĀG. P. 5, 21, 3.</ls> {#tamastapati GarmAMSO kaTamAvirBavizyati#} 
-<ls>ŚĀK. 111.</ls> {#tIkzRaM tapatyaditijaH#} 
-<ls>VARĀH. BṚH. S. 19, 2.</ls> {#varzate tapate ko 'nyo jvalate tejasA ca kaH#} 
-<ls>MBH. 13, 811.</ls> {#tvamevEkastapase jAtavedo nAnyastaptA vidyate gozu#} 
-<ls>1, 8414.</ls> 
-<div n="1">— 2) {%erwärmen, erhitzen, glühend machen; bescheinen%} (von der Sonne): {#na ta^panti Ga\rmam#} 
-<ls>ṚV. 3, 53, 14.</ls> <ls n="ṚV.">5, 30, 15.</ls> <ls n="ṚV.">7, 109, 3.</ls> {#va\pAva^nta\M nAgninA\ tapa^ntaH#} 
-<ls n="ṚV.">5, 43, 7.</ls> {#paraSumasmE tapata#} 
-<ls>CHĀND. UP. 6, 16, 1.</ls> {#nettvA^ ste\naM yaTA^ ri\puM tapA^ti\ sUro^ a\rcizA^#} 
-<ls>ṚV. 5, 79, 9.</ls> {#tapa^sA\ taM ta^pasva\ taM te^ Socista^patu#} 
-<ls n="ṚV.">10, 16, 4.</ls> {#na GraMsta^tApa#} 
-<ls>AV. 7, 18, 2.</ls> 
-<ls>VS. 1, 18.</ls> {#(raviH) taptvA ca jagadaMSuBiH#} 
-<ls>DAŚ. 1, 14.</ls> {#svatejasA viSvamidaM tapantam#} 
-<ls>BHAG. 11, 19.</ls> {#virAjamatapatsvena tejasA#} 
-<ls>BHĀG. P. 3, 6, 10.</ls> {#na sUryastapate lokam#} 
-<ls>R. 2, 41, 15.</ls> Mit dem Charakter des pass. und den Personalendungen des act. {%sich erwärmen, heiss werden%}: {#vahnO tapyati tatpayaH#} 
-<ls>VET. 12, 19.</ls> {#tapta/#} {%erwärmt, erhitzt, glühend gemacht, glühend, geschmolzen, heiss%}: {#Gfta#} 
-<ls>ṚV. 4, 1, 6.</ls> {#caru#} 
-<ls>AV. 9, 5, 6.</ls> {#tEla#} 
-<ls>M. 8, 272.</ls> 
-<ls>BHĀG. P. 5, 26, 13.</ls> {#sUryataptapiWakAmbu#} 
-<ls>VARĀH. BṚH. S. 24, 30.</ls> {#BAskarataptatoya#} Cit. beim 
-<ls>Sch.</ls> zu <ls>ŚĀK. 20, 9.</ls> {#taptakzIraGftAmbUnAm#} 
-<ls>YĀJÑ. 3, 318.</ls> 
-<ls>VIKR. 41.</ls> {#taptam#} {%heisses Wasser%} 
-<ls>ŚAT. BR. 14, 1, 1, 29.</ls> {#sutaptamapi pAnIyam#} 
-<ls>HIT. I, 83.</ls> {#yAvaka#} 
-<ls>M. 11, 125.</ls> {#(cUrRaH) arkamayUKataptaH#} 
-<ls>VARĀH. BṚH. S. 76, 12.</ls> {#°pAMSuBiH#} 
-<ls>ṚT. 1, 13.</ls> {#Sayane tapta Ayase#} 
-<ls>M. 8, 372. 11, 103.</ls> 
-<ls>BĀLAB. 7.</ls> 
-<ls>BHĀG. P. 1, 8, 10.</ls> {#taptANgAra#} {%glühend, heiss%} 
-<ls>HIT. I, 112.</ls> {#fbIsa#} 
-<ls>ṚV. 10, 39, 9.</ls> {#tapta iva vE grIzmastaptamivADvaryurnizkrAmati#} {%heiss - hitzig%} 
-<ls>ŚAT. BR. 11, 2, 7, 32.</ls> {#taptahema#} {%geglühtes%} so v. a. {%gereinigtes Gold%} 
-<ls>MBH. 3, 1722.</ls> 
-<ls>R. 1, 45, 42. 3, 49, 35. 52, 30. 53, 36. 55, 5.</ls> 
-<ls>VARĀH. BṚH. S. 106, 3.</ls> {#taptatAmra (= galita#} {%geschmolzen%} 
-<ls>Sch.</ls><ls>?) 6, 13. BHĀG. P. 6, 9, 13.</ls> {#hemamaye koSe sutapte pAvakapraBe#} so v. a. {#sutaptahemamaye koSe#} 
-<ls>MBH. 4, 1339.</ls> {#taptABaraRa = taptahemABaraRa#} 
-<ls>R. 3, 58, 19.</ls> Auch {#tapita#} in ders. Bed.: {#tapitakanakavindupiNgalAkzaH#} 
-<ls>HARIV. 13035.</ls> Vgl. u. {#A, ud, nis, pra, sam#} und {#tapanIya#} . 
-<div n="1">— 3) {%durch Gluth vergehen, verbrennen%} (intrans.): {#tapantyajasraM vegena vahnO#} 
-<ls>MBH. 1, 2037.</ls> 
-<div n="1">— 4) {%durch Gluth verzehren, verbrennen%} (trans.): {#tapo\ zva^gne\ anta^rA~ a\mitrA^n#} 
-<ls>ṚV. 3, 18, 2.</ls> <ls n="ṚV.">6, 5, 4.</ls> {#tapA^ vfzanvi\Svata^H So\cizA\ tAn#} 
-<ls n="ṚV. 6,">22, 8.</ls> {#te\pA\no #}
+1. {#tap#}¦, {#ta/pati#}
+<ls>DHĀTUP. 23,16</ls>; {#tatA/pa; atApsIt#}
+<ls>VOP. 8,65.</ls> {#(aBi) tApsat#}
+<ls>PĀR. GṚHY. 3,6</ls>; {#tapsyati#} (ep. auch {#tapizyati); taptA#} (<is>Kār.</is> 4 aus
+<ls>SIDDH. K.</ls> zu <ls>P. 7,2,10</ls>); selten med.; {#ta/pyate#} dat. partic.
+<ls>VS. 39,12.</ls>
+<div n="1"> 1) {%Wärme von sich geben, warm sein, scheinen%} (von der Sonne): {#nya^ktapati\ sUrya^H#}
+<ls>ṚV. 10,60,11.</ls> <ls n="ṚV.">2,24,9.</ls> {#SaM na^stapatu\ sUrya^H#}
+<ls n="ṚV.">8,18,9.</ls> <ls>ŚAT. BR. 1,6,4,18. 2,2,4,6. 7,4,1,18. 13,4,2,2.</ls> <ls>ARJ. 4,47.</ls> <ls>R. 1,14,17.</ls> {#agniH#}
+<ls>ŚAT. BR. 4,4,5,8.</ls> <ls n="ŚAT. BR.">14,3,1,12.</ls> {#tapAmyahaM varzaM nigfhRAmi#}
+<ls>BHAG. 9,19.</ls> {#eza hyezAM samastAnAM maDye tejobalaparAkramEH . maDye tapannivABAti jyotizAmiva BAskaraH ..#}
+<ls>MBH. 2,1333.</ls> {#tapatAM varaH#} ({#AdityaH#})
+<ls>HARIV. 551.</ls>
+<ls>R. 1,16,11.</ls> {#BagavAMstapatAM patistapanaH#}
+<ls>BHĀG. P. 5,21,3.</ls> {#tamastapati GarmAMSO kaTamAvirBavizyati#}
+<ls>ŚĀK. 111.</ls> {#tIkzRaM tapatyaditijaH#}
+<ls>VARĀH. BṚH. S. 19,2.</ls> {#varzate tapate ko 'nyo jvalate tejasA ca kaH#}
+<ls>MBH. 13,811.</ls> {#tvamevEkastapase jAtavedo nAnyastaptA vidyate gozu#}
+<ls n="MBH.">1,8414.</ls>
+<div n="1">— 2) {%erwärmen, erhitzen, glühend machen; bescheinen%} (von der Sonne): {#na ta^panti Ga\rmam#}
+<ls>ṚV. 3,53,14.</ls> <ls n="ṚV.">5,30,15.</ls> <ls n="ṚV.">7,109,3.</ls> {#va\pAva^nta\M nAgninA\ tapa^ntaH#}
+<ls n="ṚV.">5,43,7.</ls> {#paraSumasmE tapata#}
+<ls>CHĀND. UP. 6,16,1.</ls> {#nettvA^ ste\naM yaTA^ ri\puM tapA^ti\ sUro^ a\rcizA^#}
+<ls>ṚV. 5,79,9.</ls> {#tapa^sA\ taM ta^pasva\ taM te^ Socista^patu#}
+<ls n="ṚV.">10,16,4.</ls> {#na GraMsta^tApa#}
+<ls>AV. 7,18,2.</ls>
+<ls>VS. 1,18.</ls> {#(raviH) taptvA ca jagadaMSuBiH#}
+<ls>DAŚ. 1,14.</ls> {#svatejasA viSvamidaM tapantam#}
+<ls>BHAG. 11,19.</ls> {#virAjamatapatsvena tejasA#}
+<ls>BHĀG. P. 3,6,10.</ls> {#na sUryastapate lokam#}
+<ls>R. 2,41,15.</ls> Mit dem Charakter des pass. und den Personalendungen des act. {%sich erwärmen, heiss werden%}: {#vahnO tapyati tatpayaH#}
+<ls>VET. 12,19.</ls> {#tapta/#} {%erwärmt, erhitzt, glühend gemacht, glühend, geschmolzen, heiss%}: {#Gfta#}
+<ls>ṚV. 4,1,6.</ls> {#caru#}
+<ls>AV. 9,5,6.</ls> {#tEla#}
+<ls>M. 8,272.</ls>
+<ls>BHĀG. P. 5,26,13.</ls> {#sUryataptapiWakAmbu#}
+<ls>VARĀH. BṚH. S. 24,30.</ls> {#BAskarataptatoya#} Cit. beim
+<ls>Sch.</ls> zu <ls>ŚĀK. 20,9.</ls> {#taptakzIraGftAmbUnAm#}
+<ls>YĀJÑ. 3,318.</ls>
+<ls>VIKR. 41.</ls> {#taptam#} {%heisses Wasser%}
+<ls>ŚAT. BR. 14,1,1,29.</ls> {#sutaptamapi pAnIyam#}
+<ls>HIT. I,83.</ls> {#yAvaka#}
+<ls>M. 11,125.</ls> {#(cUrRaH) arkamayUKataptaH#}
+<ls>VARĀH. BṚH. S. 76,12.</ls> {#°pAMSuBiH#}
+<ls>ṚT. 1,13.</ls> {#Sayane tapta Ayase#}
+<ls>M. 8,372.</ls> <ls n="M.">11,103.</ls>
+<ls>BĀLAB. 7.</ls>
+<ls>BHĀG. P. 1,8,10.</ls> {#taptANgAra#} {%glühend, heiss%}
+<ls>HIT. I,112.</ls> {#fbIsa#}
+<ls>ṚV. 10,39,9.</ls> {#tapta iva vE grIzmastaptamivADvaryurnizkrAmati#} {%heiss — hitzig%}
+<ls>ŚAT. BR. 11,2,7,32.</ls> {#taptahema#} {%geglühtes%} so v. a. {%gereinigtes Gold%}
+<ls>MBH. 3,1722.</ls>
+<ls>R. 1,45,42.</ls> <ls n="R.">3,49,35.</ls> <ls n="R. 3,">52,30.</ls> <ls n="R. 3,">53,36.</ls> <ls n="R. 3,">55,5.</ls>
+<ls>VARĀH. BṚH. S. 106,3.</ls> {#taptatAmra#} (= {#galita#} {%geschmolzen%} <ls>Sch.</ls>)
+<ls n="VARĀH. BṚH. S.">6,13.</ls> <ls>BHĀG. P. 6,9,13.</ls> {#hemamaye koSe sutapte pAvakapraBe#} so v. a. {#sutaptahemamaye koSe#}
+<ls>MBH. 4,1339.</ls> {#taptABaraRa = taptahemABaraRa#}
+<ls>R. 3,58,19.</ls> Auch {#tapita#} in ders. Bed.: {#tapitakanakavindupiNgalAkzaH#}
+<ls>HARIV. 13035.</ls> Vgl. u. {#A, ud, nis, pra, sam#} und {#tapanIya#} .
+<div n="1">— 3) {%durch Gluth vergehen, verbrennen%} (intrans.): {#tapantyajasraM vegena vahnO#}
+<ls>MBH. 1,2037.</ls>
+<div n="1">— 4) {%durch Gluth verzehren, verbrennen%} (trans.): {#tapo\ zva^gne\ anta^rA~ a\mitrA^n#}
+<ls>ṚV. 3,18,2.</ls> <ls n="ṚV.">6,5,4.</ls> {#tapA^ vfzanvi\Svata^H So\cizA\ tAn#}
+<ls n="ṚV. 6,">22,8.</ls> {#te\pA\no #}
 [Page3-0237]
-{# de^va ra\kzasa^H#} 
-<ls n="ṚV.">8, 59, 19.</ls> <ls n="ṚV.">7, 104, 1.</ls> <ls>AV. 12, 3, 43.</ls> {#(agniH) lokAnatapat#} 
-<ls>BHĀG. P. 7, 3, 4.</ls> 
-<ls>BHAṬṬ. 9, 2.</ls> {#nEnaM pApmA tapati sarvaM pApmAnaM tapati#} 
-<ls>BṚH. ĀR. UP. 4, 4, 23.</ls> 
-<div n="1">— 5) {%Schmerz empfinden, - leiden%}: {#tapati na sA kiSalayaSayanena#} 
-<ls>GĪT. 7, 31.</ls> {#tapsyasi#} 
-<ls>MBH. 8, 1794.</ls> 
-<div n="1">— 6) {%Schmerz verursachen, schmerzen, quälen, peinigen, betrüben; beschädigen%}: {#tapa^nti mA\GA a\ryo arA^tayaH#} 
-<ls>ṚV. 6, 59, 8.</ls> {#yadi\ vAyu^sta\tapa\ pUru^zasya#} 
-<ls n="ṚV.">7, 104, 15.</ls> {#nEnaM kftAkfte tapataH#} 
-<ls>ŚAT. BR. 14, 7, 2, 27.</ls> 
-<ls>TAITT. UP. 2, 9.</ls> {#mA tvA^ tapatpri\ya A\tmApi\yanta^m#} 
-<ls>ṚV. 1, 162, 20.</ls> {#tadvE mA tAta tapati pApaM karma mayA kftam#} 
-<ls>AIT. BR. 7, 17.</ls> {#striya^M df\zwvAya^ kita\vaM ta^tApa#} {%es schmerzt den Spieler, wenn er ein Weib sieht%} 
-<ls>ṚV. 10, 34, 11.</ls> {#yaSca tapto na tapati#} 
-<ls>MBH. 1, 3323.</ls> {#na mAM tapsyatyajIvitam#} 
-<ls>6175. 2, 1820.</ls> {#tatApa sarvAndIptOjAH#} 
-<ls>1, 6695.</ls> <ls>R. 2, 22, 10.</ls> <ls>BHĀG. P. 3, 25, 23.</ls> <ls>BHAṬṬ. 1, 23.</ls> {#tapati tanugAtri madanastvAmaniSaM mAM punardahatyeva#} 
-<ls>ŚĀK. 65.</ls> {#tapati tApasaM tapaH#} 
-<ls>Sch.</ls> zu <ls>P. 3, 1, 88.</ls> {#tapatyAdityavaccEza (nfpaH) cakzUMzi ca manAMsi ca#} 
-<ls>M. 7, 6.</ls> {#tapate tapyate punaH#} ({#deveSaH#}) 
-<ls>MBH. 13, 750</ls> (vgl. {#tapyAya tapanAya ca#} 
-<ls>12, 10381</ls>). {#neha kzattaH kalahastapsyate mAm#} 
-<ls>2, 1990.</ls> {#dfzwvA mAM na punarjanturAtmAnaM taptumarhati#} {%sich betrüben%} 
-<ls>BHĀG. P. 7, 9, 53.</ls> {#tapta#} {%gequält, mitgenommen%} 
-<ls>H. 1493.</ls> {#vAtAtapAByAM taptANgam#} 
-<ls>R. 3, 55, 15.</ls> {#aNgEranaNgataptEH#} 
-<ls>ŚĀK. 55.</ls> 
-<ls>MEGH. 100.</ls> {#kAruRyena manastaptam#} 
-<ls>HIḌ. 1, 23.</ls> {#anuSayataptahfdaya#} 
-<ls>ŚĀK. 85, 15.</ls> in astrol. Sinne 
-<ls>VARĀH. BṚH. S. 97, 17.</ls> pass. 
-<div n="2"> a) {%Schmerz empfinden, leiden; Schaden nehmen%}: {#jA\yA ta^pyate kita\vasya^#} 
-<ls>ṚV. 10, 34, 10.</ls> {#hfda^yaM tapyate me#} 
-<ls n="ṚV. 10,">95, 17.</ls> <ls>AV. 19, 56, 5.</ls> {#etadvE paramaM tapo yadvyAhitastapyate#} 
-<ls>ŚAT. BR. 14, 8, 11, 1.</ls> {#tasya\ nAkza^stapyate#} 
-<ls>ṚV. 1, 164, 13.</ls> {#tadimAmApadaM prApyaBfSaMtapyAmahevayam#} 
-<ls>MBH. 1, 6217. 3, 10875.</ls> {#tapyamAna#} 
-<ls>R. 1, 8, 1. 2, 69, 3.</ls> {#tapsyase vAhinIM dfzwvA pArTavARaprapIqitAm#} 
-<ls>MBH. 4, 1668.</ls> Auch mit den Personalendungen des act.: {#kAmArTaH parihIRo 'yaM tapyeyaM tena#} 
-<ls>MBH. 1, 3165.</ls> {#duHKErna tapyenna suKEH prahfzyet#} 
-<ls>3585. 3, 15392.</ls> <ls>BRĀHMAṆ. 1, 32.</ls> <ls>KATHĀS. 10, 4.</ls> 
-<div n="2">— b) {%freiwillig Schmerz leiden, sich kasteien, sich harten Uebungen unterwerfen%}, gewöhnlich mit dem acc. {#tapas#} 
-<ls>P. 3, 1, 88.</ls> 
-<ls>VOP. 23, 21.</ls> {#tapa^stapyAmahe#} 
-<ls>AV. 7, 61, 2.</ls> 
-<ls>TAITT. UP. 2, 6.</ls> <ls>M. 2, 167.</ls> <ls>BHAG. 17, 5.</ls> <ls>MBH. 1, 2914. 8120. 3, 8835. 10894. 5, 7303.</ls> <ls>R. 2, 108, 16.</ls> <ls>BHĀG. P. 7, 3, 3.</ls> {#(brahmacArI) tapo^ 'tizWatta\pyamA^naH samu\dre#} 
-<ls>AV. 11, 5, 26.</ls> 
-<ls>ṢAḌV. BR. 4, 1.</ls> 
-<ls>R. 1, 38, 3.</ls> 
-<ls>ŚAT. BR. 2, 2, 4, 1.</ls> 
-<ls>ŚĀṄKH. ŚR. 14, 6, 1. 12, 2.</ls> {#ya e\vaM tapa^so vI\rya^M vi\dvAMstapya^te#} (so betont) 
-<ls>TBR. 2, 2, 9, 3.</ls> {#e\kA\zwa\kA tapa^sA ta\pyamA^nA#} 
-<ls>AV. 3, 10, 12.</ls> {#so 'tapyata tato Goram#} 
-<ls>R. GORR. 1, 58, 1.</ls> {#kimarTaM tapyase#} 
-<ls>R. 1, 55, 14.</ls> {#tapyamAna#} (ohne {#tapas#}) 
-<ls>57, 14. 64, 20.</ls> Auch mit den Endungen des act.: {#tapo 'tapyat#} 
-<ls>MBH. 3, 13492.</ls> {#tapastapyet#} 
-<ls>8233.</ls> {#tapastapyaMti deveSe#} 
-<ls>R. 1, 38, 1.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 26, 6.</ls> {#tapyantam#} (ohne {#tapas#}) 
-<ls>R. 1, 62, 3.</ls> Generelle Formen: {#atapta tapastApasaH#} 
-<ls>P. 3, 1, 65,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 23, 21.</ls> {#tapastepe#} 
-<ls>MBH. 1, 3881. 5, 7346.</ls> 
-<ls>R. 1, 55, 12. 61, 4. 62, 28.</ls> 
-<ls>BRAHMA-P. 50, 5.</ls> {#tepAte#} 
-<ls>BHĀG. P. 3, 4, 22.</ls> {#tapsye#} 
-<ls>MBH. 1, 4781. 5, 7359.</ls> 
-<ls>R. 1, 61, 2</ls>; vgl. u. 7. {#SrAnta, tepAna#} oder {#tapta#} {%der sich kasteit hat%} 
-<ls>ŚAT. BR. 6, 1, 1, 8. 10, 4, 4, 2. 6, 5, 6. 13, 1, 7, 1.</ls> 
-<ls>CHĀND. UP. 4, 10, 2.</ls> 
-<div n="1">— 7) {%sich kasteien u.s.w.%}; med.: {#yatrAsO tapate muniH#} 
-<ls>BRAHMA-P. 51, 2.</ls> act.: {#tatApa paramaM rAma tapovanamupASritaH#} 
-<ls>R. GORR. 1, 58, 4.</ls> {#tapIyAMstapatAm#} 
-<ls>BHĀG. P. 2, 9, 8.</ls> Gewöhnlich in Verbindung mit dem acc. {#tapas: deveSaM tapantaM tapa uttamam#} 
-<ls>HARIV. 14868.</ls> {#ugraM tepatustapaH#} 
-<ls>MBH. 1, 7625.</ls> {#tapsyAvo vipulaM tapaH#} 
-<ls>4619.</ls> <ls>BENF. Chr. 9, 42.</ls> <ls>R. GORR. 1, 63, 2.</ls> {#tapastapsyan#} 
-<ls>M. 2, 166.</ls> {#tapastaptum#} 
-<ls>MBH.</ls> in <ls>BENF. Chr. 11, 14.</ls> {#tapastaptvA#} 
-<ls>TAITT. UP. 2, 6.</ls> <ls>M. 1, 33. 34. 94.</ls> <ls>R. 1, 62, 6.</ls> {#tapta#} mit pass. Bed.: {#tapaSca sumahattaptam#} 
-<ls>R. 1, 57, 8.</ls> 
-<ls>MBH. 5, 7147.</ls> {#tapasEva sutaptena mucyante #}
+{# de^va ra\kzasa^H#}
+<ls n="ṚV.">8,59,19.</ls> <ls n="ṚV.">7,104,1.</ls> <ls>AV. 12,3,43.</ls> {#(agniH) lokAnatapat#}
+<ls>BHĀG. P. 7,3,4.</ls>
+<ls>BHAṬṬ. 9,2.</ls> {#nEnaM pApmA tapati sarvaM pApmAnaM tapati#}
+<ls>BṚH. ĀR. UP. 4,4,23.</ls>
+<div n="1">— 5) {%Schmerz empfinden, — leiden%}: {#tapati na sA kiSalayaSayanena#}
+<ls>GĪT. 7,31.</ls> {#tapsyasi#}
+<ls>MBH. 8,1794.</ls>
+<div n="1">— 6) {%Schmerz verursachen, schmerzen, quälen, peinigen, betrüben; beschädigen%}: {#tapa^nti mA\GA a\ryo arA^tayaH#}
+<ls>ṚV. 6,59,8.</ls> {#yadi\ vAyu^sta\tapa\ pUru^zasya#}
+<ls n="ṚV.">7,104,15.</ls> {#nEnaM kftAkfte tapataH#}
+<ls>ŚAT. BR. 14,7,2,27.</ls>
+<ls>TAITT. UP. 2,9.</ls> {#mA tvA^ tapatpri\ya A\tmApi\yanta^m#}
+<ls>ṚV. 1,162,20.</ls> {#tadvE mA tAta tapati pApaM karma mayA kftam#}
+<ls>AIT. BR. 7,17.</ls> {#striya^M df\zwvAya^ kita\vaM ta^tApa#} {%es schmerzt den Spieler, wenn er ein Weib sieht%}
+<ls>ṚV. 10,34,11.</ls> {#yaSca tapto na tapati#}
+<ls>MBH. 1,3323.</ls> {#na mAM tapsyatyajIvitam#}
+<ls n="MBH. 1,">6175.</ls> <ls n="MBH.">2,1820.</ls> {#tatApa sarvAndIptOjAH#}
+<ls n="MBH.">1,6695.</ls> <ls>R. 2,22,10.</ls> <ls>BHĀG. P. 3,25,23.</ls> <ls>BHAṬṬ. 1,23.</ls> {#tapati tanugAtri madanastvAmaniSaM mAM punardahatyeva#}
+<ls>ŚĀK. 65.</ls> {#tapati tApasaM tapaH#}
+<ls>Sch.</ls> zu <ls>P. 3,1,88.</ls> {#tapatyAdityavaccEza (nfpaH) cakzUMzi ca manAMsi ca#}
+<ls>M. 7,6.</ls> {#tapate tapyate punaH#} ({#deveSaH#})
+<ls>MBH. 13,750</ls> (vgl. {#tapyAya tapanAya ca#}
+<ls n="MBH.">12,10381</ls>). {#neha kzattaH kalahastapsyate mAm#}
+<ls n="MBH.">2,1990.</ls> {#dfzwvA mAM na punarjanturAtmAnaM taptumarhati#} {%sich betrüben%}
+<ls>BHĀG. P. 7,9,53.</ls> {#tapta#} {%gequält, mitgenommen%}
+<ls>H. 1493.</ls> {#vAtAtapAByAM taptANgam#}
+<ls>R. 3,55,15.</ls> {#aNgEranaNgataptEH#}
+<ls>ŚĀK. 55.</ls>
+<ls>MEGH. 100.</ls> {#kAruRyena manastaptam#}
+<ls>HIḌ. 1,23.</ls> {#anuSayataptahfdaya#}
+<ls>ŚĀK. 85,15.</ls> in astrol. Sinne
+<ls>VARĀH. BṚH. S. 97,17.</ls> pass.
+<div n="2"> a) {%Schmerz empfinden, leiden; Schaden nehmen%}: {#jA\yA ta^pyate kita\vasya^#}
+<ls>ṚV. 10,34,10.</ls> {#hfda^yaM tapyate me#}
+<ls n="ṚV. 10,">95,17.</ls> <ls>AV. 19,56,5.</ls> {#etadvE paramaM tapo yadvyAhitastapyate#}
+<ls>ŚAT. BR. 14,8,11,1.</ls> {#tasya\ nAkza^stapyate#}
+<ls>ṚV. 1,164,13.</ls> {#tadimAmApadaM prApyaBfSaMtapyAmahevayam#}
+<ls>MBH. 1,6217.</ls> <ls n="MBH.">3,10875.</ls> {#tapyamAna#}
+<ls>R. 1,8,1.</ls> <ls n="R.">2,69,3.</ls> {#tapsyase vAhinIM dfzwvA pArTavARaprapIqitAm#}
+<ls>MBH. 4,1668.</ls> Auch mit den Personalendungen des act.: {#kAmArTaH parihIRo 'yaM tapyeyaM tena#}
+<ls>MBH. 1,3165.</ls> {#duHKErna tapyenna suKEH prahfzyet#}
+<ls n="MBH. 1,">3585.</ls> <ls n="MBH.">3,15392.</ls> <ls>BRĀHMAṆ. 1,32.</ls> <ls>KATHĀS. 10,4.</ls>
+<div n="2">— b) {%freiwillig Schmerz leiden, sich kasteien, sich harten Uebungen unterwerfen%}, gewöhnlich mit dem acc. {#tapas#}
+<ls>P. 3,1,88.</ls>
+<ls>VOP. 23,21.</ls> {#tapa^stapyAmahe#}
+<ls>AV. 7,61,2.</ls>
+<ls>TAITT. UP. 2,6.</ls> <ls>M. 2,167.</ls> <ls>BHAG. 17,5.</ls> <ls>MBH. 1,2914.</ls> <ls n="MBH. 1,">8120.</ls> <ls n="MBH.">3,8835.</ls> <ls n="MBH. 3,">10894.</ls> <ls n="MBH.">5,7303.</ls> <ls>R. 2,108,16.</ls> <ls>BHĀG. P. 7,3,3.</ls> {#(brahmacArI) tapo^ 'tizWatta\pyamA^naH samu\dre#}
+<ls>AV. 11,5,26.</ls>
+<ls>ṢAḌV. BR. 4,1.</ls>
+<ls>R. 1,38,3.</ls>
+<ls>ŚAT. BR. 2,2,4,1.</ls>
+<ls>ŚĀṄKH. ŚR. 14,6,1. 12,2.</ls> {#ya e\vaM tapa^so vI\rya^M vi\dvAMstapya^te#} (so betont)
+<ls>TBR. 2,2,9,3.</ls> {#e\kA\zwa\kA tapa^sA ta\pyamA^nA#}
+<ls>AV. 3,10,12.</ls> {#so 'tapyata tato Goram#}
+<ls>R. GORR. 1,58,1.</ls> {#kimarTaM tapyase#}
+<ls>R. 1,55,14.</ls> {#tapyamAna#} (ohne {#tapas#})
+<ls n="R. 1,">57,14.</ls> <ls n="R. 1,">64,20.</ls> Auch mit den Endungen des act.: {#tapo 'tapyat#}
+<ls>MBH. 3,13492.</ls> {#tapastapyet#}
+<ls n="MBH. 3,">8233.</ls> {#tapastapyaMti deveSe#}
+<ls>R. 1,38,1.</ls>
+<ls>R. GORR. 1,26,6.</ls> {#tapyantam#} (ohne {#tapas#})
+<ls>R. 1,62,3.</ls> Generelle Formen: {#atapta tapastApasaH#}
+<ls>P. 3,1,65</ls>, <ls>Sch.</ls>
+<ls>VOP. 23,21.</ls> {#tapastepe#}
+<ls>MBH. 1,3881.</ls> <ls n="MBH.">5,7346.</ls>
+<ls>R. 1,55,12.</ls> <ls n="R. 1,">61,4.</ls> <ls n="R. 1,">62,28.</ls>
+<ls>BRAHMA-P. 50,5.</ls> {#tepAte#}
+<ls>BHĀG. P. 3,4,22.</ls> {#tapsye#}
+<ls>MBH. 1,4781.</ls> <ls n="MBH.">5,7359.</ls>
+<ls>R. 1,61,2</ls>; vgl. u. 7. {#SrAnta, tepAna#} oder {#tapta#} {%der sich kasteit hat%}
+<ls>ŚAT. BR. 6,1,1,8. 10,4,4,2. 6,5,6. 13,1,7,1.</ls>
+<ls>CHĀND. UP. 4,10,2.</ls>
+<div n="1">— 7) {%sich kasteien u.s.w.%}; med.: {#yatrAsO tapate muniH#}
+<ls>BRAHMA-P. 51,2.</ls> act.: {#tatApa paramaM rAma tapovanamupASritaH#}
+<ls>R. GORR. 1,58,4.</ls> {#tapIyAMstapatAm#}
+<ls>BHĀG. P. 2,9,8.</ls> Gewöhnlich in Verbindung mit dem acc. {#tapas: deveSaM tapantaM tapa uttamam#}
+<ls>HARIV. 14868.</ls> {#ugraM tepatustapaH#}
+<ls>MBH. 1,7625.</ls> {#tapsyAvo vipulaM tapaH#}
+<ls n="MBH. 1,">4619.</ls> <ls>BENF. Chr. 9,42.</ls> <ls>R. GORR. 1,63,2.</ls> {#tapastapsyan#}
+<ls>M. 2,166.</ls> {#tapastaptum#}
+<ls>MBH.</ls> in <ls>BENF. Chr. 11,14.</ls> {#tapastaptvA#}
+<ls>TAITT. UP. 2,6.</ls> <ls>M. 1,33.</ls> <ls n="M. 1,">34.</ls> <ls n="M. 1,">94.</ls> <ls>R. 1,62,6.</ls> {#tapta#} mit pass. Bed.: {#tapaSca sumahattaptam#}
+<ls>R. 1,57,8.</ls>
+<ls>MBH. 5,7147.</ls> {#tapasEva sutaptena mucyante #}
 [Page3-0238]
-{# kilvizAttataH#} 
-<ls>M. 11, 239.</ls> {#ataptatapas#} <lex>adj.</lex> 
-<ls>INDR. 1, 17.</ls>
-
-<div n="p">— caus. {#tApa/yati#} und {#°te#} 
-<ls>DHĀTUP. 34, 12.</ls> 
-<div n="1"> 1) {%erwärmen, erhitzen%} 
-<ls>KAUŚ. 26. 29.</ls> {#yasta^ i\DmaM ja\Bara^tsizvidA\no mU\rDAna^M vA ta\tapa^te (!) tvA\yA#} 
-<ls>ṚV. 4, 2, 6.</ls> {#gAtrARyatApayat#} 
-<ls>MBH. 12, 5536.</ls> 
-<ls>KATHĀS. 25, 94.</ls> {#na hi tApayituM SakyaM sAgarAmBastfRolkayA#} 
-<ls>HIT. I, 81.</ls> {#tApito Bidyate 'SmA#} 
-<ls>VARĀH. BṚH. S. 53, 117.</ls> 
-<div n="1">— 2) {%versengen, durch Hitze verzehren, - quälen; peinigen, in Unruhe versetzen, Jmd zusetzen%}: {#tIkzRaH pawurdinakaraH karEstApayate jagat#} 
-<ls>R. 6, 11, 44.</ls> {#pracaRqasUryAtapatApitA mahI#} 
-<ls>ṚT. 1, 10.</ls> {#mfgAH pracaRqAtapatApitA BfSam#} 
-<ls>11.</ls> {#vizAgnisUryAtapatApitaH PaRI#} 
-<ls>19.</ls> {#ayaM hi mAM tApayate samutTitastanUjaSokapraBavo hutASanaH#} 
-<ls>R. 2, 43, 20.</ls> {#tvatkfte madanaScEva SokacintA ca rAGavam . tApayanti mahAtmAnamagnyAgAramivAgnayaH ..#} 
-<ls>5, 32, 36.</ls> {#Sa^trURAM tA\paya\nmana^H#} 
-<ls>AV. 19, 28, 2.</ls> {#manastApayatIva me#} 
-<ls>MBH. 4, 1755.</ls> {#lokAMSca tApayAnam#} 
-<ls>15, 855.</ls> {#tApayanpARquputrAMstvaM raSmivAniva tejasA#} 
-<ls>3, 14785.</ls> {#(pARqavAH) pfTivIpAlAMstApayantaH svatejasA#} 
-<ls>1, 8062.</ls> {#tApayAmAsa tAMllokAnsadevAsuramAnuzAn#} 
-<ls>6831.</ls> {#(tapyamAno mahattapaH) suBfSaM tApayAmAsa Sakram#} 
-<ls>2914.</ls> <ls>BENF. Chr. 46, 23.</ls> <ls>BRAHMA-P. 50, 12.</ls> {#tvaM hi tIvreRa tapasA prajAstApayase#} 
-<ls>MBH. 1, 1571.</ls> {#(indriyEH) tErayaM tApyate loko nakzatrARi grahEriva#} 
-<ls>5, 1148.</ls> {#(kurupARqavAH) punaryudDAya saMjagmustApayAnAH parasparam#} 
-<ls>6, 2120.</ls> {#sA taM nityamatApayat#} 
-<ls>KATHĀS. 23, 36.</ls> {#koNkaRAnsapta tApayan#} 
-<ls>RĀJA-TAR. 4, 159.</ls> {#tApitArAtiBUpAla#} 
-<ls>3, 477.</ls> {#pratApatApitArAti#} 
-<ls>4, 10.</ls> {#rakzoBistApitAH#} 
-<ls>BHAṬṬ. 8, 13.</ls> {#tApitaH kandarpeRa#} 
-<ls>GĪT. 11, 22.</ls> {#cittaM suciraM tApatApitam#} 
-<ls>BHĀG. P. 8, 5, 13.</ls> {#(arTAH) tApayanti vipattizu#} 
-<ls>HIT. I, 172.</ls> {#jA\mya^tItape\ Danu^H#} 
-<ls>ṚV. 8, 61, 4.</ls> 
-<div n="1">— 3) {%sich kasteien, sich harten Uebungen aussetzen%}: {#yo snAtastApayettatra#} 
-<ls>MBH. 3, 8199.</ls> — intens. {%heftigen Schmerz empfinden, - leiden, sich in grosser Unruhe befinden%}: {#mama tAtapyamAnasya putrArTaM nAsti vE suKam#} 
-<ls>R. 1, 11, 8.</ls> {#suhfnmaTitarozasuSoRadfzwyA tAtapyamAnamakaroraganakracakraH (udaDiH)#} 
-<ls>BHĀG. P. 2, 7, 24.</ls>
-
-<div n="p">— {#ati#} 
-<div n="1"> 1) {%heftig brennen, eine grosse Gluth von sich geben%}: {#avizahyAMSurAdityo yAvannAtitapatyasO . tAvadeveta icCAmo gantavye 'numataM tvayA ..#} 
-<ls>R. 3, 12, 8.</ls> {#SaM ta^pa\ mAti^ tapo\ agne^#} 
-<ls>AV. 18, 2, 36.</ls> 
-<div n="1">— 2) {%erwärmen, stark erhitzen%}: {#rohi^to\ atya^tapa\ddiva^m#} 
-<ls>AV. 13, 2, 40.</ls> {#narake - uparyaDastAdagnyarkAByAmatitapyamAne#} 
-<ls>BHĀG. P. 5, 26, 14.</ls> 
-<div n="1">— 3) {%stark mitnehmen%}: {#atitaptayA girA#} {%mit sehr angegriffener Stimme%} 
-<ls>R. 3, 66, 26.</ls> — caus. {%stark erwärmen, - erhitzen%}: {#tejastvaByaDikaM tAta nityameva vivasvataH . yenAtitApayAmAsa trIn lokAnkaSyapAtmajaH ..#} 
-<ls>HARIV. 550.</ls> {#lohapiRqaM yaTA vahniH praviSya hyatitApayet#} 
-<ls>MBH. 14, 506.</ls>
-
-<div n="p">— {#anu#} 
-<div n="1"> 1) {%erhitzen%}: {#kumBImanutaptAm#} 
-<ls>SUŚR. 2, 181, 14.</ls> 
-<div n="1">— 2) {%Jmd zusetzen%} 
-<ls>AV. 19, 49, 7.</ls> 
-<div n="1">— 3) pass. {%Schmerz empfinden, sich grämen, sich abhärmen%}, insbes. {%über eine selbstverübte That, Reue empfinden%}: {#anutapye BfSaM tAta tava GoreRa karmaRA#} 
-<ls>MBH. 3, 13720.</ls> {#hatveva brAhmaRaM kAmAtspfzwvAgnimiva pARinA . anvatapyata DarmAtmA putraM saMcintya tApasam ..#} 
-<ls>R. 2, 42, 11.</ls> {#na hi mftyuM taTA rAjA SrutvA vE so 'nvatapyata . aSocadamarapraKyo yaTA kftveha karma tat ..#} 
-<ls>MBH. 1, 1750.</ls> {#yastvAm - vanaM prasTApya duzwAtmA nAnvatapyata durmatiH#} 
-<ls>?3, 992. VIKR. 46. KATHĀS. 22, 238. BHĀG. P. 4, 28, 12 (BURNOUF:</ls> {%fut atteint par le feu%}; vgl. u. {#upa#}). 
-<ls>9, 8, 18.</ls> {#BfSamanutapyamAna Aha#} 
-<ls>5, 8, 27.</ls> {#anvatapta#} 
-<ls>P. 3, 1, 65.</ls> 
-<ls>VOP. 24, 4.</ls> Mit der Personalendung des act.: {#BrAtaraste 'nutapyanti tvAM vinA#} 
-<ls>MBH. 1, 5055.</ls> {#iti putrakftAGena so 'nutaptaH#} 
-<ls>BHĀG. P. 1, 18, 49.</ls> 
+{# kilvizAttataH#}
+<ls>M. 11,239.</ls> {#ataptatapas#} <lex>adj.</lex>
+<ls>INDR. 1,17.</ls>
+<div n="p">— caus. {#tApa/yati#} und {#°te#}
+<ls>DHĀTUP. 34,12.</ls>
+<div n="1"> 1) {%erwärmen, erhitzen%}
+<ls>KAUŚ. 26. 29.</ls> {#yasta^ i\DmaM ja\Bara^tsizvidA\no mU\rDAna^M vA ta\tapa^te (!) tvA\yA#}
+<ls>ṚV. 4,2,6.</ls> {#gAtrARyatApayat#}
+<ls>MBH. 12,5536.</ls>
+<ls>KATHĀS. 25,94.</ls> {#na hi tApayituM SakyaM sAgarAmBastfRolkayA#}
+<ls>HIT. I,81.</ls> {#tApito Bidyate 'SmA#}
+<ls>VARĀH. BṚH. S. 53,117.</ls>
+<div n="1">— 2) {%versengen, durch Hitze verzehren, — quälen; peinigen, in Unruhe versetzen, Jmd zusetzen%}: {#tIkzRaH pawurdinakaraH karEstApayate jagat#}
+<ls>R. 6,11,44.</ls> {#pracaRqasUryAtapatApitA mahI#}
+<ls>ṚT. 1,10.</ls> {#mfgAH pracaRqAtapatApitA BfSam#}
+<ls n="ṚT.">11.</ls> {#vizAgnisUryAtapatApitaH PaRI#}
+<ls n="ṚT.">19.</ls> {#ayaM hi mAM tApayate samutTitastanUjaSokapraBavo hutASanaH#}
+<ls>R. 2,43,20.</ls> {#tvatkfte madanaScEva SokacintA ca rAGavam . tApayanti mahAtmAnamagnyAgAramivAgnayaH ..#}
+<ls n="R.">5,32,36.</ls> {#Sa^trURAM tA\paya\nmana^H#}
+<ls>AV. 19,28,2.</ls> {#manastApayatIva me#}
+<ls>MBH. 4,1755.</ls> {#lokAMSca tApayAnam#}
+<ls n="MBH.">15,855.</ls> {#tApayanpARquputrAMstvaM raSmivAniva tejasA#}
+<ls n="MBH.">3,14785.</ls> {#(pARqavAH) pfTivIpAlAMstApayantaH svatejasA#}
+<ls n="MBH.">1,8062.</ls> {#tApayAmAsa tAMllokAnsadevAsuramAnuzAn#}
+<ls n="MBH. 1,">6831.</ls> {#(tapyamAno mahattapaH) suBfSaM tApayAmAsa Sakram#}
+<ls n="MBH. 1,">2914.</ls> <ls>BENF. Chr. 46,23.</ls> <ls>BRAHMA-P. 50,12.</ls> {#tvaM hi tIvreRa tapasA prajAstApayase#}
+<ls>MBH. 1,1571.</ls> {#(indriyEH) tErayaM tApyate loko nakzatrARi grahEriva#}
+<ls n="MBH.">5,1148.</ls> {#(kurupARqavAH) punaryudDAya saMjagmustApayAnAH parasparam#}
+<ls n="MBH.">6,2120.</ls> {#sA taM nityamatApayat#}
+<ls>KATHĀS. 23,36.</ls> {#koNkaRAnsapta tApayan#}
+<ls>RĀJA-TAR. 4,159.</ls> {#tApitArAtiBUpAla#}
+<ls n="RĀJA-TAR.">3,477.</ls> {#pratApatApitArAti#}
+<ls n="RĀJA-TAR.">4,10.</ls> {#rakzoBistApitAH#}
+<ls>BHAṬṬ. 8,13.</ls> {#tApitaH kandarpeRa#}
+<ls>GĪT. 11,22.</ls> {#cittaM suciraM tApatApitam#}
+<ls>BHĀG. P. 8,5,13.</ls> {#(arTAH) tApayanti vipattizu#}
+<ls>HIT. I,172.</ls> {#jA\mya^tItape\ Danu^H#}
+<ls>ṚV. 8,61,4.</ls>
+<div n="1">— 3) {%sich kasteien, sich harten Uebungen aussetzen%}: {#yo snAtastApayettatra#}
+<ls>MBH. 3,8199.</ls> — intens. {%heftigen Schmerz empfinden, — leiden, sich in grosser Unruhe befinden%}: {#mama tAtapyamAnasya putrArTaM nAsti vE suKam#}
+<ls>R. 1,11,8.</ls> {#suhfnmaTitarozasuSoRadfzwyA tAtapyamAnamakaroraganakracakraH (udaDiH)#}
+<ls>BHĀG. P. 2,7,24.</ls>
+<div n="p">— {#ati#}
+<div n="1"> 1) {%heftig brennen, eine grosse Gluth von sich geben%}: {#avizahyAMSurAdityo yAvannAtitapatyasO . tAvadeveta icCAmo gantavye 'numataM tvayA ..#}
+<ls>R. 3,12,8.</ls> {#SaM ta^pa\ mAti^ tapo\ agne^#}
+<ls>AV. 18,2,36.</ls>
+<div n="1">— 2) {%erwärmen, stark erhitzen%}: {#rohi^to\ atya^tapa\ddiva^m#}
+<ls>AV. 13,2,40.</ls> {#narake — uparyaDastAdagnyarkAByAmatitapyamAne#}
+<ls>BHĀG. P. 5,26,14.</ls>
+<div n="1">— 3) {%stark mitnehmen%}: {#atitaptayA girA#} {%mit sehr angegriffener Stimme%}
+<ls>R. 3,66,26.</ls> — caus. {%stark erwärmen, — erhitzen%}: {#tejastvaByaDikaM tAta nityameva vivasvataH . yenAtitApayAmAsa trIn lokAnkaSyapAtmajaH ..#}
+<ls>HARIV. 550.</ls> {#lohapiRqaM yaTA vahniH praviSya hyatitApayet#}
+<ls>MBH. 14,506.</ls>
+<div n="p">— {#anu#}
+<div n="1"> 1) {%erhitzen%}: {#kumBImanutaptAm#}
+<ls>SUŚR. 2,181,14.</ls>
+<div n="1">— 2) {%Jmd zusetzen%}
+<ls>AV. 19,49,7.</ls>
+<div n="1">— 3) pass. {%Schmerz empfinden, sich grämen, sich abhärmen%}, insbes. {%über eine selbstverübte That, Reue empfinden%}: {#anutapye BfSaM tAta tava GoreRa karmaRA#}
+<ls>MBH. 3,13720.</ls> {#hatveva brAhmaRaM kAmAtspfzwvAgnimiva pARinA . anvatapyata DarmAtmA putraM saMcintya tApasam ..#}
+<ls>R. 2,42,11.</ls> {#na hi mftyuM taTA rAjA SrutvA vE so 'nvatapyata . aSocadamarapraKyo yaTA kftveha karma tat ..#}
+<ls>MBH. 1,1750.</ls> {#yastvAm — vanaM prasTApya duzwAtmA nAnvatapyata durmatiH#}
+<ls n="MBH.">3,992.</ls> <ls>VIKR. 46.</ls> <ls>KATHĀS. 22,238.</ls> <ls>BHĀG. P. 4,28,12</ls> (<ls>BURNOUF</ls>: {%fut atteint par le feu%}; vgl. u. {#upa#}).
+<ls n="BHĀG. P.">9,8,18.</ls> {#BfSamanutapyamAna Aha#}
+<ls n="BHĀG. P.">5,8,27.</ls> {#anvatapta#}
+<ls>P. 3,1,65.</ls>
+<ls>VOP. 24,4.</ls> Mit der Personalendung des act.: {#BrAtaraste 'nutapyanti tvAM vinA#}
+<ls>MBH. 1,5055.</ls> {#iti putrakftAGena so 'nutaptaH#}
+<ls>BHĀG. P. 1,18,49.</ls>
 <div n="1">— 4) pass. {%sich grämen um, sich sehnen nach%}; mit dem acc.:
 [Page3-0239]
-{#yAna\gnayo^ a\nvata^pyanta\ DizRyA^H#} 
-<ls>AV. 2, 35, 1.</ls> {#pra\jA a^nuta\pyamA^nam#} 
-<ls>2.</ls> {#mA putramanutapyaTAH#} 
-<ls>MBH. 7, 2195.</ls> Auch act.: {#tadA yudDaM DArtarAzwro 'nvatapsyat#} {%bereuen%} 
-<ls>5, 1822.</ls> {#rAjyanASam#} u. s. w. {#anutapya#} {%sich grämend um%} 
-<ls>11, 182.</ls> — caus. {%Jmd Schmerz bereiten, betrüben%}: {#virahaH kimivAnutApayedvada vAhyErvizayErvipaScitam#} 
-<ls>RAGH. 8, 88.</ls> 
+{#yAna\gnayo^ a\nvata^pyanta\ DizRyA^H#}
+<ls>AV. 2,35,1.</ls> {#pra\jA a^nuta\pyamA^nam#}
+<ls n="AV. 2,35,">2.</ls> {#mA putramanutapyaTAH#}
+<ls>MBH. 7,2195.</ls> Auch act.: {#tadA yudDaM DArtarAzwro 'nvatapsyat#} {%bereuen%}
+<ls n="MBH.">5,1822.</ls> {#rAjyanASam#} u. s. w. {#anutapya#} {%sich grämend um%}
+<ls n="MBH.">11,182.</ls> — caus. {%Jmd Schmerz bereiten, betrüben%}: {#virahaH kimivAnutApayedvada vAhyErvizayErvipaScitam#}
+<ls>RAGH. 8,88.</ls>
 <div n="v">— Vgl. {#anutApa, anutApana#} .
-
-<div n="p">— {#pratyanu#} pass. {%Reue empfinden%}: {#yadi dattvA varO rAjanpunaH pratyanutapyase#} 
-<ls>R. 2, 12, 36.</ls>
-
-<div n="p">— {#samanu#} pass. dass.: {#mohAdaDarmaM yaH kftvA punaH samanutapyate#} 
-<ls>MBH. 13, 5335.</ls>
-
-<div n="p">— {#aBi#} 
-<div n="1"> 1) {%erwärmen, erhitzen; bescheinen%} 
-<ls>AV. 19, 28, 3.</ls> {#yaTA^ sma te vi\roha^to a\Bita^ptami\vAna^ti#} 
-<ls>4, 1, 3.</ls> {#sarve^zu suva\rgezu^ lo\kezva^Bi\tapa^nneti#} 
-<ls>TBR. 1, 2, 4, 1.</ls> {#sa (prajApatiH) tapo 'tapyata sa tapastaptvemAM lokAnasfjata pfTivImantarikzaM divaM tAM lokAnaByatapat#} (nach 
-<ls>SĀY.</ls> = {#paryAlocitavAn) teByo 'BitapteByastrIRi jyotIMzyajAyanta#} 
-<ls>AIT. BR. 5, 32.</ls> 
-<ls>AIT. UP. 1, 4. 3, 2.</ls> 
-<ls>CHĀND. UP. 2, 23, 3. 4. 7, 11, 1.</ls> 
-<ls>BHĀG. P. 3, 6, 11.</ls> {#aByatapyata#} mit transit. (!) Bed. 
-<ls>ŚĀṄKH. BR.</ls> in <ls>Ind. St. 2, 303.</ls> {#aBitaptAM dArayanti SilAm#} 
-<ls>VARĀH. BṚH. S. 53, 116.</ls> {#aBitaptamayo 'pi mArdavaM Bajate#} 
-<ls>RAGH. 8, 43.</ls> {#yatra kvacana syandenABitapati#} ({#AdityaH#}) 
-<ls>BHĀG. P. 5, 21, 9.</ls> 
-<ls>ŚAT. BR. 13, 3, 8, 6. 11, 5, 8, 2. fgg.</ls> 
-<ls>KĀTY. ŚR. 2, 5, 26.</ls> {#divAkarABitapta#} 
-<ls>SUŚR. 1, 176, 12.</ls> 
-<ls>KUMĀRAS. 5, 21.</ls> 
-<ls>ṚT. 4, 14.</ls> 
-<div n="1">— 2) {%schmerzen%}: {#citrapakza Siro mAsyABitApsaMt#} 
-<ls>PĀR. GṚHY. 3, 6.</ls> 
-<div n="1">— 3) {%durch Gluth quälen, - mitnehmen; quälen, peinigen%}; pass. {%Schmerz empfinden, leiden%}: {#vayaM rAjan jAWareRABitaptA yaTAgninA kowarasTena vfkzAH#} 
-<ls>BHĀG. P. 4, 17, 10.</ls> {#aBitaptaH SarEH#} 
-<ls>MBH. 6, 5771. fg. 5, 7216.</ls> {#vyasanEraBitaptasya narasya vinaSizyataH#} 
-<ls>13, 1815.</ls> {#dvAByAmapi - SokAByAmaBitapyate#} 
-<ls>R. 2, 62, 5.</ls> {#dvandvEreva - jagatsarvamaBitaptamidaM sadA#} 
-<ls>R. GORR. 2, 84, 20.</ls> {#BrAturbaDABitaptena tvayA#} 
-<ls>BHĀG. P. 4, 11, 9.</ls> {#BAryAM svAmeva tAm - parijYAyAByatapyata#} 
-<ls>KATHĀS. 21, 72.</ls> {#tasmAtkimaBitapyantaM vAkSarErupakfntasi#} 
-<ls>MBH. 7, 6555.</ls> {#aBitapta#} {%sich grämend um%} (acc.): {#strIRAm - rAmamevABitaptAnAM SuSrAva paridevanam#} 
-<ls>R. 2, 57, 15.</ls> — caus. {%durch Gluth quälen, - mitnehmen%}: {#sa pARqavArkayugAntArkaH kurUnaByatItapat#} 
-<ls>MBH. 7, 1417.</ls> {#vahnitejo 'BitApitAH#} 
-<ls>14, 1742.</ls> <ls>ṚT. 1, 13. 15.</ls> 
+<div n="p">— {#pratyanu#} pass. {%Reue empfinden%}: {#yadi dattvA varO rAjanpunaH pratyanutapyase#}
+<ls>R. 2,12,36.</ls>
+<div n="p">— {#samanu#} pass. dass.: {#mohAdaDarmaM yaH kftvA punaH samanutapyate#}
+<ls>MBH. 13,5335.</ls>
+<div n="p">— {#aBi#}
+<div n="1"> 1) {%erwärmen, erhitzen; bescheinen%}
+<ls>AV. 19,28,3.</ls> {#yaTA^ sma te vi\roha^to a\Bita^ptami\vAna^ti#}
+<ls n="AV.">4,1,3.</ls> {#sarve^zu suva\rgezu^ lo\kezva^Bi\tapa^nneti#}
+<ls>TBR. 1,2,4,1.</ls> {#sa (prajApatiH) tapo 'tapyata sa tapastaptvemAM lokAnasfjata pfTivImantarikzaM divaM tAM lokAnaByatapat#} (nach
+<ls>SĀY.</ls> = {#paryAlocitavAn) teByo 'BitapteByastrIRi jyotIMzyajAyanta#}
+<ls>AIT. BR. 5,32.</ls>
+<ls>AIT. UP. 1,4. 3,2.</ls>
+<ls>CHĀND. UP. 2,23,3. 4. 7,11,1.</ls>
+<ls>BHĀG. P. 3,6,11.</ls> {#aByatapyata#} mit transit. (!) Bed.
+<ls>ŚĀṄKH. BR.</ls> in <ls>Ind. St. 2,303.</ls> {#aBitaptAM dArayanti SilAm#}
+<ls>VARĀH. BṚH. S. 53,116.</ls> {#aBitaptamayo 'pi mArdavaM Bajate#}
+<ls>RAGH. 8,43.</ls> {#yatra kvacana syandenABitapati#} ({#AdityaH#})
+<ls>BHĀG. P. 5,21,9.</ls>
+<ls>ŚAT. BR. 13,3,8,6. 11,5,8,2. fgg.</ls>
+<ls>KĀTY. ŚR. 2,5,26.</ls> {#divAkarABitapta#}
+<ls>SUŚR. 1,176,12.</ls>
+<ls>KUMĀRAS. 5,21.</ls>
+<ls>ṚT. 4,14.</ls>
+<div n="1">— 2) {%schmerzen%}: {#citrapakza Siro mAsyABitApsaMt#}
+<ls>PĀR. GṚHY. 3,6.</ls>
+<div n="1">— 3) {%durch Gluth quälen, — mitnehmen; quälen, peinigen%}; pass. {%Schmerz empfinden, leiden%}: {#vayaM rAjan jAWareRABitaptA yaTAgninA kowarasTena vfkzAH#}
+<ls>BHĀG. P. 4,17,10.</ls> {#aBitaptaH SarEH#}
+<ls>MBH. 6,5771. fg.</ls> <ls n="MBH.">5,7216.</ls> {#vyasanEraBitaptasya narasya vinaSizyataH#}
+<ls n="MBH.">13,1815.</ls> {#dvAByAmapi — SokAByAmaBitapyate#}
+<ls>R. 2,62,5.</ls> {#dvandvEreva — jagatsarvamaBitaptamidaM sadA#}
+<ls>R. GORR. 2,84,20.</ls> {#BrAturbaDABitaptena tvayA#}
+<ls>BHĀG. P. 4,11,9.</ls> {#BAryAM svAmeva tAm — parijYAyAByatapyata#}
+<ls>KATHĀS. 21,72.</ls> {#tasmAtkimaBitapyantaM vAkSarErupakfntasi#}
+<ls>MBH. 7,6555.</ls> {#aBitapta#} {%sich grämend um%} (acc.): {#strIRAm — rAmamevABitaptAnAM SuSrAva paridevanam#}
+<ls>R. 2,57,15.</ls> — caus. {%durch Gluth quälen, — mitnehmen%}: {#sa pARqavArkayugAntArkaH kurUnaByatItapat#}
+<ls>MBH. 7,1417.</ls> {#vahnitejo 'BitApitAH#}
+<ls n="MBH.">14,1742.</ls> <ls>ṚT. 1,13. 15.</ls>
 <div n="v">— Vgl. {#aBitApa#} .
-
-<div n="p">— {#ava#} {%Wärme herabstrahlen, herabscheinen%}: {#ma\hade\zAva^ tapati\ cara^ntI\ gozu\ gOrapi^#} 
-<ls>AV. 12, 4, 39.</ls> — caus. {%von oben herab erwärmen, - bescheinen%}: {#aTAvatApya pfTivIM pUzA divasasaMkzaye . jagAmAstam#} 
-<ls>MBH. 5, 7162.</ls> 
+<div n="p">— {#ava#} {%Wärme herabstrahlen, herabscheinen%}: {#ma\hade\zAva^ tapati\ cara^ntI\ gozu\ gOrapi^#}
+<ls>AV. 12,4,39.</ls> — caus. {%von oben herab erwärmen, — bescheinen%}: {#aTAvatApya pfTivIM pUzA divasasaMkzaye . jagAmAstam#}
+<ls>MBH. 5,7162.</ls>
 <div n="v">— Vgl. {#avataptenakulasTita, avatApin#} .
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {%Wärme ausstrahlen, scheinen%}: {#SaM te\ sUrya\ A ta^patu#} 
-<ls>AV. 8, 2, 14. 6, 12.</ls> {#a\gnirdi\va A ta^pati#} 
-<ls>12, 1, 20. 3, 50.</ls> <ls>VS. 31, 20.</ls> <ls>KAUŚ. 137.</ls> {#yA Atapati varzanti#} {%im Sonnenschein%} 
-<ls>ŚAT. BR. 5, 3, 4, 13. 14, 1, 1, 33.</ls> 
-<div n="1">— 2) {%erhitzen, ausglühen%}: {#AtaptajAmbUnadaBUzitANga#} 
-<ls>HARIV. 15769</ls>; vgl. u. {#tap#} 2 am Ende. 
-<div n="1">— 3) pass. 
-<div n="2"> a) {%Schmerz empfinden, - leiden%}: {#AtapyamAnahfdaye#} 
-<ls>BHĀG. P. 3, 31, 13.</ls> 
-<div n="2">— b) in Verbindung mit {#tapas#} {%sich kasteien%}: {#Atapyata - tapaH#} 
-<ls>BHĀG. P. 2, 9, 8.</ls> 
+<div n="p">— {#A#}
+<div n="1"> 1) {%Wärme ausstrahlen, scheinen%}: {#SaM te\ sUrya\ A ta^patu#}
+<ls>AV. 8,2,14.</ls> <ls n="AV. 8,">6,12.</ls> {#a\gnirdi\va A ta^pati#}
+<ls n="AV.">12,1,20.</ls> <ls n="AV. 12,">3,50.</ls> <ls>VS. 31,20.</ls> <ls>KAUŚ. 137.</ls> {#yA Atapati varzanti#} {%im Sonnenschein%}
+<ls>ŚAT. BR. 5,3,4,13.</ls> <ls n="ŚAT. BR.">14,1,1,33.</ls>
+<div n="1">— 2) {%erhitzen, ausglühen%}: {#AtaptajAmbUnadaBUzitANga#}
+<ls>HARIV. 15769</ls>; vgl. u. {#tap#} 2 am Ende.
+<div n="1">— 3) pass.
+<div n="2"> a) {%Schmerz empfinden, — leiden%}: {#AtapyamAnahfdaye#}
+<ls>BHĀG. P. 3,31,13.</ls>
+<div n="2">— b) in Verbindung mit {#tapas#} {%sich kasteien%}: {#Atapyata — tapaH#}
+<ls>BHĀG. P. 2,9,8.</ls>
 <div n="v">— Vgl. {#Atap#} fgg.
-
-<div n="p">— {#aByA#} {%es Jmd heissmachen%} d. h. {%bedrängen%}: {#a\ByAta^panti mA\GAnya\ryo va\nuzA\marA^tayaH#} 
-<ls>ṚV. 7, 83, 5.</ls>
-
-<div n="p">— {#ud#} 
-<div n="1"> 1) {%erwärmen, erhitzen%}: {#mEtrasya pARimuttapati#} 
-<ls>P. 1, 3, 27</ls>, <is>Vārtt</is>., <ls>Sch.</ls> {#mahIM vitapatyarkaH#} 
-<ls>VOP. 23, 20.</ls> {%ausglühen%}: {#uttapati suvarRaM suvarRakAraH#} 
-<ls>P. 3, 1, 88,</ls> 
-<ls>Sch.</ls> {#uttaptatAmrapraBa#} 
-<ls>RĀJA-TAR. 4, 368</ls>; vgl. u. {#tap#} 2 am Ende. Ist das zur Erkl. von {#uttapta#} 
-<ls>H. an. 3, 251</ls> gebrauchte {#caYcala#} etwa in der
+<div n="p">— {#aByA#} {%es Jmd heissmachen%} d. h. {%bedrängen%}: {#a\ByAta^panti mA\GAnya\ryo va\nuzA\marA^tayaH#}
+<ls>ṚV. 7,83,5.</ls>
+<div n="p">— {#ud#}
+<div n="1"> 1) {%erwärmen, erhitzen%}: {#mEtrasya pARimuttapati#}
+<ls>P. 1,3,27</ls>, <is>Vārtt</is>., <ls>Sch.</ls> {#mahIM vitapatyarkaH#}
+<ls>VOP. 23,20.</ls> {%ausglühen%}: {#uttapati suvarRaM suvarRakAraH#}
+<ls>P. 3,1,88</ls>, <ls>Sch.</ls>
+{#uttaptatAmrapraBa#}
+<ls>RĀJA-TAR. 4,368</ls>; vgl. u. {#tap#} 2 am Ende. Ist das zur Erkl. von {#uttapta#}
+<ls>H. an. 3,251</ls> gebrauchte {#caYcala#} etwa in der
 [Page3-0240]
-Bed. {%flüssig, geschmolzen%} zu fassen? 
-<ls>MED. t. 97</ls> hat st. dessen {#tapta#} . med. {%sich%} (ein Glied) {%wärmen%} 
-<ls>P. 1, 3, 27</ls>, <is>Vārtt</is>. {#uttapate pARim#} 
-<ls>Sch.</ls> <ls>VOP. 23, 20.</ls> intrans. 
-<ls>P. 1, 3, 27.</ls> 
-<ls>VOP. 23, 20.</ls> {#nADizRya uttaperan#} 
-<ls>LĀṬY. 3, 3, 17.</ls> {%brennen%} 
-<ls>P.</ls>, <ls>Sch.</ls> {#tIvramuttapamAno 'yamaSakyaH soQumAtapaH#} 
-<ls>BHAṬṬ. 8, 15.</ls> 
-<div n="1">— 2) {%Schmerz verursachen, quälen, peinigen, Jmd zusetzen%}: {#aniSaM nijErakaruRaH karuRaM kusumezuruttapati yadviSiKEH#} 
-<ls>ŚIŚ. 9, 67.</ls> {#kzuduttapta#} 
-<ls>RĀJA-TAR. 2, 21.</ls> {#vimAnanottapta#} 
-<ls>6, 277.</ls> {#duHKottaptaM vacaH#} so v. a. {%von Schmerz erfüllt%} 
-<ls>3, 183.</ls> {#uttapta = saMtapta#} 
-<ls>H. an.</ls> = {#paripluta#} 
-<ls>MED.</ls> — caus. {%erwärmen%}: {#yaTA cottApitaM vIjaM kapAle yatra tatra vA . prApyApyaNkurahetutvamavIjatvAnna jAyate ..#} 
-<ls>MBH. 12, 11884.</ls> 
+Bed. {%flüssig, geschmolzen%} zu fassen?
+<ls>MED. t. 97</ls> hat st. dessen {#tapta#} . med. {%sich%} (ein Glied) {%wärmen%}
+<ls>P. 1,3,27</ls>, <is>Vārtt</is>. {#uttapate pARim#}
+<ls>Sch.</ls> <ls>VOP. 23,20.</ls> intrans.
+<ls>P. 1,3,27.</ls>
+<ls>VOP. 23,20.</ls> {#nADizRya uttaperan#}
+<ls>LĀṬY. 3,3,17.</ls> {%brennen%}
+<ls>P.</ls>, <ls>Sch.</ls> {#tIvramuttapamAno 'yamaSakyaH soQumAtapaH#}
+<ls>BHAṬṬ. 8,15.</ls>
+<div n="1">— 2) {%Schmerz verursachen, quälen, peinigen, Jmd zusetzen%}: {#aniSaM nijErakaruRaH karuRaM kusumezuruttapati yadviSiKEH#}
+<ls>ŚIŚ. 9,67.</ls> {#kzuduttapta#}
+<ls>RĀJA-TAR. 2,21.</ls> {#vimAnanottapta#}
+<ls n="RĀJA-TAR.">6,277.</ls> {#duHKottaptaM vacaH#} so v. a. {%von Schmerz erfüllt%}
+<ls n="RĀJA-TAR.">3,183.</ls> {#uttapta = saMtapta#}
+<ls>H. an.</ls> = {#paripluta#}
+<ls>MED.</ls> — caus. {%erwärmen%}: {#yaTA cottApitaM vIjaM kapAle yatra tatra vA . prApyApyaNkurahetutvamavIjatvAnna jAyate ..#}
+<ls>MBH. 12,11884.</ls>
 <div n="v">— Vgl. {#uttapta, uttApa#} .
-
-<div n="p">— {#upa#} 
-<div n="1"> 1) {%erwärmen, erhitzen%}: {#tAnIzadivopatapya#} 
-<ls>ŚAT. BR. 2, 5, 2, 14.</ls> {#CAyAmupasarpanti . eteno hEtadupatapadAcakzate#} 
-<ls>11, 1, 5, 2.</ls> {#upataptodakA nadyaH#} 
-<ls>R. 2, 59, 9.</ls> 
-<div n="1">— 2) {%Schmerz fühlen, unwohl werden%}: {#AhitAgniScedupatapet#} 
-<ls>ĀŚV. GṚHY. 4, 1.</ls> {#upataptAsvanupataptAnAmAjyam#} 
-<ls>KĀTY. ŚR. 22, 3, 23.</ls> 
-<div n="1">— 3) {%über Jmd%} (gen.) {%kommen%} (von einem Unwohlsein) oder unpers. {%es wird Jmd%} (gen.) {%unwohl%}: {#sa kiM ma etadupatapasi yo 'hamanena na prezyAmi#} 
-<ls>CHĀND. UP. 3, 16, 7.</ls> {#yadi dIkzitasyopatapet#} unpers. 
-<ls>ŚAT. BR. 12, 3, 5, 2.</ls> Auch mit dem acc. der Person: {#taM cedetasminvayasi kiMcidupatapet#} 
-<ls>CHĀND. UP. 3, 16, 2. 4. 6.</ls> 
-<div n="1">— 4) pass. 
-<div n="2"> a) {%Schmerz fühlen, unwohl werden, leiden%}: {#dIkzitaScedupatapyeta#} 
-<ls>KĀTY. ŚR. 25, 13, 20.</ls> {#jvarErupatapyante#} 
-<ls>SUŚR. 1, 21, 16.</ls> {#mAnasena duHKena SarIramupatapyate . ayaHpiRqena taptena kumBasaMsTamivodakam#} (hier {%heiss werden)%} {#..#} 
-<ls>MBH. 3, 71.</ls> {#yasyAmeva kavaya AtmAnamavirataM viviDavfjinasaMsAraparitApopatapyamAnamanusavanaM snApayantaH#} 
-<ls>BHĀG. P. 5, 6, 18.</ls> {#viRmUtra° vAhinyAmupatapyante#} 
-<ls>26, 22.</ls> {#upAtapyata#} 
-(<ls>BURN.</ls>: {%fut attaqué par l'incendie%}) 
-<ls>4, 28, 12.</ls> {#gfhapatirupatapyate#} 
-<ls>VARĀH. BṚH. S. 52, 66.</ls> {#upatapyamAnamalaGUzRimaBiH SvasitEH#} 
-<ls>ŚIŚ. 9, 65.</ls> 
-<div n="2">— b) mit {#tapas#} {%Kasteiung leiden%}: {#upa^ tapyAmahe\ tapa^H#} 
-<ls>AV. 7, 61, 2. 1.</ls> — caus. 
-<div n="1"> 1) {%anzünden, verbrennen%}: {#(agne) na no^ gf\HARA\mupa^ tItapAsi#} 
-<ls>AV. 6, 32, 1.</ls> 
-<div n="1">— 2) {%Schmerz bereiten, kasteien%}: {#sa samidDe mahatyagnO SarIramupatApayan#} (als Kasteiung) 
-<ls>MBH. 3, 10708.</ls> {#manuzyA yadi vA devAH SarIramupatApya vE#} 
-<ls>13, 7563.</ls> {%es Jmd heiss machen, Jmd zusetzen, bedrängen%}: {#vizRucakropatApitaH#} 
-<ls>BHĀG. P. 9, 4, 55.</ls> {#tamapi - daRqenopatApayet#} als Erkl. von {#ozet#} 
-<ls>KULL.</ls> zu <ls>M. 9, 273.</ls> 
+<div n="p">— {#upa#}
+<div n="1"> 1) {%erwärmen, erhitzen%}: {#tAnIzadivopatapya#}
+<ls>ŚAT. BR. 2,5,2,14.</ls> {#CAyAmupasarpanti . eteno hEtadupatapadAcakzate#}
+<ls n="ŚAT. BR.">11,1,5,2.</ls> {#upataptodakA nadyaH#}
+<ls>R. 2,59,9.</ls>
+<div n="1">— 2) {%Schmerz fühlen, unwohl werden%}: {#AhitAgniScedupatapet#}
+<ls>ĀŚV. GṚHY. 4,1.</ls> {#upataptAsvanupataptAnAmAjyam#}
+<ls>KĀTY. ŚR. 22,3,23.</ls>
+<div n="1">— 3) {%über Jmd%} (gen.) {%kommen%} (von einem Unwohlsein) oder unpers. {%es wird Jmd%} (gen.) {%unwohl%}: {#sa kiM ma etadupatapasi yo 'hamanena na prezyAmi#}
+<ls>CHĀND. UP. 3,16,7.</ls> {#yadi dIkzitasyopatapet#} unpers.
+<ls>ŚAT. BR. 12,3,5,2.</ls> Auch mit dem acc. der Person: {#taM cedetasminvayasi kiMcidupatapet#}
+<ls>CHĀND. UP. 3,16,2. 4. 6.</ls>
+<div n="1">— 4) pass.
+<div n="2"> a) {%Schmerz fühlen, unwohl werden, leiden%}: {#dIkzitaScedupatapyeta#}
+<ls>KĀTY. ŚR. 25,13,20.</ls> {#jvarErupatapyante#}
+<ls>SUŚR. 1,21,16.</ls> {#mAnasena duHKena SarIramupatapyate . ayaHpiRqena taptena kumBasaMsTamivodakam#} (hier {%heiss werden)%} {#..#}
+<ls>MBH. 3,71.</ls> {#yasyAmeva kavaya AtmAnamavirataM viviDavfjinasaMsAraparitApopatapyamAnamanusavanaM snApayantaH#}
+<ls>BHĀG. P. 5,6,18.</ls> {#viRmUtra° vAhinyAmupatapyante#}
+<ls n="BHĀG. P. 5,">26,22.</ls> {#upAtapyata#}
+(<ls>BURN.</ls>: {%fut attaqué par l'incendie%})
+<ls n="BHĀG. P.">4,28,12.</ls> {#gfhapatirupatapyate#}
+<ls>VARĀH. BṚH. S. 52,66.</ls> {#upatapyamAnamalaGUzRimaBiH SvasitEH#}
+<ls>ŚIŚ. 9,65.</ls>
+<div n="2">— b) mit {#tapas#} {%Kasteiung leiden%}: {#upa^ tapyAmahe\ tapa^H#}
+<ls>AV. 7,61,2.</ls> <ls n="AV. 7,61,">1.</ls> — caus.
+<div n="1"> 1) {%anzünden, verbrennen%}: {#(agne) na no^ gf\HARA\mupa^ tItapAsi#}
+<ls>AV. 6,32,1.</ls>
+<div n="1">— 2) {%Schmerz bereiten, kasteien%}: {#sa samidDe mahatyagnO SarIramupatApayan#} (als Kasteiung)
+<ls>MBH. 3,10708.</ls> {#manuzyA yadi vA devAH SarIramupatApya vE#}
+<ls n="MBH.">13,7563.</ls> {%es Jmd heiss machen, Jmd zusetzen, bedrängen%}: {#vizRucakropatApitaH#}
+<ls>BHĀG. P. 9,4,55.</ls> {#tamapi — daRqenopatApayet#} als Erkl. von {#ozet#}
+<ls>KULL.</ls> zu <ls>M. 9,273.</ls>
 <div n="v">— Vgl. {#upatapant#} fgg.
-
-<div n="p">— {#samupa#} pass. {%Schmerz empfinden%}: {#arTaDarmopaGAtAdDi manaH samupatapyate#} 
-<ls>MBH. 2, 856.</ls>
-
-<div n="p">— {#ni#} {%Gluth herabstrahlen%}: {#tadAhurniSocati nitapati varzizyati vA iti#} 
-<ls>CHĀND. UP. 7, 11, 1.</ls> {%niederbrennen%}: {#dvi\za\to ni\tapa^n#} 
-<ls>AV. 19, 28, 3.</ls>
-
-<div n="p">— {#nis#} ({#sa#} wird {#za#} nach 
-<ls>P. 8, 3, 102</ls>, wenn nicht von einer stets wiederkehrenden Handlung die Rede geht) 
-<div n="1"> 1) {%versengen%}: {#nizwa^pta\M rakzo\ nizwa^ptA\ arA^tayaH#} 
-<ls>VS. 1, 7.</ls> {#nizwaptEkadeSA bahavo nizwaptASca taTApare#} 
-<ls>MBH. 1, 8215.</ls> 
-<div n="1">— 2) {%ausglühen, bähen%}: {#yaTA hiraRyaM nizwapedevamenamagnizwunnizwapati#} 
-<ls>PAÑCAV. BR. 17, 6. 2, 17.</ls> {#nizwapati suvarRam#} (von einer einmaligen Handlung), aber {#nistapati suvarRaM suvarRakAraH#} 
-<ls>P.</ls>, <ls>Sch.</ls> {#nizwaptakanakapraBa#} 
-<ls>MBH. 6, 228. 13, 833. 15, 670.</ls> 
-<ls>R. 3, 58, 33.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 198, 23.</ls> {#(agnO) u\pa\vyu\zama\raRI\ nizwa^pet#} 
-<ls>TBR. 1, 1, 9, 9. 2, 1, 3, 5.</ls> {#taM nizwapantaM tapasA Darmam#} {%ausglühen%} so v. a. {%läutern, von den Schlacken befreien%} 
-<ls>MBH. 7, 9458.</ls> 
-<div n="1">— 3) {%erwärmen%}: {#yastu sUryeRa nizwaptaM gANgeyaM pibate jalam#} 
-<ls>MBH. 13, 1796.</ls> {#sunizwaptaGftAvasikta#} 
-<ls>HARIV. 8440.</ls> {%gar braten, rösten%}: {#idaM (mAMsaM) meDyamidaM svAdu nizwaptamagninA#} 
-<ls>R. 2, 97, 2.</ls> {#taM (kfzRamfgaM) tu pakvaM samAjYAya nizwaptaM CinnaSoRitam#}
+<div n="p">— {#samupa#} pass. {%Schmerz empfinden%}: {#arTaDarmopaGAtAdDi manaH samupatapyate#}
+<ls>MBH. 2,856.</ls>
+<div n="p">— {#ni#} {%Gluth herabstrahlen%}: {#tadAhurniSocati nitapati varzizyati vA iti#}
+<ls>CHĀND. UP. 7,11,1.</ls> {%niederbrennen%}: {#dvi\za\to ni\tapa^n#}
+<ls>AV. 19,28,3.</ls>
+<div n="p">— {#nis#} ({#sa#} wird {#za#} nach
+<ls>P. 8,3,102</ls>, wenn nicht von einer stets wiederkehrenden Handlung die Rede geht)
+<div n="1"> 1) {%versengen%}: {#nizwa^pta\M rakzo\ nizwa^ptA\ arA^tayaH#}
+<ls>VS. 1,7.</ls> {#nizwaptEkadeSA bahavo nizwaptASca taTApare#}
+<ls>MBH. 1,8215.</ls>
+<div n="1">— 2) {%ausglühen, bähen%}: {#yaTA hiraRyaM nizwapedevamenamagnizwunnizwapati#}
+<ls>PAÑCAV. BR. 17,6. 2,17.</ls> {#nizwapati suvarRam#} (von einer einmaligen Handlung), aber {#nistapati suvarRaM suvarRakAraH#}
+<ls>P.</ls>, <ls>Sch.</ls> {#nizwaptakanakapraBa#}
+<ls>MBH. 6,228.</ls> <ls n="MBH.">13,833.</ls> <ls n="MBH.">15,670.</ls>
+<ls>R. 3,58,33.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 198,23.</ls> {#(agnO) u\pa\vyu\zama\raRI\ nizwa^pet#}
+<ls>TBR. 1,1,9,9. 2,1,3,5.</ls> {#taM nizwapantaM tapasA Darmam#} {%ausglühen%} so v. a. {%läutern, von den Schlacken befreien%}
+<ls>MBH. 7,9458.</ls>
+<div n="1">— 3) {%erwärmen%}: {#yastu sUryeRa nizwaptaM gANgeyaM pibate jalam#}
+<ls>MBH. 13,1796.</ls> {#sunizwaptaGftAvasikta#}
+<ls>HARIV. 8440.</ls> {%gar braten, rösten%}: {#idaM (mAMsaM) meDyamidaM svAdu nizwaptamagninA#}
+<ls>R. 2,97,2.</ls> {#taM (kfzRamfgaM) tu pakvaM samAjYAya nizwaptaM CinnaSoRitam#}
 [Page3-0241]
-
-<ls>56, 23.</ls> {#taM mfgaM suSftaM kftvA sunizwaptaM ca#} 
-<ls>R. GORR. 2, 56, 25.</ls> {#nizwaptaSUlyAn SakalAnpaSUMSca#} 
-<ls>HARIV. 8439.</ls> 
+<ls n="R. 2,">56,23.</ls> {#taM mfgaM suSftaM kftvA sunizwaptaM ca#}
+<ls>R. GORR. 2,56,25.</ls> {#nizwaptaSUlyAn SakalAnpaSUMSca#}
+<ls>HARIV. 8439.</ls>
 <div n="v">— Vgl. {#nizwaptar#} .
-
-<div n="p">— {#vinis#} {%gar braten, rösten%}: {#(matsyAn) pakvAnvinizwaptAn#} 
-<ls>R. 3, 76, 10.</ls>
-
-<div n="p">— {#pari#} 
-<div n="1"> 1) {%mit Gluth umgeben, umglühen%}: {#tvayA\ sarve\ pari^taptAH pu\rastA\tta A ya^ntu#} 
-<ls>AV. 1, 7, 5.</ls> {%in Flammen setzen%}: {#yatpurA daRqakAraRye sarvAH paritapandiSaH#} 
-<ls>R. 3, 35, 15.</ls> {%anschüren%} (ein Feuer): {#Ga\rmaM pari^tapta\matra^ye#} 
-<ls>ṚV. 1, 119, 6.</ls> 
-<div n="1">— 2) {%Schmerz empfinden, leiden%}: {#nihatajYAtibAnDavAH . striyaH paritapizyanti#} 
-<ls>MBH. 11, 751.</ls> {#paritapsyati#} 
-<ls>R. 2, 66, 7.</ls> {#idaM ca - na cettvamevaM kartA paritaptAsi paScAt#} 
-<ls>MBH. 3, 230.</ls> {%sich der Askese unterwerfen%}: {#tvaM tapa^H pari\tapyA^jaya\H sva^H#} 
-<ls>ṚV. 10, 167, 1.</ls> 
-<div n="1">— 3) pass. {%Schmerzempfinden, leiden%}: {#paryatapyata duHKena#} 
-<ls>MBH. 3, 9916.</ls> {#mUrKaBAvakftenAntarmanyunA paryatapyata#} 
-<ls>KATHĀS. 2, 59.</ls> {#paryatapyata tatpApaM kftvA#} 
-<ls>MBH. 1, 1747. 1749. 3079</ls> (Gegens. {#tuzwo Bavati#}). 
-<ls>5654. 8441.</ls> <ls>R. 2, 8, 17. 22, 6. 53, 31. 69, 2. 74, 21.</ls> <ls>KATHĀS. 10, 101.</ls> <ls>BHĀG. P. 1, 7, 15. 4, 3, 20.</ls> <ls>RĀJA-TAR. 4, 550.</ls> {#aDvagAH paritapyeyuruzRataH#} 
-<ls>MBH. 14, 1070.</ls> {#alABena taTASvasya paritapyAmi#} 
-<ls>3, 8897.</ls> {#paryatapyadruzA SucA#} 
-<ls>BHĀG. P. 7, 2, 1.</ls> {#taM SApamanusaMsmftya paryatapyadBfSam#} 
-<ls>MBH. 1, 6911.</ls> 
-<ls>R. 4, 18, 32.</ls> 
-<ls>DAŚ. 2, 16.</ls> 
-<ls>BHĀG. P. 8, 16, 1.</ls> {#anuSayaparitaptahfdaya#} 
-<ls>ŚĀK. 85, 15, v. l.</ls> {%sich kasteien%}: {#ugraM sa tapa AsTAya - sUryeRa saha DarmAtmA paryatapyata#} 
-<ls>MBH. 1, 4784.</ls> — caus. {%Jmd Schmerz bereiten, leiden machen, peinigen%}: {#yaScApi hi tapaHSlAGI na manaH paritApayet#} 
-<ls>R. 5, 86, 9.</ls> {#GarmeRa paritApitaSarIraH#} 
-<ls>PAÑCAT. 162, 12.</ls> {#kaM svIkftA na vizayAH paritApayanti#} 
-<ls>HIT. III, 116.</ls> 
+<div n="p">— {#vinis#} {%gar braten, rösten%}: {#(matsyAn) pakvAnvinizwaptAn#}
+<ls>R. 3,76,10.</ls>
+<div n="p">— {#pari#}
+<div n="1"> 1) {%mit Gluth umgeben, umglühen%}: {#tvayA\ sarve\ pari^taptAH pu\rastA\tta A ya^ntu#}
+<ls>AV. 1,7,5.</ls> {%in Flammen setzen%}: {#yatpurA daRqakAraRye sarvAH paritapandiSaH#}
+<ls>R. 3,35,15.</ls> {%anschüren%} (ein Feuer): {#Ga\rmaM pari^tapta\matra^ye#}
+<ls>ṚV. 1,119,6.</ls>
+<div n="1">— 2) {%Schmerz empfinden, leiden%}: {#nihatajYAtibAnDavAH . striyaH paritapizyanti#}
+<ls>MBH. 11,751.</ls> {#paritapsyati#}
+<ls>R. 2,66,7.</ls> {#idaM ca — na cettvamevaM kartA paritaptAsi paScAt#}
+<ls>MBH. 3,230.</ls> {%sich der Askese unterwerfen%}: {#tvaM tapa^H pari\tapyA^jaya\H sva^H#}
+<ls>ṚV. 10,167,1.</ls>
+<div n="1">— 3) pass. {%Schmerzempfinden, leiden%}: {#paryatapyata duHKena#}
+<ls>MBH. 3,9916.</ls> {#mUrKaBAvakftenAntarmanyunA paryatapyata#}
+<ls>KATHĀS. 2,59.</ls> {#paryatapyata tatpApaM kftvA#}
+<ls>MBH. 1,1747.</ls> <ls n="MBH. 1,">1749.</ls> <ls n="MBH. 1,">3079</ls> (Gegens. {#tuzwo Bavati#}).
+<ls n="MBH. 1,">5654.</ls> <ls n="MBH. 1,">8441.</ls> <ls>R. 2,8,17.</ls> <ls n="R. 2,">22,6.</ls> <ls n="R. 2,">53,31.</ls> <ls n="R. 2,">69,2.</ls> <ls n="R. 2,">74,21.</ls> <ls>KATHĀS. 10,101.</ls> <ls>BHĀG. P. 1,7,15.</ls> <ls n="BHĀG. P.">4,3,20.</ls> <ls>RĀJA-TAR. 4,550.</ls> {#aDvagAH paritapyeyuruzRataH#}
+<ls>MBH. 14,1070.</ls> {#alABena taTASvasya paritapyAmi#}
+<ls n="MBH.">3,8897.</ls> {#paryatapyadruzA SucA#}
+<ls>BHĀG. P. 7,2,1.</ls> {#taM SApamanusaMsmftya paryatapyadBfSam#}
+<ls>MBH. 1,6911.</ls>
+<ls>R. 4,18,32.</ls>
+<ls>DAŚ. 2,16.</ls>
+<ls>BHĀG. P. 8,16,1.</ls> {#anuSayaparitaptahfdaya#}
+<ls>ŚĀK. 85,15, v. l.</ls> {%sich kasteien%}: {#ugraM sa tapa AsTAya — sUryeRa saha DarmAtmA paryatapyata#}
+<ls>MBH. 1,4784.</ls> — caus. {%Jmd Schmerz bereiten, leiden machen, peinigen%}: {#yaScApi hi tapaHSlAGI na manaH paritApayet#}
+<ls>R. 5,86,9.</ls> {#GarmeRa paritApitaSarIraH#}
+<ls>PAÑCAT. 162,12.</ls> {#kaM svIkftA na vizayAH paritApayanti#}
+<ls>HIT. III,116.</ls>
 <div n="v">— Vgl. {#paritApa#} .
-
-<div n="p">— {#vipari#} pass. {%starken Schmerz empfinden, heftig leiden%}: {#yasyA mamABizekArTaM mano viparitapyate#} 
-<ls>R. GORR. 2, 19, 3.</ls>
-
-<div n="p">— {#paScAt#} {%hinterher Schmerz empfinden, Reue fühlen%}: {#tadA paScAttapsyase#} 
-<ls>MBH. 8, 1795.</ls> 
+<div n="p">— {#vipari#} pass. {%starken Schmerz empfinden, heftig leiden%}: {#yasyA mamABizekArTaM mano viparitapyate#}
+<ls>R. GORR. 2,19,3.</ls>
+<div n="p">— {#paScAt#} {%hinterher Schmerz empfinden, Reue fühlen%}: {#tadA paScAttapsyase#}
+<ls>MBH. 8,1795.</ls>
 <div n="v">— Vgl. {#paScAttApa#} .
-
-<div n="p">— {#pra#} 
-<div n="1"> 1) {%Gluth ausstrahlen, heiss sein, brennen, scheinen%} (von der Sonne): {#BAsAstavogrAH pratapanti vizRo#} 
-<ls>BHAG. 11, 30.</ls> {#yAvatsUryaH pratapati#} 
-<ls>R. 3, 75, 71. 4, 5, 26.</ls> 
-<ls>VARĀH. BṚH. S. 27</ls>, {%c%}, 
-<ls>3.</ls> {#sUryaH pratapatAM SrezWaH#} 
-<ls>MBH. 4, 42.</ls> {#BAskaraH pratapizyati#} 
-<ls>3, 13086.</ls> {#dvitIyasyeva sUryasya yugAnte pratapizyataH#} 
-<ls>881.</ls> {#na sma sUryaH pratapate#} (med. stört das Metrum) {#SarajAlasamAvftaH#} 
-<ls>5, 7194.</ls> {#pratapantamivAdityaM rAjye sTitama riMdamam#} 
-<ls>R. 2, 105, 9.</ls> 
-<ls>BHĀG. P. 4, 16, 6. 22, 56.</ls> {#kzatriyARAM pratapatAM tejasA ca balena ca#} 
-<ls>MBH. 13, 2125. 3038.</ls> 
-<div n="1">— 2) {%wärmen, erhitzen, warm machen, bescheinen%}: {#(AdityaH) vasuDAtalamarDenEva pratapatyarDenAvacCAdayati#} 
-<ls>BHĀG. P. 5, 1, 30. 2, 6, 16.</ls> {#lohamivAprataptam#} 
-<ls>6, 16, 24.</ls> {#vapAm#} 
-<ls>ŚAT. BR. 3, 8, 2, 18.</ls> {#pARI#} 
-<ls>PĀR. GṚHY. 2, 4.</ls> 
-<ls>KAUŚ. 27.</ls> 
-<ls>KĀTY. ŚR. 2, 6, 46. 47. 4, 14, 7.</ls> {%braten, rösten%}: {#mAMsam#} 
-<ls>SUŚR. 1, 230, 17.</ls> 
-<ls>R. 2, 91, 65. (GORR. 100, 63).</ls> {%ausglühen%} (Gold): {#prataptakAYcana#} 
-<ls>BHAVIṢYOTTARA-P.</ls> in <ls>Z. d. d. m. G. 6, 94, 6.</ls> {#prataptottamakuRqala (pratapta = prataptakAYcana)#} 
-<ls>R. 5, 14, 4.</ls> {#pratapta#} {%heiss%}: {#yudDa#} 
-<ls>MBH. 14, 2139.</ls> 
-<div n="1">— 3) {%anzünden, erhellen%}: {#pra\tapa\M jyoti^zA\ tama^H#} 
-<ls>ṚV. 9, 108, 12.</ls> 
-<div n="1">— 4) {%Schmerz empfinden, leiden%}: {#muhUrtaM pratatApa ca#} 
-<ls>R. 2, 12, 1.</ls> {%sich kasteien%}: {#pratapatAM varaH#} 
-<ls>1, 67, 8.</ls> 
-<div n="1">— 5) {%durch Gluth peinigen, es Jmd heiss machen, zusetzen, quälen%}: {#ravipratapta#} ({#dvipendra#}) 
-<ls>ŚĀK. 102.</ls> {#pratapantaM raRe ripUn#} 
-<ls>MBH. 6, 5567.</ls> pass. {%Schmerz empfinden, leiden%}: {#BagnayAcYA - pratapyate#} 
-<ls>BHĀG. P. 5, 18, 21.</ls> — caus. 
-<div n="1"> 1) {%wärmen, erhitzen%}: {#pratApya#} 
-<ls>GOBH. 3, 7, 13. 4, 8, 9.</ls> 
-<ls>ĀŚV. GṚHY. 1, 11.</ls> 
-<ls>KAUŚ. 133.</ls> {#agnO na ca pAdO pratApayet#} 
-<ls>M. 4, 53.</ls> 
-<ls>YĀJÑ. 1, 137.</ls> {#pratApaya suviSrabDaH svagAtrARi#} 
-<ls>MBH. 12, 5535</ls> ({#pratApayasva viSrabDaM sva°#} 
-<ls>PAÑCAT. III, 167</ls>). {#nigaqErlOhEragnipratApitEH#} 
-<ls>MĀRK. P. 14, 60.</ls> {#tayostapaH praBAveRa dIrGakAlaM pratApitaH . DUmaM mumuce vinDyaH#} 
-<ls>MBH.1, 7628.</ls>
+<div n="p">— {#pra#}
+<div n="1"> 1) {%Gluth ausstrahlen, heiss sein, brennen, scheinen%} (von der Sonne): {#BAsAstavogrAH pratapanti vizRo#}
+<ls>BHAG. 11,30.</ls> {#yAvatsUryaH pratapati#}
+<ls>R. 3,75,71.</ls> <ls n="R.">4,5,26.</ls>
+<ls>VARĀH. BṚH. S. 27</ls>, {%c%},
+<ls n="VARĀH. BṚH. S.">3.</ls> {#sUryaH pratapatAM SrezWaH#}
+<ls>MBH. 4,42.</ls> {#BAskaraH pratapizyati#}
+<ls n="MBH.">3,13086.</ls> {#dvitIyasyeva sUryasya yugAnte pratapizyataH#}
+<ls n="MBH. 3,">881.</ls> {#na sma sUryaH pratapate#} (med. stört das Metrum) {#SarajAlasamAvftaH#}
+<ls n="MBH.">5,7194.</ls> {#pratapantamivAdityaM rAjye sTitama riMdamam#}
+<ls>R. 2,105,9.</ls>
+<ls>BHĀG. P. 4,16,6.</ls> <ls n="BHĀG. P. 4,">22,56.</ls> {#kzatriyARAM pratapatAM tejasA ca balena ca#}
+<ls>MBH. 13,2125.</ls> <ls n="MBH. 13,">3038.</ls>
+<div n="1">— 2) {%wärmen, erhitzen, warm machen, bescheinen%}: {#(AdityaH) vasuDAtalamarDenEva pratapatyarDenAvacCAdayati#}
+<ls>BHĀG. P. 5,1,30.</ls> <ls n="BHĀG. P.">2,6,16.</ls> {#lohamivAprataptam#}
+<ls n="BHĀG. P.">6,16,24.</ls> {#vapAm#}
+<ls>ŚAT. BR. 3,8,2,18.</ls> {#pARI#}
+<ls>PĀR. GṚHY. 2,4.</ls>
+<ls>KAUŚ. 27.</ls>
+<ls>KĀTY. ŚR. 2,6,46. 47. 4,14,7.</ls> {%braten, rösten%}: {#mAMsam#}
+<ls>SUŚR. 1,230,17.</ls>
+<ls>R. 2,91,65.</ls> (GORR. <ls n="GORR. 2,">100,63</ls>). {%ausglühen%} (Gold): {#prataptakAYcana#}
+<ls>BHAVIṢYOTTARA-P.</ls> in <ls>Z. d. d. m. G. 6,94,6.</ls> {#prataptottamakuRqala (pratapta = prataptakAYcana)#}
+<ls>R. 5,14,4.</ls> {#pratapta#} {%heiss%}: {#yudDa#}
+<ls>MBH. 14,2139.</ls>
+<div n="1">— 3) {%anzünden, erhellen%}: {#pra\tapa\M jyoti^zA\ tama^H#}
+<ls>ṚV. 9,108,12.</ls>
+<div n="1">— 4) {%Schmerz empfinden, leiden%}: {#muhUrtaM pratatApa ca#}
+<ls>R. 2,12,1.</ls> {%sich kasteien%}: {#pratapatAM varaH#}
+<ls n="R.">1,67,8.</ls>
+<div n="1">— 5) {%durch Gluth peinigen, es Jmd heiss machen, zusetzen, quälen%}: {#ravipratapta#} ({#dvipendra#})
+<ls>ŚĀK. 102.</ls> {#pratapantaM raRe ripUn#}
+<ls>MBH. 6,5567.</ls> pass. {%Schmerz empfinden, leiden%}: {#BagnayAcYA — pratapyate#}
+<ls>BHĀG. P. 5,18,21.</ls> — caus.
+<div n="1"> 1) {%wärmen, erhitzen%}: {#pratApya#}
+<ls>GOBH. 3,7,13. 4,8,9.</ls>
+<ls>ĀŚV. GṚHY. 1,11.</ls>
+<ls>KAUŚ. 133.</ls> {#agnO na ca pAdO pratApayet#}
+<ls>M. 4,53.</ls>
+<ls>YĀJÑ. 1,137.</ls> {#pratApaya suviSrabDaH svagAtrARi#}
+<ls>MBH. 12,5535</ls> ({#pratApayasva viSrabDaM sva°#}
+<ls>PAÑCAT. III,167</ls>). {#nigaqErlOhEragnipratApitEH#}
+<ls>MĀRK. P. 14,60.</ls> {#tayostapaH praBAveRa dIrGakAlaM pratApitaH . DUmaM mumuce vinDyaH#}
+<ls>MBH. 1,7628.</ls>
 [Page3-0242]
-
-<div n="1">— 2) {%erhellen, in Flammen setzen%}: {#vidiSaH kAScidarkapratApitAH#} 
-<ls>R. 4, 60, 16.</ls> {#pratApya SaracarzeRa diSaH sarvAH#} . 
-<div n="1">— 3) {%durch Gluth verzehren, - peinigen; bedrängen, es Jmd heiss machen, zusetzen, peinigen%}: {#pratApya pfTivIM sarvAM raSmivAniva tejasA#} 
-<ls>MBH. 4, 550. 5, 2056.</ls> {#pratApya lokAniva kAlasUryo droRaH#} 
-<ls>7, 252.</ls> {#pratApyamAnAH sUryeRa hanyamAnASca sAyakEH#} 
-<ls>5067.</ls> <ls>R. 2, 74, 20.</ls> {#kroSanti kuYjarAScAtra SaravarzapratApitAH#} 
-<ls>MBH. 6, 3103.</ls> {#pratApyArIn#} 
-<ls>7, 2462. 8, 1795.</ls> <ls>HARIV. 6450.</ls> <ls>BHĀG. P. 7, 4, 12.</ls> 
+<div n="1">— 2) {%erhellen, in Flammen setzen%}: {#vidiSaH kAScidarkapratApitAH#}
+<ls>R. 4,60,16.</ls> {#pratApya SaracarzeRa diSaH sarvAH#} .
+<div n="1">— 3) {%durch Gluth verzehren, — peinigen; bedrängen, es Jmd heiss machen, zusetzen, peinigen%}: {#pratApya pfTivIM sarvAM raSmivAniva tejasA#}
+<ls>MBH. 4,550.</ls> <ls n="MBH.">5,2056.</ls> {#pratApya lokAniva kAlasUryo droRaH#}
+<ls n="MBH.">7,252.</ls> {#pratApyamAnAH sUryeRa hanyamAnASca sAyakEH#}
+<ls n="MBH. 7,">5067.</ls> <ls>R. 2,74,20.</ls> {#kroSanti kuYjarAScAtra SaravarzapratApitAH#}
+<ls>MBH. 6,3103.</ls> {#pratApyArIn#}
+<ls n="MBH.">7,2462.</ls> <ls n="MBH.">8,1795.</ls> <ls>HARIV. 6450.</ls> <ls>BHĀG. P. 7,4,12.</ls>
 <div n="v">— Vgl. {#pratApa#} fgg.
-
-<div n="p">— {#aBipra#}, partic. {#°tapta#} 
-<div n="1"> 1) {%gedörrt%} 
-<ls>SUŚR. 1, 158, 12.</ls> 
-<div n="1">— 2) {%Schmerzen leidend, vor Schmerz vergehend%} 
-<ls>R. 2, 21, 54.</ls>
-
-<div n="p">— {#saMpra#}, partic. {#°tapta#} {%Schmerzen leidend%} 
-<ls>SUŚR. 1, 70, 17.</ls> {#susaMpratapta#} {%stark gedrängt, - mitgenommen%} 
-<ls>KĀM. NĪTIS. 9, 77.</ls>
-
-<div n="p">— {#prati#} 
-<div n="1"> 1) {%Gluth ausstrahlen gegen%}: {#agne\ yatte\ tapa\stena\ taM prati^ tapa#} 
-<ls>AV. 2, 19, 1.</ls> {#tadDyeza prati tejizWaM tapati#} 
-<ls>PAÑCAV. BR. 23, 16.</ls> 
-<div n="1">— 2) {%warm machen, bähen%}: {#apaH#} 
-<ls>ŚĀṄKH. ŚR. 2, 8, 11. 16. 10, 5. 17, 1.</ls> {#araRI#} 
-<ls>GṚHY. 5, 1.</ls> <ls>ŚR. 2, 17, 3.</ls>
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) med. intrans. 
-<ls>P. 1, 3, 27.</ls> 
-<ls>VOP. 23, 20.</ls> {%brennen%} 
-<ls>P.</ls>, <ls>Sch.</ls> {#ravirvitapate 'tyarTam#} 
-<ls>BHAṬṬ. 8, 14.</ls> {%sich%} (ein Glied) {%wärmen%} 
-<ls>P. 1, 3, 27</ls>, <is>Vārtt</is>. {#vitapate pARim#} 
-<ls>Sch.</ls> <ls>VOP.</ls> 
-<div n="1">— 2) {%auseinanderdrängen, durchdringen, zerreissen%} (Gegens. von {#sam)H vi\tapa\nnarA^tim#} 
-<ls>AV. 12, 2, 45.</ls> {#vi roda^sI atapa\dGoza^ ezAm#} 
-<ls>ṚV. 3, 31, 10.</ls> {#pa\ra\SuM cidvi ta^pati Simba\laM ci\dvi vf^Scati#} 
-<ls n="ṚV. 3,">53, 22.</ls> — caus. {%erhitzen%}: {#SilAyAH prasPowanaM vahnivitApitAyAH#} 
-<ls>VARĀH. BṚH. S. 53, 115.</ls>
-
-<div n="p">— {#pravi#} {%durch Gluth verzehren, - peinigen%}: {#uzRapravitaptakAya#} 
-<ls>KĀM. NĪTIS. 15, 9.</ls>
-
-<div n="p">— {#sam#} 
-<div n="1"> 1) {%erhitzen%}: {#saMtaptameva taM (SElendraM) nityaM savitrA tigmaraSmiBiH#} 
-<ls>R. 4, 44, 26.</ls> {#agnisaMtaptaH snehaH#} 
-<ls>SUŚR. 1, 36, 19.</ls> {#saMtaptAyas#} 
-<ls>BHARTṚ. 2, 57.</ls> {#saMtaptacAmIkara#} {%ausgeglüht%} 
-<ls>BHAṬṬ. 3, 3.</ls> {#saMtaptarajata (= galita#} {%geschmolzen%} 
-<ls>Sch.</ls>) <ls>VARĀH. BṚH. S. 32, 10.</ls> {%ausdörren%}: {#vanadAhAgnisaMtaptaM gUQo 'gniriva pAdapam (saMtApayati)#} 
-<ls>R. 2, 85, 17.</ls> pass. impers. {%Einem heiss werden%}: {#yadA vE striyE ca puMsaSca saMtapyate 'Ta retaH sicyate#} 
-<ls>ŚAT. BR. 3, 5, 3, 16.</ls> 
-<div n="1">— 2) {%Schmerz empfinden, Reue fühlen%}: {#kOravyasEnyasya dIryamARasya saMyuge . SrutvA virAvaM bahuDA saMtapsyati#} 
-<ls>MBH. 7, 4731.</ls> {#dattvApi DanaM kAle saMtapatyupakAriRe#} 
-<ls>12, 6035.</ls> {#kftvA pApaM hi saMtapya tasmAtpApAtpramucyate#} 
-<ls>M. 11, 230.</ls> 
-<div n="1">— 3) {%durch Gluth quälen, Schmerz bereiten, quälen, peinigen%}; pass. {%Schmerz —, Leid empfinden, leiden%}: {#vahnisaMtaptadeha#} 
-<ls>ṚT. 1, 27.</ls> {#janmamaraRAdisaMsArAnalasaMtapta#} 
-<ls>VEDĀNTAS. (Allah.) No. 19.</ls> {#arkadavAnalAnilEH saMtapyamAnaH#} 
-<ls>BHĀG. P. 3, 30, 23.</ls> {#kAmAgnineva saMtaptaH#} 
-<ls>VID. 10.</ls> {#nAnAvyayEH - saMtapyate 'narTaSatESca mAnavaH#} 
-<ls>VARĀH. BṚH. S. 104, 18.</ls> {#Siro'BitApasaMtapta#} 
-<ls>SĀV. 5, 69.</ls> {#hfcCayena ca saMtaptAm#} 
-<ls>MBH. 3, 1860.</ls> 
-<ls>R. 3, 22, 36.</ls> {#SokasaMtapta#} 
-<ls>1, 1, 52. 54, 9. 2, 21, 22.</ls> <ls>MBH. 3, 2376.</ls> {#santaH saMtapyante na te vipadA#} 
-<ls>BHARTṚ. 2, 84.</ls> {#divApi mayi nizkrAnte saMtapyete gurU mama#} 
-<ls>SĀV. 5, 83.</ls> 
-<ls>MBH. 1, 8433.</ls> 
-<ls>R. 2, 8, 15. 45, 10. 3, 46, 10. 5, 71, 2.</ls> {#saMtapyamAnamanas#} 
-<ls>VIKR. 46.</ls> {#taTA hi saMtapyati#} 
-<ls>DRAUP. 6, 3.</ls> {#saMtaptAni ca BUtAni vizAdaM jagmuruttamam#} 
-<ls>MBH. 5, 7286.</ls> {#saMtaptahfdaya#} 
-<ls>R. 1, 57, 1.</ls> {#saMtaptAnAM tvamasi SaraRam#} 
-<ls>MEGH. 7.</ls> 
-<ls>AK. 3, 2, 52.</ls> {%sich kasteien%}: {#SataSaNge tApasaH samatapyata#} 
-<ls>MBH. 1, 4639.</ls> 
-<ls>R. 1, 63, 26.</ls> 
-<div n="1">— 4) {%einklemmen, drücken, bedrängen%} (Gegens. {#vi)H fta^sya dvArO\ mA mA\ saM tA^ptam#} 
-<ls>VS. 5, 33.</ls> {#saM mA^ tapantya\Bita^H sa\patnI^riva\ #}
+<div n="p">— {#aBipra#}, partic. {#°tapta#}
+<div n="1"> 1) {%gedörrt%}
+<ls>SUŚR. 1,158,12.</ls>
+<div n="1">— 2) {%Schmerzen leidend, vor Schmerz vergehend%}
+<ls>R. 2,21,54.</ls>
+<div n="p">— {#saMpra#}, partic. {#°tapta#} {%Schmerzen leidend%}
+<ls>SUŚR. 1,70,17.</ls> {#susaMpratapta#} {%stark gedrängt, — mitgenommen%}
+<ls>KĀM. NĪTIS. 9,77.</ls>
+<div n="p">— {#prati#}
+<div n="1"> 1) {%Gluth ausstrahlen gegen%}: {#agne\ yatte\ tapa\stena\ taM prati^ tapa#}
+<ls>AV. 2,19,1.</ls> {#tadDyeza prati tejizWaM tapati#}
+<ls>PAÑCAV. BR. 23,16.</ls>
+<div n="1">— 2) {%warm machen, bähen%}: {#apaH#}
+<ls>ŚĀṄKH. ŚR. 2,8,11. 16. 10,5. 17,1.</ls> {#araRI#}
+<ls>GṚHY. 5,1.</ls> <ls>ŚR. 2,17,3.</ls>
+<div n="p">— {#vi#}
+<div n="1"> 1) med. intrans.
+<ls>P. 1,3,27.</ls>
+<ls>VOP. 23,20.</ls> {%brennen%}
+<ls>P.</ls>, <ls>Sch.</ls> {#ravirvitapate 'tyarTam#}
+<ls>BHAṬṬ. 8,14.</ls> {%sich%} (ein Glied) {%wärmen%}
+<ls>P. 1,3,27</ls>, <is>Vārtt</is>. {#vitapate pARim#}
+<ls>Sch.</ls> <ls>VOP.</ls>
+<div n="1">— 2) {%auseinanderdrängen, durchdringen, zerreissen%} (Gegens. von {#sam)H vi\tapa\nnarA^tim#}
+<ls>AV. 12,2,45.</ls> {#vi roda^sI atapa\dGoza^ ezAm#}
+<ls>ṚV. 3,31,10.</ls> {#pa\ra\SuM cidvi ta^pati Simba\laM ci\dvi vf^Scati#}
+<ls n="ṚV. 3,">53,22.</ls> — caus. {%erhitzen%}: {#SilAyAH prasPowanaM vahnivitApitAyAH#}
+<ls>VARĀH. BṚH. S. 53,115.</ls>
+<div n="p">— {#pravi#} {%durch Gluth verzehren, — peinigen%}: {#uzRapravitaptakAya#}
+<ls>KĀM. NĪTIS. 15,9.</ls>
+<div n="p">— {#sam#}
+<div n="1"> 1) {%erhitzen%}: {#saMtaptameva taM (SElendraM) nityaM savitrA tigmaraSmiBiH#}
+<ls>R. 4,44,26.</ls> {#agnisaMtaptaH snehaH#}
+<ls>SUŚR. 1,36,19.</ls> {#saMtaptAyas#}
+<ls>BHARTṚ. 2,57.</ls> {#saMtaptacAmIkara#} {%ausgeglüht%}
+<ls>BHAṬṬ. 3,3.</ls> {#saMtaptarajata#} (= {#galita#} {%geschmolzen%}
+<ls>Sch.</ls>) <ls>VARĀH. BṚH. S. 32,10.</ls> {%ausdörren%}: {#vanadAhAgnisaMtaptaM gUQo 'gniriva pAdapam (saMtApayati)#}
+<ls>R. 2,85,17.</ls> pass. impers. {%Einem heiss werden%}: {#yadA vE striyE ca puMsaSca saMtapyate 'Ta retaH sicyate#}
+<ls>ŚAT. BR. 3,5,3,16.</ls>
+<div n="1">— 2) {%Schmerz empfinden, Reue fühlen%}: {#kOravyasEnyasya dIryamARasya saMyuge . SrutvA virAvaM bahuDA saMtapsyati#}
+<ls>MBH. 7,4731.</ls> {#dattvApi DanaM kAle saMtapatyupakAriRe#}
+<ls n="MBH.">12,6035.</ls> {#kftvA pApaM hi saMtapya tasmAtpApAtpramucyate#}
+<ls>M. 11,230.</ls>
+<div n="1">— 3) {%durch Gluth quälen, Schmerz bereiten, quälen, peinigen%}; pass. {%Schmerz —, Leid empfinden, leiden%}: {#vahnisaMtaptadeha#}
+<ls>ṚT. 1,27.</ls> {#janmamaraRAdisaMsArAnalasaMtapta#}
+<ls>VEDĀNTAS. (Allah.) No. 19.</ls> {#arkadavAnalAnilEH saMtapyamAnaH#}
+<ls>BHĀG. P. 3,30,23.</ls> {#kAmAgnineva saMtaptaH#}
+<ls>VID. 10.</ls> {#nAnAvyayEH — saMtapyate 'narTaSatESca mAnavaH#}
+<ls>VARĀH. BṚH. S. 104,18.</ls> {#Siro'BitApasaMtapta#}
+<ls>SĀV. 5,69.</ls> {#hfcCayena ca saMtaptAm#}
+<ls>MBH. 3,1860.</ls>
+<ls>R. 3,22,36.</ls> {#SokasaMtapta#}
+<ls n="R.">1,1,52.</ls> <ls n="R. 1,">54,9.</ls> <ls n="R.">2,21,22.</ls> <ls>MBH. 3,2376.</ls> {#santaH saMtapyante na te vipadA#}
+<ls>BHARTṚ. 2,84.</ls> {#divApi mayi nizkrAnte saMtapyete gurU mama#}
+<ls>SĀV. 5,83.</ls>
+<ls>MBH. 1,8433.</ls>
+<ls>R. 2,8,15.</ls> <ls n="R. 2,">45,10.</ls> <ls n="R.">3,46,10.</ls> <ls n="R.">5,71,2.</ls> {#saMtapyamAnamanas#}
+<ls>VIKR. 46.</ls> {#taTA hi saMtapyati#}
+<ls>DRAUP. 6,3.</ls> {#saMtaptAni ca BUtAni vizAdaM jagmuruttamam#}
+<ls>MBH. 5,7286.</ls> {#saMtaptahfdaya#}
+<ls>R. 1,57,1.</ls> {#saMtaptAnAM tvamasi SaraRam#}
+<ls>MEGH. 7.</ls>
+<ls>AK. 3,2,52.</ls> {%sich kasteien%}: {#SataSaNge tApasaH samatapyata#}
+<ls>MBH. 1,4639.</ls>
+<ls>R. 1,63,26.</ls>
+<div n="1">— 4) {%einklemmen, drücken, bedrängen%} (Gegens. {#vi)H fta^sya dvArO\ mA mA\ saM tA^ptam#}
+<ls>VS. 5,33.</ls> {#saM mA^ tapantya\Bita^H sa\patnI^riva\ #}
 [Page3-0243]
-{# parSa^vaH#} 
-<ls>ṚV. 1, 105, 8.</ls> {#maruto vftraM saMtepuH#} 
-<ls>ŚAT. BR. 2, 5, 3, 3. 13, 8, 4, 11.</ls> 
-<ls>ŚĀṄKH. ŚR. 16, 12, 12.</ls> {#saMtaptavakzas#} {%der Brustbeklemmungen hat%} 
-<ls>SUŚR. 2, 447, 7.</ls> {#urasA hi samiva tapyate#} {%in der Brust ja wird es Einem eng%} 
-<ls>ŚAT. BR. 11, 5, 2, 4.</ls> — caus. 
-<div n="1"> 1) {%erhitzen, erwärmen, bähen%}: {#(uKAH) pfTagagniBiH saMtApayanti#} 
-<ls>KAUŚ. 80.</ls> {#na saMtApayituM SakyaM sAgarAmBastfRolkayA#} 
-<ls>HIT. I, 81, v. l.</ls> {#yadataptaM praRamati na tatsaMtApayantyapi . yacca svayaM nataM dAru na tatsaMtApantyapi ..#} 
-<ls>MBH. 5, 1129.</ls> {%Gluth von sich geben, brennen%}: {#lokavinASAya saMtApayata BAskaraH#} 
-<ls>1, 1270.</ls> {%durch Gluth versengen, verbrennen, in Flammen setzen%}: {#yuvAM lokaM saMtApayizyaTa#} 
-<ls>13, 3998.</ls> {#tataH saMtApitA lokA matprasUtena tejasA#} 
-<ls>ARJ. 3, 36.</ls> {#dagDvA saMtApayitvA ca#} 
-<ls>HARIV. 11348.</ls> 
-<div n="1">— 2) {%durch Gluth quälen, Schmerz bereiten, quälen, peinigen, in Unruhe versetzen%}: {#na gAtramaMSuBiH sUryaH saMtApayitumarhati#} 
-<ls>R. 2, 44, 8. 45, 23.</ls> {#KalvAwo divaseSvarasya kiraREH saMtApito mastake#} 
-<ls>BHARTṚ. 2, 86.</ls> {#antardAhena dahanaH saMtApayati rAGavam#} 
-<ls>R. 2, 85, 17.</ls> {#hfdisTaH SokAgnirna ca dahati saMtApayati ca#} 
-<ls>MṚCCH. 8, 21.</ls> {#saMtApayati naH sarvAnasO (tapasA)#} 
-<ls>MBH. 3, 1546. 10715. 1, 5075. 13, 1888.</ls> {#saMtApayanti kamapaTyaBujaM na rogAH#} 
-<ls>PAÑCAT. III, 244.</ls> {#mAM duHKArtaM saMtApayati manmaTaH#} 
-<ls>R. 3, 79, 10.</ls> {#nAnAgasaM mAM pASena saMtApayitumarhasi#} 
-<ls>MBH. 13, 61. 14, 21.</ls> 
-<ls>R. 2, 35, 7. 5, 31, 34.</ls> 
-<ls>PAÑCAT. 111, 1.</ls> {#saMtApyate#} (so ist mit 
-<ls>BENFEY</ls> zu lesen) 
-<ls>RĀJA-TAR. 5, 7.</ls> {#saMtApita#} {%gequält, betrübt%} 
-<ls>AK. 3, 2, 52.</ls> 
-<ls>H. 1493.</ls> 
-<ls>SĀV. 6, 29.</ls> {#AtmAnaM saMtApay#} {%sich selbst quälen, sich kasteien%} 
-<ls>MBH. 13, 1736.</ls> 
+{# parSa^vaH#}
+<ls>ṚV. 1,105,8.</ls> {#maruto vftraM saMtepuH#}
+<ls>ŚAT. BR. 2,5,3,3.</ls> <ls n="ŚAT. BR.">13,8,4,11.</ls>
+<ls>ŚĀṄKH. ŚR. 16,12,12.</ls> {#saMtaptavakzas#} {%der Brustbeklemmungen hat%}
+<ls>SUŚR. 2,447,7.</ls> {#urasA hi samiva tapyate#} {%in der Brust ja wird es Einem eng%}
+<ls>ŚAT. BR. 11,5,2,4.</ls> — caus.
+<div n="1"> 1) {%erhitzen, erwärmen, bähen%}: {#(uKAH) pfTagagniBiH saMtApayanti#}
+<ls>KAUŚ. 80.</ls> {#na saMtApayituM SakyaM sAgarAmBastfRolkayA#}
+<ls>HIT. I,81, v. l.</ls> {#yadataptaM praRamati na tatsaMtApayantyapi . yacca svayaM nataM dAru na tatsaMtApantyapi ..#}
+<ls>MBH. 5,1129.</ls> {%Gluth von sich geben, brennen%}: {#lokavinASAya saMtApayata BAskaraH#}
+<ls n="MBH.">1,1270.</ls> {%durch Gluth versengen, verbrennen, in Flammen setzen%}: {#yuvAM lokaM saMtApayizyaTa#}
+<ls n="MBH.">13,3998.</ls> {#tataH saMtApitA lokA matprasUtena tejasA#}
+<ls>ARJ. 3,36.</ls> {#dagDvA saMtApayitvA ca#}
+<ls>HARIV. 11348.</ls>
+<div n="1">— 2) {%durch Gluth quälen, Schmerz bereiten, quälen, peinigen, in Unruhe versetzen%}: {#na gAtramaMSuBiH sUryaH saMtApayitumarhati#}
+<ls>R. 2,44,8.</ls> <ls n="R. 2,">45,23.</ls> {#KalvAwo divaseSvarasya kiraREH saMtApito mastake#}
+<ls>BHARTṚ. 2,86.</ls> {#antardAhena dahanaH saMtApayati rAGavam#}
+<ls>R. 2,85,17.</ls> {#hfdisTaH SokAgnirna ca dahati saMtApayati ca#}
+<ls>MṚCCH. 8,21.</ls> {#saMtApayati naH sarvAnasO (tapasA)#}
+<ls>MBH. 3,1546.</ls> <ls n="MBH. 3,">10715.</ls> <ls n="MBH.">1,5075.</ls> <ls n="MBH.">13,1888.</ls> {#saMtApayanti kamapaTyaBujaM na rogAH#}
+<ls>PAÑCAT. III,244.</ls> {#mAM duHKArtaM saMtApayati manmaTaH#}
+<ls>R. 3,79,10.</ls> {#nAnAgasaM mAM pASena saMtApayitumarhasi#}
+<ls>MBH. 13,61.</ls> <ls n="MBH.">14,21.</ls>
+<ls>R. 2,35,7.</ls> <ls n="R.">5,31,34.</ls>
+<ls>PAÑCAT. 111,1.</ls> {#saMtApyate#} (so ist mit
+<ls>BENFEY</ls> zu lesen)
+<ls>RĀJA-TAR. 5,7.</ls> {#saMtApita#} {%gequält, betrübt%}
+<ls>AK. 3,2,52.</ls>
+<ls>H. 1493.</ls>
+<ls>SĀV. 6,29.</ls> {#AtmAnaM saMtApay#} {%sich selbst quälen, sich kasteien%}
+<ls>MBH. 13,1736.</ls>
 <div n="v">— Vgl. {#saMtApa#} u. s. w.
-
-<div n="p">— {#atisam#}, partic. {#atisaMtapta#} {%überaus betrübt%} 
-<ls>R. 3, 68, 15.</ls>
-
-<div n="p">— {#aBisam#} {%rings bedrängen%}: {#bra\hma\dviza\M dyOra^Bi\saMta^pAti#} 
-<ls>AV. 2, 12, 6.</ls> {#aBisaMtapta#} {%Schmerz leidend, gequält, gepeinigt%} 
-<ls>R. 4, 57, 13.</ls> {#kzuDABisaMtaptAH#} 
-<ls>MBH. 13, 4421.</ls> {#paScAttApABi°#} 
-<ls>3, 268.</ls> {#putraSokABi°#} 
-<ls>1, 582.</ls> {#duHKABi°#} 
-<ls>R. 2, 26, 8.</ls>
-
-<div n="p">— {#parisam#} 
-<div n="1"> 1) {%sich abquälen, sich abhärmen%}: {#alaM hi parisaMtapya#} 
-<ls>R. 4, 24, 11.</ls> 
-<div n="1">— 2) {%durch Gluth quälen%}: {#dAvAgniparisaMtapto mahAnAga iva Svasan#} 
-<ls>R. GORR. 2, 92, 26.</ls>
+<div n="p">— {#atisam#}, partic. {#atisaMtapta#} {%überaus betrübt%}
+<ls>R. 3,68,15.</ls>
+<div n="p">— {#aBisam#} {%rings bedrängen%}: {#bra\hma\dviza\M dyOra^Bi\saMta^pAti#}
+<ls>AV. 2,12,6.</ls> {#aBisaMtapta#} {%Schmerz leidend, gequält, gepeinigt%}
+<ls>R. 4,57,13.</ls> {#kzuDABisaMtaptAH#}
+<ls>MBH. 13,4421.</ls> {#paScAttApABi°#}
+<ls n="MBH.">3,268.</ls> {#putraSokABi°#}
+<ls n="MBH.">1,582.</ls> {#duHKABi°#}
+<ls>R. 2,26,8.</ls>
+<div n="p">— {#parisam#}
+<div n="1"> 1) {%sich abquälen, sich abhärmen%}: {#alaM hi parisaMtapya#}
+<ls>R. 4,24,11.</ls>
+<div n="1">— 2) {%durch Gluth quälen%}: {#dAvAgniparisaMtapto mahAnAga iva Svasan#}
+<ls>R. GORR. 2,92,26.</ls>
 <LEND>

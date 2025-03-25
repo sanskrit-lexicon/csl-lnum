@@ -1,7 +1,7 @@
 <L>20356<pc>636<k1>sheet<k2>sheet
-<div n="lb"/>{@SHEET:@}¦ <div n="I">I Of cloth: </div><div n="1">(1) {#uttaracCadaH,#} {%bed s.:%}
-<div n="lb"/>{#Sayyo-#} R. v. 65.; </div><div n="1">(2) {#pracCadaH.#} </div><div n="I">II Of paper:
-<div n="lb"/>{#*tAnaH.#} </div><div n="I">III Of metal: {#patram,#} <div n="xe">{%s.-silver.:%}</div> <div n="xs">{#rajata-#}
-<div n="lb"/>{#patram.#}</div> </div><div n="I">IV Of water: {#jalarASiH,#} and sim.
-<div n="lb"/>comp.s.: </div><div n="I">V A rope: {#rajjuH.#}</div>
+{@SHEET:@}¦ <div n="I">I Of cloth: </div><div n="1">(1) {#uttaracCadaH,#} {%bed s.:%}
+{#Sayyo-#} R. v. 65.; </div><div n="1">(2) {#pracCadaH.#} </div><div n="I">II Of paper:
+{#*tAnaH.#} </div><div n="I">III Of metal: {#patram,#} <div n="xe">{%s.-silver.:%}</div> <div n="xs">{#rajata-#}
+{#patram.#}</div> </div><div n="I">IV Of water: {#jalarASiH,#} and sim.
+comp.s.: </div><div n="I">V A rope: {#rajjuH.#}</div>
 <LEND>

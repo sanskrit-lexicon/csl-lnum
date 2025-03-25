@@ -1,9 +1,9 @@
 <L>487<pc>019<k1>agreement<k2>agreement
-<div n="lb"/>{@AGREEMENT:@}¦ <div n="I">I Compact; </div><div n="1">(1) {#saMvid,#} <div n="xe">{%to%}
-<div n="lb"/>{%violate an a.%}</div> <div n="xs">{#saMvidaM minatti#}</div> ({#Bid,#} c. 7), {#atikrAmati#}
-<div n="lb"/>({#kram,#} c. 1), etc., M.; </div><div n="1">(2) {#niyamaH;#} </div><div n="1">(3) {#samayaH;#}</div>
-<div n="lb"/><div n="1">(4) {#pratijYA.#} </div><div n="I">II Harmony of opinions or feel-
-<div n="lb"/>-ings: </div><div n="1">(1) {#Ekyam;#} </div><div n="1">(2) {#Ekamatyam;#} </div><div n="I">III Confor-
-<div n="lb"/>-mity, consistency: q. v.: </div><div n="1">(1) {#sAdfSyam;#} </div><div n="1">(2)
-<div n="lb"/>{#anurUpam.#}</div>
+{@AGREEMENT:@}¦ <div n="I">I Compact; </div><div n="1">(1) {#saMvid,#} <div n="xe">{%to%}
+{%violate an a.%}</div> <div n="xs">{#saMvidaM minatti#}</div> ({#Bid,#} c. 7), {#atikrAmati#}
+({#kram,#} c. 1), etc., M.; </div><div n="1">(2) {#niyamaH;#} </div><div n="1">(3) {#samayaH;#}</div>
+<div n="1">(4) {#pratijYA.#} </div><div n="I">II Harmony of opinions or feel-
+-ings: </div><div n="1">(1) {#Ekyam;#} </div><div n="1">(2) {#Ekamatyam;#} </div><div n="I">III Confor-
+-mity, consistency: q. v.: </div><div n="1">(1) {#sAdfSyam;#} </div><div n="1">(2)
+{#anurUpam.#}</div>
 <LEND>

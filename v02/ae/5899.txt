@@ -1,6 +1,6 @@
 <L>5899<pc>245<k1>junction<k2>junction
 {@Junction,@}¦ {%s.%} {#sa-, yogaH, saMgamaH, saMmilanaM,#}
-<div n="lb"/>{#saMgati#} {%f.,%} {#samAgamaH, saMSlezaH, saMDiH, saMsargaH,#}
-<div n="lb"/>{#saMGAtaH, saMsakti#} {%f.,%} {#saMparkaH;#} ‘j. of rivers’
-<div n="lb"/>{#saMBedaH, saMgamaH#}. {@2@} {#saMDisTAnaM#}.
+{#saMgati#} {%f.,%} {#samAgamaH, saMSlezaH, saMDiH, saMsargaH,#}
+{#saMGAtaH, saMsakti#} {%f.,%} {#saMparkaH;#} ‘j. of rivers’
+{#saMBedaH, saMgamaH#}. {@2@} {#saMDisTAnaM#}.
 <LEND>

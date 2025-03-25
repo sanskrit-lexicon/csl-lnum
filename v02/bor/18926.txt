@@ -1,10 +1,10 @@
 <L>18926<pc>585<k1>relief<k2>relief
-<div n="lb"/>{@RELIEF:@}¦ <div n="I">I The act: </div><div n="1">(1) {#sAhAyyam#} (= assis-
-<div n="lb"/>-tance); </div><div n="1">(2) {#udDAraH#} (= saving, succour);</div>
-<div n="lb"/><div n="1">(3) {#parihAraH#} (= avoidance); </div><div n="1">(4) {#pratikAraH#}
-<div n="lb"/>(= remedy); </div><div n="1">(5) {#upaSamaH#} (= alleviation). </div><div n="I">II
-<div n="lb"/>The state: </div><div n="1">(1) {#suKam#} (= ease, pleasure);</div>
-<div n="lb"/><div n="1">(2) {#SamaH#} (= peace, quiet). </div><div n="I">III In sculpture:
-<div n="lb"/>{#*samAveSaH,#} <div n="xe">{%high r.:%}</div> <div n="xs">{#*unnatasamAveSaH;#}</div> {%base or low r.:%}
-<div n="lb"/>{#*samasamAveSaH;#} <div n="xe">{%middle r.:%}</div> <div n="xs">{#ardDonnatasamAveSaH.#}</div></div>
+{@RELIEF:@}¦ <div n="I">I The act: </div><div n="1">(1) {#sAhAyyam#} (= assis-
+-tance); </div><div n="1">(2) {#udDAraH#} (= saving, succour);</div>
+<div n="1">(3) {#parihAraH#} (= avoidance); </div><div n="1">(4) {#pratikAraH#}
+(= remedy); </div><div n="1">(5) {#upaSamaH#} (= alleviation). </div><div n="I">II
+The state: </div><div n="1">(1) {#suKam#} (= ease, pleasure);</div>
+<div n="1">(2) {#SamaH#} (= peace, quiet). </div><div n="I">III In sculpture:
+{#*samAveSaH,#} <div n="xe">{%high r.:%}</div> <div n="xs">{#*unnatasamAveSaH;#}</div> {%base or low r.:%}
+{#*samasamAveSaH;#} <div n="xe">{%middle r.:%}</div> <div n="xs">{#ardDonnatasamAveSaH.#}</div></div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>103699<pc>527,2<k1>naB<k2>naB<h>1<e>1
-<hom>1.</hom> <s>naB</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <s>na/Bate</s>, to burst, be torn or rent asunder, <ls>RV. viii, 39, 1; x, 133, 1</ls>;
-<div n="to"/> <ab>impf.</ab> <ab>P.</ab> <s>na/Bas</s>, to break or destroy (?), <ls>i, 174, 8</ls> (<ab>cf.</ab> <ls>Dhātup. xviii, 13</ls>; <ls>Naigh. ii, 19</ls>);
-<div n="vp"/> <ab>cl.</ab> 4. 9. <ab>P.</ab> <s>naByati</s>, <s>naBnAti</s> (<ls>Dhātup. xxvi, 130, xxxi, 48</ls>), to hurt, injure (<ab>pf.</ab> <ab>Ā.</ab> <s>neBe</s>, <ls>Bhaṭṭ.</ls>) :
+<hom>1.</hom> <s>naB</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <s>na/Bate</s>, to burst, be torn or rent asunder, <ls>RV. viii, 39, 1</ls>; <ls n="RV.">x, 133, 1</ls>;
+<div n="to"/> <ab>impf.</ab> <ab>P.</ab> <s>na/Bas</s>, to break or destroy (?), <ls n="RV.">i, 174, 8</ls> (<ab>cf.</ab> <ls>Dhātup. xviii, 13</ls>; <ls>Naigh. ii, 19</ls>);
+<div n="vp"/> <ab>cl.</ab> 4. 9. <ab>P.</ab> <s>naByati</s>, <s>naBnAti</s> (<ls>Dhātup. xxvi, 130</ls>, <ls n="Dhātup.">xxxi, 48</ls>), to hurt, injure (<ab>pf.</ab> <ab>Ā.</ab> <s>neBe</s>, <ls>Bhaṭṭ.</ls>) :
 <div n="vp"/><ab>Caus.</ab> <s>naBayati</s>, to cause to burst, tear open, <ls>AitBr.</ls><info westergaard="RaBa,18.13,01.0487;RaBa,26.130,04.0135;RaBa,31.48,09.0054"/><info whitneyroots="naB,88"/><info verb="genuineroot" cp="1Ā,1P,4,9P,9Ā"/>
 <LEND>

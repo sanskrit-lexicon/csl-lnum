@@ -1,20 +1,20 @@
 <L>85334<pc>6-0440<k1>rogin<k2>rogin
-{#rogin#}¦ (von {#roga#}) <lex>adj.</lex> {%krank, kränklich%} 
-<ls>M. 2, 138. 3, 8. 114. 9, 82. 230.</ls> 
-<ls>YĀJÑ. 1, 117. 209. 2, 98.</ls> 
-<ls>HARIV. 7672.</ls> 
-<ls>Spr. 2226. 2645. fg. 4325. 4664.</ls> 
-<ls>VARĀH. BṚH. 20, 9. 21, 8.</ls> 
-<ls>KATHĀS. 66, 41.</ls> 
-<ls>RĀJA-TAR. 3, 461. 4, 212.</ls> 
-<ls>BHĀG. P. 1, 14, 41. 6, 9, 49.</ls> 
-<ls>MĀRK. P. 34, 76.</ls> 
-<ls>SĀH. D. 2, 9.</ls> {#manda°#} {%selten krank%} 
-<ls>MBH. 3, 12639.</ls> {#dIrGa°#} {%lange kränkelnd, siech%} 
-<ls>Spr. 4628, v. l.</ls> 
-<div n="v">— Vgl. {#a°#} (auch 
-<ls>Spr. 3275.</ls> 
-<ls>YĀJÑ. 1, 53.</ls> {#arogitva#} 
-<ls>265</ls>), {#kzaya°, pARqu°, pApa°#} (auch 
-<ls>MBH. 14, 1010</ls>), {#mahA°, vaktra°#} .
+{#rogin#}¦ (von {#roga#}) <lex>adj.</lex> {%krank, kränklich%}
+<ls>M. 2,138.</ls> <ls n="M.">3,8.</ls> <ls n="M. 3,">114.</ls> <ls n="M.">9,82.</ls> <ls n="M. 9,">230.</ls>
+<ls>YĀJÑ. 1,117. 209. 2,98.</ls>
+<ls>HARIV. 7672.</ls>
+<ls>Spr. 2226.</ls> <ls n="Spr.">2645. fg.</ls> <ls n="Spr.">4325.</ls> <ls n="Spr.">4664.</ls>
+<ls>VARĀH. BṚH. 20,9. 21,8.</ls>
+<ls>KATHĀS. 66,41.</ls>
+<ls>RĀJA-TAR. 3,461. 4,212.</ls>
+<ls>BHĀG. P. 1,14,41.</ls> <ls n="BHĀG. P.">6,9,49.</ls>
+<ls>MĀRK. P. 34,76.</ls>
+<ls>SĀH. D. 2,9.</ls> {#manda°#} {%selten krank%}
+<ls>MBH. 3,12639.</ls> {#dIrGa°#} {%lange kränkelnd, siech%}
+<ls>Spr. 4628, v. l.</ls>
+<div n="v">— Vgl. {#a°#} (auch
+<ls>Spr. 3275.</ls>
+<ls>YĀJÑ. 1,53.</ls> {#arogitva#}
+<ls n="YĀJÑ.">265</ls>), {#kzaya°, pARqu°, pApa°#} (auch
+<ls>MBH. 14,1010</ls>), {#mahA°, vaktra°#} .
 <LEND>

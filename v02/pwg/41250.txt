@@ -1,32 +1,32 @@
 <L>41250<pc>4-0350<k1>pakzman<k2>pa/kzman
-{#pa/kzman#}¦ <lex>n.</lex> 
-<div n="1"> 1) {%die Augenwimpern%} 
-<ls>AK. 3, 4, 18, 123.</ls> 
-<ls>H. 580.</ls> 
-<ls>an. 2, 274.</ls> 
-<ls>MED. n. 89.</ls> <ls>HALĀY. 2, 369.</ls> <ls>VS. 19, 89.</ls> {#pArya, avArya#} 
-<ls>25, 1.</ls> <ls>ŚAT. BR. 12, 7, 1, 2.</ls> <ls>TS. 6, 2, 1, 5.</ls> <ls>SUŚR. 2, 332, 17.</ls> {#akzi°#} 
-<ls>1, 115, 10. 321, 19.</ls> <ls>DHŪRTAS. 73, 14.</ls> {#arAlapakzmanayanA#} 
-<ls>MBH. 3, 2394. 4, 1196.</ls> 
-<ls>R. 5, 28, 13.</ls> {#nIlapakzmARaH - dfzwibARAH#} 
-<ls>BHARTṚ. 1, 59.</ls> {#Akuwilapakzmavilagna (vAzpa)#} 
-<ls>ŚĀK. 184.</ls> {#vftO pakzmaBirakziRIva#} 
-<ls>BHĀG. P. 3, 1, 39.</ls> {#banDurdfSaH pakzma#} 
-<ls>6, 4, 12.</ls> {#bAlyAtprasuptasya mahAbalasya siMhasya pakzmARi muKAllunAsi#} 
-<ls>DRAUP. 5, 6.</ls> {#nimezAlasapakzmapaNkti#} 
-<ls>RAGH. 2, 19.</ls> {#pakzmotkzepa#} 
-<ls>MEGH. 48.</ls> {#salilaguruBiH pakzmaBiH#} 90. {#DUmacCAyAmaBajatAM netre cocCritapakzmaRI#} so v. a. {%die weit geöffneten Augen%} 
-<ls>MBH. 4, 466.</ls> {#pakzmapAta#} s. v. a. {%das Schliessen der Augen%} 
-<ls>RAGH. 11, 36.</ls> {#pakzmaRo 'pi nipAtena#} so v. a. {%in einem Augenblick%} 
-<ls>MBH. 12, 449.</ls> {#pakzmasaMpAtaje kAle#} dass. 
-<ls>5, 3170.</ls> Scheinbar das Thema {#pakzma#} in der Stelle: {#api cekzaRapakzmARAM smitaM jyotsnopamaM SuBam#} 
-<ls>4, 390</ls>; es ist aber wohl {#padmAnAM#} st. {#pakzmARAM#} zu lesen. Vgl. {#utpakzman#} . 
-<div n="1">— 2) {%Staubfaden%} 
-<ls>AK.</ls> <ls>MED.</ls> 
-<div n="1">— 3) {%ein dünnes Fädchen%} 
-<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
-<div n="1">— 4) {%Blumenblatt%} ({#kusumacCada#}) 
-<ls>H. an.</ls> 
-<div n="1">— 5) = {#pakza#} {%Flügel%} 
+{#pa/kzman#}¦ <lex>n.</lex>
+<div n="1"> 1) {%die Augenwimpern%}
+<ls>AK. 3,4,18,123.</ls>
+<ls>H. 580.</ls>
+<ls>an. 2,274.</ls>
+<ls>MED. n. 89.</ls> <ls>HALĀY. 2,369.</ls> <ls>VS. 19,89.</ls> {#pArya, avArya#}
+<ls n="VS.">25,1.</ls> <ls>ŚAT. BR. 12,7,1,2.</ls> <ls>TS. 6,2,1,5.</ls> <ls>SUŚR. 2,332,17.</ls> {#akzi°#}
+<ls n="SUŚR.">1,115,10. 321,19.</ls> <ls>DHŪRTAS. 73,14.</ls> {#arAlapakzmanayanA#}
+<ls>MBH. 3,2394.</ls> <ls n="MBH.">4,1196.</ls>
+<ls>R. 5,28,13.</ls> {#nIlapakzmARaH — dfzwibARAH#}
+<ls>BHARTṚ. 1,59.</ls> {#Akuwilapakzmavilagna (vAzpa)#}
+<ls>ŚĀK. 184.</ls> {#vftO pakzmaBirakziRIva#}
+<ls>BHĀG. P. 3,1,39.</ls> {#banDurdfSaH pakzma#}
+<ls n="BHĀG. P.">6,4,12.</ls> {#bAlyAtprasuptasya mahAbalasya siMhasya pakzmARi muKAllunAsi#}
+<ls>DRAUP. 5,6.</ls> {#nimezAlasapakzmapaNkti#}
+<ls>RAGH. 2,19.</ls> {#pakzmotkzepa#}
+<ls>MEGH. 48.</ls> {#salilaguruBiH pakzmaBiH#} 90. {#DUmacCAyAmaBajatAM netre cocCritapakzmaRI#} so v. a. {%die weit geöffneten Augen%}
+<ls>MBH. 4,466.</ls> {#pakzmapAta#} s. v. a. {%das Schliessen der Augen%}
+<ls>RAGH. 11,36.</ls> {#pakzmaRo 'pi nipAtena#} so v. a. {%in einem Augenblick%}
+<ls>MBH. 12,449.</ls> {#pakzmasaMpAtaje kAle#} dass.
+<ls n="MBH.">5,3170.</ls> Scheinbar das Thema {#pakzma#} in der Stelle: {#api cekzaRapakzmARAM smitaM jyotsnopamaM SuBam#}
+<ls n="MBH.">4,390</ls>; es ist aber wohl {#padmAnAM#} st. {#pakzmARAM#} zu lesen. Vgl. {#utpakzman#} .
+<div n="1">— 2) {%Staubfaden%}
+<ls>AK.</ls> <ls>MED.</ls>
+<div n="1">— 3) {%ein dünnes Fädchen%}
+<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls>
+<div n="1">— 4) {%Blumenblatt%} ({#kusumacCada#})
+<ls>H. an.</ls>
+<div n="1">— 5) = {#pakza#} {%Flügel%}
 <ls>AMARAMĀLĀ</ls> im <ls>ŚKDR.</ls> — Das Wort kann mit {#pakza#} in etym. Zusammenhange stehen.
 <LEND>

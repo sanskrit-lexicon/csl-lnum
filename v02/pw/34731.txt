@@ -1,44 +1,42 @@
-<L>34731<pc>2155-3<k1>gar<k2>gar<h>1<e>500
-1. {#gar#}¦ , {#gfRA/ti , gfRIte/#} (auch in pass. Bed.) , {#girati#} und {#girate#} (mit {#sam#})
-<div n="1">— 1) {%anrufen , rufen.%}
-<div n="1">— 2) {%ankündigen , anpreisen.%}
-<div n="1">— 3) {%lobend nennen , beloben , preisen.%}
-<div n="1">— 4) {%aussprechen , hersagen%} <ls>MBH.7,42,14.</ls> <ls>RAGH.10,64.</ls>  <ls>BHĀG.P.1,1,14.</ls>
-<div n="1">— 5) {%verkünden , erzählen , in gebundener Rede lehren%} <ls>GAṆIT.KAKṢ.5.</ls>
+<L>34731<pc>2-155-c<k1>gar<k2>gar<h>1
+<hom>1.</hom> √{#gar#}¦, {#gfRA/ti, gfRIte/#} (auch in <ab>pass.</ab> <ab>Bed.</ab>), {#girati#} und {#girate#} (mit {#sam#})
+<div n="1">— 1〉 {%anrufen, rufen%}.
+<div n="1">— 2〉 {%ankündigen, anpreisen%}.
+<div n="1">— 3〉 {%lobend nennen, beloben, preisen%}.
+<div n="1">— 4〉 {%aussprechen, hersagen%} <ls>MBH. 7,42,14</ls>. <ls>RAGH. 10,64</ls>. <ls>BHĀG. P. 1,1,14</ls>.
+<div n="1">— 5〉 {%verkünden, erzählen, in gebundener Rede lehren%} <ls>GAṆIT. KAKṢ. 5</ls>.
 <div n="p">— Mit {#anu#}
-<div n="1">— 1) {%lobend einstimmen.%}
-<div n="1">— 2) {%*Jmd. (<ab>Dat.</ab>) beistimmen.%}
-<div n="1">— 3) {%antworten%} , mit *<ab>Dat.</ab>
-<div n="1">— 4) {%nacherzählen , wiederholen.%}
-<div n="p">— Mit {#apa#} in {#°gara#} und {#*°gAram#}.
-<div n="p">— Mit {#*api#}, {#*°gArga#} gelobt. {%gepriesen.%}
+<div n="1">— 1〉 {%lobend einstimmen%}.
+<div n="1">— 2〉 *{%Jmd%} (<ab>Dat.</ab>) {%beistimmen%}.
+<div n="1">— 3〉 {%antworten,%} mit *<ab>Dat.</ab>
+<div n="1">— 4〉 {%nacherzählen, wiederholen%}.
+<div n="p">— Mit {#apa#} in {#°gara#} und *{#°gAram#}.
+<div n="p">— Mit *{#api#}, *{#°gArga#} gelobt. {%gepriesen%}.
 <div n="p">— Mit {#aBi#}
-<div n="1">— 1) {%beifällig zurufen , einstimmen in (<ab>Acc.</ab>) , begrüssen , preisen.%}
-<div n="1">— 2) {%gutheissen , wohlgefällig aufnehmen , genehmigen.%}
-<div n="1">— 3) {%preisend anstimmen.%}
-<div n="p">— Mit {#A#} {%Beifall zollen , loben.%}
-<div n="p">— Mit {#pratyA#} {%antworten.%}
-<div n="p">— Mit {#upa#} {%anrufen , lobend zurufen%} ; mit <ab>Acc.</ab>
+<div n="1">— 1〉 {%beifällig zurufen, einstimmen in%} (<ab>Acc.</ab>), {%begrüssen, preisen%}.
+<div n="1">— 2〉 {%gutheissen, wohlgefällig aufnehmen, genehmigen%}.
+<div n="1">— 3〉 {%preisend anstimmen%}.
+<div n="p">— Mit {#A#} {%Beifall zollen, loben%}.
+<div n="p">— Mit {#pratyA#} {%antworten%}.
+<div n="p">— Mit {#upa#} {%anrufen, lobend zurufen;%} mit <ab>Acc.</ab>
 <div n="p">— Mit {#pra#}
-<div n="1">— 1) {%Jmd%}
-[Page2156-1]
-(<ab>Loc.</ab>) {%Etwas (<ab>Acc.</ab>) ankündigen , anpreisen.%}
-<div n="1">— 2) {%besingen , preisen.%}
-<div n="p">— Mit {#saMpra#} {%benennen.%}
+<div n="1">— 1〉 {%Jmd%} [Page2-156-a] (<ab>Loc.</ab>) {%Etwas%} (<ab>Acc.</ab>) {%ankündigen, anpreisen%}.
+<div n="1">— 2〉 {%besingen, preisen%}.
+<div n="p">— Mit {#saMpra#} {%benennen%}.
 <div n="p">— Mit {#prati#}
-<div n="1">— 1) {%anrufen , begrüssen%} ; mit <ab>Acc.</ab>
-<div n="1">— 2) {%antworten , Jmd%} (<ab>Dat.</ab>) — (im Wechselruf oder Gesang). Auch mit {#pratigaram#}.
-<div n="1">— 3) {%*Jmd%} (<ab>Dat.</ab>) {%beistimmen.%}
-<div n="p">— Mit {#aBiprati#} = {#prati#} 2).
-<div n="p">— Mit {#vi#} <ls>ṚV.6,35,5,</ls> wo aber {#vfRIze#} st. {#gfRIze#} zu vermuthen ist.
+<div n="1">— 1〉 {%anrufen, begrüssen;%} mit <ab>Acc.</ab>
+<div n="1">— 2〉 {%antworten, Jmd%} (<ab>Dat.</ab>) — (im Wechselruf oder Gesang). Auch mit {#pratigaram#}.
+<div n="1">— 3〉 *{%Jmd%} (<ab>Dat.</ab>) {%beistimmen%}.
+<div n="p">— Mit {#aBiprati#} = {#prati#} 2〉.
+<div n="p">— Mit {#vi#} <ls>ṚV. 6,35,5</ls>, wo aber {#vfRIze#} <ab>st.</ab> {#gfRIze#} zu vermuthen ist.
 <div n="p">— Mit {#sam#}
-<div n="1">— 1) {#samgfRAti#} und {#saMgfRIte#}
-<div n="2">— a) {%einstimmen , zusagen , versprechen.%}
-<div n="2">— b) <ab>Act.</ab> {%preisen%} <ls>BHĀG.P.3,15,45.</ls>
-<div n="1">— 2) {#saMgirate#}
-<div n="2">— a) {%anerkennen , als wahr annehmen , behaupten%} <ab>Comm.</ab> zu <ls>TS.PRĀT.</ls>
-<div n="2">— b) {%Jmd (<ab>Dat.</ab>) zusagen , beipflichten ; *einstimmen in%} (<ab>Acc.</ab>).
-<div n="2">— c) {%sich geloben.%}
-<div n="2">— d) {%übereinstimmend benennen%} , mit zwei <ab>Acc.</ab>
-<div n="p">— Mit {#aBisam#} {%zusagen , versprechen.%}
+<div n="1">— 1〉 {#samgfRAti#} und {#saMgfRIte#}
+<div n="2">— a〉 {%einstimmen, zusagen, versprechen%}.
+<div n="2">— b〉 <ab>Act.</ab> {%preisen%} <ls>BHĀG. P. 3,15,45</ls>.
+<div n="1">— 2〉 {#saMgirate#}
+<div n="2">— a〉 {%anerkennen, als wahr annehmen, behaupten%} <ls>Comm. zu TS. PRĀT.</ls>
+<div n="2">— b〉 {%Jmd%} (<ab>Dat.</ab>) {%zusagen, beipflichten; *einstimmen in%} (<ab>Acc.</ab>).
+<div n="2">— c〉 {%sich geloben%}.
+<div n="2">— d〉 {%übereinstimmend benennen,%} mit zwei <ab>Acc.</ab>
+<div n="p">— Mit {#aBisam#} {%zusagen, versprechen%}.
 <LEND>

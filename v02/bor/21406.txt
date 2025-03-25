@@ -1,4 +1,4 @@
 <L>21406<pc>674<k1>statue<k2>statue
-<div n="lb"/>{@STATUE:@}¦ <div n="1">(1) {#pratimA,#} <div n="xe">{%stand for s.:%}</div> <div n="xs">{#pratimApiRqikA,#}</div>
-<div n="lb"/>A. p.; </div><div n="1">(2) {#murtiH,#} <div n="xe">{%s. keeper:%}</div> <div n="xs">{#mUrtipaH,#}</div> Mat.</div>
+{@STATUE:@}¦ <div n="1">(1) {#pratimA,#} <div n="xe">{%stand for s.:%}</div> <div n="xs">{#pratimApiRqikA,#}</div>
+A. p.; </div><div n="1">(2) {#murtiH,#} <div n="xe">{%s. keeper:%}</div> <div n="xs">{#mUrtipaH,#}</div> Mat.</div>
 <LEND>

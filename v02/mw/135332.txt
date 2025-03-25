@@ -1,10 +1,10 @@
-<L>135332<pc>683,2<k1>prabuD<k2>pra-buD<h>a<e>1
-<s>pra-√ buD</s> <hom>a</hom> ¦ <ab>Ā.</ab> <s>-buDyate</s> (<ab>Ved.</ab> <ab>inf.</ab> <s>-bu/De</s>), to wake up, wake, awake (intrans.), <ls>RV.</ls> &c. &c.;
+<L>135332<pc>683,2<k1>prabuD<k2>pra-buD<e>1
+<s>pra-√ buD</s> ¦ <ab>Ā.</ab> <s>-buDyate</s> (<lang>Ved.</lang> <ab>inf.</ab> <s>-bu/De</s>), to wake up, wake, awake (<ab>intrans.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to expand, open, bloom, blossom, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/> <ab>P.</ab> <s>-boDati</s>, to become conscious or aware of know, understand, recognise as (2. <ab>acc.</ab>), <ls>MBh.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-boDayati</s>, to wake up, awaken (trans.), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="vp"/><ab>Caus.</ab> <s>-boDayati</s>, to wake up, awaken (<ab>trans.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to cause to expand or bloom, <ls>Kum.</ls>;
 <div n="to"/>to stimulate (by gentle friction), <ls>ŚārṅgS.</ls>;
 <div n="to"/>to make sensible, cause to know, inform, admonish, persuade, convince, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
-<div n="to"/>to instruct, teach (two <ab>acc.</ab>), <ls>Cāṇ.</ls><info verb="pre" cp="PĀ" parse="pra+buD"/>
+<div n="to"/>to instruct, teach (two <ab>acc.</ab>), <ls>Cāṇ.</ls><info verb="pre" cp="PĀ" parse="pra+buD"/><info hui="a"/>
 <LEND>

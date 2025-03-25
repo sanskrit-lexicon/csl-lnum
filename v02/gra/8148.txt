@@ -1,5 +1,5 @@
 <L>8148<pc>1297<k1>viSpalA<k2>viSpa/lA
-{@viśpálā,@}¦ <ab>f.</ab> (ursprünglich wol die Haus oder Stamm beherrschende, wenn pala = pāla Erweiterung <lbinfo n="9"/> von pā ist), Eigenname eines Weibes, <lbinfo n="4"/> dem die Aśvinen in der Schlacht helfen und ihr ein ehernes Bein ansetzen ({116,15}).
-<div n="P1">-ām {112,10}; {117,11}; {865,9}.
-<div n="P1">-āyai {116,15}; {118,8}.
+{@viśpálā,@}¦ <ab>f.</ab> (ursprünglich wol die Haus oder Stamm beherrschende, wenn pala = pāla Erweiterung von pā ist), Eigenname eines Weibes, dem die Aśvinen in der Schlacht helfen und ihr ein ehernes Bein ansetzen ({116,15}).
+<div n="TS">-ām {112,10}; {117,11}; <chg type="chg" n="222" src="gra"><old>{865,9}</old><new>{865,8}</new></chg>.
+<div n="TS">-āyai {116,15}; {118,8}.
 <LEND>

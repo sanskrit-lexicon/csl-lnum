@@ -1,4 +1,4 @@
-<L>117074<pc>591,3<k1>parikft<k2>pari-kft<h>a<e>1
-<hom>a.</hom> <s>pari-</s>√ <hom>2.</hom> <s>kft</s> ¦ <ab>P.</ab> <s>-kfntati</s>, (<ab>ind.p.</ab> <s>-kftya</s>), to cut round, clip, cut off, <ls>AV.</ls>; <ls>R.</ls>;
-<div n="to"/>to exclude from (<ab>abl.</ab>), <ls>Mn. iv, 219.</ls><info verb="pre" cp="P" parse="pari+kft"/>
+<L>117074<pc>591,3<k1>parikft<k2>pari-kft<e>1
+ <s>pari-</s>√ <hom>2.</hom> <s>kft</s> ¦ <ab>P.</ab> <s>-kfntati</s>, (<ab>ind.p.</ab> <s>-kftya</s>), to cut round, clip, cut off, <ls>AV.</ls>; <ls>R.</ls>;
+<div n="to"/>to exclude from (<ab>abl.</ab>), <ls>Mn. iv, 219.</ls><info verb="pre" cp="P" parse="pari+kft"/><info hui="a"/>
 <LEND>

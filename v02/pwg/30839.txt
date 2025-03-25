@@ -1,17 +1,17 @@
 <L>30839<pc>3-0422<k1>trAsana<k2>trAsana
-{#trAsana#}¦ (vom caus. von 1. {#tras#}) 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} {%Jmd%} (gen.) {%erschreckend, in Angst jagend%} 
-<ls>MBH. 3, 12389. 14325. 7, 6793.</ls> 
-<ls>HARIV. 3062. 4295. 6791.</ls> 
-<ls>R. 3, 7, 8. 6, 81, 27.</ls> {#trElokya°#} 
-<ls>MBH. 7, 5163.</ls> {#trAsanI#} 
-<ls>5, 2343. 9, 582.</ls> {#trAsana#} als Beiw. <is>Śiva's</is> 
-<ls>13, 1207.</ls> 
-<div n="1">— 2) <lex>n.</lex> 
-<div n="2"> a) {%das Erschrecken, in-Angst-Setzen, das Aufscheuchen%}: {#svabala°#} 
-<ls>MBH. 4, 1706.</ls> {#pArAvata°#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 196, 22.</ls> 
-<div n="2">— b) {%Schreckmittel%}: {#evaMviDAnyanekAni trAsanAni - sasfjuH#} 
-<ls>BHĀG. P. 4, 10, 28.</ls> {#tatkAlayavano budDvA trAsanaM yAdavEH kftam#} 
+{#trAsana#}¦ (vom caus. von 1. {#tras#})
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} {%Jmd%} (gen.) {%erschreckend, in Angst jagend%}
+<ls>MBH. 3,12389.</ls> <ls n="MBH. 3,">14325.</ls> <ls n="MBH.">7,6793.</ls>
+<ls>HARIV. 3062.</ls> <ls n="HARIV.">4295.</ls> <ls n="HARIV.">6791.</ls>
+<ls>R. 3,7,8.</ls> <ls n="R.">6,81,27.</ls> {#trElokya°#}
+<ls>MBH. 7,5163.</ls> {#trAsanI#}
+<ls n="MBH.">5,2343.</ls> <ls n="MBH.">9,582.</ls> {#trAsana#} als Beiw. <is>Śiva's</is>
+<ls n="MBH.">13,1207.</ls>
+<div n="1">— 2) <lex>n.</lex>
+<div n="2"> a) {%das Erschrecken, in-Angst-Setzen, das Aufscheuchen%}: {#svabala°#}
+<ls>MBH. 4,1706.</ls> {#pArAvata°#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 196,22.</ls>
+<div n="2">— b) {%Schreckmittel%}: {#evaMviDAnyanekAni trAsanAni — sasfjuH#}
+<ls>BHĀG. P. 4,10,28.</ls> {#tatkAlayavano budDvA trAsanaM yAdavEH kftam#}
 <ls>HARIV. 6456.</ls>
 <LEND>

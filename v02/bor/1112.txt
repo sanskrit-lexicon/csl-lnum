@@ -1,5 +1,5 @@
 <L>1112<pc>039<k1>arrogant<k2>arrogant
-<div n="lb"/>{@ARROGANT:@}¦ <div n="1">(1) {#udDataH#} ({#tA, taM#}); </div><div n="1">(2) {#pragalBaH#}
-<div n="lb"/>({#lBA, lBaM#}); </div><div n="1">(3) {#utsiktaH#} ({#ktA, ktaM#}); </div><div n="1">(4) {#ava-#}
-<div n="lb"/>{#liptaH#} ({#ptA, ptaM#}).</div>
+{@ARROGANT:@}¦ <div n="1">(1) {#udDataH#} ({#tA, taM#}); </div><div n="1">(2) {#pragalBaH#}
+({#lBA, lBaM#}); </div><div n="1">(3) {#utsiktaH#} ({#ktA, ktaM#}); </div><div n="1">(4) {#ava-#}
+{#liptaH#} ({#ptA, ptaM#}).</div>
 <LEND>

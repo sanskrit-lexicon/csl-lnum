@@ -1,6 +1,6 @@
 <L>17625<pc>444-b<k1>leather<k2>leather
-<div n="lb"/>LEATHER¦, {%s.%} {#carmma#} {%n.%} {#(n), dftiH#} {%m.,%} {#paSutvak#} {%f.%} {#(c), paSucarmma#} {%n.,%} {#kfttiH#} {%f.,%}
-<div n="lb"/>{#ajinaM, vardDaM, SipiH#} {%f.;%} ‘a leather thong,’ {#carmmabanDaH -nDanaM, varatrA,#}
-<div n="lb"/>{#vardDrI;#} ‘covered with leather,’ {#carmmAvftaH -tA -taM, carmmAvanadDaH -dDA#}
-<div n="lb"/>{#-dDaM, carmmAcCAditaH -tA -taM#}.
+LEATHER¦, {%s.%} {#carmma#} {%n.%} {#(n), dftiH#} {%m.,%} {#paSutvak#} {%f.%} {#(c), paSucarmma#} {%n.,%} {#kfttiH#} {%f.,%}
+{#ajinaM, vardDaM, SipiH#} {%f.;%} ‘a leather thong,’ {#carmmabanDaH -nDanaM, varatrA,#}
+{#vardDrI;#} ‘covered with leather,’ {#carmmAvftaH -tA -taM, carmmAvanadDaH -dDA#}
+{#-dDaM, carmmAcCAditaH -tA -taM#}.
 <LEND>

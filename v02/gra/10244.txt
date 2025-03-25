@@ -1,25 +1,24 @@
 <L>10244<pc>1593<k1>stuB<k2>stuB
-{@stubh,@}¦ aus stu erweitert, {%rauschen, preisen, lobsingen;%} 2) <ab>Caus.</ab>, {%Lieder ertönen lassen.%}
-<div n="P">Mit {@ánu@} {@nachsingen@} in anu-ṣṭúbh (die vierte Verszeile als Nachgesang <lbinfo n="6"/> aufgefasst).
-[Page1594]
-<div n="P1">-ā́ {%rauschend herbeikommen%} <lbinfo n="8"/> SV.
-<div n="P1">{@pári@} 1) {%rings rauschen;%} 2) jemand, etwas [<ab>A.</ab>] {%umrauschen.%}
-<div n="P1">{@prá@} {%rauschend, schnaubend <lbinfo n="4"/> vordringen.%}
-<div n="P1">{@práti@} jemandem [<ab>A.</ab>] {%entgegenrauschen;%} 2) {%wiederhallen%} <ab>v.</ab> [Ab.].
+{@√stubh,@}¦ aus stu erweitert, {%rauschen, preisen, lobsingen;%} 2〉 <ab>Caus.</ab>, {%Lieder ertönen lassen%}.
+<div n="Pf">Mit {@ánu@} nachsingen in anu-ṣṭúbh (die vierte Verszeile als Nachgesang aufgefasst). [Page1594]
+<div n="Pf">{@ā́@} {%rauschend herbeikommen%} <ls>SV.</ls>
+<div n="Pf">{@pári@} 1〉 {%rings rauschen;%} 2〉 jemand, etwas [<ab>A.</ab>] {%umrauschen%}.
+<div n="Pf">{@prá@} {%rauschend, schnaubend vordringen%}.
+<div n="Pf">{@práti@} jemandem [<ab>A.</ab>] {%entgegenrauschen;%} 2〉 {%wiederhallen%} <ab>v.</ab> [<ab>Ab.</ab>].
 <div n="H">Stamm I. {@stobha:@}
-<div n="P1">-ati {@práti@} 1) vas {88,6} (vāghátas ná vā́ṇī).
-<div n="P1">-anti {@práti@} 1) tvā {438,2}) (stómāsas). — 2) síndhavas pavíbhyas {168,8}.
-<div n="P1">-a {@prá@} SV. {1,5},2,2,4.
-<div n="P1">-{@ata pári@} 1) viṃśatís {80,9} (neben sahásram arcata).
-<div n="P1">-antu {@pári@} 2) sutám {701,19} (gíras).
+<div n="TS">-ati {@práti@} 1〉 vas {88,6} (vāghátas ná vā́ṇī).
+<div n="TS">-anti {@práti@} 1〉 tvā {438,2} (stómāsas). — 2〉 síndhavas pavíbhyas {168,8}.
+<div n="TS">-a {@prá@} <ls>SV. 〔1,5,2,2,4〕</ls>.
+<div n="TS">-ata {@pári@} 1〉 viṃśatís {80,9} (neben sahásram arcata).
+<div n="TS">-antu {@pári@} 2〉 sutám {701,19} (gíras).
 <div n="H">Stamm II. {@stubh@} siehe <ab>Part.</ab>
 <div n="H"><ab>Impf.</ab> des <ab>Caus.</ab> {@ástobhaya:@}
-<div n="P1">-at 2) {88,6}.
+<div n="TS">-at 2〉 {88,6}.
 <div n="H">{@stóbhat@} [von Stamm I.]:
-<div n="P1">-antas té (kārávas) {1023,1}.
-<div n="P1">-antiā [<ab>I.</ab> <ab>f.</ab>] {@pari@} 1) kṛpā́ <lbinfo n="3"/> {776,28}.
+<div n="TS">-antas té (kārávas) {1023,1}.
+<div n="TS">-antiā [<ab>I.</ab> <ab>f.</ab>] {@pari@} 1〉 kṛpā́ {776,28}.
 <div n="H">{@stubhāná@} [von Stamm II.]:
-<div n="P1">-ás {@pra@} vājī́ ná sárgeṣu … {299,12}.
+<div n="TS">-ás {@pra@} vājī́ ná sárgeṣu 〰 {299,12}.
 <div n="H">Verbale {@stúbh:@}
-<div n="P">in pari-, anu-, ferner in tri-, su-ṣṭúbh, ṛta-, gharma-, vṛṣa-, chandaḥ-stúbh und als selbständiges <lbinfo n="9"/> Nomen:
+<div n="P">in pari-, anu-, ferner in tri-, su-ṣṭúbh, ṛta-, gharma-, vṛṣa-, chandaḥ-stúbh und als selbständiges Nomen:
 <LEND>

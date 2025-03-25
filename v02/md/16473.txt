@@ -1,11 +1,3 @@
 <L>16473<pc>280-3<k1>vigada<k2>vigada
-{#vigada#}¦vi-gadá, ¤1.¤ {%m.%} confused shouting 
-<>({%RV.¹%}); ¤2.¤ {@a,@} {%a.%} healthy; {@-gandha,@} {%a.%} ill-smelling; <lbinfo n="3"/>
-<> odourless; {@-gandhi,@} {%a.%} ill-smelling; <lbinfo n="9"/>
-<> {@-gama,@} {%m.%} departure, disappearance, 
-<>cessation; absence, lack; avoidance; {@-garh-@}
-<>{@-aṇa@}, {%n.,%} {@ā,@} {%f.%} censure, blame: {@-ṃ kṛ@}, blame; 
-<>{@-garhya,@} {%fp.%} censurable, blameworthy: {@-tā,@} 
-<>{%f.%} blame: {@-ṃ pra-yā@}, incur censure; {@-galita-@}
-<>{@-śuc@}, {%a.%} freed from sorrow.
+{#vigada#}¦ vi-gadá, <hom>1.</hom> <lex>m.</lex> confused shouting 🞄(<ab>RV.¹</ab>); <hom>2.</hom> {@a,@} <lex>a.</lex> healthy; {@-gandha,@} <lex>a.</lex> ill-smelling; 🞄odourless; {@-gandhi,@} <lex>a.</lex> ill-smelling; 🞄{@-gama,@} <lex>m.</lex> departure, disappearance, 🞄cessation; absence, lack; avoidance; {@-garhaṇa,@} <lex>n.</lex>, {@ā,@} <lex>f.</lex> censure, blame: {@-ṃ kṛ,@} blame; 🞄{@-garhya,@} <ab>fp.</ab> censurable, blameworthy: {@-tā,@} 🞄<lex>f.</lex> blame: {@-ṃ pra-yā,@} incur censure; {@-galitaśuc,@} <lex>a.</lex> freed from sorrow.
 <LEND>

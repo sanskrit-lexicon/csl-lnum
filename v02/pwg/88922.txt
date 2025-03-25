@@ -1,71 +1,70 @@
 <L>88922<pc>6-0838<k1>vasati<k2>vasati/
-{#vasati/#}¦ (von 5. {#vas#}) <lex>f.</lex> 
-<ls>UṆĀDIS. 4, 60.</ls> 
-<div n="1"> 1) {%das Haltmachen für die Nacht, Uebernachten; das Verweilen, Aufenthalt%}; = {#vAsa, avasTAna#} 
-<ls>TRIK. 3, 3, 182.</ls> 
-<ls>H. an. 3, 293.</ls> 
-<ls>MED. t. 151.</ls> {#na kaMcana vasatO pratyAcakzIta#} 
-<ls>TAITT. UP. 3, 10, 1.</ls> <ls>ŚAT. BR. 14, 9, 1, 5.</ls> {#tisraH - mArge vasatIruzitvA#} {%drei Mal übernachtend%} 
-<ls>RAGH. 7, 30.</ls> {#tasya mArgavaSAdekA baBUva vasatiryataH#} 
-<ls>15, 11.</ls> {#taveha vasatiH kutaH#} {%wie kannst du hier die Nacht über bleiben?%} 
-<ls>SĀH. D. 332, 10.</ls> {#grAmIRErvrajato janasya vasatirgrAme nizidDA yaTA#} 
-<ls>Spr. 1335.</ls> {#SarvarIm - tavASrame . uzitAH snehavasatim (uzitA smo ha va°#} ed. Bomb.) 
-<ls>R. 2, 54, 36.</ls> {#niveSanAnAM kzetrARAM vasatInAM ca dAtAraH#} 
-<ls>MBH. 13, 1672.</ls> {#ekAnte#} {%das Wohnen an einsamem Orte%} 
-<ls>Spr. 2279.</ls> {#ramyaM harmyatalaM na kiM vasataye#} 
-<ls>2589.</ls> <ls>KATHĀS. 115, 76.</ls> <ls>MBH. 3, 13282.</ls> {#araRye#} 
-<ls>8, 4252.</ls> {#pitfmandire#} 
-<ls>Spr. 5373.</ls> {#aDyAkrAntA vasatiramunApyASrame#} 
-<ls>ŚĀK. 47.</ls> {#AvAse nEkasminvasatiSciram#} 
-<ls>MĀRK. P. 28, 29.</ls> {#garBezu#} 
-<ls>Spr. 2734.</ls> {#carizyasi - vanezu vasatIH punaH#} so v. a. {%wohnen, sich aufhalten, leben%} 
-<ls>MBH. 3, 2044.</ls> {#yaTA rAjyAtpariBrazwo vasAmi vasatIrimAH#} 
-<ls>5, 2620. 3, 455.</ls> {#tvamivAjYAtavasatiM candro vasati vArzikIm#} 
-<ls>HARIV. 3571.</ls> {#uvAsa duHKavasatim#} {%ein Leben voller Leiden leben%} 
-<ls>MBH. 3, 16135.</ls> {#duHKavasatimimAM prAptAsmi SASvatIm#} 
-<ls>5, 7373.</ls> {#sa padme padmanABasya rocayAmAsa vasatim#} 
-<ls>HARIV. 2927.</ls> {#goloka°#} <lex>adj.</lex> 
-<ls>PAÑCAR. 4, 8, 22.</ls> {#tatra skandaM niyatavasatim#} 
-<ls>MEGH. 44.</ls> {#vasatiM kar#} {%sich niederlassen%}: {#cakre vasatiM rAmagiryASramezu#} 
-<ls>1.</ls> <ls>RĀJA-TAR. 2, 166.</ls> {#kftavasatiramuzminneva tasTO pure saH#} 
-<ls>KATHĀS. 29, 194.</ls> {#kftavasatayo yatra DaninaH#} {%wo reiche Leute wohnen%} 
-<ls>Spr. 770.</ls> 
-<ls>PAÑCAT. 123, 16.</ls> {#yasyAstoye kftavasatayaH - haMsAH#} 
-<ls>MEGH. 74.</ls> {#vasatiM grah#} dass. 
-<ls>KATHĀS. 10, 1</ls> <ls>?(für die Nacht). 24, 107.</ls> {#vasatiM banD#} dass. 
-<ls>RĀJA-TAR. 2, 97.</ls> 
-<div n="1">— 2) {%Nest%} 
-<ls>ṚV. 1, 25, 4.</ls> <ls n="ṚV. 1,">33, 2.</ls> {#utte\ vaya^Scidvasa\tera^paptan#} 
-<ls n="ṚV. 1,">124, 12.</ls> <ls n="ṚV.">6, 64, 6.</ls> <ls n="ṚV. 6,">3, 3.</ls> {#viryonA^ vasa\tAvi^va#} 
-<ls n="ṚV.">9, 62, 15.</ls> <ls n="ṚV.">10, 97, 5.</ls> <ls n="ṚV. 10,">127, 4.</ls> <ls>AV. 6, 83, 1.</ls>
+{#vasati/#}¦ (von 5. {#vas#}) <lex>f.</lex>
+<ls>UṆĀDIS. 4,60.</ls>
+<div n="1"> 1) {%das Haltmachen für die Nacht, Uebernachten; das Verweilen, Aufenthalt%}; = {#vAsa, avasTAna#}
+<ls>TRIK. 3,3,182.</ls>
+<ls>H. an. 3,293.</ls>
+<ls>MED. t. 151.</ls> {#na kaMcana vasatO pratyAcakzIta#}
+<ls>TAITT. UP. 3,10,1.</ls> <ls>ŚAT. BR. 14,9,1,5.</ls> {#tisraH — mArge vasatIruzitvA#} {%drei Mal übernachtend%}
+<ls>RAGH. 7,30.</ls> {#tasya mArgavaSAdekA baBUva vasatiryataH#}
+<ls n="RAGH.">15,11.</ls> {#taveha vasatiH kutaH#} {%wie kannst du hier die Nacht über bleiben?%}
+<ls>SĀH. D. 332,10.</ls> {#grAmIRErvrajato janasya vasatirgrAme nizidDA yaTA#}
+<ls>Spr. 1335.</ls> {#SarvarIm — tavASrame . uzitAH snehavasatim (uzitA smo ha va°#} <ls>ed. Bomb.</ls>)
+<ls>R. 2,54,36.</ls> {#niveSanAnAM kzetrARAM vasatInAM ca dAtAraH#}
+<ls>MBH. 13,1672.</ls> {#ekAnte#} {%das Wohnen an einsamem Orte%}
+<ls>Spr. 2279.</ls> {#ramyaM harmyatalaM na kiM vasataye#}
+<ls n="Spr.">2589.</ls> <ls>KATHĀS. 115,76.</ls> <ls>MBH. 3,13282.</ls> {#araRye#}
+<ls n="MBH.">8,4252.</ls> {#pitfmandire#}
+<ls>Spr. 5373.</ls> {#aDyAkrAntA vasatiramunApyASrame#}
+<ls>ŚĀK. 47.</ls> {#AvAse nEkasminvasatiSciram#}
+<ls>MĀRK. P. 28,29.</ls> {#garBezu#}
+<ls>Spr. 2734.</ls> {#carizyasi — vanezu vasatIH punaH#} so v. a. {%wohnen, sich aufhalten, leben%}
+<ls>MBH. 3,2044.</ls> {#yaTA rAjyAtpariBrazwo vasAmi vasatIrimAH#}
+<ls n="MBH.">5,2620.</ls> <ls n="MBH.">3,455.</ls> {#tvamivAjYAtavasatiM candro vasati vArzikIm#}
+<ls>HARIV. 3571.</ls> {#uvAsa duHKavasatim#} {%ein Leben voller Leiden leben%}
+<ls>MBH. 3,16135.</ls> {#duHKavasatimimAM prAptAsmi SASvatIm#}
+<ls n="MBH.">5,7373.</ls> {#sa padme padmanABasya rocayAmAsa vasatim#}
+<ls>HARIV. 2927.</ls> {#goloka°#} <lex>adj.</lex>
+<ls>PAÑCAR. 4,8,22.</ls> {#tatra skandaM niyatavasatim#}
+<ls>MEGH. 44.</ls> {#vasatiM kar#} {%sich niederlassen%}: {#cakre vasatiM rAmagiryASramezu#}
+<ls n="MEGH.">1.</ls> <ls>RĀJA-TAR. 2,166.</ls> {#kftavasatiramuzminneva tasTO pure saH#}
+<ls>KATHĀS. 29,194.</ls> {#kftavasatayo yatra DaninaH#} {%wo reiche Leute wohnen%}
+<ls>Spr. 770.</ls>
+<ls>PAÑCAT. 123,16.</ls> {#yasyAstoye kftavasatayaH — haMsAH#}
+<ls>MEGH. 74.</ls> {#vasatiM grah#} dass.
+<ls>KATHĀS. 10,1</ls> (für die Nacht). <ls n="KATHĀS.">24,107.</ls> {#vasatiM banD#} dass.
+<ls>RĀJA-TAR. 2,97.</ls>
+<div n="1">— 2) {%Nest%}
+<ls>ṚV. 1,25,4.</ls> <ls n="ṚV. 1,">33,2.</ls> {#utte\ vaya^Scidvasa\tera^paptan#}
+<ls n="ṚV. 1,">124,12.</ls> <ls n="ṚV.">6,64,6.</ls> <ls n="ṚV. 6,">3,3.</ls> {#viryonA^ vasa\tAvi^va#}
+<ls n="ṚV.">9,62,15.</ls> <ls n="ṚV.">10,97,5.</ls> <ls n="ṚV. 10,">127,4.</ls> <ls>AV. 6,83,1.</ls>
 [Page6-0839]
-
-<div n="1">— 3) {%Aufenthaltsort, Wohnung, Haus, Behausung%} 
-<ls>AK. 3, 4, 14, 69.</ls> 
-<ls>H. 991.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>ṚV. 1, 31, 15.</ls> <ls n="ṚV.">5, 2, 6.</ls> 
-<ls>VS. 18, 15.</ls> {#brA\hma\RaM vasa^tyE\ nApa^runDyAt#} 
-<ls>TBR. 3, 7, 3, 3. 2, 3, 5, 4</ls> ({#Avasati#} vom Comm. angenommen). 
-<ls>ŚAT. BR. 6, 8, 1, 12. 14. 13, 4, 2, 17.</ls> 
-<ls>VIKR. 137.</ls> 
-<ls>Spr. 3684.</ls> {#yakzeSvarARAm#} 
-<ls>MEGH. 7.</ls> {#ramaRa°#} 
-<ls>38.</ls> <ls>KATHĀS. 16, 30.</ls> {#vasatiM nijAm . praviveSa#} 
-<ls>93. 24, 110. 28, 189. 38, 157. 45, 150. 49, 236. 53, 73. 58, 13. 79, 31. 35. 86, 108.</ls> <ls>RĀJA-TAR. 3, 331. 4, 129. 431. 5, 481. 6, 237.</ls> <ls>PRAB. 80, 7.</ls> <ls>NALOD. 4, 29.</ls> {#jIviteSa°#} 
-<ls>RAGH. 11, 20.</ls> {#BujaMgamAnAm#} 
-<ls>6,77.</ls> <ls>RĀJA-TAR. 1,203.</ls> <ls>Verz. d. Oxf. H. 38,b,</ls> <ls>No. 95.</ls> {%Niederlassung%} 
-<ls>MĀRK. P. 49, 47. fg.</ls> {%ein%} <is>Jaina</is>- {%Kloster%} 
-<ls>HALĀY. 5, 21.</ls> {%Behausung%} so v. a. {%eine Stätte von, - für%}: {#vasusaMpadAm#} 
-<ls>KUMĀRAS. 6, 37.</ls> {#avajYAvihasita°#} 
-<ls>Spr. 711, v. l.</ls> {#DarmEka°#} 
-<ls>KATHĀS. 67, 37.</ls> {#tacCaNkA°#} 
-<ls>RĀJA-TAR. 4, 93.</ls> {#SOryaSfNgAra°#} 
-<ls>5, 233.</ls> <ls>DHŪRTAS. 73, 16. 83, 2.</ls> 
-<div n="1">— 4) {%Nacht%} 
-<ls>AK.</ls> <ls>H. 142.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1, 108.</ls> {#na Sete vasatIramarzAt#} 
-<ls>MBH. 3, 14752. 15, 804.</ls> {#tisfRAM#} (so die ed. Bomb.) {#vasatInAM hi sTAnaM paramaduScaram#} 
-<ls>3, 16718.</ls> 
+<div n="1">— 3) {%Aufenthaltsort, Wohnung, Haus, Behausung%}
+<ls>AK. 3,4,14,69.</ls>
+<ls>H. 991.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>ṚV. 1,31,15.</ls> <ls n="ṚV.">5,2,6.</ls>
+<ls>VS. 18,15.</ls> {#brA\hma\RaM vasa^tyE\ nApa^runDyAt#}
+<ls>TBR. 3,7,3,3. 2,3,5,4</ls> ({#Avasati#} vom Comm. angenommen).
+<ls>ŚAT. BR. 6,8,1,12. 14. 13,4,2,17.</ls>
+<ls>VIKR. 137.</ls>
+<ls>Spr. 3684.</ls> {#yakzeSvarARAm#}
+<ls>MEGH. 7.</ls> {#ramaRa°#}
+<ls n="MEGH.">38.</ls> <ls>KATHĀS. 16,30.</ls> {#vasatiM nijAm . praviveSa#}
+<ls n="KATHĀS. 16,">93.</ls> <ls n="KATHĀS.">24,110.</ls> <ls n="KATHĀS.">28,189.</ls> <ls n="KATHĀS.">38,157.</ls> <ls n="KATHĀS.">45,150.</ls> <ls n="KATHĀS.">49,236.</ls> <ls n="KATHĀS.">53,73.</ls> <ls n="KATHĀS.">58,13.</ls> <ls n="KATHĀS.">79,31.</ls> <ls n="KATHĀS. 79,">35.</ls> <ls n="KATHĀS.">86,108.</ls> <ls>RĀJA-TAR. 3,331. 4,129. 431. 5,481. 6,237.</ls> <ls>PRAB. 80,7.</ls> <ls>NALOD. 4,29.</ls> {#jIviteSa°#}
+<ls>RAGH. 11,20.</ls> {#BujaMgamAnAm#}
+<ls n="RAGH.">6,77.</ls> <ls>RĀJA-TAR. 1,203.</ls> <ls>Verz. d. Oxf. H. 38,b, No. 95.</ls> {%Niederlassung%}
+<ls>MĀRK. P. 49,47. fg.</ls> {%ein%} <is>Jaina</is>- {%Kloster%}
+<ls>HALĀY. 5,21.</ls> {%Behausung%} so v. a. {%eine Stätte von, — für%}: {#vasusaMpadAm#}
+<ls>KUMĀRAS. 6,37.</ls> {#avajYAvihasita°#}
+<ls>Spr. 711, v. l.</ls> {#DarmEka°#}
+<ls>KATHĀS. 67,37.</ls> {#tacCaNkA°#}
+<ls>RĀJA-TAR. 4,93.</ls> {#SOryaSfNgAra°#}
+<ls n="RĀJA-TAR.">5,233.</ls> <ls>DHŪRTAS. 73,16. 83,2.</ls>
+<div n="1">— 4) {%Nacht%}
+<ls>AK.</ls> <ls>H. 142.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1,108.</ls> {#na Sete vasatIramarzAt#}
+<ls>MBH. 3,14752.</ls> <ls n="MBH.">15,804.</ls> {#tisfRAM#} (so die <ls>ed. Bomb.</ls>) {#vasatInAM hi sTAnaM paramaduScaram#}
+<ls n="MBH.">3,16718.</ls>
 <div n="v">— Vgl. {#garBa°, durvasati, pitf°, prati°, rAja°, sattra°, saha°#} .
 <LEND>

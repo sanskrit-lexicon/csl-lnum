@@ -1,13 +1,13 @@
-<L>79902<pc>4268-1<k1>BI<k2>BI<h>1<e>500
-1. {#BI#}¦ , {#Ba/yate#} , {#biBe/ti#} , {#biBye#} (episch) , {#Ba/yamAna#} und {#BiyAna/#} ; {%sich fürchten , — vor%} (<ab>Abl.</ab> oder <ab>Gen.</ab> , ganz ausnahmsweise auch <ab>Instr.</ab> und <ab>Acc.</ab>) , {%fürchten — , besorgt sein für%} (<ab>Abl.</ab>) {#mA#} {#BEH#} einmal auch zu Vielen gesagt. {#BIta/#} {%sich fürchtend , erschrocken , in Angst seiend , — vor%} (<ab>Abl.</ab> , <ab>Gen.</ab> oder im Comp. vorangehend) , {%fürchtend für , besorgend%} (die Ergänzung im Comp. vorangehend). {#BItam#} <ab>Adv.</ab>
-<div n="m">— <ab>Caus.</ab> {#BIzayati#} ( {#BizayantI#} metrisch im <ls>BHĀG.P.</ls> ), {#BIza/yate#} , {#BAyayati#} und {#*BApayate#} {%erschrecken%} (trans.) , {%schrecken , einschüchtern.%}
+<L>79902<pc>4-268-a<k1>BI<k2>BI<h>1
+<hom>1.</hom> √{#BI#}¦, {#Ba/yate#}, {#biBe/ti#}, {#biBye#} (episch), {#Ba/yamAna#} und {#BiyAna/#}; {%sich fürchten, — vor%} (<ab>Abl.</ab> oder <ab>Gen.</ab>, ganz ausnahmsweise auch <ab>Instr.</ab> und <ab>Acc.</ab>), {%fürchten —, besorgt sein für%} (<ab>Abl.</ab>) {#mA BEH#} einmal auch zu Vielen gesagt. {#BIta/#} {%sich fürchtend, erschrocken, in Angst seiend, — vor%} (<ab>Abl.</ab>, <ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend), {%fürchtend für, besorgend%} (die Ergänzung im <ab>Comp.</ab> vorangehend). {#BItam#} <lex>Adv.</lex>
+<div n="m">— <ab>Caus.</ab> {#BIzayati#} ({#BizayantI#} metrisch im <ls>BHĀG. P.</ls>), {#BIza/yate#}, {#BAyayati#} und *{#BApayate#} {%erschrecken%} (<ab>trans.</ab>), {%schrecken, einschüchtern%}.
 <div n="m">— *<ab>Intens.</ab> {#beBIyate#}.
-<div n="p">— Mit {#ati#} {%heftig erschrecken.%} {#°BIya#} <ls>NAIṢ.6,68.</ls>
+<div n="p">— Mit {#ati#} {%heftig erschrecken%}. {#°BIya#} <ls>NAIṢ. 6,68</ls>.
 <div n="p">— Mit {#A#} in {#anABayin#} und {#ABIla#}.
-<div n="p">— Mit {#ni#} <ab>Caus.</ab> ( {#biBAyya#}) {%schrecken , einschüchtern.%}
+<div n="p">— Mit {#ni#} <ab>Caus.</ab> ({#biBAyya#}) {%schrecken, einschüchtern%}.
 <div n="p">— Mit {#pari#} in {#°BAya#}.
-<div n="p">— Mit {#pra#} {%erschrecken vor%} (<ab>Abl.</ab>) {#praBIta#} {%erschrocken.%}
-<div n="p">— Mit {#vi#} {%erschrecken%} (intrans.). {#viBIta#} {%erschrocken.%}
-<div n="m">— <ab>Caus.</ab> ( {#°BIzayati#} , {#°te#} , {#°bIBayat#} , {#°bIBizaTAs#} , {#°bIBIzas#}) {%schrecken , einschüchtern.%}
-<div n="p">— Mit {#sam#} , {#saMBIta#} {%sich fürchtend vor%} (<ab>Gen.</ab>).
+<div n="p">— Mit {#pra#} {%erschrecken vor%} (<ab>Abl.</ab>) {#praBIta#} {%erschrocken%}.
+<div n="p">— Mit {#vi#} {%erschrecken%} (<ab>intrans.</ab>). {#viBIta#} {%erschrocken%}.
+<div n="m">— <ab>Caus.</ab> ({#°BIzayati#}, {#°te#}, {#°bIBayat#}, {#°bIBizaTAs#}, {#°bIBIzas#}) {%schrecken, einschüchtern%}.
+<div n="p">— Mit {#sam#}, {#saMBIta#} {%sich fürchtend vor%} (<ab>Gen.</ab>).
 <LEND>

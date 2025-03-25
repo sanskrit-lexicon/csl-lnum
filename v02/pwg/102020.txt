@@ -1,20 +1,20 @@
 <L>102020<pc>7-0400<k1>SlaTa<k2>SlaTa
-{#SlaTa#}¦ <lex>adj.</lex> = {#SiTira, SiTila#} {%locker, lose, schlaff, nicht fest sitzend%} 
-<ls>TRIK. 3, 1, 7.</ls> 
-<ls>H. 491.</ls> 
-<ls>HALĀY. 4, 92.</ls> {#°hastagARqiva#} 
-<ls>MBH. 8, 4778.</ls> {#°banDana#} 
-<ls>ṚT. 6, 8.</ls> {#vfntAcClaTaM harati puzpamanokahAnAm#} ({#vAyuH#}) 
-<ls>RAGH. 5, 69.</ls> {#°SiYjitameKalA#} 
-<ls>?9, 36. 19, 26. ŚĀK. 133, v. l. VIKR. 146. ŚIŚ. 7, 62.</ls> {#SlaTANga#} 
-<ls>Spr. (II) 622.</ls> {#SlaTANgatA#} 
-<ls>VĀGBH. 1, 11, 8.</ls> {#°saMDitA#} 
-<ls>16.</ls> <ls>VARĀH. BṚH. S. 67, 2. 68, 38.</ls> <ls>KATHĀS. 19, 99. 45, 158. 104, 88.</ls> <ls>GĪT. 2, 15. 12, 13.</ls> {#°SilaH kUpaH#} 
-<ls>Spr. (II) 3899.</ls> 
-<ls>GOLĀDHY.</ls> <ls>YANTR. 10.</ls> {#°lambinIrjawAH#} (adv.) 
-<ls>KUMĀRAS. 5, 47.</ls> {%schlaff, schwach%}: {#SlaTodyama#} 
-<ls>Spr. (II) 4299.</ls> {#SlaTAdara#} 
-<ls>PRAB. 109, 7.</ls> {#apari°#} {%recht fest, - stark%}: {#anekavAramapariSlaTaM#} (adv.) {#parizvajasva#} 
-<ls>UTTARAR. 108, 18 (147, 8).</ls> 
+{#SlaTa#}¦ <lex>adj.</lex> = {#SiTira, SiTila#} {%locker, lose, schlaff, nicht fest sitzend%}
+<ls>TRIK. 3,1,7.</ls>
+<ls>H. 491.</ls>
+<ls>HALĀY. 4,92.</ls> {#°hastagARqiva#}
+<ls>MBH. 8,4778.</ls> {#°banDana#}
+<ls>ṚT. 6,8.</ls> {#vfntAcClaTaM harati puzpamanokahAnAm#} ({#vAyuH#})
+<ls>RAGH. 5,69.</ls> {#°SiYjitameKalA#}
+<ls n="RAGH.">9,36.</ls> <ls n="RAGH.">19,26.</ls> <ls>ŚĀK. 133, v. l.</ls> <ls>VIKR. 146.</ls> <ls>ŚIŚ. 7,62.</ls> {#SlaTANga#}
+<ls>Spr. (II) 622.</ls> {#SlaTANgatA#}
+<ls>VĀGBH. 1,11,8.</ls> {#°saMDitA#}
+<ls n="VĀGBH. 1,11,">16.</ls> <ls>VARĀH. BṚH. S. 67,2. 68,38.</ls> <ls>KATHĀS. 19,99.</ls> <ls n="KATHĀS.">45,158.</ls> <ls n="KATHĀS.">104,88.</ls> <ls>GĪT. 2,15. 12,13.</ls> {#°SilaH kUpaH#}
+<ls>Spr. (II) 3899.</ls>
+<ls>GOLĀDHY.</ls> <ls>YANTR. 10.</ls> {#°lambinIrjawAH#} (adv.)
+<ls>KUMĀRAS. 5,47.</ls> {%schlaff, schwach%}: {#SlaTodyama#}
+<ls>Spr. (II) 4299.</ls> {#SlaTAdara#}
+<ls>PRAB. 109,7.</ls> {#apari°#} {%recht fest, — stark%}: {#anekavAramapariSlaTaM#} (adv.) {#parizvajasva#}
+<ls>UTTARAR. 108,18 (147,8).</ls>
 <div n="v">— Vgl. {#pra°, vi°#} .
 <LEND>

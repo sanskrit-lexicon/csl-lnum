@@ -1,6 +1,6 @@
 <L>9923<pc>235-a<k1>equipage<k2>equipage
-<div n="lb"/>EQUIPAGE¦, {%s.%} (Implements, materials) {#upakaraRaM, sADanaM, sAmagryaM#}
-<div n="lb"/>{#-grI, samBAraH, upaskaraH#}. — (Paraphernalia) {#sajjA, paricCadaH, sannAhaH,#}
-<div n="lb"/>{#alaNkriyA#}. — (Of war) {#yudDasajjA, yudDopakaraRaM, vAhinI#}. — (Retinue)
-<div n="lb"/>{#parivarhaH, varhaH, tantraM#}. — (Vehicle) {#vAhanaM, vimAnaM#}.
+EQUIPAGE¦, {%s.%} (Implements, materials) {#upakaraRaM, sADanaM, sAmagryaM#}
+{#-grI, samBAraH, upaskaraH#}. — (Paraphernalia) {#sajjA, paricCadaH, sannAhaH,#}
+{#alaNkriyA#}. — (Of war) {#yudDasajjA, yudDopakaraRaM, vAhinI#}. — (Retinue)
+{#parivarhaH, varhaH, tantraM#}. — (Vehicle) {#vAhanaM, vimAnaM#}.
 <LEND>

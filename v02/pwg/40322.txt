@@ -1,14 +1,14 @@
 <L>40322<pc>4-0260<k1>niHsaMSaya<k2>niHsaMSaya
-{#niHsaMSaya#}¦ ({#nis + saM°#}) <lex>adj.</lex> 
-<div n="1"> 1) {%worüber kein Zweifel besteht, unfehlbar, gewiss%}: {#baDa#} 
-<ls>BRĀHMAṆ. 2, 30.</ls> {#mftyu#} 
-<ls>MBH. 1, 8389. 2, 674. 14, 1349.</ls> 
-<ls>R. 5, 1, 80. 81. 29, 31.</ls> {#°yam#} adv. {%ohne allen Zweifel, unfehlbar, gewiss%} 
-<ls>MBH. 3, 1243. 1245. 2344.</ls> 
-<ls>R. 2, 43, 16.</ls> 
-<ls>VARĀH. BṚH. S. 45, 57.</ls> 
-<div n="1">— 2) {%sich keinem Zweifel hingebend, nicht ungewiss über Etwas seiend%}: {#arTasaMSayamApannaH SreyAnniHsaMSayo naraH#} 
-<ls>MBH. 5, 7080. 3, 1244.</ls> {#sTEryamatra kaTaM me syAtsa tvaM niHsaMSayaM kuru#} (sc. {#mAm#}) 
-<ls>14, 173.</ls> {#kuru niHsaMSayaM vatse svavftte lokam#} 
-<ls>RAGH. 15, 79.</ls>
+{#niHsaMSaya#}¦ ({#nis + saM°#}) <lex>adj.</lex>
+<div n="1"> 1) {%worüber kein Zweifel besteht, unfehlbar, gewiss%}: {#baDa#}
+<ls>BRĀHMAṆ. 2,30.</ls> {#mftyu#}
+<ls>MBH. 1,8389.</ls> <ls n="MBH.">2,674.</ls> <ls n="MBH.">14,1349.</ls>
+<ls>R. 5,1,80.</ls> <ls n="R. 5,1,">81.</ls> <ls n="R. 5,">29,31.</ls> {#°yam#} adv. {%ohne allen Zweifel, unfehlbar, gewiss%}
+<ls>MBH. 3,1243.</ls> <ls n="MBH. 3,">1245.</ls> <ls n="MBH. 3,">2344.</ls>
+<ls>R. 2,43,16.</ls>
+<ls>VARĀH. BṚH. S. 45,57.</ls>
+<div n="1">— 2) {%sich keinem Zweifel hingebend, nicht ungewiss über Etwas seiend%}: {#arTasaMSayamApannaH SreyAnniHsaMSayo naraH#}
+<ls>MBH. 5,7080.</ls> <ls n="MBH.">3,1244.</ls> {#sTEryamatra kaTaM me syAtsa tvaM niHsaMSayaM kuru#} (sc. {#mAm#})
+<ls n="MBH.">14,173.</ls> {#kuru niHsaMSayaM vatse svavftte lokam#}
+<ls>RAGH. 15,79.</ls>
 <LEND>

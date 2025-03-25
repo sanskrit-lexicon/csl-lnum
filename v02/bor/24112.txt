@@ -1,10 +1,10 @@
 <L>24112<pc>754<k1>waste<k2>waste
-<div n="lb"/>{@WASTE@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#kzayaH,#} <div n="xe">{%in the%}
-<div n="lb"/>{%case of immoveables shall be made to pay the w.:%}</div>
-<div n="lb"/><div n="xs">{#sTAvarasya kzayaM dApyaH,#}</div> N. s.; </div><div n="1">(2) {#apacayaH,#} <div n="xe">{%increase%}
-<div n="lb"/>{%and w.:%}</div> <div n="xs">{#upacayApacayO,#}</div> Mit.; </div><div n="1">(3) {#apavyayaH#}
-<div n="lb"/>(= squandering); </div><div n="1">(4) {#kzepaH#} (= throwing
-<div n="lb"/>away). </div><div n="I">II W. land: </div><div n="1">(1) {#Kilam,#} <div n="xe">{%cultivation%}
-<div n="lb"/>{%of w.:%}</div> <div n="xs">{#KilakarzaRam,#}</div> Viv.; </div><div n="1">(2) {#KilaBUmiH#} and
-<div n="lb"/>sim. comp. s.</div>
+{@WASTE@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#kzayaH,#} <div n="xe">{%in the%}
+{%case of immoveables shall be made to pay the w.:%}</div>
+<div n="xs">{#sTAvarasya kzayaM dApyaH,#}</div> N. s.; </div><div n="1">(2) {#apacayaH,#} <div n="xe">{%increase%}
+{%and w.:%}</div> <div n="xs">{#upacayApacayO,#}</div> Mit.; </div><div n="1">(3) {#apavyayaH#}
+(= squandering); </div><div n="1">(4) {#kzepaH#} (= throwing
+away). </div><div n="I">II W. land: </div><div n="1">(1) {#Kilam,#} <div n="xe">{%cultivation%}
+{%of w.:%}</div> <div n="xs">{#KilakarzaRam,#}</div> Viv.; </div><div n="1">(2) {#KilaBUmiH#} and
+sim. comp. s.</div>
 <LEND>

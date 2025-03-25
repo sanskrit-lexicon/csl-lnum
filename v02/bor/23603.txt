@@ -1,5 +1,5 @@
 <L>23603<pc>740<k1>urgency<k2>urgency
-<div n="lb"/>{@URGENCY:@}¦ <div n="I">I Importunity: </div><div n="1">(1) {#anuroDaH;#} </div><div n="1">(2)
-<div n="lb"/>{#grahaH#} <div n="xe">{%or%}</div> <div n="xs">{#grAhaH;#}</div> </div><div n="1">(3) {#nirbanDaH.#} </div><div n="I">II Pressure: </div><div n="1">(1)
-<div n="lb"/>{#uparoDaH;#} </div><div n="1">(2) {#BAraH#} (= burden).</div>
+{@URGENCY:@}¦ <div n="I">I Importunity: </div><div n="1">(1) {#anuroDaH;#} </div><div n="1">(2)
+{#grahaH#} <div n="xe">{%or%}</div> <div n="xs">{#grAhaH;#}</div> </div><div n="1">(3) {#nirbanDaH.#} </div><div n="I">II Pressure: </div><div n="1">(1)
+{#uparoDaH;#} </div><div n="1">(2) {#BAraH#} (= burden).</div>
 <LEND>

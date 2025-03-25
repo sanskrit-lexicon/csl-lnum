@@ -1,6 +1,6 @@
 <L>17597<pc>538<k1>predicate<k2>predicate
-<div n="lb"/>{@PREDICATE:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#viDeyam,#} Kav.; </div><div n="1">(2)
-<div n="lb"/>{#viSezaRam,#} M. n. on si. i. 48. </div><div n="I">II Verb: perh.
-<div n="lb"/>{#anuvadati#} ({#vad,#} c. 1.: {#anuvAdya#} = subject, Kav.);
-<div n="lb"/>{#uddiSya vadati#} ({#vad,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#vakti#}</div> ({#vac,#} c. 2.),</div>
+{@PREDICATE:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#viDeyam,#} Kav.; </div><div n="1">(2)
+{#viSezaRam,#} M. n. on si. i. 48. </div><div n="I">II Verb: perh.
+{#anuvadati#} ({#vad,#} c. 1.: {#anuvAdya#} = subject, Kav.);
+{#uddiSya vadati#} ({#vad,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#vakti#}</div> ({#vac,#} c. 2.),</div>
 <LEND>

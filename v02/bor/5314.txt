@@ -1,6 +1,6 @@
 <L>5314<pc>170<k1>customary<k2>customary
-<div n="lb"/>{@CUSTOMARY:@}¦ <div n="1">(1) {#AcAra#} in comp., <div n="xe">{%c. taking of%}
-<div n="lb"/>{%smoke:%}</div> <div n="xs">{#AcAraDUmagrahaRam,#}</div> K. Ph.: <div n="xe">{%it is c.:%}</div> <div n="xs">{#eza #}
-<div n="lb"/>{# AcAraH;#}</div> </div><div n="1">(2) {#nityaH#} ({#tyA, tyaM#}) (what should be
-<div n="lb"/>observed daily), B.</div>
+{@CUSTOMARY:@}¦ <div n="1">(1) {#AcAra#} in comp., <div n="xe">{%c. taking of%}
+{%smoke:%}</div> <div n="xs">{#AcAraDUmagrahaRam,#}</div> K. Ph.: <div n="xe">{%it is c.:%}</div> <div n="xs">{#eza #}
+{# AcAraH;#}</div> </div><div n="1">(2) {#nityaH#} ({#tyA, tyaM#}) (what should be
+observed daily), B.</div>
 <LEND>

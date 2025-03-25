@@ -1,6 +1,6 @@
 <L>10752<pc>339<k1>healing<k2>healing
-<div n="lb"/>{@HEALING@}¦ (adj.): <div n="1">(1) {#SAntikaraH#} ({#rI, raM#}); </div><div n="1">(2)
-<div n="lb"/>{#SAntidaH#} ({#dA, daM#}); </div><div n="1">(3) {#SItaH#} ({#tA, taM#}) (= cool).
-<div n="lb"/>Ph.: <div n="xe">{%the h. art:%}</div> <div n="xs">{#AmayAnAM SamopAyaH,#}</div> Bha.: v.
-<div n="lb"/>Medicine.</div>
+{@HEALING@}¦ (adj.): <div n="1">(1) {#SAntikaraH#} ({#rI, raM#}); </div><div n="1">(2)
+{#SAntidaH#} ({#dA, daM#}); </div><div n="1">(3) {#SItaH#} ({#tA, taM#}) (= cool).
+Ph.: <div n="xe">{%the h. art:%}</div> <div n="xs">{#AmayAnAM SamopAyaH,#}</div> Bha.: v.
+Medicine.</div>
 <LEND>

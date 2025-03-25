@@ -1,10 +1,10 @@
 <L>17971<pc>551<k1>property<k2>property
-<div n="lb"/>{@PROPERTY:@}¦ <div n="I">I Quality: q. v.: </div><div n="1">(1) {#DarmaH;#} </div><div n="1">(2)
-<div n="lb"/>{#guRaH.#} </div><div n="I">II What is possessed: </div><div n="1">(1) {#sampattiH;#}</div>
-<div n="lb"/><div n="1">(2) {#dravyam#} (= thing), <div n="xe">{%immoveable and moveable%}
-<div n="lb"/>{%p.:%}</div> <div n="xs">{#sTAvaraM jaNgamaM dravyam,#}</div> Vri.; </div><div n="1">(3) {#Danam#}
-<div n="lb"/>(= money), <div n="xe">{%woman's p.:%}</div> <div n="xs">{#strIDanam,#}</div> Mi.; </div><div n="1">(4)
-<div n="lb"/>{#arTaH#} (= 3.), <div n="xe">{%of paternal p.:%}</div> <div n="xs">{#pitryasyArTasya,#}</div> Da.;</div>
-<div n="lb"/><div n="1">(5) {#vittam.:#} v. Money; </div><div n="1">(6) {#svam#} (rare),
-<div n="lb"/><div n="xe">{%divided p.:%}</div> <div n="xs">{#viBaktaM svam,#}</div> Da.</div>
+{@PROPERTY:@}¦ <div n="I">I Quality: q. v.: </div><div n="1">(1) {#DarmaH;#} </div><div n="1">(2)
+{#guRaH.#} </div><div n="I">II What is possessed: </div><div n="1">(1) {#sampattiH;#}</div>
+<div n="1">(2) {#dravyam#} (= thing), <div n="xe">{%immoveable and moveable%}
+{%p.:%}</div> <div n="xs">{#sTAvaraM jaNgamaM dravyam,#}</div> Vri.; </div><div n="1">(3) {#Danam#}
+(= money), <div n="xe">{%woman's p.:%}</div> <div n="xs">{#strIDanam,#}</div> Mi.; </div><div n="1">(4)
+{#arTaH#} (= 3.), <div n="xe">{%of paternal p.:%}</div> <div n="xs">{#pitryasyArTasya,#}</div> Da.;</div>
+<div n="1">(5) {#vittam.:#} v. Money; </div><div n="1">(6) {#svam#} (rare),
+<div n="xe">{%divided p.:%}</div> <div n="xs">{#viBaktaM svam,#}</div> Da.</div>
 <LEND>

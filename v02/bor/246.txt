@@ -1,6 +1,6 @@
 <L>246<pc>010<k1>additional<k2>additional
-<div n="lb"/>{@ADDITIONAL:@}¦ Ph. {%on receiving the a. powers%}
-<div n="lb"/>{#*atiriktakzmatAM prApya;#} <div n="xe">{%there are additional reasons%}
-<div n="lb"/>{%for his departure%}</div> <div n="xs">{#*tasya prasTAnasyAparARi kAraRAni #}
-<div n="lb"/>{# santi.#}</div>
+{@ADDITIONAL:@}¦ Ph. {%on receiving the a. powers%}
+{#*atiriktakzmatAM prApya;#} <div n="xe">{%there are additional reasons%}
+{%for his departure%}</div> <div n="xs">{#*tasya prasTAnasyAparARi kAraRAni #}
+{# santi.#}</div>
 <LEND>

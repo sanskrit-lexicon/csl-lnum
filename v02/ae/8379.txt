@@ -1,7 +1,7 @@
 <L>8379<pc>366<k1>proprietor<k2>proprietor
 {@Proprietor,@}¦ {%s.%} {#svAmin#} {%m.%} {#praBuH, ISaH, patiH,#}
-<div n="lb"/>{#aDikArin#} {%m. See%} {@Owner. -ship,@} {%s.%}
-<div n="lb"/>{#svAmyaM, praButvaM, svAmitvaM, aDikAraH#}. {@-Pro-@}
-<div n="lb"/>{@-prietary,@} {%a.%} {#svAmyaDIna, praBunizWa, svAmigata;#}
-<div n="lb"/>‘p. right’ {#svAmyaM, aDikAraH, svatvaM#}.
+{#aDikArin#} {%m. See%} {@Owner. -ship,@} {%s.%}
+{#svAmyaM, praButvaM, svAmitvaM, aDikAraH#}. {@-Pro-@}
+{@-prietary,@} {%a.%} {#svAmyaDIna, praBunizWa, svAmigata;#}
+‘p. right’ {#svAmyaM, aDikAraH, svatvaM#}.
 <LEND>

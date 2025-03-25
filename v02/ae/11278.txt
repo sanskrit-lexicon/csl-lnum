@@ -1,18 +1,18 @@
 <L>11278<pc>497<k1>woman<k2>woman
 {@Woman,@}¦ {%s.%} {#strI, nArI, aMganA, abalA, yo-#}
-<div n="lb"/>{#-zit, vanitA, lalanA, yozA, sImaMtinI, vaDUH,#}
-<div n="lb"/>{#vAmA, mahilA;#} ‘nobly-born w.’ {#kulAM-#}
-<div n="lb"/>{#-ganA, kulajA,#} ‘young w.’ {#yuvatiH-#}
-<div n="lb"/>{#-tI, yUnI, taruRI, pramadA, bAlA,#} ‘beautiful
-<div n="lb"/>w.’ {#suMdarI, pramadA, suBagA, nitaMbinI, vAma-#}
-<div n="lb"/>{#-locanA;#} ‘an excellent w.’ {#varArohA,#}
-<div n="lb"/>{#mattakASinI, usamA, varavarRinI;#} ‘pas-
-<div n="lb"/>-sionate w.’ {#kopanA, BAminI;#} ‘old w.’
-<div n="lb"/>{#sTavirA, vfdDA, jaratI#} ‘virtuous w.’
-<div n="lb"/>{#satI, sADvI, pativratA, sucaritrA, kulastrI,#}
-<div n="lb"/>{#kulapAlikA#}. {@-nood,@} {%s.%} {#yOvamaM#}. {@-ish,@} {%a.%}
-<div n="lb"/>{#strIvat#} {%ind.,%} {#strERa#} ({#RI#} {%f.%}). {@-kind,@} {%s.%}
-<div n="lb"/>{#strIjanaH, abalAjanaH, strERa#}. {@-ly,@} {%a.%} ({%s.%}) in
-<div n="lb"/>comp.; ‘with w. timidity’ {#strIsvaBAva-#}
-<div n="lb"/>{#-sulaBakAtaratayA#}.
+{#-zit, vanitA, lalanA, yozA, sImaMtinI, vaDUH,#}
+{#vAmA, mahilA;#} ‘nobly-born w.’ {#kulAM-#}
+{#-ganA, kulajA,#} ‘young w.’ {#yuvatiH-#}
+{#-tI, yUnI, taruRI, pramadA, bAlA,#} ‘beautiful
+w.’ {#suMdarI, pramadA, suBagA, nitaMbinI, vAma-#}
+{#-locanA;#} ‘an excellent w.’ {#varArohA,#}
+{#mattakASinI, usamA, varavarRinI;#} ‘pas-
+-sionate w.’ {#kopanA, BAminI;#} ‘old w.’
+{#sTavirA, vfdDA, jaratI#} ‘virtuous w.’
+{#satI, sADvI, pativratA, sucaritrA, kulastrI,#}
+{#kulapAlikA#}. {@-nood,@} {%s.%} {#yOvamaM#}. {@-ish,@} {%a.%}
+{#strIvat#} {%ind.,%} {#strERa#} ({#RI#} {%f.%}). {@-kind,@} {%s.%}
+{#strIjanaH, abalAjanaH, strERa#}. {@-ly,@} {%a.%} ({%s.%}) in
+comp.; ‘with w. timidity’ {#strIsvaBAva-#}
+{#-sulaBakAtaratayA#}.
 <LEND>

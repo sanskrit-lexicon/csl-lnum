@@ -1,5 +1,5 @@
 <L>10913<pc>483<k1>uterus<k2>uterus
 {@Uterus,@}¦ {%s.%} {#garBakoSaH, garBASayaH, yoni#} {%f.%}
-<div n="lb"/>{@-Uterine,@} {%a.%} {#sahodara, sodara, samAnodara,#}
-<div n="lb"/>{#sanABi#}.
+{@-Uterine,@} {%a.%} {#sahodara, sodara, samAnodara,#}
+{#sanABi#}.
 <LEND>

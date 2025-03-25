@@ -1,89 +1,83 @@
 <L>14625<pc>2-0043<k1>kaTay<k2>kaTay
-{#kaTay#}¦, {#kaTa/yati#} 
-<ls>DHĀTUP. 35, 1.</ls> episch auch med.; {#acakaTat#} 
-<ls>P. 7, 4, 93,</ls>  
-<ls>Sch.</ls>
+{#kaTay#}¦, {#kaTa/yati#}
+<ls>DHĀTUP. 35,1.</ls> episch auch med.; {#acakaTat#}
+<ls>P. 7,4,93</ls>, <ls>Sch.</ls>
 [Page2-0044]
-auch {#acIkaTat#} 
-<ls>VOP. 17, 4.</ls> 
-<div n="1"> 1) {%sich mit Jmd%} (instr. oder {#saha#} mit instr.) {%unterhalten%}: {#evaM tO kaTayantO tu BUyaH SuSruvatuH svanam#} 
-<ls>BRĀHMAṆ. 1, 11.</ls> {#kaTayannEzaDena#} 
-<ls>N. 20, 31.</ls> {#sudevena saheikAnte kaTayantIm#} 
-<ls>16, 29.</ls> {#kaTayitvA - sumantreRa ciraM saha#} 
-<ls>R. 2, 57, 1.</ls> {#kaTita#} <lex>n.</lex> {%Gespräch%} 
-<ls>N. 22, 29.</ls> {#SrozyAmyAsAM viSramBakaTitAni#} 
-<ls>ŚĀK. 33, 3.</ls> 
-<div n="1">— 2) {%erzählen, mittheilen, berichten, reden von, auseinandersetzen%}; mit dem acc. der Sache oder der Person, von der geredet wird: {#hanta te kaTayizyAmi mahadAKyAnam#} 
-<ls>MBH. 1, 2206.</ls> {#kaTayanti miTaH kaTAH#} 
-<ls>R. 3, 1, 14.</ls> 
-<ls>HIT. 8, 18.</ls> {#hareradButavIryasya kaTAH - kaTayasva#} 
-<ls>BHĀG. P. 2, 8, 3.</ls> {#atra te kaTayizye 'mumitihAsaM purAtanam#} 
-<ls>4, 25, 9.</ls> <ls>MBH. 1, 2205.</ls> {#SIGraM kaTayasva#} 
-<ls>3, 13180.</ls> {#kaTayaDvaM yaTAtaTam#} 
-<ls>2136.</ls> {#rAmasya - vfttaM kaTaya#} 
-<ls>R. 1, 2, 35.</ls> {#tataH sarvaM yaTAvfttaM damayantyA nalasya ca . BImAyAkaTayat#} 
-<ls>N. 24, 42.</ls> {#tattasyE kaTayati#} 
-<ls>ŚĀK. 101, 7. 30, 13.</ls> {#kaTayAM baBUva#} 
-<ls>ARJ. 1, 11.</ls> {#etadvidvanyaTAnyAyaM vistareRa tapoDana . kaTayasva na me tfptiH kaTyamAnezu banDuzu#} 
-<ls>MBH. 1, 4488.</ls> {#akIrtiM cApi BUtAni kaTayizyanti te 'vyayAm#} 
-<ls>BHAG. 2, 34. 10, 18.</ls> {#Palametasya tapasaH kaTayaDvam#} 
-<ls>MBH. 1, 8340.</ls> {#mAtaraM pitaraM kulam . kaTayasva#} 
-<ls>MBH. 1, 5410.</ls> {#taM janAH kaTayantIha yAvadBavati gOriyam#} 
-<ls>13, 3168.</ls> {#damayantIsakASe tvAM kaTayizyAmi#} 
-<ls>N. 1, 20.</ls> {#sa cAsya kaTayAmAsa SavarIM SramaRAM tadA#} 
-<ls>R. 1, 1, 55.</ls> {#sA Kalu - mAM maharzeH kaTayizyati#} 
-<ls>ŚĀK. 7, 18.</ls> {#kaTayizyAmi SrutaboDam#} 
-<ls>ŚRUT.</ls> <ls>?(BR.) 1.</ls> {#paryutsukAM kaTayasi - tAm#} {%du schilderst sie als heftig verlangend%} 
-<ls>VIKR. 34.</ls> {#etadDi sarvametasya kaTayitvA gamizyasi#} 
-<ls>VID. 168.</ls> partic. {#kaTayant#} 
-<ls>BHAG. 18, 75.</ls> 
-<ls>R. 1, 8, 28.</ls> med.: {#imAni nArIvAkyAni kaTayAnaH punaH punaH#} 
-<ls>MBH. 3, 2906.</ls> — {#sanatkumAro BagavAnpurA kaTitavAnkaTAm#} 
-<ls>R. 1, 8, 6.</ls> {#kaTitavAnasmi ca Bavate#} 
-<ls>ŚĀK. 82, 8.</ls> pass.: {#kaTACalena bAlAnAM nItistadiha kaTyate#} 
-<ls>HIT. Pr. 7.</ls> {#na hi tfpyAmi kaTyataH#} (partic. praes.) 
-<ls>MBH. 3, 636.</ls> {#tasyEte kaTitA hyarTAH#} 
-<ls>ŚVETĀŚV. UP. 6, 23.</ls> {#kaTaM ca tvayi cEtena kaTitaM syAttu#} 
-<ls>N. 22, 13.</ls> {#yAH (giraH) kaTitAH purA#} 
-<ls>11, 6.</ls> {#kaTitasvargatiguroH#} 
-<ls>RAGH. 12, 15.</ls> 
-<div n="1">— 3) {%angeben, ankündigen, verrathen%}: {#Atmano yadi vAnyezAM gfhe kzetre 'Ta vA Kale . BakzayantIM (gAM) na kaTayetpivantaM cEva vatsakam ..#} 
-<ls>M. 11, 114.</ls> 
-<ls>N.</ls> <ls>?(BOPP) 12, 29. SUŚR. 1, 104, 19.</ls> {#BavantaM kaTayitvA sa mama#} 
-<ls>MBH. 14, 157.</ls> {#nAradena - kaTito 'si me#} 
-<ls>144.</ls> {#yadyasO rAjakule mAM kaTayizyati#} 
-<ls>MṚCCH. 64, 8.</ls> {#AkArasadfSaM cezwitamevAsya kaTayati#} {%schon sein der äusseren Erscheinung entsprechendes Benehmen verräth es%} 
-<ls>ŚĀK. 103, 18.</ls> {#paryaSruRI tu nayane tasyAH kaTayAM baBUvatuH sarvam#} 
-<ls>SĀH. D. 56, 21.</ls> 
-<ls>VIKR. 7.</ls> 
-<div n="1">— 4) {%annehmen, statuiren%}: {#dvAdaSAdityAnkaTayantIha DIrAH#} 
-<ls>MBH. 3, 10668.</ls> {#kaTitA hyetAH saMkzepeRa dvisaptatiH#} 
-<ls>M. 7, 157.</ls> 
-<div n="1">— 5) pass. {%genannt werden, heissen, für etwas gelten%}: {#tatrAjA vrIhayastrivArzikAH saptavArzikA vA kaTyante#} 
-<ls>PAÑCAT. 167, 2.</ls> {#pUrvajanmakftaM karma taddEvamiti kaTyate#} 
-<ls>HIT. Pr. 32.</ls> {#kOwilyaM kacasaMcaye#} u. s. w. {#sadEva kaTitaM mAyAprayogaH priye#} 
-<ls>PAÑCAT. I, 205.</ls> {#kaTitaM mARavakakrIqamidam#} 
-<ls>ŚRUT. 12. 20. 28.</ls> {#pramitAkzareti kaTitA kaviBiH#} 
-<ls>29.</ls> — Schon 
-<ls>SCHLEGEL</ls> <ls>?(Ind. Bibl. I, 337)</ls> hat die angebl. Wurzel {#kaTa#} (sie wird zweisilbig geschrieben) auf {#kaTam#} zurückgeführt und demnach als ursprüngliche Bed. aufgestellt: {%das Wie eines Ereignisses darlegen.%}
-
-<div n="p">— {#anu#} {%nacherwähnen%}: {#kaTitAnukaTito 'nvAdizwaH#} 
-<ls>P. 6, 2, 190,</ls> 
-<ls>Sch.</ls> 
+auch {#acIkaTat#}
+<ls>VOP. 17,4.</ls>
+<div n="1"> 1) {%sich mit Jmd%} (instr. oder {#saha#} mit instr.) {%unterhalten%}: {#evaM tO kaTayantO tu BUyaH SuSruvatuH svanam#}
+<ls>BRĀHMAṆ. 1,11.</ls> {#kaTayannEzaDena#}
+<ls>N. 20,31.</ls> {#sudevena saheikAnte kaTayantIm#}
+<ls n="N.">16,29.</ls> {#kaTayitvA — sumantreRa ciraM saha#}
+<ls>R. 2,57,1.</ls> {#kaTita#} <lex>n.</lex> {%Gespräch%}
+<ls>N. 22,29.</ls> {#SrozyAmyAsAM viSramBakaTitAni#}
+<ls>ŚĀK. 33,3.</ls>
+<div n="1">— 2) {%erzählen, mittheilen, berichten, reden von, auseinandersetzen%}; mit dem acc. der Sache oder der Person, von der geredet wird: {#hanta te kaTayizyAmi mahadAKyAnam#}
+<ls>MBH. 1,2206.</ls> {#kaTayanti miTaH kaTAH#}
+<ls>R. 3,1,14.</ls>
+<ls>HIT. 8,18.</ls> {#hareradButavIryasya kaTAH — kaTayasva#}
+<ls>BHĀG. P. 2,8,3.</ls> {#atra te kaTayizye 'mumitihAsaM purAtanam#}
+<ls n="BHĀG. P.">4,25,9.</ls> <ls>MBH. 1,2205.</ls> {#SIGraM kaTayasva#}
+<ls n="MBH.">3,13180.</ls> {#kaTayaDvaM yaTAtaTam#}
+<ls n="MBH. 3,">2136.</ls> {#rAmasya — vfttaM kaTaya#}
+<ls>R. 1,2,35.</ls> {#tataH sarvaM yaTAvfttaM damayantyA nalasya ca . BImAyAkaTayat#}
+<ls>N. 24,42.</ls> {#tattasyE kaTayati#}
+<ls>ŚĀK. 101,7.</ls> <ls n="ŚĀK.">30,13.</ls> {#kaTayAM baBUva#}
+<ls>ARJ. 1,11.</ls> {#etadvidvanyaTAnyAyaM vistareRa tapoDana . kaTayasva na me tfptiH kaTyamAnezu banDuzu#}
+<ls>MBH. 1,4488.</ls> {#akIrtiM cApi BUtAni kaTayizyanti te 'vyayAm#}
+<ls>BHAG. 2,34. 10,18.</ls> {#Palametasya tapasaH kaTayaDvam#}
+<ls>MBH. 1,8340.</ls> {#mAtaraM pitaraM kulam . kaTayasva#}
+<ls>MBH. 1,5410.</ls> {#taM janAH kaTayantIha yAvadBavati gOriyam#}
+<ls n="MBH.">13,3168.</ls> {#damayantIsakASe tvAM kaTayizyAmi#}
+<ls>N. 1,20.</ls> {#sa cAsya kaTayAmAsa SavarIM SramaRAM tadA#}
+<ls>R. 1,1,55.</ls> {#sA Kalu — mAM maharzeH kaTayizyati#}
+<ls>ŚĀK. 7,18.</ls> {#kaTayizyAmi SrutaboDam#}
+<ls>ŚRUT.</ls> (<ls>BR.) 1.</ls> {#paryutsukAM kaTayasi — tAm#} {%du schilderst sie als heftig verlangend%}
+<ls>VIKR. 34.</ls> {#etadDi sarvametasya kaTayitvA gamizyasi#}
+<ls>VID. 168.</ls> partic. {#kaTayant#}
+<ls>BHAG. 18,75.</ls>
+<ls>R. 1,8,28.</ls> med.: {#imAni nArIvAkyAni kaTayAnaH punaH punaH#}
+<ls>MBH. 3,2906.</ls> — {#sanatkumAro BagavAnpurA kaTitavAnkaTAm#}
+<ls>R. 1,8,6.</ls> {#kaTitavAnasmi ca Bavate#}
+<ls>ŚĀK. 82,8.</ls> pass.: {#kaTACalena bAlAnAM nItistadiha kaTyate#}
+<ls>HIT. Pr. 7.</ls> {#na hi tfpyAmi kaTyataH#} (partic. praes.)
+<ls>MBH. 3,636.</ls> {#tasyEte kaTitA hyarTAH#}
+<ls>ŚVETĀŚV. UP. 6,23.</ls> {#kaTaM ca tvayi cEtena kaTitaM syAttu#}
+<ls>N. 22,13.</ls> {#yAH (giraH) kaTitAH purA#}
+<ls n="N.">11,6.</ls> {#kaTitasvargatiguroH#}
+<ls>RAGH. 12,15.</ls>
+<div n="1">— 3) {%angeben, ankündigen, verrathen%}: {#Atmano yadi vAnyezAM gfhe kzetre 'Ta vA Kale . BakzayantIM (gAM) na kaTayetpivantaM cEva vatsakam ..#}
+<ls>M. 11,114.</ls>
+<ls>N. (BOPP) 12,29.</ls> <ls>SUŚR. 1,104,19.</ls> {#BavantaM kaTayitvA sa mama#}
+<ls>MBH. 14,157.</ls> {#nAradena — kaTito 'si me#}
+<ls n="MBH. 14,">144.</ls> {#yadyasO rAjakule mAM kaTayizyati#}
+<ls>MṚCCH. 64,8.</ls> {#AkArasadfSaM cezwitamevAsya kaTayati#} {%schon sein der äusseren Erscheinung entsprechendes Benehmen verräth es%}
+<ls>ŚĀK. 103,18.</ls> {#paryaSruRI tu nayane tasyAH kaTayAM baBUvatuH sarvam#}
+<ls>SĀH. D. 56,21.</ls>
+<ls>VIKR. 7.</ls>
+<div n="1">— 4) {%annehmen, statuiren%}: {#dvAdaSAdityAnkaTayantIha DIrAH#}
+<ls>MBH. 3,10668.</ls> {#kaTitA hyetAH saMkzepeRa dvisaptatiH#}
+<ls>M. 7,157.</ls>
+<div n="1">— 5) pass. {%genannt werden, heissen, für etwas gelten%}: {#tatrAjA vrIhayastrivArzikAH saptavArzikA vA kaTyante#}
+<ls>PAÑCAT. 167,2.</ls> {#pUrvajanmakftaM karma taddEvamiti kaTyate#}
+<ls>HIT. Pr. 32.</ls> {#kOwilyaM kacasaMcaye#} u. s. w. {#sadEva kaTitaM mAyAprayogaH priye#}
+<ls>PAÑCAT. I,205.</ls> {#kaTitaM mARavakakrIqamidam#}
+<ls>ŚRUT. 12. 20. 28.</ls> {#pramitAkzareti kaTitA kaviBiH#}
+<ls n="ŚRUT.">29.</ls> — Schon
+<ls>SCHLEGEL</ls> (<ls>Ind. Bibl. I,337</ls>) hat die angebl. Wurzel {#kaTa#} (sie wird zweisilbig geschrieben) auf {#kaTam#} zurückgeführt und demnach als ursprüngliche Bed. aufgestellt: {%das Wie eines Ereignisses darlegen.%}
+<div n="p">— {#anu#} {%nacherwähnen%}: {#kaTitAnukaTito 'nvAdizwaH#}
+<ls>P. 6,2,190</ls>, <ls>Sch.</ls>
 <div n="v">— Vgl. {#anukaTana#} .
-
-<div n="p">— {#pra#} {%verkünden, melden%}: {#yAvanniHSreyasaM vAkyaM kiMcitprakaTayAmyaham#} 
-<ls>R. 5, 1, 93.</ls> {#prakaTayya gataH#} 
-<ls>P. 6, 4, 56,</ls> 
-<ls>Sch.</ls> 
+<div n="p">— {#pra#} {%verkünden, melden%}: {#yAvanniHSreyasaM vAkyaM kiMcitprakaTayAmyaham#}
+<ls>R. 5,1,93.</ls> {#prakaTayya gataH#}
+<ls>P. 6,4,56</ls>, <ls>Sch.</ls>
 <div n="v">— Vgl. {#prakaTana#} .
-
 <div n="p">— {#sam#} {%erzählen, mittheilen, berichten, reden von, auseinandersetzen%};
 [Page2-0045]
-mit dem acc. der Sache oder der Person, von der geredet wird: {#saMkaTayAM baBUva DarmAnilendrapraBavAnyamO ca#} 
-<ls>MBH. 3, 14745.</ls> {#tvayA sakaTyamAnena mahimnA sAttvatAM pateH . nAtitfpyati me cittam#} 
-<ls>BHĀG. P. 8, 5, 13.</ls> {#evaM saMkaTite kftsne mokzaDarme#} 
-<ls>MBH. 3, 14000. 2, 886.</ls> 
-<ls>R. 3, 20, 36.</ls> 
+mit dem acc. der Sache oder der Person, von der geredet wird: {#saMkaTayAM baBUva DarmAnilendrapraBavAnyamO ca#}
+<ls>MBH. 3,14745.</ls> {#tvayA sakaTyamAnena mahimnA sAttvatAM pateH . nAtitfpyati me cittam#}
+<ls>BHĀG. P. 8,5,13.</ls> {#evaM saMkaTite kftsne mokzaDarme#}
+<ls>MBH. 3,14000.</ls> <ls n="MBH.">2,886.</ls>
+<ls>R. 3,20,36.</ls>
 <div n="v">— Vgl. {#saMkaTA#}.
 <LEND>

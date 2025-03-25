@@ -1,16 +1,16 @@
 <L>2409<pc>086<k1>crime<k2>crime
 {@Crime,@}¦ {%s.%} {#aparADaH, pApaM, dozaH, pAtakaM, pApa-#}
-<div n="lb"/>{#-karman#} {%n.,%} {#duritaM;#} ‘a heinous c.’ {#Gora-mahA-#}
-<div n="lb"/>{#-pAtakaM#}. {@-Criminal,@} {%a.%} or {%s.%} {#aparADin,#}
-<div n="lb"/>{#pApin, sapApa, pAtakin, kftAparADa, pApa-#}
-<div n="lb"/>{#-karman,#} {%n,%} {#sadoza, duzkftin; daMqya, dozagrasta;#}
-<div n="lb"/>‘c. act’ {#pApakriyA;#} ‘c. law’ {#daMqaviDiH-#}
-<div n="lb"/>{#-SAsanaM#}. {@-ly,@} {%adv.%} {#sAparADaM, sadozaM#}. {@2@} {#daMqa-#}
-<div n="lb"/>{#-viDinyAyena, daMqaviDivat#}. {@-ity,@} {%s.%} {#sapApatA,#}
-<div n="lb"/>{#aparADitA, sadozatvaM#}. {@-Criminate,@} {%v. t.%}
-<div n="lb"/>{#dozIkf#} 8 U, {#sAparADa-sadoza#} {%a.%} {#kf, dozeRa#}
-<div n="lb"/>{#lip#} 6 P. {@2@} {#aBiSaMs#} 1 P, {#aBiyuj#} 7 A,
-<div n="lb"/>10. {@-ion,@} {%s.%} {#aBiyogaH, dozIkaraRaM, dozAro-#}
-<div n="lb"/>{#-paRaM, aBiSaMsanaM#}. {@-ory,@} {%a.%} {#aBiSaMsaka;#}
-<div n="lb"/>{#sadoza#}.
+{#-karman#} {%n.,%} {#duritaM;#} ‘a heinous c.’ {#Gora-mahA-#}
+{#-pAtakaM#}. {@-Criminal,@} {%a.%} or {%s.%} {#aparADin,#}
+{#pApin, sapApa, pAtakin, kftAparADa, pApa-#}
+{#-karman,#} {%n,%} {#sadoza, duzkftin; daMqya, dozagrasta;#}
+‘c. act’ {#pApakriyA;#} ‘c. law’ {#daMqaviDiH-#}
+{#-SAsanaM#}. {@-ly,@} {%adv.%} {#sAparADaM, sadozaM#}. {@2@} {#daMqa-#}
+{#-viDinyAyena, daMqaviDivat#}. {@-ity,@} {%s.%} {#sapApatA,#}
+{#aparADitA, sadozatvaM#}. {@-Criminate,@} {%v. t.%}
+{#dozIkf#} 8 U, {#sAparADa-sadoza#} {%a.%} {#kf, dozeRa#}
+{#lip#} 6 P. {@2@} {#aBiSaMs#} 1 P, {#aBiyuj#} 7 A,
+10. {@-ion,@} {%s.%} {#aBiyogaH, dozIkaraRaM, dozAro-#}
+{#-paRaM, aBiSaMsanaM#}. {@-ory,@} {%a.%} {#aBiSaMsaka;#}
+{#sadoza#}.
 <LEND>

@@ -1,88 +1,88 @@
 <L>40143<pc>4-0248<k1>nizWa<k2>nizWa
-{#nizWa#}¦ (von {#sTA#} mit {#ni#} oder {#nis#}) 
-<div n="1"> 1) <lex>adj.</lex> (vgl. {#nizWA#}) am Ende eines comp. <lex>f.</lex> {#A#} 
-<div n="2"> a) {%gelegen auf, befindlich auf%}: {#tripureSAdrinizWajyezWeSvara#} 
-<ls>RĀJA-TAR. 5, 123.</ls> {#tannizWe Pene#} 
-<ls>BĀLAB. 44.</ls> 
-<div n="2">— b) {%beruhend auf, in Beziehung stehend zu, betreffend%}: {#yA vedabAhyAH smftayo yASca kASca kudfzwayaH . sarvAstA nizPalAH pretya tamonizWA#} 
-(<ls>KULL.</ls>: {#tamas = naraka, nizWA = Pala) hi tAH smftAH ..#} 
-<ls>M. 12, 95.</ls> {#vedAH saMskAranizWAH#} 
-<ls>MBH. 6, 2958.</ls> {#eka°, pfTaN° (jYAna)#} 
-<ls>12, 13638.</ls> {#vyavahArA vaconizWAH#} 
-<ls>RĀJA-TAR. 6, 53.</ls> {#AKyAnamatyadButayoganizWam#} 
-<ls>BHĀG. P. 1, 18, 17.</ls> {#jYAnayogaSca mannizWaH#} 
-<ls>3. 32, 32.</ls> {#jijYAsayADyAtmikayoganizWyA#} 
-<ls>?4, 22, 22. BHĀṢĀP. 68. Schol. zu KAP. 1, 31.</ls> {#dvinizWatvAtsaMbanDasya#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 41.</ls> {#tattvanizWatA#} {%Wahrheitstreue%} (ein Schmuck der Rede) 
-<ls>H. 67.</ls> 
-<div n="2">— c) {%einer Sache obliegend, sich einer Sache ganz hingebend%}: {#bAhuvimarda°#} 
-<ls>RAGH. 7, 49.</ls> {#jYAna°, tapo°, tapaHsvADyAya°, karma°#} 
-<ls>M. 3, 134.</ls> 
-<ls>YĀJÑ. 1, 221. 3, 205.</ls> 
-<ls>MBH. 13, 4320. fg.</ls> {#brahma°#} 
-<ls>MUṆḌ. UP. 1, 2, 12.</ls> 
-<ls>VEDĀNTAS. (Allah.) No. 19. 142.</ls> <ls>BHAG. 5, 17.</ls> <ls>BĀDAR. 1, 7.</ls> {#dAna°#} 
-<ls>MBH. 3, 13790.</ls> {#japya°, DyAna°#} 
-<ls>13, 646.</ls> {#Darma°#} 
-<ls>R. 3, 6, 21.</ls> 
-<ls>MṚCCH. 178, 12.</ls> 
-<ls>RĀJA-TAR. 6, 147.</ls> 
-<ls>PAÑCAT. 204, 1.</ls> {#karmanizWA dvijAH kecittaponizWA nfpApare . svADyAye#} (d. i. {#nizWAH) 'nye pravacane ye kecijjYAnayogayoH ..#} 
-<ls>BHĀG. P. 7, 15, 1. 2.</ls> 
-<ls>MĀRK. P. 31, 24.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#A#} 
-<div n="2"> a) {%Standpunkt%}: {#loke 'smindviviDA nizWA purA proktA mayAnaGa . jYAnayogena sAMKyAnAM karmayogena yoginAm ..#} 
-<ls>BHAG. 3, 3.</ls> {#tezAM nizWA tu kA kfzRa sattvamaho rajastamaH#} 
-<ls>17. 1.</ls> <ls>SCHL.</ls> an der ersten Stelle {%vitae institutum%}, an der zweiten {%statio.%} = {#vyavasTA#} 
-<ls>H. an. 2, 107.</ls> 
-<ls>HALĀY. 5, 67.</ls> 
+{#nizWa#}¦ (von {#sTA#} mit {#ni#} oder {#nis#})
+<div n="1"> 1) <lex>adj.</lex> (vgl. {#nizWA#}) am Ende eines comp. <lex>f.</lex> {#A#}
+<div n="2"> a) {%gelegen auf, befindlich auf%}: {#tripureSAdrinizWajyezWeSvara#}
+<ls>RĀJA-TAR. 5,123.</ls> {#tannizWe Pene#}
+<ls>BĀLAB. 44.</ls>
+<div n="2">— b) {%beruhend auf, in Beziehung stehend zu, betreffend%}: {#yA vedabAhyAH smftayo yASca kASca kudfzwayaH . sarvAstA nizPalAH pretya tamonizWA#}
+(<ls>KULL.</ls>: {#tamas = naraka, nizWA = Pala) hi tAH smftAH ..#}
+<ls>M. 12,95.</ls> {#vedAH saMskAranizWAH#}
+<ls>MBH. 6,2958.</ls> {#eka°, pfTaN° (jYAna)#}
+<ls n="MBH.">12,13638.</ls> {#vyavahArA vaconizWAH#}
+<ls>RĀJA-TAR. 6,53.</ls> {#AKyAnamatyadButayoganizWam#}
+<ls>BHĀG. P. 1,18,17.</ls> {#jYAnayogaSca mannizWaH#}
+<ls n="BHĀG. P.">3,32,32.</ls> {#jijYAsayADyAtmikayoganizWyA#}
+<ls n="BHĀG. P.">4,22,22.</ls> <ls>BHĀṢĀP. 68.</ls> Schol. zu <ls>KAP. 1,31.</ls> {#dvinizWatvAtsaMbanDasya#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 41.</ls> {#tattvanizWatA#} {%Wahrheitstreue%} (ein Schmuck der Rede)
+<ls>H. 67.</ls>
+<div n="2">— c) {%einer Sache obliegend, sich einer Sache ganz hingebend%}: {#bAhuvimarda°#}
+<ls>RAGH. 7,49.</ls> {#jYAna°, tapo°, tapaHsvADyAya°, karma°#}
+<ls>M. 3,134.</ls>
+<ls>YĀJÑ. 1,221.</ls> <ls n="YĀJÑ.">3,205.</ls>
+<ls>MBH. 13,4320. fg.</ls> {#brahma°#}
+<ls>MUṆḌ. UP. 1,2,12.</ls>
+<ls>VEDĀNTAS. (Allah.) No. 19. 142.</ls> <ls>BHAG. 5,17.</ls> <ls>BĀDAR. 1,7.</ls> {#dAna°#}
+<ls>MBH. 3,13790.</ls> {#japya°, DyAna°#}
+<ls n="MBH.">13,646.</ls> {#Darma°#}
+<ls>R. 3,6,21.</ls>
+<ls>MṚCCH. 178,12.</ls>
+<ls>RĀJA-TAR. 6,147.</ls>
+<ls>PAÑCAT. 204,1.</ls> {#karmanizWA dvijAH kecittaponizWA nfpApare . svADyAye#} (<ab>d. i.</ab> {#nizWAH) 'nye pravacane ye kecijjYAnayogayoH ..#}
+<ls>BHĀG. P. 7,15,1.</ls> <ls n="BHĀG. P. 7,15,">2.</ls>
+<ls>MĀRK. P. 31,24.</ls>
+<div n="1">— 2) <lex>f.</lex> {#A#}
+<div n="2"> a) {%Standpunkt%}: {#loke 'smindviviDA nizWA purA proktA mayAnaGa . jYAnayogena sAMKyAnAM karmayogena yoginAm ..#}
+<ls>BHAG. 3,3.</ls> {#tezAM nizWA tu kA kfzRa sattvamaho rajastamaH#}
+<ls n="BHAG.">17. 1.</ls> <ls>SCHL.</ls> an der ersten Stelle {%vitae institutum%}, an der zweiten {%statio.%} = {#vyavasTA#}
+<ls>H. an. 2,107.</ls>
+<ls>HALĀY. 5,67.</ls>
 <div n="2">— b) {%das Obliegen, Hingegebensein%}:
 [Page4-0249]
-{#yadvA tapasi te nizWA#} 
-<ls>BHĀG. P. 3, 9, 38.</ls> = {#vrata#} 
-<ls>H. an.</ls> <ls>HALĀY.</ls> 
-<div n="2">— c) {%Vollendung, Abschluss, Ende; Gipfelpunkt%}: {#kAlenAlpenATa nizWAM gatAM tAM saBAm#} 
-<ls>MBH. 2, 1984.</ls> {#setuH svalpena kAlena nizWAM prApto 'BavattadA#} 
-<ls>R. 5, 95, 40.</ls> {#tezAM (mantrARAM) nizWA tu vijYeyA vidvadBiH saptame pade#} 
-<ls>M. 8, 227</ls> <ls>?(vgl. MBH. 7, 2149. HARIV. 736).</ls> {#yadi vaH Sulkato nizWA na pARigrahaRAttaTA#} 
-<ls>MBH. 13, 2446. 2448.</ls> {#nizWAkaraM Sulkam#} 
-<ls>2434.</ls> {#vArttAM niSamya tAM rAjA tannizWAnvezako 'Bavat#} 
-<ls>RĀJA-TAR. 5, 86.</ls> {#viviDezu yadA nizWAM jYAnezUpajagAma saH#} 
-<ls>R. GORR. 1, 80, 13.</ls> <ls>MĀRK. P. 28, 16.</ls> {#nizWA jYAnasya yA parA#} 
-<ls>BHAG. 18, 50.</ls> {#taTAyamapi kftakartavyaH saMprati paramAmupaSamanizWAM prAptaH#} 
-<ls>PRAB. 5, 15.</ls> {#nizWAM na yAto yAvat#} 
-<ls>R. 3, 9, 18.</ls> {#taTA svargaSca BAgASca nizWA yA ca manIzitA#} 
-<ls>MBH. 13, 307.</ls> 
-<ls>BHĀG. P. 8, 12, 38. 6, 5, 14.</ls> 
-<ls>HARIV. 8464. fgg.</ls> Am Ende eines <lex>adj.</lex> comp.: {#atyArUQirBavati mahatAmapyapaBraMSanizWA#} {%endet mit einem Fall%} ad 
-<ls>ŚĀK. 78.</ls> = {#nizpatti#} 
-<ls>AK. 3, 4, 10, 43.</ls> 
-<ls>H. an.</ls> 
-<ls>MED. ṭh. 6.</ls> = {#nirvahaRa#} 
-<ls>AK. 1, 1, 7, 15.</ls> 
-<ls>H. 1514.</ls> 
-<ls>MED.</ls> = {#nirvAha#} 
-<ls>H. an.</ls> = {#avasAna#} 
-<ls>HALĀY.</ls> = {#utkarza#} 
-<ls>H. an.</ls> <ls>HALĀY.</ls> 
-<div n="2">— d) {%Ende%} so v. a. {%Untergang, Tod%}: {#BUmO jAyanti puruzA BUmO nizWAM vrajanti ca#} 
-<ls>MBH. 13, 3151. 1, 1938. 5, 99.</ls> 
-<ls>RĀJA-TAR. 4, 636</ls> (zugleich in Bed. {%f%}). {#yadA kzitAveva carAcarasya vidAma nizWAM praBavaM ca nityam#} 
-<ls>BHĀG. P. 5, 12, 8.</ls> = {#nASa, anta#} 
-<ls>AK. 3, 4, 10, 43.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<div n="2">— e) {%vollkommenes Wissen, Gewissheit%} 
-<ls>MBH. 14, 626.</ls> {#GrARaM jihvA ca cakzuSca tvakSrotraM budDireva ca . saMSayaM nADigacCanti manastamaDigacCati .. GrARaM jihvA ca cakzuSca tvakSrotraM mana eva ca . na nizWAmaDigacCanti budDistAmaDigacCati ..#} 
-<ls>665. fg.</ls> {#yadA vE nistizWatyaTa SraddaDAti nAnistizWaYCraddaDAti nistizWanneva SraddaDAti nizWA tveva vijijYAsitavyA#} 
-<ls>CHĀND. UP. 7, 20.</ls> {#nizWA = guruSuSrUzAdiH#} 
-<ls>ŚAṂK.</ls> 
-<div n="2">— f) {%die Endungen%} {#ta#} {%und%} {#tavant#} {%der Participia der vollendeten Handlung, ein solches Participium%} 
-<ls>P. 1, 1, 26. 2, 19. 2, 2, 36. 3, 69. 3, 2, 102. 6, 1, 22. 205. 2, 110. 169. 4, 52. 60. 95. 7, 2, 14. 47. 50. 8, 2, 42.</ls> 
-<ls>RĀJA-TAR. 4, 636</ls> (zugleich in Bed. d). 
-<div n="2">— g) {%das Bitten%} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— h) {%Leiden, Beschwerden%} 
-<ls>H. an.</ls> <ls>HALĀY.</ls> — Nicht deutlich ist die Bed. des Wortes 
-<ls>PAÑCAT. I, 74.</ls>
+{#yadvA tapasi te nizWA#}
+<ls>BHĀG. P. 3,9,38.</ls> = {#vrata#}
+<ls>H. an.</ls> <ls>HALĀY.</ls>
+<div n="2">— c) {%Vollendung, Abschluss, Ende; Gipfelpunkt%}: {#kAlenAlpenATa nizWAM gatAM tAM saBAm#}
+<ls>MBH. 2,1984.</ls> {#setuH svalpena kAlena nizWAM prApto 'BavattadA#}
+<ls>R. 5,95,40.</ls> {#tezAM (mantrARAM) nizWA tu vijYeyA vidvadBiH saptame pade#}
+<ls>M. 8,227</ls> (vgl. <ls>MBH. 7,2149.</ls> <ls>HARIV. 736</ls>). {#yadi vaH Sulkato nizWA na pARigrahaRAttaTA#}
+<ls>MBH. 13,2446.</ls> <ls n="MBH. 13,">2448.</ls> {#nizWAkaraM Sulkam#}
+<ls n="MBH. 13,">2434.</ls> {#vArttAM niSamya tAM rAjA tannizWAnvezako 'Bavat#}
+<ls>RĀJA-TAR. 5,86.</ls> {#viviDezu yadA nizWAM jYAnezUpajagAma saH#}
+<ls>R. GORR. 1,80,13.</ls> <ls>MĀRK. P. 28,16.</ls> {#nizWA jYAnasya yA parA#}
+<ls>BHAG. 18,50.</ls> {#taTAyamapi kftakartavyaH saMprati paramAmupaSamanizWAM prAptaH#}
+<ls>PRAB. 5,15.</ls> {#nizWAM na yAto yAvat#}
+<ls>R. 3,9,18.</ls> {#taTA svargaSca BAgASca nizWA yA ca manIzitA#}
+<ls>MBH. 13,307.</ls>
+<ls>BHĀG. P. 8,12,38.</ls> <ls n="BHĀG. P.">6,5,14.</ls>
+<ls>HARIV. 8464. fgg.</ls> Am Ende eines <lex>adj.</lex> comp.: {#atyArUQirBavati mahatAmapyapaBraMSanizWA#} {%endet mit einem Fall%} ad
+<ls>ŚĀK. 78.</ls> = {#nizpatti#}
+<ls>AK. 3,4,10,43.</ls>
+<ls>H. an.</ls>
+<ls>MED. ṭh. 6.</ls> = {#nirvahaRa#}
+<ls>AK. 1,1,7,15.</ls>
+<ls>H. 1514.</ls>
+<ls>MED.</ls> = {#nirvAha#}
+<ls>H. an.</ls> = {#avasAna#}
+<ls>HALĀY.</ls> = {#utkarza#}
+<ls>H. an.</ls> <ls>HALĀY.</ls>
+<div n="2">— d) {%Ende%} so v. a. {%Untergang, Tod%}: {#BUmO jAyanti puruzA BUmO nizWAM vrajanti ca#}
+<ls>MBH. 13,3151.</ls> <ls n="MBH.">1,1938.</ls> <ls n="MBH.">5,99.</ls>
+<ls>RĀJA-TAR. 4,636</ls> (zugleich in Bed. {%f%}). {#yadA kzitAveva carAcarasya vidAma nizWAM praBavaM ca nityam#}
+<ls>BHĀG. P. 5,12,8.</ls> = {#nASa, anta#}
+<ls>AK. 3,4,10,43.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<div n="2">— e) {%vollkommenes Wissen, Gewissheit%}
+<ls>MBH. 14,626.</ls> {#GrARaM jihvA ca cakzuSca tvakSrotraM budDireva ca . saMSayaM nADigacCanti manastamaDigacCati .. GrARaM jihvA ca cakzuSca tvakSrotraM mana eva ca . na nizWAmaDigacCanti budDistAmaDigacCati ..#}
+<ls n="MBH. 14,">665. fg.</ls> {#yadA vE nistizWatyaTa SraddaDAti nAnistizWaYCraddaDAti nistizWanneva SraddaDAti nizWA tveva vijijYAsitavyA#}
+<ls>CHĀND. UP. 7,20.</ls> {#nizWA = guruSuSrUzAdiH#}
+<ls>ŚAṂK.</ls>
+<div n="2">— f) {%die Endungen%} {#ta#} {%und%} {#tavant#} {%der Participia der vollendeten Handlung, ein solches Participium%}
+<ls>P. 1,1,26.</ls> <ls n="P. 1,">2,19.</ls> <ls n="P.">2,2,36.</ls> <ls n="P. 2,">3,69.</ls> <ls n="P.">3,2,102.</ls> <ls n="P.">6,1,22.</ls> <ls n="P. 6,1,">205.</ls> <ls n="P. 6,">2,110.</ls> <ls n="P. 6,2,">169.</ls> <ls n="P. 6,">4,52.</ls> <ls n="P. 6,4,">60.</ls> <ls n="P. 6,4,">95.</ls> <ls n="P.">7,2,14.</ls> <ls n="P. 7,2,">47.</ls> <ls n="P. 7,2,">50.</ls> <ls n="P.">8,2,42.</ls>
+<ls>RĀJA-TAR. 4,636</ls> (zugleich in Bed. d).
+<div n="2">— g) {%das Bitten%}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— h) {%Leiden, Beschwerden%}
+<ls>H. an.</ls> <ls>HALĀY.</ls> — Nicht deutlich ist die Bed. des Wortes
+<ls>PAÑCAT. I,74.</ls>
 <LEND>

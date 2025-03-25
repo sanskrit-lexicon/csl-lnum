@@ -1,41 +1,37 @@
 <L>26160<pc>2-1085<k1>CA<k2>CA<h>1
-1. {#CA#}¦ {#(Co), Cya/ti#} 
-<ls>P. 7, 3, 71.</ls> 
-<ls>VOP. 11, 3.</ls> {#(ava) cacCus#} 
-<ls>P. 7, 4, 83, <is>Vārtt</is>. 2,</ls> 
-<ls>Sch.</ls> (ed. Calc.); {#acCAt#} und {#acCAsIt#} 
-<ls>P. 2, 4, 78.</ls> 
-<ls>VOP. 8, 87.</ls> partic. {#CAta#} und {#Cita#} 
-<ls>P. 7, 4, 41.</ls> 
-<ls>VOP. 26, 120.</ls> {%abschneiden, zerschneiden%} 
-<ls>DHĀTUP. 26, 37.</ls> {#cacCuH#} 
-<ls>BHAṬṬ. 14, 101.</ls> {#yakzendraSaktimacCAsIt#} 
-<ls>15, 40.</ls> {#CAta#} {%abgeschnitten%} 
-<ls>AK. 3, 2, 53.</ls> 
-<ls>H. 1489,</ls> 
-<ls>Sch.</ls> {#Cita#} dass. 
-<ls>AK.</ls> <ls>H. 1489.</ls> {#CAta#} {%mager%} 
-<ls>AK. 2, 6, 1, 44.</ls> 
-<ls>H. 449.</ls> — caus. {#CAya/yati#} 
-<ls>P. 7, 3, 37.</ls> 
-<ls>VOP. 18, 6.</ls> 
+1. {#CA#}¦ {#(Co), Cya/ti#}
+<ls>P. 7,3,71.</ls>
+<ls>VOP. 11,3.</ls> {#(ava) cacCus#}
+<ls>P. 7,4,83</ls>, <is>Vārtt</is>. 2, <ls>Sch.</ls>
+(<ls>ed. Calc.</ls>); {#acCAt#} und {#acCAsIt#}
+<ls>P. 2,4,78.</ls>
+<ls>VOP. 8,87.</ls> partic. {#CAta#} und {#Cita#}
+<ls>P. 7,4,41.</ls>
+<ls>VOP. 26,120.</ls> {%abschneiden, zerschneiden%}
+<ls>DHĀTUP. 26,37.</ls> {#cacCuH#}
+<ls>BHAṬṬ. 14,101.</ls> {#yakzendraSaktimacCAsIt#}
+<ls n="BHAṬṬ.">15,40.</ls> {#CAta#} {%abgeschnitten%}
+<ls>AK. 3,2,53.</ls>
+<ls>H. 1489</ls>, <ls>Sch.</ls>
+{#Cita#} dass.
+<ls>AK.</ls> <ls>H. 1489.</ls> {#CAta#} {%mager%}
+<ls>AK. 2,6,1,44.</ls>
+<ls>H. 449.</ls> — caus. {#CAya/yati#}
+<ls>P. 7,3,37.</ls>
+<ls>VOP. 18,6.</ls>
 <div n="v">— Vgl. {#Cavi#} .
-
-<div n="p">— {#anu#} {%aufschneiden%} (die Haut): {#anu^ Cya SyA\mena\ tvaca^me\tAm#} 
-<ls>AV. 9, 5, 4.</ls>
-
-<div n="p">— {#ava#} {%die Haut abziehen, schinden%}: {#tvacamevAvacCAya#} 
-<ls>ŚAT. BR. 1, 1, 4, 1. 3, 1, 2, 15.</ls> {#avacCito ha vE puruzaH#} 
-<ls>16. 3, 7.</ls> {#vatsacCavyO sakarRapucCAvacCAte#} 
-<ls>KĀTY. ŚR. 22, 1, 20.</ls>
-
-<div n="p">— {#A#} dass.: {#sa yatrACyati yata etallohitamutpatati#} 
-<ls>ŚAT. BR. 3, 8, 2, 14.</ls> {#ekaDAsya tvacamACyatAt#} 
-<ls>AIT. BR. 2, 6.</ls> 
-<ls>VS. 23, 39. 41.</ls>
-
-<div n="p">— {#pra#} {%kleine Einschnitte in die Haut machen, schröpfen%}; überh. {%wund machen%}: {#pracCayitvA#} 
-<ls>SUŚR. 1, 33, 18. 2, 300, 15.</ls> {#pracCite SoPe#} 
-<ls>247, 19. 1, 40, 6.</ls> {#AdaMSaM sveditaM cUrREH pracCitaM pratisArayet#} 
-<ls>2, 294, 1.</ls>
+<div n="p">— {#anu#} {%aufschneiden%} (die Haut): {#anu^ Cya SyA\mena\ tvaca^me\tAm#}
+<ls>AV. 9,5,4.</ls>
+<div n="p">— {#ava#} {%die Haut abziehen, schinden%}: {#tvacamevAvacCAya#}
+<ls>ŚAT. BR. 1,1,4,1.</ls> <ls n="ŚAT. BR.">3,1,2,15.</ls> {#avacCito ha vE puruzaH#}
+<ls n="ŚAT. BR.">16. 3,7.</ls> {#vatsacCavyO sakarRapucCAvacCAte#}
+<ls>KĀTY. ŚR. 22,1,20.</ls>
+<div n="p">— {#A#} dass.: {#sa yatrACyati yata etallohitamutpatati#}
+<ls>ŚAT. BR. 3,8,2,14.</ls> {#ekaDAsya tvacamACyatAt#}
+<ls>AIT. BR. 2,6.</ls>
+<ls>VS. 23,39. 41.</ls>
+<div n="p">— {#pra#} {%kleine Einschnitte in die Haut machen, schröpfen%}; überh. {%wund machen%}: {#pracCayitvA#}
+<ls>SUŚR. 1,33,18.</ls> <ls n="SUŚR.">2,300,15.</ls> {#pracCite SoPe#}
+<ls n="SUŚR.">247,19. 1,40,6.</ls> {#AdaMSaM sveditaM cUrREH pracCitaM pratisArayet#}
+<ls n="SUŚR.">2,294,1.</ls>
 <LEND>

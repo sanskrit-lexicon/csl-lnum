@@ -1,4 +1,4 @@
 <L>5567<pc>178<k1>decimal<k2>decimal
-<div n="lb"/>{@DECIMAL:@}¦ {#*daSakaH#} ({#kA, kaM#}), <div n="xe">{%d. fraction:%}</div> <div n="xs">{#*daSaka-#}
-<div n="lb"/>{#Binnam.#}</div>
+{@DECIMAL:@}¦ {#*daSakaH#} ({#kA, kaM#}), <div n="xe">{%d. fraction:%}</div> <div n="xs">{#*daSaka-#}
+{#Binnam.#}</div>
 <LEND>

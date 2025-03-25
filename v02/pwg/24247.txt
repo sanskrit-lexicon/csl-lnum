@@ -1,174 +1,161 @@
 <L>24247<pc>2-0900<k1>GrA<k2>GrA
-{#GrA#}¦, {#ji/Grati#} 
-<ls>DHĀTUP. 22, 28.</ls> 
-<ls>P. 7, 3, 78.</ls> 
-<ls>VOP. 8, 70. 87.</ls> (ep. {#GrAti, jiGrate, jiGrARa, ajiGrata#}). aor. {#aGrAt#} und {#aGrAsIt#} 
-<ls>P. 2, 4, 78.</ls> 
-<ls>VOP. 8, 87.</ls> prec. {#GrAyAt#} und {#GreyAt#} 
-<ls>P. 6, 4, 68.</ls> 
-<ls>VOP. 8, 87.</ls> aor. pass. {#aGrAsAtAm#} 
-<ls>P. 2, 4, 78,</ls> 
-<ls>Sch.</ls> partic. {#GrAta#} und {#GrARa#} 
-<ls>P. 8, 2, 56.</ls> 
-<ls>VOP. 26, 98.</ls> 
-<div n="1"> 1) {%riechen%} 
-<ls>ŚAT. BR. 14, 4, 1, 4. 5, 4, 15. 7, 1, 24.</ls> 
-<ls>M. 2, 98.</ls> 
-<ls>R. 3, 59, 16.</ls> {#jiGrARo 'sya vasAganDam#} 
-<ls>MBH. 1, 5781.</ls> {#na GrAti mAmfte GrARam#} ({%die Nase%}) spricht <is>Manas</is> 
-<ls>14, 668.</ls> {#jiGritvA#} 
-<ls>HARIV. 7059.</ls> Auch von den Functionen der andern Sinne: {#zAqvargikaM jiGrati zaNguReSaH#} 
-<ls>BHĀG. P. 1, 3, 36.</ls> {#GrAta/#} {%gerochen%} 
-<ls>AK. 3, 2, 39.</ls> 
-<ls>VS. 22, 7.</ls> mit act. Bedeutung: {#prAdravanta raRe BItA vyAGraGrAtA mfgA iva#} 
-<ls>MBH. 7, 5228.</ls> {#aSanAhaMkriyAGrAto lokaH#} {%nur für die Stillung des eigenen Hungers Sinn habend%} 
-<ls>RĀJA-TAR. 2, 22.</ls> {#GrARa#} {%gerochen%} 
-<ls>AK. 3, 2, 39.</ls> 
-<ls>TRIK. 3, 3, 126.</ls> 
-<ls>MED. ṇ. 11.</ls> = {#GrAtar#} und {#Greya#} {%riechend%} und {%was gerochen wird%} 
-<ls>H. an. 2, 140.</ls> 
-<div n="1">— 2) {%beriechen, an Etwas riechen, beschnuppern%}: {#hanti jiGranniva BujaMgamaH#} 
-<ls>R. 2, 26, 35. 1, 13, 40.</ls> 
-<ls>HIT. 111, 1.</ls> 
-<ls>VARĀH. BṚH. S. 61, 1.</ls> {#gavA GrAtam#} 
-<ls>M. 5, 125.</ls> {#goGrAta#} 
-<ls>YĀJÑ. 1, 168.</ls> 
-<div n="1">— 3) {%küssen%}: {#svasutaM cApyajiGrattaM mUrGni#} 
-<ls>MBH. 9, 2940.</ls> — caus. aor. {#ajiGrapat#} und {#ajiGripat#} 
-<ls>P. 7, 4, 6.</ls> 
-<ls>VOP. 18, 10.</ls> {%Jmd Etwas riechen lassen%}: {#ajiGrapaMstaTEvAnyAnozaDIH#} 
-<ls>BHAṬṬ. 15, 109.</ls> — intens. {#jeGrIyate#} 
-<ls>P. 7, 4, 31.</ls> 
-<ls>VOP. 20, 15.</ls>
+{#GrA#}¦, {#ji/Grati#}
+<ls>DHĀTUP. 22,28.</ls>
+<ls>P. 7,3,78.</ls>
+<ls>VOP. 8,70.</ls> <ls n="VOP. 8,">87.</ls> (ep. {#GrAti, jiGrate, jiGrARa, ajiGrata#}). aor. {#aGrAt#} und {#aGrAsIt#}
+<ls>P. 2,4,78.</ls>
+<ls>VOP. 8,87.</ls> prec. {#GrAyAt#} und {#GreyAt#}
+<ls>P. 6,4,68.</ls>
+<ls>VOP. 8,87.</ls> aor. pass. {#aGrAsAtAm#}
+<ls>P. 2,4,78</ls>, <ls>Sch.</ls>
+partic. {#GrAta#} und {#GrARa#}
+<ls>P. 8,2,56.</ls>
+<ls>VOP. 26,98.</ls>
+<div n="1"> 1) {%riechen%}
+<ls>ŚAT. BR. 14,4,1,4. 5,4,15. 7,1,24.</ls>
+<ls>M. 2,98.</ls>
+<ls>R. 3,59,16.</ls> {#jiGrARo 'sya vasAganDam#}
+<ls>MBH. 1,5781.</ls> {#na GrAti mAmfte GrARam#} ({%die Nase%}) spricht <is>Manas</is>
+<ls n="MBH.">14,668.</ls> {#jiGritvA#}
+<ls>HARIV. 7059.</ls> Auch von den Functionen der andern Sinne: {#zAqvargikaM jiGrati zaNguReSaH#}
+<ls>BHĀG. P. 1,3,36.</ls> {#GrAta/#} {%gerochen%}
+<ls>AK. 3,2,39.</ls>
+<ls>VS. 22,7.</ls> mit act. Bedeutung: {#prAdravanta raRe BItA vyAGraGrAtA mfgA iva#}
+<ls>MBH. 7,5228.</ls> {#aSanAhaMkriyAGrAto lokaH#} {%nur für die Stillung des eigenen Hungers Sinn habend%}
+<ls>RĀJA-TAR. 2,22.</ls> {#GrARa#} {%gerochen%}
+<ls>AK. 3,2,39.</ls>
+<ls>TRIK. 3,3,126.</ls>
+<ls>MED. ṇ. 11.</ls> = {#GrAtar#} und {#Greya#} {%riechend%} und {%was gerochen wird%}
+<ls>H. an. 2,140.</ls>
+<div n="1">— 2) {%beriechen, an Etwas riechen, beschnuppern%}: {#hanti jiGranniva BujaMgamaH#}
+<ls>R. 2,26,35.</ls> <ls n="R.">1,13,40.</ls>
+<ls>HIT. 111,1.</ls>
+<ls>VARĀH. BṚH. S. 61,1.</ls> {#gavA GrAtam#}
+<ls>M. 5,125.</ls> {#goGrAta#}
+<ls>YĀJÑ. 1,168.</ls>
+<div n="1">— 3) {%küssen%}: {#svasutaM cApyajiGrattaM mUrGni#}
+<ls>MBH. 9,2940.</ls> — caus. aor. {#ajiGrapat#} und {#ajiGripat#}
+<ls>P. 7,4,6.</ls>
+<ls>VOP. 18,10.</ls> {%Jmd Etwas riechen lassen%}: {#ajiGrapaMstaTEvAnyAnozaDIH#}
+<ls>BHAṬṬ. 15,109.</ls> — intens. {#jeGrIyate#}
+<ls>P. 7,4,31.</ls>
+<ls>VOP. 20,15.</ls>
 [Page2-0901]
-
 <div n="p">— {#anu#} s. {#anujiGra#} .
-
-<div n="p">— {#aBi#} {%beschnuppern, beriechen; das Gesicht liebkosend einem Andern nahebringen%}: {#a\Bi\jiGra^ntI\ Buva^nasya\ nABi^m#} 
-<ls>ṚV. 1, 185, 5.</ls> {#asAvimAM vfzwyAByunattyaBijiGrati#} {%der Himmel netzt und küsst die Erde mit dem Regen%} 
-<ls>AIT. BR. 1, 7.</ls> {#Aditya imAH prajA aBijiGrati#} 
-<ls>ŚAT. BR. 7, 3, 2, 12. 4, 5, 5, 11.</ls> {#va\tsaM jA\taM gOra\Biji^Grati#} 
-<ls>TS. 6, 4, 11, 4.</ls> gerund. {#aBijiGrya#} 
-<ls>GOBH. 2, 8, 22.</ls>
-
-<div n="p">— {#ava#} 
-<div n="1"> 1) {%beriechen, an Etwas reichen%} 
-<ls>VS. 9, 9. 19.</ls> 
-<ls>TS. 3, 1, 2, 2.</ls> 
-<ls>ŚAT. BR. 2, 4, 2, 24. 6, 1, 33.</ls> {#avaGrAyAt#} 
-<ls>ĀŚV. ŚR. 10, 8. 5, 6.</ls> {#avaGrAyaM nidaDAti#} 
-<ls>KĀTY. ŚR. 5, 9, 15.</ls> {#avajiGrecca tAn#} 
-<ls>M. 3, 218.</ls> {#avaGrAya#} 
-<ls>BHĀG. P. 4, 13, 37. 6, 19, 15.</ls> 
-<div n="1">— 2) {%mit dem Munde berühren, küssen%}: {#striyE mUrDAnamevAvajiGrati#} 
-<ls>PĀR. GṚHY. 1, 18.</ls> {#mUrDani triravaGrAya#} 
-<ls>ĀŚV. GṚHY. 1, 15.</ls> 
-<ls>BHĀG. P. 7, 5, 21.</ls> {#avaGrAtaSca mUrDani#} 
-<ls>R. 2, 20, 21.</ls> 
-<div n="v">— Vgl. {#avaGrARa#} . — caus. {%beriechen lassen%}: {#aSva\mava^GrApayati#} 
-<ls>TS. 3, 2, 6, 3. 7, 1, 6, 6.</ls> 
-<ls>ŚAT. BR. 4, 5, 8, 5 u.s.w.</ls>
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {%riechen%}: {#yena vA ganDAnAjiGrati#} 
-<ls>AIT. UP. 5, 1.</ls> 
-<ls>ĀŚV. GṚHY. 3, 6.</ls> 
-<ls>M. 11, 149.</ls> 
-<ls>MBH. 1, 5933. 3, 11086.</ls> 
-<ls>MEGH. 21.</ls> 
-<ls>DHŪRTAS. 77, 16.</ls> {#AGrAyi vAnganDavahaH#} 
-<ls>BHAṬṬ. 2, 10.</ls> {#AGrAta#} mit pass. Bed. 
-<ls>SUŚR. 1, 160, 6.</ls> mit act. Bed.: {#ganDAGrAtO dvipAviva#} 
-<ls>HARIV. 4478. 5630.</ls> 
-<div n="1">— 2) {%beriechen, an Etwas riechen%}: {#A ji^Gra ka\laSa^m#} 
-<ls>VS. 8, 42.</ls> 
-<ls>BṚH. DEV.</ls> in <ls>Z.</ls> <lex>f.</lex> vgl. 
-<ls>Spr. 1, 442.</ls> {#mUrDanyAGrAyate SvApadEH#} 
-<ls>SUŚR. 1, 110, 4.</ls> {#DUmamAGrAya#} 
-<ls>MBH. 3, 10489.</ls> {#karpUraganDo mayAsya muKe pratyakzeRAGrAtaH#} 
-<ls>HIT. 110, 21.</ls> 
-<ls>ŚĀK. CH. 63, 11. 112, 3.</ls> 
-<ls>DHŪRTAS. 90, 9.</ls> {#anAGrAtaM puzpam#} 
-<ls>ŚĀK. 43.</ls> 
-<div n="1">— 3) {%küssen%}: {#mUrGni keSavamAGrAya#} 
-<ls>MBH. 1, 8000.</ls> 
-<ls>R. 2, 70, 16. 3, 3, 13.</ls> {#mUrDnyAjiGrata pARqavam#} 
-<ls>MBH. 15, 135. 3, 15135.</ls> {#AjaGrurmUrDni bAlAMSca cacumbuSca#} 
-<ls>BHAṬṬ. 14, 12.</ls> {#AGrAya tam#} 
-<ls>ARJ. 2, 10.</ls> 
-<div n="v">— Vgl. {#AGrARa#} fgg. — caus. {%beriechen lassen%} 
-<ls>KĀTY. ŚR. 13, 4, 19. 14, 3, 10. 4, 12.</ls>
-
-<div n="p">— {#upA#} 
-<div n="1"> 1) {%riechen%}: {#upAGrAti ca yo ganDAnrasAMSca pfTagviDAn#} 
-<ls>MBH. 3, 14504.</ls> {#SavaganDamupAGrAti suraBiM prApya yo naraH#} 
-<ls>12, 11716.</ls> 
-<div n="1">— 2) {%küssen%}: {#taM mUrDnyupAGrAya#} 
-<ls>ARJ. 3, 2.</ls> 
-<ls>MBH. 2, 23. 3, 1776.</ls> 
-<ls>R. 1, 4, 9. 17, 29. 28, 34. 77, 4. 3, 18, 28.</ls> {#tadAnanam - upAGrAya#} 
-<ls>RAGH. 3, 3.</ls> Hierher oder zu {#upaH (tAm) upAjiGrata mUrDani#} 
-<ls>MBH. 1, 7982.</ls> {#vadanAni sapatnInAmupAjiGranpunaH punaH#} 
-<ls>R. 5, 14, 25.</ls> {#upAjiGranta ca tadA tasyOzWam#} 
-<ls>MBH. 13, 2650.</ls>
-
-<div n="p">— {#samupA#} {%küssen%}: {#taM mUrDni samupAGrAya#} 
-<ls>R. 2, 72, 4.</ls> {#samupAGrAya mUrDAnam#} 
-<ls>MBH. 4, 2319.</ls> 
-<ls>R. 6, 8, 7.</ls>
-
-<div n="p">— {#samA#} 
-<div n="1"> 1) {%riechen%}: {#ganDaM samAGrAya#} 
-<ls>R. 5, 23, 32.</ls> 
-<div n="1">— 2) {%beriechen, an Etwas riechen%} 
-<ls>R. 6, 83, 55.</ls> 
-<ls>MṚCCH. 22, 21.</ls> 
-<div n="1">— 3) {%küssen%}: {#(tam) samAjiGrata mUrDani#} 
-<ls>MBH. 14, 2396.</ls> {#kanIyasaH samAGrAya Sirassu#} 
-<ls>1, 5062. 5218.</ls> <ls>R. 2, 72, 4.</ls> {#tadAnanam - samAGrAya#} 
-<ls>RAGH. ed. Calc. 3, 3, v. l.</ls>
-
+<div n="p">— {#aBi#} {%beschnuppern, beriechen; das Gesicht liebkosend einem Andern nahebringen%}: {#a\Bi\jiGra^ntI\ Buva^nasya\ nABi^m#}
+<ls>ṚV. 1,185,5.</ls> {#asAvimAM vfzwyAByunattyaBijiGrati#} {%der Himmel netzt und küsst die Erde mit dem Regen%}
+<ls>AIT. BR. 1,7.</ls> {#Aditya imAH prajA aBijiGrati#}
+<ls>ŚAT. BR. 7,3,2,12.</ls> <ls n="ŚAT. BR.">4,5,5,11.</ls> {#va\tsaM jA\taM gOra\Biji^Grati#}
+<ls>TS. 6,4,11,4.</ls> gerund. {#aBijiGrya#}
+<ls>GOBH. 2,8,22.</ls>
+<div n="p">— {#ava#}
+<div n="1"> 1) {%beriechen, an Etwas reichen%}
+<ls>VS. 9,9. 19.</ls>
+<ls>TS. 3,1,2,2.</ls>
+<ls>ŚAT. BR. 2,4,2,24. 6,1,33.</ls> {#avaGrAyAt#}
+<ls>ĀŚV. ŚR. 10,8. 5,6.</ls> {#avaGrAyaM nidaDAti#}
+<ls>KĀTY. ŚR. 5,9,15.</ls> {#avajiGrecca tAn#}
+<ls>M. 3,218.</ls> {#avaGrAya#}
+<ls>BHĀG. P. 4,13,37.</ls> <ls n="BHĀG. P.">6,19,15.</ls>
+<div n="1">— 2) {%mit dem Munde berühren, küssen%}: {#striyE mUrDAnamevAvajiGrati#}
+<ls>PĀR. GṚHY. 1,18.</ls> {#mUrDani triravaGrAya#}
+<ls>ĀŚV. GṚHY. 1,15.</ls>
+<ls>BHĀG. P. 7,5,21.</ls> {#avaGrAtaSca mUrDani#}
+<ls>R. 2,20,21.</ls>
+<div n="v">— Vgl. {#avaGrARa#} . — caus. {%beriechen lassen%}: {#aSva\mava^GrApayati#}
+<ls>TS. 3,2,6,3.</ls> <ls n="TS.">7,1,6,6.</ls>
+<ls>ŚAT. BR. 4,5,8,5</ls> u.s.w.
+<div n="p">— {#A#}
+<div n="1"> 1) {%riechen%}: {#yena vA ganDAnAjiGrati#}
+<ls>AIT. UP. 5,1.</ls>
+<ls>ĀŚV. GṚHY. 3,6.</ls>
+<ls>M. 11,149.</ls>
+<ls>MBH. 1,5933.</ls> <ls n="MBH.">3,11086.</ls>
+<ls>MEGH. 21.</ls>
+<ls>DHŪRTAS. 77,16.</ls> {#AGrAyi vAnganDavahaH#}
+<ls>BHAṬṬ. 2,10.</ls> {#AGrAta#} mit pass. Bed.
+<ls>SUŚR. 1,160,6.</ls> mit act. Bed.: {#ganDAGrAtO dvipAviva#}
+<ls>HARIV. 4478.</ls> <ls n="HARIV.">5630.</ls>
+<div n="1">— 2) {%beriechen, an Etwas riechen%}: {#A ji^Gra ka\laSa^m#}
+<ls>VS. 8,42.</ls>
+<ls>BṚH. DEV.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls> 
+{#mUrDanyAGrAyate SvApadEH#}
+<ls>SUŚR. 1,110,4.</ls> {#DUmamAGrAya#}
+<ls>MBH. 3,10489.</ls> {#karpUraganDo mayAsya muKe pratyakzeRAGrAtaH#}
+<ls>HIT. 110,21.</ls>
+<ls>ŚĀK. CH. 63,11. 112,3.</ls>
+<ls>DHŪRTAS. 90,9.</ls> {#anAGrAtaM puzpam#}
+<ls>ŚĀK. 43.</ls>
+<div n="1">— 3) {%küssen%}: {#mUrGni keSavamAGrAya#}
+<ls>MBH. 1,8000.</ls>
+<ls>R. 2,70,16.</ls> <ls n="R.">3,3,13.</ls> {#mUrDnyAjiGrata pARqavam#}
+<ls>MBH. 15,135.</ls> <ls n="MBH.">3,15135.</ls> {#AjaGrurmUrDni bAlAMSca cacumbuSca#}
+<ls>BHAṬṬ. 14,12.</ls> {#AGrAya tam#}
+<ls>ARJ. 2,10.</ls>
+<div n="v">— Vgl. {#AGrARa#} fgg. — caus. {%beriechen lassen%}
+<ls>KĀTY. ŚR. 13,4,19. 14,3,10. 4,12.</ls>
+<div n="p">— {#upA#}
+<div n="1"> 1) {%riechen%}: {#upAGrAti ca yo ganDAnrasAMSca pfTagviDAn#}
+<ls>MBH. 3,14504.</ls> {#SavaganDamupAGrAti suraBiM prApya yo naraH#}
+<ls n="MBH.">12,11716.</ls>
+<div n="1">— 2) {%küssen%}: {#taM mUrDnyupAGrAya#}
+<ls>ARJ. 3,2.</ls>
+<ls>MBH. 2,23.</ls> <ls n="MBH.">3,1776.</ls>
+<ls>R. 1,4,9.</ls> <ls n="R. 1,">17,29.</ls> <ls n="R. 1,">28,34.</ls> <ls n="R. 1,">77,4.</ls> <ls n="R.">3,18,28.</ls> {#tadAnanam — upAGrAya#}
+<ls>RAGH. 3,3.</ls> Hierher oder zu {#upaH (tAm) upAjiGrata mUrDani#}
+<ls>MBH. 1,7982.</ls> {#vadanAni sapatnInAmupAjiGranpunaH punaH#}
+<ls>R. 5,14,25.</ls> {#upAjiGranta ca tadA tasyOzWam#}
+<ls>MBH. 13,2650.</ls>
+<div n="p">— {#samupA#} {%küssen%}: {#taM mUrDni samupAGrAya#}
+<ls>R. 2,72,4.</ls> {#samupAGrAya mUrDAnam#}
+<ls>MBH. 4,2319.</ls>
+<ls>R. 6,8,7.</ls>
+<div n="p">— {#samA#}
+<div n="1"> 1) {%riechen%}: {#ganDaM samAGrAya#}
+<ls>R. 5,23,32.</ls>
+<div n="1">— 2) {%beriechen, an Etwas riechen%}
+<ls>R. 6,83,55.</ls>
+<ls>MṚCCH. 22,21.</ls>
+<div n="1">— 3) {%küssen%}: {#(tam) samAjiGrata mUrDani#}
+<ls>MBH. 14,2396.</ls> {#kanIyasaH samAGrAya Sirassu#}
+<ls n="MBH.">1,5062.</ls> <ls n="MBH. 1,">5218.</ls> <ls>R. 2,72,4.</ls> {#tadAnanam — samAGrAya#}
+<ls>RAGH. ed. Calc. 3,3, v. l.</ls>
 <div n="p">— {#ud#} s. {#ujjiGra#} .
-
-<div n="p">— {#upa#} 
-<div n="1"> 1) {%riechen%}: {#yayAtirupajiGran (DUmaM) vE nipapAta mahIM prati#} 
-<ls>MBH. 5, 4059.</ls> {#AmodamupajiGrantO#} 
-<ls>RAGH. 1, 43.</ls> 
-<div n="1">— 2) {%beriechen, an Etwas riechen%}: {#(paSavaH) yadEvopajiGrantyaTa jAnanti#} 
-<ls>ŚAT. BR. 11, 8, 3, 10. 4, 6, 1, 6. 8.</ls> {#°GrAya#} 
-<ls>LĀṬY. 2, 11, 11.</ls> {#°jiGreran#} 
-<ls>17.</ls> {#°Gret#} 
-<ls>3, 5, 8.</ls> {#upAjiGrat#} (kann auch zu {#upA#} gezogen werden) 
-<ls>BṚH. DEV.</ls> in <ls>Z.</ls> <lex>f.</lex> vgl. 
-<ls>Spr. 1, 442.</ls> {#gavA cAnnamupaGrAtam#} 
-<ls>M. 4, 209.</ls>
+<div n="p">— {#upa#}
+<div n="1"> 1) {%riechen%}: {#yayAtirupajiGran (DUmaM) vE nipapAta mahIM prati#}
+<ls>MBH. 5,4059.</ls> {#AmodamupajiGrantO#}
+<ls>RAGH. 1,43.</ls>
+<div n="1">— 2) {%beriechen, an Etwas riechen%}: {#(paSavaH) yadEvopajiGrantyaTa jAnanti#}
+<ls>ŚAT. BR. 11,8,3,10. 4,6,1,6. 8.</ls> {#°GrAya#}
+<ls>LĀṬY. 2,11,11.</ls> {#°jiGreran#}
+<ls n="LĀṬY.">17.</ls> {#°Gret#}
+<ls n="LĀṬY.">3,5,8.</ls> {#upAjiGrat#} (kann auch zu {#upA#} gezogen werden)
+<ls>BṚH. DEV.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls>
+{#gavA cAnnamupaGrAtam#}
+<ls>M. 4,209.</ls>
 [Page2-0902]
-{#pAdO ca te nAsikayopajiGrate#} 
-<ls>MBH. 13, 4900.</ls> {#sumanasa upajiGratIm#} 
-<ls>BHĀG. P. 5, 2, 6.</ls> {#yA muKenopajiGrati#} {%berührt%} 
-<ls>AV. 12, 4, 5.</ls> 
-<ls>NIR. 5, 12.</ls> 
-<div n="1">— 3) {%küssen%}: {#upajiGredDi mAM mUrDni#} 
-<ls>R. 2, 72, 30.</ls> 
-<ls>MBH. 7, 4357.</ls> {#mUrDani copajaGrO#} 
-<ls>RAGH. 13. 70.</ls> — caus. {%beriechen lassen%} 
-<ls>TS. 5, 2, 8, 1.</ls>
-
-<div n="p">— {#samupa#} {%küssen%}: {#samupajiGrantI kapirAjam#} 
-<ls>R. 4, 22, 1.</ls>
-
-<div n="p">— {#pari#} {%mit Küssen bedecken%}: {#karRasya vaktraM parijiGramARA#} 
-<ls>MBH. 11, 616.</ls>
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%auswittern%}: {#GrARena pfTvyAH padavIM vijiGran#} 
-<ls>BHĀG. P. 3, 13. 28.</ls> 
-<div n="1">— 2) {%riechen%}: {#ko vA amuzyANGrisarojareRuM vismartumISIta pumAnvijiGran#} 
-<ls>BHĀG. P. 3, 2, 18.</ls> 
-<div n="1">— 3) {%beriechen%} 
-<ls>VARĀH. BṚH. S. 88, 15.</ls>
-
-<div n="p">— {#sam#} {%sich mit Jmd beriechen%} (wie Thiere die sich kennen lernen) d. i. {%in enge Verbindung treten%}; med.: {#atrA\ saM ji^Grate yu\jA#} 
-<ls>ṚV. 9, 14, 4.</ls> — caus. {%in enge Verbindung bringen%}: {#tamAhftamagniBiH saMGrApayanti#} 
-<ls>ŚAT. BR. 12, 5, 1, 13.</ls>
+{#pAdO ca te nAsikayopajiGrate#}
+<ls>MBH. 13,4900.</ls> {#sumanasa upajiGratIm#}
+<ls>BHĀG. P. 5,2,6.</ls> {#yA muKenopajiGrati#} {%berührt%}
+<ls>AV. 12,4,5.</ls>
+<ls>NIR. 5,12.</ls>
+<div n="1">— 3) {%küssen%}: {#upajiGredDi mAM mUrDni#}
+<ls>R. 2,72,30.</ls>
+<ls>MBH. 7,4357.</ls> {#mUrDani copajaGrO#}
+<ls>RAGH. 13,70.</ls> — caus. {%beriechen lassen%}
+<ls>TS. 5,2,8,1.</ls>
+<div n="p">— {#samupa#} {%küssen%}: {#samupajiGrantI kapirAjam#}
+<ls>R. 4,22,1.</ls>
+<div n="p">— {#pari#} {%mit Küssen bedecken%}: {#karRasya vaktraM parijiGramARA#}
+<ls>MBH. 11,616.</ls>
+<div n="p">— {#vi#}
+<div n="1"> 1) {%auswittern%}: {#GrARena pfTvyAH padavIM vijiGran#}
+<ls>BHĀG. P. 3,13,28.</ls>
+<div n="1">— 2) {%riechen%}: {#ko vA amuzyANGrisarojareRuM vismartumISIta pumAnvijiGran#}
+<ls>BHĀG. P. 3,2,18.</ls>
+<div n="1">— 3) {%beriechen%}
+<ls>VARĀH. BṚH. S. 88,15.</ls>
+<div n="p">— {#sam#} {%sich mit Jmd beriechen%} (wie Thiere die sich kennen lernen) <ab>d. i.</ab> {%in enge Verbindung treten%}; med.: {#atrA\ saM ji^Grate yu\jA#}
+<ls>ṚV. 9,14,4.</ls> — caus. {%in enge Verbindung bringen%}: {#tamAhftamagniBiH saMGrApayanti#}
+<ls>ŚAT. BR. 12,5,1,13.</ls>
 <LEND>

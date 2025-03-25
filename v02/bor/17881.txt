@@ -1,6 +1,6 @@
 <L>17881<pc>548<k1>proficiency<k2>proficiency
-<div n="lb"/>{@PROFICIENCY:@}¦ <div n="1">(1) {#prAvIRyam;#} </div><div n="1">(2) {#kOSalam,#} <div n="xe">{%attained%}
-<div n="lb"/>{%high p. in the special arts.:%}</div> <div n="xs">{#kalAviSezezu paraM #}
-<div n="lb"/>{# kOSalamavAp,#}</div> K.; </div><div n="1">(3) {#nEpuRyam,#} {%p. in the Purāṇas:%}
-<div n="lb"/>{#purARagaRanEpuRyam,#} D.; </div><div n="1">(4) {#vEcakzaRyam.#}</div>
+{@PROFICIENCY:@}¦ <div n="1">(1) {#prAvIRyam;#} </div><div n="1">(2) {#kOSalam,#} <div n="xe">{%attained%}
+{%high p. in the special arts.:%}</div> <div n="xs">{#kalAviSezezu paraM #}
+{# kOSalamavAp,#}</div> K.; </div><div n="1">(3) {#nEpuRyam,#} {%p. in the Purāṇas:%}
+{#purARagaRanEpuRyam,#} D.; </div><div n="1">(4) {#vEcakzaRyam.#}</div>
 <LEND>

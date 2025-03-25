@@ -1,8 +1,8 @@
 <L>17882<pc>548<k1>proficient<k2>proficient
-<div n="lb"/>{@PROFICIENT:@}¦ <div n="1">(1) {#pravIRa#} (f. {#RA#}), {%p. in painting:%}
-<div n="lb"/>{#citrakarmaRi pravIRaH,#} K.; </div><div n="1">(2) {#kuSalaH#} ({#lA, laM#}), <div n="xe">{%p. in%}
-<div n="lb"/>{%mythology and history:%}</div> <div n="xs">{#purARetihAsakuSalaH,#}</div> D.;</div>
-<div n="lb"/><div n="1">(3) {#nipuRa#} (f. {#RA#}), <div n="xe">{%p. in conversation:%}</div> <div n="xs">{#AlApa-#}
-<div n="lb"/>{#nipuRaH,#}</div> K.; </div><div n="1">(4) {#vicakzaRa#} (f. {#RA#}), <div n="xe">{%p. in meta-%}
-<div n="lb"/>{%physics.:%}</div> <div n="xs">{#AnvIkzikIvicakzaRaH,#}</div> D.</div>
+{@PROFICIENT:@}¦ <div n="1">(1) {#pravIRa#} (f. {#RA#}), {%p. in painting:%}
+{#citrakarmaRi pravIRaH,#} K.; </div><div n="1">(2) {#kuSalaH#} ({#lA, laM#}), <div n="xe">{%p. in%}
+{%mythology and history:%}</div> <div n="xs">{#purARetihAsakuSalaH,#}</div> D.;</div>
+<div n="1">(3) {#nipuRa#} (f. {#RA#}), <div n="xe">{%p. in conversation:%}</div> <div n="xs">{#AlApa-#}
+{#nipuRaH,#}</div> K.; </div><div n="1">(4) {#vicakzaRa#} (f. {#RA#}), <div n="xe">{%p. in meta-%}
+{%physics.:%}</div> <div n="xs">{#AnvIkzikIvicakzaRaH,#}</div> D.</div>
 <LEND>

@@ -1,25 +1,25 @@
 <L>13503<pc>1-1093<k1>etarhi<k2>eta/rhi
-{#eta/rhi#}¦ (von {#eta#}) adv. 
-<div n="1"> 1) {%jetzt, nunmehr, heut zu Tage%} 
-<ls>P. 5, 3, 4. 16.</ls> 
-<ls>VOP. 7, 110.</ls> 
-<ls>AK. 3, 5, 23.</ls> 
-<ls>H. 1530.</ls> In den 
-<ls>BRĀHMAṆA</ls> sehr häufig gebraucht. {#tasmAtsa sftajavo dugDadohaH sarvezAmetarhi vAhanAnAmanASizWaH#} 
-<ls>AIT. BR. 4, 9.</ls> {#deveByo yadvEtadagnihotramuBayedyurahUyatAnyedyurvAva tadetarhi hUyata iti#} 
-<ls>5, 29. 3, 45. 4, 5. 6, 1.</ls> {#nyubjA iti hApyenAnetarhyAcakzate kurukzetre#} 
-<ls>7, 30. 2, 1. 8, 6.</ls> <ls>TS. 2, 6, 5, 6. 9, 1. 5, 1, 5, 5. 6, 1, 11, 1. 3, 11, 2.</ls> {#aTa yo 'yametarhyagniH sa BIzA nililye#} 
-<ls>ŚAT. BR. 1, 2, 3, 1. 4, 13. 4, 1, 15. 2, 1</ls> und sonst. 
-<ls>DHŪRTAS. 67, 18.</ls> 
-<ls>BHĀG. P. 1, 17, 43. 2, 1, 14. 3, 16, 35.</ls> 
-<ls>VYUTP. 190.</ls> 
-<ls>SADDH. P. 4, 6</ls>,b. 
-<ls>29</ls>,a. Kein Beleg aus dem Epos. 
-<div n="1">— 2) {%dann%} (in Correlat. mit {#yarhi#}): {#so^' smAde\tarhi^ ti\ra i^va\ yarhi\ yAti^#} 
-<ls>TS. 3, 1, 1, 3.</ls> {#e\tarhi\ Kalu\ vA e\tadya^jYamu\KaM yarhye^na\dAhu^tiraSnute#} 
-<ls>5, 1, 3, 4.</ls> {#sa e\tarhi jA\to yarhi\ sarva^Sci\taH sa yaTA^ vatso jA\ta stana^M pre\psatye\vaM vA e\za e\tarhi^ BAga\Deya\M prepsa^ti#} 
-<ls>4, 3, 1.</ls> {#prA\RAnvA e\tarhi^ pra\jAnA\M Sugf^cCati\ yarhi^ pa\rjanyo\ na varza^ti#} 
-<ls>7, 2, 7, 5.</ls> Ueber das Vorangehen des dem. Satzes vgl. auch u. {#etad#} . 
-<div n="1">— 3) subst. {%ein best. Zeitmaass%}, = 15 {#idAnIm#} und (1/15) {#kzipra#} 
-<ls>ŚAT. BR. 12, 3, 2, 5.</ls>
+{#eta/rhi#}¦ (von {#eta#}) adv.
+<div n="1"> 1) {%jetzt, nunmehr, heut zu Tage%}
+<ls>P. 5,3,4.</ls> <ls n="P. 5,3,">16.</ls>
+<ls>VOP. 7,110.</ls>
+<ls>AK. 3,5,23.</ls>
+<ls>H. 1530.</ls> In den
+<ls>BRĀHMAṆA</ls> sehr häufig gebraucht. {#tasmAtsa sftajavo dugDadohaH sarvezAmetarhi vAhanAnAmanASizWaH#}
+<ls>AIT. BR. 4,9.</ls> {#deveByo yadvEtadagnihotramuBayedyurahUyatAnyedyurvAva tadetarhi hUyata iti#}
+<ls n="AIT. BR.">5,29. 3,45. 4,5. 6,1.</ls> {#nyubjA iti hApyenAnetarhyAcakzate kurukzetre#}
+<ls n="AIT. BR.">7,30. 2,1. 8,6.</ls> <ls>TS. 2,6,5,6. 9,1. 5,1,5,5. 6,1,11,1. 3,11,2.</ls> {#aTa yo 'yametarhyagniH sa BIzA nililye#}
+<ls>ŚAT. BR. 1,2,3,1. 4,13. 4,1,15. 2,1</ls> und sonst.
+<ls>DHŪRTAS. 67,18.</ls>
+<ls>BHĀG. P. 1,17,43.</ls> <ls n="BHĀG. P.">2,1,14.</ls> <ls n="BHĀG. P.">3,16,35.</ls>
+<ls>VYUTP. 190.</ls>
+<ls>SADDH. P. 4,6,b. 29,a.</ls>
+Kein Beleg aus dem Epos.
+<div n="1">— 2) {%dann%} (in Correlat. mit {#yarhi#}): {#so^' smAde\tarhi^ ti\ra i^va\ yarhi\ yAti^#}
+<ls>TS. 3,1,1,3.</ls> {#e\tarhi\ Kalu\ vA e\tadya^jYamu\KaM yarhye^na\dAhu^tiraSnute#}
+<ls n="TS.">5,1,3,4.</ls> {#sa e\tarhi jA\to yarhi\ sarva^Sci\taH sa yaTA^ vatso jA\ta stana^M pre\psatye\vaM vA e\za e\tarhi^ BAga\Deya\M prepsa^ti#}
+<ls n="TS.">4,3,1.</ls> {#prA\RAnvA e\tarhi^ pra\jAnA\M Sugf^cCati\ yarhi^ pa\rjanyo\ na varza^ti#}
+<ls n="TS.">7,2,7,5.</ls> Ueber das Vorangehen des dem. Satzes vgl. auch u. {#etad#} .
+<div n="1">— 3) subst. {%ein best. Zeitmaass%}, = 15 {#idAnIm#} und (1/15) {#kzipra#}
+<ls>ŚAT. BR. 12,3,2,5.</ls>
 <LEND>

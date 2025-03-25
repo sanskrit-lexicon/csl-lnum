@@ -1,14 +1,14 @@
 <L>10090<pc>318<k1>good<k2>good
-<div n="lb"/>{@GOOD@}¦ (subs.): <div n="I">I Advantage: </div><div n="1">(1) {#upakAraH#} (=
-<div n="lb"/>benefit), <div n="xe">{%I. will do g. to this man:%}</div> <div n="xs">{#upakAraM karomyasya,#}</div>
-<div n="lb"/>Ka. ix. 11.; </div><div n="1">(2) {#hitam#} (= welfare), <div n="xe">{%for the g.%}
-<div n="lb"/>{%of the people:%}</div> <div n="xs">{#prakftihitAya;#}</div> Sa. vii. {%For the g. of%}
-<div n="lb"/>may be expr. by {#arTam#} <div n="xe">{%or%}</div> <div n="xs">{#arTe#}</div> in comp.: v.
-<div n="lb"/>For the sake of. </div><div n="I">II As opposed to evil:</div>
-<div n="lb"/><div n="1">(1) {#SuBam,#} <div n="xe">{%this is g., this is not g.:%}</div> <div n="xs">{#SuBamidamaSuBamidam,#}</div>
-<div n="lb"/>K.; </div><div n="1">(2) {#kalyARam;#} </div><div n="1">(3) {#kuSalam;#} </div><div n="1">(4) {#maNgalam;#} </div><div n="1">(5)
-<div n="lb"/>{#Sreyas#} (= well-being); </div><div n="1">(6) {#kzemam#} (=5), <div n="xe">{%ing.-con-%}
-<div n="lb"/>{%ferring work:%}</div> <div n="xs">{#kzemaNkare'rTe,#}</div> B. xii. 6. </div><div n="I">III In pl.,
-<div n="lb"/>=property: q.v.: {#sampattiH.#} Ph.: {%for g.%} expr.
-<div n="lb"/>by circumlo. <div n="xe">{%slept for g.:%}</div> <div n="xs">{#apraboDAya suzvApa,#}</div> R.</div>
+{@GOOD@}¦ (subs.): <div n="I">I Advantage: </div><div n="1">(1) {#upakAraH#} (=
+benefit), <div n="xe">{%I. will do g. to this man:%}</div> <div n="xs">{#upakAraM karomyasya,#}</div>
+Ka. ix. 11.; </div><div n="1">(2) {#hitam#} (= welfare), <div n="xe">{%for the g.%}
+{%of the people:%}</div> <div n="xs">{#prakftihitAya;#}</div> Sa. vii. {%For the g. of%}
+may be expr. by {#arTam#} <div n="xe">{%or%}</div> <div n="xs">{#arTe#}</div> in comp.: v.
+For the sake of. </div><div n="I">II As opposed to evil:</div>
+<div n="1">(1) {#SuBam,#} <div n="xe">{%this is g., this is not g.:%}</div> <div n="xs">{#SuBamidamaSuBamidam,#}</div>
+K.; </div><div n="1">(2) {#kalyARam;#} </div><div n="1">(3) {#kuSalam;#} </div><div n="1">(4) {#maNgalam;#} </div><div n="1">(5)
+{#Sreyas#} (= well-being); </div><div n="1">(6) {#kzemam#} (=5), <div n="xe">{%ing.-con-%}
+{%ferring work:%}</div> <div n="xs">{#kzemaNkare'rTe,#}</div> B. xii. 6. </div><div n="I">III In pl.,
+=property: q.v.: {#sampattiH.#} Ph.: {%for g.%} expr.
+by circumlo. <div n="xe">{%slept for g.:%}</div> <div n="xs">{#apraboDAya suzvApa,#}</div> R.</div>
 <LEND>

@@ -1,3 +1,3 @@
-<L>252872<pc>1250,2<k1>somapAna<k2>so/ma—pA/na<e>3B
-<s>so/ma—pA/na</s> ¦ <lex>mfn.</lex> <ab n="Soma" slp1="soma">S°</ab> drinking, a <ab n="Soma" slp1="soma">S°</ab> drinker, <ls>TS.</ls>; <ls>ŚBr.</ls><info lex="m:f:n"/>
+<L>252872<pc>1250,2<k1>somapAna<k2>soma—pA/na<e>3B
+<s>soma—pA/na</s> ¦ <lex>mfn.</lex> <s1 n="Soma">S°</s1> drinking, a <s1 n="Soma">S°</s1> drinker, <ls>TS.</ls>; <ls>ŚBr.</ls><info lex="m:f:n"/>
 <LEND>

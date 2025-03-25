@@ -1,16 +1,16 @@
 <L>106061<pc>7-0739<k1>saMpAtin<k2>saMpAtin
-{#saMpAtin#}¦ (von 1. {#pat#} mit {#sam#}) 
-<div n="1"> 1) <lex>adj.</lex> 
-<div n="2"> a) {%zusammen fliegend%}: {#haMsAH#} 
-<ls>MBH. 6, 5665.</ls> 
-<div n="1">— 2) {%mitfliegend%} so v. a. {%gleich rasch%} 
-<ls>NIR. 12, 22.</ls> 
-<div n="2">— c) {%herunterfallend%}: {#kusumAni#} 
-<ls>UTTARAR. 30, 20 (40, 11).</ls> 
-<div n="1">— 2) N. pr. 
-<div n="2"> a) = {#saMpAti#} 
-<div n="1"> 1) 
-<ls>R. 4, 56, 5. 20. 58, 15. 59, 21.</ls> 
-<div n="2">— b) = {#saMpAti#} 5): {#sa°#} <lex>adj.</lex> 
-<ls>R. 6, 108, 8.</ls>
+{#saMpAtin#}¦ (von 1. {#pat#} mit {#sam#})
+<div n="1"> 1) <lex>adj.</lex>
+<div n="2"> a) {%zusammen fliegend%}: {#haMsAH#}
+<ls>MBH. 6,5665.</ls>
+<div n="1">— 2) {%mitfliegend%} so v. a. {%gleich rasch%}
+<ls>NIR. 12,22.</ls>
+<div n="2">— c) {%herunterfallend%}: {#kusumAni#}
+<ls>UTTARAR. 30,20 (40,11).</ls>
+<div n="1">— 2) N. pr.
+<div n="2"> a) = {#saMpAti#}
+<div n="1"> 1)
+<ls>R. 4,56,5.</ls> <ls n="R. 4,56,">20.</ls> <ls n="R. 4,">58,15.</ls> <ls n="R. 4,">59,21.</ls>
+<div n="2">— b) = {#saMpAti#} 5): {#sa°#} <lex>adj.</lex>
+<ls>R. 6,108,8.</ls>
 <LEND>

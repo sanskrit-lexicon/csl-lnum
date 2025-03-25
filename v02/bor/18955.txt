@@ -1,7 +1,7 @@
 <L>18955<pc>586<k1>remedy<k2>remedy
-<div n="lb"/>{@REMEDY@}¦ (subs.): <div n="I">I Medicine: q. v.: {#OzaDam,#}
-<div n="lb"/><div n="xe">{%poison is a r. for poison:%}</div> <div n="xs">{#vizasya vizamOzaDam,#}</div> <ls>J.</ls> </div><div n="I">II.
-<div n="lb"/>Cure, alleviation: q. v.: </div><div n="1">(1) {#prati#} ({#tI#}) {#kAraH,#}
-<div n="lb"/><div n="xe">{%his disease has no r.:%}</div> <div n="xs">{#apratikAravikAro'yam,#}</div> <ls>K.</ls> ;</div>
-<div n="lb"/><div n="1">(2) {#pratikriyA.#}</div>
+{@REMEDY@}¦ (subs.): <div n="I">I Medicine: q. v.: {#OzaDam,#}
+<div n="xe">{%poison is a r. for poison:%}</div> <div n="xs">{#vizasya vizamOzaDam,#}</div> <ls>J.</ls> </div><div n="I">II.
+Cure, alleviation: q. v.: </div><div n="1">(1) {#prati#} ({#tI#}) {#kAraH,#}
+<div n="xe">{%his disease has no r.:%}</div> <div n="xs">{#apratikAravikAro'yam,#}</div> <ls>K.</ls> ;</div>
+<div n="1">(2) {#pratikriyA.#}</div>
 <LEND>

@@ -1,31 +1,31 @@
 <L>9116<pc>1-0683<k1>AraRya<k2>AraRya/
-{#AraRya/#}¦ (von {#araRya#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%in der Wildniss befindlich, - wohnend, auf dieselbe bezüglich, wild%}, (Gegens. {#grAmya#}) 
-<ls>P. 4, 2, 104, <is>Vārtt</is>. 5.</ls> {#pa\SUn#} 
-<ls>ṚV. 10, 90, 8.</ls> 
-<ls>VS. 6, 6. 13, 48.</ls> {#me\zaH#} 
-<ls>24, 30.</ls> {#a\jaH#} 
-<ls>32.</ls> <ls>AV. 3, 13, 1. 5, 21, 4. 6, 50, 3. 11, 2, 24. 5, 21.</ls> <ls>TS. 2, 1, 10, 2.</ls> {#sa\pta grA\myA oza^DayaH sa\ptAra\RyAH#} 
-<ls>5, 4, 9, 1.</ls> {#agniH#} 
-<ls>AIT. BR. 7, 7.</ls> {#kzatraM vA etadAraRyAnAM paSUnAM yadvyAGraH#} 
-<ls>8, 6.</ls> <ls>ŚAT. BR. 1, 1, 1, 10. 2, 3, 4, 1. 3, 8, 4, 16.</ls> {#yadakfzwe pacyate tenAraRyam#} 
-<ls>9, 1, 1, 3.</ls> {#sOmyaH SyAmAkacarurAraRyasya (DAnyasyAgrayaRam)#} 
-<ls>KĀTY. ŚR. 4, 6, 16.</ls> {#mfgARAm#} 
-<ls>M. 5, 9.</ls> 
-<ls>MBH. 3, 15494.</ls> {#paSUn#} 
-<ls>M. 10, 89.</ls> {#AraRyapaSu#} 
-<ls>48.</ls> {#sa ca saptaDA yaTA . mahizaH . vAnaraH . fkzaH . sarIsfpaH . ruruH . pfzataH . mfgaH . iti tiTyAditattve pEWInasiH .#} 
-<ls>ŚKDR.</ls> {#sattvam#} 
-<ls>PAÑCAT. 68, 14.</ls> {#aSvAn#} 
-<ls>MBH. 2, 1842.</ls> {#muniH#} 
-<ls>1, 3637.</ls> {#ozaDIH#} 
-<ls>6658.</ls> {#mahAvfkzEH#} 
-<ls>R. 3, 6, 5.</ls> {#°darBa#} 
-<ls>KATHĀS. 13, 43.</ls> {#sumanasaH#} 
-<ls>P. 4, 2, 104, <is>Vārtt</is>. 5,</ls> 
-<ls>Sch.</ls> {#°mAzAH#} 
-<ls>SUŚR. 1, 198, 10.</ls> {#svanAH#} 
-<ls>112, 17.</ls> {#gomayAH#} 
-<ls>P. 4, 2, 129, <is>Vārtt</is>. 2.</ls> {#AraRyaparvan#} heisst der 1ste Abschnitt im 3ten Buch des 
-<ls>MBH.</ls> — <lex>m.</lex> pl. {%die wilden Thiere%} 
-<ls>CHĀND. UP. 2, 9, 8.</ls>
+{#AraRya/#}¦ (von {#araRya#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%in der Wildniss befindlich, — wohnend, auf dieselbe bezüglich, wild%}, (Gegens. {#grAmya#})
+<ls>P. 4,2,104</ls>, <is>Vārtt</is>. 5. {#pa\SUn#}
+<ls>ṚV. 10,90,8.</ls>
+<ls>VS. 6,6.</ls> <ls n="VS.">13,48.</ls> {#me\zaH#}
+<ls n="VS.">24,30.</ls> {#a\jaH#}
+<ls n="VS.">32.</ls> <ls>AV. 3,13,1.</ls> <ls n="AV.">5,21,4.</ls> <ls n="AV.">6,50,3.</ls> <ls n="AV.">11,2,24.</ls> <ls n="AV. 11,">5,21.</ls> <ls>TS. 2,1,10,2.</ls> {#sa\pta grA\myA oza^DayaH sa\ptAra\RyAH#}
+<ls n="TS.">5,4,9,1.</ls> {#agniH#}
+<ls>AIT. BR. 7,7.</ls> {#kzatraM vA etadAraRyAnAM paSUnAM yadvyAGraH#}
+<ls n="AIT. BR.">8,6.</ls> <ls>ŚAT. BR. 1,1,1,10.</ls> <ls n="ŚAT. BR.">2,3,4,1.</ls> <ls n="ŚAT. BR.">3,8,4,16.</ls> {#yadakfzwe pacyate tenAraRyam#}
+<ls n="ŚAT. BR.">9,1,1,3.</ls> {#sOmyaH SyAmAkacarurAraRyasya (DAnyasyAgrayaRam)#}
+<ls>KĀTY. ŚR. 4,6,16.</ls> {#mfgARAm#}
+<ls>M. 5,9.</ls>
+<ls>MBH. 3,15494.</ls> {#paSUn#}
+<ls>M. 10,89.</ls> {#AraRyapaSu#}
+<ls n="M. 10,">48.</ls> {#sa ca saptaDA yaTA . mahizaH . vAnaraH . fkzaH . sarIsfpaH . ruruH . pfzataH . mfgaH . iti tiTyAditattve pEWInasiH .#}
+<ls>ŚKDR.</ls> {#sattvam#}
+<ls>PAÑCAT. 68,14.</ls> {#aSvAn#}
+<ls>MBH. 2,1842.</ls> {#muniH#}
+<ls n="MBH.">1,3637.</ls> {#ozaDIH#}
+<ls n="MBH. 1,">6658.</ls> {#mahAvfkzEH#}
+<ls>R. 3,6,5.</ls> {#°darBa#}
+<ls>KATHĀS. 13,43.</ls> {#sumanasaH#}
+<ls>P. 4,2,104</ls>, <is>Vārtt</is>. 5, <ls>Sch.</ls>
+{#°mAzAH#}
+<ls>SUŚR. 1,198,10.</ls> {#svanAH#}
+<ls n="SUŚR. 1,">112,17.</ls> {#gomayAH#}
+<ls>P. 4,2,129</ls>, <is>Vārtt</is>. 2. {#AraRyaparvan#} heisst der 1ste Abschnitt im 3ten Buch des
+<ls>MBH.</ls> — <lex>m.</lex> pl. {%die wilden Thiere%}
+<ls>CHĀND. UP. 2,9,8.</ls>
 <LEND>

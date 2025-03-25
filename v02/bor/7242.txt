@@ -1,5 +1,5 @@
 <L>7242<pc>230<k1>educational<k2>educational
-<div n="lb"/>{@EDUCATIONAL:@}¦ Ph.: <div n="xe">{%for e. purposes:%}</div> <div n="xs">{#*prajA-#}
-<div n="lb"/>{#SikzArTam;#}</div> <div n="xe">{%e. series%}</div> <div n="xs">{#*SikzApustakAvaliH;#}</div> <div n="xe">{%e. depart-%}
-<div n="lb"/>{%ment:%}</div> <div n="xs">{#*SikzAviBAgaH.#}</div>
+{@EDUCATIONAL:@}¦ Ph.: <div n="xe">{%for e. purposes:%}</div> <div n="xs">{#*prajA-#}
+{#SikzArTam;#}</div> <div n="xe">{%e. series%}</div> <div n="xs">{#*SikzApustakAvaliH;#}</div> <div n="xe">{%e. depart-%}
+{%ment:%}</div> <div n="xs">{#*SikzAviBAgaH.#}</div>
 <LEND>

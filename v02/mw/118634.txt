@@ -1,5 +1,5 @@
 <L>118634<pc>601,2<k1>parivft<k2>pari-vft<e>1
-<s>pari-√ vft</s> ¦ <ab>Ā.</ab> <s>-vartate</s> (<ab>ep.</ab> also <s>°ti</s>; <ab>ind.p.</ab> <s>-vftya</s>, or <s>parI-vartam</s>), 
+<s>pari-√ vft</s> ¦ <ab>Ā.</ab> <s>-vartate</s> (<lang>ep.</lang> also <s>°ti</s>; <ab>ind.p.</ab> <s>-vftya</s>, or <s>parI-vartam</s>),
 <div n="to"/>to turn round, revolve, move in a circle or to and fro, roll or wheel or wander about, circumambulate (<ab>acc.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/> (with <s>hfdi</s> or <s>hfdaye</s>) to run in a person's mind, <ls>MBh.</ls>;
 <div n="to"/>to return, go or come back to (<ab>acc.</ab>), <ls>ib.</ls>;
@@ -18,5 +18,5 @@
 <div n="to"/>to destroy, annihilate, <ls>ib.</ls>;
 <div n="to"/>to straiten, contract, <ls>Car.</ls>;
 <div n="to"/> (<ab>Ā.</ab>) to cause one's self to be turned round (in having one's head shaved all round), <ls>TBr.</ls>; <ls>ŚBr.</ls> (<ab>cf.</ab> <s>-vartana</s>) :
-<div n="vp"/><ab>Intens.</ab> <s>-va/vartti</s>, to turn (intrans.) continually, <ls>RV. i, 164, 11.</ls><info verb="pre" cp="Ā" parse="pari+vft"/>
+<div n="vp"/><ab>Intens.</ab> <s>-va/vartti</s>, to turn (<ab>intrans.</ab>) continually, <ls>RV. i, 164, 11.</ls><info verb="pre" cp="Ā" parse="pari+vft"/>
 <LEND>

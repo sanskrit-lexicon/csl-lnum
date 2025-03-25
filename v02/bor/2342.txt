@@ -1,4 +1,4 @@
 <L>2342<pc>081<k1>book-seller<k2>book-seller
-<div n="lb"/>{@BOOK-SELLER:@}¦ <div n="1">(1) {#pustakavikretf#} (f. {#trI#}); </div><div n="1">(2) {#pustaka #}
-<div n="lb"/>{# vikrayin#} (f. {#RI#}).</div>
+{@BOOK-SELLER:@}¦ <div n="1">(1) {#pustakavikretf#} (f. {#trI#}); </div><div n="1">(2) {#pustaka #}
+{# vikrayin#} (f. {#RI#}).</div>
 <LEND>

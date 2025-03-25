@@ -1,6 +1,6 @@
 <L>7641<pc>242<k1>enrich<k2>enrich
-<div n="lb"/>{@ENRICH:@}¦ <div n="I">I Lit.: {#DaninaM#} (f. {#nIM#}) <div n="xe">{%or%}</div> <div n="xs">{#DanaSAlinaM#}</div> (f.
-<div n="lb"/>{#nIM#}) {#karoti:#} v. Rich, to make. </div><div n="I">II To adorn:
-<div n="lb"/>q. v.: {#maRqayati#} (c. of {#maRq#}). </div><div n="I">III To fertilize:
-<div n="lb"/>q. v.</div>
+{@ENRICH:@}¦ <div n="I">I Lit.: {#DaninaM#} (f. {#nIM#}) <div n="xe">{%or%}</div> <div n="xs">{#DanaSAlinaM#}</div> (f.
+{#nIM#}) {#karoti:#} v. Rich, to make. </div><div n="I">II To adorn:
+q. v.: {#maRqayati#} (c. of {#maRq#}). </div><div n="I">III To fertilize:
+q. v.</div>
 <LEND>

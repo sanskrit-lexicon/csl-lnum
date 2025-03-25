@@ -1,3 +1,3 @@
-<L>230459<pc>1138,1<k1>satas<k2>satas<h>b<e>1
-<s>satas</s> <hom>b</hom> ¦ <lex>ind.</lex> (<ab>fr.</ab> <hom>7.</hom> <s>sa</s> + <s>tas</s>) equally, like (only in <ab>comp.</ab>)<info lex="ind"/>
+<L>230459<pc>1138,1<k1>satas<k2>satas<e>1
+<s>satas</s> ¦ <lex>ind.</lex> (<ab>fr.</ab> <hom>7.</hom> <s>sa</s> + <s>tas</s>) equally, like (only in <ab>comp.</ab>)<info lex="ind"/><info hui="b"/>
 <LEND>

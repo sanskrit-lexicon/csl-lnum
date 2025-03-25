@@ -1,38 +1,38 @@
 <L>26291<pc>2-1098<k1>Cedana<k2>Cedana
-{#Cedana#}¦ (wie eben) 
-<div n="1"> 1) <lex>adj.</lex> 
-<div n="2"> a) {%zerschneidend, spaltend%}: {#tadvE SastraM SastravidAM na SastraM CedanaM smftam#} 
-<ls>MBH. 2, 1953.</ls> {#(cakram) CedanaM somahAriRAm#} 
-<ls>1, 1498.</ls> 
-<div n="2">— b) {%vernichtend, entfernend%}: {#moha°#} 
-<ls>MBH. 14, 423.</ls> 
-<div n="1">— 2) obj. <lex>n.</lex> {%Abschnitt%} 
-<ls>H. an. 3, 375.</ls> 
-<ls>MED. n. 65.</ls> 
-<div n="1">— 3) nom. act. <lex>n.</lex> 
-<div n="2"> a) {%das Schneiden, Abschneiden, Abhauen, Zerschneiden, Zerreissen, Zerbrechen, Spalten%} 
-<ls>AK. 3, 3, 7.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>SUŚR. 1, 16, 3. 26, 14. 85, 8. 2, 6, 21.</ls> {#banDanacCedanAni#} {%Binden (Gefängniss) und Abschneiden der Glieder%} 
-<ls>M. 12, 75.</ls>
+{#Cedana#}¦ (wie eben)
+<div n="1"> 1) <lex>adj.</lex>
+<div n="2"> a) {%zerschneidend, spaltend%}: {#tadvE SastraM SastravidAM na SastraM CedanaM smftam#}
+<ls>MBH. 2,1953.</ls> {#(cakram) CedanaM somahAriRAm#}
+<ls n="MBH.">1,1498.</ls>
+<div n="2">— b) {%vernichtend, entfernend%}: {#moha°#}
+<ls>MBH. 14,423.</ls>
+<div n="1">— 2) obj. <lex>n.</lex> {%Abschnitt%}
+<ls>H. an. 3,375.</ls>
+<ls>MED. n. 65.</ls>
+<div n="1">— 3) nom. act. <lex>n.</lex>
+<div n="2"> a) {%das Schneiden, Abschneiden, Abhauen, Zerschneiden, Zerreissen, Zerbrechen, Spalten%}
+<ls>AK. 3,3,7.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>SUŚR. 1,16,3. 26,14. 85,8. 2,6,21.</ls> {#banDanacCedanAni#} {%Binden (Gefängniss) und Abschneiden der Glieder%}
+<ls>M. 12,75.</ls>
 [Page2-1099]
-{#parivAsyA°#} 
-<ls>KĀTY. ŚR. 6, 1, 23.</ls> {#yUpa°#} 
-<ls>7, 1, 34. 35.</ls> {#pARi°#} 
-<ls>M. 8, 280. 322.</ls> 
-<ls>YĀJÑ. 2, 219. 225.</ls> 
-<ls>HARIV. 10818.</ls> 
-<ls>BHĀG. P. 3, 7, 10. 5, 9, 21.</ls> {#pASa°#} 
-<ls>PAÑCAT. 106, 23.</ls> {#vfkzARAm#} 
-<ls>M. 11, 142.</ls> 
-<ls>YĀJÑ. 3, 276.</ls> {#lakzya°#} 
-<ls>MBH. 1, <is>Adhy</is>. 188</ls> in der Unterschr. {#AmezwakAnAm#} 
-<ls>MṚCCH. 47, 9.</ls> {#yantrARAM yoktraraSmyostaTA#} {%Zerbrechen, Zerreissen%} (intrans.) 
-<ls>M. 8, 292.</ls> 
-<div n="2">— b) {%Division%} 
-<ls>COLEBR. Alg. 8.</ls> 
-<div n="2">— c) {%das Vernichten, Entfernen%}: {#saMSaya°#} 
-<ls>MBH. 3, 12700. 15, 763.</ls> 
+{#parivAsyA°#}
+<ls>KĀTY. ŚR. 6,1,23.</ls> {#yUpa°#}
+<ls n="KĀTY. ŚR.">7,1,34. 35.</ls> {#pARi°#}
+<ls>M. 8,280.</ls> <ls n="M. 8,">322.</ls>
+<ls>YĀJÑ. 2,219. 225.</ls>
+<ls>HARIV. 10818.</ls>
+<ls>BHĀG. P. 3,7,10.</ls> <ls n="BHĀG. P.">5,9,21.</ls> {#pASa°#}
+<ls>PAÑCAT. 106,23.</ls> {#vfkzARAm#}
+<ls>M. 11,142.</ls>
+<ls>YĀJÑ. 3,276.</ls> {#lakzya°#}
+<ls>MBH. 1, <is>Adhy</is>. 188</ls> in der Unterschr. {#AmezwakAnAm#}
+<ls>MṚCCH. 47,9.</ls> {#yantrARAM yoktraraSmyostaTA#} {%Zerbrechen, Zerreissen%} (intrans.)
+<ls>M. 8,292.</ls>
+<div n="2">— b) {%Division%}
+<ls>COLEBR. Alg. 8.</ls>
+<div n="2">— c) {%das Vernichten, Entfernen%}: {#saMSaya°#}
+<ls>MBH. 3,12700.</ls> <ls n="MBH.">15,763.</ls>
 <ls>HARIV. 913.</ls>
 <LEND>

@@ -1,8 +1,8 @@
 <L>33707<pc>3-0687<k1>durBida<k2>durBida
-{#durBida#}¦ (2. {#duz + Bida#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%schwer zu sprengen%}: {#giri#} 
-<ls>MBH. 7, 1514.</ls> {#camU#} 
-<ls>3219. 8, 211.</ls> {#vyUha#} 
-<ls>7, 1471. 3110.</ls> {#hfdaya#} 
-<ls>8, 247.</ls> {#ahaMmamatA#} 
-<ls>BHĀG. P. 5, 19, 15.</ls>
+{#durBida#}¦ (2. {#duz + Bida#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%schwer zu sprengen%}: {#giri#}
+<ls>MBH. 7,1514.</ls> {#camU#}
+<ls n="MBH. 7,">3219.</ls> <ls n="MBH.">8,211.</ls> {#vyUha#}
+<ls n="MBH.">7,1471.</ls> <ls n="MBH. 7,">3110.</ls> {#hfdaya#}
+<ls n="MBH.">8,247.</ls> {#ahaMmamatA#}
+<ls>BHĀG. P. 5,19,15.</ls>
 <LEND>

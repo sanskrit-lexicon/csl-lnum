@@ -1,28 +1,28 @@
 <L>26554<pc>3-0029<k1>janitar<k2>janita/r
-{#janita/r#}¦ (von {#jan#}) 
-<div n="1"> 1) <lex>m.</lex> {%Erzeuger, Vater%} 
-<ls>P. 6, 4, 53.</ls> 
-<ls>H. ś. 116.</ls> <ls>MED. y. 25.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#aDA\ hi tvA^ jani\tA jIja^nat#} 
-<ls>ṚV. 1, 129, 11.</ls> {#pi\tA ja^ni\tA#} 
-<ls n="ṚV. 1,">164, 33.</ls> <ls n="ṚV.">3, 1, 10.</ls> <ls n="ṚV. 3,">54, 9.</ls> <ls n="ṚV.">4, 1, 10.</ls> <ls n="ṚV. 4,">17, 12.</ls> <ls n="ṚV.">9, 86, 10.</ls> <ls n="ṚV. 9,">87, 2.</ls> {#brahma^RAm#} 
-<ls n="ṚV.">2, 23, 2.</ls> {#ma\tI\nAm#} 
-<ls n="ṚV.">6, 69, 2.</ls> {#sUrya^sya#} 
-<ls n="ṚV.">3, 49, 4.</ls> <ls n="ṚV.">8, 36, 4.</ls> <ls n="ṚV. 8, 36,">5.</ls> <ls n="ṚV.">9, 96, 5.</ls> {#vasU^nAm#} 
-<ls n="ṚV.">1, 76, 4.</ls> <ls>VS. 19, 87.</ls> <ls>AV. 4, 1, 7.</ls> {#ya\jYasya^#} 
-<ls>13, 1, 13.</ls> {#prajAnAm#} 
-<ls>CHĀND. UP. 4, 3, 7.</ls> 
-<ls>ŚVETĀŚV. UP. 6, 9.</ls> 
-<ls>PAÑCAT. I, 9.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#ja/nitrI#} {%Gebärerin, Mutter%} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#gavA^m#} 
-<ls>ṚV. 1, 124, 5.</ls> {#taM te^ mA\tA pari\ yozA\ jani^trI ma\haH pi\turdama\ Asi^Yca\dagre^#} 
-<ls n="ṚV.">3, 48, 2.</ls> <ls>AV. 6, 110, 13. 9, 5, 30.</ls> {#yu\va\tayo\ jani^trIH#} 
-<ls>ṚV. 3, 54, 14.</ls> {#sTA\turjaga^taH#} 
-<ls n="ṚV.">6, 50, 7.</ls> {#jani^trI\rBuva^nasya\ patnI^ra\paH#} 
-<ls n="ṚV.">10, 30, 10.</ls> <ls n="ṚV. 10,">35, 7.</ls> {#jani^trIva\ prati^ haryAsi sU\num#} 
-<ls>AV. 12, 3, 23.</ls> {#pra\jAnA^m#} 
-<ls>TS. 4, 3, 11, 5.</ls> 
-<ls>GOBH. 2, 8, 4.</ls> {#dyAvA^pfTi\vI jani^trI#} 
-<ls>ṚV. 10, 110, 9.</ls> <ls n="ṚV.">1, 185, 6.</ls> <ls n="ṚV.">7, 97, 8.</ls> - <ls>MBH. 3, 10498.</ls> <ls>N. 16, 30.</ls> <ls>VARĀH. BṚH. S. 73, 11.</ls> 
+{#janita/r#}¦ (von {#jan#})
+<div n="1"> 1) <lex>m.</lex> {%Erzeuger, Vater%}
+<ls>P. 6,4,53.</ls>
+<ls>H. ś. 116.</ls> <ls>MED. y. 25.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#aDA\ hi tvA^ jani\tA jIja^nat#}
+<ls>ṚV. 1,129,11.</ls> {#pi\tA ja^ni\tA#}
+<ls n="ṚV. 1,">164,33.</ls> <ls n="ṚV.">3,1,10.</ls> <ls n="ṚV. 3,">54,9.</ls> <ls n="ṚV.">4,1,10.</ls> <ls n="ṚV. 4,">17,12.</ls> <ls n="ṚV.">9,86,10.</ls> <ls n="ṚV. 9,">87,2.</ls> {#brahma^RAm#}
+<ls n="ṚV.">2,23,2.</ls> {#ma\tI\nAm#}
+<ls n="ṚV.">6,69,2.</ls> {#sUrya^sya#}
+<ls n="ṚV.">3,49,4.</ls> <ls n="ṚV.">8,36,4.</ls> <ls n="ṚV. 8,36,">5.</ls> <ls n="ṚV.">9,96,5.</ls> {#vasU^nAm#}
+<ls n="ṚV.">1,76,4.</ls> <ls>VS. 19,87.</ls> <ls>AV. 4,1,7.</ls> {#ya\jYasya^#}
+<ls n="AV.">13,1,13.</ls> {#prajAnAm#}
+<ls>CHĀND. UP. 4,3,7.</ls>
+<ls>ŚVETĀŚV. UP. 6,9.</ls>
+<ls>PAÑCAT. I,9.</ls>
+<div n="1">— 2) <lex>f.</lex> {#ja/nitrI#} {%Gebärerin, Mutter%}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#gavA^m#}
+<ls>ṚV. 1,124,5.</ls> {#taM te^ mA\tA pari\ yozA\ jani^trI ma\haH pi\turdama\ Asi^Yca\dagre^#}
+<ls n="ṚV.">3,48,2.</ls> <ls>AV. 6,110,13.</ls> <ls n="AV.">9,5,30.</ls> {#yu\va\tayo\ jani^trIH#}
+<ls>ṚV. 3,54,14.</ls> {#sTA\turjaga^taH#}
+<ls n="ṚV.">6,50,7.</ls> {#jani^trI\rBuva^nasya\ patnI^ra\paH#}
+<ls n="ṚV.">10,30,10.</ls> <ls n="ṚV. 10,">35,7.</ls> {#jani^trIva\ prati^ haryAsi sU\num#}
+<ls>AV. 12,3,23.</ls> {#pra\jAnA^m#}
+<ls>TS. 4,3,11,5.</ls>
+<ls>GOBH. 2,8,4.</ls> {#dyAvA^pfTi\vI jani^trI#}
+<ls>ṚV. 10,110,9.</ls> <ls n="ṚV.">1,185,6.</ls> <ls n="ṚV.">7,97,8.</ls> — <ls>MBH. 3,10498.</ls> <ls>N. 16,30.</ls> <ls>VARĀH. BṚH. S. 73,11.</ls>
 <div n="v">— Vgl. {#janayitar#} .
 <LEND>

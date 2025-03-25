@@ -1,7 +1,7 @@
 <L>1377<pc>049<k1>augury<k2>augury
-<div n="lb"/>{@AUGURY:@}¦ <div n="I">I From birds: {#SakunajYAnam#} <div n="xe">{%or%}</div> <div n="xs">{#Sakuni-#}
-<div n="lb"/>{#rUtijYAnam,#}</div> K. </div><div n="I">II From any phenomena:
-<div n="lb"/>{#nimittajYAnam:#} Ph. <div n="xe">{%to practise a.%}</div> <div n="xs">{#*nimittEH SumASuBaM #}
-<div n="lb"/>{# kaTayati.#}</div> </div><div n="I">III An omen: q. v. </div><div n="1">(1) {#Sakunam;#} </div><div n="1">(2)
-<div n="lb"/>{#nimittam,#} <div n="xe">{%a bad a.%}</div> <div n="xs">{#animittam.#}</div></div>
+{@AUGURY:@}¦ <div n="I">I From birds: {#SakunajYAnam#} <div n="xe">{%or%}</div> <div n="xs">{#Sakuni-#}
+{#rUtijYAnam,#}</div> K. </div><div n="I">II From any phenomena:
+{#nimittajYAnam:#} Ph. <div n="xe">{%to practise a.%}</div> <div n="xs">{#*nimittEH SumASuBaM #}
+{# kaTayati.#}</div> </div><div n="I">III An omen: q. v. </div><div n="1">(1) {#Sakunam;#} </div><div n="1">(2)
+{#nimittam,#} <div n="xe">{%a bad a.%}</div> <div n="xs">{#animittam.#}</div></div>
 <LEND>

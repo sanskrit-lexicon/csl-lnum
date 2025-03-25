@@ -1,26 +1,26 @@
 <L>13407<pc>1-1083<k1>ekAgra<k2>ekAgra
-{#ekAgra#}¦ ({#eka + agra#}) 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} ({%eine Spitze vor sich habend%}) {%auf%} {%einen Punkt —, auf%} {%einen%} {%Gegenstand gerichtet, seine Aufmerksamkeit auf einen einzigen Gegenstand richtend%} 
-<ls>AK. 3, 2, 29. 4, 192.</ls> 
-<ls>H. 1458.</ls> 
-<ls>an. 3, 526.</ls> 
-<ls>MED. r. 121.</ls> {#ekAgradfzwi#} {%starr auf einen Punkt blickend%} 
-<ls>SUŚR. 1, 115, 12.</ls> {#ekAgraM manaH kftvA#} 
-<ls>BHAG. 6, 12.</ls> {#ekAgreRa cetasA#} 
-<ls>18, 72.</ls> {#ekAgrayA budDyA#} 
-<ls>BHĀG. P. 8, 17, 3.</ls> {#ekAgramanas#} <lex>adj.</lex> 
-<ls>MBH. 12, 12726. 13, 3368.</ls> 
-<ls>PAÑCAT. 186, 15.</ls> {#ekAgraDI#} <lex>adj.</lex> 
-<ls>BHĀG. P. 4, 24, 79.</ls> {#manumekAgramAsInam#} 
-<ls>M. 1, 1.</ls> 
-<ls>MBH. 3, 2038.</ls> 
-<ls>R. 2, 24, 31. 54, 26. 66, 3. 3, 78, 2. 4, 59, 3.</ls> mit der Ergänzung compon.: {#tadgItaSravaREkAgrA#} 
-<ls>RAGH. 15, 66.</ls> 
-<ls>KATHĀS. 12, 33. 21, 29.</ls> {#ekAgram#} adv.: {#ekAgraM cintayizyAmi#} 
-<ls>MBH. 3, 17308.</ls> {#ekAgratas#} 
-<ls>VET. 21, 2.</ls> {#anekAgra#} {%keine Aufmerksamkeit auf Etwas wendend%} 
-<ls>MBH. 2, 2618.</ls> 
-<ls>R. 2, 23, 28. 71, 31. 103, 11.</ls> 
-<div n="1">— 2) subst. bei den Mathemm. {%the whole of the long side (in an excavation) which is subdivided%} 
+{#ekAgra#}¦ ({#eka + agra#})
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} ({%eine Spitze vor sich habend%}) {%auf%} {%einen Punkt —, auf%} {%einen%} {%Gegenstand gerichtet, seine Aufmerksamkeit auf einen einzigen Gegenstand richtend%}
+<ls>AK. 3,2,29.</ls> <ls n="AK. 3,">4,192.</ls>
+<ls>H. 1458.</ls>
+<ls>an. 3,526.</ls>
+<ls>MED. r. 121.</ls> {#ekAgradfzwi#} {%starr auf einen Punkt blickend%}
+<ls>SUŚR. 1,115,12.</ls> {#ekAgraM manaH kftvA#}
+<ls>BHAG. 6,12.</ls> {#ekAgreRa cetasA#}
+<ls n="BHAG.">18,72.</ls> {#ekAgrayA budDyA#}
+<ls>BHĀG. P. 8,17,3.</ls> {#ekAgramanas#} <lex>adj.</lex>
+<ls>MBH. 12,12726.</ls> <ls n="MBH.">13,3368.</ls>
+<ls>PAÑCAT. 186,15.</ls> {#ekAgraDI#} <lex>adj.</lex>
+<ls>BHĀG. P. 4,24,79.</ls> {#manumekAgramAsInam#}
+<ls>M. 1,1.</ls>
+<ls>MBH. 3,2038.</ls>
+<ls>R. 2,24,31.</ls> <ls n="R. 2,">54,26.</ls> <ls n="R. 2,">66,3.</ls> <ls n="R.">3,78,2.</ls> <ls n="R.">4,59,3.</ls> mit der Ergänzung compon.: {#tadgItaSravaREkAgrA#}
+<ls>RAGH. 15,66.</ls>
+<ls>KATHĀS. 12,33.</ls> <ls n="KATHĀS.">21,29.</ls> {#ekAgram#} adv.: {#ekAgraM cintayizyAmi#}
+<ls>MBH. 3,17308.</ls> {#ekAgratas#}
+<ls>VET. 21,2.</ls> {#anekAgra#} {%keine Aufmerksamkeit auf Etwas wendend%}
+<ls>MBH. 2,2618.</ls>
+<ls>R. 2,23,28.</ls> <ls n="R. 2,">71,31.</ls> <ls n="R. 2,">103,11.</ls>
+<div n="1">— 2) subst. bei den Mathemm. {%the whole of the long side (in an excavation) which is subdivided%}
 <ls>COLEBR. Alg. 312.</ls>
 <LEND>

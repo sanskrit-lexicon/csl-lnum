@@ -1,28 +1,28 @@
 <L>6868<pc>296<k1>moon<k2>moon
 {@Moon,@}¦ {%s.%} {#caMdraH, SaSin#} {%m.,%} {#iMduH, somaH, viDuH,#}
-<div n="lb"/>{#caMdramas#} {%m.,%} {#niSAkaraH, rajani(nI)karaH,#}
-<div n="lb"/>{#glOH, SaSaDaraH, SaSAMkaH, mfgAMkaH, himAMSuH,#}
-<div n="lb"/>{#suDAMSuH, SuBrAMSuH, ozaDISaH, ozaDIpatiH,#}
-<div n="lb"/>{#kumudabAMDavaH, dvijarAjaH, kalAniDiH-nATaH,#}
-<div n="lb"/>{#abjaH, jEvAtfkaH, nakzatreSaH, kzapAkaraH;#} and
-<div n="lb"/>comp. of {#patiH, ISaH, nATaH, paH,#} with
-<div n="lb"/>words for ‘Night,’ ‘Star,’ or of ‘Ray’
-<div n="lb"/>with ‘Cold’ or ‘Nectar,’ q. v.; {#kzapA-#}
-<div n="lb"/>{#-nATaH, SItakaraH, tArAnATaH, uqupaH;#} ‘orb of
-<div n="lb"/>the m.’ {#biMbaH-baM, maMqalaM;#} ‘digit of the m.’
-<div n="lb"/>{#kalA, re(le)KA;#} ‘full m.’ {#pUrRimA,#}
-<div n="lb"/>{#pOrRamAsI;#} ‘new m.’ {#amA, amAva(vA)sI,#}
-<div n="lb"/>{#amAva(vA)syA, darSaH, sUryendusaMgamaH;#} ‘m.-
-<div n="lb"/>-beam’ {#caMdrapAdaH, SaSikaraH-raSmiH, suDAMSuH,#}
-<div n="lb"/>(Ray, q. v.); ‘m.-light’ {#kOmudI, caM-#}
-<div n="lb"/>{#-drikA, jyotsnA, caMdra-SaSi-praBA, caMdrAtapaH;#}
-<div n="lb"/>({%a.%}) {#jyotsnAvat, jyotsnAyukta, caMdraprakASita;#}
-<div n="lb"/>‘enjoys m.-light evenings’ {#jyotsnA-#}
-<div n="lb"/>{#-vato nirviSati pradozAn#} (R. VI. 34); ‘m.
-<div n="lb"/>plant’ {#somalatA, somavallI, vallarI, brAhmI,#}
-<div n="lb"/>{#matsyAkzI;#} ‘m.-shine’ {#caMdrapraBA-dyuti-kAMti#}
-<div n="lb"/>{%f.;%} ‘m.-stone’ {#caMdrakAMtaH, somakAMtaH,#}
-<div n="lb"/>{#caMdramaRiH;#} ‘m.-struck’ {#vikzipta-BrAMta-budDi,#}
-<div n="lb"/>{#vipluta-hata-mati#}. {@-less,@} {%a.%} {#hata-nazwa-caMdra,#}
-<div n="lb"/>{#caMdrahIna#}. {@-y,@} {%a.%} {#caMdratulya#}.
+{#caMdramas#} {%m.,%} {#niSAkaraH, rajani(nI)karaH,#}
+{#glOH, SaSaDaraH, SaSAMkaH, mfgAMkaH, himAMSuH,#}
+{#suDAMSuH, SuBrAMSuH, ozaDISaH, ozaDIpatiH,#}
+{#kumudabAMDavaH, dvijarAjaH, kalAniDiH-nATaH,#}
+{#abjaH, jEvAtfkaH, nakzatreSaH, kzapAkaraH;#} and
+comp. of {#patiH, ISaH, nATaH, paH,#} with
+words for ‘Night,’ ‘Star,’ or of ‘Ray’
+with ‘Cold’ or ‘Nectar,’ q. v.; {#kzapA-#}
+{#-nATaH, SItakaraH, tArAnATaH, uqupaH;#} ‘orb of
+the m.’ {#biMbaH-baM, maMqalaM;#} ‘digit of the m.’
+{#kalA, re(le)KA;#} ‘full m.’ {#pUrRimA,#}
+{#pOrRamAsI;#} ‘new m.’ {#amA, amAva(vA)sI,#}
+{#amAva(vA)syA, darSaH, sUryendusaMgamaH;#} ‘m.-
+-beam’ {#caMdrapAdaH, SaSikaraH-raSmiH, suDAMSuH,#}
+(Ray, q. v.); ‘m.-light’ {#kOmudI, caM-#}
+{#-drikA, jyotsnA, caMdra-SaSi-praBA, caMdrAtapaH;#}
+({%a.%}) {#jyotsnAvat, jyotsnAyukta, caMdraprakASita;#}
+‘enjoys m.-light evenings’ {#jyotsnA-#}
+{#-vato nirviSati pradozAn#} (R. VI. 34); ‘m.
+plant’ {#somalatA, somavallI, vallarI, brAhmI,#}
+{#matsyAkzI;#} ‘m.-shine’ {#caMdrapraBA-dyuti-kAMti#}
+{%f.;%} ‘m.-stone’ {#caMdrakAMtaH, somakAMtaH,#}
+{#caMdramaRiH;#} ‘m.-struck’ {#vikzipta-BrAMta-budDi,#}
+{#vipluta-hata-mati#}. {@-less,@} {%a.%} {#hata-nazwa-caMdra,#}
+{#caMdrahIna#}. {@-y,@} {%a.%} {#caMdratulya#}.
 <LEND>

@@ -1,35 +1,35 @@
 <L>112818<pc>7-1203<k1>sopAna<k2>sopAna
-{#sopAna#}¦ 
-n. <ls>SIDDH. K. 249,a,8.</ls> <lex>n.</lex> {%Treppe, Leiter%} 
-<ls>AK. 2, 2, 17.</ls> 
-<ls>H. 1013.</ls> 
-<ls>HALĀY. 2, 146.</ls> 
-<ls>HARIV. 8966.</ls> 
-<ls>R. 3, 61, 12. 5, 9, 53. 13, 11. 38, 26.</ls> 
-<ls>KUMĀRAS. 1, 39.</ls> 
-<ls>VIKR. 39, 4.</ls> 
-<ls>VARĀH. BṚH. S. 28, 15.</ls> 
-<ls>PAÑCAR. 1, 4, 57. 7, 56.</ls> {#svargasya sopAnam#} {%eine Leiter zum Himmel%} ist {#satyam#} 
-<ls>Spr. (II) 1372.</ls> <ls>VĀRĀHA-P. 209</ls> <ls>?(nach AUFRECHT).</ls> {#gAvaH#} 
-<ls>MBH. 13, 2700.</ls> {#kzamA#} 
-<ls>HARIV. 15627.</ls> {#°BUtaM svargasya#} 
-<ls>5337.</ls> {#harAyatana°#} 
-<ls>RĀJA-TAR. 2, 124.</ls> {#svarga°#} 
-<ls>HARIV. 14521.</ls> {#vizRulokEka°#} 
-<ls>PAÑCAR. 4, 3, 175.</ls> {#SrIkfzRacaraRAmBojaprApti°#} 
-<ls>Verz. d. Oxf. H. 26,b,13.</ls> {#sopAnAlI#} 
-<ls>Spr. (II) 6039.</ls> {#°paraMparA#} 
-<ls>RAGH. 3, 69.</ls> {#°paTa#} 
-<ls>6, 3.</ls> {#tIrasopAnapaTa#} 
-<ls>16, 56.</ls> {#°mArga#} 
-<ls>15.</ls> <ls>MEGH. 74.</ls> <ls>ŚĀK. 94, 2.</ls> {#sagaratanayasvargasopAnapaNkti#} 
-<ls>MEGH. 51.</ls> {#°padDati#} 
-<ls>RĀJA-TAR. 3, 347.</ls> {#°kUpa#} {%ein Brunnen mit einer Treppe%} 
-<ls>6, 18. 23. 26. 30.</ls> am Ende eines <lex>adj.</lex> comp. (f. {#A#}) 
-<ls>MBH. 1, 6964. 2, 89. 1281. 7, 9122. 14, 1728.</ls> 
-<ls>R. 3, 61, 17. 5, 16, 35.</ls> 
-<ls>KATHĀS. 26, 283. 28, 54.</ls> 
-<ls>BHĀG. P. 4, 6, 31. 9, 64. 7, 4, 9.</ls> {#°tva#} <lex>n.</lex> nom. abstr. 
-<ls>MEGH. 61.</ls> 
+{#sopAna#}¦
+n. <ls>SIDDH. K. 249,a,8.</ls> <lex>n.</lex> {%Treppe, Leiter%}
+<ls>AK. 2,2,17.</ls>
+<ls>H. 1013.</ls>
+<ls>HALĀY. 2,146.</ls>
+<ls>HARIV. 8966.</ls>
+<ls>R. 3,61,12.</ls> <ls n="R.">5,9,53.</ls> <ls n="R. 5,">13,11.</ls> <ls n="R. 5,">38,26.</ls>
+<ls>KUMĀRAS. 1,39.</ls>
+<ls>VIKR. 39,4.</ls>
+<ls>VARĀH. BṚH. S. 28,15.</ls>
+<ls>PAÑCAR. 1,4,57. 7,56.</ls> {#svargasya sopAnam#} {%eine Leiter zum Himmel%} ist {#satyam#}
+<ls>Spr. (II) 1372.</ls> <ls>VĀRĀHA-P. 209</ls> (nach <ls>AUFRECHT</ls>). {#gAvaH#}
+<ls>MBH. 13,2700.</ls> {#kzamA#}
+<ls>HARIV. 15627.</ls> {#°BUtaM svargasya#}
+<ls n="HARIV.">5337.</ls> {#harAyatana°#}
+<ls>RĀJA-TAR. 2,124.</ls> {#svarga°#}
+<ls>HARIV. 14521.</ls> {#vizRulokEka°#}
+<ls>PAÑCAR. 4,3,175.</ls> {#SrIkfzRacaraRAmBojaprApti°#}
+<ls>Verz. d. Oxf. H. 26,b,13.</ls> {#sopAnAlI#}
+<ls>Spr. (II) 6039.</ls> {#°paraMparA#}
+<ls>RAGH. 3,69.</ls> {#°paTa#}
+<ls n="RAGH.">6,3.</ls> {#tIrasopAnapaTa#}
+<ls n="RAGH.">16,56.</ls> {#°mArga#}
+<ls n="RAGH. 16,">15.</ls> <ls>MEGH. 74.</ls> <ls>ŚĀK. 94,2.</ls> {#sagaratanayasvargasopAnapaNkti#}
+<ls>MEGH. 51.</ls> {#°padDati#}
+<ls>RĀJA-TAR. 3,347.</ls> {#°kUpa#} {%ein Brunnen mit einer Treppe%}
+<ls n="RĀJA-TAR.">6,18. 23. 26. 30.</ls> am Ende eines <lex>adj.</lex> comp. (f. {#A#})
+<ls>MBH. 1,6964.</ls> <ls n="MBH.">2,89.</ls> <ls n="MBH. 2,">1281.</ls> <ls n="MBH.">7,9122.</ls> <ls n="MBH.">14,1728.</ls>
+<ls>R. 3,61,17.</ls> <ls n="R.">5,16,35.</ls>
+<ls>KATHĀS. 26,283.</ls> <ls n="KATHĀS.">28,54.</ls>
+<ls>BHĀG. P. 4,6,31.</ls> <ls n="BHĀG. P. 4,">9,64.</ls> <ls n="BHĀG. P.">7,4,9.</ls> {#°tva#} <lex>n.</lex> nom. abstr.
+<ls>MEGH. 61.</ls>
 <div n="v">— Vgl. {#maRi°, sidDa°, sidDi°#} .
 <LEND>

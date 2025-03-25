@@ -1,6 +1,6 @@
 <L>24531<pc>769<k1>writer<k2>writer
-<div n="lb"/>{@WRITER:@}¦ <div n="I">I Lit.: {#leKakaH,#} <div n="xe">{%be the w. of this%}
-<div n="lb"/>{%Bhārata:%}</div> <div n="xs">{#leKako BAratasyAsya Bava,#}</div> Mah. 77. </div><div n="I">II
-<div n="lb"/>Author: q. v.: {#praRetf#} (f. {#trI#}). </div><div n="I">III A scribe:</div>
-<div n="lb"/><div n="1">(1) {#lipikaraH;#} </div><div n="1">(2) {#leKakaH.#}</div>
+{@WRITER:@}¦ <div n="I">I Lit.: {#leKakaH,#} <div n="xe">{%be the w. of this%}
+{%Bhārata:%}</div> <div n="xs">{#leKako BAratasyAsya Bava,#}</div> Mah. 77. </div><div n="I">II
+Author: q. v.: {#praRetf#} (f. {#trI#}). </div><div n="I">III A scribe:</div>
+<div n="1">(1) {#lipikaraH;#} </div><div n="1">(2) {#leKakaH.#}</div>
 <LEND>

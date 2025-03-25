@@ -1,4 +1,4 @@
 <L>16733<pc>415-b<k1>irrigation<k2>irrigation
-<div n="lb"/>IRRIGATION¦, {%s.%} {#sekaH, secanaM, siYcanaM, nizekaH, avasekaH, avasecanaM, jala-#}
-<div n="lb"/>{#plAvanaM, kledanaM, aByukzaRaM, prokzaRaM, praRAlikAsiYcanaM#}.
+IRRIGATION¦, {%s.%} {#sekaH, secanaM, siYcanaM, nizekaH, avasekaH, avasecanaM, jala-#}
+{#plAvanaM, kledanaM, aByukzaRaM, prokzaRaM, praRAlikAsiYcanaM#}.
 <LEND>

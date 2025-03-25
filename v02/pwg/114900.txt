@@ -1,14 +1,14 @@
 <L>114900<pc>7-1420<k1>svatavas<k2>sva/tavas
-{#sva/tavas#}¦ <lex>adj.</lex> ({#°vAn#} nom., {#°vadByas#} und {#°voByas#} 
-<ls>TBR. -</ls> <ls>P. 7, 1, 83. 8, 3, 11. 7, 4, 48, <is>Vārtt</is>.)</ls> {%selbststark, seiner Stärke sich bewusst%},
-<lang n="greek">αὐτάρκης:</lang> die <is>Marut</is> 
-<ls>ṚV. 1, 85, 7.</ls> <ls n="ṚV. 1,">166, 2.</ls> <ls n="ṚV. 1,">168, 2.</ls> <ls n="ṚV.">6, 66, 9.</ls> <ls n="ṚV.">7, 59, 1.</ls> 
-<ls>ŚAT. BR. 2, 5, 1, 14.</ls> 
-<ls>KĀṬH. 36, 1.</ls> 
-<ls>VS. 17, 85, 24, 16.</ls> 
-<ls>KĀTY. ŚR. 5, 1, 16.</ls> {#manas#} 
-<ls>ṚV. 1, 159, 2.</ls> <ls n="ṚV. 1,">186, 10.</ls> <is>Indra</is> 
-<ls n="ṚV.">6, 22, 6.</ls> {#Buva\stasya\ svata^vA~H pA\yura^gne#} 
-<ls n="ṚV.">4, 2, 6.</ls> {#gi\rirna ya svata^vA~ f\zva indra^H#} {%wuchtig%} 
-<ls n="ṚV. 4,">20, 6.</ls> <ls n="ṚV.">1, 64, 7.</ls>
+{#sva/tavas#}¦ <lex>adj.</lex> ({#°vAn#} nom., {#°vadByas#} und {#°voByas#}
+<ls>TBR.</ls> — <ls>P. 7,1,83.</ls> <ls n="P.">8,3,11.</ls> <ls n="P.">7,4,48</ls>, <is>Vārtt</is>.) {%selbststark, seiner Stärke sich bewusst%},
+<lang n="greek">αὐτάρκης</lang>: die <is>Marut</is>
+<ls>ṚV. 1,85,7.</ls> <ls n="ṚV. 1,">166,2.</ls> <ls n="ṚV. 1,">168,2.</ls> <ls n="ṚV.">6,66,9.</ls> <ls n="ṚV.">7,59,1.</ls>
+<ls>ŚAT. BR. 2,5,1,14.</ls>
+<ls>KĀṬH. 36,1.</ls>
+<ls>VS. 17,85,24,16.</ls>
+<ls>KĀTY. ŚR. 5,1,16.</ls> {#manas#}
+<ls>ṚV. 1,159,2.</ls> <ls n="ṚV. 1,">186,10.</ls> <is>Indra</is>
+<ls n="ṚV.">6,22,6.</ls> {#Buva\stasya\ svata^vA~H pA\yura^gne#}
+<ls n="ṚV.">4,2,6.</ls> {#gi\rirna ya svata^vA~ f\zva indra^H#} {%wuchtig%}
+<ls n="ṚV. 4,">20,6.</ls> <ls n="ṚV.">1,64,7.</ls>
 <LEND>

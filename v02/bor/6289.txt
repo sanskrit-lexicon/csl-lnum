@@ -1,6 +1,6 @@
 <L>6289<pc>202<k1>disciple<k2>disciple
-<div n="lb"/>{@DISCIPLE:@}¦ <div n="1">(1) {#Sizya#} (f. {#zyA#}), <div n="xe">{%dialogue between a%}
-<div n="lb"/>{%preceptor and his d.%}</div> <div n="xs">{#guruSizyasaMvAdaH;#}</div> Mah.; </div><div n="1">(2)
-<div n="lb"/>{#antevAsin#} (f. {#nI#}) (rare), <div n="xe">{%of her d.:%}</div> <div n="xs">{#tadantevAsi-#}
-<div n="lb"/>{#nyAH,#}</div> Mah.</div>
+{@DISCIPLE:@}¦ <div n="1">(1) {#Sizya#} (f. {#zyA#}), <div n="xe">{%dialogue between a%}
+{%preceptor and his d.%}</div> <div n="xs">{#guruSizyasaMvAdaH;#}</div> Mah.; </div><div n="1">(2)
+{#antevAsin#} (f. {#nI#}) (rare), <div n="xe">{%of her d.:%}</div> <div n="xs">{#tadantevAsi-#}
+{#nyAH,#}</div> Mah.</div>
 <LEND>

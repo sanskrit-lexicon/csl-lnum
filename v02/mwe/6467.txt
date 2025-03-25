@@ -1,5 +1,5 @@
 <L>6467<pc>145-b<k1>creeper<k2>creeper
-<div n="lb"/>CREEPER¦, {%s.%} (Plant) {#latA, vallI#} {%f.,%} {#gulminI#} {%f.,%} {#latApratAninI, vfkzA-#}
-<div n="lb"/>{#-diruhaH, vratatiH#} {%f.,%} {#vIrud (D), ulapaH, KedinI, pratAnI, pratAnaH,#}
-<div n="lb"/>{#atirasA#}. — (Insect) {#urogAmI#} {%m.%} {#(n), sarpI#} {%m.%} {#(n), visarpI#} {%m.%}
+CREEPER¦, {%s.%} (Plant) {#latA, vallI#} {%f.,%} {#gulminI#} {%f.,%} {#latApratAninI, vfkzA-#}
+{#-diruhaH, vratatiH#} {%f.,%} {#vIrud (D), ulapaH, KedinI, pratAnI, pratAnaH,#}
+{#atirasA#}. — (Insect) {#urogAmI#} {%m.%} {#(n), sarpI#} {%m.%} {#(n), visarpI#} {%m.%}
 <LEND>

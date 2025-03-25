@@ -1,24 +1,24 @@
 <L>7954<pc>1-0598<k1>Agas<k2>A/gas
-{#A/gas#}¦ <lex>n.</lex> {%Aergerniss, Anstoss; Fehler, Vergehen%} 
-<ls>Uṇ. 4, 211.</ls> 
-<ls>AK. 2, 8, 1, 26. 3, 4, 30, 232.</ls> 
-<ls>H. 744.</ls> 
-<ls>an. 2, 575.</ls> 
-<ls>MED. s. 15</ls> (fast überall in zwei Begriffe getheilt). 
-<ls>ṚV. 1, 179, 5.</ls> {#de\vAnvA\ yacca^kf\mA kacci\dAga\H saKA^yaM vA#} 
-<ls n="ṚV. 1,">185, 8.</ls> <ls n="ṚV.">2, 27, 14.</ls> <ls n="ṚV. 2,">29, 1.</ls> <ls n="ṚV. 2, 29,">5.</ls> <ls n="ṚV.">4, 3, 5.</ls> {#yo na\ Ago^ a\Byeno\ BarA^ti#} 
-<ls n="ṚV.">5, 3, 7.</ls> <ls n="ṚV. 5, 3,">12.</ls> <ls n="ṚV. 5,">85, 7.</ls> <ls n="ṚV.">7, 57, 4.</ls> <ls n="ṚV. 7,">87, 7.</ls> <ls n="ṚV. 7,">88, 6.</ls> <ls n="ṚV. 7,">93, 7.</ls> <ls n="ṚV.">8, 45, 34.</ls> <ls n="ṚV.">10, 137, 1.</ls> {#tasmAdu ha nAga iva skannaM syAt#} 
-<ls>ŚAT. BR. 1, 3, 3, 16.</ls> {#tadvE devAnAmAga Asa#} 
-<ls>7, 4, 2. 6, 1, 4. 4, 6, 7, 9. 10. 11, 5, 3, 8.</ls> <ls>M. 9, 241</ls> ({#Agassu#}). 
-<ls>R. 4, 53, 19</ls> ({#AgAMsi#}). {#tadAgaH krUramutpAdya#} 
-<ls>MBH. 2, 861. 2597.</ls> {#AgaskftvA#} 
-<ls>1, 2055.</ls> {#AgaskArin#} 
-<ls>4451.</ls> {#Agaskft#} 
-<ls>RAGH. 2, 32.</ls> {#Agaskfta#} {%beleidigt%} 
-<ls>MBH. 1, 4449. 3, 13701.</ls> {#kftAgas#} 
-<ls>12328.</ls> <ls>AMAR. 43.</ls> {#akftAgas#} 
-<ls>R. 1, 7, 13.</ls> {#sAgas#} 
-<ls>AMAR. 41.</ls> {#anAgas#} (vgl. d.) 
-<ls>N. 24, 11.</ls> 
-<ls>MṚCCH. 123, 19.</ls>
+{#A/gas#}¦ <lex>n.</lex> {%Aergerniss, Anstoss; Fehler, Vergehen%}
+<ls>Uṇ. 4,211.</ls>
+<ls>AK. 2,8,1,26.</ls> <ls n="AK.">3,4,30,232.</ls>
+<ls>H. 744.</ls>
+<ls>an. 2,575.</ls>
+<ls>MED. s. 15</ls> (fast überall in zwei Begriffe getheilt).
+<ls>ṚV. 1,179,5.</ls> {#de\vAnvA\ yacca^kf\mA kacci\dAga\H saKA^yaM vA#}
+<ls n="ṚV. 1,">185,8.</ls> <ls n="ṚV.">2,27,14.</ls> <ls n="ṚV. 2,">29,1.</ls> <ls n="ṚV. 2,29,">5.</ls> <ls n="ṚV.">4,3,5.</ls> {#yo na\ Ago^ a\Byeno\ BarA^ti#}
+<ls n="ṚV.">5,3,7.</ls> <ls n="ṚV. 5,3,">12.</ls> <ls n="ṚV. 5,">85,7.</ls> <ls n="ṚV.">7,57,4.</ls> <ls n="ṚV. 7,">87,7.</ls> <ls n="ṚV. 7,">88,6.</ls> <ls n="ṚV. 7,">93,7.</ls> <ls n="ṚV.">8,45,34.</ls> <ls n="ṚV.">10,137,1.</ls> {#tasmAdu ha nAga iva skannaM syAt#}
+<ls>ŚAT. BR. 1,3,3,16.</ls> {#tadvE devAnAmAga Asa#}
+<ls n="ŚAT. BR. 1,">7,4,2.</ls> <ls n="ŚAT. BR. 1,">6,1,4.</ls> <ls n="ŚAT. BR.">4,6,7,9.</ls> <ls n="ŚAT. BR. 4,6,7,">10.</ls> <ls n="ŚAT. BR. 4,6,7,">11,5,3,8.</ls> <ls>M. 9,241</ls> ({#Agassu#}).
+<ls>R. 4,53,19</ls> ({#AgAMsi#}). {#tadAgaH krUramutpAdya#}
+<ls>MBH. 2,861.</ls> <ls n="MBH. 2,">2597.</ls> {#AgaskftvA#}
+<ls n="MBH.">1,2055.</ls> {#AgaskArin#}
+<ls n="MBH. 1,">4451.</ls> {#Agaskft#}
+<ls>RAGH. 2,32.</ls> {#Agaskfta#} {%beleidigt%}
+<ls>MBH. 1,4449.</ls> <ls n="MBH.">3,13701.</ls> {#kftAgas#}
+<ls n="MBH. 3,">12328.</ls> <ls>AMAR. 43.</ls> {#akftAgas#}
+<ls>R. 1,7,13.</ls> {#sAgas#}
+<ls>AMAR. 41.</ls> {#anAgas#} (vgl. d.)
+<ls>N. 24,11.</ls>
+<ls>MṚCCH. 123,19.</ls>
 <LEND>

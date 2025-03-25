@@ -1,7 +1,7 @@
 <L>4961<pc>160<k1>cowardice<k2>cowardice
-<div n="lb"/>{@COWARDICE:@}¦ <div n="1">(1) {#BIrutA,#} <div n="xe">{%from c.%}</div> <div n="xs">{#BIrutyA,#}</div> Mr.;</div>
-<div n="lb"/><div n="1">(2) {#kAtaryam#} (=timidity), {%simple policy is c.:%}
-<div n="lb"/>{#kAtaryaM kevalA nIti.,#} R.; </div><div n="1">(3) {#kuvikramaH#} (towards
-<div n="lb"/>the weak), <div n="xe">{%your c. to a poor bird:%}</div> <div n="xs">{#kuvikramaM te kfpaRe #}
-<div n="lb"/>{# patatriRi,#}</div> N.; </div><div n="1">(4) {#apOruzam#} (=unmanliness).</div>
+{@COWARDICE:@}¦ <div n="1">(1) {#BIrutA,#} <div n="xe">{%from c.%}</div> <div n="xs">{#BIrutyA,#}</div> Mr.;</div>
+<div n="1">(2) {#kAtaryam#} (=timidity), {%simple policy is c.:%}
+{#kAtaryaM kevalA nIti.,#} R.; </div><div n="1">(3) {#kuvikramaH#} (towards
+the weak), <div n="xe">{%your c. to a poor bird:%}</div> <div n="xs">{#kuvikramaM te kfpaRe #}
+{# patatriRi,#}</div> N.; </div><div n="1">(4) {#apOruzam#} (=unmanliness).</div>
 <LEND>

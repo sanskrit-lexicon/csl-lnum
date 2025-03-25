@@ -1,30 +1,3 @@
 <L>12110<pc>433,2<k1>muKa<k2>muKa
-({@mukha@}¦, nt., seems to me to show no uses essentially
-<div n="lb">different from Skt.; a few which have caused or might
-<div n="lb">cause questions to arise are here listed: ({@1@}) ifc., (in a given)
-<div n="lb">{%direction%}, cf. BR s.v. 3: bāhyamukhaṃ kṣiptāni Mv
-<div n="lb">ii.458.1, {%thrown outside%}; bāhyato-mukhaṃ kṣipati iii.13.4;
-<div n="lb">see also {@paścānmukha@}; sthānāsanaṃ śayanacaṅkrama-
-<div n="lb">ṇaṃ na kariṣya (mss. °ṣye, unmetr.) 'haṃ kapilavastu-
-<div n="lb">mukhaṃ LV 223.5 (vs), {%in%} (lit. {%in the direction of%}) {%K%}.:
-<div n="lb">({@2@}) {%entrance, ingress%} (BR s.v. 5 and 8) = {%introduction%},
-<div n="lb">in {@dharmamukha, dharmālokamukha@}, qq.v.; also
-<div n="lb">samādhi-mukha SP 312.2, where Kern suggests em.
-<div n="lb">°sukha, but Tib. sgo, {%entrance%}; in Laṅk samādhi-mukha
-<div n="lb">12.1 and 13.13 is, to be sure, said to be rendered by Tib.
-<div n="lb">bde ba, {%happiness%}, i.e. sukha, and this cpd. is found in
-<div n="lb">the text 222.2--3, while in 72.19 Tib. and Chin. are stated
-<div n="lb">to omit mukha after samādhi; in LV 181.20 trimokṣa-
-<div n="lb">sukha- is app. a misprint for °mukha (so Foucaux; no
-<div n="lb">v.l. cited in Lefm. but Calc. mukha); in LV 352.16 (vs)
-<div n="lb">Lefm. dhyānā-mukhaṃ, but v.l. with Calc. °sukhaṃ, so
-<div n="lb">Foucaux (the construction is obscure; no verb in text;
-<div n="lb">perh. the word is governed by the foll. abhimukhaṃ,
-<div n="lb">{%in the direction of…%}); upadeśa-mukhaṃ Mv i.193.8,
-<div n="lb">{%introduction to%} (religious) {%instruction%} (said of the long
-<div n="lb">section on the 10 bhūmi which follows); prajñāpāramitā-
-<div n="lb">mukha Gv 125.1; 149.3 ff., here a long list of such °mukhāni,
-<div n="lb">all named, beginning śāntigarbhaṃ nāma °khaṃ; another
-<div n="lb">list of such names 448.23 ff., forty-two items, as stated
-<div n="lb">450.19, which adds that they are however innumerable.)
+({@mukha@}¦, <lex>nt.</lex>, seems to me to show no uses essentially different from <lang>Skt.</lang>; a few which have caused or might cause questions to arise are here listed: ({@1@}) <ab>ifc.</ab>, (in a given) {%direction%}, <ab>cf.</ab> <ls>BR</ls> <ab>s.v.</ab> 3: bāhyamukhaṃ kṣiptāni <ls>Mv</ls> 〔ii.458.1〕, {%thrown outside%}; bāhyato-mukhaṃ kṣipati 〔iii.13.4〕; see also {@paścānmukha@}; sthānāsanaṃ śayanacaṅkramaṇaṃ na kariṣya (<ab>mss.</ab> °ṣye, <ab>unmetr.</ab>) 'haṃ kapilavastumukhaṃ <ls>LV</ls> 〔223.5〕 (<ab>vs</ab>), {%in%} (<ab>lit.</ab> {%in the direction of%}) {%<ab n="Kapilavastu">K.</ab>%}: ({@2@}) {%entrance, ingress%} (<ls>BR</ls> <ab>s.v.</ab> 5 and 8) = {%introduction%}, in {@dharmamukha, dharmālokamukha@}, <ab>qq.v.</ab>; also samādhi-mukha <ls>SP</ls> 〔312.2〕, where <ls>Kern</ls> suggests <ab>em.</ab> °sukha, but <lang>Tib.</lang> <tib>sgo</tib>, {%entrance%}; in <ls>Laṅk</ls> samādhi-mukha 〔12.1〕 and 〔13.13〕 is, to be sure, said to be rendered by <lang>Tib.</lang> <tib>bde ba</tib>, {%happiness%}, <ab>i.e.</ab> sukha, and this <ab>cpd.</ab> is found in the text 〔222.2—3〕, while in 〔72.19〕 <lang>Tib.</lang> and <lang>Chin.</lang> are stated to omit mukha after samādhi; in <ls>LV</ls> 〔181.20〕 trimokṣasukha- is <ab>app.</ab> a misprint for °mukha (so <ls>Foucaux</ls>; no <ab>v.l.</ab> cited in <ls>Lefm.</ls> but <ed>Calc.</ed> mukha); in <ls>LV</ls> 〔352.16〕 (<ab>vs</ab>) <ls>Lefm.</ls> dhyānā-mukhaṃ, but <ab>v.l.</ab> with <ed>Calc.</ed> °sukhaṃ, so <ls>Foucaux</ls> (the construction is obscure; no verb in text; <ab>perh.</ab> the word is governed by the <ab>foll.</ab> abhimukhaṃ, {%in the direction of …%}); upadeśa-mukhaṃ <ls>Mv</ls> 〔i.193.8〕, {%introduction to%} (religious) {%instruction%} (said of the long section on the 10 bhūmi which follows); prajñāpāramitāmukha <ls>Gv</ls> 〔125.1〕; 〔149.3 ff.〕, here a long list of such °mukhāni, all named, beginning śāntigarbhaṃ nāma °khaṃ; another list of such names 〔448.23 ff.〕, forty-two items, as stated 〔450.19〕, which adds that they are however innumerable.)
 <LEND>

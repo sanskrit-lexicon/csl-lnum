@@ -1,7 +1,7 @@
-<L>130344<pc>655,3<k1>praKyA<k2>pra-KyA<h>a<e>1
-<s>pra-√ KyA</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-KyAti</s>, to see, <ls>RV.</ls> (<ab>Subj.</ab> <s>-Kyat</s>; <ab>inf.</ab> <s>-KyE/</s>), <ls>ŚBr.</ls> (<ab>ind.p.</ab> <s>-KyAya</s>);
+<L>130344<pc>655,3<k1>praKyA<k2>pra-KyA<e>1
+<s>pra-√ KyA</s> ¦ <ab>P.</ab> <s>-KyAti</s>, to see, <ls>RV.</ls> (<ab>Subj.</ab> <s>-Kyat</s>; <ab>inf.</ab> <s>-KyE/</s>), <ls>ŚBr.</ls> (<ab>ind.p.</ab> <s>-KyAya</s>);
 <div n="to"/>to announce, proclaim, extol, <ls>BhP.</ls> (<ab>Impv.</ab> <s>-KyAhi</s>) :
-<div n="to"/><ab>Pass.</ab> <s>-KyAyate</s>, to be seen or known;
+<div n="vp"/><ab>Pass.</ab> <s>-KyAyate</s>, to be seen or known;
 <div n="to"/>to be visible or public or acknowledged or celebrated, <ls>Mn.</ls>; <ls>MBh.</ls> &c.:
-<div n="to"/><ab>Caus.</ab> <s>-KyApayati</s>, to make generally known, proclaim, announce, publish, <ls>Mālatīm.</ls>; <ls>Rājat.</ls><info verb="pre" cp="P" parse="pra+KyA"/>
+<div n="vp"/><ab>Caus.</ab> <s>-KyApayati</s>, to make generally known, proclaim, announce, publish, <ls>Mālatīm.</ls>; <ls>Rājat.</ls><info verb="pre" cp="P" parse="pra+KyA"/><info hui="a"/>
 <LEND>

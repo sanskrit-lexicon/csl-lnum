@@ -1,6 +1,6 @@
 <L>9643<pc>227-a<k1>encumbrance<k2>encumbrance
-<div n="lb"/>ENCUMBRANCE¦, {%s.%} (Load) {#BAraH, DurA#}. — (Impediment) {#bADA -DakaH,#}
-<div n="lb"/>{#pratibanDaH, pratiroDaH, uparoDaH, viGnaH stamBaH, pratizwamBaH, vizwamBaH,#}
-<div n="lb"/>{#pratyUhaH, antarAyaH#} — (Useless addition) {#anubanDaH#} — (Debt) {#fRaBAraH,#}
-<div n="lb"/>{#fRaM, DAraRA#}.
+ENCUMBRANCE¦, {%s.%} (Load) {#BAraH, DurA#}. — (Impediment) {#bADA -DakaH,#}
+{#pratibanDaH, pratiroDaH, uparoDaH, viGnaH stamBaH, pratizwamBaH, vizwamBaH,#}
+{#pratyUhaH, antarAyaH#} — (Useless addition) {#anubanDaH#} — (Debt) {#fRaBAraH,#}
+{#fRaM, DAraRA#}.
 <LEND>

@@ -1,4 +1,4 @@
-<L>234107<pc>1159,2<k1>samAjYA<k2>sam-A-jYA<h>a<e>1
-<s>sam-A-√ jYA</s> <hom>a</hom> ¦ to know or understand thoroughly, become acquainted with, ascertain, perceive, observe, recognize, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Vet.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>-jYA<shortlong/>payati</s> (<ab>cf.</ab> next), to order, command, direct, authorize, <ls>MBh.</ls>; <ls>R.</ls> &c.<info verb="pre" cp="" parse="sam+A+jYA"/>
+<L>234107<pc>1159,2<k1>samAjYA<k2>sam-A-jYA<e>1
+<s>sam-A-√ jYA</s> ¦ to know or understand thoroughly, become acquainted with, ascertain, perceive, observe, recognize, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Vet.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>-jYApayati</s> or <s>-jYapayati</s> (<ab>cf.</ab> next), to order, command, direct, authorize, <ls>MBh.</ls>; <ls>R.</ls> &c.<info verb="pre" cp="" parse="sam+A+jYA"/><info hui="a"/>
 <LEND>

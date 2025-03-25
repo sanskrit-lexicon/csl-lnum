@@ -1,10 +1,10 @@
 <L>19577<pc>608<k1>rush<k2>rush
-<div n="lb"/>{@RUSH@}¦ (v.): {#vegena DAvati#} ({#DAv,#} c. 1. = to run:
-<div n="lb"/>q. v.) <div n="xe">{%or%}</div> <div n="xs">{#gacCati#}</div> ({#gam,#} c. 1.: lit. = to go: q. v.) [Page609]
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#patati, A-, ni-, pra-#}</div> ({#pat,#} c. 1.: lit. = to fall),
-<div n="lb"/><div n="xe">{%r. ing headlong into the stream of arrows:%}</div> <div n="xs">{#vegena #}
-<div n="lb"/>{# pratimuKametya bARanadyAH,#}</div> Ki. xvii. 63.; <div n="xe">{%an arrow r.%}
-<div n="lb"/>{%ed out of the Pināka:%}</div> <div n="xs">{#nipapAta#}</div> ({#AdaDAva,#} M.n.)
-<div n="lb"/>{#javAdizuH pinAkAt,#} K. xiii. 20.; <div n="xe">{%Arjuna r. ed forth%}
-<div n="lb"/>{%to take the arrow:%}</div> <div n="xs">{#ApapAta pArTaH SaraM jiDfkzuH,#}</div> 32.
+{@RUSH@}¦ (v.): {#vegena DAvati#} ({#DAv,#} c. 1. = to run:
+q. v.) <div n="xe">{%or%}</div> <div n="xs">{#gacCati#}</div> ({#gam,#} c. 1.: lit. = to go: q. v.) [Page609]
+<div n="xe">{%or%}</div> <div n="xs">{#patati, A-, ni-, pra-#}</div> ({#pat,#} c. 1.: lit. = to fall),
+<div n="xe">{%r. ing headlong into the stream of arrows:%}</div> <div n="xs">{#vegena #}
+{# pratimuKametya bARanadyAH,#}</div> Ki. xvii. 63.; <div n="xe">{%an arrow r.%}
+{%ed out of the Pināka:%}</div> <div n="xs">{#nipapAta#}</div> ({#AdaDAva,#} M.n.)
+{#javAdizuH pinAkAt,#} K. xiii. 20.; <div n="xe">{%Arjuna r. ed forth%}
+{%to take the arrow:%}</div> <div n="xs">{#ApapAta pArTaH SaraM jiDfkzuH,#}</div> 32.
 <LEND>

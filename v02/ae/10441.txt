@@ -1,10 +1,10 @@
 <L>10441<pc>471<k1>title<k2>title
 {@Title,@}¦ {%s.%} {#nAman#} {%n,%} {#saMjYA, lakzaRaM, AKyA;#} {%See%}
-<div n="lb"/>{@Name;@} ‘t. of honor’ {#upADiH, upapadaM,#}
-<div n="lb"/>{#mAnapadaM, kIrticihnaM;#} ‘distinguished by
-<div n="lb"/>the t. of Srīkantha’ {#SrIkaMWapadalAMCanaH#}
-<div n="lb"/>(U. 1). {@2@} {#aDikAraH, AgamaH, svatvaM#}. {@3@}
-<div n="lb"/>{#upADiH, upapadaM#}. {@4@} {#sTAnaM, padaM, vizayaH;#} ‘t.-
-<div n="lb"/>-page’ {#muKapfzWaM-patraM;#} ‘t.-deed’ {#AgamaH, -patraM#}.
-<div n="lb"/>{@-Titular,@} {%a.%} {#nAmamAtra;#} {%See%} {@Nominal.@}
+{@Name;@} ‘t. of honor’ {#upADiH, upapadaM,#}
+{#mAnapadaM, kIrticihnaM;#} ‘distinguished by
+the t. of Srīkantha’ {#SrIkaMWapadalAMCanaH#}
+(U. 1). {@2@} {#aDikAraH, AgamaH, svatvaM#}. {@3@}
+{#upADiH, upapadaM#}. {@4@} {#sTAnaM, padaM, vizayaH;#} ‘t.-
+-page’ {#muKapfzWaM-patraM;#} ‘t.-deed’ {#AgamaH, -patraM#}.
+{@-Titular,@} {%a.%} {#nAmamAtra;#} {%See%} {@Nominal.@}
 <LEND>

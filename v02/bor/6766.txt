@@ -1,11 +1,11 @@
 <L>6766<pc>216<k1>domestic<k2>domestic
-<div n="lb"/>{@DOMESTIC:@}¦ <div n="I">I Belonging to a house: </div><div n="1">(1) by
-<div n="lb"/>comp., <div n="xe">{%d. affluence:%}</div> <div n="xs">{#gfhaBUtiH,#}</div> Mu.; </div><div n="1">(2) {#gfhyaH#}
-<div n="lb"/>({#hyA, hyaM#}), <div n="xe">{%d. fire:%}</div> <div n="xs">{#gfhyo vahniH,#}</div> Vi.; </div><div n="1">(3) {#gfhajaH#}
-<div n="lb"/>({#jA, jaM#}); {#gfhotpannaH#} ({#nnA, nnaM#}) (born in the
-<div n="lb"/>home), <div n="xe">{%d. bullocks:%}</div> <div n="xs">{#gfhotpannO vfzaBO,#}</div> P. </div><div n="I">II Not
-<div n="lb"/>wild: </div><div n="1">(1) {#grAmya#} (f. {#myA#}); </div><div n="1">(2) {#grAma-#} in comp.,
-<div n="lb"/><div n="xe">{%d. fowl:%}</div> <div n="xs">{#grAmakukkuwaH,#}</div> M. </div><div n="I">III Intestine: q. v.:
-<div n="lb"/>{#antara-#} in comp. </div><div n="I">IV Fond of home: {#gfhapriyaH#}
-<div n="lb"/>({#yA, yaM#}).</div>
+{@DOMESTIC:@}¦ <div n="I">I Belonging to a house: </div><div n="1">(1) by
+comp., <div n="xe">{%d. affluence:%}</div> <div n="xs">{#gfhaBUtiH,#}</div> Mu.; </div><div n="1">(2) {#gfhyaH#}
+({#hyA, hyaM#}), <div n="xe">{%d. fire:%}</div> <div n="xs">{#gfhyo vahniH,#}</div> Vi.; </div><div n="1">(3) {#gfhajaH#}
+({#jA, jaM#}); {#gfhotpannaH#} ({#nnA, nnaM#}) (born in the
+home), <div n="xe">{%d. bullocks:%}</div> <div n="xs">{#gfhotpannO vfzaBO,#}</div> P. </div><div n="I">II Not
+wild: </div><div n="1">(1) {#grAmya#} (f. {#myA#}); </div><div n="1">(2) {#grAma-#} in comp.,
+<div n="xe">{%d. fowl:%}</div> <div n="xs">{#grAmakukkuwaH,#}</div> M. </div><div n="I">III Intestine: q. v.:
+{#antara-#} in comp. </div><div n="I">IV Fond of home: {#gfhapriyaH#}
+({#yA, yaM#}).</div>
 <LEND>

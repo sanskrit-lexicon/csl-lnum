@@ -1,17 +1,17 @@
 <L>6886<pc>297<k1>morn<k2>morn
 {@Morn, Morning,@}¦ {%s.%} {#vi-pra-BAtaM, pratyu(tyU)-#}
-<div n="lb"/>{#-zaH-zas#} {%n.,%} {#uzA, uzas#} {%f.,%} {#vyuzwaM, kalyaM, aruRo-#}
-<div n="lb"/>{#-dayaH, prAtar#} {%ind.,%} {#aharmuKaM, praBAta#} or {#uzaH-kAlaH#}
-<div n="lb"/>or {#samayaH#}. {@2@} (Opposed to afternoon)
-<div n="lb"/>{#pUrvAhRaH, prAhRaH;#} ‘it is broad m.’ {#supraBAtA#}
-<div n="lb"/>{#rajanI;#} ‘in the m.’ {#prAtaH, prAtaHkAle,#}
-<div n="lb"/>{#praBAte, pratyUze, vyuzwaM, prage;#} ‘l bid you good
-<div n="lb"/>m.’ ‘good m. to you’ {#SuBaste prAtaHkAlaH#}
-<div n="lb"/>({#BUyAt#}); ‘early in the m.’ {#suprAtaH,#}
-<div n="lb"/>{#mahati pratyUze, atiprage, prAtareva#}. {%-a.%} {#prAtaH-uzaH-#}
-<div n="lb"/>{#-kAlIna, prABAtika, Ozika#} ({#kI#} {%f.%}), {#uzasya,#}
-<div n="lb"/>{#praBAtIya;#} gen. ex. by {#prAtar#} or ({%s.%}) in
-<div n="lb"/>comp.; ‘m. breeze’ {#viBAtavAyuH;#} ‘m.
-<div n="lb"/>devotion’ {#prAtarupAsanA;#} ‘m. star’ {#pra-#}
-<div n="lb"/>{#-BAtatArA;#} ‘m. twilight’ {#prAtaHsaMDyA#}.
+{#-zaH-zas#} {%n.,%} {#uzA, uzas#} {%f.,%} {#vyuzwaM, kalyaM, aruRo-#}
+{#-dayaH, prAtar#} {%ind.,%} {#aharmuKaM, praBAta#} or {#uzaH-kAlaH#}
+or {#samayaH#}. {@2@} (Opposed to afternoon)
+{#pUrvAhRaH, prAhRaH;#} ‘it is broad m.’ {#supraBAtA#}
+{#rajanI;#} ‘in the m.’ {#prAtaH, prAtaHkAle,#}
+{#praBAte, pratyUze, vyuzwaM, prage;#} ‘l bid you good
+m.’ ‘good m. to you’ {#SuBaste prAtaHkAlaH#}
+({#BUyAt#}); ‘early in the m.’ {#suprAtaH,#}
+{#mahati pratyUze, atiprage, prAtareva#}. {%-a.%} {#prAtaH-uzaH-#}
+{#-kAlIna, prABAtika, Ozika#} ({#kI#} {%f.%}), {#uzasya,#}
+{#praBAtIya;#} gen. ex. by {#prAtar#} or ({%s.%}) in
+comp.; ‘m. breeze’ {#viBAtavAyuH;#} ‘m.
+devotion’ {#prAtarupAsanA;#} ‘m. star’ {#pra-#}
+{#-BAtatArA;#} ‘m. twilight’ {#prAtaHsaMDyA#}.
 <LEND>

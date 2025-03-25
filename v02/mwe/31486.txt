@@ -1,4 +1,4 @@
 <L>31486<pc>842-b<k1>wire<k2>wire
-<div n="lb"/>WIRE¦, {%s.%} {#tAraH -rA, lohatArA, lohatantuH#} {%m.,%} {#lohasUtraM, lohatantrI, SalAkA,#}
-<div n="lb"/>{#DAtusUtraM, tantuH#} {%m.,%} {#sUtraM, tantrI -ntraM#}.
+WIRE¦, {%s.%} {#tAraH -rA, lohatArA, lohatantuH#} {%m.,%} {#lohasUtraM, lohatantrI, SalAkA,#}
+{#DAtusUtraM, tantuH#} {%m.,%} {#sUtraM, tantrI -ntraM#}.
 <LEND>

@@ -1,6 +1,6 @@
 <L>17168<pc>525<k1>plan<k2>plan
-<div n="lb"/>{@PLAN@}¦ (v.): <div n="I">I To devise: {#upAyaM karoti,#} <div n="xe">{%p. ned%}
-<div n="lb"/>{%his death:%}</div> <div n="xs">{#tasya vaDopAyaM cakAra#}</div> <div n="xe">{%or%}</div> <div n="xs">{#vaDaM mantrayAmAsa.#}</div></div>
-<div n="lb"/><div n="I">II To design: {#citralipiM karoti#} (??,: with
-<div n="lb"/>gen.).</div>
+{@PLAN@}¦ (v.): <div n="I">I To devise: {#upAyaM karoti,#} <div n="xe">{%p. ned%}
+{%his death:%}</div> <div n="xs">{#tasya vaDopAyaM cakAra#}</div> <div n="xe">{%or%}</div> <div n="xs">{#vaDaM mantrayAmAsa.#}</div></div>
+<div n="I">II To design: {#citralipiM karoti#} (??,: with
+gen.).</div>
 <LEND>

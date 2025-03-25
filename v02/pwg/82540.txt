@@ -1,12 +1,11 @@
 <L>82540<pc>6-0196<k1>yodDavya<k2>yodDavya
-{#yodDavya#}¦ (wie eben) <lex>adj.</lex> {%zu bekämpfen%} 
-<ls>MBH. 5, 7567. 12, 3541.</ls> <lex>n.</lex> impers. {%zu kämpfen, pugnandum%}: {#kErmayA saha yodDavyam#} 
-<ls>BHAG. 1, 22.</ls> 
-<ls>MBH. 1, 5429. 3, 17278. 4, 1487. 1584. 14, 326. 328.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 95, 21. 5, 41, 5. 82, 21.</ls> 
-<ls>KATHĀS. 22, 41. 46, 202.</ls> 
-<ls>PAÑCAT. 48, 1.</ls> 
-<ls>HIT. 105, 19.</ls> {#yodDavye (utsfjya#} ed. Bomb.) {%wo es zu kämpfen gilt%} ({%galt%}) 
-<ls>MBH. 6, 1546.</ls>
+{#yodDavya#}¦ (wie eben) <lex>adj.</lex> {%zu bekämpfen%}
+<ls>MBH. 5,7567.</ls> <ls n="MBH.">12,3541.</ls> <lex>n.</lex> impers. {%zu kämpfen, pugnandum%}: {#kErmayA saha yodDavyam#}
+<ls>BHAG. 1,22.</ls>
+<ls>MBH. 1,5429.</ls> <ls n="MBH.">3,17278.</ls> <ls n="MBH.">4,1487.</ls> <ls n="MBH. 4,">1584.</ls> <ls n="MBH.">14,326.</ls> <ls n="MBH. 14,">328.</ls>
+<ls>R. GORR. 2,95,21.</ls> <ls n="R. GORR.">5,41,5.</ls> <ls n="R. GORR. 5,">82,21.</ls>
+<ls>KATHĀS. 22,41.</ls> <ls n="KATHĀS.">46,202.</ls>
+<ls>PAÑCAT. 48,1.</ls>
+<ls>HIT. 105,19.</ls> {#yodDavye (utsfjya#} <ls>ed. Bomb.</ls>) {%wo es zu kämpfen gilt%} ({%galt%})
+<ls>MBH. 6,1546.</ls>
 <LEND>

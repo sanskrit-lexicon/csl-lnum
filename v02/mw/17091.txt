@@ -1,13 +1,13 @@
 <L>17091<pc>97,2<k1>avagam<k2>ava-gam<e>1
-<s>ava-√ gam</s> ¦ <s>-gacCati</s> (<ab>Subj.</ab> <s>-ga/cCAt</s>; <ab>ind.p.</ab> <s>-ga/tya</s>, <ls>RV. vi, 75, 5</ls>; <ab>Ved.</ab> <ab>Inf.</ab> <s>a/vagantos</s>, <ls>TS.</ls>) 
+<s>ava-√ gam</s> ¦ <s>-gacCati</s> (<ab>Subj.</ab> <s>-ga/cCAt</s>; <ab>ind.p.</ab> <s>-ga/tya</s>, <ls>RV. vi, 75, 5</ls>; <lang>Ved.</lang> <ab>Inf.</ab> <s>a/vagantos</s>, <ls>TS.</ls>)
 <div n="to"/>to go down, descend to (<ab>acc.</ab> or <ab>loc.</ab>), <ls>RV.</ls>; <ls>AV.</ls>;
 <div n="to"/> (with <ab>acc.</ab>) to come to, visit, approach, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>;
 <div n="to"/>to reach, obtain, <ls>TS.</ls>; <ls>AitBr.</ls>;
 <div n="to"/>to get power or influence, <ls>TS.</ls>;
 <div n="to"/>to go near, undertake, <ls>MBh. v, 740</ls>;
 <div n="to"/>to hit upon, think of, conceive, learn, know, understand, anticipate, assure one's self, be convinced;
-<div n="to"/>to recognize, consider, believe any one (<ab>acc.</ab>) to be (<ab>acc.</ab>), <ls>MBh. iii, 2483,</ls> &c. :
-<div n="vp"/><ab>Caus.</ab> <ab>P.</ab> (3. <ab>pl.</ab> <s>-gamayanti</s>; Imper. 2. <ab>sg.</ab> <s>-gamaya</s>) 
+<div n="to"/>to recognize, consider, believe any one (<ab>acc.</ab>) to be (<ab>acc.</ab>), <ls>MBh. iii, 2483</ls>, &c. :
+<div n="vp"/><ab>Caus.</ab> <ab>P.</ab> (3. <ab>pl.</ab> <s>-gamayanti</s>; <ab>Imper.</ab> 2. <ab>sg.</ab> <s>-gamaya</s>)
 <div n="to"/>to bring near, procure, <ls>AV. iii, 3, 6</ls>; <ls>TS.</ls>;
 <div n="to"/>to cause to know, teach, <ls>Mālav.</ls> &c.<info verb="pre" cp="P" parse="ava+gam"/>
 <LEND>

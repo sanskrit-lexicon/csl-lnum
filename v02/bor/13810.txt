@@ -1,4 +1,4 @@
 <L>13810<pc>424<k1>lordship<k2>lordship
-<div n="lb"/>{@LORDSHIP:@}¦ <div n="I">I As title: {#devaH:#} v. (My) Lord.</div>
-<div n="lb"/><div n="I">II Dominion, power: q. v.: {#praButvam.#}</div>
+{@LORDSHIP:@}¦ <div n="I">I As title: {#devaH:#} v. (My) Lord.</div>
+<div n="I">II Dominion, power: q. v.: {#praButvam.#}</div>
 <LEND>

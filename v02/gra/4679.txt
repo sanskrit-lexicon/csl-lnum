@@ -1,4 +1,4 @@
-<L>4679<pc>0678<k1>DAmasaS<k2>DAma-sa/S
-{@dhāma-sáś,@}¦ stark {@dhāma-sā́c,@} a., {%zu seiner Stätte%} [dhā́man] {%gelangend.%}
-<div n="P">-ā́cam índram {285,2}.
+<L>4679<pc>0678<k1>DAmasac<k2>DAma-sa/c
+<chg type="chg" n="138" src="gra"><old>{@dhāma-sáś,@}</old><new>{@dhāma-sác,@}</new></chg> stark {@dhāma-sā́c,@}¦ <ab>a.</ab>, {%zu seiner Stätte%} [dhā́man] {%gelangend%}.
+<div n="TS">-ā́cam índram {285,2}.
 <LEND>

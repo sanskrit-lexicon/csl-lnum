@@ -1,31 +1,30 @@
 <L>107359<pc>7-0846<k1>saviSeza<k2>saviSeza
-{#saviSeza#}¦ (2. {#sa + vi°#}) 
-<div n="1"> 1) <lex>adj.</lex> 
-<div n="2"> a) {%Besonderheiten —, specifische Eigenschaften besitzend%} 
-<ls>SARVADARŚANAS. 49, 17. 51, 20. fg.</ls> 
-<div n="2">— b) {%ausserordentlich, absonderlich, ungewöhnlich%}: {#saNga#} 
-<ls>KUMĀRAS. 1, 27.</ls> {#arTa#} 
-<ls>KATHĀS. 22, 69.</ls> {#dyuti#} 
-<ls>35, 116.</ls> {#tejas#} 
-<ls>45, 89.</ls> {#pada#} 
-<ls>50, 102.</ls> <ls>SADDH. P. 4, 20</ls>,a. 
-<div n="2">— c) {%einen Unterschied machend, die Leute nach Verdienst schätzend%}: {#svAmin#} 
-<ls>HIT. 55, 13.</ls> 
-<div n="1">— 2) {#°m#} adv. 
-<div n="2"> a) {%mit allen Einzelnheiten, ganz genau%} 
-<ls>HARIV. 7033.</ls> {#sarvaM sa° tasmE nivedayantI#} 
-<ls>PAÑCAT. ed. orn. 55, 25.</ls> 
-<div n="2">— b) {%in ganz besonderer Weise, über die Maassen, in hohem Grade, vorzüglich%} 
-<ls>MBH. 3, 11966.</ls> 
-<ls>HARIV. 7144.</ls> 
-<ls>R. 2, 22, 1.</ls> 
-<ls>KUMĀRAS. 5, 38.</ls> 
-<ls>KATHĀS. 31, 72.</ls> 
-<ls>HIT. 27, 5. ed. JOHNS. 1220.</ls> am Anf. eines comp. ohne Flexionszeichen: {#saviSezakAnta#} 
-<ls>RAGH. 16, 53.</ls> 
-<ls>KATHĀS. 94, 20.</ls> {#saviSezataram#} 
-<ls>HARIV. 8278.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 71, 13.</ls> {#prApnoti tacca sa°#} {%in noch höherem Maasse, noch mehr%} 
+{#saviSeza#}¦ (2. {#sa + vi°#})
+<div n="1"> 1) <lex>adj.</lex>
+<div n="2"> a) {%Besonderheiten —, specifische Eigenschaften besitzend%}
+<ls>SARVADARŚANAS. 49,17. 51,20. fg.</ls>
+<div n="2">— b) {%ausserordentlich, absonderlich, ungewöhnlich%}: {#saNga#}
+<ls>KUMĀRAS. 1,27.</ls> {#arTa#}
+<ls>KATHĀS. 22,69.</ls> {#dyuti#}
+<ls n="KATHĀS.">35,116.</ls> {#tejas#}
+<ls n="KATHĀS.">45,89.</ls> {#pada#}
+<ls n="KATHĀS.">50,102.</ls> <ls>SADDH. P. 4,20,a.</ls>
+<div n="2">— c) {%einen Unterschied machend, die Leute nach Verdienst schätzend%}: {#svAmin#}
+<ls>HIT. 55,13.</ls>
+<div n="1">— 2) {#°m#} adv.
+<div n="2"> a) {%mit allen Einzelnheiten, ganz genau%}
+<ls>HARIV. 7033.</ls> {#sarvaM sa° tasmE nivedayantI#}
+<ls>PAÑCAT. ed. orn. 55,25.</ls>
+<div n="2">— b) {%in ganz besonderer Weise, über die Maassen, in hohem Grade, vorzüglich%}
+<ls>MBH. 3,11966.</ls>
+<ls>HARIV. 7144.</ls>
+<ls>R. 2,22,1.</ls>
+<ls>KUMĀRAS. 5,38.</ls>
+<ls>KATHĀS. 31,72.</ls>
+<ls>HIT. 27,5. ed.</ls> <ls>JOHNS. 1220.</ls> am Anf. eines comp. ohne Flexionszeichen: {#saviSezakAnta#}
+<ls>RAGH. 16,53.</ls>
+<ls>KATHĀS. 94,20.</ls> {#saviSezataram#}
+<ls>HARIV. 8278.</ls>
+<ls>R. GORR. 1,71,13.</ls> {#prApnoti tacca sa°#} {%in noch höherem Maasse, noch mehr%}
 <ls>Spr. (II) 4617.</ls>
 <LEND>

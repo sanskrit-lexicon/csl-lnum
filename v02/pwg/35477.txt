@@ -1,28 +1,27 @@
 <L>35477<pc>3-0817<k1>droha<k2>droha
-{#droha#}¦ (von 1. {#druh#}) <lex>m.</lex> {%Beleidigung, feindseliges Verfahren, Feindseligkeit, Verrath%} 
-<ls>P. 1, 4, 37,</ls> 
-<ls>Sch.</ls> 
-<ls>H. 1515.</ls> 
-<ls>M. 7, 48.</ls> 
-<ls>MBH. 4, 922.</ls> {#yenEza drohaH kftaH#} 
-<ls>PAÑCAT. 45, 25.</ls> {#droheRAkramya kaSmIrAnsvayaM Beje nfpAsanam#} 
-<ls>RĀJA-TAR. 4, 410. 5, 208. 349. 405. 6, 247.</ls> {#°para#} 105. {#°vftti#} <lex>adj.</lex> 
-<ls>257. 5, 320.</ls> {#°BAva#} 
-<ls>M. 9, 17.</ls> {#°vacana#} 
-<ls>MBH. 3, 13317.</ls> {#strIRAM#} (obj.) {#madDatabanDUnAM droho yo 'sAvihotTitaH#} 
-<ls>BHĀG. P. 1, 8, 51.</ls> mit dem obj. compon.: {#paradrohakarmaDI#} 
-<ls>M. 2, 161. 4, 177.</ls> {#deva°#} 
-<ls>SUŚR. 1, 89, 19.</ls> {#mitra°#} 
-<ls>MBH. 14, 261.</ls> 
-<ls>BHAG. 1, 38.</ls> 
-<ls>R. 2, 75, 32.</ls> 
-<ls>PAÑCAT. 66, 5.</ls> 
-<ls>KATHĀS. 5, 94.</ls> {#nfpa°#} 
-<ls>YĀJÑ. 2, 96.</ls> {#praBu°#} 
-<ls>KATHĀS. 18, 99.</ls> {#sva°#} 
-<ls>BHĀG. P. 6, 16, 42.</ls> {#prajA°#} 
-<ls>1, 9, 1.</ls> <ls>RĀJA-TAR. 6, 331.</ls> {#prARa°#} {%ein Angriff auf Jmdes Leben%} 
-<ls>PAÑCAT. 41, 1. I, 471.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#AH praKyAtasadBartfdrohA#} 
-<ls>KATHĀS. 23, 25.</ls> 
+{#droha#}¦ (von 1. {#druh#}) <lex>m.</lex> {%Beleidigung, feindseliges Verfahren, Feindseligkeit, Verrath%}
+<ls>P. 1,4,37</ls>, <ls>Sch.</ls>
+<ls>H. 1515.</ls>
+<ls>M. 7,48.</ls>
+<ls>MBH. 4,922.</ls> {#yenEza drohaH kftaH#}
+<ls>PAÑCAT. 45,25.</ls> {#droheRAkramya kaSmIrAnsvayaM Beje nfpAsanam#}
+<ls>RĀJA-TAR. 4,410. 5,208. 349. 405. 6,247.</ls> {#°para#} 105. {#°vftti#} <lex>adj.</lex>
+<ls n="RĀJA-TAR.">257. 5,320.</ls> {#°BAva#}
+<ls>M. 9,17.</ls> {#°vacana#}
+<ls>MBH. 3,13317.</ls> {#strIRAM#} (obj.) {#madDatabanDUnAM droho yo 'sAvihotTitaH#}
+<ls>BHĀG. P. 1,8,51.</ls> mit dem obj. compon.: {#paradrohakarmaDI#}
+<ls>M. 2,161.</ls> <ls n="M.">4,177.</ls> {#deva°#}
+<ls>SUŚR. 1,89,19.</ls> {#mitra°#}
+<ls>MBH. 14,261.</ls>
+<ls>BHAG. 1,38.</ls>
+<ls>R. 2,75,32.</ls>
+<ls>PAÑCAT. 66,5.</ls>
+<ls>KATHĀS. 5,94.</ls> {#nfpa°#}
+<ls>YĀJÑ. 2,96.</ls> {#praBu°#}
+<ls>KATHĀS. 18,99.</ls> {#sva°#}
+<ls>BHĀG. P. 6,16,42.</ls> {#prajA°#}
+<ls n="BHĀG. P.">1,9,1.</ls> <ls>RĀJA-TAR. 6,331.</ls> {#prARa°#} {%ein Angriff auf Jmdes Leben%}
+<ls>PAÑCAT. 41,1. I,471.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#AH praKyAtasadBartfdrohA#}
+<ls>KATHĀS. 23,25.</ls>
 <div n="v">— Vgl. {#adroha#} .
 <LEND>

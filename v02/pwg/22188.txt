@@ -1,46 +1,46 @@
 <L>22188<pc>2-0728<k1>gAQa<k2>gAQa
-{#gAQa#}¦ (partic. praet. pass. von {#gAh#}) 
-<div n="1"> 1) {%worin man sich taucht, badet%}: {#tapasvigAQAM nadIm#} 
-<ls>RAGH. 9, 72.</ls> 
-<div n="1">— 2) {%wohin Etwas dringt%}: {#gAQakarREH#} {%mit offenen Ohren%} 
-<ls>BHĀG. P. 4, 29, 40.</ls> 
-<div n="1">— 3) ({%tief eingedrungen) fest angedrückt, fest angezogen, befestigt, fest%} (Gegens. {#SiTila#}) 
-<ls>H. 1447.</ls> {#banDa#} 
-<ls>SUŚR. 1, 66, 11. 2, 103, 8.</ls> {#gAQaM saMnahanaM cakre#} 
-<ls>R. 4, 15, 20.</ls> {#gAQANgudErbAhuBiH#} 
-<ls>RAGH. 16, 60.</ls> {#gAQAliNgana#} 
-<ls>AMAR. 36.</ls> {#gAQOzWagrahapIqana#} 
-<ls>72.</ls> {#gARqIvaM ca mahadgAQam#} 
-<ls>MBH. 4, 152.</ls> {#DvAnta#} {%dichte Finsterniss%} 
-<ls>AK. 1, 2, 1, 3.</ls> adv.: {#baDnIyAdgAQameva ca#} 
-<ls>SUŚR. 2, 19, 21.</ls> 
-<ls>MĀRK. P. 16, 25.</ls> {#BrAtuScaraRO gAQaM nipIqya#} 
-<ls>R. 2, 31, 2.</ls> {#(tam) gAQaM paridaDuH#} 
-<ls>4, 48, 18.</ls> {#sasvaje snehagAQaM ca#} 
-<ls>6, 83, 57.</ls> {#gAQamAliNgya#} 
-<ls>1, 9, 47. 3, 12, 10.</ls> <ls>PAÑCAT. 181, 17.</ls> {#gAQopagUQa#} 
-<ls>MEGH. 95.</ls> 
-<ls>CAURAP. 6.</ls> {#dfzwirgAQanimIlitA#} 
-<ls>MṚCCH. 48, 23.</ls> compar.: {#kAYcyA gAQatarAvarudDavasanaprAntA#} 
-<ls>AMAR. 18.</ls> {#lANgUlaM muKe niDAya gAQataraM carvitumArabDavAn#} 
-<ls>PAÑCAT. 259, 8.</ls> 
-<div n="1">— 4) {%heftig, stark, intensiv%} 
-<ls>AK. 1, 1, 1, 62.</ls> 
-<ls>H. 1505.</ls> {#°vedana#} 
-<ls>MBH. 4, 1949. 6, 4389.</ls> {#utkaRWA#} 
-<ls>MEGH. 81.</ls> {#prakampa#} 
-<ls>ŚṚṄGĀRAT. 12.</ls> {#ruci#} 
-<ls>SĀH. D. 18, 22.</ls> {#Soka#} 
-<ls>PRAB. 94, 11.</ls> {#sOhArdenAtigAQena#} 
-<ls>BHĀG. P. 1, 15, 28.</ls> adv.: {#gAQavidDa#} 
-<ls>MBH. 5, 7216. 7, 4916.</ls> {#piqakApIqita#} 
-<ls>SUŚR. 1, 120, 3. 2, 376, 20.</ls> 
-<ls>R. 4, 13, 45.</ls> {#(mAM sa) SareRAByahanadgAQam#} 
-<ls>MBH.</ls> in <ls>BENF. Chr. 35, 7.</ls> {#resatU rodasI gAQam#} 
-<ls>MBH. 3, 14602.</ls> {#nAtigAQaM prahfzyeta#} 
-<ls>4, 118.</ls> {#gAQadurmanas#} 
-<ls>R. 2, 57, 3.</ls> {#gAQatapta#} 
-<ls>MEGH. 100.</ls> {#gAQozRa#} 
-<ls>107.</ls> <ls>BHARTṚ. 3, 82.</ls> {#gAQataram#} 
-<ls>SUŚR. 1, 368, 15.</ls>
+{#gAQa#}¦ (partic. praet. pass. von {#gAh#})
+<div n="1"> 1) {%worin man sich taucht, badet%}: {#tapasvigAQAM nadIm#}
+<ls>RAGH. 9,72.</ls>
+<div n="1">— 2) {%wohin Etwas dringt%}: {#gAQakarREH#} {%mit offenen Ohren%}
+<ls>BHĀG. P. 4,29,40.</ls>
+<div n="1">— 3) ({%tief eingedrungen) fest angedrückt, fest angezogen, befestigt, fest%} (Gegens. {#SiTila#})
+<ls>H. 1447.</ls> {#banDa#}
+<ls>SUŚR. 1,66,11.</ls> <ls n="SUŚR.">2,103,8.</ls> {#gAQaM saMnahanaM cakre#}
+<ls>R. 4,15,20.</ls> {#gAQANgudErbAhuBiH#}
+<ls>RAGH. 16,60.</ls> {#gAQAliNgana#}
+<ls>AMAR. 36.</ls> {#gAQOzWagrahapIqana#}
+<ls n="AMAR.">72.</ls> {#gARqIvaM ca mahadgAQam#}
+<ls>MBH. 4,152.</ls> {#DvAnta#} {%dichte Finsterniss%}
+<ls>AK. 1,2,1,3.</ls> adv.: {#baDnIyAdgAQameva ca#}
+<ls>SUŚR. 2,19,21.</ls>
+<ls>MĀRK. P. 16,25.</ls> {#BrAtuScaraRO gAQaM nipIqya#}
+<ls>R. 2,31,2.</ls> {#(tam) gAQaM paridaDuH#}
+<ls n="R.">4,48,18.</ls> {#sasvaje snehagAQaM ca#}
+<ls n="R.">6,83,57.</ls> {#gAQamAliNgya#}
+<ls n="R.">1,9,47.</ls> <ls n="R.">3,12,10.</ls> <ls>PAÑCAT. 181,17.</ls> {#gAQopagUQa#}
+<ls>MEGH. 95.</ls>
+<ls>CAURAP. 6.</ls> {#dfzwirgAQanimIlitA#}
+<ls>MṚCCH. 48,23.</ls> compar.: {#kAYcyA gAQatarAvarudDavasanaprAntA#}
+<ls>AMAR. 18.</ls> {#lANgUlaM muKe niDAya gAQataraM carvitumArabDavAn#}
+<ls>PAÑCAT. 259,8.</ls>
+<div n="1">— 4) {%heftig, stark, intensiv%}
+<ls>AK. 1,1,1,62.</ls>
+<ls>H. 1505.</ls> {#°vedana#}
+<ls>MBH. 4,1949.</ls> <ls n="MBH.">6,4389.</ls> {#utkaRWA#}
+<ls>MEGH. 81.</ls> {#prakampa#}
+<ls>ŚṚṄGĀRAT. 12.</ls> {#ruci#}
+<ls>SĀH. D. 18,22.</ls> {#Soka#}
+<ls>PRAB. 94,11.</ls> {#sOhArdenAtigAQena#}
+<ls>BHĀG. P. 1,15,28.</ls> adv.: {#gAQavidDa#}
+<ls>MBH. 5,7216.</ls> <ls n="MBH.">7,4916.</ls> {#piqakApIqita#}
+<ls>SUŚR. 1,120,3.</ls> <ls n="SUŚR.">2,376,20.</ls>
+<ls>R. 4,13,45.</ls> {#(mAM sa) SareRAByahanadgAQam#}
+<ls>MBH.</ls> in <ls>BENF. Chr. 35,7.</ls> {#resatU rodasI gAQam#}
+<ls>MBH. 3,14602.</ls> {#nAtigAQaM prahfzyeta#}
+<ls n="MBH.">4,118.</ls> {#gAQadurmanas#}
+<ls>R. 2,57,3.</ls> {#gAQatapta#}
+<ls>MEGH. 100.</ls> {#gAQozRa#}
+<ls n="MEGH.">107.</ls> <ls>BHARTṚ. 3,82.</ls> {#gAQataram#}
+<ls>SUŚR. 1,368,15.</ls>
 <LEND>

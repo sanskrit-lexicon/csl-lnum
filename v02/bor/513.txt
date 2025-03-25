@@ -1,5 +1,5 @@
 <L>513<pc>020<k1>akin<k2>akin
-<div n="lb"/>{@AKIN:@}¦ <div n="I">I Related by blood: </div><div n="1">(1) {#sagotraH#} ({#trA, traM#});</div>
-<div n="lb"/><div n="1">(2) {#sanABi#} (mfn.). </div><div n="I">II Allied by nature: </div><div n="1">(1)
-<div n="lb"/>{#saddaSaH#} ({#SA, SaM#}); </div><div n="1">(2) {#rUpaH#} ({#pA, paM#}) affixed.</div>
+{@AKIN:@}¦ <div n="I">I Related by blood: </div><div n="1">(1) {#sagotraH#} ({#trA, traM#});</div>
+<div n="1">(2) {#sanABi#} (mfn.). </div><div n="I">II Allied by nature: </div><div n="1">(1)
+{#saddaSaH#} ({#SA, SaM#}); </div><div n="1">(2) {#rUpaH#} ({#pA, paM#}) affixed.</div>
 <LEND>

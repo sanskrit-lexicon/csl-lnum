@@ -1,8 +1,8 @@
 <L>7847<pc>248<k1>essential<k2>essential
-<div n="lb"/>{@ESSENTIAL:@}¦ <div n="I">I Lit.: expr. by comp., {%e. thing:%}
-<div n="lb"/>{#sAravastu.#} </div><div n="I">II Containing essence: </div><div n="1">(1) {#sasAra:#}
-<div n="lb"/>({#rA, raM#}); </div><div n="1">(2) {#sAravat#} (f. {#tI#}). </div><div n="I">III Indispens-
-<div n="lb"/>-able, necessary: q. v.: <div n="xe">{%the study of the Vedas%}
-<div n="lb"/>{%is e. for an enquiry about duties:%}</div> <div n="xs">{#DarmajijYAsA #}
-<div n="lb"/>{# vedADyayanaM niyamenApekzate,#}</div> S. Ph.: <div n="xe">{%e. oil:%}</div> <div n="xs">{#*sAratElam.#}</div></div>
+{@ESSENTIAL:@}¦ <div n="I">I Lit.: expr. by comp., {%e. thing:%}
+{#sAravastu.#} </div><div n="I">II Containing essence: </div><div n="1">(1) {#sasAra:#}
+({#rA, raM#}); </div><div n="1">(2) {#sAravat#} (f. {#tI#}). </div><div n="I">III Indispens-
+-able, necessary: q. v.: <div n="xe">{%the study of the Vedas%}
+{%is e. for an enquiry about duties:%}</div> <div n="xs">{#DarmajijYAsA #}
+{# vedADyayanaM niyamenApekzate,#}</div> S. Ph.: <div n="xe">{%e. oil:%}</div> <div n="xs">{#*sAratElam.#}</div></div>
 <LEND>

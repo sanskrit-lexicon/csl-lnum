@@ -1,10 +1,10 @@
 <L>24735<pc>665-a<k1>rectitude<k2>rectitude
-<div n="lb"/>RECTITUDE¦, {%s.%} {#sAralyaM, saralatA -tvaM, fjutA, ArjavaM, maryyAdA, avakratA,#}
-<div n="lb"/>{#ajihmatA, SudDatA, SucitA, matiSudDatA, sADutA, dAkziRyaM, satyaSIlatA,#}
-<div n="lb"/>{#vimalatA, nyAyitA, aSaWatA, saccaritaM, saMsTA, sTitiH#} {%f.,%} {#avasTitiH#} {%f.,%}
-<div n="lb"/>{#samyagvfttitvaM, avyaBicAraH, yaTocitaM, yATAtaTyaM;#} ‘law of rectitude.’
-<div n="lb"/>{#nItiH#} {%f.;%} ‘path of rectitude,’ {#satpaTaH, sanmArgaH;#} ‘deviation
-<div n="lb"/>from the path of rectitude,’ {#satpaTaBraMSaH, satpaTatyAgaH, sanmArgaBraMSaH,#}
-<div n="lb"/>{#vimArgagamanaM, unmArgagamanaM, utpaTagamanaM, kupaTagamanaM, yaTocitAdBraMSaH,#}
-<div n="lb"/>{#maryyAdAtyAgaH, maryyAdAlaMGanaM#}.
+RECTITUDE¦, {%s.%} {#sAralyaM, saralatA -tvaM, fjutA, ArjavaM, maryyAdA, avakratA,#}
+{#ajihmatA, SudDatA, SucitA, matiSudDatA, sADutA, dAkziRyaM, satyaSIlatA,#}
+{#vimalatA, nyAyitA, aSaWatA, saccaritaM, saMsTA, sTitiH#} {%f.,%} {#avasTitiH#} {%f.,%}
+{#samyagvfttitvaM, avyaBicAraH, yaTocitaM, yATAtaTyaM;#} ‘law of rectitude.’
+{#nItiH#} {%f.;%} ‘path of rectitude,’ {#satpaTaH, sanmArgaH;#} ‘deviation
+from the path of rectitude,’ {#satpaTaBraMSaH, satpaTatyAgaH, sanmArgaBraMSaH,#}
+{#vimArgagamanaM, unmArgagamanaM, utpaTagamanaM, kupaTagamanaM, yaTocitAdBraMSaH,#}
+{#maryyAdAtyAgaH, maryyAdAlaMGanaM#}.
 <LEND>

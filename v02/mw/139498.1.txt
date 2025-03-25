@@ -1,9 +1,3 @@
-<L>139498.1<pc>705,1<k1>prAn<k2>prAn<h>a<e>1
-<s>prA<srs/>R</s> ¦ or <s>prA<srs/>n</s> (<s>pra-√ an</s>) <ab>P.</ab> <s>prA<srs/>niti</s> (<ls>Pāṇ. 8-4, 19</ls> <ab>Sch.</ab>; <ab>impf.</ab> <s>prA<srs/>Rat</s>, <ls>vii, 3, 99</ls> <ab>Sch.</ab>) or <s>prA<srs/>niti</s> (<ls>Vop.</ls>). to breathe in, inhale, <ls>KenUp.</ls>;
-<div n="to"/>to breathe, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>Up.</ls>;
-<div n="to"/>to blow (as the wind), <ls>AitBr.</ls>;
-<div n="to"/>to live, <ls>AV.</ls>; <ls>Bhaṭṭ.</ls>;
-<div n="to"/>to smell, <ls>Śaṃk.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>prA<srs/>Rayati</s> (<ab>aor.</ab> <s>prA<srs/>aRiRat</s>, <ls>Pāṇ. 8-4, 21</ls> <ab>Sch.</ab>), to cause to breathe, animate, <ls>AV.</ls>; <ls>Bhaṭṭ.</ls> :
-<div n="vp"/><ab>Desid.</ab> <s>prA<srs/>RiRizati</s>, <ls>Pāṇ. 8-4, 21</ls> <ab>Sch.</ab><info or="139498,prAR;139498.1,prAn"/><info verb="pre" cp="P" parse="pra+an"/>
+<L>139498.1<pc>705,1<k1>prAn<k2>prAn<e>1
+{{Lbody=139498}}
 <LEND>

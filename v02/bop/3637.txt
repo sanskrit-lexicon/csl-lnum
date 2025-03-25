@@ -1,21 +1,21 @@
 <L>3637<pc>148-b<k1>tan<k2>tan<h>1
-1. {#tan#}¦ 8. {%P. A.%} {#tanomi, tanve#} extendere, expandere, face-
-<div n="lb">re, perficere, creare. RAGH. 3. 25.: {#pitur mudan#}
-<div n="lb">{#tatAna;#} NALOD. 1. 20.: {#gatim iha nalo'tanod yA-#}
-<div n="lb">{#nena#} (Schol. {#akarot#}). -- {%Pass.%} {#tanye#} et {#tAye#} (gr. 504.);
-<div n="lb">{%part. pass.%} {#tata#}. BH. 2. 17. 8. 22.: {#yena sarvam idan#}
-<div n="lb">{#tatam#}. (Gr. <lang n="greek"></lang> lat. {%tendo,%} adjecto {%d, te-%}
-<div n="lb">{%nuis, tener;%} goth. {%thanja%} tendo; russ. {%tonju%} tenuo; lith.
-<div n="lb">{%tempju%} tendo, adjecto {%p;%} hib. {%tana%} «thin, slender, lean»,
-<div n="lb">{%tanaighim%} «I make thin» = {%Caus.%} {#tAnayAmi;#} cambro-
-<div n="lb">brit. {%taenu%} «to spread, to expand».)
-<div n="pfx">c. {#anu#} {%i. q. simpl.%} MAH. 3. 12681.: {#Darmam evA 'nutanvatI#}.
-<div n="pfx">c. {#ava#} tegere. R. Schl. I. 17. 14.: {#yAnaN kambalAvata-#}
-<div n="lb">{#tam;#} II. 93. 4.: {#avatatA vAraREr BUH#}.
-<div n="pfx">c. {#vi#} {%i. q. simpl.%} NALOD. 1. 54.: {#vyatanot surayogam#}
-<div n="lb">(Schol. {#devArcanam akarot#}); BHAG. 4. 32.: {#evam ba-#}
-<div n="lb">{#huviDA yajYA vitatA brahmaRo muKe;#} MAN. 3. 28.: {#vi-#}
-<div n="lb">{#tate yajYe#}.
-<div n="pfx">c. {#sam#} praef. {#anu#} extendere, expandere. BHAG. 15. 2.:
-<div n="lb">{#aDaSca mUlAny anusantatAni#}.
+1. {#tan#}¦ 8. {%P. A.%} {#tanomi, tanve#} extendere, expandere, facere,
+perficere, creare. RAGH. 3.25.: {#pitur mudan
+tatAna#}; NALOD. 1.20.: {#gatim iha nalo'tanod yAnena#}
+(Schol. {#akarot#}). — {%Pass.%} {#tanye#} et {#tAye#} (gr. 504.);
+{%part. pass.%} {#tata#}. BH. 2.17. 8.22.: {#yena sarvam idan
+tatam#}. (Gr. <lang n="greek">τάνυμαι, τείνω</lang>; lat. {%tendo%}, adjecto {%d, tenuis,
+tener%}; goth. {%thanja%} tendo; russ. {%tonju%} tenuo; lith.
+{%tempju%} tendo, adjecto {%p%}; hib. {%tana%} «thin, slender, lean»,
+{%tanaighim%} «I make thin» = {%Caus.%} {#tAnayAmi#}; cambro-brit.
+{%taenu%} «to spread, to expand».)
+<div n="pfx">c. {#anu#} {%i. q. simpl.%} MAH. 3.12681.: {#Darmam evA 'nutanvatI#}.
+<div n="pfx">c. {#ava#} tegere. R. Schl. I.17.14.: {#yAnaN kambalAvatatam#};
+II.93.4.: {#avatatA vAraREr BUH#}.
+<div n="pfx">c. {#vi#} {%i. q. simpl.%} NALOD. 1.54.: {#vyatanot surayogam#}
+(Schol. {#devArcanam akarot#}); BHAG. 4.32.: {#evam bahuviDA
+yajYA vitatA brahmaRo muKe#}; MAN. 3.28.: {#vitate
+yajYe#}.
+<div n="pfx">c. {#sam#} praef. {#anu#} extendere, expandere. BHAG. 15.2.:
+{#aDaSca mUlAny anusantatAni#}.
 <LEND>

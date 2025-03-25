@@ -1,6 +1,3 @@
 <L>1065<pc>036,1<k1>anusahita<k2>anu-sahita
-{@anu-sahita@}¦, adj. (cpd. of anu and sahita, from saha),
-<div n="lb">{%attended, joined%}: Mvy 2169 = Tib. rjes su ḥbrel ba; adv.
-<div n="lb">°taṃ Bbh 107.15, after {@anusaṃdhi(ḥ)@} (q.v. 4). Cf. Pali
-<div n="lb">anu-sahagata.
+{@anu-sahita@}¦, <lex>adj.</lex> (<ab>cpd.</ab> of anu and sahita, from saha), {%attended, joined%}: <ls>Mvy</ls> 〔2169〕 = <lang>Tib.</lang> <tib>rjes su ḥbrel ba</tib>; <lex>adv.</lex> °taṃ <ls>Bbh</ls> 〔107.15〕, after {@anusaṃdhi(ḥ)@} (<ab>q.v.</ab> 4). <ab>Cf.</ab> <lang>Pali</lang> anu-sahagata.
 <LEND>

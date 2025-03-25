@@ -1,3 +1,3 @@
-<L>234779<pc>1163,3<k1>samAhUta<k2>sam-AhUta<h>b<e>2
-<s>sam-AhUta</s> <hom>b</hom> ¦ <lex>mfn.</lex> called or collected together, assembled, summoned, challenged (to fight or to a game of chance), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="m:f:n"/>
+<L>234779<pc>1163,3<k1>samAhUta<k2>sam-AhUta<e>2
+<s>sam-AhUta</s> ¦ <lex>mfn.</lex> called or collected together, assembled, summoned, challenged (to fight or to a game of chance), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="m:f:n"/><info hui="b"/>
 <LEND>

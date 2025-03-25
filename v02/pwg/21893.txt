@@ -1,26 +1,26 @@
 <L>21893<pc>2-0696<k1>gargara<k2>ga/rgara
-{#ga/rgara#}¦ (onomat.) 
-<div n="1"> 1) <lex>m.</lex> {%Strudel, gurges%}: {#Svasa^ntu\ garga^rA a\pAm#} 
-<ls>AV. 4, 15, 12.</ls> {#pi\tA ma^ha\tAM garga^rARAm#} 
-<ls>9, 4, 4.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%ein best. musikalisches Instrument%} (nach 
-<ls>SĀY.</ls>): {#ava^ svarAti\ garga^raH#} 
-<ls>ṚV. 8, 58, 9.</ls> 
-<div n="1">— 3) <lex>m.</lex> {%Butterfass%}: {#na gargaro maTyate#} 
-<ls>MBH. 12, 2783. 2557. 13204.</ls> {#gargarodgAranisvana#} 
-<ls>HARIV. 3395.</ls> {#gargarI#} <lex>f.</lex> 
-<ls>AK. 2, 9, 75.</ls> 
-<ls>TRIK. 2, 9, 8.</ls> 
-<ls>H. 1022.</ls> 
-<ls>an. 3, 550.</ls> 
-<ls>MED. r. 149.</ls> <ls>HĀR. 209.</ls> <ls>HARIV. 3527. 3535. 3537.</ls> {%eine Art Wassergeschirr, Krug%} ({#kalaSI#}, welches in 
-<ls>TRIK.</ls> und 
-<ls>HĀR.</ls> als Synonym von {#gargarI#} erscheint, wird auf beide Weisen gedeutet): {#mezAdO saktavo deyA vAripUrRA ca gargarI#} 
-<ls>TITHYĀDIT.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 4) <lex>m.</lex> {%eine Art Fisch%} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>JAṬĀDH.</ls> und <ls>RĀJAV.</ls> im <ls>ŚKDR.</ls> {%Pimelodus Gagora Ham.%} 
-<ls>WILS.</ls> {#yaH pItavarRo 'pi ca picCilANgaH pfzWezu reKAbahulaH saSalkaH sa gargaro varvaranAdavaSyo jaqaSca SItaH kaPavAtakArI#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> Vgl. {#gargaraka, gargAwa#} . 
-<div n="1">— 5) <lex>m.</lex> N. pr. eines Mannes <is>gaṇa</is> {#kurvAdi#} zu 
-<ls>P. 4, 1, 151.</ls>
+{#ga/rgara#}¦ (onomat.)
+<div n="1"> 1) <lex>m.</lex> {%Strudel, gurges%}: {#Svasa^ntu\ garga^rA a\pAm#}
+<ls>AV. 4,15,12.</ls> {#pi\tA ma^ha\tAM garga^rARAm#}
+<ls n="AV.">9,4,4.</ls>
+<div n="1">— 2) <lex>m.</lex> {%ein best. musikalisches Instrument%} (nach
+<ls>SĀY.</ls>): {#ava^ svarAti\ garga^raH#}
+<ls>ṚV. 8,58,9.</ls>
+<div n="1">— 3) <lex>m.</lex> {%Butterfass%}: {#na gargaro maTyate#}
+<ls>MBH. 12,2783.</ls> <ls n="MBH. 12,">2557.</ls> <ls n="MBH. 12,">13204.</ls> {#gargarodgAranisvana#}
+<ls>HARIV. 3395.</ls> {#gargarI#} <lex>f.</lex>
+<ls>AK. 2,9,75.</ls>
+<ls>TRIK. 2,9,8.</ls>
+<ls>H. 1022.</ls>
+<ls>an. 3,550.</ls>
+<ls>MED. r. 149.</ls> <ls>HĀR. 209.</ls> <ls>HARIV. 3527.</ls> <ls n="HARIV.">3535.</ls> <ls n="HARIV.">3537.</ls> {%eine Art Wassergeschirr, Krug%} ({#kalaSI#}, welches in
+<ls>TRIK.</ls> und
+<ls>HĀR.</ls> als Synonym von {#gargarI#} erscheint, wird auf beide Weisen gedeutet): {#mezAdO saktavo deyA vAripUrRA ca gargarI#}
+<ls>TITHYĀDIT.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 4) <lex>m.</lex> {%eine Art Fisch%}
+<ls>H. an.</ls> <ls>MED.</ls> <ls>JAṬĀDH.</ls> und <ls>RĀJAV.</ls> im <ls>ŚKDR.</ls> {%Pimelodus Gagora Ham.%}
+<ls>WILS.</ls> {#yaH pItavarRo 'pi ca picCilANgaH pfzWezu reKAbahulaH saSalkaH sa gargaro varvaranAdavaSyo jaqaSca SItaH kaPavAtakArI#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> Vgl. {#gargaraka, gargAwa#} .
+<div n="1">— 5) <lex>m.</lex> N. pr. eines Mannes <is>gaṇa</is> {#kurvAdi#} zu
+<ls>P. 4,1,151.</ls>
 <LEND>

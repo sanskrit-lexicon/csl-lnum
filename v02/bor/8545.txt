@@ -1,6 +1,6 @@
 <L>8545<pc>271<k1>feast<k2>feast
-<div n="lb"/>{@FEAST@}¦ (subs.): <div n="I">I Festival: q.v.: {#utsavaH#}
-<div n="lb"/><div n="xe">{%“moveable f.”:%}</div> <div n="xs">{#asTirotsavaH#}</div> (?). </div><div n="I">II Banquct:
-<div n="lb"/>{#samBojanam#} (?). </div><div n="I">III Fig.: {#utsavaH,#} {%f. to the eye:%}
-<div n="lb"/>{#nayanotsavaH.#}</div>
+{@FEAST@}¦ (subs.): <div n="I">I Festival: q.v.: {#utsavaH#}
+<div n="xe">{%“moveable f.”:%}</div> <div n="xs">{#asTirotsavaH#}</div> (?). </div><div n="I">II Banquct:
+{#samBojanam#} (?). </div><div n="I">III Fig.: {#utsavaH,#} {%f. to the eye:%}
+{#nayanotsavaH.#}</div>
 <LEND>

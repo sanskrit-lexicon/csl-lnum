@@ -1,6 +1,6 @@
 <L>22346<pc>590-b<k1>phrase<k2>phrase
-<div n="lb"/>PHRASE¦, {%s.%} (Short sentence) {#vAkyaM, vAk#} {%f.%} {#(c), uktiH#} {%f.,%} {#uktaM, vacanaM#}.
-<div n="lb"/> — (Particular mode of speech) {#viSezavAkyaM, vAkyaviSezaH, vAkya-#}
-<div n="lb"/>{#prakAraH, vAkyaBedaH, vAgvyApAraH, vAgrItiH#} {%f.,%} {#vAgvyavahAraH, vAgDArA,#}
-<div n="lb"/>{#BAzaRasampradAyaH, BAzaRaparyyAyaH, BAzaRaprakAraH#}.
+PHRASE¦, {%s.%} (Short sentence) {#vAkyaM, vAk#} {%f.%} {#(c), uktiH#} {%f.,%} {#uktaM, vacanaM#}.
+ — (Particular mode of speech) {#viSezavAkyaM, vAkyaviSezaH, vAkya-#}
+{#prakAraH, vAkyaBedaH, vAgvyApAraH, vAgrItiH#} {%f.,%} {#vAgvyavahAraH, vAgDArA,#}
+{#BAzaRasampradAyaH, BAzaRaparyyAyaH, BAzaRaprakAraH#}.
 <LEND>

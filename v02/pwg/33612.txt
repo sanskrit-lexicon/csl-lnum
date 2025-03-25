@@ -1,21 +1,21 @@
 <L>33612<pc>3-0681<k1>durjAta<k2>durjAta
-{#durjAta#}¦ (2. {#duz + jAta#}) 
-<div n="1"> 1) <lex>adj.</lex> = {#asamyagjAta#} 
-<ls>H. an. 3, 268.</ls> 
-<ls>MED. t. 115.</ls> = {#duHsama, asamaYjasa#} 
-<ls>TRIK. 3, 2, 6.</ls> 
-<div n="2"> a) {%elend, unglücklich%}: {#yo na yAtayate vEramalpasattvodyamaH pumAn . aPalaM tasya janmAhaM manye durgAtajAyinaH ..#} 
-<ls>MBH. 3, 1383.</ls> {#dOzkuleyastaTA mUQo durjAtaH Sakra dfSyate#} 
-<ls>12, 8120.</ls> {#kiM nu tasya mayA kAryaM durjAtena#} 
-<ls>R. 2, 103, 9 (GORR. 111, 14).</ls> 
-<div n="2">— b) {%schlechtgeartet, schlecht%} 
-<ls>RĀJA-TAR. 1, 356.</ls> {#durjanEH#} 
-<ls>3, 142.</ls> 
-<div n="2">— c) {%nicht ächt, falsch%}: {#Bartar#} {%Buhle%} 
-<ls>RĀJA-TAR. 3, 507.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%Unglück%} 
-<ls>TRIK. 3, 3, 159.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>RAGH. 13, 72.</ls>
+{#durjAta#}¦ (2. {#duz + jAta#})
+<div n="1"> 1) <lex>adj.</lex> = {#asamyagjAta#}
+<ls>H. an. 3,268.</ls>
+<ls>MED. t. 115.</ls> = {#duHsama, asamaYjasa#}
+<ls>TRIK. 3,2,6.</ls>
+<div n="2"> a) {%elend, unglücklich%}: {#yo na yAtayate vEramalpasattvodyamaH pumAn . aPalaM tasya janmAhaM manye durgAtajAyinaH ..#}
+<ls>MBH. 3,1383.</ls> {#dOzkuleyastaTA mUQo durjAtaH Sakra dfSyate#}
+<ls n="MBH.">12,8120.</ls> {#kiM nu tasya mayA kAryaM durjAtena#}
+<ls>R. 2,103,9</ls> (GORR. <ls n="GORR. 2,">111,14</ls>).
+<div n="2">— b) {%schlechtgeartet, schlecht%}
+<ls>RĀJA-TAR. 1,356.</ls> {#durjanEH#}
+<ls n="RĀJA-TAR.">3,142.</ls>
+<div n="2">— c) {%nicht ächt, falsch%}: {#Bartar#} {%Buhle%}
+<ls>RĀJA-TAR. 3,507.</ls>
+<div n="1">— 2) <lex>n.</lex> {%Unglück%}
+<ls>TRIK. 3,3,159.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>RAGH. 13,72.</ls>
 <LEND>

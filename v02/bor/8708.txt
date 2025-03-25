@@ -1,6 +1,6 @@
 <L>8708<pc>276<k1>fifth<k2>fifth
-<div n="lb"/>{@FIFTH:@}¦ <div n="I">I Adj.: {#paYcamaH#} ({#mI, maM#}), {%in the f. place:%}
-<div n="lb"/>{#paYcamataH.#} </div><div n="I">II Subs.: </div><div n="1">(1) {#paYcaBAgaH;#} {#paYcAMSaH#} {%or%}
-<div n="lb"/>{#paYcalavaH;#} </div><div n="1">(2) {#paYcamAMSaH#} <div n="xe">{%or%}</div> <div n="xs">{#paYcamaBAgaH.#}</div> {%The f. note%} ({%in%}
-<div n="lb"/>{%music%}): {#maDyamaH.#}</div>
+{@FIFTH:@}¦ <div n="I">I Adj.: {#paYcamaH#} ({#mI, maM#}), {%in the f. place:%}
+{#paYcamataH.#} </div><div n="I">II Subs.: </div><div n="1">(1) {#paYcaBAgaH;#} {#paYcAMSaH#} {%or%}
+{#paYcalavaH;#} </div><div n="1">(2) {#paYcamAMSaH#} <div n="xe">{%or%}</div> <div n="xs">{#paYcamaBAgaH.#}</div> {%The f. note%} ({%in%}
+{%music%}): {#maDyamaH.#}</div>
 <LEND>

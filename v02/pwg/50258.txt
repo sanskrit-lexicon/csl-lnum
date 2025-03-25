@@ -1,38 +1,38 @@
 <L>50258<pc>4-1110<k1>praharaRa<k2>praha/raRa
-{#praha/raRa#}¦ (von {#har#} mit {#pra#}) <lex>n.</lex> 
-<ls>SIDDH. K.241,a,6.</ls> 
-<div n="1"> 1) {%das Draufschlagen, Einhauen%}: {#caYcu°#} 
-<ls>PAÑCAT. 146, 14.</ls> {#vajropamadaMzwrApraharaRena taddarBavezwanaM KaRqaSaH kftam#} 
-<ls>147, 2.</ls> {%das Angreifen, Bekämpfen; Kampf%} 
-<ls>H. 796.</ls> 
-<ls>HALĀY. 2, 298.</ls> {#parapraharaRajYAna#} 
-<ls>MBH. 1, 8041.</ls> {#yAne praharaRe cEva#} 
-<ls>4, 89. 7, 100.</ls> 
-<div n="1">— 2) {%das Fortschlagen, Entfernen, Vertreiben%}: {#avidyAkftAnekaBrama°#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 231.</ls> 
-<div n="1">— 3) {%Waffe%} 
-<ls>AK. 2, 8, 2, 50. 3, 6, 1, 5.</ls> 
-<ls>H. 773.</ls> 
-<ls>HALĀY. 2, 307.</ls> 
-<ls>P. 4, 2, 57.</ls> {#DanuH praharaRaM SrezWam#} 
-<ls>MBH. 12, 6121.</ls> 
-<ls>ARJ. 7, 22.</ls> {#nAnASastra°#} <lex>adj.</lex> 
-<ls>BHAG. 1, 9.</ls> {#(yamaH) mftyupraharaRo#} (so ist zu lesen) {#raRe#} 
-<ls>HARIV. 2694. 13183.</ls> 
-<ls>R. 3, 35, 77.</ls> 
-<ls>Spr. 756. 1643.</ls> 
-<ls>RAGH. 13, 73.</ls> 
-<ls>VARĀH. BṚH. S. 3, 8. 45, 19. 78, 22.</ls> 
-<ls>KATHĀS. 13, 21. 46, 244.</ls> 
-<ls>BHĀG. P. 5, 20, 19.</ls> 
-<ls>PAÑCAT. ed. orn. 3, 6.</ls> <ls>HIT. 72, 12.</ls> {#kfta°#} {%der sich%} (vgl. {#kftAstra#}) {%im Gebrauch der Waffen geübt hat%} 
-<ls>MBH. 5, 5733.</ls> masc. <ls>HARIV. 180.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} 
-<ls>MBH. 6, 799. 9, 2665.</ls> 
-<ls>R. 5, 24, 30. 6, 29, 14.</ls> 
-<div n="1">— 4) {%Wagenkasten%} 
-<ls>BHĀG. P. 4, 26, 2.</ls> 
-<div n="1">— 5) fehlerhafte Variante für {#pravahaRa#} {%eine Art Sänfte%} 
-<ls>SĀRASUNDARĪ</ls> zu <ls>AK. 2, 8, 2, 20.</ls> <ls>ŚKDR.</ls> 
-<div n="v">— Vgl. {#Dvaja°#} (wie auch 
+{#praha/raRa#}¦ (von {#har#} mit {#pra#}) <lex>n.</lex>
+<ls>SIDDH. K. 241,a,6.</ls>
+<div n="1"> 1) {%das Draufschlagen, Einhauen%}: {#caYcu°#}
+<ls>PAÑCAT. 146,14.</ls> {#vajropamadaMzwrApraharaRena taddarBavezwanaM KaRqaSaH kftam#}
+<ls n="PAÑCAT.">147,2.</ls> {%das Angreifen, Bekämpfen; Kampf%}
+<ls>H. 796.</ls>
+<ls>HALĀY. 2,298.</ls> {#parapraharaRajYAna#}
+<ls>MBH. 1,8041.</ls> {#yAne praharaRe cEva#}
+<ls n="MBH.">4,89.</ls> <ls n="MBH.">7,100.</ls>
+<div n="1">— 2) {%das Fortschlagen, Entfernen, Vertreiben%}: {#avidyAkftAnekaBrama°#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 231.</ls>
+<div n="1">— 3) {%Waffe%}
+<ls>AK. 2,8,2,50.</ls> <ls n="AK.">3,6,1,5.</ls>
+<ls>H. 773.</ls>
+<ls>HALĀY. 2,307.</ls>
+<ls>P. 4,2,57.</ls> {#DanuH praharaRaM SrezWam#}
+<ls>MBH. 12,6121.</ls>
+<ls>ARJ. 7,22.</ls> {#nAnASastra°#} <lex>adj.</lex>
+<ls>BHAG. 1,9.</ls> {#(yamaH) mftyupraharaRo#} (so ist zu lesen) {#raRe#}
+<ls>HARIV. 2694.</ls> <ls n="HARIV.">13183.</ls>
+<ls>R. 3,35,77.</ls>
+<ls>Spr. 756.</ls> <ls n="Spr.">1643.</ls>
+<ls>RAGH. 13,73.</ls>
+<ls>VARĀH. BṚH. S. 3,8. 45,19. 78,22.</ls>
+<ls>KATHĀS. 13,21.</ls> <ls n="KATHĀS.">46,244.</ls>
+<ls>BHĀG. P. 5,20,19.</ls>
+<ls>PAÑCAT. ed. orn. 3,6.</ls> <ls>HIT. 72,12.</ls> {#kfta°#} {%der sich%} (vgl. {#kftAstra#}) {%im Gebrauch der Waffen geübt hat%}
+<ls>MBH. 5,5733.</ls> masc. <ls>HARIV. 180.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+<ls>MBH. 6,799.</ls> <ls n="MBH.">9,2665.</ls>
+<ls>R. 5,24,30.</ls> <ls n="R.">6,29,14.</ls>
+<div n="1">— 4) {%Wagenkasten%}
+<ls>BHĀG. P. 4,26,2.</ls>
+<div n="1">— 5) fehlerhafte Variante für {#pravahaRa#} {%eine Art Sänfte%}
+<ls>SĀRASUNDARĪ</ls> zu <ls>AK. 2,8,2,20.</ls> <ls>ŚKDR.</ls>
+<div n="v">— Vgl. {#Dvaja°#} (wie auch
 <ls>H. ś. 171</ls> st. {#DvajaH pra°#} zu lesen ist).
 <LEND>

@@ -1,21 +1,21 @@
 <L>3300<pc>1-0247<k1>antarita<k2>antarita
-{#antarita#}¦ (part. praet. pass. von {#i#} mit {#antar#}) 
-<div n="1"> 1) <lex>adj.</lex> 
-<div n="2"> a) {%im Innern sich befindend%}: {#nidrAntarita#} {%sich im Zustande des Schlafes befindend%} 
-<ls>PAÑCAT. 117, 5.</ls> 
-<div n="2">— b) {%verborgen%} 
-<ls>TRIK. 3, 1, 12.</ls> {#pAdapAntarita eva viSrabDaM tAvadenAM paSyAmi#} 
-<ls>ŚĀK. 9, 18.</ls> 
-<div n="2">— c) {%untergegangen, verschwunden%}: {#parvatAntarito raviH#} 
-<ls>BHARATA</ls> zu <ls>AK.</ls> im <ls>ŚKDR.</ls> u. {#antara#}.{# dEvAntaritapOruza#} <lex>adj.</lex> {%dessen Thatkraft im Schicksal untergegangen ist%} 
-<ls>PAÑCAT. II, 140.</ls> 
-<div n="2">— d) {%getrennt, geschieden%}: {#eza hEtasmE lokastaTo hAsyEzAnantaritA Bavati#} 
-<ls>ŚAT. BR. 7, 5, 1, 28.</ls> mit dem instr.: {#deSErantaritA (ASA) SatESca saritAmurvIBftAM kAnanEH#} 
-<ls>AMAR. 93.</ls> 
-<ls>Sch.</ls> : {#AcCAditA#}.{# acAnantarito hasaH syasaMjYaH syAt#} 
-<ls>VOP. 3, 18.</ls> am Ende eines comp.: {#kalahAntaritA#} 
-<ls>SĀH. D. 46, 9. 48, 3.</ls> {#SaktyantarAnantaritA#} ({%nicht vermittelt%}) 
-<ls>10, 10.</ls> 
-<div n="1">— 2) <lex>n.</lex> (?) {%Rest%} (mathem.), = {#vyavakalitANkaH . iti lIlAvatI#} 
+{#antarita#}¦ (part. praet. pass. von {#i#} mit {#antar#})
+<div n="1"> 1) <lex>adj.</lex>
+<div n="2"> a) {%im Innern sich befindend%}: {#nidrAntarita#} {%sich im Zustande des Schlafes befindend%}
+<ls>PAÑCAT. 117,5.</ls>
+<div n="2">— b) {%verborgen%}
+<ls>TRIK. 3,1,12.</ls> {#pAdapAntarita eva viSrabDaM tAvadenAM paSyAmi#}
+<ls>ŚĀK. 9,18.</ls>
+<div n="2">— c) {%untergegangen, verschwunden%}: {#parvatAntarito raviH#}
+<ls>BHARATA</ls> zu <ls>AK.</ls> im <ls>ŚKDR.</ls> u. {#antara#}.{# dEvAntaritapOruza#} <lex>adj.</lex> {%dessen Thatkraft im Schicksal untergegangen ist%}
+<ls>PAÑCAT. II,140.</ls>
+<div n="2">— d) {%getrennt, geschieden%}: {#eza hEtasmE lokastaTo hAsyEzAnantaritA Bavati#}
+<ls>ŚAT. BR. 7,5,1,28.</ls> mit dem instr.: {#deSErantaritA (ASA) SatESca saritAmurvIBftAM kAnanEH#}
+<ls>AMAR. 93.</ls>
+<ls>Sch.</ls> : {#AcCAditA#}.{# acAnantarito hasaH syasaMjYaH syAt#}
+<ls>VOP. 3,18.</ls> am Ende eines comp.: {#kalahAntaritA#}
+<ls>SĀH. D. 46,9.</ls> <ls n="SĀH. D.">48,3.</ls> {#SaktyantarAnantaritA#} ({%nicht vermittelt%})
+<ls n="SĀH. D.">10,10.</ls>
+<div n="1">— 2) <lex>n.</lex> (?) {%Rest%} (mathem.), = {#vyavakalitANkaH . iti lIlAvatI#}
 <ls>ŚKDR.</ls> Vgl. {#antara#} 2,l.
 <LEND>

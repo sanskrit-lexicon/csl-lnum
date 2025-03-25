@@ -1,11 +1,11 @@
 <L>3900<pc>155<k1>fare<k2>fare
 {@Fare,@}¦ {%s.%} {#annaM, AhAraH, BakzyaM, BojanaM#}. {@2@} {#tAryaM,#}
-<div n="lb"/>{#AtA(ta)raH, tArikaM, tarapaRyaM-mUlyaM#}. {%-v. i.%} {#BU#}
-<div n="lb"/>1 P, {#vft#} 1 A, {#as#} 2 P, {#sTA#} 1 P; {#ko#}
-<div n="lb"/>{#vfttAMtastatraBavatyAH#} (M. 4) ‘how f. sit
-<div n="lb"/>with her ladyship’; ‘f. ing well’
-<div n="lb"/>{#susTa, susTita;#} ‘f. ing ill’ {#dusTita, durgata#}.
-<div n="lb"/>{@-Farewell,@} {%interj.%} {#svasti, BadraM#} ({#BUyAt#})
-<div n="lb"/>with dat.; ‘bid f.’ {#AmaMtr#} 10 A,
-<div n="lb"/>{#ApracC#} 6 A.
+{#AtA(ta)raH, tArikaM, tarapaRyaM-mUlyaM#}. {%-v. i.%} {#BU#}
+1 P, {#vft#} 1 A, {#as#} 2 P, {#sTA#} 1 P; {#ko#}
+{#vfttAMtastatraBavatyAH#} (M. 4) ‘how f. sit
+with her ladyship’; ‘f. ing well’
+{#susTa, susTita;#} ‘f. ing ill’ {#dusTita, durgata#}.
+{@-Farewell,@} {%interj.%} {#svasti, BadraM#} ({#BUyAt#})
+with dat.; ‘bid f.’ {#AmaMtr#} 10 A,
+{#ApracC#} 6 A.
 <LEND>

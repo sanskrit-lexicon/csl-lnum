@@ -1,100 +1,100 @@
 <L>520<pc>1-0038<k1>agra<k2>a/gra<h>1
-1. {#a/gra#}¦ <lex>n.</lex> 
-<ls>UṆ. 2, 29.</ls> <ls>SIDDH. K. 249,a,ult.</ls> 
-<div n="1"> 1) {%Spitze, äusserstes Ende, Gipfel%} 
-<ls>AK. 3, 4, 25, 185. 2, 4, 1, 12.</ls> 
-<ls>H. 1121.</ls> 
-<ls>an. 2, 392.</ls> 
-<ls>MED. r. 3. 4.</ls> {#udvf^ha\ rakza^H sa\hamU^lamindra vf\ScA maDya\M pratyagra^M SfRIhi#} 
-<ls>ṚV. 3, 30, 17.</ls> {#A naKAgreByaH#} 
-<ls>BṚH. ĀR. UP. 1, 4, 7.</ls> 
-<ls>M. 2, 167.</ls> {#vfkzasya mUle - maDye - agre#} 
-<ls>CHĀND. UP. 6, 11, 1.</ls> {#kAyamaNgulimUle 'gre dEvyam#} 
-<ls>M. 2, 59.</ls> {#parvatAgrARi#} 
-<ls>R. 6, 3, 14. 1, 45, 31.</ls> {#nagAgra#} 
-<ls>N. 13, 8.</ls> {#vfzwivAtAvaDUtAgrAnpAdapAn#} 
-<ls>DAŚ. 1, 16.</ls> {#saMprekzya nAsikAgraM svam#} 
-<ls>BHAG. 6, 13.</ls> {#agraM (DanuzaH) tvarttirawanyapi#} 
-<ls>H. 775.</ls> {#CinnaBujAgrA#} <lex>adj.</lex> <lex>f.</lex> 
-<ls>R. 1, 28, 17.</ls> {#giriSfNgAgrAM SilAm#} 
-<ls>6, 78, 10.</ls> Auch m.: {#drumAgrAnaBisaMpatanti#} 
-<ls>R. 5, 60, 16.</ls> Uebertr.: {#Darmasya brAhmaRo mUlamagraM rAjanya ucyate#} 
-<ls>M. 11, 83.</ls> {#cakzuzo 'gram#} {%die Spitze, Schärfe des Auges%}: {#dizwyAsi me rAGava cakzuzo 'graM prAptaH#} 
-<ls>R. 6, 36, 72</ls> (vgl. {#agrAkzi#}). Häufig steht {#agra#} scheinbar adjectiv. am Anf. einer Zus.; vgl. {#agranaKa, agranAsikA, agrahasta, agrAkzi#} . 
-<div n="1">— 2) {%das Oberste, Oberfläche%} 
-<ls>AK. 3, 4, 185.</ls> 
-<ls>H. an. 2, 392.</ls> 
-<ls>MED. r. 3.</ls> {#tatpiRqAgraM prayacCeta#} 
-<ls>M. 3, 223.</ls> {#sarvarasAgre maRqam#} 
-<ls>AK. 2, 9, 49.</ls> 
-<div n="1">— 3) {%Vorderseite, Fronte%} 
-<ls>AK. 3, 4, 185.</ls> 
-<ls>H. an. 2, 391.</ls> 
-<ls>MED. r. 3.</ls> <ls>ṚV. 1, 112, 18.</ls> {#balAgre tizWate vIro nalaH#} 
-<ls>R. 6, 2, 16.</ls> {#anIkAgrezu tizWanti balinaH#} 
-<ls>6, 3, 16</ls>; vgl. {#agraga#} u. s. w. Wie bei 1. umgestellt: vgl. {#agrakAya, agrajaNGA, agnAnIka#} u. s. w. — Loc. {#agre#} {%vorn, voran%}: {#a\gra ima\madya\ yajYa\M nayata#} 
-<ls>ŚAT. BR. 1, 1, 3, 7.</ls> {#viSvAmitro yayAvagre tato rAmaH#} 
-<ls>R. 1, 24, 6.</ls> {#agre kftvA hanUmantam#} 
-<ls>5, 59, 8</ls>; vgl. {#agresara#},
+1. {#a/gra#}¦ <lex>n.</lex>
+<ls>UṆ. 2,29.</ls> <ls>SIDDH. K. 249,a,ult.</ls>
+<div n="1"> 1) {%Spitze, äusserstes Ende, Gipfel%}
+<ls>AK. 3,4,25,185.</ls> <ls n="AK.">2,4,1,12.</ls>
+<ls>H. 1121.</ls>
+<ls>an. 2,392.</ls>
+<ls>MED. r. 3. 4.</ls> {#udvf^ha\ rakza^H sa\hamU^lamindra vf\ScA maDya\M pratyagra^M SfRIhi#}
+<ls>ṚV. 3,30,17.</ls> {#A naKAgreByaH#}
+<ls>BṚH. ĀR. UP. 1,4,7.</ls>
+<ls>M. 2,167.</ls> {#vfkzasya mUle — maDye — agre#}
+<ls>CHĀND. UP. 6,11,1.</ls> {#kAyamaNgulimUle 'gre dEvyam#}
+<ls>M. 2,59.</ls> {#parvatAgrARi#}
+<ls>R. 6,3,14.</ls> <ls n="R.">1,45,31.</ls> {#nagAgra#}
+<ls>N. 13,8.</ls> {#vfzwivAtAvaDUtAgrAnpAdapAn#}
+<ls>DAŚ. 1,16.</ls> {#saMprekzya nAsikAgraM svam#}
+<ls>BHAG. 6,13.</ls> {#agraM (DanuzaH) tvarttirawanyapi#}
+<ls>H. 775.</ls> {#CinnaBujAgrA#} <lex>adj.</lex> <lex>f.</lex>
+<ls>R. 1,28,17.</ls> {#giriSfNgAgrAM SilAm#}
+<ls n="R.">6,78,10.</ls> Auch m.: {#drumAgrAnaBisaMpatanti#}
+<ls>R. 5,60,16.</ls> Uebertr.: {#Darmasya brAhmaRo mUlamagraM rAjanya ucyate#}
+<ls>M. 11,83.</ls> {#cakzuzo 'gram#} {%die Spitze, Schärfe des Auges%}: {#dizwyAsi me rAGava cakzuzo 'graM prAptaH#}
+<ls>R. 6,36,72</ls> (vgl. {#agrAkzi#}). Häufig steht {#agra#} scheinbar adjectiv. am Anf. einer Zus.; vgl. {#agranaKa, agranAsikA, agrahasta, agrAkzi#} .
+<div n="1">— 2) {%das Oberste, Oberfläche%}
+<ls>AK. 3,4,185.</ls>
+<ls>H. an. 2,392.</ls>
+<ls>MED. r. 3.</ls> {#tatpiRqAgraM prayacCeta#}
+<ls>M. 3,223.</ls> {#sarvarasAgre maRqam#}
+<ls>AK. 2,9,49.</ls>
+<div n="1">— 3) {%Vorderseite, Fronte%}
+<ls>AK. 3,4,185.</ls>
+<ls>H. an. 2,391.</ls>
+<ls>MED. r. 3.</ls> <ls>ṚV. 1,112,18.</ls> {#balAgre tizWate vIro nalaH#}
+<ls>R. 6,2,16.</ls> {#anIkAgrezu tizWanti balinaH#}
+<ls n="R.">6,3,16</ls>; vgl. {#agraga#} u. s. w. Wie bei 1. umgestellt: vgl. {#agrakAya, agrajaNGA, agnAnIka#} u. s. w. — Loc. {#agre#} {%vorn, voran%}: {#a\gra ima\madya\ yajYa\M nayata#}
+<ls>ŚAT. BR. 1,1,3,7.</ls> {#viSvAmitro yayAvagre tato rAmaH#}
+<ls>R. 1,24,6.</ls> {#agre kftvA hanUmantam#}
+<ls n="R.">5,59,8</ls>; vgl. {#agresara#},
 [Page1-0039]
-{#agresarika#} . Dieselbe Bedeutung hat {#agre#} 
-<ls>H. 938</ls> : {#sAgarAccAgre syurnemImeKalAmbarAH#}, obgleich wir hier, da die Composita {#sAgaranemI, sAgarameKalA, sAgarAmbarA#} gemeint sind, im Deutschen {#agre#} durch {%hinten%} übersetzen müssen. So verweist {#agre#} in einer Schrift auch nicht etwa auf das Vorangehende, sondern auf das Folgende, noch {%Bevor%}stehende: {#evamagre 'pi#} 
-<ls>MAHĪDH.</ls> zu <ls>VS. 10, 9</ls>; vgl. weiter unten und u. {#agrima#} . Mit dem gen.: {%vor%} (auf die Frage wo?) {#agre yAnti raTasya reRupadavIM cUrRIBavanto meGAH#} 
-<ls>VIKR. 4.</ls> 
-<ls>RAGH. 2, 56.</ls> {%vor, in Gegenwart%}: {#rAjupatrARAmagre 'bravIt#} 
-<ls>HIT. 8, 15</ls>, v.l. (für {#purastAt) mamAgre prastuvanti#} 
-<ls>19, 2.</ls> {#tanmamAgre nivedaya#} 
-<ls>VET. 8, 3.</ls> {%vor%} (auf die Frage wohin?): {#laqqUkAmekAM Suno 'gre nikziptavatI#} 
-<ls>VET. 12, 9.</ls> {%zu%}: {#gatvA vAhukasyAgre#} 
-<ls>N. 23, 19.</ls> {#tvayA tasyA agre gantavyam#} 
-<ls>VET. 9, 3.</ls> 
-<div n="1">— 4) {%das Erste, Erstling, Anfang%} 
-<ls>H. 1459.</ls> 
-<ls>an. 2, 391.</ls> {#agra^M pibA\ maDU^nAm#} 
-<ls>ṚV. 4, 46, 1.</ls> {#Agniragra^mu\zasA^maSoci#} 
-<ls>SV. I, 1, 2, 2, 8.</ls> ?(<ls>ṚV. 7, 8, 1</ls> : {#Agniragra^ u\za°#}). Loc. {#agre#} {%am Anfange, zuerst%}: {#te agre 'Sva^mayuYjan#} 
-<ls>VS. 9, 7. 23.</ls> {#BagavantAvagre vadatAm#} 
-<ls>CHĀND. UP. 1, 8, 2.</ls> {#nEveha kiM ca nAgra AsIt#} 
-<ls>BṚH. ĀR. UP. 1, 2, 1.</ls> {#AtmEvedamagra AsIt#} 
-<ls>1, 4, 1.</ls> {#mAturagre 'DijananaM dvitIyaM mOYjibanDane . tftIyaM yajYadIkzAyAm#} 
-<ls>M. 2, 169.</ls> {#savarRAgre dvijAtInAM praSastA dArakarmaRi#} 
-(<ls>KULL.</ls> fasst hier {#agre#} adjectivisch auf) 
-<ls>3, 12.</ls> {#ano ha vA agre paSceva vA idaM yacCAlam#} 
-<ls>ŚAT. BR. 1, 1, 2, 5.</ls> {#agre - tataH#} 
-<ls>BṚH. ĀR. UP. 1, 4, 1.</ls> 
-<ls>P. 3, 4, 24,</ls> 
-<ls>Sch.</ls> {#agre - aTa#} 
-<ls>BṚH. ĀR. UP. 1, 4, 1.</ls> Mit dem abl. {%vor%}: {#atiTiByo 'gra evEtAnBojayet#} 
-<ls>M. 3, 114.</ls> Mit dem gen. nach unserer Auffassungsweise: {%nach%} (von der Zeit): {#janmano 'gre#} 
-<ls>AIT. UP. 4, 3.</ls> {#(prokzaRam) AtiTyabarhizastvagre Bavizyati#} 
-<ls>YĀJÑ.</ls> zu <ls>KĀTY. ŚR. 8, 6, 28.</ls> 
-<div n="1">— 5) {%das Beste in seiner Art%} 
-<ls>AK. 3, 2, 7.</ls> 
-<ls>H. 1438.</ls> 
-<ls>an. 3, 292.</ls> 
-<ls>ṚV. 1, 28, 6.</ls> {#agra^magra\midBa^jate\ vasU^nAm#} 
-<ls n="ṚV.">1, 123, 4.</ls> <ls>R. 4, 61, 10.</ls> {#syandanAgreRa#} {%mit dem besten der Wagen%} 
-<ls>ARJ. 8, 29.</ls> {#prAsAdAgrEH#} 
-<ls>R. 2, 27, 9.</ls> Voranstehend: vgl. {#agrapUjA, agravIra#} . 
-<div n="1">— 6) {%Ueberschuss%} 
-<ls>AK. 3, 4, 185.</ls> 
-<ls>H. an. 2, 391.</ls> {#sAgraM strIsahasram#} {%1000 Weiber und darüber%} 
-<ls>R. 6, 95, 18.</ls> {#sAgrakowI ca rakzasAm#} 
-<ls>6, 13, 17.</ls> {#yojanAnAM SataM sAgram#} 
-<ls>5, 7, 28.</ls> {#sAgraH saMvatsaraH#} 
-<ls>4, 8, 47. 9, 17. 3, 15, 27.</ls> {#sAgraM varzaSatam#} 
-<ls>BRAHMA-P.</ls> in <ls>LA. 56, 3</ls> (<ls>LASSEN</ls> trennt: {#sA agraM)#}.{# sAgre gavyUtiSatadvaye#} 
-<ls>H. 60.</ls> <ls>GORRESIO</ls> zieht 
-<ls>R. 3, 15, 27.</ls> {#sAgraM#} zu {#mAsadvayaM#} und übersetzt {%due mesi intieri%}, giebt demnach {#sAgra#} die Bedeutung von {#samagra#} . 
-<div n="1">— 7) {%Menge%} 
-<ls>H. an. 2, 392.</ls> 
-<ls>MED. r. 4.</ls> 
-<div n="1">— 8) Name eines Gewichts = {#pala#} ebend. 
-<div n="1">— 9) = {#Alambana#} 
-(<ls>ŚKDR.</ls> {#avalambana#}) ebend. 
-<div n="1">— 10) {%ein besonderes Almosen%} ({#BikzAprakAre#}) 
-<ls>H. an. 2, 392.</ls> {%vier Mundvoll Almosen%} 
-<ls>H. 813,</ls> 
-<ls>Sch.</ls> {#agram = brAhmaRaBojanam#} 
-<ls>NĪL.</ls> zu <ls>N. 16, 3</ls>; vgl. {#agrahAra#} .
+{#agresarika#} . Dieselbe Bedeutung hat {#agre#}
+<ls>H. 938</ls> : {#sAgarAccAgre syurnemImeKalAmbarAH#}, obgleich wir hier, da die Composita {#sAgaranemI, sAgarameKalA, sAgarAmbarA#} gemeint sind, im Deutschen {#agre#} durch {%hinten%} übersetzen müssen. So verweist {#agre#} in einer Schrift auch nicht etwa auf das Vorangehende, sondern auf das Folgende, noch {%Bevor%}stehende: {#evamagre 'pi#}
+<ls>MAHĪDH.</ls> zu <ls>VS. 10,9</ls>; vgl. weiter unten und u. {#agrima#} . Mit dem gen.: {%vor%} (auf die Frage wo?) {#agre yAnti raTasya reRupadavIM cUrRIBavanto meGAH#}
+<ls>VIKR. 4.</ls>
+<ls>RAGH. 2,56.</ls> {%vor, in Gegenwart%}: {#rAjupatrARAmagre 'bravIt#}
+<ls>HIT. 8,15</ls>, v.l. (für {#purastAt) mamAgre prastuvanti#}
+<ls n="HIT.">19,2.</ls> {#tanmamAgre nivedaya#}
+<ls>VET. 8,3.</ls> {%vor%} (auf die Frage wohin?): {#laqqUkAmekAM Suno 'gre nikziptavatI#}
+<ls>VET. 12,9.</ls> {%zu%}: {#gatvA vAhukasyAgre#}
+<ls>N. 23,19.</ls> {#tvayA tasyA agre gantavyam#}
+<ls>VET. 9,3.</ls>
+<div n="1">— 4) {%das Erste, Erstling, Anfang%}
+<ls>H. 1459.</ls>
+<ls>an. 2,391.</ls> {#agra^M pibA\ maDU^nAm#}
+<ls>ṚV. 4,46,1.</ls> {#Agniragra^mu\zasA^maSoci#}
+<ls>SV. I,1,2,2,8.</ls> ?(<ls>ṚV. 7,8,1</ls> : {#Agniragra^ u\za°#}). Loc. {#agre#} {%am Anfange, zuerst%}: {#te agre 'Sva^mayuYjan#}
+<ls>VS. 9,7. 23.</ls> {#BagavantAvagre vadatAm#}
+<ls>CHĀND. UP. 1,8,2.</ls> {#nEveha kiM ca nAgra AsIt#}
+<ls>BṚH. ĀR. UP. 1,2,1.</ls> {#AtmEvedamagra AsIt#}
+<ls n="BṚH. ĀR. UP.">1,4,1.</ls> {#mAturagre 'DijananaM dvitIyaM mOYjibanDane . tftIyaM yajYadIkzAyAm#}
+<ls>M. 2,169.</ls> {#savarRAgre dvijAtInAM praSastA dArakarmaRi#}
+(<ls>KULL.</ls> fasst hier {#agre#} adjectivisch auf)
+<ls n="M.">3,12.</ls> {#ano ha vA agre paSceva vA idaM yacCAlam#}
+<ls>ŚAT. BR. 1,1,2,5.</ls> {#agre — tataH#}
+<ls>BṚH. ĀR. UP. 1,4,1.</ls>
+<ls>P. 3,4,24</ls>, <ls>Sch.</ls>
+{#agre — aTa#}
+<ls>BṚH. ĀR. UP. 1,4,1.</ls> Mit dem abl. {%vor%}: {#atiTiByo 'gra evEtAnBojayet#}
+<ls>M. 3,114.</ls> Mit dem gen. nach unserer Auffassungsweise: {%nach%} (von der Zeit): {#janmano 'gre#}
+<ls>AIT. UP. 4,3.</ls> {#(prokzaRam) AtiTyabarhizastvagre Bavizyati#}
+<ls>YĀJÑ.</ls> zu <ls>KĀTY. ŚR. 8,6,28.</ls>
+<div n="1">— 5) {%das Beste in seiner Art%}
+<ls>AK. 3,2,7.</ls>
+<ls>H. 1438.</ls>
+<ls>an. 3,292.</ls>
+<ls>ṚV. 1,28,6.</ls> {#agra^magra\midBa^jate\ vasU^nAm#}
+<ls n="ṚV.">1,123,4.</ls> <ls>R. 4,61,10.</ls> {#syandanAgreRa#} {%mit dem besten der Wagen%}
+<ls>ARJ. 8,29.</ls> {#prAsAdAgrEH#}
+<ls>R. 2,27,9.</ls> Voranstehend: vgl. {#agrapUjA, agravIra#} .
+<div n="1">— 6) {%Ueberschuss%}
+<ls>AK. 3,4,185.</ls>
+<ls>H. an. 2,391.</ls> {#sAgraM strIsahasram#} {%1000 Weiber und darüber%}
+<ls>R. 6,95,18.</ls> {#sAgrakowI ca rakzasAm#}
+<ls n="R.">6,13,17.</ls> {#yojanAnAM SataM sAgram#}
+<ls n="R.">5,7,28.</ls> {#sAgraH saMvatsaraH#}
+<ls n="R.">4,8,47.</ls> <ls n="R. 4,">9,17.</ls> <ls n="R.">3,15,27.</ls> {#sAgraM varzaSatam#}
+<ls>BRAHMA-P. in LA. 56,3</ls> (<ls>LASSEN</ls> trennt: {#sA agraM)#}.{# sAgre gavyUtiSatadvaye#}
+<ls>H. 60.</ls> <ls>GORRESIO</ls> zieht
+<ls>R. 3,15,27.</ls> {#sAgraM#} zu {#mAsadvayaM#} und übersetzt {%due mesi intieri%}, giebt demnach {#sAgra#} die Bedeutung von {#samagra#} .
+<div n="1">— 7) {%Menge%}
+<ls>H. an. 2,392.</ls>
+<ls>MED. r. 4.</ls>
+<div n="1">— 8) Name eines Gewichts = {#pala#} ebend.
+<div n="1">— 9) = {#Alambana#}
+(<ls>ŚKDR.</ls> {#avalambana#}) ebend.
+<div n="1">— 10) {%ein besonderes Almosen%} ({#BikzAprakAre#})
+<ls>H. an. 2,392.</ls> {%vier Mundvoll Almosen%}
+<ls>H. 813</ls>, <ls>Sch.</ls>
+{#agram = brAhmaRaBojanam#}
+<ls>NĪL.</ls> zu <ls>N. 16,3</ls>; vgl. {#agrahAra#} .
 <LEND>

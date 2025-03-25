@@ -1,6 +1,6 @@
 <L>22749<pc>718<k1>train<k2>train
-<div n="lb"/>{@TRAIN@}¦ (v.): <div n="I">I Educate, instruct: q. v.: {#vinayati#}
-<div n="lb"/>({#nI,#} c. 1.). </div><div n="I">II To accustom, exercise:
-<div n="lb"/>q. v.: {#paricayaM karoti,#} <div n="xe">{%t. ed to arms:%}</div> <div n="xs">{#paricitaSastra#}</div>
-<div n="lb"/>(f. {#strA#}): v. Conversant.</div>
+{@TRAIN@}¦ (v.): <div n="I">I Educate, instruct: q. v.: {#vinayati#}
+({#nI,#} c. 1.). </div><div n="I">II To accustom, exercise:
+q. v.: {#paricayaM karoti,#} <div n="xe">{%t. ed to arms:%}</div> <div n="xs">{#paricitaSastra#}</div>
+(f. {#strA#}): v. Conversant.</div>
 <LEND>

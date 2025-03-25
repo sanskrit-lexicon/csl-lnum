@@ -1,5 +1,5 @@
 <L>16568<pc>410-b<k1>inveigler<k2>inveigler
-<div n="lb"/>INVEIGLER¦, {%s.%} {#praloBakaH, viloBakaH, lAlI#} {%m.%} {#(n), lAlanakArI#} {%m.%}
-<div n="lb"/>{#(n), AkarzakaH, mohI#} {%m.%} {#(n), vimohI#} {%m.,%} {#mohakaH, loBadarSakaH,#}
-<div n="lb"/>{#pralamBakArI#} {%m.%}
+INVEIGLER¦, {%s.%} {#praloBakaH, viloBakaH, lAlI#} {%m.%} {#(n), lAlanakArI#} {%m.%}
+{#(n), AkarzakaH, mohI#} {%m.%} {#(n), vimohI#} {%m.,%} {#mohakaH, loBadarSakaH,#}
+{#pralamBakArI#} {%m.%}
 <LEND>

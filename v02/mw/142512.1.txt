@@ -1,3 +1,3 @@
-<L>142512.1<pc>720,1<k1>banD<k2>banD<e>1E
-<s>banD</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>band</etym>; <ab>Gk.</ab> <lang n="greek">πενθερός</lang>, <lang n="greek">πεῖσμα</lang>; <ab>Lat.</ab> <etym>foedus</etym>, <etym>fides</etym>; <ab>Lit.</ab> <etym>béndras</etym>; <ab>Goth.</ab> <ab>Angl.Sax.</ab> <etym>bindan</etym>; <ab>Germ.</ab> <etym>binden</etym>; <ab>Eng.</ab> <etym>bind</etym>.]
+<L>142512.1<pc>720,2<k1>banD<k2>banD<e>1E
+<s>banD</s> ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>band</etym>; <lang>Gk.</lang> <gk>πενθερός</gk>, <gk>πεῖσμα</gk>; <lang>Lat.</lang> <etym>foedus</etym>, <etym>fides</etym>; <lang>Lit.</lang> <etym>bèndras</etym>; <lang>Goth.</lang> <lang>Angl.Sax.</lang> <etym>bindan</etym>; <lang>Germ.</lang> <etym>binden</etym>; <lang>Eng.</lang> <etym>bind</etym>.]
 <LEND>

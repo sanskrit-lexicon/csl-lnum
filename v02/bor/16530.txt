@@ -1,6 +1,6 @@
 <L>16530<pc>507<k1>past<k2>past
-<div n="lb"/>{@PAST@}¦ (adj.): <div n="1">(1) {#gata#} (f. {#tA#}), <div n="xe">{%p. year:%}</div> <div n="xs">{#gatavarzam;#}</div></div>
-<div n="lb"/><div n="1">(2) {#atIta#} (f. {#tA#}). Ph.: <div n="xe">{%p. tense:%}</div> <div n="xs">{#BUtakAlaH,#}</div> [Page508]
-<div n="lb"/><div n="xe">{%in remote p.:%}</div> <div n="xs">{#BUte'nadyatane,#}</div> S. k.; {%m p. times:%}
-<div n="lb"/>{#purA:#} v. Formerly.</div>
+{@PAST@}¦ (adj.): <div n="1">(1) {#gata#} (f. {#tA#}), <div n="xe">{%p. year:%}</div> <div n="xs">{#gatavarzam;#}</div></div>
+<div n="1">(2) {#atIta#} (f. {#tA#}). Ph.: <div n="xe">{%p. tense:%}</div> <div n="xs">{#BUtakAlaH,#}</div> [Page508]
+<div n="xe">{%in remote p.:%}</div> <div n="xs">{#BUte'nadyatane,#}</div> S. k.; {%m p. times:%}
+{#purA:#} v. Formerly.</div>
 <LEND>

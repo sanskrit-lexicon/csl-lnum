@@ -1,11 +1,11 @@
 <L>14645<pc>448<k1>mine<k2>mine
-<div n="lb"/>{@MINE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#AkaraH#} (= any
-<div n="lb"/>source), <div n="xe">{%in a m. of rubies:%}</div> <div n="xs">{#Akare padmarAgARAm,#}</div>
-<div n="lb"/><ls>H.</ls> ; </div><div n="1">(2) {#KaniH#} <div n="xe">{%or%}</div> <div n="xs">{#KanI, KaniBiH suzuve ratnam,#}</div> R.;</div>
-<div n="lb"/><div n="1">(3) {#BUmiH,#} etc. (= earth), <div n="xe">{%as he digs the place%}
-<div n="lb"/>{%there is copper-m.;%}</div> <div n="xs">{#yAvattaM pradeSaM Kanati tAvattABramayI #}
-<div n="lb"/>{# BUmiH,#}</div> P. v. 3. </div><div n="I">II Fig.: </div><div n="1">(1) {#AkaraH,#} <div n="xe">{%the m. of%}
-<div n="lb"/>{%mercy:%}</div> <div n="xs">{#AkaraH karuRAyAH,#}</div> C. iii.; </div><div n="1">(2) {#niDiH:#} v.
-<div n="lb"/>Abode. </div><div n="I">III Military: </div><div n="1">(1) {#kulyA,#} <div n="xe">{%over-%}
-<div n="lb"/>{%charged m.:%}</div> <div n="xs">{#*aDicUrRakulyA;#}</div> </div><div n="1">(2) {#suraNgaH,#} Nil.</div>
+{@MINE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#AkaraH#} (= any
+source), <div n="xe">{%in a m. of rubies:%}</div> <div n="xs">{#Akare padmarAgARAm,#}</div>
+<ls>H.</ls> ; </div><div n="1">(2) {#KaniH#} <div n="xe">{%or%}</div> <div n="xs">{#KanI, KaniBiH suzuve ratnam,#}</div> R.;</div>
+<div n="1">(3) {#BUmiH,#} etc. (= earth), <div n="xe">{%as he digs the place%}
+{%there is copper-m.;%}</div> <div n="xs">{#yAvattaM pradeSaM Kanati tAvattABramayI #}
+{# BUmiH,#}</div> P. v. 3. </div><div n="I">II Fig.: </div><div n="1">(1) {#AkaraH,#} <div n="xe">{%the m. of%}
+{%mercy:%}</div> <div n="xs">{#AkaraH karuRAyAH,#}</div> C. iii.; </div><div n="1">(2) {#niDiH:#} v.
+Abode. </div><div n="I">III Military: </div><div n="1">(1) {#kulyA,#} <div n="xe">{%over-%}
+{%charged m.:%}</div> <div n="xs">{#*aDicUrRakulyA;#}</div> </div><div n="1">(2) {#suraNgaH,#} Nil.</div>
 <LEND>

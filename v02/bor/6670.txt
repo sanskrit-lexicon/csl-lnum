@@ -1,7 +1,7 @@
 <L>6670<pc>213<k1>divest<k2>divest
-<div n="lb"/>{@DIVEST@}¦ (v.): <div n="I">I To strip: {#harati#} ({#hf,#} c. 1.),
-<div n="lb"/><div n="xe">{%and soon d. ed him of his armour:%}</div> <div n="xs">{#jahAra cAsmAda-#}
-<div n="lb"/>{#cireRa varma,#}</div> Ki. <div n="xe">{%To d. of clothes:%}</div> <div n="xs">{#vivastrayati#}</div>
-<div n="lb"/>(nomi.) <div n="xe">{%or%}</div> <div n="xs">{#vivastrIkaroti.#}</div> </div><div n="I">II To deprive:
-<div n="lb"/>q. v.: {#harati.#}</div>
+{@DIVEST@}¦ (v.): <div n="I">I To strip: {#harati#} ({#hf,#} c. 1.),
+<div n="xe">{%and soon d. ed him of his armour:%}</div> <div n="xs">{#jahAra cAsmAda-#}
+{#cireRa varma,#}</div> Ki. <div n="xe">{%To d. of clothes:%}</div> <div n="xs">{#vivastrayati#}</div>
+(nomi.) <div n="xe">{%or%}</div> <div n="xs">{#vivastrIkaroti.#}</div> </div><div n="I">II To deprive:
+q. v.: {#harati.#}</div>
 <LEND>

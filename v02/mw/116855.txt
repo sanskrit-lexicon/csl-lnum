@@ -1,5 +1,5 @@
 <L>116855<pc>590,1<k1>parAdA<k2>parA-dA<e>1
-<s>parA-</s>√ <hom>1.</hom> <s>dA</s> ¦ <ab>P.</ab> <s>-dadAti</s>, (<ab>pf.</ab> <s>-dadATa</s> <ab>aor.</ab> <s>-dAs</s>, <s>-dAt</s> [often as <ab>Subj.</ab>], <s>-dur</s>; <ab>Ved.</ab> <ab>inf.</ab> <s>-dE/</s>), 
+<s>parA-</s>√ <hom>1.</hom> <s>dA</s> ¦ <ab>P.</ab> <s>-dadAti</s>, (<ab>pf.</ab> <s>-dadATa</s> <ab>aor.</ab> <s>-dAs</s>, <s>-dAt</s> [often as <ab>Subj.</ab>], <s>-dur</s>; <lang>Ved.</lang> <ab>inf.</ab> <s>-dE/</s>),
 <div n="to"/>to give up or over, deliver, throw away, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>;
 <div n="vp"/> give in exchange for, barter against (<ab>dat.</ab>), <ls>RV. viii, 1, 5</ls>;
 <div n="to"/>to exclude from, <ls>BhP.</ls><info verb="pre" cp="P" parse="parA+dA"/>

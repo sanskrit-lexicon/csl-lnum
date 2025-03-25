@@ -1,8 +1,8 @@
 <L>20279<pc>633<k1>shaft<k2>shaft
-<div n="lb"/>{@SHAFT:@}¦ <div n="I">I Of an arrow: {#kARqa#} (mn.), <div n="xe">{%carry-%}
-<div n="lb"/>{%ing s. s on the back:%}</div> <div n="xs">{#kARqapfzWa#}</div> (f. {#zWA#}), Vi.: v.
-<div n="lb"/>Also arrow. </div><div n="I">II Handle: {#daRqaH.#} </div><div n="I">III Of a
-<div n="lb"/>column: {#daRqaH, “stamBadaRqEH”,#} D. i. </div><div n="I">IV Of a
-<div n="lb"/>carriage: perh. {#daRqaH:#} v. Pole (II.) </div><div n="I">V
-<div n="lb"/>Of a mine: perh. {#kUpaH.#}</div>
+{@SHAFT:@}¦ <div n="I">I Of an arrow: {#kARqa#} (mn.), <div n="xe">{%carry-%}
+{%ing s. s on the back:%}</div> <div n="xs">{#kARqapfzWa#}</div> (f. {#zWA#}), Vi.: v.
+Also arrow. </div><div n="I">II Handle: {#daRqaH.#} </div><div n="I">III Of a
+column: {#daRqaH, “stamBadaRqEH”,#} D. i. </div><div n="I">IV Of a
+carriage: perh. {#daRqaH:#} v. Pole (II.) </div><div n="I">V
+Of a mine: perh. {#kUpaH.#}</div>
 <LEND>

@@ -1,12 +1,12 @@
 <L>10247<pc>323<k1>gray<k2>gray
-<div n="lb"/>{@GRAY@}¦ (adj.): <div n="1">(1) {#pARqu#} (mfn.) (= pale white),
-<div n="lb"/><div n="xe">{%covered with ash-g. hair:%}</div> <div n="xs">{#BasmapARquromASlizwaH#}</div> ({#zwA, #}
-<div n="lb"/>{# zwaM#}), K.; </div><div n="1">(2) {#DavalaH#} ({#lA, laM#}) (= white: q.v.)
-<div n="lb"/><div n="xe">{%g. old age:%}</div> <div n="xs">{#DavalA jarA,#}</div> K.; </div><div n="1">(3) {#DUmra#} (f. {#mrA#})
-<div n="lb"/>(= smoky: q.v.), <div n="xe">{%g. eyed:%}</div> <div n="xs">{#DUmrAkza#}</div> (f. {#kzI#}), Ram.;</div>
-<div n="lb"/><div n="1">(4) {#palitaH#} ({#tA, taM#}) (of the head and of old
-<div n="lb"/>men), <div n="xe">{%a man is not old because his head is g.:%}</div> <div n="xs">{#na #}
-<div n="lb"/>{# tena sTaviro Bavati yenAsya palitaM SiraH,#}</div> Mah.; <div n="xe">{%gray%}
-<div n="lb"/>{%for nothing:%}</div> <div n="xs">{#vfTA palitaH,#}</div> Si.; {%not by g.%} ({%hairs%}): {#na #}
-<div n="lb"/>{# palitEH,#} Mah.</div>
+{@GRAY@}¦ (adj.): <div n="1">(1) {#pARqu#} (mfn.) (= pale white),
+<div n="xe">{%covered with ash-g. hair:%}</div> <div n="xs">{#BasmapARquromASlizwaH#}</div> ({#zwA, #}
+{# zwaM#}), K.; </div><div n="1">(2) {#DavalaH#} ({#lA, laM#}) (= white: q.v.)
+<div n="xe">{%g. old age:%}</div> <div n="xs">{#DavalA jarA,#}</div> K.; </div><div n="1">(3) {#DUmra#} (f. {#mrA#})
+(= smoky: q.v.), <div n="xe">{%g. eyed:%}</div> <div n="xs">{#DUmrAkza#}</div> (f. {#kzI#}), Ram.;</div>
+<div n="1">(4) {#palitaH#} ({#tA, taM#}) (of the head and of old
+men), <div n="xe">{%a man is not old because his head is g.:%}</div> <div n="xs">{#na #}
+{# tena sTaviro Bavati yenAsya palitaM SiraH,#}</div> Mah.; <div n="xe">{%gray%}
+{%for nothing:%}</div> <div n="xs">{#vfTA palitaH,#}</div> Si.; {%not by g.%} ({%hairs%}): {#na #}
+{# palitEH,#} Mah.</div>
 <LEND>

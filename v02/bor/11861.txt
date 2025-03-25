@@ -1,5 +1,5 @@
 <L>11861<pc>370<k1>inciement<k2>inciement
-<div n="lb"/>{@INCIEMENT:@}¦ <div n="I">I Harsh, cruel: {#nizWuraH#} ({#rA, raM#}).</div>
-<div n="lb"/><div n="I">II Of weather: perh. {#karkaSaH#} ({#SAm SaM#}); {#durdinam#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#vArdalam#}</div> (of cloudy weather).</div>
+{@INCIEMENT:@}¦ <div n="I">I Harsh, cruel: {#nizWuraH#} ({#rA, raM#}).</div>
+<div n="I">II Of weather: perh. {#karkaSaH#} ({#SAm SaM#}); {#durdinam#}
+<div n="xe">{%or%}</div> <div n="xs">{#vArdalam#}</div> (of cloudy weather).</div>
 <LEND>

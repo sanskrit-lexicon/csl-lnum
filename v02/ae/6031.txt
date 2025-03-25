@@ -1,32 +1,32 @@
 <L>6031<pc>250<k1>land<k2>land
 {@Land,@}¦ {%s.%} (Opposed to sea) {#sTalaM;#}
-<div n="lb"/>‘proceeded by l.’ {#pratasTe sTalavartmanA#}
-<div n="lb"/>(R. IV. 60); ‘the way by 1.’ {#sTala-#}
-<div n="lb"/>{#-mArgaH-vartman#} {%m.%} {@2@} {#BUH, BUmi#} {%f.,%} {#pradeSaH, vizayaH,#}
-<div n="lb"/>{#rAzwraM#}. {@3@} {#mfd#} {%f.,%} {#mfttikA#}. {@4@} {#kzetraM, kzetraBUmiH;#}
-<div n="lb"/>‘arable l.’ {#kfzwa-sItya-BUmiH;#} ‘barren l.’
-<div n="lb"/>{#maruH, marusTalaM-lI, Danvan#} {%m.;%} ‘marshy l.’
-<div n="lb"/>{#kacCaBUH, anUpaBUmiH;#} ‘waste or fallow l.’
-<div n="lb"/>{#KilA-aprahatA-BUmiH;#} ‘gift of l.’ {#BUmi-#}
-<div n="lb"/>{#-dAnaM;#} ‘l. -animal’ {#sTalacarajaMtuH, BUmicarajaMtuH,#}
-<div n="lb"/>‘l.-fight’ {#sTalayudDaM;#} ‘l.-force’ {#sTala-#}
-<div n="lb"/>{#-sEnyaM, sTalayoDAH;#} ‘l. -holder’ {#BU-kzetra,#}
-<div n="lb"/>{#svAmin#} {%m.,%} {#kzetrapatiH;#} ‘l. -lord, -lady’
-<div n="lb"/>{#BUkzetra-svAmI-minI, gfhapatiH, gfheSvaraH-rI#}
-<div n="lb"/>‘l.-locked’ {#BUvezwita, BUmiparigata;#} ‘l.
-<div n="lb"/>lotus’ {#sTalAraviMdaM, sTalakamalinI;#} ‘l. -mark’
-<div n="lb"/>{#sImAcihnaM, sTala-BUmi-sImA, sImAliMgaM;#} ‘l.
-<div n="lb"/>owner’ {#BUsvAmI, kzetrapatiH-svAmI;#} ‘l.
-<div n="lb"/>scape’ {#nayanagocarIBUtaH BUpradeSaH#} or {#BUBAgaH#}
-<div n="lb"/>{#dfzwigata-dfzwigocara-pradeSaH; BUBAgaH, pra-deSaH;#}
-<div n="lb"/>‘l. -tax’ {#BU-kzetra-karaH;#} ‘l. - waiter’ {#SO-#}
-<div n="lb"/>{#-lkikaH#}. {%-v. t.%} {#(potAd-nAvaH) avatF#} c.,
-<div n="lb"/>{#ava-ruh#} c. {#(ropayati); utta#} c., {#sTale ni-#}
-<div n="lb"/>{#-viS#} c. {%-v. i.%} {#avatF#} 1 P, {#avaruh#} 1 P, {#uttF,#}
-<div n="lb"/>{#niviS#} 6 P. {@-ed,@} {%a.%} {#avatIrRa, nOkAvarUQa,#}
-<div n="lb"/>{#nOkottIrRa#}. {@2@} {#BUmisaMpanna, kzetravat, BUmiDanaH#}
-<div n="lb"/>{#BU#} in comp.; ‘l. property’ {#BUmidravyaM,#}
-<div n="lb"/>{#BUmiH, kzetraM, sTAvaradravyaM;#} ‘l. -proprietors’
-<div n="lb"/>{#BUsvAminaH#}. {@-ing,@} {%s.%} {#uttaraRaM;#} ‘l.-place’
-<div n="lb"/>{#tarasTAnaM, taraH, taraRasTAnaM, GawwaH-wwI#}.
+‘proceeded by l.’ {#pratasTe sTalavartmanA#}
+(R. IV. 60); ‘the way by 1.’ {#sTala-#}
+{#-mArgaH-vartman#} {%m.%} {@2@} {#BUH, BUmi#} {%f.,%} {#pradeSaH, vizayaH,#}
+{#rAzwraM#}. {@3@} {#mfd#} {%f.,%} {#mfttikA#}. {@4@} {#kzetraM, kzetraBUmiH;#}
+‘arable l.’ {#kfzwa-sItya-BUmiH;#} ‘barren l.’
+{#maruH, marusTalaM-lI, Danvan#} {%m.;%} ‘marshy l.’
+{#kacCaBUH, anUpaBUmiH;#} ‘waste or fallow l.’
+{#KilA-aprahatA-BUmiH;#} ‘gift of l.’ {#BUmi-#}
+{#-dAnaM;#} ‘l. -animal’ {#sTalacarajaMtuH, BUmicarajaMtuH,#}
+‘l.-fight’ {#sTalayudDaM;#} ‘l.-force’ {#sTala-#}
+{#-sEnyaM, sTalayoDAH;#} ‘l. -holder’ {#BU-kzetra,#}
+{#svAmin#} {%m.,%} {#kzetrapatiH;#} ‘l. -lord, -lady’
+{#BUkzetra-svAmI-minI, gfhapatiH, gfheSvaraH-rI#}
+‘l.-locked’ {#BUvezwita, BUmiparigata;#} ‘l.
+lotus’ {#sTalAraviMdaM, sTalakamalinI;#} ‘l. -mark’
+{#sImAcihnaM, sTala-BUmi-sImA, sImAliMgaM;#} ‘l.
+owner’ {#BUsvAmI, kzetrapatiH-svAmI;#} ‘l.
+scape’ {#nayanagocarIBUtaH BUpradeSaH#} or {#BUBAgaH#}
+{#dfzwigata-dfzwigocara-pradeSaH; BUBAgaH, pra-deSaH;#}
+‘l. -tax’ {#BU-kzetra-karaH;#} ‘l. - waiter’ {#SO-#}
+{#-lkikaH#}. {%-v. t.%} {#(potAd-nAvaH) avatF#} c.,
+{#ava-ruh#} c. {#(ropayati); utta#} c., {#sTale ni-#}
+{#-viS#} c. {%-v. i.%} {#avatF#} 1 P, {#avaruh#} 1 P, {#uttF,#}
+{#niviS#} 6 P. {@-ed,@} {%a.%} {#avatIrRa, nOkAvarUQa,#}
+{#nOkottIrRa#}. {@2@} {#BUmisaMpanna, kzetravat, BUmiDanaH#}
+{#BU#} in comp.; ‘l. property’ {#BUmidravyaM,#}
+{#BUmiH, kzetraM, sTAvaradravyaM;#} ‘l. -proprietors’
+{#BUsvAminaH#}. {@-ing,@} {%s.%} {#uttaraRaM;#} ‘l.-place’
+{#tarasTAnaM, taraH, taraRasTAnaM, GawwaH-wwI#}.
 <LEND>

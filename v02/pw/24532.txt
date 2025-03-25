@@ -1,16 +1,14 @@
-<L>24532<pc>2021-1<k1>kara<k2>kara/<h>1<e>100
-1. {#kara/#}¦
-<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#I#} , ausnahmsweise {#A#})
-<div n="2">— a) {%thuend , ausführend , bereitend , machend , bewirkend.%} Meist in Comp. mit seinem Object.
-<div n="2">— b) {%helfend%} <ls>ṚV.1,116,13.</ls>
-<div n="1">— 2) <lex>m.</lex>
-<div n="2">— a) {%das Thun , Machen , Vollbringen%} in
-[Page2021-2]
-{#duzkara , sukara#} u.s.w.
-<div n="2">— b) {%Hand.%}
-<div n="2">— c) {%als Längenmaass%} = {%24 Daumenbreiten.%}
-<div n="2">— d) {%Rüssel.%}
-<div n="2">— e) {%Scheere eines Krebses.%}
-<div n="2">— f) Bez. {%der Zahl zwei%} <ls>Ind.St.15,2.</ls>
-<div n="2">— g) {%das Mondhaus <is>Hasta</is>.%}
+<L>24532<pc>2-021-a<k1>kara<k2>kara/<h>1
+<hom>1.</hom> {#kara/#}¦
+<div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#I#}, ausnahmsweise {#A#})
+<div n="2">— a〉 {%thuend, ausführend, bereitend, machend, bewirkend%}. Meist in <ab>Comp.</ab> mit seinem Object.
+<div n="2">— b〉 {%helfend%} <ls>ṚV. 1,116,13</ls>.
+<div n="1">— 2〉 <lex>m.</lex>
+<div n="2">— a〉 {%das Thun, Machen, Vollbringen%} in [Page2-021-b] {#duzkara, sukara#} <ab>u. s. w.</ab>
+<div n="2">— b〉 {%Hand%}.
+<div n="2">— c〉 {%als Längenmaass%} = {%24 Daumenbreiten%}.
+<div n="2">— d〉 {%Rüssel%}.
+<div n="2">— e〉 {%Scheere eines Krebses%}.
+<div n="2">— f〉 <ab>Bez.</ab> {%der Zahl zwei%} <ls>Ind. St. 15,2</ls>.
+<div n="2">— g〉 {%das Mondhaus%} <is>Hasta</is>.
 <LEND>

@@ -1,9 +1,9 @@
 <L>65900<pc>5-1080<k1>asiDenu<k2>asiDenu
-{#asiDenu#}¦ 
-<ls>KATHĀS. 123, 23.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 198, 12.</ls> {#nibadDAsiDenu#} <lex>adj.</lex> 
-<ls>KATHĀS. 78, 36.</ls> {#asiDenukA#} 
-<ls>124, 119.</ls> {#badDAsiDenuka#} 
-<ls>53, 109. 71, 43.</ls> 
+{#asiDenu#}¦
+<ls>KATHĀS. 123,23.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 198,12.</ls> {#nibadDAsiDenu#} <lex>adj.</lex>
+<ls>KATHĀS. 78,36.</ls> {#asiDenukA#}
+<ls n="KATHĀS.">124,119.</ls> {#badDAsiDenuka#}
+<ls n="KATHĀS.">53,109.</ls> <ls n="KATHĀS.">71,43.</ls>
 <div n="v">— Vgl. {#KaqgaDenu#} .
 <LEND>

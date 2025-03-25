@@ -1,8 +1,9 @@
 <L>93282<pc>482,3<k1>du<k2>du<h>2<e>1
-<hom>2.</hom> <s>du</s> ¦ (also written <s>dU</s>), <ab>cl.</ab> 5. <ab>P.</ab> <ab>cl.</ab> 4. <ab>Ā.</ab> (<ls>Dhātup. xxvii, 10; xxvi, 24</ls>) <s>dunoti</s>, <s>dUyate</s> (<ab>ep.</ab> also <s>°ti</s>; <ab>pf.</ab> <s>dudAva</s>; <ab>fut.</ab> <s>dozyati</s>; <ab>aor.</ab> <s>adOzIt</s>; <ab>inf.</ab> <s>dotum</s>), 
-<div n="to"/>to be burnt, to be consumed with internal heat or sorrow (Pres. <s>dunoti</s>, <ls>MBh. iii, 10069</ls>; <ls>BhP. iii, 2, 17</ls>; <ls>Gīt. iii, 9</ls> <pb n="483,1"/>; but oftener <s>dUyate</s>, which is at once <ab>Pass.</ab>), <ls>MBh.</ls>; <ls>Suśr.</ls>; <ls>Kāv.</ls> &c.;
+<hom>2.</hom> <s>du</s> (also written <s>dU</s>), ¦ <ab>cl.</ab> 5. <ab>P.</ab> <ab>cl.</ab> 4. <ab>Ā.</ab> (<ls>Dhātup. xxvii, 10</ls>; <ls n="Dhātup.">xxvi, 24</ls>) <s>dunoti</s>, <s>dUyate</s> (<lang>ep.</lang> also <s>°ti</s>; <ab>pf.</ab> <s>dudAva</s>; <ab>fut.</ab> <s>dozyati</s>; <ab>aor.</ab> <s>adOzIt</s>; <ab>inf.</ab> <s>dotum</s>),
+<div n="to"/>to be burnt, to be consumed with internal heat or sorrow (<ab>Pres.</ab> <s>dunoti</s>, <ls>MBh. iii, 10069</ls>; <ls>BhP. iii, 2, 17</ls>; <ls>Gīt. iii, 9</ls> <pb n="483,1"/>; but oftener <s>dUyate</s>, which is at once <ab>Pass.</ab>), <ls>MBh.</ls>; <ls>Suśr.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/> (only <s>duno/ti</s>) to burn, consume with fire, cause internal heat, pain, or sorrow, afflict, distress, <ls>AV. ix, 4, 18</ls>; <ls>MBh.</ls>; <ls>VarBṛS.</ls>; <ls>Kāv.</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>dAvayati</s> <ab>aor.</ab> <s>adUduvat</s>:
 <div n="vp"/><ab>Desid.</ab> <s>dudUzati</s>:
-<div n="vp"/><ab>Intens.</ab> <s>dodUyate</s>, <s>dodoti</s>. <info or="93282,du;93282.1,dU"/><info westergaard="wu:du,27.10,05.0011;dUN,26.24,04.0023"/><info whitneyroots="du,75"/><info verb="root" cp="5P,4Ā"/>
+<div n="vp"/><ab>Intens.</ab> <s>dodUyate</s>, <s>dodoti</s>.
+<div n="P"/> [<ab>cf.</ab> <gk>δαίω</gk>. for <gk>δαϝιω</gk>; <gk>δύη</gk>, pain; <lang>Lit.</lang> <etym>davyti</etym>, to torment; <lang>Sl.</lang> <etym>daviti</etym>, to worry.]<info westergaard="wu:du,27.10,05.0011;dUN,26.24,04.0023"/><info whitneyroots="du,75"/><info verb="root" cp="5P,4Ā"/>
 <LEND>

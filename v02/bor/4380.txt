@@ -1,8 +1,8 @@
 <L>4380<pc>142<k1>confidential<k2>confidential
-<div n="lb"/>{@CONFIDENTIAL:@}¦ <div n="I">I Enjoying confidence: </div><div n="1">(1)
-<div n="lb"/>{#viSvasta#} (f. {#stA#}); </div><div n="1">(2) {#viSrabDa#} (f. {#bDA#}); </div><div n="1">(3) {#Apta#}
-<div n="lb"/>(f. {#ptA#}), <div n="xe">{%with some c. princes:%}</div> <div n="xs">{#katipayAptarAjaputra-#}
-<div n="lb"/>{#parivftaH,#}</div> K. </div><div n="I">II Private, secret: Ph.: {%c. talk:%}
-<div n="lb"/>{#viSramBAlApaH,#} H.; <div n="xe">{%in all c. matters:%}</div> <div n="xs">{#sarvaviSramBezu,#}</div>
-<div n="lb"/>K.</div>
+{@CONFIDENTIAL:@}¦ <div n="I">I Enjoying confidence: </div><div n="1">(1)
+{#viSvasta#} (f. {#stA#}); </div><div n="1">(2) {#viSrabDa#} (f. {#bDA#}); </div><div n="1">(3) {#Apta#}
+(f. {#ptA#}), <div n="xe">{%with some c. princes:%}</div> <div n="xs">{#katipayAptarAjaputra-#}
+{#parivftaH,#}</div> K. </div><div n="I">II Private, secret: Ph.: {%c. talk:%}
+{#viSramBAlApaH,#} H.; <div n="xe">{%in all c. matters:%}</div> <div n="xs">{#sarvaviSramBezu,#}</div>
+K.</div>
 <LEND>

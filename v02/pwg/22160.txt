@@ -1,57 +1,57 @@
 <L>22160<pc>2-0718<k1>gahana<k2>ga/hana
-{#ga/hana#}¦ (desselben Ursprungs wie {#gaBIra#}) verwandelt das {#na#} niemals in {#Ra#} <is>gaṇa</is> {#kzuBnAdi#} zu 
-<ls>P. 8, 4, 39.</ls> 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%tief, dicht, undurchdringlich%}; eig. und übertr. 
-<ls>AK. 3, 2, 34. 3, 4, 9, 42.</ls> 
-<ls>H. 1472.</ls> 
-<ls>an. 3, 370.</ls> 
-<ls>MED. n. 56.</ls> {#atigahanA nadI#} 
-<ls>BHARTṚ. 3, 11.</ls> {#gahanA mahAguhA#} 
-<ls>MBH. 3, 16235.</ls> 
-<ls>R. 4, 5, 12.</ls> {#vana#} 
-<ls>3, 74, 7. 4, 12, 12.</ls> <ls>HIḌ. 1, 4. 5. 2, 26.</ls> <ls>N. 11, 25. 14, 1.</ls> <ls>KATHĀS. 25, 6.</ls> {#bahUdakanimnonnatanadIvarzagahana (deSa)#} 
-<ls>SUŚR. 1, 130, 11.</ls> {#gahano 'yaM BfSaM deSo gaNgAnUpo duratyayaH#} 
-<ls>R. 2, 85, 4. 4, 47, 16.</ls> {#KaqganizpezanizpizwErgahanA duScarA ca me . hastyaSvaraTihastoruSiroBirBavitA mahI ..#} 
-<ls>2, 23, 34.</ls> {#gahanezvASramAntezu#} 
-<ls>3, 1, 23.</ls> {#sugahanA vftiH#} 
-<ls>AK. 2, 7, 18.</ls> {#gahanaH saMsAraH#} 
-<ls>ŚĀNTIŚ. 3. 15.</ls> {#karmaRo gatiH#} 
-<ls>BHAG. 4, 17.</ls> {#vipraDarma#} 
-<ls>MBH. 12, 7310.</ls> {#sevADarma#} 
-<ls>PAÑCAT. I. 317.</ls> <ls>VET. 30, 1.</ls> {#mAyA#} 
-<ls>BHĀG. P. 4, 7, 30.</ls> {#mohamahiman#} 
-<ls>ŚĀNTIŚ. 1, 8.</ls> {#atarkyahetugahanA#} 
-<ls>7.</ls> Beiw. <is>Śiva's</is> 
-<ls>MBH. 13, 897.</ls> 
-<div n="1">— 2) <lex>n.</lex> 
-<div n="2"> a) {%Abgrund, Tiefe%}: {#amBa\H kimA^sI\dgaha^naM gaBI\ram#} 
-<ls>ṚV. 10, 129, 1.</ls> Daher = {#udaka#} {%Wasser%} 
-<ls>NAIGH. 1, 12.</ls> 
-<ls>NIR. 14, 11.</ls> 
-<div n="2">— b) {%ein unzugänglicher Ort, Versteck, Schlupfwinkel, Dickicht, Waldesdickicht; unerforschliches Dunkel%}: {#dU\re ca\ttAya^ cCa\ntsadgaha^na\M yadina^kzat#} 
-<ls>ṚV. 1, 132, 6.</ls> {#AtmAsminsaMdehe gahane pravizwaH#} 
-<ls>ŚAT. BR.  14, 7, 2, 17.</ls>
+{#ga/hana#}¦ (desselben Ursprungs wie {#gaBIra#}) verwandelt das {#na#} niemals in {#Ra#} <is>gaṇa</is> {#kzuBnAdi#} zu
+<ls>P. 8,4,39.</ls>
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%tief, dicht, undurchdringlich%}; eig. und übertr.
+<ls>AK. 3,2,34.</ls> <ls n="AK.">3,4,9,42.</ls>
+<ls>H. 1472.</ls>
+<ls>an. 3,370.</ls>
+<ls>MED. n. 56.</ls> {#atigahanA nadI#}
+<ls>BHARTṚ. 3,11.</ls> {#gahanA mahAguhA#}
+<ls>MBH. 3,16235.</ls>
+<ls>R. 4,5,12.</ls> {#vana#}
+<ls n="R.">3,74,7.</ls> <ls n="R.">4,12,12.</ls> <ls>HIḌ. 1,4. 5. 2,26.</ls> <ls>N. 11,25.</ls> <ls n="N.">14,1.</ls> <ls>KATHĀS. 25,6.</ls> {#bahUdakanimnonnatanadIvarzagahana (deSa)#}
+<ls>SUŚR. 1,130,11.</ls> {#gahano 'yaM BfSaM deSo gaNgAnUpo duratyayaH#}
+<ls>R. 2,85,4.</ls> <ls n="R.">4,47,16.</ls> {#KaqganizpezanizpizwErgahanA duScarA ca me . hastyaSvaraTihastoruSiroBirBavitA mahI ..#}
+<ls n="R.">2,23,34.</ls> {#gahanezvASramAntezu#}
+<ls n="R.">3,1,23.</ls> {#sugahanA vftiH#}
+<ls>AK. 2,7,18.</ls> {#gahanaH saMsAraH#}
+<ls>ŚĀNTIŚ. 3. 15.</ls> {#karmaRo gatiH#}
+<ls>BHAG. 4,17.</ls> {#vipraDarma#}
+<ls>MBH. 12,7310.</ls> {#sevADarma#}
+<ls>PAÑCAT. I. 317.</ls> <ls>VET. 30,1.</ls> {#mAyA#}
+<ls>BHĀG. P. 4,7,30.</ls> {#mohamahiman#}
+<ls>ŚĀNTIŚ. 1,8.</ls> {#atarkyahetugahanA#} 7.
+Beiw. <is>Śiva's</is>
+<ls>MBH. 13,897.</ls>
+<div n="1">— 2) <lex>n.</lex>
+<div n="2"> a) {%Abgrund, Tiefe%}: {#amBa\H kimA^sI\dgaha^naM gaBI\ram#}
+<ls>ṚV. 10,129,1.</ls> Daher = {#udaka#} {%Wasser%}
+<ls>NAIGH. 1,12.</ls>
+<ls>NIR. 14,11.</ls>
+<div n="2">— b) {%ein unzugänglicher Ort, Versteck, Schlupfwinkel, Dickicht, Waldesdickicht; unerforschliches Dunkel%}: {#dU\re ca\ttAya^ cCa\ntsadgaha^na\M yadina^kzat#}
+<ls>ṚV. 1,132,6.</ls> {#AtmAsminsaMdehe gahane pravizwaH#}
+<ls>ŚAT. BR. 14,7,2,17.</ls>
 [Page2-0719]
-{#guho gahanagocaraH#} 
-<ls>R. 2, 85, 5.</ls> {#vinDyasya guhASca gahanAni ca#} 
-<ls>4, 48, 2.</ls> {#gahanAni nadInAM ca#} 
-<ls>14.</ls> {#girivaragahane#} 
-<ls>BHARTṚ.</ls> <ls>Suppl. 25.</ls> {#SallakI°#} 
-<ls>MBH. 12, 4283.</ls> {#vfkza°#} 
-<ls>KATHĀS. 10, 91.</ls> 
-<ls>VARĀH. BṚH. S. 53, 92.</ls> {#vfkzavAwikA°#} 
-<ls>MṚCCH. 108, 4. 5.</ls> {#vana°#} 
-<ls>PAÑCAT. 87, 7. 96, 5. 114, 8. 228, 13.</ls> {#gahane 'gnirivotsfzwaH kzipraM saMjAyate mahAn#} 
-<ls>MBH. 1, 5627.</ls> 
-<ls>R. 6, 9, 6.</ls> 
-<ls>GĪT. 7, 4.</ls> {#nakzatratArA°#} {%Dickicht, eine dichte Menge%} 
-<ls>R. 1, 35, 16.</ls> {#Darma°#} 
-<ls>MBH. 11, 125.</ls> {#maMsAra°#} 
-<ls>126. 153. 1, 583.</ls> Nach den Lexicographen: {%Wald%} 
-<ls>AK. 2, 4, 1, 1.</ls> 
-<ls>TRIK. 3, 3, 237.</ls> 
-<ls>H. 1110.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {%Höhle%} 
+{#guho gahanagocaraH#}
+<ls>R. 2,85,5.</ls> {#vinDyasya guhASca gahanAni ca#}
+<ls n="R.">4,48,2.</ls> {#gahanAni nadInAM ca#}
+<ls n="R. 2,85,">14.</ls> {#girivaragahane#}
+<ls>BHARTṚ. Suppl. 25.</ls> {#SallakI°#}
+<ls>MBH. 12,4283.</ls> {#vfkza°#}
+<ls>KATHĀS. 10,91.</ls>
+<ls>VARĀH. BṚH. S. 53,92.</ls> {#vfkzavAwikA°#}
+<ls>MṚCCH. 108,4. 5.</ls> {#vana°#}
+<ls>PAÑCAT. 87,7. 96,5. 114,8. 228,13.</ls> {#gahane 'gnirivotsfzwaH kzipraM saMjAyate mahAn#}
+<ls>MBH. 1,5627.</ls>
+<ls>R. 6,9,6.</ls>
+<ls>GĪT. 7,4.</ls> {#nakzatratArA°#} {%Dickicht, eine dichte Menge%}
+<ls>R. 1,35,16.</ls> {#Darma°#}
+<ls>MBH. 11,125.</ls> {#maMsAra°#}
+<ls n="MBH. 11,">126.</ls> <ls n="MBH. 11,">153.</ls> <ls n="MBH.">1,583.</ls> Nach den Lexicographen: {%Wald%}
+<ls>AK. 2,4,1,1.</ls>
+<ls>TRIK. 3,3,237.</ls>
+<ls>H. 1110.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {%Höhle%}
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {%Schmerz%} diess.
 <LEND>

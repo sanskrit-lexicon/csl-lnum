@@ -1,3 +1,3 @@
-<L>136815<pc>691,1<k1>pravas<k2>pra-vas<h>a<e>1
-<hom>a.</hom> <s>pra-</s>√ <hom>4.</hom> <s>vas</s> ¦ <ab>Ā.</ab> <s>-vaste</s>, to put on (clothes), to dress, <ls>R.</ls><info verb="pre" cp="Ā" parse="pra+vas"/>
+<L>136815<pc>691,1<k1>pravas<k2>pra-vas<e>1
+ <s>pra-</s>√ <hom>4.</hom> <s>vas</s> ¦ <ab>Ā.</ab> <s>-vaste</s>, to put on (clothes), to dress, <ls>R.</ls><info verb="pre" cp="Ā" parse="pra+vas"/><info hui="a"/>
 <LEND>

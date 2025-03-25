@@ -1,28 +1,28 @@
 <L>53749<pc>5-0167<k1>BakzaRa<k2>BakzaRa
-{#BakzaRa#}¦ (von {#Bakz)#} 
-<div n="1"> 1) <lex>adj.</lex> {%geniessend%}; s. {#dAqima°, pApa°#} . 
-<div n="1">— 2) <lex>n.</lex> 
-<div n="2"> a) {%das Geniessen (Trinken, Essen), Verspeisen%} 
-<ls>AK. 2, 10, 40.</ls> 
-<ls>TRIK. 2, 9, 17. 3, 2, 9.</ls> 
-<ls>H. 423.</ls> 
-<ls>HALĀY. 2, 170.</ls> 
-<ls>KĀTY. ŚR. 4, 4, 19.</ls> {#BojanaBakzaRe#} {%das Essen von%}
+{#BakzaRa#}¦ (von {#Bakz)#}
+<div n="1"> 1) <lex>adj.</lex> {%geniessend%}; s. {#dAqima°, pApa°#} .
+<div n="1">— 2) <lex>n.</lex>
+<div n="2"> a) {%das Geniessen (Trinken, Essen), Verspeisen%}
+<ls>AK. 2,10,40.</ls>
+<ls>TRIK. 2,9,17.</ls> <ls n="TRIK.">3,2,9.</ls>
+<ls>H. 423.</ls>
+<ls>HALĀY. 2,170.</ls>
+<ls>KĀTY. ŚR. 4,4,19.</ls> {#BojanaBakzaRe#} {%das Essen von%}
 [Page5-0168]
-{%Speise und Genuss des%} <is>Soma</is> 
-<ls>8, 4, 22. 9, 11, 19. 10, 6, 22.</ls> {#daDi°#} 
-<ls>8, 9.</ls> {#avavfzwa°#} 
-<ls>25, 12, 6.</ls> {#Bakza°#} 
-<ls>ĀŚV. ŚR. 2, 19. 5, 5. 6.</ls> {#mAdyante 'nyo'nyaM BakzaRAya#} 
-<ls>NIR. 7, 27.</ls> {#BakzaRaM muktvA#} {%das Essen aufgebend%} 
-<ls>KATHĀS. 22, 229.</ls> {#BakzyARAm#} 
-<ls>R. 2, 91, 61.</ls> {#aBakzya°#} (so ist zu lesen) 
-<ls>WEBER, RĀMAT. UP. 355,</ls> <ls>Śl. 10.</ls> {#maDUnAm#} 
-<ls>R. 1, 3, 31.</ls> {#mAMsasya, mAMsa°#} 
-<ls>M. 5, 26. 49. 56. 11, 156.</ls> {#anAdya°#} 
-<ls>?145. PAÑCAR. 1, 2, 41. YĀJÑ. 3, 229. MBH. 2, 1473. R. 4, 51, 27. PAÑCAT. 30, 1. 164, 6. 182, 24. 183, 3. Spr. 2727, v. l.</ls> {#tadBakzaRaBojanapravftti#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 75, 10.</ls> {#kAkolUkESca BakzaRam#} {%das Verspeistwerden von%} 
-<ls>M. 12, 76.</ls> 
-<div n="2">— b) proparox. {%Trinkgeschirr%}: {#tyaM ci^ccama\samasu^rasya\ Bakza^Ra\meka\M santa^makfRutA\ catu^rvayam#} 
-<ls>ṚV. 1, 110, 3.</ls>
+{%Speise und Genuss des%} <is>Soma</is>
+<ls n="KĀTY. ŚR.">8,4,22. 9,11,19. 10,6,22.</ls> {#daDi°#}
+<ls n="KĀTY. ŚR.">8,9.</ls> {#avavfzwa°#}
+<ls n="KĀTY. ŚR.">25,12,6.</ls> {#Bakza°#}
+<ls>ĀŚV. ŚR. 2,19. 5,5. 6.</ls> {#mAdyante 'nyo'nyaM BakzaRAya#}
+<ls>NIR. 7,27.</ls> {#BakzaRaM muktvA#} {%das Essen aufgebend%}
+<ls>KATHĀS. 22,229.</ls> {#BakzyARAm#}
+<ls>R. 2,91,61.</ls> {#aBakzya°#} (so ist zu lesen)
+<ls>WEBER, RĀMAT. UP. 355, Śl. 10.</ls> {#maDUnAm#}
+<ls>R. 1,3,31.</ls> {#mAMsasya, mAMsa°#}
+<ls>M. 5,26.</ls> <ls n="M. 5,">49.</ls> <ls n="M. 5,">56.</ls> <ls n="M.">11,156.</ls> {#anAdya°#}
+<ls n="M. 11,">145.</ls> <ls>PAÑCAR. 1,2,41.</ls> <ls>YĀJÑ. 3,229.</ls> <ls>MBH. 2,1473.</ls> <ls>R. 4,51,27.</ls> <ls>PAÑCAT. 30,1. 164,6. 182,24. 183,3.</ls> <ls>Spr. 2727</ls>, v. l. {#tadBakzaRaBojanapravftti#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 75,10.</ls> {#kAkolUkESca BakzaRam#} {%das Verspeistwerden von%}
+<ls>M. 12,76.</ls>
+<div n="2">— b) proparox. {%Trinkgeschirr%}: {#tyaM ci^ccama\samasu^rasya\ Bakza^Ra\meka\M santa^makfRutA\ catu^rvayam#}
+<ls>ṚV. 1,110,3.</ls>
 <LEND>

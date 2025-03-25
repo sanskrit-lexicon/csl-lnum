@@ -1,3 +1,3 @@
-<L>162655<pc>808,3<k1>mADvaka<k2>mADvaka<h>a<e>2
-<s>mADvaka</s> <hom>a</hom> ¦ <lex>n.</lex> = <s>mADavaka</s>, <ls>L.</ls><info lex="n"/>
+<L>162655<pc>808,3<k1>mADvaka<k2>mADvaka<e>2
+<s>mADvaka</s> ¦ <lex>n.</lex> = <s>mADavaka</s>, <ls>L.</ls><info lex="n"/><info hui="a"/>
 <LEND>

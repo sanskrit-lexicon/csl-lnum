@@ -1,9 +1,9 @@
 <L>1220<pc>043<k1>assent<k2>assent
-<div n="lb"/>{@ASSENT@}¦ (v. i.): <div n="1">(1) {#sammataH#} ({#tA, taM#}) {#Bavati#} ({#BU,#} c. 1.);</div>
-<div n="lb"/><div n="1">(2) {#aByupEti#} ({#i,#} c. 2.) <div n="xe">{%or%}</div> <div n="xs">{#aByupagacCati#}</div> ({#gam,#} c. 1.)
-<div n="lb"/>(with acc.) <div n="xe">{%he is sure to a. to this also%}</div> <div n="xs">{#tadapya-#}
-<div n="lb"/>{#vaSyamasAvaByupezyati#}</div> <ls>D.</ls> ii.; </div><div n="1">(4) {#svIkaroti#} (=to
-<div n="lb"/>accept: q. v.); </div><div n="1">(4) {#anu-manyate#} ({#man,#} c. 4.) (rare
-<div n="lb"/>in this sense), {%I a. ed to my father's proposal,%}
-<div n="lb"/>{#tAtasya matamanvamaMsi,#} <ls>D.</ls> iv.</div>
+{@ASSENT@}¦ (v. i.): <div n="1">(1) {#sammataH#} ({#tA, taM#}) {#Bavati#} ({#BU,#} c. 1.);</div>
+<div n="1">(2) {#aByupEti#} ({#i,#} c. 2.) <div n="xe">{%or%}</div> <div n="xs">{#aByupagacCati#}</div> ({#gam,#} c. 1.)
+(with acc.) <div n="xe">{%he is sure to a. to this also%}</div> <div n="xs">{#tadapya-#}
+{#vaSyamasAvaByupezyati#}</div> <ls>D.</ls> ii.; </div><div n="1">(4) {#svIkaroti#} (=to
+accept: q. v.); </div><div n="1">(4) {#anu-manyate#} ({#man,#} c. 4.) (rare
+in this sense), {%I a. ed to my father's proposal,%}
+{#tAtasya matamanvamaMsi,#} <ls>D.</ls> iv.</div>
 <LEND>

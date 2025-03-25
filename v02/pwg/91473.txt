@@ -1,52 +1,52 @@
 <L>91473<pc>6-1034<k1>vitaTa<k2>vitaTa
-{#vitaTa#}¦ (2. {#vi + taTA#}) 
-<div n="1"> 1) <lex>adj.</lex> (f. {#A#}) 
-<div n="2"> a) {%unwahr, falsch%} 
-<ls>AK. 1, 1, 5, 22. 3, 5, 15.</ls> 
-<ls>H. 265.</ls> 
-<ls>HALĀY. 1, 144.</ls> {#yaH praSnaM vitaTaM brUyAt#} 
-<ls>M. 8, 94.</ls> {#sAkzya#} 
-<ls>118.</ls> <ls>YĀJÑ. 2, 53.</ls> {#pratijYA#} 
-<ls>MBH. 1, 6842.</ls> 
-<ls>R. 6, 85, 9.</ls> {#pramARa#} 
-<ls>2, 116, 47.</ls> {#vAc#} 
-<ls>RAGH. 9, 8.</ls> 
-<ls>BHĀG. P. 4, 15, 22.</ls> {#prOQi#} 
-<ls>Spr. (II) 1162.</ls> {#°vAdin#} {%Unwahrheit redend%} 
-<ls>KATHĀS. 26, 96. 31, 83.</ls> {#vitaTABiniveSa#} 
-<ls>M. 12, 5.</ls> 
-<ls>YĀJÑ. 3, 134.</ls> {#vitaTena#} {%falsch%} 
-<ls>M. 8, 273.</ls> {#a°#} (s. auch bes.) {%nicht unwahr, ganz wahr, richtig%} 
-<ls>MBH. 12, 4010.</ls> 
-<ls>R. 5, 31, 15.</ls> 
-<ls>RAGH. 5, 26. 15, 95.</ls> 
-<ls>MĀLAV. 9, 16.</ls> 
-<ls>VARĀH. BṚH. S. 1, 2.</ls> {#vArttA#} (so v. a. {%ehrlich%}) 
-<ls>19, 11.</ls> <ls>BHĀG. P. 5, 3, 17. 8, 17, 22.</ls> <ls>MĀRK. P. 15, 81.</ls> {#tadavitaTamavAdIryanmama priyeti#} 
-<ls>SĀH. D. 43, 9.</ls> {#ityavitaTaM vadan#} 
-<ls>KATHĀS. 24, 162.</ls> {#°saMskftapraBAzin#} {%richtig%} 
-<ls>SUŚR. 2, 532, 4.</ls> {#AjYAmavitaTAM kar#} so v. a. {%erfüllen%} 
-<ls>Spr. 745, v. l.</ls> {#avitaTena#} {%der Wahrheit gemäss%} 
-<ls>MBH. 5 1692.</ls> {#avitaTam#} dass. 
-<ls>3, 11946.</ls> <ls>R. 1, 2, 37.</ls> <ls>KATHĀS. 28, 191.</ls> 
-<div n="2">— b) {%unnütz, vergeblich%}: {#bARa#} 
-<ls>MBH. 8, 1062.</ls> {#putrajanman#} 
-<ls>HARIV. 1730.</ls> {#ASA#} 
-<ls>R.2, 75, 35.</ls>
+{#vitaTa#}¦ (2. {#vi + taTA#})
+<div n="1"> 1) <lex>adj.</lex> (f. {#A#})
+<div n="2"> a) {%unwahr, falsch%}
+<ls>AK. 1,1,5,22.</ls> <ls n="AK.">3,5,15.</ls>
+<ls>H. 265.</ls>
+<ls>HALĀY. 1,144.</ls> {#yaH praSnaM vitaTaM brUyAt#}
+<ls>M. 8,94.</ls> {#sAkzya#}
+<ls n="M. 8,">118.</ls> <ls>YĀJÑ. 2,53.</ls> {#pratijYA#}
+<ls>MBH. 1,6842.</ls>
+<ls>R. 6,85,9.</ls> {#pramARa#}
+<ls n="R.">2,116,47.</ls> {#vAc#}
+<ls>RAGH. 9,8.</ls>
+<ls>BHĀG. P. 4,15,22.</ls> {#prOQi#}
+<ls>Spr. (II) 1162.</ls> {#°vAdin#} {%Unwahrheit redend%}
+<ls>KATHĀS. 26,96.</ls> <ls n="KATHĀS.">31,83.</ls> {#vitaTABiniveSa#}
+<ls>M. 12,5.</ls>
+<ls>YĀJÑ. 3,134.</ls> {#vitaTena#} {%falsch%}
+<ls>M. 8,273.</ls> {#a°#} (s. auch bes.) {%nicht unwahr, ganz wahr, richtig%}
+<ls>MBH. 12,4010.</ls>
+<ls>R. 5,31,15.</ls>
+<ls>RAGH. 5,26.</ls> <ls n="RAGH.">15,95.</ls>
+<ls>MĀLAV. 9,16.</ls>
+<ls>VARĀH. BṚH. S. 1,2.</ls> {#vArttA#} (so v. a. {%ehrlich%})
+<ls n="VARĀH. BṚH. S.">19,11.</ls> <ls>BHĀG. P. 5,3,17.</ls> <ls n="BHĀG. P.">8,17,22.</ls> <ls>MĀRK. P. 15,81.</ls> {#tadavitaTamavAdIryanmama priyeti#}
+<ls>SĀH. D. 43,9.</ls> {#ityavitaTaM vadan#}
+<ls>KATHĀS. 24,162.</ls> {#°saMskftapraBAzin#} {%richtig%}
+<ls>SUŚR. 2,532,4.</ls> {#AjYAmavitaTAM kar#} so v. a. {%erfüllen%}
+<ls>Spr. 745, v. l.</ls> {#avitaTena#} {%der Wahrheit gemäss%}
+<ls>MBH. 5,1692.</ls> {#avitaTam#} dass.
+<ls n="MBH.">3,11946.</ls> <ls>R. 1,2,37.</ls> <ls>KATHĀS. 28,191.</ls>
+<div n="2">— b) {%unnütz, vergeblich%}: {#bARa#}
+<ls>MBH. 8,1062.</ls> {#putrajanman#}
+<ls>HARIV. 1730.</ls> {#ASA#}
+<ls>R. 2,75,35.</ls>
 [Page6-1035]
-{#prayatna#} 
-<ls>RAGH. 2, 42. 7, 14.</ls> {#icCA#} 
-<ls>KATHĀS. 45, 398.</ls> 
-<ls>BHĀG. P. 6, 10, 29. 7, 2, 48. 9, 20, 35. 39.</ls> {#tadvitaTaM kuryAt#} so v. a. {%annulliren%} 
-<ls>M. 9, 83.</ls> {#a°#} {%nicht vergeblich%}: {#°kriya#} (zu schreiben {#taTAvi°#}) 
-<ls>R. 2, 47, 5.</ls> {#avitaTehita#} 
-<ls>BHĀG. P. 5, 18, 6. 8, 7, 8.</ls> {#ativitaTa#} 
-<ls>GĪT. 7, 5.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) N. pr. eines Sohnes des <is>Bharadvāja</is> 
-<ls>HARIV. 1730. fgg.</ls> Bein. <is>Bharadvāja's</is> 
-<ls>VP. 449.</ls> 
-<ls>BHĀG. P. 9, 21, 1.</ls> 
-<div n="2">— b) N. eines mythischen Wesens, dem bei der Eintheilung eines Hauses in Felder ein best. Platz gehört, 
-<ls>VARĀH. BṚH. S. 53, 44. 53. 63.</ls>
+{#prayatna#}
+<ls>RAGH. 2,42.</ls> <ls n="RAGH.">7,14.</ls> {#icCA#}
+<ls>KATHĀS. 45,398.</ls>
+<ls>BHĀG. P. 6,10,29.</ls> <ls n="BHĀG. P.">7,2,48.</ls> <ls n="BHĀG. P.">9,20,35.</ls> <ls n="BHĀG. P. 9,20,">39.</ls> {#tadvitaTaM kuryAt#} so v. a. {%annulliren%}
+<ls>M. 9,83.</ls> {#a°#} {%nicht vergeblich%}: {#°kriya#} (zu schreiben {#taTAvi°#})
+<ls>R. 2,47,5.</ls> {#avitaTehita#}
+<ls>BHĀG. P. 5,18,6.</ls> <ls n="BHĀG. P.">8,7,8.</ls> {#ativitaTa#}
+<ls>GĪT. 7,5.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) N. pr. eines Sohnes des <is>Bharadvāja</is>
+<ls>HARIV. 1730. fgg.</ls> Bein. <is>Bharadvāja's</is>
+<ls>VP. 449.</ls>
+<ls>BHĀG. P. 9,21,1.</ls>
+<div n="2">— b) N. eines mythischen Wesens, dem bei der Eintheilung eines Hauses in Felder ein best. Platz gehört,
+<ls>VARĀH. BṚH. S. 53,44. 53. 63.</ls>
 <LEND>

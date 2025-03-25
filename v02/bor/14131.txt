@@ -1,4 +1,4 @@
 <L>14131<pc>434<k1>manipulation<k2>manipulation
-<div n="lb"/>{@MANIPULATION:@}¦ <div n="1">(1) {#hastacAlanam#} (?); </div><div n="1">(2) {#laGu-#}
-<div n="lb"/>{#hastatA#} (= dexterity).</div>
+{@MANIPULATION:@}¦ <div n="1">(1) {#hastacAlanam#} (?); </div><div n="1">(2) {#laGu-#}
+{#hastatA#} (= dexterity).</div>
 <LEND>

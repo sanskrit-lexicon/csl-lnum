@@ -1,11 +1,11 @@
 <L>78496<pc>5-1596<k1>pAramitA<k2>pAramitA
-{#pAramitA#}¦ 
-<ls>KATHĀS. 72, 218.</ls> {#budDoktadAnAdizawka°#} 
-<ls>362.</ls> {#dAna°#} 
-<ls>236.</ls> {#kzamA°#} 
-<ls>259. 277.</ls> {#SIla°#} 
-<ls>259.</ls> {#DErya°#} 
-<ls>277. 283.</ls> {#DyAna°#} 
-<ls>283.</ls> {#prajYA°#} 
-<ls>318. 361.</ls>
+{#pAramitA#}¦
+<ls>KATHĀS. 72,218.</ls> {#budDoktadAnAdizawka°#}
+<ls n="KATHĀS. 72,">362.</ls> {#dAna°#}
+<ls n="KATHĀS. 72,">236.</ls> {#kzamA°#}
+<ls n="KATHĀS. 72,">259.</ls> <ls n="KATHĀS. 72,">277.</ls> {#SIla°#}
+<ls n="KATHĀS. 72,">259.</ls> {#DErya°#}
+<ls n="KATHĀS. 72,">277.</ls> <ls n="KATHĀS. 72,">283.</ls> {#DyAna°#}
+<ls n="KATHĀS. 72,">283.</ls> {#prajYA°#}
+<ls n="KATHĀS. 72,">318.</ls> <ls n="KATHĀS. 72,">361.</ls>
 <LEND>

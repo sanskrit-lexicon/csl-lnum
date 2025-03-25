@@ -1,13 +1,13 @@
 <L>13566<pc>327-a<k1>habit<k2>habit
-<div n="lb"/>HABIT¦, {%s.%} (Dress) {#veSaH, vezaH, vasanaM, vastraM, vAsas#} {%n.,%} {#pariDAnaM, paricCadaH,#}
-<div n="lb"/>{#sambaraM#}. — (State, condition) {#avasTA, sTitiH#} {%f.,%} {#BAvaH, vfttiH#} {%f.,%} {#daSA,#}
-<div n="lb"/>{#saMsTitiH#} {%f.,%} {#svaBAvaH;#} ‘habit of body,’ {#SarIrasTitiH#} {%f.,%} {#dehasvaBAvaH;#}
-<div n="lb"/>‘habit of mind,’ {#cittavfttiH#} {%f.%} — (Temperament, disposition)
-<div n="lb"/>{#prakftiH#} {%f.,%} {#SIlaH -latA, svaBAvaH, antaHkaraRaM#}. — (Custom, practice,
-<div n="lb"/>established manner) {#AcAraH, aByAsaH, vyavahAraH, samAcAraH,#}
-<div n="lb"/>{#nityakftyaM, nityakriyA, rItiH#} {%f.,%} {#vyavahftiH#} {%f.,%} {#SIlaH, pracAraH, caritaM,#}
-<div n="lb"/>{#caryyA, kramaH, niyamaH, AvfttiH#} {%f.,%} {#vyApAraH, pravfttiH#} {%f.,%} {#mArgaH, anuSIlanaM;#}
-<div n="lb"/>‘bad habit,’ {#vyasanaM;#} ‘having bad habits,’ {#durAcAraH -rA -raM, pApa-#}
-<div n="lb"/>{#samAcAraH -rA -raM, pApacaryyaH -ryyA -ryyaM, durvfttaH -ttA -ttaM, duScaritraH -trA#}
-<div n="lb"/>{#-traM, vyasanI -ninI -ni (n)#}.
+HABIT¦, {%s.%} (Dress) {#veSaH, vezaH, vasanaM, vastraM, vAsas#} {%n.,%} {#pariDAnaM, paricCadaH,#}
+{#sambaraM#}. — (State, condition) {#avasTA, sTitiH#} {%f.,%} {#BAvaH, vfttiH#} {%f.,%} {#daSA,#}
+{#saMsTitiH#} {%f.,%} {#svaBAvaH;#} ‘habit of body,’ {#SarIrasTitiH#} {%f.,%} {#dehasvaBAvaH;#}
+‘habit of mind,’ {#cittavfttiH#} {%f.%} — (Temperament, disposition)
+{#prakftiH#} {%f.,%} {#SIlaH -latA, svaBAvaH, antaHkaraRaM#}. — (Custom, practice,
+established manner) {#AcAraH, aByAsaH, vyavahAraH, samAcAraH,#}
+{#nityakftyaM, nityakriyA, rItiH#} {%f.,%} {#vyavahftiH#} {%f.,%} {#SIlaH, pracAraH, caritaM,#}
+{#caryyA, kramaH, niyamaH, AvfttiH#} {%f.,%} {#vyApAraH, pravfttiH#} {%f.,%} {#mArgaH, anuSIlanaM;#}
+‘bad habit,’ {#vyasanaM;#} ‘having bad habits,’ {#durAcAraH -rA -raM, pApa-#}
+{#samAcAraH -rA -raM, pApacaryyaH -ryyA -ryyaM, durvfttaH -ttA -ttaM, duScaritraH -trA#}
+{#-traM, vyasanI -ninI -ni (n)#}.
 <LEND>

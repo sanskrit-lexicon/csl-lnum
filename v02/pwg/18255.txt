@@ -1,14 +1,14 @@
 <L>18255<pc>2-0367<k1>kuSalin<k2>kuSalin
-{#kuSalin#}¦ (von {#kuSala#} 5.) <lex>adj.</lex> 
-<div n="1"> 1) {%gesund, wohl auf, heil%} 
-<ls>MBH. 3, 354.</ls> 
-<ls>N. 2, 15. 16, 25.</ls> 
-<ls>R. 1, 17, 37.</ls> {#na cAdyAdAya vEdehIM kuSalI tvaM gamizyasi#} 
-<ls>3, 56, 30.</ls> {#na cetkuSalinIM sItAM pradAsyanti mameSvarAH#} 
-<ls>69, 14. 4, 9, 2. 5, 31, 26.</ls> <ls>PAÑCAT. 164, 2.</ls> {#aTa BagavA~llokAnugrahAya kuSalI kASyapaH#} 
-<ls>ŚĀK. 64, 21.</ls> 
-<ls>RAGH. 5, 4.</ls> 
-<ls>MEGH. 111.</ls> 
-<div n="1">— 2) {%ein Wohlbefinden verkündend, günstig, gut%} (von einer Nachricht): {#kuSalinI vatsasya vArtApi no#} 
-<ls>SĀH. D. 65, 8.</ls>
+{#kuSalin#}¦ (von {#kuSala#} 5.) <lex>adj.</lex>
+<div n="1"> 1) {%gesund, wohl auf, heil%}
+<ls>MBH. 3,354.</ls>
+<ls>N. 2,15.</ls> <ls n="N.">16,25.</ls>
+<ls>R. 1,17,37.</ls> {#na cAdyAdAya vEdehIM kuSalI tvaM gamizyasi#}
+<ls n="R.">3,56,30.</ls> {#na cetkuSalinIM sItAM pradAsyanti mameSvarAH#}
+<ls n="R. 1,">69,14.</ls> <ls n="R.">4,9,2.</ls> <ls n="R.">5,31,26.</ls> <ls>PAÑCAT. 164,2.</ls> {#aTa BagavA~llokAnugrahAya kuSalI kASyapaH#}
+<ls>ŚĀK. 64,21.</ls>
+<ls>RAGH. 5,4.</ls>
+<ls>MEGH. 111.</ls>
+<div n="1">— 2) {%ein Wohlbefinden verkündend, günstig, gut%} (von einer Nachricht): {#kuSalinI vatsasya vArtApi no#}
+<ls>SĀH. D. 65,8.</ls>
 <LEND>

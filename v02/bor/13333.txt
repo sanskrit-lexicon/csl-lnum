@@ -1,13 +1,13 @@
 <L>13333<pc>411<k1>leaf<k2>leaf
-<div n="lb"/>{@LEAF@}¦ (subs.): <div n="I">I Lit.: {#patram,#} <div n="xe">{%in a small basin%}
-<div n="lb"/>{%of l. ves:%}</div> <div n="xs">{#patrapuwe,#}</div> <ls>R.</ls> ; </div><div n="1">(2) {#parRam,#} <div n="xe">{%knows even the l. ves%}
-<div n="lb"/>{%of the whole of this forest:%}</div> <div n="xs">{#sakalasyAsya kAntArasya #}
-<div n="lb"/>{# parRAnAmapyaBijYaH,#}</div> C. viii.; <div n="xe">{%living on tree-l. ves natura-%}
-<div n="lb"/>{%lly withered:%}</div> <div n="xs">{#svayaMviSIrRardrumaparRavfttitA,#}</div> Ku. </div><div n="I">II Of
-<div n="lb"/>metal: {#patram,#} {%of gold, that is, of%} ({%its%}) <div n="xe">{%l. ves made%}
-<div n="lb"/>{%very thin:%}</div> <div n="xs">{#svarRasya atitanUkftapatrasya,#}</div> Bha. </div><div n="I">III Of a
-<div n="lb"/>book: {#patram.#} Ph.: {%you should turn over a new l.:%}
-<div n="lb"/>{#*tvayA minnavfttirnizevanIyA.#} </div><div n="I">IV Of a door:
-<div n="lb"/>{#kapA#} ({#vA#}) {#wa#} (mn.), <div n="xe">{%with folded l. ves:%}</div> <div n="xs">{#dattakapAwaH,#}</div>
-<div n="lb"/>Va.; {%l. -breaker%} (i. e. {%thief%}): {#kapAwaGnaH.#}</div>
+{@LEAF@}¦ (subs.): <div n="I">I Lit.: {#patram,#} <div n="xe">{%in a small basin%}
+{%of l. ves:%}</div> <div n="xs">{#patrapuwe,#}</div> <ls>R.</ls> ; </div><div n="1">(2) {#parRam,#} <div n="xe">{%knows even the l. ves%}
+{%of the whole of this forest:%}</div> <div n="xs">{#sakalasyAsya kAntArasya #}
+{# parRAnAmapyaBijYaH,#}</div> C. viii.; <div n="xe">{%living on tree-l. ves natura-%}
+{%lly withered:%}</div> <div n="xs">{#svayaMviSIrRardrumaparRavfttitA,#}</div> Ku. </div><div n="I">II Of
+metal: {#patram,#} {%of gold, that is, of%} ({%its%}) <div n="xe">{%l. ves made%}
+{%very thin:%}</div> <div n="xs">{#svarRasya atitanUkftapatrasya,#}</div> Bha. </div><div n="I">III Of a
+book: {#patram.#} Ph.: {%you should turn over a new l.:%}
+{#*tvayA minnavfttirnizevanIyA.#} </div><div n="I">IV Of a door:
+{#kapA#} ({#vA#}) {#wa#} (mn.), <div n="xe">{%with folded l. ves:%}</div> <div n="xs">{#dattakapAwaH,#}</div>
+Va.; {%l. -breaker%} (i. e. {%thief%}): {#kapAwaGnaH.#}</div>
 <LEND>

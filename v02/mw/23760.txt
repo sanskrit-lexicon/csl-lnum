@@ -1,4 +1,4 @@
 <L>23760<pc>136,2<k1>AdaSasya<k2>A-daSasya<e>1
-<s>A-daSasya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> (<ab>Impv.</ab> 2. <ab>sg.</ab> <s>-daSasya</s>, 2. <ab>pl.</ab> <s>°syata</s>) to honour, be favourable to (<ab>acc.</ab>), <ls>RV. v, 50, 3; vii, 43, 5</ls>;
-<div n="to"/> (<ab>Pot.</ab> 2. <ab>sg.</ab> <s>°syes</s>) to present any one with (<ab>gen.</ab>), <ls>RV. vii, 37, 5; viii, 97, 15.</ls><info verb="pre" parse="A+daSasya"/>
+<s>A-daSasya</s> ¦ <ab>Nom.</ab> <ab>P.</ab> (<ab>Impv.</ab> 2. <ab>sg.</ab> <s>-daSasya</s>, 2. <ab>pl.</ab> <s>°syata</s>) to honour, be favourable to (<ab>acc.</ab>), <ls>RV. v, 50, 3</ls>; <ls n="RV.">vii, 43, 5</ls>;
+<div n="to"/> (<ab>Pot.</ab> 2. <ab>sg.</ab> <s>°syes</s>) to present any one with (<ab>gen.</ab>), <ls>RV. vii, 37, 5</ls>; <ls n="RV.">viii, 97, 15.</ls><info verb="pre" parse="A+daSasya"/>
 <LEND>

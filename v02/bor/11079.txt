@@ -1,10 +1,10 @@
 <L>11079<pc>348<k1>hold<k2>hold
-<div n="lb"/>{@HOLD@}¦ (subs.): <div n="I">I Grasp: q.v.: Ph.: <div n="xe">{%to take%}
-<div n="lb"/>{%or lay h.:%}</div> <div n="xs">{#gfhvAti, pari-,#}</div> ({#grah,#} c. 9.); {%to keep h.:%}
-<div n="lb"/>{#DArayati.#} </div><div n="I">II Support: q.v.: {#AlambaH, -nam,#}
-<div n="lb"/><div n="xe">{%without any h.:%}</div> <div n="xs">{#nirAlambanaH,#}</div> D. </div><div n="I">III Authority,
-<div n="lb"/>claim: q.v.: {#aDikAraH.#} </div><div n="I">IV Influence,
-<div n="lb"/>ascendancy: q.v. </div><div n="I">V Prison: q.v.: {#cArakam.#}</div>
-<div n="lb"/><div n="I">VI Strong-h. {#durgam.#} </div><div n="I">VII Of a ship: perh.
-<div n="lb"/>{#kroqaH#} (comp. Bengali {#kol#}), <div n="xe">{%fore h.:%}</div> <div n="xs">{#agraH kroqaH.#}</div></div>
+{@HOLD@}¦ (subs.): <div n="I">I Grasp: q.v.: Ph.: <div n="xe">{%to take%}
+{%or lay h.:%}</div> <div n="xs">{#gfhvAti, pari-,#}</div> ({#grah,#} c. 9.); {%to keep h.:%}
+{#DArayati.#} </div><div n="I">II Support: q.v.: {#AlambaH, -nam,#}
+<div n="xe">{%without any h.:%}</div> <div n="xs">{#nirAlambanaH,#}</div> D. </div><div n="I">III Authority,
+claim: q.v.: {#aDikAraH.#} </div><div n="I">IV Influence,
+ascendancy: q.v. </div><div n="I">V Prison: q.v.: {#cArakam.#}</div>
+<div n="I">VI Strong-h. {#durgam.#} </div><div n="I">VII Of a ship: perh.
+{#kroqaH#} (comp. Bengali {#kol#}), <div n="xe">{%fore h.:%}</div> <div n="xs">{#agraH kroqaH.#}</div></div>
 <LEND>

@@ -1,24 +1,24 @@
-<L>48352<pc>3061-1<k1>daMS<k2>daMS<h>1<e>500
-1. {#daMS#}¦ , {#daS , daMSati#} (nur <ls>176,22</ls>), {#da/Sati#} (episch auch <ab>Med.</ab>) {%beissen , beissen in%} {#dazwa#} und {#daMSita#} *nur <ls>LA.13,4</ls>) {%gebissen%} (auch von einer best. tadelhaften Aussprache der Laute).
+<L>48352<pc>3-061-a<k1>daMS<k2>daMS<h>1
+<hom>1.</hom> √{#daMS#}, √{#daS#}¦, {#daMSati#} (nur <ls n="Chr.">176,22</ls>), {#da/Sati#} (episch auch <ab>Med.</ab>) {%beissen, beissen in%} {#dazwa#} und {#daMSita#} (nur <ls>LA. 13,4</ls>) {%gebissen%} (auch von einer <ab>best.</ab> tadelhaften Aussprache der Laute).
 <div n="m">— <ab>Caus.</ab>
-<div n="1">— 1) {#daMSayati#}
-<div n="2">— a) {%beissen lassen , — von%} (<ab>Instr.</ab>).
-<div n="2">— b) {%bepanzern , mit einem Harnisch versehen%} <ls>ŚIŚ.17,21.</ls>
-<div n="1">— 2) {#*daMSayate (daMSane)#}.
-<div n="m">— <ab>Intens.</ab> {#*dandaSyate , *dandaSIti , *dandazwi (BAvagarhAyAm)#}. {#da/ndaSAna#} {%nach einander beissend , — schnappend%} <ls>ṚV.10,95,9.</ls>
-<div n="m">— <ab>Caus.</ab> vom <ab>Intens.</ab> {#dandaSayati#} {%gehörig beissen lassen.%}
+<div n="1">— 1〉 {#daMSayati#}
+<div n="2">— a〉 {%beissen lassen, — von%} (<ab>Instr.</ab>).
+<div n="2">— b〉 {%bepanzern, mit einem Harnisch versehen%} <ls>ŚIŚ. 17,21</ls>.
+<div n="1">— 2〉 *{#daMSayate#} ({#daMSane#}).
+<div n="m">— <ab>Intens.</ab> *{#dandaSyate#}, *{#dandaSIti#}, *{#dandazwi#} ({#BAvagarhAyAm#}). {#da/ndaSAna#} {%nach einander beissend, — schnappend%} <ls>ṚV. 10,95,9</ls>.
+<div n="m">— <ab>Caus.</ab> vom <ab>Intens.</ab> {#dandaSayati#} {%gehörig beissen lassen%}.
 <div n="p">— Mit {#ava#} in {#avadaMSa#}.
-<div n="p">— Mit {#A#} {%anbeissen , beissen in.%}
-<div n="p">— Mit {#ud#} in {#*uddaMSa#}.
+<div n="p">— Mit {#A#} {%anbeissen, beissen in%}.
+<div n="p">— Mit {#ud#} in *{#uddaMSa#}.
 <div n="p">— Mit {#upa#} in {#upadaMSa#} fgg.
-<div n="p">— Mit {#nis#} {%zerbeissen.%} {#dantAn#} {%die Zähne aneinander schlagen.%}
-<div n="p">— Mit {#pari#} {%zerbissen.%}
+<div n="p">— Mit {#nis#} {%zerbeissen%}. {#dantAn#} {%die Zähne aneinander schlagen%}.
+<div n="p">— Mit {#pari#} {%zerbissen%}.
 <div n="p">— Mit {#vi#}
-<div n="1">— 1) <ab>dass.</ab>
-<div n="1">— 2) {%auseinander quetschen.%}
+<div n="1">— 1〉 <ab>dass.</ab>
+<div n="1">— 2〉 {%auseinander quetschen%}.
 <div n="p">— Mit {#sam#}
-<div n="1">— 1) {%beissen , mit den Zahnen packen.%}
-<div n="1">— 2) {%zusammenkneifen , aneinander drücken.%}
-<div n="1">— 3) {%drücken , quetschen , dicht auf Etwas liegen.%} {#saMdazwa#} {%angedrückt , fest anliegend.%}
-<div n="p">— Mit {#aBisam#}, {#aBi/ sa/MdazwO#} {%zusammengebunden , zusammenschnürt.%}
+<div n="1">— 1〉 {%beissen, mit den Zahnen packen%}.
+<div n="1">— 2〉 {%zusammenkneifen, aneinander drücken%}.
+<div n="1">— 3〉 {%drücken, quetschen, dicht auf Etwas liegen%}. {#saMdazwa#} {%angedrückt, fest anliegend%}.
+<div n="p">— Mit {#aBisam#}, {#aBi/ sa/MdazwO#} {%zusammengebunden, zusammenschnürt%}.
 <LEND>

@@ -1,60 +1,59 @@
 <L>92010<pc>6-1088<k1>vinASa<k2>vinASa
-{#vinASa#}¦ (von 1. {#naS#} mit {#vi#}) <lex>m.</lex> {%das Verlorengehen, Verschwinden, Aufhören, Verlust, Vernichtung, Untergang%} 
-<ls>AK. 3, 3, 22.</ls> 
-
-<ls>TS. PRĀT. 1, 57.</ls> {#matpriyAyAH#} 
-<ls>VIKR. 85.</ls> 
-<ls>BHĀG. P. 4, 22, 27.</ls> {#tasya#} ({#arTasya#}) {#nASe vinASe vA#} 
-<ls>MBH. 3, 1299.</ls> 
-<ls>YĀJÑ. 2, 165.</ls> {#mama sarvavinASAya#} 
-<ls>R. GORR. 1, 77, 11.</ls> {#arTa°#} 
-<ls>VARĀH. BṚH. S. 5, 21. 53, 90.</ls> 
-<ls>KATHĀS. 19, 14.</ls> 
-<ls>Spr. 1297.</ls> 
-<ls>PAÑCAT. 145, 15.</ls> {#bIja°#} 
-<ls>VARĀH. BṚH. S. 5, 34.</ls> {#vfzwi°#} 
-<ls>17, 4.</ls> {#kzIra°#} 
-<ls>23.</ls> {#Gana°#} 
-<ls>47, 12.</ls> {#narapatideSa°#} 
-<ls>46, 82.</ls> {#karmaRAm#} 
-<ls>Spr. 3146.</ls> {#tadAvaraRa°#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 35.</ls> {#budDi°#} 
-<ls>HIT. 55, 8.</ls> {#duzwAcAra°#} 
-<ls>LA. (III) 87, 15.</ls> {#apamftyu°#} 
-<ls>PAÑCAT. 187, 7.</ls> {#doza°#} 
-<ls>DHŪRTAS. 90, 10.</ls> {#taM yastu dvezwi saMmohAt - tasya hyASu vinASAya rAjA prakurute manaH#} 
-<ls>M. 7, 12.</ls> 
-<ls>MBH. 1, 6132. 3, 12195.</ls> 
-<ls>KAP. 1, 44.</ls> 
-<ls>SUŚR. 1, 365, 10.</ls> 
-<ls>R. 1, 3, 34. 41, 4. 2, 40, 9.</ls> 
-<ls>Spr. 2631. 5258.</ls> 
-<ls>MĀLAV. 8, 14.</ls> 
-<ls>KATHĀS. 30, 135.</ls> 
-<ls>BHĀG. P. 9, 6, 50. 14, 7.</ls> 
-<ls>MĀRK. P. 112, 12.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 19, 20.</ls> <ls>PAÑCAT. 175, 3.</ls> Gegens. {#saMBUti#} 
-<ls>ĪŚOP. 14.</ls> {#saMBava#} 
-<ls>BHĀG. P. 7, 2, 26.</ls> {#utpatti#} 
-<ls>KAP. 2, 22.</ls> {#sTityutpattivinASahetu#} 
-<ls>SUŚR. 1, 194, 17. 249, 12.</ls> {#purasyAvinASAya#} 
-<ls>MBH. 5, 7470.</ls> {#upasTitavinASA (vasuMDarA)#} 
-<ls>4878.</ls> {#vinASamevApIto #}
+{#vinASa#}¦ (von 1. {#naS#} mit {#vi#}) <lex>m.</lex> {%das Verlorengehen, Verschwinden, Aufhören, Verlust, Vernichtung, Untergang%}
+<ls>AK. 3,3,22.</ls>
+<ls>TS. PRĀT. 1,57.</ls> {#matpriyAyAH#}
+<ls>VIKR. 85.</ls>
+<ls>BHĀG. P. 4,22,27.</ls> {#tasya#} ({#arTasya#}) {#nASe vinASe vA#}
+<ls>MBH. 3,1299.</ls>
+<ls>YĀJÑ. 2,165.</ls> {#mama sarvavinASAya#}
+<ls>R. GORR. 1,77,11.</ls> {#arTa°#}
+<ls>VARĀH. BṚH. S. 5,21. 53,90.</ls>
+<ls>KATHĀS. 19,14.</ls>
+<ls>Spr. 1297.</ls>
+<ls>PAÑCAT. 145,15.</ls> {#bIja°#}
+<ls>VARĀH. BṚH. S. 5,34.</ls> {#vfzwi°#}
+<ls n="VARĀH. BṚH. S.">17,4.</ls> {#kzIra°#}
+<ls n="VARĀH. BṚH. S.">23.</ls> {#Gana°#}
+<ls n="VARĀH. BṚH. S.">47,12.</ls> {#narapatideSa°#}
+<ls n="VARĀH. BṚH. S.">46,82.</ls> {#karmaRAm#}
+<ls>Spr. 3146.</ls> {#tadAvaraRa°#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 35.</ls> {#budDi°#}
+<ls>HIT. 55,8.</ls> {#duzwAcAra°#}
+<ls>LA. (III) 87,15.</ls> {#apamftyu°#}
+<ls>PAÑCAT. 187,7.</ls> {#doza°#}
+<ls>DHŪRTAS. 90,10.</ls> {#taM yastu dvezwi saMmohAt — tasya hyASu vinASAya rAjA prakurute manaH#}
+<ls>M. 7,12.</ls>
+<ls>MBH. 1,6132.</ls> <ls n="MBH.">3,12195.</ls>
+<ls>KAP. 1,44.</ls>
+<ls>SUŚR. 1,365,10.</ls>
+<ls>R. 1,3,34.</ls> <ls n="R. 1,">41,4.</ls> <ls n="R.">2,40,9.</ls>
+<ls>Spr. 2631.</ls> <ls n="Spr.">5258.</ls>
+<ls>MĀLAV. 8,14.</ls>
+<ls>KATHĀS. 30,135.</ls>
+<ls>BHĀG. P. 9,6,50.</ls> <ls n="BHĀG. P. 9,">14,7.</ls>
+<ls>MĀRK. P. 112,12.</ls>
+<ls>VET. in LA. (III) 19,20.</ls> <ls>PAÑCAT. 175,3.</ls> Gegens. {#saMBUti#}
+<ls>ĪŚOP. 14.</ls> {#saMBava#}
+<ls>BHĀG. P. 7,2,26.</ls> {#utpatti#}
+<ls>KAP. 2,22.</ls> {#sTityutpattivinASahetu#}
+<ls>SUŚR. 1,194,17. 249,12.</ls> {#purasyAvinASAya#}
+<ls>MBH. 5,7470.</ls> {#upasTitavinASA (vasuMDarA)#}
+<ls n="MBH. 5,">4878.</ls> {#vinASamevApIto #}
 [Page6-1089]
-{# Bavati#} 
-<ls>CHĀND. UP. 8, 11, 1.</ls> {#vinASaM vrajati#} 
-<ls>M. 3, 179. 4, 71. 8, 346.</ls> {#agamat#} 
-<ls>Verz. d. Oxf. H. 54,b,30.</ls> {#ezyasi#} 
-<ls>PAÑCAT. 162, 12.</ls> {#yAnti#} 
-<ls>R. 2, 44, 13.</ls> {#upayAsyati#} 
-<ls>48, 22.</ls> <ls>R. GORR. 2, 69, 7.</ls> <ls>PAÑCAT. 184, 19.</ls> {#aByeti#} 
-<ls>Spr. (II) 1532.</ls> {#avApsyati#} 
-<ls>MĀRK. P. 16, 30.</ls> {#kartum#} 
-<ls>BHĀG. P. 2, 17.</ls> 
-<ls>VARĀH. BṚH. S. 4, 27.</ls> {#ninye#} 
-<ls>43, 7.</ls> {#dAsIgarBavinASakft#} 
-<ls>YĀJÑ. 2, 236.</ls> {#bAhugrIvAnetrasakTivinASe vAcike#} so v. a. {%Verletzung%} 
-<ls>208.</ls> {#vinASonmuKa#} so v. a. {%reif%} 
-<ls>AK. 3, 2, 41.</ls> 
+{# Bavati#}
+<ls>CHĀND. UP. 8,11,1.</ls> {#vinASaM vrajati#}
+<ls>M. 3,179.</ls> <ls n="M.">4,71.</ls> <ls n="M.">8,346.</ls> {#agamat#}
+<ls>Verz. d. Oxf. H. 54,b,30.</ls> {#ezyasi#}
+<ls>PAÑCAT. 162,12.</ls> {#yAnti#}
+<ls>R. 2,44,13.</ls> {#upayAsyati#}
+<ls n="R. 2,">48,22.</ls> <ls>R. GORR. 2,69,7.</ls> <ls>PAÑCAT. 184,19.</ls> {#aByeti#}
+<ls>Spr. (II) 1532.</ls> {#avApsyati#}
+<ls>MĀRK. P. 16,30.</ls> {#kartum#}
+<ls>BHAG. 2,17.</ls>
+<ls>VARĀH. BṚH. S. 4,27.</ls> {#ninye#}
+<ls n="VARĀH. BṚH. S.">43,7.</ls> {#dAsIgarBavinASakft#}
+<ls>YĀJÑ. 2,236.</ls> {#bAhugrIvAnetrasakTivinASe vAcike#} so v. a. {%Verletzung%}
+<ls n="YĀJÑ.">208.</ls> {#vinASonmuKa#} so v. a. {%reif%}
+<ls>AK. 3,2,41.</ls>
 <div n="v">— Vgl. {#jagadvinASa#} .
 <LEND>

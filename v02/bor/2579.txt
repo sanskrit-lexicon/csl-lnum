@@ -1,8 +1,8 @@
 <L>2579<pc>088<k1>bride<k2>bride
-<div n="lb"/>{@BRIDE:@}¦ <div n="1">(1) {#vaDUH;#} <div n="xe">{%the b. and the bridegroom%}</div> <div n="xs">{#vaDUvaram,#}</div>
-<div n="lb"/>Ku. vii. 78.; </div><div n="1">(2) {#navavaDaH;#} </div><div n="1">(3) {#navoQA#} (=just
-<div n="lb"/>married); </div><div n="1">(4) {#AsannapARigrahaRA#} (=about to
-<div n="lb"/>marry). {%A young b.:%} </div><div n="1">(1) {#kanyA;#} </div><div n="1">(2) {#kumArI,#}
-<div n="lb"/>R. vii. 22. {%A b. who chooses her own husband:%}
-<div n="lb"/>{#svayaMvarA.#}</div>
+{@BRIDE:@}¦ <div n="1">(1) {#vaDUH;#} <div n="xe">{%the b. and the bridegroom%}</div> <div n="xs">{#vaDUvaram,#}</div>
+Ku. vii. 78.; </div><div n="1">(2) {#navavaDaH;#} </div><div n="1">(3) {#navoQA#} (=just
+married); </div><div n="1">(4) {#AsannapARigrahaRA#} (=about to
+marry). {%A young b.:%} </div><div n="1">(1) {#kanyA;#} </div><div n="1">(2) {#kumArI,#}
+R. vii. 22. {%A b. who chooses her own husband:%}
+{#svayaMvarA.#}</div>
 <LEND>

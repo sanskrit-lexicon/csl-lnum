@@ -1,20 +1,20 @@
 <L>47493<pc>4-0889<k1>pOrava<k2>pOrava/
-{#pOrava/#}¦ <lex>adj.</lex> (f. {#I#}) {%dem%} <is>Pūru</is> {%gehörig, von ihm abstammend%}; <lex>m.</lex> {%ein Abkömmling%} <is>Pūru's</is> 
-<ls>P. 4, 1, 168, <is>Vārtt</is>. 2.</ls> {#vayas#} 
-<ls>MBH. 1, 3500.</ls> {#vaMSa#} 
-<ls>3180. 3534.</ls> <ls>INDR. 5, 40.</ls> <ls>HARIV. 1829. 11079.</ls> {#pOravo nAma rAjarziH#} 
-<ls>MBH. 1, 2664. 3107. 7, 2196. fgg.</ls> 
-<ls>HARIV. 1052.</ls> 
-<ls>ŚĀK. 24.</ls> {#lAvARakADinATasya pOravAKyasya BUpateH#} 
-<ls>KATHĀS. 44, 45.</ls> {#pOravI#} Gemahlin <is>Vasudeva's</is> 
-<ls>VP. 439.</ls> 
-<ls>BHĀG. P. 9, 24, 44. 46.</ls> <is>Yudhiṣṭhira's</is> 
-<ls>22, 29.</ls> {#apOravA na tu mahI Bavizyati kadA ca na#} {%ohne einen%} <is>Pūruiden</is> 
-<ls>HARIV. 11081.</ls> pl. {%die Nachkommen —, das Geschlecht des%} <is>Pūru</is> 
-<ls>1085.</ls> <ls>VP. 453.</ls> <ls>BHĀG. P. 9, 20, 12.</ls> <ls>ŚĀK. 49. 25, 8. 104, 9.</ls> Bez. eines Volksstammes 
-<ls>MBH. 2, 1164. 6, 2415.</ls> 
-<ls>R. 4, 44, 13.</ls> 
-<ls>MĀRK. P. 58, 52.</ls> im Norden 
-<ls>VARĀH. BṚH. S. 14, 27 </ls> (v. l. {#pOlava#}). im Nordosten 
-<ls>31. 16, 22. 31, 19.</ls>
+{#pOrava/#}¦ <lex>adj.</lex> (f. {#I#}) {%dem%} <is>Pūru</is> {%gehörig, von ihm abstammend%}; <lex>m.</lex> {%ein Abkömmling%} <is>Pūru's</is>
+<ls>P. 4,1,168</ls>, <is>Vārtt</is>. 2. {#vayas#}
+<ls>MBH. 1,3500.</ls> {#vaMSa#}
+<ls n="MBH. 1,">3180.</ls> <ls n="MBH. 1,">3534.</ls> <ls>INDR. 5,40.</ls> <ls>HARIV. 1829.</ls> <ls n="HARIV.">11079.</ls> {#pOravo nAma rAjarziH#}
+<ls>MBH. 1,2664.</ls> <ls n="MBH. 1,">3107.</ls> <ls n="MBH.">7,2196. fgg.</ls>
+<ls>HARIV. 1052.</ls>
+<ls>ŚĀK. 24.</ls> {#lAvARakADinATasya pOravAKyasya BUpateH#}
+<ls>KATHĀS. 44,45.</ls> {#pOravI#} Gemahlin <is>Vasudeva's</is>
+<ls>VP. 439.</ls>
+<ls>BHĀG. P. 9,24,44.</ls> <ls n="BHĀG. P. 9,24,">46.</ls> <is>Yudhiṣṭhira's</is>
+<ls n="BHĀG. P. 9,">22,29.</ls> {#apOravA na tu mahI Bavizyati kadA ca na#} {%ohne einen%} <is>Pūruiden</is>
+<ls>HARIV. 11081.</ls> pl. {%die Nachkommen —, das Geschlecht des%} <is>Pūru</is>
+<ls n="HARIV.">1085.</ls> <ls>VP. 453.</ls> <ls>BHĀG. P. 9,20,12.</ls> <ls>ŚĀK. 49. 25,8. 104,9.</ls> Bez. eines Volksstammes
+<ls>MBH. 2,1164.</ls> <ls n="MBH.">6,2415.</ls>
+<ls>R. 4,44,13.</ls>
+<ls>MĀRK. P. 58,52.</ls> im Norden
+<ls>VARĀH. BṚH. S. 14,27</ls> (v. l. {#pOlava#}). im Nordosten
+<ls n="VARĀH. BṚH. S.">31. 16,22. 31,19.</ls>
 <LEND>

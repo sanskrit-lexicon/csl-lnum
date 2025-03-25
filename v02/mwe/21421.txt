@@ -1,12 +1,12 @@
 <L>21421<pc>565-b<k1>pace<k2>pace
-<div n="lb"/>PACE¦, {%s.%} (A step) {#padapAtaH, pAdapAtaH, padakramaH, padanyAsaH, pAdanyAsaH,#}
-<div n="lb"/>{#padavikzepaH, pAdavikzepaH, padanikzepaH, padakramaH, padaM, kramaH#}. — (Gait) {#gatiH,#}
-<div n="lb"/>{#gamanaM, cAraH, caraRaM, calanaM, ayanaM#}. — (Of horses) {#DAraH -rA, cAraH,#}
-<div n="lb"/>{#vArakaH padavikzepaH, ayanaM;#} ‘a horse with a good pace,’ {#suKAyanaH,#}
-<div n="lb"/>{#suKacAraH#}. A horse's paces are, ‘walk,’ {#AskanditaM;#} ‘trot,’
-<div n="lb"/>{#DOritakaM;#} ‘sidling,’ {#recitaM;#} ‘gallop,’ {#valgitaM;#} ‘vaulting,’ {#plutaM#}.
-<div n="lb"/> — (Of an elephant) {#gajavrajaM#}. — (Degree of celerity) {#kramaH,#}
-<div n="lb"/>{#padakramaH, gativegaH;#} ‘a quick pace,’ {#drutapadaM;#} ‘at a good pace,’
-<div n="lb"/>{#citrapadakramaM;#} ‘going at a quick pace,’ {#drutagAmI -minI -mi (n),#}
-<div n="lb"/>{#drutakramaH -mA -maM, avilambitakramaH#} &c.
+PACE¦, {%s.%} (A step) {#padapAtaH, pAdapAtaH, padakramaH, padanyAsaH, pAdanyAsaH,#}
+{#padavikzepaH, pAdavikzepaH, padanikzepaH, padakramaH, padaM, kramaH#}. — (Gait) {#gatiH,#}
+{#gamanaM, cAraH, caraRaM, calanaM, ayanaM#}. — (Of horses) {#DAraH -rA, cAraH,#}
+{#vArakaH padavikzepaH, ayanaM;#} ‘a horse with a good pace,’ {#suKAyanaH,#}
+{#suKacAraH#}. A horse's paces are, ‘walk,’ {#AskanditaM;#} ‘trot,’
+{#DOritakaM;#} ‘sidling,’ {#recitaM;#} ‘gallop,’ {#valgitaM;#} ‘vaulting,’ {#plutaM#}.
+ — (Of an elephant) {#gajavrajaM#}. — (Degree of celerity) {#kramaH,#}
+{#padakramaH, gativegaH;#} ‘a quick pace,’ {#drutapadaM;#} ‘at a good pace,’
+{#citrapadakramaM;#} ‘going at a quick pace,’ {#drutagAmI -minI -mi (n),#}
+{#drutakramaH -mA -maM, avilambitakramaH#} &c.
 <LEND>

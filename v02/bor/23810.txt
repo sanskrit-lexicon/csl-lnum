@@ -1,5 +1,5 @@
 <L>23810<pc>745<k1>vessel<k2>vessel
-<div n="lb"/>{@VESSEL:@}¦ <div n="I">I A receptacle: </div><div n="1">(1) {#pAtram;#} </div><div n="1">(2)
-<div n="lb"/>{#BAjanam.#} </div><div n="I">II A ship: q. v.: {#yAnapAtram.#} </div><div n="I">III Of
-<div n="lb"/>the body: {#nAqiH#} ({#qI#}): v. Vein, etc.</div>
+{@VESSEL:@}¦ <div n="I">I A receptacle: </div><div n="1">(1) {#pAtram;#} </div><div n="1">(2)
+{#BAjanam.#} </div><div n="I">II A ship: q. v.: {#yAnapAtram.#} </div><div n="I">III Of
+the body: {#nAqiH#} ({#qI#}): v. Vein, etc.</div>
 <LEND>

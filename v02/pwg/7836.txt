@@ -1,49 +1,49 @@
 <L>7836<pc>1-0588<k1>Akula<k2>Akula
-{#Akula#}¦ 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} 
-<ls>AK. 2, 8, 2, 67. 3, 2, 21. 4, 192.</ls> 
-<ls>TRIK. 3, 3, 380.</ls> 
-<ls>H. 366. 1472.</ls> 
-<div n="2"> a) {%erfüllt, voll überhäuft von Etwas%}; mit dem instr.: {#taTA tErupayAtESca pratipadBiSca - AkulA sA saBA tAta Bavati sma#} 
-<ls>MBH. 2, 475.</ls> {#BartfSokena cAkulA#} 
-<ls>R. 3, 63, 4.</ls> {#kftyEstasya#} ({%von Pflichten gegen ihn%}) {#pratikzaRamAkulA#} 
-<ls>ŚĀK. 94.</ls> gewöhnlich am Ende eines comp. {#utsavaH - janAkulaH#} 
-<ls>R. 1, 19, 11.</ls> {#gokulAkula#} 
-<ls>2, 46, 17. 50, 9.</ls> {#mfgapakzigaRAkula#} 
-<ls>3, 74, 8.</ls> <ls>VIŚV. 4, 12.</ls> {#AjyaDUmAkula#} 
-<ls>R. 3, 17, 18.</ls> 
-<ls>VIŚV. 6, 18.</ls> {#tasyAlApakutUhalAkulatare Srotre#} 
-<ls>AMAR. 81.</ls> {#sAgaraM pracaladUrmimAlAkulam#} 
-<ls>BHARTṚ. 2, 4. 3, 11.</ls> {#vAzpAkulAM vAcam#} 
-<ls>N. 4, 18.</ls> {#patiSokAkulA#} 
-<ls>16, 11.</ls> {#vismayA°#} 
-<ls>R. 4, 50, 14.</ls> {#BayA°#} 
-<ls>HIT. 18, 11.</ls> 
-<ls>VID. 107.</ls> {#snehA°#} 
-<ls>179.</ls> {#harzA°#} 
-<ls>50.</ls> {#kopA°#} 
-<ls>KATHĀS. 1, 43.</ls> {#pipAsA°#} 
-<ls>PAÑCAT. 9, 11.</ls> {#GarmAkula#} 
-<ls>HIT. 42, 14.</ls> {#dravyABilAzAkula#} 
-<ls>I, 204.</ls> In vielen von diesen Beispielen spielt die Bedeut. schon nach {%b.%} hinüber. 
-<div n="2">— b) {%in Verwirrung%} oder {%Unordnung gerathen, aus seinem natürlichen Zustande gebracht, verwirrt%} (übertr.): {#AkulakeSAnta#} 
-<ls>R. 3, 58, 45.</ls> {#AkulAM nagarIM kftvA#} 
-<ls>5, 54, 1.</ls> {#tAnAkulAndfzwvA viSvAmitrAstramohitAn#} 
-<ls>VIŚV. 5, 1.</ls> {#hastihastapariklizwAmAkulAM padminImiva#} 
-<ls>R. 5, 21, 15.</ls> {#AkulAvartAM tamasAm#} (N. pr. eines Flusses) 
-<ls>2, 46, 28.</ls> {#aSrupUrRAkulekzaRa#} 
-<ls>BHAG. 2, 1.</ls> {#atyAkulaM kaTayasi#} 
-<ls>MṚCCH. 130, 8.</ls> {#SokasAgaramaDyasTo daDyO kAraRamAkulaH#} 
-<ls>MBH. 3, 17304.</ls> 
-<ls>KATHĀS. 12, 183. 13, 161.</ls> {#Akulendriya#} 
-<ls>R. 1, 1, 52. 3, 79, 1.</ls> {#ityArUQabahupratarkamaparicCedAkulaM me manaH#} 
-<ls>ŚĀK. 106.</ls> {#kOtukAkulacetas#} 
-<ls>ŚUK. 43, 18.</ls> {#sacintAkulam (sacinta + A°)#} 
-<ls>ŚĀK. 32, 2.</ls> {#vihvalAkula#} 
-<ls>VID. 29.</ls> 
+{#Akula#}¦
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#}
+<ls>AK. 2,8,2,67.</ls> <ls n="AK.">3,2,21.</ls> <ls n="AK. 3,">4,192.</ls>
+<ls>TRIK. 3,3,380.</ls>
+<ls>H. 366.</ls> <ls n="H.">1472.</ls>
+<div n="2"> a) {%erfüllt, voll überhäuft von Etwas%}; mit dem instr.: {#taTA tErupayAtESca pratipadBiSca — AkulA sA saBA tAta Bavati sma#}
+<ls>MBH. 2,475.</ls> {#BartfSokena cAkulA#}
+<ls>R. 3,63,4.</ls> {#kftyEstasya#} ({%von Pflichten gegen ihn%}) {#pratikzaRamAkulA#}
+<ls>ŚĀK. 94.</ls> gewöhnlich am Ende eines comp. {#utsavaH — janAkulaH#}
+<ls>R. 1,19,11.</ls> {#gokulAkula#}
+<ls n="R.">2,46,17.</ls> <ls n="R. 2,">50,9.</ls> {#mfgapakzigaRAkula#}
+<ls n="R.">3,74,8.</ls> <ls>VIŚV. 4,12.</ls> {#AjyaDUmAkula#}
+<ls>R. 3,17,18.</ls>
+<ls>VIŚV. 6,18.</ls> {#tasyAlApakutUhalAkulatare Srotre#}
+<ls>AMAR. 81.</ls> {#sAgaraM pracaladUrmimAlAkulam#}
+<ls>BHARTṚ. 2,4. 3,11.</ls> {#vAzpAkulAM vAcam#}
+<ls>N. 4,18.</ls> {#patiSokAkulA#}
+<ls n="N.">16,11.</ls> {#vismayA°#}
+<ls>R. 4,50,14.</ls> {#BayA°#}
+<ls>HIT. 18,11.</ls>
+<ls>VID. 107.</ls> {#snehA°#}
+<ls n="VID.">179.</ls> {#harzA°#}
+<ls n="VID.">50.</ls> {#kopA°#}
+<ls>KATHĀS. 1,43.</ls> {#pipAsA°#}
+<ls>PAÑCAT. 9,11.</ls> {#GarmAkula#}
+<ls>HIT. 42,14.</ls> {#dravyABilAzAkula#}
+<ls n="HIT.">I,204.</ls> In vielen von diesen Beispielen spielt die Bedeut. schon nach {%b.%} hinüber.
+<div n="2">— b) {%in Verwirrung%} oder {%Unordnung gerathen, aus seinem natürlichen Zustande gebracht, verwirrt%} (übertr.): {#AkulakeSAnta#}
+<ls>R. 3,58,45.</ls> {#AkulAM nagarIM kftvA#}
+<ls n="R.">5,54,1.</ls> {#tAnAkulAndfzwvA viSvAmitrAstramohitAn#}
+<ls>VIŚV. 5,1.</ls> {#hastihastapariklizwAmAkulAM padminImiva#}
+<ls>R. 5,21,15.</ls> {#AkulAvartAM tamasAm#} (N. pr. eines Flusses)
+<ls n="R.">2,46,28.</ls> {#aSrupUrRAkulekzaRa#}
+<ls>BHAG. 2,1.</ls> {#atyAkulaM kaTayasi#}
+<ls>MṚCCH. 130,8.</ls> {#SokasAgaramaDyasTo daDyO kAraRamAkulaH#}
+<ls>MBH. 3,17304.</ls>
+<ls>KATHĀS. 12,183.</ls> <ls n="KATHĀS.">13,161.</ls> {#Akulendriya#}
+<ls>R. 1,1,52.</ls> <ls n="R.">3,79,1.</ls> {#ityArUQabahupratarkamaparicCedAkulaM me manaH#}
+<ls>ŚĀK. 106.</ls> {#kOtukAkulacetas#}
+<ls>ŚUK. 43,18.</ls> {#sacintAkulam (sacinta + A°)#}
+<ls>ŚĀK. 32,2.</ls> {#vihvalAkula#}
+<ls>VID. 29.</ls>
 <div n="1">— 2)
 [Page1-0589]
-<lex>n.</lex> {%eine mit Menschen angefüllte, eine bewohnte Gegend%}: {#rahitezvAkulezu ca#} 
-<ls>R. 3, 43, 34.</ls> — Wird von {#kul#} abgeleitet, scheint uns aber eher von {#kar, kirati#} mit {#A#} abzustammen. 
+<lex>n.</lex> {%eine mit Menschen angefüllte, eine bewohnte Gegend%}: {#rahitezvAkulezu ca#}
+<ls>R. 3,43,34.</ls> — Wird von {#kul#} abgeleitet, scheint uns aber eher von {#kar, kirati#} mit {#A#} abzustammen.
 <div n="v">— Vgl. {#paryAkula, vyAkula, saMkula, samAkula#} .
 <LEND>

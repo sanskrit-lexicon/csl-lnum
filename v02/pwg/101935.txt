@@ -1,24 +1,24 @@
 <L>101935<pc>7-0395<k1>SrEzWya<k2>SrE/zWya
-{#SrE/zWya#}¦ (von {#SrezWa#}) <lex>n.</lex> {%Vorrang, die erste Stelle%}: {#sa\jA\tAnA^m#} 
-<ls>AV. 1, 9, 3. 10, 6, 31.</ls> 
-<ls>AIT. BR. 4, 25. 7, 18.</ls> 
-<ls>TS. 2, 4, 5, 2. 5, 6, 7, 3.</ls> 
-<ls>TBR. 3, 8, 9, 1.</ls> {#BUtAnAM SrEzWyaM paryEt#} 
-<ls>ŚAT. BR. 13, 7, 1, 1. 14, 8, 14, 2.</ls> 
-<ls>KAUŚ. 89.</ls> {#°kAma#} 
-<ls>ĀŚV. ŚR. 10, 3, 22.</ls> 
-<ls>CHĀND. UP. 5, 2, 6.</ls> 
-<ls>KAUṢ. UP. 2, 6. 4, 15. 20.</ls> 
-<ls>M. 1, 100. 12, 38.</ls> 
-<ls>YĀJÑ. 1, 264.</ls> 
-<ls>MBH. 2, 596. 5, 821.</ls> 
-<ls>Spr. (II) 1201.</ls> 
-<ls>BHĀG. P. 10, 74, 19.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>S. 10.</ls> {#prakfti°#} 
-<ls>M. 10, 3.</ls> {#varRa°#} 
-<ls>MBH. 7, 156.</ls> {#kAraRa°#} (so ed. Bomb.) 
-<ls>12, 11039.</ls> {#jYAti°#} {%unter den Blutsverwandten%} 
-<ls>YĀJÑ. 1, 262.</ls> 
-<ls>MBH. 13, 5057.</ls> {#svajana°#} 
-<ls>MĀRK. P. 33, 10.</ls>
+{#SrE/zWya#}¦ (von {#SrezWa#}) <lex>n.</lex> {%Vorrang, die erste Stelle%}: {#sa\jA\tAnA^m#}
+<ls>AV. 1,9,3.</ls> <ls n="AV.">10,6,31.</ls>
+<ls>AIT. BR. 4,25.</ls> <ls n="AIT. BR.">7,18.</ls>
+<ls>TS. 2,4,5,2.</ls> <ls n="TS.">5,6,7,3.</ls>
+<ls>TBR. 3,8,9,1.</ls> {#BUtAnAM SrEzWyaM paryEt#}
+<ls>ŚAT. BR. 13,7,1,1.</ls> <ls n="ŚAT. BR.">14,8,14,2.</ls>
+<ls>KAUŚ. 89.</ls> {#°kAma#}
+<ls>ĀŚV. ŚR. 10,3,22.</ls>
+<ls>CHĀND. UP. 5,2,6.</ls>
+<ls>KAUṢ. UP. 2,6. 4,15. 20.</ls>
+<ls>M. 1,100.</ls> <ls n="M.">12,38.</ls>
+<ls>YĀJÑ. 1,264.</ls>
+<ls>MBH. 2,596.</ls> <ls n="MBH.">5,821.</ls>
+<ls>Spr. (II) 1201.</ls>
+<ls>BHĀG. P. 10,74,19.</ls>
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 10.</ls> {#prakfti°#}
+<ls>M. 10,3.</ls> {#varRa°#}
+<ls>MBH. 7,156.</ls> {#kAraRa°#} (so <ls>ed. Bomb.</ls>)
+<ls n="MBH.">12,11039.</ls> {#jYAti°#} {%unter den Blutsverwandten%}
+<ls>YĀJÑ. 1,262.</ls>
+<ls>MBH. 13,5057.</ls> {#svajana°#}
+<ls>MĀRK. P. 33,10.</ls>
 <LEND>

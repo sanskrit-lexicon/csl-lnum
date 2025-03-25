@@ -1,41 +1,41 @@
 <L>22392<pc>705<k1>that<k2>that
-<div n="lb"/>{@THAT:@}¦ <div n="I">I Demonstrative pronoun: {#tad,#} <div n="xe">{%t.%}
-<div n="lb"/>{%object:%}</div> <div n="xs">{#so'rTaH,#}</div> D. iii.; <div n="xe">{%in t. season:%}</div> <div n="xs">{#tasmin #}
-<div n="lb"/>{# samaye,#}</div> R. xvi. 53.; <div n="xe">{%narrated all t.:%}</div> <div n="xs">{#tatsarvamAcaKyO,#}</div>
-<div n="lb"/>Mah.: v. Also this. Ph.: (a) {%t. is to say%}
-<div n="lb"/>{#......: ityarTaH, tasya yUno'pi vizayavErAgyAdiguRasampattyA #}
-<div n="lb"/>{# jYAnato vfdDatvamAsIdityarTaH,#} M.n. (N. B. Use......:
-<div n="lb"/>{#iti yAvat,#} when a full explanation is not
-<div n="lb"/>given, {#manIziRo viduzo dozajYasyEti yAvat,#} M. p.);
-<div n="lb"/>(b) t. is not expr., {%by object t. is by sound%}
-<div n="lb"/>{%etc.%} M.n. </div><div n="I">II Relative pronoun=who, [Page706]
-<div n="lb"/>which: q. v. </div><div n="I">III Conjunction, introduc-
-<div n="lb"/>-ing clauses or sentences as object of the
-<div n="lb"/>preceding verb.: </div><div n="1">(1) expr. with {#iti,#} <div n="xe">{%would%}
-<div n="lb"/>{%think t. they adore him out of fear:%}</div> <div n="xs">{#maMsyati #}
-<div n="lb"/>{# BayAdarcanti mAmiti,#}</div> Mah. v. 88. 3. (note the
-<div n="lb"/>use of direct speech); <div n="xe">{%t. he might allow the%}
-<div n="lb"/>{%race of Nimi......:%}</div> <div n="xs">{#diSyatAM kulamidaM nimeriti,#}</div> R.
-<div n="lb"/>xi. 49.; <div n="xe">{%we hear t. king has come to the Jana-%}
-<div n="lb"/>{%sthāna:%}</div> <div n="xs">{#SrUyate rAjA janasTAnamAgata iti,#}</div> U. iii. (N.B.
-<div n="lb"/>Sometimes {#iti#} is understood as t. in
-<div n="lb"/>English: {#“SrUyate tO mahAtmAnO naranArAyaRAvuBO . tapo #}
-<div n="lb"/>{# GoramanirdeSyaM tapyete ganDamAdane ..”,#} Mah. v. 96.
-<div n="lb"/>14.): </div><div n="1">(2) by acc. after trans. verbs, <div n="xe">{%know-%}
-<div n="lb"/>{%ing t. his end was born:%}</div> <div n="xs">{#jAnannapi jAtamantamAtmanaH,#}</div>
-<div n="lb"/>Si. i. 67.; <div n="xe">{%informed t. a golden shower had%}
-<div n="lb"/>{%fallen from heaven:%}</div> <div n="xs">{#hiraRmayIM vfzwiM SaSaMsuH patitAM #}
-<div n="lb"/>{# namastaH,#}</div> R. v. 29.; </div><div n="1">(3) with {#yaTA#} <div n="xe">{%or%}</div> <div n="xs">{#yat,#}</div>
-<div n="lb"/><div n="xe">{%Vaśisṭha said t. they would go and live in the%}
-<div n="lb"/>{%hermitage of Vālmīki:%}</div> <div n="xs">{#vaSizWasya vAcaH ‘yaTA vAlmIki-#}
-<div n="lb"/>{#tapovanaM gatvA tatra vatsyAma iti’,#}</div> U. ii.; <div n="xe">{%this is new%}
-<div n="lb"/>{%rule t. one repents after killing an enemy:%}</div> <div n="xs">{#ayaM #}
-<div n="lb"/>{# nUtano nyAyo yadarAtiM hatvA saMtApaH krIyate,#}</div> H. ii. Ph.:
-<div n="lb"/>{%granting t.%} expr. by: {#astu, stAm, santu.#} </div><div n="I">IV
-<div n="lb"/>Introducing reason etc.: (a) {%so t.:%} {#yaTA... #}
-<div n="lb"/>{# taTA,#} {%do so t. (he) hears from your messenger:%}
-<div n="lb"/>{#yaTA tava sandeSaharAcCfRoti taTA viDIyatAm,#} R. iii. 66.;
-<div n="lb"/>(b) {%in order t.:%} {#yaTA #} {#..taTA:#} v. also for (II),
-<div n="lb"/>to; (c) in t.= because: q. v. Ph.: {%oh%}
-<div n="lb"/>{%that:%} expr. with {#kaccit:#} v. To wish.</div>
+{@THAT:@}¦ <div n="I">I Demonstrative pronoun: {#tad,#} <div n="xe">{%t.%}
+{%object:%}</div> <div n="xs">{#so'rTaH,#}</div> D. iii.; <div n="xe">{%in t. season:%}</div> <div n="xs">{#tasmin #}
+{# samaye,#}</div> R. xvi. 53.; <div n="xe">{%narrated all t.:%}</div> <div n="xs">{#tatsarvamAcaKyO,#}</div>
+Mah.: v. Also this. Ph.: (a) {%t. is to say%}
+{#......: ityarTaH, tasya yUno'pi vizayavErAgyAdiguRasampattyA #}
+{# jYAnato vfdDatvamAsIdityarTaH,#} M.n. (N. B. Use......:
+{#iti yAvat,#} when a full explanation is not
+given, {#manIziRo viduzo dozajYasyEti yAvat,#} M. p.);
+(b) t. is not expr., {%by object t. is by sound%}
+{%etc.%} M.n. </div><div n="I">II Relative pronoun=who, [Page706]
+which: q. v. </div><div n="I">III Conjunction, introduc-
+-ing clauses or sentences as object of the
+preceding verb.: </div><div n="1">(1) expr. with {#iti,#} <div n="xe">{%would%}
+{%think t. they adore him out of fear:%}</div> <div n="xs">{#maMsyati #}
+{# BayAdarcanti mAmiti,#}</div> Mah. v. 88. 3. (note the
+use of direct speech); <div n="xe">{%t. he might allow the%}
+{%race of Nimi......:%}</div> <div n="xs">{#diSyatAM kulamidaM nimeriti,#}</div> R.
+xi. 49.; <div n="xe">{%we hear t. king has come to the Jana-%}
+{%sthāna:%}</div> <div n="xs">{#SrUyate rAjA janasTAnamAgata iti,#}</div> U. iii. (N.B.
+Sometimes {#iti#} is understood as t. in
+English: {#“SrUyate tO mahAtmAnO naranArAyaRAvuBO . tapo #}
+{# GoramanirdeSyaM tapyete ganDamAdane ..”,#} Mah. v. 96.
+14.): </div><div n="1">(2) by acc. after trans. verbs, <div n="xe">{%know-%}
+{%ing t. his end was born:%}</div> <div n="xs">{#jAnannapi jAtamantamAtmanaH,#}</div>
+Si. i. 67.; <div n="xe">{%informed t. a golden shower had%}
+{%fallen from heaven:%}</div> <div n="xs">{#hiraRmayIM vfzwiM SaSaMsuH patitAM #}
+{# namastaH,#}</div> R. v. 29.; </div><div n="1">(3) with {#yaTA#} <div n="xe">{%or%}</div> <div n="xs">{#yat,#}</div>
+<div n="xe">{%Vaśisṭha said t. they would go and live in the%}
+{%hermitage of Vālmīki:%}</div> <div n="xs">{#vaSizWasya vAcaH ‘yaTA vAlmIki-#}
+{#tapovanaM gatvA tatra vatsyAma iti’,#}</div> U. ii.; <div n="xe">{%this is new%}
+{%rule t. one repents after killing an enemy:%}</div> <div n="xs">{#ayaM #}
+{# nUtano nyAyo yadarAtiM hatvA saMtApaH krIyate,#}</div> H. ii. Ph.:
+{%granting t.%} expr. by: {#astu, stAm, santu.#} </div><div n="I">IV
+Introducing reason etc.: (a) {%so t.:%} {#yaTA... #}
+{# taTA,#} {%do so t. (he) hears from your messenger:%}
+{#yaTA tava sandeSaharAcCfRoti taTA viDIyatAm,#} R. iii. 66.;
+(b) {%in order t.:%} {#yaTA #} {#..taTA:#} v. also for (II),
+to; (c) in t.= because: q. v. Ph.: {%oh%}
+{%that:%} expr. with {#kaccit:#} v. To wish.</div>
 <LEND>

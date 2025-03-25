@@ -1,54 +1,53 @@
 <L>19280<pc>2-0443<k1>kowi<k2>ko/wi
 {#ko/wi#}¦ (
-<ls>Uṇ. 4, 119</ls>) und {#kowI#} (von 1. {#kuw#}) <lex>f.</lex> 
-<div n="1"> 1) {%das gekrümmte Ende des Bogens, der Krallen u.s.w.; äusserste Spitze%} überh. 
-<ls>AK. 2, 8, 2, 61. 3, 4, 14, 70. 9, 40.</ls> 
-<ls>H. 1013.</ls> 
-<ls>an. 2, 86.</ls> 
-<ls>MED. ṭ. 9.</ls> {#DanuzkowyA#} 
-<ls>MBH. 1, 195. 1675. 3, 1598. 11701.</ls> 
-<ls>BENF. Chr. 29, 27.</ls> 
-<ls>PAÑCAT. 120, 23. 121, 1. 2.</ls> 
-<ls>RAGH. 11, 81.</ls> 
-<ls>BHĀG. P. 1, 18, 30.</ls> {#unnatakowirinduH#} ({%Hörner des Mondes%}) 
-<ls>MṚCCH. 44, 22.</ls> 
-<ls>ŚĀK. CH. 62, 8.</ls> 
-<ls>KUMĀRAS. 2, 26.</ls> {#SyenanaKAgrakowi#} 
-<ls>RAGH. 7, 43.</ls> 
-<ls>PRAB. 67, 2.</ls> {#SAKA navANkurakowayaH#} 
-<ls>BHARTṚ. 1, 33.</ls> {#tfRakowi#} 
-<ls>MĀRK. P. 24, 7.</ls> {#tato mAM laGukAzWADirUQaM dantEruBayato gfhItakowiviBAgaM tatra sarasi ninayatam#} 
-<ls>PAÑCAT. 76, 19.</ls> {#karparakowyA pAwitalalAwaH#} 
-<ls>217, 22.</ls> {#aNgadakowi#} 
-<ls>RAGH. 6, 14.</ls> {#SitakowinA kuliSena#} 
-<ls>9, 12.</ls> {#sitadantakowyA#} 
-<ls>BHĀG. P. 3, 13, 32.</ls> {#stanakowi#} 
-<ls>RAGH. 8, 36.</ls> {#KawvANgakowO#} 
-<ls>ŚĀNTIŚ. 1, 27.</ls> 
-<div n="1">— 2) {%äusserste Spitze, der höchste Grad%}, = {#utkarza, prakarza#} 
-<ls>AK. 3, 4, 9, 40.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {#pramARakowyAM (?) viSvastaM taTA suptaM vfkodaram#} 
-<ls>MBH. 3, 542. 1, 2241.</ls> {#(mitre) paramasnehakowimASrite#} 
-<ls>PAÑCAT. 76, 8.</ls> 
-<div n="1">— 3) {#kowidvaya#} {%die zwei Endpunkte, die zwei Alternativen%}: {#kAryamakAryaM ceti kowidvayam#} 
-<ls>Sch.</ls> zu <ls>KAP. 1, 134.</ls> 
-<div n="1">— 4) {%die äusserste Zahl im ältern Zahlensystem%} (vgl. 
-<ls>ALBYROUNY</ls> bei <ls>REINAUD, Mém. sur l'Inde</ls> 
-<ls>302</ls>), {%zehn Millionen%} 
-<ls>AK.3,6,3,24.</ls> <ls>TRIK.3,3,93.</ls> <ls>H. 873.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>SIDDH. K. 250,b,11.</ls> {#SataM SatasahasrARAM kowimAhurmanIziRaH#} 
-<ls>R. 6, 4, 56.</ls> {#yonikowisahasrezu#} 
-<ls>M. 6, 63.</ls> 
-<ls>YĀJAÑ. 3, 103.</ls> <ls>MBH. 3, 5063. 13, 2677. 14, 2663.</ls> <ls>ARJ. 5, 11.</ls> <ls>N.</ls> <ls>?(BOPP) 20, 10. R. 1, 13, 52. 45, 34. 4, 37, 24. 25. VIŚV. 3, 11. 20. PAÑCAT. III, 186. RAGH. 12, 82. RĀJA-TAR. 4, 189. LALIT. 13. 67. H. 58. 127. 129.</ls> {#kowihoma#} 
-<ls>GṚHYASAṂGR. 1, 8.</ls> 
-<ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 91 (31).</ls> <ls>BHAVIṢYOTT. P. ebend. 136 (138).</ls> 
-<div n="1">— 5) {%the complement of an arc to 90°.%} 
-<div n="1">— 6) {%the side of a right angled triangle%} 
-<ls>KĀLAS. 361</ls> bei 
-<ls>HAUGHTON.</ls> 
-<div n="1">— 7) N. einer Pflanze (s. {#kowivarzA#}) 
-<ls>AK. 2, 4, 4, 21,</ls> 
-<ls>Sch.</ls> 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
+<ls>Uṇ. 4,119</ls>) und {#kowI#} (von 1. {#kuw#}) <lex>f.</lex>
+<div n="1"> 1) {%das gekrümmte Ende des Bogens, der Krallen u.s.w.; äusserste Spitze%} überh.
+<ls>AK. 2,8,2,61.</ls> <ls n="AK.">3,4,14,70.</ls> <ls n="AK. 3,4,">9,40.</ls>
+<ls>H. 1013.</ls>
+<ls>an. 2,86.</ls>
+<ls>MED. ṭ. 9.</ls> {#DanuzkowyA#}
+<ls>MBH. 1,195.</ls> <ls n="MBH. 1,">1675.</ls> <ls n="MBH.">3,1598.</ls> <ls n="MBH. 3,">11701.</ls>
+<ls>BENF. Chr. 29,27.</ls>
+<ls>PAÑCAT. 120,23. 121,1. 2.</ls>
+<ls>RAGH. 11,81.</ls>
+<ls>BHĀG. P. 1,18,30.</ls> {#unnatakowirinduH#} ({%Hörner des Mondes%})
+<ls>MṚCCH. 44,22.</ls>
+<ls>ŚĀK. CH. 62,8.</ls>
+<ls>KUMĀRAS. 2,26.</ls> {#SyenanaKAgrakowi#}
+<ls>RAGH. 7,43.</ls>
+<ls>PRAB. 67,2.</ls> {#SAKA navANkurakowayaH#}
+<ls>BHARTṚ. 1,33.</ls> {#tfRakowi#}
+<ls>MĀRK. P. 24,7.</ls> {#tato mAM laGukAzWADirUQaM dantEruBayato gfhItakowiviBAgaM tatra sarasi ninayatam#}
+<ls>PAÑCAT. 76,19.</ls> {#karparakowyA pAwitalalAwaH#}
+<ls n="PAÑCAT.">217,22.</ls> {#aNgadakowi#}
+<ls>RAGH. 6,14.</ls> {#SitakowinA kuliSena#}
+<ls n="RAGH.">9,12.</ls> {#sitadantakowyA#}
+<ls>BHĀG. P. 3,13,32.</ls> {#stanakowi#}
+<ls>RAGH. 8,36.</ls> {#KawvANgakowO#}
+<ls>ŚĀNTIŚ. 1,27.</ls>
+<div n="1">— 2) {%äusserste Spitze, der höchste Grad%}, = {#utkarza, prakarza#}
+<ls>AK. 3,4,9,40.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {#pramARakowyAM (?) viSvastaM taTA suptaM vfkodaram#}
+<ls>MBH. 3,542.</ls> <ls n="MBH.">1,2241.</ls> {#(mitre) paramasnehakowimASrite#}
+<ls>PAÑCAT. 76,8.</ls>
+<div n="1">— 3) {#kowidvaya#} {%die zwei Endpunkte, die zwei Alternativen%}: {#kAryamakAryaM ceti kowidvayam#}
+<ls>Sch.</ls> zu <ls>KAP. 1,134.</ls>
+<div n="1">— 4) {%die äusserste Zahl im ältern Zahlensystem%}
+(vgl. <ls>ALBYROUNY</ls> bei <ls>REINAUD, Mém. sur l'Inde 302</ls>),
+{%zehn Millionen%}
+<ls>AK. 3,6,3,24.</ls> <ls>TRIK. 3,3,93.</ls> <ls>H. 873.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>SIDDH. K. 250,b,11.</ls> {#SataM SatasahasrARAM kowimAhurmanIziRaH#}
+<ls>R. 6,4,56.</ls> {#yonikowisahasrezu#}
+<ls>M. 6,63.</ls>
+<ls>YĀJAÑ. 3,103.</ls> <ls>MBH. 3,5063.</ls> <ls n="MBH.">13,2677.</ls> <ls n="MBH.">14,2663.</ls> <ls>ARJ. 5,11. N. (BOPP) 20,10.</ls> <ls>R. 1,13,52.</ls> <ls n="R. 1,">45,34.</ls> <ls n="R.">4,37,24.</ls> <ls n="R. 4,37,">25.</ls> <ls>VIŚV. 3,11. 20.</ls> <ls>PAÑCAT. III,186.</ls> <ls>RAGH. 12,82.</ls> <ls>RĀJA-TAR. 4,189.</ls> <ls>LALIT. 13. 67.</ls> <ls>H. 58.</ls> <ls n="H.">127.</ls> <ls n="H.">129.</ls> {#kowihoma#}
+<ls>GṚHYASAṂGR. 1,8.</ls>
+<ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 91 (31).</ls> <ls>BHAVIṢYOTT. P. ebend. 136 (138).</ls>
+<div n="1">— 5) {%the complement of an arc to 90°.%}
+<div n="1">— 6) {%the side of a right angled triangle%}
+<ls>KĀLAS. 361</ls> bei
+<ls>HAUGHTON.</ls>
+<div n="1">— 7) N. einer Pflanze (s. {#kowivarzA#})
+<ls>AK. 2,4,4,21</ls>, <ls>Sch.</ls>
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
 <div n="v">— Vgl. {#kAlakowi, tulAkowi#} .
 <LEND>

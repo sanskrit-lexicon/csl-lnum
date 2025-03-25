@@ -1,9 +1,9 @@
 <L>3796<pc>124<k1>clearness<k2>clearness
-<div n="lb"/>{@CLEARNESS:@}¦ <div n="I">I Trasparency, brightness:</div>
-<div n="lb"/><div n="1">(1) {#prasAdaH#} <div n="xe">{%or%}</div> <div n="xs">{#prasannatA;#}</div> </div><div n="1">(2) {#vEmalyam;#} </div><div n="1">(3) {#vESadyam.#}</div>
-<div n="lb"/><div n="I">II Plainness, perspicuity: </div><div n="1">(1) {#vESadyam,#}
-<div n="lb"/><div n="xe">{%impressive on account of c.:%}</div> <div n="xs">{#vESadyahfdyaH#}</div> ({#dyA, dyaM#}),
-<div n="lb"/>N.; </div><div n="1">(2) {#vEmalyam,#} <div n="xe">{%perspicuity consists in c. of%}
-<div n="lb"/>{%meaning:%}</div> <div n="xs">{#arTavEmalyAtmA prasAdaH,#}</div> Kav.; </div><div n="1">(3) {#nirma-#}
-<div n="lb"/>{#latvam,#} S. Ph.: <div n="xe">{%with c. of voice:%}</div> <div n="xs">{#spazwavarRayA girA,#}</div> K.</div>
+{@CLEARNESS:@}¦ <div n="I">I Trasparency, brightness:</div>
+<div n="1">(1) {#prasAdaH#} <div n="xe">{%or%}</div> <div n="xs">{#prasannatA;#}</div> </div><div n="1">(2) {#vEmalyam;#} </div><div n="1">(3) {#vESadyam.#}</div>
+<div n="I">II Plainness, perspicuity: </div><div n="1">(1) {#vESadyam,#}
+<div n="xe">{%impressive on account of c.:%}</div> <div n="xs">{#vESadyahfdyaH#}</div> ({#dyA, dyaM#}),
+N.; </div><div n="1">(2) {#vEmalyam,#} <div n="xe">{%perspicuity consists in c. of%}
+{%meaning:%}</div> <div n="xs">{#arTavEmalyAtmA prasAdaH,#}</div> Kav.; </div><div n="1">(3) {#nirma-#}
+{#latvam,#} S. Ph.: <div n="xe">{%with c. of voice:%}</div> <div n="xs">{#spazwavarRayA girA,#}</div> K.</div>
 <LEND>

@@ -1,5 +1,5 @@
-<L>136988<pc>692,1<k1>pravid<k2>pra-vid<h>a<e>1
-<hom>a.</hom> <s>pra-</s>√ <hom>1.</hom> <s>vid</s> ¦ <ab>P.</ab> <s>-vetti</s>, to know, understand, <ls>RV.</ls>; <ls>AV.</ls>; <ls>MBh.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-vedayati</s>, <s>°te</s>, to make known, communicate, relate, <ls>TUp.</ls>; <ls>MBh.</ls>;
-<div n="to"/> (<ab>P.</ab>) to know or understand right, <ls>MuṇḍUp.</ls><info verb="pre" cp="P" parse="pra+vid"/>
+<L>136988<pc>692,1<k1>pravid<k2>pra-vid<e>1
+ <s>pra-</s>√ <hom>1.</hom> <s>vid</s> ¦ <ab>P.</ab> <s>-vetti</s>, to know, understand, <ls>RV.</ls>; <ls>AV.</ls>; <ls>MBh.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>-vedayati</s>, <s>°te</s>, to make known, communicate, relate, <ls>TUp.</ls>; <ls>MBh.</ls>;
+<div n="to"/> (<ab>P.</ab>) to know or understand right, <ls>MuṇḍUp.</ls><info verb="pre" cp="P" parse="pra+vid"/><info hui="a"/>
 <LEND>

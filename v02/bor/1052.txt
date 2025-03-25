@@ -1,5 +1,5 @@
 <L>1052<pc>037<k1>area<k2>area
-<div n="lb"/>{@AREA@}¦ <div n="I">I {%Outer a.%}: {#aNganam:#} v. Yard. </div><div n="I">II <div n="xe">{%Inner%}
-<div n="lb"/>{%a.%}</div> <div n="xs">{#prakozWaH.#}</div> </div><div n="I">III In geo. {#Palam,#} {%a. of a circle%}
-<div n="lb"/>{#vfttakzetraPalam;#} <div n="xe">{%a. of a triangle%}</div> <div n="xs">{#triBujaPalam,#}</div> Li.</div>
+{@AREA@}¦ <div n="I">I {%Outer a.%}: {#aNganam:#} v. Yard. </div><div n="I">II <div n="xe">{%Inner%}
+{%a.%}</div> <div n="xs">{#prakozWaH.#}</div> </div><div n="I">III In geo. {#Palam,#} {%a. of a circle%}
+{#vfttakzetraPalam;#} <div n="xe">{%a. of a triangle%}</div> <div n="xs">{#triBujaPalam,#}</div> Li.</div>
 <LEND>

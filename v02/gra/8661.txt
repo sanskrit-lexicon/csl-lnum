@@ -1,5 +1,5 @@
 <L>8661<pc>1379<k1>Sama<k2>Sa/ma
-{@śáma,@}¦ a., {%arbeitend, sich anstrengend%} [<ab>v.</ab> śam].
-<div n="P1">-am vṛṣabhám {33,14}.
-<div n="P1">-asya śṛṅgíṇas {32,15}.
-<LEND>
+{@śáma,@}¦ <ab>a.</ab>, {%arbeitend, sich anstrengend%} [<ab>v.</ab> śam].
+<div n="TS">-am vṛṣabhám <chg type="chg" n="242" src="gra"><old>{33,14}</old><new>{33,15}</new></chg>.
+<div n="TS">-asya śṛṅgíṇas {32,15}.
+<LEND> [Page1380]

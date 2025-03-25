@@ -1,5 +1,5 @@
 <L>8041<pc>185-a<k1>disadvantage<k2>disadvantage
-<div n="lb"/>DISADVANTAGE¦, {%s.%} {#anarTaH, alABaH, ahitaM, anizwaM, aPalaM, apAyaH,#}
-<div n="lb"/>{#apacayaH, apakAraH, apacitiH#} {%f.,%} {#apakftaM, aprAptiH#} {%f.,%} {#kzatiH#} {%f.,%} {#hAniH#} {%f.,%}
-<div n="lb"/>{#hiMsA, kzayaH, upakzayaH, apahAraH, nASaH, viroDaH, vyAGAtaH, bADaH, anupakAraH#}.
+DISADVANTAGE¦, {%s.%} {#anarTaH, alABaH, ahitaM, anizwaM, aPalaM, apAyaH,#}
+{#apacayaH, apakAraH, apacitiH#} {%f.,%} {#apakftaM, aprAptiH#} {%f.,%} {#kzatiH#} {%f.,%} {#hAniH#} {%f.,%}
+{#hiMsA, kzayaH, upakzayaH, apahAraH, nASaH, viroDaH, vyAGAtaH, bADaH, anupakAraH#}.
 <LEND>

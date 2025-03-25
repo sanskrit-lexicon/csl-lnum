@@ -1,5 +1,5 @@
 <L>134636<pc>679,2<k1>pradah<k2>pra-dah<e>1
-<s>pra-√ dah</s> ¦ <ab>P.</ab> <s>-dahati</s> (<ab>ep.</ab> also <ab>Ā.</ab> <s>°te</s>), to burn, consume, destroy, <ls>AV.</ls> &c. &c.:
-<div n="to"/><ab>Pass.</ab> <s>-dahyate</s> (<ab>ep.</ab> also <s>°ti</s>), to take fire, be burnt, burn, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
-<div n="to"/><ab>Caus.</ab> <s>-dAhayati</s>, to cause to be burnt, <ls>Vcar.</ls><info verb="pre" cp="PĀ" parse="pra+dah"/>
+<s>pra-√ dah</s> ¦ <ab>P.</ab> <s>-dahati</s> (<lang>ep.</lang> also <ab>Ā.</ab> <s>°te</s>), to burn, consume, destroy, <ls>AV.</ls> &c. &c.:
+<div n="vp"/><ab>Pass.</ab> <s>-dahyate</s> (<lang>ep.</lang> also <s>°ti</s>), to take fire, be burnt, burn, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
+<div n="vp"/><ab>Caus.</ab> <s>-dAhayati</s>, to cause to be burnt, <ls>Vcar.</ls><info verb="pre" cp="PĀ" parse="pra+dah"/>
 <LEND>

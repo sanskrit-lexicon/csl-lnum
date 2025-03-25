@@ -1,15 +1,15 @@
 <L>92992<pc>6-1170<k1>vilokana<k2>vilokana
-{#vilokana#}¦ (von {#lok#} mit {#vi#}) <lex>n.</lex> {%das Hinschauen, Hinsehen, Schauen, Blick%} 
-<ls>SUŚR. 2, 314, 17.</ls> 
-<ls>SĀH. D. 186.</ls> 
-<ls>Spr. 5149.</ls> 
-<ls>MĀLATĪM. 68, 5.</ls> <ls>MĀRK. P. 68, 46.</ls> {#utPullalocana°#} 
-<ls>Verz. d. Oxf. H. 161,a,6 v. u.</ls> <ls>ŚIŚ.1,29.</ls> {#adaBrakaruRa#} 
-<ls>BHĀG. P. 4, 1, 56.</ls> {%das Anschauen, Anblicken, Betrachten%}: {#anyo'nyamavitfptO vilokane#} 
-<ls>KATHĀS. 18, 371.</ls> {#divyAnyo'nyavapurvilokana#} 
-<ls>52, 407.</ls> <ls>Spr. 1572. 5400.</ls> {%das Einsehen, Studiren%} (eines Werkes) 
-<ls>Verz. d. Oxf. H. 37,b, No. 92.</ls> {%das Erblicken, Gewahrwerden%}: {#sarvaloka°#} 
-<ls>PAÑCAR. 1, 11, 22.</ls> <ls>KIR. 5, 16.</ls> <ls>KATHĀS. 25, 298. 26, 39.</ls> {#kAryAkArya°#} 
-<ls>Spr. 2035.</ls> 
+{#vilokana#}¦ (von {#lok#} mit {#vi#}) <lex>n.</lex> {%das Hinschauen, Hinsehen, Schauen, Blick%}
+<ls>SUŚR. 2,314,17.</ls>
+<ls>SĀH. D. 186.</ls>
+<ls>Spr. 5149.</ls>
+<ls>MĀLATĪM. 68,5.</ls> <ls>MĀRK. P. 68,46.</ls> {#utPullalocana°#}
+<ls>Verz. d. Oxf. H. 161,a,6</ls> v. u. <ls>ŚIŚ. 1,29.</ls> {#adaBrakaruRa#}
+<ls>BHĀG. P. 4,1,56.</ls> {%das Anschauen, Anblicken, Betrachten%}: {#anyo'nyamavitfptO vilokane#}
+<ls>KATHĀS. 18,371.</ls> {#divyAnyo'nyavapurvilokana#}
+<ls n="KATHĀS.">52,407.</ls> <ls>Spr. 1572.</ls> <ls n="Spr.">5400.</ls> {%das Einsehen, Studiren%} (eines Werkes)
+<ls>Verz. d. Oxf. H. 37,b, No. 92.</ls> {%das Erblicken, Gewahrwerden%}: {#sarvaloka°#}
+<ls>PAÑCAR. 1,11,22.</ls> <ls>KIR. 5,16.</ls> <ls>KATHĀS. 25,298.</ls> <ls n="KATHĀS.">26,39.</ls> {#kAryAkArya°#}
+<ls>Spr. 2035.</ls>
 <div n="v">— Vgl. {#digvilokana#} .
 <LEND>

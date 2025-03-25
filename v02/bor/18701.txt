@@ -1,5 +1,5 @@
 <L>18701<pc>576<k1>receptacle<k2>receptacle
-<div n="lb"/>{@RECEPTACLE:@}¦ <div n="1">(1) {#ADAraH;#} </div><div n="1">(2) {#niDAnam#} <div n="xe">{%or%}</div> <div n="xs">{#niDiH#}</div>
-<div n="lb"/>(in fig. senses); </div><div n="1">(3) {#BAjanam#} (= vessel); </div><div n="1">(4)
-<div n="lb"/>{#ASrayaH#} (= refuge).</div>
+{@RECEPTACLE:@}¦ <div n="1">(1) {#ADAraH;#} </div><div n="1">(2) {#niDAnam#} <div n="xe">{%or%}</div> <div n="xs">{#niDiH#}</div>
+(in fig. senses); </div><div n="1">(3) {#BAjanam#} (= vessel); </div><div n="1">(4)
+{#ASrayaH#} (= refuge).</div>
 <LEND>

@@ -1,12 +1,12 @@
 <L>8156<pc>352<k1>pot<k2>pot
 {@Pot,@}¦ {%s.%} {#GawaH, kalasaH-SaH, kuMBaH, pAtraM, BAjanaM,#}
-<div n="lb"/>{#BAMqaM;#} ‘cooking-p.’ {#sTAlI, uKA, pizwa-#}
-<div n="lb"/>{#-pacanaM, fjIzaM, piWaraH;#} ‘p.-bellied’ {#tuMdila,#}
-<div n="lb"/>{#laMbodara, piciMqila, tuMdin;#} ‘p.-belly’
-<div n="lb"/>{#piciMqaH, laMbodaraM;#} ‘p.-companion’ {#pAna-#}
-<div n="lb"/>{#-mitraM-suhfd, sahapAyin#} {%m,%} ‘p.-house’ {#SuMqA,#}
-<div n="lb"/>{#pAnaM;#} ‘p.-sherd’ {#GawaSakalaM, BinnapAtraM#}.
-<div n="lb"/>{@-ter,@} {%s.%} {#kuMBakAraH, kulAlaH, GawakAraH, ca-#}
-<div n="lb"/>{#-krin#} {%m.%} {@-tery,@} {%s.%} {#kuMBa-Gawa-sTAnaM#}. {@2@} {#kO-#}
-<div n="lb"/>{#-lAlakaM, mArtikaM, mfdBAMqAni#}.
+{#BAMqaM;#} ‘cooking-p.’ {#sTAlI, uKA, pizwa-#}
+{#-pacanaM, fjIzaM, piWaraH;#} ‘p.-bellied’ {#tuMdila,#}
+{#laMbodara, piciMqila, tuMdin;#} ‘p.-belly’
+{#piciMqaH, laMbodaraM;#} ‘p.-companion’ {#pAna-#}
+{#-mitraM-suhfd, sahapAyin#} {%m,%} ‘p.-house’ {#SuMqA,#}
+{#pAnaM;#} ‘p.-sherd’ {#GawaSakalaM, BinnapAtraM#}.
+{@-ter,@} {%s.%} {#kuMBakAraH, kulAlaH, GawakAraH, ca-#}
+{#-krin#} {%m.%} {@-tery,@} {%s.%} {#kuMBa-Gawa-sTAnaM#}. {@2@} {#kO-#}
+{#-lAlakaM, mArtikaM, mfdBAMqAni#}.
 <LEND>

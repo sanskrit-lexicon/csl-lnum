@@ -1,18 +1,18 @@
 <L>11767<pc>1-0950<k1>upajIvin<k2>upajIvin
-{#upajIvin#}¦ (von {#jIv#} mit {#upa#}) <lex>adj.</lex> 
-<div n="1"> 1) {%lebend von, seinen Lebensunterhalt findend in%}; mit dem acc.: {#bARijyamupajIvinaH#} 
-<ls>MBH. 3, 12851.</ls> mit dem gen.: {#anyo'nyasyopajIvinaH#} 
-<ls>14, 1108.</ls> meist am Ende eines comp.: {#piRqamAtropa°#} 
-<ls>YĀJÑ. 1, 70.</ls> {#nAnApaRyopa°#} 
-<ls>M. 9, 257.</ls> {#Sastropa°#} 
-<ls>R. 2, 83, 12.</ls> {#ganDopa°#} 
-<ls>14.</ls> {#ratnopa°#} 
-<ls>3, 39, 21.</ls> {#DAnyopa°#} 
-<ls>4, 58, 29.</ls> {#mAyopa°#} 
-<ls>PAÑCAT. I, 320. 196, 19.</ls> <ls>HIT. I, 22.</ls> <ls>ŚĀK. CH. 136, 11.</ls> <ls>KATHĀS. 21, 115. 24, 199.</ls> {#jAtimAtropa°#} {%der sich nur auf seine Geburt berufen kann%} 
-<ls>M. 8, 20. 12, 114.</ls> Vgl. {#AtmopajIvin#} . 
-<div n="1">— 2) ohne Ergänzung: {%von einem Andern seinen Lebensunterhalt beziehend, in Abhängigkeit lebend, der für seinen Lebensunterhalt zu sorgen hat, ein Untergebener%} 
-<ls>MBH. 1, 3472. 13, 1810.</ls> 
-<ls>R. 2, 31, 36. 32, 26. 54, 7.</ls> {#sacivErupajIviBiH#} 
-<ls>6, 5, 4.</ls> <ls>RAGH. 1, 16.</ls>
+{#upajIvin#}¦ (von {#jIv#} mit {#upa#}) <lex>adj.</lex>
+<div n="1"> 1) {%lebend von, seinen Lebensunterhalt findend in%}; mit dem acc.: {#bARijyamupajIvinaH#}
+<ls>MBH. 3,12851.</ls> mit dem gen.: {#anyo'nyasyopajIvinaH#}
+<ls n="MBH.">14,1108.</ls> meist am Ende eines comp.: {#piRqamAtropa°#}
+<ls>YĀJÑ. 1,70.</ls> {#nAnApaRyopa°#}
+<ls>M. 9,257.</ls> {#Sastropa°#}
+<ls>R. 2,83,12.</ls> {#ganDopa°#}
+<ls n="R. 2,83,">14.</ls> {#ratnopa°#}
+<ls n="R.">3,39,21.</ls> {#DAnyopa°#}
+<ls n="R.">4,58,29.</ls> {#mAyopa°#}
+<ls>PAÑCAT. I,320. 196,19.</ls> <ls>HIT. I,22.</ls> <ls>ŚĀK. CH. 136,11.</ls> <ls>KATHĀS. 21,115.</ls> <ls n="KATHĀS.">24,199.</ls> {#jAtimAtropa°#} {%der sich nur auf seine Geburt berufen kann%}
+<ls>M. 8,20.</ls> <ls n="M.">12,114.</ls> Vgl. {#AtmopajIvin#} .
+<div n="1">— 2) ohne Ergänzung: {%von einem Andern seinen Lebensunterhalt beziehend, in Abhängigkeit lebend, der für seinen Lebensunterhalt zu sorgen hat, ein Untergebener%}
+<ls>MBH. 1,3472.</ls> <ls n="MBH.">13,1810.</ls>
+<ls>R. 2,31,36.</ls> <ls n="R. 2,">32,26.</ls> <ls n="R. 2,">54,7.</ls> {#sacivErupajIviBiH#}
+<ls n="R.">6,5,4.</ls> <ls>RAGH. 1,16.</ls>
 <LEND>

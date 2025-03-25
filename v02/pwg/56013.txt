@@ -1,14 +1,13 @@
 <L>56013<pc>5-0408<k1>BrAjizRu<k2>BrAjizRu/
-{#BrAjizRu/#}¦ (von 1. {#BrAj)#} <lex>adj.</lex> {%glänzend, strahlend%} 
-<ls>P. 3, 2, 138,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 26, 142.</ls> 
-<ls>AK. 2, 6, 3, 2.</ls> {#lohitacandana#} 
-<ls>P.</ls>, <ls>Sch.</ls> {#saBA#} 
-<ls>MBH. 2, 313.</ls> {#kuRqala#} 
-<ls>3, 16487. 15, 882.</ls> {#Aditya#} 
-<ls>18, 5. 4, 600. 7, 4698. 12, 6155.</ls> <ls>SUŚR. 2, 316, 17.</ls> <ls>RAGH. 16, 69.</ls> <ls>BHĀG. P. 2, 9, 12. 3, 23, 41. 4, 9, 20.</ls> <is>Viṣṇu</is> 
-<ls>MBH. 13, 6965.</ls> 
-<ls>HARIV. 2503. <is>Śiva</is></ls> 
+{#BrAjizRu/#}¦ (von 1. {#BrAj)#} <lex>adj.</lex> {%glänzend, strahlend%}
+<ls>P. 3,2,138</ls>, <ls>Sch.</ls>
+<ls>VOP. 26,142.</ls>
+<ls>AK. 2,6,3,2.</ls> {#lohitacandana#}
+<ls>P.</ls>, <ls>Sch.</ls> {#saBA#}
+<ls>MBH. 2,313.</ls> {#kuRqala#}
+<ls n="MBH.">3,16487.</ls> <ls n="MBH.">15,882.</ls> {#Aditya#}
+<ls n="MBH.">18,5.</ls> <ls n="MBH.">4,600.</ls> <ls n="MBH.">7,4698.</ls> <ls n="MBH.">12,6155.</ls> <ls>SUŚR. 2,316,17.</ls> <ls>RAGH. 16,69.</ls> <ls>BHĀG. P. 2,9,12.</ls> <ls n="BHĀG. P.">3,23,41.</ls> <ls n="BHĀG. P.">4,9,20.</ls> <is>Viṣṇu</is>
+<ls>MBH. 13,6965.</ls>
+<ls>HARIV. 2503.</ls> <is>Śiva</is>
 <ls>ŚIV.</ls>
 <LEND>

@@ -1,6 +1,6 @@
 <L>22939<pc>607-b<k1>popularita<k2>popularita
-<div n="lb"/>POPULARITA¦, {%s.%} {#lokaprItiH#} {%f.,%} {#janaprItiH#} {%f.,%} {#lokapriyatA, sarvvalokaprItiH#} {%f.,%}
-<div n="lb"/>{#lokAnukUlya, lokAnukUlatA, janAnukUlyaM, janAnukUlatA, janapriyatA,#}
-<div n="lb"/>{#sarvvapriyatA, lokAnurAgaH, janAnurAgaH, lokaraYjanaM, lokasammAnaM, loka-#}
-<div n="lb"/>{#grAhyatA;#} ‘desire of it,’ {#lokaraYjanecCA, lokAnuraYjanEzA#}.
+POPULARITA¦, {%s.%} {#lokaprItiH#} {%f.,%} {#janaprItiH#} {%f.,%} {#lokapriyatA, sarvvalokaprItiH#} {%f.,%}
+{#lokAnukUlya, lokAnukUlatA, janAnukUlyaM, janAnukUlatA, janapriyatA,#}
+{#sarvvapriyatA, lokAnurAgaH, janAnurAgaH, lokaraYjanaM, lokasammAnaM, loka-#}
+{#grAhyatA;#} ‘desire of it,’ {#lokaraYjanecCA, lokAnuraYjanEzA#}.
 <LEND>

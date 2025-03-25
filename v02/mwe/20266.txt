@@ -1,10 +1,10 @@
 <L>20266<pc>529-b<k1>negation<k2>negation
-<div n="lb"/>NEGATION¦, {%s.%} {#nihnavaH, apahnavaH, nihnutiH#} {%f.,%} {#apahnutiH#} {%f.,%} {#apalApaH, pratyA-#}
-<div n="lb"/>{#KyAnaM, apavAdaH, asvIkAraH, nizeDaH, pratyAdeSaH#}. — (In logic) {#aBAvaH#}
-<div n="lb"/>according to one division it is of two kinds, ‘universal
-<div n="lb"/>negation,’ {#saMsargABAvaH;#} ‘relative or mutual negation,’
-<div n="lb"/>{#anyonyABAvaH;#} according to another division it is of four
-<div n="lb"/>kinds, viz. ‘extinction,’ {#praDvaMsABAvaH;#} ‘antecedent non-
-<div n="lb"/>existence,’ {#prAgaBAvaH;#} ‘reciprocal negation,’ {#anyonyABAvaH;#}
-<div n="lb"/>‘simple non-existence,’ {#atyantABAvaH#}.
+NEGATION¦, {%s.%} {#nihnavaH, apahnavaH, nihnutiH#} {%f.,%} {#apahnutiH#} {%f.,%} {#apalApaH, pratyA-#}
+{#KyAnaM, apavAdaH, asvIkAraH, nizeDaH, pratyAdeSaH#}. — (In logic) {#aBAvaH#}
+according to one division it is of two kinds, ‘universal
+negation,’ {#saMsargABAvaH;#} ‘relative or mutual negation,’
+{#anyonyABAvaH;#} according to another division it is of four
+kinds, viz. ‘extinction,’ {#praDvaMsABAvaH;#} ‘antecedent non-
+existence,’ {#prAgaBAvaH;#} ‘reciprocal negation,’ {#anyonyABAvaH;#}
+‘simple non-existence,’ {#atyantABAvaH#}.
 <LEND>

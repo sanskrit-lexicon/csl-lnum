@@ -1,27 +1,27 @@
 <L>31533<pc>844-a<k1>woman<k2>woman
-<div n="lb"/>WOMAN¦, {%s.%} {#strI, nArI, aNganA, vanitA, yozit#} {%f.,%} {#yozitA, yozA,#}
-<div n="lb"/>{#jozita#} {%f.,%} {#jozitA, jozA, narI, mAnavI, mahilA, abalA, manuzI,#}
-<div n="lb"/>{#mAnuzI, kAminI, vAmA, vilAsinI, pramadA, mAninI, vaDUH#} {%f.,%} {#mahelA#}
-<div n="lb"/>{#-likA, mahIlA, lalanA, lalitA, ramaRI, rAmA, prakftiH#} {%f.,%} {#sIma-#}
-<div n="lb"/>{#ntinI, pratIpadarSinI, BaraRyA, parigfhyA;#} ‘a young woman,’ {#taruRI,#}
-<div n="lb"/>{#kanyA, bAlA, yuvatI, yUnI, navayOvanA;#} ‘assembly of young
-<div n="lb"/>women,’ {#yOvataM, yOvanaM;#} ‘an old woman,’ {#vfdDA, vfdDastrI, jaratI,#}
-<div n="lb"/>{#palitA, paliknI;#} ‘a woman of good family,’ {#kulastrI, kula-#}
-<div n="lb"/>{#nArI, kulANganA;#} ‘a beautiful woman,’ {#sundarI, pramadA, kAntA,#}
-<div n="lb"/>{#suBagA, nitambinI, vAmalocanA,#} ‘an excellent woman,’ {#varANganA,#}
-<div n="lb"/>{#varArohA, uttamA, varavarRinI, mattakASinI, mattakAsinI, strIratnaM;#}
-<div n="lb"/>‘a passionate woman,’ {#kopanA, BAminI;#} ‘virtuous woman,’
-<div n="lb"/>{#satI, sADvI, sucaritrA, kulastrI, kulapAlikA;#} ‘clever woman,’
-<div n="lb"/>[Page844-b+ 51]
-<div n="lb"/>{#saraKatI;#} ‘woman who has borne a child,’ {#pramUtA -tikA;#}
-<div n="lb"/>‘married woman,’ {#saBarttfkA, sanATA;#} ‘woman-killer,’ {#strIGA-#}
-<div n="lb"/>{#takaH;#} ‘woman-hater,’ {#strIdvezI#} {%m.%} The Hindūs divide
-<div n="lb"/>women into four classes, corresponding to the four classes
-<div n="lb"/>of men. These are, 1. {#padminI,#} comprising the most ex-
-<div n="lb"/>cellent women; 2. {#citriRI#} or {#hariRI#} or {#mfgI,#} comprising
-<div n="lb"/>well-educated, accomplished, and beautiful women; 3. {#SaNKi-#}
-<div n="lb"/>{#nI,#} comprising women who are tall, neither stout nor
-<div n="lb"/>thin, with long hair, irascible, and with strong passions;
-<div n="lb"/>4. {#hastinI,#} comprising women who are short, stout, with
-<div n="lb"/>curly hair and furious passions.
+WOMAN¦, {%s.%} {#strI, nArI, aNganA, vanitA, yozit#} {%f.,%} {#yozitA, yozA,#}
+{#jozita#} {%f.,%} {#jozitA, jozA, narI, mAnavI, mahilA, abalA, manuzI,#}
+{#mAnuzI, kAminI, vAmA, vilAsinI, pramadA, mAninI, vaDUH#} {%f.,%} {#mahelA#}
+{#-likA, mahIlA, lalanA, lalitA, ramaRI, rAmA, prakftiH#} {%f.,%} {#sIma-#}
+{#ntinI, pratIpadarSinI, BaraRyA, parigfhyA;#} ‘a young woman,’ {#taruRI,#}
+{#kanyA, bAlA, yuvatI, yUnI, navayOvanA;#} ‘assembly of young
+women,’ {#yOvataM, yOvanaM;#} ‘an old woman,’ {#vfdDA, vfdDastrI, jaratI,#}
+{#palitA, paliknI;#} ‘a woman of good family,’ {#kulastrI, kula-#}
+{#nArI, kulANganA;#} ‘a beautiful woman,’ {#sundarI, pramadA, kAntA,#}
+{#suBagA, nitambinI, vAmalocanA,#} ‘an excellent woman,’ {#varANganA,#}
+{#varArohA, uttamA, varavarRinI, mattakASinI, mattakAsinI, strIratnaM;#}
+‘a passionate woman,’ {#kopanA, BAminI;#} ‘virtuous woman,’
+{#satI, sADvI, sucaritrA, kulastrI, kulapAlikA;#} ‘clever woman,’
+[Page844-b+ 51]
+{#saraKatI;#} ‘woman who has borne a child,’ {#pramUtA -tikA;#}
+‘married woman,’ {#saBarttfkA, sanATA;#} ‘woman-killer,’ {#strIGA-#}
+{#takaH;#} ‘woman-hater,’ {#strIdvezI#} {%m.%} The Hindūs divide
+women into four classes, corresponding to the four classes
+of men. These are, 1. {#padminI,#} comprising the most ex-
+cellent women; 2. {#citriRI#} or {#hariRI#} or {#mfgI,#} comprising
+well-educated, accomplished, and beautiful women; 3. {#SaNKi-#}
+{#nI,#} comprising women who are tall, neither stout nor
+thin, with long hair, irascible, and with strong passions;
+4. {#hastinI,#} comprising women who are short, stout, with
+curly hair and furious passions.
 <LEND>

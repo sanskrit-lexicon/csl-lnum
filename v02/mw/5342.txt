@@ -1,3 +1,3 @@
-<L>5342<pc>27,1<k1>anavasyat<k2>a/n-avasyat<h>a<e>2
-<s>a/n-avasyat</s> <hom>a</hom> ¦ <lex>mfn.</lex> unceasing, <ls>RV. iv, 13, 3.</ls><info lexcat="LEXID=prap,STEM=an-ava-syat,ROOTCLASS=so-4"/>
+<L>5342<pc>27,1<k1>anavasyat<k2>a/n-avasyat<e>2
+<s>a/n-avasyat</s> ¦ <lex>mfn.</lex> unceasing, <ls>RV. iv, 13, 3.</ls><info lexcat="LEXID=prap,STEM=an-ava-syat,ROOTCLASS=so-4"/><info hui="a"/>
 <LEND>

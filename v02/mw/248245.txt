@@ -1,3 +1,3 @@
-<L>248245<pc>1230,3<k1>sumaDura<k2>su—maDura<h>a<e>3
-<s>su—maDura</s> <hom>a</hom> ¦ <lex>mfn.</lex> very sweet or tender or gentle (<s>am</s> <lex type="phw">ind.</lex>), <ls>MBh.</ls>; <ls>R.</ls> &c.<info phwchild="248248.1"/><info lex="m:f:n"/>
+<L>248245<pc>1230,3<k1>sumaDura<k2>su—maDura<e>3
+<s>su—maDura</s> ¦ <lex>mfn.</lex> very sweet or tender or gentle (<s>am</s> <lex type="phw">ind.</lex>), <ls>MBh.</ls>; <ls>R.</ls> &c.<info phwchild="248248.1"/><info lex="m:f:n"/><info hui="a"/>
 <LEND>

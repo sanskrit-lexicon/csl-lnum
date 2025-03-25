@@ -1,32 +1,32 @@
 <L>49170<pc>4-1021<k1>pradIpa<k2>pradIpa
-{#pradIpa#}¦ (von {#dIp#} mit {#pra#}) <lex>m.</lex> {%Leuchte, Lampe%} 
-<ls>AK. 2, 6, 3, 40.</ls> 
-<ls>H. 686.</ls> 
-<ls>MBH. 1, 5233. 12, 7107. fg. 14, 580.</ls> 
-<ls>HARIV. 7015.</ls> 
-<ls>SUŚR. 2, 556, 17.</ls> 
-<ls>MṚCCH. 48, 10. 11.</ls> 
-<ls>RAGH. 2, 24. 5, 37. 12, 1.</ls> 
-<ls>Spr. 374. 919. 1419. 1502. 1964. 2784. 3118.</ls> 
-<ls>SĀṂKHYAK. 13. 36.</ls> 
-<ls>KATHĀS. 29, 95. 32, 72.</ls> 
-<ls>MĀRK. P. 51, 90.</ls> 
-<ls>BĀLAB. 27.</ls> 
-<ls>Z. f. d. K. d. M. 3, 389.</ls> {#stimita°#} 
-<ls>RAGH. 16, 4.</ls> {#rakzA°#} 
-<ls>KATHĀS. 28, 4.</ls> {#rakzAratna°#} 
-<ls>32, 89.</ls> {#atElapUrAH suratapradIpAH#} 
-<ls>KUMĀRAS. 1, 10.</ls> {#ratnapradIpAn#} 
-<ls>MEGH.69.</ls>
+{#pradIpa#}¦ (von {#dIp#} mit {#pra#}) <lex>m.</lex> {%Leuchte, Lampe%}
+<ls>AK. 2,6,3,40.</ls>
+<ls>H. 686.</ls>
+<ls>MBH. 1,5233.</ls> <ls n="MBH.">12,7107. fg.</ls> <ls n="MBH.">14,580.</ls>
+<ls>HARIV. 7015.</ls>
+<ls>SUŚR. 2,556,17.</ls>
+<ls>MṚCCH. 48,10. 11.</ls>
+<ls>RAGH. 2,24.</ls> <ls n="RAGH.">5,37.</ls> <ls n="RAGH.">12,1.</ls>
+<ls>Spr. 374.</ls> <ls n="Spr.">919.</ls> <ls n="Spr.">1419.</ls> <ls n="Spr.">1502.</ls> <ls n="Spr.">1964.</ls> <ls n="Spr.">2784.</ls> <ls n="Spr.">3118.</ls>
+<ls>SĀṂKHYAK. 13. 36.</ls>
+<ls>KATHĀS. 29,95.</ls> <ls n="KATHĀS.">32,72.</ls>
+<ls>MĀRK. P. 51,90.</ls>
+<ls>BĀLAB. 27.</ls>
+<ls>Z. f. d. K. d. M. 3,389.</ls> {#stimita°#}
+<ls>RAGH. 16,4.</ls> {#rakzA°#}
+<ls>KATHĀS. 28,4.</ls> {#rakzAratna°#}
+<ls n="KATHĀS.">32,89.</ls> {#atElapUrAH suratapradIpAH#}
+<ls>KUMĀRAS. 1,10.</ls> {#ratnapradIpAn#}
+<ls>MEGH. 69.</ls>
 [Page4-1022]
-{#pUrRacandrapradIpA (yAminI)#} 
-<ls>R. 6, 14, 24.</ls> {#kula°#} {%die Leuchte der Familie%} 
-<ls>RAGH. 6, 74. 10, 69.</ls> 
-<ls>ŚĀK. 7, 4.</ls> {#yaSaHpradIpA lokAnAm#} 
-<ls>HARIV. 4138.</ls> {#sTirapradIpatA#} nom. abstr. 
-<ls>KUMĀRAS. 2, 38.</ls> Häufig am Ende eines Titels erklarender Werke: {#paYjikA°#} 
-<ls>Verz. d. Oxf. H. 176,a,4.</ls> <ls>COLEBR. Misc. Ess.</ls> <ls>?II,49.</ls> {#mahABAzya°#} 
-<ls>Z. d. d. m. G. 7, 162.</ls> {#pradIpakft#} ohne weiteren Beisatz 
-<ls>Verz. d. B. H. No. 823</ls>; vgl. {#karma°, kozWI°, galita°, tantra°, Darma°, DAtu°, nIti°, pUjA°#} . 
+{#pUrRacandrapradIpA (yAminI)#}
+<ls>R. 6,14,24.</ls> {#kula°#} {%die Leuchte der Familie%}
+<ls>RAGH. 6,74.</ls> <ls n="RAGH.">10,69.</ls>
+<ls>ŚĀK. 7,4.</ls> {#yaSaHpradIpA lokAnAm#}
+<ls>HARIV. 4138.</ls> {#sTirapradIpatA#} nom. abstr.
+<ls>KUMĀRAS. 2,38.</ls> Häufig am Ende eines Titels erklarender Werke: {#paYjikA°#}
+<ls>Verz. d. Oxf. H. 176,a,4.</ls> <ls>COLEBR. Misc. Ess. II,49.</ls> {#mahABAzya°#}
+<ls>Z. d. d. m. G. 7,162.</ls> {#pradIpakft#} ohne weiteren Beisatz
+<ls>Verz. d. B. H. No. 823</ls>; vgl. {#karma°, kozWI°, galita°, tantra°, Darma°, DAtu°, nIti°, pUjA°#} .
 <div n="v">— Vgl. {#candrasUrya°#} .
 <LEND>

@@ -1,4 +1,4 @@
 <L>22636<pc>714<k1>today<k2>today
-<div n="lb"/>{@TODAY:@}¦ {#adya,#} <div n="xe">{%of t.:%}</div> <div n="xs">{#adyatanaH#}</div> ({#nI, naM#}), {#talliKyatA-#}
-<div n="lb"/>{#madyatano divasaH.#} P.: v. Also now.
+{@TODAY:@}¦ {#adya,#} <div n="xe">{%of t.:%}</div> <div n="xs">{#adyatanaH#}</div> ({#nI, naM#}), {#talliKyatA-#}
+{#madyatano divasaH.#} P.: v. Also now.
 <LEND>

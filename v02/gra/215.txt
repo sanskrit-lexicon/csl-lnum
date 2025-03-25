@@ -1,6 +1,6 @@
-<L>215<pc>0026<k1>aRu<k2>aRu
-{@aṇu,@}¦ a., dünn, fein, sehr klein, zart; davon das fem. ánvī, die {%Zarte, Feine,%} als Bezeichnung <lbinfo n="4"/> der {%Finger.%}
-<div n="P1">-viā {727,1}; {726,6}; {738,1}.
-<div n="P1">-vīs {713,7}.
-<div n="P1">-vībhis {3,4}.
+<L>215<pc>0026<k1>aRu<k2>a/Ru
+<chg type="chg" n="11" src="gra"><old>{@aṇu,@}</old><new>{@áṇu,@}</new></chg>¦ <ab>a.</ab>, dünn, fein, sehr klein, zart; davon das <ab>fem.</ab> ánvī, die {%Zarte, Feine,%} als Bezeichnung der {%Finger%}.
+<div n="TS">-viā {727,1}; {726,6}; {738,1}.
+<div n="TS">-vīs {713,7}.
+<div n="TS">-vībhis {3,4}.
 <LEND>

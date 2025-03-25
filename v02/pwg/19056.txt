@@ -1,18 +1,18 @@
 <L>19056<pc>2-0428<k1>kerala<k2>kerala
-{#kerala#}¦ 
-<div n="1"> 1) <lex>m.</lex> pl. N. pr. des Volkes von <is>Malabar</is> 
-<ls>H. 961.</ls> 
-<ls>LIA. I, 153. fg.</ls> 
-<ls>?472. MBH. 1, 6685. 6, 366 (VP. 192). 8, 2066. HARIV. 782. 12838. R. 2, 82, 7. 4, 41, 18. RAGH. 4, 54. n. sg.</ls> N. des Landes 
-<ls>MBH. 6, 352</ls> <ls>?(VP. 188).</ls> <lex>m.</lex> sg. {%König der%} <is>Kerala</is> <is>gaṇa</is> {#kambojAdi#} zu 
-<ls>P. 4, 1, 175.</ls> 
-<ls>MBH. 3, 15250.</ls> ein Sohn <is>Ākrīḍa's</is> auf den das Volk der <is>Kerala</is> zurückgeführt wird, 
-<ls>HARIV. 1836.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#I#} 
-<div n="2"> a) {%eine best. Wissenschaft%} ({#jYAnaBeda#}) 
-<ls>MED. l. 83</ls> (blosser Druckfehler für {#kevalI#}). {%astronomical science%} 
-<ls>WILS.</ls> Titel eines astronom. Werkes ({#jyotirgranTaviSeza#}) 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— b) {%Stunde%} ({#horA#}, {%hora%}) 
+{#kerala#}¦
+<div n="1"> 1) <lex>m.</lex> pl. N. pr. des Volkes von <is>Malabar</is>
+<ls>H. 961.</ls>
+<ls>LIA. I,153. fg.</ls>
+<ls n="LIA. I,">472.</ls> <ls>MBH. 1,6685.</ls> <ls n="MBH.">6,366</ls> (<ls>VP. 192</ls>). <ls n="MBH.">8,2066.</ls> <ls>HARIV. 782.</ls> <ls n="HARIV.">12838.</ls> <ls>R. 2,82,7.</ls> <ls n="R.">4,41,18.</ls> <ls>RAGH. 4,54.</ls> n. sg. N. des Landes
+<ls>MBH. 6,352</ls> (<ls>VP. 188).</ls> <lex>m.</lex> sg. {%König der%} <is>Kerala</is> <is>gaṇa</is> {#kambojAdi#} zu
+<ls>P. 4,1,175.</ls>
+<ls>MBH. 3,15250.</ls> ein Sohn <is>Ākrīḍa's</is> auf den das Volk der <is>Kerala</is> zurückgeführt wird,
+<ls>HARIV. 1836.</ls>
+<div n="1">— 2) <lex>f.</lex> {#I#}
+<div n="2"> a) {%eine best. Wissenschaft%} ({#jYAnaBeda#})
+<ls>MED. l. 83</ls> (blosser Druckfehler für {#kevalI#}). {%astronomical science%}
+<ls>WILS.</ls> Titel eines astronom. Werkes ({#jyotirgranTaviSeza#})
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— b) {%Stunde%} ({#horA#}, {%hora%})
 <ls>ŚABDAR.</ls> ebend.
 <LEND>

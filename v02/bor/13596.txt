@@ -1,4 +1,4 @@
 <L>13596<pc>418<k1>limit<k2>limit
-<div n="lb"/>{@LIMIT@}¦ (subs.): <div n="1">(1) {#avaDiH;#} </div><div n="1">(2) {#sImA#} (boundary);</div>
-<div n="lb"/><div n="1">(3) {#antaH#} (= end). {%To set l. s to:%} v. Limit.</div>
+{@LIMIT@}¦ (subs.): <div n="1">(1) {#avaDiH;#} </div><div n="1">(2) {#sImA#} (boundary);</div>
+<div n="1">(3) {#antaH#} (= end). {%To set l. s to:%} v. Limit.</div>
 <LEND>

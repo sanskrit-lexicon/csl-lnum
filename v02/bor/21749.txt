@@ -1,7 +1,7 @@
 <L>21749<pc>686<k1>submit<k2>submit
-<div n="lb"/>{@SUBMIT:@}¦ <div n="I">I To yield: q. v.: </div><div n="1">(1) {#vaSaM gacCati;#}</div>
-<div n="lb"/><div n="1">(2) {#praRamati#} ({#nam,#} c. 1.=to bow), <div n="xe">{%do not always%}
-<div n="lb"/>{%s. to Duryodhana:%}</div> <div n="xs">{#na praRamanti sadA suyoDanam,#}</div> Ki.
-<div n="lb"/>ii. 44.: v. Also to obey. </div><div n="I">II To refer:
-<div n="lb"/>q. v.: {#upacCandayati#} ({#Cand,#} c. 10.).</div>
+{@SUBMIT:@}¦ <div n="I">I To yield: q. v.: </div><div n="1">(1) {#vaSaM gacCati;#}</div>
+<div n="1">(2) {#praRamati#} ({#nam,#} c. 1.=to bow), <div n="xe">{%do not always%}
+{%s. to Duryodhana:%}</div> <div n="xs">{#na praRamanti sadA suyoDanam,#}</div> Ki.
+ii. 44.: v. Also to obey. </div><div n="I">II To refer:
+q. v.: {#upacCandayati#} ({#Cand,#} c. 10.).</div>
 <LEND>

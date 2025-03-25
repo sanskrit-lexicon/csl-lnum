@@ -1,24 +1,23 @@
 <L>8223<pc>1-0615<k1>AtaYcana<k2>Ata/Ycana
-{#Ata/Ycana#}¦ (wie eben) <lex>n.</lex> 
+{#Ata/Ycana#}¦ (wie eben) <lex>n.</lex>
 <div n="1"> 1) {%Mittel zum Gerinnen, coagulum, Lab.%} —
 [Page1-0616]
-
-<div n="1">— 2) {%geronnene Milch; die sich darin absondernde Flüssigkeit, Zieger%}: {#yatta^Rqu\lEr#} ({#AtaYcyAt#}) {#vE^Svade\vaM tadyadA\taYca^nena mAnu\zaM tadyadda\DnA tatsendra^m#} 
-<ls>TS. 2, 5, 3, 5.</ls> 
-<ls>ŚAT. BR. 3, 3, 3, 2.</ls> {#yatpUrvedyurdugDaM havirAtaYcanaM tatkurvanti#} 
-<ls>11, 1, 4, 1.</ls> <ls>KĀTY. ŚR. 7, 8, 8. 25, 4, 38.</ls> Nach den Lexicographen: 
-<div n="2"> a) = {#pratIvApa#} 
-<ls>AK. 3, 4, 118.</ls> 
-<ls>H. an. 4, 160.</ls> 
-<ls>MED. n. 166.</ls> <ls>SVĀMIN</ls> erklärt: {#galitasya svarRAderdravyAntareRAvacUrRanam#} {%das Bestreuen von geschmolzenem Golde u.s.w. mit einer andern Substanz%} (zum Oxydiren); 
-<ls>SĀRAS.</ls> : {#dravadravyaprakzepaRocitacUrRam#} {%das dazu geeignete Pulver%}; 
-<ls>SUBHŪTI</ls> : {#nikzepaRam#} {%das Aufwerfen%}; 
-<ls>RĀYAM.</ls> : {#upadravaH#} {%Unglück.%} 
-<div n="2">— b) {%Eile%} ({#javana#}) 
-<ls>AK.</ls> <ls>H. an.</ls> {#pavana#} in 
-<ls>MED.</ls> ist wohl nur Druckfehler für {#yavana = javana#} . 
-<div n="2">— c) {%das Fettmachen%} ({#ApyAyana#}) 
-<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— d) {#prApaRa#} {%das Befördern%} 
+<div n="1">— 2) {%geronnene Milch; die sich darin absondernde Flüssigkeit, Zieger%}: {#yatta^Rqu\lEr#} ({#AtaYcyAt#}) {#vE^Svade\vaM tadyadA\taYca^nena mAnu\zaM tadyadda\DnA tatsendra^m#}
+<ls>TS. 2,5,3,5.</ls>
+<ls>ŚAT. BR. 3,3,3,2.</ls> {#yatpUrvedyurdugDaM havirAtaYcanaM tatkurvanti#}
+<ls n="ŚAT. BR.">11,1,4,1.</ls> <ls>KĀTY. ŚR. 7,8,8.</ls> <ls n="KĀTY. ŚR.">25,4,38.</ls> Nach den Lexicographen:
+<div n="2"> a) = {#pratIvApa#}
+<ls>AK. 3,4,118.</ls>
+<ls>H. an. 4,160.</ls>
+<ls>MED. n. 166.</ls> <ls>SVĀMIN</ls> erklärt: {#galitasya svarRAderdravyAntareRAvacUrRanam#} {%das Bestreuen von geschmolzenem Golde u.s.w. mit einer andern Substanz%} (zum Oxydiren);
+<ls>SĀRAS.</ls> : {#dravadravyaprakzepaRocitacUrRam#} {%das dazu geeignete Pulver%};
+<ls>SUBHŪTI</ls> : {#nikzepaRam#} {%das Aufwerfen%};
+<ls>RĀYAM.</ls> : {#upadravaH#} {%Unglück.%}
+<div n="2">— b) {%Eile%} ({#javana#})
+<ls>AK.</ls> <ls>H. an.</ls> {#pavana#} in
+<ls>MED.</ls> ist wohl nur Druckfehler für {#yavana = javana#} .
+<div n="2">— c) {%das Fettmachen%} ({#ApyAyana#})
+<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— d) {#prApaRa#} {%das Befördern%}
 <ls>H. an.</ls>
 <LEND>

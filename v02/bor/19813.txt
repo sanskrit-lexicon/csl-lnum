@@ -1,14 +1,14 @@
 <L>19813<pc>616<k1>scale<k2>scale
-<div n="lb"/>{@SCALE@}¦ (subs.): <div n="I">I In pl.- a balance: q. v.:
-<div n="lb"/>{#tulA:#} <div n="xe">{%the fulcrum:%}</div> <div n="xs">{#DawaH,#}</div> Mit. </div><div n="I">II Its dish:</div>
-<div n="lb"/><div n="1">(1) {#Sikyam#} (= loop), <div n="xe">{%to put in the s.:%}</div> <div n="xs">{#Sikyam #}
-<div n="lb"/>{# Aropayati,#}</div> V. s.; </div><div n="1">(2) {#pArSvaH#} (= side), Mit.</div>
-<div n="lb"/><div n="I">III In astro.: {#tulA,#} </div><div n="I">IV Of fishes: </div><div n="1">(1)
-<div n="lb"/>{#Salkam, -lam;#} </div><div n="1">(2) {#valkam, -lam.#} </div><div n="I">V Of serpents:
-<div n="lb"/>{#maRqalam#} (= circular spot), Sr. </div><div n="I">VI Of metal
-<div n="lb"/>etc: {#patram#} (= leaf); {#Palakam#} (= plate). </div><div n="I">VII
-<div n="lb"/>A ladder: q. v.: {#sopAnam.#} </div><div n="I">VIII In music:
-<div n="lb"/>{#grAmaH,#} Si. i. 10. </div><div n="I">IX A basis: </div><div n="1">(1) Often by
-<div n="lb"/>{#mUlam#} (= root); </div><div n="1">(2) {#parimARam#} <div n="xe">{%or%}</div> <div n="xs">{#pramARam#}</div> (= mea-
-<div n="lb"/>-sure). Ph.: <div n="xe">{%on a small s.:%}</div> <div n="xs">{#alpaparimARam.#}</div></div>
+{@SCALE@}¦ (subs.): <div n="I">I In pl.- a balance: q. v.:
+{#tulA:#} <div n="xe">{%the fulcrum:%}</div> <div n="xs">{#DawaH,#}</div> Mit. </div><div n="I">II Its dish:</div>
+<div n="1">(1) {#Sikyam#} (= loop), <div n="xe">{%to put in the s.:%}</div> <div n="xs">{#Sikyam #}
+{# Aropayati,#}</div> V. s.; </div><div n="1">(2) {#pArSvaH#} (= side), Mit.</div>
+<div n="I">III In astro.: {#tulA,#} </div><div n="I">IV Of fishes: </div><div n="1">(1)
+{#Salkam, -lam;#} </div><div n="1">(2) {#valkam, -lam.#} </div><div n="I">V Of serpents:
+{#maRqalam#} (= circular spot), Sr. </div><div n="I">VI Of metal
+etc: {#patram#} (= leaf); {#Palakam#} (= plate). </div><div n="I">VII
+A ladder: q. v.: {#sopAnam.#} </div><div n="I">VIII In music:
+{#grAmaH,#} Si. i. 10. </div><div n="I">IX A basis: </div><div n="1">(1) Often by
+{#mUlam#} (= root); </div><div n="1">(2) {#parimARam#} <div n="xe">{%or%}</div> <div n="xs">{#pramARam#}</div> (= mea-
+-sure). Ph.: <div n="xe">{%on a small s.:%}</div> <div n="xs">{#alpaparimARam.#}</div></div>
 <LEND>

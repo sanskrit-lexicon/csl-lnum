@@ -1,9 +1,9 @@
 <L>11305<pc>272-b<k1>fish<k2>fish
-<div n="lb"/>FISH¦, {%s.%} {#matsyaH, mInaH, JazaH, macCaH, visAraH -rI#} {%m.%} {#(n), vEsArI#} {%m.%} {#(n),#}
-<div n="lb"/>{#vesAriRaH, aRqajaH, SakalI#} {%m.%} {#(n), SalkI#} {%m.%} {#(n), SalkalI#} {%m.,%}
-<div n="lb"/>{#kaRwakI#} {%m.%} {#(n), AmBasikaH, jalajaH, jalapriyaH, jalajantuH#} {%m.,%} {#jalecaraH,#}
-<div n="lb"/>{#jalacArI#} {%m.%} {#(n), pAWInaH, animizaH, animezaH, sTirajihvaH, zaqakzIRaH,#}
-<div n="lb"/>{#pfTuromA#} {%m.%} {#(n), AtmASI#} {%m.%} {#(n), matsyI#} {%f.,%} {#matsaH;#} ‘fish-bone,’
-<div n="lb"/>{#kaRwakaH;#} ‘fish-sauce,’ {#matsagaRwaH, mInAmrIRaH;#} ‘fish-bannered
-<div n="lb"/>god,’ {#mInaketanaH, makaraDvajaH, makaraketuH#} {%m.,%} {#JazaketanaH#}.
+FISH¦, {%s.%} {#matsyaH, mInaH, JazaH, macCaH, visAraH -rI#} {%m.%} {#(n), vEsArI#} {%m.%} {#(n),#}
+{#vesAriRaH, aRqajaH, SakalI#} {%m.%} {#(n), SalkI#} {%m.%} {#(n), SalkalI#} {%m.,%}
+{#kaRwakI#} {%m.%} {#(n), AmBasikaH, jalajaH, jalapriyaH, jalajantuH#} {%m.,%} {#jalecaraH,#}
+{#jalacArI#} {%m.%} {#(n), pAWInaH, animizaH, animezaH, sTirajihvaH, zaqakzIRaH,#}
+{#pfTuromA#} {%m.%} {#(n), AtmASI#} {%m.%} {#(n), matsyI#} {%f.,%} {#matsaH;#} ‘fish-bone,’
+{#kaRwakaH;#} ‘fish-sauce,’ {#matsagaRwaH, mInAmrIRaH;#} ‘fish-bannered
+god,’ {#mInaketanaH, makaraDvajaH, makaraketuH#} {%m.,%} {#JazaketanaH#}.
 <LEND>

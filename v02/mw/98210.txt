@@ -1,3 +1,3 @@
-<L>98210<pc>503,3<k1>dvAdaSan<k2>dvA/-daSan<h>b<e>2
-<s>dvA/-daSan</s> <hom>b</hom> ¦ <ab>pl.</ab> (<ab>nom.</ab> <ab>acc.</ab> <s>dvA/-daSa</s>, <ab>instr.</ab> <s>dvA daSa/Bis</s> <ab>dat.</ab> <ab>abl.</ab> <s>°Sa/Byas</s>, <ab>loc.</ab> <s>°SA<srs/>su</s> <ab>gen.</ab> <s>SA/nAm</s>, according to, <ls>Pāṇ. 6-1, 179, 180</ls> in Class. also <s>°SaBi/s</s>, <s>°SaBya/s</s>, <s>°Sasu/</s>) twelve, <ls>RV.</ls> &c. <info lexcat="LEXID=card,STEM=dvAdaSan"/>
+<L>98210<pc>503,3<k1>dvAdaSan<k2>dvA/-daSan<e>2
+<s>dvA/-daSan</s> ¦ <ab>pl.</ab> (<ab>nom.</ab> <ab>acc.</ab> <s>dvA/-daSa</s>, <ab>instr.</ab> <s>dvA daSa/Bis</s> <ab>dat.</ab> <ab>abl.</ab> <s>°Sa/Byas</s>, <ab>loc.</ab> <s>°SA<srs/>su</s> <ab>gen.</ab> <s>SA/nAm</s>, according to <ls>Pāṇ. vi, 1, 179</ls>, <ls n="Pāṇ. vi, 1">180</ls> in <lang>Class.</lang> also <s>°SaBi/s</s>, <s>°SaBya/s</s>, <s>°Sasu/</s>) twelve, <ls>RV.</ls> &c. <info lexcat="LEXID=card,STEM=dvAdaSan"/><info hui="b"/>
 <LEND>

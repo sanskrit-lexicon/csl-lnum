@@ -1,24 +1,24 @@
 <L>10<pc>0010<k1>aji<k2>aji
 (10) {@<s>‘aji BAzArTaH’</s>@}¦ (X<s>-curAdiH</s> 1786<s>-saka</s>. <s>sew</s>. <s>uBa</s>.)
 <div n="NI"><s>aYjakaH-YjikA, vyaYjakaH, aYjijayizakaH-zikA</s>;
-<div n="lb"><s>aYjayitA-trI, aYjijayizitA-trI</s>;
-<div n="lb"><s>aYjayan-ntI, aYjijayizan-ntI</s>;
-<div n="lb"><s>aYjayizyan-tI-ntI, aYjijayizizyan-tI-ntI</s>;
-<div n="lb"><s>aYjayamAnaH, aYjijayizamARaH</s>;
-<div n="lb"><s>aYjayizyamARaH, aYjijayizizyamARaH</s>;
-<div n="lb"><s>vyan-vyaYjO-vyaYjaH</s>;
-<div n="lb"><s>aYjitam-taH-tavAn, aYjijayizitaH-tavAn</s>;
-<div n="lb"><s>vyaYjaH, aYjijayizuH</s>;
-<div n="lb"><s>aYjayitavyam, aYjijayizitavyam</s>;
-<div n="lb"><s>vyaYjanIyam, aYjijayizaRIyam</s>;
-<div n="lb"><s>aYjyam, aYjijayizyam</s>;
-<div n="lb"><s>IzadaYjaH, duraYjaH, svaYjaH</s>;
-<div n="lb"><s>aYjyamAnaH, aYjijayizyamARaH</s>;
-<div n="lb"><s>aYjaH, aYjijayizaH</s>;
-<div n="lb"><s>aYjayitum, aYjijayizitum</s>;
-<div n="lb"><s>aYjanA-vyaYjanA, aYjijayizA</s>;
-<div n="lb"><s>vyaYjanam, aYjijayizaRam</s>;
-<div n="lb"><s>aYjayitvA, aYjijayizitvA</s>;
-<div n="lb"><s>aBivyaYjya, vyaYjijayizya</s>;
-<div n="lb"><note n="1"/><s>vyaYjam</s> 2, <s>aYjayitvA</s> 2, <s>aYjijayizam</s> 2<s>; aYjijayizitvA</s> 2;
+<s>aYjayitA-trI, aYjijayizitA-trI</s>;
+<s>aYjayan-ntI, aYjijayizan-ntI</s>;
+<s>aYjayizyan-tI-ntI, aYjijayizizyan-tI-ntI</s>;
+<s>aYjayamAnaH, aYjijayizamARaH</s>;
+<s>aYjayizyamARaH, aYjijayizizyamARaH</s>;
+<s>vyan-vyaYjO-vyaYjaH</s>;
+<s>aYjitam-taH-tavAn, aYjijayizitaH-tavAn</s>;
+<s>vyaYjaH, aYjijayizuH</s>;
+<s>aYjayitavyam, aYjijayizitavyam</s>;
+<s>vyaYjanIyam, aYjijayizaRIyam</s>;
+<s>aYjyam, aYjijayizyam</s>;
+<s>IzadaYjaH, duraYjaH, svaYjaH</s>;
+<s>aYjyamAnaH, aYjijayizyamARaH</s>;
+<s>aYjaH, aYjijayizaH</s>;
+<s>aYjayitum, aYjijayizitum</s>;
+<s>aYjanA-vyaYjanA, aYjijayizA</s>;
+<s>vyaYjanam, aYjijayizaRam</s>;
+<s>aYjayitvA, aYjijayizitvA</s>;
+<s>aBivyaYjya, vyaYjijayizya</s>;
+<note n="1"/><s>vyaYjam</s> 2, <s>aYjayitvA</s> 2, <s>aYjijayizam</s> 2<s>; aYjijayizitvA</s> 2;
 <LEND>

@@ -1,5 +1,5 @@
 <L>7538<pc>238<k1>encounter<k2>encounter
-<div n="lb"/>{@ENCOUNTER@}¦ (subs.): <div n="I">I A meeting: {#aByAgamaH.#}</div>
-<div n="lb"/><div n="I">II Conflict, battle: {#saMyugaH.#} <div n="xe">{%“for fierce e. s%}
-<div n="lb"/>{%fit”:%}</div> <div n="xs">{#sAMyugInaH#}</div> ({#nA, naM#}), V.</div>
+{@ENCOUNTER@}¦ (subs.): <div n="I">I A meeting: {#aByAgamaH.#}</div>
+<div n="I">II Conflict, battle: {#saMyugaH.#} <div n="xe">{%“for fierce e. s%}
+{%fit”:%}</div> <div n="xs">{#sAMyugInaH#}</div> ({#nA, naM#}), V.</div>
 <LEND>

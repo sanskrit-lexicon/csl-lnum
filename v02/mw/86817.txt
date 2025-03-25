@@ -1,40 +1,40 @@
 <L>86817<pc>454,2<k1>tF<k2>tF<e>1
-<s>tF</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (rarely <ab>Ā.</ab>) <s>ta/rati</s> (<ab>Subj.</ab> <s>ta/rat</s> <ab>impf.</ab> <s>a/tarat</s>, <ab>p.</ab> <s>ta/rat</s> <ab>inf.</ab> <s>tara/DyE</s>, <s>°rIza/ni</s>, <ls>RV.</ls>) 
-<ab>cl.</ab> 5. <s>tarute</s> (<ls>x, 76, 2</ls>; <ab>Pot.</ab> 1. <ab>pl.</ab> <s>turyAma</s>, <ls>v f.</ls>) 
-<ab>cl.</ab> 3. <s>titarti</s> (<ls>BhP.</ls>; <ab>p.</ab> <ab>nom.</ab> <ab>pl.</ab> <s>ti/tratas</s>, <ls>RV. ii, 31, 2</ls>; <ab>Pot.</ab> <s>tuturyA/t</s>, <ls>v f.</ls>; <ls>viii</ls>), 
-with prepositions <ab>Ved.</ab> chiefly <ab>cl.</ab> 6. <ab>Ā.</ab> <ab>P.</ab> 
-(<s>tira/te</s> <ab>Subj.</ab> <s>tirAti</s> <ab>impf.</ab> <s>a/tirat</s>, <ab>p.</ab> <s>tira/t</s> <ab>inf.</ab> <s>ti/ram</s>, <s>ti/re</s>, <ls>RV.</ls>;
-<ab>aor.</ab> <s>a/tArIt</s>, <ls>i, vii</ls>;
-1. <ab>pl.</ab> <s>°rizma</s>, <ls>i, vii</ls>, <s>°rima</s>, <ls>viii, 13, 21</ls>;
-<s>ta/ruzante</s>, <ls>v</ls>, <s>°ta</s> i, <s>°zema</s>, <ls>vii</ls> [<ab>cf.</ab> <ls>Pāṇ. 3-1, 85</ls>; <ls>Kāś.</ls>];
+<s>tF</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (rarely <ab>Ā.</ab>) <s>ta/rati</s> (<ab>Subj.</ab> <s>ta/rat</s>, <ab>impf.</ab> <s>a/tarat</s>, <ab>p.</ab> <s>ta/rat</s> <ab>inf.</ab> <s>tara/DyE</s>, <s>°rIza/ni</s>, <ls>RV.</ls>)
+<ab>cl.</ab> 5. <s>tarute</s> (<ls n="RV.">x, 76, 2</ls>; <ab>Pot.</ab> 1. <ab>pl.</ab> <s>turyAma</s>, <ls n="RV.">v f.</ls>)
+<ab>cl.</ab> 3. <s>titarti</s> (<ls>BhP.</ls>; <ab>p.</ab> <ab>nom.</ab> <ab>pl.</ab> <s>ti/tratas</s>, <ls>RV. ii, 31, 2</ls>; <ab>Pot.</ab> <s>tuturyA/t</s>, <ls n="RV.">v f.</ls>; <ls n="RV.">viii</ls>),
+with prepositions <lang>Ved.</lang> chiefly <ab>cl.</ab> 6. <ab>P.</ab> <ab>Ā.</ab>
+(<s>tira/te</s> <ab>Subj.</ab> <s>tirAti</s>, <ab>impf.</ab> <s>a/tirat</s>, <ab>p.</ab> <s>tira/t</s> <ab>inf.</ab> <s>ti/ram</s>, <s>ti/re</s>, <ls>RV.</ls>;
+<ab>aor.</ab> <s>a/tArIt</s>, <ls n="RV.">i</ls>, <ls n="RV.">vii</ls>;
+1. <ab>pl.</ab> <s>°rizma</s>, <ls n="RV.">i</ls>, <ls n="RV.">vii</ls>, <s>°rima</s>, <ls n="RV.">viii, 13, 21</ls>;
+<s>ta/ruzante</s>, <ls n="RV.">v</ls>, <s>°ta</s> i, <s>°zema</s>, <ls n="RV.">vii</ls> [<ab>cf.</ab> <ls>Pāṇ. iii, 1, 85</ls>, <ls>Kāś.</ls>];
 <ab>Ā.</ab> and <ab>Pass.</ab> <s>-tAri</s>, <ls>RV.</ls>;
 <ab>P.</ab> <s>atArzIt</s>, <ls>BhP.</ls>;
 <s>°zam</s>, <ls>MBh.</ls>; <ls>Daś.</ls>;
 <ab>pf.</ab> <s>tatAra</s>, <ls>RV.</ls> &c.;
-3. <ab>pl.</ab> <s>titirur</s>, <ls>i f.</ls>;
-<s>teriTa</s>, <s>°ratur</s>, <ls>Pāṇ. 6-4, 122</ls>;
+3. <ab>pl.</ab> <s>titirur</s>, <ls n="RV.">i f.</ls>;
+<s>teriTa</s>, <s>°ratur</s>, <ls>Pāṇ. vi, 4, 122</ls>;
 <ab>p.</ab> <s>titirva/s</s> <ab>gen.</ab> <s>tataru/zas</s>, <ls>RV.</ls>;
-<ab>fut.</ab> <s>tarizyati</s>, <s>°rIz°</s>, <s>taritA</s>, <s>°rItA</s> [<ab>cf.</ab> <s>pra-ta/r°</s>] <ls>Pāṇ. 7-2, 38</ls>;
+<ab>fut.</ab> <s>tarizyati</s>, <s>°rIz°</s>, <s>taritA</s>, <s>°rItA</s> [<ab>cf.</ab> <s>pra-ta/r°</s>] <ls>Pāṇ. vii, 2, 38</ls>;
 <s>ta/rutA</s>, <ls>RV. i</ls>;
 <ab>Prec.</ab> <s>tIryAt</s>, <s>tarizIzwa</s>, <ls>Vop.</ls>;
 <ab>inf.</ab> <s>tartum</s>, <ls>MBh.</ls>; <ls>R.</ls>;
-<s>°rIt°</s>, <ls>iv f.</ls> <s>°rit°</s>, <ls>MBh. i</ls>; <ls>Hariv.</ls>; <ls>R. v</ls>;
+<s>°rIt°</s>, <ls n="R.">iv f.</ls> <s>°rit°</s>, <ls>MBh. i</ls>; <ls>Hariv.</ls>; <ls>R. v</ls>;
 <ab>ind.p.</ab> <s>tIrtvA/</s>, <ls>AV.</ls>;
-<s>-tU/rya</s> See <s>vi-</s>) 
+<s>-tU/rya</s> See <s>vi-</s>)
 <div n="to"/>to pass across or over, cross over (a river), sail across, <ls>RV.</ls> &c.;
 <div n="to"/>to float, swim, <ls>VarBṛS. lxxx, 14</ls>; <ls>Bhaṭṭ. xii</ls>; <ls>Cāṇ.</ls>;
 <div n="to"/>to get through, attain an end or aim, live through (a definite period), study to the end, <ls>RV.</ls> &c.;
 <div n="to"/>to fulfil, accomplish, perform, <ls>R. i f.</ls>;
 <div n="to"/>to surpass, overcome, subdue, escape, <ls>RV.</ls> &c.;
-<div n="to"/>to acquire, gain, <ls>viii, 100, 8</ls>; <ls>MBh. xii</ls>; <ls>R.</ls>;
+<div n="to"/>to acquire, gain, <ls n="RV.">viii, 100, 8</ls>; <ls>MBh. xii</ls>; <ls>R.</ls>;
 <div n="vp"/> <ab>Ā.</ab> to contend, compete, <ls>RV. i, 132, 5</ls>;
-<div n="to"/>to carry through or over, save, <ls>vii, 18, 6</ls>; <ls>MBh. i, iii</ls> :
+<div n="to"/>to carry through or over, save, <ls n="RV.">vii, 18, 6</ls>; <ls>MBh. i</ls>, <ls n="MBh.">iii</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>tArayati</s> (<ab>p.</ab> <s>°ra/yat</s>) to carry or lead over or across, <ls>Kauś.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to cause to arrive at, <ls>AV. xviii</ls>; <ls>PraśnUp. vi, 8</ls>;
 <div n="to"/>to rescue, save, liberate from (<ab>abl.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.:
-<div n="vp"/><ab>Desid.</ab> <s>titIrzati</s> (also <s>titarizati</s>, <s>°rIz°</s>, <ls>Pāṇ. 7-2, 41</ls>; <ab>p.</ab> <ab>Ā.</ab> <s>titIrzamARa</s>, <ls>MBh. xiii, 2598</ls>) 
+<div n="vp"/><ab>Desid.</ab> <s>titIrzati</s> (also <s>titarizati</s>, <s>°rIz°</s>, <ls>Pāṇ. vii, 2, 41</ls>; <ab>p.</ab> <ab>Ā.</ab> <s>titIrzamARa</s>, <ls>MBh. xiii, 2598</ls>)
 <div n="to"/>to wish to cross or reach by crossing, <ls>KaṭhUp.</ls>; <ls>MBh.</ls>; <ls>BhP. iv</ls> :
-<div n="vp"/><ab>Intens.</ab> <s>tartarIti</s> (2. <ab>du.</ab> <s>°rITas</s>; <ab>p.</ab> <ab>gen.</ab> <s>ta/rilratas</s> [<ls>Pāṇ. 7-4, 65</ls>]; See also <s>vi-</s>; <s>tAtarti</s>, <ls>92</ls> <ab>Sch.</ab>) 
+<div n="vp"/><ab>Intens.</ab> <s>tartarIti</s> (2. <ab>du.</ab> <s>°rITas</s>; <ab>p.</ab> <ab>gen.</ab> <s>ta/ritratas</s> [<ls>Pāṇ. vii, 4, 65</ls>]; see also <s>vi-</s>; <s>tAtarti</s>, <ls n="Pāṇ. vii, 4,">92</ls>, <ab>Sch.</ab>)
 <div n="to"/>to reach the end by passing or running or living through, <ls>RV.</ls>;
 <div n="vp"/> <info whitneyroots="tf,64"/><info verb="genuineroot" cp="1P,1Ā,5,3,6P,6Ā"/>
 <LEND>

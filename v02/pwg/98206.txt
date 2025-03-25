@@ -1,19 +1,15 @@
 <L>98206<pc>7-0102<k1>SarD<k2>SarD<h>2
-2. {#SarD#}¦, {#Sa/rDate#} 
-<ls>DHĀTUP. 18, 21</ls> {#(SabdakutsAyAm)#}.{# aSarDizwa#} und {#aSfDat#} 
-<ls>P. 1, 3, 91.</ls> {#SarDizyate#} und {#Sartsyati, aSarDizyata#} und {#aSartsyat#} 
-<ls>92. 7, 2, 59.</ls> {%farzen.%}
-
-<div n="p">— desid. {#SiSarDizate#} und {#SiSftsati#} 
-<ls>P. 7, 2, 59.</ls>
-
-<div n="p">— intens. {#SarISfDyate#} und {#SarISfDIti#} 
-<ls>P. 7, 4, 90, Schol.</ls>
-
-<div n="p">— {#ava#} caus. {%auf Jmd farzen%} 
-<ls>M. 8, 282.</ls>
-
-<div n="p">— {#vi#}, {#°SarDate#} {%farzen%} 
-<ls>SUŚR. 1, 262, 20.</ls> {#viSarDita#} <lex>n.</lex> {%Furz%} 
-<ls>2, 258, 1.</ls>
+2. {#SarD#}¦, {#Sa/rDate#}
+<ls>DHĀTUP. 18,21</ls> ({#SabdakutsAyAm#}).{# aSarDizwa#} und {#aSfDat#}
+<ls>P. 1,3,91.</ls> {#SarDizyate#} und {#Sartsyati, aSarDizyata#} und {#aSartsyat#}
+<ls n="P. 1,3,">92.</ls> <ls n="P.">7,2,59.</ls> {%farzen.%}
+<div n="p">— desid. {#SiSarDizate#} und {#SiSftsati#}
+<ls>P. 7,2,59.</ls>
+<div n="p">— intens. {#SarISfDyate#} und {#SarISfDIti#}
+<ls>P. 7,4,90</ls>, Schol.
+<div n="p">— {#ava#} caus. {%auf Jmd farzen%}
+<ls>M. 8,282.</ls>
+<div n="p">— {#vi#}, {#°SarDate#} {%farzen%}
+<ls>SUŚR. 1,262,20.</ls> {#viSarDita#} <lex>n.</lex> {%Furz%}
+<ls n="SUŚR.">2,258,1.</ls>
 <LEND>

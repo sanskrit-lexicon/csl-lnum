@@ -1,5 +1,5 @@
 <L>1217<pc>0137<k1>aSas<k2>a-Sa/s
-{@a-śás,@}¦ a., {%verwünschend, hassend%} [von 2. śas].
-<div n="P1">-ásas [<ab>G.</ab>] {225,9} (vadhám). <lbinfo n="6"/>
-<div n="P1">-ásas [<ab>A.</ab>] rakṣásas {300,15}.
+{@a-śás,@}¦ <ab>a.</ab>, {%verwünschend, hassend%} [von <hom>2.</hom> śas].
+<div n="TS">-ásas [<ab>G.</ab>] {225,9} (<chg type="chg" n="42" src="gra"><old>vadhám</old><new>vádhar</new></chg>).
+<div n="TS">-ásas [<ab>A.</ab>] rakṣásas {300,15}.
 <LEND>

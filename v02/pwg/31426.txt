@@ -1,13 +1,13 @@
 <L>31426<pc>3-0461<k1>tvakpattra<k2>tvakpattra
-{#tvakpattra#}¦ ({#tvac + pattra#}) 
-<div n="1"> 1) <lex>n.</lex> {%Cassia%} (sowohl die {%Pflanze%} als auch die {%Rinde%}) 
-<ls>AK. 2, 4, 4, 22.</ls> 
-<ls>MED. r. 163.</ls> {#tvakpatrARAM vanAni ca#} 
-<ls>MBH. 12, 6359.</ls> 
-<ls>SUŚR. 1, 162, 5. 2, 482, 21.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#I = kAravI = hiNgupattrI#} viell. {%das Blatt der Asa foetida%} 
-<ls>AK. 2, 9, 40</ls> <ls>?(nach ŚKDR.</ls> soll dieses die Lesart des Textes und {#tatpatrI#} eine von 
-<ls>BHAR.</ls> aufgeführte Var. sein). 
-<ls>MED.</ls> = {#tamAlapattra#} {%das Blatt der Laurus Cassia, Malabathron%} 
+{#tvakpattra#}¦ ({#tvac + pattra#})
+<div n="1"> 1) <lex>n.</lex> {%Cassia%} (sowohl die {%Pflanze%} als auch die {%Rinde%})
+<ls>AK. 2,4,4,22.</ls>
+<ls>MED. r. 163.</ls> {#tvakpatrARAM vanAni ca#}
+<ls>MBH. 12,6359.</ls>
+<ls>SUŚR. 1,162,5.</ls> <ls n="SUŚR.">2,482,21.</ls>
+<div n="1">— 2) <lex>f.</lex> {#I = kAravI = hiNgupattrI#} viell. {%das Blatt der Asa foetida%}
+<ls>AK. 2,9,40</ls> (nach <ls>ŚKDR.</ls> soll dieses die Lesart des Textes und {#tatpatrI#} eine von
+<ls>BHAR.</ls> aufgeführte Var. sein).
+<ls>MED.</ls> = {#tamAlapattra#} {%das Blatt der Laurus Cassia, Malabathron%}
 <ls>NIGH. PR.</ls>
 <LEND>

@@ -1,10 +1,10 @@
 <L>7932<pc>250<k1>evidence<k2>evidence
-<div n="lb"/>{@EVIDENCE@}¦ (subs.): <div n="1">(1) {#sAkzyam#} (of witnesses),
-<div n="lb"/><div n="xe">{%to give e.:%}</div> <div n="xs">{#sAkzyaM dadAti,#}</div> Y.; <div n="xe">{%e. may be direct and%}
-<div n="lb"/>{%also hearsay:%}</div> <div n="xs">{#samakzadarSanAt sAkzyaM SravaRAccEva siDyati,#}</div>
-<div n="lb"/>M.; </div><div n="1">(2) {#pramARam#} (= any proof), {%does not estab-%} [Page251] {%%}
-<div n="lb"/>{%lish his claim by e.:%} {#uktaM pramARena na pratipAdayati,#}
-<div n="lb"/>K. b.; {%document%} ({%=written%}) {%possession%} ({%= real%})
-<div n="lb"/>{%and witnesses%} ({%=oral%}) <div n="xe">{%are e.:%}</div> <div n="xs">{#pramARaM liKitaM BuktiH #}
-<div n="lb"/>{# sAkziRaSca,#}</div> Y.</div>
+{@EVIDENCE@}¦ (subs.): <div n="1">(1) {#sAkzyam#} (of witnesses),
+<div n="xe">{%to give e.:%}</div> <div n="xs">{#sAkzyaM dadAti,#}</div> Y.; <div n="xe">{%e. may be direct and%}
+{%also hearsay:%}</div> <div n="xs">{#samakzadarSanAt sAkzyaM SravaRAccEva siDyati,#}</div>
+M.; </div><div n="1">(2) {#pramARam#} (= any proof), {%does not estab-%} [Page251] {%%}
+{%lish his claim by e.:%} {#uktaM pramARena na pratipAdayati,#}
+K. b.; {%document%} ({%=written%}) {%possession%} ({%= real%})
+{%and witnesses%} ({%=oral%}) <div n="xe">{%are e.:%}</div> <div n="xs">{#pramARaM liKitaM BuktiH #}
+{# sAkziRaSca,#}</div> Y.</div>
 <LEND>

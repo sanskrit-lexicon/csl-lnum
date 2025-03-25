@@ -1,5 +1,5 @@
 <L>28644<pc>784-a<k1>success<k2>success
-<div n="lb"/>SUCCESS¦, {%s.%} {#sidDiH#} {%f.,%} {#arTasidDiH#} {%f.,%} {#PalasidDiH#} {%f.,%} {#sADyasidDiH#} {%f.,%} {#sampattiH#} {%f.,%}
-<div n="lb"/>{#sampad#} {%f.,%} {#udayaH, saPalatA, sidDArTatA -tvaM, kftArTatA, caritArTatA, kfta-#}
-<div n="lb"/>{#kftyatA, SrIH#} {%f.,%} {#lakzmIH#} {%f.%} — (Result) {#nirgamaH, nirgatiH#} {%f.,%} {#pariRAmaH#}.
+SUCCESS¦, {%s.%} {#sidDiH#} {%f.,%} {#arTasidDiH#} {%f.,%} {#PalasidDiH#} {%f.,%} {#sADyasidDiH#} {%f.,%} {#sampattiH#} {%f.,%}
+{#sampad#} {%f.,%} {#udayaH, saPalatA, sidDArTatA -tvaM, kftArTatA, caritArTatA, kfta-#}
+{#kftyatA, SrIH#} {%f.,%} {#lakzmIH#} {%f.%} — (Result) {#nirgamaH, nirgatiH#} {%f.,%} {#pariRAmaH#}.
 <LEND>

@@ -1,18 +1,18 @@
 <L>9910<pc>448<k1>stone<k2>stone
 {@Stone,@}¦ {%s.%} {#SilA, pAzARaH, aSman#} {%m.,%} {#prastaraH,#}
-<div n="lb"/>{#upalaH, grAvan#} {%m.,%} {#dfzad#} {%f.,%} {#SarkarA#}. {@2@} (Of
-<div n="lb"/>fruits) {#asTi#} {%n.,%} {#azWi#} {%f.,%} {#azWIlA#}. {@3@} (In
-<div n="lb"/>the bladder) {#aSmarI, mUtrakfcCraM#}. {@4@}
-<div n="lb"/>{@Testicle,@} q. v. ‘s. -blind’ {#GanAMDa;#} ‘s.-
-<div n="lb"/>cutter’ {#OpalikaH, ASmikaH, pAzARa-#}
-<div n="lb"/>{#-dArakaH;#} ‘s. -hearted’ {#pAzARahfdaya, aSma-#}
-<div n="lb"/>{#-hfdaya, nirdaya, kaWora;#} ‘s. -horse’ {#bIjASvaH;#}
-<div n="lb"/>‘s. -pit’ ‘s. -quarry’ {#prastaraKani#} {%f.%} -{#A-#}
-<div n="lb"/>{#-karaH#}. -{%a.%} {@Stony,@} q. v. -{%v. t.%} {#lozwaGAtaM-#}
-<div n="lb"/>{#-upalEH-han#} 2 P or {#vyA-pad#} c. -{@y,@} {%a.%} {#upala-#}
-<div n="lb"/>{#-saMkula-bahula-AkIrRa#}. {@2@} {#Opala#} ({#lI#} {%f.%}),
-<div n="lb"/>{#SilA-prastara-maya#} ({#yI#} {%f.%}), {#SArkara#} ({#rI#} {%f.%}),
-<div n="lb"/>{#ASmika#} ({#kI#} {%f.%}), {#Sarkarila, Sa(SA)-#}
-<div n="lb"/>{#-rkarika#} ({#kI#} {%f.%}), ({%s.%}) in comp.; ‘s.
-<div n="lb"/>seat’ {#SilAsanaM#}. {@3@} {#prastaraniBa-tulya-samAna#}.
+{#upalaH, grAvan#} {%m.,%} {#dfzad#} {%f.,%} {#SarkarA#}. {@2@} (Of
+fruits) {#asTi#} {%n.,%} {#azWi#} {%f.,%} {#azWIlA#}. {@3@} (In
+the bladder) {#aSmarI, mUtrakfcCraM#}. {@4@}
+{@Testicle,@} q. v. ‘s. -blind’ {#GanAMDa;#} ‘s.-
+cutter’ {#OpalikaH, ASmikaH, pAzARa-#}
+{#-dArakaH;#} ‘s. -hearted’ {#pAzARahfdaya, aSma-#}
+{#-hfdaya, nirdaya, kaWora;#} ‘s. -horse’ {#bIjASvaH;#}
+‘s. -pit’ ‘s. -quarry’ {#prastaraKani#} {%f.%} -{#A-#}
+{#-karaH#}. -{%a.%} {@Stony,@} q. v. -{%v. t.%} {#lozwaGAtaM-#}
+{#-upalEH-han#} 2 P or {#vyA-pad#} c. -{@y,@} {%a.%} {#upala-#}
+{#-saMkula-bahula-AkIrRa#}. {@2@} {#Opala#} ({#lI#} {%f.%}),
+{#SilA-prastara-maya#} ({#yI#} {%f.%}), {#SArkara#} ({#rI#} {%f.%}),
+{#ASmika#} ({#kI#} {%f.%}), {#Sarkarila, Sa(SA)-#}
+{#-rkarika#} ({#kI#} {%f.%}), ({%s.%}) in comp.; ‘s.
+seat’ {#SilAsanaM#}. {@3@} {#prastaraniBa-tulya-samAna#}.
 <LEND>

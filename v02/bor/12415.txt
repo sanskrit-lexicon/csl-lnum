@@ -1,6 +1,6 @@
 <L>12415<pc>385<k1>insirumental<k2>insirumental
-<div n="lb"/>{@INSIRUMENTAL:@}¦ expr. by subs., <div n="xe">{%I was i. in%}
-<div n="lb"/>{%his release:%}</div> <div n="xs">{#tasya mokzasya sADanamahamAsam:#}</div> v. Also
-<div n="lb"/>cause. Ph.: <div n="xe">{%i. case:%}</div> <div n="xs">{#karaRam;#}</div> <div n="xe">{%i. music:%}</div> <div n="xs">{#vAditram:#}</div>
-<div n="lb"/>v. Music.
+{@INSIRUMENTAL:@}¦ expr. by subs., <div n="xe">{%I was i. in%}
+{%his release:%}</div> <div n="xs">{#tasya mokzasya sADanamahamAsam:#}</div> v. Also
+cause. Ph.: <div n="xe">{%i. case:%}</div> <div n="xs">{#karaRam;#}</div> <div n="xe">{%i. music:%}</div> <div n="xs">{#vAditram:#}</div>
+v. Music.
 <LEND>

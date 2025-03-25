@@ -1,7 +1,7 @@
 <L>18018<pc>458-b<k1>liquor<k2>liquor
-<div n="lb"/>LIQUOR¦, {%s.%} (Fluid) {#dravaH, dravadravyaM, dravapadArTaH, sadravapadArTaH, dravavastu#} {%n.,%}
-<div n="lb"/>{#rasaH, jalaM#}. — (Drink) {#peyaM, pAnIyaM, peyadravyaM#}. — (Spirituous liquor)
-<div n="lb"/>{#madyaM, madirA, madaH, surA -rI, vAruRI, SuRqA, SIDuH#} {%m.%} {#-Du, sIDuH#} {%m.,%}
-<div n="lb"/>{#hAlA, AsavaM, kalyaM -lyA, kaSyaM;#} ‘drinker of spirituous liquor’
-<div n="lb"/>{#surApaH -pI#} {%f.,%} {#madyapaH -pI#} {%f.,%} {#SIDupaH -pI#} {%f.,%} {#SuRqApAyI#} {%m.%} {#-yinI#} {%f.%}
+LIQUOR¦, {%s.%} (Fluid) {#dravaH, dravadravyaM, dravapadArTaH, sadravapadArTaH, dravavastu#} {%n.,%}
+{#rasaH, jalaM#}. — (Drink) {#peyaM, pAnIyaM, peyadravyaM#}. — (Spirituous liquor)
+{#madyaM, madirA, madaH, surA -rI, vAruRI, SuRqA, SIDuH#} {%m.%} {#-Du, sIDuH#} {%m.,%}
+{#hAlA, AsavaM, kalyaM -lyA, kaSyaM;#} ‘drinker of spirituous liquor’
+{#surApaH -pI#} {%f.,%} {#madyapaH -pI#} {%f.,%} {#SIDupaH -pI#} {%f.,%} {#SuRqApAyI#} {%m.%} {#-yinI#} {%f.%}
 <LEND>

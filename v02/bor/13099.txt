@@ -1,8 +1,8 @@
 <L>13099<pc>404<k1>labour<k2>labour
-<div n="lb"/>{@LABOUR@}¦ (v.): <div n="I">I To toil: </div><div n="1">(1) {#pariSramaM karoti;#}</div>
-<div n="lb"/><div n="1">(2) {#AyAsaM karoti.#} </div><div n="I">II To work: {#karma karoti.#}</div>
-<div n="lb"/><div n="I">III To strive: {#yatnaM#} <div n="xe">{%or%}</div> <div n="xs">{#udyogaM karoti.#}</div> </div><div n="I">IV To
-<div n="lb"/>be in travail: {#prasavAvasTAyAM vartate.#} </div><div n="I">V To 1.
-<div n="lb"/>under, suffer: {#bADyate#} (pass. of {#bAD#}) {%or%}
-<div n="lb"/>{#bADitaH#} ({#tA, taM#}).</div>
+{@LABOUR@}¦ (v.): <div n="I">I To toil: </div><div n="1">(1) {#pariSramaM karoti;#}</div>
+<div n="1">(2) {#AyAsaM karoti.#} </div><div n="I">II To work: {#karma karoti.#}</div>
+<div n="I">III To strive: {#yatnaM#} <div n="xe">{%or%}</div> <div n="xs">{#udyogaM karoti.#}</div> </div><div n="I">IV To
+be in travail: {#prasavAvasTAyAM vartate.#} </div><div n="I">V To 1.
+under, suffer: {#bADyate#} (pass. of {#bAD#}) {%or%}
+{#bADitaH#} ({#tA, taM#}).</div>
 <LEND>

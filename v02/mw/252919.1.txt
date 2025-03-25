@@ -1,3 +1,3 @@
-<L>252919.1<pc>1250,2<k1>somaBakzajapa<k2>so/ma—Bakza—japa<e>4
-<s>so/ma—Bakza—japa</s> ¦ <lex>m.</lex>, ‘a prayer muttered while the <s1 slp1="soma">Soma</s1> is drunk’<info phwparent="252918,somaBakza"/><info lex="m"/>
+<L>252919.1<pc>1250,2<k1>somaBakzajapa<k2>soma—Bakza—japa<e>4
+<s>soma—Bakza—japa</s> ¦ <lex>m.</lex> ‘a prayer muttered while the <s1>Soma</s1> is drunk’<info phwparent="252918,somaBakza"/><info lex="m"/>
 <LEND>

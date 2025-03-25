@@ -1,19 +1,19 @@
 <L>93024<pc>6-1172<k1>vilola<k2>vilola
-{#vilola#}¦ (von {#lul#} mit {#vi#} oder 2. {#vi + lola#}) <lex>adj.</lex> (f. {#A#}) {%sich hinundher bewegend, unruhig, unstät%}: {#GaRwA#} 
-<ls>RAGH. 7, 38.</ls> {#hAra#} 
-<ls>16, 68.</ls> {#yazwi#} 
-<ls>KUMĀRAS. 5, 8.</ls> {#pallava#} 
-<ls>4, 38.</ls> {#kamala#} 
-<ls>KATHĀS. 103, 162.</ls> {#dorvallarI#} 
-<ls>PAÑCAR. 3, 5, 21.</ls> {#alaka#} 
-<ls>KATHĀS. 15, 92.</ls> {#jihvA#} 
-<ls>?22, 63. ṚT. 1, 14. 19. BHĀG. P. 2, 7, 28. Auge, Blick ṚT. 2, 9. RAGH. 7, 11. 8, 58. KUMĀRAS. 5, 13. GĪT. 1, 40. KIR. 8, 45. CAURAP. 10. CHANDOM. 93. KATHĀS. 37, 14.</ls> {#aSruvilolalocana#} 
-<ls>BHĀG. P. 8, 22, 14.</ls> {#°tAraka#} 
-<ls>Spr. 1311 (II). 1635.</ls> {#vilolatilakAntEH sanetrAmBoBirAnanEH#} 
-<ls>RĀJA-TAR. 4, 130.</ls> {#nadI#} 
-<ls>MĀRK. P. 77, 6.</ls> {#SalaBa, kAma#} 
-<ls>Spr. (II) 2303.</ls> {#yasya cetasi sadA muravErI ballavIjanavilAsavilolaH#} 
-<ls>CHANDOM. 35.</ls> {#lakzmyA vidyudvilolayA#} 
-<ls>KATHĀS. 113, 48.</ls> {#api kuYjarakarRAntAdapi pippalapallavAt . api vidyudvilasitAdvilolaM lalanAmanaH ..#} 
+{#vilola#}¦ (von {#lul#} mit {#vi#} oder 2. {#vi + lola#}) <lex>adj.</lex> (f. {#A#}) {%sich hinundher bewegend, unruhig, unstät%}: {#GaRwA#}
+<ls>RAGH. 7,38.</ls> {#hAra#}
+<ls n="RAGH.">16,68.</ls> {#yazwi#}
+<ls>KUMĀRAS. 5,8.</ls> {#pallava#}
+<ls n="KUMĀRAS.">4,38.</ls> {#kamala#}
+<ls>KATHĀS. 103,162.</ls> {#dorvallarI#}
+<ls>PAÑCAR. 3,5,21.</ls> {#alaka#}
+<ls>KATHĀS. 15,92.</ls> {#jihvA#}
+<ls n="KATHĀS.">22,63.</ls> <ls>ṚT. 1,14. 19.</ls> <ls>BHĀG. P. 2,7,28.</ls> Auge, Blick <ls>ṚT. 2,9.</ls> <ls>RAGH. 7,11.</ls> <ls n="RAGH.">8,58.</ls> <ls>KUMĀRAS. 5,13.</ls> <ls>GĪT. 1,40.</ls> <ls>KIR. 8,45.</ls> <ls>CAURAP. 10.</ls> <ls>CHANDOM. 93.</ls> <ls>KATHĀS. 37,14.</ls> {#aSruvilolalocana#}
+<ls>BHĀG. P. 8,22,14.</ls> {#°tAraka#}
+<ls>Spr. (II) 1311.</ls> <ls>Spr. 1635.</ls> {#vilolatilakAntEH sanetrAmBoBirAnanEH#}
+<ls>RĀJA-TAR. 4,130.</ls> {#nadI#}
+<ls>MĀRK. P. 77,6.</ls> {#SalaBa, kAma#}
+<ls>Spr. (II) 2303.</ls> {#yasya cetasi sadA muravErI ballavIjanavilAsavilolaH#}
+<ls>CHANDOM. 35.</ls> {#lakzmyA vidyudvilolayA#}
+<ls>KATHĀS. 113,48.</ls> {#api kuYjarakarRAntAdapi pippalapallavAt . api vidyudvilasitAdvilolaM lalanAmanaH ..#}
 <ls>Spr. (II) 421.</ls>
 <LEND>

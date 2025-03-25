@@ -1,14 +1,14 @@
 <L>20496<pc>642<k1>sick<k2>sick
-<div n="lb"/>{@SICK:@}¦ <div n="I">I Inclined to vomit: </div><div n="1">(1) {#vivamizu#}
-<div n="lb"/>(mfn.); </div><div n="1">(2) {#CardyAta#} (f. {#rtA#}); and sim. comp. s.
-<div n="lb"/><div n="xe">{%To be s.:%}</div> <div n="xs">{#vamati#}</div> ({#vam,#} c. 1.): v. To vomit;
-<div n="lb"/>{%to make%} ({%one%}) <div n="xe">{%s.:%}</div> <div n="xs">{#vAmayati#}</div> (c. of {#vam#}), Sr. </div><div n="I">II
-<div n="lb"/>To be disgusted at: expr. with {#virakta#}
-<div n="lb"/>(f. {#ktA#}), {#vitfzRa#} (f. {#zRA#}), {#vItaspfha#} (f. {#hA#}); and
-<div n="lb"/>sim. comp. s., <div n="xe">{%being s. of the world:%}</div> <div n="xs">{#udIrRavErAgya#}</div>
-<div n="lb"/>(f. {#gyA#}), D. ii. </div><div n="I">III Diseased, ill: q. v.:</div>
-<div n="lb"/><div n="1">(1) {#pIqita#} (f. {#tA#}); </div><div n="1">(2) {#vyADita#} (f. {#tA#}); </div><div n="1">(3)
-<div n="lb"/>{#rujArta#} (f. {#rtA#}); </div><div n="1">(4) {#rogin#} (f. {#RI#}); and sim.
-<div n="lb"/>deriv. s. </div><div n="I">IV Of mind: </div><div n="1">(1) {#pIqita#} (f. {#tA#});</div>
-<div n="lb"/><div n="1">(2) {#vyaTita#} (f. {#tA#}); </div><div n="1">(3) {#upatapta#} (f. {#ptA#}).</div>
+{@SICK:@}¦ <div n="I">I Inclined to vomit: </div><div n="1">(1) {#vivamizu#}
+(mfn.); </div><div n="1">(2) {#CardyAta#} (f. {#rtA#}); and sim. comp. s.
+<div n="xe">{%To be s.:%}</div> <div n="xs">{#vamati#}</div> ({#vam,#} c. 1.): v. To vomit;
+{%to make%} ({%one%}) <div n="xe">{%s.:%}</div> <div n="xs">{#vAmayati#}</div> (c. of {#vam#}), Sr. </div><div n="I">II
+To be disgusted at: expr. with {#virakta#}
+(f. {#ktA#}), {#vitfzRa#} (f. {#zRA#}), {#vItaspfha#} (f. {#hA#}); and
+sim. comp. s., <div n="xe">{%being s. of the world:%}</div> <div n="xs">{#udIrRavErAgya#}</div>
+(f. {#gyA#}), D. ii. </div><div n="I">III Diseased, ill: q. v.:</div>
+<div n="1">(1) {#pIqita#} (f. {#tA#}); </div><div n="1">(2) {#vyADita#} (f. {#tA#}); </div><div n="1">(3)
+{#rujArta#} (f. {#rtA#}); </div><div n="1">(4) {#rogin#} (f. {#RI#}); and sim.
+deriv. s. </div><div n="I">IV Of mind: </div><div n="1">(1) {#pIqita#} (f. {#tA#});</div>
+<div n="1">(2) {#vyaTita#} (f. {#tA#}); </div><div n="1">(3) {#upatapta#} (f. {#ptA#}).</div>
 <LEND>

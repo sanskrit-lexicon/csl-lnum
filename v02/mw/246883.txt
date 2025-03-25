@@ -1,3 +1,3 @@
-<L>246883<pc>1225,3<k1>sutarAm<k2>su-tarAm<h>b<e>1
-<s>su-tarAm</s> <hom>b</hom> ¦ <lex>ind.</lex> (<ab>fr.</ab> <hom>5.</hom> <s>su</s> + <s>tarAm</s> = <s>taram</s>) still more, in a higher degree, excessively (<s>sutarAm na</s>, ‘still less’; <s>na s°</s>, ‘very badly’; <s>mA s°</s>, ‘in no way’, ‘by no means’), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="ind"/>
+<L>246883<pc>1225,3<k1>sutarAm<k2>su-tarAm<e>1
+<s>su-tarAm</s> ¦ <lex>ind.</lex> (<ab>fr.</ab> <hom>5.</hom> <s>su</s> + <s>tarAm</s> = <s>taram</s>) still more, in a higher degree, excessively (<s>sutarAm na</s>, ‘still less’; <s>na s°</s>, ‘very badly’; <s>mA s°</s>, ‘in no way’, ‘by no means’), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="ind"/><info hui="b"/>
 <LEND>

@@ -1,42 +1,41 @@
 <L>38896<pc>4-0150<k1>nideSa<k2>nideSa
-{#nideSa#}¦ (von 1. {#diS#} mit {#ni#}) <lex>m.</lex> 
-<div n="1"> 1) {%Befehl%} 
-<ls>AK. 2, 8, 1, 25. 3, 4, 25, 181.</ls> 
-<ls>H. 277.</ls> 
-<ls>an. 3, 722.</ls> 
-<ls>KATHĀS. 22, 259.</ls> {#AcAryanideSena#} 
-<ls>4, 18.</ls> {#nAgarAjanideSataH#} 
-<ls>22, 209.</ls> {#nideSAtsvargiRaH pituH#} 
-<ls>RAGH. ed. Calc. 12, 17.</ls> {#anuzWita°#} 
-<ls>ŚĀK. 97, 2.</ls> {#kAlameva pratIkzeta nideSaM Bftako yaTA#} 
-<ls>MBH. 12, 8929.</ls> {#nideSaM kartuM te#} 
-<ls>R. 2, 34, 44.</ls> {#yuDizWirasyAsmi nideSakArI#} 
-<ls>MBH. 4, 2102.</ls> 
-<ls>BHĀG. P. 7, 8, 48.</ls> {#°kft#} 
-<ls>1, 17, 40.</ls> {#nideSe vartamAnAnAm#} 
-<ls>MBH. 1, 637.</ls> {#°vartI ca pituH putro Bavati DarmataH#} 
-<ls>?15, 155. R. 4, 38, 59. 40, 5. ŚĀK. 139, v. l. DAŚAK. 159, 4.</ls> {#nideSe hi mayA tuByaM sTAtavyamanasUyatA#} 
-<ls>MATSYOP. 19.</ls> {#sTitAnnideSe (gajAn)#} 
-<ls>MBH. 3, 959.</ls> 
-<ls>RAGH. 14, 44.</ls> 
-<ls>MĀLAV. 89.</ls> {#nideSe nirataH pituH#} 
-<ls>R. 4, 14, 18.</ls> {#nideSaM Bavato yaToktamanupAlayan#} 
-<ls>R.</ls> <ls>SCHL. 2, 34, 43.</ls> {#nideSaM pAlayatu#} 
-<ls>52. 77.</ls> {#°BAj#}
+{#nideSa#}¦ (von 1. {#diS#} mit {#ni#}) <lex>m.</lex>
+<div n="1"> 1) {%Befehl%}
+<ls>AK. 2,8,1,25.</ls> <ls n="AK.">3,4,25,181.</ls>
+<ls>H. 277.</ls>
+<ls>an. 3,722.</ls>
+<ls>KATHĀS. 22,259.</ls> {#AcAryanideSena#}
+<ls n="KATHĀS.">4,18.</ls> {#nAgarAjanideSataH#}
+<ls n="KATHĀS.">22,209.</ls> {#nideSAtsvargiRaH pituH#}
+<ls>RAGH. ed. Calc. 12,17.</ls> {#anuzWita°#}
+<ls>ŚĀK. 97,2.</ls> {#kAlameva pratIkzeta nideSaM Bftako yaTA#}
+<ls>MBH. 12,8929.</ls> {#nideSaM kartuM te#}
+<ls>R. 2,34,44.</ls> {#yuDizWirasyAsmi nideSakArI#}
+<ls>MBH. 4,2102.</ls>
+<ls>BHĀG. P. 7,8,48.</ls> {#°kft#}
+<ls n="BHĀG. P.">1,17,40.</ls> {#nideSe vartamAnAnAm#}
+<ls>MBH. 1,637.</ls> {#°vartI ca pituH putro Bavati DarmataH#}
+<ls n="MBH.">15,155.</ls> <ls>R. 4,38,59.</ls> <ls n="R. 4,">40,5.</ls> <ls>ŚĀK. 139, v. l.</ls> <ls>DAŚAK. 159,4.</ls> {#nideSe hi mayA tuByaM sTAtavyamanasUyatA#}
+<ls>MATSYOP. 19.</ls> {#sTitAnnideSe (gajAn)#}
+<ls>MBH. 3,959.</ls>
+<ls>RAGH. 14,44.</ls>
+<ls>MĀLAV. 89.</ls> {#nideSe nirataH pituH#}
+<ls>R. 4,14,18.</ls> {#nideSaM Bavato yaToktamanupAlayan#}
+<ls>R. SCHL. 2,34,43.</ls> {#nideSaM pAlayatu#}
+<ls n="R. SCHL.">52. 77.</ls> {#°BAj#}
 [Page4-0151]
-
-<ls>MBH. 2, 567.</ls> 
-<ls>BHĀG. P. 3, 33, 5.</ls> {#nideSa = pariBAzaRa#} {%Unterhaltung, Gespräch%} 
-<ls>H. an.</ls> 
-<div n="1">— 2) {%Nähe%} 
-<ls>H. an.</ls> {#praRamya tu (guroH) SayAnasya nideSe cEva tizWataH#} 
-<ls>M. 2, 197.</ls> Könnte viell. auch bedeuten {%wenn er im Begriff steht Etwas zu befehlen%} (sonst bedeutet aber {#nideSe sTA#} {%einem Befehle nachkommen%}). 
-<ls>KULL.</ls> : {#nideSe nikawe avatizWato gurorAdiSataH prahvIBUyEva pratiSravaRasaMBAze kuryAt#} . 
-<div n="1">— 3) = {#BAjana#} {%Gefäss%} 
-<ls>DHAR.</ls> im <ls>ŚKDR.</ls> {%the word of command; ordering, commanding%} 
+<ls>MBH. 2,567.</ls>
+<ls>BHĀG. P. 3,33,5.</ls> {#nideSa = pariBAzaRa#} {%Unterhaltung, Gespräch%}
+<ls>H. an.</ls>
+<div n="1">— 2) {%Nähe%}
+<ls>H. an.</ls> {#praRamya tu (guroH) SayAnasya nideSe cEva tizWataH#}
+<ls>M. 2,197.</ls> Könnte viell. auch bedeuten {%wenn er im Begriff steht Etwas zu befehlen%} (sonst bedeutet aber {#nideSe sTA#} {%einem Befehle nachkommen%}).
+<ls>KULL.</ls> : {#nideSe nikawe avatizWato gurorAdiSataH prahvIBUyEva pratiSravaRasaMBAze kuryAt#} .
+<div n="1">— 3) = {#BAjana#} {%Gefäss%}
+<ls>DHAR.</ls> im <ls>ŚKDR.</ls> {%the word of command; ordering, commanding%}
 <ls>WILS.</ls> nach ders. Aut.
-<div n="v">— Vgl. {#nirdeSa#}, welchem 
-<ls>MED.</ls> wie <ls>H. an.</ls> bei {#nideSa#} die drei Bedd. {#SAsana, kaTana#} und {#upAnta#} giebt; 
-<ls>ŚKDR.</ls> und <ls>WILS.</ls> haben aber auch in 
+<div n="v">— Vgl. {#nirdeSa#}, welchem
+<ls>MED.</ls> wie <ls>H. an.</ls> bei {#nideSa#} die drei Bedd. {#SAsana, kaTana#} und {#upAnta#} giebt;
+<ls>ŚKDR.</ls> und <ls>WILS.</ls> haben aber auch in
 <ls>MED.</ls> die Lesart {#nideSa#} vor Augen gehabt.
 <LEND>

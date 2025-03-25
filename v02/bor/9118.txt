@@ -1,16 +1,16 @@
 <L>9118<pc>288<k1>foot<k2>foot
-<div n="lb"/>{@FOOT@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#pAdaH,#} <div n="xe">{%without hand%}
-<div n="lb"/>{%and f.:%}</div> <div n="xs">{#apARipAdaH#}</div> ({#dA, daM#}). S.; {%to go on f.:%}
-<div n="lb"/>{#padByAM#} ({%or%} {#pAdacAreRa#} A.r.) {#gacCatiH#} Mr.; <div n="xe">{%water%}
-<div n="lb"/>{%for cleaning the feet:%}</div> <div n="xs">{#pAdyam;#}</div> <div n="xe">{%water in which feet%}
-<div n="lb"/>{%have been washed:%}</div> <div n="xs">{#pAdodakam;#}</div> </div><div n="1">(2) {#caraRa#} (mn.);</div>
-<div n="lb"/><div n="1">(3) {#padam;#} </div><div n="1">(4) {#aMGniH.#} </div><div n="I">II Fig.: {#pAdaH,#} <div n="xe">{%from its%}
-<div n="lb"/>{%f. rises the lake named Hill-water:%}</div> <div n="xs">{#tasya pAdAt#}</div> [Page289]
-<div n="lb"/>{#praBavati SElodaM nAma tatsaraH,#} Mat.: v. Bottom. </div><div n="I">III
-<div n="lb"/>Of a stool etc.: {#pAdaH#} <div n="xe">{%or%}</div> <div n="xs">{#padam.#}</div> </div><div n="I">IV Metrical
-<div n="lb"/>f.: </div><div n="1">(1) {#caraRa#} (mn.), <div n="xe">{%a Gāyatri f. consists of six%}
-<div n="lb"/>{%syllables:%}</div> <div n="xs">{#zaqakzaro gAyatrIcaraRaH,#}</div> Li.; </div><div n="1">(2) {#pAdaH;#}</div>
-<div n="lb"/><div n="1">(3) {#padam.#} V. A measure: expr. by {#hastaH#}
-<div n="lb"/>(= cubit), <div n="xe">{%three f. in length:%}</div> <div n="xs">{#trihastadIrGaH#}</div> ({#rGA, #}
-<div n="lb"/>{# rGaM#}). </div><div n="I">VI Infantry: </div><div n="1">(1) {#pattiH;#} </div><div n="1">(2) {#padAtiH.#}</div>
+{@FOOT@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#pAdaH,#} <div n="xe">{%without hand%}
+{%and f.:%}</div> <div n="xs">{#apARipAdaH#}</div> ({#dA, daM#}). S.; {%to go on f.:%}
+{#padByAM#} ({%or%} {#pAdacAreRa#} A.r.) {#gacCatiH#} Mr.; <div n="xe">{%water%}
+{%for cleaning the feet:%}</div> <div n="xs">{#pAdyam;#}</div> <div n="xe">{%water in which feet%}
+{%have been washed:%}</div> <div n="xs">{#pAdodakam;#}</div> </div><div n="1">(2) {#caraRa#} (mn.);</div>
+<div n="1">(3) {#padam;#} </div><div n="1">(4) {#aMGniH.#} </div><div n="I">II Fig.: {#pAdaH,#} <div n="xe">{%from its%}
+{%f. rises the lake named Hill-water:%}</div> <div n="xs">{#tasya pAdAt#}</div> [Page289]
+{#praBavati SElodaM nAma tatsaraH,#} Mat.: v. Bottom. </div><div n="I">III
+Of a stool etc.: {#pAdaH#} <div n="xe">{%or%}</div> <div n="xs">{#padam.#}</div> </div><div n="I">IV Metrical
+f.: </div><div n="1">(1) {#caraRa#} (mn.), <div n="xe">{%a Gāyatri f. consists of six%}
+{%syllables:%}</div> <div n="xs">{#zaqakzaro gAyatrIcaraRaH,#}</div> Li.; </div><div n="1">(2) {#pAdaH;#}</div>
+<div n="1">(3) {#padam.#} V. A measure: expr. by {#hastaH#}
+(= cubit), <div n="xe">{%three f. in length:%}</div> <div n="xs">{#trihastadIrGaH#}</div> ({#rGA, #}
+{# rGaM#}). </div><div n="I">VI Infantry: </div><div n="1">(1) {#pattiH;#} </div><div n="1">(2) {#padAtiH.#}</div>
 <LEND>

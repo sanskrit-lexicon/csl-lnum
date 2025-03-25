@@ -1,8 +1,8 @@
 <L>22545<pc>712<k1>thus<k2>thus
-<div n="lb"/>{@THUS:@}¦ <div n="1">(1) {#itTam,#} <div n="xe">{%the king first argued t.:%}</div> <div n="xs">{#itTaM nfpaH #}
-<div n="lb"/>{# pUrvamavAluluce,#}</div> B. i. 23.; </div><div n="1">(2) {#evam,#} <div n="xe">{%while the%}
-<div n="lb"/>{%divine sage was talking t.:%}</div> <div n="xs">{#evaMvAdini devarzO,#}</div> Ku.
-<div n="lb"/>vi. 84.; </div><div n="1">(3) {#iti#} (to connect a quotation),
-<div n="lb"/>R. viii. 75. Ph.: <div n="xe">{%t. much:%}</div> <div n="xs">{#etAvat:#}</div> v. Much,
-<div n="lb"/>so; <div n="xe">{%t. far:%}</div> <div n="xs">{#etAvatIM BUmim,#}</div> K.</div>
+{@THUS:@}¦ <div n="1">(1) {#itTam,#} <div n="xe">{%the king first argued t.:%}</div> <div n="xs">{#itTaM nfpaH #}
+{# pUrvamavAluluce,#}</div> B. i. 23.; </div><div n="1">(2) {#evam,#} <div n="xe">{%while the%}
+{%divine sage was talking t.:%}</div> <div n="xs">{#evaMvAdini devarzO,#}</div> Ku.
+vi. 84.; </div><div n="1">(3) {#iti#} (to connect a quotation),
+R. viii. 75. Ph.: <div n="xe">{%t. much:%}</div> <div n="xs">{#etAvat:#}</div> v. Much,
+so; <div n="xe">{%t. far:%}</div> <div n="xs">{#etAvatIM BUmim,#}</div> K.</div>
 <LEND>

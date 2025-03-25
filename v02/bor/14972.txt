@@ -1,8 +1,8 @@
 <L>14972<pc>457<k1>morning<k2>morning
-<div n="lb"/>{@MORNING@}¦ (adj.): <div n="1">(1) by comp., {%m. breeze:%}
-<div n="lb"/>{#viBAtavAyuH,#} <ls>R.</ls> ; <div n="xe">{%the m. star:%}</div> <div n="xs">{#*praBAtatArA;#}</div> </div><div n="1">(2)
-<div n="lb"/>{#prAtar-#} in comp., <div n="xe">{%m. time:%}</div> <div n="xs">{#prAtaHkAlaH;#}</div> {%m. meal:%}
-<div n="lb"/>{#prAtarASaH;#} <div n="xe">{%m. duties:%}</div> <div n="xs">{#prAtaHkftyAni;#}</div> </div><div n="1">(3) {#prABAtikaH#}
-<div n="lb"/>({#kI, kaM#}); </div><div n="1">(4) {#pragetanaH#} ({#nI, naM#}); </div><div n="1">(5) {#prAtaHkAlInaH#}
-<div n="lb"/>({#nA, naM#}). Ph.: <div n="xe">{%the m. sun:%}</div> <div n="xs">{#bAlArURaH,#}</div> R.</div>
+{@MORNING@}¦ (adj.): <div n="1">(1) by comp., {%m. breeze:%}
+{#viBAtavAyuH,#} <ls>R.</ls> ; <div n="xe">{%the m. star:%}</div> <div n="xs">{#*praBAtatArA;#}</div> </div><div n="1">(2)
+{#prAtar-#} in comp., <div n="xe">{%m. time:%}</div> <div n="xs">{#prAtaHkAlaH;#}</div> {%m. meal:%}
+{#prAtarASaH;#} <div n="xe">{%m. duties:%}</div> <div n="xs">{#prAtaHkftyAni;#}</div> </div><div n="1">(3) {#prABAtikaH#}
+({#kI, kaM#}); </div><div n="1">(4) {#pragetanaH#} ({#nI, naM#}); </div><div n="1">(5) {#prAtaHkAlInaH#}
+({#nA, naM#}). Ph.: <div n="xe">{%the m. sun:%}</div> <div n="xs">{#bAlArURaH,#}</div> R.</div>
 <LEND>

@@ -1,22 +1,22 @@
 <L>113755<pc>7-1275<k1>styAna<k2>styAna
-{#styAna#}¦ (von {#styA#}) 
-<div n="1"> 1) <lex>adj.</lex> {%geronnen%} 
-<ls>H. 1494.</ls> 
-<ls>HALĀY. 2, 121.</ls> {#Gfta#} 
-<ls>SUŚR. 1, 97, 18.</ls> {#SoRita#} 
-<ls>2, 57, 2.</ls> <ls>SĀH. D. 146, 5.</ls> {#SoPa#} 
-<ls>CARAKA 1, 18.</ls> {%erstarrt%}: {#hfdaya#} 
-<ls>8, 13.</ls> = {#snigDa#} 
-<ls>H. an. 2, 290.</ls> 
-<ls>MED. n. 23.</ls> 
-<div n="1">— 2) <lex>n.</lex> 
-<div n="2"> a) {%das Gerinnen, Verdichtung%}; = {#Ganatva#} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— b) {%Intensität%}: {#daDati styAnamambUkftAni#} 
-<ls>UTTARAR. 33, 20 (45, 2).</ls> 
-<div n="2">— c) {%Apathie%} 
-<ls>Lot. de la b. l. 443.</ls> <ls>LALIT. ed. Calc. 159, 2.</ls> <ls>YOGAS. 1, 30.</ls> = {#akarmaRyatA cittasya#} Comm. = {#Alasya#} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 137.</ls> 
-<div n="2">— d) {%Echo (verstärkter Laut%}) 
+{#styAna#}¦ (von {#styA#})
+<div n="1"> 1) <lex>adj.</lex> {%geronnen%}
+<ls>H. 1494.</ls>
+<ls>HALĀY. 2,121.</ls> {#Gfta#}
+<ls>SUŚR. 1,97,18.</ls> {#SoRita#}
+<ls n="SUŚR.">2,57,2.</ls> <ls>SĀH. D. 146,5.</ls> {#SoPa#}
+<ls>CARAKA 1,18.</ls> {%erstarrt%}: {#hfdaya#}
+<ls n="CARAKA">8,13.</ls> = {#snigDa#}
+<ls>H. an. 2,290.</ls>
+<ls>MED. n. 23.</ls>
+<div n="1">— 2) <lex>n.</lex>
+<div n="2"> a) {%das Gerinnen, Verdichtung%}; = {#Ganatva#}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— b) {%Intensität%}: {#daDati styAnamambUkftAni#}
+<ls>UTTARAR. 33,20 (45,2).</ls>
+<div n="2">— c) {%Apathie%}
+<ls>Lot. de la b. l. 443.</ls> <ls>LALIT. ed. Calc. 159,2.</ls> <ls>YOGAS. 1,30.</ls> = {#akarmaRyatA cittasya#} Comm. = {#Alasya#}
+<ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 137.</ls>
+<div n="2">— d) {%Echo (verstärkter Laut%})
 <ls>H. an.</ls> <ls>MED.</ls>
 <LEND>

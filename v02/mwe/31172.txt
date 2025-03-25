@@ -1,18 +1,18 @@
 <L>31172<pc>836-a<k1>water<k2>water
-<div n="lb"/>WATER¦, {%s.%} {#jalaM, vAri#} {%n.,%} {#ambu#} {%n.,%} {#amBas#} {%n.,%} {#salilaM, udakaM, udaM,#}
-<div n="lb"/>{#payas#} {%n.,%} {#toyaM, pAnIyaM, ApaH#} {%f. pl.%} {#(ap), nIraM, vAr#} {%f. n.,%} {#pATas#} {%n.,%}
-<div n="lb"/>{#kIlAlaM, puzkaraM, arRas#} {%n.,%} {#peyaM, salaM, saMvaraM, SaMvaraM, sambaM -mbaraM, savaM#}
-<div n="lb"/>{#-varaH, kzIraM, pAyaM, kzaraM, kamalaM, komalaM, pIvA, amftaM, jIvanaM, jIva-#}
-<div n="lb"/>{#nIyaM, BuvanaM, vanaM, kabanDaM, kaM, anDaM, sarvatomuKaM, meGapuzpaM, GanarasaH,#}
-<div n="lb"/>{#vahnimArakaM, dahanArAtiH#} {%m.,%} {#nIcagaM, kulInasaM, kftsnaM, kfpIwaM, pAvanaM,#}
-<div n="lb"/>{#SaralakaM, tfzAhaM;#} ‘warm water,’ {#uzRodakaM, GarmmodakaM, GarmmAmbu#} {%n.;%}
-<div n="lb"/>‘cold water,’ {#SItodakaM;#} ‘boiling water,’ {#pakvavAri#} {%n.,%} {#taptajalaM,#}
-<div n="lb"/>{#taptodakaM, haraRaM;#} ‘land and water,’ {#sTalajalaM;#} ‘place where
-<div n="lb"/>water is distributed,’ {#prapA;#} ‘holy water for the feet,’
-<div n="lb"/>{#pAdyaM, pAdodakaM, caraRodakaM;#} ‘bread and water,’ {#annodakaM;#} ‘grow-
-<div n="lb"/>ing in water,’ {#jalodBavaH -vA -vaM, jalaBUH -BUH -Bu;#} ‘living on
-<div n="lb"/>water,’ {#abBakzaH -kzA -kzaM;#} ‘living in water,’ {#jalacaraH -rA -raM,#}
-<div n="lb"/>{#jalacArI -riRI#} &c.; ‘water-animal,’ {#jalajantuH#} {%m.;%} ‘having
-<div n="lb"/>much water,’ {#bahUdakaH -kA -kaM;#} ‘having clean water,’
-<div n="lb"/>{#acCodaH -dA -daM,#} {%see%} OCEAN.
+WATER¦, {%s.%} {#jalaM, vAri#} {%n.,%} {#ambu#} {%n.,%} {#amBas#} {%n.,%} {#salilaM, udakaM, udaM,#}
+{#payas#} {%n.,%} {#toyaM, pAnIyaM, ApaH#} {%f. pl.%} {#(ap), nIraM, vAr#} {%f. n.,%} {#pATas#} {%n.,%}
+{#kIlAlaM, puzkaraM, arRas#} {%n.,%} {#peyaM, salaM, saMvaraM, SaMvaraM, sambaM -mbaraM, savaM#}
+{#-varaH, kzIraM, pAyaM, kzaraM, kamalaM, komalaM, pIvA, amftaM, jIvanaM, jIva-#}
+{#nIyaM, BuvanaM, vanaM, kabanDaM, kaM, anDaM, sarvatomuKaM, meGapuzpaM, GanarasaH,#}
+{#vahnimArakaM, dahanArAtiH#} {%m.,%} {#nIcagaM, kulInasaM, kftsnaM, kfpIwaM, pAvanaM,#}
+{#SaralakaM, tfzAhaM;#} ‘warm water,’ {#uzRodakaM, GarmmodakaM, GarmmAmbu#} {%n.;%}
+‘cold water,’ {#SItodakaM;#} ‘boiling water,’ {#pakvavAri#} {%n.,%} {#taptajalaM,#}
+{#taptodakaM, haraRaM;#} ‘land and water,’ {#sTalajalaM;#} ‘place where
+water is distributed,’ {#prapA;#} ‘holy water for the feet,’
+{#pAdyaM, pAdodakaM, caraRodakaM;#} ‘bread and water,’ {#annodakaM;#} ‘grow-
+ing in water,’ {#jalodBavaH -vA -vaM, jalaBUH -BUH -Bu;#} ‘living on
+water,’ {#abBakzaH -kzA -kzaM;#} ‘living in water,’ {#jalacaraH -rA -raM,#}
+{#jalacArI -riRI#} &c.; ‘water-animal,’ {#jalajantuH#} {%m.;%} ‘having
+much water,’ {#bahUdakaH -kA -kaM;#} ‘having clean water,’
+{#acCodaH -dA -daM,#} {%see%} OCEAN.
 <LEND>

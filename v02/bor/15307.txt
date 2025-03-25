@@ -1,15 +1,15 @@
 <L>15307<pc>469<k1>neck<k2>neck
-<div n="lb"/>{@NECK:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#grIvA,#} <div n="xe">{%long n.ed:%}</div> <div n="xs">{#dIrGagrIva#}</div>
-<div n="lb"/>(f. {#vA#}), U.; <div n="xe">{%with the n. turned up:%}</div> <div n="xs">{#udgrIva#}</div>
-<div n="lb"/>(f. {#vA#}), Ki. vii. 22.; </div><div n="1">(2) {#galaH,#} <div n="xe">{%putting his%}
-<div n="lb"/>{%feet on our n.s:%}</div> <div n="xs">{#kftvA padaM no gale,#}</div> Mu. iii.; {%who%}
-<div n="lb"/>{%will seize him by the n.%} ({%and turn him out%}): {#ya #}
-<div n="lb"/>{# enaM galahastayati,#} H. iii. <div n="xe">{%or%}</div> <div n="xs">{#ardDacandraM dattvA niHsArayati,#}</div>
-<div n="lb"/>P. i. 3.; </div><div n="1">(3) {#kaRaWaH#} (= throat), <div n="xe">{%like a medal%}
-<div n="lb"/>{%on his n.:%}</div> <div n="xs">{#asya kaRWe nizkamiva,#}</div> Ku. ii. 49.;</div>
-<div n="lb"/><div n="1">(4) {#kanDarA#} (rare); </div><div n="1">(5) {#SiroDarA#} (poet.). </div><div n="I">II Of a
-<div n="lb"/>vessel: {#galaH.#} </div><div n="I">III Of land: {#BUmAgaH.#} <div n="xe">{%N.%}
-<div n="lb"/>{%break:%}</div> <div n="xs">{#galagrahaH;#}</div> {%N. and crop:%} v. Completely,
-<div n="lb"/>utterly. <div n="xe">{%On the n. of:%}</div> <div n="xs">{#upakaRWam#}</div> (with gen.):
-<div n="lb"/>v. After.</div>
+{@NECK:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#grIvA,#} <div n="xe">{%long n.ed:%}</div> <div n="xs">{#dIrGagrIva#}</div>
+(f. {#vA#}), U.; <div n="xe">{%with the n. turned up:%}</div> <div n="xs">{#udgrIva#}</div>
+(f. {#vA#}), Ki. vii. 22.; </div><div n="1">(2) {#galaH,#} <div n="xe">{%putting his%}
+{%feet on our n.s:%}</div> <div n="xs">{#kftvA padaM no gale,#}</div> Mu. iii.; {%who%}
+{%will seize him by the n.%} ({%and turn him out%}): {#ya #}
+{# enaM galahastayati,#} H. iii. <div n="xe">{%or%}</div> <div n="xs">{#ardDacandraM dattvA niHsArayati,#}</div>
+P. i. 3.; </div><div n="1">(3) {#kaRaWaH#} (= throat), <div n="xe">{%like a medal%}
+{%on his n.:%}</div> <div n="xs">{#asya kaRWe nizkamiva,#}</div> Ku. ii. 49.;</div>
+<div n="1">(4) {#kanDarA#} (rare); </div><div n="1">(5) {#SiroDarA#} (poet.). </div><div n="I">II Of a
+vessel: {#galaH.#} </div><div n="I">III Of land: {#BUmAgaH.#} <div n="xe">{%N.%}
+{%break:%}</div> <div n="xs">{#galagrahaH;#}</div> {%N. and crop:%} v. Completely,
+utterly. <div n="xe">{%On the n. of:%}</div> <div n="xs">{#upakaRWam#}</div> (with gen.):
+v. After.</div>
 <LEND>

@@ -1,3 +1,3 @@
-<L>11069<pc>60,2<k1>abDitanaya<k2>ab-Di—tanaya<h>a<e>3
-<s>ab-Di—tanaya</s> <hom>a</hom> ¦ <lex>m. <ab>du.</ab></lex> the <s1 slp1="aSvin">Aśvin</s1>s, <ls>Kathās.</ls><info lex="m"/>
+<L>11069<pc>60,2<k1>abDitanaya<k2>abDi—tanaya<e>3
+<s>ab-Di—tanaya</s> ¦ <lex>m. <ab>du.</ab></lex> <chg type="chg" n="1" src="mw"><old>the <s1>Aśvin</s1>s</old><new>the two <s1>Aśvin</s1>s</new></chg>, <ls>Kathās.</ls><info lex="m"/><info n="rev" pc="1315,1"/>
 <LEND>

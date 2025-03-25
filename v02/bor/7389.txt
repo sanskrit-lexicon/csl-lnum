@@ -1,6 +1,6 @@
 <L>7389<pc>234<k1>else<k2>else
-<div n="lb"/>{@ELSE@}¦ (adj.): Ph.: <div n="xe">{%who e.:%}</div> <div n="xs">{#ko'nyaH#}</div> <div n="xe">{%or%}</div> <div n="xs">{#ko'paraH,#}</div> K.;
-<div n="lb"/><div n="xe">{%what e.:%}</div> <div n="xs">{#kimanyat#}</div> <div n="xe">{%or%}</div> <div n="xs">{#kimaparam,#}</div> Ma. <div n="xe">{%or%}</div> <div n="xs">{#kimitaH param,#}</div>
-<div n="lb"/>Ra.; <div n="xe">{%something e.:%}</div> <div n="xs">{#anyat kiYcit,#}</div> Ana; <div n="xe">{%some-%}
-<div n="lb"/>{%where e.:%}</div> <div n="xs">{#anyatra kutrApi,#}</div> N.
+{@ELSE@}¦ (adj.): Ph.: <div n="xe">{%who e.:%}</div> <div n="xs">{#ko'nyaH#}</div> <div n="xe">{%or%}</div> <div n="xs">{#ko'paraH,#}</div> K.;
+<div n="xe">{%what e.:%}</div> <div n="xs">{#kimanyat#}</div> <div n="xe">{%or%}</div> <div n="xs">{#kimaparam,#}</div> Ma. <div n="xe">{%or%}</div> <div n="xs">{#kimitaH param,#}</div>
+Ra.; <div n="xe">{%something e.:%}</div> <div n="xs">{#anyat kiYcit,#}</div> Ana; <div n="xe">{%some-%}
+{%where e.:%}</div> <div n="xs">{#anyatra kutrApi,#}</div> N.
 <LEND>

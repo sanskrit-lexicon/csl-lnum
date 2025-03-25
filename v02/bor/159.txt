@@ -1,12 +1,12 @@
 <L>159<pc>007<k1>account<k2>account
-<div n="lb"/>{@ACCOUNT@}¦ (subs): <div n="I">I Of money: {#gaRanA;#} <div n="xe">{%a.%}
-<div n="lb"/>{%book%}</div> <div n="xs">{#gaRanApatrikA,#}</div> Raj.; <div n="xe">{%Balancing an a.%}</div> <div n="xs">{#gaRa-#}
-<div n="lb"/>{#nAmekIkftya,#}</div> Raj.; <div n="xe">{%render an a. for me%}</div> <div n="xs">{#madarTaM gaRanAM #}
-<div n="lb"/>{# kuru.#}</div> </div><div n="I">II Estimation: q. v. {#gaRanA.#} </div><div n="I">III Im-
-<div n="lb"/>-portance, value, advantage: q. v. </div><div n="I">IV A
-<div n="lb"/>narrative or description: q. v. </div><div n="1">(1) {#vivaraRam;#}</div>
-<div n="lb"/><div n="1">(2) {#vivfttiH:#} v. Reason, consideration:
-<div n="lb"/>q. v.: Ph. <div n="xe">{%on this a.%}</div> <div n="xs">{#ataH,#}</div> <div n="xe">{%on what a.%}</div> <div n="xs">{#kimarTam#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#kinnimittam.#}</div> <div n="xe">{%or no a.%}</div> <div n="xs">{#na kaTaYcana;#}</div> {%on all a. s%}
-<div n="lb"/>{#sarvaTA.#}</div>
+{@ACCOUNT@}¦ (subs): <div n="I">I Of money: {#gaRanA;#} <div n="xe">{%a.%}
+{%book%}</div> <div n="xs">{#gaRanApatrikA,#}</div> Raj.; <div n="xe">{%Balancing an a.%}</div> <div n="xs">{#gaRa-#}
+{#nAmekIkftya,#}</div> Raj.; <div n="xe">{%render an a. for me%}</div> <div n="xs">{#madarTaM gaRanAM #}
+{# kuru.#}</div> </div><div n="I">II Estimation: q. v. {#gaRanA.#} </div><div n="I">III Im-
+-portance, value, advantage: q. v. </div><div n="I">IV A
+narrative or description: q. v. </div><div n="1">(1) {#vivaraRam;#}</div>
+<div n="1">(2) {#vivfttiH:#} v. Reason, consideration:
+q. v.: Ph. <div n="xe">{%on this a.%}</div> <div n="xs">{#ataH,#}</div> <div n="xe">{%on what a.%}</div> <div n="xs">{#kimarTam#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#kinnimittam.#}</div> <div n="xe">{%or no a.%}</div> <div n="xs">{#na kaTaYcana;#}</div> {%on all a. s%}
+{#sarvaTA.#}</div>
 <LEND>

@@ -1,23 +1,23 @@
 <L>49305<pc>4-1032<k1>prapitAmaha<k2>prapitAmaha
-{#prapitAmaha#}¦ (1. {#pra + pi°#}) <lex>m.</lex> {%Urgrossvater%} 
-<ls>AK. 2, 6, 1, 33.</ls> 
-<ls>H. 557.</ls> 
-<ls>MED. h. 34.</ls> <ls>VYUTP. 96.</ls> {#pra/°#} 
-<ls>VS. 19, 36.</ls> 
-<ls>TS. 1, 8, 5, 1.</ls> 
-<ls>ŚAT. BR. 2, 4, 2, 16. 12, 8, 1, 7.</ls> {#°ha/#} 
-<ls>AV. 18, 4, 35. -</ls> <ls>ĀŚV. ŚR. 2, 6.</ls> <ls>GṚHY. 4, 7.</ls> <ls>M. 3, 221.</ls> <ls>BHĀG. P. 9, 1, 19. 13, 6. 24, 35.</ls> <ls>MĀRK. P. 31, 1.</ls> <ls>SĀH. D. 23, 15.</ls> {#°mahI#} {%Urgrossmutter von väterlicher Seite%} 
-<ls>VYUTP. 96.</ls> 
-<ls>MBH. 14, 2019.</ls> {#prapitAmahAH#} {%Urgrossväter, Ahnen%} 
-<ls>R. 1, 43, 20. 2, 94, 19.</ls> 
-<ls>KATHĀS. 15, 132.</ls> {#vasUnvadanti tu pitFnrudrAMScEva pitAmahAn . prapitAmahAMstaTAdityAn#} 
-<ls>M. 3, 284.</ls> <is>Kṛṣṇa</is> heisst {%Urgrossvater%} 
-<ls>BHAG. 11, 39.</ls> {#trayARAmapi lokAnAM BagavAnprapitAmahaH#} 
-<ls>MBH. 5, 3042. <is>Brahman</is></ls> 
-<ls>TRIK. 1, 1, 26.</ls> 
-<ls>MED.</ls> 
-<ls>SUND. 4, 22.</ls> 
-<ls>MBH. 3, 1152.</ls> 
-<ls>R. 1, 14, 39.</ls> 
-<ls>MĀRK. P. 101, 22.</ls>
+{#prapitAmaha#}¦ (1. {#pra + pi°#}) <lex>m.</lex> {%Urgrossvater%}
+<ls>AK. 2,6,1,33.</ls>
+<ls>H. 557.</ls>
+<ls>MED. h. 34.</ls> <ls>VYUTP. 96.</ls> {#pra/°#}
+<ls>VS. 19,36.</ls>
+<ls>TS. 1,8,5,1.</ls>
+<ls>ŚAT. BR. 2,4,2,16.</ls> <ls n="ŚAT. BR.">12,8,1,7.</ls> {#°ha/#}
+<ls>AV. 18,4,35.</ls> — <ls>ĀŚV. ŚR. 2,6.</ls> <ls>GṚHY. 4,7.</ls> <ls>M. 3,221.</ls> <ls>BHĀG. P. 9,1,19.</ls> <ls n="BHĀG. P. 9,">13,6.</ls> <ls n="BHĀG. P. 9,">24,35.</ls> <ls>MĀRK. P. 31,1.</ls> <ls>SĀH. D. 23,15.</ls> {#°mahI#} {%Urgrossmutter von väterlicher Seite%}
+<ls>VYUTP. 96.</ls>
+<ls>MBH. 14,2019.</ls> {#prapitAmahAH#} {%Urgrossväter, Ahnen%}
+<ls>R. 1,43,20.</ls> <ls n="R.">2,94,19.</ls>
+<ls>KATHĀS. 15,132.</ls> {#vasUnvadanti tu pitFnrudrAMScEva pitAmahAn . prapitAmahAMstaTAdityAn#}
+<ls>M. 3,284.</ls> <is>Kṛṣṇa</is> heisst {%Urgrossvater%}
+<ls>BHAG. 11,39.</ls> {#trayARAmapi lokAnAM BagavAnprapitAmahaH#}
+<ls>MBH. 5,3042.</ls> <is>Brahman</is>
+<ls>TRIK. 1,1,26.</ls>
+<ls>MED.</ls>
+<ls>SUND. 4,22.</ls>
+<ls>MBH. 3,1152.</ls>
+<ls>R. 1,14,39.</ls>
+<ls>MĀRK. P. 101,22.</ls>
 <LEND>

@@ -1,5 +1,5 @@
 <L>18929<pc>585<k1>religious<k2>religious
-<div n="lb"/>{@RELIGIOUS:@}¦ <div n="I">I Pious: q. v.: </div><div n="1">(1) {#DArmika#} (f. {#kI#});</div>
-<div n="lb"/><div n="1">(2) {#DarmizWa#} (f. {#zWA#}). </div><div n="I">II Relating to religion:
-<div n="lb"/>{#Darma#}- in comp., <div n="xe">{%r. rite:%}</div> <div n="xs">{#Darmakarman#}</div> (n.).</div>
+{@RELIGIOUS:@}¦ <div n="I">I Pious: q. v.: </div><div n="1">(1) {#DArmika#} (f. {#kI#});</div>
+<div n="1">(2) {#DarmizWa#} (f. {#zWA#}). </div><div n="I">II Relating to religion:
+{#Darma#}- in comp., <div n="xe">{%r. rite:%}</div> <div n="xs">{#Darmakarman#}</div> (n.).</div>
 <LEND>

@@ -1,10 +1,10 @@
-<L>10329<pc>1614<k1>smf<k2>smf/, smar
-{@smṛ́, smar@}¦ [<ab>Cu.</ab> 466], {%gedenken.%}
-<div n="P">Mit {@ánu@} {%gedenken%} an, {%achten%} auf [<ab>A.</ab>].
-<div n="P1">{@práti@} {%sich zurückerinnern.%} <lbinfo n="7"/>
+<L>10329<pc>1614<k1>smf<k2>smf/
+{@√smṛ́,@} {@√smar@}¦ [<ls>Cu. 〔466〕</ls>], {%gedenken%}.
+<div n="Pf">Mit {@ánu@} {%gedenken%} an, {%achten%} auf [<ab>A.</ab>].
+<div n="Pf">{@práti@} {%sich zurückerinnern%}.
 <div n="H">Stamm {@smára@} (betont nur {932,9}):
-<div n="P1">-āthas [2. <ab>du.</ab>Co. <ab>I.</ab>] {@ánu@} {932,9} kárṇā‿iva śā́sus <lbinfo n="3"/> ánu hí ….
-<div n="P1">-ethām [2. <ab>du.</ab> Co. II.] práti {620,7}.
+<div n="TS">-āthas [<per>2.</per> <ab>du.</ab> <ab>Co.</ab> I.] {@ánu@} {932,9} kárṇā‿iva śā́sus ánu hí 〰.
+<div n="TS">-ethām [<per>2.</per> <ab>du.</ab> <ab>Co.</ab> II.] práti {620,7}.
 <div n="H"><ab>Part.</ab> II. {@smṛta:@}
 <div n="P">in á-smṛtadhru.
 <LEND>

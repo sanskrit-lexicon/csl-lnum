@@ -1,15 +1,3 @@
 <L>8410<pc>107-1<k1>tapoDana<k2>tapoDana
-{#tapoDana#}¦tapo-dhana, {%a.%} whose wealth is penance; <lbinfo n="3"/>
-<> devout, pious; {%m.%} ascentic, devotee; {%N.%}; 
-<>{@-nidhi,@} {%m.%} treasury of penance; rigorous devotee; <lbinfo n="2"/>
-<> {@-bhṛt@}, {%a.%} devout, pious; {%m.%} devotee, 
-<>ascetic; {@-maya,@} {%a.%} ({@ī@}) consisting of penance 
-<>{%or%} austerity; devoted to piety; {@-mūla,@} {%a.%} 
-<>having austerity for its root; {@-yajña@}, {%a.%} sacrificing <lbinfo n="5"/>
-<> with penance; {@-yukta,@} {%pp.%} ascetic, pious; 
-<>{%m.%} ascetic, devotee; {@-rata,@} {%pp.%} delighting in 
-<>penance, devout; {@-rati,@} {%a. id.%}; {@-vat,@} {%a.%} ascetic, 
-<>devout; {@-vana,@} {%n.%} sacred grove ({%in which ascetics %}<lbinfo n="4"/>
-<>{% practise%} penance); {@-vṛddha@}, {%pp.%} abounding <lbinfo n="6"/>
-<> in penance, rigorously ascetic, very pious.
+{#tapoDana#}¦ tapo-dhana, <lex>a.</lex> whose wealth is penance; 🞄devout, pious; <lex>m.</lex> ascentic, devotee; <ab>N.</ab>; 🞄{@-nidhi,@} <lex>m.</lex> treasury of penance; rigorous devotee; 🞄{@-bhṛt,@} <lex>a.</lex> devout, pious; <lex>m.</lex> devotee, 🞄ascetic; {@-maya,@} <lex>a.</lex> ({@ī@}) consisting of penance 🞄{%or%} austerity; devoted to piety; {@-mūla,@} <lex>a.</lex> 🞄having austerity for its root; {@-yajña,@} <lex>a.</lex> sacrificing 🞄with penance; {@-yukta,@} <ab>pp.</ab> ascetic, pious; 🞄<lex>m.</lex> ascetic, devotee; {@-rata,@} <ab>pp.</ab> delighting in 🞄penance, devout; {@-rati,@} <lex>a.</lex> <ab>id.</ab>; {@-vat,@} <lex>a.</lex> ascetic, 🞄devout; {@-vana,@} <lex>n.</lex> sacred grove ({%in which ascetics 🞄practise%} penance); {@-vṛddha,@} <ab>pp.</ab> abounding 🞄in penance, rigorously ascetic, very pious.
 <LEND>

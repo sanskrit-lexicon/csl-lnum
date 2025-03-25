@@ -1,10 +1,10 @@
 <L>854<pc>030<k1>anticipate<k2>anticipate
-<div n="lb"/>{@ANTICIPATE@}¦ (v. t.): <div n="I">I To foresee: Ph. <div n="xe">{%old%}
-<div n="lb"/>{%men can a. what is coming%}</div> <div n="xs">{#vfdDabudDiranAgataM paSyati#}</div>
-<div n="lb"/>Vi.; <div n="xe">{%even a. ing his death%}</div> <div n="xs">{#tasya BAvimaraRaM jAnannapi.#}</div></div>
-<div n="lb"/><div n="I">II To be before in doing: Ph. <div n="xe">{%I a. d his%}
-<div n="lb"/>{%designs by removing to London%}</div> <div n="xs">{#*tasyASayaM nirUpya #}
-<div n="lb"/>{# laRqanamahaM jagAma;#}</div> <div n="xe">{%Scipio a. d Hannibal in cross-%}
-<div n="lb"/>{%ing the Po.%}</div> <div n="xs">{#*henibAlasyAmiprAyaM jYAtvA sipiyaH prAgeva #}
-<div n="lb"/>{# ponadImuttatAra.#}</div></div>
+{@ANTICIPATE@}¦ (v. t.): <div n="I">I To foresee: Ph. <div n="xe">{%old%}
+{%men can a. what is coming%}</div> <div n="xs">{#vfdDabudDiranAgataM paSyati#}</div>
+Vi.; <div n="xe">{%even a. ing his death%}</div> <div n="xs">{#tasya BAvimaraRaM jAnannapi.#}</div></div>
+<div n="I">II To be before in doing: Ph. <div n="xe">{%I a. d his%}
+{%designs by removing to London%}</div> <div n="xs">{#*tasyASayaM nirUpya #}
+{# laRqanamahaM jagAma;#}</div> <div n="xe">{%Scipio a. d Hannibal in cross-%}
+{%ing the Po.%}</div> <div n="xs">{#*henibAlasyAmiprAyaM jYAtvA sipiyaH prAgeva #}
+{# ponadImuttatAra.#}</div></div>
 <LEND>

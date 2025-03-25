@@ -1,75 +1,63 @@
 <L>66546<pc>5-1107<k1>Ap<k2>Ap
-{#Ap#}¦ 
-<ls>Z. 13</ls> {#ApnAna#} s. auch besonders. — partic. {#Apta#} 
-<div n="1"> 4) {%vollständig%}: {#dvAdaSAha#} 
-<ls>PAÑCAV. BR. 23, 1, 2.</ls> {#vAjapeya#} 
-<ls>ŚĀṄKH. ŚR. 15, 3, 14.</ls> {#devayajana#} 
-<ls>TS. 6, 2, 6, 1.</ls> — caus. 
-<div n="1"> 1) {#tataSca te 'kzIRyunmIlya punarBARqIramApitAH#} {%gebracht%} 
-<ls>BHĀG. P. 10, 19, 13.</ls> — desid. {%herbeiholen%} 
-<ls>PAÑCAV. BR. 20, 3, 2.</ls> partic. {#Ipsita#} 
-<div n="1"> 1) 
-<ls>M. 3, 231. 4, 156. 9, 59. - Z. 3</ls> lies {#kaScAsO#} st. {#kasyAsO#} .
-
-<div n="p">— {#ava#} 
-<div n="1"> 1) {#guRadozAvavApyete puMsAM saMSIlanAdbuDEH#} {%Weise stossen auf Vorzüge und Mängel%} 
-<ls>Spr. 838.</ls> {#tato 'tra vIkzyate yAvadvAlastAvadavApi saH#} {%wurde entdeckt, - gefunden%} 
-<ls>KATHĀS. 106, 26.</ls>
-
+{#Ap#}¦
+<ls>Z. 13</ls> {#ApnAna#} s. auch besonders. — partic. {#Apta#}
+<div n="1"> 4) {%vollständig%}: {#dvAdaSAha#}
+<ls>PAÑCAV. BR. 23,1,2.</ls> {#vAjapeya#}
+<ls>ŚĀṄKH. ŚR. 15,3,14.</ls> {#devayajana#}
+<ls>TS. 6,2,6,1.</ls> — caus.
+<div n="1"> 1) {#tataSca te 'kzIRyunmIlya punarBARqIramApitAH#} {%gebracht%}
+<ls>BHĀG. P. 10,19,13.</ls> — desid. {%herbeiholen%}
+<ls>PAÑCAV. BR. 20,3,2.</ls> partic. {#Ipsita#}
+<div n="1"> 1)
+<ls>M. 3,231.</ls> <ls n="M.">4,156.</ls> <ls n="M.">9,59.</ls> — Z. 3 lies {#kaScAsO#} st. {#kasyAsO#} .
+<div n="p">— {#ava#}
+<div n="1"> 1) {#guRadozAvavApyete puMsAM saMSIlanAdbuDEH#} {%Weise stossen auf Vorzüge und Mängel%}
+<ls>Spr. 838.</ls> {#tato 'tra vIkzyate yAvadvAlastAvadavApi saH#} {%wurde entdeckt, — gefunden%}
+<ls>KATHĀS. 106,26.</ls>
 <div n="p">— {#upa#} vgl. {#upApa, upApti, upepsA#} .
-
 <div n="p">— {#samupa#} desid. vgl. {#samupepsu#} .
-
-<div n="p">— {#pari#} partic.: {#vatsa paryAptametAvadBIzmeRa saha saMyuge#} {%genug%} 
-<ls>MBH. 5, 7302. fg.</ls> {#paryAptanayanaH SakraH sarvErnetrErudEkzata#} {%eine hinreichende Anzahl von Augen habend%} (=  {#saMprAptanetraPala#} 
-<ls>Schol.</ls>!) <ls>HARIV. 3964.</ls> {#paryAptamaSru muYcAmi#} {%reichlich%} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 185, 10.</ls> {#purI tviyaM janasyAsya na paryAptA Bavizyati#} {%geräumig genug für%} 
-<ls>HARIV. 6525.</ls> {#kimapANgamaparyAptamasminkarmaRi manyase#} {%meinst du, der äussere Augenwinkel vermöge nicht dieses zu bewirken?%} 
-<ls>Spr. 3940.</ls> mit einem infin. 
-<ls>P. 3, 4, 66.</ls> {#paryAptam#} adv.: {#narasya kaTitAH paryAptamazwO guRAH#} {%acht Vorzüge, womit man sich begnügen kann%}, 
-<ls>Spr. 2179.</ls> Die Lexicographen: {#Sakte nivAraRe tfptO paryAptaM syAdyaTepsite#} 
-<ls>TRIK. 3, 3, 167.</ls> 
-<ls>MED. t. 128.</ls> {#paryAptaM#} (so zu lesen) {#tu Sakte tfpte nivAraRe . yaTezwe#} 
-<ls>H. an. 3, 276.</ls> = {#upasaMpanna#} 
-<ls>HALĀY. 2, 171.</ls> = {#prakAmam#} 
-<ls>4, 33.</ls> = {#kftam#} 
-<ls>5, 3.</ls> — caus. {%vollbringen%}: {#akAryARyapi paryApya#} 
+<div n="p">— {#pari#} partic.: {#vatsa paryAptametAvadBIzmeRa saha saMyuge#} {%genug%}
+<ls>MBH. 5,7302. fg.</ls> {#paryAptanayanaH SakraH sarvErnetrErudEkzata#} {%eine hinreichende Anzahl von Augen habend%} (= {#saMprAptanetraPala#}
+<ls>Schol.</ls>!) <ls>HARIV. 3964.</ls> {#paryAptamaSru muYcAmi#} {%reichlich%}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 185,10.</ls> {#purI tviyaM janasyAsya na paryAptA Bavizyati#} {%geräumig genug für%}
+<ls>HARIV. 6525.</ls> {#kimapANgamaparyAptamasminkarmaRi manyase#} {%meinst du, der äussere Augenwinkel vermöge nicht dieses zu bewirken?%}
+<ls>Spr. 3940.</ls> mit einem infin.
+<ls>P. 3,4,66.</ls> {#paryAptam#} adv.: {#narasya kaTitAH paryAptamazwO guRAH#} {%acht Vorzüge, womit man sich begnügen kann%},
+<ls>Spr. 2179.</ls> Die Lexicographen: {#Sakte nivAraRe tfptO paryAptaM syAdyaTepsite#}
+<ls>TRIK. 3,3,167.</ls>
+<ls>MED. t. 128.</ls> {#paryAptaM#} (so zu lesen) {#tu Sakte tfpte nivAraRe . yaTezwe#}
+<ls>H. an. 3,276.</ls> = {#upasaMpanna#}
+<ls>HALĀY. 2,171.</ls> = {#prakAmam#}
+<ls n="HALĀY.">4,33.</ls> = {#kftam#}
+<ls n="HALĀY.">5,3.</ls> — caus. {%vollbringen%}: {#akAryARyapi paryApya#}
 <ls>Spr. 3368.</ls> — desid. vgl. {#parIpsA, parIpsu#} .
-
-<div n="p">— {#pra#} partic. {#prApta#} 
-<div n="1"> 9) 
-<ls>MED. t. 32.</ls> <ls>HALĀY. 4, 61.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 188, 4.</ls> — caus. {%vorbringen, melden, verkünden%}: {#prApayAsya ca vAkyAni yato dUtastvamAgataH#} 
-<ls>R. 7, 103, 10.</ls>
-
-<div n="p">— {#anupra#}, {#sarvarasA anuprAptAH pAnIyam#} wohl {%alle Flüssigkeiten sind schliesslich Wasser%} 
-<ls>NIR. 1, 16.</ls>
-
+<div n="p">— {#pra#} partic. {#prApta#}
+<div n="1"> 9)
+<ls>MED. t. 32.</ls> <ls>HALĀY. 4,61.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 188,4.</ls> — caus. {%vorbringen, melden, verkünden%}: {#prApayAsya ca vAkyAni yato dUtastvamAgataH#}
+<ls>R. 7,103,10.</ls>
+<div n="p">— {#anupra#}, {#sarvarasA anuprAptAH pAnIyam#} wohl {%alle Flüssigkeiten sind schliesslich Wasser%}
+<ls>NIR. 1,16.</ls>
 <div n="p">— {#aBipra#} vgl. {#aBiprApaRa#} .
 [Page5-1108]
-
 <div n="p">— {#paripra#} vgl. {#pariprApti, pariprepsu#} .
-
-<div n="p">— {#prati#} desid. {%werben um%} (ein Mädchen): {#tvatsvAmyarTaM pratIpsa tAm#} 
-<ls>KATHĀS. 120, 97.</ls>
-
-<div n="p">— {#vi#}, partic. {#vyApta#} 
-<div n="1"> 1) {%in etwas Anderem eingeschlossen, einbegriffen%} 
-<ls>BHĀṢĀP. 67.</ls> {#kftakatvamanityatvena vyAptam#} so v. a. {%fällt unter den Begriff der Vergänglichkeit%} 
-<ls>TARKAS. 41.</ls> — caus. {#vyApita#} {%erfüllt%} 
+<div n="p">— {#prati#} desid. {%werben um%} (ein Mädchen): {#tvatsvAmyarTaM pratIpsa tAm#}
+<ls>KATHĀS. 120,97.</ls>
+<div n="p">— {#vi#}, partic. {#vyApta#}
+<div n="1"> 1) {%in etwas Anderem eingeschlossen, einbegriffen%}
+<ls>BHĀṢĀP. 67.</ls> {#kftakatvamanityatvena vyAptam#} so v. a. {%fällt unter den Begriff der Vergänglichkeit%}
+<ls>TARKAS. 41.</ls> — caus. {#vyApita#} {%erfüllt%}
 <ls>Spr. 3836.</ls>
-
-<div n="p">— {#sam#}, partic. {#samApta#} 
-<div n="1"> 1) {#svAtmanyeva samAptahemamahimA merurna me rocate#} {%da die Herrlichkeit des Goldes im%} <is>Meru</is> {%selbst zum Abschluss gekommen ist%} (d. i. {%Andern nicht zu Gute kommt), so will er mir nicht gefallen%}, 
-<ls>Spr. 2526.</ls> {#samAptavaradakziRAH (kratavaH)#} {%vollständig, vollzählig%} 
-<ls>523. v. l.</ls> {#asamApta#} {%um Etwas%} (instr.) {%nicht voll, woran Etwas fehlt%} 
-<ls>ṚV. PRĀT. 13, 13.</ls> — caus. 
-<div n="1"> 2) 
-<ls>ṚV. PRĀT. 10, 1.</ls> 
-<div n="1">— 3) {%Jmd abthun, Jmd den Garaus machen%}: {#SarErazwaBirekEkaM samApya#} 
-<ls>KATHĀS. 48, 67.</ls> {#yadeza sADuhfcCayastvayAsuraH samApitaH#} (so ist zu schreiben) 
-<ls>BHĀG. P. 7, 8, 51.</ls>
-
-<div n="p">— {#parisam#} pass. {%zum Schluss gelangen, das Endziel erreichen%} 
-<ls>BHĀG. P. 11, 16, 44.</ls> = {#kftakftyo BU#} Schol. 
+<div n="p">— {#sam#}, partic. {#samApta#}
+<div n="1"> 1) {#svAtmanyeva samAptahemamahimA merurna me rocate#} {%da die Herrlichkeit des Goldes im%} <is>Meru</is> {%selbst zum Abschluss gekommen ist%} (<ab>d. i.</ab> {%Andern nicht zu Gute kommt), so will er mir nicht gefallen%},
+<ls>Spr. 2526.</ls> {#samAptavaradakziRAH (kratavaH)#} {%vollständig, vollzählig%}
+<ls n="Spr.">523. v. l.</ls> {#asamApta#} {%um Etwas%} (instr.) {%nicht voll, woran Etwas fehlt%}
+<ls>ṚV. PRĀT. 13,13.</ls> — caus.
+<div n="1"> 2)
+<ls>ṚV. PRĀT. 10,1.</ls>
+<div n="1">— 3) {%Jmd abthun, Jmd den Garaus machen%}: {#SarErazwaBirekEkaM samApya#}
+<ls>KATHĀS. 48,67.</ls> {#yadeza sADuhfcCayastvayAsuraH samApitaH#} (so ist zu schreiben)
+<ls>BHĀG. P. 7,8,51.</ls>
+<div n="p">— {#parisam#} pass. {%zum Schluss gelangen, das Endziel erreichen%}
+<ls>BHĀG. P. 11,16,44.</ls> = {#kftakftyo BU#} Schol.
 <div n="v">— Vgl. {#parisamApti#} .
 <LEND>

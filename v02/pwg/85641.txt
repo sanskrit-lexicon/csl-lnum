@@ -1,291 +1,278 @@
 <L>85641<pc>6-0465<k1>lakzay<k2>lakzay
-{#lakzay#}¦ (von {#lakza), lakza/yati, °te#} 
-<ls>DHĀTUP. 32, 5</ls> ({#darSanANkayoH#}). 
-<ls>33, 23</ls> ({#Alocane#}). 
-<div n="1"> 1) {%bezeichnen, kennzeichnen%}: {#aNkErlakzESca tAH sarvA (gAH) lakzayAmAsa#} 
-<ls>MBH. 3, 14852.</ls> {#lakzita#} {%bezeichnet, gekennzeichnet, erkennbar an%}: {#sarvalakzaRalakzita#} 
-<ls>1, 5434.</ls> <ls>R. 1, 45, 41. 7, 37, 3, 24.</ls> <ls>MĀRK. P. 34, 77. 66, 25.</ls> {#SuBalakzaRalakzita#} 
-<ls>R. GORR. 2, 26, 18.</ls> {#rAjalakzaRalakzita#} 
-<ls>3, 36, 6.</ls> {#rAjatErDAtuBiScitrErdeSe ca lakzitaH#} ({#giriH#}) 
-<ls>21, 14.</ls> {#vakzasi lakzitaM SriyA#} 
-<ls>BHĀG. P. 2, 9, 15.</ls> {#sarvaprasUtirha bIjalakzaRalakzitA#} 
-<ls>M. 9, 35.</ls> 
-<ls>R. 5, 86, 5.</ls> {#unmezanimezAByAm#} 
-<ls>BHĀG. P. 9, 13, 11.</ls> {#tayA#} ({#aSanAyayA#}) {#lakzitena mftyunA#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 42.</ls> {#alakzita#} 
-<ls>ŚAT. BR. 3, 3, 1, 16.</ls> 
-<ls>KĀTY. ŚR. 7, 6, 14.</ls> 
-<div n="1">— 2) {%näher bezeichnen, definiren%} 
-<ls>NĪLAK. 46.</ls> <ls>Schol.</ls> zu <ls>KAP. 1, 101.</ls> 
-<div n="1">— 3) {%mittelbar bezeichnen, - ausdrücken%}: {#atra goSabdaH - bAhIkArTaM lakzayati#} 
-<ls>SĀH. D. 15, 7. 107, 19. fgg.</ls> 
-<ls>VEDĀNTAS. (Allah.) No. 104.</ls> {#tenArTenArTAntaraM lakzyate#} 
-<ls>SARVADARŚANAS. 173, 1. 172, 11.</ls> {#prajApatirhi - ahnA lakzyate#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 24.</ls> {#vazawSabdo lakzyate#} 
-<ls>KĀŚ.</ls> zu <ls>P. 1, 2, 35.</ls> <ls>Schol.</ls> zu <ls>P. 4, 3, 80.</ls> {#gosahacAriRo guRA jAqyamAndyAdayo lakzyante#} {%sind gemeint%} 
-<ls>SĀH. D. 14, 16.</ls> {#yasya kasyacidarTasya lakzitatve#} 
-<ls>VEDĀNTAS. (Allah.) No. 105.</ls> 
-<div n="1">— 4) {%auf ein Ziel richten%}: {#SarAstIvrAH patizyanti rAmalakzmaRalakzitAH#} 
-<ls>R. 5, 23, 20.</ls> 
-<div n="1">— 5) {%bezeichnen als, nennen%}: {#kAlasyAnugatiryA tu lakzyate 'RvI bfhatyapi#} 
-<ls>BHĀG. P. 2, 8, 13.</ls> {#sA lakzyatAM (lakzitA#} 
-<ls>BR.</ls>) {#praBAvatI#} 
-<ls>ŚRUT. 35.</ls> 
-<div n="1">— 6) {%bezeichnen als%} so v. a. {%halten —, ansehen für%}: {#tulyaM hi lakzaye jYAnaM bAhukasya nalasya ca#} 
-<ls>MBH. 3, 2800.</ls> {#na te 'styaviditaM kiMciditi tvAM lakzayAmyaham#} 
-<ls>10575.</ls> {#tasya vAkyasya paryAyaM paryAptamiva lakzaye#} 
-<ls>HARIV. 9652.</ls> {#anyatra kzetrajYaH putro lakzyate#} 
-<ls>MBH. 13, 2629. fgg.</ls> {#jaqAnDabaDironmattamUkAkftiH - lakzitaH paTi bAlAnAm#} 
-<ls>BHĀG. P. 4, 13, 10.</ls>
+{#lakzay#}¦ (von {#lakza), lakza/yati, °te#}
+<ls>DHĀTUP. 32,5</ls> ({#darSanANkayoH#}).
+<ls n="DHĀTUP.">33,23</ls> ({#Alocane#}).
+<div n="1"> 1) {%bezeichnen, kennzeichnen%}: {#aNkErlakzESca tAH sarvA (gAH) lakzayAmAsa#}
+<ls>MBH. 3,14852.</ls> {#lakzita#} {%bezeichnet, gekennzeichnet, erkennbar an%}: {#sarvalakzaRalakzita#}
+<ls n="MBH.">1,5434.</ls> <ls>R. 1,45,41.</ls> <ls n="R.">7,37,3,24.</ls> <ls>MĀRK. P. 34,77. 66,25.</ls> {#SuBalakzaRalakzita#}
+<ls>R. GORR. 2,26,18.</ls> {#rAjalakzaRalakzita#}
+<ls n="R. GORR.">3,36,6.</ls> {#rAjatErDAtuBiScitrErdeSe ca lakzitaH#} ({#giriH#})
+<ls n="R. GORR. 2,">21,14.</ls> {#vakzasi lakzitaM SriyA#}
+<ls>BHĀG. P. 2,9,15.</ls> {#sarvaprasUtirha bIjalakzaRalakzitA#}
+<ls>M. 9,35.</ls>
+<ls>R. 5,86,5.</ls> {#unmezanimezAByAm#}
+<ls>BHĀG. P. 9,13,11.</ls> {#tayA#} ({#aSanAyayA#}) {#lakzitena mftyunA#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 42.</ls> {#alakzita#}
+<ls>ŚAT. BR. 3,3,1,16.</ls>
+<ls>KĀTY. ŚR. 7,6,14.</ls>
+<div n="1">— 2) {%näher bezeichnen, definiren%}
+<ls>NĪLAK. 46.</ls> <ls>Schol.</ls> zu <ls>KAP. 1,101.</ls>
+<div n="1">— 3) {%mittelbar bezeichnen, — ausdrücken%}: {#atra goSabdaH — bAhIkArTaM lakzayati#}
+<ls>SĀH. D. 15,7. 107,19. fgg.</ls>
+<ls>VEDĀNTAS. (Allah.) No. 104.</ls> {#tenArTenArTAntaraM lakzyate#}
+<ls>SARVADARŚANAS. 173,1. 172,11.</ls> {#prajApatirhi — ahnA lakzyate#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 24.</ls> {#vazawSabdo lakzyate#}
+<ls>KĀŚ.</ls> zu <ls>P. 1,2,35.</ls> <ls>Schol.</ls> zu <ls>P. 4,3,80.</ls> {#gosahacAriRo guRA jAqyamAndyAdayo lakzyante#} {%sind gemeint%}
+<ls>SĀH. D. 14,16.</ls> {#yasya kasyacidarTasya lakzitatve#}
+<ls>VEDĀNTAS. (Allah.) No. 105.</ls>
+<div n="1">— 4) {%auf ein Ziel richten%}: {#SarAstIvrAH patizyanti rAmalakzmaRalakzitAH#}
+<ls>R. 5,23,20.</ls>
+<div n="1">— 5) {%bezeichnen als, nennen%}: {#kAlasyAnugatiryA tu lakzyate 'RvI bfhatyapi#}
+<ls>BHĀG. P. 2,8,13.</ls> {#sA lakzyatAM (lakzitA#}
+<ls>BR.</ls>) {#praBAvatI#}
+<ls>ŚRUT. 35.</ls>
+<div n="1">— 6) {%bezeichnen als%} so v. a. {%halten —, ansehen für%}: {#tulyaM hi lakzaye jYAnaM bAhukasya nalasya ca#}
+<ls>MBH. 3,2800.</ls> {#na te 'styaviditaM kiMciditi tvAM lakzayAmyaham#}
+<ls n="MBH. 3,">10575.</ls> {#tasya vAkyasya paryAyaM paryAptamiva lakzaye#}
+<ls>HARIV. 9652.</ls> {#anyatra kzetrajYaH putro lakzyate#}
+<ls>MBH. 13,2629. fgg.</ls> {#jaqAnDabaDironmattamUkAkftiH — lakzitaH paTi bAlAnAm#}
+<ls>BHĀG. P. 4,13,10.</ls>
 [Page6-0466]
-
-<div n="1">— 7) {%sein Augenmerk richten auf, beachten, untersuchen%}: {#aSvaM lakzayitvAjAyata#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 24. zu CHĀND. UP. S. 88</ls> (wo {#aBi la°#} d. i. {#aBi = la°#} zu lesen ist). {#caritAnyasya lakzaya#} 
-<ls>MBH. 3, 2922.</ls> 
-<ls>KĀM. NĪTIS. 7, 15.</ls> {#karO vimfditavrIherlakzayitvA#} 
-<ls>YĀJÑ. 2, 103.</ls> {#evamanye pi BedAH - na pfTaglakzitAH#} 
-<ls>SĀH. D. 211,7.</ls> <ls>Z. d. d. m. G. 7,311, N. 4.</ls> <ls>Verz. d. Oxf. H. 181,a,36.</ls> {#sulakzita#} 
-<ls>M. 8, 403.</ls> 
-<div n="1">— 8) (an bestimmten {%Zeichen) erkennen%}: {#gaticezwAvikArESca rUpato BAzitEstaTA . lakzayasva tayorBAvaM duzwAduzwam#} 
-<ls>R. 4, 1, 28.</ls> {#eBirlakzaRErlakzayeTAH - Bavanam#} 
-<ls>MEGH. 78.</ls> {#iNgitErlakza yAmAsa neyaM sIteti niScitam#} 
-<ls>R. 5, 14, 38.</ls> {#lakzaye 'svasTamAtmAnaM BavatyA lakzaREraham#} 
-<ls>BHĀG. P. 8, 16, 10.</ls> {#na coBAvapyalakzyetAm#} 
-<ls>BHAṬṬ. 17, 106.</ls> {#lakzyate jYAyate 'neneti lakzaRam#} 
-<ls>Schol.</ls> zu <ls>JAIM. 1, 1, 2.</ls> {#evaM prAgdehajaM karma lakzyate cittavfttiBiH#} 
-<ls>BHĀG. P. 4, 29, 63. 1, 8, 19.</ls> 
-<ls>VIKR. 53.</ls> {#anena vapuzA bAlA piplunAnena sUcitA . lakziteyaM mayA devI niBfto 'gnirivozmaRA#} 
-<ls>MBH. 3, 2702.</ls> 
-<ls>Spr. 1824.</ls> 
-<ls>BHĀG. P. 2, 2, 35. 3, 27, 13. 4, 22, 2.</ls> 
-<div n="1">— 9) {%bemerken, wahrnehmen, erblicken%}; act. 
-<ls>MAITRYUP. 6, 10.</ls> <ls>M. 12, 27.</ls> <ls>MBH. 4, 82.</ls> <ls>R. 2, 63, 45. 6, 92, 24.</ls> <ls>ŚĀK. 140.</ls> <ls>KĀM. NĪTIS. 4, 37.</ls> <ls>Spr. 3891.</ls> <ls>KATHĀS. 10, 168.</ls> <ls>RĀJA-TAR. 4, 497. 6, 59.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 184, 9. 186, 15.</ls> <ls>BHĀG. P. 4, 8, 27. med.</ls> <ls>MBH. 1, 5924. 3, 2205.</ls> <ls>R. GORR. 2, 60, 8. 5, 31, 7.</ls> <ls>ŚĀK. 69, 8.</ls> <ls>BHĀG. P. 4, 22, 9. 10, 41, 3.</ls> {#jAgradBirapi cAsmABiH SakyA lakzayituM na te#} 
-<ls>KATHĀS. 112, 149.</ls> {#tAM lakzayitvA#} 
-<ls>MBH. 3, 2395.</ls> {#na hastI cAgrataH prayARe lakzyate#} 
-<ls>R. 2, 26, 16.</ls> {#yAdfSaM lakzyate rUpam#} 
-<ls>93, 6.</ls> {#lakzyante banDujIvASca SyAmASca girisAnuzu#} 
-<ls>4, 29, 12. 40, 43.</ls> <ls>SUŚR. 1, 243, 4.</ls> <ls>RAGH. 9, 72.</ls> <ls>ŚĀK. 38.</ls> <ls>RĀJA-TAR. 3, 378.</ls> <ls>BHĀG. P. 1, 18, 43. 4, 17, 32. 21, 26.</ls> <ls>HIT. 20, 14.</ls> {#yogapraBAvo na ca lakzyate te#} 
-<ls>RAGH. 16, 7.</ls> {#Bagavato gfhezu gfhameDinAm - na lakzyate hyavasTAnamapi#} 
-<ls>BHĀG. P. 1, 19, 39. 3, 26, 14.</ls> 
-<ls>R. 2, 26, 18. 35, 34. 60, 8. 3, 68, 50.</ls> 
-<ls>VARĀH. BṚH. S. 86, 7.</ls> 
-<ls>KATHĀS. 47, 54.</ls> 
-<ls>MĀRK. P. 16, 37.</ls> 
-<ls>HIT. 25, 10.</ls> {#yadA vinASakAlo vE lakzyate dEvanirmitaH#} {%erblickt wird%} so v. a. {%erscheint, sich einstellt%} 
-<ls>Spr. 4808.</ls> {#lakzita#} {%bemerkt, erblickt, wahrgenommen, gesehen%} 
-<ls>MBH. 3, 2155. 2699. 2935.</ls> 
-<ls>RAGH. 7, 41.</ls> 
-<ls>ŚĀK. 98, 15.</ls> 
-<ls>Spr. 2103.</ls> 
-<ls>KATHĀS. 45, 259.</ls> 
-<ls>BHĀG. P. 4, 25, 13.</ls> 
-<ls>PAÑCAT. 225, 25.</ls> 
-<ls>SĀH. D. 38, 19.</ls> {#sADu lakzitamayamAgataH#} 
-<ls>MṚCCH. 117, 25.</ls> {#alakzita#} {%unbemerkt%} 
-<ls>MBH. 1, 5879. 3, 2158.</ls> 
-<ls>R. 4, 40, 37.</ls> 
-<ls>RAGH. 2, 27.</ls> 
-<ls>ŚĀK. 90.</ls> 
-<ls>KĀM. NĪTIS. 12, 43.</ls> <ls>KATHĀS. 7, 83. 13, 87. 16, 57. 18, 157.</ls> <ls>RĀJA-TAR. 6, 48. 270.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 186, 12.</ls> {#svalakzita#} {%durchaus nicht bemerkt%} 
-<ls>BHĀG. P. 2, 5, 20.</ls> {#alakzitam#} adv. 
-<ls>KATHĀS. 28, 105. 34, 46.</ls> mit folgendem {#yad#} {%sehen, dass.%}: {#janAstvalakzayanyatsa svayaM pIWamavAtarat#} 
-<ls>RĀJA-TAR. 3, 458.</ls> sehr häufig mit einem zweiten appositionellem acc. (nom. bei pass. Constr.) construirt: {#taM tadEkAgramanasaM kfzRaH pArTamalakzayat#} 
-<ls>MBH. 1, 7920. 13, 2765.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 6, 14. 3, 1, 1. 2. 4, 33, 29.</ls> 
-<ls>MĀLAV. 29, 1.</ls> 
-<ls>KUMĀRAS. 3, 51.</ls> {#BavatyanapagAnsarvAMstAnguRA~llakzayAmahe#} 
-<ls>MBH. 12, 8029.</ls> 
-<ls>R. 1, 9, 44 (43 GORR.).</ls> <ls>ŚĀK. 16, 20.</ls> <ls>BHĀG. P. 1, 14, 13. 17, 36. 6, 14, 21.</ls> {#lakzayitvA cAtmAnaM tejohInam#} 
-<ls>MBH. 1, 8142. 4, 1056. 13, 475.</ls> 
-<ls>R. 7, 28, 1.</ls> 
-<ls>PAÑCAT. 33, 5 (29, 7 ed. orn. ).</ls> {#tA~llakzya (= lakzayitvA) vitrastAn#} 
-<ls>R. 7, 15, 1.</ls> {#sa dakziRaM tURamuKena vAmaM vyApArayanhastamalakzyatAjO#} 
-<ls>RAGH. 7, 54. 9, 43.</ls> 
-<ls>Spr. 1639. 1842.</ls> 
-<ls>ŚĀK. 169.</ls> 
-<ls>RĀJA-TAR. 1, 167. 3, 523.</ls> {#lakzitAhaM tvayA tatra vAyasena prakopitA#} 
-<ls>R. 5, 36, 41. 47, 23.</ls> 
-<ls>Spr. 3807.</ls> 
-<ls>KATHĀS. 42, 208. 49, 45.</ls> mit {#iva#} nach dem appositionellen acc. (nom. bei pass. Constr.): {#asvasTamiva cAtmAnaM lakzaye#} 
-<ls>MBH. 3, 16750.</ls> {#nAtisvasTeva lakzyate#} {%aussehen, zu sein scheinen%} 
-<ls>?2110. 16721. 8, 1813. R. 2, 91, 43. 93,16.  5, 4, 13. 5, 28. 54, 12. RAGH. 3, 2. 8, 57. 11, 59. 17, 15. KUMĀRAS. 2, 20. 7, 42. ŚĀK. 69, 3. VIKR. 8. VARĀH. BṚH. S. 9, 36. 27, 4. ŚAṂK. zu BṚH. ĀR. UP. S. 283. BHĀG. P. 5, 25, 2. PAÑCAR. 4, 3, 200. PAÑCAT. 231, 25. HIT. 69, 4, v. l. PRAB. 33, 10. SARVADARŚANAS. 16, 21.</ls>
+<div n="1">— 7) {%sein Augenmerk richten auf, beachten, untersuchen%}: {#aSvaM lakzayitvAjAyata#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 24.</ls> zu <ls>CHĀND. UP. S. 88</ls> (wo {#aBi la°#} <ab>d. i.</ab> {#aBi = la°#} zu lesen ist). {#caritAnyasya lakzaya#}
+<ls>MBH. 3,2922.</ls>
+<ls>KĀM. NĪTIS. 7,15.</ls> {#karO vimfditavrIherlakzayitvA#}
+<ls>YĀJÑ. 2,103.</ls> {#evamanye pi BedAH — na pfTaglakzitAH#}
+<ls>SĀH. D. 211,7.</ls> <ls>Z. d. d. m. G. 7,311, N. 4.</ls> <ls>Verz. d. Oxf. H. 181,a,36.</ls> {#sulakzita#}
+<ls>M. 8,403.</ls>
+<div n="1">— 8) (an bestimmten {%Zeichen) erkennen%}: {#gaticezwAvikArESca rUpato BAzitEstaTA . lakzayasva tayorBAvaM duzwAduzwam#}
+<ls>R. 4,1,28.</ls> {#eBirlakzaRErlakzayeTAH — Bavanam#}
+<ls>MEGH. 78.</ls> {#iNgitErlakza yAmAsa neyaM sIteti niScitam#}
+<ls>R. 5,14,38.</ls> {#lakzaye 'svasTamAtmAnaM BavatyA lakzaREraham#}
+<ls>BHĀG. P. 8,16,10.</ls> {#na coBAvapyalakzyetAm#}
+<ls>BHAṬṬ. 17,106.</ls> {#lakzyate jYAyate 'neneti lakzaRam#}
+<ls>Schol.</ls> zu <ls>JAIM. 1,1,2.</ls> {#evaM prAgdehajaM karma lakzyate cittavfttiBiH#}
+<ls>BHĀG. P. 4,29,63.</ls> <ls n="BHĀG. P.">1,8,19.</ls>
+<ls>VIKR. 53.</ls> {#anena vapuzA bAlA piplunAnena sUcitA . lakziteyaM mayA devI niBfto 'gnirivozmaRA#}
+<ls>MBH. 3,2702.</ls>
+<ls>Spr. 1824.</ls>
+<ls>BHĀG. P. 2,2,35.</ls> <ls n="BHĀG. P.">3,27,13.</ls> <ls n="BHĀG. P.">4,22,2.</ls>
+<div n="1">— 9) {%bemerken, wahrnehmen, erblicken%}; act.
+<ls>MAITRYUP. 6,10.</ls> <ls>M. 12,27.</ls> <ls>MBH. 4,82.</ls> <ls>R. 2,63,45.</ls> <ls n="R.">6,92,24.</ls> <ls>ŚĀK. 140.</ls> <ls>KĀM. NĪTIS. 4,37.</ls> <ls>Spr. 3891.</ls> <ls>KATHĀS. 10,168.</ls> <ls>RĀJA-TAR. 4,497. 6,59.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 184,9. 186,15.</ls> <ls>BHĀG. P. 4,8,27.</ls> med. <ls>MBH. 1,5924.</ls> <ls n="MBH.">3,2205.</ls> <ls>R. GORR. 2,60,8.</ls> <ls n="R. GORR.">5,31,7.</ls> <ls>ŚĀK. 69,8.</ls> <ls>BHĀG. P. 4,22,9.</ls> <ls n="BHĀG. P.">10,41,3.</ls> {#jAgradBirapi cAsmABiH SakyA lakzayituM na te#}
+<ls>KATHĀS. 112,149.</ls> {#tAM lakzayitvA#}
+<ls>MBH. 3,2395.</ls> {#na hastI cAgrataH prayARe lakzyate#}
+<ls>R. 2,26,16.</ls> {#yAdfSaM lakzyate rUpam#}
+<ls n="R. 2,">93,6.</ls> {#lakzyante banDujIvASca SyAmASca girisAnuzu#}
+<ls n="R.">4,29,12.</ls> <ls n="R. 4,">40,43.</ls> <ls>SUŚR. 1,243,4.</ls> <ls>RAGH. 9,72.</ls> <ls>ŚĀK. 38.</ls> <ls>RĀJA-TAR. 3,378.</ls> <ls>BHĀG. P. 1,18,43.</ls> <ls n="BHĀG. P.">4,17,32.</ls> <ls n="BHĀG. P. 4,">21,26.</ls> <ls>HIT. 20,14.</ls> {#yogapraBAvo na ca lakzyate te#}
+<ls>RAGH. 16,7.</ls> {#Bagavato gfhezu gfhameDinAm — na lakzyate hyavasTAnamapi#}
+<ls>BHĀG. P. 1,19,39.</ls> <ls n="BHĀG. P.">3,26,14.</ls>
+<ls>R. 2,26,18.</ls> <ls n="R. 2,">35,34.</ls> <ls n="R. 2,">60,8.</ls> <ls n="R.">3,68,50.</ls>
+<ls>VARĀH. BṚH. S. 86,7.</ls>
+<ls>KATHĀS. 47,54.</ls>
+<ls>MĀRK. P. 16,37.</ls>
+<ls>HIT. 25,10.</ls> {#yadA vinASakAlo vE lakzyate dEvanirmitaH#} {%erblickt wird%} so v. a. {%erscheint, sich einstellt%}
+<ls>Spr. 4808.</ls> {#lakzita#} {%bemerkt, erblickt, wahrgenommen, gesehen%}
+<ls>MBH. 3,2155.</ls> <ls n="MBH. 3,">2699.</ls> <ls n="MBH. 3,">2935.</ls>
+<ls>RAGH. 7,41.</ls>
+<ls>ŚĀK. 98,15.</ls>
+<ls>Spr. 2103.</ls>
+<ls>KATHĀS. 45,259.</ls>
+<ls>BHĀG. P. 4,25,13.</ls>
+<ls>PAÑCAT. 225,25.</ls>
+<ls>SĀH. D. 38,19.</ls> {#sADu lakzitamayamAgataH#}
+<ls>MṚCCH. 117,25.</ls> {#alakzita#} {%unbemerkt%}
+<ls>MBH. 1,5879.</ls> <ls n="MBH.">3,2158.</ls>
+<ls>R. 4,40,37.</ls>
+<ls>RAGH. 2,27.</ls>
+<ls>ŚĀK. 90.</ls>
+<ls>KĀM. NĪTIS. 12,43.</ls> <ls>KATHĀS. 7,83.</ls> <ls n="KATHĀS.">13,87.</ls> <ls n="KATHĀS.">16,57.</ls> <ls n="KATHĀS.">18,157.</ls> <ls>RĀJA-TAR. 6,48. 270.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 186,12.</ls> {#svalakzita#} {%durchaus nicht bemerkt%}
+<ls>BHĀG. P. 2,5,20.</ls> {#alakzitam#} adv.
+<ls>KATHĀS. 28,105.</ls> <ls n="KATHĀS.">34,46.</ls> mit folgendem {#yad#} {%sehen, dass.%}: {#janAstvalakzayanyatsa svayaM pIWamavAtarat#}
+<ls>RĀJA-TAR. 3,458.</ls> sehr häufig mit einem zweiten appositionellem acc. (nom. bei pass. Constr.) construirt: {#taM tadEkAgramanasaM kfzRaH pArTamalakzayat#}
+<ls>MBH. 1,7920.</ls> <ls n="MBH.">13,2765.</ls>
+<ls>R. GORR. 2,6,14.</ls> <ls n="R. GORR.">3,1,1.</ls> <ls n="R. GORR. 3,1,">2.</ls> <ls n="R. GORR.">4,33,29.</ls>
+<ls>MĀLAV. 29,1.</ls>
+<ls>KUMĀRAS. 3,51.</ls> {#BavatyanapagAnsarvAMstAnguRA~llakzayAmahe#}
+<ls>MBH. 12,8029.</ls>
+<ls>R. 1,9,44</ls> (<ls n="GORR. 1,9,">43</ls> <ls>GORR.</ls>). <ls>ŚĀK. 16,20.</ls> <ls>BHĀG. P. 1,14,13.</ls> <ls n="BHĀG. P. 1,">17,36.</ls> <ls n="BHĀG. P.">6,14,21.</ls> {#lakzayitvA cAtmAnaM tejohInam#}
+<ls>MBH. 1,8142.</ls> <ls n="MBH.">4,1056.</ls> <ls n="MBH.">13,475.</ls>
+<ls>R. 7,28,1.</ls>
+<ls>PAÑCAT. 33,5 (29,7 ed. orn. ).</ls> {#tA~llakzya#} (= {#lakzayitvA) vitrastAn#}
+<ls>R. 7,15,1.</ls> {#sa dakziRaM tURamuKena vAmaM vyApArayanhastamalakzyatAjO#}
+<ls>RAGH. 7,54.</ls> <ls n="RAGH.">9,43.</ls>
+<ls>Spr. 1639.</ls> <ls n="Spr.">1842.</ls>
+<ls>ŚĀK. 169.</ls>
+<ls>RĀJA-TAR. 1,167. 3,523.</ls> {#lakzitAhaM tvayA tatra vAyasena prakopitA#}
+<ls>R. 5,36,41.</ls> <ls n="R. 5,">47,23.</ls>
+<ls>Spr. 3807.</ls>
+<ls>KATHĀS. 42,208.</ls> <ls n="KATHĀS.">49,45.</ls> mit {#iva#} nach dem appositionellen acc. (nom. bei pass. Constr.): {#asvasTamiva cAtmAnaM lakzaye#}
+<ls>MBH. 3,16750.</ls> {#nAtisvasTeva lakzyate#} {%aussehen, zu sein scheinen%}
+<ls n="MBH. 3,">2110.</ls> <ls n="MBH. 3,">16721.</ls> <ls n="MBH.">8,1813.</ls> <ls>R. 2,91,43.</ls> <ls n="R. 2,">93,16.</ls> <ls n="R.">5,4,13.</ls> <ls n="R. 5,">5,28.</ls> <ls n="R. 5,">54,12.</ls> <ls>RAGH. 3,2.</ls> <ls n="RAGH.">8,57.</ls> <ls n="RAGH.">11,59.</ls> <ls n="RAGH.">17,15.</ls> <ls>KUMĀRAS. 2,20. 7,42.</ls> <ls>ŚĀK. 69,3.</ls> <ls>VIKR. 8.</ls> <ls>VARĀH. BṚH. S. 9,36. 27,4.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 283.</ls> <ls>BHĀG. P. 5,25,2.</ls> <ls>PAÑCAR. 4,3,200.</ls> <ls>PAÑCAT. 231,25.</ls> <ls>HIT. 69,4, v. l.</ls> <ls>PRAB. 33,10.</ls> <ls>SARVADARŚANAS. 16,21.</ls>
 [Page6-0467]
-{#sa#} ({#grIzmaH#}) {#ca vfndAvanaguRErvasanta iva lakzitaH#} 
-<ls>BHĀG. P. 10, 18, 3.</ls> {#ayaM raTanirGozo nEzaDasyeva lakzyate#} so v. a. {%dieses Wagengerassel hört sich wie das des%} <is>Nala</is> {%an%} 
-<ls>MBH. 3, 2888.</ls> — {#lakzyate#} 
-<ls>MBH. 5, 7042</ls> fehlerhaft für {#lapsyate#} (so die ed. Bomb.), {#lakzyatAM#} 
-<ls>R. 5, 82, 19</ls> fehlerhaft für {#BakzyatAM, alakzya#} 
-<ls>PAÑCAR. 4, 2, 25</ls> fehlerhaft für {#Alakzya#} .
-
-<div n="p">— {#ati#}, {#anatilakzitaH#} 
-<ls>KĀM. NĪTIS. 12, 9</ls> fehlerhaft für {#anaBi°#} {%unbemerkt, ungesehen.%}
-
-<div n="p">— {#aBi#} 
-<div n="1"> 1) {%bezeichnen, bestimmen%}: {#rAmAnalavyomarUpEH SakakAle 'Bilakzite#} 
-<ls>Verz. d. Oxf. H. 188,b,13.</ls> {#aBilakzito varo rudraH#} so v. a. {%ausersehen zu%} 
-<ls>MBH. 12, 13223.</ls> 
-<div n="1">— 2) {%sein Augenmerk richten auf, im Auge haben%}: {#prAyaRIKyakarmABilakzya devayajanaM pravizwAH#} Comm. zu 
-<ls>TBR. 1, 5, 9, 3.</ls> 
-<div n="1">— 3) {%berichten, kundthun%}: {#BaradvAjABigamanam#} u.s.w. {#tezAM tatrasTEraBilakzitam#} 
-<ls>R. 2, 57, 2.</ls> 
-<div n="1">— 4) {%erblicken, gewahr werden%}: {#pArzataSca mahAyudDe vimuKo 'dyABilakzyate#} so v. a. {%scheint zu sein%} 
-<ls>MBH. 8, 1045.</ls> 
-<ls>HARIV. 3675.</ls> {#tridaSagaREraBilakzitapraBAvaH#} {%erblickt, gesehen%} 
-<ls>HARIV. 13051.</ls> {#anaBilakzita#} {%unbemerkt, ungesehen%} 
-<ls>MBH. 1, 5822.</ls> {#nABilakzita#} dass. 
-<ls>YĀJÑ. 3, 59.</ls>
-
-<div n="p">— {#A#} {%erblicken, gewahr werden, sehen%}; med. 
-<ls>MBH. 4, 1568.</ls> {#°lakzya#} 
-<ls>1, 787. 2, 2403. 3, 12215.</ls> <ls>R. GORR. 2, 71, 3. 3, 1, 4. 4, 10, 8. 5, 29, 17. 7, 34, 15.</ls> <ls>RĀJA-TAR. 4, 422. 5, 365.</ls> <ls>BHĀG. P. 1, 7, 32. 12, 34. 6, 9, 4. 10, 16, 13.</ls> <ls>PAÑCAR. 4, 2, 30</ls> (fälschlich {#alakzya#} gedr.). 
-<ls>PAÑCAT. ed. orn. 53, 16.</ls> {#etadAlakzyate rAma maDUkAnAM mahadvanam#} 
-<ls>R. 3, 19, 22.</ls> 
-<ls>BHĀG. P. 10, 39, 36.</ls> {#Alakzita#} 
-<ls>1, 4, 6.</ls> <ls>R. GORR. 2, 5, 13.</ls> {#Alakzaye BavatImantarADim#} 
-<ls>BHĀG. P. 1, 16, 20.</ls> {#nAtiparyAptamAlakzya matkukzeradya Bojanam#} 
-<ls>RAGH. 15, 18.</ls> 
-<ls>BHĀG. P. 3, 23, 49. 4, 7, 22. 23, 21. 6, 12, 30. 7, 8, 2. 8, 12, 37.</ls> 
-<ls>SARVADARŚANAS. 56, 10.</ls> {#SocyA ca priyadarSanA ca madanaviklizweyamAlakzyate#} {%erscheint%} 
-<ls>ŚĀK. 58. 133. 69, 2, v. l.</ls> {#prAgevAlakzitaM svaram#} {%vernommen, gehört%} 
-<ls>R. 7, 35, 43.</ls> {#SatrurAlakzito#} 
-<ls>MBH. 7, 6262</ls> fehlerhaft für {#SatruScAlakzito#} d. i. {#ala°#}, wie die ed. Bomb. liest. 
+{#sa#} ({#grIzmaH#}) {#ca vfndAvanaguRErvasanta iva lakzitaH#}
+<ls>BHĀG. P. 10,18,3.</ls> {#ayaM raTanirGozo nEzaDasyeva lakzyate#} so v. a. {%dieses Wagengerassel hört sich wie das des%} <is>Nala</is> {%an%}
+<ls>MBH. 3,2888.</ls> — {#lakzyate#}
+<ls>MBH. 5,7042</ls> fehlerhaft für {#lapsyate#} (so die <ls>ed. Bomb.</ls>), {#lakzyatAM#}
+<ls>R. 5,82,19</ls> fehlerhaft für {#BakzyatAM, alakzya#}
+<ls>PAÑCAR. 4,2,25</ls> fehlerhaft für {#Alakzya#} .
+<div n="p">— {#ati#}, {#anatilakzitaH#}
+<ls>KĀM. NĪTIS. 12,9</ls> fehlerhaft für {#anaBi°#} {%unbemerkt, ungesehen.%}
+<div n="p">— {#aBi#}
+<div n="1"> 1) {%bezeichnen, bestimmen%}: {#rAmAnalavyomarUpEH SakakAle 'Bilakzite#}
+<ls>Verz. d. Oxf. H. 188,b,13.</ls> {#aBilakzito varo rudraH#} so v. a. {%ausersehen zu%}
+<ls>MBH. 12,13223.</ls>
+<div n="1">— 2) {%sein Augenmerk richten auf, im Auge haben%}: {#prAyaRIKyakarmABilakzya devayajanaM pravizwAH#} Comm. zu
+<ls>TBR. 1,5,9,3.</ls>
+<div n="1">— 3) {%berichten, kundthun%}: {#BaradvAjABigamanam#} u.s.w. {#tezAM tatrasTEraBilakzitam#}
+<ls>R. 2,57,2.</ls>
+<div n="1">— 4) {%erblicken, gewahr werden%}: {#pArzataSca mahAyudDe vimuKo 'dyABilakzyate#} so v. a. {%scheint zu sein%}
+<ls>MBH. 8,1045.</ls>
+<ls>HARIV. 3675.</ls> {#tridaSagaREraBilakzitapraBAvaH#} {%erblickt, gesehen%}
+<ls>HARIV. 13051.</ls> {#anaBilakzita#} {%unbemerkt, ungesehen%}
+<ls>MBH. 1,5822.</ls> {#nABilakzita#} dass.
+<ls>YĀJÑ. 3,59.</ls>
+<div n="p">— {#A#} {%erblicken, gewahr werden, sehen%}; med.
+<ls>MBH. 4,1568.</ls> {#°lakzya#}
+<ls n="MBH.">1,787.</ls> <ls n="MBH.">2,2403.</ls> <ls n="MBH.">3,12215.</ls> <ls>R. GORR. 2,71,3.</ls> <ls n="R. GORR.">3,1,4.</ls> <ls n="R. GORR.">4,10,8.</ls> <ls n="R. GORR.">5,29,17.</ls> <ls n="R. GORR.">7,34,15.</ls> <ls>RĀJA-TAR. 4,422. 5,365.</ls> <ls>BHĀG. P. 1,7,32.</ls> <ls n="BHĀG. P. 1,">12,34.</ls> <ls n="BHĀG. P.">6,9,4.</ls> <ls n="BHĀG. P.">10,16,13.</ls> <ls>PAÑCAR. 4,2,30</ls> (fälschlich {#alakzya#} gedr.).
+<ls>PAÑCAT. ed. orn. 53,16.</ls> {#etadAlakzyate rAma maDUkAnAM mahadvanam#}
+<ls>R. 3,19,22.</ls>
+<ls>BHĀG. P. 10,39,36.</ls> {#Alakzita#}
+<ls n="BHĀG. P.">1,4,6.</ls> <ls>R. GORR. 2,5,13.</ls> {#Alakzaye BavatImantarADim#}
+<ls>BHĀG. P. 1,16,20.</ls> {#nAtiparyAptamAlakzya matkukzeradya Bojanam#}
+<ls>RAGH. 15,18.</ls>
+<ls>BHĀG. P. 3,23,49.</ls> <ls n="BHĀG. P.">4,7,22.</ls> <ls n="BHĀG. P. 4,">23,21.</ls> <ls n="BHĀG. P.">6,12,30.</ls> <ls n="BHĀG. P.">7,8,2.</ls> <ls n="BHĀG. P.">8,12,37.</ls>
+<ls>SARVADARŚANAS. 56,10.</ls> {#SocyA ca priyadarSanA ca madanaviklizweyamAlakzyate#} {%erscheint%}
+<ls>ŚĀK. 58. 133. 69,2, v. l.</ls> {#prAgevAlakzitaM svaram#} {%vernommen, gehört%}
+<ls>R. 7,35,43.</ls> {#SatrurAlakzito#}
+<ls>MBH. 7,6262</ls> fehlerhaft für {#SatruScAlakzito#} <ab>d. i.</ab> {#ala°#}, wie die <ls>ed. Bomb.</ls> liest.
 <div n="v">— Vgl. {#Alakzya#} .
-
-<div n="p">— {#upA#} {%erblicken, gewahr werden%}: {#tamupAlakzya#} 
-<ls>BHĀG. P. 9, 3, 5.</ls> {#antarvatnImupAlakzya devIm#} 
-<ls>14, 40.</ls>
-
-<div n="p">— {#samA#}¦ dass.: {#nEzAdiM SvA samAlakzya BazaMstasTO tadantike#} 
-<ls>MBH. 1, 5249.</ls> {#vitaTAMstAnsamAlakzya patitAMSca mahItale#} 
-<ls>8, 1062.</ls> <ls>HARIV. 6427. 13262.</ls> <ls>R. 4, 18, 25. 38, 12. 7, 14, 20.</ls> {#dEvaM samAlakzya#} {%auf das Schicksal sehend%} so v. a. {%auf die Erfüllung des Schicksals wartend%} 
-<ls>MBH. 13, 313.</ls>
-
-<div n="p">— {#upa#} 
-<div n="1"> 1) {%bezeichnen, kennzeichnen%}: {#°lakzita#} {%bezeichnet, gekennzeichnet, erkennbar an%} 
-<ls>YĀJÑ. 1, 30. 2, 151.</ls> 
-<ls>KĀM. NĪTIS. 7, 47.</ls> <ls>KATHĀS. 10, 131. 31, 41. 56, 338.</ls> <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 29.</ls> <ls>RĀJA-TAR. 4, 417.</ls> <ls>BHĀG. P. 3, 11, 32. 4, 29, 20. 5, 3, 3. 7, 7. 22, 2. 7, 9, 36. 11, 5, 27.</ls> <ls>MĀRK. P. 74, 58. 97, 20.</ls> <ls>WEBER, RĀMAT. UP. 332.</ls> <ls>Schol.</ls> zu <ls>P. 1, 4, 84. 2, 1, 16.</ls> <ls>KUSUM. 58, 16. fg.</ls> <ls>KULL.</ls> zu <ls>M. 2, 170. 3, 45. 9, 35. Schol.</ls> zu <ls>NAIṢ. 22, 42.</ls> {#aNgAScampopalakzatAH (vaNgAH)#} so v. a. {%mit Einschluss von%} <is>Campā</is> 
-<ls>H. 957.</ls> 
-<div n="1">— 2) {%näher bestimmen, definiren%}; act. 
-<ls>Schol.</ls> zu <ls>ṚV. PRĀT. 3, 1.</ls> {#°lakzita#} 
-<ls>BHĀG. P. 3, 26, 17.</ls> 
-<div n="1">— 3) {%uneigentlich bezeichnen, - ausdrücken%}: {#umASabdo brahmavidyAmupalakzayati#} 
-<ls>SĀY.</ls> bei <ls>MUIR, ST. 4, 358.</ls> {#nakzatraSabdena jyotiHSAstramupalakzyate#} 
-<ls>KULL.</ls>zu <ls>M. 3, 162.</ls> <ls>SĀH. D. 153, 8.</ls> <ls>SARVADARŚANAS. 87, 9.</ls>
+<div n="p">— {#upA#} {%erblicken, gewahr werden%}: {#tamupAlakzya#}
+<ls>BHĀG. P. 9,3,5.</ls> {#antarvatnImupAlakzya devIm#}
+<ls n="BHĀG. P. 9,">14,40.</ls>
+<div n="p">— {#samA#}¦ dass.: {#nEzAdiM SvA samAlakzya BazaMstasTO tadantike#}
+<ls>MBH. 1,5249.</ls> {#vitaTAMstAnsamAlakzya patitAMSca mahItale#}
+<ls n="MBH.">8,1062.</ls> <ls>HARIV. 6427.</ls> <ls n="HARIV.">13262.</ls> <ls>R. 4,18,25.</ls> <ls n="R. 4,">38,12.</ls> <ls n="R.">7,14,20.</ls> {#dEvaM samAlakzya#} {%auf das Schicksal sehend%} so v. a. {%auf die Erfüllung des Schicksals wartend%}
+<ls>MBH. 13,313.</ls>
+<div n="p">— {#upa#}
+<div n="1"> 1) {%bezeichnen, kennzeichnen%}: {#°lakzita#} {%bezeichnet, gekennzeichnet, erkennbar an%}
+<ls>YĀJÑ. 1,30.</ls> <ls n="YĀJÑ.">2,151.</ls>
+<ls>KĀM. NĪTIS. 7,47.</ls> <ls>KATHĀS. 10,131.</ls> <ls n="KATHĀS.">31,41.</ls> <ls n="KATHĀS.">56,338.</ls> <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 29.</ls> <ls>RĀJA-TAR. 4,417.</ls> <ls>BHĀG. P. 3,11,32.</ls> <ls n="BHĀG. P.">4,29,20.</ls> <ls n="BHĀG. P.">5,3,3.</ls> <ls n="BHĀG. P. 5,">7,7.</ls> <ls n="BHĀG. P. 5,">22,2.</ls> <ls n="BHĀG. P.">7,9,36.</ls> <ls n="BHĀG. P.">11,5,27.</ls> <ls>MĀRK. P. 74,58. 97,20.</ls> <ls>WEBER, RĀMAT. UP. 332.</ls> <ls>Schol.</ls> zu <ls>P. 1,4,84.</ls> <ls n="P.">2,1,16.</ls> <ls>KUSUM. 58,16. fg.</ls> <ls>KULL.</ls> zu <ls>M. 2,170.</ls> <ls n="M.">3,45.</ls> <ls n="M.">9,35.</ls> Schol. zu <ls>NAIṢ. 22,42.</ls> {#aNgAScampopalakzatAH (vaNgAH)#} so v. a. {%mit Einschluss von%} <is>Campā</is>
+<ls>H. 957.</ls>
+<div n="1">— 2) {%näher bestimmen, definiren%}; act.
+<ls>Schol.</ls> zu <ls>ṚV. PRĀT. 3,1.</ls> {#°lakzita#}
+<ls>BHĀG. P. 3,26,17.</ls>
+<div n="1">— 3) {%uneigentlich bezeichnen, — ausdrücken%}: {#umASabdo brahmavidyAmupalakzayati#}
+<ls>SĀY.</ls> bei <ls>MUIR, ST. 4,358.</ls> {#nakzatraSabdena jyotiHSAstramupalakzyate#}
+<ls>KULL.</ls>zu <ls>M. 3,162.</ls> <ls>SĀH. D. 153,8.</ls> <ls>SARVADARŚANAS. 87,9.</ls>
 [Page6-0468]
-{#sA (SAlmalI) dvIpahUtaya#} (dat.) {#upalakzyate#} so v. a. {%dient metonymisch als Name des%} <is>Dvīpa</is> 
-<ls>BHĀG. P. 5, 20, 8.</ls> {#anupalakzitavaco'BiDIyamAnA#} {%benannt mit einem Namen, neben dem noch kein anderer uneigentlicher besteht%}, 
-<ls>17, 1.</ls> 
-<div n="1">— 4) {%sein Augenmerk richten auf, beachten%}; act. 
-<ls>MBH. 12, 4370. 13, 6606.</ls> 
-<ls>KĀM. NĪTIS. 16, 40.</ls> {#SataSo 'pyupalakzaye#} 
-<ls>HARIV. 12351.</ls> {#pARinIyAdiSabdasmftIrupalakzya#} 
-<ls>Verz. d. Oxf. H. 176,b,26.</ls> {#tatsarvamupalakzitam#} 
-<ls>266,a,17.</ls> 
-<div n="1">— 5) {%betrachten als, halten für%}: {#etatkftyatamaM rAjYo nityamevopalakzayet#} 
-<ls>MBH. 13, 2087.</ls> {#puraMdarapurAdDIdaM viSizwamupalakzaye#} 
-<ls>3, 12188.</ls> {#lokapravAdaH satyo 'yaM paRqiMtErupalakzitaH#} 
-<ls>R. 5, 26, 6.</ls> 
-<div n="1">— 6) {%erblicken, bemerken, wahrnehmen, sehen%}; act. 
-<ls>R. 5, 27, 31. 6, 88, 9.</ls> 
-<ls>SUŚR. 1, 21, 6. 153, 7.</ls> 
-<ls>MṚCCH. 14, 19.</ls> 
-<ls>VARĀH. BṚH. S. 86, 10.</ls> med. <ls>MBH. 3, 16775. 16888.</ls> <ls>R. 2, 58, 25 (27 GORR.). 27. 59, 17 (15 GORR.). 4, 8, 7. 12, 41. 58, 8. 5, 56, 67.</ls> <ls>BHĀG. P. 10, 62, 15.</ls> {#°lakzya#} 
-<ls>ĀŚV. ŚR. 1, 12, 31.</ls> 
-<ls>ŚĀṄKH. ŚR. 1, 16, 9.</ls> 
-<ls>MBH. 12, 8092.</ls> {#buBukzitAnAM dInAnAM nAtfptirupalakzyate#} 
-<ls>R. GORR. 1, 13, 12.</ls> <ls>KATHĀS. 46, 45.</ls> <ls>BHĀG. P. 3, 26, 49.</ls> <ls>SARVADARŚANAS. 93, 15.</ls> {#pratyakzeRa#} 
-<ls>MĀRK. P. 21, 74. 113, 11.</ls> {#°lakzita#} 
-<ls>MBH. 3, 2186.</ls> 
-<ls>R. 4, 51, 26. 7, 37, 5, 29.</ls> 
-<ls>KĀM. NĪTIS. 16, 14.</ls> <ls>KATHĀS. 31, 48.</ls> <ls>BHĀG. P. 3, 30, 30.</ls> <ls>HIT. ed. JOHNS. 1815.</ls> <ls>VET.</ls> in <ls>LA. (III) 10, 14.</ls> {#pratyakzam#} 
-<ls>R. 4, 46, 18.</ls> {#samyagupalakzitaM#} (so mit der 
-v. l. zu lesen) {#BavatyA#} 
-<ls>ŚĀK. 15, 15.</ls> 
-<ls>DHŪRTAS. 83, 6.</ls> 
-<ls>PAÑCAT. 50, 14.</ls> {#nopalakzita#} 
-<ls>BHĀG. P. 5, 18, 30.</ls> {#anupalakzita#} 
-<ls>R. 1, 2, 13. 6, 1, 6.</ls> 
-<ls>KĀM. NĪTIS. 17, 17.</ls> <ls>KATHĀS. 95, 47.</ls> <ls>BHĀG. P. 4, 13, 47.</ls> <ls>DAŚAK. 78, 1.</ls> <ls>KULL.</ls> zu <ls>M. 7, 147.</ls> <ls>SARVADARŚANAS. 93, 9.</ls> — {#BavatAM romakUpARi prahfzwAnyupalakzaye#} 
-<ls>MBH. 4, 1464.</ls> 
-<ls>R. 2, 52, 21. 71, 34.</ls> {#hatatvizamivAtmAnamapi cAdyopalekzaye#} 
-<ls>R. GORR. 2, 71, 22.</ls> {#suKAsInaM tatastaM tu viSrAntamupalakzya ca#} 
-<ls>MBH. 1, 6. 7843.</ls> 
-<ls>BHĀG. P. 3, 18, 6. 4, 9, 2.</ls> 
-<ls>ŚATR. 10, 133.</ls> 
-<ls>DAŚAK. 63, 17.</ls> {#sa giriranya evopalakzyate#} 
-<ls>HARIV. 3937. 11593</ls> ({#upalaByate#} die neuere Ausg.). 
-<ls>R. GORR. 2, 73, 22.</ls> <ls>MĀRK. P. 66, 15.</ls> <ls>HIT. ed. JOHNS. 2410.</ls> {#ayamupajAtakroDa ivopalakzyate#} 
-<ls>PRAB. 6, 6.</ls> {#na BAratI me 'Nga mfzopalakzyate#} 
-<ls>BHĀG. P. 2, 6, 33.</ls> {#devarAjo 'pi mayA nityamatropalakzitaH . vicalanpraTamotpAte hayAnAm#} 
-<ls>MBH. 3, 12030.</ls> 
-<ls>HARIV. 9718.</ls> 
-<ls>R. 4, 5, 20.</ls> 
-<ls>VIKR. 78, 20. fg.</ls> 
-<ls>KATHĀS. 32, 66.</ls> {#leKyAnIvopalakzitAH#} 
-<ls>BHĀG. P. 10, 39, 36.</ls> {#itaravadihopalakzitaH#} 
-<ls>5, 3, 9.</ls> {#pravizwo 'nupalakzitaH#} 
-<ls>R. 5, 12, 1.</ls> {#jahyAdrAjyaM ca koSaM ca Barato copalakzyate#} {%es hat den Anschein, als wenn%} 
-<ls>2, 61, 11.</ls> {%vernehmen, hören%}: {#ABAzitaM kiMcidivopalakzya#} 
-<ls>HARIV. 8409.</ls> {#upalakzitam#} (so ist zu lesen) 
-<ls>MĀLAV. 67, 17.</ls> {%wahrnehmen%} so v. a. {%empfinden%}: {#yasmAdduHKamupalakzyate#} 
-(v. l. für {#upalaByate#}) 
-<ls>Spr. 1491.</ls> 
+{#sA (SAlmalI) dvIpahUtaya#} (dat.) {#upalakzyate#} so v. a. {%dient metonymisch als Name des%} <is>Dvīpa</is>
+<ls>BHĀG. P. 5,20,8.</ls> {#anupalakzitavaco'BiDIyamAnA#} {%benannt mit einem Namen, neben dem noch kein anderer uneigentlicher besteht%},
+<ls n="BHĀG. P. 5,">17,1.</ls>
+<div n="1">— 4) {%sein Augenmerk richten auf, beachten%}; act.
+<ls>MBH. 12,4370.</ls> <ls n="MBH.">13,6606.</ls>
+<ls>KĀM. NĪTIS. 16,40.</ls> {#SataSo 'pyupalakzaye#}
+<ls>HARIV. 12351.</ls> {#pARinIyAdiSabdasmftIrupalakzya#}
+<ls>Verz. d. Oxf. H. 176,b,26.</ls> {#tatsarvamupalakzitam#}
+<ls n="Verz. d. Oxf. H.">266,a,17.</ls>
+<div n="1">— 5) {%betrachten als, halten für%}: {#etatkftyatamaM rAjYo nityamevopalakzayet#}
+<ls>MBH. 13,2087.</ls> {#puraMdarapurAdDIdaM viSizwamupalakzaye#}
+<ls n="MBH.">3,12188.</ls> {#lokapravAdaH satyo 'yaM paRqiMtErupalakzitaH#}
+<ls>R. 5,26,6.</ls>
+<div n="1">— 6) {%erblicken, bemerken, wahrnehmen, sehen%}; act.
+<ls>R. 5,27,31.</ls> <ls n="R.">6,88,9.</ls>
+<ls>SUŚR. 1,21,6. 153,7.</ls>
+<ls>MṚCCH. 14,19.</ls>
+<ls>VARĀH. BṚH. S. 86,10.</ls> med. <ls>MBH. 3,16775.</ls> <ls n="MBH. 3,">16888.</ls> <ls>R. 2,58,25</ls> (<ls n="GORR. 2,58,">27</ls> <ls>GORR.</ls>). <ls n="R. 2,58,">27.</ls> <ls n="R. 2,">59,17</ls> (<ls n="GORR. 2,59,">15</ls> <ls>GORR.</ls>). <ls n="R.">4,8,7.</ls> <ls n="R. 4,">12,41.</ls> <ls n="R. 2,">58,8.</ls> <ls n="R.">5,56,67.</ls> <ls>BHĀG. P. 10,62,15.</ls> {#°lakzya#}
+<ls>ĀŚV. ŚR. 1,12,31.</ls>
+<ls>ŚĀṄKH. ŚR. 1,16,9.</ls>
+<ls>MBH. 12,8092.</ls> {#buBukzitAnAM dInAnAM nAtfptirupalakzyate#}
+<ls>R. GORR. 1,13,12.</ls> <ls>KATHĀS. 46,45.</ls> <ls>BHĀG. P. 3,26,49.</ls> <ls>SARVADARŚANAS. 93,15.</ls> {#pratyakzeRa#}
+<ls>MĀRK. P. 21,74. 113,11.</ls> {#°lakzita#}
+<ls>MBH. 3,2186.</ls>
+<ls>R. 4,51,26.</ls> <ls n="R.">7,37,5,29.</ls>
+<ls>KĀM. NĪTIS. 16,14.</ls> <ls>KATHĀS. 31,48.</ls> <ls>BHĀG. P. 3,30,30.</ls> <ls>HIT. ed. JOHNS. 1815.</ls> <ls>VET. in LA. (III) 10,14.</ls> {#pratyakzam#}
+<ls>R. 4,46,18.</ls> {#samyagupalakzitaM#} (so mit der
+v. l. zu lesen) {#BavatyA#}
+<ls>ŚĀK. 15,15.</ls>
+<ls>DHŪRTAS. 83,6.</ls>
+<ls>PAÑCAT. 50,14.</ls> {#nopalakzita#}
+<ls>BHĀG. P. 5,18,30.</ls> {#anupalakzita#}
+<ls>R. 1,2,13.</ls> <ls n="R.">6,1,6.</ls>
+<ls>KĀM. NĪTIS. 17,17.</ls> <ls>KATHĀS. 95,47.</ls> <ls>BHĀG. P. 4,13,47.</ls> <ls>DAŚAK. 78,1.</ls> <ls>KULL.</ls> zu <ls>M. 7,147.</ls> <ls>SARVADARŚANAS. 93,9.</ls> — {#BavatAM romakUpARi prahfzwAnyupalakzaye#}
+<ls>MBH. 4,1464.</ls>
+<ls>R. 2,52,21.</ls> <ls n="R. 2,">71,34.</ls> {#hatatvizamivAtmAnamapi cAdyopalekzaye#}
+<ls>R. GORR. 2,71,22.</ls> {#suKAsInaM tatastaM tu viSrAntamupalakzya ca#}
+<ls>MBH. 1,6.</ls> <ls n="MBH. 1,">7843.</ls>
+<ls>BHĀG. P. 3,18,6.</ls> <ls n="BHĀG. P.">4,9,2.</ls>
+<ls>ŚATR. 10,133.</ls>
+<ls>DAŚAK. 63,17.</ls> {#sa giriranya evopalakzyate#}
+<ls>HARIV. 3937.</ls> <ls n="HARIV.">11593</ls> ({#upalaByate#} die neuere Ausg.).
+<ls>R. GORR. 2,73,22.</ls> <ls>MĀRK. P. 66,15.</ls> <ls>HIT. ed. JOHNS. 2410.</ls> {#ayamupajAtakroDa ivopalakzyate#}
+<ls>PRAB. 6,6.</ls> {#na BAratI me 'Nga mfzopalakzyate#}
+<ls>BHĀG. P. 2,6,33.</ls> {#devarAjo 'pi mayA nityamatropalakzitaH . vicalanpraTamotpAte hayAnAm#}
+<ls>MBH. 3,12030.</ls>
+<ls>HARIV. 9718.</ls>
+<ls>R. 4,5,20.</ls>
+<ls>VIKR. 78,20. fg.</ls>
+<ls>KATHĀS. 32,66.</ls> {#leKyAnIvopalakzitAH#}
+<ls>BHĀG. P. 10,39,36.</ls> {#itaravadihopalakzitaH#}
+<ls n="BHĀG. P.">5,3,9.</ls> {#pravizwo 'nupalakzitaH#}
+<ls>R. 5,12,1.</ls> {#jahyAdrAjyaM ca koSaM ca Barato copalakzyate#} {%es hat den Anschein, als wenn%}
+<ls n="R.">2,61,11.</ls> {%vernehmen, hören%}: {#ABAzitaM kiMcidivopalakzya#}
+<ls>HARIV. 8409.</ls> {#upalakzitam#} (so ist zu lesen)
+<ls>MĀLAV. 67,17.</ls> {%wahrnehmen%} so v. a. {%empfinden%}: {#yasmAdduHKamupalakzyate#}
+(v. l. für {#upalaByate#})
+<ls>Spr. 1491.</ls>
 <div n="v">— Vgl. {#upalakzaka#} fgg.
-
-<div n="p">— {#aByupa#} {%erblicken, wahrnehmen%}: ({#nimittAni#}) {#surarzisidDAByupalakzitAni#} 
-<ls>R. 5, 28, 11.</ls>
-
-<div n="p">— {#samupa#} 
-<div n="1"> 1) {%sein Augenmerk richten auf, beobachten%}: {#nimittAni samupalakzayet#} 
-<ls>KĀM. NĪTIS. 16, 35.</ls> 
-<div n="1">— 2) {%erblicken, wahrnehmen%}: {#uktasyoktasya nehAntamahaM samupalakzaye#} 
-<ls>MBH. 2, 1557.</ls> {#yena liNgena yo deSo yuktaH samupalakzyate#} 
-<ls>1, 281.</ls>
-
-<div n="p">— {#saMprati#} {%erblicken, wahrnehmen%}: {#asvAmikasya svAmitvaM yasminsaMpratilakzyate#} (so die ed. Bomb.) 
-<ls>MBH. 13, 2633.</ls>
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%kennzeichnen%}: {#°lakzita#} {%gekennzeichnet, erkennbar an%} 
-<ls>BHĀG. P. 1, 8, 39. 3, 21, 20. 5, 18, 18. 10, 38, 25.</ls> 
-<div n="1">— 2) {%erblicken, wahrnehmen%}: {#nAtidUre ca nagaraM vanAdasmAdvilakzaye#} ({#asmAdDi la°#} 
-<ls>MBH. 1, 5924</ls>) <ls>HIḌ. 1, 51.</ls> {#vilakzya dEtyam#} 
-<ls>BHĀG. P. 3, 18, 21. 10, 7, 24.</ls> {#avilakzita#} 
-<ls>5, 6, 6.</ls> {#tasmi~llabDapadaM #}
+<div n="p">— {#aByupa#} {%erblicken, wahrnehmen%}: ({#nimittAni#}) {#surarzisidDAByupalakzitAni#}
+<ls>R. 5,28,11.</ls>
+<div n="p">— {#samupa#}
+<div n="1"> 1) {%sein Augenmerk richten auf, beobachten%}: {#nimittAni samupalakzayet#}
+<ls>KĀM. NĪTIS. 16,35.</ls>
+<div n="1">— 2) {%erblicken, wahrnehmen%}: {#uktasyoktasya nehAntamahaM samupalakzaye#}
+<ls>MBH. 2,1557.</ls> {#yena liNgena yo deSo yuktaH samupalakzyate#}
+<ls n="MBH.">1,281.</ls>
+<div n="p">— {#saMprati#} {%erblicken, wahrnehmen%}: {#asvAmikasya svAmitvaM yasminsaMpratilakzyate#} (so die <ls>ed. Bomb.</ls>)
+<ls>MBH. 13,2633.</ls>
+<div n="p">— {#vi#}
+<div n="1"> 1) {%kennzeichnen%}: {#°lakzita#} {%gekennzeichnet, erkennbar an%}
+<ls>BHĀG. P. 1,8,39.</ls> <ls n="BHĀG. P.">3,21,20.</ls> <ls n="BHĀG. P.">5,18,18.</ls> <ls n="BHĀG. P.">10,38,25.</ls>
+<div n="1">— 2) {%erblicken, wahrnehmen%}: {#nAtidUre ca nagaraM vanAdasmAdvilakzaye#} ({#asmAdDi la°#}
+<ls>MBH. 1,5924</ls>) <ls>HIḌ. 1,51.</ls> {#vilakzya dEtyam#}
+<ls>BHĀG. P. 3,18,21.</ls> <ls n="BHĀG. P.">10,7,24.</ls> {#avilakzita#}
+<ls n="BHĀG. P.">5,6,6.</ls> {#tasmi~llabDapadaM #}
 [Page6-0469]
-{# cittaM sarvAvayavasaMsTitam . vilakzya#} 
-<ls>3, 28, 20. 7, 3, 16. 9, 14, 44.</ls> 
-<div n="1">— 3) ({%das Ziel aus dem Auge verlieren) verwirrt werden%}: {#vilakzayaMstu#} 
-(v. l. {#vilakzaRastu#} und {#valakzastatra#}) 
-<ls>MBH. 3, 382.</ls> {#vilakzya#} 
-<ls>PAÑCAT. 235, 25.</ls> {#vilakzita#} {%bestürzt%} 
-<ls>MBH. 1, 7055.</ls> {%verlegen%} 
-<ls>KATHĀS. 13, 174. 17, 32. 124, 149.</ls> {#vilakzitasmita (= salajjahAsya#} 
-<ls>Schol.</ls>) <ls>GĪT. 2, 19.</ls> {%ungehalten%}: {#nirvyApAravilakzitAni sAntvaya balAni#} 
-<ls>UTTARAR. 109, 17 (148, 13).</ls>
-
-<div n="p">— {#sam#} 
-<div n="1"> 1) {%kennzeichnen%}: {#°lakzita#} {%gekennzeichnet, erkennbar an%} 
-<ls>PAÑCAR. 3, 5, 15. 7, 7.</ls> 
-<div n="1">— 2) {%erblicken, wahrnehmen, erfahren%}: {#riraMsAM tasya saMlakzya#} 
-<ls>RĀJA-TAR. 3, 503.</ls> {#saMlakzyate Palata eva tava prasAdaH#} 
-<ls>252.</ls> {#hemnaH saMlakzyate hyagnO viSudDiH SyAmikApi vA#} 
-<ls>RAGH. 1, 10.</ls> 
-<ls>SĀH. D. 102, 5.</ls> {#saMlakzitastu sUkzmo 'rTa AkAreRoNgitena vA#} 
-<ls>748.</ls> {#saMlakzita#} 
-<ls>GĪT. 3, 16.</ls> {#asaMlakzita#} 
-<ls>KATHĀS. 78, 132.</ls> {#SUlEriva Siro vidDamidaM saMlakzayAmyaham#} 
-<ls>MBH. 3, 16751.</ls> {#tAM tarjyamAnAM saMlakzya daSagrIveRa#} 
-<ls>R. 5, 24, 10.</ls> {#vegAvataraRAdAScaryadarSanaH saMlakzyate manuzyalokaH#} {%erscheint%} 
-<ls>ŚĀK. 99, 7.</ls> {#SIryamARaH saMlakzyate na#} 
-<ls>RAGH. 16, 62.</ls> 
-<ls>VIKR. 157.</ls> {#vidDeva puzpacApena tatkzaRaM samalakzyata#} 
-<ls>KATHĀS. 14, 29.</ls> 
-<ls>SUŚR. 1, 308, 9.</ls> 
-<ls>RAGH. 8, 42.</ls> 
-<ls>BHĀG. P. 3, 15, 21.</ls> 
-<ls>PAÑCAT. ed. orn. 53, 20.</ls> {%vernehmen, hören%}: {#taM ca SabdamasahyaM vE tasyAH saMlakzya#} 
-<ls>MBH. 7, 5226.</ls> 
+{# cittaM sarvAvayavasaMsTitam . vilakzya#}
+<ls n="BHĀG. P.">3,28,20.</ls> <ls n="BHĀG. P.">7,3,16.</ls> <ls n="BHĀG. P.">9,14,44.</ls>
+<div n="1">— 3) ({%das Ziel aus dem Auge verlieren) verwirrt werden%}: {#vilakzayaMstu#}
+(v. l. {#vilakzaRastu#} und {#valakzastatra#})
+<ls>MBH. 3,382.</ls> {#vilakzya#}
+<ls>PAÑCAT. 235,25.</ls> {#vilakzita#} {%bestürzt%}
+<ls>MBH. 1,7055.</ls> {%verlegen%}
+<ls>KATHĀS. 13,174.</ls> <ls n="KATHĀS.">17,32.</ls> <ls n="KATHĀS.">124,149.</ls> {#vilakzitasmita#} (= {#salajjahAsya#}
+<ls>Schol.</ls>) <ls>GĪT. 2,19.</ls> {%ungehalten%}: {#nirvyApAravilakzitAni sAntvaya balAni#}
+<ls>UTTARAR. 109,17 (148,13).</ls>
+<div n="p">— {#sam#}
+<div n="1"> 1) {%kennzeichnen%}: {#°lakzita#} {%gekennzeichnet, erkennbar an%}
+<ls>PAÑCAR. 3,5,15. 7,7.</ls>
+<div n="1">— 2) {%erblicken, wahrnehmen, erfahren%}: {#riraMsAM tasya saMlakzya#}
+<ls>RĀJA-TAR. 3,503.</ls> {#saMlakzyate Palata eva tava prasAdaH#}
+<ls n="RĀJA-TAR.">252.</ls> {#hemnaH saMlakzyate hyagnO viSudDiH SyAmikApi vA#}
+<ls>RAGH. 1,10.</ls>
+<ls>SĀH. D. 102,5.</ls> {#saMlakzitastu sUkzmo 'rTa AkAreRoNgitena vA#}
+<ls n="SĀH. D.">748.</ls> {#saMlakzita#}
+<ls>GĪT. 3,16.</ls> {#asaMlakzita#}
+<ls>KATHĀS. 78,132.</ls> {#SUlEriva Siro vidDamidaM saMlakzayAmyaham#}
+<ls>MBH. 3,16751.</ls> {#tAM tarjyamAnAM saMlakzya daSagrIveRa#}
+<ls>R. 5,24,10.</ls> {#vegAvataraRAdAScaryadarSanaH saMlakzyate manuzyalokaH#} {%erscheint%}
+<ls>ŚĀK. 99,7.</ls> {#SIryamARaH saMlakzyate na#}
+<ls>RAGH. 16,62.</ls>
+<ls>VIKR. 157.</ls> {#vidDeva puzpacApena tatkzaRaM samalakzyata#}
+<ls>KATHĀS. 14,29.</ls>
+<ls>SUŚR. 1,308,9.</ls>
+<ls>RAGH. 8,42.</ls>
+<ls>BHĀG. P. 3,15,21.</ls>
+<ls>PAÑCAT. ed. orn. 53,20.</ls> {%vernehmen, hören%}: {#taM ca SabdamasahyaM vE tasyAH saMlakzya#}
+<ls>MBH. 7,5226.</ls>
 <div n="v">— Vgl. {#saMlakzaRa, saMlakzya#} .
 <LEND>

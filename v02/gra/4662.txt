@@ -1,8 +1,9 @@
 <L>4662<pc>0660<k1>Dav<k2>Dav
-{@dhav@}¦ [<ab>s.</ab> dhanv], {%strömen, laufen,%} mit {@áva@} {%herabströmen, herablaufen%} zu [<ab>L.</ab>].
+{@√dhav@}¦ [<ab n="siehe">s.</ab> dhanv], {%strömen, laufen,%} mit {@áva@} {%herabströmen, herablaufen%} zu [<ab>L.</ab>].
 <div n="H">Stamm {@dhava:@}
-<div n="P1">-adhve ā́pas iva {414,3} (marutas).
-<div n="P1">-ante {@áva@} tvé {488,14} (pravátas ná ūrmís gíras bráhmāṇi niyútas). <lbinfo n="5"/>
+<div n="TS">-adhve ā́pas iva {414,3} (marutas).
+<div n="TS">-ante {@áva@} tvé {488,14} (pravátas ná ūrmís gíras bráhmāṇi niyútas).
 <div n="H"><ab>Impf.</ab> {@adhava:@}
-<div n="P1">-anta tṛ́tsavas ā́pas ná sṛṣṭā́s {534,15}.
+<div n="TS">-anta tṛ́tsavas ā́pas ná sṛṣṭā́s {534,15}.
+<div n="H">Verbale {@dháv,@} im <ab>Compar.</ab> {@dhávīyas:@}
 <LEND>

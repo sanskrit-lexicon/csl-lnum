@@ -1,10 +1,10 @@
 <L>36492<pc>212,1<k1>upahf<k2>upa-hf<e>1
-<s>upa-√ hf</s> ¦ <ab>P.</ab> <s>-harati</s>, to bring near, reach forth, proffer, offer, place before, give to taste (<ab>esp.</ab> food), <ls>AV.</ls>; <ls>TBr.</ls>; <ls>ŚBr.</ls>; <ls>ĀśvŚr.</ls> and, <ls>ĀśvGṛ.</ls>; <ls>KātyŚr.</ls>; <ls>MBh.</ls>; <ls>Suśr.</ls> &c.;
+<s>upa-√ hf</s> ¦ <ab>P.</ab> <s>-harati</s>, to bring near, reach forth, proffer, offer, place before, give to taste (<ab>esp.</ab> food), <ls>AV.</ls>; <ls>TBr.</ls>; <ls>ŚBr.</ls>; <ls>ĀśvŚr.</ls> & <ls>ĀśvGṛ.</ls>; <ls>KātyŚr.</ls>; <ls>MBh.</ls>; <ls>Suśr.</ls> &c.;
 <div n="to"/>to put together, gather, collect, <ls>MBh.</ls>; <ls>BhP.</ls>;
 <div n="to"/>to apply (medicine), <ls>Suśr.</ls>;
 <div n="to"/>to take away;
 <div n="to"/>to destroy, <ls>MBh. ii</ls> :
 <div n="to"/><ab>Ā.</ab> <s>-harate</s>, to accept, receive, <ls>TS. v</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-hArayati</s>, to place before, proffer, offer, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Suśr.</ls> :
-<div n="to"/><ab>Desid.</ab> <s>jihIrzati</s>, to wish to offer, <ls>MBh. ii, 862.</ls><info verb="pre" cp="PĀ" parse="upa+hf"/>
+<div n="vp"/><ab>Caus.</ab> <s>-hArayati</s>, to place before, proffer, offer, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Suśr.</ls> :
+<div n="vp"/><ab>Desid.</ab> <s>jihIrzati</s>, to wish to offer, <ls>MBh. ii, 862.</ls><info verb="pre" cp="PĀ" parse="upa+hf"/>
 <LEND>

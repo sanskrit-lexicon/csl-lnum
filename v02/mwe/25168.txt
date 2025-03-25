@@ -1,7 +1,7 @@
 <L>25168<pc>680-a<k1>republic<k2>republic
-<div n="lb"/>REPUBLIC¦, {%s.%} {#lokapraButvaM, sarvvalokapraButvaM, lokakarttfkapraButvaM, prajApraButvaM,#}
-<div n="lb"/>{#sarvvavarRapraButvaM, sarvvavarRADipatyaM, sADAraRapraButvaM, sADAraRADipatyaM, sADAra-#}
-<div n="lb"/>{#RajanapraButvaM, lokasADAraRADipatyaM, sarvvaprajADipatyaM, lokakarttfkarAjyaM,#}
-<div n="lb"/>{#sAmAnyajanakarttfkarAjyaM, lokapAlitaM rAjyaM, sADAraRajanapAlitarAjyaM,#}
-<div n="lb"/>{#prajApAlitarAjyaM#}.
+REPUBLIC¦, {%s.%} {#lokapraButvaM, sarvvalokapraButvaM, lokakarttfkapraButvaM, prajApraButvaM,#}
+{#sarvvavarRapraButvaM, sarvvavarRADipatyaM, sADAraRapraButvaM, sADAraRADipatyaM, sADAra-#}
+{#RajanapraButvaM, lokasADAraRADipatyaM, sarvvaprajADipatyaM, lokakarttfkarAjyaM,#}
+{#sAmAnyajanakarttfkarAjyaM, lokapAlitaM rAjyaM, sADAraRajanapAlitarAjyaM,#}
+{#prajApAlitarAjyaM#}.
 <LEND>

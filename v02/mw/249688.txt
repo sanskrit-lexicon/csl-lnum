@@ -1,3 +1,3 @@
-<L>249688<pc>1235,3<k1>surA<k2>su/rA<h>b<e>1
-<s>su/rA</s> <hom>b</hom> ¦ <lex>f.</lex> (<ab>ifc.</ab> also <lex type="hwifc">n(<s>sura</s>). </lex>; <ab>prob.</ab> <ab>fr.</ab> √ <hom>3.</hom> <s>su</s>, ‘to distil’, and not connected with <s>sura</s>, ‘a god’) spirituous liquor, wine (in ancient times ‘a kind of beer’)<info lex="f:n#sura"/>
+<L>249688<pc>1235,3<k1>surA<k2>su/rA<e>1
+<s>su/rA</s> ¦ <lex>f.</lex> (<ab>ifc.</ab> also <lex type="hwifc">n(<s>sura</s>). </lex>; <ab>prob.</ab> <ab>fr.</ab> √ <hom>3.</hom> <s>su</s>, ‘to distil’, and not connected with <s>sura</s>, ‘a god’) spirituous liquor, wine (in ancient times ‘a kind of beer’)<info lex="f:n#sura"/><info hui="b"/>
 <LEND>

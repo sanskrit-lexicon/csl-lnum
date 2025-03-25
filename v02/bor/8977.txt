@@ -1,8 +1,8 @@
 <L>8977<pc>284<k1>fling<k2>fling
-<div n="lb"/>{@FLING@}¦ (v.): {#kzipati, ni-,#} ({#kzip,#} c. 6.): v. To
-<div n="lb"/>throw, cast, emit. Comp.s.: <div n="xe">{%f. away:%}</div> <div n="xs">{#avakzipati;#}</div>
-<div n="lb"/><div n="xe">{%f. down:%}</div> <div n="xs">{#aDaHkzipati;#}</div> <div n="xe">{%f. in, f. off:%}</div> <div n="xs">{#avakzipati;#}</div> {%f. open:%}
-<div n="lb"/>{#balAt apAvfRoti#} ({#vf,#} c. 5.) (?). v. Also to break
-<div n="lb"/>open; <div n="xe">{%f. out:%}</div> <div n="xs">{#udgirati#}</div> ({#gF,#} c. 6.); <div n="xe">{%f. up:%}</div> <div n="xs">{#ava-#}
-<div n="lb"/>{#kzipati, tyajati.#}</div>
+{@FLING@}¦ (v.): {#kzipati, ni-,#} ({#kzip,#} c. 6.): v. To
+throw, cast, emit. Comp.s.: <div n="xe">{%f. away:%}</div> <div n="xs">{#avakzipati;#}</div>
+<div n="xe">{%f. down:%}</div> <div n="xs">{#aDaHkzipati;#}</div> <div n="xe">{%f. in, f. off:%}</div> <div n="xs">{#avakzipati;#}</div> {%f. open:%}
+{#balAt apAvfRoti#} ({#vf,#} c. 5.) (?). v. Also to break
+open; <div n="xe">{%f. out:%}</div> <div n="xs">{#udgirati#}</div> ({#gF,#} c. 6.); <div n="xe">{%f. up:%}</div> <div n="xs">{#ava-#}
+{#kzipati, tyajati.#}</div>
 <LEND>

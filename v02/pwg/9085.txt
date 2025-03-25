@@ -1,93 +1,92 @@
 <L>9085<pc>1-0680<k1>Ayus<k2>A/yus<h>2
-2. {#A/yus#}¦ <lex>n.</lex> 
-<ls>Uṇ. 2, 114.</ls> 
-<div n="1"> 1) {%Leben%}, sowohl {%Lebenskraft, Gesundheit%} als {%Lebensdauer; langes Leben%} 
-<ls>AK. 2, 8, 2, 88.</ls> 
-<ls>H. 1369.</ls> 
-<ls>ṚV. 1, 10, 11.</ls> {#pra Ra\ AyU^Mzi tArizat#} 
-<ls n="ṚV. 1,">25, 12.</ls> <ls n="ṚV. 1,">34, 11.</ls> {#viSva^M ci\dAyu^rjI\vase^#} 
-<ls n="ṚV. 1,">37, 15.</ls> <ls n="ṚV. 1,">44, 6.</ls> <ls n="ṚV. 1,">93, 3.</ls> {#dI\rGamAyu^H#}
+2. {#A/yus#}¦ <lex>n.</lex>
+<ls>Uṇ. 2,114.</ls>
+<div n="1"> 1) {%Leben%}, sowohl {%Lebenskraft, Gesundheit%} als {%Lebensdauer; langes Leben%}
+<ls>AK. 2,8,2,88.</ls>
+<ls>H. 1369.</ls>
+<ls>ṚV. 1,10,11.</ls> {#pra Ra\ AyU^Mzi tArizat#}
+<ls n="ṚV. 1,">25,12.</ls> <ls n="ṚV. 1,">34,11.</ls> {#viSva^M ci\dAyu^rjI\vase^#}
+<ls n="ṚV. 1,">37,15.</ls> <ls n="ṚV. 1,">44,6.</ls> <ls n="ṚV. 1,">93,3.</ls> {#dI\rGamAyu^H#}
 [Page1-0681]
-
-<ls n="ṚV. 1,">96, 8.</ls> <ls n="ṚV. 1,">113, 17.</ls> <ls n="ṚV. 1,">23, 24.</ls> <ls n="ṚV. 1,">24, 11.</ls> <ls n="ṚV. 1,">66, 1.</ls> {#vya^Sema de\vahi^ta\M yadAyu^H#} 
-<ls n="ṚV. 1,">89, 8.</ls> {#tve viSvA^ sarasvati Sri\tAyU^Mzi de\vyAm#} 
-<ls n="ṚV.">2, 41, 17.</ls> <ls n="ṚV. 2,">27, 10.</ls> <ls n="ṚV. 2,">38, 5.</ls> {#trIRyAyU^Mzi\ tava^ jAtavedaH#} 
-<ls n="ṚV.">3, 17, 3.</ls> <ls n="ṚV.">4, 4, 7.</ls> {#na\hi svamAyu^Sciki\te jane^zu#} 
-<ls n="ṚV.">7, 23, 2.</ls> {#Ayu\rvasA^na\ upa^ vetu\ Seza^H#} 
-<ls n="ṚV.">10, 16, 5.</ls> <ls n="ṚV. 10,">27, 7.</ls> {#ku\rmasta\ Ayu^ra\jara^m#} 
-<ls n="ṚV. 10,">51, 7.</ls> {#puna\rmana\H puna\rAyu^rma\ Aga\npuna^H prA\RaH puna^rA\tmA ma\ Aga^n#} 
-<ls>VS. 4, 15. 28. 5, 27.</ls> {#Ayu^ze\ varca^se\ balA^ya#} 
-<ls>AV. 1, 35, 1. 6, 63, 1.</ls> {#vi yakzme^na\ samAyu^zA#} 
-<ls>3, 31, 1.</ls> {#uda^hva\mAyu\rAyu^ze\ kratve\ dakzA^ya jI\vase^#} 
-<ls>8, 2, 23.</ls> <ls>TS. 1, 1, 10, 2.</ls> {#mA pA\dyAyu^zaH pu\rA#} 
-<ls>5, 1, 5, 7.</ls> {#tasmA\dAyu^H prA\RAnA^mutta\mam#} 
-<ls>6, 5, 2, 1.</ls> {#yAvadvevAsyeha mAnuzamAyuH#} 
-<ls>ŚAT. BR. 1, 8, 3, 16.</ls> {#sarvamAyureti#} 
-<ls>2, 1, 3, 4.</ls> <ls>CHĀND. UP. 2, 11, 2.</ls> <ls>BṚH. ĀR. UP. 2, 1, 10.</ls> {#AyurevendriyaM vIryamAtmanDatte#} 
-<ls>ŚAT. BR. 3, 1, 1, 4.</ls> {#saMspfzwe hyAyuSca prARaSca#} 
-<ls>8, 7, 3, 11.</ls> {#prARo hi BUtAnAmAyuH . tasmAtsarvAyuzamucyate . sarvameva ta AyuryAnti#} 
-<ls>TAITT. UP. 2, 3.</ls> {#parastAdAyuzaH#} 
-<ls>CHĀND. UP. 2, 24, 6.</ls> {#Ayuze dIrGAyutvAya#} 
-<ls>PĀR. GṚHY. 2, 2.</ls> {#svasyAyuzaH pAraM parAcaKyO#} 
-<ls>ŚAT. BR. 11, 1, 6, 6.</ls> 
-<ls>AIT. BR. 8, 7.</ls> {#SatA/yus#} {%hundertfaches Leben habend%} oder {%verleihend, hundert Jahre lebend, - alt%}: {#kzaya^M Sa\tAyu^zam#} 
-<ls>ṚV. 6, 2, 5.</ls> {#pa\vitre^Ra Sa\tAyu^zA#} 
-<ls>VS. 19, 37.</ls> {#Sa\tAyu\H puru^zaH Sa\tendri^yaH#} 
-<ls>TS. 3, 2, 6, 3.</ls> 
-<ls>ŚAT. BR. 13, 1, 1, 4.</ls> {#SatAyuzaH putrapOtrAnvfRIzva#} 
-<ls>KAṬHOP. 1, 23.</ls> 
-<ls>M. 3, 186.</ls> ({#prajApatiH#}) {#sahasrAyuryajYe#} 
-<ls>ŚAT. BR. 11, 1, 6, 6.</ls> — {#AyuH - sfjyate garBasTasyEva dehinaH#} 
-<ls>PAÑCAT. II, 82.</ls> {#arogAH sarvasidDArTAScaturvarzaSatAyuzaH . kfte tretAdizu hyezAmAyurhrasati pAdaSas#} ({%300, 200 und im%} <is>Kaliyuga</is> {%100 Jahre%}) {#II#} 
-<ls>M. 1, 83.</ls> {#varzaSatapramARamAyuH#} 
-<ls>PAÑCAT. 187, 10.</ls> 
-<ls>BHARTṚ. 3, 50.</ls> 
-<ls>MṚCCH. 1, 18.</ls> {#caturTamAyuzo BAgam#} 
-<ls>M. 4, 1. 5, 169. 6, 33.</ls> 
-<ls>MBH. 1, 974.</ls> 
-<ls>KATHĀS. 14, 80. 81.</ls> {#dIrGamAyuH#} 
-<ls>M. 4, 27. 76. 78. 94. 230.</ls> 
-<ls>R. 3, 75, 25. 26.</ls> {#svalpaM taTAyuH#} 
-<ls>PAÑCAT. Pr. 10.</ls> {#alpAyus#} 
-<ls>SĀV. 2, 25.</ls> 
-<ls>M. 4, 157.</ls> {#AyurvarDate#} 
-<ls>7, 136.</ls> {#pravarDate#} 
-<ls>4, 42.</ls> {#hIyate#} 
-<ls>R. 2, 105, 19.</ls> {#prahIyate#} 
-<ls>M. 4, 41.</ls> {#kzarati#} 
-<ls>237.</ls> {#vAREH - AyuH - pItaM ruDiraM tu patatriBiH#} 
-<ls>RAGH. 12, 48.</ls> {#AyurAdatte#} 
-<ls>M. 4, 218.</ls> {#hanti#} 
-<ls>11, 40.</ls> {#ozataH#} 
-<ls>4, 189.</ls> {#AyUMzi kzapayanti#} 
-<ls>R. 2, 105, 18.</ls> {#prApya varzasahasrARi bahUnyAyUMzi jIvataH . jIrRasyAsya SarIrasya viSrAntimaBirocaye ..#} 
-<ls>2, 2, 6.</ls> {#AcArAllaBate hyAyuH#} 
-<ls>M. 4, 156.</ls> {#yaSasA yojayAtmAnamAyuzA cApi vAnDavAn#} 
-<ls>R. 5, 2, 42.</ls> {#AyuHSezatA#} 
-<ls>PAÑCAT. 9, 4. 52, 15.</ls> {#AyurvfdDi#} 
-<ls>187, 7.</ls> {#AyuzaH kzaye#} 
-<ls>RAGH. 3, 69.</ls> {#AyuHkzaya#} 
-<ls>PAÑCAT. 78, 8.</ls> {#AyuHparikzaya#} 
-<ls>R. 3, 30, 9.</ls> {#AyuzkAraRa#} 
-<ls>SĀH. D. 13, 9.</ls> {#Ayuzkaratva#} 11. {#AyurdAya#} 
-<ls>Verz. d. B. H. No. 857 (255, 8). 869.</ls> {#parimitAyus#} 
-<ls>R. 3, 55, 20.</ls> {#gatA°#} 
-<ls>45, 22.</ls> <ls>PAÑCAT. 24, 18.</ls> <ls>HIT. I, 69.</ls> {#kzIRA°#} 
-<ls>SĀV. 2, 23.</ls> 
-<ls>KATHĀS. 14, 80.</ls> 
-<div n="1">— 2) {%lebendige Kraft%} überhaupt: {#Ayu^ra\pAm#} 
-<ls>ṚV. 3, 1, 5.</ls> {#ya\jYasyAyu^ze (tvA) gfhRAmi#} 
-<ls>VS. 7, 23.</ls> 
-<div n="1">— 3) {%Lebensfeier%} (vollständig {#Ayuzwoma#}), Name einer Begehung, welche neben {#go#} und {#jyotis#} einen Bestandtheil der sechstägigen <is>Abhiplava</is> Feier bildet, als deren drittes und fünftes Tagewerk: {#jyoti\rgOrAyu\riti^ trya\hA Ba^vanti#} 
-<ls>TS. 7, 4, 1, 1.</ls> 
-<ls>ŚAT. BR. 12, 2, 2, 12. 13, 5, 4, 3.</ls> {#jyotirgOrAyuriti trikadrukAH#} 
-<ls>KĀTY. ŚR. 24, 1, 9.</ls> {#svargakAmasyAyurAmayAvino vA#} 
-<ls>23, 1, 16.</ls> {#AyurgfhapatimaraRe#} 
-<ls>24, 6, 19.</ls> {#jyotirgOrAyuriti stomeBiryanti#} 
-<ls>AIT. BR. 4, 15.</ls> 
-<ls>ĀŚV. ŚR. 9, 1. 10, 3.</ls> {#jyotizwomAyuzI#} 
-<ls>R. 1, 13, 45.</ls> 
-<div n="1">— 4) ein {#annanAman#} nach 
-<ls>NAIGH. 2, 7.</ls> 
+<ls n="ṚV. 1,">96,8.</ls> <ls n="ṚV. 1,">113,17.</ls> <ls n="ṚV. 1,">23,24.</ls> <ls n="ṚV. 1,">24,11.</ls> <ls n="ṚV. 1,">66,1.</ls> {#vya^Sema de\vahi^ta\M yadAyu^H#}
+<ls n="ṚV. 1,">89,8.</ls> {#tve viSvA^ sarasvati Sri\tAyU^Mzi de\vyAm#}
+<ls n="ṚV.">2,41,17.</ls> <ls n="ṚV. 2,">27,10.</ls> <ls n="ṚV. 2,">38,5.</ls> {#trIRyAyU^Mzi\ tava^ jAtavedaH#}
+<ls n="ṚV.">3,17,3.</ls> <ls n="ṚV.">4,4,7.</ls> {#na\hi svamAyu^Sciki\te jane^zu#}
+<ls n="ṚV.">7,23,2.</ls> {#Ayu\rvasA^na\ upa^ vetu\ Seza^H#}
+<ls n="ṚV.">10,16,5.</ls> <ls n="ṚV. 10,">27,7.</ls> {#ku\rmasta\ Ayu^ra\jara^m#}
+<ls n="ṚV. 10,">51,7.</ls> {#puna\rmana\H puna\rAyu^rma\ Aga\npuna^H prA\RaH puna^rA\tmA ma\ Aga^n#}
+<ls>VS. 4,15. 28. 5,27.</ls> {#Ayu^ze\ varca^se\ balA^ya#}
+<ls>AV. 1,35,1.</ls> <ls n="AV.">6,63,1.</ls> {#vi yakzme^na\ samAyu^zA#}
+<ls n="AV.">3,31,1.</ls> {#uda^hva\mAyu\rAyu^ze\ kratve\ dakzA^ya jI\vase^#}
+<ls n="AV.">8,2,23.</ls> <ls>TS. 1,1,10,2.</ls> {#mA pA\dyAyu^zaH pu\rA#}
+<ls n="TS.">5,1,5,7.</ls> {#tasmA\dAyu^H prA\RAnA^mutta\mam#}
+<ls n="TS.">6,5,2,1.</ls> {#yAvadvevAsyeha mAnuzamAyuH#}
+<ls>ŚAT. BR. 1,8,3,16.</ls> {#sarvamAyureti#}
+<ls n="ŚAT. BR.">2,1,3,4.</ls> <ls>CHĀND. UP. 2,11,2.</ls> <ls>BṚH. ĀR. UP. 2,1,10.</ls> {#AyurevendriyaM vIryamAtmanDatte#}
+<ls>ŚAT. BR. 3,1,1,4.</ls> {#saMspfzwe hyAyuSca prARaSca#}
+<ls n="ŚAT. BR.">8,7,3,11.</ls> {#prARo hi BUtAnAmAyuH . tasmAtsarvAyuzamucyate . sarvameva ta AyuryAnti#}
+<ls>TAITT. UP. 2,3.</ls> {#parastAdAyuzaH#}
+<ls>CHĀND. UP. 2,24,6.</ls> {#Ayuze dIrGAyutvAya#}
+<ls>PĀR. GṚHY. 2,2.</ls> {#svasyAyuzaH pAraM parAcaKyO#}
+<ls>ŚAT. BR. 11,1,6,6.</ls>
+<ls>AIT. BR. 8,7.</ls> {#SatA/yus#} {%hundertfaches Leben habend%} oder {%verleihend, hundert Jahre lebend, — alt%}: {#kzaya^M Sa\tAyu^zam#}
+<ls>ṚV. 6,2,5.</ls> {#pa\vitre^Ra Sa\tAyu^zA#}
+<ls>VS. 19,37.</ls> {#Sa\tAyu\H puru^zaH Sa\tendri^yaH#}
+<ls>TS. 3,2,6,3.</ls>
+<ls>ŚAT. BR. 13,1,1,4.</ls> {#SatAyuzaH putrapOtrAnvfRIzva#}
+<ls>KAṬHOP. 1,23.</ls>
+<ls>M. 3,186.</ls> ({#prajApatiH#}) {#sahasrAyuryajYe#}
+<ls>ŚAT. BR. 11,1,6,6.</ls> — {#AyuH — sfjyate garBasTasyEva dehinaH#}
+<ls>PAÑCAT. II,82.</ls> {#arogAH sarvasidDArTAScaturvarzaSatAyuzaH . kfte tretAdizu hyezAmAyurhrasati pAdaSas#} ({%300,200 und im%} <is>Kaliyuga</is> {%100 Jahre%}) {#II#}
+<ls>M. 1,83.</ls> {#varzaSatapramARamAyuH#}
+<ls>PAÑCAT. 187,10.</ls>
+<ls>BHARTṚ. 3,50.</ls>
+<ls>MṚCCH. 1,18.</ls> {#caturTamAyuzo BAgam#}
+<ls>M. 4,1.</ls> <ls n="M.">5,169.</ls> <ls n="M.">6,33.</ls>
+<ls>MBH. 1,974.</ls>
+<ls>KATHĀS. 14,80.</ls> <ls n="KATHĀS. 14,">81.</ls> {#dIrGamAyuH#}
+<ls>M. 4,27.</ls> <ls n="M. 4,">76.</ls> <ls n="M. 4,">78.</ls> <ls n="M. 4,">94.</ls> <ls n="M. 4,">230.</ls>
+<ls>R. 3,75,25.</ls> <ls n="R. 3,75,">26</ls> {#svalpaM taTAyuH#}
+<ls>PAÑCAT. Pr. 10.</ls> {#alpAyus#}
+<ls>SĀV. 2,25.</ls>
+<ls>M. 4,157.</ls> {#AyurvarDate#}
+<ls n="M.">7,136.</ls> {#pravarDate#}
+<ls n="M.">4,42.</ls> {#hIyate#}
+<ls>R. 2,105,19.</ls> {#prahIyate#}
+<ls>M. 4,41.</ls> {#kzarati#}
+<ls n="M. 4,">237.</ls> {#vAREH — AyuH — pItaM ruDiraM tu patatriBiH#}
+<ls>RAGH. 12,48.</ls> {#AyurAdatte#}
+<ls>M. 4,218.</ls> {#hanti#}
+<ls n="M.">11,40.</ls> {#ozataH#}
+<ls n="M.">4,189.</ls> {#AyUMzi kzapayanti#}
+<ls>R. 2,105,18.</ls> {#prApya varzasahasrARi bahUnyAyUMzi jIvataH . jIrRasyAsya SarIrasya viSrAntimaBirocaye ..#}
+<ls n="R.">2,2,6.</ls> {#AcArAllaBate hyAyuH#}
+<ls>M. 4,156.</ls> {#yaSasA yojayAtmAnamAyuzA cApi vAnDavAn#}
+<ls>R. 5,2,42.</ls> {#AyuHSezatA#}
+<ls>PAÑCAT. 9,4.</ls> <ls n="PAÑCAT.">52,15.</ls> {#AyurvfdDi#}
+<ls n="PAÑCAT.">187,7.</ls> {#AyuzaH kzaye#}
+<ls>RAGH. 3,69.</ls> {#AyuHkzaya#}
+<ls>PAÑCAT. 78,8.</ls> {#AyuHparikzaya#}
+<ls>R. 3,30,9.</ls> {#AyuzkAraRa#}
+<ls>SĀH. D. 13,9.</ls> {#Ayuzkaratva#} 11. {#AyurdAya#}
+<ls>Verz. d. B. H. No. 857 (255,8). 869.</ls> {#parimitAyus#}
+<ls>R. 3,55,20.</ls> {#gatA°#}
+<ls n="R. 3,">45,22.</ls> <ls>PAÑCAT. 24,18.</ls> <ls>HIT. I,69.</ls> {#kzIRA°#}
+<ls>SĀV. 2,23.</ls>
+<ls>KATHĀS. 14,80.</ls>
+<div n="1">— 2) {%lebendige Kraft%} überhaupt: {#Ayu^ra\pAm#}
+<ls>ṚV. 3,1,5.</ls> {#ya\jYasyAyu^ze (tvA) gfhRAmi#}
+<ls>VS. 7,23.</ls>
+<div n="1">— 3) {%Lebensfeier%} (vollständig {#Ayuzwoma#}), Name einer Begehung, welche neben {#go#} und {#jyotis#} einen Bestandtheil der sechstägigen <is>Abhiplava</is> Feier bildet, als deren drittes und fünftes Tagewerk: {#jyoti\rgOrAyu\riti^ trya\hA Ba^vanti#}
+<ls>TS. 7,4,1,1.</ls>
+<ls>ŚAT. BR. 12,2,2,12.</ls> <ls n="ŚAT. BR.">13,5,4,3.</ls> {#jyotirgOrAyuriti trikadrukAH#}
+<ls>KĀTY. ŚR. 24,1,9.</ls> {#svargakAmasyAyurAmayAvino vA#}
+<ls n="KĀTY. ŚR.">23,1,16.</ls> {#AyurgfhapatimaraRe#}
+<ls n="KĀTY. ŚR.">24,6,19.</ls> {#jyotirgOrAyuriti stomeBiryanti#}
+<ls>AIT. BR. 4,15.</ls>
+<ls>ĀŚV. ŚR. 9,1.</ls> <ls n="ĀŚV. ŚR.">10,3.</ls> {#jyotizwomAyuzI#}
+<ls>R. 1,13,45.</ls>
+<div n="1">— 4) ein {#annanAman#} nach
+<ls>NAIGH. 2,7.</ls>
 <div n="v">— Vgl. 2. {#Ayu#} und {#dIrGAyus#} .
 <LEND>

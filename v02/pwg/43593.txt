@@ -1,90 +1,90 @@
 <L>43593<pc>4-0583<k1>parvata<k2>pa/rvata
-{#pa/rvata#}¦ (von {#parvan#}) 
-<ls>P. 5, 2, 122, <is>Vārtt</is>. 11.</ls> 
-<ls>VOP. 7, 32. 33.</ls> ({#parvata/#} 
-<ls>UṆĀDIS. 3, 110.</ls>) 
-<div n="1"> 1) <lex>m.</lex> 
-<div n="2"> a) {%Gebirge, Berg, Höhe, Hügel, Fels (aus Knoten —, Absätzen bestehend%}) 
-<ls>AK. 2, 3, 1.</ls> 
-<ls>H. 1027.</ls> 
-<ls>an. 3, 278.</ls> 
-<ls>MED. t. 127.</ls> <ls>HALĀY. 2, 10. 5, 9. 52. 53.</ls> mit {#giri#} verbunden, so dass die urspr. <lex>adj.</lex> Bed. noch durchscheint: {#parva^taM gi\rim#} 
-<ls>ṚV. 5, 56, 4.</ls> <ls n="ṚV.">1, 37, 7.</ls> 
-<ls>AV. 4, 6, 8. 6, 12, 3. 17, 3. 12, 1, 11. 9, 1, 18.</ls> {#(marutaH) pra ve^payanti\ parva^tAn#} 
-<ls>ṚV. 1, 39, 5.</ls> <ls n="ṚV. 1,">52, 2.</ls> <ls n="ṚV.">3, 26, 4.</ls> {#sAnu^ni\ parva^tAnAm#} 
-<ls n="ṚV.">1, 155, 1.</ls> <ls n="ṚV. 1,">191, 9.</ls> {#parva^tasya pf\zWe#} 
-<ls n="ṚV.">5, 36, 2.</ls> {#mU\rDani^#} 
-<ls n="ṚV.">7, 70, 3.</ls> {#yaH parva^tA\npraku^pitA\~ ara^mRAt#} 
-<ls n="ṚV.">2, 12, 2.</ls> <ls n="ṚV. 2, 12,">13.</ls> <ls n="ṚV. 2,">17, 5.</ls> {#tve hi ka\M parva^te\ na Sri\tAnyapra^cyutAni vra\tAni^#} 
-<ls n="ṚV. 2,">28, 8.</ls> {#yA te^ agne\ parva^tasyeva\ DArAsa^ScantI pI\paya^t#} {%welche wie die Quelle des Berges unversieglich sprudelt%} 
-<ls n="ṚV.">3, 57, 6.</ls> <ls n="ṚV. 3,">33, 1.</ls> <ls n="ṚV.">4, 17, 2.</ls> <ls n="ṚV. 4,">54, 5.</ls> <ls n="ṚV.">5, 54, 9.</ls> <ls n="ṚV. 5,">85, 4.</ls> <ls n="ṚV.">8, 85, 5.</ls> <ls n="ṚV.">10, 27, 5.</ls> <ls>AV. 1, 14, 1. 3, 21, 10.</ls> {#varzi^zWa\H parva^tAnAm#} 
-<ls>4, 9, 8.</ls> {#parva^tezu sa\mezu^ ca#} 
-<ls>8, 7, 17.</ls> <ls>VS. 17, 1. 18, 13.</ls> <ls>ŚAT. BR. 10, 6, 4, 1. 11, 8, 1, 2. 14, 6, 8, 9.</ls> {#parvatA pakziRa Asan#} 
-<ls>KĀṬH. 36, 9.</ls> {#parvatapakzaSAtana#} (von <is>Indra</is>) 
-<ls>RAGH. 3, 42.</ls> {#vizRu\H parva^tAnA\maDi^patiH#} 
-<ls>TS. 3, 4, 5, 1.</ls> 
-<ls>GOBH. 4, 8, 9.</ls> {#uBO parvatO dakziRaScottaraSca#} 
-<ls>KAUṢ. UP.</ls> in <ls>Ind. St. 1, 407. fg.</ls> <ls>M. 3, 9. 4, 46.</ls> {#°mastaka#} 
-<ls>47. 60. N. 9, 21. 12, 81.</ls> {#mahA°#} 
-<ls>R. 1, 1, 62.</ls> {#vinDya°#} 
-<ls>6, 22.</ls> {#uttaraM parvatam#} 
-<ls>63, 14. 65, 12.</ls> {#hemakUwaH kiMpuruzaparvataH#} 
-<ls>ŚĀK. 99, 17.</ls> {#parvatAnAM darIzu#} 
-<ls>ṚT. 1, 25.</ls> 
-<ls>MEGH. 23.</ls> 
-<ls>HIT. 18, 7.</ls> 
-<ls>VARĀH. BṚH. S. 45, 91. 53, 104.</ls> {#vyaSIryata - nOrivAsAdya parvatam#} 
-<ls>MBH. 7, 1242. 1331.</ls> {#mahI saparvatA#} 
-<ls>R. 2, 41, 18. 6, 102, 22.</ls> 
-<ls>MĀRK. P. 53, 11.</ls> {#°ketava iva#} 
-<ls>BHĀG. P. 5, 16, 13.</ls> {%Künstliche Berge (Haufen) von Getraide, Salz, Safran, Zucker, Silber,%}
+{#pa/rvata#}¦ (von {#parvan#})
+<ls>P. 5,2,122</ls>, <is>Vārtt</is>. 11.
+<ls>VOP. 7,32.</ls> <ls n="VOP. 7,">33.</ls> ({#parvata/#}
+<ls>UṆĀDIS. 3,110.</ls>)
+<div n="1"> 1) <lex>m.</lex>
+<div n="2"> a) {%Gebirge, Berg, Höhe, Hügel, Fels (aus Knoten —, Absätzen bestehend%})
+<ls>AK. 2,3,1.</ls>
+<ls>H. 1027.</ls>
+<ls>an. 3,278.</ls>
+<ls>MED. t. 127.</ls> <ls>HALĀY. 2,10. 5,9. 52. 53.</ls> mit {#giri#} verbunden, so dass die urspr. <lex>adj.</lex> Bed. noch durchscheint: {#parva^taM gi\rim#}
+<ls>ṚV. 5,56,4.</ls> <ls n="ṚV.">1,37,7.</ls>
+<ls>AV. 4,6,8.</ls> <ls n="AV.">6,12,3.</ls> <ls n="AV. 6,">17,3.</ls> <ls n="AV.">12,1,11.</ls> <ls n="AV.">9,1,18.</ls> {#(marutaH) pra ve^payanti\ parva^tAn#}
+<ls>ṚV. 1,39,5.</ls> <ls n="ṚV. 1,">52,2.</ls> <ls n="ṚV.">3,26,4.</ls> {#sAnu^ni\ parva^tAnAm#}
+<ls n="ṚV.">1,155,1.</ls> <ls n="ṚV. 1,">191,9.</ls> {#parva^tasya pf\zWe#}
+<ls n="ṚV.">5,36,2.</ls> {#mU\rDani^#}
+<ls n="ṚV.">7,70,3.</ls> {#yaH parva^tA\npraku^pitA\~ ara^mRAt#}
+<ls n="ṚV.">2,12,2.</ls> <ls n="ṚV. 2,12,">13.</ls> <ls n="ṚV. 2,">17,5.</ls> {#tve hi ka\M parva^te\ na Sri\tAnyapra^cyutAni vra\tAni^#}
+<ls n="ṚV. 2,">28,8.</ls> {#yA te^ agne\ parva^tasyeva\ DArAsa^ScantI pI\paya^t#} {%welche wie die Quelle des Berges unversieglich sprudelt%}
+<ls n="ṚV.">3,57,6.</ls> <ls n="ṚV. 3,">33,1.</ls> <ls n="ṚV.">4,17,2.</ls> <ls n="ṚV. 4,">54,5.</ls> <ls n="ṚV.">5,54,9.</ls> <ls n="ṚV. 5,">85,4.</ls> <ls n="ṚV.">8,85,5.</ls> <ls n="ṚV.">10,27,5.</ls> <ls>AV. 1,14,1.</ls> <ls n="AV.">3,21,10.</ls> {#varzi^zWa\H parva^tAnAm#}
+<ls n="AV.">4,9,8.</ls> {#parva^tezu sa\mezu^ ca#}
+<ls n="AV.">8,7,17.</ls> <ls>VS. 17,1.</ls> <ls n="VS.">18,13.</ls> <ls>ŚAT. BR. 10,6,4,1.</ls> <ls n="ŚAT. BR.">11,8,1,2.</ls> <ls n="ŚAT. BR.">14,6,8,9.</ls> {#parvatA pakziRa Asan#}
+<ls>KĀṬH. 36,9.</ls> {#parvatapakzaSAtana#} (von <is>Indra</is>)
+<ls>RAGH. 3,42.</ls> {#vizRu\H parva^tAnA\maDi^patiH#}
+<ls>TS. 3,4,5,1.</ls>
+<ls>GOBH. 4,8,9.</ls> {#uBO parvatO dakziRaScottaraSca#}
+<ls>KAUṢ. UP.</ls> in <ls>Ind. St. 1,407. fg.</ls> <ls>M. 3,9.</ls> <ls n="M.">4,46.</ls> {#°mastaka#}
+<ls n="M. 4,">47.</ls> <ls n="M. 4,">60.</ls> <ls>N. 9,21.</ls> <ls n="N.">12,81.</ls> {#mahA°#}
+<ls>R. 1,1,62.</ls> {#vinDya°#}
+<ls n="R. 1,">6,22.</ls> {#uttaraM parvatam#}
+<ls n="R. 1,">63,14.</ls> <ls n="R. 1,">65,12.</ls> {#hemakUwaH kiMpuruzaparvataH#}
+<ls>ŚĀK. 99,17.</ls> {#parvatAnAM darIzu#}
+<ls>ṚT. 1,25.</ls>
+<ls>MEGH. 23.</ls>
+<ls>HIT. 18,7.</ls>
+<ls>VARĀH. BṚH. S. 45,91. 53,104.</ls> {#vyaSIryata — nOrivAsAdya parvatam#}
+<ls>MBH. 7,1242.</ls> <ls n="MBH. 7,">1331.</ls> {#mahI saparvatA#}
+<ls>R. 2,41,18.</ls> <ls n="R.">6,102,22.</ls>
+<ls>MĀRK. P. 53,11.</ls> {#°ketava iva#}
+<ls>BHĀG. P. 5,16,13.</ls> {%Künstliche Berge (Haufen) von Getraide, Salz, Safran, Zucker, Silber,%}
 [Page4-0584]
-{%Gold%} u. s. w. den Brahmanen dargebracht: {#parvatadAna#} 
-<ls>Verz. d. B. H. No. 1218.</ls> Berge werden angerufen neben Flüssen, Bäumen, Winden u. s. w.: {#Sf\Rvantu^ no\ vfza^Ra\H parva^tAsaH#} 
-<ls>ṚV. 3, 54, 20.</ls> <ls n="ṚV.">8, 18, 16.</ls> <ls n="ṚV. 8,">31, 10.</ls> <ls n="ṚV.">10, 35, 2.</ls> <ls n="ṚV. 10,">36, 1.</ls> <ls n="ṚV.">7, 34, 23.</ls> <ls n="ṚV. 7,">35, 8.</ls> {#ava^ntu mA\ parva^tAso Dru\vAsa^H#} 
-<ls n="ṚV.">6, 52, 4.</ls> <ls n="ṚV. 6,">46, 6.</ls> <ls>VĀLAKH. 5, 12.</ls> <ls>AV. 17, 1, 30.</ls> Personificirt neben den <is>Āptya</is>, <is>Rudra</is>, <is>Ṛbhu</is> 
-<ls>ṚV. 5, 41, 9.</ls> <ls n="ṚV.">8, 52, 12.</ls> <ls n="ṚV.">4, 34, 8.</ls> {%Ein Genius des Gebirges%}, <is>Parvata</is>, zugleich als {%Wolkenbeherrscher%} zu verstehen (vgl. {%c.%}), erscheint neben <is>Indra</is> 
-<ls>ṚV. 1, 122, 3.</ls> <ls n="ṚV. 1,">132, 6.</ls> <ls n="ṚV.">3, 53, 1.</ls> neben <is>Savitar</is>, den <is>Marut</is> und andern Göttern 
-<ls n="ṚV.">4, 55, 5.</ls> <ls n="ṚV.">6, 49, 14.</ls> <ls n="ṚV.">7, 37, 8.</ls> <ls n="ṚV.">10, 158, 3.</ls> unter den acht <is>Vasu</is> 
-<ls>HARIV. 11539.</ls> 
-<div n="2">— b) {%Stein, Felsstück%}: {#adrayaH parvatAH#} {%die <is>Soma</is>-Steine%} 
-<ls>ṚV. 10, 94, 1.</ls> <ls n="ṚV.">3, 35, 8.</ls> {#utta^kzataM sva\ryaM1^\ parva^teByaH#} 
-<ls n="ṚV.">7, 104, 4.</ls> {#a\Bi ja^hi ra\kzasa\H parva^tena#} 19. {#a\ntarmf\tyuM da^DatA\M parva^tena#} 
-<ls n="ṚV.">10, 18, 4.</ls> 
-<div n="2">— c) {%Wolke%} 
-<ls>NAIGH. 1, 10.</ls> {#ya I\NKaya^nti\ parva^tAnti\raH sa^mu\drama^rRa\vam#} 
-<ls>ṚV. 1, 19, 7.</ls> {#ni parva^taH sA\dyapra^yucCan#} 
-<ls n="ṚV.">2, 11, 8.</ls> <ls n="ṚV. 2, 11,">7.</ls> {#DU\nu\Ta dyAM parva^tAndA\Suze\ vasu^#} 
-<ls n="ṚV.">5, 57, 5.</ls> <ls n="ṚV.">8, 7, 23.</ls> auch wohl 
-<ls n="ṚV. 8,">59, 11.</ls> <ls>VS. 10, 19.</ls> An vielen Stellen ist zwischen der ersten Bedeutung und der jedenfalls viel selteneren dritten kaum zu entscheiden; z. B. in den Schilderungen von <is>Indra's</is> Kämpfen, der sowohl {%Wolken%} als {%Berge%} spaltet, um die Gewässer zu befreien u. s. w.; oder in den Bildern von den <is>Marut</is>, die auf {%Höhen%} und im {%Gewölk%} hausen, {%Berge%} und {%Wolken%} schütteln und zerreissen, vgl. 
-<ls>ṚV. 1, 32, 1.</ls> <ls n="ṚV.">2, 12, 11.</ls> <ls n="ṚV.">4, 30, 14.</ls> <ls n="ṚV.">8, 7, 23</ls>  u.s.w.
-<div n="2">— d) Bez. {%der Zahl sieben%} (wegen der {%7 Hauptgebirge%}) 
-<ls>SŪRYAS. 2, 37.</ls> 
-<div n="2">— e) {%Baum%} 
-<ls>MED.</ls> 
-<div n="2">— f) {%eine Art Gemüse%} 
-<ls>MED.</ls> 
-<div n="2">— g) {%ein best. Fisch%} 
-<ls>MED.</ls> = vulg. {#pAvdA#} 
-<ls>ŚKDR.</ls> {%Silurus Pabda Ham.%} 
-<ls>WILS.</ls>; vgl. {#parvita#} . 
-<div n="2">— h) N. pr. 
-<ls>P. 4, 1, 103.</ls> 
-<div n="3"> α) eines zwischen Göttern und Menschen verkehrenden <is>Ṛṣi</is>, Begleiters des <is>Nārada</is> (s. u. d. W.), Liedverfassers (mit dem patron. <is>Kāṇva</is> und auch <is>Kāśyapa</is>) von 
-<ls>ṚV. 8, 12.</ls> <ls n="ṚV.">9, 104.</ls> <ls n="ṚV. 9,">105.</ls> 
-<ls>ṚV.</ls> 
-<ls>ANUKR.</ls> <ls>Ind. St. 3, 222.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>ŚĀṄKH. ŚR. 15, 17, 4.</ls> <ls>N. 2, 13.</ls> <ls>MBH. 1, 2048. 7011. 2, 110. 292. 7, 2138. 12, 1046. fgg.</ls> <ls>KATHĀS. 45, 348.</ls> 
-<div n="3">— β) eines Sohnes des <is>Paurṇamāsa</is>, eines Sohnes des <is>Marīki</is> von der <is>Saṃbhūti</is>, 
-<ls>MĀRK. P. 52, 19.</ls> 
-<div n="3">— γ) eines Ministers des Königs <is>Purūravas</is> 
-<ls>VIKR. 85, 17.</ls> 
-<div n="3">— δ) eines Grammatikers (?) 
-<ls>Ind. St. 5,</ls> <ls>?160; vgl. 165. fg.</ls> 
-<div n="3">— ε) eines Affen 
-<ls>R. 6, 2, 34.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#I/#} {%Fels, Stein%} 
-<ls>VS. 1, 19</ls> (vgl. 
-<ls>Ind. St. 3, 222</ls>). {#°ti#} in der Parallelstelle 
-<ls>TS. 1, 1, 6, 1.</ls> 
+{%Gold%} u. s. w. den Brahmanen dargebracht: {#parvatadAna#}
+<ls>Verz. d. B. H. No. 1218.</ls> Berge werden angerufen neben Flüssen, Bäumen, Winden u. s. w.: {#Sf\Rvantu^ no\ vfza^Ra\H parva^tAsaH#}
+<ls>ṚV. 3,54,20.</ls> <ls n="ṚV.">8,18,16.</ls> <ls n="ṚV. 8,">31,10.</ls> <ls n="ṚV.">10,35,2.</ls> <ls n="ṚV. 10,">36,1.</ls> <ls n="ṚV.">7,34,23.</ls> <ls n="ṚV. 7,">35,8.</ls> {#ava^ntu mA\ parva^tAso Dru\vAsa^H#}
+<ls n="ṚV.">6,52,4.</ls> <ls n="ṚV. 6,">46,6.</ls> <ls>VĀLAKH. 5,12.</ls> <ls>AV. 17,1,30.</ls> Personificirt neben den <is>Āptya</is>, <is>Rudra</is>, <is>Ṛbhu</is>
+<ls>ṚV. 5,41,9.</ls> <ls n="ṚV.">8,52,12.</ls> <ls n="ṚV.">4,34,8.</ls> {%Ein Genius des Gebirges%}, <is>Parvata</is>, zugleich als {%Wolkenbeherrscher%} zu verstehen (vgl. {%c.%}), erscheint neben <is>Indra</is>
+<ls>ṚV. 1,122,3.</ls> <ls n="ṚV. 1,">132,6.</ls> <ls n="ṚV.">3,53,1.</ls> neben <is>Savitar</is>, den <is>Marut</is> und andern Göttern
+<ls n="ṚV.">4,55,5.</ls> <ls n="ṚV.">6,49,14.</ls> <ls n="ṚV.">7,37,8.</ls> <ls n="ṚV.">10,158,3.</ls> unter den acht <is>Vasu</is>
+<ls>HARIV. 11539.</ls>
+<div n="2">— b) {%Stein, Felsstück%}: {#adrayaH parvatAH#} {%die <is>Soma</is>-Steine%}
+<ls>ṚV. 10,94,1.</ls> <ls n="ṚV.">3,35,8.</ls> {#utta^kzataM sva\ryaM1^\ parva^teByaH#}
+<ls n="ṚV.">7,104,4.</ls> {#a\Bi ja^hi ra\kzasa\H parva^tena#} 19. {#a\ntarmf\tyuM da^DatA\M parva^tena#}
+<ls n="ṚV.">10,18,4.</ls>
+<div n="2">— c) {%Wolke%}
+<ls>NAIGH. 1,10.</ls> {#ya I\NKaya^nti\ parva^tAnti\raH sa^mu\drama^rRa\vam#}
+<ls>ṚV. 1,19,7.</ls> {#ni parva^taH sA\dyapra^yucCan#}
+<ls n="ṚV.">2,11,8.</ls> <ls n="ṚV. 2,11,">7.</ls> {#DU\nu\Ta dyAM parva^tAndA\Suze\ vasu^#}
+<ls n="ṚV.">5,57,5.</ls> <ls n="ṚV.">8,7,23.</ls> auch wohl
+<ls n="ṚV. 8,">59,11.</ls> <ls>VS. 10,19.</ls> An vielen Stellen ist zwischen der ersten Bedeutung und der jedenfalls viel selteneren dritten kaum zu entscheiden; z. B. in den Schilderungen von <is>Indra's</is> Kämpfen, der sowohl {%Wolken%} als {%Berge%} spaltet, um die Gewässer zu befreien u. s. w.; oder in den Bildern von den <is>Marut</is>, die auf {%Höhen%} und im {%Gewölk%} hausen, {%Berge%} und {%Wolken%} schütteln und zerreissen, vgl.
+<ls>ṚV. 1,32,1.</ls> <ls n="ṚV.">2,12,11.</ls> <ls n="ṚV.">4,30,14.</ls> <ls n="ṚV.">8,7,23</ls> u.s.w.
+<div n="2">— d) Bez. {%der Zahl sieben%} (wegen der {%7 Hauptgebirge%})
+<ls>SŪRYAS. 2,37.</ls>
+<div n="2">— e) {%Baum%}
+<ls>MED.</ls>
+<div n="2">— f) {%eine Art Gemüse%}
+<ls>MED.</ls>
+<div n="2">— g) {%ein best. Fisch%}
+<ls>MED.</ls> = vulg. {#pAvdA#}
+<ls>ŚKDR.</ls> {%Silurus Pabda Ham.%}
+<ls>WILS.</ls>; vgl. {#parvita#} .
+<div n="2">— h) N. pr.
+<ls>P. 4,1,103.</ls>
+<div n="3"> α) eines zwischen Göttern und Menschen verkehrenden <is>Ṛṣi</is>, Begleiters des <is>Nārada</is> (s. u. d. W.), Liedverfassers (mit dem patron. <is>Kāṇva</is> und auch <is>Kāśyapa</is>) von
+<ls>ṚV. 8,12.</ls> <ls n="ṚV.">9,104.</ls> <ls n="ṚV. 9,">105.</ls>
+<ls>ṚV. ANUKR.</ls>
+<ls>Ind. St. 3,222.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>ŚĀṄKH. ŚR. 15,17,4.</ls> <ls>N. 2,13.</ls> <ls>MBH. 1,2048.</ls> <ls n="MBH. 1,">7011.</ls> <ls n="MBH.">2,110.</ls> <ls n="MBH. 2,">292.</ls> <ls n="MBH.">7,2138.</ls> <ls n="MBH.">12,1046. fgg.</ls> <ls>KATHĀS. 45,348.</ls>
+<div n="3">— β) eines Sohnes des <is>Paurṇamāsa</is>, eines Sohnes des <is>Marīki</is> von der <is>Saṃbhūti</is>,
+<ls>MĀRK. P. 52,19.</ls>
+<div n="3">— γ) eines Ministers des Königs <is>Purūravas</is>
+<ls>VIKR. 85,17.</ls>
+<div n="3">— δ) eines Grammatikers (?)
+<ls>Ind. St. 5,160</ls>; vgl. <ls n="Ind. St.">165. fg.</ls>
+<div n="3">— ε) eines Affen
+<ls>R. 6,2,34.</ls>
+<div n="1">— 2) <lex>f.</lex> {#I/#} {%Fels, Stein%}
+<ls>VS. 1,19</ls> (vgl.
+<ls>Ind. St. 3,222</ls>). {#°ti#} in der Parallelstelle
+<ls>TS. 1,1,6,1.</ls>
 <div n="v">— Vgl. {#pArvata, pArvatAyana, pArvati#} .
 <LEND>

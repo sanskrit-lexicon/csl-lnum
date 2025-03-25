@@ -1,55 +1,48 @@
 <L>97434<pc>7-0040<k1>Sat<k2>Sat
-{#Sat#}¦, {#SAta/yati#} und {#°te#} 
-<div n="1"> 1) {%in Abschnitte zertrennen, ablösen, abfallen machen, abhauen%}: {#ska\nDAna\muzya^ SA\taya^nvf\trasye^va\ SacI\pati^H#} 
-<ls>AV. 6, 135, 1.</ls> {#mA\MsAnya^sya SAtaya#} 
-<ls>12, 5, 69.</ls> <ls>KĀTY. ŚR. 18, 1, 1.</ls> {#asTAni#} 
-<ls>TS. 6, 2, 8, 5. 6</ls> (med.). {#SAtitAstejaso BAgA ye tvazwrA daSa paYca ca#} 
-<ls>MĀRK. P. 78, 17.</ls> {#tattejaH paYcadaSaDA SAtitam#} 
-<ls>20. 108, 2. 3.</ls> {#SirAMsi#} 
-<ls>MBH. 5, 4219.</ls> 
-<ls>R. 1, 66, 10. 12 (68, 10, 12 GORR.).</ls> {#stanAn#} 
-<ls>MBH. 8, 1560</ls> (med.). 
-<ls>R. 2, 43, 16.</ls> {#BujAn#} 
-<ls>HARIV. 10795.</ls> {#aNgam#} 
-<ls>R. 2, 96, 52 (105, 51 GORR.). 5, 36, 45.</ls> {#jaNGe cASISatadbAREH#} 
-<ls>BHAṬṬ. 15, 68.</ls> {#viBItakam#} 
-<ls>MBH. 3, 2820. 2821</ls> (med.). 
-<ls>2830.</ls> {#puzpARi#} {%abbrechen, pflücken%} 
-<ls>P. 7, 3, 42, Schol.</ls> {%aushauen, ausschiessen%}: {#netram#} 
-<ls>R. GORR. 2, 105, 55. 5, 68, 16.</ls> {%niederhauen, zusammenhauen%}: {#akzOhiRIM SarEH#} 
-<ls>MBH. 7, 6898. 3384.</ls> 
-<ls>HARIV. 3015.</ls> {%niederwerfen, zu Boden schleudern%} 
-<ls>R. 6, 7, 34.</ls> {#mahASilAH#} 
-<ls>14, 15. 5, 60, 8.</ls> <ls>HARIV. 9371. 9999.</ls> {#aSakyaM me hariSrezWa tvayA gantuM vihAyasA . vAyuvegasavegasya vego mAM SAtayettava#} 
-<ls>R. 5, 35, 41.</ls> 
-<div n="1">— 2) {%zertheilen, zerstreuen, vertreiben%}: {#DUmam#} 
-<ls>GOBH. 3, 9, 4.</ls> {#arSaH#} 
-<ls>SUŚR. 2, 49, 16.</ls> — Gilt als caus. von 2. {#Sad#} 
-<ls>P. 7, 3, 42.</ls> 
-<ls>VOP. 18, 14.</ls>
-
-<div n="p">— {#apa#} caus. {%wegschnellen%}: {#ape\to ja^Ngi\qAma^ti\mizu\maste^va SAtaya#} 
-<ls>AV. 19, 34, 3.</ls>
-
+{#Sat#}¦, {#SAta/yati#} und {#°te#}
+<div n="1"> 1) {%in Abschnitte zertrennen, ablösen, abfallen machen, abhauen%}: {#ska\nDAna\muzya^ SA\taya^nvf\trasye^va\ SacI\pati^H#}
+<ls>AV. 6,135,1.</ls> {#mA\MsAnya^sya SAtaya#}
+<ls n="AV.">12,5,69.</ls> <ls>KĀTY. ŚR. 18,1,1.</ls> {#asTAni#}
+<ls>TS. 6,2,8,5. 6</ls> (med.). {#SAtitAstejaso BAgA ye tvazwrA daSa paYca ca#}
+<ls>MĀRK. P. 78,17.</ls> {#tattejaH paYcadaSaDA SAtitam#}
+<ls n="MĀRK. P.">20. 108,2. 3.</ls> {#SirAMsi#}
+<ls>MBH. 5,4219.</ls>
+<ls>R. 1,66,10.</ls> <ls n="R. 1,66,">12</ls> (<ls n="GORR. 1,">68,10.</ls> <ls n="GORR. 1,68,">12</ls> <ls>GORR.</ls>). {#stanAn#}
+<ls>MBH. 8,1560</ls> (med.).
+<ls>R. 2,43,16.</ls> {#BujAn#}
+<ls>HARIV. 10795.</ls> {#aNgam#}
+<ls>R. 2,96,52</ls> (<ls n="GORR. 2,">105,51</ls> <ls>GORR.</ls>). <ls n="R.">5,36,45.</ls> {#jaNGe cASISatadbAREH#}
+<ls>BHAṬṬ. 15,68.</ls> {#viBItakam#}
+<ls>MBH. 3,2820.</ls> <ls n="MBH. 3,">2821</ls> (med.).
+<ls n="MBH. 3,">2830.</ls> {#puzpARi#} {%abbrechen, pflücken%}
+<ls>P. 7,3,42</ls>, Schol. {%aushauen, ausschiessen%}: {#netram#}
+<ls>R. GORR. 2,105,55.</ls> <ls n="R. GORR.">5,68,16.</ls> {%niederhauen, zusammenhauen%}: {#akzOhiRIM SarEH#}
+<ls>MBH. 7,6898.</ls> <ls n="MBH. 7,">3384.</ls>
+<ls>HARIV. 3015.</ls> {%niederwerfen, zu Boden schleudern%}
+<ls>R. 6,7,34.</ls> {#mahASilAH#}
+<ls n="R. 6,">14,15.</ls> <ls n="R.">5,60,8.</ls> <ls>HARIV. 9371.</ls> <ls n="HARIV.">9999.</ls> {#aSakyaM me hariSrezWa tvayA gantuM vihAyasA . vAyuvegasavegasya vego mAM SAtayettava#}
+<ls>R. 5,35,41.</ls>
+<div n="1">— 2) {%zertheilen, zerstreuen, vertreiben%}: {#DUmam#}
+<ls>GOBH. 3,9,4.</ls> {#arSaH#}
+<ls>SUŚR. 2,49,16.</ls> — Gilt als caus. von 2. {#Sad#}
+<ls>P. 7,3,42.</ls>
+<ls>VOP. 18,14.</ls>
+<div n="p">— {#apa#} caus. {%wegschnellen%}: {#ape\to ja^Ngi\qAma^ti\mizu\maste^va SAtaya#}
+<ls>AV. 19,34,3.</ls>
 <div n="p">— {#ava#} caus. s. {#avaSAtana#} .
-
-<div n="p">— {#ni#} caus. {%niederhauen, schlagen%}: {#aribalam#} 
-<ls>MĀRK. P. 100, 39.</ls>
-
+<div n="p">— {#ni#} caus. {%niederhauen, schlagen%}: {#aribalam#}
+<ls>MĀRK. P. 100,39.</ls>
 <div n="p">— {#parA#} caus. s. {#parASAtayitar#} .
-
-<div n="p">— {#pra#} caus. {%brechen, pflücken%}: {#AnAmya PalitAM SAKAM pakvaM pakvaM praSAtayet#} 
+<div n="p">— {#pra#} caus. {%brechen, pflücken%}: {#AnAmya PalitAM SAKAM pakvaM pakvaM praSAtayet#}
 <ls>Spr. (II) 947.</ls>
-
-<div n="p">— {#vi#} caus. {%zerhauen, zerschmettern%}: {#astram#} 
-<ls>MBH. 3, 11971.</ls> {#viSAtitEH kumBakarAgrahastEH#} 
-<ls>8, 3502.</ls> {#banDanAni#} 
-<ls>R. 5, 49, 31.</ls> {%aushauen, ausschiessen%}: {#nayanam#} 
-<ls>36, 46.</ls> <ls>MBH. 13, 7475.</ls> {#daSanAn#} 
-<ls>7476.</ls> {%auseinanderwerfen, auseinanderjagen%}: {#prakIrRaparRAni yaTA vasante viSAtayitvA pavano 'mbudAMSca#} 
-<ls>MBH. 4, 1676.</ls> {%verscheuchen%}: {#lokasya pApAni#} 
-<ls>R. 5, 11, 4.</ls>
-
-<div n="p">— {#sam#} caus. {%zerschmettern%}: {#vajramudyamya tAnsarvAnparvatAnsamaSAtayam#} 
-<ls>MBH. 3, 865.</ls>
+<div n="p">— {#vi#} caus. {%zerhauen, zerschmettern%}: {#astram#}
+<ls>MBH. 3,11971.</ls> {#viSAtitEH kumBakarAgrahastEH#}
+<ls n="MBH.">8,3502.</ls> {#banDanAni#}
+<ls>R. 5,49,31.</ls> {%aushauen, ausschiessen%}: {#nayanam#}
+<ls n="R. 5,">36,46.</ls> <ls>MBH. 13,7475.</ls> {#daSanAn#}
+<ls n="MBH. 13,">7476.</ls> {%auseinanderwerfen, auseinanderjagen%}: {#prakIrRaparRAni yaTA vasante viSAtayitvA pavano 'mbudAMSca#}
+<ls>MBH. 4,1676.</ls> {%verscheuchen%}: {#lokasya pApAni#}
+<ls>R. 5,11,4.</ls>
+<div n="p">— {#sam#} caus. {%zerschmettern%}: {#vajramudyamya tAnsarvAnparvatAnsamaSAtayam#}
+<ls>MBH. 3,865.</ls>
 <LEND>

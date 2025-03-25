@@ -1,6 +1,6 @@
 <L>1780<pc>061<k1>beaver<k2>beaver
-<div n="lb"/>{@BEAVER:@}¦ <div n="I">I Aṇ animal: {#*vivaraH, vivareSayaScatu-#}
-<div n="lb"/>{#zpAdajantuBedaH.#} </div><div n="I">II A b. hat: {#*vivaralomanirmitamiyu-#}
-<div n="lb"/>{#rUpIyajanaBftaSiraskam.#} </div><div n="I">III Of a helmet: {#*Sira-#}
-<div n="lb"/>{#skasyapa civukapracCAdakaBAgaH.#}</div>
+{@BEAVER:@}¦ <div n="I">I Aṇ animal: {#*vivaraH, vivareSayaScatu-#}
+{#zpAdajantuBedaH.#} </div><div n="I">II A b. hat: {#*vivaralomanirmitamiyu-#}
+{#rUpIyajanaBftaSiraskam.#} </div><div n="I">III Of a helmet: {#*Sira-#}
+{#skasyapa civukapracCAdakaBAgaH.#}</div>
 <LEND>

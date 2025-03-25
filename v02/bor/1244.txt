@@ -1,5 +1,5 @@
 <L>1244<pc>044<k1>assize<k2>assize
-<div n="lb"/>{@ASSIZE:@}¦ <div n="I">I A court of justice: {#vicArasaBA#} (?).</div>
-<div n="lb"/><div n="I">II Fixing the price of commodities: {#arTa-#}
-<div n="lb"/>{#saMsTApanam,#} <div n="xe">{%the a. rate%}</div> <div n="xs">{#saMsTApitamUlyam.#}</div></div>
+{@ASSIZE:@}¦ <div n="I">I A court of justice: {#vicArasaBA#} (?).</div>
+<div n="I">II Fixing the price of commodities: {#arTa-#}
+{#saMsTApanam,#} <div n="xe">{%the a. rate%}</div> <div n="xs">{#saMsTApitamUlyam.#}</div></div>
 <LEND>

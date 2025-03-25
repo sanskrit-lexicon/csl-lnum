@@ -1,6 +1,6 @@
 <L>13990<pc>430<k1>magazine<k2>magazine
-<div n="lb"/>{@MAGAZINE:@}¦ <div n="I">I For arms: {#SastrAgAram#} and sim.
-<div n="lb"/>comp.s. </div><div n="I">II A store-house: q. v. </div><div n="I">III A
-<div n="lb"/>periodical: no equiv.: {#*kozaH#} <div n="xe">{%or%}</div> <div n="xs">{#jYAnakozaH; #}
-<div n="lb"/>{# patrikA#}</div> (used in Bengali.).</div>
+{@MAGAZINE:@}¦ <div n="I">I For arms: {#SastrAgAram#} and sim.
+comp.s. </div><div n="I">II A store-house: q. v. </div><div n="I">III A
+periodical: no equiv.: {#*kozaH#} <div n="xe">{%or%}</div> <div n="xs">{#jYAnakozaH; #}
+{# patrikA#}</div> (used in Bengali.).</div>
 <LEND>

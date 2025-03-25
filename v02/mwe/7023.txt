@@ -1,7 +1,7 @@
 <L>7023<pc>158-b<k1>debate<k2>debate
-<div n="lb"/>DEBATE¦, {%s.%} {#vivAdaH, vAdAnuvAdaH, vAdaprativAdaH, saMvAdaH, visaMvAdaH, vAdaH,#}
-<div n="lb"/>{#hetuvAdaH, vAdayudDaM, vicAraH, viroDoktiH#} {%f.,%} {#vAgyudDaM, vAkkalahaH, vipralApaH,#}
-<div n="lb"/>{#vipratipattiH#} {%f.,%} {#vitaRqA, vitarkaH, tarkaH, vAkyaviroDaH, vAkyaM, sandehaH,#}
-<div n="lb"/>{#vAkkaliH#} {%m.%} — (Contest) {#kalahaH, vigrahaH, viroDaH, kaliH#} {%m.;%}
-<div n="lb"/>‘matter of debate,’ {#vivAdAspadaM#}.
+DEBATE¦, {%s.%} {#vivAdaH, vAdAnuvAdaH, vAdaprativAdaH, saMvAdaH, visaMvAdaH, vAdaH,#}
+{#hetuvAdaH, vAdayudDaM, vicAraH, viroDoktiH#} {%f.,%} {#vAgyudDaM, vAkkalahaH, vipralApaH,#}
+{#vipratipattiH#} {%f.,%} {#vitaRqA, vitarkaH, tarkaH, vAkyaviroDaH, vAkyaM, sandehaH,#}
+{#vAkkaliH#} {%m.%} — (Contest) {#kalahaH, vigrahaH, viroDaH, kaliH#} {%m.;%}
+‘matter of debate,’ {#vivAdAspadaM#}.
 <LEND>

@@ -1,6 +1,6 @@
 <L>3840<pc>0545<k1>tuviSuzma<k2>tuvi-Su/zma
-{@tuvi-śúṣma,@}¦ a., {%grosse Kraft%} [śúṣma] {%besitzend, sehr kräftig.%}
-<div n="P1">-a (indra) {677,2}.
-<div n="P1">-as (índras) {213,1}.
-<div n="P1">-ā [d.] (índrāváruṇau) {509,2}.
+<chg type="chg" n="123" src="gra"><old>{@tuvi-cúṣma,@}</old><new>{@tuvi-śúṣma,@}</new></chg>¦ <ab>a.</ab>, {%grosse Kraft%} [śúṣma] {%besitzend, sehr kräftig%}.
+<div n="TS">-a (indra) {677,2}.
+<div n="TS">-as (índras) {213,1}.
+<div n="TS">-ā [<ab>d.</ab>] (índrāváruṇau) {509,2}.
 <LEND>

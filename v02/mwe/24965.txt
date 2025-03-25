@@ -1,7 +1,7 @@
 <L>24965<pc>673-b<k1>relevance<k2>relevance
-<div n="lb"/>RELEVANCE¦, RELEVANCY, {%s.%} {#prAsaNgikatvaM, prasaNgayogyatA, prasaNgAnusAraH,#}
-<div n="lb"/>{#prasaNgasaNgatiH#} {%f.,%} {#prasaNgOcityaM, prasaNgAnvayaH, prakaraRayogyatA, prakaraRAnusAraH,#}
-<div n="lb"/>{#prakaraRasaNgatiH#} {%f.,%} {#prAkaraRikatvaM, prastAvAnusAraH, prastAvAnvayaH, prastAvO-#}
-<div n="lb"/>{#cityaM, prastAvAnuzaNgaH, prastutAnuzaNgaH, prastutasaNgatiH#} {%f.,%} {#yuktiH#} {%f.,%} {#yogyatA,#}
-<div n="lb"/>{#yOktikatvaM, vizayakatvaM#}.
+RELEVANCE¦, RELEVANCY, {%s.%} {#prAsaNgikatvaM, prasaNgayogyatA, prasaNgAnusAraH,#}
+{#prasaNgasaNgatiH#} {%f.,%} {#prasaNgOcityaM, prasaNgAnvayaH, prakaraRayogyatA, prakaraRAnusAraH,#}
+{#prakaraRasaNgatiH#} {%f.,%} {#prAkaraRikatvaM, prastAvAnusAraH, prastAvAnvayaH, prastAvO-#}
+{#cityaM, prastAvAnuzaNgaH, prastutAnuzaNgaH, prastutasaNgatiH#} {%f.,%} {#yuktiH#} {%f.,%} {#yogyatA,#}
+{#yOktikatvaM, vizayakatvaM#}.
 <LEND>

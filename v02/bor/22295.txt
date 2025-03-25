@@ -1,4 +1,4 @@
 <L>22295<pc>703<k1>temperature<k2>temperature
-<div n="lb"/>{@TEMPERATURE:@}¦ {#uzRamAnam#} (?) {#DarmaparimARam#} (?)
-<div n="lb"/>etc.
+{@TEMPERATURE:@}¦ {#uzRamAnam#} (?) {#DarmaparimARam#} (?)
+etc.
 <LEND>

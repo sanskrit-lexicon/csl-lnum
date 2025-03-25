@@ -1,3 +1,3 @@
-<L>57898<pc>320,2<k1>krAmika<k2>krAmika<h>a<e>2
-<s>krAmika</s> <hom>a</hom> ¦ <lex>mfn.</lex> one who studies or knows the <s1 slp1="krama">Krama</s1> (<s1 slp1="-pAWa">-pāṭha</s1>) <ab>g.</ab> <s>ukTA<srs/>di</s> (<ls>Kāś.</ls>)<info lex="m:f:n"/>
+<L>57898<pc>320,2<k1>krAmika<k2>krAmika<e>2
+<s>krAmika</s> ¦ <lex>mfn.</lex> one who studies or knows the <s1>Krama</s1> (<s1>-pāṭha</s1>) <ab>g.</ab> <s>ukTA<srs/>di</s> (<ls>Kāś.</ls>)<info lex="m:f:n"/><info hui="a"/>
 <LEND>

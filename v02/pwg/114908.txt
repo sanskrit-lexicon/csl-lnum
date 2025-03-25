@@ -1,100 +1,94 @@
 <L>114908<pc>7-1421<k1>svad<k2>svad<h>1
-1. {#svad#}¦ 
-<div n="1"> I) {#sva/dati, °te#} (dieses in der Bed. {#AsvAdane#} 
-<ls>DHĀTUP. 2, 17.</ls> {#prItilihoH#} 
-<ls>VOP.</ls>), {#sasvade#} . Der Anlaut geht in {#za#} über nach 
-<ls>VOP. 8, 43.</ls> 
-<div n="1"> 1) act. 
-<div n="2"> a) {%schmackhaft machen, gut zubereiten, würzen%}: {#Garma^m#} 
-<ls>ṚV. 1, 119, 2.</ls> <ls n="ṚV.">3, 14, 7.</ls> <ls n="ṚV.">10, 70, 10.</ls> {#ha\vyaM maDu^nA Gf\tena^#} 
-<ls n="ṚV. 10,">110, 10.</ls> <ls n="ṚV.">7, 2, 2.</ls> <ls>VS. 20, 45.</ls> {#(somam) svada^nti\ gAva\H payo^BiH#} 
-<ls>ṚV. 9, 62, 5.</ls> 
-<ls>VĀLAKH. 2, 5.</ls> 
-<ls>VS. 6, 10.</ls> 
-<div n="2">— b) übertr. {%lieblich —, angenehm machen%}: {#vAca^m#} 
-<ls>VS. 11,</ls> <ls>?7; vgl. 9, 1. TBR. 1, 3, 5, 1.</ls> 
-<div n="2">— c) (ungenau für med.) {%schmecken, angenehm —, zuträglich sein%}: {#tA a\smaBya\M svada^ntu de\vIrApa^H#} 
-<ls>VS. 4, 12.</ls> 
-<div n="1">— 2) med. 
-<div n="2"> a) {%schmecken, schmackhaft sein, munden%}: {#svada\svendrA^ya pI\taye^#} 
-<ls>ṚV. 9, 74, 9.</ls> <ls n="ṚV. 9,">68, 2.</ls> <ls n="ṚV. 9,">97, 44.</ls> 
-<ls>VS. 6, 7.</ls> {#oza^DayaH#} 
-<ls>TBR. 2, 1, 1, 3.</ls> {#devadattAya svadate 'pUpaH#} 
-<ls>P. 1, 4, 33, Schol.</ls> {#uzRaM BujyamAnaM svadate#} 
-<ls>CARAKA 3, 1.</ls> <ls>SARVADARŚANAS. 179, 8.</ls> {#sasvade muKasuraM pramadAByaH#} 
-<ls>ŚIŚ. 10, 23.</ls> {#na vE tezAM svadate paTyamuktam#} 
-<ls>Spr. (II) 3449.</ls> 
-<div n="2">— b) {%schmecken%} so v. a. {%eine angenehme Geschmacksempfindung haben, sich schmecken lassen, kosten von Etwas%}: {#tvayA\ martA^saH svadanta Asu\tim#} 
-<ls>ṚV. 2, 1, 14.</ls> {#ha\vyA#} 
-<ls n="ṚV.">3, 54, 22.</ls> {%Gefallen finden an%} (loc.): {#yatra yaH svadate vipraH kzatriyo vApi - tatra tatra tu tasyEva sarvaM klaptamadfSyata#} 
-<ls>MBH. 9, 1996.</ls> 
-<div n="1">— II) {#(svAd), svAdate (AsvAdane, prItilihoH#} 
-<ls>VOP.</ls>) <ls>DHĀTUP. 2, 27.</ls> act. med. {%geniessen%}: {#antrARi ca taTA SIrzaM svAdeyam#} 
-<ls>R. 5, 25, 46.</ls> {#svAdetAM tO ca te Pale#} 
-<ls>HARIV. 1135.</ls> {#svAdanti#} 
-<ls>Spr. (II) 4082.</ls> an allen drei Stellen fehlerhaft für {#KA°#}, wie die v.l. bietet. Statt {#AvfzAya svAdDi#} 
-<ls>ŚAT. BR. 1, 7, 2, 17</ls> ist {#AvfzAyasvAdDi (adDi)#} zu lesen. 
-<div n="1">— 2) partic. {#svAtta/#} {%schmackhaft gemacht, gewürzt%} 
-<ls>VS. 6, 10.</ls> {%gekostet%} in {#agnizvAtta#} . Vgl. {#SvAtra#} .
+1. {#svad#}¦
+<div n="1"> I) {#sva/dati, °te#} (dieses in der Bed. {#AsvAdane#}
+<ls>DHĀTUP. 2,17.</ls> {#prItilihoH#}
+<ls>VOP.</ls>), {#sasvade#} . Der Anlaut geht in {#za#} über nach
+<ls>VOP. 8,43.</ls>
+<div n="1"> 1) act.
+<div n="2"> a) {%schmackhaft machen, gut zubereiten, würzen%}: {#Garma^m#}
+<ls>ṚV. 1,119,2.</ls> <ls n="ṚV.">3,14,7.</ls> <ls n="ṚV.">10,70,10.</ls> {#ha\vyaM maDu^nA Gf\tena^#}
+<ls n="ṚV. 10,">110,10.</ls> <ls n="ṚV.">7,2,2.</ls> <ls>VS. 20,45.</ls> {#(somam) svada^nti\ gAva\H payo^BiH#}
+<ls>ṚV. 9,62,5.</ls>
+<ls>VĀLAKH. 2,5.</ls>
+<ls>VS. 6,10.</ls>
+<div n="2">— b) übertr. {%lieblich —, angenehm machen%}: {#vAca^m#}
+<ls>VS. 11,7</ls>; vgl. <ls n="VS.">9,1.</ls> <ls>TBR. 1,3,5,1.</ls>
+<div n="2">— c) (ungenau für med.) {%schmecken, angenehm —, zuträglich sein%}: {#tA a\smaBya\M svada^ntu de\vIrApa^H#}
+<ls>VS. 4,12.</ls>
+<div n="1">— 2) med.
+<div n="2"> a) {%schmecken, schmackhaft sein, munden%}: {#svada\svendrA^ya pI\taye^#}
+<ls>ṚV. 9,74,9.</ls> <ls n="ṚV. 9,">68,2.</ls> <ls n="ṚV. 9,">97,44.</ls>
+<ls>VS. 6,7.</ls> {#oza^DayaH#}
+<ls>TBR. 2,1,1,3.</ls> {#devadattAya svadate 'pUpaH#}
+<ls>P. 1,4,33</ls>, Schol. {#uzRaM BujyamAnaM svadate#}
+<ls>CARAKA 3,1.</ls> <ls>SARVADARŚANAS. 179,8.</ls> {#sasvade muKasuraM pramadAByaH#}
+<ls>ŚIŚ. 10,23.</ls> {#na vE tezAM svadate paTyamuktam#}
+<ls>Spr. (II) 3449.</ls>
+<div n="2">— b) {%schmecken%} so v. a. {%eine angenehme Geschmacksempfindung haben, sich schmecken lassen, kosten von Etwas%}: {#tvayA\ martA^saH svadanta Asu\tim#}
+<ls>ṚV. 2,1,14.</ls> {#ha\vyA#}
+<ls n="ṚV.">3,54,22.</ls> {%Gefallen finden an%} (loc.): {#yatra yaH svadate vipraH kzatriyo vApi — tatra tatra tu tasyEva sarvaM klaptamadfSyata#}
+<ls>MBH. 9,1996.</ls>
+<div n="1">— II) {#(svAd), svAdate (AsvAdane, prItilihoH#}
+<ls>VOP.</ls>) <ls>DHĀTUP. 2,27.</ls> act. med. {%geniessen%}: {#antrARi ca taTA SIrzaM svAdeyam#}
+<ls>R. 5,25,46.</ls> {#svAdetAM tO ca te Pale#}
+<ls>HARIV. 1135.</ls> {#svAdanti#}
+<ls>Spr. (II) 4082.</ls> an allen drei Stellen fehlerhaft für {#KA°#}, wie die v.l. bietet. Statt {#AvfzAya svAdDi#}
+<ls>ŚAT. BR. 1,7,2,17</ls> ist {#AvfzAyasvAdDi (adDi)#} zu lesen.
+<div n="1">— 2) partic. {#svAtta/#} {%schmackhaft gemacht, gewürzt%}
+<ls>VS. 6,10.</ls> {%gekostet%} in {#agnizvAtta#} . Vgl. {#SvAtra#} .
 [Page7-1422]
-
-<div n="p">— caus. 
-<div n="1"> 1) {#svadayati, sizvadat, svadayanta#} . {%schmackhaft machen, geniessbar machen, zubereiten, würzen, kochen%} 
-<ls>ṚV. 10, 110, 2.</ls> {#a\gnirha\vyAni^#} 
-<ls n="ṚV.">1, 188, 10.</ls> {#a\gnira^svadaya\nna BUma^#} 
-<ls n="ṚV.">2, 4, 7.</ls> <ls>VĀLAKH. 1, 5.</ls> {#anna^m#} 
-<ls>TBR. 1, 6, 1, 10.</ls> {#oza^DIH#} 
-<ls>2, 1, 1, 2.</ls> <ls>TS. 3, 3, 8, 4. 6, 4, 7, 2.</ls> {%mundgerecht machen%} 
-<ls>5, 1, 10, 1.</ls> <ls>ŚAT. BR. 1, 4, 1, 16. 7, 1, 19. 2, 6, 1, 7. 12, 7, 3, 4.</ls> partic. {#svadita/#} {%schmackhaft bereitet%}: {#havya#} 
-<ls>VS. 29, 10.</ls> {#sva\di\taM pi\tuM pa^ca#} 
-<ls>TBR. 1, 1, 7, 1.</ls> 
-<ls>KĀṬH. 12, 5.</ls> 
-<ls>ŚAT. BR. 1, 4, 1, 15</ls> ({#a/°#}). {#pfzwvA svaditamityeva tfptAnAcAmayettataH#} 
-<ls>M. 4, 251.</ls> {#pitrye svaditamityeva vAcyaM gozWe tu suSrutam#} 
-<ls>254.</ls> Dieses {#suSruta#} hatte uns unter 1. {#ad#} verleitet {#svadita#} in {#su + adita#} zu zerlegen. 
-<div n="1">— 2) {#svAdayati (AsvAdane, saMcaraRe, svAde Cede#} 
-<ls>VOP.</ls>) <ls>DHĀTUP. 33, 130.</ls> {%schmecken, kosten, geniessen%} 
-<ls>SUŚR. 2, 193, 4.</ls> {#mAkzikam#} 
-<ls>HEM.</ls> 
-<ls>YOGAŚ. 3, 36.</ls> {#svAdayantaH Palarasam#} 
-<ls>BHAṬṬ. 7, 40.</ls>
-
-<div n="p">— desid. vom caus. {#sisvAdayizati#} 
-<ls>P. 8, 3, 62.</ls> 
-<ls>VOP. 19, 17.</ls>
-
-<div n="p">— {#A#} {%essen, verzehren%}: {#durbalaM balavanto hi matsyA matsyaM viSezataH . Asvadanti#} (besser {#KAdayanti#} 
-<ls>MATSYOP. 7</ls>) <ls>MBH. 3, 12753.</ls> — caus. {#AsvAdayati#} {%sich's wohlschmecken lassen, kosten, geniessen%} überh.: {#akiMcanaH paripatansuKamAsvAdayizyasi#} 
-<ls>Spr. (II) 25.</ls> {#AsvAdayataScOzWO lihato maDuraM rasaM jYeyam#} 
-<ls>VARĀH. BṚH. S. 51, 31.</ls> 
-<ls>SUŚR. 1, 243, 9</ls> (wir schreiben {#taTAsvA°)#}.{# ruDiram#} 
-<ls>PAÑCAT. 35, 3.</ls> {#annaM pAnIyaM ca#} 
-<ls>47, 24.</ls> {#darBANkurAn#} 
-<ls>214, 22.</ls> {#rasam#} 
-<ls>VEDĀNTAS. (Allah.) No. 141.</ls> {#sAmizaM loham#} ein Fisch 
-<ls>Spr. (II) 2917.</ls> {#AkASAmAsvAdayataH kuto hi kavalagrahaH#} 
-<ls>713.</ls> {#saMyogam#} 
-<ls>MEGH. 85.</ls> med. {#AsvAdayIta#} 
-<ls>MBH. 14, 1281.</ls> {#AsvAdya#} absol.: {#PalAni#} 
-<ls>R. 1, 9, 36 (37 GORR.). 5, 25, 51. 7, 93, 7.</ls> {#kazAyarasam#} 
-<ls>Spr. (II) 6314.</ls> {#vedanAH#} 
-<ls>1074.</ls> {#sarasvatIm#} 
-<ls>BHĀG. P. 3, 16, 13.</ls> pass. : {#AsvAdyate Palam#} 
-<ls>Spr. (II) 5770.</ls> {#kAvyam#} 
-<ls>1712.</ls> {#rasaH#} 
-<ls>SĀH. D. 34.</ls> partic. {#AsvAdita#} 
-<ls>MBH. 4, 239.</ls> 
-<ls>R. 1, 9, 36 (38 GORR.).</ls> <ls>RAGH. 3, 54.</ls> <ls>Spr. (II) 271. 1073</ls> <ls>?(Conj. für</ls> {#AKAdita#}). 
-<ls>2062. 3836.</ls> {#cAruvilAsinI#} 
-<ls>7316.</ls> 
+<div n="p">— caus.
+<div n="1"> 1) {#svadayati, sizvadat, svadayanta#} . {%schmackhaft machen, geniessbar machen, zubereiten, würzen, kochen%}
+<ls>ṚV. 10,110,2.</ls> {#a\gnirha\vyAni^#}
+<ls n="ṚV.">1,188,10.</ls> {#a\gnira^svadaya\nna BUma^#}
+<ls n="ṚV.">2,4,7.</ls> <ls>VĀLAKH. 1,5.</ls> {#anna^m#}
+<ls>TBR. 1,6,1,10.</ls> {#oza^DIH#}
+<ls n="TBR.">2,1,1,2.</ls> <ls>TS. 3,3,8,4.</ls> <ls n="TS.">6,4,7,2.</ls> {%mundgerecht machen%}
+<ls n="TS.">5,1,10,1.</ls> <ls>ŚAT. BR. 1,4,1,16. 7,1,19. 2,6,1,7. 12,7,3,4.</ls> partic. {#svadita/#} {%schmackhaft bereitet%}: {#havya#}
+<ls>VS. 29,10.</ls> {#sva\di\taM pi\tuM pa^ca#}
+<ls>TBR. 1,1,7,1.</ls>
+<ls>KĀṬH. 12,5.</ls>
+<ls>ŚAT. BR. 1,4,1,15</ls> ({#a/°#}). {#pfzwvA svaditamityeva tfptAnAcAmayettataH#}
+<ls>M. 4,251.</ls> {#pitrye svaditamityeva vAcyaM gozWe tu suSrutam#}
+<ls n="M. 4,">254.</ls> Dieses {#suSruta#} hatte uns unter 1. {#ad#} verleitet {#svadita#} in {#su + adita#} zu zerlegen.
+<div n="1">— 2) {#svAdayati (AsvAdane, saMcaraRe, svAde Cede#}
+<ls>VOP.</ls>) <ls>DHĀTUP. 33,130.</ls> {%schmecken, kosten, geniessen%}
+<ls>SUŚR. 2,193,4.</ls> {#mAkzikam#}
+<ls>HEM.</ls>
+<ls>YOGAŚ. 3,36.</ls> {#svAdayantaH Palarasam#}
+<ls>BHAṬṬ. 7,40.</ls>
+<div n="p">— desid. vom caus. {#sisvAdayizati#}
+<ls>P. 8,3,62.</ls>
+<ls>VOP. 19,17.</ls>
+<div n="p">— {#A#} {%essen, verzehren%}: {#durbalaM balavanto hi matsyA matsyaM viSezataH . Asvadanti#} (besser {#KAdayanti#}
+<ls>MATSYOP. 7</ls>) <ls>MBH. 3,12753.</ls> — caus. {#AsvAdayati#} {%sich's wohlschmecken lassen, kosten, geniessen%} überh.: {#akiMcanaH paripatansuKamAsvAdayizyasi#}
+<ls>Spr. (II) 25.</ls> {#AsvAdayataScOzWO lihato maDuraM rasaM jYeyam#}
+<ls>VARĀH. BṚH. S. 51,31.</ls>
+<ls>SUŚR. 1,243,9</ls> (wir schreiben {#taTAsvA°)#}.{# ruDiram#}
+<ls>PAÑCAT. 35,3.</ls> {#annaM pAnIyaM ca#}
+<ls n="PAÑCAT.">47,24.</ls> {#darBANkurAn#}
+<ls n="PAÑCAT.">214,22.</ls> {#rasam#}
+<ls>VEDĀNTAS. (Allah.) No. 141.</ls> {#sAmizaM loham#} ein Fisch
+<ls>Spr. (II) 2917.</ls> {#AkASAmAsvAdayataH kuto hi kavalagrahaH#}
+<ls n="Spr. (II)">713.</ls> {#saMyogam#}
+<ls>MEGH. 85.</ls> med. {#AsvAdayIta#}
+<ls>MBH. 14,1281.</ls> {#AsvAdya#} absol.: {#PalAni#}
+<ls>R. 1,9,36</ls> (<ls n="GORR. 1,9,">37</ls> <ls>GORR.</ls>). <ls n="R.">5,25,51.</ls> <ls n="R.">7,93,7.</ls> {#kazAyarasam#}
+<ls>Spr. (II) 6314.</ls> {#vedanAH#}
+<ls n="Spr. (II)">1074.</ls> {#sarasvatIm#}
+<ls>BHĀG. P. 3,16,13.</ls> pass. : {#AsvAdyate Palam#}
+<ls>Spr. (II) 5770.</ls> {#kAvyam#}
+<ls n="Spr. (II)">1712.</ls> {#rasaH#}
+<ls>SĀH. D. 34.</ls> partic. {#AsvAdita#}
+<ls>MBH. 4,239.</ls>
+<ls>R. 1,9,36</ls> (<ls n="GORR. 1,9,">38</ls> <ls>GORR.</ls>). <ls>RAGH. 3,54.</ls> <ls>Spr. (II) 271.</ls> <ls n="Spr. (II)">1073</ls> (Conj. für {#AKAdita#}).
+<ls n="Spr. (II)">2062.</ls> <ls n="Spr. (II)">3836.</ls> {#cAruvilAsinI#}
+<ls n="Spr. (II)">7316.</ls>
 <div n="v">— Vgl. {#AsvAda#} fgg. und {#nirAsvAda#} fg.
-
-<div n="p">— {#samA#} caus. {%kosten, geniessen%}: {#mUlaPalaM samAsvAdya#} 
-<ls>R. 5, 7, 31.</ls> 
-<ls>KĀM. NĪTIS. 7, 27.</ls>
-
-<div n="p">— {#prati#} caus. dass.: {#pratizvAdya#} Comm. zu 
-<ls>KĀM. NĪTIS. 7, 27.</ls>
-
+<div n="p">— {#samA#} caus. {%kosten, geniessen%}: {#mUlaPalaM samAsvAdya#}
+<ls>R. 5,7,31.</ls>
+<ls>KĀM. NĪTIS. 7,27.</ls>
+<div n="p">— {#prati#} caus. dass.: {#pratizvAdya#} Comm. zu
+<ls>KĀM. NĪTIS. 7,27.</ls>
 <div n="p">— {#sam#} vgl. {#saMsud#} .
 <LEND>

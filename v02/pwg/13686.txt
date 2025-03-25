@@ -1,12 +1,12 @@
 <L>13686<pc>1-1111<k1>EndrAgna<k2>EndrAgna/
-{#EndrAgna/#}¦ <lex>adj.</lex> <lex>f.</lex> {#I#} {%dem%} <is>Indra</is> {%und%} <is>Agni</is> {%geweiht, gehörig, von ihnen kommend%} 
-<ls>P. 7, 3, 22.</ls> 
-<ls>Sch.</ls> {#varma^#} 
-<ls>AV. 8, 5, 19. 11, 7, 6.</ls> 
-<ls>VS. 24, 8. 29, 58.</ls> 
-<ls>TS.1, 8, 3, 1. 2, 1, 5, 5.</ls> 
-<ls>ŚAT. BR. 1, 6, 4, 3. 3, 9, 1, 19.</ls>
+{#EndrAgna/#}¦ <lex>adj.</lex> <lex>f.</lex> {#I#} {%dem%} <is>Indra</is> {%und%} <is>Agni</is> {%geweiht, gehörig, von ihnen kommend%}
+<ls>P. 7,3,22.</ls>
+<ls>Sch.</ls> {#varma^#}
+<ls>AV. 8,5,19.</ls> <ls n="AV.">11,7,6.</ls>
+<ls>VS. 24,8.</ls> <ls n="VS.">29,58.</ls>
+<ls>TS. 1,8,3,1.</ls> <ls n="TS.">2,1,5,5.</ls>
+<ls>ŚAT. BR. 1,6,4,3.</ls> <ls n="ŚAT. BR.">3,9,1,19.</ls>
 [Page1-1112]
-{#EndrAgnya#} 
-<ls>MBH. 12, 2307.</ls>
+{#EndrAgnya#}
+<ls>MBH. 12,2307.</ls>
 <LEND>

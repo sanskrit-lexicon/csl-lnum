@@ -1,10 +1,10 @@
 <L>8032<pc>347<k1>plenty<k2>plenty
 {@Plenty,@}¦ {%s.%} {#bAhulyaM, prAcuryaM, vEpulyaM, bahutvaM,#}
-<div n="lb"/>{#samfdDi#} {%f.,%} {#udrekaH, atirekaH, utsekaH, sPIti-#}
-<div n="lb"/>{#-vfdDi#}- {%f.%} {@-Plenteous, Plentiful,@} {%a.%}
-<div n="lb"/>{#praBUta, pracura, vipula, bahu, bahula, BUri, BUyizWa#}.
-<div n="lb"/>{#puzkala, samfdDa, saM-pari-pUrRa, udrikta, sPIta,#}
-<div n="lb"/>{#utsikta, upacita#}. {@-ly,@} {%adv.%} {#bAhulyena,#}
-<div n="lb"/>{#bahuSaH, BUyizWaM, BUri, praBUtaM, vipulaM, atiriktaM#}.
-<div n="lb"/>{@-ness,@} {%s.%} {#bAhulyaM, prAcuryaM;#} {%See%} ({%s.%}).
+{#samfdDi#} {%f.,%} {#udrekaH, atirekaH, utsekaH, sPIti-#}
+{#-vfdDi#}- {%f.%} {@-Plenteous, Plentiful,@} {%a.%}
+{#praBUta, pracura, vipula, bahu, bahula, BUri, BUyizWa#}.
+{#puzkala, samfdDa, saM-pari-pUrRa, udrikta, sPIta,#}
+{#utsikta, upacita#}. {@-ly,@} {%adv.%} {#bAhulyena,#}
+{#bahuSaH, BUyizWaM, BUri, praBUtaM, vipulaM, atiriktaM#}.
+{@-ness,@} {%s.%} {#bAhulyaM, prAcuryaM;#} {%See%} ({%s.%}).
 <LEND>

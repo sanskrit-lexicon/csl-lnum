@@ -1,5 +1,5 @@
-<L>119707<pc>607,2<k1>paryavasTA<k2>pary-ava-sTA<h>a<e>1
-<s>pary-ava-√ sTA</s> <hom>a</hom> ¦ <ab>Ā.</ab> <s>-tizWate</s>, to become firm or steady, <ls>Bhag.</ls>;
+<L>119707<pc>607,2<k1>paryavasTA<k2>pary-ava-sTA<e>1
+<s>pary-ava-√ sTA</s> ¦ <ab>Ā.</ab> <s>-tizWate</s>, to become firm or steady, <ls>Bhag.</ls>;
 <div n="to"/>to fill, pervade (<ab>acc.</ab>), <ls>MBh.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-sTApayati</s>, to comfort, encourage, <ls>ib.</ls><info verb="pre" cp="Ā" parse="pari+ava+sTA"/>
+<div n="vp"/><ab>Caus.</ab> <s>-sTApayati</s>, to comfort, encourage, <ls>ib.</ls><info verb="pre" cp="Ā" parse="pari+ava+sTA"/><info hui="a"/>
 <LEND>

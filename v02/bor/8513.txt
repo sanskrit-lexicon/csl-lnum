@@ -1,12 +1,12 @@
 <L>8513<pc>270<k1>fault<k2>fault
-<div n="lb"/>{@FAULT:@}¦ <div n="1">(1) {#dozaH,#} <div n="xe">{%this is not your f.:%}</div> <div n="xs">{#na te dozo'yam,#}</div>
-<div n="lb"/>P. i. 16.; <div n="xe">{%will not find f. with it:%}</div> <div n="xs">{#dozaM na grahIzyati,#}</div>
-<div n="lb"/>Sa.; <div n="xe">{%these are f.s of language:%}</div> <div n="xs">{#vAkye'pi dozAH #}
-<div n="lb"/>{# santyete,#}</div> Kav.; </div><div n="1">(2) {#aparADaH#} (not physical), <div n="xe">{%how%}
-<div n="lb"/>{%can a slave be without f.:%}</div> <div n="xs">{#kaTaM nu dAso niraparADaH,#}</div>
-<div n="lb"/>V. ii.; <div n="xe">{%it is not the f. of a stump if a blind man%}
-<div n="lb"/>{%does not see it:%}</div> <div n="xs">{#nEza sTARoraparADo yadenamanDo na paSyati,#}</div>
-<div n="lb"/>Say. To find f. with: {#dUzayati#} (c. of {#duz#}), <div n="xe">{%bad%}
-<div n="lb"/>{%men in a moment find f. with the excellencies of%}
-<div n="lb"/>{%good men:%}</div> <div n="xs">{#durjano dUzayatyeva satAM guRagaRaM kzaRAt,#}</div> J.</div>
+{@FAULT:@}¦ <div n="1">(1) {#dozaH,#} <div n="xe">{%this is not your f.:%}</div> <div n="xs">{#na te dozo'yam,#}</div>
+P. i. 16.; <div n="xe">{%will not find f. with it:%}</div> <div n="xs">{#dozaM na grahIzyati,#}</div>
+Sa.; <div n="xe">{%these are f.s of language:%}</div> <div n="xs">{#vAkye'pi dozAH #}
+{# santyete,#}</div> Kav.; </div><div n="1">(2) {#aparADaH#} (not physical), <div n="xe">{%how%}
+{%can a slave be without f.:%}</div> <div n="xs">{#kaTaM nu dAso niraparADaH,#}</div>
+V. ii.; <div n="xe">{%it is not the f. of a stump if a blind man%}
+{%does not see it:%}</div> <div n="xs">{#nEza sTARoraparADo yadenamanDo na paSyati,#}</div>
+Say. To find f. with: {#dUzayati#} (c. of {#duz#}), <div n="xe">{%bad%}
+{%men in a moment find f. with the excellencies of%}
+{%good men:%}</div> <div n="xs">{#durjano dUzayatyeva satAM guRagaRaM kzaRAt,#}</div> J.</div>
 <LEND>

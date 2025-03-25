@@ -1,5 +1,5 @@
 <L>6661<pc>213<k1>divers<k2>divers
-<div n="lb"/>{@DIVERS:@}¦ <div n="1">(1) {#anekaH#} ({#kA, kaM#}); </div><div n="1">(2) {#nAnA-,#} <div n="xe">{%d.%}
-<div n="lb"/>{%coloured:%}</div> <div n="xs">{#nAnAvarRaH#}</div> ({#rRA, rRaM#}) <div n="xe">{%or%}</div> <div n="xs">{#nAnArAgavirAgaH#}</div> ({#gA, #}
-<div n="lb"/>{# gaM#}), Mah.: v. Several.</div>
+{@DIVERS:@}¦ <div n="1">(1) {#anekaH#} ({#kA, kaM#}); </div><div n="1">(2) {#nAnA-,#} <div n="xe">{%d.%}
+{%coloured:%}</div> <div n="xs">{#nAnAvarRaH#}</div> ({#rRA, rRaM#}) <div n="xe">{%or%}</div> <div n="xs">{#nAnArAgavirAgaH#}</div> ({#gA, #}
+{# gaM#}), Mah.: v. Several.</div>
 <LEND>

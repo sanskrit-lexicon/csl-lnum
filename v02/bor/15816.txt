@@ -1,6 +1,6 @@
 <L>15816<pc>485<k1>oil<k2>oil
-<div n="lb"/>{@OIL@}¦ (subs.). {#tElam,#} <div n="xe">{%sesamum o.:%}</div> <div n="xs">{#tilatElam,#}</div> Bha.:
-<div n="lb"/><div n="xe">{%cooked in o.:%}</div> <div n="xs">{#tElapakva#}</div> (f. {#kvA#}), Bha.; {%o. -seeds:%}
-<div n="lb"/>{#tilAdivastUni,#} Bha., <div n="xe">{%or%}</div> <div n="xs">{#-dravyARi,#}</div> {%or%} perh. {#tEla-#}
-<div n="lb"/>{#bIjAni#} (comp. {#KasabIjAnAM tElam,#} Bha.).
+{@OIL@}¦ (subs.). {#tElam,#} <div n="xe">{%sesamum o.:%}</div> <div n="xs">{#tilatElam,#}</div> Bha.:
+<div n="xe">{%cooked in o.:%}</div> <div n="xs">{#tElapakva#}</div> (f. {#kvA#}), Bha.; {%o. -seeds:%}
+{#tilAdivastUni,#} Bha., <div n="xe">{%or%}</div> <div n="xs">{#-dravyARi,#}</div> {%or%} perh. {#tEla-#}
+{#bIjAni#} (comp. {#KasabIjAnAM tElam,#} Bha.).
 <LEND>

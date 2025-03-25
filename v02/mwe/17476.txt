@@ -1,11 +1,11 @@
 <L>17476<pc>439-b<k1>latitude<k2>latitude
-<div n="lb"/>LATITUDE¦, {%s.%} (Terrestrial) {#akzaH, PalaH, vizuvavfttAntaraM, vizuvareKAntaraM#}.
-<div n="lb"/> — (Celestial) {#vikzepaH, SaraH;#} ‘a degree of latitude,’ {#akzaBAgaH,#}
-<div n="lb"/>{#akzAMSaH;#} ‘opposite degrees of latitude,’ {#anupAtaH;#} ‘latitude
-<div n="lb"/>of a planet,’ {#patanaM;#} ‘argument of latitude,’ {#akzakarRaH;#}
-<div n="lb"/>‘circle or parallel of latitude,’ {#akzavfttaM, akzAMSavfttaM, svadeSapa-#}
-<div n="lb"/>{#riDiH#} {%m.,%} {#svadeSamaDyapariDiH#} {%m.;%} ‘having no latitude,’ {#nirakzaH#}
-<div n="lb"/>{#-kzA -kzaM#}. — (Breadth) {#pfTutA, praTimA#} {%m.%} {#(n), vistftiH#} {%f.,%} {#prasTaH#}. — 
-<div n="lb"/>(Laxity) {#SETilyaM, SiTilatA -tvaM, anirbanDaH, nirbanDahInatA, niyamA-#}
-<div n="lb"/>{#tikramaH, niyamopekzA, aDftiH#} {%f.%}
+LATITUDE¦, {%s.%} (Terrestrial) {#akzaH, PalaH, vizuvavfttAntaraM, vizuvareKAntaraM#}.
+ — (Celestial) {#vikzepaH, SaraH;#} ‘a degree of latitude,’ {#akzaBAgaH,#}
+{#akzAMSaH;#} ‘opposite degrees of latitude,’ {#anupAtaH;#} ‘latitude
+of a planet,’ {#patanaM;#} ‘argument of latitude,’ {#akzakarRaH;#}
+‘circle or parallel of latitude,’ {#akzavfttaM, akzAMSavfttaM, svadeSapa-#}
+{#riDiH#} {%m.,%} {#svadeSamaDyapariDiH#} {%m.;%} ‘having no latitude,’ {#nirakzaH#}
+{#-kzA -kzaM#}. — (Breadth) {#pfTutA, praTimA#} {%m.%} {#(n), vistftiH#} {%f.,%} {#prasTaH#}. — 
+(Laxity) {#SETilyaM, SiTilatA -tvaM, anirbanDaH, nirbanDahInatA, niyamA-#}
+{#tikramaH, niyamopekzA, aDftiH#} {%f.%}
 <LEND>

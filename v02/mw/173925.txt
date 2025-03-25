@@ -1,3 +1,3 @@
-<L>173925<pc>863,1<k1>rajani<k2>rajani<h>b<e>2
-<s>rajani</s> <hom>b</hom> ¦ <lex>f.</lex> (<ab>mc.</ab> and <ab>ibc.</ab>) = <s>rajanI</s>, night.<info lex="f"/>
+<L>173925<pc>863,1<k1>rajani<k2>rajani<e>2
+<s>rajani</s> ¦ <lex>f.</lex> (<ab>mc.</ab> and <ab>ibc.</ab>) = <s>rajanI</s>, night.<info lex="f"/><info hui="b"/>
 <LEND>

@@ -1,5 +1,5 @@
 <L>112608<pc>7-1187<k1>senAgra<k2>senAgra
-{#senAgra#}¦ ({#senA + agra#}) <lex>n.</lex> {%Spitze des Heeres%} 
-<ls>R. 3, 29, 32. 4, 28, 31.</ls> {#°ga#} {%an der Spitze des Heeres gehend, Heerführer%} 
-<ls>R.</ls> <ls>SCHL. 1, 1, 73. 5, 41, 4. 43, 7. 56, 125. 7, 35, 6.</ls>
+{#senAgra#}¦ ({#senA + agra#}) <lex>n.</lex> {%Spitze des Heeres%}
+<ls>R. 3,29,32.</ls> <ls n="R.">4,28,31.</ls> {#°ga#} {%an der Spitze des Heeres gehend, Heerführer%}
+<ls>R. SCHL. 1,1,73.</ls> <ls n="R.">5,41,4.</ls> <ls n="R. 5,">43,7.</ls> <ls n="R. 5,">56,125.</ls> <ls n="R.">7,35,6.</ls>
 <LEND>

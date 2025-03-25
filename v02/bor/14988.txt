@@ -1,4 +1,4 @@
 <L>14988<pc>458<k1>mortgager<k2>mortgager
-<div n="lb"/>{@MORTGAGER:@}¦ <div n="1">(1) {#ADAtf#} (f. {#trI#}); </div><div n="1">(2) {#ADi-#}
-<div n="lb"/>{#kartf#} (f. {#rtrI#}); </div><div n="1">(3) {#banDadAtf#} (f. {#trI#}).</div>
+{@MORTGAGER:@}¦ <div n="1">(1) {#ADAtf#} (f. {#trI#}); </div><div n="1">(2) {#ADi-#}
+{#kartf#} (f. {#rtrI#}); </div><div n="1">(3) {#banDadAtf#} (f. {#trI#}).</div>
 <LEND>

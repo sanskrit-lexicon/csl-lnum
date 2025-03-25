@@ -1,14 +1,11 @@
-<L>89992<pc>468,2<k1>daDyac<k2>daDy—a/c<h>a<e>3
-<s>daDy—a/c</s> <hom>a</hom> ¦ <lex>m.</lex> (<ab>nom.</ab> <s>-a/N</s> <ab>acc.</ab> <s>-a/Ycam</s>;
+<L>89992<pc>468,2<k1>daDyac<k2>daDy—a/c<e>3
+<s>daDy—a/c</s> ¦ <lex>m.</lex> (<ab>nom.</ab> <s>-a/N</s> <ab>acc.</ab> <s>-a/Ycam</s>;
 <ab>dat.</ab> <s>°DIce/</s> <ab>gen.</ab> <s>°DIca/s</s>;
-<ab>cf.</ab> <ls>Pāṇ. 6-1, 170</ls>) ‘sprinkling <s>da/Di</s>’ (<ab>cf.</ab> <s>°Di-krA/</s> and <s>GftA/<srs/>cI</s>) <ab>N.</ab> of a mythical <s1 slp1="fzi">Ṛṣi</s1> or sacrificer (<ls>RV. i, 80, 16</ls> and [called <s1 slp1="aNgiras">Aṅgiras</s1>] <ls>139, 9</ls> [<s>ANgirasa</s>] <ls>TāṇḍyaBr. xii, 8</ls>;
-son of <s1 slp1="aTarvan">Atharvan</s1> [<ab>cf.</ab> <s>ATarvaRa/</s>] <ls>RV. vi, 16, 14</ls>;
+<ab>cf.</ab> <ls>Pāṇ. vi, 1, 170</ls>) ‘sprinkling <s>da/Di</s>’ (<ab>cf.</ab> <s>°Di-krA/</s> and <s>GftA/<srs/>cI</s>) <ab>N.</ab> of a mythical <s1>Ṛṣi</s1> or sacrificer (<ls>RV. i, 80, 16</ls> and [called <s1>Aṅgiras</s1>] <ls n="RV. i,">139, 9</ls> [<s>ANgirasa</s>] <ls>TāṇḍyaBr. xii, 8</ls>;
+son of <s1>Atharvan</s1> [<ab>cf.</ab> <s>ATarvaRa/</s>] <ls>RV. vi, 16, 14</ls>;
 <ls>BhP. iv, 1, 42</ls>;
-having the head of a horse and teaching the <s1 slp1="aSvin">Aśvin</s1>s to find in <s1 slp1="tvazwf">Tvaṣṭṛ</s1>'s house the <s>ma/Du</s> or <s1 slp1="soma">Soma</s1>, <ls>RV. i, 116 f. and 119;
-ix, 108, 4</ls>;
-favoured by <s1 slp1="indra">Indra</s1> [<ls>x, 48, 2</ls>] who slays 99 <s1 slp1="vftra">Vṛtra</s1>s or foes with a thunderbolt made of his bones, <ls>i. 84, 13</ls>;
-<ls>BhP. vi, 11, 20;
-viii, 20, 7</ls>;
-propounder of the <s1 slp1="brAhmaRa">Brāhmaṇa</s1> called <s>ma/Du</s>, <ls>ŚBr. iv, xiv</ls>;
-<ls>BhP. vi, 9, 50ff.</ls>)<info lex="m"/>
+having the head of a horse and teaching the <s1>Aśvin</s1>s to find in <s1>Tvaṣṭṛ</s1>'s house the <s>ma/Du</s> or <s1>Soma</s1>, <ls>RV. i, 116 f.</ls> and <ls n="RV. i,">119</ls>; <ls n="RV.">ix, 108, 4</ls>;
+favoured by <s1>Indra</s1> [<ls n="RV.">x, 48, 2</ls>] who slays 99 <s1>Vṛtra</s1>s or foes with a thunderbolt made of his bones, <ls n="RV.">i, 84, 13</ls>; <ls>BhP. vi, 11, 20</ls>; <ls n="BhP.">viii, 20, 7</ls>;
+propounder of the <s1>Brāhmaṇa</s1> called <s>ma/Du</s>, <ls>ŚBr. iv</ls>, <ls n="ŚBr.">xiv</ls>; <ls>BhP. vi, 9, 50 ff.</ls>)
+<info lex="m"/><info hui="a"/>
 <LEND>

@@ -1,6 +1,6 @@
 <L>18144<pc>462-b<k1>lodging<k2>lodging
-<div n="lb"/>LODGING¦, {%s.%} {#vAsaH, nivAsaH, vAsasTAnaM, AvAsaH, AvAsasTAnaM, vasatiH#} {%f.,%}
-<div n="lb"/>{#nivasatiH#} {%f.,%} {#niveSanaM, niketaH -tanaM, AyatanaM, nilayaH -yanaM, AlayaH,#}
-<div n="lb"/>{#avasTAnaM, AvasaTaH, ASrayaH, saMSrayaH, kftAvAsaH, veSma#} {%n.%} ({#n#}); ‘he
-<div n="lb"/>asked a lodging,’ {#AvAsaM prArTitavAn#}.
+LODGING¦, {%s.%} {#vAsaH, nivAsaH, vAsasTAnaM, AvAsaH, AvAsasTAnaM, vasatiH#} {%f.,%}
+{#nivasatiH#} {%f.,%} {#niveSanaM, niketaH -tanaM, AyatanaM, nilayaH -yanaM, AlayaH,#}
+{#avasTAnaM, AvasaTaH, ASrayaH, saMSrayaH, kftAvAsaH, veSma#} {%n.%} ({#n#}); ‘he
+asked a lodging,’ {#AvAsaM prArTitavAn#}.
 <LEND>

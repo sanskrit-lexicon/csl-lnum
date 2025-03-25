@@ -1,6 +1,6 @@
 <L>16902<pc>518<k1>pestilence<k2>pestilence
-<div n="lb"/>{@PESTILENCE:@}¦ <div n="1">(1) {#mAriH#} ({#rI#}), <div n="xe">{%great p.:%}</div> <div n="xs">{#mahAmArI;#}</div></div>
-<div n="lb"/><div n="1">(2) {#marakaH,#} <div n="xe">{%all calamities such as p. and famine%}
-<div n="lb"/>{%ceased on his arrival there:%}</div> <div n="xs">{#tatrAgata eva marakadurBikzA-#}
-<div n="lb"/>{#dyupadravaH SaSAma,#}</div> V. p. iv. 13. 18.</div>
+{@PESTILENCE:@}¦ <div n="1">(1) {#mAriH#} ({#rI#}), <div n="xe">{%great p.:%}</div> <div n="xs">{#mahAmArI;#}</div></div>
+<div n="1">(2) {#marakaH,#} <div n="xe">{%all calamities such as p. and famine%}
+{%ceased on his arrival there:%}</div> <div n="xs">{#tatrAgata eva marakadurBikzA-#}
+{#dyupadravaH SaSAma,#}</div> V. p. iv. 13. 18.</div>
 <LEND>

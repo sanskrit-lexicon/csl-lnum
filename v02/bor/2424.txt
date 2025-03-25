@@ -1,9 +1,9 @@
 <L>2424<pc>083<k1>bow<k2>bow
-<div n="lb"/>{@BOW@}¦ (subs.): <div n="I">I For discharging arrows: </div><div n="1">(1)
-<div n="lb"/>{#DanuH;#} </div><div n="1">(2) {#cApa#} (mn.); </div><div n="1">(3) {#kArmukam;#} </div><div n="1">(4) {#SarAsanam.#}
-<div n="lb"/><div n="xe">{%B. of Arjuna%}</div> <div n="xs">{#gARqIvaH;#}</div> <div n="xe">{%b. of Śiva%}</div> <div n="xs">{#pinAkaH;#}</div> <div n="xe">{%the%}
-<div n="lb"/>{%notched extremity of a b.%}</div> <div n="xs">{#awanI;#}</div> <div n="xe">{%to bend the b.%}
-<div n="lb"/>{%against deer%}</div> <div n="xs">{#DanuridaM mfgezu namayitum,#}</div> Sa. ii. </div><div n="I">II A
-<div n="lb"/>musician's b. </div><div n="1">(1) {#koRaH;#} </div><div n="1">(2) {#parivAdaH;#} </div><div n="1">(3)
-<div n="lb"/>{#SArikA#} (rare).</div>
+{@BOW@}¦ (subs.): <div n="I">I For discharging arrows: </div><div n="1">(1)
+{#DanuH;#} </div><div n="1">(2) {#cApa#} (mn.); </div><div n="1">(3) {#kArmukam;#} </div><div n="1">(4) {#SarAsanam.#}
+<div n="xe">{%B. of Arjuna%}</div> <div n="xs">{#gARqIvaH;#}</div> <div n="xe">{%b. of Śiva%}</div> <div n="xs">{#pinAkaH;#}</div> <div n="xe">{%the%}
+{%notched extremity of a b.%}</div> <div n="xs">{#awanI;#}</div> <div n="xe">{%to bend the b.%}
+{%against deer%}</div> <div n="xs">{#DanuridaM mfgezu namayitum,#}</div> Sa. ii. </div><div n="I">II A
+musician's b. </div><div n="1">(1) {#koRaH;#} </div><div n="1">(2) {#parivAdaH;#} </div><div n="1">(3)
+{#SArikA#} (rare).</div>
 <LEND>

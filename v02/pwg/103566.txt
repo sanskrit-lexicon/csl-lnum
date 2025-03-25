@@ -1,57 +1,56 @@
 <L>103566<pc>7-0532<k1>saMgati<k2>sa/Mgati
-{#sa/Mgati#}¦ (von 1. {#gam#} mit {#sam#}) <lex>f.</lex> 
-<div n="1"> 1) {%das Zusammentreffen, Eintreffen%} 
-<ls>ṚV. 4, 44, 1.</ls> <ls n="ṚV.">10, 141, 4.</ls> {#svargasya lokasya#} 
-<ls>AIT. BR. 2, 17. 4, 20.</ls> {%das Sichbegeben an einen Ort%}: {#paYca yatra na vidyante na kuryAttatra saMgatim#} 
-(v. l. für {#saMsTitim#}) 
-<ls>Spr. 3862, v. l.</ls> {#yAtrotsave#} 
-<ls>7336.</ls> {%das Zusammentreffen%} zweier Töne Comm. zu 
-<ls>ṚV. PRĀT. 3, 4.</ls> 
-<div n="1">— 2) {%das Zusammentreffen von Personen, Verkehr, Umgang%} (auch geschlechtlicher); = {#yoga#} 
-<ls>AK. 3, 4, 3, 23.</ls> = {#mETuna#} 
-<ls>18, 124.</ls> = {#saNga#} 
-<ls>H. an. 3, 311.</ls> = {#saMgama#} 
-<ls>MED. t. 168.</ls> = {#samiti#} 
-<ls>HALĀY. 5, 35.</ls> {#yatra naH saMgatirBavet#} 
-<ls>HARIV. 15748.</ls> {#yudDe#} 
-<ls>15755.</ls> {#evaM BavantyacintyA virahASca saMgatayaSca jantUnAm#} 
-<ls>KATHĀS. 124, 243.</ls> 
-<ls>PRAB. 86, 18.</ls> {#tasya saMgatimutpAdya#} {%eine Zusammenkunft mit%} 
-<ls>KATHĀS. 65, 99.</ls> {#tena#} 
-<ls>30, 74. 52, 292.</ls> {#kenApi vaRijA saha#} 
-<ls>18, 292.</ls> {#saMgateH saMcarate pApam#} {%durch Verkehr%} 
-<ls>Spr. (II) 1061.</ls> {#kumitre#} {%Verkehr mit%} 
-<ls>1804. 6667.</ls> {#satAm#} {%mit Guten%} 
-<ls>529.</ls> <ls>PAÑCAT. 60, 9.</ls> {#prAjYetarEH#} 
-<ls>1943, v. l. 2441. 5375. 6769.</ls> <ls>KATHĀS. 25, 153. 28, 191.</ls> {#yozidBiH saha#} 
-<ls>Spr. (II) 3202.</ls> {#sadBiH samam#} 
-<ls>5046.</ls> {#satsaMgati#} 
-<ls>2376. 2716. 2882. 3060. 6051. 6106. 6607. 6637.</ls> <ls>KATHĀS. 17, 113.</ls> {#snuzA°#} 
-<ls>RĀJA-TAR. 1, 308.</ls> {#BrAtfdAra°#} 
-<ls>DAŚAK. 67, 15. fg.</ls> {#a°#} {%keinen Umgang habend%} 
-<ls>MBH. 12, 13921.</ls> so v. a. {%Bündniss%}: {#vyasane sati kurvIta yena kenacitsaMgatim#} 
-<ls>Spr. (II) 6319.</ls> 
-<div n="1">— 3) {%das Zutreffen, Sichereignen%}: {#saMgatyA#} so v. a. {%wenn es sich so trifft, da es sich so traf, zufälliger Weise%} 
-<ls>R. 2, 79, 3.</ls> 
-<ls>MBH. 1, 6110. 6943. 3, 2429</ls> <ls>(= N. 12, 20). 13, 156</ls> ({#saMgatvA#} ed. Calc.; man streiche demnach die beiden letzten Stellen unter 1. {#gam#} mit {#sam#} 
-<ls>?Z. 19. fg.). WEBER, RĀMAT. UP. 356, 5</ls> (wo so mit der Hdschr. und des Metrums wegen zu lesen ist). 
-<div n="1">— 4) {%das Zutreffen, Stimmen, Passen%}: {#arTa°#} 
-<ls>Verz. d. Oxf. H. 151,a,14.</ls> <ls>KATHĀS. 34,120.</ls> <ls>MUIR, ST.4,221.</ls> <ls>Schol.</ls> zu <ls>PAÑCAV. BR.9,1,1.</ls> <ls>SARVADARŚANAS. 12,19.</ls> = {#sidDAnta#} 
-<ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 10.</ls> 
-<div n="1">— 5) {%Zusammenhang, Beziehung%}: {#jalasaMgatihInA (BU)#} 
-<ls>KATHĀS. 25, 10.</ls> {#mano hi janmAntarasaMgatijYam#}
+{#sa/Mgati#}¦ (von 1. {#gam#} mit {#sam#}) <lex>f.</lex>
+<div n="1"> 1) {%das Zusammentreffen, Eintreffen%}
+<ls>ṚV. 4,44,1.</ls> <ls n="ṚV.">10,141,4.</ls> {#svargasya lokasya#}
+<ls>AIT. BR. 2,17.</ls> <ls n="AIT. BR.">4,20.</ls> {%das Sichbegeben an einen Ort%}: {#paYca yatra na vidyante na kuryAttatra saMgatim#}
+(v. l. für {#saMsTitim#})
+<ls>Spr. 3862, v. l.</ls> {#yAtrotsave#}
+<ls n="Spr.">7336.</ls> {%das Zusammentreffen%} zweier Töne Comm. zu
+<ls>ṚV. PRĀT. 3,4.</ls>
+<div n="1">— 2) {%das Zusammentreffen von Personen, Verkehr, Umgang%} (auch geschlechtlicher); = {#yoga#}
+<ls>AK. 3,4,3,23.</ls> = {#mETuna#}
+<ls n="AK.">18,124.</ls> = {#saNga#}
+<ls>H. an. 3,311.</ls> = {#saMgama#}
+<ls>MED. t. 168.</ls> = {#samiti#}
+<ls>HALĀY. 5,35.</ls> {#yatra naH saMgatirBavet#}
+<ls>HARIV. 15748.</ls> {#yudDe#}
+<ls n="HARIV.">15755.</ls> {#evaM BavantyacintyA virahASca saMgatayaSca jantUnAm#}
+<ls>KATHĀS. 124,243.</ls>
+<ls>PRAB. 86,18.</ls> {#tasya saMgatimutpAdya#} {%eine Zusammenkunft mit%}
+<ls>KATHĀS. 65,99.</ls> {#tena#}
+<ls n="KATHĀS.">30,74.</ls> <ls n="KATHĀS.">52,292.</ls> {#kenApi vaRijA saha#}
+<ls n="KATHĀS.">18,292.</ls> {#saMgateH saMcarate pApam#} {%durch Verkehr%}
+<ls>Spr. (II) 1061.</ls> {#kumitre#} {%Verkehr mit%}
+<ls n="Spr. (II)">1804. 6667.</ls> {#satAm#} {%mit Guten%}
+<ls n="Spr. (II)">529.</ls> <ls>PAÑCAT. 60,9.</ls> {#prAjYetarEH#}
+<ls n="PAÑCAT.">1943, v. l. 2441. 5375. 6769.</ls> <ls>KATHĀS. 25,153.</ls> <ls n="KATHĀS.">28,191.</ls> {#yozidBiH saha#}
+<ls>Spr. (II) 3202.</ls> {#sadBiH samam#}
+<ls n="Spr. (II)">5046.</ls> {#satsaMgati#}
+<ls n="Spr. (II)">2376. 2716. 2882. 3060. 6051. 6106. 6607. 6637.</ls> <ls>KATHĀS. 17,113.</ls> {#snuzA°#}
+<ls>RĀJA-TAR. 1,308.</ls> {#BrAtfdAra°#}
+<ls>DAŚAK. 67,15. fg.</ls> {#a°#} {%keinen Umgang habend%}
+<ls>MBH. 12,13921.</ls> so v. a. {%Bündniss%}: {#vyasane sati kurvIta yena kenacitsaMgatim#}
+<ls>Spr. (II) 6319.</ls>
+<div n="1">— 3) {%das Zutreffen, Sichereignen%}: {#saMgatyA#} so v. a. {%wenn es sich so trifft, da es sich so traf, zufälliger Weise%}
+<ls>R. 2,79,3.</ls>
+<ls>MBH. 1,6110.</ls> <ls n="MBH. 1,">6943.</ls> <ls n="MBH.">3,2429</ls> (= <ls>N. 12,20</ls>). <ls n="MBH.">13,156</ls> ({#saMgatvA#} <ls>ed. Calc.</ls>; man streiche demnach die beiden letzten Stellen unter 1. {#gam#} mit {#sam#} Z. 19. fg.).
+<ls>WEBER, RĀMAT. UP. 356,5</ls> (wo so mit der Hdschr. und des Metrums wegen zu lesen ist).
+<div n="1">— 4) {%das Zutreffen, Stimmen, Passen%}: {#arTa°#}
+<ls>Verz. d. Oxf. H. 151,a,14.</ls> <ls>KATHĀS. 34,120.</ls> <ls>MUIR, ST. 4,221.</ls> <ls>Schol.</ls> zu <ls>PAÑCAV. BR. 9,1,1.</ls> <ls>SARVADARŚANAS. 12,19.</ls> = {#sidDAnta#}
+<ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 10.</ls>
+<div n="1">— 5) {%Zusammenhang, Beziehung%}: {#jalasaMgatihInA (BU)#}
+<ls>KATHĀS. 25,10.</ls> {#mano hi janmAntarasaMgatijYam#}
 [Page7-0533]
-
-<ls>RAGH. 7, 15.</ls> 
-<ls>Spr. (II) 2447.</ls> {#idAnImu ritasya devadattaSabdasya dinAntaroccAritena gacCatIti padena saMgatiH syAt#} 
-<ls>SĀH. D. 9, 1. 2. 719</ls> ({#a°#}). 
-<ls>KUSUM. 32, 4.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 20, 2 v. u.</ls> {#iti °labDaH pAWaH#} 
-<ls>Spr. (II) 4595</ls>, N. in der <is>Pūrvamīmāṃsā</is> eines der fünf Glieder ({#avayava#}) eines {#aDikaraRa#} 
-<ls>SARVADARŚANAS. 122, 21.</ls> <ls>NYĀYAMĀLĀV. 4, 5. fgg. 10, 3. fgg.</ls> <ls>Verz. d. B. H. No. 667.</ls> am Ende eines <lex>adj.</lex> comp. {#°ka#} 
-<ls>SARVADARŚANAS. 127, 2.</ls> 
-<div n="1">— 6) = {#jYAna#} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="1">— 7) 
-<ls>DHŪRTAS. 83, 3</ls> wohl fehlerhaft für {#saMgatA#} . 
+<ls>RAGH. 7,15.</ls>
+<ls>Spr. (II) 2447.</ls> {#idAnImu ritasya devadattaSabdasya dinAntaroccAritena gacCatIti padena saMgatiH syAt#}
+<ls>SĀH. D. 9,1. 2. 719</ls> ({#a°#}).
+<ls>KUSUM. 32,4.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,20,2</ls> v. u. {#iti °labDaH pAWaH#}
+<ls>Spr. (II) 4595</ls>, N. in der <is>Pūrvamīmāṃsā</is> eines der fünf Glieder ({#avayava#}) eines {#aDikaraRa#}
+<ls>SARVADARŚANAS. 122,21.</ls> <ls>NYĀYAMĀLĀV. 4,5. fgg. 10,3. fgg.</ls> <ls>Verz. d. B. H. No. 667.</ls> am Ende eines <lex>adj.</lex> comp. {#°ka#}
+<ls>SARVADARŚANAS. 127,2.</ls>
+<div n="1">— 6) = {#jYAna#}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="1">— 7)
+<ls>DHŪRTAS. 83,3</ls> wohl fehlerhaft für {#saMgatA#} .
 <div n="v">— Vgl. {#prIti°#} und {#sAMgatika#} .
 <LEND>

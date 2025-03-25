@@ -1,16 +1,16 @@
 <L>39417<pc>4-0192<k1>nirjana<k2>nirjana
-{#nirjana#}¦ ({#nis + jana#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%menschenleer%}: {#vana#} 
-<ls>N. 9, 27.</ls> 
-<ls>DRAUP. 1, 8.</ls> 
-<ls>MBH. 5, 6032. 7475.</ls> 
-<ls>R. 2, 36, 7. 60, 9. 3, 55, 42. 6, 103, 7.</ls> 
-<ls>HIT. 10, 2.</ls> {#deSa#} 
-<ls>VET.</ls> in <ls>LA. 3, 13.</ls> {#vasumatI#} 
-<ls>MBH. 11, 7.</ls> {#purI#} 
-<ls>R. GORR. 2, 57, 6.</ls> {#saBAM sa cakre nirjanAm#} 
-<ls>RĀJA-TAR. 4, 223.</ls> subst. {%Einsamkeit, Einöde%} 
-<ls>R. 2, 100, 14.</ls> 
-<ls>RĀJA-TAR. 5, 373.</ls> Davon nom. abstr. {#°tA#} f.: {#harmyasya#} 
-<ls>RĀJA-TAR. 4, 19.</ls> {#°tva#} n.: {#sTAna°#} 
-<ls>SĀH. D. 20, 15.</ls>
+{#nirjana#}¦ ({#nis + jana#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%menschenleer%}: {#vana#}
+<ls>N. 9,27.</ls>
+<ls>DRAUP. 1,8.</ls>
+<ls>MBH. 5,6032.</ls> <ls n="MBH. 5,">7475.</ls>
+<ls>R. 2,36,7.</ls> <ls n="R. 2,">60,9.</ls> <ls n="R.">3,55,42.</ls> <ls n="R.">6,103,7.</ls>
+<ls>HIT. 10,2.</ls> {#deSa#}
+<ls>VET. in LA. 3,13.</ls> {#vasumatI#}
+<ls>MBH. 11,7.</ls> {#purI#}
+<ls>R. GORR. 2,57,6.</ls> {#saBAM sa cakre nirjanAm#}
+<ls>RĀJA-TAR. 4,223.</ls> subst. {%Einsamkeit, Einöde%}
+<ls>R. 2,100,14.</ls>
+<ls>RĀJA-TAR. 5,373.</ls> Davon nom. abstr. {#°tA#} f.: {#harmyasya#}
+<ls>RĀJA-TAR. 4,19.</ls> {#°tva#} n.: {#sTAna°#}
+<ls>SĀH. D. 20,15.</ls>
 <LEND>

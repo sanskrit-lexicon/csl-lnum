@@ -1,6 +1,6 @@
 <L>5208<pc>167<k1>cud<k2>cud
-<div n="lb"/>{@CUD:@}¦ <div n="I">I Lit.: {#paSuviSezEH punaScarvaRAya muKanItaM Buktam.#}
-<div n="lb"/>Ph.: <div n="xe">{%to chew the c.:%}</div> <div n="xs">{#romanTamaByasyati,#}</div> Sa. ii.;
-<div n="lb"/><div n="xe">{%chewing the c.:%}</div> <div n="xs">{#romanTaH.#}</div> </div><div n="I">II Where it is
-<div n="lb"/>chewed: perh. {#romanTaBAgaH.#}</div>
+{@CUD:@}¦ <div n="I">I Lit.: {#paSuviSezEH punaScarvaRAya muKanItaM Buktam.#}
+Ph.: <div n="xe">{%to chew the c.:%}</div> <div n="xs">{#romanTamaByasyati,#}</div> Sa. ii.;
+<div n="xe">{%chewing the c.:%}</div> <div n="xs">{#romanTaH.#}</div> </div><div n="I">II Where it is
+chewed: perh. {#romanTaBAgaH.#}</div>
 <LEND>

@@ -1,13 +1,11 @@
 <L>102621<pc>523,1<k1>na<k2>na/<h>2<e>1
-<hom>2.</hom> <s>na/</s> ¦ <lex>ind.</lex> not, no, nor, neither, <ls>RV.</ls> (<s>nA</s>, <ls>x, 34, 8</ls>) &c. &c. (as well in simple negation as in wishing, requesting and commanding, except in prohibition before an <ab>Impv.</ab> or an augmentless <ab>aor.</ab> [<ab>cf.</ab> <hom>1.</hom> <s>mA</s>];
-in successive sentences or clauses either simply repeated <ab>e.g.</ab> <ls>Mn. iv, 34</ls>;
-or strengthened by another particle, <ab>esp.</ab> at the second place or further on in the sentence <ab>e.g.</ab> by <s>u</s> [<ab>cf.</ab> <s>no<srs/></s>], <s>uta/</s>, <s>api</s>, <s>cA<srs/>pi</s>, <s>vA</s>, <s>vA<srs/>pi</s> or <s>aTa vA</s>, <ls>RV. i, 170, 1;
-151, 9</ls>;
-<ls>Nal. iii, 24,</ls> &c.;
+<hom>2.</hom> <s>na/</s> ¦ <lex>ind.</lex> not, no, nor, neither, <ls>RV.</ls> (<s>nA</s>, <ls n="RV.">x, 34, 8</ls>) &c. &c. (as well in simple negation as in wishing, requesting and commanding, except in prohibition before an <ab>Impv.</ab> or an augmentless <ab>aor.</ab> [<ab>cf.</ab> <hom>1.</hom> <s>mA</s>];
+in successive sentences or clauses either simply repeated, <ab>e.g.</ab> <ls>Mn. iv, 34</ls>;
+or strengthened by another particle, <ab>esp.</ab> at the second place or further on in the sentence, <ab>e.g.</ab> by <s>u</s> [<ab>cf.</ab> <s>no<srs/></s>], <s>uta/</s>, <s>api</s>, <s>cA<srs/>pi</s>, <s>vA</s>, <s>vA<srs/>pi</s> or <s>aTa vA</s>, <ls>RV. i, 170, 1</ls>; <ls n="RV. i,">151, 9</ls>; <ls>Nal. iii, 24</ls>, &c.;
 it may even be replaced by <s>ca</s>, <s>vA</s>, <s>api ca</s>, <s>api vA</s>, &c. alone, as, <ls>Mn. ii, 98</ls>;
-<ls>Nal. i, 14,</ls> &c.;
-often joined with other particles, beside those mentioned above <ab>esp.</ab> with a following <s>tu</s>, <s>tv eva</s>, <s>tv eva tu</s>, <s>ce<srs/>d</s> <ab>q.v.</ab>, <s>Kalu</s> <ab>q.v.</ab>, <s>ha</s> [<ab>cf.</ab> <ab>g.</ab> <s>cA<srs/>di</s> and, <ls>Pāṇ. 8-1, 31</ls>] &c.;
-before round or collective numbers and after any numeral in the <ab>instr.</ab> or <ab>abl.</ab> it expresses deficiency <ab>e.g.</ab> <s>ekayA na viMSati</s>, not 20 by 1 <ab>i.e.</ab> 19 <ls>ŚBr.</ls>;
+<ls>Nal. i, 14</ls>, &c.;
+often joined with other particles, beside those mentioned above <ab>esp.</ab> with a following <s>tu</s>, <s>tv eva</s>, <s>tv eva tu</s>, <s>ce<srs/>d</s>, <ab>q.v.</ab>, <s>Kalu</s>, <ab>q.v.</ab>, <s>ha</s> [<ab>cf.</ab> <ab>g.</ab> <s>cA<srs/>di</s> and <ls>Pāṇ. viii, 1, 31</ls>] &c.;
+before round or collective numbers and after any numeral in the <ab>instr.</ab> or <ab>abl.</ab> it expresses deficiency, <ab>e.g.</ab> <s>ekayA na viMSati</s>, not 20 by 1 <ab>i.e.</ab> 19 <ls>ŚBr.</ls>;
 <s>paYcaBir na catvAri SatAni</s>, 395 <ls>ib.</ls>;
 with another <s>na</s> or an <s>a</s> <ab>priv.</ab> it generally forms a strong affirmation [<ab>cf.</ab> <ls>Vām. v, 1, 9</ls>] <ab>e.g.</ab> <s>ne<srs/>yaM na vakzyati</s>, she will most certainly declare, <ls>Śak. iii, 9</ls>;
 <s>nA<srs/>daRqyo 'sti</s>, he must certainly be punished, <ls>Mn. viii, 335</ls>;

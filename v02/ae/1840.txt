@@ -1,17 +1,17 @@
 <L>1840<pc>061<k1>cloth<k2>cloth
 {@Cloth,@}¦ {%s.%} {#vastraM, vAsas#} {%n.,%} {#vasanaM, celaH-laM,#}
-<div n="lb"/>{#pawaH, pariDAnaM, aMbaraM;#} ‘fine c.’ {#aMSukaM;#} ‘old,
-<div n="lb"/>tattered, c. es’ {#karpawaH, jIrRavastraM, cIraM;#}
-<div n="lb"/>‘unbleached c. {#anAhataM, nizpravARi,#}
-<div n="lb"/>{#taMtrakaM, navAMbaraM#}. {@-Clothe,@} {%v. t.%} (oneself
-<div n="lb"/>{#vAsaH#} &c. {#pariDA#} 3 U or {#grah#} 9 P; {#vas#}
-<div n="lb"/>2 A; ‘c. ing herself’ {#gfhItavasanA#}. {@2@}
-<div n="lb"/>({#vastreRa#}) {#AcCad#} 10, {#paricCad, saMvye#} 1 P;
-<div n="lb"/>{#vas#} c., {#pariDA#} c. ({#DApayati#}), {#vezw#} 1 A.
-<div n="lb"/>{@-ed, Clad,@} {%a.%} (in) {#vasAna, paridaDat#} ({%s.%})
-<div n="lb"/>in comp. {@2@} {#saMvIta, Avfta, AcCAditaM, pari-#}
-<div n="lb"/>{#-cCanna; savAsas, anagna#}. {@-ier,@} {%s.%} {#pawakAraH,#}
-<div n="lb"/>{#vastranirmAnf#} {%m.%} {@-ing,@} {%s.%} {#pariDAnaM, AcCAdanaM,#}
-<div n="lb"/>{#paricCadaH, vAsas#} {%n.,%} {#vasanaM;#} ‘food and c.’
-<div n="lb"/>{#grAsAcCAdanaM#}.
+{#pawaH, pariDAnaM, aMbaraM;#} ‘fine c.’ {#aMSukaM;#} ‘old,
+tattered, c. es’ {#karpawaH, jIrRavastraM, cIraM;#}
+‘unbleached c. {#anAhataM, nizpravARi,#}
+{#taMtrakaM, navAMbaraM#}. {@-Clothe,@} {%v. t.%} (oneself
+{#vAsaH#} &c. {#pariDA#} 3 U or {#grah#} 9 P; {#vas#}
+2 A; ‘c. ing herself’ {#gfhItavasanA#}. {@2@}
+({#vastreRa#}) {#AcCad#} 10, {#paricCad, saMvye#} 1 P;
+{#vas#} c., {#pariDA#} c. ({#DApayati#}), {#vezw#} 1 A.
+{@-ed, Clad,@} {%a.%} (in) {#vasAna, paridaDat#} ({%s.%})
+in comp. {@2@} {#saMvIta, Avfta, AcCAditaM, pari-#}
+{#-cCanna; savAsas, anagna#}. {@-ier,@} {%s.%} {#pawakAraH,#}
+{#vastranirmAnf#} {%m.%} {@-ing,@} {%s.%} {#pariDAnaM, AcCAdanaM,#}
+{#paricCadaH, vAsas#} {%n.,%} {#vasanaM;#} ‘food and c.’
+{#grAsAcCAdanaM#}.
 <LEND>

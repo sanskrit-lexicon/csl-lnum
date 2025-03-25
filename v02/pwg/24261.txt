@@ -1,39 +1,37 @@
 <L>24261<pc>2-0905<k1>cak<k2>cak
-{#cak#}¦, {#ca/kati#} und {#ca/kate#} {%befriedrigt sein; widerstehen; leuchten%} 
-<ls>DHĀTUP. 4, 19. 19, 21.</ls> 
-<div n="v">— Vgl. {#kan#} und {#kam (cakamAna#} wird von 
-<ls>DEVARĀJA</ls> auf {#cak#} zurückgeführt). {#cakita#} geht der Form nach auf {#cak#} zurück, bedeutet aber 
-<div n="1"> 1) <lex>adj.</lex> {%zitternd, erschrocken%} 
-<ls>TRIK. 3, 1, 11.</ls> 
-<ls>H. 365.</ls> {#vyADAnusAracakitA hariRIva yAsi#} 
-<ls>MṚCCH. 9, 21.</ls> {#maraRopAyacakita#} 
-<ls>BHARTṚ. 3, 10.</ls> {#pOlastyacakiteSvara#} 
-<ls>RAGH. 10, 74.</ls> 
-<ls>ŚĀK. 131.</ls> 
-<ls>PAÑCAT. 91, 2.</ls> {#kapotAvapAtaBayAccakitastUzRIM sTitaH#} 
-<ls>HIT. 14, 19.</ls> 
-<ls>AMAR. 46.</ls> {#cakitacakita Agatya#} 
-<ls>BHĀG. P. 5, 8, 18. 24, 3. 6, 3, 13.</ls> {#°nirIkzaRA#} 
-<ls>5, 8, 2.</ls> <ls>MEGH. 28. 80. 102.</ls> {#cakitam#} adv. 
-<ls>MĀLAV. 11, 3.</ls> 
-<ls>GĪT. 2, 11.</ls> 
-<ls>SĀH. D. 57, 19.</ls> {#cakitacakitam#} 
-<ls>MEGH. 14.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%das Zittern, Erschrockensein%}: {#kuto 'pi dayitasyAgre cakitaM BayasaMBramaH#} 
-<ls>SĀH. D. 58, 9. 50, 18.</ls> {#saBayacakitam#} 
-<ls>GĪT. 5, 19.</ls> {#vidyudvAridagarjitEH sacakitA#} 
-<ls>MṚCCH. 86, 20.</ls> {#sacakitanayanam#} (kann auch in {#sa + cakitana°#} zerlegt werden) 
-<ls>GĪT. 5, 10.</ls> {#sacakitam#} adv. 
-<ls>ŚĀNTIŚ. 4, 4.</ls> — {%zitternd vor Zorn%} 
-<ls>AMAR. 32.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#A#} N. eines Metrums (4 Mal  ¯ ˘ ˘ ˘ ˘ ¯ ¯ ¯, ¯ ¯ ¯  ˘ ˘ ˘ ˘ ¯) 
-<ls>COLEBR. Misc. Ess. II, 162</ls> <ls>(XI, 7).</ls> 
-<ls>Berichte d. k. s. Ges. d. Ww. phil.-hist. Śl. VI, 225.</ls>
-
-<div n="p">— {#ud#} {%aufblicken, sehen%}: {#yaM cekitAnamanu cittaya uccakanti#} {%il voit, et aprés lui voient les organes de la connaissance%} 
-<ls>?(BURN.) BHĀG. P. 6, 16, 48.</ls> Vgl. {#cAkanat#} (s. u. {#kan) = paSyatikarman#} 
-<ls>NAIGH. 3, 11.</ls>
-
-<div n="p">— {#pra#}, {#pracakita#} {%zitternd, erschrocken%} 
-<ls>PAÑCAT. I, 420.</ls>
+{#cak#}¦, {#ca/kati#} und {#ca/kate#} {%befriedigt sein; widerstehen; leuchten%}
+<ls>DHĀTUP. 4,19.</ls> <ls n="DHĀTUP.">19,21.</ls>
+<div n="v">— Vgl. {#kan#} und {#kam (cakamAna#} wird von
+<ls>DEVARĀJA</ls> auf {#cak#} zurückgeführt). {#cakita#} geht der Form nach auf {#cak#} zurück, bedeutet aber
+<div n="1"> 1) <lex>adj.</lex> {%zitternd, erschrocken%}
+<ls>TRIK. 3,1,11.</ls>
+<ls>H. 365.</ls> {#vyADAnusAracakitA hariRIva yAsi#}
+<ls>MṚCCH. 9,21.</ls> {#maraRopAyacakita#}
+<ls>BHARTṚ. 3,10.</ls> {#pOlastyacakiteSvara#}
+<ls>RAGH. 10,74.</ls>
+<ls>ŚĀK. 131.</ls>
+<ls>PAÑCAT. 91,2.</ls> {#kapotAvapAtaBayAccakitastUzRIM sTitaH#}
+<ls>HIT. 14,19.</ls>
+<ls>AMAR. 46.</ls> {#cakitacakita Agatya#}
+<ls>BHĀG. P. 5,8,18.</ls> <ls n="BHĀG. P. 5,">24,3.</ls> <ls n="BHĀG. P.">6,3,13.</ls> {#°nirIkzaRA#}
+<ls n="BHĀG. P.">5,8,2.</ls> <ls>MEGH. 28. 80. 102.</ls> {#cakitam#} adv.
+<ls>MĀLAV. 11,3.</ls>
+<ls>GĪT. 2,11.</ls>
+<ls>SĀH. D. 57,19.</ls> {#cakitacakitam#}
+<ls>MEGH. 14.</ls>
+<div n="1">— 2) <lex>n.</lex> {%das Zittern, Erschrockensein%}: {#kuto 'pi dayitasyAgre cakitaM BayasaMBramaH#}
+<ls>SĀH. D. 58,9.</ls> <ls n="SĀH. D.">50,18.</ls> {#saBayacakitam#}
+<ls>GĪT. 5,19.</ls> {#vidyudvAridagarjitEH sacakitA#}
+<ls>MṚCCH. 86,20.</ls> {#sacakitanayanam#} (kann auch in {#sa + cakitana°#} zerlegt werden)
+<ls>GĪT. 5,10.</ls> {#sacakitam#} adv.
+<ls>ŚĀNTIŚ. 4,4.</ls> — {%zitternd vor Zorn%}
+<ls>AMAR. 32.</ls>
+<div n="1">— 3) <lex>f.</lex> {#A#} N. eines Metrums (4 Mal – ⏑ ⏑ ⏑ ⏑ – – –, – – – ⏑ ⏑ ⏑ ⏑ –)
+<ls>COLEBR. Misc. Ess. II,162</ls> (<ls n="COLEBR. Misc. Ess.">XI,7</ls>).
+<ls>Berichte d. k. s. Ges. d. Ww. phil.-hist. Śl. VI,225.</ls>
+<div n="p">— {#ud#} {%aufblicken, sehen%}: {#yaM cekitAnamanu cittaya uccakanti#} {%il voit, et après lui voient les organes de la connaissance%}
+(<ls>BURN.</ls>) <ls>BHĀG. P. 6,16,48.</ls> Vgl. {#cAkanat#} (s. u. {#kan) = paSyatikarman#}
+<ls>NAIGH. 3,11.</ls>
+<div n="p">— {#pra#}, {#pracakita#} {%zitternd, erschrocken%}
+<ls>PAÑCAT. I,420.</ls>
 <LEND>

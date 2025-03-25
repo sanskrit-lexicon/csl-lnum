@@ -1,52 +1,50 @@
 <L>88925<pc>6-0839<k1>vasana<k2>va/sana<h>1
-1. {#va/sana#}¦ (von 3. {#vas#}) <lex>m.</lex> <lex>n.</lex> 
-<ls>SIDDH. K.249,a,10.</ls> 
-<div n="1"> 1) <lex>n.</lex> {%Gewand, Kleid; Tuch, Zeug%} 
-<ls>AK. 2, 6, 3, 17.</ls> 
-<ls>H. 666.</ls> = {#vastra#} und {#CAdana#} an. 
-<ls>3, 410.</ls> <ls>MED. n. 121.</ls> {#navA^ mA\tfByo\ vasa^nA jahAti#} 
-<ls>ṚV. 1, 95, 7.</ls> 
-<ls>ĀŚV. ŚR. 4, 4, 6.</ls> {#tasyororvasanamapocCAdya#} 
-<ls>5, 6, 10.</ls> <ls>LĀṬY. 2, 6, 1. 8, 23.</ls> {#Avika#} 
-<ls>8, 6, 20.</ls> {#ahata#} 
-<ls>9, 8, 4.</ls> <ls>KAUŚ. 54.</ls> {#Suci#} 
-<ls>GOBH. 2, 8, 2.</ls> {#kzOmaSARakArpAsOrRa#} 
-<ls>10, 5.</ls> {#kfzRa°#} 
-<ls>KAUŚ. 31. 83.</ls> 
-<ls>NIR. 8, 9.</ls> 
-<ls>CHĀND. UP. 8, 8, 5.</ls> 
-<ls>KAUṢ. UP. 2, 15.</ls> 
-<ls>M. 2, 174.</ls> {#vasanasya daSA#} 
-<ls>3, 4.</ls> {#jIrRa#} 
-<ls>10, 125.</ls> <ls>SUŚR. 1, 168, 14.</ls> <ls>MBH. 1, 5104. 5, 5332.</ls> <ls>R. 3, 55, 14. 5, 19, 10. 36, 37.</ls> <ls>MEGH. 42.</ls> <ls>VIKR. 115.</ls> {#diSo 'pi vasanam#} 
-<ls>Spr. 1339. 4702.</ls> {#vasanaM ca valkalam#} 
-<ls>2727.</ls> {#SIte 'tIte vasanam#} 
-<ls>2989. 2045. 3322. 4462. 4795.</ls> <ls>VARĀH. BṚH. S. 52,3. 104,27.</ls> <ls>GĪT. 1,12.</ls> <ls>Verz. d. Oxf. H. 103,b,24.</ls> {#pIta°#} <lex>adj.</lex> 
-<ls>BHĀG. P. 10, 16, 9.</ls> {#koSakAra°#} 
-<ls>VARĀH. BṚH. 27 (25), 31.</ls> {#virAga°#} 
-<ls>MBH. 2, 824.</ls> {#nAnAvirAga°#} 
-<ls>R. 4, 33, 28.</ls> {#kucayugme visrastavasane#} 
-<ls>KATHĀS. 55, 119.</ls> {#malina° (utsaNga)#} 
-<ls>MEGH. 84.</ls> {#gale badDvA ca vasanam#} 
-<ls>PAÑCAR. 1, 8, 14.</ls> du. {%Ober- und Untergewand%} 
-<ls>R. 2, 37, 8. 39, 6. 55, 17.</ls> 
-<ls>ŚĀK. 180.</ls> {#eka°#} <lex>adj.</lex> 
-<ls>MBH. 1, 5078. 3, 2589.</ls> {#prAvAra°#} <lex>adj.</lex> 
-<ls>MBH. 2, 2071.</ls> {#cIra°#} <lex>adj.</lex> 
-<ls>HARIV. 10248.</ls> 
-<ls>R. 2, 52, 64. 75, 12. 101, 21.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 37, 14. 81, 18. 99, 14. 4, 1, 8.</ls> 
-<ls>KATHĀS. 4, 69.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} 
-<ls>MBH. 1, 5078. 3, 2959. 7, 896. 13, 5865.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 65, 7. 5, 10, 1. 13, 35. 22, 30. 54, 15.</ls> 
-<ls>KĀM. NĪTIS. 7, 49.</ls> <ls>AK. 2, 6, 1, 17.</ls> <ls>H. 531.</ls> <ls>KATHĀS. 38, 124.</ls> <ls>PAÑCAR. 3, 7, 37.</ls> {#urvI samudravasanA#} 
-(v. l. {#°rasanA#}) {%meerumkleidet%} 
-<ls>ŚĀK. 68.</ls> {#vikalpa°#} <lex>adj.</lex> {%gehüllt in%} so v. a. (einer Lehre) {%anhängend%} 
-<ls>BHĀG. P. 1, 17, 19.</ls> {#vasana#} <lex>n.</lex> und {#vasanA#} <lex>f.</lex> = {#strIkawIBUzaRa#} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%Belagerung%} 
-<ls>Ind. St. 10, 165. 198.</ls> 
+1. {#va/sana#}¦ (von 3. {#vas#}) <lex>m.</lex> <lex>n.</lex>
+<ls>SIDDH. K. 249,a,10.</ls>
+<div n="1"> 1) <lex>n.</lex> {%Gewand, Kleid; Tuch, Zeug%}
+<ls>AK. 2,6,3,17.</ls>
+<ls>H. 666.</ls> = {#vastra#} und {#CAdana#}
+<ls n="H.">an. 3,410.</ls> <ls>MED. n. 121.</ls> {#navA^ mA\tfByo\ vasa^nA jahAti#}
+<ls>ṚV. 1,95,7.</ls>
+<ls>ĀŚV. ŚR. 4,4,6.</ls> {#tasyororvasanamapocCAdya#}
+<ls n="ĀŚV. ŚR.">5,6,10.</ls> <ls>LĀṬY. 2,6,1. 8,23.</ls> {#Avika#}
+<ls n="LĀṬY.">8,6,20.</ls> {#ahata#}
+<ls n="LĀṬY.">9,8,4.</ls> <ls>KAUŚ. 54.</ls> {#Suci#}
+<ls>GOBH. 2,8,2.</ls> {#kzOmaSARakArpAsOrRa#}
+<ls n="GOBH.">10,5.</ls> {#kfzRa°#}
+<ls>KAUŚ. 31. 83.</ls>
+<ls>NIR. 8,9.</ls>
+<ls>CHĀND. UP. 8,8,5.</ls>
+<ls>KAUṢ. UP. 2,15.</ls>
+<ls>M. 2,174.</ls> {#vasanasya daSA#}
+<ls n="M.">3,4.</ls> {#jIrRa#}
+<ls n="M.">10,125.</ls> <ls>SUŚR. 1,168,14.</ls> <ls>MBH. 1,5104.</ls> <ls n="MBH.">5,5332.</ls> <ls>R. 3,55,14.</ls> <ls n="R.">5,19,10</ls> <ls n="R. 5,">36,37.</ls> <ls>MEGH. 42.</ls> <ls>VIKR. 115.</ls> {#diSo 'pi vasanam#}
+<ls>Spr. 1339.</ls> <ls n="Spr.">4702.</ls> {#vasanaM ca valkalam#}
+<ls n="Spr.">2727.</ls> {#SIte 'tIte vasanam#}
+<ls n="Spr.">2989.</ls> <ls n="Spr.">2045.</ls> <ls n="Spr.">3322.</ls> <ls n="Spr.">4462.</ls> <ls n="Spr.">4795.</ls> <ls>VARĀH. BṚH. S. 52,3. 104,27.</ls> <ls>GĪT. 1,12.</ls> <ls>Verz. d. Oxf. H. 103,b,24.</ls> {#pIta°#} <lex>adj.</lex>
+<ls>BHĀG. P. 10,16,9.</ls> {#koSakAra°#}
+<ls>VARĀH. BṚH. 27 (25),31.</ls> {#virAga°#}
+<ls>MBH. 2,824.</ls> {#nAnAvirAga°#}
+<ls>R. 4,33,28.</ls> {#kucayugme visrastavasane#}
+<ls>KATHĀS. 55,119.</ls> {#malina° (utsaNga)#}
+<ls>MEGH. 84.</ls> {#gale badDvA ca vasanam#}
+<ls>PAÑCAR. 1,8,14.</ls> du. {%Ober- und Untergewand%}
+<ls>R. 2,37,8.</ls> <ls n="R. 2,">39,6.</ls> <ls n="R. 2,">55,17.</ls>
+<ls>ŚĀK. 180.</ls> {#eka°#} <lex>adj.</lex>
+<ls>MBH. 1,5078.</ls> <ls n="MBH.">3,2589.</ls> {#prAvAra°#} <lex>adj.</lex>
+<ls>MBH. 2,2071.</ls> {#cIra°#} <lex>adj.</lex>
+<ls>HARIV. 10248.</ls>
+<ls>R. 2,52,64.</ls> <ls n="R. 2,">75,12.</ls> <ls n="R. 2,">101,21.</ls>
+<ls>R. GORR. 2,37,14.</ls> <ls n="R. GORR. 2,">81,18.</ls> <ls n="R. GORR. 2,">99,14.</ls> <ls n="R. GORR.">4,1,8.</ls>
+<ls>KATHĀS. 4,69.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+<ls>MBH. 1,5078.</ls> <ls n="MBH.">3,2959.</ls> <ls n="MBH.">7,896.</ls> <ls n="MBH.">13,5865.</ls>
+<ls>R. GORR. 1,65,7.</ls> <ls n="R. GORR.">5,10,1.</ls> <ls n="R. GORR. 5,">13,35.</ls> <ls n="R. GORR. 5,">22,30.</ls> <ls n="R. GORR. 5,">54,15.</ls>
+<ls>KĀM. NĪTIS. 7,49.</ls> <ls>AK. 2,6,1,17.</ls> <ls>H. 531.</ls> <ls>KATHĀS. 38,124.</ls> <ls>PAÑCAR. 3,7,37.</ls> {#urvI samudravasanA#}
+(v. l. {#°rasanA#}) {%meerumkleidet%}
+<ls>ŚĀK. 68.</ls> {#vikalpa°#} <lex>adj.</lex> {%gehüllt in%} so v. a. (einer Lehre) {%anhängend%}
+<ls>BHĀG. P. 1,17,19.</ls> {#vasana#} <lex>n.</lex> und {#vasanA#} <lex>f.</lex> = {#strIkawIBUzaRa#}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 2) <lex>n.</lex> {%Belagerung%}
+<ls>Ind. St. 10,165. 198.</ls>
 <div n="v">— Vgl. {#carma°, nIla°, Badra°, mukta°, vi°, su°#} und {#dIkzita°#} unter {#dIkzita#} .
 <LEND>

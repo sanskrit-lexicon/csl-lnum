@@ -1,7 +1,7 @@
 <L>7155<pc>227<k1>early<k2>early
-<div n="lb"/>{@EARLY@}¦ (adv.): <div n="I">I In the morning: </div><div n="1">(1) {#prAtar;#}</div>
-<div n="lb"/><div n="1">(2) {#pratyUzasi:#} v. Morning. Ph.: <div n="xe">{%very e. in the%}
-<div n="lb"/>{%morning:%}</div> <div n="xs">{#atipratyUze#}</div> <div n="xe">{%or%}</div> <div n="xs">{#mahati pratyUze,#}</div> Sa. </div><div n="I">II Soon:
-<div n="lb"/>q. v.: </div><div n="1">(1) {#SIDram;#} </div><div n="1">(2) {#acireRa.#} </div><div n="I">III First:
-<div n="lb"/>q. v.: {#pUrvam.#}</div>
+{@EARLY@}¦ (adv.): <div n="I">I In the morning: </div><div n="1">(1) {#prAtar;#}</div>
+<div n="1">(2) {#pratyUzasi:#} v. Morning. Ph.: <div n="xe">{%very e. in the%}
+{%morning:%}</div> <div n="xs">{#atipratyUze#}</div> <div n="xe">{%or%}</div> <div n="xs">{#mahati pratyUze,#}</div> Sa. </div><div n="I">II Soon:
+q. v.: </div><div n="1">(1) {#SIDram;#} </div><div n="1">(2) {#acireRa.#} </div><div n="I">III First:
+q. v.: {#pUrvam.#}</div>
 <LEND>

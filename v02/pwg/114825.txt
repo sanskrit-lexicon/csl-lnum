@@ -1,12 +1,12 @@
 <L>114825<pc>7-1415<k1>svakarman<k2>svakarman
-{#svakarman#}¦ <lex>n.</lex> 
-<div n="1"> 1) {%die eigene That%}: {#svakarma KyApayan#} 
-<ls>M. 11, 99. 122.</ls> 
-<ls>HIT. 43, 2. 44, 3.</ls> {#svakarmaja#} {%selbstverschuldet%}: {#duHKa#} 
-<ls>R. 2, 64, 12.</ls> 
-<div n="1">— 2) {%die Beschäftigung —, Obliegenheit eines Mannes%} 
-<ls>ŚĀṄKH. ŚR. 7, 7, 4.</ls> 
-<ls>M. 1, 53. 2, 183. 8, 206. fg. 418. 9, 115. 207. 10, 1. 24. 40. 50. 74. 80.</ls> 
-<ls>KAP. 3, 35.</ls> {#svakarmAnuzWIyatAm#} 
-<ls>ŚĀK. 80, 3.</ls>
+{#svakarman#}¦ <lex>n.</lex>
+<div n="1"> 1) {%die eigene That%}: {#svakarma KyApayan#}
+<ls>M. 11,99.</ls> <ls n="M. 11,">122.</ls>
+<ls>HIT. 43,2.</ls> <ls n="HIT.">44,3.</ls> {#svakarmaja#} {%selbstverschuldet%}: {#duHKa#}
+<ls>R. 2,64,12.</ls>
+<div n="1">— 2) {%die Beschäftigung —, Obliegenheit eines Mannes%}
+<ls>ŚĀṄKH. ŚR. 7,7,4.</ls>
+<ls>M. 1,53.</ls> <ls n="M.">2,183.</ls> <ls n="M.">8,206. fg.</ls> <ls n="M. 8,">418.</ls> <ls n="M.">9,115.</ls> <ls n="M. 9,">207.</ls> <ls n="M.">10,1.</ls> <ls n="M. 10,">24.</ls> <ls n="M. 10,">40.</ls> <ls n="M. 10,">50.</ls> <ls n="M. 10,">74.</ls> <ls n="M. 10,">80.</ls>
+<ls>KAP. 3,35.</ls> {#svakarmAnuzWIyatAm#}
+<ls>ŚĀK. 80,3.</ls>
 <LEND>

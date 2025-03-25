@@ -1,4 +1,4 @@
 <L>13172<pc>406<k1>landlady<k2>landlady
-<div n="lb"/>{@LANDLADY:@}¦ <div n="I">I Of a house: {#gfhasvAminI#} (?).</div>
-<div n="lb"/><div n="I">II Of land: {#BUsvAminI#} (?).</div>
+{@LANDLADY:@}¦ <div n="I">I Of a house: {#gfhasvAminI#} (?).</div>
+<div n="I">II Of land: {#BUsvAminI#} (?).</div>
 <LEND>

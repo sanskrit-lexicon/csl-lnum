@@ -1,7 +1,7 @@
 <L>150727<pc>756,3<k1>Bid<k2>Bid<h>1<e>1
-<hom>1.</hom> <s>Bid</s> ¦ <ab>cl.</ab> 7.<ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. xix, 2</ls>) <s>Bina/tti</s>, <s>Bintte</s> (<ab>impf.</ab> 2. 3. <ab>sg.</ab> <s>a/Binat</s>, <ls>RV.</ls>; <ab>Subj.</ab> <s>Bina/daH</s>, <ls>ib.</ls>; <ab>Impv.</ab> <s>binDi/</s>, <ls>ib.</ls>; <s>bindDi</s>, <ls>Var.</ls> [<ab>cf.</ab> <s>bindDi-lavaRA</s>]; <ab>cl.</ab> 1. <ab>P.</ab> <s>Be/dati</s>, <ls>RV.</ls>; <ab>Pot.</ab> <s>Bideyam</s>, <ls>AV.</ls>; <ab>pf.</ab> <s>biBe/da</s>, <ls>RV.</ls>; <ab>aor.</ab>, 2. 3. <ab>sg.</ab> <s>Be/t</s>, <ls>RV.</ls> <s>aBEtsIt</s>, <ls>R.</ls>; <s>BitTAs</s>, <ls>TS.</ls>; <ab>Prec.</ab> <s>BitsIzwa</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>Betsya/ti</s>, <s>°te</s>, <ls>Br.</ls> &c.; <ab>Cond.</ab> <s>aBetsyat</s>, <ls>Up.</ls>; <ab>fut.</ab> <s>BettA</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>Be/ttavE/</s>, <ls>ŚBr.</ls>; <s>Bettum</s>, <ls>ib.</ls> &c.; <ab>ind.p.</ab> <s>BittvA/</s>, <s>-Bidya</s>, <ls>RV.</ls> &c.), 
-<div n="to"/>to split, cleave, break, cut or rend asunder, pierce, destroy, <ls>RV.</ls> &c. &c.,;
-<div n="to"/>to pass through (as a planet or, comet), <ls>Hariv.</ls>; <ls>Var.</ls>;
+<hom>1.</hom> <s>Bid</s> ¦ <ab>cl.</ab> 7.<ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xix, 2</ls>) <s>Bina/tti</s>, <s>Bintte</s> (<ab>impf.</ab> 2. 3. <ab>sg.</ab> <s>a/Binat</s>, <ls>RV.</ls>; <ab>Subj.</ab> <s>Bina/daH</s>, <ls>ib.</ls>; <ab>Impv.</ab> <s>binDi/</s>, <ls>ib.</ls>; <s>bindDi</s>, <ls>Var.</ls> [<ab>cf.</ab> <s>bindDi-lavaRA</s>]; <ab>cl.</ab> 1. <ab>P.</ab> <s>Be/dati</s>, <ls>RV.</ls>; <ab>Pot.</ab> <s>Bideyam</s>, <ls>AV.</ls>; <ab>pf.</ab> <s>biBe/da</s>, <ls>RV.</ls>; <ab>aor.</ab>, 2. 3. <ab>sg.</ab> <s>Be/t</s>, <ls>RV.</ls> <s>aBEtsIt</s>, <ls>R.</ls>; <s>BitTAs</s>, <ls>TS.</ls>; <ab>Prec.</ab> <s>BitsIzwa</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>Betsya/ti</s>, <s>°te</s>, <ls>Br.</ls> &c.; <ab>Cond.</ab> <s>aBetsyat</s>, <ls>Up.</ls>; <ab>fut.</ab> <s>BettA</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>Be/ttavE/</s>, <ls>ŚBr.</ls>; <s>Bettum</s>, <ls>ib.</ls> &c.; <ab>ind.p.</ab> <s>BittvA/</s>, <s>-Bidya</s>, <ls>RV.</ls> &c.),
+<div n="to"/>to split, cleave, break, cut or rend asunder, pierce, destroy, <ls>RV.</ls> &c. &c.;
+<div n="to"/>to pass through (as a planet or comet), <ls>Hariv.</ls>; <ls>Var.</ls>;
 <div n="to"/>to disperse (darkness), <ls>R.</ls>; <ls>Śak.</ls>;
 <div n="to"/>to transgress, violate, (a compact or alliance), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to open, expand, <ls>MaitrUp.</ls>; <ls>Megh.</ls>;
@@ -10,8 +10,8 @@
 <div n="to"/>to disclose, betray, <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to disunite, set at variance, <ls>ib.</ls>;
 <div n="to"/>to distinguish, discriminate, <ls>L.</ls> :
-<div n="vp"/><ab>Pass.</ab> <s>Bidya/te</s> (<ab>ep.</ab> also <s>°ti</s> <ab>aor.</ab> <s>aBedi</s>, <ls>Br.</ls>; <ls>MBh.</ls> &c.; <ab>pf.</ab> <s>biBide</s>, <ls>Kālid.</ls>), 
-<div n="to"/>to be split or broken, burst (intrans.), <ls>Br.</ls> &c. &c.;
+<div n="vp"/><ab>Pass.</ab> <s>Bidya/te</s> (<lang>ep.</lang> also <s>°ti</s> <ab>aor.</ab> <s>aBedi</s>, <ls>Br.</ls>; <ls>MBh.</ls> &c.; <ab>pf.</ab> <s>biBide</s>, <ls>Kālid.</ls>),
+<div n="to"/>to be split or broken, burst (<ab>intrans.</ab>), <ls>Br.</ls> &c. &c.;
 <div n="to"/>to be opened (as a closed hand, eyes &c.), <ls>Kāv.</ls>; <ls>Pur.</ls>;
 <div n="to"/>to overflow (as water), <ls>R.</ls>; <ls>Hariv.</ls>;
 <div n="to"/>to be loosened, become loose, <ls>MuṇḍUp.</ls>; <ls>Kāv.</ls>;
@@ -21,10 +21,10 @@
 <div n="to"/>to be disunited, <ls>MBh.</ls>;
 <div n="to"/>to keep aloof from (<ab>instr.</ab>), <ls>ib.</ls>;
 <div n="to"/>to be distinguished, differ from (<ab>abl.</ab>), <ls>Sāṃkhyak.</ls>; <ls>Kāv.</ls> &c.:
-<div n="vp"/><ab>Caus.</ab> <s>Bedayati</s>, <s>°te</s> (<ab>aor.</ab> <s>abIBidat</s>; <ab>cf.</ab> also <s>BidApana</s>), 
+<div n="vp"/><ab>Caus.</ab> <s>Bedayati</s>, <s>°te</s> (<ab>aor.</ab> <s>abIBidat</s>; <ab>cf.</ab> also <s>BidApana</s>),
 <div n="to"/>to cause to split or break &c.;
 <div n="to"/>to split, break, shatter, crush, destroy, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Hit.</ls>;
-<div n="to"/>to separate, divide (See <s>Bedita</s>);
+<div n="to"/>to separate, divide (see <s>Bedita</s>);
 <div n="to"/>to disunite, set at variance, perplex, unsettle (in opinion), seduce, win over, <ls>MBh.</ls>; <ls>R.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>bi/Bitsati</s>, <s>°te</s>, to wish to break through or disperse or defeat, <ls>RV.</ls>; <ls>MBh.</ls> (<ab>cf.</ab>, <s>biBitsA</s>) :
 <div n="vp"/><ab>Desid.</ab> of <ab>Caus.</ab> See <s>biBedayizu</s>:

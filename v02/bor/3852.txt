@@ -1,15 +1,15 @@
 <L>3852<pc>126<k1>close<k2>close
-<div n="lb"/>{@CLOSE@}¦ (adj.): <div n="I">I Shut fast: </div><div n="1">(1) {#pihitaH#} ({#tA, #}
-<div n="lb"/>{# taM#}); </div><div n="1">(2) {#saMvftaH#} ({#tA, taM#}); </div><div n="1">(3) {#badDaH#} ({#dDA, dDaM#})
-<div n="lb"/>(=bound). </div><div n="I">II Secret, retired: q. v.:
-<div n="lb"/>{#viviktaH#} ({#ktA, ktaM#}). </div><div n="I">III Confined, as air: {#nirudDaH#}
-<div n="lb"/>({#dDA, dDaM#}). </div><div n="I">IV Reticent, taciturn: q. v. V.
-<div n="lb"/>Niggardly: q. v.: {#badDamuzwi#} (mfn.). </div><div n="I">VI Dense,
-<div n="lb"/>compact: q. v.: {#GanaH#} ({#nA, naM#}). </div><div n="I">VII Ad-
-<div n="lb"/>-joining, near: q. v.: {#sannihitaH#} ({#tA, taM#}), <div n="xe">{%are%}
-<div n="lb"/>{%always c. at hand:%}</div> <div n="xs">{#haste nityasAnniDyAni,#}</div> D. </div><div n="I">VIII
-<div n="lb"/>Of style: v. Concise. </div><div n="I">IX Intimate: </div><div n="1">(1)
-<div n="lb"/>{#GanaH#} ({#nA, naM#}); </div><div n="1">(2) {#niviqaH#} ({#qA, qaM#}), <div n="xe">{%very c.%}
-<div n="lb"/>{%friendship:%}</div> <div n="xs">{#niviqatamA mEtrI,#}</div> Bha. </div><div n="I">X Accurate,
-<div n="lb"/>careful: q. v.</div>
+{@CLOSE@}¦ (adj.): <div n="I">I Shut fast: </div><div n="1">(1) {#pihitaH#} ({#tA, #}
+{# taM#}); </div><div n="1">(2) {#saMvftaH#} ({#tA, taM#}); </div><div n="1">(3) {#badDaH#} ({#dDA, dDaM#})
+(=bound). </div><div n="I">II Secret, retired: q. v.:
+{#viviktaH#} ({#ktA, ktaM#}). </div><div n="I">III Confined, as air: {#nirudDaH#}
+({#dDA, dDaM#}). </div><div n="I">IV Reticent, taciturn: q. v. V.
+Niggardly: q. v.: {#badDamuzwi#} (mfn.). </div><div n="I">VI Dense,
+compact: q. v.: {#GanaH#} ({#nA, naM#}). </div><div n="I">VII Ad-
+-joining, near: q. v.: {#sannihitaH#} ({#tA, taM#}), <div n="xe">{%are%}
+{%always c. at hand:%}</div> <div n="xs">{#haste nityasAnniDyAni,#}</div> D. </div><div n="I">VIII
+Of style: v. Concise. </div><div n="I">IX Intimate: </div><div n="1">(1)
+{#GanaH#} ({#nA, naM#}); </div><div n="1">(2) {#niviqaH#} ({#qA, qaM#}), <div n="xe">{%very c.%}
+{%friendship:%}</div> <div n="xs">{#niviqatamA mEtrI,#}</div> Bha. </div><div n="I">X Accurate,
+careful: q. v.</div>
 <LEND>

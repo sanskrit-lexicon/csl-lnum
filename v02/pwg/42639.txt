@@ -1,12 +1,12 @@
 <L>42639<pc>4-0511<k1>parikartana<k2>parikartana
-{#parikartana#}¦ (von 1. {#kart#} mit {#pari#}) 
-<div n="1"> 1) <lex>adj.</lex> {%zerschneidend%}: {#alohaM niSitaM SastraM SarIraparikartanam#} 
-<ls>MBH. 1, 5755.</ls> {#kzuro BUtvA haretprARAnniSitaH kAlasADanaH . praticCanno lomahArI dvizatAM parikartanaH ..#} 
-<ls>5630.</ls> 
-<div n="1">— 2) <lex>n.</lex> 
-<div n="2"> a) {%das Ausschneiden, Ausschälen%} 
-<ls>SUŚR. 1, 29, 3.</ls> 
-<div n="2">— b) {%Schneiden, stechender Schmerz%}: {#gudanABimeQravastiSirassu#} 
-<ls>SUŚR. 2, 194, 9.</ls> {#guda°#} 
-<ls>191, 4. 1, 258, 18.</ls>
+{#parikartana#}¦ (von 1. {#kart#} mit {#pari#})
+<div n="1"> 1) <lex>adj.</lex> {%zerschneidend%}: {#alohaM niSitaM SastraM SarIraparikartanam#}
+<ls>MBH. 1,5755.</ls> {#kzuro BUtvA haretprARAnniSitaH kAlasADanaH . praticCanno lomahArI dvizatAM parikartanaH ..#}
+<ls n="MBH. 1,">5630.</ls>
+<div n="1">— 2) <lex>n.</lex>
+<div n="2"> a) {%das Ausschneiden, Ausschälen%}
+<ls>SUŚR. 1,29,3.</ls>
+<div n="2">— b) {%Schneiden, stechender Schmerz%}: {#gudanABimeQravastiSirassu#}
+<ls>SUŚR. 2,194,9.</ls> {#guda°#}
+<ls n="SUŚR.">191,4. 1,258,18.</ls>
 <LEND>

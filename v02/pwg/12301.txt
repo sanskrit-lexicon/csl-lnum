@@ -1,13 +1,13 @@
 <L>12301<pc>1-0989<k1>upAlamBa<k2>upAlamBa
-{#upAlamBa#}¦ (wie eben) <lex>m.</lex> {%Zurechtweisung, Tadel, Vorwurf%} 
-<ls>AK. 1, 1, 5, 15.</ls> 
-<ls>H. 274.</ls> 
-<ls>MBH. 3, 1047. 13699.</ls> 
-<ls>R. 6, 89</ls> in der Unterschr. 
-<ls>MṚCCH. 86, 7.</ls> 
-<ls>HIT. I, 27.</ls> {#tadasyA devIM vasumatImantareRa mahAntamupAlamBamaDigato 'smi#} 
-<ls>ŚĀK. 59, 14, v. l.</ls> {#anupa°#} 
-<ls>NIR. 1, 14.</ls> {#sopAlamBa#} 
-<ls>R. 6, 99, 27.</ls> 
-<ls>KATHĀS. 26, 128.</ls>
+{#upAlamBa#}¦ (wie eben) <lex>m.</lex> {%Zurechtweisung, Tadel, Vorwurf%}
+<ls>AK. 1,1,5,15.</ls>
+<ls>H. 274.</ls>
+<ls>MBH. 3,1047.</ls> <ls n="MBH. 3,">13699.</ls>
+<ls>R. 6,89</ls> in der Unterschr.
+<ls>MṚCCH. 86,7.</ls>
+<ls>HIT. I,27.</ls> {#tadasyA devIM vasumatImantareRa mahAntamupAlamBamaDigato 'smi#}
+<ls>ŚĀK. 59,14, v. l.</ls> {#anupa°#}
+<ls>NIR. 1,14.</ls> {#sopAlamBa#}
+<ls>R. 6,99,27.</ls>
+<ls>KATHĀS. 26,128.</ls>
 <LEND>

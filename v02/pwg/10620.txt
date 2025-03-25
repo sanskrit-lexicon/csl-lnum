@@ -1,24 +1,24 @@
 <L>10620<pc>1-0867<k1>uKa<k2>uKa/
-{#uKa/#}¦ 
-<div n="1"> 1) <lex>m.</lex> 
-<div n="2"> a) {%Kochtopf, Schüssel%} 
-<ls>AV. 11, 3, 18.</ls> 
-<div n="2">— b) N. pr. ein Schüler <is>Tittiri's</is> 
-<ls>TS. ANUKR.</ls> in <ls>Ind. St. 1, 71, N.</ls> 
-<div n="1">— 2) {#uKA/#} <lex>f.</lex> 
-<ls>ŚĀNT. 1, 6.</ls> 
-<div n="2"> a) {%Kochtopf; Feuerschüssel%} 
-<ls>AK. 2, 9, 31.</ls> 
-<ls>H. 1019. 411.</ls> {#mA\Mspaca^nI#} 
-<ls>ṚV. 1, 162, 13.</ls> <ls n="ṚV. 1, 162,">15.</ls> <ls n="ṚV.">3, 53, 22.</ls> 
-<ls>AV. 12, 3, 23.</ls> 
-<ls>VS. 11, 56. 57</ls> <ls>?(MAHĪDH. zu d. St.).</ls> {#kf\tvAya\ sA ma\hImu\KAM mf\nmayI\M yoni^ma\gnaye^#} 
-<ls>59.</ls> <ls>TS. 5, 1, 6, 3.</ls> <ls>ŚAT. BR. 1, 7, 1, 10. 11. 6, 2, 2, 2. 3. fgg. 3, 3, 15. 5, 2, 6. fgg. 7, 5, 1, 26. fgg. 10, 1, 5, 1. 4, 1, 1.</ls> <ls>KĀTY. ŚR. 16, 3, 23. 4, 8. fgg. 7, 8. fgg.</ls> {#saMdIpanavatIH pratyagnimaDiSrayantyuKAH#} 
-<ls>25, 7, 12.</ls> <ls>NIR. 10, 45.</ls> <ls>SUŚR. 1, 53, 20.</ls> {#uKAsaMBaraRa#} heisst das 6te Buch des 
-<ls>ŚAT. BR.</ls> {#uKAsras#} 
-<ls>Sch.</ls> zu <ls>P. 3, 2, 76. 7, 1, 70. 8, 2, 72</ls> und <ls>4, 1, 6, <is>Vārtt</is>.</ls> 
-<div n="2">— b) {%ein best. Theil des Körpers%}; am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} <is>gaṇa</is> {#kroqAdi#} zu 
-<ls>P. 4, 1, 56.</ls> — Vielleicht aus {#utKA#} (von {#Kan#} mit {#ud#}) verstümmelt; vgl. 
-<ls>ŚAT. BR. 6, 7, 1, 23.</ls> 
-<ls>Sch.</ls> zu <ls>P. 3, 2, 101, <is>Vārtt</is>.</ls>
+{#uKa/#}¦
+<div n="1"> 1) <lex>m.</lex>
+<div n="2"> a) {%Kochtopf, Schüssel%}
+<ls>AV. 11,3,18.</ls>
+<div n="2">— b) N. pr. ein Schüler <is>Tittiri's</is>
+<ls>TS. ANUKR.</ls> in <ls>Ind. St. 1,71, N.</ls>
+<div n="1">— 2) {#uKA/#} <lex>f.</lex>
+<ls>ŚĀNT. 1,6.</ls>
+<div n="2"> a) {%Kochtopf; Feuerschüssel%}
+<ls>AK. 2,9,31.</ls>
+<ls>H. 1019.</ls> <ls n="H.">411.</ls> {#mA\Mspaca^nI#}
+<ls>ṚV. 1,162,13.</ls> <ls n="ṚV. 1,162,">15.</ls> <ls n="ṚV.">3,53,22.</ls>
+<ls>AV. 12,3,23.</ls>
+<ls>VS. 11,56. 57</ls> (<ls>MAHĪDH.</ls> zu d. St.). {#kf\tvAya\ sA ma\hImu\KAM mf\nmayI\M yoni^ma\gnaye^#}
+<ls n="VS. 11,">59.</ls> <ls>TS. 5,1,6,3.</ls> <ls>ŚAT. BR. 1,7,1,10.</ls> <ls n="ŚAT. BR. 1,7,1,">11.</ls> <ls n="ŚAT. BR.">6,2,2,2.</ls> <ls n="ŚAT. BR. 6,2,2,">3. fgg.</ls> <ls n="ŚAT. BR. 6,">3,3,15.</ls> <ls n="ŚAT. BR. 6,">5,2,6. fgg.</ls> <ls n="ŚAT. BR.">7,5,1,26. fgg.</ls> <ls n="ŚAT. BR.">10,1,5,1.</ls> <ls n="ŚAT. BR. 10,">4,1,1.</ls> <ls>KĀTY. ŚR. 16,3,23.</ls> <ls n="KĀTY. ŚR. 16,">4,8. fgg.</ls> <ls n="KĀTY. ŚR. 16,">7,8. fgg.</ls> {#saMdIpanavatIH pratyagnimaDiSrayantyuKAH#}
+<ls n="KĀTY. ŚR.">25,7,12.</ls> <ls>NIR. 10,45.</ls> <ls>SUŚR. 1,53,20.</ls> {#uKAsaMBaraRa#} heisst das 6te Buch des
+<ls>ŚAT. BR.</ls> {#uKAsras#}
+<ls>Sch.</ls> zu <ls>P. 3,2,76.</ls> <ls n="P.">7,1,70.</ls> <ls n="P.">8,2,72</ls> und <ls n="P.">4,1,6</ls>, <is>Vārtt</is>.
+<div n="2">— b) {%ein best. Theil des Körpers%}; am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} <is>gaṇa</is> {#kroqAdi#} zu
+<ls>P. 4,1,56.</ls> — Vielleicht aus {#utKA#} (von {#Kan#} mit {#ud#}) verstümmelt; vgl.
+<ls>ŚAT. BR. 6,7,1,23.</ls>
+<ls>Sch.</ls> zu <ls>P. 3,2,101</ls>, <is>Vārtt</is>.
 <LEND>

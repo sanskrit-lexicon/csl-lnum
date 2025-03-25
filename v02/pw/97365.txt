@@ -1,19 +1,19 @@
-<L>97365<pc>6005-2<k1>vacana<k2>vacana/<e>100
+<L>97365<pc>6-005-b<k1>vacana<k2>vacana/
 {#vacana/#}¦
-<div n="1">— 1) <lex>Adj.</lex>
-<div n="2">— a) {%redefertig.%}
-<div n="2">— b) am Ende eines Comp. {%besagend , bedeutend , ausdrückend.%} <ab>Nom.abstr.</ab> {#°tA#} <lex>f.</lex> (<ls>232,22</ls>) und {#°tva#} <lex>n.</lex>
-<div n="2">— c) {%ausgesprochen werdend durch%} (<ab>Instr.</ab> oder im Comp. vorangehend). <ab>Nom.abstr.</ab> {#°tva#} <lex>n.</lex>
-<div n="1">— 2) <lex>n.</lex> (<lex>adj.</lex> Comp. <lex>f.</lex> {#A#})
-<div n="2">— a) {%das Sprechen.%}
-<div n="2">— b) {%Aussprache.%}
-<div n="2">— c) {%das Ansagen , Hersagen , Aussagen.%}
-<div n="2">— d) {%Benennung , ausdrückliche Nennung , — Erwähnung , Bestimmung , Anführung.%} {#iti#} {#vacanAt#} {%weil es so heisst%} <ls>215,1.</ls>
-<div n="2">— e) {%das Etwas%} (<ab>Gen.</ab>) {%für Etwas%} (im Comp. vorangehend) {%Erklären , das Erklärtwerden für%} ( {#vA°#} {%für facultativ%} <ls>239,1</ls>).
-<div n="2">— f) {%Aussage , Ausspruch , Wort , Rede.%} Bei den Grammatikern {%der Ausspruch des Lehrers , die von ihm aufgestellte Regel%} <ls>233,31.234,26.235,4.237,3.</ls>
-<div n="2">— g) {%Ausspruch%} , so v.a. {%Rath , Geheiss.%} {#vacanaM#} {#kar#} {%Jmds%} (<ab>Gen.</ab>) {%Rath befolgen , thun was Jmd sagt%} <ls>79,8.319,31.</ls> {#vacane#} {#sTA#} <ab>dass.</ab>
-<div n="2">— h) {#vacanAt#} und {#vacanena#} (seltener) so v.a. {%im Namen von%} (<ab>Gen.</ab> oder im Comp. vorangehend).
-<div n="2">— i) {%Laut , Stimme.%}
-<div n="2">— k) {%grammatische Zahl , numerus%} <ls>250,13.</ls>
-<div n="2">— l) {%*trockner Ingwer.%}
+<div n="1">— 1〉 <lex>Adj.</lex>
+<div n="2">— a〉 {%redefertig%}.
+<div n="2">— b〉 am Ende eines <ab>Comp.</ab> {%besagend, bedeutend, ausdrückend%}. <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex> (<ls n="Chr.">232,22</ls>) und {#°tva#} <lex>n.</lex>
+<div n="2">— c〉 {%ausgesprochen werdend durch%} (<ab>Instr.</ab> oder im <ab>Comp.</ab> vorangehend). <ab>Nom. abstr.</ab> {#°tva#} <lex>n.</lex>
+<div n="1">— 2〉 <lex>n.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> {#A#})
+<div n="2">— a〉 {%das Sprechen%}.
+<div n="2">— b〉 {%Aussprache%}.
+<div n="2">— c〉 {%das Ansagen, Hersagen, Aussagen%}.
+<div n="2">— d〉 {%Benennung, ausdrückliche Nennung, — Erwähnung, Bestimmung, Anführung%}. {#iti#} {#vacanAt#} {%weil es so heisst%} <ls n="Chr.">215,1</ls>.
+<div n="2">— e〉 {%das Etwas%} (<ab>Gen.</ab>) {%für Etwas%} (im <ab>Comp.</ab> vorangehend) {%Erklären, das Erklärtwerden für%} ({#vA°#} {%für facultativ%} <ls n="Chr.">239,1</ls>).
+<div n="2">— f〉 {%Aussage, Ausspruch, Wort, Rede%}. Bei den Grammatikern {%der Ausspruch des Lehrers, die von ihm aufgestellte Regel%} <ls n="Chr.">233,31</ls>. <ls n="Chr.">234,26</ls>. <ls n="Chr.">235,4</ls>. <ls n="Chr.">237,3</ls>.
+<div n="2">— g〉 {%Ausspruch,%} so <ab>v. a.</ab> {%Rath, Geheiss%}. {#vacanaM#} {#kar#} {%Jmds%} (<ab>Gen.</ab>) {%Rath befolgen, thun was Jmd sagt%} <ls n="Chr.">79,8</ls>. <ls n="Chr.">319,31</ls>. {#vacane#} {#sTA#} <ab>dass.</ab>
+<div n="2">— h〉 {#vacanAt#} und {#vacanena#} (seltener) so <ab>v. a.</ab> {%im Namen von%} (<ab>Gen.</ab> oder im <ab>Comp.</ab> vorangehend).
+<div n="2">— i〉 {%Laut, Stimme%}.
+<div n="2">— k〉 {%grammatische Zahl, numerus%} <ls n="Chr.">250,13</ls>.
+<div n="2">— l〉 *{%trockner Ingwer%}.
 <LEND>

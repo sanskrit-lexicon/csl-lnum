@@ -1,8 +1,8 @@
 <L>6879<pc>219<k1>drain<k2>drain
-<div n="lb"/>{@DRAIN@}¦ (v. t.): <div n="I">I To draw off water: <div n="xe">{%to d. a%}
-<div n="lb"/>{%marsh:%}</div> <div n="xs">{#anUpapradeSasya jalam apakarzati#}</div> ({#kfz,#} c. 1.) {%or%}
-<div n="lb"/>{#apavAhayati#} (c. of {#vah#}) <div n="xe">{%or%}</div> <div n="xs">{#nirgamayati#}</div> (c. of {#gam#}).</div>
-<div n="lb"/><div n="I">II Fig.: </div><div n="1">(1) {#kzapayati#} (c. of {#kzi#}): v. To
-<div n="lb"/>exhaust. </div><div n="1">(2) {#riktIkaroti.#} v. To empty. </div><div n="I">III
-<div n="lb"/>To filter: q. v.</div>
+{@DRAIN@}¦ (v. t.): <div n="I">I To draw off water: <div n="xe">{%to d. a%}
+{%marsh:%}</div> <div n="xs">{#anUpapradeSasya jalam apakarzati#}</div> ({#kfz,#} c. 1.) {%or%}
+{#apavAhayati#} (c. of {#vah#}) <div n="xe">{%or%}</div> <div n="xs">{#nirgamayati#}</div> (c. of {#gam#}).</div>
+<div n="I">II Fig.: </div><div n="1">(1) {#kzapayati#} (c. of {#kzi#}): v. To
+exhaust. </div><div n="1">(2) {#riktIkaroti.#} v. To empty. </div><div n="I">III
+To filter: q. v.</div>
 <LEND>

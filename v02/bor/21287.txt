@@ -1,14 +1,14 @@
 <L>21287<pc>670<k1>square<k2>square
-<div n="lb"/>{@SQUARE@}¦ (subs.): <div n="I">I In arith.: </div><div n="1">(1) {#vargaH,#} <div n="xe">{%s. of%}
-<div n="lb"/>{%a. s.:%}</div> <div n="xs">{#vargavargaH,#}</div> Li.; <div n="xe">{%s. root:%}</div> <div n="xs">{#vargamUlam,#}</div> Li. <div n="xe">{%or%}</div> <div n="xs">{#padam;#}</div>
-<div n="lb"/><div n="xe">{%the root of the sum of their s. s:%}</div> <div n="xs">{#tatkftyoryogapadam,#}</div>
-<div n="lb"/>Li. 108.; <div n="xe">{%to take the s. root:%}</div> <div n="xs">{#padIkaroti,#}</div> A. b.;</div>
-<div n="lb"/><div n="1">(2) {#kftiH,#} <div n="xe">{%its s.:%}</div> <div n="xs">{#asya kftiH,#}</div> Li. 30. </div><div n="I">II In
-<div n="lb"/>Geo.: </div><div n="1">(1) {#vargaH,#} {%a s. is an equal quadrilateral:%}
-<div n="lb"/>{#vargaH samacaturasraH,#} A. b.; </div><div n="1">(2) {#tulyaSrutistulyacaturBujaH,#}
-<div n="lb"/>and sim. comp.s., Li. 148. </div><div n="I">III In towns:
-<div n="lb"/>no equiv.: {#caturasram#} may be used: v. Also
-<div n="lb"/>court. </div><div n="I">IV Of armies: {#vargavyUhaH#} (?): comp.
-<div n="lb"/>{#padmavyUhaH#} etc., Mah. vii. 87. 24. </div><div n="I">V An intru-
-<div n="lb"/>-ment: {#*samayantram.#}</div>
+{@SQUARE@}¦ (subs.): <div n="I">I In arith.: </div><div n="1">(1) {#vargaH,#} <div n="xe">{%s. of%}
+{%a. s.:%}</div> <div n="xs">{#vargavargaH,#}</div> Li.; <div n="xe">{%s. root:%}</div> <div n="xs">{#vargamUlam,#}</div> Li. <div n="xe">{%or%}</div> <div n="xs">{#padam;#}</div>
+<div n="xe">{%the root of the sum of their s. s:%}</div> <div n="xs">{#tatkftyoryogapadam,#}</div>
+Li. 108.; <div n="xe">{%to take the s. root:%}</div> <div n="xs">{#padIkaroti,#}</div> A. b.;</div>
+<div n="1">(2) {#kftiH,#} <div n="xe">{%its s.:%}</div> <div n="xs">{#asya kftiH,#}</div> Li. 30. </div><div n="I">II In
+Geo.: </div><div n="1">(1) {#vargaH,#} {%a s. is an equal quadrilateral:%}
+{#vargaH samacaturasraH,#} A. b.; </div><div n="1">(2) {#tulyaSrutistulyacaturBujaH,#}
+and sim. comp.s., Li. 148. </div><div n="I">III In towns:
+no equiv.: {#caturasram#} may be used: v. Also
+court. </div><div n="I">IV Of armies: {#vargavyUhaH#} (?): comp.
+{#padmavyUhaH#} etc., Mah. vii. 87. 24. </div><div n="I">V An intru-
+-ment: {#*samayantram.#}</div>
 <LEND>

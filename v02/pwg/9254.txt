@@ -1,34 +1,34 @@
 <L>9254<pc>1-0692<k1>Arta<k2>A/rta
-{#A/rta#}¦ (von {#ar#} mit {#A#}) partic. {%betroffen%} (von unglücklichen Zufällen), {%versehrt, gestört, dem ein Leid angethan worden ist, bedrängt, leidend, krank, unglücklich%}: {#ArtAyA vE mftAyA udarato nirUhanti#} 
-<ls>ŚAT. BR. 4, 5, 2, 3.</ls> {#ArtametadrUpaM yatkfzRam#} 
-<ls>8, 7, 2, 16. 11, 8, 3, 3. 12, 4, 2, 1.</ls> {#ArtaM vA etatpayo yannivAnyavatsAyA ArtametadagnihotraM yanmftasya tadArtenEva tadArtaM nizkftya SreyAnBavAta#} 
-<ls>?5, 1, 4. 14, 6, 4, 1. 7, 31 = BṚH. ĀR. UP. 3, 5, 1. 7, 23.</ls> {#ato 'nyadArtam#} 
-<ls>3, 4, 2. 3, 5.</ls> {#yadA kadAcidArtAya#} 
-<ls>KAUŚ. 94.</ls> {#ArtapAtra/#} 
-<ls>TS. 6, 4, 18, 6.</ls> {#nArto 'pyapavadedviprAn#} 
-<ls>M. 4, 236. 2, 161. 226.</ls> {#na (aSnIyAt) grAmajAtAnyArto 'pi mUlAni ca PalAni ca#} 
-<ls>6, 16. 7, 93. 8, 67. 163. 215. 216. 217. 313. 395. 10, 106. 11, 36. 202.</ls> <ls>N. 8, 24. 9, 24. 12, 80.</ls> <ls>INDR. 5, 44.</ls> <ls>R. 1, 2, 14. 3, 10, 20.</ls> {#ArtatrARAya vaH SastraM na prahartumanAgAsi#} 
-<ls>ŚĀK. 11. 154.</ls> 
-<ls>RAGH. 1, 28</ls> ({#dvezyo 'pi saMmataH SizwastasyArtasya yaTOzaDam#}). 
-<ls>2, 28. 8, 31.</ls> <ls>VID. 227.</ls> {#paramArtavat#} 
-<ls>DAŚ. 1, 46.</ls> {#Artatara#} 
-<ls>N. 13, 38.</ls> {#BfSamArtatarAH#} 
-<ls>R. 2, 77, 19.</ls> {#ArtaSabda#} {%Klageruf%} 
-<ls>41, 1.</ls> {#Artasvara#} dass. 
-<ls>ŚĀK. 92, 21.</ls> <lex>adj.</lex> 
-<ls>R. 4, 15, 30.</ls> {#ArtanAda#} 
-<ls>ŚĀK. 92, 21, v. l.</ls> {#ArtarUpa#} 
-<ls>R. 3, 51, 43. 5, 13, 71.</ls> Sehr häufig in comp. mit dem Begriff, der {%das Leiden%} verursacht: {#prahArArta#} 
-<ls>YĀJÑ. 3, 248.</ls> {#vyADyArta#} 
-<ls>M. 8, 64.</ls> {#rogArta#} 
-<ls>9, 78.</ls> {#kzuDArta#} 
-<ls>10, 107. 108.</ls> {#SramArta, kAmArta#} 
-<ls>8, 67.</ls> {#SUlArta#} 
-<ls>SUŚR. 1, 120, 6.</ls> {#uzRArta#} 
-<ls>186, 4.</ls> {#SItajvarArta#} 
-<ls>?290, 10. - N. 7, 16. 9, 28. 11, 13. 16. 32. 15, 10. HIḌ. 1, 4. 2, 5. R. 1, 2, 19. 48, 17</ls> ({#kAmArta#} st. {#kAmArTa#} zu lesen). 
-<ls>2, 47, 3.</ls> <ls>HIT. I, 90. 20, 13.</ls> <ls>RAGH. 12, 10. 32.</ls> <ls>MEGH. 5.</ls> — {#a/nArta#} {%unversehrt%}: {#anArtaM svastyudfcamaSnute#} 
-<ls>ŚAT. BR. 6, 3, 1, 20. 8, 7, 2, 16. 10, 3, 5, 8.</ls> {#etadvE vanaspatInAmanArtaM jIvaM yadArdram#} 
-<ls>9, 2, 2, 3. 1, 3, 1, 19. 9, 3, 19. 3, 6, 1, 29. 7, 4, 10.</ls> {#manasanAnArtena#} 
-<ls>KĀTY. ŚR. 25, 8, 6.</ls>
+{#A/rta#}¦ (von {#ar#} mit {#A#}) partic. {%betroffen%} (von unglücklichen Zufällen), {%versehrt, gestört, dem ein Leid angethan worden ist, bedrängt, leidend, krank, unglücklich%}: {#ArtAyA vE mftAyA udarato nirUhanti#}
+<ls>ŚAT. BR. 4,5,2,3.</ls> {#ArtametadrUpaM yatkfzRam#}
+<ls n="ŚAT. BR.">8,7,2,16.</ls> <ls n="ŚAT. BR.">11,8,3,3.</ls> <ls n="ŚAT. BR.">12,4,2,1.</ls> {#ArtaM vA etatpayo yannivAnyavatsAyA ArtametadagnihotraM yanmftasya tadArtenEva tadArtaM nizkftya SreyAnBavAta#}
+<ls n="ŚAT. BR. 12,">5,1,4.</ls> <ls n="ŚAT. BR.">14,6,4,1.</ls> <ls n="ŚAT. BR. 14,6,">7,31</ls> = <ls>BṚH. ĀR. UP. 3,5,1.</ls> <ls n="BṚH. ĀR. UP. 3,">7,23.</ls> {#ato 'nyadArtam#}
+<ls n="BṚH. ĀR. UP.">3,4,2.</ls> <ls n="BṚH. ĀR. UP. 3,">3,5.</ls> {#yadA kadAcidArtAya#}
+<ls>KAUŚ. 94.</ls> {#ArtapAtra/#}
+<ls>TS. 6,4,18,6.</ls> {#nArto 'pyapavadedviprAn#}
+<ls>M. 4,236.</ls> <ls n="M.">2,161.</ls> <ls n="M. 2,">226.</ls> {#na (aSnIyAt) grAmajAtAnyArto 'pi mUlAni ca PalAni ca#}
+<ls n="M.">6,16.</ls> <ls n="M.">7,93.</ls> <ls n="M.">8,67.</ls> <ls n="M. 8,">163.</ls> <ls n="M. 8,">215.</ls> <ls n="M. 8,">216.</ls> <ls n="M. 8,">217.</ls> <ls n="M. 8,">313.</ls> <ls n="M. 8,">395.</ls> <ls n="M.">10,106.</ls> <ls n="M.">11,36.</ls> <ls n="M. 11,">202.</ls> <ls>N. 8,24.</ls> <ls n="N.">9,24.</ls> <ls n="N.">12,80.</ls> <ls>INDR. 5,44.</ls> <ls>R. 1,2,14.</ls> <ls n="R.">3,10,20.</ls> {#ArtatrARAya vaH SastraM na prahartumanAgAsi#}
+<ls>ŚĀK. 11.</ls> <ls n="ŚĀK.">154.</ls>
+<ls>RAGH. 1,28</ls> ({#dvezyo 'pi saMmataH SizwastasyArtasya yaTOzaDam#}).
+<ls n="RAGH.">2,28.</ls> <ls n="RAGH.">8,31.</ls> <ls>VID. 227.</ls> {#paramArtavat#}
+<ls>DAŚ. 1,46.</ls> {#Artatara#}
+<ls>N. 13,38.</ls> {#BfSamArtatarAH#}
+<ls>R. 2,77,19.</ls> {#ArtaSabda#} {%Klageruf%}
+<ls n="R. 2,">41,1.</ls> {#Artasvara#} dass.
+<ls>ŚĀK. 92,21.</ls> <lex>adj.</lex>
+<ls>R. 4,15,30.</ls> {#ArtanAda#}
+<ls>ŚĀK. 92,21, v. l.</ls> {#ArtarUpa#}
+<ls>R. 3,51,43.</ls> <ls n="R.">5,13,71.</ls> Sehr häufig in comp. mit dem Begriff, der {%das Leiden%} verursacht: {#prahArArta#}
+<ls>YĀJÑ. 3,248.</ls> {#vyADyArta#}
+<ls>M. 8,64.</ls> {#rogArta#}
+<ls n="M.">9,78.</ls> {#kzuDArta#}
+<ls n="M.">10,107.</ls> <ls n="M. 10,">108.</ls> {#SramArta, kAmArta#}
+<ls n="M.">8,67.</ls> {#SUlArta#}
+<ls>SUŚR. 1,120,6.</ls> {#uzRArta#}
+<ls n="SUŚR. 1,">186,4.</ls> {#SItajvarArta#}
+<ls n="SUŚR. 1,">290,10.</ls> -- <ls>N. 7,16.</ls> <ls n="N.">9,28.</ls> <ls n="N.">11,13.</ls> <ls n="N. 11,">16.</ls> <ls n="N. 11,">32.</ls> <ls n="N.">15,10.</ls> <ls>HIḌ. 1,4.</ls> <ls n="HIḌ.">2,5.</ls> <ls>R. 1,2,19.</ls> <ls n="R. 1,">48,17</ls> ({#kAmArta#} st. {#kAmArTa#} zu lesen).
+<ls n="R.">2,47,3.</ls> <ls>HIT. I,90.</ls> <ls n="HIT.">20,13.</ls> <ls>RAGH. 12,10.</ls> <ls n="RAGH. 12,">32.</ls> <ls>MEGH. 5.</ls> — {#a/nArta#} {%unversehrt%}: {#anArtaM svastyudfcamaSnute#}
+<ls>ŚAT. BR. 6,3,1,20.</ls> <ls n="ŚAT. BR.">8,7,2,16.</ls> <ls n="ŚAT. BR.">10,3,5,8.</ls> {#etadvE vanaspatInAmanArtaM jIvaM yadArdram#}
+<ls n="ŚAT. BR.">9,2,2,3.</ls> <ls n="ŚAT. BR.">1,3,1,19.</ls> <ls n="ŚAT. BR. 1,">9,3,19.</ls> <ls n="ŚAT. BR.">3,6,1,29.</ls> <ls n="ŚAT. BR. 3,">7,4,10.</ls> {#manasanAnArtena#}
+<ls>KĀTY. ŚR. 25,8,6.</ls>
 <LEND>

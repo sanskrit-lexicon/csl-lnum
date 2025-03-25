@@ -1,6 +1,6 @@
 <L>17441<pc>438-b<k1>lassitude<k2>lassitude
-<div n="lb"/>LASSITUDE¦, {%s.%} {#glAniH#} {%f.,%} {#glAnatA, avasAdaH, sAdaH, avasannatA, vizAdaH,#}
-<div n="lb"/>{#vizaRRatA, tandrA -ndrI -ndrikA -ndriH#} {%f.,%} {#KedaH, pramIlA, aNgaSETilyaM,#}
-<div n="lb"/>{#aNgaSiTilatA, mandatA, mAndyaM, klAntiH#} {%f.,%} {#klAntatA, mlAniH#} {%f.,%} {#SrAntiH#} {%f.,%}
-<div n="lb"/>{#pariSrAntiH, klamaH#}.
+LASSITUDE¦, {%s.%} {#glAniH#} {%f.,%} {#glAnatA, avasAdaH, sAdaH, avasannatA, vizAdaH,#}
+{#vizaRRatA, tandrA -ndrI -ndrikA -ndriH#} {%f.,%} {#KedaH, pramIlA, aNgaSETilyaM,#}
+{#aNgaSiTilatA, mandatA, mAndyaM, klAntiH#} {%f.,%} {#klAntatA, mlAniH#} {%f.,%} {#SrAntiH#} {%f.,%}
+{#pariSrAntiH, klamaH#}.
 <LEND>

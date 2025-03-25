@@ -1,3 +1,3 @@
-<L>202126<pc>997,3<k1>vizA<k2>vizA<h>b<e>1
-<s>vizA</s> <hom>b</hom> ¦ <lex>ind.</lex> = <s>budDi</s>, <ls>Uṇ. iv, 36</ls> <ab>Sch.</ab> (for <s>vizA</s> <lex type="hwinfo">f.</lex> See under <s>viza</s>, <pcol>p. 995, col. 2</pcol>). <info lex="ind"/>
+<L>202126<pc>997,3<k1>vizA<k2>vizA<e>1
+<s>vizA</s> ¦ <lex>ind.</lex> = <s>budDi</s>, <ls>Uṇ. iv, 36</ls>, <ab>Sch.</ab> (for <s>vizA</s> <lex type="hwinfo">f.</lex> See under <s>viza</s>, <pcol>p. 995, col. 2</pcol>). <info lex="ind"/><info hui="b"/>
 <LEND>

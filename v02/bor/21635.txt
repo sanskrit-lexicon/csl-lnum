@@ -1,25 +1,25 @@
 <L>21635<pc>681<k1>strike<k2>strike
-<div n="lb"/>{@STRIKE@}¦ (v. t.): <div n="I">I To hit.: </div><div n="1">(1) {#hanti, aBi-, upa-, #}
-<div n="lb"/>{# A-, parA-, samA-, vi-,#} ({#han,#} c. 2.), <div n="xe">{%s. ing him on%}
-<div n="lb"/>{%the breast with the knee:%}</div> <div n="xs">{#enaM vakzasyAhatya jAnunA,#}</div>
-<div n="lb"/>V. p. v. 20. 65.; <div n="xe">{%s. back:%}</div> <div n="xs">{#pratihanti,#}</div> Ki. xviii.
-<div n="lb"/>1.; <div n="xe">{%s. ing the ball:%}</div> <div n="xs">{#kandukaM samAhatya,#}</div> D. vi. (not
-<div n="lb"/>of musical instruments); </div><div n="1">(2) {#praharati, saM-#}
-<div n="lb"/>({#hf,#} c. 1.), <div n="xe">{%struck him on the breast with a%}
-<div n="lb"/>{%knife:%}</div> <div n="xs">{#Curikayorasi prAhArzam,#}</div> D. ii.; </div><div n="1">(3) {#tAqayati, #}
-<div n="lb"/>{# aBi-,#} ({#taq,#} c. 10.), {#“SroturvitantrIriva tAqyamAnAH”#}
-<div n="lb"/>Ku. i. 45. </div><div n="I">II Of clocks etc.: {%it s. s one:%}
-<div n="lb"/>{#*eko vAdyate.#} </div><div n="I">III To stamp, coin (money):
-<div n="lb"/>{#waNkayati#} ({#waNk,#} c. 10.). </div><div n="I">IV Of plants: <div n="xe">{%s. ing%}
-<div n="lb"/>{%root deep:%}</div> <div n="xs">{#sTirabadDamUlaH#}</div> ({#lA, laM#}). </div><div n="I">V To lower,
-<div n="lb"/>let down, as of sail: {#pAtayati, ava-,#} (c. of {#pat#}).</div>
-<div n="lb"/><div n="I">VI To affect, impress strongly: </div><div n="1">(1)
-<div n="lb"/>{#upahanti;#} </div><div n="1">(2) {#aBi-plAvayati, saM- vi-#} (c. of {#pla#}),
-<div n="lb"/><div n="xe">{%struck with fear:%}</div> <div n="xs">{#Bayaviplutam,#}</div> Ki. xiii. 24.</div>
-<div n="lb"/><div n="I">VII To afflict: <div n="xe">{%to s. blind:%}</div> <div n="xs">{#anDIkaroti;#}</div> <div n="xe">{%to%}
-<div n="lb"/>{%be struck dumb:%}</div> <div n="xs">{#mUkIBavati,#}</div> etc. </div><div n="I">VIII To
-<div n="lb"/>produce: q. v.: {#janayati#} ({#jan,#} c. 10.). Ph.:
-<div n="lb"/>{%to s. sail i. e.%} to stop: q. v.; {%to s. account i. e.%}
-<div n="lb"/>to balance: q. v.; <div n="xe">{%to s. ground:%}</div> <div n="xs">{#BUmO lagati;#}</div>
-<div n="lb"/><div n="xe">{%it s. s me:%}</div> <div n="xs">{#idaM me pratiBAti.#}</div></div>
+{@STRIKE@}¦ (v. t.): <div n="I">I To hit.: </div><div n="1">(1) {#hanti, aBi-, upa-, #}
+{# A-, parA-, samA-, vi-,#} ({#han,#} c. 2.), <div n="xe">{%s. ing him on%}
+{%the breast with the knee:%}</div> <div n="xs">{#enaM vakzasyAhatya jAnunA,#}</div>
+V. p. v. 20. 65.; <div n="xe">{%s. back:%}</div> <div n="xs">{#pratihanti,#}</div> Ki. xviii.
+1.; <div n="xe">{%s. ing the ball:%}</div> <div n="xs">{#kandukaM samAhatya,#}</div> D. vi. (not
+of musical instruments); </div><div n="1">(2) {#praharati, saM-#}
+({#hf,#} c. 1.), <div n="xe">{%struck him on the breast with a%}
+{%knife:%}</div> <div n="xs">{#Curikayorasi prAhArzam,#}</div> D. ii.; </div><div n="1">(3) {#tAqayati, #}
+{# aBi-,#} ({#taq,#} c. 10.), {#“SroturvitantrIriva tAqyamAnAH”#}
+Ku. i. 45. </div><div n="I">II Of clocks etc.: {%it s. s one:%}
+{#*eko vAdyate.#} </div><div n="I">III To stamp, coin (money):
+{#waNkayati#} ({#waNk,#} c. 10.). </div><div n="I">IV Of plants: <div n="xe">{%s. ing%}
+{%root deep:%}</div> <div n="xs">{#sTirabadDamUlaH#}</div> ({#lA, laM#}). </div><div n="I">V To lower,
+let down, as of sail: {#pAtayati, ava-,#} (c. of {#pat#}).</div>
+<div n="I">VI To affect, impress strongly: </div><div n="1">(1)
+{#upahanti;#} </div><div n="1">(2) {#aBi-plAvayati, saM- vi-#} (c. of {#pla#}),
+<div n="xe">{%struck with fear:%}</div> <div n="xs">{#Bayaviplutam,#}</div> Ki. xiii. 24.</div>
+<div n="I">VII To afflict: <div n="xe">{%to s. blind:%}</div> <div n="xs">{#anDIkaroti;#}</div> <div n="xe">{%to%}
+{%be struck dumb:%}</div> <div n="xs">{#mUkIBavati,#}</div> etc. </div><div n="I">VIII To
+produce: q. v.: {#janayati#} ({#jan,#} c. 10.). Ph.:
+{%to s. sail i. e.%} to stop: q. v.; {%to s. account i. e.%}
+to balance: q. v.; <div n="xe">{%to s. ground:%}</div> <div n="xs">{#BUmO lagati;#}</div>
+<div n="xe">{%it s. s me:%}</div> <div n="xs">{#idaM me pratiBAti.#}</div></div>
 <LEND>

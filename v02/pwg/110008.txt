@@ -1,9 +1,9 @@
 <L>110008<pc>7-1044<k1>suganDin<k2>suganDin
-{#suganDin#}¦ 
-<div n="1"> 1) <lex>adj.</lex> = {#suganDi#} {%wohlriechend%} 
-<ls>MBH. 1, 2792. 3, 12041. 13, 959.</ls> 
-<ls>R. 3, 76, 22. 4, 59, 12. 7, 26, 22.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#°nI#} {%eine best. Pflanze%}, = {#ArAmaSItalA#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#ketakI#} 
-<ls>DHANV. 4, 133.</ls>
+{#suganDin#}¦
+<div n="1"> 1) <lex>adj.</lex> = {#suganDi#} {%wohlriechend%}
+<ls>MBH. 1,2792.</ls> <ls n="MBH.">3,12041.</ls> <ls n="MBH.">13,959.</ls>
+<ls>R. 3,76,22.</ls> <ls n="R.">4,59,12</ls> <ls n="R.">7,26,22.</ls>
+<div n="1">— 2) <lex>f.</lex> {#°nI#} {%eine best. Pflanze%}, = {#ArAmaSItalA#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#ketakI#}
+<ls>DHANV. 4,133.</ls>
 <LEND>

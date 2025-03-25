@@ -1,34 +1,34 @@
 <L>95599<pc>6-1387<k1>vEkalya<k2>vEkalya
-{#vEkalya#}¦ (von {#vikala#}) <lex>n.</lex> 
-<div n="1"> 1) {%Gebrechlichkeit, Unvollkommenheit, Schwäche, Mangelhaftigkeit%} 
-<ls>MBH. 12, 4361</ls> ({#vEkalpa#} ed. Calc.). 
-<ls>SUŚR. 1, 102, 12. 353, 7. 15. 2, 37, 18. 395, 15.</ls> 
-<ls>HARIV. 9588.</ls> 
-<ls>Spr. 2898.</ls> {#SarIra°#} 
-<ls>HIT. 121, 14.</ls> {#karaRAnAm#} {%der Organe%} 
-<ls>SUŚR. 1, 330, 3.</ls> {#karaRa°#} 
-<ls>SĀṂKHYAK. 47.</ls> 
-<ls>GAUḌAP.</ls> zu <ls>?18. VARĀH. BṚH. S. 53, 68. Schol. zu P. 6, 2, 6</ls> (wohl {#karaRavEkalya#} zu lesen). {#cakzurvEkalya#} so v. a. {%Blindheit%} 
-<ls>KATHĀS. 74, 310.</ls> {#pAda°#} 
-<ls>64, 143.</ls> <ls>VARĀH. BṚH. S. 79, 28.</ls> <ls>RĀJA-TAR. 8, 689. 2169.</ls> {#ekacaraRa°#} 
-<ls>PAÑCAT. ed. orn. 4, 12.</ls> {#prARa°#} 
-<ls>KATHĀS. 63, 136.</ls> {#sarvatrApi vastuni kiMcidvEkalyam#} 
-<ls>MALLIN.</ls> zu <ls>KUMĀRAS. 3, 28.</ls> {#tyajyamAnamahAsAnurvihagEH SvApadErapi . girirvEkalyamAyAti#} 
-<ls>HARIV. 5534.</ls> {#ekANga°#} 
-<ls>WEBER, JYOT. 59. 111.</ls> {#arTa° (°vEkalpa#} fälschlich 
-<ls>LOIS.</ls>) <ls>M. 8, 95.</ls> {#vftti°#} 
-<ls>10, 85.</ls> {#Sakti°#} 
-<ls>Spr. 2927.</ls> {#vrata°#} 
-<ls>PAÑCAT. 166, 16.</ls> {#budDi°#} 
-<ls>?254, 9. KULL. zu M. 8, 67.</ls> {#upalabDi°#} ders. zu 
-<ls>66.</ls> {#AhAra°#} {%Mangel an Nahrung%} 
-<ls>PAÑCAT. 198, 18.</ls> {#saMkoca°#} {%das Fehlen, Nichtdasein%} 
-<ls>SARVADARŚANAS. 94, 7.</ls> 
-<div n="1">— 2) {%Verstimmung, Kleinmuth, Verzagtheit%} 
-<ls>MBH. 7, 5412</ls> ({#vEklavya#} ed. Bomb.). 
-<ls>MĀRK. P. 70, 23. fgg. 130, 22.</ls> 
-<ls>RĀJA-TAR. 3, 277</ls> ({#vEkalpa#} beide Ausgg.). {#atyanta°#} 
-<ls>KULL.</ls> zu <ls>M. 11, 70.</ls> 
-<div n="1">— 3) {%Verwirrung%}: {#citta°#} 
-<ls>MBH. 10, 112</ls> ({#°vEklavya#} ed. Bomb.).
+{#vEkalya#}¦ (von {#vikala#}) <lex>n.</lex>
+<div n="1"> 1) {%Gebrechlichkeit, Unvollkommenheit, Schwäche, Mangelhaftigkeit%}
+<ls>MBH. 12,4361</ls> ({#vEkalpa#} <ls>ed. Calc.</ls>).
+<ls>SUŚR. 1,102,12. 353,7. 15. 2,37,18. 395,15.</ls>
+<ls>HARIV. 9588.</ls>
+<ls>Spr. 2898.</ls> {#SarIra°#}
+<ls>HIT. 121,14.</ls> {#karaRAnAm#} {%der Organe%}
+<ls>SUŚR. 1,330,3.</ls> {#karaRa°#}
+<ls>SĀṂKHYAK. 47.</ls>
+<ls>GAUḌAP.</ls> zu <ls n="SĀṂKHYAK.">18.</ls> <ls>VARĀH. BṚH. S. 53,68.</ls> Schol. zu <ls>P. 6,2,6</ls> (wohl {#karaRavEkalya#} zu lesen). {#cakzurvEkalya#} so v. a. {%Blindheit%}
+<ls>KATHĀS. 74,310.</ls> {#pAda°#}
+<ls n="KATHĀS.">64,143.</ls> <ls>VARĀH. BṚH. S. 79,28.</ls> <ls>RĀJA-TAR. 8,689. 2169.</ls> {#ekacaraRa°#}
+<ls>PAÑCAT. ed. orn. 4,12.</ls> {#prARa°#}
+<ls>KATHĀS. 63,136.</ls> {#sarvatrApi vastuni kiMcidvEkalyam#}
+<ls>MALLIN.</ls> zu <ls>KUMĀRAS. 3,28.</ls> {#tyajyamAnamahAsAnurvihagEH SvApadErapi . girirvEkalyamAyAti#}
+<ls>HARIV. 5534.</ls> {#ekANga°#}
+<ls>WEBER, JYOT. 59. 111.</ls> {#arTa° (°vEkalpa#} fälschlich
+<ls>LOIS.</ls>) <ls>M. 8,95.</ls> {#vftti°#}
+<ls n="M.">10,85.</ls> {#Sakti°#}
+<ls>Spr. 2927.</ls> {#vrata°#}
+<ls>PAÑCAT. 166,16.</ls> {#budDi°#}
+<ls n="PAÑCAT.">254,9.</ls> <ls>KULL.</ls> zu <ls>M. 8,67.</ls> {#upalabDi°#} ders. zu
+<ls n="M. 8,">66.</ls> {#AhAra°#} {%Mangel an Nahrung%}
+<ls>PAÑCAT. 198,18.</ls> {#saMkoca°#} {%das Fehlen, Nichtdasein%}
+<ls>SARVADARŚANAS. 94,7.</ls>
+<div n="1">— 2) {%Verstimmung, Kleinmuth, Verzagtheit%}
+<ls>MBH. 7,5412</ls> ({#vEklavya#} <ls>ed. Bomb.</ls>).
+<ls>MĀRK. P. 70,23. fgg. 130,22.</ls>
+<ls>RĀJA-TAR. 3,277</ls> ({#vEkalpa#} beide Ausgg.). {#atyanta°#}
+<ls>KULL.</ls> zu <ls>M. 11,70.</ls>
+<div n="1">— 3) {%Verwirrung%}: {#citta°#}
+<ls>MBH. 10,112</ls> ({#°vEklavya#} <ls>ed. Bomb.</ls>).
 <LEND>

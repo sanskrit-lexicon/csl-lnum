@@ -1,10 +1,10 @@
 <L>10759<pc>339<k1>healthy<k2>healthy
-<div n="lb"/>{@HEALTHY:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#susTaH#} ({#sTA, sTaM#});</div>
-<div n="lb"/><div n="1">(2) {#arogaH#} ({#gA, gaM#}), {#nirAmayaH#} ({#yA, yaM#}) and sim.
-<div n="lb"/>comp.s. (= without disease); </div><div n="1">(3) {#kuSalin#}
-<div n="lb"/>(f. {#nI#}) (= well: q.v.). </div><div n="I">II Of places: </div><div n="1">(1)
-<div n="lb"/>{#kzemya#} (f. {#myA#}), M. vii. 212.; </div><div n="1">(2) {#anAmayakzamaH#}
-<div n="lb"/>({#mA, maM#}), K. b. and sim. comp.s. </div><div n="I">III Of
-<div n="lb"/>food: </div><div n="1">(1) {#hitaH#} ({#tA, taM#}) (= good: q.v.): </div><div n="1">(2)
-<div n="lb"/>{#paTya#} (f. {#TyA#}), Sr.: v. Wholesome.</div>
+{@HEALTHY:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#susTaH#} ({#sTA, sTaM#});</div>
+<div n="1">(2) {#arogaH#} ({#gA, gaM#}), {#nirAmayaH#} ({#yA, yaM#}) and sim.
+comp.s. (= without disease); </div><div n="1">(3) {#kuSalin#}
+(f. {#nI#}) (= well: q.v.). </div><div n="I">II Of places: </div><div n="1">(1)
+{#kzemya#} (f. {#myA#}), M. vii. 212.; </div><div n="1">(2) {#anAmayakzamaH#}
+({#mA, maM#}), K. b. and sim. comp.s. </div><div n="I">III Of
+food: </div><div n="1">(1) {#hitaH#} ({#tA, taM#}) (= good: q.v.): </div><div n="1">(2)
+{#paTya#} (f. {#TyA#}), Sr.: v. Wholesome.</div>
 <LEND>

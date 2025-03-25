@@ -1,4 +1,4 @@
 <L>8381<pc>265<k1>fallible<k2>fallible
-<div n="lb"/>{@FALLIBLE:@}¦ <div n="1">(1) {#patanaSIlaH#} ({#lA, laM#}); </div><div n="1">(2) {#BrAntaH#}
-<div n="lb"/>({#ntA, ntaM#}) (= erring).</div>
+{@FALLIBLE:@}¦ <div n="1">(1) {#patanaSIlaH#} ({#lA, laM#}); </div><div n="1">(2) {#BrAntaH#}
+({#ntA, ntaM#}) (= erring).</div>
 <LEND>

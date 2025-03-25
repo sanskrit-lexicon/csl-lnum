@@ -1,8 +1,8 @@
 <L>10686<pc>336<k1>haste<k2>haste
-<div n="lb"/>{@HASTE, HASTEN@}¦ (v.): <div n="I">I Intrans: {#tvarate#}
-<div n="lb"/>({#tvar,#} c. 1.), <div n="xe">{%h., h. the sages are calling:%}</div> <div n="xs">{#tvarasva, #}
-<div n="lb"/>{# tvarasva fzayaH SabdAyante,#}</div> Sa.: v. Also to fly, run.</div>
-<div n="lb"/><div n="I">II Trans: </div><div n="1">(1) {#tvarayati#} (c. of {#tvar#}), <div n="xe">{%who h. s%}
-<div n="lb"/>{%crowds in the way:%}</div> <div n="xs">{#vfndAni tvarayati paTi,#}</div> Me.;
-<div n="lb"/><div n="xe">{%h. his dinner:%}</div> <div n="xs">{#tvarayAsya Bojanam,#}</div> v. ii.</div>
+{@HASTE, HASTEN@}¦ (v.): <div n="I">I Intrans: {#tvarate#}
+({#tvar,#} c. 1.), <div n="xe">{%h., h. the sages are calling:%}</div> <div n="xs">{#tvarasva, #}
+{# tvarasva fzayaH SabdAyante,#}</div> Sa.: v. Also to fly, run.</div>
+<div n="I">II Trans: </div><div n="1">(1) {#tvarayati#} (c. of {#tvar#}), <div n="xe">{%who h. s%}
+{%crowds in the way:%}</div> <div n="xs">{#vfndAni tvarayati paTi,#}</div> Me.;
+<div n="xe">{%h. his dinner:%}</div> <div n="xs">{#tvarayAsya Bojanam,#}</div> v. ii.</div>
 <LEND>

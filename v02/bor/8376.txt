@@ -1,23 +1,23 @@
 <L>8376<pc>265<k1>fall<k2>fall
-<div n="lb"/>{@FALL@}¦ (subs.): <div n="I">I The act of f. ing: </div><div n="1">(1) {#pAtaH, #}
-<div n="lb"/>{# ni-,#} <div n="xe">{%f. of a mountain:%}</div> <div n="xs">{#giripAtaH,#}</div> V. p.; </div><div n="1">(2)
-<div n="lb"/>{#patanam, ni-, pra-,#} <div n="xe">{%f. from a mountain:%}</div> <div n="xs">{#gireH patanam,#}</div>
-<div n="lb"/>H. i.; </div><div n="1">(3) {#avapatanaM#} <div n="xe">{%or%}</div> <div n="xs">{#avapAtaH#}</div> (= f. ing down);</div>
-<div n="lb"/><div n="1">(4) {#BraMSaH, pra-,#} (rare); </div><div n="1">(5) {#cyutiH, pari-, vi-,#}
-<div n="lb"/>(rare). Ph.: {%coming out had a f. in front:%}
-<div n="lb"/>{#nizkramyAgre papAta ha,#} Mah.: v. To fall. </div><div n="I">II
-<div n="lb"/>Death, destruction: q.v.: {#pAtaH#} <div n="xe">{%or%}</div> <div n="xs">{#patanam, #}
-<div n="lb"/>{# ni-, vini-,#}</div> <div n="xe">{%how will Rāvaṇa brook the repeated%}
-<div n="lb"/>{%f. of his men:%}</div> <div n="xs">{#kaTamiva daSamuKaH BUyoBUyaH svajanavini-#}
-<div n="lb"/>{#pAtaM saheta,#}</div> Vi. </div><div n="I">III Downfall, degradation:
-<div n="lb"/>{#pAtaH#} <div n="xe">{%or%}</div> <div n="xs">{#patanam, ava-, ni-, vini-,#}</div> <div n="xe">{%rise and f. of%}
-<div n="lb"/>{%men:%}</div> <div n="xs">{#pAtotpAtA manuzyARAm,#}</div> H.; <div n="xe">{%even f.....is%}
-<div n="lb"/>{%equivalent to rise:%}</div> <div n="xs">{#vinipAto'pi samaM samunnateH,#}</div> Ki.</div>
-<div n="lb"/><div n="I">IV Decrease: q.v.: {#hrAsaH,#} <div n="xe">{%rise and f. of%}
-<div n="lb"/>{%prices:%}</div> <div n="xs">{#arGasya vfdDihrAsaH,#}</div> Vy. V. Cadence: q.v.:
-<div n="lb"/>{#pAtaH.#} </div><div n="I">VI Declivity, slope: q.v. {#pAtaH.#} </div><div n="I">VII
-<div n="lb"/>Waterfall: {#prapAtaH,#} {%the f. s of the great Koshi:%}
-<div n="lb"/>{#mahAkoSIprapAtaH,#} Ku. </div><div n="I">VIII A falling: {#pAtaH,#}
-<div n="lb"/><div n="xe">{%heavy f. of hail:%}</div> <div n="xs">{#tumulakarakAvfzwipAtaH,#}</div> Me. </div><div n="I">IX
-<div n="lb"/>Felling: {#pAtaH, -nam.#}</div>
+{@FALL@}¦ (subs.): <div n="I">I The act of f. ing: </div><div n="1">(1) {#pAtaH, #}
+{# ni-,#} <div n="xe">{%f. of a mountain:%}</div> <div n="xs">{#giripAtaH,#}</div> V. p.; </div><div n="1">(2)
+{#patanam, ni-, pra-,#} <div n="xe">{%f. from a mountain:%}</div> <div n="xs">{#gireH patanam,#}</div>
+H. i.; </div><div n="1">(3) {#avapatanaM#} <div n="xe">{%or%}</div> <div n="xs">{#avapAtaH#}</div> (= f. ing down);</div>
+<div n="1">(4) {#BraMSaH, pra-,#} (rare); </div><div n="1">(5) {#cyutiH, pari-, vi-,#}
+(rare). Ph.: {%coming out had a f. in front:%}
+{#nizkramyAgre papAta ha,#} Mah.: v. To fall. </div><div n="I">II
+Death, destruction: q.v.: {#pAtaH#} <div n="xe">{%or%}</div> <div n="xs">{#patanam, #}
+{# ni-, vini-,#}</div> <div n="xe">{%how will Rāvaṇa brook the repeated%}
+{%f. of his men:%}</div> <div n="xs">{#kaTamiva daSamuKaH BUyoBUyaH svajanavini-#}
+{#pAtaM saheta,#}</div> Vi. </div><div n="I">III Downfall, degradation:
+{#pAtaH#} <div n="xe">{%or%}</div> <div n="xs">{#patanam, ava-, ni-, vini-,#}</div> <div n="xe">{%rise and f. of%}
+{%men:%}</div> <div n="xs">{#pAtotpAtA manuzyARAm,#}</div> H.; <div n="xe">{%even f.....is%}
+{%equivalent to rise:%}</div> <div n="xs">{#vinipAto'pi samaM samunnateH,#}</div> Ki.</div>
+<div n="I">IV Decrease: q.v.: {#hrAsaH,#} <div n="xe">{%rise and f. of%}
+{%prices:%}</div> <div n="xs">{#arGasya vfdDihrAsaH,#}</div> Vy. V. Cadence: q.v.:
+{#pAtaH.#} </div><div n="I">VI Declivity, slope: q.v. {#pAtaH.#} </div><div n="I">VII
+Waterfall: {#prapAtaH,#} {%the f. s of the great Koshi:%}
+{#mahAkoSIprapAtaH,#} Ku. </div><div n="I">VIII A falling: {#pAtaH,#}
+<div n="xe">{%heavy f. of hail:%}</div> <div n="xs">{#tumulakarakAvfzwipAtaH,#}</div> Me. </div><div n="I">IX
+Felling: {#pAtaH, -nam.#}</div>
 <LEND>

@@ -1,19 +1,19 @@
 <L>10499<pc>1-0846<k1>Ipsu<k2>Ipsu
-{#Ipsu#}¦ (wie eben) <lex>adj.</lex> {%zu erlangen strebend, verlangend nach, begehrend%}; mit dem acc.: {#astrARIpsuH#} 
-<ls>ARJ. 4, 25.</ls> {#kalyARamIpsuBiH#} 
-<ls>M. 3, 35.</ls> 
-<ls>MBH. 1, 7420.</ls> 
-<ls>R. 2, 68, 20.</ls> 
-<ls>RAGH. 5, 69.</ls> mit dem inf. 
-<ls>MBH. 3, 8535.</ls> mit dem obj. compon.: {#saMvatsarepsu#} 
-<ls>KĀTY. ŚR. 5, 11, 15.</ls> 
-<ls>M. 2, 61. 10, 127.</ls> 
-<ls>BHAG. 18, 24.</ls> 
-<ls>HIḌ. 2, 3.</ls> 
-<ls>MBH. 14, 450.</ls> 
-<ls>R. 1, 16, 18. 70, 33</ls> ({#putrepsu#} fem.). 
-<ls>2, 102, 9. 3, 32, 17.</ls> {#BavatAM ca vijAnAmi sarvalokahitepsutAm#} 
-<ls>MBH. 1, 6857.</ls> {#IpsuyajYa#} {%ein bes.%} <is>Soma</is>-{%Opfer%} 
-<ls>KĀTY. ŚR. 22, 5, 8.</ls> 
+{#Ipsu#}¦ (wie eben) <lex>adj.</lex> {%zu erlangen strebend, verlangend nach, begehrend%}; mit dem acc.: {#astrARIpsuH#}
+<ls>ARJ. 4,25.</ls> {#kalyARamIpsuBiH#}
+<ls>M. 3,35.</ls>
+<ls>MBH. 1,7420.</ls>
+<ls>R. 2,68,20.</ls>
+<ls>RAGH. 5,69.</ls> mit dem inf.
+<ls>MBH. 3,8535.</ls> mit dem obj. compon.: {#saMvatsarepsu#}
+<ls>KĀTY. ŚR. 5,11,15.</ls>
+<ls>M. 2,61.</ls> <ls n="M.">10,127.</ls>
+<ls>BHAG. 18,24.</ls>
+<ls>HIḌ. 2,3.</ls>
+<ls>MBH. 14,450.</ls>
+<ls>R. 1,16,18.</ls> <ls n="R. 1,">70,33</ls> ({#putrepsu#} fem.).
+<ls n="R.">2,102,9.</ls> <ls n="R.">3,32,17.</ls> {#BavatAM ca vijAnAmi sarvalokahitepsutAm#}
+<ls>MBH. 1,6857.</ls> {#IpsuyajYa#} {%ein bes.%} <is>Soma</is>-{%Opfer%}
+<ls>KĀTY. ŚR. 22,5,8.</ls>
 <div n="v">— Vgl. {#arTepsu#} .
 <LEND>

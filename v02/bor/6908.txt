@@ -1,7 +1,7 @@
 <L>6908<pc>220<k1>drawer<k2>drawer
-<div n="lb"/>{@DRAWER:@}¦ <div n="I">I Lit.: {#karzakaH, A-,.#} </div><div n="I">II A painter:
-<div n="lb"/>{#leKakaH.#} </div><div n="I">III Of a cheque: {#*nizkarzakaH.#} </div><div n="I">IV
-<div n="lb"/>A sliding box: {#*nizkarzaRI.#} </div><div n="I">V In pl., a
-<div n="lb"/>garment: {#jaNGAvAraH.#} Ph.: <div n="xe">{%a chest of d. s:%}</div> <div n="xs">{#*nizkarza-#}
-<div n="lb"/>{#pewikA.#}</div></div>
+{@DRAWER:@}¦ <div n="I">I Lit.: {#karzakaH, A-,.#} </div><div n="I">II A painter:
+{#leKakaH.#} </div><div n="I">III Of a cheque: {#*nizkarzakaH.#} </div><div n="I">IV
+A sliding box: {#*nizkarzaRI.#} </div><div n="I">V In pl., a
+garment: {#jaNGAvAraH.#} Ph.: <div n="xe">{%a chest of d. s:%}</div> <div n="xs">{#*nizkarza-#}
+{#pewikA.#}</div></div>
 <LEND>

@@ -1,14 +1,14 @@
 <L>8521<pc>270<k1>favour<k2>favour
-<div n="lb"/>{@FAVOUR@}¦ (subs.): <div n="1">(1) {#anugrahaH,#} <div n="xe">{%f. proceeding from%}
-<div n="lb"/>{%remembrance:%}</div> <div n="xs">{#saMsmaraRapravftto'nugrahaH,#}</div> Ku. iii. 3;
-<div n="lb"/><div n="xe">{%with your f.:%}</div> <div n="xs">{#tavAnugrahAt;#}</div> <div n="xe">{%even this my chastise-%}
-<div n="lb"/>{%ment has been made a f. by you:%}</div> <div n="xs">{#mama tvayA #}
-<div n="lb"/>{# nigraho'pyayamanugrahIkftaH,#}</div> R. xi. 90.; <div n="xe">{%disposer of f. s%}
-<div n="lb"/>{%and dis-f.s:%}</div> <div n="xs">{#anugrahAvagrahayorviDAtA,#}</div> Si. i. 71.; </div><div n="1">(2)
-<div n="lb"/>{#prasAdaH#} (= a f.), {%do the f.%} ({%to excuse me%}), <div n="xe">{%Sir:%}</div> <div n="xs">{#tat #}
-<div n="lb"/>{# prasAdaM karotu svAmI,#}</div> P. i. 3.; <div n="xe">{%who eagerly longs%}
-<div n="lb"/>{%for your f.:%}</div> <div n="xs">{#prasAdamAkAMkzati yastovotsukaH,#}</div> <ls>V.</ls> III.
-<div n="lb"/>Ph. {%in f. with i. e. f. ed:%} v. F. ite; {%in f.%}
-<div n="lb"/>{%of i.e.%} on the side of: {#pakze#} (with gen.). v.
-<div n="lb"/>Side.</div>
+{@FAVOUR@}¦ (subs.): <div n="1">(1) {#anugrahaH,#} <div n="xe">{%f. proceeding from%}
+{%remembrance:%}</div> <div n="xs">{#saMsmaraRapravftto'nugrahaH,#}</div> Ku. iii. 3;
+<div n="xe">{%with your f.:%}</div> <div n="xs">{#tavAnugrahAt;#}</div> <div n="xe">{%even this my chastise-%}
+{%ment has been made a f. by you:%}</div> <div n="xs">{#mama tvayA #}
+{# nigraho'pyayamanugrahIkftaH,#}</div> R. xi. 90.; <div n="xe">{%disposer of f. s%}
+{%and dis-f.s:%}</div> <div n="xs">{#anugrahAvagrahayorviDAtA,#}</div> Si. i. 71.; </div><div n="1">(2)
+{#prasAdaH#} (= a f.), {%do the f.%} ({%to excuse me%}), <div n="xe">{%Sir:%}</div> <div n="xs">{#tat #}
+{# prasAdaM karotu svAmI,#}</div> P. i. 3.; <div n="xe">{%who eagerly longs%}
+{%for your f.:%}</div> <div n="xs">{#prasAdamAkAMkzati yastovotsukaH,#}</div> <ls>V.</ls> III.
+Ph. {%in f. with i. e. f. ed:%} v. F. ite; {%in f.%}
+{%of i.e.%} on the side of: {#pakze#} (with gen.). v.
+Side.</div>
 <LEND>

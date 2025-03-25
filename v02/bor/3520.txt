@@ -1,4 +1,4 @@
 <L>3520<pc>117<k1>chemical<k2>chemical
-<div n="lb"/>{@CHEMICAL:@}¦ {#rAsAyanaH#} ({#nI, naM#}) (?), {%c. property:%}
-<div n="lb"/>{#*rAsAyanaDarmaH;#} <div n="xe">{%c. combination:%}</div> <div n="xs">{#*rAsAyanasaMyogaH.#}</div>
+{@CHEMICAL:@}¦ {#rAsAyanaH#} ({#nI, naM#}) (?), {%c. property:%}
+{#*rAsAyanaDarmaH;#} <div n="xe">{%c. combination:%}</div> <div n="xs">{#*rAsAyanasaMyogaH.#}</div>
 <LEND>

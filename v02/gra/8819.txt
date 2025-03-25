@@ -1,4 +1,4 @@
-<L>8819<pc>1399<k1>SukraduGa<k2>Sukra/-duGa
-{@śukrá-dugha,@}¦ a., {%Samen%} [śukrá 7] {%strömen lassend.%}
-<div n="P1">-asya dhenós {476,5}.
+<L>8819<pc>1399<k1>SukraduGa<k2>Sukra-du/Ga
+<chg type="chg" n="248" src="gra"><old>{@śukrá-dugha,@}</old><new>{@śukra-dúgha,@}</new></chg>¦ <ab>a.</ab>, {%Samen%} [śukrá 7] {%strömen lassend%}.
+<div n="TS">-asya dhenós {476,5}.
 <LEND>

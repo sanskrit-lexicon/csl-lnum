@@ -1,8 +1,8 @@
 <L>10867<pc>262-a<k1>father<k2>father
-<div n="lb"/>FATHER¦, {%s.%} {#pitA#} {%m.%} {#(tf), janakaH, jananaH, janitA#} {%m.%} {#(tf), janayitA#} {%m.%}
-<div n="lb"/>{#(tf), janmadaH, tAtaH, prasavitA#} {%m.%} {#(tf), prajAvAn#} {%m.%} {#(t), DAtA#} {%m.%} {#(tf),#}
-<div n="lb"/>{#vaptA#} {%m.%} {#(ptf), vApaH, dehakft#} {%m.,%} {#samBUH#} {%m.;%} ‘of a family,’ {#kulapatiH#} {%m.;%}
-<div n="lb"/>‘of a son,’ {#putrI#} {%m.%} {#(n), sutI#} {%m.%} ({#n#}); ‘father and mother,’
-<div n="lb"/>{#mAtApitarO#} {%m.%} du. or {#mAtarapitarO, tAtajanayitryO#} {%f.%} du.; ‘father
-<div n="lb"/>of all,’ {#viSvaDAtA#}. {%m.%} {#(tf)#}. — (Title of respect) {#guruH, AcAryyaH#}.
+FATHER¦, {%s.%} {#pitA#} {%m.%} {#(tf), janakaH, jananaH, janitA#} {%m.%} {#(tf), janayitA#} {%m.%}
+{#(tf), janmadaH, tAtaH, prasavitA#} {%m.%} {#(tf), prajAvAn#} {%m.%} {#(t), DAtA#} {%m.%} {#(tf),#}
+{#vaptA#} {%m.%} {#(ptf), vApaH, dehakft#} {%m.,%} {#samBUH#} {%m.;%} ‘of a family,’ {#kulapatiH#} {%m.;%}
+‘of a son,’ {#putrI#} {%m.%} {#(n), sutI#} {%m.%} ({#n#}); ‘father and mother,’
+{#mAtApitarO#} {%m.%} du. or {#mAtarapitarO, tAtajanayitryO#} {%f.%} du.; ‘father
+of all,’ {#viSvaDAtA#}. {%m.%} {#(tf)#}. — (Title of respect) {#guruH, AcAryyaH#}.
 <LEND>

@@ -1,5 +1,5 @@
 <L>15831<pc>486<k1>oldness<k2>oldness
-<div n="lb"/>{@OLDNESS:@}¦ <div n="I">I Antiquity: </div><div n="1">(1) {#purARatvam, -tA;#} </div><div n="1">(2)
-<div n="lb"/>{#purAtanatvam, -tA.#} </div><div n="I">II Old age: </div><div n="1">(1) {#vfdDatvam;#} </div><div n="1">(2)
-<div n="lb"/>{#sTaviratA.#}</div>
+{@OLDNESS:@}¦ <div n="I">I Antiquity: </div><div n="1">(1) {#purARatvam, -tA;#} </div><div n="1">(2)
+{#purAtanatvam, -tA.#} </div><div n="I">II Old age: </div><div n="1">(1) {#vfdDatvam;#} </div><div n="1">(2)
+{#sTaviratA.#}</div>
 <LEND>

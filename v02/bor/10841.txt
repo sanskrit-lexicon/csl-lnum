@@ -1,5 +1,5 @@
 <L>10841<pc>342<k1>heirship<k2>heirship
-<div n="lb"/>{@HEIRSHIP:@}¦ <div n="1">(1) {#uttarADikAritvam, -tA;#} </div><div n="1">(2) {#DanADi-#}
-<div n="lb"/>{#kAritvam, tA,#} <div n="xe">{%Sole h. to mother's property:%}</div> <div n="xs">{#sakala-#}
-<div n="lb"/>{#mAtfDanADikAritvam,#}</div> Da.; etc.</div>
+{@HEIRSHIP:@}¦ <div n="1">(1) {#uttarADikAritvam, -tA;#} </div><div n="1">(2) {#DanADi-#}
+{#kAritvam, tA,#} <div n="xe">{%Sole h. to mother's property:%}</div> <div n="xs">{#sakala-#}
+{#mAtfDanADikAritvam,#}</div> Da.; etc.</div>
 <LEND>

@@ -1,16 +1,16 @@
 <L>19451<pc>604<k1>root<k2>root
-<div n="lb"/>{@ROOT@}¦ (subs.): <div n="I">I Lit.: {#BUlam,#} {%r. of a tree:%}
-<div n="lb"/>{#tarumUlam,#} Sa.; <div n="xe">{%a hurricane does not pluck up%}
-<div n="lb"/>{%grass by the r.:%}</div> <div n="xs">{#tfRAni nonmUlayati praBaYjanaH,#}</div> H. ii.
-<div n="lb"/>81. Ph.: <div n="xe">{%Fibrous r.:%}</div> <div n="xs">{#SiPA#}</div> <div n="xe">{%or%}</div> <div n="xs">{#jawA;#}</div> {%bulbous r.:%}
-<div n="lb"/>{#kanda#} (mn.). </div><div n="I">II Fig.: {#mUlam,#} {%the r. of faults:%}
-<div n="lb"/>{#mUlaM dozasya,#} Ki. xi. 20.; <div n="xe">{%with pure progeny from%}
-<div n="lb"/>{%the r.:%}</div> <div n="xs">{#AmUlaSudDasantati,#}</div> Sa. vi. 28.; <div n="xe">{%destroying%}
-<div n="lb"/>{%by the r.:%}</div> <div n="xs">{#samUlaGAtamaGnantaH,#}</div> Si. ii. 33.; <div n="xe">{%firmly%}
-<div n="lb"/>{%taken r.:%}</div> <div n="xs">{#sTirabadDamUla#}</div> (f. {#lA#}), B. xi. 5.: v.
-<div n="lb"/>Also cause, source. </div><div n="I">III In arith.: {#mUlam,#}
-<div n="lb"/><div n="xe">{%cube r.:%}</div> <div n="xs">{#GanamUlam,#}</div> Li.; <div n="xe">{%to extract a r.:%}</div> <div n="xs">{#mUlI-#}
-<div n="lb"/>{#karoti,#}</div> A.c. </div><div n="I">IV Of words: {#prakftiH.#} Ph.:
-<div n="lb"/><div n="xe">{%verbal r.:%}</div> <div n="xs">{#DAtuH;#}</div> <div n="xe">{%secondary r.:%}</div> <div n="xs">{#nAmaDAtuH;#}</div> <div n="xe">{%names%}
-<div n="lb"/>{%are derived from r. s:%}</div> <div n="xs">{#nAma ca DAtujam,#}</div> Kāśikā.</div>
+{@ROOT@}¦ (subs.): <div n="I">I Lit.: {#BUlam,#} {%r. of a tree:%}
+{#tarumUlam,#} Sa.; <div n="xe">{%a hurricane does not pluck up%}
+{%grass by the r.:%}</div> <div n="xs">{#tfRAni nonmUlayati praBaYjanaH,#}</div> H. ii.
+81. Ph.: <div n="xe">{%Fibrous r.:%}</div> <div n="xs">{#SiPA#}</div> <div n="xe">{%or%}</div> <div n="xs">{#jawA;#}</div> {%bulbous r.:%}
+{#kanda#} (mn.). </div><div n="I">II Fig.: {#mUlam,#} {%the r. of faults:%}
+{#mUlaM dozasya,#} Ki. xi. 20.; <div n="xe">{%with pure progeny from%}
+{%the r.:%}</div> <div n="xs">{#AmUlaSudDasantati,#}</div> Sa. vi. 28.; <div n="xe">{%destroying%}
+{%by the r.:%}</div> <div n="xs">{#samUlaGAtamaGnantaH,#}</div> Si. ii. 33.; <div n="xe">{%firmly%}
+{%taken r.:%}</div> <div n="xs">{#sTirabadDamUla#}</div> (f. {#lA#}), B. xi. 5.: v.
+Also cause, source. </div><div n="I">III In arith.: {#mUlam,#}
+<div n="xe">{%cube r.:%}</div> <div n="xs">{#GanamUlam,#}</div> Li.; <div n="xe">{%to extract a r.:%}</div> <div n="xs">{#mUlI-#}
+{#karoti,#}</div> A.c. </div><div n="I">IV Of words: {#prakftiH.#} Ph.:
+<div n="xe">{%verbal r.:%}</div> <div n="xs">{#DAtuH;#}</div> <div n="xe">{%secondary r.:%}</div> <div n="xs">{#nAmaDAtuH;#}</div> <div n="xe">{%names%}
+{%are derived from r. s:%}</div> <div n="xs">{#nAma ca DAtujam,#}</div> Kāśikā.</div>
 <LEND>

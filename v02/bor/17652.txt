@@ -1,7 +1,7 @@
 <L>17652<pc>540<k1>premiss<k2>premiss
-<div n="lb"/>{@PREMISS:@}¦ <div n="xe">{%major p.:%}</div> <div n="xs">{#udAharaRam, *mUlAvayavaH,#}</div> <div n="xe">{%minor%}
-<div n="lb"/>{%p.:%}</div> <div n="xs">{#upanayaH, *antaravayavaH, “utpattiDarmakaM sTAlyAdi-#}
-<div n="lb"/>{#dravyamanityamityudAharaRaM, taTA cotpattiDarmakaH Sabda ityupanayaH, #}
-<div n="lb"/>{# tasmAdatpatiDarmakatvAdanityaH Sabda iti nigamanam,”#}</div> N. d.
-<div n="lb"/>i. 39.
+{@PREMISS:@}¦ <div n="xe">{%major p.:%}</div> <div n="xs">{#udAharaRam, *mUlAvayavaH,#}</div> <div n="xe">{%minor%}
+{%p.:%}</div> <div n="xs">{#upanayaH, *antaravayavaH, “utpattiDarmakaM sTAlyAdi-#}
+{#dravyamanityamityudAharaRaM, taTA cotpattiDarmakaH Sabda ityupanayaH, #}
+{# tasmAdatpatiDarmakatvAdanityaH Sabda iti nigamanam,”#}</div> N. d.
+i. 39.
 <LEND>

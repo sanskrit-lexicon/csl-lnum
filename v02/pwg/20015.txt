@@ -1,24 +1,23 @@
 <L>20015<pc>2-0514<k1>klama<k2>klama
 {#klama#}¦ (von {#klam#}) <lex>m.</lex> {%Ermüdung, Erschöpfung, Erschlaffung, Abspannung%}
 [Page2-0515]
-
-<ls>AK. 3, 3, 10.</ls> 
-<ls>H. 319.</ls> 
-<ls>SUŚR. 1, 34, 17. 169, 10. 331, 18. 2, 214, 12.</ls> 
-<ls>BHĀG. P. 5, 24, 13.</ls> {#SrAntasya te - nASayizyAmyahaM klamam#} 
-<ls>N. 9, 28.</ls> {#na SItozRena ca klamaH#} 
-<ls>ARJ. 4, 47.</ls> {#na ca me manasi klamaH#} 
-<ls>R. 5, 49, 10.</ls> {#klamApaha#} 
-<ls>SUŚR. 1, 192, 21.</ls> {#mArgeRADvaklamacCidA#} 
-<ls>VID. 33.</ls> {#klamavinodin#} 
-<ls>ŚĀK. 69.</ls> {#vinoditadinaklama#} 
-<ls>ŚIŚ. 4, 66.</ls> {#gataklama#} 
-<ls>M. 7, 225.</ls> {#gataklamA#} 
-<ls>N. 11, 1.</ls> 
-<ls>MBH. 13, 5862. 15, 912.</ls> 
-<ls>R. 2, 24, 31. 3, 3, 22.</ls> {#vigataklama#} 
-<ls>M. 7, 151.</ls> {#vigataklamA#} 
-<ls>MBH. 2, 83. 15, 686.</ls> {#jitaklama#} 
-<ls>HIḌ. 1, 52.</ls> {#vapuH tapaHklamam#} schlechte Lesart für {#tapaHkzamam#} 
+<ls>AK. 3,3,10.</ls>
+<ls>H. 319.</ls>
+<ls>SUŚR. 1,34,17. 169,10. 331,18. 2,214,12.</ls>
+<ls>BHĀG. P. 5,24,13.</ls> {#SrAntasya te — nASayizyAmyahaM klamam#}
+<ls>N. 9,28.</ls> {#na SItozRena ca klamaH#}
+<ls>ARJ. 4,47.</ls> {#na ca me manasi klamaH#}
+<ls>R. 5,49,10.</ls> {#klamApaha#}
+<ls>SUŚR. 1,192,21.</ls> {#mArgeRADvaklamacCidA#}
+<ls>VID. 33.</ls> {#klamavinodin#}
+<ls>ŚĀK. 69.</ls> {#vinoditadinaklama#}
+<ls>ŚIŚ. 4,66.</ls> {#gataklama#}
+<ls>M. 7,225.</ls> {#gataklamA#}
+<ls>N. 11,1.</ls>
+<ls>MBH. 13,5862.</ls> <ls n="MBH.">15,912.</ls>
+<ls>R. 2,24,31.</ls> <ls n="R.">3,3,22.</ls> {#vigataklama#}
+<ls>M. 7,151.</ls> {#vigataklamA#}
+<ls>MBH. 2,83.</ls> <ls n="MBH.">15,686.</ls> {#jitaklama#}
+<ls>HIḌ. 1,52.</ls> {#vapuH tapaHklamam#} schlechte Lesart für {#tapaHkzamam#}
 <ls>ŚĀK. 17, v. l.</ls>
 <LEND>

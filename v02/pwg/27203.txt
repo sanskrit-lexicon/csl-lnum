@@ -1,177 +1,174 @@
 <L>27203<pc>3-0074<k1>jAta<k2>jAta/
-{#jAta/#}¦ (partic. praet. von {#jan#}) 
-<div n="1"> 1) <lex>adj.</lex> Accent eines auf {#jAta#} ausgehenten comp. 
-<ls>P. 6, 2, 171.</ls> 
-<div n="2"> a) {%geboren, neugeboren; gewachsen; entstanden%} 
-<ls>H. an. 2, 168.</ls> 
-<ls>MED. t. 18. 19.</ls> {#kumAraM jAtaM GftaM vEvAgne pratilehayanti stanaM vAnuDApayanti#} 
-<ls>ŚAT. BR. 14, 4, 3, 4.</ls> {#zaRmAsyA vA antamA garBA jAtA jIvanti#} 
-<ls>9, 5, 1, 63.</ls> {#jA\to jA^yate sudina\tve ahnA^m#} 
-<ls>ṚV. 3, 8, 5.</ls> 
-<ls>AV. 8, 6, 18. 19.</ls> {#kiM svijjAtaM na copati, aRqaM jAtaM na copati#} 
-<ls>MBH. 3, 10648. fg.</ls> {#tvaM tu jAtA#} ({%eben geboren%}) {#mayA dfzwA daSArRezu piturgfhe#} 
-<ls>N. 17, 14.</ls> 
-<ls>PAÑCAT. III, 144.</ls> {#varaM jAtaH pretaH#} ad 
-<ls>HIT. Pr. 12. 13.</ls> {#janakasya kule jAtA#} 
-<ls>R. 1, 1, 26.</ls> 
-<ls>DAŚ. 2, 44.</ls> {#sa vane #}
+{#jAta/#}¦ (partic. praet. von {#jan#})
+<div n="1"> 1) <lex>adj.</lex> Accent eines auf {#jAta#} ausgehenten comp.
+<ls>P. 6,2,171.</ls>
+<div n="2"> a) {%geboren, neugeboren; gewachsen; entstanden%}
+<ls>H. an. 2,168.</ls>
+<ls>MED. t. 18. 19.</ls> {#kumAraM jAtaM GftaM vEvAgne pratilehayanti stanaM vAnuDApayanti#}
+<ls>ŚAT. BR. 14,4,3,4.</ls> {#zaRmAsyA vA antamA garBA jAtA jIvanti#}
+<ls n="ŚAT. BR.">9,5,1,63.</ls> {#jA\to jA^yate sudina\tve ahnA^m#}
+<ls>ṚV. 3,8,5.</ls>
+<ls>AV. 8,6,18.</ls> <ls n="AV. 8,6,">19.</ls> {#kiM svijjAtaM na copati, aRqaM jAtaM na copati#}
+<ls>MBH. 3,10648. fg.</ls> {#tvaM tu jAtA#} ({%eben geboren%}) {#mayA dfzwA daSArRezu piturgfhe#}
+<ls>N. 17,14.</ls>
+<ls>PAÑCAT. III,144.</ls> {#varaM jAtaH pretaH#} ad
+<ls>HIT. Pr. 12. 13.</ls> {#janakasya kule jAtA#}
+<ls>R. 1,1,26.</ls>
+<ls>DAŚ. 2,44.</ls> {#sa vane #}
 [Page3-0075]
-{# jAtasaMvfdDaH#} {%geboren und gross geworden%} 
-<ls>R. 1, 8, 8.</ls> {#saMkara°#} 
-<ls>M. 5, 89.</ls> {#(apatyasya) jAtasya paripAlanam#} 
-<ls>9, 27.</ls> {#yasya te vIjato jAtAH (putrAH)#} 
-<ls>181.</ls> {#jAto jyezWAyAm#} 
-<ls>124.</ls> {#dvijastriyAM sUtastu kzatriyAjjAtaH#} 
-<ls>H. 898.</ls> {#SUdrAyAmasmi vESyena jAtaH#} 
-<ls>R. 2, 63, 48.</ls> 
-<ls>H. 899.</ls> {#na tvaM kekayarAjena jAtA#} 
-<ls>R. GORR. 2, 75, 21.</ls> {#mAsajAta#} {%vor einem Monat geboren, einen Monat alt%} 
-<ls>Sch.</ls> zu <ls>P. 2, 2, 5. 6, 2, 170</ls> und 
-<ls>2, 2, 36</ls>, <is>Vārtt</is>. 1. {#saptAhajAta#} 
-<ls>MBH. 8, 3389.</ls> {#putro jAtaH#} {%ein schlechtweg nur geborener Sohn%} = {#putro mAtftulyaguRaH#} 
-<ls>PAÑCAT. I, 441. 442.</ls> {#a\gnimi^va jA\tama\Bi saM Da^mAmi#} 
-<ls>AV. 8, 2, 4.</ls> {#tasya hamBAravAjjAtAH kAmbojAH#} 
-<ls>VIŚV. 5, 2.</ls> {#vfkzAH#} {%gewachsen%} 
-<ls>LĀṬY. 8, 5, 4.</ls> {#anyaduptaM jAtamanyat#} 
-<ls>M. 9, 40.</ls> {#suvIjaM cEva sukzetre jAtaM saMpadyate yaTA#} 
-<ls>10, 69.</ls> {#sasyasya jAtasya#} 
-<ls>9, 49.</ls> {#ozaDInAM jAtAnAM ca svayaM vane#} 
-<ls>11, 144. 6, 16.</ls> <ls>YĀJÑ. 2, 228.</ls> <ls>SUND. 4, 10.</ls> <ls>R. 1, 9, 33.</ls> <ls>MEGH. 27.</ls> <ls>HIT. I, 62.</ls> <ls>VARĀH. BṚH. S. 53, 61. 54, 13.</ls> {#maRibanDajAtAH (piwakAH)#} {%entstanden, sich zeigend an%} 
-<ls>VARĀH. BṚH. S. 51, 5. 6. 8.</ls> {#hArdAttasya matirjAtA vyAKyAtuM pitaraM svakam#} 
-<ls>R. 1, 9, 27. 2, 44.</ls> {#tasya kAntyA mahAnuddyoto jAtaH#} 
-<ls>VET. 2, 11.</ls> {#saMprati saMdehanirRayo jAtaH#} {%ist entstanden, ist da%} 
-<ls>ŚĀK. 27.</ls> {#ya va ra la ezAM sTAne krameRa jAtA#} ({%an die Stelle getreten%}) {#BAvino vA i u f x#} 
-<ls>P. 1, 1, 45,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 4, 8.</ls> {#adya prAtarevAnizwadarSanaM jAtam#} {%hat sich zugetragen%} 
-<ls>HIT. 9, 7.</ls> {#rAjYA saha darSanaM jAtam#} 
-<ls>VET. 28, 15.</ls> 
-<div n="2">— b) {%geworden%}: {#prakftisTA vayaM jAtAH#} 
-<ls>HARIV. 5708.</ls> 
-<ls>ŚĀK. 60. 97. 143. 185.</ls> {#sakale jAte vAhni#} 
-<ls>AMAR. 9.</ls> {#bahutara iva jAtaH#} 
-<ls>ṚT. 1, 26.</ls> 
-<ls>MEGH. 81.</ls> {#sEva (vetrayazwiH) jAtA prasTAnaviklavagateravalambanArTam#} (v. l. {#avalambanAya#} und {#avalambanArTA#}) 
-<ls>ŚĀK. 100.</ls> {#jAtam#} impers. mit dem instr. des subj. und praed.: {#aTa tAmbUlaromanTatyAganiScalamUrtinA . jAtaM rAjakuraNgeRa pramodAspandadfzwinA ..#} 
-<ls>RĀJA-TAR. 5, 364.</ls> {%seiend%}: {#jAtasasneha#} 
-<ls>MBH. 3, 11081</ls> <ls>(S. 572).</ls> 
-<div n="2">— c) {%schon entstanden%} so v. a. {%gegenwärtig%}: {#jAta, janizyamARa#} 
-<ls>TS. 2, 6, 2, 3. 6, 2, 5, 2.</ls> 
-<ls>VS. 15, 1. 32, 1.</ls> {#(sapatnAn) pUrvA^M jA\tA~ u\tApa^rAn#} 
-<ls>AV. 10, 3, 13.</ls> {#jAtamityabravItkAryam#} {%das Zuthuende ist gegenwärtig, jetzt gilt es zu handeln%} 
-<ls>MBH. 1, 881.</ls> {%vorhanden, Jmd gehörig%}: {#ya\masya^ jA\tama\mfta^M yajAmahe#} 
-<ls>ṚV. 1, 83, 5.</ls> {#ujjA\tami^ndra te\ Sava^H (vAvfDuH)#} 
-<ls n="ṚV.">8, 51, 10.</ls> {%vorräthig%}: {#jAtatAmbUla#} 
-<ls>PAÑCAT. II, 16.</ls> 
-<div n="2">— d) häufig am Anf. eines <lex>adj.</lex> comp. in der Bed. {%geboren, gewachsen, entstanden, da seiend, vorhanden%}: {#jAtaputrA#} {%der ein Sohn geboren ist, einen Sohn habend%} 
-<ls>BRĀHMAṆ. 2, 32.</ls> <is>gaṇa</is> {#AhitAgnyAdi#} zu 
-<ls>P. 2, 2, 37.</ls> {#jAtApatyA#} 
-<ls>AK. 2, 6, 1, 16.</ls> 
-<ls>H. 539.</ls> {#jAtapakza#} {%dem die Flügel schon gewachsen sind, schon Flügel habend%} 
-<ls>MBH. 12, 9305.</ls> {#ajAtaroma#} {%unbehaart%} 
-<ls>3, 10053.</ls> {#ajAtaloman#} dass.: {#nAjAtalomnyopahAsamicCet#} {%deren Scham noch nicht behaart ist%} 
-<ls>GOBH. 3, 5, 3.</ls> 
-<ls>PĀR. GṚHY. 2, 7.</ls> {#jAtadanta#} {%schon Zähne habend%} 
-<ls>M. 5, 70.</ls> <is>gaṇa</is> {#AhitAgnyAdi#} zu 
-<ls>P. 2, 2, 37.</ls> {#°SmaSru#} ebend. {#ajAtaSfNga#} 
-<ls>AK. 3, 4, 25, 167.</ls> {#jAtapASa#} {%gefesselt%} 
-<ls>ŚĀK. 32, v. l.</ls> {#jAtASru#} {%weinend%} 
-<ls>AMAR. 97.</ls> {#jAtarasa#} {%schmackhaft%} 
-<ls>SUŚR. 1, 163, 9. 17. 191, 17.</ls> {#jAtaroza#} {%erzürnt%} 
-<ls>R. 1, 1, 4.</ls> {#°kOtUhala#} 
-<ls>9, 23.</ls> <ls>SĀV. 6, 27.</ls> {#°sneha#} {%verliebt, mit Liebe an Etwas hängend%} 
-<ls>BRĀHMAṆ. 1, 18.</ls> {#°manmaTa#} 
-<ls>INDR. 4, 17.</ls> {#°saMkalpa#} 
-<ls>N. 3, 8.</ls> {#°bala#} {%erstarkt, stark%} ({#agni#}) 
-<ls>M. 12, 101.</ls> {#°pratyaya#} 
-<ls>PAÑCAT. 37, 4. 182, 21.</ls> {#AtmatulyajAtaparAkrasa#} 
-<ls>232, 13.</ls> {#jAtAsTa#} 
-<ls>KATHĀS. 4, 12. 25, 25.</ls> {#jAtaharza#} {%erfreut%} 
-<ls>VID. 112. 216.</ls> {#jAtEkaBakti#} 
-<ls>BHĀG. P. 1, 13, 2.</ls> {#°BAva#} 
-<ls>3, 23, 37.</ls> {#jAtABizaNga#} 
-<ls>RAGH. 2, 30.</ls> {#jAtabrAhmaRaSabda#} {%der das Wort Br. im Munde führt, der stets an die Br. denkt%} 
-(<ls>KULL.</ls>: {#jAto brAhmaRASrito 'yamiti Sabdo yasya#}) 
-<ls>M. 10, 122.</ls> Nicht selten sind die beiden Glieder des comp. verstellt 
-<ls>P. 6, 2, 170. 171. 2, 2, 36</ls>, <is>Vārtt</is>. 1. {#putrajAta#} {%einen Sohn habend%}
+{# jAtasaMvfdDaH#} {%geboren und gross geworden%}
+<ls>R. 1,8,8.</ls> {#saMkara°#}
+<ls>M. 5,89.</ls> {#(apatyasya) jAtasya paripAlanam#}
+<ls n="M.">9,27.</ls> {#yasya te vIjato jAtAH (putrAH)#}
+<ls n="M. 9,">181.</ls> {#jAto jyezWAyAm#}
+<ls n="M. 9,">124.</ls> {#dvijastriyAM sUtastu kzatriyAjjAtaH#}
+<ls>H. 898.</ls> {#SUdrAyAmasmi vESyena jAtaH#}
+<ls>R. 2,63,48.</ls>
+<ls>H. 899.</ls> {#na tvaM kekayarAjena jAtA#}
+<ls>R. GORR. 2,75,21.</ls> {#mAsajAta#} {%vor einem Monat geboren, einen Monat alt%}
+<ls>Sch.</ls> zu <ls>P. 2,2,5.</ls> <ls n="P.">6,2,170</ls> und
+<ls n="P.">2,2,36</ls>, <is>Vārtt</is>. 1. {#saptAhajAta#}
+<ls>MBH. 8,3389.</ls> {#putro jAtaH#} {%ein schlechtweg nur geborener Sohn%} = {#putro mAtftulyaguRaH#}
+<ls>PAÑCAT. I,441. 442.</ls> {#a\gnimi^va jA\tama\Bi saM Da^mAmi#}
+<ls>AV. 8,2,4.</ls> {#tasya hamBAravAjjAtAH kAmbojAH#}
+<ls>VIŚV. 5,2.</ls> {#vfkzAH#} {%gewachsen%}
+<ls>LĀṬY. 8,5,4.</ls> {#anyaduptaM jAtamanyat#}
+<ls>M. 9,40.</ls> {#suvIjaM cEva sukzetre jAtaM saMpadyate yaTA#}
+<ls n="M.">10,69.</ls> {#sasyasya jAtasya#}
+<ls n="M.">9,49.</ls> {#ozaDInAM jAtAnAM ca svayaM vane#}
+<ls n="M.">11,144.</ls> <ls n="M.">6,16.</ls> <ls>YĀJÑ. 2,228.</ls> <ls>SUND. 4,10.</ls> <ls>R. 1,9,33.</ls> <ls>MEGH. 27.</ls> <ls>HIT. I,62.</ls> <ls>VARĀH. BṚH. S. 53,61. 54,13.</ls> {#maRibanDajAtAH (piwakAH)#} {%entstanden, sich zeigend an%}
+<ls>VARĀH. BṚH. S. 51,5. 6. 8.</ls> {#hArdAttasya matirjAtA vyAKyAtuM pitaraM svakam#}
+<ls>R. 1,9,27.</ls> <ls n="R. 1,">2,44.</ls> {#tasya kAntyA mahAnuddyoto jAtaH#}
+<ls>VET. 2,11.</ls> {#saMprati saMdehanirRayo jAtaH#} {%ist entstanden, ist da%}
+<ls>ŚĀK. 27.</ls> {#ya va ra la ezAM sTAne krameRa jAtA#} ({%an die Stelle getreten%}) {#BAvino vA i u f x#}
+<ls>P. 1,1,45</ls>, <ls>Sch.</ls>
+<ls>VOP. 4,8.</ls> {#adya prAtarevAnizwadarSanaM jAtam#} {%hat sich zugetragen%}
+<ls>HIT. 9,7.</ls> {#rAjYA saha darSanaM jAtam#}
+<ls>VET. 28,15.</ls>
+<div n="2">— b) {%geworden%}: {#prakftisTA vayaM jAtAH#}
+<ls>HARIV. 5708.</ls>
+<ls>ŚĀK. 60. 97. 143. 185.</ls> {#sakale jAte vAhni#}
+<ls>AMAR. 9.</ls> {#bahutara iva jAtaH#}
+<ls>ṚT. 1,26.</ls>
+<ls>MEGH. 81.</ls> {#sEva (vetrayazwiH) jAtA prasTAnaviklavagateravalambanArTam#} (v. l. {#avalambanAya#} und {#avalambanArTA#})
+<ls>ŚĀK. 100.</ls> {#jAtam#} impers. mit dem instr. des subj. und praed.: {#aTa tAmbUlaromanTatyAganiScalamUrtinA . jAtaM rAjakuraNgeRa pramodAspandadfzwinA ..#}
+<ls>RĀJA-TAR. 5,364.</ls> {%seiend%}: {#jAtasasneha#}
+<ls>MBH. 3,11081</ls> (S. 572).
+<div n="2">— c) {%schon entstanden%} so v. a. {%gegenwärtig%}: {#jAta, janizyamARa#}
+<ls>TS. 2,6,2,3.</ls> <ls n="TS.">6,2,5,2.</ls>
+<ls>VS. 15,1.</ls> <ls n="VS.">32,1.</ls> {#(sapatnAn) pUrvA^M jA\tA~ u\tApa^rAn#}
+<ls>AV. 10,3,13.</ls> {#jAtamityabravItkAryam#} {%das Zuthuende ist gegenwärtig, jetzt gilt es zu handeln%}
+<ls>MBH. 1,881.</ls> {%vorhanden, Jmd gehörig%}: {#ya\masya^ jA\tama\mfta^M yajAmahe#}
+<ls>ṚV. 1,83,5.</ls> {#ujjA\tami^ndra te\ Sava^H (vAvfDuH)#}
+<ls n="ṚV.">8,51,10.</ls> {%vorräthig%}: {#jAtatAmbUla#}
+<ls>PAÑCAT. II,16.</ls>
+<div n="2">— d) häufig am Anf. eines <lex>adj.</lex> comp. in der Bed. {%geboren, gewachsen, entstanden, da seiend, vorhanden%}: {#jAtaputrA#} {%der ein Sohn geboren ist, einen Sohn habend%}
+<ls>BRĀHMAṆ. 2,32.</ls> <is>gaṇa</is> {#AhitAgnyAdi#} zu
+<ls>P. 2,2,37.</ls> {#jAtApatyA#}
+<ls>AK. 2,6,1,16.</ls>
+<ls>H. 539.</ls> {#jAtapakza#} {%dem die Flügel schon gewachsen sind, schon Flügel habend%}
+<ls>MBH. 12,9305.</ls> {#ajAtaroma#} {%unbehaart%}
+<ls n="MBH.">3,10053.</ls> {#ajAtaloman#} dass.: {#nAjAtalomnyopahAsamicCet#} {%deren Scham noch nicht behaart ist%}
+<ls>GOBH. 3,5,3.</ls>
+<ls>PĀR. GṚHY. 2,7.</ls> {#jAtadanta#} {%schon Zähne habend%}
+<ls>M. 5,70.</ls> <is>gaṇa</is> {#AhitAgnyAdi#} zu
+<ls>P. 2,2,37.</ls> {#°SmaSru#} ebend. {#ajAtaSfNga#}
+<ls>AK. 3,4,25,167.</ls> {#jAtapASa#} {%gefesselt%}
+<ls>ŚĀK. 32, v. l.</ls> {#jAtASru#} {%weinend%}
+<ls>AMAR. 97.</ls> {#jAtarasa#} {%schmackhaft%}
+<ls>SUŚR. 1,163,9. 17. 191,17.</ls> {#jAtaroza#} {%erzürnt%}
+<ls>R. 1,1,4.</ls> {#°kOtUhala#}
+<ls n="R. 1,">9,23.</ls> <ls>SĀV. 6,27.</ls> {#°sneha#} {%verliebt, mit Liebe an Etwas hängend%}
+<ls>BRĀHMAṆ. 1,18.</ls> {#°manmaTa#}
+<ls>INDR. 4,17.</ls> {#°saMkalpa#}
+<ls>N. 3,8.</ls> {#°bala#} {%erstarkt, stark%} ({#agni#})
+<ls>M. 12,101.</ls> {#°pratyaya#}
+<ls>PAÑCAT. 37,4.</ls> <ls n="PAÑCAT.">182,21.</ls> {#AtmatulyajAtaparAkrasa#}
+<ls n="PAÑCAT.">232,13.</ls> {#jAtAsTa#}
+<ls>KATHĀS. 4,12.</ls> <ls n="KATHĀS.">25,25.</ls> {#jAtaharza#} {%erfreut%}
+<ls>VID. 112. 216.</ls> {#jAtEkaBakti#}
+<ls>BHĀG. P. 1,13,2.</ls> {#°BAva#}
+<ls n="BHĀG. P.">3,23,37.</ls> {#jAtABizaNga#}
+<ls>RAGH. 2,30.</ls> {#jAtabrAhmaRaSabda#} {%der das Wort Br. im Munde führt, der stets an die Br. denkt%}
+(<ls>KULL.</ls>: {#jAto brAhmaRASrito 'yamiti Sabdo yasya#})
+<ls>M. 10,122.</ls> Nicht selten sind die beiden Glieder des comp. verstellt
+<ls>P. 6,2,170.</ls> <ls n="P. 6,2,">171.</ls> <ls n="P.">2,2,36</ls>, <is>Vārtt</is>. 1. {#putrajAta#} {%einen Sohn habend%}
 [Page3-0076]
-
-<ls>P. 6, 2, 170,</ls> 
-<ls>Sch.</ls> <is>gaṇa</is> {#AhitAgnyAdi#} zu 
-<ls>P. 2, 2, 37.</ls> {#SmaSrujAta#} ebend. {#dantajAta#} {%schon Zähne habend%} ebend. 
-<ls>P. 6, 2, 171,</ls> 
-<ls>Sch.</ls> 
-<ls>M. 5, 58.</ls> {#adantajAta#} 
-<ls>ĀŚV. GṚHY. 4, 4.</ls> {#kiRajAta#} {%mit Schwielen versehen%} 
-<ls>MBH. 3, 11005.</ls> {#prItisOmanasyajAta#} 
-<ls>LALIT. ed. Calc. 6, 12.</ls> Vgl. {#ajAta, arTajAta#} . 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%Sohn%}: {#jA\tena^ jA\tamati\ sa pra sa^rsfte\ yaM ya\M yuja^M kfRu\te brahma^Ra\spati^H#} 
-<ls>ṚV. 2, 25, 1.</ls> 
-<ls>AV. 11, 9, 6.</ls> {#tasmAdapi pratirUpaM jAtamAhurhfdayAdiva sfptaH#} 
-<ls>ŚAT. BR. 14, 6, 9, 23.</ls> {#kiM tena jAtu jAtena mAturyOvanahAriRA#} 
-<ls>PAÑCAT. I, 32.</ls> 
-<div n="2">— b) {%ein Lebender, lebendes Wesen%} (von Menschen und Göttern, vorzugsweise aber von den ersteren): {#jA\to jA\tA~ u\BayA^~ a\ntara^gne#} 
-<ls>ṚV. 4, 2, 2.</ls> {#jA\tErajA^tA~ a\Bi ye na^na\kzuH#} 
-<ls n="ṚV.">5, 15, 2.</ls> <ls n="ṚV.">10, 12, 3.</ls> {#yasmA\nna jA\taH paro^ a\sti^#} 
-<ls>VS. 8, 36.</ls> {#ye jA\tA ye ca^ ya\jYiyA^H#} 
-<ls>AV. 18, 4, 57.</ls> 
-<div n="2">— c) pl. N. pr. eines Stammes der <is>Haihaya</is> 
-<ls>VĀYU-P.</ls> in <ls>VP. 418, N. 20.</ls> 
-<div n="1">— 3) <lex>n.</lex> 
-<div n="2"> a) {%ein lebendes Wesen, Geschöpf%}: {#viSvA^ jA\tAni^ paspaSe#} 
-<ls>ṚV. 1, 128, 4.</ls> <ls n="ṚV.">3, 54, 8.</ls> {#SrezWo^ jA\tasya^ rudra Sri\yAsi^#} 
-<ls n="ṚV.">2, 33, 3.</ls> <ls n="ṚV.">6, 25, 5.</ls> <ls n="ṚV.">7, 82, 5.</ls> <ls n="ṚV.">8, 51, 2.</ls> {#paYja^ jA\tA#} (vgl. u. {#kfzwi, jana#}) 
-<ls n="ṚV.">6, 61, 12.</ls> 
+<ls>P. 6,2,170</ls>, <ls>Sch.</ls>
+<is>gaṇa</is> {#AhitAgnyAdi#} zu
+<ls>P. 2,2,37.</ls> {#SmaSrujAta#} ebend. {#dantajAta#} {%schon Zähne habend%} ebend.
+<ls>P. 6,2,171</ls>, <ls>Sch.</ls>
+<ls>M. 5,58.</ls> {#adantajAta#}
+<ls>ĀŚV. GṚHY. 4,4.</ls> {#kiRajAta#} {%mit Schwielen versehen%}
+<ls>MBH. 3,11005.</ls> {#prItisOmanasyajAta#}
+<ls>LALIT. ed. Calc. 6,12.</ls> Vgl. {#ajAta, arTajAta#} .
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) {%Sohn%}: {#jA\tena^ jA\tamati\ sa pra sa^rsfte\ yaM ya\M yuja^M kfRu\te brahma^Ra\spati^H#}
+<ls>ṚV. 2,25,1.</ls>
+<ls>AV. 11,9,6.</ls> {#tasmAdapi pratirUpaM jAtamAhurhfdayAdiva sfptaH#}
+<ls>ŚAT. BR. 14,6,9,23.</ls> {#kiM tena jAtu jAtena mAturyOvanahAriRA#}
+<ls>PAÑCAT. I,32.</ls>
+<div n="2">— b) {%ein Lebender, lebendes Wesen%} (von Menschen und Göttern, vorzugsweise aber von den ersteren): {#jA\to jA\tA~ u\BayA^~ a\ntara^gne#}
+<ls>ṚV. 4,2,2.</ls> {#jA\tErajA^tA~ a\Bi ye na^na\kzuH#}
+<ls n="ṚV.">5,15,2.</ls> <ls n="ṚV.">10,12,3.</ls> {#yasmA\nna jA\taH paro^ a\sti^#}
+<ls>VS. 8,36.</ls> {#ye jA\tA ye ca^ ya\jYiyA^H#}
+<ls>AV. 18,4,57.</ls>
+<div n="2">— c) pl. N. pr. eines Stammes der <is>Haihaya</is>
+<ls>VĀYU-P.</ls> in <ls>VP. 418, N. 20.</ls>
+<div n="1">— 3) <lex>n.</lex>
+<div n="2"> a) {%ein lebendes Wesen, Geschöpf%}: {#viSvA^ jA\tAni^ paspaSe#}
+<ls>ṚV. 1,128,4.</ls> <ls n="ṚV.">3,54,8.</ls> {#SrezWo^ jA\tasya^ rudra Sri\yAsi^#}
+<ls n="ṚV.">2,33,3.</ls> <ls n="ṚV.">6,25,5.</ls> <ls n="ṚV.">7,82,5.</ls> <ls n="ṚV.">8,51,2.</ls> {#paYja^ jA\tA#} (vgl. u. {#kfzwi, jana#})
+<ls n="ṚV.">6,61,12.</ls>
 <div n="2">— b) {%Geburt, Ursprung%} (
-<ls>TRIK. 3, 3, 156.</ls> 
-<ls>H. an. 2, 168.</ls> 
-<ls>MED. t. 18</ls>); {%Wesen%}: {#u\pa\stutya\M mahi^ jA\taM te^ arvan#} 
-<ls>ṚV. 1, 163, 1.</ls> {#yo jA\tama^sya maha\to mahi\ brava^t#} 
-<ls n="ṚV. 1,">156, 2.</ls> {#ma\HAngarBo\ mahyA jA\tame^zAm#} 
-<ls n="ṚV.">3, 31, 3.</ls> {#a\gnirjA\tA#} (hierher oder zu c) {#de\vAnA^ma\gnirve^da\ martA^nAmapI\cya^m#} 
-<ls n="ṚV.">8, 39, 6.</ls> {#kena\ jAte^nAsi jA\tave^dAH#} 
-<ls>AV. 5, 11, 2. 3.</ls> 
-<div n="2">— c) {%Geschlecht, Art, genus; eine Gesammtheit zusammengehöriger Dinge%}: {#pi\SA\cyAH#} 
-<ls>AV. 1, 16, 3.</ls> {#sa\rpARA^m#} 
-<ls>10, 4, 23.</ls> {#rudrARAm#} 
-<ls>ŚAT. BR. 9, 1, 1, 19.</ls> {#brAhmaRajAta#} 
-<ls>13, 4, 2, 17.</ls> {#devajAtAni#} 
-<ls>14, 4, 2, 24.</ls> {#saptadaSEkEkasya jAtasya#} 
-<ls>LĀṬY. 8, 11, 16.</ls> {#kzatrajAta#} 
-<ls>RAGH. 11, 71.</ls> {#zaqeva svaritajAtAni#} 
-<ls>Ind. St. 4, 139.</ls> {#caturviDasTUlaSarIrajAtam#} 
-<ls>VEDĀNTAS. (Allah.) No. 93.</ls> {#caturRAM SatrujAtAnAm#} 
-<ls>MBH. 15, 215.</ls> {#vAkya°#} 
-<ls>SĀY.</ls> bei <ls>BURN.</ls> in der Einl. zu 
-<ls>BHĀG. P. I, x.</ls> {#kimannajAtamizwaM te#} 
-<ls>MBH. 13, 2741.</ls> {#viDyanto mfgajAtAni#} {%alle Arten von Thieren%} 
-<ls>4, 143.</ls> {#AyuDajAtAni#} 
-<ls>R. GORR. 2, 39, 19.</ls> {#idamalaMkArajAtam#} {%hier ist eine besondere Art Schmuck%} 
-<ls>ŚĀK. 50, 2, v. l.</ls> (<ls>Sch.</ls>: {#jAta = samUha)#}.{# haranti dozajAtAni naraM jAtaM yaTecCakam#} 
-<ls>MBH. 12, 1500.</ls> {#yadi vA dozajAtaM tvaM paradArezu paSyasi#} {%für eine Art Sünde, für etwas Sündhaftes%} 
-<ls>1502.</ls> {#sarvezAM DanajAtAnAmAdadItAgryamagrajaH#} {%von Allem was Besitz heisst%} 
-<ls>M. 9, 114.</ls> {#sarvaM vA rikTajAtam#} 
-<ls>152.</ls> {#tatra yadrikTajAtaM syAt#} 
-<ls>190.</ls> {#sarvaM SAstrajAtam#} 
-<ls>KULL.</ls> zu <ls>M. 2, 8.</ls> {#sakalasya kAryajAtasya#} ders. zu 
-<ls>1, 6.</ls> {#karmajAtam#} {%alles was Geschäft heisst%} ders. zu 
-<ls>7, 61.</ls> {#niHSezaviSrARitakoSajAta#} 
-<ls>RAGH. 5, 1.</ls> {#mantrajAta#} v.l. für {#mantragrAma#} 
-<ls>MBH. 1, 3049.</ls> {#prAgantarikzagamanAtsvamapatyajAtamanyErdvijEH paraBftAH Kalu pozayanti#} {%ihre Brut%} 
-<ls>ŚĀK. 118.</ls> {#nindasi yajYaviDerahaha SrutijAtam#} 
-<ls>GĪT. 1, 13.</ls> {#vacanajAtam#} {%die Gesammtheit der Reden%} 
-<ls>10, 9.</ls> {#janaya radaKaRqanaM yena vA Bavati suKajAtam#} {%oder was sonst immer angenehm heisst%} 
-<ls>3.</ls> {#jAte#} {%im Allgemeinen%} 
-<ls>Ind. St. 4, 140.</ls> = {#jAti#} 
-<ls>AK. 1, 1, 4, 9.</ls> 
-<ls>H. 1515,</ls> 
-<ls>Sch.</ls> = {#oGa#} 
-<ls>TRIK. 3, 3, 156.</ls> 
-<ls>H. 1412.</ls> 
-<ls>an. 2, 168</ls> (lies: {#jAtyoGajanizu#}). 
-<ls>MED. t. 18.</ls> {#kzudrARqamatsyajAta#} (v. l. {#°jAla#}) als Erkl. von {#potADAna#} {%Fischbrut%} 
-<ls>H. 1347.</ls> 
-<div n="2">— d) = {#jAtakarman#} 
-<ls>Verz. d. B. H. No. 862.</ls> - <ls>TRIK.</ls> u. <ls>MED.</ls> geben dem <lex>n.</lex> noch die Bed. {#vyakta#} .
+<ls>TRIK. 3,3,156.</ls>
+<ls>H. an. 2,168.</ls>
+<ls>MED. t. 18</ls>); {%Wesen%}: {#u\pa\stutya\M mahi^ jA\taM te^ arvan#}
+<ls>ṚV. 1,163,1.</ls> {#yo jA\tama^sya maha\to mahi\ brava^t#}
+<ls n="ṚV. 1,">156,2.</ls> {#ma\HAngarBo\ mahyA jA\tame^zAm#}
+<ls n="ṚV.">3,31,3.</ls> {#a\gnirjA\tA#} (hierher oder zu c) {#de\vAnA^ma\gnirve^da\ martA^nAmapI\cya^m#}
+<ls n="ṚV.">8,39,6.</ls> {#kena\ jAte^nAsi jA\tave^dAH#}
+<ls>AV. 5,11,2.</ls> <ls n="AV. 5,11,">3.</ls>
+<div n="2">— c) {%Geschlecht, Art, genus; eine Gesammtheit zusammengehöriger Dinge%}: {#pi\SA\cyAH#}
+<ls>AV. 1,16,3.</ls> {#sa\rpARA^m#}
+<ls n="AV.">10,4,23.</ls> {#rudrARAm#}
+<ls>ŚAT. BR. 9,1,1,19.</ls> {#brAhmaRajAta#}
+<ls n="ŚAT. BR.">13,4,2,17.</ls> {#devajAtAni#}
+<ls n="ŚAT. BR.">14,4,2,24.</ls> {#saptadaSEkEkasya jAtasya#}
+<ls>LĀṬY. 8,11,16.</ls> {#kzatrajAta#}
+<ls>RAGH. 11,71.</ls> {#zaqeva svaritajAtAni#}
+<ls>Ind. St. 4,139.</ls> {#caturviDasTUlaSarIrajAtam#}
+<ls>VEDĀNTAS. (Allah.) No. 93.</ls> {#caturRAM SatrujAtAnAm#}
+<ls>MBH. 15,215.</ls> {#vAkya°#}
+<ls>SĀY.</ls> bei <ls>BURN.</ls> in der Einl. zu
+<ls>BHĀG. P. I, x.</ls> {#kimannajAtamizwaM te#}
+<ls>MBH. 13,2741.</ls> {#viDyanto mfgajAtAni#} {%alle Arten von Thieren%}
+<ls n="MBH.">4,143.</ls> {#AyuDajAtAni#}
+<ls>R. GORR. 2,39,19.</ls> {#idamalaMkArajAtam#} {%hier ist eine besondere Art Schmuck%}
+<ls>ŚĀK. 50,2, v. l.</ls> (<ls>Sch.</ls>: {#jAta = samUha)#}.{# haranti dozajAtAni naraM jAtaM yaTecCakam#}
+<ls>MBH. 12,1500.</ls> {#yadi vA dozajAtaM tvaM paradArezu paSyasi#} {%für eine Art Sünde, für etwas Sündhaftes%}
+<ls n="MBH. 12,">1502.</ls> {#sarvezAM DanajAtAnAmAdadItAgryamagrajaH#} {%von Allem was Besitz heisst%}
+<ls>M. 9,114.</ls> {#sarvaM vA rikTajAtam#}
+<ls n="M. 9,">152.</ls> {#tatra yadrikTajAtaM syAt#}
+<ls n="M. 9,">190.</ls> {#sarvaM SAstrajAtam#}
+<ls>KULL.</ls> zu <ls>M. 2,8.</ls> {#sakalasya kAryajAtasya#} ders. zu
+<ls n="M.">1,6.</ls> {#karmajAtam#} {%alles was Geschäft heisst%} ders. zu
+<ls n="M.">7,61.</ls> {#niHSezaviSrARitakoSajAta#}
+<ls>RAGH. 5,1.</ls> {#mantrajAta#} v.l. für {#mantragrAma#}
+<ls>MBH. 1,3049.</ls> {#prAgantarikzagamanAtsvamapatyajAtamanyErdvijEH paraBftAH Kalu pozayanti#} {%ihre Brut%}
+<ls>ŚĀK. 118.</ls> {#nindasi yajYaviDerahaha SrutijAtam#}
+<ls>GĪT. 1,13.</ls> {#vacanajAtam#} {%die Gesammtheit der Reden%}
+<ls n="GĪT.">10,9.</ls> {#janaya radaKaRqanaM yena vA Bavati suKajAtam#} {%oder was sonst immer angenehm heisst%}
+<ls n="GĪT.">3.</ls> {#jAte#} {%im Allgemeinen%}
+<ls>Ind. St. 4,140.</ls> = {#jAti#}
+<ls>AK. 1,1,4,9.</ls>
+<ls>H. 1515</ls>, <ls>Sch.</ls>
+= {#oGa#}
+<ls>TRIK. 3,3,156.</ls>
+<ls>H. 1412.</ls>
+<ls>an. 2,168</ls> (lies: {#jAtyoGajanizu#}).
+<ls>MED. t. 18.</ls> {#kzudrARqamatsyajAta#} (v. l. {#°jAla#}) als Erkl. von {#potADAna#} {%Fischbrut%}
+<ls>H. 1347.</ls>
+<div n="2">— d) = {#jAtakarman#}
+<ls>Verz. d. B. H. No. 862.</ls> — <ls>TRIK.</ls> u. <ls>MED.</ls> geben dem <lex>n.</lex> noch die Bed. {#vyakta#} .
 <LEND>

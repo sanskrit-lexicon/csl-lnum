@@ -1,7 +1,7 @@
 <L>18267<pc>0681-b<k1>pariSezaH<k2>pari(rI)SezaH
 {#pari(rI)SezaH#}¦ {@1@} Remainder, <lbinfo n="rem+nant"/>
-<>remnant. {@--2@} Supplement. {@--3@} <lbinfo n="Termina+tion"/>
-<>Termination, conclusion, completion. ( <lbinfo n="pari#SezeRa"/>
-<>{#pariSezeRa#} {%<ab>ind.</ab>%} {@1@} With the residue. {@--2@}
-<>Completely, in full.)
+remnant. {@--2@} Supplement. {@--3@} <lbinfo n="Termina+tion"/>
+Termination, conclusion, completion. ( <lbinfo n="pari#SezeRa"/>
+{#pariSezeRa#} {%<ab>ind.</ab>%} {@1@} With the residue. {@--2@}
+Completely, in full.)
 <LEND>

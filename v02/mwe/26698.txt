@@ -1,9 +1,9 @@
 <L>26698<pc>729-a<k1>series<k2>series
-<div n="lb"/>SERIES¦, {%s.%} (Continued succession or line) {#SreRI#} {%f.,%} {#SreRiH#} {%m. f.,%}
-<div n="lb"/>{#SreDI, paMktiH#} {%f.,%} {#AvaliH -lI#} {%f.,%} {#mAlA, SfNKalA, paramparA;#} ‘of causes,’
-<div n="lb"/>{#kAraRaSreRI, kAraRamAlA;#} ‘of inflections,’ {#rUpAvaliH -lI#}. — 
-<div n="lb"/>(Arithmetical) {#SreDI, anupAtaH, cayaH;#} ‘last term in the series,’
-<div n="lb"/>{#antyapadaM, antyaDanaM;#} ‘sum of the series,’ {#sarvvaDanaM#}. — (Regular
-<div n="lb"/>succession) {#kramaH, anukramaH, paryyAyaH, AnupUrvyaM, AnupUrvI, pAramparyyaM,#}
-<div n="lb"/>{#pAwaH, paripAwiH -wI#} {%f.%}
+SERIES¦, {%s.%} (Continued succession or line) {#SreRI#} {%f.,%} {#SreRiH#} {%m. f.,%}
+{#SreDI, paMktiH#} {%f.,%} {#AvaliH -lI#} {%f.,%} {#mAlA, SfNKalA, paramparA;#} ‘of causes,’
+{#kAraRaSreRI, kAraRamAlA;#} ‘of inflections,’ {#rUpAvaliH -lI#}. — 
+(Arithmetical) {#SreDI, anupAtaH, cayaH;#} ‘last term in the series,’
+{#antyapadaM, antyaDanaM;#} ‘sum of the series,’ {#sarvvaDanaM#}. — (Regular
+succession) {#kramaH, anukramaH, paryyAyaH, AnupUrvyaM, AnupUrvI, pAramparyyaM,#}
+{#pAwaH, paripAwiH -wI#} {%f.%}
 <LEND>

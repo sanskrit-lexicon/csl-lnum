@@ -1,12 +1,12 @@
 <L>1416<pc>1127<k1>rujo<k2>rujo
 (1416) {@<s>“rujo BaNge”</s>@}¦ (VI<s>-tudAdiH</s>-1416. <s>saka</s>. <s>ani</s>. <s>para</s>.)
 <div n="NI"><s>‘BaNge rujati, hiMsAyAM rojayediti RO rujeH ..’</s> (<s>Slo</s>. 69) <s>iti devaH .</s>
-<div n="lb"><s>rojakaH-jikA, rojakaH-jikA, rurukzakaH-kzikA, rorujakaH-jikA</s>;
-<div n="lb"><s>roktA-roktrI, rojayitA-trI, rurukzitA-trI, rorujitA-trI</s>;
-<div n="lb"><s>ityAdIni sarvARyapi rUpARi rODAdikaBunaktivat</s> (1162) <s>boDyAni .</s>
-<div n="lb"><s>corasya</s>
+<s>rojakaH-jikA, rojakaH-jikA, rurukzakaH-kzikA, rorujakaH-jikA</s>;
+<s>roktA-roktrI, rojayitA-trI, rurukzitA-trI, rorujitA-trI</s>;
+<s>ityAdIni sarvARyapi rUpARi rODAdikaBunaktivat</s> (1162) <s>boDyAni .</s>
+<s>corasya</s>
 <sup>1</sup> <s>rujan rogaH, nadI kUlAni rujatI gacCati, coraM rujan, nIrujan</s>
-<div n="lb"><s>mitASI syAt</s>,
+<s>mitASI syAt</s>,
 <sup>2</sup> <s>kUlamudrujaH</s>
 <sup>A</sup>,
 <sup>3</sup> <s>rogaH</s>,
@@ -18,33 +18,33 @@
 <sup>2</sup> <s>lugnam</s>,
 <sup>3</sup> <s>vIruk, ityAdIni rUpARyasmAdBavantIti viSezaH .</s>
 <F>1. <s>atra ‘rujArTAnAM BAvavacanAnAmajvareH’</s> (2-3-54) <s>iti DAtvarTasya BAvakartfkatve</s>
-<div n="lb"><s>karmaRi Sezatvena vivakzite zazWI . tudAditvAt Satari SapratyayaH . tasya NidvadBAve</s>-
-<div n="lb"><s>nANgasya guRo na . sUtre rujASabdena vyADirucyate . tena rujeH vyADyarTatve</s>
-<div n="lb"><s>‘BAvavacanAnAm’ ityasya ‘SlezmA puruzaM rujan’ iti pratyudAharaRamiti kecit .</s>
-<div n="lb"><s>BAzye tu rujaDAtorBaNgArTatvamevASritya, ‘nadI kUlAni rujati .’ iti pratyudAhftam .</s>
-<div n="lb"><s>karmaRo'SezatvavivakzAyAM dvitIyA'pi . tena ‘coraM rujan’ iti sidDyati .</s>
-<div n="lb"><s>nipUrvako'yaM DAturvyADipratIkAre vartate . tena nIrujan = (vyADyanaBiBUtaH) iti</s>,
-<div n="lb"><s>pratIkAro'trArTaH .</s></F>
+<s>karmaRi Sezatvena vivakzite zazWI . tudAditvAt Satari SapratyayaH . tasya NidvadBAve</s>-
+<s>nANgasya guRo na . sUtre rujASabdena vyADirucyate . tena rujeH vyADyarTatve</s>
+<s>‘BAvavacanAnAm’ ityasya ‘SlezmA puruzaM rujan’ iti pratyudAharaRamiti kecit .</s>
+<s>BAzye tu rujaDAtorBaNgArTatvamevASritya, ‘nadI kUlAni rujati .’ iti pratyudAhftam .</s>
+<s>karmaRo'SezatvavivakzAyAM dvitIyA'pi . tena ‘coraM rujan’ iti sidDyati .</s>
+<s>nipUrvako'yaM DAturvyADipratIkAre vartate . tena nIrujan = (vyADyanaBiBUtaH) iti</s>,
+<s>pratIkAro'trArTaH .</s></F>
 <F>2. <s>‘udi kUle rujivahoH’</s> (3-1-31) <s>iti kUlaSabde karmaRyupapade utpUrbakasyAsya</s>
-<div n="lb"><s>KaSpratyayaH . ‘arurdvizadajantasya—’</s> (6-3-67) <s>iti mum . SittvAt sArvaDAtuka</s>-
-<div n="lb"><s>tvam . tasya ca NidvadBAvAd guRo na . kUlAni udrujatIti kUlamudrujaH raTaH . ukzA</s>
-<div n="lb"><s>iti kecit .</s></F>
+<s>KaSpratyayaH . ‘arurdvizadajantasya—’</s> (6-3-67) <s>iti mum . SittvAt sArvaDAtuka</s>-
+<s>tvam . tasya ca NidvadBAvAd guRo na . kUlAni udrujatIti kUlamudrujaH raTaH . ukzA</s>
+<s>iti kecit .</s></F>
 <F>A. <s>‘madodagrAH kakudmantaH saritAM kUlamudrujAH .’ raGu</s>. 4. 22.</F>
 <F>3. <s>‘padarujaviSaspfSo GaY’</s> (3-3-16) <s>iti kartari GaY . rujatIti rogaH .</s>
-<div n="lb"><s>‘cajoH—’</s> (7-3-52) <s>iti kutvam .</s></F>
+<s>‘cajoH—’</s> (7-3-52) <s>iti kutvam .</s></F>
 <F>4. <s>‘vA SokazyaYrogezu’</s> (6-3-51) <s>iti hfdayaSabdasya rogaSabde pare hfdBAvavikalpaH .</s></F>
 <F>5. <s>BidAdeH</s> (3-3-104) <s>AkftigaRatvena tatra pAWAdaN . pratyayasya NittvAnna guRaH .</s></F>
 <F>6. <s>‘rogAKyAyAM Rvul bahulam’</s> (3-3-108) <s>ityatra bahulagrahaRAt rogavAcakatve'pi</s>
-<div n="lb"><s>striyAM sampadAdi (vA</s>. 3-3-108) <s>pAWAt kvip .</s></F>
+<s>striyAM sampadAdi (vA</s>. 3-3-108) <s>pAWAt kvip .</s></F>
 <F>1. <s>‘oditaSca’</s> (8-2-44) <s>iti nizWAnatvam . nizWAnatvasya paraSAstratvAt, ‘coH</s>
-<div n="lb"><s>kuH’</s> (8-2-30) <s>iti kutvasya pUrvaSAstratvAcca, ‘tripAdyAmapi pUrvaM prati paraM</s>
-<div n="lb"><s>SAstramasidDam’ iti nyAyena nizWAnatvAsidDyA kutvamatreti boDyam . ‘awkupvAN</s>-
-<div n="lb"><s>numvyavAye'pi’</s> (8-4-2) <s>iti Ratvam .</s></F>
+<s>kuH’</s> (8-2-30) <s>iti kutvasya pUrvaSAstratvAcca, ‘tripAdyAmapi pUrvaM prati paraM</s>
+<s>SAstramasidDam’ iti nyAyena nizWAnatvAsidDyA kutvamatreti boDyam . ‘awkupvAN</s>-
+<s>numvyavAye'pi’</s> (8-4-2) <s>iti Ratvam .</s></F>
 <F>2. <s>‘kticktO ca—’</s> (3-3-174) <s>iti saMjYAyAM ktaH . ‘kapilakAdInAM saMjYAcCandasoH’</s>
-<div n="lb">(<s>vA</s>. 8-2-18) <s>ityatra kapilakAdigaRe pAWAdatra DAturePasya latvam . lugnam =</s>
-<div n="lb"><s>jIrRavastram .</s></F>
+(<s>vA</s>. 8-2-18) <s>ityatra kapilakAdigaRe pAWAdatra DAturePasya latvam . lugnam =</s>
+<s>jIrRavastram .</s></F>
 <F>3. <s>kvibante bAhulakAt ‘anyezAmapi dfSyate’</s> (6-3-137) <s>iti pUrvapadasya dIrGaH . atra</s>
-<div n="lb"><s>kzIrataraNgiRyAm— “… ‘nahivfti—’</s> (6-3-116) <s>iti dIrGaH .</s>
-<div n="lb"><s>vIruk .” ityuktam . ‘nahivftivfzivyaDirucisahitanizu kvO’</s> (6-3-116)
-<div n="lb"><s>ityatra ruci iti rucaDAtoreva sarvEH grahaRAt cintyamidam .</s></F>
+<s>kzIrataraNgiRyAm— “… ‘nahivfti—’</s> (6-3-116) <s>iti dIrGaH .</s>
+<s>vIruk .” ityuktam . ‘nahivftivfzivyaDirucisahitanizu kvO’</s> (6-3-116)
+<s>ityatra ruci iti rucaDAtoreva sarvEH grahaRAt cintyamidam .</s></F>
 <LEND>

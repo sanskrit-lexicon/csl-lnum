@@ -1,4 +1,4 @@
 <L>2531<pc>087<k1>breakfast<k2>breakfast
-<div n="lb"/>{@BREAKFAST@}¦ (subs.): <div n="1">(1) {#prAtarASaH;#} </div><div n="1">(2) {#prAta-#}
-<div n="lb"/>{#rBojanam;#} </div><div n="1">(3) {#kalyavartaH,#} Mr.</div>
+{@BREAKFAST@}¦ (subs.): <div n="1">(1) {#prAtarASaH;#} </div><div n="1">(2) {#prAta-#}
+{#rBojanam;#} </div><div n="1">(3) {#kalyavartaH,#} Mr.</div>
 <LEND>

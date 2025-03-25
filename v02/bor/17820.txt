@@ -1,9 +1,9 @@
 <L>17820<pc>546<k1>probably<k2>probably
-<div n="lb"/>{@PROBABLY:@}¦ <div n="I">I Very likely: {#prAyeRa#} <div n="xe">{%or%}</div> <div n="xs">{#prAyaH,#}</div> {%or%}
-<div n="lb"/><div n="xe">{%p. he is fallen from the mouth of a hawk:%}</div> <div n="xs">{#prAyeRa #}
-<div n="lb"/>{# SyenamuKapariBrazwena vAnena Bavitavyam,#}</div> K.; <div n="xe">{%Śakuntalā%}
-<div n="lb"/>{%is passing this time p. on the banks of the%}
-<div n="lb"/>{%Mālini:%}</div> <div n="xs">{#imAM velAM prAyeRa mAlinItIrezu SakuntalA #}
-<div n="lb"/>{# gamayati,#}</div> Sa. iii. </div><div n="I">II With probability: expr.
-<div n="lb"/>by verb, <div n="xe">{%p. he will die:%}</div> <div n="xs">{#marizyatIti samBAvayAmi.#}</div></div>
+{@PROBABLY:@}¦ <div n="I">I Very likely: {#prAyeRa#} <div n="xe">{%or%}</div> <div n="xs">{#prAyaH,#}</div> {%or%}
+<div n="xe">{%p. he is fallen from the mouth of a hawk:%}</div> <div n="xs">{#prAyeRa #}
+{# SyenamuKapariBrazwena vAnena Bavitavyam,#}</div> K.; <div n="xe">{%Śakuntalā%}
+{%is passing this time p. on the banks of the%}
+{%Mālini:%}</div> <div n="xs">{#imAM velAM prAyeRa mAlinItIrezu SakuntalA #}
+{# gamayati,#}</div> Sa. iii. </div><div n="I">II With probability: expr.
+by verb, <div n="xe">{%p. he will die:%}</div> <div n="xs">{#marizyatIti samBAvayAmi.#}</div></div>
 <LEND>

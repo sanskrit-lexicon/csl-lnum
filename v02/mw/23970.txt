@@ -1,8 +1,8 @@
 <L>23970<pc>137,2<k1>AdiS<k2>A-diS<h>1<e>1
-<hom>1.</hom> <s>A-√ diS</s> ¦ <ab>P.</ab> <s>-dide/zwi</s> ([<ab>Subj.</ab> 3. <ab>sg.</ab> <s>-dideSati</s>, <ls>AV. vi, 6, 2,</ls> &c.]), <s>-diSa/ti</s> ([3. <ab>pl.</ab> <s>-diSanti</s> <ab>Impv.</ab> 2. <ab>sg.</ab> <s>-diSa</s> <ab>impf.</ab> 1. <ab>sg.</ab> <s>A<srs/>diSam</s>, &c.]), rarely <s>-diSate</s> ([<ls>BhP. viii, 24, 51</ls>]) <ab>inf.</ab> <s>-di/Se</s> ([<ls>RV. ix, 21, 5</ls>]) and <s>-dezwum</s> (<ab>aor.</ab> 3. <ab>sg.</ab> <s>A<srs/>dikzat</s> [<ls>Bhaṭṭ. iii, 3</ls> See, <ls>Pāṇ. 3-1, 45</ls>] <ab>fut.</ab> 1. <ab>pl.</ab> <s>-dekzyAmaH</s>, <ab>perf.</ab> <s>-dideSa</s>) to aim at, have in view;
-<div n="to"/>to threaten, <ls>RV. ix, 21, 5,</ls> &c.; <ls>AV.</ls> <pb n="137,3"/>;
+<hom>1.</hom> <s>A-√ diS</s> ¦ <ab>P.</ab> <s>-dide/zwi</s> [<ab>Subj.</ab> 3. <ab>sg.</ab> <s>-dideSati</s>, <ls>AV. vi, 6, 2</ls>, &c.], <s>-diSa/ti</s> [3. <ab>pl.</ab> <s>-diSanti</s> <ab>Impv.</ab> 2. <ab>sg.</ab> <s>-diSa</s> <ab>impf.</ab> 1. <ab>sg.</ab> <s>A<srs/>diSam</s>, &c.], rarely <s>-diSate</s> [<ls>BhP. viii, 24, 51</ls>] <ab>inf.</ab> <s>-di/Se</s> [<ls>RV. ix, 21, 5</ls>] and <s>-dezwum</s> (<ab>aor.</ab> 3. <ab>sg.</ab> <s>A<srs/>dikzat</s> [<ls>Bhaṭṭ. iii, 3</ls> See <ls>Pāṇ. iii, 1, 45</ls>] <ab>fut.</ab> 1. <ab>pl.</ab> <s>-dekzyAmaH</s>, <ab>perf.</ab> <s>-dideSa</s>) to aim at, have in view;
+<div n="to"/>to threaten, <ls>RV. ix, 21, 5</ls>, &c.; <ls>AV.</ls> <pb n="137,3"/>;
 <div n="to"/>to hit, <ls>RV. ix, 56, 1</ls>;
-<div n="to"/>to assign, <ls>RV. ii, 41, 17,</ls> &c.; <ls>AV.</ls>; <ls>BhP.</ls>; <ls>R.</ls>; <ls>Ragh.</ls> &c.;
+<div n="to"/>to assign, <ls>RV. ii, 41, 17</ls>, &c.; <ls>AV.</ls>; <ls>BhP.</ls>; <ls>R.</ls>; <ls>Ragh.</ls> &c.;
 <div n="to"/>to point out, indicate;
 <div n="to"/>to report, announce, teach, <ls>ChUp. iii, 18, 1</ls>; <ls>BhP.</ls>; <ls>MBh.</ls>; <ls>R.</ls>; <ls>Ragh.</ls> &c.;
 <div n="to"/>to determine, specify, denominate, <ls>ŚBr. iii, 5, 8</ls>; <ls>ŚāṅkhŚr.</ls>; <ls>Lāṭy.</ls>; <ls>BhP.</ls>; <ls>AitBr.</ls> &c.;
@@ -12,6 +12,6 @@
 <div n="to"/>to banish, <ls>MBh.</ls>; <ls>Śak.</ls>; <ls>Kathās.</ls> &c.;
 <div n="to"/>to undertake, try, <ls>MBh.</ls>;
 <div n="to"/>to profess as one's aim or duty, <ls>RV.</ls>; <ls>Yājñ.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-deSayati</s>, to show, indicate, announce, <ls>Ratnāv.</ls>; <ls>MBh.</ls>; <ls>Śak.</ls>; <ls>Mṛcch.</ls> :
-<div n="to"/><ab>Intens.</ab> (<ab>p.</ab> <s>-de/diSAna</s>) to have in view, aim at (<ab>acc.</ab>), <ls>RV. ix, 70, 5.</ls><info verb="pre" cp="P" parse="A+diS"/>
+<div n="vp"/><ab>Caus.</ab> <s>-deSayati</s>, to show, indicate, announce, <ls>Ratnāv.</ls>; <ls>MBh.</ls>; <ls>Śak.</ls>; <ls>Mṛcch.</ls> :
+<div n="vp"/><ab>Intens.</ab> (<ab>p.</ab> <s>-de/diSAna</s>) to have in view, aim at (<ab>acc.</ab>), <ls>RV. ix, 70, 5.</ls><info verb="pre" cp="P" parse="A+diS"/>
 <LEND>

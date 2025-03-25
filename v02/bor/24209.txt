@@ -1,11 +1,11 @@
 <L>24209<pc>757<k1>weigh<k2>weigh
-<div n="lb"/>{@WEIGH@}¦ (v. t.): <div n="I">I Lit.: </div><div n="1">(1) {#tolayati#} <div n="xe">{%or%}</div> <div n="xs">{#tUlayati#}</div>
-<div n="lb"/>({#tul#} <div n="xe">{%or%}</div> <div n="xs">{#tUl,#}</div> c. 10.), {%if increases when w. ed:%}
-<div n="lb"/>{#tulito yadi varDate,#} N. s.; </div><div n="1">(2) {#tulAyAM karoti#} <div n="xe">{%or%}</div> <div n="xs">{#DArayati#}</div>
-<div n="lb"/>(prop. in a balance), <div n="xe">{%if truth is w. ed with%}
-<div n="lb"/>{%thousand horse-sacrifices:%}</div> <div n="xs">{#aSvameDasahasrARi satyaYca #}
-<div n="lb"/>{# tulayA Dftam,#}</div> H. iv. 131. </div><div n="I">II As anchor:
-<div n="lb"/>{#tolayati, ut-:#} v. To lift, raise. </div><div n="I">III To
-<div n="lb"/>ponder, consider: q. v.: {#vimfSati#} ({#mfS,#} c. 6.)
-<div n="lb"/>Comp., {%w. down:%} v. To overcome, oppress.</div>
+{@WEIGH@}¦ (v. t.): <div n="I">I Lit.: </div><div n="1">(1) {#tolayati#} <div n="xe">{%or%}</div> <div n="xs">{#tUlayati#}</div>
+({#tul#} <div n="xe">{%or%}</div> <div n="xs">{#tUl,#}</div> c. 10.), {%if increases when w. ed:%}
+{#tulito yadi varDate,#} N. s.; </div><div n="1">(2) {#tulAyAM karoti#} <div n="xe">{%or%}</div> <div n="xs">{#DArayati#}</div>
+(prop. in a balance), <div n="xe">{%if truth is w. ed with%}
+{%thousand horse-sacrifices:%}</div> <div n="xs">{#aSvameDasahasrARi satyaYca #}
+{# tulayA Dftam,#}</div> H. iv. 131. </div><div n="I">II As anchor:
+{#tolayati, ut-:#} v. To lift, raise. </div><div n="I">III To
+ponder, consider: q. v.: {#vimfSati#} ({#mfS,#} c. 6.)
+Comp., {%w. down:%} v. To overcome, oppress.</div>
 <LEND>

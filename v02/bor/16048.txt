@@ -1,12 +1,12 @@
 <L>16048<pc>494<k1>out of<k2>out of
-<div n="lb"/>{@OUT OF:@}¦ <div n="I">I Of place: q. v.: by abl.: <div n="xe">{%to%}
-<div n="lb"/>{%expel o. of a country:%}</div> <div n="xs">{#deSAnniHsArayati,#}</div> B. p.: v.
-<div n="lb"/>From. </div><div n="I">II Denoting motive: by abl., <div n="xe">{%o. of%}
-<div n="lb"/>{%fear:%}</div> <div n="xs">{#BayAt.:#}</div> v. From. </div><div n="I">III = beyond: expr.
-<div n="lb"/>with {#atItaH#} ({#tA, taM#}) <div n="xe">{%or%}</div> <div n="xs">{#ati-#}</div> in comp. (rare),
-<div n="lb"/><div n="xe">{%o. of one's power:%}</div> <div n="xs">{#SattayatItaH#}</div> ({#tA, taM#}). Ph.: <div n="xe">{%gone%}
-<div n="lb"/>{%o. of sight:%}</div> <div n="xs">{#cakzurvizayamatikrAntaH.#}</div> </div><div n="I">IV In various
-<div n="lb"/>senses: <div n="xe">{%o. of tune:%}</div> <div n="xs">{#visvaraH#}</div> ({#rA, raM#}); {%o. of use:%}
-<div n="lb"/>{#gatavyavahAraH#} ({#rA, raM#}); <div n="xe">{%o. of life:%}</div> <div n="xs">{#vigatajIvitaH#}</div>
-<div n="lb"/>({#tA, taM#}); <div n="xe">{%o. of hope:%}</div> <div n="xs">{#gatASaH#}</div> ({#SA, SaM#}).</div>
+{@OUT OF:@}¦ <div n="I">I Of place: q. v.: by abl.: <div n="xe">{%to%}
+{%expel o. of a country:%}</div> <div n="xs">{#deSAnniHsArayati,#}</div> B. p.: v.
+From. </div><div n="I">II Denoting motive: by abl., <div n="xe">{%o. of%}
+{%fear:%}</div> <div n="xs">{#BayAt.:#}</div> v. From. </div><div n="I">III = beyond: expr.
+with {#atItaH#} ({#tA, taM#}) <div n="xe">{%or%}</div> <div n="xs">{#ati-#}</div> in comp. (rare),
+<div n="xe">{%o. of one's power:%}</div> <div n="xs">{#SattayatItaH#}</div> ({#tA, taM#}). Ph.: <div n="xe">{%gone%}
+{%o. of sight:%}</div> <div n="xs">{#cakzurvizayamatikrAntaH.#}</div> </div><div n="I">IV In various
+senses: <div n="xe">{%o. of tune:%}</div> <div n="xs">{#visvaraH#}</div> ({#rA, raM#}); {%o. of use:%}
+{#gatavyavahAraH#} ({#rA, raM#}); <div n="xe">{%o. of life:%}</div> <div n="xs">{#vigatajIvitaH#}</div>
+({#tA, taM#}); <div n="xe">{%o. of hope:%}</div> <div n="xs">{#gatASaH#}</div> ({#SA, SaM#}).</div>
 <LEND>

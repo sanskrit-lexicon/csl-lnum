@@ -1,3 +1,3 @@
-<L>237843<pc>1183,3<k1>sarkza<k2>sa-rkza<h>b<e>1
-<s>sa-rkza</s> <hom>b</hom> ¦ <lex>mf(<s>A</s>)n.</lex> (<ab>i.e.</ab> 7. <s>sa</s> + <s>fkza</s>) joined or united with a <s1 slp1="nakzatra">Nakṣatra</s1>, <ls>Kṛṣṇaj.</ls><info lex="m:f#A:n"/>
+<L>237843<pc>1183,3<k1>sarkza<k2>sa-rkza<e>1
+<s>sa-rkza</s> ¦ <lex>mf(<s>A</s>)n.</lex> (<ab>i.e.</ab> <hom>7.</hom> <s>sa</s> + <s>fkza</s>) joined or united with a <s1>Nakṣatra</s1>, <ls>Kṛṣṇaj.</ls><info lex="m:f#A:n"/><info hui="b"/>
 <LEND>

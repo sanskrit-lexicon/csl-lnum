@@ -1,10 +1,10 @@
 <L>3867<pc>126<k1>cloud<k2>cloud
-<div n="lb"/>{@CLOUD@}¦ (subs.): <div n="1">(1) {#meGaH;#} </div><div n="1">(2) {#jaladaH;#} </div><div n="1">(3) {#jala-#} [Page127]
-<div n="lb"/>{#DaraH;#} </div><div n="1">(4) {#GanaH;#} </div><div n="1">(5) {#parjanyaH;#} </div><div n="1">(6) {#aBram;#} </div><div n="1">(7) {#balA-#}
-<div n="lb"/>{#hakaH;#} </div><div n="1">(8) {#jImUtaH;#} </div><div n="1">(9) {#nIradaH;#} </div><div n="1">(10) {#payomuc#} (m.).
-<div n="lb"/><div n="xe">{%C. born:%}</div> <div n="xs">{#meDyaH#}</div> ({#DyA, DyaM#}); <div n="xe">{%c.-producing:%}</div> <div n="xs">{#meGa-#}
-<div n="lb"/>{#NkaraH#}</div> ({#rI, raM#}), Si. xx. 61. and 65.; <div n="xe">{%a long%}
-<div n="lb"/>{%line of c. s:%}</div> <div n="xs">{#kAdambinI,#}</div> Ku. Fig.: {%a c. of dust%}
-<div n="lb"/>{#DUlIpawalaH;#} <div n="xe">{%I am under a c. now:%}</div> <div n="xs">{#sAmprataM mamopari #}
-<div n="lb"/>{# SanerdyazwiH#}</div> (?).</div>
+{@CLOUD@}¦ (subs.): <div n="1">(1) {#meGaH;#} </div><div n="1">(2) {#jaladaH;#} </div><div n="1">(3) {#jala-#} [Page127]
+{#DaraH;#} </div><div n="1">(4) {#GanaH;#} </div><div n="1">(5) {#parjanyaH;#} </div><div n="1">(6) {#aBram;#} </div><div n="1">(7) {#balA-#}
+{#hakaH;#} </div><div n="1">(8) {#jImUtaH;#} </div><div n="1">(9) {#nIradaH;#} </div><div n="1">(10) {#payomuc#} (m.).
+<div n="xe">{%C. born:%}</div> <div n="xs">{#meDyaH#}</div> ({#DyA, DyaM#}); <div n="xe">{%c.-producing:%}</div> <div n="xs">{#meGa-#}
+{#NkaraH#}</div> ({#rI, raM#}), Si. xx. 61. and 65.; <div n="xe">{%a long%}
+{%line of c. s:%}</div> <div n="xs">{#kAdambinI,#}</div> Ku. Fig.: {%a c. of dust%}
+{#DUlIpawalaH;#} <div n="xe">{%I am under a c. now:%}</div> <div n="xs">{#sAmprataM mamopari #}
+{# SanerdyazwiH#}</div> (?).</div>
 <LEND>

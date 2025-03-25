@@ -1,10 +1,10 @@
 <L>22499<pc>129,1<k1>AKyA<k2>A-KyA<h>1<e>1
 <hom>1.</hom> <s>A-√ KyA</s> ¦ <ab>P.</ab> (<ab>impf.</ab> <s>-aKyat</s>) to behold, <ls>RV. iv, 2, 18</ls>;
-<div n="vp"/> (<ab>fut.</ab> <ab>p.</ab> <s>-KyAsya/t</s>; <ab>perf.</ab> 3. <ab>pl.</ab> <s>-caKyuH</s>) 
-<div n="to"/>to tell, communicate, inform, declare, announce, <ls>ŚBr. xiii, xiv</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
+<div n="vp"/> (<ab>fut.</ab> <ab>p.</ab> <s>-KyAsya/t</s>; <ab>perf.</ab> 3. <ab>pl.</ab> <s>-caKyuH</s>)
+<div n="to"/>to tell, communicate, inform, declare, announce, <ls>ŚBr. xiii</ls>, <ls n="ŚBr.">xiv</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to call (with two <ab>acc.</ab>), <ls>Ragh. x, 22</ls> :
-<div n="to"/><ab>Pass.</ab> <s>-KyAyate</s>, to be named or enumerated, <ls>ŚBr.</ls>;
-<div n="to"/>to be called, <ls>ŚBr. x, xiv</ls> :
-<div n="to"/><ab>Caus.</ab> <ab>P.</ab> (2. <ab>sg.</ab> <s>-KyApayasi</s>) to make known, declare, <ls>MBh. i, 7485</ls> :
+<div n="vp"/><ab>Pass.</ab> <s>-KyAyate</s>, to be named or enumerated, <ls>ŚBr.</ls>;
+<div n="to"/>to be called, <ls>ŚBr. x</ls>, <ls n="ŚBr.">xiv</ls> :
+<div n="vp"/><ab>Caus.</ab> <ab>P.</ab> (2. <ab>sg.</ab> <s>-KyApayasi</s>) to make known, declare, <ls>MBh. i, 7485</ls> :
 <div n="to"/><ab>Ā.</ab> (<ab>Pot.</ab> <s>-KyApayeta</s>) to cause to tell, <ls>AitBr.</ls>; <ls>ŚāṅkhŚr.</ls><info verb="pre" cp="PĀ" parse="A+KyA"/>
 <LEND>

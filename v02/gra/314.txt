@@ -1,4 +1,4 @@
 <L>314<pc>0039<k1>admasadvan<k2>admasa/dvan
-{@admasádvan,@}¦ a., {%Tischgenossen habend%} (von admasád).
-<div n="P1">-ā {445,4} (von Agni).
+<chg type="chg" n="19" src="gra"><old>{@admasádvan,@}</old><new>{@adma-sádvan,@}</new></chg>¦ <chg type="chg" n="19" src="gra"><old><ab>a.</ab></old><new><ab>m.</ab></new></chg>, <chg type="chg" n="20" src="gra"><old>{%Tischgenossen habend%} (von admasád).</old><new>{%Tischgenosse%}.</new></chg>
+<div n="TS">-ā {445,4} (von Agni).
 <LEND>

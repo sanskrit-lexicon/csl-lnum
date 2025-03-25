@@ -1,6 +1,6 @@
 <L>13678<pc>421<k1>little<k2>little
-<div n="lb"/>{@LITTLE@}¦ (subs.): <div n="1">(1) {#kiYcit,#} <div n="xe">{%if (he) would delay%}
-<div n="lb"/>{%a l.:%}</div> <div n="xs">{#yadi kiYcidvilambeta,#}</div> R.; </div><div n="1">(2) {#alpam,#} <div n="xe">{%wish-%}
-<div n="lb"/>{%ing to lose much for a l.:%}</div> <div n="xs">{#alpasya hetorbahu hAtumi-#}
-<div n="lb"/>{#cCan,#}</div> R.</div>
+{@LITTLE@}¦ (subs.): <div n="1">(1) {#kiYcit,#} <div n="xe">{%if (he) would delay%}
+{%a l.:%}</div> <div n="xs">{#yadi kiYcidvilambeta,#}</div> R.; </div><div n="1">(2) {#alpam,#} <div n="xe">{%wish-%}
+{%ing to lose much for a l.:%}</div> <div n="xs">{#alpasya hetorbahu hAtumi-#}
+{#cCan,#}</div> R.</div>
 <LEND>

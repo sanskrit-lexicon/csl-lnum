@@ -1,5 +1,5 @@
 <L>9642<pc>305<k1>gallantry<k2>gallantry
-<div n="lb"/>{@GALLANTRY:@}¦ <div n="I">I Courage, bravery: q.v.:
-<div n="lb"/>{#SOryam.#} </div><div n="I">II Politeness: {#dAkziRyam.#} </div><div n="I">III Amour:
-<div n="lb"/>{#praRayaH.#}</div>
+{@GALLANTRY:@}¦ <div n="I">I Courage, bravery: q.v.:
+{#SOryam.#} </div><div n="I">II Politeness: {#dAkziRyam.#} </div><div n="I">III Amour:
+{#praRayaH.#}</div>
 <LEND>

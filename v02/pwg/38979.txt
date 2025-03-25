@@ -1,60 +1,58 @@
 <L>38979<pc>4-0157<k1>nipAta<k2>nipAta
-{#nipAta#}¦ (von {#pat#} mit {#ni#}) <lex>m.</lex> 
-<div n="1"> 1) {%Sturz, Fall%}: {#A nipAtAcCarIrasya#} 
-<ls>M. 6, 31. 11, 104.</ls> 
-<ls>HARIV. 4545. 4701.</ls> 
-<ls>KATHĀS. 25, 125.</ls> 
-<ls>BHĀG. P. 3, 13, 29. 5, 16, 20.</ls> {#SEla°#} 
-<ls>MBH. 1, 8285.</ls> 
-<ls>VARĀH. BṚH. S. 57, 14.</ls> {#tuzArasaMGAta°#} 
-<ls>ṚT. 5, 4.</ls> {#DArARAm#} 
-<ls>ARJ. 8, 6.</ls> {#GanaDArA°#} 
-<ls>PAÑCAT. 93, 2.</ls> {#aSru°#} 
-<ls>MBH. 3, 327.</ls> 
-<ls>R. 2, 74, 23.</ls> 
-<ls>VARĀH. BṚH. S. 45, 8.</ls> {#(vindavaH) payoDarotseDanipAtacUrRitAH#} {%Fall auf%} 
-<ls>KUMĀRAS. 5, 24.</ls> {#vajranipAtEH#} 
-<ls>MBH. 4, 353</ls> <ls>?= HARIV. 4719.</ls> {#SApASani°#} 
-<ls>4059.</ls> <ls>R. 3, 7, 36.</ls> <ls>VARĀH. BṚH. S. 5, 63. 32, 23.</ls> {#zawsu SamyAnipAtezu valmIkAt#} {%sechs Würfe%} (zur Bezeichnung einer Entfernung) 
-<ls>MBH. 3, 7087.</ls> {#kaSA°#} so v. a. {%Peitschenhieb%} 
-<ls>R. 5, 48, 6.</ls> {#vARa°#} 
-<ls>ARJ. 7, 10.</ls> {#izu°#} 
-<ls>KUMĀRAS. 3, 15.</ls> {#niSitanipAtAH SarAH#} 
-<ls>ŚĀK. 10.</ls> {#saMpAtezvaBiGAtezu nipAtezvasicarmaRoH#} 
-<ls>MBH. 7, 563. fg.</ls> {#Sastra°#} so v. a. {%Messerschnitt%} 
-<ls>SUŚR. 1, 18, 15. 359, 18.</ls> {#dfzwi°#} {%Blick%} 
-<ls>M.3,241.</ls> <ls>MBH. 13,6307.</ls> <ls>VARĀH. BṚH. S.</ls> <ls>?27,C,8.</ls> {%das Losstürzen, Anfall, Angriff%} 
-<ls>MBH. 7, 3792.</ls> {#siMha°#} {%des Löwen%} 
-<ls>RAGH. 2, 60.</ls> {#rAma°#} {%auf%} <is>Rāma</is> 
-<ls>R. 3, 43, 39.</ls> {%das Sichniedersetzen eines Vogels%} 
-<ls>MBH. 3, 13278.</ls> {%Sturz, Fall%} in übertr. Bed.: {#mahApuruza°#} 
-<ls>MṚCCH. 138, 19.</ls> 
-<div n="1">— 2) {%Todesfall, Tod%} 
-<ls>TRIK. 2, 8, 60.</ls> 
-<ls>M. 8, 185.</ls> {#saMgarezu nipAtezu taTApadvyasanezu ca#} 
-<ls>MBH. 5, 4086.</ls> {#prARa°#} 
-<ls>R. 1, 59, 21</ls> fehlerhafte Lesart für {#prARAtipAta#} . 
-<div n="1">— 3) {%zufälliges Erscheinen%}: {#teneSvaranipAtena paTA yAti mahAjanaH#} 
-<ls>R. 5, 81, 22.</ls> {%gelegentliches Vorkommen, beiläufige Erwähnung%}: {#tasyEza nipAto Bavati vESvAnarIyAyAmfci#} 
-<ls>NIR. 2, 20.</ls> {#nipAtamevEte uttare jyotizI etena nAmaDeyena Bajete#} 
-<ls>7, 31.</ls> {#taTEva hotA kuryAtsaMprEzavadAdeSAnpaSuvannipAtAn#} 
-<ls>ĀŚV. ŚR. 6, 14.</ls> {%unregelmässige, als Ausnahme geltende Erscheinung, Unregelmässigkeit%}
+{#nipAta#}¦ (von {#pat#} mit {#ni#}) <lex>m.</lex>
+<div n="1"> 1) {%Sturz, Fall%}: {#A nipAtAcCarIrasya#}
+<ls>M. 6,31.</ls> <ls n="M.">11,104.</ls>
+<ls>HARIV. 4545.</ls> <ls n="HARIV.">4701.</ls>
+<ls>KATHĀS. 25,125.</ls>
+<ls>BHĀG. P. 3,13,29.</ls> <ls n="BHĀG. P.">5,16,20.</ls> {#SEla°#}
+<ls>MBH. 1,8285.</ls>
+<ls>VARĀH. BṚH. S. 57,14.</ls> {#tuzArasaMGAta°#}
+<ls>ṚT. 5,4.</ls> {#DArARAm#}
+<ls>ARJ. 8,6.</ls> {#GanaDArA°#}
+<ls>PAÑCAT. 93,2.</ls> {#aSru°#}
+<ls>MBH. 3,327.</ls>
+<ls>R. 2,74,23.</ls>
+<ls>VARĀH. BṚH. S. 45,8.</ls> {#(vindavaH) payoDarotseDanipAtacUrRitAH#} {%Fall auf%}
+<ls>KUMĀRAS. 5,24.</ls> {#vajranipAtEH#}
+<ls>MBH. 4,353</ls> = <ls>HARIV. 4719.</ls> {#SApASani°#}
+<ls n="HARIV.">4059.</ls> <ls>R. 3,7,36.</ls> <ls>VARĀH. BṚH. S. 5,63. 32,23.</ls> {#zawsu SamyAnipAtezu valmIkAt#} {%sechs Würfe%} (zur Bezeichnung einer Entfernung)
+<ls>MBH. 3,7087.</ls> {#kaSA°#} so v. a. {%Peitschenhieb%}
+<ls>R. 5,48,6.</ls> {#vARa°#}
+<ls>ARJ. 7,10.</ls> {#izu°#}
+<ls>KUMĀRAS. 3,15.</ls> {#niSitanipAtAH SarAH#}
+<ls>ŚĀK. 10.</ls> {#saMpAtezvaBiGAtezu nipAtezvasicarmaRoH#}
+<ls>MBH. 7,563. fg.</ls> {#Sastra°#} so v. a. {%Messerschnitt%}
+<ls>SUŚR. 1,18,15. 359,18.</ls> {#dfzwi°#} {%Blick%}
+<ls>M. 3,241.</ls> <ls>MBH. 13,6307.</ls> <ls>VARĀH. BṚH. S. 27,c,8.</ls> {%das Losstürzen, Anfall, Angriff%}
+<ls>MBH. 7,3792.</ls> {#siMha°#} {%des Löwen%}
+<ls>RAGH. 2,60.</ls> {#rAma°#} {%auf%} <is>Rāma</is>
+<ls>R. 3,43,39.</ls> {%das Sichniedersetzen eines Vogels%}
+<ls>MBH. 3,13278.</ls> {%Sturz, Fall%} in übertr. Bed.: {#mahApuruza°#}
+<ls>MṚCCH. 138,19.</ls>
+<div n="1">— 2) {%Todesfall, Tod%}
+<ls>TRIK. 2,8,60.</ls>
+<ls>M. 8,185.</ls> {#saMgarezu nipAtezu taTApadvyasanezu ca#}
+<ls>MBH. 5,4086.</ls> {#prARa°#}
+<ls>R. 1,59,21</ls> fehlerhafte Lesart für {#prARAtipAta#} .
+<div n="1">— 3) {%zufälliges Erscheinen%}: {#teneSvaranipAtena paTA yAti mahAjanaH#}
+<ls>R. 5,81,22.</ls> {%gelegentliches Vorkommen, beiläufige Erwähnung%}: {#tasyEza nipAto Bavati vESvAnarIyAyAmfci#}
+<ls>NIR. 2,20.</ls> {#nipAtamevEte uttare jyotizI etena nAmaDeyena Bajete#}
+<ls n="NIR.">7,31.</ls> {#taTEva hotA kuryAtsaMprEzavadAdeSAnpaSuvannipAtAn#}
+<ls>ĀŚV. ŚR. 6,14.</ls> {%unregelmässige, als Ausnahme geltende Erscheinung, Unregelmässigkeit%}
 [Page4-0158]
-
-<ls>VOP. 26, 11.</ls> {#pUrva°#} {%das unregelmässige Vorangehen eines Wortes in einer Zusammensetzung%} 
-<ls>P. 1, 2, 44. Schol.</ls> zu <ls>P. 2, 2, 35, <is>Vārtt</is>. 1 und 2.</ls> {#para°#} {%das unregelmässige Hinterhergehen eines Wortes in einer Zusammensetzung%} 
-<ls>P. 6, 2, 170,</ls> 
-<ls>Sch. 8, 4, 4,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 4) {%das untere Ende%} (?): {#yatrodeti tasya ha samAnasUtranipAte nimlocati#} 
-<ls>BHĀG. P. 5, 21, 9.</ls> {%quand il (le soleil) se léve pour un point, il se couche pour le point situé á l'extrémité opposé du diamétre de sa course%} 
-<ls>BURN.</ls> 
-<div n="1">— 5) in der Gramm. {%Partikel (das gelegentlich hinzukommende Wort, Nebenwort)%}: {#nipAtA uccAvacezvarTezu nipatanti#} 
-<ls>NIR. 1, 4.</ls> {#nipAtaH pAdapUraRaH#} 
-<ls>ṚV. PRĀT. 12, 8.</ls> <ls n="ṚV. PRĀT. 12,">5.</ls> <ls n="ṚV. PRĀT. 12,">9.</ls> 
-<ls>VS. PRĀT. 2, 16.</ls> 
-<ls>AV. PRĀT. 1, 79.</ls> 
-<ls>P. 1, 4, 56. fgg. 1, 14. 37. 6. 3, 136. 8, 1, 30.</ls> 
-<ls>HALĀY. 5, 86.</ls> — {#nipAta#} 
-<ls>MBH. 13, 3439</ls> fehlerhaft für {#nipAna#} .
+<ls>VOP. 26,11.</ls> {#pUrva°#} {%das unregelmässige Vorangehen eines Wortes in einer Zusammensetzung%}
+<ls>P. 1,2,44.</ls> Schol. zu <ls>P. 2,2,35</ls>, <is>Vārtt</is>. 1 und 2. {#para°#} {%das unregelmässige Hinterhergehen eines Wortes in einer Zusammensetzung%}
+<ls>P. 6,2,170</ls>, <ls>Sch. 8,4,4</ls>,
+<ls>Sch.</ls>
+<div n="1">— 4) {%das untere Ende%} (?): {#yatrodeti tasya ha samAnasUtranipAte nimlocati#}
+<ls>BHĀG. P. 5,21,9.</ls> {%quand il (le soleil) se léve pour un point, il se couche pour le point situé á l'extrémité opposé du diamétre de sa course%}
+<ls>BURN.</ls>
+<div n="1">— 5) in der Gramm. {%Partikel (das gelegentlich hinzukommende Wort, Nebenwort)%}: {#nipAtA uccAvacezvarTezu nipatanti#}
+<ls>NIR. 1,4.</ls> {#nipAtaH pAdapUraRaH#}
+<ls>ṚV. PRĀT. 12,8.</ls> <ls n="ṚV. PRĀT. 12,">5.</ls> <ls n="ṚV. PRĀT. 12,">9.</ls>
+<ls>VS. PRĀT. 2,16.</ls>
+<ls>AV. PRĀT. 1,79.</ls>
+<ls>P. 1,4,56. fgg.</ls> <ls n="P. 1,">1,14.</ls> <ls n="P. 1,1,">37.</ls> <ls n="P. 1,1,">6.</ls> <ls n="P. 1,">3,136.</ls> <ls n="P.">8,1,30.</ls>
+<ls>HALĀY. 5,86.</ls> — {#nipAta#}
+<ls>MBH. 13,3439</ls> fehlerhaft für {#nipAna#} .
 <LEND>

@@ -1,6 +1,6 @@
 <L>17340<pc>531<k1>political<k2>political
-<div n="lb"/>{@POLITICAL:@}¦ <div n="xe">{%p. science:%}</div> <div n="xs">{#nItiSAstram;#}</div> {%p. economy:%}
-<div n="lb"/>{#arTavijYAnam;#} <div n="xe">{%p. affairs:%}</div> <div n="xs">{#rAjakAryARi;#}</div> <div n="xe">{%to lead a p.%}
-<div n="lb"/>{%life:%}</div> <div n="xs">{#*rAjakAryezu jIvanamativAhayati;#}</div> {%p. institutions:%}
-<div n="lb"/>{#rAjyatantrARi#} (??).
+{@POLITICAL:@}¦ <div n="xe">{%p. science:%}</div> <div n="xs">{#nItiSAstram;#}</div> {%p. economy:%}
+{#arTavijYAnam;#} <div n="xe">{%p. affairs:%}</div> <div n="xs">{#rAjakAryARi;#}</div> <div n="xe">{%to lead a p.%}
+{%life:%}</div> <div n="xs">{#*rAjakAryezu jIvanamativAhayati;#}</div> {%p. institutions:%}
+{#rAjyatantrARi#} (??).
 <LEND>

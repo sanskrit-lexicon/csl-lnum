@@ -1,9 +1,9 @@
 <L>7700<pc>333<k1>pasture<k2>pasture
 {@Pasture,@}¦ {%s.%} {#SAdvalaM, SAdvala-tfRAvfta-BUmi#} {%f.,%}
-<div n="lb"/>{#yavasakzetraM, gopracaraH#}. {@2@} {#tfRaM, yavasaM, GAsaH,#}
-<div n="lb"/>{#paSavyaM, gavAdanaM, paSuBojanaM#}. {%-v. i.%} {#car#} 1 P,
-<div n="lb"/>{#tfRaM KAd#} 1 P or {#Bakz#} 10. {%-v. i.%} {#car#} c.,
-<div n="lb"/>{#tfRaM Buj#} c. or {#KAd#} c. {@-age,@} {%s.%} {#pracAra-#}
-<div n="lb"/>{#-BUmiH, gopracaraH#}. {@2@} {#SasyaM, GAsaH, yavasaM,#}
-<div n="lb"/>{%See%} ({%s.%}).
+{#yavasakzetraM, gopracaraH#}. {@2@} {#tfRaM, yavasaM, GAsaH,#}
+{#paSavyaM, gavAdanaM, paSuBojanaM#}. {%-v. i.%} {#car#} 1 P,
+{#tfRaM KAd#} 1 P or {#Bakz#} 10. {%-v. i.%} {#car#} c.,
+{#tfRaM Buj#} c. or {#KAd#} c. {@-age,@} {%s.%} {#pracAra-#}
+{#-BUmiH, gopracaraH#}. {@2@} {#SasyaM, GAsaH, yavasaM,#}
+{%See%} ({%s.%}).
 <LEND>

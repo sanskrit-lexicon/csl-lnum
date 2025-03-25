@@ -1,4 +1,4 @@
 <L>772<pc>0083<k1>aBijYu<k2>aBi-jYu/
-{@abhi-jñú,@}¦ 1) {%knielings;%} 2) {%bis ans Knie.%}
-<div n="P1">1) {72,5}; {273,5}; {518,4}. 2) {37,10}; {701,3}.
+<chg type="chg" n="34" src="gra"><old>{@abhi-jnú,@}</old><new>{@abhi-jñú,@}</new></chg>¦ 1〉 {%knielings;%} 2〉 {%bis ans Knie%}.
+<div n="P">1〉 {72,5}; {273,5}; {518,4}. 2〉 {37,10}; {701,3}.
 <LEND>

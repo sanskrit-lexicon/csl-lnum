@@ -1,19 +1,19 @@
 <L>12179<pc>1-0979<k1>upaskara<k2>upaskara
-{#upaskara#}¦ (von {#kar, karoti#} mit {#upa#}) <lex>m.</lex> 
-<div n="1"> 1) {%Zuthat, Zubehör, Geräthe, Ausrüstung%} 
-<ls>SUŚR. 1, 123, 16.</ls> {#maNgalAlamBanIyAni prASanIyAnyupaskarAn#} 
-<ls>R. 2, 65, 9.</ls> {#krIqArTAScApyupaskarAH#} 
-<ls>30, 44.</ls> {#sarvopaskaradravyARi#} 
-<ls>VET. 4, 6.</ls> {#sucakropaskaraH (raTa)#} 
-<ls>MBH. 2, 2063. 14, 2316.</ls> {#rarakza sA mAM saraTaM hayAMScopaskarARi#} (neutr.!) {#ca#} 
-<ls>5, 7234.</ls> {%Hausgeräthe%} 
-<ls>YĀJÑ. 2, 193.</ls> {#paYca sUnA gfhasTasya cullI pezaRyupaskaraH . kaRqanI codakumBaSca#} 
-<ls>M. 3, 68.</ls> {#vako Bavati hftvAgniM gfhakArI hyupaskaram#} 
-<ls>12, 66.</ls> {#susaMskftopaskarA (strI)#} 
-<ls>5, 150.</ls> {#saMyatopaskarA#} 
-<ls>YĀJÑ. 1, 83.</ls> 
-<div n="1">— 2) {%Gewürz%} 
-<ls>AK. 2, 9, 35.</ls> 
-<ls>H. 417.</ls> 
+{#upaskara#}¦ (von {#kar, karoti#} mit {#upa#}) <lex>m.</lex>
+<div n="1"> 1) {%Zuthat, Zubehör, Geräthe, Ausrüstung%}
+<ls>SUŚR. 1,123,16.</ls> {#maNgalAlamBanIyAni prASanIyAnyupaskarAn#}
+<ls>R. 2,65,9.</ls> {#krIqArTAScApyupaskarAH#}
+<ls n="R. 2,">30,44.</ls> {#sarvopaskaradravyARi#}
+<ls>VET. 4,6.</ls> {#sucakropaskaraH (raTa)#}
+<ls>MBH. 2,2063.</ls> <ls n="MBH.">14,2316.</ls> {#rarakza sA mAM saraTaM hayAMScopaskarARi#} (neutr.!) {#ca#}
+<ls n="MBH.">5,7234.</ls> {%Hausgeräthe%}
+<ls>YĀJÑ. 2,193.</ls> {#paYca sUnA gfhasTasya cullI pezaRyupaskaraH . kaRqanI codakumBaSca#}
+<ls>M. 3,68.</ls> {#vako Bavati hftvAgniM gfhakArI hyupaskaram#}
+<ls n="M.">12,66.</ls> {#susaMskftopaskarA (strI)#}
+<ls n="M.">5,150.</ls> {#saMyatopaskarA#}
+<ls>YĀJÑ. 1,83.</ls>
+<div n="1">— 2) {%Gewürz%}
+<ls>AK. 2,9,35.</ls>
+<ls>H. 417.</ls>
 <div n="v">— Vgl. {#upakaraRa#} .
 <LEND>

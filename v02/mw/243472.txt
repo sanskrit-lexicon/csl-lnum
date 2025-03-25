@@ -1,3 +1,3 @@
-<L>243472<pc>1211,2<k1>sAvitrI<k2>sAvitrI/<h>b<e>2
-<s>sAvitrI/</s> <hom>b</hom> ¦ <lex>f.</lex> a verse or prayer addressed to <s1 slp1="savitf">Savitṛ</s1> or the Sun (<ab>esp.</ab> the celebrated verse, <ls>RV. iii, 62, 10</ls>; also called <s>gAyatrI</s> <ab>q.v.</ab>), <ls>AitBr.</ls> &c. &c.<info lex="f"/>
+<L>243472<pc>1211,2<k1>sAvitrI<k2>sAvitrI/<e>2
+<s>sAvitrI/</s> ¦ <lex>f.</lex> a verse or prayer addressed to <s1>Savitṛ</s1> or the Sun (<ab>esp.</ab> the celebrated verse, <ls>RV. iii, 62, 10</ls>; also called <s>gAyatrI</s>, <ab>q.v.</ab>), <ls>AitBr.</ls> &c. &c.<info lex="f"/><info hui="b"/>
 <LEND>

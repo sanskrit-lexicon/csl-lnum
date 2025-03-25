@@ -1,186 +1,183 @@
 <L>105345<pc>7-0686<k1>samaya<k2>samaya/
-{#samaya/#}¦ (von 3. {#i#} mit {#sam#}) <lex>m.</lex> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} . 
-<div n="1"> 1) {%das Zusammentreffen, Zusammenlaufen, Ort des Zusammentreffens%} (=  {#samara): sItAnAm#} 
-<ls>ŚAT. BR. 7, 2, 3, 3.</ls> 
-<ls>AV. 2, 35, 3</ls> ({#samare#} 
-<ls>TS.</ls>). 
-<div n="1">— 2) {%Verkehr%}: {#na tEH samayamanvicCet#} 
-<ls>M. 10, 53.</ls> 
-<div n="1">— 3) {%Verständigung, Uebereinkommen; eine auferlegte%} oder {%übernommene Verpflichtung; Vertrag, Verabredung, Bedingung%}: {#sa\MgrA\me saMya^tte sama\yakA^maH#} 
-<ls>TS. 2, 1, 8, 4.</ls> 
-<ls>HARIV. 10571. 14833.</ls> 
-<ls>R. 1, 3, 24. 2, 26, 22.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 123, 14. 4, 16, 13.</ls> 
-<ls>YOGAS. 2, 31.</ls> 
-<ls>KATHĀS. 28, 69. 34, 33. 86, 144.</ls> {#samayAkfzwa#} 
-<ls>34, 38.</ls> {#tena samayena#} {%in Folge dieses Uebereinkommens%} 
-<ls>RĀJA-TAR. 1, 234.</ls> {#samayena#} {%einer Verabredung gemäss%} 
-<ls>MBH. 3, 10211.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 1, 73. 39, 24.</ls> {%unter einer Bedingung, bedingungsweise%} 
-<ls>MBH. 3, 2598. 13153.</ls> 
-<ls>BHĀG. P. 3, 22, 19.</ls> {#samayAt#} {%einer Verabredung gemäss%} 
-<ls>YĀJÑ. 1, 61</ls> ({#miTas#}). 
-<ls>AK. 2, 8, 2, 66.</ls> {%unter einer Bedingung%} 
-<ls>MBH. 3, 13256.</ls> 
-<ls>HARIV. 1375.</ls> {#samayatas#} {%bedingungsweise%} 
-<ls>MṚCCH. 18, 24.</ls> {#samayabanDana#} <lex>adj.</lex> {%an einen Vertrag gebunden%} 
-<ls>MĀRK. P. 80, 11.</ls> {#samayaM brU#} {%seine Bedingung aussprechen%} 
-<ls>MBH. 3, 13256.</ls> {#vac#} dass. 
-<ls>KATHĀS. 86, 113.</ls> {#aBi-DA#} dass. 
-<ls>?110. so v. a.</ls> {%versprechen%} 
-<ls>BHĀG. P. 3, 23, 10.</ls> {#samudya samayaM miTaH#} {%gegenseitig übereinkommen%} 
-<ls>4, 25, 43.</ls> {#samayaM kar#} {%übereinkommen mit%} (instr. oder instr. mit {#saha)#}; {%sich verpflichten, festsetzen, eine Bestimmung treffen, eine Bedingung stellen, stipuliren%}: {#aDvaryubahvfcEH samayaM kftvA#} 
-<ls>LĀṬY. 4, 8, 23.</ls> 
-<ls>ĀŚV. ŚR. 10, 5, 20.</ls> 
-<ls>GṚHY. 1, 6, 5</ls> ({#miTaH#}). {#dvApareRa saha#} 
-<ls>MBH. 3, 2254. - 1, 2749. 3, 16730. 5, 7028. 7488. 14, 1619.</ls> <ls>R. 1, 38, 24.</ls> <ls>R. GORR. 1, 1, 70. 4, 30, 8. 10. 52, 14. 53, 4. 5, 66, 3. 22. 7, 104, 3.</ls> <ls>KATHĀS.22, 204.</ls> <ls>PAÑCAT. 193, 13.</ls>
+{#samaya/#}¦ (von 3. {#i#} mit {#sam#}) <lex>m.</lex> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} .
+<div n="1"> 1) {%das Zusammentreffen, Zusammenlaufen, Ort des Zusammentreffens%} (= {#samara): sItAnAm#}
+<ls>ŚAT. BR. 7,2,3,3.</ls>
+<ls>AV. 2,35,3</ls> ({#samare#}
+<ls>TS.</ls>).
+<div n="1">— 2) {%Verkehr%}: {#na tEH samayamanvicCet#}
+<ls>M. 10,53.</ls>
+<div n="1">— 3) {%Verständigung, Uebereinkommen; eine auferlegte%} oder {%übernommene Verpflichtung; Vertrag, Verabredung, Bedingung%}: {#sa\MgrA\me saMya^tte sama\yakA^maH#}
+<ls>TS. 2,1,8,4.</ls>
+<ls>HARIV. 10571.</ls> <ls n="HARIV.">14833.</ls>
+<ls>R. 1,3,24.</ls> <ls n="R.">2,26,22.</ls>
+<ls>R. GORR. 2,123,14.</ls> <ls n="R. GORR.">4,16,13.</ls>
+<ls>YOGAS. 2,31.</ls>
+<ls>KATHĀS. 28,69.</ls> <ls n="KATHĀS.">34,33.</ls> <ls n="KATHĀS.">86,144.</ls> {#samayAkfzwa#}
+<ls n="KATHĀS.">34,38.</ls> {#tena samayena#} {%in Folge dieses Uebereinkommens%}
+<ls>RĀJA-TAR. 1,234.</ls> {#samayena#} {%einer Verabredung gemäss%}
+<ls>MBH. 3,10211.</ls>
+<ls>R. GORR. 1,1,73.</ls> <ls n="R. GORR. 1,">39,24.</ls> {%unter einer Bedingung, bedingungsweise%}
+<ls>MBH. 3,2598.</ls> <ls n="MBH. 3,">13153.</ls>
+<ls>BHĀG. P. 3,22,19.</ls> {#samayAt#} {%einer Verabredung gemäss%}
+<ls>YĀJÑ. 1,61</ls> ({#miTas#}).
+<ls>AK. 2,8,2,66.</ls> {%unter einer Bedingung%}
+<ls>MBH. 3,13256.</ls>
+<ls>HARIV. 1375.</ls> {#samayatas#} {%bedingungsweise%}
+<ls>MṚCCH. 18,24.</ls> {#samayabanDana#} <lex>adj.</lex> {%an einen Vertrag gebunden%}
+<ls>MĀRK. P. 80,11.</ls> {#samayaM brU#} {%seine Bedingung aussprechen%}
+<ls>MBH. 3,13256.</ls> {#vac#} dass.
+<ls>KATHĀS. 86,113.</ls> {#aBi-DA#} dass.
+<ls n="KATHĀS. 86,">110.</ls> so v. a. {%versprechen%}
+<ls>BHĀG. P. 3,23,10.</ls> {#samudya samayaM miTaH#} {%gegenseitig übereinkommen%}
+<ls n="BHĀG. P.">4,25,43.</ls> {#samayaM kar#} {%übereinkommen mit%} (instr. oder instr. mit {#saha)#}; {%sich verpflichten, festsetzen, eine Bestimmung treffen, eine Bedingung stellen, stipuliren%}: {#aDvaryubahvfcEH samayaM kftvA#}
+<ls>LĀṬY. 4,8,23.</ls>
+<ls>ĀŚV. ŚR. 10,5,20.</ls>
+<ls>GṚHY. 1,6,5</ls> ({#miTaH#}). {#dvApareRa saha#}
+<ls>MBH. 3,2254.</ls> — <ls n="MBH.">1,2749.</ls> <ls n="MBH.">3,16730.</ls> <ls n="MBH.">5,7028.</ls> <ls n="MBH. 5,">7488.</ls> <ls n="MBH.">14,1619.</ls> <ls>R. 1,38,24.</ls> <ls>R. GORR. 1,1,70.</ls> <ls n="R. GORR.">4,30,8.</ls> <ls n="R. GORR. 4,30,">10.</ls> <ls n="R. GORR. 4,">52,14.</ls> <ls n="R. GORR. 4,">53,4.</ls> <ls n="R. GORR.">5,66,3.</ls> <ls n="R. GORR. 5,66,">22.</ls> <ls n="R. GORR.">7,104,3.</ls> <ls>KATHĀS. 22,204.</ls> <ls>PAÑCAT. 193,13.</ls>
 [Page7-0687]
-{#adrohasamayaM kar#} 
-<ls>Spr. (II) 206. fg. 3242.</ls> {#kftaSayanasamaya#} 
-<ls>PAÑCAT. 34, 11.</ls> {#samayaM dA#} {%einen Vergleich vorschlagen%} 
-<ls>KATHĀS. 18, 139.</ls> {#prati - pad#} {%einen Vertrag eingehen, eine Bedingung annehmen%} 
-<ls>MBH. 4, 705.</ls> {#grah#} dass. 
-<ls>1, 6299.</ls> <ls>KATHĀS. 20, 193.</ls> {#nis - tar#} 
-<ls>R. GORR. 2, 74, 42.</ls> {#rakz#} 
-<ls>Spr. (II) 3332.</ls> {#°parirakzaRa#} 
-<ls>KIR. 1, 45.</ls> {#samayaM pAlay#} 
-<ls>R. GORR. 2, 11, 5.</ls> <ls>Verz. d. Oxf. H. 32</ls>, {%b%}, 
-<ls>4.</ls> <ls>BHĀG. P. 8, 9, 22.</ls> {#tyaj#} 
-<ls>MBH. 1, 3098.</ls> {#vi - laNGay#} 
-<ls>KUMĀRAS. 3, 25.</ls> {#Bid#} 
-<ls>HARIV. 14374.</ls> {#°Bedin#} 
-<ls>M. 8, 218.</ls> {#°vyaBicArin#} 
-<ls>220. fg.</ls> {#samayasyAvyatikramaH#} 
-<ls>Spr. (II) 698.</ls> {#yaTA BraSyetsamayAt#} 
-<ls>RĀJA-TAR. 1, 236.</ls> {#samaye sTA#} {%seiner Verpflichtung nachkommen, sein Wort halten%} 
-<ls>HARIV. 14375</ls> ({#tasya#} {%diesem gegenüber%}). 
-<ls>R. 4, 30, 21.</ls> 
-<ls>KATHĀS. 18, 142.</ls> {#samaye sTApay#} {%in Betreff Jmdes%} (acc.) {%festsetzen, eine Bestimmung treffen%} 
-<ls>MĀRK. P. 51, 111.</ls> {#samayaM sTApay#} {%festsetzen, bestimmen%} 
-<ls>RĀJA-TAR. 4, 617.</ls> {#samaye ni - veSay#} {%Jmd%} (acc.) {%Bedingungen stellen%} 
-<ls>MBH. 1, 6297.</ls> {#Darma°#} {%eine übernommene Verpflichtung%}: {#°samayAtpracyutaH#} 
-<ls>M. 9, 273.</ls> 
-<div n="1">— 4) {%ein festgesetzter, bestimmter%} oder {%geeigneter Zeitpunkt; Zeitraum, Frist; Gelegenheit%} 
-<ls>KĀŚ.</ls> zu <ls>P. 5, 4, 60.</ls> {#adya praBfti yajasva samayo hi te#} 
-<ls>MBH. 14, 2614.</ls> 
-<ls>R. 4, 25, 16.</ls> 
-<ls>Spr. (II) 3612.</ls> {#samaye hyasminnivftte#} 
-<ls>R. 2, 86, 19. 4, 53, 17.</ls> 
-<ls>ŚIŚ. 9, 24.</ls> 
-<ls>RĀJA-TAR. 4, 182.</ls> 
-<ls>BHĀG. P. 5, 21, 7.</ls> {#gamaya samayam#} 
-<ls>Spr. (II) 1229.</ls> {#samayasya laNGanam#} 
-<ls>R. GORR. 1, 4, 66.</ls> {#samayocita#} 
-<ls>BHĀG. P. 6, 7, 27.</ls> 
-<ls>HIT. 114, 13.</ls> {#atIta°#} <lex>adj.</lex> 
-<ls>R. 5, 1, 78.</ls> {#prApta°#} <lex>adj.</lex> 
-<ls>RĀJA-TAR. 5, 407.</ls> {#uktasamayam#} {%zur angegebenen Zeit%} 
-<ls>DAŚAR. 2, 25.</ls> {#vAjimeDasya#} 
-<ls>MBH. 14, 1937.</ls> mit infin. 
-<ls>P. 3, 3, 167.</ls> 
-<ls>MBH. 3, 12281.</ls> mit {#yad#} und potent. 
-<ls>P. 3, 3, 168.</ls> {#samaye#} {%zu einer bestimmten —, zur rechten, gelegenen Zeit%} 
-<ls>Spr. (II) 6840.</ls> 
-<ls>R. 2, 56, 3.</ls> 
-<ls>RAGH. 3, 13.</ls> 
-<ls>Spr. (II) 1943. 4907. 5046.</ls> 
-<ls>PAÑCAT. 24, 25</ls> (nach der Lesart der ed. Bomb. {#dfzwvA#} st. {#DftvA#}). am Anfange eines comp. in derselben Bed.: {#samayayantrita#} 
-<ls>ŚĀK. 100, 21, v. l.</ls> 
-<ls>RAGH. 7, 28</ls> (ed. Calc. besser {#samara#}). 
-<ls>PAÑCAR. 1, 11, 3.</ls> {#asamaya#} am Anf. eines comp. {%nicht zur gewöhnlichen Zeit%} 
-<ls>KATHĀS. 18, 2.</ls> häufig in comp. mit der näheren Bestimmung: {#arDarAtrasamaye#} 
-<ls>MBH. 3, 2537.</ls> {#sAyAhna°#} 
-<ls>R. 2, 57, 5.</ls> {#praBAta°#} 
-<ls>?77, 4. 79, 1. 5, 9, 68. 6, 112, 61. VARĀH. BṚH. S. 43, 19. KATHĀS. 18, 238. 30, 144. PAÑCAR. 3, 12, 20. PAÑCAT. 55, 3. 77, 12. 81, 19. 229, 10. 247, 12. VET. in LA. (III) 10, 5.</ls> {#grIzma°#} 
-<ls>ŚĀK. 4, 4.</ls> {#jalaDara°#} 
-<ls>VIKR. 56, 1.</ls> 
-<ls>Spr. (II) 993.</ls> {#varzA°#} 
-<ls>KATHĀS. 19, 65.</ls> {#suraBi°#} 
-<ls>SĀH. D. 21, 1.</ls> {#stanita°#} 
-<ls>MEGH. 22.</ls> {#yugAnta°#} 
-<ls>BHĀG. P. 6, 9, 12.</ls> {#ftu°#} (der Weiber) 
-<ls>PAÑCAT. 74, 18.</ls> 
-<ls>VARĀH. BṚH. S. 78, 26.</ls> {#udaya°#} 
-<ls>16, 40.</ls> {#garBa°#} 
-<ls>21, 32. fg.</ls> {#prasava°#} 37. {#gopraveSa°#} 
-<ls>24, 35. 28, 16. 33, 23. 43, 32.</ls> {#Sakuna°#} 
-<ls>53, 107.</ls> {#prAramBayAna°#} 
-<ls>95, 60.</ls> {#mftyu°#} 
-<ls>BṚH. 25 (23), 2.</ls> <ls>Spr. (II) 3647. 5784.</ls> {#prARAnta°#} 
-<ls>KATHĀS. 94, 127.</ls> {#kusumaprasUti°#} 
-<ls>ŚĀK. 84.</ls> 
-<ls>Spr. (II) 4860. 5684. 6672. 7586.</ls> 
-<ls>R. 1, 34, 35.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 38, 27. 4, 25, 13.</ls> 
-<ls>KATHĀS. 53, 100.</ls> 
-<ls>MĀRK. P. 62, 30.</ls> 
-<ls>RĀJA-TAR. 4, 639.</ls> 
-<ls>PRAB. 78, 8.</ls> 
-<ls>BHĀG. P. 6, 9, 38. 7, 8, 44.</ls> 
-<ls>SARVADARŚANAS. 9, 7. 51, 19.</ls> {#grahaRasamayavelA#} 
-<ls>Spr. (II) 2468.</ls> {#nApita°#} {%zur Zeit, wenn der Barbier da ist%}, 
-<ls>3004.</ls> {#rAtrO niSITe svABIle gate 'rDasamaye#} so v. a. {%nach Mitternacht%} 
-<ls>MBH. 3, 388.</ls> {#arDasamaye 'rDajYAne gate sati loke tandrAvati satItyarTaH#} 
-<ls>NĪLAK.</ls> 
-<div n="1">— 5) {%ein eintretender Fall%}: {#evaMviDe 'pi samaye#} 
-<ls>PAÑCAT. 42, 6.</ls> {#iha samaye#} {%in diesem Falle, unter diesen Umständen%} 
-<ls>HIT. 104, 15. 114, 3. 115, 2. 121, 18.</ls> {#viBAgasamaye#} Comm. zu 
-<ls>TS. PRĀT. 3, 1.</ls> {#padasamaye vartamAnaH#} 
-zu <ls>4, 5. 6, 14.</ls> 
-<div n="1">— 6) {%allgemeine Art und Weise des Verfahrens, Regel%}: {#deSAcArAnsamayAn#} (=  {#BAzABedAn#} 
-<ls>NĪLAK.</ls>) {#jAtiDarmAn#} 
-<ls>MBH. 5, 1084.</ls> {#fzIRAM samaye nityaM ye #}
+{#adrohasamayaM kar#}
+<ls>Spr. (II) 206. fg.</ls> <ls n="Spr. (II)">3242.</ls> {#kftaSayanasamaya#}
+<ls>PAÑCAT. 34,11.</ls> {#samayaM dA#} {%einen Vergleich vorschlagen%}
+<ls>KATHĀS. 18,139.</ls> {#prati — pad#} {%einen Vertrag eingehen, eine Bedingung annehmen%}
+<ls>MBH. 4,705.</ls> {#grah#} dass.
+<ls n="MBH.">1,6299.</ls> <ls>KATHĀS. 20,193.</ls> {#nis — tar#}
+<ls>R. GORR. 2,74,42.</ls> {#rakz#}
+<ls>Spr. (II) 3332.</ls> {#°parirakzaRa#}
+<ls>KIR. 1,45.</ls> {#samayaM pAlay#}
+<ls>R. GORR. 2,11,5.</ls> <ls>Verz. d. Oxf. H. 32,b,4.</ls>
+<ls>BHĀG. P. 8,9,22.</ls> {#tyaj#}
+<ls>MBH. 1,3098.</ls> {#vi — laNGay#}
+<ls>KUMĀRAS. 3,25.</ls> {#Bid#}
+<ls>HARIV. 14374.</ls> {#°Bedin#}
+<ls>M. 8,218.</ls> {#°vyaBicArin#}
+<ls n="M. 8,">220. fg.</ls> {#samayasyAvyatikramaH#}
+<ls>Spr. (II) 698.</ls> {#yaTA BraSyetsamayAt#}
+<ls>RĀJA-TAR. 1,236.</ls> {#samaye sTA#} {%seiner Verpflichtung nachkommen, sein Wort halten%}
+<ls>HARIV. 14375</ls> ({#tasya#} {%diesem gegenüber%}).
+<ls>R. 4,30,21.</ls>
+<ls>KATHĀS. 18,142.</ls> {#samaye sTApay#} {%in Betreff Jmdes%} (acc.) {%festsetzen, eine Bestimmung treffen%}
+<ls>MĀRK. P. 51,111.</ls> {#samayaM sTApay#} {%festsetzen, bestimmen%}
+<ls>RĀJA-TAR. 4,617.</ls> {#samaye ni — veSay#} {%Jmd%} (acc.) {%Bedingungen stellen%}
+<ls>MBH. 1,6297.</ls> {#Darma°#} {%eine übernommene Verpflichtung%}: {#°samayAtpracyutaH#}
+<ls>M. 9,273.</ls>
+<div n="1">— 4) {%ein festgesetzter, bestimmter%} oder {%geeigneter Zeitpunkt; Zeitraum, Frist; Gelegenheit%}
+<ls>KĀŚ.</ls> zu <ls>P. 5,4,60.</ls> {#adya praBfti yajasva samayo hi te#}
+<ls>MBH. 14,2614.</ls>
+<ls>R. 4,25,16.</ls>
+<ls>Spr. (II) 3612.</ls> {#samaye hyasminnivftte#}
+<ls>R. 2,86,19.</ls> <ls n="R.">4,53,17.</ls>
+<ls>ŚIŚ. 9,24.</ls>
+<ls>RĀJA-TAR. 4,182.</ls>
+<ls>BHĀG. P. 5,21,7.</ls> {#gamaya samayam#}
+<ls>Spr. (II) 1229.</ls> {#samayasya laNGanam#}
+<ls>R. GORR. 1,4,66.</ls> {#samayocita#}
+<ls>BHĀG. P. 6,7,27.</ls>
+<ls>HIT. 114,13.</ls> {#atIta°#} <lex>adj.</lex>
+<ls>R. 5,1,78.</ls> {#prApta°#} <lex>adj.</lex>
+<ls>RĀJA-TAR. 5,407.</ls> {#uktasamayam#} {%zur angegebenen Zeit%}
+<ls>DAŚAR. 2,25.</ls> {#vAjimeDasya#}
+<ls>MBH. 14,1937.</ls> mit infin.
+<ls>P. 3,3,167.</ls>
+<ls>MBH. 3,12281.</ls> mit {#yad#} und potent.
+<ls>P. 3,3,168.</ls> {#samaye#} {%zu einer bestimmten —, zur rechten, gelegenen Zeit%}
+<ls>Spr. (II) 6840.</ls>
+<ls>R. 2,56,3.</ls>
+<ls>RAGH. 3,13.</ls>
+<ls>Spr. (II) 1943.</ls> <ls n="Spr. (II)">4907.</ls> <ls n="Spr. (II)">5046.</ls>
+<ls>PAÑCAT. 24,25</ls> (nach der Lesart der <ls>ed. Bomb.</ls> {#dfzwvA#} st. {#DftvA#}). am Anfange eines comp. in derselben Bed.: {#samayayantrita#}
+<ls>ŚĀK. 100,21, v. l.</ls>
+<ls>RAGH. 7,28</ls> (<ls>ed. Calc.</ls> besser {#samara#}).
+<ls>PAÑCAR. 1,11,3.</ls> {#asamaya#} am Anf. eines comp. {%nicht zur gewöhnlichen Zeit%}
+<ls>KATHĀS. 18,2.</ls> häufig in comp. mit der näheren Bestimmung: {#arDarAtrasamaye#}
+<ls>MBH. 3,2537.</ls> {#sAyAhna°#}
+<ls>R. 2,57,5.</ls> {#praBAta°#}
+<ls n="R. 2,">77,4.</ls> <ls n="R. 2,">79,1.</ls> <ls n="R.">5,9,68.</ls> <ls n="R.">6,112,61.</ls> <ls>VARĀH. BṚH. S. 43,19.</ls> <ls>KATHĀS. 18,238.</ls> <ls n="KATHĀS.">30,144.</ls> <ls>PAÑCAR. 3,12,20.</ls> <ls>PAÑCAT. 55,3. 77,12. 81,19. 229,10. 247,12.</ls> <ls>VET. in LA. (III) 10,5.</ls> {#grIzma°#}
+<ls>ŚĀK. 4,4.</ls> {#jalaDara°#}
+<ls>VIKR. 56,1.</ls>
+<ls>Spr. (II) 993.</ls> {#varzA°#}
+<ls>KATHĀS. 19,65.</ls> {#suraBi°#}
+<ls>SĀH. D. 21,1.</ls> {#stanita°#}
+<ls>MEGH. 22.</ls> {#yugAnta°#}
+<ls>BHĀG. P. 6,9,12.</ls> {#ftu°#} (der Weiber)
+<ls>PAÑCAT. 74,18.</ls>
+<ls>VARĀH. BṚH. S. 78,26.</ls> {#udaya°#}
+<ls n="VARĀH. BṚH. S.">16,40.</ls> {#garBa°#}
+<ls n="VARĀH. BṚH. S.">21,32. fg.</ls> {#prasava°#} 37. {#gopraveSa°#}
+<ls n="VARĀH. BṚH. S.">24,35. 28,16. 33,23. 43,32.</ls> {#Sakuna°#}
+<ls n="VARĀH. BṚH. S.">53,107.</ls> {#prAramBayAna°#}
+<ls n="VARĀH. BṚH. S.">95,60.</ls> {#mftyu°#}
+<ls>BṚH. 25 (23),2.</ls> <ls>Spr. (II) 3647.</ls> <ls n="Spr. (II)">5784.</ls> {#prARAnta°#}
+<ls>KATHĀS. 94,127.</ls> {#kusumaprasUti°#}
+<ls>ŚĀK. 84.</ls>
+<ls>Spr. (II) 4860.</ls> <ls n="Spr. (II)">5684.</ls> <ls n="Spr. (II)">6672.</ls> <ls n="Spr. (II)">7586.</ls>
+<ls>R. 1,34,35.</ls>
+<ls>R. GORR. 2,38,27.</ls> <ls n="R. GORR.">4,25,13.</ls>
+<ls>KATHĀS. 53,100.</ls>
+<ls>MĀRK. P. 62,30.</ls>
+<ls>RĀJA-TAR. 4,639.</ls>
+<ls>PRAB. 78,8.</ls>
+<ls>BHĀG. P. 6,9,38.</ls> <ls n="BHĀG. P.">7,8,44.</ls>
+<ls>SARVADARŚANAS. 9,7. 51,19.</ls> {#grahaRasamayavelA#}
+<ls>Spr. (II) 2468.</ls> {#nApita°#} {%zur Zeit, wenn der Barbier da ist%},
+<ls n="Spr. (II)">3004.</ls> {#rAtrO niSITe svABIle gate 'rDasamaye#} so v. a. {%nach Mitternacht%}
+<ls>MBH. 3,388.</ls> {#arDasamaye 'rDajYAne gate sati loke tandrAvati satItyarTaH#}
+<ls>NĪLAK.</ls>
+<div n="1">— 5) {%ein eintretender Fall%}: {#evaMviDe 'pi samaye#}
+<ls>PAÑCAT. 42,6.</ls> {#iha samaye#} {%in diesem Falle, unter diesen Umständen%}
+<ls>HIT. 104,15. 114,3. 115,2. 121,18.</ls> {#viBAgasamaye#} Comm. zu
+<ls>TS. PRĀT. 3,1.</ls> {#padasamaye vartamAnaH#}
+zu <ls n="TS. PRĀT.">4,5. 6,14.</ls>
+<div n="1">— 6) {%allgemeine Art und Weise des Verfahrens, Regel%}: {#deSAcArAnsamayAn#} (= {#BAzABedAn#} <ls>NĪLAK.</ls>)
+{#jAtiDarmAn#}
+<ls>MBH. 5,1084.</ls> {#fzIRAM samaye nityaM ye #}
 [Page7-0688]
-{# caranti#} 
-<ls>13, 4319.</ls> {#pativratAnAM samayAnuroDinI#} 
-<ls>R. 3, 2, 28.</ls> {#Arya°#} 
-<ls>BHĀG. P. 5, 14, 29.</ls> 
-<div n="1">— 7) {%Doctrin, Lehre, Satzung%}: {#nErukta°#} 
-<ls>NIR. 1, 12.</ls> {#AKyAna°#} 
-<ls>7, 7.</ls> {#(itihAsam) alaMkftaM SuBEH SabdEH samayErdivyamAnuzEH#} 
-<ls>MBH. 1, 28.</ls> {#Sruti°#} 
-<ls>Spr. (II) 826.</ls> {#tArkika°#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 162.</ls> {#jEna°#} 
-<ls>Schol.</ls> zu <ls>H. 90. 193.</ls> {#Arhata#} 
-<ls>SARVADARŚANAS. 43, 6.</ls> {#gAnDarvaSAstra°#} 
-<ls>?78, 2. PAÑCAR. 3, 9, 19. (pl.).</ls> {#DarmaM ca nAnAsamayAnurUpam#} 
-<ls>BHĀG. P. 4, 19, 37.</ls> {#°seturakzA#} 
-<ls>5, 4, 5.</ls> {#kAvya°#} 
-<ls>Verz. d. Oxf. H. 207</ls>, {%b%}, 
-<ls>4. 250</ls>, {%b%}, 1. {#SabdahetusamayavidyAsu#} (d. i. {#SabdavidyA, hetu°#} und {#samaya°#}) 
-<ls>DAŚAK. 60, 13.</ls> {#hetusamayAnaBijYa#} 
-<ls>DURGA</ls> bei <ls>MUIR, ST. 2, 184.</ls> 
-<div n="1">— 8) in der Gramm. {%eine%} <is>Veda</is>-{%Stelle, welche Wiederholung einer früher dagewesenen ist%}, 
-<ls>ṚV. PRĀT. 10, 12.</ls> <ls n="ṚV. PRĀT.">11, 12.</ls> <ls n="ṚV. PRĀT.">15, 14.</ls> <ls n="ṚV. PRĀT.">18, 30.</ls> <ls>UPALEKHA 4, 14. fgg. 9, 20. fgg.</ls> 
-<div n="1">— 9) {%die conventionelle Bedeutung eines Wortes%} 
-<ls>KUSUM. 22, 18. 31, 14.</ls> 
-<div n="1">— 10) in der Dramatik {%das Entfernen —, Schwinden eines Schmerzes%} 
-<ls>BHAR.</ls> <ls>NĀṬYAŚ. 19, 100.</ls> <ls>DAŚAR. 1, 47.</ls> <ls>SĀH. D. 400.</ls> <ls>PRATĀPAR. 22</ls>, {%b%}, 2. 
-<div n="1">— 11) bei den <is>Śākta</is> N. pr. eines Verfassers von <is>Mantra</is> 
-<ls>Verz. d. Oxf. H. 101,b,13.</ls> — {#samaye#} 
-<ls>MBH. 5, 5990</ls> <ls>?(BENFEY, Chr. 7, 15)</ls> fehlerhaft fur {#mama ye#}, wie die ed. Bomb. liest. Die indischen Lexicographen geben dem Worte folgenden Bedd.: {#saMvid#} 
-<ls>AK. 3, 4, 24, 151.</ls> 
-<ls>H. an. 3, 511.</ls> {#saMketa, saMketaka#} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 5, 83.</ls> {#kriyAkAra#} 
-<ls>H. an.</ls> <ls>MED.</ls> {#SapaTa#} 
-<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#kAla#} 
-<ls>AK. 1, 1, 3, 1. 3, 4, 24, 151.</ls> 
-<ls>H. 126.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY.</ls> {#avasara#} 
-<ls>H. 1509.</ls> 
-<ls>H. an.</ls> {#AcAra#} 
-<ls>AK. 3, 4, 24, 151.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY.</ls> {#sidDAnta#} 
-<ls>AK.</ls> <ls>H. 242.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1, 10. 5, 83.</ls> {#nirdeSa#} und {#BAzA#} 
-<ls>H. an.</ls> <ls>MED.</ls> {#saMpad#} und {#niyama#} 
-<ls>H. an.</ls> {#DI#} 
-<ls>MED.</ls> {#kawa#} 
-<ls>HALĀY. 5, 34.</ls> Vgl. {#grIzma°, puzpa°, pUrRa°, mahA°, yaTA°, lagna°, vasanta°#} (unter {#vasanta), vasantasamayotsava, Saratsamaya, sAmayika#} .
+{# caranti#}
+<ls n="MBH.">13,4319.</ls> {#pativratAnAM samayAnuroDinI#}
+<ls>R. 3,2,28.</ls> {#Arya°#}
+<ls>BHĀG. P. 5,14,29.</ls>
+<div n="1">— 7) {%Doctrin, Lehre, Satzung%}: {#nErukta°#}
+<ls>NIR. 1,12.</ls> {#AKyAna°#}
+<ls n="NIR.">7,7.</ls> {#(itihAsam) alaMkftaM SuBEH SabdEH samayErdivyamAnuzEH#}
+<ls>MBH. 1,28.</ls> {#Sruti°#}
+<ls>Spr. (II) 826.</ls> {#tArkika°#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 162.</ls> {#jEna°#}
+<ls>Schol.</ls> zu <ls>H. 90.</ls> <ls n="H.">193.</ls> {#Arhata#}
+<ls>SARVADARŚANAS. 43,6.</ls> {#gAnDarvaSAstra°#}
+<ls n="SARVADARŚANAS.">78,2.</ls> <ls>PAÑCAR. 3,9,19.</ls> (pl.). {#DarmaM ca nAnAsamayAnurUpam#}
+<ls>BHĀG. P. 4,19,37.</ls> {#°seturakzA#}
+<ls n="BHĀG. P.">5,4,5.</ls> {#kAvya°#}
+<ls>Verz. d. Oxf. H. 207,b,4.</ls>
+<ls n="Verz. d. Oxf. H.">250,b,1.</ls> {#SabdahetusamayavidyAsu#} (<ab>d. i.</ab> {#SabdavidyA, hetu°#} und {#samaya°#})
+<ls>DAŚAK. 60,13.</ls> {#hetusamayAnaBijYa#}
+<ls>DURGA</ls> bei <ls>MUIR, ST. 2,184.</ls>
+<div n="1">— 8) in der Gramm. {%eine%} <is>Veda</is>-{%Stelle, welche Wiederholung einer früher dagewesenen ist%},
+<ls>ṚV. PRĀT. 10,12.</ls> <ls n="ṚV. PRĀT.">11,12.</ls> <ls n="ṚV. PRĀT.">15,14.</ls> <ls n="ṚV. PRĀT.">18,30.</ls> <ls>UPALEKHA 4,14. fgg. 9,20. fgg.</ls>
+<div n="1">— 9) {%die conventionelle Bedeutung eines Wortes%}
+<ls>KUSUM. 22,18. 31,14.</ls>
+<div n="1">— 10) in der Dramatik {%das Entfernen —, Schwinden eines Schmerzes%}
+<ls>BHAR. NĀṬYAŚ. 19,100.</ls> <ls>DAŚAR. 1,47.</ls> <ls>SĀH. D. 400.</ls> <ls>PRATĀPAR. 22,b,2.</ls>
+<div n="1">— 11) bei den <is>Śākta</is> N. pr. eines Verfassers von <is>Mantra</is>
+<ls>Verz. d. Oxf. H. 101,b,13.</ls> — {#samaye#}
+<ls>MBH. 5,5990</ls> (<ls>BENFEY Chr. 7,15</ls>) fehlerhaft fur {#mama ye#}, wie die <ls>ed. Bomb.</ls> liest. Die indischen Lexicographen geben dem Worte folgenden Bedd.: {#saMvid#}
+<ls>AK. 3,4,24,151.</ls>
+<ls>H. an. 3,511.</ls> {#saMketa, saMketaka#}
+<ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 5,83.</ls> {#kriyAkAra#}
+<ls>H. an.</ls> <ls>MED.</ls> {#SapaTa#}
+<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#kAla#}
+<ls>AK. 1,1,3,1.</ls> <ls n="AK.">3,4,24,151.</ls>
+<ls>H. 126.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY.</ls> {#avasara#}
+<ls>H. 1509.</ls>
+<ls>H. an.</ls> {#AcAra#}
+<ls>AK. 3,4,24,151.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY.</ls> {#sidDAnta#}
+<ls>AK.</ls> <ls>H. 242.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1,10. 5,83.</ls> {#nirdeSa#} und {#BAzA#}
+<ls>H. an.</ls> <ls>MED.</ls> {#saMpad#} und {#niyama#}
+<ls>H. an.</ls> {#DI#}
+<ls>MED.</ls> {#kawa#}
+<ls>HALĀY. 5,34.</ls> Vgl. {#grIzma°, puzpa°, pUrRa°, mahA°, yaTA°, lagna°, vasanta°#} (unter {#vasanta), vasantasamayotsava, Saratsamaya, sAmayika#} .
 <LEND>

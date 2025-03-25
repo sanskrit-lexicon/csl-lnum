@@ -1,9 +1,9 @@
 <L>8759<pc>205-a<k1>door<k2>door
-<div n="lb"/>DOOR¦, {%s.%} {#dvAraM, dvAH#} {%f.%} {#(r), kapAwaH -waM, kavAwaH -waM, araraH -rI -riH#} {%m.%}
-<div n="lb"/>{#alAraH, gfhamuKaM, pratihAraH, pratIhAraH#}. — (Entrance) {#praveSaH -SanaM,#}
-<div n="lb"/>{#muKaM, veSikA, pratihAraRaM#}. — (Passage) {#paTaH;#} ‘principal door,’
-<div n="lb"/>{#siMhadvAraM;#} ‘private door,’ {#antardvAraM, pracCannadvAraM, pracCannaM;#} ‘back
-<div n="lb"/>door,’ {#pakzadvAraM, pakzakaH;#} ‘in doors,’ {#gfhasTitaH;#} ‘out of doors,’
-<div n="lb"/>{#gfhavahiHsTaH, sTAnAntarIgataH;#} ‘next door to,’ {#nikawasTaH -sTA -sTaM,#}
-<div n="lb"/>{#anantaravarttI -rttinI -rtti (n);#} ‘leaf of a door,’ {#dvAraSAKA#}.
+DOOR¦, {%s.%} {#dvAraM, dvAH#} {%f.%} {#(r), kapAwaH -waM, kavAwaH -waM, araraH -rI -riH#} {%m.%}
+{#alAraH, gfhamuKaM, pratihAraH, pratIhAraH#}. — (Entrance) {#praveSaH -SanaM,#}
+{#muKaM, veSikA, pratihAraRaM#}. — (Passage) {#paTaH;#} ‘principal door,’
+{#siMhadvAraM;#} ‘private door,’ {#antardvAraM, pracCannadvAraM, pracCannaM;#} ‘back
+door,’ {#pakzadvAraM, pakzakaH;#} ‘in doors,’ {#gfhasTitaH;#} ‘out of doors,’
+{#gfhavahiHsTaH, sTAnAntarIgataH;#} ‘next door to,’ {#nikawasTaH -sTA -sTaM,#}
+{#anantaravarttI -rttinI -rtti (n);#} ‘leaf of a door,’ {#dvAraSAKA#}.
 <LEND>

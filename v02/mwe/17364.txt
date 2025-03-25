@@ -1,6 +1,6 @@
 <L>17364<pc>436-a<k1>landlord<k2>landlord
-<div n="lb"/>LANDLORD¦, {%s.%} (Owner of land) {#BUsvAmI#} {%m.%} {#(n), kzetrasvAmI#} {%m.,%}
-<div n="lb"/>{#kzetrapatiH#} {%m.,%} {#BUmISvaraH#}. — (Owner of a house) {#gfhapatiH#} {%m.,%} {#gfha-#}
-<div n="lb"/>{#svAmI#} {%m.,%} {#gfheSvaraH#}. — (Master of an inn) {#uttaraRagfhapatiH#} {%m.,%}
-<div n="lb"/>{#uttaraRagfhasvAmI#} {%m.,%} {#upakArikAgfhADikArI#} {%m.%} ({#n#}).
+LANDLORD¦, {%s.%} (Owner of land) {#BUsvAmI#} {%m.%} {#(n), kzetrasvAmI#} {%m.,%}
+{#kzetrapatiH#} {%m.,%} {#BUmISvaraH#}. — (Owner of a house) {#gfhapatiH#} {%m.,%} {#gfha-#}
+{#svAmI#} {%m.,%} {#gfheSvaraH#}. — (Master of an inn) {#uttaraRagfhapatiH#} {%m.,%}
+{#uttaraRagfhasvAmI#} {%m.,%} {#upakArikAgfhADikArI#} {%m.%} ({#n#}).
 <LEND>

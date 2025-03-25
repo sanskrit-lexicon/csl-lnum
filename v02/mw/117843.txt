@@ -1,3 +1,3 @@
-<L>117843<pc>596,3<k1>parinizad<k2>pari-ni-zad<e>1
-<s>pari-ni-zad</s> ¦ (<s>√ sad</s>) <ab>P.</ab> <s>-zIdati</s> (3. <ab>pl.</ab> <ab>pf.</ab> <ab>Ā.</ab> <s>-zedire</s> <ab>ind.p.</ab> <s>-zadya</s>) to sit around, <ls>RV.</ls><info verb="pre" cp="PĀ" parse="pari+ni+sad"/>
+<L>117843<pc>596,2<k1>parinizad<k2>pari-ni-zad<e>1
+<s>pari-ni-zad</s> ¦ (√ <s>sad</s>) <ab>P.</ab> <s>-zIdati</s> (3. <ab>pl.</ab> <ab>pf.</ab> <ab>Ā.</ab> <s>-zedire</s> <ab>ind.p.</ab> <s>-zadya</s>) to sit around, <ls>RV.</ls><info verb="pre" cp="PĀ" parse="pari+ni+sad"/>
 <LEND>

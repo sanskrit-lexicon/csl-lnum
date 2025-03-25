@@ -1,12 +1,3 @@
 <L>450<pc>015,1<k1>aDivacana<k2>aDivacana
-{@adhivacana@}¦, nt. (= Pali id.), {%designation, appellation,%}
-<div n="lb">{%name, term%} (of, for, gen.): Mvy 6333; Mv i.161.2; tathatā
-<div n="lb">tathateti…śūnyatāyā etad adhivacanam Śikṣ 263.1,
-<div n="lb">{%tathatā is a name for nullity%}; KP 71.9, 10; bhūtatathatāyā
-<div n="lb">etad adhivacanam Vaj 37.3; AsP 342.1; kasyaitad adhiva-
-<div n="lb">canaṃ yad uta nirvāṇam iti Laṅk 182.9, {%of what is this a%}
-<div n="lb">{%designation, viz. the word nirvāṇa?%}; anāyavyaya ity anut-
-<div n="lb">pādasyaitad adhivacanam Laṅk 175.18; katamasyaitad
-<div n="lb">dharmasyādhivacanaṃ samādhir iti Samādh p. 13 lines
-<div n="lb">19--20, {%of what matter is this a designation, the word samādhi?%}
+{@adhivacana@}¦, <lex>nt.</lex> (= <lang>Pali</lang> <ab>id.</ab>), {%designation, appellation, name, term%} (of, for, <lex>gen.</lex>): <ls>Mvy</ls> 〔6333〕; <ls>Mv</ls> 〔i.161.2〕; tathatā tathateti … śūnyatāyā etad adhivacanam <ls>Śikṣ</ls> 〔263.1〕, {%tathatā is a name for nullity%}; <ls>KP</ls> 〔71.9, 10〕; bhūtatathatāyā etad adhivacanam <ls>Vaj</ls> 〔37.3〕; <ls>AsP</ls> 〔342.1〕; kasyaitad adhivacanaṃ yad uta nirvāṇam iti <ls>Laṅk</ls> 〔182.9〕, {%of what is this a designation, <ab>viz.</ab> the word nirvāṇa?%}; anāyavyaya ity anutpādasyaitad adhivacanam <ls>Laṅk</ls> 〔175.18〕; katamasyaitad dharmasyādhivacanaṃ samādhir iti <ls>Samādh</ls> 〔p. 13 lines 19—20〕, {%of what matter is this a designation, the word samādhi?%}
 <LEND>

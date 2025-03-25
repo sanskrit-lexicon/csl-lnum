@@ -1,15 +1,15 @@
 <L>3281<pc>126<k1>duty<k2>duty
 {@Duty,@}¦ {%s.%} {#DarmaH, kartavyaM#}. {@2@} {#karman#} {%n.,%} {#kftyaM,#}
-<div n="lb"/>{#kAryaM, niyamaH, vrataM#}. {@3@} {#niyogaH, aDikAraH,#}
-<div n="lb"/>{#padaM, AspadaM;#} ‘one who has done his d.’
-<div n="lb"/>{#kftakftyaH, kftin#} {%m.;%} ‘morning duties’
-<div n="lb"/>{#prAtaHkftyAni;#} ‘having heavy d.’ {#DuryaH,#}
-<div n="lb"/>{#DUrvahaH, DurIRaH#}. {@4@} {#karaH, SulkaH-lkaM; tAryaM,#}
-<div n="lb"/>{#tArikaM#} (for boats). {@5@} {#AdaraH, Bakti#} {%f.,%}
-<div n="lb"/>{#mAnaH#}. {@-Duteous, -Dutiful,@} {%a.%} {#Bakta,#}
-<div n="lb"/>{#AjYADAraka, anuviDAyin, AjYApAlaka,#}
-<div n="lb"/>{#Adfta, DarmajYa, Baktimat, vaSya, jYAtaDarman;#} {%See%}
-<div n="lb"/>{@Obedient. -ly,@} {%adv.%} {#Baktavat, BaktyA#}.
-<div n="lb"/>{@-ness,@} {%s.%} {#Bakti#} {%f.,%} {#AjYAnuvartanaM, vaSyatA,#}
-<div n="lb"/>{#sevA, SuSrUzA, anuroDaH#}.
+{#kAryaM, niyamaH, vrataM#}. {@3@} {#niyogaH, aDikAraH,#}
+{#padaM, AspadaM;#} ‘one who has done his d.’
+{#kftakftyaH, kftin#} {%m.;%} ‘morning duties’
+{#prAtaHkftyAni;#} ‘having heavy d.’ {#DuryaH,#}
+{#DUrvahaH, DurIRaH#}. {@4@} {#karaH, SulkaH-lkaM; tAryaM,#}
+{#tArikaM#} (for boats). {@5@} {#AdaraH, Bakti#} {%f.,%}
+{#mAnaH#}. {@-Duteous, -Dutiful,@} {%a.%} {#Bakta,#}
+{#AjYADAraka, anuviDAyin, AjYApAlaka,#}
+{#Adfta, DarmajYa, Baktimat, vaSya, jYAtaDarman;#} {%See%}
+{@Obedient. -ly,@} {%adv.%} {#Baktavat, BaktyA#}.
+{@-ness,@} {%s.%} {#Bakti#} {%f.,%} {#AjYAnuvartanaM, vaSyatA,#}
+{#sevA, SuSrUzA, anuroDaH#}.
 <LEND>

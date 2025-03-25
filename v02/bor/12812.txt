@@ -1,8 +1,8 @@
 <L>12812<pc>396<k1>jasmine<k2>jasmine
-<div n="lb"/>{@JASMINE:@}¦ <div n="1">(1) {#mallika#} (= Arabian j.); </div><div n="1">(2) {#mAlatI#}
-<div n="lb"/>(= j. grandiflorum); </div><div n="1">(3) {#jAtiH#} (= 2); </div><div n="1">(4)
-<div n="lb"/>{#navamAlikA#} (= double j.); </div><div n="1">(5) {#kundaH#} (= j. pube-
-<div n="lb"/>-scens); </div><div n="1">(6) {#hemapuzpikA#} (= yellow j.). N. B.
-<div n="lb"/>These also indicate the flowers, except (5),
-<div n="lb"/>for which use neuter.</div>
+{@JASMINE:@}¦ <div n="1">(1) {#mallika#} (= Arabian j.); </div><div n="1">(2) {#mAlatI#}
+(= j. grandiflorum); </div><div n="1">(3) {#jAtiH#} (= 2); </div><div n="1">(4)
+{#navamAlikA#} (= double j.); </div><div n="1">(5) {#kundaH#} (= j. pube-
+-scens); </div><div n="1">(6) {#hemapuzpikA#} (= yellow j.). N. B.
+These also indicate the flowers, except (5),
+for which use neuter.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>2896<pc>098<k1>calamitous<k2>calamitous
-<div n="lb"/>{@CALAMITOUS:@}¦ <div n="1">(1) {#vipannaH#} ({#nnA, nnaM#}); </div><div n="1">(2) {#vipadgrastaH#}
-<div n="lb"/>({#stA, staM#}); </div><div n="1">(3) {#ApadupetaH#} ({#tA, taM#}); </div><div n="1">(4) {#vyasanopetaH#}
-<div n="lb"/>({#tA, taM#}): v. Unfortunate. Ph. ‘{%c. condition%}’
-<div n="lb"/>{#vipaddaSA.#}</div>
+{@CALAMITOUS:@}¦ <div n="1">(1) {#vipannaH#} ({#nnA, nnaM#}); </div><div n="1">(2) {#vipadgrastaH#}
+({#stA, staM#}); </div><div n="1">(3) {#ApadupetaH#} ({#tA, taM#}); </div><div n="1">(4) {#vyasanopetaH#}
+({#tA, taM#}): v. Unfortunate. Ph. ‘{%c. condition%}’
+{#vipaddaSA.#}</div>
 <LEND>

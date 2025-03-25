@@ -1,13 +1,13 @@
 <L>17315<pc>530<k1>poison<k2>poison
-<div n="lb"/>{@POISON@}¦ (v.): <div n="I">I To infect with p.: {#vizeRa dUzayati#}
-<div n="lb"/>(c. of {#duz#}) <div n="xe">{%or%}</div> <div n="xs">{#miSrayati#}</div> ({#miSra,#} c. 10.) <div n="xe">{%or%}</div> <div n="xs">{#degDi#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#digDe, upa-,#}</div> ({#dih,#} c. 2.) <div n="xe">{%or%}</div> <div n="xs">{#anakti, aBi-,#}</div>
-<div n="lb"/>({#aYj,#} c. 7.), <div n="xe">{%p. ed water:%}</div> <div n="xs">{#vizadUzitaM payaH;#}</div> <div n="xe">{%p. ed%}
-<div n="lb"/>{%food:%}</div> <div n="xs">{#vizadigDamannam;#}</div> <div n="xe">{%by p. ing:%}</div> <div n="xs">{#vizopadehAt,#}</div> Ka.
-<div n="lb"/>vii. 20-2., 16.; <div n="xe">{%p. ed medicine:%}</div> <div n="xs">{#vizacUrRamiSra-#}
-<div n="lb"/>{#mOzaDam,#}</div> Mu. ii. </div><div n="I">II To give p.: {#vizaM dadAti#}
-<div n="lb"/>({#dA,#} c. 3: with dat.), Mah. </div><div n="I">III To kill
-<div n="lb"/>by p.: {#vizeRa hanti#} ({#han,#} c. 2.), etc. <div n="xe">{%I will p.%}
-<div n="lb"/>{%myself:%}</div> <div n="xs">{#vizeRAtmAnamutsrakzyAmi,#}</div> K. </div><div n="I">IV Fig.:
-<div n="lb"/>{#nASayati,#} (c. of {#naS#}).</div>
+{@POISON@}¦ (v.): <div n="I">I To infect with p.: {#vizeRa dUzayati#}
+(c. of {#duz#}) <div n="xe">{%or%}</div> <div n="xs">{#miSrayati#}</div> ({#miSra,#} c. 10.) <div n="xe">{%or%}</div> <div n="xs">{#degDi#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#digDe, upa-,#}</div> ({#dih,#} c. 2.) <div n="xe">{%or%}</div> <div n="xs">{#anakti, aBi-,#}</div>
+({#aYj,#} c. 7.), <div n="xe">{%p. ed water:%}</div> <div n="xs">{#vizadUzitaM payaH;#}</div> <div n="xe">{%p. ed%}
+{%food:%}</div> <div n="xs">{#vizadigDamannam;#}</div> <div n="xe">{%by p. ing:%}</div> <div n="xs">{#vizopadehAt,#}</div> Ka.
+vii. 20-2., 16.; <div n="xe">{%p. ed medicine:%}</div> <div n="xs">{#vizacUrRamiSra-#}
+{#mOzaDam,#}</div> Mu. ii. </div><div n="I">II To give p.: {#vizaM dadAti#}
+({#dA,#} c. 3: with dat.), Mah. </div><div n="I">III To kill
+by p.: {#vizeRa hanti#} ({#han,#} c. 2.), etc. <div n="xe">{%I will p.%}
+{%myself:%}</div> <div n="xs">{#vizeRAtmAnamutsrakzyAmi,#}</div> K. </div><div n="I">IV Fig.:
+{#nASayati,#} (c. of {#naS#}).</div>
 <LEND>

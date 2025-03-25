@@ -1,20 +1,20 @@
-<L>4652<pc>1055-1<k1>anubanDa<k2>anubanDa<e>100
+<L>4652<pc>1-055-a<k1>anubanDa<k2>anubanDa
 {#anubanDa#}¦
-<div n="1">— 1) <lex>m.</lex>
-<div n="2">— a) {%das Anbinden.%}
-<div n="2">— b) {%das Hängen an , Anhänglichkeit.%}
-<div n="2">— c) {%zusammenhängende Reihe , ununterbrochene Folge , Fortdauer , stete Wiederholung%} <ls>293,11.306,20.308,20.325,16.</ls> <ls>GAUT.12,51.</ls> <ls>BENF.Chr.195,8.</ls> <ls>Ind.St.10,415.</ls>
-<div n="2">— d) {%Folge , die Folgen%} <ls>163,20.</ls> <ls>Spr.318.fg.4059.4525.</ls>
-<div n="2">— e) {%Grund , Motiv , Absicht%} <ls>MBH.3,298,28.(</ls> <ls>SĀV.6,28</ls>). <ls>Spr.2937.</ls>
-<div n="2">— f) {%Anhängsel , Alles was zu Einem gehört , Weib und Kind%} <ls>R.2,7,28.97,27.</ls>
-<div n="2">— g) {%begleitende Krankheitsursache , — Affection.%}
-<div n="2">— h) im <is>Vedānta</is> {%Erforderniss%} (deren vier) <ls>253,24.28.</ls>
-<div n="2">— i) in der Gramm. {%ein stummer Buchstab%} oder {%eine stumme Silbe , die an eine Wurzel , ein Thema , Suffix%} u.s.w. {%gefügt werden , um eine Eigenthümlichkeit derselben zu bezeichnen.%}
-<div n="2">— k) {%*Anfang.%}
-<div n="2">— l) {%*ein Bischen.%}
-<div n="2">— m) * = {#prakftyAdi#}.
-<div n="2">— n) * = {#muKyAnuyAyI SiSuH#}.
-<div n="1">— 2) *<lex>f.</lex> {#I#}
-<div n="2">— a) {%Durst.%}
-<div n="2">— b) {%Schluchzen , singultus.%}
+<div n="1">— 1〉 <lex>m.</lex>
+<div n="2">— a〉 {%das Anbinden%}.
+<div n="2">— b〉 {%das Hängen an, Anhänglichkeit%}.
+<div n="2">— c〉 {%zusammenhängende Reihe, ununterbrochene Folge, Fortdauer, stete Wiederholung%} <ls n="Chr.">293,11</ls>. <ls n="Chr.">306,20</ls>. <ls n="Chr.">308,20</ls>. <ls n="Chr.">325,16</ls>. <ls>GAUT. 12,51</ls>. <ls>BENF. Chr. 195,8</ls>. <ls>Ind. St. 10,415</ls>.
+<div n="2">— d〉 {%Folge, die Folgen%} <ls n="Chr.">163,20</ls>. <ls>Spr. 318. fg.</ls> <ls n="Spr.">4059</ls>. <ls n="Spr.">4525</ls>.
+<div n="2">— e〉 {%Grund, Motiv, Absicht%} <ls>MBH. 3,298,28</ls>. (<ls>SĀV. 6,28</ls>). <ls>Spr. 2937</ls>.
+<div n="2">— f〉 {%Anhängsel, Alles was zu Einem gehört, Weib und Kind%} <ls>R. 2,7,28. 97,27</ls>.
+<div n="2">— g〉 {%begleitende Krankheitsursache, — Affection%}.
+<div n="2">— h〉 im <is>Vedānta</is> {%Erforderniss%} (deren vier) <ls n="Chr.">253,24</ls>. <ls n="Chr. 253,">28</ls>.
+<div n="2">— i〉 in der <ab>Gramm.</ab> {%ein stummer Buchstab%} oder {%eine stumme Silbe, die an eine Wurzel, ein Thema, Suffix%} <ab>u. s. w.</ab> {%gefügt werden, um eine Eigenthümlichkeit derselben zu bezeichnen%}.
+<div n="2">— k〉 *{%Anfang%}.
+<div n="2">— l〉 *{%ein Bischen%}.
+<div n="2">— m〉 *= {#prakftyAdi#}.
+<div n="2">— n〉 *= {#muKyAnuyAyI SiSuH#}.
+<div n="1">— 2〉 *<lex>f.</lex> {#I#}
+<div n="2">— a〉 {%Durst%}.
+<div n="2">— b〉 {%Schluchzen, singultus%}.
 <LEND>

@@ -1,4 +1,4 @@
 <L>5401<pc>173<k1>dandiprat<k2>dandiprat
-<div n="lb"/>{@DANDIPRAT:@}¦ <div n="I">I A dwarf, a child: {#mARavakaH.#}</div>
-<div n="lb"/><div n="I">II A coin: {#*varAwakaH.#}</div>
+{@DANDIPRAT:@}¦ <div n="I">I A dwarf, a child: {#mARavakaH.#}</div>
+<div n="I">II A coin: {#*varAwakaH.#}</div>
 <LEND>

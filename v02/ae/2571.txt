@@ -1,10 +1,10 @@
 <L>2571<pc>093<k1>dawn<k2>dawn
 {@Dawn,@}¦ {%s.%} {#uzas#} {%f., n.,%} {#pratyUzaH, praBAtaM, viBA-#}
-<div n="lb"/>{#-taM, dinamuKaM, aruRodayaH;#} ‘it is d.’ {#praBAtA#}
-<div n="lb"/>{#rajanI#}. {@2@} {#udayaH;#} ‘d. of liberty’ {#svAtaM-#}
-<div n="lb"/>{#-tryodayaH;#} ‘belonging to the d.’ {#uzasya,#}
-<div n="lb"/>{#praBAtIya,#} ({%s.%}) in comp. {%-v. i.%} {#AvirBU#}
-<div n="lb"/>1 P, {#udBid#} pass., {#udgam#} 1 P, {#praBA#} 2 P;
-<div n="lb"/>‘before the day d. ed’ {#apraBAtAyAM Sa-#}
-<div n="lb"/>{#-rvaryAM;#} ‘the day d. ed’ {#praBAtA rajanI#}.
+{#-taM, dinamuKaM, aruRodayaH;#} ‘it is d.’ {#praBAtA#}
+{#rajanI#}. {@2@} {#udayaH;#} ‘d. of liberty’ {#svAtaM-#}
+{#-tryodayaH;#} ‘belonging to the d.’ {#uzasya,#}
+{#praBAtIya,#} ({%s.%}) in comp. {%-v. i.%} {#AvirBU#}
+1 P, {#udBid#} pass., {#udgam#} 1 P, {#praBA#} 2 P;
+‘before the day d. ed’ {#apraBAtAyAM Sa-#}
+{#-rvaryAM;#} ‘the day d. ed’ {#praBAtA rajanI#}.
 <LEND>

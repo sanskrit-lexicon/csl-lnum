@@ -1,16 +1,16 @@
 <L>7756<pc>245<k1>equal<k2>equal
-<div n="lb"/>{@EQUAL@}¦ (adj.): <div n="I">I A like: </div><div n="1">(1) {#samaH#} ({#mA, maM#}), <div n="xe">{%I%}
-<div n="lb"/>{%do not see any one greater than or e. to Rāma:%}</div>
-<div n="lb"/><div n="xs">{#paSyAmi rAmAdaDikaM samaM vA nAnyam,#}</div> B.; {%e. share:%}
-<div n="lb"/>{#samaBAgaH,#} Da.; </div><div n="1">(2) {#samAnaH#} ({#nA, naM#}), <div n="xe">{%e. in caste%}
-<div n="lb"/>{%and number:%}</div> <div n="xs">{#samAnA jAtisaMKyayA,#}</div> Da.; {%to%} ({%men%})
-<div n="lb"/><div n="xe">{%of e. valour, lineage, and manliness:%}</div> <div n="xs">{#samAnavIryAnvaya-#}
-<div n="lb"/>{#pOruzezu,#}</div> Ki.; </div><div n="1">(3) {#tulyaH#} ({#lyA, lyaM#}) (= match-
-<div n="lb"/>-ing, like), <div n="xe">{%of e. strength:%}</div> <div n="xs">{#tulyaSkti#}</div> (mfn.),
-<div n="lb"/>M. n.; </div><div n="1">(4) {#sadfSaH#} ({#SI, SaM#}) (= {#tulya#}), <div n="xe">{%with those,%}
-<div n="lb"/>{%who are not his e. s:%}</div> <div n="xs">{#anAtmasadfSezu,#}</div> Mu. </div><div n="I">II
-<div n="lb"/>Adequate: </div><div n="1">(1) {#samaH#} ({#mA, maM#}); </div><div n="1">(2) {#paryAptaH#} ({#ptA, #}
-<div n="lb"/>{# ptaM#}) (= enough: q. v.). </div><div n="I">III Equitable:
-<div n="lb"/>{#samaH#} ({#mA, maM#}). </div><div n="I">IV Indifferent: {#samaH#} ({#mA, #}
-<div n="lb"/>{# maM#}) <div n="xe">{%or%}</div> <div n="xs">{#samAnaH#}</div> ({#nA, naM#}).</div>
+{@EQUAL@}¦ (adj.): <div n="I">I A like: </div><div n="1">(1) {#samaH#} ({#mA, maM#}), <div n="xe">{%I%}
+{%do not see any one greater than or e. to Rāma:%}</div>
+<div n="xs">{#paSyAmi rAmAdaDikaM samaM vA nAnyam,#}</div> B.; {%e. share:%}
+{#samaBAgaH,#} Da.; </div><div n="1">(2) {#samAnaH#} ({#nA, naM#}), <div n="xe">{%e. in caste%}
+{%and number:%}</div> <div n="xs">{#samAnA jAtisaMKyayA,#}</div> Da.; {%to%} ({%men%})
+<div n="xe">{%of e. valour, lineage, and manliness:%}</div> <div n="xs">{#samAnavIryAnvaya-#}
+{#pOruzezu,#}</div> Ki.; </div><div n="1">(3) {#tulyaH#} ({#lyA, lyaM#}) (= match-
+-ing, like), <div n="xe">{%of e. strength:%}</div> <div n="xs">{#tulyaSkti#}</div> (mfn.),
+M. n.; </div><div n="1">(4) {#sadfSaH#} ({#SI, SaM#}) (= {#tulya#}), <div n="xe">{%with those,%}
+{%who are not his e. s:%}</div> <div n="xs">{#anAtmasadfSezu,#}</div> Mu. </div><div n="I">II
+Adequate: </div><div n="1">(1) {#samaH#} ({#mA, maM#}); </div><div n="1">(2) {#paryAptaH#} ({#ptA, #}
+{# ptaM#}) (= enough: q. v.). </div><div n="I">III Equitable:
+{#samaH#} ({#mA, maM#}). </div><div n="I">IV Indifferent: {#samaH#} ({#mA, #}
+{# maM#}) <div n="xe">{%or%}</div> <div n="xs">{#samAnaH#}</div> ({#nA, naM#}).</div>
 <LEND>

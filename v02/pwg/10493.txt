@@ -1,19 +1,19 @@
 <L>10493<pc>1-0845<k1>IdfS<k2>Idf/S
-{#Idf/S#}¦ ({#id + dfS#}) <lex>adj.</lex> (nom. {#Idfk#}, ved. {#IdfN#} 
-<ls>P. 7, 1, 83</ls>) dass. 
-<ls>P. 6, 3, 90.</ls> 
-<ls>VOP. 26, 83. 84.</ls> {#I\dfNcA^nyA\dfNca^#} 
-<ls>VS. 17, 81.</ls> {#indro^ 'biBedI\dfNvE rA\zwraM vi^pa\ryAva^rtayatIti#} 
-<ls>TS. 2, 5, 1, 1.</ls> {#sa tu raso yasyedfkSazwam#} 
-<ls>ŚAT. BR. 11, 5, 4, 18.</ls> 
-<ls>BHAG. 11, 49.</ls> 
-<ls>ŚĀK. 38.</ls> 
-<ls>PAÑCAT. 100, 6. 109, 11. 129, 12.</ls> {#kadAcidBagavantaM prati tvayA nEtadaBihitamIdfk#} 
-<ls>83, 21.</ls> {#ratnAnIdfMSi#} 
-<ls>KATHĀS. 25, 176. 26, 255.</ls> Im <is>Veda</is> subst. {%solche Lage, solcher Anlass%}; häufig in der Redensart {#tA no^ mfLAta I\dfSe^#} 
-<ls>ṚV. 1, 17, 1.</ls> <ls n="ṚV.">4, 57, 1.</ls> <ls n="ṚV.">6, 60, 5.</ls> 
-<ls>AV. 7, 109, 1. 7.</ls> {#tvameka^sya vftrahannavi\tA dvayo^rasi . u\tedfSe\ yaTA^ va\yam#} 
-<ls>ṚV. 6, 45, 5.</ls> {#yU\yamu\grA ma^ruta I\dfSe^ sTa#} 
-<ls>AV. 3, 1, 2.</ls> ({#yadi#}) {#I\dfgAra^#} {%wenn ich in solche Lage gerathen bin%} 
-<ls>4, 27, 6.</ls>
+{#Idf/S#}¦ ({#id + dfS#}) <lex>adj.</lex> (nom. {#Idfk#}, ved. {#IdfN#}
+<ls>P. 7,1,83</ls>) dass.
+<ls>P. 6,3,90.</ls>
+<ls>VOP. 26,83.</ls> <ls n="VOP. 26,">84.</ls> {#I\dfNcA^nyA\dfNca^#}
+<ls>VS. 17,81.</ls> {#indro^ 'biBedI\dfNvE rA\zwraM vi^pa\ryAva^rtayatIti#}
+<ls>TS. 2,5,1,1.</ls> {#sa tu raso yasyedfkSazwam#}
+<ls>ŚAT. BR. 11,5,4,18.</ls>
+<ls>BHAG. 11,49.</ls>
+<ls>ŚĀK. 38.</ls>
+<ls>PAÑCAT. 100,6.</ls> <ls n="PAÑCAT.">109,11.</ls> <ls n="PAÑCAT.">129,12.</ls> {#kadAcidBagavantaM prati tvayA nEtadaBihitamIdfk#}
+<ls n="PAÑCAT.">83,21.</ls> {#ratnAnIdfMSi#}
+<ls>KATHĀS. 25,176.</ls> <ls n="KATHĀS.">26,255.</ls> Im <is>Veda</is> subst. {%solche Lage, solcher Anlass%}; häufig in der Redensart {#tA no^ mfLAta I\dfSe^#}
+<ls>ṚV. 1,17,1.</ls> <ls n="ṚV.">4,57,1.</ls> <ls n="ṚV.">6,60,5.</ls>
+<ls>AV. 7,109,1.</ls> <ls n="AV. 7,109,">7.</ls> {#tvameka^sya vftrahannavi\tA dvayo^rasi . u\tedfSe\ yaTA^ va\yam#}
+<ls>ṚV. 6,45,5.</ls> {#yU\yamu\grA ma^ruta I\dfSe^ sTa#}
+<ls>AV. 3,1,2.</ls> ({#yadi#}) {#I\dfgAra^#} {%wenn ich in solche Lage gerathen bin%}
+<ls n="AV.">4,27,6.</ls>
 <LEND>

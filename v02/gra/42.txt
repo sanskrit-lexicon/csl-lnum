@@ -1,8 +1,8 @@
 <L>42<pc>0005<k1>akza<k2>akza/<h>1
-1. {@akṣá,@}¦ <ab>m.</ab>, {%der Würfel zum Spielen,%} wahrscheinlich <lbinfo n="10"/> zu ákṣi, ákṣan (Auge) gehörig, indem er nach den Würfelaugen benannt scheint.
-<div n="P1">-ás {860,4} (vājī́).
-<div n="P1">-ásya {860,2} (ekaparásya). <lbinfo n="5"/>
-<div n="P1">-ā́s {853,17} (níuptās).
-<div n="P1">-ā́sas {860,6}. 7 (aṅkuśínas <lbinfo n="5"/> nitodínas).
-<div n="P1">-aís {860,13} (mā́ dīvyas).
+<hom>1.</hom> {@akṣá,@}¦ <ab>m.</ab>, {%der Würfel zum Spielen,%} wahrscheinlich zu ákṣi, ákṣan (Auge) gehörig, indem er nach den Würfelaugen benannt scheint.
+<div n="TS">-ás {860,4} (vājī́).
+<div n="TS">-ásya {860,2} (ekaparásya).
+<div n="TS">-ā́s {853,17} (níuptās).
+<div n="TS">-ā́sas {860,6}. _{860,7} (aṅkuśínas nitodínas).
+<div n="TS">-aís {860,13} (mā́ dīvyas).
 <LEND>

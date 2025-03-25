@@ -1,56 +1,56 @@
 <L>22267<pc>2-0733<k1>gAnDarva<k2>gAnDarva/
-{#gAnDarva/#}¦ (von {#ganDarva#}) 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#gA/nDarvI#} {%gandharvisch%}: {#rUpa#} 
-<ls>ŚAT. BR. 14, 7, 2, 5.</ls> {#a\gnirgAnDa^rvIM pa\TyA^mf\tasyA\gnergavyU^tirGf\ta A niza^ttA#} 
-<ls>ṚV. 10, 80, 6.</ls> {#aSva#} 
-<ls>MBH. 1, 8183.</ls> {#yudDa#} 
-<ls>7, 6348.</ls> {#astra#} 
-<ls>R. 1, 29, 15. 56, 7. 3, 31, 46.</ls> 
-<ls>ARJ. 7, 20.</ls> {#loka#} 
-<ls>BHĀG. P. 9, 14, 49.</ls> {#vivAha#} und {#viDi#} {%die g. Eheform%}, nach der sich das liebende Paar ohne alle Cerimonien verbindet, 
-<ls>ĀŚV. GṚHY. 1, 6.</ls> 
-<ls>M. 3, 21. 26. 32. 9, 196.</ls> 
-<ls>YĀJÑ. 1, 61.</ls> 
-<ls>MBH. 1, 2958.</ls> 
-<ls>ŚĀK. 71. 110. 14.</ls> 
-<ls>PAÑCAT. 45, 6. 129. 9.</ls> 
-<ls>KATHĀS. 6, 14. 15, 44.</ls> 
+{#gAnDarva/#}¦ (von {#ganDarva#})
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#gA/nDarvI#} {%gandharvisch%}: {#rUpa#}
+<ls>ŚAT. BR. 14,7,2,5.</ls> {#a\gnirgAnDa^rvIM pa\TyA^mf\tasyA\gnergavyU^tirGf\ta A niza^ttA#}
+<ls>ṚV. 10,80,6.</ls> {#aSva#}
+<ls>MBH. 1,8183.</ls> {#yudDa#}
+<ls n="MBH.">7,6348.</ls> {#astra#}
+<ls>R. 1,29,15.</ls> <ls n="R. 1,">56,7.</ls> <ls n="R.">3,31,46.</ls>
+<ls>ARJ. 7,20.</ls> {#loka#}
+<ls>BHĀG. P. 9,14,49.</ls> {#vivAha#} und {#viDi#} {%die g. Eheform%}, nach der sich das liebende Paar ohne alle Cerimonien verbindet,
+<ls>ĀŚV. GṚHY. 1,6.</ls>
+<ls>M. 3,21.</ls> <ls n="M. 3,">26.</ls> <ls n="M. 3,">32.</ls> <ls n="M.">9,196.</ls>
+<ls>YĀJÑ. 1,61.</ls>
+<ls>MBH. 1,2958.</ls>
+<ls>ŚĀK. 71. 110. 14.</ls>
+<ls>PAÑCAT. 45,6. 129. 9.</ls>
+<ls>KATHĀS. 6,14.</ls> <ls n="KATHĀS.">15,44.</ls>
 <ls>VID. 152.</ls> {%zu den%} <is>Gandharva</is> {%als himmlischen Sängern in Bezug stehend%}: {#ganDarvAScopagAyanti gAnDarveRa #}
 [Page2-0734]
-{# svareRa#} 
-<ls>HARIV. 16291.</ls> {#vAditra#} 
-<ls>INDR. 3, 10.</ls> {#hAryo 'yaM vizayo gAnDarvo nAma nAmataH#} 
-<ls>MBH. 13, 1429.</ls> {#gAnDarvakalAH#} {%Gesang, Musik%} 
-<ls>GĪT. 12, 28.</ls> {#gAnDarvo vedaH, gAnDarvaveda#} {%Musik-%}<is>Veda</is>, {%die Musikwissenschaft%}; wird im System dem 
-<ls>SĀMAVEDA</ls> als Anhang zugetheilt und dem <is>Bharata</is> als Verfasser zugeschrieben, 
-<ls>MADHUS.</ls> in <ls>Ind. St. 1, 13. 22. 2, 67. 3, 280.</ls> <ls>WEBER, Lit. 239.</ls> <ls>MBH. 3, 8421.</ls> <ls>HARIV. 3049.</ls> <ls>VP. 284.</ls> <ls>BHĀG. P. 3, 12, 38.</ls> {#gAnDarvaSAstra#} 
-<ls>MBH. 13, 5103.</ls> Daher {#gAnDarva#} <lex>n.</lex> {%die Kunst der%} <is>Gandharva</is>. {%Gesang%} (
-<ls>H. 280</ls>), {%Musik, Tanz%}: {#pravftte gAnDarve divye#} 
-<ls>MBH. 13, 1427.</ls> {#AvartamAne gAnDarve#} 
-<ls>BHĀG. P. 9, 3, 30.</ls> {#gAnDarvaM nArado veda#} 
-<ls>MBH. 12, 7662.</ls> {#sa ca gAnDarvamaKilaM grAhayAmAsa mAm#} 
-<ls>ARJ. 4, 58.</ls> {#gAnDarvajYa#} 
-<ls>KATHĀS. 11, 11.</ls> {#gAnDarvatattvajYa#} 
-<ls>R. 1, 4, 11.</ls> 
-<ls>VARĀH. BṚH. S. 15, 12. 16, 18.</ls> {#CAlikyagAnDarvam#} 
-<ls>HARIV. 8455. fgg.</ls> {#gAnDarvajAti#} 
-<ls>8461.</ls> {#yudDagAnDarva#} {%Kriegstanz%} 
-<ls>R. 6, 28, 26.</ls> 
-<ls>LIA. II, 958, N. 1.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) = {#ganDarva#} 
-<ls>H. 183.</ls> {%Sänger%} überh. 
-<ls>VARĀH. BṚH. S. 15, 3. 31 (30), 11.</ls> 
-<div n="2">— b) N. pr. eines Volkes im Nordosten von <is>Madhyadeśa</is> 
-<ls>VARĀH. BṚH. S. 14, 31.</ls> 
-<div n="1">— 3) <lex>f.</lex> 
-<div n="2"> a) = {#vAc#} {%Rede%} 
-<ls>NAIGH. 1, 11.</ls> nach der bekannten Legende, dass die Götter von den <is>Gandharva</is> um die <is>Vāk</is> den <is>Soma</is> erhandelt haben, 
-z. B. <ls>AIT. BR. 1, 27.</ls> 
-<div n="2">— b) Bein. der <is>Durgā</is> 
-<ls>H. ś. 53.</ls> <ls>HARIV. 10243.</ls> 
-<div n="1">— 4) <lex>n.</lex> 
-<div n="2"> a) {%die Kunst der%} <is>Gandharva</is>. s. u. 1. 
-<div n="2">— b) N. eines der 9 Abtheilungen von <is>Bhāratavarṣa</is> (vgl. {#ganDarvaKaRqa#}) 
+{# svareRa#}
+<ls>HARIV. 16291.</ls> {#vAditra#}
+<ls>INDR. 3,10.</ls> {#hAryo 'yaM vizayo gAnDarvo nAma nAmataH#}
+<ls>MBH. 13,1429.</ls> {#gAnDarvakalAH#} {%Gesang, Musik%}
+<ls>GĪT. 12,28.</ls> {#gAnDarvo vedaH, gAnDarvaveda#} {%Musik-%}<is>Veda</is>, {%die Musikwissenschaft%}; wird im System dem
+<ls>SĀMAVEDA</ls> als Anhang zugetheilt und dem <is>Bharata</is> als Verfasser zugeschrieben,
+<ls>MADHUS.</ls> in <ls>Ind. St. 1,13. 22. 2,67. 3,280.</ls> <ls>WEBER, Lit. 239.</ls> <ls>MBH. 3,8421.</ls> <ls>HARIV. 3049.</ls> <ls>VP. 284.</ls> <ls>BHĀG. P. 3,12,38.</ls> {#gAnDarvaSAstra#}
+<ls>MBH. 13,5103.</ls> Daher {#gAnDarva#} <lex>n.</lex> {%die Kunst der%} <is>Gandharva</is>. {%Gesang%} (
+<ls>H. 280</ls>), {%Musik, Tanz%}: {#pravftte gAnDarve divye#}
+<ls>MBH. 13,1427.</ls> {#AvartamAne gAnDarve#}
+<ls>BHĀG. P. 9,3,30.</ls> {#gAnDarvaM nArado veda#}
+<ls>MBH. 12,7662.</ls> {#sa ca gAnDarvamaKilaM grAhayAmAsa mAm#}
+<ls>ARJ. 4,58.</ls> {#gAnDarvajYa#}
+<ls>KATHĀS. 11,11.</ls> {#gAnDarvatattvajYa#}
+<ls>R. 1,4,11.</ls>
+<ls>VARĀH. BṚH. S. 15,12. 16,18.</ls> {#CAlikyagAnDarvam#}
+<ls>HARIV. 8455. fgg.</ls> {#gAnDarvajAti#}
+<ls n="HARIV.">8461.</ls> {#yudDagAnDarva#} {%Kriegstanz%}
+<ls>R. 6,28,26.</ls>
+<ls>LIA. II,958, N. 1.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) = {#ganDarva#}
+<ls>H. 183.</ls> {%Sänger%} überh.
+<ls>VARĀH. BṚH. S. 15,3. 31 (30),11.</ls>
+<div n="2">— b) N. pr. eines Volkes im Nordosten von <is>Madhyadeśa</is>
+<ls>VARĀH. BṚH. S. 14,31.</ls>
+<div n="1">— 3) <lex>f.</lex>
+<div n="2"> a) = {#vAc#} {%Rede%}
+<ls>NAIGH. 1,11.</ls> nach der bekannten Legende, dass die Götter von den <is>Gandharva</is> um die <is>Vāk</is> den <is>Soma</is> erhandelt haben,
+z. B. <ls>AIT. BR. 1,27.</ls>
+<div n="2">— b) Bein. der <is>Durgā</is>
+<ls>H. ś. 53.</ls> <ls>HARIV. 10243.</ls>
+<div n="1">— 4) <lex>n.</lex>
+<div n="2"> a) {%die Kunst der%} <is>Gandharva</is>. s. u. 1.
+<div n="2">— b) N. eines der 9 Abtheilungen von <is>Bhāratavarṣa</is> (vgl. {#ganDarvaKaRqa#})
 <ls>VP. 175.</ls>
 <LEND>

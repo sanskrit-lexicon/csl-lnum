@@ -1,3 +1,3 @@
-<L>248172<pc>1230,2<k1>suBa<k2>suBa<h>b<e>1
-<s>suBa</s> <hom>b</hom> ¦ <lex>mfn.</lex> (for <s>su-Ba</s> See <pcol>p. 1229, col. 2</pcol>), often <ab>w.r.</ab> for <s>SuBa</s>.<info lex="m:f:n"/>
+<L>248172<pc>1230,2<k1>suBa<k2>suBa<e>1
+<s>suBa</s> ¦ <lex>mfn.</lex> (for <s>su-Ba</s> See <pcol>p. 1229, col. 2</pcol>), often <ab>w.r.</ab> for <s>SuBa</s>.<info lex="m:f:n"/><info hui="b"/>
 <LEND>

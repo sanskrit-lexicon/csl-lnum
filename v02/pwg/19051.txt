@@ -1,21 +1,21 @@
 <L>19051<pc>2-0427<k1>keyUra<k2>keyUra
-{#keyUra#}¦ 
+{#keyUra#}¦
 <div n="1"> 1) <lex>m.</lex> <lex>n.</lex> (
-<ls>SIDDH. K. 249,b,1</ls>) {%ein auf dem Oberarm%} (von Männern und Frauen) {%getragener Reifschmuck%} 
-<ls>AK. 2, 6, 3, 9.</ls> 
-<ls>TRIK. 3, 3, 202.</ls> 
-<ls>H. 662.</ls> 
-<ls>MBH. 2, 2067. 3, 14694. 13, 765.</ls> 
-<ls>R. 1, 14, 25. 2, 23, 39. 32, 5. 3, 50, 20. 5, 45, 7.</ls> 
-<ls>RAGH. 6, 68.</ls> 
-<ls>KUMĀRAS. 7, 69.</ls> 
-<ls>AMAR. 88.</ls> 
-<ls>KATHĀS. 26, 232.</ls> 
-<ls>PRAB. 95, 2.</ls> 
-<ls>SĀH. D. 49, 2.</ls> In Verbindung mit {#aNgada#} 
-<ls>R. 2, 32, 8. 6, 112, 68.</ls> Das von den Lexicographen und Grammatikern nicht gekannte masc. erscheint 
-<ls>BHARTṚ. 2, 16.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%eine Art coitus%}: {#strIjaNGe cEva saMpIqya dorByAmAliNgya sundarIm . kArayet zWApanaM#} (sic!) {#kAmI banDaH keyUrasaMjYakaH ..#} 
-<ls>SMARADĪP.</ls> im <ls>ŚKDR.</ls> {#strIRAM jaNGAntarAvizwo gAQamAliNgya sundarIm . kAmayedvipulaM kAmI banDaH keyUrasaMjYakaH ..#} 
+<ls>SIDDH. K. 249,b,1</ls>) {%ein auf dem Oberarm%} (von Männern und Frauen) {%getragener Reifschmuck%}
+<ls>AK. 2,6,3,9.</ls>
+<ls>TRIK. 3,3,202.</ls>
+<ls>H. 662.</ls>
+<ls>MBH. 2,2067.</ls> <ls n="MBH.">3,14694.</ls> <ls n="MBH.">13,765.</ls>
+<ls>R. 1,14,25.</ls> <ls n="R.">2,23,39.</ls> <ls n="R. 2,">32,5.</ls> <ls n="R.">3,50,20.</ls> <ls n="R.">5,45,7.</ls>
+<ls>RAGH. 6,68.</ls>
+<ls>KUMĀRAS. 7,69.</ls>
+<ls>AMAR. 88.</ls>
+<ls>KATHĀS. 26,232.</ls>
+<ls>PRAB. 95,2.</ls>
+<ls>SĀH. D. 49,2.</ls> In Verbindung mit {#aNgada#}
+<ls>R. 2,32,8.</ls> <ls n="R.">6,112,68.</ls> Das von den Lexicographen und Grammatikern nicht gekannte masc. erscheint
+<ls>BHARTṚ. 2,16.</ls>
+<div n="1">— 2) <lex>m.</lex> {%eine Art coitus%}: {#strIjaNGe cEva saMpIqya dorByAmAliNgya sundarIm . kArayet zWApanaM#} (sic!) {#kAmI banDaH keyUrasaMjYakaH ..#}
+<ls>SMARADĪP.</ls> im <ls>ŚKDR.</ls> {#strIRAM jaNGAntarAvizwo gAQamAliNgya sundarIm . kAmayedvipulaM kAmI banDaH keyUrasaMjYakaH ..#}
 <ls>RATIM.</ls> ebend.
 <LEND>

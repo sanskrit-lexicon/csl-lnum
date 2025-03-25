@@ -1,8 +1,8 @@
 <L>7938<pc>251<k1>evil<k2>evil
-<div n="lb"/>{@EVIL@}¦ (adj,): <div n="I">I Having bad qualities: </div><div n="1">(1)
-<div n="lb"/>{#duzwaH#} ({#zwA, zwaM#}), <div n="xe">{%quieting the e. ones:%}</div> <div n="xs">{#duzwapraSAntiH,#}</div>
-<div n="lb"/>Vi.; <div n="xe">{%e. sleep:%}</div> <div n="xs">{#duzwanidrA,#}</div> K. </div><div n="1">(2) by {#dur#} prefixed,
-<div n="lb"/><div n="xe">{%e. doings:%}</div> <div n="xs">{#duzkarmARi#}</div> (n. pl.); <div n="xe">{%e. speaking:%}</div> <div n="xs">{#durvAkyam.#}</div></div>
-<div n="lb"/><div n="I">II Not good: by {#ku-#} pref, {%at an e. moment:%}
-<div n="lb"/>{#kukzaRe;#} <div n="xe">{%e. course:%}</div> <div n="xs">{#kumArgaH;#}</div> <div n="xe">{%e. eye:%}</div> <div n="xs">{#kudfzwiH.#}</div></div>
+{@EVIL@}¦ (adj,): <div n="I">I Having bad qualities: </div><div n="1">(1)
+{#duzwaH#} ({#zwA, zwaM#}), <div n="xe">{%quieting the e. ones:%}</div> <div n="xs">{#duzwapraSAntiH,#}</div>
+Vi.; <div n="xe">{%e. sleep:%}</div> <div n="xs">{#duzwanidrA,#}</div> K. </div><div n="1">(2) by {#dur#} prefixed,
+<div n="xe">{%e. doings:%}</div> <div n="xs">{#duzkarmARi#}</div> (n. pl.); <div n="xe">{%e. speaking:%}</div> <div n="xs">{#durvAkyam.#}</div></div>
+<div n="I">II Not good: by {#ku-#} pref, {%at an e. moment:%}
+{#kukzaRe;#} <div n="xe">{%e. course:%}</div> <div n="xs">{#kumArgaH;#}</div> <div n="xe">{%e. eye:%}</div> <div n="xs">{#kudfzwiH.#}</div></div>
 <LEND>

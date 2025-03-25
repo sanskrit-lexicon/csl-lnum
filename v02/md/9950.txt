@@ -1,21 +1,3 @@
 <L>9950<pc>130-3<k1>DarmaSAsana<k2>DarmaSAsana
-{#DarmaSAsana#}¦dharma-śāsana, {%n.%} manual of 
-<>law; {@-śāstra@}, {%n.%} authoritative compendium 
-<>of law; law-book; {@-śāstrin@}, {%m.%} adherent of 
-<>the law-books: {%pl. a certain school%}; {@-śīla@}, 
-<>{%a.%} just, virtuous; {%m. N.%}; {@-saṃyukta@}, {%pp.%} 
-<>legal; {@saṃśrita@}, {%pp.%} just, virtuous; {@-saṃka-@}
-<>{@-thā@}, {%f. pl.%} discourses on virtue; {@-saṃ-jñā@}, {%f.%} 
-<>sense of duty; {@-samaya,@} {%m.%} obligation entered <lbinfo n="2"/>
-<> into; {@-sādnana,@} {%n.%} fulfilment of duty; 
-<>necessary means for the fulfilment of duty; 
-<>{@-sūtra,@} {%n.%} sūtra treatise on customary law; 
-<>{@-sena,@} {%m. N. of a merchant%}; {@-sevana,@} {%n.%} 
-<>fulfilment of duty; {@-skandha,@} {%m.%} chapter on 
-<>law; {@-stha,@} {%m.%} judge; {@-sthūṇā-rāja@}, {%m.%} 
-<>main pillar of the law; {@-svāmin,@} {%m. N. of a %}
-<>{%temple erected by king Dharma%}; {@-hantṛ@}, 
-<>{%m.%} ({@-trī,@} {%f.%}) violator of the law; {@-hāni,@} {%f.%} 
-<>neglect of duty; {@-hīna,@} {%pp.%} excluded from {%the %}
-<>{%pala of%} the law.
+{#DarmaSAsana#}¦ dharma-śāsana, <lex>n.</lex> manual of 🞄law; {@-śāstra,@} <lex>n.</lex> authoritative compendium 🞄of law; law-book; {@-śāstrin,@} <lex>m.</lex> adherent of 🞄the law-books: <ab>pl.</ab> {%a certain school%}; {@-śīla,@} 🞄<lex>a.</lex> just, virtuous; <lex>m.</lex> <ab>N.</ab>; {@-saṃyukta,@} <ab>pp.</ab> 🞄legal; {@saṃśrita,@} <ab>pp.</ab> just, virtuous; {@-saṃkathā,@} <lex>f.</lex> <ab>pl.</ab> discourses on virtue; {@-saṃ-jñā,@} <lex>f.</lex> 🞄sense of duty; {@-samaya,@} <lex>m.</lex> obligation entered 🞄into; {@-sādnana,@} <lex>n.</lex> fulfilment of duty; 🞄necessary means for the fulfilment of duty; 🞄{@-sūtra,@} <lex>n.</lex> sūtra treatise on customary law; 🞄{@-sena,@} <lex>m.</lex> <ab>N.</ab> {%of a merchant%}; {@-sevana,@} <lex>n.</lex> 🞄fulfilment of duty; {@-skandha,@} <lex>m.</lex> chapter on 🞄law; {@-stha,@} <lex>m.</lex> judge; {@-sthūṇā-rāja,@} <lex>m.</lex> 🞄main pillar of the law; {@-svāmin,@} <lex>m.</lex> <ab>N.</ab> {%of a 🞄temple erected by king Dharma%}; {@-hantṛ,@} 🞄<lex>m.</lex> ({@-trī,@} <lex>f.</lex>) violator of the law; {@-hāni,@} <lex>f.</lex> 🞄neglect of duty; {@-hīna,@} <ab>pp.</ab> excluded from {%the 🞄pala of%} the law.
 <LEND>

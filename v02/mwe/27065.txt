@@ -1,8 +1,8 @@
 <L>27065<pc>741-a<k1>sickness<k2>sickness
-<div n="lb"/>SICKNESS¦, {%s.%} (Inclination to vomit, nausea) {#DamanecCA, CardanecCA,#}
-<div n="lb"/>{#vivamizA, vamanonmuKatA, vamaH -manaM, vamiH#} {%f.,%} {#vAntiH#} {%f.,%} {#utkleSaH, utkledaH,#}
-<div n="lb"/>{#utkzepaH, uttAraH, CardanaM, CardI, CardaM, CardiH#} {%f.,%} {#Cardis#} {%f.,%} {#pracCardikA#}.
-<div n="lb"/> — (Disease) {#rogaH, vyADiH#} {%m.,%} {#AmayaH, ruk#} {%f.%} {#(j), asvAsTyaM,#}
-<div n="lb"/>{#asvasTatA, vikAraH, asamADAnaM, rugnAvasTA, rogitA, rogagrastatA, roga-#}
-<div n="lb"/>{#vyAptiH#} {%f., see%} DISEASE, ILLNESS.
+SICKNESS¦, {%s.%} (Inclination to vomit, nausea) {#DamanecCA, CardanecCA,#}
+{#vivamizA, vamanonmuKatA, vamaH -manaM, vamiH#} {%f.,%} {#vAntiH#} {%f.,%} {#utkleSaH, utkledaH,#}
+{#utkzepaH, uttAraH, CardanaM, CardI, CardaM, CardiH#} {%f.,%} {#Cardis#} {%f.,%} {#pracCardikA#}.
+ — (Disease) {#rogaH, vyADiH#} {%m.,%} {#AmayaH, ruk#} {%f.%} {#(j), asvAsTyaM,#}
+{#asvasTatA, vikAraH, asamADAnaM, rugnAvasTA, rogitA, rogagrastatA, roga-#}
+{#vyAptiH#} {%f., see%} DISEASE, ILLNESS.
 <LEND>

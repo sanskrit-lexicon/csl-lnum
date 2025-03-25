@@ -1,12 +1,12 @@
 <L>3507<pc>135<k1>enemy<k2>enemy
 {@Enemy,@}¦ {%s.%} {#SatruH, ariH, ripuH, vErin#} {%m.,%}
-<div n="lb"/>{#arAtiH, dviz#} {%m.,%} {#prati-vi-pakzaH, paripAMTin#} {%m.,%}
-<div n="lb"/>{#amitraH, dvezwf#} {%m.,%} {#apakartf#} {%m.,%} {#sapatnaH, durhfd#} {%m.,%}
-<div n="lb"/>{#paraH, pratyarTin#} {%m.,%} {#dvizat#} {%n.,%} {#dvezaRaH, ahitaH,#}
-<div n="lb"/>{#SAtravaH, aBiGAtin#} {%m.;%} ‘an e. in the rear’
-<div n="lb"/>{#pArzRigrAhaH#}. {@-lnimical,@} {%a.%} {#virudDa, SAtrava#}
-<div n="lb"/>({#vI#} {%f.%}), {#dvezin, vErin, ahita, vipakza, viroDin#}.
-<div n="lb"/>{#ananukUla#}. {@-ly,@} {%adv.%} {#ripuvat, savEraM, droha-#}
-<div n="lb"/>{#budDyA#}. {@-Enmity,@} {%s.%} {#vEraM, SatrutA, SatruBAvaH,#}
-<div n="lb"/>{#vidvezaH, vipakzatA, sApatnyaM, dvaMdvaBAvaH, viroDaH#}.
+{#arAtiH, dviz#} {%m.,%} {#prati-vi-pakzaH, paripAMTin#} {%m.,%}
+{#amitraH, dvezwf#} {%m.,%} {#apakartf#} {%m.,%} {#sapatnaH, durhfd#} {%m.,%}
+{#paraH, pratyarTin#} {%m.,%} {#dvizat#} {%n.,%} {#dvezaRaH, ahitaH,#}
+{#SAtravaH, aBiGAtin#} {%m.;%} ‘an e. in the rear’
+{#pArzRigrAhaH#}. {@-lnimical,@} {%a.%} {#virudDa, SAtrava#}
+({#vI#} {%f.%}), {#dvezin, vErin, ahita, vipakza, viroDin#}.
+{#ananukUla#}. {@-ly,@} {%adv.%} {#ripuvat, savEraM, droha-#}
+{#budDyA#}. {@-Enmity,@} {%s.%} {#vEraM, SatrutA, SatruBAvaH,#}
+{#vidvezaH, vipakzatA, sApatnyaM, dvaMdvaBAvaH, viroDaH#}.
 <LEND>

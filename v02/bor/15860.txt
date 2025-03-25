@@ -1,6 +1,6 @@
 <L>15860<pc>487<k1>once<k2>once
-<div n="lb"/>{@ONCE:@}¦ <div n="I">I One time: </div><div n="1">(1) {#sakft,#} <div n="xe">{%even o.:%}</div> <div n="xs">{#sakfdapi,#}</div>
-<div n="lb"/>K.; </div><div n="1">(2) {#ekavAram,#} {%o. and again:%} </div><div n="1">(1) {#asakft;#}</div>
-<div n="lb"/><div n="1">(2) {#vAraM vAram;#} </div><div n="1">(3) {#muhuH.#} </div><div n="I">II At one time: {#kadA-#}
-<div n="lb"/>{#cit.#} </div><div n="I">III Formerly: q.v.: {#purA.#}</div>
+{@ONCE:@}¦ <div n="I">I One time: </div><div n="1">(1) {#sakft,#} <div n="xe">{%even o.:%}</div> <div n="xs">{#sakfdapi,#}</div>
+K.; </div><div n="1">(2) {#ekavAram,#} {%o. and again:%} </div><div n="1">(1) {#asakft;#}</div>
+<div n="1">(2) {#vAraM vAram;#} </div><div n="1">(3) {#muhuH.#} </div><div n="I">II At one time: {#kadA-#}
+{#cit.#} </div><div n="I">III Formerly: q.v.: {#purA.#}</div>
 <LEND>

@@ -1,39 +1,39 @@
 <L>26091<pc>2-1078<k1>Cadman<k2>Ca/dman
-{#Ca/dman#}¦ (von 1. {#Cad#}) <lex>n.</lex> 
-<ls>Uṇ. 4, 146.</ls> 
-<ls>P. 6, 4, 97.</ls> 
-<ls>VOP. 26, 70.</ls> 
-<div n="1"> 1) {%Dach%}: {#divaSCadmAsIti cCattramAdatte#} 
-<ls>ĀŚV. GṚHY. 3, 8.</ls> 
-<ls>LĀṬY. 1, 7, 15.</ls> 
-<div n="1">— 2) {%eine angenommene äussere Hülle, ein trügerisches Gewand, eine angenommene Gestalt; trügerischer Schein, Betrug, Hinterlist, Verstellung%} 
-<ls>AK. 1, 1, 7, 30.</ls> 
-<ls>H. 378.</ls> = {#SAQya, apadeSa#} und {#GAtikarman#} 
-<ls>H. an. 2, 264.</ls> = {#vyAja#} und {#apadeSa#} 
-<ls>MED. n. 64.</ls> {#anena cCadmanA Badre svayaM tvAM drazwumAgataH#} {%in jener angenommenen Gestalt%} 
-<ls>R. 3, 53, 28. 49, 22.</ls> {#(prapitAmahaH) hinasti BUtErBUtAni cCadma kftvA#} 
-<ls>MBH. 3, 1152.</ls> {#Cadmanopetya#} 
-<ls>1, 1988.</ls> {#Sakro brAhmaRacCadmanA vftaH#} 
-<ls>3, 16944.</ls> {#brAhmaRacCadmasaMvfta#} 
-<ls>2, 838.</ls> {#brAhmaRacCadmanAByetya tAmindro 'TAnvapfcCata#} 
-<ls>13, 559.</ls> <ls>R. 3, 52, 4.</ls> {#palitacCadmanA (jarA)#} 
-<ls>RAGH. 12, 2.</ls> {#kftvA yo brAhmaRacCadma BikzArTI samupAgataH#} 
-<ls>MBH. 15, 1068.</ls> {#nAgezu tApasacCadmarUpizu#} 
-<ls>MBH. 1, 1792. 3, 415.</ls> {#vizRuM rAmamahaM manye mAnuzaM CadmarUpiRam#} (wohl {#mAnuzacCadma°#} zu lesen) 
-<ls>R. 6, 11, 32.</ls> {#DarmacCadmavftaM SaWam#} 
-<ls>4, 16, 16.</ls> {#dohadacCadmanA#} 
-<ls>MEGH. 76.</ls> {#tapaSCadmasTite 'Dame#} 
-<ls>PAÑCAT. III, 95.</ls> {#kimiha cCadmanA#} 
-<ls>MBH. 2, 843.</ls> {#CadmakAma#} 
-<ls>12, 3092.</ls> {#CadmanA caritaM yacca vratam#} 
-<ls>M. 4, 199.</ls> {#CadmanA copapAditAm (kanyAm)#} 
-<ls>9, 72.</ls> {#CadmanA nirjitAste#} 
-<ls>MBH. 3, 14827.</ls> 
-<ls>PAÑCAT. 198, 16.</ls> {#SakAMSca varvarAMScEva ajayacCadmapUrvakam#} 
-<ls>MBH. 2, 1088.</ls> {#CadmadyUta#} 
-<ls>1, 146.</ls> {#CadmaDarmaparicCanna#} 
-<ls>R. 4, 16, 21.</ls> {#CadmatApasa#} {%ein heuchelnder Frommer%} 
-<ls>TRIK. 2, 7, 13.</ls> 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
+{#Ca/dman#}¦ (von 1. {#Cad#}) <lex>n.</lex>
+<ls>Uṇ. 4,146.</ls>
+<ls>P. 6,4,97.</ls>
+<ls>VOP. 26,70.</ls>
+<div n="1"> 1) {%Dach%}: {#divaSCadmAsIti cCattramAdatte#}
+<ls>ĀŚV. GṚHY. 3,8.</ls>
+<ls>LĀṬY. 1,7,15.</ls>
+<div n="1">— 2) {%eine angenommene äussere Hülle, ein trügerisches Gewand, eine angenommene Gestalt; trügerischer Schein, Betrug, Hinterlist, Verstellung%}
+<ls>AK. 1,1,7,30.</ls>
+<ls>H. 378.</ls> = {#SAQya, apadeSa#} und {#GAtikarman#}
+<ls>H. an. 2,264.</ls> = {#vyAja#} und {#apadeSa#}
+<ls>MED. n. 64.</ls> {#anena cCadmanA Badre svayaM tvAM drazwumAgataH#} {%in jener angenommenen Gestalt%}
+<ls>R. 3,53,28.</ls> <ls n="R. 3,">49,22.</ls> {#(prapitAmahaH) hinasti BUtErBUtAni cCadma kftvA#}
+<ls>MBH. 3,1152.</ls> {#Cadmanopetya#}
+<ls n="MBH.">1,1988.</ls> {#Sakro brAhmaRacCadmanA vftaH#}
+<ls n="MBH.">3,16944.</ls> {#brAhmaRacCadmasaMvfta#}
+<ls n="MBH.">2,838.</ls> {#brAhmaRacCadmanAByetya tAmindro 'TAnvapfcCata#}
+<ls n="MBH.">13,559.</ls> <ls>R. 3,52,4.</ls> {#palitacCadmanA (jarA)#}
+<ls>RAGH. 12,2.</ls> {#kftvA yo brAhmaRacCadma BikzArTI samupAgataH#}
+<ls>MBH. 15,1068.</ls> {#nAgezu tApasacCadmarUpizu#}
+<ls>MBH. 1,1792.</ls> <ls n="MBH.">3,415.</ls> {#vizRuM rAmamahaM manye mAnuzaM CadmarUpiRam#} (wohl {#mAnuzacCadma°#} zu lesen)
+<ls>R. 6,11,32.</ls> {#DarmacCadmavftaM SaWam#}
+<ls n="R.">4,16,16.</ls> {#dohadacCadmanA#}
+<ls>MEGH. 76.</ls> {#tapaSCadmasTite 'Dame#}
+<ls>PAÑCAT. III,95.</ls> {#kimiha cCadmanA#}
+<ls>MBH. 2,843.</ls> {#CadmakAma#}
+<ls n="MBH.">12,3092.</ls> {#CadmanA caritaM yacca vratam#}
+<ls>M. 4,199.</ls> {#CadmanA copapAditAm (kanyAm)#}
+<ls n="M.">9,72.</ls> {#CadmanA nirjitAste#}
+<ls>MBH. 3,14827.</ls>
+<ls>PAÑCAT. 198,16.</ls> {#SakAMSca varvarAMScEva ajayacCadmapUrvakam#}
+<ls>MBH. 2,1088.</ls> {#CadmadyUta#}
+<ls n="MBH.">1,146.</ls> {#CadmaDarmaparicCanna#}
+<ls>R. 4,16,21.</ls> {#CadmatApasa#} {%ein heuchelnder Frommer%}
+<ls>TRIK. 2,7,13.</ls>
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
 <div n="v">— Vgl. {#kUwacCadman#} .
 <LEND>

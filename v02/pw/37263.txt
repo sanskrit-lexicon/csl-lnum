@@ -1,26 +1,26 @@
-<L>37263<pc>2188-1<k1>graT<k2>graT<h>1<e>500
-1. {#graT#}¦ , {#granT , graTnA/ti , *graTati , *°te , *granTati#}. {%knüpfen , winden , aneinanderreihen%} , (ein Werk , Gedicht) {%zusammenknüpfen%} , so v.a. {%— stellen verfassen.%} — {#graTyantAm#} <ls>KATHĀS.122,71</ls> wohl fehlerhaft für {#praTyantAm#}.
-<div n="m">— <ab>Partic.</ab> {#graTita/#} ( {#*granTita#})
-<div n="1">— 1) {%geknüpft , gebunden , verbunden , aufgereiht , gewunden , umwunden , hineingebunden , verknüpft , verbunden , besetzt — , besäet mit ; künstlich verschlungen%} (von der Fabel eines Schauspiels) , {%ineinander geschlungen und daher schwer zu scheiden.%} {#karURArTagraTitam#} <ab>Adv.</ab> so v.a. {%mit Worten kläglichen Inhalts.%}
-<div n="1">— 2) {%knotig , verhärtet , zusammengeballt.%}
-<div n="1">— 3) {%zum Stocken gebracht.%}
-<div n="1">— 4) {%*verletzt , beschädigt.%}
-<div n="1">— 5) {%*gepackt , in Besitz genommen.%}
-<div n="m">— *<ab>Caus.</ab>  {#granTayati , °tte#} ( {#granTane , saMdarBe#}).
-<div n="p">— Mit {#anu#}, {#°graTita#} {%verknotet , fest.%}
+<L>37263<pc>2-188-a<k1>graT<k2>graT<h>1
+<hom>1.</hom> √{#graT#}, √{#granT#}¦, {#graTnA/ti#}, *{#graTati#}, *{#°te#}, *{#granTati#}. {%knüpfen, winden, aneinanderreihen,%} (ein Werk, Gedicht) {%zusammenknüpfen,%} so <ab>v. a.</ab> — {%stellen verfassen%}. — {#graTyantAm#} <ls>KATHĀS. 122,71</ls> wohl fehlerhaft für {#praTyantAm#}.
+<div n="m">— <ab>Partic.</ab> {#graTita/#} (*{#granTita#})
+<div n="1">— 1〉 {%geknüpft, gebunden, verbunden, aufgereiht, gewunden, umwunden, hineingebunden, verknüpft, verbunden, besetzt —, besäet mit; künstlich verschlungen%} (von der Fabel eines Schauspiels), {%ineinander geschlungen und daher schwer zu scheiden%}. {#karURArTagraTitam#} <lex>Adv.</lex> so <ab>v. a.</ab> {%mit Worten kläglichen Inhalts%}.
+<div n="1">— 2〉 {%knotig, verhärtet, zusammengeballt%}.
+<div n="1">— 3〉 {%zum Stocken gebracht%}.
+<div n="1">— 4〉 *{%verletzt, beschädigt%}.
+<div n="1">— 5〉 *{%gepackt, in Besitz genommen%}.
+<div n="m">— *<ab>Caus.</ab> {#granTayati, °tte#} ({#granTane, saMdarBe#}).
+<div n="p">— Mit {#anu#}, {#°graTita#} {%verknotet, fest%}.
 <div n="p">— Mit {#A#} {%umschlingen%} in {#punarAgranTam#}.
 <div n="p">— Mit {#ud#}
-<div n="1">— 1) {%aufbinden , so v.a. in Bündel bringen , in die Höhe binden.%}
-<div n="1">— 2) {%knüpfen , winden.%}
-<div n="1">— 3) {%aufknüpfen , lösen.%}
-<div n="m">— <ab>Caus.</ab> {#udgraTayati#} {%aufknüpfen , lösen.%}
-<div n="p">— Mit {#samud#} {%in die Höhe binden.%}
-<div n="p">— Mit {#upa#} {%umschlingen.%}
+<div n="1">— 1〉 {%aufbinden,%} so <ab>v. a.</ab> {%in Bündel bringen, in die Höhe binden%}.
+<div n="1">— 2〉 {%knüpfen, winden%}.
+<div n="1">— 3〉 {%aufknüpfen, lösen%}.
+<div n="m">— <ab>Caus.</ab> {#udgraTayati#} {%aufknüpfen, lösen%}.
+<div n="p">— Mit {#samud#} {%in die Höhe binden%}.
+<div n="p">— Mit {#upa#} {%umschlingen%}.
 <div n="p">— Mit {#ni#} {%einschlingen%} in {#punarnigranTam#}
-<div n="p">— Mit {#pra#} {%verknüpfen — , verbinden mit%} <ab>Comm.</ab> zu <ls>NYĀYAM.9,2,8.</ls>
-<div n="p">— Mit {#vi#} {%verbinden , zusammenbinden , umbinden.%} — {#vi/graTita#}
-<div n="1">— 1) {%verbunden.%}
-<div n="1">— 2) {%knotig , knollig , geballt%} <ls>CARAKA.8,1.</ls>
-<div n="1">— 3) {%unterbunden , so v.a. gehemmt.%}
-<div n="p">— Mit {#sam#}, {#sa/MgraTita#} {%verknotet , zusammengebunden.%}
+<div n="p">— Mit {#pra#} {%verknüpfen —, verbinden mit%} <ls>Comm. zu NYĀYAM. 9,2,8</ls>.
+<div n="p">— Mit {#vi#} {%verbinden, zusammenbinden, umbinden%}. — {#vi/graTita#}
+<div n="1">— 1〉 {%verbunden%}.
+<div n="1">— 2〉 {%knotig, knollig, geballt%} <ls>CARAKA. 8,1</ls>.
+<div n="1">— 3〉 {%unterbunden,%} so <ab>v. a.</ab> {%gehemmt%}.
+<div n="p">— Mit {#sam#}, {#sa/MgraTita#} {%verknotet, zusammengebunden%}.
 <LEND>

@@ -1,7 +1,7 @@
 <L>22860<pc>721<k1>triangle<k2>triangle
-<div n="lb"/>{@TRIANGLE:@}¦ <div n="1">(1) {#triBujam,#} <div n="xe">{%right-angled t.:%}</div> <div n="xs">{#kowimat#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#fjuBujaM triBujam,#}</div> Li. 125. ({#samakoRatriBujam#}),
-<div n="lb"/>K. d.; <div n="xe">{%acute-a. t.:%}</div> <div n="xs">{#antarlambaM triBujam;#}</div> <div n="xe">{%obtuse-a.%}
-<div n="lb"/>{%t.:%}</div> <div n="xs">{#bahirlambaM triBujam;#}</div> <div n="xe">{%base of a t.:%}</div> <div n="xs">{#BuH, BUmiH, #}
-<div n="lb"/>{# kzmA,#}</div> etc.; </div><div n="1">(2) {#tryasram;#} </div><div n="1">(3) {#tribAhukam.#}</div>
+{@TRIANGLE:@}¦ <div n="1">(1) {#triBujam,#} <div n="xe">{%right-angled t.:%}</div> <div n="xs">{#kowimat#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#fjuBujaM triBujam,#}</div> Li. 125. ({#samakoRatriBujam#}),
+K. d.; <div n="xe">{%acute-a. t.:%}</div> <div n="xs">{#antarlambaM triBujam;#}</div> <div n="xe">{%obtuse-a.%}
+{%t.:%}</div> <div n="xs">{#bahirlambaM triBujam;#}</div> <div n="xe">{%base of a t.:%}</div> <div n="xs">{#BuH, BUmiH, #}
+{# kzmA,#}</div> etc.; </div><div n="1">(2) {#tryasram;#} </div><div n="1">(3) {#tribAhukam.#}</div>
 <LEND>

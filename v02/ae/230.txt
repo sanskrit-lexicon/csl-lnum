@@ -1,21 +1,21 @@
 <L>230<pc>010<k1>air<k2>air
 {@Air,@}¦ {%s.%} {#vyoman#} {%n.,%} {#AkASaH SaM, naBas#} {%n.,%} {#vihA-#}
-<div n="lb"/>{#-yas#} {%n.;%} ‘to take the a.’ {#vAtamAsev#} 1 A;
-<div n="lb"/>‘take a.’ {#prakASatAM gam#} 1 P. {@2@} {#vAyuH, vAtaH,#}
-<div n="lb"/>{#samIraRaH#}. {@3@} {#tAlaH, rAgaH, mUrCanA#}. {@4@} {#rUpaM, A-#}
-<div n="lb"/>{#-kAraH, mudrA;#} ‘with a dignified a.’ {#sagOra-#}
-<div n="lb"/>{#-vAkAreRa;#} ‘a. of conceit’ {#avalepamudrA;#}
-<div n="lb"/>‘with the a. of one who is offended’
-<div n="lb"/>{#nikftamivAtmAnaM saMdarSya#}. {@5@} {#gati#} {%f.,%} {#viDi#} {%m.,%}
-<div n="lb"/>{#prakAraH, rUpaM;#} ‘through a.’ {#vihAyasA,#}
-<div n="lb"/>{#naBovartmanA;#} ‘to build castles in the a.’
-<div n="lb"/>{#gaganakusumAni ci#} 5 U; ‘a. balloon’ {#AkA-#}
-<div n="lb"/>{#-SayAnaM, vyomayAnaM;#} ‘a. bladder’ {#vAyukozaH;#}
-<div n="lb"/>‘a. hole’ {#vAtAyanaM, gavAkzaH, jAlaM;#} ‘a.
-<div n="lb"/>born,’ ‘aerial,’ {#AkASaja; AkASasTa,#}
-<div n="lb"/>{#naBaHsTa#}. {@-y,@} {%a.%} {#vAyava#} ({#GI#} {%f.%}), {#vAyumaya#}
-<div n="lb"/>({#yI#} {%f.%}). {@2@} {#suvAta, pravAta;#} ‘a. place’
-<div n="lb"/>{#pravAtaM; pravAtaSayanaM#} ‘a bed in a. place (in
-<div n="lb"/>the current of wind)’. {@3@} {#asAra, Palgu,#}
-<div n="lb"/>{#Kapuzpavat#} {%ind.%} {@-Aeronaut,@} {%s.%} {#vEmAnikaH#}.
+{#-yas#} {%n.;%} ‘to take the a.’ {#vAtamAsev#} 1 A;
+‘take a.’ {#prakASatAM gam#} 1 P. {@2@} {#vAyuH, vAtaH,#}
+{#samIraRaH#}. {@3@} {#tAlaH, rAgaH, mUrCanA#}. {@4@} {#rUpaM, A-#}
+{#-kAraH, mudrA;#} ‘with a dignified a.’ {#sagOra-#}
+{#-vAkAreRa;#} ‘a. of conceit’ {#avalepamudrA;#}
+‘with the a. of one who is offended’
+{#nikftamivAtmAnaM saMdarSya#}. {@5@} {#gati#} {%f.,%} {#viDi#} {%m.,%}
+{#prakAraH, rUpaM;#} ‘through a.’ {#vihAyasA,#}
+{#naBovartmanA;#} ‘to build castles in the a.’
+{#gaganakusumAni ci#} 5 U; ‘a. balloon’ {#AkA-#}
+{#-SayAnaM, vyomayAnaM;#} ‘a. bladder’ {#vAyukozaH;#}
+‘a. hole’ {#vAtAyanaM, gavAkzaH, jAlaM;#} ‘a.
+born,’ ‘aerial,’ {#AkASaja; AkASasTa,#}
+{#naBaHsTa#}. {@-y,@} {%a.%} {#vAyava#} ({#GI#} {%f.%}), {#vAyumaya#}
+({#yI#} {%f.%}). {@2@} {#suvAta, pravAta;#} ‘a. place’
+{#pravAtaM; pravAtaSayanaM#} ‘a bed in a. place (in
+the current of wind)’. {@3@} {#asAra, Palgu,#}
+{#Kapuzpavat#} {%ind.%} {@-Aeronaut,@} {%s.%} {#vEmAnikaH#}.
 <LEND>

@@ -1,7 +1,7 @@
 <L>5432<pc>119-a<k1>concord<k2>concord
-<div n="lb"/>CONCORD¦, {%s.%} (Agreement of opinion, union) {#sammatiH#} {%f.,%} {#ekacittatA,#}
-<div n="lb"/>{#cittEkyaM, EkyaM, ekatA, parasparAnumatiH#} {%f.,%} {#saMvAdaH, dAkziRyaM, saMyogaH,#}
-<div n="lb"/>{#sanDiH#} {%m.,%} {#saNgaH#}. — (Love) {#prItiH#} {%f.,%} {#praRayaH#}. — (Compact) {#samayaH,#}
-<div n="lb"/>{#saMvid#} {%f.,%} {#niyamaH#}. — (Grammatical relation) {#anuzaYjanaM, anuzaNgaH,#}
-<div n="lb"/>{#SabdAnAM parasparasaMyogaH, anvayaH#}. — (Harmony) {#tAlEkyaM, svarEkyaM#}.
+CONCORD¦, {%s.%} (Agreement of opinion, union) {#sammatiH#} {%f.,%} {#ekacittatA,#}
+{#cittEkyaM, EkyaM, ekatA, parasparAnumatiH#} {%f.,%} {#saMvAdaH, dAkziRyaM, saMyogaH,#}
+{#sanDiH#} {%m.,%} {#saNgaH#}. — (Love) {#prItiH#} {%f.,%} {#praRayaH#}. — (Compact) {#samayaH,#}
+{#saMvid#} {%f.,%} {#niyamaH#}. — (Grammatical relation) {#anuzaYjanaM, anuzaNgaH,#}
+{#SabdAnAM parasparasaMyogaH, anvayaH#}. — (Harmony) {#tAlEkyaM, svarEkyaM#}.
 <LEND>

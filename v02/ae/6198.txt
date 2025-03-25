@@ -1,7 +1,7 @@
 <L>6198<pc>259<k1>lieu<k2>lieu
 {@Lieu,@}¦ {%s.%} {#sTAnaM, BUmi#} {%f.;%} ‘in l. of’ {#sTAne,#}
-<div n="lb"/>{#vinimayena;#} {%See%} {@Instead@} (of).
-<div n="lb"/>{@-Lieutenant,@} {%s.%} {#patiniDiH, pratipuruzaH,#}
-<div n="lb"/>(lit.) {#senApatipratiniDiH;#} ‘l. governor’
-<div n="lb"/>{#pratiSAsakaH;#} ‘lord l’ {#rAjapratiniDiH#}.
+{#vinimayena;#} {%See%} {@Instead@} (of).
+{@-Lieutenant,@} {%s.%} {#patiniDiH, pratipuruzaH,#}
+(lit.) {#senApatipratiniDiH;#} ‘l. governor’
+{#pratiSAsakaH;#} ‘lord l’ {#rAjapratiniDiH#}.
 <LEND>

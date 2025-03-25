@@ -1,15 +1,15 @@
 <L>8617<pc>377<k1>rare<k2>rare
 {@Rare,@}¦ {%a.%} {#virala, durlaBa, duzprApa, aprApya, a-#}
-<div n="lb"/>{#-sulaBa;#} ‘of r. occurrence’ {#virala, virala-#}
-<div n="lb"/>{#-dfzwa#}. {@2@} {#apUrva, adfzwapUrva, parama, atyuttama, a-#}
-<div n="lb"/>{#-tulya, atyutkfzwa#}. {@3@} {#virala, sUkzma, aGana#}. {@-ly,@}
-<div n="lb"/>{%adv.%} {#viralaM, kvacit, kfcCreRa, kaTamapi, kazwena,#}
-<div n="lb"/>{#dur#} pr.; oft. ex. by ({%a%}); ‘r. to be
-<div n="lb"/>found’ {#duzprApa, durlaBa;#} ‘r. to be seen’
-<div n="lb"/>{#durlaBadarSana#}. {@-ness,@} {%s.%} {#viralatA, duzprApatA,#}
-<div n="lb"/>{#durlaBatvaM#}. {@2@} {#apUrvatA, atyuttamatA#}. {@3@} {#sUkzmatA#}.
-<div n="lb"/>{@-Rarity,@} {%s.%} {#apUrvaM vastu, camatkAraH, kOtukaM,#}
-<div n="lb"/>{#durlaBavastu#}. {@2 Rareuess,@} q. v. {@-Rarefy,@}
-<div n="lb"/>{%v. i.%} {#sUkzmI-tanU-viralI-BU#} 1 P. {%-v. t.%} {#tanUkf#}
-<div n="lb"/>8 U, {#viralIkf#}.
+{#-sulaBa;#} ‘of r. occurrence’ {#virala, virala-#}
+{#-dfzwa#}. {@2@} {#apUrva, adfzwapUrva, parama, atyuttama, a-#}
+{#-tulya, atyutkfzwa#}. {@3@} {#virala, sUkzma, aGana#}. {@-ly,@}
+{%adv.%} {#viralaM, kvacit, kfcCreRa, kaTamapi, kazwena,#}
+{#dur#} pr.; oft. ex. by ({%a%}); ‘r. to be
+found’ {#duzprApa, durlaBa;#} ‘r. to be seen’
+{#durlaBadarSana#}. {@-ness,@} {%s.%} {#viralatA, duzprApatA,#}
+{#durlaBatvaM#}. {@2@} {#apUrvatA, atyuttamatA#}. {@3@} {#sUkzmatA#}.
+{@-Rarity,@} {%s.%} {#apUrvaM vastu, camatkAraH, kOtukaM,#}
+{#durlaBavastu#}. {@2 Rareuess,@} q. v. {@-Rarefy,@}
+{%v. i.%} {#sUkzmI-tanU-viralI-BU#} 1 P. {%-v. t.%} {#tanUkf#}
+8 U, {#viralIkf#}.
 <LEND>

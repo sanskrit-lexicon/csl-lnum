@@ -1,11 +1,10 @@
 <L>84038<pc>6-0316<k1>rAjatva<k2>rAjatva
-{#rAjatva#}¦ <lex>n.</lex> = {#rAjatA#} 
-<ls>HARIV. 7316.</ls> 
-<ls>R. 2, 72, 51.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 1, 38.</ls> 
-<ls>KATHĀS. 20, 191. 22, 211. 30, 62. 52, 372.</ls> 
-<ls>RĀJA-TAR. 4, 177.</ls> {#vidyADara°#} 
-<ls>KATHĀS. 26, 242.</ls> {#sarvastavAnAm#} 
-<ls>MBH. 13, 1134.</ls>
+{#rAjatva#}¦ <lex>n.</lex> = {#rAjatA#}
+<ls>HARIV. 7316.</ls>
+<ls>R. 2,72,51.</ls>
+<ls>R. GORR. 1,1,38.</ls>
+<ls>KATHĀS. 20,191.</ls> <ls n="KATHĀS.">22,211.</ls> <ls n="KATHĀS.">30,62.</ls> <ls n="KATHĀS.">52,372.</ls>
+<ls>RĀJA-TAR. 4,177.</ls> {#vidyADara°#}
+<ls>KATHĀS. 26,242.</ls> {#sarvastavAnAm#}
+<ls>MBH. 13,1134.</ls>
 <LEND>

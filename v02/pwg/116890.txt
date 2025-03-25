@@ -1,38 +1,38 @@
 <L>116890<pc>7-1611<k1>hiMsa<k2>hi/Msa
-{#hi/Msa#}¦ (von 1. {#hiMs#}) 
-<div n="1"> 1) <lex>adj.</lex> {%verletzend, schädigend%}: {#A\re hiMsA^nA\mapa^ di\dyumA kfDi#} 
-<ls>ṚV. 10, 142, 1.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#A#} 
-<div n="2"> a) {%Leidzufügung am Leibe%} oder {%Gute, Schädigung%} 
-<ls>AK. 3, 4, 18, 113. 30, 231.</ls> 
-<ls>H. 371. 830.</ls> 
-<ls>an. 2, 596.</ls> 
-<ls>MED. s. 13.</ls> <ls>HALĀY. 2, 323. 5, 24.</ls> im Gegensatz zu {#vidyA#} 
-<ls>NIR. 14, 8. 9.</ls> — 
-<ls>MAITRYUP. 3, 5.</ls> {#akftvA prARinAM hiMsAm#} 
-<ls>M. 4, 48.</ls> {#samA-car#} 
-<ls>5, 43. fg. 8, 285. 293. 297.</ls> {#°prAyA kfziH#} 
-<ls>?10, 63. 83. 11, 63. 141. 145. 12, 7. YĀJÑ. 3, 240. BHAG. 18, 25. KAṆ. 6, 1, 7. NĪLAK. 23 (pl.). R. 3, 1, 22.</ls> {#°vihAra#} 
-<ls>51, 20.</ls> <ls>SUŚR. 1, 71, 1.</ls> {#°SIla#} 
-<ls>323, 8.</ls> {#°rucitva#} 
-<ls>R. 5, 29, 25.</ls> {#°rata#} 
-<ls>Spr. (II) 225. 5437. v. l. 6943</ls> <ls>?(= MBH. 13,1664). 7391. RĀJA-TAR.2,53.3,27. Verz. d. Oxf. H. 80,b,6. fgg. 103,b,16. BHĀG. P.2,6,8.3,29,8.5,9,18. PAÑCAT. 60,6. SARVADARŚANAS. 43,10. 115,14.</ls> {#hiMsopakArin#} 
-<ls>HEM.</ls> 
-<ls>YOGAŚ. 3, 72.</ls> {#loka°#} 
-<ls>R. 3, 28, 19.</ls> {#BUta°#} 
-<ls>Verz. d. Oxf. H. 103,b,16.</ls> {#paSu°#} 
-<ls>17.</ls> <ls>BHĀG. P. 7, 15, 7.</ls> {#prARi°#} 
-<ls>RĀJA-TAR. 1, 325. 3, 79.</ls> {#sattvahiMsA#} (so mit der ed. Calc. zu lesen) 
-<ls>1, 133.</ls> {#ari°#} {%vom Feinde kommend%} 
-<ls>RAGH. 5, 57.</ls> {#a°#} 
-<ls>M. 5, 44. 10, 63. 11, 222.</ls> 
-<ls>YĀJÑ. 3, 313.</ls> 
-<ls>MBH. 3, 13835.</ls> {#°ruci#} 
-<ls>R.5,30,3.</ls> <ls>Spr. (II) 819. fgg. 1426. 6638. 6715.</ls> <ls>Verz. d. Oxf. H. 80,b,9. 12. 103,b,16.</ls> Personificirt
+{#hi/Msa#}¦ (von 1. {#hiMs#})
+<div n="1"> 1) <lex>adj.</lex> {%verletzend, schädigend%}: {#A\re hiMsA^nA\mapa^ di\dyumA kfDi#}
+<ls>ṚV. 10,142,1.</ls>
+<div n="1">— 2) <lex>f.</lex> {#A#}
+<div n="2"> a) {%Leidzufügung am Leibe%} oder {%Gute, Schädigung%}
+<ls>AK. 3,4,18,113</ls> <ls n="AK. 3,4,">30,231</ls>
+<ls>H. 371.</ls> <ls n="H.">830.</ls>
+<ls>an. 2,596.</ls>
+<ls>MED. s. 13.</ls> <ls>HALĀY. 2,323. 5,24.</ls> im Gegensatz zu {#vidyA#}
+<ls>NIR. 14,8. 9.</ls> —
+<ls>MAITRYUP. 3,5.</ls> {#akftvA prARinAM hiMsAm#}
+<ls>M. 4,48.</ls> {#samA-car#}
+<ls n="M.">5,43. fg.</ls> <ls n="M.">8,285.</ls> <ls n="M. 8,">293.</ls> <ls n="M. 8,">297.</ls> {#°prAyA kfziH#}
+<ls n="M.">10,63.</ls> <ls n="M. 10,">83.</ls> <ls n="M.">11,63.</ls> <ls n="M. 11,">141.</ls> <ls n="M. 11,">145.</ls> <ls n="M.">12,7.</ls> <ls>YĀJÑ. 3,240.</ls> <ls>BHAG. 18,25.</ls> <ls>KAṆ. 6,1,7.</ls> <ls>NĪLAK. 23</ls> (pl.). <ls>R. 3,1,22.</ls> {#°vihAra#}
+<ls n="R. 3,">51,20.</ls> <ls>SUŚR. 1,71,1.</ls> {#°SIla#}
+<ls n="SUŚR.">323,8.</ls> {#°rucitva#}
+<ls>R. 5,29,25.</ls> {#°rata#}
+<ls>Spr. (II) 225.</ls> <ls n="Spr. (II)">5437. v. l.</ls> <ls n="Spr. (II)">6943</ls> (= <ls>MBH. 13,1664</ls>). <ls n="Spr. (II)">7391.</ls> <ls>RĀJA-TAR. 2,53. 3,27.</ls> <ls>Verz. d. Oxf. H. 80,b,6. fgg. 103,b,16.</ls> <ls>BHĀG. P. 2,6,8.</ls> <ls n="BHĀG. P.">3,29,8.</ls> <ls n="BHĀG. P.">5,9,18.</ls> <ls>PAÑCAT. 60,6.</ls> <ls>SARVADARŚANAS. 43,10. 115,14.</ls> {#hiMsopakArin#}
+<ls>HEM.</ls>
+<ls>YOGAŚ. 3,72.</ls> {#loka°#}
+<ls>R. 3,28,19.</ls> {#BUta°#}
+<ls>Verz. d. Oxf. H. 103,b,16.</ls> {#paSu°#}
+<ls n="Verz. d. Oxf. H. 103,b,">17.</ls> <ls>BHĀG. P. 7,15,7.</ls> {#prARi°#}
+<ls>RĀJA-TAR. 1,325. 3,79.</ls> {#sattvahiMsA#} (so mit der <ls>ed. Calc.</ls> zu lesen)
+<ls n="RĀJA-TAR.">1,133.</ls> {#ari°#} {%vom Feinde kommend%}
+<ls>RAGH. 5,57.</ls> {#a°#}
+<ls>M. 5,44.</ls> <ls n="M.">10,63.</ls> <ls n="M.">11,222.</ls>
+<ls>YĀJÑ. 3,313.</ls>
+<ls>MBH. 3,13835.</ls> {#°ruci#}
+<ls>R. 5,30,3.</ls> <ls>Spr. (II) 819. fgg.</ls> <ls n="Spr. (II)">1426.</ls> <ls n="Spr. (II)">6638.</ls> <ls n="Spr. (II)">6715.</ls> <ls>Verz. d. Oxf. H. 80,b,9. 12. 103,b,16.</ls> Personificirt
 [Page7-1612]
-ist die <is>Hiṃsā</is> die Gattin <is>Adharma's</is> 
-<ls>MĀRK. P. 50, 29.</ls> eine Tochter <is>Lobha's</is> von der <is>Niṣkṛti</is> 
-<ls>BHĀG. P. 4, 8, 3.</ls> 
-<div n="2">— b) {%Asteracantha longifolia%} 
+ist die <is>Hiṃsā</is> die Gattin <is>Adharma's</is>
+<ls>MĀRK. P. 50,29.</ls> eine Tochter <is>Lobha's</is> von der <is>Niṣkṛti</is>
+<ls>BHĀG. P. 4,8,3.</ls>
+<div n="2">— b) {%Asteracantha longifolia%}
 <ls>RATNAM. 54</ls> wohl fehlerhaft für {#hiMsrA#} .
 <LEND>

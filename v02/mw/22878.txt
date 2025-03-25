@@ -1,3 +1,3 @@
-<L>22878<pc>131,2<k1>AcAnta<k2>A-cAnta<h>a<e>2
-<s>A-cAnta</s> <hom>a</hom> ¦ <lex>mfn.</lex> one who has sipped water, <ls>ĀśvGṛ.</ls>; <ls>Gobh.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls><info lex="m:f:n"/>
+<L>22878<pc>131,2<k1>AcAnta<k2>A-cAnta<e>2
+<s>A-cAnta</s> ¦ <lex>mfn.</lex> one who has sipped water, <ls>ĀśvGṛ.</ls>; <ls>Gobh.</ls>; <ls>Mn.</ls>; <ls>Yājñ.</ls><info lex="m:f:n"/><info hui="a"/>
 <LEND>

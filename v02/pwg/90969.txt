@@ -1,74 +1,72 @@
 <L>90969<pc>6-0997<k1>viklava<k2>viklava
-{#viklava#}¦ 
-<div n="1"> 1) <lex>adj.</lex> (f. {#A#}) = {#vihvala#} 
-<ls>AK. 3, 1, 44.</ls> 
-<ls>H. 448.</ls> 
-<ls>HALĀY. 2, 231.</ls> {%benommen, befangen, seiner nicht ganz mächtig, kleinmüthig, verwirrt%} 
-<ls>MBH. 3, 12993.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 39, 35.</ls> 
-<ls>Spr. 2786. fg. 4671.</ls> 
-<ls>MEGH. 38.</ls> 
-<ls>ŚĀK. 82, 20. 95, 15.</ls> 
-<ls>KATHĀS. 114, 120.</ls> 
-<ls>BHĀG. P. 4, 28, 47.</ls> {#prakfti°#} {%schüchtern%} 
-<ls>5, 8, 2. 6, 9, 29.</ls> {#ati°#} 
-<ls>HARIV. 7101.</ls> 
-<ls>PRAB. 91, 5.</ls> {#su°#} 
-<ls>MBH. 13, 6905.</ls> {#a°#} 
-<ls>1, 2070.</ls> <ls>Spr. 2787.</ls> <ls>BHĀG. P. 2, 9, 29. 8, 12, 37. 24, 35.</ls> {#mada°#} 
-<ls>R. 4, 9, 70.</ls> {#Baya°#} 
-<ls>MṚCCH. 11, 2.</ls> 
-<ls>PAÑCAT. 106, 2.</ls> {#GanaSabda°#} so v. a. {%erschrocken%} 
-<ls>RAGH. 19, 38.</ls> 
-<ls>KUMĀRAS. 4, 11.</ls> {#Soka°#} 
-<ls>KATHĀS. 76, 13.</ls> {#sneha°#} 
-<ls>MBH. 3, 14362.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 51, 2.</ls> 
-<ls>KUMĀRAS. 6, 92.</ls> {#pratyAKyAna°#} 
-<ls>ŚĀK. 111, 3, v. l.</ls> {#sahAnena viyogaviklavA#} 
-<ls>ŚIŚ. 12, 63.</ls> 
-<ls>DAŚAK. 93, 10.</ls> {#vAkya°#} 
-<ls>R. 2, 59, 2.</ls> {#bAzpa°#} 
-<ls>R. GORR. 2, 52, 14.</ls> <ls>BHĀG. P. 4, 20, 21.</ls> {#dUrADvaklama°#} so v. a. {%erschöpft%} 
-<ls>KATHĀS. 72, 181.</ls> vom Herzen, Gemüthe 
-u.s.w. : {#antarAtman#} 
-<ls>MBH. 9, 1670.</ls> {#Atman#} 
-<ls>BHĀG. P. 3, 4, 34.</ls> {#viklavAM budDiM kftvA#} 
-<ls>R. 5, 71, 5. 7, 68, 19.</ls> {#snehaviklavayA budDyA#} 
-<ls>5, 36, 7.</ls> {#hfdaya#} 
-<ls>BHĀG. P. 3, 23, 49.</ls> {#durnayavyaktiviklavaM hfdayam#} 
-<ls>KATHĀS.21, 94.</ls>
+{#viklava#}¦
+<div n="1"> 1) <lex>adj.</lex> (f. {#A#}) = {#vihvala#}
+<ls>AK. 3,1,44.</ls>
+<ls>H. 448.</ls>
+<ls>HALĀY. 2,231.</ls> {%benommen, befangen, seiner nicht ganz mächtig, kleinmüthig, verwirrt%}
+<ls>MBH. 3,12993.</ls>
+<ls>R. GORR. 2,39,35.</ls>
+<ls>Spr. 2786. fg.</ls> <ls n="Spr.">4671.</ls>
+<ls>MEGH. 38.</ls>
+<ls>ŚĀK. 82,20.</ls> <ls n="ŚĀK.">95,15.</ls>
+<ls>KATHĀS. 114,120.</ls>
+<ls>BHĀG. P. 4,28,47.</ls> {#prakfti°#} {%schüchtern%}
+<ls n="BHĀG. P.">5,8,2.</ls> <ls n="BHĀG. P.">6,9,29.</ls> {#ati°#}
+<ls>HARIV. 7101.</ls>
+<ls>PRAB. 91,5.</ls> {#su°#}
+<ls>MBH. 13,6905.</ls> {#a°#}
+<ls n="MBH.">1,2070.</ls> <ls>Spr. 2787.</ls> <ls>BHĀG. P. 2,9,29.</ls> <ls n="BHĀG. P.">8,12,37.</ls> <ls n="BHĀG. P. 8,">24,35.</ls> {#mada°#}
+<ls>R. 4,9,70.</ls> {#Baya°#}
+<ls>MṚCCH. 11,2.</ls>
+<ls>PAÑCAT. 106,2.</ls> {#GanaSabda°#} so v. a. {%erschrocken%}
+<ls>RAGH. 19,38.</ls>
+<ls>KUMĀRAS. 4,11.</ls> {#Soka°#}
+<ls>KATHĀS. 76,13.</ls> {#sneha°#}
+<ls>MBH. 3,14362.</ls>
+<ls>R. GORR. 2,51,2.</ls>
+<ls>KUMĀRAS. 6,92.</ls> {#pratyAKyAna°#}
+<ls>ŚĀK. 111,3, v. l.</ls> {#sahAnena viyogaviklavA#}
+<ls>ŚIŚ. 12,63.</ls>
+<ls>DAŚAK. 93,10.</ls> {#vAkya°#}
+<ls>R. 2,59,2.</ls> {#bAzpa°#}
+<ls>R. GORR. 2,52,14.</ls> <ls>BHĀG. P. 4,20,21.</ls> {#dUrADvaklama°#} so v. a. {%erschöpft%}
+<ls>KATHĀS. 72,181.</ls> vom Herzen, Gemüthe
+u.s.w. : {#antarAtman#}
+<ls>MBH. 9,1670.</ls> {#Atman#}
+<ls>BHĀG. P. 3,4,34.</ls> {#viklavAM budDiM kftvA#}
+<ls>R. 5,71,5.</ls> <ls n="R.">7,68,19.</ls> {#snehaviklavayA budDyA#}
+<ls n="R.">5,36,7.</ls> {#hfdaya#}
+<ls>BHĀG. P. 3,23,49.</ls> {#durnayavyaktiviklavaM hfdayam#}
+<ls>KATHĀS. 21,94.</ls>
 [Page6-0998]
-{#vAcyavivekaviklavaDiyAm#} 
-<ls>Verz. d. Oxf. H. 120,a,33.</ls> {#aviklavayA DiyA#} 
-<ls>BHĀG. P. 8, 22, 22.</ls> {#aviklavamanas#} 
-<ls>23.</ls> {#mfgayAviklavaM cetaH#} so v. a. {%unschlüssig%} 
-<ls>ŚĀK. 22, 5.</ls> von Theilen und Functionen des Körpers, die eine gemüthliche Erregung u. s. w. verrathen: {%verstört, entstellt, unsicher%} u. s. w.: {#viklavAnana#} 
-<ls>R. 1, 8, 20.</ls> 
-<ls>ŚĀK. 73.</ls> {#dInaviklavadarSana#} 
-<ls>R. 2, 65, 28.</ls> {#dfzwipAtAH#} 
-<ls>RĀJA-TAR. 3, 38.</ls> {#aNgErutkampaviklavEH#} 
-<ls>KATHĀS. 3, 65</ls> (vgl. {#utkampaviklavA#} 
-<ls>33, 172</ls>). {#yAvatsvasTo 'sti me deho yAvannendriyaviklavaH#} so v. a. {%so lange meine Sinne gesund sind%} 
-<ls>KĀŚĪKH. 7, 38</ls> <ls>?(nach AUFRECHT).</ls> {#aviklavA gatiH#} 
-<ls>R. 6, 23, 16.</ls> {#prasTAnaviklavagati#} 
-<ls>ŚĀK. 100.</ls> {#snehaviklavagadradAH#} 
-<ls>HARIV. 10295.</ls> {#vAkyaM madaviklavam#} 
-<ls>5420.</ls> {#BayaviklavayA vAcA#} 
-<ls>R. 2, 34, 5. 6, 9, 4.</ls> 
-<ls>BHĀG. P. 3, 31, 11.</ls> {#bAzpaviklavaM vacaH#} 
-<ls>R. 4, 6, 2.</ls> {#aviklavaM vacaH#} 
-<ls>2, 21, 50. 52, 36.</ls> <ls>BHĀG. P. 3, 33, 9. 4, 21, 19. 8, 22, 1. 10, 68, 20.</ls> {#bAzpaviklavaBAziRI#} 
-<ls>R. GORR. 2, 57, 30.</ls> <ls>KATHĀS. 53, 142.</ls> <ls>MĀRK. P. 21, 66.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%Befangenheit, Kleinmuth, Verwirrung%}: {#kimidAnImidaM devi karozi hfdi viklavam#} 
-<ls>R. 2, 44, 22.</ls> {#Agata°#} <lex>adj.</lex> 
-<ls>R. GORR. 2, 123, 7.</ls> {#gata°#} <lex>adj.</lex> 
-<ls>7, 32, 45.</ls> {#vigata°#} <lex>adj.</lex> 
-<ls>BHĀG. P. 3, 31, 21. 7, 9, 12.</ls> {#ajAta°#} <lex>adj.</lex> 
-<ls>6, 12, 3.</ls> {#saviklavam#} adv. 
-<ls>MĀLAV. 67, 15.</ls> — {#viklava#} fehlerhaft für {#viplava#} (wie die neuere Ausg. liest) 
-<ls>HARIV. 2885.</ls> 
+{#vAcyavivekaviklavaDiyAm#}
+<ls>Verz. d. Oxf. H. 120,a,33.</ls> {#aviklavayA DiyA#}
+<ls>BHĀG. P. 8,22,22.</ls> {#aviklavamanas#}
+<ls n="BHĀG. P. 8,22,">23.</ls> {#mfgayAviklavaM cetaH#} so v. a. {%unschlüssig%}
+<ls>ŚĀK. 22,5.</ls> von Theilen und Functionen des Körpers, die eine gemüthliche Erregung u. s. w. verrathen: {%verstört, entstellt, unsicher%} u. s. w.: {#viklavAnana#}
+<ls>R. 1,8,20.</ls>
+<ls>ŚĀK. 73.</ls> {#dInaviklavadarSana#}
+<ls>R. 2,65,28.</ls> {#dfzwipAtAH#}
+<ls>RĀJA-TAR. 3,38.</ls> {#aNgErutkampaviklavEH#}
+<ls>KATHĀS. 3,65</ls> (vgl. {#utkampaviklavA#}
+<ls n="KATHĀS.">33,172</ls>). {#yAvatsvasTo 'sti me deho yAvannendriyaviklavaH#} so v. a. {%so lange meine Sinne gesund sind%}
+<ls>KĀŚĪKH. 7,38</ls> (nach <ls>AUFRECHT</ls>). {#aviklavA gatiH#}
+<ls>R. 6,23,16.</ls> {#prasTAnaviklavagati#}
+<ls>ŚĀK. 100.</ls> {#snehaviklavagadradAH#}
+<ls>HARIV. 10295.</ls> {#vAkyaM madaviklavam#}
+<ls n="HARIV.">5420.</ls> {#BayaviklavayA vAcA#}
+<ls>R. 2,34,5.</ls> <ls n="R.">6,9,4.</ls>
+<ls>BHĀG. P. 3,31,11.</ls> {#bAzpaviklavaM vacaH#}
+<ls>R. 4,6,2.</ls> {#aviklavaM vacaH#}
+<ls n="R.">2,21,50.</ls> <ls n="R. 2,">52,36.</ls> <ls>BHĀG. P. 3,33,9.</ls> <ls n="BHĀG. P.">4,21,19.</ls> <ls n="BHĀG. P.">8,22,1.</ls> <ls n="BHĀG. P.">10,68,20.</ls> {#bAzpaviklavaBAziRI#}
+<ls>R. GORR. 2,57,30.</ls> <ls>KATHĀS. 53,142.</ls> <ls>MĀRK. P. 21,66.</ls>
+<div n="1">— 2) <lex>n.</lex> {%Befangenheit, Kleinmuth, Verwirrung%}: {#kimidAnImidaM devi karozi hfdi viklavam#}
+<ls>R. 2,44,22.</ls> {#Agata°#} <lex>adj.</lex>
+<ls>R. GORR. 2,123,7.</ls> {#gata°#} <lex>adj.</lex>
+<ls n="R. GORR.">7,32,45.</ls> {#vigata°#} <lex>adj.</lex>
+<ls>BHĀG. P. 3,31,21.</ls> <ls n="BHĀG. P.">7,9,12.</ls> {#ajAta°#} <lex>adj.</lex>
+<ls n="BHĀG. P.">6,12,3.</ls> {#saviklavam#} adv.
+<ls>MĀLAV. 67,15.</ls> — {#viklava#} fehlerhaft für {#viplava#} (wie die neuere Ausg. liest)
+<ls>HARIV. 2885.</ls>
 <div n="v">— Vgl. {#vEklavya#} .
 <LEND>

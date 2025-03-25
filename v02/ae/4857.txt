@@ -1,9 +1,9 @@
 <L>4857<pc>201<k1>heir<k2>heir
 {@Heir,@}¦ {%s.%} {#dAyAdaH, rikTaharaH, aMSaharaH-hArin#} {%m.,%}
-<div n="lb"/>{#rikTaBAgin#} {%m.,%} {#rikTin#} {%m.,%} {#DanADikArin#}
-<div n="lb"/>{%m.,%} {#uttarADikArin#} {%m.,%} {#aMSaBAk, aMSin#} {%m.;%}
-<div n="lb"/>‘sole h.’ {#samagraDanaBAk;#} ‘h.-apparent’
-<div n="lb"/>{#yuvarAjaH;#} ‘h.-loom’ {#kramAyAtaM jaMgamadravyaM#}.
-<div n="lb"/>{@-less,@} {%s.%} {#DanADikAriRI,#} &c. {@-less,@} {%a.%}
-<div n="lb"/>{#dAyAdaSUnya-hIna#}. {@-ship,@} {%s.%} {#DanADikAritvaM#}.
+{#rikTaBAgin#} {%m.,%} {#rikTin#} {%m.,%} {#DanADikArin#}
+{%m.,%} {#uttarADikArin#} {%m.,%} {#aMSaBAk, aMSin#} {%m.;%}
+‘sole h.’ {#samagraDanaBAk;#} ‘h.-apparent’
+{#yuvarAjaH;#} ‘h.-loom’ {#kramAyAtaM jaMgamadravyaM#}.
+{@-less,@} {%s.%} {#DanADikAriRI,#} &c. {@-less,@} {%a.%}
+{#dAyAdaSUnya-hIna#}. {@-ship,@} {%s.%} {#DanADikAritvaM#}.
 <LEND>

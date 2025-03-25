@@ -1,3 +1,3 @@
-<L>151199<pc>758,3<k1>Betavya<k2>Betavya<h>a<e>2
-<s>Betavya</s> <hom>a</hom> ¦ <lex>mfn.</lex> to be feared or dreaded (<lex>n.</lex> often <ab>impers.</ab>, <ab>esp.</ab> <s>na Betavyam</s>, with <ab>abl.</ab> or <ab>gen.</ab>, ‘one need not be afraid of’), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="m:f:n"/>
+<L>151199<pc>758,3<k1>Betavya<k2>Betavya<e>2
+<s>Betavya</s> ¦ <lex>mfn.</lex> to be feared or dreaded (<lex>n.</lex> often <ab>impers.</ab>, <ab>esp.</ab> <s>na Betavyam</s>, with <ab>abl.</ab> or <ab>gen.</ab>, ‘one need not be afraid of’), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="m:f:n"/><info hui="a"/>
 <LEND>

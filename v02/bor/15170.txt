@@ -1,8 +1,8 @@
 <L>15170<pc>464<k1>mutilate<k2>mutilate
-<div n="lb"/>{@MUTILATE:@}¦ <div n="I">I Lit.: {#vyaNgIkaroti,#} <div n="xe">{%why you m.d%}
-<div n="lb"/>{%your wife:%}</div> <div n="xs">{#kimarTaM tvayA BAryA vyaNgitA,#}</div> P. i. 4.</div>
-<div n="lb"/><div n="I">II Fig.: Perh. {#vikalIkaroti,#} {%“m.d poets”:%}
-<div n="lb"/>{#vikalIkftakavayaH;#} <div n="xe">{%the Vyaktiviveka and Ālochana%}
-<div n="lb"/>{%are here only in a m.d form:%}</div> <div n="xs">{#vyaktivivekAlocana-#}
-<div n="lb"/>{#granTAvatra KaRqitAveva staH,#}</div> Mahesha.</div>
+{@MUTILATE:@}¦ <div n="I">I Lit.: {#vyaNgIkaroti,#} <div n="xe">{%why you m.d%}
+{%your wife:%}</div> <div n="xs">{#kimarTaM tvayA BAryA vyaNgitA,#}</div> P. i. 4.</div>
+<div n="I">II Fig.: Perh. {#vikalIkaroti,#} {%“m.d poets”:%}
+{#vikalIkftakavayaH;#} <div n="xe">{%the Vyaktiviveka and Ālochana%}
+{%are here only in a m.d form:%}</div> <div n="xs">{#vyaktivivekAlocana-#}
+{#granTAvatra KaRqitAveva staH,#}</div> Mahesha.</div>
 <LEND>

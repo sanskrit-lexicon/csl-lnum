@@ -1,3 +1,3 @@
-<L>231051<pc>1141,1<k1>santya<k2>santya<h>a<e>2
-<s>santya</s> <hom>a</hom> ¦ <lex>mfn.</lex> bestowing gifts, bountiful (only <ab>voc.</ab> in addressing <s1 slp1="agni">Agni</s1>; <ab>accord.</ab> to others <ab>fr.</ab> <s>sat</s> = ‘benevolent, kind’), <ls>RV.</ls><info lex="m:f:n"/>
+<L>231051<pc>1141,1<k1>santya<k2>santya<e>2
+<s>santya</s> ¦ <lex>mfn.</lex> bestowing gifts, bountiful (only <ab>voc.</ab> in addressing <s1>Agni</s1>; <ab>accord.</ab> to others <ab>fr.</ab> <s>sat</s> = ‘benevolent, kind’), <ls>RV.</ls><info lex="m:f:n"/><info hui="a"/>
 <LEND>

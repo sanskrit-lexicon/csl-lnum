@@ -1,4 +1,4 @@
 <L>16576<pc>410-b<k1>inventory<k2>inventory
-<div n="lb"/>INVENTORY¦, {%s.%} {#gfhopaskaraparisaMKyA, gfhaBARqaparigaRanA, asTAvaradravyasaM-#}
-<div n="lb"/>{#KyApatraM, asTAvaravastugaRanApatraM, gfhavastuparisaMKyA, gfhasAmagryaparigaRanA#}.
+INVENTORY¦, {%s.%} {#gfhopaskaraparisaMKyA, gfhaBARqaparigaRanA, asTAvaradravyasaM-#}
+{#KyApatraM, asTAvaravastugaRanApatraM, gfhavastuparisaMKyA, gfhasAmagryaparigaRanA#}.
 <LEND>

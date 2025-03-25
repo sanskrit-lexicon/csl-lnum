@@ -1,12 +1,12 @@
 <L>3682<pc>1-0277<k1>apakArin<k2>apakArin
-{#apakArin#}¦ (von {#kar, karoti#} mit {#apa#}) <lex>adj.</lex> {%Jemand einen Schaden zufügend, zu nahe tretend, beleidigend%}: {#svavIryeREva tAn SizyAnmAnavAnapakAriRaH#} 
-<ls>M. 11, 31.</ls> 
-<ls>R. 2, 97, 25. 4, 16, 22. 5, 81, 40.</ls> 
-<ls>PAÑCAT. I, 110.</ls> Gegens. {#upakArin#} 
-<ls>?I, 277. = IV, 72.</ls> Mit dem gen. des obj.: {#yo mOrKyAdapakArI te#} 
-<ls>R. 5, 64, 8.</ls> 
-<ls>HIT. 27, 17.</ls> {#anapakArin#} {%Niemand was zu Leide thuend%} 
-<ls>R. 2, 75, 12. 4, 16, 29.</ls> 
-<ls>SĀV. 5, 90.</ls> 
-<ls>BRĀHMAṆ. 1, 27.</ls>
+{#apakArin#}¦ (von {#kar, karoti#} mit {#apa#}) <lex>adj.</lex> {%Jemand einen Schaden zufügend, zu nahe tretend, beleidigend%}: {#svavIryeREva tAn SizyAnmAnavAnapakAriRaH#}
+<ls>M. 11,31.</ls>
+<ls>R. 2,97,25.</ls> <ls n="R.">4,16,22</ls> <ls n="R.">5,81,40.</ls>
+<ls>PAÑCAT. I,110.</ls> Gegens. {#upakArin#}
+<ls n="PAÑCAT.">I,277.</ls> = <ls n="PAÑCAT.">IV,72.</ls> Mit dem gen. des obj.: {#yo mOrKyAdapakArI te#}
+<ls>R. 5,64,8.</ls>
+<ls>HIT. 27,17.</ls> {#anapakArin#} {%Niemand was zu Leide thuend%}
+<ls>R. 2,75,12.</ls> <ls n="R.">4,16,29.</ls>
+<ls>SĀV. 5,90.</ls>
+<ls>BRĀHMAṆ. 1,27.</ls>
 <LEND>

@@ -1,4 +1,4 @@
 <L>15347<pc>470<k1>neigh<k2>neigh
-<div n="lb"/>{@NEIGH@}¦ (v.): {#hezate#} <div n="xe">{%or%}</div> <div n="xs">{#hrezate#}</div> ({#hez,#} <div n="xe">{%or%}</div> <div n="xs">{#hrez,#}</div> c. 1.),
-<div n="lb"/><div n="xe">{%if you n. like a horse:%}</div> <div n="xs">{#yadyaSvavadDezase,#}</div> P. iv. 7.
+{@NEIGH@}¦ (v.): {#hezate#} <div n="xe">{%or%}</div> <div n="xs">{#hrezate#}</div> ({#hez,#} <div n="xe">{%or%}</div> <div n="xs">{#hrez,#}</div> c. 1.),
+<div n="xe">{%if you n. like a horse:%}</div> <div n="xs">{#yadyaSvavadDezase,#}</div> P. iv. 7.
 <LEND>

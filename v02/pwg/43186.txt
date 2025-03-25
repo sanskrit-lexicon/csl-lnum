@@ -1,23 +1,23 @@
 <L>43186<pc>4-0552<k1>pariSrama<k2>pariSrama
-{#pariSrama#}¦ (von {#Sram#} mit {#pari#}) <lex>m.</lex> {%Ermüdung, eine ermüdende Beschäftigung, Anstrengung%} 
-<ls>H. 319.</ls> 
-<ls>SĀV. 4, 21.</ls> 
-<ls>MBH. 4, 147.</ls> {#samarapariSramaM vahan#} 
-<ls>HARIV. 9450.</ls> 
-<ls>R. 2, 30, 11. 56, 3.</ls> {#aDva°#} 
-<ls>R. GORR. 2, 30, 12. 3, 78, 28.</ls> <ls>SUŚR. 1, 13, 15.</ls> {#jita°#} 
-<ls>KĀM. NĪTIS. 14, 38.</ls> <ls>MṚCCH. 121, 7.</ls> <ls>MĀLAV. 65, 15.</ls> <ls>Spr. 672.</ls> <ls>ṚT. 4, 17.</ls> <ls>RAGH. 1, 58. 9, 38. 11, 12. 13, 46.</ls> <ls>KUMĀRAS. 5, 32.</ls> <ls>RĀJA-TAR. 5, 197.</ls> <ls>KATHĀS. 4, 89. 39, 180. 42, 223.</ls> <ls>BHĀG. P. 2, 2, 3. 8, 24, 46. 9, 20, 10.</ls> {#tanmuKaM svedaBinnatilakaM pariSramAt#} 
-<ls>RAGH. 19, 15.</ls> {#evaM tIvratapaScAhaM #}
+{#pariSrama#}¦ (von {#Sram#} mit {#pari#}) <lex>m.</lex> {%Ermüdung, eine ermüdende Beschäftigung, Anstrengung%}
+<ls>H. 319.</ls>
+<ls>SĀV. 4,21.</ls>
+<ls>MBH. 4,147.</ls> {#samarapariSramaM vahan#}
+<ls>HARIV. 9450.</ls>
+<ls>R. 2,30,11.</ls> <ls n="R. 2,">56,3.</ls> {#aDva°#}
+<ls>R. GORR. 2,30,12.</ls> <ls n="R. GORR.">3,78,28.</ls> <ls>SUŚR. 1,13,15.</ls> {#jita°#}
+<ls>KĀM. NĪTIS. 14,38.</ls> <ls>MṚCCH. 121,7.</ls> <ls>MĀLAV. 65,15.</ls> <ls>Spr. 672.</ls> <ls>ṚT. 4,17.</ls> <ls>RAGH. 1,58.</ls> <ls n="RAGH.">9,38.</ls> <ls n="RAGH.">11,12.</ls> <ls n="RAGH.">13,46.</ls> <ls>KUMĀRAS. 5,32.</ls> <ls>RĀJA-TAR. 5,197.</ls> <ls>KATHĀS. 4,89.</ls> <ls n="KATHĀS.">39,180.</ls> <ls n="KATHĀS.">42,223.</ls> <ls>BHĀG. P. 2,2,3.</ls> <ls n="BHĀG. P.">8,24,46.</ls> <ls n="BHĀG. P.">9,20,10.</ls> {#tanmuKaM svedaBinnatilakaM pariSramAt#}
+<ls>RAGH. 19,15.</ls> {#evaM tIvratapaScAhaM #}
 [Page4-0553]
-{# kazwaScAyaM pariSramaH#} 
-<ls>MBH. 13, 2365.</ls> {#mahatA tapasA labDo viviDESca pariSramEH#} 
-<ls>R. 2, 86, 12. 6, 100, 9.</ls> {#alaM pariSrameRa#} (v. l. für {#pariBrameRa#}) 
-<ls>MṚCCH. 1, 9.</ls> {#vANmAtreRApi yAmIti vaktavye kaH pariSramaH#} 
-<ls>HARIV. 4813.</ls> {#jaye kftapariSramO#} 
-<ls>15983.</ls> {#pAtaYjale mahABAzye kftaBUripariSramaH#} 
-<ls>Verz. d. Oxf. H. 164,b,2 v. u. No. 107,</ls> <ls>Śl. 4.</ls> <ls>KIR.4,17.8,7.</ls> {#aSlADyo vadataH putra tavAyaM vAkpariSramaH#} 
-<ls>HARIV. 4235.</ls> 
-<ls>R. 6, 100, 13.</ls> {#SAstra°#} {%anhaltende Beschäftigung mit den Lehrbüchern%} 
-<ls>MALLIN.</ls> zu <ls>RAGH. 1, 5.</ls> {#tannimittABirAsInO kaTABirapariSramO#} {%nicht müde werdend von den Gesprächen%} 
-<ls>DAŚ. 2, 5.</ls>
+{# kazwaScAyaM pariSramaH#}
+<ls>MBH. 13,2365.</ls> {#mahatA tapasA labDo viviDESca pariSramEH#}
+<ls>R. 2,86,12.</ls> <ls n="R.">6,100,9.</ls> {#alaM pariSrameRa#} (v. l. für {#pariBrameRa#})
+<ls>MṚCCH. 1,9.</ls> {#vANmAtreRApi yAmIti vaktavye kaH pariSramaH#}
+<ls>HARIV. 4813.</ls> {#jaye kftapariSramO#}
+<ls n="HARIV.">15983.</ls> {#pAtaYjale mahABAzye kftaBUripariSramaH#}
+<ls>Verz. d. Oxf. H. 164,b,2</ls> v. u. <ls n="Verz. d. Oxf. H.">No. 107, Śl. 4.</ls> <ls>KIR. 4,17. 8,7.</ls> {#aSlADyo vadataH putra tavAyaM vAkpariSramaH#}
+<ls>HARIV. 4235.</ls>
+<ls>R. 6,100,13.</ls> {#SAstra°#} {%anhaltende Beschäftigung mit den Lehrbüchern%}
+<ls>MALLIN.</ls> zu <ls>RAGH. 1,5.</ls> {#tannimittABirAsInO kaTABirapariSramO#} {%nicht müde werdend von den Gesprächen%}
+<ls>DAŚ. 2,5.</ls>
 <LEND>

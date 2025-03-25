@@ -1,18 +1,18 @@
 <L>9605<pc>432<k1>snake<k2>snake
 {@Snake,@}¦ {%s.%} {#sarpaH, BujagaH, BujaMgaH-gamaH, pannagaH,#}
-<div n="lb"/>{#ahiH, nAgaH, uragaH, uraMgamaH, vizaDaraH, Bogin#}
-<div n="lb"/>{%m.,%} {#vyAlaH, ASIvizaH, PaRin#} {%m.,%} {#darvIkaraH,#}
-<div n="lb"/>{#jihmagaH, pavanASanaH, kuMBInasaH, daMdaSUkaH,#}
-<div n="lb"/>{#cakrin#} {%m.,%} {#dvijihvaH, dvirasanaH, sarIsfpaH,#}
-<div n="lb"/>{#kuMqalin#} {%m.,%} {#gUQapAd#} {%m.,%} {#cakzuHSravas#} {%m.,%}
-<div n="lb"/>{#kAkodaraH, dIrGapfzWaH, bileSayaH;#} ‘hooded s.’
-<div n="lb"/>{#PaRaBft#} {%m.%} {#BogaDaraH, Bogin#} {%m.;%} ‘s. without
-<div n="lb"/>poison’ {#rAji(jI)laH, quMquBaH;#} ‘s. with
-<div n="lb"/>a spotted skin’ {#mAluDAnaH, mAtulAhiH;#}
-<div n="lb"/>{#citrasarpaH;#} ‘that has cast off his
-<div n="lb"/>slough’ {#nirmuktaH, muktakaMcukaH;#} ‘his venom’
-<div n="lb"/>{#kzveqaH, garalaM, vizaM;#} ‘his hood’ {#sPawA,#}
-<div n="lb"/>{#PawA, PaRA, sPowA, darvI;#} ‘charmer of s. s’
-<div n="lb"/>{#a(A)hituMqikaH, vyAlagrAhin#} {%m.%} {@-y,@} {%a.%}
-<div n="lb"/>({%s.%}) in comp.; {#Aheya(yI)#} {%f.%}).
+{#ahiH, nAgaH, uragaH, uraMgamaH, vizaDaraH, Bogin#}
+{%m.,%} {#vyAlaH, ASIvizaH, PaRin#} {%m.,%} {#darvIkaraH,#}
+{#jihmagaH, pavanASanaH, kuMBInasaH, daMdaSUkaH,#}
+{#cakrin#} {%m.,%} {#dvijihvaH, dvirasanaH, sarIsfpaH,#}
+{#kuMqalin#} {%m.,%} {#gUQapAd#} {%m.,%} {#cakzuHSravas#} {%m.,%}
+{#kAkodaraH, dIrGapfzWaH, bileSayaH;#} ‘hooded s.’
+{#PaRaBft#} {%m.%} {#BogaDaraH, Bogin#} {%m.;%} ‘s. without
+poison’ {#rAji(jI)laH, quMquBaH;#} ‘s. with
+a spotted skin’ {#mAluDAnaH, mAtulAhiH;#}
+{#citrasarpaH;#} ‘that has cast off his
+slough’ {#nirmuktaH, muktakaMcukaH;#} ‘his venom’
+{#kzveqaH, garalaM, vizaM;#} ‘his hood’ {#sPawA,#}
+{#PawA, PaRA, sPowA, darvI;#} ‘charmer of s. s’
+{#a(A)hituMqikaH, vyAlagrAhin#} {%m.%} {@-y,@} {%a.%}
+({%s.%}) in comp.; {#Aheya(yI)#} {%f.%}).
 <LEND>

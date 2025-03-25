@@ -1,84 +1,82 @@
 <L>105405<pc>7-0691<k1>samarTa<k2>samarTa
-{#samarTa#}¦ (2. {#sam + arTa#}) 
-<div n="1"> 1) <lex>adj.</lex> (f. {#A#}) 
-<div n="2"> a) {%entsprechend, übereinstimmend, angemessen%} 
-<ls>ĀŚV. ŚR. 3, 2, 17.</ls> 
-<ls>NIR. 1, 12.</ls> {#vAc#} 
-<ls>MBH. 5, 1814.</ls> {#uttara#} 
-<ls>RAGH. 11, 79.</ls> {#kiM samarTaM janasyAsya kiM priyaM kiM suKAvaham#} 
-<ls>R. 2, 57, 14. 5, 77, 5.</ls> mit der Ergänzung comp. 
-<ls>BHĀG. P. 4, 4, 8.</ls> 
-<div n="2">— b) ({%seinem Zweck entsprechend) tauglich, gut%}: ein Baum 
-<ls>MBH. 13, 288.</ls> {#tilAH#} 
-<ls>PAÑCAT. 121, 24.</ls> {#paSu#} 
-<ls>169, 10.</ls> Rosse 
-<ls>MBH. 3, 2783.</ls> = {#hita#} 
-<ls>AK. 3, 4, 15, 89.</ls> 
-<ls>H. an. 3, 324.</ls> 
-<ls>MED. th. 25.</ls> 
-<div n="2">— c) {%von gleicher Bedeutung%} 
-<ls>P. 1, 3, 42. 2, 3, 57. 8, 1, 65.</ls> 
-<div n="2">— d) {%dem Sinne nach verbunden, - zusammengehörig%} 
-<ls>P. 2, 1, 1. 4, 1, 82.</ls> 
-<ls>PAT.</ls> zu <ls>P. 1, 1, 43.</ls> <ls>AV. PRĀT. S. 261, II, 3.</ls> = {#saMbadDArTa#} 
-<ls>AK.</ls> <ls>H. an.</ls> = {#saMbanDa#} (lies {#saMbadDa#}) 
-<ls>MED.</ls> 
-<div n="2">— e) {%im Stande seiend, einer Sache gewachsen, die Macht besitzend, fähig, Etwas zu thun vermögend%} 
-<ls>AK.</ls> <ls>H. ś. 106.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#samarTAScApyadAtAraH#} {%wohl im Stande seiend und dennoch nicht spendend%} 
-<ls>MBH. 13, 1652. 2206.</ls> 
-<ls>R. 1, 7, 18. 2, 80, 3. 4, 3, 15. 5, 7, 45.</ls> 
-<ls>KĀM. NĪTIS. 15, 16.</ls> <ls>Spr. (II) 771. 774. 1289. 1496. 1561. 1926. 2392. 2875. 5527.</ls> <ls>VARĀH. BṚH. S. 15, 20.</ls> <ls>RĀJA-TAR. 4, 479.</ls> <ls>SĀH. D. 111, 1.</ls> <ls>SARVADARŚANAS. 10, 1. 3. 124, 16.</ls> {#°tara#} 
-<ls>PAÑCAT. ed. orn. 56, 24.</ls> {#ati°#} 
-<ls>HIT. 83, 13.</ls> {#a°#} 
-<ls>R. 2, 32, 33.</ls> Die Ergänzung 
-<div n="3"> α) im infin. 
-<ls>MBH. 3, 2980.</ls> 
-<ls>R. 1, 1, 7. 34, 19. 2, 21, 9.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 91, 6. 3, 13, 31. 4, 7, 5. 5, 36, 3. 6, 95, 3.</ls> 
-<ls>MEGH. 42.</ls> 
-<ls>Spr. (II) 544. 2580. 4907. 5893. 5904. 6005. 6189. 6215. 6977.</ls> 
-<ls>KATHĀS. 7, 62.</ls> 
-<ls>RĀJA-TAR. 1, 35. 2, 41. 4, 567.</ls> 
-<ls>BHĀG. P. 3, 16, 29. 7, 6, 17.</ls> 
-<ls>HIT. 15, 10. 21, 12. 27, 7. 65, 1.</ls> {#a°#} 
-<ls>?15, 19. RĀJA-TAR. 6, 368. BHĀG. P. 3, 20, 14. VET. in LA. (III) 2, 21.</ls> statt des infin. das partic. praes.: {#fte vAmIdfSaM vAkyaM kaH samarTo hyanubruvan#} 
-<ls>HARIV. 15494.</ls> 
-<div n="3">— β) im loc.: {#kAryanirRaye#} 
-<ls>YĀJÑ. 2, 10.</ls> {#pozaRe#} 
-<ls>MBH. 1, 6150. 8399. 13, 4084.</ls> 
-<ls>HARIV. 6432.</ls> 
-<ls>R. 1, 1, 5. 11, 17.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 27, 14. 3, 1, 32. 40, 29. 4, 8, 56. 6, 13, 23.</ls> 
-<ls>SUŚR. 1, 313, 19.</ls> 
-<ls>KĀM. NĪTIS. 8, 18.</ls> <ls>Spr. (II) 1518. 1685. 2648.</ls> <ls>KATHĀS. 61, 88.</ls> <ls>PAÑCAT. 86, 3.</ls> {#sakalakAryaviDO#} 
-<ls>Spr. (II) 1431.</ls> {#vetAlAhvAnasAhAyye#} 
-<ls>KATHĀS. 73, 277.</ls> {#DIvizARAmalatve#} 
-<ls>VARĀH. BṚH. 28 (26), 7.</ls> {#a°#} 
-<ls>BHAG. 12, 10.</ls> 
-<ls>Spr. (II) 2702, v. l.</ls> 
-<div n="3">— γ) im dat.: {#tezAM jayAya#} 
-<ls>MBH. 5, 22. 25. 15, 222.</ls> 
-<ls>HARIV. 685.</ls> {#indravaDArTAya#} 240. {#a°#} 
-<ls>MBH. 1, 8431.</ls> 
-<div n="3">— δ) im gen. {%Jmd gewachsen%}: {#samarTastava - Danuzyastrabale matO#} 
-<ls>R. 4, 11, 10. 12, 5.</ls> 
-<div n="3">— ε) mit acc.: {#neha yudDaM samarTAH#} (vielleicht {#yudDasa°#} zu lesen) {#smaH#} 
-<ls>R. 7, 22, 10.</ls> 
-<div n="3">— ζ) im abl.: {#uBAByAM ca samarTo 'haM SApAdapi SarAdapi#} 
-<ls>Spr. (II) 7431.</ls> 
-<div n="3">— η) im comp. vorangehend: {#pratigraha°#} 
-<ls>M. 4, 186.</ls> 
-<ls>YĀJÑ. 1, 213.</ls> {#rAjavyasanApoha°#} 
-<ls>KĀM. NĪTIS. 14, 2.</ls> {#udyama°#} 
-<ls>Spr. (II) 3769.</ls> 
-<ls>SARVADARŚANAS. 10, 2. 11, 21. 102, 6.</ls> <ls>VEDĀNTAS. (Allah.) No. 110</ls> ({#a°#}). 
-<div n="2">— f) fehlerhaft für {#samarGa#} 
-<ls>VARĀH. BṚH. S. 40, 13.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) = {#sAmarTya#} {%Befähi%}- gung u. s. w.: {#sarvezu kAryezu samarTayuktA budDistavAstyeva#} 
-<ls>R. 5, 43, 6.</ls> 
-<div n="2">— b) {%Verständniss%} (vgl. {#arTay#} mit {#sam#}) in {#duH°#} (in den Nachträgen). 
+{#samarTa#}¦ (2. {#sam + arTa#})
+<div n="1"> 1) <lex>adj.</lex> (f. {#A#})
+<div n="2"> a) {%entsprechend, übereinstimmend, angemessen%}
+<ls>ĀŚV. ŚR. 3,2,17.</ls>
+<ls>NIR. 1,12.</ls> {#vAc#}
+<ls>MBH. 5,1814.</ls> {#uttara#}
+<ls>RAGH. 11,79.</ls> {#kiM samarTaM janasyAsya kiM priyaM kiM suKAvaham#}
+<ls>R. 2,57,14.</ls> <ls n="R.">5,77,5.</ls> mit der Ergänzung comp.
+<ls>BHĀG. P. 4,4,8.</ls>
+<div n="2">— b) ({%seinem Zweck entsprechend) tauglich, gut%}: ein Baum
+<ls>MBH. 13,288.</ls> {#tilAH#}
+<ls>PAÑCAT. 121,24.</ls> {#paSu#}
+<ls n="PAÑCAT.">169,10.</ls> Rosse
+<ls>MBH. 3,2783.</ls> = {#hita#}
+<ls>AK. 3,4,15,89.</ls>
+<ls>H. an. 3,324.</ls>
+<ls>MED. th. 25.</ls>
+<div n="2">— c) {%von gleicher Bedeutung%}
+<ls>P. 1,3,42.</ls> <ls n="P.">2,3,57.</ls> <ls n="P.">8,1,65.</ls>
+<div n="2">— d) {%dem Sinne nach verbunden, — zusammengehörig%}
+<ls>P. 2,1,1.</ls> <ls n="P.">4,1,82.</ls>
+<ls>PAT.</ls> zu <ls>P. 1,1,43.</ls> <ls>AV. PRĀT.</ls> S. 261, II,3. = {#saMbadDArTa#}
+<ls>AK.</ls> <ls>H. an.</ls> = {#saMbanDa#} (lies {#saMbadDa#})
+<ls>MED.</ls>
+<div n="2">— e) {%im Stande seiend, einer Sache gewachsen, die Macht besitzend, fähig, Etwas zu thun vermögend%}
+<ls>AK.</ls> <ls>H. ś. 106.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#samarTAScApyadAtAraH#} {%wohl im Stande seiend und dennoch nicht spendend%}
+<ls>MBH. 13,1652.</ls> <ls n="MBH. 13,">2206.</ls>
+<ls>R. 1,7,18.</ls> <ls n="R.">2,80,3.</ls> <ls n="R.">4,3,15.</ls> <ls n="R.">5,7,45.</ls>
+<ls>KĀM. NĪTIS. 15,16.</ls> <ls>Spr. (II) 771.</ls> <ls n="Spr. (II)">774.</ls> <ls n="Spr. (II)">1289.</ls> <ls n="Spr. (II)">1496.</ls> <ls n="Spr. (II)">1561.</ls> <ls n="Spr. (II)">1926.</ls> <ls n="Spr. (II)">2392.</ls> <ls n="Spr. (II)">2875.</ls> <ls n="Spr. (II)">5527.</ls> <ls>VARĀH. BṚH. S. 15,20.</ls> <ls>RĀJA-TAR. 4,479.</ls> <ls>SĀH. D. 111,1.</ls> <ls>SARVADARŚANAS. 10,1. 3. 124,16.</ls> {#°tara#}
+<ls>PAÑCAT. ed. orn. 56,24.</ls> {#ati°#}
+<ls>HIT. 83,13.</ls> {#a°#}
+<ls>R. 2,32,33.</ls> Die Ergänzung
+<div n="3"> α) im infin.
+<ls>MBH. 3,2980.</ls>
+<ls>R. 1,1,7.</ls> <ls n="R. 1,">34,19.</ls> <ls n="R.">2,21,9.</ls>
+<ls>R. GORR. 2,91,6.</ls> <ls n="R. GORR.">3,13,31.</ls> <ls n="R. GORR.">4,7,5.</ls> <ls n="R. GORR.">5,36,3.</ls> <ls n="R. GORR.">6,95,3.</ls>
+<ls>MEGH. 42.</ls>
+<ls>Spr. (II) 544.</ls> <ls n="Spr. (II)">2580.</ls> <ls n="Spr. (II)">4907.</ls> <ls n="Spr. (II)">5893.</ls> <ls n="Spr. (II)">5904.</ls> <ls n="Spr. (II)">6005.</ls> <ls n="Spr. (II)">6189.</ls> <ls n="Spr. (II)">6215.</ls> <ls n="Spr. (II)">6977.</ls>
+<ls>KATHĀS. 7,62.</ls>
+<ls>RĀJA-TAR. 1,35. 2,41. 4,567.</ls>
+<ls>BHĀG. P. 3,16,29.</ls> <ls n="BHĀG. P.">7,6,17.</ls>
+<ls>HIT. 15,10. 21,12. 27,7. 65,1.</ls> {#a°#}
+<ls n="HIT.">15,19.</ls> <ls>RĀJA-TAR. 6,368.</ls> <ls>BHĀG. P. 3,20,14.</ls> <ls>VET. in LA. (III) 2,21.</ls> statt des infin. das partic. praes.: {#fte vAmIdfSaM vAkyaM kaH samarTo hyanubruvan#}
+<ls>HARIV. 15494.</ls>
+<div n="3">— β) im loc.: {#kAryanirRaye#}
+<ls>YĀJÑ. 2,10.</ls> {#pozaRe#}
+<ls>MBH. 1,6150.</ls> <ls n="MBH. 1,">8399.</ls> <ls n="MBH.">13,4084.</ls>
+<ls>HARIV. 6432.</ls>
+<ls>R. 1,1,5.</ls> <ls n="R. 1,">11,17.</ls>
+<ls>R. GORR. 2,27,14.</ls> <ls n="R. GORR.">3,1,32.</ls> <ls n="R. GORR. 3,">40,29.</ls> <ls n="R. GORR.">4,8,56.</ls> <ls n="R. GORR.">6,13,23.</ls>
+<ls>SUŚR. 1,313,19.</ls>
+<ls>KĀM. NĪTIS. 8,18.</ls> <ls>Spr. (II) 1518.</ls> <ls n="Spr. (II)">1685.</ls> <ls n="Spr. (II)">2648.</ls> <ls>KATHĀS. 61,88.</ls> <ls>PAÑCAT. 86,3.</ls> {#sakalakAryaviDO#}
+<ls>Spr. (II) 1431.</ls> {#vetAlAhvAnasAhAyye#}
+<ls>KATHĀS. 73,277.</ls> {#DIvizARAmalatve#}
+<ls>VARĀH. BṚH. 28 (26),7.</ls> {#a°#}
+<ls>BHAG. 12,10.</ls>
+<ls>Spr. (II) 2702, v. l.</ls>
+<div n="3">— γ) im dat.: {#tezAM jayAya#}
+<ls>MBH. 5,22.</ls> <ls n="MBH. 5,">25.</ls> <ls n="MBH.">15,222.</ls>
+<ls>HARIV. 685.</ls> {#indravaDArTAya#} 240. {#a°#}
+<ls>MBH. 1,8431.</ls>
+<div n="3">— δ) im gen. {%Jmd gewachsen%}: {#samarTastava — Danuzyastrabale matO#}
+<ls>R. 4,11,10.</ls> <ls n="R. 4,">12,5.</ls>
+<div n="3">— ε) mit acc.: {#neha yudDaM samarTAH#} (vielleicht {#yudDasa°#} zu lesen) {#smaH#}
+<ls>R. 7,22,10.</ls>
+<div n="3">— ζ) im abl.: {#uBAByAM ca samarTo 'haM SApAdapi SarAdapi#}
+<ls>Spr. (II) 7431.</ls>
+<div n="3">— η) im comp. vorangehend: {#pratigraha°#}
+<ls>M. 4,186.</ls>
+<ls>YĀJÑ. 1,213.</ls> {#rAjavyasanApoha°#}
+<ls>KĀM. NĪTIS. 14,2.</ls> {#udyama°#}
+<ls>Spr. (II) 3769.</ls>
+<ls>SARVADARŚANAS. 10,2. 11,21. 102,6.</ls> <ls>VEDĀNTAS. (Allah.) No. 110</ls> ({#a°#}).
+<div n="2">— f) fehlerhaft für {#samarGa#}
+<ls>VARĀH. BṚH. S. 40,13.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) = {#sAmarTya#} {%Befähigung%}- gung u. s. w.: {#sarvezu kAryezu samarTayuktA budDistavAstyeva#}
+<ls>R. 5,43,6.</ls>
+<div n="2">— b) {%Verständniss%} (vgl. {#arTay#} mit {#sam#}) in {#duH°#} (in den Nachträgen).
 <div n="v">— Vgl. {#a°#} (in den Nachträgen) und {#sAmarTya#} .
 <LEND>

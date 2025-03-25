@@ -1,4 +1,4 @@
 <L>349<pc>014<k1>adventurer<k2>adventurer
-<div n="lb"/>{@ADVENTURER:@}¦ {#sAhasikaH#} ({#kI, kaM#}). {%A military%}
-<div n="lb"/>{%a.:%} v. Freebooter.
+{@ADVENTURER:@}¦ {#sAhasikaH#} ({#kI, kaM#}). {%A military%}
+{%a.:%} v. Freebooter.
 <LEND>

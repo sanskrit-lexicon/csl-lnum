@@ -1,7 +1,6 @@
 <L>659<pc>1-0049<k1>aNkoWa<k2>aNkoWa
-{#aNkoWa#}¦ <lex>m.</lex> = {#aNkowa#} 
-<ls>AK. 2, 4, 2, 9.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 103, 8. 3, 17, 10.</ls> 
-<ls>SUŚR. 1, 132, 12. 2, 104, 1.</ls>
+{#aNkoWa#}¦ <lex>m.</lex> = {#aNkowa#}
+<ls>AK. 2,4,2,9.</ls>
+<ls>R. GORR. 2,103,8.</ls> <ls n="R. GORR.">3,17,10.</ls>
+<ls>SUŚR. 1,132,12.</ls> <ls n="SUŚR.">2,104,1.</ls>
 <LEND>

@@ -1,21 +1,21 @@
 <L>10755<pc>259-a<k1>family<k2>family
-<div n="lb"/>FAMILY¦, {%s.%} (Race) {#kulaM, vaMSaH, kuwumbaH, jAtiH#} {%f.,%} {#gotraM, santAnaH, pravaraM#}.
-<div n="lb"/> — (Lineage) {#anvayaH, santatiH#} {%f.,%} {#jananaM, AvaliH#} {%f.,%} {#anvavAyaH#}. — 
-<div n="lb"/>(Household) {#gfhajanaH, aBijanaH, svajanaH, parijanaH, kuwumbakaM, strIpu-#}
-<div n="lb"/>{#trakanyAdi;#} ‘head of a family,’ {#kuwumbI, kOwumbikaH, kulapatiH#} {%m.,%}
-<div n="lb"/>{#kulodvahaH;#} ‘of the same family,’ {#sakulaH -lA -laM, sakulyaH -lyA#}
-<div n="lb"/>{#-lyaM;#} ‘relating to a family,’ {#kOlaH -lI -laM -likaH -kI -kaM, kula#}
-<div n="lb"/>in comp.; ‘of good or noble family,’ {#mahAkulaH -lA -laM -lInaH#}
-<div n="lb"/>{#-nA -naM, kulInaH -nA -naM, kOleyaH -yI -yaM, kulikaH -kA -kaM, kulodgataH#}
-<div n="lb"/>{#-tA -taM;#} ‘of low family,’ {#duzkulInaH -nA -naM, akulInaH -nA -naM;#}
-<div n="lb"/>‘a woman of good family,’ {#kulanArI, kulakanyA;#} ‘of royal
-<div n="lb"/>family,’ {#rAjavaMSyaH -SyA -SyaM;#} ‘family honour,’ {#kulamaryyAdA;#}
-<div n="lb"/>‘family pride,’ {#kulABimAnaM, kulonnatiH#} {%f.;%} ‘family disgrace,’
-<div n="lb"/>{#kulanindA;#} ‘family respectability,’ {#kulotkarzaH;#} ‘family duty,’
-<div n="lb"/>{#kulaDarmmaH, kulAcAraH;#} ‘family priest,’ {#kulAcAryyaH;#} ‘family
-<div n="lb"/>party,’ {#gfhotsavaH;#} ‘family feuds,’ {#gfhacCidraM;#} ‘family con-
-<div n="lb"/>nexions,’ {#gozWI, kulasanniDiH#} {%f.;%} ‘of ancient family,’ {#dIrGavaMSaH#}
-<div n="lb"/>{#-SA -SaM;#} ‘attentive in supporting one's family,’ {#kuwumbavyApftaH,#}
-<div n="lb"/>{#kulAlambI#} {%m.%} {#(n), aByAgArikaH, upADiH#} {%m.;%} ‘cruelty to one's
-<div n="lb"/>family,’ {#anAtmyaM#}.
+FAMILY¦, {%s.%} (Race) {#kulaM, vaMSaH, kuwumbaH, jAtiH#} {%f.,%} {#gotraM, santAnaH, pravaraM#}.
+ — (Lineage) {#anvayaH, santatiH#} {%f.,%} {#jananaM, AvaliH#} {%f.,%} {#anvavAyaH#}. — 
+(Household) {#gfhajanaH, aBijanaH, svajanaH, parijanaH, kuwumbakaM, strIpu-#}
+{#trakanyAdi;#} ‘head of a family,’ {#kuwumbI, kOwumbikaH, kulapatiH#} {%m.,%}
+{#kulodvahaH;#} ‘of the same family,’ {#sakulaH -lA -laM, sakulyaH -lyA#}
+{#-lyaM;#} ‘relating to a family,’ {#kOlaH -lI -laM -likaH -kI -kaM, kula#}
+in comp.; ‘of good or noble family,’ {#mahAkulaH -lA -laM -lInaH#}
+{#-nA -naM, kulInaH -nA -naM, kOleyaH -yI -yaM, kulikaH -kA -kaM, kulodgataH#}
+{#-tA -taM;#} ‘of low family,’ {#duzkulInaH -nA -naM, akulInaH -nA -naM;#}
+‘a woman of good family,’ {#kulanArI, kulakanyA;#} ‘of royal
+family,’ {#rAjavaMSyaH -SyA -SyaM;#} ‘family honour,’ {#kulamaryyAdA;#}
+‘family pride,’ {#kulABimAnaM, kulonnatiH#} {%f.;%} ‘family disgrace,’
+{#kulanindA;#} ‘family respectability,’ {#kulotkarzaH;#} ‘family duty,’
+{#kulaDarmmaH, kulAcAraH;#} ‘family priest,’ {#kulAcAryyaH;#} ‘family
+party,’ {#gfhotsavaH;#} ‘family feuds,’ {#gfhacCidraM;#} ‘family con-
+nexions,’ {#gozWI, kulasanniDiH#} {%f.;%} ‘of ancient family,’ {#dIrGavaMSaH#}
+{#-SA -SaM;#} ‘attentive in supporting one's family,’ {#kuwumbavyApftaH,#}
+{#kulAlambI#} {%m.%} {#(n), aByAgArikaH, upADiH#} {%m.;%} ‘cruelty to one's
+family,’ {#anAtmyaM#}.
 <LEND>

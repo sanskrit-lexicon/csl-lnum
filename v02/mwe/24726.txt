@@ -1,4 +1,4 @@
 <L>24726<pc>665-a<k1>recruit<k2>recruit
-<div n="lb"/>RECRUIT¦, {%s.%} {#navasEnyaH, nUtanasEnyaH, navasEnikaH, navInasEnyaH, SastrAByAsI#} {%m.%}
-<div n="lb"/>{#(n), astraSikzAkArI#} {%m.,%} {#nUtanAByAsI#} {%m.,%} {#navAByAsI#} {%m.%}
+RECRUIT¦, {%s.%} {#navasEnyaH, nUtanasEnyaH, navasEnikaH, navInasEnyaH, SastrAByAsI#} {%m.%}
+{#(n), astraSikzAkArI#} {%m.,%} {#nUtanAByAsI#} {%m.,%} {#navAByAsI#} {%m.%}
 <LEND>

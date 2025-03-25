@@ -1,3 +1,3 @@
-<L>124470<pc>628,2<k1>piSAcavidyAveda<k2>piSAca/—vidyA-veda<e>3
-<s>piSAca/—vidyA-veda</s> ¦ <lex>m.</lex> the <s1 slp1="veda">Veda</s1> of the <ab n="Piśāca" slp1="piSAca">P°</ab>s <ls>ĀśvŚr.</ls><info lex="m"/>
+<L>124470<pc>628,2<k1>piSAcavidyAveda<k2>piSAca—vidyA-veda<e>3
+<s>piSAca—vidyA-veda</s> ¦ <lex>m.</lex> the <s1>Veda</s1> of the <s1 n="Piśāca">P°</s1>s <ls>ĀśvŚr.</ls><info lex="m"/>
 <LEND>

@@ -1,13 +1,13 @@
 <L>7027<pc>303<k1>nation<k2>nation
 {@Nation,@}¦ {%s.%} {#rAzwraM, janapadaH, deSaH, vizayaH;#}
-<div n="lb"/>(people) {#lokaH, janAH, prajAH, janatA, janaH,#}
-<div n="lb"/>{#lokaH, deSajanaH-lokaH, deSavAsinaH#}. {@-al,@} {%a.%}
-<div n="lb"/>{#deSIya, dESika#} ({#kI#} {%f.%}), {#deSya, rAzwrIya,#}
-<div n="lb"/>{#deSa#} in comp.; ‘n. custom’ {#deSAcAraH;#}
-<div n="lb"/>‘n. law’ {#deSaDarmaH;#} ‘n. calamity’ {#u-#}
-<div n="lb"/>{#-tpAtaH, janapadodDvaMsaH#}. {@2@} {#deSABimAnin#}. {@3@}
-<div n="lb"/>{#sAmAnya, sADAraRa#} ({#RI#} {%f.%}), {#sarvajanIna;#} {%See%}
-<div n="lb"/>{@General. -ality,@} {%s.%} {#svadeSABimAnaH#}. {@2@}
-<div n="lb"/>{#deSIyatA, deSodBavatA#}. {@-ally,@} {%adv.%} {#sAmA-#}
-<div n="lb"/>{#-nyataH, jAtitaH#}.
+(people) {#lokaH, janAH, prajAH, janatA, janaH,#}
+{#lokaH, deSajanaH-lokaH, deSavAsinaH#}. {@-al,@} {%a.%}
+{#deSIya, dESika#} ({#kI#} {%f.%}), {#deSya, rAzwrIya,#}
+{#deSa#} in comp.; ‘n. custom’ {#deSAcAraH;#}
+‘n. law’ {#deSaDarmaH;#} ‘n. calamity’ {#u-#}
+{#-tpAtaH, janapadodDvaMsaH#}. {@2@} {#deSABimAnin#}. {@3@}
+{#sAmAnya, sADAraRa#} ({#RI#} {%f.%}), {#sarvajanIna;#} {%See%}
+{@General. -ality,@} {%s.%} {#svadeSABimAnaH#}. {@2@}
+{#deSIyatA, deSodBavatA#}. {@-ally,@} {%adv.%} {#sAmA-#}
+{#-nyataH, jAtitaH#}.
 <LEND>

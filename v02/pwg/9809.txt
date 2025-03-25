@@ -1,8 +1,8 @@
 <L>9809<pc>1-0741<k1>AstAva<k2>AstAva/
-{#AstAva/#}¦ (von {#stu#} mit {#A#}) <lex>m.</lex> {%Ort der Recitation eines bestimmten Preisliedes%} ({#stotra#}) 
-<ls>TS. 3, 2, 4, 1.</ls> 
-<ls>ŚAT. BR. 2, 2, 4, 11.</ls> {#stute bahizpavamAne 'SvamAstAvamAkramayanti#} 
-<ls>13, 5, 1, 16.</ls> <ls>KĀTY. ŚR. 20, 5, 7.</ls> {#tatrodgAtFnAstAve stozyamARAnupopaviveSa#} 
-<ls>CHĀND. UP. 1, 10, 8.</ls> 
-<ls>ĀŚV. ŚR. 10, 8.</ls>
+{#AstAva/#}¦ (von {#stu#} mit {#A#}) <lex>m.</lex> {%Ort der Recitation eines bestimmten Preisliedes%} ({#stotra#})
+<ls>TS. 3,2,4,1.</ls>
+<ls>ŚAT. BR. 2,2,4,11.</ls> {#stute bahizpavamAne 'SvamAstAvamAkramayanti#}
+<ls n="ŚAT. BR.">13,5,1,16.</ls> <ls>KĀTY. ŚR. 20,5,7.</ls> {#tatrodgAtFnAstAve stozyamARAnupopaviveSa#}
+<ls>CHĀND. UP. 1,10,8.</ls>
+<ls>ĀŚV. ŚR. 10,8.</ls>
 <LEND>

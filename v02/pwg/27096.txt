@@ -1,97 +1,87 @@
 <L>27096<pc>3-0066<k1>jalp<k2>jalp
-{#jalp#}¦, {#ja/lpati#} (ep. auch med.) 
-<ls>DHĀTUP. 11, 4.</ls> {#anujalpire, aBi°#} . 
-<div n="1"> 1) {%halbverständlich reden, murren%}: {#sa ADyA jalpankurukzetraM samayA cacAra#} 
-<ls>ŚAT. BR. 11, 5, 1, 4.</ls> {%reden, sprechen%}: {#pramAdAdiva jalpaTa#} 
-<ls>MBH. 2, 859.</ls> {#jajalpeva tadA laNkA#} 
-<ls>R. 5, 10, 3.</ls> {#hasato jalpato vA dantamAMsaM pradfSyate#} 
-<ls>SUŚR. 1, 125, 9.</ls> {#hasate jalpate vErI ekapAtre ca BuYjate#} 
-<ls>HARIV. 1173.</ls> {#hA hA muzwo 'smIti jalpan#} 
-<ls>PAÑCAT. 35, 10. 187, 11.</ls> 
-<ls>BHĀG. P. 9, 10, 23.</ls> 
-<ls>ŚUK. 40, 13. 45, 5.</ls> {#sakfjjalpanti rAjAnaH sakfjjalpanti sADavaH#} 
-<ls>VET. 34, 10.</ls> {#sarpatsu taruzu jalpatsu vApi janasaMkzayo vinirdizwaH#} 
-<ls>VARĀH. BṚH. S. 45, 30. 73, 15.</ls> {#daMpatyorniSi jalpatoH#} 
-<ls>AMAR. 13.</ls> {#parasparaM jalpantO#} 
-<ls>PAÑCAT. 134, 20. 142, 4.</ls> {#jalpanti sArDamanyena#} 
-<ls>BHARTṚ. 1, 81.</ls> {#ekena - jalpantyanalpAkzaram#} 
-<ls>PAÑCAT. I, 152.</ls> {#SrUyatAM tAvadvacanaM mama jalpataH#} 
-<ls>R. 3, 40, 1.</ls> {#tezAm - tAni vAkyAni jalpatAm#} 
-<ls>MBH. 1, 5663.</ls> {#na ca jalpanti durvacaH#} 
-<ls>7, 6399.</ls> {#paruzARyapi jalpanto vaDyA dUtA na BUBujA#} 
-<ls>PAÑCAT. III, 86.</ls> <ls>HIT. III, 63.</ls> {#jalpante maDurA vAcaH#} 
-<ls>HARIV. 11882.</ls> {#madyapAH kiM na jalpanti#} 
-<ls>VET. 26, 20.</ls> {#satyametat yattvayA jalpitam#} 
-<ls>PAÑCAT. 27,8.  208, 25.</ls> 
-<ls>AK. 3, 2, 57.</ls>
+{#jalp#}¦, {#ja/lpati#} (ep. auch med.)
+<ls>DHĀTUP. 11,4.</ls> {#anujalpire, aBi°#} .
+<div n="1"> 1) {%halbverständlich reden, murren%}: {#sa ADyA jalpankurukzetraM samayA cacAra#}
+<ls>ŚAT. BR. 11,5,1,4.</ls> {%reden, sprechen%}: {#pramAdAdiva jalpaTa#}
+<ls>MBH. 2,859.</ls> {#jajalpeva tadA laNkA#}
+<ls>R. 5,10,3.</ls> {#hasato jalpato vA dantamAMsaM pradfSyate#}
+<ls>SUŚR. 1,125,9.</ls> {#hasate jalpate vErI ekapAtre ca BuYjate#}
+<ls>HARIV. 1173.</ls> {#hA hA muzwo 'smIti jalpan#}
+<ls>PAÑCAT. 35,10.</ls> <ls n="PAÑCAT.">187,11.</ls>
+<ls>BHĀG. P. 9,10,23.</ls>
+<ls>ŚUK. 40,13. 45,5.</ls> {#sakfjjalpanti rAjAnaH sakfjjalpanti sADavaH#}
+<ls>VET. 34,10.</ls> {#sarpatsu taruzu jalpatsu vApi janasaMkzayo vinirdizwaH#}
+<ls>VARĀH. BṚH. S. 45,30. 73,15.</ls> {#daMpatyorniSi jalpatoH#}
+<ls>AMAR. 13.</ls> {#parasparaM jalpantO#}
+<ls>PAÑCAT. 134,20.</ls> <ls n="PAÑCAT.">142,4.</ls> {#jalpanti sArDamanyena#}
+<ls>BHARTṚ. 1,81.</ls> {#ekena — jalpantyanalpAkzaram#}
+<ls>PAÑCAT. I,152.</ls> {#SrUyatAM tAvadvacanaM mama jalpataH#}
+<ls>R. 3,40,1.</ls> {#tezAm — tAni vAkyAni jalpatAm#}
+<ls>MBH. 1,5663.</ls> {#na ca jalpanti durvacaH#}
+<ls n="MBH.">7,6399.</ls> {#paruzARyapi jalpanto vaDyA dUtA na BUBujA#}
+<ls>PAÑCAT. III,86.</ls> <ls>HIT. III,63.</ls> {#jalpante maDurA vAcaH#}
+<ls>HARIV. 11882.</ls> {#madyapAH kiM na jalpanti#}
+<ls>VET. 26,20.</ls> {#satyametat yattvayA jalpitam#}
+<ls>PAÑCAT. 27,8. 208,25.</ls>
+<ls>AK. 3,2,57.</ls>
 [Page3-0067]
-{%Jmd%} (acc.) {%anreden, mit Jmd sprechen%}: {#tvaM ca - mAdfSAM na saMBAzaRArhaH . paraM tvatiTitvAjjalpitaH#} 
-<ls>ŚUK. 41, 18.</ls> {%von Jmd%} (acc.) {%sprechen%}: {#ityajalpan - kIcakam#} 
-<ls>MBH. 4, 864.</ls> {#jalpita#} <lex>n.</lex> {%Gerede, gesprochene Worte%} 
-<ls>P. 3, 3, 114,</ls> 
-<ls>Sch.</ls> 
-<ls>H. ś. 80.</ls> <ls>MBH.</ls> in <ls>BENF. Chr. 45, 14.</ls> <ls>R. 5, 10, 3.</ls> <ls>VARĀH. BṚH. S. 96, 6.</ls> <ls>BHAṬṬ. 8, 125.</ls> {#miTyAjalpitametat#} 
-<ls>PAÑCAT. 133, 5.</ls> 
-<div n="1">— 2) = {#arcati#} 
-<ls>NAIGH. 3, 14.</ls> — caus. {#jalpayati#} {%Jmd reden lassen%} 
-<ls>P. 1, 4, 52</ls>, <is>Vārtt</is>. 3. 
+{%Jmd%} (acc.) {%anreden, mit Jmd sprechen%}: {#tvaM ca — mAdfSAM na saMBAzaRArhaH . paraM tvatiTitvAjjalpitaH#}
+<ls>ŚUK. 41,18.</ls> {%von Jmd%} (acc.) {%sprechen%}: {#ityajalpan — kIcakam#}
+<ls>MBH. 4,864.</ls> {#jalpita#} <lex>n.</lex> {%Gerede, gesprochene Worte%}
+<ls>P. 3,3,114</ls>, <ls>Sch.</ls>
+<ls>H. ś. 80.</ls> <ls>MBH.</ls> in <ls>BENF. Chr. 45,14.</ls> <ls>R. 5,10,3.</ls> <ls>VARĀH. BṚH. S. 96,6.</ls> <ls>BHAṬṬ. 8,125.</ls> {#miTyAjalpitametat#}
+<ls>PAÑCAT. 133,5.</ls>
+<div n="1">— 2) = {#arcati#}
+<ls>NAIGH. 3,14.</ls> — caus. {#jalpayati#} {%Jmd reden lassen%}
+<ls>P. 1,4,52</ls>, <is>Vārtt</is>. 3.
 <div n="v">— Vgl. {#jap#} und {#lap#} .
-
-<div n="p">— {#vyati#} act. {%mit einander plaudern%} 
-<ls>P. 1, 3, 15</ls>, <is>Vārtt</is>. 
-<ls>?1, Sch. VOP. 23, 55. 56.</ls>
-
-<div n="p">— {#anu#} {%hinterher reden%}: {#jalpantyAmanujalpati#} 
-<ls>BHĀG. P. 4, 25, 58.</ls> {#anyo'nyamanujalpire#} {%sprachen zu einander%} 
+<div n="p">— {#vyati#} act. {%mit einander plaudern%}
+<ls>P. 1,3,15</ls>, <is>Vārtt</is>.
+<ls n="P. 1,3,">1</ls>, Sch. <ls>VOP. 23,55.</ls> <ls n="VOP. 23,">56.</ls>
+<div n="p">— {#anu#} {%hinterher reden%}: {#jalpantyAmanujalpati#}
+<ls>BHĀG. P. 4,25,58.</ls> {#anyo'nyamanujalpire#} {%sprachen zu einander%}
 <ls>HARIV. 12161.</ls>
-
-<div n="p">— {#aBi#} 
-<div n="1"> 1) {%die Rede an Jmd richten%}: {#vivakzuM samanuprAptaM kiM ca mAM nABijalpaTaH#} 
-<ls>R. 4, 2, 16.</ls> {#anyo 'nyamaBijalpantaH SanEScakruH pfTakkaTAH#} 
-<ls>3, 1, 3.</ls> {#te 'nyo 'nyamaBijalpire#} 
-<ls>HARIV. 16283.</ls> {%Jmd erwiedern%}: {#ye kzantAro nABijalpanti cAnyAn#} 
-<ls>MBH. 13, 4873.</ls> 
-<div n="1">— 2) {%Etwas mit einer Anrede begleiten%}: {#dAnameva hi sarvatra sAntvenAnaBijalpitam . na prIRayati BUtAni nirvyaYjanamivASanam ..#} 
-<ls>MBH. 12, 3189.</ls> 
-<div n="1">— 3) {%einer Sache%} (acc.) {%das Wort reden, zu Etwas rathen%}: {#(keSavam) hitArTamaBijalpantam#} 
-<ls>MBH. 7, 3033.</ls> {#nAstikyamaBijalpasi#} 
-<ls>12, 358.</ls> 
-<div n="1">— 4) {%Etwas mit Jmd besprechen, festsetzen%}: {#tamarTamaBijalpantyAH kfzRAyAH kIcakena#} 
-<ls>MBH. 4, 711.</ls>
-
-<div n="p">— {#upa#}, {#upajalpita#} <lex>n.</lex> {%Gerede%} 
-<ls>R. 2, 60, 14.</ls> 
+<div n="p">— {#aBi#}
+<div n="1"> 1) {%die Rede an Jmd richten%}: {#vivakzuM samanuprAptaM kiM ca mAM nABijalpaTaH#}
+<ls>R. 4,2,16.</ls> {#anyo 'nyamaBijalpantaH SanEScakruH pfTakkaTAH#}
+<ls n="R.">3,1,3.</ls> {#te 'nyo 'nyamaBijalpire#}
+<ls>HARIV. 16283.</ls> {%Jmd erwiedern%}: {#ye kzantAro nABijalpanti cAnyAn#}
+<ls>MBH. 13,4873.</ls>
+<div n="1">— 2) {%Etwas mit einer Anrede begleiten%}: {#dAnameva hi sarvatra sAntvenAnaBijalpitam . na prIRayati BUtAni nirvyaYjanamivASanam ..#}
+<ls>MBH. 12,3189.</ls>
+<div n="1">— 3) {%einer Sache%} (acc.) {%das Wort reden, zu Etwas rathen%}: {#(keSavam) hitArTamaBijalpantam#}
+<ls>MBH. 7,3033.</ls> {#nAstikyamaBijalpasi#}
+<ls n="MBH.">12,358.</ls>
+<div n="1">— 4) {%Etwas mit Jmd besprechen, festsetzen%}: {#tamarTamaBijalpantyAH kfzRAyAH kIcakena#}
+<ls>MBH. 4,711.</ls>
+<div n="p">— {#upa#}, {#upajalpita#} <lex>n.</lex> {%Gerede%}
+<ls>R. 2,60,14.</ls>
 <div n="v">— Vgl. {#upajalpin#} .
-
-<div n="p">— {#pari#} {%schwatzen%}: {#apyunmattAtpralapato bAlAcca parijalpataH#} 
-<ls>MBH. 5, 1125.</ls> {%über Etwas sprechen%}: {#yaccAnyatparijalpaTa#} 
+<div n="p">— {#pari#} {%schwatzen%}: {#apyunmattAtpralapato bAlAcca parijalpataH#}
+<ls>MBH. 5,1125.</ls> {%über Etwas sprechen%}: {#yaccAnyatparijalpaTa#}
 <ls>HARIV. 11301.</ls>
-
-<div n="p">— {#pra#} {%sprechen%}: {#catuzpAdakfto dozo nApEhIti prajalpataH#} 
-<ls>YĀJÑ. 2, 298.</ls> {#tatkimevaM prajalpasi#} 
-<ls>PAÑCAT. IV, 21.</ls> {#nASaNkate prajalpantI#} 
-<ls>I, 437.</ls> {#tadupaSrutya - KecarARAM prajalpatAm#} 
-<ls>BHĀG. P. 4, 3, 5.</ls> {#dvO puruzO - parasparaM prajalpantAvaSfRot#} 
-<ls>PAÑCAT. 134, 6.</ls> {#tatkiM miTyA paruzARi vacanAni prajalpasi#} 
-<ls>164, 13.</ls> {#sevA SvavfttirAKyAtA yEstErmiTyA prajalpitam#} 
-<ls>I, 300.</ls> {%mitheilen, verkünden%}: {#nemaM DarmaM yatra tatra prajalpet#} 
-<ls>MBH. 13, 3686.</ls> {#prajalpita#} {%der zu sprechen begonnen hat%}: {#svareRa tasyAmamftasruteva prajalpitAyAm#} 
-<ls>KUMĀRAS. 1, 46.</ls> <lex>n.</lex> {%Gerede, gesprochene Worte%} 
-<ls>HIḌ. 1, 22.</ls>
-
-<div n="p">— {#prati#} {%antworten, erwiedern%}: {#sItAmapratijalpatIm#} 
-<ls>R. 6, 98, 12.</ls> {#kiM mAM na pratijalpaTaH#} 
-<ls>3, 75, 2.</ls> {#na cEvoktA na vAnuktA hInato paruzA giraH . BArata pratijalpanti sadA tUttamapUruzAH ..#} 
-<ls>MBH. 2, 2423.</ls>
-
-<div n="p">— {#vi#} {%aussprechen%}: {#parihAsavijalpitaM saKe paramArTena na gfhyatAM vacaH#} 
+<div n="p">— {#pra#} {%sprechen%}: {#catuzpAdakfto dozo nApEhIti prajalpataH#}
+<ls>YĀJÑ. 2,298.</ls> {#tatkimevaM prajalpasi#}
+<ls>PAÑCAT. IV,21.</ls> {#nASaNkate prajalpantI#}
+<ls n="PAÑCAT.">I,437.</ls> {#tadupaSrutya — KecarARAM prajalpatAm#}
+<ls>BHĀG. P. 4,3,5.</ls> {#dvO puruzO — parasparaM prajalpantAvaSfRot#}
+<ls>PAÑCAT. 134,6.</ls> {#tatkiM miTyA paruzARi vacanAni prajalpasi#}
+<ls n="PAÑCAT.">164,13.</ls> {#sevA SvavfttirAKyAtA yEstErmiTyA prajalpitam#}
+<ls n="PAÑCAT.">I,300.</ls> {%mitheilen, verkünden%}: {#nemaM DarmaM yatra tatra prajalpet#}
+<ls>MBH. 13,3686.</ls> {#prajalpita#} {%der zu sprechen begonnen hat%}: {#svareRa tasyAmamftasruteva prajalpitAyAm#}
+<ls>KUMĀRAS. 1,46.</ls> <lex>n.</lex> {%Gerede, gesprochene Worte%}
+<ls>HIḌ. 1,22.</ls>
+<div n="p">— {#prati#} {%antworten, erwiedern%}: {#sItAmapratijalpatIm#}
+<ls>R. 6,98,12.</ls> {#kiM mAM na pratijalpaTaH#}
+<ls n="R.">3,75,2.</ls> {#na cEvoktA na vAnuktA hInato paruzA giraH . BArata pratijalpanti sadA tUttamapUruzAH ..#}
+<ls>MBH. 2,2423.</ls>
+<div n="p">— {#vi#} {%aussprechen%}: {#parihAsavijalpitaM saKe paramArTena na gfhyatAM vacaH#}
 <ls>ŚĀK. 51.</ls>
-
-<div n="p">— {#sam#} {%reden, sprechen%}: {#saMgatA munayaH sarve saMjajalpuraTo miTaH#} 
-<ls>R. 1, 74, 20.</ls> {#taTA saMjalpatastasya - vAcaH SuSrAva#} 
-<ls>MBH. 1, 5973.</ls> 
-<ls>R. 5, 89, 21.</ls> {#saMjalpantI sumaDuram#} 
-<ls>MBH. 1, 6064.</ls> {#iti saMjalpamAnAnAM SfRvantO pfTagIritam#} 
-<ls>HARIV. 6330.</ls> {#saMjalpita#} <lex>n.</lex> {%Gerede, gesprochene Worte%} 
-<ls>BHĀG. P. 1, 15, 18.</ls> pl. <ls>4, 8, 24.</ls>
+<div n="p">— {#sam#} {%reden, sprechen%}: {#saMgatA munayaH sarve saMjajalpuraTo miTaH#}
+<ls>R. 1,74,20.</ls> {#taTA saMjalpatastasya — vAcaH SuSrAva#}
+<ls>MBH. 1,5973.</ls>
+<ls>R. 5,89,21.</ls> {#saMjalpantI sumaDuram#}
+<ls>MBH. 1,6064.</ls> {#iti saMjalpamAnAnAM SfRvantO pfTagIritam#}
+<ls>HARIV. 6330.</ls> {#saMjalpita#} <lex>n.</lex> {%Gerede, gesprochene Worte%}
+<ls>BHĀG. P. 1,15,18.</ls> pl. <ls n="BHĀG. P.">4,8,24.</ls>
 <LEND>

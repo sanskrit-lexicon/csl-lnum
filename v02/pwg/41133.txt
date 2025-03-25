@@ -1,14 +1,14 @@
 <L>41133<pc>4-0338<k1>nyuNKa<k2>nyuNKa
-{#nyuNKa#}¦ <lex>m.</lex> 
-<ls>AK. 3, 6, 2, 17.</ls> 
-<div n="1"> 1) = {#sAman#} 
-<ls>TRIK. 3, 3, 50.</ls> = {#sAmaviSezasya zaqoMkArI#} 
-<ls>H. an. 2, 22.</ls> = {#sAmnaH zawpraRavAH#} 
-<ls>MED. kh. 2</ls>; vgl. {#nyUNKa#} . 
-<div n="1">— 2) = {#sagyak#} 
-<ls>MED.</ls> 
-<div n="1">— 3) = {#manojYa#} 
-<ls>TRIK. 3, 1, 13. 3, 50.</ls> 
-<ls>H. an.</ls> 
+{#nyuNKa#}¦ <lex>m.</lex>
+<ls>AK. 3,6,2,17.</ls>
+<div n="1"> 1) = {#sAman#}
+<ls>TRIK. 3,3,50.</ls> = {#sAmaviSezasya zaqoMkArI#}
+<ls>H. an. 2,22.</ls> = {#sAmnaH zawpraRavAH#}
+<ls>MED. kh. 2</ls>; vgl. {#nyUNKa#} .
+<div n="1">— 2) = {#sagyak#}
+<ls>MED.</ls>
+<div n="1">— 3) = {#manojYa#}
+<ls>TRIK. 3,1,13.</ls> <ls n="TRIK. 3,">3,50.</ls>
+<ls>H. an.</ls>
 <ls>MED.</ls>
 <LEND>

@@ -1,32 +1,3 @@
-<L>2648<pc>092,1<k1>Attamana<k2>Attamana(s
-{@āttamana(s)@}¦, adj. (= Pali attamana(s), which is also,
-<div n="lb">but less often, represented by {@āptamana(s)@}, q.v., on which
-<div n="lb">cf. CPD s.v. attamanas, which fails to note occurrence
-<div n="lb">of āpta° in BHS), {%glad at heart, delighted%}; esp. in certain
-<div n="lb">formulas; applied to the audience at the end of a discourse
-<div n="lb">by Buddha, e.g. Mv i.61.8 idam avocad bhagavān, ātta-
-<div n="lb">mano (n. sg. m.) āyuṣmān Mahāmaudgalyāyano bhagavato
-<div n="lb">bhāṣitam abhyanandat; Divy 197.26 idam avocad bha-
-<div n="lb">gavān, āttamanasas te bhikṣavo 'bhyanandan; often in
-<div n="lb">a series of synonyms, as tuṣṭa udagra āttamanāḥ pra-
-<div n="lb">muditaḥ prītisaumanasyajātaḥ Gv 99.15; Suv 9.7--8;
-<div n="lb">plurals of the same words SP 209.9--10; and variations,
-<div n="lb">as hṛṣṭā tuṣṭā āttamanā (n. pl. m.) pramudita-prītisau-
-<div n="lb">manasyajātā Mv i.230.20; more briefly, tuṣṭo āttamano
-<div n="lb">abhūt Mv ii.195.10; tuṣṭo āttamanā (n. sg. m.) imaṃ
-<div n="lb">udānam udānaye (aor.) i.351.13; dātāraṃ ca dṛṣṭvā ātta-
-<div n="lb">manā bhavati sumanaskaḥ Bbh 4.24; sattvā āttama-
-<div n="lb">naso 'bhūvan RP 37.8--9; Indra āttamanā (n. sg. m.)
-<div n="lb">tasyāṃ velāyāṃ…Divy 195.24; dṛṣṭvā ca bhavati (bhoti)
-<div n="lb">āttamanā (n. sg. f.) Mv i.213.13 = ii.16.16; doubled
-<div n="lb">(intensive āmreḍita), sā 'ttamanāttamanā(ḥ) {%she, greatly%}
-<div n="lb">{%delighted%}, Divy 2.8; Av i.14.11; so 'py āttamanāttamanā(ḥ)
-<div n="lb">Divy 2.11; Av i.14.13; similarly Divy 440.24; neg. an-
-<div n="lb">āttamanā(ḥ) Karmav 22.10 (follows atiśayitaroṣaś caṇḍī-
-<div n="lb">bhūto). Once printed {@attamanas@}, q.v. This word is to
-<div n="lb">be analyzed as a cpd. of Skt. ātta, ppp. of ā-dā, with
-<div n="lb">manas. The alternant {@āptamanas@} is analyzable as āpta,
-<div n="lb">ppp. of āp (cf. {@manaāpa, manāpa@}) plus manas. Pali
-<div n="lb">attamana(s) could represent both; both may be Sktizations
-<div n="lb">of that MIndic form.
+<L>2648<pc>092,1<k1>Attamana<k2>Attamana(s)
+{@āttamana(s)@}¦, <lex>adj.</lex> (= <lang>Pali</lang> attamana(s), which is also, but less often, represented by {@āptamana(s)@}, <ab>q.v.</ab>, on which <ab>cf.</ab> <ls>CPD</ls> <ab>s.v.</ab> attamanas, which fails to note occurrence of āpta° in <lang>BHS</lang>), {%glad at heart, delighted%}; <ab>esp.</ab> in certain formulas; applied to the audience at the end of a discourse by Buddha, <ab>e.g.</ab> <ls>Mv</ls> 〔i.61.8〕 idam avocad bhagavān, āttamano (<ab>n. sg.</ab> <lex>m.</lex>) āyuṣmān Mahāmaudgalyāyano bhagavato bhāṣitam abhyanandat; <ls>Divy</ls> 〔197.26〕 idam avocad bhagavān, āttamanasas te bhikṣavo 'bhyanandan; often in a series of synonyms, as tuṣṭa udagra āttamanāḥ pramuditaḥ prītisaumanasyajātaḥ <ls>Gv</ls> 〔99.15〕; <ls>Suv</ls> 〔9.7—8〕; plurals of the same words <ls>SP</ls> 〔209.9—10〕; and variations, as hṛṣṭā tuṣṭā āttamanā (<ab>n. pl.</ab> <lex>m.</lex>) pramudita-prītisaumanasyajātā <ls>Mv</ls> 〔i.230.20〕; more briefly, tuṣṭo āttamano abhūt <ls>Mv</ls> 〔ii.195.10〕; tuṣṭo āttamanā (<ab>n. sg.</ab> <lex>m.</lex>) imaṃ udānam udānaye (<lex>aor.</lex>) 〔i.351.13〕; dātāraṃ ca dṛṣṭvā āttamanā bhavati sumanaskaḥ <ls>Bbh</ls> 〔4.24〕; sattvā āttamanaso 'bhūvan <ls>RP</ls> 〔37.8—9〕; Indra āttamanā (<ab>n. sg.</ab> <lex>m.</lex>) tasyāṃ velāyāṃ … <ls>Divy</ls> 〔195.24〕; dṛṣṭvā ca bhavati (bhoti) āttamanā (<ab>n. sg.</ab> <lex>f.</lex>) <ls>Mv</ls> 〔i.213.13〕 = 〔ii.16.16〕; doubled (intensive āmreḍita), sā 'ttamanāttamanā(ḥ) {%she, greatly delighted%}, <ls>Divy</ls> 〔2.8〕; <ls>Av</ls> 〔i.14.11〕; so 'py āttamanāttamanā(ḥ) <ls>Divy</ls> 〔2.11〕; <ls>Av</ls> 〔i.14.13〕; similarly <ls>Divy</ls> 〔440.24〕; <ab>neg.</ab> anāttamanā(ḥ) <ls>Karmav</ls> 〔22.10〕 (follows atiśayitaroṣaś caṇḍībhūto). Once printed {@attamanas@}, <ab>q.v.</ab> This word is to be analyzed as a <ab>cpd.</ab> of <lang>Skt.</lang> ātta, <lex>ppp.</lex> of ā-dā, with manas. The alternant {@āptamanas@} is analyzable as āpta, <lex>ppp.</lex> of āp (<ab>cf.</ab> {@manaāpa, manāpa@}) plus manas. <lang>Pali</lang> attamana(s) could represent both; both may be <ab>Sktization</ab>s of that <lang>MIndic</lang> form.
 <LEND>

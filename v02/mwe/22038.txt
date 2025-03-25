@@ -1,15 +1,15 @@
 <L>22038<pc>582-a<k1>people<k2>people
-<div n="lb"/>PEOPLE¦, {%s.%} (Body of persons who compose a nation, &c.)
-<div n="lb"/>{#janatA, deSajanAH#} {%m. pl.,%} {#deSalokaH, deSavAsinaH#} {%m. pl.,%} {#prajA, prajAH#} {%f. pl.,%}
-<div n="lb"/>{#lokaH, janapadaH, viSezadeSalokaH, viSezadeSajanatA, deSamanuzyAH#} {%m. pl.%}
-<div n="lb"/> — (Commonalty) {#prajA, lokaH, janaH, janapadaH, jagatI;#} ‘courting
-<div n="lb"/>the people,’ {#lokaraYjanaM, janaraYjanaM;#} ‘fear of the people,’ {#loka-#}
-<div n="lb"/>{#lajjA, janalajjA#}. — (Common people) {#avaralokaH, avaravarRAH#} {%m. pl.,%}
-<div n="lb"/>{#antyavarRAH#} {%m. pl.,%} {#antyajAtIyAH#} {%m. pl.,%} {#aDamalokaH, hInalokaH,#}
-<div n="lb"/>{#pfTagjanAH#} {%m. pl.,%} {#sAmAnyalokaH, prAkftalokaH, sADAraRalokaH#}. — (Folk)
-<div n="lb"/>{#lokaH, janaH, manuzyaH, janapadaH, manuzyajAtiH#} {%f.,%} {#nfjAtiH#} {%f.,%} {#jagatI#}. — 
-<div n="lb"/>(Particular class) {#vargaH, varRaH, gaRaH, janaH, lokaH;#} ‘country
-<div n="lb"/>people,’ {#grAmIyalokaH;#} ‘people of the brahminical class,’
-<div n="lb"/>{#brAhmaRavargaH;#} ‘of the servile class,’ {#SUdravargaH, SUdravarRaH, SUdralokaH#}.
-<div n="lb"/> — (Servants, attendants) {#sevakajanaH, sevakavargaH, parijanaH, parivAraH#}.
+PEOPLE¦, {%s.%} (Body of persons who compose a nation, &c.)
+{#janatA, deSajanAH#} {%m. pl.,%} {#deSalokaH, deSavAsinaH#} {%m. pl.,%} {#prajA, prajAH#} {%f. pl.,%}
+{#lokaH, janapadaH, viSezadeSalokaH, viSezadeSajanatA, deSamanuzyAH#} {%m. pl.%}
+ — (Commonalty) {#prajA, lokaH, janaH, janapadaH, jagatI;#} ‘courting
+the people,’ {#lokaraYjanaM, janaraYjanaM;#} ‘fear of the people,’ {#loka-#}
+{#lajjA, janalajjA#}. — (Common people) {#avaralokaH, avaravarRAH#} {%m. pl.,%}
+{#antyavarRAH#} {%m. pl.,%} {#antyajAtIyAH#} {%m. pl.,%} {#aDamalokaH, hInalokaH,#}
+{#pfTagjanAH#} {%m. pl.,%} {#sAmAnyalokaH, prAkftalokaH, sADAraRalokaH#}. — (Folk)
+{#lokaH, janaH, manuzyaH, janapadaH, manuzyajAtiH#} {%f.,%} {#nfjAtiH#} {%f.,%} {#jagatI#}. — 
+(Particular class) {#vargaH, varRaH, gaRaH, janaH, lokaH;#} ‘country
+people,’ {#grAmIyalokaH;#} ‘people of the brahminical class,’
+{#brAhmaRavargaH;#} ‘of the servile class,’ {#SUdravargaH, SUdravarRaH, SUdralokaH#}.
+ — (Servants, attendants) {#sevakajanaH, sevakavargaH, parijanaH, parivAraH#}.
 <LEND>

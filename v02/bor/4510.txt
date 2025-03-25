@@ -1,5 +1,5 @@
 <L>4510<pc>146<k1>consolatory<k2>consolatory
-<div n="lb"/>{@CONSOLATORY:@}¦ <div n="I">I Adj.: {#ASvAsakaH#} ({#sikA, sakaM#});</div>
-<div n="lb"/><div n="1">(2) {#SokApanodananipuRaH#} ({#RA, RaM#}), K. </div><div n="I">II Subs.:
-<div n="lb"/>{#sAntvanam, upa-,#} <div n="xe">{%with mild c. s:%}</div> <div n="xs">{#mfduBirupasAntvanEH,#}</div> K.</div>
+{@CONSOLATORY:@}¦ <div n="I">I Adj.: {#ASvAsakaH#} ({#sikA, sakaM#});</div>
+<div n="1">(2) {#SokApanodananipuRaH#} ({#RA, RaM#}), K. </div><div n="I">II Subs.:
+{#sAntvanam, upa-,#} <div n="xe">{%with mild c. s:%}</div> <div n="xs">{#mfduBirupasAntvanEH,#}</div> K.</div>
 <LEND>

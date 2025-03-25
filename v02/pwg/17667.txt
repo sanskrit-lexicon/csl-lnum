@@ -1,73 +1,72 @@
 <L>17667<pc>2-0323<k1>kutas<k2>ku/tas
-{#ku/tas#}¦ (von 1. {#ku#}) adv. 
-<ls>P. 5, 3, 7. 8.</ls> 
-<ls>VOP. 7, 110.</ls> 
-<div n="1"> 1) = {#kasmAt#}, abl. des pron. interr. {#kaH de\vaM mana\H kuto\ aDi\ prajA^tam#} 
-<ls>ṚV. 1, 164, 18.</ls> {#kuto 'Di^ bfha\tI mi\tA#} 
-<ls>AV. 8, 9, 4.</ls> {#kuto labDamidamABaraRam#} 
-<ls>VET. 13, 14.</ls> {#kutaH kAlAtsamutpannam#} 
-<ls>VP.</ls> in <ls>Z. d. d. m. G. 6, 93.</ls> 
-<div n="1">— 2) {%woher? von wo?%} {#kuta\ etA^sa e\te#} 
-<ls>ṚV. 1, 165, 1.</ls> <ls n="ṚV. 1, 165,">3.</ls> {#kuta^ i\yaM visf^zwiH#} 
-<ls n="ṚV.">10, 129, 6.</ls> <ls>AV. 8, 9, 1. 10, 2, 10. 14. 11, 8, 8. 12.</ls> <ls>ŚAT. BR. 14, 5, 1, 16. 8, 15, 9.</ls> {#kutaH sma jAtAH#} 
-<ls>ŚVETĀŚV. UP. 1, 1.</ls> {#kutastvamasi saMprAptaH#} 
-<ls>HIḌ. 2, 24. 4, 27.</ls> {#aTa yo 'sO tftIyo vaH sa kutaH kasya vA punaH#} 
-<ls>N. 22, 10.</ls> 
-<ls>HIT. 40. 21.</ls> 
-<div n="1">— 3) {%wohin?%} {#kramato gAM padEkena dvitIyena divaM viBoH . KaM ca kAyena mahatA tArtIyasya kuto gatiH ..#} 
-<ls>BHĀG. P. 8, 19, 34.</ls> 
-<div n="1">— 4) {%woher? warum? weswegen?%} {#kutaH paYcAhasya (aByAsaH syAt)#} 
-<ls>LĀṬY. 10, 4, 7.</ls> {#kuto vApi BayaM yuzmAkam#} 
-<ls>R. 1, 14, 36.</ls> {#kutaH kalyARavfttAyA jAtAyA vipule kule . cApalyaM tAta vEdehyAstapasvizu viSezataH ..#} 
-<ls>3, 1, 12.</ls> {#kuta idamucyate#} 
-<ls>ŚĀK. 71, 10.</ls> {#IdfgvinodaH kutaH#} 
-<ls>38. 21, 14.</ls> Häufig im Drama vor einem dist., welches eine vorangehende Aeusserung oder Ausdrucksweise begründet, 
-<ls>ŚĀK. 4, 17. 10, 7. 17, 15. 27, 18. 32, 6. 58, 5. 60, 19.</ls> 
-<div n="1">— 5) {%wie? auf welche Weise?%} {#kutastu Kalu somyEvaM syAditi hovAca kaTamasataH sajjAyeteti#} 
-<ls>CHĀND. UP. 6, 2, 2.</ls> {#kuta eva parityaktuM sutaM SakyAmyahaM svayam#} 
-<ls>BRĀHMAṆ. 1, 28.</ls> {#kutaH Sramo BartfsamIpato 'dya me#} 
-<ls>SĀV. 5, 28.</ls> 
-<ls>PAÑCAT. 119, 5. II, 87.</ls> <ls>HIT. Pr. 44. 10, 2. I, 136. 194.</ls> <ls>ŚĀK. 15. 111.</ls> <ls>VID. 58.</ls> <ls>VET. 29, 17.</ls> <ls>ŚUK. 40, 4.</ls> <ls>DHŪRTAS. 76, 12.</ls> 
-<div n="1">— 6) {%wie viel weniger, geschweige denn%}: {#na me steno janapade na kadaryo na madyapo nAnAhitAgnirnAvidvAnna svErI svEriRI kutaH#} 
-<ls>CHĀND. UP. 5, 11, 5.</ls> 
-<ls>MUṆḌ. UP. 2, 2, 10.</ls> 
-<ls>MBH. 3, 1126.</ls> 
-<ls>BHAG. 4, 31. 11, 43.</ls> 
-<ls>DRAUP. 5, 14.</ls> {#na - Sakya eza divyo mahAraTaH . drazwuM vApyaTa vA sprazwumAroQa\M kuta eva vA#} 
-<ls>INDR. 1, 17.</ls> 
-<ls>R. 1, 13, 11. 23, 11. 2, 48, 19. 3, 4,27,</ls>  
-<ls>DAŚ. 2, 24.</ls> 
-<ls>VIŚV. 12, 4.</ls> 
-<ls>BHARTṚ. 2, 91.</ls>
+{#ku/tas#}¦ (von 1. {#ku#}) adv.
+<ls>P. 5,3,7.</ls> <ls n="P. 5,3,">8.</ls>
+<ls>VOP. 7,110.</ls>
+<div n="1"> 1) = {#kasmAt#}, abl. des pron. interr. {#kaH de\vaM mana\H kuto\ aDi\ prajA^tam#}
+<ls>ṚV. 1,164,18.</ls> {#kuto 'Di^ bfha\tI mi\tA#}
+<ls>AV. 8,9,4.</ls> {#kuto labDamidamABaraRam#}
+<ls>VET. 13,14.</ls> {#kutaH kAlAtsamutpannam#}
+<ls>VP.</ls> in <ls>Z. d. d. m. G. 6,93.</ls>
+<div n="1">— 2) {%woher? von wo?%} {#kuta\ etA^sa e\te#}
+<ls>ṚV. 1,165,1.</ls> <ls n="ṚV. 1,165,">3.</ls> {#kuta^ i\yaM visf^zwiH#}
+<ls n="ṚV.">10,129,6.</ls> <ls>AV. 8,9,1.</ls> <ls n="AV.">10,2,10.</ls> <ls n="AV. 10,2,">14.</ls> <ls n="AV.">11,8,8.</ls> <ls n="AV. 11,8,">12.</ls> <ls>ŚAT. BR. 14,5,1,16. 8,15,9.</ls> {#kutaH sma jAtAH#}
+<ls>ŚVETĀŚV. UP. 1,1.</ls> {#kutastvamasi saMprAptaH#}
+<ls>HIḌ. 2,24. 4,27.</ls> {#aTa yo 'sO tftIyo vaH sa kutaH kasya vA punaH#}
+<ls>N. 22,10.</ls>
+<ls>HIT. 40. 21.</ls>
+<div n="1">— 3) {%wohin?%} {#kramato gAM padEkena dvitIyena divaM viBoH . KaM ca kAyena mahatA tArtIyasya kuto gatiH ..#}
+<ls>BHĀG. P. 8,19,34.</ls>
+<div n="1">— 4) {%woher? warum? weswegen?%} {#kutaH paYcAhasya (aByAsaH syAt)#}
+<ls>LĀṬY. 10,4,7.</ls> {#kuto vApi BayaM yuzmAkam#}
+<ls>R. 1,14,36.</ls> {#kutaH kalyARavfttAyA jAtAyA vipule kule . cApalyaM tAta vEdehyAstapasvizu viSezataH ..#}
+<ls n="R.">3,1,12.</ls> {#kuta idamucyate#}
+<ls>ŚĀK. 71,10.</ls> {#IdfgvinodaH kutaH#}
+<ls n="ŚĀK.">38. 21,14.</ls> Häufig im Drama vor einem dist., welches eine vorangehende Aeusserung oder Ausdrucksweise begründet,
+<ls>ŚĀK. 4,17. 10,7. 17,15. 27,18. 32,6. 58,5. 60,19.</ls>
+<div n="1">— 5) {%wie? auf welche Weise?%} {#kutastu Kalu somyEvaM syAditi hovAca kaTamasataH sajjAyeteti#}
+<ls>CHĀND. UP. 6,2,2.</ls> {#kuta eva parityaktuM sutaM SakyAmyahaM svayam#}
+<ls>BRĀHMAṆ. 1,28.</ls> {#kutaH Sramo BartfsamIpato 'dya me#}
+<ls>SĀV. 5,28.</ls>
+<ls>PAÑCAT. 119,5. II,87.</ls> <ls>HIT. Pr. 44. 10,2. I,136. 194.</ls> <ls>ŚĀK. 15. 111.</ls> <ls>VID. 58.</ls> <ls>VET. 29,17.</ls> <ls>ŚUK. 40,4.</ls> <ls>DHŪRTAS. 76,12.</ls>
+<div n="1">— 6) {%wie viel weniger, geschweige denn%}: {#na me steno janapade na kadaryo na madyapo nAnAhitAgnirnAvidvAnna svErI svEriRI kutaH#}
+<ls>CHĀND. UP. 5,11,5.</ls>
+<ls>MUṆḌ. UP. 2,2,10.</ls>
+<ls>MBH. 3,1126.</ls>
+<ls>BHAG. 4,31. 11,43.</ls>
+<ls>DRAUP. 5,14.</ls> {#na — Sakya eza divyo mahAraTaH . drazwuM vApyaTa vA sprazwumAroQa\M kuta eva vA#}
+<ls>INDR. 1,17.</ls>
+<ls>R. 1,13,11.</ls> <ls n="R. 1,">23,11.</ls> <ls n="R.">2,48,19.</ls> <ls n="R.">3,4,27</ls>,
+<ls>DAŚ. 2,24.</ls>
+<ls>VIŚV. 12,4.</ls>
+<ls>BHARTṚ. 2,91.</ls>
 [Page2-0324]
-
-<div n="1">— 7) in {#akutas#} {%von keiner Seite her%}, welches am Anf. einiger <lex>adj.</lex> compp. erscheint, ist {#kutas#} als indefin. aufzufassen. {#akutoBaya#} {%von keiner Seite her Furcht%} oder {%Gefahr sehend, von keiner Seite her Gefahr bietend%}: {#akutoBayaH suKenAste#} 
-<ls>PAÑCAT. 107, 2. I, 321.</ls> <ls>MBH. 4, 15.</ls> <ls>R. 4, 12, 13. 46, 5.</ls> {#panTAnamakutoBayam#} 
-<ls>2, 34, 31. 46, 21.</ls> {#yAsyatyadDAkutoBayam#} (subst.) 
-<ls>BHĀG. P. 1, 12, 28.</ls> {#akutomftyu#} {%von keiner Seite her den Tod fürchtend%} 
-<ls>3, 17, 19.</ls> Vgl. u. 8,b. 
-<div n="1">— 8) in Verbindung mit {#api, cid#} und {#cana#} als adv. indefin. 
-<div n="2"> a) mit {#apiH kuto 'pi kAraRAt#} {%aus irgend einem Grunde%} 
-<ls>PRAB. 4, 10.</ls> {#kuto 'pi DanikAtkiMciddravyamAdAya#} 
-<ls>PAÑCAT. 229, 21.</ls> {#tezAM maDye vicaranna kuto 'pi#} (so wohl zu schreiben st. {#vicarannakuto 'pi) Bayamiti suKenAste#} {%von keiner Seite her Gefahr%} 
-<ls>68, 25.</ls> 
-<div n="2">— b) mit {#cid#} {%von irgend einem, von einem%}: {#kutaScitsaMlapato janasamAjAdupalaBya#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 179, 7.</ls> {%irgendwoher%}: {#i\ta AjA^to a\muta\H kuta^Scit#} 
-<ls>ṚV. 1, 179, 4.</ls> <ls n="ṚV.">7, 1, 2.</ls> {#na jAyate mriyate vA vipaScinnAyaM kutaScinna baBUva kaScit#} 
-<ls>KAṬHOP. 2, 18.</ls> 
-<ls>R. 2, 74, 17.</ls> 
-<ls>PAÑCAT. 239, 5.</ls> 
-<ls>ŚĀK. 110, 15, v. l.</ls> {#akutaScitkutaScidvA#} 
-<ls>MBH. 12, 7956.</ls> {#akutaScidBaya#} {%sich von keiner Seite her fürchtend%} 
-<ls>BHĀG. P. 7, 5, 47.</ls> {%von keiner Seite Gefahr darbietend%} 
-<ls>5, 9, 21.</ls> <ls>R. 2, 50, 8.</ls> {#yataH kutaScitpaSorAraBya#} {%von einem beliebigen%} 
-<ls>Sch.</ls> zu <ls>KĀTY. ŚR. 1, 5, 10</ls> <ls>(S. 89, Z. 8.)</ls> 
-<div n="2">— c) mit {#cana (ca na)#} {%von keiner Seite her%} in einem negat. Satze (die vorangehende Negation wird dadurch nicht aufgehoben) 
-<ls>ṚV. 1, 136, 1.</ls> {#na tamaMho\ na du^ri\taM kuta^Sca\na nArA^tayastitiruH#} 
-<ls n="ṚV.">2, 23, 5.</ls> <ls n="ṚV.">7, 82, 7.</ls> <ls n="ṚV.">8, 19, 6.</ls> <ls n="ṚV.">10, 39, 11.</ls> {#tasya\ na kuta^Sca\nopA^vyA\Do Ba^vati#} 
-<ls>TS. 2, 2, 9, 2.</ls> {#na biBeti kutaScana#} 
-<ls>TAITT. UP. 2, 9.</ls> <ls>M. 6, 40.</ls> {#na hi tezAM kalyARAnAM praBavati kutaSca na mftyuH#} 
-<ls>BHĀG. P. 5, 24, 14.</ls> {%nach keiner Seite hin, nirgendshin%}: {#svAM svAM senAM samutsfjya mA ca kaScitkutaSca na . gacCeta#} 
-<ls>R. 5, 74, 21.</ls> 
+<div n="1">— 7) in {#akutas#} {%von keiner Seite her%}, welches am Anf. einiger <lex>adj.</lex> compp. erscheint, ist {#kutas#} als indefin. aufzufassen. {#akutoBaya#} {%von keiner Seite her Furcht%} oder {%Gefahr sehend, von keiner Seite her Gefahr bietend%}: {#akutoBayaH suKenAste#}
+<ls>PAÑCAT. 107,2. I,321.</ls> <ls>MBH. 4,15.</ls> <ls>R. 4,12,13.</ls> <ls n="R. 4,">46,5.</ls> {#panTAnamakutoBayam#}
+<ls n="R.">2,34,31.</ls> <ls n="R. 2,">46,21.</ls> {#yAsyatyadDAkutoBayam#} (subst.)
+<ls>BHĀG. P. 1,12,28.</ls> {#akutomftyu#} {%von keiner Seite her den Tod fürchtend%}
+<ls n="BHĀG. P.">3,17,19.</ls> Vgl. u. 8,b.
+<div n="1">— 8) in Verbindung mit {#api, cid#} und {#cana#} als adv. indefin.
+<div n="2"> a) mit {#apiH kuto 'pi kAraRAt#} {%aus irgend einem Grunde%}
+<ls>PRAB. 4,10.</ls> {#kuto 'pi DanikAtkiMciddravyamAdAya#}
+<ls>PAÑCAT. 229,21.</ls> {#tezAM maDye vicaranna kuto 'pi#} (so wohl zu schreiben st. {#vicarannakuto 'pi) Bayamiti suKenAste#} {%von keiner Seite her Gefahr%}
+<ls n="PAÑCAT.">68,25.</ls>
+<div n="2">— b) mit {#cid#} {%von irgend einem, von einem%}: {#kutaScitsaMlapato janasamAjAdupalaBya#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 179,7.</ls> {%irgendwoher%}: {#i\ta AjA^to a\muta\H kuta^Scit#}
+<ls>ṚV. 1,179,4.</ls> <ls n="ṚV.">7,1,2.</ls> {#na jAyate mriyate vA vipaScinnAyaM kutaScinna baBUva kaScit#}
+<ls>KAṬHOP. 2,18.</ls>
+<ls>R. 2,74,17.</ls>
+<ls>PAÑCAT. 239,5.</ls>
+<ls>ŚĀK. 110,15, v. l.</ls> {#akutaScitkutaScidvA#}
+<ls>MBH. 12,7956.</ls> {#akutaScidBaya#} {%sich von keiner Seite her fürchtend%}
+<ls>BHĀG. P. 7,5,47.</ls> {%von keiner Seite Gefahr darbietend%}
+<ls n="BHĀG. P.">5,9,21.</ls> <ls>R. 2,50,8.</ls> {#yataH kutaScitpaSorAraBya#} {%von einem beliebigen%}
+<ls>Sch.</ls> zu <ls>KĀTY. ŚR. 1,5,10</ls> (S. 89, Z. 8.)
+<div n="2">— c) mit {#cana (ca na)#} {%von keiner Seite her%} in einem negat. Satze (die vorangehende Negation wird dadurch nicht aufgehoben)
+<ls>ṚV. 1,136,1.</ls> {#na tamaMho\ na du^ri\taM kuta^Sca\na nArA^tayastitiruH#}
+<ls n="ṚV.">2,23,5.</ls> <ls n="ṚV.">7,82,7.</ls> <ls n="ṚV.">8,19,6.</ls> <ls n="ṚV.">10,39,11.</ls> {#tasya\ na kuta^Sca\nopA^vyA\Do Ba^vati#}
+<ls>TS. 2,2,9,2.</ls> {#na biBeti kutaScana#}
+<ls>TAITT. UP. 2,9.</ls> <ls>M. 6,40.</ls> {#na hi tezAM kalyARAnAM praBavati kutaSca na mftyuH#}
+<ls>BHĀG. P. 5,24,14.</ls> {%nach keiner Seite hin, nirgendshin%}: {#svAM svAM senAM samutsfjya mA ca kaScitkutaSca na . gacCeta#}
+<ls>R. 5,74,21.</ls>
 <div n="v">— Vgl. den Artikel 1. {#ka#}.
 <LEND>

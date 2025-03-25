@@ -1,5 +1,5 @@
 <L>7335<pc>232<k1>electioneering<k2>electioneering
-<div n="lb"/>{@ELECTIONEERING:@}¦ <div n="I">I Subs.: {#*nirvAcananirvAhaH.#}</div>
-<div n="lb"/><div n="I">II Adj.: expr. by comp., <div n="xe">{%e. agent:%}</div> <div n="xs">{#*nirvAcana-#}
-<div n="lb"/>{#nirvAhakarmakaraH.#}</div></div>
+{@ELECTIONEERING:@}¦ <div n="I">I Subs.: {#*nirvAcananirvAhaH.#}</div>
+<div n="I">II Adj.: expr. by comp., <div n="xe">{%e. agent:%}</div> <div n="xs">{#*nirvAcana-#}
+{#nirvAhakarmakaraH.#}</div></div>
 <LEND>

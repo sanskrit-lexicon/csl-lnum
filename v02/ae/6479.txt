@@ -1,6 +1,6 @@
 <L>6479<pc>277<k1>mansion<k2>mansion
 {@Mansion,@}¦ {%s.%} {#harmyaM, sODaM, gfhaM, maMdiraM, BavanaM,#}
-<div n="lb"/>{#gehaM, sadanaM, niketanaM, SAlA, AyatanaM;#} {%See%}
-<div n="lb"/>{@House;@} ‘lunar m.’ {#nakzatraM, dakzajA,#}
-<div n="lb"/>{#viDupriyA#}.
+{#gehaM, sadanaM, niketanaM, SAlA, AyatanaM;#} {%See%}
+{@House;@} ‘lunar m.’ {#nakzatraM, dakzajA,#}
+{#viDupriyA#}.
 <LEND>

@@ -1,39 +1,39 @@
 <L>39726<pc>4-0213<k1>nirvfti<k2>nirvfti
-{#nirvfti#}¦ (von {#var#} mit {#nis#}) 
-<div n="1"> 1) <lex>f.</lex> 
-<div n="2"> a) {%innere Zufriedenheit, Wohlbehagen, Glückseligkeit, Wonne, Entzücken%}; = {#suKa#} 
-<ls>H. 1370.</ls> 
-<ls>an. 3, 271. 272</ls> (wo fälschlich {#muKa#} gedruckt ist). 
-<ls>MED. t. 120.</ls> = {#susTitatva#} 
-<ls>TRIK. 3, 3, 161.</ls> = {#susTiti#} 
-<ls>MED.</ls> = {#sOsTa#} (d. i. {#sOsTya#}) 
-<ls>H. an.</ls> {#nirvftIrvedanAni ca#} 
-<ls>MBH. 2, 893.</ls> {#vicArya Kalu paSyAmi tatsuKaM yatra nirvftiH#} 
-<ls>12, 4114.</ls> {#hfdayasya#} 
-<ls>N. 22, 3.</ls> {#(arAjake janapade) vedAnnADIyate viprA na ca vindate nirvftim#} 
-<ls>R. GORR. 2, 69, 16.</ls> {#ArtAH prajA naravyAGra kva nu yAsyanti nirvftim#} 
-<ls>3, 71, 7.</ls> <ls>SUŚR. 2, 348, 16.</ls> {#na brahma saMsmarasi nirvftimezi kena#} 
-<ls>BHARTṚ. 3, 71.</ls> 
-<ls>RAGH. 9, 37</ls> {#sa prApa priyAliNgananirvftim#} 
-<ls>12, 65.</ls> <ls>ŚĀK. 178.</ls> {#svargAdaDikataraM nirvftisTAnam#} 
-<ls>100, 17</ls> (die richtige Lesart für {#nirvftti°#}). 
-<ls>VIKR. 28.</ls> {#sAnandAmiva nirvftim#} 
-<ls>KATHĀS. 10, 205.</ls> {#ratinivftI#} 
-<ls>?16, 123. 26, 283. VID. 325. PAÑCAT. 5, 9. I, 383. VET. in LA. 31, 12. BHĀG. P. 2, 6, 7. 3, 15, 50. 5, 1, 41. 4, 4. 14, 17. MĀRK. P. 23, 108. PRAB. 89, 4</ls> (wo mit der v.l. so st. {#nivftti#} zu lesen ist). 
-<ls>95, 4.</ls> <ls>ŚIŚ. 4, 64.</ls> Hieher viell. auch 
-<ls>LALIT. ed. Calc. 42, 2. 138, 2.</ls> Nach FOUCAUX {%Erlösung.%} Vgl. {#citta°#} . 
-<div n="2">— b) {%Erlösung%} ({#nirvARa, mokza#}) 
-<ls>TRIK.</ls> <ls>H. 74.</ls> <ls>H. an.</ls> 
-<div n="2">— c) {%das zur - Ruhe - Kommen%} (=  {#nivftti) BUmyambuvAyujEH pittaM kzipramApnoti nirvftim#} 
-<ls>SUŚR. 1, 152, 12</ls>; vgl. das gleichbedeutende {#Sama#} in der vorangehenden und folgenden Zeile. 
-<div n="2">— d) {%Untergang, Tod%} ({#astaMgamana, mftyu#}) 
-<ls>MED.</ls> <ls>H. an.</ls> Durch {%Tod%} übersetzt 
-<ls>BURNOUF</ls> das Wort 
-<ls>BHĀG. P. 3, 30, 4. fg.</ls>, doch scheint hier Bed. 1. besser zu passen. 
-<div n="2">— e) {%Ungezogenheit%} 
-<ls>HIT. 110, 20.</ls> Falsche Form für {#nirvftti#}, wie die v.l. hat. 
-<div n="1">— 2) <lex>m.</lex> N. pr. eines Mannes 
-<ls>HARIV. 1206.</ls> eines Sohnes des <is>Vṛṣṇi</is> 
-<ls>VP. 422.</ls> 
-<ls>BHĀG. P. 9, 24, 3.</ls>
+{#nirvfti#}¦ (von {#var#} mit {#nis#})
+<div n="1"> 1) <lex>f.</lex>
+<div n="2"> a) {%innere Zufriedenheit, Wohlbehagen, Glückseligkeit, Wonne, Entzücken%}; = {#suKa#}
+<ls>H. 1370.</ls>
+<ls>an. 3,271. 272</ls> (wo fälschlich {#muKa#} gedruckt ist).
+<ls>MED. t. 120.</ls> = {#susTitatva#}
+<ls>TRIK. 3,3,161.</ls> = {#susTiti#}
+<ls>MED.</ls> = {#sOsTa#} (<ab>d. i.</ab> {#sOsTya#})
+<ls>H. an.</ls> {#nirvftIrvedanAni ca#}
+<ls>MBH. 2,893.</ls> {#vicArya Kalu paSyAmi tatsuKaM yatra nirvftiH#}
+<ls n="MBH.">12,4114.</ls> {#hfdayasya#}
+<ls>N. 22,3.</ls> {#(arAjake janapade) vedAnnADIyate viprA na ca vindate nirvftim#}
+<ls>R. GORR. 2,69,16.</ls> {#ArtAH prajA naravyAGra kva nu yAsyanti nirvftim#}
+<ls n="R. GORR.">3,71,7.</ls> <ls>SUŚR. 2,348,16.</ls> {#na brahma saMsmarasi nirvftimezi kena#}
+<ls>BHARTṚ. 3,71.</ls>
+<ls>RAGH. 9,37</ls> {#sa prApa priyAliNgananirvftim#}
+<ls n="RAGH.">12,65.</ls> <ls>ŚĀK. 178.</ls> {#svargAdaDikataraM nirvftisTAnam#}
+<ls n="ŚĀK.">100,17</ls> (die richtige Lesart für {#nirvftti°#}).
+<ls>VIKR. 28.</ls> {#sAnandAmiva nirvftim#}
+<ls>KATHĀS. 10,205.</ls> {#ratinivftI#}
+<ls n="KATHĀS.">16,123.</ls> <ls n="KATHĀS.">26,283.</ls> <ls>VID. 325.</ls> <ls>PAÑCAT. 5,9. I,383.</ls> <ls>VET. in LA. 31,12.</ls> <ls>BHĀG. P. 2,6,7.</ls> <ls n="BHĀG. P.">3,15,50.</ls> <ls n="BHĀG. P.">5,1,41.</ls> <ls n="BHĀG. P. 5,">4,4.</ls> <ls n="BHĀG. P. 5,">14,17.</ls> <ls>MĀRK. P. 23,108.</ls> <ls>PRAB. 89,4</ls> (wo mit der v.l. so st. {#nivftti#} zu lesen ist).
+<ls n="PRAB.">95,4.</ls> <ls>ŚIŚ. 4,64.</ls> Hieher viell. auch
+<ls>LALIT. ed. Calc. 42,2. 138,2.</ls> Nach FOUCAUX {%Erlösung.%} Vgl. {#citta°#} .
+<div n="2">— b) {%Erlösung%} ({#nirvARa, mokza#})
+<ls>TRIK.</ls> <ls>H. 74.</ls> <ls>H. an.</ls>
+<div n="2">— c) {%das zur — Ruhe — Kommen%} (= {#nivftti) BUmyambuvAyujEH pittaM kzipramApnoti nirvftim#}
+<ls>SUŚR. 1,152,12</ls>; vgl. das gleichbedeutende {#Sama#} in der vorangehenden und folgenden Zeile.
+<div n="2">— d) {%Untergang, Tod%} ({#astaMgamana, mftyu#})
+<ls>MED.</ls> <ls>H. an.</ls> Durch {%Tod%} übersetzt
+<ls>BURNOUF</ls> das Wort
+<ls>BHĀG. P. 3,30,4. fg.</ls>, doch scheint hier Bed. 1. besser zu passen.
+<div n="2">— e) {%Ungezogenheit%}
+<ls>HIT. 110,20.</ls> Falsche Form für {#nirvftti#}, wie die v.l. hat.
+<div n="1">— 2) <lex>m.</lex> N. pr. eines Mannes
+<ls>HARIV. 1206.</ls> eines Sohnes des <is>Vṛṣṇi</is>
+<ls>VP. 422.</ls>
+<ls>BHĀG. P. 9,24,3.</ls>
 <LEND>

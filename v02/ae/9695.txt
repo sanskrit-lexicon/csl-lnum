@@ -1,14 +1,14 @@
 <L>9695<pc>437<k1>south<k2>south
 {@South,@}¦ {%s.%} {#dakziRA, dakziRadik-diSA-ASA,#}
-<div n="lb"/>{#avAcI;#} ‘to the s.’ {#dakziRataH,#} (with
-<div n="lb"/>gen.). -{%a.,%} {@-ern, -erly,@} {%a.%} {#dakziRa,#}
-<div n="lb"/>{#avAc, avAcIna, avAcya, dAkzi-#}
-<div n="lb"/>{#-RAtya;#} ‘in a s. direction’ {#dakziRena#} (with
-<div n="lb"/>acc. or gen.); ‘s. country’ {#dakziRApaTaH;#}
-<div n="lb"/>‘s. -east’ {#dakziRapUrvA, AgniyI;#} ({%a.,%} -ern-
-<div n="lb"/>-erly,) {#dakziRapUrva, Agneya;#} ‘s. -west’
-<div n="lb"/>{#dakziRapaScimA, nErftI;#} ({%a.,%} -ern, -erly)
-<div n="lb"/>{#dakziRapaScima, nErfta#}. {@-ward, -wards,@}
-<div n="lb"/>{%adv.%} {#dakziRABimuKaM, dakziRataH, dakziRasyAM#}
-<div n="lb"/>{#diSi#}.
+{#avAcI;#} ‘to the s.’ {#dakziRataH,#} (with
+gen.). -{%a.,%} {@-ern, -erly,@} {%a.%} {#dakziRa,#}
+{#avAc, avAcIna, avAcya, dAkzi-#}
+{#-RAtya;#} ‘in a s. direction’ {#dakziRena#} (with
+acc. or gen.); ‘s. country’ {#dakziRApaTaH;#}
+‘s. -east’ {#dakziRapUrvA, AgniyI;#} ({%a.,%} -ern-
+-erly,) {#dakziRapUrva, Agneya;#} ‘s. -west’
+{#dakziRapaScimA, nErftI;#} ({%a.,%} -ern, -erly)
+{#dakziRapaScima, nErfta#}. {@-ward, -wards,@}
+{%adv.%} {#dakziRABimuKaM, dakziRataH, dakziRasyAM#}
+{#diSi#}.
 <LEND>

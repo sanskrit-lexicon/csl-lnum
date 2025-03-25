@@ -1,661 +1,628 @@
 <L>37694<pc>4-0040<k1>nam<k2>nam
 {#nam#}¦, {#na/mati#} (
-<ls>DHĀTUP. 23, 12</ls>); {#°te#} (in intrans. Bed. 
-<ls>P. 3, 1, 89.</ls> 
-<ls>VOP. 24, 12</ls>); {#nanAma, nAnA/ma#} (<is>Padap</is>. {#nanAma#}) ved., {#nemiTa#} und {#nananTa#} 
-<ls>VOP. 8, 71.</ls> {#neme, avananAmire#} 
-<ls>MBH. 1, 5336</ls>; {#nantA, naMsyati#} <is>Kār</is>. 
-<ls>?5 aus SIDDH. K. zu P. 7, 2, 10. BHAṬṬ. 16, 39.</ls> {#namizyati#} 
-<ls>HARIV. 2719. 4021</ls>; {#anaMsIt#} 
-<ls>P. 7, 2, 73.</ls> 
-<ls>VOP. 8, 71.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 183, 12.</ls> {#anaMsta#} 
-<ls>P.</ls>, <ls>Sch.</ls> <ls>VOP. 24, 12.</ls> {#naMsE#} (1. sg.) und {#anAn#} ved.; {#natvA, °namya#} und {#°natya#} 
-<ls>P. 6, 4, 37. 38.</ls> 
-<ls>VOP. 26, 202. 213.</ls> 
+<ls>DHĀTUP. 23,12</ls>); {#°te#} (in intrans. Bed.
+<ls>P. 3,1,89.</ls>
+<ls>VOP. 24,12</ls>); {#nanAma, nAnA/ma#} (<is>Padap</is>. {#nanAma#}) ved., {#nemiTa#} und {#nananTa#}
+<ls>VOP. 8,71.</ls> {#neme, avananAmire#}
+<ls>MBH. 1,5336</ls>; {#nantA, naMsyati#} <is>Kār.</is>
+<ls n="MBH. 1,">5</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7,2,10.</ls> <ls>BHAṬṬ. 16,39.</ls> {#namizyati#}
+<ls>HARIV. 2719.</ls> <ls n="HARIV.">4021</ls>; {#anaMsIt#}
+<ls>P. 7,2,73.</ls>
+<ls>VOP. 8,71.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 183,12.</ls> {#anaMsta#}
+<ls>P.</ls>, <ls>Sch.</ls> <ls>VOP. 24,12.</ls> {#naMsE#} (1. sg.) und {#anAn#} ved.; {#natvA, °namya#} und {#°natya#}
+<ls>P. 6,4,37.</ls> <ls n="P. 6,4,">38.</ls>
+<ls>VOP. 26,202.</ls> <ls n="VOP. 26,">213.</ls>
 <div n="1"> 1) {%sich beugen, sich verneigen vor%} (dat. gen. acc.); {%sich unterwerfen,%}
 [Page4-0041]
-{%sich hingeben%}: {#ko nA^nAma\ vaca^sA so\myAya^#} 
-<ls>ṚV. 4, 25, 2.</ls> {#viSva^masyA nAnAma\ cakza^se\ jaga^t#} 
-<ls n="ṚV.">1, 48, 8.</ls> {#dyAvA^ cidasmE pfTi\vI na^mete#} 
-<ls n="ṚV.">2, 12, 13.</ls> {#i\yaM te^ pfTi\vI ne^ma\ oja^se#} 
-<ls n="ṚV.">1, 57, 5.</ls> {#su\mneBi^ra\sme va^savo namaDvam#} 
-<ls n="ṚV.">7, 56, 17.</ls> {#na vI\Lave\ nama^te\ na sTi\rAya^#} 
-<ls n="ṚV.">6, 24, 8.</ls> <ls n="ṚV.">10, 34, 8.</ls> {#e\vedyUne^ yuva\tayo^ namanta#} 
-<ls n="ṚV. 10,">30, 6.</ls> <ls n="ṚV. 10,">51, 9.</ls> <ls n="ṚV. 10,">128, 1.</ls> {#tasmE\ viSa^H sva\yame\va na^mante#} 
-<ls n="ṚV.">4, 50, 8.</ls> — {#tasmE namanti BUtAni#} 
-<ls>BHĀG. P. 4, 9, 47.</ls> {#samudranemirnamate tu tasmE#} 
-<ls>MBH. 3, 977. 5, 1130. 12, 13109.</ls> 
-<ls>BHAG. 11, 37.</ls> {#natvA kfzRAya#} 
-<ls>BHĀG. P. 7, 1, 5.</ls> {#BayAnnamanti rAjAno yasya sma#} 
-<ls>MBH. 10, 495.</ls> 
-<ls>R. 6, 12, 11.</ls> {#sarvaBUtAni cApyasya na namante kadA ca na#} 
-<ls>MBH. 3, 1036. 10622.</ls> {#mahendravizRuBaginI namAmi#} 
-<ls>HARIV. 10235.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 58, 37.</ls> 
-<ls>KUMĀRAS. 6, 89.</ls> 
-<ls>KATHĀS. 1, 44.</ls> 
-<ls>BHĀG. P. 1, 4, 11. 2, 3, 21. 4, 9, 45.</ls> 
-<ls>MĀRK. P. 23, 104. 25, 2.</ls> 
-<ls>ŚIŚ. 4, 57.</ls> 
-<ls>BHAṬṬ. 9, 51. 10, 31. 12, 39.</ls> 
-<ls>NALOD. 4, 44.</ls> {#namasvEnam#} (das einzige Beispiel des med. beim acc.) 
-<ls>MBH. 3, 1200.</ls> {#upetya jYAninaM taM ca natvA#} 
-<ls>KATHĀS. 25, 82.</ls> {#viprAnnatvA tilagoBUmirukmEH#} 
-<ls>BHĀG. P. 1, 13, 29.</ls> ohne Object: {#namadBiH#} 
-<ls>BHARTṚ. 3, 61.</ls> 
-<ls>BHĀG. P. 1, 7, 42.</ls> {#aSaktaH saMDimAnnamet#} 
-<ls>KĀM. NĪTIS. 8, 55.</ls> {#unnamati namati varzati garjati meGaH karoti timirOGam . praTamaSrIriva puruzaH karoti rUpARyenakAni ..#} {%neigt sich, senkt sich%} 
-<ls>MṚCCH. 85, 11.</ls> {#anaMsIdBUrBareRAsya#} 
-<ls>BHAṬṬ. 15, 25.</ls> {%sich krümmen%} 
-<ls>SUŚR. 1, 254, 7. 11.</ls> {#nata#} {%gebeugt, gebogen, gekrümmt%} 
-<ls>AK. 3, 2, 20.</ls> 
-<ls>H. 1456.</ls> 
-<ls>an. 2, 176.</ls> 
-<ls>MED. t. 29.</ls> {#vilajjamAneva natA#} 
-<ls>HIḌ. 2, 23.</ls> {#mUrDaBirnatAH#} 
-<ls>HARIV. 11768.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 18, 55.</ls> {#caraRanatABistABiH#} 
-<ls>KATHĀS. 26, 278.</ls> {#asmAkaM tAvakAnAM tava#} ({%vor dir%}) {#natAnAm#} 
-<ls>BHĀG. P. 6, 9, 40.</ls> {#nato 'smi tam#} ({%vor ihm%}) 
-<ls>5, 18, 4. 1, 11, 6. 8, 12, 47.</ls> {#GanapInapayoDaraBAranatA#} 
-<ls>ŚRUT. 28.</ls> {#BayalajjAnatAnana#} 
-<ls>PAÑCAT. 46, 5.</ls> 
-<ls>RĀJA-TAR. 5, 202. 372</ls> (wo {#ekA natamuKI#} zu lesen ist). 
-<ls>DHŪRTAS. 72, 8.</ls> 
-<ls>H. 1247.</ls> {#puzpaBAranatA latA#} 
-<ls>R. 2, 96, 15.</ls> {#svayaMnatA SarezIkA#} 
-<ls>ŚĀṄKH. ŚR. 17, 3, 11.</ls> {#indraRatezIkA#} 
-<ls>LĀṬY. 4, 1, 7.</ls> 
-<ls>PAÑCAV. BR. 15, 5, 20.</ls> {#nataBrU#} 
-<ls>VIKR. 95.</ls> 
-<ls>DRAUP. 5, 1.</ls> 
-<ls>VARĀH. BṚH. S. 67, 68.</ls> {#vAmanata#} {%nach links gekehrt%} 7. {%tief herabhängend%}: {#svAdukzIranatoDasaH (gAvaH)#} 
-<ls>DHŪRTAS. 96, 11.</ls> {%eingefallen, nicht hervorstehend, vertieft%}: {#SarARAM nataparvaRAm#} 
-<ls>MBH. 5, 7143.</ls> 
-<ls>ŚĀK. 162</ls> (wo {#aDunA nata°#} zu lesen ist). {#natodara#} 
-<ls>MBH. 7, 2735.</ls> {#natanABi#} 
-<ls>KUMĀRAS. 1, 38.</ls> {#natonnataBUviBAge mArge#} 
-<ls>ŚĀK. 90.</ls> {#lalAwaM na nataM na tuNgam#} 
-<ls>VARĀH. BṚH. S. 68, 8.</ls> {#natAgranAsa#} 
-<ls>26 (25), 14</ls>; vgl. {#natanAsika#} . <lex>n.</lex> {%Senkung, Neigung%} 
-<ls>SŪRYAS. 12, 72.</ls> 
-<div n="1">— 2) {%sich wegbeugen, ausweichen%}: {#hiru^Nnamantu\ Satra^vaH#} 
-<ls>AV. 4, 3, 1.</ls> mit instr. der Sache: {#viSva^sya\ Satro\rana^maM vaDa\snEH#} 
-<ls>ṚV. 1, 165, 6</ls>; vgl. caus. 
-<div n="1">— 3) {%beugen, biegen%}: {#ne\miM na^manti\ cakza^sA#} 
-<ls>ṚV. 8, 86, 12.</ls> 
-<div n="1">— 4) gramm. {%umbeugen%} so v. a. {%einen Dentalen in einen Cerebralen umwandeln%}: {#fkArarePazakArA nakAraM samAnapade 'vagfhye namanti#} 
-<ls>ṚV. PRĀT. 5, 20.</ls> pass. {#namyate#} 10. {#nata#} {%umgebogen, in einen cerebralen Laut verwandelt%} 
-<ls>1, 15. 4, 12. 5, 26.</ls> 
-<div n="1">— 5) {%tönen%} (Vgl. {#nad#}) 
+{%sich hingeben%}: {#ko nA^nAma\ vaca^sA so\myAya^#}
+<ls>ṚV. 4,25,2.</ls> {#viSva^masyA nAnAma\ cakza^se\ jaga^t#}
+<ls n="ṚV.">1,48,8.</ls> {#dyAvA^ cidasmE pfTi\vI na^mete#}
+<ls n="ṚV.">2,12,13.</ls> {#i\yaM te^ pfTi\vI ne^ma\ oja^se#}
+<ls n="ṚV.">1,57,5.</ls> {#su\mneBi^ra\sme va^savo namaDvam#}
+<ls n="ṚV.">7,56,17.</ls> {#na vI\Lave\ nama^te\ na sTi\rAya^#}
+<ls n="ṚV.">6,24,8.</ls> <ls n="ṚV.">10,34,8.</ls> {#e\vedyUne^ yuva\tayo^ namanta#}
+<ls n="ṚV. 10,">30,6.</ls> <ls n="ṚV. 10,">51,9.</ls> <ls n="ṚV. 10,">128,1.</ls> {#tasmE\ viSa^H sva\yame\va na^mante#}
+<ls n="ṚV.">4,50,8.</ls> — {#tasmE namanti BUtAni#}
+<ls>BHĀG. P. 4,9,47.</ls> {#samudranemirnamate tu tasmE#}
+<ls>MBH. 3,977.</ls> <ls n="MBH.">5,1130.</ls> <ls n="MBH.">12,13109.</ls>
+<ls>BHAG. 11,37.</ls> {#natvA kfzRAya#}
+<ls>BHĀG. P. 7,1,5.</ls> {#BayAnnamanti rAjAno yasya sma#}
+<ls>MBH. 10,495.</ls>
+<ls>R. 6,12,11.</ls> {#sarvaBUtAni cApyasya na namante kadA ca na#}
+<ls>MBH. 3,1036.</ls> <ls n="MBH. 3,">10622.</ls> {#mahendravizRuBaginI namAmi#}
+<ls>HARIV. 10235.</ls>
+<ls>R. GORR. 2,58,37.</ls>
+<ls>KUMĀRAS. 6,89.</ls>
+<ls>KATHĀS. 1,44.</ls>
+<ls>BHĀG. P. 1,4,11.</ls> <ls n="BHĀG. P.">2,3,21.</ls> <ls n="BHĀG. P.">4,9,45.</ls>
+<ls>MĀRK. P. 23,104. 25,2.</ls>
+<ls>ŚIŚ. 4,57.</ls>
+<ls>BHAṬṬ. 9,51. 10,31. 12,39.</ls>
+<ls>NALOD. 4,44.</ls> {#namasvEnam#} (das einzige Beispiel des med. beim acc.)
+<ls>MBH. 3,1200.</ls> {#upetya jYAninaM taM ca natvA#}
+<ls>KATHĀS. 25,82.</ls> {#viprAnnatvA tilagoBUmirukmEH#}
+<ls>BHĀG. P. 1,13,29.</ls> ohne Object: {#namadBiH#}
+<ls>BHARTṚ. 3,61.</ls>
+<ls>BHĀG. P. 1,7,42.</ls> {#aSaktaH saMDimAnnamet#}
+<ls>KĀM. NĪTIS. 8,55.</ls> {#unnamati namati varzati garjati meGaH karoti timirOGam . praTamaSrIriva puruzaH karoti rUpARyenakAni ..#} {%neigt sich, senkt sich%}
+<ls>MṚCCH. 85,11.</ls> {#anaMsIdBUrBareRAsya#}
+<ls>BHAṬṬ. 15,25.</ls> {%sich krümmen%}
+<ls>SUŚR. 1,254,7. 11.</ls> {#nata#} {%gebeugt, gebogen, gekrümmt%}
+<ls>AK. 3,2,20.</ls>
+<ls>H. 1456.</ls>
+<ls>an. 2,176.</ls>
+<ls>MED. t. 29.</ls> {#vilajjamAneva natA#}
+<ls>HIḌ. 2,23.</ls> {#mUrDaBirnatAH#}
+<ls>HARIV. 11768.</ls>
+<ls>R. GORR. 2,18,55.</ls> {#caraRanatABistABiH#}
+<ls>KATHĀS. 26,278.</ls> {#asmAkaM tAvakAnAM tava#} ({%vor dir%}) {#natAnAm#}
+<ls>BHĀG. P. 6,9,40.</ls> {#nato 'smi tam#} ({%vor ihm%})
+<ls n="BHĀG. P.">5,18,4.</ls> <ls n="BHĀG. P.">1,11,6.</ls> <ls n="BHĀG. P.">8,12,47.</ls> {#GanapInapayoDaraBAranatA#}
+<ls>ŚRUT. 28.</ls> {#BayalajjAnatAnana#}
+<ls>PAÑCAT. 46,5.</ls>
+<ls>RĀJA-TAR. 5,202. 372</ls> (wo {#ekA natamuKI#} zu lesen ist).
+<ls>DHŪRTAS. 72,8.</ls>
+<ls>H. 1247.</ls> {#puzpaBAranatA latA#}
+<ls>R. 2,96,15.</ls> {#svayaMnatA SarezIkA#}
+<ls>ŚĀṄKH. ŚR. 17,3,11.</ls> {#indraRatezIkA#}
+<ls>LĀṬY. 4,1,7.</ls>
+<ls>PAÑCAV. BR. 15,5,20.</ls> {#nataBrU#}
+<ls>VIKR. 95.</ls>
+<ls>DRAUP. 5,1.</ls>
+<ls>VARĀH. BṚH. S. 67,68.</ls> {#vAmanata#} {%nach links gekehrt%} 7. {%tief herabhängend%}: {#svAdukzIranatoDasaH (gAvaH)#}
+<ls>DHŪRTAS. 96,11.</ls> {%eingefallen, nicht hervorstehend, vertieft%}: {#SarARAM nataparvaRAm#}
+<ls>MBH. 5,7143.</ls>
+<ls>ŚĀK. 162</ls> (wo {#aDunA nata°#} zu lesen ist). {#natodara#}
+<ls>MBH. 7,2735.</ls> {#natanABi#}
+<ls>KUMĀRAS. 1,38.</ls> {#natonnataBUviBAge mArge#}
+<ls>ŚĀK. 90.</ls> {#lalAwaM na nataM na tuNgam#}
+<ls>VARĀH. BṚH. S. 68,8.</ls> {#natAgranAsa#}
+<ls n="VARĀH. BṚH. S.">26 (25),14</ls>; vgl. {#natanAsika#} . <lex>n.</lex> {%Senkung, Neigung%}
+<ls>SŪRYAS. 12,72.</ls>
+<div n="1">— 2) {%sich wegbeugen, ausweichen%}: {#hiru^Nnamantu\ Satra^vaH#}
+<ls>AV. 4,3,1.</ls> mit instr. der Sache: {#viSva^sya\ Satro\rana^maM vaDa\snEH#}
+<ls>ṚV. 1,165,6</ls>; vgl. caus.
+<div n="1">— 3) {%beugen, biegen%}: {#ne\miM na^manti\ cakza^sA#}
+<ls>ṚV. 8,86,12.</ls>
+<div n="1">— 4) gramm. {%umbeugen%} so v. a. {%einen Dentalen in einen Cerebralen umwandeln%}: {#fkArarePazakArA nakAraM samAnapade 'vagfhye namanti#}
+<ls>ṚV. PRĀT. 5,20.</ls> pass. {#namyate#} 10. {#nata#} {%umgebogen, in einen cerebralen Laut verwandelt%}
+<ls n="ṚV. PRĀT.">1,15. 4,12. 5,26.</ls>
+<div n="1">— 5) {%tönen%} (Vgl. {#nad#})
 <ls>DHĀTUP.</ls>
-
-<div n="p">— caus. {#nama/yati#} und {#nAma/yati#} 
-<ls>DHĀTUP. 19, 67.</ls> 
-<ls>VOP. 18, 23</ls> (mit präpp. angeblich nur {#nAmayati); nana/mas#} und {#nInamas#} . 
-<div n="1"> 1) {%sich beugen machen, beugen, biegen%}: {#tErimAM lokAnanamayan#} 
-<ls>ŚAT. BR. 7, 4, 1, 26.</ls> {#prottuNgAnnamayan#} 
-<ls>NAVAR. 9</ls> in <ls>HAEB. Anth. 3.</ls> {#namayanmfdUn#} 
-<ls>KATHĀS. 19, 89. 3, 77.</ls> {#namyante 'smE kAmAH#} 
-<ls>TAITT. UP. 3, 10, 3.</ls> {#pavamAnaH pfTivIruhAniva - namayAmAsa nfpAn#} 
-<ls>RAGH. 8, 9.</ls> {#lajjayA cApi nAmitaH#} 
-<ls>R. 4, 60, 3.</ls> {#namayati sma sa kevalamunnataM SiraH#} 
-<ls>RAGH. 9, 18.</ls> {#stanodvahanasaMkzoBAnnamyamAnA (nAmyamAnA#} 
-<ls>INDR. 5, 9</ls>) {#pade pade#} 
-<ls>MBH. 3, 1825.</ls> {#namayati muKam#} 
-<ls>AMAR. 37.</ls> {#na nAmayati (aNgAni)#} 
-<ls>PĀR. GṚHY. 1, 16.</ls> {#namitANga#} 
-<ls>R. 3, 79, 22.</ls> {#latAM nAmayati#} 
-<ls>MṚCCH. 134, 20.</ls> {#namyamAna#} 
-<ls>BHĀG. P. 5, 17, 13.</ls> {#namita#} 
-<ls>MEGH. 73.</ls> {#nAmita#} 
-<ls>MṚCCH. 13, 19.</ls> {#nAnAmyaM #}
+<div n="p">— caus. {#nama/yati#} und {#nAma/yati#}
+<ls>DHĀTUP. 19,67.</ls>
+<ls>VOP. 18,23</ls> (mit präpp. angeblich nur {#nAmayati); nana/mas#} und {#nInamas#} .
+<div n="1"> 1) {%sich beugen machen, beugen, biegen%}: {#tErimAM lokAnanamayan#}
+<ls>ŚAT. BR. 7,4,1,26.</ls> {#prottuNgAnnamayan#}
+<ls>NAVAR. 9</ls> in <ls>HAEB. Anth. 3.</ls> {#namayanmfdUn#}
+<ls>KATHĀS. 19,89.</ls> <ls n="KATHĀS.">3,77.</ls> {#namyante 'smE kAmAH#}
+<ls>TAITT. UP. 3,10,3.</ls> {#pavamAnaH pfTivIruhAniva — namayAmAsa nfpAn#}
+<ls>RAGH. 8,9.</ls> {#lajjayA cApi nAmitaH#}
+<ls>R. 4,60,3.</ls> {#namayati sma sa kevalamunnataM SiraH#}
+<ls>RAGH. 9,18.</ls> {#stanodvahanasaMkzoBAnnamyamAnA (nAmyamAnA#}
+<ls>INDR. 5,9</ls>) {#pade pade#}
+<ls>MBH. 3,1825.</ls> {#namayati muKam#}
+<ls>AMAR. 37.</ls> {#na nAmayati (aNgAni)#}
+<ls>PĀR. GṚHY. 1,16.</ls> {#namitANga#}
+<ls>R. 3,79,22.</ls> {#latAM nAmayati#}
+<ls>MṚCCH. 134,20.</ls> {#namyamAna#}
+<ls>BHĀG. P. 5,17,13.</ls> {#namita#}
+<ls>MEGH. 73.</ls> {#nAmita#}
+<ls>MṚCCH. 13,19.</ls> {#nAnAmyaM #}
 [Page4-0042]
-{# nAmyate dAru#} 
-<ls>PAÑCAT. I, 430.</ls> {#SvapucCamiva nAmitam#} 
-<ls>HIT. II, 130.</ls> {#namitaDvaja#} 
-<ls>MALLIN.</ls> zu <ls>KUMĀRAS. 6, 7.</ls> {#GawaM namayati#} {%neigt%} Schol. zu 
-<ls>ŚĀK. 11, 9.</ls> {#DanuH, cApam#} {%den Bogen biegen, spannen%} 
-<ls>MBH. 3, 3039.</ls> 
-<ls>HARIV. 4506.</ls> 
-<ls>R. 4, 32, 11. 5, 93, 16. 6, 80, 17.</ls> 
-<ls>ŚĀK. 36.</ls> 
-<ls>RAGH. 11, 72.</ls> {%bewirken, dass Etwas sinkt, einsinkt%}: {#nAmayaMScaraRErmahIm#} 
-<ls>HARIV. 3754.</ls> 
-<ls>KUMĀRAS. 6, 50.</ls> 
-<ls>SĀH. D. 38, 11.</ls> {#nAmyati#} mit act (!) Bed.: {#PullAM nAmyati vAyaso 'pi hi latAM yA nAmitA varhiRA#} 
-<ls>MṚCCH. 13, 19.</ls> 
-<div n="1">— 2) {%ablenken, abbiegen%}: {#vaDa^rdA\sasya^ nInamaH#} 
-<ls>ṚV. 8, 24, 27.</ls> {#na\namo\ vaDa\rade^vasya pI\yoH#} 
-<ls n="ṚV.">1, 174, 8.</ls> <ls n="ṚV.">2, 19, 7.</ls> 
-<div n="1">— 3) gramm. {%umbeugen%} so v. a. {%einen Dentalen in einen Cerebralen umwandeln%}: {#namayanti dantyaM santaM mUrDanyaM kurvantIti nAminaH#} Schol. zu 
-<ls>ṚV. PRĀT. 1, 17.</ls> 
-<div n="1">— 4) {%ausweichen%}, mit intr. der Sache (vgl. simpl. 2): {#u\da\grA\Basya^ na\maya^nvaDa\snEH#} 
-<ls>ṚV. 9, 97, 15.</ls> {#yo de\hyo\3^\ ana^mayadvaDa\mnEH#} 
-<ls n="ṚV.">7, 6, 5.</ls>
-
-<div n="p">— intens. {%sich beugen, sich neigen; sich zuneigen%}: {#indrA^ya\ hi dyOrasu^ro\ ana^mnata#} 
-<ls>ṚV. 1, 131, 1.</ls> {#yasya^ vra\te pf^Ti\vI nanna^mIti#} 
-<ls n="ṚV.">5, 83, 5.</ls> {#ji\hvABi\raha\ nanna^mada\rcizA^ jajYaRA\Bava^n#} 
-<ls n="ṚV.">8, 43, 8.</ls> {#Gf\tame^ne ajana\nnamna^mAne#} 
-<ls n="ṚV.">10, 82, 1.</ls> {#nannamuH#} 
-<ls>AIT. BR. 2, 20.</ls> 
-<ls>ŚAT. BR. 3, 9, 3, 31.</ls> {#(ApaH) nannamyaDavaM yajamAnAya#} 
-<ls>KĀTY. ŚR. 23, 3, 1.</ls> {#nannamyamAnAH Paladitsayeva cakASire tatra latAH#} 
-<ls>BHAṬṬ. 2, 25.</ls>
-
-<div n="p">— {#ati#} {%bei Seite halten%}: {#atinatyava pAtrARi#} 
-<ls>ŚAT. BR. 1, 1, 4, 4.</ls>
-
-<div n="p">— {#aDi#} intens. {%sich hinbeugen über%}: {#BUza\nna yo 'Di^ ba\BrUzu\ namna^te#} 
-<ls>ṚV. 1, 140, 6.</ls>
-
-<div n="p">— {#anu#} {%sich zuneigen%}: {#anu^ sva\DAvane^ kzi\tayo^ namanta#} 
-<ls>ṚV. 5, 32, 10.</ls>
-
-<div n="p">— {#apa#}, partic. {%ausgebogen%}: {#(yUpaH) Anata uparizwAdapanato maDye#} 
-<ls>ŚAT. BR. 11, 7, 3, 3.</ls> 
-<ls>ŚĀṄKH. BR. 10, 1.</ls>
-
-<div n="p">— {#aBi#} {%sich zu Jmd hin verneigen%}: {#SirasAByanamat#} 
-<ls>INDR. 2, 19.</ls> {%sich Jmd zuwenden%}: {#devAnvE yajYo nAByanamat#} und {#aByanAn#} 3 sg. aor. 
-<ls>KĀṬH. 8, 10.</ls> {#aBinata#} {%geneigt, gebeugt%}: {#°kAya#} 
-<ls>SADDH. P.4,3,b.</ls> {#aBinata ivodareRa (kzuDitaH)#} 
-<ls>ŚĀṄKH. BR. 10, 1.</ls>
-
-<div n="p">— {#ava#} 
-<div n="1"> 1) {%sich herabbugen, sich verbeugen%}: {#avanamantaH#} 
-<ls>BHĀG. P. 5, 25, 4.</ls> {#avanamya#} 
-<ls>KATHĀS. 19, 92.</ls> 
-<ls>ŚIŚ. 9, 74.</ls> {#avanata#} {%gebeugt, gebogen, gesenkt%} 
-<ls>AK. 3, 2, 20.</ls> 
-<ls>H. 1456.</ls> {#praSrayAvanata#} 
-<ls>MBH. 3, 1776.</ls> 
-<ls>BHĀG. P. 1, 13, 6.</ls> 
-<ls>MĀRK. P. 27, 3.</ls> {#vinayAvanata#} 
-<ls>MBH. 1, 3. 3, 2467.</ls> {#lajjayAvanatABavat#} 
-<ls>R. 6, 101, 2.</ls> {#avanatAnana#} 
-<ls>MBH. 1, 6121.</ls> 
-<ls>RAGH. 9, 60.</ls> {#tvayyAdAtuM jalamavanate#} 
-<ls>MEGH. 47.</ls> {#(vilvAn) PalapuzpEravanatAn#} 
-<ls>R. 2, 56, 7. 5, 17, 10.</ls> 
-<ls>PAÑCAT. 159, 19.</ls> {#avanatANgI#} {%gekrümmt%} 
-<ls>KUMĀRAS. 5, 86.</ls> {#vAmAvanatA#} {%nach links gebogen, - gerichtet%} 
-<ls>VARĀH. BṚH. S. 58, 51.</ls> {%vertieft, nicht hervorstehend%}: {#gulPO cAvanatO mama#} 
-<ls>R. 6, 23, 12.</ls> 
-<div n="1">— 2) {%herabbeugen, herabbiegen%}: {#kecicCarAkzepaBayAcCirAMsyavananAmire#} 
-<ls>MBH. 1, 5336.</ls> 
-<div n="v">— Vgl. {#avanati, avanamra#} . — caus. {%Jmd sich verbeugen lassen, herabbiegen%}: {#avanamitaviDutASezaBUBfdgaRa#} in einer Inschr. in 
-<ls>Journ. of the Am. Or. S. 7, 9,</ls> <ls>Śl. 32.</ls> {#SiraHsu kfzRo jagrAha svahastenAvanAmya ca#} 
-<ls>HARIV. 3685.</ls> {#avanAmitameQrasya meQre (viDyet)#} 
-<ls>SUŚR. 1, 359, 10.</ls> {#SvapucCamavanAmitam#} 
-<ls>PAÑCAT. ed. orn. I, 255.</ls> <ls>VARĀH. BṚH. S. 50, 28.</ls> {#vfkzAn - avanAmya#} 
-<ls>MBH. 3, 10043.</ls> {#PalaBArAvanAmita (vfkza)#} 
-<ls>1, 7586.</ls> {#DanurjyAmavanAmya#} so v. a. {%spannen%} 
-<ls>8, 4606.</ls>
-
-<div n="p">— {#aByava#} caus. {%herabbeugen%}: {#aByavanAmya vaktram#} 
-<ls>MBH. 3, 10062.</ls>
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {%sich beugen, sich bücken, sich verbeugen vor%}: {#Anamya mUrDni cAGrAya#} 
-<ls>R. 2, 25, 38.</ls> {#nfpatayo yata Anamanti#} 
-<ls>BHĀG. P. 1, 15, 21.</ls> {#harimAnamya#} {%vor%} <is>Hari</is> {%sich verneigend%} 
-<ls>8, 23, 3.</ls> {#Anata#} {%gebeugt, geneigt, sich verneigend%} 
-<ls>AK. 3, 2, 20.</ls> 
-<ls>H. 1456.</ls> 
-<ls>RAGH. 1, 92. 4, 69.</ls> {#pAdAnvE namaScakraturAnatO#}
+{# nAmyate dAru#}
+<ls>PAÑCAT. I,430.</ls> {#SvapucCamiva nAmitam#}
+<ls>HIT. II,130.</ls> {#namitaDvaja#}
+<ls>MALLIN.</ls> zu <ls>KUMĀRAS. 6,7.</ls> {#GawaM namayati#} {%neigt%} Schol. zu
+<ls>ŚĀK. 11,9.</ls> {#DanuH, cApam#} {%den Bogen biegen, spannen%}
+<ls>MBH. 3,3039.</ls>
+<ls>HARIV. 4506.</ls>
+<ls>R. 4,32,11.</ls> <ls n="R.">5,93,16</ls> <ls n="R.">6,80,17.</ls>
+<ls>ŚĀK. 36.</ls>
+<ls>RAGH. 11,72.</ls> {%bewirken, dass Etwas sinkt, einsinkt%}: {#nAmayaMScaraRErmahIm#}
+<ls>HARIV. 3754.</ls>
+<ls>KUMĀRAS. 6,50.</ls>
+<ls>SĀH. D. 38,11.</ls> {#nAmyati#} mit act (!) Bed.: {#PullAM nAmyati vAyaso 'pi hi latAM yA nAmitA varhiRA#}
+<ls>MṚCCH. 13,19.</ls>
+<div n="1">— 2) {%ablenken, abbiegen%}: {#vaDa^rdA\sasya^ nInamaH#}
+<ls>ṚV. 8,24,27.</ls> {#na\namo\ vaDa\rade^vasya pI\yoH#}
+<ls n="ṚV.">1,174,8.</ls> <ls n="ṚV.">2,19,7.</ls>
+<div n="1">— 3) gramm. {%umbeugen%} so v. a. {%einen Dentalen in einen Cerebralen umwandeln%}: {#namayanti dantyaM santaM mUrDanyaM kurvantIti nAminaH#} Schol. zu
+<ls>ṚV. PRĀT. 1,17.</ls>
+<div n="1">— 4) {%ausweichen%}, mit intr. der Sache (vgl. simpl. 2): {#u\da\grA\Basya^ na\maya^nvaDa\snEH#}
+<ls>ṚV. 9,97,15.</ls> {#yo de\hyo\3^\ ana^mayadvaDa\mnEH#}
+<ls n="ṚV.">7,6,5.</ls>
+<div n="p">— intens. {%sich beugen, sich neigen; sich zuneigen%}: {#indrA^ya\ hi dyOrasu^ro\ ana^mnata#}
+<ls>ṚV. 1,131,1.</ls> {#yasya^ vra\te pf^Ti\vI nanna^mIti#}
+<ls n="ṚV.">5,83,5.</ls> {#ji\hvABi\raha\ nanna^mada\rcizA^ jajYaRA\Bava^n#}
+<ls n="ṚV.">8,43,8.</ls> {#Gf\tame^ne ajana\nnamna^mAne#}
+<ls n="ṚV.">10,82,1.</ls> {#nannamuH#}
+<ls>AIT. BR. 2,20.</ls>
+<ls>ŚAT. BR. 3,9,3,31.</ls> {#(ApaH) nannamyaDavaM yajamAnAya#}
+<ls>KĀTY. ŚR. 23,3,1.</ls> {#nannamyamAnAH Paladitsayeva cakASire tatra latAH#}
+<ls>BHAṬṬ. 2,25.</ls>
+<div n="p">— {#ati#} {%bei Seite halten%}: {#atinatyava pAtrARi#}
+<ls>ŚAT. BR. 1,1,4,4.</ls>
+<div n="p">— {#aDi#} intens. {%sich hinbeugen über%}: {#BUza\nna yo 'Di^ ba\BrUzu\ namna^te#}
+<ls>ṚV. 1,140,6.</ls>
+<div n="p">— {#anu#} {%sich zuneigen%}: {#anu^ sva\DAvane^ kzi\tayo^ namanta#}
+<ls>ṚV. 5,32,10.</ls>
+<div n="p">— {#apa#}, partic. {%ausgebogen%}: {#(yUpaH) Anata uparizwAdapanato maDye#}
+<ls>ŚAT. BR. 11,7,3,3.</ls>
+<ls>ŚĀṄKH. BR. 10,1.</ls>
+<div n="p">— {#aBi#} {%sich zu Jmd hin verneigen%}: {#SirasAByanamat#}
+<ls>INDR. 2,19.</ls> {%sich Jmd zuwenden%}: {#devAnvE yajYo nAByanamat#} und {#aByanAn#} 3 sg. aor.
+<ls>KĀṬH. 8,10.</ls> {#aBinata#} {%geneigt, gebeugt%}: {#°kAya#}
+<ls>SADDH. P. 4,3,b.</ls> {#aBinata ivodareRa (kzuDitaH)#}
+<ls>ŚĀṄKH. BR. 10,1.</ls>
+<div n="p">— {#ava#}
+<div n="1"> 1) {%sich herabbugen, sich verbeugen%}: {#avanamantaH#}
+<ls>BHĀG. P. 5,25,4.</ls> {#avanamya#}
+<ls>KATHĀS. 19,92.</ls>
+<ls>ŚIŚ. 9,74.</ls> {#avanata#} {%gebeugt, gebogen, gesenkt%}
+<ls>AK. 3,2,20.</ls>
+<ls>H. 1456.</ls> {#praSrayAvanata#}
+<ls>MBH. 3,1776.</ls>
+<ls>BHĀG. P. 1,13,6.</ls>
+<ls>MĀRK. P. 27,3.</ls> {#vinayAvanata#}
+<ls>MBH. 1,3.</ls> <ls n="MBH.">3,2467.</ls> {#lajjayAvanatABavat#}
+<ls>R. 6,101,2.</ls> {#avanatAnana#}
+<ls>MBH. 1,6121.</ls>
+<ls>RAGH. 9,60.</ls> {#tvayyAdAtuM jalamavanate#}
+<ls>MEGH. 47.</ls> {#(vilvAn) PalapuzpEravanatAn#}
+<ls>R. 2,56,7.</ls> <ls n="R.">5,17,10.</ls>
+<ls>PAÑCAT. 159,19.</ls> {#avanatANgI#} {%gekrümmt%}
+<ls>KUMĀRAS. 5,86.</ls> {#vAmAvanatA#} {%nach links gebogen, — gerichtet%}
+<ls>VARĀH. BṚH. S. 58,51.</ls> {%vertieft, nicht hervorstehend%}: {#gulPO cAvanatO mama#}
+<ls>R. 6,23,12.</ls>
+<div n="1">— 2) {%herabbeugen, herabbiegen%}: {#kecicCarAkzepaBayAcCirAMsyavananAmire#}
+<ls>MBH. 1,5336.</ls>
+<div n="v">— Vgl. {#avanati, avanamra#} . — caus. {%Jmd sich verbeugen lassen, herabbiegen%}: {#avanamitaviDutASezaBUBfdgaRa#} in einer Inschr. in
+<ls>Journ. of the Am. Or. S. 7,9, Śl. 32.</ls> {#SiraHsu kfzRo jagrAha svahastenAvanAmya ca#}
+<ls>HARIV. 3685.</ls> {#avanAmitameQrasya meQre (viDyet)#}
+<ls>SUŚR. 1,359,10.</ls> {#SvapucCamavanAmitam#}
+<ls>PAÑCAT. ed. orn. I,255.</ls> <ls>VARĀH. BṚH. S. 50,28.</ls> {#vfkzAn — avanAmya#}
+<ls>MBH. 3,10043.</ls> {#PalaBArAvanAmita (vfkza)#}
+<ls n="MBH.">1,7586.</ls> {#DanurjyAmavanAmya#} so v. a. {%spannen%}
+<ls n="MBH.">8,4606.</ls>
+<div n="p">— {#aByava#} caus. {%herabbeugen%}: {#aByavanAmya vaktram#}
+<ls>MBH. 3,10062.</ls>
+<div n="p">— {#A#}
+<div n="1"> 1) {%sich beugen, sich bücken, sich verbeugen vor%}: {#Anamya mUrDni cAGrAya#}
+<ls>R. 2,25,38.</ls> {#nfpatayo yata Anamanti#}
+<ls>BHĀG. P. 1,15,21.</ls> {#harimAnamya#} {%vor%} <is>Hari</is> {%sich verneigend%}
+<ls n="BHĀG. P.">8,23,3.</ls> {#Anata#} {%gebeugt, geneigt, sich verneigend%}
+<ls>AK. 3,2,20.</ls>
+<ls>H. 1456.</ls>
+<ls>RAGH. 1,92.</ls> <ls n="RAGH.">4,69.</ls> {#pAdAnvE namaScakraturAnatO#}
 [Page4-0043]
-
-<ls>HARIV. 6344.</ls> {#praRayAnata#} 
-<ls>MBH. 5, 7509.</ls> {#praSrayAnata#} 
-<ls>VID. 44.</ls> {#pAdAnata#} {%bis zu Jmdes Füssen sich verneigend%} 
-<ls>KATHĀS. 8, 31. 17, 99.</ls> 
-<ls>AMAR. 35.</ls> {#munimAnato 'smi#} {%ich verneige mich vor%} 
-<ls>BHĀG. P. 1, 2, 2.</ls> {#AnatasAmanta (deSa)#} {%demüthig sich verneigend, unterworfen%} 
-<ls>M. 7, 69.</ls> {#AnatenATa SUlena pARinA#} {%vermittelst der Hand niedergebeugt%} 
-<ls>MBH. 12, 10676.</ls> {#PalaBArAnata (druma)#} 
-<ls>R. GORR. 2, 56, 9.</ls> <ls>ṚT. 6, 3.</ls> <ls>VID. 209.</ls> <ls>KIR. 5, 25.</ls> {%eingebogen%}: {#yUpa#} 
-<ls>ŚAT. BR. 11, 7, 3, 3.</ls> {%eingesunken, nicht hervorstehend, vertieft, flach%}: {#vARenAnataparvaRA#} 
-<ls>MBH. 1, 1667.</ls> 
-<ls>R. 1, 1, 64.</ls> 
-<div n="1">— 2) {%sich herbeilassen%}: {#A no^ ru\drasya^ sU\navo^ namantAm#} 
-<ls>ṚV. 6, 49, 4.</ls> 
-<div n="1">— 3) {%beugen%}: {#(marutaH) saha\H saha^sa\ A na^manti#} 
-<ls>ṚV. 7, 56, 19.</ls> {%herbeineigen, herbeiziehen%}: {#A va\ indra\M name^ gi\rA ne\miM tazwe^va#} 
-<ls n="ṚV. 7,">32, 20.</ls> <ls n="ṚV.">8, 64, 5.</ls> <ls n="ṚV.">1, 139, 9.</ls> <ls n="ṚV.">6, 51, 9.</ls> {#sa ve^da de\va Anama^M#} (absol.) {#de\vA~ f^tAya\te dame^#} 
-<ls n="ṚV.">4, 8, 3.</ls> — caus. {%niederbeugen%}: {#AnAmya PalitAM SAKAm#} 
-<ls>MBH. 1, 5561.</ls> {#stanaBArAnAmitAH (yozitaH)#} 
-<ls>BHARTṚ. 3, 57.</ls> {%sich beugen machen, unterwerfen%}: {#balAccAnamya durbalAn#} 
-<ls>MBH. 4, 967.</ls> {#vidarBapatimAnamitaM balESca#} 
-<ls>MĀLAV. 78.</ls> {#DanuH#} {%den Bogen spannen%}: {#Anamya#} 
-<ls>MBH. 1, 7088.</ls> 
-<ls>R. 3, 35, 90.</ls> 
-<ls>HARIV. 9441.</ls> {#AnAmyamAna#} 4506. 
+<ls>HARIV. 6344.</ls> {#praRayAnata#}
+<ls>MBH. 5,7509.</ls> {#praSrayAnata#}
+<ls>VID. 44.</ls> {#pAdAnata#} {%bis zu Jmdes Füssen sich verneigend%}
+<ls>KATHĀS. 8,31.</ls> <ls n="KATHĀS.">17,99.</ls>
+<ls>AMAR. 35.</ls> {#munimAnato 'smi#} {%ich verneige mich vor%}
+<ls>BHĀG. P. 1,2,2.</ls> {#AnatasAmanta (deSa)#} {%demüthig sich verneigend, unterworfen%}
+<ls>M. 7,69.</ls> {#AnatenATa SUlena pARinA#} {%vermittelst der Hand niedergebeugt%}
+<ls>MBH. 12,10676.</ls> {#PalaBArAnata (druma)#}
+<ls>R. GORR. 2,56,9.</ls> <ls>ṚT. 6,3.</ls> <ls>VID. 209.</ls> <ls>KIR. 5,25.</ls> {%eingebogen%}: {#yUpa#}
+<ls>ŚAT. BR. 11,7,3,3.</ls> {%eingesunken, nicht hervorstehend, vertieft, flach%}: {#vARenAnataparvaRA#}
+<ls>MBH. 1,1667.</ls>
+<ls>R. 1,1,64.</ls>
+<div n="1">— 2) {%sich herbeilassen%}: {#A no^ ru\drasya^ sU\navo^ namantAm#}
+<ls>ṚV. 6,49,4.</ls>
+<div n="1">— 3) {%beugen%}: {#(marutaH) saha\H saha^sa\ A na^manti#}
+<ls>ṚV. 7,56,19.</ls> {%herbeineigen, herbeiziehen%}: {#A va\ indra\M name^ gi\rA ne\miM tazwe^va#}
+<ls n="ṚV. 7,">32,20.</ls> <ls n="ṚV.">8,64,5.</ls> <ls n="ṚV.">1,139,9.</ls> <ls n="ṚV.">6,51,9.</ls> {#sa ve^da de\va Anama^M#} (absol.) {#de\vA~ f^tAya\te dame^#}
+<ls n="ṚV.">4,8,3.</ls> — caus. {%niederbeugen%}: {#AnAmya PalitAM SAKAm#}
+<ls>MBH. 1,5561.</ls> {#stanaBArAnAmitAH (yozitaH)#}
+<ls>BHARTṚ. 3,57.</ls> {%sich beugen machen, unterwerfen%}: {#balAccAnamya durbalAn#}
+<ls>MBH. 4,967.</ls> {#vidarBapatimAnamitaM balESca#}
+<ls>MĀLAV. 78.</ls> {#DanuH#} {%den Bogen spannen%}: {#Anamya#}
+<ls>MBH. 1,7088.</ls>
+<ls>R. 3,35,90.</ls>
+<ls>HARIV. 9441.</ls> {#AnAmyamAna#} 4506.
 <div n="v">— Vgl. {#anAnata, Anamya, AnAmya, durAnama#} .
-
-<div n="p">— {#ud#} 
-<div n="1"> 1) {%sich in die Höhe richten, sich erheben%} (eig. und übertr.): {#unnamatpInottuNgapayoDarA#} 
-<ls>PRAB. 70, 14.</ls> {#unnamyonnamya tatrEva daridrARAM manoraTAH . hfdayezu vilIyante viDavAstrIstanAviva ..#} 
-<ls>PAÑCAT. II, 98.</ls> {#unnamati namati varzati garjati meGaH karoti timirOGam . praTamaSrIriva puruzaH karoti rUpARyanekAni ..#} 
-<ls>MṚCCH. 85, 11.</ls> {#unnamatyakAladurdinam#} {%es erhebt sich ein Unwetter%} 
-<ls>76, 2.</ls> {#namratvenonnamantaH#} 
-<ls>BHARTṚ. 2, 59.</ls> 
-<ls>RĀJA-TAR. 4, 161.</ls> {#unnata#} {%in die Höhe gerichtet, in die Höhe gehend, erhöht, hoch, hervorstehend, gewölbt, erhaben%}; {#°caraRa#} 
-<ls>HIT. 76, 6.</ls> {#natonnataBruvA#} 
-<ls>DRAUP. 5, 1.</ls> 
-<ls>VARĀH. BṚH. S. 4, 8. 9. 11, 46.</ls> 
-<ls>ŚIŚ. 9, 79.</ls> {#Sasya#} 
-<ls>YAVANEŚV. 7</ls> in <ls>Z. f. d. K. d. M. 4, 345.</ls> {#caturaNgulamunnataH#} 
-<ls>MBH. 7, 8750.</ls> {#sarvonnatena - AtmanA#} 
-<ls>RAGH. 1, 14.</ls> {#viyadunnatEH payodErvftam#} 
-<ls>VARĀH. BṚH. S. 19, 15.</ls> {#°sAnu#} 
-<ls>KIR. 5, 15.</ls> {#sODAlayErunnatAH (grAmAH)#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 7, 10,</ls> <ls>Śl. 36.</ls> {#siMhonnatAMsa#} 
-<ls>MBH. 4, 233. 2303. 7, 1368.</ls> 
-<ls>R. 5, 14, 17.</ls> 
-<ls>BHĀG. P. 4, 20, 22.</ls> {#GoRonnataM muKam#} 
-<ls>MṚCCH. 144, 18.</ls> {#kUrmapfzWonata#} 
-<ls>MBH. 3, 1828.</ls> 
-<ls>VARĀH. BṚH. S. 66, 6. 67, 2.</ls> {#uttaraH kukzirunnatataraH#} 
-<ls>ŚAT. BR. 7, 5, 1, 38.</ls> {#nitambonnatapIvara#} 
-<ls>MBH. 3, 1826.</ls> {#payoDara, stana#} 
-<ls>BHARTṚ. 1, 41.</ls> 
-<ls>MĀLAV. 24.</ls> 
-<ls>ṚT. 1, 7.</ls> 
-<ls>BRAHMAP.</ls> in <ls>LA. 51, 15.</ls> <ls>SĀH. D. 42, 4.</ls> {#°nABi#} 
-<ls>HALĀY.</ls> im <ls>ŚKDR.</ls> {#danta#} 
-<ls>P. 5, 2, 106.</ls> {#unnatadata AlaBate#} ved. Śit. beim 
-<ls>Sch.</ls> zu <ls>P. 5, 4, 142.</ls> {#yadunnataM BUmyAH#} 
-<ls>ṢAḌV. BR. 2, 10.</ls> 
-<ls>KĀṬH. 25, 2.</ls> 
-<ls>KAUŚ. 83.</ls> {#nimnonnatasma#} 
-<ls>SUŚR. 1, 23, 5. 130, 10.</ls> 
-<ls>HIT. II, 109.</ls> {#unnatAnata#} 
-<ls>AK. 3, 2, 19.</ls> 
-<ls>H. 1468.</ls> {#natonnata#} 
-<ls>ŚĀK. 90.</ls> {#vizamonnata#} 
-<ls>H. 1468.</ls> {#atyunnata#} 
-<ls>ŚĀK. 56, v. l.</ls> 
-<ls>SUŚR. 1, 26, 1.</ls> {#e/konnata (devayajana), tryu^nnata#} {%eine —, drei Erhöhungen habend%} 
-<ls>TS. 6, 2, 6, 2. 3.</ls> {#trirunnataM#} 
-(<ls>ŚAṂK.</ls>: {#trIRyunnatAni urogrIvASirAMsi unnatAni yasmin tat) sTApya samaM SarIram#} 
-<ls>ŚVETĀŚV. UP. 2, 8.</ls> Oft ist von {%sechs hervorragenden%} oder {%gewölbten Theilen des Körpers%} als einer Zierde die Rede: {#zaqunnatA#} 
-<ls>MBH. 4, 253.</ls> 
-<ls>R. 5, 32, 12.</ls> {#unnatezUnnatA zawsu#} 
-<ls>MBH. 5, 3939.</ls> {#kukzA#} (!) {#naKA nAsikAsyaM#} (!) {#kfkAwikA ceti zaqunnatAni#} 
-<ls>VARĀH. BṚH. S. 87</ls> (!). Man vermisst bei dieser Aufzählung {%Stirn, Schultern, Brust, Hüften. - hoch, hochstehend, hervorragend, erhaben, eminent%}; in übertr. Bed.: {#unnato#} (v. l. für {#ucCrito) nipatanam (prApnoti)#} 
-<ls>NAVAR. 2</ls> in 
-<ls>HAEB. Anth. 1.</ls> <ls>RĀJA-TAR. 3, 284. 4, 611. 5, 190.</ls> {#guRonnata#} 
-<ls>4, 113.</ls> {#BAvonnatA#} 
-<ls>SĀH. D. 41, 18.</ls> {#upAsitaguruprajYABimAnonnatAH#}
+<div n="p">— {#ud#}
+<div n="1"> 1) {%sich in die Höhe richten, sich erheben%} (eig. und übertr.): {#unnamatpInottuNgapayoDarA#}
+<ls>PRAB. 70,14.</ls> {#unnamyonnamya tatrEva daridrARAM manoraTAH . hfdayezu vilIyante viDavAstrIstanAviva ..#}
+<ls>PAÑCAT. II,98.</ls> {#unnamati namati varzati garjati meGaH karoti timirOGam . praTamaSrIriva puruzaH karoti rUpARyanekAni ..#}
+<ls>MṚCCH. 85,11.</ls> {#unnamatyakAladurdinam#} {%es erhebt sich ein Unwetter%}
+<ls n="MṚCCH.">76,2.</ls> {#namratvenonnamantaH#}
+<ls>BHARTṚ. 2,59.</ls>
+<ls>RĀJA-TAR. 4,161.</ls> {#unnata#} {%in die Höhe gerichtet, in die Höhe gehend, erhöht, hoch, hervorstehend, gewölbt, erhaben%}; {#°caraRa#}
+<ls>HIT. 76,6.</ls> {#natonnataBruvA#}
+<ls>DRAUP. 5,1.</ls>
+<ls>VARĀH. BṚH. S. 4,8. 9. 11,46.</ls>
+<ls>ŚIŚ. 9,79.</ls> {#Sasya#}
+<ls>YAVANEŚV. 7</ls> in <ls>Z. f. d. K. d. M. 4,345.</ls> {#caturaNgulamunnataH#}
+<ls>MBH. 7,8750.</ls> {#sarvonnatena — AtmanA#}
+<ls>RAGH. 1,14.</ls> {#viyadunnatEH payodErvftam#}
+<ls>VARĀH. BṚH. S. 19,15.</ls> {#°sAnu#}
+<ls>KIR. 5,15.</ls> {#sODAlayErunnatAH (grAmAH)#} Inschr. in
+<ls>Journ. of the Am. Or. S. 7,10, Śl. 36.</ls> {#siMhonnatAMsa#}
+<ls>MBH. 4,233.</ls> <ls n="MBH. 4,">2303.</ls> <ls n="MBH.">7,1368.</ls>
+<ls>R. 5,14,17.</ls>
+<ls>BHĀG. P. 4,20,22.</ls> {#GoRonnataM muKam#}
+<ls>MṚCCH. 144,18.</ls> {#kUrmapfzWonata#}
+<ls>MBH. 3,1828.</ls>
+<ls>VARĀH. BṚH. S. 66,6. 67,2.</ls> {#uttaraH kukzirunnatataraH#}
+<ls>ŚAT. BR. 7,5,1,38.</ls> {#nitambonnatapIvara#}
+<ls>MBH. 3,1826.</ls> {#payoDara, stana#}
+<ls>BHARTṚ. 1,41.</ls>
+<ls>MĀLAV. 24.</ls>
+<ls>ṚT. 1,7.</ls>
+<ls>BRAHMAP.</ls> in <ls>LA. 51,15.</ls> <ls>SĀH. D. 42,4.</ls> {#°nABi#}
+<ls>HALĀY.</ls> im <ls>ŚKDR.</ls> {#danta#}
+<ls>P. 5,2,106.</ls> {#unnatadata AlaBate#} ved. Śit. beim
+<ls>Sch.</ls> zu <ls>P. 5,4,142.</ls> {#yadunnataM BUmyAH#}
+<ls>ṢAḌV. BR. 2,10.</ls>
+<ls>KĀṬH. 25,2.</ls>
+<ls>KAUŚ. 83.</ls> {#nimnonnatasma#}
+<ls>SUŚR. 1,23,5. 130,10.</ls>
+<ls>HIT. II,109.</ls> {#unnatAnata#}
+<ls>AK. 3,2,19.</ls>
+<ls>H. 1468.</ls> {#natonnata#}
+<ls>ŚĀK. 90.</ls> {#vizamonnata#}
+<ls>H. 1468.</ls> {#atyunnata#}
+<ls>ŚĀK. 56, v. l.</ls>
+<ls>SUŚR. 1,26,1.</ls> {#e/konnata (devayajana), tryu^nnata#} {%eine —, drei Erhöhungen habend%}
+<ls>TS. 6,2,6,2. 3.</ls> {#trirunnataM#}
+(<ls>ŚAṂK.</ls>: {#trIRyunnatAni urogrIvASirAMsi unnatAni yasmin tat) sTApya samaM SarIram#}
+<ls>ŚVETĀŚV. UP. 2,8.</ls> Oft ist von {%sechs hervorragenden%} oder {%gewölbten Theilen des Körpers%} als einer Zierde die Rede: {#zaqunnatA#}
+<ls>MBH. 4,253.</ls>
+<ls>R. 5,32,12.</ls> {#unnatezUnnatA zawsu#}
+<ls>MBH. 5,3939.</ls> {#kukzA#} (!) {#naKA nAsikAsyaM#} (!) {#kfkAwikA ceti zaqunnatAni#}
+<ls>VARĀH. BṚH. S. 87</ls> (!). Man vermisst bei dieser Aufzählung {%Stirn, Schultern, Brust, Hüften. — hoch, hochstehend, hervorragend, erhaben, eminent%}; in übertr. Bed.: {#unnato#} (v. l. für {#ucCrito) nipatanam (prApnoti)#}
+<ls>NAVAR. 2</ls> in
+<ls>HAEB. Anth. 1.</ls> <ls>RĀJA-TAR. 3,284. 4,611. 5,190.</ls> {#guRonnata#}
+<ls n="RĀJA-TAR.">4,113.</ls> {#BAvonnatA#}
+<ls>SĀH. D. 41,18.</ls> {#upAsitaguruprajYABimAnonnatAH#}
 [Page4-0044]
-
-<ls>BHARTṚ. 3, 52.</ls> {#mAnonnatacitta#} 
-<ls>PAÑCAT. 24, 17.</ls> {#unnatAtman#} 
-<ls>RĀJA-TAR. 1, 158. 3, 254. 5, 6.</ls> {#svaBAvonnataBAvatvAt#} 
-<ls>HARIV. 6318.</ls> {#°vikrama#} 
-<ls>R. 1, 16, 21.</ls> {#unnatecCa#} 
-<ls>RAGH. 6, 71.</ls> {#°SrI#} 
-<ls>KATHĀS. 2, 83.</ls> {#unnata#} <lex>m.</lex> Bez. {%eines besonders grossen%} oder {%grosshöckerigen Stiers%} 
-<ls>VS. 24, 7.</ls> 
-<ls>TS. 2, 1, 5, 1.</ls> 
-<ls>LĀṬY. 1, 6, 44.</ls> {#unnata#} <lex>n.</lex> {%Erhebung, Steigung%} im Gegens. zu {#nata#} {%Senkung%} 
-<ls>SŪRYAS. 12, 72.</ls> 
-<div n="1">— 2) {%aufrichten%}: {#pAtayitumasti SaktirvAyorvfkzaM na connamitum#} 
-<ls>PAÑCAT. I, 407.</ls> 
-<div n="v">— Vgl. {#unnati#} fgg. — caus. {%emporrichten, aufrichten, erheben%}: {#unnamya vadanaM BIruH SiMSapAM tAmudEkzata#} 
-<ls>R. 5, 30, 12.</ls> {#kadA nu cArudantOzWaM tasyAH padmaniBaM muKam . Izadunnamya paSyAmi#} 
-<ls>75, 12.</ls> <ls>VARĀH. BṚH. S. 93, 13.</ls> <ls>KATHĀS. 25, 148.</ls> {#unnamya kaMDarAm#} 
-<ls>VID. 22.</ls> {#muKamunnamayya#} 
-<ls>KUMĀRAS. 7, 23.</ls> 
-<ls>BHĀG. P. 3, 17, 10.</ls> {#muKamunnamayitum#} 
-<ls>ŚĀK. 108, 5, v. l.</ls> 
-<ls>MĀLAV. 73.</ls> {#unnAmya muKam#} 
-<ls>YĀJÑ. 3, 198.</ls> 
-<ls>MBH. 7, 6222.</ls> {#unnamita#} 
-<ls>SUŚR. 1, 359, 8.</ls> 
-<ls>VIKR. 81.</ls> 
-<ls>ŚĀK. 63. 73.</ls> 
-<ls>RAGH. 1, 41.</ls> 
-<ls>RĀJA-TAR. 4, 521.</ls> {#unnAmita#} 
-<ls>SUŚR. 1, 359, 10.</ls> 
-<ls>MĀRK. P. 39, 30.</ls> {#unnAmitaH KaNgaH#} 
-<ls>HIT. 100, 2.</ls> {#laGUnunnamayanBAvAngurUnapyavapAtayan . vAtuM viDirivAreBe pracaRqaSca praBaYjanaH ..#} 
-<ls>KATHĀS. 25, 42.</ls> {#svapArzRinApIqya gudaM tato 'nilaM sTAnezu zawsUnnamayejjitaklamaH ..#} 
-<ls>BHĀG. P. 2, 2, 19.</ls>
-
-<div n="p">— {#aByud#}, partic. {#aByunnata#} {%emporgerichtet, in die Höhe gehend, gewölbt%}: {#sTUlAByunnatakaRWaH (KaYjanaH)#} 
-<ls>VARĀH. BṚH. S. 44 (43), 2.</ls> {#lalAwa#} 
-<ls>67, 72.</ls> {#aNguzWanaKa#} 
-<ls>KUMĀRAS. 1, 33.</ls> {#aByunnatA purastAdavagAQA jaGanagOravAtpaScAt . dvAre 'sya pARqusikate padapaNktirdfSyate 'BinavA ..#} 
+<ls>BHARTṚ. 3,52.</ls> {#mAnonnatacitta#}
+<ls>PAÑCAT. 24,17.</ls> {#unnatAtman#}
+<ls>RĀJA-TAR. 1,158. 3,254. 5,6.</ls> {#svaBAvonnataBAvatvAt#}
+<ls>HARIV. 6318.</ls> {#°vikrama#}
+<ls>R. 1,16,21.</ls> {#unnatecCa#}
+<ls>RAGH. 6,71.</ls> {#°SrI#}
+<ls>KATHĀS. 2,83.</ls> {#unnata#} <lex>m.</lex> Bez. {%eines besonders grossen%} oder {%grosshöckerigen Stiers%}
+<ls>VS. 24,7.</ls>
+<ls>TS. 2,1,5,1.</ls>
+<ls>LĀṬY. 1,6,44.</ls> {#unnata#} <lex>n.</lex> {%Erhebung, Steigung%} im Gegens. zu {#nata#} {%Senkung%}
+<ls>SŪRYAS. 12,72.</ls>
+<div n="1">— 2) {%aufrichten%}: {#pAtayitumasti SaktirvAyorvfkzaM na connamitum#}
+<ls>PAÑCAT. I,407.</ls>
+<div n="v">— Vgl. {#unnati#} fgg. — caus. {%emporrichten, aufrichten, erheben%}: {#unnamya vadanaM BIruH SiMSapAM tAmudEkzata#}
+<ls>R. 5,30,12.</ls> {#kadA nu cArudantOzWaM tasyAH padmaniBaM muKam . Izadunnamya paSyAmi#}
+<ls n="R. 5,">75,12.</ls> <ls>VARĀH. BṚH. S. 93,13.</ls> <ls>KATHĀS. 25,148.</ls> {#unnamya kaMDarAm#}
+<ls>VID. 22.</ls> {#muKamunnamayya#}
+<ls>KUMĀRAS. 7,23.</ls>
+<ls>BHĀG. P. 3,17,10.</ls> {#muKamunnamayitum#}
+<ls>ŚĀK. 108,5, v. l.</ls>
+<ls>MĀLAV. 73.</ls> {#unnAmya muKam#}
+<ls>YĀJÑ. 3,198.</ls>
+<ls>MBH. 7,6222.</ls> {#unnamita#}
+<ls>SUŚR. 1,359,8.</ls>
+<ls>VIKR. 81.</ls>
+<ls>ŚĀK. 63. 73.</ls>
+<ls>RAGH. 1,41.</ls>
+<ls>RĀJA-TAR. 4,521.</ls> {#unnAmita#}
+<ls>SUŚR. 1,359,10.</ls>
+<ls>MĀRK. P. 39,30.</ls> {#unnAmitaH KaNgaH#}
+<ls>HIT. 100,2.</ls> {#laGUnunnamayanBAvAngurUnapyavapAtayan . vAtuM viDirivAreBe pracaRqaSca praBaYjanaH ..#}
+<ls>KATHĀS. 25,42.</ls> {#svapArzRinApIqya gudaM tato 'nilaM sTAnezu zawsUnnamayejjitaklamaH ..#}
+<ls>BHĀG. P. 2,2,19.</ls>
+<div n="p">— {#aByud#}, partic. {#aByunnata#} {%emporgerichtet, in die Höhe gehend, gewölbt%}: {#sTUlAByunnatakaRWaH (KaYjanaH)#}
+<ls>VARĀH. BṚH. S. 44 (43),2.</ls> {#lalAwa#}
+<ls n="VARĀH. BṚH. S.">67,72.</ls> {#aNguzWanaKa#}
+<ls>KUMĀRAS. 1,33.</ls> {#aByunnatA purastAdavagAQA jaGanagOravAtpaScAt . dvAre 'sya pARqusikate padapaNktirdfSyate 'BinavA ..#}
 <ls>ŚĀK. 56.</ls>
-
-<div n="p">— {#samaByud#} {%sich erheben%}: {#meGEH samaByunnatEH#} 
-<ls>MṚCCH. 76, 20.</ls>
-
-<div n="p">— {#prod#}, partic. {#pronnata#} {%stark hervorragend, sehr hoch%}: {#puMsAM yaTANgezu sirAstaTEva kzitAvapi pronnatanimnasaMsTAH#} 
-<ls>VARĀH. BṚH. S. 53, 1.</ls> {#°sTAna#} 
-<ls>PAÑCAT. 118, 9.</ls> {%überlegen%}: {#abalaH pronnataM SatruM yo yAti madamohitaH . yudDArTam#} 
-<ls>I, 387.</ls> {#bala°#} {%an Macht überlegen%} 
-<ls>267.</ls> — caus. {%in die Höhe richten%}: {#pronnamya cEnAm#} 
-<ls>SUŚR. 1, 60, 15.</ls> {#pronnamito 'NGriH#} 
-<ls>BHĀG. P. 8, 21, 3.</ls>
-
-<div n="p">— {#samud#} {%sich erheben%}: {#samunnemuH payoDarAH#} 
-<ls>BHAṬṬ. 7, 1.</ls> {#samunnata#} {%in die Höhe gerichtet, hoch, gewölbt, hervorragend%}: {#°lANgula#} 
-<ls>HIT. 76, 6.</ls> {#uttarozWena samunnatena (kalahapriyA)#} 
-<ls>VARĀH. BṚH. S. 68, 23.</ls> {#SmaSru#} 
-<ls>67, 57.</ls> {#SUreSvaraM pratizWApya svaveSmeva samunnatam#} 
-<ls>RĀJA-TAR. 5, 38.</ls> {#hfdayaM samunnataM pfTutaram#} 
-<ls>VARĀH. BṚH. S. 67, 28.</ls> {#kUrma°#} 
-<ls>68, 3.</ls> {#gurusamunnatapInapayoDarA#} 
-<ls>AMAR. 51.</ls> 
-<ls>MĀLAV. 42.</ls> {#SravaRO te virAjete pramARena samunnatO#} 
-<ls>R. 3, 52, 30.</ls> {%hoch, erhaben%} in übertr. Bed.: {#svaBAvAtpArTivatA samunnatA#} 
-<ls>KĀM. NĪTIS. 1, 64.</ls> — caus. {%emporrichten, aufheben, in die Höhe heben, auftreiben%}: {#muKamasyAH samunnamayitumicCati#} 
-<ls>ŚĀK. 40, 16.</ls> {#muKaM kiMcitsamunnAmya#} 
-<ls>MBH. 7, 8859.</ls> {#samunnAmya ca putrakam#} 
-<ls>15, 645.</ls> {#vraRaM samunnamya#} 
-<ls>SUŚR. 1, 93, 14.</ls> {#tvacaH samunnamya SanEH samantAdvivarDamAno jaWaraM karoti#} 
-<ls>275, 11.</ls>
-
-<div n="p">— {#upa#} {%kommen zu, sich einstellen bei, zu Theil werden%}; mit dem acc. der Person: {#upEnaM sahasraM namati#} 
-<ls>AIT. BR. 5, 14. 1, 4. 5.</ls> {#yaM sattriyA dIkzopanamet#} 
-<ls>4, 26.</ls> {#ya\devEna^M ya\jYa u^pa\name^t aTAda^DIta#} {%wenn ihn ankommt zu opfern%} 
-<ls>TBR. 1, 1, 2, 8.</ls> {#upE^na\mutta^ro ya\jYo na^mati#} {%fällt ihm zu%} 
-<ls>8, 4. 9, 7. 8. 8, 8, 3.</ls> {#tato\ vE tAma\nnAdya\mupA^namat#} 
-<ls>TS. 1, 5, 4, 2.</ls> {#yamala^M rA\jyAya\ santa^M rA\jyaM nopa\name^t#} 
-<ls>2, 1, 3, 4.</ls> <ls>AIT. BR. 8, 26.</ls> {#yaM kAmo\ nopa\name^t#} 
-<ls>TS. 2, 2, 3, 1.</ls> 
-<ls>VS. 26, 2.</ls> 
-<ls>ŚAT. BR. 2, 1, 3, 9. 4, 19. 21. 3, 1, 1, 3.</ls> {#aByASo ha yadenaM sADavo DarmA A ca gacCeyurupa ca nameyuH#} 
-<ls>CHĀND. UP. 2, 1, 4.</ls> {#kAnvApado nopanamanti#} 
-<ls>MBH. 12, 8201.</ls> mit dem dat. der Person: {#yadA tu parabADayAnDa Atmane nopanamati#} 
-<ls>BHĀG. P. 5, 14, 14.</ls> mit dem gen. der Person: {#akfcCralaNGyAH panTAno #}
+<div n="p">— {#samaByud#} {%sich erheben%}: {#meGEH samaByunnatEH#}
+<ls>MṚCCH. 76,20.</ls>
+<div n="p">— {#prod#}, partic. {#pronnata#} {%stark hervorragend, sehr hoch%}: {#puMsAM yaTANgezu sirAstaTEva kzitAvapi pronnatanimnasaMsTAH#}
+<ls>VARĀH. BṚH. S. 53,1.</ls> {#°sTAna#}
+<ls>PAÑCAT. 118,9.</ls> {%überlegen%}: {#abalaH pronnataM SatruM yo yAti madamohitaH . yudDArTam#}
+<ls n="PAÑCAT.">I,387.</ls> {#bala°#} {%an Macht überlegen%}
+<ls n="PAÑCAT. I,">267.</ls> — caus. {%in die Höhe richten%}: {#pronnamya cEnAm#}
+<ls>SUŚR. 1,60,15.</ls> {#pronnamito 'NGriH#}
+<ls>BHĀG. P. 8,21,3.</ls>
+<div n="p">— {#samud#} {%sich erheben%}: {#samunnemuH payoDarAH#}
+<ls>BHAṬṬ. 7,1.</ls> {#samunnata#} {%in die Höhe gerichtet, hoch, gewölbt, hervorragend%}: {#°lANgula#}
+<ls>HIT. 76,6.</ls> {#uttarozWena samunnatena (kalahapriyA)#}
+<ls>VARĀH. BṚH. S. 68,23.</ls> {#SmaSru#}
+<ls n="VARĀH. BṚH. S.">67,57.</ls> {#SUreSvaraM pratizWApya svaveSmeva samunnatam#}
+<ls>RĀJA-TAR. 5,38.</ls> {#hfdayaM samunnataM pfTutaram#}
+<ls>VARĀH. BṚH. S. 67,28.</ls> {#kUrma°#}
+<ls n="VARĀH. BṚH. S.">68,3.</ls> {#gurusamunnatapInapayoDarA#}
+<ls>AMAR. 51.</ls>
+<ls>MĀLAV. 42.</ls> {#SravaRO te virAjete pramARena samunnatO#}
+<ls>R. 3,52,30.</ls> {%hoch, erhaben%} in übertr. Bed.: {#svaBAvAtpArTivatA samunnatA#}
+<ls>KĀM. NĪTIS. 1,64.</ls> — caus. {%emporrichten, aufheben, in die Höhe heben, auftreiben%}: {#muKamasyAH samunnamayitumicCati#}
+<ls>ŚĀK. 40,16.</ls> {#muKaM kiMcitsamunnAmya#}
+<ls>MBH. 7,8859.</ls> {#samunnAmya ca putrakam#}
+<ls n="MBH.">15,645.</ls> {#vraRaM samunnamya#}
+<ls>SUŚR. 1,93,14.</ls> {#tvacaH samunnamya SanEH samantAdvivarDamAno jaWaraM karoti#}
+<ls n="SUŚR.">275,11.</ls>
+<div n="p">— {#upa#} {%kommen zu, sich einstellen bei, zu Theil werden%}; mit dem acc. der Person: {#upEnaM sahasraM namati#}
+<ls>AIT. BR. 5,14. 1,4. 5.</ls> {#yaM sattriyA dIkzopanamet#}
+<ls n="AIT. BR.">4,26.</ls> {#ya\devEna^M ya\jYa u^pa\name^t aTAda^DIta#} {%wenn ihn ankommt zu opfern%}
+<ls>TBR. 1,1,2,8.</ls> {#upE^na\mutta^ro ya\jYo na^mati#} {%fällt ihm zu%}
+<ls n="TBR.">8,4. 9,7. 8. 8,8,3.</ls> {#tato\ vE tAma\nnAdya\mupA^namat#}
+<ls>TS. 1,5,4,2.</ls> {#yamala^M rA\jyAya\ santa^M rA\jyaM nopa\name^t#}
+<ls n="TS.">2,1,3,4.</ls> <ls>AIT. BR. 8,26.</ls> {#yaM kAmo\ nopa\name^t#}
+<ls>TS. 2,2,3,1.</ls>
+<ls>VS. 26,2.</ls>
+<ls>ŚAT. BR. 2,1,3,9. 4,19. 21. 3,1,1,3.</ls> {#aByASo ha yadenaM sADavo DarmA A ca gacCeyurupa ca nameyuH#}
+<ls>CHĀND. UP. 2,1,4.</ls> {#kAnvApado nopanamanti#}
+<ls>MBH. 12,8201.</ls> mit dem dat. der Person: {#yadA tu parabADayAnDa Atmane nopanamati#}
+<ls>BHĀG. P. 5,14,14.</ls> mit dem gen. der Person: {#akfcCralaNGyAH panTAno #}
 [Page4-0045]
-{# vallaBAtiTayo gfhAH . upAnamangacCato 'sya satkriyASca pade pade ..#} 
-<ls>RĀJA-TAR. 3, 224.</ls> ohne Ergänzung: {#matsaMyogaH kaTamupanametsvapnajo 'pi#} 
-<ls>MEGH. 88, v. l.</ls> mit dem acc. der Person und instr. der Sache {%sich Jmd mit Etwas nähern, Jmd mit Etwas aufwarten%}: {#patiM ca - priyEstEstErupanamet#} 
-<ls>BHĀG. P. 6, 19, 16.</ls> — {#upanata#} 
-<div n="1"> 1) {%hergebogen, einwärts gebogen%}: {#yUpa#} 
-<ls>ŚAT. BR. 11, 7, 3, 3.</ls> 
-<ls>KĀTY. ŚR. 6, 1, 8.</ls> {#agnerarDAdupanataM yUpasya kuryAdvahizwAnnirRatam#} 
-<ls>KĀṬH. 26, 6.</ls> 
-<div n="1">— 2) {%unterworfen der sich in Jmds Gewalt begeben hat, der sich ergeben hat, der sich unter Jmds Schutz gestellt hat%}: {#daRqenopanataM SatrumanugfhRAti yo naraH#} 
-<ls>MBH. 1, 5623.</ls> 
-<ls>RAGH. 8, 80.</ls> {#purA pratijYopanatAM nAgAnAM dAsaBAvataH . nizkrazwukAmo jananI garuqaH#} 
-<ls>KATHĀS. 12, 138. 20, 5.</ls> 
-<div n="1">— 3) {%zu Theil geworden, zugeführt, zu Wege gebracht, nahe gebracht, da seiend%} 
-<ls>H. 1494.</ls> {#akAmopanateneva - enasA#} 
-<ls>RAGH. 10, 40.</ls> {#paralokopanataM jalAYjalim#} 
-<ls>8, 67.</ls> {#praBAvopanatEH - puzpEH#} 
-<ls>5, 52.</ls> {#akARqapAtopanatA kaM na lakzmIrvimohayet#} 
-<ls>KATHĀS. 5, 2.</ls> 
-<ls>RĀJA-TAR. 4, 480.</ls> {#kasyAtyantaM suKamupanataM#} (v. l. für {#upagataM) duHKamekAntato vA#} 
-<ls>MEGH. 108.</ls> {#kAntodantaH suhfdupanataH#} 98. {#yadevopanataM duHKAtsuKaM tadrasavattaram#} 
-<ls>VIKR. 62. 73. 149.</ls> 
-<ls>ŚĀK. 115.</ls> 
-<ls>RAGH. 12, 102.</ls> {#asTAnopanatayamunAsaMgama#} 
-<ls>MEGH. 52, v. l.</ls> für {#upagata#}.{# yastviha vA asaMviBajyASnAti yatkiMcanopanatam#} {%was ihm aufstösst%} 
-<ls>BHĀG. P. 5, 26, 18.</ls> {#yallokaSAstropanataM na rAti na tadicCati#} {%was Jmd zugeführt wird%} d. i. {%zukommt%} 
-(<ls>BURNOUF</ls>: {%qui ne savent pas l'un donner, l'autre accepter ce qui, d'apres la loi et la monde, doit être offert ou reçu%}) 
-<ls>4, 27, 25.</ls> {#°Baya#} {%dem Gefahr drohet%} 
-<ls>PAÑCAT. III, 235.</ls> {#DyAtopanata#} {%da seiend, sobald man nur daran gedacht hat%}, 
-<ls>VID. 210. 261.</ls> 
-<ls>KATHĀS. 22, 9.</ls> {#upanate meGasamaye#} 
-<ls>Spr. 74.</ls> 
-<div n="v">— Vgl. {#upanati, °nAmuka#} . — caus. {%Jmd vor Jmd%} (gen.) {%hinführen, Jmd vorstellen%}: {#(tam) AnAyya mahato jYAtisaMGasyopanAmayitvA upanAmya ca#} 
-<ls>SADDH. P. 4, 25</ls>, {%a. hinreichen%} (?): {#(piRqAn) kumAryA upanAmayet#} 
-<ls>GOBH. 2, 1, 3.</ls>
-
-<div n="p">— {#ni#} 
-<div n="1"> 1) {%sich beugen, sich legen, sich niederstrecken, sich niederbeugen, sich erniedrigen%}; act.: {#(agne) ucCva^Ycasva\ ni na^ma\ varDa^mAna\ A tvA\dya vasa^vaH sadantu#} 
-<ls>ṚV. 10, 142, 6.</ls> med.: {#ni zU na^maDva\M Bava^tA supA\rAH#} 
-<ls n="ṚV.">3, 33, 9.</ls> {#ni te^ naMsE pIpyA\neva\ yozA^#} 10. {#nya^smE dyu\mnA janyA^ namantAm#} 
-<ls n="ṚV.">10, 42, 6.</ls> 
-<div n="1">— 2) {%niederbeugen%}: {#yo nantvA\nyana^ma\nnyoja^sA#} 
-<ls>ṚV. 2, 24, 2.</ls> {#na parva^tA ni\name^#} (dat. inf.) 
-<ls n="ṚV.">3, 56, 1.</ls>
-
-<div n="p">— {#nis#}, partic. {#nirRata#} {%ausgebogen, hervorstehend%} 
-<ls>KĀṬH. 26, 6</ls> (s. u. {#upa upanata#} 1.). {#nirRatodara#} 
-<ls>MBH. 7, 7894.</ls> 
-<ls>HARIV. 15904.</ls> 
-<ls>R. 5, 25, 20.</ls> fälschlich {#nirnatodara#} geschrieben 
-<ls>MBH. 7, 6792.</ls> 
-<ls>HARIV. 13029.</ls> 
-<ls>R. 3, 7, 6. 24, 13. 6, 74, 8.</ls> Nicht recht deutlich ist die Bed. von {#nirRatatama#} 
-<ls>NIR. 8, 5</ls> : {#napAdityanantarAyAH prajAyA nAmaDeyaM nirRatatamA Bavati#}; der Comm.: {#putrastAvatipaturnIcErnataH#} ({%verbeugt sich tief vor dem Vater%}) {#tato 'pi nIcErnatatamaH pOtraH#} .
-
-<div n="p">— {#pari#} 
-<div n="1"> 1) {%sich zur Seite biegen%}, von einem Elephanten, der im Begriff steht mit seinen Fangzähnen einen Stoss zu thun: {#paryaRaMsIt#} 
-<ls>ŚIŚ. 18, 27.</ls> Ein Elephant in dieser Stellung heisst {#pariRata#} 
-<ls>H. 1221.</ls> 
-<ls>MEGH. 2.</ls> 
-<ls>DAŚAK. 75, 1</ls>; vgl. caus. 3. {#lajjApariRatEH (vadanakamalEH)#} {%aus Scham sich zur Seite wendend%} 
-<ls>BHARTṚ. 1, 4.</ls> {#jyA^ke\ pari^ Ro nama#} {%biege dich uns zur Seite%} so v. a. {%triff uns nicht%} 
-<ls>AV. 1, 2, 2.</ls> 
-<div n="1">— 2) ({%sich umbiegen) sich verändern, sich umwandeln in%} (instr.): {#pariRAmasvaBAvA triguRA nApariRamya kzaRamavatizWante#} Schol. in 
-<ls>WILSON</ls><ls>?'S SĀṂKHYAK. S. 64.</ls> {#jagadAkAreRa pariRamate#} 
-<ls>MADHUS.</ls> in <ls>Ind. St. 1,23,  18.</ls> <ls>VEDĀNTAS. (Allah.) S. 63, N.</ls>
+{# vallaBAtiTayo gfhAH . upAnamangacCato 'sya satkriyASca pade pade ..#}
+<ls>RĀJA-TAR. 3,224.</ls> ohne Ergänzung: {#matsaMyogaH kaTamupanametsvapnajo 'pi#}
+<ls>MEGH. 88, v. l.</ls> mit dem acc. der Person und instr. der Sache {%sich Jmd mit Etwas nähern, Jmd mit Etwas aufwarten%}: {#patiM ca — priyEstEstErupanamet#}
+<ls>BHĀG. P. 6,19,16.</ls> — {#upanata#}
+<div n="1"> 1) {%hergebogen, einwärts gebogen%}: {#yUpa#}
+<ls>ŚAT. BR. 11,7,3,3.</ls>
+<ls>KĀTY. ŚR. 6,1,8.</ls> {#agnerarDAdupanataM yUpasya kuryAdvahizwAnnirRatam#}
+<ls>KĀṬH. 26,6.</ls>
+<div n="1">— 2) {%unterworfen der sich in Jmds Gewalt begeben hat, der sich ergeben hat, der sich unter Jmds Schutz gestellt hat%}: {#daRqenopanataM SatrumanugfhRAti yo naraH#}
+<ls>MBH. 1,5623.</ls>
+<ls>RAGH. 8,80.</ls> {#purA pratijYopanatAM nAgAnAM dAsaBAvataH . nizkrazwukAmo jananI garuqaH#}
+<ls>KATHĀS. 12,138.</ls> <ls n="KATHĀS.">20,5.</ls>
+<div n="1">— 3) {%zu Theil geworden, zugeführt, zu Wege gebracht, nahe gebracht, da seiend%}
+<ls>H. 1494.</ls> {#akAmopanateneva — enasA#}
+<ls>RAGH. 10,40.</ls> {#paralokopanataM jalAYjalim#}
+<ls n="RAGH.">8,67.</ls> {#praBAvopanatEH — puzpEH#}
+<ls n="RAGH.">5,52.</ls> {#akARqapAtopanatA kaM na lakzmIrvimohayet#}
+<ls>KATHĀS. 5,2.</ls>
+<ls>RĀJA-TAR. 4,480.</ls> {#kasyAtyantaM suKamupanataM#} (v. l. für {#upagataM) duHKamekAntato vA#}
+<ls>MEGH. 108.</ls> {#kAntodantaH suhfdupanataH#} 98. {#yadevopanataM duHKAtsuKaM tadrasavattaram#}
+<ls>VIKR. 62. 73. 149.</ls>
+<ls>ŚĀK. 115.</ls>
+<ls>RAGH. 12,102.</ls> {#asTAnopanatayamunAsaMgama#}
+<ls>MEGH. 52, v. l.</ls> für {#upagata#}.{# yastviha vA asaMviBajyASnAti yatkiMcanopanatam#} {%was ihm aufstösst%}
+<ls>BHĀG. P. 5,26,18.</ls> {#yallokaSAstropanataM na rAti na tadicCati#} {%was Jmd zugeführt wird%} <ab>d. i.</ab> {%zukommt%}
+(<ls>BURNOUF</ls>: {%qui ne savent pas l'un donner, l'autre accepter ce qui, d'apres la loi et la monde, doit être offert ou reçu%})
+<ls n="BHĀG. P.">4,27,25.</ls> {#°Baya#} {%dem Gefahr drohet%}
+<ls>PAÑCAT. III,235.</ls> {#DyAtopanata#} {%da seiend, sobald man nur daran gedacht hat%},
+<ls>VID. 210. 261.</ls>
+<ls>KATHĀS. 22,9.</ls> {#upanate meGasamaye#}
+<ls>Spr. 74.</ls>
+<div n="v">— Vgl. {#upanati, °nAmuka#} . — caus. {%Jmd vor Jmd%} (gen.) {%hinführen, Jmd vorstellen%}: {#(tam) AnAyya mahato jYAtisaMGasyopanAmayitvA upanAmya ca#}
+<ls>SADDH. P. 4,25</ls>, {%a. hinreichen%} (?): {#(piRqAn) kumAryA upanAmayet#}
+<ls>GOBH. 2,1,3.</ls>
+<div n="p">— {#ni#}
+<div n="1"> 1) {%sich beugen, sich legen, sich niederstrecken, sich niederbeugen, sich erniedrigen%}; act.: {#(agne) ucCva^Ycasva\ ni na^ma\ varDa^mAna\ A tvA\dya vasa^vaH sadantu#}
+<ls>ṚV. 10,142,6.</ls> med.: {#ni zU na^maDva\M Bava^tA supA\rAH#}
+<ls n="ṚV.">3,33,9.</ls> {#ni te^ naMsE pIpyA\neva\ yozA^#} 10. {#nya^smE dyu\mnA janyA^ namantAm#}
+<ls n="ṚV.">10,42,6.</ls>
+<div n="1">— 2) {%niederbeugen%}: {#yo nantvA\nyana^ma\nnyoja^sA#}
+<ls>ṚV. 2,24,2.</ls> {#na parva^tA ni\name^#} (dat. inf.)
+<ls n="ṚV.">3,56,1.</ls>
+<div n="p">— {#nis#}, partic. {#nirRata#} {%ausgebogen, hervorstehend%}
+<ls>KĀṬH. 26,6</ls> (s. u. {#upa upanata#} 1.). {#nirRatodara#}
+<ls>MBH. 7,7894.</ls>
+<ls>HARIV. 15904.</ls>
+<ls>R. 5,25,20.</ls> fälschlich {#nirnatodara#} geschrieben
+<ls>MBH. 7,6792.</ls>
+<ls>HARIV. 13029.</ls>
+<ls>R. 3,7,6.</ls> <ls n="R. 3,">24,13.</ls> <ls n="R.">6,74,8.</ls> Nicht recht deutlich ist die Bed. von {#nirRatatama#}
+<ls>NIR. 8,5</ls> : {#napAdityanantarAyAH prajAyA nAmaDeyaM nirRatatamA Bavati#}; der Comm.: {#putrastAvatipaturnIcErnataH#} ({%verbeugt sich tief vor dem Vater%}) {#tato 'pi nIcErnatatamaH pOtraH#} .
+<div n="p">— {#pari#}
+<div n="1"> 1) {%sich zur Seite biegen%}, von einem Elephanten, der im Begriff steht mit seinen Fangzähnen einen Stoss zu thun: {#paryaRaMsIt#}
+<ls>ŚIŚ. 18,27.</ls> Ein Elephant in dieser Stellung heisst {#pariRata#}
+<ls>H. 1221.</ls>
+<ls>MEGH. 2.</ls>
+<ls>DAŚAK. 75,1</ls>; vgl. caus. 3. {#lajjApariRatEH (vadanakamalEH)#} {%aus Scham sich zur Seite wendend%}
+<ls>BHARTṚ. 1,4.</ls> {#jyA^ke\ pari^ Ro nama#} {%biege dich uns zur Seite%} so v. a. {%triff uns nicht%}
+<ls>AV. 1,2,2.</ls>
+<div n="1">— 2) ({%sich umbiegen) sich verändern, sich umwandeln in%} (instr.): {#pariRAmasvaBAvA triguRA nApariRamya kzaRamavatizWante#} Schol. in
+<ls>WILSON</ls>'S <ls>SĀṂKHYAK. S. 64.</ls> {#jagadAkAreRa pariRamate#}
+<ls>MADHUS.</ls> in <ls>Ind. St. 1,23,18.</ls> <ls>VEDĀNTAS. (Allah.) S. 63, N.</ls>
 [Page4-0046]
-{#yoginAM pariRamanvimuktaye - vinayaH#} 
-<ls>KIR. 13, 44.</ls> {#pariRata#} {%verändert, umgewandelt, verwandelt in%}: {#tA evOzaDayaH kAlapariRAmAtpariRatavIryAH (Bavanti)#} 
-<ls>SUŚR. 1, 20, 11.</ls> {#srotomUrtyA Buvi pariRatA#} {%in Flussgestalt verwandelt%} 
-<ls>MEGH. 46.</ls> {#nadIBAvena pariRatA#} 
-<ls>VIKR. 115.</ls> {#SarIrAkArapariRate 'nnAdye#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 101.</ls> {#rUpAntara°#} 
-<ls>SĀH. D. 22, 14.</ls> 
-<ls>AMAR. 46.</ls> 
-<div n="1">— 3) {%reif werden%}: {#pariRata#} {%gereift, reif%} 
-<ls>AK. 3, 2, 46.</ls> 
-<ls>H. 1485.</ls> 
-<ls>MBH. 5, 1109. 12, 671.</ls> 
-<ls>HARIV. 7870.</ls> 
-<ls>MEGH. 18.</ls> 
-<ls>VARĀH. BṚH. S. 82 (80</ls>, {%b%}), 8. {%verdaut werden%}: {#grastaM pariRamecca yat#} 
-<ls>MBH. 5, 1107.</ls> 
-<ls>PAÑCAT. 232, 7.</ls> {#AhArasya samyakapariRatasya#} 
-<ls>SUŚR. 1, 43, 4.</ls> {%reifen%} in übertr. Bed., {%alt werden%}: {#pariRamanti na pallavAni#} {%bleiben stets jung und frisch%} 
-<ls>KIR. 5, 37.</ls> {#mADavapariRatapattrA katipayakusumeva kundalatA#} 
-<ls>MĀLAV. 43.</ls> 
-<ls>ṚT. 1, 26.</ls> {#pariRatavayas#} {%reifen, vorgerückten Alters%} 
-<ls>SUŚR. 1, 368, 10.</ls> 
-<ls>PAÑCAT. 197, 18. 211, 13.</ls> {#jarApariRata#} 
-<ls>HIT. I, 146.</ls> {#pariRato budDyA vayasA ca#} {%reif an Verstand und Alter%} 
-<ls>R. 2, 43, 15.</ls> {#yasya budDiH pariRatA#} 
-<ls>HARIV. 4196.</ls> 
-<ls>SĀH. D. 2, 4.</ls> {#pariRataprajYa#} 
-<ls>MBH. 2, 1949.</ls> {#sUrye pariRate sati#} {%als die Sonne im Untergehen war%} 
-<ls>4, 1036.</ls> {#pariRatAruRa#} {%die untergehende Sonne%} 
-<ls>ŚĀK. 31.</ls> {#°Sarad#} {%Spätherbst%} 
-<ls>MEGH. 109.</ls> 
-<ls>BHARTṚ. 3, 86, v. l.</ls> {#pariRate kAle#} {%nachdem eine geraume Zeit verflossen war%} 
-<ls>BHĀG. P. 9, 1, 42.</ls> {#ekAkini vanavAsinyarAjyalakzaRyanItiSAstrajYe . sattvotkawe mfgapatO rAjeti giraH pariRamanti ..#} {%wird reif, erhält seine wahre Bedeutung%} 
-<ls>PAÑCAT. ed. orn. I, 5.</ls> 
-<div n="v">— Vgl. {#pariRati, pariRAma#} . — caus. 
-<div n="1"> 1) {%reif machen, zeitigen%}: {#pAcyAMSca sarvAnpariRAmayedyaH#} 
-<ls>ŚVETĀŚV. UP. 5, 5.</ls> pass. {%reif werden%}: {#dEvena pariRAmyatA#} 
-<ls>HARIV. 2957.</ls> {#pariRAmyamAnaH SUraH#} 
-<ls>RATNAG. 6, 9.</ls> Vgl. {#pariRamayitar#} . 
-<div n="1">— 2) {%zu Ende bringen%} (eine Zeit). {#pariRAmya niSAM tAM tu suKasuptAH#} 
-<ls>MBH. 6, 3847. 7, 792.</ls> 
-<div n="1">— 3) {%sich zur Seite schwenken%}: {#nimittaM manyamAnAstu pariRAmya mahAgajAH . jagfhurbiBiduScEva citrARyABaraRAni ca ..#} 
-<ls>MBH. 8, 1143</ls>; vgl. oben u. 1. — desid. s. {#pariRinaMsu#} .
-
-<div n="p">— {#vipari#} pass. vom simpl. oder caus. {%sich umwandeln in%}: {#kartari SabityataH kartfgrahaRamanuvartate . tacca praTamayA vipariRamyate#} 
-<ls>Schol.</ls> zu <ls>P. 3, 1, 87.</ls> <ls>KĀŚ.</ls> zu <ls>P. 4, 1, 163.</ls>
-
-<div n="p">— {#pra#} {%sich verbeugen, sich verbeugen vor%} (dat. gen. loc. acc.): {#praRamya praRiDAya kAyaM prasAdaye tvAmaham#} 
-<ls>BHAG. 11, 44.</ls> 
-<ls>M. 2, 197.</ls> 
-<ls>RAGH. 2, 21.</ls> 
-<ls>HIT. 40, 20.</ls> {#praRameddaRqavadBUmO#} 
-<ls>BHĀG. P. 6, 19, 9.</ls> <ls>Z. d. d. m. G. 14, 573, 26.</ls> {#sAzwANgaM praRamya#} 
-<ls>PAÑCAT. 33, 12.</ls> {#praRemurBuvi mUrDaBiH#} 
-<ls>BHĀG. P. 3, 3, 28.</ls> {#praRamAna#} 
-<ls>R. GORR. 2, 3, 11.</ls> {#praRamya lokapAleByaH#} 
-<ls>M. 8, 23.</ls> 
-<ls>R. 5, 5, 6. 6, 101, 26.</ls> 
-<ls>RAGH. 13, 70.</ls> 
-<ls>PAÑCAT. 159, 21.</ls> {#prARamaM BUyastripuraGnAya#} 
-<ls>ARJ. 10, 57.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 68, 11.</ls> 
-<ls>ŚĀK. 109, 16.</ls> 
-<ls>PAÑCAT. III, 7.</ls> {#indrAya sa praRamate#} 
-<ls>MBH. 5, 1130.</ls> 
-<ls>R. 2, 25, 4. 4, 33, 33.</ls> {#praRamya SirasA tadA . vrAhmaRAnAM pitFRAM ca devatAnAM ca#} 
-<ls>MBH. 5, 7248.</ls> 
-<ls>R. 4, 13, 24. 5, 31, 32.</ls> {#balIyasi#} (v. l. {#balIyase) praRamatAm#} 
-<ls>KĀM. NĪTIS. 9, 50.</ls> {#praRamya SirasA devam#} 
-<ls>BHĀG. 11, 14.</ls> <ls>MBH. 3, 788. 2710. 5, 7064.</ls> <ls>R. 1, 2, 28.</ls> {#pAdO praRamya rAmasya#} 
-<ls>?4, 42, 15. MĀLAV. 46, 8. ŚĀK. 75, 12. PAÑCAT. 24, 12. VID. 249. VET. in LA. 1, 1. ŚUK. in LA. 38, 7.</ls> {#prARamadvizRutejasam#} 
-<ls>MBH. 3, 8681. 4, 197.</ls> 
-<ls>HARIV. 2719. 14991.</ls> 
-<ls>R. 2, 52, 73. 4, 13, 26.</ls> {#(tAm) aYjaliBiH praRemuH#} 
-<ls>RAGH. 14, 13.</ls> 
-<ls>VIKR. 87, 18.</ls> 
-<ls>KATHĀS. 20, 26.</ls> 
-<ls>BHĀG. P. 1, 9, 4.</ls> {#praRame tvA#} 
-<ls>MBH. 3, 2443.</ls> 
-<ls>R. 4, 39, 40.</ls> pass.: {#nfpEH praRamyamAnaH#} 
-<ls>KATHĀS. 20, 224.</ls> — partic. {#praRata#} {%vorgebeugt, gebeugt, mit gebeugtem Oberkörper stehend%}: {#kuvakra iva praRataH#} 
-<ls>ŚĀṄKH. BR. 28, 2.</ls> {#a°#} 
-<ls>GOBH. 1, 2, 18.</ls> {#BftyavatpraRatastasTO#} 
-<ls>ARJ. 2, 9.</ls> 
-<ls>M. 11. 195.</ls> 
-<ls>SĀV. 3, 11.</ls> 
-<ls>R. 1,4,  9. 57, 18.</ls> 
-<ls>KATHĀS. 2, 29.</ls> 
-<ls>BHĀG. P. 3, 9, 22.</ls> 
-<ls>MĀRK. P. 16, 18.</ls>
+{#yoginAM pariRamanvimuktaye — vinayaH#}
+<ls>KIR. 13,44.</ls> {#pariRata#} {%verändert, umgewandelt, verwandelt in%}: {#tA evOzaDayaH kAlapariRAmAtpariRatavIryAH (Bavanti)#}
+<ls>SUŚR. 1,20,11.</ls> {#srotomUrtyA Buvi pariRatA#} {%in Flussgestalt verwandelt%}
+<ls>MEGH. 46.</ls> {#nadIBAvena pariRatA#}
+<ls>VIKR. 115.</ls> {#SarIrAkArapariRate 'nnAdye#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 101.</ls> {#rUpAntara°#}
+<ls>SĀH. D. 22,14.</ls>
+<ls>AMAR. 46.</ls>
+<div n="1">— 3) {%reif werden%}: {#pariRata#} {%gereift, reif%}
+<ls>AK. 3,2,46.</ls>
+<ls>H. 1485.</ls>
+<ls>MBH. 5,1109.</ls> <ls n="MBH.">12,671.</ls>
+<ls>HARIV. 7870.</ls>
+<ls>MEGH. 18.</ls>
+<ls>VARĀH. BṚH. S. 82 (80</ls>, {%b%}),8. {%verdaut werden%}: {#grastaM pariRamecca yat#}
+<ls>MBH. 5,1107.</ls>
+<ls>PAÑCAT. 232,7.</ls> {#AhArasya samyakapariRatasya#}
+<ls>SUŚR. 1,43,4.</ls> {%reifen%} in übertr. Bed., {%alt werden%}: {#pariRamanti na pallavAni#} {%bleiben stets jung und frisch%}
+<ls>KIR. 5,37.</ls> {#mADavapariRatapattrA katipayakusumeva kundalatA#}
+<ls>MĀLAV. 43.</ls>
+<ls>ṚT. 1,26.</ls> {#pariRatavayas#} {%reifen, vorgerückten Alters%}
+<ls>SUŚR. 1,368,10.</ls>
+<ls>PAÑCAT. 197,18.</ls> <ls n="PAÑCAT.">211,13.</ls> {#jarApariRata#}
+<ls>HIT. I,146.</ls> {#pariRato budDyA vayasA ca#} {%reif an Verstand und Alter%}
+<ls>R. 2,43,15.</ls> {#yasya budDiH pariRatA#}
+<ls>HARIV. 4196.</ls>
+<ls>SĀH. D. 2,4.</ls> {#pariRataprajYa#}
+<ls>MBH. 2,1949.</ls> {#sUrye pariRate sati#} {%als die Sonne im Untergehen war%}
+<ls n="MBH.">4,1036.</ls> {#pariRatAruRa#} {%die untergehende Sonne%}
+<ls>ŚĀK. 31.</ls> {#°Sarad#} {%Spätherbst%}
+<ls>MEGH. 109.</ls>
+<ls>BHARTṚ. 3,86, v. l.</ls> {#pariRate kAle#} {%nachdem eine geraume Zeit verflossen war%}
+<ls>BHĀG. P. 9,1,42.</ls> {#ekAkini vanavAsinyarAjyalakzaRyanItiSAstrajYe . sattvotkawe mfgapatO rAjeti giraH pariRamanti ..#} {%wird reif, erhält seine wahre Bedeutung%}
+<ls>PAÑCAT. ed. orn. I,5.</ls>
+<div n="v">— Vgl. {#pariRati, pariRAma#} . — caus.
+<div n="1"> 1) {%reif machen, zeitigen%}: {#pAcyAMSca sarvAnpariRAmayedyaH#}
+<ls>ŚVETĀŚV. UP. 5,5.</ls> pass. {%reif werden%}: {#dEvena pariRAmyatA#}
+<ls>HARIV. 2957.</ls> {#pariRAmyamAnaH SUraH#}
+<ls>RATNAG. 6,9.</ls> Vgl. {#pariRamayitar#} .
+<div n="1">— 2) {%zu Ende bringen%} (eine Zeit). {#pariRAmya niSAM tAM tu suKasuptAH#}
+<ls>MBH. 6,3847.</ls> <ls n="MBH.">7,792.</ls>
+<div n="1">— 3) {%sich zur Seite schwenken%}: {#nimittaM manyamAnAstu pariRAmya mahAgajAH . jagfhurbiBiduScEva citrARyABaraRAni ca ..#}
+<ls>MBH. 8,1143</ls>; vgl. oben u. 1. — desid. s. {#pariRinaMsu#} .
+<div n="p">— {#vipari#} pass. vom simpl. oder caus. {%sich umwandeln in%}: {#kartari SabityataH kartfgrahaRamanuvartate . tacca praTamayA vipariRamyate#}
+<ls>Schol.</ls> zu <ls>P. 3,1,87.</ls> <ls>KĀŚ.</ls> zu <ls>P. 4,1,163.</ls>
+<div n="p">— {#pra#} {%sich verbeugen, sich verbeugen vor%} (dat. gen. loc. acc.): {#praRamya praRiDAya kAyaM prasAdaye tvAmaham#}
+<ls>BHAG. 11,44.</ls>
+<ls>M. 2,197.</ls>
+<ls>RAGH. 2,21.</ls>
+<ls>HIT. 40,20.</ls> {#praRameddaRqavadBUmO#}
+<ls>BHĀG. P. 6,19,9.</ls> <ls>Z. d. d. m. G. 14,573,26.</ls> {#sAzwANgaM praRamya#}
+<ls>PAÑCAT. 33,12.</ls> {#praRemurBuvi mUrDaBiH#}
+<ls>BHĀG. P. 3,3,28.</ls> {#praRamAna#}
+<ls>R. GORR. 2,3,11.</ls> {#praRamya lokapAleByaH#}
+<ls>M. 8,23.</ls>
+<ls>R. 5,5,6.</ls> <ls n="R.">6,101,26.</ls>
+<ls>RAGH. 13,70.</ls>
+<ls>PAÑCAT. 159,21.</ls> {#prARamaM BUyastripuraGnAya#}
+<ls>ARJ. 10,57.</ls>
+<ls>R. GORR. 1,68,11.</ls>
+<ls>ŚĀK. 109,16.</ls>
+<ls>PAÑCAT. III,7.</ls> {#indrAya sa praRamate#}
+<ls>MBH. 5,1130.</ls>
+<ls>R. 2,25,4.</ls> <ls n="R.">4,33,33.</ls> {#praRamya SirasA tadA . vrAhmaRAnAM pitFRAM ca devatAnAM ca#}
+<ls>MBH. 5,7248.</ls>
+<ls>R. 4,13,24.</ls> <ls n="R.">5,31,32.</ls> {#balIyasi#} (v. l. {#balIyase) praRamatAm#}
+<ls>KĀM. NĪTIS. 9,50.</ls> {#praRamya SirasA devam#}
+<ls>BHĀG. 11,14.</ls> <ls>MBH. 3,788.</ls> <ls n="MBH. 3,">2710.</ls> <ls n="MBH.">5,7064.</ls> <ls>R. 1,2,28.</ls> {#pAdO praRamya rAmasya#}
+<ls n="R.">4,42,15.</ls> <ls>MĀLAV. 46,8.</ls> <ls>ŚĀK. 75,12.</ls> <ls>PAÑCAT. 24,12.</ls> <ls>VID. 249.</ls> <ls>VET. in LA. 1,1.</ls> <ls>ŚUK. in LA. 38,7.</ls> {#prARamadvizRutejasam#}
+<ls>MBH. 3,8681.</ls> <ls n="MBH.">4,197.</ls>
+<ls>HARIV. 2719.</ls> <ls n="HARIV.">14991.</ls>
+<ls>R. 2,52,73.</ls> <ls n="R.">4,13,26.</ls> {#(tAm) aYjaliBiH praRemuH#}
+<ls>RAGH. 14,13.</ls>
+<ls>VIKR. 87,18.</ls>
+<ls>KATHĀS. 20,26.</ls>
+<ls>BHĀG. P. 1,9,4.</ls> {#praRame tvA#}
+<ls>MBH. 3,2443.</ls>
+<ls>R. 4,39,40.</ls> pass.: {#nfpEH praRamyamAnaH#}
+<ls>KATHĀS. 20,224.</ls> — partic. {#praRata#} {%vorgebeugt, gebeugt, mit gebeugtem Oberkörper stehend%}: {#kuvakra iva praRataH#}
+<ls>ŚĀṄKH. BR. 28,2.</ls> {#a°#}
+<ls>GOBH. 1,2,18.</ls> {#BftyavatpraRatastasTO#}
+<ls>ARJ. 2,9.</ls>
+<ls>M. 11,195.</ls>
+<ls>SĀV. 3,11.</ls>
+<ls>R. 1,4,9.</ls> <ls n="R. 1,">57,18.</ls>
+<ls>KATHĀS. 2,29.</ls>
+<ls>BHĀG. P. 3,9,22.</ls>
+<ls>MĀRK. P. 16,18.</ls>
 [Page4-0047]
-{#praRatASezasAmanta#} {%vor dem sich alle Nachbarn beugen%} 
-<ls>AK. 2, 8, 1, 2.</ls> 
-<ls>MĀLAV. 1.</ls> {#tfRAni - nIcEH praRatAni#} 
-<ls>PAÑCAT. I, 138.</ls> {#praRatakAya#} 
-<ls>SADDH. P.4,3,b.</ls> mit dem gen.: {#praRataSca yaTA mUrGnA tava#} 
-<ls>MBH. 4, 202.</ls> mit dem acc. 
-<ls>R. 1, 52, 1.</ls> 
-<ls>BHĀG. P. 5, 18, 39.</ls> Vgl. {#praRati, praRAma#} . — caus. 
-<div n="1"> 1) {%Jmd%} (acc.) {%sich verbeugen heissen vor%} (dat.): {#tAmarcitAByaH kuladevatAByaH kulapratizWAM praRamayya mAtA#} 
-<ls>KUMĀRAS. 7, 27.</ls> {%beugen%}: {#praRamitaSiras#} 
-<ls>MĀLAV. 47.</ls> 
-<div n="1">— 2) {%ehrfurchtsvoll geben%}: {#prativacanamuccEH praRamitam#} (Schol. = {#dattam#}) 
+{#praRatASezasAmanta#} {%vor dem sich alle Nachbarn beugen%}
+<ls>AK. 2,8,1,2.</ls>
+<ls>MĀLAV. 1.</ls> {#tfRAni — nIcEH praRatAni#}
+<ls>PAÑCAT. I,138.</ls> {#praRatakAya#}
+<ls>SADDH. P. 4,3,b.</ls> mit dem gen.: {#praRataSca yaTA mUrGnA tava#}
+<ls>MBH. 4,202.</ls> mit dem acc.
+<ls>R. 1,52,1.</ls>
+<ls>BHĀG. P. 5,18,39.</ls> Vgl. {#praRati, praRAma#} . — caus.
+<div n="1"> 1) {%Jmd%} (acc.) {%sich verbeugen heissen vor%} (dat.): {#tAmarcitAByaH kuladevatAByaH kulapratizWAM praRamayya mAtA#}
+<ls>KUMĀRAS. 7,27.</ls> {%beugen%}: {#praRamitaSiras#}
+<ls>MĀLAV. 47.</ls>
+<div n="1">— 2) {%ehrfurchtsvoll geben%}: {#prativacanamuccEH praRamitam#} (Schol. = {#dattam#})
 <ls>AMAR. 82.</ls>
-
-<div n="p">— {#aBipra#} {%sich verbeugen, sich verbeugen vor%} (dat. acc.) 
-<ls>MBH. 3, 15306.</ls> {#SirasA#} 
-<ls>R. 1, 18, 5</ls> <ls>?(auch GORR.). 2, 58, 12. 92, 4. 3, 51, 44.</ls> {#rAmAyABipraRamya#} 
-<ls>R.</ls> <ls>SCHL. 2, 91, 38</ls> <ls>?(GORR. 100, 37).</ls> {#SirasABipraRamya tam#} 
-<ls>1, 39, 15.</ls> <ls>R. GORR. 1, 79, 25.</ls> <ls>BHĀG. P. 3, 33, 1.</ls> {#aBipraRata#} {%gebeugt, sich verbeugend%} 
-<ls>R. GORR. 1, 70, 5.</ls>
-
-<div n="p">— {#saMpra#} {%sich verbeugen vor%} (acc.): {#pAduke saMpraRamya#} 
-<ls>R. 2, 112, 23.</ls>
-
-<div n="p">— {#prati#} {%sich zuneigen%}: {#ku\mA\raSci^tpi\tara\M vada^mAna\M prati^ nAnAma rudropa\yanta^m#} 
-<ls>ṚV. 2, 33, 12.</ls>
-
-<div n="p">— {#vi#} {%sich neigen, sich bücken%}: {#hrasvamAsAdya saMcAraM nAsO vinamate kvacit#} 
-<ls>MBH. 3, 2929.</ls> {#vinamya pUrvaMsiMho 'pi hanti hastinamojasA#} 
-<ls>DṚṢṬĀNTAŚ. 7</ls> in <ls>HAEB. Anth. S. 217.</ls> {#vinamanti cAsya taravaH pracaye#} 
-<ls>KIR. 6, 34.</ls> {#tadEva pravyaTante 'sya Satravo vinamanti ca#} 
-<ls>MBH. 5, 4564.</ls> {#vinamya#} {%sich verneigend%} 
-<ls>HARIV. 15031.</ls> {#stanaBaravinamanmaDyaBAgAstaruRyaH#} {%sich biegend%} 
-<ls>BHARTṚ. 1, 66.</ls> — partic. {#vinata#} {%geneigt, gesenkt%}; = {#praRata#} 
-<ls>H. an. 3, 300.</ls> 
-<ls>MED. t. 157. fg.</ls> {#°kAya#} 
-<ls>SADDH. P.4,3,b.</ls> {#vinatAnana#} 
-<ls>BRĀHMAṆ. 1, 13.</ls> {#prakAmavinatAvaMsO#} 
-<ls>ŚĀK. 58.</ls> {#stavakavinato bAlamandAravfkzaH#} 
-<ls>MEGH. 73, v. l.</ls> {#vfkzasyEkA SAKA yadi vinatA - syAt#} 
-<ls>VARĀH. BṚH. S. 53, 55.</ls> {#(liNge) vinate - aDaH#} 
-<ls>67, 7.</ls> {%gesenkt, eingedrückt, vertieft%}: {#antarvinata#} und {#bAhyavinata (dvAra)#} 
-<ls>52, 81.</ls> {#trivinata#} 
-<ls>R. 5, 32, 12.</ls> {%gebogen, gekrümmt%}; = {#Bugna#} 
-<ls>H. an.</ls> <ls>MED.</ls> {#°pfzWAH (gAvaH)#} 
-<ls>VARĀH. BṚH. S. 60, 3.</ls> {#maDyavinataBruvo ye#} 
-<ls>67, 69.</ls> {#prakAmavinate BruvO#} ad 
-<ls>ŚĀK. 69, 2.</ls> {#cApa#} 
-<ls>R. 3, 50, 2.</ls> {#(pratimA) vAmAvanatA patnI dakziRavinatA hinastyAyuH#} {%gebogen, geneigt%} 
-<ls>VARĀH. BṚH. S. 58, 51.</ls> {%gebückt%} so v. a. {%gedemüthigt, demüthig%}; = {#Sikzita#} 
-<ls>MED.</ls> <ls>SOM. NAL. 180.</ls> <ls>BHAṬṬ. 7, 52.</ls> {#taruvara vinatAsmi te sadAham#} 
-<ls>GHAṬ. 18.</ls> in der Gramm. = {#nata#} {%in einen cerebralen Laut umgewandelt%} 
-<ls>P. 8, 3, 61,</ls> 
-<ls>Sch.</ls> {#vinatA piqakA#} Bez. eines bei der Krankheit {#prameha#} erscheinenden {%Ausschlags%} (der viell. {%vertieft%} ist) 
-<ls>SUŚR. 1, 273, 12. 18.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> — {#vinata#} 
-<ls>BHARTṚ. 2, 59</ls> falsche Lesart für {#vitata#}; vgl. {#govinata#}, wofür auch {#govitata#} gelesen wird. 
-<div n="v">— Vgl. {#vinati, vinAma#} . — caus. {%herabbeugen, biegen%}: {#vinAmya SAKAm#} 
-<ls>MBH. 3, 15588.</ls> {#pfzWaM vi°#} 
-<ls>HARIV. 11656.</ls> {#kzitO - aNgaM vinamayya daRqavat#} 
-<ls>BHĀG. P. 4, 9, 3.</ls> {#gAtrARi vinAmayati#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 23.</ls> {#stanaBAravinAmita (maDya)#} 
-<ls>MBH. 4, 394.</ls> {#vinAmayatu kArmukam#} so v. a. {%spannen%} 
-<ls>MBH. 1, 5436. 8, 3520.</ls> {%hinbiegen%}: {#tadvaktrABimuKaM muKaM vinamitam#} 
+<div n="p">— {#aBipra#} {%sich verbeugen, sich verbeugen vor%} (dat. acc.)
+<ls>MBH. 3,15306.</ls> {#SirasA#}
+<ls>R. 1,18,5</ls> (auch <ls>GORR.</ls>). <ls n="R.">2,58,12.</ls> <ls n="R. 2,">92,4.</ls> <ls n="R.">3,51,44.</ls> {#rAmAyABipraRamya#}
+<ls>R. SCHL. 2,91,38</ls> (GORR. <ls n="GORR. 2,">100,37</ls>). {#SirasABipraRamya tam#}
+<ls n="R. SCHL.">1,39,15.</ls> <ls>R. GORR. 1,79,25.</ls> <ls>BHĀG. P. 3,33,1.</ls> {#aBipraRata#} {%gebeugt, sich verbeugend%}
+<ls>R. GORR. 1,70,5.</ls>
+<div n="p">— {#saMpra#} {%sich verbeugen vor%} (acc.): {#pAduke saMpraRamya#}
+<ls>R. 2,112,23.</ls>
+<div n="p">— {#prati#} {%sich zuneigen%}: {#ku\mA\raSci^tpi\tara\M vada^mAna\M prati^ nAnAma rudropa\yanta^m#}
+<ls>ṚV. 2,33,12.</ls>
+<div n="p">— {#vi#} {%sich neigen, sich bücken%}: {#hrasvamAsAdya saMcAraM nAsO vinamate kvacit#}
+<ls>MBH. 3,2929.</ls> {#vinamya pUrvaMsiMho 'pi hanti hastinamojasA#}
+<ls>DṚṢṬĀNTAŚ. 7</ls> in <ls>HAEB. Anth. S. 217.</ls> {#vinamanti cAsya taravaH pracaye#}
+<ls>KIR. 6,34.</ls> {#tadEva pravyaTante 'sya Satravo vinamanti ca#}
+<ls>MBH. 5,4564.</ls> {#vinamya#} {%sich verneigend%}
+<ls>HARIV. 15031.</ls> {#stanaBaravinamanmaDyaBAgAstaruRyaH#} {%sich biegend%}
+<ls>BHARTṚ. 1,66.</ls> — partic. {#vinata#} {%geneigt, gesenkt%}; = {#praRata#}
+<ls>H. an. 3,300.</ls>
+<ls>MED. t. 157. fg.</ls> {#°kAya#}
+<ls>SADDH. P. 4,3,b.</ls> {#vinatAnana#}
+<ls>BRĀHMAṆ. 1,13.</ls> {#prakAmavinatAvaMsO#}
+<ls>ŚĀK. 58.</ls> {#stavakavinato bAlamandAravfkzaH#}
+<ls>MEGH. 73, v. l.</ls> {#vfkzasyEkA SAKA yadi vinatA — syAt#}
+<ls>VARĀH. BṚH. S. 53,55.</ls> {#(liNge) vinate — aDaH#}
+<ls n="VARĀH. BṚH. S.">67,7.</ls> {%gesenkt, eingedrückt, vertieft%}: {#antarvinata#} und {#bAhyavinata (dvAra)#}
+<ls n="VARĀH. BṚH. S.">52,81.</ls> {#trivinata#}
+<ls>R. 5,32,12.</ls> {%gebogen, gekrümmt%}; = {#Bugna#}
+<ls>H. an.</ls> <ls>MED.</ls> {#°pfzWAH (gAvaH)#}
+<ls>VARĀH. BṚH. S. 60,3.</ls> {#maDyavinataBruvo ye#}
+<ls n="VARĀH. BṚH. S.">67,69.</ls> {#prakAmavinate BruvO#} ad
+<ls>ŚĀK. 69,2.</ls> {#cApa#}
+<ls>R. 3,50,2.</ls> {#(pratimA) vAmAvanatA patnI dakziRavinatA hinastyAyuH#} {%gebogen, geneigt%}
+<ls>VARĀH. BṚH. S. 58,51.</ls> {%gebückt%} so v. a. {%gedemüthigt, demüthig%}; = {#Sikzita#}
+<ls>MED.</ls> <ls>SOM. NAL. 180.</ls> <ls>BHAṬṬ. 7,52.</ls> {#taruvara vinatAsmi te sadAham#}
+<ls>GHAṬ. 18.</ls> in der Gramm. = {#nata#} {%in einen cerebralen Laut umgewandelt%}
+<ls>P. 8,3,61</ls>, <ls>Sch.</ls>
+{#vinatA piqakA#} Bez. eines bei der Krankheit {#prameha#} erscheinenden {%Ausschlags%} (der viell. {%vertieft%} ist)
+<ls>SUŚR. 1,273,12. 18.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> — {#vinata#}
+<ls>BHARTṚ. 2,59</ls> falsche Lesart für {#vitata#}; vgl. {#govinata#}, wofür auch {#govitata#} gelesen wird.
+<div n="v">— Vgl. {#vinati, vinAma#} . — caus. {%herabbeugen, biegen%}: {#vinAmya SAKAm#}
+<ls>MBH. 3,15588.</ls> {#pfzWaM vi°#}
+<ls>HARIV. 11656.</ls> {#kzitO — aNgaM vinamayya daRqavat#}
+<ls>BHĀG. P. 4,9,3.</ls> {#gAtrARi vinAmayati#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 23.</ls> {#stanaBAravinAmita (maDya)#}
+<ls>MBH. 4,394.</ls> {#vinAmayatu kArmukam#} so v. a. {%spannen%}
+<ls>MBH. 1,5436.</ls> <ls n="MBH.">8,3520.</ls> {%hinbiegen%}: {#tadvaktrABimuKaM muKaM vinamitam#}
 <ls>AMAR. 81.</ls>
-
-<div n="p">— {#sam#} 
-<div n="1"> 1) {%sich beugen, sich verbeugen vor%}: {#upajiGredDi mAM mUrDni tAtaH saMnamya satvaram#} 
-<ls>R. 2, 72, 30.</ls> {#DIraH saMnameta balIyase#} 
-<ls>MBH. 5, 1130.</ls> {#asmE SatravaH saMnamante#} 
-<ls>3, 1374.</ls> {#saMnamatAmarIRAm#} {%sich demüthig unterwerfend%} 
-<ls>RAGH. 18, 33.</ls> {#yasyAstava brahma#} (sic) {#ca brAhmaRASca - upasTAne saMnamanti#} 
-<ls>MBH. 1, 3230.</ls> {#te 'pi tvAM saMnamantIva#} 
-<ls>4,267.</ls> <ls>Verz. d. Oxf. H. 148,b,26.</ls> partic. {#saMnata#} {%gebeugt, gebogen, gekrümmt%}: {#saMnatAH PalaBAreRa puzpaBAreRa ca drumAH#} 
-<ls>R. 3, 16, 5</ls> {#tvaM padma iva vAtena saMnataH#} 
-<ls>R. GORR. 2, 8, 40.</ls> {#saMnatANgI#} 
-<ls>KUMĀRAS. 1, 34.</ls>
+<div n="p">— {#sam#}
+<div n="1"> 1) {%sich beugen, sich verbeugen vor%}: {#upajiGredDi mAM mUrDni tAtaH saMnamya satvaram#}
+<ls>R. 2,72,30.</ls> {#DIraH saMnameta balIyase#}
+<ls>MBH. 5,1130.</ls> {#asmE SatravaH saMnamante#}
+<ls n="MBH.">3,1374.</ls> {#saMnamatAmarIRAm#} {%sich demüthig unterwerfend%}
+<ls>RAGH. 18,33.</ls> {#yasyAstava brahma#} (sic) {#ca brAhmaRASca — upasTAne saMnamanti#}
+<ls>MBH. 1,3230.</ls> {#te 'pi tvAM saMnamantIva#}
+<ls n="MBH.">4,267.</ls> <ls>Verz. d. Oxf. H. 148,b,26.</ls> partic. {#saMnata#} {%gebeugt, gebogen, gekrümmt%}: {#saMnatAH PalaBAreRa puzpaBAreRa ca drumAH#}
+<ls>R. 3,16,5</ls> {#tvaM padma iva vAtena saMnataH#}
+<ls>R. GORR. 2,8,40.</ls> {#saMnatANgI#}
+<ls>KUMĀRAS. 1,34.</ls>
 [Page4-0048]
-{#saMnatavAmajaNGa#} 
-<ls>BHAṬṬ. 2, 31.</ls> {#saMnataBrU#} 
-<ls>MBH. 2, 2164.</ls> {#sannA Sokena saMnatA#} {%vor Kummer gebeugt%} 
-<ls>R. 2, 65, 17.</ls> {#saMnataH praSrito BUtvA#} {%sich verneigend%} 
-<ls>INDR. 1, 10.</ls> {#api te saMnatAH sarve sAmantA ripavo jitAH#} {%sich demüthig verbeugend%} 
-<ls>R. 1, 20, 12.</ls> mit pass. Bed. {%wovor man sich verbeugt%}: {#dAsavatsaMnatAryANGriH#} 
-<ls>BHĀG. P. 7, 4, 32.</ls> {%eingedrückt, gesenkt, vertieft, verengert%}: {#(vediH) maDye saMnatatarA#} Schol. zu 
-<ls>KĀTY. ŚR. 688, 17.</ls> {#BallEH saMnataparvaBiH#} 
-<ls>MBH. 14, 2271.</ls> {#(vARAH) saMnatAH#} (wohl = {#saMnataparvARaH) paYcaparvARaH#} 
-<ls>R. 3, 43, 20.</ls> {#parvasu saMnatA#} 
-<ls>VIKR. 112.</ls> 
-<div n="1">— 2) {%sich richten nach, willfahren, gehorchen%}: med.: {#yUne\ sama^smE kzi\tayo^ namantAm#} 
-<ls>ṚV. 5, 36, 6.</ls> <ls n="ṚV.">7, 31, 9.</ls> {#sama^sya ma\nyave\ viSo\ viSvA^ namanta kf\zwaya^H . sa\mu\drAye^va\ sinDa^vaH#} 
-<ls n="ṚV.">8, 6, 4.</ls> <ls>VS. 8, 46.</ls> <ls>TS. 3, 4, 4, 1.</ls> {#sama^Dva\rAyo\zaso^ namanta daDi\krAve^va\ Suca^ye pa\dAya^#} 
-<ls>ṚV. 7, 41, 6.</ls> {#a\gniSca^ pfTi\vI ca\ saMna^te#} {%sich nach einander richtend, in Einklang stehend%} 
-<ls>VS. 26, 1.</ls> 
-<div n="1">— 3) {%zu Stande kommen%}: {#sa\tyA e^zAmA\Siza\H saM na^mantAm#} 
-<ls>VS. 35, 20.</ls> 
-<div n="1">— 4) {%gerade biegen —, richten%}; daher {%in die rechte Ordnung bringen, zurecht machen; zuwegebringen%}; act. med.: {#izU^H sa\Mnama^mAnaH#} 
-<ls>ṚV. 10, 87, 4.</ls> {#izIkAm#} 
-<ls>AV. 7, 56, 4.</ls> {#saM vo\ manA^Msi\ saM vra\tA samAkU^tIrnamAmasi#} 
-<ls>3, 8, 5.</ls> {#A^kUte\ sami\daM nama^H#} 
-<ls>6, 131, 2.</ls> {#ima E\ndrA a^tisa\rA AkU^ti\M saM na^mantu me#} 
-<ls>5, 8, 2.</ls> {#kAmAn#} 
-<ls>ŚAT. BR. 2, 3, 4, 16.</ls> {#te me\ saM na^matAma\daH#} 
-<ls>VS. 26, 1.</ls> {%richten nach%}: {#yUpaM prAcI saMnamati#} 
-<ls>ṢAḌV. BR. 4, 4.</ls> — caus. 
-<div n="1"> 1) {%beugen, sinken machen%}: {#SUlam - pARinA samanAmayat#} 
-<ls>MBH. 12, 10675.</ls> {#saMnamitoBayAMsa#} 
-<ls>KUMĀRAS. 3, 45.</ls> {#BAreRa gAM saMnAmayanpade pade#} 
-<ls>BHĀG. P. 8, 18, 20.</ls> 
-<div n="1">— 2) {%abändern%}: {#patnI mantraM saMnamayati#} {%zurichten für einen bestimmten Zweck%} 
-<ls>KAUŚ. 60. 63.</ls> 
-<ls>ĀŚV. GṚHY. 3, 8.</ls> 
-<div n="1">— 3) {%zurechtbringen, zuwegebringen%}: {#a\mI ye vivra^tA\ sTana\ tAnva\H saM na^mayAmasi#} 
-<ls>AV. 3, 8, 5.</ls> {#tAmasmE yajYa ASizaM saMnamayati#} 
-<ls>ŚAT. BR. 1, 9, 1, 2.</ls>
-
-<div n="p">— {#aBisam#} {%abändern%}: {#sarvezu devatASabdezvagnimevABisaMnamet#} 
-<ls>ĀŚV. ŚR. 9, 7.</ls> {#prAkftIrvABisaMnamet#} 
-<ls>ŚĀṄKH. ŚR. 1, 17, 19.</ls>
-
-<div n="p">— {#upasam#} {%Jmd zuwenden%}: {#tada^smE de\vA u^pa\saMna^mantu#} 
-<ls>AV. 19, 41, 1.</ls>
+{#saMnatavAmajaNGa#}
+<ls>BHAṬṬ. 2,31.</ls> {#saMnataBrU#}
+<ls>MBH. 2,2164.</ls> {#sannA Sokena saMnatA#} {%vor Kummer gebeugt%}
+<ls>R. 2,65,17.</ls> {#saMnataH praSrito BUtvA#} {%sich verneigend%}
+<ls>INDR. 1,10.</ls> {#api te saMnatAH sarve sAmantA ripavo jitAH#} {%sich demüthig verbeugend%}
+<ls>R. 1,20,12.</ls> mit pass. Bed. {%wovor man sich verbeugt%}: {#dAsavatsaMnatAryANGriH#}
+<ls>BHĀG. P. 7,4,32.</ls> {%eingedrückt, gesenkt, vertieft, verengert%}: {#(vediH) maDye saMnatatarA#} Schol. zu
+<ls>KĀTY. ŚR. 688,17.</ls> {#BallEH saMnataparvaBiH#}
+<ls>MBH. 14,2271.</ls> {#(vARAH) saMnatAH#} (wohl = {#saMnataparvARaH) paYcaparvARaH#}
+<ls>R. 3,43,20.</ls> {#parvasu saMnatA#}
+<ls>VIKR. 112.</ls>
+<div n="1">— 2) {%sich richten nach, willfahren, gehorchen%}: med.: {#yUne\ sama^smE kzi\tayo^ namantAm#}
+<ls>ṚV. 5,36,6.</ls> <ls n="ṚV.">7,31,9.</ls> {#sama^sya ma\nyave\ viSo\ viSvA^ namanta kf\zwaya^H . sa\mu\drAye^va\ sinDa^vaH#}
+<ls n="ṚV.">8,6,4.</ls> <ls>VS. 8,46.</ls> <ls>TS. 3,4,4,1.</ls> {#sama^Dva\rAyo\zaso^ namanta daDi\krAve^va\ Suca^ye pa\dAya^#}
+<ls>ṚV. 7,41,6.</ls> {#a\gniSca^ pfTi\vI ca\ saMna^te#} {%sich nach einander richtend, in Einklang stehend%}
+<ls>VS. 26,1.</ls>
+<div n="1">— 3) {%zu Stande kommen%}: {#sa\tyA e^zAmA\Siza\H saM na^mantAm#}
+<ls>VS. 35,20.</ls>
+<div n="1">— 4) {%gerade biegen —, richten%}; daher {%in die rechte Ordnung bringen, zurecht machen; zuwegebringen%}; act. med.: {#izU^H sa\Mnama^mAnaH#}
+<ls>ṚV. 10,87,4.</ls> {#izIkAm#}
+<ls>AV. 7,56,4.</ls> {#saM vo\ manA^Msi\ saM vra\tA samAkU^tIrnamAmasi#}
+<ls n="AV.">3,8,5.</ls> {#A^kUte\ sami\daM nama^H#}
+<ls n="AV.">6,131,2.</ls> {#ima E\ndrA a^tisa\rA AkU^ti\M saM na^mantu me#}
+<ls n="AV.">5,8,2.</ls> {#kAmAn#}
+<ls>ŚAT. BR. 2,3,4,16.</ls> {#te me\ saM na^matAma\daH#}
+<ls>VS. 26,1.</ls> {%richten nach%}: {#yUpaM prAcI saMnamati#}
+<ls>ṢAḌV. BR. 4,4.</ls> — caus.
+<div n="1"> 1) {%beugen, sinken machen%}: {#SUlam — pARinA samanAmayat#}
+<ls>MBH. 12,10675.</ls> {#saMnamitoBayAMsa#}
+<ls>KUMĀRAS. 3,45.</ls> {#BAreRa gAM saMnAmayanpade pade#}
+<ls>BHĀG. P. 8,18,20.</ls>
+<div n="1">— 2) {%abändern%}: {#patnI mantraM saMnamayati#} {%zurichten für einen bestimmten Zweck%}
+<ls>KAUŚ. 60. 63.</ls>
+<ls>ĀŚV. GṚHY. 3,8.</ls>
+<div n="1">— 3) {%zurechtbringen, zuwegebringen%}: {#a\mI ye vivra^tA\ sTana\ tAnva\H saM na^mayAmasi#}
+<ls>AV. 3,8,5.</ls> {#tAmasmE yajYa ASizaM saMnamayati#}
+<ls>ŚAT. BR. 1,9,1,2.</ls>
+<div n="p">— {#aBisam#} {%abändern%}: {#sarvezu devatASabdezvagnimevABisaMnamet#}
+<ls>ĀŚV. ŚR. 9,7.</ls> {#prAkftIrvABisaMnamet#}
+<ls>ŚĀṄKH. ŚR. 1,17,19.</ls>
+<div n="p">— {#upasam#} {%Jmd zuwenden%}: {#tada^smE de\vA u^pa\saMna^mantu#}
+<ls>AV. 19,41,1.</ls>
 <LEND>

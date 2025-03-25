@@ -1,5 +1,5 @@
 <L>4430<pc>144<k1>congregate<k2>congregate
-<div n="lb"/>{@CONGREGATE:@}¦ <div n="I">I Intrans: {#samAgacCati#} ({#gam,#}
-<div n="lb"/>c. l.): v. To assemble. </div><div n="I">II Trans: {#samAha-#}
-<div n="lb"/>{#rati#} ({#hf,#} c. l.): v. To collect.</div>
+{@CONGREGATE:@}¦ <div n="I">I Intrans: {#samAgacCati#} ({#gam,#}
+c. l.): v. To assemble. </div><div n="I">II Trans: {#samAha-#}
+{#rati#} ({#hf,#} c. l.): v. To collect.</div>
 <LEND>

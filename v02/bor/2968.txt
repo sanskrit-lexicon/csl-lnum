@@ -1,5 +1,5 @@
 <L>2968<pc>100<k1>cancer<k2>cancer
-<div n="lb"/>{@CANCER:@}¦ <div n="I">I One of the signs of the zodiac:</div>
-<div n="lb"/><div n="1">(1) {#karkawaH;#} </div><div n="1">(2) {#kakaH#} (rare). </div><div n="I">II A disease:
-<div n="lb"/>{#karkawarogaH.#}</div>
+{@CANCER:@}¦ <div n="I">I One of the signs of the zodiac:</div>
+<div n="1">(1) {#karkawaH;#} </div><div n="1">(2) {#kakaH#} (rare). </div><div n="I">II A disease:
+{#karkawarogaH.#}</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>22557<pc>712<k1>tide<k2>tide
-<div n="lb"/>{@TIDE@}¦ (subs.): <div n="I">I Lit.: {#velA,#} <div n="xe">{%the sea-t. flows on%}
-<div n="lb"/>{%the day of the full moon:%}</div> <div n="xs">{#pUrRimAdine samudravelA #}
-<div n="lb"/>{# carati,#}</div> P. i. 12.; <div n="xe">{%rising t.:%}</div> <div n="xs">{#vardDamAnA velA,#}</div> Raj.;
-<div n="lb"/><div n="xe">{%the t. is coming on:%}</div> <div n="xs">{#veleyamAgacCati,#}</div> Na.; <div n="xe">{%spring-%}
-<div n="lb"/>{%t.:%}</div> <div n="xs">{#pUrRavelA#}</div> (?). </div><div n="I">II Fig.: current, stream:
-<div n="lb"/>q. v.: {#srotas#} (n.). </div><div n="I">III Time: q. v.: {#velA.#}</div>
+{@TIDE@}¦ (subs.): <div n="I">I Lit.: {#velA,#} <div n="xe">{%the sea-t. flows on%}
+{%the day of the full moon:%}</div> <div n="xs">{#pUrRimAdine samudravelA #}
+{# carati,#}</div> P. i. 12.; <div n="xe">{%rising t.:%}</div> <div n="xs">{#vardDamAnA velA,#}</div> Raj.;
+<div n="xe">{%the t. is coming on:%}</div> <div n="xs">{#veleyamAgacCati,#}</div> Na.; <div n="xe">{%spring-%}
+{%t.:%}</div> <div n="xs">{#pUrRavelA#}</div> (?). </div><div n="I">II Fig.: current, stream:
+q. v.: {#srotas#} (n.). </div><div n="I">III Time: q. v.: {#velA.#}</div>
 <LEND>

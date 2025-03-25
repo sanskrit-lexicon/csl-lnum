@@ -1,20 +1,20 @@
 <L>58209<pc>5-0607<k1>masfRa<k2>masfRa
-{#masfRa#}¦ 
-<div n="1"> 1) <lex>adj.</lex> {%weich, zart, glatt, sanft%} 
-<ls>AK. 2, 9, 46. 3, 4, 28, 219</ls> {#(a°)#} . 
-<ls>TRIK. 3, 1, 26. 3, 136.</ls> 
-<ls>H. 413.</ls> 
-<ls>an. 3, 219.</ls> 
-<ls>MED. ṇ. 70.</ls> {#priyako romaBiryukto mUdUccamasfRErGanEH#} 
-<ls>VAIJ.</ls> beim Schol. zu <ls>ŚIŚ. 4, 32.</ls> {#upaDAna#} 
-<ls>Spr. 2156.</ls> {#bAhu#} 
-<ls>UTTARARĀMAC. 18, 6.</ls> {#candanapaNka#} 
-<ls>CAURAP. 8.</ls> 
-<ls>GĪT. 4, 12.</ls> {#maRqapaM masfRavedikam#} 
-<ls>PAÑCAR. 3, 7, 5. 12, 3. 4.</ls> <ls>KATHĀS. 23, 88.</ls> {#°vARI#} 
-<ls>GĪT. 10, 7.</ls> {#°roza#} 
-<ls>1.</ls> <ls>UTTARARĀMAK. 83, 5.</ls> = {#karkaSa#} (!) {%hart%} 
-<ls>TRIK. 3, 3, 136.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#A#} {%Linum usitatissimum%} 
+{#masfRa#}¦
+<div n="1"> 1) <lex>adj.</lex> {%weich, zart, glatt, sanft%}
+<ls>AK. 2,9,46.</ls> <ls n="AK.">3,4,28,219.</ls> ({#a°#}) .
+<ls>TRIK. 3,1,26.</ls> <ls n="TRIK. 3,">3,136.</ls>
+<ls>H. 413.</ls>
+<ls>an. 3,219.</ls>
+<ls>MED. ṇ. 70.</ls> {#priyako romaBiryukto mUdUccamasfRErGanEH#}
+<ls>VAIJ.</ls> beim Schol. zu <ls>ŚIŚ. 4,32.</ls> {#upaDAna#}
+<ls>Spr. 2156.</ls> {#bAhu#}
+<ls>UTTARARĀMAC. 18,6.</ls> {#candanapaNka#}
+<ls>CAURAP. 8.</ls>
+<ls>GĪT. 4,12.</ls> {#maRqapaM masfRavedikam#}
+<ls>PAÑCAR. 3,7,5. 12,3. 4.</ls> <ls>KATHĀS. 23,88.</ls> {#°vARI#}
+<ls>GĪT. 10,7.</ls> {#°roza#}
+<ls n="GĪT.">1.</ls> <ls>UTTARARĀMAK. 83,5.</ls> = {#karkaSa#} (!) {%hart%}
+<ls>TRIK. 3,3,136.</ls>
+<div n="1">— 2) <lex>f.</lex> {#A#} {%Linum usitatissimum%}
 <ls>H. an.</ls> <ls>MED.</ls>
 <LEND>

@@ -1,18 +1,18 @@
 <L>86024<pc>6-0511<k1>lambin<k2>lambin
-{#lambin#}¦ (von 1. {#lamb#}) 
-<div n="1"> 1) <lex>adj.</lex> {%herabhängend, hängend an, herabhängend bis zu%} 
-<ls>AK. 2, 6, 3, 37.</ls> 
-<ls>H. 652.</ls> {#SlaTalambinIrjawAH kapoladeSe#} 
-<ls>KUMĀRAS. 5, 47.</ls> {#taruSAKAgra°#} 
-<ls>KATHĀS. 65, 205. 207.</ls> 
-<ls>RAGH. 5, 67.</ls> {#SroRilambipuruzAntrameKalA#} 
-<ls>11, 17, 13, 33. 16, 43.</ls> {#ApArzRi°#} 
-<ls>MĀLAV. 85.</ls> {#anatilambidukUla#} 
-<ls>82.</ls> {#pUrvArDa°#} {%geneigt, gesenkt mit%} 
-<ls>MEGH. 52.</ls> {#alambi#} 
-<ls>LA. 20, 20</ls> ist nicht, wie 
-<ls>LASSEN</ls> und nach ihm 
-<ls>BENFEY</ls> annehmen, {#a + lambin#}, sondern 3. sg. aor. impers.: {%wenn Schweisstropfen sich anhängen.%} Vgl. 1. {#Alambin#} . 
-<div n="1">— 2) <lex>f.</lex> {#lambinI#} N. pr. einer der Mütter im Gefolge <is>Skanda's</is> 
-<ls>MBH. 9, 2636.</ls>
+{#lambin#}¦ (von 1. {#lamb#})
+<div n="1"> 1) <lex>adj.</lex> {%herabhängend, hängend an, herabhängend bis zu%}
+<ls>AK. 2,6,3,37.</ls>
+<ls>H. 652.</ls> {#SlaTalambinIrjawAH kapoladeSe#}
+<ls>KUMĀRAS. 5,47.</ls> {#taruSAKAgra°#}
+<ls>KATHĀS. 65,205.</ls> <ls n="KATHĀS. 65,">207.</ls>
+<ls>RAGH. 5,67.</ls> {#SroRilambipuruzAntrameKalA#}
+<ls n="RAGH.">11,17.</ls> <ls n="RAGH.">13,33.</ls> <ls n="RAGH.">16,43.</ls> {#ApArzRi°#}
+<ls>MĀLAV. 85.</ls> {#anatilambidukUla#}
+<ls n="MĀLAV.">82.</ls> {#pUrvArDa°#} {%geneigt, gesenkt mit%}
+<ls>MEGH. 52.</ls> {#alambi#}
+<ls>LA. 20,20</ls> ist nicht, wie
+<ls>LASSEN</ls> und nach ihm
+<ls>BENFEY</ls> annehmen, {#a + lambin#}, sondern 3. sg. aor. impers.: {%wenn Schweisstropfen sich anhängen.%} Vgl. 1. {#Alambin#} .
+<div n="1">— 2) <lex>f.</lex> {#lambinI#} N. pr. einer der Mütter im Gefolge <is>Skanda's</is>
+<ls>MBH. 9,2636.</ls>
 <LEND>

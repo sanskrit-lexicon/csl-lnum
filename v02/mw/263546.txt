@@ -1,3 +1,6 @@
 <L>263546<pc>1301,2<k1>hum<k2>hum<e>1
-<s>hum</s> or <s>hUm</s>, <lex>ind.</lex> or <s>hum</s> an exclamation (of remembrance, doubt, interrogation, assent, anger, reproach, fear &c., not translatable)<info or="263546,hum;263545.3,hUm"/><info lex="ind"/>
+<s>hum</s> or <s>hUm</s>, ¦ <lex>ind.</lex> or <s>hum</s> an exclamation (of remembrance, doubt, interrogation, assent, anger, reproach, fear &c., not translatable);
+<div n="P"/> a mystical syllable used in spells and magical texts or sentences;
+<div n="P"/> in Vedic ritual used immediately before the singing of the <s1>Prastāva</s1> or prelude as well as during the chanting of the <s1>Pratihāra</s1> or response, <ls>ŚrS.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.
+<info lex="ind"/>
 <LEND>

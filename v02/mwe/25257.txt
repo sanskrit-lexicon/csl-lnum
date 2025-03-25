@@ -1,10 +1,10 @@
 <L>25257<pc>683-a<k1>resource<k2>resource
-<div n="lb"/>RESOURCE¦, {%s.%} {#gatiH#} {%f.,%} {#upAyaH, aByupAyaH, yuktiH#} {%f.,%} {#prayuktiH#} {%f.,%} {#upapattiH#} {%f.,%}
-<div n="lb"/>{#taraRopAyaH, kxptiH#} {%f.,%} {#kalpanA;#} ‘other resource,’ {#gatyantaraM, anyo-#}
-<div n="lb"/>{#pAyaH, anyagatiH#} {%f.;%} ‘having no other resource,’ {#ananyagatiH#}
-<div n="lb"/>{#-tiH -ti, ananyagatikaH -kA -kaM;#} ‘having no resource,’ {#agatikaH#}
-<div n="lb"/>{#-kA -kaM, gatihInaH -nA -naM, nirupAyaH -yA -yaM;#} ‘last resource,’
-<div n="lb"/>{#caramagatiH#} {%f.,%} {#caramopAyaH, agatikagatiH#} {%f.%} — (Resources) {#viBavaH,#}
-<div n="lb"/>{#vittaM, samBavaH, DanaM, arTaH, AgamaH, AyaH;#} ‘of small resources,’
-<div n="lb"/>{#alpaviBavaH -vA -vaM;#} ‘of concealed resources,’ {#upaguptavittaH -ttA -ttaM#}.
+RESOURCE¦, {%s.%} {#gatiH#} {%f.,%} {#upAyaH, aByupAyaH, yuktiH#} {%f.,%} {#prayuktiH#} {%f.,%} {#upapattiH#} {%f.,%}
+{#taraRopAyaH, kxptiH#} {%f.,%} {#kalpanA;#} ‘other resource,’ {#gatyantaraM, anyo-#}
+{#pAyaH, anyagatiH#} {%f.;%} ‘having no other resource,’ {#ananyagatiH#}
+{#-tiH -ti, ananyagatikaH -kA -kaM;#} ‘having no resource,’ {#agatikaH#}
+{#-kA -kaM, gatihInaH -nA -naM, nirupAyaH -yA -yaM;#} ‘last resource,’
+{#caramagatiH#} {%f.,%} {#caramopAyaH, agatikagatiH#} {%f.%} — (Resources) {#viBavaH,#}
+{#vittaM, samBavaH, DanaM, arTaH, AgamaH, AyaH;#} ‘of small resources,’
+{#alpaviBavaH -vA -vaM;#} ‘of concealed resources,’ {#upaguptavittaH -ttA -ttaM#}.
 <LEND>

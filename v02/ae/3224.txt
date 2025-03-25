@@ -1,17 +1,17 @@
 <L>3224<pc>123<k1>drink<k2>drink
 {@Drink,@}¦ {%v. t.%} {#pA#} 1 P; ‘d. up’ {#Acam#} 1 P,
-<div n="lb"/>{#ApA, Suz#} c. {%-s.%} {#pAnaM, pAnIyaM, payas#} {%n.,%}
-<div n="lb"/>{#peyaM#}. {@2@} {#surA, madyaM#}. {%-v. i.%} {#jalaM pA#} or {#sev#} 1 A;
-<div n="lb"/>‘d. together’ {#saM-pA, sapItiM kf#} 8 U; ‘d.
-<div n="lb"/>(to) the health of’ {#svAsTyAya#} or {#SuBaM#}
-<div n="lb"/>{#BUyAditi prArTanApUrvakaM pA#}. {@-er,@} {%s.%} {#pAtf#} {%m.,%}
-<div n="lb"/>{#pAyin#} {%m.,%} {#pAnarataH, pAnAsaktaH#}. {@-ing,@} {%s.%}
-<div n="lb"/>{#pAnaM, AcamanaM, pIti#} {%f.;%} ‘d. vessel’ {#pAna-#}
-<div n="lb"/>{#-pAtraM-BAjanaM, cazakaH, sarakaH;#} ‘d. together’
-<div n="lb"/>{#sapIti#} {%f.,%} {#tulyapAnaM#}. {@-Drunk, Drunken,@}
-<div n="lb"/>{%a.%} {#matta, kzIva, samada, madonmatta, upoQa-#}
-<div n="lb"/>{#-mada, madodagra;#} ‘to be d.’ {#mad#} 4 P; ‘to
-<div n="lb"/>make d.’ {#mad#} c. {@2@} {#sikta, klinna#}. {@-ard,@} {%s.%}
-<div n="lb"/>{#pAnarataH, pAnAsaktaH, pAnaSOMqaH, maDupaH, madyapaH#}.
-<div n="lb"/>{@-enness,@} {%s.%} {#madaH, mattatA, kzIvatA, unmAdaH#}.
+{#ApA, Suz#} c. {%-s.%} {#pAnaM, pAnIyaM, payas#} {%n.,%}
+{#peyaM#}. {@2@} {#surA, madyaM#}. {%-v. i.%} {#jalaM pA#} or {#sev#} 1 A;
+‘d. together’ {#saM-pA, sapItiM kf#} 8 U; ‘d.
+(to) the health of’ {#svAsTyAya#} or {#SuBaM#}
+{#BUyAditi prArTanApUrvakaM pA#}. {@-er,@} {%s.%} {#pAtf#} {%m.,%}
+{#pAyin#} {%m.,%} {#pAnarataH, pAnAsaktaH#}. {@-ing,@} {%s.%}
+{#pAnaM, AcamanaM, pIti#} {%f.;%} ‘d. vessel’ {#pAna-#}
+{#-pAtraM-BAjanaM, cazakaH, sarakaH;#} ‘d. together’
+{#sapIti#} {%f.,%} {#tulyapAnaM#}. {@-Drunk, Drunken,@}
+{%a.%} {#matta, kzIva, samada, madonmatta, upoQa-#}
+{#-mada, madodagra;#} ‘to be d.’ {#mad#} 4 P; ‘to
+make d.’ {#mad#} c. {@2@} {#sikta, klinna#}. {@-ard,@} {%s.%}
+{#pAnarataH, pAnAsaktaH, pAnaSOMqaH, maDupaH, madyapaH#}.
+{@-enness,@} {%s.%} {#madaH, mattatA, kzIvatA, unmAdaH#}.
 <LEND>

@@ -1,6 +1,6 @@
 <L>676<pc>024<k1>ambuscade<k2>ambuscade
-<div n="lb"/>{@AMBUSCADE, AMBUSH:@}¦ <div n="I">I The place: {#parABiyo-#}
-<div n="lb"/>{#gAya niBftAvasTAnam.#} </div><div n="I">II The men: {#parABiyogAya #}
-<div n="lb"/>{# niBftasTApitasEnyam.#} <div n="xe">{%to lie in a.:%}</div> <div n="xs">{#niBftaM tizWati#}</div> ({#sTA,#}
-<div n="lb"/>c. 1)</div>
+{@AMBUSCADE, AMBUSH:@}¦ <div n="I">I The place: {#parABiyo-#}
+{#gAya niBftAvasTAnam.#} </div><div n="I">II The men: {#parABiyogAya #}
+{# niBftasTApitasEnyam.#} <div n="xe">{%to lie in a.:%}</div> <div n="xs">{#niBftaM tizWati#}</div> ({#sTA,#}
+c. 1)</div>
 <LEND>

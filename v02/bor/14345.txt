@@ -1,6 +1,6 @@
 <L>14345<pc>440<k1>meaning<k2>meaning
-<div n="lb"/>{@MEANING:@}¦ <div n="I">I Signification: {#arTaH,#} <div n="xe">{%of double%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#dvyarTakaH#}</div> ({#kA, kaM#}); <div n="xe">{%this is its m.:%}</div> <div n="xs">{#asyA#}</div>-
-<div n="lb"/>-{#yamarTaH,#} Da.: v. Sense (IV.). </div><div n="I">II Intention,
-<div n="lb"/>purpose: q. v.: {#aBiprAyaH.#}</div>
+{@MEANING:@}¦ <div n="I">I Signification: {#arTaH,#} <div n="xe">{%of double%}
+{%m.:%}</div> <div n="xs">{#dvyarTakaH#}</div> ({#kA, kaM#}); <div n="xe">{%this is its m.:%}</div> <div n="xs">{#asyA#}</div>-
+-{#yamarTaH,#} Da.: v. Sense (IV.). </div><div n="I">II Intention,
+purpose: q. v.: {#aBiprAyaH.#}</div>
 <LEND>

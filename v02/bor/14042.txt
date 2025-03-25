@@ -1,8 +1,8 @@
 <L>14042<pc>431<k1>majority<k2>majority
-<div n="lb"/>{@MAJORITY:@}¦ <div n="I">I The greater number: </div><div n="1">(1) by
-<div n="lb"/>{#bahu#} (f. {#hnI#}) (= great m.): v. Many.; </div><div n="1">(2)
-<div n="lb"/>by {#aneka-,#} <div n="xe">{%the m. was for acquittal:%}</div> <div n="xs">{#*aneke #}
-<div n="lb"/>{# muktimanumenire.#}</div> </div><div n="I">II Full age: {#vayas#} (n.). <div n="xe">{%One%}
-<div n="lb"/>{%who has attained his m.:%}</div> <div n="xs">{#prAptavyavahAraH#}</div> ({#rA, raM#}).</div>
-<div n="lb"/><div n="I">III Major's rank: {#*aDigulmapatitvam.#}</div>
+{@MAJORITY:@}¦ <div n="I">I The greater number: </div><div n="1">(1) by
+{#bahu#} (f. {#hnI#}) (= great m.): v. Many.; </div><div n="1">(2)
+by {#aneka-,#} <div n="xe">{%the m. was for acquittal:%}</div> <div n="xs">{#*aneke #}
+{# muktimanumenire.#}</div> </div><div n="I">II Full age: {#vayas#} (n.). <div n="xe">{%One%}
+{%who has attained his m.:%}</div> <div n="xs">{#prAptavyavahAraH#}</div> ({#rA, raM#}).</div>
+<div n="I">III Major's rank: {#*aDigulmapatitvam.#}</div>
 <LEND>

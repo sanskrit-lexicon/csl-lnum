@@ -1,8 +1,8 @@
 <L>21487<pc>567-b<k1>palace<k2>palace
-<div n="lb"/>PALACE¦, {%s.%} {#rAjagfhaM, rAjamandiraM, nfpagfhaM, nfpamandiraM, rAjaveSma#} {%n.%} {#(n),#}
-<div n="lb"/>{#nfpaveSma#} {%n.,%} {#rAjaDAma#} {%n.%} {#(n), nfpaDAma#} {%n.,%} {#rAjaBavanaM, rAjasadanaM, rAja-#}
-<div n="lb"/>{#prAsAdaH, rAjaharmyaM, rAjavasatiH#} {%f.,%} {#nfpativasatiH#} {%f.,%} {#rAjaSAlA, rAjaDAnI,#}
-<div n="lb"/>{#prAsAdaH, harmyaM, mandiraM -rA, BavanaM, sODaM, awwAlaH -likA, vimAnaM,#}
-<div n="lb"/>{#SAlA, viSipaM, viCardakaH, mAqiH#} {%m.,%} {#upakAryyA, upakArI -rikA;#}
-<div n="lb"/>‘palace-court,’ {#rAjasaBA;#} ‘palace-yard,’ {#rAjANganaM#}.
+PALACE¦, {%s.%} {#rAjagfhaM, rAjamandiraM, nfpagfhaM, nfpamandiraM, rAjaveSma#} {%n.%} {#(n),#}
+{#nfpaveSma#} {%n.,%} {#rAjaDAma#} {%n.%} {#(n), nfpaDAma#} {%n.,%} {#rAjaBavanaM, rAjasadanaM, rAja-#}
+{#prAsAdaH, rAjaharmyaM, rAjavasatiH#} {%f.,%} {#nfpativasatiH#} {%f.,%} {#rAjaSAlA, rAjaDAnI,#}
+{#prAsAdaH, harmyaM, mandiraM -rA, BavanaM, sODaM, awwAlaH -likA, vimAnaM,#}
+{#SAlA, viSipaM, viCardakaH, mAqiH#} {%m.,%} {#upakAryyA, upakArI -rikA;#}
+‘palace-court,’ {#rAjasaBA;#} ‘palace-yard,’ {#rAjANganaM#}.
 <LEND>

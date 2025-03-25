@@ -1,3 +1,3 @@
-<L>243669<pc>1212,3<k1>sAhi<k2>sAhi<h>b<e>1
-<s>sAhi</s> <hom>b</hom> ¦ <lex>m.</lex> = <s>sAha</s>2 (See <s>candra-</s>, <s>prema-</s>, <s>rAma-s°</s> &c.)<info lex="m"/>
+<L>243669<pc>1212,3<k1>sAhi<k2>sAhi<e>1
+<s>sAhi</s> ¦ <lex>m.</lex> = <hom>2.</hom> <s>sAha</s> (see <s>candra-</s>, <s>prema-</s>, <s>rAma-s°</s> &c.)<info lex="m"/><info hui="b"/>
 <LEND>

@@ -1,4 +1,4 @@
 <L>15439<pc>473<k1>nineteenth<k2>nineteenth
-<div n="lb"/>{@NINETEENTH:@}¦ <div n="1">(2) {#navadaSaH#} ({#SI, SaM#}): </div><div n="1">(2) {#UnaviMSaH#}
-<div n="lb"/>({#SI, SaM#}); </div><div n="1">(3) {#UnaviMSatitamaH#} ({#mI, maM#}).</div>
+{@NINETEENTH:@}¦ <div n="1">(2) {#navadaSaH#} ({#SI, SaM#}): </div><div n="1">(2) {#UnaviMSaH#}
+({#SI, SaM#}); </div><div n="1">(3) {#UnaviMSatitamaH#} ({#mI, maM#}).</div>
 <LEND>

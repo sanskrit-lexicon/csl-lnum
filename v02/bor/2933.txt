@@ -1,15 +1,15 @@
 <L>2933<pc>099<k1>calm<k2>calm
-<div n="lb"/>{@CALM@}¦ (adj.): <div n="1">(1) {#SAntaH, pra-,#} ({#ntA, ntaM#}), <div n="xe">{%O, what%}
-<div n="lb"/>{%a c. and beautiful morning%}</div> <div n="xs">{#aho praSAntaramaRIyatA #}
-<div n="lb"/>{# praBAtasya;#}</div> <div n="xe">{%c. and solemn place%}</div> <div n="xs">{#praSAntagamBIraBUmiH,#}</div>
-<div n="lb"/>Vi.; <div n="xe">{%c. countenance%}</div> <div n="xs">{#SAntAkAraH,#}</div> Ma.; </div><div n="1">(2)
-<div n="lb"/>{#nizkampaH#} ({#mpA, mpaM#}), {#niScalaH#} ({#lA, laM#}) etc. (with-
-<div n="lb"/>-out motion: as a sea), <div n="xe">{%like the c. ocean on%}
-<div n="lb"/>{%a c. day%}</div> <div n="xs">{#nivAtanizkampamivApagApatim,#}</div> Ki.; <div n="xe">{%the sea%}
-<div n="lb"/>{%became very c. with unruffled water%}</div> <div n="xs">{#niBfto'BavadatyarTaM #}
-<div n="lb"/>{# samudraH stimitodakaH.#}</div> V. p.; </div><div n="1">(3) {#nirvAtaH#} ({#tA, taM#}),
-<div n="lb"/>etc. (=without wind: as a c. place), <ls>V.</ls> ;</div>
-<div n="lb"/><div n="1">(4) {#anuttaraNgaH#} (f. {#NgA#}) etc. (=not wavy: as a
-<div n="lb"/>river); </div><div n="1">(5) {#akzubDaH#} (f. {#bDA#}), etc. (=not agi-
-<div n="lb"/>-tated), <div n="xe">{%To be c.:%}</div> <div n="xs">{#SAmyati, pra-,#}</div> ({#Sam,#} c. 4.), Ku.</div>
+{@CALM@}¦ (adj.): <div n="1">(1) {#SAntaH, pra-,#} ({#ntA, ntaM#}), <div n="xe">{%O, what%}
+{%a c. and beautiful morning%}</div> <div n="xs">{#aho praSAntaramaRIyatA #}
+{# praBAtasya;#}</div> <div n="xe">{%c. and solemn place%}</div> <div n="xs">{#praSAntagamBIraBUmiH,#}</div>
+Vi.; <div n="xe">{%c. countenance%}</div> <div n="xs">{#SAntAkAraH,#}</div> Ma.; </div><div n="1">(2)
+{#nizkampaH#} ({#mpA, mpaM#}), {#niScalaH#} ({#lA, laM#}) etc. (with-
+-out motion: as a sea), <div n="xe">{%like the c. ocean on%}
+{%a c. day%}</div> <div n="xs">{#nivAtanizkampamivApagApatim,#}</div> Ki.; <div n="xe">{%the sea%}
+{%became very c. with unruffled water%}</div> <div n="xs">{#niBfto'BavadatyarTaM #}
+{# samudraH stimitodakaH.#}</div> V. p.; </div><div n="1">(3) {#nirvAtaH#} ({#tA, taM#}),
+etc. (=without wind: as a c. place), <ls>V.</ls> ;</div>
+<div n="1">(4) {#anuttaraNgaH#} (f. {#NgA#}) etc. (=not wavy: as a
+river); </div><div n="1">(5) {#akzubDaH#} (f. {#bDA#}), etc. (=not agi-
+-tated), <div n="xe">{%To be c.:%}</div> <div n="xs">{#SAmyati, pra-,#}</div> ({#Sam,#} c. 4.), Ku.</div>
 <LEND>

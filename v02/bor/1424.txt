@@ -1,5 +1,5 @@
 <L>1424<pc>050<k1>avenue<k2>avenue
-<div n="lb"/>{@AVENUE:@}¦ <div n="I">I Passage, approach: q. v.: {#dvAra#}</div>
-<div n="lb"/><div n="I">II An alley: {#vITiH:#} <div n="xe">{%a. of mango trees%}</div> <div n="xs">{#cUta#}</div>-
-<div n="lb"/>{#vITiH,#} D. iii.</div>
+{@AVENUE:@}¦ <div n="I">I Passage, approach: q. v.: {#dvAra#}</div>
+<div n="I">II An alley: {#vITiH:#} <div n="xe">{%a. of mango trees%}</div> <div n="xs">{#cUta#}</div>-
+{#vITiH,#} D. iii.</div>
 <LEND>

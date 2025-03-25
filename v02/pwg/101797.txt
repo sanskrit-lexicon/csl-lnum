@@ -1,681 +1,651 @@
 <L>101797<pc>7-0375<k1>Sru<k2>Sru<h>1
-1. {#Sru#}¦ ({#SravaRe#} 
-<ls>DHĀTUP. 22, 44.</ls>), {#SfRoti#} 
-<ls>P. 3, 1, 74.</ls> 
-<ls>VOP. 8, 94.</ls> {#SfRumas#} und {#SfRmas, SfRuvas#} und {#SfRvas#} 95. {#SuSrAva, SuSruva, SuSruma (SuSruvaMs#} s. bes.) 
-<ls>P. 7, 2, 13.</ls> 
-<ls>VOP. 8, 57. 95.</ls> {#Srozyati; aSrOzIt; Srotum, SrutvA#} 
-<ls>?(VOP. 26, 204).</ls> Der älteren Sprache gehören folgende Formen an: {#SfRuDi#} 
-<ls>P. 6, 4, 102.</ls> {#SfRota#} 
-<ls>Schol.</ls> zu <ls>P. 6, 3, 133. 7, 1, 45. 3, 1, 78, <is>Vārtt</is>.</ls> {#aSravam, aSrot, Sra/vat, Sro/tu, Sro/ta, SruDi/#} 
-<ls>P. 6, 4, 102.</ls> {#Srutam, SrUyAs#} ({#SruyAs#} <is>Padap</is>.) 
-<ls>ṚV. 2, 10, 2.</ls> {#Sro/zan, Srozantu, Srozi#} (vgl. {#Sruz#}) 
-<ls n="ṚV.">6, 4, 7.</ls> {#aSrOzam#} 
-<ls>ŚAT. BR.</ls> {#SuSravat, SuSrUyA/s#} ({#SuSru°#} <is>Padap</is>.) 
-<ls>ṚV. 8, 45, 18.</ls> {#SuSrUyA/tam#} 
-<ls n="ṚV.">5, 74, 10.</ls> {#SrUyAsam; SuSra/va, SuSrAva; SrozyAmi#} . 
-<div n="1"> 1) act. {%hören, erfahren; hören auf, aufmerken; beim Lehrer hören, lernen, studiren%}: {#Ba\draM karRe^BiH SfRuyAma#} 
-<ls>ṚV. 1, 89, 8.</ls> <ls n="ṚV. 1,">30, 8.</ls> {#a\smAka^M SfRuDI\ hava^m#} 
-<ls n="ṚV.">4, 9, 7.</ls> {#veda\davi^dvAYCf\Rava^cca vi\dvAn#} 
-<ls n="ṚV.">5, 30, 3.</ls> <ls n="ṚV. 5,">32, 12.</ls> {#re\vanta\M hi tvA^ SfRomi#} {%ich höre du seist reich%} 
-<ls n="ṚV.">8, 2, 11.</ls> <ls n="ṚV.">1, 109, 5.</ls> {#Sroza\nye a^sya\ SAsa^m#} 
-<ls n="ṚV. 1,">68, 9.</ls> <ls>AIT. BR. 7, 15.</ls> <ls>VS. 6, 26.</ls> <ls>AV. 5, 4, 2. 8, 9, 18.</ls> {#pA\paM Sloka^m#} 
-<ls>TS. 3, 5, 7, 2. 5, 6, 10, 2.</ls> 
-<ls>ŚAT. BR. 2, 4, 3, 3. 14, 4, 3, 8. 30. 7, 1, 27.</ls> {#nAhEva tannu SuSruva#} 
-<ls>PAÑCAV. BR. 13, 6, 9.</ls> {#SfRvanti#} ({%achten hoch%} Comm.) {#tuzwuvAnam#} 
-<ls>11, 13.</ls> {#tvaM tattvavit SuSrumo vayam#} 
-<ls>MAITRYUP. 1, 2.</ls> {#Srozyan#} so v. a. {%der in die Lehre zu treten in Begriff ist%} 
-<ls>ĀŚV. ŚR. 8, 14, 3.</ls> — {#paWan, SfRvan#} 
-<ls>R. 1, 1, 96.</ls> {#iti SuSrAva#} 
-<ls>MBH. 1, 4372.</ls> {#nASrOzamiti rAjAnaM sUta vakzyasi saMgame#} 
-<ls>R. GORR. 2, 39, 47.</ls> {#aTa cettvamahaMkArAnna Srozyasi#}
+1. {#Sru#}¦ ({#SravaRe#}
+<ls>DHĀTUP. 22,44.</ls>), {#SfRoti#}
+<ls>P. 3,1,74.</ls>
+<ls>VOP. 8,94.</ls> {#SfRumas#} und {#SfRmas, SfRuvas#} und {#SfRvas#} 95. {#SuSrAva, SuSruva, SuSruma (SuSruvaMs#} s. bes.)
+<ls>P. 7,2,13.</ls>
+<ls>VOP. 8,57.</ls> <ls n="VOP. 8,">95.</ls> {#Srozyati; aSrOzIt; Srotum, SrutvA#}
+(<ls>VOP. 26,204.</ls>) Der älteren Sprache gehören folgende Formen an: {#SfRuDi#}
+<ls>P. 6,4,102.</ls> {#SfRota#}
+<ls>Schol.</ls> zu <ls>P. 6,3,133.</ls> <ls n="P.">7,1,45.</ls> <ls n="P.">3,1,78</ls>, <is>Vārtt</is>. {#aSravam, aSrot, Sra/vat, Sro/tu, Sro/ta, SruDi/#}
+<ls>P. 6,4,102.</ls> {#Srutam, SrUyAs#} ({#SruyAs#} <is>Padap</is>.)
+<ls>ṚV. 2,10,2.</ls> {#Sro/zan, Srozantu, Srozi#} (vgl. {#Sruz#})
+<ls n="ṚV.">6,4,7.</ls> {#aSrOzam#}
+<ls>ŚAT. BR.</ls> {#SuSravat, SuSrUyA/s#} ({#SuSru°#} <is>Padap</is>.)
+<ls>ṚV. 8,45,18.</ls> {#SuSrUyA/tam#}
+<ls n="ṚV.">5,74,10.</ls> {#SrUyAsam; SuSra/va, SuSrAva; SrozyAmi#} .
+<div n="1"> 1) act. {%hören, erfahren; hören auf, aufmerken; beim Lehrer hören, lernen, studiren%}: {#Ba\draM karRe^BiH SfRuyAma#}
+<ls>ṚV. 1,89,8.</ls> <ls n="ṚV. 1,">30,8.</ls> {#a\smAka^M SfRuDI\ hava^m#}
+<ls n="ṚV.">4,9,7.</ls> {#veda\davi^dvAYCf\Rava^cca vi\dvAn#}
+<ls n="ṚV.">5,30,3.</ls> <ls n="ṚV. 5,">32,12.</ls> {#re\vanta\M hi tvA^ SfRomi#} {%ich höre du seist reich%}
+<ls n="ṚV.">8,2,11.</ls> <ls n="ṚV.">1,109,5.</ls> {#Sroza\nye a^sya\ SAsa^m#}
+<ls n="ṚV. 1,">68,9.</ls> <ls>AIT. BR. 7,15.</ls> <ls>VS. 6,26.</ls> <ls>AV. 5,4,2.</ls> <ls n="AV.">8,9,18.</ls> {#pA\paM Sloka^m#}
+<ls>TS. 3,5,7,2.</ls> <ls n="TS.">5,6,10,2.</ls>
+<ls>ŚAT. BR. 2,4,3,3. 14,4,3,8. 30. 7,1,27.</ls> {#nAhEva tannu SuSruva#}
+<ls>PAÑCAV. BR. 13,6,9.</ls> {#SfRvanti#} ({%achten hoch%} Comm.) {#tuzwuvAnam#}
+<ls n="PAÑCAV. BR.">11,13.</ls> {#tvaM tattvavit SuSrumo vayam#}
+<ls>MAITRYUP. 1,2.</ls> {#Srozyan#} so v. a. {%der in die Lehre zu treten in Begriff ist%}
+<ls>ĀŚV. ŚR. 8,14,3.</ls> — {#paWan, SfRvan#}
+<ls>R. 1,1,96.</ls> {#iti SuSrAva#}
+<ls>MBH. 1,4372.</ls> {#nASrOzamiti rAjAnaM sUta vakzyasi saMgame#}
+<ls>R. GORR. 2,39,47.</ls> {#aTa cettvamahaMkArAnna Srozyasi#}
 [Page7-0376]
-
-<ls>BHĀG. 18, 58.</ls> {#SrozyatyavahitA#} 
-<ls>MEGH. 98.</ls> {#kAmenAM Socase nityaM SrotumicCAmi#} 
-<ls>MBH. 3, 2644.</ls> {#A mUlAcCrotumicCAmi#} 
-<ls>ŚĀK. 14, 19.</ls> {#vaktuM SrotumaSikzitaH#} als Erklärung von {#eqamUka#} {%taubstumm%} 
-<ls>AK. 3, 1, 38.</ls> {#SrutvA spfzwvA ca dfzwvA ca BuktvA GrAtvA ca yo naraH . na hfzyati glAyati vA#} 
-<ls>M. 2, 98.</ls> {#SrutvA DarmaM vijAnAti SrutvA tyajati durmatim . SrutvA jYAnamavApnoti SrutvA mokzamavApnuyAt ..#} 
-<ls>Spr. 5091.</ls> — {#suhftsvajanavAkyAni yaTAvanna SfRoti ca#} 
-<ls>MBH. 3, 2287.</ls> 
-<ls>Spr. 5278. (II) 2815. 4907.</ls> {#SfRvanti tavehitam#} 
-<ls>BHĀG. P. 1, 8, 36.</ls> {#suhfdvAkyamidaM SfRu#} 
-<ls>MBH. 3, 2171. 2526.</ls> {#kulastrIRAM mahABAgyam#} 
-<ls>16619.</ls> {#kaTAm#} 
-<ls>5, 5944.</ls> {#vaco mama#} 
-<ls>R. 1, 52, 21. 2, 63, 4.</ls> 
-<ls>KATHĀS. 18, 177.</ls> {#godoha kam#} {%vom, die Geschichte des%} 
-<ls>61, 44.</ls> {#rahasyam#} 
-<ls>HIT. 37, 3.</ls> {#SudDeH SfRuta nirRayam#} 
-<ls>M. 5, 110. 9, 19. 11, 145. 12, 2.</ls> {#SfRavAma#} 
-<ls>BHĀG. P. 5, 2, 10.</ls> {#SfRuyAt - praRiDInAM ca cezwitam#} 
-<ls>M. 7, 223. 8, 76.</ls> {#SfRvatoH satataM guRAn#} 
-<ls>MBH. 3, 2088.</ls> {#aSfRavaM kaTAH#} 
-<ls>BHĀG. P. 1, 5, 26.</ls> {#praviSetyaSfRodvacaH#} 
-<ls>KATHĀS. 18, 211.</ls> 
-<ls>PAÑCAT. 21, 2.</ls> {#SrUyAt#} 
-<ls>BHĀG. P. 10, 90, 49.</ls> {#SuSrAva Sabdam#} 
-<ls>MBH. 1, 6111. 3, 2609.</ls> 
-<ls>RAGH. 2, 12.</ls> 
-<ls>KATHĀS. 11, 14.</ls> {#SuSruvatuH svanam#} 
-<ls>MBH. 1, 6119.</ls> {#SuSruvuH#} 
-<ls>3, 2128. 2854.</ls> {#aSrOzam#} 
-<ls>BHAG. 18, 74.</ls> 
-<ls>R. 2, 63, 21 (65, 21 GORR.).</ls> {#aSrOzIstvaM rAjaDarmAn#} 
-<ls>MBH. 3, 1396.</ls> {#SrozyAmi maDurAM giram#} 
-<ls>2431.</ls> <ls>R. 5, 36, 6.</ls> <ls>MEGH. 13.</ls> <ls>ŚĀK. 33, 3.</ls> {#citrAH kaTAH Srotum#} 
-<ls>MBH. 1, 3. 7618. 3, 2691.</ls> 
-<ls>RAGH. 1, 10.</ls> 
-<ls>R. 1, 1, 7.</ls> {#SrotumicCAmi gaNgAM tripaTagAM nadIm#} {%erfahren über%} 
-<ls>36, 11.</ls> {#vacanam#} {%achten auf%} 
-<ls>R. GORR. 2, 120, 23.</ls> {#SrutvEtAnDarmAn#} 
-<ls>M. 5, 1. 77. 6, 94.</ls> 
-<ls>MBH. 3, 1815. 2104. 2113. 2436. 2756. 2796.</ls> 
-<ls>HARIV. 9119.</ls> 
-<ls>R. 1, 1, 47. 2, 87, 1. 5, 66, 16.</ls> 
-<ls>RAGH. 12, 13.</ls> 
-<ls>Spr. 3042. fg. 5092.</ls> 
-<ls>VARĀH. BṚH. S. 47, 28.</ls> 
-<ls>HIT. 19, 21.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 2, 15. 7, 1.</ls> — {#kenApi paWyamAnaM SlokadvayaM SuSrAva#} {%hörte recitiren%} 
-<ls>HIT. 4, 7.</ls> {#vigataM tu videSasTaM SfRuyAdyo hyanirdaSam#} {%erfahren, dass%} 
-<ls>M. 5, 75.</ls> {#SuSrAva DftarAzwramacakzuzam . AtmAnaM ditsitaM cAsmE pitrA#} 
-<ls>MBH. 1, 4375. 3, 3016.</ls> 
-<ls>HARIV. 3371.</ls> 
-<ls>RĀJA-TAR. 1, 66.</ls> {#yadASrOzam - citraM vidDaM lakzyaM pAtitaM vE pfTivyAm#} 
-<ls>MBH. 1, 148. fgg.</ls> {#SrutvA tu rAvaRaM prAptam#} 
-<ls>R. 7, 27, 23.</ls> 
-<ls>Spr. 3044. fg.</ls> 
-<ls>RAGH. 12, 39.</ls> 
-<ls>KATHĀS. 7, 28.</ls> — mit gen. der Person: {#a\smAka\mitsu Sf^Ruhi#} 
-<ls>ṚV. 4, 22, 10.</ls> <ls n="ṚV.">6, 21, 8.</ls> <ls n="ṚV.">7, 28, 1.</ls> <ls n="ṚV. 7,">33, 5.</ls> {#dU\tasya^#} 
-<ls n="ṚV. 7,">39, 3.</ls> {#stu\va\taH#} 
-<ls n="ṚV.">8, 24, 14.</ls> <ls n="ṚV.">1, 37, 13.</ls> {#AcAryasya#} 
-<ls>ŚĀṄKH. GṚHY. 2, 12.</ls> 
-<ls>LĀṬY. 9, 9, 11.</ls> {#iti SuSruva pUrvezAm#} 
-<ls>KENOP. 3.</ls> 
-<ls>ĪŚOP. 10.</ls> {#nawasya#} 
-<ls>P. 1, 4, 29, Schol.</ls> {#kiM na SfRozi me#} 
-<ls>MBH. 1, 3022.</ls> {#SfRu me tvam - yadvAkyaM mUziko 'bravIt#} 
-<ls>5577. 3, 2123. 2475.</ls> {#sA cAsya na SfRoti vE#} 
-<ls>10327.</ls> {#kroSato na SfRoti me#} 
-<ls>R. 3, 68, 31. 6, 2, 11.</ls> 
-<ls>Spr. (II) 1325.</ls> mit acc. der Sache und gen. der Person: {#sarvaM SfRuta taM (guRaM) sarvaM kIrtayato mama#} 
-<ls>M. 3, 36.</ls> 
-<ls>MBH. 3, 2832.</ls> {#hetuM me gadataH SfRu#} 
-<ls>15786.</ls> <ls>R. 2, 64, 31.</ls> <ls>MEGH. 13.</ls> {#tadapatyAni me SfRu#} 
-<ls>BHĀG. P. 8, 13, 1.</ls> dat. st. gen. : {#SfRu vaco mahyam#} 
-<ls>MBH. 6, 2932.</ls> mit abl. der Person: {#iti SrutvEva mArjArAt#} 
-<ls>KATHĀS. 33, 124. 96, 47.</ls> mit acc. und abl.: {#SuSrAva vipreByo gAnDArIm#} {%erfuhr von - über%} 
-<ls>MBH. 1, 4371.</ls> {#tacCrutvA damayantIsaKIgaRAt#} 
-<ls>3, 2109.</ls> <ls>RAGH. 1, 39. 3, 66.</ls> <ls>KATHĀS. 2, 25. 45, 54.</ls> <ls>BHĀG. P. 3, 22, 10.</ls> <ls>HIT. 19, 3.</ls> {#pArTamaSrOzIt - vartamAnaM tapasyugre brAhmaReByaH#} 
-<ls>MBH. 3, 3084. fg.</ls> 
-<ls>KATHĀS. 29, 179.</ls> st. des einfachen abl. auch {#°muKAt#} (
-<ls>KATHĀS. 18, 195</ls>) und {#sakASAt#} 
-<ls>?(MBH. 3, 1262).</ls> mit acc. und instr.: {#tadvfttaM nfpatiH SrutvA dUtaSrezWEH#} 
-<ls>R. 1, 70, 8.</ls> In der Bed. {%bitten%} (nach den Scholl.) 
-<ls>BHAṬṬ. 8, 77.</ls> 
-<div n="1">— 2) med. = act. (im Epos stets nur aus metrischen Rücksichten): {#Sf\Ru\zva su\Srava^stamaH#} 
-<ls>ṚV. 1, 131, 7.</ls> {#karRAByAM BUri SuSruve#} 
-<ls>PĀR. GṚHY. 3, 15.</ls> {#SfRuzvEkamanA Bava#} 
-<ls>MBH. 1, 6520. 13, 484.</ls> 
-<ls>HARIV. 288.</ls> 
-<ls>PAÑCAT. 186, 15</ls> ({#SfRvekAgramanAH#} besser ed.
+<ls>BHĀG. 18,58.</ls> {#SrozyatyavahitA#}
+<ls>MEGH. 98.</ls> {#kAmenAM Socase nityaM SrotumicCAmi#}
+<ls>MBH. 3,2644.</ls> {#A mUlAcCrotumicCAmi#}
+<ls>ŚĀK. 14,19.</ls> {#vaktuM SrotumaSikzitaH#} als Erklärung von {#eqamUka#} {%taubstumm%}
+<ls>AK. 3,1,38.</ls> {#SrutvA spfzwvA ca dfzwvA ca BuktvA GrAtvA ca yo naraH . na hfzyati glAyati vA#}
+<ls>M. 2,98.</ls> {#SrutvA DarmaM vijAnAti SrutvA tyajati durmatim . SrutvA jYAnamavApnoti SrutvA mokzamavApnuyAt ..#}
+<ls>Spr. 5091.</ls> — {#suhftsvajanavAkyAni yaTAvanna SfRoti ca#}
+<ls>MBH. 3,2287.</ls>
+<ls>Spr. 5278.</ls> <ls>Spr. (II) 2815.</ls> <ls n="Spr. (II)">4907.</ls> {#SfRvanti tavehitam#}
+<ls>BHĀG. P. 1,8,36.</ls> {#suhfdvAkyamidaM SfRu#}
+<ls>MBH. 3,2171.</ls> <ls n="MBH. 3,">2526.</ls> {#kulastrIRAM mahABAgyam#}
+<ls n="MBH. 3,">16619.</ls> {#kaTAm#}
+<ls n="MBH.">5,5944.</ls> {#vaco mama#}
+<ls>R. 1,52,21.</ls> <ls n="R.">2,63,4.</ls>
+<ls>KATHĀS. 18,177.</ls> {#godoha kam#} {%vom, die Geschichte des%}
+<ls n="KATHĀS.">61,44.</ls> {#rahasyam#}
+<ls>HIT. 37,3.</ls> {#SudDeH SfRuta nirRayam#}
+<ls>M. 5,110.</ls> <ls n="M.">9,19.</ls> <ls n="M.">11,145.</ls> <ls n="M.">12,2.</ls> {#SfRavAma#}
+<ls>BHĀG. P. 5,2,10.</ls> {#SfRuyAt — praRiDInAM ca cezwitam#}
+<ls>M. 7,223.</ls> <ls n="M.">8,76.</ls> {#SfRvatoH satataM guRAn#}
+<ls>MBH. 3,2088.</ls> {#aSfRavaM kaTAH#}
+<ls>BHĀG. P. 1,5,26.</ls> {#praviSetyaSfRodvacaH#}
+<ls>KATHĀS. 18,211.</ls>
+<ls>PAÑCAT. 21,2.</ls> {#SrUyAt#}
+<ls>BHĀG. P. 10,90,49.</ls> {#SuSrAva Sabdam#}
+<ls>MBH. 1,6111.</ls> <ls n="MBH.">3,2609.</ls>
+<ls>RAGH. 2,12.</ls>
+<ls>KATHĀS. 11,14.</ls> {#SuSruvatuH svanam#}
+<ls>MBH. 1,6119.</ls> {#SuSruvuH#}
+<ls n="MBH.">3,2128.</ls> <ls n="MBH. 3,">2854.</ls> {#aSrOzam#}
+<ls>BHAG. 18,74.</ls>
+<ls>R. 2,63,21</ls> (<ls n="GORR. 2,">65,21</ls> <ls>GORR.</ls>). {#aSrOzIstvaM rAjaDarmAn#}
+<ls>MBH. 3,1396.</ls> {#SrozyAmi maDurAM giram#}
+<ls n="MBH. 3,">2431.</ls> <ls>R. 5,36,6.</ls> <ls>MEGH. 13.</ls> <ls>ŚĀK. 33,3.</ls> {#citrAH kaTAH Srotum#}
+<ls>MBH. 1,3.</ls> <ls n="MBH. 1,">7618.</ls> <ls n="MBH.">3,2691.</ls>
+<ls>RAGH. 1,10.</ls>
+<ls>R. 1,1,7.</ls> {#SrotumicCAmi gaNgAM tripaTagAM nadIm#} {%erfahren über%}
+<ls n="R. 1,">36,11.</ls> {#vacanam#} {%achten auf%}
+<ls>R. GORR. 2,120,23.</ls> {#SrutvEtAnDarmAn#}
+<ls>M. 5,1.</ls> <ls n="M. 5,">77.</ls> <ls n="M.">6,94.</ls>
+<ls>MBH. 3,1815.</ls> <ls n="MBH. 3,">2104.</ls> <ls n="MBH. 3,">2113.</ls> <ls n="MBH. 3,">2436.</ls> <ls n="MBH. 3,">2756.</ls> <ls n="MBH. 3,">2796.</ls>
+<ls>HARIV. 9119.</ls>
+<ls>R. 1,1,47.</ls> <ls n="R.">2,87,1</ls> <ls n="R.">5,66,16.</ls>
+<ls>RAGH. 12,13.</ls>
+<ls>Spr. 3042. fg.</ls> <ls n="Spr.">5092.</ls>
+<ls>VARĀH. BṚH. S. 47,28.</ls>
+<ls>HIT. 19,21.</ls>
+<ls>VET. in LA. (III) 2,15. 7,1.</ls> — {#kenApi paWyamAnaM SlokadvayaM SuSrAva#} {%hörte recitiren%}
+<ls>HIT. 4,7.</ls> {#vigataM tu videSasTaM SfRuyAdyo hyanirdaSam#} {%erfahren, dass%}
+<ls>M. 5,75.</ls> {#SuSrAva DftarAzwramacakzuzam . AtmAnaM ditsitaM cAsmE pitrA#}
+<ls>MBH. 1,4375.</ls> <ls n="MBH.">3,3016.</ls>
+<ls>HARIV. 3371.</ls>
+<ls>RĀJA-TAR. 1,66.</ls> {#yadASrOzam — citraM vidDaM lakzyaM pAtitaM vE pfTivyAm#}
+<ls>MBH. 1,148. fgg.</ls> {#SrutvA tu rAvaRaM prAptam#}
+<ls>R. 7,27,23.</ls>
+<ls>Spr. 3044. fg.</ls>
+<ls>RAGH. 12,39.</ls>
+<ls>KATHĀS. 7,28.</ls> — mit gen. der Person: {#a\smAka\mitsu Sf^Ruhi#}
+<ls>ṚV. 4,22,10.</ls> <ls n="ṚV.">6,21,8.</ls> <ls n="ṚV.">7,28,1.</ls> <ls n="ṚV. 7,">33,5.</ls> {#dU\tasya^#}
+<ls n="ṚV. 7,">39,3.</ls> {#stu\va\taH#}
+<ls n="ṚV.">8,24,14.</ls> <ls n="ṚV.">1,37,13.</ls> {#AcAryasya#}
+<ls>ŚĀṄKH. GṚHY. 2,12.</ls>
+<ls>LĀṬY. 9,9,11.</ls> {#iti SuSruva pUrvezAm#}
+<ls>KENOP. 3.</ls>
+<ls>ĪŚOP. 10.</ls> {#nawasya#}
+<ls>P. 1,4,29</ls>, Schol. {#kiM na SfRozi me#}
+<ls>MBH. 1,3022.</ls> {#SfRu me tvam — yadvAkyaM mUziko 'bravIt#}
+<ls n="MBH. 1,">5577.</ls> <ls n="MBH.">3,2123.</ls> <ls n="MBH. 3,">2475.</ls> {#sA cAsya na SfRoti vE#}
+<ls n="MBH. 1,">10327.</ls> {#kroSato na SfRoti me#}
+<ls>R. 3,68,31.</ls> <ls n="R.">6,2,11.</ls>
+<ls>Spr. (II) 1325.</ls> mit acc. der Sache und gen. der Person: {#sarvaM SfRuta taM (guRaM) sarvaM kIrtayato mama#}
+<ls>M. 3,36.</ls>
+<ls>MBH. 3,2832.</ls> {#hetuM me gadataH SfRu#}
+<ls n="MBH. 3,">15786.</ls> <ls>R. 2,64,31.</ls> <ls>MEGH. 13.</ls> {#tadapatyAni me SfRu#}
+<ls>BHĀG. P. 8,13,1.</ls> dat. st. gen. : {#SfRu vaco mahyam#}
+<ls>MBH. 6,2932.</ls> mit abl. der Person: {#iti SrutvEva mArjArAt#}
+<ls>KATHĀS. 33,124.</ls> <ls n="KATHĀS.">96,47.</ls> mit acc. und abl.: {#SuSrAva vipreByo gAnDArIm#} {%erfuhr von — über%}
+<ls>MBH. 1,4371.</ls> {#tacCrutvA damayantIsaKIgaRAt#}
+<ls n="MBH.">3,2109.</ls> <ls>RAGH. 1,39.</ls> <ls n="RAGH.">3,66.</ls> <ls>KATHĀS. 2,25.</ls> <ls n="KATHĀS.">45,54.</ls> <ls>BHĀG. P. 3,22,10.</ls> <ls>HIT. 19,3.</ls> {#pArTamaSrOzIt — vartamAnaM tapasyugre brAhmaReByaH#}
+<ls>MBH. 3,3084. fg.</ls>
+<ls>KATHĀS. 29,179.</ls> st. des einfachen abl. auch {#°muKAt#} (
+<ls>KATHĀS. 18,195</ls>) und {#sakASAt#}
+(<ls>MBH. 3,1262</ls>). mit acc. und instr.: {#tadvfttaM nfpatiH SrutvA dUtaSrezWEH#}
+<ls>R. 1,70,8.</ls> In der Bed. {%bitten%} (nach den Scholl.)
+<ls>BHAṬṬ. 8,77.</ls>
+<div n="1">— 2) med. = act. (im Epos stets nur aus metrischen Rücksichten): {#Sf\Ru\zva su\Srava^stamaH#}
+<ls>ṚV. 1,131,7.</ls> {#karRAByAM BUri SuSruve#}
+<ls>PĀR. GṚHY. 3,15.</ls> {#SfRuzvEkamanA Bava#}
+<ls>MBH. 1,6520.</ls> <ls n="MBH.">13,484.</ls>
+<ls>HARIV. 288.</ls>
+<ls>PAÑCAT. 186,15</ls> ({#SfRvekAgramanAH#} besser ed.
 [Page7-0377]
-Bomb.). {#SfRuDvam#} 
-<ls>MBH. 3, 8768.</ls> 
-<ls>HARIV. 10308.</ls> {#ityaSfRmahi#} 
-<ls>BHĀG. P. 10, 23, 48.</ls> {#tatputrapOtranaptFRAM gotrARi ca na SfRmahe#} 
-<ls>9, 3, 32.</ls> {#tacCfRuzva#} 
-<ls>MBH. 12, 4266. 13, 345. 14, 422.</ls> 
-<ls>R. 7, 23, 1, 70.</ls> 
-<ls>MĀRK. P. 99, 13.</ls> {#SfRuDvaM ca vaco mama#} 
-<ls>MBH. 1, 1625. 2, 1557.</ls> 
-<ls>R. 6, 81, 14.</ls> {#SfRvIta#} 
-<ls>BHĀG. P. 3, 13, 47.</ls> {#pUrvezAM SfRvAnaScaritaM mahat#} 
-<ls>MBH. 1, 2285. 2, 994. 13, 3697.</ls> 
-<ls>BHĀG. P. 1, 11, 11.</ls> {#taM SabdaM SuSruve#} 
-<ls>R. 3, 56, 2. 5, 25, 14.</ls> 
-<ls>BHĀG. P. 7, 5, 3.</ls> {#Srozye#} 
-<ls>MBH. 9, 105. 107.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 120, 22. 5, 23, 18. 69, 26.</ls> {#SvaH Srozyase#} (so ed. Bomb. st. {#°te) Sirastasya sEnDavasya raRe hftam#} 
-<ls>MBH. 7, 2725.</ls> {#SfRuzvAvahito mama#} 
-<ls>13, 1119. 14, 424.</ls> {#SuSruve#} mit acc. der Sache und abl. der Person 
-<ls>1, 386.</ls> 
-<div n="1">— 3) med. (im <is>Veda</is>) in pass. Bed. und pass. {#SrUyate#} u. s. w. (nach-vedisch): {#sa Goza^H SfRve 'va\mEra\mitrE^H#} {%wird vernommen%} 
-<ls>ṚV. 3, 30, 16.</ls> <ls n="ṚV.">5, 73, 7.</ls> <ls n="ṚV.">10, 94, 6.</ls> {#keno\ nu ka\M Sroma^tena\ na Su^Sruve vftra\hA#} 
-<ls n="ṚV.">8, 55, 9.</ls> <ls n="ṚV. 8,">2, 34.</ls> {#kayA\ tacCf^Rve\ SacyA\ Saci^zWaH#} {%heisst%} 
-<ls n="ṚV.">4, 20, 9.</ls> {#ka u\grAH ke ha^ SfRvire#} 
-<ls n="ṚV.">8, 45, 4.</ls> {#vfzA\ hyu^gra SfRvi\ze#} 
-<ls n="ṚV. 8,">6, 14.</ls> <ls n="ṚV. 8,">67, 3.</ls> <ls n="ṚV.">7, 26, 4.</ls> {#SrUyate#} 
-<ls>ŚĀṄKH. ŚR. 1, 16, 7. 7, 8, 6. 9, 1, 3.</ls> {#dvijAtimuKyavfttInAM viDAnaM SrUyatAm#} 
-<ls>M. 3, 286. 11, 161.</ls> 
-<ls>R. 1, 8, 5. 53, 8.</ls> {#AlApa iva SrUyate#} 
-<ls>ŚĀK. 8, 21.</ls> 
-<ls>Spr. (II) 2928.</ls> {#vArttApi na SrUyate#} 
-<ls>6033.</ls> {#SrUyatAM Darmasarvasvam#} 
-<ls>6578. fg.</ls> <ls>VARĀH. BṚH. S. 12, 6.</ls> {#kusume kusumotpattiH SrUyate na ca dfSyate#} 
-<ls>Spr. (II) 1846.</ls> {#sTAnaprAptivihInA hi gItavatkulakanyakA . udvejinI parasyApi SrUyamAREva karRayoH ..#} 
-<ls>KATHĀS. 24, 25.</ls> {#dvAdaSaBirvarzEstAvadvyAkaraRaM SrUyate#} {%wird beim Lehrer gehört, - studirt%} 
-<ls>PAÑCAT. 4, 14</ls> (ed. orn. 
-<ls>1, 17</ls>). {#Agamezu parameSvarasya SarIrendriyAdiyogaH SrUyate#} so v. a. {%man erfährt aus, man liest in%} 
-<ls>SARVADARŚANAS. 83, 19.</ls> {#iti tarhi SrUyamARasya viDeH#} 
-<ls>123, 15.</ls> {#yatra tuSabdaH SrUyate#} {%gehört%} — so v. a. {%angewandt wird%} 
-<ls>Schol.</ls> zu <ls>TS. PRĀT. 22, 6.</ls> — {#SabdAH SrUyanti sarvaSaH#} 
-<ls>MBH. 6, 2515</ls> {#SabdaH SuSruve#} 
-<ls>4, 1788.</ls> <ls>HARIV. 5003.</ls> <ls>R. 1, 24, 5. 2, 40, 29. 76, 21. 91, 25. 6, 19, 4.</ls> <ls>RAGH. 19, 18.</ls> <ls>KATHĀS. 11, 66. 19, 112.</ls> {#SuSruvire giraH#} 
-<ls>RAGH. 9, 44.</ls> {#ityaSrAvi ca vAgdivyA#} 
-<ls>KATHĀS. 46, 96.</ls> 
-<ls>PRAB. 20, 9.</ls> 
-<ls>PAÑCAT. 64, 3.</ls> {#rutAni cASrozata zawpadAnAm#} 
-<ls>BHAṬṬ. 2, 10.</ls> {#parAsya SaktirviviDEva SrUyate#} {%man hört, - erfährt, es heisst, dass%} 
-<ls>ŚVETĀŚV. UP. 6, 8.</ls> 
-<ls>MAITRYUP. 2, 3.</ls> {#SrUyate BavataH sADvI svasA mAdrI yaSasvinI#} 
-<ls>MBH. 1, 4430.</ls> {#ayaM SrUyate gItaH Sloko mahAtmanA#} 
-<ls>5, 7073.</ls> <ls>R. 2, 107, 11.</ls> {#tEryuktaH SrUyatAM naraH#} 
-<ls>1, 1, 9. 22, 17. 6, 95, 57.</ls> <ls>ŚĀK. 71.</ls> <ls>Spr. (II) 2431. 2933.</ls> <ls>KATHĀS. 24, 85.</ls> {#bahavaH - jIvanmuktimASritAH SrUyante raseSvarasidDAnte#} 
-<ls>SARVADARŚANAS. 98, 20. fg.</ls> {#SuSruve . rAjaputro jigIzuSca SrImAnyODizWire kule#} {%man hörte von%} 
-<ls>RĀJA-TAR. 2, 144.</ls> {#tenABAryeRa sadfSI BAryASrAvi vicinvatA#} 
-<ls>KATHĀS. 56, 240.</ls> mit gen. der Person: {#tacCrUyatAM mama#} 
-<ls>MBH. 3, 12772.</ls> 
-<ls>R. 1, 4, 28.</ls> mit {#muKAt#} st. des einf. abl. 
-<ls>HIT. 39, 7.</ls> pass. impers.: {#odakAntAtsnigDo jano 'nugantavya iti SrUyate#} {%man hört, - liest, dass%} 
-<ls>ŚĀK. 54, 22.</ls> {#SrUyate#} so v. a. {%ich höre%} 
-<ls>14, 16.</ls> {#SrUyatAm#} {%man höre, du höre%} 
-<ls>M. 1, 4. 60. 5, 3.</ls> 
-<ls>R. 1, 1, 8.</ls> 
-<ls>ŚĀK. 50, 7. 57, 5. 84, 11.</ls> 
-<ls>KATHĀS. 18, 258.</ls> 
-<ls>PAÑCAT. 33, 21.</ls> 
-<ls>HIT. 27, 10.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 4, 20.</ls> {#SrUyatAM tu guREreBiryo yuktaH#} 
-<ls>R. GORR. 1, 1, 18.</ls> {#yadasmi#} 
-u.s.w. <ls>ŚĀK. 95, 1.</ls> {#taTA ca SvetASvataropanizadi SrUyate#} {%und so liest man in%} 
-<ls>SARVADARŚANAS. 152, 2.</ls> mit abl. der Person: {#vfdDeByaH SrUyate yaTA#} 
-<ls>KATHĀS. 6, 74.</ls> mit gen. der Sache: {#SrUyatAmasya Danuzo yadarSamiha tizWati#} 
-<ls>R. 1, 66, 7.</ls> — {#SuSruvaMs#} und {#Sruta#} s. bes.
-
-<div n="p">— caus. {#Sravayati#} (nur im <is>Veda</is>) und {#SrA° (Sra°#} 
-<ls>ṚV.</ls> <is>Padap</is>.); des Metrums wegen auch med. {%hören lassen, verkünden, hersagen%}: {#ago^hya\M yacCra\vaya^nta\ Eta^na#} 
-<ls>ṚV. 1, 110, 3.</ls> {#SrA\vayeda^sya\ karRA^ vAja\yaDyE#} 
-<ls n="ṚV.">4, 29, 3.</ls> {#vAca^m#}
+Bomb.). {#SfRuDvam#}
+<ls>MBH. 3,8768.</ls>
+<ls>HARIV. 10308.</ls> {#ityaSfRmahi#}
+<ls>BHĀG. P. 10,23,48.</ls> {#tatputrapOtranaptFRAM gotrARi ca na SfRmahe#}
+<ls n="BHĀG. P.">9,3,32.</ls> {#tacCfRuzva#}
+<ls>MBH. 12,4266.</ls> <ls n="MBH.">13,345.</ls> <ls n="MBH.">14,422.</ls>
+<ls>R. 7,23,1,70.</ls>
+<ls>MĀRK. P. 99,13.</ls> {#SfRuDvaM ca vaco mama#}
+<ls>MBH. 1,1625.</ls> <ls n="MBH.">2,1557.</ls>
+<ls>R. 6,81,14.</ls> {#SfRvIta#}
+<ls>BHĀG. P. 3,13,47.</ls> {#pUrvezAM SfRvAnaScaritaM mahat#}
+<ls>MBH. 1,2285.</ls> <ls n="MBH.">2,994.</ls> <ls n="MBH.">13,3697.</ls>
+<ls>BHĀG. P. 1,11,11.</ls> {#taM SabdaM SuSruve#}
+<ls>R. 3,56,2.</ls> <ls n="R.">5,25,14.</ls>
+<ls>BHĀG. P. 7,5,3.</ls> {#Srozye#}
+<ls>MBH. 9,105.</ls> <ls n="MBH. 9,">107.</ls>
+<ls>R. GORR. 2,120,22.</ls> <ls n="R. GORR.">5,23,18.</ls> <ls n="R. GORR. 5,">69,26.</ls> {#SvaH Srozyase#} (so <ls>ed. Bomb.</ls> st. {#°te) Sirastasya sEnDavasya raRe hftam#}
+<ls>MBH. 7,2725.</ls> {#SfRuzvAvahito mama#}
+<ls n="MBH.">13,1119.</ls> <ls n="MBH.">14,424.</ls> {#SuSruve#} mit acc. der Sache und abl. der Person
+<ls n="MBH.">1,386.</ls>
+<div n="1">— 3) med. (im <is>Veda</is>) in pass. Bed. und pass. {#SrUyate#} u. s. w. (nach-vedisch): {#sa Goza^H SfRve 'va\mEra\mitrE^H#} {%wird vernommen%}
+<ls>ṚV. 3,30,16.</ls> <ls n="ṚV.">5,73,7.</ls> <ls n="ṚV.">10,94,6.</ls> {#keno\ nu ka\M Sroma^tena\ na Su^Sruve vftra\hA#}
+<ls n="ṚV.">8,55,9.</ls> <ls n="ṚV. 8,">2,34.</ls> {#kayA\ tacCf^Rve\ SacyA\ Saci^zWaH#} {%heisst%}
+<ls n="ṚV.">4,20,9.</ls> {#ka u\grAH ke ha^ SfRvire#}
+<ls n="ṚV.">8,45,4.</ls> {#vfzA\ hyu^gra SfRvi\ze#}
+<ls n="ṚV. 8,">6,14.</ls> <ls n="ṚV. 8,">67,3.</ls> <ls n="ṚV.">7,26,4.</ls> {#SrUyate#}
+<ls>ŚĀṄKH. ŚR. 1,16,7. 7,8,6. 9,1,3.</ls> {#dvijAtimuKyavfttInAM viDAnaM SrUyatAm#}
+<ls>M. 3,286.</ls> <ls n="M.">11,161.</ls>
+<ls>R. 1,8,5.</ls> <ls n="R. 1,">53,8.</ls> {#AlApa iva SrUyate#}
+<ls>ŚĀK. 8,21.</ls>
+<ls>Spr. (II) 2928.</ls> {#vArttApi na SrUyate#}
+<ls n="Spr. (II)">6033.</ls> {#SrUyatAM Darmasarvasvam#}
+<ls n="Spr. (II)">6578. fg.</ls> <ls>VARĀH. BṚH. S. 12,6.</ls> {#kusume kusumotpattiH SrUyate na ca dfSyate#}
+<ls>Spr. (II) 1846.</ls> {#sTAnaprAptivihInA hi gItavatkulakanyakA . udvejinI parasyApi SrUyamAREva karRayoH ..#}
+<ls>KATHĀS. 24,25.</ls> {#dvAdaSaBirvarzEstAvadvyAkaraRaM SrUyate#} {%wird beim Lehrer gehört, — studirt%}
+<ls>PAÑCAT. 4,14</ls> (ed. orn.
+<ls n="PAÑCAT.">1,17</ls>). {#Agamezu parameSvarasya SarIrendriyAdiyogaH SrUyate#} so v. a. {%man erfährt aus, man liest in%}
+<ls>SARVADARŚANAS. 83,19.</ls> {#iti tarhi SrUyamARasya viDeH#}
+<ls n="SARVADARŚANAS.">123,15.</ls> {#yatra tuSabdaH SrUyate#} {%gehört%} — so v. a. {%angewandt wird%}
+<ls>Schol.</ls> zu <ls>TS. PRĀT. 22,6.</ls> — {#SabdAH SrUyanti sarvaSaH#}
+<ls>MBH. 6,2515</ls> {#SabdaH SuSruve#}
+<ls n="MBH.">4,1788.</ls> <ls>HARIV. 5003.</ls> <ls>R. 1,24,5.</ls> <ls n="R.">2,40,29.</ls> <ls n="R. 2,">76,21.</ls> <ls n="R. 2,">91,25.</ls> <ls n="R.">6,19,4.</ls> <ls>RAGH. 19,18.</ls> <ls>KATHĀS. 11,66.</ls> <ls n="KATHĀS.">19,112.</ls> {#SuSruvire giraH#}
+<ls>RAGH. 9,44.</ls> {#ityaSrAvi ca vAgdivyA#}
+<ls>KATHĀS. 46,96.</ls>
+<ls>PRAB. 20,9.</ls>
+<ls>PAÑCAT. 64,3.</ls> {#rutAni cASrozata zawpadAnAm#}
+<ls>BHAṬṬ. 2,10.</ls> {#parAsya SaktirviviDEva SrUyate#} {%man hört, — erfährt, es heisst, dass%}
+<ls>ŚVETĀŚV. UP. 6,8.</ls>
+<ls>MAITRYUP. 2,3.</ls> {#SrUyate BavataH sADvI svasA mAdrI yaSasvinI#}
+<ls>MBH. 1,4430.</ls> {#ayaM SrUyate gItaH Sloko mahAtmanA#}
+<ls n="MBH.">5,7073.</ls> <ls>R. 2,107,11.</ls> {#tEryuktaH SrUyatAM naraH#}
+<ls n="R.">1,1,9.</ls> <ls n="R. 1,">22,17.</ls> <ls n="R.">6,95,57.</ls> <ls>ŚĀK. 71.</ls> <ls>Spr. (II) 2431.</ls> <ls n="Spr. (II)">2933.</ls> <ls>KATHĀS. 24,85.</ls> {#bahavaH — jIvanmuktimASritAH SrUyante raseSvarasidDAnte#}
+<ls>SARVADARŚANAS. 98,20. fg.</ls> {#SuSruve . rAjaputro jigIzuSca SrImAnyODizWire kule#} {%man hörte von%}
+<ls>RĀJA-TAR. 2,144.</ls> {#tenABAryeRa sadfSI BAryASrAvi vicinvatA#}
+<ls>KATHĀS. 56,240.</ls> mit gen. der Person: {#tacCrUyatAM mama#}
+<ls>MBH. 3,12772.</ls>
+<ls>R. 1,4,28.</ls> mit {#muKAt#} st. des einf. abl.
+<ls>HIT. 39,7.</ls> pass. impers.: {#odakAntAtsnigDo jano 'nugantavya iti SrUyate#} {%man hört, — liest, dass%}
+<ls>ŚĀK. 54,22.</ls> {#SrUyate#} so v. a. {%ich höre%}
+<ls n="ŚĀK.">14,16.</ls> {#SrUyatAm#} {%man höre, du höre%}
+<ls>M. 1,4.</ls> <ls n="M. 1,">60.</ls> <ls n="M.">5,3.</ls>
+<ls>R. 1,1,8.</ls>
+<ls>ŚĀK. 50,7. 57,5. 84,11.</ls>
+<ls>KATHĀS. 18,258.</ls>
+<ls>PAÑCAT. 33,21.</ls>
+<ls>HIT. 27,10.</ls>
+<ls>VET. in LA. (III) 4,20.</ls> {#SrUyatAM tu guREreBiryo yuktaH#}
+<ls>R. GORR. 1,1,18.</ls> {#yadasmi#}
+u.s.w. <ls>ŚĀK. 95,1.</ls> {#taTA ca SvetASvataropanizadi SrUyate#} {%und so liest man in%}
+<ls>SARVADARŚANAS. 152,2.</ls> mit abl. der Person: {#vfdDeByaH SrUyate yaTA#}
+<ls>KATHĀS. 6,74.</ls> mit gen. der Sache: {#SrUyatAmasya Danuzo yadarSamiha tizWati#}
+<ls>R. 1,66,7.</ls> — {#SuSruvaMs#} und {#Sruta#} s. bes.
+<div n="p">— caus. {#Sravayati#} (nur im <is>Veda</is>) und {#SrA° (Sra°#}
+<ls>ṚV.</ls> <is>Padap</is>.); des Metrums wegen auch med. {%hören lassen, verkünden, hersagen%}: {#ago^hya\M yacCra\vaya^nta\ Eta^na#}
+<ls>ṚV. 1,110,3.</ls> {#SrA\vayeda^sya\ karRA^ vAja\yaDyE#}
+<ls n="ṚV.">4,29,3.</ls> {#vAca^m#}
 [Page7-0378]
-
-<ls n="ṚV.">8, 85, 12.</ls> <ls>ŚAT. BR. 1, 8, 3, 20. 9, 2, 18.</ls> {#loke#} 
-<ls>7, 3, 1, 29. 12, 8, 3, 26.</ls> {#rahasyam#} 
-<ls>ŚĀṄKH. GṚHY. 2, 11.</ls> 
-<ls>ĀŚV. GṚHY. 4, 7, 26.</ls> {#ya evaM SrAvayecCrAdDe#} 
-<ls>CŪLIKOP.</ls> in <ls>Ind. St. 9, 20.</ls> {#brahma saMsadi#} 
-<ls>KAṬHOP. 3, 17.</ls> {#svADyAyam, DarmaSAstrARi#} 
-u.s.w. <ls>M. 3, 232.</ls> {#Slokatrayam#} 
-<ls>YĀJÑ. 3, 332.</ls> {#tacca vAkyaM SrAvayAM cakrire#} 
-<ls>MBH. 3, 2743. 8, 2516.</ls> 
-<ls>R. 7, 13, 35.</ls> — 
-<ls>Verz. d. Oxf. H. 47</ls>, {%a%}, 
-<ls>2 v. u.</ls> {#nAma svaM SrAvayan#} 
-<ls>R. 2, 3, 31. 5, 50, 19.</ls> 
-<ls>KATHĀS. 6, 4.</ls> {#maNgalyaSabdam#} 
-<ls>LALIT. ed. Calc. 378, 10. fg.</ls> mit acc. der Person {%Jmd hören lassen, zu Jmd sprechen, anreden, Jmd Etwas mittheilen%} 
-<ls>P. 1, 4, 52, <is>Vārtt</is>. 2.</ls> {#sAkziRaH#} 
-<ls>YĀJÑ. 2, 73.</ls> 
-<ls>HARIV. 5197.</ls> 
-<ls>KATHĀS. 4, 66. 8, 19. 12, 153. 182. 32, 79. 69, 33.</ls> 
-<ls>BHĀG. P. 1, 3, 44.</ls> mit doppeltem acc.: {#veRumaSrAvayacca gAH#} 
-<ls>VOP. 5, 5.</ls> {#etadvo 'yaM BfguH SAstraM SrAvayizyati#} 
-<ls>M. 1, 59.</ls> 
-<ls>YĀJÑ. 3, 334.</ls> 
-<ls>MBH. 1, 2300. 2317. fg. 6518. 8403.</ls> {#BIzmaM rUkzAkzarA vAcaH#} 
-<ls>?2, 1432. 3, 993. 1837. 5, 909 (med.). 13, 4303. HARIV. 9711. R. 2, 77, 24. R. GORR. 1, 4, 3. 5, 76, 16. 6, 101, 6 (med.). BHĀG. P. 4, 31, 23. PAÑCAR. 1, 12, 4.</ls> {#aSiSravattaM ca jIvantaM pavanAtmajam#} {%er theilte ihm mit, dass%} 
-<ls>BHAṬṬ. 15, 103.</ls> mit gen. der Person: {#tena te SrAvayizyAmi yattadbrahma sanAtanam#} 
-<ls>MBH. 13, 1120.</ls> 
-<ls>BHĀG. P. 4, 12, 49.</ls> mit dat. der Person: {#mahyaM SrAvayAmAsa kilbizam#} 
-<ls>HARIV. 1087.</ls> {#imAM kaTAM SrAvayedyastu vipreByaH#} 
-<ls>12276.</ls> pass. {%zu hören bekommen%}: {#SrAvyantAM pfTivIkzitaH . yattvayABihitaM vAkyaM mayA ca pratiBAzitam#} 
-<ls>HARIV. 9620.</ls> mit acc. der Sache: {#iti vacanaM pOlastyaH SrAvyatAm#} 
-<ls>R. 5, 76, 18.</ls> partic. {#SrAvita#} 
-<div n="1"> 1) {%der Etwas%} (acc.) {%zu hören bekommen hat, - vernommen hat%}: {#ityasya dUtEH sa SrAvito 'Bavat#} 
-<ls>RĀJA-TAR. 4, 552.</ls> 
-<ls>KATHĀS. 81, 85. 124, 119.</ls> {#asyADivAsanam#} 
-<ls>HARIV. 6026.</ls> {#sarvamarTam#} 
-<ls>R. 5, 66, 16.</ls> {#mayA vAkyaM tvadIyam#} 
-<ls>MBH. 3, 2746.</ls> {#tena bahuSo rUkzam#} 
-<ls>?6, 5830. 3, 2. 5, 7508. 14, 415. HARIV. 1097. R. 1, 17, 18 (7 GORR.). 2, 62, 1. 4, 32, 4. 7, 50, 18</ls> ({#SrAvitaH#} zu lesen). mit gen. der Person 
-<ls>MBH. 7, 6403.</ls> mit abl. der Person: {#sAkzyamanyeByaH#} 
-<ls>YĀJÑ. 2, 82.</ls> 
-<div n="1">— 2) {%verkündet, gesprochen, mitgetheilt%} 
-<ls>R. GORR. 1, 1, 105.</ls> <ls>BHĀG. P. 3, 22, 8. 4, 18, 2.</ls> 
-<div n="1">— 3) {%angemeldet%}: {#sacivEH SrAvitAH pUrvaM pravizwAste narADipAH#} 
-<ls>HARIV. 6055.</ls> 
-<div n="1">— 4) {%genannt%}: {#SrAvastIti purI ramyA SrAvitA ca lavasya ha#} 
-<ls>R. 7, 108, 5.</ls> 
-<div n="1">— 5) so v. a. {#ASrAvita#} {%der rituelle Zuruf%} 
-<ls>ŚAT. BR. 14, 9, 3, 9.</ls> 
+<ls n="ṚV.">8,85,12.</ls> <ls>ŚAT. BR. 1,8,3,20. 9,2,18.</ls> {#loke#}
+<ls n="ŚAT. BR.">7,3,1,29. 12,8,3,26.</ls> {#rahasyam#}
+<ls>ŚĀṄKH. GṚHY. 2,11.</ls>
+<ls>ĀŚV. GṚHY. 4,7,26.</ls> {#ya evaM SrAvayecCrAdDe#}
+<ls>CŪLIKOP.</ls> in <ls>Ind. St. 9,20.</ls> {#brahma saMsadi#}
+<ls>KAṬHOP. 3,17.</ls> {#svADyAyam, DarmaSAstrARi#}
+u.s.w. <ls>M. 3,232.</ls> {#Slokatrayam#}
+<ls>YĀJÑ. 3,332.</ls> {#tacca vAkyaM SrAvayAM cakrire#}
+<ls>MBH. 3,2743.</ls> <ls n="MBH.">8,2516.</ls>
+<ls>R. 7,13,35.</ls> —
+<ls>Verz. d. Oxf. H. 47,a,2</ls> v. u.
+{#nAma svaM SrAvayan#}
+<ls>R. 2,3,31.</ls> <ls n="R.">5,50,19.</ls>
+<ls>KATHĀS. 6,4.</ls> {#maNgalyaSabdam#}
+<ls>LALIT. ed. Calc. 378,10. fg.</ls> mit acc. der Person {%Jmd hören lassen, zu Jmd sprechen, anreden, Jmd Etwas mittheilen%}
+<ls>P. 1,4,52</ls>, <is>Vārtt</is>. 2. {#sAkziRaH#}
+<ls>YĀJÑ. 2,73.</ls>
+<ls>HARIV. 5197.</ls>
+<ls>KATHĀS. 4,66.</ls> <ls n="KATHĀS.">8,19.</ls> <ls n="KATHĀS.">12,153.</ls> <ls n="KATHĀS. 12,">182.</ls> <ls n="KATHĀS.">32,79.</ls> <ls n="KATHĀS.">69,33.</ls>
+<ls>BHĀG. P. 1,3,44.</ls> mit doppeltem acc.: {#veRumaSrAvayacca gAH#}
+<ls>VOP. 5,5.</ls> {#etadvo 'yaM BfguH SAstraM SrAvayizyati#}
+<ls>M. 1,59.</ls>
+<ls>YĀJÑ. 3,334.</ls>
+<ls>MBH. 1,2300.</ls> <ls n="MBH. 1,">2317. fg.</ls> <ls n="MBH. 1,">6518.</ls> <ls n="MBH. 1,">8403.</ls> {#BIzmaM rUkzAkzarA vAcaH#}
+<ls n="MBH.">2,1432.</ls> <ls n="MBH.">3,993.</ls> <ls n="MBH. 3,">1837.</ls> <ls n="MBH.">5,909</ls> (med.). <ls n="MBH.">13,4303.</ls> <ls>HARIV. 9711.</ls> <ls>R. 2,77,24.</ls> <ls>R. GORR. 1,4,3.</ls> <ls n="R. GORR.">5,76,16.</ls> <ls n="R. GORR.">6,101,6</ls> (med.). <ls>BHĀG. P. 4,31,23.</ls> <ls>PAÑCAR. 1,12,4.</ls> {#aSiSravattaM ca jIvantaM pavanAtmajam#} {%er theilte ihm mit, dass%}
+<ls>BHAṬṬ. 15,103.</ls> mit gen. der Person: {#tena te SrAvayizyAmi yattadbrahma sanAtanam#}
+<ls>MBH. 13,1120.</ls>
+<ls>BHĀG. P. 4,12,49.</ls> mit dat. der Person: {#mahyaM SrAvayAmAsa kilbizam#}
+<ls>HARIV. 1087.</ls> {#imAM kaTAM SrAvayedyastu vipreByaH#}
+<ls n="HARIV.">12276.</ls> pass. {%zu hören bekommen%}: {#SrAvyantAM pfTivIkzitaH . yattvayABihitaM vAkyaM mayA ca pratiBAzitam#}
+<ls>HARIV. 9620.</ls> mit acc. der Sache: {#iti vacanaM pOlastyaH SrAvyatAm#}
+<ls>R. 5,76,18.</ls> partic. {#SrAvita#}
+<div n="1"> 1) {%der Etwas%} (acc.) {%zu hören bekommen hat, — vernommen hat%}: {#ityasya dUtEH sa SrAvito 'Bavat#}
+<ls>RĀJA-TAR. 4,552.</ls>
+<ls>KATHĀS. 81,85.</ls> <ls n="KATHĀS.">124,119.</ls> {#asyADivAsanam#}
+<ls>HARIV. 6026.</ls> {#sarvamarTam#}
+<ls>R. 5,66,16.</ls> {#mayA vAkyaM tvadIyam#}
+<ls>MBH. 3,2746.</ls> {#tena bahuSo rUkzam#}
+<ls n="MBH.">6,5830.</ls> <ls n="MBH.">3,2.</ls> <ls n="MBH.">5,7508.</ls> <ls n="MBH.">14,415.</ls> <ls>HARIV. 1097.</ls> <ls>R. 1,17,18</ls> (<ls n="GORR. 1,17,">7</ls> <ls>GORR.</ls>). <ls n="R.">2,62,1.</ls> <ls n="R.">4,32,4.</ls> <ls n="R.">7,50,18</ls> ({#SrAvitaH#} zu lesen). mit gen. der Person
+<ls>MBH. 7,6403.</ls> mit abl. der Person: {#sAkzyamanyeByaH#}
+<ls>YĀJÑ. 2,82.</ls>
+<div n="1">— 2) {%verkündet, gesprochen, mitgetheilt%}
+<ls>R. GORR. 1,1,105.</ls> <ls>BHĀG. P. 3,22,8.</ls> <ls n="BHĀG. P.">4,18,2.</ls>
+<div n="1">— 3) {%angemeldet%}: {#sacivEH SrAvitAH pUrvaM pravizwAste narADipAH#}
+<ls>HARIV. 6055.</ls>
+<div n="1">— 4) {%genannt%}: {#SrAvastIti purI ramyA SrAvitA ca lavasya ha#}
+<ls>R. 7,108,5.</ls>
+<div n="1">— 5) so v. a. {#ASrAvita#} {%der rituelle Zuruf%}
+<ls>ŚAT. BR. 14,9,3,9.</ls>
 <div n="v">— Vgl. 3. {#SrAvaRa, SrAvaRIya, SrAvya#} .
-
-<div n="p">— desid. {#Su/SrUzate#} 
-<ls>P. 1, 3, 57.</ls> 
-<ls>VOP. 23, 57.</ls> im Epos des Metrums wegen auch med. 
-<div n="1"> 1) {%hören wollen, gern hören%}: {#tvaM ha\ tyadi^ndra\ kutsa^mAva\H SuSrU^zamARasta\nvA^ sama\rye#} 
-<ls>ṚV. 7, 19, 2.</ls> <ls n="ṚV.">4, 38, 7.</ls> 
-<ls>VS. 22, 8.</ls> 
-<ls>MBH. 3, 375. 1263. 13248. 13, 7629.</ls> 
-<ls>R. 2, 56, 17.</ls> 
-<ls>BHĀG. P. 2, 9, 40.</ls> {#yadi SuSrUzase#} 
-<ls>MBH. 3, 2064. 14, 63.</ls> 
-<ls>HARIV. 281.</ls> {#SuSrUzasva#} 
-<ls>MBH. 7, 3064.</ls> {#SuSrUzaDvam#} 
-<ls>12, 1296. 13, 614.</ls> {#tasmE evota SuSrUzante#} 
-<ls>CHĀND. UP. 7, 5, 2.</ls> {#SuSrUzasva giraM mama#} 
-<ls>MBH. 3, 16922. 5, 2323. 4462. 13, 5823. 14, 64.</ls> 
-<ls>R. 3, 51, 11.</ls> {#nASuSrUzata gAyanAn#} 
-<ls>BHAṬṬ. 8, 34.</ls> act. : {#tanme SuSrUzato brUhi#} 
-<ls>MBH. 5, 1565.</ls> 
-<ls>BHĀG. P. 1, 18, 15. 2, 3, 14. 10, 51, 32.</ls> {#SuSrUzitAM vAcaM BAzitA#} 
-<ls>ŚAT. BR. 14, 9, 4, 17.</ls> 
-<div n="1">— 2) {%gehorchen, Jmd seine Aufmerksamkeit erzeigen, zu Jmdes Dienst sein%} 
-<ls>KUMĀRAS. 1, 60.</ls> {#BAryA na SuSrUzate#} 
-<ls>Spr. (II) 2103.</ls> {#gurum#} 
-<ls>M. 2, 244.</ls> {#patim#} 
-<ls>Spr. (II) 3686. 5359.</ls> {#rAjAnam#} 
-<ls>MBH. 3, 13175. 13722. 13, 3662. 15, 115.</ls> {#agnim, pitaram#} 
-<ls>R. 1, 8, 10. 77, 15.</ls> 
-<ls>ŚĀK. 93.</ls> {#SuSrUzamARA te (= tvAm)#} 
-<ls>R. 2, 27, 13.</ls> 
-<ls>R. ed. Bomb. 2, 8, 18.</ls> {#SuSrUzitum#} 
-<ls>MBH. 3, 1850. 5, 865.</ls> {#gAH SuSrUzitvA#} 
-<ls>M. 11, 110.</ls> act. : {#mAtaraM pitaraM ca SuSrUzanti#} 
-<ls>MBH. 13, 1665.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 32, 25. 7, 79, 14.</ls> {#SuSrUza mAm#} 
-<ls>?2, 18, 24 (21, 23 ṢL.). 38, 42. 39, 5. 6, 104, 37.</ls> {#SuSrUzeyam#} 
-<ls>3, 15, 35.</ls> {#SuSrUzet#} 
-<ls>2, 16, 32.</ls> {#SuSrUzantI#} 
-<ls>MBH. 4, 374. 15, 456.</ls> 
-<ls>R.</ls> 
-<ls>GORR.2, 18, 25.</ls>
+<div n="p">— desid. {#Su/SrUzate#}
+<ls>P. 1,3,57.</ls>
+<ls>VOP. 23,57.</ls> im Epos des Metrums wegen auch med.
+<div n="1"> 1) {%hören wollen, gern hören%}: {#tvaM ha\ tyadi^ndra\ kutsa^mAva\H SuSrU^zamARasta\nvA^ sama\rye#}
+<ls>ṚV. 7,19,2.</ls> <ls n="ṚV.">4,38,7.</ls>
+<ls>VS. 22,8.</ls>
+<ls>MBH. 3,375.</ls> <ls n="MBH. 3,">1263.</ls> <ls n="MBH. 3,">13248.</ls> <ls n="MBH.">13,7629.</ls>
+<ls>R. 2,56,17.</ls>
+<ls>BHĀG. P. 2,9,40.</ls> {#yadi SuSrUzase#}
+<ls>MBH. 3,2064.</ls> <ls n="MBH.">14,63.</ls>
+<ls>HARIV. 281.</ls> {#SuSrUzasva#}
+<ls>MBH. 7,3064.</ls> {#SuSrUzaDvam#}
+<ls n="MBH.">12,1296.</ls> <ls n="MBH.">13,614.</ls> {#tasmE evota SuSrUzante#}
+<ls>CHĀND. UP. 7,5,2.</ls> {#SuSrUzasva giraM mama#}
+<ls>MBH. 3,16922.</ls> <ls n="MBH.">5,2323.</ls> <ls n="MBH. 5,">4462.</ls> <ls n="MBH.">13,5823.</ls> <ls n="MBH.">14,64.</ls>
+<ls>R. 3,51,11.</ls> {#nASuSrUzata gAyanAn#}
+<ls>BHAṬṬ. 8,34.</ls> act. : {#tanme SuSrUzato brUhi#}
+<ls>MBH. 5,1565.</ls>
+<ls>BHĀG. P. 1,18,15.</ls> <ls n="BHĀG. P.">2,3,14.</ls> <ls n="BHĀG. P.">10,51,32.</ls> {#SuSrUzitAM vAcaM BAzitA#}
+<ls>ŚAT. BR. 14,9,4,17.</ls>
+<div n="1">— 2) {%gehorchen, Jmd seine Aufmerksamkeit erzeigen, zu Jmdes Dienst sein%}
+<ls>KUMĀRAS. 1,60.</ls> {#BAryA na SuSrUzate#}
+<ls>Spr. (II) 2103.</ls> {#gurum#}
+<ls>M. 2,244.</ls> {#patim#}
+<ls>Spr. (II) 3686.</ls> <ls n="Spr. (II)">5359.</ls> {#rAjAnam#}
+<ls>MBH. 3,13175.</ls> <ls n="MBH. 3,">13722.</ls> <ls n="MBH.">13,3662.</ls> <ls n="MBH.">15,115.</ls> {#agnim, pitaram#}
+<ls>R. 1,8,10.</ls> <ls n="R. 1,">77,15.</ls>
+<ls>ŚĀK. 93.</ls> {#SuSrUzamARA te (= tvAm)#}
+<ls>R. 2,27,13.</ls>
+<ls>R. ed. Bomb. 2,8,18.</ls> {#SuSrUzitum#}
+<ls>MBH. 3,1850.</ls> <ls n="MBH.">5,865.</ls> {#gAH SuSrUzitvA#}
+<ls>M. 11,110.</ls> act. : {#mAtaraM pitaraM ca SuSrUzanti#}
+<ls>MBH. 13,1665.</ls>
+<ls>R. GORR. 2,32,25.</ls> <ls n="R. GORR.">7,79,14.</ls> {#SuSrUza mAm#}
+<ls n="R. GORR.">2,18,24</ls> (<ls n="SCHL. 2,">21,23</ls> SHL.). <ls n="R. GORR. 2,">38,42.</ls> <ls n="R. GORR. 2,">39,5.</ls> <ls n="R. GORR.">6,104,37.</ls> {#SuSrUzeyam#}
+<ls n="R. GORR.">3,15,35.</ls> {#SuSrUzet#}
+<ls n="R. GORR.">2,16,32.</ls> {#SuSrUzantI#}
+<ls>MBH. 4,374.</ls> <ls n="MBH.">15,456.</ls>
+<ls>R. GORR. 2,18,25.</ls>
 [Page7-0379]
-{#tava pAdayoH#} 
-<ls>BHĀG. P. 7, 2, 34.</ls> {#SuSrUzizyanti#} 
-<ls>HARIV. 7614.</ls> pass.: {#yEH karmamiH pracaritEH SuSrUzyante dvijAtayaH#} 
-<ls>M. 10, 100.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 58, 23.</ls> {#SuSrUzitastena#} 
-<ls>MBH. 12, 4588. 15, 117.</ls> 
-<ls>BHĀG. P. 6, 18, 30.</ls> 
-<ls>PAÑCAT. 118, 24.</ls> 
+{#tava pAdayoH#}
+<ls>BHĀG. P. 7,2,34.</ls> {#SuSrUzizyanti#}
+<ls>HARIV. 7614.</ls> pass.: {#yEH karmamiH pracaritEH SuSrUzyante dvijAtayaH#}
+<ls>M. 10,100.</ls>
+<ls>R. GORR. 2,58,23.</ls> {#SuSrUzitastena#}
+<ls>MBH. 12,4588.</ls> <ls n="MBH.">15,117.</ls>
+<ls>BHĀG. P. 6,18,30.</ls>
+<ls>PAÑCAT. 118,24.</ls>
 <div n="v">— Vgl. {#SuSrUzaka#} fgg.
-
-<div n="p">— desid. vom. caus. {#SiSrAvayizati#} und {#SuSrAvayizati#} 
-<ls>P. 7, 4, 81.</ls> 
-<ls>VOP. 19, 15.</ls>
-
-<div n="p">— caus. vom desid. = desid. {%zu Jmdes Dienst sein%}: {#garuM SuSrUzayet#} 
-<ls>KULL.</ls> zu <ls>M. 2, 243.</ls> vielleicht nur fehlerhaft für {#SuSrUzeta#} .
-
-<div n="p">— {#anu#} 
-<div n="1"> 1) {%hören%} 
-<ls>ṚV. 2, 24, 13.</ls> {#nAnu^ SuSrAva\ kaSca\na#} {%das hat Niemand gehört%} so v. a. {%das ist unerhört%} 
-<ls>AV. 11, 4, 25.</ls> 
-<ls>ŚAT. BR. 1, 6, 1, 3.</ls> {#ityanuSuSruma#} 
-<ls>BHAG. 1, 44.</ls> 
-<ls>MBH. 1, 7460.</ls> ({#°SuSrumaH#} fälschlich ed. Calc.). 
-<ls>13,3815. 5702. 14,2760.</ls> <ls>HARIV. 47.</ls> <ls>Verz. d. Oxf. H. 63,b,10</ls> ({#°SuSrumaH#}). 
-<ls>BHĀG. P. 3, 14, 2.</ls> {#fzIRAmanuSfRvatAm#} 
-<ls>1, 9, 25. 10, 84, 8.</ls> {#nAnuSuSruma jAtvetat#} 
-<ls>M. 9, 100.</ls> 
-<ls>MBH. 1, 2166.</ls> 
-<ls>BHĀG. P. 3, 33, 37. 5, 6, 17. 8, 12, 46. 10, 33, 40. 85, 59.</ls> {#putrAMScAsyAnuSuSruma#} (so ed. Bomb. st. {#°SuSrumaH#} der ed. Calc.) 
-<ls>MBH. 1, 3740.</ls> {#tftIyamanyaM lokezu vfzaM nEvAnuSuSruma#} 
-<ls>8, 241.</ls> {#nEtatsamastamuBayaM kasmiMScidanuSuSruma#} (so ed. Bomb.) 
-<ls>4, 1591.</ls> {#tamaH sattvaM rajaScEva pfTaktve nAnuSuSruma#} 
-<ls>14, 1069.</ls> pass.: {#tadyaTAnuSrUyate#} 
-<ls>PAÑCAT. 3, 9. 6, 3. 234, 5.</ls> {#tadvA fzIRAmanuSrutamAsa#} 
-<ls>ŚAT. BR. 1, 6, 2, 1. 9, 1, 25. 3, 1, 4, 4.</ls> 
-<ls>BHĀG. P. 5, 25, 8.</ls> 
-<div n="1">— 2) {%von Neuem —, wieder hören%}: {#SrutaM SrutamevArTamanuSfRoti#} 
-<ls>PRAŚNOP. 4, 5.</ls> {#SrotraM SfRvatsarve prARA anuSfRvanti#} 
-<ls>KAUṢ. UP. 3, 2.</ls> — Vergl. {#anuSrava#} und {#°SrAva#} . — desid. {%gehorchen%}: {#kOsalyAto 'tiriktaM ca so 'nuSuSrUzate hi mAm (mama SuSrUzate bahu#} ed. Bomb.) 
-<ls>R. 2, 8, 18.</ls> Vgl. {#anuSuSrUzA#} .
-
-<div n="p">— {#aBi#} 
-<div n="1"> 1) {%hören, vernehmen%}: {#KagAnAM ca vikUjitam . aBIkzRamaBiSfRvatI#} 
-<ls>HARIV. 4583.</ls> {#jagato 'BiSfRvataH#} 
-<ls>BHĀG. P. 4, 4, 10.</ls> {#tamAgatamaBiSrutya#} 
-<ls>MBH. 1, 4427.</ls> 
-<div n="1">— 2) partic. {#°Sruta#} {%bekannt%} 
-<ls>AV. 6, 138, 1.</ls> 
+<div n="p">— desid. vom. caus. {#SiSrAvayizati#} und {#SuSrAvayizati#}
+<ls>P. 7,4,81.</ls>
+<ls>VOP. 19,15.</ls>
+<div n="p">— caus. vom desid. = desid. {%zu Jmdes Dienst sein%}: {#garuM SuSrUzayet#}
+<ls>KULL.</ls> zu <ls>M. 2,243.</ls> vielleicht nur fehlerhaft für {#SuSrUzeta#} .
+<div n="p">— {#anu#}
+<div n="1"> 1) {%hören%}
+<ls>ṚV. 2,24,13.</ls> {#nAnu^ SuSrAva\ kaSca\na#} {%das hat Niemand gehört%} so v. a. {%das ist unerhört%}
+<ls>AV. 11,4,25.</ls>
+<ls>ŚAT. BR. 1,6,1,3.</ls> {#ityanuSuSruma#}
+<ls>BHAG. 1,44.</ls>
+<ls>MBH. 1,7460.</ls> ({#°SuSrumaH#} fälschlich <ls>ed. Calc.</ls>).
+<ls n="MBH.">13,3815.</ls> <ls n="MBH. 13,">5702.</ls> <ls n="MBH.">14,2760.</ls> <ls>HARIV. 47.</ls> <ls>Verz. d. Oxf. H. 63,b,10</ls> ({#°SuSrumaH#}).
+<ls>BHĀG. P. 3,14,2.</ls> {#fzIRAmanuSfRvatAm#}
+<ls n="BHĀG. P.">1,9,25.</ls> <ls n="BHĀG. P.">10,84,8.</ls> {#nAnuSuSruma jAtvetat#}
+<ls>M. 9,100.</ls>
+<ls>MBH. 1,2166.</ls>
+<ls>BHĀG. P. 3,33,37.</ls> <ls n="BHĀG. P.">5,6,17.</ls> <ls n="BHĀG. P.">8,12,46.</ls> <ls n="BHĀG. P.">10,33,40.</ls> <ls n="BHĀG. P. 10,">85,59.</ls> {#putrAMScAsyAnuSuSruma#} (so <ls>ed. Bomb.</ls> st. {#°SuSrumaH#} der <ls>ed. Calc.</ls>)
+<ls>MBH. 1,3740.</ls> {#tftIyamanyaM lokezu vfzaM nEvAnuSuSruma#}
+<ls n="MBH.">8,241.</ls> {#nEtatsamastamuBayaM kasmiMScidanuSuSruma#} (so <ls>ed. Bomb.</ls>)
+<ls n="MBH.">4,1591.</ls> {#tamaH sattvaM rajaScEva pfTaktve nAnuSuSruma#}
+<ls n="MBH.">14,1069.</ls> pass.: {#tadyaTAnuSrUyate#}
+<ls>PAÑCAT. 3,9.</ls> <ls n="PAÑCAT.">6,3.</ls> <ls n="PAÑCAT.">234,5.</ls> {#tadvA fzIRAmanuSrutamAsa#}
+<ls>ŚAT. BR. 1,6,2,1. 9,1,25. 3,1,4,4.</ls>
+<ls>BHĀG. P. 5,25,8.</ls>
+<div n="1">— 2) {%von Neuem —, wieder hören%}: {#SrutaM SrutamevArTamanuSfRoti#}
+<ls>PRAŚNOP. 4,5.</ls> {#SrotraM SfRvatsarve prARA anuSfRvanti#}
+<ls>KAUṢ. UP. 3,2.</ls> — Vergl. {#anuSrava#} und {#°SrAva#} . — desid. {%gehorchen%}: {#kOsalyAto 'tiriktaM ca so 'nuSuSrUzate hi mAm (mama SuSrUzate bahu#} <ls>ed. Bomb.</ls>)
+<ls>R. 2,8,18.</ls> Vgl. {#anuSuSrUzA#} .
+<div n="p">— {#aBi#}
+<div n="1"> 1) {%hören, vernehmen%}: {#KagAnAM ca vikUjitam . aBIkzRamaBiSfRvatI#}
+<ls>HARIV. 4583.</ls> {#jagato 'BiSfRvataH#}
+<ls>BHĀG. P. 4,4,10.</ls> {#tamAgatamaBiSrutya#}
+<ls>MBH. 1,4427.</ls>
+<div n="1">— 2) partic. {#°Sruta#} {%bekannt%}
+<ls>AV. 6,138,1.</ls>
 <div n="v">— Vgl. {#aBiSrAva#} .
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {%hinhören, horchen, lauschen auf%} (acc., bei Personen gen. oder dat.) 
-<ls>ṚV. 1, 139, 7.</ls> {#nava^mAnasya#} 
-<ls n="ṚV. 1,">190, 1.</ls> <ls n="ṚV.">4, 3, 3.</ls> <ls n="ṚV.">5, 45, 10.</ls> <ls n="ṚV. 5,">46, 8.</ls> {#hava^m#} 
-<ls n="ṚV.">7, 67, 10.</ls> {#kA\rave^#} 
-<ls n="ṚV.">3, 33, 9.</ls> <ls n="ṚV. 3, 33,">10.</ls> <ls n="ṚV.">10, 95, 11.</ls> <ls>AV. 5, 13, 5. 20, 5. 6, 142, 2.</ls> <ls>ŚAT. BR. 1, 5, 2, 6.</ls> {#Gozam#} 
-<ls>9, 5, 1, 2. 8.</ls> <ls>PAÑCAV. BR. 21, 3, 5.</ls> <ls>BHĀG. P. 3, 4, 10.</ls> 
-<div n="1">— 2) {%hören, vernehmen%}: {#ASrutya vacaH#} 
-<ls>BHĀG. P. 1, 19, 22. 3, 19, 33. 5, 10, 16. 7, 2, 36. 8, 24, 16. 10, 21, 3. 60, 22.</ls> {#A/Sruta#} {%hörbar%} {#ASru^tatara\M vada^ti#} 
-<ls>TS. 2, 5, 11, 1.</ls> 
-<div n="1">— 3) {%zusagen, versprechen%}; mit acc. der Sache und dat. der Person 
-<ls>P. 1, 4, 40.</ls> 
-<ls>VOP. 5, 15.</ls> 
-<ls>R. ed. Bomb. 2, 58, 27.</ls> {#ASruta#} {%zugesagt, versprochen%} 
-<ls>AK. 3, 2, 58.</ls> 
-<ls>H. 1489.</ls> {#kuryAdyaTASrutam#} 
-<ls>YĀJÑ. 2, 196.</ls> 
-<div n="1">— 4) {#ASruta = ASrAvita#} {%der rituelle Zuruf%} 
-<ls>KĀTY. ŚR. 3, 2, 6. 5, 4, 33. 9, 11.</ls> 
-<ls>TS. 7, 3, 11, 2.</ls> 
-<div n="v">— Vgl. 1. {#ASrava, ASrut, ASruti#} . — caus. 
-<div n="1"> 1) {%verkünden, bekannt machen%}: {#A no\ jane^ Sravayatam#} 
-<ls>ṚV. 7, 62, 5.</ls> {#A\SrA\vaya^nta iva\ Sloka^mA\yava^H#} 
-<ls n="ṚV.">1, 139, 3.</ls> {#yajYaM devezvASrAvaya#} 
-<ls>ĀŚV. ŚR. 1, 3, 23.</ls> {#ASrAvayacca tatkarma#} 
-<ls>MBH. 3, 15260.</ls> 
-<ls>BHĀG. P. 5, 6, 17. 10, 70, 40</ls> <ls>?(med.). 73, 34.</ls> 
-<div n="1">— 2) {%anreden, anrufen%}: {#yo jA\tAnyA^SrA\vaya^ti\ Sloke^na#} 
-<ls>ṚV. 5, 82, 9.</ls> {#A dyAM rave^Ra pfTi\vIma^SuSruvuH#} 
-<ls n="ṚV.">10, 94, 12.</ls> mit dopp. acc. {%Jmd Etwas sagen%}: {#ASrAvya rAmaM durvAcyam#} 
-<ls>BHĀG. P. 10, 68, 29.</ls> 
-<div n="1">— 3) speciell vom rituellen {%Zurufen%}, namentlich {%des%} <is>Adhvaryu</is> {%an den%} <is>Agnīdh</is> {%zum Aussprechen der%} {#SrOzaw#}-{%Formel%} 
-<ls>AV. 9, 6, 49.</ls> 
-<ls>VS. 19, 24.</ls> {#A sva\DetyASrA^vayati#} 
-<ls>TBR. 1, 6, 9, 5.</ls> {#ASrA^va\yetI\daM de^vAH SfRu\teti^#} 
-<ls>TS. 2, 5, 11, 8. 3, 1, 2, 3.</ls> 
-<ls>ŚAT. BR. 1, 5, 1, 1. fgg. 2, 7. 3, 7. 2, 5, 2, 34.</ls> 
-<ls>ĀŚV. ŚR. 1, 3, 23. 4, 12. 4, 15, 11. 9, 7, 9.</ls> {#omityASrAvayati#} 
-<ls>CHĀND. UP. 1, 1, 9.</ls> {#oSrAvayetyASrAvayanti#} 
-<ls>TAITT. UP. 1, 1, 8</ls>; vgl.
+<div n="p">— {#A#}
+<div n="1"> 1) {%hinhören, horchen, lauschen auf%} (acc., bei Personen gen. oder dat.)
+<ls>ṚV. 1,139,7.</ls> {#nava^mAnasya#}
+<ls n="ṚV. 1,">190,1.</ls> <ls n="ṚV.">4,3,3.</ls> <ls n="ṚV.">5,45,10.</ls> <ls n="ṚV. 5,">46,8.</ls> {#hava^m#}
+<ls n="ṚV.">7,67,10.</ls> {#kA\rave^#}
+<ls n="ṚV.">3,33,9.</ls> <ls n="ṚV. 3,33,">10.</ls> <ls n="ṚV.">10,95,11.</ls> <ls>AV. 5,13,5.</ls> <ls n="AV. 5,">20,5.</ls> <ls n="AV.">6,142,2.</ls> <ls>ŚAT. BR. 1,5,2,6.</ls> {#Gozam#}
+<ls n="ŚAT. BR.">9,5,1,2. 8.</ls> <ls>PAÑCAV. BR. 21,3,5.</ls> <ls>BHĀG. P. 3,4,10.</ls>
+<div n="1">— 2) {%hören, vernehmen%}: {#ASrutya vacaH#}
+<ls>BHĀG. P. 1,19,22.</ls> <ls n="BHĀG. P.">3,19,33.</ls> <ls n="BHĀG. P.">5,10,16.</ls> <ls n="BHĀG. P.">7,2,36.</ls> <ls n="BHĀG. P.">8,24,16.</ls> <ls n="BHĀG. P.">10,21,3.</ls> <ls n="BHĀG. P. 10,">60,22.</ls> {#A/Sruta#} {%hörbar%} {#ASru^tatara\M vada^ti#}
+<ls>TS. 2,5,11,1.</ls>
+<div n="1">— 3) {%zusagen, versprechen%}; mit acc. der Sache und dat. der Person
+<ls>P. 1,4,40.</ls>
+<ls>VOP. 5,15.</ls>
+<ls>R. ed. Bomb. 2,58,27.</ls> {#ASruta#} {%zugesagt, versprochen%}
+<ls>AK. 3,2,58.</ls>
+<ls>H. 1489.</ls> {#kuryAdyaTASrutam#}
+<ls>YĀJÑ. 2,196.</ls>
+<div n="1">— 4) {#ASruta = ASrAvita#} {%der rituelle Zuruf%}
+<ls>KĀTY. ŚR. 3,2,6. 5,4,33. 9,11.</ls>
+<ls>TS. 7,3,11,2.</ls>
+<div n="v">— Vgl. 1. {#ASrava, ASrut, ASruti#} . — caus.
+<div n="1"> 1) {%verkünden, bekannt machen%}: {#A no\ jane^ Sravayatam#}
+<ls>ṚV. 7,62,5.</ls> {#A\SrA\vaya^nta iva\ Sloka^mA\yava^H#}
+<ls n="ṚV.">1,139,3.</ls> {#yajYaM devezvASrAvaya#}
+<ls>ĀŚV. ŚR. 1,3,23.</ls> {#ASrAvayacca tatkarma#}
+<ls>MBH. 3,15260.</ls>
+<ls>BHĀG. P. 5,6,17.</ls> <ls n="BHĀG. P.">10,70,40</ls> (med.). <ls n="BHĀG. P. 10,">73,34.</ls>
+<div n="1">— 2) {%anreden, anrufen%}: {#yo jA\tAnyA^SrA\vaya^ti\ Sloke^na#}
+<ls>ṚV. 5,82,9.</ls> {#A dyAM rave^Ra pfTi\vIma^SuSruvuH#}
+<ls n="ṚV.">10,94,12.</ls> mit dopp. acc. {%Jmd Etwas sagen%}: {#ASrAvya rAmaM durvAcyam#}
+<ls>BHĀG. P. 10,68,29.</ls>
+<div n="1">— 3) speciell vom rituellen {%Zurufen%}, namentlich {%des%} <is>Adhvaryu</is> {%an den%} <is>Agnīdh</is> {%zum Aussprechen der%} {#SrOzaw#}-{%Formel%}
+<ls>AV. 9,6,49.</ls>
+<ls>VS. 19,24.</ls> {#A sva\DetyASrA^vayati#}
+<ls>TBR. 1,6,9,5.</ls> {#ASrA^va\yetI\daM de^vAH SfRu\teti^#}
+<ls>TS. 2,5,11,8.</ls> <ls n="TS.">3,1,2,3.</ls>
+<ls>ŚAT. BR. 1,5,1,1. fgg. 2,7. 3,7. 2,5,2,34.</ls>
+<ls>ĀŚV. ŚR. 1,3,23. 4,12. 4,15,11. 9,7,9.</ls> {#omityASrAvayati#}
+<ls>CHĀND. UP. 1,1,9.</ls> {#oSrAvayetyASrAvayanti#}
+<ls>TAITT. UP. 1,1,8</ls>; vgl.
 [Page7-0380]
-
-<ls>P. 8, 2, 92, <is>Vārtt</is>.</ls> {#ASrAvita#} <lex>n.</lex> {%der rituelle Zuruf%}: {#a\gni\ho\trasyASrA^vitam#} 
-<ls>TBR. 2, 1, 5, 9.</ls> 
-<ls>ŚAT. BR. 11, 4, 2, 5.</ls> 
-<ls>KĀTY. ŚR. 3, 3, 14.</ls> 
-<div n="1">— 4) {%herbeirufen, zu sich heranlocken%}: {#parasya janam#} 
-<ls>BHAṬṬ. 12, 30.</ls> 
-<div n="1">— 5) {%besprechen%}: {#ASrAvita (mantra)#} 
-<ls>R. 5, 82, 10.</ls> 
-<div n="v">— Vgl. {#ASrAvaRa#} . — desid. {#ASuSrUzati#} (nicht {#°te#}) 
-<ls>P. 1, 3, 59.</ls> 
-<ls>VOP. 23, 57.</ls>
-
-<div n="p">— {#pratyA#}, partic. {#°Sruta#} <lex>n.</lex> = {#pratyA/SrAvita#} 
-<ls>TS. 7, 3, 11, 2.</ls> 
-<ls>KĀTY. ŚR. 3, 2, 6. 5, 4, 33.</ls> <ls>Z. d. d. m. G. 9, LXII.</ls> Vgl. {#pratyASrAva#} . — caus. {%den rituellen Zuruf beantworten%} (mit Worten wie {#astu svaDA, astu SrOzaw#} 
-u.s.w.) <ls>TBR. 1, 6, 9, 5.</ls> <ls>ŚAT. BR. 1, 5, 2, 7. 2, 6, 1, 25.</ls> <ls>ĀŚV. ŚR. 9, 7, 10. 1, 4, 13.</ls> partic. {#pratyA/SrAvita#} <lex>n.</lex> {%die Erwiederung auf den rituellen Zuruf%} 
-<ls>TBR. 2, 1, 5, 9.</ls> 
-<ls>ŚAT. BR. 14, 9, 3, 9.</ls> Vgl. {#pratyASrAvaRa#} .
-
-<div n="p">— {#samA#} caus. mit dopp. acc. {%Jmd Etwas mittheilen%}: {#kfzRarAmO#} (acc.) {#samASrAvya putrAnkaMsavihiMsitAn#} 
-<ls>BHĀG. P. 10, 85, 28.</ls>
-
-<div n="p">— {#upa#} 
-<div n="1"> 1) {%anhören, hören, vernehmen%}: {#gira^H#} 
-<ls>ṚV. 1, 82, 1.</ls> {#brahmA^Ri#} 
-<ls n="ṚV.">6, 40, 4.</ls> <ls n="ṚV. 6,">45, 23.</ls> <ls n="ṚV. 6,">52, 9.</ls> <ls n="ṚV.">7, 32, 1.</ls> <ls n="ṚV.">4, 41, 2.</ls> {#yASce\damu^paSf\Rvanti\ yASca^ dU\raM parA^gatAH#} 
-<ls n="ṚV.">10, 97, 21.</ls> <ls>ŚAT. BR. 4, 6, 9, 17. 8, 1, 4, 9. 11, 8, 3, 8.</ls> {#Aziti kzuvata upASfRot#} 
-<ls>PAÑCAV. BR. 8, 2, 2. 12, 5, 11.</ls> 
-<ls>AV. 12, 4, 27. 20, 127, 1.</ls> 
-<ls>TBR. 3, 1, 2, 5.</ls> 
-<ls>CHĀND. UP. 3, 13, 8. 4, 1, 5.</ls> {#upaSfRvantu me sarve sAkzIBUtA vanecarAH#} 
-<ls>R. 3, 51, 34.</ls> {#tasyopavizwasya sato viSrAntasyopaSfRvataH . punareva kaTAM cakruH#} 
-<ls>MBH. 5, 6039. 12, 2043.</ls> 
-<ls>R. 2, 3, 3 (2, 3 GORR.). 20, 33. 3, 75, 36. 5, 70, 15. 6, 107, 2.</ls> {#tAvupaSrutya gAyanO#} 
-<ls>R. 1, 3, 65 (4, 25</ls> <ls>SCHL.</ls><ls>).</ls> {#upASfRoddvirgaditaM vacaH#} 
-<ls>BHĀG. P.2,9,6.4,20,26.</ls> <ls>Verz. d. Oxf. H. 255,a,19.</ls> {#upaSrutya vacaH#} 
-<ls>MBH. 2, 1244. 13, 282. 4033. 14, 2063.</ls> 
-<ls>HARIV. 91.</ls> 
-<ls>R. 3, 26, 5. 6, 98, 14. 7, 81, 1.</ls> 
-<ls>ŚĀK. 15, 11, v. l.</ls> 
-<ls>UTTARAR. 30, 12 (40, 3).</ls> <ls>BHĀG. P. 1, 11, 3. 15, 33. 2, 9, 21. 3, 19, 34. 4, 3, 5. 9, 16, 14. 10, 28, 3.</ls> <ls>PAÑCAT. ed. orn. 59, 15.</ls> {#yamupaSrutya senAgre janaH sarvo vidIryate#} 
-<ls>MBH. 7, 329.</ls> 
-<ls>BHĀG. P. 1, 12, 27.</ls> {#tamupaSrutya saMrudDam#} 
-<ls>HARIV. 6774.</ls> 
-<ls>BHĀG. P. 6, 5, 34.</ls> {#tava prajYAmupaSrutya nAradAt#} 
-<ls>MBH. 15,462.</ls> <ls>Verz. d. Oxf. H. 47,b,27.</ls> {#SizyAdupaSrutya prAptaM rAmam#} 
-<ls>R. 3, 18, 12.</ls> 
-<ls>VIKR. 11, 15.</ls> {#BavAnIpatermuKakamalAt#} 
-<ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 24.</ls> {#upaSfRvAna#} 
-<ls>MBH. 4, 1494.</ls> 
-<ls>BHĀG. P. 1, 16, 14.</ls> partic. {#upaSruta#} {%gehört, vernommen%} 
-<ls>HARIV. 5305.</ls> 
-<ls>BHĀG. P. 4, 15, 23.</ls> {#pulastyasya sakASAt#} 
-<ls>MBH. 3, 4032.</ls> 
-<div n="1">— 2) {#upaSruta#} {%zugesagt, versprochen%} 
-<ls>AK. 3, 2, 58.</ls> 
-<div n="v">— Vgl. {#upaSruti#} fg. — desid. med. {%zuhören, aufmerken%} 
-<ls>AIT. BR. 3, 2.</ls>
-
-<div n="p">— {#samupa#} {%anhören, hören, vernehmen%}: {#BartfBagavatkaTAM samupaSfRoti#} 
-<ls>BHĀG. P. 5, 19, 2.</ls> {#tezAM tu samupaSrutya sUtamAgaDabandinAm . sarvA bubuDire#} 
-<ls>R. GORR. 2, 67, 4.</ls> {#brAhmaRAtsamupaSrutya#} 
-<ls>MBH. 1, 384.</ls>
-
-<div n="p">— {#pari#} {%hören, vernehmen%}: {#patiM hi pariSfRvantI rAmam#} {%hörend von, Etwas erfahrend über%} 
-<ls>R. 5, 29, 35.</ls> {#tAmAgatAM pariSrutya#} 
-<ls>6, 99, 19.</ls> — partic. {#°Sruta#} 
-<div n="1"> 1) {%gehört, vernommen%}: {#kaTA#} 
-<ls>MBH. 1, 4685.</ls> {#na ca nastAdfSaM dfzwaM nEva cApi pariSrutam#} 
-<ls>9, 1194. 10, 200. 13, 5804.</ls> {#sarvaloka°#} 
-<ls>14, 834.</ls> {#yatra GoratamaM vfttamfzIRAM me pariSrutam#} 
-<ls>12, 6156.</ls> <ls>R. GORR. 2, 18, 34.</ls> {#udArAScApi vaMSe 'sminrAjAno me pariSrutAH#} 
-<ls>MBH. 1, 3754.</ls> {#pariSruto mayA pUrvaM rAmeREza sahAyavAn#} 
-<ls>R. 4, 14, 15.</ls> {#iti pariSrutam#} impers. 
-<ls>HARIV. 2010.</ls> 
-<div n="1">— 2) {%bekannt als, geltend für, gekannt als, genannt%}: {#aSvameDaH kratuSrezWaH kzatriyARAM pariSrutaH#} 
-<ls>HARIV. 11110.</ls> {#mahAvfndasahasrARAM SataM padmaM pariSrutam#} 
-<ls>R. 6, 4, 58.</ls> {#SrIrnAmnAhaM pariSrutA#} 
-<ls>MBH. 13, 3856.</ls> {#pUtaneti pariSrutA#} 
-<ls>HARIV. 3423.</ls> 
-<ls>R. 7, 35, 20.</ls> {%bekannt%} so v. a. {%berühmt%} 
-<ls>MBH. 12, 1799</ls> (nach der Lesart der ed. Bomb.). 
-<ls>3127.</ls> <ls>BHĀG. P. 4, 9, 5.</ls> 
+<ls>P. 8,2,92</ls>, <is>Vārtt</is>. {#ASrAvita#} <lex>n.</lex> {%der rituelle Zuruf%}: {#a\gni\ho\trasyASrA^vitam#}
+<ls>TBR. 2,1,5,9.</ls>
+<ls>ŚAT. BR. 11,4,2,5.</ls>
+<ls>KĀTY. ŚR. 3,3,14.</ls>
+<div n="1">— 4) {%herbeirufen, zu sich heranlocken%}: {#parasya janam#}
+<ls>BHAṬṬ. 12,30.</ls>
+<div n="1">— 5) {%besprechen%}: {#ASrAvita (mantra)#}
+<ls>R. 5,82,10.</ls>
+<div n="v">— Vgl. {#ASrAvaRa#} . — desid. {#ASuSrUzati#} (nicht {#°te#})
+<ls>P. 1,3,59.</ls>
+<ls>VOP. 23,57.</ls>
+<div n="p">— {#pratyA#}, partic. {#°Sruta#} <lex>n.</lex> = {#pratyA/SrAvita#}
+<ls>TS. 7,3,11,2.</ls>
+<ls>KĀTY. ŚR. 3,2,6.</ls> <ls n="KĀTY. ŚR.">5,4,33.</ls> <ls>Z. d. d. m. G. 9, LXII.</ls> Vgl. {#pratyASrAva#} . — caus. {%den rituellen Zuruf beantworten%} (mit Worten wie {#astu svaDA, astu SrOzaw#}
+u.s.w.) <ls>TBR. 1,6,9,5.</ls> <ls>ŚAT. BR. 1,5,2,7.</ls> <ls n="ŚAT. BR.">2,6,1,25.</ls> <ls>ĀŚV. ŚR. 9,7,10. 1,4,13.</ls> partic. {#pratyA/SrAvita#} <lex>n.</lex> {%die Erwiederung auf den rituellen Zuruf%}
+<ls>TBR. 2,1,5,9.</ls>
+<ls>ŚAT. BR. 14,9,3,9.</ls> Vgl. {#pratyASrAvaRa#} .
+<div n="p">— {#samA#} caus. mit dopp. acc. {%Jmd Etwas mittheilen%}: {#kfzRarAmO#} (acc.) {#samASrAvya putrAnkaMsavihiMsitAn#}
+<ls>BHĀG. P. 10,85,28.</ls>
+<div n="p">— {#upa#}
+<div n="1"> 1) {%anhören, hören, vernehmen%}: {#gira^H#}
+<ls>ṚV. 1,82,1.</ls> {#brahmA^Ri#}
+<ls n="ṚV.">6,40,4.</ls> <ls n="ṚV. 6,">45,23.</ls> <ls n="ṚV. 6,">52,9.</ls> <ls n="ṚV.">7,32,1.</ls> <ls n="ṚV.">4,41,2.</ls> {#yASce\damu^paSf\Rvanti\ yASca^ dU\raM parA^gatAH#}
+<ls n="ṚV.">10,97,21.</ls> <ls>ŚAT. BR. 4,6,9,17.</ls> <ls n="ŚAT. BR.">8,1,4,9.</ls> <ls n="ŚAT. BR.">11,8,3,8.</ls> {#Aziti kzuvata upASfRot#}
+<ls>PAÑCAV. BR. 8,2,2. 12,5,11.</ls>
+<ls>AV. 12,4,27.</ls> <ls n="AV.">20,127,1.</ls>
+<ls>TBR. 3,1,2,5.</ls>
+<ls>CHĀND. UP. 3,13,8.</ls> <ls n="CHĀND. UP.">4,1,5.</ls> {#upaSfRvantu me sarve sAkzIBUtA vanecarAH#}
+<ls>R. 3,51,34.</ls> {#tasyopavizwasya sato viSrAntasyopaSfRvataH . punareva kaTAM cakruH#}
+<ls>MBH. 5,6039.</ls> <ls n="MBH.">12,2043.</ls>
+<ls>R. 2,3,3</ls> (<ls n="GORR. 2,">2,3</ls> <ls>GORR.</ls>). <ls n="R. 2,">20,33.</ls> <ls n="R.">3,75,36.</ls> <ls n="R.">5,70,15.</ls> <ls n="R.">6,107,2.</ls> {#tAvupaSrutya gAyanO#}
+<ls>R. 1,3,65</ls> (<ls n="SCHL. 1,">4,25</ls> <ls>SCHL.</ls>). {#upASfRoddvirgaditaM vacaH#}
+<ls>BHĀG. P. 2,9,6.</ls> <ls n="BHĀG. P.">4,20,26.</ls> <ls>Verz. d. Oxf. H. 255,a,19.</ls> {#upaSrutya vacaH#}
+<ls>MBH. 2,1244.</ls> <ls n="MBH.">13,282.</ls> <ls n="MBH. 13,">4033.</ls> <ls n="MBH.">14,2063.</ls>
+<ls>HARIV. 91.</ls>
+<ls>R. 3,26,5.</ls> <ls n="R.">6,98,14</ls> <ls n="R.">7,81,1.</ls>
+<ls>ŚĀK. 15,11, v. l.</ls>
+<ls>UTTARAR. 30,12 (40,3).</ls> <ls>BHĀG. P. 1,11,3.</ls> <ls n="BHĀG. P. 1,">15,33.</ls> <ls n="BHĀG. P.">2,9,21.</ls> <ls n="BHĀG. P.">3,19,34.</ls> <ls n="BHĀG. P.">4,3,5.</ls> <ls n="BHĀG. P.">9,16,14.</ls> <ls n="BHĀG. P.">10,28,3.</ls> <ls>PAÑCAT. ed. orn. 59,15.</ls> {#yamupaSrutya senAgre janaH sarvo vidIryate#}
+<ls>MBH. 7,329.</ls>
+<ls>BHĀG. P. 1,12,27.</ls> {#tamupaSrutya saMrudDam#}
+<ls>HARIV. 6774.</ls>
+<ls>BHĀG. P. 6,5,34.</ls> {#tava prajYAmupaSrutya nAradAt#}
+<ls>MBH. 15,462.</ls> <ls>Verz. d. Oxf. H. 47,b,27.</ls> {#SizyAdupaSrutya prAptaM rAmam#}
+<ls>R. 3,18,12.</ls>
+<ls>VIKR. 11,15.</ls> {#BavAnIpatermuKakamalAt#}
+<ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 24.</ls> {#upaSfRvAna#}
+<ls>MBH. 4,1494.</ls>
+<ls>BHĀG. P. 1,16,14.</ls> partic. {#upaSruta#} {%gehört, vernommen%}
+<ls>HARIV. 5305.</ls>
+<ls>BHĀG. P. 4,15,23.</ls> {#pulastyasya sakASAt#}
+<ls>MBH. 3,4032.</ls>
+<div n="1">— 2) {#upaSruta#} {%zugesagt, versprochen%}
+<ls>AK. 3,2,58.</ls>
+<div n="v">— Vgl. {#upaSruti#} fg. — desid. med. {%zuhören, aufmerken%}
+<ls>AIT. BR. 3,2.</ls>
+<div n="p">— {#samupa#} {%anhören, hören, vernehmen%}: {#BartfBagavatkaTAM samupaSfRoti#}
+<ls>BHĀG. P. 5,19,2.</ls> {#tezAM tu samupaSrutya sUtamAgaDabandinAm . sarvA bubuDire#}
+<ls>R. GORR. 2,67,4.</ls> {#brAhmaRAtsamupaSrutya#}
+<ls>MBH. 1,384.</ls>
+<div n="p">— {#pari#} {%hören, vernehmen%}: {#patiM hi pariSfRvantI rAmam#} {%hörend von, Etwas erfahrend über%}
+<ls>R. 5,29,35.</ls> {#tAmAgatAM pariSrutya#}
+<ls n="R.">6,99,19.</ls> — partic. {#°Sruta#}
+<div n="1"> 1) {%gehört, vernommen%}: {#kaTA#}
+<ls>MBH. 1,4685.</ls> {#na ca nastAdfSaM dfzwaM nEva cApi pariSrutam#}
+<ls n="MBH.">9,1194.</ls> <ls n="MBH.">10,200.</ls> <ls n="MBH.">13,5804.</ls> {#sarvaloka°#}
+<ls n="MBH.">14,834.</ls> {#yatra GoratamaM vfttamfzIRAM me pariSrutam#}
+<ls n="MBH.">12,6156.</ls> <ls>R. GORR. 2,18,34.</ls> {#udArAScApi vaMSe 'sminrAjAno me pariSrutAH#}
+<ls>MBH. 1,3754.</ls> {#pariSruto mayA pUrvaM rAmeREza sahAyavAn#}
+<ls>R. 4,14,15.</ls> {#iti pariSrutam#} impers.
+<ls>HARIV. 2010.</ls>
+<div n="1">— 2) {%bekannt als, geltend für, gekannt als, genannt%}: {#aSvameDaH kratuSrezWaH kzatriyARAM pariSrutaH#}
+<ls>HARIV. 11110.</ls> {#mahAvfndasahasrARAM SataM padmaM pariSrutam#}
+<ls>R. 6,4,58.</ls> {#SrIrnAmnAhaM pariSrutA#}
+<ls>MBH. 13,3856.</ls> {#pUtaneti pariSrutA#}
+<ls>HARIV. 3423.</ls>
+<ls>R. 7,35,20.</ls> {%bekannt%} so v. a. {%berühmt%}
+<ls>MBH. 12,1799</ls> (nach der Lesart der <ls>ed. Bomb.</ls>).
+<ls n="MBH. 12,">3127.</ls> <ls>BHĀG. P. 4,9,5.</ls>
 <div n="1">— 3) fehlerhaft für {#pratiSruta#}
 [Page7-0381]
-(so ed. Bomb.) 
-<ls>MBH. 4, 1610.</ls> 
+(so <ls>ed. Bomb.</ls>)
+<ls>MBH. 4,1610.</ls>
 <div n="v">— Vgl. {#pariSruta#} .
-
-<div n="p">— {#pra#} med. 
-<div n="1"> 1) {%gehört werden, sich hören lassen%}: {#pra ye di\vo bf^ha\taH Sf^Rvi\re#} 
-<ls>ṚV. 5, 87, 3.</ls> 
-<div n="1">— 2) {%bekannt werden%}: {#avo^Bi\H sa pra Sf^Rve#} 
-<ls>ṚV. 4, 41, 2.</ls> {#prAhaM ma\he vf^tra\hatye\ aSu^Sravi#} 
-<ls n="ṚV.">10, 48, 8.</ls> <ls n="ṚV.">7, 8, 4.</ls> 
+<div n="p">— {#pra#} med.
+<div n="1"> 1) {%gehört werden, sich hören lassen%}: {#pra ye di\vo bf^ha\taH Sf^Rvi\re#}
+<ls>ṚV. 5,87,3.</ls>
+<div n="1">— 2) {%bekannt werden%}: {#avo^Bi\H sa pra Sf^Rve#}
+<ls>ṚV. 4,41,2.</ls> {#prAhaM ma\he vf^tra\hatye\ aSu^Sravi#}
+<ls n="ṚV.">10,48,8.</ls> <ls n="ṚV.">7,8,4.</ls>
 <div n="v">— Vgl. {#praSravas#} (hierher oder {#pra + Sra°#}).
-
-<div n="p">— {#atipra#} med. {%vor Andern bekannt werden%} 
-<ls>ṚV. 10, 11, 7.</ls>
-
-<div n="p">— {#prati#} 
-<div n="1"> 1) {%antworten; bejahen, zusagen, versprechen%} (mit acc. der Sache und dat. [auch gen.] der Person 
-<ls>P. 1, 4, 40.</ls> 
-<ls>VOP. 5, 15</ls>) <ls>AV. 9, 6, 50.</ls> {#sa yAma^ni\ prati^ SruDi#} 
-<ls>ṚV. 1, 15, 20.</ls> 
-<ls>ŚAT. BR. 1, 4, 1, 10. 12. 18. 11, 4, 1, 3. 14, 9, 1, 1.</ls> {#aTa hEnamfzaBo 'ByuvAda satyakAma3 iti Bagava iti ha pratiSuSrAva#} 
-<ls>CHĀND. UP. 4, 5, 1.</ls> {#iti pfzwvA pratiSfRoti pratyAcazwe vA#} 
-<ls>ŚĀṄKH. ŚR. 5, 1, 10. 10, 13, 17.</ls> 
-<ls>MBH. 1, 714. 3, 2175.</ls> {#yo na dadyAtpratiSrutya#} 
-<ls>13, 405. 415. 2763. 3177.</ls> <ls>HARIV. 15843.</ls> <ls>R. 1, 16, 8. 2, 98, 5.</ls> <ls>R. GORR. 2, 23, 21. 89, 1.</ls> <ls>RAGH. 2, 65. 3, 67</ls> ({#°SuSruvAn#}). 
-<ls>12, 69. 14, 29. 15, 4.</ls> <ls>KATHĀS. 24, 126.</ls> <ls>SADDH. P. 4, 17</ls>,a. 
-<ls>BHĀG. P. 6, 7, 38. 8, 19, 3.</ls> {#satyam#} 
-<ls>MBH. 3, 2964.</ls> 
-<ls>R. 2, 98, 3. 6, 81, 10.</ls> {#kanyakAm#} 
-<ls>KATHĀS. 14, 79.</ls> {#pratiSruta#} {%zugesagt, versprochen%} 
-<ls>H. 1489.</ls> {#pratiSrute juhoti#} {%nachdem die Zusage erfolgt ist%} 
-<ls>ŚĀṄKH. GṚHY. 1, 7. 9. 5, 10.</ls> {#yaccAnyasmE pratiSrutam#} 
-<ls>YĀJÑ. 2, 175.</ls> {#rAjaputryAH pratiSrutam#} 
-<ls>MBH. 4, 456. 1610</ls> (nach der Lesart der ed. Bomb.). {#vAcA#} 
-<ls>5, 211.</ls> <ls>R. 2, 88, 22.</ls> <ls>R. GORR. 2, 17, 19. 3, 14, 18. 5, 47, 9.</ls> <ls>KUMĀRAS. 2, 56.</ls> <ls>RAGH. 15, 74.</ls> <ls>MĀLAV. 8, 17.</ls> <ls>KATHĀS. 26, 187. 119, 4.</ls> <ls>RĀJA-TAR. 1, 242. 4, 56.</ls> <ls>BHĀG. P. 1, 7, 38. 14, 40. 2, 7, 18. 3, 23, 51. 6, 18, 42.</ls> {#kuru pratiSrutaM satyam#} 
-<ls>1, 7, 54.</ls> <ls>MBH. 5, 7032.</ls> {#AQyasya sutA nagaravAsinaH . tvatkfte yAcitAsmABiH sA ca pitrA pratiSrutA ..#} 
-<ls>KATHĀS. 61, 19.</ls> {#sA ca pitrA dAtuM pratiSrutA#} 
-<ls>123, 166.</ls> {#yaTezwamaSanaM dAtuM tato 'nena pratiSrute#} 
-<ls>RĀJA-TAR. 1, 132.</ls> n. {%Zusage, Versprechen%}: {#satya°#} <lex>adj.</lex> 
-<ls>R. 3, 41, 18.</ls> {#anistIrRa°#} <lex>adj.</lex> 
-<ls>BHĀG. P. 10, 89, 45.</ls> 
-<div n="1">— 2) {#pratiSruta#} {%wiederhallend%}: {#taTA tayorgadApoTErdiSaH sarvAH pratiSrutAH#} 
-<ls>R. 7, 32, 55.</ls> 
-<div n="1">— 3) {%hören, vernehmen%}: {#tadBIru mayA sarvaM pratiSrutam (pariSrutam?)#} 
-<ls>R. 6, 9, 6.</ls> 
-<div n="1">— 4) {#pratiSrutaM#} {%genannt%} 
-<ls>HARIV. 1937</ls> fehlerhaft für {#pariSruta#}, wie die neuere Ausgabe liest. 
-<div n="v">— Vgl. {#pratiSrava#} fgg. — desid. {#°SuSrUzati#} (nicht med.) 
-<ls>P. 1, 3, 59.</ls> 
-<ls>VOP. 23, 57.</ls>
-
-<div n="p">— {#saMprati#} {%zusagen, versprechen%}: {#yo 'smaByaM saMpratiSrutya kanyAratnaM vigarhya naH . kfzRAyAdAt#} 
-<ls>BHĀG. P. 10, 57, 4.</ls> — caus. {%Jmd veranlassen eine Zusage zu machen, Jmd ein Versprechen abnehmen%} 
-<ls>R. 2, 107, 5.</ls>
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%vernehmen, hören%}: {#karRAByAM BUri viSruvam#} 
-<ls>TAITT. UP. 1, 4, 1.</ls> {#SaNKaSabdaM viSuSruvuH#} 
-<ls>HARIV. 13577.</ls> 
-<ls>BHĀG. P. 1, 5, 26. 28.</ls> {#°Srutya#} 
-<ls>4, 8, 70.</ls> pass.: {#iti ca . vyaSrUyanta mahAGorAH SabdAstatra samantataH#} 
-<ls>MBH. 1, 1175. 4, 805.</ls> 
-<ls>HARIV. 13212.</ls> 
-<ls>R. 1, 13, 13.</ls> 
-<ls>VET.</ls> in <ls>LA. 21, 1.</ls> {#svano viSuSruve#} 
-<ls>R. 2, 103, 48.</ls> 
-<div n="1">— 2) med. (ved.) und pass. {%bekannt —, berühmt werden%} 
-<ls>ṚV. 4, 8, 6.</ls> 
-<ls>VĀLAKH. 6, 6.</ls> {#vi Sf^RuzvA\ jane^zu#} 
-<ls>TBR. 2, 4, 7, 4.</ls> {#vi\SrAvi^#} 
-<ls>ṚV. 10, 93, 14.</ls> {#viSrUyasva svakarmaRA#} 
-<ls>MBH. 5, 4506.</ls> {#vyaSrUyata nAma tridive 'pi yasya#} 
-<ls>RAGH. 18, 9.</ls> 
-<ls>Spr. (II) 1928.</ls> — partic. {#vi/Sruta#} mit {#SreRi#} u. s. w. componirt <is>gaṇa</is> {#kftAdi#} 
-zu <ls>P. 2, 1, 59.</ls> 
-<div n="1"> 1) {%vernommen, gehört%} 
-<ls>AV. 15, 2, 4.</ls> 
-<ls>Spr. (II) 1363.</ls> 
-<div n="1">— 2) {%bekannt%}, = {#jYAta#} 
-<ls>H. an. 3, 296. fg.</ls> <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> {#striyo hi capalA nityaM devAnAmapi viSrutam#} 
-<ls>Spr. 3303.</ls> {#ityeva nAma tasyATa viSrutam#} 
-<ls>MBH.1,2367.</ls> <ls>Verz. d. Oxf. H. 255,a,4.</ls> {#viSrutastrizu lokezu kroDAtmA aja ekapAt#} {%bekannt als%} 
-<ls>HARIV. 13654.</ls> 
-<ls>PRAB. 5, 9.</ls> {#°govarDanasparDI ko 'pi na viSrutaH#} 
-<ls>GĪT. 1, 4.</ls> {#marunnAmneti (°nnAmeti?) viSruto 'si#}
+<div n="p">— {#atipra#} med. {%vor Andern bekannt werden%}
+<ls>ṚV. 10,11,7.</ls>
+<div n="p">— {#prati#}
+<div n="1"> 1) {%antworten; bejahen, zusagen, versprechen%} (mit acc. der Sache und dat. [auch gen.] der Person
+<ls>P. 1,4,40.</ls>
+<ls>VOP. 5,15</ls>) <ls>AV. 9,6,50.</ls> {#sa yAma^ni\ prati^ SruDi#}
+<ls>ṚV. 1,15,20.</ls>
+<ls>ŚAT. BR. 1,4,1,10. 12. 18. 11,4,1,3. 14,9,1,1.</ls> {#aTa hEnamfzaBo 'ByuvAda satyakAma3 iti Bagava iti ha pratiSuSrAva#}
+<ls>CHĀND. UP. 4,5,1.</ls> {#iti pfzwvA pratiSfRoti pratyAcazwe vA#}
+<ls>ŚĀṄKH. ŚR. 5,1,10. 10,13,17.</ls>
+<ls>MBH. 1,714.</ls> <ls n="MBH.">3,2175.</ls> {#yo na dadyAtpratiSrutya#}
+<ls n="MBH.">13,405.</ls> <ls n="MBH. 13,">415.</ls> <ls n="MBH. 13,">2763.</ls> <ls n="MBH. 13,">3177.</ls> <ls>HARIV. 15843.</ls> <ls>R. 1,16,8.</ls> <ls n="R.">2,98,5.</ls> <ls>R. GORR. 2,23,21.</ls> <ls n="R. GORR. 2,">89,1.</ls> <ls>RAGH. 2,65.</ls> <ls n="RAGH.">3,67</ls> ({#°SuSruvAn#}).
+<ls n="RAGH.">12,69.</ls> <ls n="RAGH.">14,29.</ls> <ls n="RAGH.">15,4.</ls> <ls>KATHĀS. 24,126.</ls> <ls>SADDH. P. 4,17,a.</ls>
+<ls>BHĀG. P. 6,7,38.</ls> <ls n="BHĀG. P.">8,19,3.</ls> {#satyam#}
+<ls>MBH. 3,2964.</ls>
+<ls>R. 2,98,3.</ls> <ls n="R.">6,81,10.</ls> {#kanyakAm#}
+<ls>KATHĀS. 14,79.</ls> {#pratiSruta#} {%zugesagt, versprochen%}
+<ls>H. 1489.</ls> {#pratiSrute juhoti#} {%nachdem die Zusage erfolgt ist%}
+<ls>ŚĀṄKH. GṚHY. 1,7. 9. 5,10.</ls> {#yaccAnyasmE pratiSrutam#}
+<ls>YĀJÑ. 2,175.</ls> {#rAjaputryAH pratiSrutam#}
+<ls>MBH. 4,456.</ls> <ls n="MBH. 4,">1610</ls> (nach der Lesart der <ls>ed. Bomb.</ls>). {#vAcA#}
+<ls n="MBH.">5,211.</ls> <ls>R. 2,88,22.</ls> <ls>R. GORR. 2,17,19.</ls> <ls n="R. GORR.">3,14,18.</ls> <ls n="R. GORR.">5,47,9.</ls> <ls>KUMĀRAS. 2,56.</ls> <ls>RAGH. 15,74.</ls> <ls>MĀLAV. 8,17.</ls> <ls>KATHĀS. 26,187.</ls> <ls n="KATHĀS.">119,4.</ls> <ls>RĀJA-TAR. 1,242. 4,56.</ls> <ls>BHĀG. P. 1,7,38.</ls> <ls n="BHĀG. P. 1,">14,40.</ls> <ls n="BHĀG. P.">2,7,18.</ls> <ls n="BHĀG. P.">3,23,51.</ls> <ls n="BHĀG. P.">6,18,42.</ls> {#kuru pratiSrutaM satyam#}
+<ls n="BHĀG. P.">1,7,54.</ls> <ls>MBH. 5,7032.</ls> {#AQyasya sutA nagaravAsinaH . tvatkfte yAcitAsmABiH sA ca pitrA pratiSrutA ..#}
+<ls>KATHĀS. 61,19.</ls> {#sA ca pitrA dAtuM pratiSrutA#}
+<ls n="KATHĀS.">123,166.</ls> {#yaTezwamaSanaM dAtuM tato 'nena pratiSrute#}
+<ls>RĀJA-TAR. 1,132.</ls> n. {%Zusage, Versprechen%}: {#satya°#} <lex>adj.</lex>
+<ls>R. 3,41,18.</ls> {#anistIrRa°#} <lex>adj.</lex>
+<ls>BHĀG. P. 10,89,45.</ls>
+<div n="1">— 2) {#pratiSruta#} {%wiederhallend%}: {#taTA tayorgadApoTErdiSaH sarvAH pratiSrutAH#}
+<ls>R. 7,32,55.</ls>
+<div n="1">— 3) {%hören, vernehmen%}: {#tadBIru mayA sarvaM pratiSrutam (pariSrutam?)#}
+<ls>R. 6,9,6.</ls>
+<div n="1">— 4) {#pratiSrutaM#} {%genannt%}
+<ls>HARIV. 1937</ls> fehlerhaft für {#pariSruta#}, wie die neuere Ausgabe liest.
+<div n="v">— Vgl. {#pratiSrava#} fgg. — desid. {#°SuSrUzati#} (nicht med.)
+<ls>P. 1,3,59.</ls>
+<ls>VOP. 23,57.</ls>
+<div n="p">— {#saMprati#} {%zusagen, versprechen%}: {#yo 'smaByaM saMpratiSrutya kanyAratnaM vigarhya naH . kfzRAyAdAt#}
+<ls>BHĀG. P. 10,57,4.</ls> — caus. {%Jmd veranlassen eine Zusage zu machen, Jmd ein Versprechen abnehmen%}
+<ls>R. 2,107,5.</ls>
+<div n="p">— {#vi#}
+<div n="1"> 1) {%vernehmen, hören%}: {#karRAByAM BUri viSruvam#}
+<ls>TAITT. UP. 1,4,1.</ls> {#SaNKaSabdaM viSuSruvuH#}
+<ls>HARIV. 13577.</ls>
+<ls>BHĀG. P. 1,5,26.</ls> <ls n="BHĀG. P. 1,5,">28.</ls> {#°Srutya#}
+<ls n="BHĀG. P.">4,8,70.</ls> pass.: {#iti ca . vyaSrUyanta mahAGorAH SabdAstatra samantataH#}
+<ls>MBH. 1,1175.</ls> <ls n="MBH.">4,805.</ls>
+<ls>HARIV. 13212.</ls>
+<ls>R. 1,13,13.</ls>
+<ls>VET. in LA. 21,1.</ls> {#svano viSuSruve#}
+<ls>R. 2,103,48.</ls>
+<div n="1">— 2) med. (ved.) und pass. {%bekannt —, berühmt werden%}
+<ls>ṚV. 4,8,6.</ls>
+<ls>VĀLAKH. 6,6.</ls> {#vi Sf^RuzvA\ jane^zu#}
+<ls>TBR. 2,4,7,4.</ls> {#vi\SrAvi^#}
+<ls>ṚV. 10,93,14.</ls> {#viSrUyasva svakarmaRA#}
+<ls>MBH. 5,4506.</ls> {#vyaSrUyata nAma tridive 'pi yasya#}
+<ls>RAGH. 18,9.</ls>
+<ls>Spr. (II) 1928.</ls> — partic. {#vi/Sruta#} mit {#SreRi#} u. s. w. componirt <is>gaṇa</is> {#kftAdi#}
+zu <ls>P. 2,1,59.</ls>
+<div n="1"> 1) {%vernommen, gehört%}
+<ls>AV. 15,2,4.</ls>
+<ls>Spr. (II) 1363.</ls>
+<div n="1">— 2) {%bekannt%}, = {#jYAta#}
+<ls>H. an. 3,296. fg.</ls> <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> {#striyo hi capalA nityaM devAnAmapi viSrutam#}
+<ls>Spr. 3303.</ls> {#ityeva nAma tasyATa viSrutam#}
+<ls>MBH. 1,2367.</ls> <ls>Verz. d. Oxf. H. 255,a,4.</ls> {#viSrutastrizu lokezu kroDAtmA aja ekapAt#} {%bekannt als%}
+<ls>HARIV. 13654.</ls>
+<ls>PRAB. 5,9.</ls> {#°govarDanasparDI ko 'pi na viSrutaH#}
+<ls>GĪT. 1,4.</ls> {#marunnAmneti (°nnAmeti?) viSruto 'si#}
 [Page7-0382]
-
-<ls>MAITRYUP. 2, 1.</ls> {#Satadruriti viSrutA#} {%bekannt als%} so v. a. {%genannt%} 
-<ls>MBH. 1, 6753. 3, 1767. 2124. 2443. 2694. 2900. 13, 2583.</ls> 
-<ls>R. 1, 51, 19. 2, 50, 18. 110, 8.</ls> 
-<ls>KATHĀS. 7, 40. 13, 54.</ls> 
-<ls>PRAB. 9, 10.</ls> 
-<ls>BHĀG. P. 3, 21, 3. 4, 1, 1. 9, 6. 11.</ls> {#tato yamatvaM tava deva viSrutam#} so v. a. {%daher wirst du%} <is>Yama</is> {%genannt%} 
-<ls>MBH. 3, 16781.</ls> {%weithin bekannt, berühmt%} 
-<ls>AK. 3, 1, 9.</ls> 
-<ls>H. 1493.</ls> 
-<ls>H. an.</ls> 
-<ls>ṚV. 1, 52, 11.</ls> <ls n="ṚV. 1,">62, 1.</ls> 
-<ls>MBH. 3, 2442.</ls> 
-<ls>R. 2, 54, 38. 71, 9. 3, 53, 32. 5, 1, 31.</ls> 
-<ls>RAGH. 8, 76.</ls> 
-<ls>Spr. (II) 756.</ls> 
-<ls>VARĀH. BṚH. S. 26, 5.</ls> 
-<ls>BṚH. 20 (18), 6.</ls> {#viSvatra#} 
-<ls>KATHĀS. 20, 187.</ls> 
-<ls>DAŚAK. 59, 10.</ls> 
-<ls>BHĀG. P. 4, 15, 25.</ls> {#trElokya°#} 
-<ls>?3, 33, 31. R. 1, 1, 47. n.</ls> {%Berühmtheit%} 
-<ls>BHĀG. P. 1, 5, 40.</ls> 
-<div n="1">— 3) {%froh%} ({#hfzwa, saMhfzwa#}) 
-<ls>H. an.</ls> und <ls>VIŚVA a. a. O.</ls> 
-<div n="v">— Vgl. {#viSrAva, viSruta#}, 1. {#viSruti, lokaviSruta#} (auch 
-<ls>MBH. 4, 362. 5, 5945</ls>), {#viSva°#} . — caus. 
-<div n="1"> 1) {%hören lassen, verkünden, mittheilen%}: {#ityevaM vAco vyaSrAvayan#} 
-<ls>R. 6, 70, 58.</ls> {#mayA viSrAvite vAkye#} 
-<ls>MBH. 5, 4971.</ls> {#guhyaM miTo viSrAvayanti#} 
-<ls>12, 3819.</ls> {#nAmAni#} 
-<ls>Verz. d. Oxf. H. 195,a,19.</ls> {#nAma viSrAvya cAtmanaH#} {%seinen Namen nennend%} 
-<ls>MBH. 4, 1653. 1785. 1, 6287.</ls> 
-<ls>HARIV. 9242.</ls> 
-<ls>R. 3, 59, 5. 5, 38, 41. 53, 1. 6, 76, 15. 7, 22, 49. 23, 52.</ls> mit acc. der Person: {#abravIcca sarvaM viSrAvayaYjagat#} so v. a. {%so dass es alle Welt hörte%} 
-<ls>MBH. 14, 2025.</ls> 
-<ls>BHĀG. P. 10, 64, 44.</ls> mit doppeltem acc. {%Jmd Etwas mittheilen%}: {#mama karma ca devendraM (devendre#} 
-<ls>ARJ. 10, 69</ls>) {#mAtalirvistareRa tat . sarvaM viSrAvayAmAsa yaTABUtam ..#} 
-<ls>MBH. 3, 12265. fg.</ls> 
-<div n="1">— 2) {%berühmt machen%}: {#nAma viSrAvitaM Buvi#} 
-<ls>HARIV. 4857.</ls> 
-<ls>R. 7, 33, 16.</ls> 
-<div n="1">— 3) {%erschallen machen%}: {#dunduBim#} 
-<ls>MBH. 6, 1628.</ls> {#tato 'ntarIkze vAgAsItsarvA viSrAvayan#} (statt {#°SrAvayantI) diSaH#} 
-<ls>3, 16556.</ls>
-
-<div n="p">— {#aBivi#}, partic. {#°Sruta#} {%bekannt als, genannt%}: {#aruRetyaBiviSrutaH#} (nicht voc., wie man wohl anzunehmen pflegt, sondern nom. mit auch sonst im Epos vorkommender Contraction) 
-<ls>MBH. 1, 1275. 2718. 3219. 3, 8760.</ls> 
-<ls>HARIV. 812. 8982. 14917.</ls> 
-<ls>R. 1, 45, 38 (46, 28 GORR.). 2, 55, 7 (5 GORR.). 110, 35 (119, 32 GORR.).</ls> <ls>R. GORR. 1, 26, 10.</ls> <ls>MĀRK. P. 46, 43.</ls> <ls>BHĀG. P. 8, 1, 21. 9, 15, 13.</ls>
-
-<div n="p">— {#sam#} 
-<div n="1"> 1) {%vernehmen, hören%}: {#saMSfRuta#} 
-<ls>PRAB. 105, 19.</ls> {#gadato nigamaM mama#} 
-<ls>BHĀG. P. 6, 5, 30.</ls> {#samaSrOzaM vacaH#} 
-<ls>MBH. 1, 1626.</ls> {#saMSfRoti na coktAni#} 
-<ls>BHAṬṬ. 5, 19.</ls> {#krozwUnsamASfRotkrUrAnrasato 'SuBaSaMsinaH#} 
-<ls>6, 5.</ls> {#punaH saMSrutya saMSrutAm (vAcam)#} 
-<ls>YĀJÑ. 3, 150. 12.</ls> {#AkrandamAnAM saMSrutya#} 
-<ls>MBH. 3, 2388.</ls> {#raTaGozam#} 
-<ls>13, 1978.</ls> <ls>R. 5, 55, 8.</ls> {#manmuKAt#} 
-<ls>PAÑCAR. 4, 2, 15.</ls> {#yadi vAsti tvaBiprAyaH saMSrotuM tava#} 
-<ls>R. 7, 35, 18.</ls> med. : {#saMSfRuzva#} 
-<ls>BHAṬṬ. 8, 16</ls> (fälschlich auf 
-<ls>P. 1, 3, 29, <is>Vārtt</is>. 2</ls> und <ls>VOP. 23, 14</ls> verwiesen). {#hitAnna yaH saMSfRute#} 
-<ls>Spr. 3085.</ls> {%sich vernehmen%} 
-<ls>P. 1, 3, 29, <is>Vārtt</is>. 2.</ls> 
-<ls>VOP. 23, 14.</ls> {#yaTEva miTaH saMSfRvIran#} 
-<ls>ŚĀṄKH. BR. 9, 1.</ls> pass. : {#yaTA saMSrUyate#} {%wie man hört, liest%} 
-<ls>MBH. 12, 7159.</ls> {#tvaM hi saMSrUyase 'tyarTamasahyabalavikramaH#} so v. a. {%du bist, wie man hört%}, 
-<ls>6, 4794.</ls> {#yasminsaMSrUyate satyaM jyotirbrahma sanAtanam#} {%worin, wie man hört, enthalten sein soll%} 
-<ls>1, 30.</ls> {#saMSruta#} {%vernommen, gehört%} 
-<ls>YĀJÑ. 3, 150.</ls> 
-<ls>MBH. 5, 1263.</ls> {#na dfzwaM na ca saMSrutam#} 
-<ls>Spr. (II) 5018.</ls> 
-<ls>MĀRK. P. 100, 17. fg.</ls> {#sanatkumArAdvacanamiti vE saMSrutaM mayA#} 
-<ls>R. GORR. 1, 8, 29.</ls> {#purARe saMSruto mayA#} so v. a. {%gelesen%} 
-<ls>MBH. 1, 2546.</ls> 
-<div n="1">— 2) {%zusagen, versprechen%}: {#mAtAmahe samaSrOzIdrAjyaSulkam#} 
-<ls>R. 2, 107, 3.</ls> {#karizya iti saMSrutya pUrvamasmAsu#} 
-<ls>MBH. 3, 2143.</ls> {#taTeti saMSrutya gamanaM tasya#} 
-<ls>R. 1, 10, 22 (23 GORR.). 23, 8. 2, 21, 41.</ls> {#tapasviByaH sattre yajYadakziRAm#} 
-<ls>75, 24.</ls> <ls>R. GORR. 2, 18, 48. 3, 14, 18. fg. 67, 21.</ls> <ls>Spr. (II) 612.</ls> <ls>LA. (III) 91, 11.</ls> {#saMSruta#} {%zugesagt. versprochen%} 
-<ls>AK. 3, 2, 58.</ls> 
-<ls>H. 1489.</ls> 
-<ls>MBH. 14, 1667.</ls> 
-<ls>R. 3, 14, 17. 6, 8, 23. 7, 76, 12</ls> (mit gen.
+<ls>MAITRYUP. 2,1.</ls> {#Satadruriti viSrutA#} {%bekannt als%} so v. a. {%genannt%}
+<ls>MBH. 1,6753.</ls> <ls n="MBH.">3,1767.</ls> <ls n="MBH. 3,">2124.</ls> <ls n="MBH. 3,">2443.</ls> <ls n="MBH. 3,">2694.</ls> <ls n="MBH. 3,">2900.</ls> <ls n="MBH.">13,2583.</ls>
+<ls>R. 1,51,19.</ls> <ls n="R.">2,50,18</ls> <ls n="R. 2,">110,8.</ls>
+<ls>KATHĀS. 7,40.</ls> <ls n="KATHĀS.">13,54.</ls>
+<ls>PRAB. 9,10.</ls>
+<ls>BHĀG. P. 3,21,3.</ls> <ls n="BHĀG. P.">4,1,1.</ls> <ls n="BHĀG. P. 4,">9,6.</ls> <ls n="BHĀG. P. 4,9,">11.</ls> {#tato yamatvaM tava deva viSrutam#} so v. a. {%daher wirst du%} <is>Yama</is> {%genannt%}
+<ls>MBH. 3,16781.</ls> {%weithin bekannt, berühmt%}
+<ls>AK. 3,1,9.</ls>
+<ls>H. 1493.</ls>
+<ls>H. an.</ls>
+<ls>ṚV. 1,52,11.</ls> <ls n="ṚV. 1,">62,1.</ls>
+<ls>MBH. 3,2442.</ls>
+<ls>R. 2,54,38.</ls> <ls n="R. 2,">71,9.</ls> <ls n="R.">3,53,32.</ls> <ls n="R.">5,1,31.</ls>
+<ls>RAGH. 8,76.</ls>
+<ls>Spr. (II) 756.</ls>
+<ls>VARĀH. BṚH. S. 26,5.</ls>
+<ls>BṚH. 20 (18),6.</ls> {#viSvatra#}
+<ls>KATHĀS. 20,187.</ls>
+<ls>DAŚAK. 59,10.</ls>
+<ls>BHĀG. P. 4,15,25.</ls> {#trElokya°#}
+<ls n="BHĀG. P.">3,33,31.</ls> <ls>R. 1,1,47.</ls> n. {%Berühmtheit%}
+<ls>BHĀG. P. 1,5,40.</ls>
+<div n="1">— 3) {%froh%} ({#hfzwa, saMhfzwa#})
+<ls>H. an.</ls> und <ls>VIŚVA a. a. O.</ls>
+<div n="v">— Vgl. {#viSrAva, viSruta#}, 1. {#viSruti, lokaviSruta#} (auch
+<ls>MBH. 4,362.</ls> <ls n="MBH.">5,5945</ls>), {#viSva°#} . — caus.
+<div n="1"> 1) {%hören lassen, verkünden, mittheilen%}: {#ityevaM vAco vyaSrAvayan#}
+<ls>R. 6,70,58.</ls> {#mayA viSrAvite vAkye#}
+<ls>MBH. 5,4971.</ls> {#guhyaM miTo viSrAvayanti#}
+<ls n="MBH.">12,3819.</ls> {#nAmAni#}
+<ls>Verz. d. Oxf. H. 195,a,19.</ls> {#nAma viSrAvya cAtmanaH#} {%seinen Namen nennend%}
+<ls>MBH. 4,1653.</ls> <ls n="MBH. 4,">1785.</ls> <ls n="MBH.">1,6287.</ls>
+<ls>HARIV. 9242.</ls>
+<ls>R. 3,59,5.</ls> <ls n="R.">5,38,41.</ls> <ls n="R. 5,">53,1.</ls> <ls n="R.">6,76,15.</ls> <ls n="R.">7,22,49.</ls> <ls n="R. 7,">23,52.</ls> mit acc. der Person: {#abravIcca sarvaM viSrAvayaYjagat#} so v. a. {%so dass es alle Welt hörte%}
+<ls>MBH. 14,2025.</ls>
+<ls>BHĀG. P. 10,64,44.</ls> mit doppeltem acc. {%Jmd Etwas mittheilen%}: {#mama karma ca devendraM (devendre#}
+<ls>ARJ. 10,69</ls>) {#mAtalirvistareRa tat . sarvaM viSrAvayAmAsa yaTABUtam ..#}
+<ls>MBH. 3,12265. fg.</ls>
+<div n="1">— 2) {%berühmt machen%}: {#nAma viSrAvitaM Buvi#}
+<ls>HARIV. 4857.</ls>
+<ls>R. 7,33,16.</ls>
+<div n="1">— 3) {%erschallen machen%}: {#dunduBim#}
+<ls>MBH. 6,1628.</ls> {#tato 'ntarIkze vAgAsItsarvA viSrAvayan#} (statt {#°SrAvayantI) diSaH#}
+<ls n="MBH.">3,16556.</ls>
+<div n="p">— {#aBivi#}, partic. {#°Sruta#} {%bekannt als, genannt%}: {#aruRetyaBiviSrutaH#} (nicht voc., wie man wohl anzunehmen pflegt, sondern nom. mit auch sonst im Epos vorkommender Contraction)
+<ls>MBH. 1,1275.</ls> <ls n="MBH. 1,">2718.</ls> <ls n="MBH. 1,">3219.</ls> <ls n="MBH.">3,8760.</ls>
+<ls>HARIV. 812.</ls> <ls n="HARIV.">8982.</ls> <ls n="HARIV.">14917.</ls>
+<ls>R. 1,45,38</ls> (<ls n="GORR. 1,">46,28</ls> <ls>GORR.</ls>). <ls n="R.">2,55,7</ls> (<ls n="GORR. 2,55,">5</ls> <ls>GORR.</ls>). <ls n="R. 2,">110,35</ls> (<ls n="GORR. 2,">119,32</ls> <ls>GORR.</ls>). <ls>R. GORR. 1,26,10.</ls> <ls>MĀRK. P. 46,43.</ls> <ls>BHĀG. P. 8,1,21.</ls> <ls n="BHĀG. P.">9,15,13.</ls>
+<div n="p">— {#sam#}
+<div n="1"> 1) {%vernehmen, hören%}: {#saMSfRuta#}
+<ls>PRAB. 105,19.</ls> {#gadato nigamaM mama#}
+<ls>BHĀG. P. 6,5,30.</ls> {#samaSrOzaM vacaH#}
+<ls>MBH. 1,1626.</ls> {#saMSfRoti na coktAni#}
+<ls>BHAṬṬ. 5,19.</ls> {#krozwUnsamASfRotkrUrAnrasato 'SuBaSaMsinaH#}
+<ls n="BHAṬṬ.">6,5.</ls> {#punaH saMSrutya saMSrutAm (vAcam)#}
+<ls>YĀJÑ. 3,150. 12.</ls> {#AkrandamAnAM saMSrutya#}
+<ls>MBH. 3,2388.</ls> {#raTaGozam#}
+<ls n="MBH.">13,1978.</ls> <ls>R. 5,55,8.</ls> {#manmuKAt#}
+<ls>PAÑCAR. 4,2,15.</ls> {#yadi vAsti tvaBiprAyaH saMSrotuM tava#}
+<ls>R. 7,35,18.</ls> med. : {#saMSfRuzva#}
+<ls>BHAṬṬ. 8,16</ls> (fälschlich auf
+<ls>P. 1,3,29</ls>, <is>Vārtt</is>. 2 und <ls>VOP. 23,14</ls> verwiesen). {#hitAnna yaH saMSfRute#}
+<ls>Spr. 3085.</ls> {%sich vernehmen%}
+<ls>P. 1,3,29</ls>, <is>Vārtt</is>. 2.
+<ls>VOP. 23,14.</ls> {#yaTEva miTaH saMSfRvIran#}
+<ls>ŚĀṄKH. BR. 9,1.</ls> pass. : {#yaTA saMSrUyate#} {%wie man hört, liest%}
+<ls>MBH. 12,7159.</ls> {#tvaM hi saMSrUyase 'tyarTamasahyabalavikramaH#} so v. a. {%du bist, wie man hört%},
+<ls n="MBH.">6,4794.</ls> {#yasminsaMSrUyate satyaM jyotirbrahma sanAtanam#} {%worin, wie man hört, enthalten sein soll%}
+<ls n="MBH.">1,30.</ls> {#saMSruta#} {%vernommen, gehört%}
+<ls>YĀJÑ. 3,150.</ls>
+<ls>MBH. 5,1263.</ls> {#na dfzwaM na ca saMSrutam#}
+<ls>Spr. (II) 5018.</ls>
+<ls>MĀRK. P. 100,17. fg.</ls> {#sanatkumArAdvacanamiti vE saMSrutaM mayA#}
+<ls>R. GORR. 1,8,29.</ls> {#purARe saMSruto mayA#} so v. a. {%gelesen%}
+<ls>MBH. 1,2546.</ls>
+<div n="1">— 2) {%zusagen, versprechen%}: {#mAtAmahe samaSrOzIdrAjyaSulkam#}
+<ls>R. 2,107,3.</ls> {#karizya iti saMSrutya pUrvamasmAsu#}
+<ls>MBH. 3,2143.</ls> {#taTeti saMSrutya gamanaM tasya#}
+<ls>R. 1,10,22</ls> (<ls n="GORR. 1,10,">23</ls> <ls>GORR.</ls>). <ls n="R. 1,">23,8.</ls> <ls n="R.">2,21,41.</ls> {#tapasviByaH sattre yajYadakziRAm#}
+<ls n="R. 1,">75,24.</ls> <ls>R. GORR. 2,18,48.</ls> <ls n="R. GORR.">3,14,18. fg.</ls> <ls n="R. GORR. 3,">67,21.</ls> <ls>Spr. (II) 612.</ls> <ls>LA. (III) 91,11.</ls> {#saMSruta#} {%zugesagt. versprochen%}
+<ls>AK. 3,2,58.</ls>
+<ls>H. 1489.</ls>
+<ls>MBH. 14,1667.</ls>
+<ls>R. 3,14,17.</ls> <ls n="R.">6,8,23.</ls> <ls n="R.">7,76,12</ls> (mit gen.
 [Page7-0383]
-der Person). 
-<ls>RAGH. 12, 5.</ls> 
-<ls>RĀJA-TAR. 3, 19.</ls> 
-<div n="v">— Vgl. {#saMSrava#} u.s.w. — caus. 
-<div n="1"> 1) {%hören lassen, verkünden%} 
-<ls>YĀJÑ. 2, 112.</ls> {#saMSrAvayannaDvani deSikendraH#} 
-<ls>Verz. d. Oxf. H. 259,a,19.</ls> {#ruditaDvanim#} 
-<ls>KATHĀS. 72, 50.</ls> {#vArttAm#} 
-<ls>R. 3, 63, 28.</ls> {#nAma saMSrAvya cAtmanaH#} {%seinen Namen nennend%} 
-<ls>MBH. 15, 732.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 2, 18. 6, 79, 10.</ls> 
-<ls>KATHĀS. 20, 40.</ls> {#saMSrAvyamARezu rAjYAM nAmasu#} 
-<ls>MBH. 12, 118.</ls> {#vAco rUkzAH saMSrAvayan#} 
-<ls>8, 309.</ls> {#paruzARi#} 
-<ls>R. 4, 8, 21.</ls> {#Bagavate paruzARi#} 
-<ls>BHĀG. P. 10, 74, 30.</ls> mit acc. der Person (auch neben acc. der Sache) {%Etwas zu Jmdes Ohren bringen%} 
-<ls>MBH. 5, 560.</ls> 
-<ls>BHĀG. P. 1, 3, 42.</ls> {#etAn SabdaM saMSrAvya#} 
-<ls>PAÑCAT. 172, 25.</ls> {#saMSrAvitatalleKO#} so v. a. {%vorgelesen%} 
-<ls>KATHĀS. 43, 271.</ls> 
-<div n="1">— 2) {%erschallen machen%}: {#jImUta iva GarmAnte sarvaM saMSrAvayansaBAm#} 
-<ls>MBH. 5, 3385.</ls>
-
-<div n="p">— {#aBisam#} {%vernehmen, hören%}: {#etadaBisaMSrutya#} 
-<ls>R. 2, 66, 18.</ls>
-
-<div n="p">— {#pratisam#} {%zusagen, versprechen%}: {#aSvinoH pratisaMSrutya#} 
-<ls>MBH. 13, 7306.</ls>
+der Person).
+<ls>RAGH. 12,5.</ls>
+<ls>RĀJA-TAR. 3,19.</ls>
+<div n="v">— Vgl. {#saMSrava#} u.s.w. — caus.
+<div n="1"> 1) {%hören lassen, verkünden%}
+<ls>YĀJÑ. 2,112.</ls> {#saMSrAvayannaDvani deSikendraH#}
+<ls>Verz. d. Oxf. H. 259,a,19.</ls> {#ruditaDvanim#}
+<ls>KATHĀS. 72,50.</ls> {#vArttAm#}
+<ls>R. 3,63,28.</ls> {#nAma saMSrAvya cAtmanaH#} {%seinen Namen nennend%}
+<ls>MBH. 15,732.</ls>
+<ls>R. GORR. 2,2,18.</ls> <ls n="R. GORR.">6,79,10.</ls>
+<ls>KATHĀS. 20,40.</ls> {#saMSrAvyamARezu rAjYAM nAmasu#}
+<ls>MBH. 12,118.</ls> {#vAco rUkzAH saMSrAvayan#}
+<ls n="MBH.">8,309.</ls> {#paruzARi#}
+<ls>R. 4,8,21.</ls> {#Bagavate paruzARi#}
+<ls>BHĀG. P. 10,74,30.</ls> mit acc. der Person (auch neben acc. der Sache) {%Etwas zu Jmdes Ohren bringen%}
+<ls>MBH. 5,560.</ls>
+<ls>BHĀG. P. 1,3,42.</ls> {#etAn SabdaM saMSrAvya#}
+<ls>PAÑCAT. 172,25.</ls> {#saMSrAvitatalleKO#} so v. a. {%vorgelesen%}
+<ls>KATHĀS. 43,271.</ls>
+<div n="1">— 2) {%erschallen machen%}: {#jImUta iva GarmAnte sarvaM saMSrAvayansaBAm#}
+<ls>MBH. 5,3385.</ls>
+<div n="p">— {#aBisam#} {%vernehmen, hören%}: {#etadaBisaMSrutya#}
+<ls>R. 2,66,18.</ls>
+<div n="p">— {#pratisam#} {%zusagen, versprechen%}: {#aSvinoH pratisaMSrutya#}
+<ls>MBH. 13,7306.</ls>
 <LEND>

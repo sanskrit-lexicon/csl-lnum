@@ -1,13 +1,13 @@
 <L>33074<pc>3-0639<k1>dizwAnta<k2>dizwAnta
-{#dizwAnta#}¦ ({#dizwa + anta#}) <lex>m.</lex> {%das bestimmte Ende%} oder {%das Ende des bestimmten Lebens, der Tod%} 
-<ls>AK. 2, 8, 2, 84.</ls> 
-<ls>H. 324.</ls> {#jagAma kAle DarmAtmA dizwAntam#} 
-<ls>MBH. 1, 2193. 13, 4421.</ls> 
-<ls>R. 2, 66, 12.</ls> {#tAte dizwAntamAgate#} 
-<ls>R. GORR. 2, 111, 3.</ls> {#dizwAntameyyuzaH#} 
-<ls>R.</ls> <ls>SCHL. 2, 65, 28</ls> ({#dizwAntamIyuzaH#} 
-<ls>GORR. 67, 22</ls>). {#dizwAntamApa#} 
-<ls>MBH. 5, 5945.</ls> 
-<ls>RAGH. 9, 79.</ls> {#samanuprAptaH#} 
-<ls>R. 2, 72, 25.</ls>
+{#dizwAnta#}¦ ({#dizwa + anta#}) <lex>m.</lex> {%das bestimmte Ende%} oder {%das Ende des bestimmten Lebens, der Tod%}
+<ls>AK. 2,8,2,84.</ls>
+<ls>H. 324.</ls> {#jagAma kAle DarmAtmA dizwAntam#}
+<ls>MBH. 1,2193.</ls> <ls n="MBH.">13,4421.</ls>
+<ls>R. 2,66,12.</ls> {#tAte dizwAntamAgate#}
+<ls>R. GORR. 2,111,3.</ls> {#dizwAntameyyuzaH#}
+<ls>R. SCHL. 2,65,28</ls> ({#dizwAntamIyuzaH#}
+GORR. <ls n="GORR. 2,">67,22</ls>). {#dizwAntamApa#}
+<ls>MBH. 5,5945.</ls>
+<ls>RAGH. 9,79.</ls> {#samanuprAptaH#}
+<ls>R. 2,72,25.</ls>
 <LEND>

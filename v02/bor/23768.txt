@@ -1,8 +1,8 @@
 <L>23768<pc>744<k1>verbal<k2>verbal
-<div n="lb"/>{@VERBAL:@}¦ <div n="I">I Oral: </div><div n="1">(1) {#vAcika#} (f. {#kI#}), <div n="xe">{%now I%}
-<div n="lb"/>{%wish to hear the v. message:%}</div> <div n="xs">{#vAcikamidAnIM Srotu-#}
-<div n="lb"/>{#micCAmi,#}</div> Mu. v.; </div><div n="1">(2) {#vAcanika#} (f. {#kI#}). </div><div n="I">II
-<div n="lb"/>Of words: </div><div n="1">(1) by comp.; </div><div n="1">(2) {#SAbdika#} (f.
-<div n="lb"/>{#kI#}); </div><div n="1">(3) {#SAbda#} (f. {#bdI#}). </div><div n="I">III Literal: q. v.:
-<div n="lb"/>{#padAnupadika#} (f. {#kI ?#}).</div>
+{@VERBAL:@}¦ <div n="I">I Oral: </div><div n="1">(1) {#vAcika#} (f. {#kI#}), <div n="xe">{%now I%}
+{%wish to hear the v. message:%}</div> <div n="xs">{#vAcikamidAnIM Srotu-#}
+{#micCAmi,#}</div> Mu. v.; </div><div n="1">(2) {#vAcanika#} (f. {#kI#}). </div><div n="I">II
+Of words: </div><div n="1">(1) by comp.; </div><div n="1">(2) {#SAbdika#} (f.
+{#kI#}); </div><div n="1">(3) {#SAbda#} (f. {#bdI#}). </div><div n="I">III Literal: q. v.:
+{#padAnupadika#} (f. {#kI ?#}).</div>
 <LEND>

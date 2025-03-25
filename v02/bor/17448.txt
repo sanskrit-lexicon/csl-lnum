@@ -1,14 +1,14 @@
 <L>17448<pc>533<k1>possession<k2>possession
-<div n="lb"/>{@POSSESSION:@}¦ <div n="I">I In law: {#BogaH, samBogaH, pariBogaH,#}
-<div n="lb"/>(rarely) {#BuktiH#} (= enjoyment), <div n="xe">{%p. with title of%}
-<div n="lb"/>{%long standing, without interruption, without%}
-<div n="lb"/>{%dispute:%}</div> <div n="xs">{#sAgamo dIrGakAlo nirantaro nirAkroSo BogaH,#}</div>
-<div n="lb"/>Mi. on Y. ii. 28.; {%p. is a proof of ownership:%}
-<div n="lb"/>{#Bogasya svatve prAmARyam,#} Mi.; {#aDikAraH#} (?).
-<div n="lb"/>{%To take p. of:%} </div><div n="1">(1) {#aDikaroti#} (?); </div><div n="1">(2) {#gfhRAti, #}
-<div n="lb"/>{# pari-#} ({#grah,#} c. 9.), <div n="xe">{%another crocodile has taken%}
-<div n="lb"/>{%p. of your house:%}</div> <div n="xs">{#tvadIyaM gfhamapareRa makareRa gfhItam,#}</div>
-<div n="lb"/>P. iv. 9. </div><div n="I">II That which is possessed:</div>
-<div n="lb"/><div n="1">(1) {#BuktiH;#} </div><div n="1">(2) by circumlo. </div><div n="I">III By evil
-<div n="lb"/>spirits: {#AveSaH.#}</div>
+{@POSSESSION:@}¦ <div n="I">I In law: {#BogaH, samBogaH, pariBogaH,#}
+(rarely) {#BuktiH#} (= enjoyment), <div n="xe">{%p. with title of%}
+{%long standing, without interruption, without%}
+{%dispute:%}</div> <div n="xs">{#sAgamo dIrGakAlo nirantaro nirAkroSo BogaH,#}</div>
+Mi. on Y. ii. 28.; {%p. is a proof of ownership:%}
+{#Bogasya svatve prAmARyam,#} Mi.; {#aDikAraH#} (?).
+{%To take p. of:%} </div><div n="1">(1) {#aDikaroti#} (?); </div><div n="1">(2) {#gfhRAti, #}
+{# pari-#} ({#grah,#} c. 9.), <div n="xe">{%another crocodile has taken%}
+{%p. of your house:%}</div> <div n="xs">{#tvadIyaM gfhamapareRa makareRa gfhItam,#}</div>
+P. iv. 9. </div><div n="I">II That which is possessed:</div>
+<div n="1">(1) {#BuktiH;#} </div><div n="1">(2) by circumlo. </div><div n="I">III By evil
+spirits: {#AveSaH.#}</div>
 <LEND>

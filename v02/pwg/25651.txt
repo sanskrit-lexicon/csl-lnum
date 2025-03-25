@@ -1,32 +1,32 @@
 <L>25651<pc>2-1036<k1>cihna<k2>cihna
-{#cihna#}¦ <lex>n.</lex> 
-<ls>SIDDH. K.249,a,9.</ls> 
-<div n="1"> 1) {%Zeichen, Merkmal, Attribut, Anzeichen%} 
-<ls>AK. 3, 4, 1, 4.</ls> 
-<ls>TRIK. 3, 3, 238.</ls> 
-<ls>H. 106.</ls> 
-<ls>an. 2, 264.</ls> 
-<ls>MED. n. 4.</ls> {#cihnaBUtaM tvaBijYAnaM tvamaNge kartumarhasi#} 
-<ls>R. 4, 12, 44.</ls> {#cihnaBUto viBUtyarTam#} 
-<ls>N. 17, 6.</ls> {#vizRu°#} 
-<ls>PAÑCAT. 44, 16.</ls> {#svanAmacihna (sAyaka)#} 
-<ls>RAGH. 3, 55.</ls> {#nyastacihnAmapi rAjalakzmIm#} 
-<ls>2, 7.</ls> {#dakziRe haste dfzwvA cihnaM gadABftaH#} 
-<ls>BHĀG. P. 4, 15, 9.</ls> {#vajragrahaRacihnena kareRa#} 
-<ls>INDR. 2, 25.</ls> {#grAmezu - yUpacihnezu#} 
-<ls>RAGH. 1, 44.</ls> {#kftacihna#} {%gezeichnet%} 
-<ls>MBH. 3, 16127.</ls> {#saMnipAtasya cihnAni#} 
-<ls>PAÑCAT. I, 193.</ls> {#suhfdAm#} 
-<ls>II, 119.</ls> {#prasAda°#} 
-<ls>RAGH. 2, 22.</ls> {#praharza°#} 
-<ls>68.</ls> {#astyatra me BAvacihnam#} 
-<ls>ŚĀK. 86, 14. 108, 10.</ls> {#DarmeRoBayacihnena#} {%doppelt gezeichnet, zweifach%} 
-<ls>BHĀG. P. 3, 32, 35.</ls> 
-<div n="1">— 2) {%Banner, Fahne%} 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
-<div n="1">— 3) {%Zodiakalbild%} 
-<ls>VARĀH. BṚH. S. 3, 3.</ls> 
-<div n="1">— 4) {%Ziel, die Richtung wohin%} (in der Gramm.) 
-<ls>VOP. 5, 7.</ls> 
+{#cihna#}¦ <lex>n.</lex>
+<ls>SIDDH. K. 249,a,9.</ls>
+<div n="1"> 1) {%Zeichen, Merkmal, Attribut, Anzeichen%}
+<ls>AK. 3,4,1,4.</ls>
+<ls>TRIK. 3,3,238.</ls>
+<ls>H. 106.</ls>
+<ls>an. 2,264.</ls>
+<ls>MED. n. 4.</ls> {#cihnaBUtaM tvaBijYAnaM tvamaNge kartumarhasi#}
+<ls>R. 4,12,44.</ls> {#cihnaBUto viBUtyarTam#}
+<ls>N. 17,6.</ls> {#vizRu°#}
+<ls>PAÑCAT. 44,16.</ls> {#svanAmacihna (sAyaka)#}
+<ls>RAGH. 3,55.</ls> {#nyastacihnAmapi rAjalakzmIm#}
+<ls n="RAGH.">2,7.</ls> {#dakziRe haste dfzwvA cihnaM gadABftaH#}
+<ls>BHĀG. P. 4,15,9.</ls> {#vajragrahaRacihnena kareRa#}
+<ls>INDR. 2,25.</ls> {#grAmezu — yUpacihnezu#}
+<ls>RAGH. 1,44.</ls> {#kftacihna#} {%gezeichnet%}
+<ls>MBH. 3,16127.</ls> {#saMnipAtasya cihnAni#}
+<ls>PAÑCAT. I,193.</ls> {#suhfdAm#}
+<ls n="PAÑCAT.">II,119.</ls> {#prasAda°#}
+<ls>RAGH. 2,22.</ls> {#praharza°#}
+<ls n="RAGH. 2,">68.</ls> {#astyatra me BAvacihnam#}
+<ls>ŚĀK. 86,14.</ls> <ls n="ŚĀK.">108,10.</ls> {#DarmeRoBayacihnena#} {%doppelt gezeichnet, zweifach%}
+<ls>BHĀG. P. 3,32,35.</ls>
+<div n="1">— 2) {%Banner, Fahne%}
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls>
+<div n="1">— 3) {%Zodiakalbild%}
+<ls>VARĀH. BṚH. S. 3,3.</ls>
+<div n="1">— 4) {%Ziel, die Richtung wohin%} (in der Gramm.)
+<ls>VOP. 5,7.</ls>
 <div n="v">— Vgl. {#sacihna#} .
 <LEND>

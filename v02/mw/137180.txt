@@ -1,6 +1,6 @@
-<L>137180<pc>693,2<k1>pravf<k2>pra-vf<h>b<e>1
-<hom>b.</hom> <s>pra-</s>√ <hom>2.</hom> <s>vf</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-vfRAti</s>, (<ab>Ved.</ab>) <s>-vfRite</s>; <s>-vfRoti</s>, <s>-vfRute</s> (3. <ab>sg.</ab> <ab>aor.</ab> <ab>Subj.</ab> <s>-vfta</s>, <ls>RV.</ls>), to choose out, choose as (<ab>acc.</ab>) or for (<ab>dat.</ab>), <ls>RV.</ls>; <ls>Br.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls>;
+<L>137180<pc>693,2<k1>pravf<k2>pra-vf<e>1
+ <s>pra-</s>√ <hom>2.</hom> <s>vf</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-vfRAti</s>, (<lang>Ved.</lang>) <s>-vfRIte</s>; <s>-vfRoti</s>, <s>-vfRute</s> (3. <ab>sg.</ab> <ab>aor.</ab> <ab>Subj.</ab> <s>-vfta</s>, <ls>RV.</ls>), to choose out, choose as (<ab>acc.</ab>) or for (<ab>dat.</ab>), <ls>RV.</ls>; <ls>Br.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls>;
 <div n="to"/>to accept gladly, <ls>RV. ix, 101, 13</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-varayati</s>, to choose, select, <ls>MBh.</ls>;
-<div n="to"/> <s>-vArayati</s>, to please, gratify, <ls>R.</ls> (For <s>pravara</s> 1 <lex type="nhw">mfn.</lex> best, &c. See <ab>p.</ab> 690, <ab>col.</ab>3.)<info verb="pre" cp="PĀ" parse="pra+vf"/>
+<div n="vp"/><ab>Caus.</ab> <s>-varayati</s>, to choose, select, <ls>MBh.</ls>;
+<div n="to"/><s>-vArayati</s>, to please, gratify, <ls>R.</ls> (For <hom>1.</hom> <s>pravara</s>, <lex type="nhw">mfn.</lex> best, &c., see <ab>p.</ab> 690, <ab>col.</ab> 3.)<info verb="pre" cp="PĀ" parse="pra+vf"/><info hui="b"/>
 <LEND>

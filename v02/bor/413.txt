@@ -1,4 +1,4 @@
 <L>413<pc>016<k1>affray<k2>affray
-<div n="lb"/>{@AFFRAY:@}¦ <div n="1">(1) {#dvandvam;#} </div><div n="1">(2) {#kalahaH;#} </div><div n="1">(3) {#qimbaH;#}</div>
-<div n="lb"/><div n="1">(4) {#qamaraH#} (rare).</div>
+{@AFFRAY:@}¦ <div n="1">(1) {#dvandvam;#} </div><div n="1">(2) {#kalahaH;#} </div><div n="1">(3) {#qimbaH;#}</div>
+<div n="1">(4) {#qamaraH#} (rare).</div>
 <LEND>

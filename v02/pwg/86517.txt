@@ -1,261 +1,240 @@
 <L>86517<pc>6-0560<k1>lup<k2>lup<h>1
-1. {#lup#}¦ (=  älterem {#rup), lumpa/ti, °te#} 
-<ls>DHĀTUP. 28, 137</ls> ({#Cedane#}). 
-<ls>P. 7, 1, 59.</ls> {#lulopa#}; erhält keinen Bindevocal 
-<ls>?<is>Kār</is>. 5 aus SIDDH. K. zu P. 7, 2, 10.</ls> {#luptvA, loptum, lupyate, lupta#} . 
-<div n="1"> 1) {%zerbrechen%}: {#lulupuSca pAtrARi#} 
-<ls>HARIV. 12230.</ls> {#arujaMSca prAgvaMSaM lulupuSca#} (so die neuere Ausg.) 
-<ls>12231.</ls> {%beschädigen%}: {#vidDAlpaluptAni#} ({#cAmarARi#}) {#na SoBanAni#} 
-<ls>VARĀH. BṚH. S. 72, 2.</ls> 
-<div n="1">— 2) {%Jmd packen, über Jmd herfallen%}: {#lokAnviSvAsayitvEva tato lumpedyaTA vfkaH#} 
-<ls>Spr. 3389.</ls> {#nIcaH SlADyapadaM prApya svAminaM loptumicCati#} 
-<ls>1628.</ls> 
-<div n="1">— 3) {%rauben, plündern%}: {#dasyUn - lumpataH#} 
-<ls>BHĀG. P. 7, 8, 11.</ls> {#lokasya vasu lumpatAm#} (gen. pl. partic.) 
-<ls>4, 14, 39.</ls> {#anyaluptaM svarRam#} 
-<ls>KATHĀS. 72, 267.</ls> {#baDnanti Gnanti lumpanti dfptaM rAjakulAni#} (subj.). {#vE#} 
-<ls>BHĀG. P. 10, 41, 36.</ls> {#(bAle) anATe sarvato lupte#} {%um Alles gebracht%} 
-<ls>MBH. 1, 6157.</ls> {#Adilupta#} {%des Anfangs%}
+1. {#lup#}¦ (= älterem {#rup), lumpa/ti, °te#}
+<ls>DHĀTUP. 28,137</ls> ({#Cedane#}).
+<ls>P. 7,1,59.</ls> {#lulopa#}; erhält keinen Bindevocal
+<ls><is>Kār.</is> 5</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7,2,10.</ls> {#luptvA, loptum, lupyate, lupta#} .
+<div n="1"> 1) {%zerbrechen%}: {#lulupuSca pAtrARi#}
+<ls>HARIV. 12230.</ls> {#arujaMSca prAgvaMSaM lulupuSca#} (so die neuere Ausg.)
+<ls n="HARIV.">12231.</ls> {%beschädigen%}: {#vidDAlpaluptAni#} ({#cAmarARi#}) {#na SoBanAni#}
+<ls>VARĀH. BṚH. S. 72,2.</ls>
+<div n="1">— 2) {%Jmd packen, über Jmd herfallen%}: {#lokAnviSvAsayitvEva tato lumpedyaTA vfkaH#}
+<ls>Spr. 3389.</ls> {#nIcaH SlADyapadaM prApya svAminaM loptumicCati#}
+<ls n="Spr.">1628.</ls>
+<div n="1">— 3) {%rauben, plündern%}: {#dasyUn — lumpataH#}
+<ls>BHĀG. P. 7,8,11.</ls> {#lokasya vasu lumpatAm#} (gen. pl. partic.)
+<ls n="BHĀG. P.">4,14,39.</ls> {#anyaluptaM svarRam#}
+<ls>KATHĀS. 72,267.</ls> {#baDnanti Gnanti lumpanti dfptaM rAjakulAni#} (subj.). {#vE#}
+<ls>BHĀG. P. 10,41,36.</ls> {#(bAle) anATe sarvato lupte#} {%um Alles gebracht%}
+<ls>MBH. 1,6157.</ls> {#Adilupta#} {%des Anfangs%}
 [Page6-0561]
-—, {%des Anlauts verlustig gegangen%} 
-<ls>NIR. 10, 34.</ls> {#arTa°#} 
-<ls>KAUŚ. 63.</ls> 
-<ls>ŚĀṄKH. ŚR. 14, 40, 26. 2, 14, 7.</ls> {#vratalupta#} {%gekommen um%} 
-<ls>MBH. 13, 1547. 4397.</ls> {#lupta#} <lex>n.</lex> {%geraubtes —, gestohlenes Gut%} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 4) {%unterdrücken, beseitigen, verschwinden machen%}: {#lu/pyate#} und {#lupya/te#} {%unterdrückt werden, verschwinden, verlorengehen, abfallen, ausfallen%} (von Worten, Silben, Buchstaben): {#navAhaM lumpet#} 
-<ls>WEBER, <is>Nakṣ</is>. 2, 285.</ls> {#hrasvam lumpanti#} 
-<ls>ṚV. PRĀT. 14, 13. 15. 19. fg. <is>Kār</is>.</ls> zu <ls>P. 6, 1, 144.</ls> {#udAttastAvatsarvAnsvarA~llumpati#} 
-<ls>Schol.</ls> zu <ls>ṚV. PRĀT. 3, 6.</ls> {#budDiM lumpati yaddravyam#} 
-<ls>ŚĀRṄG. SAṂH. 1, 4, 21.</ls> {#asmatsaMvatsaraM luptvA svaM tamAvizkarizyati#} 
-<ls>ŚATR. 14, 103.</ls> {#idaM sfjatyavati lumpati#} 
-<ls>BHĀG. P. 7, 3, 27. 11, 6, 8.</ls> {#sfjasyaTo lumpasi pAsi viSvam#} 
-<ls>10, 48, 21.</ls> {#aNgulisvedena me lupyante 'kzarARi#} 
-<ls>VIKR. 27, 2.</ls> {#yAvat - rUpaM Jawiti na jarayA lupyate preyasInAm#} 
-<ls>Spr. 2601.</ls> {#jyAyasi cCandasi lupyeyurakzarARi#} 
-<ls>LĀṬY. 3, 7, 7.</ls> {#yada^rDa\rcAllupye^ta#} 
-<ls>TS. 3, 2, 9, 5.</ls> 
-<ls>ŚĀṄKH. ŚR. 13, 1, 8.</ls> 
-<ls>LĀṬY. 7, 11, 6.</ls> {#punaruktAni lupyante padAni#} 
-<ls>ŚĀKALA</ls> in <ls>Ind. St. 4, 278.</ls> <ls>ṚV. PRĀT. 4, 9.</ls> <ls n="ṚV. PRĀT. 4,">12.</ls> <ls n="ṚV. PRĀT. 4,">26.</ls> <ls>VS. PRĀT. 4, 34.</ls> <ls>TAITT. PRĀT. 1, 10.</ls> <ls>Schol.</ls> zu <ls>AV. PRĀT. 4, 16.</ls> <ls n="TS. PRĀT. 4,">60.</ls> <ls n="TS. PRĀT. 4,">64.</ls> fg. zu 
-<ls>P. 1, 2, 64.</ls> {#tasya BAgo na lupyate#} 
-<ls>M. 9, 211.</ls> {#Ayuzo 'tipravfdDasya BAryArTe 'rDamalupyata#} 
-<ls>MBH. 1, 980.</ls> {#vArttAyAM lupyamAnAyAmArabDAyAM punaH punaH#} 
-<ls>BHĀG. P. 3, 30, 12.</ls> {#satyapASena saMrudDaH snehastasya na lupyate#} ({%reisst nicht%}) 
-<ls>R. GORR. 2, 50, 18.</ls> {#smftirme devi lupyate#} 
-<ls>66, 58.</ls> {#vratamasya na lupyate#} 
-<ls>M. 2, 189.</ls> {#kftvA mama paritrARaM tava Darmo na lupyate#} 
-<ls>MBH. 1, 7803. 13, 2543.</ls> 
-<ls>HARIV. 5979.</ls> 
-<ls>MĀRK. P. 20, 55. 134, 22. 135, 26.</ls> {#lupta#} {%unterdrückt, verschwunden, zu Nichte geworden, verlorengegangen, abgefallen%}: {#luptajapa#} 
-<ls>ĀŚV. ŚR. 2, 19, 3.</ls> {#luptavarRapadaM grastam#} 
-<ls>AK. 1, 1, 5, 20.</ls> 
-<ls>H. 266.</ls> 
-<ls>HALĀY. 1, 142.</ls> 
-<ls>MĀRK. P. 132, 4.</ls> 
-<ls>SĀH. D. 219, 17.</ls> <ls>Schol.</ls> zu <ls>P. 1, 1, 62.</ls> <ls>VOP. 1, 13. 3, 16.</ls> {#no luptaM saKi candanaM stanatawe#} 
-<ls>Spr. 622.</ls> 
-<ls>KATHĀS. 86, 116.</ls> {#GarmaluptAmbusaMpad#} 
-<ls>87, 31. 90, 165.</ls> {#prakfti#} 
-<ls>MBH. 5, 797.</ls> {#°smfti#} 
-<ls>14, 37.</ls> {#°DarmakriyA#} 
-<ls>M. 8, 226.</ls> 
-<ls>BHAG. 1, 42.</ls> 
-<ls>R. 5, 51, 14.</ls> 
-<ls>RAGH. 3, 40. 14, 36. 49. 56.</ls> 
-<ls>VARĀH. BṚH. 15, 2.</ls> 
-<ls>RĀJA-TAR. 1, 358. 6, 124. 298. 8, 1816.</ls> 
-<ls>ŚATR. 14, 158.</ls> 
-<ls>BHĀG. P. 3, 15, 9. 4, 2, 13.</ls> 
-<ls>MĀRK. P. 39, 59.</ls> {#BavedaluptaSca muneH kriyArTaH#} 
-<ls>RAGH. 2, 55.</ls> 
-<ls>BHĀG. P. 3, 23, 38.</ls> {#aluptaDarma#} 
-<ls>MBH. 16, 204.</ls> 
-<ls>KATHĀS. 74, 124. 78, 7. 84, 58.</ls> <ls>Schol.</ls> zu <ls>KAP. 1, 19.</ls> {#SaSalupta/#} <lex>n.</lex> wohl {%das Verschwinden nach Hasenart%} 
-<ls>P. 6, 2, 145,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 5) {#lu/pyati#} ({#vimohane#}) 
-<ls>DHĀTUP. 26, 126.</ls> erhält den Bindevocal 
-<ls>SIDDH. K.</ls> zu <ls>P.7,2,10.</ls> {#lupyamAna#} {%sich verwirrend%} 
-<ls>MAITRYUP. 3, 2. 6, 30</ls>; vgl. {#luB#} . 
+—, {%des Anlauts verlustig gegangen%}
+<ls>NIR. 10,34.</ls> {#arTa°#}
+<ls>KAUŚ. 63.</ls>
+<ls>ŚĀṄKH. ŚR. 14,40,26. 2,14,7.</ls> {#vratalupta#} {%gekommen um%}
+<ls>MBH. 13,1547.</ls> <ls n="MBH. 13,">4397.</ls> {#lupta#} <lex>n.</lex> {%geraubtes —, gestohlenes Gut%}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 4) {%unterdrücken, beseitigen, verschwinden machen%}: {#lu/pyate#} und {#lupya/te#} {%unterdrückt werden, verschwinden, verlorengehen, abfallen, ausfallen%} (von Worten, Silben, Buchstaben): {#navAhaM lumpet#}
+<ls>WEBER, Nakṣ. 2,285.</ls> {#hrasvam lumpanti#}
+<ls>ṚV. PRĀT. 14,13. 15. 19. fg.</ls> <is>Kār.</is> zu <ls>P. 6,1,144.</ls> {#udAttastAvatsarvAnsvarA~llumpati#}
+<ls>Schol.</ls> zu <ls>ṚV. PRĀT. 3,6.</ls> {#budDiM lumpati yaddravyam#}
+<ls>ŚĀRṄG. SAṂH. 1,4,21.</ls> {#asmatsaMvatsaraM luptvA svaM tamAvizkarizyati#}
+<ls>ŚATR. 14,103.</ls> {#idaM sfjatyavati lumpati#}
+<ls>BHĀG. P. 7,3,27.</ls> <ls n="BHĀG. P.">11,6,8.</ls> {#sfjasyaTo lumpasi pAsi viSvam#}
+<ls n="BHĀG. P.">10,48,21.</ls> {#aNgulisvedena me lupyante 'kzarARi#}
+<ls>VIKR. 27,2.</ls> {#yAvat — rUpaM Jawiti na jarayA lupyate preyasInAm#}
+<ls>Spr. 2601.</ls> {#jyAyasi cCandasi lupyeyurakzarARi#}
+<ls>LĀṬY. 3,7,7.</ls> {#yada^rDa\rcAllupye^ta#}
+<ls>TS. 3,2,9,5.</ls>
+<ls>ŚĀṄKH. ŚR. 13,1,8.</ls>
+<ls>LĀṬY. 7,11,6.</ls> {#punaruktAni lupyante padAni#}
+<ls>ŚĀKALA</ls> in <ls>Ind. St. 4,278.</ls> <ls>ṚV. PRĀT. 4,9.</ls> <ls n="ṚV. PRĀT. 4,">12.</ls> <ls n="ṚV. PRĀT. 4,">26.</ls> <ls>VS. PRĀT. 4,34.</ls> <ls>TAITT. PRĀT. 1,10.</ls> <ls>Schol.</ls> zu <ls>AV. PRĀT. 4,16.</ls> <ls n="TS. PRĀT. 4,">60.</ls> <ls n="TS. PRĀT. 4,">64.</ls> fg. zu
+<ls>P. 1,2,64.</ls> {#tasya BAgo na lupyate#}
+<ls>M. 9,211.</ls> {#Ayuzo 'tipravfdDasya BAryArTe 'rDamalupyata#}
+<ls>MBH. 1,980.</ls> {#vArttAyAM lupyamAnAyAmArabDAyAM punaH punaH#}
+<ls>BHĀG. P. 3,30,12.</ls> {#satyapASena saMrudDaH snehastasya na lupyate#} ({%reisst nicht%})
+<ls>R. GORR. 2,50,18.</ls> {#smftirme devi lupyate#}
+<ls n="R. GORR. 2,">66,58.</ls> {#vratamasya na lupyate#}
+<ls>M. 2,189.</ls> {#kftvA mama paritrARaM tava Darmo na lupyate#}
+<ls>MBH. 1,7803.</ls> <ls n="MBH.">13,2543.</ls>
+<ls>HARIV. 5979.</ls>
+<ls>MĀRK. P. 20,55. 134,22. 135,26.</ls> {#lupta#} {%unterdrückt, verschwunden, zu Nichte geworden, verlorengegangen, abgefallen%}: {#luptajapa#}
+<ls>ĀŚV. ŚR. 2,19,3.</ls> {#luptavarRapadaM grastam#}
+<ls>AK. 1,1,5,20.</ls>
+<ls>H. 266.</ls>
+<ls>HALĀY. 1,142.</ls>
+<ls>MĀRK. P. 132,4.</ls>
+<ls>SĀH. D. 219,17.</ls> <ls>Schol.</ls> zu <ls>P. 1,1,62.</ls> <ls>VOP. 1,13.</ls> <ls n="VOP.">3,16.</ls> {#no luptaM saKi candanaM stanatawe#}
+<ls>Spr. 622.</ls>
+<ls>KATHĀS. 86,116.</ls> {#GarmaluptAmbusaMpad#}
+<ls n="KATHĀS.">87,31.</ls> <ls n="KATHĀS.">90,165.</ls> {#prakfti#}
+<ls>MBH. 5,797.</ls> {#°smfti#}
+<ls n="MBH.">14,37.</ls> {#°DarmakriyA#}
+<ls>M. 8,226.</ls>
+<ls>BHAG. 1,42.</ls>
+<ls>R. 5,51,14.</ls>
+<ls>RAGH. 3,40.</ls> <ls n="RAGH.">14,36.</ls> <ls n="RAGH. 14,">49.</ls> <ls n="RAGH. 14,">56.</ls>
+<ls>VARĀH. BṚH. 15,2.</ls>
+<ls>RĀJA-TAR. 1,358. 6,124. 298. 8,1816.</ls>
+<ls>ŚATR. 14,158.</ls>
+<ls>BHĀG. P. 3,15,9.</ls> <ls n="BHĀG. P.">4,2,13.</ls>
+<ls>MĀRK. P. 39,59.</ls> {#BavedaluptaSca muneH kriyArTaH#}
+<ls>RAGH. 2,55.</ls>
+<ls>BHĀG. P. 3,23,38.</ls> {#aluptaDarma#}
+<ls>MBH. 16,204.</ls>
+<ls>KATHĀS. 74,124.</ls> <ls n="KATHĀS.">78,7.</ls> <ls n="KATHĀS.">84,58.</ls> <ls>Schol.</ls> zu <ls>KAP. 1,19.</ls> {#SaSalupta/#} <lex>n.</lex> wohl {%das Verschwinden nach Hasenart%}
+<ls>P. 6,2,145</ls>, <ls>Sch.</ls>
+<div n="1">— 5) {#lu/pyati#} ({#vimohane#})
+<ls>DHĀTUP. 26,126.</ls> erhält den Bindevocal
+<ls>SIDDH. K.</ls> zu <ls>P. 7,2,10.</ls> {#lupyamAna#} {%sich verwirrend%}
+<ls>MAITRYUP. 3,2. 6,30</ls>; vgl. {#luB#} .
 <div n="v">— Vgl. {#anarTalupta, indralupta#} .
-
-<div n="p">— caus. {#lopayati#}, aor. {#alUlupat#} und {#alulopat#} 
-<ls>SIDDH. K.</ls> zu <ls>P.7,4,3.</ls> <ls>VOP.18,3.</ls> 
-<div n="1"> 1) {%Etwas unterlassen, versäumen; zuwiderhandeln, verletzen%}; mit acc. der Sache: {#kuto dAyA~llopayedbrAhmaRAnAm#} ({#dAyAllo°#} ed. Calc.) 
-<ls>MBH. 5, 714.</ls> {#pratyutTAnaM ca kfzRasya - na lopayati#} 
-<ls>7, 2822.</ls> {#yaTAvayo hi rAjyAni prApnuvanti nfpakzaye . ikzvAkukulanATe 'smiMstallopayitumicCasi (taM lo°#} ed. Bomb., der Comm. ergänzt {#AcAram#}) 
-<ls>R. 2, 35, 9.</ls> {#vikrItamAhitaM krItaM yatpitrA jIvatA mama . na tallopayituM SakyaM mayA#} 
-<ls>111, 28.</ls> {#Darmam#} 
-<ls>M. 8, 16.</ls> 
-<ls>MBH. 12, 3378.</ls> {#satyam#} 
-<ls>Spr. 4454.</ls> 
-<div n="1">— 2) {%Jmd um Etwas bringen, von Etwas abbringen%}: {#satyAdgurumalopayan#} 
-<ls>RAGH. 12, 9.</ls>
-
-<div n="p">— intens. {#lolupyate#} ({#BAvagarhAyAm#}) 
-<ls>P. 3, 1, 24.</ls> {%Jmd verwirren%}: {#na tvA kAmA bahavo lolupantaH#} 
-<ls>KAṬHOP. 2, 4.</ls>
-
-<div n="p">— {#apa#} 
-<div n="1"> 1) {%ausraufen, abtrennen%}: {#tfRAni#} 
-<ls>ŚAT. BR. 2, 4, 1, 9.</ls> {#tasmAddevAstamo 'pAlumpan#} 
-<ls>KĀṬH. 12, 13.</ls> 
-<div n="1">— 2) pass. {%abfallen%} 
-<ls>AIT. BR. 3, 19.</ls> {#ye ga\rBA a^va\padya^nte\ jaga\dyada^palu\pyate^#} {%fällt%} 
-<ls>AV. 5, 17, 7.</ls> 
+<div n="p">— caus. {#lopayati#}, aor. {#alUlupat#} und {#alulopat#}
+<ls>SIDDH. K.</ls> zu <ls>P. 7,4,3.</ls> <ls>VOP. 18,3.</ls>
+<div n="1"> 1) {%Etwas unterlassen, versäumen; zuwiderhandeln, verletzen%}; mit acc. der Sache: {#kuto dAyA~llopayedbrAhmaRAnAm#} ({#dAyAllo°#} <ls>ed. Calc.</ls>)
+<ls>MBH. 5,714.</ls> {#pratyutTAnaM ca kfzRasya — na lopayati#}
+<ls n="MBH.">7,2822.</ls> {#yaTAvayo hi rAjyAni prApnuvanti nfpakzaye . ikzvAkukulanATe 'smiMstallopayitumicCasi (taM lo°#} <ls>ed. Bomb.</ls>, der Comm. ergänzt {#AcAram#})
+<ls>R. 2,35,9.</ls> {#vikrItamAhitaM krItaM yatpitrA jIvatA mama . na tallopayituM SakyaM mayA#}
+<ls n="R. 2,">111,28.</ls> {#Darmam#}
+<ls>M. 8,16.</ls>
+<ls>MBH. 12,3378.</ls> {#satyam#}
+<ls>Spr. 4454.</ls>
+<div n="1">— 2) {%Jmd um Etwas bringen, von Etwas abbringen%}: {#satyAdgurumalopayan#}
+<ls>RAGH. 12,9.</ls>
+<div n="p">— intens. {#lolupyate#} ({#BAvagarhAyAm#})
+<ls>P. 3,1,24.</ls> {%Jmd verwirren%}: {#na tvA kAmA bahavo lolupantaH#}
+<ls>KAṬHOP. 2,4.</ls>
+<div n="p">— {#apa#}
+<div n="1"> 1) {%ausraufen, abtrennen%}: {#tfRAni#}
+<ls>ŚAT. BR. 2,4,1,9.</ls> {#tasmAddevAstamo 'pAlumpan#}
+<ls>KĀṬH. 12,13.</ls>
+<div n="1">— 2) pass. {%abfallen%}
+<ls>AIT. BR. 3,19.</ls> {#ye ga\rBA a^va\padya^nte\ jaga\dyada^palu\pyate^#} {%fällt%}
+<ls>AV. 5,17,7.</ls>
 <div n="v">— Vgl. {#apalup#} .
 [Page6-0562]
-
-<div n="p">— {#aBi#} {%rauben, plündern%}: {#cOrARAmaBilumpatAm#} 
-<ls>BHĀG. P. 4, 14, 38.</ls>
-
-<div n="p">— {#ava#} 
-<div n="1"> 1) {%abtrennen, abstreifen%} 
-<ls>TS. 3, 2, 2, 1.</ls> 
-<ls>TAITT. ĀR. 10, 31.</ls> {#avaluptajarAyu#} 
-<ls>ṢAḌV. BR. 1, 3. 2, 2.</ls> 
-<div n="1">— 2) {%Jmd packen, über Jmd herfallen%}: {#vfkavaccAvalumpeta#} 
-<ls>Spr. 2695.</ls> {#dvezwAramavalumpedyaTA vfkaH#} 
-<ls>3615. 478.</ls> {#vfkAvalupta/#} <lex>n.</lex> {%das Packen nach Wolfsart%} 
-<ls>P. 6, 2, 145,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 3) {%entreissen%}: {#anyo'nyasyAvalumpanti sArameyA yaTAmizam . rAjanyA BarataSrezWa BoktukAmA vasuMDarAm ..#} 
-<ls>MBH. 6, 381.</ls> 
-<div n="1">— 4) {%unterdrücken, verschwinden machen%}: {#sfjatIdamavyayo ya eva rakzatyavalumpate ca yaH#} 
-<ls>BHĀG. P. 7, 2, 39.</ls> {#ye budDyA kroDamutTitam . pradIptamavalumpanti dIptamagnimivAmBasA ..#} 
-<ls>Spr. 1311.</ls> 
+<div n="p">— {#aBi#} {%rauben, plündern%}: {#cOrARAmaBilumpatAm#}
+<ls>BHĀG. P. 4,14,38.</ls>
+<div n="p">— {#ava#}
+<div n="1"> 1) {%abtrennen, abstreifen%}
+<ls>TS. 3,2,2,1.</ls>
+<ls>TAITT. ĀR. 10,31.</ls> {#avaluptajarAyu#}
+<ls>ṢAḌV. BR. 1,3. 2,2.</ls>
+<div n="1">— 2) {%Jmd packen, über Jmd herfallen%}: {#vfkavaccAvalumpeta#}
+<ls>Spr. 2695.</ls> {#dvezwAramavalumpedyaTA vfkaH#}
+<ls n="Spr.">3615.</ls> <ls n="Spr.">478.</ls> {#vfkAvalupta/#} <lex>n.</lex> {%das Packen nach Wolfsart%}
+<ls>P. 6,2,145</ls>, <ls>Sch.</ls>
+<div n="1">— 3) {%entreissen%}: {#anyo'nyasyAvalumpanti sArameyA yaTAmizam . rAjanyA BarataSrezWa BoktukAmA vasuMDarAm ..#}
+<ls>MBH. 6,381.</ls>
+<div n="1">— 4) {%unterdrücken, verschwinden machen%}: {#sfjatIdamavyayo ya eva rakzatyavalumpate ca yaH#}
+<ls>BHĀG. P. 7,2,39.</ls> {#ye budDyA kroDamutTitam . pradIptamavalumpanti dIptamagnimivAmBasA ..#}
+<ls>Spr. 1311.</ls>
 <div n="v">— Vgl. {#avalumpana, avalopa#} fg.
-
-<div n="p">— {#anvava#} pass. {%nach Jmd abfallen%} 
-<ls>PAÑCAV. BR. 6, 3, 12.</ls>
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {%ausraufen%}: {#vAlAn#} 
-<ls>ŚAT. BR. 3, 4, 1, 17.</ls> {#tfRAni#} 
-<ls>KĀTY. ŚR. 25, 1, 18.</ls> 
-<div n="1">— 2) {%abtrennen%} 
-<ls>AIT. BR. 1, 17.</ls> 
-<div n="1">— 3) {%herabfallen lassen%} (in Theilen): {#yaTAjya^mAlu\mpetsru\co a\gnaye^#} 
-<ls>AV. 12, 4, 34.</ls> 
-<div n="1">— 4) pass. {%eine Störung erleiden, unterbrochen werden%}: {#asrEstAvanmuhurupacitErdfzwirAlupyate me#} 
+<div n="p">— {#anvava#} pass. {%nach Jmd abfallen%}
+<ls>PAÑCAV. BR. 6,3,12.</ls>
+<div n="p">— {#A#}
+<div n="1"> 1) {%ausraufen%}: {#vAlAn#}
+<ls>ŚAT. BR. 3,4,1,17.</ls> {#tfRAni#}
+<ls>KĀTY. ŚR. 25,1,18.</ls>
+<div n="1">— 2) {%abtrennen%}
+<ls>AIT. BR. 1,17.</ls>
+<div n="1">— 3) {%herabfallen lassen%} (in Theilen): {#yaTAjya^mAlu\mpetsru\co a\gnaye^#}
+<ls>AV. 12,4,34.</ls>
+<div n="1">— 4) pass. {%eine Störung erleiden, unterbrochen werden%}: {#asrEstAvanmuhurupacitErdfzwirAlupyate me#}
 <ls>MEGH. 103.</ls>
-
-<div n="p">— {#vyA#} {%zu Nichte machen%}: {#aNgaglAnim#} 
-<ls>MEGH. 71.</ls> pass. {%verschwinden, zu Nichte werden%} 
-<ls>LA. 20, 20.</ls>
-
-<div n="p">— {#ud#} {%herausgreifen, herausfischen%} 
-(z. B. aus einer Brühe): {#Gf\tAdullu^ptam#} 
-<ls>AV. 5, 28, 14.</ls> 
-<ls>SUŚR. 1, 230, 13. 17.</ls> 
-<ls>KAUŚ. 19. 72.</ls> {#ullopam#} absol. 43. 
+<div n="p">— {#vyA#} {%zu Nichte machen%}: {#aNgaglAnim#}
+<ls>MEGH. 71.</ls> pass. {%verschwinden, zu Nichte werden%}
+<ls>LA. 20,20.</ls>
+<div n="p">— {#ud#} {%herausgreifen, herausfischen%}
+(z. B. aus einer Brühe): {#Gf\tAdullu^ptam#}
+<ls>AV. 5,28,14.</ls>
+<ls>SUŚR. 1,230,13. 17.</ls>
+<ls>KAUŚ. 19. 72.</ls> {#ullopam#} absol. 43.
 <div n="v">— Vgl. {#ullopya#} .
-
-<div n="p">— {#samud#} {%aufgreifen, wegnehmen, to pick up%}: {#prastarO#} 
-<ls>ŚAT. BR. 2, 5, 2, 42. 6, 1, 45.</ls> {#samullupya yajYamanyatkartuM daDrire#} 
-<ls>9, 5, 1, 19.</ls> <ls>KĀTY. ŚR. 8, 2, 11.</ls>
-
-<div n="p">— {#ni#} {%rauben%}: {#nilopaM#} (absol.) {#harati#} 
+<div n="p">— {#samud#} {%aufgreifen, wegnehmen, to pick up%}: {#prastarO#}
+<ls>ŚAT. BR. 2,5,2,42. 6,1,45.</ls> {#samullupya yajYamanyatkartuM daDrire#}
+<ls n="ŚAT. BR.">9,5,1,19.</ls> <ls>KĀTY. ŚR. 8,2,11.</ls>
+<div n="p">— {#ni#} {%rauben%}: {#nilopaM#} (absol.) {#harati#}
 <ls>VYUTP. 127.</ls> {#nilopahAraka#} ebend.
-
-<div n="p">— {#pari#} 
-<div n="1"> 1) {%wegnehmen%} 
-<ls>AIT. BR. 6, 14.</ls> {%entfernen, zu Nichte machen%}: {#dIpikAlokaparilupyamAnatimiraBAra#} 
-<ls>DAŚAK. 72, 12. fg.</ls> pass. {%wegfallen%} 
-<ls>ṚV. PRĀT. 2, 4.</ls> 
-<div n="1">— 2) {%beseitigen%}: {#AcAryaSAstram - asmAkamapariluptaM yaTA syAt#} 
-<ls>Schol.</ls> zu <ls>ṚV. PRĀT. 1, 16.</ls> 
+<div n="p">— {#pari#}
+<div n="1"> 1) {%wegnehmen%}
+<ls>AIT. BR. 6,14.</ls> {%entfernen, zu Nichte machen%}: {#dIpikAlokaparilupyamAnatimiraBAra#}
+<ls>DAŚAK. 72,12. fg.</ls> pass. {%wegfallen%}
+<ls>ṚV. PRĀT. 2,4.</ls>
+<div n="1">— 2) {%beseitigen%}: {#AcAryaSAstram — asmAkamapariluptaM yaTA syAt#}
+<ls>Schol.</ls> zu <ls>ṚV. PRĀT. 1,16.</ls>
 <div n="v">— Vgl. {#parilopa#} .
-
-<div n="p">— {#vipari#}, partic. {#°lupta#} {%aufgehoben, zu Nichte gemacht%} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 213.</ls> 
+<div n="p">— {#vipari#}, partic. {#°lupta#} {%aufgehoben, zu Nichte gemacht%}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 213.</ls>
 <div n="v">— Vgl. {#viparilopa#} .
-
-<div n="p">— {#pra#} 
-<div n="1"> 1) {%ausraufen%}: {#darBAnkecitpralumpanti hastEH#} 
-<ls>HARIV. 12228.</ls> 
-<div n="1">— 2) {%rauben%}: {#brAhmaRasya praSAntasya havirDvANkzEH pralupyate#} 
-<ls>Spr. 1998.</ls> {#kravyAdBiraNgalatikA niyataM praluptA (viluptA#} ed. Cow.) 
-<ls>UTTARAR. 56, 6.</ls> {#mahAmohapraluptasmfti#} 
-<ls>Spr. 3719.</ls> {#praluptaH pitfpiRqataH#} {%gekommen um%} 
-<ls>MĀRK. P. 31, 1.</ls> 
+<div n="p">— {#pra#}
+<div n="1"> 1) {%ausraufen%}: {#darBAnkecitpralumpanti hastEH#}
+<ls>HARIV. 12228.</ls>
+<div n="1">— 2) {%rauben%}: {#brAhmaRasya praSAntasya havirDvANkzEH pralupyate#}
+<ls>Spr. 1998.</ls> {#kravyAdBiraNgalatikA niyataM praluptA (viluptA#} ed. Cow.)
+<ls>UTTARAR. 56,6.</ls> {#mahAmohapraluptasmfti#}
+<ls>Spr. 3719.</ls> {#praluptaH pitfpiRqataH#} {%gekommen um%}
+<ls>MĀRK. P. 31,1.</ls>
 <div n="v">— Vgl. {#pralopa#} .
-
-<div n="p">— {#vipra#} 
-<div n="1"> 1) {%entreissen, rauben%}: {#uBayorhastayormuktaM yadannamupanIyate . tadvipralumpantyasurAH sahasA#} 
-<ls>M. 3, 225.</ls> 
-<ls>MBH. 13, 4292.</ls> {#vipraluptaM ca vo rAjyaM nfSaMsena#} 
-<ls>5, 2834.</ls> 
-<div n="1">— 2) {%heimsuchen%}: {#prajA yasya - anarTErvipralupyante#} 
-<ls>MBH. 12, 5242.</ls> 
-<div n="1">— 3) {%stören, unterbrechen%}: {#tapaH - tadvipraluptam#} 
-<ls>BHĀG. P. 7, 8, 43.</ls>
-
-<div n="p">— {#saMpra#} {%rauben%} oder {%schänden%}: {#kumAryaH saMpralupyante#} 
-<ls>MBH. 12, 3401.</ls>
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%zerreissen, zerpflücken, abreissen%}: {#SakuntanivahErvizvagviluptacCadaH#} ({#taruH#}) 
-<ls>Spr. 922.</ls> {#mArjAra iva durvfttastameva#} ({#hastam#}) {#hi vilumpati#} 
-<ls>1166.</ls> {%ausreissen%}: {#mUQasyANge 'Nge loma loma me . naKErvyalumpandantESca#} 
-<ls>KATHĀS. 37, 127.</ls> {#vilumpantaSca keSAMSca majjASca bahuDA#} 
-<ls>MBH. 7, 3586.</ls> {#vapAm#} 
-<ls>1976.</ls> 
-<div n="1">— 2) {%entreissen, wegnehmen, fortnehmen, rauben%}: {#yajamAnasya retaH#} 
-<ls>AIT. BR. 6, 9.</ls> {#dUrSam#} 
-<ls>KAUŚ. 85.</ls> {#parasparaM vilumpanti sArameyA yaTAmizam#} 
-<ls>MBH. 12, 4489.</ls> {#rakzAMsi hi vilumpanti SrAdDamArakzavarjitam#} 
-<ls>M. 3, 204.</ls> 
-<ls>Spr. 478, v. l.</ls> 
-<ls>BHĀG. P. 5, 13, 10. 14, 2.</ls> {#yAsAM baliH - haMsESca sArasagaRESca #}
+<div n="p">— {#vipra#}
+<div n="1"> 1) {%entreissen, rauben%}: {#uBayorhastayormuktaM yadannamupanIyate . tadvipralumpantyasurAH sahasA#}
+<ls>M. 3,225.</ls>
+<ls>MBH. 13,4292.</ls> {#vipraluptaM ca vo rAjyaM nfSaMsena#}
+<ls n="MBH.">5,2834.</ls>
+<div n="1">— 2) {%heimsuchen%}: {#prajA yasya — anarTErvipralupyante#}
+<ls>MBH. 12,5242.</ls>
+<div n="1">— 3) {%stören, unterbrechen%}: {#tapaH — tadvipraluptam#}
+<ls>BHĀG. P. 7,8,43.</ls>
+<div n="p">— {#saMpra#} {%rauben%} oder {%schänden%}: {#kumAryaH saMpralupyante#}
+<ls>MBH. 12,3401.</ls>
+<div n="p">— {#vi#}
+<div n="1"> 1) {%zerreissen, zerpflücken, abreissen%}: {#SakuntanivahErvizvagviluptacCadaH#} ({#taruH#})
+<ls>Spr. 922.</ls> {#mArjAra iva durvfttastameva#} ({#hastam#}) {#hi vilumpati#}
+<ls n="Spr.">1166.</ls> {%ausreissen%}: {#mUQasyANge 'Nge loma loma me . naKErvyalumpandantESca#}
+<ls>KATHĀS. 37,127.</ls> {#vilumpantaSca keSAMSca majjASca bahuDA#}
+<ls>MBH. 7,3586.</ls> {#vapAm#}
+<ls n="MBH. 7,">1976.</ls>
+<div n="1">— 2) {%entreissen, wegnehmen, fortnehmen, rauben%}: {#yajamAnasya retaH#}
+<ls>AIT. BR. 6,9.</ls> {#dUrSam#}
+<ls>KAUŚ. 85.</ls> {#parasparaM vilumpanti sArameyA yaTAmizam#}
+<ls>MBH. 12,4489.</ls> {#rakzAMsi hi vilumpanti SrAdDamArakzavarjitam#}
+<ls>M. 3,204.</ls>
+<ls>Spr. 478, v. l.</ls>
+<ls>BHĀG. P. 5,13,10.</ls> <ls n="BHĀG. P. 5,">14,2.</ls> {#yAsAM baliH — haMsESca sArasagaRESca #}
 [Page6-0563]
-{# viluptapUrvaH#} 
-<ls>MṚCCH. 6, 18.</ls> {#taskaraviluptavittAH#} 
-<ls>VARĀH. BṚH. S. 3, 14.</ls> {#kravyAdBiraNgalatikA niyataM viluptA#} 
-<ls>UTTARAR. ed. Cow. 72, 12</ls> ({#praluptA#} die ältere Ausg.). {%plündern%}: {#purIm#} 
-<ls>BHĀG. P. 4, 27, 14.</ls> {#sArTam#} 
-<ls>5, 13, 2. 26, 27. 7, 7, 6.</ls> {#rAzwraM surakzitaM tAta SatruBirna vilupyate#} 
-<ls>MBH. 2, 161.</ls> 
-<ls>VARĀH. BṚH. S. 71, 8.</ls> 
-<div n="1">— 3) {%zerstören, zu Grunde richten, zu Nichte machen%}: {#yo rakziByaH saMpradAya rAjA rAzwraM vilumpati#} 
-<ls>MBH. 13, 3084.</ls> {#yajYavAwaM vilulupuH#} 
-<ls>HARIV. 8010.</ls> {#paSupakzimanuzyAdyEH pattrapuzpaPalAnvitam . vfkzaM vilupyamAnaM dfzwvA#} 
-<ls>MĀRK. P. 43, 53.</ls> {#saMrakzAmi vilumpAmi#} 
-<ls>MBH. 12, 8130. 14, 2699.</ls> {#vilumpanvisfjangfhRan#} 
-<ls>BHĀG. P. 2, 9, 26.</ls> 
-<ls>NAIṢ. 22, 54.</ls> {#kAmakroDO SarIrasTO prajYAnaM tO vilumpataH#} 
-<ls>Spr. 3999. 2872.</ls> {#satAM mArgAn#} 
-<ls>MBH. 12, 5895.</ls> {#vilupya SAsanAnyanyAni#} 
-<ls>ŚATR. 14, 282. 191.</ls> {#tasya yajYo hi rakzoBistadA vilulupe kila#} 
-<ls>R. 1, 20, 3 (21, 2. GORR.).</ls> med. und pass. {%zerfallen, zu Grunde gehen, zu Nichte werden, verschwinden, fehlen, nicht da sein%}: {#vilumpatAmaGam#} 
-<ls>KAUŚ. 85.</ls> {#mAhaM prARAnAM vasUnAM maDye yajYo vilopsIya#} 
-<ls>CHĀND. UP. 3, 16, 2.</ls> {#vi taTA CandAMsi lupyeran#} 
-<ls>AIT. BR. 6, 2.</ls> {#smftirmama vilupyate#} 
-<ls>R. 2, 64, 63.</ls> {#vadanaM kAntamArtAyA vEdehyA na vilupyate#} 
-<ls>R. GORR. 2, 60, 15.</ls> {#kapitve ca nAsya prajYA vilupyate#} 
-<ls>KATHĀS. 37, 111. 68, 45.</ls> {#Darmo vi°#} 
-<ls>MĀRK. P. 77, 18.</ls> <ls>WEBER, <is>Nakṣ</is>. 2, 286.</ls> {#vilupta#} {%zu Grunde gegangen u.s.w.%} 
-<ls>MBH. 1, 6251.</ls> 
-<ls>RAGH. 9, 82. 15, 2. 16, 59. 19, 32.</ls> 
-<ls>KUMĀRAS. 4, 2.</ls> <ls>GAUNARDA</ls> bei <ls>MALLIN.</ls> zu <ls>KUMĀRAS. 7, 95.</ls> <ls>KATHĀS. 90, 175. 101, 387. 106, 146.</ls> <ls>SĀH. D. 306, 1.</ls> {#avilupta#} 
-<ls>KATHĀS. 65, 35.</ls> 
-<ls>RĀJA-TAR. 5, 5.</ls> 
-<ls>BHĀG. P. 3, 7, 5.</ls> 
-<div n="v">— Vgl. {#vilopa#} fgg. — caus. {%es fehlen lassen an%} (acc.), {%vorenthalten, entziehen%}: {#kAle sTAne ca pAtre ca nahi vfttiM vilopayet#} ({#rAjA#}) 
-<ls>KĀM. NĪTIS. 5, 65.</ls> {%verschwinden —, zu Nichte machen, unterdrücken%}: {#tena (vAtena) tatra pradIpaH sa dIpyamAno vilopitaH#} so v. a. {%ausgelöscht%} 
-<ls>MBH. 1, 5233.</ls> {#na ca DarmaM vilopaye#} 
-<ls>12, 5627.</ls> {#DarmArTe ca vilopite#} 
-<ls>1, 7752.</ls>
-
-<div n="p">— {#pravi#}, partic. {#°lupta#} {%verschwunden, entfernt, zu Nichte geworden%} 
-<ls>KUMĀRAS. 5, 8.</ls> 
-<ls>KATHĀS. 103, 206.</ls> — caus. {%aufgeben, fahren lassen%}: {#prAkkarma pravilopyatAM citibalAnnApyuttare SlizyatAm#} 
+{# viluptapUrvaH#}
+<ls>MṚCCH. 6,18.</ls> {#taskaraviluptavittAH#}
+<ls>VARĀH. BṚH. S. 3,14.</ls> {#kravyAdBiraNgalatikA niyataM viluptA#}
+<ls>UTTARAR. ed. Cow. 72,12</ls> ({#praluptA#} die ältere Ausg.). {%plündern%}: {#purIm#}
+<ls>BHĀG. P. 4,27,14.</ls> {#sArTam#}
+<ls n="BHĀG. P.">5,13,2.</ls> <ls n="BHĀG. P. 5,">26,27.</ls> <ls n="BHĀG. P.">7,7,6.</ls> {#rAzwraM surakzitaM tAta SatruBirna vilupyate#}
+<ls>MBH. 2,161.</ls>
+<ls>VARĀH. BṚH. S. 71,8.</ls>
+<div n="1">— 3) {%zerstören, zu Grunde richten, zu Nichte machen%}: {#yo rakziByaH saMpradAya rAjA rAzwraM vilumpati#}
+<ls>MBH. 13,3084.</ls> {#yajYavAwaM vilulupuH#}
+<ls>HARIV. 8010.</ls> {#paSupakzimanuzyAdyEH pattrapuzpaPalAnvitam . vfkzaM vilupyamAnaM dfzwvA#}
+<ls>MĀRK. P. 43,53.</ls> {#saMrakzAmi vilumpAmi#}
+<ls>MBH. 12,8130.</ls> <ls n="MBH.">14,2699.</ls> {#vilumpanvisfjangfhRan#}
+<ls>BHĀG. P. 2,9,26.</ls>
+<ls>NAIṢ. 22,54.</ls> {#kAmakroDO SarIrasTO prajYAnaM tO vilumpataH#}
+<ls>Spr. 3999.</ls> <ls n="Spr.">2872.</ls> {#satAM mArgAn#}
+<ls>MBH. 12,5895.</ls> {#vilupya SAsanAnyanyAni#}
+<ls>ŚATR. 14,282. 191.</ls> {#tasya yajYo hi rakzoBistadA vilulupe kila#}
+<ls>R. 1,20,3</ls> (<ls n="GORR. 1,">21,2.</ls> <ls>GORR.</ls>). med. und pass. {%zerfallen, zu Grunde gehen, zu Nichte werden, verschwinden, fehlen, nicht da sein%}: {#vilumpatAmaGam#}
+<ls>KAUŚ. 85.</ls> {#mAhaM prARAnAM vasUnAM maDye yajYo vilopsIya#}
+<ls>CHĀND. UP. 3,16,2.</ls> {#vi taTA CandAMsi lupyeran#}
+<ls>AIT. BR. 6,2.</ls> {#smftirmama vilupyate#}
+<ls>R. 2,64,63.</ls> {#vadanaM kAntamArtAyA vEdehyA na vilupyate#}
+<ls>R. GORR. 2,60,15.</ls> {#kapitve ca nAsya prajYA vilupyate#}
+<ls>KATHĀS. 37,111.</ls> <ls n="KATHĀS.">68,45.</ls> {#Darmo vi°#}
+<ls>MĀRK. P. 77,18.</ls> <ls>WEBER, Nakṣ. 2,286.</ls> {#vilupta#} {%zu Grunde gegangen u.s.w.%}
+<ls>MBH. 1,6251.</ls>
+<ls>RAGH. 9,82.</ls> <ls n="RAGH.">15,2.</ls> <ls n="RAGH.">16,59.</ls> <ls n="RAGH.">19,32.</ls>
+<ls>KUMĀRAS. 4,2.</ls> <ls>GAUNARDA</ls> bei <ls>MALLIN.</ls> zu <ls>KUMĀRAS. 7,95.</ls> <ls>KATHĀS. 90,175.</ls> <ls n="KATHĀS.">101,387.</ls> <ls n="KATHĀS.">106,146.</ls> <ls>SĀH. D. 306,1.</ls> {#avilupta#}
+<ls>KATHĀS. 65,35.</ls>
+<ls>RĀJA-TAR. 5,5.</ls>
+<ls>BHĀG. P. 3,7,5.</ls>
+<div n="v">— Vgl. {#vilopa#} fgg. — caus. {%es fehlen lassen an%} (acc.), {%vorenthalten, entziehen%}: {#kAle sTAne ca pAtre ca nahi vfttiM vilopayet#} ({#rAjA#})
+<ls>KĀM. NĪTIS. 5,65.</ls> {%verschwinden —, zu Nichte machen, unterdrücken%}: {#tena (vAtena) tatra pradIpaH sa dIpyamAno vilopitaH#} so v. a. {%ausgelöscht%}
+<ls>MBH. 1,5233.</ls> {#na ca DarmaM vilopaye#}
+<ls n="MBH.">12,5627.</ls> {#DarmArTe ca vilopite#}
+<ls n="MBH.">1,7752.</ls>
+<div n="p">— {#pravi#}, partic. {#°lupta#} {%verschwunden, entfernt, zu Nichte geworden%}
+<ls>KUMĀRAS. 5,8.</ls>
+<ls>KATHĀS. 103,206.</ls> — caus. {%aufgeben, fahren lassen%}: {#prAkkarma pravilopyatAM citibalAnnApyuttare SlizyatAm#}
 <ls>Spr. 3836.</ls>
-
-<div n="p">— {#sam#} {%zupfen, zerren; wegreissen%}: {#sarvA^H sa\Mlupye\taH kf\tyAH puna^H ka\rtre pra hi^Rmasi#} 
-<ls>AV. 10, 1, 30.</ls> 
-<ls>KĀṬH. 21, 7.</ls> {#yonimanuparAmfSya saMlupyAcCinat#} 
-<ls>ŚAT. BR. 5, 5, 5, 6.</ls> — caus. {%zerstören, zu Grunde richten%}: {#samalUlupan#} 
-<ls>MBH. 8, 1423.</ls>
+<div n="p">— {#sam#} {%zupfen, zerren; wegreissen%}: {#sarvA^H sa\Mlupye\taH kf\tyAH puna^H ka\rtre pra hi^Rmasi#}
+<ls>AV. 10,1,30.</ls>
+<ls>KĀṬH. 21,7.</ls> {#yonimanuparAmfSya saMlupyAcCinat#}
+<ls>ŚAT. BR. 5,5,5,6.</ls> — caus. {%zerstören, zu Grunde richten%}: {#samalUlupan#}
+<ls>MBH. 8,1423.</ls>
 <LEND>

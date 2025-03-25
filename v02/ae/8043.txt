@@ -1,20 +1,20 @@
 <L>8043<pc>347<k1>plough<k2>plough
 {@Plough,@}¦ {%s.%} {#halaM, lAMgalaM, sI(SI)raH, hAlaH,#}
-<div n="lb"/>{#godAraRaM;#} ‘body of a p.’ {#nirISaM-zaM; kuwakaM,#}
-<div n="lb"/>{#PAlaH, kfzakaH;#} ‘pole of a p.’ {#IzA-SA,#} ({#lAMga-#}
-<div n="lb"/>{#-lIzA#}), {#lAMgaladaMqaH;#} ‘handle of a p.’ {#IzA-#}
-<div n="lb"/>{#-daMqaH;#} ‘furrow made by a p.’ {#sItA,#}
-<div n="lb"/>{#lAMgalapadDati#} {%f.;%} ‘p.-boy’ {#bAlakarzakaH;#}
-<div n="lb"/>‘p.-gear’ {#halasajjA-upakaraRaM;#} ‘p.-land’
-<div n="lb"/>{#sItyaM, halyaM, PAlakfzwaM, halyakzetraM;#} ‘p.-
-<div n="lb"/>-man’ {#hAlikaH, lAMgalin#} {%m.,%} {#halin#} {%m.%} {#lAMga-#}
-<div n="lb"/>{#-likaH, sErikaH, halaDaraH-Bft#} {%m.%} {#kfzakaH, karzakaH;#}
-<div n="lb"/>‘p.-share’ {#kuSI, PAlaH, kfzakaH#}. {%-v. i.%}
-<div n="lb"/>{#kfz#} 1 P, 6 U, {#Bid#} 7 P, {#vidF#} 9 P or c.,
-<div n="lb"/>{#utkaz#} 1 P, ({#sadyaH sIrotkazaRasuraBi#} Me.
-<div n="lb"/>16). {%-v. i.%} {#halaM vah#} c. or {#cal#} c. {@-ed,@} {%a.%}
-<div n="lb"/>{#kfzwa, halya, sItya;#} ‘twice, thrice, p.’
-<div n="lb"/>{#dvi-tri-halya;#} ‘p. after sowing’ {#bIjA-#}
-<div n="lb"/>{#-kfta, uptakfzwa#}. {@-er,@} {%s.%} {#karzakaH, hAlikaH#}.
-<div n="lb"/>-{@ing,@} {%s.%} {#karzaRaM, utkarzaRaM, BUmidAraRaM#}.
+{#godAraRaM;#} ‘body of a p.’ {#nirISaM-zaM; kuwakaM,#}
+{#PAlaH, kfzakaH;#} ‘pole of a p.’ {#IzA-SA,#} ({#lAMga-#}
+{#-lIzA#}), {#lAMgaladaMqaH;#} ‘handle of a p.’ {#IzA-#}
+{#-daMqaH;#} ‘furrow made by a p.’ {#sItA,#}
+{#lAMgalapadDati#} {%f.;%} ‘p.-boy’ {#bAlakarzakaH;#}
+‘p.-gear’ {#halasajjA-upakaraRaM;#} ‘p.-land’
+{#sItyaM, halyaM, PAlakfzwaM, halyakzetraM;#} ‘p.-
+-man’ {#hAlikaH, lAMgalin#} {%m.,%} {#halin#} {%m.%} {#lAMga-#}
+{#-likaH, sErikaH, halaDaraH-Bft#} {%m.%} {#kfzakaH, karzakaH;#}
+‘p.-share’ {#kuSI, PAlaH, kfzakaH#}. {%-v. i.%}
+{#kfz#} 1 P, 6 U, {#Bid#} 7 P, {#vidF#} 9 P or c.,
+{#utkaz#} 1 P, ({#sadyaH sIrotkazaRasuraBi#} Me.
+16). {%-v. i.%} {#halaM vah#} c. or {#cal#} c. {@-ed,@} {%a.%}
+{#kfzwa, halya, sItya;#} ‘twice, thrice, p.’
+{#dvi-tri-halya;#} ‘p. after sowing’ {#bIjA-#}
+{#-kfta, uptakfzwa#}. {@-er,@} {%s.%} {#karzakaH, hAlikaH#}.
+-{@ing,@} {%s.%} {#karzaRaM, utkarzaRaM, BUmidAraRaM#}.
 <LEND>

@@ -1,8 +1,8 @@
 <L>8012<pc>184-b<k1>diplomacy<k2>diplomacy
-<div n="lb"/>DIPLOMACY¦, {%s.%} (State of acting under a diploma) {#prAptADikArasya#}
-<div n="lb"/>{#padaM#} or {#avasTA#}. — (Privileges or customs of ambassadors)
-<div n="lb"/>{#dUtADikAraH, rAjadUtavyavahAraH#}. — (Body of ambassadors) {#dUtasamUhaH,#}
-<div n="lb"/>{#rAjadUtamaRqalaM#}. — (Business of an ambassador) {#rAjadUtavyApAraH,#}
-<div n="lb"/>{#rAjapratiniDikarmma#} {%n.%} {#(n), dOtyakarmma#}. — (Dexterity in negotia-
-<div n="lb"/>tion) {#mAyA#}.
+DIPLOMACY¦, {%s.%} (State of acting under a diploma) {#prAptADikArasya#}
+{#padaM#} or {#avasTA#}. — (Privileges or customs of ambassadors)
+{#dUtADikAraH, rAjadUtavyavahAraH#}. — (Body of ambassadors) {#dUtasamUhaH,#}
+{#rAjadUtamaRqalaM#}. — (Business of an ambassador) {#rAjadUtavyApAraH,#}
+{#rAjapratiniDikarmma#} {%n.%} {#(n), dOtyakarmma#}. — (Dexterity in negotia-
+tion) {#mAyA#}.
 <LEND>

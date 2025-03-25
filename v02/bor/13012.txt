@@ -1,4 +1,4 @@
 <L>13012<pc>401<k1>kidney-bean<k2>kidney-bean
-<div n="lb"/>{@KIDNEY-BEAN:@}¦ {#Si (si) mbA#} ({#mbi:#} <div n="xe">{%or%}</div> <div n="xs">{#mbI#}</div>);
-<div n="lb"/>{#Si#} ({#si#}) {#mbikA.#}
+{@KIDNEY-BEAN:@}¦ {#Si (si) mbA#} ({#mbi:#} <div n="xe">{%or%}</div> <div n="xs">{#mbI#}</div>);
+{#Si#} ({#si#}) {#mbikA.#}
 <LEND>

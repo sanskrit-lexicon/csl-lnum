@@ -1,5 +1,5 @@
 <L>13773<pc>423<k1>look after<k2>look after
-<div n="lb"/>{@LOOK AFTER:@}¦ <div n="I">I To attend: q. v.: </div><div n="1">(1) {#paSyati;#}</div>
-<div n="lb"/><div n="1">(2) {#avekzate.#} </div><div n="I">II To expect: q. v.: {#prekzate.#} </div><div n="I">III
-<div n="lb"/>To search: q. v.: </div><div n="1">(1) {#paSyati;#} </div><div n="1">(2) {#avekzate.#}</div>
+{@LOOK AFTER:@}¦ <div n="I">I To attend: q. v.: </div><div n="1">(1) {#paSyati;#}</div>
+<div n="1">(2) {#avekzate.#} </div><div n="I">II To expect: q. v.: {#prekzate.#} </div><div n="I">III
+To search: q. v.: </div><div n="1">(1) {#paSyati;#} </div><div n="1">(2) {#avekzate.#}</div>
 <LEND>

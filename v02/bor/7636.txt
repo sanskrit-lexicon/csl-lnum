@@ -1,8 +1,8 @@
 <L>7636<pc>241<k1>enquiry<k2>enquiry
-<div n="lb"/>{@ENQUIRY:@}¦ <div n="I">I Asking: {#anuyogaH,#} <div n="xe">{%whoever I may%}
-<div n="lb"/>{%be (you) should make no e.:%}</div> <div n="xs">{#yAsmi sAsmyAnuyogo #}
-<div n="lb"/>{# me na kartavyaH,#}</div> Mah. </div><div n="I">II Seeking to know:
-<div n="lb"/>{#jijYAsA,#} <div n="xe">{%e. after duties:%}</div> <div n="xs">{#DarmajijYAsA,#}</div> M. d.; <div n="xe">{%a%}
-<div n="lb"/>{%subject of e.:%}</div> <div n="xs">{#jijYAsyam,#}</div> S. </div><div n="I">III Examination,
-<div n="lb"/>consideration: q. v.: {#anusanDAnam.#}</div>
+{@ENQUIRY:@}¦ <div n="I">I Asking: {#anuyogaH,#} <div n="xe">{%whoever I may%}
+{%be (you) should make no e.:%}</div> <div n="xs">{#yAsmi sAsmyAnuyogo #}
+{# me na kartavyaH,#}</div> Mah. </div><div n="I">II Seeking to know:
+{#jijYAsA,#} <div n="xe">{%e. after duties:%}</div> <div n="xs">{#DarmajijYAsA,#}</div> M. d.; <div n="xe">{%a%}
+{%subject of e.:%}</div> <div n="xs">{#jijYAsyam,#}</div> S. </div><div n="I">III Examination,
+consideration: q. v.: {#anusanDAnam.#}</div>
 <LEND>

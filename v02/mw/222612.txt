@@ -1,3 +1,3 @@
-<L>222612<pc>1097,1<k1>SrAvikA<k2>SrAvikA<h>b<e>2
-<s>SrAvikA</s> <hom>b</hom> ¦ <lex>f.</lex> a female <s1 slp1="SrAvaka">Śrāvaka</s1> (See above; two female disciples of the <s1 slp1="budDa">Buddha</s1> were called <s>agraSrAvikA</s>, ‘chief female disciples’), <ls>Śatr.</ls>; <ls>MWB. 48.</ls><info lex="f"/>
+<L>222612<pc>1097,1<k1>SrAvikA<k2>SrAvikA<e>2
+<s>SrAvikA</s> ¦ <lex>f.</lex> a female <s1>Śrāvaka</s1> (see above; two female disciples of the <s1>Buddha</s1> were called <s>agraSrAvikA</s>, ‘chief female disciples’), <ls>Śatr.</ls>; <ls>MWB. 48.</ls><info lex="f"/><info hui="b"/>
 <LEND>

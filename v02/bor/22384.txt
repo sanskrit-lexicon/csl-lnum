@@ -1,13 +1,13 @@
 <L>22384<pc>705<k1>than<k2>than
-<div n="lb"/>{@THAN:@}¦ <div n="1">(1) by abl., <div n="xe">{%the people of Mathurā are%}
-<div n="lb"/>{%richer t. the people of Pātnā:%}</div> <div n="xs">{#mATurAH pAwalIputraBya #}
-<div n="lb"/>{# AQyatarAH,#}</div> S. k.; <div n="xe">{%swifter t. the mind:%}</div> <div n="xs">{#manaso'pyA-#}
-<div n="lb"/>{#Sutaram,#}</div> Ki. xiii. 22.; <div n="xe">{%and the king who gave%}
-<div n="lb"/>{%more t. was asked for:%}</div> <div n="xs">{#nfpo'rTikAmAdaDikapradaSca,#}</div> R.
-<div n="lb"/>v. 31.; <div n="xe">{%dearer to you t. I.:%}</div> <div n="xs">{#mattaH priyatarastava,#}</div> K.;</div>
-<div n="lb"/><div n="1">(2) sometimes by comp., <div n="xe">{%more t. twenty%}
-<div n="lb"/>{%times:%}</div> <div n="xs">{#aDikaviMSAn vArAn,#}</div> Au.: v. Also more.
-<div n="lb"/>N.B. In old books the {%ins.%} is often used for
-<div n="lb"/>the <div n="xe">{%abl.:%}</div> <div n="xs">{#ko'nvasti duHKitataro mayA duzkftakarmaRA,#}</div>
-<div n="lb"/>Ram. ii. 59. 30.</div>
+{@THAN:@}¦ <div n="1">(1) by abl., <div n="xe">{%the people of Mathurā are%}
+{%richer t. the people of Pātnā:%}</div> <div n="xs">{#mATurAH pAwalIputraBya #}
+{# AQyatarAH,#}</div> S. k.; <div n="xe">{%swifter t. the mind:%}</div> <div n="xs">{#manaso'pyA-#}
+{#Sutaram,#}</div> Ki. xiii. 22.; <div n="xe">{%and the king who gave%}
+{%more t. was asked for:%}</div> <div n="xs">{#nfpo'rTikAmAdaDikapradaSca,#}</div> R.
+v. 31.; <div n="xe">{%dearer to you t. I.:%}</div> <div n="xs">{#mattaH priyatarastava,#}</div> K.;</div>
+<div n="1">(2) sometimes by comp., <div n="xe">{%more t. twenty%}
+{%times:%}</div> <div n="xs">{#aDikaviMSAn vArAn,#}</div> Au.: v. Also more.
+N.B. In old books the {%ins.%} is often used for
+the <div n="xe">{%abl.:%}</div> <div n="xs">{#ko'nvasti duHKitataro mayA duzkftakarmaRA,#}</div>
+Ram. ii. 59. 30.</div>
 <LEND>

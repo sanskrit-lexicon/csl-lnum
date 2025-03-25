@@ -1,9 +1,9 @@
 <L>9870<pc>312<k1>gift<k2>gift
-<div n="lb"/>{@GIFT@}¦ (subs.): <div n="I">I A present: q.v.: </div><div n="1">(1) {#dAnam,#}
-<div n="lb"/><div n="xe">{%great g.:%}</div> <div n="xs">{#mahAdAnam,#}</div> He.; </div><div n="1">(2) {#dattam,#} {%g.s from brothers:%}
-<div n="lb"/>{#BrAtfdattam,#} N.s.; </div><div n="1">(3) {#dAyaH#} (rare), {%g. of love:%}
-<div n="lb"/>{#prItidAyaH,#} Ram. </div><div n="I">II An endowment: <div n="xe">{%you%}
-<div n="lb"/>{%have all the g.s of nature:%}</div> <div n="xs">{#*sarvARi te svAmAvikA-#}
-<div n="lb"/>{#nyaBilazaRIyAni santi; SaktiH#}</div> (= faculty,
-<div n="lb"/>power).</div>
+{@GIFT@}¦ (subs.): <div n="I">I A present: q.v.: </div><div n="1">(1) {#dAnam,#}
+<div n="xe">{%great g.:%}</div> <div n="xs">{#mahAdAnam,#}</div> He.; </div><div n="1">(2) {#dattam,#} {%g.s from brothers:%}
+{#BrAtfdattam,#} N.s.; </div><div n="1">(3) {#dAyaH#} (rare), {%g. of love:%}
+{#prItidAyaH,#} Ram. </div><div n="I">II An endowment: <div n="xe">{%you%}
+{%have all the g.s of nature:%}</div> <div n="xs">{#*sarvARi te svAmAvikA-#}
+{#nyaBilazaRIyAni santi; SaktiH#}</div> (= faculty,
+power).</div>
 <LEND>

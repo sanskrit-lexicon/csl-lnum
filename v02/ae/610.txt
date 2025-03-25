@@ -1,7 +1,7 @@
 <L>610<pc>022<k1>astrology<k2>astrology
 {@Astrology,@}¦ {%s.%} {#jyotizaM, nakzatravidyA, dEvajYa-#}
-<div n="lb"/>{#-vidyA#}. {@-er,@} {%s.%} {#gaRakaH, dEvajYaH, jyotizikaH,#}
-<div n="lb"/>{#kArtAMtikaH, dEvaciMtakaH, mOhUrtikaH, sAMvatsari-#}
-<div n="lb"/>{#-kaH#}. {@-ical,@} {%a.%} {#jyotiza#} ({#zI#} {%f.%}), {#nakzatra#} in
-<div n="lb"/>comp.
+{#-vidyA#}. {@-er,@} {%s.%} {#gaRakaH, dEvajYaH, jyotizikaH,#}
+{#kArtAMtikaH, dEvaciMtakaH, mOhUrtikaH, sAMvatsari-#}
+{#-kaH#}. {@-ical,@} {%a.%} {#jyotiza#} ({#zI#} {%f.%}), {#nakzatra#} in
+comp.
 <LEND>

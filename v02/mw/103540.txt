@@ -1,3 +1,3 @@
-<L>103540<pc>527,1<k1>nandA<k2>nandA<h>b<e>2
-<s>nandA</s> <hom>b</hom> ¦ <lex>f.</lex> of <s>nanda</s> <ab>q.v.</ab><info lex="f"/>
+<L>103540<pc>527,1<k1>nandA<k2>nandA<e>2
+<s>nandA</s> ¦ <lex>f.</lex> of <s>nanda</s>, <ab>q.v.</ab><info lex="f"/><info hui="b"/>
 <LEND>

@@ -1,4 +1,4 @@
 <L>935<pc>033<k1>appellate<k2>appellate
-<div n="lb"/>{@APPELLATE:@}¦ Ph. <div n="xe">{%a. jurisdiction%}</div> <div n="xs">{#*punarvicArADikAraH;#}</div>
-<div n="lb"/><div n="xe">{%a. court%}</div> <div n="xs">{#ye prAqvivAkAH punarvicAraprArTanAM Srotumarhanti.#}</div>
+{@APPELLATE:@}¦ Ph. <div n="xe">{%a. jurisdiction%}</div> <div n="xs">{#*punarvicArADikAraH;#}</div>
+<div n="xe">{%a. court%}</div> <div n="xs">{#ye prAqvivAkAH punarvicAraprArTanAM Srotumarhanti.#}</div>
 <LEND>

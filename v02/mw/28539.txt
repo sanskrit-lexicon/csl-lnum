@@ -1,5 +1,5 @@
 <L>28539<pc>163,3<k1>i<k2>i<h>5<e>1
-<hom>5.</hom> <s>i</s> ¦ <ab>cl.</ab> 2. <ab>P.</ab> <s>e/ti</s> (<ab>Impv.</ab> 2. <ab>sg.</ab> <s>ihi/</s>) and 1. <ab>Ā.</ab> <ab>P.</ab> <s>a/yati</s>, <s>ayate</s> ([<ab>cf.</ab> √ <s>ay</s>]), (<ab>pf.</ab> <s>iyAya</s> [2. <ab>sg.</ab> <s>iya/Ta</s>, <ls>AV. viii, 1, 10</ls>, and <s>iye/Ta</s>, <ls>RV.</ls>] <ab>fut.</ab> <s>ezyati</s>; <ab>aor.</ab> <s>EzIt</s>; <ab>inf.</ab> <s>etum</s>, <s>e/tave</s>, <ls>RV.</ls> and, <ls>AV.</ls>, <s>e/tavE/</s>, <ls>RV.</ls> <s>e/tos</s>, <ls>RV.</ls> <s>ityE/</s>, <ls>RV. i, 113, 6, 124, 1</ls>) 
+<hom>5.</hom> <s>i</s> ¦ <ab>cl.</ab> 2. <ab>P.</ab> <s>e/ti</s> (<ab>Impv.</ab> 2. <ab>sg.</ab> <s>ihi/</s>) and 1. <ab>P.</ab> <ab>Ā.</ab> <s>a/yati</s>, <s>ayate</s> [<ab>cf.</ab> √ <s>ay</s>], (<ab>pf.</ab> <s>iyAya</s> [2. <ab>sg.</ab> <s>iya/Ta</s>, <ls>AV. viii, 1, 10</ls>, and <s>iye/Ta</s>, <ls>RV.</ls>] <ab>fut.</ab> <s>ezyati</s>; <ab>aor.</ab> <s>EzIt</s>; <ab>inf.</ab> <s>etum</s>, <s>e/tave</s>, <ls>RV.</ls> & <ls>AV.</ls>, <s>e/tavE/</s>, <ls>RV.</ls> <s>e/tos</s>, <ls>RV.</ls> <s>ityE/</s>, <ls>RV. i, 113, 6</ls>; <ls n="RV. i,">124, 1</ls>)
 <div n="to"/>to go, walk;
 <div n="to"/>to flow;
 <div n="to"/>to blow;
@@ -14,9 +14,9 @@
 <div n="to"/>to fall into, come to;
 <div n="to"/>to approach with prayers, gain by asking (<ab>cf.</ab> <s>ita</s>);
 <div n="to"/>to undertake anything (with <ab>acc.</ab>);
-<div n="to"/>to be employed in, go on with, continue in any condition or relation (with a <ab>part.</ab> or <ab>instr.</ab> <ab>e.g.</ab> <s>asura-rakzasAni mfdyamAnAni yanti</s>, ‘the <s1 slp1="asura">Asura</s1>s and Rakshases are being continually crushed’ <ls>ŚBr. i, 1, 4, 14</ls>; <s>gavAmayanene<srs/>yuH</s>, ‘they, were engaged in the [festival called] <s1 slp1="gavAmayana">Gavāmayana</s1>’ <ls>KātyŚr. xxv, 5, 2</ls>);
+<div n="to"/>to be employed in, go on with, continue in any condition or relation (with a <ab>part.</ab> or <ab>instr.</ab>, <ab>e.g.</ab> <s>asura-rakzasAni mfdyamAnAni yanti</s>, ‘the <s1>Asura</s1>s and <ns>Rakshases</ns> are being continually crushed’, <ls>ŚBr. i, 1, 4, 14</ls>; <s>gavAmayanene<srs/>yuH</s>, ‘they, were engaged in the [festival called] <s1>Gavāmayana</s1>’, <ls>KātyŚr. xxv, 5, 2</ls>);
 <div n="to"/>to appear, be, <ls>KaṭhUp.</ls> :
-<div n="vp"/><ab>Intens.</ab> <ab>Ā.</ab> <s>I/yate</s> (<ls>RV. i, 30, 18</ls>; <ab>p.</ab> <s>iyAna/</s>, <ls>RV.</ls>; <ab>inf.</ab> <s>iya/DyE</s>, <ls>RV. vi, 20, 8</ls>) 
+<div n="vp"/><ab>Intens.</ab> <ab>Ā.</ab> <s>I/yate</s> (<ls>RV. i, 30, 18</ls>; <ab>p.</ab> <s>iyAna/</s>, <ls>RV.</ls>; <ab>inf.</ab> <s>iya/DyE</s>, <ls>RV. vi, 20, 8</ls>)
 <div n="to"/>to go quickly or repeatedly;
 <div n="to"/>to come, wander, run, spread, get about, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>;
 <div n="to"/>to appear, make one's appearance, <ls>RV.</ls>; <ls>AV.</ls>; <ls>BṛĀrUp.</ls>;

@@ -1,6 +1,6 @@
 <L>12009<pc>374<k1>indicative<k2>indicative
-<div n="lb"/>{@INDICATIVE:@}¦ <div n="1">(1) {#sUcaka#} (f. {#cikA#}), <div n="xe">{%a noise i. of%}
-<div n="lb"/>{%man:%}</div> <div n="xs">{#Sabdo mAnuzasUcakaH,#}</div> A. r.; </div><div n="1">(2) {#vyaYjaka#} (f. {#YjikA#}),
-<div n="lb"/>Kav.; </div><div n="1">(3) by verb. <div n="xe">{%The i. or i. mood:%}</div> <div n="xs">{#*praveda-#}
-<div n="lb"/>{#nAyAM prayogaH.#}</div></div>
+{@INDICATIVE:@}¦ <div n="1">(1) {#sUcaka#} (f. {#cikA#}), <div n="xe">{%a noise i. of%}
+{%man:%}</div> <div n="xs">{#Sabdo mAnuzasUcakaH,#}</div> A. r.; </div><div n="1">(2) {#vyaYjaka#} (f. {#YjikA#}),
+Kav.; </div><div n="1">(3) by verb. <div n="xe">{%The i. or i. mood:%}</div> <div n="xs">{#*praveda-#}
+{#nAyAM prayogaH.#}</div></div>
 <LEND>

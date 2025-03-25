@@ -1,5 +1,5 @@
 <L>5760<pc>185<k1>deliverer<k2>deliverer
-<div n="lb"/>{@DELIVERER:@}¦ <div n="I">I Rescuer: </div><div n="1">(1) {#mocakaH;#} </div><div n="1">(2)
-<div n="lb"/>{#mokzakaH, pari-;#} </div><div n="1">(3) {#nistArakaH;#} </div><div n="1">(4) {#udDartf#} (m.).</div>
-<div n="lb"/><div n="I">II Announcer: </div><div n="1">(1) {#vijYApakaH;#} </div><div n="1">(2) {#AvedakaH.#}</div>
+{@DELIVERER:@}¦ <div n="I">I Rescuer: </div><div n="1">(1) {#mocakaH;#} </div><div n="1">(2)
+{#mokzakaH, pari-;#} </div><div n="1">(3) {#nistArakaH;#} </div><div n="1">(4) {#udDartf#} (m.).</div>
+<div n="I">II Announcer: </div><div n="1">(1) {#vijYApakaH;#} </div><div n="1">(2) {#AvedakaH.#}</div>
 <LEND>

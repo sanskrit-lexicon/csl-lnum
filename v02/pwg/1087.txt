@@ -1,42 +1,41 @@
 <L>1087<pc>1-0081<k1>aw<k2>aw
-{#aw#}¦, {#a/wati#} 
-<ls>DHĀTUP. 9, 8</ls> {#(gatO), Awa#} 
-<ls>P. 6, 1, 8. 7, 4, 60. 70.</ls> {#awitA, awizyati, AwIt#} 
-<ls>P. 6, 1, 90</ls> (so ist in den <ls>Sch.</ls> für {#AdIt#} zu lesen). 
-<ls>7, 2, 2.</ls> {%einen Streifzug unternehmen, herumschweifen, durchirren%}: {#awati sarvaSaH#} 
-<ls>MBH. 1, 1031.</ls> {#kzitAvawasi#} 
-<ls>3071.</ls> {#awanparyeti pfTivIm#} 
-<ls>R. 4, 61, 47.</ls> {#na SakyamawituM mayA#} 
-<ls>5, 9, 41.</ls> {#pampAmawati#} 
-<ls>3, 75, 68.</ls> {#na - awanti rAjamArgezu kuYjarAH#} 
-<ls>2, 67, 17.</ls> {#Awa nEkawikASramAn#} 
-<ls>BHAṬṬ. 4, 12. 8, 65.</ls> {#AwizuH#} 
-<ls>7, 57.</ls> {#kapirAwIdgfhAdgfham#} 
-<ls>8, 42.</ls> {#awitvA#} 
-<ls>8, 45.</ls> <ls>RĀJA-TAR. 8, 1947.</ls> med.: {#ko BavAnawate SUnye vane#} 
-<ls>MBH. 3, 1568.</ls> {#pfTivImawatAm#} 
-<ls>R. 2, 70, 30.</ls> {#mfgayAmawate vane#} 
-<ls>2, 97, 10.</ls> {#awamAna#} 
-<ls>DRAUP. 1, 1.</ls> 
-<ls>N. 2, 12. 8, 24. 10, 4.</ls> — Caus. {#Awayati, Awwit#} 
-<ls>P. 1, 1, 59,</ls> 
-<ls>Sch. 6, 1, 11,</ls> 
-<ls>Sch.</ls> — Desid. {#awiwizati#} 
-<ls>P. 6, 1, 2,</ls> 
-<ls>Sch.</ls> — Intens. {#awAwyate#} 
-<ls>PAT.</ls> zu <ls>P. 3, 1, 22.</ls> <ls>VOP. 20, 1. 4.</ls> {%hin- und herirren, durchirren%}: {#awAwyamAno 'raRyAnIm#} 
-<ls>BHAṬṬ. 4, 2.</ls> {#awAwyata#} 
-<ls>17, 75.</ls> 
+{#aw#}¦, {#a/wati#}
+<ls>DHĀTUP. 9,8</ls> {#(gatO), Awa#}
+<ls>P. 6,1,8.</ls> <ls n="P.">7,4,60.</ls> <ls n="P. 7,4,">70.</ls> {#awitA, awizyati, AwIt#}
+<ls>P. 6,1,90</ls> (so ist in den <ls>Sch.</ls> für {#AdIt#} zu lesen).
+<ls n="P.">7,2,2.</ls> {%einen Streifzug unternehmen, herumschweifen, durchirren%}: {#awati sarvaSaH#}
+<ls>MBH. 1,1031.</ls> {#kzitAvawasi#}
+<ls n="MBH. 1,">3071.</ls> {#awanparyeti pfTivIm#}
+<ls>R. 4,61,47.</ls> {#na SakyamawituM mayA#}
+<ls n="R.">5,9,41.</ls> {#pampAmawati#}
+<ls n="R.">3,75,68.</ls> {#na — awanti rAjamArgezu kuYjarAH#}
+<ls n="R.">2,67,17.</ls> {#Awa nEkawikASramAn#}
+<ls>BHAṬṬ. 4,12. 8,65.</ls> {#AwizuH#}
+<ls n="BHAṬṬ.">7,57.</ls> {#kapirAwIdgfhAdgfham#}
+<ls n="BHAṬṬ.">8,42.</ls> {#awitvA#}
+<ls n="BHAṬṬ.">8,45.</ls> <ls>RĀJA-TAR. 8,1947.</ls> med.: {#ko BavAnawate SUnye vane#}
+<ls>MBH. 3,1568.</ls> {#pfTivImawatAm#}
+<ls>R. 2,70,30.</ls> {#mfgayAmawate vane#}
+<ls n="R.">2,97,10.</ls> {#awamAna#}
+<ls>DRAUP. 1,1.</ls>
+<ls>N. 2,12.</ls> <ls n="N.">8,24.</ls> <ls n="N.">10,4.</ls> — Caus. {#Awayati, Awwit#}
+<ls>P. 1,1,59</ls>, <ls>Sch. 6,1,11</ls>,
+<ls>Sch.</ls>
+— Desid. {#awiwizati#}
+<ls>P. 6,1,2</ls>, <ls>Sch.</ls>
+— Intens. {#awAwyate#}
+<ls>PAT.</ls> zu <ls>P. 3,1,22.</ls> <ls>VOP. 20,1.</ls> <ls n="VOP. 20,">4.</ls> {%hin- und herirren, durchirren%}: {#awAwyamAno 'raRyAnIm#}
+<ls>BHAṬṬ. 4,2.</ls> {#awAwyata#}
+<ls n="BHAṬṬ.">17,75.</ls>
 <div n="v">— Vgl. {#at#} .
-
-<div n="p">— {#pari#} {%herumschweifen, durchirren%}: {#vane paryawanti#} 
-<ls>PAÑCAT. 55, 1. 128, 17. 248, 1.</ls> {#vayaM tAvatsarvatrEva paryawitAH#} 
-<ls>70, 19.</ls> {#vanAdvanAntaraM paryawati#} 
-<ls>255, 10.</ls> {#tatkiM paryawitena#} 
-<ls>70, 12.</ls> {#enaM paryawantaM mahItalam#} 
-<ls>MBH. 3, 1908.</ls> {#gAM paryawizyati#} 
-<ls>13096.</ls> {#vanaM paryawatA#} 
-<ls>HIT. 42, 13.</ls> {#kadA vane mfgayAM paryawizyAmi#} 
-<ls>R. 2, 49, 14.</ls> med.: {#tAni sarvARi (tIrTAni) paryawasva#} 
-<ls>MBH. 3, 8471.</ls>
+<div n="p">— {#pari#} {%herumschweifen, durchirren%}: {#vane paryawanti#}
+<ls>PAÑCAT. 55,1.</ls> <ls n="PAÑCAT.">128,17.</ls> <ls n="PAÑCAT.">248,1.</ls> {#vayaM tAvatsarvatrEva paryawitAH#}
+<ls n="PAÑCAT.">70,19.</ls> {#vanAdvanAntaraM paryawati#}
+<ls n="PAÑCAT.">255,10.</ls> {#tatkiM paryawitena#}
+<ls n="PAÑCAT.">70,12.</ls> {#enaM paryawantaM mahItalam#}
+<ls>MBH. 3,1908.</ls> {#gAM paryawizyati#}
+<ls n="MBH. 3,">13096.</ls> {#vanaM paryawatA#}
+<ls>HIT. 42,13.</ls> {#kadA vane mfgayAM paryawizyAmi#}
+<ls>R. 2,49,14.</ls> med.: {#tAni sarvARi (tIrTAni) paryawasva#}
+<ls>MBH. 3,8471.</ls>
 <LEND>

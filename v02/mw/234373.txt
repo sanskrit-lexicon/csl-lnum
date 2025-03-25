@@ -1,3 +1,3 @@
-<L>234373<pc>1160,3<k1>samAnana<k2>sa-mAnana<h>b<e>2
-<s>sa-mAnana</s> <hom>b</hom> ¦ <lex>mfn.</lex> (for <s>samA<srs/>nana</s> See <pcol>p. 1153, col. 1</pcol>) being in honour or respect, <ls>Nalôd.</ls><info lex="m:f:n"/>
+<L>234373<pc>1160,3<k1>samAnana<k2>sa-mAnana<e>2
+<s>sa-mAnana</s> ¦ <lex>mfn.</lex> (for <s>samA<srs/>nana</s> See <pcol>p. 1153, col. 1</pcol>) being in honour or respect, <ls>Nalod.</ls><info lex="m:f:n"/><info hui="b"/>
 <LEND>

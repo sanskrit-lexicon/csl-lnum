@@ -1,8 +1,8 @@
 <L>20576<pc>645<k1>since<k2>since
-<div n="lb"/>{@SINCE@}¦ (prep.): <div n="1">(1) {#praBfti#} (with abl.), {%s. seeing%}
-<div n="lb"/>({%you%}): {#darSanAt praBfti,#} K.; <div n="xe">{%s. then:%}</div> <div n="xs">{#tadA praBfti,#}</div>
-<div n="lb"/>Ku. v. 55.; <div n="xe">{%ever s. he came to sight:%}</div> <div n="xs">{#yataH #}
-<div n="lb"/>{# praBfti sa mama darSanapaTaM gataH, tataH praBfti,#}</div> Sa. iii.;</div>
-<div n="lb"/><div n="1">(2) {#A#} (with abl. or in comp. = from), <div n="xe">{%s.%}
-<div n="lb"/>{%her birth:%}</div> <div n="xs">{#A janmanaH,#}</div> Sa. v. 27.</div>
+{@SINCE@}¦ (prep.): <div n="1">(1) {#praBfti#} (with abl.), {%s. seeing%}
+({%you%}): {#darSanAt praBfti,#} K.; <div n="xe">{%s. then:%}</div> <div n="xs">{#tadA praBfti,#}</div>
+Ku. v. 55.; <div n="xe">{%ever s. he came to sight:%}</div> <div n="xs">{#yataH #}
+{# praBfti sa mama darSanapaTaM gataH, tataH praBfti,#}</div> Sa. iii.;</div>
+<div n="1">(2) {#A#} (with abl. or in comp. = from), <div n="xe">{%s.%}
+{%her birth:%}</div> <div n="xs">{#A janmanaH,#}</div> Sa. v. 27.</div>
 <LEND>

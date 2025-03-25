@@ -1,6 +1,6 @@
 <L>6689<pc>214<k1>divorce<k2>divorce
-<div n="lb"/>{@DIVORCE@}¦ (v.): <div n="I">I Lit.: {#*vivAhalopaM karoti; #}
-<div n="lb"/>{# tyajati, pari-,#} ({#tyaj,#} c. 1.) (= to desert), <div n="xe">{%d.%}
-<div n="lb"/>{%ing an innocent wife:%}</div> <div n="xs">{#nirdozAM patnIM parityajan,#}</div> V. s.</div>
-<div n="lb"/><div n="I">II Fig.: {#nirvAsayati#} (c. of {#vas#}).</div>
+{@DIVORCE@}¦ (v.): <div n="I">I Lit.: {#*vivAhalopaM karoti; #}
+{# tyajati, pari-,#} ({#tyaj,#} c. 1.) (= to desert), <div n="xe">{%d.%}
+{%ing an innocent wife:%}</div> <div n="xs">{#nirdozAM patnIM parityajan,#}</div> V. s.</div>
+<div n="I">II Fig.: {#nirvAsayati#} (c. of {#vas#}).</div>
 <LEND>

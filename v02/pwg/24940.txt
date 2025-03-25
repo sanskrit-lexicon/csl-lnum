@@ -1,19 +1,19 @@
 <L>24940<pc>2-0969<k1>carAcara<k2>carAcara<h>2
-2. {#carAcara#}¦ ({#cara + acara#}) <lex>adj.</lex> {%beweglich und unbeweglich%}, subst. {%Bewegliches und Unbewegliches (Thiere und Pflanzen)%}: {#BUtaM carAcaram#} 
-<ls>BHAG. 10, 39.</ls> {#jagaccedaM carAcaram#} 
-<ls>R. 4, 15, 8.</ls> {#sarve BAvAScarAcarAH#} 
-<ls>43, 44.</ls> {#loka#} 
-<ls>BHAG. 11, 43.</ls> 
-<ls>BHĀG. P. 3, 6, 5.</ls> {#idaM sarvaM carAcaram#} 
-<ls>M. 1, 57. 63. 3, 75.</ls> {#asmiMScarAcare#} so v. a. {%in dieser Welt%} 
-<ls>5, 44.</ls> {#brahmA carAcaragururyasyedaM sakalaM jagat#} 
-<ls>MBH. 3, 497.</ls> {#carAcarOkas#} 
-<ls>BHĀG. P. 3, 8, 30.</ls> {#lokaM ca sacarAcaram#} 
-<ls>M. 7, 29. 11, 236.</ls> 
-<ls>YĀJÑ. 3, 128. 145.</ls> 
-<ls>BHAG. 9, 10. 11, 7.</ls> 
-<ls>R. 1, 65, 11. 3, 58, 16. 72, 27. 4, 32, 19. 6, 81, 22.</ls> <lex>adj.</lex> = {#izwa#} 
-<ls>H. an. 4, 252.</ls> <lex>n.</lex> = {#vizwapa, jagat#} ebend. und 
-<ls>MED. r. 262.</ls> = {#AkASa#} 
+2. {#carAcara#}¦ ({#cara + acara#}) <lex>adj.</lex> {%beweglich und unbeweglich%}, subst. {%Bewegliches und Unbewegliches (Thiere und Pflanzen)%}: {#BUtaM carAcaram#}
+<ls>BHAG. 10,39.</ls> {#jagaccedaM carAcaram#}
+<ls>R. 4,15,8.</ls> {#sarve BAvAScarAcarAH#}
+<ls n="R. 4,">43,44.</ls> {#loka#}
+<ls>BHAG. 11,43.</ls>
+<ls>BHĀG. P. 3,6,5.</ls> {#idaM sarvaM carAcaram#}
+<ls>M. 1,57.</ls> <ls n="M. 1,">63.</ls> <ls n="M.">3,75.</ls> {#asmiMScarAcare#} so v. a. {%in dieser Welt%}
+<ls n="M.">5,44.</ls> {#brahmA carAcaragururyasyedaM sakalaM jagat#}
+<ls>MBH. 3,497.</ls> {#carAcarOkas#}
+<ls>BHĀG. P. 3,8,30.</ls> {#lokaM ca sacarAcaram#}
+<ls>M. 7,29.</ls> <ls n="M.">11,236.</ls>
+<ls>YĀJÑ. 3,128. 145.</ls>
+<ls>BHAG. 9,10. 11,7.</ls>
+<ls>R. 1,65,11.</ls> <ls n="R.">3,58,16.</ls> <ls n="R. 3,">72,27.</ls> <ls n="R.">4,32,19.</ls> <ls n="R.">6,81,22.</ls> <lex>adj.</lex> = {#izwa#}
+<ls>H. an. 4,252.</ls> <lex>n.</lex> = {#vizwapa, jagat#} ebend. und
+<ls>MED. r. 262.</ls> = {#AkASa#}
 <ls>DHAR.</ls> im <ls>ŚKDR.</ls>
 <LEND>

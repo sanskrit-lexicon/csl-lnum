@@ -1,6 +1,6 @@
 <L>11285<pc>497<k1>wool<k2>wool
 {@Wool,@}¦ {%s.%} {#lo#} ({#ro#}) {#man#} {%n.,%} {#UrRA#} (of sheep).
-<div n="lb"/>{@-len,@} {%a.%} {#lomaja, OrRa#} ({#RI#} {%f.%}), {#UrRAmaya#}
-<div n="lb"/>({#yI#} {%f.%}); {#mezalomaja;#} ‘w. cloth’ {#OrRa-#}
-<div n="lb"/>{#-vastraM-padaH#}. {@-ly,@} {%a.%} {#lomaSa, romavat#}.
+{@-len,@} {%a.%} {#lomaja, OrRa#} ({#RI#} {%f.%}), {#UrRAmaya#}
+({#yI#} {%f.%}); {#mezalomaja;#} ‘w. cloth’ {#OrRa-#}
+{#-vastraM-padaH#}. {@-ly,@} {%a.%} {#lomaSa, romavat#}.
 <LEND>

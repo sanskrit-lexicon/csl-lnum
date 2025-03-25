@@ -1,9 +1,9 @@
 <L>6825<pc>294<k1>mole<k2>mole
 {@Mole,@}¦ {%s.%} {#tilakaH, jaqulaH, kAlakaH, pipluH#}. {@2@}
-<div n="lb"/>{#vapraH-praM, setuH, cayaH, piMqalaH, Ali#} {%f.%} {@3@} {#CuCuM-#}
-<div n="lb"/>{#-darI, gaMDamuKI, dIrGatuMqI, divAMDikA;#} ‘m
-<div n="lb"/>eyed’ {#sUkzmanayana,#} ‘m.-hill’ {#valmIkaH-ka,#}
-<div n="lb"/>{#vAmalUraH, kfmiSElaH, kUlakaH, syamIkaH;#} ‘he
-<div n="lb"/>makes mountains of m.-hills’ {#tile#}
-<div n="lb"/>{#tAlaM paSyati#}.
+{#vapraH-praM, setuH, cayaH, piMqalaH, Ali#} {%f.%} {@3@} {#CuCuM-#}
+{#-darI, gaMDamuKI, dIrGatuMqI, divAMDikA;#} ‘m
+eyed’ {#sUkzmanayana,#} ‘m.-hill’ {#valmIkaH-ka,#}
+{#vAmalUraH, kfmiSElaH, kUlakaH, syamIkaH;#} ‘he
+makes mountains of m.-hills’ {#tile#}
+{#tAlaM paSyati#}.
 <LEND>

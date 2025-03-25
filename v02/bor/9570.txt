@@ -1,4 +1,4 @@
 <L>9570<pc>303<k1>furnace<k2>furnace
-<div n="lb"/>{@FURNACE:@}¦ <div n="1">(1) {#uDmAnam;#} </div><div n="1">(2) {#agnikuRqam.#} {%A port-%}
-<div n="lb"/>{%able f.:%} </div><div n="1">(1) {#aNgAraDAnikA;#} </div><div n="1">(2) {#aNgAraSakawI.#}</div>
+{@FURNACE:@}¦ <div n="1">(1) {#uDmAnam;#} </div><div n="1">(2) {#agnikuRqam.#} {%A port-%}
+{%able f.:%} </div><div n="1">(1) {#aNgAraDAnikA;#} </div><div n="1">(2) {#aNgAraSakawI.#}</div>
 <LEND>

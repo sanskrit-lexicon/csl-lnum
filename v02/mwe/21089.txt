@@ -1,39 +1,39 @@
 <L>21089<pc>555-b<k1>order<k2>order
-<div n="lb"/>ORDER¦, {%s.%} (Regular disposition, arrangement) {#kramaH, anukramaH,#}
-<div n="lb"/>{#paryyAyaH, AnupUrvyaM, AnupUrvI, paripAwI -wiH#} {%f.,%} {#pAripAwyaM, vinyAsaH,#}
-<div n="lb"/>{#vyUhanaM, vyUQiH#} {%f.,%} {#Avft#} {%f.,%} {#pAramparyyaM, paramparA, vyavasTA, vyavasTApanaM,#}
-<div n="lb"/>{#krameRa sTApanaM, prativiDAnaM, saMviDAnaM, viracanaM -nA;#} ‘inverted order,’
-<div n="lb"/>{#vyatikramaH, vyutkramaH;#} ‘natural order of words,’ {#anvayaH#}. — (Esta-
-<div n="lb"/>blished mode of proceeding) {#kramaH, mArgaH, rItiH#} {%f.,%} {#niynamaH,#}
-<div n="lb"/>{#padDatiH#} {%f.;%} ‘direct order,’ {#AnulomyaM;#} ‘in direct order,’
-<div n="lb"/>{#anulomaH -mA -maM;#} ‘inverse order,’ {#prAtilomyaM;#} ‘in inverse
-<div n="lb"/>order,’ {#pratilomaH -mA -maM, vilomaH#} &c. — (Command) {#AjYA,#}
-<div n="lb"/>[Page556-a+ 51]
-<div n="lb"/>{#AdeSaH, nideSaH, nirdeSaH, SAsanaM, SizwiH#} {%f.,%} {#SAstiH#} {%f.,%} {#niyogaH, preraRA,#}
-<div n="lb"/>{#avavAdaH, prayuktiH#} {%f.%} — (Precept, rule) {#niyamaH, codanaM -nA, viDiH#} {%m.,%}
-<div n="lb"/>{#viDAnaM, vacanaM;#} ‘written order,’ {#AjYApatraM, SAsanapatraM;#} ‘general
-<div n="lb"/>order,’ {#sAmAnyaSAsanaM, sADAraRAjYA#}. — (Class, grade) {#gaRaH, vargaH,#}
-<div n="lb"/>{#varRaH, jAtiH#} {%f.;%} ‘the lower orders,’ {#avaravarRAH#} {%m. pl.,%} {#aDamavarRAH,#}
-<div n="lb"/>{#prAkftavargaH, antyavargaH, antyajAtIyAH#} {%m. pl.,%} {#aDamajAtIyAH#} {%m. pl.;%} ‘the
-<div n="lb"/>middle or common order,’ {#sAmAnyavargaH, sAmAnyapakzaH, sADAraRapakzaH#}.
-<div n="lb"/> — (Religious order) {#ASramaH#}. There are four Āśramas,
-<div n="lb"/>corresponding to the four stages of the Brahman's life.
-<div n="lb"/>Every Brahman who has passed through these four
-<div n="lb"/>stages is supposed to have passed through the four
-<div n="lb"/>orders in succession. When, in the first, he is called
-<div n="lb"/>{#brahmacArI#} {%m.;%} in the 2d, {#gfhasTaH;#} in the 3d, {#vAnaprasTaH#} or {#vEKAnasaH#}
-<div n="lb"/>or {#yatI;#} in the 4th, {#BikzuH#} {%m.,%} {#sannyAsI#} {%m.%} The first order,
-<div n="lb"/>or that of the religious student, is also called {#liNgaM#}.
-<div n="lb"/>Other terms, expressive of religious orders, are {#parAyaRaM,#}
-<div n="lb"/>{#mArgaH, sampradAyaH, panTAH#} {%m.%} ({#paTin#}); ‘head of a religious
-<div n="lb"/>order,’ {#ASramaguruH#} {%m.%} — (In good order, in proper state) {#susTaH#}
-<div n="lb"/>{#-sTA -sTaM, susTitaH -tA -taM, surakzitaH -tA -taM#}. — (In order, properly
-<div n="lb"/>arranged) {#suvinyastaH -stA -staM, suracitaH -tA -taM, suvyavasTitaH -tA -taM,#}
-<div n="lb"/>{#krameRa sTApitaH -tA -taM;#} ‘in regular order,’ {#yaTAkramaM, krameRa -mAt,#}
-<div n="lb"/>{#kramaSas, anupUrvvaSas, anukramaSas, suparipAWyA#}. — (In order to, for
-<div n="lb"/>the purpose) {#arTaM#} or {#arTe#} affixed; as, ‘in order to read,’
-<div n="lb"/>{#aDyayanArTaM,#} or expressed by the dat. c.; as, ‘in order to
-<div n="lb"/>find a fourth quantity,’ {#caturTarASer avagamAya#}. — (Out of order)
-<div n="lb"/>{#avyavasTitaH -tA -taM, anavasTitaH#} &c., {#BagnakramaH -mA -maM, asusTaH -sTA#}
-<div n="lb"/>{#-sTaM, asvasTaH#} &c.
+ORDER¦, {%s.%} (Regular disposition, arrangement) {#kramaH, anukramaH,#}
+{#paryyAyaH, AnupUrvyaM, AnupUrvI, paripAwI -wiH#} {%f.,%} {#pAripAwyaM, vinyAsaH,#}
+{#vyUhanaM, vyUQiH#} {%f.,%} {#Avft#} {%f.,%} {#pAramparyyaM, paramparA, vyavasTA, vyavasTApanaM,#}
+{#krameRa sTApanaM, prativiDAnaM, saMviDAnaM, viracanaM -nA;#} ‘inverted order,’
+{#vyatikramaH, vyutkramaH;#} ‘natural order of words,’ {#anvayaH#}. — (Esta-
+blished mode of proceeding) {#kramaH, mArgaH, rItiH#} {%f.,%} {#niynamaH,#}
+{#padDatiH#} {%f.;%} ‘direct order,’ {#AnulomyaM;#} ‘in direct order,’
+{#anulomaH -mA -maM;#} ‘inverse order,’ {#prAtilomyaM;#} ‘in inverse
+order,’ {#pratilomaH -mA -maM, vilomaH#} &c. — (Command) {#AjYA,#}
+[Page556-a+ 51]
+{#AdeSaH, nideSaH, nirdeSaH, SAsanaM, SizwiH#} {%f.,%} {#SAstiH#} {%f.,%} {#niyogaH, preraRA,#}
+{#avavAdaH, prayuktiH#} {%f.%} — (Precept, rule) {#niyamaH, codanaM -nA, viDiH#} {%m.,%}
+{#viDAnaM, vacanaM;#} ‘written order,’ {#AjYApatraM, SAsanapatraM;#} ‘general
+order,’ {#sAmAnyaSAsanaM, sADAraRAjYA#}. — (Class, grade) {#gaRaH, vargaH,#}
+{#varRaH, jAtiH#} {%f.;%} ‘the lower orders,’ {#avaravarRAH#} {%m. pl.,%} {#aDamavarRAH,#}
+{#prAkftavargaH, antyavargaH, antyajAtIyAH#} {%m. pl.,%} {#aDamajAtIyAH#} {%m. pl.;%} ‘the
+middle or common order,’ {#sAmAnyavargaH, sAmAnyapakzaH, sADAraRapakzaH#}.
+ — (Religious order) {#ASramaH#}. There are four Āśramas,
+corresponding to the four stages of the Brahman's life.
+Every Brahman who has passed through these four
+stages is supposed to have passed through the four
+orders in succession. When, in the first, he is called
+{#brahmacArI#} {%m.;%} in the 2d, {#gfhasTaH;#} in the 3d, {#vAnaprasTaH#} or {#vEKAnasaH#}
+or {#yatI;#} in the 4th, {#BikzuH#} {%m.,%} {#sannyAsI#} {%m.%} The first order,
+or that of the religious student, is also called {#liNgaM#}.
+Other terms, expressive of religious orders, are {#parAyaRaM,#}
+{#mArgaH, sampradAyaH, panTAH#} {%m.%} ({#paTin#}); ‘head of a religious
+order,’ {#ASramaguruH#} {%m.%} — (In good order, in proper state) {#susTaH#}
+{#-sTA -sTaM, susTitaH -tA -taM, surakzitaH -tA -taM#}. — (In order, properly
+arranged) {#suvinyastaH -stA -staM, suracitaH -tA -taM, suvyavasTitaH -tA -taM,#}
+{#krameRa sTApitaH -tA -taM;#} ‘in regular order,’ {#yaTAkramaM, krameRa -mAt,#}
+{#kramaSas, anupUrvvaSas, anukramaSas, suparipAWyA#}. — (In order to, for
+the purpose) {#arTaM#} or {#arTe#} affixed; as, ‘in order to read,’
+{#aDyayanArTaM,#} or expressed by the dat. c.; as, ‘in order to
+find a fourth quantity,’ {#caturTarASer avagamAya#}. — (Out of order)
+{#avyavasTitaH -tA -taM, anavasTitaH#} &c., {#BagnakramaH -mA -maM, asusTaH -sTA#}
+{#-sTaM, asvasTaH#} &c.
 <LEND>

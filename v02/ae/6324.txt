@@ -1,19 +1,19 @@
 <L>6324<pc>269<k1>lotus<k2>lotus
 {@Lotus,@}¦ {%s.%} {#padmaM, kamalaM, nalinaM, araviMdaM, utpalaM,#}
-<div n="lb"/>{#kuvalayaM, sarasijaM, abjaM, aMBojaM, mahotpalaM,#}
-<div n="lb"/>{#SatapatraM, sahasrapatraM, kuSeSayaM, paMkeruhaM, paMkajaM,#}
-<div n="lb"/>{#saroruhaM, tAmarasaM, sArasaM sarasIruhaM, puzkaraM,#}
-<div n="lb"/>{#aMBoruhaM, bisaprasUnaM, rAjIvaM, aMbujaM;#} ‘white
-<div n="lb"/>l.’ {#puMqarIkaM, sitAMBojaM;#} ‘red l.’ {#koka-#}
-<div n="lb"/>{#-nadaM, raktotpalaM;#} ‘blue l.’ {#iMdIvaraM, nIlo-#}
-<div n="lb"/>{#-tpalaM#}. {@2@} (The plant) {#nalinI, kamalinI,#}
-<div n="lb"/>{#padminI, mfRAlinI, kumudinI;#} ‘l. stalk’
-<div n="lb"/>{#nAlaM-laH-lI-lA;#} ‘l. fibre or film’ {#mf-#}
-<div n="lb"/>{#-RAlaH-lI-laM, bisaM-SaM;#} l. filament’ {#kiMjalkaH,#}
-<div n="lb"/>{#keSa(sa)raH-raM,#} ‘l. root or bulb’ {#karahAwaH,#}
-<div n="lb"/>{#SiPAkaMdaH, SAlu(lU)kaM;#} ‘l. seed’ {#kama-#}
-<div n="lb"/>{#-lAkzaH, padmabIjaM;#} ‘seed vessel of l.’ {#bIja-#}
-<div n="lb"/>{#-koSaH, varAwakaH;#} ‘new leaf: of l.’ {#saM-#}
-<div n="lb"/>{#vartikA, navadalaM;#} ‘an assemblage of l. es’
-<div n="lb"/>{#zaMqaH, KaMqaH, padmaKaMqaH#}.
+{#kuvalayaM, sarasijaM, abjaM, aMBojaM, mahotpalaM,#}
+{#SatapatraM, sahasrapatraM, kuSeSayaM, paMkeruhaM, paMkajaM,#}
+{#saroruhaM, tAmarasaM, sArasaM sarasIruhaM, puzkaraM,#}
+{#aMBoruhaM, bisaprasUnaM, rAjIvaM, aMbujaM;#} ‘white
+l.’ {#puMqarIkaM, sitAMBojaM;#} ‘red l.’ {#koka-#}
+{#-nadaM, raktotpalaM;#} ‘blue l.’ {#iMdIvaraM, nIlo-#}
+{#-tpalaM#}. {@2@} (The plant) {#nalinI, kamalinI,#}
+{#padminI, mfRAlinI, kumudinI;#} ‘l. stalk’
+{#nAlaM-laH-lI-lA;#} ‘l. fibre or film’ {#mf-#}
+{#-RAlaH-lI-laM, bisaM-SaM;#} l. filament’ {#kiMjalkaH,#}
+{#keSa(sa)raH-raM,#} ‘l. root or bulb’ {#karahAwaH,#}
+{#SiPAkaMdaH, SAlu(lU)kaM;#} ‘l. seed’ {#kama-#}
+{#-lAkzaH, padmabIjaM;#} ‘seed vessel of l.’ {#bIja-#}
+{#-koSaH, varAwakaH;#} ‘new leaf: of l.’ {#saM-#}
+{#vartikA, navadalaM;#} ‘an assemblage of l. es’
+{#zaMqaH, KaMqaH, padmaKaMqaH#}.
 <LEND>

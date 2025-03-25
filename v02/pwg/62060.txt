@@ -1,52 +1,52 @@
 <L>62060<pc>5-0907<k1>meza<k2>meza/
-{#meza/#}¦ (von {#miz)#} 
-<ls>NIR. 3, 16.</ls> <is>gaṇa</is> {#pacAdi#} zu 
-<ls>P. 3, 1, 134.</ls> 
-<ls>Sch.</ls> zu <ls>3, 19.</ls> 
-<div n="1"> 1) <lex>m.</lex> 
+{#meza/#}¦ (von {#miz)#}
+<ls>NIR. 3,16.</ls> <is>gaṇa</is> {#pacAdi#} zu
+<ls>P. 3,1,134.</ls>
+<ls>Sch.</ls> zu <ls n="P. 3,">3,19.</ls>
+<div n="1"> 1) <lex>m.</lex>
 <div n="2"> a) {%Schafbock, Widder, Schaf%} (
-<ls>NIR. 3, 16.</ls> 
-<ls>AK. 2, 9, 77. 3, 4, 13, 52. 27, 209.</ls> 
-<ls>TRIK. 2, 9, 23. 3, 3, 439.</ls> 
-<ls>H. 1276.</ls> 
-<ls>an. 2, 568.</ls> 
-<ls>MED. ṣ. 21.</ls> <ls>HALĀY. 2, 124</ls>); in der älteren Sprache auch {%das Vliess des Schafes%} und {%was daraus gemacht ist%} (vgl.
+<ls>NIR. 3,16.</ls>
+<ls>AK. 2,9,77.</ls> <ls n="AK.">3,4,13,52.</ls> <ls n="AK. 3,4,">27,209.</ls>
+<ls>TRIK. 2,9,23.</ls> <ls n="TRIK.">3,3,439.</ls>
+<ls>H. 1276.</ls>
+<ls>an. 2,568.</ls>
+<ls>MED. ṣ. 21.</ls> <ls>HALĀY. 2,124</ls>); in der älteren Sprache auch {%das Vliess des Schafes%} und {%was daraus gemacht ist%} (vgl.
 <lang n="Old-Church-Slavonic">мѣхъ</lang>
-{%pellis, saccus%} und litth. maiszas {%saccus).%} 
-<ls>ṚV. 1, 43, 6.</ls> <is>Rudra</is> so genannt 
-<ls n="ṚV. 1,">51, 1.</ls> <ls n="ṚV. 1,">52, 1.</ls> <ls>- 116, 16. 8, 2, 40. 86, 12.</ls> {#pIvA^naM me\zama^pacanta vI\rAH#} 
-<ls n="ṚV.">10, 27, 17.</ls> <ls n="ṚV. 10,">91, 14.</ls> <ls n="ṚV. 10,">106, 5.</ls> <ls>AV. 6, 49, 2.</ls> <ls>VS. 3, 59. 19, 90.</ls> {#AraRya#} 
-<ls>?24, 30. TS. 7, 4, 12, 1. ŚAT. BR. 2, 5, 2, 15. 3, 3, 4, 18. 12, 7, 1, 3. KĀTY. ŚR. 5, 3, 6. ṢAḌV. BR. in Ind. St. 1, 38. M. 11, 136. R. GORR. 1, 50, 6. Spr. 2191. 2340.</ls> {#rakzyamARA na varDante mezA#} (v. l. für {#mfgA) gomAyunA#} 
-<ls>5377.</ls> <ls>VARĀH. BṚH. S. 61, 16. 86, 80.</ls> {#°carman#} 
-<ls>RĀJA-TAR. 5, 325.</ls> {#°yUTa#} 
-<ls>PAÑCAT. 253, 13.</ls> 
-<ls>Verz. d. B. H. No. 897.</ls> {#°SabdajYAna#} 
-<ls>Verz. d. Oxf. H. 92,b,36.</ls> {#°kukkuwalAvakayudDaviDi#} 
-<ls>217,a,13.</ls> {#mezAnano grahaH#} {%widderköpfig%} 
-<ls>SUŚR. 2, 394, 5.</ls> {#mezAsya#} 
-<ls>Verz. d. Oxf. H. 307,b,25.</ls> 
-<div n="2">— b) {%der Widder im Thierkreise%} (oder überh. {%der erste Bogen von 30° in einem Kreise)%} 
-<ls>AK.1,1,2,29.3,4,28,216.</ls> <ls>TRIK.3,3,439.</ls> <ls>H. 116.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>BAUDHĀYANA</ls> bei <ls>WEBER, Nakṣ.2,358.</ls> <ls>SŪRYAS.1,57.3,18. 42. 12,45. 48. 57. 67. 13,6. 14,10.</ls> <ls>VARĀH. BṚH. S.5,35. 102,1. 7.</ls> <ls>BṚH.1,4.5,20. 11,9. 20,1. 25,4. 27,1.</ls> <ls>LAGHUJ.1,12. 20</ls> in <ls>Ind. St.2,280. 282.</ls> <ls>BHĀG. P.5,21,4.</ls> <ls>MĀRK. P. 58,75. 79.</ls> <ls>Verz. d. Oxf. H. 97,b,32. 339,b,30.</ls> {#mezAdizu(!) ca mAsezu#} 
-<ls>10,a, N. 1.</ls> 
-<div n="2">— c) {%ein best. Heilmittel%} 
-<ls>MED.</ls> 
-<div n="2">— d) {#mezasya puzpARi#} 
-<ls>SUŚR. 2, 342, 11</ls>; vgl. {#mezapuzpA#} und {#mezakusuma#} . 
-<div n="2">— e) Bez. {%eines best. Dämons, durch welchen Kinder besessen werden%}: {#kumArapitfmezAya#} 
-<ls>SUŚR. 2, 393, 12.</ls> {#kumAra = skanda, pitar#} ebenfalls ein <is>Graha</is> (vgl. 
+{%pellis, saccus%} und litth. maiszas {%saccus).%}
+<ls>ṚV. 1,43,6.</ls> <is>Rudra</is> so genannt
+<ls n="ṚV. 1,">51,1.</ls> <ls n="ṚV. 1,">52,1.</ls> -- <ls n="ṚV. 1,">116,16.</ls> <ls n="ṚV.">8,2,40.</ls> <ls n="ṚV. 8,">86,12.</ls> {#pIvA^naM me\zama^pacanta vI\rAH#}
+<ls n="ṚV.">10,27,17.</ls> <ls n="ṚV. 10,">91,14.</ls> <ls n="ṚV. 10,">106,5.</ls> <ls>AV. 6,49,2.</ls> <ls>VS. 3,59.</ls> <ls n="VS.">19,90.</ls> {#AraRya#}
+<ls n="VS.">24,30.</ls> <ls>TS. 7,4,12,1.</ls> <ls>ŚAT. BR. 2,5,2,15.</ls> <ls n="ŚAT. BR.">3,3,4,18.</ls> <ls n="ŚAT. BR.">12,7,1,3.</ls> <ls>KĀTY. ŚR. 5,3,6.</ls> <ls>ṢAḌV. BR.</ls> in <ls>Ind. St. 1,38.</ls> <ls>M. 11,136.</ls> <ls>R. GORR. 1,50,6.</ls> <ls>Spr. 2191.</ls> <ls n="Spr.">2340.</ls> {#rakzyamARA na varDante mezA#} (v. l. für {#mfgA) gomAyunA#}
+<ls n="Spr.">5377.</ls> <ls>VARĀH. BṚH. S. 61,16. 86,80.</ls> {#°carman#}
+<ls>RĀJA-TAR. 5,325.</ls> {#°yUTa#}
+<ls>PAÑCAT. 253,13.</ls>
+<ls>Verz. d. B. H. No. 897.</ls> {#°SabdajYAna#}
+<ls>Verz. d. Oxf. H. 92,b,36.</ls> {#°kukkuwalAvakayudDaviDi#}
+<ls n="Verz. d. Oxf. H.">217,a,13.</ls> {#mezAnano grahaH#} {%widderköpfig%}
+<ls>SUŚR. 2,394,5.</ls> {#mezAsya#}
+<ls>Verz. d. Oxf. H. 307,b,25.</ls>
+<div n="2">— b) {%der Widder im Thierkreise%} (oder überh. {%der erste Bogen von 30° in einem Kreise)%}
+<ls>AK. 1,1,2,29.</ls> <ls n="AK.">3,4,28,216.</ls> <ls>TRIK. 3,3,439.</ls> <ls>H. 116.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>BAUDHĀYANA</ls> bei <ls>WEBER, Nakṣ. 2,358.</ls> <ls>SŪRYAS. 1,57. 3,18. 42. 12,45. 48. 57. 67. 13,6. 14,10.</ls> <ls>VARĀH. BṚH. S. 5,35. 102,1. 7.</ls> <ls>BṚH. 1,4. 5,20. 11,9. 20,1. 25,4. 27,1.</ls> <ls>LAGHUJ. 1,12. 20</ls> in <ls>Ind. St. 2,280. 282.</ls> <ls>BHĀG. P. 5,21,4.</ls> <ls>MĀRK. P. 58,75. 79.</ls> <ls>Verz. d. Oxf. H. 97,b,32. 339,b,30.</ls> {#mezAdizu(!) ca mAsezu#}
+<ls n="Verz. d. Oxf. H.">10,a, N. 1.</ls>
+<div n="2">— c) {%ein best. Heilmittel%}
+<ls>MED.</ls>
+<div n="2">— d) {#mezasya puzpARi#}
+<ls>SUŚR. 2,342,11</ls>; vgl. {#mezapuzpA#} und {#mezakusuma#} .
+<div n="2">— e) Bez. {%eines best. Dämons, durch welchen Kinder besessen werden%}: {#kumArapitfmezAya#}
+<ls>SUŚR. 2,393,12.</ls> {#kumAra = skanda, pitar#} ebenfalls ein <is>Graha</is> (vgl.
 <ls>Verz. d. Oxf. H. 307,b,26</ls>)
 [Page5-0908]
-und zu {#meza#} vgl. {#nEgameza#} und {#mezAnana#} und {#mezAsya#} oben u. 1,a. am Ende. Es kann aber {#kumArapitfmeza#} auch als N. eines Dämons aufgefasst werden. 
-<div n="1">— 2) <lex>f.</lex> {#A#} {%eine Art Kardamomen%} {#(truwi)#} 
-<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#mezI/#} 
-<div n="2"> a) {%Schafmutter%} (auch in der abgeleiteten Bed. wie masc.) 
-<ls>TRIK. 2, 9, 24.</ls> 
-<ls>H. 1277.</ls> 
-<ls>ṚV. 1, 43, 6.</ls> {#sf\jA\namati^ me\zya^H#} 
-<ls n="ṚV.">9, 8, 5.</ls> <ls n="ṚV. 9,">86, 47.</ls> <ls n="ṚV. 9,">107, 11.</ls> <ls>VS. 3, 59. 24, 1.</ls> <ls>TBR. 1, 6, 4, 4.</ls> <ls>KAUŚ. 127.</ls> 
-<div n="2">— b) {%Nardostachys Jatamansi Dec.%} und {%Dalbergia ougeinensis Roxb.%} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>; vgl. {#kAlamezI#} . 
-<div n="2">— c) v.l. für {#meSI#} 
-<ls>TS. 3, 2, 2, 1.</ls>
+und zu {#meza#} vgl. {#nEgameza#} und {#mezAnana#} und {#mezAsya#} oben u. 1,a. am Ende. Es kann aber {#kumArapitfmeza#} auch als N. eines Dämons aufgefasst werden.
+<div n="1">— 2) <lex>f.</lex> {#A#} {%eine Art Kardamomen%} ({#truwi#})
+<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 3) <lex>f.</lex> {#mezI/#}
+<div n="2"> a) {%Schafmutter%} (auch in der abgeleiteten Bed. wie masc.)
+<ls>TRIK. 2,9,24.</ls>
+<ls>H. 1277.</ls>
+<ls>ṚV. 1,43,6.</ls> {#sf\jA\namati^ me\zya^H#}
+<ls n="ṚV.">9,8,5.</ls> <ls n="ṚV. 9,">86,47.</ls> <ls n="ṚV. 9,">107,11.</ls> <ls>VS. 3,59.</ls> <ls n="VS.">24,1.</ls> <ls>TBR. 1,6,4,4.</ls> <ls>KAUŚ. 127.</ls>
+<div n="2">— b) {%Nardostachys Jatamansi Dec.%} und {%Dalbergia ougeinensis Roxb.%}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>; vgl. {#kAlamezI#} .
+<div n="2">— c) v.l. für {#meSI#}
+<ls>TS. 3,2,2,1.</ls>
 <LEND>

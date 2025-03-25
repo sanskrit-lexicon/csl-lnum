@@ -1,6 +1,6 @@
 <L>8308<pc>263<k1>facile<k2>facile
-<div n="lb"/>{@FACILE:@}¦ <div n="I">I Easy: </div><div n="1">(1) {#sukaraH#} ({#rA, raM#}); </div><div n="1">(2) {#ayatna-#}
-<div n="lb"/>{#sADyaH#} ({#DyA, DyaM#}); </div><div n="1">(3) {#anAyAsanizpAdyaH#} ({#dyA, dyaM#}).</div>
-<div n="lb"/><div n="I">II Easy to pass: {#sugamaH#} ({#mA, maM#}). </div><div n="I">III Mild,
-<div n="lb"/>affable: q.v.: {#mfdu#} (f. {#dvI#}).</div>
+{@FACILE:@}¦ <div n="I">I Easy: </div><div n="1">(1) {#sukaraH#} ({#rA, raM#}); </div><div n="1">(2) {#ayatna-#}
+{#sADyaH#} ({#DyA, DyaM#}); </div><div n="1">(3) {#anAyAsanizpAdyaH#} ({#dyA, dyaM#}).</div>
+<div n="I">II Easy to pass: {#sugamaH#} ({#mA, maM#}). </div><div n="I">III Mild,
+affable: q.v.: {#mfdu#} (f. {#dvI#}).</div>
 <LEND>

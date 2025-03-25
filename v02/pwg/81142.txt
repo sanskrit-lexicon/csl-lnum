@@ -1,67 +1,66 @@
 <L>81142<pc>6-0032<k1>yatna<k2>yatna/
-{#yatna/#}¦ (von {#yat#}) <lex>m.</lex> 
-<ls>P. 3, 3, 90.</ls> 
-<ls>VOP. 26, 180.</ls> {%Willensthätigkeit, Bestrebung%} 
-<ls>KAṆ. 5, 13.</ls> <ls>COLEBR. Misc. Ess. 1, 285.</ls> <ls>BHĀṢĀP. 4. 33.</ls> <ls>KUSUM. 5, 8.</ls> <ls>YĀJÑ. 3, 175</ls> (wo wohl {#cetanA yatnaH#} zu lesen ist). {%Verrichtung, Arbeit%} 
-<ls>BHAR.</ls> <ls>NĀṬY. 34, 42.</ls> {%Bemühung, Mühe, Anstrengung%} 
-<ls>AK. 3, 4, 3, 27.</ls> 
-<ls>MBH. 3, 2807.</ls> 
-<ls>YOGAS. 1, 13.</ls> {#tasya yatnaH Srama eva kevalam#} 
-<ls>BHĀG. P. 5, 19, 14.</ls> {#vyarTa°#} 
-<ls>Spr. 65.</ls> {#vinAyi yatnena#} 
-<ls>1509.</ls> <ls>VARĀH. BṚH. S. 44, 17.</ls> mit loc.: {#yadi paropakftO na yatnaH#} {%wenn man sich nicht bemüht Andern Gefälligkeiten zu erweisen%} 
-<ls>Spr. 2791.</ls> {#dozezu yatnaH sumahAnKalasya#} {%der Bösewicht kümmert sich gar sehr um Fehler%} 
-<ls>3872.</ls> <ls>RAGH. 2, 56.</ls> {#abanDyayatnASca baBUvurarBake#} 
-<ls>3, 29.</ls> <ls>BHĀG. P. 3, 15, 21.</ls> Die Ergänzung im comp. vorangehend: {#nizPalAramBayatnAH#} 
-<ls>MEGH. 55.</ls> {#rUpaviDAna°#} 
-<ls>KUMĀRAS. 7, 66.</ls> 
-<ls>KATHĀS. 55, 43.</ls> {#parArTaGawanAyatnErvinA#} 
-<ls>Spr. 2958.</ls> {#yatnaM kar#} {%sich Mühe geben, Mühe auf Etwas%} (loc.) {%wenden, sich Etwas angelegen sein lassen%}: {#yatne kfte yadi na siDyati#} 
-<ls>471.</ls> {#mA vizAdaM gamo vIra kuru yatnaM mayA saha#} 
-<ls>R. 3, 68, 5.</ls> <ls>Schol.</ls> zu <ls>ṚV. PRĀT. 3, 15.</ls> {#kriyatAM ca taTA yatnaH - yaTA#} 
-<ls>R. 1, 60, 7.</ls> {#kuryAdaDyayane yatnamAcAryasya hitezu ca#} 
-<ls>M. 2, 191.</ls> 
-<ls>MBH. 1, 1116. 5, 7409.</ls> 
-<ls>HARIV. 4428.</ls> 
-<ls>R. 1, 9, 12. 3, 68, 9. 4, 6, 19. 41, 34. 5, 77, 9.</ls> 
-<ls>Spr. 4023. 4193. 5061.</ls> 
-<ls>PRAB. 93, 7.</ls> {#sa prajArTe paraM yatnamakarot#} 
-<ls>MBH. 3, 2077.</ls> {#manTaraM mocayituM yatnaH kriyatAm#} 
-<ls>HIT. 43, 13.</ls> {#yatnamAsTA#} dass. 
-<ls>R. 1, 44, 11.</ls> 
-<ls>Spr. 5353.</ls> {#yatnAntaramAsTeyam#} 
-<ls>KĀŚ.</ls> zu <ls>P. 6, 1, 26.</ls> {#indriyARAM saMyame yatnamAtizWet#} 
-<ls>M. 2, 88. 8, 302. 9, 252. 333.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 69, 13.</ls> {#paramaM yatnamAtizWetpuruzo rakzaRaM prati#} 
-<ls>M. 9, 16.</ls> {#paraM yatnaM samAsTitaH#} 
-<ls>MBH. 3, 2823.</ls> {#pratipAtramADIyatAM yatnaH#} 
-<ls>ŚĀK. 3, 13.</ls> {#parArTaM yatnamAraBya#} 
-<ls>MBH. 3, 2175.</ls> {#yatnena#} {%sorgfältig, eifrig%}: {#yatnena BojayecCrAdDe bahvfcaM vedapAragam#} so v. a. {%er lasse es sich angelegen sein zu speisen%} 
-<ls>M. 3, 145. 234.</ls> {#tadyatnena varjayet#} 
-<ls>4, 159. 7, 49. 10, 83.</ls> <ls>R. 2, 75, 26.</ls> <ls>Spr. 439.</ls> <ls>PAÑCAT. 192, 12.</ls> {#yatnenApyanivAryam#} {%trotz aller Anstrengung%} 
-<ls>KATHĀS. 51, 36.</ls> {#ayatnena#} (s. auch u. {#ayatna#}) {%ohne Mühe%} 
-<ls>R. 4, 44, 78.</ls> 
-<ls>VARĀH. BṚH. S. 75, 6.</ls> 
-<ls>PAÑCAT. 201, 14.</ls>
+{#yatna/#}¦ (von {#yat#}) <lex>m.</lex>
+<ls>P. 3,3,90.</ls>
+<ls>VOP. 26,180.</ls> {%Willensthätigkeit, Bestrebung%}
+<ls>KAṆ. 5,13.</ls> <ls>COLEBR. Misc. Ess. 1,285.</ls> <ls>BHĀṢĀP. 4. 33.</ls> <ls>KUSUM. 5,8.</ls> <ls>YĀJÑ. 3,175</ls> (wo wohl {#cetanA yatnaH#} zu lesen ist). {%Verrichtung, Arbeit%}
+<ls>BHAR.</ls> <ls>NĀṬY. 34,42.</ls> {%Bemühung, Mühe, Anstrengung%}
+<ls>AK. 3,4,3,27.</ls>
+<ls>MBH. 3,2807.</ls>
+<ls>YOGAS. 1,13.</ls> {#tasya yatnaH Srama eva kevalam#}
+<ls>BHĀG. P. 5,19,14.</ls> {#vyarTa°#}
+<ls>Spr. 65.</ls> {#vinAyi yatnena#}
+<ls n="Spr.">1509.</ls> <ls>VARĀH. BṚH. S. 44,17.</ls> mit loc.: {#yadi paropakftO na yatnaH#} {%wenn man sich nicht bemüht Andern Gefälligkeiten zu erweisen%}
+<ls>Spr. 2791.</ls> {#dozezu yatnaH sumahAnKalasya#} {%der Bösewicht kümmert sich gar sehr um Fehler%}
+<ls n="Spr.">3872.</ls> <ls>RAGH. 2,56.</ls> {#abanDyayatnASca baBUvurarBake#}
+<ls n="RAGH.">3,29.</ls> <ls>BHĀG. P. 3,15,21.</ls> Die Ergänzung im comp. vorangehend: {#nizPalAramBayatnAH#}
+<ls>MEGH. 55.</ls> {#rUpaviDAna°#}
+<ls>KUMĀRAS. 7,66.</ls>
+<ls>KATHĀS. 55,43.</ls> {#parArTaGawanAyatnErvinA#}
+<ls>Spr. 2958.</ls> {#yatnaM kar#} {%sich Mühe geben, Mühe auf Etwas%} (loc.) {%wenden, sich Etwas angelegen sein lassen%}: {#yatne kfte yadi na siDyati#}
+<ls n="Spr.">471.</ls> {#mA vizAdaM gamo vIra kuru yatnaM mayA saha#}
+<ls>R. 3,68,5.</ls> <ls>Schol.</ls> zu <ls>ṚV. PRĀT. 3,15.</ls> {#kriyatAM ca taTA yatnaH — yaTA#}
+<ls>R. 1,60,7.</ls> {#kuryAdaDyayane yatnamAcAryasya hitezu ca#}
+<ls>M. 2,191.</ls>
+<ls>MBH. 1,1116.</ls> <ls n="MBH.">5,7409.</ls>
+<ls>HARIV. 4428.</ls>
+<ls>R. 1,9,12.</ls> <ls n="R.">3,68,9.</ls> <ls n="R.">4,6,19.</ls> <ls n="R. 4,">41,34.</ls> <ls n="R.">5,77,9.</ls>
+<ls>Spr. 4023.</ls> <ls n="Spr.">4193.</ls> <ls n="Spr.">5061.</ls>
+<ls>PRAB. 93,7.</ls> {#sa prajArTe paraM yatnamakarot#}
+<ls>MBH. 3,2077.</ls> {#manTaraM mocayituM yatnaH kriyatAm#}
+<ls>HIT. 43,13.</ls> {#yatnamAsTA#} dass.
+<ls>R. 1,44,11.</ls>
+<ls>Spr. 5353.</ls> {#yatnAntaramAsTeyam#}
+<ls>KĀŚ.</ls> zu <ls>P. 6,1,26.</ls> {#indriyARAM saMyame yatnamAtizWet#}
+<ls>M. 2,88.</ls> <ls n="M.">8,302.</ls> <ls n="M.">9,252.</ls> <ls n="M. 9,">333.</ls>
+<ls>R. GORR. 1,69,13.</ls> {#paramaM yatnamAtizWetpuruzo rakzaRaM prati#}
+<ls>M. 9,16.</ls> {#paraM yatnaM samAsTitaH#}
+<ls>MBH. 3,2823.</ls> {#pratipAtramADIyatAM yatnaH#}
+<ls>ŚĀK. 3,13.</ls> {#parArTaM yatnamAraBya#}
+<ls>MBH. 3,2175.</ls> {#yatnena#} {%sorgfältig, eifrig%}: {#yatnena BojayecCrAdDe bahvfcaM vedapAragam#} so v. a. {%er lasse es sich angelegen sein zu speisen%}
+<ls>M. 3,145.</ls> <ls n="M. 3,">234.</ls> {#tadyatnena varjayet#}
+<ls n="M.">4,159.</ls> <ls n="M.">7,49.</ls> <ls n="M.">10,83.</ls> <ls>R. 2,75,26.</ls> <ls>Spr. 439.</ls> <ls>PAÑCAT. 192,12.</ls> {#yatnenApyanivAryam#} {%trotz aller Anstrengung%}
+<ls>KATHĀS. 51,36.</ls> {#ayatnena#} (s. auch u. {#ayatna#}) {%ohne Mühe%}
+<ls>R. 4,44,78.</ls>
+<ls>VARĀH. BṚH. S. 75,6.</ls>
+<ls>PAÑCAT. 201,14.</ls>
 [Page6-0033]
-{#yatnEs = yatnena#} 
-<ls>MBH. 15, 186.</ls> {#upaseveta taM nityaM sarvayatnErguruM yaTA#} 
-<ls>M. 7, 175.</ls> {#na vizamamftaM kartuM SakyaM yatnaSatErapi#} 
-<ls>Spr. 1470.</ls> {#yatnAt#} {%bei aller Anstrengung%} 
-<ls>2281. 2905.</ls> {%sorgfältig, eifrig%} 
-<ls>SUŚR. 1, 102, 12.</ls> 
-<ls>VARĀH. BṚH. S. 53, 66.</ls> 
-<ls>SARVADARŚANAS. 39, 13.</ls> {#mahato yatnAt#} {%mit grosser Anstrengung%} 
-<ls>R. 6, 84, 26.</ls> {#ayatnAt#} (s. auch u. {#ayatna#}) {%ohne Anstrengung%} 
-<ls>PAÑCAT. 176, 8</ls>, wo {#'yatnAdeva#} zu lesen ist. {#yatnatas#} {%sorgfältig, eifrig%} 
-<ls>M. 3, 135. 9, 15.</ls> 
-<ls>R. 1, 8, 19. 2, 91, 7. 4, 8, 53. 6, 1, 15.</ls> 
-<ls>Spr. 379. 843. 1897. 2661.</ls> 
-<ls>KATHĀS. 26, 4. 52, 376. 53, 7.</ls> 
-<ls>SARVADARŚANAS. 39, 10.</ls> {#ayatnatas#} (s. auch u. {#ayatna#}) {%ohne Mühe%} 
-<ls>VID. 282.</ls> 
-<ls>VEDĀNTAS. (Allah.) No. 148.</ls> <ls>H. 1481.</ls> {#yatnapratipAdya#} {%mit Mühe, nicht leicht%} 
-<ls>KĀŚ.</ls> zu <ls>P. 1, 2, 53.</ls> 
+{#yatnEs = yatnena#}
+<ls>MBH. 15,186.</ls> {#upaseveta taM nityaM sarvayatnErguruM yaTA#}
+<ls>M. 7,175.</ls> {#na vizamamftaM kartuM SakyaM yatnaSatErapi#}
+<ls>Spr. 1470.</ls> {#yatnAt#} {%bei aller Anstrengung%}
+<ls n="Spr.">2281.</ls> <ls n="Spr.">2905.</ls> {%sorgfältig, eifrig%}
+<ls>SUŚR. 1,102,12.</ls>
+<ls>VARĀH. BṚH. S. 53,66.</ls>
+<ls>SARVADARŚANAS. 39,13.</ls> {#mahato yatnAt#} {%mit grosser Anstrengung%}
+<ls>R. 6,84,26.</ls> {#ayatnAt#} (s. auch u. {#ayatna#}) {%ohne Anstrengung%}
+<ls>PAÑCAT. 176,8</ls>, wo {#'yatnAdeva#} zu lesen ist. {#yatnatas#} {%sorgfältig, eifrig%}
+<ls>M. 3,135.</ls> <ls n="M.">9,15.</ls>
+<ls>R. 1,8,19.</ls> <ls n="R.">2,91,7.</ls> <ls n="R.">4,8,53.</ls> <ls n="R.">6,1,15.</ls>
+<ls>Spr. 379.</ls> <ls n="Spr.">843.</ls> <ls n="Spr.">1897.</ls> <ls n="Spr.">2661.</ls>
+<ls>KATHĀS. 26,4.</ls> <ls n="KATHĀS.">52,376.</ls> <ls n="KATHĀS.">53,7.</ls>
+<ls>SARVADARŚANAS. 39,10.</ls> {#ayatnatas#} (s. auch u. {#ayatna#}) {%ohne Mühe%}
+<ls>VID. 282.</ls>
+<ls>VEDĀNTAS. (Allah.) No. 148.</ls> <ls>H. 1481.</ls> {#yatnapratipAdya#} {%mit Mühe, nicht leicht%}
+<ls>KĀŚ.</ls> zu <ls>P. 1,2,53.</ls>
 <div n="v">— Vgl. {#a°, niryatna, pra°, prati°, sa°#} .
 <LEND>

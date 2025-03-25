@@ -1,37 +1,36 @@
 <L>95438<pc>6-1369<k1>veDa<k2>veDa
-{#veDa#}¦ (von {#vyaD#}) 
-<div n="1"> 1) <lex>m.</lex> 
-<div n="2"> a) {%Durchbohrung%} 
-<ls>AK. 3, 3, 8.</ls> 
-<ls>H. 1523.</ls> von Perlen <ls>VARĀH. BṚH. S. 81, 22.</ls> {#maRi°#} 
-<ls>SARVADARŚANAS. 180, 6.</ls> {%das Treffen eines Geschosses%} 
-<ls>MBH. 8, 3615.</ls> {#bARaveDe paraM yatnamakarot#} 
-<ls>12, 6300.</ls> {%Durchbruch%}: {#yatra yatra vivedOGaveDaM salilaviplave . tatra tatra vitastAyAH pravAhAnnUtanAnvyaDAt ..#} 
-<ls>RĀJA-TAR. 5, 95.</ls> 
-<div n="2">— b) {%Durchstich, Oeffnung%} 
-<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 6, 1, 29. 30.</ls> {#SoRiteMna sirAveDAdvisarpatA#} 
-<ls>SUŚR. 2, 344, 20.</ls> 
-<div n="2">— c) {%Tiefe, Vertiefung%} 
-<ls>COLEBR. Alg. 97. 103.</ls> {#aNgulamekaM nABirveDena#} 
-<ls>VARĀH. BṚH. S. 58, 23.</ls> 
-<div n="2">— d) {%Fixirung des Standes der Sonne oder der Sterne%} 
-<ls>VARĀH. BṚH. S. 3, 3</ls> <ls>?(vgl. KERN in der Uebers. z. d. St.). GAṆIT. BHAGRAHAY. 6, Comm.</ls> {#veDena grahajYAnam#} 
-<ls>GOLĀDHY. 11, 13,</ls> Comm. <ls>WEBER, KṚṢṆAJ. 227.</ls>
+{#veDa#}¦ (von {#vyaD#})
+<div n="1"> 1) <lex>m.</lex>
+<div n="2"> a) {%Durchbohrung%}
+<ls>AK. 3,3,8.</ls>
+<ls>H. 1523.</ls> von Perlen <ls>VARĀH. BṚH. S. 81,22.</ls> {#maRi°#}
+<ls>SARVADARŚANAS. 180,6.</ls> {%das Treffen eines Geschosses%}
+<ls>MBH. 8,3615.</ls> {#bARaveDe paraM yatnamakarot#}
+<ls n="MBH.">12,6300.</ls> {%Durchbruch%}: {#yatra yatra vivedOGaveDaM salilaviplave . tatra tatra vitastAyAH pravAhAnnUtanAnvyaDAt ..#}
+<ls>RĀJA-TAR. 5,95.</ls>
+<div n="2">— b) {%Durchstich, Oeffnung%}
+<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 6,1,29. 30.</ls> {#SoRiteMna sirAveDAdvisarpatA#}
+<ls>SUŚR. 2,344,20.</ls>
+<div n="2">— c) {%Tiefe, Vertiefung%}
+<ls>COLEBR. Alg. 97. 103.</ls> {#aNgulamekaM nABirveDena#}
+<ls>VARĀH. BṚH. S. 58,23.</ls>
+<div n="2">— d) {%Fixirung des Standes der Sonne oder der Sterne%}
+<ls>VARĀH. BṚH. S. 3,3</ls> (vgl. <ls>KERN</ls> in der Uebers. z. d. St.). <ls>GAṆIT.</ls> <ls>BHAGRAHAY. 6, Comm.</ls> {#veDena grahajYAnam#}
+<ls>GOLĀDHY. 11,13</ls>, Comm. <ls>WEBER, KṚṢṆAJ. 227.</ls>
 [Page6-1370]
-
- {#°valaya#} 
-<ls>COLEBR. Misc. Ess. II, 325.</ls> 
-<div n="2">— e) Bez. {%eines best. Processes, dem das Quecksilber unterworfen wird%}, 
-<ls>SARVADARŚANAS. 100, 7.</ls> {#loha°#} 
-<ls>13.</ls> {#deha°#} 
-<ls>14.</ls> 
-<div n="2">— f) {%ein best. Zeitmaass%}, = 
-<ls>100</ls> <is>Truṭi</is> = (1/3) <is>Lava</is> 
-<ls>BHĀG. P. 3, 11, 6.</ls> 
-<ls>VP. 22,</ls> 
-<ls>N. 3.</ls> 
-<div n="2">— g) N. pr.; s. u. ({#veDas#} 5). 
-<div n="1">— 2) <lex>f.</lex> {#A#} mystische Bez. {%des Buchstabens%} {#ma#} 
-<ls>WEBER, RĀMAT. UP. 336.</ls> 
+ {#°valaya#}
+<ls>COLEBR. Misc. Ess. II,325.</ls>
+<div n="2">— e) Bez. {%eines best. Processes, dem das Quecksilber unterworfen wird%},
+<ls>SARVADARŚANAS. 100,7.</ls> {#loha°#}
+<ls n="SARVADARŚANAS.">13.</ls> {#deha°#}
+<ls n="SARVADARŚANAS.">14.</ls>
+<div n="2">— f) {%ein best. Zeitmaass%}, =
+100 <is>Truṭi</is> = (1/3) <is>Lava</is>
+<ls>BHĀG. P. 3,11,6.</ls>
+<ls>VP. 22</ls>,
+<ls>N. 3.</ls>
+<div n="2">— g) N. pr.; s. u. ({#veDas#} 5).
+<div n="1">— 2) <lex>f.</lex> {#A#} mystische Bez. {%des Buchstabens%} {#ma#}
+<ls>WEBER, RĀMAT. UP. 336.</ls>
 <div n="v">— Vgl. {#arka°, karRa°, mahA°, roma°, Sabda°#} .
 <LEND>

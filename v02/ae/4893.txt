@@ -1,15 +1,15 @@
 <L>4893<pc>202<k1>hero<k2>hero
 {@Hero,@}¦ {%s.%} {#vIraH, SUraH, BawaH, vikrAMtapuruzaH, pra-#}
-<div n="lb"/>{#-mahA-vIraH, jetf#} {%m.,%} {#raTin#} {%m.,%} {#atiraTaH, SO-#}
-<div n="lb"/>{#-wIraH#}. {@2@} (In dramas &c.) {#nAyakaH, kaTA-#}
-<div n="lb"/>{#-puruzaH;#} ‘h. es of Rāmāyaṇa’ {#rAmAyaRa-#}
-<div n="lb"/>{#-kaTApuruzAH#} or {#nAyakAH#}. {@-ic,-ical,@} {%a.%} {#vIra,#}
-<div n="lb"/>{#SUra, pravIra, vikrAMta, vIryavat, amitOjas,#}
-<div n="lb"/>{#mahAvIrya;#} ‘a h. deed’ {#parAkramaH, vikramaH,#}
-<div n="lb"/>{#avadAtaM karma#}. {@2@} {#vIracaritravizayaka, vIrarasa-#}
-<div n="lb"/>{#-praDAna#}. {@-ically,@} {%adv.%} {#savikramaM, savIryaM,#}
-<div n="lb"/>{#SUravat#}. {@-ism,@} {%s.%} {#vIryaM, SUratvaM, SOryaM, parA-#}
-<div n="lb"/>{#-vi-kramaH, DAman#} {%n.,%} {#ojas#} {%n.,%} {#raRotsAhaH,#}
-<div n="lb"/>{#pOruzaM, sAhasaM, vIryavattvaM, SOwIryaM#}. {@-Heroine,@}
-<div n="lb"/>{%s.%} {#nAyikA#}.
+{#-mahA-vIraH, jetf#} {%m.,%} {#raTin#} {%m.,%} {#atiraTaH, SO-#}
+{#-wIraH#}. {@2@} (In dramas &c.) {#nAyakaH, kaTA-#}
+{#-puruzaH;#} ‘h. es of Rāmāyaṇa’ {#rAmAyaRa-#}
+{#-kaTApuruzAH#} or {#nAyakAH#}. {@-ic,-ical,@} {%a.%} {#vIra,#}
+{#SUra, pravIra, vikrAMta, vIryavat, amitOjas,#}
+{#mahAvIrya;#} ‘a h. deed’ {#parAkramaH, vikramaH,#}
+{#avadAtaM karma#}. {@2@} {#vIracaritravizayaka, vIrarasa-#}
+{#-praDAna#}. {@-ically,@} {%adv.%} {#savikramaM, savIryaM,#}
+{#SUravat#}. {@-ism,@} {%s.%} {#vIryaM, SUratvaM, SOryaM, parA-#}
+{#-vi-kramaH, DAman#} {%n.,%} {#ojas#} {%n.,%} {#raRotsAhaH,#}
+{#pOruzaM, sAhasaM, vIryavattvaM, SOwIryaM#}. {@-Heroine,@}
+{%s.%} {#nAyikA#}.
 <LEND>

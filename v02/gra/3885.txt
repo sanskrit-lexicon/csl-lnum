@@ -1,7 +1,7 @@
 <L>3885<pc>0550<k1>tfzu<k2>tf/zu/
-{@tṛ́ṣú,@}¦ a., {%gierig, lechzend, verlangend,%} insbesondere <lbinfo n="9"/> 2) <ab>n.</ab>, -ú, adverbial <ab>dass.</ab>
-<div n="P1">-úm {303,11} (vā́tam) dūtám <lbinfo n="3"/> kṛṇute.
-<div n="P1">-ú 2) {58,2. 4}; {303,11}; {519,4}; {905,5}; {917,7}; {939,8}; {941,6}.
-<div n="P1">-únā {303,11}.
-<div n="P1">-vī́m prásitim {300,1}.
+{@tṛ́ṣú,@}¦ <ab>a.</ab>, {%gierig, lechzend, verlangend,%} insbesondere 2〉 <ab>n.</ab>, -ú, adverbial <ab>dass.</ab>
+<div n="TS">-úm {303,11} (vā́tam) dūtám kṛṇute.
+<div n="TS">-ú 2〉 {58,2}. _{58,4}; {303,11}; {519,4}; {905,5}; {917,7}; {939,8}; {941,6}.
+<div n="TS"><chg type="chg" n="126" src="gra"><old>-únā</old><new>-úṇā</new></chg> {303,11}.
+<div n="TS">-vī́m prásitim {300,1}.
 <LEND>

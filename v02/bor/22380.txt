@@ -1,6 +1,6 @@
 <L>22380<pc>705<k1>text<k2>text
-<div n="lb"/>{@TEXT:@}¦ <div n="I">I Original writing: {#mUlam,#} <div n="xe">{%I shall not%}
-<div n="lb"/>{%write any thing outside the t.:%}</div> <div n="xs">{#nAmUlaM liKyate kiYcit,#}</div>
-<div n="lb"/>M. n. </div><div n="I">II Of scripture: </div><div n="1">(1) {#vacanam;#} </div><div n="1">(2)
-<div n="lb"/>{#Fc#} (f. of the Rigveda).</div>
+{@TEXT:@}¦ <div n="I">I Original writing: {#mUlam,#} <div n="xe">{%I shall not%}
+{%write any thing outside the t.:%}</div> <div n="xs">{#nAmUlaM liKyate kiYcit,#}</div>
+M. n. </div><div n="I">II Of scripture: </div><div n="1">(1) {#vacanam;#} </div><div n="1">(2)
+{#Fc#} (f. of the Rigveda).</div>
 <LEND>

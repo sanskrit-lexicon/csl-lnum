@@ -1,15 +1,15 @@
 <L>113481<pc>7-1241<k1>skanDAvAra<k2>skanDAvAra
-{#skanDAvAra#}¦ ({#skanDa + A°#}) <lex>m.</lex> {%das königliche Hauptquartier im Felde (Hut des Stammes%} d. i. {%des Fürsten%}) 
-<ls>TRIK. 2, 8, 2.</ls> 
-<ls>H. 746. 973.</ls> 
-<ls>HALĀY. 2, 131.</ls> 
-<ls>MBH. 1, 6950. 5, 196. 5159. 5311.</ls> 
-<ls>R. 6, 108, 21.</ls> 
-<ls>KĀM. NĪTIS. 16, 28. 33.</ls> {#Avftastu yataH skanDaH skanDAvArastataH smftaH#} 
-<ls>?39. 18, 60. SUŚR. 1, 123, 1. KATHĀS. 102, 105. HIT. 107, 21. Inschr. in Journ. of the R. A. S. 1, 268</ls> (der neuen Serie). {#skanDAvAraM niveSayet#} 
-<ls>KĀM. NĪTIS. 16, 1.</ls> <ls>PRAB. 82, 2.</ls> {#skanDAvArasya niveSaH#} 
-<ls>VARĀH. BṚH. S. 95, 45.</ls> {#°niveSa, °niveSana#} 
-<ls>MBH. 9, 1659.</ls> 
-<ls>R. 3, 2, 3. 6, 17, 15.</ls> {#°vAraM ni-banD#} 
-<ls>RĀJA-TAR. 1, 60.</ls> nach den Lexicographen auch {%Heer.%}
+{#skanDAvAra#}¦ ({#skanDa + A°#}) <lex>m.</lex> {%das königliche Hauptquartier im Felde (Hut des Stammes%} <ab>d. i.</ab> {%des Fürsten%})
+<ls>TRIK. 2,8,2.</ls>
+<ls>H. 746.</ls> <ls n="H.">973.</ls>
+<ls>HALĀY. 2,131.</ls>
+<ls>MBH. 1,6950.</ls> <ls n="MBH.">5,196.</ls> <ls n="MBH. 5,">5159.</ls> <ls n="MBH. 5,">5311.</ls>
+<ls>R. 6,108,21.</ls>
+<ls>KĀM. NĪTIS. 16,28. 33.</ls> {#Avftastu yataH skanDaH skanDAvArastataH smftaH#}
+<ls n="KĀM. NĪTIS.">39. 18,60.</ls> <ls>SUŚR. 1,123,1.</ls> <ls>KATHĀS. 102,105.</ls> <ls>HIT. 107,21.</ls> Inschr. in <ls>Journ. of the R. A. S. 1,268</ls> (der neuen Serie). {#skanDAvAraM niveSayet#}
+<ls>KĀM. NĪTIS. 16,1.</ls> <ls>PRAB. 82,2.</ls> {#skanDAvArasya niveSaH#}
+<ls>VARĀH. BṚH. S. 95,45.</ls> {#°niveSa, °niveSana#}
+<ls>MBH. 9,1659.</ls>
+<ls>R. 3,2,3.</ls> <ls n="R.">6,17,15.</ls> {#°vAraM ni-banD#}
+<ls>RĀJA-TAR. 1,60.</ls> nach den Lexicographen auch {%Heer.%}
 <LEND>

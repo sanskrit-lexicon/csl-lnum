@@ -1,27 +1,26 @@
 <L>43685<pc>4-0591<k1>palAy<k2>palAy
-{#palAy#}¦ (s. u. 3. {#i#} mit {#palA, prapalA, vipalA, saMpalA#}) {%fliehen.%} Hier können noch folgende Stellen nachgetragen werden: {#pa/lAyate#} (ohne <is>Avagraha</is> im <is>Padap</is>.) 
-<ls>TS. 5, 4, 12, 1.</ls> 
-<ls>PAÑCAV. BR. 21, 4, 5. 14, 17.</ls> 
-<ls>R. 2, 106, 27.</ls> 
-<ls>RĀJA-TAR. 3, 521.</ls> 
-<ls>KATHĀS. 43, 130. 45, 265.</ls> {#palAyiTAH#} 
-<ls>MBH. 7, 6985.</ls> {#apalAyizWAH#} 
-<ls>ŚĀṄKH. ŚR. 13, 2, 4. 7.</ls> {#palAyizya/mARa#} 
-<ls>TS. 7, 1, 19, 1.</ls> {#palAyizyati#} (so ist st. {#palAsyatyapi#} zu lesen) 
-<ls>ŚATR. 14, 107.</ls> {#palAyan#} partic. praes. 
-<ls>DRAUP. 8, 36.</ls> 
-<ls>MBH. 4, 2247.</ls> {#palAyya#} 
-<ls>KATHĀS. 27, 170. 28, 183. 48, 87. 90.</ls> {#pa/lAyita#} partic. 
-<ls>TS. 7, 1, 13, 1.</ls> 
-<ls>KATHĀS. 37, 124. 43, 106.</ls> <lex>n.</lex> {%Galopp%} 
-<ls>TRIK. 2, 8, 45</ls>; so ist nach den Corrigg. st. {#pulAyita#} zu lesen, welche Form 
+{#palAy#}¦ (s. u. 3. {#i#} mit {#palA, prapalA, vipalA, saMpalA#}) {%fliehen.%} Hier können noch folgende Stellen nachgetragen werden: {#pa/lAyate#} (ohne <is>Avagraha</is> im <is>Padap</is>.)
+<ls>TS. 5,4,12,1.</ls>
+<ls>PAÑCAV. BR. 21,4,5. 14,17.</ls>
+<ls>R. 2,106,27.</ls>
+<ls>RĀJA-TAR. 3,521.</ls>
+<ls>KATHĀS. 43,130.</ls> <ls n="KATHĀS.">45,265.</ls> {#palAyiTAH#}
+<ls>MBH. 7,6985.</ls> {#apalAyizWAH#}
+<ls>ŚĀṄKH. ŚR. 13,2,4. 7.</ls> {#palAyizya/mARa#}
+<ls>TS. 7,1,19,1.</ls> {#palAyizyati#} (so ist st. {#palAsyatyapi#} zu lesen)
+<ls>ŚATR. 14,107.</ls> {#palAyan#} partic. praes.
+<ls>DRAUP. 8,36.</ls>
+<ls>MBH. 4,2247.</ls> {#palAyya#}
+<ls>KATHĀS. 27,170.</ls> <ls n="KATHĀS.">28,183.</ls> <ls n="KATHĀS.">48,87.</ls> <ls n="KATHĀS. 48,">90.</ls> {#pa/lAyita#} partic.
+<ls>TS. 7,1,13,1.</ls>
+<ls>KATHĀS. 37,124.</ls> <ls n="KATHĀS.">43,106.</ls> <lex>n.</lex> {%Galopp%}
+<ls>TRIK. 2,8,45</ls>; so ist nach den Corrigg. st. {#pulAyita#} zu lesen, welche Form
 <ls>ŚKDR.</ls> und <ls>WILSON</ls> aufgenommen haben.
-
-<div n="p">— {#pra#} {%profugere%}: {#prapalAyante#} 
-<ls>MBH. 7, 1621.</ls> 
-<ls>HARIV. 13429.</ls> 
-<ls>R. 6, 25, 6.</ls> {#prapalAyya#} 
-<ls>84, 31.</ls> {#prapalAyita#} partic. 
-<ls>KATHĀS. 30, 128.</ls> 
-<ls>PAÑCAT. ed. orn. 57, 19.</ls>
+<div n="p">— {#pra#} {%profugere%}: {#prapalAyante#}
+<ls>MBH. 7,1621.</ls>
+<ls>HARIV. 13429.</ls>
+<ls>R. 6,25,6.</ls> {#prapalAyya#}
+<ls n="R. 6,">84,31.</ls> {#prapalAyita#} partic.
+<ls>KATHĀS. 30,128.</ls>
+<ls>PAÑCAT. ed. orn. 57,19.</ls>
 <LEND>

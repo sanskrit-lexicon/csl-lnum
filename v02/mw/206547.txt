@@ -1,10 +1,10 @@
 <L>206547<pc>1019,3<k1>vE<k2>vE/<h>2<e>1
 <hom>2.</hom> <s>vE/</s> ¦ <lex>ind.</lex> a particle of emphasis and affirmation, generally placed <i>after</i> a word and laying stress on it (it is usually translatable by ‘indeed’, ‘truly’, ‘certainly’, ‘verily’, ‘just’ &c.;
 it is very rare in the <ls>RV.</ls>;
-more frequent in the <ls>AV.</ls>, and very common in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s and in works that imitate their style;
-in the <s1 slp1="sUtra">Sūtra</s1>s it is less frequent and almost restricted to the combination <s>yady u vE</s>;
-in <s1 slp1="manu">Manu</s1>, <ls>MBh.</ls> and the <s1 slp1="kAvya">Kāvya</s1>s it mostly appears at the end of a line, and as a mere expletive. In <ls>RV.</ls> it is frequently followed by <s>u</s> in the combination <s>vA/ u</s> [both particles are separated, <ls>v, 18, 3</ls>] <pb n="1020,1"/>;
-it is also preceded by <s>u</s> and various other particles <ab>e.g.</ab> by <s>i/d</s>, <s>a/ha</s>, <s>uta/</s>;
-in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s it often follows <s>ha</s>, <s>ha sma</s>, <s>eva</s>;
-in later language <s>api</s> and <s>tu</s>. Accord. to some it is also a vocative particle). <info lex="ind"/>
+more frequent in the <ls>AV.</ls>, and very common in the <s1>Brāhmaṇa</s1>s and in works that imitate their style;
+in the <s1>Sūtra</s1>s it is less frequent and almost restricted to the combination <s>yady u vE</s>;
+in <s1>Manu</s1>, <ls>MBh.</ls> and the <s1>Kāvya</s1>s it mostly appears at the end of a line, and as a mere expletive. In <ls>RV.</ls> it is frequently followed by <s>u</s> in the combination <s>vA/ u</s> [both particles are separated, <ls n="RV.">v, 18, 3</ls>] <pb n="1020,1"/>;
+it is also preceded by <s>u</s> and various other particles, <ab>e.g.</ab> by <s>i/d</s>, <s>a/ha</s>, <s>uta/</s>;
+in the <s1>Brāhmaṇa</s1>s it often follows <s>ha</s>, <s>ha sma</s>, <s>eva</s>;
+in later language <s>api</s> and <s>tu</s>. <ab n="According">Accord.</ab> to some it is also a vocative particle). <info lex="ind"/>
 <LEND>

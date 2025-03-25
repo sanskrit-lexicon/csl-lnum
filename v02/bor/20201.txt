@@ -1,6 +1,6 @@
 <L>20201<pc>629<k1>serpent<k2>serpent
-<div n="lb"/>{@SERPENT:@}¦ <div n="1">(1) {#sarpaH;#} </div><div n="1">(2) {#BujaNgaH, -maH#} <div n="xe">{%or%}</div> <div n="xs">{#BujagaH;#}</div></div>
-<div n="lb"/><div n="1">(3) {#ahiH;#} </div><div n="1">(4) {#pannagaH;#} </div><div n="1">(5) {#uragaH;#} </div><div n="1">(6) {#nAgaH;#}</div>
-<div n="lb"/><div n="1">(7) {#PaRin#} (m.); </div><div n="1">(8) {#ASIvizaH;#} </div><div n="1">(9) {#darvIkaraH;#}</div>
-<div n="lb"/><div n="1">(10) {#dandaSUkaH:#} v. Snake.</div>
+{@SERPENT:@}¦ <div n="1">(1) {#sarpaH;#} </div><div n="1">(2) {#BujaNgaH, -maH#} <div n="xe">{%or%}</div> <div n="xs">{#BujagaH;#}</div></div>
+<div n="1">(3) {#ahiH;#} </div><div n="1">(4) {#pannagaH;#} </div><div n="1">(5) {#uragaH;#} </div><div n="1">(6) {#nAgaH;#}</div>
+<div n="1">(7) {#PaRin#} (m.); </div><div n="1">(8) {#ASIvizaH;#} </div><div n="1">(9) {#darvIkaraH;#}</div>
+<div n="1">(10) {#dandaSUkaH:#} v. Snake.</div>
 <LEND>

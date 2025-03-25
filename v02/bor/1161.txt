@@ -1,8 +1,8 @@
 <L>1161<pc>041<k1>ascent<k2>ascent
-<div n="lb"/>{@ASCENT:@}¦ <div n="I">I The act of ascending: </div><div n="1">(1) {#ArohaH;#}</div>
-<div n="lb"/><div n="1">(2) {#ArohaRam;#} </div><div n="1">(3) {#aDirohaRam.#} </div><div n="I">II The way
-<div n="lb"/>of ascending: </div><div n="1">(1) {#ArohamArgaH;#} </div><div n="1">(2) {#ArohaRapaTaH.#}</div>
-<div n="lb"/><div n="I">III Inclination, slope: <div n="xe">{%the road has an a.%}
-<div n="lb"/>{%of one foot per hundred.%}</div> <div n="xs">{#*pratiSatapAdamekapAdonnato #}
-<div n="lb"/>{# mArgaH.#}</div></div>
+{@ASCENT:@}¦ <div n="I">I The act of ascending: </div><div n="1">(1) {#ArohaH;#}</div>
+<div n="1">(2) {#ArohaRam;#} </div><div n="1">(3) {#aDirohaRam.#} </div><div n="I">II The way
+of ascending: </div><div n="1">(1) {#ArohamArgaH;#} </div><div n="1">(2) {#ArohaRapaTaH.#}</div>
+<div n="I">III Inclination, slope: <div n="xe">{%the road has an a.%}
+{%of one foot per hundred.%}</div> <div n="xs">{#*pratiSatapAdamekapAdonnato #}
+{# mArgaH.#}</div></div>
 <LEND>

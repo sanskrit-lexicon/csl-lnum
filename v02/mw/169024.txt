@@ -1,3 +1,3 @@
-<L>169024<pc>838,2<k1>yakzI<k2>yakzI<h>a<e>2B
-<s>yakzI</s> <hom>a</hom> ¦ <lex>f.</lex> a female <s1 slp1="yakza">Yakṣa</s1>, <ls>MBh.</ls>; <ls>R.</ls> &c. (<s>yakzIRAm praTamA yakzI</s> = <s>durgA</s>, <ls>Hariv.</ls>)<info lex="f"/>
+<L>169024<pc>838,2<k1>yakzI<k2>yakzI<e>2B
+<s>yakzI</s> ¦ (<s>I</s>), <lex>f.</lex> a female <s1>Yakṣa</s1>, <ls>MBh.</ls>; <ls>R.</ls> &c. (<s>yakzIRAm praTamA yakzI</s> = <s>durgA</s>, <ls>Hariv.</ls>)<info lex="f"/><info hui="a"/>
 <LEND>

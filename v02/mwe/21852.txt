@@ -1,8 +1,8 @@
 <L>21852<pc>577-b<k1>pause<k2>pause
-<div n="lb"/>PAUSE¦, {%s.%} (Temporary stop) {#virAmaH, viratiH#} {%f.,%} {#avaratiH#} {%f.,%} {#uparatiH#} {%f.,%}
-<div n="lb"/>{#uparamaH, nivfttiH#} {%f.,%} {#viSrAmaH, vicCedaH, upaSamaH, SamaH, SAntiH#} {%f.,%}
-<div n="lb"/>{#apaSamaH, avasAyaH, avasAnaM, ASvAsaH, KaRqaH, yatiH#} {%f.,%} {#yAmaH, sanDiH#} {%m.%}
-<div n="lb"/> — (Interval) {#antaraM, kAlAntaraM, avakASaH, vyavaDAnaM, sanDiH#} {%m.%} — 
-<div n="lb"/>(Suspense) {#karmmAntaraM, BAvasanDiH#} {%m.%} — (In poetry or music)
-<div n="lb"/>{#yatiH#} {%f.,%} {#avasAnaM#}.
+PAUSE¦, {%s.%} (Temporary stop) {#virAmaH, viratiH#} {%f.,%} {#avaratiH#} {%f.,%} {#uparatiH#} {%f.,%}
+{#uparamaH, nivfttiH#} {%f.,%} {#viSrAmaH, vicCedaH, upaSamaH, SamaH, SAntiH#} {%f.,%}
+{#apaSamaH, avasAyaH, avasAnaM, ASvAsaH, KaRqaH, yatiH#} {%f.,%} {#yAmaH, sanDiH#} {%m.%}
+ — (Interval) {#antaraM, kAlAntaraM, avakASaH, vyavaDAnaM, sanDiH#} {%m.%} — 
+(Suspense) {#karmmAntaraM, BAvasanDiH#} {%m.%} — (In poetry or music)
+{#yatiH#} {%f.,%} {#avasAnaM#}.
 <LEND>

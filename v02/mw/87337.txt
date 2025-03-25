@@ -1,18 +1,18 @@
 <L>87337<pc>456,3<k1>tyaj<k2>tyaj<h>1<e>1
-<hom>1.</hom> <s>tyaj</s> ¦ <ab>cl.</ab> 1. <s>°jati</s> (metrically also <s>°te</s>; <ab>pf.</ab> <ab>Ved.</ab> <s>tityA/ja</s>, <ab>Class.</ab> <s>tat°</s>, <ls>Pāṇ. 6-1, 36</ls>; <s>tatyaja</s>, <ls>BhP. iii, 4</ls>; <ab>fut.</ab> <s>tyakzyati</s>, <ls>Pāṇ. 7-2, 10</ls>; <ls>Kār.</ls>; <s>tyajizy°</s>, <ls>R. ii, vii</ls>; <ls>MārkP.</ls>; <ab>aor.</ab> <s>atyAhzIt</s>; <ab>inf.</ab> <s>tyaktum</s>) 
+<hom>1.</hom> <s>tyaj</s> ¦ <ab>cl.</ab> 1. <s>°jati</s> (metrically also <s>°te</s>; <ab>pf.</ab> <lang>Ved.</lang> <s>tityA/ja</s>, <lang>Class.</lang> <s>tat°</s>, <ls>Pāṇ. vi, 1, 36</ls>; <s>tatyaja</s>, <ls>BhP. iii, 4</ls>; <ab>fut.</ab> <s>tyakzyati</s>, <ls>Pāṇ. vii, 2, 10</ls>; <ls>Kār.</ls>; <s>tyajizy°</s>, <ls>R. ii</ls>, <ls n="R.">vii</ls>; <ls>MārkP.</ls>; <ab>aor.</ab> <s>atyAkzIt</s>; <ab>inf.</ab> <s>tyaktum</s>)
 <div n="to"/>to leave, abandon, quit, <ls>RV. x, 71, 6</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to leave a place, go away from, <ls>Mn. vi, 77</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to let go, dismiss, discharge, <ls>VarBṛS. xvii, 22</ls>; <ls>Bhaṭṭ.</ls>;
-<div n="to"/>to give up, surrender, resign, part from, renounce, <ls>ĪśUp. 1</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c. (<s>tanum</s> or <s>deham</s> or <s>kalevaram</s>, ‘to abandon the body, die’ <ls>Mn. vi</ls>; <ls>MBh.</ls> &c.; <s>prARAn</s> or <s>SvAsam</s> or <s>jIvitam</s>, ‘to give up breath or life, risk or lose one's life’ <ls>MBh.</ls>; <ls>R.</ls> &c.);
-<div n="vp"/> <ab>Ā.</ab> <ab>P.</ab> to shun, avoid, get rid of, free one's self from (any passion &c.), <ls>MBh.</ls> &c.;
-<div n="to"/>to give away, distribute, offer (as a sacrifice or oblation to a deity; <s>tyajate</s> etymologically = <lang n="greek">σέβεται</lang>), <ls>Mn.</ls>; <ls>Yājñ.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to give up, surrender, resign, part from, renounce, <ls>ĪśUp. 1</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c. (<s>tanum</s> or <s>deham</s> or <s>kalevaram</s>, ‘to abandon the body, die’, <ls>Mn. vi</ls>; <ls>MBh.</ls> &c.; <s>prARAn</s> or <s>SvAsam</s> or <s>jIvitam</s>, ‘to give up breath or life, risk or lose one's life’, <ls>MBh.</ls>; <ls>R.</ls> &c.);
+<div n="vp"/> <ab>P.</ab> <ab>Ā.</ab> to shun, avoid, get rid of, free one's self from (any passion &c.), <ls>MBh.</ls> &c.;
+<div n="to"/>to give away, distribute, offer (as a sacrifice or oblation to a deity; <s>tyajate</s> etymologically = <gk>σέβεται</gk>), <ls>Mn.</ls>; <ls>Yājñ.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to set aside, leave unnoticed, disregard, <ls>ŚāṅkhŚr.</ls>; <ls>Mn. iii</ls>; <ls>MBh. i, 3098</ls>; <ls>Hit. ii, 3, 30</ls>;
-<div n="to"/> (<ab>ind.p.</ab> <s>tyaktvA</s>) to except, <ls>VarBṛS.</ls>; <ls>Caurap.</ls> <ab>Sch.</ab>;
+<div n="to"/> (<ab>ind.p.</ab> <s>tyaktvA</s>) to except, <ls>VarBṛS.</ls>; <ls>Caurap.</ls>, <ab>Sch.</ab>;
 <div n="to"/> <ab>Pass.</ab> <s>tyajyate</s>, to be abandoned by, get rid of (<ab>instr.</ab>), <ls>Pañcat. i, 10, 0/1</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>tyAjayati</s> (<ab>aor.</ab> <s>atityajat</s>, <ls>Bhaṭṭ.</ls>) to cause anyone to quit, <ls>MBh. xiii, 288</ls>;
 <div n="to"/>to cause anyone to give up, <ls>Kathās. lxxxiii, 34</ls>;
-<div n="to"/>to expel, turn out, <ls>xx, 126</ls>;
+<div n="to"/>to expel, turn out, <ls n="Kathās.">xx, 126</ls>;
 <div n="to"/>to cause any one to lose, deprive of (<ab>instr.</ab>), <ls>Bhaṭṭ. xv, 120</ls>;
 <div n="to"/>to empty the body by evacuations, <ls>Bhpr.</ls> :
-<div n="vp"/><ab>Desid.</ab> <s>tityakzati</s>, to be about to lose (one's life, <s>prARAn</s>), <ls>Car. v, 10 and 12.</ls><info whitneyroots="tyaj,66"/><info verb="genuineroot" cp="1P,1Ā"/>
+<div n="vp"/><ab>Desid.</ab> <s>tityakzati</s>, to be about to lose (one's life, <s>prARAn</s>), <ls>Car. v, 10</ls> and <ls n="Car. v,">12.</ls><info whitneyroots="tyaj,66"/><info verb="genuineroot" cp="1P,1Ā"/>
 <LEND>

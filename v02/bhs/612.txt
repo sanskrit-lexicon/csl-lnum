@@ -1,18 +1,3 @@
 <L>612<pc>021,1<k1>anarTika<k2>an-arTika
-{@an-arthika@}¦, adj. (= Pali anatthika; not in Skt.; see
-<div n="lb">{@arthika@} and next), {%not desirous%} (of: instr., rarely loc. or
-<div n="lb">abl.), (a) with instr.: anarthikāś ca te śrāmaṇyena bhavi-
-<div n="lb">ṣyanti LV 88.18, {%and they will not be anxious for monkhood%}
-<div n="lb">(duty of monks), so read with Foucaux's ms. A, see his
-<div n="lb">Notes p. 113 (Lefm. śrāmaṇyo na); saṃskṛtenādhyāśayenā-
-<div n="lb">narthikaḥ sarvopādānaparigrahair anarthiko LV 180.12,
-<div n="lb">{%with his resolve not desirous of the conditioned%} (see {@saṃskṛta@}
-<div n="lb">and {@adhyāśaya@}, which are not to be construed together),
-<div n="lb">{%and not desirous of all grasping and possessions%}; RP 15.1
-<div n="lb">(lābhena); 34.10 (dharmaśravaṇena); 43.12 (kāmabhogaiḥ);
-<div n="lb">KP 125.2, 4, 6; sv-anarthiko Śikṣ 113.9 (guṇaiḥ), {%very un-%}
-<div n="lb">{%desirous of virtues%} (wrongly Bendall and Rouse); (b) with
-<div n="lb">loc.: anarthiko sarvakāmabhogeṣu Mv iii.104.17; (c) with
-<div n="lb">abl.: saṃsārād anarthikaḥ Divy 2.1, {%averse from the%}
-<div n="lb">{%saṃsāra%}.
+{@an-arthika@}¦, <lex>adj.</lex> (= <lang>Pali</lang> anatthika; not in <lang>Skt.</lang>; see {@arthika@} and next), {%not desirous%} (of: <lex>instr.</lex>, rarely <lex>loc.</lex> or <lex>abl.</lex>), (a) with <lex>instr.</lex>: anarthikāś ca te śrāmaṇyena bhaviṣyanti <ls>LV</ls> 〔88.18〕, {%and they will not be anxious for monkhood%} (duty of monks), so read with <ls>Foucaux</ls>ʼs <ab>ms.</ab> A, see his 〔Notes p. 113〕 (<ls>Lefm.</ls> śrāmaṇyo na); saṃskṛtenādhyāśayenānarthikaḥ sarvopādānaparigrahair anarthiko <ls>LV</ls> 〔180.12〕, {%with his resolve not desirous of the conditioned%} (see {@saṃskṛta@} and {@adhyāśaya@}, which are not to be construed together), {%and not desirous of all grasping and possessions%}; <ls>RP</ls> 〔15.1〕 (lābhena); 〔34.10〕 (dharmaśravaṇena); 〔43.12〕 (kāmabhogaiḥ); <ls>KP</ls> 〔125.2, 4, 6〕; sv-anarthiko <ls>Śikṣ</ls> 〔113.9〕 (guṇaiḥ), {%very undesirous of virtues%} (wrongly <ls>Bendall and Rouse</ls>); (b) with <lex>loc.</lex>: anarthiko sarvakāmabhogeṣu <ls>Mv</ls> 〔iii.104.17〕; (c) with <lex>abl.</lex>: saṃsārād anarthikaḥ <ls>Divy</ls> 〔2.1〕, {%averse from the saṃsāra%}.
 <LEND>

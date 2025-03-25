@@ -1,17 +1,17 @@
 <L>50131<pc>4-1100<k1>prasidDi<k2>prasidDi
-{#prasidDi#}¦ (von {#siD#} mit {#pra#}) <lex>f.</lex> 
-<div n="1"> 1) {%das Gelingen, Zustandekommen%}: {#yAtrAmAtrAprasidDyarTam#} 
-<ls>M. 4, 3.</ls> {#japayajYa°#} 
-<ls>YĀJÑ. 1, 101.</ls> 
-<ls>KĀM. NĪTIS. 2, 6.</ls> <ls>BHĀG. P. 2, 7, 49.</ls> {#SreyaH°#} 
-<ls>4, 18, 3.</ls> {#yaN°#} 
-<ls>?<is>Kār</is>. zu P. 3, 1, 22.</ls> 
-<div n="1">— 2) {%allgemeines Bekanntsein, allgemeine Annahme, das Notorischsein, Berühmtsein%} 
-<ls>TRIK. 1, 1, 117.</ls> {#tadasadeveti hi lOkikI prasidDiH#} 
-<ls>NĪLAK. 164.</ls> 
-<ls>KAṆ.3,1,2.</ls> <ls>VARĀH. BṚH. S. 94,1.</ls> <ls>KATHĀS. 30,112.</ls> <ls>KUMĀRILA</ls> bei <ls>GOLD. MĀN. 66,b.</ls> {#hiSabdenEva prasidDyavadyotakena#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 277.</ls> {#ato yuktA udgAteti nAmaprasidDirudgAtuH#} ders. zu 
-<ls>CHĀND. UP. S. 64.</ls> <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 8.</ls> <ls>Spr. 836.</ls> <ls>SOM. NALA 118.</ls> <ls>Verz. d. Oxf. H. 261,a,11.</ls> {#ata eva loke me SaSANka iti prasidDiH#} {%daher bin ich in der Welt unter dem Namen%} <is>Śaśāṅka</is> {%bekannt%} 
-<ls>HIT. 83, 7.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 184, 12.</ls>
+{#prasidDi#}¦ (von {#siD#} mit {#pra#}) <lex>f.</lex>
+<div n="1"> 1) {%das Gelingen, Zustandekommen%}: {#yAtrAmAtrAprasidDyarTam#}
+<ls>M. 4,3.</ls> {#japayajYa°#}
+<ls>YĀJÑ. 1,101.</ls>
+<ls>KĀM. NĪTIS. 2,6.</ls> <ls>BHĀG. P. 2,7,49.</ls> {#SreyaH°#}
+<ls n="BHĀG. P.">4,18,3.</ls> {#yaN°#}
+<is>Kār.</is> zu <ls>P. 3,1,22.</ls>
+<div n="1">— 2) {%allgemeines Bekanntsein, allgemeine Annahme, das Notorischsein, Berühmtsein%}
+<ls>TRIK. 1,1,117.</ls> {#tadasadeveti hi lOkikI prasidDiH#}
+<ls>NĪLAK. 164.</ls>
+<ls>KAṆ. 3,1,2.</ls> <ls>VARĀH. BṚH. S. 94,1.</ls> <ls>KATHĀS. 30,112.</ls> <ls>KUMĀRILA</ls> bei <ls>GOLD. MĀN. 66,b.</ls> {#hiSabdenEva prasidDyavadyotakena#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 277.</ls> {#ato yuktA udgAteti nAmaprasidDirudgAtuH#} ders. zu
+<ls>CHĀND. UP. S. 64.</ls> <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 8.</ls> <ls>Spr. 836.</ls> <ls>SOM. NALA 118.</ls> <ls>Verz. d. Oxf. H. 261,a,11.</ls> {#ata eva loke me SaSANka iti prasidDiH#} {%daher bin ich in der Welt unter dem Namen%} <is>Śaśāṅka</is> {%bekannt%}
+<ls>HIT. 83,7.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 184,12.</ls>
 <LEND>

@@ -1,6 +1,6 @@
 <L>264875<pc>1308,2<k1>hve<k2>hve<e>1
-<s>hve</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. xxiii, 39</ls>) <s>hva/yati</s>, <s>°te</s> 
-(<ab>Ved.</ab> also <s>ha/vate</s> and <s>huva/ti</s>, <s>°te</s>;
+<s>hve</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxiii, 39</ls>) <s>hva/yati</s>, <s>°te</s>
+(<lang>Ved.</lang> also <s>ha/vate</s> and <s>huva/ti</s>, <s>°te</s>;
 other present forms are <s>hve</s>, <ls>AV.</ls>;
 <s>hvAmahe</s>, <ls>VS.</ls>;
 <s>ho/ma</s>, <s>hUma/he</s>, <s>juhUma/si</s>, <ls>RV.</ls>;
@@ -8,24 +8,24 @@ other present forms are <s>hve</s>, <ls>AV.</ls>;
 <s>hvayAna</s>, <ls>MBh.</ls>;
 <ab>pf.</ab> <s>juhAva</s>, <s>juhuvuH</s>, <ls>ŚBr.</ls> &c.;
 <s>juhve/</s>, <s>juhUre/</s>, <ls>RV.</ls>;
-<s>juhuve</s>, <s>huhurire</s>, <ls>Br.</ls>;
+<s>juhuve</s>, <s>juhurire</s>, <ls>Br.</ls>;
 <s>hvayAm-Asa</s> and <s>hvayAM-cakre</s>, <ls>MBh.</ls>;
-<ab>aor.</ab> <s>a/hvat</s>, <s>ahvata</s> [or <s>ahvAsta</s>, <ls>Pāṇ. 3-1, 54</ls>] <ls>RV.</ls> &c. &c.;
+<ab>aor.</ab> <s>a/hvat</s>, <s>ahvata</s> [or <s>ahvAsta</s>, <ls>Pāṇ. iii, 1, 54</ls>] <ls>RV.</ls> &c. &c.;
 <s>ahvi</s>, <ls>AV.</ls>;
 <s>a/hUmahi</s>, <s>ahUzata</s>, <ls>RV.</ls>;
 <s>ahvAsIt</s> [?] <ls>GopBr.</ls>;
 <ab>fut.</ab> <s>hvAtA</s> <ab>Gr.</ab>;
 <s>hvayizyati</s>, <s>°te</s>, <ls>Br.</ls>;
 <s>hvAsyate</s>, <ls>ŚāṅkhŚr.</ls>;
-<ab>inf.</ab> <ab>Class.</ab> <s>hvAtum</s>;
-<ab>Ved.</ab> <s>ha/vitave</s>, <s>hva/yitum</s>, <s>°tavE/</s>;
+<ab>inf.</ab> <lang>Class.</lang> <s>hvAtum</s>;
+<lang>Ved.</lang> <s>ha/vitave</s>, <s>hva/yitum</s>, <s>°tavE/</s>;
 <s>huva/DyE</s>;
-<ab>ind.p.</ab> <ab>Class.</ab> <s>hUtvA</s>;
-<ab>Ved.</ab> <s>-hU/ya</s> and <s>-hAvam</s>), 
+<ab>ind.p.</ab> <lang>Class.</lang> <s>hUtvA</s>;
+<lang>Ved.</lang> <s>-hU/ya</s> and <s>-hAvam</s>),
 <div n="to"/>to call, call upon, summon, challenge, invoke (with <s>nAmnA</s>, ‘to call by name’; with <s>yudDe</s>, ‘to challenge to fight’), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to emulate, vie with, <ls>W.</ls> :
 <div n="vp"/><ab>Pass.</ab> <s>hUya/te</s> (<ab>aor.</ab> <s>a/hAvi</s>, or <s>ahvAyi</s>), to be called &c., <ls>RV.</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>hvAyayati</s> (<ab>aor.</ab> <s>ajUhavat</s> or <s>ajuhAvat</s>), to cause anyone (<ab>acc.</ab>) to be challenged by (<ab>instr.</ab>), <ls>Vop.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>juhUzati</s>, <s>°te</s> <ab>Gr.</ab>:
-<div n="vp"/><ab>Intens.</ab> <s>johUyate</s> or <s>jo/havIti</s> (<s>johuvanta</s>, <s>ajohavuH</s>, <s>jo/huvat</s>, <s>jo/huvAna</s>, <ls>RV.</ls>; <ls>AV.</ls>; <ls>BhP.</ls>) or <s>johoti</s> (<ab>Gr.</ab>), to call on, invoke &c. [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">γοάω</lang>.]<info westergaard="hveY,23.39,01.0733"/><info whitneyroots="hU,206"/><info verb="genuineroot" cp="1P,1Ā"/>
+<div n="vp"/><ab>Intens.</ab> <s>johUyate</s> or <s>jo/havIti</s> (<s>johuvanta</s>, <s>ajohavuH</s>, <s>jo/huvat</s>, <s>jo/huvAna</s>, <ls>RV.</ls>; <ls>AV.</ls>; <ls>BhP.</ls>) or <s>johoti</s> (<ab>Gr.</ab>), to call on, invoke &c. [<ab>cf.</ab> <lang>Gk.</lang> <gk>γοάω</gk>.]<info westergaard="hveY,23.39,01.0733"/><info whitneyroots="hU,206"/><info verb="genuineroot" cp="1P,1Ā"/>
 <LEND>

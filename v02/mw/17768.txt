@@ -1,7 +1,7 @@
 <L>17768<pc>101,3<k1>avaman<k2>ava-man<e>1
-<s>ava-√ man</s> ¦ <ab>Ā.</ab> (<ab>Pot.</ab> <s>-manyeta</s> <ab>aor.</ab> <ab>Subj.</ab> 2. <ab>sg.</ab> <s>maMsTAH</s>, 2.pl. <s>-maDvam</s>, <ls>Bhaṭṭ.</ls>; <ab>ep.</ab> also <ab>P.</ab> <s>-manyati</s> <ab>fut.</ab> <s>-maMsyati</s>, <ls>MBh. iv, 444</ls>) 
+<s>ava-√ man</s> ¦ <ab>Ā.</ab> (<ab>Pot.</ab> <s>-manyeta</s> <ab>aor.</ab> <ab>Subj.</ab> 2. <ab>sg.</ab> <s>maMsTAH</s>, 2.pl. <s>-maDvam</s>, <ls>Bhaṭṭ.</ls>; <lang>ep.</lang> also <ab>P.</ab> <s>-manyati</s> <ab>fut.</ab> <s>-maMsyati</s>, <ls>MBh. iv, 444</ls>)
 <div n="to"/>to despise, treat contemptuously, <ls>MBh.</ls> &c.;
-<div n="to"/>to repudiate refuse, <ls>ib.</ls> :
-<div n="to"/><ab>Pass.</ab> <s>-manyate</s> to be treated contemptuously:
-<div n="to"/><ab>Caus.</ab> (<ab>Pot.</ab> <s>-mAnayet</s>) to despise, treat contemptuously, <ls>Mn. ii, 50.</ls><info verb="pre" cp="PĀ" parse="ava+man"/>
+<div n="to"/>to repudiate, refuse, <ls>ib.</ls> :
+<div n="vp"/><ab>Pass.</ab> <s>-manyate</s> to be treated contemptuously:
+<div n="vp"/><ab>Caus.</ab> (<ab>Pot.</ab> <s>-mAnayet</s>) to despise, treat contemptuously, <ls>Mn. ii, 50.</ls><info verb="pre" cp="PĀ" parse="ava+man"/>
 <LEND>

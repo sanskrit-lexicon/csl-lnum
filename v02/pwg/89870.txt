@@ -1,23 +1,22 @@
 <L>89870<pc>6-0917<k1>vAditra<k2>vA/ditra
-{#vA/ditra#}¦ (von {#vad#}) 
-<ls>UṆĀDIS. 4, 170.</ls> <lex>n.</lex> 
-<div n="1"> 1) {%ein musikalisches Instrument%} 
-<ls>AK. 1, 1, 7, 5.</ls> 
-<ls>H. 286.</ls> 
-<ls>KAUŚ. 14. 16.</ls> {#na vAditrARi vAdayet#} 
-<ls>M. 4, 64.</ls> 
-<ls>MBH. 1, 5329.</ls> {#sarvavAditranAdEH#} 
-<ls>?4941. 3, 1766. 11918. R. GORR. 2, 12, 12. 4, 60, 9. VARĀH. BṚH. S. 44, 16. BHĀG. P. 3, 24, 7. 8, 8, 26. WEBER, KṚṢNAJ. 270. Schol. zu KĀTY. ŚR. 697, 8.</ls> 
-<div n="1">— 2) {%Musik, musikalische Aufführung%}: {#gItavAditre#} 
-<ls>CHĀND. UP. 8, 2, 8.</ls> 
-<ls>PĀR. GṚHY. 2, 7.</ls> 
-<ls>MBH. 3, 1794. 1796. 4, 56. 12, 10417.</ls> 
-<ls>R. 1, 9, 8. 2, 61, 6. 114, 9.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 125, 19.</ls> 
-<ls>SUŚR. 1, 335, 9. 2, 146, 3.</ls> 
-<ls>VARĀH. BṚH. S. 46, 91. 86, 22.</ls> 
-<ls>BHĀG. P. 3, 22, 28. 4, 15, 19.</ls> <ls>WEBER, KṚṢṆAJ. 302. 304.</ls> {#na gAtranaKavaktravAditraM kuryAt#} 
-<ls>SUŚR. 2, 145, 3.</ls> {#su°#} als <lex>m.</lex> pl. 
+{#vA/ditra#}¦ (von {#vad#})
+<ls>UṆĀDIS. 4,170.</ls> <lex>n.</lex>
+<div n="1"> 1) {%ein musikalisches Instrument%}
+<ls>AK. 1,1,7,5.</ls>
+<ls>H. 286.</ls>
+<ls>KAUŚ. 14. 16.</ls> {#na vAditrARi vAdayet#}
+<ls>M. 4,64.</ls>
+<ls>MBH. 1,5329.</ls> {#sarvavAditranAdEH#}
+<ls n="MBH. 1,">4941.</ls> <ls n="MBH.">3,1766.</ls> <ls n="MBH. 3,">11918.</ls> <ls>R. GORR. 2,12,12.</ls> <ls n="R. GORR.">4,60,9.</ls> <ls>VARĀH. BṚH. S. 44,16.</ls> <ls>BHĀG. P. 3,24,7.</ls> <ls n="BHĀG. P.">8,8,26.</ls> <ls>WEBER, KṚṢNAJ. 270.</ls> Schol. zu <ls>KĀTY. ŚR. 697,8.</ls>
+<div n="1">— 2) {%Musik, musikalische Aufführung%}: {#gItavAditre#}
+<ls>CHĀND. UP. 8,2,8.</ls>
+<ls>PĀR. GṚHY. 2,7.</ls>
+<ls>MBH. 3,1794.</ls> <ls n="MBH. 3,">1796.</ls> <ls n="MBH.">4,56.</ls> <ls n="MBH.">12,10417.</ls>
+<ls>R. 1,9,8.</ls> <ls n="R.">2,61,6</ls> <ls n="R. 2,">114,9.</ls>
+<ls>R. GORR. 2,125,19.</ls>
+<ls>SUŚR. 1,335,9.</ls> <ls n="SUŚR.">2,146,3.</ls>
+<ls>VARĀH. BṚH. S. 46,91. 86,22.</ls>
+<ls>BHĀG. P. 3,22,28.</ls> <ls n="BHĀG. P.">4,15,19.</ls> <ls>WEBER, KṚṢṆAJ. 302. 304.</ls> {#na gAtranaKavaktravAditraM kuryAt#}
+<ls>SUŚR. 2,145,3.</ls> {#su°#} als <lex>m.</lex> pl.
 <ls>HARIV. 7018.</ls>
 <LEND>

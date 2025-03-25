@@ -1,10 +1,10 @@
 <L>8666<pc>275<k1>fever<k2>fever
-<div n="lb"/>{@FEVER:@}¦ <div n="I">I Lit. {#jvaraH,#} {%acute%} ({%lit. new%}) <div n="xe">{%f.:%}</div> <div n="xs">{#nava-#}
-<div n="lb"/>{#jvaraH;#}</div> {%chronic%} ({%lit. old%}) <div n="xe">{%f.:%}</div> <div n="xs">{#jIrRajvaraH,#}</div> Bha.;
-<div n="lb"/><div n="xe">{%inflammatory f.:%}</div> <div n="xs">{#dAhajvaraH;#}</div> <div n="xe">{%cold f.:%}</div> <div n="xs">{#SItajvaraH;#}</div>
-<div n="lb"/><div n="xe">{%typhoid f.:%}</div> <div n="xs">{#sannipAtajvaraH#}</div> (?); {%he will have f. again:%}
-<div n="lb"/>{#asya punareva BavejjvaraH;#} Sr.; <div n="xe">{%recovered from f.:%}</div> <div n="xs">{#jaro-#}
-<div n="lb"/>{#tsfzwaH#}</div> ({#zwA, zwaM#}), Sr, <div n="xe">{%or%}</div> <div n="xs">{#jvaramuktaH#}</div> ({#ktA, ktaM#}), Bha.</div>
-<div n="lb"/><div n="I">II Fig.: {#jvaraH,#} <div n="xe">{%speak it without f.:%}</div> <div n="xs">{#tadbrUta vigata-#}
-<div n="lb"/>{#jvarAH,#}</div> Mat.: v. Excitement.</div>
+{@FEVER:@}¦ <div n="I">I Lit. {#jvaraH,#} {%acute%} ({%lit. new%}) <div n="xe">{%f.:%}</div> <div n="xs">{#nava-#}
+{#jvaraH;#}</div> {%chronic%} ({%lit. old%}) <div n="xe">{%f.:%}</div> <div n="xs">{#jIrRajvaraH,#}</div> Bha.;
+<div n="xe">{%inflammatory f.:%}</div> <div n="xs">{#dAhajvaraH;#}</div> <div n="xe">{%cold f.:%}</div> <div n="xs">{#SItajvaraH;#}</div>
+<div n="xe">{%typhoid f.:%}</div> <div n="xs">{#sannipAtajvaraH#}</div> (?); {%he will have f. again:%}
+{#asya punareva BavejjvaraH;#} Sr.; <div n="xe">{%recovered from f.:%}</div> <div n="xs">{#jaro-#}
+{#tsfzwaH#}</div> ({#zwA, zwaM#}), Sr, <div n="xe">{%or%}</div> <div n="xs">{#jvaramuktaH#}</div> ({#ktA, ktaM#}), Bha.</div>
+<div n="I">II Fig.: {#jvaraH,#} <div n="xe">{%speak it without f.:%}</div> <div n="xs">{#tadbrUta vigata-#}
+{#jvarAH,#}</div> Mat.: v. Excitement.</div>
 <LEND>

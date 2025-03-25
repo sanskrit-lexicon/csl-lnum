@@ -1,5 +1,5 @@
 <L>22999<pc>609-b<k1>possessor<k2>possessor
-<div n="lb"/>POSSESSOR¦, {%s.%} {#DArI#} {%m.%} {#-riRI#} {%f.%} {#(n), DArayan#} {%m.%} {#-yantI#} {%f.%} {#(t), DAraya.#}
-<div n="lb"/>{#-yA, aDikArI#} {%m.%} {#-riRI#} {%f.%} {#(n), BoktA#} {%m.%} {#(ktf), pariBoktA#} {%m.,%} {#BogI#} {%m.%}
-<div n="lb"/>{#(n), pariBogI#} {%m.,%} {#upaBoktA#} {%m.,%} {#SAlI#} {%m.%} {#(n), svAmI#} {%m.%} {#-minI#} {%f.%}
+POSSESSOR¦, {%s.%} {#DArI#} {%m.%} {#-riRI#} {%f.%} {#(n), DArayan#} {%m.%} {#-yantI#} {%f.%} {#(t), DAraya.#}
+{#-yA, aDikArI#} {%m.%} {#-riRI#} {%f.%} {#(n), BoktA#} {%m.%} {#(ktf), pariBoktA#} {%m.,%} {#BogI#} {%m.%}
+{#(n), pariBogI#} {%m.,%} {#upaBoktA#} {%m.,%} {#SAlI#} {%m.%} {#(n), svAmI#} {%m.%} {#-minI#} {%f.%}
 <LEND>

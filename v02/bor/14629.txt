@@ -1,4 +1,4 @@
 <L>14629<pc>448<k1>million<k2>million
-<div n="lb"/>{@MILLION:@}¦ {#niyutam#} <div n="xe">{%or%}</div> <div n="xs">{#prayutam.#}</div> <div n="xe">{%Ten m. s:%}</div> <div n="xs">{#kowiH.#}</div> <div n="xe">{%By%}
-<div n="lb"/>{%m. s:%}</div> <div n="xs">{#kowiSaH.#}</div> <div n="xe">{%M.-th:%}</div> <div n="xs">{#niyutatamaH#}</div> ({#mI, maM#}) (rare).
+{@MILLION:@}¦ {#niyutam#} <div n="xe">{%or%}</div> <div n="xs">{#prayutam.#}</div> <div n="xe">{%Ten m. s:%}</div> <div n="xs">{#kowiH.#}</div> <div n="xe">{%By%}
+{%m. s:%}</div> <div n="xs">{#kowiSaH.#}</div> <div n="xe">{%M.-th:%}</div> <div n="xs">{#niyutatamaH#}</div> ({#mI, maM#}) (rare).
 <LEND>

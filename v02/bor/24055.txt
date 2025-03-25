@@ -1,5 +1,5 @@
 <L>24055<pc>752<k1>waltz<k2>waltz
-<div n="lb"/>{@WALTZ@}¦ (subs.): <div n="I">I A dance: {#pratilomAnu-#}
-<div n="lb"/>{#lomatvam;#} {#*Avartanam.#} </div><div n="I">II A music: {#*Avartana-#}
-<div n="lb"/>{#saNgItam.#}</div>
+{@WALTZ@}¦ (subs.): <div n="I">I A dance: {#pratilomAnu-#}
+{#lomatvam;#} {#*Avartanam.#} </div><div n="I">II A music: {#*Avartana-#}
+{#saNgItam.#}</div>
 <LEND>

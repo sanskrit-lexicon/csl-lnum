@@ -1,13 +1,13 @@
-<L>98162<pc>6016-3<k1>vand<k2>vand<e>500
-{#vand#}¦ {#va/ndate#} (ausnahmsweise , meist metrisch auch <ab>Act.</ab>)
-<div n="1">— 1) {%loben , rühmen , preisen.%}
-<div n="1">— 2) {%Ehre erweisen , ehrfurchtsvoll begrüssen , Jmd%} oder {%Etwas seine Ehrfurcht erweisen%} ; mit <ab>Acc.</ab>
-<div n="1">— 3) dem Lehrer (<ab>Dat.</ab>) den Lohn (<ab>Acc.</ab>) {%ehrfurchtsvoll reichen.%}
-<div n="m">— <ab>Caus.</ab> {#vandayati#} {%Jmd Ehre erweisen , ehrfurchtsvoll begrüssen.%}
-<div n="p">— Mit {#anu#} {%Jmd Ehre erweisen.%}
-<div n="p">— Mit {#aBi#} {%Jmd Ehre erweisen , ehrfurchtsvoll begrüssen , Jmd%} oder {%Etwas seine Ehrfurcht bezeugen%} ; mit <ab>Acc.</ab>
-<div n="p">— Mit {#pari#} {%loben , rühmen , preisen.%}
-<div n="p">— Mit {#pra#} {%laut rühmen oder zu rühmen anfangen.%}
-<div n="p">— Mit {#prati#} {%vor Etwas%} (<ab>Acc.</ab>) {%seine Ehrfurcht bezeugen.%}
-<div n="p">— Mit {#sam#} {%Jmd ehrfurchtsvoll begrüssen.%}
+<L>98162<pc>6-016-c<k1>vand<k2>vand
+√{#vand#}¦ {#va/ndate#} (ausnahmsweise, meist metrisch auch <ab>Act.</ab>)
+<div n="1">— 1〉 {%loben, rühmen, preisen%}.
+<div n="1">— 2〉 {%Ehre erweisen, ehrfurchtsvoll begrüssen, Jmd%} oder {%Etwas seine Ehrfurcht erweisen;%} mit <ab>Acc.</ab>
+<div n="1">— 3〉 dem Lehrer (<ab>Dat.</ab>) den Lohn (<ab>Acc.</ab>) {%ehrfurchtsvoll reichen%}.
+<div n="m">— <ab>Caus.</ab> {#vandayati#} {%Jmd Ehre erweisen, ehrfurchtsvoll begrüssen%}.
+<div n="p">— Mit {#anu#} {%Jmd Ehre erweisen%}.
+<div n="p">— Mit {#aBi#} {%Jmd Ehre erweisen, ehrfurchtsvoll begrüssen, Jmd%} oder {%Etwas seine Ehrfurcht bezeugen;%} mit <ab>Acc.</ab>
+<div n="p">— Mit {#pari#} {%loben, rühmen, preisen%}.
+<div n="p">— Mit {#pra#} {%laut rühmen oder zu rühmen anfangen%}.
+<div n="p">— Mit {#prati#} {%vor Etwas%} (<ab>Acc.</ab>) {%seine Ehrfurcht bezeugen%}.
+<div n="p">— Mit {#sam#} {%Jmd ehrfurchtsvoll begrüssen%}.
 <LEND>

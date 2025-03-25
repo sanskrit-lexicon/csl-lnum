@@ -1,30 +1,29 @@
 <L>86476<pc>6-0556<k1>lIlAvant<k2>lIlAvant
-{#lIlAvant#}¦ (von {#lIlA#}) 
-<div n="1"> 1) <lex>adj.</lex> {%anmuthig, reizend%}: {#BAratI#} 
-<ls>Verz. d. Oxf. H. 142,a,10.</ls> <ls>COLEBR. Alg. 1.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#°vatI#} 
-<div n="2"> a) {%eine anmuthige Schöne%} 
-<ls>H. 507,</ls> 
-<ls>Sch.</ls> 
-<ls>Spr. 2673. 3168.</ls> 
-<ls>COLEBR. Alg. 5. 127.</ls> 
-<div n="2">— b) Bein. der <is>Durgā</is> 
-<ls>Verz. d. Oxf. H. 92,b, No. 148, Z. 5.</ls> 
-<div n="2">— c) N. pr. der Gattin des <is>Asura</is> <is>Maya</is> 
-<ls>KATHĀS. 45, 137.</ls> 
-<div n="2">— d) N. pr. einer Gemahlin <is>Avīkṣita's</is> 
-<ls>MĀRK. P. 123, 17.</ls> 
-<div n="2">— e) N. pr. einer Kaufmannstochter 
-<ls>HIT. 28, 2.</ls> 
-<div n="2">— f) {%ein best. Versmaass%} 
-<ls>COLEBR. Misc. Ess. II, 157</ls> <ls>(III, 35).</ls> 
-<div n="2">— g) Titel eines Abschnittes des <is>Siddhāntaśīromaṇī</is> 
-<ls>GILD. Bibl. 505. fgg.</ls> 
-<ls>HALL 120.</ls> <ls>Verz. d. Oxf. H. 338,a,18.</ls> <ls>Verz. d. B. H. No. 828. fgg. 831.</ls> {#°wIkA#} 
-<ls>868.</ls> <ls>Ind. St. 2, 253.</ls> 
-<div n="2">— h) Titel eines medic. Werkes 
-<ls>Verz. d. Oxf. H. 404,b, No. 35.</ls> 
-<div n="2">— i) = {#nyAya°: °prakASa#} Titel eines Commentars zu diesem Werke 
-<ls>Verz. d. B. H. No. 687. fgg.</ls> 
+{#lIlAvant#}¦ (von {#lIlA#})
+<div n="1"> 1) <lex>adj.</lex> {%anmuthig, reizend%}: {#BAratI#}
+<ls>Verz. d. Oxf. H. 142,a,10.</ls> <ls>COLEBR. Alg. 1.</ls>
+<div n="1">— 2) <lex>f.</lex> {#°vatI#}
+<div n="2"> a) {%eine anmuthige Schöne%}
+<ls>H. 507</ls>, <ls>Sch.</ls>
+<ls>Spr. 2673.</ls> <ls n="Spr.">3168.</ls>
+<ls>COLEBR. Alg. 5. 127.</ls>
+<div n="2">— b) Bein. der <is>Durgā</is>
+<ls>Verz. d. Oxf. H. 92,b, No. 148, Z. 5.</ls>
+<div n="2">— c) N. pr. der Gattin des <is>Asura</is> <is>Maya</is>
+<ls>KATHĀS. 45,137.</ls>
+<div n="2">— d) N. pr. einer Gemahlin <is>Avīkṣita's</is>
+<ls>MĀRK. P. 123,17.</ls>
+<div n="2">— e) N. pr. einer Kaufmannstochter
+<ls>HIT. 28,2.</ls>
+<div n="2">— f) {%ein best. Versmaass%}
+<ls>COLEBR. Misc. Ess. II,157</ls> (<ls n="COLEBR. Misc. Ess.">III,35</ls>).
+<div n="2">— g) Titel eines Abschnittes des <is>Siddhāntaśīromaṇī</is>
+<ls>GILD. Bibl. 505. fgg.</ls>
+<ls>HALL 120.</ls> <ls>Verz. d. Oxf. H. 338,a,18.</ls> <ls>Verz. d. B. H. No. 828. fgg. 831.</ls> {#°wIkA#}
+<ls n="Verz. d. B. H.">868.</ls> <ls>Ind. St. 2,253.</ls>
+<div n="2">— h) Titel eines medic. Werkes
+<ls>Verz. d. Oxf. H. 404,b, No. 35.</ls>
+<div n="2">— i) = {#nyAya°: °prakASa#} Titel eines Commentars zu diesem Werke
+<ls>Verz. d. B. H. No. 687. fgg.</ls>
 <div n="v">— Vgl. {#nyAya°, haya°#} .
 <LEND>

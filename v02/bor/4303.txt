@@ -1,4 +1,4 @@
 <L>4303<pc>140<k1>conclave<k2>conclave
-<div n="lb"/>{@CONCLAVE:@}¦ <div n="I">I A private assembly: {#gUQasaBA.#}</div>
-<div n="lb"/><div n="I">II Of cardinals: {#*romakaDarmaniyantFRAM saBA.#}</div>
+{@CONCLAVE:@}¦ <div n="I">I A private assembly: {#gUQasaBA.#}</div>
+<div n="I">II Of cardinals: {#*romakaDarmaniyantFRAM saBA.#}</div>
 <LEND>

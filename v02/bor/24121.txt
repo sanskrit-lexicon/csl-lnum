@@ -1,4 +1,4 @@
 <L>24121<pc>754<k1>watch-house<k2>watch-house
-<div n="lb"/>{@WATCH-HOUSE,@}¦ {@WATCH-BOX:@} <div n="1">(1) {#udGAwaH#} (?);</div>
-<div n="lb"/><div n="1">(2) {#piWaram#} (?).</div>
+{@WATCH-HOUSE,@}¦ {@WATCH-BOX:@} <div n="1">(1) {#udGAwaH#} (?);</div>
+<div n="1">(2) {#piWaram#} (?).</div>
 <LEND>

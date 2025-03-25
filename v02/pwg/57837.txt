@@ -1,94 +1,94 @@
 <L>57837<pc>5-0569<k1>marut<k2>maru/t
-{#maru/t#}¦ 
-<ls>UṆĀDIS. 1, 96.</ls> 
-<div n="1"> 1) <lex>m.</lex> 
-<div n="2"> a) pl. <is>gaṇa</is> {#parSvAdi#} zu 
-<ls>P. 5, 3, 117.</ls> N. {%der Götter der Winde%}, meist <is>Indra's</is> Gefährten; vgl. die Lieder 
-<ls>ṚV. 1, 85.</ls> fgg. <ls n="ṚV. 1,">165.</ls> <ls n="ṚV.">2, 34.</ls> <ls n="ṚV.">5, 52.</ls> fgg. <ls n="ṚV.">7, 58.</ls> <ls n="ṚV. 7,">59.</ls> <ls n="ṚV.">8, 20.</ls> 
-<ls>AV. 4, 27.</ls> 
-<ls>VS. 7, 36. 12, 70.</ls> Ihr Gespann sind die <is>Pṛṣatī</is> (s. d. und {#pfzadaSva)#}; sie heissen {#pfSnimAtaraH#} 
-<ls>ṚV. 1, 23, 10</ls> u. sonst. 
-<ls n="ṚV.">5, 52, 16.</ls> auch Söhne <is>Rudra's</is> 
-<ls n="ṚV.">2, 34, 2.</ls> <ls n="ṚV.">5, 3, 3.</ls> <ls n="ṚV.">6, 50, 4.</ls> sie nennen sich <is>Indra's</is> Brüder 
-<ls n="ṚV.">1, 170, 2.</ls> {#indrAmarutaH#} 
-<ls n="ṚV.">2, 29, 3.</ls> drei mal sechzig <is>Marut</is> 
-<ls n="ṚV.">8, 85, 8.</ls> {#ma\ruto^ de\vAnA\M viSa^H#} 
-<ls>TS. 2, 2, 5, 7.</ls> sieben Schaaren {#(gaRa)#} ebend. und 
-<ls>11, 1.</ls> <ls>TBR. 2, 7, 2, 2.</ls> <ls>ŚAT. BR. 4, 3, 3, 6. 5, 2, 17. 2, 5, 1, 12. 2, 10. 3, 3. 20. 13, 4, 2, 16.</ls> {#devAnAM BUyizWAH#} 
-<ls>PAÑCAV. BR. 21, 14, 3.</ls> 
-<ls>ĀŚV. GṚHY. 2, 4, 14.</ls> 
-<ls>KAUŚ. 97. 128.</ls> haben ihren Sitz im Norden 
-<ls>VS. 9, 35.</ls> <is>Soma</is> an ihrer Spitze 
-<ls>CHĀND. UP. 3, 9, 1.</ls> zu den Götterschaaren des mittleren Gebiets gezählt 
-<ls>NAIGH. 5, 5.</ls> 
-<ls>NIR. 11, 13.</ls> {#vasavaH, rudrAH, AdityAH, marutaH, sADyAH#} 
-<ls>CHĀND. BR.</ls> in <ls>Ind. St. 1, 258.</ls> <ls>M. 3, 88. 11, 221.</ls> <ls>MBH. 3, 1768.</ls> <ls>BHAG. 11, 6. 22.</ls> <ls>HARIV. 441. 11050. 12112. 13162. 14077. 14171.</ls>
+{#maru/t#}¦
+<ls>UṆĀDIS. 1,96.</ls>
+<div n="1"> 1) <lex>m.</lex>
+<div n="2"> a) pl. <is>gaṇa</is> {#parSvAdi#} zu
+<ls>P. 5,3,117.</ls> N. {%der Götter der Winde%}, meist <is>Indra's</is> Gefährten; vgl. die Lieder
+<ls>ṚV. 1,85.</ls> fgg. <ls n="ṚV. 1,">165.</ls> <ls n="ṚV.">2,34.</ls> <ls n="ṚV.">5,52.</ls> fgg. <ls n="ṚV.">7,58.</ls> <ls n="ṚV. 7,">59.</ls> <ls n="ṚV.">8,20.</ls>
+<ls>AV. 4,27.</ls>
+<ls>VS. 7,36.</ls> <ls n="VS.">12,70.</ls> Ihr Gespann sind die <is>Pṛṣatī</is> (s. d. und {#pfzadaSva)#}; sie heissen {#pfSnimAtaraH#}
+<ls>ṚV. 1,23,10</ls> u. sonst.
+<ls n="ṚV.">5,52,16.</ls> auch Söhne <is>Rudra's</is>
+<ls n="ṚV.">2,34,2.</ls> <ls n="ṚV.">5,3,3.</ls> <ls n="ṚV.">6,50,4.</ls> sie nennen sich <is>Indra's</is> Brüder
+<ls n="ṚV.">1,170,2.</ls> {#indrAmarutaH#}
+<ls n="ṚV.">2,29,3.</ls> drei mal sechzig <is>Marut</is>
+<ls n="ṚV.">8,85,8.</ls> {#ma\ruto^ de\vAnA\M viSa^H#}
+<ls>TS. 2,2,5,7.</ls> sieben Schaaren ({#gaRa#}) ebend. und
+<ls n="TS.">11,1.</ls> <ls>TBR. 2,7,2,2.</ls> <ls>ŚAT. BR. 4,3,3,6. 5,2,17. 2,5,1,12. 2,10. 3,3. 20. 13,4,2,16.</ls> {#devAnAM BUyizWAH#}
+<ls>PAÑCAV. BR. 21,14,3.</ls>
+<ls>ĀŚV. GṚHY. 2,4,14.</ls>
+<ls>KAUŚ. 97. 128.</ls> haben ihren Sitz im Norden
+<ls>VS. 9,35.</ls> <is>Soma</is> an ihrer Spitze
+<ls>CHĀND. UP. 3,9,1.</ls> zu den Götterschaaren des mittleren Gebiets gezählt
+<ls>NAIGH. 5,5.</ls>
+<ls>NIR. 11,13.</ls> {#vasavaH, rudrAH, AdityAH, marutaH, sADyAH#}
+<ls>CHĀND. BR.</ls> in <ls>Ind. St. 1,258.</ls> <ls>M. 3,88.</ls> <ls n="M.">11,221.</ls> <ls>MBH. 3,1768.</ls> <ls>BHAG. 11,6. 22.</ls> <ls>HARIV. 441.</ls> <ls n="HARIV.">11050.</ls> <ls n="HARIV.">12112.</ls> <ls n="HARIV.">13162.</ls> <ls n="HARIV.">14077.</ls> <ls n="HARIV.">14171.</ls>
 [Page5-0570]
-{#marudutpatti#} 
-<ls>Verz. d. Oxf. H. 12,b,48. 46,b,31. 83,a,12.</ls> Kinder der <is>Diti</is> und sieben oder sieben mal sieben an der Zahl 
-<ls>R.1,47,3.</ls> <ls>HARIV. 249. fgg.</ls> <ls>VP. 152.</ls> <ls>BHĀG. P.6,18,18.</ls> <ls>Verz. d. Oxf. H. 39,a,16.</ls> Kinder der <is>Marutvatī</is> (vgl. {#marutvant)#} 
-<ls>VP. 120.</ls> 
-<ls>HARIV. 11548</ls> (die Lesart der neueren Ausg. s. u. {#marutvant#} 2, {%b.).%} {#saptAnAM marutAM lokAn#} 
-<ls>MBH. 13, 5315.</ls> {#Sakro 'si marutAm#} 
-<ls>916. 14, 1176.</ls> {#BartA marutAm = indraH#} 
-<ls>VIKR. 36.</ls> {#marIcirmarutAmasmi#} (sagt <is>Kṛṣṇa</is>) 
-<ls>BHAG. 10, 21.</ls> {#marutAM CandAMsi#} 
-<ls>Ind. St. 8, 76.</ls> die Gottheiten des <is>Nakṣatra</is> <is>Mārgaśīrṣa</is> 
-<ls>WEBER, <is>Nakṣ</is>. II, 370. 379.</ls> {#marutAmarkaH, kAlakAkrandaH, jyAhrOdO, Denu, prakrIqaH#} oder {#saMkrIqaH#} oder {#ni krIqaH, preNKaH, saMstoBaH#} und {#saveSIyam#} Namen von <is>Sāman</is> 
-<ls>Ind. St. 3, 228.</ls> Wie <is>Indra</is> als Lieblingsgott des arischen Volkes allmählich in den Vordergrund tritt, so auch seine Gefährten, die <is>Marut</is>, und zwar in dem Grade, dass schliesslich {#marutaH#} gleichbedeutend mit {#devAH#} wird. 
-<ls>AK. 3, 4, 14, 61.</ls> 
-<ls>H. 89.</ls> 
-<ls>MED. t. 142.</ls> <ls>HALĀY. 1, 4.</ls> {#marutAM paSyatAM tasya SirAMsi patitAnyapi#} 
-<ls>RAGH. 12, 101.</ls> <ls>Lot. de la b. l. 8.</ls> <ls>LALIT. ed. Calc. 111, 17.</ls> {#vAyumarullipi#} {%die Schrift der Windgötter%} 
-<ls>144, 4.</ls> 
-<div n="2">— b) sg. {%der Gott des Windes%}: Vater <is>Hanumant's</is> 
-<ls>RĀJA-TAR. 8, 3260.</ls> Regent des Nordostens 
-<ls>AK. 1, 1, 2, 4.</ls> 
-<ls>HALĀY. 1, 100.</ls> 
-<div n="2">— c) {%Wind%} 
-<ls>AK. 1, 1, 1, 58. 3, 4, 14, 61.</ls> 
-<ls>H. 1106.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 1, 75.</ls> 
-<ls>SŪRYAS. 2, 3.</ls> 
-<ls>ŚĀK. 58.</ls> 
-<ls>MEGH. 34.</ls> 
-<ls>RAGH. 2, 10.</ls> {#maruto vavuH#} 
-<ls>3, 14.</ls> {#suraBirmarut#} 
-<ls>KATHĀS. 45, 3.</ls> {#prAleya°#} 
-<ls>Spr. 1914.</ls> 
-<ls>MĀRK. P. 128, 33. fgg.</ls> 
-<ls>PRAB. 79, 17.</ls> {#katarasminmarutAM paTi vartAmahe#} 
-<ls>ŚĀK. 98, 15.</ls> 
-<ls>RAGH. 10, 47.</ls> {#marutaH paYca SarIragocarAn#} {%Winde im Körper%} 
-<ls>8, 19.</ls> {#marutpittajvaracikitsA#} 
-<ls>Verz. d. B. H. No. 949.</ls> {%Luft%}: {#DUmajyotiHsalilamarutAM saMnipAtaH (meGaH)#} 
-<ls>MEGH. 5.</ls> 
-<ls>BHĀṢĀP. 2.</ls> <ls>Verz. d. Oxf. H. 226,a, No. 554,</ls> <ls>Śl. 4.</ls> {%Athem%}: {#yogino jitamarunmanasaH#} 
-<ls>BHĀG. P. 3, 32, 10.</ls> 
-<div n="2">— d) N. pr. eines <is>Sādhya</is> 
-<ls>HARIV. 11536</ls>; die neuere Ausg. hat eine andere Lesart. 
-<div n="2">— e) Bein. des Fürsten <is>Brhadratha</is> 
-<ls>MAITRYUP. 2, 1. 6, 30.</ls> 
-<div n="2">— f) = {#ftvij#} 
-<ls>NAIGH. 3, 18.</ls> 
-<div n="2">— g) {%eine best. Pflanze%}, = {#maruvaka#} 
-<ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— h) fehlerhaft für {#maru#} 
-<ls>MĀRK. P. 40, 3.</ls> 
-<div n="1">— 2) <lex>f.</lex> {%Trigonella corniculata Lin.%} {#(pfkkA)#} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 3) <lex>n.</lex> {%eine best. wohlriechende Pflanze%}, = {#granTiparRa#} 
-<ls>MED.</ls>; vgl. 
-<ls>AK. 2, 4, 4, 21.</ls> 
-<div n="1">— 4) indecl. 
-<ls>P. 1, 4, 57, <is>Vārtt</is>. 1</ls> in der Calc. Ausg. — Etymologie der Grammatiker 
-<ls>NIR. 11, 13</ls>; vgl. 
-<ls>HARIV. 249. fgg.</ls> 
-<ls>R. 1, 46, 20.</ls> 
-<ls>VP. 152.</ls> Zur Form des Wortes ist ausser {#garut#} und {#garmut#} auch {#parut#} (in {#parucCepa)#} zu vergleichen. Die Ableitung Neuerer von {#mar#} {%sterben%} ist unvereinbar mit dem Bilde, welches der <is>Veda</is> von den <is>Marut</is> giebt; auch ist das zu Hilfe genommene {#maru#} in der alten Sprache nicht nachweisbar. Dagegen würde eine im Sanskrit nicht mehr vorhandene Wurzel 
+{#marudutpatti#}
+<ls>Verz. d. Oxf. H. 12,b,48. 46,b,31. 83,a,12.</ls> Kinder der <is>Diti</is> und sieben oder sieben mal sieben an der Zahl
+<ls>R. 1,47,3.</ls> <ls>HARIV. 249. fgg.</ls> <ls>VP. 152.</ls> <ls>BHĀG. P. 6,18,18.</ls> <ls>Verz. d. Oxf. H. 39,a,16.</ls> Kinder der <is>Marutvatī</is> (vgl. {#marutvant)#}
+<ls>VP. 120.</ls>
+<ls>HARIV. 11548</ls> (die Lesart der neueren Ausg. s. u. {#marutvant#} 2, {%b.).%} {#saptAnAM marutAM lokAn#}
+<ls>MBH. 13,5315.</ls> {#Sakro 'si marutAm#}
+<ls n="MBH. 13,">916.</ls> <ls n="MBH.">14,1176.</ls> {#BartA marutAm = indraH#}
+<ls>VIKR. 36.</ls> {#marIcirmarutAmasmi#} (sagt <is>Kṛṣṇa</is>)
+<ls>BHAG. 10,21.</ls> {#marutAM CandAMsi#}
+<ls>Ind. St. 8,76.</ls> die Gottheiten des <is>Nakṣatra</is> <is>Mārgaśīrṣa</is>
+<ls>WEBER, Nakṣ. II,370. 379.</ls> {#marutAmarkaH, kAlakAkrandaH, jyAhrOdO, Denu, prakrIqaH#} oder {#saMkrIqaH#} oder {#ni krIqaH, preNKaH, saMstoBaH#} und {#saveSIyam#} Namen von <is>Sāman</is>
+<ls>Ind. St. 3,228.</ls> Wie <is>Indra</is> als Lieblingsgott des arischen Volkes allmählich in den Vordergrund tritt, so auch seine Gefährten, die <is>Marut</is>, und zwar in dem Grade, dass schliesslich {#marutaH#} gleichbedeutend mit {#devAH#} wird.
+<ls>AK. 3,4,14,61.</ls>
+<ls>H. 89.</ls>
+<ls>MED. t. 142.</ls> <ls>HALĀY. 1,4.</ls> {#marutAM paSyatAM tasya SirAMsi patitAnyapi#}
+<ls>RAGH. 12,101.</ls> <ls>Lot. de la b. l. 8.</ls> <ls>LALIT. ed. Calc. 111,17.</ls> {#vAyumarullipi#} {%die Schrift der Windgötter%}
+<ls n="LALIT. ed. Calc.">144,4.</ls>
+<div n="2">— b) sg. {%der Gott des Windes%}: Vater <is>Hanumant's</is>
+<ls>RĀJA-TAR. 8,3260.</ls> Regent des Nordostens
+<ls>AK. 1,1,2,4.</ls>
+<ls>HALĀY. 1,100.</ls>
+<div n="2">— c) {%Wind%}
+<ls>AK. 1,1,1,58.</ls> <ls n="AK.">3,4,14,61.</ls>
+<ls>H. 1106.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 1,75.</ls>
+<ls>SŪRYAS. 2,3.</ls>
+<ls>ŚĀK. 58.</ls>
+<ls>MEGH. 34.</ls>
+<ls>RAGH. 2,10.</ls> {#maruto vavuH#}
+<ls n="RAGH.">3,14.</ls> {#suraBirmarut#}
+<ls>KATHĀS. 45,3.</ls> {#prAleya°#}
+<ls>Spr. 1914.</ls>
+<ls>MĀRK. P. 128,33. fgg.</ls>
+<ls>PRAB. 79,17.</ls> {#katarasminmarutAM paTi vartAmahe#}
+<ls>ŚĀK. 98,15.</ls>
+<ls>RAGH. 10,47.</ls> {#marutaH paYca SarIragocarAn#} {%Winde im Körper%}
+<ls n="RAGH.">8,19.</ls> {#marutpittajvaracikitsA#}
+<ls>Verz. d. B. H. No. 949.</ls> {%Luft%}: {#DUmajyotiHsalilamarutAM saMnipAtaH (meGaH)#}
+<ls>MEGH. 5.</ls>
+<ls>BHĀṢĀP. 2.</ls> <ls>Verz. d. Oxf. H. 226,a, No. 554, Śl. 4.</ls> {%Athem%}: {#yogino jitamarunmanasaH#}
+<ls>BHĀG. P. 3,32,10.</ls>
+<div n="2">— d) N. pr. eines <is>Sādhya</is>
+<ls>HARIV. 11536</ls>; die neuere Ausg. hat eine andere Lesart.
+<div n="2">— e) Bein. des Fürsten <is>Brhadratha</is>
+<ls>MAITRYUP. 2,1. 6,30.</ls>
+<div n="2">— f) = {#ftvij#}
+<ls>NAIGH. 3,18.</ls>
+<div n="2">— g) {%eine best. Pflanze%}, = {#maruvaka#}
+<ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— h) fehlerhaft für {#maru#}
+<ls>MĀRK. P. 40,3.</ls>
+<div n="1">— 2) <lex>f.</lex> {%Trigonella corniculata Lin.%} ({#pfkkA#})
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 3) <lex>n.</lex> {%eine best. wohlriechende Pflanze%}, = {#granTiparRa#}
+<ls>MED.</ls>; vgl.
+<ls>AK. 2,4,4,21.</ls>
+<div n="1">— 4) indecl.
+<ls>P. 1,4,57</ls>, <is>Vārtt</is>. 1 in der Calc. Ausg. — Etymologie der Grammatiker
+<ls>NIR. 11,13</ls>; vgl.
+<ls>HARIV. 249. fgg.</ls>
+<ls>R. 1,46,20.</ls>
+<ls>VP. 152.</ls> Zur Form des Wortes ist ausser {#garut#} und {#garmut#} auch {#parut#} (in {#parucCepa)#} zu vergleichen. Die Ableitung Neuerer von {#mar#} {%sterben%} ist unvereinbar mit dem Bilde, welches der <is>Veda</is> von den <is>Marut</is> giebt; auch ist das zu Hilfe genommene {#maru#} in der alten Sprache nicht nachweisbar. Dagegen würde eine im Sanskrit nicht mehr vorhandene Wurzel
 <ls>MAR</ls> {%schimmern%}, welche man zu
-<lang n="greek">μαρμαίρω</lang> u. s. w. annimmt, gut passen, und wären in diesem Falle die in 
-<ls>NAIGH. 1, 2. 3, 7</ls> für {#marut#} aufgestellten Bedeutungen {%Gold%} und {%Schönheit%} oder {%Schmuck%} bemerkenswerth. Indessen ist zu erinnern, dass auch {#garmut#} {%Gold%} be deuten soll, und leicht eine Verwechselung stattgefunden haben könnte. An dieselbe Wurzel schliesst sich auch {#marIci#} . 
+<lang n="greek">μαρμαίρω</lang> u. s. w. annimmt, gut passen, und wären in diesem Falle die in
+<ls>NAIGH. 1,2. 3,7</ls> für {#marut#} aufgestellten Bedeutungen {%Gold%} und {%Schönheit%} oder {%Schmuck%} bemerkenswerth. Indessen ist zu erinnern, dass auch {#garmut#} {%Gold%} be deuten soll, und leicht eine Verwechselung stattgefunden haben könnte. An dieselbe Wurzel schliesst sich auch {#marIci#} .
 <div n="v">— Vgl. {#mAruta, mAruti#} .
 <LEND>

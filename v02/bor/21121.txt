@@ -1,6 +1,6 @@
 <L>21121<pc>665<k1>species<k2>species
-<div n="lb"/>{@SPECIES:@}¦ <div n="1">(1) {#jAtiH,#} <div n="xe">{%of the same s.:%}</div> <div n="xs">{#sajAtIya#}</div> {%or%}
-<div n="lb"/>{#ekajAtIya#} (f. {#yA#}), Sr.; {%whatever is best in a s. is%}
-<div n="lb"/>{%called%} ({%its%}) <div n="xe">{%gem:%}</div> <div n="xs">{#jAtO jAtO yadutkfzwaM tadratnaM kaTyate #}
-<div n="lb"/>{# baDEH,#}</div> M. n. </div><div n="I">II {#prakAraH:#} v. Kind.</div>
+{@SPECIES:@}¦ <div n="1">(1) {#jAtiH,#} <div n="xe">{%of the same s.:%}</div> <div n="xs">{#sajAtIya#}</div> {%or%}
+{#ekajAtIya#} (f. {#yA#}), Sr.; {%whatever is best in a s. is%}
+{%called%} ({%its%}) <div n="xe">{%gem:%}</div> <div n="xs">{#jAtO jAtO yadutkfzwaM tadratnaM kaTyate #}
+{# baDEH,#}</div> M. n. </div><div n="I">II {#prakAraH:#} v. Kind.</div>
 <LEND>

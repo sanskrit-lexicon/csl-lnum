@@ -1,17 +1,17 @@
 <L>20225<pc>631<k1>set<k2>set
-<div n="lb"/>{@SET@}¦ (v. i.): <div n="I">I Of heavenly bodies: </div><div n="1">(1) {#astaM #}
-<div n="lb"/>{# gacCati#} ({#gam,#} c. 1.), {#yAti#} ({#yA,#} c. 2.), {#vrajati#}
-<div n="lb"/>({#vraj,#} c. 1.), <div n="xe">{%when the sun was s. ting:%}</div> <div n="xs">{#sUrye'sta-#}
-<div n="lb"/>{#mupagacCati;#}</div> <div n="xe">{%when the sun had s.:%}</div> <div n="xs">{#astamite sUrye,#}</div>
-<div n="lb"/>Mah. vi.; </div><div n="1">(2) {#astagirim Arohati#} ({#ruh,#} c. 1.),
-<div n="lb"/>{#prApnoti#} ({#Ap,#} c. 5.), etc. (with ref. to the
-<div n="lb"/>fabulous mount); <div n="xe">{%the sun is s.ting:%}</div> <div n="xs">{#girimastaM #}
-<div n="lb"/>{# BAnumAn pratipadyate;#}</div> <div n="xe">{%then when the sun had s.:%}</div> <div n="xs">{#astaM #}
-<div n="lb"/>{# girimaTArUQe BAskare,#}</div> Mah. vi.; </div><div n="1">(3) {#patati#} (fall),
-<div n="lb"/>{#majjati#} (= sink), etc, (poet), {%about to s.:%}
-<div n="lb"/>{#patizyat,#} Si. ix. 6.; <div n="xe">{%with the half-s. sun:%}</div> <div n="xs">{#sAmi #}
-<div n="lb"/>{# majjati ravO,#}</div> Ki. ix. 5.; </div><div n="1">(4) {#aBinimlocati#} ({#mluc,#}
-<div n="lb"/>c. 1.) (rare). Ph.: <div n="xe">{%s. ting time:%}</div> <div n="xs">{#astagamanavelA#}</div>
-<div n="lb"/>and sim. comp.s. </div><div n="I">II To undertake: q. v.:
-<div n="lb"/>{#vyavasyati#} ({#as,#} c. 4.).</div>
+{@SET@}¦ (v. i.): <div n="I">I Of heavenly bodies: </div><div n="1">(1) {#astaM #}
+{# gacCati#} ({#gam,#} c. 1.), {#yAti#} ({#yA,#} c. 2.), {#vrajati#}
+({#vraj,#} c. 1.), <div n="xe">{%when the sun was s. ting:%}</div> <div n="xs">{#sUrye'sta-#}
+{#mupagacCati;#}</div> <div n="xe">{%when the sun had s.:%}</div> <div n="xs">{#astamite sUrye,#}</div>
+Mah. vi.; </div><div n="1">(2) {#astagirim Arohati#} ({#ruh,#} c. 1.),
+{#prApnoti#} ({#Ap,#} c. 5.), etc. (with ref. to the
+fabulous mount); <div n="xe">{%the sun is s.ting:%}</div> <div n="xs">{#girimastaM #}
+{# BAnumAn pratipadyate;#}</div> <div n="xe">{%then when the sun had s.:%}</div> <div n="xs">{#astaM #}
+{# girimaTArUQe BAskare,#}</div> Mah. vi.; </div><div n="1">(3) {#patati#} (fall),
+{#majjati#} (= sink), etc, (poet), {%about to s.:%}
+{#patizyat,#} Si. ix. 6.; <div n="xe">{%with the half-s. sun:%}</div> <div n="xs">{#sAmi #}
+{# majjati ravO,#}</div> Ki. ix. 5.; </div><div n="1">(4) {#aBinimlocati#} ({#mluc,#}
+c. 1.) (rare). Ph.: <div n="xe">{%s. ting time:%}</div> <div n="xs">{#astagamanavelA#}</div>
+and sim. comp.s. </div><div n="I">II To undertake: q. v.:
+{#vyavasyati#} ({#as,#} c. 4.).</div>
 <LEND>

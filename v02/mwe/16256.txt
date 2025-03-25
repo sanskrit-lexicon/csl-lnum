@@ -1,6 +1,6 @@
 <L>16256<pc>400-b<k1>insult<k2>insult
-<div n="lb"/>INSULT¦, {%s.%} {#avakzepaH, apamAnavAkyaM, avamAnavAkyaM, tiraskAravAkyaM, tiraskAraH,#}
-<div n="lb"/>{#apamAnaM, avajYA -jYAnaM, pariBavaH, apamAnakriyA, avalepaH, avahelA#}
-<div n="lb"/>{#-lanaM, apavAdaH, parIvAdaH, vAkpAruzyaM, pariBAzaRaM, nindA, durvacas#} {%n.,%}
-<div n="lb"/>{#DarzaRaM, anAryyaM, KaloktiH#} {%f.,%} {#anAdaraH, anAdarakriyA, BartsanA, nirBartsanA, kzepaH#}.
+INSULT¦, {%s.%} {#avakzepaH, apamAnavAkyaM, avamAnavAkyaM, tiraskAravAkyaM, tiraskAraH,#}
+{#apamAnaM, avajYA -jYAnaM, pariBavaH, apamAnakriyA, avalepaH, avahelA#}
+{#-lanaM, apavAdaH, parIvAdaH, vAkpAruzyaM, pariBAzaRaM, nindA, durvacas#} {%n.,%}
+{#DarzaRaM, anAryyaM, KaloktiH#} {%f.,%} {#anAdaraH, anAdarakriyA, BartsanA, nirBartsanA, kzepaH#}.
 <LEND>

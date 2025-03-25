@@ -1,39 +1,39 @@
 <L>10570<pc>332<k1>hand<k2>hand
-<div n="lb"/>{@HAND@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#hastaH,#} <div n="xe">{%taking%}
-<div n="lb"/>{%each other's h.:%}</div> <div n="xs">{#anyonyahastagrAham,#}</div> Vi. v.; {%h. to h.:%}
-<div n="lb"/>{#hastAhasti;#} <div n="xe">{%this kingdom has fallen into the h. s%}
-<div n="lb"/>{%of the king of Ashmaka:%}</div> <div n="xs">{#asmakendrasya haste rAjyamidaM #}
-<div n="lb"/>{# patitam,#}</div> D. viii.; {%they touch each other's h.%}
-<div n="lb"/>(= English shaking of h. s): {#anyo'nyaM hastaM #}
-<div n="lb"/>{# spfSataH,#} V. i.; <div n="xe">{%who has earned the title of hero%}
-<div n="lb"/>{%with his own h.:%}</div> <div n="xs">{#svahastArjitavIraSabdaH,#}</div> R. ii. 64.;
-<div n="lb"/>{%Chandragupta is now under%} ({%my%}) <div n="xe">{%h.:%}</div> <div n="xs">{#hastatalagataH #}
-<div n="lb"/>{# samprati candraguptaH,#}</div> Mu.; </div><div n="1">(3) {#karaH,#} {%taking%} ({%her%}) {%by%}
-<div n="lb"/>{%the h.:%} [{#tAM#}] {#AdadAnaH kareRa,#} Ku. vii. 94.; {%carrying%}
-<div n="lb"/>{%on one h...., on the other....%} {#ekena... #}
-<div n="lb"/>{# apareRa #} {#....kareRa kalayantam,#} K.; {%right h.:%} {#dakziRaH#} {%or%}
-<div n="lb"/>{#vAmetaraH#} (= other than left) {#karaH,#} R. ii. 31.;</div>
-<div n="lb"/><div n="1">(3) {#pARiH,#} <div n="xe">{%with a club in h.:%}</div> <div n="xs">{#daRqapARi#}</div> (mfn.);
-<div n="lb"/>{%pressing of h. s%} (i.e. marriage): {#pARipIqanam,#} Ku.;
-<div n="lb"/>{%this arm is stretched, take%} ({%my%}) {%h. with%} ({%your%})
-<div n="lb"/>{%h.%} ({%in friendship%}): {#gfhyatAM pARinA pArRbihureza prasAritaH,#}
-<div n="lb"/>Ram. iv. 4. 13. Ph.: </div><div n="1">(1) {%to join the h. s:%}
-<div n="lb"/>{#hastO samAnayati,#} R. ii. 64. or gen. {#aYjalirbaGnAti,#}
-<div n="lb"/>M. n.; (b) {%fore h.:%} {#agrahastaH,#} Ku. v. 63.; (c)
-<div n="lb"/>{%on the one.....on the other:%} {#ekataH......ekataH#} {%or%}
-<div n="lb"/>{#anyataH,#} K.; (d) {%of on the other h.....%} {#aTa yadi #}
-<div n="lb"/>{#.....,#} K.; (e) {%on all h. s.:%} {#sarvaTA,#} K.; (f) {%at h.:%}
-<div n="lb"/>{#pratyAsannaH#} ({#nnA, nnaM#}), {%The time for going home is at%}
-<div n="lb"/>{%h.:%} {#pratyAsIdati gfhagamanakAlaH,#} K.: v. Near; (g) {%in%}
-<div n="lb"/>{%h.:%} </div><div n="1">(1) lit. {#haste,#} etc.; </div><div n="1">(2) fig. {#hastasTa#} (f. {#sTA#}),
-<div n="lb"/>{#hastagataH#} ({#tA, taM#}), etc.; (h) <div n="xe">{%from h. to h.:%}</div> <div n="xs">{#hastAdDastam#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#-dDastAntaram;#}</div> (i) {%h. in h.:%} </div><div n="1">(1) =unitedly: q.v.:
-<div n="lb"/>{#hastAhasti;#} </div><div n="1">(2) =fit: q.v.; (j) {%to lend a h.:%}
-<div n="lb"/>{#hastaM dadAtiH#} v. To help; (k) {%off h.; out of h.:%}
-<div n="lb"/>{#tvaritam:#} </div><div n="1">(1) <div n="xe">{%to live from h. to mouth:%}</div> <div n="xs">{#yadarjayati #}
-<div n="lb"/>{# tadudarapUraRAyEva Bavati#}</div> </div><div n="I">II Handwriting: {#hastaH,#}
-<div n="lb"/><div n="xe">{%under his own h.:%}</div> <div n="xs">{#svahastaparicihnatiH#}</div> ({#tA, taM#}), Y.
-<div n="lb"/>Ph.: <div n="xe">{%he writes a good h.:%}</div> <div n="xs">{#SoBanaM hastaliKitaM tasya.#}</div></div>
-<div n="lb"/><div n="I">III Of a clock: {#pradarSanI#} (?), <div n="xe">{%hour -h.:%}</div> <div n="xs">{#*GawikA-#}
-<div n="lb"/>{#pradarSanIH#}</div> v. Gnomon.</div>
+{@HAND@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#hastaH,#} <div n="xe">{%taking%}
+{%each other's h.:%}</div> <div n="xs">{#anyonyahastagrAham,#}</div> Vi. v.; {%h. to h.:%}
+{#hastAhasti;#} <div n="xe">{%this kingdom has fallen into the h. s%}
+{%of the king of Ashmaka:%}</div> <div n="xs">{#asmakendrasya haste rAjyamidaM #}
+{# patitam,#}</div> D. viii.; {%they touch each other's h.%}
+(= English shaking of h. s): {#anyo'nyaM hastaM #}
+{# spfSataH,#} V. i.; <div n="xe">{%who has earned the title of hero%}
+{%with his own h.:%}</div> <div n="xs">{#svahastArjitavIraSabdaH,#}</div> R. ii. 64.;
+{%Chandragupta is now under%} ({%my%}) <div n="xe">{%h.:%}</div> <div n="xs">{#hastatalagataH #}
+{# samprati candraguptaH,#}</div> Mu.; </div><div n="1">(3) {#karaH,#} {%taking%} ({%her%}) {%by%}
+{%the h.:%} [{#tAM#}] {#AdadAnaH kareRa,#} Ku. vii. 94.; {%carrying%}
+{%on one h...., on the other....%} {#ekena... #}
+{# apareRa #} {#....kareRa kalayantam,#} K.; {%right h.:%} {#dakziRaH#} {%or%}
+{#vAmetaraH#} (= other than left) {#karaH,#} R. ii. 31.;</div>
+<div n="1">(3) {#pARiH,#} <div n="xe">{%with a club in h.:%}</div> <div n="xs">{#daRqapARi#}</div> (mfn.);
+{%pressing of h. s%} (i.e. marriage): {#pARipIqanam,#} Ku.;
+{%this arm is stretched, take%} ({%my%}) {%h. with%} ({%your%})
+{%h.%} ({%in friendship%}): {#gfhyatAM pARinA pArRbihureza prasAritaH,#}
+Ram. iv. 4. 13. Ph.: </div><div n="1">(1) {%to join the h. s:%}
+{#hastO samAnayati,#} R. ii. 64. or gen. {#aYjalirbaGnAti,#}
+M. n.; (b) {%fore h.:%} {#agrahastaH,#} Ku. v. 63.; (c)
+{%on the one.....on the other:%} {#ekataH......ekataH#} {%or%}
+{#anyataH,#} K.; (d) {%of on the other h.....%} {#aTa yadi #}
+{#.....,#} K.; (e) {%on all h. s.:%} {#sarvaTA,#} K.; (f) {%at h.:%}
+{#pratyAsannaH#} ({#nnA, nnaM#}), {%The time for going home is at%}
+{%h.:%} {#pratyAsIdati gfhagamanakAlaH,#} K.: v. Near; (g) {%in%}
+{%h.:%} </div><div n="1">(1) lit. {#haste,#} etc.; </div><div n="1">(2) fig. {#hastasTa#} (f. {#sTA#}),
+{#hastagataH#} ({#tA, taM#}), etc.; (h) <div n="xe">{%from h. to h.:%}</div> <div n="xs">{#hastAdDastam#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#-dDastAntaram;#}</div> (i) {%h. in h.:%} </div><div n="1">(1) =unitedly: q.v.:
+{#hastAhasti;#} </div><div n="1">(2) =fit: q.v.; (j) {%to lend a h.:%}
+{#hastaM dadAtiH#} v. To help; (k) {%off h.; out of h.:%}
+{#tvaritam:#} </div><div n="1">(1) <div n="xe">{%to live from h. to mouth:%}</div> <div n="xs">{#yadarjayati #}
+{# tadudarapUraRAyEva Bavati#}</div> </div><div n="I">II Handwriting: {#hastaH,#}
+<div n="xe">{%under his own h.:%}</div> <div n="xs">{#svahastaparicihnatiH#}</div> ({#tA, taM#}), Y.
+Ph.: <div n="xe">{%he writes a good h.:%}</div> <div n="xs">{#SoBanaM hastaliKitaM tasya.#}</div></div>
+<div n="I">III Of a clock: {#pradarSanI#} (?), <div n="xe">{%hour -h.:%}</div> <div n="xs">{#*GawikA-#}
+{#pradarSanIH#}</div> v. Gnomon.</div>
 <LEND>

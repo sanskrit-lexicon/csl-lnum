@@ -1,1552 +1,1489 @@
 <L>42000<pc>4-0423<k1>pad<k2>pad<h>1
-1. {#pad#}¦, {#pa/dyate#} 
-<ls>DHĀTUP. 26, 60.</ls> {#pede; apatsi, apatTAs, padIzwa, pAdi#} (
-<ls>P. 3, 1, 60.</ls> 
-<ls>VOP. 8, 116</ls>), {#apatsAtAm#} (
-<ls>P. 3, 1, 60,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 11, 7</ls>); {#patsyate#} <is>Kār</is>. 
-<ls>?3. 8 aus SIDDH. K. zu P. 7, 2, (10)</ls>; hier und da auch act. ({#padati#} s. u. {#ava; papAda#} ved.); {#pattum, panna#} . 
+1. {#pad#}¦, {#pa/dyate#}
+<ls>DHĀTUP. 26,60.</ls> {#pede; apatsi, apatTAs, padIzwa, pAdi#} (
+<ls>P. 3,1,60.</ls>
+<ls>VOP. 8,116</ls>), {#apatsAtAm#} (
+<ls>P. 3,1,60</ls>, <ls>Sch.</ls>
+<ls>VOP. 11,7</ls>); {#patsyate#} <is>Kār.</is>
+3. 8 aus <ls>SIDDH. K.</ls> zu <ls>P. 7,2,10</ls>); hier und da auch act. ({#padati#} s. u. {#ava; papAda#} ved.); {#pattum, panna#} .
 <div n="1"> 1) {%zu Fall kommen, (matt) dahinfallen,%}
 [Page4-0424]
-{%umkommen%}: {#(nirftiH) pa\dI\zwa tfzRa^yA sa\ha#} 
-<ls>ṚV. 1, 38, 6.</ls> <ls n="ṚV. 1,">79, 11.</ls> <ls n="ṚV.">3, 53, 21.</ls> <ls n="ṚV.">7, 104, 16.</ls> {#mA mA\tara^mamu\yA patta^ve kaH#} 
-<ls n="ṚV.">4, 18, 1.</ls> {#nI\cEH pa^dyantA\maDa^re Bavantu#} 
-<ls>AV. 3, 19, 3.</ls> {#vajra^sya\ yatpata^ne\ pAdi\ SuzRa^H#} 
-<ls>ṚV. 6, 20, 5.</ls> {#Sa\tEra^padranpa\Raya^H#} (nach 
-<ls>SĀY.</ls> {#apa 'dran#} gegen Accent und <is>Padap</is>.) 4. {#so a\gnerante^ vfza\laH pa^pAda#} 
-<ls>10, 34, 11.</ls> {#mA pA\dyAyu^zaH pu\rA#} 
-<ls>VS. 11, 46.</ls> 
-<ls>ŚAT. BR. 7, 1, 2, 1. 4, 2, 11.</ls> {#mahAnbata no vIro 'pAdi#} 
-<ls>14, 1, 1, 10.</ls> {#tA jihmAH pannA aSerata#} 
-<ls>KĀṬH. 13, 2.</ls> {#apadasi nahi padyase (= jYAyase#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> und <ls>DVIV.</ls>) {%denn du fällst nicht%} 
-<ls>ŚAT. BR. 14, 8, 15, 10.</ls> {%abfallen, ausfallen%}: {#yadA vE paSordantAH padyante, pedire, apatsata#} 
-<ls>AIT. BR. 7, 14.</ls> {#panna = srasta#} u. s. w. 
-<ls>AK. 3, 2, 53.</ls> 
-<ls>H. 1491.</ls> 
-<ls>HALĀY. 4, 82.</ls> 
-<div n="1">— 2) {%hingehen zu%} ({#gatO#} 
-<ls>DHĀTUP.</ls>): {#tenEva viDinA maharzistAmapadyata#} 
-<ls>MBH. 1, 4288.</ls> {#anena cEva dehena lokAMstvamiha patsyase#} 
-<ls>13, 167.</ls> 
-<div n="1">— 3) {%erlangen, theilhaftig werden%}: {#jyotizAmADipatyaM ca praBAvaM cApyapadyata#} 
-<ls>MBH. 9, 2847</ls>; es ist wohl {#cAByapadyata#} zu lesen. 
-<div n="1">— 4) {%sich wenden zu%} so v. a. {%sich halten an, beobachten%}: {#svaDarmaM padyamAnAste praRipatya mahAtmane . SayanaM kalpayAmAsurBIzmAya#} 
-<ls>MBH. 7, 16.</ls>
-
-<div n="p">— caus. {#pAda/yati#} {%zu Fall bringen%}: {#i\dame^namaDa\rAYca^M pAdayAmi#} 
-<ls>AV. 10, 5, 36. 1, 17. 9, 2, 9. 11, 2, 18.</ls> 
-<ls>AIT. BR. 1, 13.</ls> med. : {#Sa\trU\ya\to 'Da^rAnpAdayasva#} 
-<ls>AV. 6, 88, 3.</ls> — {#padayate#} {%gehen%} 
-<ls>DHĀTUP. 35, 44.</ls>
-
-<div n="p">— desid. {#pitsate#} 
-<ls>P. 7, 4, 54.</ls> 
-<ls>VOP. 19, 9. 12.</ls>
-
-<div n="p">— intens. {#panIpadyate, panIpadIti#} 
-<ls>P. 7, 4, 84.</ls> 
-<ls>VOP. 20, 7.</ls>
-
-<div n="p">— {#ati#} {%hinausgehen über%} (acc.), {%überspringen; versäumen, übertreten%}: {#na sUktena nividamatipadyeta#} 
-<ls>AIT. BR. 3, 11. 4, 10.</ls> {#apra^jYAta\M hi tadyadati^panna A\huri\daM kA\rya^mAsI\diti^#} 
-<ls>TS. 6, 3, 4, 8.</ls> {#yadvratamatipede#} 
-<ls>KAUŚ. 42.</ls> Vgl. {#atipAda#} 
-<ls>TBR. 1, 2, 4, 2.</ls> — caus. {%verstreichen lassen%}: {#yaH pO^rRamA\sIma^tipA\daye^t#} 
-<ls>TS. 2, 2, 2, 1.</ls>
-
-<div n="p">— {#anu#} 
-<div n="1"> 1) {%Jmd%} (acc.) {%nachgehen, folgen%}: {#taM tu viSvAmitro 'nvapadyata#} 
-<ls>MBH. 1, 6710. 7962. 8447. 4, 651.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 108, 3.</ls> {%einem Weibe nachgehen, nachstellen%}: {#utaTyasya yavIyAMstu - mamatAmanvapadyata#} 
-<ls>MBH. 1, 4180.</ls> 
-<div n="1">— 2) {%sich begeben in%}: {#anvapadyadantarveSma#} 
-<ls>MBH. 3, 239.</ls> {#vanamevAnvapadyata#} 
-<ls>12714.</ls> <ls>R. 2, 45, 4.</ls> {%sich zur Erde begeben%} so v. a. {%auf die Erde, zu Boden fallen%}: {#vasuDAmanvapadyetAM vAtanunnAviva drumO#} 
-<ls>MBH. 7, 3361.</ls> 
-<div n="1">— 3) {%sich begeben zu%} so v. a. {%treffen, zu Theil werden%}: {#a\nyaM pA\pmAnu^ padyatAm#} 
-<ls>AV. 6, 26, 2.</ls> 
-<div n="1">— 4) {%an Etwas gehen, sich an Etwas machen%}: {#DyAnamevAnvapadyata#} 
-<ls>R. 1, 2, 25.</ls> {#jitamityeva tAnakzAnpunarevAnvapadyata#} 
-<ls>MBH. 2, 2185.</ls> {#ahaM hyakzAnanvapadyam#} 
-<ls>3, 1356.</ls> {#tataH pratyAgataprARA tAvuBO paridaMSitO . putrO dfzwvA susaMBrAntA nAnvapadyata kiM ca na#} so v. a. {%that Nichts, verhielt sich ganz ruhig%} 
-<ls>1, 5407.</ls> 
-<div n="1">— 5) {%hinter Etwas kommen, ausfindig machen, finden%}: {#dIrGaM daDyO - nimittaM so 'nvapadyata#} 
-<ls>BHĀG. P. 4, 17, 12.</ls> {#jEminiM sAmavedArTaSrAvakaM so 'nvapadyata#} 
-<ls>VĀYU-P.</ls> in <ls>Verz. d. Oxf. H. 54,b,6.</ls> 
-<div n="1">— 6) {%verlustig gehen einer Sache%} (abl.): {#himavAnvA mahASElaH samudro vA mahodaDiH . mahattvAnnAnvapadyetAM naBaso vAntaraM yaTA#} (so ist st. {#taTA#} zu lesen) | {#ASAyAH - taTA nAntamahaM gataH#} 
-<ls>MBH. 12, 4653.</ls> 
+{%umkommen%}: {#(nirftiH) pa\dI\zwa tfzRa^yA sa\ha#}
+<ls>ṚV. 1,38,6.</ls> <ls n="ṚV. 1,">79,11.</ls> <ls n="ṚV.">3,53,21.</ls> <ls n="ṚV.">7,104,16.</ls> {#mA mA\tara^mamu\yA patta^ve kaH#}
+<ls n="ṚV.">4,18,1.</ls> {#nI\cEH pa^dyantA\maDa^re Bavantu#}
+<ls>AV. 3,19,3.</ls> {#vajra^sya\ yatpata^ne\ pAdi\ SuzRa^H#}
+<ls>ṚV. 6,20,5.</ls> {#Sa\tEra^padranpa\Raya^H#} (nach
+<ls>SĀY.</ls> {#apa 'dran#} gegen Accent und <is>Padap</is>.) 4. {#so a\gnerante^ vfza\laH pa^pAda#}
+<ls n="ṚV.">10,34,11.</ls> {#mA pA\dyAyu^zaH pu\rA#}
+<ls>VS. 11,46.</ls>
+<ls>ŚAT. BR. 7,1,2,1. 4,2,11.</ls> {#mahAnbata no vIro 'pAdi#}
+<ls n="ŚAT. BR.">14,1,1,10.</ls> {#tA jihmAH pannA aSerata#}
+<ls>KĀṬH. 13,2.</ls> {#apadasi nahi padyase (= jYAyase#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> und <ls>DVIV.</ls>) {%denn du fällst nicht%}
+<ls>ŚAT. BR. 14,8,15,10.</ls> {%abfallen, ausfallen%}: {#yadA vE paSordantAH padyante, pedire, apatsata#}
+<ls>AIT. BR. 7,14.</ls> {#panna = srasta#} u. s. w.
+<ls>AK. 3,2,53.</ls>
+<ls>H. 1491.</ls>
+<ls>HALĀY. 4,82.</ls>
+<div n="1">— 2) {%hingehen zu%} ({#gatO#}
+<ls>DHĀTUP.</ls>): {#tenEva viDinA maharzistAmapadyata#}
+<ls>MBH. 1,4288.</ls> {#anena cEva dehena lokAMstvamiha patsyase#}
+<ls n="MBH.">13,167.</ls>
+<div n="1">— 3) {%erlangen, theilhaftig werden%}: {#jyotizAmADipatyaM ca praBAvaM cApyapadyata#}
+<ls>MBH. 9,2847</ls>; es ist wohl {#cAByapadyata#} zu lesen.
+<div n="1">— 4) {%sich wenden zu%} so v. a. {%sich halten an, beobachten%}: {#svaDarmaM padyamAnAste praRipatya mahAtmane . SayanaM kalpayAmAsurBIzmAya#}
+<ls>MBH. 7,16.</ls>
+<div n="p">— caus. {#pAda/yati#} {%zu Fall bringen%}: {#i\dame^namaDa\rAYca^M pAdayAmi#}
+<ls>AV. 10,5,36.</ls> <ls n="AV. 10,">1,17.</ls> <ls n="AV.">9,2,9.</ls> <ls n="AV.">11,2,18.</ls>
+<ls>AIT. BR. 1,13.</ls> med. : {#Sa\trU\ya\to 'Da^rAnpAdayasva#}
+<ls>AV. 6,88,3.</ls> — {#padayate#} {%gehen%}
+<ls>DHĀTUP. 35,44.</ls>
+<div n="p">— desid. {#pitsate#}
+<ls>P. 7,4,54.</ls>
+<ls>VOP. 19,9.</ls> <ls n="VOP. 19,">12.</ls>
+<div n="p">— intens. {#panIpadyate, panIpadIti#}
+<ls>P. 7,4,84.</ls>
+<ls>VOP. 20,7.</ls>
+<div n="p">— {#ati#} {%hinausgehen über%} (acc.), {%überspringen; versäumen, übertreten%}: {#na sUktena nividamatipadyeta#}
+<ls>AIT. BR. 3,11.</ls> <ls n="AIT. BR.">4,10.</ls> {#apra^jYAta\M hi tadyadati^panna A\huri\daM kA\rya^mAsI\diti^#}
+<ls>TS. 6,3,4,8.</ls> {#yadvratamatipede#}
+<ls>KAUŚ. 42.</ls> Vgl. {#atipAda#}
+<ls>TBR. 1,2,4,2.</ls> — caus. {%verstreichen lassen%}: {#yaH pO^rRamA\sIma^tipA\daye^t#}
+<ls>TS. 2,2,2,1.</ls>
+<div n="p">— {#anu#}
+<div n="1"> 1) {%Jmd%} (acc.) {%nachgehen, folgen%}: {#taM tu viSvAmitro 'nvapadyata#}
+<ls>MBH. 1,6710.</ls> <ls n="MBH. 1,">7962.</ls> <ls n="MBH. 1,">8447.</ls> <ls n="MBH.">4,651.</ls>
+<ls>R. GORR. 2,108,3.</ls> {%einem Weibe nachgehen, nachstellen%}: {#utaTyasya yavIyAMstu — mamatAmanvapadyata#}
+<ls>MBH. 1,4180.</ls>
+<div n="1">— 2) {%sich begeben in%}: {#anvapadyadantarveSma#}
+<ls>MBH. 3,239.</ls> {#vanamevAnvapadyata#}
+<ls n="MBH. 3,">12714.</ls> <ls>R. 2,45,4.</ls> {%sich zur Erde begeben%} so v. a. {%auf die Erde, zu Boden fallen%}: {#vasuDAmanvapadyetAM vAtanunnAviva drumO#}
+<ls>MBH. 7,3361.</ls>
+<div n="1">— 3) {%sich begeben zu%} so v. a. {%treffen, zu Theil werden%}: {#a\nyaM pA\pmAnu^ padyatAm#}
+<ls>AV. 6,26,2.</ls>
+<div n="1">— 4) {%an Etwas gehen, sich an Etwas machen%}: {#DyAnamevAnvapadyata#}
+<ls>R. 1,2,25.</ls> {#jitamityeva tAnakzAnpunarevAnvapadyata#}
+<ls>MBH. 2,2185.</ls> {#ahaM hyakzAnanvapadyam#}
+<ls n="MBH.">3,1356.</ls> {#tataH pratyAgataprARA tAvuBO paridaMSitO . putrO dfzwvA susaMBrAntA nAnvapadyata kiM ca na#} so v. a. {%that Nichts, verhielt sich ganz ruhig%}
+<ls n="MBH.">1,5407.</ls>
+<div n="1">— 5) {%hinter Etwas kommen, ausfindig machen, finden%}: {#dIrGaM daDyO — nimittaM so 'nvapadyata#}
+<ls>BHĀG. P. 4,17,12.</ls> {#jEminiM sAmavedArTaSrAvakaM so 'nvapadyata#}
+<ls>VĀYU-P.</ls> in <ls>Verz. d. Oxf. H. 54,b,6.</ls>
+<div n="1">— 6) {%verlustig gehen einer Sache%} (abl.): {#himavAnvA mahASElaH samudro vA mahodaDiH . mahattvAnnAnvapadyetAM naBaso vAntaraM yaTA#} (so ist st. {#taTA#} zu lesen) | {#ASAyAH — taTA nAntamahaM gataH#}
+<ls>MBH. 12,4653.</ls>
 <div n="v">— Vgl. {#anupad#} .
-
-<div n="p">— {#samanu#} {%bekommen, erhalten%}: {#hInAdDInaM taTA DarmaM prajA samanupatsyati#} (warum act.?) 
+<div n="p">— {#samanu#} {%bekommen, erhalten%}: {#hInAdDInaM taTA DarmaM prajA samanupatsyati#} (warum act.?)
 <ls>HARIV. 11210.</ls>
-
-<div n="p">— {#apa#} {%entrinnen%}: {#yayo^rva\DAnnApa\padya^te\ kaSca\na#} 
-<ls>AV. 4, 28, 5.</ls>
-
-<div n="p">— {#api#} {%eintreten in, eingehen%}: {#prARo vAtamapipadyate#} 
-<ls>ŚAT. BR. 3, 4, 2, 6. 7, 4, 9.</ls> {#jIvAn#} 
-<ls>2, 6, 1, 39. 13, 8, 1, 9.</ls> {#yajYapaTam#} 
-<ls>5, 3, 2, 4.</ls>
-
-<div n="p">— {#aBi#} 
-<div n="1"> 1) {%herbeikommen, kommen%}: {#ftvijo nAByapadyanta#} 
-<ls>MBH. 1, 8105.</ls>
+<div n="p">— {#apa#} {%entrinnen%}: {#yayo^rva\DAnnApa\padya^te\ kaSca\na#}
+<ls>AV. 4,28,5.</ls>
+<div n="p">— {#api#} {%eintreten in, eingehen%}: {#prARo vAtamapipadyate#}
+<ls>ŚAT. BR. 3,4,2,6. 7,4,9.</ls> {#jIvAn#}
+<ls n="ŚAT. BR.">2,6,1,39. 13,8,1,9.</ls> {#yajYapaTam#}
+<ls n="ŚAT. BR.">5,3,2,4.</ls>
+<div n="p">— {#aBi#}
+<div n="1"> 1) {%herbeikommen, kommen%}: {#ftvijo nAByapadyanta#}
+<ls>MBH. 1,8105.</ls>
 [Page4-0425]
-{#samayaM kftvA durmatirnABipadyate#} 
-<ls>R. 4, 30, 8.</ls> {#kuru kzipraM vaco 'smAkaM tataH Sreyo 'Bipatsyate#} 
-<ls>MBH. 3, 8469.</ls> 
-<ls>HARIV. 11215.</ls> {%sich hinbegeben zu, kommen zu, gelangen zu%}; mit dem acc.: {#somamevAByapadyanta dAhyannABiprapIqitAH#} 
-<ls>MBH. 13, 4375.</ls> {#rAvaRAvarajA tatra rAGavaM madanAturA . aBipede nidAGArtA vyAlIva malayadrumam ..#} 
-<ls>RAGH. 12, 32.</ls> 
-<ls>BHĀG. P. 3, 17, 31.</ls> {#ta enaM lolupatayA mETunAyABipedire#} 
-<ls>20, 23. 26, 4.</ls> {#pAnaBUmiracanAH - aByapadyata - puzpitAH kamalinIriva dvipaH#} 
-<ls>RAGH. 19, 11.</ls> {#candramA na yaTAvfdDi nakzatrARyaBipadyate#} 
-<ls>R. 6, 16, 10.</ls> {#tavABipadya vAtApe brAhmaRasyodaraM yaTA . BavatyavajYA#} 
-<ls>3, 49, 52.</ls> {#patatriRaH - pAdapAnaBipedire#} 
-<ls>2, 63, 16.</ls> {#vanam#} 
-<ls>1, 55, 11 (56, 11</ls> <ls>GORR.).</ls> {#anena cEva dehena lokAMstvamaBipatsyase#} 
-<ls>MBH. 13, 170.</ls> {#divam#} 
-<ls>ŚAT. BR. 11, 1, 6, 7.</ls> {#kAzWAm#} 
-<ls>AIT. BR. 4, 9.</ls> mit dem loc.: {#aBipadyamAno makarAdizu raSmizu#} (die Sonne) 
-<ls>BHĀG. P. 5, 21, 3.</ls> {#tasyAYjalyudake kAcicCaParyekAByapadyata#} {%gerathen in%} 
-<ls>8, 24, 12.</ls> {%sich zu einer Gottheit hinbegeben%} so v. a. {%bei ihr Schutz suchen, ihr seine Verehrung bezeigen%}: {#kzaRamaByapadyata janErna mfzA gaganaM gaRADipatimUrtiriti#} 
-<ls>ŚIŚ. 9, 27.</ls> {#aBipanna = SaraRArTin#} {%Schutz suchend%} 
-<ls>TRIK. 3, 1, 2.</ls> 
-<ls>H. 479.</ls> 
-<div n="1">— 2) {%Jmd.%} (acc.) {%zu Hülfe kommen, sich auf Jmds Seite stellen%}: {#yo 'nvayo mAtfkastasya sa enamaBipedivAn#} 
-<ls>MBH. 6, 4043.</ls> {#yastvamasyAmavasTAyAM BrAtaraM nABipadyase#} 
-<ls>R. 3, 51, 9. 66, 19.</ls> {#marutaScEva viSve ca rudramevABipadyata#} (sic) 
-<ls>HARIV. 12253.</ls> {#mayABipannaM taM cApi na sarpo Darzayizyati#} 
-<ls>MBH. 1, 1981. 4, 701.</ls> {#mayA#} (<is>Śrī</is> spricht) {#dEtyAH parityaktA vinazwAH SASvatIH samAH . mayABipannA devASca modante SASvatIH samAH ..#} 
-<ls>13, 3856. fgg.</ls> 
-<div n="1">— 3) {%erfassen, in die Hand bekommen, erwischen, Jmd auf den Leib rücken, sich über Jmd hermachen, über Jmd kommen, sich Jmdes bemächtigen%}: {#pUrvArDaM daRqasya#} 
-<ls>ŚAT. BR. 3, 7, 1, 26.</ls> {#bilam#} 
-<ls>6, 5, 2, 20.</ls> {#izwakAm#} 
-<ls>2, 1, 2, 16.</ls> {#stanam#} 
-<ls>9, 5, 1, 5. 1, 5, 1, 2. 3. 3, 1, 1, 11. 4, 1, 17.</ls> <ls>ŚĀṄKH. ŚR. 5, 10, 5.</ls> {#tataH saH - kiran SaraSatEstIkzREraBipede mahAkapim#} 
-<ls>R. 5, 41, 24.</ls> {#pramattam - tvamapramattaH sahasABipadyase kzullelihAno 'hirivAKumantakaH#} 
-<ls>BHĀG. P. 4, 24, 66.</ls> {#sarvataScABipannEzA DArtarAzwrI mahAcamUH . pAYcAlErmAnasAdetya haMsErgaNgeva vegitEH ..#} 
-<ls>MBH. 8, 3047.</ls> {#tasya kfzRABipannasya pIqitasya balIyasaH . muKAdruDiramatyaTarmujjagAma mumUzartaH ..#} 
-<ls>HARIV. 4737.</ls> 
-<ls>MBH. 3, 676.</ls> {#vyAGrABipanno balavAnivokzA#} 
-<ls>R. GORR. 2, 9, 46. 5, 28, 1.</ls> {#yadidaM sarvaM mftyunABipannam#} 
-<ls>ŚAT. BR. 14, 6, 1, 5.</ls> {#jAyAm#} 
-<ls>9, 4, 19.</ls> {#vAca^maBipadya pA\payA^#} 
-<ls>ṚV. 10, 71, 9.</ls> {#na paRqitaH kruDyati nABipadyate#} {%tritt Niemand zu nahe%} 
-<ls>MBH. 12, 8202.</ls> {#caRqavAtABipannAnAmudaDInAmiva svanaH#} 
-<ls>MBH. 7, 6782.</ls> {#dEvABipanna#} 
-<ls>R. 2, 22, 30.</ls> {#kAlABipannAH sIdanti sikatAsetavo yaTA#} 
-<ls>3, 74, 31.</ls> <ls>BHĀG. P. 1, 13, 19.</ls> {#kaSmalenABipanne - arjune#} 
-<ls>MBH. 1, 179.</ls> {#tatsaKABipanna#} {%erfasst%} (von einem bösen Dämon) 
-<ls>SUŚR. 2, 383, 7.</ls> {#vAta°, pitta°, kaPa°, rakta°#} 
-<ls>312, 1 v. u. 313, 2. 4. 6.</ls> {#dfzwirdozABipannA#} 
-<ls>318, 20.</ls> {#dozAnaBipanna#} 
-<ls>1, 128, 2.</ls> {#aBipanna = aBigrasta, vyApadgata (Apadgata)#} 
-<ls>AK. 3, 4, 18, 131.</ls> 
-<ls>MED. n. 161.</ls> = {#aBidruta#} 
-<ls>VIŚVA</ls><ls>PR.</ls> <ls>ŚABDAR.</ls> <ls>AJAYAP.</ls> <ls>BHŪRIPR.</ls> bei <ls>GOLD.</ls> u. {#aBipanna#}, wo jenes Wort durch {%come near, run towards%} wiedergegeben wird, während es nach unserem Dafürhalten in der pass. Bed. aufzufassen ist. 
-<div n="1">— 4) {%zu Etwas gelangen, bekommen, in den Besitz von Etwas gelangen%}: {#yaTartuliNgAnyftavaH svayamevartuparyaye . svAni svAnyaBipadyante taTA karmARi dehinaH ..#} 
-<ls>M. 1, 30.</ls> {#DarmArTAvaBipedire#} 
-<ls>MBH. 1, 2805.</ls> 
-<div n="1">— 5) {%annehmen%}: {#rAjyaM gatajanaM sADo pItamaRqAM surAmiva . nirAsvAdyatamaM SUnyaM Barato nABipatsyate ..#} 
-<ls>R. 2, 36, 12.</ls> {#AttaM rAjyamidaM paScAttaTA BrAtrA yavIyasA . nABipattumalaM rAmaH pItasomamivADvaram ..#} 
-<ls>R.</ls> <ls>GORR.2, 62, 27.</ls>
+{#samayaM kftvA durmatirnABipadyate#}
+<ls>R. 4,30,8.</ls> {#kuru kzipraM vaco 'smAkaM tataH Sreyo 'Bipatsyate#}
+<ls>MBH. 3,8469.</ls>
+<ls>HARIV. 11215.</ls> {%sich hinbegeben zu, kommen zu, gelangen zu%}; mit dem acc.: {#somamevAByapadyanta dAhyannABiprapIqitAH#}
+<ls>MBH. 13,4375.</ls> {#rAvaRAvarajA tatra rAGavaM madanAturA . aBipede nidAGArtA vyAlIva malayadrumam ..#}
+<ls>RAGH. 12,32.</ls>
+<ls>BHĀG. P. 3,17,31.</ls> {#ta enaM lolupatayA mETunAyABipedire#}
+<ls n="BHĀG. P. 3,">20,23.</ls> <ls n="BHĀG. P. 3,">26,4.</ls> {#pAnaBUmiracanAH — aByapadyata — puzpitAH kamalinIriva dvipaH#}
+<ls>RAGH. 19,11.</ls> {#candramA na yaTAvfdDi nakzatrARyaBipadyate#}
+<ls>R. 6,16,10.</ls> {#tavABipadya vAtApe brAhmaRasyodaraM yaTA . BavatyavajYA#}
+<ls n="R.">3,49,52.</ls> {#patatriRaH — pAdapAnaBipedire#}
+<ls n="R.">2,63,16.</ls> {#vanam#}
+<ls n="R.">1,55,11</ls> (<ls n="GORR. 1,">56,11</ls> <ls>GORR.</ls>). {#anena cEva dehena lokAMstvamaBipatsyase#}
+<ls>MBH. 13,170.</ls> {#divam#}
+<ls>ŚAT. BR. 11,1,6,7.</ls> {#kAzWAm#}
+<ls>AIT. BR. 4,9.</ls> mit dem loc.: {#aBipadyamAno makarAdizu raSmizu#} (die Sonne)
+<ls>BHĀG. P. 5,21,3.</ls> {#tasyAYjalyudake kAcicCaParyekAByapadyata#} {%gerathen in%}
+<ls n="BHĀG. P.">8,24,12.</ls> {%sich zu einer Gottheit hinbegeben%} so v. a. {%bei ihr Schutz suchen, ihr seine Verehrung bezeigen%}: {#kzaRamaByapadyata janErna mfzA gaganaM gaRADipatimUrtiriti#}
+<ls>ŚIŚ. 9,27.</ls> {#aBipanna = SaraRArTin#} {%Schutz suchend%}
+<ls>TRIK. 3,1,2.</ls>
+<ls>H. 479.</ls>
+<div n="1">— 2) {%Jmd.%} (acc.) {%zu Hülfe kommen, sich auf Jmds Seite stellen%}: {#yo 'nvayo mAtfkastasya sa enamaBipedivAn#}
+<ls>MBH. 6,4043.</ls> {#yastvamasyAmavasTAyAM BrAtaraM nABipadyase#}
+<ls>R. 3,51,9.</ls> <ls n="R. 3,">66,19.</ls> {#marutaScEva viSve ca rudramevABipadyata#} (sic)
+<ls>HARIV. 12253.</ls> {#mayABipannaM taM cApi na sarpo Darzayizyati#}
+<ls>MBH. 1,1981.</ls> <ls n="MBH.">4,701.</ls> {#mayA#} (<is>Śrī</is> spricht) {#dEtyAH parityaktA vinazwAH SASvatIH samAH . mayABipannA devASca modante SASvatIH samAH ..#}
+<ls n="MBH.">13,3856. fgg.</ls>
+<div n="1">— 3) {%erfassen, in die Hand bekommen, erwischen, Jmd auf den Leib rücken, sich über Jmd hermachen, über Jmd kommen, sich Jmdes bemächtigen%}: {#pUrvArDaM daRqasya#}
+<ls>ŚAT. BR. 3,7,1,26.</ls> {#bilam#}
+<ls n="ŚAT. BR.">6,5,2,20.</ls> {#izwakAm#}
+<ls n="ŚAT. BR.">2,1,2,16.</ls> {#stanam#}
+<ls n="ŚAT. BR.">9,5,1,5. 1,5,1,2. 3. 3,1,1,11. 4,1,17.</ls> <ls>ŚĀṄKH. ŚR. 5,10,5.</ls> {#tataH saH — kiran SaraSatEstIkzREraBipede mahAkapim#}
+<ls>R. 5,41,24.</ls> {#pramattam — tvamapramattaH sahasABipadyase kzullelihAno 'hirivAKumantakaH#}
+<ls>BHĀG. P. 4,24,66.</ls> {#sarvataScABipannEzA DArtarAzwrI mahAcamUH . pAYcAlErmAnasAdetya haMsErgaNgeva vegitEH ..#}
+<ls>MBH. 8,3047.</ls> {#tasya kfzRABipannasya pIqitasya balIyasaH . muKAdruDiramatyaTarmujjagAma mumUzartaH ..#}
+<ls>HARIV. 4737.</ls>
+<ls>MBH. 3,676.</ls> {#vyAGrABipanno balavAnivokzA#}
+<ls>R. GORR. 2,9,46.</ls> <ls n="R. GORR.">5,28,1.</ls> {#yadidaM sarvaM mftyunABipannam#}
+<ls>ŚAT. BR. 14,6,1,5.</ls> {#jAyAm#}
+<ls n="ŚAT. BR.">9,4,19.</ls> {#vAca^maBipadya pA\payA^#}
+<ls>ṚV. 10,71,9.</ls> {#na paRqitaH kruDyati nABipadyate#} {%tritt Niemand zu nahe%}
+<ls>MBH. 12,8202.</ls> {#caRqavAtABipannAnAmudaDInAmiva svanaH#}
+<ls>MBH. 7,6782.</ls> {#dEvABipanna#}
+<ls>R. 2,22,30.</ls> {#kAlABipannAH sIdanti sikatAsetavo yaTA#}
+<ls n="R.">3,74,31.</ls> <ls>BHĀG. P. 1,13,19.</ls> {#kaSmalenABipanne — arjune#}
+<ls>MBH. 1,179.</ls> {#tatsaKABipanna#} {%erfasst%} (von einem bösen Dämon)
+<ls>SUŚR. 2,383,7.</ls> {#vAta°, pitta°, kaPa°, rakta°#}
+<ls n="SUŚR. 2,">312,1</ls> v. u. <ls n="SUŚR. 2,">313,2. 4. 6.</ls> {#dfzwirdozABipannA#}
+<ls n="SUŚR. 2,">318,20.</ls> {#dozAnaBipanna#}
+<ls n="SUŚR.">1,128,2.</ls> {#aBipanna = aBigrasta, vyApadgata (Apadgata)#}
+<ls>AK. 3,4,18,131.</ls>
+<ls>MED. n. 161.</ls> = {#aBidruta#}
+<ls>VIŚVAPR.</ls> <ls>ŚABDAR.</ls> <ls>AJAYAP.</ls> <ls>BHŪRIPR.</ls> bei <ls>GOLD.</ls> u. {#aBipanna#}, wo jenes Wort durch {%come near, run towards%} wiedergegeben wird, während es nach unserem Dafürhalten in der pass. Bed. aufzufassen ist.
+<div n="1">— 4) {%zu Etwas gelangen, bekommen, in den Besitz von Etwas gelangen%}: {#yaTartuliNgAnyftavaH svayamevartuparyaye . svAni svAnyaBipadyante taTA karmARi dehinaH ..#}
+<ls>M. 1,30.</ls> {#DarmArTAvaBipedire#}
+<ls>MBH. 1,2805.</ls>
+<div n="1">— 5) {%annehmen%}: {#rAjyaM gatajanaM sADo pItamaRqAM surAmiva . nirAsvAdyatamaM SUnyaM Barato nABipatsyate ..#}
+<ls>R. 2,36,12.</ls> {#AttaM rAjyamidaM paScAttaTA BrAtrA yavIyasA . nABipattumalaM rAmaH pItasomamivADvaram ..#}
+<ls>R. GORR. 2,62,27.</ls>
 [Page4-0426]
-{#pitrA BuktA nfpaSrIrhi dAyAdyaM tasya DImataH . nABipattuM mayA SakyA sAvitrI vfzalEriva ..#} 
-<ls>88, 18.</ls> {#aBipanna = svIkfta#} 
-<ls>AJAYAP.</ls> = {#aNgIkfta#} 
-<ls>ŚABDAMUKTĀV.</ls> bei <ls>GOLDST.</ls> u. {#aBipanna#} . 
-<div n="1">— 6) {%an Etwas gehen, sich machen an Etwas, sich hingeben%}: {#(apaH) praTamena karmaRABipadyate#} 
-<ls>ŚAT. BR. 1, 1, 1, 12.</ls> {#cintAmaByapadyata#} 
-<ls>R. 2, 63, 1.</ls> {#anarTaM tatkftaM cABipadyate#} 
-<ls>BHĀG. P. 1, 7, 5.</ls> {#kAle dizwamevAByapadyata#} 
-<ls>9, 18, 32.</ls> {#aDarmaM DarmaveSena yadyahaM lokasaMkaram . aBipatsye SuBaM hitvA#} 
-<ls>R. 2, 109, 6 (118, 6 GORR.).</ls> {#svavfttimaBipannAya liNgine cetarAya ca . deyamAhuH#} 
-<ls>MBH. 13, 1532.</ls> {#cikitsAbIjam - kuSalenABipannaM tadbahuDABiprarohati#} {%wenn ein geschickter Mann daran geht%} 
-<ls>SUŚR. 2, 360, 15.</ls> 
-<div n="1">— 7) {#aBipanna = aparAdDa#} {%schuldig, der sich vergangen hat%} 
-<ls>AK. 3, 4, 18, 131.</ls> dafür fälschlich {#aparADa#} 
-<ls>MED. n. 161.</ls> 
-<div n="1">— 8) {#aBipanna#} {%entfernt%} 
-<ls>AJAYAP.</ls> und <ls>ŚABDAMUKTĀM.</ls> bei <ls>GOLDST.</ls> u. {#aBipanna#} . Eher könnte {#aBipanna#} {%nahe%} (vgl. u. 3. am Ende) bedenten. 
-<div n="1">— 9) {#aBipanna#} {%gestorben, todt%} 
-<ls>BHAṬṬIK.</ls> ebend. 
+{#pitrA BuktA nfpaSrIrhi dAyAdyaM tasya DImataH . nABipattuM mayA SakyA sAvitrI vfzalEriva ..#}
+<ls n="R. GORR. 2,">88,18.</ls> {#aBipanna = svIkfta#}
+<ls>AJAYAP.</ls> = {#aNgIkfta#}
+<ls>ŚABDAMUKTĀV.</ls> bei <ls>GOLDST.</ls> u. {#aBipanna#} .
+<div n="1">— 6) {%an Etwas gehen, sich machen an Etwas, sich hingeben%}: {#(apaH) praTamena karmaRABipadyate#}
+<ls>ŚAT. BR. 1,1,1,12.</ls> {#cintAmaByapadyata#}
+<ls>R. 2,63,1.</ls> {#anarTaM tatkftaM cABipadyate#}
+<ls>BHĀG. P. 1,7,5.</ls> {#kAle dizwamevAByapadyata#}
+<ls n="BHĀG. P.">9,18,32.</ls> {#aDarmaM DarmaveSena yadyahaM lokasaMkaram . aBipatsye SuBaM hitvA#}
+<ls>R. 2,109,6</ls> (<ls n="GORR. 2,">118,6</ls> <ls>GORR.</ls>). {#svavfttimaBipannAya liNgine cetarAya ca . deyamAhuH#}
+<ls>MBH. 13,1532.</ls> {#cikitsAbIjam — kuSalenABipannaM tadbahuDABiprarohati#} {%wenn ein geschickter Mann daran geht%}
+<ls>SUŚR. 2,360,15.</ls>
+<div n="1">— 7) {#aBipanna = aparAdDa#} {%schuldig, der sich vergangen hat%}
+<ls>AK. 3,4,18,131.</ls> dafür fälschlich {#aparADa#}
+<ls>MED. n. 161.</ls>
+<div n="1">— 8) {#aBipanna#} {%entfernt%}
+<ls>AJAYAP.</ls> und <ls>ŚABDAMUKTĀM.</ls> bei <ls>GOLDST.</ls> u. {#aBipanna#} . Eher könnte {#aBipanna#} {%nahe%} (vgl. u. 3. am Ende) bedenten.
+<div n="1">— 9) {#aBipanna#} {%gestorben, todt%}
+<ls>BHAṬṬIK.</ls> ebend.
 <div n="v">— Vgl. {#aBipatti#} .
-
-<div n="p">— {#samaBi#} 
-<div n="1"> 1) {%kommen, gelangen zu, in%}: {#tatrEva vasatAM tezAM prAvfwsamaBipadyata#} 
-<ls>MBH. 3, 12539.</ls> {#putrajanma parIpsanvE pfTivImanvasaMcarat . ahicCattraM ca vizayaM droRaH samaBipadyata#} 
-<ls>1, 5515.</ls> {#puruzaH kESca karmaBiH . svargaM samaBipadyeta#} 
-<ls>13, 6683.</ls> {#dehAddehasahasrARi taTA samaBipadyate#} 
-<ls>12, 11263.</ls> 
-<div n="1">— 2) {%antworten%}: {#kasya karmedamiti te paryapfcCansamAgatAH . yuvanASvo mametyeva satyaM samaBipadyata#} 
-<ls>MBH. 3, 10441.</ls>
-
-<div n="p">— {#ava#} 
-<div n="1"> 1) {%herab —, hinab —, ausfallen%}: {#mA sva1^\rava^ pAdi di\vaspari^#} (könnte auch u. {#paryava#} gestellt werden) 
-<ls>ṚV. 1, 105, 3.</ls> {#trADva^M ka\rtAda^va\pada^H#} 
-<ls n="ṚV.">2, 29, 6.</ls> <ls n="ṚV.">7, 104, 17.</ls> <ls n="ṚV.">8, 4, 17.</ls> {#ka\rtamava^ padA\tyapra^BuH#} 
-<ls n="ṚV.">9, 73, 9.</ls> {#na koSo 'va^ padyate#} 
-<ls n="ṚV.">6, 54, 3.</ls> <ls n="ṚV.">4, 13, 5.</ls> {#keSaH#} 
-<ls>AV. 6, 136, 3.</ls> {#garBAH#} 
-<ls>?5, 17, 7. CHĀND. UP. 2, 9, 7. - AV. 8, 1, 4. TBR. 2, 1, 1, 1. ŚAT. BR. 8, 5, 3, 7. PAÑCAV. BR. 14, 1, 12.</ls> {#keSakIwAvapanna#} (vgl. {#keSakIwAvapatita#} u. 1. {#pat#} mit {#ava#}) {%worauf eine Haarlaus gefallen ist%} 
-<ls>M. 4, 207. 11, 159.</ls> 
-<ls>MBH. 9, 2425.</ls> 
-<ls>MĀRK. P. 32, 25. 34, 55. 50, 44.</ls> {#avalIQAvapanna#} {%was beleckt worden ist und worauf Etwas gefallen ist%} 
-<ls>34, 56.</ls> {%entfallen%}: {#ava^ padyantAmezA\mAyu^DAni#} 
-<ls>AV. 8, 8, 20.</ls> 
-<div n="1">— 2) {%einer Sache%} (abl.) {%verlustig gehen%}: {#mAva^ patsi lo\kAt#} 
-<ls>AV. 6, 120, 2.</ls> {#rAzwrAt#} 
-<ls>AIT. BR. 8, 23.</ls> {#SriyAH#} 
-<ls>PAÑCAV. BR. 12, 13, 11.</ls> 
-<div n="1">— 3) {%zu Fall kommen, verunglücken%}: {#necCandasAM kfcCrAdavapadyE#} 
-<ls>AIT. BR. 4, 4.</ls> 
-<div n="1">— 4) {%stürzen%}: {#itTaM vAva naH sarvAnusarA avapatsyanti#} 
-<ls>KĀṬH. 29, 1.</ls> 
+<div n="p">— {#samaBi#}
+<div n="1"> 1) {%kommen, gelangen zu, in%}: {#tatrEva vasatAM tezAM prAvfwsamaBipadyata#}
+<ls>MBH. 3,12539.</ls> {#putrajanma parIpsanvE pfTivImanvasaMcarat . ahicCattraM ca vizayaM droRaH samaBipadyata#}
+<ls n="MBH.">1,5515.</ls> {#puruzaH kESca karmaBiH . svargaM samaBipadyeta#}
+<ls n="MBH.">13,6683.</ls> {#dehAddehasahasrARi taTA samaBipadyate#}
+<ls n="MBH.">12,11263.</ls>
+<div n="1">— 2) {%antworten%}: {#kasya karmedamiti te paryapfcCansamAgatAH . yuvanASvo mametyeva satyaM samaBipadyata#}
+<ls>MBH. 3,10441.</ls>
+<div n="p">— {#ava#}
+<div n="1"> 1) {%herab —, hinab —, ausfallen%}: {#mA sva1^\rava^ pAdi di\vaspari^#} (könnte auch u. {#paryava#} gestellt werden)
+<ls>ṚV. 1,105,3.</ls> {#trADva^M ka\rtAda^va\pada^H#}
+<ls n="ṚV.">2,29,6.</ls> <ls n="ṚV.">7,104,17.</ls> <ls n="ṚV.">8,4,17.</ls> {#ka\rtamava^ padA\tyapra^BuH#}
+<ls n="ṚV.">9,73,9.</ls> {#na koSo 'va^ padyate#}
+<ls n="ṚV.">6,54,3.</ls> <ls n="ṚV.">4,13,5.</ls> {#keSaH#}
+<ls>AV. 6,136,3.</ls> {#garBAH#}
+<ls n="AV.">5,17,7.</ls> <ls>CHĀND. UP. 2,9,7.</ls> — <ls>AV. 8,1,4.</ls> <ls>TBR. 2,1,1,1.</ls> <ls>ŚAT. BR. 8,5,3,7.</ls> <ls>PAÑCAV. BR. 14,1,12.</ls> {#keSakIwAvapanna#} (vgl. {#keSakIwAvapatita#} u. 1. {#pat#} mit {#ava#}) {%worauf eine Haarlaus gefallen ist%}
+<ls>M. 4,207.</ls> <ls n="M.">11,159.</ls>
+<ls>MBH. 9,2425.</ls>
+<ls>MĀRK. P. 32,25. 34,55. 50,44.</ls> {#avalIQAvapanna#} {%was beleckt worden ist und worauf Etwas gefallen ist%}
+<ls n="MĀRK. P.">34,56.</ls> {%entfallen%}: {#ava^ padyantAmezA\mAyu^DAni#}
+<ls>AV. 8,8,20.</ls>
+<div n="1">— 2) {%einer Sache%} (abl.) {%verlustig gehen%}: {#mAva^ patsi lo\kAt#}
+<ls>AV. 6,120,2.</ls> {#rAzwrAt#}
+<ls>AIT. BR. 8,23.</ls> {#SriyAH#}
+<ls>PAÑCAV. BR. 12,13,11.</ls>
+<div n="1">— 3) {%zu Fall kommen, verunglücken%}: {#necCandasAM kfcCrAdavapadyE#}
+<ls>AIT. BR. 4,4.</ls>
+<div n="1">— 4) {%stürzen%}: {#itTaM vAva naH sarvAnusarA avapatsyanti#}
+<ls>KĀṬH. 29,1.</ls>
 <div n="v">— Vgl. {#avapAda/#} (
-<ls>TBR. 1, 2, 4, 2. 5, 12, 1</ls>), {#svayamavapanna#} . — caus. {%herunter —, hinabfallen machen%} 
-<ls>AV. 8, 6, 16.</ls> {#a\nDA tamA\Msyava^ pAdayEnAn#} 
-<ls>9, 2, 20.</ls> <ls>SUŚR. 1, 60, 2</ls>, wo {#avapAdya tu#} zu trennen ist.
-
-<div n="p">— {#vyava#} {%auseinander und herabfallen%} 
-<ls>ŚAT. BR. 3, 5, 3, 25. 6, 1, 25.</ls>
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {%herankommen, nahen%}: {#eza rAvaRirApAdi vAnarARAM BayaMkaraH#} 
-<ls>BHAṬṬ. 15, 89.</ls> {#ahirivAKuvilaM duratikramaH kAlaH karAlaraBasa Apadyata#} 
-<ls>BHĀG. P. 5, 8, 25.</ls> 
-<div n="1">— 2) {%eintreten in, betreten, gelangen zu%}: {#nAvam#} 
-<ls>ŚAT. BR. 1, 8, 1, 4. 5.</ls> {#lokam#} 
-<ls>14, 9, 1, 2.</ls> {#panTAnam#} 
-<ls>LĀṬY. 1, 1, 23.</ls> {#rAvaRasya purIM laNkAmApedatuH#} 
-<ls>R. 6, 16, 21.</ls> {#vaktramApadya mArutaH#} 
-<ls>ŚIKṢĀ 11</ls> in <ls>Ind. St. 4, 107. 351.</ls> 
-<div n="1">— 3) {%hineingerathen in, in eine Stimmung, eine Lage, ein Verhältniss, einen Zustand gerathen%}: {#agnimApatsyati#} 
-<ls>AIT. BR. 4, 7.</ls> {#tasya matsyaH pARI Apede#} 
-<ls>ŚAT. BR. 1, 8, 1, 1.</ls> {#vyAttam#} 
-<ls>6, 4, 18.</ls> {#ApannaM stfRannirasyet#} {%das%} (in die <is>Vedi</is>) {%hineingerathene%} 
-<ls>KĀTY. ŚR. 2, 6, 41.</ls> {#yasyAgnihotraM dohyamAnamameDyamApadyeta#} 
-<ls>ŚAT. BR. 12, 4, 2, 2.</ls> 
-<ls>AIT. BR. 7, 5.</ls> {#yadatra kiMcidApannaM Bavati#} 
-<ls>ŚAT. BR. 1, 1, 2, 15.</ls> {#darSanapaTam#} 
-<ls>Spr. 1202.</ls> {#dOritam#} 
-<ls>ŚAT. BR. 9, 5, 2, 1.</ls> <ls>AV. 8, 8, 18.</ls>
+<ls>TBR. 1,2,4,2. 5,12,1</ls>), {#svayamavapanna#} . — caus. {%herunter —, hinabfallen machen%}
+<ls>AV. 8,6,16.</ls> {#a\nDA tamA\Msyava^ pAdayEnAn#}
+<ls n="AV.">9,2,20.</ls> <ls>SUŚR. 1,60,2</ls>, wo {#avapAdya tu#} zu trennen ist.
+<div n="p">— {#vyava#} {%auseinander und herabfallen%}
+<ls>ŚAT. BR. 3,5,3,25. 6,1,25.</ls>
+<div n="p">— {#A#}
+<div n="1"> 1) {%herankommen, nahen%}: {#eza rAvaRirApAdi vAnarARAM BayaMkaraH#}
+<ls>BHAṬṬ. 15,89.</ls> {#ahirivAKuvilaM duratikramaH kAlaH karAlaraBasa Apadyata#}
+<ls>BHĀG. P. 5,8,25.</ls>
+<div n="1">— 2) {%eintreten in, betreten, gelangen zu%}: {#nAvam#}
+<ls>ŚAT. BR. 1,8,1,4. 5.</ls> {#lokam#}
+<ls n="ŚAT. BR.">14,9,1,2.</ls> {#panTAnam#}
+<ls>LĀṬY. 1,1,23.</ls> {#rAvaRasya purIM laNkAmApedatuH#}
+<ls>R. 6,16,21.</ls> {#vaktramApadya mArutaH#}
+<ls>ŚIKṢĀ 11</ls> in <ls>Ind. St. 4,107. 351.</ls>
+<div n="1">— 3) {%hineingerathen in, in eine Stimmung, eine Lage, ein Verhältniss, einen Zustand gerathen%}: {#agnimApatsyati#}
+<ls>AIT. BR. 4,7.</ls> {#tasya matsyaH pARI Apede#}
+<ls>ŚAT. BR. 1,8,1,1.</ls> {#vyAttam#}
+<ls n="ŚAT. BR.">6,4,18.</ls> {#ApannaM stfRannirasyet#} {%das%} (in die <is>Vedi</is>) {%hineingerathene%}
+<ls>KĀTY. ŚR. 2,6,41.</ls> {#yasyAgnihotraM dohyamAnamameDyamApadyeta#}
+<ls>ŚAT. BR. 12,4,2,2.</ls>
+<ls>AIT. BR. 7,5.</ls> {#yadatra kiMcidApannaM Bavati#}
+<ls>ŚAT. BR. 1,1,2,15.</ls> {#darSanapaTam#}
+<ls>Spr. 1202.</ls> {#dOritam#}
+<ls>ŚAT. BR. 9,5,2,1.</ls> <ls>AV. 8,8,18.</ls>
 [Page4-0427]
-{#para^mA\padya\ yadvaya^H#} 
-<ls>11, 1, 30.</ls> <ls>MBH. 1, 6142.</ls> {#nizWAm#} 
-<ls>5, 99.</ls> {#paYcatvam#} 
-<ls>1, 5305.</ls> <ls>DAŚ. 1, 30.</ls> <ls>R. 2, 67, 4.</ls> {#kazwAM daSAm#} 
-<ls>Spr. 791.</ls> {#jIvitAtyayam#} 
-<ls>M. 10, 104.</ls> {#vaSamApadyate me#} 
-<ls>KAṬHOP. 2, 6.</ls> {#anarhavaSamApannAm#} 
-<ls>MBH. 1, 6161.</ls> 
-<ls>R. 3, 51, 4.</ls> 
-<ls>VET.</ls> in <ls>LA. 22, 17.</ls> {#mA mohamApadyaTAH#} 
-<ls>PRAŚNOP. 2, 3.</ls> {#udvegamApede#} 
-<ls>R. GORR. 2, 15, 6.</ls> {#cintAmApedire#} 
-<ls>HARIV. 8830.</ls> 
-<ls>R. 2, 55, 13.</ls> {#cintApannA#} 
-<ls>VET.</ls> in <ls>LA. 24, 11. 35, 7.</ls> {#arTasaMSayamApannaH#} 
-<ls>MBH. 5, 7080.</ls> 
-<ls>R. 3, 51, 13.</ls> {#saMSayApannamAnasa#} 
-<ls>AK. 3, 1, 5.</ls> {#paraM vismayam#} 
-<ls>MBH. 3, 2856.</ls> {#viSvAsam#} 
-<ls>PAÑCAT. 51, 17.</ls> {#parAM nirvftimApadyate#} 
-<ls>PRAB. 89, 4.</ls> {#prakftim#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 191, 7.</ls> {#naralokatAm#} 
-<ls>BHĀG. P. 9, 14, 17.</ls> {#SabdatAm#} 
-<ls>ŚIKṢĀ</ls> beim Schol. zu <ls>JAIM. 1, 21.</ls> {#rasatAm#} 
-<ls>SĀH. D. 31, 15.</ls> {#dOtyam#} 
-<ls>PRAB. 33, 8.</ls> {#Slokatvam#} 
-<ls>RAGH. 14, 70.</ls> 
-<ls>Spr. 237.</ls> 
-<ls>BHĀṢĀP. 12.</ls> {#vikArApanna#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 244.</ls> {#pUrveREkavAkyatApannamidam#} 
-<ls>KULL.</ls> zu <ls>M. 2, 55.</ls> {%übergehen in, sich verwandeln in%}: {#visarjanIyo rePam#} 
-<ls>ŚĀṄKH. ŚR. 1, 2, 9.</ls> {#Apanna = prApta#} 
-<ls>H. an. 3, 358.</ls> 
-<ls>MED. n. 38.</ls> kann mit einem im acc. gedachten Begriffe componirt werden 
-<ls>P. 2, 1, 24.</ls> {#suKamApannaH#} und {#suKApannaH#} 
-<ls>Sch.</ls> 
-<div n="1">— 4) {%in's Unglück gerathen%}: {#arTaDarmO parityajya yaH kAmamanuvartate . evamApadyate kzipraM rAjA daSaraTo yaTA ..#} 
-<ls>R. 2, 53, 13.</ls> {#Apanna#} {%in's Unglück gerathen, unglücklich%} 
-<ls>AK. 3, 1, 42.</ls> 
-<ls>H. 478.</ls> 
-<ls>H. an. 3, 358.</ls> 
-<ls>MED. n. 38.</ls> <ls>MBH. 3, 14948. 5, 6005.</ls> <ls>ŚĀK. 49.</ls> <ls>KATHĀS. 27, 35.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 196, 2.</ls> 
-<div n="1">— 5) {%zu Etwas kommen, erlangen, erhalten, in den Besitz von Etwas gelangen%}: {#Apanna#} in act. u. pass. Bedeutung: {#evaM kOSikagotram - pravarAntaramApannam#} 
-<ls>BHĀG. P. 9, 16, 37.</ls> {#jIvikApanna = ApannajIvika#} 
-<ls>P. 2, 2, 4,</ls> 
-<ls>Sch.</ls> Nach <ls>P.</ls> ist in beiden Fällen das subst. als acc. aufzufassen; vgl. 
-<ls>AK. 3, 6, 8, 43.</ls> {#Apannasattva#} und {#prApta#} unter {#Ap#} mit {#pra#} . 
-<div n="1">— 6) {%widerfahren%}: {#tasmAdidamApadi#} (vgl. 
-<ls>WEBER</ls> in <ls>Monatsber. 1859, S. 63</ls>) <ls>ŚAT. BR. 1, 7, 3, 19.</ls> {#jiGAMsornUnamApAdi DvaMso 'yaM niSAcarAt#} 
-<ls>BHAṬṬ. 6, 31.</ls> {%geschehen, zu Stande kommen%}: {#tezAM samAptirApannA tava rAma nivartane#} 
-<ls>R. GORR. 2, 43, 31.</ls> {%zutreffen%}: {#ekarcasTAnezvanApadyamAnAni tfcezu kuryAt#} 
-<ls>LĀṬY. 6, 4, 5.</ls> {#evamApadyate#} so v. a. {%so ist es, so verhält es sich%} 
-<ls>MĀLAV. 14, 23.</ls> {%sich finden%}: {#nahyetAsvanyatsAmApadyate#} 
-<ls>LĀṬY. 10, 2, 2.</ls> — {#Apanna#} 
-<ls>PAÑCAT. I, 295</ls> fehlerhaft für {#Ayatta#} und 
-<ls>BHARTṚ. 3, 49</ls> für {#Asanna#} . Vgl. {#Apatti, Apad, ApAda#} (?) — caus. 
-<div n="1"> 1) {%betreten machen, bringen auf, in, zu%}: {#panTAnam#} 
-<ls>ŚAT. BR. 11, 1, 5, 6. 14, 7, 3, 13.</ls> {#vyAtte#} 
-<ls>AV. 10, 5, 42.</ls> 
-<div n="1">— 2) {%Jmd%} oder {%Etwas%} (acc.) {%in eine Lage, einen Zustand%} (acc.) {%bringen%}: {#kfcCramApAditA vayam#} 
-<ls>MBH. 1, 1832.</ls> {#mftyumApAdito rAjA tvayA#} 
-<ls>R. 2, 73, 5.</ls> {#(tapaH) ApAdyate na vyayamantarAyEH#} 
-<ls>RAGH. 5, 5.</ls> 
-<div n="1">— 3) {%in's Unglück bringen, zu Grunde richten%}: {#balAdaparADinaM mAmApAdayasi#} 
-<ls>VIKR. 33, 2.</ls> {#abadDvA sAgare setum - SakyApAdayituM laNkA sendrErnApi sureSvarEH#} 
-<ls>R. 5, 92, 6.</ls> 
-<div n="1">— 4) {%herbeiführen, herbeischaffen, verschaffen, bringen, hervorbringen, veranlassen, verursachen%}: {#yo nastadrUpamApAdayetpunaH#} 
-<ls>MBH. 1, 7873.</ls> {#tanmayApAditaM hyagre yanmAM prArTayate BavAn#} 
-<ls>BHĀG. P. 3, 9, 29. 4, 22, 42.</ls> {#mamApyApAditaM Bayam#} 
-<ls>R. 2, 74, 5.</ls> {#pittasaMcayam#} 
-<ls>SUŚR. 1, 20, 8.</ls> {#mArdavam#} 
-<ls>155, 4. 2, 191, 13. 318, 14.</ls> {#stanaBarapulakodBedam#} 
-<ls>Spr. 918.</ls> 
-<ls>RAGH. 2, 12.</ls> 
-<ls>ŚĀNTIŚ. 3, 19.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 121.</ls> {#dOrBAgyamApAdayate 'BimAnaH#} 
-<ls>VARĀH. BṚH. S. 74, 7.</ls> 
-<div n="1">— 5) {%für sich herbeischaffen, erlangen, in den Besitz gelangen von%} (acc.): {#arTErApAditErgurvyA hiMsayetaScetaSca#} 
-<ls>BHĀG. P. 3, 30, 11.</ls> {#prAktanakarmopacIyamAnapuRyaparaMparApAditamahAnuBAva#} (so ist zu lesen) 
-<ls>Schol.</ls> in der Einl. zu <ls>KAURAP.</ls> 
-<div n="1">— 6) {%machen zu, verwandeln in%}: {#pfTvI yena - vibuDADAreyamApAditA#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 6, 503,</ls> <ls>Śl. 9.</ls> {#lokamavyAkftAvasTaM kAraRarUpamApAdya#}
+{#para^mA\padya\ yadvaya^H#}
+<ls n="AV.">11,1,30.</ls> <ls>MBH. 1,6142.</ls> {#nizWAm#}
+<ls n="MBH.">5,99.</ls> {#paYcatvam#}
+<ls n="MBH.">1,5305.</ls> <ls>DAŚ. 1,30.</ls> <ls>R. 2,67,4.</ls> {#kazwAM daSAm#}
+<ls>Spr. 791.</ls> {#jIvitAtyayam#}
+<ls>M. 10,104.</ls> {#vaSamApadyate me#}
+<ls>KAṬHOP. 2,6.</ls> {#anarhavaSamApannAm#}
+<ls>MBH. 1,6161.</ls>
+<ls>R. 3,51,4.</ls>
+<ls>VET. in LA. 22,17.</ls> {#mA mohamApadyaTAH#}
+<ls>PRAŚNOP. 2,3.</ls> {#udvegamApede#}
+<ls>R. GORR. 2,15,6.</ls> {#cintAmApedire#}
+<ls>HARIV. 8830.</ls>
+<ls>R. 2,55,13.</ls> {#cintApannA#}
+<ls>VET. in LA. 24,11. 35,7.</ls> {#arTasaMSayamApannaH#}
+<ls>MBH. 5,7080.</ls>
+<ls>R. 3,51,13.</ls> {#saMSayApannamAnasa#}
+<ls>AK. 3,1,5.</ls> {#paraM vismayam#}
+<ls>MBH. 3,2856.</ls> {#viSvAsam#}
+<ls>PAÑCAT. 51,17.</ls> {#parAM nirvftimApadyate#}
+<ls>PRAB. 89,4.</ls> {#prakftim#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 191,7.</ls> {#naralokatAm#}
+<ls>BHĀG. P. 9,14,17.</ls> {#SabdatAm#}
+<ls>ŚIKṢĀ</ls> beim Schol. zu <ls>JAIM. 1,21.</ls> {#rasatAm#}
+<ls>SĀH. D. 31,15.</ls> {#dOtyam#}
+<ls>PRAB. 33,8.</ls> {#Slokatvam#}
+<ls>RAGH. 14,70.</ls>
+<ls>Spr. 237.</ls>
+<ls>BHĀṢĀP. 12.</ls> {#vikArApanna#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 244.</ls> {#pUrveREkavAkyatApannamidam#}
+<ls>KULL.</ls> zu <ls>M. 2,55.</ls> {%übergehen in, sich verwandeln in%}: {#visarjanIyo rePam#}
+<ls>ŚĀṄKH. ŚR. 1,2,9.</ls> {#Apanna = prApta#}
+<ls>H. an. 3,358.</ls>
+<ls>MED. n. 38.</ls> kann mit einem im acc. gedachten Begriffe componirt werden
+<ls>P. 2,1,24.</ls> {#suKamApannaH#} und {#suKApannaH#}
+<ls>Sch.</ls>
+<div n="1">— 4) {%in's Unglück gerathen%}: {#arTaDarmO parityajya yaH kAmamanuvartate . evamApadyate kzipraM rAjA daSaraTo yaTA ..#}
+<ls>R. 2,53,13.</ls> {#Apanna#} {%in's Unglück gerathen, unglücklich%}
+<ls>AK. 3,1,42.</ls>
+<ls>H. 478.</ls>
+<ls>H. an. 3,358.</ls>
+<ls>MED. n. 38.</ls> <ls>MBH. 3,14948.</ls> <ls n="MBH.">5,6005.</ls> <ls>ŚĀK. 49.</ls> <ls>KATHĀS. 27,35.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 196,2.</ls>
+<div n="1">— 5) {%zu Etwas kommen, erlangen, erhalten, in den Besitz von Etwas gelangen%}: {#Apanna#} in act. u. pass. Bedeutung: {#evaM kOSikagotram — pravarAntaramApannam#}
+<ls>BHĀG. P. 9,16,37.</ls> {#jIvikApanna = ApannajIvika#}
+<ls>P. 2,2,4</ls>, <ls>Sch.</ls>
+Nach <ls>P.</ls> ist in beiden Fällen das subst. als acc. aufzufassen; vgl.
+<ls>AK. 3,6,8,43.</ls> {#Apannasattva#} und {#prApta#} unter {#Ap#} mit {#pra#} .
+<div n="1">— 6) {%widerfahren%}: {#tasmAdidamApadi#} (vgl.
+<ls>WEBER</ls> in <ls>Monatsber. 1859, S. 63</ls>) <ls>ŚAT. BR. 1,7,3,19.</ls> {#jiGAMsornUnamApAdi DvaMso 'yaM niSAcarAt#}
+<ls>BHAṬṬ. 6,31.</ls> {%geschehen, zu Stande kommen%}: {#tezAM samAptirApannA tava rAma nivartane#}
+<ls>R. GORR. 2,43,31.</ls> {%zutreffen%}: {#ekarcasTAnezvanApadyamAnAni tfcezu kuryAt#}
+<ls>LĀṬY. 6,4,5.</ls> {#evamApadyate#} so v. a. {%so ist es, so verhält es sich%}
+<ls>MĀLAV. 14,23.</ls> {%sich finden%}: {#nahyetAsvanyatsAmApadyate#}
+<ls>LĀṬY. 10,2,2.</ls> — {#Apanna#}
+<ls>PAÑCAT. I,295</ls> fehlerhaft für {#Ayatta#} und
+<ls>BHARTṚ. 3,49</ls> für {#Asanna#} . Vgl. {#Apatti, Apad, ApAda#} (?) — caus.
+<div n="1"> 1) {%betreten machen, bringen auf, in, zu%}: {#panTAnam#}
+<ls>ŚAT. BR. 11,1,5,6.</ls> <ls n="ŚAT. BR.">14,7,3,13.</ls> {#vyAtte#}
+<ls>AV. 10,5,42.</ls>
+<div n="1">— 2) {%Jmd%} oder {%Etwas%} (acc.) {%in eine Lage, einen Zustand%} (acc.) {%bringen%}: {#kfcCramApAditA vayam#}
+<ls>MBH. 1,1832.</ls> {#mftyumApAdito rAjA tvayA#}
+<ls>R. 2,73,5.</ls> {#(tapaH) ApAdyate na vyayamantarAyEH#}
+<ls>RAGH. 5,5.</ls>
+<div n="1">— 3) {%in's Unglück bringen, zu Grunde richten%}: {#balAdaparADinaM mAmApAdayasi#}
+<ls>VIKR. 33,2.</ls> {#abadDvA sAgare setum — SakyApAdayituM laNkA sendrErnApi sureSvarEH#}
+<ls>R. 5,92,6.</ls>
+<div n="1">— 4) {%herbeiführen, herbeischaffen, verschaffen, bringen, hervorbringen, veranlassen, verursachen%}: {#yo nastadrUpamApAdayetpunaH#}
+<ls>MBH. 1,7873.</ls> {#tanmayApAditaM hyagre yanmAM prArTayate BavAn#}
+<ls>BHĀG. P. 3,9,29.</ls> <ls n="BHĀG. P.">4,22,42.</ls> {#mamApyApAditaM Bayam#}
+<ls>R. 2,74,5.</ls> {#pittasaMcayam#}
+<ls>SUŚR. 1,20,8.</ls> {#mArdavam#}
+<ls n="SUŚR.">155,4. 2,191,13. 318,14.</ls> {#stanaBarapulakodBedam#}
+<ls>Spr. 918.</ls>
+<ls>RAGH. 2,12.</ls>
+<ls>ŚĀNTIŚ. 3,19.</ls>
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 121.</ls> {#dOrBAgyamApAdayate 'BimAnaH#}
+<ls>VARĀH. BṚH. S. 74,7.</ls>
+<div n="1">— 5) {%für sich herbeischaffen, erlangen, in den Besitz gelangen von%} (acc.): {#arTErApAditErgurvyA hiMsayetaScetaSca#}
+<ls>BHĀG. P. 3,30,11.</ls> {#prAktanakarmopacIyamAnapuRyaparaMparApAditamahAnuBAva#} (so ist zu lesen)
+<ls>Schol.</ls> in der Einl. zu <ls>KAURAP.</ls>
+<div n="1">— 6) {%machen zu, verwandeln in%}: {#pfTvI yena — vibuDADAreyamApAditA#} Inschr. in
+<ls>Journ. of the Am. Or. S. 6,503, Śl. 9.</ls> {#lokamavyAkftAvasTaM kAraRarUpamApAdya#}
 [Page4-0428]
-
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 250.</ls> {#ekAmapi kAkiRIM kArzApaRalakzamApAdayema#} 
-<ls>DAŚAK. 183, 2.</ls> 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 250.</ls> {#ekAmapi kAkiRIM kArzApaRalakzamApAdayema#}
+<ls>DAŚAK. 183,2.</ls>
 <div n="v">— Vgl. {#ApAdana#} .
-
-<div n="p">— {#aByA#} {%sich hineinbegeben in, gerathen in%}: {#aTEnamAtAByAM sarvARi sTAnAnyaByApAdaM stOti#} {%durch alle Standörter hindurch%} 
-<ls>NIR. 7, 26.</ls> {#na saMSayamaByApadyeta#} 
-<ls>ĀŚV. GṚHY. 3, 9.</ls>
-
-<div n="p">— {#pratyA#} {%zurückkehren, wiederkehren%} 
-<ls>MBH. 12, 10731.</ls> {#pratyApannendriyasmfti#} 
-<ls>BHĀG. P. 8, 11, 48.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 200, 19.</ls> im <is>Prākrit</is>: {#paccAvaRRajIvidaM#} 
-<ls>ŚĀK. CH. 55, 8.</ls> 
+<div n="p">— {#aByA#} {%sich hineinbegeben in, gerathen in%}: {#aTEnamAtAByAM sarvARi sTAnAnyaByApAdaM stOti#} {%durch alle Standörter hindurch%}
+<ls>NIR. 7,26.</ls> {#na saMSayamaByApadyeta#}
+<ls>ĀŚV. GṚHY. 3,9.</ls>
+<div n="p">— {#pratyA#} {%zurückkehren, wiederkehren%}
+<ls>MBH. 12,10731.</ls> {#pratyApannendriyasmfti#}
+<ls>BHĀG. P. 8,11,48.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 200,19.</ls> im <is>Prākrit</is>: {#paccAvaRRajIvidaM#}
+<ls>ŚĀK. CH. 55,8.</ls>
 <div n="v">— Vgl. {#pratyApatti#} .
-
-<div n="p">— {#vyA#} {%verderben, zu Grunde gehen, umkommen%}: {#nahi yatra mahAbAhurvAsudevo vyavasTitaH . kiMcidvyApadyate tatra#} 
-<ls>MBH. 7, 3008.</ls> {#vyApanna#} {%in Unordnung gerathen, verdorben, missrathen%}: {#ftavaH, ozaDayaH#} 
-<ls>SUŚR. 1, 21, 9.</ls> Wasser 
-<ls>170, 20.</ls> {#visarjanIya#} {%alterirt, verändert%} 
-<ls>ṚV. PRĀT. 4, 11.</ls> <ls n="ṚV. PRĀT.">5, 16.</ls> {#yatra visarjanIyo vyApadyate#} (Gegens. {#SrUyate#}) {%wo er verschwindet, einem andern Laute Platz macht%} 
-<ls>Schol.</ls> zu <ls>ṚV. PRĀT. 4, 11.</ls> {#avyApanna#} {%nicht umgekommen, am Leben seiend%} 
-<ls>MEGH. 10. 99.</ls> 
-<div n="v">— Vgl. {#vyApatti, vyApad#} . — caus. {%verderben, zu Grunde richten%}: {#SItozRavAtavarzARi Kalu viparItAnyozaDIrvyApAdayantyapaSca#} 
-<ls>SUŚR. 1, 21, 11.</ls> {#vraRam#} ({%verschlimmern%}) 
-<ls>70, 12.</ls> {#aDarmottaratA nAma kftsnaM vyApAdayejjagat#} 
-<ls>MBH. 1, 1607.</ls> {%vernichten%}: {#boDavyApAditAtmatamas#} 
-<ls>BHĀG. P. 8, 17, 9.</ls> {%umbringen, tödten%} 
-<ls>MṚCCH. 34, 16.</ls> 
-<ls>ŚĀK. 6, 11.</ls> 
-<ls>KATHĀS. 11, 65. 42. 48.</ls> 
-<ls>RĀJA-TAR. 4, 686.</ls> 
-<ls>PAÑCAT. 22, 15. 34, 16. 47, 1. 48, 17. 53, 19. 64, 1. 68, 15. 69, 21.</ls> 
-<ls>HIT. 20, 17.</ls> {#anAhAreRAtmAnaM BavaddvAri vyApAdayAmi#} 
-<ls>?24, 12. 34, 19. 111, 21. VET. in LA. 22, 12. 23, 1. 25, 14. 33, 9. 37, 9.</ls> 
+<div n="p">— {#vyA#} {%verderben, zu Grunde gehen, umkommen%}: {#nahi yatra mahAbAhurvAsudevo vyavasTitaH . kiMcidvyApadyate tatra#}
+<ls>MBH. 7,3008.</ls> {#vyApanna#} {%in Unordnung gerathen, verdorben, missrathen%}: {#ftavaH, ozaDayaH#}
+<ls>SUŚR. 1,21,9.</ls> Wasser
+<ls n="SUŚR.">170,20.</ls> {#visarjanIya#} {%alterirt, verändert%}
+<ls>ṚV. PRĀT. 4,11.</ls> <ls n="ṚV. PRĀT.">5,16.</ls> {#yatra visarjanIyo vyApadyate#} (Gegens. {#SrUyate#}) {%wo er verschwindet, einem andern Laute Platz macht%}
+<ls>Schol.</ls> zu <ls>ṚV. PRĀT. 4,11.</ls> {#avyApanna#} {%nicht umgekommen, am Leben seiend%}
+<ls>MEGH. 10. 99.</ls>
+<div n="v">— Vgl. {#vyApatti, vyApad#} . — caus. {%verderben, zu Grunde richten%}: {#SItozRavAtavarzARi Kalu viparItAnyozaDIrvyApAdayantyapaSca#}
+<ls>SUŚR. 1,21,11.</ls> {#vraRam#} ({%verschlimmern%})
+<ls n="SUŚR.">70,12.</ls> {#aDarmottaratA nAma kftsnaM vyApAdayejjagat#}
+<ls>MBH. 1,1607.</ls> {%vernichten%}: {#boDavyApAditAtmatamas#}
+<ls>BHĀG. P. 8,17,9.</ls> {%umbringen, tödten%}
+<ls>MṚCCH. 34,16.</ls>
+<ls>ŚĀK. 6,11.</ls>
+<ls>KATHĀS. 11,65.</ls> <ls n="KATHĀS. 11,">42.</ls> <ls n="KATHĀS. 11,">48.</ls>
+<ls>RĀJA-TAR. 4,686.</ls>
+<ls>PAÑCAT. 22,15. 34,16. 47,1. 48,17. 53,19. 64,1. 68,15. 69,21.</ls>
+<ls>HIT. 20,17.</ls> {#anAhAreRAtmAnaM BavaddvAri vyApAdayAmi#}
+<ls n="HIT.">24,12. 34,19. 111,21.</ls> <ls>VET. in LA. 22,12. 23,1. 25,14. 33,9. 37,9.</ls>
 <div n="v">— Vgl. {#vyApAdana#} .
-
-<div n="p">— {#samA#} 
-<div n="1"> 1) {%anfallen%}: {#yaH kaliNgAnsamApede pAYcAlyo yudDadurmadaH#} 
-<ls>MBH. 5, 2002.</ls> 
-<div n="1">— 2) {%gerathen in, sich in einen Gemüthszustand, ein Verhältniss, eine Lage begeben%}: {#anyAM yoniM samApanno SArgAlIM vAnarIM taTA#} 
-<ls>MBH. 13, 411.</ls> {#cintAM samApede#} 
-<ls>1, 6747.</ls> {#gatIrdaSa samApannO pravartananivartanEH#} {%sich machen an%} 
-<ls>R. 6, 92, 4.</ls> 
-<div n="1">— 3) {#samApanna = prApta#} {%gekommen, genaht%} 
-<ls>H. an. 4, 199.</ls> 
-<ls>MED. n. 220.</ls> {#samApannavipattikAle (samAsanna?)#} 
-<ls>Spr. 283.</ls> 
-<div n="1">— 4) {#samApanna#} am Ende eines comp. {%versehen mit%}: {#guRa°#} 
-<ls>MBH. 2, 2588.</ls> {#loBamoha°#} 
-<ls>13, 336.</ls> <ls>MĀRK. P. 15, 5.</ls> {#Arti°#} 
-<ls>R. 3, 75, 3</ls> hierher oder zu 2. 
-<div n="1">— 5) {#samApanna = samApta#} {%beendigt%} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="1">— 6) {#samApanna = klizwa#} {%geplagt, gequält%} diess. 
-<div n="1">— 7) {#samApanna = vaDa#} {%Tod%} diess. {%getödtet%} 
-<ls>WILS.</ls> 
+<div n="p">— {#samA#}
+<div n="1"> 1) {%anfallen%}: {#yaH kaliNgAnsamApede pAYcAlyo yudDadurmadaH#}
+<ls>MBH. 5,2002.</ls>
+<div n="1">— 2) {%gerathen in, sich in einen Gemüthszustand, ein Verhältniss, eine Lage begeben%}: {#anyAM yoniM samApanno SArgAlIM vAnarIM taTA#}
+<ls>MBH. 13,411.</ls> {#cintAM samApede#}
+<ls n="MBH.">1,6747.</ls> {#gatIrdaSa samApannO pravartananivartanEH#} {%sich machen an%}
+<ls>R. 6,92,4.</ls>
+<div n="1">— 3) {#samApanna = prApta#} {%gekommen, genaht%}
+<ls>H. an. 4,199.</ls>
+<ls>MED. n. 220.</ls> {#samApannavipattikAle (samAsanna?)#}
+<ls>Spr. 283.</ls>
+<div n="1">— 4) {#samApanna#} am Ende eines comp. {%versehen mit%}: {#guRa°#}
+<ls>MBH. 2,2588.</ls> {#loBamoha°#}
+<ls n="MBH.">13,336.</ls> <ls>MĀRK. P. 15,5.</ls> {#Arti°#}
+<ls>R. 3,75,3</ls> hierher oder zu 2.
+<div n="1">— 5) {#samApanna = samApta#} {%beendigt%}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="1">— 6) {#samApanna = klizwa#} {%geplagt, gequält%} diess.
+<div n="1">— 7) {#samApanna = vaDa#} {%Tod%} diess. {%getödtet%}
+<ls>WILS.</ls>
 <div n="v">— Vgl. {#samApatti#} .
-
-<div n="p">— {#aBisamA#} {%gerathen in%}: {#cintAmaBisamApede#} 
-<ls>R. 2, 12, 1.</ls>
-
-<div n="p">— {#ud#} {%hervorgehen aus, entstehen, geboren werden%}: {#etasyE vE diSa udapadyanta#} 
-<ls>ŚAT. BR. 1, 7, 3, 20.</ls> {#utpadyamAnasya yo hetustatkArakamapAdAnaM syAt#} 
-<ls>Schol.</ls> zu <ls>P. 1, 4, 30.</ls> {#SarIram - anyadutpadyate#} 
-<ls>M. 12, 16.</ls> {#vAyoH - jyotirutpadyate#} 
-<ls>?1, 77. SĀṂKHYAK. 40. PRAB. 111, 15. VEDĀNTAS. (Allah.) No. 41. Schol. zu KAP. 1, 124.</ls> {#yadatrotpatsyate BUtam#} 
-<ls>R. GORR. 1, 38, 9.</ls> <ls>MBH. 3, 12977.</ls> {#tAdfkSveto gajo BUmO BavAnutpadyatAm#} 
-<ls>KATHĀS. 36, 121.</ls> {#utpatsyati pumAnnIca pativaMSe mamAvyayaH#} 
-<ls>HARIV. 4631.</ls> {#utpadyate gfhe yasya na ca jYAyeta kasya saH . sa gfhe gUQa utpannastasya syAdyasya talpajaH ..#} 
-<ls>M. 9, 170. 147. 203. 1, 98.</ls> 
-<ls>HARIV. 12650.</ls> 
-<ls>VID. 7.</ls> 
-<ls>AK. 3, 4, 14, 88.</ls> {#kukzerAtmajaH - vikukzirudapadyata#} 
-<ls>R. 1, 70, 22. 110, 8.</ls> {#vizRudattABiDAnaSca putrastasyodapadyata#} 
-<ls>KATHĀS. 32, 43.</ls> {#ikzvAkoH putraH - alambuzAyAmutpanno viSAlaH#} 
-<ls>R. 1, 47, 12.</ls> {#vEdehakena tvambazWyAmutpannaH#} 
-<ls>M. 10, 19.</ls> 
-<ls>R. 6, 3, 25.</ls> {#anyotpannA prajA#} 
-<ls>M. 5, 162.</ls> {#satkulotpannA#} 
-<ls>KATHĀS. 4, 33.</ls> {#tadutpannaH kakzIvAn#} 
-<ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls>
+<div n="p">— {#aBisamA#} {%gerathen in%}: {#cintAmaBisamApede#}
+<ls>R. 2,12,1.</ls>
+<div n="p">— {#ud#} {%hervorgehen aus, entstehen, geboren werden%}: {#etasyE vE diSa udapadyanta#}
+<ls>ŚAT. BR. 1,7,3,20.</ls> {#utpadyamAnasya yo hetustatkArakamapAdAnaM syAt#}
+<ls>Schol.</ls> zu <ls>P. 1,4,30.</ls> {#SarIram — anyadutpadyate#}
+<ls>M. 12,16.</ls> {#vAyoH — jyotirutpadyate#}
+<ls n="M.">1,77.</ls> <ls>SĀṂKHYAK. 40.</ls> <ls>PRAB. 111,15.</ls> <ls>VEDĀNTAS. (Allah.) No. 41.</ls> Schol. zu <ls>KAP. 1,124.</ls> {#yadatrotpatsyate BUtam#}
+<ls>R. GORR. 1,38,9.</ls> <ls>MBH. 3,12977.</ls> {#tAdfkSveto gajo BUmO BavAnutpadyatAm#}
+<ls>KATHĀS. 36,121.</ls> {#utpatsyati pumAnnIca pativaMSe mamAvyayaH#}
+<ls>HARIV. 4631.</ls> {#utpadyate gfhe yasya na ca jYAyeta kasya saH . sa gfhe gUQa utpannastasya syAdyasya talpajaH ..#}
+<ls>M. 9,170.</ls> <ls n="M. 9,">147.</ls> <ls n="M. 9,">203.</ls> <ls n="M.">1,98.</ls>
+<ls>HARIV. 12650.</ls>
+<ls>VID. 7.</ls>
+<ls>AK. 3,4,14,88.</ls> {#kukzerAtmajaH — vikukzirudapadyata#}
+<ls>R. 1,70,22.</ls> <ls n="R. 1,">110,8.</ls> {#vizRudattABiDAnaSca putrastasyodapadyata#}
+<ls>KATHĀS. 32,43.</ls> {#ikzvAkoH putraH — alambuzAyAmutpanno viSAlaH#}
+<ls>R. 1,47,12.</ls> {#vEdehakena tvambazWyAmutpannaH#}
+<ls>M. 10,19.</ls>
+<ls>R. 6,3,25.</ls> {#anyotpannA prajA#}
+<ls>M. 5,162.</ls> {#satkulotpannA#}
+<ls>KATHĀS. 4,33.</ls> {#tadutpannaH kakzIvAn#}
+<ls>SĀY.</ls> zu <ls>ṚV. 1,125,1.</ls>
 [Page4-0429]
-{#maNgalavfzaBO gfhotpannO#} 
-<ls>PAÑCAT. 8, 15.</ls> {#udapAdi sasyam#} 
-<ls>P. 3, 1, 60,</ls> 
-<ls>Sch.</ls> {#krItotpanna (anna)#} so v. a. {%fertig%} 
-<ls>ĀŚV. GṚHY. 4, 4.</ls> {#utpanna ukzA#} zur Erkl. von {#jAtokza#} {%ein junger (vor Kurzem zur Welt gekommener) Stier%} 
-<ls>AK. 2, 9, 61.</ls> {#utpanne setO#} {%wenn der Damm entstanden ist, fertig dasteht%} 
-<ls>YĀJÑ. 2, 157.</ls> {#tadutpanne Dane#} {%entstanden%} 64. {#(guRAH) akAraRaguRotpannAH#} 
-<ls>BHĀṢĀP. 93.</ls> {#dikzu prakASastUdapadyata#} 
-<ls>KATHĀS. 35, 121.</ls> {#vyApadudapadyata maRqale#} 
-<ls>RĀJA-TAR. 4, 523.</ls> {#utpannAmApadam#} 
-<ls>Spr. 456.</ls> {#utpadyante cyavante ca yAnyato 'nyAni kAnicit (SastrARi)#} 
-<ls>M. 12, 96.</ls> 
-<ls>R. 1, 5, 3.</ls> {#saMsArotpannaM caritam#} 
-<ls>BHARTṚ. 3, 3.</ls> {#ata eva mama jYAnamutpannamasti#} 
-<ls>ŚUK.</ls> in <ls>LA. 41, 16.</ls> <ls>SĀṂKHYAK. 64.</ls> {#tasya cintayato budDirutpanneyam#} (vgl. am Ende) 
-<ls>R. 1, 8, 2. 2, 73, 17.</ls> 
-<ls>MBH. 5, 959.</ls> {#vAYCA#} 
-<ls>VID. 110.</ls> {#tapaH praBAvotpannadivyacakzus#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 179, 7.</ls> {#yasmAdaRvapi BUtAnAM dvijAnnotpadyate Bayam#} 
-<ls>M. 6, 40.</ls> 
-<ls>PRAB. 7, 12.</ls> {#dEverito nUnamayaM purastAtparo nayo BaratezUdapAdi#} 
-<ls>MBH. 2, 2395.</ls> {#kimarTamanayaM Goramutpadyantamupekzase#} 
-<ls>3, 361.</ls> {#yudDamutpatsyate mahat#} 
-<ls>379.</ls> {#laNkAdAha ivotpannaH#} 
-<ls>VET.</ls> in <ls>LA. 5, 3.</ls> {#parasparaM prItirutpannA#} 
-<ls>24, 9.</ls> <ls>BHĀG. P. 1, 7, 7.</ls> <ls>RĀJA-TAR. 5, 313.</ls> {#utpannapratyaya#} 
-<ls>VID. 134.</ls> 
-<ls>VEDĀNTAS. (Allah.) No. 148.</ls> {#hAsaH punarutpadyamAnaH#} 
-<ls>SĀH. D. 75, 3. 76, 9.</ls> {#utpannAvasara#} {%entstanden%} so v. a. {%sich dargeboten habend%} 
-<ls>MĀLAV. 40, 4.</ls> {#utpannezu kAryezu#} 
-<ls>Spr. 457.</ls> {#nAkftvA pARinA hiMsAM mAMsamutpadyate kvacit#} {%Fleisch entsteht%} so v. a. {%Fleisch wird erhalten, man kommt zu Fleisch%} 
-<ls>M. 5, 48.</ls> {#pratyayA nEvotpadyante#} so v. a. {%es tritt kein Suffix an%} 
-<ls>Schol.</ls> zu <ls>P. 1, 2, 54.</ls> {#DAtoH paraH pratyayasaMjYaka utpadyate#} 
-<ls>Schol.</ls> zu <ls>P. 3, 1, 2.</ls> {#pratyayAntaraM notpadyate#} 
-<ls>Schol.</ls> zu <ls>P. 4, 1, 93. 5, 4, 159.</ls> {#utpanna#} {%auf die Gegenwart gerichtet%} (vgl. u. {#pratyud): sarvatra budDiH kaTitA SrezWA te BaratarzaBa . anAgatA taTotpannAdIrGasUtrA#} (in der Calc. Ausg. {#dIrGasUtrA#} vom vorherg. getrennt) {#vinASinI ..#} 
-<ls>MBH. 12, 4913.</ls> — caus. {%hervorbringen, herstellen, schaffen, erzeugen, verursachen%} 
-<ls>ŚĀṄKH. ŚR. 3, 19, 18. 20, 8.</ls> 
-<ls>GṚHY. 5, 8.</ls> {#sarvaM hi kAraRaM kAryamutpAdayat#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 29.</ls> {#(astram) tapasotpAditaM tena#} 
-<ls>HARIV. 7511.</ls> {#SiMSapAKadirayoH sAramAdAyotpAdya cottamAraRI#} 
-<ls>SUŚR. 2, 73, 15.</ls> {#pArTivocitAni vastrARi sadEvotpAdayati#} (ein Weber) 
-<ls>PAÑCAT. 132, 24.</ls> {#amunotpAdite gfhe#} 
-<ls>BHĀG. P. 4, 20, 6.</ls> {#udakotpAditakardama#} 
-<ls>PAÑCAT. ed. orn. 4, 12.</ls> {#agnIn#} {%anlegen, anzünden%} 
-<ls>MBH. 13, 5091.</ls> {#SikzAm#} so v. a. {%verfassen%} 
-<ls>HARIV. 1049.</ls> 
-<ls>SUŚR. 2, 161, 8.</ls> {#asO gOraBavadutpAdya#} so v. a. {%durch sich selbst%} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 141.</ls> {#(prajApatiH) miTunamutpAdayate#} 
-<ls>PRAŚNOP. 1, 4.</ls> {#saptEte manavaH - sarvamidamutpAdyApuH#} 
-<ls>M. 1, 63.</ls> 
-<ls>SUŚR. 1, 1, 16.</ls> {#kAmAnmAtA pitA cEnaM yadutpAdayato miTaH#} {%erzeugen%} 
-<ls>M. 2, 147. 6, 36. 37. 9, 60.</ls> {#yavIyAn jyezWaBAryAyAM putramutpAdayedyadi#} 
-<ls>120. 144. 146. 166. 178. 10, 6.</ls> <ls>YĀJÑ. 2, 127.</ls> <ls>MBH. 1, 6138.</ls> {#utpAdaya sakfnmahyamapatyam#} 
-<ls>?3, 8634. 13, 3429 (med.). 14, 833. RAGH. 18, 1. BHĀG. P. 1, 16, 2. MĀRK. P. 15, 16.</ls> {%gebären%} 
-<ls>M. 9, 175.</ls> {#krItvA svayaM vApyutpAdya paropakftameva vA - mAMsam#} {%selbst erzeugen, ziehen, gewinnen%} 
-<ls>M. 5, 32.</ls> {#tilAn#} 
-<ls>10, 90.</ls> <ls>MBH. 13, 1673.</ls> {#svAhAram#} {%sich seine Speise herbeischaffen%} 
-<ls>HIT. 30, 3.</ls> {#utpAdya brAhmaRasyAsfk#} {%Blut vergiessen%} 
-<ls>M. 4, 167. 11, 208.</ls> {#AcAryastvasya yAM jAtim - utpAdayati sAvitryA#} 
-<ls>2, 148.</ls> {#notpAdayetsvayaM kAryam#} {%einen Rechtshandel anstiften%} 
-<ls>8, 43.</ls> {#sa tasyotpAdayettuzwim#} 
-<ls>288.</ls> <ls>R. 1, 19, 25. 2, 96, 37.</ls> {#duHKamutpAdayedyaH#} 
-<ls>YĀJÑ. 2, 222.</ls> {#tIvramutpAditaM duHKam#} 
-<ls>R. 2, 78, 11.</ls> {#cintAmutpAdayanti me#} 
-<ls>3, 52, 37.</ls> {#dozam#} {%Schaden stiften%} 
-<ls>MEGH. 70.</ls> 
-<ls>KATHĀS. 14, 36. 32, 97.</ls> {#samatAM vasuDAyAH#} 
-<ls>MBH. 12, 2235.</ls> {#vEPalyam#} 
-<ls>13, 285.</ls> {#viGnam#} 
-<ls>1682.</ls> <ls>ŚĀK. 28, 14.</ls> {#trAsAn#} 
-<ls>HARIV. 1209.</ls> 
-<ls>SUŚR. 1, 155, 3. 6.</ls> 
-<ls>HIT. 17, 17. 18,</ls> <ls>?16.DAŚAK. in BENF. Chr. 184, 15. 16. AMAR. 29. P. 1, 3, 69</ls>, <ls>Sch.</ls>
+{#maNgalavfzaBO gfhotpannO#}
+<ls>PAÑCAT. 8,15.</ls> {#udapAdi sasyam#}
+<ls>P. 3,1,60</ls>, <ls>Sch.</ls>
+{#krItotpanna (anna)#} so v. a. {%fertig%}
+<ls>ĀŚV. GṚHY. 4,4.</ls> {#utpanna ukzA#} zur Erkl. von {#jAtokza#} {%ein junger (vor Kurzem zur Welt gekommener) Stier%}
+<ls>AK. 2,9,61.</ls> {#utpanne setO#} {%wenn der Damm entstanden ist, fertig dasteht%}
+<ls>YĀJÑ. 2,157.</ls> {#tadutpanne Dane#} {%entstanden%} 64. {#(guRAH) akAraRaguRotpannAH#}
+<ls>BHĀṢĀP. 93.</ls> {#dikzu prakASastUdapadyata#}
+<ls>KATHĀS. 35,121.</ls> {#vyApadudapadyata maRqale#}
+<ls>RĀJA-TAR. 4,523.</ls> {#utpannAmApadam#}
+<ls>Spr. 456.</ls> {#utpadyante cyavante ca yAnyato 'nyAni kAnicit (SastrARi)#}
+<ls>M. 12,96.</ls>
+<ls>R. 1,5,3.</ls> {#saMsArotpannaM caritam#}
+<ls>BHARTṚ. 3,3.</ls> {#ata eva mama jYAnamutpannamasti#}
+<ls>ŚUK. in LA. 41,16.</ls> <ls>SĀṂKHYAK. 64.</ls> {#tasya cintayato budDirutpanneyam#} (vgl. am Ende)
+<ls>R. 1,8,2.</ls> <ls n="R.">2,73,17.</ls>
+<ls>MBH. 5,959.</ls> {#vAYCA#}
+<ls>VID. 110.</ls> {#tapaH praBAvotpannadivyacakzus#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 179,7.</ls> {#yasmAdaRvapi BUtAnAM dvijAnnotpadyate Bayam#}
+<ls>M. 6,40.</ls>
+<ls>PRAB. 7,12.</ls> {#dEverito nUnamayaM purastAtparo nayo BaratezUdapAdi#}
+<ls>MBH. 2,2395.</ls> {#kimarTamanayaM Goramutpadyantamupekzase#}
+<ls n="MBH.">3,361.</ls> {#yudDamutpatsyate mahat#}
+<ls n="MBH. 3,">379.</ls> {#laNkAdAha ivotpannaH#}
+<ls>VET. in LA. 5,3.</ls> {#parasparaM prItirutpannA#}
+<ls n="VET. in LA.">24,9.</ls> <ls>BHĀG. P. 1,7,7.</ls> <ls>RĀJA-TAR. 5,313.</ls> {#utpannapratyaya#}
+<ls>VID. 134.</ls>
+<ls>VEDĀNTAS. (Allah.) No. 148.</ls> {#hAsaH punarutpadyamAnaH#}
+<ls>SĀH. D. 75,3.</ls> <ls n="SĀH. D.">76,9.</ls> {#utpannAvasara#} {%entstanden%} so v. a. {%sich dargeboten habend%}
+<ls>MĀLAV. 40,4.</ls> {#utpannezu kAryezu#}
+<ls>Spr. 457.</ls> {#nAkftvA pARinA hiMsAM mAMsamutpadyate kvacit#} {%Fleisch entsteht%} so v. a. {%Fleisch wird erhalten, man kommt zu Fleisch%}
+<ls>M. 5,48.</ls> {#pratyayA nEvotpadyante#} so v. a. {%es tritt kein Suffix an%}
+<ls>Schol.</ls> zu <ls>P. 1,2,54.</ls> {#DAtoH paraH pratyayasaMjYaka utpadyate#}
+<ls>Schol.</ls> zu <ls>P. 3,1,2.</ls> {#pratyayAntaraM notpadyate#}
+<ls>Schol.</ls> zu <ls>P. 4,1,93.</ls> <ls n="P.">5,4,159.</ls> {#utpanna#} {%auf die Gegenwart gerichtet%} (vgl. u. {#pratyud): sarvatra budDiH kaTitA SrezWA te BaratarzaBa . anAgatA taTotpannAdIrGasUtrA#} (in der Calc. Ausg. {#dIrGasUtrA#} vom vorherg. getrennt) {#vinASinI ..#}
+<ls>MBH. 12,4913.</ls> — caus. {%hervorbringen, herstellen, schaffen, erzeugen, verursachen%}
+<ls>ŚĀṄKH. ŚR. 3,19,18. 20,8.</ls>
+<ls>GṚHY. 5,8.</ls> {#sarvaM hi kAraRaM kAryamutpAdayat#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 29.</ls> {#(astram) tapasotpAditaM tena#}
+<ls>HARIV. 7511.</ls> {#SiMSapAKadirayoH sAramAdAyotpAdya cottamAraRI#}
+<ls>SUŚR. 2,73,15.</ls> {#pArTivocitAni vastrARi sadEvotpAdayati#} (ein Weber)
+<ls>PAÑCAT. 132,24.</ls> {#amunotpAdite gfhe#}
+<ls>BHĀG. P. 4,20,6.</ls> {#udakotpAditakardama#}
+<ls>PAÑCAT. ed. orn. 4,12.</ls> {#agnIn#} {%anlegen, anzünden%}
+<ls>MBH. 13,5091.</ls> {#SikzAm#} so v. a. {%verfassen%}
+<ls>HARIV. 1049.</ls>
+<ls>SUŚR. 2,161,8.</ls> {#asO gOraBavadutpAdya#} so v. a. {%durch sich selbst%}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 141.</ls> {#(prajApatiH) miTunamutpAdayate#}
+<ls>PRAŚNOP. 1,4.</ls> {#saptEte manavaH — sarvamidamutpAdyApuH#}
+<ls>M. 1,63.</ls>
+<ls>SUŚR. 1,1,16.</ls> {#kAmAnmAtA pitA cEnaM yadutpAdayato miTaH#} {%erzeugen%}
+<ls>M. 2,147.</ls> <ls n="M.">6,36.</ls> <ls n="M. 6,">37.</ls> <ls n="M.">9,60.</ls> {#yavIyAn jyezWaBAryAyAM putramutpAdayedyadi#}
+<ls n="M. 9,">120.</ls> <ls n="M. 9,">144.</ls> <ls n="M. 9,">146.</ls> <ls n="M. 9,">166.</ls> <ls n="M. 9,">178.</ls> <ls n="M.">10,6.</ls> <ls>YĀJÑ. 2,127.</ls> <ls>MBH. 1,6138.</ls> {#utpAdaya sakfnmahyamapatyam#}
+<ls n="MBH.">3,8634.</ls> <ls n="MBH.">13,3429</ls> (med.). <ls n="MBH.">14,833.</ls> <ls>RAGH. 18,1.</ls> <ls>BHĀG. P. 1,16,2.</ls> <ls>MĀRK. P. 15,16.</ls> {%gebären%}
+<ls>M. 9,175.</ls> {#krItvA svayaM vApyutpAdya paropakftameva vA — mAMsam#} {%selbst erzeugen, ziehen, gewinnen%}
+<ls>M. 5,32.</ls> {#tilAn#}
+<ls n="M.">10,90.</ls> <ls>MBH. 13,1673.</ls> {#svAhAram#} {%sich seine Speise herbeischaffen%}
+<ls>HIT. 30,3.</ls> {#utpAdya brAhmaRasyAsfk#} {%Blut vergiessen%}
+<ls>M. 4,167.</ls> <ls n="M.">11,208.</ls> {#AcAryastvasya yAM jAtim — utpAdayati sAvitryA#}
+<ls n="M.">2,148.</ls> {#notpAdayetsvayaM kAryam#} {%einen Rechtshandel anstiften%}
+<ls n="M.">8,43.</ls> {#sa tasyotpAdayettuzwim#}
+<ls n="M. 8,">288.</ls> <ls>R. 1,19,25.</ls> <ls n="R.">2,96,37.</ls> {#duHKamutpAdayedyaH#}
+<ls>YĀJÑ. 2,222.</ls> {#tIvramutpAditaM duHKam#}
+<ls>R. 2,78,11.</ls> {#cintAmutpAdayanti me#}
+<ls n="R.">3,52,37.</ls> {#dozam#} {%Schaden stiften%}
+<ls>MEGH. 70.</ls>
+<ls>KATHĀS. 14,36.</ls> <ls n="KATHĀS.">32,97.</ls> {#samatAM vasuDAyAH#}
+<ls>MBH. 12,2235.</ls> {#vEPalyam#}
+<ls n="MBH.">13,285.</ls> {#viGnam#}
+<ls n="MBH. 13,">1682.</ls> <ls>ŚĀK. 28,14.</ls> {#trAsAn#}
+<ls>HARIV. 1209.</ls>
+<ls>SUŚR. 1,155,3. 6.</ls>
+<ls>HIT. 17,17. 18,16.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 184,15. 16.</ls> <ls>AMAR. 29.</ls> <ls>P. 1,3,69</ls>, <ls>Sch.</ls>
 [Page4-0430]
-{#kiMcidutpAdya kAraRam#} {%eine Ursache schaffen%} so v. a. {%eine Veranlassung suchen%} 
-<ls>HARIV. 3504.</ls> {#sa ca daridrapuruzastasya gfhapaterantike pitfsaMjYAmutpAdayet#} {%gebrauche das Wort Vater, nenne ihn Vater%} 
-<ls>SADDH. P.4,22,a.</ls> 
+{#kiMcidutpAdya kAraRam#} {%eine Ursache schaffen%} so v. a. {%eine Veranlassung suchen%}
+<ls>HARIV. 3504.</ls> {#sa ca daridrapuruzastasya gfhapaterantike pitfsaMjYAmutpAdayet#} {%gebrauche das Wort Vater, nenne ihn Vater%}
+<ls>SADDH. P. 4,22,a.</ls>
 <div n="v">— Vgl. {#utpatti, utpAda#} fgg., {#utpAdin, gUQotpanna#} .
-
-<div n="p">— {#upod#} {%sich aufmachen gegen%}: {#sa Ayatayottarata upotyede#} 
-<ls>ŚAT. BR. 1, 7, 3, 3.</ls>
-
-<div n="p">— {#prod#}, partic. {#protpanna#} {%entstanden%}: {#Darme pAramahaMsye ca protpannamatayaH#} 
-<ls>BHĀG. P. 6, 5, 4.</ls>
-
-<div n="p">— {#pratyud#}, partic. {#pratyutpanna#} 
-<div n="1"> 1) {%im gegebenen Augenblick da seiend, gegenwärtig%}: {#atItAnAgataM hitvA pratyutpannena vartaya#} 
-<ls>MBH. 12, 8278.</ls> {#avApyAnkAmayannarTAnnAnavApyAnkadA ca na . pratyutpannAnanuBavanmA SucastvamanAgatAn ..#} 
-<ls>3875.</ls> {#yasya budDiH pariBavettamatItena sAntvayet . anAgatena durbudDiM pratyutpannena paRqitam ..#} 
-<ls>1, 5614</ls> (hiernach 
-<ls>12, 5262</ls> zu verbessern). {#°mati#} {%Geistesgegenwart habend%} 
-<ls>H. 344.</ls> 
-<ls>HALĀY. 2, 221.</ls> 
-<ls>MBH. 12, 4889</ls> <ls>?(PAÑCAT. I, 361). SUŚR. 1, 123, 17. ŚĀK. 67, 23.</ls> {#pratyutpannamatitva#} (auch {#pratyupapannamatitva#}) <lex>n.</lex> {%Geistesgegenwart%} ebend. v.l. 
-<div n="1">— 2) {%durch Multiplication gewonnen%} 
+<div n="p">— {#upod#} {%sich aufmachen gegen%}: {#sa Ayatayottarata upotyede#}
+<ls>ŚAT. BR. 1,7,3,3.</ls>
+<div n="p">— {#prod#}, partic. {#protpanna#} {%entstanden%}: {#Darme pAramahaMsye ca protpannamatayaH#}
+<ls>BHĀG. P. 6,5,4.</ls>
+<div n="p">— {#pratyud#}, partic. {#pratyutpanna#}
+<div n="1"> 1) {%im gegebenen Augenblick da seiend, gegenwärtig%}: {#atItAnAgataM hitvA pratyutpannena vartaya#}
+<ls>MBH. 12,8278.</ls> {#avApyAnkAmayannarTAnnAnavApyAnkadA ca na . pratyutpannAnanuBavanmA SucastvamanAgatAn ..#}
+<ls n="MBH. 12,">3875.</ls> {#yasya budDiH pariBavettamatItena sAntvayet . anAgatena durbudDiM pratyutpannena paRqitam ..#}
+<ls n="MBH.">1,5614</ls> (hiernach
+<ls n="MBH.">12,5262</ls> zu verbessern). {#°mati#} {%Geistesgegenwart habend%}
+<ls>H. 344.</ls>
+<ls>HALĀY. 2,221.</ls>
+<ls>MBH. 12,4889</ls> (<ls>PAÑCAT. I,361).</ls> <ls>SUŚR. 1,123,17.</ls> <ls>ŚĀK. 67,23.</ls> {#pratyutpannamatitva#} (auch {#pratyupapannamatitva#}) <lex>n.</lex> {%Geistesgegenwart%} ebend. v.l.
+<div n="1">— 2) {%durch Multiplication gewonnen%}
 <ls>HAUGHT.</ls> nach <ls>COLEBR. Alg. 5</ls>, wo aber {#pratyutpanna#}, wie es scheint, ungenau {#guRana#} {%Multiplication%} gleichgesetzt wird: vgl. {#pratyutpannajAti#} ebend. 14.
-
-<div n="p">— {#vyud#} 
-<div n="1"> 1) {%entstehen%}; in der Gramm. so v. a. {%aus einer Wurzel, aus einem andern Worte hervorgehen, seine Etymologie haben%}: {#nAma rUQamapi ca vyudapAdi#} {%erhielt seine Etymologie%} 
-<ls>ŚIŚ. 10, 23.</ls> {#uRAdayo 'vyutpannAni prAtipadikAni#} {%haben keine Etymologie, sind primitive Wörter%} 
-<ls>PAT.</ls> zu <ls>P. 7, 2, 8.</ls> 
-<div n="1">— 2) {#vyutpanna#} {%gelehrt, unterrichtet, erfahren%} 
-<ls>H. 345.</ls> 
-<ls>HALĀY. 2, 197.</ls> 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#°prOQavanitA#} 
-<ls>BHARTṚ.</ls> <ls>Suppl. 18.</ls> {#avyutpannaloka#} 
-<ls>BHĀG. P. 5, 13, 26.</ls> {#yogeSvaracaryAyAmativyutpannamatiH#} 
-<ls>10, 9.</ls> 
-<div n="v">— Vgl. {#vyutpatti#} . — caus. 
-<div n="1"> 1) {%hervorbringen, verursachen%}: {#Bayam#} 
-<ls>BHĀG. P. 3 15, 33.</ls> 
-<div n="1">— 2) in der Gramm. {%ableiten, auf ein Etymon zurückführen%} 
+<div n="p">— {#vyud#}
+<div n="1"> 1) {%entstehen%}; in der Gramm. so v. a. {%aus einer Wurzel, aus einem andern Worte hervorgehen, seine Etymologie haben%}: {#nAma rUQamapi ca vyudapAdi#} {%erhielt seine Etymologie%}
+<ls>ŚIŚ. 10,23.</ls> {#uRAdayo 'vyutpannAni prAtipadikAni#} {%haben keine Etymologie, sind primitive Wörter%}
+<ls>PAT.</ls> zu <ls>P. 7,2,8.</ls>
+<div n="1">— 2) {#vyutpanna#} {%gelehrt, unterrichtet, erfahren%}
+<ls>H. 345.</ls>
+<ls>HALĀY. 2,197.</ls>
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#°prOQavanitA#}
+<ls>BHARTṚ. Suppl. 18.</ls> {#avyutpannaloka#}
+<ls>BHĀG. P. 5,13,26.</ls> {#yogeSvaracaryAyAmativyutpannamatiH#}
+<ls n="BHĀG. P. 5,">10,9.</ls>
+<div n="v">— Vgl. {#vyutpatti#} . — caus.
+<div n="1"> 1) {%hervorbringen, verursachen%}: {#Bayam#}
+<ls>BHĀG. P. 3,15,33.</ls>
+<div n="1">— 2) in der Gramm. {%ableiten, auf ein Etymon zurückführen%}
 <ls>KAIYY.</ls> bei <ls>GOLD. MĀN. 176,a.</ls> <ls>ŚAṂK.</ls> bei <ls>WINDISCHMANN, Sancara 93.</ls> <ls>KULL.</ls> zu <ls>M. 1,21.</ls> <ls>SĀH. D. 11,18.</ls>
-
-<div n="p">— {#samud#} {%entstehen, geboren werden, sich ereignen%}: {#vyaYjanEstu samutpannEH#} {%die pubes%} 
-<ls>PAÑCAT. III, 214.</ls> {#nava vidiSAM ketavaH samutpannAH#} 
-<ls>VARĀH. BṚH. S. 11, 28.</ls> {#sarvaM Saratsamutpannam#} 
-<ls>15, 15.</ls> {#maDye vraRaH samutpannaH#} 
-<ls>48, 7.</ls> {#(naraH) samutpadyati#} 
-<ls>MBH. 3, 13869.</ls> {#GftAcyAM tasya putrastu rururnAmnodapadyata#} 
-<ls>13, 2004.</ls> {#anAryAyAM samutpanno brAhmaRAt#} 
-<ls>M. 10, 66.</ls> 
-<ls>KATHĀS. 9, 28.</ls> 
-<ls>VID. 191.</ls> 
-<ls>PRAB. 11, 3.</ls> {#samutpatsyati#} (act. ohne dass das Metrum es erforderte) 
-<ls>MĀRK. P. 23, 68. 70.</ls> {#hfdaye tasya - vyADiH samudapadyata#} 
-<ls>KATHĀS. 17, 37.</ls> {#ApadaH samutpannAH#} 
-<ls>M. 7, 214.</ls> {#grAme dozAH#} 
-<ls>116.</ls> <ls>PAÑCAT. 71, 1.</ls> {#vivAda#} 
-<ls>M. 8, 245.</ls> {#spfhA#} 
-<ls>MBH. 3, 15278.</ls> {#vismayaH#} 
-<ls>2472.</ls> {#budDiH#} 
-<ls>R. 1, 57, 11. 63, 11.</ls> {#halAhalASabdo mahAnsamudapadyata#} 
-<ls>2, 81, 14.</ls> <ls>Z. d. d. m. G. 14, 575, 18.</ls> {#cintA#} 
-<ls>PAÑCAT. 6. 6.</ls> {#kAlaScAyaM samutpannaH#} {%ist gekommen%} 
-<ls>R. 2, 29, 11.</ls> 
-<ls>ARJ. 5, 7.</ls> {#kOtUhalasamutpanna#} so v. a. {#samutpannakOtUhala#} <lex>adj.</lex> 
-<ls>R. 6, 84, 3.</ls> {#samutpanna#} so v. a. {%dargeboten%} 
-<ls>MBH. 5, 7265.</ls> 
-<div n="v">— Vgl. {#samutpatti#} . — caus. {%hervorbringen, erzeugen, hervorrufen, verursachen%}: {#svaSarIrAtsamutpAdya (putram)#} 
-<ls>MĀRK. P. 17, 6.</ls> {#yudDam#} 
-<ls>PAÑCAT. I, 258.</ls> {#spfhAm#} 
-<ls>RĀJA-TAR. 5, 6.</ls> {#loBam#} 
-<ls>319.</ls> {#samutpAditapOruza#} 
-<ls>R. 5, 95, 33.</ls> Hierher gehören auch die Formen {#samupAdayat#} und {#samupAdayet#} mit ausgeworfenem {#ta#} (aus metrischen Rücksichten): {#kAlavarzI ca parjanyaH #}
+<div n="p">— {#samud#} {%entstehen, geboren werden, sich ereignen%}: {#vyaYjanEstu samutpannEH#} {%die pubes%}
+<ls>PAÑCAT. III,214.</ls> {#nava vidiSAM ketavaH samutpannAH#}
+<ls>VARĀH. BṚH. S. 11,28.</ls> {#sarvaM Saratsamutpannam#}
+<ls n="VARĀH. BṚH. S.">15,15.</ls> {#maDye vraRaH samutpannaH#}
+<ls n="VARĀH. BṚH. S.">48,7.</ls> {#(naraH) samutpadyati#}
+<ls>MBH. 3,13869.</ls> {#GftAcyAM tasya putrastu rururnAmnodapadyata#}
+<ls n="MBH.">13,2004.</ls> {#anAryAyAM samutpanno brAhmaRAt#}
+<ls>M. 10,66.</ls>
+<ls>KATHĀS. 9,28.</ls>
+<ls>VID. 191.</ls>
+<ls>PRAB. 11,3.</ls> {#samutpatsyati#} (act. ohne dass das Metrum es erforderte)
+<ls>MĀRK. P. 23,68. 70.</ls> {#hfdaye tasya — vyADiH samudapadyata#}
+<ls>KATHĀS. 17,37.</ls> {#ApadaH samutpannAH#}
+<ls>M. 7,214.</ls> {#grAme dozAH#}
+<ls n="M. 7,">116.</ls> <ls>PAÑCAT. 71,1.</ls> {#vivAda#}
+<ls>M. 8,245.</ls> {#spfhA#}
+<ls>MBH. 3,15278.</ls> {#vismayaH#}
+<ls n="MBH. 3,">2472.</ls> {#budDiH#}
+<ls>R. 1,57,11.</ls> <ls n="R. 1,">63,11.</ls> {#halAhalASabdo mahAnsamudapadyata#}
+<ls n="R.">2,81,14.</ls> <ls>Z. d. d. m. G. 14,575,18.</ls> {#cintA#}
+<ls>PAÑCAT. 6. 6.</ls> {#kAlaScAyaM samutpannaH#} {%ist gekommen%}
+<ls>R. 2,29,11.</ls>
+<ls>ARJ. 5,7.</ls> {#kOtUhalasamutpanna#} so v. a. {#samutpannakOtUhala#} <lex>adj.</lex>
+<ls>R. 6,84,3.</ls> {#samutpanna#} so v. a. {%dargeboten%}
+<ls>MBH. 5,7265.</ls>
+<div n="v">— Vgl. {#samutpatti#} . — caus. {%hervorbringen, erzeugen, hervorrufen, verursachen%}: {#svaSarIrAtsamutpAdya (putram)#}
+<ls>MĀRK. P. 17,6.</ls> {#yudDam#}
+<ls>PAÑCAT. I,258.</ls> {#spfhAm#}
+<ls>RĀJA-TAR. 5,6.</ls> {#loBam#}
+<ls n="RĀJA-TAR.">319.</ls> {#samutpAditapOruza#}
+<ls>R. 5,95,33.</ls> Hierher gehören auch die Formen {#samupAdayat#} und {#samupAdayet#} mit ausgeworfenem {#ta#} (aus metrischen Rücksichten): {#kAlavarzI ca parjanyaH #}
 [Page4-0431]
-{# sasyAni samupAdayat#} 
-<ls>MBH. 12, 946.</ls> {#parIkzyakArI yuktaSca samyaksamupAdayet . deSakAlAvaBipretO tAByAM PalamApnuyAt ..#} {%Ort und Zeit entstehen lassen%} so v. a. {%ruhig abwarten%} 
-<ls>4912.</ls>
-
-<div n="p">— {#upa#} 
-<div n="1"> 1) {%sich an Jmd machen, anfallen%}: {#va\tso DA\ruri^va mA\tara\M (kftyA) taM pra\tyagupa^ padyatAm#} 
-<ls>AV. 4, 18, 2.</ls> 
-<div n="1">— 2) {%gelangen, kommen zu, in%}: {#yamunAtawamupapede#} 
-<ls>PAÑCAT. 9, 5.</ls> {#tiryagyonisahasrezu kadAciddevatAsvapi . upapadyati saMyogAdguREH saha guRakzayAt ..#} 
-<ls>MBH. 12, 11264.</ls> {%zum Lehrer kommen, sich als Schüler in die Lehre begeben bei%} (gen. acc.): {#tasmE sa vidvAnupapannAya prAha#} ved. Cit. in 
-<ls>VEDĀNTAS. (Allah.) No. 19.</ls> {#vedAkzahfdayaM kftsnamahaM satyaparAkrama . upapadyasva kOnteya prasanno 'haM bravImi te ..#} 
-<ls>MBH. 3, 3081.</ls> {#SizyavattvAM tu pfcCAmi upapanno 'smi te 'naGa#} 
-<ls>1, 1191.</ls> {#BavantamupapannAH smaH Sizyatvena#} 
-<ls>SUŚR. 1, 1, 14.</ls> 
-<div n="1">— 3) (wiederholend) {%einfallen%}: {#asaMDeyamiti ha viSvAmitra upapapAda#} 
-<ls>AIT. BR. 7, 17.</ls> 
-<div n="1">— 4) {%zu Etwas%} (acc. und dat.) {%gelangen, - kommen%} so v. a. {%theilhaftig werden, in einen Zustand treten, antreten%}: {#apUrvapatiM kumArIM patirupapannaH, apUrvapatiH kumArI patimupapannA#} 
-<ls>Schol.</ls> zu <ls>P. 4, 2, 13.</ls> {#madBakta etadvijYAya madBavAyopapadyate#} 
-<ls>BHAG. 13, 18.</ls> {#sa svargAyopapadyate#} 
-<ls>MĀRK. P. 29, 13.</ls> {#yatra tatra samutpannaM guRAyEvopapadyate#} 
-<ls>MBH. 13, 2518.</ls> {#arhaRamupapede#} 
-<ls>BHĀG. P. 1, 9, 41.</ls> {#paYcatvamupapodavAn#} 
-<ls>R. 2, 72, 50.</ls> {#pravrajyAmupapannAnAM trayARAm#} 
-<ls>6, 8, 27.</ls> 
-<div n="1">— 5) {%gelangen zu%} so v. a. {%zu Theil werden, zufallen%}: {#arTaprAptO tu narakaH kftsna evopapadyate#} 
-<ls>MBH. 1, 6125.</ls> {#tftIyo yaSca te (jvarasya) BAgo mAnuzezUpapatsyate#} 
-<ls>HARIV. 10554.</ls> {#upapannaScirasyAdya Bakzayo 'yaM mama supriyaH#} 
-<ls>MBH. 1, 5934.</ls> {#arTAstasyopapatsyante#} 
-<ls>3, 3078.</ls> <ls>Spr. 1253.</ls> {#ikzvAkostu sutaH SrImAnvikukzirupapadyata#} (in der anderen Recension {#udapadyata#}) 
-<ls>R. GORR. 1, 72, 19.</ls> {#upapanno guRopeto BavAnyasya saKA mama#} 
-<ls>4, 7, 2.</ls> {#upadeSapradAtFRAm - vyasanaM nopapadyate#} 
-<ls>Spr. 487.</ls> 
-<div n="1">— 6) {%statthaben, stattfinden, zur Erscheinung kommen, vorkommen, eintreten, sich darbieten, vorhanden sein, möglich sein%}: {#prayARa upapadyamAne#} 
-<ls>ĀŚV. GṚHY. 1, 8.</ls> {#atirAtrayoH zoqaSini virAqupapadyeta#} 
-<ls>LĀṬY. 10, 3, 8. 7, 6. 8, 4. 9, 7, 9.</ls> {#paSAvupapadyamAne#} 
-<ls>KAUŚ. 138.</ls> {#taccAnyaTopapannam#} {%anders gekommen%} 
-<ls>VIKR. 20, 10.</ls> {#upasarjanaM praDAnasya Darmato nopapadyeta#} 
-<ls>M. 9, 121. 139. 186.</ls> {#anyaduptaM jAtamanyadityetannopapadyate#} 
-<ls>40. 10, 102.</ls> {#tvadanyaH saMSayasyAsya CettA nahyupapadyate#} 
-<ls>BHAG. 6, 39.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 11, 11.</ls> {#upapadyetkaTaM deva striyA yuDi jayo mama#} 
-<ls>MBH. 5, 7378.</ls> {#jAtAste hyupapadyante sattvodriktAH svatejasaH#} {%erscheinen als%} so v. a. {%sind%} 
-<ls>MĀRK. P. 49, 4.</ls> {#yadi puMsAM gatiH - kaTaMcinnopapadyate#} {%wenn das Gelangen zu Männern auf keine Weise sich macht%} 
-<ls>13, 2223.</ls> {#taTA tavApi puRyasya saMKyA nEvopapadyate#} {%das Zählen ist unmöglich%} 
-<ls>MĀRK. P. 15, 72.</ls> {#nanvidaM BavatA kftam . pAdyamarDyaM taTAtiTyaM vane yadupapadyate ..#} 
-<ls>R. 2, 91, 2.</ls> {#upapanna#} {%vorhanden, da seiend, zur Verfügung stehend%} 
-<ls>KĀTY. ŚR. 1, 8, 17. 7, 2, 5.</ls> {#puruzaH kESca karmaBiH . upapannAnsuKAnBogAnupASnAti#} 
-<ls>MBH. 13, 6680.</ls> {#yaTopapannamAhAraM tasmE prAdAt#} 
-<ls>2743.</ls> {#yaTAlABopapannezu BAjanezu#} 
-<ls>YĀJÑ. 1, 236.</ls> {#yadfcCayopapannena kalpayanvfttimAtmanaH#} 
-<ls>BHĀG. P. 9, 2, 12.</ls> {#sarvaM saKe tvayyupapannametat#} 
-<ls>KUMĀRAS. 3, 12.</ls> {#upapannaM nanu SivaM saptasvaNgezu#} 
-<ls>RAGH. 1, 60.</ls> {#°darSana#} 
-<ls>3, 41.</ls> {#upapannArTa#} 
-<ls>MBH. 3, 1438.</ls> {#anupapannArTa#} 
-<ls>NIR. 1, 15.</ls> 
-<ls>BHĀG. P. 5, 14, 5.</ls> {#bahiHsattvaM vinA jIvato gfhAsattvamanupapannam#} {%unmöglich%} 
-<ls>Z. d. d. m. G. 7, 310, N. 2.</ls> 
-<div n="1">— 7) {%stimmen, zutreffen, zukommen, passen, angemessen sein, sich ziemen%} 
-<ls>ŚĀK. 15, 6.</ls> {#asminnapyetadupapadyate#} 
-<ls>NIR. 8, 2.</ls> {#ata eva sarvAtmano hyattuH sarvamannaM BavatItyupapadyate#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 54. Schol. zu KAP. 1, 69. SĀH. D. 4, 3.</ls> {#vaDaSca puruzavyAGre tasminnEvopapadyate#}
+{# sasyAni samupAdayat#}
+<ls>MBH. 12,946.</ls> {#parIkzyakArI yuktaSca samyaksamupAdayet . deSakAlAvaBipretO tAByAM PalamApnuyAt ..#} {%Ort und Zeit entstehen lassen%} so v. a. {%ruhig abwarten%}
+<ls n="MBH. 12,">4912.</ls>
+<div n="p">— {#upa#}
+<div n="1"> 1) {%sich an Jmd machen, anfallen%}: {#va\tso DA\ruri^va mA\tara\M (kftyA) taM pra\tyagupa^ padyatAm#}
+<ls>AV. 4,18,2.</ls>
+<div n="1">— 2) {%gelangen, kommen zu, in%}: {#yamunAtawamupapede#}
+<ls>PAÑCAT. 9,5.</ls> {#tiryagyonisahasrezu kadAciddevatAsvapi . upapadyati saMyogAdguREH saha guRakzayAt ..#}
+<ls>MBH. 12,11264.</ls> {%zum Lehrer kommen, sich als Schüler in die Lehre begeben bei%} (gen. acc.): {#tasmE sa vidvAnupapannAya prAha#} ved. Cit. in
+<ls>VEDĀNTAS. (Allah.) No. 19.</ls> {#vedAkzahfdayaM kftsnamahaM satyaparAkrama . upapadyasva kOnteya prasanno 'haM bravImi te ..#}
+<ls>MBH. 3,3081.</ls> {#SizyavattvAM tu pfcCAmi upapanno 'smi te 'naGa#}
+<ls n="MBH.">1,1191.</ls> {#BavantamupapannAH smaH Sizyatvena#}
+<ls>SUŚR. 1,1,14.</ls>
+<div n="1">— 3) (wiederholend) {%einfallen%}: {#asaMDeyamiti ha viSvAmitra upapapAda#}
+<ls>AIT. BR. 7,17.</ls>
+<div n="1">— 4) {%zu Etwas%} (acc. und dat.) {%gelangen, — kommen%} so v. a. {%theilhaftig werden, in einen Zustand treten, antreten%}: {#apUrvapatiM kumArIM patirupapannaH, apUrvapatiH kumArI patimupapannA#}
+<ls>Schol.</ls> zu <ls>P. 4,2,13.</ls> {#madBakta etadvijYAya madBavAyopapadyate#}
+<ls>BHAG. 13,18.</ls> {#sa svargAyopapadyate#}
+<ls>MĀRK. P. 29,13.</ls> {#yatra tatra samutpannaM guRAyEvopapadyate#}
+<ls>MBH. 13,2518.</ls> {#arhaRamupapede#}
+<ls>BHĀG. P. 1,9,41.</ls> {#paYcatvamupapodavAn#}
+<ls>R. 2,72,50.</ls> {#pravrajyAmupapannAnAM trayARAm#}
+<ls n="R.">6,8,27.</ls>
+<div n="1">— 5) {%gelangen zu%} so v. a. {%zu Theil werden, zufallen%}: {#arTaprAptO tu narakaH kftsna evopapadyate#}
+<ls>MBH. 1,6125.</ls> {#tftIyo yaSca te (jvarasya) BAgo mAnuzezUpapatsyate#}
+<ls>HARIV. 10554.</ls> {#upapannaScirasyAdya Bakzayo 'yaM mama supriyaH#}
+<ls>MBH. 1,5934.</ls> {#arTAstasyopapatsyante#}
+<ls n="MBH.">3,3078.</ls> <ls>Spr. 1253.</ls> {#ikzvAkostu sutaH SrImAnvikukzirupapadyata#} (in der anderen Recension {#udapadyata#})
+<ls>R. GORR. 1,72,19.</ls> {#upapanno guRopeto BavAnyasya saKA mama#}
+<ls n="R. GORR.">4,7,2.</ls> {#upadeSapradAtFRAm — vyasanaM nopapadyate#}
+<ls>Spr. 487.</ls>
+<div n="1">— 6) {%statthaben, stattfinden, zur Erscheinung kommen, vorkommen, eintreten, sich darbieten, vorhanden sein, möglich sein%}: {#prayARa upapadyamAne#}
+<ls>ĀŚV. GṚHY. 1,8.</ls> {#atirAtrayoH zoqaSini virAqupapadyeta#}
+<ls>LĀṬY. 10,3,8. 7,6. 8,4. 9,7,9.</ls> {#paSAvupapadyamAne#}
+<ls>KAUŚ. 138.</ls> {#taccAnyaTopapannam#} {%anders gekommen%}
+<ls>VIKR. 20,10.</ls> {#upasarjanaM praDAnasya Darmato nopapadyeta#}
+<ls>M. 9,121.</ls> <ls n="M. 9,">139.</ls> <ls n="M. 9,">186.</ls> {#anyaduptaM jAtamanyadityetannopapadyate#}
+<ls n="M. 9,">40.</ls> <ls n="M.">10,102.</ls> {#tvadanyaH saMSayasyAsya CettA nahyupapadyate#}
+<ls>BHAG. 6,39.</ls>
+<ls>R. GORR. 1,11,11.</ls> {#upapadyetkaTaM deva striyA yuDi jayo mama#}
+<ls>MBH. 5,7378.</ls> {#jAtAste hyupapadyante sattvodriktAH svatejasaH#} {%erscheinen als%} so v. a. {%sind%}
+<ls>MĀRK. P. 49,4.</ls> {#yadi puMsAM gatiH — kaTaMcinnopapadyate#} {%wenn das Gelangen zu Männern auf keine Weise sich macht%}
+<ls n="MĀRK. P.">13,2223.</ls> {#taTA tavApi puRyasya saMKyA nEvopapadyate#} {%das Zählen ist unmöglich%}
+<ls>MĀRK. P. 15,72.</ls> {#nanvidaM BavatA kftam . pAdyamarDyaM taTAtiTyaM vane yadupapadyate ..#}
+<ls>R. 2,91,2.</ls> {#upapanna#} {%vorhanden, da seiend, zur Verfügung stehend%}
+<ls>KĀTY. ŚR. 1,8,17.</ls> <ls n="KĀTY. ŚR.">7,2,5.</ls> {#puruzaH kESca karmaBiH . upapannAnsuKAnBogAnupASnAti#}
+<ls>MBH. 13,6680.</ls> {#yaTopapannamAhAraM tasmE prAdAt#}
+<ls n="MBH. 13,">2743.</ls> {#yaTAlABopapannezu BAjanezu#}
+<ls>YĀJÑ. 1,236.</ls> {#yadfcCayopapannena kalpayanvfttimAtmanaH#}
+<ls>BHĀG. P. 9,2,12.</ls> {#sarvaM saKe tvayyupapannametat#}
+<ls>KUMĀRAS. 3,12.</ls> {#upapannaM nanu SivaM saptasvaNgezu#}
+<ls>RAGH. 1,60.</ls> {#°darSana#}
+<ls n="RAGH.">3,41.</ls> {#upapannArTa#}
+<ls>MBH. 3,1438.</ls> {#anupapannArTa#}
+<ls>NIR. 1,15.</ls>
+<ls>BHĀG. P. 5,14,5.</ls> {#bahiHsattvaM vinA jIvato gfhAsattvamanupapannam#} {%unmöglich%}
+<ls>Z. d. d. m. G. 7,310, N. 2.</ls>
+<div n="1">— 7) {%stimmen, zutreffen, zukommen, passen, angemessen sein, sich ziemen%}
+<ls>ŚĀK. 15,6.</ls> {#asminnapyetadupapadyate#}
+<ls>NIR. 8,2.</ls> {#ata eva sarvAtmano hyattuH sarvamannaM BavatItyupapadyate#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 54.</ls> Schol. zu <ls>KAP. 1,69.</ls> <ls>SĀH. D. 4,3.</ls> {#vaDaSca puruzavyAGre tasminnEvopapadyate#}
 [Page4-0432]
-
-<ls>R. 6, 9, 10.</ls> {#mA vizAdaM gamastasmAnnEtattvayyupapadyate#} 
-<ls>MBH. 3, 15179.</ls> 
-<ls>BHAG. 2, 3.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 116, 4.</ls> {#niyatasya tu saMnyAsaH karmaRo nopapadyate#} 
-<ls>BHAG. 18, 7.</ls> {#ato 'sya rAjanyatvAtpratigraho nopapadyate#} 
-<ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls> {#tavAgre gopanaM sADo na mamApyupapadyate#} 
-<ls>RĀJA-TAR. 1, 231.</ls> {#tavEva vfzaBatvaM hi gomuKasyopapadyate#} 
-<ls>KATHĀS. 40, 9.</ls> {#upapanna#} {%zutreffend, passend, angemessen, entsprechend, in aller Ordnung seiend, ganz natürlich%}: {#sarvamupapannam#} 
-<ls>ŚĀK. 8, 8.</ls> 
-<ls>VIKR. 73, 1.</ls> {#upapannaste tarkaH#} 
-<ls>26, 4.</ls> {#upapannamidaM Badre yadevam - DarmaM prati vaco brUyAH#} 
-<ls>MBH. 5, 6091.</ls> 
-<ls>R. 4, 36, 13.</ls> {#pUjitaScopapannABirASIrBiH#} 
-? <ls n="R.">5, 7, 57.</ls> <ls>SUŚR. 1, 56, 20.</ls> <ls>VIKR. 20, 3.</ls> <ls>ŚĀK. 122.</ls> <ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls> Schol. zu <ls>JAIM. 1, 30.</ls> {#kartavyA iti bahuvacanamupapannataram#} 
-<ls>KULL.</ls> zu <ls>M. 2, 43.</ls> {#upapannametadrAjani#} 
-<ls>ŚĀK. 27, 18.</ls> {#taTedamupapannaM me mfgarUpasya DarzaRam#} 
-<ls>R. 3, 49, 42.</ls> {#upapannamidaM suBru jAtAyAH kuSikAnvaye#} 
-<ls>BHĀG. P. 9, 20, 15.</ls> 
-<ls>PAÑCAT. 102, 13.</ls> {#brahmaRo 'pi - upapanno jyotiHSabdaH#} 
-<ls>ŚAṂK.</ls> bei <ls>WIND. Sancara S. 129.</ls> {#anupapanna#} {%nicht zutreffend u.s.w.%} 
-<ls>LĀṬY. 6, 2, 5.</ls> {#idamekatve nityatve 'nupapannam#} 
-<ls>Schol.</ls> zu <ls>JAIM. 1, 9.</ls> {#asTAne kopa ityanupapannaM tvayi#} 
-<ls>MĀLAV. 57, 8.</ls> 
-<ls>ŚĀK. 111, 1.</ls> 
-<ls>VIKR. 33, 16</ls> (nach der richtigen Lesart). 
-<ls>RĀJA-TAR. 3, 517.</ls> 
-<ls>SĀH. D. 4, 1.</ls> 
-<div n="1">— 8) {%entstehen%} (vgl. {#pad#} mit {#ud): kaTaM SarIraM cyavate kaTaM cEvopapadyate#} 
-<ls>MBH. 14, 455.</ls> {#pUrvopapanna#} viell. {%früher entstanden, älter%} 
-<ls>13, 229.</ls> {%werden zu%} (dat.): {#atisneho hyakAle ca vyasanAyopapadyate#} 
-<ls>R. 6, 21, 34.</ls> 
-<div n="1">— 9) {#upapanna#} {%im Besitz seiend von%} (instr.), {%verbunden mit, versehen mit%}: {#upapannA tvayA BEmI tvaM ca BEmyA#} 
-<ls>N. 24, 34.</ls> {#(raTam) upapannaM mahASastrEH#} 
-<ls>MBH. 5, 7102.</ls> {#upapanno guRErizwEH#} 
-<ls>3, 2072. 2080.</ls> <ls>M. 9, 141.</ls> <ls>RAGH. 2, 16.</ls> {#BaktyopapannaH#} 22. {#Srutavfttopapanna#} 
-<ls>M. 9, 244.</ls> 
-<ls>MBH. 1, 4682.</ls> 
-<ls>ŚĀK. 71, 12.</ls> 
-<ls>VARĀH. BṚH. S. 92, 13.</ls> 
-<div n="v">— Vgl. {#upapatti, upapAduka#} . — caus. 
-<div n="1"> 1) {%Jmd%} (acc.) {%in einen Zustand%} (acc.) {%versetzen%}: {#kaTaMcinmfgaSavAkzI viSvAsamupapAditA#} {%sie wurde dahin gebracht, dass sie Vertrauen fasste%} 
-<ls>R. 5, 57, 12.</ls> 
-<div n="1">— 2) {%Etwas%} (acc.) {%zu Jmd%} (dat., ausnahmsweise loc.) {%gelangen lassen, zuführen, darreichen, darbringen, schenken%}: {#yAnaM vAhanamArohejjYAtaM jYAtopapAditam#} 
-<ls>KĀM. NĪTIS. 7, 30.</ls> {#yastu dozavatIM kanyAmanAKyAyopapAdayet#} 
-<ls>M. 9, 73. 72.</ls> {#nAtiparyAptamAlakzya matkukzeradya Bojanam . dizwyA tvamasi me DAtrA BItenevopapAditaH ..#} 
-<ls>RAGH. 15, 18. 14, 8.</ls> {#upAyanAni - pulindErupapAditAni#} 
-<ls>16, 32.</ls> {#mamopapAditaM sADu BAgyEretatpurAkftEH#} 
-<ls>MĀRK. P. 62, 19.</ls> {#BikzAm - brAhmaRAyopapAdayet#} 
-<ls>M. 3, 96.</ls> {#annasyAgraM tadudDftya brAhmaRAyopapAdayet#} 
-<ls>MĀRK. P. 29, 34. 34, 102.</ls> 
-<ls>MBH. 1, 6271.</ls> {#taM daRqaM varuRAyopapAdayet#} 
-<ls>M. 9, 244.</ls> {#sarvasvaM vedaviduze brAhmaRAyopapAdayet#} 
-<ls>11, 76 (=</ls> <ls>MBH. 12, 1245).</ls> {#viprasya pARAvupapAdayet#} 
-<ls>3, 212.</ls> {#(tasya) nivAso dvArakA devErupapAditA#} 
-<ls>HARIV. 6808. 9798.</ls> {#pIWe devasya pUjakErupapAditam - tiktaSAkam#} 
-<ls>RĀJA-TAR. 5, 49.</ls> {#yadviprezUpapAditam#} 
-<ls>YĀJÑ. 1, 314.</ls> 
-<div n="1">— 3) {%zu Stande —, zur Erscheinung bringen, ausführen, in's Werk setzen%}: {#dIkzAkrayaprasavotTAnAni sarvasattrezu pUrvapakza upapAdayeyuH#} 
-<ls>LĀṬY. 10, 1, 1.</ls> {#tadakartavyamapyetadrAGaveRopapAditam#} 
-<ls>R. GORR. 2, 50, 10. 6, 100, 2.</ls> {#te devakAryamupapAdayizyataH#} 
-<ls>RAGH. 11, 91.</ls> {#prakftivErAgyam#} 
-<ls>17, 55.</ls> <ls>MĀRK. P. 70, 23.</ls> {#kASryaM yena tyajati viDinA sa (viDiH) tvayEvopapAdyaH#} 
-<ls>MEGH. 30.</ls> {#dEvoddizwaM - karmaRehopapAdaya#} 
-<ls>MBH. 1, 4663.</ls> {#yasyA duzwaM manaH pUrvaM karmaRA copapAditam#} 
-<ls>HARIV. 9950.</ls> 
-<div n="1">— 4) {%vorbringen, zur Sprache bringen%} 
-<ls>Schol.</ls> zu <ls>PRAB. 77, 2.</ls> <ls>Schol.</ls> zu <ls>KAP. 1, 50.</ls> {%justify%} 
-<ls>BALLANT.</ls> 
-<div n="1">— 5) {%zurechtmachen, herrichten, in einen angemessenen Zustand bringen, anpassen%}: {#yAdfSaM tUpyate bIjaM kzetre kAlopapAdite#} 
-<ls>M. 9, 36.</ls> {#CedyaBedyaleKyavyaDanErupapannErupapAdya karRam#} 
-<ls>SUŚR. 1, 56, 20.</ls> 
+<ls>R. 6,9,10.</ls> {#mA vizAdaM gamastasmAnnEtattvayyupapadyate#}
+<ls>MBH. 3,15179.</ls>
+<ls>BHAG. 2,3.</ls>
+<ls>R. GORR. 2,116,4.</ls> {#niyatasya tu saMnyAsaH karmaRo nopapadyate#}
+<ls>BHAG. 18,7.</ls> {#ato 'sya rAjanyatvAtpratigraho nopapadyate#}
+<ls>SĀY.</ls> zu <ls>ṚV. 1,125,1.</ls> {#tavAgre gopanaM sADo na mamApyupapadyate#}
+<ls>RĀJA-TAR. 1,231.</ls> {#tavEva vfzaBatvaM hi gomuKasyopapadyate#}
+<ls>KATHĀS. 40,9.</ls> {#upapanna#} {%zutreffend, passend, angemessen, entsprechend, in aller Ordnung seiend, ganz natürlich%}: {#sarvamupapannam#}
+<ls>ŚĀK. 8,8.</ls>
+<ls>VIKR. 73,1.</ls> {#upapannaste tarkaH#}
+<ls n="VIKR.">26,4.</ls> {#upapannamidaM Badre yadevam — DarmaM prati vaco brUyAH#}
+<ls>MBH. 5,6091.</ls>
+<ls>R. 4,36,13.</ls> {#pUjitaScopapannABirASIrBiH#}
+? <ls n="R.">5,7,57.</ls> <ls>SUŚR. 1,56,20.</ls> <ls>VIKR. 20,3.</ls> <ls>ŚĀK. 122.</ls> <ls>SĀY.</ls> zu <ls>ṚV. 1,125,1.</ls> Schol. zu <ls>JAIM. 1,30.</ls> {#kartavyA iti bahuvacanamupapannataram#}
+<ls>KULL.</ls> zu <ls>M. 2,43.</ls> {#upapannametadrAjani#}
+<ls>ŚĀK. 27,18.</ls> {#taTedamupapannaM me mfgarUpasya DarzaRam#}
+<ls>R. 3,49,42.</ls> {#upapannamidaM suBru jAtAyAH kuSikAnvaye#}
+<ls>BHĀG. P. 9,20,15.</ls>
+<ls>PAÑCAT. 102,13.</ls> {#brahmaRo 'pi — upapanno jyotiHSabdaH#}
+<ls>ŚAṂK.</ls> bei <ls>WIND. Sancara S. 129.</ls> {#anupapanna#} {%nicht zutreffend u.s.w.%}
+<ls>LĀṬY. 6,2,5.</ls> {#idamekatve nityatve 'nupapannam#}
+<ls>Schol.</ls> zu <ls>JAIM. 1,9.</ls> {#asTAne kopa ityanupapannaM tvayi#}
+<ls>MĀLAV. 57,8.</ls>
+<ls>ŚĀK. 111,1.</ls>
+<ls>VIKR. 33,16</ls> (nach der richtigen Lesart).
+<ls>RĀJA-TAR. 3,517.</ls>
+<ls>SĀH. D. 4,1.</ls>
+<div n="1">— 8) {%entstehen%} (vgl. {#pad#} mit {#ud): kaTaM SarIraM cyavate kaTaM cEvopapadyate#}
+<ls>MBH. 14,455.</ls> {#pUrvopapanna#} viell. {%früher entstanden, älter%}
+<ls n="MBH.">13,229.</ls> {%werden zu%} (dat.): {#atisneho hyakAle ca vyasanAyopapadyate#}
+<ls>R. 6,21,34.</ls>
+<div n="1">— 9) {#upapanna#} {%im Besitz seiend von%} (instr.), {%verbunden mit, versehen mit%}: {#upapannA tvayA BEmI tvaM ca BEmyA#}
+<ls>N. 24,34.</ls> {#(raTam) upapannaM mahASastrEH#}
+<ls>MBH. 5,7102.</ls> {#upapanno guRErizwEH#}
+<ls n="MBH.">3,2072.</ls> <ls n="MBH. 3,">2080.</ls> <ls>M. 9,141.</ls> <ls>RAGH. 2,16.</ls> {#BaktyopapannaH#} 22. {#Srutavfttopapanna#}
+<ls>M. 9,244.</ls>
+<ls>MBH. 1,4682.</ls>
+<ls>ŚĀK. 71,12.</ls>
+<ls>VARĀH. BṚH. S. 92,13.</ls>
+<div n="v">— Vgl. {#upapatti, upapAduka#} . — caus.
+<div n="1"> 1) {%Jmd%} (acc.) {%in einen Zustand%} (acc.) {%versetzen%}: {#kaTaMcinmfgaSavAkzI viSvAsamupapAditA#} {%sie wurde dahin gebracht, dass sie Vertrauen fasste%}
+<ls>R. 5,57,12.</ls>
+<div n="1">— 2) {%Etwas%} (acc.) {%zu Jmd%} (dat., ausnahmsweise loc.) {%gelangen lassen, zuführen, darreichen, darbringen, schenken%}: {#yAnaM vAhanamArohejjYAtaM jYAtopapAditam#}
+<ls>KĀM. NĪTIS. 7,30.</ls> {#yastu dozavatIM kanyAmanAKyAyopapAdayet#}
+<ls>M. 9,73.</ls> <ls n="M. 9,">72.</ls> {#nAtiparyAptamAlakzya matkukzeradya Bojanam . dizwyA tvamasi me DAtrA BItenevopapAditaH ..#}
+<ls>RAGH. 15,18.</ls> <ls n="RAGH.">14,8.</ls> {#upAyanAni — pulindErupapAditAni#}
+<ls n="RAGH.">16,32.</ls> {#mamopapAditaM sADu BAgyEretatpurAkftEH#}
+<ls>MĀRK. P. 62,19.</ls> {#BikzAm — brAhmaRAyopapAdayet#}
+<ls>M. 3,96.</ls> {#annasyAgraM tadudDftya brAhmaRAyopapAdayet#}
+<ls>MĀRK. P. 29,34. 34,102.</ls>
+<ls>MBH. 1,6271.</ls> {#taM daRqaM varuRAyopapAdayet#}
+<ls>M. 9,244.</ls> {#sarvasvaM vedaviduze brAhmaRAyopapAdayet#}
+<ls n="M.">11,76</ls> (= <ls>MBH. 12,1245</ls>). {#viprasya pARAvupapAdayet#}
+<ls n="MBH.">3,212.</ls> {#(tasya) nivAso dvArakA devErupapAditA#}
+<ls>HARIV. 6808.</ls> <ls n="HARIV.">9798.</ls> {#pIWe devasya pUjakErupapAditam — tiktaSAkam#}
+<ls>RĀJA-TAR. 5,49.</ls> {#yadviprezUpapAditam#}
+<ls>YĀJÑ. 1,314.</ls>
+<div n="1">— 3) {%zu Stande —, zur Erscheinung bringen, ausführen, in's Werk setzen%}: {#dIkzAkrayaprasavotTAnAni sarvasattrezu pUrvapakza upapAdayeyuH#}
+<ls>LĀṬY. 10,1,1.</ls> {#tadakartavyamapyetadrAGaveRopapAditam#}
+<ls>R. GORR. 2,50,10.</ls> <ls n="R. GORR.">6,100,2.</ls> {#te devakAryamupapAdayizyataH#}
+<ls>RAGH. 11,91.</ls> {#prakftivErAgyam#}
+<ls n="RAGH.">17,55.</ls> <ls>MĀRK. P. 70,23.</ls> {#kASryaM yena tyajati viDinA sa (viDiH) tvayEvopapAdyaH#}
+<ls>MEGH. 30.</ls> {#dEvoddizwaM — karmaRehopapAdaya#}
+<ls>MBH. 1,4663.</ls> {#yasyA duzwaM manaH pUrvaM karmaRA copapAditam#}
+<ls>HARIV. 9950.</ls>
+<div n="1">— 4) {%vorbringen, zur Sprache bringen%}
+<ls>Schol.</ls> zu <ls>PRAB. 77,2.</ls> <ls>Schol.</ls> zu <ls>KAP. 1,50.</ls> {%justify%}
+<ls>BALLANT.</ls>
+<div n="1">— 5) {%zurechtmachen, herrichten, in einen angemessenen Zustand bringen, anpassen%}: {#yAdfSaM tUpyate bIjaM kzetre kAlopapAdite#}
+<ls>M. 9,36.</ls> {#CedyaBedyaleKyavyaDanErupapannErupapAdya karRam#}
+<ls>SUŚR. 1,56,20.</ls>
 <ls>MBH. 13,2053.</ls>
 [Page4-0433]
-{#tatsuzeRamataM kAryaM deSakAlopapAditam#} {%dem Orte und der Zeit angepasst%} 
-<ls>R. 4, 43, 66.</ls> 
-<div n="1">— 6) {%Jmd%} (acc.) {%mit Etwas%} (instr.) {%versehen%}: {#taM tvamannena samAMsenopapAdaya#} 
-<ls>MBH. 1, 6724.</ls> {#vetanenopapAditaH#} 
-<ls>?6, 3321 = 7, 4445.</ls> {#AtmAnaM praTamaM rAjA vinayenopapAdayet#} 
-<ls>Spr. 333.</ls> {%begleitet sein lassen von%}: {#anutizWetsamArabDamanArabDaM prayojayet . anuzWitaM ca sadvfttyA viSezeRopapAdayet ..#} 
-<ls>KĀM. NĪTIS. 11, 57.</ls> Hierher könnte auch das letzte Beispiel unter 3 gezogen werden. 
-<div n="1">— 7) {%Jmd zu Etwas machen, für Etwas erklären%}: {#kaTamISvaraM vikAriRaM kftvA vinASaDarmiRamupapAdayasi#} 
-<ls>PRAB. 111, 17.</ls> 
-<div n="1">— 8) {%hinter Etwas kommen, ausfindig machen%}: {#(deSam) dakziRApravaRaM prayatnenopapAdayet#} 
-<ls>M. 3, 206.</ls> {#tarkayAmAsa BEmIti kAraRErupapAdayan#} 
-<ls>MBH. 3, 2663.</ls> 
-<ls>R. 5, 18, 22.</ls> 
+{#tatsuzeRamataM kAryaM deSakAlopapAditam#} {%dem Orte und der Zeit angepasst%}
+<ls>R. 4,43,66.</ls>
+<div n="1">— 6) {%Jmd%} (acc.) {%mit Etwas%} (instr.) {%versehen%}: {#taM tvamannena samAMsenopapAdaya#}
+<ls>MBH. 1,6724.</ls> {#vetanenopapAditaH#}
+<ls n="MBH.">6,3321</ls> = <ls n="MBH.">7,4445.</ls> {#AtmAnaM praTamaM rAjA vinayenopapAdayet#}
+<ls>Spr. 333.</ls> {%begleitet sein lassen von%}: {#anutizWetsamArabDamanArabDaM prayojayet . anuzWitaM ca sadvfttyA viSezeRopapAdayet ..#}
+<ls>KĀM. NĪTIS. 11,57.</ls> Hierher könnte auch das letzte Beispiel unter 3 gezogen werden.
+<div n="1">— 7) {%Jmd zu Etwas machen, für Etwas erklären%}: {#kaTamISvaraM vikAriRaM kftvA vinASaDarmiRamupapAdayasi#}
+<ls>PRAB. 111,17.</ls>
+<div n="1">— 8) {%hinter Etwas kommen, ausfindig machen%}: {#(deSam) dakziRApravaRaM prayatnenopapAdayet#}
+<ls>M. 3,206.</ls> {#tarkayAmAsa BEmIti kAraRErupapAdayan#}
+<ls>MBH. 3,2663.</ls>
+<ls>R. 5,18,22.</ls>
 <div n="v">— Vgl. {#upapAdaka#} fg., {#upapAdya#} .
-
-<div n="p">— {#aByupa#} 
-<div n="1"> 1) {%Jmd%} (acc.) {%zu Hülfe eilen, Jmd helfen%} 
-<ls>MBH. 7, 3663.</ls> {#taM kfcCragatamadya kasmAnnAByupapadyase#} 
-<ls>10, 608.</ls> <ls>R. 3, 66, 17. 72, 18. 5, 26, 32.</ls> {#ratimaByupapattumAturAM maDurAtmAnamadarSayatpunaH#} 
-<ls>KUMĀRAS. 4, 25.</ls> {#kadA - tapaH kfSAmaByupapatsyase saKIM vfzeva sItAM tadavagrahakzayAt#} 
-<ls>5, 61.</ls> 
-<div n="1">— 2) {%Jmd um Hülfe angehen%} 
-<ls>R. 3, 14, 7.</ls> {#aByupapannavatsala#} 
-<ls>MṚCCH. 108, 5.</ls> 
-<div n="1">— 3) {%Jmd mit Etwas versehen%}: {#kaccidvidyAvinItAMSca narAn - yaTArhaM guRataScEva dAnenAByupapadyase#} 
-<ls>MBH. 2, 187.</ls> 
+<div n="p">— {#aByupa#}
+<div n="1"> 1) {%Jmd%} (acc.) {%zu Hülfe eilen, Jmd helfen%}
+<ls>MBH. 7,3663.</ls> {#taM kfcCragatamadya kasmAnnAByupapadyase#}
+<ls n="MBH.">10,608.</ls> <ls>R. 3,66,17.</ls> <ls n="R. 3,">72,18.</ls> <ls n="R.">5,26,32.</ls> {#ratimaByupapattumAturAM maDurAtmAnamadarSayatpunaH#}
+<ls>KUMĀRAS. 4,25.</ls> {#kadA — tapaH kfSAmaByupapatsyase saKIM vfzeva sItAM tadavagrahakzayAt#}
+<ls n="KUMĀRAS.">5,61.</ls>
+<div n="1">— 2) {%Jmd um Hülfe angehen%}
+<ls>R. 3,14,7.</ls> {#aByupapannavatsala#}
+<ls>MṚCCH. 108,5.</ls>
+<div n="1">— 3) {%Jmd mit Etwas versehen%}: {#kaccidvidyAvinItAMSca narAn — yaTArhaM guRataScEva dAnenAByupapadyase#}
+<ls>MBH. 2,187.</ls>
 <div n="v">— Vgl. {#aByupapatti#} .
-
-<div n="p">— {#pratyupa#}, {#pratyupapannamatitva = pratyutpanna°#} (s. u. {#pratyud#}) 
-<ls>ŚĀK. CH. 103, 1.</ls>
-
-<div n="p">— {#samupa#} {%zu Stande kommen%}: {#yaTA tvetatkAryaM samupapadyate . apramatto jagannATa taTA kuru#} 
-<ls>MBH. 2, 779.</ls> — caus. {%fertig machen, zubereiten%}: {#saMpannarUpErbahuBirmAMsEH samupapAditEH#} 
-<ls>R. 5, 14, 45.</ls>
-
-<div n="p">— {#ni#} 
-<div n="1"> 1) {%sich niederlegen, ruhen, rasten%}: {#ya\TAkAma\M ni pa^dyate#} 
-<ls>ṚV. 10, 146, 5.</ls> 
-<ls>AV. 11, 4, 25.</ls> 
-<ls>AIT. BR. 7, 15.</ls> {#eza hIdaM sarvaM gopayatyaTo na nipadyate#} 
-<ls>ŚAT. BR. 14, 1, 4, 9. 9, 3, 3.</ls> 
-<ls>PAÑCAV. BR. 17, 12, 5.</ls> 
-<div n="1">— 2) {%sich niederlegen bei Einer%} (acc.) {%zum Beischlaf%}: {#yastvA^ jA\ro BU\tvA ni\padya^te#} 
-<ls>ṚV. 10, 162, 5.</ls> 
-<ls>AV. 8, 6, 7.</ls> {#de\vA agre\ nya^padyanta\ patnI^H#} 
-<ls>14, 2, 32.</ls> <ls>ŚAT. BR. 11, 5, 1, 1.</ls> 
-<div n="v">— Vgl. {#anipadyamAna, nipAda#} . — caus. {%niederlegen%} 
-<ls>ŚAT. BR. 12, 5, 2, 7. 1, 2, 5, 6.</ls> {%fällen, niederschlagen%}: {#ni mA\yino^ mA\yA apA^dayat#} 
-<ls>ṚV. 2, 11, 10.</ls>
-
-<div n="p">— {#anuni#} {%sich niederlegen neben%}: {#sA patyAvanunipadyate#} 
-<ls>KAUŚ. 60.</ls> {#tamanvaNgamanunyapadyata#} 
-<ls>ŚAT. BR. 14, 1, 1, 12.</ls>
-
-<div n="p">— {#upani#} dass. 
-<ls>ṚV. 1, 152, 4.</ls> {#nArI\ ni pa^dyata\ upa^ tvA martya\ preta^m#} 
-<ls>AV. 18, 3, 1.</ls> — caus. {%sich niederlegen heissen%}: {#mahizImaSvAyopanipAdayanti#} 
-<ls>ŚAT. BR. 13, 5, 2, 2</ls> <ls>?(ĀŚV. ŚR. 10, 8</ls> fälschlich {#°pAtayanti#}). {%hinlegen an%}: {#pARinEva praDvaMsyodaYcamupanipAdayet#} 
-<ls>4, 1, 1, 28.</ls>
-
-<div n="p">— {#pariRi#}¦ 
-<ls>P. 8, 4, 17,</ls> 
-<ls>Sch.</ls>
-
-<div n="p">— {#praRi#} 
-<ls>P. 8, 4, 17,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 8, 22. 11, 7.</ls>
-
-<div n="p">— {#nis#} 
-<div n="1"> 1) {%herausfallen, entfallen%}: {#nenme 'gnirvESvAnaro muKAnnizpadyAtE#} 
-<ls>ŚAT. BR. 1, 4, 1, 10. 13. 18. 19.</ls> {#yonO reto yuktaM na nizpadyate#} 
-<ls>6, 4, 3, 7. 10. 2, 3, 18.</ls> 
-<div n="1">— 2) {%hervorgehen, entstehen, gerathen, reif werden, zu Stande kommen, fertig werden%}: {#aYjanAdapi nizpannErvAmanAdapi ca dvipEH#} 
-<ls>R. 1, 6, 23.</ls> {#nizpannamamftaM yABiH (ozaDiBiH)#} 
-<ls>5, 2, 32.</ls> {#BAgasahitatAlvAdisTAnezUrDvaBAge nizpanno 'c#} 
-<ls>P. 1, 2, 29,</ls> 
-<ls>Sch.</ls> {#bahuvacane nizpanno 'mISabdaH#} 
-<ls>VOP. 2, 20.</ls> {#DAtvarTAnnizpanne#} 
-<ls>26, 179.</ls> {#nizpadyante ca sasyAni yaToptAni#} 
-<ls>M. 9, 247.</ls> {#nizpannaSAlIkzuyavAdisasyam#} 
-<ls>VARĀH. BṚH. S. 8, 30. 19, 8. 94, 34.</ls> {#nizpadyate vadanAdivyApAreRa sa eva (upakAraH)#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 83.</ls> {#nizpannaH KaqgaH#} {%fertig%} 
-<ls>VARĀH. BṚH. S. 49, 8.</ls> {#vastu#} {%zu Stande gekommen, vollendet%} 
-<ls>P. 1, 4, 95,</ls> 
-<ls>Sch.</ls> {#mitratva#} 
-<ls>HIT. 38, 18.</ls> {#Bojana#} {%fertig geworden, zubereitet (Speise%})
+<div n="p">— {#pratyupa#}, {#pratyupapannamatitva = pratyutpanna°#} (s. u. {#pratyud#})
+<ls>ŚĀK. CH. 103,1.</ls>
+<div n="p">— {#samupa#} {%zu Stande kommen%}: {#yaTA tvetatkAryaM samupapadyate . apramatto jagannATa taTA kuru#}
+<ls>MBH. 2,779.</ls> — caus. {%fertig machen, zubereiten%}: {#saMpannarUpErbahuBirmAMsEH samupapAditEH#}
+<ls>R. 5,14,45.</ls>
+<div n="p">— {#ni#}
+<div n="1"> 1) {%sich niederlegen, ruhen, rasten%}: {#ya\TAkAma\M ni pa^dyate#}
+<ls>ṚV. 10,146,5.</ls>
+<ls>AV. 11,4,25.</ls>
+<ls>AIT. BR. 7,15.</ls> {#eza hIdaM sarvaM gopayatyaTo na nipadyate#}
+<ls>ŚAT. BR. 14,1,4,9. 9,3,3.</ls>
+<ls>PAÑCAV. BR. 17,12,5.</ls>
+<div n="1">— 2) {%sich niederlegen bei Einer%} (acc.) {%zum Beischlaf%}: {#yastvA^ jA\ro BU\tvA ni\padya^te#}
+<ls>ṚV. 10,162,5.</ls>
+<ls>AV. 8,6,7.</ls> {#de\vA agre\ nya^padyanta\ patnI^H#}
+<ls n="AV.">14,2,32.</ls> <ls>ŚAT. BR. 11,5,1,1.</ls>
+<div n="v">— Vgl. {#anipadyamAna, nipAda#} . — caus. {%niederlegen%}
+<ls>ŚAT. BR. 12,5,2,7.</ls> <ls n="ŚAT. BR.">1,2,5,6.</ls> {%fällen, niederschlagen%}: {#ni mA\yino^ mA\yA apA^dayat#}
+<ls>ṚV. 2,11,10.</ls>
+<div n="p">— {#anuni#} {%sich niederlegen neben%}: {#sA patyAvanunipadyate#}
+<ls>KAUŚ. 60.</ls> {#tamanvaNgamanunyapadyata#}
+<ls>ŚAT. BR. 14,1,1,12.</ls>
+<div n="p">— {#upani#} dass.
+<ls>ṚV. 1,152,4.</ls> {#nArI\ ni pa^dyata\ upa^ tvA martya\ preta^m#}
+<ls>AV. 18,3,1.</ls> — caus. {%sich niederlegen heissen%}: {#mahizImaSvAyopanipAdayanti#}
+<ls>ŚAT. BR. 13,5,2,2</ls> (<ls>ĀŚV. ŚR. 10,8</ls> fälschlich {#°pAtayanti#}). {%hinlegen an%}: {#pARinEva praDvaMsyodaYcamupanipAdayet#}
+<ls n="ŚAT. BR.">4,1,1,28.</ls>
+<div n="p">— {#pariRi#}¦
+<ls>P. 8,4,17</ls>, <ls>Sch.</ls>
+<div n="p">— {#praRi#}
+<ls>P. 8,4,17</ls>, <ls>Sch.</ls>
+<ls>VOP. 8,22.</ls> <ls n="VOP.">11,7.</ls>
+<div n="p">— {#nis#}
+<div n="1"> 1) {%herausfallen, entfallen%}: {#nenme 'gnirvESvAnaro muKAnnizpadyAtE#}
+<ls>ŚAT. BR. 1,4,1,10. 13. 18. 19.</ls> {#yonO reto yuktaM na nizpadyate#}
+<ls n="ŚAT. BR.">6,4,3,7. 10. 2,3,18.</ls>
+<div n="1">— 2) {%hervorgehen, entstehen, gerathen, reif werden, zu Stande kommen, fertig werden%}: {#aYjanAdapi nizpannErvAmanAdapi ca dvipEH#}
+<ls>R. 1,6,23.</ls> {#nizpannamamftaM yABiH (ozaDiBiH)#}
+<ls n="R.">5,2,32.</ls> {#BAgasahitatAlvAdisTAnezUrDvaBAge nizpanno 'c#}
+<ls>P. 1,2,29</ls>, <ls>Sch.</ls>
+{#bahuvacane nizpanno 'mISabdaH#}
+<ls>VOP. 2,20.</ls> {#DAtvarTAnnizpanne#}
+<ls n="VOP.">26,179.</ls> {#nizpadyante ca sasyAni yaToptAni#}
+<ls>M. 9,247.</ls> {#nizpannaSAlIkzuyavAdisasyam#}
+<ls>VARĀH. BṚH. S. 8,30. 19,8. 94,34.</ls> {#nizpadyate vadanAdivyApAreRa sa eva (upakAraH)#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 83.</ls> {#nizpannaH KaqgaH#} {%fertig%}
+<ls>VARĀH. BṚH. S. 49,8.</ls> {#vastu#} {%zu Stande gekommen, vollendet%}
+<ls>P. 1,4,95</ls>, <ls>Sch.</ls>
+{#mitratva#}
+<ls>HIT. 38,18.</ls> {#Bojana#} {%fertig geworden, zubereitet (Speise%})
 [Page4-0434]
-
-<ls>SOM. NAL. 160.</ls> {%vollbracht, vollendet (die Mahlzeit%}) 
-<ls>RĀJA-TAR. 6, 262.</ls> {#arDanizpanna (cakramaWa)#} 
-<ls>5, 403.</ls> {#nizpannA sekakriyA#} 
-<ls>4, 234.</ls> {#kAryaSeza#} 
-<ls>KATHĀS. 34, 139.</ls> {#kartur#} (abl.) {#DAtvarTe nizpanne#} 
-<ls>VOP. 18, 18.</ls> {#vicArya tanmayA sarvam - kftaM taccApi nizpannam#} 
-<ls>MĀRK. P. 44, 14.</ls> {#sTirayOvananizpanna#} wohl {%durch beständige Jugend in einem vollendeten Zustande sich befindend%} 
-<ls>60, 3.</ls> {#nizpanna = sidDa, nirvftta#} 
-<ls>AK. 3, 2, 50.</ls> 
-<ls>H. 1487.</ls> 
-<div n="v">— Vgl. {#nizpatti#}, 2. {#nizpad#} . — caus. {%hervorbringen, zu Stande —, zur Reife bringen, bereiten, vollbringen, ausführen%}: {#suvarzeReva sukzetre sasyaM nizpAdyatAM tava#} 
-<ls>R. 4, 6, 20.</ls> {#paScAduptaM nizpAdayet#} 
-<ls>VARĀH. BṚH. S. 39 (38), 9.</ls> {#nizpAditAsvozaDIzu#} 
-<ls>MĀRK. P. 16, 39.</ls> {#tatra saMrakzyamARaH sansa garBaH SAMBavErgaREH . nizpAdyAbdasahasreRa#} (unter {#nizpAdya#} ist diese Stelle demnach zu streichen) {#kumAro 'BUtzaqAnanaH ..#} {%zur Reife bringen%} 
-<ls>KATHĀS. 20, 87.</ls> {#nizpAditaSca kArtsnyena BagavadBirGfRAluBiH#} {%zu Stande gekommen, meine Existenz verdankend%} 
-<ls>BHĀG. P. 4, 22, 43.</ls> {#veSmanAm . kowiM nizpAdya#} 
-<ls>RĀJA-TAR. 1, 86.</ls> {#tvaM tAvadekaM pawwaM nityameva nizpAdayasi#} 
-<ls>PAÑCAT. 251, 16.</ls> {#kavikalpadrumam#} 
-<ls>Verz. d. Oxf. H. 175,b,10.</ls> {#tAvadbrAhmaRyA BojanaM nizpAditam#} {%zubereitet%} 
-<ls>VET.</ls> in <ls>LA. 17, 17.</ls> {#yannizpAdayanti tatPalam#} 
-<ls>SUŚR. 1, 152, 2.</ls> {#karma#} 
-<ls>MBH. 5, 797.</ls> 
-<ls>RĀJA-TAR. 3, 176. 4, 438.</ls> 
-<ls>BHĀG. P. 1, 13, 47. 5, 14, 1.</ls> 
-<ls>MĀRK. P. 18, 3. 20, 26. 21, 94. 23, 18. 39, 34. 75, 64.</ls> 
-<ls>PRAB. 5, 4.</ls> {#rAjyam#} {%regieren%} 
-<ls>RĀJA-TAR. 5, 21.</ls> med.: {#tayA rAjaputryA saha yaTAsamIhitaM nizpAdayasva#} {%vollbringe, führe aus%} 
-<ls>PAÑCAT. ed. orn. 52, 23.</ls> {#sahEvAvAM vidyAkftaM vIryaM sAmarTyaM karavAvahE nizpAdayAvahE#} {%an den Tag legen%} 
-<ls>ŚAṂK.</ls> zu <ls>KAṬHOP. 6, 19.</ls> 
+<ls>SOM. NAL. 160.</ls> {%vollbracht, vollendet (die Mahlzeit%})
+<ls>RĀJA-TAR. 6,262.</ls> {#arDanizpanna (cakramaWa)#}
+<ls n="RĀJA-TAR.">5,403.</ls> {#nizpannA sekakriyA#}
+<ls n="RĀJA-TAR.">4,234.</ls> {#kAryaSeza#}
+<ls>KATHĀS. 34,139.</ls> {#kartur#} (abl.) {#DAtvarTe nizpanne#}
+<ls>VOP. 18,18.</ls> {#vicArya tanmayA sarvam — kftaM taccApi nizpannam#}
+<ls>MĀRK. P. 44,14.</ls> {#sTirayOvananizpanna#} wohl {%durch beständige Jugend in einem vollendeten Zustande sich befindend%}
+<ls n="MĀRK. P.">60,3.</ls> {#nizpanna = sidDa, nirvftta#}
+<ls>AK. 3,2,50.</ls>
+<ls>H. 1487.</ls>
+<div n="v">— Vgl. {#nizpatti#}, 2. {#nizpad#} . — caus. {%hervorbringen, zu Stande —, zur Reife bringen, bereiten, vollbringen, ausführen%}: {#suvarzeReva sukzetre sasyaM nizpAdyatAM tava#}
+<ls>R. 4,6,20.</ls> {#paScAduptaM nizpAdayet#}
+<ls>VARĀH. BṚH. S. 39 (38),9.</ls> {#nizpAditAsvozaDIzu#}
+<ls>MĀRK. P. 16,39.</ls> {#tatra saMrakzyamARaH sansa garBaH SAMBavErgaREH . nizpAdyAbdasahasreRa#} (unter {#nizpAdya#} ist diese Stelle demnach zu streichen) {#kumAro 'BUtzaqAnanaH ..#} {%zur Reife bringen%}
+<ls>KATHĀS. 20,87.</ls> {#nizpAditaSca kArtsnyena BagavadBirGfRAluBiH#} {%zu Stande gekommen, meine Existenz verdankend%}
+<ls>BHĀG. P. 4,22,43.</ls> {#veSmanAm . kowiM nizpAdya#}
+<ls>RĀJA-TAR. 1,86.</ls> {#tvaM tAvadekaM pawwaM nityameva nizpAdayasi#}
+<ls>PAÑCAT. 251,16.</ls> {#kavikalpadrumam#}
+<ls>Verz. d. Oxf. H. 175,b,10.</ls> {#tAvadbrAhmaRyA BojanaM nizpAditam#} {%zubereitet%}
+<ls>VET. in LA. 17,17.</ls> {#yannizpAdayanti tatPalam#}
+<ls>SUŚR. 1,152,2.</ls> {#karma#}
+<ls>MBH. 5,797.</ls>
+<ls>RĀJA-TAR. 3,176. 4,438.</ls>
+<ls>BHĀG. P. 1,13,47.</ls> <ls n="BHĀG. P.">5,14,1.</ls>
+<ls>MĀRK. P. 18,3. 20,26. 21,94. 23,18. 39,34. 75,64.</ls>
+<ls>PRAB. 5,4.</ls> {#rAjyam#} {%regieren%}
+<ls>RĀJA-TAR. 5,21.</ls> med.: {#tayA rAjaputryA saha yaTAsamIhitaM nizpAdayasva#} {%vollbringe, führe aus%}
+<ls>PAÑCAT. ed. orn. 52,23.</ls> {#sahEvAvAM vidyAkftaM vIryaM sAmarTyaM karavAvahE nizpAdayAvahE#} {%an den Tag legen%}
+<ls>ŚAṂK.</ls> zu <ls>KAṬHOP. 6,19.</ls>
 <div n="v">— Vgl. {#nizpAdaka#} fgg.
-
-<div n="p">— {#aBinis#} 
-<div n="1"> 1) {%gelangen zu%}: {#etAM diSamaBinippadya#} 
-<ls>ŚAT. BR. 13, 8, 1, 9.</ls> 
-<div n="1">— 2) {%eingehen in, werden zu%} (acc.): {#imamevAkASamaBinizpadyante#} 
-<ls>ŚAT. BR. 14, 9, 1, 19.</ls> {#naktamaharevABinizpadyate#} 
-<ls>CHĀND. UP. 8, 4, 2 (1).</ls> 
-<div n="1">— 3) {%hervortreten, erscheinen%}: {#svena rUpeRABinizpadyante#} {%in ihrer eigenen Gestalt%} 
-<ls>CHĀND. UP. 8, 12, 2.</ls> 
-<ls>ŚAṂK.</ls> bei <ls>WIND. Sancara S. 124</ls>; vgl. {#aBinizpatti#} . — caus. {%hineinbringen in, Jmd verhelfen zu%}: {#prajYA caturo DarmAnbrAhmaRamaBinizpAdayati#} 
-<ls>ŚAT. BR. 11, 5, 7, 1.</ls>
-
-<div n="p">— {#pari#}, partic. {#paripanna#} <lex>n.</lex> {%Umwandlung%} (des {#ma#} vor {#ra#} und den Zischlauten in den <is>Anusvāra</is>): {#rePozmaRorudayayormakAro 'nusvAraM tu tatparipannamAhuH#} 
-<ls>ṚV. PRĀT. 4, 5.</ls> <ls n="ṚV. PRĀT. 4,">7.</ls> <ls n="ṚV. PRĀT.">5, 11.</ls> <ls n="ṚV. PRĀT.">15, 7.</ls> — caus. {%umwandeln%} (in demselben grammatischen Sinne) 
-<ls>ṚV. PRĀT. 14, 11.</ls> Die Worte {#kAlakramAdupAdAnaM paripAdya#} beim 
-<ls>Schol.</ls> zu <ls>ṚV. PRĀT. 2, 1</ls> übersetzt 
+<div n="p">— {#aBinis#}
+<div n="1"> 1) {%gelangen zu%}: {#etAM diSamaBinippadya#}
+<ls>ŚAT. BR. 13,8,1,9.</ls>
+<div n="1">— 2) {%eingehen in, werden zu%} (acc.): {#imamevAkASamaBinizpadyante#}
+<ls>ŚAT. BR. 14,9,1,19.</ls> {#naktamaharevABinizpadyate#}
+<ls>CHĀND. UP. 8,4,2 (1).</ls>
+<div n="1">— 3) {%hervortreten, erscheinen%}: {#svena rUpeRABinizpadyante#} {%in ihrer eigenen Gestalt%}
+<ls>CHĀND. UP. 8,12,2.</ls>
+<ls>ŚAṂK.</ls> bei <ls>WIND. Sancara S. 124</ls>; vgl. {#aBinizpatti#} . — caus. {%hineinbringen in, Jmd verhelfen zu%}: {#prajYA caturo DarmAnbrAhmaRamaBinizpAdayati#}
+<ls>ŚAT. BR. 11,5,7,1.</ls>
+<div n="p">— {#pari#}, partic. {#paripanna#} <lex>n.</lex> {%Umwandlung%} (des {#ma#} vor {#ra#} und den Zischlauten in den <is>Anusvāra</is>): {#rePozmaRorudayayormakAro 'nusvAraM tu tatparipannamAhuH#}
+<ls>ṚV. PRĀT. 4,5.</ls> <ls n="ṚV. PRĀT. 4,">7.</ls> <ls n="ṚV. PRĀT.">5,11.</ls> <ls n="ṚV. PRĀT.">15,7.</ls> — caus. {%umwandeln%} (in demselben grammatischen Sinne)
+<ls>ṚV. PRĀT. 14,11.</ls> Die Worte {#kAlakramAdupAdAnaM paripAdya#} beim
+<ls>Schol.</ls> zu <ls>ṚV. PRĀT. 2,1</ls> übersetzt
 <ls>REGNIER</ls> durch {%en faisant la prononciation, la lecture selon l'ordre des temps%} (richtiger: {%nach der Ordnung der Moren%}).
-
-<div n="p">— {#pra#} 
-<div n="1"> 1) {%antreten an, eintreten in, betreten, besuchen, gelangen zu, kommen zu, gerathen in; sich aufmachen nach, sich begeben zu, in%}: {#nizkrAmetAm prapadyetAm#} 
-<ls>ŚAT. BR. 4, 3, 1, 9.</ls> {#indra^sya gf\ho^ 'si\ taM tvA\ pra pa^dye\ -taM tvA\ pra vi^SAmi#} 
-<ls>AV. 5, 6, 11.</ls> {#de\va\pu\rAm#} 
-<ls>4, 1, 64.</ls> {#tama^ e\tatpu^ruza\ mA pra pa^tTAH#} 
-<ls>8, 1, 10.</ls> {#veSma#} 
-<ls>CHĀND. UP. 8, 14.</ls> {#pariSritAni#} 
-<ls>AIT. BR. 1, 13.</ls> 
-<ls>VS. 3, 43.</ls> 
-<ls>ŚAT. BR. 7, 4, 1, 40. 5, 1, 21.</ls> {#svargaM lokam#} 
-<ls>1, 6, 1, 19.</ls> {#dvArA#} 
-<ls>?2, 3, 3, 14 u.s.w. PĀR. GṚHY. 3, 4. AIT. UP. 3, 12. - 11. CHĀND. UP. 3, 15, 3. fgg. 8, 13. TAITT. UP. 1, 4, 3.</ls> {#yonimanye prapadyante SarIratvAya dehinaH#} 
-<ls>KAṬHOP. 5, 7.</ls> 
-<ls>KATHĀS. 22, 58.</ls> {#acakzurvizayaM durgaM na prapadyeta karhicit#} 
-<ls>M. 4, 77.</ls> {#aDvAnam#} u. s. w. {%sich auf den Weg machen, einen Weg betreten, auf einen Weg kommen%} 
-<ls>M. 4, 60.</ls> 
-<ls>MBH. 12, 11843.</ls> 
-<ls>R. 2, 46, 29. 70, 26.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 46, 4. 5, 54, 10.</ls> 
-<ls>KUMĀRAS. 3, 5.</ls> {#puruzo yayA (gatyA) prApyaM prapadyate#} {%an sein%}
+<div n="p">— {#pra#}
+<div n="1"> 1) {%antreten an, eintreten in, betreten, besuchen, gelangen zu, kommen zu, gerathen in; sich aufmachen nach, sich begeben zu, in%}: {#nizkrAmetAm prapadyetAm#}
+<ls>ŚAT. BR. 4,3,1,9.</ls> {#indra^sya gf\ho^ 'si\ taM tvA\ pra pa^dye\ -taM tvA\ pra vi^SAmi#}
+<ls>AV. 5,6,11.</ls> {#de\va\pu\rAm#}
+<ls n="AV.">4,1,64.</ls> {#tama^ e\tatpu^ruza\ mA pra pa^tTAH#}
+<ls n="AV.">8,1,10.</ls> {#veSma#}
+<ls>CHĀND. UP. 8,14.</ls> {#pariSritAni#}
+<ls>AIT. BR. 1,13.</ls>
+<ls>VS. 3,43.</ls>
+<ls>ŚAT. BR. 7,4,1,40. 5,1,21.</ls> {#svargaM lokam#}
+<ls n="ŚAT. BR.">1,6,1,19.</ls> {#dvArA#}
+<ls n="ŚAT. BR.">2,3,3,14</ls> u.s.w. <ls>PĀR. GṚHY. 3,4.</ls> <ls>AIT. UP. 3,12. — 11.</ls> <ls>CHĀND. UP. 3,15,3. fgg. 8,13.</ls> <ls>TAITT. UP. 1,4,3.</ls> {#yonimanye prapadyante SarIratvAya dehinaH#}
+<ls>KAṬHOP. 5,7.</ls>
+<ls>KATHĀS. 22,58.</ls> {#acakzurvizayaM durgaM na prapadyeta karhicit#}
+<ls>M. 4,77.</ls> {#aDvAnam#} u. s. w. {%sich auf den Weg machen, einen Weg betreten, auf einen Weg kommen%}
+<ls>M. 4,60.</ls>
+<ls>MBH. 12,11843.</ls>
+<ls>R. 2,46,29.</ls> <ls n="R. 2,">70,26.</ls>
+<ls>R. GORR. 2,46,4.</ls> <ls n="R. GORR.">5,54,10.</ls>
+<ls>KUMĀRAS. 3,5.</ls> {#puruzo yayA (gatyA) prApyaM prapadyate#} {%an sein%}
 [Page4-0435]
-{%Ziel gelangt%} 
-<ls>BHĀG. P. 3, 6, 22.</ls> {#na prapeduSca te kratum#} 
-<ls>MBH. 1, 8102.</ls> {#raRamaDyaM prapedire#} 
-<ls>5, 7317.</ls> {#yadyeva devI pfTivIM pravizwA divaM prapannApyaTa vA samudram#} 
-<ls>DRAUP. 6, 13.</ls> 
-<ls>HARIV. 5287. 6408.</ls> 
-<ls>R. 1, 61, 2</ls> <ls>?(act.). KATHĀS. 35, 98.</ls> {#prapedurharayo guhAH#} 
-<ls>R. 2, 97, 5.</ls> {#padaM hareH#} 
-<ls>BHĀG. P. 1, 12, 27.</ls> {#rAjaDAma prapede#} 
-<ls>RĀJA-TAR. 5, 482.</ls> {#tapovanam#} 
-<ls>BHAṬṬ. 4, 1.</ls> {#DamanIryadA mAtariSvA prapadyate#} 
-<ls>SUŚR. 1, 254, 20.</ls> {#yatkfte 'haM durgaM prapannA BfSadAruRam . vanam#} 
-<ls>N. 12, 63.</ls> {#punaragnO prapedire#} 
-<ls>MBH. 1, 8217.</ls> {#kAM ca kAzWAM samAsAdya prapatsyante kftaM yugam#} {%antreten%} 
-<ls>HARIV. 11172.</ls> {#taM prapede viBIzaRaH#} {%zu ihm kam%} 
-<ls>RAGH. 12, 68.</ls> {#sAntaHpurajanaScEnaM (fziputraM) prapede#} {%begab sich hin zu%} 
-<ls>R. 1, 9, 68.</ls> 
-<ls>RAGH. 5, 1.</ls> {#tAM janmane SElabaDUM prapede#} 
-<ls>KUMĀRAS. 1, 21.</ls> 
-<div n="1">— 2) {%Hülfe%} oder {%Schutz suchend sich einstellen bei%} (acc.), {%sich flüchten zu%}: {#brahma prapadye brahma mA kzatrAdgopAyatu#} 
-<ls>AIT. BR. 7, 22. 8, 11.</ls> 
-<ls>TS. 6, 5, 6, 3. 8, 5.</ls> 
-<ls>ŚĀṄKH. ŚR. 1, 4, 5.</ls> {#indraM SaraRaM prapanno 'BUvam#} 
-<ls>CHĀND. UP. 2, 22, 3.</ls> 
-<ls>ŚVETĀŚV. UP. 6, 18.</ls> 
-<ls>N. 8, 18. 20, 14. 29.</ls> 
-<ls>MBH. 4, 202. 5, 7007. 7009. 7038.</ls> 
-<ls>R. 1, 57, 16. 2, 31, 8.</ls> 
-<ls>RAGH. 14, 64.</ls> {#Sizyaste 'haM SADi mAM tvAM prapannam#} 
-<ls>BHAG. 2, 7. 4, 11. 7, 14. 15. 19.</ls> 
-<ls>MBH. 5, 7331. 7, 2867</ls> <ls>?(act.). 13, 1016. 1362 (act.).</ls> {#prapannAnAmarakzaRe#} 
-<ls>R. 5, 91, 12.</ls> 
-<ls>BHĀG. P. 3, 21, 7.</ls> {#BagavatprapannAH#} 
-<ls>1, 16, 33. 8, 3, 3.</ls> {#jinaSAsanam#} so v. a. {%die Lehre%} <is>Jina's</is> {%annehmen%} 
-<ls>RĀJA-TAR. 1, 102.</ls> 
-<div n="1">— 3) {%sich%} (zu Jmds Füssen) {%werfen%}: {#tava SakrAByanujYAtaH pAdAvadya prapadyatAm#} 
-<ls>MBH. 3, 1813.</ls> {#mUrDnA prapanno 'smi pAdO te#} 
-<ls>?1863. R. GORR. 2, 74, 35 (act.) BHĀG. P. 8, 22, 10.</ls> {%herunterstürzen%}: {#aTAmbarAdBayajananAH prapedire sapAdapAH - mahAdrayaH#} 
-<ls>MBH. 1, 1183.</ls> 
-<div n="1">— 4) {%anfallen%}: {#gacCA\mitrA\npra pa^dyasva#} 
-<ls>ṚV. 6, 75, 16.</ls> 
-<ls>AV. 11, 10, 18.</ls> 
-<div n="1">— 5) {%sich in ein Verhältniss begeben, in eine Lage —, einen Zustand gerathen%}: {#na saMSayaM prapadyeta#} {%er begebe sich nicht in Gefahr%} 
-<ls>YĀJÑ. 1, 132.</ls> {#yoga\M pra pa^dye\ kzema^M ca#} 
-<ls>AV. 19, 8, 2.</ls> {#IdfSImavasTAM prapanno 'smi#} 
-<ls>ŚĀK. 60, 12.</ls> {#tava yadi taTABUtaM prema prapannamimAM daSAm#} 
-<ls>AMAR. 27.</ls> {#cintAm#} 
-<ls>MBH. 5, 7412.</ls> 
-<ls>R. 1, 8, 17.</ls> 
-<ls>VET.</ls> in <ls>LA. 16, 9.</ls> {#SrutvedAnIM prapadyeTAH svAM matim#} so v. a. {%sich sein Urtheil bilden%} 
-<ls>MBH. 5, 7415.</ls> {#ratim#} 
-<ls>R. 2, 94, 26.</ls> {#yamunAliNganaprItiM prapede dakziRArRavaH#} 
-<ls>RĀJA-TAR. 1, 296. 3, 525.</ls> {#SAntim#} 
-<ls>PRAB. 5, 5.</ls> {#praSamam#} 
-<ls>98, 14.</ls> {#samaduHKaBAvam#} 
-<ls>RAGH. 14, 69.</ls> {#dEvajYatvam#} 
-<ls>VARĀH. BṚH. S. 2, 17.</ls> {#vAhanatvam#} 
-<ls>KATHĀS. 36, 15.</ls> {#lokopahAsalakzatAm#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 184, 24.</ls> 
-<div n="1">— 6) {%gelangen zu, erlangen, theilhaftig werden%}: {#sadyo yaTA prapadyeta devI garBaM taTA kuru#} 
-<ls>MBH. 1, 4262.</ls> {#Atyantikena sattvena divaM devAH prapedire#} 
-<ls>BHĀG. P. 3, 6, 28.</ls> {#yayA vfttiM prapadyate#} 21. {#kAntaM vapurvyomacaram#} 
-<ls>RAGH. 5, 51.</ls> {#bAlyAtparaM sADu vayaH prapede#} 
-<ls>SĀH. D. 52, 5.</ls> {#divyAM gatiM vararuciH sa nijAM prapede#} 
-<ls>KATHĀS. 5, 141.</ls> {#Sabdasya sidDiM yena prapadyate#} so v. a. {%des Lautes inne werden, den Laut vernehmen%} 
-<ls>BHĀG. P. 3, 6, 17.</ls> {#arisundarIRAM SokArRavodayanidAnapadaM prapede#} so v. a. {%wurde die Ursache, dass%} Inschr. in 
-<ls>Journ. of the Am. Or. S. 6, 505,</ls> <ls>Śl. 15.</ls> 
-<div n="1">— 7) {%gehen an, sich an Etwas machen%}: {#aprapadyaMSca karmARi nityadeyAni#} 
-<ls>MBH. 12, 1219.</ls> {#haraRAya#} {%sich dem Raube hingeben%} 
-<ls>HARIV. 11149.</ls> {#paSyAmo mayi kiM prapadyate#} {%was sie in Bezug auf mich thun wird, wie sie sich gegen mich verhalten wird%} 
-<ls>AMAR. 20.</ls> 
-<div n="1">— 8) {%anbrechen, eintreten%} (von einem Zeitpunkt, einem Zeitraum): {#pragfhIte tato Darme prapatsyati kftaM yugam#} 
-<ls>HARIV. 11217.</ls> {#rAtryAM prapannAyAm#} 
-<ls>R. 2, 42, 32. 54, 33.</ls> {#jyezWamAsi#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 6, 530.</ls> {%erscheinen%} überh.: {#yatra\ prApA^di Sa\Sa u^lku\zImA^n#} 
-<ls>AV. 5, 17, 4.</ls> 
-<div n="1">— 9) {%von Statten gehen%}: {#sa (kratuH) matprasUtaH prapatsyate vedaviDipravfttaH#} 
-<ls>MBH. 13, 3527.</ls> {#apravfttAH prapatsyante samayAH SapaTAstaTA#} so v. a.
+{%Ziel gelangt%}
+<ls>BHĀG. P. 3,6,22.</ls> {#na prapeduSca te kratum#}
+<ls>MBH. 1,8102.</ls> {#raRamaDyaM prapedire#}
+<ls n="MBH.">5,7317.</ls> {#yadyeva devI pfTivIM pravizwA divaM prapannApyaTa vA samudram#}
+<ls>DRAUP. 6,13.</ls>
+<ls>HARIV. 5287.</ls> <ls n="HARIV.">6408.</ls>
+<ls>R. 1,61,2</ls> (act.). <ls>KATHĀS. 35,98.</ls> {#prapedurharayo guhAH#}
+<ls>R. 2,97,5.</ls> {#padaM hareH#}
+<ls>BHĀG. P. 1,12,27.</ls> {#rAjaDAma prapede#}
+<ls>RĀJA-TAR. 5,482.</ls> {#tapovanam#}
+<ls>BHAṬṬ. 4,1.</ls> {#DamanIryadA mAtariSvA prapadyate#}
+<ls>SUŚR. 1,254,20.</ls> {#yatkfte 'haM durgaM prapannA BfSadAruRam . vanam#}
+<ls>N. 12,63.</ls> {#punaragnO prapedire#}
+<ls>MBH. 1,8217.</ls> {#kAM ca kAzWAM samAsAdya prapatsyante kftaM yugam#} {%antreten%}
+<ls>HARIV. 11172.</ls> {#taM prapede viBIzaRaH#} {%zu ihm kam%}
+<ls>RAGH. 12,68.</ls> {#sAntaHpurajanaScEnaM (fziputraM) prapede#} {%begab sich hin zu%}
+<ls>R. 1,9,68.</ls>
+<ls>RAGH. 5,1.</ls> {#tAM janmane SElabaDUM prapede#}
+<ls>KUMĀRAS. 1,21.</ls>
+<div n="1">— 2) {%Hülfe%} oder {%Schutz suchend sich einstellen bei%} (acc.), {%sich flüchten zu%}: {#brahma prapadye brahma mA kzatrAdgopAyatu#}
+<ls>AIT. BR. 7,22.</ls> <ls n="AIT. BR.">8,11.</ls>
+<ls>TS. 6,5,6,3. 8,5.</ls>
+<ls>ŚĀṄKH. ŚR. 1,4,5.</ls> {#indraM SaraRaM prapanno 'BUvam#}
+<ls>CHĀND. UP. 2,22,3.</ls>
+<ls>ŚVETĀŚV. UP. 6,18.</ls>
+<ls>N. 8,18. 20,14. 29.</ls>
+<ls>MBH. 4,202.</ls> <ls n="MBH.">5,7007.</ls> <ls n="MBH. 5,">7009.</ls> <ls n="MBH. 5,">7038.</ls>
+<ls>R. 1,57,16.</ls> <ls n="R.">2,31,8.</ls>
+<ls>RAGH. 14,64.</ls> {#Sizyaste 'haM SADi mAM tvAM prapannam#}
+<ls>BHAG. 2,7. 4,11. 7,14. 15. 19.</ls>
+<ls>MBH. 5,7331.</ls> <ls n="MBH.">7,2867</ls> (act.). <ls n="MBH.">13,1016.</ls> <ls n="MBH. 13,">1362</ls> (act.). {#prapannAnAmarakzaRe#}
+<ls>R. 5,91,12.</ls>
+<ls>BHĀG. P. 3,21,7.</ls> {#BagavatprapannAH#}
+<ls n="BHĀG. P.">1,16,33.</ls> <ls n="BHĀG. P.">8,3,3.</ls> {#jinaSAsanam#} so v. a. {%die Lehre%} <is>Jina's</is> {%annehmen%}
+<ls>RĀJA-TAR. 1,102.</ls>
+<div n="1">— 3) {%sich%} (zu Jmds Füssen) {%werfen%}: {#tava SakrAByanujYAtaH pAdAvadya prapadyatAm#}
+<ls>MBH. 3,1813.</ls> {#mUrDnA prapanno 'smi pAdO te#}
+<ls n="MBH. 3,">1863.</ls> <ls>R. GORR. 2,74,35</ls> (act.) <ls>BHĀG. P. 8,22,10.</ls> {%herunterstürzen%}: {#aTAmbarAdBayajananAH prapedire sapAdapAH — mahAdrayaH#}
+<ls>MBH. 1,1183.</ls>
+<div n="1">— 4) {%anfallen%}: {#gacCA\mitrA\npra pa^dyasva#}
+<ls>ṚV. 6,75,16.</ls>
+<ls>AV. 11,10,18.</ls>
+<div n="1">— 5) {%sich in ein Verhältniss begeben, in eine Lage —, einen Zustand gerathen%}: {#na saMSayaM prapadyeta#} {%er begebe sich nicht in Gefahr%}
+<ls>YĀJÑ. 1,132.</ls> {#yoga\M pra pa^dye\ kzema^M ca#}
+<ls>AV. 19,8,2.</ls> {#IdfSImavasTAM prapanno 'smi#}
+<ls>ŚĀK. 60,12.</ls> {#tava yadi taTABUtaM prema prapannamimAM daSAm#}
+<ls>AMAR. 27.</ls> {#cintAm#}
+<ls>MBH. 5,7412.</ls>
+<ls>R. 1,8,17.</ls>
+<ls>VET. in LA. 16,9.</ls> {#SrutvedAnIM prapadyeTAH svAM matim#} so v. a. {%sich sein Urtheil bilden%}
+<ls>MBH. 5,7415.</ls> {#ratim#}
+<ls>R. 2,94,26.</ls> {#yamunAliNganaprItiM prapede dakziRArRavaH#}
+<ls>RĀJA-TAR. 1,296. 3,525.</ls> {#SAntim#}
+<ls>PRAB. 5,5.</ls> {#praSamam#}
+<ls n="PRAB.">98,14.</ls> {#samaduHKaBAvam#}
+<ls>RAGH. 14,69.</ls> {#dEvajYatvam#}
+<ls>VARĀH. BṚH. S. 2,17.</ls> {#vAhanatvam#}
+<ls>KATHĀS. 36,15.</ls> {#lokopahAsalakzatAm#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 184,24.</ls>
+<div n="1">— 6) {%gelangen zu, erlangen, theilhaftig werden%}: {#sadyo yaTA prapadyeta devI garBaM taTA kuru#}
+<ls>MBH. 1,4262.</ls> {#Atyantikena sattvena divaM devAH prapedire#}
+<ls>BHĀG. P. 3,6,28.</ls> {#yayA vfttiM prapadyate#} 21. {#kAntaM vapurvyomacaram#}
+<ls>RAGH. 5,51.</ls> {#bAlyAtparaM sADu vayaH prapede#}
+<ls>SĀH. D. 52,5.</ls> {#divyAM gatiM vararuciH sa nijAM prapede#}
+<ls>KATHĀS. 5,141.</ls> {#Sabdasya sidDiM yena prapadyate#} so v. a. {%des Lautes inne werden, den Laut vernehmen%}
+<ls>BHĀG. P. 3,6,17.</ls> {#arisundarIRAM SokArRavodayanidAnapadaM prapede#} so v. a. {%wurde die Ursache, dass%} Inschr. in
+<ls>Journ. of the Am. Or. S. 6,505, Śl. 15.</ls>
+<div n="1">— 7) {%gehen an, sich an Etwas machen%}: {#aprapadyaMSca karmARi nityadeyAni#}
+<ls>MBH. 12,1219.</ls> {#haraRAya#} {%sich dem Raube hingeben%}
+<ls>HARIV. 11149.</ls> {#paSyAmo mayi kiM prapadyate#} {%was sie in Bezug auf mich thun wird, wie sie sich gegen mich verhalten wird%}
+<ls>AMAR. 20.</ls>
+<div n="1">— 8) {%anbrechen, eintreten%} (von einem Zeitpunkt, einem Zeitraum): {#pragfhIte tato Darme prapatsyati kftaM yugam#}
+<ls>HARIV. 11217.</ls> {#rAtryAM prapannAyAm#}
+<ls>R. 2,42,32.</ls> <ls n="R. 2,">54,33.</ls> {#jyezWamAsi#} Inschr. in
+<ls>Journ. of the Am. Or. S. 6,530.</ls> {%erscheinen%} überh.: {#yatra\ prApA^di Sa\Sa u^lku\zImA^n#}
+<ls>AV. 5,17,4.</ls>
+<div n="1">— 9) {%von Statten gehen%}: {#sa (kratuH) matprasUtaH prapatsyate vedaviDipravfttaH#}
+<ls>MBH. 13,3527.</ls> {#apravfttAH prapatsyante samayAH SapaTAstaTA#} so v. a.
 [Page4-0436]
-{%werden keine Geltung, keine Bedeutung haben%} 
-<ls>HARIV. 11157.</ls> 
-<div n="1">— 10) mit einem adv. auf {#sAt#} {%werden zu%}: {#te (SarAH) 'sya sarpasAcca prapedire#} 
-<ls>BHAṬṬ. 14, 45.</ls> 
-<div n="1">— 11) {%einwilligen, zugeben%} (vgl. u. {#prati): prasAdyamAnaH SirasA mayA svayaM bahuprakAraM yadi na prapatsyate#} 
-<ls>R. 2, 88, 25.</ls> {#prapanno 'rTaH#} {%eine anerkannte Geldforderung%} 
-<ls>YĀJÑ. 2, 40.</ls> 
-<div n="1">— 12) {#prapanna#} {%versehen mit%} (instr.) 
-<ls>ŚĀK. 1</ls> (nach der am meisten beglaubigten Lesart). — {#pra padAt#} 
-<ls>AV. 6, 28, 1</ls> fehlerhaft für {#pra patAt#} des 
-<ls>ṚV.</ls> 
-<div n="v">— Vgl. {#aprapadana#} . — caus. {%eintreten lassen, einführen in%}: {#SAlAm#} 
-<ls>ŚAT. BR. 3, 1, 2, 21.</ls> 
-<ls>AIT. BR. 1, 3.</ls> med.: {#Atman#} 
-<ls>ŚAT. BR. 7, 5, 1, 20. 8, 1, 1, 6.</ls> {#indraM maDyaM prApAdayanta#} 
-<ls>AIT. BR. 3, 16.</ls> {#prapAdyamAna#} pass. 
-<ls>1, 30.</ls> — desid. {%eintreten wollen%}: {#dvArA puraM prapitset#} 
-<ls>ŚAT. BR. 11, 1, 1, 3.</ls> {%an Etwas zu gehen im Begriff stehen%}: {#kimapi kfcCraM priyajanavyasanamUlaM prapitsate#} 
-<ls>?(P. 7, 4, 54, Sch.) DAŚAK. 114, 10.</ls>
-
-<div n="p">— {#atipra#} caus. in der uns unverständlichen Stelle 
-<ls>MBH. 4, 1717.</ls>
-
-<div n="p">— {#anupra#} 
-<div n="1"> 1) {%nach Jmd%} (acc.) {%eintreten, - betreten%} 
-<ls>AIT. BR. 2, 20.</ls> 
-<ls>ŚAT. BR. 7, 5, 1, 20.</ls> 
-<ls>KĀṬH. 29, 2.</ls> 
-<ls>ŚĀṄKH. ŚR. 5, 6, 6.</ls> {#ekasya DarmeRa satAM matena sarve sma taM mArgamanuprapannAH#} 
-<ls>MBH. 3, 16772.</ls> {%nach Jmd kommen, - erscheinen, hinzukommen, hinzutreten%}: {#kfte yuge Darma AsItsamagrastretAkAle jYAnamanuprapannaH#} (doch wohl {#°pannam) . balaM cAsIddvApare#} 
-<ls>13, 7363.</ls> 
-<div n="1">— 2) {%der Reihe nach eintreten%}: {#gehAnuprapAdam, gehaM gehamanuprapAdam, gehamanuprapAdamanuprapAdam (Aste)#} {%von Haus zu Haus gehend%} 
-<ls>P. 3, 4, 56,</ls> 
-<ls>Sch.</ls> Man streiche hiernach oben den Artikel {#anuprapAda#} . 
-<div n="1">— 3) {%hineingelangen in%}: {#dozA DamanIranuprapadya#} 
-<ls>SUŚR. 1, 258, 7.</ls> 
-<div n="1">— 4) {%folgen, willfahren%}: {#trayIDarmamanuprapannAH#} 
-<ls>BHAG. 9, 21.</ls> {#BAvaM na tasyAhamanuprapadyAm#} 
-<ls>R. 5, 28, 5.</ls>
-
-<div n="p">— {#aBipra#} 
-<div n="1"> 1) {%hinzutreten, betreten; gelangen zu, in%} 
-<ls>TBR. 1, 6, 9, 9.</ls> {#tanna sarva ivABiprapadyeta#} 
-<ls>ŚAT. BR. 3, 1, 1, 9. 11, 4, 1, 3. 2, 6, 1, 40.</ls> {#SukraM yonimaBiprapadyate#} 
-<ls>SUŚR. 1, 320, 14.</ls> 
-<ls>KĀṬH. 28, 2.</ls> {#yajYam#} 
-<ls>29, 2. 30, 1.</ls> {#AdyaM DanizWAMSamaBiprapannaH#} (Jupiter) 
-<ls>VARĀH. BṚH. S. 8, 27.</ls> {%sich begeben zu, hineilen zu%}: {#(asurAH) gaganamaBiprapadya#} 
-<ls>MBH. 1, 1182.</ls> 
-<div n="1">— 2) {%Schutz%} oder {%Hülfe suchen bei Jmd%} (acc.): {#uBAvetO#} (die Brahmanen und <is>Kṣatriya</is>) {#nityamaBiprapannO saMprApaturmahatIM pratizWAm#} 
-<ls>MBH. 12, 2786.</ls> {#saMgrAme 'BiprapannAnAM tavAsmIti ca vAdinAm#} 
-<ls>R. 5, 91, 14.</ls> {#BagavatpAdayormUlaM SaraRamaBiprapannaH#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 179, 20.</ls> 
-<div n="1">— 3) {%gehen an, sich machen an%}: {#tadevABiprapadyeta#} 
-<ls>MBH. 3, 1209.</ls>
-
-<div n="p">— {#saMpra#} 
-<div n="1"> 1) {%zusammen betreten, - eintreten in%}: {#AgnIDram#} 
-<ls>AIT. BR. 2, 36.</ls> {#patnISAlam#} 
-<ls>5, 22.</ls> {#dakziRApaTagO - aDvAnaM saMprapedatuH#} {%machten sich auf den Weg%} 
-<ls>HARIV. 5289.</ls> {%sich hineinbegeben in%}: {#BagavAMste 'kzaro garBamadUrAtsaMprapatsyate#} 
-<ls>BHĀG. P. 3, 24, 2.</ls> {%gerathen in%}: {#mahAgADe nOriva saMprapannA#} 
-<ls>MBH. 12, 2787.</ls> {%sich begeben zu, kommen zu%} (insbes. {%um Hülfe zu suchen)%}: {#saMprapadyeta manasA vEzRavaM padamuttamam#} 
-<ls>HARIV. 11685.</ls> {#tvamimaM saMprapannAya saMSayaM brUhi pfcCate#} 
-<ls>MBH. 13, 4837.</ls> {#tataH samADiyuktena kriyAyogena kardamaH . saMprapede hariM BaktyA#} 
-<ls>BHĀG. P. 3, 21, 7.</ls> 
-<div n="1">— 2) {%zu Stande kommen%}: {#yaTEkena na hastena tAlikaH saMprapadyate#} 
-<ls>PAÑCAT. II, 137.</ls> 
-<div n="1">— 3) mit einem adv. auf {#sAt#} {%werden zu%}: {#te (SarAH) 'sya sarpasAtsaMprapedire#} 
-<ls>BHAṬṬ. 14, 45, v. l.</ls> 
-<div n="1">— 4) {#saMprapanna#} {%erfüllt von%}: {#anyo'nyapIvaraguRADika°#} 
+{%werden keine Geltung, keine Bedeutung haben%}
+<ls>HARIV. 11157.</ls>
+<div n="1">— 10) mit einem adv. auf {#sAt#} {%werden zu%}: {#te (SarAH) 'sya sarpasAcca prapedire#}
+<ls>BHAṬṬ. 14,45.</ls>
+<div n="1">— 11) {%einwilligen, zugeben%} (vgl. u. {#prati): prasAdyamAnaH SirasA mayA svayaM bahuprakAraM yadi na prapatsyate#}
+<ls>R. 2,88,25.</ls> {#prapanno 'rTaH#} {%eine anerkannte Geldforderung%}
+<ls>YĀJÑ. 2,40.</ls>
+<div n="1">— 12) {#prapanna#} {%versehen mit%} (instr.)
+<ls>ŚĀK. 1</ls> (nach der am meisten beglaubigten Lesart). — {#pra padAt#}
+<ls>AV. 6,28,1</ls> fehlerhaft für {#pra patAt#} des
+<ls>ṚV.</ls>
+<div n="v">— Vgl. {#aprapadana#} . — caus. {%eintreten lassen, einführen in%}: {#SAlAm#}
+<ls>ŚAT. BR. 3,1,2,21.</ls>
+<ls>AIT. BR. 1,3.</ls> med.: {#Atman#}
+<ls>ŚAT. BR. 7,5,1,20.</ls> <ls n="ŚAT. BR.">8,1,1,6.</ls> {#indraM maDyaM prApAdayanta#}
+<ls>AIT. BR. 3,16.</ls> {#prapAdyamAna#} pass.
+<ls n="AIT. BR.">1,30.</ls> — desid. {%eintreten wollen%}: {#dvArA puraM prapitset#}
+<ls>ŚAT. BR. 11,1,1,3.</ls> {%an Etwas zu gehen im Begriff stehen%}: {#kimapi kfcCraM priyajanavyasanamUlaM prapitsate#}
+(<ls>P. 7,4,54</ls>, Sch.) <ls>DAŚAK. 114,10.</ls>
+<div n="p">— {#atipra#} caus. in der uns unverständlichen Stelle
+<ls>MBH. 4,1717.</ls>
+<div n="p">— {#anupra#}
+<div n="1"> 1) {%nach Jmd%} (acc.) {%eintreten, — betreten%}
+<ls>AIT. BR. 2,20.</ls>
+<ls>ŚAT. BR. 7,5,1,20.</ls>
+<ls>KĀṬH. 29,2.</ls>
+<ls>ŚĀṄKH. ŚR. 5,6,6.</ls> {#ekasya DarmeRa satAM matena sarve sma taM mArgamanuprapannAH#}
+<ls>MBH. 3,16772.</ls> {%nach Jmd kommen, — erscheinen, hinzukommen, hinzutreten%}: {#kfte yuge Darma AsItsamagrastretAkAle jYAnamanuprapannaH#} (doch wohl {#°pannam) . balaM cAsIddvApare#}
+<ls n="MBH.">13,7363.</ls>
+<div n="1">— 2) {%der Reihe nach eintreten%}: {#gehAnuprapAdam, gehaM gehamanuprapAdam, gehamanuprapAdamanuprapAdam (Aste)#} {%von Haus zu Haus gehend%}
+<ls>P. 3,4,56</ls>, <ls>Sch.</ls>
+Man streiche hiernach oben den Artikel {#anuprapAda#} .
+<div n="1">— 3) {%hineingelangen in%}: {#dozA DamanIranuprapadya#}
+<ls>SUŚR. 1,258,7.</ls>
+<div n="1">— 4) {%folgen, willfahren%}: {#trayIDarmamanuprapannAH#}
+<ls>BHAG. 9,21.</ls> {#BAvaM na tasyAhamanuprapadyAm#}
+<ls>R. 5,28,5.</ls>
+<div n="p">— {#aBipra#}
+<div n="1"> 1) {%hinzutreten, betreten; gelangen zu, in%}
+<ls>TBR. 1,6,9,9.</ls> {#tanna sarva ivABiprapadyeta#}
+<ls>ŚAT. BR. 3,1,1,9.</ls> <ls n="ŚAT. BR.">11,4,1,3.</ls> <ls n="ŚAT. BR.">2,6,1,40.</ls> {#SukraM yonimaBiprapadyate#}
+<ls>SUŚR. 1,320,14.</ls>
+<ls>KĀṬH. 28,2.</ls> {#yajYam#}
+<ls n="KĀṬH.">29,2. 30,1.</ls> {#AdyaM DanizWAMSamaBiprapannaH#} (Jupiter)
+<ls>VARĀH. BṚH. S. 8,27.</ls> {%sich begeben zu, hineilen zu%}: {#(asurAH) gaganamaBiprapadya#}
+<ls>MBH. 1,1182.</ls>
+<div n="1">— 2) {%Schutz%} oder {%Hülfe suchen bei Jmd%} (acc.): {#uBAvetO#} (die Brahmanen und <is>Kṣatriya</is>) {#nityamaBiprapannO saMprApaturmahatIM pratizWAm#}
+<ls>MBH. 12,2786.</ls> {#saMgrAme 'BiprapannAnAM tavAsmIti ca vAdinAm#}
+<ls>R. 5,91,14.</ls> {#BagavatpAdayormUlaM SaraRamaBiprapannaH#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 179,20.</ls>
+<div n="1">— 3) {%gehen an, sich machen an%}: {#tadevABiprapadyeta#}
+<ls>MBH. 3,1209.</ls>
+<div n="p">— {#saMpra#}
+<div n="1"> 1) {%zusammen betreten, — eintreten in%}: {#AgnIDram#}
+<ls>AIT. BR. 2,36.</ls> {#patnISAlam#}
+<ls n="AIT. BR.">5,22.</ls> {#dakziRApaTagO — aDvAnaM saMprapedatuH#} {%machten sich auf den Weg%}
+<ls>HARIV. 5289.</ls> {%sich hineinbegeben in%}: {#BagavAMste 'kzaro garBamadUrAtsaMprapatsyate#}
+<ls>BHĀG. P. 3,24,2.</ls> {%gerathen in%}: {#mahAgADe nOriva saMprapannA#}
+<ls>MBH. 12,2787.</ls> {%sich begeben zu, kommen zu%} (insbes. {%um Hülfe zu suchen)%}: {#saMprapadyeta manasA vEzRavaM padamuttamam#}
+<ls>HARIV. 11685.</ls> {#tvamimaM saMprapannAya saMSayaM brUhi pfcCate#}
+<ls>MBH. 13,4837.</ls> {#tataH samADiyuktena kriyAyogena kardamaH . saMprapede hariM BaktyA#}
+<ls>BHĀG. P. 3,21,7.</ls>
+<div n="1">— 2) {%zu Stande kommen%}: {#yaTEkena na hastena tAlikaH saMprapadyate#}
+<ls>PAÑCAT. II,137.</ls>
+<div n="1">— 3) mit einem adv. auf {#sAt#} {%werden zu%}: {#te (SarAH) 'sya sarpasAtsaMprapedire#}
+<ls>BHAṬṬ. 14,45, v. l.</ls>
+<div n="1">— 4) {#saMprapanna#} {%erfüllt von%}: {#anyo'nyapIvaraguRADika°#}
 <ls>CAURAP. 43.</ls>
-
-<div n="p">— {#aBisaMpra#} {%gelangen zu, theilhaftig werden%}: {#dehI sTAnezu rUpARyaBisaMprapadyate#} 
-<ls>ŚVETĀŚV. UP. 5, 11.</ls>
-
-<div n="p">— {#prati#} 
-<div n="1"> 1) {%betreten, hinzutreten, eintreten, gelangen nach, sich begeben nach, zu%}: {#prati\ panTA^mapadmahi#} 
-<ls>VS. 4, 29.</ls> {#itaH panTAnaM pratipadyasva#}
+<div n="p">— {#aBisaMpra#} {%gelangen zu, theilhaftig werden%}: {#dehI sTAnezu rUpARyaBisaMprapadyate#}
+<ls>ŚVETĀŚV. UP. 5,11.</ls>
+<div n="p">— {#prati#}
+<div n="1"> 1) {%betreten, hinzutreten, eintreten, gelangen nach, sich begeben nach, zu%}: {#prati\ panTA^mapadmahi#}
+<ls>VS. 4,29.</ls> {#itaH panTAnaM pratipadyasva#}
 [Page4-0437]
-
-<ls>ŚĀK. 53, 18.</ls> {#devayAnaM vA panTAnam#} 
-<ls>ŚAT. BR. 14, 8, 16, 3.</ls> {#dakziRamayanam#} 
-<ls>PRAŚNOP. 1, 9.</ls> {#padavIm#} 
-<ls>KUMĀRAS. 4, 10.</ls> 
-<ls>BHĀG. P. 8, 12, 31.</ls> {#nakzatramArgam#} 
-<ls>MBH. 3, 1766.</ls> {#kAM gatim#} 
-<ls>9, 3618.</ls> {#utpaTapratipanna#} 
-<ls>Spr. 873.</ls> {#dvAreRa#} 
-<ls>ŚAT. BR. 11, 4, 4, 2.</ls> {#veSmAni#} 
-<ls>R. 2, 33, 21.</ls> {#vanam#} 
-<ls>3, 53, 9.</ls> <ls>MBH. 1, 5877.</ls> {#svapuram#} 
-<ls>BHĀG. P. 4, 12, 9.</ls> {#svaDAma#} 
-<ls>7, 10, 68.</ls> {#kAM diSaM pratipatsyAmaH#} 
-<ls>MBH. 1, 5918.</ls> {#harayaH pratyapadyanta drumAn#} 
-<ls>R. 5, 60, 7.</ls> {#iha#} 
-<ls>ĀŚV. GṚHY. 1, 5.</ls> {#agnIn#} 
-<ls>ŚAT. BR. 3, 8, 1, 9.</ls> 
-<ls>ŚĀṄKH. ŚR. 5, 15, 12.</ls> {#narakam#} 
-<ls>M. 2, 116. 11, 206.</ls> {#lokAnamalAn#} 
-<ls>BHAG. 14, 14.</ls> {#saMsAram#} 
-<ls>M. 6, 74.</ls> {#saMsArAn#} 
-<ls>12, 39. 54.</ls> {#umAmuKaM tu pratipadya (lakzamIH)#} 
-<ls>KUMĀRAS. 1, 44.</ls> {#hatASvaH sahadevasya pratipede mahAraTam#} 
-<ls>DRAUP. 8, 15.</ls> {#sA tu tApasaM pratyapadyata#} (um sich mit ihm zu verbinden) 
-<ls>MBH. 13, 550.</ls> {%anlangen, ankommen bei%}: {#tezAmAjiM yatAmaBisfzwAnAM vAyurmuKaM praTamaH pratyapadyata#} 
-<ls>AIT. BR. 2, 25.</ls> {#yameza na pratipadyeta#} {%wieder anlangen%} 
-<ls>ŚAT. BR. 14, 7, 1, 15.</ls> {%seine Zuflucht nehmen zu%}: {#etattrayaM pratipadyeta#} 
-<ls>CHĀND. UP. 3, 17, 6.</ls> {#ajAta ityevaM kaScidBIruH pratipadyate#} 
-<ls>ŚVETĀŚV. UP. 4, 21.</ls> {#nyAyyaH Sreyo 'BikAmena pratipattuM janArdanaH#} 
-<ls>MBH. 13, 6916.</ls> {#BIzmaM SiroBiH pratipedire#} 
-<ls>6, 4942.</ls> {#yasya gArhapatyAhavanIyAvantareRAno vA raTo vA SvA vA pratipadyeta#} {%dazwischen treten, - gerathen%} 
-<ls>AIT. BR. 7, 12.</ls> 
-<ls>ŚĀṄKH. ŚR. 1, 4, 1.</ls> {%kommen, eintreten%}: {#vartante 'dya maGA rAjandivase tUttare punaH . PAlgunyaH pratipatsyante#} 
-<ls>R. GORR. 1, 73, 23.</ls> {#pratipannaH - sevAvakASo me#} 
-<ls>MĀLAV. 48.</ls> {#gate daSaraTe svargamaDarmaH pratipatsyate#} 
-<ls>R. GORR. 2, 45, 25.</ls> {%wiederkehren%}: {#BUyizWena ca rAjAnaH SriyaM BuktvAyuzaH kzaye . taruRAH pratipadyante BoktuM sukftaduzkfte ..#} 
-<ls>MBH. 5, 3507.</ls> {%wandeln%}: {#etena (paTA) pratipadyamAnAH#} 
-<ls>CHĀND. UP. 4, 15, 6.</ls> 
-<div n="1">— 2) {%in eine Lage kommen, in einen Zustand gerathen; erlangen, theilhaftig werden, bekommen, empfangen%}: {#IdfSIM vayaHsamavasTAM pratipanno 'smi#} 
-<ls>ŚĀK. 60, 12, v. l.</ls> {#sTAyitAm#} 
-<ls>SĀH. D. 23, 2.</ls> {#svaM devaBAvam#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 66. ŚAT. BR. 14, 4, 2, 22.</ls> {#vanasTA api rAjyAni vinayAtpratipedire#} 
-<ls>M. 7, 40.</ls> 
-<ls>SĀV. 5, 32.</ls> 
-<ls>R. 2, 112, 13.</ls> 
-<ls>RAGH. 4, 1. 12, 7. 14, 21.</ls> {#jayaSriyam#} 
-<ls>4, 41. 19, 55.</ls> <ls>RĀJA-TAR. 4, 484.</ls> {#dAturyadduzkftaM kiMcittatsarvaM pratipadyate#} 
-<ls>M. 3, 191. 7, 94.</ls> 
-<ls>R. 2, 75, 32.</ls> {#taTEva vedAnfzayastapasA pratipedire#} 
-<ls>M. 11, 243.</ls> 
-<ls>MBH. 5, 7548.</ls> 
-<ls>ŚĀK. 108, 10.</ls> {#tadA yUyaM punaH sarvAH svarUpaM pratipatsyaTa#} 
-<ls>MBH. 1, 7870. 3, 2632. 5, 7495. 7537.</ls> 
-<ls>R. 3, 55, 2.</ls> 
-<ls>SOM. NAL. 115.</ls> 
-<ls>RAGH. 11, 34.</ls> {#rUpaM SUrpaRaKA nAmnaH sadfSaM pratyapadyata#} 
-<ls>12, 38.</ls> {#tvaM yado pratipadyasva pApmAnaM jarayA saha#} 
-<ls>MBH. 1, 3468. fg. 3493. fg.</ls> {#taTetyuktvA tato gaNgA tattejaH pratyapadyata#} {%nahm den Samen auf%} 
-<ls>R. GORR. 1, 39, 15.</ls> {#te ca kAlena mahatA yOvanaM pratipedire#} 
-<ls>R. 1, 39, 18.</ls> 
-<ls>MBH. 3, 13861. 4, 728.</ls> 
-<ls>HARIV. 11213.</ls> 
-<ls>R. 5, 8, 20.</ls> 
-<ls>RAGH. 6, 86.</ls> 
-<ls>KATHĀS. 38, 154.</ls> 
-<ls>MĀRK. P. 48, 39. 62, 25.</ls> 
-<ls>HIT. Pr. 33.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 200, 18.</ls> <ls>BHAṬṬ. 15, 14.</ls> {#prARAn#} {%wiedererlangen%} 
-<ls>AIT. BR. 8, 22.</ls> 
-<ls>M. 2, 120.</ls> {#nizaDAn#} 
-<ls>N. 7, 5.</ls> {#prAyaH svaM mahimAnaM kzoBAtpratipadyate hi janaH#} 
-<ls>ŚĀK. 158.</ls> {%wieder aufnehmen%}: {#tataH putravatImenAM pratipatsye tvadAjYayA#} 
-<ls>RAGH. 15, 73.</ls> 
-<div n="1">— 3) {%auf Etwas stossen, antreffen, finden%}: {#pratyapadyata ratnAni viviDAni#} 
-<ls>HARIV. 6789.</ls> 
-<div n="1">— 4) {%gewahr —, inne werden, hinter Etwas kommen, eine Kenntniss von Etwas erlangen, kennen lernen, erfahren, erkennen, einsehen, begreifen%}: {#timire hi kOSikAnAM rUpaM pratipadyate dfzwiH#} 
-<ls>Spr. 57.</ls> {#jihvayA rasam#} 
-<ls>BHĀG. P. 3, 6, 13.</ls> {#prARena saMsparSam#} 16. {#romaBiH kaRqUm#} 18. {#retasAnandam#} 19. {#cetasA vikriyAm#} 24. {#cittena vijYAnam#} 26. {#vivekena#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 287.</ls> {#manasApi hi karmARi yaH kAle pratipadyate . sa rAjA budDisaMpannaH parezAM mUrDni vartate ..#} 
-<ls>R. 4, 28, 15.</ls> 
-<ls>MBH. 5, 6044.</ls> {#yaTA na nfpatirBImaH pratipadyeta me matam . taTA tvayA kartavyam#}
+<ls>ŚĀK. 53,18.</ls> {#devayAnaM vA panTAnam#}
+<ls>ŚAT. BR. 14,8,16,3.</ls> {#dakziRamayanam#}
+<ls>PRAŚNOP. 1,9.</ls> {#padavIm#}
+<ls>KUMĀRAS. 4,10.</ls>
+<ls>BHĀG. P. 8,12,31.</ls> {#nakzatramArgam#}
+<ls>MBH. 3,1766.</ls> {#kAM gatim#}
+<ls n="MBH.">9,3618.</ls> {#utpaTapratipanna#}
+<ls>Spr. 873.</ls> {#dvAreRa#}
+<ls>ŚAT. BR. 11,4,4,2.</ls> {#veSmAni#}
+<ls>R. 2,33,21.</ls> {#vanam#}
+<ls n="R.">3,53,9.</ls> <ls>MBH. 1,5877.</ls> {#svapuram#}
+<ls>BHĀG. P. 4,12,9.</ls> {#svaDAma#}
+<ls n="BHĀG. P.">7,10,68.</ls> {#kAM diSaM pratipatsyAmaH#}
+<ls>MBH. 1,5918.</ls> {#harayaH pratyapadyanta drumAn#}
+<ls>R. 5,60,7.</ls> {#iha#}
+<ls>ĀŚV. GṚHY. 1,5.</ls> {#agnIn#}
+<ls>ŚAT. BR. 3,8,1,9.</ls>
+<ls>ŚĀṄKH. ŚR. 5,15,12.</ls> {#narakam#}
+<ls>M. 2,116.</ls> <ls n="M.">11,206.</ls> {#lokAnamalAn#}
+<ls>BHAG. 14,14.</ls> {#saMsAram#}
+<ls>M. 6,74.</ls> {#saMsArAn#}
+<ls n="M.">12,39.</ls> <ls n="M. 12,">54.</ls> {#umAmuKaM tu pratipadya (lakzamIH)#}
+<ls>KUMĀRAS. 1,44.</ls> {#hatASvaH sahadevasya pratipede mahAraTam#}
+<ls>DRAUP. 8,15.</ls> {#sA tu tApasaM pratyapadyata#} (um sich mit ihm zu verbinden)
+<ls>MBH. 13,550.</ls> {%anlangen, ankommen bei%}: {#tezAmAjiM yatAmaBisfzwAnAM vAyurmuKaM praTamaH pratyapadyata#}
+<ls>AIT. BR. 2,25.</ls> {#yameza na pratipadyeta#} {%wieder anlangen%}
+<ls>ŚAT. BR. 14,7,1,15.</ls> {%seine Zuflucht nehmen zu%}: {#etattrayaM pratipadyeta#}
+<ls>CHĀND. UP. 3,17,6.</ls> {#ajAta ityevaM kaScidBIruH pratipadyate#}
+<ls>ŚVETĀŚV. UP. 4,21.</ls> {#nyAyyaH Sreyo 'BikAmena pratipattuM janArdanaH#}
+<ls>MBH. 13,6916.</ls> {#BIzmaM SiroBiH pratipedire#}
+<ls n="MBH.">6,4942.</ls> {#yasya gArhapatyAhavanIyAvantareRAno vA raTo vA SvA vA pratipadyeta#} {%dazwischen treten, — gerathen%}
+<ls>AIT. BR. 7,12.</ls>
+<ls>ŚĀṄKH. ŚR. 1,4,1.</ls> {%kommen, eintreten%}: {#vartante 'dya maGA rAjandivase tUttare punaH . PAlgunyaH pratipatsyante#}
+<ls>R. GORR. 1,73,23.</ls> {#pratipannaH — sevAvakASo me#}
+<ls>MĀLAV. 48.</ls> {#gate daSaraTe svargamaDarmaH pratipatsyate#}
+<ls>R. GORR. 2,45,25.</ls> {%wiederkehren%}: {#BUyizWena ca rAjAnaH SriyaM BuktvAyuzaH kzaye . taruRAH pratipadyante BoktuM sukftaduzkfte ..#}
+<ls>MBH. 5,3507.</ls> {%wandeln%}: {#etena (paTA) pratipadyamAnAH#}
+<ls>CHĀND. UP. 4,15,6.</ls>
+<div n="1">— 2) {%in eine Lage kommen, in einen Zustand gerathen; erlangen, theilhaftig werden, bekommen, empfangen%}: {#IdfSIM vayaHsamavasTAM pratipanno 'smi#}
+<ls>ŚĀK. 60,12, v. l.</ls> {#sTAyitAm#}
+<ls>SĀH. D. 23,2.</ls> {#svaM devaBAvam#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 66.</ls> <ls>ŚAT. BR. 14,4,2,22.</ls> {#vanasTA api rAjyAni vinayAtpratipedire#}
+<ls>M. 7,40.</ls>
+<ls>SĀV. 5,32.</ls>
+<ls>R. 2,112,13.</ls>
+<ls>RAGH. 4,1.</ls> <ls n="RAGH.">12,7.</ls> <ls n="RAGH.">14,21.</ls> {#jayaSriyam#}
+<ls n="RAGH.">4,41.</ls> <ls n="RAGH.">19,55.</ls> <ls>RĀJA-TAR. 4,484.</ls> {#dAturyadduzkftaM kiMcittatsarvaM pratipadyate#}
+<ls>M. 3,191.</ls> <ls n="M.">7,94.</ls>
+<ls>R. 2,75,32.</ls> {#taTEva vedAnfzayastapasA pratipedire#}
+<ls>M. 11,243.</ls>
+<ls>MBH. 5,7548.</ls>
+<ls>ŚĀK. 108,10.</ls> {#tadA yUyaM punaH sarvAH svarUpaM pratipatsyaTa#}
+<ls>MBH. 1,7870.</ls> <ls n="MBH.">3,2632.</ls> <ls n="MBH.">5,7495.</ls> <ls n="MBH. 5,">7537.</ls>
+<ls>R. 3,55,2.</ls>
+<ls>SOM. NAL. 115.</ls>
+<ls>RAGH. 11,34.</ls> {#rUpaM SUrpaRaKA nAmnaH sadfSaM pratyapadyata#}
+<ls n="RAGH.">12,38.</ls> {#tvaM yado pratipadyasva pApmAnaM jarayA saha#}
+<ls>MBH. 1,3468. fg.</ls> <ls n="MBH. 1,">3493. fg.</ls> {#taTetyuktvA tato gaNgA tattejaH pratyapadyata#} {%nahm den Samen auf%}
+<ls>R. GORR. 1,39,15.</ls> {#te ca kAlena mahatA yOvanaM pratipedire#}
+<ls>R. 1,39,18.</ls>
+<ls>MBH. 3,13861.</ls> <ls n="MBH.">4,728.</ls>
+<ls>HARIV. 11213.</ls>
+<ls>R. 5,8,20.</ls>
+<ls>RAGH. 6,86.</ls>
+<ls>KATHĀS. 38,154.</ls>
+<ls>MĀRK. P. 48,39. 62,25.</ls>
+<ls>HIT. Pr. 33.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 200,18.</ls> <ls>BHAṬṬ. 15,14.</ls> {#prARAn#} {%wiedererlangen%}
+<ls>AIT. BR. 8,22.</ls>
+<ls>M. 2,120.</ls> {#nizaDAn#}
+<ls>N. 7,5.</ls> {#prAyaH svaM mahimAnaM kzoBAtpratipadyate hi janaH#}
+<ls>ŚĀK. 158.</ls> {%wieder aufnehmen%}: {#tataH putravatImenAM pratipatsye tvadAjYayA#}
+<ls>RAGH. 15,73.</ls>
+<div n="1">— 3) {%auf Etwas stossen, antreffen, finden%}: {#pratyapadyata ratnAni viviDAni#}
+<ls>HARIV. 6789.</ls>
+<div n="1">— 4) {%gewahr —, inne werden, hinter Etwas kommen, eine Kenntniss von Etwas erlangen, kennen lernen, erfahren, erkennen, einsehen, begreifen%}: {#timire hi kOSikAnAM rUpaM pratipadyate dfzwiH#}
+<ls>Spr. 57.</ls> {#jihvayA rasam#}
+<ls>BHĀG. P. 3,6,13.</ls> {#prARena saMsparSam#} 16. {#romaBiH kaRqUm#} 18. {#retasAnandam#} 19. {#cetasA vikriyAm#} 24. {#cittena vijYAnam#} 26. {#vivekena#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 287.</ls> {#manasApi hi karmARi yaH kAle pratipadyate . sa rAjA budDisaMpannaH parezAM mUrDni vartate ..#}
+<ls>R. 4,28,15.</ls>
+<ls>MBH. 5,6044.</ls> {#yaTA na nfpatirBImaH pratipadyeta me matam . taTA tvayA kartavyam#}
 [Page4-0438]
-
-<ls>3, 2759.</ls> {#te cApi pfzwA nEvAtra pratipatsyanti niScayam#} 
-<ls>R. GORR. 1, 8, 19.</ls> {#pratipatsyati rAjA sa pitA te yadanantaram#} {%wird wissen%} 
-<ls>MBH. 5, 6027.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> ? <ls>S. 305.</ls> <ls>ṚV. PRĀT. 14, 28.</ls> <ls>SĀH. D. 10, 4.</ls> {#pratipanna#} {%vertraut mit Etwas%}: {#pratipannAnsvakAryezu saMmohayasi no BfSam#} 
-<ls>MBH. 2. 1949.</ls> {#budDyA svapratipannezu kuryAtsADuzvanugraham#} 
-<ls>3, 11312.</ls> {#kaccittvaM dvizatAmarTaH#} (doch wohl {#arTe#} zu lesen) {#pratipannaSca sarvaSaH#} 
-<ls>R. GORR. 2, 109, 46.</ls> {%gekannt%}, = {#vidita, vijYAta#} 
-<ls>AK. 3, 2, 57.</ls> 
-<ls>H. 1496.</ls> 
-<ls>MED. n. 192.</ls> {#iti pratipannaM hi vicetanErapi#} 
-<ls>KUMĀRAS. 4, 33.</ls> 
-<div n="1">— 5) {%annehmen, dafür halten%} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 252. 315.</ls> {#tadaBedena svAtmAnaM pratipadyate#} {%er hält sich nicht für verschieden von jenem%} 
-<ls>SĀH. D. 26, 12.</ls> {#dehamAtraM cEtanyaviSizwamAtmeti prAkftA janA lokAyatikASca pratipannAH#} {%sind der Ansicht, sind davon überzeugt%} 
-<ls>WIND. <is>Sancara</is> 94, 1.</ls> 
-<div n="1">— 6) {%eingehen auf Etwas, ja sagen zu Etwas, zusagen, versprechen, sich einverstanden erklären mit%} (acc.), {%einwilligen, zugeben, anerkennen%} 
-<ls>ŚĀK. 66, 19.</ls> 
-<ls>KATHĀS. 33, 155.</ls> 
-<ls>TARKAS. 32.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 198, 4.</ls> {#taTA pratipadya#} 
-<ls>PAÑCAT. 129, 4.</ls> {#taTeti pratyapadyata#} 
-<ls>R. 1, 10, 15. 6, 1, 13.</ls> 
-<ls>KATHĀS. 7, 93.</ls> 
-<ls>BHĀG. P. 9, 14, 22.</ls> 
-<ls>PAÑCAT. 184, 5.</ls> {#taTeti pratipannavAn#} 
-<ls>KATHĀS. 27, 182.</ls> {#garuqe taTeti pratipanne#} 
-<ls>PAÑCAT. 48, 18.</ls> 
-<ls>RAGH. 15, 93.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 191, 17.</ls> {#pUrvapratipanna#} {%der vorher zugesagt hatte%} 
-<ls>KATHĀS. 32, 26.</ls> {#tayA taTeti pratipannam#} 
-<ls>PAÑCAT. ed. orn. 53, 12. 18.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 195, 2.</ls> {#mayoktA sA vacanaM pratipatsyate#} 
-<ls>MBH. 1, 4843.</ls> {#evamastviti tadvAkyaM prahfzwaH pratyapadyata#} 
-<ls>R. 3, 33, 6.</ls> 
-<ls>VID. 309.</ls> 
-<ls>SOM. NAL. 27.</ls> {#evaM me samayaM tvadya pratipadyasva#} 
-<ls>MBH. 4, 705.</ls> {#kiM pratipadyate vEdarBaH#} {%worauf geht er ein?%} 
-<ls>MĀLAV. 8, 13.</ls> 
-<ls>VID. 169.</ls> 
-<ls>KATHĀS. 4. 79. 27, 26. 36, 49. 38, 54.</ls> {#nahi me kAtaraM pratipadyate . ceto bAlivaDam#} 
-<ls>BHAṬṬ. 6, 111.</ls> {#etasyE vasUni pratyapadyata#} {%zusagen, versprechen%} 
-<ls>8, 74.</ls> {#tadDanurgrahaRameva rAGavaH pratyapadyata samarTamuttaram#} 
-<ls>RAGH. 11, 79.</ls> {#kaTAM kaTayitum#} 
-<ls>KATHĀS. 1, 45.</ls> mit dem acc. der Person {%Jmd ja sagen, auf Jmdes Forderungen eingehen%}: {#na mAse pratipattAse mAM cet#} 
-<ls>BHAṬṬ. 8, 95.</ls> {#pratipanna#} {%was man zugesagt hat, worein man eingewilligt hat, anerkannt%} 
-<ls>R. 2, 38, 7.</ls> {#pratipannamamalamanasAM na calati puMsAM yugAnte 'pi#} 
-<ls>Spr. 598.</ls> {#nirvAhaH pratipannavastuzu satAmetadDi gotravratam#} 
-<ls>672.</ls> {#kAryaM tvayA naH pratipannakalpam#} 
-<ls>KUMĀRAS. 3, 14.</ls> {#pratipannArTanirvAha#} 
-<ls>VID. 120. 237. 188.</ls> 
-<ls>PAÑCAT. 25, 11</ls> <ls>?(ed. orn. 22, 2). PRAB. 12, 9. VET. in LA. 4, 5. 24, 2. ŚUK. ebend. 44, 9.</ls> {%anerkannt%} (eine Schuld) 
-<ls>YĀJÑ. 2, 49.</ls> {#yataH sa pratipanno 'smAkaM BrAtA#} {%da wir ihn als unsern Bruder anerkannt haben%} 
-<ls>PAÑCAT. 206, 10.</ls> {#pratipanna = aNgIkfta#} 
-<ls>H. an. 4, 180.</ls> 
-<ls>MED. n. 192.</ls> 
-<div n="1">— 7) {%anfangen zu reden, anheben; antwortend beginnen%}: {#ko DizRyA\M prati\ vAca^M papAda#} 
-<ls>ṚV. 10, 114, 9.</ls> {#upaprEzam#} 
-<ls>AIT. BR. 2, 5.</ls> {#anuzwuBA rAtrIM#} (so v. a. {#rAtriSastraM) pratipadyeta#} 
-<ls>4, 6. 1, 19. 6, 33.</ls> <ls>ŚAT. BR. 1, 8, 1, 24. 2, 6, 1, 45. 13, 2, 7, 1. 14, 4, 2, 22.</ls> {%mit Etwas%} (instr.): {#vAyavyayA hotA pratipadyate#} 
-<ls>AIT. BR. 3, 4.</ls> {#prOgena#} 
-<ls>14. 44. 4, 7.</ls> <ls>ŚAT. BR. 2, 1, 4, 6. 14, 6, 9, 1.</ls> <ls>ŚĀṄKH. BR. 11, 4.</ls> <ls>GṚHY. 4, 8.</ls> <ls>KAUŚ. 50.</ls> {%beantworten%}: {#yatkiMca papracCa sarvaM ha pratipede#} 
-<ls>CHĀND. UP. 6, 7, 4.</ls> {#teByo na sarvamiva pratipatsye#} 
-<ls>5, 11, 3.</ls> {#uttaram#} {%eine Antwort geben%}: {#ucyamAno 'pi paruzaM nottaraM pratipadyate#} 
-<ls>R. 2, 1, 8.</ls> 
-<div n="1">— 8) {%sich an Etwas machen, thun, üben, vollbringen%}: {#tapaH pratipede#} 
-<ls>NIR. 2, 10.</ls> {#kalyARaM pratipatsyAmi viparItaM na jAtu cit#} 
-<ls>MBH. 1, 1936.</ls> {#idaM vacaH Sakzyasi cedyaTAvanniSamya sarvaM pratipattumeva#} 
-<ls>5, 1552.</ls> {#svaDarmaM pratipadyasva nADarmaM voQumarhasi#} 
-<ls>R. 1, 23, 7.</ls> {#svAM svAM pratipadyante - vfttim#} 
-<ls>SĀṂKHYAK. 31.</ls> {#vAcA vaktavyam#} 
-<ls>BHĀG. P. 3, 6, 12.</ls> {#pAyunA visargam#}
+<ls n="MBH.">3,2759.</ls> {#te cApi pfzwA nEvAtra pratipatsyanti niScayam#}
+<ls>R. GORR. 1,8,19.</ls> {#pratipatsyati rAjA sa pitA te yadanantaram#} {%wird wissen%}
+<ls>MBH. 5,6027.</ls>
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 305.</ls> <ls>ṚV. PRĀT. 14,28.</ls> <ls>SĀH. D. 10,4.</ls> {#pratipanna#} {%vertraut mit Etwas%}: {#pratipannAnsvakAryezu saMmohayasi no BfSam#}
+<ls>MBH. 2,1949.</ls> {#budDyA svapratipannezu kuryAtsADuzvanugraham#}
+<ls n="MBH.">3,11312.</ls> {#kaccittvaM dvizatAmarTaH#} (doch wohl {#arTe#} zu lesen) {#pratipannaSca sarvaSaH#}
+<ls>R. GORR. 2,109,46.</ls> {%gekannt%}, = {#vidita, vijYAta#}
+<ls>AK. 3,2,57.</ls>
+<ls>H. 1496.</ls>
+<ls>MED. n. 192.</ls> {#iti pratipannaM hi vicetanErapi#}
+<ls>KUMĀRAS. 4,33.</ls>
+<div n="1">— 5) {%annehmen, dafür halten%}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 252. 315.</ls> {#tadaBedena svAtmAnaM pratipadyate#} {%er hält sich nicht für verschieden von jenem%}
+<ls>SĀH. D. 26,12.</ls> {#dehamAtraM cEtanyaviSizwamAtmeti prAkftA janA lokAyatikASca pratipannAH#} {%sind der Ansicht, sind davon überzeugt%}
+<ls>WIND. <is>Sancara</is> 94,1.</ls>
+<div n="1">— 6) {%eingehen auf Etwas, ja sagen zu Etwas, zusagen, versprechen, sich einverstanden erklären mit%} (acc.), {%einwilligen, zugeben, anerkennen%}
+<ls>ŚĀK. 66,19.</ls>
+<ls>KATHĀS. 33,155.</ls>
+<ls>TARKAS. 32.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 198,4.</ls> {#taTA pratipadya#}
+<ls>PAÑCAT. 129,4.</ls> {#taTeti pratyapadyata#}
+<ls>R. 1,10,15.</ls> <ls n="R.">6,1,13.</ls>
+<ls>KATHĀS. 7,93.</ls>
+<ls>BHĀG. P. 9,14,22.</ls>
+<ls>PAÑCAT. 184,5.</ls> {#taTeti pratipannavAn#}
+<ls>KATHĀS. 27,182.</ls> {#garuqe taTeti pratipanne#}
+<ls>PAÑCAT. 48,18.</ls>
+<ls>RAGH. 15,93.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 191,17.</ls> {#pUrvapratipanna#} {%der vorher zugesagt hatte%}
+<ls>KATHĀS. 32,26.</ls> {#tayA taTeti pratipannam#}
+<ls>PAÑCAT. ed. orn. 53,12. 18.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 195,2.</ls> {#mayoktA sA vacanaM pratipatsyate#}
+<ls>MBH. 1,4843.</ls> {#evamastviti tadvAkyaM prahfzwaH pratyapadyata#}
+<ls>R. 3,33,6.</ls>
+<ls>VID. 309.</ls>
+<ls>SOM. NAL. 27.</ls> {#evaM me samayaM tvadya pratipadyasva#}
+<ls>MBH. 4,705.</ls> {#kiM pratipadyate vEdarBaH#} {%worauf geht er ein?%}
+<ls>MĀLAV. 8,13.</ls>
+<ls>VID. 169.</ls>
+<ls>KATHĀS. 4,79.</ls> <ls n="KATHĀS.">27,26.</ls> <ls n="KATHĀS.">36,49.</ls> <ls n="KATHĀS.">38,54.</ls> {#nahi me kAtaraM pratipadyate . ceto bAlivaDam#}
+<ls>BHAṬṬ. 6,111.</ls> {#etasyE vasUni pratyapadyata#} {%zusagen, versprechen%}
+<ls n="BHAṬṬ.">8,74.</ls> {#tadDanurgrahaRameva rAGavaH pratyapadyata samarTamuttaram#}
+<ls>RAGH. 11,79.</ls> {#kaTAM kaTayitum#}
+<ls>KATHĀS. 1,45.</ls> mit dem acc. der Person {%Jmd ja sagen, auf Jmdes Forderungen eingehen%}: {#na mAse pratipattAse mAM cet#}
+<ls>BHAṬṬ. 8,95.</ls> {#pratipanna#} {%was man zugesagt hat, worein man eingewilligt hat, anerkannt%}
+<ls>R. 2,38,7.</ls> {#pratipannamamalamanasAM na calati puMsAM yugAnte 'pi#}
+<ls>Spr. 598.</ls> {#nirvAhaH pratipannavastuzu satAmetadDi gotravratam#}
+<ls n="Spr.">672.</ls> {#kAryaM tvayA naH pratipannakalpam#}
+<ls>KUMĀRAS. 3,14.</ls> {#pratipannArTanirvAha#}
+<ls>VID. 120. 237. 188.</ls>
+<ls>PAÑCAT. 25,11</ls> (<ls n="PAÑCAT.">ed. orn. 22,2</ls>). <ls>PRAB. 12,9.</ls> <ls>VET. in LA. 4,5. 24,2.</ls> <ls>ŚUK. ebend. 44,9.</ls> {%anerkannt%} (eine Schuld)
+<ls>YĀJÑ. 2,49.</ls> {#yataH sa pratipanno 'smAkaM BrAtA#} {%da wir ihn als unsern Bruder anerkannt haben%}
+<ls>PAÑCAT. 206,10.</ls> {#pratipanna = aNgIkfta#}
+<ls>H. an. 4,180.</ls>
+<ls>MED. n. 192.</ls>
+<div n="1">— 7) {%anfangen zu reden, anheben; antwortend beginnen%}: {#ko DizRyA\M prati\ vAca^M papAda#}
+<ls>ṚV. 10,114,9.</ls> {#upaprEzam#}
+<ls>AIT. BR. 2,5.</ls> {#anuzwuBA rAtrIM#} (so v. a. {#rAtriSastraM) pratipadyeta#}
+<ls n="AIT. BR.">4,6. 1,19. 6,33.</ls> <ls>ŚAT. BR. 1,8,1,24. 2,6,1,45. 13,2,7,1. 14,4,2,22.</ls> {%mit Etwas%} (instr.): {#vAyavyayA hotA pratipadyate#}
+<ls>AIT. BR. 3,4.</ls> {#prOgena#}
+<ls n="AIT. BR.">14. 44. 4,7.</ls> <ls>ŚAT. BR. 2,1,4,6.</ls> <ls n="ŚAT. BR.">14,6,9,1.</ls> <ls>ŚĀṄKH. BR. 11,4.</ls> <ls>GṚHY. 4,8.</ls> <ls>KAUŚ. 50.</ls> {%beantworten%}: {#yatkiMca papracCa sarvaM ha pratipede#}
+<ls>CHĀND. UP. 6,7,4.</ls> {#teByo na sarvamiva pratipatsye#}
+<ls n="CHĀND. UP.">5,11,3.</ls> {#uttaram#} {%eine Antwort geben%}: {#ucyamAno 'pi paruzaM nottaraM pratipadyate#}
+<ls>R. 2,1,8.</ls>
+<div n="1">— 8) {%sich an Etwas machen, thun, üben, vollbringen%}: {#tapaH pratipede#}
+<ls>NIR. 2,10.</ls> {#kalyARaM pratipatsyAmi viparItaM na jAtu cit#}
+<ls>MBH. 1,1936.</ls> {#idaM vacaH Sakzyasi cedyaTAvanniSamya sarvaM pratipattumeva#}
+<ls n="MBH.">5,1552.</ls> {#svaDarmaM pratipadyasva nADarmaM voQumarhasi#}
+<ls>R. 1,23,7.</ls> {#svAM svAM pratipadyante — vfttim#}
+<ls>SĀṂKHYAK. 31.</ls> {#vAcA vaktavyam#}
+<ls>BHĀG. P. 3,6,12.</ls> {#pAyunA visargam#}
 [Page4-0439]
-20. {#karmaRA kartavyam#} 25. {%machen zu%}: {#mAM suKaM pratipadyasva#} {%mache mich glücklich%} 
-<ls>MBH. 4, 703.</ls> {%Jmd%} (loc. gen.) {%Etwas thun, gegen Jmd Etwas unternehmen, gegen Jmd verfahren, sich gegen Jmd benehmen%}: {#sa kAlayavanaScApi kiM kfzRe pratyapadyata#} 
-<ls>HARIV. 6425.</ls> {#kurURAM pARqavAnAM ca pratipatsva (!) nirAmayam#} 
-<ls>MBH. 5, 2809</ls> (unter {#nirAmaya#} falsch aufgefasst). {#yadviDaM pratipede hi rAme#} 
-<ls>R. 2, 87, 14.</ls> {#asADu pratipadyeta sapatnInAmacetanA#} 
-<ls>R. GORR. 2, 31, 12.</ls> {#sa BavAnmAtfpitfvadasmAsu pratipadyatAm#} 
-<ls>MBH. 5, 3428.</ls> {#tvayi samyaNmahAbAho pratipannA yaSasvinaH#} 
-<ls>4153.</ls> {#na yuktaM BavatAsmAsu pratipattumasAMpratam#} 
-<ls>3255.</ls> mit dem acc. der Person: {#(tAn) SizyavfttiM samApannAnguruvatpratyapadyata#} 
-<ls>15, 40.</ls> {#anyaTA pratipannAH#} {%die anders verfahren%} 
-<ls>14, 1013. 1015.</ls> 
-<div n="1">— 9) {%Statt finden%}: {#yasmAttu loke dfSyante kzamiRaH pfTivIsamAH . tasmAjjanma ca BUtAnAM BavaSca pratipadyate ..#} 
-<ls>MBH. 3, 1095.</ls> {%sich einstellen bei%} (acc.): {#yaSo mA pratipadyatAm#} 
-<ls>PĀR. GṚHY. 2, 6.</ls> 
-<div n="1">— 10) {%Jmd Etwas zukommen lassen%}: {#tasmE sAma ca pUjAM ca yaTAvatpratipedire#} 
-<ls>PADMA-P.</ls> in <ls>Verz. d. Oxf. H. 11,b,9 v. u.</ls> {%wieder abgeben%}: {#sa yadi pratipadyeta yaTAnyastaM yaTAkftam#} 
-<ls>M. 8, 183.</ls> 
-<div n="1">— 11) {#pratipanna = vikrAnta#} (vielleicht nur fehlerhaft für {#vijYAta#}) 
-<ls>H. an. 4, 180.</ls> — Accent eines auf {#pratipanna#} ausgehenden comp. 
-<ls>P. 6, 2, 170. -</ls> <ls>MBH. 2, 475</ls> ist st. {#pratipadBiSca#}, wofür 
-<ls>WESTERGAARD</ls> stillschweigend {#pratipadyadBiSca#} (gegen das Versmaass) setzt, {#pratiyadBiSca#} zu lesen. 
-<div n="v">— Vgl. {#pratipattavya, °patti, °pad, °pAdya#} . — caus. 
-<div n="1"> 1) {%hinführen zu hinschaffen zu, herbeischaffen%}: {#aparAjitAm#} 
-<ls>KAUŚ. 17.</ls> {#ftuparRaM janA rAjYe BImAya pratyapAdayan#} 
-<ls>MBH. 3, 2852.</ls> {#etena tUrRaM pratipAdayemAn SvetAnhayAn#} 
-<ls>4, 1663.</ls> {#tadAjyaBAgAvantareRAhutIH pratipAdayet#} 
-<ls>MUṆḌ. UP. 1, 2, 2.</ls> {#SastrARi yantraM kavacAnraTAMSca nagAnhayAMSca pratipAdayitvA#} 
-<ls>MBH. 5, 2714.</ls> 
-<div n="1">— 2) {%Jmd%} (acc.) {%zu Etwas%} (acc.) {%gelangen lassen, theilhaftig machen%} 
-<ls>MBH. 10, 610.</ls> {#sarvaratnAni rAjA tu yaTArhaM pratipAdayet . brAhmaRAnvedaviduzaH#} 
-<ls>M. 11, 4.</ls> {#tAByAM ca yatra sa muniryOvanaM pratipAditaH#} 
-<ls>MBH. 1, 446.</ls> {#putraM me - EhikAmuzmikaPalaM tatsamyakpratipAdaya#} 
-<ls>MĀRK. P. 26, 33.</ls> {#kftamaNgalAm . vEvAhikaviDiM kanyAM pratipAdya#} 
-<ls>21, 62</ls> {#saMskAraM pratipAditO#} 
-<ls>HARIV. 9104.</ls> {#ayaSo jIvaloke ca tvayAhaM pratipAditaH#} 
-<ls>R. 2, 74, 6.</ls> {#aDarmAtpAhi mAM rAjanDarmaM ca pratipAdaya#} so v. a. {%lass mir mein Recht, schmälere mir nicht mein Recht%} 
-<ls>MBH. 1, 3417. 5,</ls> <ls>?6077; vgl. u. 6</ls> am Anfange. 
-<div n="1">— 3) {%Jmd%} (loc. dat. gen.) {%Etwas geben, übergeben, schenken%} 
-<ls>KAUŚ. 42. 76. 77.</ls> {#tatra yadrikTajAtaM syAttattasminpratipAdayet#} 
-<ls>M. 9, 190. 244.</ls> {#DanAni tu yaTASakti viprezu pratipAdayet#} 
-<ls>11, 6.</ls> <ls>MBH. 13, 1569.</ls> {#gfham - BAradvAjAya suprItaH pratyapAdayata#} 
-<ls>1, 5213.</ls> {#astraM pratyapAdayat#} 
-<ls>HARIV. 773.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 1, 72. 15, (23</ls> <ls>SCHL.</ls><ls>?). R. SCHL. 1, 28, 31. BHARTṚ. 2, 13. RAGH. 5, 15. KATHĀS. 35, 96. MĀRK. P. 20, 49. RĀJA-TAR. 1, 316. 2, 132. 3, 181. 187. 307. 322. 4, 193.</ls> {#grAmaH - agrahAratvena pratipAditaH#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 6, 539, 15.</ls> {#satyavatI nAma fcIke pratipAditA#} {%zur Gattin gegeben%} 
-<ls>R. 1, 35, 7 (36, 7 GORR.).</ls> {#tAM tasmE pratipAdaya#} 
-<ls>MBH. 1, 1639.</ls> 
-<ls>KUMĀRAS. 6, 79.</ls> 
-<ls>MĀRK. P. 15, 37.</ls> 
-<ls>PAÑCAT. 184, 6.</ls> 
-<ls>KATHĀS. 4, 19.</ls> {#vidyeva kanyakA mohAdapAtre pratipAditA#} {%mitgetheilt, gelehrt%} und {%gegeben%} 
-<ls>KATHĀS. 24, 26.</ls> das obj. im gen. (!): {#pratiSrutasya yo 'nISaH pratipAdayituM BavAn#} 
-<ls>BHĀG. P. 8, 19, 35.</ls> 
-<div n="1">— 4) {%einsetzen in%} (loc.): {#sugrIvameva tadrAjye rAGavaH pratyapAdayat#} 
-<ls>R. 1, 1, 68. 5, 32, 20.</ls> {#yadadya rAjA sutam - yOvarAjye pratipAdayizyati#} 
-<ls>R. GORR. 2, 6, 33.</ls> 
-<div n="1">— 5) {%bewirken, bereiten, verursachen, hervorrufen%}: {#vEre 'sminpratipAdite#} 
-<ls>R. 4, 22, 20.</ls> {#mama prItirmahatI pratipAditA#} 
-<ls>MBH. 7, 6456.</ls>
+20. {#karmaRA kartavyam#} 25. {%machen zu%}: {#mAM suKaM pratipadyasva#} {%mache mich glücklich%}
+<ls>MBH. 4,703.</ls> {%Jmd%} (loc. gen.) {%Etwas thun, gegen Jmd Etwas unternehmen, gegen Jmd verfahren, sich gegen Jmd benehmen%}: {#sa kAlayavanaScApi kiM kfzRe pratyapadyata#}
+<ls>HARIV. 6425.</ls> {#kurURAM pARqavAnAM ca pratipatsva (!) nirAmayam#}
+<ls>MBH. 5,2809</ls> (unter {#nirAmaya#} falsch aufgefasst). {#yadviDaM pratipede hi rAme#}
+<ls>R. 2,87,14.</ls> {#asADu pratipadyeta sapatnInAmacetanA#}
+<ls>R. GORR. 2,31,12.</ls> {#sa BavAnmAtfpitfvadasmAsu pratipadyatAm#}
+<ls>MBH. 5,3428.</ls> {#tvayi samyaNmahAbAho pratipannA yaSasvinaH#}
+<ls n="MBH. 5,">4153.</ls> {#na yuktaM BavatAsmAsu pratipattumasAMpratam#}
+<ls n="MBH. 5,">3255.</ls> mit dem acc. der Person: {#(tAn) SizyavfttiM samApannAnguruvatpratyapadyata#}
+<ls n="MBH.">15,40.</ls> {#anyaTA pratipannAH#} {%die anders verfahren%}
+<ls n="MBH.">14,1013.</ls> <ls n="MBH. 14,">1015.</ls>
+<div n="1">— 9) {%Statt finden%}: {#yasmAttu loke dfSyante kzamiRaH pfTivIsamAH . tasmAjjanma ca BUtAnAM BavaSca pratipadyate ..#}
+<ls>MBH. 3,1095.</ls> {%sich einstellen bei%} (acc.): {#yaSo mA pratipadyatAm#}
+<ls>PĀR. GṚHY. 2,6.</ls>
+<div n="1">— 10) {%Jmd Etwas zukommen lassen%}: {#tasmE sAma ca pUjAM ca yaTAvatpratipedire#}
+<ls>PADMA-P.</ls> in <ls>Verz. d. Oxf. H. 11,b,9</ls> v. u. {%wieder abgeben%}: {#sa yadi pratipadyeta yaTAnyastaM yaTAkftam#}
+<ls>M. 8,183.</ls>
+<div n="1">— 11) {#pratipanna = vikrAnta#} (vielleicht nur fehlerhaft für {#vijYAta#})
+<ls>H. an. 4,180.</ls> — Accent eines auf {#pratipanna#} ausgehenden comp.
+<ls>P. 6,2,170.</ls> — <ls>MBH. 2,475</ls> ist st. {#pratipadBiSca#}, wofür
+<ls>WESTERGAARD</ls> stillschweigend {#pratipadyadBiSca#} (gegen das Versmaass) setzt, {#pratiyadBiSca#} zu lesen.
+<div n="v">— Vgl. {#pratipattavya, °patti, °pad, °pAdya#} . — caus.
+<div n="1"> 1) {%hinführen zu hinschaffen zu, herbeischaffen%}: {#aparAjitAm#}
+<ls>KAUŚ. 17.</ls> {#ftuparRaM janA rAjYe BImAya pratyapAdayan#}
+<ls>MBH. 3,2852.</ls> {#etena tUrRaM pratipAdayemAn SvetAnhayAn#}
+<ls n="MBH.">4,1663.</ls> {#tadAjyaBAgAvantareRAhutIH pratipAdayet#}
+<ls>MUṆḌ. UP. 1,2,2.</ls> {#SastrARi yantraM kavacAnraTAMSca nagAnhayAMSca pratipAdayitvA#}
+<ls>MBH. 5,2714.</ls>
+<div n="1">— 2) {%Jmd%} (acc.) {%zu Etwas%} (acc.) {%gelangen lassen, theilhaftig machen%}
+<ls>MBH. 10,610.</ls> {#sarvaratnAni rAjA tu yaTArhaM pratipAdayet . brAhmaRAnvedaviduzaH#}
+<ls>M. 11,4.</ls> {#tAByAM ca yatra sa muniryOvanaM pratipAditaH#}
+<ls>MBH. 1,446.</ls> {#putraM me — EhikAmuzmikaPalaM tatsamyakpratipAdaya#}
+<ls>MĀRK. P. 26,33.</ls> {#kftamaNgalAm . vEvAhikaviDiM kanyAM pratipAdya#}
+<ls n="MĀRK. P.">21,62</ls> {#saMskAraM pratipAditO#}
+<ls>HARIV. 9104.</ls> {#ayaSo jIvaloke ca tvayAhaM pratipAditaH#}
+<ls>R. 2,74,6.</ls> {#aDarmAtpAhi mAM rAjanDarmaM ca pratipAdaya#} so v. a. {%lass mir mein Recht, schmälere mir nicht mein Recht%}
+<ls>MBH. 1,3417.</ls> <ls n="MBH.">5,6077</ls>; vgl. u. 6 am Anfange.
+<div n="1">— 3) {%Jmd%} (loc. dat. gen.) {%Etwas geben, übergeben, schenken%}
+<ls>KAUŚ. 42. 76. 77.</ls> {#tatra yadrikTajAtaM syAttattasminpratipAdayet#}
+<ls>M. 9,190.</ls> <ls n="M. 9,">244.</ls> {#DanAni tu yaTASakti viprezu pratipAdayet#}
+<ls n="M.">11,6.</ls> <ls>MBH. 13,1569.</ls> {#gfham — BAradvAjAya suprItaH pratyapAdayata#}
+<ls n="MBH.">1,5213.</ls> {#astraM pratyapAdayat#}
+<ls>HARIV. 773.</ls>
+<ls>R. GORR. 1,1,72.</ls> <ls n="R. GORR. 1,">15,23</ls>, (<ls n="SCHL. 1,15,">25</ls> <ls>SCHL.</ls>). <ls>R. SCHL. 1,28,31.</ls> <ls>BHARTṚ. 2,13.</ls> <ls>RAGH. 5,15.</ls> <ls>KATHĀS. 35,96.</ls> <ls>MĀRK. P. 20,49.</ls> <ls>RĀJA-TAR. 1,316. 2,132. 3,181. 187. 307. 322. 4,193.</ls> {#grAmaH — agrahAratvena pratipAditaH#} Inschr. in
+<ls>Journ. of the Am. Or. S. 6,539,15.</ls> {#satyavatI nAma fcIke pratipAditA#} {%zur Gattin gegeben%}
+<ls>R. 1,35,7</ls> (<ls n="GORR. 1,">36,7</ls> <ls>GORR.</ls>). {#tAM tasmE pratipAdaya#}
+<ls>MBH. 1,1639.</ls>
+<ls>KUMĀRAS. 6,79.</ls>
+<ls>MĀRK. P. 15,37.</ls>
+<ls>PAÑCAT. 184,6.</ls>
+<ls>KATHĀS. 4,19.</ls> {#vidyeva kanyakA mohAdapAtre pratipAditA#} {%mitgetheilt, gelehrt%} und {%gegeben%}
+<ls>KATHĀS. 24,26.</ls> das obj. im gen. (!): {#pratiSrutasya yo 'nISaH pratipAdayituM BavAn#}
+<ls>BHĀG. P. 8,19,35.</ls>
+<div n="1">— 4) {%einsetzen in%} (loc.): {#sugrIvameva tadrAjye rAGavaH pratyapAdayat#}
+<ls>R. 1,1,68.</ls> <ls n="R.">5,32,20.</ls> {#yadadya rAjA sutam — yOvarAjye pratipAdayizyati#}
+<ls>R. GORR. 2,6,33.</ls>
+<div n="1">— 5) {%bewirken, bereiten, verursachen, hervorrufen%}: {#vEre 'sminpratipAdite#}
+<ls>R. 4,22,20.</ls> {#mama prItirmahatI pratipAditA#}
+<ls>MBH. 7,6456.</ls>
 [Page4-0440]
-{#pratipAdayizyatA navavEDavyam#} 
-<ls>KUMĀRAS. 4, 1.</ls> {#yatnena pratipAditA muKarayormaYjIrayormUkatA#} 
-<ls>SĀH. D. 47, 4.</ls> 
-<div n="1">— 6) {%zu wissen thun, darlegen, auseinandersetzen, lehren, klar machen%}: {#jAtijAnapadAnDarmAn SreRIDarmAMSca Darmavit . samIkzya kulaDarmAMSca svaDarmaM pratipAdayet ..#} 
-<ls>M. 8, 41. 391.</ls> {#sa tvaM DarmAdvyapagatam - svaDarmaM pratipAdaya#} 
-<ls>R. 4, 17, 50</ls>; vgl. oben u. 2 am Ende. {#yaccApi sarvagaM vastu taccEva pratipAditam#} 
-<ls>MBH. 1, 70.</ls> {#AdeSamasmAkaM pratipAdaya#} 
-<ls>PRAB. 34, 1.</ls> {#yErIdfSI Bagavato gatiH - pratipAditA naH#} 
-<ls>BHĀG. P. 4, 22, 47.</ls> {#liNgAtpratipAditAt#} 
-<ls>TARKAS. 32.</ls> <ls>DAŚAR.1,52.</ls> <ls>Verz. d. Oxf. H. 161,b,23. fg.</ls> <ls>SĀH. D. 20,9.</ls> {#sa (DarmaH) sarvo vede pratipAditaH#} 
-<ls>KULL.</ls> zu <ls>M. 2, 1. 7.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 19, 2 v. u.</ls> <ls>Schol.</ls> zu <ls>KAP. 1, 56.</ls> zu <ls>JAIM. 1, 17.</ls> zu <ls>ṚV. PRĀT. 2, 44.</ls> <ls n="ṚV. PRĀT.">3, 16.</ls> {#pratipAditatva#} 
-<ls>SĀH. D. 4, 3.</ls> 
-<div n="1">— 7) {%ansehen —, halten für%}: {#yatpaSuM sArameyaM pratipAdayasi#} 
-<ls>PAÑCAT. 169, 22.</ls> 
-<div n="v">— Vgl. {#pratipAdaka#} u. s. w. — desid. vom caus. {%darzulegen —, auseinanderzusetzen im Sinne haben%}: {#sarvasyAmupanizadi pratipipAdayizito 'rTaH#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 207</ls>; vgl. {#pratipipAdayizu#} .
-
-<div n="p">— {#aBiprati#} {%anheben mit%} oder {%bei Jmd%}: {#mAmaBipratipatsyati#} 
-<ls>AIT. BR. 2, 16. 3, 14.</ls>
-
-<div n="p">— {#viprati#} {%nach verschiedenen Richtungen hin gehen, hierhin und dorthin sich begeben%}: {#vetTa yaTemAH prajAH prayatyo vipratipadyAntE 3#} 
-<ls>ŚAT. BR. 14, 9, 1, 2.</ls> {%hierhin und dorthin sich wenden, nicht wissen was zu thun ist, mit sich uneins sein%}: {#yezu vipratipadyante zawsu (paYcasvindriyezu manasi ca) mohAtPalAgame . tezvaDyavasitADyAyI vindate DyAnajaM Palam ..#} 
-<ls>MBH. 3, 13946.</ls> {#kftvA bahUnyakarmARi pARqavezu nfSaMsavat . miTyAvfttiranAryaH sannadya vipratipadyase ..#} 
-<ls>5, 4276.</ls> {#SrutivipratipannA te yadA sTAsyati niScalA . samADAvacalA budDiH#} 
-<ls>BHAG. 2, 53.</ls> 
-<ls>R. 2, 109, 1</ls> ({#vipanna#} 
-<ls>GORR.</ls>). {%auseinandergehen, verschiedener Ansicht sein%}: {#nahi GawAdO pratyakzavizaye kaScidvipratipadyate nAsti Gawa iti#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 8.</ls> {#atra vipratipadyante#} 
-<ls>145, ult.</ls> {#evaM hi bahavo vipratipannAH#} 
-<ls>WIND. <is>Sancara</is> 94, 5.</ls> 
+{#pratipAdayizyatA navavEDavyam#}
+<ls>KUMĀRAS. 4,1.</ls> {#yatnena pratipAditA muKarayormaYjIrayormUkatA#}
+<ls>SĀH. D. 47,4.</ls>
+<div n="1">— 6) {%zu wissen thun, darlegen, auseinandersetzen, lehren, klar machen%}: {#jAtijAnapadAnDarmAn SreRIDarmAMSca Darmavit . samIkzya kulaDarmAMSca svaDarmaM pratipAdayet ..#}
+<ls>M. 8,41.</ls> <ls n="M. 8,">391.</ls> {#sa tvaM DarmAdvyapagatam — svaDarmaM pratipAdaya#}
+<ls>R. 4,17,50</ls>; vgl. oben u. 2 am Ende. {#yaccApi sarvagaM vastu taccEva pratipAditam#}
+<ls>MBH. 1,70.</ls> {#AdeSamasmAkaM pratipAdaya#}
+<ls>PRAB. 34,1.</ls> {#yErIdfSI Bagavato gatiH — pratipAditA naH#}
+<ls>BHĀG. P. 4,22,47.</ls> {#liNgAtpratipAditAt#}
+<ls>TARKAS. 32.</ls> <ls>DAŚAR. 1,52.</ls> <ls>Verz. d. Oxf. H. 161,b,23. fg.</ls> <ls>SĀH. D. 20,9.</ls> {#sa (DarmaH) sarvo vede pratipAditaH#}
+<ls>KULL.</ls> zu <ls>M. 2,1.</ls> <ls n="M. 2,">7.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,19,2</ls> v. u. <ls>Schol.</ls> zu <ls>KAP. 1,56.</ls> zu <ls>JAIM. 1,17.</ls> zu <ls>ṚV. PRĀT. 2,44.</ls> <ls n="ṚV. PRĀT.">3,16.</ls> {#pratipAditatva#}
+<ls>SĀH. D. 4,3.</ls>
+<div n="1">— 7) {%ansehen —, halten für%}: {#yatpaSuM sArameyaM pratipAdayasi#}
+<ls>PAÑCAT. 169,22.</ls>
+<div n="v">— Vgl. {#pratipAdaka#} u. s. w. — desid. vom caus. {%darzulegen —, auseinanderzusetzen im Sinne haben%}: {#sarvasyAmupanizadi pratipipAdayizito 'rTaH#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 207</ls>; vgl. {#pratipipAdayizu#} .
+<div n="p">— {#aBiprati#} {%anheben mit%} oder {%bei Jmd%}: {#mAmaBipratipatsyati#}
+<ls>AIT. BR. 2,16.</ls> <ls n="AIT. BR.">3,14.</ls>
+<div n="p">— {#viprati#} {%nach verschiedenen Richtungen hin gehen, hierhin und dorthin sich begeben%}: {#vetTa yaTemAH prajAH prayatyo vipratipadyAntE 3#}
+<ls>ŚAT. BR. 14,9,1,2.</ls> {%hierhin und dorthin sich wenden, nicht wissen was zu thun ist, mit sich uneins sein%}: {#yezu vipratipadyante zawsu (paYcasvindriyezu manasi ca) mohAtPalAgame . tezvaDyavasitADyAyI vindate DyAnajaM Palam ..#}
+<ls>MBH. 3,13946.</ls> {#kftvA bahUnyakarmARi pARqavezu nfSaMsavat . miTyAvfttiranAryaH sannadya vipratipadyase ..#}
+<ls n="MBH.">5,4276.</ls> {#SrutivipratipannA te yadA sTAsyati niScalA . samADAvacalA budDiH#}
+<ls>BHAG. 2,53.</ls>
+<ls>R. 2,109,1</ls> ({#vipanna#}
+<ls>GORR.</ls>). {%auseinandergehen, verschiedener Ansicht sein%}: {#nahi GawAdO pratyakzavizaye kaScidvipratipadyate nAsti Gawa iti#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 8.</ls> {#atra vipratipadyante#}
+<ls n="BṚH. ĀR. UP. S.">145,ult.</ls> {#evaM hi bahavo vipratipannAH#}
+<ls>WIND. Sancara 94,5.</ls>
 <div n="v">— Vgl. {#vipratipatti#} .
-
-<div n="p">— {#saMprati#} 
-<div n="1"> 1) {%gelangen zu%}: {#anilaH pravfdDastiryaggAH sirAH saMpratipadya#} 
-<ls>SUŚR. 1, 267, 13.</ls> {%herantreten, herbeikommen%}: {#tasmE saMpratipannAya yaTAvatparipfcCate . SizyAya#} 
-<ls>MBH. 14, 946.</ls> {%hingehen zu Jmd%} (acc.) 
-<ls>ŚIŚ. 16, 13</ls> (nach einer anderen Erklärung mit {#raRena#} verbunden so v. a. {%angreifen). über Jmd kommen, zustossen%}: {#vyasanaM hi mahArAjYo mohAtsaMpratipadyate#} 
-<ls>PAÑCAT. ed. orn. I, 164.</ls> 
-<div n="1">— 2) {%gelangen zu, erhalten, wiedererhalten%}: {#nazwaM DanaM svAmI kzipraM saMpratipadyate#} 
-<ls>R. 3, 73, 16.</ls> {%empfangen%}: {#kAmAdvaraM dadAmIti tadvE saMpratipadyatAm#} 
-<ls>HARIV. 12201.</ls> 
-<div n="1">— 3) {%über Jmd%} oder {%Etwas einig werden, sich verständigen%}: {#(sarve) tvayi saMpratipatsyante DarmAtmA satyavAgiti#} 
-<ls>MBH. 5, 2706.</ls> {#tasmAtsumantritaM sADu BavantaH - kAryaM saMpratipadyantAm#} 
-<ls>R. 5, 77, 16.</ls> {#saMpratipannamarTam#} {%anerkannt%} 
-<ls>KULL.</ls> zu <ls>M. 8, 50.</ls> {#dvyAmuzyAyaRastu janakapratigrahItfByAmAvayorayamiti saMpratipannaH#} s. u. {#dvyAmuzyAyaRa#} . 
-<div n="1">— 4) {%halten für, ansehen%}: {#na mAM paraM saMpratipattumarhasi#} 
-<ls>KUMĀRAS. 5, 39.</ls> 
-<div n="1">— 5) {%vollbringen%}: {#yo vrataM vE yaToddizwaM taTA saMpratipadyate . aKaRqaM samyagAraBya tasya lokAH sanAtanAH ..#} 
-<ls>MBH. 13, 3629.</ls> 
-<div n="v">— Vgl. {#saMpratipatti#} . — caus. {%zukommen lassen, geben%}: {#BagavansADu me 'dyAnyatsTAnaM saMpratipAdaya#} 
-<ls>MBH. 3, 12759.</ls> {#BUmidAnasya - vAsudeve - saMpratipAditasya#} 
-<ls>BHĀG. P. 5, 24, 19.</ls> Vgl. {#saMpratipAdana#} .
-
-<div n="p">— {#vi#} 
+<div n="p">— {#saMprati#}
+<div n="1"> 1) {%gelangen zu%}: {#anilaH pravfdDastiryaggAH sirAH saMpratipadya#}
+<ls>SUŚR. 1,267,13.</ls> {%herantreten, herbeikommen%}: {#tasmE saMpratipannAya yaTAvatparipfcCate . SizyAya#}
+<ls>MBH. 14,946.</ls> {%hingehen zu Jmd%} (acc.)
+<ls>ŚIŚ. 16,13</ls> (nach einer anderen Erklärung mit {#raRena#} verbunden so v. a. {%angreifen). über Jmd kommen, zustossen%}: {#vyasanaM hi mahArAjYo mohAtsaMpratipadyate#}
+<ls>PAÑCAT. ed. orn. I,164.</ls>
+<div n="1">— 2) {%gelangen zu, erhalten, wiedererhalten%}: {#nazwaM DanaM svAmI kzipraM saMpratipadyate#}
+<ls>R. 3,73,16.</ls> {%empfangen%}: {#kAmAdvaraM dadAmIti tadvE saMpratipadyatAm#}
+<ls>HARIV. 12201.</ls>
+<div n="1">— 3) {%über Jmd%} oder {%Etwas einig werden, sich verständigen%}: {#(sarve) tvayi saMpratipatsyante DarmAtmA satyavAgiti#}
+<ls>MBH. 5,2706.</ls> {#tasmAtsumantritaM sADu BavantaH — kAryaM saMpratipadyantAm#}
+<ls>R. 5,77,16.</ls> {#saMpratipannamarTam#} {%anerkannt%}
+<ls>KULL.</ls> zu <ls>M. 8,50.</ls> {#dvyAmuzyAyaRastu janakapratigrahItfByAmAvayorayamiti saMpratipannaH#} s. u. {#dvyAmuzyAyaRa#} .
+<div n="1">— 4) {%halten für, ansehen%}: {#na mAM paraM saMpratipattumarhasi#}
+<ls>KUMĀRAS. 5,39.</ls>
+<div n="1">— 5) {%vollbringen%}: {#yo vrataM vE yaToddizwaM taTA saMpratipadyate . aKaRqaM samyagAraBya tasya lokAH sanAtanAH ..#}
+<ls>MBH. 13,3629.</ls>
+<div n="v">— Vgl. {#saMpratipatti#} . — caus. {%zukommen lassen, geben%}: {#BagavansADu me 'dyAnyatsTAnaM saMpratipAdaya#}
+<ls>MBH. 3,12759.</ls> {#BUmidAnasya — vAsudeve — saMpratipAditasya#}
+<ls>BHĀG. P. 5,24,19.</ls> Vgl. {#saMpratipAdana#} .
+<div n="p">— {#vi#}
 <div n="1"> 1) {%verkehrt gehen, missglücken, missrathen, misslingen; in%}
 [Page4-0441]
-{%eine schlimme Lage kommen, in's Unglück gerathen, zu Nichte werden, dahin gehen, zu Grunde gehen, umkommen, sterben%}: {#AramBA vipadyante#} 
-<ls>ṢAḌV. BR. 5, 6.</ls> {#vipannasasyeva#} (Gegens. {#nizpanna, saMpanna#} {%gerathen%}) 
-<ls>MBH. 7, 26. 8, 3036.</ls> 
-<ls>VARĀH. BṚH. S. 19, 9.</ls> {#vipannakftyAH (devatAH)#} 
-<ls>13, 4191.</ls> {#dEvena vipannArTaH (dEvavipannAtmA#} 
-<ls>R. GORR. 2, 20, 21</ls>) {#puruzaH#} 
-<ls>R. 2, 23, 18.</ls> {#aho mama sutAnAM hi vipannaM sUta jIvitam#} {%ist dahin%} 
-<ls>MBH. 7, 5558.</ls> {#yaTA ca mfRmayaM BARqaM cakrArUQaM vipadyate#} 
-<ls>11, 95.</ls> {#cittanASAdvipadyante sarvARyevendriyARi me . kzIRasnehasya dIpasya saMsaktA raSmayo yaTA ..#} 
-<ls>R. 2, 64, 68.</ls> {#yaTA budDirna vipadyeta kfcCrataH#} 
-<ls>BHĀG. P. 7, 12, 22.</ls> {#budDyA vipannayA (vipratipannayA#} 
-<ls>SCHL.</ls>) <ls>R. GORR. 2, 118, 1.</ls> {#dehaM vipannAKilacetanAdikam#} 
-<ls>BHĀG. P. 4, 23, 21.</ls> {#avipadyatAtmanA#} 
-<ls>6, 1, 8.</ls> {#vipannadehe mayi#} 
-<ls>MṚCCH. 15, 23.</ls> {#vipannadIDiti#} 
-<ls>Spr. 791.</ls> {#SlakzRayA vAcA pUrvaSokavipannayA#} {%zu Nichte geworden, schwach%} 
-<ls>R. 6, 10, 5.</ls> {#sa tena duHKamApnoti paratra ca vipadyate#} {%erfährt Schlimmes, geräth in Unglück%} 
-<ls>MBH. 3, 13907.</ls> {#vipanna#} {%in's Unglück gerathen%}: {#vipannAnAmApadudDaraRakzama#} 
-<ls>HIT. I, 27.</ls> = {#vipadrata#} 
-<ls>TRIK. 3, 3, 363.</ls> = {#vipadAkrAnta#} 
-<ls>MED. n. 132.</ls> = {#nazwa#} 
-<ls>H. an. 3, 418.</ls> {#nArI garBayutA vipadyate#} so v. a. {%eine Fehlgeburt thun%} 
-<ls>VARĀH. BṚH. 4, 7.</ls> {#yOvanasTo 'Ta maDyasTo vfdDo vApi vipadyate#} {%kömmt um%} 
-<ls>MBH. 11, 99.</ls> {#dEvena kila yasyArTaH sa nIto 'pi vipadyate#} 
-<ls>?4, 612. KATHĀS. 4, 129. 27, 120. 29, 138. 33, 72. 42, 99. 134. HIT. IV, 46. RĀJA-TAR. 2, 32. 4, 527. 5, 209. 221. 239. 261. 6, 27. MĀRK. P. 22, 43.</ls> {#vipanna#} {%umgekommen%} 
-<ls>MṚCCH. 140, 11.</ls> 
-<ls>ŚĀK. 90, 19.</ls> 
-<ls>KATHĀS. 9, 77. 39, 182.</ls> 
-<ls>VID. 195. 198.</ls> 
-<ls>BHĀG. P. 3, 2, 31. 5, 13, 13. fg.</ls> 
-<div n="1">— 2) {%hindernd in den Weg kommen%}: {#varzaM vidyutstanayitnurvA vipadyate#} 
-<ls>KAUŚ. 141.</ls> 
-<div n="v">— Vgl. {#vipatti, vipad#} . — caus. {%umbringen%} 
-<ls>RĀJA-TAR. 2, 79. 6, 106. 281.</ls>
-
-<div n="p">— {#sam#} 
-<div n="1"> 1) {%zufallen, zu Theil werden, gelingen, in Erfüllung gehen, gerathen, zu Stande kommen%}: {#tanme\ sarva\M saM pa^dyatAm#} 
-<ls>AV. 10, 9, 27.</ls> 
-<ls>KATHĀS. 7, 6.</ls> {#yo ha vE saMpadaM veda saM hAsmE padyate#} 
-<ls>ŚAT. BR. 14, 9, 2, 4.</ls> {#yatkAmayeta tadaSnIyAdyadvA saMpadyeta#} 
-<ls>3, 1, 2, 1.</ls> <ls>KAUŚ. 68.</ls> {#BojanAcCAdanAByaDikaM svalpamapyarTamAtraM na saMpadyate#} 
-<ls>PAÑCAT. 132, 25.</ls> {#dvayorapi vinipAtaH saMpadyate#} 
-<ls>?92, 6. VIKR. 42, 9. RAGH. 14, 76. MBH. 3, 8173. R. 1, 65, 24. VET. in LA. 33, 4.</ls> {#taTA na SAstrAtikrameRa DanavidyAderAgamo manuzyAnprati saMpadyate#} 
-<ls>KULL.</ls> zu <ls>M. 1, 81.</ls> {#yo ha vE saMpadaM veda saM hAsmE kAmAH saMpadyante#} 
-<ls>CHĀND. UP. 5, 1, 4.</ls> {#priyaH kAmo na te saMpatsyate kvacit#} 
-<ls>MBH. 1, 3485. 7199</ls> <ls>?(act.). 5, 170. KUMĀRAS. 2, 54. BHĀG. P. 6, 7, 27.</ls> {#sarve saMpatsyante manoraTAH#} 
-<ls>MBH. 14, 154.</ls> 
-<ls>PRAB. 117, 10.</ls> {#etAvadBavatAmaBilazitaM saMpannam#} 
-<ls>HIT. 44, 8.</ls> {#samIhitam#} 
-<ls>DHŪRTAS. 77, 14.</ls> {#cintayizyasi yatkiMcittacca saMpatsyate tava#} 
-<ls>KATHĀS. 42, 119.</ls> 
-<ls>MĀLAV. 95.</ls> {#mA tatsaM pA^di\ yada\sO ju\hoti^#} 
-<ls>AV. 7, 70, 2.</ls> {#yaTAkleSamaBimatArTasidDayaH saMpadyante#} 
-<ls>PRAB. 61, 12.</ls> {#kaTamamunA svalpabalenEtatsaMpatsyate#} 
-<ls>HIT. 104, 5.</ls> {#saMpatsyantu ca me kriyAH#} 
-<ls>HARIV. 6086.</ls> {#prayatnaste na kartavyo nEza saMpatsyate tava#} 
-<ls>MBH. 5, 4004.</ls> {#asminkarmaRi saMpanne#} 
-<ls>3, 2656.</ls> <ls>M. 3, 254.</ls> {#vaco hi paruzAkzaraM na ca padezu saMpadyate#} ad 
-<ls>ŚĀK. 69, 2, v. l.</ls> {#aTa tasminkalO kiyatsaMpannam#} 
-<ls>PRAB. 30, 10.</ls> {#suvarRena catuHSAlaM gfhaM saMpatsyate#} 
-<ls>PAÑCAT. 252, 18.</ls> {#saMpadyate yaTA subIjaM cEva sukzetre jAtam#} {%geräth%} 
-<ls>M. 6, 69.</ls> {#saMpannasasyA ca mahI#} {%gerathen%} 
-<ls>MBH. 4, 931.</ls> {#vasumatI sarvasaMpannasasyA#} 
-<ls>MṚCCH. 178, 9.</ls> {#prAptakAmA janapadAH saMpannayavagorasAH#} 
-<ls>R. 3, 22, 7.</ls> {#saMpannaSAlinicayAvftaBUtalAni#} 
-<ls>ṚT. 3, 16.</ls> {#saMpanna = sADita#} 
-<ls>MED. n. 150.</ls> 
-<div n="1">— 2) {%voll werden%} (von einer Zahl u. s. w.), {%zusammen betragen%}: {#tisraH satIrupasado dvirdvirekEkAmupAyaMstAH zawsamapadyanta#} 
-<ls>AIT. BR. 1, 23.</ls> {#(caturakzaraM caturakzaram) tadazwAkzaraM saMpadyate#} 
-<ls>?3, 12. ŚAT.BR. 2, 2, 1, 17. 3, 4, 4, 18.</ls>
+{%eine schlimme Lage kommen, in's Unglück gerathen, zu Nichte werden, dahin gehen, zu Grunde gehen, umkommen, sterben%}: {#AramBA vipadyante#}
+<ls>ṢAḌV. BR. 5,6.</ls> {#vipannasasyeva#} (Gegens. {#nizpanna, saMpanna#} {%gerathen%})
+<ls>MBH. 7,26.</ls> <ls n="MBH.">8,3036.</ls>
+<ls>VARĀH. BṚH. S. 19,9.</ls> {#vipannakftyAH (devatAH)#}
+<ls n="VARĀH. BṚH. S.">13,4191.</ls> {#dEvena vipannArTaH (dEvavipannAtmA#}
+<ls>R. GORR. 2,20,21</ls>) {#puruzaH#}
+<ls>R. 2,23,18.</ls> {#aho mama sutAnAM hi vipannaM sUta jIvitam#} {%ist dahin%}
+<ls>MBH. 7,5558.</ls> {#yaTA ca mfRmayaM BARqaM cakrArUQaM vipadyate#}
+<ls n="MBH.">11,95.</ls> {#cittanASAdvipadyante sarvARyevendriyARi me . kzIRasnehasya dIpasya saMsaktA raSmayo yaTA ..#}
+<ls>R. 2,64,68.</ls> {#yaTA budDirna vipadyeta kfcCrataH#}
+<ls>BHĀG. P. 7,12,22.</ls> {#budDyA vipannayA (vipratipannayA#}
+<ls>SCHL.</ls>) <ls>R. GORR. 2,118,1.</ls> {#dehaM vipannAKilacetanAdikam#}
+<ls>BHĀG. P. 4,23,21.</ls> {#avipadyatAtmanA#}
+<ls n="BHĀG. P.">6,1,8.</ls> {#vipannadehe mayi#}
+<ls>MṚCCH. 15,23.</ls> {#vipannadIDiti#}
+<ls>Spr. 791.</ls> {#SlakzRayA vAcA pUrvaSokavipannayA#} {%zu Nichte geworden, schwach%}
+<ls>R. 6,10,5.</ls> {#sa tena duHKamApnoti paratra ca vipadyate#} {%erfährt Schlimmes, geräth in Unglück%}
+<ls>MBH. 3,13907.</ls> {#vipanna#} {%in's Unglück gerathen%}: {#vipannAnAmApadudDaraRakzama#}
+<ls>HIT. I,27.</ls> = {#vipadrata#}
+<ls>TRIK. 3,3,363.</ls> = {#vipadAkrAnta#}
+<ls>MED. n. 132.</ls> = {#nazwa#}
+<ls>H. an. 3,418.</ls> {#nArI garBayutA vipadyate#} so v. a. {%eine Fehlgeburt thun%}
+<ls>VARĀH. BṚH. 4,7.</ls> {#yOvanasTo 'Ta maDyasTo vfdDo vApi vipadyate#} {%kömmt um%}
+<ls>MBH. 11,99.</ls> {#dEvena kila yasyArTaH sa nIto 'pi vipadyate#}
+<ls n="MBH.">4,612.</ls> <ls>KATHĀS. 4,129.</ls> <ls n="KATHĀS.">27,120.</ls> <ls n="KATHĀS.">29,138.</ls> <ls n="KATHĀS.">33,72.</ls> <ls n="KATHĀS.">42,99.</ls> <ls n="KATHĀS. 42,">134.</ls> <ls>HIT. IV,46.</ls> <ls>RĀJA-TAR. 2,32. 4,527. 5,209. 221. 239. 261. 6,27.</ls> <ls>MĀRK. P. 22,43.</ls> {#vipanna#} {%umgekommen%}
+<ls>MṚCCH. 140,11.</ls>
+<ls>ŚĀK. 90,19.</ls>
+<ls>KATHĀS. 9,77.</ls> <ls n="KATHĀS.">39,182.</ls>
+<ls>VID. 195. 198.</ls>
+<ls>BHĀG. P. 3,2,31.</ls> <ls n="BHĀG. P.">5,13,13. fg.</ls>
+<div n="1">— 2) {%hindernd in den Weg kommen%}: {#varzaM vidyutstanayitnurvA vipadyate#}
+<ls>KAUŚ. 141.</ls>
+<div n="v">— Vgl. {#vipatti, vipad#} . — caus. {%umbringen%}
+<ls>RĀJA-TAR. 2,79. 6,106. 281.</ls>
+<div n="p">— {#sam#}
+<div n="1"> 1) {%zufallen, zu Theil werden, gelingen, in Erfüllung gehen, gerathen, zu Stande kommen%}: {#tanme\ sarva\M saM pa^dyatAm#}
+<ls>AV. 10,9,27.</ls>
+<ls>KATHĀS. 7,6.</ls> {#yo ha vE saMpadaM veda saM hAsmE padyate#}
+<ls>ŚAT. BR. 14,9,2,4.</ls> {#yatkAmayeta tadaSnIyAdyadvA saMpadyeta#}
+<ls n="ŚAT. BR.">3,1,2,1.</ls> <ls>KAUŚ. 68.</ls> {#BojanAcCAdanAByaDikaM svalpamapyarTamAtraM na saMpadyate#}
+<ls>PAÑCAT. 132,25.</ls> {#dvayorapi vinipAtaH saMpadyate#}
+<ls n="PAÑCAT.">92,6.</ls> <ls>VIKR. 42,9.</ls> <ls>RAGH. 14,76.</ls> <ls>MBH. 3,8173.</ls> <ls>R. 1,65,24.</ls> <ls>VET. in LA. 33,4.</ls> {#taTA na SAstrAtikrameRa DanavidyAderAgamo manuzyAnprati saMpadyate#}
+<ls>KULL.</ls> zu <ls>M. 1,81.</ls> {#yo ha vE saMpadaM veda saM hAsmE kAmAH saMpadyante#}
+<ls>CHĀND. UP. 5,1,4.</ls> {#priyaH kAmo na te saMpatsyate kvacit#}
+<ls>MBH. 1,3485.</ls> <ls n="MBH. 1,">7199</ls> (act.). <ls n="MBH.">5,170.</ls> <ls>KUMĀRAS. 2,54.</ls> <ls>BHĀG. P. 6,7,27.</ls> {#sarve saMpatsyante manoraTAH#}
+<ls>MBH. 14,154.</ls>
+<ls>PRAB. 117,10.</ls> {#etAvadBavatAmaBilazitaM saMpannam#}
+<ls>HIT. 44,8.</ls> {#samIhitam#}
+<ls>DHŪRTAS. 77,14.</ls> {#cintayizyasi yatkiMcittacca saMpatsyate tava#}
+<ls>KATHĀS. 42,119.</ls>
+<ls>MĀLAV. 95.</ls> {#mA tatsaM pA^di\ yada\sO ju\hoti^#}
+<ls>AV. 7,70,2.</ls> {#yaTAkleSamaBimatArTasidDayaH saMpadyante#}
+<ls>PRAB. 61,12.</ls> {#kaTamamunA svalpabalenEtatsaMpatsyate#}
+<ls>HIT. 104,5.</ls> {#saMpatsyantu ca me kriyAH#}
+<ls>HARIV. 6086.</ls> {#prayatnaste na kartavyo nEza saMpatsyate tava#}
+<ls>MBH. 5,4004.</ls> {#asminkarmaRi saMpanne#}
+<ls n="MBH.">3,2656.</ls> <ls>M. 3,254.</ls> {#vaco hi paruzAkzaraM na ca padezu saMpadyate#} ad
+<ls>ŚĀK. 69,2, v. l.</ls> {#aTa tasminkalO kiyatsaMpannam#}
+<ls>PRAB. 30,10.</ls> {#suvarRena catuHSAlaM gfhaM saMpatsyate#}
+<ls>PAÑCAT. 252,18.</ls> {#saMpadyate yaTA subIjaM cEva sukzetre jAtam#} {%geräth%}
+<ls>M. 6,69.</ls> {#saMpannasasyA ca mahI#} {%gerathen%}
+<ls>MBH. 4,931.</ls> {#vasumatI sarvasaMpannasasyA#}
+<ls>MṚCCH. 178,9.</ls> {#prAptakAmA janapadAH saMpannayavagorasAH#}
+<ls>R. 3,22,7.</ls> {#saMpannaSAlinicayAvftaBUtalAni#}
+<ls>ṚT. 3,16.</ls> {#saMpanna = sADita#}
+<ls>MED. n. 150.</ls>
+<div n="1">— 2) {%voll werden%} (von einer Zahl u. s. w.), {%zusammen betragen%}: {#tisraH satIrupasado dvirdvirekEkAmupAyaMstAH zawsamapadyanta#}
+<ls>AIT. BR. 1,23.</ls> {#(caturakzaraM caturakzaram) tadazwAkzaraM saMpadyate#}
+<ls n="AIT. BR.">3,12.</ls> <ls>ŚAT. BR. 2,2,1,17.</ls> <ls n="ŚAT. BR.">3,4,4,18.</ls>
 [Page4-0442]
-{#tadDAsya SataM gAvaH sahasraM saMpeduH#} 
-<ls>PAÑCAV. BR. 25, 10, 18.</ls> 
-<ls>TBR. 1, 1, 5, 3.</ls> {#tA yadA sahasraM saMpeduH#} 
-<ls>CHĀND. UP. 4, 4, 5. 8, 11, 3.</ls> {#azwO raTasahasrARi nAgAnAmayutaM taTA . arbudaM pattisaMGAnAM tadbalaM samapadyata ..#} 
-<ls>HARIV. 15082.</ls> {#kftaM saMpadyate caran#} {%wird voll%} 
-<ls>AIT. BR. 7, 15.</ls> 
-<div n="1">— 3) {%werden%}: {#saMpadyate sa ukAro LakAraH#} 
-<ls>ṚV. PRĀT. 1, 11.</ls> 
-<ls>P. 2, 3, 13, <is>Vārtt</is>. 2.</ls> {#sa deSaH - guheva samapadyata#} 
-<ls>ARJ. 9, 10.</ls> {#sa sarvadamano nAma kumAraH samapadyata#} 
-<ls>MBH. 1, 2995.</ls> {#vivarRA pARqusaMkASAH samapadyanta#} 
-<ls>?4289. 5673. 2, 942. 3, 964. 5, 7112. R. 2, 33, 22. 3, 53, 19. ŚĀK. 61, 18. MEGH. 11. 24. KATHĀS. 3, 50. 35, 115. BHĀG. P. 6, 12, 35. RĀJA-TAR. 2, 9. P. 8, 2, 106, <is>Vārtt</is>.</ls> {#sOmitriM mitrasaMpannam#} {%der sein Freund geworden war%} 
-<ls>R. 3, 73, 1.</ls> mit einem adv. auf {#sAt#} {%ganz zu etwas werden%} 
-<ls>P. 5, 4, 53.</ls> 
-<ls>VOP. 7, 85.</ls> {#kftsnaM lavaRaM jalaM saMpadyate jalasAtsaMpadyate#} ebend. {%in Jmdes Gewalt kommen%} 
-<ls>P. 5, 4, 54.</ls> 
-<ls>VOP. 7, 85.</ls> mit einem adv. auf {#trA#} {%Jmd zufallen%} 
-<ls>P. 5, 4, 55.</ls> 
-<ls>VOP. 7, 86.</ls> mit einem adv. auf {#A#} 
-<ls>VOP. 7, 88.</ls> mit einem dat. {%gereichen zu%}: {#sADoH SikzA guRAya saMpadyate nAsADoH#} 
-<ls>PAÑCAT. 94, 21.</ls> 
-<div n="1">— 4) {%entstehen, geboren werden%}: {#purUravAstato vidvAnilAyAM samapadyata#} 
-<ls>MBH. 1, 3143.</ls> {#yuvanASvasutaH SrImAnmAnDAtA samapadyata#} 
-<ls>R. 2, 110, 13.</ls> {#mAnDAtustu mahAtejAH suzaMDiH samapadyata#} 
-<ls>R. GORR. 1, 72, 23.</ls> 
-<div n="1">— 5) {%zusammenfallen, zusammentreffen, sich vereinigen mit%} (instr.): {#u\Be hi teja^sI sa\Mpadye^te#} 
-<ls>TBR. 2, 1, 2, 9.</ls> {#dvO dvO saMpadya#} 
-<ls>AIT. BR. 3, 41.</ls> {#kaTaM saMvatsareRAgninA saMpadyate (Satarudriyam)#} 
-<ls>ŚAT. BR. 9, 1, 1, 43.</ls> {#aTa yadi dvimAtreRa manasi saMpadyate#} so v. a. {%sich im Geiste vertiefen in%} 
-<ls>PRAŚNOP. 5, 4.</ls> {#yakzmaRA samapadyata#} {%er bekam die Schwindsucht%} 
-<ls>MBH. 1, 4696.</ls> {#aSoka yadi sadya eva mukulErna saMpatsyase#} 
-<ls>MĀLAV. 52.</ls> {#saMpanna#} {%versehen —, begabt mit, im Besitz von%}: {#javena#} 
-<ls>ŚĀṄKH. ŚR. 16, 1, 19.</ls> {#sarvErmAnuzyakEH kAmEH saMpannatamaH#} 
-<ls>ŚAT. BR. 14, 7, 1, 32.</ls> {#tapasA brahmacaryeRa SradDayA saMpannaH#} 
-<ls>PRAŚNOP. 5, 3.</ls> {#pitflokena#} 
-<ls>CHĀND. UP. 8, 2, 1.</ls> 
-<ls>MBH. 1, 7107.</ls> 
-<ls>KĀM. NĪTIS. 8, 6.</ls> <ls>AK. 3, 1, 13.</ls> {#SIlataH ( = SIlena)#} 
-<ls>M. 9, 82.</ls> gewöhnlich am Ende eines comp.: {#sarva°#} 
-<ls>ĀŚV. GṚHY. 1, 5.</ls> {#samyagdarSana°#} 
-<ls>M. 6, 74. 7, 69. 75. 8, 179.</ls> 
-<ls>MBH. 1, 8. 4696. 13, 6420.</ls> 
-<ls>LA. 46, 8.</ls> 
-<ls>N. 12, 33.</ls> 
-<ls>DRAUP. 8, 54.</ls> 
-<ls>BRĀHMAṆ. 1, 27.</ls> 
-<ls>R. 1, 1, 14. 20. 25. 4, 3. 27. 48, 26.</ls> 
-<ls>CĀṆ. 7.</ls> 
-<ls>RAGH. 18, 17.</ls> 
-<ls>KĀM. NĪTIS. 5, 3.</ls> <ls>Spr. 460.</ls> <ls>AK. 2, 1, 12.</ls> <ls>VARĀH. BṚH. S. 13, 9. 15, 2.</ls> <ls>SĀH. D. 32, 14.</ls> <ls>VEDĀNTAS. (Allah.) No. 6.</ls> mit Umstellung: {#saMpannadanta#} 
-<ls>ĀŚV. GṚHY. 4, 8.</ls> {#saMpannasalilASayAn (koSalAn)#} 
-<ls>R. 2, 50, 9.</ls> Vgl. {#jAti°, dEva°#}. 
-<div n="1">— 6) {%eingehen in%} (loc. acc.): {#puruzasya prayato vANmanasi saMpadyate manaH prARe prARastejasi tejaH parasyAM devatAyAm#} 
-<ls>CHĀND. UP. 6. 8. 6. 15, 1.</ls> {#saMpadyamAnamAjYAya BIzmaM brahmaRi nizkale#} 
-<ls>BHĀG. P. 1, 9, 44.</ls> {#brahma saMpadyate tadA#} 
-<ls>BHAG. 13, 30.</ls> mit Ergänzung von {#brahmaRi#} oder {#brahma#} 
-<ls>CHĀND. UP. 6, 14, 2</ls> <ls>?(VEDĀNTAS. Allah. No. 119).</ls> 
-<div n="1">— 7) {%gerathen in, gelangen zu, theilhaftig werden%}: {#nirvedam#} 
-<ls>R. 1, 55, 10.</ls> {#tIkzRAMSuH SiSirAMSutvaM BayAtsaMpadyate raviH#} 
-<ls>3, 54, 12.</ls> {#yogitAm#} (nach 
-<ls>SCHÜTZ'S</ls> Verbesserung) 
-<ls>BHARTṚ. 3, 91.</ls> 
-<div n="1">— 8) {#saMpanna#} {%gut gerathen, vollkommen, vollendet, im besten Zustande sich befindend%}; = {#saMpattisahita#} 
-<ls>MED. n. 150.</ls> Accent eines aus {#saMpanna#} (adv.) und einem nachfolgenden <lex>adj.</lex> gebildeten comp. <is>gaṇa</is> {#vispazwAdi#} zu 
-<ls>P. 6, 2, 24.</ls> von Personen und Sachen. {#ftvikparamasaMpannaH#} 
-<ls>R. 1, 13, 39.</ls> {#(sItAm) saMpannAmanalaMkArAm#} 
-<ls>5, 18, 6.</ls> {#sutAvasUta saMpannO#} 
-<ls>RAGH. 15, 13.</ls> {#saMpannAnAM svakarmasu#} 
-<ls>M. 9, 115.</ls> {#asaMpanna ivABAti brahmavarcasi#} 
-<ls>BHĀG. P. 1, 4, 30.</ls> {#yudDa°#} {%vollkommen vertraut mit%} 
-<ls>MBH. 1, 7107</ls> (daneben zwei instrr. {#vidyayA#} und {#balena#}, zu denen {#saMpannaH#} in der Bed. {%versehen mit%} zu ergänzen ist). {#°hastA#} 
+{#tadDAsya SataM gAvaH sahasraM saMpeduH#}
+<ls>PAÑCAV. BR. 25,10,18.</ls>
+<ls>TBR. 1,1,5,3.</ls> {#tA yadA sahasraM saMpeduH#}
+<ls>CHĀND. UP. 4,4,5.</ls> <ls n="CHĀND. UP.">8,11,3.</ls> {#azwO raTasahasrARi nAgAnAmayutaM taTA . arbudaM pattisaMGAnAM tadbalaM samapadyata ..#}
+<ls>HARIV. 15082.</ls> {#kftaM saMpadyate caran#} {%wird voll%}
+<ls>AIT. BR. 7,15.</ls>
+<div n="1">— 3) {%werden%}: {#saMpadyate sa ukAro LakAraH#}
+<ls>ṚV. PRĀT. 1,11.</ls>
+<ls>P. 2,3,13</ls>, <is>Vārtt</is>. 2. {#sa deSaH — guheva samapadyata#}
+<ls>ARJ. 9,10.</ls> {#sa sarvadamano nAma kumAraH samapadyata#}
+<ls>MBH. 1,2995.</ls> {#vivarRA pARqusaMkASAH samapadyanta#}
+<ls n="MBH. 1,">4289.</ls> <ls n="MBH. 1,">5673.</ls> <ls n="MBH.">2,942.</ls> <ls n="MBH.">3,964.</ls> <ls n="MBH.">5,7112.</ls> <ls>R. 2,33,22.</ls> <ls n="R.">3,53,19.</ls> <ls>ŚĀK. 61,18.</ls> <ls>MEGH. 11. 24.</ls> <ls>KATHĀS. 3,50.</ls> <ls n="KATHĀS.">35,115.</ls> <ls>BHĀG. P. 6,12,35.</ls> <ls>RĀJA-TAR. 2,9.</ls> <ls>P. 8,2,106</ls>, <is>Vārtt</is>. {#sOmitriM mitrasaMpannam#} {%der sein Freund geworden war%}
+<ls>R. 3,73,1.</ls> mit einem adv. auf {#sAt#} {%ganz zu etwas werden%}
+<ls>P. 5,4,53.</ls>
+<ls>VOP. 7,85.</ls> {#kftsnaM lavaRaM jalaM saMpadyate jalasAtsaMpadyate#} ebend. {%in Jmdes Gewalt kommen%}
+<ls>P. 5,4,54.</ls>
+<ls>VOP. 7,85.</ls> mit einem adv. auf {#trA#} {%Jmd zufallen%}
+<ls>P. 5,4,55.</ls>
+<ls>VOP. 7,86.</ls> mit einem adv. auf {#A#}
+<ls>VOP. 7,88.</ls> mit einem dat. {%gereichen zu%}: {#sADoH SikzA guRAya saMpadyate nAsADoH#}
+<ls>PAÑCAT. 94,21.</ls>
+<div n="1">— 4) {%entstehen, geboren werden%}: {#purUravAstato vidvAnilAyAM samapadyata#}
+<ls>MBH. 1,3143.</ls> {#yuvanASvasutaH SrImAnmAnDAtA samapadyata#}
+<ls>R. 2,110,13.</ls> {#mAnDAtustu mahAtejAH suzaMDiH samapadyata#}
+<ls>R. GORR. 1,72,23.</ls>
+<div n="1">— 5) {%zusammenfallen, zusammentreffen, sich vereinigen mit%} (instr.): {#u\Be hi teja^sI sa\Mpadye^te#}
+<ls>TBR. 2,1,2,9.</ls> {#dvO dvO saMpadya#}
+<ls>AIT. BR. 3,41.</ls> {#kaTaM saMvatsareRAgninA saMpadyate (Satarudriyam)#}
+<ls>ŚAT. BR. 9,1,1,43.</ls> {#aTa yadi dvimAtreRa manasi saMpadyate#} so v. a. {%sich im Geiste vertiefen in%}
+<ls>PRAŚNOP. 5,4.</ls> {#yakzmaRA samapadyata#} {%er bekam die Schwindsucht%}
+<ls>MBH. 1,4696.</ls> {#aSoka yadi sadya eva mukulErna saMpatsyase#}
+<ls>MĀLAV. 52.</ls> {#saMpanna#} {%versehen —, begabt mit, im Besitz von%}: {#javena#}
+<ls>ŚĀṄKH. ŚR. 16,1,19.</ls> {#sarvErmAnuzyakEH kAmEH saMpannatamaH#}
+<ls>ŚAT. BR. 14,7,1,32.</ls> {#tapasA brahmacaryeRa SradDayA saMpannaH#}
+<ls>PRAŚNOP. 5,3.</ls> {#pitflokena#}
+<ls>CHĀND. UP. 8,2,1.</ls>
+<ls>MBH. 1,7107.</ls>
+<ls>KĀM. NĪTIS. 8,6.</ls> <ls>AK. 3,1,13.</ls> {#SIlataH ( = SIlena)#}
+<ls>M. 9,82.</ls> gewöhnlich am Ende eines comp.: {#sarva°#}
+<ls>ĀŚV. GṚHY. 1,5.</ls> {#samyagdarSana°#}
+<ls>M. 6,74.</ls> <ls n="M.">7,69.</ls> <ls n="M. 7,">75.</ls> <ls n="M.">8,179.</ls>
+<ls>MBH. 1,8.</ls> <ls n="MBH. 1,">4696.</ls> <ls n="MBH.">13,6420.</ls>
+<ls>LA. 46,8.</ls>
+<ls>N. 12,33.</ls>
+<ls>DRAUP. 8,54.</ls>
+<ls>BRĀHMAṆ. 1,27.</ls>
+<ls>R. 1,1,14.</ls> <ls n="R. 1,1,">20.</ls> <ls n="R. 1,1,">25.</ls> <ls n="R. 1,">4,3.</ls> <ls n="R. 1,4,">27.</ls> <ls n="R. 1,">48,26.</ls>
+<ls>CĀṆ. 7.</ls>
+<ls>RAGH. 18,17.</ls>
+<ls>KĀM. NĪTIS. 5,3.</ls> <ls>Spr. 460.</ls> <ls>AK. 2,1,12.</ls> <ls>VARĀH. BṚH. S. 13,9. 15,2.</ls> <ls>SĀH. D. 32,14.</ls> <ls>VEDĀNTAS. (Allah.) No. 6.</ls> mit Umstellung: {#saMpannadanta#}
+<ls>ĀŚV. GṚHY. 4,8.</ls> {#saMpannasalilASayAn (koSalAn)#}
+<ls>R. 2,50,9.</ls> Vgl. {#jAti°, dEva°#}.
+<div n="1">— 6) {%eingehen in%} (loc. acc.): {#puruzasya prayato vANmanasi saMpadyate manaH prARe prARastejasi tejaH parasyAM devatAyAm#}
+<ls>CHĀND. UP. 6. 8. 6. 15,1.</ls> {#saMpadyamAnamAjYAya BIzmaM brahmaRi nizkale#}
+<ls>BHĀG. P. 1,9,44.</ls> {#brahma saMpadyate tadA#}
+<ls>BHAG. 13,30.</ls> mit Ergänzung von {#brahmaRi#} oder {#brahma#}
+<ls>CHĀND. UP. 6,14,2</ls> (<ls>VEDĀNTAS. Allah. No. 119).</ls>
+<div n="1">— 7) {%gerathen in, gelangen zu, theilhaftig werden%}: {#nirvedam#}
+<ls>R. 1,55,10.</ls> {#tIkzRAMSuH SiSirAMSutvaM BayAtsaMpadyate raviH#}
+<ls n="R.">3,54,12.</ls> {#yogitAm#} (nach
+<ls>SCHÜTZ'S</ls> Verbesserung)
+<ls>BHARTṚ. 3,91.</ls>
+<div n="1">— 8) {#saMpanna#} {%gut gerathen, vollkommen, vollendet, im besten Zustande sich befindend%}; = {#saMpattisahita#}
+<ls>MED. n. 150.</ls> Accent eines aus {#saMpanna#} (adv.) und einem nachfolgenden <lex>adj.</lex> gebildeten comp. <is>gaṇa</is> {#vispazwAdi#} zu
+<ls>P. 6,2,24.</ls> von Personen und Sachen. {#ftvikparamasaMpannaH#}
+<ls>R. 1,13,39.</ls> {#(sItAm) saMpannAmanalaMkArAm#}
+<ls n="R.">5,18,6.</ls> {#sutAvasUta saMpannO#}
+<ls>RAGH. 15,13.</ls> {#saMpannAnAM svakarmasu#}
+<ls>M. 9,115.</ls> {#asaMpanna ivABAti brahmavarcasi#}
+<ls>BHĀG. P. 1,4,30.</ls> {#yudDa°#} {%vollkommen vertraut mit%}
+<ls>MBH. 1,7107</ls> (daneben zwei instrr. {#vidyayA#} und {#balena#}, zu denen {#saMpannaH#} in der Bed. {%versehen mit%} zu ergänzen ist). {#°hastA#}
 <ls>HARIV. 7797.</ls> {#tAnraTAnsADusaMpannAnsaMyuktAn #}
 [Page4-0443]
-{# javanErhayEH#} 
-<ls>MBH. 3, 14960.</ls> {#saMpannaM rAjyamicCan#} 
-<ls>R. 2, 97, 18.</ls> 
-<div n="1">— 9) {#saMpanna#} {%wohlschmeckend, lecker%}; subst. {%Leckerbissen%}: {#ekaH saMpannamaSnAtu yaste harati puzkaram#} 
-<ls>MBH. 13, 4567</ls> (vgl. {#ekaH svAdu samaSnAtu#} 
-<ls>4528). 5, 1011.</ls> {#saMpannataramevAnnaM daridrA BuYjate sadA . kzutsvAdutAM janayati#} 
-<ls>1144.</ls> {#saMBAvyaM gozu saMpannaM saMBAvyaM brAhmaRe tapaH#} 
-<ls>R. 5, 88, 9.</ls> {#saMpannarUpErbahuBirmAMsEH#} 
-<ls>14, 45.</ls> {#saMpannaMkAraM (= svAduMkAraM) BuNkte#} 
-<ls>P. 3, 4, 26,</ls> 
-<ls>Sch.</ls> — Statt {#saMpanno#} (könnte etwa {%vollkommen gerüstet%} bedeuten) 
-<ls>M. 7, 200</ls> ist wohl mit der Calc. Ausg. {#saMyatto#} zu lesen. 
-<div n="v">— Vgl. {#saMpatti, saMpad#}. — caus. 
-<div n="1"> 1) {%Jmd Etwas verschaffen, zu Theil werden lassen, zuführen%}: {#vAcA deveByo havyaM saMpAdayati#} 
-<ls>AIT. BR. 2, 5.</ls> {#raTam#} 
-<ls>MBH. 7, 6380.</ls> {#sarvaM saMpAdayAmi te#} 
-<ls>13, 2867.</ls> {#saMpAditAH praRayino#} (gen.) {#viBavAH#} 
-<ls>BHARTṚ. 3, 68.</ls> {#evaM saMpAdayantaste tadAnyo 'nyam#} 
-<ls>MBH. 4, 336.</ls> {#yuzmadBojanam#} 
-<ls>PAÑCAT. 69, 6.</ls> {#sa yadyapi kuraNgo me DAtrApahftaH . taTApyayaM kUrma AhArArTaM saMpAditaH#} 
-<ls>144, 19.</ls> {#tasyAsvAdanena sOKyaM saMpAdayAmi jihvAyE#} (lies {#jihvAyE#}) 
-<ls>61, 14.</ls> {#aBUtsaMpAditasvAduPalo me manoraTaH#} 
-<ls>ŚĀK. 108, 15.</ls> {#tenEva cArakasuruNgApaTena kanyApurapraveSaM BUyo 'pi me samapAdayat#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 200, 21.</ls> {%sich Etwas verschaffen%}: {#jYAnaM saMpAdya saMsAre yaH pareByaH prayacCati#} 
-<ls>PADMA-P.</ls> in <ls>Verz. d. Oxf. H. 15,a,7.</ls> {#pAriSezyAtsamastAnevEtAnsaMpAdayati yadA#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 261.</ls> 
-<div n="1">— 2) {%fertig machen, zubereiten%} (Speisen), {%zu Stande bringen, hervorbringen, vollführen, ausführen%}: {#yena purataH pfzWataScEkEkaM pawwaM saMpAdayasi#} 
-<ls>PAÑCAT. 251, 18.</ls> {#sUdEH saMpAditAni - mAMsAni#} 
-<ls>R. 3, 28, 7.</ls> {#pippalIlavaRAByAM ca matsyAnsaMpAdayizyaTaH#} 
-<ls>76, 24.</ls> {#saktavaH saMpAditAH#} zur Erkl. von {#dfzacCAradAH#} 
-<ls>P. 6, 2, 9,</ls> 
-<ls>Sch.</ls> {#tena (puraMdareRa) saMpAditaM sasyam#} {%gerathen lassen%} 
-<ls>HARIV. 3794.</ls> {#asaMpAdayataH kaMcidarTam#} 
-<ls>Spr. 281.</ls> {#svArTAnsaMpAdayantaH#} 
-<ls>BHARTṚ. 2, 59.</ls> {#Sabde mahattvaM saMpAdayati#} 
-<ls>Schol.</ls> zu <ls>JAIM. 1, 17.</ls> {#tena tattaTEva saMpAditam#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 196, 14.</ls> {#saMpAditaM mahatKalu#} 
-<ls>PRAB. 31, 3.</ls> {#mahodayasvAmino yaH pratizWAM samapAdayat#} 
-<ls>RĀJA-TAR. 5, 28.</ls> {#tanmUlodDftiramBasA - saMpAditA#} 
-<ls>477.</ls> {#saMpAditatadarcana#} 
-<ls>KATHĀS. 26, 204.</ls> {#pradarSitastatra ca yaH kramo dvijEH . tamASu saMpAdaya#} 
-<ls>R. GORR. 2, 80, 25.</ls> {#svasuH pARigrahaRam#} 
-<ls>RAGH. 7, 26.</ls> {#kftsnatAm#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 261.</ls> {#saMpAditA - pratijYA mahatI tvayA#} 
-<ls>MBH. 7, 6411.</ls> 
-<ls>KATHĀS. 38, 156.</ls> {#kAmam#} 
-<ls>MBH. 13, 4032.</ls> 
-<ls>BHĀG. P. 6, 18, 35</ls> (med.). {#spfhAm#} 
-<ls>MBH. 3, 15278.</ls> {#SAsanam#} 
-<ls>RAGH. 9, 82.</ls> {#AdeSam#} 
-<ls>PRAB. 19, 10.</ls> {#svAminiyogam#} 
-<ls>103, 5.</ls> {#SuSrUzAm#} {%Gehorsam erweisen%} 
-<ls>BHARTṚ. 3, 48.</ls> 
-<div n="1">— 3) {%vollständig machen%}: {#daSa tA AhutIH saMpAdayet#} 
-<ls>ŚAT. BR. 11, 1, 2, 2.</ls> {#ekAdaSa ratnAni#} 
-<ls>5, 3, 1, 12.</ls> {#tvAM duHsTamUnapadam - saMpAdayan#} 
-<ls>BHĀG. P. 1, 16, 35.</ls> 
-<div n="1">— 4) {%umbilden in%}: {#yenEnam - puruzaM priyaM saMpAdayizyasi#} 
-<ls>KATHĀS. 37, 114.</ls> 
-<div n="1">— 5) {%mit Etwas versehen%}: {#aSvena raTam#} 
-<ls>ŚAT. BR. 13, 2, 7, 5. 8. 9.</ls> {#BImaM saMpAdayAmAsa raTena#} 
-<ls>MBH. 6, 2304.</ls> {#kriyayA#} {%Jmd beschäftigen, Jmd ein Geschäft übertragen%} 
-<ls>SADDH. P.4,18,b.</ls> {#matyA parIkzya meDAvI budDyA saMpAdya cAsakft#} so v. a. {%überlegen%} 
-<ls>MBH. 5, 1487.</ls> 
-<div n="1">— 6) {%eins werden, sich vereinigen, übereinkommen%}: {#devA agrapeye na samapAdayan#} 
-<ls>AIT. BR. 2, 25.</ls> {#maDyame saMpAdayAM cakruH#} 
-<ls>7, 15.</ls> <ls>ŚAT. BR. 2, 2, 4, 16.</ls> {#arvAkpaRante paraH saMpAdayanti#} 
-<ls>3, 3, 3, 4.</ls> <ls>CHĀND. UP. 5, 11, 2.</ls> <ls>KĀTY. ŚR. 22, 4, 3.</ls> <ls>LĀṬY. 8, 6, 2. 9, 4, 25.</ls> 
-<div n="1">— 7) {%erreichen, gelangen zu%}: {#sa\MpA\daya^ntO sa\ha lo\kameka^m#} 
-<ls>AV. 12, 3, 39.</ls> {#pannagASanamAkASe patantaM pakzisevite . aBiBUya javenASu laNkAM saMpAdaye Druvam#} 
-<ls>R. 5, 3, 40.</ls> 
+{# javanErhayEH#}
+<ls>MBH. 3,14960.</ls> {#saMpannaM rAjyamicCan#}
+<ls>R. 2,97,18.</ls>
+<div n="1">— 9) {#saMpanna#} {%wohlschmeckend, lecker%}; subst. {%Leckerbissen%}: {#ekaH saMpannamaSnAtu yaste harati puzkaram#}
+<ls>MBH. 13,4567</ls> (vgl. {#ekaH svAdu samaSnAtu#}
+<ls n="MBH. 13,">4528</ls>). <ls n="MBH.">5,1011.</ls> {#saMpannataramevAnnaM daridrA BuYjate sadA . kzutsvAdutAM janayati#}
+<ls n="MBH. 13,">1144.</ls> {#saMBAvyaM gozu saMpannaM saMBAvyaM brAhmaRe tapaH#}
+<ls>R. 5,88,9.</ls> {#saMpannarUpErbahuBirmAMsEH#}
+<ls n="R. 5,">14,45.</ls> {#saMpannaMkAraM#} (= {#svAduMkAraM) BuNkte#}
+<ls>P. 3,4,26</ls>, <ls>Sch.</ls>
+— Statt {#saMpanno#} (könnte etwa {%vollkommen gerüstet%} bedeuten)
+<ls>M. 7,200</ls> ist wohl mit der Calc. Ausg. {#saMyatto#} zu lesen.
+<div n="v">— Vgl. {#saMpatti, saMpad#}. — caus.
+<div n="1"> 1) {%Jmd Etwas verschaffen, zu Theil werden lassen, zuführen%}: {#vAcA deveByo havyaM saMpAdayati#}
+<ls>AIT. BR. 2,5.</ls> {#raTam#}
+<ls>MBH. 7,6380.</ls> {#sarvaM saMpAdayAmi te#}
+<ls n="MBH.">13,2867.</ls> {#saMpAditAH praRayino#} (gen.) {#viBavAH#}
+<ls>BHARTṚ. 3,68.</ls> {#evaM saMpAdayantaste tadAnyo 'nyam#}
+<ls>MBH. 4,336.</ls> {#yuzmadBojanam#}
+<ls>PAÑCAT. 69,6.</ls> {#sa yadyapi kuraNgo me DAtrApahftaH . taTApyayaM kUrma AhArArTaM saMpAditaH#}
+<ls n="PAÑCAT.">144,19.</ls> {#tasyAsvAdanena sOKyaM saMpAdayAmi jihvAyE#} (lies {#jihvAyE#})
+<ls n="PAÑCAT.">61,14.</ls> {#aBUtsaMpAditasvAduPalo me manoraTaH#}
+<ls>ŚĀK. 108,15.</ls> {#tenEva cArakasuruNgApaTena kanyApurapraveSaM BUyo 'pi me samapAdayat#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 200,21.</ls> {%sich Etwas verschaffen%}: {#jYAnaM saMpAdya saMsAre yaH pareByaH prayacCati#}
+<ls>PADMA-P.</ls> in <ls>Verz. d. Oxf. H. 15,a,7.</ls> {#pAriSezyAtsamastAnevEtAnsaMpAdayati yadA#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 261.</ls>
+<div n="1">— 2) {%fertig machen, zubereiten%} (Speisen), {%zu Stande bringen, hervorbringen, vollführen, ausführen%}: {#yena purataH pfzWataScEkEkaM pawwaM saMpAdayasi#}
+<ls>PAÑCAT. 251,18.</ls> {#sUdEH saMpAditAni — mAMsAni#}
+<ls>R. 3,28,7.</ls> {#pippalIlavaRAByAM ca matsyAnsaMpAdayizyaTaH#}
+<ls n="R. 3,">76,24.</ls> {#saktavaH saMpAditAH#} zur Erkl. von {#dfzacCAradAH#}
+<ls>P. 6,2,9</ls>, <ls>Sch.</ls>
+{#tena (puraMdareRa) saMpAditaM sasyam#} {%gerathen lassen%}
+<ls>HARIV. 3794.</ls> {#asaMpAdayataH kaMcidarTam#}
+<ls>Spr. 281.</ls> {#svArTAnsaMpAdayantaH#}
+<ls>BHARTṚ. 2,59.</ls> {#Sabde mahattvaM saMpAdayati#}
+<ls>Schol.</ls> zu <ls>JAIM. 1,17.</ls> {#tena tattaTEva saMpAditam#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 196,14.</ls> {#saMpAditaM mahatKalu#}
+<ls>PRAB. 31,3.</ls> {#mahodayasvAmino yaH pratizWAM samapAdayat#}
+<ls>RĀJA-TAR. 5,28.</ls> {#tanmUlodDftiramBasA — saMpAditA#}
+<ls n="RĀJA-TAR.">477.</ls> {#saMpAditatadarcana#}
+<ls>KATHĀS. 26,204.</ls> {#pradarSitastatra ca yaH kramo dvijEH . tamASu saMpAdaya#}
+<ls>R. GORR. 2,80,25.</ls> {#svasuH pARigrahaRam#}
+<ls>RAGH. 7,26.</ls> {#kftsnatAm#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 261.</ls> {#saMpAditA — pratijYA mahatI tvayA#}
+<ls>MBH. 7,6411.</ls>
+<ls>KATHĀS. 38,156.</ls> {#kAmam#}
+<ls>MBH. 13,4032.</ls>
+<ls>BHĀG. P. 6,18,35</ls> (med.). {#spfhAm#}
+<ls>MBH. 3,15278.</ls> {#SAsanam#}
+<ls>RAGH. 9,82.</ls> {#AdeSam#}
+<ls>PRAB. 19,10.</ls> {#svAminiyogam#}
+<ls n="PRAB.">103,5.</ls> {#SuSrUzAm#} {%Gehorsam erweisen%}
+<ls>BHARTṚ. 3,48.</ls>
+<div n="1">— 3) {%vollständig machen%}: {#daSa tA AhutIH saMpAdayet#}
+<ls>ŚAT. BR. 11,1,2,2.</ls> {#ekAdaSa ratnAni#}
+<ls n="ŚAT. BR.">5,3,1,12.</ls> {#tvAM duHsTamUnapadam — saMpAdayan#}
+<ls>BHĀG. P. 1,16,35.</ls>
+<div n="1">— 4) {%umbilden in%}: {#yenEnam — puruzaM priyaM saMpAdayizyasi#}
+<ls>KATHĀS. 37,114.</ls>
+<div n="1">— 5) {%mit Etwas versehen%}: {#aSvena raTam#}
+<ls>ŚAT. BR. 13,2,7,5. 8. 9.</ls> {#BImaM saMpAdayAmAsa raTena#}
+<ls>MBH. 6,2304.</ls> {#kriyayA#} {%Jmd beschäftigen, Jmd ein Geschäft übertragen%}
+<ls>SADDH. P. 4,18,b.</ls> {#matyA parIkzya meDAvI budDyA saMpAdya cAsakft#} so v. a. {%überlegen%}
+<ls>MBH. 5,1487.</ls>
+<div n="1">— 6) {%eins werden, sich vereinigen, übereinkommen%}: {#devA agrapeye na samapAdayan#}
+<ls>AIT. BR. 2,25.</ls> {#maDyame saMpAdayAM cakruH#}
+<ls n="AIT. BR.">7,15.</ls> <ls>ŚAT. BR. 2,2,4,16.</ls> {#arvAkpaRante paraH saMpAdayanti#}
+<ls n="ŚAT. BR.">3,3,3,4.</ls> <ls>CHĀND. UP. 5,11,2.</ls> <ls>KĀTY. ŚR. 22,4,3.</ls> <ls>LĀṬY. 8,6,2. 9,4,25.</ls>
+<div n="1">— 7) {%erreichen, gelangen zu%}: {#sa\MpA\daya^ntO sa\ha lo\kameka^m#}
+<ls>AV. 12,3,39.</ls> {#pannagASanamAkASe patantaM pakzisevite . aBiBUya javenASu laNkAM saMpAdaye Druvam#}
+<ls>R. 5,3,40.</ls>
 <div n="v">— Vgl. {#saMpAdaka, saMpAdana, saMpAdanIya, saMpAdayitar#}.
-
-<div n="p">— {#aBisam#} 
-<div n="1"> 1) {%zu Etwas werden, einem Andern gleich werden, übergehen in%}: {#(sAmanI) virAjaM daSinImaBisamapadyetAm#} 
-<ls>AIT. BR. 3, 23. 4, 1.</ls> 
-<ls>TBR.1, 2, 2, 2.</ls> 
-<ls>ŚĀṄKH. ŚR. 14, 25, 5.</ls>
+<div n="p">— {#aBisam#}
+<div n="1"> 1) {%zu Etwas werden, einem Andern gleich werden, übergehen in%}: {#(sAmanI) virAjaM daSinImaBisamapadyetAm#}
+<ls>AIT. BR. 3,23.</ls> <ls n="AIT. BR.">4,1.</ls>
+<ls>TBR. 1,2,2,2.</ls>
+<ls>ŚĀṄKH. ŚR. 14,25,5.</ls>
 [Page4-0444]
-{#samAnaM hiMkAram#} 
-<ls>ṢAḌV. BR. 2, 3.</ls> 
-<ls>ŚAT. BR. 6, 4, 2, 8.</ls> {#izwakAmagniraBisaMpadyate#} 
-<ls>9, 5, 1, 61.</ls> {#yatkarma kurute tadaBisaMpadyate#} 
-<ls>14, 7, 2, 7.</ls> {#Srotre hIme sarve vedA aBisaMpannAH#} 
-<ls>9, 2, 4.</ls> {#(AnuzwuBaH pragATaH) virAjAvaBisaMpannaH padyAkzarye#} {%indem er einer zweifachen%} <is>Virāj</is> (in den Zahlenverhältnissen) {%gleich wird, einer in%} <is>Pada</is> {%und einer in Silben bestehenden%}, 
-<ls>ṚV. PRĀT. 18, 3.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 278.</ls> 
-<div n="1">— 2) {%gelangen in, auf%}: {#sa yadyekamAtramaBiDyAyIta sa tenEva saMveditastUrRameva jagatyAmaBisaMpadyate#} 
-<ls>PRAŚNOP. 5, 3.</ls> {%gelangen zu, erlangen%}: {#puruzo jAyamAnaH SarIramaBisaMpadyamAnaH#} 
-<ls>ŚAT. BR. 14, 7, 1, 8.</ls> {#devatvam#} 34. 
-<div n="v">— Vgl. {#aBisaMpatti#} fg. — caus. {%gleich machen, umbilden in%}: {#virAjameva tanmAsi mAsyaBisaMpAdayanto yanti#} 
-<ls>AIT. BR. 4, 16.</ls> 
-<ls>ŚAT. BR. 1, 1, 1, 22. 2, 3, 1, 18.</ls> {#vIryamevEtadASizo 'BisaMpAdayati#} 
-<ls>1, 9, 1, 17. 5, 3, 1, 12.</ls>
-
-<div n="p">— {#upasam#} 
-<div n="1"> 1) {%gelangen zu%}: {#ganDArAnevopasaMpadyeta#} 
-<ls>CHĀND. UP. 6, 14, 2.</ls> {#taM deSamupasaMpede#} 
-<ls>MBH. 11, 363.</ls> {#ekatvamupasaMpanno na tvAse 'haM tvayA saha#} 
-<ls>5, 1195.</ls> {#aparabrahmaBAvamupasaMpannaH#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 199.</ls> {#upasaMpanna = prApta#} 
-<ls>H. an. 5, 25.</ls> — Das partic. {#upasaMpanna#} hat noch folgende Bedeutungen: 
-<div n="1"> 2) {%fertig, zubereitet%} (von Speisen) 
-<ls>AK. 2, 9, 45.</ls> 
-<ls>H. 413.</ls> 
-<ls>an. 5. 25.</ls> 
-<div n="1">— 3) {%vollkommen vertraut mit%}: {#deSakAlopasaMpannA (go)#} 
-<ls>MBH. 13, 3466.</ls> 
-<div n="1">— 4) {%hinreichend%}, = {#paryApta#} 
-<ls>H. an.</ls> <ls>HALĀY. 2, 171.</ls> 
-<div n="1">— 5) {%versehen mit%}: {#kusumErupasaMpannA (nadI)#} 
-<ls>R. 2, 95, 3.</ls> {#guREH#} 
-<ls>1, 7, 5.</ls> {#maNgalEH#} 
-<ls>2, 25, 42.</ls> {#varRarUpopasaMpanna#} 
-<ls>M. 4, 68.</ls> {#kulaSIla°#} 
-<ls>MBH. 3, 2426.</ls> 
-<div n="1">— 5) {%heimgegangen, gestorben%} 
-<ls>H. 373.</ls> 
-<ls>H. an.</ls> (hier ist {#mfte#} st. {#mftO#} zu lesen). 
-<ls>HALĀY. 3, 7.</ls> {#Srotriye tUpa- saMpanne trirAtramaSucirBavet#} 
-<ls>M. 5, 81.</ls> 
-<ls>KULL.</ls> erklärt {#upasaMpanne#} durch {#mEtrAdinA tatsamIpavartini tadgfhavAsini#} und ergänzt {#saMsTite#} {%gestorben%} aus dem vorangehenden <is>Śloka</is>. {%geschlachtet, geopfert%} 
-<ls>AK. 2, 7, 26.</ls> 
-<div n="v">— Vgl. {#upasaMpatti#} . — caus. 
-<div n="1"> 1) {%herbeischaffen, verschaffen, zuführen%}: {#GftaM SvetAni mAlyAni samiDaScEva sarzapAn . upasaMpAdayAmAsa#} 
-<ls>R. 2, 25, 26.</ls> {#asti naH kozanicayo mahAnaviditastava . tamahaM veda nAnyastamupasaMpAdayAmi te ..#} 
-<ls>MBH. 5, 4630.</ls> 
-<div n="1">— 2) bei den Buddhisten {%in den Stand der Priester aufnehmen, Jmd der Priesterweihe theilhaftig machen%}: {#sa AyuzmatA SAriputreRa pravrAjita upasaMpAdita AgamacatuzwayaM ca grAhitaH#} 
-<ls>BURN. Intr. 48</ls>; vgl. {#upasaMpadA#} bei 
-<ls>KÖPPEN, I, 335. 374.</ls>
+{#samAnaM hiMkAram#}
+<ls>ṢAḌV. BR. 2,3.</ls>
+<ls>ŚAT. BR. 6,4,2,8.</ls> {#izwakAmagniraBisaMpadyate#}
+<ls n="ŚAT. BR.">9,5,1,61.</ls> {#yatkarma kurute tadaBisaMpadyate#}
+<ls n="ŚAT. BR.">14,7,2,7.</ls> {#Srotre hIme sarve vedA aBisaMpannAH#}
+<ls n="ŚAT. BR.">9,2,4.</ls> {#(AnuzwuBaH pragATaH) virAjAvaBisaMpannaH padyAkzarye#} {%indem er einer zweifachen%} <is>Virāj</is> (in den Zahlenverhältnissen) {%gleich wird, einer in%} <is>Pada</is> {%und einer in Silben bestehenden%},
+<ls>ṚV. PRĀT. 18,3.</ls>
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 278.</ls>
+<div n="1">— 2) {%gelangen in, auf%}: {#sa yadyekamAtramaBiDyAyIta sa tenEva saMveditastUrRameva jagatyAmaBisaMpadyate#}
+<ls>PRAŚNOP. 5,3.</ls> {%gelangen zu, erlangen%}: {#puruzo jAyamAnaH SarIramaBisaMpadyamAnaH#}
+<ls>ŚAT. BR. 14,7,1,8.</ls> {#devatvam#} 34.
+<div n="v">— Vgl. {#aBisaMpatti#} fg. — caus. {%gleich machen, umbilden in%}: {#virAjameva tanmAsi mAsyaBisaMpAdayanto yanti#}
+<ls>AIT. BR. 4,16.</ls>
+<ls>ŚAT. BR. 1,1,1,22.</ls> <ls n="ŚAT. BR.">2,3,1,18.</ls> {#vIryamevEtadASizo 'BisaMpAdayati#}
+<ls n="ŚAT. BR.">1,9,1,17. 5,3,1,12.</ls>
+<div n="p">— {#upasam#}
+<div n="1"> 1) {%gelangen zu%}: {#ganDArAnevopasaMpadyeta#}
+<ls>CHĀND. UP. 6,14,2.</ls> {#taM deSamupasaMpede#}
+<ls>MBH. 11,363.</ls> {#ekatvamupasaMpanno na tvAse 'haM tvayA saha#}
+<ls n="MBH.">5,1195.</ls> {#aparabrahmaBAvamupasaMpannaH#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 199.</ls> {#upasaMpanna = prApta#}
+<ls>H. an. 5,25.</ls> — Das partic. {#upasaMpanna#} hat noch folgende Bedeutungen:
+<div n="1"> 2) {%fertig, zubereitet%} (von Speisen)
+<ls>AK. 2,9,45.</ls>
+<ls>H. 413.</ls>
+<ls>an. 5. 25.</ls>
+<div n="1">— 3) {%vollkommen vertraut mit%}: {#deSakAlopasaMpannA (go)#}
+<ls>MBH. 13,3466.</ls>
+<div n="1">— 4) {%hinreichend%}, = {#paryApta#}
+<ls>H. an.</ls> <ls>HALĀY. 2,171.</ls>
+<div n="1">— 5) {%versehen mit%}: {#kusumErupasaMpannA (nadI)#}
+<ls>R. 2,95,3.</ls> {#guREH#}
+<ls n="R.">1,7,5.</ls> {#maNgalEH#}
+<ls n="R.">2,25,42.</ls> {#varRarUpopasaMpanna#}
+<ls>M. 4,68.</ls> {#kulaSIla°#}
+<ls>MBH. 3,2426.</ls>
+<div n="1">— 5) {%heimgegangen, gestorben%}
+<ls>H. 373.</ls>
+<ls>H. an.</ls> (hier ist {#mfte#} st. {#mftO#} zu lesen).
+<ls>HALĀY. 3,7.</ls> {#Srotriye tUpa- saMpanne trirAtramaSucirBavet#}
+<ls>M. 5,81.</ls>
+<ls>KULL.</ls> erklärt {#upasaMpanne#} durch {#mEtrAdinA tatsamIpavartini tadgfhavAsini#} und ergänzt {#saMsTite#} {%gestorben%} aus dem vorangehenden <is>Śloka</is>. {%geschlachtet, geopfert%}
+<ls>AK. 2,7,26.</ls>
+<div n="v">— Vgl. {#upasaMpatti#} . — caus.
+<div n="1"> 1) {%herbeischaffen, verschaffen, zuführen%}: {#GftaM SvetAni mAlyAni samiDaScEva sarzapAn . upasaMpAdayAmAsa#}
+<ls>R. 2,25,26.</ls> {#asti naH kozanicayo mahAnaviditastava . tamahaM veda nAnyastamupasaMpAdayAmi te ..#}
+<ls>MBH. 5,4630.</ls>
+<div n="1">— 2) bei den Buddhisten {%in den Stand der Priester aufnehmen, Jmd der Priesterweihe theilhaftig machen%}: {#sa AyuzmatA SAriputreRa pravrAjita upasaMpAdita AgamacatuzwayaM ca grAhitaH#}
+<ls>BURN. Intr. 48</ls>; vgl. {#upasaMpadA#} bei
+<ls>KÖPPEN, I,335. 374.</ls>
 <LEND>

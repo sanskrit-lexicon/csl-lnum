@@ -1,6 +1,6 @@
 <L>1984<pc>066<k1>commissary<k2>commissary
 {@Commissary,@}¦ {%s.%} {#sEnyAnAM BojanAdi pari-#}
-<div n="lb"/>{#-kalpakaH#} {@2@} {%See%} {@Deputy. -Commisariat,@}
-<div n="lb"/>{%s.%} {#sEnyAnAM BojanAdyaDikAraH#}. {@2@} {#sEnyAnAM#}
-<div n="lb"/>{#BojanAdyaDikftaH#}.
+{#-kalpakaH#} {@2@} {%See%} {@Deputy. -Commisariat,@}
+{%s.%} {#sEnyAnAM BojanAdyaDikAraH#}. {@2@} {#sEnyAnAM#}
+{#BojanAdyaDikftaH#}.
 <LEND>

@@ -1,11 +1,11 @@
 <L>8638<pc>202-a<k1>division<k2>division
-<div n="lb"/>DIVISION¦, {%s.%} (Dividing, separating) {#CedaH, vicCedaH -danaM, BedaH, viBedaH#}
-<div n="lb"/>{#-danaM, KaRqanaM, paricCedaH, paricCittiH#} {%f.,%} {#CittiH#} {%f.,%} {#pfTakkaraRaM, dviDAkaraRaM,#}
-<div n="lb"/>{#dvEDIkaraRaM#}. — (Partition) {#BAjanaM, viBAgaH, praviBAgaH, viBAgakaraRaM,#}
-<div n="lb"/>{#aMSanaM, udDAraviBAgaH, udDAraH -raRaM#}. — (Disunion) {#viyogaH, visaMyogaH,#}
-<div n="lb"/>{#viprayogaH, viSlezaH#}. — (State of being divided) {#BinnatA, viBinnatA,#}
-<div n="lb"/>{#vicCinnatA, viBaktatA#}. — (Part, distinct portion) {#BAgaH, KaRqaH,#}
-<div n="lb"/>{#viBAgaH, deSaH, pradeSaH, ekadeSaH#}. — (Division of time) {#kAlaviBaktiH#} {%f.%}
-<div n="lb"/> — (Of an army) {#gulmaH, dala, sEnyavyUhaH#}. — (In arithmetic)
-<div n="lb"/>{#BAgaharaH -hAraH, haraRaM, CedanaM#}.
+DIVISION¦, {%s.%} (Dividing, separating) {#CedaH, vicCedaH -danaM, BedaH, viBedaH#}
+{#-danaM, KaRqanaM, paricCedaH, paricCittiH#} {%f.,%} {#CittiH#} {%f.,%} {#pfTakkaraRaM, dviDAkaraRaM,#}
+{#dvEDIkaraRaM#}. — (Partition) {#BAjanaM, viBAgaH, praviBAgaH, viBAgakaraRaM,#}
+{#aMSanaM, udDAraviBAgaH, udDAraH -raRaM#}. — (Disunion) {#viyogaH, visaMyogaH,#}
+{#viprayogaH, viSlezaH#}. — (State of being divided) {#BinnatA, viBinnatA,#}
+{#vicCinnatA, viBaktatA#}. — (Part, distinct portion) {#BAgaH, KaRqaH,#}
+{#viBAgaH, deSaH, pradeSaH, ekadeSaH#}. — (Division of time) {#kAlaviBaktiH#} {%f.%}
+ — (Of an army) {#gulmaH, dala, sEnyavyUhaH#}. — (In arithmetic)
+{#BAgaharaH -hAraH, haraRaM, CedanaM#}.
 <LEND>

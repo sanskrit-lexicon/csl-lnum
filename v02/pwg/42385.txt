@@ -1,18 +1,18 @@
 <L>42385<pc>4-0488<k1>paramaka<k2>paramaka
-{#paramaka#}¦ (von {#parama#}) <lex>adj.</lex> (f. {#paramikA#}) {%der vorzüglichste, höchste, beste, grösste, ärgste, summus%}: {#saKA#} 
-<ls>R. 4, 35, 13.</ls> {#guru#} 
-<ls>MBH. 1, 7267.</ls> {#Darma#} 
-<ls>3, 13695.</ls> {#tapas#} 
-<ls>10710.</ls> {#tejas#} 
-<ls>5, 2391.</ls> {#dAta#} 
-<ls>13, 3410.</ls> {#sidDi#} 
-<ls>1, 614. 3, 4068. 18, 132. 201.</ls> {#gati#} 
-<ls>1, 6133.</ls> {#mud#} 
-<ls>4858. 7602.</ls> <ls>INDR. 5, 59.</ls> {#cintA#} 
-<ls>MBH. 13, 1479.</ls> {#harza#} 
-<ls>7, 1761.</ls> {#Arti#} 
-<ls>5, 7228.</ls> {#duHKa#} 
-<ls>4, 619.</ls> Fälschlich {#pAramakaM padam#} 
-<ls>13, 3350</ls> und {#duHKaM paramikam#} 
-<ls>BRĀHMAṆ. 1,</ls> <ls>?16; vgl. MBH. 1, 6124.</ls>
+{#paramaka#}¦ (von {#parama#}) <lex>adj.</lex> (f. {#paramikA#}) {%der vorzüglichste, höchste, beste, grösste, ärgste, summus%}: {#saKA#}
+<ls>R. 4,35,13.</ls> {#guru#}
+<ls>MBH. 1,7267.</ls> {#Darma#}
+<ls n="MBH.">3,13695.</ls> {#tapas#}
+<ls n="MBH. 3,">10710.</ls> {#tejas#}
+<ls n="MBH.">5,2391.</ls> {#dAta#}
+<ls n="MBH.">13,3410.</ls> {#sidDi#}
+<ls n="MBH.">1,614.</ls> <ls n="MBH.">3,4068.</ls> <ls n="MBH.">18,132.</ls> <ls n="MBH. 18,">201.</ls> {#gati#}
+<ls n="MBH.">1,6133.</ls> {#mud#}
+<ls n="MBH. 1,">4858.</ls> <ls n="MBH. 1,">7602.</ls> <ls>INDR. 5,59.</ls> {#cintA#}
+<ls>MBH. 13,1479.</ls> {#harza#}
+<ls n="MBH.">7,1761.</ls> {#Arti#}
+<ls n="MBH.">5,7228.</ls> {#duHKa#}
+<ls n="MBH.">4,619.</ls> Fälschlich {#pAramakaM padam#}
+<ls n="MBH.">13,3350</ls> und {#duHKaM paramikam#}
+<ls>BRĀHMAṆ. 1,16</ls>; vgl. <ls>MBH. 1,6124.</ls>
 <LEND>

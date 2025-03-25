@@ -1,8 +1,8 @@
 <L>1952<pc>068<k1>besides<k2>besides
-<div n="lb"/>{@BESIDES@}¦ (prep.): <div n="1">(1) by a comp. with {#BinnaH#}
-<div n="lb"/>({#nnA, nnaM#}) <div n="xe">{%or%}</div> <div n="xs">{#vyatiriktaH#}</div> ({#ktA, ktaM#}) <div n="xe">{%b. this, another%}
-<div n="lb"/>{%misfortune has befallen us%}</div> <div n="xs">{#etadBinnaM#}</div> <div n="xe">{%or%}</div> <div n="xs">{#etad-#}
-<div n="lb"/>{#vyatiriktaM vyasanamaparamasmAkamApatitam;#}</div> </div><div n="1">(2) {#vihAya, #}
-<div n="lb"/>{# apahAya,#} etc. (with acc.), <div n="xe">{%I have no other friend%}
-<div n="lb"/>{%b. you%}</div> <div n="xs">{#tvAmapahAya mamAparo banDurnAsti.#}</div></div>
+{@BESIDES@}¦ (prep.): <div n="1">(1) by a comp. with {#BinnaH#}
+({#nnA, nnaM#}) <div n="xe">{%or%}</div> <div n="xs">{#vyatiriktaH#}</div> ({#ktA, ktaM#}) <div n="xe">{%b. this, another%}
+{%misfortune has befallen us%}</div> <div n="xs">{#etadBinnaM#}</div> <div n="xe">{%or%}</div> <div n="xs">{#etad-#}
+{#vyatiriktaM vyasanamaparamasmAkamApatitam;#}</div> </div><div n="1">(2) {#vihAya, #}
+{# apahAya,#} etc. (with acc.), <div n="xe">{%I have no other friend%}
+{%b. you%}</div> <div n="xs">{#tvAmapahAya mamAparo banDurnAsti.#}</div></div>
 <LEND>

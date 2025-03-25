@@ -1,4 +1,4 @@
 <L>2372<pc>081<k1>borough<k2>borough
-<div n="lb"/>{@BOROUGH:@}¦ {#nagaram#} (=town); {#*briwanIyamahAsaBAyAM #}
-<div n="lb"/>{# pratiniDipreraRADikAri nagaram.#}
+{@BOROUGH:@}¦ {#nagaram#} (=town); {#*briwanIyamahAsaBAyAM #}
+{# pratiniDipreraRADikAri nagaram.#}
 <LEND>

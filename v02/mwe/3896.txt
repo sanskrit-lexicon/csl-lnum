@@ -1,5 +1,5 @@
 <L>3896<pc>084-a<k1>cavalry<k2>cavalry
-<div n="lb"/>CAVALRY¦, {%s.%} {#ASvaM, ASvikaM, aSvIyaM, aSvAH#} {%m. pl.,%} {#aSvArohAH#} {%m. pl.,%}
-<div n="lb"/>{#aSvArohaM senANgaM, aSvArUQAH#} {%m. pl.,%} {#aSvArohiRaH#} {%m. pl.,%} {#hayArUQAH#}
-<div n="lb"/>{%m. pl.,%} {#aSvavahAH#} {%m. pl.,%} {#sAdinaH#} {%m. pl.,%} {#turaNgiRaH#} {%m. pl.,%} {#turaNgayAyinaH#} {%m. pl.%}
+CAVALRY¦, {%s.%} {#ASvaM, ASvikaM, aSvIyaM, aSvAH#} {%m. pl.,%} {#aSvArohAH#} {%m. pl.,%}
+{#aSvArohaM senANgaM, aSvArUQAH#} {%m. pl.,%} {#aSvArohiRaH#} {%m. pl.,%} {#hayArUQAH#}
+{%m. pl.,%} {#aSvavahAH#} {%m. pl.,%} {#sAdinaH#} {%m. pl.,%} {#turaNgiRaH#} {%m. pl.,%} {#turaNgayAyinaH#} {%m. pl.%}
 <LEND>

@@ -1,6 +1,6 @@
 <L>1210<pc>042<k1>brick<k2>brick
 {@Brick,@}¦ {%s.%} {#izwakA, suDA;#} ‘burnt b.’ {#pakvezwakA;#}
-<div n="lb"/>‘b. bit’ {#izwakASakalaM;#} ‘b. kiln’ {#ApAkaH,#}
-<div n="lb"/>{#pacanasTAnaM;#} ‘b. layer’ {#lepakaH, suDAjIvin#}
-<div n="lb"/>{%m.;%} ‘b. work’ {#izwakAnirmitaM#}.
+‘b. bit’ {#izwakASakalaM;#} ‘b. kiln’ {#ApAkaH,#}
+{#pacanasTAnaM;#} ‘b. layer’ {#lepakaH, suDAjIvin#}
+{%m.;%} ‘b. work’ {#izwakAnirmitaM#}.
 <LEND>

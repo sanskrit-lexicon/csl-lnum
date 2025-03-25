@@ -1,52 +1,51 @@
-<L>1174<pc>041-b<k1>Ikz<k2>Ikz
-{#Ikz#}¦ 1. {%A.%} (Praet. augm. 1. {#Ekze,#} gr. 318. Hanc radicis for-
-[Page042-a+ 37]
-<div n="lb">mam ortam esse puto ex {#akz,#} unde {#akza#} et {#akzi#} ocu-
-<div n="lb">lus et radix gr. <lang n="greek"></lang> videre, intueri, spectare. BH. 6. 29.
-<div n="lb">PAT. 10.: {#Ekzata;#} IN. 5. 39. (Vocibus quas supra cum
-<div n="lb">{#akza#} comparavimus, addendum est goth. {%haih-s,%} Th.
-<div n="lb">{%haiha%} unoculus, de quo egimus in gr. comp. 308. annot.).
-<div n="pfx">c. {#aDi#} {%id.%} HIT. 129. 22.
-<div n="pfx">c. {#apa#} 1) respicere, considerare. RAM. III. 3. 58. 20.: {#yayA#}
-<div n="lb">{#nA 'pekzyate rAjA#}. 2) exspectare. UR. 22. 8. infr. 64. 4.
-<div n="pfx">c. {#ava#} 1) videre, intueri, observare. H. 1. 50. 2. 6. A. 4.
-<div n="lb">38. N. 23. 11. PAT. 25. 2) respicere. BR. 3. 14. N. 12. 16.
-<div n="lb">SA. 4. 33. -- c. {#ava#} praef. {#anu (anvavekz)#} 1) videre.
-<div n="lb">RAM. III. 70. 59.: {#vipradrutAn sarvAn yUTapAn anvavE-#}
-<div n="lb">{#kzata#}. 2) contemplari. MAN. 6. 65.: {#sUkzmatAYcA'nvave#}
-<div n="lb">{#kzeta#}. -- c. {#ava#} praef. {#prati (pratyavekz)#} 1) videre.
-<div n="lb">2) respicere. RAM. I. 29. 28.: {#na Darmam pratyavekzate#}. --
-<div n="lb">c. {#ava#} praef. {#sam (samavekz)#} 1) videre. GHAT. 19.:
-<div n="lb">{#maDunaH samavekzya kAlatAm#}. 2) visitare. GHAT. 13.:
-<div n="lb">{#kim itica mAM samavekzase na dInAm#}.
-<div n="pfx">c. {#ut#} videre, conspicere, intueri. A. 6. 6. SA. 5. 63.
-<div n="pfx">c. {#upa#} 1) {%id.%} N. 22. 5. 2) ignoscere, indulgere, tolerare.
-<div n="lb">MAH. Exord. 137.: {#dyutAdIn anayAn…upEkzata#}.
-<div n="lb">3) spernere, repudiare, negligere. RAM. III. 66. 24.:
-<div n="lb">{#ciran nA 'rhati mAm upekzitum#}.
-<div n="pfx">c. {#nis (nir)#} conspicere, intueri, spectare, contem-
-<div n="lb">plari. H. 4. 41. BH. 1. 22. SA. 4. 32.: {#nirIkzamARA#} (sic
-<div n="lb">cum ed. Calc. legendum pro {#nirIkzyamARA#}).
-<div n="pfx">c. {#pari#} explorare. N. 24. 3.: {%Caus.%} MAN. 7. 194.: {#tAYca#}
-<div n="lb">{#samyak parIkzayet#}.
-<div n="pfx">c. {#pra#} {%i. q. simpl.%} IN. 2. 26. DR. 2. 1.: {#prekzamARA#} (sic cum
-<div n="lb">ed. Calc. pro {#prekzyamARA#} legendum). -- {%Part. praes. P.%}
-<div n="lb">{%invenitur.%} H. 3. 7.: {#prekzatyAs te#}. -- c. {#pra#} praef. {#anu#}
-<div n="lb">{#(anuprekz)#} {%id.%} DR. 5. 23. -- c. {#pra#} praef. {#aBi (aBi-#}
-<div n="lb">{#prekz)#} intueri, adspicere. DR. 8. 39. 9. 18. -- c. {#pra#} praef.
-<div n="lb">{#A (Aprekz)#} {%i. q. simpl.%} H. 3. 21. -- c. {#pra#} praef. {#sam#}
-<div n="lb">{#(samprekz)#} {%id.%} N. 6. 2. 19. 36. BR. 2. 18. BH. 6. 13. -- c. {#pra#}
-<div n="lb">praef. {#aBi + sam (aBisamprekz)#} {%id.%} H. 2. 28. DR. 8. 57.
-<div n="pfx">c. {#prati#} exspectare. IN. 1. 13. N. 20. 17. M. 39. -- c. {#prati#}
+<L>1174<pc>041-1b<k1>Ikz<k2>Ikz
+{#Ikz#}¦ 1. {%A.%} (Praet. augm. 1. {#Ekze#}, gr. 318. Hanc radicis formam [Page042-a+ 37]
+ortam esse puto ex {#akz#}, unde {#akza#} et {#akzi#} oculus
+et radix gr. <lang n="greek">ὈΠ</lang> videre, intueri, spectare. BH. 6.29.
+PAT. 10.: {#Ekzata#}; IN. 5.39. (Vocibus quas supra cum
+{#akza#} comparavimus, addendum est goth. {%haih-s%}, Th.
+{%haiha%} unoculus, de quo egimus in gr. comp. 308. annot.).
+<div n="pfx">c. {#aDi#} {%id.%} HIT. 129.22.
+<div n="pfx">c. {#apa#} 1) respicere, considerare. RAM. III.3.58. 20.: {#yayA
+nA 'pekzyate rAjA#}. 2) exspectare. UR. 22.8.infr. 64.4.
+<div n="pfx">c. {#ava#} 1) videre, intueri, observare. H. 1.50. 2.6. A. 4.38.
+N. 23.11. PAT. 25. 2) respicere. BR. 3.14. N. 12.16. SA. 4.33.
+<div n="pfx">c. {#ava#} praef. {#anu (anvavekz)#} 1) videre.
+RAM. III.70.59.: {#vipradrutAn sarvAn yUTapAn anvavEkzata#}.
+2) contemplari. MAN. 6.65.: {#sUkzmatAYcA'nvave kzeta#}.
+<div n="pfx">c. {#ava#} praef. {#prati (pratyavekz)#} 1) videre.
+2) respicere. RAM. I.29.28.: {#na Darmam pratyavekzate#}.
+<div n="pfx">c. {#ava#} praef. {#sam (samavekz)#} 1) videre. GHAT. 19.:
+{#maDunaH samavekzya kAlatAm#}. 2) visitare. GHAT. 13.:
+{#kim itica mAM samavekzase na dInAm#}.
+<div n="pfx">c. {#ut#} videre, conspicere, intueri. A. 6.6. SA. 5.63.
+<div n="pfx">c. {#upa#} 1) {%id.%} N. 22.5. 2) ignoscere, indulgere, tolerare.
+MAH. Exord. 137.: {#dyutAdIn anayAn…upEkzata#}.
+3) spernere, repudiare, negligere. RAM. III.66.24.:
+{#ciran nA 'rhati mAm upekzitum#}.
+<div n="pfx">c. {#nis (nir)#} conspicere, intueri, spectare, contemplari.
+H. 4.41. BH. 1.22. SA. 4.32.: {#nirIkzamARA#} (sic
+cum ed. Calc. legendum pro {#nirIkzyamARA#}).
+<div n="pfx">c. {#pari#} explorare. N. 24.3.: {%Caus.%} MAN. 7.194.: {#tAYca
+samyak parIkzayet#}.
+<div n="pfx">c. {#pra#} {%i. q. simpl.%} IN. 2.26. DR. 2.1.: {#prekzamARA#} (sic cum
+ed. Calc. pro {#prekzyamARA#} legendum). — {%Part. praes. P. invenitur%}. H. 3.7.: {#prekzatyAs te#}.
+<div n="pfx">c. {#pra#} praef. {#anu (anuprekz)#} {%id.%} DR. 5.23.
+<div n="pfx">c. {#pra#} praef. {#aBi (aBiprekz)#} intueri, adspicere. DR. 8.39. 9.18.
+<div n="pfx">c. {#pra#} praef. {#A (Aprekz)#} {%i. q. simpl.%} H. 3.21.
+<div n="pfx">c. {#pra#} praef. {#sam (samprekz)#} {%id.%} N. 6.2. 19.36. BR. 2.18. BH. 6.13.
+<div n="pfx">c. {#pra#} praef. {#aBi + sam (aBisamprekz)#} {%id.%} H. 2.28. DR. 8.57.
+<div n="pfx">c. {#prati#} exspectare. IN. 1.13. N. 20.17. M. 39.
+<div n="pfx">c. {#prati#}
 [Page042-b+ 36]
-<div n="lb">praef. {#sam (sampratIkz)#} {%id.%} RAM. III. 76. 29.: {#tvAn#}
-<div n="lb">{#nagarI sampratIkzate#}.
-<div n="pfx">c. {#vi#} videre. N. 26. 21. BH. 11. 22. -- c. {#vi#} praef. {#aBi#}
-<div n="lb">{#(aBivIkz)#} {%id.%} -- c. {#vi#} praef. {#ut (udvIkz)#} 1) {%id.%}
-<div n="lb">RAM. III. 48. 80. 2) respicere. RAM. III. 45. 33.: {#udvI-#}
-<div n="lb">{#kzamARA BartAram#} -- c. {#vi#} praef. {#upa (upavIkz)#} {%i. q.%}
-<div n="lb">{%simpl.%} RAM. III. 45. 33. -- c. {#vi#} praef. {#prati (prati-#}
-<div n="lb">{#vIkz)#} {%id.%} RAM. I. 14. 37.
-<div n="pfx">c. {#sam#} 1) videre, observare. H. 4. 5. 26. N. 16. 9. 23. 5.
-<div n="lb">2) respicere. BR. 2. 32.
+praef. {#sam (sampratIkz)#} {%id.%} RAM. III.76.29.: {#tvAn
+nagarI sampratIkzate#}.
+<div n="pfx">c. {#vi#} videre. N. 26.21. BH. 11.22.
+<div n="pfx">c. {#vi#} praef. {#aBi (aBivIkz)#} {%id.%}
+<div n="pfx">c. {#vi#} praef. {#ut (udvIkz)#} 1) {%id.%} RAM. III.48.80. 2) respicere. RAM. III.45.33.: {#udvIkzamARA BartAram#}
+<div n="pfx">c. {#vi#} praef. {#upa (upavIkz)#} {%i. q. simpl.%} RAM. III.45.33.
+<div n="pfx">c. {#vi#} praef. {#prati (prativIkz)#}
+{%id.%} RAM. I.14.37.
+<div n="pfx">c. {#sam#} 1) videre, observare. H. 4.5. 26. N. 16.9. 23.5.
+2) respicere. BR. 2.32.
 <LEND>

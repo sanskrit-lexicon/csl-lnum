@@ -1,9 +1,9 @@
 <L>3078<pc>116<k1>dissent<k2>dissent
 {@Dissent,@}¦ {%v. i.%} {#vivad#} 1 A, {#visaMvad#} 1 P, {#na#}
-<div n="lb"/>{#saMman#} 4 A, {#anyaTA man, anyamata#} {%a.%} {#BU#}. {%-s.%}
-<div n="lb"/>{#vEmatyaM#} {%f.,%} {#asaMmati#} {%f.,%} {#matiBedaH, vimatiH#} {%f,%} {#vi-#}
-<div n="lb"/>{#-saMvAdaH, viroDaH, vipratipatti#} {%f.%} {@-er,@} {%s.%} {#Binna-#}
-<div n="lb"/>{#-matAvalaMbin#} {%m.%} {@2@} {#sADAraRaDarmaviroDin#} {%m.%}
-<div n="lb"/>{@-ient,@} {%a.%} {#vimata, Binnamata, asaMvAdin;#}
-<div n="lb"/>‘without one d. voice’, {#sarvezAmEkamatyena#}.
+{#saMman#} 4 A, {#anyaTA man, anyamata#} {%a.%} {#BU#}. {%-s.%}
+{#vEmatyaM#} {%f.,%} {#asaMmati#} {%f.,%} {#matiBedaH, vimatiH#} {%f,%} {#vi-#}
+{#-saMvAdaH, viroDaH, vipratipatti#} {%f.%} {@-er,@} {%s.%} {#Binna-#}
+{#-matAvalaMbin#} {%m.%} {@2@} {#sADAraRaDarmaviroDin#} {%m.%}
+{@-ient,@} {%a.%} {#vimata, Binnamata, asaMvAdin;#}
+‘without one d. voice’, {#sarvezAmEkamatyena#}.
 <LEND>

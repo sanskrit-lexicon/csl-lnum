@@ -1,9 +1,9 @@
 <L>78292<pc>416,1<k1>jalp<k2>jalp<e>1
-<s>jalp</s> ¦ (√ <s>lap</s> <ab>redupl.</ab>?) <ab>cl.</ab> 1. <s>ja/lpati</s> (<ab>ep.</ab> also <ab>Ā.</ab> <ab>pf.</ab> <s>jajalpa</s>, <ls>R.</ls>) to speak inarticulately, murmur, <ls>ŚBr. xi, 5, 1, 4</ls> <pb n="416,2"/>;
+<s>jalp</s> ¦ (√ <s>lap</s> <ab>redupl.</ab>?) <ab>cl.</ab> 1. <s>ja/lpati</s> (<lang>ep.</lang> also <ab>Ā.</ab> <ab>pf.</ab> <s>jajalpa</s>, <ls>R.</ls>) to speak inarticulately, murmur, <ls>ŚBr. xi, 5, 1, 4</ls> <pb n="416,2"/>;
 <div n="to"/>to chatter, prattle, <ls>W.</ls>;
 <div n="to"/>to say, speak, converse with (<ab>instr.</ab> or <s>sA<srs/>rDam</s>), <ls>MBh.</ls>; <ls>R.</ls> &c.;
-<div n="to"/>to speak about (<ab>acc.</ab>), <ls>MBh. iv, 864; v, 4515</ls>;
+<div n="to"/>to speak about (<ab>acc.</ab>), <ls>MBh. iv, 864</ls>; <ls n="MBh.">v, 4515</ls>;
 <div n="to"/> = √ <s>arc</s>, to praise, <ls>Naigh. iii, 14</ls>;
-<div n="to"/> (said of the <ns>Koīl</ns>) to sound (its song), <ls>Bhartṛ.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>jalpayati</s> to cause to speak, <ls>Pāṇ. 1-4, 52</ls>, <ab>Vārtt.</ab> 3.<info whitneyroots="jalp,53"/><info verb="root" cp="1Ā"/>
+<div n="to"/> (said of the <ns>Koïl</ns>) to sound (its song), <ls>Bhartṛ.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>jalpayati</s> to cause to speak, <ls>Pāṇ. i, 4, 52</ls>, <ab>Vārtt.</ab> 3.<info whitneyroots="jalp,53"/><info verb="root" cp="1Ā"/>
 <LEND>

@@ -1,10 +1,10 @@
-<L>231587<pc>1144,2<k1>saMDA<k2>saM-DA<h>a<e>1
-<s>saM-√ DA</s> <hom>a</hom> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-daDAti</s>, <s>-Datte</s> (<ab>ep.</ab> 1. <ab>pl.</ab> <ab>pr.</ab> <s>-daDAmahe</s> = <s>-daDmahe</s>; <ab>pr.p.</ab> <s>-DAna</s> = <s>-daDAna</s>; <ab>inf.</ab> <s>-Ditum</s> = <s>-DAtum</s>), 
+<L>231587<pc>1144,2<k1>saMDA<k2>saM-DA<e>1
+<s>saM-√ DA</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-daDAti</s>, <s>-Datte</s> (<lang>ep.</lang> 1. <ab>pl.</ab> <ab>pr.</ab> <s>-daDAmahe</s> = <s>-daDmahe</s>; <ab>pr.p.</ab> <s>-DAna</s> = <s>-daDAna</s>; <ab>inf.</ab> <s>-Ditum</s> = <s>-DAtum</s>),
 <div n="to"/>to place or hold or put or draw or join or fasten or fix or sew together, unite (with <s>akzIRi</s>, ‘to close the eyes’; with <s>vraRam</s>, ‘to heal a wound’; with <s>manas</s>, ‘to compose the mind’; with <s>mitra/-DitAni</s>, ‘to conclude an alliance’; with <s>vAcam</s>, ‘to hold or interchange conversation’), to combine, connect with (<ab>instr.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/> (<ab>Ā.</ab>) to bring together, reconcile, <ls>Mn.</ls>; <ls>MBh.</ls>;
 <div n="to"/>to be reconciled, agree with (<ab>instr.</ab>, rarely <ab>acc.</ab>), <ls>PañcavBr.</ls> &c. &c.;
 <div n="to"/>to mend, restore, redress, <ls>AitBr.</ls>; <ls>ChUp.</ls> &c.;
-<div n="to"/>to lay down on or in (<ab>loc.</ab>), fix on (<ab>esp.</ab> an arrow on a bow, with <ab>instr.</ab> or with <ab>loc.</ab> <ab>e.g.</ab> <s>DanuH SareRa</s>, or <s>SaraM Danuzi</s>, ‘to take aim’; generally <ab>Ā.</ab>), <ls>MBh.</ls>; <ls>R.</ls>; <ls>Hariv.</ls>;
+<div n="to"/>to lay down on or in (<ab>loc.</ab>), fix on (<ab>esp.</ab> an arrow on a bow, with <ab>instr.</ab> or with <ab>loc.</ab>, <ab>e.g.</ab> <s>DanuH SareRa</s>, or <s>SaraM Danuzi</s>, ‘to take aim’; generally <ab>Ā.</ab>), <ls>MBh.</ls>; <ls>R.</ls>; <ls>Hariv.</ls>;
 <div n="to"/> (<ab>Ā.</ab>) to direct towards (<s>tataH</s>), <ls>Ragh.</ls>;
 <div n="to"/>to aim at (?), <ls>RV. v, 54, 2</ls>;
 <div n="to"/>to involve in (<ab>loc.</ab>), <ls>RV. i, 165, 6</ls>;
@@ -13,8 +13,8 @@
 <div n="to"/> (<ab>Ā.</ab>) to be a match for, hold out against (<ab>acc.</ab>), <ls>Pañcat.</ls>;
 <div n="to"/>to comprehend, <ls>MBh.</ls>;
 <div n="to"/> (<ab>Ā.</ab>) to use, employ (<ab>instr.</ab>), <ls>MBh. iv, 964</ls> :
-<div n="to"/><ab>Pass.</ab> <s>-DIyate</s>, to be put together or joined or connected &c.;
+<div n="vp"/><ab>Pass.</ab> <s>-DIyate</s>, to be put together or joined or connected &c.;
 <div n="to"/>to be placed or held in (<ab>loc.</ab>), <ls>RV. i, 168, 3</ls>;
 <div n="to"/>to become possessed of (<ab>instr.</ab>), <ls>AitBr.</ls> :
-<div n="to"/><ab>Desid.</ab> <s>-Ditsati</s>, to wish to place or join together, desire to repair, <ls>ŚBr.</ls><info verb="pre" cp="PĀ" parse="sam+DA"/>
+<div n="vp"/><ab>Desid.</ab> <s>-Ditsati</s>, to wish to place or join together, desire to repair, <ls>ŚBr.</ls><info verb="pre" cp="PĀ" parse="sam+DA"/><info hui="a"/>
 <LEND>

@@ -1,6 +1,6 @@
 <L>22656<pc>715<k1>tomorrow<k2>tomorrow
-<div n="lb"/>{@TOMORROW:@}¦ <div n="1">(1) {#SvaH,#} <div n="xe">{%day after t.:%}</div> <div n="xs">{#paraSvaH:#}</div> <div n="xe">{%t.%}
-<div n="lb"/>{%morning:%}</div> <div n="xs">{#SvaH praBAte,#}</div> Ram.; <div n="xe">{%of t.:%}</div> <div n="xs">{#SvastanaH#}</div> ({#nI, #}
-<div n="lb"/>{# naM#}) <div n="xe">{%or%}</div> <div n="xs">{#Svastya#}</div> (f. {#styA#}); </div><div n="1">(2) {#kalyam#} (also =
-<div n="lb"/>yesterday).</div>
+{@TOMORROW:@}¦ <div n="1">(1) {#SvaH,#} <div n="xe">{%day after t.:%}</div> <div n="xs">{#paraSvaH:#}</div> <div n="xe">{%t.%}
+{%morning:%}</div> <div n="xs">{#SvaH praBAte,#}</div> Ram.; <div n="xe">{%of t.:%}</div> <div n="xs">{#SvastanaH#}</div> ({#nI, #}
+{# naM#}) <div n="xe">{%or%}</div> <div n="xs">{#Svastya#}</div> (f. {#styA#}); </div><div n="1">(2) {#kalyam#} (also =
+yesterday).</div>
 <LEND>

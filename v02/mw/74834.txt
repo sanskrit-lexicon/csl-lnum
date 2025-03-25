@@ -1,3 +1,7 @@
-<L>74834<pc>401,2<k1>cUrRI<k2>cUrRI<h>a<e>2
-<s>cUrRi</s>, <s>°RI</s>, ¦ <lex>f.</lex> the shell <bio>Cypraea moneta</bio> (one <s1 slp1="kaparda">Kaparda</s1>), <ls>L.</ls> <ab>Sch.</ab>; 100 <s1 slp1="kaparda">Kaparda</s1>s, <ls>Uṇ. iv, 52</ls> <ab>Sch.</ab><info or="74834,cUrRI;74839,cUrRi"/><info lex="f"/>
+<L>74834<pc>401,2<k1>cUrRI<k2>cUrRI<e>2
+<s>cUrRi</s>, <s>°RI</s>, ¦ <lex>f.</lex> the shell <bio>Cypraea moneta</bio> (one <s1>Kaparda</s1>), <ls>L.</ls>, <ab>Sch.</ab>; 100 <s1>Kaparda</s1>s, <ls>Uṇ. iv, 52</ls>, <ab>Sch.</ab>;
+<div n="P"/> ‘noticing every minute point of difficulty’, <ab>N.</ab> of <ls>Pat.</ls>'s <ab>Comm.</ab> (<s1>Mahā-bhāṣya</s1>), <ls>L.</ls>, <ab>Sch.</ab>;
+<div n="P"/> of the <lang>Old Prākṛt</lang> commentaries on <ns>Jain</ns> texts;
+<div n="P"/> selection of an unanswerable argument, <ls>W.</ls>;
+<div n="P"/> <ab>cf.</ab> <s>eka-</s>.<info lex="f"/>
 <LEND>

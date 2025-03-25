@@ -1,4 +1,4 @@
 <L>196<pc>0022<k1>ajoza<k2>a/-joza
-{@á-joṣa,@}¦ a., {%kein Genüge%} (jósa) {%habend, unersättlich, <lbinfo n="9"/> begierig.%}
-<div n="P1">-ās [<ab>N.</ab> <ab>p.</ab> <ab>f.</ab>] gíras {9,4}.
+<chg type="chg" n="10" src="gra"><old>{@á-josa,@}</old><new>{@á-joṣa,@}</new></chg>¦ <ab>a.</ab>, {%kein Genüge%} (<chg type="chg" n="10" src="gra"><old>jósa</old><new>jóṣa</new></chg>) {%habend, unersättlich, begierig%}.
+<div n="TS">-ās [<ab>N.</ab> <ab>p.</ab> <ab>f.</ab>] gíras {9,4}.
 <LEND>

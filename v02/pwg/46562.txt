@@ -1,228 +1,209 @@
 <L>46562<pc>4-0824<k1>pU<k2>pU<h>1
-1. {#pU#}¦, {#punA/ti#} und {#punIte/#} 
-<ls>DHĀTUP. 31, 12.</ls> 
-<ls>P. 7, 3, 80.</ls> 
-<ls>VOP. 16, 2.</ls> {#punIhi, punItAt, puna/te#} und {#punate/, apunata, punIze/#} (1. pers.); {#pa/vate (pavamAna#} s. bes.) 
-<ls>DHĀTUP. 22, 70.</ls> {#apavaTAs#}; act. {#(A) pava#} nur 
-<ls>ṚV. 9, 49, 3.</ls> {#pavant#} nur 
-<ls>BHAG. 10, 31</ls>; {#apupot, pupuvus#} (
-<ls>ŚĀṄKH. ŚR. 14, 62, 2</ls>), {#apAvizus, pavizwa, pavizyati#} (
-<ls>P. 7, 2, 10,</ls> 
-<ls>Sch.</ls>); {#pUtvI#} (ved.), {#pUtvA#} und {#pavitvA#} 
-<ls>P. 1, 2, 22. 7, 2, 51.</ls> 
-<ls>VOP. 26, 103. 104. 208</ls>; pass. {#pUyate; pUta (pavita#} s. u. dem caus.; auch {#pUna#} in der Bed. {#vinazwa#} 
-<ls>P. 8, 2, 44, <is>Vārtt</is>. 3</ls> {#yavAH#} 
-<ls>Schol.</ls> <ls>VOP. 26, 95</ls>). 
+1. {#pU#}¦, {#punA/ti#} und {#punIte/#}
+<ls>DHĀTUP. 31,12.</ls>
+<ls>P. 7,3,80.</ls>
+<ls>VOP. 16,2.</ls> {#punIhi, punItAt, puna/te#} und {#punate/, apunata, punIze/#} (1. pers.); {#pa/vate (pavamAna#} s. bes.)
+<ls>DHĀTUP. 22,70.</ls> {#apavaTAs#}; act. {#(A) pava#} nur
+<ls>ṚV. 9,49,3.</ls> {#pavant#} nur
+<ls>BHAG. 10,31</ls>; {#apupot, pupuvus#} (
+<ls>ŚĀṄKH. ŚR. 14,62,2</ls>), {#apAvizus, pavizwa, pavizyati#} (
+<ls>P. 7,2,10</ls>, <ls>Sch.</ls>);
+{#pUtvI#} (ved.), {#pUtvA#} und {#pavitvA#}
+<ls>P. 1,2,22.</ls> <ls n="P.">7,2,51.</ls>
+<ls>VOP. 26,103.</ls> <ls n="VOP. 26,">104.</ls> <ls n="VOP. 26,">208</ls>; pass. {#pUyate; pUta (pavita#} s. u. dem caus.; auch {#pUna#} in der Bed. {#vinazwa#}
+<ls>P. 8,2,44</ls>, <is>Vārtt</is>. 3 {#yavAH#}
+<ls>Schol.</ls> <ls>VOP. 26,95</ls>).
 <div n="1"> 1) {%reinigen, läutern, klären%}; überh. {%rein machen%} (z. B. Korn von der Spreu); {%sühnen%},
-<lang n="greek">καθαίρω;</lang> med. {%sich reinigen, gereinigt ausfliessen, - abträufeln, sich klären%}: {#saktu^miva\ tita^unA pu\nanta^H#} 
-<ls>ṚV. 10, 71, 2.</ls> 
-<ls>VS. 23, 26.</ls> {#(ApaH) sa\li\lasya\ maDyA^tpunA\nA ya^nti#} 
-<ls>ṚV. 7, 49, 1.</ls> {#vfzRa\H koSa^H pavate\ maDva^ U\rmiH#} 
-<ls n="ṚV.">2, 16, 5.</ls> {#(somam) pu\nI\hIndrA^ya\ pAta^ve#} 
-<ls n="ṚV.">9, 51, 1.</ls> <ls n="ṚV. 9,">71, 3.</ls> <ls n="ṚV. 9,">96, 12.</ls> <ls n="ṚV. 9,">11, 5.</ls> <ls n="ṚV. 9,">64, 10.</ls> {#u\Be pu^nAmi\ roda^sI f\tena^#} 
-<ls n="ṚV.">1, 133, 1.</ls> <ls n="ṚV. 1,">160, 3.</ls> <ls n="ṚV.">3, 2, 9.</ls>
+<lang n="greek">καθαίρω</lang>; med. {%sich reinigen, gereinigt ausfliessen, — abträufeln, sich klären%}: {#saktu^miva\ tita^unA pu\nanta^H#}
+<ls>ṚV. 10,71,2.</ls>
+<ls>VS. 23,26.</ls> {#(ApaH) sa\li\lasya\ maDyA^tpunA\nA ya^nti#}
+<ls>ṚV. 7,49,1.</ls> {#vfzRa\H koSa^H pavate\ maDva^ U\rmiH#}
+<ls n="ṚV.">2,16,5.</ls> {#(somam) pu\nI\hIndrA^ya\ pAta^ve#}
+<ls n="ṚV.">9,51,1.</ls> <ls n="ṚV. 9,">71,3.</ls> <ls n="ṚV. 9,">96,12.</ls> <ls n="ṚV. 9,">11,5.</ls> <ls n="ṚV. 9,">64,10.</ls> {#u\Be pu^nAmi\ roda^sI f\tena^#}
+<ls n="ṚV.">1,133,1.</ls> <ls n="ṚV. 1,">160,3.</ls> <ls n="ṚV.">3,2,9.</ls>
 [Page4-0825]
-{#a\va\dyAni^ punA\nAH#} 
-<ls n="ṚV.">6, 66, 4.</ls> <ls>AV. 4, 24, 4. 6, 19, 1.</ls> {#tvaM pu^nIhi duri\tAnya\smat#} 
-<ls>19, 33, 3.</ls> {#sami^dDo a\gniH su\punA^ punAti#} 
-<ls>12, 2, 11.</ls> {#Apa^stvA punantu\ Suca^ya\H Suci^m#} 
-<ls>10, 6, 3. 6, 19, 1. 62, 1.</ls> {#a\pA\lAM trizpU\tvI#} 
-<ls>ṚV. 8, 80, 7.</ls> 
-<ls>VS. 7, 1. 21. 8, 57.</ls> {#agna\ AyU^Mzi pavase#} 
-<ls>VS. 19, 38.</ls> {#pu\nA\ne ta\nvA^ mi\TaH svena\ dakze^Ra rAjaTaH#} {%klar werden%} 
-<ls>ṚV. 4, 56, 6.</ls> {#varRa^M punA\nAH#} {%klar erscheinen lassen%} 
-<ls n="ṚV.">2, 3, 5.</ls> <ls>PĀR. GṚHY. 2, 2.</ls> {#yo ya\jYAya^ punI\te#} 
-<ls>TS. 6, 1, 2, 1.</ls> {#a\dByo hira^RyaM punanti#} {%auswaschen%} 
-<ls>7, 1.</ls> {#dvAdaSAvarAndvAdaSa parAnpunAti#} 
-<ls>ĀŚV. GṚHY. 1, 6.</ls> 
-<ls>MBH. 3, 12730.</ls> 
-<ls>M. 1, 105. 11, 248.</ls> 
-<ls>YĀJÑ. 1, 58.</ls> 
-<ls>MBH. 3, 6030.</ls> 
-<ls>R.</ls> Einl. <ls>RAGH. 17, 2.</ls> <ls>BHĀG. P. 1, 1, 15. 3, 16, 21.</ls> {#AsaptamaM kulaM cEva punIte#} 
-<ls>MBH. 3, 7081.</ls> {#punAna#} 
-<ls>RAGH. 1, 53.</ls> {#puRyASramadarSanena tAvadAtmAnaM punImahe#} 
-<ls>ŚĀK. 7, 20.</ls> {#avaSyapAvyaM pavase#} 
-<ls>BHAṬṬ. 6, 64.</ls> {#pavanaH pavatAmasmi#} 
-<ls>BHAG. 10, 31.</ls> {#pavitvA#} 
-<ls>BHAṬṬ. 3, 18.</ls> {#pUtvA (= snAtvA#} Scholl.) {%sich abgewaschen habend%} 
-<ls>9, 39.</ls> pass.: {#(adBiH) hfdgABiH pUyate vipraH kaRWagABistu BUmipaH#} 
-<ls>M. 2, 62. 8, 83. 257.</ls> {#nigraheRa hi pApAnAM sADUtAM saMgraheRa ca . dvijAtaya ivejyABiH pUyante satataM nfpAH ..#} 
-<ls>311. 11, 230. 253.</ls> <ls>MBH. 13, 3440. 14, 45.</ls> <ls>BHĀG. P. 6, 1, 16.</ls> {#pUyate duzkftAt#} 
-<ls>MBH. 3, 10530.</ls> 
-<ls>BHĀG. P. 7, 10, 16.</ls> {#pUyante (= DUyante) sarvapApAni#} 
-<ls>MBH. 1, 247.</ls> 
-<ls>BHĀG. P. 6, 2, 17.</ls> partic. {#pUta = pavitra, meDya, vivikta#} 
-<ls>AK. 2, 7, 44. 3, 2, 5. 3, 4, 14, 85.</ls> 
-<ls>TRIK. 3, 3, 165.</ls> 
-<ls>H. 1435.</ls> 
-<ls>MED. t. 36.</ls> = {#vahulIkfta#} 
-<ls>AK. 2, 9, 23.</ls> 
-<ls>TRIK.</ls> 
-<ls>MED.</ls> = {#nirbusIkfta#} 
-<ls>H. 1183.</ls> = {#Sawita#} (?) 
-<ls>MED.</ls> {#Gfta#} 
-<ls>ṚV. 3, 2, 1.</ls> {#Ajya#} 
-<ls>AV. 6, 115, 3.</ls> {#soma#} 
-<ls>ṚV. 1, 3, 4.</ls> <ls n="ṚV.">8, 83, 5.</ls> {#svaDiti#} {%blank%} 
-<ls n="ṚV.">7, 3, 9.</ls> {#DAnya#} {%von der Spreu gereinigt%} 
-<ls>P. 8, 2, 44, <is>Vārtt</is>. 3.</ls> 
-<ls>Sch.</ls> {#Su\dDAH pU\tA Ba^vata yajYiyAsaH#} 
-<ls>10, 18, 2.</ls> <ls>AV. 6, 122, 5.</ls> <ls>TS. 5, 2, 4, 4.</ls> <ls>ŚAT. BR. 14, 8, 15, 12.</ls> <ls>CHĀND. UP. 5, 10, 10.</ls> <ls>M. 2, 75.</ls> <ls>MBH. 2, 347. 3, 6030.</ls> <ls>BHAG. 4, 10.</ls> <ls>R. 1, 48, 32.</ls> <ls>RAGH. 2, 13.</ls> <ls>BHĀG. P. 7, 10, 16. 17.</ls> {#dfzwipUtaM nyasetpAdaM vastrapUtaM jalaM pivet . satyapUtAM vadedvAcaM manaHpUtaM samAcaret ..#} 
-<ls>Spr. 1232. 2183.</ls> 
-<ls>R. 1, 40, 12.</ls> 
-<ls>RAGH. 2, 15.</ls> 
-<ls>RĀJA-TAR. 5, 163.</ls> 
-<ls>BHAṬṬ. 6, 49.</ls> {#pUtapApa = DUtapApa#} 
-<ls>BHAG. 9, 20.</ls> Vgl. {#apUta#}.{# agasti°, DArA°, pavitra°, brahma°, su°#} . 
-<div n="1">— 2) bildlich von der {%läuternden%} und {%scheidenden%} Thätigkeit des Geistes: {%sichten, unterscheiden; ersinnen, dichten%}; med. auch {%sich klar darstellen%}: {#a\ntarhf\dA mana^sA pU\yamA^nAH#} 
-<ls>ṚV. 4, 58, 6.</ls> 
-<ls>AV. 4, 39, 10.</ls> {#pu\nA\no a\rkam#} 
-<ls>ṚV. 7, 9, 2.</ls> {#pu\nI\ze vA^mara\kzasa^M manI\zAm#} 
-<ls n="ṚV. 7,">85, 1.</ls> <ls n="ṚV.">3, 8, 5.</ls> {#tri\BiH pa\vitrE\rapu^po\dDya1^\rkam#} 
-<ls n="ṚV. 3,">26, 8.</ls> {#tama\Bi kratvA^ puna\tI DI\tira^SyAH#} 
-<ls n="ṚV.">4, 5, 7.</ls> {#pU\tA vAca^H#} 
-<ls n="ṚV.">1, 79, 10.</ls> {#ma\tirnavya^sI\ Suci\H soma^ iva pavate\ cAru^ra\gnaye#} 
-<ls n="ṚV.">6, 8, 1.</ls> {#Gf\taM na Suci^ ma\taya^H pavante#} 
-<ls n="ṚV. 6,">10, 2.</ls> 
-<div n="1">— 3) {%klären, erhellen%} (die Erkenntniss u. s. w.) 
-<ls>ṚV. 8, 12, 11.</ls> {#indra^H su\tezu\ some^zu\ kratu^M punIta u\kTya^m#} 
-<ls n="ṚV. 8,">13, 1.</ls> {#kratu^M punA\naH ka\viBi^H pa\vitrE^H#} 
-<ls n="ṚV.">3, 1, 5.</ls> <ls>VĀLAKH. 5, 6.</ls> {#keta^m#} 
-<ls>VS. 9, 1.</ls> 
-<div n="1">— 4) {%reinigend gehen, - wehen%} (vom Winde); mit acc. {%reinigend durchwehen%}: {#pavamAnaH pavate#} {%der Wind weht%} 
-<ls>AIT. BR. 1, 7.</ls> {#mahya\M vAta^H pavatA\M kAme^ a\smin#} 
-<ls>ṚV. 10, 128, 2.</ls> {#kasmA\daNgA^tpavate mAta\riSvA^#} 
-<ls>AV. 10, 7, 2.</ls> {#vAtAH#} 
-<ls>13, 3, 2.</ls> {#sarvA\ diSa^H pavate mAta\riSvA^#} 
-<ls>19. 19, 54, 2. 8, 1, 5.</ls> <ls>VS. 36, 10.</ls> <ls>ŚAT. BR. 1, 7, 1, 3. 3, 1, 3, 19.</ls> <ls>CHĀND. UP. 4, 16, 1.</ls> <ls>BHAṬṬ. 20, 29.</ls> = {#gatikarman#} 
-<ls>NAIGH. 2, 14</ls> <ls>?(vgl. DHĀTUP. 14, 40, v. l.)</ls> Vgl. {#pavamAna#} . 
-<div n="1">— 5) so v. a. {#aBigacCati#} nach 
-<ls>SĀY.</ls> in der Stelle: {#e\Birna^ i\ndrAha^BirdaSasya durmi\trAso\ hi kzi\taya\H pava^nte#} 
-<ls>ṚV. 7, 28, 4.</ls> vielleicht im Anschluss an Bed. 3. so v. a. {%Pläne —, Anschläge machen.%}
-
-<div n="p">— caus. {#pava/yati#} und {#pAva/yati#} {%reinigen%}: {#yaja^mAname\vEtayA^ pavayati#} 
-<ls>TS. 2, 5, 8, 6.</ls> {#yadda^rBapuYjI\lEH pa\vaya^ti#} 
-<ls>6, 1, 1, 7.</ls> {#ba\hiH pa^vayi\tvAntaH prapA^dayati#} 
-<ls>2, 1.</ls> <ls>ŚAT. BR. 12, 4, 4, 6. 7.</ls> <ls>TBR. 1, 7, 6, 4.</ls> {#pavita = pUta#} 
-<ls>P. 1, 2, 22. 7, 2, 51.</ls> 
-<ls>VOP. 26, 103. fg.</ls> {#pavito 'nuguRErvAtEH SItEH#} 
-<ls>BHAṬṬ. 9, 39.</ls> {#pAvayati#} 
-<ls>AIT. BR.1, 3.</ls> <ls>ŚAT. BR. 3, 1, 3, 18. 12, 8, 1, 9.</ls> <ls>KĀTY. ŚR. 7, 3, 1. 19, 2, 27.</ls> <ls>YĀJÑ. 1, 60. 3, 35.</ls> <ls>MBH. 5, 414. 14, 51.</ls> <ls>R. GORR. 1, 36, 9. 37, 23.</ls> <ls>Spr. 1697.</ls> <ls>ŚĀK. 83.</ls> <ls>MĀRK. P. 56, 17.</ls>
+{#a\va\dyAni^ punA\nAH#}
+<ls n="ṚV.">6,66,4.</ls> <ls>AV. 4,24,4.</ls> <ls n="AV.">6,19,1.</ls> {#tvaM pu^nIhi duri\tAnya\smat#}
+<ls n="AV.">19,33,3.</ls> {#sami^dDo a\gniH su\punA^ punAti#}
+<ls n="AV.">12,2,11.</ls> {#Apa^stvA punantu\ Suca^ya\H Suci^m#}
+<ls n="AV.">10,6,3.</ls> <ls n="AV.">6,19,1.</ls> <ls n="AV. 6,">62,1.</ls> {#a\pA\lAM trizpU\tvI#}
+<ls>ṚV. 8,80,7.</ls>
+<ls>VS. 7,1. 21. 8,57.</ls> {#agna\ AyU^Mzi pavase#}
+<ls>VS. 19,38.</ls> {#pu\nA\ne ta\nvA^ mi\TaH svena\ dakze^Ra rAjaTaH#} {%klar werden%}
+<ls>ṚV. 4,56,6.</ls> {#varRa^M punA\nAH#} {%klar erscheinen lassen%}
+<ls n="ṚV.">2,3,5.</ls> <ls>PĀR. GṚHY. 2,2.</ls> {#yo ya\jYAya^ punI\te#}
+<ls>TS. 6,1,2,1.</ls> {#a\dByo hira^RyaM punanti#} {%auswaschen%}
+<ls n="TS.">7,1.</ls> {#dvAdaSAvarAndvAdaSa parAnpunAti#}
+<ls>ĀŚV. GṚHY. 1,6.</ls>
+<ls>MBH. 3,12730.</ls>
+<ls>M. 1,105.</ls> <ls n="M.">11,248.</ls>
+<ls>YĀJÑ. 1,58.</ls>
+<ls>MBH. 3,6030.</ls>
+<ls>R.</ls> Einl. <ls>RAGH. 17,2.</ls> <ls>BHĀG. P. 1,1,15.</ls> <ls n="BHĀG. P.">3,16,21.</ls> {#AsaptamaM kulaM cEva punIte#}
+<ls>MBH. 3,7081.</ls> {#punAna#}
+<ls>RAGH. 1,53.</ls> {#puRyASramadarSanena tAvadAtmAnaM punImahe#}
+<ls>ŚĀK. 7,20.</ls> {#avaSyapAvyaM pavase#}
+<ls>BHAṬṬ. 6,64.</ls> {#pavanaH pavatAmasmi#}
+<ls>BHAG. 10,31.</ls> {#pavitvA#}
+<ls>BHAṬṬ. 3,18.</ls> {#pUtvA#} (= {#snAtvA#} Scholl.) {%sich abgewaschen habend%}
+<ls n="BHAṬṬ.">9,39.</ls> pass.: {#(adBiH) hfdgABiH pUyate vipraH kaRWagABistu BUmipaH#}
+<ls>M. 2,62.</ls> <ls n="M.">8,83.</ls> <ls n="M. 8,">257.</ls> {#nigraheRa hi pApAnAM sADUtAM saMgraheRa ca . dvijAtaya ivejyABiH pUyante satataM nfpAH ..#}
+<ls n="M. 8,">311.</ls> <ls n="M.">11,230.</ls> <ls n="M. 11,">253.</ls> <ls>MBH. 13,3440.</ls> <ls n="MBH.">14,45.</ls> <ls>BHĀG. P. 6,1,16.</ls> {#pUyate duzkftAt#}
+<ls>MBH. 3,10530.</ls>
+<ls>BHĀG. P. 7,10,16.</ls> {#pUyante#} (= {#DUyante) sarvapApAni#}
+<ls>MBH. 1,247.</ls>
+<ls>BHĀG. P. 6,2,17.</ls> partic. {#pUta = pavitra, meDya, vivikta#}
+<ls>AK. 2,7,44.</ls> <ls n="AK.">3,2,5.</ls> <ls n="AK.">3,4,14,85.</ls>
+<ls>TRIK. 3,3,165.</ls>
+<ls>H. 1435.</ls>
+<ls>MED. t. 36.</ls> = {#vahulIkfta#}
+<ls>AK. 2,9,23.</ls>
+<ls>TRIK.</ls>
+<ls>MED.</ls> = {#nirbusIkfta#}
+<ls>H. 1183.</ls> = {#Sawita#} (?)
+<ls>MED.</ls> {#Gfta#}
+<ls>ṚV. 3,2,1.</ls> {#Ajya#}
+<ls>AV. 6,115,3.</ls> {#soma#}
+<ls>ṚV. 1,3,4.</ls> <ls n="ṚV.">8,83,5.</ls> {#svaDiti#} {%blank%}
+<ls n="ṚV.">7,3,9.</ls> {#DAnya#} {%von der Spreu gereinigt%}
+<ls>P. 8,2,44</ls>, <is>Vārtt</is>. 3.
+<ls>Sch.</ls> {#Su\dDAH pU\tA Ba^vata yajYiyAsaH#}
+<ls n="ṚV.">10,18,2.</ls> <ls>AV. 6,122,5.</ls> <ls>TS. 5,2,4,4.</ls> <ls>ŚAT. BR. 14,8,15,12.</ls> <ls>CHĀND. UP. 5,10,10.</ls> <ls>M. 2,75.</ls> <ls>MBH. 2,347.</ls> <ls n="MBH.">3,6030.</ls> <ls>BHAG. 4,10.</ls> <ls>R. 1,48,32.</ls> <ls>RAGH. 2,13.</ls> <ls>BHĀG. P. 7,10,16.</ls> <ls n="BHĀG. P. 7,10,">17.</ls> {#dfzwipUtaM nyasetpAdaM vastrapUtaM jalaM pivet . satyapUtAM vadedvAcaM manaHpUtaM samAcaret ..#}
+<ls>Spr. 1232.</ls> <ls n="Spr.">2183.</ls>
+<ls>R. 1,40,12.</ls>
+<ls>RAGH. 2,15.</ls>
+<ls>RĀJA-TAR. 5,163.</ls>
+<ls>BHAṬṬ. 6,49.</ls> {#pUtapApa = DUtapApa#}
+<ls>BHAG. 9,20.</ls> Vgl. {#apUta#}.{# agasti°, DArA°, pavitra°, brahma°, su°#} .
+<div n="1">— 2) bildlich von der {%läuternden%} und {%scheidenden%} Thätigkeit des Geistes: {%sichten, unterscheiden; ersinnen, dichten%}; med. auch {%sich klar darstellen%}: {#a\ntarhf\dA mana^sA pU\yamA^nAH#}
+<ls>ṚV. 4,58,6.</ls>
+<ls>AV. 4,39,10.</ls> {#pu\nA\no a\rkam#}
+<ls>ṚV. 7,9,2.</ls> {#pu\nI\ze vA^mara\kzasa^M manI\zAm#}
+<ls n="ṚV. 7,">85,1.</ls> <ls n="ṚV.">3,8,5.</ls> {#tri\BiH pa\vitrE\rapu^po\dDya1^\rkam#}
+<ls n="ṚV. 3,">26,8.</ls> {#tama\Bi kratvA^ puna\tI DI\tira^SyAH#}
+<ls n="ṚV.">4,5,7.</ls> {#pU\tA vAca^H#}
+<ls n="ṚV.">1,79,10.</ls> {#ma\tirnavya^sI\ Suci\H soma^ iva pavate\ cAru^ra\gnaye#}
+<ls n="ṚV.">6,8,1.</ls> {#Gf\taM na Suci^ ma\taya^H pavante#}
+<ls n="ṚV. 6,">10,2.</ls>
+<div n="1">— 3) {%klären, erhellen%} (die Erkenntniss u. s. w.)
+<ls>ṚV. 8,12,11.</ls> {#indra^H su\tezu\ some^zu\ kratu^M punIta u\kTya^m#}
+<ls n="ṚV. 8,">13,1.</ls> {#kratu^M punA\naH ka\viBi^H pa\vitrE^H#}
+<ls n="ṚV.">3,1,5.</ls> <ls>VĀLAKH. 5,6.</ls> {#keta^m#}
+<ls>VS. 9,1.</ls>
+<div n="1">— 4) {%reinigend gehen, — wehen%} (vom Winde); mit acc. {%reinigend durchwehen%}: {#pavamAnaH pavate#} {%der Wind weht%}
+<ls>AIT. BR. 1,7.</ls> {#mahya\M vAta^H pavatA\M kAme^ a\smin#}
+<ls>ṚV. 10,128,2.</ls> {#kasmA\daNgA^tpavate mAta\riSvA^#}
+<ls>AV. 10,7,2.</ls> {#vAtAH#}
+<ls n="AV.">13,3,2.</ls> {#sarvA\ diSa^H pavate mAta\riSvA^#}
+<ls n="AV. 10,7,">19.</ls> <ls n="AV.">19,54,2.</ls> <ls n="AV.">8,1,5.</ls> <ls>VS. 36,10.</ls> <ls>ŚAT. BR. 1,7,1,3.</ls> <ls n="ŚAT. BR.">3,1,3,19.</ls> <ls>CHĀND. UP. 4,16,1.</ls> <ls>BHAṬṬ. 20,29.</ls> = {#gatikarman#}
+<ls>NAIGH. 2,14</ls> (vgl. <ls>DHĀTUP. 14,40</ls>, v. l.) Vgl. {#pavamAna#} .
+<div n="1">— 5) so v. a. {#aBigacCati#} nach
+<ls>SĀY.</ls> in der Stelle: {#e\Birna^ i\ndrAha^BirdaSasya durmi\trAso\ hi kzi\taya\H pava^nte#}
+<ls>ṚV. 7,28,4.</ls> vielleicht im Anschluss an Bed. 3. so v. a. {%Pläne —, Anschläge machen.%}
+<div n="p">— caus. {#pava/yati#} und {#pAva/yati#} {%reinigen%}: {#yaja^mAname\vEtayA^ pavayati#}
+<ls>TS. 2,5,8,6.</ls> {#yadda^rBapuYjI\lEH pa\vaya^ti#}
+<ls n="TS.">6,1,1,7.</ls> {#ba\hiH pa^vayi\tvAntaH prapA^dayati#}
+<ls n="TS.">2,1.</ls> <ls>ŚAT. BR. 12,4,4,6. 7.</ls> <ls>TBR. 1,7,6,4.</ls> {#pavita = pUta#}
+<ls>P. 1,2,22.</ls> <ls n="P.">7,2,51.</ls>
+<ls>VOP. 26,103. fg.</ls> {#pavito 'nuguRErvAtEH SItEH#}
+<ls>BHAṬṬ. 9,39.</ls> {#pAvayati#}
+<ls>AIT. BR. 1,3.</ls> <ls>ŚAT. BR. 3,1,3,18.</ls> <ls n="ŚAT. BR.">12,8,1,9.</ls> <ls>KĀTY. ŚR. 7,3,1.</ls> <ls n="KĀTY. ŚR.">19,2,27.</ls> <ls>YĀJÑ. 1,60.</ls> <ls n="YĀJÑ.">3,35.</ls> <ls>MBH. 5,414.</ls> <ls n="MBH.">14,51.</ls> <ls>R. GORR. 1,36,9.</ls> <ls n="R. GORR. 1,">37,23.</ls> <ls>Spr. 1697.</ls> <ls>ŚĀK. 83.</ls> <ls>MĀRK. P. 56,17.</ls>
 [Page4-0826]
-{#pAvayAM kriyAt#} ved. 
-<ls>P. 3, 1, 42.</ls> = {#pAvyAt#} 
-<ls>Schol.</ls> {#apIpavat#} 
-<ls>P. 7, 4, 80, Schol.</ls> {#pAvayasva#} 
-<ls>MBH. 7, 2116.</ls> {#pAvyate#} pass. 
-<ls>M. 3, 183.</ls> {#pAvita#} 
-<ls>2, 75.</ls> <ls>MBH. 4, 192. 7, 2757. 13, 3957.</ls> <ls>HARIV. 8637.</ls> <ls>R. 1, 65, 31.</ls> <ls>KUMĀRAS. 5, 37.</ls>
-
-<div n="p">— desid. {#pupUzati#} 
-<ls>P. 7, 2, 74,</ls> 
-<ls>Sch.</ls> {#pipavizate#} 
-<ls>P. 7, 2, 74. 7, 4, 80,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 19, 7.</ls> desid. vom caus. {#pipAvayizati#} 
-<ls>P. 7, 4, 80,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 19, 14.</ls>
-
-<div n="p">— {#ati#} {%läutern über, - durch%}: {#soma\mati\ vAra^mapAvizuH#} 
-<ls>ṚV. 9, 60, 2.</ls> <ls n="ṚV. 9, 60,">3.</ls> med. {%reinigend durchrinnen, durchpurgiren%}; bes. gebraucht von der Wirkung des getrunkenen <is>Soma</is>, der auf dem natürlichen Wege (und als laxans) durchgeht: {#Cidra iva vA eza yaM somo 'tipavate#} 
-<ls>PAÑCAV. BR. 18, 5, 4.</ls> 
-<ls>TBR. 1, 8, 6, 6.</ls> 
-<ls>ŚAT. BR. 5, 3, 5, 3.</ls> 
-<ls>KĀṬH. 12, 10.</ls> {#sa sahasratame saMvatsare sarvo 'tyapavata#} 
-<ls>ŚAT. BR. 10, 4, 4, 3.</ls> {#atipUta#} und {#atipavita#} so v. a. {#jIrRasoma#} und Gegens. zu {#somavAmin#} 
-<ls>TBR. 1, 8, 5, 5. 6, 4.</ls> 
-<ls>PAÑCAV. BR. 18, 5, 3.</ls> 
-<ls>KĀṬH. 12, 9.</ls> 
-<ls>ŚAT. BR. 5, 5, 4, 13.</ls> {#ya izwvA pApIyAnsyAtsa somAtipavita iti SARqilyaH . yaH somaM pItvA Cardayeta viricyeta veti DAnaMjayyaH#} 
-<ls>LĀṬY. 8, 10, 7. fgg.</ls> 
-<ls>KĀTY. ŚR. 15, 10, 21. 19, 1, 2. 2, 9.</ls> {#viqvA etamatipavate yo rAjAparuDyate#} {%purgando ejicit%} 
-<ls>PAÑCAV. BR. 18, 5, 6. fg.</ls>
-
-<div n="p">— {#anu#} med. {%reinigend entlang strömen, - wehen%} 
-<ls>ŚAT. BR. 1, 7, 1, 12. 3, 8. 3, 21. 14, 1, 2, 23.</ls>
-
-<div n="p">— {#aBi#} 
-<div n="1"> 1) {%sich läutern —, gereinigt ausfliessen in der Richtung auf. zum Zweck von, für Etwas%}: {#a\Bi somA^sa A\yava\H pava^nte\ madya\M mada^m#} 
-<ls>ṚV. 9, 23, 4.</ls> {#a\Bi pri\yARi^ pavate\ nAmA^ni#} 
-<ls n="ṚV. 9,">75, 1.</ls> {#a\Bi de\vavI^ti\mindrA^ya soma pavasva#} 
-<ls n="ṚV. 9,">89, 7.</ls> {#Gf\tasya\ DArA^ a\Bi tatpa^vanta#} 
-<ls n="ṚV.">4, 58, 9.</ls> 
-<div n="1">— 2) {%zuwehen auf%}: {#yadaBipavate (vAyuH)#} 
-<ls>TBR. 2, 3, 9, 1.</ls> {#divam#} 
-<ls>4.</ls> <ls>TS. 5, 4, 9, 4.</ls> 
-<div n="1">— 3) {%verklären%}: {#sa e^naM tf\pto BUtyA\Bipa^vate#} 
-<ls>TS. 3, 2, 3, 3.</ls> 
-<ls>AV. 12, 1, 12.</ls>
-
-<div n="p">— {#A#} 
-<div n="1"> 1) med. {%geläutert fliessen zu%} (acc.), {%in%} (loc.) 
-<ls>ṚV. 9, 8, 7.</ls> {#pu\nA\na indu\rindra\mA#} 
-<ls n="ṚV. 9,">66, 28.</ls> {#indra^syendo ja\Wara\mA pa^vasva#} 
-<ls n="ṚV. 9,">70, 10.</ls> <ls n="ṚV. 9,">80, 3.</ls> <ls n="ṚV. 9,">84, 3.</ls> <ls n="ṚV. 9,">90, 4.</ls> 
-<div n="1">— 2) {%Etwas herströmen zu%}: {#te na^H saha\sriRa^M ra\yiM pava^ntA\mA su\vIrya^m#} 
-<ls>ṚV. 9, 13, 5.</ls> <ls n="ṚV. 9,">49, 1.</ls> 
-<ls>VS. 8, 63.</ls> auch act.: {#a\smaBya^M vf\zwimA pa^va#} 
-<ls>ṚV. 9, 49, 3.</ls>
-
-<div n="p">— {#samA#} {%reinigen%}: {#agniH pavitraM#} (nom.) {#samApunAtu#} 
-<ls>SIDDH. K.</ls> zu <ls>P.3,2,186.</ls>
-
-<div n="p">— {#ud#} {%ausreinigen, läutern%} 
-<ls>AV. 12, 1, 30.</ls> {#sa\vi\turva^H prasava utpu^nA\myacCi^dreRa pa\vitre^Ra#} 
-<ls>VS. 1, 12.</ls> 
-<ls>TBR. 1, 7, 6, 1. 3, 2, 3, 10.</ls> {#yadda\rBEra\pa u^tpu\nAti^#} 
-<ls>5, 1.</ls> <ls>ŚAT. BR. 1, 1, 3, 3.</ls> {#Ajyam#} 
-<ls>3, 1, 22. 3, 4, 1, 18.</ls> <ls>KĀTY. ŚR. 4, 10, 5.</ls> {#sarpiranutpUtaM navanItaM votpUtam#} 
-<ls>ĀŚV. ŚR. 2, 6.</ls> 
-<ls>AIT. BR. 2, 23.</ls> 
-<ls>KAUŚ. 2.</ls> {#tata\ utpu^nIta naH#} {%rein herausziehen%} 
-<ls>TBR. 3, 7, 12, 6.</ls> 
+{#pAvayAM kriyAt#} ved.
+<ls>P. 3,1,42.</ls> = {#pAvyAt#}
+<ls>Schol.</ls> {#apIpavat#}
+<ls>P. 7,4,80</ls>, Schol. {#pAvayasva#}
+<ls>MBH. 7,2116.</ls> {#pAvyate#} pass.
+<ls>M. 3,183.</ls> {#pAvita#}
+<ls n="M.">2,75.</ls> <ls>MBH. 4,192.</ls> <ls n="MBH.">7,2757.</ls> <ls n="MBH.">13,3957.</ls> <ls>HARIV. 8637.</ls> <ls>R. 1,65,31.</ls> <ls>KUMĀRAS. 5,37.</ls>
+<div n="p">— desid. {#pupUzati#}
+<ls>P. 7,2,74</ls>, <ls>Sch.</ls>
+{#pipavizate#}
+<ls>P. 7,2,74.</ls> <ls n="P.">7,4,80</ls>, <ls>Sch.</ls>
+<ls>VOP. 19,7.</ls> desid. vom caus. {#pipAvayizati#}
+<ls>P. 7,4,80</ls>, <ls>Sch.</ls>
+<ls>VOP. 19,14.</ls>
+<div n="p">— {#ati#} {%läutern über, — durch%}: {#soma\mati\ vAra^mapAvizuH#}
+<ls>ṚV. 9,60,2.</ls> <ls n="ṚV. 9,60,">3.</ls> med. {%reinigend durchrinnen, durchpurgiren%}; bes. gebraucht von der Wirkung des getrunkenen <is>Soma</is>, der auf dem natürlichen Wege (und als laxans) durchgeht: {#Cidra iva vA eza yaM somo 'tipavate#}
+<ls>PAÑCAV. BR. 18,5,4.</ls>
+<ls>TBR. 1,8,6,6.</ls>
+<ls>ŚAT. BR. 5,3,5,3.</ls>
+<ls>KĀṬH. 12,10.</ls> {#sa sahasratame saMvatsare sarvo 'tyapavata#}
+<ls>ŚAT. BR. 10,4,4,3.</ls> {#atipUta#} und {#atipavita#} so v. a. {#jIrRasoma#} und Gegens. zu {#somavAmin#}
+<ls>TBR. 1,8,5,5. 6,4.</ls>
+<ls>PAÑCAV. BR. 18,5,3.</ls>
+<ls>KĀṬH. 12,9.</ls>
+<ls>ŚAT. BR. 5,5,4,13.</ls> {#ya izwvA pApIyAnsyAtsa somAtipavita iti SARqilyaH . yaH somaM pItvA Cardayeta viricyeta veti DAnaMjayyaH#}
+<ls>LĀṬY. 8,10,7. fgg.</ls>
+<ls>KĀTY. ŚR. 15,10,21. 19,1,2. 2,9.</ls> {#viqvA etamatipavate yo rAjAparuDyate#} {%purgando ejicit%}
+<ls>PAÑCAV. BR. 18,5,6. fg.</ls>
+<div n="p">— {#anu#} med. {%reinigend entlang strömen, — wehen%}
+<ls>ŚAT. BR. 1,7,1,12. 3,8. 3,21. 14,1,2,23.</ls>
+<div n="p">— {#aBi#}
+<div n="1"> 1) {%sich läutern —, gereinigt ausfliessen in der Richtung auf. zum Zweck von, für Etwas%}: {#a\Bi somA^sa A\yava\H pava^nte\ madya\M mada^m#}
+<ls>ṚV. 9,23,4.</ls> {#a\Bi pri\yARi^ pavate\ nAmA^ni#}
+<ls n="ṚV. 9,">75,1.</ls> {#a\Bi de\vavI^ti\mindrA^ya soma pavasva#}
+<ls n="ṚV. 9,">89,7.</ls> {#Gf\tasya\ DArA^ a\Bi tatpa^vanta#}
+<ls n="ṚV.">4,58,9.</ls>
+<div n="1">— 2) {%zuwehen auf%}: {#yadaBipavate (vAyuH)#}
+<ls>TBR. 2,3,9,1.</ls> {#divam#}
+<ls n="TBR.">4.</ls> <ls>TS. 5,4,9,4.</ls>
+<div n="1">— 3) {%verklären%}: {#sa e^naM tf\pto BUtyA\Bipa^vate#}
+<ls>TS. 3,2,3,3.</ls>
+<ls>AV. 12,1,12.</ls>
+<div n="p">— {#A#}
+<div n="1"> 1) med. {%geläutert fliessen zu%} (acc.), {%in%} (loc.)
+<ls>ṚV. 9,8,7.</ls> {#pu\nA\na indu\rindra\mA#}
+<ls n="ṚV. 9,">66,28.</ls> {#indra^syendo ja\Wara\mA pa^vasva#}
+<ls n="ṚV. 9,">70,10.</ls> <ls n="ṚV. 9,">80,3.</ls> <ls n="ṚV. 9,">84,3.</ls> <ls n="ṚV. 9,">90,4.</ls>
+<div n="1">— 2) {%Etwas herströmen zu%}: {#te na^H saha\sriRa^M ra\yiM pava^ntA\mA su\vIrya^m#}
+<ls>ṚV. 9,13,5.</ls> <ls n="ṚV. 9,">49,1.</ls>
+<ls>VS. 8,63.</ls> auch act.: {#a\smaBya^M vf\zwimA pa^va#}
+<ls>ṚV. 9,49,3.</ls>
+<div n="p">— {#samA#} {%reinigen%}: {#agniH pavitraM#} (nom.) {#samApunAtu#}
+<ls>SIDDH. K.</ls> zu <ls>P. 3,2,186.</ls>
+<div n="p">— {#ud#} {%ausreinigen, läutern%}
+<ls>AV. 12,1,30.</ls> {#sa\vi\turva^H prasava utpu^nA\myacCi^dreRa pa\vitre^Ra#}
+<ls>VS. 1,12.</ls>
+<ls>TBR. 1,7,6,1. 3,2,3,10.</ls> {#yadda\rBEra\pa u^tpu\nAti^#}
+<ls n="TBR.">5,1.</ls> <ls>ŚAT. BR. 1,1,3,3.</ls> {#Ajyam#}
+<ls n="ŚAT. BR.">3,1,22. 3,4,1,18.</ls> <ls>KĀTY. ŚR. 4,10,5.</ls> {#sarpiranutpUtaM navanItaM votpUtam#}
+<ls>ĀŚV. ŚR. 2,6.</ls>
+<ls>AIT. BR. 2,23.</ls>
+<ls>KAUŚ. 2.</ls> {#tata\ utpu^nIta naH#} {%rein herausziehen%}
+<ls>TBR. 3,7,12,6.</ls>
 <div n="v">— Vgl. {#utpavana#} fg., {#utpAva#} .
-
-<div n="p">— {#ni#}, partic. {#nipUta#} {%durchgeseiht, geläutert auf%}: {#vane\ nipU^ta\M vana\ unna^yaDvam#} 
-<ls>ṚV. 2, 14, 9.</ls> {#a\yaM ta^ indra\ somo\ nipU^to\ aDi^ ba\rhizi^#} 
-<ls n="ṚV.">8, 17, 11.</ls>
-
-<div n="p">— {#nis#} {%reinigend abschütteln%} (die Spreu), {%reinigen%} überh. 
-<ls>ŚAT. BR. 1, 1, 4, 21.</ls> 
-<ls>KĀTY. ŚR. 2, 4, 18.</ls> 
-<ls>KAUŚ. 61.</ls> {#yavAnnizpUtAn#} (so ist zu lesen) 
-<ls>SUŚR. 2, 72, 9.</ls> {#prAyaScittAni cIrRAni nArAyaRaparANmuKam . na nizpunanti rAjendra surAkumBamivApagAH ..#} 
-<ls>BHĀG. P. 6, 1, 18.</ls> 
+<div n="p">— {#ni#}, partic. {#nipUta#} {%durchgeseiht, geläutert auf%}: {#vane\ nipU^ta\M vana\ unna^yaDvam#}
+<ls>ṚV. 2,14,9.</ls> {#a\yaM ta^ indra\ somo\ nipU^to\ aDi^ ba\rhizi^#}
+<ls n="ṚV.">8,17,11.</ls>
+<div n="p">— {#nis#} {%reinigend abschütteln%} (die Spreu), {%reinigen%} überh.
+<ls>ŚAT. BR. 1,1,4,21.</ls>
+<ls>KĀTY. ŚR. 2,4,18.</ls>
+<ls>KAUŚ. 61.</ls> {#yavAnnizpUtAn#} (so ist zu lesen)
+<ls>SUŚR. 2,72,9.</ls> {#prAyaScittAni cIrRAni nArAyaRaparANmuKam . na nizpunanti rAjendra surAkumBamivApagAH ..#}
+<ls>BHĀG. P. 6,1,18.</ls>
 <div n="v">— Vgl. {#nizpavaRa, nizpAva#} .
-
-<div n="p">— {#pratinis#} {%daneben abschütteln%} (?) 
+<div n="p">— {#pratinis#} {%daneben abschütteln%} (?)
 <ls>KAUŚ. 14.</ls>
-
-<div n="p">— {#parA#} {%reinigend beseitigen%} 
-<ls>AV. 11, 1, 11.</ls> 
-<ls>VS. 1, 16.</ls>
-
-<div n="p">— {#pari#} {%durchseihen, läutern%}: {#soma\H pari^pUto\ adri^BiH#} 
-<ls>ṚV. 1, 135, 2.</ls> {#avyo\ vArE^H#} 
-<ls n="ṚV.">8, 2, 2.</ls> <ls n="ṚV.">9, 98, 7.</ls> {#avye^ vaDU\yuH pa^vate\ pari^ tva\ci#} {%rein abrinnen%}
+<div n="p">— {#parA#} {%reinigend beseitigen%}
+<ls>AV. 11,1,11.</ls>
+<ls>VS. 1,16.</ls>
+<div n="p">— {#pari#} {%durchseihen, läutern%}: {#soma\H pari^pUto\ adri^BiH#}
+<ls>ṚV. 1,135,2.</ls> {#avyo\ vArE^H#}
+<ls n="ṚV.">8,2,2.</ls> <ls n="ṚV.">9,98,7.</ls> {#avye^ vaDU\yuH pa^vate\ pari^ tva\ci#} {%rein abrinnen%}
 [Page4-0827]
-
-<ls n="ṚV. 9,">69, 3.</ls> {#paripUta#} {%vollkommen gereinigt, - rein%}: {#DAnya#} 
-<ls>M. 8, 330. 331.</ls> {#jala#} 
-<ls>PAÑCAT. 188, 12.</ls> {#maKaSataparipUtaM gotram#} 
-<ls>MṚCCH. 159, 2.</ls> 
+<ls n="ṚV. 9,">69,3.</ls> {#paripUta#} {%vollkommen gereinigt, — rein%}: {#DAnya#}
+<ls>M. 8,330.</ls> <ls n="M. 8,">331.</ls> {#jala#}
+<ls>PAÑCAT. 188,12.</ls> {#maKaSataparipUtaM gotram#}
+<ls>MṚCCH. 159,2.</ls>
 <div n="v">— Vgl. {#paripavana#} .
-
-<div n="p">— {#vi#} {%vollständig läutern, - reinigen%}: {#satyena vipunIhi mAm (agne)#} 
-<ls>MBH. 2, 1150.</ls> in der Stelle: {#paviH Salyo Bavati yadvipunAti kAyam#} 
-<ls>NIR. 12, 30</ls> nach <ls>DURGA</ls> = {#vidArayati#} .
-
-<div n="p">— {#sam#} {%läutern, reinigen u.s.w.%}: {#f\tasya\ nABA\vaDi\ saM pu^nAmi#} 
-<ls>ṚV. 10, 13, 3.</ls> {#pavanena saMpUya#} 
-<ls>ĀŚV. GṚHY. 4, 5.</ls> — caus. dass.: {#somaM pavitreRa saMpAvayati#} 
-<ls>ŚAT. BR. 1, 7, 1, 13. 15.</ls>
-
-<div n="p">— {#aBisam#} {%hinwehen über%} (acc.) 
-<ls>TBR. 2, 3, 9, 1.</ls> {#diSa^H#} 4.
+<div n="p">— {#vi#} {%vollständig läutern, — reinigen%}: {#satyena vipunIhi mAm (agne)#}
+<ls>MBH. 2,1150.</ls> in der Stelle: {#paviH Salyo Bavati yadvipunAti kAyam#}
+<ls>NIR. 12,30</ls> nach <ls>DURGA</ls> = {#vidArayati#} .
+<div n="p">— {#sam#} {%läutern, reinigen u.s.w.%}: {#f\tasya\ nABA\vaDi\ saM pu^nAmi#}
+<ls>ṚV. 10,13,3.</ls> {#pavanena saMpUya#}
+<ls>ĀŚV. GṚHY. 4,5.</ls> — caus. dass.: {#somaM pavitreRa saMpAvayati#}
+<ls>ŚAT. BR. 1,7,1,13. 15.</ls>
+<div n="p">— {#aBisam#} {%hinwehen über%} (acc.)
+<ls>TBR. 2,3,9,1.</ls> {#diSa^H#} 4.
 <LEND>

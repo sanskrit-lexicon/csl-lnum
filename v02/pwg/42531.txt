@@ -1,23 +1,23 @@
 <L>42531<pc>4-0500<k1>parAcIna<k2>parAcI/na
-{#parAcI/na#}¦ (von {#parAYc#}) 
-<div n="1"> 1) <lex>adj.</lex> 
-<div n="2"> a) {%abgewandt, nach der entgegengesetzten Richtung gewandt%} 
-<ls>AK. 3, 1, 33.</ls> 
-<ls>TRIK. 3, 1, 4.</ls> 
-<ls>H. 1437.</ls> 
-<ls>HALĀY. 4, 72.</ls> {#pa\rA\cInA\ muKA^ kfDi#} 
-<ls>AV. 6, 106, 2.</ls> 
-<ls>VS. 16, 53.</ls> 
-<ls>TS. 6, 5, 11, 1.</ls> 
-<ls>SUŚR. 1, 100, 12.</ls> {#BagaMdara#} 
-<ls>2, 58, 8.</ls> {#°mUla#} 
-<ls>KAUŚ. 50.</ls> {#indriyEH#} 
-<ls>BHĀG. P. 3, 32, 28.</ls> <is>Śrī</is> spricht: {#(sTitAsmi) parAkrame ca Darme ca parAcInastato valiH#} so v. a. {%kümmert sich darum nicht%} 
-<ls>MBH. 12, 8159.</ls> 
-<div n="2">— b) {%jenseits befindlich, - gelegen%} 
-<ls>BHĀG. P. 5, 20, 30. 37.</ls> 
-<div n="1">— 2) {#°nam#} adv. {%darüber hinaus, weg von%}: {#itaH pa°#} 
-<ls>ŚAT. BR. 1, 9, 3, 9.</ls> {%nach%}: {#pa° punarA\DeyA^t#} 
-<ls>TS. 1, 5, 4, 4.</ls> {%mehr%}: {#saptAhAnISAsE na parAcInam#} 
-<ls>KĀṬH. 25, 1.</ls>
+{#parAcI/na#}¦ (von {#parAYc#})
+<div n="1"> 1) <lex>adj.</lex>
+<div n="2"> a) {%abgewandt, nach der entgegengesetzten Richtung gewandt%}
+<ls>AK. 3,1,33.</ls>
+<ls>TRIK. 3,1,4.</ls>
+<ls>H. 1437.</ls>
+<ls>HALĀY. 4,72.</ls> {#pa\rA\cInA\ muKA^ kfDi#}
+<ls>AV. 6,106,2.</ls>
+<ls>VS. 16,53.</ls>
+<ls>TS. 6,5,11,1.</ls>
+<ls>SUŚR. 1,100,12.</ls> {#BagaMdara#}
+<ls n="SUŚR.">2,58,8.</ls> {#°mUla#}
+<ls>KAUŚ. 50.</ls> {#indriyEH#}
+<ls>BHĀG. P. 3,32,28.</ls> <is>Śrī</is> spricht: {#(sTitAsmi) parAkrame ca Darme ca parAcInastato valiH#} so v. a. {%kümmert sich darum nicht%}
+<ls>MBH. 12,8159.</ls>
+<div n="2">— b) {%jenseits befindlich, — gelegen%}
+<ls>BHĀG. P. 5,20,30.</ls> <ls n="BHĀG. P. 5,20,">37.</ls>
+<div n="1">— 2) {#°nam#} adv. {%darüber hinaus, weg von%}: {#itaH pa°#}
+<ls>ŚAT. BR. 1,9,3,9.</ls> {%nach%}: {#pa° punarA\DeyA^t#}
+<ls>TS. 1,5,4,4.</ls> {%mehr%}: {#saptAhAnISAsE na parAcInam#}
+<ls>KĀṬH. 25,1.</ls>
 <LEND>

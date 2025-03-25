@@ -1,6 +1,6 @@
 <L>7796<pc>337<k1>pension<k2>pension
 {@Pension,@}¦ {%s.%} ({#BUta-pUrva-sevArTaM#}) {#vftti#} {%f.,%}
-<div n="lb"/>{#vetanaM, vArzikaM#}. {%-v. t.%} ({#BUta-pUrva-sevArTaM#})
-<div n="lb"/>{#vfttiM dA#} 3 U. {@-er,@} {%s.%} {#vfttiBuj#} {%m.,%}
-<div n="lb"/>{#vfttiBogin#} {%m.%}
+{#vetanaM, vArzikaM#}. {%-v. t.%} ({#BUta-pUrva-sevArTaM#})
+{#vfttiM dA#} 3 U. {@-er,@} {%s.%} {#vfttiBuj#} {%m.,%}
+{#vfttiBogin#} {%m.%}
 <LEND>

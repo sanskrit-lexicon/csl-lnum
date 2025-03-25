@@ -1,5 +1,5 @@
 <L>2836<pc>096<k1>butter<k2>butter
-<div n="lb"/>{@BUTTER@}¦ (subs.): {#navanItam,#} <div n="xe">{%fresh b.%}</div> <div n="xs">{#sadyaskaM navanItam,#}</div>
-<div n="lb"/>Bha. {%clarified b.:%} <div n="1">(1) {#Gftam,#} </div><div n="1">(2) {#havisa#} (n.);</div>
-<div n="lb"/><div n="1">(3) {#sarpis#} (n.); </div><div n="1">(4) {#Ajyam;#} </div><div n="1">(5) {#puroqASam.#}</div>
+{@BUTTER@}¦ (subs.): {#navanItam,#} <div n="xe">{%fresh b.%}</div> <div n="xs">{#sadyaskaM navanItam,#}</div>
+Bha. {%clarified b.:%} <div n="1">(1) {#Gftam,#} </div><div n="1">(2) {#havisa#} (n.);</div>
+<div n="1">(3) {#sarpis#} (n.); </div><div n="1">(4) {#Ajyam;#} </div><div n="1">(5) {#puroqASam.#}</div>
 <LEND>

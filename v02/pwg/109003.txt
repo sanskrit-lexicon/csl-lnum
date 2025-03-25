@@ -1,56 +1,50 @@
 <L>109003<pc>7-0971<k1>si<k2>si<h>1
-1. {#si#}¦, {#sinoti#} und {#sinute#} 
-<ls>DHĀTUP. 27, 2.</ls> {#sinA/ti#} und {#sinIte#} 
-<ls>31, 5</ls> ({#banDane#}). zu belegen {#sinA/ti, sinAtu, asinAt, sizet, (A) sizAya#} . {%binden, umschlingen%}: {#yO se\tfBi^rara\jjuBi^H sinI\TaH#} 
-<ls>ṚV. 7, 84, 2.</ls> {#mA na\H setu^H sizeda\yam#} 
-<ls n="ṚV.">8, 56, 8.</ls> {#Bo\gEra^sinAt#} 
-<ls>TS. 2, 1, 4, 5. 5, 4, 5, 4.</ls> {#meKa^layA#} 
-<ls>AV. 6, 133, 3. 3, 6, 5. 4, 16, 6</ls> (die Hdschrr. {#Sinantu#} und Anderes). {#pASena#} 
-<ls>PĀR. GṚHY. 3, 7.</ls> {#te uBe nAnArTe puruzaM sinItaH#} 
-<ls>KAṬHOP. 2, 1.</ls> inf. {#se/tave#} 
-<ls>AV. 5, 6, 3</ls> ?(<ls>ṚV.</ls> v. l.). partic. 
-<div n="1"> 1) {#sita/#} {%gebunden%} 
-<ls>P. 8, 2, 44, <is>Vārtt</is>. 4.</ls> 
-<ls>AK. 3, 2, 44. 3, 4, 14, 83.</ls> 
-<ls>H. 438.</ls> 
-<ls>an. 2, 206.</ls> 
-<ls>MED. t. 70.</ls> <ls>ṚV. 1, 112, 5.</ls> {#pa\di#} 
-<ls n="ṚV.">4, 12, 6.</ls> {#mf\tyu\pA\SEH#} 
-<ls>AV. 8, 8, 10.</ls> {#pASEH#} 
-<ls>Spr. (II) 2971.</ls> 
-<ls>MBH. 5, 2551. 12, 566.</ls> {#DarmapASa°#} 
-<ls>5, 4679.</ls> <ls>R. GORR. 2, 39, 41.</ls> {#satyapASa°#} 
-<ls>35, 29.</ls> {#snehavIrya°#} 
-<ls>MBH. 5, 5888.</ls> {#sneha°#} 
-<ls>BHĀG. P. 7, 6, 11.</ls> {%verbunden mit, begleitet von%}: ({#samIrAH#}) {#sitAH parAgEH#} 
-<ls>PRAB. 80, 1.</ls> {#hArahAsasitEH kftyEH#} 
-<ls>RĀJA-TAR. 1, 90.</ls> Vgl. 1. {#asita/#} (auch 
-<ls>BHĀG. P. 4, 20, 30</ls>). 
-<div n="1">— 2) {#sina#} wohl so v. a. {%stecken geblieben%}: {#sino grAsaH svayameva#} 
-<ls>P. 8, 2, 44, <is>Vārtt</is>. 4.</ls> 
-<ls>VOP. 26, 94.</ls> 
+1. {#si#}¦, {#sinoti#} und {#sinute#}
+<ls>DHĀTUP. 27,2.</ls> {#sinA/ti#} und {#sinIte#}
+<ls n="DHĀTUP.">31,5</ls> ({#banDane#}). zu belegen {#sinA/ti, sinAtu, asinAt, sizet, (A) sizAya#} . {%binden, umschlingen%}: {#yO se\tfBi^rara\jjuBi^H sinI\TaH#}
+<ls>ṚV. 7,84,2.</ls> {#mA na\H setu^H sizeda\yam#}
+<ls n="ṚV.">8,56,8.</ls> {#Bo\gEra^sinAt#}
+<ls>TS. 2,1,4,5.</ls> <ls n="TS.">5,4,5,4.</ls> {#meKa^layA#}
+<ls>AV. 6,133,3.</ls> <ls n="AV.">3,6,5.</ls> <ls n="AV.">4,16,6</ls> (die Hdschrr. {#Sinantu#} und Anderes). {#pASena#}
+<ls>PĀR. GṚHY. 3,7.</ls> {#te uBe nAnArTe puruzaM sinItaH#}
+<ls>KAṬHOP. 2,1.</ls> inf. {#se/tave#}
+<ls>AV. 5,6,3</ls> ?(<ls>ṚV.</ls> v. l.). partic.
+<div n="1"> 1) {#sita/#} {%gebunden%}
+<ls>P. 8,2,44</ls>, <is>Vārtt</is>. 4.
+<ls>AK. 3,2,44.</ls> <ls n="AK.">3,4,14,83.</ls>
+<ls>H. 438.</ls>
+<ls>an. 2,206.</ls>
+<ls>MED. t. 70.</ls> <ls>ṚV. 1,112,5.</ls> {#pa\di#}
+<ls n="ṚV.">4,12,6.</ls> {#mf\tyu\pA\SEH#}
+<ls>AV. 8,8,10.</ls> {#pASEH#}
+<ls>Spr. (II) 2971.</ls>
+<ls>MBH. 5,2551.</ls> <ls n="MBH.">12,566.</ls> {#DarmapASa°#}
+<ls n="MBH.">5,4679.</ls> <ls>R. GORR. 2,39,41.</ls> {#satyapASa°#}
+<ls n="R. GORR. 2,">35,29.</ls> {#snehavIrya°#}
+<ls>MBH. 5,5888.</ls> {#sneha°#}
+<ls>BHĀG. P. 7,6,11.</ls> {%verbunden mit, begleitet von%}: ({#samIrAH#}) {#sitAH parAgEH#}
+<ls>PRAB. 80,1.</ls> {#hArahAsasitEH kftyEH#}
+<ls>RĀJA-TAR. 1,90.</ls> Vgl. 1. {#asita/#} (auch
+<ls>BHĀG. P. 4,20,30</ls>).
+<div n="1">— 2) {#sina#} wohl so v. a. {%stecken geblieben%}: {#sino grAsaH svayameva#}
+<ls>P. 8,2,44</ls>, <is>Vārtt</is>. 4.
+<ls>VOP. 26,94.</ls>
 <div n="v">— Vgl. 3. {#sA#} .
-
-<div n="p">— {#ati#}, partic. {#a/tizita#} {%unterbunden%}: {#UDas#} 
-<ls>ṚV. 10, 73, 9.</ls>
-
-<div n="p">— {#A#} {%herumschlingen%}: {#su\pa\rRa i\tTA na\KamA si^zAya#} 
-<ls>ṚV. 10, 28, 10.</ls>
-
-<div n="p">— {#ud#} {%fesseln, fangen%}: {#yastvA\yAnta^M mu\kzIja^yeva\ padi^mutsi\nAti^#} 
-<ls>ṚV. 1, 125, 2.</ls> partic. {#u/tsita#} 
-<ls>AV. 6, 112, 2. 3.</ls>
-
-<div n="p">— {#pra#} vgl. {#prasayana#} und {#prasiti#} 
-<ls>5) 6</ls>).
-
-<div n="p">— 2. {#si#} {%schleudern.%} 
+<div n="p">— {#ati#}, partic. {#a/tizita#} {%unterbunden%}: {#UDas#}
+<ls>ṚV. 10,73,9.</ls>
+<div n="p">— {#A#} {%herumschlingen%}: {#su\pa\rRa i\tTA na\KamA si^zAya#}
+<ls>ṚV. 10,28,10.</ls>
+<div n="p">— {#ud#} {%fesseln, fangen%}: {#yastvA\yAnta^M mu\kzIja^yeva\ padi^mutsi\nAti^#}
+<ls>ṚV. 1,125,2.</ls> partic. {#u/tsita#}
+<ls>AV. 6,112,2.</ls> <ls n="AV. 6,112,">3.</ls>
+<div n="p">— {#pra#} vgl. {#prasayana#} und {#prasiti#}
+5) 6).
+<div n="p">— 2. {#si#} {%schleudern.%}
 <div n="v">— Vgl. {#sAyaka#} und 1. {#senA#} .
-
-<div n="p">— {#pra#}, partic. {#pra/sita#} {%dahinschiessend%}; {#yAma^ni\ prasi^tasya\ veH#} 
-<ls>ṚV. 4, 27, 4.</ls> {#pra\vAso\ na prasi^tAsaH pari\pruza^H#} 
-<ls n="ṚV.">10, 77, 5.</ls> 
-<div n="v">— Vgl. {#prasiti#} 
-<div n="1"> 1) 
+<div n="p">— {#pra#}, partic. {#pra/sita#} {%dahinschiessend%}; {#yAma^ni\ prasi^tasya\ veH#}
+<ls>ṚV. 4,27,4.</ls> {#pra\vAso\ na prasi^tAsaH pari\pruza^H#}
+<ls n="ṚV.">10,77,5.</ls>
+<div n="v">— Vgl. {#prasiti#}
+<div n="1"> 1)
 <div n="1"> 2) 3) 4).
 <LEND>

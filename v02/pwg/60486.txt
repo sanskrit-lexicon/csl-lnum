@@ -1,76 +1,76 @@
 <L>60486<pc>5-0776<k1>miTuna<k2>miTuna/
-{#miTuna/#}¦ (von {#miT)#} 
-<ls>NIR. 7, 29.</ls> 
-<ls>UṆĀDIS. 3, 55</ls> (proparox.). 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%gepaart, ein Paar bildend%}; <lex>m.</lex> {%Paar (ein männliches und ein weibliches Individuum), Paar%} überh.; gewöhnlich im du., später meist <lex>n.</lex> 
-<ls>SIDDH. K.249,a,8.</ls> <ls>AK.2,5,38.</ls> <ls>TRIK.3,3,253.</ls> <ls>H.538.</ls> <ls>an.3,400.</ls> <ls>MED. n. 107.</ls> <ls>HALĀY.4,15.</ls> {#pu\trA mi^Tu\nAsa^H#} {%Kinderpaare (aus Söhnen und Töchtern)%} 
-<ls>ṚV. 1, 164, 11.</ls> <ls n="ṚV. 1,">131, 3.</ls> <ls n="ṚV. 1,">144, 4.</ls> {#yatsa\myaYcA^ miTu\nAva\ByajA^va#} 
-<ls n="ṚV. 1,">179, 3.</ls> {#pf\kzAso^ asminmiTu\nA aDi\ traya^H#} 
-<ls n="ṚV.">4, 45, 1.</ls> {#mi\Tu\nA yA ki^mI\dinA^#} 
-<ls n="ṚV.">7, 104, 23.</ls> <ls n="ṚV.">10, 87, 24.</ls>
+{#miTuna/#}¦ (von {#miT)#}
+<ls>NIR. 7,29.</ls>
+<ls>UṆĀDIS. 3,55</ls> (proparox.).
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%gepaart, ein Paar bildend%}; <lex>m.</lex> {%Paar (ein männliches und ein weibliches Individuum), Paar%} überh.; gewöhnlich im du., später meist <lex>n.</lex>
+<ls>SIDDH. K. 249,a,8.</ls> <ls>AK. 2,5,38.</ls> <ls>TRIK. 3,3,253.</ls> <ls>H. 538.</ls> <ls n="H. an.">an. 3,400.</ls> <ls>MED. n. 107.</ls> <ls>HALĀY. 4,15.</ls> {#pu\trA mi^Tu\nAsa^H#} {%Kinderpaare (aus Söhnen und Töchtern)%}
+<ls>ṚV. 1,164,11.</ls> <ls n="ṚV. 1,">131,3.</ls> <ls n="ṚV. 1,">144,4.</ls> {#yatsa\myaYcA^ miTu\nAva\ByajA^va#}
+<ls n="ṚV. 1,">179,3.</ls> {#pf\kzAso^ asminmiTu\nA aDi\ traya^H#}
+<ls n="ṚV.">4,45,1.</ls> {#mi\Tu\nA yA ki^mI\dinA^#}
+<ls n="ṚV.">7,104,23.</ls> <ls n="ṚV.">10,87,24.</ls>
 [Page5-0777]
-{#saptI^ miTu\nA#} {%ein Rossepaar%} 
-<ls n="ṚV.">8, 33, 18.</ls> {#go\pA mi^Tu\nA#} die <is>Aśvin</is> 
-<ls n="ṚV.">10, 40, 12.</ls> <ls n="ṚV. 10,">10, 9.</ls> {#aja^hAdu\ dvA mi^Tu\nA sa^ra\RyU#} 
-<ls>?17, 2; nach NIR. 12, 10</ls> nicht {%zwei Paare%}, sondern {%zwei ein Paar bildende (Knabe und Mädchen).%} {#yamO miTunO#} ebend. {#ya\dA ca^ri\zRU mi^Tu\nAvaBU^tAm#} 
-<ls>ṚV. 10, 88, 11.</ls> <ls n="ṚV. 10,">99, 5.</ls> <ls n="ṚV. 10,">87, 13.</ls> 
-<ls>CHĀND. UP. 1, 1, 6.</ls> {#sapa^nti\ yaM mi^Tu\nAso\ nikA^mAH#} 
-<ls>ṚV. 9, 97, 37.</ls> {#miTunAnAM visargAdO#} {%der Söhne und Töchter%} 
-<ls>NIR. 3, 4.</ls> {#jAyante miTunAH prajAH#} 
-<ls>MĀRK. P. 49, 22</ls> <ls>?= VĀYU-P. bei MUIR, ST. 1, 29.</ls> {#samiTunaviviDavihaMgajalASayAH#} 
-<ls>BHĀG. P. 5, 24, 10.</ls> {#pra pra\jayA^ pa\SuBi^rmiTu\nErjA^yate#} 
-<ls>TBR. 1, 1, 4, 8.</ls> {#miTunO gAvO#} 
-<ls>7, 11.</ls> <ls>TS. 1, 8, 1, 2.</ls> {#gomiTunO#} {%ein Paar%} 
-<ls>ŚĀṄKH. ŚR. 3, 14, 17.</ls> {#dAsamiTunO#} 
-<ls>LĀṬY. 8, 4, 14.</ls> {#miTunAni sUktAni Sasyante#} 
-<ls>AIT. BR. 4, 21.</ls> {#ti\srastri\vfdBi^rmiTu\nAH prajA^tyE#} {%gepaart%} 
-<ls>TBR. 1, 2, 1, 8.</ls> {#mi\Tu\nA e\te grahA^ gfhyante#} 
-<ls>2, 4.</ls> <ls>TS. 2, 5, 8, 4.</ls> {#ku\mBASca^ ku\mBISca^ miTu\nAni^ Bavanti miTu\nasya\ prajA^tyE#} {%sind paarweise, damit fruchtbare Paarung zustandekomme%}, 
-<ls>5, 6, 2, 3.</ls> <ls>ŚAT. BR. 2, 5, 2, 16. 10, 1, 1, 7. 13, 1, 8, 7.</ls> {#stomO#} 
-<ls>PAÑCAV. BR. 24, 14, 6.</ls> 
-<ls>KAUŚ. 51.</ls> {#miTunaM hyekaScEkA ca#} 
-<ls>ŚAT. BR. 1, 5, 4, 7. 9, 4, 1, 2.</ls> {#dEvaM miTunaM yanmitrAvaruRO#} 
-<ls>5, 1, 54.</ls> <ls>CHĀND. UP. 1, 1, 5. 6.</ls> <ls>BRĀHMAṆ. 2, 10.</ls> <ls>MBH. 3, 2229. 2945.</ls> <ls>DAŚ. 1, 30. 2, 55.</ls> <ls>VARĀH. BṚH. S. 88, 37.</ls> <ls>BṚH. 4, 14</ls> {%(Zwillingspaar).%} {#amara°#} 
-<ls>MEGH. 18.</ls> {#nAgAsura°#} 
-<ls>BHĀG. P. 5, 24, 9.</ls> {#meza°#} 
-<ls>KĀTY. ŚR. 5, 3, 6. 5, 2.</ls> {#go°#} 
-<ls>GOBH. 3, 1, 5.</ls> 
-<ls>ĀŚV. GṚHY. 1, 6, 4.</ls> <ls>M. 3, 29. 53.</ls> {#krOYcayoH#} 
-<ls>R. 1, 2, 12. 18</ls> <ls>?(= UTTARARĀMAC. 27, 17).</ls> {#miTunAnAM sahasram#} 
-<ls>MĀRK. P. 49, 3. 4. 6. 8. 10</ls> <ls>?(= VĀYU-P. bei MUIR, ST. 1, 28). Spr. 365.</ls> {#tamaso miTunaM#} {%(der andere Theil, Complement)%} {#sattvaM sattvasya miTunaM rajaH . rajasaScApi sattvaM syAtsattvasya miTunaM tamaH ..#} 
-<ls>MBH. 14, 992.</ls> {#rajaso miTunaM sattvaM sattvasya miTunaM rajaH . uBayoH sattvarajasormiTunaM tama ucyate ..#} Cit. bei 
-<ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 12.</ls> <ls>MBH. 14, 523.</ls> Ausnahmsweise <lex>m.</lex> sg.: {#miTunaM nfRAm . parivartantam#} 
-<ls>MBH. 13, 2360.</ls> {#a°#} <lex>adj.</lex> {%nicht Paare (von beiden Geschlechtern) bildend%} 
-<ls>ĀŚV. GṚHY. 4, 2, 2. 5, 3.</ls> {#anyo'nya°#} <lex>adj.</lex> {%paarweise lebend%} 
-<ls>HARIV. 3623.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} 
-<ls>ŚĀK. 144.</ls> 
-<ls>Spr. 477.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%Paarung, Begattung%} 
-<ls>AIT. BR. 1, 1.</ls> {#deva°#} 
-<ls>22.</ls> {#stryUrU viharati pumAnUrU samasyati tanmiTunam#} 
-<ls>35. 3, 47.</ls> {#dvaMdvaM vE miTunam#} {%zu Zweien findet Paarung statt%} 
-<ls>50. 6, 3.</ls> <ls>TBR. 1, 6, 3, 1.</ls> {#tayo^ra\haM de^vaya\jyayA^ miTu\nena\ praBU^yAsam#} 
-<ls>TS. 1, 6, 4, 4.</ls> 
-<ls>CHĀND. UP. 2, 13, 1. 2.</ls> {#puzwi^M miTu\ne^ 'paSyan#} 
-<ls>2, 1, 9, 5.</ls> <ls>ŚAT. BR. 1, 1, 1, 18. 9, 2, 5.</ls> {#tira iva vE miTunena caryate#} 
-<ls>9.</ls> {#jAyApatI miTunaM carantO#} 
-<ls>4, 6, 7, 9. 10. 11, 5, 4, 16.</ls> {#miTunaM saMBU#} 
-<ls>6, 1, 2, 1.</ls> {#miTunamupeyAt#} 
-<ls>2, 2, 39.</ls> <ls>KĀTY. ŚR. 13, 3, 9.</ls> {#brAhmaRaM brAhmaRIM cEva miTunAyopasaMgatO#} 
-<ls>MBH. 1, 6897.</ls> {#miTunaM sameti#} 
-<ls>VARĀH. BṚH. 4, 2.</ls> {#mAtA putreRa miTunaM gacCati#} beim Vieh 
-<ls>P. 8, 1, 15,</ls> 
-<ls>Sch.</ls> {#Atma°#} <lex>adj.</lex> {%mit sich selbst sich paarend%} 
-<ls>CHĀND. UP. 7, 25, 2.</ls> {%Paarung%} im weitesten Sinne: {#anyo'nyABiBavASrayajananamiTunavfttayaH#} 
-<ls>SĀṂKHYAK. 12.</ls> 
-<div n="1">— 3) <lex>n.</lex> {%die Zwillinge im Thierkreise%} oder überh. {%der 3te Bogen von 30° in einem Kreise%} 
-<ls>TRIK.</ls> <ls>H. 116,</ls> <ls>Sch.</ls> <ls>?(m.). H. an. MED. SŪRYAS.8,10. 12,64. 14,5. VARĀH. BṚH. S.5,37. 41,3. 100,1. 102,2. BṚH.1,10. 11,10. 18,2. 15. 27,8. MĀRK. P. 58,75. Verz. d. Oxf. H. 46,a,34. 340,a,6. ŚRĪPATI in Z. f. d. K. d. M.3,389.</ls>
+{#saptI^ miTu\nA#} {%ein Rossepaar%}
+<ls n="ṚV.">8,33,18.</ls> {#go\pA mi^Tu\nA#} die <is>Aśvin</is>
+<ls n="ṚV.">10,40,12.</ls> <ls n="ṚV. 10,">10,9.</ls> {#aja^hAdu\ dvA mi^Tu\nA sa^ra\RyU#}
+<ls n="ṚV. 10,">17,2</ls>; nach <ls>NIR. 12,10</ls> nicht {%zwei Paare%}, sondern {%zwei ein Paar bildende (Knabe und Mädchen).%} {#yamO miTunO#} ebend. {#ya\dA ca^ri\zRU mi^Tu\nAvaBU^tAm#}
+<ls>ṚV. 10,88,11.</ls> <ls n="ṚV. 10,">99,5.</ls> <ls n="ṚV. 10,">87,13.</ls>
+<ls>CHĀND. UP. 1,1,6.</ls> {#sapa^nti\ yaM mi^Tu\nAso\ nikA^mAH#}
+<ls>ṚV. 9,97,37.</ls> {#miTunAnAM visargAdO#} {%der Söhne und Töchter%}
+<ls>NIR. 3,4.</ls> {#jAyante miTunAH prajAH#}
+<ls>MĀRK. P. 49,22</ls> = <ls>VĀYU-P.</ls> bei <ls>MUIR, ST. 1,29.</ls> {#samiTunaviviDavihaMgajalASayAH#}
+<ls>BHĀG. P. 5,24,10.</ls> {#pra pra\jayA^ pa\SuBi^rmiTu\nErjA^yate#}
+<ls>TBR. 1,1,4,8.</ls> {#miTunO gAvO#}
+<ls n="TBR.">7,11.</ls> <ls>TS. 1,8,1,2.</ls> {#gomiTunO#} {%ein Paar%}
+<ls>ŚĀṄKH. ŚR. 3,14,17.</ls> {#dAsamiTunO#}
+<ls>LĀṬY. 8,4,14.</ls> {#miTunAni sUktAni Sasyante#}
+<ls>AIT. BR. 4,21.</ls> {#ti\srastri\vfdBi^rmiTu\nAH prajA^tyE#} {%gepaart%}
+<ls>TBR. 1,2,1,8.</ls> {#mi\Tu\nA e\te grahA^ gfhyante#}
+<ls n="TBR.">2,4.</ls> <ls>TS. 2,5,8,4.</ls> {#ku\mBASca^ ku\mBISca^ miTu\nAni^ Bavanti miTu\nasya\ prajA^tyE#} {%sind paarweise, damit fruchtbare Paarung zustandekomme%},
+<ls n="TS.">5,6,2,3.</ls> <ls>ŚAT. BR. 2,5,2,16.</ls> <ls n="ŚAT. BR.">10,1,1,7.</ls> <ls n="ŚAT. BR.">13,1,8,7.</ls> {#stomO#}
+<ls>PAÑCAV. BR. 24,14,6.</ls>
+<ls>KAUŚ. 51.</ls> {#miTunaM hyekaScEkA ca#}
+<ls>ŚAT. BR. 1,5,4,7.</ls> <ls n="ŚAT. BR.">9,4,1,2.</ls> {#dEvaM miTunaM yanmitrAvaruRO#}
+<ls n="ŚAT. BR.">5,1,54.</ls> <ls>CHĀND. UP. 1,1,5. 6.</ls> <ls>BRĀHMAṆ. 2,10.</ls> <ls>MBH. 3,2229.</ls> <ls n="MBH. 3,">2945.</ls> <ls>DAŚ. 1,30. 2,55.</ls> <ls>VARĀH. BṚH. S. 88,37.</ls> <ls>BṚH. 4,14</ls> {%(Zwillingspaar).%} {#amara°#}
+<ls>MEGH. 18.</ls> {#nAgAsura°#}
+<ls>BHĀG. P. 5,24,9.</ls> {#meza°#}
+<ls>KĀTY. ŚR. 5,3,6. 5,2.</ls> {#go°#}
+<ls>GOBH. 3,1,5.</ls>
+<ls>ĀŚV. GṚHY. 1,6,4.</ls> <ls>M. 3,29.</ls> <ls n="M. 3,">53.</ls> {#krOYcayoH#}
+<ls>R. 1,2,12.</ls> <ls n="R. 1,2,">18</ls> (= <ls>UTTARARĀMAC. 27,17).</ls> {#miTunAnAM sahasram#}
+<ls>MĀRK. P. 49,3. 4. 6. 8. 10</ls> (= <ls>VĀYU-P.</ls> bei <ls>MUIR, ST. 1,28</ls>). <ls>Spr. 365.</ls> {#tamaso miTunaM#} ({%der andere Theil, Complement%}) {#sattvaM sattvasya miTunaM rajaH . rajasaScApi sattvaM syAtsattvasya miTunaM tamaH ..#}
+<ls>MBH. 14,992.</ls> {#rajaso miTunaM sattvaM sattvasya miTunaM rajaH . uBayoH sattvarajasormiTunaM tama ucyate ..#} Cit. bei
+<ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 12.</ls> <ls>MBH. 14,523.</ls> Ausnahmsweise <lex>m.</lex> sg.: {#miTunaM nfRAm . parivartantam#}
+<ls>MBH. 13,2360.</ls> {#a°#} <lex>adj.</lex> {%nicht Paare (von beiden Geschlechtern) bildend%}
+<ls>ĀŚV. GṚHY. 4,2,2. 5,3.</ls> {#anyo'nya°#} <lex>adj.</lex> {%paarweise lebend%}
+<ls>HARIV. 3623.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+<ls>ŚĀK. 144.</ls>
+<ls>Spr. 477.</ls>
+<div n="1">— 2) <lex>n.</lex> {%Paarung, Begattung%}
+<ls>AIT. BR. 1,1.</ls> {#deva°#}
+<ls n="AIT. BR.">22.</ls> {#stryUrU viharati pumAnUrU samasyati tanmiTunam#}
+<ls n="AIT. BR.">35. 3,47.</ls> {#dvaMdvaM vE miTunam#} {%zu Zweien findet Paarung statt%}
+<ls n="AIT. BR.">50. 6,3.</ls> <ls>TBR. 1,6,3,1.</ls> {#tayo^ra\haM de^vaya\jyayA^ miTu\nena\ praBU^yAsam#}
+<ls>TS. 1,6,4,4.</ls>
+<ls>CHĀND. UP. 2,13,1. 2.</ls> {#puzwi^M miTu\ne^ 'paSyan#}
+<ls n="CHĀND. UP.">2,1,9,5.</ls> <ls>ŚAT. BR. 1,1,1,18. 9,2,5.</ls> {#tira iva vE miTunena caryate#}
+<ls n="ŚAT. BR.">9.</ls> {#jAyApatI miTunaM carantO#}
+<ls n="ŚAT. BR.">4,6,7,9. 10. 11,5,4,16.</ls> {#miTunaM saMBU#}
+<ls n="ŚAT. BR.">6,1,2,1.</ls> {#miTunamupeyAt#}
+<ls n="ŚAT. BR.">2,2,39.</ls> <ls>KĀTY. ŚR. 13,3,9.</ls> {#brAhmaRaM brAhmaRIM cEva miTunAyopasaMgatO#}
+<ls>MBH. 1,6897.</ls> {#miTunaM sameti#}
+<ls>VARĀH. BṚH. 4,2.</ls> {#mAtA putreRa miTunaM gacCati#} beim Vieh
+<ls>P. 8,1,15</ls>, <ls>Sch.</ls>
+{#Atma°#} <lex>adj.</lex> {%mit sich selbst sich paarend%}
+<ls>CHĀND. UP. 7,25,2.</ls> {%Paarung%} im weitesten Sinne: {#anyo'nyABiBavASrayajananamiTunavfttayaH#}
+<ls>SĀṂKHYAK. 12.</ls>
+<div n="1">— 3) <lex>n.</lex> {%die Zwillinge im Thierkreise%} oder überh. {%der 3te Bogen von 30° in einem Kreise%}
+<ls>TRIK.</ls> <ls>H. 116</ls>, <ls>Sch.</ls> (m.). <ls>H. an.</ls> <ls>MED.</ls> <ls>SŪRYAS. 8,10. 12,64. 14,5.</ls> <ls>VARĀH. BṚH. S. 5,37. 41,3. 100,1. 102,2.</ls> <ls>BṚH. 1,10. 11,10. 18,2. 15. 27,8.</ls> <ls>MĀRK. P. 58,75.</ls> <ls>Verz. d. Oxf. H. 46,a,34. 340,a,6.</ls> <ls>ŚRĪPATI</ls> in <ls>Z. f. d. K. d. M. 3,389.</ls>
 <lang n="arabic">متن</lang>
- bei 
-<ls>ALBYROUNY</ls> bei <ls>REINAUD, Mém. sur l'Inde 364.</ls> Vgl. {#nf°#} . 
-<div n="1">— 4) {%eine mit einer Präposition verbundene Wurzel%} 
-<ls>SIDDH. K.</ls> zu <ls>P.7,4,48.</ls> 
-<div n="1">— 5) Bez. {%bestimmter Statuetten (Pendants) am Eingange eines Tempels%} 
-<ls>VARĀH. BṚH. S. 56, 18.</ls> 
+ bei
+<ls>ALBYROUNY</ls> bei <ls>REINAUD, Mém. sur l'Inde 364.</ls> Vgl. {#nf°#} .
+<div n="1">— 4) {%eine mit einer Präposition verbundene Wurzel%}
+<ls>SIDDH. K.</ls> zu <ls>P. 7,4,48.</ls>
+<div n="1">— 5) Bez. {%bestimmter Statuetten (Pendants) am Eingange eines Tempels%}
+<ls>VARĀH. BṚH. S. 56,18.</ls>
 <div n="v">— Vgl. {#mETuna#} .
 <LEND>

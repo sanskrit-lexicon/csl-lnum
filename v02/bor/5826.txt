@@ -1,4 +1,4 @@
 <L>5826<pc>187<k1>densely<k2>densely
-<div n="lb"/>{@DENSELY:@}¦ <div n="1">(1) {#Danam;#} </div><div n="1">(2) {#niviqam;#} </div><div n="1">(3) {#sAndram;#}</div>
-<div n="lb"/><div n="1">(4) {#aviralam.#}</div>
+{@DENSELY:@}¦ <div n="1">(1) {#Danam;#} </div><div n="1">(2) {#niviqam;#} </div><div n="1">(3) {#sAndram;#}</div>
+<div n="1">(4) {#aviralam.#}</div>
 <LEND>

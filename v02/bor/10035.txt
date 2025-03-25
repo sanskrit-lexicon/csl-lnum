@@ -1,7 +1,7 @@
 <L>10035<pc>317<k1>go out<k2>go out
-<div n="lb"/>{@GO OUT:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#nizkrAmati;#} </div><div n="1">(2) {#nirga-#}
-<div n="lb"/>{#cCati;#} </div><div n="1">(3) {#niryAti;#} </div><div n="1">(4) {#niHsarati;#} </div><div n="1">(5) {#nireti.#}</div>
-<div n="lb"/><div n="I">II Of light: </div><div n="1">(1) {#nirvAti#} ({#vA,#} c. 2.), Sa. v.;</div>
-<div n="lb"/><div n="1">(2) {#SAmyati, upa-,#} ({#Sam,#} c. 4.), Mu. Ph.: <div n="xe">{%my%}
-<div n="lb"/>{%life is g. ing out:%}</div> <div n="xs">{#pracalanti hi me prARAH,#}</div> Vi. v.</div>
+{@GO OUT:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#nizkrAmati;#} </div><div n="1">(2) {#nirga-#}
+{#cCati;#} </div><div n="1">(3) {#niryAti;#} </div><div n="1">(4) {#niHsarati;#} </div><div n="1">(5) {#nireti.#}</div>
+<div n="I">II Of light: </div><div n="1">(1) {#nirvAti#} ({#vA,#} c. 2.), Sa. v.;</div>
+<div n="1">(2) {#SAmyati, upa-,#} ({#Sam,#} c. 4.), Mu. Ph.: <div n="xe">{%my%}
+{%life is g. ing out:%}</div> <div n="xs">{#pracalanti hi me prARAH,#}</div> Vi. v.</div>
 <LEND>

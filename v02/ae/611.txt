@@ -1,7 +1,7 @@
 <L>611<pc>023<k1>astronomy<k2>astronomy
 {@Astronomy,@}¦ {%s.%} {#jyotiHSAstraM, jyotizaM, Kagola-#}
-<div n="lb"/>{#-vidyA#}. {@-er,@} {%s.%} {#jyotirvid#} {%m.,%} {#jyotiHSA-#}
-<div n="lb"/>{#-strajYaH, jyotizikaH, KagolavidyABijYaH#}. {@-ical,@}
-<div n="lb"/>{%a.%} {#jyotiza#} ({#zI#} {%f.%}), {#nAkzatrika#} ({#kI#} {%f.%}),
-<div n="lb"/>{#KagolavidyAvizayaka#}.
+{#-vidyA#}. {@-er,@} {%s.%} {#jyotirvid#} {%m.,%} {#jyotiHSA-#}
+{#-strajYaH, jyotizikaH, KagolavidyABijYaH#}. {@-ical,@}
+{%a.%} {#jyotiza#} ({#zI#} {%f.%}), {#nAkzatrika#} ({#kI#} {%f.%}),
+{#KagolavidyAvizayaka#}.
 <LEND>

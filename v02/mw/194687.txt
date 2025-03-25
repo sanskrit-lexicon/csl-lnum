@@ -1,8 +1,8 @@
 <L>194687<pc>958,2<k1>vicakz<k2>vi-cakz<e>1
-<s>vi-√ cakz</s> ¦ <ab>Ā.</ab> <s>-cazwe</s> (<ab>Ved.</ab> <ab>inf.</ab> <s>-ca/kze</s>), to appear, shine, <ls>RV.</ls>;
+<s>vi-√ cakz</s> ¦ <ab>Ā.</ab> <s>-cazwe</s> (<lang>Ved.</lang> <ab>inf.</ab> <s>-ca/kze</s>), to appear, shine, <ls>RV.</ls>;
 <div n="to"/>to see distinctly, view, look at, perceive, regard, <ls>RV.</ls>; <ls>AV.</ls>; <ls>BhP.</ls>;
 <div n="to"/>to make manifest, show, <ls>RV.</ls>;
 <div n="to"/>to proclaim, announce, tell, <ls>Br.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-cakzayati</s>, to cause to see distinctly, make clear, <ls>RV.</ls>;
+<div n="vp"/><ab>Caus.</ab> <s>-cakzayati</s>, to cause to see distinctly, make clear, <ls>RV.</ls>;
 <div n="to"/>to proclaim, tell, <ls>GopBr.</ls><info verb="pre" cp="Ā" parse="vi+cakz"/>
 <LEND>

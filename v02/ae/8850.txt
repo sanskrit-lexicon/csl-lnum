@@ -1,7 +1,7 @@
 <L>8850<pc>391<k1>republic<k2>republic
 {@Republic,@}¦ {%s.%} {#prajAsattAkaM-prajAtaMtraM-rAjyaM, loka-#}
-<div n="lb"/>{#-prajA-praButvaM#}. {@-an,@} {%a.%} {#prajApraButvaviSizwa, lo-#}
-<div n="lb"/>{#-kapraButvasaMbaMDin,#} ({%s.%}) in comp. {%-s.%} {#prajA-#}
-<div n="lb"/>{#-praButvavAdin#} {%m.,%} {#prajApakzavAdI#}. {@-anism,@} {%s.%}
-<div n="lb"/>{#prajApraButvavAdaH, prajAtaMtrapakzaH#}.
+{#-prajA-praButvaM#}. {@-an,@} {%a.%} {#prajApraButvaviSizwa, lo-#}
+{#-kapraButvasaMbaMDin,#} ({%s.%}) in comp. {%-s.%} {#prajA-#}
+{#-praButvavAdin#} {%m.,%} {#prajApakzavAdI#}. {@-anism,@} {%s.%}
+{#prajApraButvavAdaH, prajAtaMtrapakzaH#}.
 <LEND>

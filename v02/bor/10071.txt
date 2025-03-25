@@ -1,6 +1,6 @@
 <L>10071<pc>318<k1>going<k2>going
-<div n="lb"/>{@GOING@}¦ (subs.): <div n="1">(1) {#gamanam,#} <div n="xe">{%g. back:%}</div> <div n="xs">{#pratigamanam;#}</div> {%g. out:%}
-<div n="lb"/>{#nirgamaH-nam;#} <div n="xe">{%g. round:%}</div> <div n="xs">{#pari-gamanam;#}</div> <div n="xe">{%g. up to:%}</div> <div n="xs">{#aBigamanam;#}</div></div>
-<div n="lb"/><div n="1">(2) {#yAnam,#} <div n="xe">{%g. forth:%}</div> <div n="xs">{#niryARam;#}</div> <div n="xe">{%g. away:%}</div> <div n="xs">{#apayAnam;#}</div> <div n="xe">{%g.%}
-<div n="lb"/>{%and coming:%}</div> <div n="xs">{#yAtAyAtam:#}</div> v. The several verbs.</div>
+{@GOING@}¦ (subs.): <div n="1">(1) {#gamanam,#} <div n="xe">{%g. back:%}</div> <div n="xs">{#pratigamanam;#}</div> {%g. out:%}
+{#nirgamaH-nam;#} <div n="xe">{%g. round:%}</div> <div n="xs">{#pari-gamanam;#}</div> <div n="xe">{%g. up to:%}</div> <div n="xs">{#aBigamanam;#}</div></div>
+<div n="1">(2) {#yAnam,#} <div n="xe">{%g. forth:%}</div> <div n="xs">{#niryARam;#}</div> <div n="xe">{%g. away:%}</div> <div n="xs">{#apayAnam;#}</div> <div n="xe">{%g.%}
+{%and coming:%}</div> <div n="xs">{#yAtAyAtam:#}</div> v. The several verbs.</div>
 <LEND>

@@ -1,29 +1,29 @@
 <L>6331<pc>1-0473<k1>avawa<k2>avawa/
-{#avawa/#}¦ (von 1. {#ava#}) <lex>m.</lex> 
-<div n="1"> 1) {%Grube%} 
-<ls>NAIGH. 3, 23.</ls> 
-<ls>AK. 1, 2, 1, 2.</ls> 
-<ls>TRIK. 1, 2, 28. 3, 3, 91.</ls> 
-<ls>H. 931. 1364.</ls> {#ye vA^va\wezu\ Sera^te\ teBya^H sa\rpeByo\ nama^H#} 
-<ls>VS. 13, 7. 11, 61.</ls> 
-<ls>SV. I, 2, 1, 3, 2. II, 7, 3, 16, 2. 3 </ls> (v. l. für {#avata#}). 
-<ls>ŚAT. BR. 3, 5, 4, 19. 6, 1, 3. 7, 1, 3.</ls> 
-<ls>KĀTY. ŚR. 6, 3, 17. 20. 8, 5, 1. 24. 8, 13.</ls> {#yUpAvawa#} 
-<ls>6, 2, 8</ls> (vgl. 
-<ls>16, 7, 31</ls>). {#avawe cApi me rAma prakzipemaM kalevaram#} 
-<ls>R. 3, 8, 19. 20. 22. 6, 110, 14.</ls> {#tAvanmAmavawe kftvA daha rAma yaTAviDi#} 
-<ls>3, 75, 45. 50.</ls> <ls>SUŚR. 2, 387, 3.</ls> {%Grube am Körper%} 
-<ls>YĀJÑ. 3, 98.</ls> {#a/vawakacCapa#} {%eine Schildkröte in der Grube%}, bildlich von {%einem unerfahrenen Menschen, der nicht aus seinen vier Mauern herausgekommen ist%}, <is>gaṇa</is> {#pAtresamitAdi#} . Die Lexicographen spalten folgendermaassen: 
-<div n="2"> a) {#vila (Kila#} 
-<ls>MED.</ls> {#Kala#} 
-<ls>TRIK.</ls>), 
-<div n="2"> b) {#garta#}, 
-<div n="2"> c) {#kUpa#} 
-<ls>TRIK. 3, 3, 91.</ls> 
-<ls>H. an. 3, 152.</ls> 
-<ls>MED. ṭ. 32.</ls> Vgl. {#avata#} . 
-<div n="1">— 2) {%Taschenspieler%} ({#kuhakajIvin#}) 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="1">— 3) N. pr. <is>gaṇa</is> {#gargAdi#}; vgl. 
-<ls>Ind. St. 1, 152.</ls>
+{#avawa/#}¦ (von 1. {#ava#}) <lex>m.</lex>
+<div n="1"> 1) {%Grube%}
+<ls>NAIGH. 3,23.</ls>
+<ls>AK. 1,2,1,2.</ls>
+<ls>TRIK. 1,2,28.</ls> <ls n="TRIK.">3,3,91.</ls>
+<ls>H. 931.</ls> <ls n="H.">1364.</ls> {#ye vA^va\wezu\ Sera^te\ teBya^H sa\rpeByo\ nama^H#}
+<ls>VS. 13,7.</ls> <ls n="VS.">11,61.</ls>
+<ls>SV. I,2,1,3,2. II,7,3,16,2. 3</ls> (v. l. für {#avata#}).
+<ls>ŚAT. BR. 3,5,4,19.</ls> <ls n="ŚAT. BR. 3,">6,1,3.</ls> <ls n="ŚAT. BR. 3,">7,1,3.</ls>
+<ls>KĀTY. ŚR. 6,3,17.</ls> <ls n="KĀTY. ŚR. 6,3,">20.</ls> <ls n="KĀTY. ŚR.">8,5,1.</ls> <ls n="KĀTY. ŚR. 8,5,">24.</ls> <ls n="KĀTY. ŚR. 8,">8,13.</ls> {#yUpAvawa#}
+<ls n="KĀTY. ŚR.">6,2,8</ls>
+(vgl. <ls n="KĀTY. ŚR.">16,7,31</ls>). {#avawe cApi me rAma prakzipemaM kalevaram#}
+<ls>R. 3,8,19.</ls> <ls n="R. 3,8,">20.</ls> <ls n="R. 3,8,">22.</ls> <ls n="R.">6,110,14.</ls> {#tAvanmAmavawe kftvA daha rAma yaTAviDi#}
+<ls n="R.">3,75,45.</ls> <ls n="R. 3,75,">50.</ls> <ls>SUŚR. 2,387,3.</ls> {%Grube am Körper%}
+<ls>YĀJÑ. 3,98.</ls> {#a/vawakacCapa#} {%eine Schildkröte in der Grube%}, bildlich von {%einem unerfahrenen Menschen, der nicht aus seinen vier Mauern herausgekommen ist%}, <is>gaṇa</is> {#pAtresamitAdi#} . Die Lexicographen spalten folgendermaassen:
+<div n="2"> a) {#vila (Kila#}
+<ls>MED.</ls> {#Kala#}
+<ls>TRIK.</ls>),
+<div n="2"> b) {#garta#},
+<div n="2"> c) {#kUpa#}
+<ls>TRIK. 3,3,91.</ls>
+<ls>H. an. 3,152.</ls>
+<ls>MED. ṭ. 32.</ls> Vgl. {#avata#} .
+<div n="1">— 2) {%Taschenspieler%} ({#kuhakajIvin#})
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="1">— 3) N. pr. <is>gaṇa</is> {#gargAdi#}; vgl.
+<ls>Ind. St. 1,152.</ls>
 <LEND>

@@ -1,9 +1,9 @@
 <L>8979<pc>400<k1>river<k2>river
 {@River,@}¦ {%s.%} {#nadI, sarit, siMDuH, A(a)pagA,#}
-<div n="lb"/>{#nimnagA, taraMgiRI, srotovahA, tawinI, -hrA-#}
-<div n="lb"/>{#-dinI, srotasvinI, DunI, SEvalinI, dvIpavatI,#}
-<div n="lb"/>{#sravaMtI, nirJariRI#} ‘a small r.’ {#kulyA,#}
-<div n="lb"/>{#alpa-kftrima-sarit;#} ‘confluence of r. s’
-<div n="lb"/>{#saMBedaH, siMDusaMgamaH;#} ‘watered by r. s’
-<div n="lb"/>{#nadImAtfka#}.
+{#nimnagA, taraMgiRI, srotovahA, tawinI, -hrA-#}
+{#-dinI, srotasvinI, DunI, SEvalinI, dvIpavatI,#}
+{#sravaMtI, nirJariRI#} ‘a small r.’ {#kulyA,#}
+{#alpa-kftrima-sarit;#} ‘confluence of r. s’
+{#saMBedaH, siMDusaMgamaH;#} ‘watered by r. s’
+{#nadImAtfka#}.
 <LEND>

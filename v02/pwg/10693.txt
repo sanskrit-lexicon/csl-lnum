@@ -1,16 +1,15 @@
 <L>10693<pc>1-0873<k1>ucCAdana<k2>ucCAdana
-{#ucCAdana#}¦ <lex>n.</lex> {%das Einreiben des Körpers mit Wohlgerüchen%} 
-<ls>AK. 2, 6, 3, 23,</ls> 
-<ls>Sch.</ls> 
-<ls>H. 635,</ls> 
-<ls>Sch.</ls> {#snApanocCAdanena#} 
-<ls>R. 2, 111, 10.</ls> — Eine <is>Prākṛt</is>- Form für {#utsAdana#}, wie auch {#ucCAdya#} 
-<ls>R. 2, 91, 51</ls> und {#ucCanna#} 
-<ls>SUŚR. 2, 395, 10.</ls> 
-<ls>ŚKDR.</ls> führt für {#ucCanna = nazwa#} 
-<ls>BHAG.</ls> als Autorität an; es ist aber wohl {#utsanna#} 
-<ls>1, 44</ls> gemeint. 
+{#ucCAdana#}¦ <lex>n.</lex> {%das Einreiben des Körpers mit Wohlgerüchen%}
+<ls>AK. 2,6,3,23</ls>, <ls>Sch.</ls>
+<ls>H. 635</ls>, <ls>Sch.</ls>
+{#snApanocCAdanena#}
+<ls>R. 2,111,10.</ls> — Eine <is>Prākṛt</is>- Form für {#utsAdana#}, wie auch {#ucCAdya#}
+<ls>R. 2,91,51</ls> und {#ucCanna#}
+<ls>SUŚR. 2,395,10.</ls>
+<ls>ŚKDR.</ls> führt für {#ucCanna = nazwa#}
+<ls>BHAG.</ls> als Autorität an; es ist aber wohl {#utsanna#}
+<ls n="BHAG.">1,44</ls> gemeint.
 <ls>GORR.</ls> hat an der ersten Stelle (
-<ls>2, 120, 10</ls>) {#AcCAdana#}, an der zweiten (
-<ls>2, 100, 50</ls>) {#AcCAdayan#} .
+<ls n="GORR.">2,120,10</ls>) {#AcCAdana#}, an der zweiten (
+<ls n="GORR.">2,100,50</ls>) {#AcCAdayan#} .
 <LEND>

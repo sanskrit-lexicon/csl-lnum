@@ -1,10 +1,10 @@
 <L>4460<pc>181<k1>generous<k2>generous
 {@Generous,@}¦ {%a.%} {#udAra, vadA(da)nya, tyAga-#}
-<div n="lb"/>{#-SIla, avadAta, dAnaSIla, dAnarata, dAnaSOMqa,#}
-<div n="lb"/>{#sTUlalakzya, bahuprada#}. {@2@} {#mahAtman, udAraDI-#}
-<div n="lb"/>{#-cetas, mahAmanas, udAracarita, mahecCa,#}
-<div n="lb"/>{#mahASaya#}. {@3@} {#kulIna, mahAkula, aBijAta#}.
-<div n="lb"/>{@-ness, -Generosity,@} {%s.%} {#OdAryaM, tyAgitA,#}
-<div n="lb"/>{#tyAgaH, dAnaSIlaM, vadAnyatA#}. {@2@} {#udArAtmatA,#}
-<div n="lb"/>{#mahAtmatA, mAhAtmyaM#}.
+{#-SIla, avadAta, dAnaSIla, dAnarata, dAnaSOMqa,#}
+{#sTUlalakzya, bahuprada#}. {@2@} {#mahAtman, udAraDI-#}
+{#-cetas, mahAmanas, udAracarita, mahecCa,#}
+{#mahASaya#}. {@3@} {#kulIna, mahAkula, aBijAta#}.
+{@-ness, -Generosity,@} {%s.%} {#OdAryaM, tyAgitA,#}
+{#tyAgaH, dAnaSIlaM, vadAnyatA#}. {@2@} {#udArAtmatA,#}
+{#mahAtmatA, mAhAtmyaM#}.
 <LEND>

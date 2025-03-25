@@ -1,7 +1,7 @@
 <L>4617<pc>188<k1>grammar<k2>grammar
 {@Grammar,@}¦ {%s%} {#vyAkaraRaM, vyAkaraRaSAstraM-vidyA,#}
-<div n="lb"/>{#SabdaSAstraM#}. {@-ian,@} {%s.%} {#vEyAkaraRaH, vyAkaraRajYaH,#}
-<div n="lb"/>{#SabdaSAstravid#} {%m.%} {@-Grammatical,@} {%a.%}
-<div n="lb"/>{#vyAkaraRavizaya, vyAkaraRAnusArin,#} gen.
-<div n="lb"/>({%s.%}) in comp.
+{#SabdaSAstraM#}. {@-ian,@} {%s.%} {#vEyAkaraRaH, vyAkaraRajYaH,#}
+{#SabdaSAstravid#} {%m.%} {@-Grammatical,@} {%a.%}
+{#vyAkaraRavizaya, vyAkaraRAnusArin,#} gen.
+({%s.%}) in comp.
 <LEND>

@@ -1,33 +1,32 @@
 <L>14598<pc>2-0039<k1>katara<k2>katara/
-{#katara/#}¦ (compar. von 1. {#ka#}) pron. interr. {%welcher von Zweien%} 
-<ls>P. 5, 3, 92.</ls> 
-<ls>VOP. 7, 96.</ls> nom. voc. (<ls>P. 6, 1, 69</ls>, <ls>Sch.</ls>) acc. n. {#katarad#} 
-<ls>P. 7, 1, 25.</ls> Pronominal-Decl. <is>gaṇa</is> {#sarvAdi#} zu 
-<ls>P. 1, 1, 27.</ls> {#ka\ta\rA pUrvA^ kata\rApa^rA\yoH#} 
-<ls>ṚV. 1, 185, 1.</ls> {#katarastvanayoH#} 
-<ls>MBH. 1, 3645.</ls> {#dakziRenATa vAmena katareRa svidasyati#} 
-<ls>4, 1969.</ls> {#na cEtadvidmaH kataraM no#} (lies mit 
-<ls>MBH. 6, 884</ls> : {#kataranno) garIyo yadvA jayema yadi vA no jayeyuH#} 
-<ls>BHAG. 2, 6.</ls> {#uBAvimAvAQyO . katarA katarA anayorAQyatA#} 
-<ls>P. 8, 1, 12, <is>Vārtt</is>. 8,</ls> 
-<ls>Sch.</ls> {#kataro BikzAM dadAti, dAsyati#} oder {#dAtA (lipsAyAm)#} 
-<ls>?3, 3, 6, Sch. VOP. 25, 5.</ls> {#kataro hariM nindet#} oder {#nindizyati (garhAyAm)#} 
-<ls>P. 3, 3, 144,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 25, 10.</ls> Kann mit einem Worte von genereller Bed. componirt werden 
-<ls>P. 2, 1, 63.</ls> Accent eines solchen comp. 
-<ls>6, 2, 57.</ls> {#kataraH kaWaH#} oder {#katarakaWaH#} 
-<ls>Sch.</ls> {%welcher von Vielen%} (vgl. {#katama): ka\ta\ro me\niM prati\ taM mu^YcAte#} 
-<ls>ṚV. 10, 27, 11.</ls> {#tO tvA^ pfcCAmi kata\reRa^ du\gDA#} 
-<ls>AV. 8, 9, 1.</ls> {#katara eza devaH svapnAnpaSyati#} 
-<ls>PRAŚNOP. 4, 1.</ls> {#katara etatprakASayante#} 
-<ls>2, 1.</ls> <ls>AIT. UP. 3, 11. 5, 1.</ls> {#kataratta AharARi daDi manTAM parisrutam#} 
-<ls>AV. 20, 127, 9.</ls> {#katarasyAM diSi#} 
-<ls>MBH. 1, 3650.</ls> 
-<ls>R. 1, 36, 4. 2, 85, 4. 3, 21, 4.</ls> 
-<ls>ŚĀK. 98, 15. 99, 15, v. l.</ls> 
-<ls>VIKR. 5, 14.</ls> {#katara#} mit folg. {#cana#} in einem neg. Satze (ohne dass die Negation aufgehoben würde) {%keiner von Beiden%}: {#na pa^rA jigye kata\raSca\nEno^H#} 
-<ls>ṚV. 6, 69, 8.</ls> {#aTEtayoH paTorna katareRa cana tAnImAni kzudrARyasakfdAvartIni BUtAni Bavanti#} 
-<ls>CHĀND. UP. 5, 10, 8.</ls> 
+{#katara/#}¦ (compar. von 1. {#ka#}) pron. interr. {%welcher von Zweien%}
+<ls>P. 5,3,92.</ls>
+<ls>VOP. 7,96.</ls> nom. voc. (<ls>P. 6,1,69</ls>, <ls>Sch.</ls>) acc. n. {#katarad#}
+<ls>P. 7,1,25.</ls> Pronominal-Decl. <is>gaṇa</is> {#sarvAdi#} zu
+<ls>P. 1,1,27.</ls> {#ka\ta\rA pUrvA^ kata\rApa^rA\yoH#}
+<ls>ṚV. 1,185,1.</ls> {#katarastvanayoH#}
+<ls>MBH. 1,3645.</ls> {#dakziRenATa vAmena katareRa svidasyati#}
+<ls n="MBH.">4,1969.</ls> {#na cEtadvidmaH kataraM no#} (lies mit
+<ls>MBH. 6,884</ls> : {#kataranno) garIyo yadvA jayema yadi vA no jayeyuH#}
+<ls>BHAG. 2,6.</ls> {#uBAvimAvAQyO . katarA katarA anayorAQyatA#}
+<ls>P. 8,1,12</ls>, <is>Vārtt</is>. 8, <ls>Sch.</ls>
+{#kataro BikzAM dadAti, dAsyati#} oder {#dAtA (lipsAyAm)#}
+<ls n="P.">3,3,6</ls>, Sch. <ls>VOP. 25,5.</ls> {#kataro hariM nindet#} oder {#nindizyati (garhAyAm)#}
+<ls>P. 3,3,144</ls>, <ls>Sch.</ls>
+<ls>VOP. 25,10.</ls> Kann mit einem Worte von genereller Bed. componirt werden
+<ls>P. 2,1,63.</ls> Accent eines solchen comp.
+<ls n="P.">6,2,57.</ls> {#kataraH kaWaH#} oder {#katarakaWaH#}
+<ls>Sch.</ls> {%welcher von Vielen%} (vgl. {#katama): ka\ta\ro me\niM prati\ taM mu^YcAte#}
+<ls>ṚV. 10,27,11.</ls> {#tO tvA^ pfcCAmi kata\reRa^ du\gDA#}
+<ls>AV. 8,9,1.</ls> {#katara eza devaH svapnAnpaSyati#}
+<ls>PRAŚNOP. 4,1.</ls> {#katara etatprakASayante#}
+<ls n="PRAŚNOP.">2,1.</ls> <ls>AIT. UP. 3,11. 5,1.</ls> {#kataratta AharARi daDi manTAM parisrutam#}
+<ls>AV. 20,127,9.</ls> {#katarasyAM diSi#}
+<ls>MBH. 1,3650.</ls>
+<ls>R. 1,36,4.</ls> <ls n="R.">2,85,4</ls> <ls n="R.">3,21,4.</ls>
+<ls>ŚĀK. 98,15. 99,15, v. l.</ls>
+<ls>VIKR. 5,14.</ls> {#katara#} mit folg. {#cana#} in einem neg. Satze (ohne dass die Negation aufgehoben würde) {%keiner von Beiden%}: {#na pa^rA jigye kata\raSca\nEno^H#}
+<ls>ṚV. 6,69,8.</ls> {#aTEtayoH paTorna katareRa cana tAnImAni kzudrARyasakfdAvartIni BUtAni Bavanti#}
+<ls>CHĀND. UP. 5,10,8.</ls>
 <div n="v">— Vgl. den Artikel 1. {#ka#} und {#katama#} .
 <LEND>

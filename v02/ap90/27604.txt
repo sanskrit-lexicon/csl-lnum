@@ -1,32 +1,32 @@
 <L>27604<pc>1032-b<k1>Sap<k2>Sap
 {#Sap#}¦ {c1c} {c4c} <ab>U.</ab> ({#Sapati-te, Sapyati-te, Sapta#})
-<>{@1@} To curse, execrate; {#aSapadBava#} <lbinfo n="mAnu#zIti"/>
-<>{#mAnuzIti tAM#} <ls>R. 8. 80</ls>; {#so'BUtparAsuraTa#} <lbinfo n="BUmi#patiM"/>
-<>{#BUmipatiM SaSApa (vfdDaH)#} <ls n="R.">9. 78</ls>, <ls n="R.">1. 77.</ls> {@--2@} To
-<>swear, take an oath, promise by
-<>oath, say on oath, (usually with
-<><ab>dat.</ab> of the person to whom a <lbinfo n="pro+mise"/>
-<>promise &c. is made and <ab>instr.</ab> of the
-<>object by which it is made);  <lbinfo n="Barate#nAtpanA"/>
-<>{#BaratenAtpanA cAhaM Sape te manujADipa . yaTA#} <lbinfo n="nA#nyena"/>
-<>{#nAnyena tuzyeyamfte rAmavivAsanAt#} Rām;
-<>when used without an object it
-<>generally governs the <ab>instr.</ab> of the
-<>thing and <ab>dat.</ab> of the person by
-<>which or whom the oath is taken;
-<>{#satyaM SapAmi ne pAdapaMkajasparSena#} <ls>K.</ls>;
-<><ls>Ghaṭ. 22</ls>; {#aSapta nihnuvAnA'sO sItAyE#}
-<>{#smaramohitaH#} <ls>Bk. 8. 74</ls>; {#prema#} <lbinfo n="jijYAsamA#nAbyastAbyo"/>
-<>{#jijYAsamAnAbyastAbyo'Sapsata kAminaH#} <ls n="Bk.">8. 33</ls>; <lbinfo n="some+times"/>
-<>sometimes {#Sap#} governs a cognate <lbinfo n="accusa+tive"/>
-<>accusative {#sahatraSo'sO SapaTAnaSapyat#}  <lbinfo n="ls:Bk. 3.+ 32."/>
-<><ls>Bk. 3. 32.</ls> {@--3@} To blame, scold, revile, abuse
-<>(with dat or by itself);  <lbinfo n="dvizadByaScA#SapastayA"/>
-<>{#dvizadByaScASapastayA#} <ls>Bk. 17. 4.</ls> {#prativAcamadatta#} <lbinfo n="ke#SavaH"/>
-<>{#keSavaH SapamAnAya na cediBUBuje#}  <lbinfo n="ls:Śi. 16+ 25."/>
-<><ls>Śi. 16 25.</ls> {%--<ab>Caus.</ab>%} ({#SApayati-te#}) To bind by
-<>an oath, conjure; {#SApito'si#} <lbinfo n="gobrAhma#RakAmyayA"/>
-<>{#gobrAhmaRakAmyayA#} <ls>Mk. 3</ls>; {#SApitAsi mama#} <lbinfo n="lavaMgi#kAvalokitayoSva"/>
-<>{#lavaMgikAvalokitayoSva jIvitena yadi vAcA na#}
-<>{#kaTayasi#} <ls>Māl. 8.</ls>
+{@1@} To curse, execrate; {#aSapadBava#} <lbinfo n="mAnu#zIti"/>
+{#mAnuzIti tAM#} <ls>R. 8. 80</ls>; {#so'BUtparAsuraTa#} <lbinfo n="BUmi#patiM"/>
+{#BUmipatiM SaSApa (vfdDaH)#} <ls n="R.">9. 78</ls>, <ls n="R.">1. 77.</ls> {@--2@} To
+swear, take an oath, promise by
+oath, say on oath, (usually with
+<ab>dat.</ab> of the person to whom a <lbinfo n="pro+mise"/>
+promise &c. is made and <ab>instr.</ab> of the
+object by which it is made);  <lbinfo n="Barate#nAtpanA"/>
+{#BaratenAtpanA cAhaM Sape te manujADipa . yaTA#} <lbinfo n="nA#nyena"/>
+{#nAnyena tuzyeyamfte rAmavivAsanAt#} Rām;
+when used without an object it
+generally governs the <ab>instr.</ab> of the
+thing and <ab>dat.</ab> of the person by
+which or whom the oath is taken;
+{#satyaM SapAmi ne pAdapaMkajasparSena#} <ls>K.</ls>;
+<ls>Ghaṭ. 22</ls>; {#aSapta nihnuvAnA'sO sItAyE#}
+{#smaramohitaH#} <ls>Bk. 8. 74</ls>; {#prema#} <lbinfo n="jijYAsamA#nAbyastAbyo"/>
+{#jijYAsamAnAbyastAbyo'Sapsata kAminaH#} <ls n="Bk.">8. 33</ls>; <lbinfo n="some+times"/>
+sometimes {#Sap#} governs a cognate <lbinfo n="accusa+tive"/>
+accusative {#sahatraSo'sO SapaTAnaSapyat#}  <lbinfo n="ls:Bk. 3.+ 32."/>
+<ls>Bk. 3. 32.</ls> {@--3@} To blame, scold, revile, abuse
+(with dat or by itself);  <lbinfo n="dvizadByaScA#SapastayA"/>
+{#dvizadByaScASapastayA#} <ls>Bk. 17. 4.</ls> {#prativAcamadatta#} <lbinfo n="ke#SavaH"/>
+{#keSavaH SapamAnAya na cediBUBuje#}  <lbinfo n="ls:Śi. 16+ 25."/>
+<ls>Śi. 16 25.</ls> {%--<ab>Caus.</ab>%} ({#SApayati-te#}) To bind by
+an oath, conjure; {#SApito'si#} <lbinfo n="gobrAhma#RakAmyayA"/>
+{#gobrAhmaRakAmyayA#} <ls>Mk. 3</ls>; {#SApitAsi mama#} <lbinfo n="lavaMgi#kAvalokitayoSva"/>
+{#lavaMgikAvalokitayoSva jIvitena yadi vAcA na#}
+{#kaTayasi#} <ls>Māl. 8.</ls>
 <LEND>

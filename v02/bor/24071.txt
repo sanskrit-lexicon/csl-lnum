@@ -1,6 +1,6 @@
 <L>24071<pc>753<k1>war<k2>war
-<div n="lb"/>{@WAR@}¦ (subs.): <div n="1">(1) {#saMgrAmaH;#} </div><div n="1">(2) {#samaraH;#} </div><div n="1">(3) {#raRam;#}</div>
-<div n="lb"/><div n="1">(4) {#samprahAraH;#} </div><div n="1">(5) {#saMyugaH;#} </div><div n="1">(6) {#AjiH;#} </div><div n="1">(7) {#samparAyaH;#}</div>
-<div n="lb"/><div n="1">(8) {#vigrahaH#}: v. Also battle. Ph.: {%w. cry.:%}</div>
-<div n="lb"/><div n="1">(1) {#siMhanAdaH;#} </div><div n="1">(2) {#kzveqA#} <div n="xe">{%or%}</div> <div n="xs">{#kzveqitam, -nAdaH;#}</div> etc.</div>
+{@WAR@}¦ (subs.): <div n="1">(1) {#saMgrAmaH;#} </div><div n="1">(2) {#samaraH;#} </div><div n="1">(3) {#raRam;#}</div>
+<div n="1">(4) {#samprahAraH;#} </div><div n="1">(5) {#saMyugaH;#} </div><div n="1">(6) {#AjiH;#} </div><div n="1">(7) {#samparAyaH;#}</div>
+<div n="1">(8) {#vigrahaH#}: v. Also battle. Ph.: {%w. cry.:%}</div>
+<div n="1">(1) {#siMhanAdaH;#} </div><div n="1">(2) {#kzveqA#} <div n="xe">{%or%}</div> <div n="xs">{#kzveqitam, -nAdaH;#}</div> etc.</div>
 <LEND>

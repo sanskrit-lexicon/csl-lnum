@@ -1,70 +1,69 @@
 <L>82523<pc>6-0194<k1>yojana<k2>yo/jana
-{#yo/jana#}¦ (wie eben) <lex>n.</lex> 
-<ls>AK. 3, 6, 3, 30.</ls> 
-<div n="1"> 1) <lex>n.</lex> {%das Anschirren, Anspannen%}: {#lANgala°#} 
-<ls>PĀR. GṚHY. 2, 13.</ls> {#raTe yojanamUrjitAnAm#} 
-<ls>HARIV. 8395.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%Gespann, Gefährt, Geschirr%}: {#areRu#} 
-<ls>ṚV. 6, 62, 6.</ls> {#u\to nva^sya\ yanma\hadaSvA^va\dyoja^naM bf\hat . dA\mA raTa^sya\ dadf^Se#} 
-<ls n="ṚV.">8, 61, 6.</ls> {#da/Sayojana#} (daher = {#aNguli#} 
-<ls>NAIGH. 2, 5) 10, 94, 7.</ls> 
-<div n="1">— 3) <lex>n.</lex> {%Fahrt%} so v. a. {%Wegstrecke, welche in einer Anspannung durchlaufen wird, Station%}; weiterhin {%ein best. Wegemaass von vier%} <is>Krośa</is> (etwa {%zwei geogr. Meilen%}; nach anderen Rechnungen eine kleinere Strecke, 
-z. B. {%2½ engl. Meilen%}, Useful Tables 
-<ls>?122), WARREN, KALA SANK. 394. TRIK. 2, 1, 17. 2, 4. 3, 3, 254. H. 888. an. 3, 402. MED. n. 111. fg. HĀR. 197. HIOUEN-THSANG 1, 59 (= 8 <is>Krośa</is>). 60. LALIT. ed. Calc. 170, 5. MĀRK. P. 49, 40 (= 4 <is>Gavyūti</is> d. i. 8</ls> <is>Krośa</is>). {#yadA\SuBi\H pata^si\ yoja^nA pu\ru#} 
-<ls>ṚV. 2, 16, 3.</ls> <ls n="ṚV.">1, 123, 8.</ls> <ls n="ṚV.">10, 86, 20.</ls> {#pa\rA\vato\ na yoja^nAni mamire#} 
-<ls n="ṚV. 10,">78, 7.</ls> {#ami^tA\ yoja^nAni#} 
-<ls>AV. 4, 26, 1.</ls> {#tri\MSada^syA ja\Gana\M yoja^nAni#} {%ihr pudendum ist dreissig Meilen lang%} 
-<ls>TBR. 2, 4, 2, 7.</ls> {#yojanAnna param#} 
-<ls>VS. PRĀT. 1, 24.</ls> 
-<ls>M. 11, 75.</ls> {#yojanaM vADvano vrajet#} 
-<ls>132.</ls> <ls>MBH. 1, 1114.</ls> {#AyojanasuganDi#} 
-<ls>?6965. 3, 2812. R. 1, 5, 7. 2, 92, 10. 98, 30. Spr. 461. 1440. 2534. Ind. St. 8, 432. SŪRYAS. 1, 59. 65. 4, 1. 12, 60. 63. 65. 80. 83. VARĀH. BṚH. S. 21, 35. 23, 4. 30, 32.KATHĀS. 18, 102. PAÑCAT. 226, 9. VET. in LA. (III) 4, 1. masc. DHAYĀNABINDŪP. in Ind. St. 2, 1.</ls>
+{#yo/jana#}¦ (wie eben) <lex>n.</lex>
+<ls>AK. 3,6,3,30.</ls>
+<div n="1"> 1) <lex>n.</lex> {%das Anschirren, Anspannen%}: {#lANgala°#}
+<ls>PĀR. GṚHY. 2,13.</ls> {#raTe yojanamUrjitAnAm#}
+<ls>HARIV. 8395.</ls>
+<div n="1">— 2) <lex>n.</lex> {%Gespann, Gefährt, Geschirr%}: {#areRu#}
+<ls>ṚV. 6,62,6.</ls> {#u\to nva^sya\ yanma\hadaSvA^va\dyoja^naM bf\hat . dA\mA raTa^sya\ dadf^Se#}
+<ls n="ṚV.">8,61,6.</ls> {#da/Sayojana#} (daher = {#aNguli#}
+<ls>NAIGH. 2,5) 10,94,7.</ls>
+<div n="1">— 3) <lex>n.</lex> {%Fahrt%} so v. a. {%Wegstrecke, welche in einer Anspannung durchlaufen wird, Station%}; weiterhin {%ein best. Wegemaass von vier%} <is>Krośa</is>
+(etwa {%zwei geogr. Meilen%}; nach anderen Rechnungen eine kleinere Strecke, z. B. {%2½ engl. Meilen%}, Useful Tables 122),
+<ls>WARREN, KALA SANK. 394.</ls> <ls>TRIK. 2,1,17.</ls> <ls n="TRIK. 2,">2,4.</ls> <ls n="TRIK.">3,3,254.</ls> <ls>H. 888.</ls> <ls n="H. an.">an. 3,402.</ls> <ls>MED. n. 111. fg.</ls> <ls>HĀR. 197.</ls> <ls>HIOUEN-THSANG 1,59</ls> (= 8 <is>Krośa</is>). <ls n="HIOUEN-THSANG 1,">60.</ls> <ls>LALIT. ed. Calc. 170,5.</ls> <ls>MĀRK. P. 49,40</ls> (= 4 <is>Gavyūti</is> <ab>d. i.</ab> 8 <is>Krośa</is>). {#yadA\SuBi\H pata^si\ yoja^nA pu\ru#}
+<ls>ṚV. 2,16,3.</ls> <ls n="ṚV.">1,123,8.</ls> <ls n="ṚV.">10,86,20.</ls> {#pa\rA\vato\ na yoja^nAni mamire#}
+<ls n="ṚV. 10,">78,7.</ls> {#ami^tA\ yoja^nAni#}
+<ls>AV. 4,26,1.</ls> {#tri\MSada^syA ja\Gana\M yoja^nAni#} {%ihr pudendum ist dreissig Meilen lang%}
+<ls>TBR. 2,4,2,7.</ls> {#yojanAnna param#}
+<ls>VS. PRĀT. 1,24.</ls>
+<ls>M. 11,75.</ls> {#yojanaM vADvano vrajet#}
+<ls n="M. 11,">132.</ls> <ls>MBH. 1,1114.</ls> {#AyojanasuganDi#}
+<ls n="MBH. 1,">6965.</ls> <ls n="MBH.">3,2812.</ls> <ls>R. 1,5,7.</ls> <ls n="R.">2,92,10</ls> <ls n="R. 2,">98,30.</ls> <ls>Spr. 461.</ls> <ls n="Spr.">1440.</ls> <ls n="Spr.">2534.</ls> <ls>Ind. St. 8,432.</ls> <ls>SŪRYAS. 1,59. 65. 4,1. 12,60. 63. 65. 80. 83.</ls> <ls>VARĀH. BṚH. S. 21,35. 23,4. 30,32.</ls> <ls>KATHĀS. 18,102.</ls> <ls>PAÑCAT. 226,9.</ls> <ls>VET. in LA. (III) 4,1.</ls> masc. <ls>DHYĀNABINDŪP.</ls> in <ls>Ind. St. 2,1.</ls>
 [Page6-0195]
-{#triyojanam, paYcayojanam#} u.s.w. {%eine Strecke von drei, fünf%} u.s.w. <is>Yojana</is> 
-<ls>AV. 6, 131, 3.</ls> 
-<ls>R. 1, 1, 63. 2, 91, 29.</ls> {#zazwiyojanI#} {%eine Strecke von sechzig%} <is>Yoj</is>. 
-<ls>KATHĀS. 18, 349. 94, 14.</ls> 
-<ls>RĀJA-TAR. 3, 395. 5, 103.</ls> Am Ende eines <lex>adj.</lex> <lex>f.</lex> {#A#} 
-<ls>MBH. 2, 312. 3, 10535.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 28, 18. 3, 39, 32. 47, 13. 5, 6, 18. 20. fg. 56, 21. fg.</ls> 
-<ls>VARĀH. BṚH. S. 30, 33.</ls> — {#tadvI\ryaM vo maruto mahitva\naM dI\rGaM ta^tAna\ sUryo\ na yoja^nam#} {%Fahrt%} so v. a. {%Bahn%} 
-<ls>ṚV. 5, 54, 5.</ls> {#arca^nti\ nArI^ra\paso\ na vi\zwiBi^H samA\ne\na\ yoja^ne\nA\ pa^rA\vata^H#} 
-<ls n="ṚV.">1, 92, 3.</ls> (vgl. 
-<ls n="ṚV. 1,">30, 18</ls>). <ls n="ṚV. 1,">191, 10.</ls> vielleicht auch 
-<ls>?88, 5, wo SĀY.</ls> das Wort durch {#stotra#} erklärt. {%Drei Bahnen%} oder {%Stationen%} ähnlich zu verstehen wie die {%drei Fusstapfen%} <is>Viṣṇu's</is>: {#trI Danva\ yoja^nA sa\pta sinDU^n#} 
-<ls n="ṚV. 1,">35, 8.</ls> <ls n="ṚV. 1,">164, 9.</ls> 
-<div n="1">— 4) <lex>n.</lex> (bisweilen auch {#A#} f.) {%Anordnung, Zurüstung; Veranstaltung%}: {#i\mA ju^zasva\ yoja\nendra\ yA te\ ama^nmahi#} 
-<ls>ṚV. 8, 79, 3.</ls> {#vi\dA\nA a^sya\ yoja^nam#} 
-<ls n="ṚV.">9, 7, 1.</ls> {#mimI^te asya\ yoja^nA#} 
-<ls n="ṚV. 9,">102, 3.</ls> {#pAtra°#} 
-<ls>KĀTY. ŚR. 9, 2, 1. 14, 2. 26, 2, 18.</ls> {#stoma°#} 
-<ls>Schol.</ls> zu <ls>LĀṬY. 2, 5, 23.</ls> {#agni°#} 
-<ls>KĀTY. ŚR. 18, 6, 16.</ls> {#SastranAgAdi°#} {%das Zurüsten, Zurechtmachen%} 
-<ls>SĀH. D. 171.</ls> {#AhAra°#} {%Speisebereitung%} 
-<ls>MBH. 12, 2187.</ls> {#BUzaRayojana#} und {#SeKarApIqayojanA#} 
-(v. l. {#°yojana#} beim 
-<ls>Schol.</ls> zu <ls>BHĀG. P. 10, 45, 36</ls>) unter den 64 <is>Kalā</is> 
-<ls>Verz. d. Oxf. H. 217,a,6. 5.</ls> {#SilAprAsAda°#} {%das Aufbauen, Erbauen%} 
-<ls>RĀJA-TAR. 4, 190.</ls> {%das Herstellen, in-Ordnung-Bringen%}: {#idAnIM kaTAyojanAya vyAKyAkfdAtmanaH SlokacatuzwayamavatArayati#} 
-<ls>Verz. d. Oxf. H. 142,b,27.</ls> <ls>RĀJA-TAR.1,10.</ls> {#yErmaRqalasya kriyate dUrotsannasya yojanam#} 
-<ls>187.</ls> {#evaM kftaM tatastena nazwArTasya yojanam#} 
-<ls>6, 353.</ls> {#kAvyAMSasya ca yojanA#} 
-<ls>KATHĀS. 1, 11.</ls> 
-<div n="1">— 5) <lex>n.</lex> {%das Anweisen, Antreiben%}: {#protsAhanaM syAdutsAhagirA kasyApi yojanam#} 
-<ls>SĀH. D. 491.</ls> 
-<div n="1">— 6) <lex>f.</lex> {#A#} {%Vereinigung, Verbindung%}: {#ekapaYcASatA#} 
-<ls>SĀH. D. 112, 16.</ls> {#tanmAtrAhaMkAra°#} 
-<ls>KULL.</ls> zu <ls>M. 1, 16.</ls> 
-<div n="1">— 7) <lex>f.</lex> {#A#} {%Construction%} (in gramm. Sinne) 
-<ls>WILSON,</ls> <ls>SĀṂKHYAK. S. 107.</ls> <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 61.</ls> <ls>NĪLAK.</ls> zu <ls>HARIV. 6373. Schol.</ls> zu <ls>MAITRYUP. 1, 4.</ls> 
-<div n="1">— 8) <lex>n.</lex> {%Sammlung —, Concentration der Geistesthätigkeit, feste Richtung der Erkenntniss auf einen Punkt%} 
-<ls>ŚVETĀŚV. UP. 1, 18.</ls> 
-<ls>AMṚTAN. UP.</ls> in <ls>Ind. St. 9, 32.</ls> = {#yoga#} (das aber hier auch schlechtweg {%Verbindung%} bedeuten kann) 
-<ls>TRIK. 3, 3, 254.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<div n="1">— 9) <lex>n.</lex> {%die Weltseele%} ({#paramAtman#}) 
-<ls>H. an.</ls> <ls>MED.</ls> 
+{#triyojanam, paYcayojanam#} u.s.w. {%eine Strecke von drei, fünf%} u.s.w. <is>Yojana</is>
+<ls>AV. 6,131,3.</ls>
+<ls>R. 1,1,63.</ls> <ls n="R.">2,91,29.</ls> {#zazwiyojanI#} {%eine Strecke von sechzig%} <is>Yoj</is>.
+<ls>KATHĀS. 18,349.</ls> <ls n="KATHĀS.">94,14.</ls>
+<ls>RĀJA-TAR. 3,395. 5,103.</ls> Am Ende eines <lex>adj.</lex> <lex>f.</lex> {#A#}
+<ls>MBH. 2,312.</ls> <ls n="MBH.">3,10535.</ls>
+<ls>R. GORR. 2,28,18.</ls> <ls n="R. GORR.">3,39,32.</ls> <ls n="R. GORR. 3,">47,13.</ls> <ls n="R. GORR.">5,6,18.</ls> <ls n="R. GORR. 5,6,">20. fg.</ls> <ls n="R. GORR. 5,">56,21. fg.</ls>
+<ls>VARĀH. BṚH. S. 30,33.</ls> — {#tadvI\ryaM vo maruto mahitva\naM dI\rGaM ta^tAna\ sUryo\ na yoja^nam#} {%Fahrt%} so v. a. {%Bahn%}
+<ls>ṚV. 5,54,5.</ls> {#arca^nti\ nArI^ra\paso\ na vi\zwiBi^H samA\ne\na\ yoja^ne\nA\ pa^rA\vata^H#}
+<ls n="ṚV.">1,92,3.</ls> (vgl.
+<ls n="ṚV. 1,">30,18</ls>). <ls n="ṚV. 1,">191,10.</ls> vielleicht auch
+<ls n="ṚV. 1,">88,5</ls>, wo <ls>SĀY.</ls> das Wort durch {#stotra#} erklärt. {%Drei Bahnen%} oder {%Stationen%} ähnlich zu verstehen wie die {%drei Fusstapfen%} <is>Viṣṇu's</is>: {#trI Danva\ yoja^nA sa\pta sinDU^n#}
+<ls n="ṚV. 1,">35,8.</ls> <ls n="ṚV. 1,">164,9.</ls>
+<div n="1">— 4) <lex>n.</lex> (bisweilen auch {#A#} f.) {%Anordnung, Zurüstung; Veranstaltung%}: {#i\mA ju^zasva\ yoja\nendra\ yA te\ ama^nmahi#}
+<ls>ṚV. 8,79,3.</ls> {#vi\dA\nA a^sya\ yoja^nam#}
+<ls n="ṚV.">9,7,1.</ls> {#mimI^te asya\ yoja^nA#}
+<ls n="ṚV. 9,">102,3.</ls> {#pAtra°#}
+<ls>KĀTY. ŚR. 9,2,1. 14,2. 26,2,18.</ls> {#stoma°#}
+<ls>Schol.</ls> zu <ls>LĀṬY. 2,5,23.</ls> {#agni°#}
+<ls>KĀTY. ŚR. 18,6,16.</ls> {#SastranAgAdi°#} {%das Zurüsten, Zurechtmachen%}
+<ls>SĀH. D. 171.</ls> {#AhAra°#} {%Speisebereitung%}
+<ls>MBH. 12,2187.</ls> {#BUzaRayojana#} und {#SeKarApIqayojanA#}
+(v. l. {#°yojana#} beim
+<ls>Schol.</ls> zu <ls>BHĀG. P. 10,45,36</ls>) unter den 64 <is>Kalā</is>
+<ls>Verz. d. Oxf. H. 217,a,6. 5.</ls> {#SilAprAsAda°#} {%das Aufbauen, Erbauen%}
+<ls>RĀJA-TAR. 4,190.</ls> {%das Herstellen, in-Ordnung-Bringen%}: {#idAnIM kaTAyojanAya vyAKyAkfdAtmanaH SlokacatuzwayamavatArayati#}
+<ls>Verz. d. Oxf. H. 142,b,27.</ls> <ls>RĀJA-TAR. 1,10.</ls> {#yErmaRqalasya kriyate dUrotsannasya yojanam#}
+<ls n="RĀJA-TAR.">187.</ls> {#evaM kftaM tatastena nazwArTasya yojanam#}
+<ls n="RĀJA-TAR.">6,353.</ls> {#kAvyAMSasya ca yojanA#}
+<ls>KATHĀS. 1,11.</ls>
+<div n="1">— 5) <lex>n.</lex> {%das Anweisen, Antreiben%}: {#protsAhanaM syAdutsAhagirA kasyApi yojanam#}
+<ls>SĀH. D. 491.</ls>
+<div n="1">— 6) <lex>f.</lex> {#A#} {%Vereinigung, Verbindung%}: {#ekapaYcASatA#}
+<ls>SĀH. D. 112,16.</ls> {#tanmAtrAhaMkAra°#}
+<ls>KULL.</ls> zu <ls>M. 1,16.</ls>
+<div n="1">— 7) <lex>f.</lex> {#A#} {%Construction%} (in gramm. Sinne)
+<ls>WILSON, SĀṂKHYAK. S. 107.</ls> <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 61.</ls> <ls>NĪLAK.</ls> zu <ls>HARIV. 6373.</ls> Schol. zu <ls>MAITRYUP. 1,4.</ls>
+<div n="1">— 8) <lex>n.</lex> {%Sammlung —, Concentration der Geistesthätigkeit, feste Richtung der Erkenntniss auf einen Punkt%}
+<ls>ŚVETĀŚV. UP. 1,18.</ls>
+<ls>AMṚTAN. UP.</ls> in <ls>Ind. St. 9,32.</ls> = {#yoga#} (das aber hier auch schlechtweg {%Verbindung%} bedeuten kann)
+<ls>TRIK. 3,3,254.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<div n="1">— 9) <lex>n.</lex> {%die Weltseele%} ({#paramAtman#})
+<ls>H. an.</ls> <ls>MED.</ls>
 <div n="v">— Vgl. {#agniyojana, bahuyojanA, BinnayojanI#} .
 <LEND>

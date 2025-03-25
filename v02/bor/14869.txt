@@ -1,6 +1,6 @@
 <L>14869<pc>454<k1>molehill<k2>molehill
-<div n="lb"/>{@MOLEHILL:@}¦ <div n="1">(1) {#valmIka#} (mn.), {%born in a m.:%}
-<div n="lb"/>{#valmIkamavaH,#} <ls>A.</ls> r.; </div><div n="1">(2) {#vAmalUraH.#} Ph.: <div n="xe">{%to make%}
-<div n="lb"/>{%mountains of m.s:%}</div> <div n="xs">{#tile tAlaM paSyati#}</div> (comp.
-<div n="lb"/>Bengali {#tilake tAla karA#}).</div>
+{@MOLEHILL:@}¦ <div n="1">(1) {#valmIka#} (mn.), {%born in a m.:%}
+{#valmIkamavaH,#} <ls>A.</ls> r.; </div><div n="1">(2) {#vAmalUraH.#} Ph.: <div n="xe">{%to make%}
+{%mountains of m.s:%}</div> <div n="xs">{#tile tAlaM paSyati#}</div> (comp.
+Bengali {#tilake tAla karA#}).</div>
 <LEND>

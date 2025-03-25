@@ -1,20 +1,20 @@
 <L>15417<pc>472<k1>night<k2>night
-<div n="lb"/>{@NIGHT:@}¦ <div n="1">(1) {#rajanI,#} <div n="xe">{%at n.:%}</div> <div n="xs">{#rajanyAm,#}</div> V.; <div n="xe">{%in the depth%}
-<div n="lb"/>{%of n.:%}</div> <div n="xs">{#gAQAyAM rajanyAm,#}</div> K.; <div n="xe">{%n. with the moon%}
-<div n="lb"/>{%(just) risen but darkness not (quite) dispelled:%}</div>
-<div n="lb"/><div n="xs">{#udgatenduraviminnatamisrA rajanI,#}</div> Ki. ix. 36.; </div><div n="1">(2)
-<div n="lb"/>{#rAtriH,#} <div n="xe">{%the n. has passed:%}</div> <div n="xs">{#rAtrirgatA,#}</div> R.; <div n="xe">{%day and%}
-<div n="lb"/>{%n.:%}</div> <div n="xs">{#ahorAtram:#}</div> v. Day.: <div n="xe">{%for three n.s:%}</div> <div n="xs">{#trirAtram,#}</div>
-<div n="lb"/>Vas.; <div n="xe">{%when mid.-n. was oozing away:%}</div> <div n="xs">{#galati #}
-<div n="lb"/>{# maDyarAtre,#}</div> D. viii.; <div n="xe">{%I will reside here one n.:%}</div> <div n="xs">{#atra #}
-<div n="lb"/>{# vasAmyekAM rAtrim,#}</div> K.s. xviii. 255.: </div><div n="1">(3) {#niSA,#} <div n="xe">{%end%}
-<div n="lb"/>{%of n.:%}</div> <div n="xs">{#niSAvasAnam,#}</div> B. xi. 17.; </div><div n="1">(4) {#viBAvarI,#} <div n="xe">{%in%}
-<div n="lb"/>{%the fourth watch of n.:%}</div> <div n="xs">{#viBAvaryAH turIye yAme,#}</div> C.;</div>
-<div n="lb"/><div n="1">(5) {#SarvarI,#} <div n="xe">{%to pass a n.:%}</div> <div n="xs">{#SarvarIM gamayati,#}</div> Si. xi.
-<div n="lb"/>5.; </div><div n="1">(6) {#kzapA,#} {%in autumnal full-moonlight n.s:%}
-<div n="lb"/>{#pariRataSaraccandrikAsu kzapAsu,#} Me. ii. 49.; </div><div n="1">(7) {#yAminI;#}</div>
-<div n="lb"/><div n="1">(8) {#kzaRadA;#} </div><div n="1">(9) {#triyAmA.#} <div n="xe">{%At n.:%}</div> <div n="xs">{#niSi, naktam,#}</div>
-<div n="lb"/>Gi.; <div n="xe">{%n. -walker:%}</div> <div n="xs">{#niSAcaraH, rajanIcaraH,#}</div> etc.;
-<div n="lb"/><div n="xe">{%n. -blindness:%}</div> <div n="xs">{#rAtryanDatA;#}</div> <div n="xe">{%n. -dew:%}</div> <div n="xs">{#niSAtuzAram;#}</div>
-<div n="lb"/><div n="xe">{%n. -waking:%}</div> <div n="xs">{#rAtrijAgaraRam;#}</div> etc.</div>
+{@NIGHT:@}¦ <div n="1">(1) {#rajanI,#} <div n="xe">{%at n.:%}</div> <div n="xs">{#rajanyAm,#}</div> V.; <div n="xe">{%in the depth%}
+{%of n.:%}</div> <div n="xs">{#gAQAyAM rajanyAm,#}</div> K.; <div n="xe">{%n. with the moon%}
+{%(just) risen but darkness not (quite) dispelled:%}</div>
+<div n="xs">{#udgatenduraviminnatamisrA rajanI,#}</div> Ki. ix. 36.; </div><div n="1">(2)
+{#rAtriH,#} <div n="xe">{%the n. has passed:%}</div> <div n="xs">{#rAtrirgatA,#}</div> R.; <div n="xe">{%day and%}
+{%n.:%}</div> <div n="xs">{#ahorAtram:#}</div> v. Day.: <div n="xe">{%for three n.s:%}</div> <div n="xs">{#trirAtram,#}</div>
+Vas.; <div n="xe">{%when mid.-n. was oozing away:%}</div> <div n="xs">{#galati #}
+{# maDyarAtre,#}</div> D. viii.; <div n="xe">{%I will reside here one n.:%}</div> <div n="xs">{#atra #}
+{# vasAmyekAM rAtrim,#}</div> K.s. xviii. 255.: </div><div n="1">(3) {#niSA,#} <div n="xe">{%end%}
+{%of n.:%}</div> <div n="xs">{#niSAvasAnam,#}</div> B. xi. 17.; </div><div n="1">(4) {#viBAvarI,#} <div n="xe">{%in%}
+{%the fourth watch of n.:%}</div> <div n="xs">{#viBAvaryAH turIye yAme,#}</div> C.;</div>
+<div n="1">(5) {#SarvarI,#} <div n="xe">{%to pass a n.:%}</div> <div n="xs">{#SarvarIM gamayati,#}</div> Si. xi.
+5.; </div><div n="1">(6) {#kzapA,#} {%in autumnal full-moonlight n.s:%}
+{#pariRataSaraccandrikAsu kzapAsu,#} Me. ii. 49.; </div><div n="1">(7) {#yAminI;#}</div>
+<div n="1">(8) {#kzaRadA;#} </div><div n="1">(9) {#triyAmA.#} <div n="xe">{%At n.:%}</div> <div n="xs">{#niSi, naktam,#}</div>
+Gi.; <div n="xe">{%n. -walker:%}</div> <div n="xs">{#niSAcaraH, rajanIcaraH,#}</div> etc.;
+<div n="xe">{%n. -blindness:%}</div> <div n="xs">{#rAtryanDatA;#}</div> <div n="xe">{%n. -dew:%}</div> <div n="xs">{#niSAtuzAram;#}</div>
+<div n="xe">{%n. -waking:%}</div> <div n="xs">{#rAtrijAgaraRam;#}</div> etc.</div>
 <LEND>

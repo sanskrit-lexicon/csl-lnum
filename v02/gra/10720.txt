@@ -1,34 +1,33 @@
 <L>10720<pc>1677<k1>hf<k2>hf
-{@hṛ@}¦ [<ab>Cu.</ab> 189, urverwandt mit bhṛ, aber schon vor der Sprachtrennung von ihm geschieden], {%halten, bringen,%} und zwar 1) jemand [<ab>A.</ab>] zu etwas [D.] {%herbeiholen;%} 2) mit saṃtarā́m {%zusammenhalten%} [<ab>A.</ab>].
-<div n="P1">{@Mit ā́@} 1) {%hervorholen%} [<ab>A.</ab>] aus [Ab.]; 2) {%herbeiholen, herbeilocken%} <lbinfo n="8"/> [<ab>A.</ab>].
-<div n="P1">{@sám@} ā́ {%vereinen%} [<ab>A.</ab>] mit [<ab>I.</ab>].
-<div n="P1">{@úd@} {%herausholen%} [<ab>A.</ab>] aus [Ab.].
-<div n="P1">{@nís@} {%herausnehmen, wegnehmen%} <lbinfo n="8"/> (vom Feuer weg) ohne <ab>Acc.</ab>
-<div n="P1">{@pári@} {%herumführen, herumtragen%} <lbinfo n="10"/> [<ab>A.</ab>].
-<div n="P1">{@prá@} 1) {%vorwärtsbringen%} [<ab>A.</ab>]; 2) {%vorstrecken%} [<ab>A.</ab>] in [<ab>L.</ab>]; 3) jemandem <lbinfo n="6"/> [D.] etwas [<ab>A.</ab>] {%darbringen;%} 4) <ab>Caus.</ab> {%fördern%} [<ab>A.</ab>].
-<div n="P1">{@ví@} 1) {%auseinanderhalten, <lbinfo n="4"/> trennen%} [<ab>A.</ab>]; 2) {%zertrennen, zerzausen, <lbinfo n="4"/> zerfleischen, verwunden%} <lbinfo n="8"/> [<ab>A.</ab>]; 3) Gewebe <lbinfo n="4"/> [<ab>A.</ab>] {%ausspannen.%} <lbinfo n="6"/>
+{@√hṛ@}¦ [<ls>Cu. 〔189〕</ls>, urverwandt mit bhṛ, aber schon vor der Sprachtrennung von ihm geschieden], {%halten, bringen,%} und zwar 1〉 jemand [<ab>A.</ab>] zu etwas [<ab>D.</ab>] {%herbeiholen;%} 2〉 mit saṃtarā́m {%zusammenhalten%} [<ab>A.</ab>].
+<div n="Pf">Mit {@ā́@} 1〉 {%hervorholen%} [<ab>A.</ab>] aus [<ab>Ab.</ab>]; 2〉 {%herbeiholen, herbeilocken%} [<ab>A.</ab>].
+<div n="Pf">{@sám@} ā́ {%vereinen%} [<ab>A.</ab>] mit [<ab>I.</ab>].
+<div n="Pf">{@úd@} {%herausholen%} [<ab>A.</ab>] aus [<ab>Ab.</ab>].
+<div n="Pf">{@nís@} {%herausnehmen, wegnehmen%} (vom Feuer weg) ohne <ab>Acc.</ab>
+<div n="Pf">{@pári@} {%herumführen, herumtragen%} [<ab>A.</ab>].
+<div n="Pf">{@prá@} 1〉 {%vorwärtsbringen%} [<ab>A.</ab>]; 2〉 {%vorstrecken%} [<ab>A.</ab>] in [<ab>L.</ab>]; 3〉 jemandem [<ab>D.</ab>] etwas [<ab>A.</ab>] {%darbringen;%} 4〉 <ab>Caus.</ab> {%fördern%} [<ab>A.</ab>].
+<div n="Pf">{@ví@} 1〉 {%auseinanderhalten, trennen%} [<ab>A.</ab>]; 2〉 {%zertrennen, zerzausen, zerfleischen, verwunden%} [<ab>A.</ab>]; 3〉 Gewebe [<ab>A.</ab>] {%ausspannen%}.
 <div n="H">Stamm I. stark har:
-<div n="P1">-rmi {@prá@} 2) práyas ná stómam mā́hināya … {61,1}.
+<div n="TS">-rmi {@prá@} 2〉 práyas ná stómam mā́hināya 〰 {61,1}.
 <div n="H">Stamm II. {@hára:@}
-<div n="P1">-ati vi 1) te ūrū́ {988,4}.
-<div n="P1">-āma [Co.] {@pra@} 2) yásyām <lbinfo n="4"/> śépam {911,37}.
-<div n="P1">-ante {@vi@} 2) pākaśaṃsám <lbinfo n="3"/> {620,9}.
+<div n="TS">-ati vi 1〉 te ūrū́ {988,4}.
+<div n="TS">-āma [<ab>Co.</ab>] {@pra@} 2〉 yásyām śépam {911,37}.
+<div n="TS">-ante {@vi@} 2〉 pākaśaṃsám {620,9}.
 <div n="H">{@hara:@}
-<div n="P1">-āmi 1) tám … pitṛyajñā́ya <lbinfo n="6"/> devám {842,10}. — ā́ 1) tám nírṛtes upásthāt {987,2}.
-<div n="P1">-a 2) pādakaú {653,19}. -- <lbinfo n="1"/> nís {162,12}.
-<div n="H">Fut. {@hṛṣya:@}
-<div n="P1">-ati {@ví@} 2) bhasád, sákthi, śíras me {912,7} (vorher yáthā bhaviṣyáti).
+<div n="TS">-āmi 1〉 tám 〰 pitṛyajñā́ya devám {842,10}. — ā́ 1〉 tám nírṛtes upásthāt {987,2}.
+<div n="TS">-a 2〉 pādakaú {653,19}. — nís {162,12}.
+<div n="H"><ab>Fut.</ab> {@hṛṣya:@}
+<div n="TS">-ati {@ví@} 2〉 bhasád, sákthi, śíras me {912,7} (vorher yáthā bhaviṣyáti).
 <div n="H"><ab>Aor.</ab> {@ahārṣ:@}
-<div n="P1">-ṣam ā́ 2) tvā {987,5}; {999,1}; enam havíṣā {987,3}.
-<div n="H"><ab>Aor.</ab> Me. {@ahṛṣ:@}
-<div n="P1">-ṣata [3. <ab>p.</ab>] {@pári@} agním {981,5}.
+<div n="TS">-ṣam ā́ 2〉 tvā {987,5}; {999,1}; enam havíṣā {987,3}.
+<div n="H"><ab>Aor.</ab> <ab>Me.</ab> {@ahṛṣ:@}
+<div n="TS">-ṣata [<per>3.</per> <ab>p.</ab>] {@pári@} agním {981,5}.
 <div n="H">Stamm des <ab>Caus.</ab> {@haraya:@}
-<div n="P1">-anta [Co. <ab>me.</ab>] {@prá@} 4) vas {333,2} (sutā́sas).
+<div n="TS">-anta [<ab>Co.</ab> <ab>me.</ab>] {@prá@} 4〉 vas {333,2} (sutā́sas).
 <div n="H"><ab>Part.</ab> {@hárat@} [von Stamm II.]:
-<div n="P1">-an {@ud@} áśmanas gā́s {894,4}. — {@pra@} 1) pā́dāv iva … anyám-anyam {488,15}. — {@ví@} 3) tántum {309,4}.
-[Page1678]
-<div n="H">P.II. {@(hṛta):@}
-<div n="P1">-ās [<ab>N.</ab> <ab>p.</ab> <ab>f.</ab>] samā́ devī́s devaís SV. {2,5},2,8,4.
+<div n="TS">-an {@ud@} áśmanas gā́s {894,4}. — {@pra@} 1〉 pā́dāv iva 〰 anyám-anyam {488,15}. — {@ví@} 3〉 tántum {309,4}. [Page1678]
+<div n="H"><ab>P.</ab> II. {@(hṛta):@}
+<div n="TS">-ās [<ab>N.</ab> <ab>p.</ab> <ab>f.</ab>] samā́ devī́s devaís <ls>SV. 〔2,5,2,8,4〕</ls>.
 <div n="H">Verbale {@hṛ́t@}
 <div n="P">enthalten in bali-hṛ́t (Steuer darbringend).
 <LEND>

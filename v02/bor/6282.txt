@@ -1,8 +1,8 @@
 <L>6282<pc>201<k1>discern<k2>discern
-<div n="lb"/>{@DISCERN:@}¦ <div n="I">I Mentally: {#vivinakti#} ({#vic,#} c. 7.),
-<div n="lb"/><div n="xe">{%does not d. what is his good:%}</div> <div n="xs">{#svahitaM na vivinakti,#}</div>
-<div n="lb"/>Si. </div><div n="I">II With the eyes: </div><div n="1">(1) {#niBAlayati#} ({#Bal,#}
-<div n="lb"/>c. 10.), <div n="xe">{%d. ing this ring:%}</div> <div n="xs">{#idamaNguloyakaM niBAlayantI,#}</div>
-<div n="lb"/>Mal.; </div><div n="1">(2) {#nirvarRayati#} ({#varR,#} c. 10.), <div n="xe">{%d. ing my%}
-<div n="lb"/>{%limbs:%}</div> <div n="xs">{#madaNgAni nirvarRya,#}</div> D.</div>
+{@DISCERN:@}¦ <div n="I">I Mentally: {#vivinakti#} ({#vic,#} c. 7.),
+<div n="xe">{%does not d. what is his good:%}</div> <div n="xs">{#svahitaM na vivinakti,#}</div>
+Si. </div><div n="I">II With the eyes: </div><div n="1">(1) {#niBAlayati#} ({#Bal,#}
+c. 10.), <div n="xe">{%d. ing this ring:%}</div> <div n="xs">{#idamaNguloyakaM niBAlayantI,#}</div>
+Mal.; </div><div n="1">(2) {#nirvarRayati#} ({#varR,#} c. 10.), <div n="xe">{%d. ing my%}
+{%limbs:%}</div> <div n="xs">{#madaNgAni nirvarRya,#}</div> D.</div>
 <LEND>

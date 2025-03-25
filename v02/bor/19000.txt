@@ -1,5 +1,5 @@
 <L>19000<pc>588<k1>rent<k2>rent
-<div n="lb"/>{@RENT@}¦ (v.): <div n="I">I To grant by lease: {#BAwakena #}
-<div n="lb"/>{# dadAti#} ({#dA,#} c. 3.). </div><div n="I">II To take by lease: </div><div n="1">(1)
-<div n="lb"/>{#BAwakena gfhRAti#} ({#graha,#} c. 9.); </div><div n="1">(2) {#BAwayati,#} Viv.</div>
+{@RENT@}¦ (v.): <div n="I">I To grant by lease: {#BAwakena #}
+{# dadAti#} ({#dA,#} c. 3.). </div><div n="I">II To take by lease: </div><div n="1">(1)
+{#BAwakena gfhRAti#} ({#graha,#} c. 9.); </div><div n="1">(2) {#BAwayati,#} Viv.</div>
 <LEND>

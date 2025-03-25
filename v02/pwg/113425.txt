@@ -1,193 +1,172 @@
 <L>113425<pc>7-1235<k1>skand<k2>skand
-{#skand#}¦, {#ska/ndati#} 
-<ls>DHĀTUP. 23, 10</ls> {#(gatiSozaRayoH)#}.{# caskanda, askAntsIt, askAn, skAn, skan; °skantsyati#} (vgl. <is>Kār</is>. 3 aus 
-<ls>SIDDH. K.</ls> zu <ls>P.7,2,10</ls>); {#°skanditum; skanttvA#} 
-<ls>P. 6, 4, 31.</ls> 
-<ls>VOP. 26, 203.</ls> des Metrums wegen auch med. {#skandate#}; in den Bedd. {#Apleva, udDftO, utplutya gamane#} 
-<ls>VOP.</ls> in <ls>DHĀTUP. 2, 8</ls> als 
-v. l. von {#skund#} . 
-<div n="1"> 1) intrans. {%schnellen, springen, spritzen; verschüttet —, herausgeschleudert werden, hinausfallen%}: Tropfen 
-<ls>ṚV. 10, 17, 11.</ls> 
-<ls>VS. 7, 26.</ls> {#diva\M mA skA^n#} 
-<ls>TBR. 3, 2, 9, 5</ls> <ls>?(vgl. VS. 1, 26).</ls> {#yone\rgarBa^H#} 
-<ls>TS. 6, 2, 5, 5.</ls> {#yadvA\ skandA\dAjya^sya#} 
-<ls>1, 6, 2, 2. 2, 6, 1, 7. 3, 1, 8, 3. 5, 7, 6, 5.</ls> <ls>TBR. 1, 4, 3, 3.</ls> <ls>ŚAT. BR. 1, 1, 4, 3. 3, 3, 16.</ls> {#vipruzaH#} 
-<ls>4, 2, 5, 1. 5, 7, 7.</ls> {#na skandate - brAhmaRasya muKe hutam#} (vgl. {#askannam - viprAgnO hutam#} 
-<ls>YĀJÑ. 1, 315</ls>) <ls>Spr. (II) 3493.</ls> {#(gaNgA)#}.{# SaMBormUrDni skanttvA#} 
-<ls>BHAṬṬ. 22, 11.</ls> Samen 
-<ls>NIR. 5, 13.</ls> 
-<ls>ŚAT. BR. 12, 4, 1, 7. 14, 9, 4, 5.</ls> 
-<ls>KĀTY. ŚR. 25, 11, 21.</ls> 
-<ls>MBH. 1, 5105. 6331. 9, 2219</ls> ({#caskande#}). 
-<ls>HARIV. 1958</ls> ({#na caskande 'Ta pOruzam#} mit der neueren Ausg. zu lesen). 
-<ls>BHĀG. P. 8, 12, 32.</ls> {#cirAccIrRaM caskanda tapa ESvaram#} so v. a. {%wurde zu Nichte%} 
-<ls>5, 6, 3.</ls> — partic. {#skanna/ = patita#} u. s. w. 
-<ls>AK. 3, 2, 53.</ls> 
-<ls>H. 1491. -</ls> <ls>ṚV. 7, 33, 11.</ls> <ls n="ṚV.">10, 181, 3.</ls> <ls>ŚAT. BR. 12, 4, 1, 7.</ls> <ls>ĀŚV. ŚR. 3, 11, 11. 13, 15.</ls> {#°BAga#} 
-<ls>KĀṬH. 25, 7.</ls> 
-<ls>KAUŚ. 6.</ls> Samen <ls>YĀJÑ. 3,278.</ls> <ls>MBH. 1, 2380. 2434. 3, 14315.</ls> <ls>BHĀG. P. 8, 12, 35.</ls>
+{#skand#}¦, {#ska/ndati#}
+<ls>DHĀTUP. 23,10</ls> ({#gatiSozaRayoH#}).{# caskanda, askAntsIt, askAn, skAn, skan; °skantsyati#} (vgl. <is>Kār.</is> 3 aus
+<ls>SIDDH. K.</ls> zu <ls>P. 7,2,10</ls>); {#°skanditum; skanttvA#}
+<ls>P. 6,4,31.</ls>
+<ls>VOP. 26,203.</ls> des Metrums wegen auch med. {#skandate#}; in den Bedd. {#Apleva, udDftO, utplutya gamane#}
+<ls>VOP.</ls> in <ls>DHĀTUP. 2,8</ls> als
+v. l. von {#skund#} .
+<div n="1"> 1) intrans. {%schnellen, springen, spritzen; verschüttet —, herausgeschleudert werden, hinausfallen%}: Tropfen
+<ls>ṚV. 10,17,11.</ls>
+<ls>VS. 7,26.</ls> {#diva\M mA skA^n#}
+<ls>TBR. 3,2,9,5</ls> (vgl. <ls>VS. 1,26).</ls> {#yone\rgarBa^H#}
+<ls>TS. 6,2,5,5.</ls> {#yadvA\ skandA\dAjya^sya#}
+<ls n="TS.">1,6,2,2. 2,6,1,7. 3,1,8,3. 5,7,6,5.</ls> <ls>TBR. 1,4,3,3.</ls> <ls>ŚAT. BR. 1,1,4,3. 3,3,16.</ls> {#vipruzaH#}
+<ls n="ŚAT. BR.">4,2,5,1. 5,7,7.</ls> {#na skandate — brAhmaRasya muKe hutam#} (vgl. {#askannam — viprAgnO hutam#}
+<ls>YĀJÑ. 1,315</ls>) <ls>Spr. (II) 3493.</ls> ({#gaNgA#}).{# SaMBormUrDni skanttvA#}
+<ls>BHAṬṬ. 22,11.</ls> Samen
+<ls>NIR. 5,13.</ls>
+<ls>ŚAT. BR. 12,4,1,7.</ls> <ls n="ŚAT. BR.">14,9,4,5.</ls>
+<ls>KĀTY. ŚR. 25,11,21.</ls>
+<ls>MBH. 1,5105.</ls> <ls n="MBH. 1,">6331.</ls> <ls n="MBH.">9,2219</ls> ({#caskande#}).
+<ls>HARIV. 1958</ls> ({#na caskande 'Ta pOruzam#} mit der neueren Ausg. zu lesen).
+<ls>BHĀG. P. 8,12,32.</ls> {#cirAccIrRaM caskanda tapa ESvaram#} so v. a. {%wurde zu Nichte%}
+<ls n="BHĀG. P.">5,6,3.</ls> — partic. {#skanna/ = patita#} u. s. w.
+<ls>AK. 3,2,53.</ls>
+<ls>H. 1491.</ls> — <ls>ṚV. 7,33,11.</ls> <ls n="ṚV.">10,181,3.</ls> <ls>ŚAT. BR. 12,4,1,7.</ls> <ls>ĀŚV. ŚR. 3,11,11. 13,15.</ls> {#°BAga#}
+<ls>KĀṬH. 25,7.</ls>
+<ls>KAUŚ. 6.</ls> Samen <ls>YĀJÑ. 3,278.</ls> <ls>MBH. 1,2380.</ls> <ls n="MBH. 1,">2434.</ls> <ls n="MBH.">3,14315.</ls> <ls>BHĀG. P. 8,12,35.</ls>
 [Page7-1236]
-{#surendreRa skannam#} sc. {#retaH#} 
-<ls>R. 7, 37, 1, 35.</ls> {#yadaRqamaDye skannaM tu dravamAsIt#} 
-<ls>HARIV. 12333. 12336.</ls> {#skannaM garBaparisrave#} 
-<ls>R. 1, 38, 26. fg.</ls> {#SastraM skannamivodake#} 
-<ls>Spr. (II) 4367.</ls> {#skanna#} und {#askanna#} {%verschüttet, nicht verschüttet%} (beim Opfer) 
-<ls>MBH. 12, 2318</ls> {#skanna#} {%dem es fehlgeschlagen ist%} 
-<ls>HARIV. 3957.</ls> 
-<div n="1">— 2) {%bespringen (zur Begattung)%}: {#askA^nfza\Bo yuvA\ gAH#} 
-<ls>TBR. 3, 7, 10, 3.</ls> 
-<ls>ŚAT. BR. 13, 3, 8, 1.</ls> 
+{#surendreRa skannam#} sc. {#retaH#}
+<ls>R. 7,37,1,35.</ls> {#yadaRqamaDye skannaM tu dravamAsIt#}
+<ls>HARIV. 12333.</ls> <ls n="HARIV.">12336.</ls> {#skannaM garBaparisrave#}
+<ls>R. 1,38,26. fg.</ls> {#SastraM skannamivodake#}
+<ls>Spr. (II) 4367.</ls> {#skanna#} und {#askanna#} {%verschüttet, nicht verschüttet%} (beim Opfer)
+<ls>MBH. 12,2318</ls> {#skanna#} {%dem es fehlgeschlagen ist%}
+<ls>HARIV. 3957.</ls>
+<div n="1">— 2) {%bespringen (zur Begattung)%}: {#askA^nfza\Bo yuvA\ gAH#}
+<ls>TBR. 3,7,10,3.</ls>
+<ls>ŚAT. BR. 13,3,8,1.</ls>
 <div n="v">— Vgl. {#askanna#} .
-
-<div n="p">— caus. {#skandayati#} 
-<div n="1"> 1) {%verschütten, vergiessen%} 
-<ls>AIT. BR. 5, 27.</ls> {#na retaH skandayetkvacit#} 
-<ls>M. 2, 180.</ls> {#moGaM skanditamArzaBam#} 
-<ls>9, 50.</ls> 
-<div n="1">— 2) {%überspringen%} so v. a. {%versäumen, unterlassen%}: {#darSamaskandayan#} 
-<ls>M. 6, 9.</ls> {#askanditakAlabalihomAnuzWAyinaH#} 
-<ls>MBH. 12, 7002.</ls> {#askanditavrata#} <lex>adj.</lex> 
-<ls>BHĀG. P. 1, 6, 32.</ls> 
-<div n="1">— 3) etwa {%hüpfen lassen%} 
-<ls>R. GORR. 1, 39, 26</ls> zur Erklärung von {#skanda#} . 
-<div n="1">— 4) {%gerinnen machen, verdichten%}: {#udakaM SItaM skandayatyati (= atyarTam) SoRitam#} 
-<ls>SUŚR. 1, 37, 16. med. 47, 7. 9</ls>; vgl. {#skandana#} und {#skandayati (samAhftO)#} 
-<ls>DHĀTUP. 35, 84, t.</ls>
-
-<div n="p">— intens. {#canIskadyate, canIskandIti#} 
-<ls>P. 7, 4, 84.</ls> 
-<ls>VOP. 20, 7.</ls> {%hüpfen%} (von Fröschen): {#kani^zkan#} 
-<ls>ṚV. 7, 103, 4.</ls>
-
-<div n="p">— {#ati#} 
-<div n="1"> 1) {%bespringen, insilire%} 
-<ls>ṚV. 5, 52, 3.</ls> 
-<div n="1">— 2) {%überspringen%}: {#a\ti\zkade^#} (infin.) 
-<ls>ṚV. 8, 56, 19.</ls> {#ana^tiskandanpa\rjanyo^ varzati#} {%nicht überspringend%} so v. a. {%gleichmässig%} 
-<ls>TBR. 3, 3, 6, 4.</ls> 
-<div n="1">— 3) {%heraus —, hinabfallen%}: {#atizka/das#} infin. 
-<ls>ṚV. 10, 108, 2.</ls>
-
-<div n="p">— {#aDi#} (nach 
-<ls>AV. PRĀT. 2, 104</ls> geht {#sa#} nicht in {#za#} über) {%bespringen%} (zur Begattung): {#pi\tA yatsvAM du^hi\tara^maDi\zkan#} 
-<ls>ṚV. 10, 61, 7.</ls> 
-<ls>AV. 5, 25, 8. 10, 10, 16.</ls> {#gOraDi^zkannA#} (!) 
-<ls>TS. 2, 2, 8, 2.</ls>
-
-<div n="p">— {#anu#} {%der Reihe nach hineinspringen%}; absol.: {#gehAnuskandam, gehaM gehamanuskandam, gehamanuskandamanuskandam#} 
-<ls>P. 3, 4, 56, Schol.</ls>
-
-<div n="p">— {#aBi#} (nach 
-<ls>AV. PRĀT. 2, 104</ls> geht {#sa#} nicht in {#za#} über) {%besteigen%}: {#vanda^neva vf\kzam#} 
-<ls>AV. 7, 115, 2.</ls> {#a\Bi\skanda^m#} 
-<ls>5, 14, 11</ls> ist wohl als absol. zu fassen.
-
+<div n="p">— caus. {#skandayati#}
+<div n="1"> 1) {%verschütten, vergiessen%}
+<ls>AIT. BR. 5,27.</ls> {#na retaH skandayetkvacit#}
+<ls>M. 2,180.</ls> {#moGaM skanditamArzaBam#}
+<ls n="M.">9,50.</ls>
+<div n="1">— 2) {%überspringen%} so v. a. {%versäumen, unterlassen%}: {#darSamaskandayan#}
+<ls>M. 6,9.</ls> {#askanditakAlabalihomAnuzWAyinaH#}
+<ls>MBH. 12,7002.</ls> {#askanditavrata#} <lex>adj.</lex>
+<ls>BHĀG. P. 1,6,32.</ls>
+<div n="1">— 3) etwa {%hüpfen lassen%}
+<ls>R. GORR. 1,39,26</ls> zur Erklärung von {#skanda#} .
+<div n="1">— 4) {%gerinnen machen, verdichten%}: {#udakaM SItaM skandayatyati (= atyarTam) SoRitam#}
+<ls>SUŚR. 1,37,16.</ls> med. <ls n="SUŚR.">47,7. 9</ls>; vgl. {#skandana#} und {#skandayati (samAhftO)#}
+<ls>DHĀTUP. 35,84, t.</ls>
+<div n="p">— intens. {#canIskadyate, canIskandIti#}
+<ls>P. 7,4,84.</ls>
+<ls>VOP. 20,7.</ls> {%hüpfen%} (von Fröschen): {#kani^zkan#}
+<ls>ṚV. 7,103,4.</ls>
+<div n="p">— {#ati#}
+<div n="1"> 1) {%bespringen, insilire%}
+<ls>ṚV. 5,52,3.</ls>
+<div n="1">— 2) {%überspringen%}: {#a\ti\zkade^#} (infin.)
+<ls>ṚV. 8,56,19.</ls> {#ana^tiskandanpa\rjanyo^ varzati#} {%nicht überspringend%} so v. a. {%gleichmässig%}
+<ls>TBR. 3,3,6,4.</ls>
+<div n="1">— 3) {%heraus —, hinabfallen%}: {#atizka/das#} infin.
+<ls>ṚV. 10,108,2.</ls>
+<div n="p">— {#aDi#} (nach
+<ls>AV. PRĀT. 2,104</ls> geht {#sa#} nicht in {#za#} über) {%bespringen%} (zur Begattung): {#pi\tA yatsvAM du^hi\tara^maDi\zkan#}
+<ls>ṚV. 10,61,7.</ls>
+<ls>AV. 5,25,8.</ls> <ls n="AV.">10,10,16.</ls> {#gOraDi^zkannA#} (!)
+<ls>TS. 2,2,8,2.</ls>
+<div n="p">— {#anu#} {%der Reihe nach hineinspringen%}; absol.: {#gehAnuskandam, gehaM gehamanuskandam, gehamanuskandamanuskandam#}
+<ls>P. 3,4,56</ls>, Schol.
+<div n="p">— {#aBi#} (nach
+<ls>AV. PRĀT. 2,104</ls> geht {#sa#} nicht in {#za#} über) {%besteigen%}: {#vanda^neva vf\kzam#}
+<ls>AV. 7,115,2.</ls> {#a\Bi\skanda^m#}
+<ls n="AV.">5,14,11</ls> ist wohl als absol. zu fassen.
 <div n="p">— {#pratyaBi#} s. {#pratyaBiskandana#} .
-
-<div n="p">— {#ava#} 
-<div n="1"> 1) {%herabspritzen%}: {#(retaH) avaskannaM#} (so zu lesen; {#aTa skannaM#} die neuere Ausg.) {#Sarastambe#} 
-<ls>HARIV. 1786.</ls> {%herabspringen%}: {#raTAdavaskandya#} 
-<ls>BHĀG. P. 10, 38, 26.</ls> 
-<div n="1">— 2) {%herbeispringen%}: {#araRyAt#} 
-<ls>ṢAḌV. BR. 1, 1.</ls> 
-<ls>ANUPADAS. 8, 3.</ls> 
-<div n="1">— 3) {%Jmd%} (acc.) {%überfallen, anfallen%} 
-<ls>MĀLAV. 8, 18.</ls> 
-<ls>KATHĀS. 123, 3.</ls> 
-<ls>RĀJA-TAR. 8, 2842.</ls> eine Stadt 
-<ls>R. 5, 80, 20. 27.</ls> 
-<ls>ŚIŚ. 1, 51.</ls> uneig.: {#snehAvaskannahfdayA mohamupAgamat#} {%überwältigt%} 
-<ls>R. 6, 95, 41.</ls> 
+<div n="p">— {#ava#}
+<div n="1"> 1) {%herabspritzen%}: {#(retaH) avaskannaM#} (so zu lesen; {#aTa skannaM#} die neuere Ausg.) {#Sarastambe#}
+<ls>HARIV. 1786.</ls> {%herabspringen%}: {#raTAdavaskandya#}
+<ls>BHĀG. P. 10,38,26.</ls>
+<div n="1">— 2) {%herbeispringen%}: {#araRyAt#}
+<ls>ṢAḌV. BR. 1,1.</ls>
+<ls>ANUPADAS. 8,3.</ls>
+<div n="1">— 3) {%Jmd%} (acc.) {%überfallen, anfallen%}
+<ls>MĀLAV. 8,18.</ls>
+<ls>KATHĀS. 123,3.</ls>
+<ls>RĀJA-TAR. 8,2842.</ls> eine Stadt
+<ls>R. 5,80,20.</ls> <ls n="R. 5,80,">27</ls>
+<ls>ŚIŚ. 1,51.</ls> uneig.: {#snehAvaskannahfdayA mohamupAgamat#} {%überwältigt%}
+<ls>R. 6,95,41.</ls>
 <div n="v">— Vgl. {#avaskanda#} fgg.
-
-<div n="p">— {#aByava#} 
-<div n="1"> 1) {%hinab-, hinaus-, hineinspringen%}: {#advAreRAByavaskandya nirjagAma bahiH#} 
-<ls>MBH. 4, 810.</ls> {#prAviSaddrORiH pArTAnAM SibiraM mahat . advAreRAByavaskandya#} 
-<ls>10, 327. fg.</ls> 
-<div n="1">— 2) {%auf Jmd%} (acc.) {%stossen%} 
-<ls>MBH. 4, 1549.</ls> 
+<div n="p">— {#aByava#}
+<div n="1"> 1) {%hinab-, hinaus-, hineinspringen%}: {#advAreRAByavaskandya nirjagAma bahiH#}
+<ls>MBH. 4,810.</ls> {#prAviSaddrORiH pArTAnAM SibiraM mahat . advAreRAByavaskandya#}
+<ls n="MBH.">10,327. fg.</ls>
+<div n="1">— 2) {%auf Jmd%} (acc.) {%stossen%}
+<ls>MBH. 4,1549.</ls>
 <div n="v">— Vgl. {#aByavaskanda#} fg.
-
 <div n="p">— {#paryava#} s. {#paryavaskanda#} .
-
 <div n="p">— {#pratyava#} s. {#pratyavaskandana#} .
-
-<div n="p">— {#samava#} caus. {%Jmd%} (acc.) {%überfallen%} 
-<ls>M. 7, 196.</ls> 
+<div n="p">— {#samava#} caus. {%Jmd%} (acc.) {%überfallen%}
+<ls>M. 7,196.</ls>
 <div n="v">— Vgl. {#samavaskanda#} .
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {%hüpfen%}: absol. {#A\skanda^m#} 
-<ls>VS. 23, 54.</ls> {#Sa\Sa A\skanda^marzati#} 55. 
-<div n="1">— 2) {%sich hängen an%} (acc.): {#vedANgAni vedamAskandanti#} 
-<ls>DURGA</ls> zu <ls>NIR.</ls> Einl. 
-<div n="1">— 3) {%Jmd%} (acc.) {%überfallen, anfallen%} 
-<ls>MĀLATĪM. 151, 9.</ls> <ls>KATHĀS. 72. 165. 102, 49.</ls> <ls>BHAṬṬ. 17, 11. 82.</ls> einen Ort 
-<ls>KATHĀS. 51, 99.</ls> — caus. partic.
+<div n="p">— {#A#}
+<div n="1"> 1) {%hüpfen%}: absol. {#A\skanda^m#}
+<ls>VS. 23,54.</ls> {#Sa\Sa A\skanda^marzati#} 55.
+<div n="1">— 2) {%sich hängen an%} (acc.): {#vedANgAni vedamAskandanti#}
+<ls>DURGA</ls> zu <ls>NIR.</ls> Einl.
+<div n="1">— 3) {%Jmd%} (acc.) {%überfallen, anfallen%}
+<ls>MĀLATĪM. 151,9.</ls> <ls>KATHĀS. 72,165.</ls> <ls n="KATHĀS.">102,49.</ls> <ls>BHAṬṬ. 17,11. 82.</ls> einen Ort
+<ls>KATHĀS. 51,99.</ls> — caus. partic.
 [Page7-1237]
-{#Askandita#} {%heimgesucht, behaftet mit%}: {#aprAmARyaSaNkAskanditAH (pratya yAH)#} 
-<ls>NĪLAK. 86.</ls> 
+{#Askandita#} {%heimgesucht, behaftet mit%}: {#aprAmARyaSaNkAskanditAH (pratya yAH)#}
+<ls>NĪLAK. 86.</ls>
 <div n="v">— Vgl. {#Askanda#} fgg.
-
-<div n="p">— {#samA#} {%Jmd%} (acc.) {%überfallen, anfallen%}: {#SatrUnsamAskantsyati ko raRe#} 
-<ls>BHAṬṬ. 16, 10.</ls> {#tatastaM vEzRavI mAyA samAskandati mohinI#} 
-<ls>MĀRK. P. 11, 19.</ls> — {#samAskanna#} {%angefügt an%}: {#skanDo vfkzasya samAskanno Bavati#} 
-<ls>NIR. 6. 17.</ls> {%bestreut%} (=  {#viprakIrRa#} 
-<ls>DURGA</ls><ls>) 3, 10.</ls>
-
-<div n="p">— {#ud#} {%davonspringen%}: {#aGnye dUramutkanda#} 
-<ls>P. 8, 4, 61, <is>Vārtt</is>. 1, Schol.</ls> wird auch auf {#kand#} zurückgeführt.
-
-<div n="p">— {#pari#}, das {#sa#} der Wurzel kann in {#za#} übergehen 
-<ls>P. 8, 3, 74</ls> (vgl. 
-<ls>SIDDH. K.</ls> zu d. St.). <ls>VOP. 8,98.</ls> {%umherhüpfen%}: {#meGanAdaH parizkandanpariskandantamarim (avaDnAt)#} 
-<ls>BHAṬṬ. 9, 75.</ls> — partic. {#pariskanna#} {%vergossen%}: {#retaH#} 
-<ls>MBH. 1, 2381.</ls> 
-<div n="v">— Vgl. {#parizkaRRa#} fgg. — intens. {%umherhüpfen%}: {#piNgA\ pari^ canizkadat#} 
-<ls>ṚV. 8, 58, 9.</ls>
-
-<div n="p">— {#pra#} 
-<div n="1"> 1) {%hervorspringen, - spritzen, hinausfallen%}: Tropfen, Thränen, Staub u. s. w. 
-<ls>ŚAT. BR. 4, 2, 1, 11. 9, 1, 1, 6.</ls> {#a\ntari^kzA\tpra ska^ndanti\ ye SUrpA^t#} 
-<ls>TBR. 3, 2, 5, 11.</ls> {#pra\skadya^#} 
-<ls>TS. 2, 6, 10, 2. 6, 5, 6, 5.</ls> Samen 
-<ls>ŚAT. BR. 1, 7, 4, 3.</ls> 
-<ls>MBH. 1, 2380. 3, 10002.</ls> {%hinausspringen%}: {#SAlAyAH#} 
-<ls>KAUŚ. 25.</ls> {%aufspringen%}: {#praskandanniva saMBramAt#} 
-<ls>MBH. 1, 134.</ls> {%herabspringen%}: {#raTAtpraskandya#} 
-<ls>3, 15587. 15725. 15730. 16456. 4, 1004. 1071. 5, 1804. 6, 4313. 4856. 10, 480. 13, 7435.</ls> {#pAdapAt#} 
-<ls>R. 5, 35, 33.</ls> {%hineinspringen, sich verfangen in%} (acc.): {#pracaskanda vinASAya pASaM mfga ivAtmanaH#} 
-<ls>R.</ls> <ls>SCHL. 2, 11, 4.</ls> partic. {#praskanna = patita#} 
-<ls>H. 806.</ls> 
-<ls>HALĀY. 2, 324.</ls> {%verschüttet, verspritzt%} 
-<ls>BHĀG. P. 8, 7, 46.</ls> Samen 
-<ls>MBH. 13, 4009.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 39, 17.</ls> {#°vivekavijYAna#} (adj.) so v. a. {%verloren gegangen, zu Nichte geworden%} 
-<ls>BHĀG. P. 5, 14, 28.</ls> 
-<div n="1">— 2) {%überfallen, anfallen, angreifen%}: {#praskandya senAm#} 
-<ls>MBH. 9, 966.</ls> {#praskanna#} mit transit. Bed.: {#pARquvAhinIm#} 
-<ls>976.</ls> 
-<div n="1">— 3) {%ausspritzen, verspritzen%}: {#apaH#} 
-<ls>PAÑCAV. BR. 14, 5, 15.</ls> {#praska/ndya#} 
-<ls>ŚAT. BR. 4, 5, 10, 7.</ls> {#prARaM vA ete praskandanti ye divA ratyA saMyujyante#} 
-<ls>PRAŚNOP. 1, 13.</ls> 
-<div n="v">— Vgl. {#praskandana#} fgg. — caus. 
-<div n="1"> 1) {%in Fluss bringen%}: {#SoRitodAM raTAvartAM nadIM praskandayizyAmi#} 
-<ls>MBH. 4, 1971</ls> ({%transsilire%} 
-<ls>WEST</ls>). 
-<ls>HARIV. 13945.</ls> 
-<div n="1">— 2) {%hinschütten, hingiessen%} (von einer Speise, die man geniesst, als Opfergabe) 
-<ls>MBH. 13, 5011.</ls>
-
-<div n="p">— {#aBipra#} {%hineinspringen in%} (acc.): {#gartam#} 
-<ls>ŚĀṄKH. BR. 26, 1.</ls>
-
-<div n="p">— {#vi#}, der Anlaut kann in {#za#} übergehen 
-<ls>P. 8, 3, 73.</ls> 
-<ls>VOP. 8, 98.</ls> nom. ag. {#vizkantar#} und {#viska° (a°)#} {%hinundher hüpfend, unstät%} 
-<ls>BHAṬṬ. 9, 74.</ls>
-
-<div n="p">— {#sam#} {%abtropfeln, abspringen%}: {#ApaH#} 
-<ls>ŚAT. BR. 9, 1, 2, 21.</ls>
+<div n="p">— {#samA#} {%Jmd%} (acc.) {%überfallen, anfallen%}: {#SatrUnsamAskantsyati ko raRe#}
+<ls>BHAṬṬ. 16,10.</ls> {#tatastaM vEzRavI mAyA samAskandati mohinI#}
+<ls>MĀRK. P. 11,19.</ls> — {#samAskanna#} {%angefügt an%}: {#skanDo vfkzasya samAskanno Bavati#}
+<ls>NIR. 6. 17.</ls> {%bestreut%} (= {#viprakIrRa#} <ls>DURGA</ls>)
+<ls n="NIR.">3,10.</ls>
+<div n="p">— {#ud#} {%davonspringen%}: {#aGnye dUramutkanda#}
+<ls>P. 8,4,61</ls>, <is>Vārtt</is>. 1, Schol. wird auch auf {#kand#} zurückgeführt.
+<div n="p">— {#pari#}, das {#sa#} der Wurzel kann in {#za#} übergehen
+<ls>P. 8,3,74</ls> (vgl.
+<ls>SIDDH. K.</ls> zu d. St.). <ls>VOP. 8,98.</ls> {%umherhüpfen%}: {#meGanAdaH parizkandanpariskandantamarim (avaDnAt)#}
+<ls>BHAṬṬ. 9,75.</ls> — partic. {#pariskanna#} {%vergossen%}: {#retaH#}
+<ls>MBH. 1,2381.</ls>
+<div n="v">— Vgl. {#parizkaRRa#} fgg. — intens. {%umherhüpfen%}: {#piNgA\ pari^ canizkadat#}
+<ls>ṚV. 8,58,9.</ls>
+<div n="p">— {#pra#}
+<div n="1"> 1) {%hervorspringen, — spritzen, hinausfallen%}: Tropfen, Thränen, Staub u. s. w.
+<ls>ŚAT. BR. 4,2,1,11.</ls> <ls n="ŚAT. BR.">9,1,1,6.</ls> {#a\ntari^kzA\tpra ska^ndanti\ ye SUrpA^t#}
+<ls>TBR. 3,2,5,11.</ls> {#pra\skadya^#}
+<ls>TS. 2,6,10,2.</ls> <ls n="TS.">6,5,6,5.</ls> Samen
+<ls>ŚAT. BR. 1,7,4,3.</ls>
+<ls>MBH. 1,2380.</ls> <ls n="MBH.">3,10002.</ls> {%hinausspringen%}: {#SAlAyAH#}
+<ls>KAUŚ. 25.</ls> {%aufspringen%}: {#praskandanniva saMBramAt#}
+<ls>MBH. 1,134.</ls> {%herabspringen%}: {#raTAtpraskandya#}
+<ls n="MBH.">3,15587.</ls> <ls n="MBH. 3,">15725.</ls> <ls n="MBH. 3,">15730.</ls> <ls n="MBH. 3,">16456.</ls> <ls n="MBH.">4,1004.</ls> <ls n="MBH. 4,">1071.</ls> <ls n="MBH.">5,1804.</ls> <ls n="MBH.">6,4313.</ls> <ls n="MBH. 6,">4856.</ls> <ls n="MBH.">10,480.</ls> <ls n="MBH.">13,7435.</ls> {#pAdapAt#}
+<ls>R. 5,35,33.</ls> {%hineinspringen, sich verfangen in%} (acc.): {#pracaskanda vinASAya pASaM mfga ivAtmanaH#}
+<ls>R. SCHL. 2,11,4.</ls> partic. {#praskanna = patita#}
+<ls>H. 806.</ls>
+<ls>HALĀY. 2,324.</ls> {%verschüttet, verspritzt%}
+<ls>BHĀG. P. 8,7,46.</ls> Samen
+<ls>MBH. 13,4009.</ls>
+<ls>R. GORR. 1,39,17.</ls> {#°vivekavijYAna#} (adj.) so v. a. {%verloren gegangen, zu Nichte geworden%}
+<ls>BHĀG. P. 5,14,28.</ls>
+<div n="1">— 2) {%überfallen, anfallen, angreifen%}: {#praskandya senAm#}
+<ls>MBH. 9,966.</ls> {#praskanna#} mit transit. Bed.: {#pARquvAhinIm#}
+<ls n="MBH. 9,">976.</ls>
+<div n="1">— 3) {%ausspritzen, verspritzen%}: {#apaH#}
+<ls>PAÑCAV. BR. 14,5,15.</ls> {#praska/ndya#}
+<ls>ŚAT. BR. 4,5,10,7.</ls> {#prARaM vA ete praskandanti ye divA ratyA saMyujyante#}
+<ls>PRAŚNOP. 1,13.</ls>
+<div n="v">— Vgl. {#praskandana#} fgg. — caus.
+<div n="1"> 1) {%in Fluss bringen%}: {#SoRitodAM raTAvartAM nadIM praskandayizyAmi#}
+<ls>MBH. 4,1971</ls> ({%transsilire%}
+<ls>WEST</ls>).
+<ls>HARIV. 13945.</ls>
+<div n="1">— 2) {%hinschütten, hingiessen%} (von einer Speise, die man geniesst, als Opfergabe)
+<ls>MBH. 13,5011.</ls>
+<div n="p">— {#aBipra#} {%hineinspringen in%} (acc.): {#gartam#}
+<ls>ŚĀṄKH. BR. 26,1.</ls>
+<div n="p">— {#vi#}, der Anlaut kann in {#za#} übergehen
+<ls>P. 8,3,73.</ls>
+<ls>VOP. 8,98.</ls> nom. ag. {#vizkantar#} und {#viska° (a°)#} {%hinundher hüpfend, unstät%}
+<ls>BHAṬṬ. 9,74.</ls>
+<div n="p">— {#sam#} {%abtröpfeln, abspringen%}: {#ApaH#}
+<ls>ŚAT. BR. 9,1,2,21.</ls>
 <LEND>

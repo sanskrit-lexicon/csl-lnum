@@ -1,6 +1,6 @@
 <L>18459<pc>473-b<k1>mace-bearer<k2>mace-bearer
-<div n="lb"/>MACE-BEARER¦, {%s.%} {#vetraDaraH, vetraDArI#} {%m.%} {#(n), vetrI#} {%m.%} {#(n), vetrapARiH#} {%m.%}
-<div n="lb"/>{#gadADaraH, gadI#} {%m.%} {#(n), gadApARiH#} {%m.,%} {#gadAhastaH, daRqaDaraH, daRqI#} {%m.%}
-<div n="lb"/>{#(n), daRqahastaH laguqahastaH, daRqaDArI#} {%m.,%} {#daRqikaH, daRqaBft#} {%m.,%}
-<div n="lb"/>{#yazwigrahaH, yAzwIkaH#}.
+MACE-BEARER¦, {%s.%} {#vetraDaraH, vetraDArI#} {%m.%} {#(n), vetrI#} {%m.%} {#(n), vetrapARiH#} {%m.%}
+{#gadADaraH, gadI#} {%m.%} {#(n), gadApARiH#} {%m.,%} {#gadAhastaH, daRqaDaraH, daRqI#} {%m.%}
+{#(n), daRqahastaH laguqahastaH, daRqaDArI#} {%m.,%} {#daRqikaH, daRqaBft#} {%m.,%}
+{#yazwigrahaH, yAzwIkaH#}.
 <LEND>

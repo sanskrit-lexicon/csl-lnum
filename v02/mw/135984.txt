@@ -10,10 +10,10 @@
 <div n="to"/>to utter, <ls>MW.</ls>;
 <div n="to"/>to throw or put on (as a garland &c.), <ls>ib.</ls>;
 <div n="to"/>to lend, bestow, <ls>MBh.</ls>; <ls>R.</ls> :
-<div n="to"/><ab>Pass.</ab> <s>-mucyate</s>, to free one's self from (<ab>abl.</ab> or <ab>instr.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls> &c.;
+<div n="vp"/><ab>Pass.</ab> <s>-mucyate</s>, to free one's self from (<ab>abl.</ab> or <ab>instr.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls> &c.;
 <div n="to"/>to be loosened, become loose or detached, fall off (as fruits), <ls>ŚBr.</ls>; <ls>MBh.</ls>;
 <div n="to"/>to leave off, cease, <ls>ŚBr.</ls>; <ls>KaṭhUp.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-mocayati</s>, to liberate from (<ab>abl.</ab>), <ls>MBh.</ls>;
-<div n="to"/>to loosen, untie, <ls>Ragh.</ls> <ab>Sch.</ab>:
-<div n="to"/><ab>Desid.</ab> <s>-mumukzati</s>, to be about to give up or resign, <ls>MBh.</ls><info verb="pre" cp="PĀ" parse="pra+muc"/>
+<div n="vp"/><ab>Caus.</ab> <s>-mocayati</s>, to liberate from (<ab>abl.</ab>), <ls>MBh.</ls>;
+<div n="to"/>to loosen, untie, <ls>Ragh.</ls>, <ab>Sch.</ab>:
+<div n="vp"/><ab>Desid.</ab> <s>-mumukzati</s>, to be about to give up or resign, <ls>MBh.</ls><info verb="pre" cp="PĀ" parse="pra+muc"/>
 <LEND>

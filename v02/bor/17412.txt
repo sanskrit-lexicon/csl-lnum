@@ -1,5 +1,5 @@
 <L>17412<pc>532<k1>pork<k2>pork
-<div n="lb"/>{@PORK:@}¦ <div n="1">(1) {#SUkaramAMsam;#} </div><div n="1">(2) {#varAhAmizam;#} etc.;
-<div n="lb"/><div n="xe">{%who eat p. with garlic:%}</div> <div n="xs">{#ye vArAhaM mAMsaM gfYjanena #}
-<div n="lb"/>{# KAdanti,#}</div> Mah.</div>
+{@PORK:@}¦ <div n="1">(1) {#SUkaramAMsam;#} </div><div n="1">(2) {#varAhAmizam;#} etc.;
+<div n="xe">{%who eat p. with garlic:%}</div> <div n="xs">{#ye vArAhaM mAMsaM gfYjanena #}
+{# KAdanti,#}</div> Mah.</div>
 <LEND>

@@ -1,40 +1,39 @@
 <L>23495<pc>2-0823<k1>gOqa<k2>gOqa
-{#gOqa#}¦ 
-<div n="1"> 1) (von {#guqa#}) 
-<div n="2"> a) <lex>adj.</lex> {%aus Zucker (Melasse) bereitet u.s.w.%} 
-<ls>SUŚR. 1, 192, 14. 233, 18.</ls> {#pItvA gOqaM surAsavam#} 
-<ls>MBH. 8, 2050.</ls> 
-<div n="2">— b) {%Rum aus Melasse%} 
-<ls>SUŚR. 1, 189, 17.</ls> <lex>f.</lex> {#gOqI#} 
-<ls>TRIK. 2, 10, 15.</ls> 
-<ls>GṚHYASAṂGR. 2, 27.</ls> 
-<ls>M. 11, 94.</ls> {#gOqyAsava#} 
-<ls>MBH. 8, 2034.</ls> 
-<div n="2">— c) <lex>n.</lex> {%Zuckerwerk%}, pl. 
-<ls>R. 1, 53, 4.</ls> 
-<div n="2">— d) <lex>m.</lex> (sc. {#deSa#}) und <lex>n.</lex> (sc. {#rAzwra#}) {%das Zuckerland%}, N. pr. eines Landes; <lex>m.</lex> pl. {%die Bewohner dieses Landes%} 
-<ls>LIA. I, 140. fg.</ls> 
-<ls>BURN. Intr. 632.</ls> {#vaNgadeSaM samAraBya BuvaneSAntagaM Sive . gOqadeSaH samAKyAtaH sarvavidyAviSAradaH .. iti SaktisaMgamatantre saptamaH pawalaH .. sArasvatAH kAnyakubjA gOqamETilikotkalAH . paYcagOqA iti KyAtA vinDyasyottaravAsinaH .. iti skandapurARam ..#} 
-<ls>ŚKDR.</ls> {#gOqaM rAzwramanuttamaM nirupamA tatrApi rAQA purI#} 
-<ls>PRAB. 22, 13.</ls> {#gOqanIvft#} 
-<ls>TRIK. 2, 1, 7.</ls> {#asti gOqavizaye kOSAmbI nAma nagarI#} 
-<ls>HIT. 27, 22.</ls> {#gOqamaRqala#} 
-<ls>RĀJA-TAR. 4, 148.</ls> {#gOqarAja#} 
-<ls>420. 467.</ls> {#gOqopajIvinaH#} 
-<ls>324.</ls> {#gOqEH#} 
-<ls>332.</ls> <is>Gauḍa</is> - Brahmanen 
-<ls>COLEBR. Misc. Ess. II, 179. 187.</ls> 
-<div n="1">— 2) (von {#gOqa#} 
-<ls>1,d</ls>) 
-<div n="2"> a) <lex>m.</lex> Bez. eines <is>Rāga</is>: {#mAlavagOqarAga#} 
-<ls>GĪT. S. 2</ls>; vgl. {%weiter unten%} {#gOqI#} und {#gOrI#} . 
-<div n="2">— b) <lex>m.</lex> N. pr. eines Lexicographen 
-<ls>Sch.</ls> zu <ls>H. 294. 400. 676.</ls> 
-<div n="2">— c) <lex>f.</lex> {#I#} 
-<div n="3"> α) N. einer <is>Rāgiṇī</is>, der Gemahlin des <is>Rāga</is> <is>Megha</is>, 
-<ls>SAṂGĪTÁDAM.</ls> im <ls>ŚKDR.</ls> 
-<div n="3">— β) {%ein kräftiger, lebensvoller Stil%} {#(kAvyarIti): ojaHprasAdamADuryaM guRatritayaBedataH . gOqavEdarBapAYcalarItayaH#} (also eig. adj.) {#parikIrtitAH ..#} 
-<ls>KĀVYAC.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 3) <lex>m.</lex> v.l. für {#gORqa#} 
-<ls>AK. 3, 6, 2, 18.</ls>
+{#gOqa#}¦
+<div n="1"> 1) (von {#guqa#})
+<div n="2"> a) <lex>adj.</lex> {%aus Zucker (Melasse) bereitet u.s.w.%}
+<ls>SUŚR. 1,192,14. 233,18.</ls> {#pItvA gOqaM surAsavam#}
+<ls>MBH. 8,2050.</ls>
+<div n="2">— b) {%Rum aus Melasse%}
+<ls>SUŚR. 1,189,17.</ls> <lex>f.</lex> {#gOqI#}
+<ls>TRIK. 2,10,15.</ls>
+<ls>GṚHYASAṂGR. 2,27.</ls>
+<ls>M. 11,94.</ls> {#gOqyAsava#}
+<ls>MBH. 8,2034.</ls>
+<div n="2">— c) <lex>n.</lex> {%Zuckerwerk%}, pl.
+<ls>R. 1,53,4.</ls>
+<div n="2">— d) <lex>m.</lex> (sc. {#deSa#}) und <lex>n.</lex> (sc. {#rAzwra#}) {%das Zuckerland%}, N. pr. eines Landes; <lex>m.</lex> pl. {%die Bewohner dieses Landes%}
+<ls>LIA. I,140. fg.</ls>
+<ls>BURN. Intr. 632.</ls> {#vaNgadeSaM samAraBya BuvaneSAntagaM Sive . gOqadeSaH samAKyAtaH sarvavidyAviSAradaH .. iti SaktisaMgamatantre saptamaH pawalaH .. sArasvatAH kAnyakubjA gOqamETilikotkalAH . paYcagOqA iti KyAtA vinDyasyottaravAsinaH .. iti skandapurARam ..#}
+<ls>ŚKDR.</ls> {#gOqaM rAzwramanuttamaM nirupamA tatrApi rAQA purI#}
+<ls>PRAB. 22,13.</ls> {#gOqanIvft#}
+<ls>TRIK. 2,1,7.</ls> {#asti gOqavizaye kOSAmbI nAma nagarI#}
+<ls>HIT. 27,22.</ls> {#gOqamaRqala#}
+<ls>RĀJA-TAR. 4,148.</ls> {#gOqarAja#}
+<ls n="RĀJA-TAR.">420. 467.</ls> {#gOqopajIvinaH#}
+<ls n="RĀJA-TAR.">324.</ls> {#gOqEH#}
+<ls n="RĀJA-TAR.">332.</ls> <is>Gauḍa</is> — Brahmanen
+<ls>COLEBR. Misc. Ess. II,179. 187.</ls>
+<div n="1">— 2) (von {#gOqa#} 1,d)
+<div n="2"> a) <lex>m.</lex> Bez. eines <is>Rāga</is>: {#mAlavagOqarAga#}
+<ls>GĪT. S. 2</ls>; vgl. {%weiter unten%} {#gOqI#} und {#gOrI#} .
+<div n="2">— b) <lex>m.</lex> N. pr. eines Lexicographen
+<ls>Sch.</ls> zu <ls>H. 294.</ls> <ls n="H.">400.</ls> <ls n="H.">676.</ls>
+<div n="2">— c) <lex>f.</lex> {#I#}
+<div n="3"> α) N. einer <is>Rāgiṇī</is>, der Gemahlin des <is>Rāga</is> <is>Megha</is>,
+<ls>SAṂGĪTÁDAM.</ls> im <ls>ŚKDR.</ls>
+<div n="3">— β) {%ein kräftiger, lebensvoller Stil%} {#(kAvyarIti): ojaHprasAdamADuryaM guRatritayaBedataH . gOqavEdarBapAYcalarItayaH#} (also eig. adj.) {#parikIrtitAH ..#}
+<ls>KĀVYAC.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 3) <lex>m.</lex> v.l. für {#gORqa#}
+<ls>AK. 3,6,2,18.</ls>
 <LEND>

@@ -1,10 +1,9 @@
 <L>39157<pc>4-0173<k1>nirapatrapa<k2>nirapatrapa
-{#nirapatrapa#}¦ ({#nis + apatrapA#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%schamlos%} 
-<ls>MBH. 1, 945. 4, 441.</ls> 
-<ls>R. 2, 37, 6.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 11, 13. 3, 27, 21. 4, 30, 17. 5, 89, 33.</ls> 
-<ls>SUŚR. 1, 279, 2.</ls> 
-<ls>RĀJA-TAR. 4, 92.</ls> 
-<ls>BHĀG. P. 3, 20, 24. 4, 2, 10. 6, 1, 60.</ls>
+{#nirapatrapa#}¦ ({#nis + apatrapA#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%schamlos%}
+<ls>MBH. 1,945.</ls> <ls n="MBH.">4,441.</ls>
+<ls>R. 2,37,6.</ls>
+<ls>R. GORR. 2,11,13.</ls> <ls n="R. GORR.">3,27,21.</ls> <ls n="R. GORR.">4,30,17.</ls> <ls n="R. GORR.">5,89,33.</ls>
+<ls>SUŚR. 1,279,2.</ls>
+<ls>RĀJA-TAR. 4,92.</ls>
+<ls>BHĀG. P. 3,20,24.</ls> <ls n="BHĀG. P.">4,2,10.</ls> <ls n="BHĀG. P.">6,1,60.</ls>
 <LEND>

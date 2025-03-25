@@ -1,39 +1,39 @@
 <L>9465<pc>300<k1>from<k2>from
-<div n="lb"/>{@FROM:@}¦ <div n="I">I Of place: (a) by abl. {%f. its top:%}
-<div n="lb"/>{#tasyAgraBAgAt,#} Sa.; <div n="xe">{%rose f. the seat:%}</div> <div n="xs">{#pIWAdudattizWat,#}</div>
-<div n="lb"/>Si. i. 12.; (b) sometimes by tat. comp.,
-<div n="lb"/><div n="xe">{%fallen f. the mouth of a hawk:%}</div> <div n="xs">{#SyenamuKapariBrazwaH#}</div> ({#zwA, #}
-<div n="lb"/>{# zwaM#}), K. </div><div n="I">II Of distance: by abl.: <div n="xe">{%the%}
-<div n="lb"/>{%village is a Yojana f. the forest:%}</div> <div n="xs">{#vanAdgrAmo yojanam,#}</div>
-<div n="lb"/>S. k.; <div n="xe">{%not far f. here:%}</div> <div n="xs">{#ito nAtidUre,#}</div> K. </div><div n="I">III Of
-<div n="lb"/>time; (a) by abl. and {#praBfti#} <div n="xe">{%or%}</div> <div n="xs">{#AraBya,#}</div> <div n="xe">{%f. the%}
-<div n="lb"/>{%time of seeing:%}</div> <div n="xs">{#darSanAt praBfti,#}</div> K.; <div n="xe">{%f. today:%}</div> <div n="xs">{#adya-#}
-<div n="lb"/>{#praBfti,#}</div> Ki.; (b) by comp. with {#-avaDi#} <div n="xe">{%or%}</div> <div n="xs">{#A,#}</div>
-<div n="lb"/><div n="xe">{%f. today:%}</div> <div n="xs">{#adyAvaDi;#}</div> <div n="xe">{%f. birth:%}</div> <div n="xs">{#AjanmanaH,#}</div> Sa. v. </div><div n="I">IV
-<div n="lb"/>Of source, origin: (a) by abl., <div n="xe">{%the Ganges%}
-<div n="lb"/>{%rises f. the Himalayas:%}</div> <div n="xs">{#himavato gaNgA praBavati;#}</div> <div n="xe">{%men%}
-<div n="lb"/>{%are sprung f. God:%}</div> <div n="xs">{#trahmaRaH prajAH prajAyante,#}</div> S. k. </div><div n="I">V
-<div n="lb"/>Denoting cause, occasion, etc.: (a) by abl.
-<div n="lb"/><div n="xe">{%not f. exhaustion:%}</div> <div n="xs">{#na KedAt,#}</div> Mu. i.; <div n="xe">{%and f. non-%}
-<div n="lb"/>{%perception of others:%}</div> <div n="xs">{#itarezAYcAnupalabDeH,#}</div> S.; (b) by
-<div n="lb"/>ins. in the case of feminine nouns, <div n="xe">{%f. a%}
-<div n="lb"/>{%desire to see:%}</div> <div n="xs">{#didfkzayA,#}</div> Ki.: <div n="xe">{%f. fragrance:%}</div> <div n="xs">{#suraBitayA,#}</div>
-<div n="lb"/>K. </div><div n="I">VI Of material: v. Of. </div><div n="I">VII Of
-<div n="lb"/>persons: expr. by {#sakASAt#} and gen., {%f. Raghu:%}
-<div n="lb"/>{#roGoH sakASAt,#} R. v. 24. Miscell: {%f. day to day.%}
-<div n="lb"/>{#dine dine,#} Ku. i. 25.: <div n="xe">{%f. country: to country:%}</div> <div n="xs">{#deSAt #}
-<div n="lb"/>{# deSam#}</div> <div n="xe">{%or%}</div> <div n="xs">{#deSAntaram,#}</div> D. vi.; <div n="xe">{%wandered f. house to%}
-<div n="lb"/>{%house:%}</div> <div n="xs">{#gfhAdgfhaM praviSyABramat,#}</div> D.; {%f. the beginning:%}
-<div n="lb"/>{#AmUlAt#} <div n="xe">{%or%}</div> <div n="xs">{#AditaH,#}</div> Mu. ii.; <div n="xe">{%f. a boy:%}</div> <div n="xs">{#bAla eva#}</div> {%or%}
-<div n="lb"/>{#bAlyAt praBftiH,#} Vi.; <div n="xe">{%f. behind:%}</div> <div n="xs">{#pfzWenAgatya#}</div> <div n="xe">{%or%}</div> <div n="xs">{#paScA-#}
-<div n="lb"/>{#detya,#}</div> </div><div n="I">V iii.; <div n="xe">{%f. humanity to corporeal beings%}
-<div n="lb"/>{%ending in God:%}</div> <div n="xs">{#manuzyatvAdAraBya brahmAntezu dehavatsu,#}</div> S.;
-<div n="lb"/><div n="xe">{%f. God to columns:%}</div> <div n="xs">{#AbrahmastamBaparyantam,#}</div> S. p. b.;
-<div n="lb"/>{%speaking of the difference of happiness f. humanity%}
-<div n="lb"/>{%upwards, speaks of it among the lower (beings%}):
-<div n="lb"/>{#manuzyatvAdUrDvagatezu suKasya tAratamyamuktavA'Dogatezu, tadAha,#}
-<div n="lb"/>S. com.; {%told (her) all f. the conquest:%}
-<div n="lb"/>{#vijayAdAraBya sarvamAcacakze,#} K.; {%f. me%} ({%=for me%}):
-<div n="lb"/>{#madvacanAt,#} Sa.; <div n="xe">{%the sixth king f. Nimi:%}</div> <div n="xs">{#nimeH zazWo #}
-<div n="lb"/>{# mahIpatiH,#}</div> Ram. i. 68. 8.</div>
+{@FROM:@}¦ <div n="I">I Of place: (a) by abl. {%f. its top:%}
+{#tasyAgraBAgAt,#} Sa.; <div n="xe">{%rose f. the seat:%}</div> <div n="xs">{#pIWAdudattizWat,#}</div>
+Si. i. 12.; (b) sometimes by tat. comp.,
+<div n="xe">{%fallen f. the mouth of a hawk:%}</div> <div n="xs">{#SyenamuKapariBrazwaH#}</div> ({#zwA, #}
+{# zwaM#}), K. </div><div n="I">II Of distance: by abl.: <div n="xe">{%the%}
+{%village is a Yojana f. the forest:%}</div> <div n="xs">{#vanAdgrAmo yojanam,#}</div>
+S. k.; <div n="xe">{%not far f. here:%}</div> <div n="xs">{#ito nAtidUre,#}</div> K. </div><div n="I">III Of
+time; (a) by abl. and {#praBfti#} <div n="xe">{%or%}</div> <div n="xs">{#AraBya,#}</div> <div n="xe">{%f. the%}
+{%time of seeing:%}</div> <div n="xs">{#darSanAt praBfti,#}</div> K.; <div n="xe">{%f. today:%}</div> <div n="xs">{#adya-#}
+{#praBfti,#}</div> Ki.; (b) by comp. with {#-avaDi#} <div n="xe">{%or%}</div> <div n="xs">{#A,#}</div>
+<div n="xe">{%f. today:%}</div> <div n="xs">{#adyAvaDi;#}</div> <div n="xe">{%f. birth:%}</div> <div n="xs">{#AjanmanaH,#}</div> Sa. v. </div><div n="I">IV
+Of source, origin: (a) by abl., <div n="xe">{%the Ganges%}
+{%rises f. the Himalayas:%}</div> <div n="xs">{#himavato gaNgA praBavati;#}</div> <div n="xe">{%men%}
+{%are sprung f. God:%}</div> <div n="xs">{#trahmaRaH prajAH prajAyante,#}</div> S. k. </div><div n="I">V
+Denoting cause, occasion, etc.: (a) by abl.
+<div n="xe">{%not f. exhaustion:%}</div> <div n="xs">{#na KedAt,#}</div> Mu. i.; <div n="xe">{%and f. non-%}
+{%perception of others:%}</div> <div n="xs">{#itarezAYcAnupalabDeH,#}</div> S.; (b) by
+ins. in the case of feminine nouns, <div n="xe">{%f. a%}
+{%desire to see:%}</div> <div n="xs">{#didfkzayA,#}</div> Ki.: <div n="xe">{%f. fragrance:%}</div> <div n="xs">{#suraBitayA,#}</div>
+K. </div><div n="I">VI Of material: v. Of. </div><div n="I">VII Of
+persons: expr. by {#sakASAt#} and gen., {%f. Raghu:%}
+{#roGoH sakASAt,#} R. v. 24. Miscell: {%f. day to day.%}
+{#dine dine,#} Ku. i. 25.: <div n="xe">{%f. country: to country:%}</div> <div n="xs">{#deSAt #}
+{# deSam#}</div> <div n="xe">{%or%}</div> <div n="xs">{#deSAntaram,#}</div> D. vi.; <div n="xe">{%wandered f. house to%}
+{%house:%}</div> <div n="xs">{#gfhAdgfhaM praviSyABramat,#}</div> D.; {%f. the beginning:%}
+{#AmUlAt#} <div n="xe">{%or%}</div> <div n="xs">{#AditaH,#}</div> Mu. ii.; <div n="xe">{%f. a boy:%}</div> <div n="xs">{#bAla eva#}</div> {%or%}
+{#bAlyAt praBftiH,#} Vi.; <div n="xe">{%f. behind:%}</div> <div n="xs">{#pfzWenAgatya#}</div> <div n="xe">{%or%}</div> <div n="xs">{#paScA-#}
+{#detya,#}</div> </div><div n="I">V iii.; <div n="xe">{%f. humanity to corporeal beings%}
+{%ending in God:%}</div> <div n="xs">{#manuzyatvAdAraBya brahmAntezu dehavatsu,#}</div> S.;
+<div n="xe">{%f. God to columns:%}</div> <div n="xs">{#AbrahmastamBaparyantam,#}</div> S. p. b.;
+{%speaking of the difference of happiness f. humanity%}
+{%upwards, speaks of it among the lower (beings%}):
+{#manuzyatvAdUrDvagatezu suKasya tAratamyamuktavA'Dogatezu, tadAha,#}
+S. com.; {%told (her) all f. the conquest:%}
+{#vijayAdAraBya sarvamAcacakze,#} K.; {%f. me%} ({%=for me%}):
+{#madvacanAt,#} Sa.; <div n="xe">{%the sixth king f. Nimi:%}</div> <div n="xs">{#nimeH zazWo #}
+{# mahIpatiH,#}</div> Ram. i. 68. 8.</div>
 <LEND>

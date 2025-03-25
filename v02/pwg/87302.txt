@@ -1,584 +1,552 @@
 <L>87302<pc>6-0619<k1>vac<k2>vac
 {#vac#}¦, {#vivakti#} ved. (
-<ls>Schol.</ls> zu <ls>P. 2, 4, 76. 7, 4, 78</ls>), {#vivakmi#} 
-<ls>ṚV. 1, 167, 7.</ls> <ls n="ṚV.">3, 57, 4.</ls> <ls n="ṚV.">7, 67, 1.</ls> {#vivaktana#}; später {#vakti#} ({#pariBAzaRe#}) 
-<ls>DHĀTUP. 24, 55.</ls> 
-<ls>VOP. 8, 91.</ls> zu belegen nur der sg. des praes.: {#vakti, vakzi, vacmi#}; 
-<ls>SIDDH. K.131,a,11. fg.</ls> werden noch {#vaktas, vagDi, vacyAt#} und {#ucyAt#} aufgeführt. perf. {#uvAca#} ({#pra vavAca#} 
-<ls>ṚV. 1, 67, 8</ls>), {#uvakTa, Ucima, Ucus#} 
-<ls>P. 6, 1, 15. 17.</ls> 
-<ls>VOP. 8, 124. 9, 25.</ls> {#Uce#} 
-<ls>VOP. 9, 56.</ls> {#Ucize#} ({#pra vavakze/#} 
-<ls>ṚV. 7, 100, 6</ls>), {#UcivaMs#}
-
-<F>*; dat. {#Ucu/ze#} glauben wir zu {#uc#} ziehen zu müssen nicht bloss in der dort bereits angeführten, sondern auch in folgender Stelle: {#tadU\cuze\ mAnu^ze\mA yu\gAni^ kI\rtenya^M ma\GavA\ nAma\ biBra^t#} {%welchen der dazu Gewöhnte%} d. h. {%Geübte preisen soll durch die Generationen hin%} 
-<ls>ṚV. 1, 103, 4.</ls>;</F> aor. {#avocat#} 
-<ls>P. 3, 1, 52. 7, 4, 20.</ls> 
-<ls>VOP. 8, 91. 125. 9, 56.</ls> {#vocasi#} 
-<ls>BHĀG. P. 9, 14, 12.</ls> {#vocanti#} 
-<ls>3, 14, 21.</ls> {#pravocant#} partic. 
-<ls>4, 6, 37.</ls> {#vocAma, voces, vocema#} u.s.w., {#voca, vocatu, vocata, avocata, avocaTAs, voce, vocanta, voceya, vocemahi; vakzyati#} <is>Kār</is>. 
-<ls>?2 aus SIDDH. K. zu P. 7, 2, 10.</ls> {#vakzyate, avakzyat#} 
-<ls>NIR. 5, 7.</ls> {#vaktA#} (s. {#vaktar)#}; infin. {#vaktum, va/ktave#} 
-<ls>ṚV. 7, 31, 5.</ls> {#va/ktos#} 
-<ls>ŚAT. BR. 1, 5, 2, 10.</ls> {#pravA/ce; uktvA/, ucya#} 
-<ls>MBH. 8, 4574.</ls> pass. {#ucya/te, ucyAntE#} 
-<ls>P. 3, 4, 96,</ls> 
-<ls>Sch.</ls> {#avAci, ukta/#} . 
-<div n="1"> 1) {%sagen, sprechen; nennen; hersagen, ansagen, verkünden%}: {#Asya^ jA\nanto\ nAma^ cidvivaktana#} 
-<ls>ṚV. 1, 156, 3.</ls> <ls n="ṚV. 1,">166, 1.</ls> {#sa\tyamU^cu\rnara^ e\vA hi ca\kruH#} 
-<ls n="ṚV.">4, 33, 6.</ls> {#yA\dfge\va dadf^Se tA\dfgu^cyate#} 
-<ls n="ṚV.">5, 44, 6.</ls> {#pi\tara^M ru\draM vo^canta#} 
-<ls n="ṚV. 5,">52, 16.</ls> <ls n="ṚV.">6, 55, 4.</ls> {#va\kzyantI\vedA ga^nIganti\ karRa^m#} 
-<ls n="ṚV. 6,">75, 3.</ls> <ls n="ṚV.">7, 82, 2.</ls> <ls n="ṚV. 7,">87, 4.</ls> {#mA tvA^ vocannarA\Dasa\M janA^saH#} 
-<ls>AV. 5, 11, 7. 7, 83, 2.</ls> {#grAvA\ yatra^ maDu\zudu\cyate^ bf\hat#} {%wo lauter Ruf erschallt%} 
-<ls>ṚV. 10, 64, 15.</ls> <ls n="ṚV. 10,">11, 6.</ls> {#mantra^m#} 
-<ls n="ṚV.">1, 40, 6.</ls> {#de\vaju^zwocyate BA\mine\ gIH#} 
-<ls n="ṚV. 1,">77, 1.</ls> {#nama^H#} 
-<ls n="ṚV. 1,">51, 14.</ls> {#f\tam#} 
-<ls n="ṚV.">4, 5, 11.</ls> {#sto\tram#} 
-<ls n="ṚV.">6, 34, 5.</ls> <ls n="ṚV.">7, 68, 4.</ls> <ls n="ṚV.">9, 97, 7.</ls> {#yadu\vakTAnf^taM ji\hvayA^#} 
-<ls>AV. 1, 10, 3.</ls> {#taM hEtam (udgITam) - udaraSARqilyAyoktvA#} 
-<ls>CHĀND. UP. 1, 9, 3.</ls> mit doppeltem acc.: {#a\gniM ma\hAma^vocAma suvf\ktim#} 
-<ls>ṚV. 10, 80, 7.</ls> {#iti mA BagavAnavocat#} {%hat mir gesagt%} 
-<ls>CHĀND. UP. 1, 11, 4.</ls> {#brUyAditi voceriti vA#} 
-<ls>ŚAT. BR. 4, 5, 8, 10. 11, 8, 4, 2.</ls> {#du\rge vE hantA^vocaTAH#} {%du hast dich genannt%} oder {%von dir gesagt%} 
-<ls>TS. 6, 2, 4, 2. 3.</ls> {#aTa nu kimanuSizwo 'vocaTAH#} {%wie konntest du dich für unterrichtet ausgeben?%} 
-<ls>CHĀND. UP. 5, 3, 4.</ls> — {#vErAgyAdiva vakzi#} 
-<ls>Spr. 3890.</ls> {#vacmi#} 
-<ls>3739.</ls> {#vakti sAmarzam#} 
-<ls>1873.</ls> <ls>KATHĀS. 4, 77.</ls> <ls>Z. d. d. m. G. 14, 570, 13.</ls> {#vAguvAcASarIriRI#} 
-<ls>R. 1, 1, 81.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 9, 15.</ls> {#parasparamaTocatuH#} 
-<ls>MBH. 1, 7725.</ls> {#ityUce#} 
-<ls>PRAB. 56, 7.</ls> 
-<ls>BHĀG. P. 9, 14, 11.</ls> {#ityUcire#} 
-<ls>RĀJA-TAR. 1, 166.</ls> 
-<ls>LA. (III) 90, 20.</ls> {#ityUcivAn#} 
-<ls>KATHĀS. 18, 55. 27, 30.</ls> {#avocam#} 
-<ls>R. 4, 9, 13.</ls> 
-<ls>PRAB. 105, 19.</ls> {#mEvaM vocaH#} nach {#iti cet#} {%so sollst du nicht reden%} so v. a. {%eine solche Behauptung wäre unrichtig%} 
-<ls>SARVADARŚANAS. 7, 15. 105, 9. 127, 7. 164, 3.</ls> {#ityavocata#} 
-<ls>KATHĀS. 32, 26.</ls> {#vakzyAmi#} 
-<ls>R. 1, 1, 9.</ls> 
-<ls>ŚĀK. 22, 21.</ls> {#vakzye#} 
-<ls>MBH. 13, 1119.</ls> 
-<ls>R. 1, 64, 18.</ls> {#kimaTa cocyate#} pass. impers. 
-<ls>KATHĀS. 18, 308.</ls> {#aMvoci#} desgl. 
-<ls>DAŚAK. 10, 2.</ls> {#vaktum#} 
-<ls>AK. 3, 1, 38.</ls> {#vaktukAma#} 
-<ls>SUŚR. 1, 115, 20.</ls> {#vaktumanas#} 
-<ls>PAÑCAT. 77, 2.</ls> {#uktavant#} 
-<ls>MBH. 3, 2726.</ls> 
-<ls>KATHĀS. 18, 272. 349. 40, 6.</ls> {#punaruvAca#} {%antwortete%} 
-<ls>HIT. 8, 6.</ls> — {#anukUlaM taTA vacmi#} 
-<ls>MBH. 3, 14025.</ls> {#satyaM janA vacmi#} 
-<ls>Spr. 3127.</ls> 
-<ls>KATHĀS. 18, 373.</ls> {#vakti na sve cCayA kiMcit#} 
-<ls>Spr. 410.</ls> {#mAsmatsakASe paruzARyavocaH#} 
-<ls>MBH. 3, 15689.</ls> {#priyARi vakti#} 
-<ls>VARĀH. BṚH. S. 78, 5.</ls> {#uktvAnftAni#} 
-<ls>M. 4, 145.</ls> {#deSaDarmAn#} u.s.w.
+<ls>Schol.</ls> zu <ls>P. 2,4,76.</ls> <ls n="P.">7,4,78</ls>), {#vivakmi#}
+<ls>ṚV. 1,167,7.</ls> <ls n="ṚV.">3,57,4.</ls> <ls n="ṚV.">7,67,1.</ls> {#vivaktana#}; später {#vakti#} ({#pariBAzaRe#})
+<ls>DHĀTUP. 24,55.</ls>
+<ls>VOP. 8,91.</ls> zu belegen nur der sg. des praes.: {#vakti, vakzi, vacmi#};
+<ls>SIDDH. K. 131,a,11. fg.</ls> werden noch {#vaktas, vagDi, vacyAt#} und {#ucyAt#} aufgeführt. perf. {#uvAca#} ({#pra vavAca#}
+<ls>ṚV. 1,67,8</ls>), {#uvakTa, Ucima, Ucus#}
+<ls>P. 6,1,15.</ls> <ls n="P. 6,1,">17.</ls>
+<ls>VOP. 8,124.</ls> <ls n="VOP.">9,25.</ls> {#Uce#}
+<ls>VOP. 9,56.</ls> {#Ucize#} ({#pra vavakze/#}
+<ls>ṚV. 7,100,6</ls>), {#UcivaMs#}
+<F>*; dat. {#Ucu/ze#} glauben wir zu {#uc#} ziehen zu müssen nicht bloss in der dort bereits angeführten, sondern auch in folgender Stelle: {#tadU\cuze\ mAnu^ze\mA yu\gAni^ kI\rtenya^M ma\GavA\ nAma\ biBra^t#} {%welchen der dazu Gewöhnte%} d. h. {%Geübte preisen soll durch die Generationen hin%}
+<ls>ṚV. 1,103,4.</ls>;</F> aor. {#avocat#}
+<ls>P. 3,1,52.</ls> <ls n="P.">7,4,20.</ls>
+<ls>VOP. 8,91.</ls> <ls n="VOP. 8,">125.</ls> <ls n="VOP.">9,56.</ls> {#vocasi#}
+<ls>BHĀG. P. 9,14,12.</ls> {#vocanti#}
+<ls n="BHĀG. P.">3,14,21.</ls> {#pravocant#} partic.
+<ls n="BHĀG. P.">4,6,37.</ls> {#vocAma, voces, vocema#} u.s.w., {#voca, vocatu, vocata, avocata, avocaTAs, voce, vocanta, voceya, vocemahi; vakzyati#} <is>Kār.</is>
+2 aus <ls>SIDDH. K.</ls> zu <ls>P. 7,2,10.</ls> {#vakzyate, avakzyat#}
+<ls>NIR. 5,7.</ls> {#vaktA#} (s. {#vaktar)#}; infin. {#vaktum, va/ktave#}
+<ls>ṚV. 7,31,5.</ls> {#va/ktos#}
+<ls>ŚAT. BR. 1,5,2,10.</ls> {#pravA/ce; uktvA/, ucya#}
+<ls>MBH. 8,4574.</ls> pass. {#ucya/te, ucyAntE#}
+<ls>P. 3,4,96</ls>, <ls>Sch.</ls>
+{#avAci, ukta/#} .
+<div n="1"> 1) {%sagen, sprechen; nennen; hersagen, ansagen, verkünden%}: {#Asya^ jA\nanto\ nAma^ cidvivaktana#}
+<ls>ṚV. 1,156,3.</ls> <ls n="ṚV. 1,">166,1.</ls> {#sa\tyamU^cu\rnara^ e\vA hi ca\kruH#}
+<ls n="ṚV.">4,33,6.</ls> {#yA\dfge\va dadf^Se tA\dfgu^cyate#}
+<ls n="ṚV.">5,44,6.</ls> {#pi\tara^M ru\draM vo^canta#}
+<ls n="ṚV. 5,">52,16.</ls> <ls n="ṚV.">6,55,4.</ls> {#va\kzyantI\vedA ga^nIganti\ karRa^m#}
+<ls n="ṚV. 6,">75,3.</ls> <ls n="ṚV.">7,82,2.</ls> <ls n="ṚV. 7,">87,4.</ls> {#mA tvA^ vocannarA\Dasa\M janA^saH#}
+<ls>AV. 5,11,7.</ls> <ls n="AV.">7,83,2.</ls> {#grAvA\ yatra^ maDu\zudu\cyate^ bf\hat#} {%wo lauter Ruf erschallt%}
+<ls>ṚV. 10,64,15.</ls> <ls n="ṚV. 10,">11,6.</ls> {#mantra^m#}
+<ls n="ṚV.">1,40,6.</ls> {#de\vaju^zwocyate BA\mine\ gIH#}
+<ls n="ṚV. 1,">77,1.</ls> {#nama^H#}
+<ls n="ṚV. 1,">51,14.</ls> {#f\tam#}
+<ls n="ṚV.">4,5,11.</ls> {#sto\tram#}
+<ls n="ṚV.">6,34,5.</ls> <ls n="ṚV.">7,68,4.</ls> <ls n="ṚV.">9,97,7.</ls> {#yadu\vakTAnf^taM ji\hvayA^#}
+<ls>AV. 1,10,3.</ls> {#taM hEtam (udgITam) — udaraSARqilyAyoktvA#}
+<ls>CHĀND. UP. 1,9,3.</ls> mit doppeltem acc.: {#a\gniM ma\hAma^vocAma suvf\ktim#}
+<ls>ṚV. 10,80,7.</ls> {#iti mA BagavAnavocat#} {%hat mir gesagt%}
+<ls>CHĀND. UP. 1,11,4.</ls> {#brUyAditi voceriti vA#}
+<ls>ŚAT. BR. 4,5,8,10.</ls> <ls n="ŚAT. BR.">11,8,4,2.</ls> {#du\rge vE hantA^vocaTAH#} {%du hast dich genannt%} oder {%von dir gesagt%}
+<ls>TS. 6,2,4,2. 3.</ls> {#aTa nu kimanuSizwo 'vocaTAH#} {%wie konntest du dich für unterrichtet ausgeben?%}
+<ls>CHĀND. UP. 5,3,4.</ls> — {#vErAgyAdiva vakzi#}
+<ls>Spr. 3890.</ls> {#vacmi#}
+<ls n="Spr.">3739.</ls> {#vakti sAmarzam#}
+<ls n="Spr.">1873.</ls> <ls>KATHĀS. 4,77.</ls> <ls>Z. d. d. m. G. 14,570,13.</ls> {#vAguvAcASarIriRI#}
+<ls>R. 1,1,81.</ls>
+<ls>VET. in LA. (III) 9,15.</ls> {#parasparamaTocatuH#}
+<ls>MBH. 1,7725.</ls> {#ityUce#}
+<ls>PRAB. 56,7.</ls>
+<ls>BHĀG. P. 9,14,11.</ls> {#ityUcire#}
+<ls>RĀJA-TAR. 1,166.</ls>
+<ls>LA. (III) 90,20.</ls> {#ityUcivAn#}
+<ls>KATHĀS. 18,55.</ls> <ls n="KATHĀS.">27,30.</ls> {#avocam#}
+<ls>R. 4,9,13.</ls>
+<ls>PRAB. 105,19.</ls> {#mEvaM vocaH#} nach {#iti cet#} {%so sollst du nicht reden%} so v. a. {%eine solche Behauptung wäre unrichtig%}
+<ls>SARVADARŚANAS. 7,15. 105,9. 127,7. 164,3.</ls> {#ityavocata#}
+<ls>KATHĀS. 32,26.</ls> {#vakzyAmi#}
+<ls>R. 1,1,9.</ls>
+<ls>ŚĀK. 22,21.</ls> {#vakzye#}
+<ls>MBH. 13,1119.</ls>
+<ls>R. 1,64,18.</ls> {#kimaTa cocyate#} pass. impers.
+<ls>KATHĀS. 18,308.</ls> {#aMvoci#} desgl.
+<ls>DAŚAK. 10,2.</ls> {#vaktum#}
+<ls>AK. 3,1,38.</ls> {#vaktukAma#}
+<ls>SUŚR. 1,115,20.</ls> {#vaktumanas#}
+<ls>PAÑCAT. 77,2.</ls> {#uktavant#}
+<ls>MBH. 3,2726.</ls>
+<ls>KATHĀS. 18,272.</ls> <ls n="KATHĀS. 18,">349.</ls> <ls n="KATHĀS.">40,6.</ls> {#punaruvAca#} {%antwortete%}
+<ls>HIT. 8,6.</ls> — {#anukUlaM taTA vacmi#}
+<ls>MBH. 3,14025.</ls> {#satyaM janA vacmi#}
+<ls>Spr. 3127.</ls>
+<ls>KATHĀS. 18,373.</ls> {#vakti na sve cCayA kiMcit#}
+<ls>Spr. 410.</ls> {#mAsmatsakASe paruzARyavocaH#}
+<ls>MBH. 3,15689.</ls> {#priyARi vakti#}
+<ls>VARĀH. BṚH. S. 78,5.</ls> {#uktvAnftAni#}
+<ls>M. 4,145.</ls> {#deSaDarmAn#} u.s.w.
 [Page6-0620]
-{#SAstre 'sminnuktavAnmanuH#} 
-<ls>1, 118. fg. 9, 1.</ls> <ls>MBH. 2, 1769.</ls> <ls>R. 2, 30, 4. 90, 16.</ls> <ls>ŚĀK. 59.</ls> <ls>RĀJA-TAR. 5, 62.</ls> {#bahUnAM mataM vakzye#} 
-<ls>VARĀH. BṚH. S. 9, 7. 11, 28. 21, 5.</ls> 
-<ls>MBH. 14, 1559.</ls> 
-<ls>R. 1, 58, 19.</ls> 
-<ls>RAGH. 1, 9.</ls> 
-<ls>BHĀG. P. 1, 7, 12. 3, 28, 1.</ls> 
-<ls>PAÑCAT. 37, 25. 77, 14.</ls> {#uvAca vacaH#} 
-<ls>RAGH. 3, 25.</ls> {#ka evaM vakzyate vAkyam#} 
-<ls>R. 5, 64. 19.</ls> {#anItirfzyaSfNgasya vistareRa tvayocyatAm#} 
-<ls>1, 8, 29.</ls> <ls>HIT. 43, 14.</ls> {#yo vA aNgirasAM sattre dvitIyamaharUcivAn#} {%berichten über%} 
-<ls>BHĀG. P. 9, 3, 1.</ls> {#kaTAM vaktuM pracakrame#} 
-<ls>KATHĀS. 21, 53.</ls> {#SvaH puzyayogaM niyataM vakzyante#} {%verkünden%} 
-<ls>R. GORR. 2, 3, 21.</ls> {#EndryAM diSi SAntAyAM viruvannfzasaMSritAgamaM vakti#} (ein Vogel) 
-<ls>VARĀH. BṚH. S. 87, 1.</ls> {#na tu vaktuM samarTo 'haM svayamevAtmano guRAn#} 
-<ls>R. 4, 7, 5.</ls> {#tAsAM rUpaM BArata nota Sakyam - vaktum#} {%beschreiben, in Worte fassen%} 
-<ls>MBH. 5, 7207.</ls> {#vacmyatra tUlikam#} {%erzählen von%} 
-<ls>KATHĀS. 61, 28.</ls> {#vakti na ca praSnamekamapi pfzwaH#} {%beantworten%} 
-<ls>VARĀH. BṚH. S. 2, 1.</ls> {#saMyogAdirdvirucyate#} {%wird zwei Mal ausgesprochen%} d. i. {%verdoppelt%} 
-<ls>VS. PRĀT. 4, 97.</ls> {#punarucyate#} {%wird wiederholt%} 
-<ls>KULL.</ls> zu <ls>M. 4, 32.</ls> pass. {%genannt werden, heissen, gelten für%}: {#etaddvAdaSasAhasraM devAnAM yugamucyate#} 
-<ls>M. 1, 71. 77. 79 86.</ls> 
-<ls>BHAG. 2, 25.</ls> 
-<ls>P. 4, 2, 10,</ls> 
-<ls>Sch.</ls> {#vAntASItyucyate buDEH#} 
-<ls>M. 3, 109.</ls> 
-<ls>MBH. 3, 16670.</ls> 
-<ls>ŚĀK. 67, 23.</ls> 
-<ls>P. 6, 2, 66,</ls> 
-<ls>Sch.</ls> statt des nom. auch der loc.: {#kzetre vArawamucyate#} 
-<ls>TRIK. 2, 9, 2.</ls> {%gelten%}: {#ezAmanyatamABAve divyAnyatamamucyate#} 
-<ls>YĀJÑ. 2, 22.</ls> — {%erzählen von%}, mit abl. st. acc.: {#duhituH SElarAjasya jyezWAyA vaktumarhasi#} 
-<ls>R. 1, 37, 2.</ls> — {#hUMkAraM brAhmaRasyoktvA tvaMkAraM ca garIyasaH#} {%sagen zu%} 
-<ls>M. 11, 204.</ls> {#Darmasya paramaM guhyaM mamedaM sarvamuktavAn#} {%hat mir verkündet%} 
-<ls>12, 117. 1, 2.</ls> {#yAni yAni ca karmARi tasya vakzyAmahe vayam#} {%angeben%} 
-<ls>MBH. 4, 18.</ls> 
-<ls>RĀJA-TAR. 4, 344.</ls> {#saMkzepeREva te vakzye yanmAM pfcCasi#} 
-<ls>HARIV. 876.</ls> {#sA snuzAyE tadavocata#} 
-<ls>KATHĀS. 19, 34.</ls> — {#sa tAnuvAca#} {%der sprach zu ihnen%} 
-<ls>M. 5, 3.</ls> 
-<ls>MBH. 2, 505. 3, 2491. 5, 5956.</ls> 
-<ls>HARIV. 8833.</ls> 
-<ls>R. 1, 4, 14. 2, 40, 11. 45.</ls> 
-<ls>RAGH. 2, 59. 3, 43.</ls> 
-<ls>ŚĀK. 13, 22. 30, 13.</ls> {#vaktuM DIrastanitavacanErmAninIM prakrameTAH#} 
-<ls>MEGH. 96.</ls> 
-<ls>Spr. 632.</ls> 
-<ls>VARĀH. BṚH. S. 43,1.</ls> 
-<ls>KATHĀS. 18,206. 23,29. 26,181. 43,98. 46,203.</ls> <ls>Verz. d. Oxf. H. 255,a,24.</ls> <ls>PAÑCAT.5,1.</ls> {#madvacanAducyatAM sAraTiH . sabARAsanaM raTamupasTApayeti#} 
-<ls>ŚĀK. 28, 18. 59, 15.</ls> 
-<ls>VIKR. 81, 5.</ls> acc. mit {#prati#} statt des einfachen acc.: {#kayApi saMnihitapra cCannakAmukaM pratyucyate#} 
-<ls>SĀH. D. 20, 15.</ls> {#taM pratyuktavatI#} 
-<ls>PAÑCAT. 186, 1.</ls> — {#idamUcurmahAtmAnam#} {%sprachen dieses zu%} — 
-<ls>M. 5, 1.</ls> 
-<ls>BHAG. 2, 1.</ls> 
-<ls>MBH. 1, 3901. 5964. 3, 2142. 2243. 2827. 5, 6082. 7394. 7, 6398.</ls> 
-<ls>R. 1, 1, 80. 60, 23.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 57, 19.</ls> 
-<ls>RAGH. 11, 91.</ls> 
-<ls>PAÑCAT. ed. orn. 2, 5.</ls> {#tenocyamAnaH - hetumadvacaH#} 
-<ls>R. 3, 53, 20.</ls> — {#ukta#} 
-<div n="2"> a) {%gesagt, gesprochen, besprochen, erwähnt%} 
-<ls>AK. 3, 2, 57.</ls> {#yaToktaM purastAt#} 
-<ls>ĀŚV. GṚHY. 1, 23, 1.</ls> {#taduktam#} 
-<ls>KĀTY. ŚR. 4, 3, 14.</ls> {#uktaM ca yataH#} 
-<ls>PAÑCAT. 32, 12. 68, 1.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 2, 11.</ls> <ls>KATHĀS. 4, 65.</ls> {#anupraharetyukte#} 
-<ls>KĀTY. ŚR. 5, 9, 29.</ls> {#SaMyorukte#} 
-<ls>ŚĀṄKH. ŚR. 5, 20, 7.</ls> {#evamukte nEzaDena#} 
-<ls>MBH. 3, 2137.</ls> 
-<ls>BHĀG. P. 6, 1, 37.</ls> {#anuktenApi#} {%auch wenn es nicht gesagt worden wäre%} 
-<ls>R. 3, 14, 21.</ls> {#arDoktena#} 
-<ls>VIKR. 29, 19.</ls> {#AmreqitaM dvistriruktam#} 
-<ls>AK. 1, 1, 5, 12.</ls> {#anftaM noktapUrvaM me#} 
-<ls>R. 1, 58, 19. 4, 6, 22.</ls> {#etaduktaM dvijAnAM BakzyABakzyamaSezataH#} 
-<ls>M. 5, 26.</ls> {#vedoktamAyuH#} 
-<ls>1, 84.</ls> <ls>KĀTY. ŚR. 18, 6, 7.</ls> {#BasmanAdBirmfdA cEva SudDiruktA manIziBiH#} {%angegeben, gelehrt%} 
-<ls>M. 5, 111.</ls> {#uktaviprezu#} {%erwähnt, genannt%} 
-<ls>?3, 111. AK. 1, 2, 3, 43. VARĀH. BṚH. S. 48, 58. P. 1, 1, 32</ls>, <ls>Sch.</ls> {#tasmAnmeDyatamaM tvasya muKamuktaM svayaMBuvA#} {%erklärt für%} 
-<ls>M. 1, 92. 2, 230.</ls> {#ukto Bavati yaH pUrvaM guRavAniti saMsadi#} 
-<ls>Spr. 1854, v. l.</ls> {#SvA sArameya uktaH#} {%genannt%} 
-<ls>VARĀH. BṚH. S. 88, 9.</ls> {#ukto 'laMkaraRI#} {%besprochen%} 
-<ls>KATHĀS. 61, 28.</ls> {#raktotpalena rAjA mantrI nIlotpalenoktaH#} {%gemeint%}
+{#SAstre 'sminnuktavAnmanuH#}
+<ls n="M.">1,118. fg.</ls> <ls n="M.">9,1.</ls> <ls>MBH. 2,1769.</ls> <ls>R. 2,30,4.</ls> <ls n="R. 2,">90,16.</ls> <ls>ŚĀK. 59.</ls> <ls>RĀJA-TAR. 5,62.</ls> {#bahUnAM mataM vakzye#}
+<ls>VARĀH. BṚH. S. 9,7. 11,28. 21,5.</ls>
+<ls>MBH. 14,1559.</ls>
+<ls>R. 1,58,19.</ls>
+<ls>RAGH. 1,9.</ls>
+<ls>BHĀG. P. 1,7,12.</ls> <ls n="BHĀG. P.">3,28,1.</ls>
+<ls>PAÑCAT. 37,25.</ls> <ls n="PAÑCAT.">77,14.</ls> {#uvAca vacaH#}
+<ls>RAGH. 3,25.</ls> {#ka evaM vakzyate vAkyam#}
+<ls>R. 5,64,19.</ls> {#anItirfzyaSfNgasya vistareRa tvayocyatAm#}
+<ls n="R.">1,8,29.</ls> <ls>HIT. 43,14.</ls> {#yo vA aNgirasAM sattre dvitIyamaharUcivAn#} {%berichten über%}
+<ls>BHĀG. P. 9,3,1.</ls> {#kaTAM vaktuM pracakrame#}
+<ls>KATHĀS. 21,53.</ls> {#SvaH puzyayogaM niyataM vakzyante#} {%verkünden%}
+<ls>R. GORR. 2,3,21.</ls> {#EndryAM diSi SAntAyAM viruvannfzasaMSritAgamaM vakti#} (ein Vogel)
+<ls>VARĀH. BṚH. S. 87,1.</ls> {#na tu vaktuM samarTo 'haM svayamevAtmano guRAn#}
+<ls>R. 4,7,5.</ls> {#tAsAM rUpaM BArata nota Sakyam — vaktum#} {%beschreiben, in Worte fassen%}
+<ls>MBH. 5,7207.</ls> {#vacmyatra tUlikam#} {%erzählen von%}
+<ls>KATHĀS. 61,28.</ls> {#vakti na ca praSnamekamapi pfzwaH#} {%beantworten%}
+<ls>VARĀH. BṚH. S. 2,1.</ls> {#saMyogAdirdvirucyate#} {%wird zwei Mal ausgesprochen%} <ab>d. i.</ab> {%verdoppelt%}
+<ls>VS. PRĀT. 4,97.</ls> {#punarucyate#} {%wird wiederholt%}
+<ls>KULL.</ls> zu <ls>M. 4,32.</ls> pass. {%genannt werden, heissen, gelten für%}: {#etaddvAdaSasAhasraM devAnAM yugamucyate#}
+<ls>M. 1,71.</ls> <ls n="M. 1,">77.</ls> <ls n="M. 1,">79.</ls> <ls n="M. 1,">86.</ls>
+<ls>BHAG. 2,25.</ls>
+<ls>P. 4,2,10</ls>, <ls>Sch.</ls>
+{#vAntASItyucyate buDEH#}
+<ls>M. 3,109.</ls>
+<ls>MBH. 3,16670.</ls>
+<ls>ŚĀK. 67,23.</ls>
+<ls>P. 6,2,66</ls>, <ls>Sch.</ls>
+statt des nom. auch der loc.: {#kzetre vArawamucyate#}
+<ls>TRIK. 2,9,2.</ls> {%gelten%}: {#ezAmanyatamABAve divyAnyatamamucyate#}
+<ls>YĀJÑ. 2,22.</ls> — {%erzählen von%}, mit abl. st. acc.: {#duhituH SElarAjasya jyezWAyA vaktumarhasi#}
+<ls>R. 1,37,2.</ls> — {#hUMkAraM brAhmaRasyoktvA tvaMkAraM ca garIyasaH#} {%sagen zu%}
+<ls>M. 11,204.</ls> {#Darmasya paramaM guhyaM mamedaM sarvamuktavAn#} {%hat mir verkündet%}
+<ls n="M.">12,117.</ls> <ls n="M.">1,2.</ls> {#yAni yAni ca karmARi tasya vakzyAmahe vayam#} {%angeben%}
+<ls>MBH. 4,18.</ls>
+<ls>RĀJA-TAR. 4,344.</ls> {#saMkzepeREva te vakzye yanmAM pfcCasi#}
+<ls>HARIV. 876.</ls> {#sA snuzAyE tadavocata#}
+<ls>KATHĀS. 19,34.</ls> — {#sa tAnuvAca#} {%der sprach zu ihnen%}
+<ls>M. 5,3.</ls>
+<ls>MBH. 2,505.</ls> <ls n="MBH.">3,2491.</ls> <ls n="MBH.">5,5956.</ls>
+<ls>HARIV. 8833.</ls>
+<ls>R. 1,4,14.</ls> <ls n="R.">2,40,11.</ls> <ls n="R. 2,40,">45.</ls>
+<ls>RAGH. 2,59.</ls> <ls n="RAGH.">3,43.</ls>
+<ls>ŚĀK. 13,22.</ls> <ls n="ŚĀK.">30,13.</ls> {#vaktuM DIrastanitavacanErmAninIM prakrameTAH#}
+<ls>MEGH. 96.</ls>
+<ls>Spr. 632.</ls>
+<ls>VARĀH. BṚH. S. 43,1.</ls>
+<ls>KATHĀS. 18,206.</ls> <ls n="KATHĀS.">23,29.</ls> <ls n="KATHĀS.">26,181.</ls> <ls n="KATHĀS.">43,98.</ls> <ls n="KATHĀS.">46,203.</ls> <ls>Verz. d. Oxf. H. 255,a,24.</ls> <ls>PAÑCAT. 5,1.</ls> {#madvacanAducyatAM sAraTiH . sabARAsanaM raTamupasTApayeti#}
+<ls>ŚĀK. 28,18.</ls> <ls n="ŚĀK.">59,15.</ls>
+<ls>VIKR. 81,5.</ls> acc. mit {#prati#} statt des einfachen acc.: {#kayApi saMnihitapra cCannakAmukaM pratyucyate#}
+<ls>SĀH. D. 20,15.</ls> {#taM pratyuktavatI#}
+<ls>PAÑCAT. 186,1.</ls> — {#idamUcurmahAtmAnam#} {%sprachen dieses zu%} —
+<ls>M. 5,1.</ls>
+<ls>BHAG. 2,1.</ls>
+<ls>MBH. 1,3901.</ls> <ls n="MBH. 1,">5964.</ls> <ls n="MBH.">3,2142.</ls> <ls n="MBH. 3,">2243.</ls> <ls n="MBH. 3,">2827.</ls> <ls n="MBH.">5,6082.</ls> <ls n="MBH. 5,">7394.</ls> <ls n="MBH.">7,6398.</ls>
+<ls>R. 1,1,80.</ls> <ls n="R. 1,">60,23.</ls>
+<ls>R. GORR. 2,57,19.</ls>
+<ls>RAGH. 11,91.</ls>
+<ls>PAÑCAT. ed. orn. 2,5.</ls> {#tenocyamAnaH — hetumadvacaH#}
+<ls>R. 3,53,20.</ls> — {#ukta#}
+<div n="2"> a) {%gesagt, gesprochen, besprochen, erwähnt%}
+<ls>AK. 3,2,57.</ls> {#yaToktaM purastAt#}
+<ls>ĀŚV. GṚHY. 1,23,1.</ls> {#taduktam#}
+<ls>KĀTY. ŚR. 4,3,14.</ls> {#uktaM ca yataH#}
+<ls>PAÑCAT. 32,12.</ls> <ls n="PAÑCAT.">68,1.</ls>
+<ls>VET. in LA. (III) 2,11.</ls> <ls>KATHĀS. 4,65.</ls> {#anupraharetyukte#}
+<ls>KĀTY. ŚR. 5,9,29.</ls> {#SaMyorukte#}
+<ls>ŚĀṄKH. ŚR. 5,20,7.</ls> {#evamukte nEzaDena#}
+<ls>MBH. 3,2137.</ls>
+<ls>BHĀG. P. 6,1,37.</ls> {#anuktenApi#} {%auch wenn es nicht gesagt worden wäre%}
+<ls>R. 3,14,21.</ls> {#arDoktena#}
+<ls>VIKR. 29,19.</ls> {#AmreqitaM dvistriruktam#}
+<ls>AK. 1,1,5,12.</ls> {#anftaM noktapUrvaM me#}
+<ls>R. 1,58,19.</ls> <ls n="R.">4,6,22.</ls> {#etaduktaM dvijAnAM BakzyABakzyamaSezataH#}
+<ls>M. 5,26.</ls> {#vedoktamAyuH#}
+<ls n="M.">1,84.</ls> <ls>KĀTY. ŚR. 18,6,7.</ls> {#BasmanAdBirmfdA cEva SudDiruktA manIziBiH#} {%angegeben, gelehrt%}
+<ls>M. 5,111.</ls> {#uktaviprezu#} {%erwähnt, genannt%}
+<ls n="M.">3,111.</ls> <ls>AK. 1,2,3,43.</ls> <ls>VARĀH. BṚH. S. 48,58.</ls> <ls>P. 1,1,32</ls>, <ls>Sch.</ls> {#tasmAnmeDyatamaM tvasya muKamuktaM svayaMBuvA#} {%erklärt für%}
+<ls>M. 1,92.</ls> <ls n="M.">2,230.</ls> {#ukto Bavati yaH pUrvaM guRavAniti saMsadi#}
+<ls>Spr. 1854, v. l.</ls> {#SvA sArameya uktaH#} {%genannt%}
+<ls>VARĀH. BṚH. S. 88,9.</ls> {#ukto 'laMkaraRI#} {%besprochen%}
+<ls>KATHĀS. 61,28.</ls> {#raktotpalena rAjA mantrI nIlotpalenoktaH#} {%gemeint%}
 [Page6-0621]
-
-<ls>VARĀH. BṚH. S. 29, 9.</ls> <lex>n.</lex> {%Wort, Rede%} 
-<ls>AV. 1, 30, 2.</ls> 
-<ls>ṚV. 10, 27, 10.</ls> <ls n="ṚV. 10,">125, 4.</ls> {#pratikUloktEH#} 
-<ls>Spr. 1525.</ls> 
-<div n="2">— b) {%angeredet, zu dem gesagt worden ist%}: {#sa hendreRa ukta Asa#} {%ihm war von%} <is>Indra</is> {%gesagt worden%} 
-<ls>ŚAT. BR. 14, 1, 1, 19.</ls> 
-<ls>AV. 12, 1, 55.</ls> 
-<ls>M. 1, 60. 2, 193.</ls> {#dehItyuktasya saMsadi#} 
-<ls>8, 52.</ls> <ls>MBH. 1, 6179. 3, 2102.</ls> <ls>R. 1, 8, 5.</ls> <ls>ŚĀK. 35.</ls> mit acc.: {#ityuktA sinDurAjena vAkyaM hfdayakampanam#} 
-<ls>MBH. 3, 15636.</ls> {#vijayamuktastEH#} 
-<ls>R. 2, 71, 30.</ls> 
-<ls>Spr. 1724, v. l.</ls> 
-<ls>KATHĀS. 18, 247.</ls> {#arTyukta#} {%aufgefordert von%} 
-<ls>M. 8, 62.</ls> {#anukta#} {%unaufgefordert%} 
-<ls>KATHĀS. 18, 117.</ls> 
-<div n="1">— 2) {%Jmd Vorwürfe machen, seinen Unwillen gegen Jmd aussprechen%}; mit acc. der Person 
-<ls>HARIV. 5268.</ls> 
-<ls>R. 3, 67, 20. 22. 4, 19, 21.</ls> 
+<ls>VARĀH. BṚH. S. 29,9.</ls> <lex>n.</lex> {%Wort, Rede%}
+<ls>AV. 1,30,2.</ls>
+<ls>ṚV. 10,27,10.</ls> <ls n="ṚV. 10,">125,4.</ls> {#pratikUloktEH#}
+<ls>Spr. 1525.</ls>
+<div n="2">— b) {%angeredet, zu dem gesagt worden ist%}: {#sa hendreRa ukta Asa#} {%ihm war von%} <is>Indra</is> {%gesagt worden%}
+<ls>ŚAT. BR. 14,1,1,19.</ls>
+<ls>AV. 12,1,55.</ls>
+<ls>M. 1,60.</ls> <ls n="M.">2,193.</ls> {#dehItyuktasya saMsadi#}
+<ls n="M.">8,52.</ls> <ls>MBH. 1,6179.</ls> <ls n="MBH.">3,2102.</ls> <ls>R. 1,8,5.</ls> <ls>ŚĀK. 35.</ls> mit acc.: {#ityuktA sinDurAjena vAkyaM hfdayakampanam#}
+<ls>MBH. 3,15636.</ls> {#vijayamuktastEH#}
+<ls>R. 2,71,30.</ls>
+<ls>Spr. 1724, v. l.</ls>
+<ls>KATHĀS. 18,247.</ls> {#arTyukta#} {%aufgefordert von%}
+<ls>M. 8,62.</ls> {#anukta#} {%unaufgefordert%}
+<ls>KATHĀS. 18,117.</ls>
+<div n="1">— 2) {%Jmd Vorwürfe machen, seinen Unwillen gegen Jmd aussprechen%}; mit acc. der Person
+<ls>HARIV. 5268.</ls>
+<ls>R. 3,67,20.</ls> <ls n="R. 3,67,">22.</ls> <ls n="R.">4,19,21.</ls>
 <div n="v">— Vgl. {#anukta, ukta#} fgg., {#durukta, punarukta, punarukti#} .
-
-<div n="p">— caus. {#vAcayati#} 
-<div n="1"> 1) {%zu sagen —, zu sprechen veranlassen, sagen —, hersagen —, aussprechen lassen%} 
-<ls>PĀR. GṚHY. 2, 2.</ls> {#vAcyamAno 'pi na brUte#} 
-<ls>BHĀG. P. 3, 30, 18.</ls> {#yatavAcaM vAcayanti tAqayanti na vakti cet#} 
-<ls>11, 23, 36.</ls> {#ena\mapAM SAntiM vAcayati#} 
-<ls>AIT. BR. 8, 6.</ls> 
-<ls>ŚAT. BR. 3, 1, 3, 24. 3, 1, 11. 5, 1, 5, 17.</ls> 
-<ls>KAUŚ. 10. 11. 17. 43.</ls> {#brAhmaRAnBojayitvA vedasamAptiM vAcayIta#} {%für sich erklären lassen%} 
-<ls>ĀŚV. GṚHY. 1, 22, 18. 2, 9, 9.</ls> {#svastyayanam#} 
-<ls>3, 13. 4, 6, 19.</ls> {#vAcayAmAsa rAmasya vane svastyayanakriyAm#} 
-<ls>R. 2, 25, 28.</ls> {#brAhmaRAnsvasti vAcayet#} 
-<ls>AV. PARIŚ.</ls> in <ls>Ind. St. 9, 19, N. 1.</ls> {#brAhmaRAnsvastivAcya#} 
-<ls>MBH. 1, 6976. 7936. 15, 51.</ls> 
-<ls>R. 2, 25, 28.</ls> {#svastivAcitezu brAhmaRezu#} 
-<ls>MBH. 3, 13313.</ls> {#vAcayitvA puRyAham#} 
-<ls>2, 1240.</ls> {#dvijAtInvAcya puRyAhaM svasti cEva#} 
-<ls>5, 7100.</ls> {#maNgalam#} 
-<ls>BHĀG. P. 1, 12, 13. 10, 53, 10.</ls> {#ASizaH#} 
-<ls>6, 14, 33.</ls> {#ASizaM vAcyamAno gururASizaM prayuNkte#} 
-<ls>P. 8, 2, 83,</ls> 
-<ls>Sch.</ls> {#vAcayitvA tataH svasti prayuktASIrdvijAtiBiH#} 
-<ls>R. 6, 19, 47.</ls> mit Ergänzung von {#svasti#} oder eines ähnlichen acc. 
-<ls>YĀJÑ. 1, 243</ls> ({#vAcyatAm#} impers.). {#vAcayitvA dvijaSrezWAn#} 
-<ls>MBH.3,788. 16644.8,391. 14,2037.</ls> <ls>R.2,6,7</ls> <ls>?(5,7 GORR.). MĀRK. P. 37,21. Verz. d. Oxf. H. 31,a,11. 15. BHAṬṬ. 17,1.</ls> 
-<div n="1">— 2) (etwas Geschriebenes {%reden lassen) lesen%} 
-<ls>HARIV.1,16161.</ls> <ls>MṚCCH. 42,5.</ls> <ls>ŚĀK. 17,4, v. l. 37,15.</ls> <ls>VIKR. 26,7.</ls> <ls>MĀLAV. 70,21.</ls> <ls>KATHĀS.5,69.8,19. 42,93. 44,158. 161. 56,90. 65,178. 102,134. 124,98. fg.</ls> <ls>RĀJA-TAR.2,89.3,208. 235. 372. 523.4,576.6,30. 38.</ls> <ls>MĀRK. P. 37,22.</ls> <ls>PRAB. 33,11. 49,8.</ls> <ls>Verz. d. Oxf. H. 12,a,2 v. u.</ls> {#padaM miTyA vAcayati#} 
-<ls>P. 1, 3, 71,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 3) {%sagen, berichten%} 
-<ls>DHĀTUP. 34, 35</ls> ({#pariBAzaRe#}, 
-v. l. {#saMdeSe)#}.{# kaTanIyamavovacat#} 
-<ls>BHAṬṬ. 6, 46.</ls> 
-<div n="1">— 4) {%zusagen, versprechen%}: {#snAtakAnAM sahasrasya svarRanizkAnavAcayat#} ({#aTo dadO#} ed. Bomb.) 
-<ls>MBH. 7, 4352.</ls>
-
-<div n="p">— desid. 
-<div n="1"> 1) {%zu sprechen —, herzusagen —, zu verkündigen beabsichtigen%}: {#taM vivakzantamAlakzya#} 
-<ls>MBH. 3, 12609. 4, 924.</ls> 
-<ls>R. 4, 27, 10.</ls> 
-<ls>BHĀG. P. 4, 9, 4.</ls> {#punarvivakzanpadam#} 
-<ls>ṚV. PRĀT. 11, 22.</ls> <ls n="ṚV. PRĀT.">14, 29.</ls> {#vivakzatA dozam#} 
-<ls>KUMĀRAS. 5, 81.</ls> 
-<ls>PAÑCAR. 3, 7, 3.</ls> <ls>BHĀG. P. 1, 5, 14.</ls> {#vivakzamARo BagavadviBUtIH#} 
-<ls>3, 8, 8.</ls> {#vivakzitaM hyanuktamanutApaM janayati#} 
-<ls>ŚĀK. 38, 7.</ls> 
-<ls>MĀLAV. 21, 21.</ls> 
-<ls>BHAṬṬ. 8, 17.</ls> {#brUhi yatte vivakzitam#} 
-<ls>MBH. 5, 2585. 7481.</ls> 
-<ls>R. 1, 55, 14 (56, 14 GORR.).</ls> {#vivakzitArTaM me brUhi#} 
-<ls>7, 59, 2, 2.</ls> {#vaco vivakzitam#} 
-<ls>RĀJA-TAR. 5, 481.</ls> 
-<div n="1">— 2) pass. {%gemeint sein%}: {#SabdAnuSAsanaSabdena ca pARinipraRItaM vyAkaraRaSAstraM vivakzyate#} 
-<ls>SARVADARŚANAS. 135, 10. fg. 87, 11.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 81.</ls> {#vivakzita#} {%was man im Sinne hat, gemeint, beabsichtigt%}: {#SIGramuktvA yaTAkAmaM yatte kAryaM vivakzitam#} 
-<ls>MBH. 4, 522.</ls> 
-<ls>R. 5, 15, 2.</ls> {#mantraM cakrurvivakzitam#} 
-<ls>MBH. 6, 1405.</ls> {#na me mAyA vivakzitA#} 
-<ls>12, 3314.</ls> {#viditaM mama rAjendra yatte hfdi vivakzi\tam#} 
-<ls>?15, 781. ŚAṂK. zu BṚH. ĀR. UP. S. 268. KULL. zu M. 7, 33. 8, 317. SARVADARŚANAS. 116, 20. 127, 4. 10. 136, 7. Schol. zu P. 1, 4, 54. 2,4,  49. 5, 1, 12. Schol. zu KAP. 1, 93.</ls>
+<div n="p">— caus. {#vAcayati#}
+<div n="1"> 1) {%zu sagen —, zu sprechen veranlassen, sagen —, hersagen —, aussprechen lassen%}
+<ls>PĀR. GṚHY. 2,2.</ls> {#vAcyamAno 'pi na brUte#}
+<ls>BHĀG. P. 3,30,18.</ls> {#yatavAcaM vAcayanti tAqayanti na vakti cet#}
+<ls n="BHĀG. P.">11,23,36.</ls> {#ena\mapAM SAntiM vAcayati#}
+<ls>AIT. BR. 8,6.</ls>
+<ls>ŚAT. BR. 3,1,3,24. 3,1,11. 5,1,5,17.</ls>
+<ls>KAUŚ. 10. 11. 17. 43.</ls> {#brAhmaRAnBojayitvA vedasamAptiM vAcayIta#} {%für sich erklären lassen%}
+<ls>ĀŚV. GṚHY. 1,22,18. 2,9,9.</ls> {#svastyayanam#}
+<ls n="ĀŚV. GṚHY.">3,13. 4,6,19.</ls> {#vAcayAmAsa rAmasya vane svastyayanakriyAm#}
+<ls>R. 2,25,28.</ls> {#brAhmaRAnsvasti vAcayet#}
+<ls>AV. PARIŚ.</ls> in <ls>Ind. St. 9,19, N. 1.</ls> {#brAhmaRAnsvastivAcya#}
+<ls>MBH. 1,6976.</ls> <ls n="MBH. 1,">7936.</ls> <ls n="MBH.">15,51.</ls>
+<ls>R. 2,25,28.</ls> {#svastivAcitezu brAhmaRezu#}
+<ls>MBH. 3,13313.</ls> {#vAcayitvA puRyAham#}
+<ls n="MBH.">2,1240.</ls> {#dvijAtInvAcya puRyAhaM svasti cEva#}
+<ls n="MBH.">5,7100.</ls> {#maNgalam#}
+<ls>BHĀG. P. 1,12,13.</ls> <ls n="BHĀG. P.">10,53,10.</ls> {#ASizaH#}
+<ls n="BHĀG. P.">6,14,33.</ls> {#ASizaM vAcyamAno gururASizaM prayuNkte#}
+<ls>P. 8,2,83</ls>, <ls>Sch.</ls>
+{#vAcayitvA tataH svasti prayuktASIrdvijAtiBiH#}
+<ls>R. 6,19,47.</ls> mit Ergänzung von {#svasti#} oder eines ähnlichen acc.
+<ls>YĀJÑ. 1,243</ls> ({#vAcyatAm#} impers.). {#vAcayitvA dvijaSrezWAn#}
+<ls>MBH. 3,788.</ls> <ls n="MBH. 3,">16644.</ls> <ls n="MBH.">8,391.</ls> <ls n="MBH.">14,2037.</ls> <ls>R. 2,6,7</ls> (<ls n="GORR. 2,">5,7</ls> <ls>GORR.</ls>). <ls>MĀRK. P. 37,21.</ls> <ls>Verz. d. Oxf. H. 31,a,11. 15.</ls> <ls>BHAṬṬ. 17,1.</ls>
+<div n="1">— 2) (etwas Geschriebenes {%reden lassen) lesen%}
+<ls>HARIV. 1.</ls> <ls n="HARIV.">16161.</ls> <ls>MṚCCH. 42,5.</ls> <ls>ŚĀK. 17,4, v. l. 37,15.</ls> <ls>VIKR. 26,7.</ls> <ls>MĀLAV. 70,21.</ls> <ls>KATHĀS. 5,69.</ls> <ls n="KATHĀS.">8,19.</ls> <ls n="KATHĀS.">42,93.</ls> <ls n="KATHĀS.">44,158.</ls> <ls n="KATHĀS. 44,">161.</ls> <ls n="KATHĀS.">56,90.</ls> <ls n="KATHĀS.">65,178.</ls> <ls n="KATHĀS.">102,134.</ls> <ls n="KATHĀS.">124,98. fg.</ls> <ls>RĀJA-TAR. 2,89. 3,208. 235. 372. 523. 4,576. 6,30. 38.</ls> <ls>MĀRK. P. 37,22.</ls> <ls>PRAB. 33,11. 49,8.</ls> <ls>Verz. d. Oxf. H. 12,a,2</ls> v. u. {#padaM miTyA vAcayati#}
+<ls>P. 1,3,71</ls>, <ls>Sch.</ls>
+<div n="1">— 3) {%sagen, berichten%}
+<ls>DHĀTUP. 34,35</ls> ({#pariBAzaRe#},
+v. l. {#saMdeSe)#}.{# kaTanIyamavovacat#}
+<ls>BHAṬṬ. 6,46.</ls>
+<div n="1">— 4) {%zusagen, versprechen%}: {#snAtakAnAM sahasrasya svarRanizkAnavAcayat#} ({#aTo dadO#} <ls>ed. Bomb.</ls>)
+<ls>MBH. 7,4352.</ls>
+<div n="p">— desid.
+<div n="1"> 1) {%zu sprechen —, herzusagen —, zu verkündigen beabsichtigen%}: {#taM vivakzantamAlakzya#}
+<ls>MBH. 3,12609.</ls> <ls n="MBH.">4,924.</ls>
+<ls>R. 4,27,10.</ls>
+<ls>BHĀG. P. 4,9,4.</ls> {#punarvivakzanpadam#}
+<ls>ṚV. PRĀT. 11,22.</ls> <ls n="ṚV. PRĀT.">14,29.</ls> {#vivakzatA dozam#}
+<ls>KUMĀRAS. 5,81.</ls>
+<ls>PAÑCAR. 3,7,3.</ls> <ls>BHĀG. P. 1,5,14.</ls> {#vivakzamARo BagavadviBUtIH#}
+<ls n="BHĀG. P.">3,8,8.</ls> {#vivakzitaM hyanuktamanutApaM janayati#}
+<ls>ŚĀK. 38,7.</ls>
+<ls>MĀLAV. 21,21.</ls>
+<ls>BHAṬṬ. 8,17.</ls> {#brUhi yatte vivakzitam#}
+<ls>MBH. 5,2585.</ls> <ls n="MBH. 5,">7481.</ls>
+<ls>R. 1,55,14</ls> (<ls n="GORR. 1,">56,14</ls> <ls>GORR.</ls>). {#vivakzitArTaM me brUhi#}
+<ls n="R.">7,59,2,2.</ls> {#vaco vivakzitam#}
+<ls>RĀJA-TAR. 5,481.</ls>
+<div n="1">— 2) pass. {%gemeint sein%}: {#SabdAnuSAsanaSabdena ca pARinipraRItaM vyAkaraRaSAstraM vivakzyate#}
+<ls>SARVADARŚANAS. 135,10. fg. 87,11.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 81.</ls> {#vivakzita#} {%was man im Sinne hat, gemeint, beabsichtigt%}: {#SIGramuktvA yaTAkAmaM yatte kAryaM vivakzitam#}
+<ls>MBH. 4,522.</ls>
+<ls>R. 5,15,2.</ls> {#mantraM cakrurvivakzitam#}
+<ls>MBH. 6,1405.</ls> {#na me mAyA vivakzitA#}
+<ls n="MBH.">12,3314.</ls> {#viditaM mama rAjendra yatte hfdi vivakzi\tam#}
+<ls n="MBH.">15,781.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 268.</ls> <ls>KULL.</ls> zu <ls>M. 7,33.</ls> <ls n="M.">8,317.</ls> <ls>SARVADARŚANAS. 116,20. 127,4. 10. 136,7.</ls> Schol. zu <ls>P. 1,4,54.</ls> <ls n="P.">2,4,49.</ls> <ls n="P.">5,1,12.</ls> Schol. zu <ls>KAP. 1,93.</ls>
 [Page6-0622]
-{#avivakzita#} {%nicht ausdrücklich gemeint%}: {#apAdAnAdiviSezakaTABiravivakzitaM kArakaM karmasaMjYaM syAt#} 
-<ls>Schol.</ls> zu <ls>P. 1, 4, 51.</ls> {%was nicht zu urgiren ist, unwesentlich, worauf es nicht weiter ankommt%} 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>?S. 30. Schol. zu P. 1, 3, 20. 2, 3, 65. 3, 2, 109. SĀH. D. 9, 17.</ls> Comm. zu <ls>NYĀYAS. 1, 53.</ls> {#vivakzitatva#} <lex>n.</lex> {%das Gemeintsein%} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 268. SARVADARŚANAS. 105, 10.</ls> {#akArasya vivakzitatvAt#} so v. a. {%weil das%} {#a#} {%wesentlich ist, in bestimmter Absicht gebraucht worden ist%} 
-<ls>Schol.</ls> zu <ls>P. 3, 2, 61.</ls> 
-<div n="1">— 3) {#vivakzita#} {%in naher Beziehung zu Jmd stehend, zu Jmd haltend%}: {#tatastAnBedayitvA tu parasparavivakzitAn#} (=  {#voQumizwAn#} 
-<ls>NĪLAK.</ls>) <ls>MBH. 12, 3312.</ls> {#tamAjYAya pratyanIkavivakzitam#} ({#pratyanIkA devAste vivakzitA jayaM prApaRIyA ityaBipretaM yasya taTABUtaM jYAtvA pratyanIkAnAM vivakzitamiti vA#} Comm.) 
-<ls>BHĀG. P. 9, 18, 26.</ls> {#vivakzitAMSca dviradendramuKyAMsturaMgamAnapi#} so v. a. {%Lieblingselephanten und Lieblingspferde%} 
-<ls>KĀM. NĪTIS. 15, 48.</ls> 
+{#avivakzita#} {%nicht ausdrücklich gemeint%}: {#apAdAnAdiviSezakaTABiravivakzitaM kArakaM karmasaMjYaM syAt#}
+<ls>Schol.</ls> zu <ls>P. 1,4,51.</ls> {%was nicht zu urgiren ist, unwesentlich, worauf es nicht weiter ankommt%}
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 30.</ls> Schol. zu <ls>P. 1,3,20.</ls> <ls n="P.">2,3,65.</ls> <ls n="P.">3,2,109.</ls> <ls>SĀH. D. 9,17.</ls> Comm. zu <ls>NYĀYAS. 1,53.</ls> {#vivakzitatva#} <lex>n.</lex> {%das Gemeintsein%}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 268.</ls> <ls>SARVADARŚANAS. 105,10.</ls> {#akArasya vivakzitatvAt#} so v. a. {%weil das%} {#a#} {%wesentlich ist, in bestimmter Absicht gebraucht worden ist%}
+<ls>Schol.</ls> zu <ls>P. 3,2,61.</ls>
+<div n="1">— 3) {#vivakzita#} {%in naher Beziehung zu Jmd stehend, zu Jmd haltend%}: {#tatastAnBedayitvA tu parasparavivakzitAn#} (= {#voQumizwAn#}
+<ls>NĪLAK.</ls>) <ls>MBH. 12,3312.</ls> {#tamAjYAya pratyanIkavivakzitam#} ({#pratyanIkA devAste vivakzitA jayaM prApaRIyA ityaBipretaM yasya taTABUtaM jYAtvA pratyanIkAnAM vivakzitamiti vA#} Comm.)
+<ls>BHĀG. P. 9,18,26.</ls> {#vivakzitAMSca dviradendramuKyAMsturaMgamAnapi#} so v. a. {%Lieblingselephanten und Lieblingspferde%}
+<ls>KĀM. NĪTIS. 15,48.</ls>
 <div n="v">— Vgl. {#vivakzA#} fg.
-
-<div n="p">— {#acCa#} {%herbeirufen, begrüssen, einladen%}: {#acCA^ voceya va\sutA^tima\gneH#} 
-<ls>ṚV. 1, 122, 5.</ls> {#acCA^ de\vA~ U^cize#} 
-<ls n="ṚV.">3, 22, 3.</ls> {#acCA^ vivakmi\ roda^sI#} 
-<ls n="ṚV. 3,">57, 4.</ls> <ls n="ṚV.">4, 1, 19.</ls> <ls n="ṚV.">6, 2, 11.</ls> <ls n="ṚV. 6,">51, 3.</ls> {#acCA^ sU\nu\rna pi\tarA^ vivakmi#} 
-<ls n="ṚV.">7, 67, 1.</ls> <ls n="ṚV. 7,">72, 3.</ls> <ls n="ṚV.">8, 64, 2.</ls> 
+<div n="p">— {#acCa#} {%herbeirufen, begrüssen, einladen%}: {#acCA^ voceya va\sutA^tima\gneH#}
+<ls>ṚV. 1,122,5.</ls> {#acCA^ de\vA~ U^cize#}
+<ls n="ṚV.">3,22,3.</ls> {#acCA^ vivakmi\ roda^sI#}
+<ls n="ṚV. 3,">57,4.</ls> <ls n="ṚV.">4,1,19.</ls> <ls n="ṚV.">6,2,11.</ls> <ls n="ṚV. 6,">51,3.</ls> {#acCA^ sU\nu\rna pi\tarA^ vivakmi#}
+<ls n="ṚV.">7,67,1.</ls> <ls n="ṚV. 7,">72,3.</ls> <ls n="ṚV.">8,64,2.</ls>
 <div n="v">— Vgl. {#acCAvAka, acCokti#} .
-
-<div n="p">— {#ati#} 
-<div n="1"> 1) {%Jmd tadeln, Jmd Vorwürfe machen%}: {#yaTA mAM nAtivocanti#} ({#nAtiro°#} ed. 
-<ls>BURN.</ls>) <ls>BHĀG. P. ed. Bomb. 3, 14, 21.</ls> 
-<div n="1">— 2) {%Jmd über die Gebühr tadeln oder loben%}: {#yo nAtyuktaH prAha rUkzaM priyaM vA#} 
-<ls>Spr. 4906.</ls> 
+<div n="p">— {#ati#}
+<div n="1"> 1) {%Jmd tadeln, Jmd Vorwürfe machen%}: {#yaTA mAM nAtivocanti#} ({#nAtiro°#} ed.
+<ls>BURN.</ls>) <ls>BHĀG. P. ed. Bomb. 3,14,21.</ls>
+<div n="1">— 2) {%Jmd über die Gebühr tadeln oder loben%}: {#yo nAtyuktaH prAha rUkzaM priyaM vA#}
+<ls>Spr. 4906.</ls>
 <div n="v">— Vgl. {#ativaktar#} (auch in den Nachträgen), {#atyukta, atyukti#} .
-
-<div n="p">— {#aDi#} {%sprechen —, hilfreich eintreten für%} (dat.): {#aDi^ vocA\ nu su^nva\te#} 
-<ls>ṚV. 1, 132, 1.</ls> <ls n="ṚV.">2, 27, 6.</ls> <ls n="ṚV.">7, 83, 2.</ls> <ls n="ṚV.">8, 20, 26.</ls> {#te na^strADva\M te^ 'vata\ ta u^ no\ aDi^ vocata#} 
-<ls n="ṚV. 8,">30, 3.</ls> <ls n="ṚV. 8,">48, 14.</ls> <ls n="ṚV. 8,">56, 6.</ls> <ls n="ṚV.">10, 63, 11.</ls> <ls>VS. 6, 33.</ls> {#aDya^vocadaDiva\ktA pra^Ta\mo dEvyo^ Bi\zak#} . 
-<ls>16, 5.</ls> 
+<div n="p">— {#aDi#} {%sprechen —, hilfreich eintreten für%} (dat.): {#aDi^ vocA\ nu su^nva\te#}
+<ls>ṚV. 1,132,1.</ls> <ls n="ṚV.">2,27,6.</ls> <ls n="ṚV.">7,83,2.</ls> <ls n="ṚV.">8,20,26.</ls> {#te na^strADva\M te^ 'vata\ ta u^ no\ aDi^ vocata#}
+<ls n="ṚV. 8,">30,3.</ls> <ls n="ṚV. 8,">48,14.</ls> <ls n="ṚV. 8,">56,6.</ls> <ls n="ṚV.">10,63,11.</ls> <ls>VS. 6,33.</ls> {#aDya^vocadaDiva\ktA pra^Ta\mo dEvyo^ Bi\zak#} .
+<ls n="VS.">16,5.</ls>
 <div n="v">— Vgl. {#aDivaktar, aDivAka#} .
-
-<div n="p">— {#anu#} 
-<div n="1"> 1) {%aufsagen%} (Opfergebete 
-u.s.w.) {%für Jmd%} (dat. gen.), {%die Opfereinladung an Jmd richten%}: {#da\Da\nve vA\ yadI\manu\ voca\dbrahmA^Ri#} 
-<ls>ṚV. 2, 5, 3.</ls> 
-<ls>AIT. BR. 1, 12. fg.</ls> {#prajApatO vE svayaM hotari prAtaranuvAkamanuvakzyatyuBaye devAsurA yajYamupAvasannasmaByamanuvakzyatyasmaByamiti sa vE deveBya evAnvabravIt#} 
-<ls>2, 15. 5, 34. 3, 45. 6, 35.</ls> <ls>TS. 1, 6, 10, 4.</ls> <ls>TBR. 3, 3, 8, 6.</ls> <ls>ŚAT. BR. 1, 5, 1, 16.</ls> {#fcam#} 
-<ls>6, 2, 27. 3, 9, 3, 7.</ls> {#anvevEtaducyate nettu hUyate#} 
-<ls>1, 4, 8.</ls> <ls>ĀŚV. ŚR. 1, 2, 1.</ls> {#yezAM dvijAnAM sAvitrI nAnUcyeta yaTAviDi#} 
-<ls>M. 11, 191.</ls> 
-<div n="1">— 2) {%Jmd%} (acc.) {%mit einem Spruche ansprechen%}: {#anUkta#} 
-<ls>KAUŚ. 47. fg.</ls> 
-<div n="1">— 3) {%Jmd Etwas aufsagen%} so v. a. {%lehren, mittheilen%} 
-<ls>ŚAT. BR. 2, 3, 1, 31.</ls> 
-<ls>BHĀG. P. 1, 5, 30.</ls> {#anUcyatAM tAta svaDItaM kiMciduttamam#} 
-<ls>7, 5, 22.</ls> 
-<div n="1">— 4) med. {%nachsagen%} (dem Lehrer 
-u.s.w.) so v. a. {%lernen, studiren%}: {#yo brA^hma\Ro vi\dyAma\nUcya\ na vi\roce^ta#} 
-<ls>TS. 2, 1, 2, 8.</ls> {#ananUcya#} 
-<ls>CHĀND. UP. 6, 1, 1.</ls> {#e\tadvA e\tEstri\BirAyu^rBi\ranva^vocaTAH . aTa^ ta\ ita^ra\dana^nUktam#} 
-<ls>TBR. 3, 10, 11, 4.</ls> {#parovaraM yajYo 'nUcyate#} 
-<ls>ŚAT. BR. 1, 6, 2, 4. 2, 4, 4, 4. 6, 1, 1, 8.</ls> {#araRye 'nUcyamAnatvAdAraRyakam#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 3.</ls> auch act. in dieser Bed.: {#brahmAnUcuH#} 
-<ls>BHĀG. P. 3, 33, 7.</ls> {#anUcAna/#} (s. auch bes.) {%der da studirt, Studirter, Gelehrter%} 
-<ls>VOP. 26, 132. 135.</ls> 
-<ls>AIT. BR. 2, 2.</ls> 
-<ls>ŚAT. BR. 10, 6, 1, 3. 11, 4, 1, 8.</ls> {#anUcAnartvij#} 
-<ls>KĀTY. ŚR. 7, 1, 18.</ls> 
-<ls>KUMĀRAS. 6, 15.</ls> {#anUkta#} (s. auch bes.) {%studirt, gelernt%} 
-<ls>ĀŚV. GṚHY. 1, 22, 15.</ls> {#mayA yaTAnUktamavAdi te hareH kftAvatArasya sumitra ceMzwitam#} so v. a. {%wie es von mir gehört wurde%} 
-<ls>BHĀG. P. 3, 19, 32.</ls> 
-<div n="1">— 5) {%beistimmen, Recht geben%}: {#prajApatirmanasa evAnUvAca#} 
-<ls>ŚAT. BR. 1, 4, 5, 11.</ls> 
-<div n="1">— 6) {%nennen%}: {#manunA harirityanUktaH#} 
-<ls>BHĀG. P. 2, 7, 2.</ls> —
+<div n="p">— {#anu#}
+<div n="1"> 1) {%aufsagen%} (Opfergebete
+u.s.w.) {%für Jmd%} (dat. gen.), {%die Opfereinladung an Jmd richten%}: {#da\Da\nve vA\ yadI\manu\ voca\dbrahmA^Ri#}
+<ls>ṚV. 2,5,3.</ls>
+<ls>AIT. BR. 1,12. fg.</ls> {#prajApatO vE svayaM hotari prAtaranuvAkamanuvakzyatyuBaye devAsurA yajYamupAvasannasmaByamanuvakzyatyasmaByamiti sa vE deveBya evAnvabravIt#}
+<ls n="AIT. BR.">2,15. 5,34. 3,45. 6,35.</ls> <ls>TS. 1,6,10,4.</ls> <ls>TBR. 3,3,8,6.</ls> <ls>ŚAT. BR. 1,5,1,16.</ls> {#fcam#}
+<ls n="ŚAT. BR.">6,2,27. 3,9,3,7.</ls> {#anvevEtaducyate nettu hUyate#}
+<ls n="ŚAT. BR.">1,4,8.</ls> <ls>ĀŚV. ŚR. 1,2,1.</ls> {#yezAM dvijAnAM sAvitrI nAnUcyeta yaTAviDi#}
+<ls>M. 11,191.</ls>
+<div n="1">— 2) {%Jmd%} (acc.) {%mit einem Spruche ansprechen%}: {#anUkta#}
+<ls>KAUŚ. 47. fg.</ls>
+<div n="1">— 3) {%Jmd Etwas aufsagen%} so v. a. {%lehren, mittheilen%}
+<ls>ŚAT. BR. 2,3,1,31.</ls>
+<ls>BHĀG. P. 1,5,30.</ls> {#anUcyatAM tAta svaDItaM kiMciduttamam#}
+<ls n="BHĀG. P.">7,5,22.</ls>
+<div n="1">— 4) med. {%nachsagen%} (dem Lehrer
+u.s.w.) so v. a. {%lernen, studiren%}: {#yo brA^hma\Ro vi\dyAma\nUcya\ na vi\roce^ta#}
+<ls>TS. 2,1,2,8.</ls> {#ananUcya#}
+<ls>CHĀND. UP. 6,1,1.</ls> {#e\tadvA e\tEstri\BirAyu^rBi\ranva^vocaTAH . aTa^ ta\ ita^ra\dana^nUktam#}
+<ls>TBR. 3,10,11,4.</ls> {#parovaraM yajYo 'nUcyate#}
+<ls>ŚAT. BR. 1,6,2,4.</ls> <ls n="ŚAT. BR.">2,4,4,4.</ls> <ls n="ŚAT. BR.">6,1,1,8.</ls> {#araRye 'nUcyamAnatvAdAraRyakam#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 3.</ls> auch act. in dieser Bed.: {#brahmAnUcuH#}
+<ls>BHĀG. P. 3,33,7.</ls> {#anUcAna/#} (s. auch bes.) {%der da studirt, Studirter, Gelehrter%}
+<ls>VOP. 26,132.</ls> <ls n="VOP. 26,">135.</ls>
+<ls>AIT. BR. 2,2.</ls>
+<ls>ŚAT. BR. 10,6,1,3.</ls> <ls n="ŚAT. BR.">11,4,1,8.</ls> {#anUcAnartvij#}
+<ls>KĀTY. ŚR. 7,1,18.</ls>
+<ls>KUMĀRAS. 6,15.</ls> {#anUkta#} (s. auch bes.) {%studirt, gelernt%}
+<ls>ĀŚV. GṚHY. 1,22,15.</ls> {#mayA yaTAnUktamavAdi te hareH kftAvatArasya sumitra ceMzwitam#} so v. a. {%wie es von mir gehört wurde%}
+<ls>BHĀG. P. 3,19,32.</ls>
+<div n="1">— 5) {%beistimmen, Recht geben%}: {#prajApatirmanasa evAnUvAca#}
+<ls>ŚAT. BR. 1,4,5,11.</ls>
+<div n="1">— 6) {%nennen%}: {#manunA harirityanUktaH#}
+<ls>BHĀG. P. 2,7,2.</ls> —
 [Page6-0623]
-Vgl. {#anuvaktavya, anuvacana, anuvAka, anuvAkyA#} fg., {#anUkta#} fg., {#anUcAna#}, 1. {#anUcya#} . — caus. 
-<div n="1"> 1) {%Jmd die Formel%} oder {%Einladung für - aussprechen lassen%} 
-<ls>KĀTY. ŚR. 4, 4, 15.</ls> {#agnaye#} 
-<ls>5, 2, 1.</ls> {#yUpAya#} 
-<ls>6, 3, 1.</ls> {#vAyave#} 
-<ls>9, 9, 14.</ls> mit gen. der Sache wozu 
-<ls>6.</ls> 
-<div n="1">— 2) {%einladen lassen auf, - zu Etwas%} (dat.): {#stokeByaH#} 
-<ls>KĀTY. ŚR. 6, 6, 18.</ls> {#somAya#} 
-<ls>7, 9, 15. 8, 4, 1. 26, 6, 21.</ls> 
-<div n="1">— 3) {%lesen%} 
-<ls>ŚĀK. 17, 4. 90, 18.</ls> 
-<ls>VIKR. 26, 3.</ls> 
-<ls>MĀLAV. 8, 13.</ls> 
-<ls>KATHĀS. 74, 273. 76, 22.</ls> 
-<div n="v">— Vgl. {#anuvAcana#} . — desid. med. {%zu lernen sich anschicken%} 
-<ls>ŚAT. BR. 4, 6, 7, 2.</ls>
-
-<div n="p">— {#aByanu#} {%in Hinblick auf —, in Beziehung auf —, über Etwas sagen, Etwas mit Worten bezeichnen%}: {#tadetadfziH paSyannaByanUvAca#} 
-<ls>AIT. BR. 2, 33. 3, 12. 20. 8, 6.</ls> {#yAM devatAmfgaByanUktA#} 
-<ls>ŚAT. BR. 6, 5, 1, 2.</ls> {#paSUnevEtadaByanUktam#} 
-<ls>1, 4, 1, 9. 24. 3, 3, 10. 7, 4, 4. 2, 3, 3, 6. 5, 1, 4. 5. 3, 4, 2, 7. 4, 1, 3, 17. 5, 3, 3. 6, 1, 10.</ls> {#iti saMprati diSo 'ByanUcyante#} 
-<ls>8, 1, 4, 2. 13, 5, 4, 5.</ls> <ls>CHĀND. UP. 3, 12, 5.</ls>
-
+Vgl. {#anuvaktavya, anuvacana, anuvAka, anuvAkyA#} fg., {#anUkta#} fg., {#anUcAna#}, 1. {#anUcya#} . — caus.
+<div n="1"> 1) {%Jmd die Formel%} oder {%Einladung für — aussprechen lassen%}
+<ls>KĀTY. ŚR. 4,4,15.</ls> {#agnaye#}
+<ls n="KĀTY. ŚR.">5,2,1.</ls> {#yUpAya#}
+<ls n="KĀTY. ŚR.">6,3,1.</ls> {#vAyave#}
+<ls n="KĀTY. ŚR.">9,9,14.</ls> mit gen. der Sache wozu
+<ls n="KĀTY. ŚR.">6.</ls>
+<div n="1">— 2) {%einladen lassen auf, — zu Etwas%} (dat.): {#stokeByaH#}
+<ls>KĀTY. ŚR. 6,6,18.</ls> {#somAya#}
+<ls n="KĀTY. ŚR.">7,9,15. 8,4,1. 26,6,21.</ls>
+<div n="1">— 3) {%lesen%}
+<ls>ŚĀK. 17,4.</ls> <ls n="ŚĀK.">90,18.</ls>
+<ls>VIKR. 26,3.</ls>
+<ls>MĀLAV. 8,13.</ls>
+<ls>KATHĀS. 74,273.</ls> <ls n="KATHĀS.">76,22.</ls>
+<div n="v">— Vgl. {#anuvAcana#} . — desid. med. {%zu lernen sich anschicken%}
+<ls>ŚAT. BR. 4,6,7,2.</ls>
+<div n="p">— {#aByanu#} {%in Hinblick auf —, in Beziehung auf —, über Etwas sagen, Etwas mit Worten bezeichnen%}: {#tadetadfziH paSyannaByanUvAca#}
+<ls>AIT. BR. 2,33. 3,12. 20. 8,6.</ls> {#yAM devatAmfgaByanUktA#}
+<ls>ŚAT. BR. 6,5,1,2.</ls> {#paSUnevEtadaByanUktam#}
+<ls n="ŚAT. BR.">1,4,1,9. 24. 3,3,10. 7,4,4. 2,3,3,6. 5,1,4. 5. 3,4,2,7. 4,1,3,17. 5,3,3. 6,1,10.</ls> {#iti saMprati diSo 'ByanUcyante#}
+<ls n="ŚAT. BR.">8,1,4,2. 13,5,4,5.</ls> <ls>CHĀND. UP. 3,12,5.</ls>
 <div n="p">— {#apa#} s. {#apavaktar, apavAcana#} .
-
-<div n="p">— {#aBi#} 
-<div n="1"> 1) = {#aByanuvac#}; nur das partic. {#aByukta#} zu belegen. {#tadeza Sloko 'ByuktaH#} 
-<ls>ŚAT. BR. 7, 5, 1, 21. 2, 52. 8, 6, 2, 19.</ls> {#yajuzAByuktam#} 
-<ls>10, 2, 6, 19.</ls> {#fziRA#} 
-<ls>1, 1, 10.</ls> {#fcA#} 
-<ls>14, 7, 2, 28.</ls> <ls>MUṆḌ. UP. 3, 2, 10.</ls> <ls>WEBER, RĀMAT. UP. 357.</ls> {#Slokena#} 
-<ls>KAUṢ. UP. 1, 6.</ls> {#hiraRyayIti vA aByuktA#} 
-<ls>ŚAT. BR. 6, 3, 1, 42.</ls> 
-<div n="1">— 2) {%Etwas zu Jmd sagen%}, mit dopp. acc.: {#idaM tu tvAM kururAjo 'ByuvAca#} 
-<ls>MBH. 2, 1998. 3, 560. 8709. 7, 4230.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 51, 8.</ls> {#iti rAmo 'ByuvAca tAn#} 
-<ls>1, 31, 15.</ls> <ls>MBH. 4, 1662. 8, 3530.</ls> <ls>BHĀG. P. 4, 17, 9.</ls> {%Jmd für Etwas erklären%}: {#BUtaM BavyaM BavizyaM ca mArkaRqeyo 'ByuvAca ha . yajYaM tvAM cEva yajYAnAM tapaSca tapasAmapi ..#} (so die ed. Bomb.) 
-<ls>MBH. 6, 3039.</ls>
-
-<div n="p">— {#A#} {%Jmd anreden, Jmd zurufen%}: {#A vA^M voce vi\daTe^zu\ pra\ya^svAn#} 
-<ls>ṚV. 7, 73, 2.</ls> {#indrA^ya brahmA\RyoktA^#} 
-<ls n="ṚV.">1, 63, 9.</ls> <ls>ŚĀṄKH. BR. 7, 4.</ls>
-
+<div n="p">— {#aBi#}
+<div n="1"> 1) = {#aByanuvac#}; nur das partic. {#aByukta#} zu belegen. {#tadeza Sloko 'ByuktaH#}
+<ls>ŚAT. BR. 7,5,1,21. 2,52. 8,6,2,19.</ls> {#yajuzAByuktam#}
+<ls n="ŚAT. BR.">10,2,6,19.</ls> {#fziRA#}
+<ls n="ŚAT. BR.">1,1,10.</ls> {#fcA#}
+<ls n="ŚAT. BR.">14,7,2,28.</ls> <ls>MUṆḌ. UP. 3,2,10.</ls> <ls>WEBER, RĀMAT. UP. 357.</ls> {#Slokena#}
+<ls>KAUṢ. UP. 1,6.</ls> {#hiraRyayIti vA aByuktA#}
+<ls>ŚAT. BR. 6,3,1,42.</ls>
+<div n="1">— 2) {%Etwas zu Jmd sagen%}, mit dopp. acc.: {#idaM tu tvAM kururAjo 'ByuvAca#}
+<ls>MBH. 2,1998.</ls> <ls n="MBH.">3,560.</ls> <ls n="MBH. 3,">8709.</ls> <ls n="MBH.">7,4230.</ls>
+<ls>R. GORR. 2,51,8.</ls> {#iti rAmo 'ByuvAca tAn#}
+<ls n="R. GORR.">1,31,15.</ls> <ls>MBH. 4,1662.</ls> <ls n="MBH.">8,3530.</ls> <ls>BHĀG. P. 4,17,9.</ls> {%Jmd für Etwas erklären%}: {#BUtaM BavyaM BavizyaM ca mArkaRqeyo 'ByuvAca ha . yajYaM tvAM cEva yajYAnAM tapaSca tapasAmapi ..#} (so die <ls>ed. Bomb.</ls>)
+<ls>MBH. 6,3039.</ls>
+<div n="p">— {#A#} {%Jmd anreden, Jmd zurufen%}: {#A vA^M voce vi\daTe^zu\ pra\ya^svAn#}
+<ls>ṚV. 7,73,2.</ls> {#indrA^ya brahmA\RyoktA^#}
+<ls n="ṚV.">1,63,9.</ls> <ls>ŚĀṄKH. BR. 7,4.</ls>
 <div n="p">— {#ud#} s. {#udvAcana#} .
-
-<div n="p">— {#upa#} {%zusprechen, ermuntern, antreiben%}: {#yanna^ma\syanta^ upa\voca^nta\ Bfga^vaH#} 
-<ls>ṚV. 1, 127, 7.</ls> {#upa\ yadvoce^ aDva\rasya\ hotA^#} 
-<ls n="ṚV.">5, 49, 4.</ls> {#ta\nU\pAna^M pari\pAna^M kfRvA\nA yadu^poci\re#} 
-<ls>AV. 5, 8, 6.</ls> 
+<div n="p">— {#upa#} {%zusprechen, ermuntern, antreiben%}: {#yanna^ma\syanta^ upa\voca^nta\ Bfga^vaH#}
+<ls>ṚV. 1,127,7.</ls> {#upa\ yadvoce^ aDva\rasya\ hotA^#}
+<ls n="ṚV.">5,49,4.</ls> {#ta\nU\pAna^M pari\pAna^M kfRvA\nA yadu^poci\re#}
+<ls>AV. 5,8,6.</ls>
 <div n="v">— Vgl. {#upavaktar, upavAka#} fgg.
-
-<div n="p">— {#ni#} 
-<div n="1"> 1) {%reden, sprechen%}: {#nyavocat#} 
-<ls>BHĀG. P. 3, 17, 29.</ls> 
-<div n="1">— 2) {%schmähen%}: {#duryoDanaM nEkftikaM nyavocat#} 
-<ls>MBH. 9, 3320.</ls> 
-<div n="v">— Vgl. {#nivacana, nivAku#} . — caus. {%schmähen%} 
+<div n="p">— {#ni#}
+<div n="1"> 1) {%reden, sprechen%}: {#nyavocat#}
+<ls>BHĀG. P. 3,17,29.</ls>
+<div n="1">— 2) {%schmähen%}: {#duryoDanaM nEkftikaM nyavocat#}
+<ls>MBH. 9,3320.</ls>
+<div n="v">— Vgl. {#nivacana, nivAku#} . — caus. {%schmähen%}
 <ls>VYUTP. 73.</ls>
-
-<div n="p">— {#nis#} 
-<div n="1"> 1) {%aussprechen, mit Worten bezeichnen, ausdrücklich nennen, erklären%}: {#yatpraTame pade devatA nirucyate#} 
-<ls>AIT. BR. 4, 29.</ls> {#aniruktAM devatAM niravocat#} 
-<ls>ŚAT. BR. 10, 3, 5, 15.</ls> 
-<ls>NIR. 10, 5.</ls> {#tasmAtsatyaM nirucyatAm#} 
-<ls>MBH. 3, 16892.</ls> {#nAmaDeyAni lokezu bahUnyasya yaTArTavat . nirucyante mahattvAcca viButvAcca karmaRastaTA ..#} 
-<ls>7, 9611. 13, 7523. 12, 236.</ls> {#SfRu putra yaTA hyeza puruzaH SASvato 'vyayaH . akzayaScAprameyaSca sarvagaSca nirucyate ..#} 
-<ls>13740.</ls> {#yAdavA yadunA cAgre nirucyante ca hEhayAH#} 
-<ls>HARIV. 1898.</ls> {#vedA nirvaktumakzamAH#} 
-<ls>PAÑCAR. 1, 12, 38.</ls> {#(yaH) nirucyamAna praSnaM necCet#} ({%der) eine an ihn gerichtete Frage nicht beantworten will%} 
-<ls>M. 8, 55.</ls> {#vidirjYAne nirucyate#} {%die Wurzel%} {#vid#} {%wird durch%} {#jYAna#} {%erklärt%} 
-<ls>KĀM. NĪTIS.2,17.</ls> <ls>Verz. d. Oxf. H.4,a, No. 30.</ls> {#mAMsAttu medaso janma medaso 'sTi nirucyate#} {%die Knochen werden vom Fette abgeleitet%} 
-<ls>HARIV. 2179.</ls> {#nirukta#} {%ausgesprochen, in Worte gefasst, erklärt; deutlich gesprochen%} (Gegens. {#upAMSu): niruktamenaH kanIyo Bavati#} 
-<ls>ŚAT. BR. 2, 5, 2, 20.</ls> {#aniruktaH prajApatiH#} 
-<ls>14, 2, 2, 21.</ls> <ls>TAITT. UP. 2, 6. 7.</ls> {#ayameva svArTo BagavatyA vizRuBaktyA svAmino niruktaH#} 
-<ls>PRAB. 104, 18.</ls> 
-<ls>BHĀG. P. 5, 12, 9. 19, 20. 6, 4, 28. fg.</ls> {#nAnyattvadastyapi manovacasA #}
+<div n="p">— {#nis#}
+<div n="1"> 1) {%aussprechen, mit Worten bezeichnen, ausdrücklich nennen, erklären%}: {#yatpraTame pade devatA nirucyate#}
+<ls>AIT. BR. 4,29.</ls> {#aniruktAM devatAM niravocat#}
+<ls>ŚAT. BR. 10,3,5,15.</ls>
+<ls>NIR. 10,5.</ls> {#tasmAtsatyaM nirucyatAm#}
+<ls>MBH. 3,16892.</ls> {#nAmaDeyAni lokezu bahUnyasya yaTArTavat . nirucyante mahattvAcca viButvAcca karmaRastaTA ..#}
+<ls n="MBH.">7,9611.</ls> <ls n="MBH.">13,7523.</ls> <ls n="MBH.">12,236.</ls> {#SfRu putra yaTA hyeza puruzaH SASvato 'vyayaH . akzayaScAprameyaSca sarvagaSca nirucyate ..#}
+<ls n="MBH. 3,">13740.</ls> {#yAdavA yadunA cAgre nirucyante ca hEhayAH#}
+<ls>HARIV. 1898.</ls> {#vedA nirvaktumakzamAH#}
+<ls>PAÑCAR. 1,12,38.</ls> {#(yaH) nirucyamAna praSnaM necCet#} ({%der) eine an ihn gerichtete Frage nicht beantworten will%}
+<ls>M. 8,55.</ls> {#vidirjYAne nirucyate#} {%die Wurzel%} {#vid#} {%wird durch%} {#jYAna#} {%erklärt%}
+<ls>KĀM. NĪTIS. 2,17.</ls> <ls>Verz. d. Oxf. H. 4,a, No. 30.</ls> {#mAMsAttu medaso janma medaso 'sTi nirucyate#} {%die Knochen werden vom Fette abgeleitet%}
+<ls>HARIV. 2179.</ls> {#nirukta#} {%ausgesprochen, in Worte gefasst, erklärt; deutlich gesprochen%} (Gegens. {#upAMSu): niruktamenaH kanIyo Bavati#}
+<ls>ŚAT. BR. 2,5,2,20.</ls> {#aniruktaH prajApatiH#}
+<ls n="ŚAT. BR.">14,2,2,21.</ls> <ls>TAITT. UP. 2,6. 7.</ls> {#ayameva svArTo BagavatyA vizRuBaktyA svAmino niruktaH#}
+<ls>PRAB. 104,18.</ls>
+<ls>BHĀG. P. 5,12,9.</ls> <ls n="BHĀG. P. 5,">19,20.</ls> <ls n="BHĀG. P.">6,4,28. fg.</ls> {#nAnyattvadastyapi manovacasA #}
 [Page6-0624]
-{# niruktam#} 
-<ls>7, 9, 48. 8, 5, 26.</ls> {#akzOhiRI tu paryAyErniruktA ca varUTinI#} 
-<ls>MBH. 5, 5267.</ls> 
-<ls>BHĀG. P. 7, 14, 34.</ls> {#yanniruktaM niDanamupeyuH#} 
-<ls>PAÑCAV. BR. 17, 1, 8. 18, 6, 9.</ls> {#nirukta Endra upAMSu prajApatyaH#} 
-<ls>ŚĀṄKH. ŚR. 17, 7, 9.</ls> 
-<ls>ŚAT. BR. 1, 4, 4, 2. 4, 1, 3, 16. 14, 1, 2, 18.</ls> {#yA paYcamI tAM niruktAniruktAmiva gAyet#} 
-<ls>ṢAḌV. BR. 2, 2.</ls> 
-<ls>PAÑCAV. BR. 7, 1, 8.</ls> 
-<ls>CHĀND. UP. 1, 13, 3. 2, 22, 1.</ls> von Versen, {%welche die Götternamen ausdrücklich enthalten%}: {#niruktaM vESvAnaraM yajati#} 
-<ls>ŚĀṄKH. BR. 19, 4.</ls> 
-<ls>LĀṬY. 1, 4, 5.</ls> {#AgneyyAvanirukte#} {%Verse an%} <is>Agni</is>, {%in welchen aber sein Name nicht vorkommt%}, 
-<ls>ĀŚV. ŚR. 2, 14, 32.</ls> {%ausdrücklich genannt, - vorgeschrieben%} 
-<ls>GṚHY. 1, 22, 27.</ls> {#tadidaM vacanaM tezAM niruktaM vE#} {%ist erklärt%} so v. a. {%hat sich bewährt, ist in Erfüllung gegangen%} 
-<ls>MBH. 9, 1316.</ls> 
-<div n="1">— 2) {%wegsprechen, durch Worte vertreiben%}: {#Sa\lyAnnira^vocama\haM vi\zam#} 
-<ls>AV. 4, 6, 4.</ls> {#yakzma\maNge^ByaH#} 
-<ls>5, 30, 8. 16. 9, 8, 10.</ls> 
-<div n="v">— Vgl. {#nirukta#} (in der Bed. 2.: {#niruktamasya yo veda#} 
-<ls>Verz. d. Oxf. H. 50,a,18.</ls> {#saniruktAM svasaMhitAm#} 
-<ls>BHĀG. P. 12, 6, 58</ls>), {#nirukti, nirvaktavya#} fg., {#nirvacanIya, nirvAka, nirvAcya#} .
-
-<div n="p">— {#parA#} {%widersprechen, zurückweisen%} (Gegens. {#anu#}) 
-<ls>ŚAT. BR. 1, 4, 5, 12.</ls> 
+{# niruktam#}
+<ls n="BHĀG. P.">7,9,48.</ls> <ls n="BHĀG. P.">8,5,26.</ls> {#akzOhiRI tu paryAyErniruktA ca varUTinI#}
+<ls>MBH. 5,5267.</ls>
+<ls>BHĀG. P. 7,14,34.</ls> {#yanniruktaM niDanamupeyuH#}
+<ls>PAÑCAV. BR. 17,1,8. 18,6,9.</ls> {#nirukta Endra upAMSu prajApatyaH#}
+<ls>ŚĀṄKH. ŚR. 17,7,9.</ls>
+<ls>ŚAT. BR. 1,4,4,2.</ls> <ls n="ŚAT. BR.">4,1,3,16.</ls> <ls n="ŚAT. BR.">14,1,2,18.</ls> {#yA paYcamI tAM niruktAniruktAmiva gAyet#}
+<ls>ṢAḌV. BR. 2,2.</ls>
+<ls>PAÑCAV. BR. 7,1,8.</ls>
+<ls>CHĀND. UP. 1,13,3.</ls> <ls n="CHĀND. UP.">2,22,1.</ls> von Versen, {%welche die Götternamen ausdrücklich enthalten%}: {#niruktaM vESvAnaraM yajati#}
+<ls>ŚĀṄKH. BR. 19,4.</ls>
+<ls>LĀṬY. 1,4,5.</ls> {#AgneyyAvanirukte#} {%Verse an%} <is>Agni</is>, {%in welchen aber sein Name nicht vorkommt%},
+<ls>ĀŚV. ŚR. 2,14,32.</ls> {%ausdrücklich genannt, — vorgeschrieben%}
+<ls>GṚHY. 1,22,27.</ls> {#tadidaM vacanaM tezAM niruktaM vE#} {%ist erklärt%} so v. a. {%hat sich bewährt, ist in Erfüllung gegangen%}
+<ls>MBH. 9,1316.</ls>
+<div n="1">— 2) {%wegsprechen, durch Worte vertreiben%}: {#Sa\lyAnnira^vocama\haM vi\zam#}
+<ls>AV. 4,6,4.</ls> {#yakzma\maNge^ByaH#}
+<ls n="AV.">5,30,8.</ls> <ls n="AV. 5,30,">16.</ls> <ls n="AV.">9,8,10.</ls>
+<div n="v">— Vgl. {#nirukta#} (in der Bed. 2.: {#niruktamasya yo veda#}
+<ls>Verz. d. Oxf. H. 50,a,18.</ls> {#saniruktAM svasaMhitAm#}
+<ls>BHĀG. P. 12,6,58</ls>), {#nirukti, nirvaktavya#} fg., {#nirvacanIya, nirvAka, nirvAcya#} .
+<div n="p">— {#parA#} {%widersprechen, zurückweisen%} (Gegens. {#anu#})
+<ls>ŚAT. BR. 1,4,5,12.</ls>
 <div n="v">— Vgl. {#parAvAka, parocya#} .
-
-<div n="p">— {#pari#} {%besprechen%} (mit einem Spruche): {#brA\hma\Rena\ paryu^ktAsi#} 
-<ls>AV. 4, 19, 2.</ls>
-
-<div n="p">— {#pra#} 
-<div n="1"> 1) {%verkünden, melden, mittheilen, aufführen, erwähnen; preisen; Jmd%} (dat. gen.) {%Etwas ankünden, lehren, praecipere%}: {#sa\nima^gne de\vezu\ pra vo^caH#} 
-<ls>ṚV. 1, 27, 4.</ls> <ls n="ṚV.">6, 15, 10.</ls> 
-<ls>AV. 7, 78, 2.</ls> {#indra^sya\ nu vI\ryA^Ri\ pra vo^cam#} 
-<ls>ṚV. 1, 32, 1.</ls> <ls n="ṚV. 1,">167, 7.</ls> {#a\gnirmahya\M predu^ vocanmanI\zAm#} 
-<ls n="ṚV.">4, 5, 3.</ls> {#pra sA vA^ci suzwu\tiH#} 
-<ls n="ṚV.">7, 58, 6.</ls> {#pra no^ vo\co 'nA^gaso arya\mRe#} 
-<ls n="ṚV. 7,">62, 2.</ls> <ls n="ṚV. 7,">70, 1.</ls> <ls n="ṚV. 7,">86, 4.</ls> {#pra nu vo^caM ciki\tuze\ janA^ya\ mA gAmanA^gA\madi^tiM vaDizwa#} 
-<ls n="ṚV.">8, 90, 15.</ls> <ls n="ṚV.">10, 113, 9.</ls> <ls n="ṚV. 10,">139, 6.</ls> {#guhyA^ni\ nAmA\vizkf^Roti ba\rhizi^ pra\vAce^#} 
-<ls n="ṚV.">9, 95, 2.</ls> <ls>AV. 2, 1, 2.</ls> <ls>AIT. BR. 6, 34.</ls> {#tasmA etaM rAjasUyaM yajYakratuM provAca#} 
-<ls>7, 15.</ls> {#sUktam#} 
-<ls>NIR. 10, 32.</ls> {#vedAn#} 
-<ls>ŚAT. BR. 3, 2, 4, 5. 6, 3, 3, 12. 10, 4, 2, 1.</ls> 
-<ls>KĀTY. ŚR. 4, 2, 19.</ls> {#tasmE hAprocyEva pravAsAM cakre#} 
-<ls>CHĀND. UP. 4, 10, 2. 8, 8, 4.</ls> 
-<ls>M. 2, 89. 3, 22. 124. 266. 5, 57. 7, 36. 8, 266. 9, 56.</ls> 
-<ls>BHAG. 4, 1. 8, 11.</ls> 
-<ls>MBH. 1, 6148.</ls> 
-<ls>HARIV. 9622.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 4, 75. 5, 84, 4. 88, 8.</ls> 
-<ls>VARĀH. BṚH. S. 1, 11. 11, 53. 25, 1. 41, 1. 43, 11. 45, 1. 46, 1. 54, 62.</ls> 
-<ls>KATHĀS. 1, 60.</ls> 
-<ls>BHĀG. P. 1, 2, 1. 4, 1, 12.</ls> {#brahma sanAtanam . nAradAya vocantam#} (acc. partic.) 
-<ls>?6, 37. MĀRK. P. 54, 8. BRAHMA-P. in LA. (III) 49, 6. PAÑCAR. 1, 1, 23.</ls> {#AtmacaritavfttAntaM parasparaM procatuH#} 
-<ls>PAÑCAT. 116, 1.</ls> {#omiti brAhmaRaH pravakzyannAha#} {%praecepturus%} 
-<ls>TAITT. UP. 1, 8.</ls> {#nEva tasya vapuH SakyaM pravaktuM veza eva ca#} {%lässt sich nicht mittheilen, - beschreiben%} 
-<ls>MBH. 10, 222.</ls> {#adya bArhaspataH SrImAnyuktaH puzyeRa#} (so ist zu lesen) {#procyate brAhmaREH#} 
-<ls>R. 2, 26, 9 (11 GORR.).</ls> <ls>H. 19.</ls> {#prokta#} {%verkündet, mitgetheilt, gelehrt, aufgeführt, erwähnt%} 
-<ls>M. 2, 68. 5, 110. 7, 98. 12, 126.</ls> 
-<ls>P. 4, 2, 64. 3, 101.</ls> Einl. 1. <ls>VARĀH. BṚH. S. 45, 1.</ls> <ls>BHĀG. P. 2, 9, 43. 8, 13, 37.</ls> {#(ayaM paSuDarmaH) manuzyARAmapi prokto veRe rAjyaM praSAsati#} {%wird auch bei den Menschen erwähnt, soll auch bei den Menschen stattgefunden haben%} 
-<ls>M. 9, 66.</ls> {#yAH kardamasutAH proktA nava brahmarzipatnayaH#} 
-<ls>BHĀG. P. 4, 1, 12.</ls> {#saMjYaptaH paSuriti prokte#} {%wenn angezeigt ist%} 
-<ls>KĀTY. ŚR. 6, 5, 23.</ls> {%Jmd verrathen%}: {#yo mA\ prAvo^caH#} 
-<ls>TS. 2, 6, 6, 1. 3, 5, 2, 1.</ls> 
-<div n="1">— 2) {%überweisen, überantworten%}: {#mA no^ agne durBf\taye\ pra vo^caH#} 
-<ls>ṚV. 7, 1, 22.</ls> {#pra Ra\H pU\rva^smE suvi\tAya^ vocata#} 
-<ls n="ṚV.">8, 27, 10.</ls> {#viSaM rAjYe#} 
-<ls>PAÑCAV. BR. 21, 1, 1.</ls> {#teByo ha pfTagAvasaTAnprovAca#} 
-<ls>ŚAT. BR. 10, 6, 1, 2.</ls> 
-<div n="1">— 3) {%sagen, sprechen%} 
-<ls>MBH. 2, 503. 5, 7487.</ls> 
-<ls>KATHĀS. 3, 48.</ls> 
-<ls>PAÑCAT. 4, 14. 77, 1. 96, 25.</ls> {#ataH procyate#} impers. 
-<ls>49, 5.</ls> {#samudra ityevaM procyate#}
+<div n="p">— {#pari#} {%besprechen%} (mit einem Spruche): {#brA\hma\Rena\ paryu^ktAsi#}
+<ls>AV. 4,19,2.</ls>
+<div n="p">— {#pra#}
+<div n="1"> 1) {%verkünden, melden, mittheilen, aufführen, erwähnen; preisen; Jmd%} (dat. gen.) {%Etwas ankünden, lehren, praecipere%}: {#sa\nima^gne de\vezu\ pra vo^caH#}
+<ls>ṚV. 1,27,4.</ls> <ls n="ṚV.">6,15,10.</ls>
+<ls>AV. 7,78,2.</ls> {#indra^sya\ nu vI\ryA^Ri\ pra vo^cam#}
+<ls>ṚV. 1,32,1.</ls> <ls n="ṚV. 1,">167,7.</ls> {#a\gnirmahya\M predu^ vocanmanI\zAm#}
+<ls n="ṚV.">4,5,3.</ls> {#pra sA vA^ci suzwu\tiH#}
+<ls n="ṚV.">7,58,6.</ls> {#pra no^ vo\co 'nA^gaso arya\mRe#}
+<ls n="ṚV. 7,">62,2.</ls> <ls n="ṚV. 7,">70,1.</ls> <ls n="ṚV. 7,">86,4.</ls> {#pra nu vo^caM ciki\tuze\ janA^ya\ mA gAmanA^gA\madi^tiM vaDizwa#}
+<ls n="ṚV.">8,90,15.</ls> <ls n="ṚV.">10,113,9.</ls> <ls n="ṚV. 10,">139,6.</ls> {#guhyA^ni\ nAmA\vizkf^Roti ba\rhizi^ pra\vAce^#}
+<ls n="ṚV.">9,95,2.</ls> <ls>AV. 2,1,2.</ls> <ls>AIT. BR. 6,34.</ls> {#tasmA etaM rAjasUyaM yajYakratuM provAca#}
+<ls n="AIT. BR.">7,15.</ls> {#sUktam#}
+<ls>NIR. 10,32.</ls> {#vedAn#}
+<ls>ŚAT. BR. 3,2,4,5.</ls> <ls n="ŚAT. BR.">6,3,3,12.</ls> <ls n="ŚAT. BR.">10,4,2,1.</ls>
+<ls>KĀTY. ŚR. 4,2,19.</ls> {#tasmE hAprocyEva pravAsAM cakre#}
+<ls>CHĀND. UP. 4,10,2.</ls> <ls n="CHĀND. UP.">8,8,4.</ls>
+<ls>M. 2,89.</ls> <ls n="M.">3,22.</ls> <ls n="M. 3,">124.</ls> <ls n="M. 3,">266.</ls> <ls n="M.">5,57.</ls> <ls n="M.">7,36.</ls> <ls n="M.">8,266.</ls> <ls n="M.">9,56.</ls>
+<ls>BHAG. 4,1. 8,11.</ls>
+<ls>MBH. 1,6148.</ls>
+<ls>HARIV. 9622.</ls>
+<ls>R. GORR. 1,4,75.</ls> <ls n="R. GORR.">5,84,4.</ls> <ls n="R. GORR. 5,">88,8.</ls>
+<ls>VARĀH. BṚH. S. 1,11. 11,53. 25,1. 41,1. 43,11. 45,1. 46,1. 54,62.</ls>
+<ls>KATHĀS. 1,60.</ls>
+<ls>BHĀG. P. 1,2,1.</ls> <ls n="BHĀG. P.">4,1,12.</ls> {#brahma sanAtanam . nAradAya vocantam#} (acc. partic.)
+<ls n="BHĀG. P. 4,">6,37.</ls> <ls>MĀRK. P. 54,8.</ls> <ls>BRAHMA-P. in LA. (III) 49,6.</ls> <ls>PAÑCAR. 1,1,23.</ls> {#AtmacaritavfttAntaM parasparaM procatuH#}
+<ls>PAÑCAT. 116,1.</ls> {#omiti brAhmaRaH pravakzyannAha#} {%praecepturus%}
+<ls>TAITT. UP. 1,8.</ls> {#nEva tasya vapuH SakyaM pravaktuM veza eva ca#} {%lässt sich nicht mittheilen, — beschreiben%}
+<ls>MBH. 10,222.</ls> {#adya bArhaspataH SrImAnyuktaH puzyeRa#} (so ist zu lesen) {#procyate brAhmaREH#}
+<ls>R. 2,26,9</ls> (<ls n="GORR. 2,26,">11</ls> <ls>GORR.</ls>). <ls>H. 19.</ls> {#prokta#} {%verkündet, mitgetheilt, gelehrt, aufgeführt, erwähnt%}
+<ls>M. 2,68.</ls> <ls n="M.">5,110.</ls> <ls n="M.">7,98.</ls> <ls n="M.">12,126.</ls>
+<ls>P. 4,2,64.</ls> <ls n="P. 4,">3,101.</ls> Einl. 1. <ls>VARĀH. BṚH. S. 45,1.</ls> <ls>BHĀG. P. 2,9,43.</ls> <ls n="BHĀG. P.">8,13,37.</ls> {#(ayaM paSuDarmaH) manuzyARAmapi prokto veRe rAjyaM praSAsati#} {%wird auch bei den Menschen erwähnt, soll auch bei den Menschen stattgefunden haben%}
+<ls>M. 9,66.</ls> {#yAH kardamasutAH proktA nava brahmarzipatnayaH#}
+<ls>BHĀG. P. 4,1,12.</ls> {#saMjYaptaH paSuriti prokte#} {%wenn angezeigt ist%}
+<ls>KĀTY. ŚR. 6,5,23.</ls> {%Jmd verrathen%}: {#yo mA\ prAvo^caH#}
+<ls>TS. 2,6,6,1.</ls> <ls n="TS.">3,5,2,1.</ls>
+<div n="1">— 2) {%überweisen, überantworten%}: {#mA no^ agne durBf\taye\ pra vo^caH#}
+<ls>ṚV. 7,1,22.</ls> {#pra Ra\H pU\rva^smE suvi\tAya^ vocata#}
+<ls n="ṚV.">8,27,10.</ls> {#viSaM rAjYe#}
+<ls>PAÑCAV. BR. 21,1,1.</ls> {#teByo ha pfTagAvasaTAnprovAca#}
+<ls>ŚAT. BR. 10,6,1,2.</ls>
+<div n="1">— 3) {%sagen, sprechen%}
+<ls>MBH. 2,503.</ls> <ls n="MBH.">5,7487.</ls>
+<ls>KATHĀS. 3,48.</ls>
+<ls>PAÑCAT. 4,14.</ls> <ls n="PAÑCAT.">77,1.</ls> <ls n="PAÑCAT.">96,25.</ls> {#ataH procyate#} impers.
+<ls n="PAÑCAT.">49,5.</ls> {#samudra ityevaM procyate#}
 [Page6-0625]
-
-<ls>PRAŚNOP. 6, 5.</ls> {#kumArilasvAminA proktam#} 
-<ls>PRAB. 110, 9.</ls> {#tattatprocya#} 
-<ls>MBH. 5, 888.</ls> 
-<ls>R. 1, 62, 16.</ls> 
-<ls>Spr. 155.</ls> {#vAkyam#} 
-<ls>HARIV. 7286.</ls> 
-<ls>R. 1, 4, 9.</ls> 
-<ls>RĀJA-TAR. 5, 367.</ls> {#na prAvocamahaM kiMcitpriyaM yAvadajIvizam#} 
-<ls>BHAṬṬ. 15, 11.</ls> {#procyamAnaSrutiBiH#} so v. a. {%erschallend%} 
-<ls>BHĀG. P. 5, 2, 4.</ls> {#mantriproktanizevin#} {%das was der Minister sagt%} 
-<ls>VARĀH. BṚH. S. 74, 3.</ls> — {#teBya evaM pravakzyAmi#} {%so will ich zu ihnen sprechen%} 
-<ls>MBH. 4, 65.</ls> gewöhnlich mit acc. der Person: {#rAjA provAca BImam#} 
-<ls>3, 15673. 15788. 5, 7332.</ls> <ls>R. 1, 9, 46.</ls> <ls>BHĀG. P. 3, 23, 22.</ls> <ls>BHAṬṬ. 7, 47.</ls> {#svAgataM tu iti proktA tEH#} 
-<ls>MBH. 3, 2468.</ls> 
-<ls>Spr. 1927.</ls> 
-<ls>ŚUK.</ls> in <ls>LA. (III) 33, 15.</ls> mit dopp. acc.: {#taM pravakzyAmi BAratIm#} 
-<ls>R. 2, 64, 37.</ls> 
-<div n="1">— 4) {%erklären für, nennen%}: {#te maRimaDyaM procuridam#} 
-<ls>ŚRUT. 17.</ls> {#prokta#} {%genannt, erklärt für, geltend%}: {#Apo nArA iti proktAH#} 
-<ls>M. 1, 10. 9, 138.</ls> 
-<ls>SĀṂKHYAK. ed. LASS. 23.</ls> <ls>ŚRUT. 9.</ls> <ls>VARĀH. BṚH. S. 88, 5. 7.</ls> <ls>VET.</ls> in <ls>LA. (III) 8, 11.</ls> <ls>TRIK. 2, 4, 25.</ls> {#tapomUlamidaM sarvaM dEvamAnuzakaM suKam . tapomaDyaM buDEH proktaM tapo'ntyaM vedadarSaBiH ..#} 
-<ls>M. 11, 234.</ls> 
-<ls>BHAG. 17, 18.</ls> 
-<ls>Spr. 5398.</ls> 
-<ls>H. 1242.</ls> {#kAkayavAH proktAH#} {%die sogenannte Krähengerste%} 
-<ls>Spr. 2300.</ls> {#raRaproktena karmaRA#} {%genannt Schlacht%} 
-<ls>HARIV. 5702.</ls> {#uditaM proktamudgate#} (so ist zu lesen) d. i. {#udita#} {%bedeutet%} so v. a. {#udgata#} 
-<ls>TRIK. 3, 3, 150.</ls> — {#proktvA#} 
-<ls>PAÑCAT. 97, 14</ls> ist eine falsche Form für {#procya#} . 
-<div n="v">— Vgl. {#pravaktar#} fg., {#pravacana#} fg., {#pravAka, pravAcya#} (in der Bed. 
-<div n="1"> 1) {%b)%} auch 
-<ls>HARIV. (7178)</ls>, {#purARaprokta#} . — caus. {%verkünden lassen%} 
-<ls>GOBH. 1, 3, 19.</ls> 
-<div n="v">— Vgl. {#pravAcana#} . — desid. scheinbar 
-<ls>MBH. 12, 3767</ls>, wo aber mit der ed. Bomb. {#pravivikzataH#} zu lesen ist.
-
+<ls>PRAŚNOP. 6,5.</ls> {#kumArilasvAminA proktam#}
+<ls>PRAB. 110,9.</ls> {#tattatprocya#}
+<ls>MBH. 5,888.</ls>
+<ls>R. 1,62,16.</ls>
+<ls>Spr. 155.</ls> {#vAkyam#}
+<ls>HARIV. 7286.</ls>
+<ls>R. 1,4,9.</ls>
+<ls>RĀJA-TAR. 5,367.</ls> {#na prAvocamahaM kiMcitpriyaM yAvadajIvizam#}
+<ls>BHAṬṬ. 15,11.</ls> {#procyamAnaSrutiBiH#} so v. a. {%erschallend%}
+<ls>BHĀG. P. 5,2,4.</ls> {#mantriproktanizevin#} {%das was der Minister sagt%}
+<ls>VARĀH. BṚH. S. 74,3.</ls> — {#teBya evaM pravakzyAmi#} {%so will ich zu ihnen sprechen%}
+<ls>MBH. 4,65.</ls> gewöhnlich mit acc. der Person: {#rAjA provAca BImam#}
+<ls n="MBH.">3,15673.</ls> <ls n="MBH. 3,">15788.</ls> <ls n="MBH.">5,7332.</ls> <ls>R. 1,9,46.</ls> <ls>BHĀG. P. 3,23,22.</ls> <ls>BHAṬṬ. 7,47.</ls> {#svAgataM tu iti proktA tEH#}
+<ls>MBH. 3,2468.</ls>
+<ls>Spr. 1927.</ls>
+<ls>ŚUK. in LA. (III) 33,15.</ls> mit dopp. acc.: {#taM pravakzyAmi BAratIm#}
+<ls>R. 2,64,37.</ls>
+<div n="1">— 4) {%erklären für, nennen%}: {#te maRimaDyaM procuridam#}
+<ls>ŚRUT. 17.</ls> {#prokta#} {%genannt, erklärt für, geltend%}: {#Apo nArA iti proktAH#}
+<ls>M. 1,10.</ls> <ls n="M.">9,138.</ls>
+<ls>SĀṂKHYAK. ed.</ls> <ls>LASS. 23.</ls> <ls>ŚRUT. 9.</ls> <ls>VARĀH. BṚH. S. 88,5. 7.</ls> <ls>VET. in LA. (III) 8,11.</ls> <ls>TRIK. 2,4,25.</ls> {#tapomUlamidaM sarvaM dEvamAnuzakaM suKam . tapomaDyaM buDEH proktaM tapo'ntyaM vedadarSaBiH ..#}
+<ls>M. 11,234.</ls>
+<ls>BHAG. 17,18.</ls>
+<ls>Spr. 5398.</ls>
+<ls>H. 1242.</ls> {#kAkayavAH proktAH#} {%die sogenannte Krähengerste%}
+<ls>Spr. 2300.</ls> {#raRaproktena karmaRA#} {%genannt Schlacht%}
+<ls>HARIV. 5702.</ls> {#uditaM proktamudgate#} (so ist zu lesen) <ab>d. i.</ab> {#udita#} {%bedeutet%} so v. a. {#udgata#}
+<ls>TRIK. 3,3,150.</ls> — {#proktvA#}
+<ls>PAÑCAT. 97,14</ls> ist eine falsche Form für {#procya#} .
+<div n="v">— Vgl. {#pravaktar#} fg., {#pravacana#} fg., {#pravAka, pravAcya#} (in der Bed.
+<div n="1"> 1) {%b)%} auch
+<ls>HARIV. 7178</ls>), {#purARaprokta#} . — caus. {%verkünden lassen%}
+<ls>GOBH. 1,3,19.</ls>
+<div n="v">— Vgl. {#pravAcana#} . — desid. scheinbar
+<ls>MBH. 12,3767</ls>, wo aber mit der <ls>ed. Bomb.</ls> {#pravivikzataH#} zu lesen ist.
 <div n="p">— {#anupra#} s. {#anupravacana#} .
-
-<div n="p">— {#paripra#} {%Jmd%} (acc.) {%schelten, Jmd Vorwürfe machen%}: {#mA tvAgnayaH paripravocan#} 
-<ls>CHĀND. UP. 4, 10, 2.</ls>
-
-<div n="p">— {#pratipra#} 
-<div n="1"> 1) {%anzeigen, melden%}: {#a\gnaye^ prati\procya^ vra\tamAla^Bate#} 
-<ls>TS. 1, 6, 7, 2. 3, 1, 5, 1.</ls> 
-<ls>TBR. 3, 2, 2, 4. 8, 3, 1.</ls> {#tAM hEBya AgatAM pratiprovAca#} 
-<ls>ŚAT. BR. 3, 2, 1, 22.</ls> 
-<div n="1">— 2) {%erwiedern, antworten%} 
-<ls>AIT. BR. 6, 34.</ls> {#guruREvaM pratiproktaH#} 
-<ls>BHĀG. P. 7, 5, 29.</ls>
-
-<div n="p">— {#saMpra#} 
-<div n="1"> 1) {%zusammen erklären%} 
-<ls>ŚĀṄKH. BR. 7, 4.</ls> 
-<div n="1">— 2) {%Etwas verkünden, mittheilen%} 
-<ls>M.8,229.</ls> <ls>MBH.1,2601.2,488.3,144. 1838.7,2025.</ls> <ls>HARIV. 4564.</ls> <ls>ŚRUT. 1.</ls> <ls>VARĀH. LAGHUJ.1,2</ls> in <ls>Ind. St.2,277.</ls> <ls>BHĀG. P.3,26,1.</ls> <ls>MĀRK. P. 40,1.</ls> <ls>Verz. d. Oxf. H.7,b, No. 43, Z. 5.</ls> {#saMprokta#} 
-<ls>?14,a, N. MBH. 12,7842. PAÑCAR.3,9,8.</ls> {%nennen, angeben%}: {#yAdfSA DaniBiH kAryA vyavahArezu sAkziRaH . tAdfSAnsaMpravakzyAmi#} 
-<ls>M. 8, 61.</ls> 
-<ls>R. 6, 3, 1.</ls> 
-<div n="1">— 3) {%zu Jmd%} (acc.) {%sagen%}: {#putreRa mama saMproktaH#} (die ed. Bomb. hat eine andere Lesart) 
-<ls>MBH. 6, 2235.</ls>
-
-<div n="p">— {#prati#} 
-<div n="1"> 1) {%verkünden, melden%} 
-<ls>ṚV. 1, 41, 8</ls> (med.). 
-<div n="1">— 2) {%antworten, erwiedern%} 
-<ls>VS. 23, 51.</ls> {#mana^Scinme hf\da A pratya^vocat#} 
-<ls>ṚV. 8, 89, 5.</ls> {#sa ekayA pfzwo daSaBiH pratyuvAca#} 
-<ls>AIT. BR. 7, 13.</ls> 
-<ls>M. 1, 4.</ls> 
-<ls>MBH. 3, 2164. 2245. 5, 7480.</ls> 
-<ls>R. 3, 53, 61. 55, 23.</ls> 
-<ls>KUMĀRAS. 5, 40.</ls> 
-<ls>KATHĀS. 1, 34.</ls> 
-<ls>BHĀG. P. 2, 4, 11. 3, 2, 1.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 52, 11.</ls> {#uttaram#} 
-<ls>RAGH. 3, 47.</ls> {#tadeza SlokaH pratyuktaH#} 
-<ls>ŚAT. BR. 12, 3, 2, 8.</ls> {#prAtarvaH#} (acc.) {#prativaktAsmi#} 
-<ls>AIT. BR. 3, 22.</ls> 
-<ls>ŚAT. BR. 11, 5, 1, 7.</ls> 
-<ls>CHĀND. UP. 2, 22, 3. 5, 11, 7.</ls> 
-<ls>MBH. 3, 2156. 2521. 2812. 3056. 5, 5433. 7377.</ls> 
-<ls>R. 1, 9, 10. 42, 9. 52, 19. 63, 20.</ls> {#apratyuktvA tAnfzIn#} 
-<ls>74, 23 (76, 27</ls> <ls>GORR.</ls>; die ed. Bomb. hat eine andere Lesart). 
-<ls>2, 12, 63. 31, 18. 34, 9. 3, 53, 43.</ls> <ls>KATHĀS. 17, 127. 18, 339. 20, 58. 22, 87. 235. 24, 15. 30. 28, 234. 32, 157. 33, 56. 34, 148. 49, 156.</ls> <ls>BHĀG. P. 1, 13, 34.</ls> <ls>MĀRK. P. 21, 55.</ls> <ls>BHAṬṬ. 5, 23. 46. 6, 99. 7, 87.</ls> {#pratyukta#} {%Antwort empfangen habend%}
+<div n="p">— {#paripra#} {%Jmd%} (acc.) {%schelten, Jmd Vorwürfe machen%}: {#mA tvAgnayaH paripravocan#}
+<ls>CHĀND. UP. 4,10,2.</ls>
+<div n="p">— {#pratipra#}
+<div n="1"> 1) {%anzeigen, melden%}: {#a\gnaye^ prati\procya^ vra\tamAla^Bate#}
+<ls>TS. 1,6,7,2.</ls> <ls n="TS.">3,1,5,1.</ls>
+<ls>TBR. 3,2,2,4. 8,3,1.</ls> {#tAM hEBya AgatAM pratiprovAca#}
+<ls>ŚAT. BR. 3,2,1,22.</ls>
+<div n="1">— 2) {%erwiedern, antworten%}
+<ls>AIT. BR. 6,34.</ls> {#guruREvaM pratiproktaH#}
+<ls>BHĀG. P. 7,5,29.</ls>
+<div n="p">— {#saMpra#}
+<div n="1"> 1) {%zusammen erklären%}
+<ls>ŚĀṄKH. BR. 7,4.</ls>
+<div n="1">— 2) {%Etwas verkünden, mittheilen%}
+<ls>M. 8,229.</ls> <ls>MBH. 1,2601.</ls> <ls n="MBH.">2,488.</ls> <ls n="MBH.">3,144.</ls> <ls n="MBH. 3,">1838.</ls> <ls n="MBH.">7,2025.</ls> <ls>HARIV. 4564.</ls> <ls>ŚRUT. 1.</ls> <ls>VARĀH. LAGHUJ. 1,2</ls> in <ls>Ind. St. 2,277.</ls> <ls>BHĀG. P. 3,26,1.</ls> <ls>MĀRK. P. 40,1.</ls> <ls>Verz. d. Oxf. H. 7,b, No. 43, Z. 5.</ls> {#saMprokta#}
+<ls n="Verz. d. Oxf. H.">14,a, N.</ls> <ls>MBH. 12,7842.</ls> <ls>PAÑCAR. 3,9,8.</ls> {%nennen, angeben%}: {#yAdfSA DaniBiH kAryA vyavahArezu sAkziRaH . tAdfSAnsaMpravakzyAmi#}
+<ls>M. 8,61.</ls>
+<ls>R. 6,3,1.</ls>
+<div n="1">— 3) {%zu Jmd%} (acc.) {%sagen%}: {#putreRa mama saMproktaH#} (die <ls>ed. Bomb.</ls> hat eine andere Lesart)
+<ls>MBH. 6,2235.</ls>
+<div n="p">— {#prati#}
+<div n="1"> 1) {%verkünden, melden%}
+<ls>ṚV. 1,41,8</ls> (med.).
+<div n="1">— 2) {%antworten, erwiedern%}
+<ls>VS. 23,51.</ls> {#mana^Scinme hf\da A pratya^vocat#}
+<ls>ṚV. 8,89,5.</ls> {#sa ekayA pfzwo daSaBiH pratyuvAca#}
+<ls>AIT. BR. 7,13.</ls>
+<ls>M. 1,4.</ls>
+<ls>MBH. 3,2164.</ls> <ls n="MBH. 3,">2245.</ls> <ls n="MBH.">5,7480.</ls>
+<ls>R. 3,53,61.</ls> <ls n="R. 3,">55,23.</ls>
+<ls>KUMĀRAS. 5,40.</ls>
+<ls>KATHĀS. 1,34.</ls>
+<ls>BHĀG. P. 2,4,11.</ls> <ls n="BHĀG. P.">3,2,1.</ls>
+<ls>BRAHMA-P. in LA. (III) 52,11.</ls> {#uttaram#}
+<ls>RAGH. 3,47.</ls> {#tadeza SlokaH pratyuktaH#}
+<ls>ŚAT. BR. 12,3,2,8.</ls> {#prAtarvaH#} (acc.) {#prativaktAsmi#}
+<ls>AIT. BR. 3,22.</ls>
+<ls>ŚAT. BR. 11,5,1,7.</ls>
+<ls>CHĀND. UP. 2,22,3.</ls> <ls n="CHĀND. UP.">5,11,7.</ls>
+<ls>MBH. 3,2156.</ls> <ls n="MBH. 3,">2521.</ls> <ls n="MBH. 3,">2812.</ls> <ls n="MBH. 3,">3056.</ls> <ls n="MBH.">5,5433.</ls> <ls n="MBH. 5,">7377.</ls>
+<ls>R. 1,9,10.</ls> <ls n="R. 1,">42,9.</ls> <ls n="R. 1,">52,19.</ls> <ls n="R. 1,">63,20.</ls> {#apratyuktvA tAnfzIn#}
+<ls n="R. 1,">74,23</ls> (<ls n="GORR. 1,">76,27</ls> <ls>GORR.</ls>; die <ls>ed. Bomb.</ls> hat eine andere Lesart).
+<ls n="R.">2,12,63.</ls> <ls n="R. 2,">31,18.</ls> <ls n="R. 2,">34,9.</ls> <ls n="R.">3,53,43.</ls> <ls>KATHĀS. 17,127.</ls> <ls n="KATHĀS.">18,339.</ls> <ls n="KATHĀS.">20,58.</ls> <ls n="KATHĀS.">22,87.</ls> <ls n="KATHĀS. 22,">235.</ls> <ls n="KATHĀS.">24,15.</ls> <ls n="KATHĀS. 24,">30.</ls> <ls n="KATHĀS.">28,234.</ls> <ls n="KATHĀS.">32,157.</ls> <ls n="KATHĀS.">33,56.</ls> <ls n="KATHĀS.">34,148.</ls> <ls n="KATHĀS.">49,156.</ls> <ls>BHĀG. P. 1,13,34.</ls> <ls>MĀRK. P. 21,55.</ls> <ls>BHAṬṬ. 5,23. 46. 6,99. 7,87.</ls> {#pratyukta#} {%Antwort empfangen habend%}
 [Page6-0626]
-
-<ls>AIT. BR. 6, 34.</ls> {#evaM tayAhaM vakroktyA pratyuktaH#} 
-<ls>KATHĀS. 124, 135.</ls> {#taM kfzRaH pratyuvAcedam#} 
-<ls>MBH. 2, 1226. 7, 1990.</ls> 
-<ls>R. 2, 57, 19.</ls> {#vAkyaM pratyuvAca mahIpatim#} 
-<ls>1, 23, 1. 2, 68, 1.</ls> {#aNgade tu SuBaM vAkyaM pratyukte plavagarzaBEH#} 
-<ls>5, 1, 89.</ls> {%beantworten%}: {#prativaktAsmi te vacaH#} 
-<ls>MBH. 14, 1700.</ls> 
-<ls>NIR. 1, 14.</ls> 
+<ls>AIT. BR. 6,34.</ls> {#evaM tayAhaM vakroktyA pratyuktaH#}
+<ls>KATHĀS. 124,135.</ls> {#taM kfzRaH pratyuvAcedam#}
+<ls>MBH. 2,1226.</ls> <ls n="MBH.">7,1990.</ls>
+<ls>R. 2,57,19.</ls> {#vAkyaM pratyuvAca mahIpatim#}
+<ls n="R.">1,23,1.</ls> <ls n="R.">2,68,1.</ls> {#aNgade tu SuBaM vAkyaM pratyukte plavagarzaBEH#}
+<ls n="R.">5,1,89.</ls> {%beantworten%}: {#prativaktAsmi te vacaH#}
+<ls>MBH. 14,1700.</ls>
+<ls>NIR. 1,14.</ls>
 <div n="v">— Vgl. {#uktapratyukta, prativaktavya#} fg., {#pratyukta#} fg.
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%kundmachen, anzeigen; deutlich machen, erklären, lösen%} (eine Frage) 
-<ls>ṚV. 1, 105, 4.</ls> <ls n="ṚV. 1,">132, 3.</ls> <ls n="ṚV.">4, 1, 14.</ls> {#kadDa\ ratna\M vi no^ vocaH#} 
-<ls n="ṚV. 4,">5, 12.</ls> {#asti^ svi\nna svi^dasti\ tadf^tu\TA vi vo^caH#} 
-<ls n="ṚV.">6, 8, 13.</ls> <ls n="ṚV. 6,">22, 4.</ls> <ls n="ṚV.">10, 11, 2.</ls> <ls n="ṚV. 10,">28, 5.</ls> <ls>CHĀND. UP. 4, 4, 5.</ls> {#tezAM#} ({#praSnAnAM#}) {#nEkaM ca nASakaM vivaktum#} 
-<ls>5, 3, 5.</ls> <ls>ŚAT. BR. 14, 6, 8, 1. 5. 9, 28.</ls> 
-<div n="1">— 2) {%bestreiten, anfechten%}: {#nAhaM vedAnvinindAmi na vivakzyAmi karhicit#} 
-<ls>MBH. 12, 9607.</ls> med. {%verschieden%} oder {%gegen einander reden, sich streiten um%}: {#vi to\ke a\psu\ tana^ye ca\ sUre 'vo^canta carza\Rayo\ vivA^caH#} 
-<ls>ṚV. 6, 31, 1.</ls> 
+<div n="p">— {#vi#}
+<div n="1"> 1) {%kundmachen, anzeigen; deutlich machen, erklären, lösen%} (eine Frage)
+<ls>ṚV. 1,105,4.</ls> <ls n="ṚV. 1,">132,3.</ls> <ls n="ṚV.">4,1,14.</ls> {#kadDa\ ratna\M vi no^ vocaH#}
+<ls n="ṚV. 4,">5,12.</ls> {#asti^ svi\nna svi^dasti\ tadf^tu\TA vi vo^caH#}
+<ls n="ṚV.">6,8,13.</ls> <ls n="ṚV. 6,">22,4.</ls> <ls n="ṚV.">10,11,2.</ls> <ls n="ṚV. 10,">28,5.</ls> <ls>CHĀND. UP. 4,4,5.</ls> {#tezAM#} ({#praSnAnAM#}) {#nEkaM ca nASakaM vivaktum#}
+<ls n="CHĀND. UP.">5,3,5.</ls> <ls>ŚAT. BR. 14,6,8,1. 5. 9,28.</ls>
+<div n="1">— 2) {%bestreiten, anfechten%}: {#nAhaM vedAnvinindAmi na vivakzyAmi karhicit#}
+<ls>MBH. 12,9607.</ls> med. {%verschieden%} oder {%gegen einander reden, sich streiten um%}: {#vi to\ke a\psu\ tana^ye ca\ sUre 'vo^canta carza\Rayo\ vivA^caH#}
+<ls>ṚV. 6,31,1.</ls>
 <div n="v">— Vgl. {#vivaktar, vivAc, vyucya, avivAkya#} .
-
-<div n="p">— {#sam#} {%verkünden, mittheilen%} 
-<ls>PAÑCAR. 1, 15, 8.</ls> <ls>Journ. of the Am. Or. S. 6, 561</ls> ({%to explain comprehensively%} 
-<ls>HALL</ls>). {%sprechen, sagen%} 
-<ls>KATHĀS. 3, 49.</ls> {#hitArTaM samuvAcemAM BAratIM BaratAnprati#} 
-<ls>MBH. 4, 913.</ls> {#svaM janakaM samuvAca#} {%sagte zu%} 
-<ls>PAÑCAT. 97, 12.</ls> {%Jmd%} (acc.). {%zusprechen, Vorstellungen machen%}: {#samukta#} 
-<ls>BHĀG. P. 10, 50, 33.</ls> med. {%sich unterreden%}: {#saM nu vo^cAvahE\ puna\ryato^ me ma\DvABf^tam#} 
-<ls>ṚV. 1, 25, 17.</ls>
+<div n="p">— {#sam#} {%verkünden, mittheilen%}
+<ls>PAÑCAR. 1,15,8.</ls> <ls>Journ. of the Am. Or. S. 6,561</ls> ({%to explain comprehensively%}
+<ls>HALL</ls>). {%sprechen, sagen%}
+<ls>KATHĀS. 3,49.</ls> {#hitArTaM samuvAcemAM BAratIM BaratAnprati#}
+<ls>MBH. 4,913.</ls> {#svaM janakaM samuvAca#} {%sagte zu%}
+<ls>PAÑCAT. 97,12.</ls> {%Jmd%} (acc.). {%zusprechen, Vorstellungen machen%}: {#samukta#}
+<ls>BHĀG. P. 10,50,33.</ls> med. {%sich unterreden%}: {#saM nu vo^cAvahE\ puna\ryato^ me ma\DvABf^tam#}
+<ls>ṚV. 1,25,17.</ls>
 <LEND>

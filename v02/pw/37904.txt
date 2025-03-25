@@ -1,21 +1,21 @@
-<L>37904<pc>2199-1<k1>GAtay<k2>GAtay<e>500
-{#GAtay#}¦ , {#°yati#} und {#°yate#} (selten)
-<div n="1">— 1) {%züchtigen , bestrafen.%}
-<div n="1">— 2) {%tödten , umbringen.%}
-<div n="1">— 3) {%zu Grunde richten.%}
-<div n="1">— 4) {%tödten lassen.%}
-<div n="1">— 5) {%Jmds%} (<ab>Acc.</ab>) {%Tod erzählen.%}
-<div n="p">— Mit {#aBi#}, {#SarABiGAtita#} {%von Pfeilen getroffen.%}
-<div n="p">— Mit {#ava#} {%dreschen lassen.%}
-<div n="p">— Mit {#vyA#} {%hemmen , hindern , vereiteln.%}
-<div n="p">— Mit {#upod#} {%zur Sprache bringen , einleiten.%}
-<div n="p">— Mit {#ni#} {%erschlagen , tödten.%}
+<L>37904<pc>2-199-a<k1>GAtay<k2>GAtay
+!√{#GAtay#}¦, {#°yati#} und {#°yate#} (selten)
+<div n="1">— 1〉 {%züchtigen, bestrafen%}.
+<div n="1">— 2〉 {%tödten, umbringen%}.
+<div n="1">— 3〉 {%zu Grunde richten%}.
+<div n="1">— 4〉 {%tödten lassen%}.
+<div n="1">— 5〉 {%Jmds%} (<ab>Acc.</ab>) {%Tod erzählen%}.
+<div n="p">— Mit {#aBi#}, {#SarABiGAtita#} {%von Pfeilen getroffen%}.
+<div n="p">— Mit {#ava#} {%dreschen lassen%}.
+<div n="p">— Mit {#vyA#} {%hemmen, hindern, vereiteln%}.
+<div n="p">— Mit {#upod#} {%zur Sprache bringen, einleiten%}.
+<div n="p">— Mit {#ni#} {%erschlagen, tödten%}.
 <div n="p">— Mit {#nis#}
-<div n="1">— 1) {%herausschaffen.%}
-<div n="1">— 2) {%umbringen lassen%} <ls>MBH.1,146,26.</ls>
-<div n="p">— Mit {#prati#} {%abwehren.%}
+<div n="1">— 1〉 {%herausschaffen%}.
+<div n="1">— 2〉 {%umbringen lassen%} <ls>MBH. 1,146,26</ls>.
+<div n="p">— Mit {#prati#} {%abwehren%}.
 <div n="p">— Mit {#vi#}
-<div n="1">— 1) {%schlagen%} (ein Heer).
-<div n="1">— 2) {%quälen , plagen%} <ls>MBH.13,145,38.</ls>
-<div n="1">— 3) {%hemmen , unterbrechen.%}
+<div n="1">— 1〉 {%schlagen%} (ein Heer).
+<div n="1">— 2〉 {%quälen, plagen%} <ls>MBH. 13,145,38</ls>.
+<div n="1">— 3〉 {%hemmen, unterbrechen%}.
 <LEND>

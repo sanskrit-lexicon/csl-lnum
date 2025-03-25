@@ -1,5 +1,5 @@
 <L>18393<pc>472-a<k1>lunch<k2>lunch
-<div n="lb"/>LUNCH¦, LUNCHEON, {%s.%} {#upAhAraH, alpAhAraH, laGvAhAraH, laGuBojanaM,#}
-<div n="lb"/>{#alpaBojanaM, ardDaBojanaM, ardDAhAraH, ardDASanaM, ardDaSanaM, grAsaH, grAsapari-#}
-<div n="lb"/>{#mitAhAraH#}.
+LUNCH¦, LUNCHEON, {%s.%} {#upAhAraH, alpAhAraH, laGvAhAraH, laGuBojanaM,#}
+{#alpaBojanaM, ardDaBojanaM, ardDAhAraH, ardDASanaM, ardDaSanaM, grAsaH, grAsapari-#}
+{#mitAhAraH#}.
 <LEND>

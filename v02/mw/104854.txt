@@ -1,8 +1,8 @@
 <L>104854<pc>532,2<k1>nah<k2>nah<h>1<e>1
-<hom>1.</hom> <s>nah</s> ¦ <ab>cl.</ab> 4. <ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. xxvi, 57</ls>) <s>na/hyati</s>, <s>°te</s> (<ab>Pot.</ab> <s>-nahet</s>, <ls>MBh.</ls>; <s>nahyur</s>, <ls>AitBr.</ls>; <ab>p.</ab> <ab>Ā.</ab> <s>na/hyamAna</s> [also with <ab>pass.</ab> meaning] <ls>RV.</ls> &c.; <ab>pf.</ab> <s>nanAha</s>, <s>nehe</s>; <ab>fut.</ab> <s>natsyati</s>, <s>nadDA</s>, <ls>Siddh.</ls> [<ab>cf.</ab> <ls>Pāṇ. 8-2, 34</ls>]; <ab>aor.</ab>, <s>anAtsIt</s>, <ls>Bhaṭṭ.</ls>; <s>anadDa</s>, <ls>Vop.</ls>; <ab>ind.p.</ab> <s>nadDvA</s> <ab>Gr.</ab>; <s>-na/hya</s>, <ls>Br.</ls> &c.; <ab>inf.</ab> <s>-nadDum</s>, <ls>Kāv.</ls>) 
+<hom>1.</hom> <s>nah</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxvi, 57</ls>) <s>na/hyati</s>, <s>°te</s> (<ab>Pot.</ab> <s>-nahet</s>, <ls>MBh.</ls>; <s>nahyur</s>, <ls>AitBr.</ls>; <ab>p.</ab> <ab>Ā.</ab> <s>na/hyamAna</s> [also with <ab>pass.</ab> meaning] <ls>RV.</ls> &c.; <ab>pf.</ab> <s>nanAha</s>, <s>nehe</s>; <ab>fut.</ab> <s>natsyati</s>, <s>nadDA</s>, <ls>Siddh.</ls> [<ab>cf.</ab> <ls>Pāṇ. viii, 2, 34</ls>]; <ab>aor.</ab>, <s>anAtsIt</s>, <ls>Bhaṭṭ.</ls>; <s>anadDa</s>, <ls>Vop.</ls>; <ab>ind.p.</ab> <s>nadDvA</s> <ab>Gr.</ab>; <s>-na/hya</s>, <ls>Br.</ls> &c.; <ab>inf.</ab> <s>-nadDum</s>, <ls>Kāv.</ls>)
 <div n="to"/>to bind, tie, fasten, bind on or round or together;
 <div n="to"/> (<ab>Ā.</ab>) to put on (as armour &c.), arm one's self, <ls>RV.</ls> &c. &c.:
-<div n="vp"/><ab>Pass.</ab> <s>nahyate</s>, <ab>p.</ab> <s>°hyamAna</s> (See above) :
+<div n="vp"/><ab>Pass.</ab> <s>nahyate</s>, <ab>p.</ab> <s>°hyamAna</s> (see above) :
 <div n="vp"/><ab>Caus.</ab> <s>nAhayati</s> (<ab>aor.</ab> <s>anInahat</s> <ab>Gr.</ab>) to cause to bind together, <ls>BhavP.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>ninatsati</s>, <s>°te</s> <ab>Gr.</ab>:
 <div n="vp"/><ab>Intens.</ab> <s>nAnahyate</s>, <s>nAnadDi</s>, <ls>ib.</ls> <info westergaard="Raha,26.57,04.0060"/><info whitneyroots="nah,89"/><info verb="genuineroot" cp="4P,4Ā"/>

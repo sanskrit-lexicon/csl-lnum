@@ -1,11 +1,11 @@
 <L>25315<pc>685-b<k1>result<k2>result
-<div n="lb"/>RESULT¦, {%s.%} (Consequence, issue) {#pariRAmaH, PalaM, utpattiH#} {%f.,%} {#sidDiH#} {%f.,%}
-<div n="lb"/>{#prayuktiH#} {%f.,%} {#prayogaH, utpannaM, udBUtaM, nizpannaM, uttaraM, PalamuttaraM, PalodayaH,#}
-<div n="lb"/>{#PalotpattiH#} {%f.,%} {#nirgamaH, SezaH, antaH, udarkaH, janyaM, anuBavaH, BavyaM, anu-#}
-<div n="lb"/>{#sAraH, anuvarttanaM, anvayaH, pratyayaH, anuzaNgaH, yogaH, kAryyaM, arTaH, Pali-#}
-<div n="lb"/>{#tArTaH, avasAnaM, avasAyaH, paryavasAnaM, guRaH, paripAkaH,#} {%see%} EFFECT;
-<div n="lb"/>‘unexpected result,’ {#vipAkaH;#} ‘happy result,’ {#SuBaPalaM#}. — 
-<div n="lb"/>(Result of reasoning, conclusion) {#sidDAntaH, sidDiH#} {%f.,%} {#niSci-#}
-<div n="lb"/>{#tArTaH, maTitArTaH, nirRItArTaH, upapattiH#} {%f.,%} {#anuBUtiH#} {%f.,%} {#anumitiH#} {%f.,%}
-<div n="lb"/>{#GawitArTaH#}.
+RESULT¦, {%s.%} (Consequence, issue) {#pariRAmaH, PalaM, utpattiH#} {%f.,%} {#sidDiH#} {%f.,%}
+{#prayuktiH#} {%f.,%} {#prayogaH, utpannaM, udBUtaM, nizpannaM, uttaraM, PalamuttaraM, PalodayaH,#}
+{#PalotpattiH#} {%f.,%} {#nirgamaH, SezaH, antaH, udarkaH, janyaM, anuBavaH, BavyaM, anu-#}
+{#sAraH, anuvarttanaM, anvayaH, pratyayaH, anuzaNgaH, yogaH, kAryyaM, arTaH, Pali-#}
+{#tArTaH, avasAnaM, avasAyaH, paryavasAnaM, guRaH, paripAkaH,#} {%see%} EFFECT;
+‘unexpected result,’ {#vipAkaH;#} ‘happy result,’ {#SuBaPalaM#}. — 
+(Result of reasoning, conclusion) {#sidDAntaH, sidDiH#} {%f.,%} {#niSci-#}
+{#tArTaH, maTitArTaH, nirRItArTaH, upapattiH#} {%f.,%} {#anuBUtiH#} {%f.,%} {#anumitiH#} {%f.,%}
+{#GawitArTaH#}.
 <LEND>

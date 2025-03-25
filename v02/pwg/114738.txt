@@ -1,25 +1,25 @@
 <L>114738<pc>7-1403<k1>srazwar<k2>srazwar
-{#srazwar#}¦ (von 3. {#sarj#}) nom. ag. 
-<div n="1"> 1) {%Entlasser, Entsender%}: {#apAm#} 
-<ls>P. 2, 2, 16, Schol.</ls> {#vAriDArARAm#} 
-<ls>MBH. 7, 2864.</ls> 
-<div n="1">— 2) {%der Etwas in Bewegung setzt, ausgehen lässt, Veranlasser, Urheber%} 
-<ls>NIR. 14, 5.</ls> {#akARqadaRqa°#} 
-<ls>RĀJA-TAR. 4, 655.</ls> 
-<div n="1">— 3) {%Schöpfer%}: {#viSvasya#} 
-<ls>ŚVETĀŚV. UP. 5, 13.</ls> {#sarvasya#} 
-<ls>M. 1, 33.</ls> {#rakzasAm#} 
-<ls>R. GORR. 1, 22, 10.</ls> in comp. mit der Ergänzung 
-<ls>H. 5.</ls> {#jagat°#} (s. auch bes.) 
-<ls>BHĀG. P. 3, 9, 44.</ls> {#prAdeSikeSvara° (viDi)#} 
-<ls>RĀJA-TAR. 4, 126.</ls> ohne Ergänzung {%der Schöpfer der Welt%} 
-<ls>RAGH. 1, 93.</ls> 
-<ls>ŚĀK. 1. 186.</ls> 
-<ls>VIKR. 159.</ls> 
-<ls>RĀJA-TAR. 4, 110.</ls> 
-<ls>BHĀG. P. 3, 10, 28.</ls> = {#brahman#} 
-<ls>AK. 1, 1, 1, 12.</ls> 
-<ls>H. 3. 213.</ls> 
-<ls>HALĀY. 1, 6.</ls> = {#Siva#} 
-<ls>12.</ls>
+{#srazwar#}¦ (von 3. {#sarj#}) nom. ag.
+<div n="1"> 1) {%Entlasser, Entsender%}: {#apAm#}
+<ls>P. 2,2,16</ls>, Schol. {#vAriDArARAm#}
+<ls>MBH. 7,2864.</ls>
+<div n="1">— 2) {%der Etwas in Bewegung setzt, ausgehen lässt, Veranlasser, Urheber%}
+<ls>NIR. 14,5.</ls> {#akARqadaRqa°#}
+<ls>RĀJA-TAR. 4,655.</ls>
+<div n="1">— 3) {%Schöpfer%}: {#viSvasya#}
+<ls>ŚVETĀŚV. UP. 5,13.</ls> {#sarvasya#}
+<ls>M. 1,33.</ls> {#rakzasAm#}
+<ls>R. GORR. 1,22,10.</ls> in comp. mit der Ergänzung
+<ls>H. 5.</ls> {#jagat°#} (s. auch bes.)
+<ls>BHĀG. P. 3,9,44.</ls> {#prAdeSikeSvara° (viDi)#}
+<ls>RĀJA-TAR. 4,126.</ls> ohne Ergänzung {%der Schöpfer der Welt%}
+<ls>RAGH. 1,93.</ls>
+<ls>ŚĀK. 1. 186.</ls>
+<ls>VIKR. 159.</ls>
+<ls>RĀJA-TAR. 4,110.</ls>
+<ls>BHĀG. P. 3,10,28.</ls> = {#brahman#}
+<ls>AK. 1,1,1,12.</ls>
+<ls>H. 3.</ls> <ls n="H.">213.</ls>
+<ls>HALĀY. 1,6.</ls> = {#Siva#}
+<ls n="HALĀY.">12.</ls>
 <LEND>

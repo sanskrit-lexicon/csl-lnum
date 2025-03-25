@@ -1,31 +1,30 @@
 <L>14917<pc>2-0067<k1>kapiSa<k2>kapiSa/
-{#kapiSa/#}¦ (von {#kapi#}) <is>gaṇa</is> {#lomAdi#} zu 
-<ls>P. 5, 2, 100.</ls> ({#matvarTe#}). 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%von der Farbe des Affen, bräunlich, röthlich%} (als <lex>m.</lex> {%die bräunliche, röthliche Farbe%}) 
-<ls>AK. 1, 1, 4, 25.</ls> 
-<ls>H. 1396.</ls> 
-<ls>MED. ś. 17.</ls> {#saMDyApayodakapiSAH (CAyAH piSitASanAnAm)#} 
-<ls>ŚĀK. 75.</ls> 
-<ls>RAGH. 12, 28.</ls> {#toye kAYjanapadmareRukapiSe#} 
-<ls>ŚĀK. 171.</ls> {#IzadbadDarajaHkaRAgrakapiSA cUte navA maYjarI#} 
-<ls>VIKR. 26.</ls> {#nIpaM dfzwvA haritakapiSaM keSarErarDarUQEH#} 
-<ls>MEGH. 21.</ls> {#kapiSakOSeya#} 
-<ls>BHĀG. P. 5, 3, 3.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%Weihrauch%} 
-<ls>H. an. 3, 718</ls> (lies: {#kapiSO#}). 
-<ls>MED.</ls> Vgl. {#kapi#} 
-<ls>4.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#kapiSA#} 
-<div n="2"> a) {%eine Art Rum%} 
-<ls>H. an.</ls> <ls>MED.</ls> {#kapiSI#} 
-<ls>ŚKDR.</ls> angeblich nach 
-<ls>MED.</ls> (wo die Form des <lex>f.</lex> gar nicht angegeben wird) und 
-<ls>JAṬĀDH.</ls> Vgl. {#kapiSIkA#} und {#kApiSAyana#} . 
-<div n="2">— b) N. pr. der Mutter der <is>Piśāca</is> 
-<ls>WILS.</ls> {#kapiSAputra#} {%ein%} <is>Piśāca</is> 
-<ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— c) N. pr. eines Flusses 
-<ls>RAGH. 4, 38.</ls> 
-<ls>LIA. I, 562, N. 1.</ls> 
+{#kapiSa/#}¦ (von {#kapi#}) <is>gaṇa</is> {#lomAdi#} zu
+<ls>P. 5,2,100.</ls> ({#matvarTe#}).
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%von der Farbe des Affen, bräunlich, röthlich%} (als <lex>m.</lex> {%die bräunliche, röthliche Farbe%})
+<ls>AK. 1,1,4,25.</ls>
+<ls>H. 1396.</ls>
+<ls>MED. ś. 17.</ls> {#saMDyApayodakapiSAH (CAyAH piSitASanAnAm)#}
+<ls>ŚĀK. 75.</ls>
+<ls>RAGH. 12,28.</ls> {#toye kAYjanapadmareRukapiSe#}
+<ls>ŚĀK. 171.</ls> {#IzadbadDarajaHkaRAgrakapiSA cUte navA maYjarI#}
+<ls>VIKR. 26.</ls> {#nIpaM dfzwvA haritakapiSaM keSarErarDarUQEH#}
+<ls>MEGH. 21.</ls> {#kapiSakOSeya#}
+<ls>BHĀG. P. 5,3,3.</ls>
+<div n="1">— 2) <lex>m.</lex> {%Weihrauch%}
+<ls>H. an. 3,718</ls> (lies: {#kapiSO#}).
+<ls>MED.</ls> Vgl. {#kapi#} 4.
+<div n="1">— 3) <lex>f.</lex> {#kapiSA#}
+<div n="2"> a) {%eine Art Rum%}
+<ls>H. an.</ls> <ls>MED.</ls> {#kapiSI#}
+<ls>ŚKDR.</ls> angeblich nach
+<ls>MED.</ls> (wo die Form des <lex>f.</lex> gar nicht angegeben wird) und
+<ls>JAṬĀDH.</ls> Vgl. {#kapiSIkA#} und {#kApiSAyana#} .
+<div n="2">— b) N. pr. der Mutter der <is>Piśāca</is>
+<ls>WILS.</ls> {#kapiSAputra#} {%ein%} <is>Piśāca</is>
+<ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— c) N. pr. eines Flusses
+<ls>RAGH. 4,38.</ls>
+<ls>LIA. I,562, N. 1.</ls>
 <div n="v">— Vgl. {#kapila#} .
 <LEND>

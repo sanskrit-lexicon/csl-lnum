@@ -1,7 +1,7 @@
 <L>3430<pc>114<k1>channel<k2>channel
-<div n="lb"/>{@CHANNEL@}¦ (subs.): <div n="I">I The bed of a stream:
-<div n="lb"/>{#garBaH.#} </div><div n="I">II Current: q. v.: {#srotas#} (n.) </div><div n="I">III A
-<div n="lb"/>canal: {#praRAlI.#} </div><div n="I">IV A strait.: q. v.: {#*sAgara-#}
-<div n="lb"/>{#sanDiH.#} </div><div n="I">V A furrow, as in a column: {#reKA.#}</div>
-<div n="lb"/><div n="I">VI Means of conveying (as of news): {#mArgaH.#}</div>
+{@CHANNEL@}¦ (subs.): <div n="I">I The bed of a stream:
+{#garBaH.#} </div><div n="I">II Current: q. v.: {#srotas#} (n.) </div><div n="I">III A
+canal: {#praRAlI.#} </div><div n="I">IV A strait.: q. v.: {#*sAgara-#}
+{#sanDiH.#} </div><div n="I">V A furrow, as in a column: {#reKA.#}</div>
+<div n="I">VI Means of conveying (as of news): {#mArgaH.#}</div>
 <LEND>

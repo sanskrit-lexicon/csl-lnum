@@ -1,11 +1,12 @@
 <L>229218<pc>1132,3<k1>saYj<k2>saYj<h>2<e>1
-<hom>2.</hom> <s>saYj</s> ¦ (or <s>saj</s>) <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xxiii, 18</ls>) <s>sa/jati</s> (rarely <ab>Ā.</ab> <s>°te</s>; <ab>pf.</ab> <s>sasaYja</s>, <ls>Br.</ls> &c. [in some rare and doubtful cases in <ls>MBh.</ls> and, <ls>Ragh.</ls> <s>sasajja</s>]; 3. <ab>pl.</ab> <s>sejuH</s>, <ls>ŚBr.</ls>; <ab>aor.</ab> <s>asANkzIt</s>, <s>sANkzIt</s>, UP. &c.; <s>asaYji</s>, <ls>Br.</ls>; <s>a/sakTAs</s>, <s>°ta</s>, <ls>RV.</ls>; <ls>Br.</ls>; <ab>Prec.</ab> <s>sajyAt</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>saNktA</s>, <s>saNkzyati</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>saktum</s>, <ls>MBh.</ls>; <s>saNktos</s>, <ls>Br.</ls>; <ab>ind.p.</ab> <s>-sajya</s>, <s>-sa/Ngam</s>, <ls>ib.</ls> &c.), 
+<hom>2.</hom> <s>saYj</s> (or <s>saj</s>) ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xxiii, 18</ls>) <s>sa/jati</s> (rarely <ab>Ā.</ab> <s>°te</s>; <ab>pf.</ab> <s>sasaYja</s>, <ls>Br.</ls> &c. [in some rare and doubtful cases in <ls>MBh.</ls> & <ls>Ragh.</ls> <s>sasajja</s>]; 3. <ab>pl.</ab> <s>sejuH</s>, <ls>ŚBr.</ls>; <ab>aor.</ab> <s>asANkzIt</s>, <s>sANkzIt</s>, <ls>Up.</ls> &c.; <s>asaYji</s>, <ls>Br.</ls>; <s>a/sakTAs</s>, <s>°ta</s>, <ls>RV.</ls>; <ls>Br.</ls>; <ab>Prec.</ab> <s>sajyAt</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>saNktA</s>, <s>saNkzyati</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>saktum</s>, <ls>MBh.</ls>; <s>saNktos</s>, <ls>Br.</ls>; <ab>ind.p.</ab> <s>-sajya</s>, <s>-sa/Ngam</s>, <ls>ib.</ls> &c.),
 <div n="to"/>to cling or stick or adhere to, be attached to or engaged in or occupied with (<ab>loc.</ab>), <ls>Br.</ls>; <ls>Ragh.</ls>; <ls>Naiṣ.</ls> :
-<div n="vp"/><ab>Pass.</ab> <s>sajya/te</s> (generally <s>sajjate</s>, <ab>ep.</ab> also <s>°ti</s>), to be attached or fastened, adhere, cling, stick (with <s>na</s>, ‘to fly through without sticking’, as an arrow), <ls>ŚBr.</ls> &c. &c.;
+<div n="vp"/><ab>Pass.</ab> <s>sajya/te</s> (generally <s>sajjate</s>, <lang>ep.</lang> also <s>°ti</s>), to be attached or fastened, adhere, cling, stick (with <s>na</s>, ‘to fly through without sticking’, as an arrow), <ls>ŚBr.</ls> &c. &c.;
 <div n="to"/>to linger, hesitate, <ls>MBh.</ls>; <ls>R.</ls>;
 <div n="to"/>to be devoted to or intent on or occupied with (<ab>loc.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
-<div n="vp"/><ab>Caus.</ab> <s>saYjayati</s> (<ab>aor.</ab> <s>asasaYjat</s>; for <s>sajjayati</s> See √ <s>sajj</s>), 
+<div n="vp"/><ab>Caus.</ab> <s>saYjayati</s> (<ab>aor.</ab> <s>asasaYjat</s>; for <s>sajjayati</s> See √ <s>sajj</s>),
 <div n="to"/>to cause to stick or cling to, unite or connect with (<ab>loc.</ab>), <ls>Bhag.</ls>; <ls>Śaṃk.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>sisaNkzati</s> See <s>A-√ saYj</s>:
-<div n="vp"/><ab>Intens.</ab> <s>sAsajyate</s>, <s>sAsaNkti</s> <ab>Gr.</ab> <info or="229218,saYj;229218.1,saj"/><info westergaard="zanja,23.18,01.0706"/><info whitneyroots="saj,182"/><info verb="genuineroot" cp="1P,1Ā"/>
+<div n="vp"/><ab>Intens.</ab> <s>sAsajyate</s>, <s>sAsaNkti</s> <ab>Gr.</ab>
+<div n="P"/> [<ab>cf.</ab> <ab>accord.</ab> to some, <lang>Lat.</lang> <etym>segnis</etym>; <lang>Lith.</lang> <etym>segù</etym>, ‘I attach’.]<info westergaard="zanja,23.18,01.0706"/><info whitneyroots="saj,182"/><info verb="genuineroot" cp="1P,1Ā"/>
 <LEND>

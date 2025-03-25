@@ -1,23 +1,23 @@
 <L>24062<pc>2-0886<k1>GAtin<k2>GAti/n
-{#GAti/n#}¦ (von {#GAta#}) 
-<ls>P. 3, 2, 51. 86.</ls> 
-<div n="1"> 1) <lex>adj.</lex> subst. 
-<div n="2"> a) {%tödtend, Mörder%}: {#SatrusaMGAnAM GAtinIm (Saktim)#} 
-<ls>MBH. 3, 17198. 13, 2156.</ls> {#prasahya°#} 
-<ls>YĀJÑ. 2, 273.</ls> {#strIbAla°#} 
-<ls>74.</ls> <ls>M. 8, 89.</ls> {#pati°#} 
-<ls>R. 2, 74, 7.</ls> {#vipra°#} 
-<ls>3, 16, 30.</ls> {#ripu°#} 
-<ls>28, 41.</ls> {#harirAkzasaGAtinI (niSA)#} 
-<ls>6, 19, 18.</ls> <ls>PAÑCAT. I, 474.</ls> <ls>VARĀH. BṚH. S. 5, 33.</ls> <ls>RĀJA-TAR. 5, 448.</ls> <ls>BHĀG. P. 8, 24, 14.</ls> <ls>H. 10.</ls> 
-<div n="2">— b) {%vernichtend, zu Grunde richtend, zu Schanden machend%} 
-<ls>COLEBR. Misc. Ess. I, 384.</ls> {#Sreyo°#} 
-<ls>MBH. 3, 63.</ls> {#mUla°#} 
-<ls>R. 5, 47, 17.</ls> {#sarvArTa°#} 
-<ls>71, 5.</ls> {#pratyaya°#} 
-<ls>3, 35, 59.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#°nI#} {%Keule%}: {#loha°#} 
-<ls>Uṇ. 4, 126,</ls> 
-<ls>Sch.</ls>; vgl. {#GAtanI#} . 
+{#GAti/n#}¦ (von {#GAta#})
+<ls>P. 3,2,51.</ls> <ls n="P. 3,2,">86.</ls>
+<div n="1"> 1) <lex>adj.</lex> subst.
+<div n="2"> a) {%tödtend, Mörder%}: {#SatrusaMGAnAM GAtinIm (Saktim)#}
+<ls>MBH. 3,17198.</ls> <ls n="MBH.">13,2156.</ls> {#prasahya°#}
+<ls>YĀJÑ. 2,273.</ls> {#strIbAla°#}
+<ls n="YĀJÑ.">74.</ls> <ls>M. 8,89.</ls> {#pati°#}
+<ls>R. 2,74,7.</ls> {#vipra°#}
+<ls n="R.">3,16,30.</ls> {#ripu°#}
+<ls n="R. 2,">28,41.</ls> {#harirAkzasaGAtinI (niSA)#}
+<ls n="R.">6,19,18.</ls> <ls>PAÑCAT. I,474.</ls> <ls>VARĀH. BṚH. S. 5,33.</ls> <ls>RĀJA-TAR. 5,448.</ls> <ls>BHĀG. P. 8,24,14.</ls> <ls>H. 10.</ls>
+<div n="2">— b) {%vernichtend, zu Grunde richtend, zu Schanden machend%}
+<ls>COLEBR. Misc. Ess. I,384.</ls> {#Sreyo°#}
+<ls>MBH. 3,63.</ls> {#mUla°#}
+<ls>R. 5,47,17.</ls> {#sarvArTa°#}
+<ls n="R. 5,">71,5.</ls> {#pratyaya°#}
+<ls n="R.">3,35,59.</ls>
+<div n="1">— 2) <lex>f.</lex> {#°nI#} {%Keule%}: {#loha°#}
+<ls>Uṇ. 4,126</ls>, <ls>Sch.</ls>;
+vgl. {#GAtanI#} .
 <div n="v">— Vgl. {#anDakaGAtin, amitra°, arDaka°, Atma°, kAla°, kumAra°, kfmi°, guRa°, grAma°, SaSa°, SIrza°#} .
 <LEND>

@@ -1,3 +1,4 @@
-<L>40093<pc>231,3<k1>ema<k2>e/ma<h>a<e>2
-<s>e/ma</s>, <s>am</s>, <s>e/man</s>, <s>a</s>, <lex>n.</lex> course, way, <ls>RV.</ls>; <ls>VS.</ls>; <info lex="n"/><info or="40093,ema;40094,eman"/>
+<L>40093<pc>231,3<k1>ema<k2>e/ma<e>2
+<s>e/ma</s>, <s>am</s>, <s>e/man</s>, <s>a</s>, ¦ <lex>n.</lex> course, way, <ls>RV.</ls>; <ls>VS.</ls>;
+<div n="P"/> [<ab>cf.</ab> <lang>Gk.</lang> <gk>οἶμος</gk>, <gk>οἴμη</gk>; <lang>Lith.</lang> <etym>eisme</etym>.]<info lex="n"/>
 <LEND>

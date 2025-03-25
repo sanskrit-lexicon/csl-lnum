@@ -1,12 +1,12 @@
 <L>8351<pc>1-0625<k1>AtmasAt<k2>AtmasAt
-{#AtmasAt#}¦ (von {#Atman#}) adv. {%an sich, zu sich, auf sich.%} Nur in Verbindung mit {#kar#} {%thun%}: 
-<div n="1"> 1) {%auf sich legen%}: {#agnInvApyAtmasAtkftvA#} 
-<ls>YĀJÑ. 3,</ls> <ls>?54; vgl. M. 6, 25</ls> : {#agnIMScAtmani vEtAnAnsamAropya#} . 
-<div n="1">— 2) {%sich zu Eigen machen, an sich bringen, für sich gewinnen%}: {#dvArakAmAtmasAtkftvA#} 
-<ls>MBH. 3, 493.</ls> {#jagat#} 
-<ls>496.</ls> {#kOlI SrIrAtmasAtkftA#} 
-<ls>R. 4, 28, 9.</ls> {#jAtaM jAtam - mftyuH karotyAtmasAt#} 
-<ls>BHARTṚ. 3, 34.</ls> {#kartumAtmasAtprayatante - hi yat#} 
-<ls>RAGH. 8, 2.</ls> {#jYAtayastvAtmasAtkftAH#} 
-<ls>HIT. IV, 37.</ls>
+{#AtmasAt#}¦ (von {#Atman#}) adv. {%an sich, zu sich, auf sich.%} Nur in Verbindung mit {#kar#} {%thun%}:
+<div n="1"> 1) {%auf sich legen%}: {#agnInvApyAtmasAtkftvA#}
+<ls>YĀJÑ. 3,54</ls>; vgl. <ls>M. 6,25</ls> : {#agnIMScAtmani vEtAnAnsamAropya#} .
+<div n="1">— 2) {%sich zu Eigen machen, an sich bringen, für sich gewinnen%}: {#dvArakAmAtmasAtkftvA#}
+<ls>MBH. 3,493.</ls> {#jagat#}
+<ls n="MBH. 3,">496.</ls> {#kOlI SrIrAtmasAtkftA#}
+<ls>R. 4,28,9.</ls> {#jAtaM jAtam — mftyuH karotyAtmasAt#}
+<ls>BHARTṚ. 3,34.</ls> {#kartumAtmasAtprayatante — hi yat#}
+<ls>RAGH. 8,2.</ls> {#jYAtayastvAtmasAtkftAH#}
+<ls>HIT. IV,37.</ls>
 <LEND>

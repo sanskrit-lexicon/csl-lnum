@@ -1,26 +1,26 @@
 <L>43531<pc>4-0578<k1>paryAkula<k2>paryAkula
-{#paryAkula#}¦ ({#pari + A°#} oder von 2. {#kar#} mit {#paryA#}) <lex>adj.</lex> <lex>f.</lex> {#A#} 
-<div n="1"> 1) {%erfüllt, voll von Etwas%}: {#vAzpaparyAkulekzaRa#} 
-<ls>R. 1, 4, 14. 2, 74, 13.</ls> {#vAzpaparyAkulamuKa#} 
-<ls>31, 1. 41, 14.</ls> {#kroDaparyAkulekzaRa#} 
-<ls>MBH. 1, 6893. 5, 7061. 7122.</ls> 
-<ls>HARIV. 3655. 10741.</ls> 
-<ls>R. 1, 41, 27 (42, 25 GORR.).</ls> {#vAzpaparyAkulaM vacaH#} 
-<ls>R. GORR. 2, 24, 4.</ls> {#vacanaM #}
+{#paryAkula#}¦ ({#pari + A°#} oder von 2. {#kar#} mit {#paryA#}) <lex>adj.</lex> <lex>f.</lex> {#A#}
+<div n="1"> 1) {%erfüllt, voll von Etwas%}: {#vAzpaparyAkulekzaRa#}
+<ls>R. 1,4,14.</ls> <ls n="R.">2,74,13.</ls> {#vAzpaparyAkulamuKa#}
+<ls n="R. 2,">31,1.</ls> <ls n="R. 2,">41,14.</ls> {#kroDaparyAkulekzaRa#}
+<ls>MBH. 1,6893.</ls> <ls n="MBH.">5,7061.</ls> <ls n="MBH. 5,">7122.</ls>
+<ls>HARIV. 3655.</ls> <ls n="HARIV.">10741.</ls>
+<ls>R. 1,41,27</ls> (<ls n="GORR. 1,">42,25</ls> <ls>GORR.</ls>). {#vAzpaparyAkulaM vacaH#}
+<ls>R. GORR. 2,24,4.</ls> {#vacanaM #}
 [Page4-0579]
-{# snehaparyAkulAkzaram#} 
-<ls>R.</ls> <ls>SCHL. 1, 23, 1.</ls> {#vacanaM kroDaparyAkulAkzaram#} 
-<ls>58, 6. 59, 12.</ls> 
-<div n="1">— 2) {%in Verwirrung%} oder {%Unordnung gerathen, aus seinem natürlichen Zustande gebracht, aufgeregt, verwirrt%} (eig. und übertr.): {#mUrDajAH#} 
-<ls>ŚĀK. 29.</ls> {#taTA paryAkule tasminniveSe#} 
-<ls>MBH. 1, 7786.</ls> {#evaM paryAkule loke maryAdA na Bavizyanti#} 
-<ls>3, 13082. 12, 475.</ls> {#sarvaM paryAkulaM jagat#} 
-<ls>R. 2, 41, 15.</ls> {#diSaH paryAkulAScAsanrajasA tatra saMvftAH#} {%gleichsam durcheinandergeworfen, nicht zu unterscheiden%} 
-<ls>4, 39, 9.</ls> {#diSaH paryAkulIBUtAstimireRa saMvftAH#} 
-<ls>R. GORR. 2, 40, 13.</ls> {#vAtAH paryAkulAH#} 
-<ls>MBH. 3, 13085.</ls> {#hfdaya#} 
-<ls>ṚT. 6, 21.</ls> {#paryAkulo 'smi . SayanaBUmimArgamAdeSaya#} 
-<ls>ŚĀK. 72, 12. 60, 10.</ls> 
-<ls>SĀH. D. 65, 9.</ls> {#paryAkulIkurvanvfdDastrIkumArAnepa prAptaH (gajaH)#} 
-<ls>ŚĀK. CH. 24, 11.</ls>
+{# snehaparyAkulAkzaram#}
+<ls>R. SCHL. 1,23,1.</ls> {#vacanaM kroDaparyAkulAkzaram#}
+<ls n="R. SCHL.">58,6. 59,12.</ls>
+<div n="1">— 2) {%in Verwirrung%} oder {%Unordnung gerathen, aus seinem natürlichen Zustande gebracht, aufgeregt, verwirrt%} (eig. und übertr.): {#mUrDajAH#}
+<ls>ŚĀK. 29.</ls> {#taTA paryAkule tasminniveSe#}
+<ls>MBH. 1,7786.</ls> {#evaM paryAkule loke maryAdA na Bavizyanti#}
+<ls n="MBH.">3,13082.</ls> <ls n="MBH.">12,475.</ls> {#sarvaM paryAkulaM jagat#}
+<ls>R. 2,41,15.</ls> {#diSaH paryAkulAScAsanrajasA tatra saMvftAH#} {%gleichsam durcheinandergeworfen, nicht zu unterscheiden%}
+<ls n="R.">4,39,9.</ls> {#diSaH paryAkulIBUtAstimireRa saMvftAH#}
+<ls>R. GORR. 2,40,13.</ls> {#vAtAH paryAkulAH#}
+<ls>MBH. 3,13085.</ls> {#hfdaya#}
+<ls>ṚT. 6,21.</ls> {#paryAkulo 'smi . SayanaBUmimArgamAdeSaya#}
+<ls>ŚĀK. 72,12.</ls> <ls n="ŚĀK.">60,10.</ls>
+<ls>SĀH. D. 65,9.</ls> {#paryAkulIkurvanvfdDastrIkumArAnepa prAptaH (gajaH)#}
+<ls>ŚĀK. CH. 24,11.</ls>
 <LEND>

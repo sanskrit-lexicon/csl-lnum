@@ -1,8 +1,8 @@
 <L>14604<pc>447<k1>military<k2>military
-<div n="lb"/>{@MILITARY@}¦ (adj.): <div n="I">I Pertaining to war:
-<div n="lb"/>{#yudDa-,#} etc. in comp.: v. War. </div><div n="I">II Belonging
-<div n="lb"/>to a soldier: {#sEnika-,#} etc. in comp.: v.
-<div n="lb"/>Soldier. Ph.: <div n="xe">{%m. man:%}</div> <div n="xs">{#yoDaH#}</div> <div n="xe">{%or%}</div> <div n="xs">{#BawaH;#}</div> <div n="xe">{%a man%}
-<div n="lb"/>{%of m. caste:%}</div> <div n="xs">{#kzatriyaH#}</div> {%or%} (rarely) {#kzatram;#} {%m. duty:%}
-<div n="lb"/>{#kzatraDarmaH.#}</div>
+{@MILITARY@}¦ (adj.): <div n="I">I Pertaining to war:
+{#yudDa-,#} etc. in comp.: v. War. </div><div n="I">II Belonging
+to a soldier: {#sEnika-,#} etc. in comp.: v.
+Soldier. Ph.: <div n="xe">{%m. man:%}</div> <div n="xs">{#yoDaH#}</div> <div n="xe">{%or%}</div> <div n="xs">{#BawaH;#}</div> <div n="xe">{%a man%}
+{%of m. caste:%}</div> <div n="xs">{#kzatriyaH#}</div> {%or%} (rarely) {#kzatram;#} {%m. duty:%}
+{#kzatraDarmaH.#}</div>
 <LEND>

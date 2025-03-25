@@ -1,4 +1,4 @@
 <L>20818<pc>545-b<k1>occupancy<k2>occupancy
-<div n="lb"/>OCCUPANCY¦, {%s.%} {#aDikAraH, aDikftiH#} {%f.,%} {#ADikAraRyaM, BogaH, pariBogaH,#}
-<div n="lb"/>{#BuktiH#} {%f.,%} {#AveSaH -SanaM, samAveSaH, AkramaRaM#}.
+OCCUPANCY¦, {%s.%} {#aDikAraH, aDikftiH#} {%f.,%} {#ADikAraRyaM, BogaH, pariBogaH,#}
+{#BuktiH#} {%f.,%} {#AveSaH -SanaM, samAveSaH, AkramaRaM#}.
 <LEND>

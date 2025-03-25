@@ -1,135 +1,133 @@
 <L>3523<pc>1-0261<k1>anya<k2>anya/
-{#anya/#}¦ pron. <lex>adj.</lex> <lex>f.</lex> {#A#} <is>gaṇa</is> {#sarvAdi#}; Declin. 
-<ls>P. 7, 1, 25.</ls> 
-<ls>VOP. 3, 9. 88.</ls> {%ein anderer%} ({#Binna#}) 
-<ls>AK. 3, 2, 32. 4, 194.</ls> 
-<ls>TRIK. 3, 3, 304.</ls> 
-<ls>H. 1468.</ls> 
-<ls>an. 2, 344.</ls> 
-<ls>MED. y. 4.</ls> {%verschieden%} ({#asamAna#}) 
-<ls>TRIK. 3, 3, 304.</ls> 
-<ls>H. an. 2, 344.</ls> 
-<ls>MED. y. 4.</ls> <ls>ṚV. 3, 46, 2.</ls> <ls n="ṚV.">6, 47, 12.</ls> <ls n="ṚV.">7, 103, 4.</ls> u.s.w. {#yaccEvAnyatsuduzkaram#} 
-<ls>N. 15, 4.</ls> {#sarvamanyat#} 
-<ls>M. 8, 17.</ls> 
-<ls>N. 9, 3.</ls> 
-<ls>HIT. I, 59.</ls> {#anyadBAgaDeyametezAM rakzaRe Bavati#} 
-<ls>ŚĀK. 27, 5.</ls> {#sa eva anyaH kzaRena Bavati#} 
-<ls>HIT. I, 121.</ls> {#nAnyA gatirBavati cAtakasya#} {%der%} <is>C</is> {%verändert sein Wesen nicht%} 
-<ls>CĀT. 7.</ls> {#anyAnyA#} ({%immer wieder eine andere, vorher nicht dagewesene%}) {#devatA prOge Sasyate 'nyadanyadukTaM prOge kriyate 'nyadanyadasyAnnAdyaM gfhezu Driyate ya evaM veda#} 
-<ls>AIT. BR. 3, 2.</ls> Häufig subst. am Anfange eines comp.: {#anyakAmA#} {%Liebe zu einem Andern hegend%} 
-<ls>R. 5, 13, 68.</ls> {#ananyamAnasA#} 
-<ls>INDR. 5, 4.</ls> Erhält hier nicht die Endung des fem.: {#idamananyaparAyaRaM hfdayam#} 
-<ls>ŚĀK. 67.</ls> {#yadA tu pUrvavfttamanyasaNgAdvismfto BavAn#} 
-<ls>71, 3.</ls> Bisweilen erscheint das Wort am Anf. eines comp. in der neutr. Form {#anyad#} 
-<ls>P. 6, 3, 99. 100.</ls> Das neutr. {#anyad#} wird als indecl. im <is>gaṇa</is> {#svarAdi#} aufgeführt. {#anyacca#} {%und ein Anderes%} dient oft zur Anreihung und lässt sich durch {%ferner%} übersetzen, 
-<ls>HIT. 4, 20. 6, 12. 8, 3. u.s.w.</ls> <ls>KATHĀS. 1, 65.</ls> — {#anya#} pleon. mit {#antara#} verbunden: {#anyatsTAnAntaraM gatvA#} 
-<ls>PAÑCAT. 22, 14.</ls> {#anyamArgAntareRAgatya#} 
-<ls>199, 17.</ls> — {%ein anderer als, verschieden von%}, mit dem abl. 
-<ls>P. 2, 3, 29.</ls> 
-<ls>VOP. 5, 21.</ls> {#a\nyama\smat#} 
-<ls>ṚV. 8, 64, 13.</ls> {#a\nyena\ matpra\muda^H kalpayasva#} 
-<ls n="ṚV.">10, 10, 12.</ls> <ls n="ṚV. 10, 10,">8.</ls> {#nAnyadAtmano 'paSyat#} 
-<ls>BṚH. ĀR. UP. 1, 4, 1.</ls> 
-<ls>M. 4, 221. 8, 75. 9, 113. 10, 91.</ls> 
-<ls>MBH. 1, 7081.</ls> 
-<ls>N. 11, 36.</ls> 
-<ls>ŚĀK. 4, 2.</ls> 
-<ls>HIT. I, 124. 21, 12.</ls> <ls>RAGH. 12, 49.</ls> <ls>AK. 2, 2, 1. 9, 92. 3, 6, 24.</ls> {#sTAvaraM jaNgamAdanyat#} ({%der Gegensatz%}) 
-<ls>H. 1454.</ls> {#itaH - anyena#}
+{#anya/#}¦ pron. <lex>adj.</lex> <lex>f.</lex> {#A#} <is>gaṇa</is> {#sarvAdi#}; Declin.
+<ls>P. 7,1,25.</ls>
+<ls>VOP. 3,9.</ls> <ls n="VOP. 3,">88.</ls> {%ein anderer%} ({#Binna#})
+<ls>AK. 3,2,32.</ls> <ls n="AK. 3,">4,194.</ls>
+<ls>TRIK. 3,3,304.</ls>
+<ls>H. 1468.</ls>
+<ls>an. 2,344.</ls>
+<ls>MED. y. 4.</ls> {%verschieden%} ({#asamAna#})
+<ls>TRIK. 3,3,304.</ls>
+<ls>H. an. 2,344.</ls>
+<ls>MED. y. 4.</ls> <ls>ṚV. 3,46,2.</ls> <ls n="ṚV.">6,47,12.</ls> <ls n="ṚV.">7,103,4.</ls> u.s.w. {#yaccEvAnyatsuduzkaram#}
+<ls>N. 15,4.</ls> {#sarvamanyat#}
+<ls>M. 8,17.</ls>
+<ls>N. 9,3.</ls>
+<ls>HIT. I,59.</ls> {#anyadBAgaDeyametezAM rakzaRe Bavati#}
+<ls>ŚĀK. 27,5.</ls> {#sa eva anyaH kzaRena Bavati#}
+<ls>HIT. I,121.</ls> {#nAnyA gatirBavati cAtakasya#} {%der%} <is>C</is> {%verändert sein Wesen nicht%}
+<ls>CĀT. 7.</ls> {#anyAnyA#} ({%immer wieder eine andere, vorher nicht dagewesene%}) {#devatA prOge Sasyate 'nyadanyadukTaM prOge kriyate 'nyadanyadasyAnnAdyaM gfhezu Driyate ya evaM veda#}
+<ls>AIT. BR. 3,2.</ls> Häufig subst. am Anfange eines comp.: {#anyakAmA#} {%Liebe zu einem Andern hegend%}
+<ls>R. 5,13,68.</ls> {#ananyamAnasA#}
+<ls>INDR. 5,4.</ls> Erhält hier nicht die Endung des fem.: {#idamananyaparAyaRaM hfdayam#}
+<ls>ŚĀK. 67.</ls> {#yadA tu pUrvavfttamanyasaNgAdvismfto BavAn#}
+<ls n="ŚĀK.">71,3.</ls> Bisweilen erscheint das Wort am Anf. eines comp. in der neutr. Form {#anyad#}
+<ls>P. 6,3,99.</ls> <ls n="P. 6,3,">100.</ls> Das neutr. {#anyad#} wird als indecl. im <is>gaṇa</is> {#svarAdi#} aufgeführt. {#anyacca#} {%und ein Anderes%} dient oft zur Anreihung und lässt sich durch {%ferner%} übersetzen,
+<ls>HIT. 4,20.</ls> <ls n="HIT.">6,12.</ls> <ls n="HIT.">8,3.</ls> u.s.w. <ls>KATHĀS. 1,65.</ls> — {#anya#} pleon. mit {#antara#} verbunden: {#anyatsTAnAntaraM gatvA#}
+<ls>PAÑCAT. 22,14.</ls> {#anyamArgAntareRAgatya#}
+<ls n="PAÑCAT.">199,17.</ls> — {%ein anderer als, verschieden von%}, mit dem abl.
+<ls>P. 2,3,29.</ls>
+<ls>VOP. 5,21.</ls> {#a\nyama\smat#}
+<ls>ṚV. 8,64,13.</ls> {#a\nyena\ matpra\muda^H kalpayasva#}
+<ls n="ṚV.">10,10,12.</ls> <ls n="ṚV. 10,10,">8.</ls> {#nAnyadAtmano 'paSyat#}
+<ls>BṚH. ĀR. UP. 1,4,1.</ls>
+<ls>M. 4,221.</ls> <ls n="M.">8,75.</ls> <ls n="M.">9,113.</ls> <ls n="M.">10,91.</ls>
+<ls>MBH. 1,7081.</ls>
+<ls>N. 11,36.</ls>
+<ls>ŚĀK. 4,2.</ls>
+<ls>HIT. I,124. 21,12.</ls> <ls>RAGH. 12,49.</ls> <ls>AK. 2,2,1.</ls> <ls n="AK. 2,">9,92.</ls> <ls n="AK.">3,6,24.</ls> {#sTAvaraM jaNgamAdanyat#} ({%der Gegensatz%})
+<ls>H. 1454.</ls> {#itaH — anyena#}
 [Page1-0262]
-
-<ls>BṚH. ĀR. UP. 1, 3, 24.</ls> {#ato yadanyat#} 
-<ls>M. 8, 78. 10, 123. 12, 96.</ls> {#tato 'nyaH#} 
-<ls>5, 52.</ls> <ls>H. 476</ls> ({%der Gegensatz%}). {#ko 'nyastvattaH#} 
-<ls>VID. 245.</ls> mit {#fte#} in Verbindung mit {#na#} oder im Fragesatze: {#na hyekAhnA SataM gantA tvAmfte 'nyaH pumAniha#} 
-<ls>N. 24, 33.</ls> {#gatimanyAm - guruputrAnfte sarvAnnAhaM paSyAmi kAM ca na#} 
-<ls>VIŚV. 7, 20.</ls> {#kA hyanyA tvadfte brUyAdvacanaM divyamIdfSam#} 
-<ls>R. 5, 36, 5.</ls> {#fte samudrAdanyaH ko biBarti vaqavAnalam#} 
-<ls>PAÑCAT. V, 30.</ls> {#kiM nu Kalu me priyadarSanAdfte SaraRamanyat#} 
-<ls>ŚĀK. 32, 13.</ls> mit {#vinA#} 
-<ls>KATHĀS. 5, 35 (6,</ls> <ls>?152):</ls> {#imaM nAnyo mayA vinA . vetti#}, mit {#varjitam#} 
-<ls>R. 1, 8, 8</ls> : {#nAnyaM prajYAsyate kaMcinmAnavaM pitfvarjitam#}, mit {#varjam#} 
-(<ls>KOS.</ls>: {#varjyam#}) 
-<ls>PAÑCAT. 128, 22</ls> : {#tvadvarjyamanyo BartA manasyapi me na Bavizyati#}, mit {#muktvA#} 
-<ls>KATHĀS. 13, 7</ls> : {#sA cAnugantuM vegena SakyA nAnyena dantinA . muktvA nuqAgirim#} . Man trifft {#anya#} mit dem entgegengestellten Begriffe auch componirt an: {#BavadanyaH#} {%ein anderer als du%} 
-<ls>HIT. 25, 1</ls>; in den folg. Beispielen kann das vorangehende pron. auch als abl. gefasst werden: {#yanmadanyannAsti#} 
-<ls>BṚH. ĀR. UP. 1, 4, 2.</ls> {#tvadanyam#} 
-<ls>N. 1, 20. 12, 14.</ls> 
-<ls>RAGH. 3, 63.</ls> — {%ein anderer, ein zweiter%}: {#sa guhyo 'nyastrivfdvedaH#} 
-<ls>M. 11, 265.</ls> {#tvamiva yantA nAnyo 'sti#} 
-<ls>N. 20, 13.</ls> {#anyamindraM karizyAmi#} 
-<ls>VIŚV. 10, 22.</ls> — {%ein anderer, ein Fremder%} (Gegensatz {#Atman, sva): a\nyasyA^ va\tsaM ri^ha\tI mi^mAya#} 
-<ls>ṚV. 3, 55, 13.</ls> {#a\nye jA\yAM pari^ mfSantyasya#} 
-<ls n="ṚV.">10, 34, 4.</ls> {#a\nyo ba^BrU\RAM prasi^tO\ nva^stu#} 
-<ls n="ṚV. 10, 34,">14.</ls> <ls n="ṚV.">10, 10, 14.</ls> {#svAScAnye#} {%die Seinigen und Fremde%} 
-<ls>BṚH. ĀR. UP. 5, 3.</ls> {#viSAsti paSumanyaH . ftvijAM vEkaH#} 
-<ls>KĀTY. ŚR. 6, 7, 1. 2. 4.</ls> {#vAsaSca DftamanyErna DArayet#} 
-<ls>M. 4, 66.</ls> {#nAnyotpannA prajAstIha na cApyanyaparigrahe#} 
-<ls>5, 162.</ls> {#anyastrIga#} 
-<ls>8, 386.</ls> {#yA niyuktAnyataH putraM devarAdvApyavApnuyAt#} 
-<ls>9, 147.</ls> {#Atmano yadi vAnyezAM gfhe kzetre 'Ta vA Kale#} 
-<ls>11, 114.</ls> {#na cAhaM puruzAnanyAnpraBAzeyaM kaTaM ca na#} 
-<ls>N. 13, 42.</ls> {#kaTamAtmasutAnhitvA trAyase 'nyasutAn#} 
-<ls>VIŚV. 12, 14.</ls> {#anyasvacakrato Bayam#} 
-<ls>H. 60. 67. 68. 323. 521.</ls> — Während in {#paYcatantrAttaTAnyasmAdgranTAt#} (
-<ls>HIT. Pr. 8.</ls>) {%aus dem%} 
-<ls>PAÑCATANTRA</ls> {%als auch aus einem andern Werke%} der nachfolgende weitere Begriff durch {#anya#} beschränkt und erst dadurch dem vorangehenden engern Begriffe coordinirt wird, erscheint nicht selten bei einer äusserlich ganz gleichen Verbindung {#anya#} vor einem von Haus aus coordinirten Begriffe. In diesem Falle steht {#anya#}, streng genommen, ganz müssig da, indem es eine von selbst sich verstehende Verschiedenheit noch einmal hervorhebt. {#etEranyESca bahuBI rAjaputrEH#} (die {#ete#} sind nicht {#rAjaputrAH#}) 
-<ls>R. 1, 27, 21.</ls> {#fco yajUMzi cAnyAni sAmAni viviDAni ca#} 
-<ls>M. 11, 264.</ls> {#na tApasErbrAhmaRErvA vayoBirapi vA SvaBiH . AkIrRaM BikzukErvAnyErAgAramupasaMvrajet ..#} 
-<ls>6, 51.</ls> {#matsyAnAM pakziRAM cEva tElasya ca Gftasya ca . mAMsasya maDunaScEva yaccAnyatpaSusaMBavam ..#} 
-<ls>8, 328.</ls> {#fziBirbAlaKilyESca jApahomaparAyaREH . anyErvEKAnasEScEva#} 
-<ls>VIŚV. 1, 9.</ls> {#saKI pravrajikA dAsI prezyA DAtreyikA taTA . anyASca SilpakAriRyo vijYeyA hyanunAyikAH ..#} 
-<ls>BHARATA</ls> beim Schol. zu <ls>ŚĀK. 9, 6.</ls> {#nAntako 'pi praBuH prahartuM kimutAnyahiMsrAH#} 
-<ls>RAGH. 2, 62.</ls> Ganz so im Griechischen, 
-z. B. d. <ls>2, 411. 412</ls> :
-<lang n="greek">μήτηρ δ᾽ ἐμοὶ οὔτι πέπυσται, οὐδ᾽ ἄλλαι δμωαί.</lang> — {%der andere%}: {#a\nyamarDa^m#} 
-<ls>ṚV. 6, 47, 21.</ls> <ls n="ṚV.">3, 46, 2.</ls> {#upavItaM yajYasUtraM prodDfte dakziRe kare . prAcInAvItamanyasmin#} (d. i. {#savye#}) 
-<ls>AK. 2, 7, 49.</ls> <ls>?= H. 845.</ls> pl. {%die übrigen%} 
-<ls>H. 49. 520.</ls> {#trayo 'nye#} 
-<ls>ŚRUT. 24.</ls> {#sahAnyEstErbrAhmaREH#} 
-<ls>VID. 60.</ls> {#viDUya viprAMScAnyAMstAn#} 
-<ls>44.</ls> (man beachte das dabeistehende pron.), auch mit {#sarva#} verbunden: {#anye te sarve#} 
-<ls>61.</ls> — {%ein%} (als unbestimmter Artikel): {#anyasminnahani#} {%eines Tages%} 
-<ls>PAÑCAT. 80, 6. 95, 15.</ls> {#anyasmindivase#} 
-<ls>VET. 28, 14.</ls> {#anyasmindine#}
+<ls>BṚH. ĀR. UP. 1,3,24.</ls> {#ato yadanyat#}
+<ls>M. 8,78.</ls> <ls n="M.">10,123.</ls> <ls n="M.">12,96.</ls> {#tato 'nyaH#}
+<ls n="M.">5,52.</ls> <ls>H. 476</ls> ({%der Gegensatz%}). {#ko 'nyastvattaH#}
+<ls>VID. 245.</ls> mit {#fte#} in Verbindung mit {#na#} oder im Fragesatze: {#na hyekAhnA SataM gantA tvAmfte 'nyaH pumAniha#}
+<ls>N. 24,33.</ls> {#gatimanyAm — guruputrAnfte sarvAnnAhaM paSyAmi kAM ca na#}
+<ls>VIŚV. 7,20.</ls> {#kA hyanyA tvadfte brUyAdvacanaM divyamIdfSam#}
+<ls>R. 5,36,5.</ls> {#fte samudrAdanyaH ko biBarti vaqavAnalam#}
+<ls>PAÑCAT. V,30.</ls> {#kiM nu Kalu me priyadarSanAdfte SaraRamanyat#}
+<ls>ŚĀK. 32,13.</ls> mit {#vinA#}
+<ls>KATHĀS. 5,35</ls> (<ls n="KATHĀS.">6,152</ls>): {#imaM nAnyo mayA vinA . vetti#}, mit {#varjitam#}
+<ls>R. 1,8,8</ls> : {#nAnyaM prajYAsyate kaMcinmAnavaM pitfvarjitam#}, mit {#varjam#}
+(<ls>KOS.</ls>: {#varjyam#})
+<ls>PAÑCAT. 128,22</ls> : {#tvadvarjyamanyo BartA manasyapi me na Bavizyati#}, mit {#muktvA#}
+<ls>KATHĀS. 13,7</ls> : {#sA cAnugantuM vegena SakyA nAnyena dantinA . muktvA nuqAgirim#} . Man trifft {#anya#} mit dem entgegengestellten Begriffe auch componirt an: {#BavadanyaH#} {%ein anderer als du%}
+<ls>HIT. 25,1</ls>; in den folg. Beispielen kann das vorangehende pron. auch als abl. gefasst werden: {#yanmadanyannAsti#}
+<ls>BṚH. ĀR. UP. 1,4,2.</ls> {#tvadanyam#}
+<ls>N. 1,20.</ls> <ls n="N.">12,14.</ls>
+<ls>RAGH. 3,63.</ls> — {%ein anderer, ein zweiter%}: {#sa guhyo 'nyastrivfdvedaH#}
+<ls>M. 11,265.</ls> {#tvamiva yantA nAnyo 'sti#}
+<ls>N. 20,13.</ls> {#anyamindraM karizyAmi#}
+<ls>VIŚV. 10,22.</ls> — {%ein anderer, ein Fremder%} (Gegensatz {#Atman, sva): a\nyasyA^ va\tsaM ri^ha\tI mi^mAya#}
+<ls>ṚV. 3,55,13.</ls> {#a\nye jA\yAM pari^ mfSantyasya#}
+<ls n="ṚV.">10,34,4.</ls> {#a\nyo ba^BrU\RAM prasi^tO\ nva^stu#}
+<ls n="ṚV. 10,34,">14.</ls> <ls n="ṚV.">10,10,14.</ls> {#svAScAnye#} {%die Seinigen und Fremde%}
+<ls>BṚH. ĀR. UP. 5,3.</ls> {#viSAsti paSumanyaH . ftvijAM vEkaH#}
+<ls>KĀTY. ŚR. 6,7,1.</ls> <ls n="KĀTY. ŚR. 6,7,">2.</ls> <ls n="KĀTY. ŚR.6,7,">4.</ls> {#vAsaSca DftamanyErna DArayet#}
+<ls>M. 4,66.</ls> {#nAnyotpannA prajAstIha na cApyanyaparigrahe#}
+<ls n="M.">5,162.</ls> {#anyastrIga#}
+<ls n="M.">8,386.</ls> {#yA niyuktAnyataH putraM devarAdvApyavApnuyAt#}
+<ls n="M.">9,147.</ls> {#Atmano yadi vAnyezAM gfhe kzetre 'Ta vA Kale#}
+<ls n="M.">11,114.</ls> {#na cAhaM puruzAnanyAnpraBAzeyaM kaTaM ca na#}
+<ls>N. 13,42.</ls> {#kaTamAtmasutAnhitvA trAyase 'nyasutAn#}
+<ls>VIŚV. 12,14.</ls> {#anyasvacakrato Bayam#}
+<ls>H. 60.</ls> <ls n="H.">67.</ls> <ls n="H.">68.</ls> <ls n="H.">323.</ls> <ls n="H.">521.</ls> — Während in {#paYcatantrAttaTAnyasmAdgranTAt#} (
+<ls>HIT. Pr. 8.</ls>) {%aus dem%}
+<ls>PAÑCATANTRA</ls> {%als auch aus einem andern Werke%} der nachfolgende weitere Begriff durch {#anya#} beschränkt und erst dadurch dem vorangehenden engern Begriffe coordinirt wird, erscheint nicht selten bei einer äusserlich ganz gleichen Verbindung {#anya#} vor einem von Haus aus coordinirten Begriffe. In diesem Falle steht {#anya#}, streng genommen, ganz müssig da, indem es eine von selbst sich verstehende Verschiedenheit noch einmal hervorhebt. {#etEranyESca bahuBI rAjaputrEH#} (die {#ete#} sind nicht {#rAjaputrAH#})
+<ls>R. 1,27,21.</ls> {#fco yajUMzi cAnyAni sAmAni viviDAni ca#}
+<ls>M. 11,264.</ls> {#na tApasErbrAhmaRErvA vayoBirapi vA SvaBiH . AkIrRaM BikzukErvAnyErAgAramupasaMvrajet ..#}
+<ls n="M.">6,51.</ls> {#matsyAnAM pakziRAM cEva tElasya ca Gftasya ca . mAMsasya maDunaScEva yaccAnyatpaSusaMBavam ..#}
+<ls n="M.">8,328.</ls> {#fziBirbAlaKilyESca jApahomaparAyaREH . anyErvEKAnasEScEva#}
+<ls>VIŚV. 1,9.</ls> {#saKI pravrajikA dAsI prezyA DAtreyikA taTA . anyASca SilpakAriRyo vijYeyA hyanunAyikAH ..#}
+<ls>BHARATA</ls> beim Schol. zu <ls>ŚĀK. 9,6.</ls> {#nAntako 'pi praBuH prahartuM kimutAnyahiMsrAH#}
+<ls>RAGH. 2,62.</ls> Ganz so im Griechischen,
+z. B. d. <ls n="RAGH.">2,411.</ls> <ls n="RAGH. 2,">412</ls> :
+<lang n="greek">μήτηρ δ᾽ ἐμοὶ οὔτι πέπυσται, οὐδ᾽ ἄλλαι δμωαί</lang>. — {%der andere%}: {#a\nyamarDa^m#}
+<ls>ṚV. 6,47,21.</ls> <ls n="ṚV.">3,46,2.</ls> {#upavItaM yajYasUtraM prodDfte dakziRe kare . prAcInAvItamanyasmin#} (<ab>d. i.</ab> {#savye#})
+<ls>AK. 2,7,49.</ls> = <ls>H. 845.</ls> pl. {%die übrigen%}
+<ls>H. 49.</ls> <ls n="H.">520.</ls> {#trayo 'nye#}
+<ls>ŚRUT. 24.</ls> {#sahAnyEstErbrAhmaREH#}
+<ls>VID. 60.</ls> {#viDUya viprAMScAnyAMstAn#}
+<ls n="VID.">44.</ls> (man beachte das dabeistehende pron.), auch mit {#sarva#} verbunden: {#anye te sarve#}
+<ls n="VID.">61.</ls> — {%ein%} (als unbestimmter Artikel): {#anyasminnahani#} {%eines Tages%}
+<ls>PAÑCAT. 80,6.</ls> <ls n="PAÑCAT.">95,15.</ls> {#anyasmindivase#}
+<ls>VET. 28,14.</ls> {#anyasmindine#}
 [Page1-0263]
-
-<ls>30, 2.</ls> {#anyadine#} 
-<ls>PAÑCAT. 87, 5. 212, 25.</ls> — {%einer unter mehreren%}, mit dem gen.: {#tApasInAmanyA#} 
-<ls>ŚĀK. 49, 9, v. l.</ls> für {#anyatamA#}.{# - anyaH kaScit#} oder {#kaScana#} {%irgend ein anderer%}, mit der Negation: {%kein anderer%}: {#ta\kzA vAnyo\ vAmeDyaH kaScit#} 
-<ls>ŚAT. BR. 1, 1, 3, 12.</ls> {#yaccAnyatkiMcidIdfSam#} 
-<ls>M. 1, 45. 12, 96.</ls> 
-<ls>N. 4, 2. 9, 1. 26, 5.</ls> 
-<ls>DAŚ. 1, 12. 20.</ls> 
-<ls>PAÑCAT. 109, 17. 157, 20.</ls> {#nAnyena kenacit#} 
-<ls>M. 1, 103. 2, 16.</ls> 
-<ls>N. 11, 11. 12, 14. 22, 15.</ls> 
-<ls>VIŚV. 7, 20.</ls> 
-<ls>RAGH. 12, 49.</ls> Dieselbe Bedeutung hat {#nAnyaH kaH#} 
-<ls>KATHĀS. 1, 56</ls> : {#nAnyo jAnAti kaH priye#}.{# - anya - anya#} {%der eine - der andere%} (das 1ste verb. fin. kann den Ton erhalten 
-<ls>P. 8, 1, 65.</ls>): {#tayo^ra\nyaH pippa^laM svA\dvattyana^Snanna\nyo a\Bi cA^kaSIti#} 
-<ls>ṚV. 1, 164, 20.</ls> (= <ls>MUṆḌ. UP. 3, 1, 1.</ls> = <ls>ŚVETĀŚV. UP. 4, 6.</ls> = <ls>P. 8, 1, 65</ls>, <ls>Sch.</ls>) {#di\vya1^\nyaH sada^naM ca\kra u\ccA pf^Ti\vyAma\nyo aDya\ntari^kze#} 
-<ls>2, 40, 4.</ls> {#te vA ete paYcAnye paYcAnye daSa santaH#} {%fünf von der einen und fünf von der andern Seite%} 
-<ls>CHĀND. UP. 4, 3, 8.</ls> {#prAcyo 'nyA nadyaH syandante SveteByaH parvateByo 'nyA yAM yAM ca diSamanu#} 
-<ls>3, 8, 9.</ls> {#anyaduptaM jAtamanyat#} 
-<ls>M. 9, 40.</ls> {#yadanyasya pratijYAya punaranyasya dIyate#} 
-<ls>99.</ls> {#anyAM ceddarSayitvAnyA voQuH kanyA pradIyate#} 
-<ls>8, 204.</ls> {#a\nyA vo^ a\nyAma^vatva\nyAnyAnyasyA\ upA^vata#} 
-<ls>ṚV. 10, 97, 14.</ls> {#a\nyo a\nyamanu^ gfBRAyenoH#} 
-<ls n="ṚV.">7, 103, 4.</ls> {#nAnyadanyena saMsfzwaM rUpaM vikrayamarhati#} 
-<ls>M. 8, 203.</ls> Das 2te {#anya#} fehlt: {#BidyamAnamivASaktastrAtumanyo nago nagam#} 
-<ls>DAŚ. 1, 40.</ls> Gleichbed. mit {#anya - anya#} ist {#eka - anya#} 
-<ls>ŚVETĀŚV. UP. 4, 5.</ls> 
-<ls>HIT. I, 60.</ls> <ls>MEGH. 76.</ls> und {#kecit - anye#} 
-<ls>M. 3, 261.</ls> Bei einer mehr als zweif. Theilung können noch {#apara#} und die ordinalia eintreten: {#manasyanyadvacasyanyatkarmaRyanyaddurAtmanAm . manasyekaM vacasyekaM karmaRyekaM mahAtmanAm ..#} 
-v. l. zu <ls>HIT. I, 93.</ls> {#anye kftayuge DarmAstretAyAM#} (hier könnte nochmals {#anye#} stehen) {#dvAyare 'pare . anye kaliyuge#} 
-<ls>M. 1, 85.</ls> {#eke - anye - taTAnye#} 
-<ls>10, 70.</ls> {#kenacit - kenacit - anyeByaH#} 
-<ls>ŚĀK. 80.</ls> {#ekaH - anyaH - ekaH - caturTaH#} 
-<ls>M. 4, 9.</ls> {#eke - anye - eke - apare - apare#} 
-<ls>12, 123.</ls> {#kAMScit - anyAn - kAMScit - anyAn - kAMScit - aparAn#} 
-<ls>R. 5, 40, 12. 13. 3</ls> Mal {#kaScit - anyaH - aparaH - kaScit - anyaH - aparaH - anyaH - kaScit - aparaH - anyaH - kecit - apare#} 
-<ls>1, 4, 18-22.</ls> 
+<ls n="VET.">30,2.</ls> {#anyadine#}
+<ls>PAÑCAT. 87,5.</ls> <ls n="PAÑCAT.">212,25.</ls> — {%einer unter mehreren%}, mit dem gen.: {#tApasInAmanyA#}
+<ls>ŚĀK. 49,9, v. l.</ls> für {#anyatamA#}.{# — anyaH kaScit#} oder {#kaScana#} {%irgend ein anderer%}, mit der Negation: {%kein anderer%}: {#ta\kzA vAnyo\ vAmeDyaH kaScit#}
+<ls>ŚAT. BR. 1,1,3,12.</ls> {#yaccAnyatkiMcidIdfSam#}
+<ls>M. 1,45.</ls> <ls n="M.">12,96.</ls>
+<ls>N. 4,2.</ls> <ls n="N.">9,1.</ls> <ls n="N.">26,5.</ls>
+<ls>DAŚ. 1,12. 20.</ls>
+<ls>PAÑCAT. 109,17.</ls> <ls n="PAÑCAT.">157,20.</ls> {#nAnyena kenacit#}
+<ls>M. 1,103.</ls> <ls n="M.">2,16.</ls>
+<ls>N. 11,11.</ls> <ls n="N.">12,14.</ls> <ls n="N.">22,15.</ls>
+<ls>VIŚV. 7,20.</ls>
+<ls>RAGH. 12,49.</ls> Dieselbe Bedeutung hat {#nAnyaH kaH#}
+<ls>KATHĀS. 1,56</ls> : {#nAnyo jAnAti kaH priye#}.{# — anya — anya#} {%der eine — der andere%} (das 1ste verb. fin. kann den Ton erhalten
+<ls>P. 8,1,65.</ls>): {#tayo^ra\nyaH pippa^laM svA\dvattyana^Snanna\nyo a\Bi cA^kaSIti#}
+<ls>ṚV. 1,164,20.</ls> (= <ls>MUṆḌ. UP. 3,1,1.</ls> = <ls>ŚVETĀŚV. UP. 4,6.</ls> = <ls>P. 8,1,65</ls>, <ls>Sch.</ls>) {#di\vya1^\nyaH sada^naM ca\kra u\ccA pf^Ti\vyAma\nyo aDya\ntari^kze#}
+<ls n="ṚV.">2,40,4.</ls> {#te vA ete paYcAnye paYcAnye daSa santaH#} {%fünf von der einen und fünf von der andern Seite%}
+<ls>CHĀND. UP. 4,3,8.</ls> {#prAcyo 'nyA nadyaH syandante SveteByaH parvateByo 'nyA yAM yAM ca diSamanu#}
+<ls n="CHĀND. UP.">3,8,9.</ls> {#anyaduptaM jAtamanyat#}
+<ls>M. 9,40.</ls> {#yadanyasya pratijYAya punaranyasya dIyate#}
+<ls n="M. 9,">99.</ls> {#anyAM ceddarSayitvAnyA voQuH kanyA pradIyate#}
+<ls n="M.">8,204.</ls> {#a\nyA vo^ a\nyAma^vatva\nyAnyAnyasyA\ upA^vata#}
+<ls>ṚV. 10,97,14.</ls> {#a\nyo a\nyamanu^ gfBRAyenoH#}
+<ls n="ṚV.">7,103,4.</ls> {#nAnyadanyena saMsfzwaM rUpaM vikrayamarhati#}
+<ls>M. 8,203.</ls> Das 2te {#anya#} fehlt: {#BidyamAnamivASaktastrAtumanyo nago nagam#}
+<ls>DAŚ. 1,40.</ls> Gleichbed. mit {#anya — anya#} ist {#eka — anya#}
+<ls>ŚVETĀŚV. UP. 4,5.</ls>
+<ls>HIT. I,60.</ls> <ls>MEGH. 76.</ls> und {#kecit — anye#}
+<ls>M. 3,261.</ls> Bei einer mehr als zweif. Theilung können noch {#apara#} und die ordinalia eintreten: {#manasyanyadvacasyanyatkarmaRyanyaddurAtmanAm . manasyekaM vacasyekaM karmaRyekaM mahAtmanAm ..#}
+v. l. zu <ls>HIT. I,93.</ls> {#anye kftayuge DarmAstretAyAM#} (hier könnte nochmals {#anye#} stehen) {#dvAyare 'pare . anye kaliyuge#}
+<ls>M. 1,85.</ls> {#eke — anye — taTAnye#}
+<ls n="M.">10,70.</ls> {#kenacit — kenacit — anyeByaH#}
+<ls>ŚĀK. 80.</ls> {#ekaH — anyaH — ekaH — caturTaH#}
+<ls>M. 4,9.</ls> {#eke — anye — eke — apare — apare#}
+<ls n="M.">12,123.</ls> {#kAMScit — anyAn — kAMScit — anyAn — kAMScit — aparAn#}
+<ls>R. 5,40,12.</ls> <ls n="R. 5,40,">13.</ls> 3 Mal {#kaScit — anyaH — aparaH — kaScit — anyaH — aparaH — anyaH — kaScit — aparaH — anyaH — kecit — apare#}
+<ls n="R.">1,4,18</ls>-<ls n="R. 1,4,">22.</ls>
 <div n="v">— Vgl. {#anyatara, anyatama#} und {#anyo'nya#} .
 <LEND>

@@ -1,4 +1,4 @@
 <L>15578<pc>478<k1>nozzle<k2>nozzle
-<div n="lb"/>{@NOZZLE:@}¦ <div n="I">I Lit.: {#nAsAgram.#} </div><div n="I">II Of a vessel:
-<div n="lb"/>{#karRaH.#}</div>
+{@NOZZLE:@}¦ <div n="I">I Lit.: {#nAsAgram.#} </div><div n="I">II Of a vessel:
+{#karRaH.#}</div>
 <LEND>

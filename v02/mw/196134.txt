@@ -1,5 +1,5 @@
-<L>196134<pc>965,3<k1>viduz<k2>vi-duz<h>b<e>1
-<s>vi-√ duz</s> <hom>b</hom> ¦ <ab>P.</ab> <s>-duzyati</s>, to be defiled, commit a fault or sin, transgress, <ls>Viṣṇ.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-dUzayati</s>, to defile, corrupt, disgrace, <ls>RV.</ls>; <ls>BhP.</ls>;
-<div n="to"/> (with <s>upahAsEH</s>) to deride, ridicule, <ls>MārkP.</ls><info verb="pre" cp="P" parse="vi+duz"/>
+<L>196134<pc>965,3<k1>viduz<k2>vi-duz<e>1
+<s>vi-√ duz</s> ¦ <ab>P.</ab> <s>-duzyati</s>, to be defiled, commit a fault or sin, transgress, <ls>Viṣṇ.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>-dUzayati</s>, to defile, corrupt, disgrace, <ls>RV.</ls>; <ls>BhP.</ls>;
+<div n="to"/> (with <s>upahAsEH</s>) to deride, ridicule, <ls>MārkP.</ls><info verb="pre" cp="P" parse="vi+duz"/><info hui="b"/>
 <LEND>

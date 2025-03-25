@@ -1,5 +1,5 @@
-<L>133052<pc>670,1<k1>prativas<k2>prati-vas<h>b<e>1
-<s>prati-√ vas</s> <hom>b</hom> ¦ <ab>P.</ab> <s>-vasati</s> (<ab>ep.</ab> also <ab>Ā.</ab> <s>°te</s>), to live, dwell, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
-<div n="to"/><ab>Caus.</ab> <s>-vasayati</s>, to cause to dwell, settle, <ls>RV.</ls>;
-<div n="to"/>to lodge, receive as a guest, <ls>MBh.</ls><info verb="pre" cp="PĀ" parse="prati+vas"/>
+<L>133052<pc>670,1<k1>prativas<k2>prati-vas<e>1
+<s>prati-√ vas</s> ¦ <ab>P.</ab> <s>-vasati</s> (<lang>ep.</lang> also <ab>Ā.</ab> <s>°te</s>), to live, dwell, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
+<div n="vp"/><ab>Caus.</ab> <s>-vasayati</s>, to cause to dwell, settle, <ls>RV.</ls>;
+<div n="to"/>to lodge, receive as a guest, <ls>MBh.</ls><info verb="pre" cp="PĀ" parse="prati+vas"/><info hui="b"/>
 <LEND>

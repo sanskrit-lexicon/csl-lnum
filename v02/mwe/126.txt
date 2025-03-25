@@ -1,7 +1,7 @@
 <L>126<pc>004-a<k1>accident<k2>accident
-<div n="lb"/>ACCIDENT¦, {%s.%} (A casualty, chance) {#saNgatiH#} {%f.,%} {#dEvayogaH, dEvagatiH#} {%f.,%}
-<div n="lb"/>{#dEvAt#} or {#akasmAt saNgataM, dEvaGawanaM#} or {#-nA, ativarttanaM, aByudayaH#}. — 
-<div n="lb"/>(Unfortunate accident) {#Apada#} {%f.,%} {#vipada#} {%f.%} — (A non-essential
-<div n="lb"/>quality) {#aprakftiH#} {%f.,%} {#asahajo guRaH#}. — (By accident) {#akasmAt,#}
-<div n="lb"/>{#dEvAt, dEvena, dEvagatyA#}.
+ACCIDENT¦, {%s.%} (A casualty, chance) {#saNgatiH#} {%f.,%} {#dEvayogaH, dEvagatiH#} {%f.,%}
+{#dEvAt#} or {#akasmAt saNgataM, dEvaGawanaM#} or {#-nA, ativarttanaM, aByudayaH#}. — 
+(Unfortunate accident) {#Apada#} {%f.,%} {#vipada#} {%f.%} — (A non-essential
+quality) {#aprakftiH#} {%f.,%} {#asahajo guRaH#}. — (By accident) {#akasmAt,#}
+{#dEvAt, dEvena, dEvagatyA#}.
 <LEND>

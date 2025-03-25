@@ -1,16 +1,16 @@
 <L>20206<pc>629<k1>servant<k2>servant
-<div n="lb"/>{@SERVANT:@}¦ <div n="1">(1) {#BftyaH,#} <div n="xe">{%engages a s. without fixing%}
-<div n="lb"/>{%his wages:%}</div> <div n="xs">{#vetanaparicCedamakftvEva BftyaM kArayati,#}</div>
-<div n="lb"/>Mit.; {%you%} ({%are our%}) {%master, we%} ({%are%}) <div n="xe">{%s. s:%}</div> <div n="xs">{#vayaM #}
-<div n="lb"/>{# BftyA BavAn svAmI,#}</div> M.p.; </div><div n="1">(2) {#BftaH, -kaH#} (rare),
-<div n="lb"/>{%if a s. does not do his work after receiving pay:%}
-<div n="lb"/>{#gfhItavetanaH karma na karoti yaTA BftaH,#} Vri.; {%s. s are of%}
-<div n="lb"/>{%three kinds — superior, inferior%} (menial), {%and%}
-<div n="lb"/>{%mean%} (agricultural): {#BftakastriviDo jYeyaH uttamADama-#}
-<div n="lb"/>{#maDyamaH,#} N. s.; <div n="xe">{%a s. paid in money:%}</div> <div n="xs">{#arTaBftaH;#}</div> <div n="xe">{%in%}
-<div n="lb"/>{%kind:%}</div> <div n="xs">{#BogaBftaH,#}</div> N. s.; </div><div n="1">(3) {#sevakaH,#} {%with her s.:%}
-<div n="lb"/>{#svasevakena saha,#} H. iv.; </div><div n="1">(4) {#dAsaH:#} v. Slave;</div>
-<div n="lb"/><div n="1">(5) {#cewaH#} (= page); </div><div n="1">(6) {#kiNkaraH#} (= domestic
-<div n="lb"/>s.), <div n="xe">{%by many disguised s. s:%}</div> <div n="xs">{#anekacCannakiNkarEH,#}</div>
-<div n="lb"/>D. viii.</div>
+{@SERVANT:@}¦ <div n="1">(1) {#BftyaH,#} <div n="xe">{%engages a s. without fixing%}
+{%his wages:%}</div> <div n="xs">{#vetanaparicCedamakftvEva BftyaM kArayati,#}</div>
+Mit.; {%you%} ({%are our%}) {%master, we%} ({%are%}) <div n="xe">{%s. s:%}</div> <div n="xs">{#vayaM #}
+{# BftyA BavAn svAmI,#}</div> M.p.; </div><div n="1">(2) {#BftaH, -kaH#} (rare),
+{%if a s. does not do his work after receiving pay:%}
+{#gfhItavetanaH karma na karoti yaTA BftaH,#} Vri.; {%s. s are of%}
+{%three kinds — superior, inferior%} (menial), {%and%}
+{%mean%} (agricultural): {#BftakastriviDo jYeyaH uttamADama-#}
+{#maDyamaH,#} N. s.; <div n="xe">{%a s. paid in money:%}</div> <div n="xs">{#arTaBftaH;#}</div> <div n="xe">{%in%}
+{%kind:%}</div> <div n="xs">{#BogaBftaH,#}</div> N. s.; </div><div n="1">(3) {#sevakaH,#} {%with her s.:%}
+{#svasevakena saha,#} H. iv.; </div><div n="1">(4) {#dAsaH:#} v. Slave;</div>
+<div n="1">(5) {#cewaH#} (= page); </div><div n="1">(6) {#kiNkaraH#} (= domestic
+s.), <div n="xe">{%by many disguised s. s:%}</div> <div n="xs">{#anekacCannakiNkarEH,#}</div>
+D. viii.</div>
 <LEND>

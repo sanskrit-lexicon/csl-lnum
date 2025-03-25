@@ -1,13 +1,13 @@
 <L>25769<pc>700-b<k1>ruin<k2>ruin
-<div n="lb"/>RUIN¦, {%s.%} (Destruction) {#nASaH, vinASaH, praRASaH, kzayaH, DvaMsaH, praDvaMsaH,#}
-<div n="lb"/>{#pariDvaMsaH, parikzayaH, atyayaH, vyasanaM, GAtaH, viGAtaH, lopaH, ucCedaH#}. — 
-<div n="lb"/>(Defeat, overthrow) {#parAjayaH, parABavaH, aBiBavaH, sAdaH -danaM, vyasanaM,#}
-<div n="lb"/>{#BaNgaH;#} ‘of an army,’ {#balavyasanaM#}. — (Mischief, bane) {#kzatiH#} {%f.,%}
-<div n="lb"/>{#parikzatiH#} {%f.,%} {#dUzaRaM, anizwaM, apAyaH, anarTaH, vizaM#}. — (Of fortune,
-<div n="lb"/>estate, &c.) {#sampattinASaH, sampattiBaNgaH, lakzmIBaNgaH, ESvaryyaBaNgaH,#}
-<div n="lb"/>{#ESvaryyanASaH, parikzIRatA, parikzayaH, astaH -staM;#} ‘to go to ruin,’
-<div n="lb"/>{#kzi#} in pass. {#(kzIyate), parikzi#}. — (Of a building) {#utsAdanaM, utsannatA,#}
-<div n="lb"/>{#gfhakzayaH, jIrRiH#} {%f.;%} ‘a building in ruins,’ {#utsannagfhaM, jIrRagfhaM,#}
-<div n="lb"/>{#kzIRagfhaM, utsannavAwikA;#} ‘a ruined temple,’ {#jIrRamaRqapaH -paM, jIrRa-#}
-<div n="lb"/>{#devAyatanaM, cirantanadevatAgAraH -raM;#} ‘in ruins,’ {#utsannaH -nnA -nnaM, kzIRaH#} &c.
+RUIN¦, {%s.%} (Destruction) {#nASaH, vinASaH, praRASaH, kzayaH, DvaMsaH, praDvaMsaH,#}
+{#pariDvaMsaH, parikzayaH, atyayaH, vyasanaM, GAtaH, viGAtaH, lopaH, ucCedaH#}. — 
+(Defeat, overthrow) {#parAjayaH, parABavaH, aBiBavaH, sAdaH -danaM, vyasanaM,#}
+{#BaNgaH;#} ‘of an army,’ {#balavyasanaM#}. — (Mischief, bane) {#kzatiH#} {%f.,%}
+{#parikzatiH#} {%f.,%} {#dUzaRaM, anizwaM, apAyaH, anarTaH, vizaM#}. — (Of fortune,
+estate, &c.) {#sampattinASaH, sampattiBaNgaH, lakzmIBaNgaH, ESvaryyaBaNgaH,#}
+{#ESvaryyanASaH, parikzIRatA, parikzayaH, astaH -staM;#} ‘to go to ruin,’
+{#kzi#} in pass. {#(kzIyate), parikzi#}. — (Of a building) {#utsAdanaM, utsannatA,#}
+{#gfhakzayaH, jIrRiH#} {%f.;%} ‘a building in ruins,’ {#utsannagfhaM, jIrRagfhaM,#}
+{#kzIRagfhaM, utsannavAwikA;#} ‘a ruined temple,’ {#jIrRamaRqapaH -paM, jIrRa-#}
+{#devAyatanaM, cirantanadevatAgAraH -raM;#} ‘in ruins,’ {#utsannaH -nnA -nnaM, kzIRaH#} &c.
 <LEND>

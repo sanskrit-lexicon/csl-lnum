@@ -1,229 +1,217 @@
 <L>55940<pc>5-0394<k1>BraMS<k2>BraMS<h>1
-1. {#BraMS#}¦, {#BraS, Bra/MSate#} 
-<ls>DHĀTUP. 18, 17.</ls> {#Bra/Syati#} und {#Bf/Syati (baBarSa#} u. s. w.; nicht zu belegen) 
-<ls>26, 115.</ls> auch med. {#Bra/Syate#}; partic. pass. {#Brazwa; Bfzwa#} s. u. {#aniBfzwa#} . 
-<div n="1"> 1) {%entfallen, herausfallen, fallen%}: {#yasyAgnihotraM sKalate vApi vA BraMSate#} 
-<ls>AIT. BR. 7, 5.</ls> {#saMDAne BraSyamAne#} {%wenn das adstringens abgeht%} 
-<ls>SUŚR. 1, 47, 10.</ls> {#te (SarAH) cABraSyanta varmaRi#} so v. a. {%schlugen an den Panzer an%} 
-<ls>MBH. 7, 3845.</ls> {#te cABraSyanta varmaRaH#} {%prallten vom Panzer ab%} 
-<ls>3846.</ls> {#truwattantukaM muktAjAlamiva prayAti Jawiti BraSyaddiSaH#} {%auseinanderfallend%} 
-<ls>Spr. 3003.</ls> {#kzitiruhAM nadyAmiva BraSyatAm#} {%herabstürzend%} 
-<ls>1770.</ls> {#Brazwa#} {%entfallen, abgefallen, ausgefallen, herabgestürzt%} 
-<ls>AK. 3, 2, 53.</ls> 
-<ls>H. 1491.</ls> {#BrazwABaraRakeSAntA BrazwABaraRavAsasaH#} 
-<ls>MBH. 1, 7632.</ls> {#uttarIyamaDo 'paSyadBrazwam#} 
-<ls>?3, 2809. BRAHMA-P. in LA. (II) 53, 7. RĀJA-TAR. 6, 315. KATHĀS. 27, 186.</ls> {#dantAvalI#} 
-<ls>Spr. 831.</ls> {#BrazwaM nfpatikirIwAdBUmO patitaM ratnam#} 
-<ls>2078.</ls> {#mUzikaSAvakaH SyenamuKAdBrazwaH#} 
-<ls>HIT. 113, 7.</ls> {#maholkeva BrazwAmbarAdgAmiva saMpatantI#} 
-<ls>MBH. 6, 3789.</ls> 
-<ls>KATHĀS. 27, 74.</ls> {#tasya karAdBrazwA gulikA#} 
-<ls>42, 9.</ls> {#hastAdBrazwamidaM bisABaraRam#} 
-<ls>ŚĀK. 74</ls> {#kAzWAdBrazwaH (kUrmaH)#} 
-<ls>Spr. 5279.</ls> {#prasravaRAdBrazwajalapAtamanoramam#} 
-<ls>MĀRK. P. 61, 23.</ls> {#suptastawAdcrade Brazwa iva#} 
-<ls>RĀJA-TAR. 5, 408.</ls>
+1. {#BraMS#}¦, {#BraS, Bra/MSate#}
+<ls>DHĀTUP. 18,17.</ls> {#Bra/Syati#} und {#Bf/Syati (baBarSa#} u. s. w.; nicht zu belegen)
+<ls n="DHĀTUP.">26,115.</ls> auch med. {#Bra/Syate#}; partic. pass. {#Brazwa; Bfzwa#} s. u. {#aniBfzwa#} .
+<div n="1"> 1) {%entfallen, herausfallen, fallen%}: {#yasyAgnihotraM sKalate vApi vA BraMSate#}
+<ls>AIT. BR. 7,5.</ls> {#saMDAne BraSyamAne#} {%wenn das adstringens abgeht%}
+<ls>SUŚR. 1,47,10.</ls> {#te (SarAH) cABraSyanta varmaRi#} so v. a. {%schlugen an den Panzer an%}
+<ls>MBH. 7,3845.</ls> {#te cABraSyanta varmaRaH#} {%prallten vom Panzer ab%}
+<ls n="MBH. 7,">3846.</ls> {#truwattantukaM muktAjAlamiva prayAti Jawiti BraSyaddiSaH#} {%auseinanderfallend%}
+<ls>Spr. 3003.</ls> {#kzitiruhAM nadyAmiva BraSyatAm#} {%herabstürzend%}
+<ls n="Spr.">1770.</ls> {#Brazwa#} {%entfallen, abgefallen, ausgefallen, herabgestürzt%}
+<ls>AK. 3,2,53.</ls>
+<ls>H. 1491.</ls> {#BrazwABaraRakeSAntA BrazwABaraRavAsasaH#}
+<ls>MBH. 1,7632.</ls> {#uttarIyamaDo 'paSyadBrazwam#}
+<ls n="MBH.">3,2809.</ls> <ls>BRAHMA-P. in LA. (II) 53,7.</ls> <ls>RĀJA-TAR. 6,315.</ls> <ls>KATHĀS. 27,186.</ls> {#dantAvalI#}
+<ls>Spr. 831.</ls> {#BrazwaM nfpatikirIwAdBUmO patitaM ratnam#}
+<ls n="Spr.">2078.</ls> {#mUzikaSAvakaH SyenamuKAdBrazwaH#}
+<ls>HIT. 113,7.</ls> {#maholkeva BrazwAmbarAdgAmiva saMpatantI#}
+<ls>MBH. 6,3789.</ls>
+<ls>KATHĀS. 27,74.</ls> {#tasya karAdBrazwA gulikA#}
+<ls n="KATHĀS.">42,9.</ls> {#hastAdBrazwamidaM bisABaraRam#}
+<ls>ŚĀK. 74</ls> {#kAzWAdBrazwaH (kUrmaH)#}
+<ls>Spr. 5279.</ls> {#prasravaRAdBrazwajalapAtamanoramam#}
+<ls>MĀRK. P. 61,23.</ls> {#suptastawAdcrade Brazwa iva#}
+<ls>RĀJA-TAR. 5,408.</ls>
 [Page5-0395]
-In comp. mit dem im abl. gedachten Worte: {#tacCaMkaraSiroBrazwaM BrazwaM BUmitale punaH (salilam)#} 
-<ls>R. 1, 44, 27.</ls> 
-<ls>Spr. 2162.</ls> {#nIvArAH SukagarBakowaramuKaBrazwAstarURAmaDaH#} 
-<ls>ŚĀK. 14.</ls> {#divo BrazwaH#} {%aus dem Himmel gestürzt%} so v. a. {%vom Himmel auf die Erde verbannt%} 
-<ls>ŚUK.</ls> in <ls>LA. (II) 32, 16. 17.</ls> 
-<div n="1">— 2) {%fallen, zu Fall kommen, stürzen%} in übertr. Bed.: {#ye tIkzRamunavartante BraSyante saha tena te#} 
-<ls>R. 3, 45, 12.</ls> {#(munayaH) BraSyante kAmamanyuBiH#} 
-<ls>R.</ls> <ls>SCHL. 2, 22, 23.</ls> {#BrazwaM nfpaM mantriRaH (tyajanti)#} 
-<ls>Spr. 2883. 3965.</ls> {#svayaM mAyAmohitaSca paraM BrazwaM karoti#} 
-<ls>PAÑCAR. 1, 10, 14.</ls> {#SApaBrazwA apsarAH#} {%in Folge eines Fluchs%} (aus dem Himmel) {%gestürzt, zur Erde verbannt%} 
-<ls>KATHĀS. 6, 17.</ls> 
-<div n="1">— 3) {%verschwinden, verloren gehen%}: {#saMgrAmAdbaBraSuH#} {%verschwanden aus der Schlacht%} so v. a. {%flohen%} 
-<ls>BHAṬṬ. 14, 105.</ls> {#saMtApAdBraSyate rUpaM saMtApAdBraSyate balam . saMtApAdBraSyate jYAnam#} 
-<ls>Spr. 5148.</ls> {#dfzwirBraSyati#} (v. l. für {#naSyati)#} 
-<ls>831, v. l.</ls> {#kiMciccABraSyata svaraH#} {%vergehen, versagen%} 
-<ls>R. 6, 75, 36.</ls> {#Brazwa#} {%verschwunden, dahin seiend%}: {#kastUrIpattraBaNganikaro Brazwo na gaRqasTale#} 
-<ls>Spr. 622.</ls> {#Brazwe SanEryOvane#} 
-<ls>2183.</ls> {#vijYAnaM hi mama BrazwaM SApadozeRa#} 
-<ls>R. 3, 75, 44.</ls> {#jYAnaM te Bavatu Brazwam#} 
-<ls>PAÑCAR. 1, 10, 24.</ls> <ls>VĀYU-P.</ls> bei <ls>MUIR, ST. I, 30, N. 51.</ls> {#tena BrazwA dyUtena me SriyaH#} 
-<ls>SOM. NALA 148.</ls> {#BrazwaSriyaM nfpam#} 
-<ls>Spr. 2883, v. l.</ls> 
-<ls>RĀJA-TAR. 5, 305.</ls> {#BrazwarAjya#} 
-<ls>MBH. 3, 2755.</ls> 
-<ls>HARIV. 9797.</ls> 
-<ls>R. 3, 54, 20.</ls> {#BrazwADikAra#} 
-<ls>PAÑCAT. 9, 19.</ls> {#BrazwaM vartma pradarSayet#} {%den verloren gegangenen Weg%} 
-<ls>PAÑCAR. 2, 8, 26.</ls> {#BrazwamArga#} <lex>adj.</lex> 
-<ls>R. 4, 15, 29.</ls> 
-<ls>KATHĀS. 10, 70.</ls> {#°nidra#} <lex>adj.</lex> {%dem der Schlaf vergangen ist%} Inschr. in Journ. of the Am. Or. 
-<ls>S. 7, 9, Śl. 32.</ls> {#BrazwapariSrama#} <lex>adj.</lex> 
-<ls>R. 4, 49, 27.</ls> {#Brazwakriya#} {%unterblieben%} 
-<ls>PAÑCAT. 110, 24.</ls> {%Jmd%} (abl.) {%verloren gehen%}: {#nAsmA^drA\zwraM Bra^MSate#} 
-<ls>TS. 5, 7, 4, 4.</ls> {#mA tvadrA\zwramaDi^ BraSat#} 
-<ls>ṚV. 10, 173, 1.</ls> 
-<ls>KĀṬH. 19, 9.</ls> {#sugrIvo 'syABraSadDastAt#} {%verschwand aus seiner Hand, entwischte seinen Händen%} 
-<ls>BHAṬṬ. 15, 59.</ls> 
-<div n="1">— 4) {%von Jmd%} oder {%von Etwas getrennt werden, Jmdes%} oder {%einer Sache verlustig gehen, um Jmd%} oder {%Etwas kommen%}; mit dem abl.: {#prati^ ya\jYena^ tizWati\ na ya\jYAdBra^MSate#} 
-<ls>TS. 1, 6, 11, 1.</ls> {#Brazwo hi vizayAdrAjA mftakalpaH pradfSyate#} 
-<ls>R. 1, 17, 5.</ls> {#svargAcca BraSyate#} 
-<ls>Spr. 204.</ls> {#so 'cirAdBraSyate rAjyAjjIvitAcca#} 
-<ls>M. 7, 111.</ls> 
-<ls>VARĀH. BṚH. S. 4, 17.</ls> {#BraSyamAnasya jIvitAt#} 
-<ls>R. 6, 92, 60.</ls> {#satAM lokAtsatAM kIrtyAH sajjuzwAtkarmaRastaTA . BraSyatu kzipramadyEva#} 
-<ls>R. 2, 75, 34.</ls> {#yErnaro BraSyate SriyaH#} 
-<ls>MBH. 3, 603.</ls> 
-<ls>BHĀG. P. 8, 20, 15.</ls> {#BraSyate SIGramESvaryAtprAReByaH svajanAdapi#} 
-<ls>MBH. 3, 1048.</ls> {#rAjyAdBraMSasva#} 
-<ls>R. 2, 74, 2.</ls> {#sa svArTAdBraSyate#} 
-<ls>Spr. 3341.</ls> {#baBraMSe 'sO DfteH#} 
-<ls>BHAṬṬ. 14, 71.</ls> {#yadamba satyAnnABraSyata#} {%weichen von%} 
-<ls>RAGH. 14, 16.</ls> {#Brazwa#} {%getrennt von, gekommen um, einer Sache verlustig gegangen%}; mit abl.: {#kaTaM ca BrazwA (nazwA#} 
-<ls>MBH. 3, 2690</ls>) {#jYAtiByo BarturvA#} 
-<ls>N. 16, 33.</ls> 
-<ls>KATHĀS. 37, 130.</ls> {#sArTAdBrazwa uzwraH#} 
-<ls>HIT. 121, 12.</ls> {#sArTa°#} 
-<ls>PAÑCAT. 68, 12.</ls> {#yUTa°#} 
-<ls>MBH. 3, 2424.</ls> {#mUlaBrazwa iva drumaH#} 
-<ls>R. 2, 87, 2.</ls> {#viBIzaRaH padAdBrazwaH#} 
-<ls>VOP. 5, 20.</ls> {#sTAnaBrazwA na SoBante dantAH keSA naKA narAH#} 
-<ls>Spr. 3309. 2807</ls>, v.l. {#viveka°#} 
-<ls>2982.</ls> {#yoga°#} so v. a. {%um den Lohn des%} <is>Yoga</is> {%gekommen%} 
-<ls>BHAG. 6, 41.</ls> {#banDanAdBrazwo 'smi#} {%befreit von%} 
-<ls>MṚCCH. 98, 10.</ls> — Bisweilen fälschlich {#Brazwa#} st. {#Bfzwa#} (s. {#Brajj)#} . Vgl. {#BayaBrazwa#} .
-
-<div n="p">— caus. {#BraM Sayati#} 
-<div n="1"> 1) {%fallen lassen, - machen, abwerfen, herabstürzen%} (trans.): {#aBraMSyamAnAnmaRIn#} 
-<ls>KĀTY. ŚR. 20, 5, 16.</ls> {#BraMsitenottarIyeRa (BraMSi°#} die neuere Ausg.) 
-<ls>HARIV. 4767.</ls> {#vIcisaMmardaBraMSitABaraRAMSuka#} 
-<ls>RĀJA-TAR. 4, 541.</ls> {#gokarRasyoparizwAttu BraMSitaH sa mahAsuraH . papAta celagaNgAyAH puline#} 
-<ls>HARIV. 8493.</ls> 
-<div n="1">— 2) {%stürzen%} (trans.) in übertr. Bed.: {#sa cAgastyena krudDena BraMSito BUtalaM gataH#} 
-<ls>MBH. 13, 4806. 2, 2630.</ls> {#manuM yadA BraMSayituM BogA na SekuH#}
+In comp. mit dem im abl. gedachten Worte: {#tacCaMkaraSiroBrazwaM BrazwaM BUmitale punaH (salilam)#}
+<ls>R. 1,44,27.</ls>
+<ls>Spr. 2162.</ls> {#nIvArAH SukagarBakowaramuKaBrazwAstarURAmaDaH#}
+<ls>ŚĀK. 14.</ls> {#divo BrazwaH#} {%aus dem Himmel gestürzt%} so v. a. {%vom Himmel auf die Erde verbannt%}
+<ls>ŚUK. in LA. (II) 32,16. 17.</ls>
+<div n="1">— 2) {%fallen, zu Fall kommen, stürzen%} in übertr. Bed.: {#ye tIkzRamunavartante BraSyante saha tena te#}
+<ls>R. 3,45,12.</ls> {#(munayaH) BraSyante kAmamanyuBiH#}
+<ls>R. SCHL. 2,22,23.</ls> {#BrazwaM nfpaM mantriRaH (tyajanti)#}
+<ls>Spr. 2883.</ls> <ls n="Spr.">3965.</ls> {#svayaM mAyAmohitaSca paraM BrazwaM karoti#}
+<ls>PAÑCAR. 1,10,14.</ls> {#SApaBrazwA apsarAH#} {%in Folge eines Fluchs%} (aus dem Himmel) {%gestürzt, zur Erde verbannt%}
+<ls>KATHĀS. 6,17.</ls>
+<div n="1">— 3) {%verschwinden, verloren gehen%}: {#saMgrAmAdbaBraSuH#} {%verschwanden aus der Schlacht%} so v. a. {%flohen%}
+<ls>BHAṬṬ. 14,105.</ls> {#saMtApAdBraSyate rUpaM saMtApAdBraSyate balam . saMtApAdBraSyate jYAnam#}
+<ls>Spr. 5148.</ls> {#dfzwirBraSyati#} (v. l. für {#naSyati)#}
+<ls n="Spr.">831, v. l.</ls> {#kiMciccABraSyata svaraH#} {%vergehen, versagen%}
+<ls>R. 6,75,36.</ls> {#Brazwa#} {%verschwunden, dahin seiend%}: {#kastUrIpattraBaNganikaro Brazwo na gaRqasTale#}
+<ls>Spr. 622.</ls> {#Brazwe SanEryOvane#}
+<ls n="Spr.">2183.</ls> {#vijYAnaM hi mama BrazwaM SApadozeRa#}
+<ls>R. 3,75,44.</ls> {#jYAnaM te Bavatu Brazwam#}
+<ls>PAÑCAR. 1,10,24.</ls> <ls>VĀYU-P.</ls> bei <ls>MUIR, ST. I,30, N. 51.</ls> {#tena BrazwA dyUtena me SriyaH#}
+<ls>SOM. NALA 148.</ls> {#BrazwaSriyaM nfpam#}
+<ls>Spr. 2883, v. l.</ls>
+<ls>RĀJA-TAR. 5,305.</ls> {#BrazwarAjya#}
+<ls>MBH. 3,2755.</ls>
+<ls>HARIV. 9797.</ls>
+<ls>R. 3,54,20.</ls> {#BrazwADikAra#}
+<ls>PAÑCAT. 9,19.</ls> {#BrazwaM vartma pradarSayet#} {%den verloren gegangenen Weg%}
+<ls>PAÑCAR. 2,8,26.</ls> {#BrazwamArga#} <lex>adj.</lex>
+<ls>R. 4,15,29.</ls>
+<ls>KATHĀS. 10,70.</ls> {#°nidra#} <lex>adj.</lex> {%dem der Schlaf vergangen ist%} Inschr. in
+<ls>Journ. of the Am. Or. S. 7,9, Śl. 32.</ls> {#BrazwapariSrama#} <lex>adj.</lex>
+<ls>R. 4,49,27.</ls> {#Brazwakriya#} {%unterblieben%}
+<ls>PAÑCAT. 110,24.</ls> {%Jmd%} (abl.) {%verloren gehen%}: {#nAsmA^drA\zwraM Bra^MSate#}
+<ls>TS. 5,7,4,4.</ls> {#mA tvadrA\zwramaDi^ BraSat#}
+<ls>ṚV. 10,173,1.</ls>
+<ls>KĀṬH. 19,9.</ls> {#sugrIvo 'syABraSadDastAt#} {%verschwand aus seiner Hand, entwischte seinen Händen%}
+<ls>BHAṬṬ. 15,59.</ls>
+<div n="1">— 4) {%von Jmd%} oder {%von Etwas getrennt werden, Jmdes%} oder {%einer Sache verlustig gehen, um Jmd%} oder {%Etwas kommen%}; mit dem abl.: {#prati^ ya\jYena^ tizWati\ na ya\jYAdBra^MSate#}
+<ls>TS. 1,6,11,1.</ls> {#Brazwo hi vizayAdrAjA mftakalpaH pradfSyate#}
+<ls>R. 1,17,5.</ls> {#svargAcca BraSyate#}
+<ls>Spr. 204.</ls> {#so 'cirAdBraSyate rAjyAjjIvitAcca#}
+<ls>M. 7,111.</ls>
+<ls>VARĀH. BṚH. S. 4,17.</ls> {#BraSyamAnasya jIvitAt#}
+<ls>R. 6,92,60.</ls> {#satAM lokAtsatAM kIrtyAH sajjuzwAtkarmaRastaTA . BraSyatu kzipramadyEva#}
+<ls>R. 2,75,34.</ls> {#yErnaro BraSyate SriyaH#}
+<ls>MBH. 3,603.</ls>
+<ls>BHĀG. P. 8,20,15.</ls> {#BraSyate SIGramESvaryAtprAReByaH svajanAdapi#}
+<ls>MBH. 3,1048.</ls> {#rAjyAdBraMSasva#}
+<ls>R. 2,74,2.</ls> {#sa svArTAdBraSyate#}
+<ls>Spr. 3341.</ls> {#baBraMSe 'sO DfteH#}
+<ls>BHAṬṬ. 14,71.</ls> {#yadamba satyAnnABraSyata#} {%weichen von%}
+<ls>RAGH. 14,16.</ls> {#Brazwa#} {%getrennt von, gekommen um, einer Sache verlustig gegangen%}; mit abl.: {#kaTaM ca BrazwA (nazwA#}
+<ls>MBH. 3,2690</ls>) {#jYAtiByo BarturvA#}
+<ls>N. 16,33.</ls>
+<ls>KATHĀS. 37,130.</ls> {#sArTAdBrazwa uzwraH#}
+<ls>HIT. 121,12.</ls> {#sArTa°#}
+<ls>PAÑCAT. 68,12.</ls> {#yUTa°#}
+<ls>MBH. 3,2424.</ls> {#mUlaBrazwa iva drumaH#}
+<ls>R. 2,87,2.</ls> {#viBIzaRaH padAdBrazwaH#}
+<ls>VOP. 5,20.</ls> {#sTAnaBrazwA na SoBante dantAH keSA naKA narAH#}
+<ls>Spr. 3309.</ls> <ls n="Spr.">2807</ls>, v.l. {#viveka°#}
+<ls n="Spr.">2982.</ls> {#yoga°#} so v. a. {%um den Lohn des%} <is>Yoga</is> {%gekommen%}
+<ls>BHAG. 6,41.</ls> {#banDanAdBrazwo 'smi#} {%befreit von%}
+<ls>MṚCCH. 98,10.</ls> — Bisweilen fälschlich {#Brazwa#} st. {#Bfzwa#} (s. {#Brajj)#} . Vgl. {#BayaBrazwa#} .
+<div n="p">— caus. {#BraM Sayati#}
+<div n="1"> 1) {%fallen lassen, — machen, abwerfen, herabstürzen%} (trans.): {#aBraMSyamAnAnmaRIn#}
+<ls>KĀTY. ŚR. 20,5,16.</ls> {#BraMsitenottarIyeRa (BraMSi°#} die neuere Ausg.)
+<ls>HARIV. 4767.</ls> {#vIcisaMmardaBraMSitABaraRAMSuka#}
+<ls>RĀJA-TAR. 4,541.</ls> {#gokarRasyoparizwAttu BraMSitaH sa mahAsuraH . papAta celagaNgAyAH puline#}
+<ls>HARIV. 8493.</ls>
+<div n="1">— 2) {%stürzen%} (trans.) in übertr. Bed.: {#sa cAgastyena krudDena BraMSito BUtalaM gataH#}
+<ls>MBH. 13,4806.</ls> <ls n="MBH.">2,2630.</ls> {#manuM yadA BraMSayituM BogA na SekuH#}
 [Page5-0396]
-
-<ls>BHĀG. P. 3, 22, 34.</ls> Die Scholien trennen {#yad - A°#} und erklären: {#ABraMSayituM A Izadapi BraM° aBiBavitum#} . 
-<div n="1">— 3) {%Etwas verschwinden machen, verloren gehen lassen, - machen%}: {#jIvitaM BraMSayati (SaraH)#} 
-<ls>R. 4, 21, 6.</ls> {#pitfpEtAmahaM rAjyaM prAptavAnsvena tejasA . vAyurivABramAsAdya BraMSayatyanaye sTitaH ..#} 
-<ls>MBH. 5, 1120.</ls> {#jvalitAM tvamimAM lakzmIM BAratIM sarvarAjasu . jIvato DftarAzwrasya dOrAtmyAdBraMSayizyasi ..#} 
-<ls>4190.</ls> 
-<div n="1">— 4) {%Jmd%} (acc.) {%um Etwas%} (abl.) {%bringen%}: {#rAjyAt#} 
-<ls>MBH. 3, 2253.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 75, 2.</ls> 
-<ls>MAHĀN. 181.</ls> {#ESvaryAt, svargAt#} 
-<ls>MBH. 1, 2482.</ls> {#trElokyAt#} 
-<ls>3, 8759.</ls> {#sa mAmapanayaH - BraMSayAmAsa vE SriyaH#} 
-<ls>3, 12524.</ls> {#sTAnAt#} 
-<ls>R. GORR. 1, 35, 17.</ls> <ls>BHĀG. P. 9, 18, 3.</ls> {#jIvitAt#} 
-<ls>MBH. 3, 1571. 5, 4191.</ls> 
-<ls>R. 6, 36, 65.</ls> {#PalAt#} 
-<ls>MBH. 13, 4293.</ls> {#upavAsAdvratAcca#} {%um den Lohn der Fasten und Gelübde%} 
-<ls>HARIV. 7775.</ls> {#BraMSitAnmArgAt#} {%vom Wege abgebracht%} 
-<ls>BHĀG. P. 9. 17, 16.</ls> {#BraMSitA patiDarmataH#} 
-<ls>MBH. 5, 7371.</ls>
-
-<div n="p">— intens. {#banIBraSyate#} 
-<ls>VOP. 20, 7.</ls> {#banIBrasyate, banIBraMsIti#} 
-<ls>P. 7, 4, 84.</ls>
-
+<ls>BHĀG. P. 3,22,34.</ls> Die Scholien trennen {#yad — A°#} und erklären: {#ABraMSayituM A Izadapi BraM° aBiBavitum#} .
+<div n="1">— 3) {%Etwas verschwinden machen, verloren gehen lassen, — machen%}: {#jIvitaM BraMSayati (SaraH)#}
+<ls>R. 4,21,6.</ls> {#pitfpEtAmahaM rAjyaM prAptavAnsvena tejasA . vAyurivABramAsAdya BraMSayatyanaye sTitaH ..#}
+<ls>MBH. 5,1120.</ls> {#jvalitAM tvamimAM lakzmIM BAratIM sarvarAjasu . jIvato DftarAzwrasya dOrAtmyAdBraMSayizyasi ..#}
+<ls n="MBH. 5,">4190.</ls>
+<div n="1">— 4) {%Jmd%} (acc.) {%um Etwas%} (abl.) {%bringen%}: {#rAjyAt#}
+<ls>MBH. 3,2253.</ls>
+<ls>R. GORR. 2,75,2.</ls>
+<ls>MAHĀN. 181.</ls> {#ESvaryAt, svargAt#}
+<ls>MBH. 1,2482.</ls> {#trElokyAt#}
+<ls n="MBH.">3,8759.</ls> {#sa mAmapanayaH — BraMSayAmAsa vE SriyaH#}
+<ls n="MBH.">3,12524.</ls> {#sTAnAt#}
+<ls>R. GORR. 1,35,17.</ls> <ls>BHĀG. P. 9,18,3.</ls> {#jIvitAt#}
+<ls>MBH. 3,1571.</ls> <ls n="MBH.">5,4191.</ls>
+<ls>R. 6,36,65.</ls> {#PalAt#}
+<ls>MBH. 13,4293.</ls> {#upavAsAdvratAcca#} {%um den Lohn der Fasten und Gelübde%}
+<ls>HARIV. 7775.</ls> {#BraMSitAnmArgAt#} {%vom Wege abgebracht%}
+<ls>BHĀG. P. 9,17,16.</ls> {#BraMSitA patiDarmataH#}
+<ls>MBH. 5,7371.</ls>
+<div n="p">— intens. {#banIBraSyate#}
+<ls>VOP. 20,7.</ls> {#banIBrasyate, banIBraMsIti#}
+<ls>P. 7,4,84.</ls>
 <div n="p">— {#apa#} s. {#apaBraMSa#} fg.
-
 <div n="p">— {#A#} s. das caus. vom simpl. u. 2.
-
-<div n="p">— {#ni#} s. {#aniBfzwa#} . — caus. {%abfallen machen, abschlagen%} oder {%abbrechen%}: {#ni ti\gmAni^ BrA\Saya\nBrASyA^ni#} 
-<ls>ṚV. 10, 116, 5.</ls>
-
-<div n="p">— {#pari#} 
-<div n="1"> 1) {%entfallen, herabfallen%}: {#tasya karatale SyenamuKAtpariBrazwA mUzikA patitA#} 
-<ls>PAÑCAT. 188, 15.</ls> {#hastAdgaNgAsro^tasi pariBrazwam (aNgulIyam)#} 
-<ls>ŚĀK. 85, 2. 105, 15.</ls> {#harmyatalapariBrazwa (salila)#} 
-<ls>SUŚR. 1, 170, 8.</ls> 
-<div n="1">— 2) {%fallen, stürzen%} in übertr. Bed.: {#DvaMsa pApa pariBrazwaH kzIRapuRyo mahItalam#} 
-<ls>MBH. 5, 536.</ls> 
-<div n="1">— 3) {%entlaufen%}: {#pariBrazwA gOH#} 
-<ls>MBH. 13, 3461.</ls> {#apariBraSyamAna#} {%nicht entlaufend, - entwischend%} 
-<ls>KĀM. NĪTIS. 10, 34.</ls> {#pariBrazwa#} {%verschwunden, dahin seiend%}: {#°suKa#} <lex>adj.</lex> 
-<ls>MBH. 3, 2753.</ls> {#vidyAH#} 
-<ls>KATHĀS. 18, 377.</ls> {#pUrvapariBrazwaM cAritram#} 
-<ls>21, 91.</ls> {#satyaM ca na pariBrazwaM yaddaridrezu durlaBam#} 
-<ls>MṚCCH. 55, 11.</ls> {#°satkarman#} <lex>adj.</lex> 
-<ls>BHĀG. P. 4, 7, 47.</ls> 
-<div n="1">— 3) {%um Etwas%} (abl.) {%kommen%}: {#pariBrazwa#} {%um Jmd%} oder {%Etwas gekommen, einer Sache verlustig gegangen%}: {#svadeSeByaH#} 
-<ls>HARIV. 11199.</ls> {#svargAt#} 
-<ls>R. 3, 68, 28.</ls> {#manuzyatvAt#} 
-<ls>MBH. 3, 12500.</ls> {#catasfByo gatiByaH#} 
-<ls>R. 2, 62, 39.</ls> {#rAjyAt#} 
-<ls>4, 3, 22.</ls> {#rAjya°#} 
-<ls>MBH. 3, 2677.</ls> 
-<ls>Spr. 3008.</ls> {#sAmrAjya°#} 
-<ls>RĀJA-TAR. 5, 256.</ls> {#mArgadvaya°#} 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>?S. 2. PRAB. 21, 9. ŚUK. in LA. (II) 33, 21, v. l.</ls> {#sAvitrI°#} 
-<ls>M. 10, 20.</ls> {#matsyamAMsa°#} 
-<ls>PAÑCAT. IV, 64.</ls> {#patiDanajAra°#} 
-<ls>227, 4.</ls> {#kulajAti°#} 
-<ls>Spr. 702.</ls> {#upacAra°#} so v. a. {%unterlassend%} 
-<ls>2728.</ls> {#paYcayajYa°#} 
-<ls>H. 859.</ls> {#sarvakarma°#} 
-<ls>Verz. d. Oxf. H. 14,a, N. 1.</ls> Ausnahmsweise mit dem instr. st. des abl.: {#tuzeRApi pariBrazwastaRqulo nANkurAyate#} 
-<ls>Spr. 3095. 3097.</ls> 
+<div n="p">— {#ni#} s. {#aniBfzwa#} . — caus. {%abfallen machen, abschlagen%} oder {%abbrechen%}: {#ni ti\gmAni^ BrA\Saya\nBrASyA^ni#}
+<ls>ṚV. 10,116,5.</ls>
+<div n="p">— {#pari#}
+<div n="1"> 1) {%entfallen, herabfallen%}: {#tasya karatale SyenamuKAtpariBrazwA mUzikA patitA#}
+<ls>PAÑCAT. 188,15.</ls> {#hastAdgaNgAsro^tasi pariBrazwam (aNgulIyam)#}
+<ls>ŚĀK. 85,2.</ls> <ls n="ŚĀK.">105,15.</ls> {#harmyatalapariBrazwa (salila)#}
+<ls>SUŚR. 1,170,8.</ls>
+<div n="1">— 2) {%fallen, stürzen%} in übertr. Bed.: {#DvaMsa pApa pariBrazwaH kzIRapuRyo mahItalam#}
+<ls>MBH. 5,536.</ls>
+<div n="1">— 3) {%entlaufen%}: {#pariBrazwA gOH#}
+<ls>MBH. 13,3461.</ls> {#apariBraSyamAna#} {%nicht entlaufend, — entwischend%}
+<ls>KĀM. NĪTIS. 10,34.</ls> {#pariBrazwa#} {%verschwunden, dahin seiend%}: {#°suKa#} <lex>adj.</lex>
+<ls>MBH. 3,2753.</ls> {#vidyAH#}
+<ls>KATHĀS. 18,377.</ls> {#pUrvapariBrazwaM cAritram#}
+<ls n="KATHĀS.">21,91.</ls> {#satyaM ca na pariBrazwaM yaddaridrezu durlaBam#}
+<ls>MṚCCH. 55,11.</ls> {#°satkarman#} <lex>adj.</lex>
+<ls>BHĀG. P. 4,7,47.</ls>
+<div n="1">— 3) {%um Etwas%} (abl.) {%kommen%}: {#pariBrazwa#} {%um Jmd%} oder {%Etwas gekommen, einer Sache verlustig gegangen%}: {#svadeSeByaH#}
+<ls>HARIV. 11199.</ls> {#svargAt#}
+<ls>R. 3,68,28.</ls> {#manuzyatvAt#}
+<ls>MBH. 3,12500.</ls> {#catasfByo gatiByaH#}
+<ls>R. 2,62,39.</ls> {#rAjyAt#}
+<ls n="R.">4,3,22.</ls> {#rAjya°#}
+<ls>MBH. 3,2677.</ls>
+<ls>Spr. 3008.</ls> {#sAmrAjya°#}
+<ls>RĀJA-TAR. 5,256.</ls> {#mArgadvaya°#}
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 2.</ls> <ls>PRAB. 21,9.</ls> <ls>ŚUK. in LA. (II) 33,21, v. l.</ls> {#sAvitrI°#}
+<ls>M. 10,20.</ls> {#matsyamAMsa°#}
+<ls>PAÑCAT. IV,64.</ls> {#patiDanajAra°#}
+<ls n="PAÑCAT.">227,4.</ls> {#kulajAti°#}
+<ls>Spr. 702.</ls> {#upacAra°#} so v. a. {%unterlassend%}
+<ls n="Spr.">2728.</ls> {#paYcayajYa°#}
+<ls>H. 859.</ls> {#sarvakarma°#}
+<ls>Verz. d. Oxf. H. 14,a, N. 1.</ls> Ausnahmsweise mit dem instr. st. des abl.: {#tuzeRApi pariBrazwastaRqulo nANkurAyate#}
+<ls>Spr. 3095.</ls> <ls n="Spr.">3097.</ls>
 <div n="v">— Vgl. {#pariBraMSa#} fg.
-
-<div n="p">— {#saMpari#} {%um Etwas%} (abl.) {%kommen%}: {#DarmeByaH saMpariBrazwaH#} 
-<ls>MBH. 12, 7272.</ls>
-
-<div n="p">— {#pra#} 
-<div n="1"> 1) {%entfallen, herabfallen%}: {#praBraSyamAnABaraRasUnA#} 
-<ls>RAGH. 14, 54.</ls> {#praBrazwaSaNkAtuza#} 
-<ls>KUSUM. 46, 20.</ls> {#tasya hastodDutaM cASu kArmukaM tatsasAyakam . prABraSyata saha prAREH#} {%entfallen%} und {%dahingehen%} 
-<ls>R. 6, 92, 60.</ls> {#praBraSyate nAsikayA kaPaH#} {%geht ab%} 
-<ls>SUŚR. 2, 370, 3.</ls> 
-<div n="1">— 2) {%Jmd%} (abl.) {%entlaufen%}: {#yasmA^tpa\Sava\H pra preva\ BraMSe^ran#} 
-<ls>TBR. 2, 7, 14, 2.</ls> 
-<ls>KĀTY. ŚR. 23, 1, 19.</ls> {#praBrazwo gaja iva banDanAt#} {%der sich losgemacht hat von%} 
-<ls>MṚCCH. 98, 7.</ls> 
-<div n="1">— 3) {%um Etwas%} (abl.) {%kommen%}: {#praBraSyate tejasaH#} 
-<ls>Spr. 1145.</ls> 
-<div n="v">— Vgl. {#praBraMSa#} fgg. — caus. {%Jmd stürzen, um Etwas%} (abl.) {%bringen%}: {#praBraMSitaH surasidDarzilokAtpraricyutaH prapatAmyalpapuRyaH#} 
-<ls>MBH. 1, 3577.</ls> {#rAjyAtpraBraMSitaH#} 
-<ls>3, 601.</ls> {#BrUBedamAtreRa padAnmaGonaH praBraMSayAM yo naGuzaM cakAra#} 
-<ls>RAGH. 13, 36.</ls>
-
-<div n="p">— {#vi#} 
+<div n="p">— {#saMpari#} {%um Etwas%} (abl.) {%kommen%}: {#DarmeByaH saMpariBrazwaH#}
+<ls>MBH. 12,7272.</ls>
+<div n="p">— {#pra#}
+<div n="1"> 1) {%entfallen, herabfallen%}: {#praBraSyamAnABaraRasUnA#}
+<ls>RAGH. 14,54.</ls> {#praBrazwaSaNkAtuza#}
+<ls>KUSUM. 46,20.</ls> {#tasya hastodDutaM cASu kArmukaM tatsasAyakam . prABraSyata saha prAREH#} {%entfallen%} und {%dahingehen%}
+<ls>R. 6,92,60.</ls> {#praBraSyate nAsikayA kaPaH#} {%geht ab%}
+<ls>SUŚR. 2,370,3.</ls>
+<div n="1">— 2) {%Jmd%} (abl.) {%entlaufen%}: {#yasmA^tpa\Sava\H pra preva\ BraMSe^ran#}
+<ls>TBR. 2,7,14,2.</ls>
+<ls>KĀTY. ŚR. 23,1,19.</ls> {#praBrazwo gaja iva banDanAt#} {%der sich losgemacht hat von%}
+<ls>MṚCCH. 98,7.</ls>
+<div n="1">— 3) {%um Etwas%} (abl.) {%kommen%}: {#praBraSyate tejasaH#}
+<ls>Spr. 1145.</ls>
+<div n="v">— Vgl. {#praBraMSa#} fgg. — caus. {%Jmd stürzen, um Etwas%} (abl.) {%bringen%}: {#praBraMSitaH surasidDarzilokAtpraricyutaH prapatAmyalpapuRyaH#}
+<ls>MBH. 1,3577.</ls> {#rAjyAtpraBraMSitaH#}
+<ls n="MBH.">3,601.</ls> {#BrUBedamAtreRa padAnmaGonaH praBraMSayAM yo naGuzaM cakAra#}
+<ls>RAGH. 13,36.</ls>
+<div n="p">— {#vi#}
 <div n="1"> 1) {%fallen, stürzen%} in übertr. Bed.: {#purA yayAtirviBrazwaScyAvitaH #}
 [Page5-0397]
-{# patitaH kzitO . punarAropitaH svargam#} 
-<ls>MBH. 13, 324.</ls> 
-<div n="1">— 2) {%verschwinden, dahin gehen%}: {#viBrazwaharzA (nagarI)#} 
-<ls>R. 2, 48, 29.</ls> {#viBrazwatimiraM naBaH#} 
-<ls>R. GORR. 2, 38, 17.</ls> {#viBrazwapAdalepa#} 
-<ls>MĀRK. P. 61, 27.</ls> {#aviBrazwarUpeRa#} so v. a. {%ungeschwächt%} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 281.</ls> 
-<div n="1">— 3) {%scheitern bei Etwas, keinen Erfolg haben in%} (loc.): {#trirAtre#} 
-<ls>PAÑCAV. BR. 16, 8, 2.</ls> {#agnirvA etasya havyamatti yo yajYe viBraMSate na devatA havyaM gamayati#} 
-<ls>3. 17, 8, 3.</ls> {#yajYa/viBrazwa#} 
-<ls>TS. 2, 3, 3, 1.</ls> 
-<ls>KĀTY. ŚR. 22, 4, 30</ls> {#(yajYo viBrazwo yasya saH#} 
-<ls>Schol.</ls><ls>?). PAÑCAV. BR. 8, 2, 9. 17, 8, 1. ṢAḌV. BR. 2, 9.</ls> {#viBrazwamiva vE saptamamahaH#} so v. a. {%vergeblich gewesen%} 
-<ls>PAÑCAV. BR. 14, 3, 22.</ls> 
-<div n="1">— 4) {%sich verlaufen von%} (abl.); {%sich trennen von, kommen um%}: {#mfgIva yUTaviBrazwA#} 
-<ls>KATHĀS. 33, 207.</ls> {#ESvaryaviBrazwa#} {%um die Herrschaft gekommen%} 
-<ls>MBH. 3, 3.</ls> {#uBaya°#} 
-<ls>BHAG. 6, 38.</ls> {#sADucAritra°#} 
-<ls>R. 2, 73, 17.</ls> {#yasmAdvA viBraMSeran#} {%welchen sie im Stiche lassen%} 
-<ls>KĀTY. ŚR. 22, 4, 31.</ls> 
-<div n="v">— Vgl. {#viBraMSa#} u. s. w. — caus. 
-<div n="1"> 1) {%abschlagen, abbrechen%}: {#drumAMSca viBraMSitapuzpapattrAn#} 
-<ls>R. 5, 60, 19.</ls> 
-<div n="1">— 2) {%zu Fall bringen%}: {#tvayA viBraMSitA hIyaM BartAraM nADigacCati#} 
-<ls>MBH. 5, 7068.</ls> 
-<div n="1">— 3) {%Etwas verschwinden machen, zu Nichte machen%}: {#viBraMSitajYAna#} 
-<ls>BHĀG. P. 3, 4, 1.</ls> {#viBraMSitodaya#} 
-<ls>32, 21.</ls> 
-<div n="1">— 4) {%Jmd von Etwas%} (abl.) {%abbringen, um Etwas bringen%}: {#viBraMSitA tvayA hIyaM DarmAt#} 
-<ls>MBH. 5, 7055.</ls> {#yogAramBaRataH#} 
-<ls>BHĀG. P. 5, 8, 23.</ls> {#vedAt#} 
-<ls>9, 22, 16.</ls> {#SriyaH#} 
-<ls>8, 22, 16.</ls>
-
-<div n="p">— {#sam#} {%entgleiten%}: {#preNKaPalakaM parivyayati yaTA na saMBraSyeta#} 
-<ls>ŚĀṄKH. ŚR. 17, 10, 13.</ls> 
-<ls>GṚHY. 2, 12.</ls>
+{# patitaH kzitO . punarAropitaH svargam#}
+<ls>MBH. 13,324.</ls>
+<div n="1">— 2) {%verschwinden, dahin gehen%}: {#viBrazwaharzA (nagarI)#}
+<ls>R. 2,48,29.</ls> {#viBrazwatimiraM naBaH#}
+<ls>R. GORR. 2,38,17.</ls> {#viBrazwapAdalepa#}
+<ls>MĀRK. P. 61,27.</ls> {#aviBrazwarUpeRa#} so v. a. {%ungeschwächt%}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 281.</ls>
+<div n="1">— 3) {%scheitern bei Etwas, keinen Erfolg haben in%} (loc.): {#trirAtre#}
+<ls>PAÑCAV. BR. 16,8,2.</ls> {#agnirvA etasya havyamatti yo yajYe viBraMSate na devatA havyaM gamayati#}
+<ls n="PAÑCAV. BR.">3. 17,8,3.</ls> {#yajYa/viBrazwa#}
+<ls>TS. 2,3,3,1.</ls>
+<ls>KĀTY. ŚR. 22,4,30</ls> {#(yajYo viBrazwo yasya saH#}
+<ls>Schol.</ls>). <ls>PAÑCAV. BR. 8,2,9. 17,8,1.</ls> <ls>ṢAḌV. BR. 2,9.</ls> {#viBrazwamiva vE saptamamahaH#} so v. a. {%vergeblich gewesen%}
+<ls>PAÑCAV. BR. 14,3,22.</ls>
+<div n="1">— 4) {%sich verlaufen von%} (abl.); {%sich trennen von, kommen um%}: {#mfgIva yUTaviBrazwA#}
+<ls>KATHĀS. 33,207.</ls> {#ESvaryaviBrazwa#} {%um die Herrschaft gekommen%}
+<ls>MBH. 3,3.</ls> {#uBaya°#}
+<ls>BHAG. 6,38.</ls> {#sADucAritra°#}
+<ls>R. 2,73,17.</ls> {#yasmAdvA viBraMSeran#} {%welchen sie im Stiche lassen%}
+<ls>KĀTY. ŚR. 22,4,31.</ls>
+<div n="v">— Vgl. {#viBraMSa#} u. s. w. — caus.
+<div n="1"> 1) {%abschlagen, abbrechen%}: {#drumAMSca viBraMSitapuzpapattrAn#}
+<ls>R. 5,60,19.</ls>
+<div n="1">— 2) {%zu Fall bringen%}: {#tvayA viBraMSitA hIyaM BartAraM nADigacCati#}
+<ls>MBH. 5,7068.</ls>
+<div n="1">— 3) {%Etwas verschwinden machen, zu Nichte machen%}: {#viBraMSitajYAna#}
+<ls>BHĀG. P. 3,4,1.</ls> {#viBraMSitodaya#}
+<ls n="BHĀG. P. 3,">32,21.</ls>
+<div n="1">— 4) {%Jmd von Etwas%} (abl.) {%abbringen, um Etwas bringen%}: {#viBraMSitA tvayA hIyaM DarmAt#}
+<ls>MBH. 5,7055.</ls> {#yogAramBaRataH#}
+<ls>BHĀG. P. 5,8,23.</ls> {#vedAt#}
+<ls n="BHĀG. P.">9,22,16.</ls> {#SriyaH#}
+<ls n="BHĀG. P.">8,22,16.</ls>
+<div n="p">— {#sam#} {%entgleiten%}: {#preNKaPalakaM parivyayati yaTA na saMBraSyeta#}
+<ls>ŚĀṄKH. ŚR. 17,10,13.</ls>
+<ls>GṚHY. 2,12.</ls>
 <LEND>

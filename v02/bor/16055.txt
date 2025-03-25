@@ -1,4 +1,4 @@
 <L>16055<pc>494<k1>outer<k2>outer
-<div n="lb"/>{@OUTER:@}¦ <div n="1">(1) {#bAhya#} (f. {#hyA#}), <div n="xe">{%o. area:%}</div> <div n="xs">{#bAhyamaRqapaH;#}</div></div>
-<div n="lb"/><div n="1">(2) {#bahis#} in comp., <div n="xe">{%o. door:%}</div> <div n="xs">{#bahirdvAram.#}</div></div>
+{@OUTER:@}¦ <div n="1">(1) {#bAhya#} (f. {#hyA#}), <div n="xe">{%o. area:%}</div> <div n="xs">{#bAhyamaRqapaH;#}</div></div>
+<div n="1">(2) {#bahis#} in comp., <div n="xe">{%o. door:%}</div> <div n="xs">{#bahirdvAram.#}</div></div>
 <LEND>

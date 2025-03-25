@@ -1,21 +1,21 @@
 <L>6692<pc>288<k1>milk<k2>milk
 {@Milk,@}¦ {%s.%} {#payas#} {%n.,%} {#dugDaM, kzIraM, stanyaM; godugDaM,#}
-<div n="lb"/>{#gorasaH, gavyaM#} (cow's m.); ‘fresh m.’
-<div n="lb"/>{#pIyUzaH-zaM;#} ‘made of m.’ {#payasya;#} ‘coagu-
-<div n="lb"/>-lated m.’ {#daDi, kzIrajaM;#} ‘giving much
-<div n="lb"/>m.’ {#bahudugDA;#} ‘m. livered’ {#kAtara, klIva-#}
-<div n="lb"/>{#-hfdaya, BIru;#} ‘m.-maid’ {#gopakanyA, ABIrI,#}
-<div n="lb"/>{#godohinI; gopI, gopikA;#} ‘m.-man’
-<div n="lb"/>{#dogDf#} {%m.,%} {#dohakaH, gopaH, ABIraH, goDuk;#} {%m.%}
-<div n="lb"/>-pail, -pan’ {#dugDa#} or {#kzIra-pAtraM-BAMqaM-BAjanaM;#}
-<div n="lb"/>{#dohanI;#} ‘m. -porridge’ {#kzEreyI;#} ‘m.-sop’
-<div n="lb"/>{#kApuruzaH, BIruH;#} ‘m.-woman’ {#gopI,#}
-<div n="lb"/>{#ABIrI, dohinI#}. {%-v. t.%} {#duh#} 2 U (with
-<div n="lb"/>two acc.), {#dugDaM nizkfz#} 1 P or {#sru#} c. {@-er,@}
-<div n="lb"/>{%s.%} {#dogDf#} {%m.%} {#dohakaH, duh#} {%m.%} {@-y,@} {%s.%} {#kzIrin,#}
-<div n="lb"/>{#payasya, pAyasa#} ({#sI#} {%f.%}); ({%s.%}) in comp.;
-<div n="lb"/>‘m. ocean’ {#kzIra-dugDa-sAgaraH#}. {@2@} {#kzIropama,#}
-<div n="lb"/>{#dugDatulya#} {@3@} {#kzIrada, dugDaprada, bahudugDa;#} ‘m.
-<div n="lb"/>way’ {#viyadgaMgA;#} {%See%} {@Galaxy. 4@} {#BIru,#}
-<div n="lb"/>{#kAtara, sAmya;#} {%See%} {@Mild.@}
+{#gorasaH, gavyaM#} (cow's m.); ‘fresh m.’
+{#pIyUzaH-zaM;#} ‘made of m.’ {#payasya;#} ‘coagu-
+-lated m.’ {#daDi, kzIrajaM;#} ‘giving much
+m.’ {#bahudugDA;#} ‘m. livered’ {#kAtara, klIva-#}
+{#-hfdaya, BIru;#} ‘m.-maid’ {#gopakanyA, ABIrI,#}
+{#godohinI; gopI, gopikA;#} ‘m.-man’
+{#dogDf#} {%m.,%} {#dohakaH, gopaH, ABIraH, goDuk;#} {%m.%}
+-pail, -pan’ {#dugDa#} or {#kzIra-pAtraM-BAMqaM-BAjanaM;#}
+{#dohanI;#} ‘m. -porridge’ {#kzEreyI;#} ‘m.-sop’
+{#kApuruzaH, BIruH;#} ‘m.-woman’ {#gopI,#}
+{#ABIrI, dohinI#}. {%-v. t.%} {#duh#} 2 U (with
+two acc.), {#dugDaM nizkfz#} 1 P or {#sru#} c. {@-er,@}
+{%s.%} {#dogDf#} {%m.%} {#dohakaH, duh#} {%m.%} {@-y,@} {%s.%} {#kzIrin,#}
+{#payasya, pAyasa#} ({#sI#} {%f.%}); ({%s.%}) in comp.;
+‘m. ocean’ {#kzIra-dugDa-sAgaraH#}. {@2@} {#kzIropama,#}
+{#dugDatulya#} {@3@} {#kzIrada, dugDaprada, bahudugDa;#} ‘m.
+way’ {#viyadgaMgA;#} {%See%} {@Galaxy. 4@} {#BIru,#}
+{#kAtara, sAmya;#} {%See%} {@Mild.@}
 <LEND>

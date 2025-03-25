@@ -1,5 +1,5 @@
 <L>9452<pc>300<k1>frivolity<k2>frivolity
-<div n="lb"/>{@FRIVOLITY:@}¦ <div n="1">(1) {#lAGavam;#} </div><div n="1">(2) {#laGutA;#} </div><div n="1">(3) {#laGuvfttitA;#}</div>
-<div n="lb"/><div n="1">(4) {#cApalyaM#} <div n="xe">{%or%}</div> <div n="xs">{#capalatA.#}</div> (fickleness); </div><div n="1">(5) {#yatkiYcana-#}
-<div n="lb"/>{#kAritA,#} Ki. N.B. </div><div n="1">(3) to </div><div n="1">(5) only of {%conduct.%}</div>
+{@FRIVOLITY:@}¦ <div n="1">(1) {#lAGavam;#} </div><div n="1">(2) {#laGutA;#} </div><div n="1">(3) {#laGuvfttitA;#}</div>
+<div n="1">(4) {#cApalyaM#} <div n="xe">{%or%}</div> <div n="xs">{#capalatA.#}</div> (fickleness); </div><div n="1">(5) {#yatkiYcana-#}
+{#kAritA,#} Ki. N.B. </div><div n="1">(3) to </div><div n="1">(5) only of {%conduct.%}</div>
 <LEND>

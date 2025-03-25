@@ -1,19 +1,19 @@
 <L>27151<pc>3-0071<k1>jAgata<k2>jA/gata
-{#jA/gata#}¦ <lex>adj.</lex> {%im Metrum%} <is>Jagatī</is> {%abgefasst, aus demselben bestehend, der%} 
-<ls>J.</ls> {%entsprechend, die%} 
-<ls>J.</ls> {%eigenthümlich habend u.s.w.%} <is>gaṇa</is> {#utsAdi#} zu 
-<ls>P. 4, 1, 86.</ls> {#Candas#} 
-<ls>VS. 1, 27. 2, 25.</ls> {#viSve^Byo de\veByo\ jAga^teByaH#} 
-<ls>29, 60.</ls> {#jAga^taM tftIyasava\nam#} 
-<ls>TS. 2, 2, 9, 6.</ls> 
-<ls>CHĀND. UP. 3, 16, 5.</ls> {#pa\Sava^H#} 
-<ls>TS. 7, 2, 6, 3.</ls> 
-<ls>ŚAT. BR. 12, 8, 2, 20.</ls> {#tfca#} 
-<ls>ŚĀṄKH. ŚR. 9, 6, 6.</ls> {#pAda#} 
-<ls>ṚV. PRĀT. 16, 17.</ls> 
-<ls>LĀṬY. 7, 1, 1. 3, 11.</ls> {#pragATa#} 
-<ls>P. 4, 2, 55.</ls> {#soma#} 
-<ls>SUŚR. 2, 164, 17.</ls> {#somasAman#} N. eines <is>Sāman</is> 
-<ls>Ind. St. 3, 217.</ls> — <lex>n.</lex> angeblich = {#jagatI#} {%das Metrum%} 
-<ls>J.</ls> <ls>P. 4, 2, 55</ls>, <is>Vārtt</is>.
+{#jA/gata#}¦ <lex>adj.</lex> {%im Metrum%} <is>Jagatī</is> {%abgefasst, aus demselben bestehend, der%}
+<ls>J.</ls> {%entsprechend, die%}
+<ls>J.</ls> {%eigenthümlich habend u.s.w.%} <is>gaṇa</is> {#utsAdi#} zu
+<ls>P. 4,1,86.</ls> {#Candas#}
+<ls>VS. 1,27.</ls> <ls n="VS.">2,25.</ls> {#viSve^Byo de\veByo\ jAga^teByaH#}
+<ls n="VS.">29,60.</ls> {#jAga^taM tftIyasava\nam#}
+<ls>TS. 2,2,9,6.</ls>
+<ls>CHĀND. UP. 3,16,5.</ls> {#pa\Sava^H#}
+<ls>TS. 7,2,6,3.</ls>
+<ls>ŚAT. BR. 12,8,2,20.</ls> {#tfca#}
+<ls>ŚĀṄKH. ŚR. 9,6,6.</ls> {#pAda#}
+<ls>ṚV. PRĀT. 16,17.</ls>
+<ls>LĀṬY. 7,1,1. 3,11.</ls> {#pragATa#}
+<ls>P. 4,2,55.</ls> {#soma#}
+<ls>SUŚR. 2,164,17.</ls> {#somasAman#} N. eines <is>Sāman</is>
+<ls>Ind. St. 3,217.</ls> — <lex>n.</lex> angeblich = {#jagatI#} {%das Metrum%}
+<ls>J.</ls> <ls>P. 4,2,55</ls>, <is>Vārtt</is>.
 <LEND>

@@ -1,7 +1,7 @@
 <L>10089<pc>457<k1>suppliant<k2>suppliant
 {@Suppliant, Supplicant,@}¦ {%s.%} {#arTin#} {%m.,%}
-<div n="lb"/>{#praRayin, prArTakaH, SaraRAgataH;#} ‘service to
-<div n="lb"/>s. s’ {#praRayikriyA#}. {%-a.%} {#praRata, namra, kftAMjali,#}
-<div n="lb"/>{#badDAMjali, SaraRArTin#}. {@-ly,@} {%adv.%} {#sAnunayaM,#}
-<div n="lb"/>{#praRatipUrvaM, kftAMjali#}.
+{#praRayin, prArTakaH, SaraRAgataH;#} ‘service to
+s. s’ {#praRayikriyA#}. {%-a.%} {#praRata, namra, kftAMjali,#}
+{#badDAMjali, SaraRArTin#}. {@-ly,@} {%adv.%} {#sAnunayaM,#}
+{#praRatipUrvaM, kftAMjali#}.
 <LEND>

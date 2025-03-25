@@ -1,10 +1,10 @@
 <L>81443<pc>6-0052<k1>yaTodita<k2>yaTodita
-{#yaTodita#}¦ ({#yaTA + udita#} von {#vad#}) <lex>adj.</lex> {%wie angegeben, wie angeführt, früher besprochen%} 
-<ls>ṚV. PRĀT. 16, 21.</ls> 
-<ls>M. 3, 187. 4, 100. 5, 1. 7, 203. 8, 215. 9, 180. 240. 12, 107.</ls> 
-<ls>BHĀG. P. 6, 13, 21.</ls> {#yaToditam#} adv. {%wie angegeben, nach der Angabe%} 
-<ls>M. 9, 113.</ls> 
-<ls>KATHĀS. 43, 92. 56, 369.</ls> 
-<ls>BHĀG. P. 3, 24, 21. 7, 12, 4.</ls> 
-<ls>MĀRK. P. 114, 5.</ls>
+{#yaTodita#}¦ ({#yaTA + udita#} von {#vad#}) <lex>adj.</lex> {%wie angegeben, wie angeführt, früher besprochen%}
+<ls>ṚV. PRĀT. 16,21.</ls>
+<ls>M. 3,187.</ls> <ls n="M.">4,100.</ls> <ls n="M.">5,1.</ls> <ls n="M.">7,203.</ls> <ls n="M.">8,215.</ls> <ls n="M.">9,180.</ls> <ls n="M. 9,">240.</ls> <ls n="M.">12,107.</ls>
+<ls>BHĀG. P. 6,13,21.</ls> {#yaToditam#} adv. {%wie angegeben, nach der Angabe%}
+<ls>M. 9,113.</ls>
+<ls>KATHĀS. 43,92.</ls> <ls n="KATHĀS.">56,369.</ls>
+<ls>BHĀG. P. 3,24,21.</ls> <ls n="BHĀG. P.">7,12,4.</ls>
+<ls>MĀRK. P. 114,5.</ls>
 <LEND>

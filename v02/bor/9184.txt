@@ -1,5 +1,5 @@
 <L>9184<pc>291<k1>forehead<k2>forehead
-<div n="lb"/>{@FOREHEAD:@}¦ <div n="1">(1) {#lalAwam,#} <div n="xe">{%whatever is written by%}
-<div n="lb"/>{%God on one's f.:%}</div> <div n="xs">{#yasyeSvareRa yadaleKi lalAwapawwe,#}</div> N.;</div>
-<div n="lb"/><div n="1">(2) {#BAlam#} (rare). Ku.</div>
+{@FOREHEAD:@}¦ <div n="1">(1) {#lalAwam,#} <div n="xe">{%whatever is written by%}
+{%God on one's f.:%}</div> <div n="xs">{#yasyeSvareRa yadaleKi lalAwapawwe,#}</div> N.;</div>
+<div n="1">(2) {#BAlam#} (rare). Ku.</div>
 <LEND>

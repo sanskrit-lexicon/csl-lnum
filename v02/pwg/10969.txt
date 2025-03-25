@@ -1,18 +1,18 @@
 <L>10969<pc>1-0894<k1>uttarIya<k2>uttarI/ya
-{#uttarI/ya#}¦ (von 1. {#uttara#}) <is>gaṇa</is> {#gahAdi#} zu 
-<ls>P. 4, 2, 38.</ls> n. <ls>SIDDH. K. 249</ls>, {%a%}, pen. {%Obergewand, Ueberwurf%} 
-<ls>AK. 2, 6, 3, 19.</ls> {#uttarIyErapavAjanErvopavAjayantaH#} 
-<ls>KĀTY. ŚR. 21, 3, 7.</ls> 
-<ls>MBH. 1, 2123. 7212. 2, 2289. 2514. 2524. 3, 8190. 12725. 13, 882.</ls> 
-<ls>N. 20, 1.</ls> 
-<ls>INDR. 5, 15.</ls> 
-<ls>R. 2, 88, 10. 3, 60, 6. 4, 5, 9. 13. 5, 19, 10. 31, 20.</ls> 
-<ls>MṚCCH. 33, 13.</ls> 
-<ls>PAÑCAT. 236, 9.</ls> 
-<ls>RAGH. 16, 43.</ls> 
-<ls>KATHĀS. 20, 155.</ls> <ls>BRAHMA-P.</ls> in <ls>LA. 54, 7.</ls> {#stanottarIya#} 
-<ls>BHARTṚ. 1, 22.</ls> 
-<ls>RAGH. 16, 17.</ls> {#(girO) himottarIyAruRapARqusAnO#} 
-<ls>MBH. 3, 12354.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} 
-<ls>2, 2250. 15, 671.</ls>
+{#uttarI/ya#}¦ (von 1. {#uttara#}) <is>gaṇa</is> {#gahAdi#} zu
+<ls>P. 4,2,38.</ls> n. <ls>SIDDH. K. 249,a,pen.</ls> {%Obergewand, Ueberwurf%}
+<ls>AK. 2,6,3,19.</ls> {#uttarIyErapavAjanErvopavAjayantaH#}
+<ls>KĀTY. ŚR. 21,3,7.</ls>
+<ls>MBH. 1,2123.</ls> <ls n="MBH. 1,">7212.</ls> <ls n="MBH.">2,2289.</ls> <ls n="MBH. 2,">2514.</ls> <ls n="MBH. 2,">2524.</ls> <ls n="MBH.">3,8190.</ls> <ls n="MBH. 3,">12725.</ls> <ls n="MBH.">13,882.</ls>
+<ls>N. 20,1.</ls>
+<ls>INDR. 5,15.</ls>
+<ls>R. 2,88,10.</ls> <ls n="R.">3,60,6.</ls> <ls n="R.">4,5,9.</ls> <ls n="R. 4,5,">13.</ls> <ls n="R.">5,19,10.</ls> <ls n="R. 5,">31,20.</ls>
+<ls>MṚCCH. 33,13.</ls>
+<ls>PAÑCAT. 236,9.</ls>
+<ls>RAGH. 16,43.</ls>
+<ls>KATHĀS. 20,155.</ls> <ls>BRAHMA-P. in LA. 54,7.</ls> {#stanottarIya#}
+<ls>BHARTṚ. 1,22.</ls>
+<ls>RAGH. 16,17.</ls> {#(girO) himottarIyAruRapARqusAnO#}
+<ls>MBH. 3,12354.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+<ls n="MBH.">2,2250.</ls> <ls n="MBH.">15,671.</ls>
 <LEND>

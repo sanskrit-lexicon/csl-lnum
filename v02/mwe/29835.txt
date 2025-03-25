@@ -1,6 +1,6 @@
 <L>29835<pc>810-b<k1>traveller<k2>traveller
-<div n="lb"/>TRAVELLER¦, {%s.%} {#paTikaH, pAnTaH, aDvagaH -gAmI#} {%m.%} {#(n), aDvanyaH, aDva-#}
-<div n="lb"/>{#nInaH, yAtrikaH, pAdavikaH, sAraRikaH, mArgasTaH, paTilaH, gantuH#} {%m.,%}
-<div n="lb"/>{#gamaTaH, yAyI#} {%m.%} {#(n), deSikaH, itvaraH, proTaH, deSikaH, aDvani vartta-#}
-<div n="lb"/>{#mAnaH, paradeSasevI#} {%m.;%} ‘a great traveller,’ {#bahudeSadarSI#} {%m.%}
+TRAVELLER¦, {%s.%} {#paTikaH, pAnTaH, aDvagaH -gAmI#} {%m.%} {#(n), aDvanyaH, aDva-#}
+{#nInaH, yAtrikaH, pAdavikaH, sAraRikaH, mArgasTaH, paTilaH, gantuH#} {%m.,%}
+{#gamaTaH, yAyI#} {%m.%} {#(n), deSikaH, itvaraH, proTaH, deSikaH, aDvani vartta-#}
+{#mAnaH, paradeSasevI#} {%m.;%} ‘a great traveller,’ {#bahudeSadarSI#} {%m.%}
 <LEND>

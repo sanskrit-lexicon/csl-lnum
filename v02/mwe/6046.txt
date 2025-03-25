@@ -1,6 +1,6 @@
 <L>6046<pc>136-a<k1>copper<k2>copper
-<div n="lb"/>COPPER¦, {%s.%} {#tAmraM, tAmrakaM, SulvaM, dvyazwaM, dvizwaM, nEpAlikaM, tapanezwaM, lohitAyaH#}
-<div n="lb"/>{%n.%} {#(s), uqumbaraM, brahmavardDanaM, ambakaM, aravindaM, ravilohaM;#} ‘copper
-<div n="lb"/>vessel,’ {#tAmrapAtraM, tAmrakawAhaH, tAmrasTAlI, tAmrapiWaraH;#} ‘copper
-<div n="lb"/>coin,’ {#paRaH#}.
+COPPER¦, {%s.%} {#tAmraM, tAmrakaM, SulvaM, dvyazwaM, dvizwaM, nEpAlikaM, tapanezwaM, lohitAyaH#}
+{%n.%} {#(s), uqumbaraM, brahmavardDanaM, ambakaM, aravindaM, ravilohaM;#} ‘copper
+vessel,’ {#tAmrapAtraM, tAmrakawAhaH, tAmrasTAlI, tAmrapiWaraH;#} ‘copper
+coin,’ {#paRaH#}.
 <LEND>

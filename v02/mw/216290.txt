@@ -1,20 +1,20 @@
 <L>216290<pc>1068,3<k1>SAs<k2>SAs<h>1<e>1
-<hom>1.</hom> <s>SAs</s> ¦ (<ab>cf.</ab> √ <s>SaMs</s>) <ab>cl.</ab> 2. <ab>P.</ab> (<ls>Dhātup. xxiv, 67</ls>) <s>SAsti</s> 
-(<ab>Ved.</ab> and <ab>ep.</ab> also <s>SA/ste</s> and <s>SAsati</s>, <s>°te</s>;
-<ab>du.</ab> <s>SizWaH</s> &c., <ls>Pāṇ. 6-4, 34</ls>;
-3. <ab>pl.</ab> <s>SAsati</s>, <ls>ib. vi, 1, 6</ls>;
+<hom>1.</hom> <s>SAs</s> ¦ (<ab>cf.</ab> √ <s>SaMs</s>) <ab>cl.</ab> 2. <ab>P.</ab> (<ls>Dhātup. xxiv, 67</ls>) <s>SAsti</s>
+(<lang>Ved.</lang> and <lang>ep.</lang> also <s>SA/ste</s> and <s>SAsati</s>, <s>°te</s>;
+<ab>du.</ab> <s>SizWaH</s> &c., <ls>Pāṇ. vi, 4, 34</ls>;
+3. <ab>pl.</ab> <s>SAsati</s>, <ls>ib.</ls> <ls n="Pāṇ.">vi, 1, 6</ls>;
 <ab>impf.</ab> <s>aSAt</s>, <ls>Br.</ls> &c.;
 <ab>Impv.</ab> <s>SADi</s>, <s>SAsta/na</s>, <ls>RV.</ls>;
 <ab>Pot.</ab> <s>SizyAt</s>, <ls>Up.</ls>; <ls>GṛŚrS.</ls>;
-<ab>pf.</ab> <s>SaSAsa</s>, <s>°suH</s> [in, <ls>RV.</ls> also <ab>Impv.</ab> <s>SaSADi</s> and <ab>Subj.</ab> <s>SaSAs</s>] <ls>RV.</ls> &c. &c.;
-<ab>aor.</ab> <s>aSizat</s> [in, <ls>RV.</ls> also 1. <ab>pl.</ab> <s>SizAmahi</s> and <ab>p.</ab> <s>Siza/t</s>] <ls>ib.</ls>;
+<ab>pf.</ab> <s>SaSAsa</s>, <s>°suH</s> [in <ls>RV.</ls> also <ab>Impv.</ab> <s>SaSADi</s> and <ab>Subj.</ab> <s>SaSAs</s>] <ls>RV.</ls> &c. &c.;
+<ab>aor.</ab> <s>aSizat</s> [in <ls>RV.</ls> also 1. <ab>pl.</ab> <s>SizAmahi</s> and <ab>p.</ab> <s>Siza/t</s>] <ls>ib.</ls>;
 <ab>fut.</ab> <s>SAsitA</s> <ab>Gr.</ab>;
 <s>SAsizyati</s>, <s>°te</s>, <ls>Br.</ls> &c.;
 <ab>inf.</ab> <s>SAstum</s>, <ls>GṛŚrS.</ls>;
 <s>SAsitum</s>, <ls>MBh.</ls> &c.;
 <ab>ind.p.</ab> <s>SAsitvA</s> or <s>SizwvA</s>, <ls>ib.</ls>;
 <s>-Sizya</s>, <ls>Br.</ls>; <ls>Up.</ls>;
-<s>-SAsya</s>, <ls>MBh.</ls> &c.), 
+<s>-SAsya</s>, <ls>MBh.</ls> &c.),
 <div n="to"/>to chastise, correct, censure, punish, <ls>RV.</ls> &c. &c.;
 <div n="to"/>to restrain, control, rule, govern (also with <s>rAjyam</s> or <s>ESvaryam</s>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to administer the laws (with <s>Darmam</s>, ‘to <ab n="administer">adm°</ab> justice’), <ls>MBh.</ls>;
@@ -26,7 +26,7 @@
 <div n="to"/>to blame, reject, disdain (?), <ls>RV. x, 32, 4</ls>;
 <div n="to"/>to praise, commend (= √ <s>SaMs</s>), <ls>Hit. iii, 102</ls> :
 <div n="vp"/><ab>Pass.</ab> <s>SAsyate</s> or <s>Sizyate</s> (<ab>cf.</ab> √ <s>Siz</s>), to be chastised or corrected &c., <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
-<div n="to"/><ab>Caus.</ab> <s>SASayati</s> (<ab>aor.</ab> <s>aSaSAsat</s>, <ls>Pāṇ. 7-4, 2</ls>), to recommend, <ls>Bālar. v, 33</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>SASayati</s> (<ab>aor.</ab> <s>aSaSAsat</s>, <ls>Pāṇ. vii, 4, 2</ls>), to recommend, <ls>Bālar. v, 33</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>SiSAsizati</s> <ab>Gr.</ab>:
 <div n="vp"/><ab>Intens.</ab> <s>SeSizyate</s>, <s>SASAsti</s>, <ls>ib.</ls><info westergaard="SAsu,24.67,02.0082"/><info whitneyroots="SAs1,172"/><info verb="genuineroot" cp="2P"/>
 <LEND>

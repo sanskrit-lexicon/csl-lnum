@@ -1,8 +1,8 @@
 <L>7472<pc>236<k1>emission<k2>emission
-<div n="lb"/>{@EMISSION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#mokzaH;#} </div><div n="1">(2) {#visarjanam;#}</div>
-<div n="lb"/><div n="1">(3) {#nirgamH#} <div n="xe">{%or%}</div> <div n="xs">{#nizkramaH#}</div> (= coming out); </div><div n="1">(4)
-<div n="lb"/>{#udgAraH#} (= throwing up); </div><div n="1">(5) {#srAvaH#} (=flow).</div>
-<div n="lb"/><div n="I">II Animal: {#retasKalanam, retaHsrutiH; retaHkzaraRam; #}
-<div n="lb"/>{# vIryanizekaH;#} etc. Ph.: <div n="xe">{%he had e.:%}</div> <div n="xs">{#asya retaH #}
-<div n="lb"/>{# caskanda#}</div> <div n="xe">{%or%}</div> <div n="xs">{#susrAva,#}</div> Mah.</div>
+{@EMISSION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#mokzaH;#} </div><div n="1">(2) {#visarjanam;#}</div>
+<div n="1">(3) {#nirgamH#} <div n="xe">{%or%}</div> <div n="xs">{#nizkramaH#}</div> (= coming out); </div><div n="1">(4)
+{#udgAraH#} (= throwing up); </div><div n="1">(5) {#srAvaH#} (=flow).</div>
+<div n="I">II Animal: {#retasKalanam, retaHsrutiH; retaHkzaraRam; #}
+{# vIryanizekaH;#} etc. Ph.: <div n="xe">{%he had e.:%}</div> <div n="xs">{#asya retaH #}
+{# caskanda#}</div> <div n="xe">{%or%}</div> <div n="xs">{#susrAva,#}</div> Mah.</div>
 <LEND>

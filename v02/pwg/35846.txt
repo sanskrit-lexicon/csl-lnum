@@ -1,86 +1,82 @@
 <L>35846<pc>3-0840<k1>dviz<k2>dviz<h>1
-1. {#dviz#}¦, {#dve/zwi#} und {#dvizwe#} 
-<ls>DHĀTUP. 24, 3</ls>; ep. {#dvizasi, dvizate, dviza, dvizasva#}; imperf. {#advizus#} und {#advizan#} 
-<ls>P. 3, 4, 112.</ls> 
-<ls>VOP. 9, 6. 46</ls>; ved. {#dve/zat, dve/zAma, dvikzat; advizwa#} und {#advikzata#} 
-<ls>VOP. 9, 46.</ls> {#dvikzata#} 3. sg. 
-<ls>AV. 12, 1. 18. 2, 33</ls>; {#didveza; dvekzyati, dvezwA#} <is>Kār</is>. 6 aus 
-<ls>SIDDH. K.</ls> zu <ls>P.7,2,10</ls>; {%abgeneigt sein, einen Widerwillen empfinden gegen Jmd%} oder {%Etwas, anfeinden, hassen, seinen Hass auslassen gegen%} (acc., dat. und gen.): {#dvezwi^ Sva\SrUrapa^ jA\yA ru^RadDi#} 
-<ls>ṚV. 10, 34, 3.</ls> <ls n="ṚV.">1, 50, 13.</ls> <ls n="ṚV.">3, 53, 21.</ls> <ls n="ṚV.">6, 47, 9.</ls> 
-<ls>VS. 1, 25.</ls> {#yo a\smAndvezwi\ yaM va\yaM dvi\zmaH#} 
-<ls>AV. 7, 81, 5.</ls> {#u\Be e^naM dvizwo\ naBa^sI\ cara^ntam#} 
-<ls>5, 18, 5.</ls> {#pUrva\stAnda^Bnuhi\ ye tvA^ dvi\zanti^#} 
-<ls>10, 3, 3.</ls> {#mA BrAtA\ BrAta^raM dvikzat#} 
-<ls>3, 30, 3.</ls> <ls>ŚAT. BR. 1, 5, 4, 12. 6, 3, 2.</ls> {#ISvara enaM dvezwoH#} 
-<ls>2, 3, 4, 6. -</ls> <ls>M. 7 12.</ls> {#pradvizantIM patirBAryAM kiM mAM dvekzIti cAbravIt#} 
-<ls>MBH. 1, 4198.</ls> {#tasmAddvizasi govindam#} 
-<ls>6, 3004.</ls> {#mA pARqavAndviza#} 
-<ls>2, 1934.</ls> {#pARqoH sutAnmA dvizasva#} 
-<ls>1943.</ls> {#mamApi dvezwumarhati#} 
-<ls>3, 15224.</ls> {#tato 'dvizurnirAloke sveByo 'nyeByaSca rAkzasAH#} 
-<ls>BHAṬṬ. 17, 61.</ls> {#dvezwi prAyo guRiByo 'pi na ca snihyati kasyacit#} 
-<ls>18, 9.</ls> {#na me prItirna ca dvize#} 
-<ls>MBH. 12, 8051.</ls> {#tattatprApya SuBASuBam . nABinandati na dvezwi#} 
-<ls>BHAG. 2, 57.</ls> {#na dvezwyakuSalaM karma kuSale nAnusajjate#} 
-<ls>18, 10.</ls> {#ramyaM dvezwi#} 
-<ls>ŚĀK. 132.</ls> {#yAnyabjAnyudayaM dvizanti SaSinaH#} 
-<ls>RĀJA-TAR. 3, 284.</ls> {#dviza/nt#} {%abgeneigt, anfeindend, hassend%}; subst. {%Feind%} 
-<ls>P. 3, 2, 131.</ls> 
-<ls>AK. 2, 8, 1, 10.</ls> 
-<ls>H. 729.</ls> mit acc. oder gen. des obj. 
-<ls>P. 2, 3, 69, <is>Vārtt</is>. -</ls> <ls>ŚAT. BR. 1, 6, 1, 4. 2, 1 7. 14, 4, 1, 8. 5, 2, 1.</ls> <ls>TAITT. UP. 3, 10, 4.</ls> {#saMvatsaraM pratIkzeta dvizantIM yozitaM patiH#} 
-<ls>M. 9, 77.</ls> {#unmattam#} u. s. w. {#na tyAgo 'sti dvizantyAH#} 79. {#advizantaM kaTaM dvizyAttvAdfSaH#} 
-<ls>MBH. 2, 1935.</ls> {#dvizanvanecarAgryARAm#} 
-<ls>BHAṬṬ. 5, 97.</ls> {#dvizatAM BayakartA#} 
-<ls>MBH. 3, 2494.</ls> 
-<ls>M. 3, 144. 4, 213.</ls> 
-<ls>BHAG. 16. 19.</ls> 
-<ls>SĀV. 7, 4.</ls> 
-<ls>RAGH. 6, 31.</ls> 
-<ls>PAÑCAT. I, 27.</ls> <ls>RĀJA-TAR. 6, 243.</ls> {#dvizatItApa#} <lex>adj.</lex> {%Feindinnen bedrängend%} 
-<ls>SAṂKṢIPTAS.</ls> im <ls>ŚKDR.</ls> {#dvizwa#} {%verhasst, unangenehm%} 
-<ls>TRIK. 3, 3, 170.</ls> {#rAjadvizwAdeSakft#} 
-<ls>YĀJÑ. 2, 304.</ls> 
-<ls>MBH. 5, 1224.</ls> {#indra°#} 
-<ls>13, 531.567.</ls>
+1. {#dviz#}¦, {#dve/zwi#} und {#dvizwe#}
+<ls>DHĀTUP. 24,3</ls>; ep. {#dvizasi, dvizate, dviza, dvizasva#}; imperf. {#advizus#} und {#advizan#}
+<ls>P. 3,4,112.</ls>
+<ls>VOP. 9,6.</ls> <ls n="VOP. 9,">46</ls>; ved. {#dve/zat, dve/zAma, dvikzat; advizwa#} und {#advikzata#}
+<ls>VOP. 9,46.</ls> {#dvikzata#} 3. sg.
+<ls>AV. 12,1,18.</ls> <ls n="AV. 12,">2,33</ls>; {#didveza; dvekzyati, dvezwA#} <is>Kār.</is> 6 aus
+<ls>SIDDH. K.</ls> zu <ls>P. 7,2,10</ls>; {%abgeneigt sein, einen Widerwillen empfinden gegen Jmd%} oder {%Etwas, anfeinden, hassen, seinen Hass auslassen gegen%} (acc., dat. und gen.): {#dvezwi^ Sva\SrUrapa^ jA\yA ru^RadDi#}
+<ls>ṚV. 10,34,3.</ls> <ls n="ṚV.">1,50,13.</ls> <ls n="ṚV.">3,53,21.</ls> <ls n="ṚV.">6,47,9.</ls>
+<ls>VS. 1,25.</ls> {#yo a\smAndvezwi\ yaM va\yaM dvi\zmaH#}
+<ls>AV. 7,81,5.</ls> {#u\Be e^naM dvizwo\ naBa^sI\ cara^ntam#}
+<ls n="AV.">5,18,5.</ls> {#pUrva\stAnda^Bnuhi\ ye tvA^ dvi\zanti^#}
+<ls n="AV.">10,3,3.</ls> {#mA BrAtA\ BrAta^raM dvikzat#}
+<ls n="AV.">3,30,3.</ls> <ls>ŚAT. BR. 1,5,4,12. 6,3,2.</ls> {#ISvara enaM dvezwoH#}
+<ls n="ŚAT. BR.">2,3,4,6.</ls> — <ls>M. 7,12.</ls> {#pradvizantIM patirBAryAM kiM mAM dvekzIti cAbravIt#}
+<ls>MBH. 1,4198.</ls> {#tasmAddvizasi govindam#}
+<ls n="MBH.">6,3004.</ls> {#mA pARqavAndviza#}
+<ls n="MBH.">2,1934.</ls> {#pARqoH sutAnmA dvizasva#}
+<ls n="MBH. 2,">1943.</ls> {#mamApi dvezwumarhati#}
+<ls n="MBH.">3,15224.</ls> {#tato 'dvizurnirAloke sveByo 'nyeByaSca rAkzasAH#}
+<ls>BHAṬṬ. 17,61.</ls> {#dvezwi prAyo guRiByo 'pi na ca snihyati kasyacit#}
+<ls n="BHAṬṬ.">18,9.</ls> {#na me prItirna ca dvize#}
+<ls>MBH. 12,8051.</ls> {#tattatprApya SuBASuBam . nABinandati na dvezwi#}
+<ls>BHAG. 2,57.</ls> {#na dvezwyakuSalaM karma kuSale nAnusajjate#}
+<ls n="BHAG.">18,10.</ls> {#ramyaM dvezwi#}
+<ls>ŚĀK. 132.</ls> {#yAnyabjAnyudayaM dvizanti SaSinaH#}
+<ls>RĀJA-TAR. 3,284.</ls> {#dviza/nt#} {%abgeneigt, anfeindend, hassend%}; subst. {%Feind%}
+<ls>P. 3,2,131.</ls>
+<ls>AK. 2,8,1,10.</ls>
+<ls>H. 729.</ls> mit acc. oder gen. des obj.
+<ls>P. 2,3,69</ls>, <is>Vārtt</is>. — <ls>ŚAT. BR. 1,6,1,4. 2,1 7. 14,4,1,8. 5,2,1.</ls> <ls>TAITT. UP. 3,10,4.</ls> {#saMvatsaraM pratIkzeta dvizantIM yozitaM patiH#}
+<ls>M. 9,77.</ls> {#unmattam#} u. s. w. {#na tyAgo 'sti dvizantyAH#} 79. {#advizantaM kaTaM dvizyAttvAdfSaH#}
+<ls>MBH. 2,1935.</ls> {#dvizanvanecarAgryARAm#}
+<ls>BHAṬṬ. 5,97.</ls> {#dvizatAM BayakartA#}
+<ls>MBH. 3,2494.</ls>
+<ls>M. 3,144.</ls> <ls n="M.">4,213.</ls>
+<ls>BHAG. 16. 19.</ls>
+<ls>SĀV. 7,4.</ls>
+<ls>RAGH. 6,31.</ls>
+<ls>PAÑCAT. I,27.</ls> <ls>RĀJA-TAR. 6,243.</ls> {#dvizatItApa#} <lex>adj.</lex> {%Feindinnen bedrängend%}
+<ls>SAṂKṢIPTAS.</ls> im <ls>ŚKDR.</ls> {#dvizwa#} {%verhasst, unangenehm%}
+<ls>TRIK. 3,3,170.</ls> {#rAjadvizwAdeSakft#}
+<ls>YĀJÑ. 2,304.</ls>
+<ls>MBH. 5,1224.</ls> {#indra°#}
+<ls n="MBH.">13,531.</ls> <ls n="MBH. 13,">567.</ls>
 [Page3-0841]
-{%abgeneigt, feindlich%}: {#sadEva lokadvizwAH pannagAH sarva eva#} 
-<ls>MBH. 14, 750.</ls> {#niDanAyra matiM cakre kaMsadvizwena cetasA#} 
+{%abgeneigt, feindlich%}: {#sadEva lokadvizwAH pannagAH sarva eva#}
+<ls>MBH. 14,750.</ls> {#niDanAyra matiM cakre kaMsadvizwena cetasA#}
 <ls>HARIV. 4673</ls>; vgl. {#kfta°#} .
-
-<div n="p">— {#anu#} {%seinen Hass gegen Jmd auslassen%}: {#nAnudvezwi kaliM samrAw#} 
-<ls>BHĀG. P. 1, 18, 7.</ls>
-
-<div n="p">— {#pra#} {%eine Abneigung haben, anfeinden, hassen%}: {#mAmAtmaparadehezu pradvizantaH#} 
-<ls>BHAG. 16, 18.</ls> 
-<ls>MBH. 5. 2616. 9, 2421.</ls> {#prAdvizan#} 
-<ls>12, 4122. 16, 42.</ls> {#pradvizantI#} ({#BAryA#}) 
-<ls>1, 4198.</ls> <ls>R. GORR. 2, 20, 16.</ls> med.: {#ASramasTAnviDarmasTAH prAdvizanta parasparam#} 
-<ls>MBH. 12, 8397.</ls> {#arTAnizwAnkAmayate svaBAvaH sarvAndvezyAnpradvizate svaBAvaH#} 
-<ls>14, 789.</ls> 
+<div n="p">— {#anu#} {%seinen Hass gegen Jmd auslassen%}: {#nAnudvezwi kaliM samrAw#}
+<ls>BHĀG. P. 1,18,7.</ls>
+<div n="p">— {#pra#} {%eine Abneigung haben, anfeinden, hassen%}: {#mAmAtmaparadehezu pradvizantaH#}
+<ls>BHAG. 16,18.</ls>
+<ls>MBH. 5,2616.</ls> <ls n="MBH.">9,2421.</ls> {#prAdvizan#}
+<ls n="MBH.">12,4122.</ls> <ls n="MBH.">16,42.</ls> {#pradvizantI#} ({#BAryA#})
+<ls n="MBH.">1,4198.</ls> <ls>R. GORR. 2,20,16.</ls> med.: {#ASramasTAnviDarmasTAH prAdvizanta parasparam#}
+<ls>MBH. 12,8397.</ls> {#arTAnizwAnkAmayate svaBAvaH sarvAndvezyAnpradvizate svaBAvaH#}
+<ls n="MBH.">14,789.</ls>
 <div n="v">— Vgl. {#pradviz, °dveza, °dvezaRa#} .
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%eine Abneigung haben, anfeinden, sich feindlich verhalten gegen%}: {#vAyuH samudraM vidvezwi#} 
-<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 25, 14. 27.</ls> {#gopA vidvizanti mamotsavam#} 
-<ls>HARIV. 3895.</ls> med.: {#na vidvizARasya ca sarvadozAn#} 
-<ls>MBH. 14, 791.</ls> {#vidvizant#} {%feindlich gesinnt, Feind%} 
-<ls>BHĀG. P. 4, 3, 1.</ls> {#nyastaM padaM Sirasi vidvizatAm#} 
-<ls>BHARTṚ. 3, 68.</ls> 
-<ls>AK. 2, 8, 2, 42.</ls> {#vidvizwa#} {%verhasst%}: {#loka°#} 
-<ls>M. 2, 57.</ls> 
-<ls>YĀJÑ. 1, 156.</ls> 
-<ls>R. 2, 23, 11.</ls> {#brahma°#} 
-<ls>3, 35, 70.</ls> {%feindlich gesinnt gegen%} (loc.) 
-<ls>MBH. 7, 8215.</ls> {%in Feindschaft —, im Widerspruch stehend zu%}: {#etadapyarTavidvizwaM nodAhartumihArhasi#} 
-<ls>R. GORR. 2, 116, 46.</ls> 
-<div n="1">— 2) med. {%sich gegenseitig abgeneigt sein, sich anfeinden%}: {#yena^ de\vA na vi\yanti\ no ca^ vidvi\zate^ mi\TaH#} 
-<ls>AV. 3, 30, 4.</ls> {#mA vidvizAvahE#} 
-<ls>KAṬHOP. 6, 19.</ls> 
-<ls>TAITT. UP. 2, 10.</ls> <ls>PĀR. GṚHY. 2, 10.</ls> <ls>KĀTY. ŚR. 25, 8, 16.</ls> <ls>ŚĀṄKH. ŚR. 13, 5, 1.</ls> — caus. {%zu Feinden machen. unter sich verfeinden%}: {#svaSatrUnvidvezayan#} 
-<ls>BHAṬṬ. 12, 31.</ls> 
+<div n="p">— {#vi#}
+<div n="1"> 1) {%eine Abneigung haben, anfeinden, sich feindlich verhalten gegen%}: {#vAyuH samudraM vidvezwi#}
+<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 25,14. 27.</ls> {#gopA vidvizanti mamotsavam#}
+<ls>HARIV. 3895.</ls> med.: {#na vidvizARasya ca sarvadozAn#}
+<ls>MBH. 14,791.</ls> {#vidvizant#} {%feindlich gesinnt, Feind%}
+<ls>BHĀG. P. 4,3,1.</ls> {#nyastaM padaM Sirasi vidvizatAm#}
+<ls>BHARTṚ. 3,68.</ls>
+<ls>AK. 2,8,2,42.</ls> {#vidvizwa#} {%verhasst%}: {#loka°#}
+<ls>M. 2,57.</ls>
+<ls>YĀJÑ. 1,156.</ls>
+<ls>R. 2,23,11.</ls> {#brahma°#}
+<ls n="R.">3,35,70.</ls> {%feindlich gesinnt gegen%} (loc.)
+<ls>MBH. 7,8215.</ls> {%in Feindschaft —, im Widerspruch stehend zu%}: {#etadapyarTavidvizwaM nodAhartumihArhasi#}
+<ls>R. GORR. 2,116,46.</ls>
+<div n="1">— 2) med. {%sich gegenseitig abgeneigt sein, sich anfeinden%}: {#yena^ de\vA na vi\yanti\ no ca^ vidvi\zate^ mi\TaH#}
+<ls>AV. 3,30,4.</ls> {#mA vidvizAvahE#}
+<ls>KAṬHOP. 6,19.</ls>
+<ls>TAITT. UP. 2,10.</ls> <ls>PĀR. GṚHY. 2,10.</ls> <ls>KĀTY. ŚR. 25,8,16.</ls> <ls>ŚĀṄKH. ŚR. 13,5,1.</ls> — caus. {%zu Feinden machen. unter sich verfeinden%}: {#svaSatrUnvidvezayan#}
+<ls>BHAṬṬ. 12,31.</ls>
 <div n="v">— Vgl. {#vidveza, °dvezaRa, °dvezas, °dvezin#} .
-
-<div n="p">— {#sam#} {%anfeinden, hassen%}: {#yuzmABirnityasaMdvizwaH#} 
-<ls>MBH. 12, 53.</ls>
+<div n="p">— {#sam#} {%anfeinden, hassen%}: {#yuzmABirnityasaMdvizwaH#}
+<ls>MBH. 12,53.</ls>
 <LEND>

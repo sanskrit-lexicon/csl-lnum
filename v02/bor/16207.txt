@@ -1,6 +1,6 @@
 <L>16207<pc>498<k1>ownership<k2>ownership
-<div n="lb"/>{@OWNERSHIP:@}¦ <div n="1">(1) {#svatvam,#} {%creating, destroying o.:%}
-<div n="lb"/>{#svatvajanaka#} (f. {#nikA#}), {#svatvanASaka#} (f. {#SikA#}),
-<div n="lb"/>Srikrishna; <div n="xe">{%partial o.:%}</div> <div n="xs">{#ekadeSagatasvatvam,#}</div> Mit.;</div>
-<div n="lb"/><div n="1">(2) by {#svAmin,#} <div n="xe">{%to acquire o.:%}</div> <div n="xs">{#svAmI Bavati,#}</div> Mi.</div>
+{@OWNERSHIP:@}¦ <div n="1">(1) {#svatvam,#} {%creating, destroying o.:%}
+{#svatvajanaka#} (f. {#nikA#}), {#svatvanASaka#} (f. {#SikA#}),
+Srikrishna; <div n="xe">{%partial o.:%}</div> <div n="xs">{#ekadeSagatasvatvam,#}</div> Mit.;</div>
+<div n="1">(2) by {#svAmin,#} <div n="xe">{%to acquire o.:%}</div> <div n="xs">{#svAmI Bavati,#}</div> Mi.</div>
 <LEND>

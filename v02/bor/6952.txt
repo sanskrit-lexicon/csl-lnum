@@ -1,6 +1,6 @@
 <L>6952<pc>221<k1>drinking<k2>drinking
-<div n="lb"/>{@DRINKING:@}¦ {#pAnam,#} <div n="xe">{%excessive d.:%}</div> <div n="xs">{#atipAnam,#}</div> Ki.;
-<div n="lb"/><div n="xe">{%great d. began:%}</div> <div n="xs">{#prAvartata mahApAnam,#}</div> Mah. <div n="xe">{%D.%}
-<div n="lb"/>{%vessel:%}</div> <div n="xs">{#pAnapAtram#}</div> and sim. comp.s. {%D. assembly:%}
-<div n="lb"/>{#pAnagozWI,#} D. <div n="xe">{%D. -place%}</div> <div n="xs">{#prapA,#}</div> Mah.
+{@DRINKING:@}¦ {#pAnam,#} <div n="xe">{%excessive d.:%}</div> <div n="xs">{#atipAnam,#}</div> Ki.;
+<div n="xe">{%great d. began:%}</div> <div n="xs">{#prAvartata mahApAnam,#}</div> Mah. <div n="xe">{%D.%}
+{%vessel:%}</div> <div n="xs">{#pAnapAtram#}</div> and sim. comp.s. {%D. assembly:%}
+{#pAnagozWI,#} D. <div n="xe">{%D. -place%}</div> <div n="xs">{#prapA,#}</div> Mah.
 <LEND>

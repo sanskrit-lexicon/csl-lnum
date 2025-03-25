@@ -1,96 +1,96 @@
 <L>54117<pc>5-0201<k1>Baya<k2>Baya/
-{#Baya/#}¦ (von {#BI)#} 
-<div n="1"> 1) 
-n. <ls>P. 3, 3, 56, <is>Vārtt</is>. 1.</ls> {%Gefahr, Noth; Angst, Furcht%} 
-<ls>AK. 1, 1, 7, 21. 3, 4, 25, 186.</ls> 
-<ls>TRIK. 3, 3, 317.</ls> 
-<ls>H. 301.</ls> 
-<ls>an. 2, 373.</ls> 
-<ls>MED. y. 40.</ls> <ls>HALĀY. 1, 91. 4, 40.</ls> {#Ba\ye ci^tsukzi\tiM da^De#} 
-<ls>ṚV. 1, 40, 8.</ls> {#mA te^ Ba\yaM ja^ri\tAra^M vidat#} 
-<ls n="ṚV. 1,">189, 4.</ls> <ls n="ṚV.">2, 27, 5.</ls> <ls n="ṚV. 2,">28, 10.</ls> <ls n="ṚV. 2,">41, 10.</ls> {#sa bA^Da\syApa^ Ba\yA saho^BiH#} 
-<ls n="ṚV.">6, 6, 6.</ls> {#dEvya#} 
-<ls n="ṚV.">8, 50, 16.</ls> <ls n="ṚV.">9, 67, 21.</ls> <ls n="ṚV.">10, 35, 14.</ls> <ls n="ṚV. 10,">39, 11.</ls> <ls>AV. 4, 19, 2. 5, 21, 1.</ls> {#Ba\yaM pa\rastA\daBa^yaM #}
+{#Baya/#}¦ (von {#BI)#}
+<div n="1"> 1)
+n. <ls>P. 3,3,56</ls>, <is>Vārtt</is>. 1. {%Gefahr, Noth; Angst, Furcht%}
+<ls>AK. 1,1,7,21.</ls> <ls n="AK.">3,4,25,186.</ls>
+<ls>TRIK. 3,3,317.</ls>
+<ls>H. 301.</ls>
+<ls>an. 2,373.</ls>
+<ls>MED. y. 40.</ls> <ls>HALĀY. 1,91. 4,40.</ls> {#Ba\ye ci^tsukzi\tiM da^De#}
+<ls>ṚV. 1,40,8.</ls> {#mA te^ Ba\yaM ja^ri\tAra^M vidat#}
+<ls n="ṚV. 1,">189,4.</ls> <ls n="ṚV.">2,27,5.</ls> <ls n="ṚV. 2,">28,10.</ls> <ls n="ṚV. 2,">41,10.</ls> {#sa bA^Da\syApa^ Ba\yA saho^BiH#}
+<ls n="ṚV.">6,6,6.</ls> {#dEvya#}
+<ls n="ṚV.">8,50,16.</ls> <ls n="ṚV.">9,67,21.</ls> <ls n="ṚV.">10,35,14.</ls> <ls n="ṚV. 10,">39,11.</ls> <ls>AV. 4,19,2.</ls> <ls n="AV.">5,21,1.</ls> {#Ba\yaM pa\rastA\daBa^yaM #}
 [Page5-0202]
-{# te a\rvAk#} 
-<ls>8, 1, 10.</ls> {#hf\tsvA da^DatAM Ba\yam#} 
-<ls>8, 2. 18. 10, 3, 4. 7. 19, 3, 4.</ls> <ls>ŚAT. BR. 11, 5, 3, 8. 13, 2, 2, 9. 14, 4, 2, 3.</ls> {#na kutaScidBayaM Bavati#} 
-<ls>ĀŚV. GṚHY. 3, 10, 8.</ls> {#aSvatTAdagniBayaM brUyAt#} {%Feuersgefahr%} 
-<ls>GOBH. 4, 7, 14.</ls> 
-<ls>KAUŚ. 32. 56. 141.</ls> {#AhAranidrABayamETunam#} (haben Menschen mit Thieren gemein) 
-<ls>Spr. 409.</ls> {#°SokasamAvizwa#} 
-<ls>N. 8, 2.</ls> 
-<ls>M. 6, 32.</ls> {#nAstyeva BayaM tatra gatasya me#} so v. a. {%ich fürchte mich nicht dahin zu gehen%} 
-<ls>VID. 206.</ls> {#°cakita#} 
-<ls>VET.</ls> in <ls>LA. (II) 18, 6.</ls> {#°trasta#} 
-<ls>Spr. 2015.</ls> {#°saMtrasta#} 
-<ls>2016.</ls> {#Bayena BedayedBIrum#} 
-<ls>2017.</ls> {#Baye vA yadi vA harze saMprApte#} 
-<ls>2018.</ls> unter den sechs Fehlern 
-<ls>3072.</ls> {#mahadBayam#} 
-<ls>452.</ls> <ls>KATHOP. 6, 2.</ls> {#kaTaM nu vipramucyema BayAdasmAt#} 
-<ls>HIḌ. 1, 7.</ls> {#mA Baya kuru#} {%fürchte dich nicht%} 
-<ls>VET.</ls> in <ls>LA. (II) 18, 7.</ls> {#BayAt#} {%aus Furcht%} 
-<ls>M. 7, 3.</ls> 
-<ls>N. 13, 11.</ls> 
-<ls>HIT. 10, 9.</ls> {#BayAdBItAH#} 
-<ls>R. 1, 55, 23.</ls> {#viveSa ca BayaM surAn#} 
-<ls>23, 4.</ls> {#BayaM mAM mahadAviSat#} 
-<ls>ARJ. 3, 37.</ls> {#tAvadBayasya BetavyaM yAvadBayamanAgatam#} 
-<ls>Spr. 1029.</ls> {#BayaM pariharan#} 
-<ls>4648.</ls> {#cOravyAGrAdiBirBayEH#} 
-<ls>M. 11. 112. 12, 77.</ls> 
-<ls>R. 2, 28, 18.</ls> 
-<ls>MĀRK. P. 21, 91.</ls> {#nazwaBayA (BUmi)#} 
-<ls>MBH. 13. 7236.</ls> {#aBayA vAk#} 
-<ls>4, 2141.</ls> {#apetaBayA#} {%furchtlos%} 
-<ls>1, 3929.</ls> Die Ergänzung im ablat.: {#yasmAdaRvapi BUtAnAM dvijAnnopapadyate Bayam#} 
-<ls>M. 6, 40.</ls> {#yataSca BayamASaNket#} 
-<ls>7, 188. fg.</ls> <ls>N. 14, 18.</ls> <ls>MATSYOP. 6.</ls> <ls>SUND. 1, 25.</ls> <ls>HIḌ. 2, 13.</ls> <ls>R. 1, 14, 37. 64, 4.</ls> <ls>Spr. 139. 2369. 2599.</ls> {#lokApavAdAt#} 
-<ls>2773.</ls> {#na BayeByo BayaM tasya na pApeByo na rAjataH#} 
-<ls>4321.</ls> {#sadByo BayaM nAnuvartanti santaH#} 
-<ls>5117.</ls> {#BayaM tyajata PAlgunAt#} 
-<ls>MBH. 7, 7115.</ls> {#na BayaM cakrire pArTAt#} {%fürchteten sich nicht vor%} 
-<ls>14, 2223.</ls> {#na BayaM dvIpinaH kAryaM mftyutaste#} 
-<ls>MBH.</ls> in <ls>LA. (II) 45, 9.</ls> {#vahnerBayaM kurute#} {%bewirkt Feuersgefahr%} 
-<ls>VARĀH. BṚH. S. 46, 19.</ls> im gen. <ls>KAṬHOP. 6, 3.</ls> <ls>M. 7, 15.</ls> <ls>Spr. 5207.</ls> <ls>R. 1, 63, 16.</ls> im comp. vorangehend 
-<ls>P. 2, 1, 37.</ls> {#daRqa°#} 
-<ls>N. 4, 10.</ls> {#tvadBaya#} 
-<ls>DRAUP. 7, 5.</ls> 
-<ls>R. 1, 9, 12. 60, 4.</ls> 
-<ls>ŚĀK. 40, 4.</ls> 
-<ls>MEGH. 46.</ls> 
-<ls>VID. 196.</ls> {#Darmalopa°#} 
-<ls>RAGH. 1, 76.</ls> {#Sarapatana°#} 
-<ls>ŚĀK. 7,</ls> 
-<ls>Spr. 4094.</ls> 
-<ls>HIT. 14, 19.</ls> 
-<ls>M. 4, 51.</ls> {#prARavinASaBayaBIta#} 
-<ls>PAÑCAT. ed. orn. 53, 17.</ls> {#mftyu°#} 
-<ls>KATHĀS. 27, 39.</ls> {#agni°, vyAla°, rogarakzo°#} 
-<ls>MBH. 2, 258.</ls> {#salila°#} 
-<ls>VARĀH. BṚH. S. 3, 37.</ls> {#durBikza°#} 
-<ls>4, 16.</ls> {#avfzwiM saSastraBayAm#} 
-<ls>6, 5. 7, 2.</ls> {#bahumlecCaBayA (diS)#} 
-<ls>KATHĀS. 37, 51.</ls> {#taddarSanaBayaM dattvA#} {%mit dessen Erscheinen schreckend%} 
-<ls>4, 62.</ls> {#svapakzapraBava#} 
-<ls>AK. 2, 8, 1, 30.</ls> {#agnija, vAtaja#} 
-<ls>R. 1, 1, 89.</ls> {#putravyasanaja#} 
-<ls>DAŚ. 2, 11.</ls> {#tadAgamanajaM dattvA - sahasA Bayam#} {%mit seiner Ankunft schreckend%} 
-<ls>KATHĀS. 4, 59.</ls> {#matprasUta#} 
-<ls>N. 20, 30.</ls> {#Atma°#} {%Angst für sein Leben%} 
-<ls>KATHĀS. 5, 86.</ls> {#prARa°#} {%Besorgniss für das Leben, Lebensgefahr%} 
-<ls>27, 38.</ls> <ls>R. 6, 107, 4.</ls> <ls>PAÑCAT. 62, 24.</ls> {#dvijago°#} {%Gefahr für%} 
-<ls>VARĀH. BṚH. S. 8, 42.</ls> {#jagadBaya#} {%ein Schrecken für die Welt%} (concret) 
-<ls>BHĀG. P. 1, 11, 3.</ls> Als <lex>m.</lex> soll {#Baya#} nach 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> {%Krankheit%} bedeuten. 
-<div n="1">— 2) <lex>m.</lex> {%die personificirte Furcht%} ist ein Sohn der <is>Nirṛti</is> 
-<ls>MBH. 1, 2619.</ls> 
-<ls>VP. 56.</ls> 
-<ls>MĀRK. P. 50, 29</ls> (neutr.). ein Fürst der <is>Yavana</is> und Gatte der Tochter der Zeit 
-<ls>BHĀG. P. 4, 27. 23. 28, 1.</ls> ein <is>Vasu</is> 
-<ls>6, 6, 11.</ls> 
-<div n="1">— 3) <lex>n.</lex> {%die Blüthe der Trapa bispinosa%} 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
+{# te a\rvAk#}
+<ls n="AV.">8,1,10.</ls> {#hf\tsvA da^DatAM Ba\yam#}
+<ls n="AV. 4,">8,2.</ls> <ls n="AV. 4,8,">18.</ls> <ls n="AV.">10,3,4.</ls> <ls n="AV. 10,3,">7.</ls> <ls n="AV.">19,3,4.</ls> <ls>ŚAT. BR. 11,5,3,8.</ls> <ls n="ŚAT. BR.">13,2,2,9.</ls> <ls n="ŚAT. BR.">14,4,2,3.</ls> {#na kutaScidBayaM Bavati#}
+<ls>ĀŚV. GṚHY. 3,10,8.</ls> {#aSvatTAdagniBayaM brUyAt#} {%Feuersgefahr%}
+<ls>GOBH. 4,7,14.</ls>
+<ls>KAUŚ. 32. 56. 141.</ls> {#AhAranidrABayamETunam#} (haben Menschen mit Thieren gemein)
+<ls>Spr. 409.</ls> {#°SokasamAvizwa#}
+<ls>N. 8,2.</ls>
+<ls>M. 6,32.</ls> {#nAstyeva BayaM tatra gatasya me#} so v. a. {%ich fürchte mich nicht dahin zu gehen%}
+<ls>VID. 206.</ls> {#°cakita#}
+<ls>VET. in LA. (II) 18,6.</ls> {#°trasta#}
+<ls>Spr. 2015.</ls> {#°saMtrasta#}
+<ls n="Spr.">2016.</ls> {#Bayena BedayedBIrum#}
+<ls n="Spr.">2017.</ls> {#Baye vA yadi vA harze saMprApte#}
+<ls n="Spr.">2018.</ls> unter den sechs Fehlern
+<ls n="Spr.">3072.</ls> {#mahadBayam#}
+<ls n="Spr.">452.</ls> <ls>KATHOP. 6,2.</ls> {#kaTaM nu vipramucyema BayAdasmAt#}
+<ls>HIḌ. 1,7.</ls> {#mA Baya kuru#} {%fürchte dich nicht%}
+<ls>VET. in LA. (II) 18,7.</ls> {#BayAt#} {%aus Furcht%}
+<ls>M. 7,3.</ls>
+<ls>N. 13,11.</ls>
+<ls>HIT. 10,9.</ls> {#BayAdBItAH#}
+<ls>R. 1,55,23.</ls> {#viveSa ca BayaM surAn#}
+<ls n="R. 1,">23,4.</ls> {#BayaM mAM mahadAviSat#}
+<ls>ARJ. 3,37.</ls> {#tAvadBayasya BetavyaM yAvadBayamanAgatam#}
+<ls>Spr. 1029.</ls> {#BayaM pariharan#}
+<ls n="Spr.">4648.</ls> {#cOravyAGrAdiBirBayEH#}
+<ls>M. 11,112.</ls> <ls n="M.">12,77.</ls>
+<ls>R. 2,28,18.</ls>
+<ls>MĀRK. P. 21,91.</ls> {#nazwaBayA (BUmi)#}
+<ls>MBH. 13,7236.</ls> {#aBayA vAk#}
+<ls n="MBH.">4,2141.</ls> {#apetaBayA#} {%furchtlos%}
+<ls n="MBH.">1,3929.</ls> Die Ergänzung im ablat.: {#yasmAdaRvapi BUtAnAM dvijAnnopapadyate Bayam#}
+<ls>M. 6,40.</ls> {#yataSca BayamASaNket#}
+<ls n="M.">7,188. fg.</ls> <ls>N. 14,18.</ls> <ls>MATSYOP. 6.</ls> <ls>SUND. 1,25.</ls> <ls>HIḌ. 2,13.</ls> <ls>R. 1,14,37.</ls> <ls n="R. 1,">64,4.</ls> <ls>Spr. 139.</ls> <ls n="Spr.">2369.</ls> <ls n="Spr.">2599.</ls> {#lokApavAdAt#}
+<ls n="Spr.">2773.</ls> {#na BayeByo BayaM tasya na pApeByo na rAjataH#}
+<ls n="Spr.">4321.</ls> {#sadByo BayaM nAnuvartanti santaH#}
+<ls n="Spr.">5117.</ls> {#BayaM tyajata PAlgunAt#}
+<ls>MBH. 7,7115.</ls> {#na BayaM cakrire pArTAt#} {%fürchteten sich nicht vor%}
+<ls n="MBH.">14,2223.</ls> {#na BayaM dvIpinaH kAryaM mftyutaste#}
+<ls>MBH.</ls> in <ls>LA. (II) 45,9.</ls> {#vahnerBayaM kurute#} {%bewirkt Feuersgefahr%}
+<ls>VARĀH. BṚH. S. 46,19.</ls> im gen. <ls>KAṬHOP. 6,3.</ls> <ls>M. 7,15.</ls> <ls>Spr. 5207.</ls> <ls>R. 1,63,16.</ls> im comp. vorangehend
+<ls>P. 2,1,37.</ls> {#daRqa°#}
+<ls>N. 4,10.</ls> {#tvadBaya#}
+<ls>DRAUP. 7,5.</ls>
+<ls>R. 1,9,12.</ls> <ls n="R. 1,">60,4.</ls>
+<ls>ŚĀK. 40,4.</ls>
+<ls>MEGH. 46.</ls>
+<ls>VID. 196.</ls> {#Darmalopa°#}
+<ls>RAGH. 1,76.</ls> {#Sarapatana°#}
+<ls>ŚĀK. 7</ls>,
+<ls>Spr. 4094.</ls>
+<ls>HIT. 14,19.</ls>
+<ls>M. 4,51.</ls> {#prARavinASaBayaBIta#}
+<ls>PAÑCAT. ed. orn. 53,17.</ls> {#mftyu°#}
+<ls>KATHĀS. 27,39.</ls> {#agni°, vyAla°, rogarakzo°#}
+<ls>MBH. 2,258.</ls> {#salila°#}
+<ls>VARĀH. BṚH. S. 3,37.</ls> {#durBikza°#}
+<ls n="VARĀH. BṚH. S.">4,16.</ls> {#avfzwiM saSastraBayAm#}
+<ls n="VARĀH. BṚH. S.">6,5. 7,2.</ls> {#bahumlecCaBayA (diS)#}
+<ls>KATHĀS. 37,51.</ls> {#taddarSanaBayaM dattvA#} {%mit dessen Erscheinen schreckend%}
+<ls n="KATHĀS.">4,62.</ls> {#svapakzapraBava#}
+<ls>AK. 2,8,1,30.</ls> {#agnija, vAtaja#}
+<ls>R. 1,1,89.</ls> {#putravyasanaja#}
+<ls>DAŚ. 2,11.</ls> {#tadAgamanajaM dattvA — sahasA Bayam#} {%mit seiner Ankunft schreckend%}
+<ls>KATHĀS. 4,59.</ls> {#matprasUta#}
+<ls>N. 20,30.</ls> {#Atma°#} {%Angst für sein Leben%}
+<ls>KATHĀS. 5,86.</ls> {#prARa°#} {%Besorgniss für das Leben, Lebensgefahr%}
+<ls n="KATHĀS.">27,38.</ls> <ls>R. 6,107,4.</ls> <ls>PAÑCAT. 62,24.</ls> {#dvijago°#} {%Gefahr für%}
+<ls>VARĀH. BṚH. S. 8,42.</ls> {#jagadBaya#} {%ein Schrecken für die Welt%} (concret)
+<ls>BHĀG. P. 1,11,3.</ls> Als <lex>m.</lex> soll {#Baya#} nach
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> {%Krankheit%} bedeuten.
+<div n="1">— 2) <lex>m.</lex> {%die personificirte Furcht%} ist ein Sohn der <is>Nirṛti</is>
+<ls>MBH. 1,2619.</ls>
+<ls>VP. 56.</ls>
+<ls>MĀRK. P. 50,29</ls> (neutr.). ein Fürst der <is>Yavana</is> und Gatte der Tochter der Zeit
+<ls>BHĀG. P. 4,27,23.</ls> <ls n="BHĀG. P. 4,">28,1.</ls> ein <is>Vasu</is>
+<ls n="BHĀG. P.">6,6,11.</ls>
+<div n="1">— 3) <lex>n.</lex> {%die Blüthe der Trapa bispinosa%}
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls>
 <div n="v">— Vgl. {#a°, nirBaya, prati°, bfhadBaya, mahA°, sa°#} .
 <LEND>

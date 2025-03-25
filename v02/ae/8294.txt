@@ -1,12 +1,12 @@
 <L>8294<pc>360<k1>prince<k2>prince
 {@Prince,@}¦ {%s.%} {#kumAraH, rAjaputraH-sutaH, yuvarAjaH#}. {@2@}
-<div n="lb"/>{#nfpaH, rAjan#} {%m.,%} {#pArTivaH;#} {%See%} {@King. 3@}
-<div n="lb"/>{#BartfdArakaH, kumAraH,#} (in dramas). {@-dom,@}
-<div n="lb"/>{%s.%} {#rAjyaM, rAzwraM, vizayaH#}. {@2@} {#yOvarAjyaM#}. {@-like,@}
-<div n="lb"/>{@-ly,@} {%a.%} {#rAjayogya-sadfSa#} ({#SI#} {%f.%}), {#rAjArha, nfpo-#}
-<div n="lb"/>{#-cita, nfpopama, rAjakIya, pratApavat, ESvaryavat;#}
-<div n="lb"/>{#pratApa-vEBava-SAlin#}. {@2@} {#rAjavaMSya, rAjakulaja;#}
-<div n="lb"/>‘p. birth’ {#rAjavaMSaprasUtiH;#} ‘p. merits’
-<div n="lb"/>{#rAjocitA guRAH#} {@-Princess,@} {%s.%} {#kumArI,#}
-<div n="lb"/>{#rAjaputrI, nfpAtmajA, nfpasutA, BartfdArikA#}.
+{#nfpaH, rAjan#} {%m.,%} {#pArTivaH;#} {%See%} {@King. 3@}
+{#BartfdArakaH, kumAraH,#} (in dramas). {@-dom,@}
+{%s.%} {#rAjyaM, rAzwraM, vizayaH#}. {@2@} {#yOvarAjyaM#}. {@-like,@}
+{@-ly,@} {%a.%} {#rAjayogya-sadfSa#} ({#SI#} {%f.%}), {#rAjArha, nfpo-#}
+{#-cita, nfpopama, rAjakIya, pratApavat, ESvaryavat;#}
+{#pratApa-vEBava-SAlin#}. {@2@} {#rAjavaMSya, rAjakulaja;#}
+‘p. birth’ {#rAjavaMSaprasUtiH;#} ‘p. merits’
+{#rAjocitA guRAH#} {@-Princess,@} {%s.%} {#kumArI,#}
+{#rAjaputrI, nfpAtmajA, nfpasutA, BartfdArikA#}.
 <LEND>

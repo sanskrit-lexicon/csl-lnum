@@ -1,51 +1,46 @@
 <L>24850<pc>2-0948<k1>cam<k2>cam
-{#cam#}¦, {#ca/mati#} {%schlürfen%} 
-<ls>DHĀTUP. 13, 26.</ls> 
-<ls>VOP. 8, 65</ls>; {#acamIt#} 
-<ls>66</ls>; {#acami#} impers. 
-<ls>24, 6.</ls> {#camasaH kasmAccamantyasmin#} 
-<ls>NIR. 10, 12.</ls> {#cacAma maDumADvIkam#} 
-<ls>BHAṬṬ. 14, 94.</ls> Fälschlich in Verb. mit festen Speisen (indem {#adana#} im 
-<ls>DHĀTUP.</ls> in seiner weiten Bed. gefasst wird): {#mAMsaM cemuH#} ebend. 
-<ls>53.</ls> — {#camno/ti#} ved. 
-<ls>DHĀTUP. 27, 27.</ls> — caus. {#cAmayati#} 
-<ls>19, 69.</ls> <ls>VOP. 18, 22.</ls>
-
-<div n="p">— {#A#}, {#AcAmati#} 
-<ls>P. 7, 3, 75</ls> nebst <is>Vārtt</is>. 
-<ls>VOP. 8, 66</ls>; {#AcAmi#} impers. 
-<ls>11, 7. 24, 6.</ls> {%einschlürfen%}: {#apaH#} 
-<ls>ŚAT. BR. 1, 7, 4, 17. 14, 1, 1, 29.</ls> 
-<ls>M. 2, 60. 5, 139.</ls> Mit Ergänzung von {#apaH#} 
-<ls>ŚAT. BR. 14, 9, 2, 15. 3, 13.</ls> 
-<ls>TBR. 2, 1, 4, 7.</ls> 
-<ls>ŚĀṄKH. ŚR. 2, 7, 18.</ls> 
-<ls>CHĀND. UP. 2, 12, 2. 5, 2, 7. 6, 13, 2.</ls> 
-<ls>M. 5, 144. 145.</ls> 
-<ls>PRAB. 69, 12. 14.</ls> {#Acamya#} 
-<ls>M. 2, 51. 222. 3, 217. 264. 5, 86. 87.</ls> 
-<ls>R. 2, 52, 73.</ls> 
-<ls>BHĀG. P. 6, 8, 4.</ls> {#AcAntaH#} (mit act. Bed.) {#punarAcAmet#} 
-<ls>GOBH. 1, 2, 37.</ls> 
-<ls>ĀŚV. GṚHY. 4, 7.</ls> 
-<ls>M. 2, 70. 3, 251. 5, 138. 143.</ls> 
-<ls>YĀJÑ. 1, 196.</ls> {#AcAntodaka#} 
-<ls>GOBH. 1, 1, 2. 3, 8, 17.</ls> {%den Mund ausspülen mit%} (instr.): {#anuzRABiraPenABiradBistIrTena#} — {#sarvadAcAmet#} 
-<ls>M. 2, 61.</ls> Uneig. {%einschlürfen%} so v. a. {%rasch verschwinden machen%}: {#AkASavAyuH - AcAmati svedajalAnmuKe te#} 
-<ls>RAGH. 13, 20. 9, 68.</ls> {#te hayAH - dArukeRa pracoditAH . panTAnamAcemuriva grasamAnA ivAmbaram#} 
-<ls>MBH. 5, 2978.</ls> — caus. {%Wasser schlürfen lassen%}: {#tfptAnAcAmayet#} 
-<ls>M. 3, 251. 5, 142.</ls> 
+{#cam#}¦, {#ca/mati#} {%schlürfen%}
+<ls>DHĀTUP. 13,26.</ls>
+<ls>VOP. 8,65</ls>; {#acamIt#}
+<ls n="VOP. 8,">66</ls>; {#acami#} impers.
+<ls n="VOP.">24,6.</ls> {#camasaH kasmAccamantyasmin#}
+<ls>NIR. 10,12.</ls> {#cacAma maDumADvIkam#}
+<ls>BHAṬṬ. 14,94.</ls> Fälschlich in Verb. mit festen Speisen (indem {#adana#} im
+<ls>DHĀTUP.</ls> in seiner weiten Bed. gefasst wird): {#mAMsaM cemuH#} ebend.
+<ls n="BHAṬṬ. 14,">53.</ls> — {#camno/ti#} ved.
+<ls>DHĀTUP. 27,27.</ls> — caus. {#cAmayati#}
+<ls n="DHĀTUP.">19,69.</ls> <ls>VOP. 18,22.</ls>
+<div n="p">— {#A#}, {#AcAmati#}
+<ls>P. 7,3,75</ls> nebst <is>Vārtt</is>.
+<ls>VOP. 8,66</ls>; {#AcAmi#} impers.
+<ls n="VOP.">11,7.</ls> <ls n="VOP.">24,6.</ls> {%einschlürfen%}: {#apaH#}
+<ls>ŚAT. BR. 1,7,4,17.</ls> <ls n="ŚAT. BR.">14,1,1,29.</ls>
+<ls>M. 2,60.</ls> <ls n="M.">5,139.</ls> Mit Ergänzung von {#apaH#}
+<ls>ŚAT. BR. 14,9,2,15. 3,13.</ls>
+<ls>TBR. 2,1,4,7.</ls>
+<ls>ŚĀṄKH. ŚR. 2,7,18.</ls>
+<ls>CHĀND. UP. 2,12,2. 5,2,7. 6,13,2.</ls>
+<ls>M. 5,144.</ls> <ls n="M. 5,">145.</ls>
+<ls>PRAB. 69,12. 14.</ls> {#Acamya#}
+<ls>M. 2,51.</ls> <ls n="M. 2,">222.</ls> <ls n="M.">3,217.</ls> <ls n="M. 3,">264.</ls> <ls n="M.">5,86.</ls> <ls n="M. 5,">87.</ls>
+<ls>R. 2,52,73.</ls>
+<ls>BHĀG. P. 6,8,4.</ls> {#AcAntaH#} (mit act. Bed.) {#punarAcAmet#}
+<ls>GOBH. 1,2,37.</ls>
+<ls>ĀŚV. GṚHY. 4,7.</ls>
+<ls>M. 2,70.</ls> <ls n="M.">3,251.</ls> <ls n="M.">5,138.</ls> <ls n="M. 5,">143.</ls>
+<ls>YĀJÑ. 1,196.</ls> {#AcAntodaka#}
+<ls>GOBH. 1,1,2. 3,8,17.</ls> {%den Mund ausspülen mit%} (instr.): {#anuzRABiraPenABiradBistIrTena#} — {#sarvadAcAmet#}
+<ls>M. 2,61.</ls> Uneig. {%einschlürfen%} so v. a. {%rasch verschwinden machen%}: {#AkASavAyuH — AcAmati svedajalAnmuKe te#}
+<ls>RAGH. 13,20.</ls> <ls n="RAGH.">9,68.</ls> {#te hayAH — dArukeRa pracoditAH . panTAnamAcemuriva grasamAnA ivAmbaram#}
+<ls>MBH. 5,2978.</ls> — caus. {%Wasser schlürfen lassen%}: {#tfptAnAcAmayet#}
+<ls>M. 3,251.</ls> <ls n="M.">5,142.</ls>
 <div n="v">— Vgl. {#Acamana#} fgg., {#AcAma#} fgg.
-
-<div n="p">— {#anvA#} {%nach Jemand den Mund ausspülen%}: {#AcamanIyenAnvAcAmati#} 
-<ls>ĀŚV. GṚHY. 1, 24.</ls>
-
-<div n="p">— {#paryA#}, partic. {#paryAcAnta#} in Verb. mit {#anna#} {%Speise, nach der sich Jmd schon den Mund gespült hat%}, 
-<ls>M. 4, 212.</ls>
-
-<div n="p">— {#samA#} {%Wasser schlürfen%}: {#sve sve tIrTe samAcamya#} 
-<ls>MBH. 13, 5063.</ls>
-
-<div n="p">— {#vi#}, {#vicamati#} 
-<ls>VOP. 8, 66.</ls>
+<div n="p">— {#anvA#} {%nach Jemand den Mund ausspülen%}: {#AcamanIyenAnvAcAmati#}
+<ls>ĀŚV. GṚHY. 1,24.</ls>
+<div n="p">— {#paryA#}, partic. {#paryAcAnta#} in Verb. mit {#anna#} {%Speise, nach der sich Jmd schon den Mund gespült hat%},
+<ls>M. 4,212.</ls>
+<div n="p">— {#samA#} {%Wasser schlürfen%}: {#sve sve tIrTe samAcamya#}
+<ls>MBH. 13,5063.</ls>
+<div n="p">— {#vi#}, {#vicamati#}
+<ls>VOP. 8,66.</ls>
 <LEND>

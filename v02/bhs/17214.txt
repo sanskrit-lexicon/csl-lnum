@@ -1,9 +1,3 @@
 <L>17214<pc>604,1<k1>susvasti<k2>susvasti
-{@susvasti@}¦, indecl. (false Sktization for Pali suvatthi =
-<div n="lb">svasti; Senart i n. 590), {%weal%}: etena satyena °ti bhotu
-<div n="lb">Mv i.291.3 (vs), repeated 8, 14, etc.; same vs in Pali KhP.
-<div n="lb">vi.3 etena saccena suvatthi hotu. Meter requires short
-<div n="lb">first syllable, as in Pali; su-svasti perh. only a textual
-<div n="lb">corruption, due to a copyist who tried to make a ‘correct’
-<div n="lb">Skt. form out of the MIndic one.
+{@susvasti@}¦, <lex>indecl.</lex> (false <ab>Sktization</ab> for <lang>Pali</lang> suvatthi = svasti; <ls>Senart</ls> 〔i n. 590〕), {%weal%}: etena satyena °ti bhotu <ls>Mv</ls> 〔i.291.3〕 (<ab>vs</ab>), repeated 8, 14, <ab>etc.</ab>; same <ab>vs</ab> in <lang>Pali</lang> <ls>KhP.</ls> 〔vi.3〕 etena saccena suvatthi hotu. Meter requires short first syllable, as in <lang>Pali</lang>; su-svasti <ab>perh.</ab> only a textual corruption, due to a copyist who tried to make a ‘correct’ <lang>Skt.</lang> form out of the <lang>MIndic</lang> one.
 <LEND>

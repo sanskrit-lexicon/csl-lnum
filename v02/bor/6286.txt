@@ -1,22 +1,22 @@
 <L>6286<pc>201<k1>discharge<k2>discharge
-<div n="lb"/>{@DISCHARGE@}¦ (v.): <div n="I">I Of burdens: </div><div n="1">(1) {#avatAra-#}
-<div n="lb"/>{#yati#} (c. of {#tF#}); </div><div n="1">(2) {#avaropayati#} (c. of {#ruh#}). [Page202]</div>
-<div n="lb"/><div n="I">II Of rivers: to enter the sea: </div><div n="1">(1) {#viSati, #}
-<div n="lb"/>{# pra-,#} ({#viS,#} c. 6.); </div><div n="1">(2) {#yAti#} ({#yA,#} c. 2.) (to
-<div n="lb"/>go). </div><div n="I">III To utter, give vent to, emit:
-<div n="lb"/>q. v.: {#udgirati#} ({#gF,#} c. 6.), Ki.; {%to d. rage:%}
-<div n="lb"/>{#krUDaM visfjati,#} Si. </div><div n="I">IV To let fly: </div><div n="1">(1) {#muYcati#} {%or%}
-<div n="lb"/>{#mocayati, nir-, vi-, pra-,#} ({#muc,#} c. 6. and 10.), <div n="xe">{%d.%}
-<div n="lb"/>{%ed a shower of arrows:%}</div> <div n="xs">{#SaravarzaM mumoca,#}</div> Ram.;</div>
-<div n="lb"/><div n="1">(2) {#sfjati, vi-,#} ({#sfj,#} c. 6.), <div n="xe">{%to d. fire:%}</div> <div n="xs">{#agniM #}
-<div n="lb"/>{# visfjati,#}</div> Sa.; </div><div n="1">(3) {#asyati#} ({#as,#} c. 4.). </div><div n="I">V To
-<div n="lb"/>dismiss: q. v.: ({#karmaRaH#} <div n="xe">{%or%}</div> <div n="xs">{#aDikArAt#}</div>) {#apakarzati#}
-<div n="lb"/>({#kfz,#} c. 1.). </div><div n="I">VI To pay: </div><div n="1">(1) {#SoDayati, vi-,#}
-<div n="lb"/><div n="xe">{%to d. a debt:%}</div> <div n="xs">{#fRaM SoDayati,#}</div> Vri.; </div><div n="1">(2) {#niryAtayati#}
-<div n="lb"/>(c. of {#yat#}), <div n="xe">{%for d. ing a debt:%}</div> <div n="xs">{#fRaniryAtanAya,#}</div>
-<div n="lb"/>Viv.; </div><div n="1">(3) {#tarati, A-, ut-,#} ({#tF,#} c. 1.), N. s.</div>
-<div n="lb"/><div n="I">VII To perform: q. v.: {#nirvAhayati#} (c. of
-<div n="lb"/>{#vah#}). Ph.: <div n="xe">{%you also d. your duty:%}</div> <div n="xs">{#tvamapi svaniyoga-#}
-<div n="lb"/>{#maSUnyaM kuru,#}</div> Sa. ii. </div><div n="I">VIII Of prisoners: {#muYcati.#}</div>
-<div n="lb"/><div n="I">IX Of pus: {#pUyate#} ({#pUy,#} c. 1.).</div>
+{@DISCHARGE@}¦ (v.): <div n="I">I Of burdens: </div><div n="1">(1) {#avatAra-#}
+{#yati#} (c. of {#tF#}); </div><div n="1">(2) {#avaropayati#} (c. of {#ruh#}). [Page202]</div>
+<div n="I">II Of rivers: to enter the sea: </div><div n="1">(1) {#viSati, #}
+{# pra-,#} ({#viS,#} c. 6.); </div><div n="1">(2) {#yAti#} ({#yA,#} c. 2.) (to
+go). </div><div n="I">III To utter, give vent to, emit:
+q. v.: {#udgirati#} ({#gF,#} c. 6.), Ki.; {%to d. rage:%}
+{#krUDaM visfjati,#} Si. </div><div n="I">IV To let fly: </div><div n="1">(1) {#muYcati#} {%or%}
+{#mocayati, nir-, vi-, pra-,#} ({#muc,#} c. 6. and 10.), <div n="xe">{%d.%}
+{%ed a shower of arrows:%}</div> <div n="xs">{#SaravarzaM mumoca,#}</div> Ram.;</div>
+<div n="1">(2) {#sfjati, vi-,#} ({#sfj,#} c. 6.), <div n="xe">{%to d. fire:%}</div> <div n="xs">{#agniM #}
+{# visfjati,#}</div> Sa.; </div><div n="1">(3) {#asyati#} ({#as,#} c. 4.). </div><div n="I">V To
+dismiss: q. v.: ({#karmaRaH#} <div n="xe">{%or%}</div> <div n="xs">{#aDikArAt#}</div>) {#apakarzati#}
+({#kfz,#} c. 1.). </div><div n="I">VI To pay: </div><div n="1">(1) {#SoDayati, vi-,#}
+<div n="xe">{%to d. a debt:%}</div> <div n="xs">{#fRaM SoDayati,#}</div> Vri.; </div><div n="1">(2) {#niryAtayati#}
+(c. of {#yat#}), <div n="xe">{%for d. ing a debt:%}</div> <div n="xs">{#fRaniryAtanAya,#}</div>
+Viv.; </div><div n="1">(3) {#tarati, A-, ut-,#} ({#tF,#} c. 1.), N. s.</div>
+<div n="I">VII To perform: q. v.: {#nirvAhayati#} (c. of
+{#vah#}). Ph.: <div n="xe">{%you also d. your duty:%}</div> <div n="xs">{#tvamapi svaniyoga-#}
+{#maSUnyaM kuru,#}</div> Sa. ii. </div><div n="I">VIII Of prisoners: {#muYcati.#}</div>
+<div n="I">IX Of pus: {#pUyate#} ({#pUy,#} c. 1.).</div>
 <LEND>

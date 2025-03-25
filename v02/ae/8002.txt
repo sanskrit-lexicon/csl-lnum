@@ -1,7 +1,7 @@
 <L>8002<pc>345<k1>planet<k2>planet
 {@Planet,@}¦ {%s.%} {#grahaH, jyotis#} {%n.;%} ‘minor p.’
-<div n="lb"/>{#upagrahaH;#} ‘passage of a p.’ {#saMkramaH,#}
-<div n="lb"/>{#saMkrAMti#} {%f.;%} ‘aspect of a p.’ {#grahadaSA;#}
-<div n="lb"/>‘influence of a p.’ {#grahAveSaH#}. {@-ary,@} {%a.%}
-<div n="lb"/>{#graha#} in comp.
+{#upagrahaH;#} ‘passage of a p.’ {#saMkramaH,#}
+{#saMkrAMti#} {%f.;%} ‘aspect of a p.’ {#grahadaSA;#}
+‘influence of a p.’ {#grahAveSaH#}. {@-ary,@} {%a.%}
+{#graha#} in comp.
 <LEND>

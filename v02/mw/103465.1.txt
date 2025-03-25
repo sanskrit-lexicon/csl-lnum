@@ -1,3 +1,3 @@
-<L>103465.1<pc>526,3<k1>nandagopakulodBavA<k2>na/nda—gopa—kulodBavA<e>4
-<s>na/nda—gopa—kulo<srs/>dBavA</s> ¦ <lex>f.</lex>, ‘descended from <ab n="Nanda's" slp1="nanda">N°</ab>'s <ab n="family">f°</ab>’, <s1 slp1="durgA">Durgā</s1>, <ls>MBh.</ls><info phwparent="103465,nandagopakula"/><info lex="f"/>
+<L>103465.1<pc>526,3<k1>nandagopakulodBavA<k2>nanda—gopa—kulodBavA<e>4
+<s>nanda—gopa—kulo<srs/>dBavA</s> ¦ <lex>f.</lex>, ‘descended from <s1 n="Nanda's">N°</s1>'s <ab n="family">f°</ab>’, <s1>Durgā</s1>, <ls>MBh.</ls><info phwparent="103465,nandagopakula"/><info lex="f"/>
 <LEND>

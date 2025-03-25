@@ -1,55 +1,55 @@
 <L>1936<pc>1-0146<k1>aDikAra<k2>aDikAra
-{#aDikAra#}¦ (von {#kar#} mit {#aDi#}) <lex>m.</lex> 
-<div n="1"> 1) {%Oberaufsicht, Verwaltung, Amt%}: {#strIzu#} ({%über die Frauen des Königs%}) {#kazwo 'DikAraH#} 
-<ls>VIKR. 42.</ls> {#yaH pOraveRa DarmADikAre#} ({%Rechtsverwaltung%}) {#niyuktaH#} 
-<ls>ŚĀK. 13, 23.</ls> {#arTADikAra#} {%die Verwaltung der Gelder%} 
-<ls>HIT. 61, 7.</ls> {#dvIpinastAmbUlADikAraH#} 
-<ls>PAÑCAT. 63, 23.</ls> {#aviSrAnto 'yaM lokatantrADikAraH#} 
-<ls>ŚĀK. 60, 19.</ls> {#yaH sarvADikAre niyuktaH praDAnamantrI sa karotu . yato 'nujIvinA parADikAracarcA na kartavyA#} 
-<ls>HIT. 49, 18. 19.</ls> {#tulyodyogastava ca savituScADikAro mato naH#} 
-<ls>VIKR. 20.</ls> {#tasmAdbrAhmaRasyEvADikAro na tu kzatriyasya#} 
-<ls>ITIH.</ls> bei <ls>ROSEN</ls> zu <ls>ṚV. 1, 18.</ls> {#brAhmaRaH kzatriyo banDurnADikAre praSasyate#} 
-<ls>HIT. II, 92.</ls> 
-<div n="1">— 2) {%die Würde, die Stellung, die man im Leben einnimmt%}: {#hftADikArAM malinAm - vAsayedvyaBicAriRIm#} 
-<ls>YĀJÑ. 1, 70.</ls> {#BrazwADikAra#} <lex>adj.</lex> 
-<ls>PAÑCAT. 9, 19.</ls> {#dantilam - svADikAre niyojayAmAsa#} 
-<ls>30, 13.</ls> {#svADikArapramatto yakzaH#} 
-<ls>MEGH. 1.</ls> 
-<div n="1">— 3) {%die oberste Würde im Staate, das Herrscheramt%}: {#kzaRAdAyuzmAnsvADikAraBUmO vartizyate#} 
-<ls>ŚĀK. 99, 6.</ls> {#aDikAraKedaM nirUpya#} 
-<ls>61, 17.</ls> {#aDikAreRa saMpadaH#} {%die Güter, die von oben kommen%}, 
-<ls>PAÑCAT. I, 312.</ls> {#brahmizWamADAya nije 'DikAre#} 
-<ls>RAGH. 18, 27.</ls> 
-<div n="1">— 4) {%Berechtigung, Betheiligung, Ansprüche, Befähigung%}: {#aTAto 'DikAraH#} ({%Opferbefähigung%}, 
-<ls>Sch.</ls> : {#svAmyaM PalaBoktftayA karmaRi ESvaryam#}) 
-<ls>KĀTY. ŚR. 1, 1, 1.</ls> {#yAvatsvamaDikArAt#} 
-(<ls>Sch.</ls>: {#tAsAM dohane 'DikAro 'sti yat#}) 
-<ls>4, 2, 28.</ls> {#aDikAraviDi#} {%liturgische Bestimmung über die durch ein Opfer zu erlangenden Ansprüche%} 
-<ls>MADHUSŪDANA</ls> in <ls>Ind. St. I, 14, 18.</ls> {#aDikAraviSeza#} {%specielle Bestimmungen darüber und über die Qualification zum Opfer%} ders. ebend. 
-<ls>I, 19, 7.</ls> {#SUdro 'DikArahIno 'pi#} 
-<ls>YĀJÑ. 3, 262.</ls> mit dem loc.: {#tasya SAstre 'DikAro 'smin jYeyo nAnyasya kasyacit#} 
-<ls>M. 2. 16.</ls> {#nAsyADikAro Darme 'sti na DarmAtpratizeDanam#} 
-<ls>10, 126.</ls> {#putrasya mAtfDane #}
+{#aDikAra#}¦ (von {#kar#} mit {#aDi#}) <lex>m.</lex>
+<div n="1"> 1) {%Oberaufsicht, Verwaltung, Amt%}: {#strIzu#} ({%über die Frauen des Königs%}) {#kazwo 'DikAraH#}
+<ls>VIKR. 42.</ls> {#yaH pOraveRa DarmADikAre#} ({%Rechtsverwaltung%}) {#niyuktaH#}
+<ls>ŚĀK. 13,23.</ls> {#arTADikAra#} {%die Verwaltung der Gelder%}
+<ls>HIT. 61,7.</ls> {#dvIpinastAmbUlADikAraH#}
+<ls>PAÑCAT. 63,23.</ls> {#aviSrAnto 'yaM lokatantrADikAraH#}
+<ls>ŚĀK. 60,19.</ls> {#yaH sarvADikAre niyuktaH praDAnamantrI sa karotu . yato 'nujIvinA parADikAracarcA na kartavyA#}
+<ls>HIT. 49,18. 19.</ls> {#tulyodyogastava ca savituScADikAro mato naH#}
+<ls>VIKR. 20.</ls> {#tasmAdbrAhmaRasyEvADikAro na tu kzatriyasya#}
+<ls>ITIH.</ls> bei <ls>ROSEN</ls> zu <ls>ṚV. 1,18.</ls> {#brAhmaRaH kzatriyo banDurnADikAre praSasyate#}
+<ls>HIT. II,92.</ls>
+<div n="1">— 2) {%die Würde, die Stellung, die man im Leben einnimmt%}: {#hftADikArAM malinAm — vAsayedvyaBicAriRIm#}
+<ls>YĀJÑ. 1,70.</ls> {#BrazwADikAra#} <lex>adj.</lex>
+<ls>PAÑCAT. 9,19.</ls> {#dantilam — svADikAre niyojayAmAsa#}
+<ls n="PAÑCAT.">30,13.</ls> {#svADikArapramatto yakzaH#}
+<ls>MEGH. 1.</ls>
+<div n="1">— 3) {%die oberste Würde im Staate, das Herrscheramt%}: {#kzaRAdAyuzmAnsvADikAraBUmO vartizyate#}
+<ls>ŚĀK. 99,6.</ls> {#aDikAraKedaM nirUpya#}
+<ls n="ŚĀK.">61,17.</ls> {#aDikAreRa saMpadaH#} {%die Güter, die von oben kommen%},
+<ls>PAÑCAT. I,312.</ls> {#brahmizWamADAya nije 'DikAre#}
+<ls>RAGH. 18,27.</ls>
+<div n="1">— 4) {%Berechtigung, Betheiligung, Ansprüche, Befähigung%}: {#aTAto 'DikAraH#} ({%Opferbefähigung%},
+<ls>Sch.</ls> : {#svAmyaM PalaBoktftayA karmaRi ESvaryam#})
+<ls>KĀTY. ŚR. 1,1,1.</ls> {#yAvatsvamaDikArAt#}
+(<ls>Sch.</ls>: {#tAsAM dohane 'DikAro 'sti yat#})
+<ls n="KĀTY. ŚR.">4,2,28.</ls> {#aDikAraviDi#} {%liturgische Bestimmung über die durch ein Opfer zu erlangenden Ansprüche%}
+<ls>MADHUSŪDANA</ls> in <ls>Ind. St. I,14,18.</ls> {#aDikAraviSeza#} {%specielle Bestimmungen darüber und über die Qualification zum Opfer%} ders. ebend.
+<ls n="Ind. St.">I,19,7.</ls> {#SUdro 'DikArahIno 'pi#}
+<ls>YĀJÑ. 3,262.</ls> mit dem loc.: {#tasya SAstre 'DikAro 'smin jYeyo nAnyasya kasyacit#}
+<ls>M. 2,16.</ls> {#nAsyADikAro Darme 'sti na DarmAtpratizeDanam#}
+<ls n="M.">10,126.</ls> {#putrasya mAtfDane #}
 [Page1-0147]
-{# 'DikAraH#} 
-<ls>ŚAṄKHA</ls> und <ls>LIKHITA</ls> in <ls>DĀY. 127, 9.</ls> {#anyatra punaranaDikAramAha#} 
-<ls>DĀY. 125, 9.</ls> 
-<div n="1">— 5) = {#prakriyA#} {%die Prärogativen des Königs%} 
-<ls>AK. 2, 8, 1, 31.</ls> 
-<ls>H. 744.</ls> 
-<div n="1">— 6) {%das Trachten, Bestreben%}, mit dem loc.: {#karmaRyevADikAraste mA Palezu kadA ca na - astu#} 
-<ls>BHAG. 2, 47.</ls> 
-<div n="1">— 7) {%Bezug, Beziehung%}: {#te tatra SUrAH kaTayAMbaBUvuH kaTA vicitrA pftanADikArAH#} 
-<ls>MBH. 1, 7166.</ls> 
-<div n="1">— 8) {%ein Abschnitt in einem Lehrbuch, der der Besprechung eines bestimmten Gegenstandes gewidmet ist%}: {#DAtvaDikAra#} {%das Kapitel von den Verbalwurzeln%} 
-<ls>P. 1, 2, 4,</ls> 
-<ls>Sch.</ls> So heisst bei den indischen Grammatikern auch {%der an die Spitze eines neuen Abschnittes gesetzte Gegenstand%}, über den von nun an gehandelt werden soll und der in allen folgenden Regeln bis zu einem neuen Abschnitt in derselben grammatischen Form, in der er am Anfange aufgeführt wird, zu ergänzen ist, 
-<ls>P. 1, 3, 11.</ls> Solche <is>Adhikāra's</is> sind z. B. {#DAtoH#} 
-<ls>3, 1, 91.</ls> {#AdirudAttaH#} 
-<ls>6, 2, 64.</ls> {#AderataH#} 
-<ls>VARARUCI, 1, 1</ls> (mit {#aDikAro 'yam#} beginnen die Scholien). {#ayuktasyAnAdO#} 
-<ls>2, 1.</ls> {#yuktasya#} 
-<ls>3, 9</ls> ({#aDikAro 'yam#} gehört auch hier zu den Scholien). Im 
-<ls>ŚKDR.</ls> u. {#anuvftti#} wird {#aDikAra#} geradezu als Synonym von jenem aufgeführt. 
+{#'DikAraH#}
+<ls>ŚAṄKHA</ls> und <ls>LIKHITA</ls> in <ls>DĀY. 127,9.</ls> {#anyatra punaranaDikAramAha#}
+<ls>DĀY. 125,9.</ls>
+<div n="1">— 5) = {#prakriyA#} {%die Prärogativen des Königs%}
+<ls>AK. 2,8,1,31.</ls>
+<ls>H. 744.</ls>
+<div n="1">— 6) {%das Trachten, Bestreben%}, mit dem loc.: {#karmaRyevADikAraste mA Palezu kadA ca na — astu#}
+<ls>BHAG. 2,47.</ls>
+<div n="1">— 7) {%Bezug, Beziehung%}: {#te tatra SUrAH kaTayAMbaBUvuH kaTA vicitrA pftanADikArAH#}
+<ls>MBH. 1,7166.</ls>
+<div n="1">— 8) {%ein Abschnitt in einem Lehrbuch, der der Besprechung eines bestimmten Gegenstandes gewidmet ist%}: {#DAtvaDikAra#} {%das Kapitel von den Verbalwurzeln%}
+<ls>P. 1,2,4</ls>, <ls>Sch.</ls>
+So heisst bei den indischen Grammatikern auch {%der an die Spitze eines neuen Abschnittes gesetzte Gegenstand%}, über den von nun an gehandelt werden soll und der in allen folgenden Regeln bis zu einem neuen Abschnitt in derselben grammatischen Form, in der er am Anfange aufgeführt wird, zu ergänzen ist,
+<ls>P. 1,3,11.</ls> Solche <is>Adhikāra's</is> sind z. B. {#DAtoH#}
+<ls n="P.">3,1,91.</ls> {#AdirudAttaH#}
+<ls n="P.">6,2,64.</ls> {#AderataH#}
+<ls>VARARUCI,1,1</ls> (mit {#aDikAro 'yam#} beginnen die Scholien). {#ayuktasyAnAdO#}
+<ls n="VARARUCI">2,1.</ls> {#yuktasya#}
+<ls n="VARARUCI">3,9</ls> ({#aDikAro 'yam#} gehört auch hier zu den Scholien). Im
+<ls>ŚKDR.</ls> u. {#anuvftti#} wird {#aDikAra#} geradezu als Synonym von jenem aufgeführt.
 <div n="v">— Vgl. {#aDikaraRa#} und {#aDIkAra#} .
 <LEND>

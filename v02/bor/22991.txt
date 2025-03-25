@@ -1,14 +1,14 @@
 <L>22991<pc>724<k1>turn<k2>turn
-<div n="lb"/>{@TURN@}¦ (subs.): <div n="I">I Revolution: q. v.: {#AvartaH, #}
-<div n="lb"/>{# -nam#} <div n="xe">{%or%}</div> <div n="xs">{#AvfttiH.#}</div> </div><div n="I">II Bend, curve: {#vaNkaH.#} </div><div n="I">III
-<div n="lb"/>Change, vicissitude: q. v.: {#parivfttiH.#} </div><div n="I">IV
-<div n="lb"/>Alternation: {#paryAyaH,#} <div n="xe">{%by t. s, in t.:%}</div> <div n="xs">{#paryAyeRa#}</div> {%or%}
-<div n="lb"/>{#paryAya-#} in comp., Ki. xvii. 18. </div><div n="I">V Successive
-<div n="lb"/>course: {#vAraH,#} <div n="xe">{%one day a hare's t. came:%}</div> <div n="xs">{#aTa #}
-<div n="lb"/>{# kadAcicCaSakasya vAraH samAyAtaH,#}</div> H. </div><div n="I">VI Of mind:
-<div n="lb"/>{#gatiH:#} v. Also inclination. </div><div n="I">VII Of ex-
-<div n="lb"/>-pression: {#BaNgiH(NgI):#} v. Also form. </div><div n="I">VIII
-<div n="lb"/>Of requital: <div n="xe">{%good t.:%}</div> <div n="xs">{#upakAraH;#}</div> <div n="xe">{%ill t.:%}</div> <div n="xs">{#apakAraH.#}</div></div>
-<div n="lb"/><div n="I">IX A short walk: {#parikramaH.#} </div><div n="I">X Course: q. v.:
-<div n="lb"/>{#gatiH.#} </div><div n="I">XI Occasion, opportunity: {#avasaraH.#}</div>
+{@TURN@}¦ (subs.): <div n="I">I Revolution: q. v.: {#AvartaH, #}
+{# -nam#} <div n="xe">{%or%}</div> <div n="xs">{#AvfttiH.#}</div> </div><div n="I">II Bend, curve: {#vaNkaH.#} </div><div n="I">III
+Change, vicissitude: q. v.: {#parivfttiH.#} </div><div n="I">IV
+Alternation: {#paryAyaH,#} <div n="xe">{%by t. s, in t.:%}</div> <div n="xs">{#paryAyeRa#}</div> {%or%}
+{#paryAya-#} in comp., Ki. xvii. 18. </div><div n="I">V Successive
+course: {#vAraH,#} <div n="xe">{%one day a hare's t. came:%}</div> <div n="xs">{#aTa #}
+{# kadAcicCaSakasya vAraH samAyAtaH,#}</div> H. </div><div n="I">VI Of mind:
+{#gatiH:#} v. Also inclination. </div><div n="I">VII Of ex-
+-pression: {#BaNgiH(NgI):#} v. Also form. </div><div n="I">VIII
+Of requital: <div n="xe">{%good t.:%}</div> <div n="xs">{#upakAraH;#}</div> <div n="xe">{%ill t.:%}</div> <div n="xs">{#apakAraH.#}</div></div>
+<div n="I">IX A short walk: {#parikramaH.#} </div><div n="I">X Course: q. v.:
+{#gatiH.#} </div><div n="I">XI Occasion, opportunity: {#avasaraH.#}</div>
 <LEND>

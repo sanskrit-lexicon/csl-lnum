@@ -1,3 +1,3 @@
-<L>10051<pc>1118-2<k1>alu<k2>*alu<e>100
-{#*alu#}¦ <lex>f.</lex> = {#Alu#} {%kleiner Wasserkrug.%}
+<L>10051<pc>1-118-b<k1>alu<k2>*alu
+*{#alu#}¦ <lex>f.</lex> = {#Alu#} {%kleiner Wasserkrug%}.
 <LEND>

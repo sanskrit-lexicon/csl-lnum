@@ -1,6 +1,6 @@
 <L>5996<pc>193<k1>destructible<k2>destructible
-<div n="lb"/>{@DESTRUCTIBLE:@}¦ <div n="1">(1) {#naSvaraH#} ({#rI, raM#}), {#vi-,#} <div n="xe">{%in d.%}
-<div n="lb"/>{%wealth:%}</div> <div n="xs">{#naSvaravitte,#}</div> <ls>J.</ls> ; </div><div n="1">(2) {#DvaMsin#} (f. {#nI#}), {#vi-,#}
-<div n="lb"/><div n="xe">{%body is d. in a moment:%}</div> <div n="xs">{#SarIraM kzaRaviDvaMsi,#}</div> H.:
-<div n="lb"/>v. Frail.</div>
+{@DESTRUCTIBLE:@}¦ <div n="1">(1) {#naSvaraH#} ({#rI, raM#}), {#vi-,#} <div n="xe">{%in d.%}
+{%wealth:%}</div> <div n="xs">{#naSvaravitte,#}</div> <ls>J.</ls> ; </div><div n="1">(2) {#DvaMsin#} (f. {#nI#}), {#vi-,#}
+<div n="xe">{%body is d. in a moment:%}</div> <div n="xs">{#SarIraM kzaRaviDvaMsi,#}</div> H.:
+v. Frail.</div>
 <LEND>

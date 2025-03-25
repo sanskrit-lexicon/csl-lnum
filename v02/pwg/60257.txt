@@ -1,38 +1,38 @@
 <L>60257<pc>5-0758<k1>mAsa<k2>mA/sa<h>1
-1. {#mA/sa#}¦ (=  2. {#mAs)#} <lex>m.</lex> <lex>n.</lex> 
-<ls>SIDDH. K.249,b,7.</ls> <ls>TRIK.3,5,11.14.</ls> Zu belegen nur <lex>m.</lex> 
-<div n="1"> 1) {%Mond%}; nur in der Verbindung {#sUryA\mAsA^#} 
-<ls>ṚV. 8, 83, 2.</ls> <ls n="ṚV.">10, 64, 3.</ls> <ls n="ṚV. 10,">68, 10.</ls> <ls n="ṚV. 10,">92, 12.</ls> <ls n="ṚV. 10,">93, 5.</ls> Könnte auch zu 2. {#mAs#} gestellt werden. 
-<div n="1">— 2) {%Monat%} 
-<ls>AK. 1, 1, 3, 12.</ls> 
-<ls>TRIK. 1, 1, 109.</ls> 
-<ls>H. 152.</ls> 
-<ls>HĀR. 28.</ls> 
-<ls>HALĀY. 1, 113.</ls> 
-<ls>ṚV. 3, 31, 9.</ls> <ls n="ṚV. 3,">32, 9.</ls> <ls n="ṚV.">5, 78, 9.</ls> {#varDA\nmAsA^H Sa\rado\ dyAva\ indra^m#} 
-<ls>?6, 38, 4. 7, 61, 4. 66, 11. 10, 89, 13(?).</ls> {#yasmA\nmAsA\ nirmi^tAstri\MSada^rAH#} 
-<ls>AV. 4, 35, 4. 13, 2, 12.</ls> {#tra\yo\da\SaM mAsa\M yo ni\rmimI^te#} 
-<ls>3, 8.</ls> <ls>AIT. BR. 1, 12. 4, 16.</ls> <ls>TS. 1, 6, 5, 2.</ls> <ls>ŚAT. BR. 1, 7, 2, 24. 4, 3, 1, 5.</ls> {#yAni paYcaviMSatsa trayodaSo mAsaH#} 
-<ls>9, 1, 1, 43. 14, 9, 1, 18.</ls> {#°BAj#} 
-<ls>10, 4, 4, 4.</ls> {#°loka#} 
-<ls>3, 19.</ls> {#mAse#} {%nach Ablauf eines Monats%} 
-<ls>KĀTY. ŚR. 4, 10, 7. 13, 2, 3. 16.</ls> 
-<ls>M. 1, 66. 2, 79. 3, 250.</ls> 
-<ls>ARJ. 3, 15.</ls> 
-<ls>MBH. 3, 3030. 10669.</ls> 
-<ls>SUŚR. 1, 19, 6.</ls> 
-<ls>MEGH. 2. 85. 109.</ls> 
-<ls>Spr. 1074.</ls> 
-<ls>SŪRYAS. 1, 12. 13. 35. 2, 68. 12, 5.</ls> 
-<ls>VID. 115. 140.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (II) 54, 11. 56, 10.</ls> <ls>HIT. 35, 8.</ls> {#mAGa°#} 
-<ls>PAÑCAT. 169, 6.</ls> {#°pAka#} <lex>adj.</lex> {%in einem Monate Folgen zeigend%} (von Naturerscheinungen) 
-<ls>VARĀH. BṚH. S. 97, 14.</ls> {#°Pala#} 
-dass. <ls>13.</ls> {#mAsArDa#} 
-<ls>HALĀY. 5, 63.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#IH ekamAsI#} {%in einem Monate vorkommend%} 
-<ls>MBH. 6, 99.</ls> 
-<div n="1">— 3) Bez. {%der Zahl zwölf%} 
-<ls>SŪRYAS. 8, 6.</ls> 
-<ls>Ind. St. 8, 167.</ls> 
+1. {#mA/sa#}¦ (= 2. {#mAs)#} <lex>m.</lex> <lex>n.</lex>
+<ls>SIDDH. K. 249,b,7.</ls> <ls>TRIK. 3,5,11.</ls> <ls n="TRIK. 3,5,">14.</ls> Zu belegen nur <lex>m.</lex>
+<div n="1"> 1) {%Mond%}; nur in der Verbindung {#sUryA\mAsA^#}
+<ls>ṚV. 8,83,2.</ls> <ls n="ṚV.">10,64,3.</ls> <ls n="ṚV. 10,">68,10.</ls> <ls n="ṚV. 10,">92,12.</ls> <ls n="ṚV. 10,">93,5.</ls> Könnte auch zu 2. {#mAs#} gestellt werden.
+<div n="1">— 2) {%Monat%}
+<ls>AK. 1,1,3,12.</ls>
+<ls>TRIK. 1,1,109.</ls>
+<ls>H. 152.</ls>
+<ls>HĀR. 28.</ls>
+<ls>HALĀY. 1,113.</ls>
+<ls>ṚV. 3,31,9.</ls> <ls n="ṚV. 3,">32,9.</ls> <ls n="ṚV.">5,78,9.</ls> {#varDA\nmAsA^H Sa\rado\ dyAva\ indra^m#}
+<ls n="ṚV.">6,38,4.</ls> <ls n="ṚV.">7,61,4.</ls> <ls n="ṚV. 7,">66,11.</ls> <ls n="ṚV.">10,89,13.</ls> (?) {#yasmA\nmAsA\ nirmi^tAstri\MSada^rAH#}
+<ls>AV. 4,35,4.</ls> <ls n="AV.">13,2,12.</ls> {#tra\yo\da\SaM mAsa\M yo ni\rmimI^te#}
+<ls n="AV. 4,">3,8.</ls> <ls>AIT. BR. 1,12.</ls> <ls n="AIT. BR.">4,16.</ls> <ls>TS. 1,6,5,2.</ls> <ls>ŚAT. BR. 1,7,2,24.</ls> <ls n="ŚAT. BR.">4,3,1,5.</ls> {#yAni paYcaviMSatsa trayodaSo mAsaH#}
+<ls n="ŚAT. BR.">9,1,1,43. 14,9,1,18.</ls> {#°BAj#}
+<ls n="ŚAT. BR.">10,4,4,4.</ls> {#°loka#}
+<ls n="ŚAT. BR.">3,19.</ls> {#mAse#} {%nach Ablauf eines Monats%}
+<ls>KĀTY. ŚR. 4,10,7. 13,2,3. 16.</ls>
+<ls>M. 1,66.</ls> <ls n="M.">2,79.</ls> <ls n="M.">3,250.</ls>
+<ls>ARJ. 3,15.</ls>
+<ls>MBH. 3,3030.</ls> <ls n="MBH. 3,">10669.</ls>
+<ls>SUŚR. 1,19,6.</ls>
+<ls>MEGH. 2. 85. 109.</ls>
+<ls>Spr. 1074.</ls>
+<ls>SŪRYAS. 1,12. 13. 35. 2,68. 12,5.</ls>
+<ls>VID. 115. 140.</ls>
+<ls>BRAHMA-P. in LA. (II) 54,11. 56,10.</ls> <ls>HIT. 35,8.</ls> {#mAGa°#}
+<ls>PAÑCAT. 169,6.</ls> {#°pAka#} <lex>adj.</lex> {%in einem Monate Folgen zeigend%} (von Naturerscheinungen)
+<ls>VARĀH. BṚH. S. 97,14.</ls> {#°Pala#}
+dass. <ls n="VARĀH. BṚH. S. 97,">13.</ls> {#mAsArDa#}
+<ls>HALĀY. 5,63.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#IH ekamAsI#} {%in einem Monate vorkommend%}
+<ls>MBH. 6,99.</ls>
+<div n="1">— 3) Bez. {%der Zahl zwölf%}
+<ls>SŪRYAS. 8,6.</ls>
+<ls>Ind. St. 8,167.</ls>
 <div n="v">— Vgl. {#arDa°, garBa°, puzpa°, pUrRa°, pratimAsam, malamAsa#} .
 <LEND>

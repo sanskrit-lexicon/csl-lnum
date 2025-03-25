@@ -1,5 +1,5 @@
 <L>15954<pc>491<k1>oratory<k2>oratory
-<div n="lb"/>{@ORATORY:@}¦ <div n="I">I The art: </div><div n="1">(1) {#vAgmitA#} (?); </div><div n="1">(2)
-<div n="lb"/>{#vAkpAwavam#} (?). </div><div n="I">II A place of prayer:
-<div n="lb"/>{#*BajanAlayam.#}</div>
+{@ORATORY:@}¦ <div n="I">I The art: </div><div n="1">(1) {#vAgmitA#} (?); </div><div n="1">(2)
+{#vAkpAwavam#} (?). </div><div n="I">II A place of prayer:
+{#*BajanAlayam.#}</div>
 <LEND>

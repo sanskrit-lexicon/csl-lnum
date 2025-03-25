@@ -1,44 +1,44 @@
 <L>4828<pc>199<k1>head<k2>head
 {@Head,@}¦ {%s.%} {#Siras#} {%n.,%} {#SIrzaM, SIrzakaM, mUrDan#} {%m.,%}
-<div n="lb"/>{#mastakaH-kaM, mOli#} {%m. f.,%} {#varAMgaM, uttamAMgaM,#}
-<div n="lb"/>{#muMqaH-qaM#}. {@2@} {#agraRIH, aDyakzaH, DOreyaH, DuryaH,#}
-<div n="lb"/>{#DUrvahaH, DurIRaH, purogaH, patiH, nAyakaH, a-#}
-<div n="lb"/>{#-DipaH-patiH, muKaraH, SrezWaH, aDizWAtf#} {%m.,%} {#muKya-#}
-<div n="lb"/>{#-praDAna#} in comp. {@3@} {#vizayaH, padaM, sTAnaM, aDi-#}
-<div n="lb"/>{#-karaRaM#}. {@4@} {#agraM, Siras, cUqA, SiKaraM#}. {@5@} {#mUlaM,#}
-<div n="lb"/>{#praBavaH, udgamaH, udBavaH, AdihetuH#}. {@6@} {#mati#} {%f.,%}
-<div n="lb"/>{#budDi#} {%f.,%} {#DIH;#} ‘to be placed at the h.
-<div n="lb"/>of’ {#Duri kIrtanIya-#} or {#pratizWApayitavya#} {%-a.;%} ‘h.
-<div n="lb"/>merchant’ {#SrezWin#} {%m.,%} {#viwpatiH;#} ‘the h.
-<div n="lb"/>of a family’ {#kulapatiH, kuwuMbaBAravAhakaH;#}
-<div n="lb"/>‘at the h.’ ex. by {#Adi-pramuKa#} in comp.
-<div n="lb"/>or {#Duri-mUrDni-sTA,#} &c.; ‘with Indra at
-<div n="lb"/>their h.’ {#iMdrAdayaH- iMdrapramuKAH#} ({#devAH#});
-<div n="lb"/>‘he stands at the b, of all’ {#sa sarvezAM#}
-<div n="lb"/>{#Duri mUrDni-tizWati;#} ‘h. over ears in debt’
-<div n="lb"/>{#fRarASO nimagna#} or {#fRagrasta;#} ‘to get a-h.
-<div n="lb"/>of’ {#atikram#} 1 U. 4 P, {#atiric#} pass.,
-<div n="lb"/>{#aBiBU;#} ‘make h. against’ {#pratyavasTA#}
-<div n="lb"/>1 A, {#viruD#} 7 U, {#pratikUlayati#} (D.). {%-v. t.%}
-<div n="lb"/>{#nI#} 1 P, {#aDizWA#} 1 P, {#agre-mUrDni-puraH-gam#}
-<div n="lb"/>or {#sTA#} 1 P; ‘h. ed by Vasish{%t%}ha’ {#vaSi-#}
-<div n="lb"/>{#-zWADizWitAH;#} gen. ex. by {#pramuKa-puroga-purassara-#}
-<div n="lb"/>in comp.; ‘h. -ache’ {#SirovedanA, SIrza-#}
-<div n="lb"/>{#-vyaTA-pIqA, SiraH-SUlaM-rogaH;#} {%See%} {@Ache;@}
-<div n="lb"/>‘h. -band’ {#SirovezwanaM-baMDanaM, lalAwapawwaH;#}
-<div n="lb"/>‘h. -dress’ {#SiroBUzaRaM, kirIwaH-waM, mukuwaM;#}
-<div n="lb"/>‘h. -land’ {#aMtarIpaH-paM, BUSiraH, BUnAsikA;#}
-<div n="lb"/>‘h. -long or h. foremost’ {#avAkSiras,#}
-<div n="lb"/>{#aDomuKa-avANmuKa#} ({#KI#} {%f.%}), {#avAc, sA-#}
-<div n="lb"/>{#-hasika, saraBasa, sAhasin, kzipra-avimfSya-#}
-<div n="lb"/>{#-kArin-kft; pravaRa, pAtuka, patayAlu;#} ({%adv.%})
-<div n="lb"/>{#avAk, aDomuKena, sottApaM, savegaM;#} ‘h. -most’
-<div n="lb"/>{#agrya, prAgrya pramuKa, muKya, vara, vareRya, uttama,#}
-<div n="lb"/>{#praDAna,#} in comp.; ‘h. -piece’ {#SirastraM, SirastrARaM,#}
-<div n="lb"/>{#SiraskaM;#} ‘h.s-man’ {#GAtakaH, vaDADikftaH,#}
-<div n="lb"/>{#vaDyApuruzaH, mftapAH;#} ‘h. -strong’ {#durdAMta, a-#}
-<div n="lb"/>{#-prativiDeya, avaSya, durdama, ucCfMKala, aviDeya,#}
-<div n="lb"/>{#pramatta, asTira, caMcala#}. {@-less,@} {%a.%} {#mastakahIna,#}
-<div n="lb"/>{#aSiras#}. {@-y,@} {%a.%} {#sAhasin, sAhasika, kzipra-#}
-<div n="lb"/>{#-kArin#}. {@2@} {#saMraMBin, SAGra-sulaBa-kopa, amarzaRa#}.
+{#mastakaH-kaM, mOli#} {%m. f.,%} {#varAMgaM, uttamAMgaM,#}
+{#muMqaH-qaM#}. {@2@} {#agraRIH, aDyakzaH, DOreyaH, DuryaH,#}
+{#DUrvahaH, DurIRaH, purogaH, patiH, nAyakaH, a-#}
+{#-DipaH-patiH, muKaraH, SrezWaH, aDizWAtf#} {%m.,%} {#muKya-#}
+{#-praDAna#} in comp. {@3@} {#vizayaH, padaM, sTAnaM, aDi-#}
+{#-karaRaM#}. {@4@} {#agraM, Siras, cUqA, SiKaraM#}. {@5@} {#mUlaM,#}
+{#praBavaH, udgamaH, udBavaH, AdihetuH#}. {@6@} {#mati#} {%f.,%}
+{#budDi#} {%f.,%} {#DIH;#} ‘to be placed at the h.
+of’ {#Duri kIrtanIya-#} or {#pratizWApayitavya#} {%-a.;%} ‘h.
+merchant’ {#SrezWin#} {%m.,%} {#viwpatiH;#} ‘the h.
+of a family’ {#kulapatiH, kuwuMbaBAravAhakaH;#}
+‘at the h.’ ex. by {#Adi-pramuKa#} in comp.
+or {#Duri-mUrDni-sTA,#} &c.; ‘with Indra at
+their h.’ {#iMdrAdayaH- iMdrapramuKAH#} ({#devAH#});
+‘he stands at the b, of all’ {#sa sarvezAM#}
+{#Duri mUrDni-tizWati;#} ‘h. over ears in debt’
+{#fRarASO nimagna#} or {#fRagrasta;#} ‘to get a-h.
+of’ {#atikram#} 1 U. 4 P, {#atiric#} pass.,
+{#aBiBU;#} ‘make h. against’ {#pratyavasTA#}
+1 A, {#viruD#} 7 U, {#pratikUlayati#} (D.). {%-v. t.%}
+{#nI#} 1 P, {#aDizWA#} 1 P, {#agre-mUrDni-puraH-gam#}
+or {#sTA#} 1 P; ‘h. ed by Vasish{%t%}ha’ {#vaSi-#}
+{#-zWADizWitAH;#} gen. ex. by {#pramuKa-puroga-purassara-#}
+in comp.; ‘h. -ache’ {#SirovedanA, SIrza-#}
+{#-vyaTA-pIqA, SiraH-SUlaM-rogaH;#} {%See%} {@Ache;@}
+‘h. -band’ {#SirovezwanaM-baMDanaM, lalAwapawwaH;#}
+‘h. -dress’ {#SiroBUzaRaM, kirIwaH-waM, mukuwaM;#}
+‘h. -land’ {#aMtarIpaH-paM, BUSiraH, BUnAsikA;#}
+‘h. -long or h. foremost’ {#avAkSiras,#}
+{#aDomuKa-avANmuKa#} ({#KI#} {%f.%}), {#avAc, sA-#}
+{#-hasika, saraBasa, sAhasin, kzipra-avimfSya-#}
+{#-kArin-kft; pravaRa, pAtuka, patayAlu;#} ({%adv.%})
+{#avAk, aDomuKena, sottApaM, savegaM;#} ‘h. -most’
+{#agrya, prAgrya pramuKa, muKya, vara, vareRya, uttama,#}
+{#praDAna,#} in comp.; ‘h. -piece’ {#SirastraM, SirastrARaM,#}
+{#SiraskaM;#} ‘h.s-man’ {#GAtakaH, vaDADikftaH,#}
+{#vaDyApuruzaH, mftapAH;#} ‘h. -strong’ {#durdAMta, a-#}
+{#-prativiDeya, avaSya, durdama, ucCfMKala, aviDeya,#}
+{#pramatta, asTira, caMcala#}. {@-less,@} {%a.%} {#mastakahIna,#}
+{#aSiras#}. {@-y,@} {%a.%} {#sAhasin, sAhasika, kzipra-#}
+{#-kArin#}. {@2@} {#saMraMBin, SAGra-sulaBa-kopa, amarzaRa#}.
 <LEND>

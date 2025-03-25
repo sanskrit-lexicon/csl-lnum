@@ -1,3 +1,3 @@
-<L>264492<pc>1306,1<k1>hotfveda<k2>ho/tf—veda<e>3
-<s>ho/tf—veda</s> ¦ <lex>m.</lex> the <s1 slp1="veda">Veda</s1> <ab>i.e.</ab> ritual of the <ab n="Hotṛ" slp1="hotf">H°</ab>, <ls>Sāy.</ls><info lex="m"/>
+<L>264492<pc>1306,1<k1>hotfveda<k2>hotf—veda<e>3
+<s>hotf—veda</s> ¦ <lex>m.</lex> the <s1>Veda</s1> <ab>i.e.</ab> ritual of the <s1 n="Hotṛ">H°</s1>, <ls>Sāy.</ls><info lex="m"/>
 <LEND>

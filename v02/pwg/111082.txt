@@ -1,18 +1,18 @@
 <L>111082<pc>7-1105<k1>surakzita<k2>surakzita
-{#surakzita#}¦ 
-<div n="1"> 1) <lex>adj.</lex> {%wohl behütet, - bewacht%} 
-<ls>PĀR. GṚHY. 3, 3.</ls> {#surakzitaM dEvahataM vinaSyati#} 
-<ls>Spr. (II) 567.</ls> {#DanAni#} 
-<ls>7142.</ls> {#veSman, gfha#} 
-<ls>MBH. 3, 2144. 2155.</ls> 
-<ls>PAÑCAT. 45, 13.</ls> {#SIlaniDi#} 
-<ls>MBH. 3, 2992.</ls> {#mantra#} 
-<ls>Spr. (II) 4704.</ls> {#rAjya#} 
-<ls>RĀJA-TAR. 2, 159.</ls> Personen 
-<ls>M. 9, 12.</ls> 
-<ls>YĀJÑ. 1, 78.</ls> 
-<ls>Spr. (II) 5125, v. l.</ls> 
-<ls>KATHĀS. 30, 113.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. pr. eines Mannes 
-<ls>KATHĀS. 39, 27. fgg. 224.</ls>
+{#surakzita#}¦
+<div n="1"> 1) <lex>adj.</lex> {%wohl behütet, — bewacht%}
+<ls>PĀR. GṚHY. 3,3.</ls> {#surakzitaM dEvahataM vinaSyati#}
+<ls>Spr. (II) 567.</ls> {#DanAni#}
+<ls n="Spr. (II)">7142.</ls> {#veSman, gfha#}
+<ls>MBH. 3,2144.</ls> <ls n="MBH. 3,">2155.</ls>
+<ls>PAÑCAT. 45,13.</ls> {#SIlaniDi#}
+<ls>MBH. 3,2992.</ls> {#mantra#}
+<ls>Spr. (II) 4704.</ls> {#rAjya#}
+<ls>RĀJA-TAR. 2,159.</ls> Personen
+<ls>M. 9,12.</ls>
+<ls>YĀJÑ. 1,78.</ls>
+<ls>Spr. (II) 5125, v. l.</ls>
+<ls>KATHĀS. 30,113.</ls>
+<div n="1">— 2) <lex>m.</lex> N. pr. eines Mannes
+<ls>KATHĀS. 39,27. fgg.</ls> <ls n="KATHĀS. 39,">224.</ls>
 <LEND>

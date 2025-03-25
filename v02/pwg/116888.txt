@@ -1,90 +1,82 @@
 <L>116888<pc>7-1610<k1>hiMs<k2>hiMs<h>1
-1. {#hiMs#}¦, {#hina/sti (hiMsAyAm)#} 
-<ls>DHĀTUP. 29, 19.</ls> 
-<ls>VOP. 14, 3.</ls> {#hi/Msanti#} und {#hiMsa/nti#} 
-<ls>P. 6, 1, 188.</ls> {#ahinat, hinasAvas#} 
-<ls>ŚAT. BR. 1, 2, 1, 15.</ls> {#hinasAtas#} 
-<ls>1, 4, 5.</ls> {#hina/san#} 
-<ls>7, 4, 16.</ls> {#jihiMsa, jihiMsima, ji/hiMsIs#} 
-<ls>AV. 12, 3, 18.</ls> {#hiMsIt, hiMsIzwa, hiMsizyati#}, med. {#hi/Mste#} 
-<ls>AV. 12, 4, 13.</ls> {#hiMsitvA/#} . {%verletzen%} (auch {%tödtlich), ein Leid anthun; schädigen, stören%}: {#na yaM hiMsa^nti DI\taya^H#} 
-<ls>ṚV. 6, 34, 3.</ls> <ls n="ṚV.">10, 15, 6.</ls> <ls n="ṚV. 10,">121, 9.</ls> 
-<ls>VS. 4, 1. 9. 5, 3. 34.</ls> {#padA#} 
-<ls>AIT. BR. 5, 1.</ls> {#na hi svaH svaM hi\nasti^#} 
-<ls>TS. 5, 1, 7, 1.</ls> 
-<ls>TBR. 2, 3, 2, 5.</ls> {#mana^H#} 
-<ls>AV. 2, 12, 2. 5, 17, 7.</ls> {#memama\nye mf\tyavo^ hiMsizuH#} 
-<ls>2, 28, 1. 5, 18, 12. 19, 1. 6, 120, 1. 12, 1, 34.</ls> <ls>ŚAT. BR. 1, 6, 3, 7. 4, 6, 9, 1. 7, 1, 1, 38. 4, 1, 18. 10, 2, 3, 18.</ls> <ls>KĀTY. ŚR. 4, 12, 24.</ls> <ls>ĀŚV. GṚHY. 1, 17, 9. 2, 1, 10.</ls> <ls>AIT. UP. 4, 2, 2.</ls> {#AsaptamAMstasya lokAn#} 
-<ls>MUṆḌ. UP. 1, 2, 3.</ls> — {#hinasti#} 
-u.s.w. <ls>M. 4, 162. 5, 42. 45. 6, 69. 7, 73. 8, 279. 345. 9, 316.</ls> <ls>BHAG. 13, 28.</ls> <ls>MBH. 1, 2948. 3911. 3, 1091. 4, 446.</ls> <ls>R. 2, 35, 13.</ls> <ls>R. GORR. 1, 41, 29</ls> ({#sarvAnna hiM°#} zu lesen). 
-<ls>3, 5, 20. 4, 8, 9. 17, 27. 5, 29, 25.</ls> <ls>SUŚR. 1, 94, 18.</ls> {#asUn#} 
-<ls>2, 494, 14.</ls> <ls>VIKR. 16.</ls> <ls>Spr. (II) 3232. 3510. 5269. 5504. 7275. 7392.</ls> <ls>BHĀG. P. 6, 9, 54. 18, 46. 7, 10, 19.</ls> {#dravyARi#} 
-<ls>M. 8, 288.</ls> {#vfkzAnudakam#} 
-u.s.w. <ls>R. 2, 91, 9 (100, 8 GORR.).</ls> {#vratam#} 
-<ls>M. 2, 180.</ls> 
-<ls>VARĀH. BṚH. S. 42, 14. 58, 51. 79, 17.</ls> 
-<ls>BṚH. 4, 20. 8, 23.</ls> <ls>SARVADARŚANAS. 37, 1.</ls> {#indrasya vikramam#} 
-<ls>BHAṬṬ. 6, 38.</ls> {#api hiMsyAjjagannATo mahApAtakapaYcakam#} so v. a. {%zu Nichte%}
+1. {#hiMs#}¦, {#hina/sti (hiMsAyAm)#}
+<ls>DHĀTUP. 29,19.</ls>
+<ls>VOP. 14,3.</ls> {#hi/Msanti#} und {#hiMsa/nti#}
+<ls>P. 6,1,188.</ls> {#ahinat, hinasAvas#}
+<ls>ŚAT. BR. 1,2,1,15.</ls> {#hinasAtas#}
+<ls n="ŚAT. BR.">1,4,5.</ls> {#hina/san#}
+<ls n="ŚAT. BR.">7,4,16.</ls> {#jihiMsa, jihiMsima, ji/hiMsIs#}
+<ls>AV. 12,3,18.</ls> {#hiMsIt, hiMsIzwa, hiMsizyati#}, med. {#hi/Mste#}
+<ls>AV. 12,4,13.</ls> {#hiMsitvA/#} . {%verletzen%} (auch {%tödtlich), ein Leid anthun; schädigen, stören%}: {#na yaM hiMsa^nti DI\taya^H#}
+<ls>ṚV. 6,34,3.</ls> <ls n="ṚV.">10,15,6.</ls> <ls n="ṚV. 10,">121,9.</ls>
+<ls>VS. 4,1. 9. 5,3. 34.</ls> {#padA#}
+<ls>AIT. BR. 5,1.</ls> {#na hi svaH svaM hi\nasti^#}
+<ls>TS. 5,1,7,1.</ls>
+<ls>TBR. 2,3,2,5.</ls> {#mana^H#}
+<ls>AV. 2,12,2.</ls> <ls n="AV.">5,17,7.</ls> {#memama\nye mf\tyavo^ hiMsizuH#}
+<ls n="AV.">2,28,1.</ls> <ls n="AV.">5,18,12.</ls> <ls n="AV. 5,">19,1.</ls> <ls n="AV.">6,120,1.</ls> <ls n="AV.">12,1,34.</ls> <ls>ŚAT. BR. 1,6,3,7. 4,6,9,1. 7,1,1,38. 4,1,18. 10,2,3,18.</ls> <ls>KĀTY. ŚR. 4,12,24.</ls> <ls>ĀŚV. GṚHY. 1,17,9. 2,1,10.</ls> <ls>AIT. UP. 4,2,2.</ls> {#AsaptamAMstasya lokAn#}
+<ls>MUṆḌ. UP. 1,2,3.</ls> — {#hinasti#}
+u.s.w. <ls>M. 4,162.</ls> <ls n="M.">5,42.</ls> <ls n="M. 5,">45.</ls> <ls n="M.">6,69.</ls> <ls n="M.">7,73.</ls> <ls n="M.">8,279.</ls> <ls n="M. 8,">345.</ls> <ls n="M.">9,316.</ls> <ls>BHAG. 13,28.</ls> <ls>MBH. 1,2948.</ls> <ls n="MBH. 1,">3911.</ls> <ls n="MBH.">3,1091.</ls> <ls n="MBH.">4,446.</ls> <ls>R. 2,35,13.</ls> <ls>R. GORR. 1,41,29</ls> ({#sarvAnna hiM°#} zu lesen).
+<ls n="R. GORR.">3,5,20.</ls> <ls n="R. GORR.">4,8,9.</ls> <ls n="R. GORR. 4,">17,27.</ls> <ls n="R. GORR.">5,29,25.</ls> <ls>SUŚR. 1,94,18.</ls> {#asUn#}
+<ls n="SUŚR.">2,494,14.</ls> <ls>VIKR. 16.</ls> <ls>Spr. (II) 3232.</ls> <ls n="Spr. (II)">3510.</ls> <ls n="Spr. (II)">5269.</ls> <ls n="Spr. (II)">5504.</ls> <ls n="Spr. (II)">7275.</ls> <ls n="Spr. (II)">7392.</ls> <ls>BHĀG. P. 6,9,54.</ls> <ls n="BHĀG. P. 6,">18,46.</ls> <ls n="BHĀG. P.">7,10,19.</ls> {#dravyARi#}
+<ls>M. 8,288.</ls> {#vfkzAnudakam#}
+u.s.w. <ls>R. 2,91,9</ls> (<ls n="GORR. 2,">100,8</ls> <ls>GORR.</ls>). {#vratam#}
+<ls>M. 2,180.</ls>
+<ls>VARĀH. BṚH. S. 42,14. 58,51. 79,17.</ls>
+<ls>BṚH. 4,20. 8,23.</ls> <ls>SARVADARŚANAS. 37,1.</ls> {#indrasya vikramam#}
+<ls>BHAṬṬ. 6,38.</ls> {#api hiMsyAjjagannATo mahApAtakapaYcakam#} so v. a. {%zu Nichte%}
 [Page7-1611]
-{%machen%} 
-<ls>VOP. 25, 17.</ls> — {#hiMsi#} st. {#hinassi#} 
-<ls>MBH. 3, 13269.</ls> {#hiMse#} (so ed. Bomb.) 1. praes. med. 
-<ls>4, 728.</ls> {#hiMsAmi#} st. {#hinasmi#} 
-<ls>R. 5, 2, 22.</ls> {#hiMsati#} st. {#hinasti#} 
-<ls>SĀMAVIDH. BR. 2, 4, 11.</ls> <ls>Spr. (II) 393. 3877. 4737, v. l. 5609.</ls> {#hiMsase#} 
-<ls>MĀRK. P. 132, 15.</ls> {#kAlo hiMsate DarmavIryam#} 
-<ls>MBH. 13, 4556.</ls> {#hiMseta#} 
-<ls>3, 13685.</ls> {#jihiMsiTa#} 
-<ls>BHAṬṬ. 14, 57.</ls> {#ahiMsIt#} 
-<ls>15, 78.</ls> {#mA hiMsIH#} 
-<ls>MBH. 3, 13289.</ls> {#mA hiMsizuH#} 
-<ls>R. 2, 25, 18.</ls> {#hiMsizye#} 
-<ls>MBH. 1, 5997. 12, 6628.</ls> 
-<ls>BHĀG. P. 8, 20, 12.</ls> {#hiMsitum#} 
-<ls>MBH. 1, 7864. 12, 4300.</ls> {#aTa vA mfdu vastu hiMsituM mfdunEvAraBate prajAntakaH#} 
-<ls>RAGH. 8, 45.</ls> 
-<ls>Spr. (II) 3304.</ls> pass. {#hiMsyate#} {%wird geschlachtet%} 
-<ls>4004.</ls> partic. {#hiMsita/#} 
-<ls>AV. 5, 28, 6.</ls> 
-<ls>MBH. 1, 566. 3, 1091. 10799. 13685.</ls> 
-<ls>R. 2, 39, 4. 3, 35, 14. 4, 16, 40. 17, 28. 7, 17, 41.</ls> 
-<ls>Spr. (II) 393. 3877. 4737.</ls> 
-<ls>MĀRK. P. 112, 10.</ls> <lex>n.</lex> nom. act.: {#hiMsite pratihiMsitam#} 
-<ls>Spr. (II) 1874.</ls> {#hiMsitavant#} 
-<ls>R. 3, 35, 15.</ls> — Verkürztes desid. von 1. {#han#} .
-
-<div n="p">— caus. {#hiMsayati#} dass. 
-<ls>DHĀTUP. 34, 23.</ls> 
-<ls>MBH. 3, 8552. 13030. 12, 6549. 13, 1676.</ls>
-
-<div n="p">— desid. {#ji/hiMsizati#} {%verletzen%} u. s. w. {%wollen%} 
-<ls>ŚAT. BR. 9, 1, 1, 35. 2, 1, 2.</ls>
-
-<div n="p">— {#vyati#} act. {%sich gegenseitig ein Leid anthun%} 
-<ls>P. 1, 3, 15, Schol.</ls>
-
-<div n="p">— {#A#} {%Jmd ein Leid zufügen%}: {#jale matsyAnivAhiMsyurdurbalAnbalavattarAH#} 
-<ls>Spr. (II) 5213, v. l.</ls> med. {%sich befehden%}: {#jahnuvfcIvanto rAzwra AhiMsanta#} 
-<ls>PAÑCAV. BR. 21, 12, 2.</ls>
-
-<div n="p">— {#upa#} = simpl.: {#yaTA durgASritAnetAnnopahiMsanti SatravaH#} 
-<ls>M. 7, 73.</ls> {#devasvaM brAhmaRasvaM vA loBena#} 
-<ls>11, 26.</ls> {#rAmArTam#} 
-<ls>R. 2, 9, 4.</ls> med. {#upahiMseta#} 
-<ls>MBH. 13, 4726.</ls>
-
+{%machen%}
+<ls>VOP. 25,17.</ls> — {#hiMsi#} st. {#hinassi#}
+<ls>MBH. 3,13269.</ls> {#hiMse#} (so <ls>ed. Bomb.</ls>) 1. praes. med.
+<ls n="MBH.">4,728.</ls> {#hiMsAmi#} st. {#hinasmi#}
+<ls>R. 5,2,22.</ls> {#hiMsati#} st. {#hinasti#}
+<ls>SĀMAVIDH. BR. 2,4,11.</ls> <ls>Spr. (II) 393.</ls> <ls n="Spr. (II)">3877.</ls> <ls n="Spr. (II)">4737, v. l.</ls> <ls n="Spr. (II)">5609.</ls> {#hiMsase#}
+<ls>MĀRK. P. 132,15.</ls> {#kAlo hiMsate DarmavIryam#}
+<ls>MBH. 13,4556.</ls> {#hiMseta#}
+<ls n="MBH.">3,13685.</ls> {#jihiMsiTa#}
+<ls>BHAṬṬ. 14,57.</ls> {#ahiMsIt#}
+<ls n="BHAṬṬ.">15,78.</ls> {#mA hiMsIH#}
+<ls>MBH. 3,13289.</ls> {#mA hiMsizuH#}
+<ls>R. 2,25,18.</ls> {#hiMsizye#}
+<ls>MBH. 1,5997.</ls> <ls n="MBH.">12,6628.</ls>
+<ls>BHĀG. P. 8,20,12.</ls> {#hiMsitum#}
+<ls>MBH. 1,7864.</ls> <ls n="MBH.">12,4300.</ls> {#aTa vA mfdu vastu hiMsituM mfdunEvAraBate prajAntakaH#}
+<ls>RAGH. 8,45.</ls>
+<ls>Spr. (II) 3304.</ls> pass. {#hiMsyate#} {%wird geschlachtet%}
+<ls n="Spr. (II)">4004.</ls> partic. {#hiMsita/#}
+<ls>AV. 5,28,6.</ls>
+<ls>MBH. 1,566.</ls> <ls n="MBH.">3,1091.</ls> <ls n="MBH. 3,">10799.</ls> <ls n="MBH. 3,">13685.</ls>
+<ls>R. 2,39,4.</ls> <ls n="R.">3,35,14.</ls> <ls n="R.">4,16,40.</ls> <ls n="R. 4,">17,28.</ls> <ls n="R.">7,17,41.</ls>
+<ls>Spr. (II) 393.</ls> <ls n="Spr. (II)">3877.</ls> <ls n="Spr. (II)">4737.</ls>
+<ls>MĀRK. P. 112,10.</ls> <lex>n.</lex> nom. act.: {#hiMsite pratihiMsitam#}
+<ls>Spr. (II) 1874.</ls> {#hiMsitavant#}
+<ls>R. 3,35,15.</ls> — Verkürztes desid. von 1. {#han#} .
+<div n="p">— caus. {#hiMsayati#} dass.
+<ls>DHĀTUP. 34,23.</ls>
+<ls>MBH. 3,8552.</ls> <ls n="MBH. 3,">13030.</ls> <ls n="MBH.">12,6549.</ls> <ls n="MBH.">13,1676.</ls>
+<div n="p">— desid. {#ji/hiMsizati#} {%verletzen%} u. s. w. {%wollen%}
+<ls>ŚAT. BR. 9,1,1,35. 2,1,2.</ls>
+<div n="p">— {#vyati#} act. {%sich gegenseitig ein Leid anthun%}
+<ls>P. 1,3,15</ls>, Schol.
+<div n="p">— {#A#} {%Jmd ein Leid zufügen%}: {#jale matsyAnivAhiMsyurdurbalAnbalavattarAH#}
+<ls>Spr. (II) 5213, v. l.</ls> med. {%sich befehden%}: {#jahnuvfcIvanto rAzwra AhiMsanta#}
+<ls>PAÑCAV. BR. 21,12,2.</ls>
+<div n="p">— {#upa#} = simpl.: {#yaTA durgASritAnetAnnopahiMsanti SatravaH#}
+<ls>M. 7,73.</ls> {#devasvaM brAhmaRasvaM vA loBena#}
+<ls n="M.">11,26.</ls> {#rAmArTam#}
+<ls>R. 2,9,4.</ls> med. {#upahiMseta#}
+<ls>MBH. 13,4726.</ls>
 <div n="p">— {#ni#} s. {#nihiMsana#} .
-
-<div n="p">— {#prati#}, partic. {#°hiMsita#} <lex>n.</lex> {%das Vergelten eines zugefügten Leides%} 
-<ls>Spr. (II) 1874.</ls> 
+<div n="p">— {#prati#}, partic. {#°hiMsita#} <lex>n.</lex> {%das Vergelten eines zugefügten Leides%}
+<ls>Spr. (II) 1874.</ls>
 <div n="v">— Vgl. {#pratihiMsA#} .
-
-<div n="p">— {#vi#} = simpl.: {#abuDA buDAn#} 
-<ls>Spr. (II) 857. 1496, v. l.</ls> 
-<ls>R. 1, 14, 15 (16 GORR.).</ls> {#avihiMsyAnyAn#} 
-<ls>MBH. 3, 8598.</ls> {#DAnyam#} 
-<ls>M. 8, 238.</ls> partic. {#vihiMsita#} 
-<ls>MBH. 12, 6628.</ls> 
-<ls>R. 2, 72, 44 (74, 49 GORR.).</ls> <ls>R. GORR. 2, 74, 53.</ls> <ls>BHĀG. P. 5, 26, 10. 10, 7, 32. 85, 28.</ls> Vgl. {#vihiMsaka#} fgg. — caus. dass.: {#tasmAnna varDayedanyaM na cAtmAnaM vihiMsayet#} 
-<ls>MBH. 12, 11016.</ls>
+<div n="p">— {#vi#} = simpl.: {#abuDA buDAn#}
+<ls>Spr. (II) 857.</ls> <ls n="Spr. (II)">1496, v. l.</ls>
+<ls>R. 1,14,15</ls> (<ls n="GORR. 1,14,">16</ls> <ls>GORR.</ls>). {#avihiMsyAnyAn#}
+<ls>MBH. 3,8598.</ls> {#DAnyam#}
+<ls>M. 8,238.</ls> partic. {#vihiMsita#}
+<ls>MBH. 12,6628.</ls>
+<ls>R. 2,72,44</ls> (<ls n="GORR. 2,">74,49</ls> <ls>GORR.</ls>). <ls>R. GORR. 2,74,53.</ls> <ls>BHĀG. P. 5,26,10.</ls> <ls n="BHĀG. P.">10,7,32.</ls> <ls n="BHĀG. P. 10,">85,28.</ls> Vgl. {#vihiMsaka#} fgg. — caus. dass.: {#tasmAnna varDayedanyaM na cAtmAnaM vihiMsayet#}
+<ls>MBH. 12,11016.</ls>
 <LEND>

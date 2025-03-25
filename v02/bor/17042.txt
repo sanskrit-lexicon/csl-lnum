@@ -1,6 +1,6 @@
 <L>17042<pc>521<k1>piles<k2>piles
-<div n="lb"/>{@PILES:@}¦ {#arSas#} (n.), <div n="xe">{%internal p.:%}</div> <div n="xs">{#adfSyAnyarSAMsi,#}</div> Sr.;
-<div n="lb"/><div n="xe">{%ointments for p.:%}</div> <div n="xs">{#arSasAmAlepAH;#}</div> <div n="xe">{%suffering from%}
-<div n="lb"/>{%p.:%}</div> <div n="xs">{#arSoBirupadrutaH#}</div> ({#tA, taM#}), Sr. <div n="xe">{%or%}</div> <div n="xs">{#arSasaH#}</div> ({#sA, #}
-<div n="lb"/>{# saM#}), Bha.
+{@PILES:@}¦ {#arSas#} (n.), <div n="xe">{%internal p.:%}</div> <div n="xs">{#adfSyAnyarSAMsi,#}</div> Sr.;
+<div n="xe">{%ointments for p.:%}</div> <div n="xs">{#arSasAmAlepAH;#}</div> <div n="xe">{%suffering from%}
+{%p.:%}</div> <div n="xs">{#arSoBirupadrutaH#}</div> ({#tA, taM#}), Sr. <div n="xe">{%or%}</div> <div n="xs">{#arSasaH#}</div> ({#sA, #}
+{# saM#}), Bha.
 <LEND>

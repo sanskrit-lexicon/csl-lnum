@@ -1,22 +1,22 @@
 <L>26715<pc>730-a<k1>service<k2>service
-<div n="lb"/>SERVICE¦, {%s.%} (Attendance upon, waiting upon) {#sevA -vanaM, upasevA,#}
-<div n="lb"/>{#nizevanaM, SuSrUzA, upAsanaM -nA, upacAraH, upacArakaraRaM, upacArakarmma#} {%n.%}
-<div n="lb"/>{#(n), upacaryyA, paricaraRaM, paricaryyA, varivasyA, anugamanaM, upasTAnaM#}.
-<div n="lb"/> — (State of service) {#dAsyaM, dAsatvaM, sevA, sevakadaSA, prepyatvaM, BftyatvaM,#}
-<div n="lb"/>{#kENkaryyaM;#} ‘he lives in our service,’ {#asmatsevayA jIvati#}. — (Wait-
-<div n="lb"/>ing at table) {#parivezaRaM, pariveSanaM#}. — (Obedience or subjection
-<div n="lb"/>to) {#AjYAsevanaM, AjYAnuvfttiH#} {%f.,%} {#AjYAkaratvaM, anuvfttiH#} {%f.,%} {#anuvarttanaM,#}
-<div n="lb"/>{#vaSatA, SuSrUzA -zaRaM, anuroDaH, BaktiH#} {%f.,%} {#BajanaM, upAsanaM -nA, upAsA,#}
-<div n="lb"/>{#ArADanaM -nA;#} ‘the service of princes,’ {#nfpasaMSrayaH;#} ‘diligent
-<div n="lb"/>in service,’ {#SuSrUzAparaH -rA -raM#}. — (Benefit, advantage) {#upakAraH,#}
-<div n="lb"/>{#upakftaM, upakriyA, upakftiH#} {%f.,%} {#sukftaM, hitaM, arTaH, upayogaH#}. — (Use)
-<div n="lb"/>{#upayogaH -gitvaM, prayogaH, prayojanaM, vyavahAraH#}. — (Employment, busi-
-<div n="lb"/>ness) {#vyApAraH, kAryyaM, karmma#} {%n.%} {#(n), vyavasAyaH, vfttiH#} {%f.,%} {#pravfttiH#} {%f.,%}
-<div n="lb"/>{#vyavahAraH, niyogaH;#} ‘out of service,’ {#nirvyApAraH -rA -raM, nirvfttiH#}
-<div n="lb"/>{#-ttiH -tti;#} ‘military service,’ {#sEnyakarmma#} {%n.%} {#(n), sEnikavfttiH#} {%f.%}
-<div n="lb"/> — (Worship) {#pUjA, pUjopacAraH, upacAraH, upacaryyA, BaktiH#} {%f.,;%} ‘pub-
-<div n="lb"/>lic worship,’ {#sADAraRapUjA;#} ‘course of rites,’ {#anuzWAnaM,#} {%see%}
-<div n="lb"/>RITE; ‘conductor of a service,’ {#anuzWAtA#} {%m.%} — (Set of dishes
-<div n="lb"/>served up at once) {#yAvanti BojanapAtrARi yugapat parivepyante, Boja-#}
-<div n="lb"/>{#napAtrasamUhaH, BojanapAtragaRaH, BojanapAtrajAtaM#}.
+SERVICE¦, {%s.%} (Attendance upon, waiting upon) {#sevA -vanaM, upasevA,#}
+{#nizevanaM, SuSrUzA, upAsanaM -nA, upacAraH, upacArakaraRaM, upacArakarmma#} {%n.%}
+{#(n), upacaryyA, paricaraRaM, paricaryyA, varivasyA, anugamanaM, upasTAnaM#}.
+ — (State of service) {#dAsyaM, dAsatvaM, sevA, sevakadaSA, prepyatvaM, BftyatvaM,#}
+{#kENkaryyaM;#} ‘he lives in our service,’ {#asmatsevayA jIvati#}. — (Wait-
+ing at table) {#parivezaRaM, pariveSanaM#}. — (Obedience or subjection
+to) {#AjYAsevanaM, AjYAnuvfttiH#} {%f.,%} {#AjYAkaratvaM, anuvfttiH#} {%f.,%} {#anuvarttanaM,#}
+{#vaSatA, SuSrUzA -zaRaM, anuroDaH, BaktiH#} {%f.,%} {#BajanaM, upAsanaM -nA, upAsA,#}
+{#ArADanaM -nA;#} ‘the service of princes,’ {#nfpasaMSrayaH;#} ‘diligent
+in service,’ {#SuSrUzAparaH -rA -raM#}. — (Benefit, advantage) {#upakAraH,#}
+{#upakftaM, upakriyA, upakftiH#} {%f.,%} {#sukftaM, hitaM, arTaH, upayogaH#}. — (Use)
+{#upayogaH -gitvaM, prayogaH, prayojanaM, vyavahAraH#}. — (Employment, busi-
+ness) {#vyApAraH, kAryyaM, karmma#} {%n.%} {#(n), vyavasAyaH, vfttiH#} {%f.,%} {#pravfttiH#} {%f.,%}
+{#vyavahAraH, niyogaH;#} ‘out of service,’ {#nirvyApAraH -rA -raM, nirvfttiH#}
+{#-ttiH -tti;#} ‘military service,’ {#sEnyakarmma#} {%n.%} {#(n), sEnikavfttiH#} {%f.%}
+ — (Worship) {#pUjA, pUjopacAraH, upacAraH, upacaryyA, BaktiH#} {%f.,;%} ‘pub-
+lic worship,’ {#sADAraRapUjA;#} ‘course of rites,’ {#anuzWAnaM,#} {%see%}
+RITE; ‘conductor of a service,’ {#anuzWAtA#} {%m.%} — (Set of dishes
+served up at once) {#yAvanti BojanapAtrARi yugapat parivepyante, Boja-#}
+{#napAtrasamUhaH, BojanapAtragaRaH, BojanapAtrajAtaM#}.
 <LEND>

@@ -1,10 +1,10 @@
 <L>24321<pc>761<k1>who<k2>who
-<div n="lb"/>{@WHO:@}¦ <div n="I">I Interro.: {#kim,#} <div n="xe">{%w. is here:%}</div> <div n="xs">{#kaH ko'tra #}
-<div n="lb"/>{# moH,#}</div> U.; <div n="xe">{%w. does not know Agastya:%}</div> <div n="xs">{#kaH #}
-<div n="lb"/>{# punaragastyaM na jAnAti,#}</div> B. r.; <div n="xe">{%w. is this girl:%}</div> <div n="xs">{#keyaM #}
-<div n="lb"/>{# kanyakA,#}</div> K. </div><div n="I">II Rel.: </div><div n="1">(1) {#yad,#} <div n="xe">{%I w. with two%}
-<div n="lb"/>{%arms:%}</div> <div n="xs">{#yo'haM dAByAM BujAByAm,#}</div> Vi. vi. ii.; <div n="xe">{%whom%}
-<div n="lb"/>{%the wise call resplendent lustre:%}</div> <div n="xs">{#predDaM DAma yadA-#}
-<div n="lb"/>{#mananti suDiyaH,#}</div> Vi. iv. 30. (G. § 145); </div><div n="1">(2) by
-<div n="lb"/>bah. comp. (G. § 298).</div>
+{@WHO:@}¦ <div n="I">I Interro.: {#kim,#} <div n="xe">{%w. is here:%}</div> <div n="xs">{#kaH ko'tra #}
+{# moH,#}</div> U.; <div n="xe">{%w. does not know Agastya:%}</div> <div n="xs">{#kaH #}
+{# punaragastyaM na jAnAti,#}</div> B. r.; <div n="xe">{%w. is this girl:%}</div> <div n="xs">{#keyaM #}
+{# kanyakA,#}</div> K. </div><div n="I">II Rel.: </div><div n="1">(1) {#yad,#} <div n="xe">{%I w. with two%}
+{%arms:%}</div> <div n="xs">{#yo'haM dAByAM BujAByAm,#}</div> Vi. vi. ii.; <div n="xe">{%whom%}
+{%the wise call resplendent lustre:%}</div> <div n="xs">{#predDaM DAma yadA-#}
+{#mananti suDiyaH,#}</div> Vi. iv. 30. (G. § 145); </div><div n="1">(2) by
+bah. comp. (G. § 298).</div>
 <LEND>

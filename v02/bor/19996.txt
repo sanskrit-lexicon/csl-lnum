@@ -1,8 +1,8 @@
 <L>19996<pc>621<k1>seal<k2>seal
-<div n="lb"/>{@SEAL@}¦ (subs.): <div n="I">I Of a letter etc.: {#mudrA,#} <div n="xe">{%the s.%}
-<div n="lb"/>{%is marked with the name of Rākṣasa:%}</div> <div n="xs">{#rAkzasa-#}
-<div n="lb"/>{#nAmANkiteyaM mudrA;#}</div> <div n="xe">{%without breaking the s.:%}</div> <div n="xs">{#mudrAM #}
-<div n="lb"/>{# paripAlayan;#}</div> {%without taking a s.%} ({%ed%} pass.):
-<div n="lb"/>{#agfhItamudraH,#} Mu. v. </div><div n="I">II The sea-calf: prob.
-<div n="lb"/>{#nakraH.#}</div>
+{@SEAL@}¦ (subs.): <div n="I">I Of a letter etc.: {#mudrA,#} <div n="xe">{%the s.%}
+{%is marked with the name of Rākṣasa:%}</div> <div n="xs">{#rAkzasa-#}
+{#nAmANkiteyaM mudrA;#}</div> <div n="xe">{%without breaking the s.:%}</div> <div n="xs">{#mudrAM #}
+{# paripAlayan;#}</div> {%without taking a s.%} ({%ed%} pass.):
+{#agfhItamudraH,#} Mu. v. </div><div n="I">II The sea-calf: prob.
+{#nakraH.#}</div>
 <LEND>

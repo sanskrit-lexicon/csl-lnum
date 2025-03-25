@@ -1,16 +1,16 @@
 <L>20703<pc>650<k1>slave<k2>slave
-<div n="lb"/>{@SLAVE@}¦ (subs.): <div n="I">I Lit.: {#dAsaH#} (f. {#sI#}), ({%s.s%})
-<div n="lb"/><div n="xe">{%home-bred, bought, got and hereditary:%}</div> <div n="xs">{#gfhajAta-#}
-<div n="lb"/>{#krItalabDapAramparIRAH,#}</div> Viv.; <div n="xe">{%who wishes to make his%}
-<div n="lb"/>{%s. a free man:%}</div> <div n="xs">{#yaH svaM dAsamadAsaM kartumicCet,#}</div> N. s.;
-<div n="lb"/>{%it is s.'s property, the master is not entitled to it:%}
-<div n="lb"/>{#taddAsaDanaM svAmI nArhati,#} Viv.; <div n="xe">{%even a free woman%}
-<div n="lb"/>{%married by a s. becomes a s.:%}</div> <div n="xs">{#dAsenoQA tvadAsI yA #}
-<div n="lb"/>{# sApi dAsItvamApnu yAt,#}</div> Kat.; <div n="xe">{%a born s.:%}</div> <div n="xs">{#garBadAsaH#}</div>
-<div n="lb"/>(f. {#sI#}), Mr.; {%eating female and male s. s:%}
-<div n="lb"/>{#dAsIdAsajanaM BakzayitvA,#} D. vi.; <div n="xe">{%I am your atten-%}
-<div n="lb"/>{%dant s. with a thousand s. girls:%}</div> <div n="xs">{#ahaM dAsIsahasreRa #}
-<div n="lb"/>{# dAsI te paricArikA,#}</div> Mah. i. 77. 22. </div><div n="I">II Fig.</div>
-<div n="lb"/><div n="1">(1) {#dAsaH;#} </div><div n="1">(2) expr. by {#vaSa,#} <div n="xe">{%a s. of the%}
-<div n="lb"/>{%passions:%}</div> <div n="xs">{#indriyaparavaSaH#}</div> ({#SA, SaM#}): v. Give way.</div>
+{@SLAVE@}¦ (subs.): <div n="I">I Lit.: {#dAsaH#} (f. {#sI#}), ({%s.s%})
+<div n="xe">{%home-bred, bought, got and hereditary:%}</div> <div n="xs">{#gfhajAta-#}
+{#krItalabDapAramparIRAH,#}</div> Viv.; <div n="xe">{%who wishes to make his%}
+{%s. a free man:%}</div> <div n="xs">{#yaH svaM dAsamadAsaM kartumicCet,#}</div> N. s.;
+{%it is s.'s property, the master is not entitled to it:%}
+{#taddAsaDanaM svAmI nArhati,#} Viv.; <div n="xe">{%even a free woman%}
+{%married by a s. becomes a s.:%}</div> <div n="xs">{#dAsenoQA tvadAsI yA #}
+{# sApi dAsItvamApnu yAt,#}</div> Kat.; <div n="xe">{%a born s.:%}</div> <div n="xs">{#garBadAsaH#}</div>
+(f. {#sI#}), Mr.; {%eating female and male s. s:%}
+{#dAsIdAsajanaM BakzayitvA,#} D. vi.; <div n="xe">{%I am your atten-%}
+{%dant s. with a thousand s. girls:%}</div> <div n="xs">{#ahaM dAsIsahasreRa #}
+{# dAsI te paricArikA,#}</div> Mah. i. 77. 22. </div><div n="I">II Fig.</div>
+<div n="1">(1) {#dAsaH;#} </div><div n="1">(2) expr. by {#vaSa,#} <div n="xe">{%a s. of the%}
+{%passions:%}</div> <div n="xs">{#indriyaparavaSaH#}</div> ({#SA, SaM#}): v. Give way.</div>
 <LEND>

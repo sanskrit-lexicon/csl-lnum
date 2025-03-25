@@ -1,42 +1,41 @@
 <L>17687<pc>2-0325<k1>kutra<k2>ku/tra
-{#ku/tra#}¦ (von 1. {#ku#}) adv. 
-<ls>P. 5, 3, 10.</ls> 
-<div n="1"> 1) {%wo? wohin?%} {#kvAsi kutrAsi#} 
-<ls>R. 5, 34, 21.</ls> {#kutra me SiSuH#} 
-<ls>PAÑCAT. 100, 19.</ls> 
-<ls>HIT. 10, 17.</ls> 
-<ls>BHĀG. P. 9, 9, 5.</ls> {#mayA tO SaptO pramaTavarO kutra Buvi jAtO#} 
-<ls>KATHĀS. 1, 63.</ls> {#ezA sABaraRA kutra gacCati#} 
-<ls>VET. 25, 5.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. 56, 18.</ls> {#pravfttiH kutra kartavyA#} 
-<ls>HIT. I, 21.</ls> 
-<div n="1">— 2) {%in welchem Falle? wann?%} {#tejasA saha jAtAnAM vayaH kutropayujyate#} 
-<ls>PAÑCAT. I, 372.</ls> {#BAvinyarTe pramARABAvAtkutra kiM samADAtavyam#} 
-<ls>HIT. 110, 12.</ls> 
-<div n="1">— 3) {#kutra - kva#} {%wo%} (dieses) — {%wo%} (jenes) d. i. {%wie weit ist dieses von jenem entfernt, wie wenig stimmt dieses zu jenem%}: {#kutrASizaH SrutisuKA mfgatfzRirUpAH kvedaM kalevaramaSezarujAM virohaH#} 
-<ls>BHĀG. P. 7, 9, 25.</ls> 
-<div n="1">— 4) mit {#api#} {%irgendwo%}: {#kubjena mftaH kfzRasarpaH kutrApyAsAditaH#} 
-<ls>PAÑCAT. 262, 11.</ls> {%irgendwohin, Gott weiss wohin%} 
-<ls>MĀRK. P. 8, 120.</ls> 
-<div n="1">— 5) mit {#cid#} 
-<div n="2"> a) = {#kasmiMScit#} adj.: {#kutracidaraRye#} {%in irgend einem Walde%} 
-<ls>PAÑCAT. 256, 6. 260, 8.</ls> {#kutracijjalASaye#} 
-<ls>213, 18.</ls> 
-<div n="2">— b) {%wo%} oder {%wohin es auch sei; irgendwo irgendwohin%}: {#kutrA^ ci\dyasya\ samf^tO ra\RvA naro^ nf\zada^ne#} 
-<ls>ṚV. 5, 7, 2.</ls> {#kutrA^ cidra\Rvo va^sa\tirva^ne\jAH#} 
-<ls n="ṚV.">6, 3, 3.</ls> {#kutrA^ ci\dyAma^maSvinA\M daDA^nA#} 
-<ls n="ṚV.">7, 69, 2.</ls> {#prasuptamiva cAnyatra krIqantamiva kutracit#} 
-<ls>R. 5, 1, 5.</ls> {#kutracitpipAsAkulitena BramatA#}
+{#ku/tra#}¦ (von 1. {#ku#}) adv.
+<ls>P. 5,3,10.</ls>
+<div n="1"> 1) {%wo? wohin?%} {#kvAsi kutrAsi#}
+<ls>R. 5,34,21.</ls> {#kutra me SiSuH#}
+<ls>PAÑCAT. 100,19.</ls>
+<ls>HIT. 10,17.</ls>
+<ls>BHĀG. P. 9,9,5.</ls> {#mayA tO SaptO pramaTavarO kutra Buvi jAtO#}
+<ls>KATHĀS. 1,63.</ls> {#ezA sABaraRA kutra gacCati#}
+<ls>VET. 25,5.</ls>
+<ls>BRAHMA-P. in LA. 56,18.</ls> {#pravfttiH kutra kartavyA#}
+<ls>HIT. I,21.</ls>
+<div n="1">— 2) {%in welchem Falle? wann?%} {#tejasA saha jAtAnAM vayaH kutropayujyate#}
+<ls>PAÑCAT. I,372.</ls> {#BAvinyarTe pramARABAvAtkutra kiM samADAtavyam#}
+<ls>HIT. 110,12.</ls>
+<div n="1">— 3) {#kutra — kva#} {%wo%} (dieses) — {%wo%} (jenes) <ab>d. i.</ab> {%wie weit ist dieses von jenem entfernt, wie wenig stimmt dieses zu jenem%}: {#kutrASizaH SrutisuKA mfgatfzRirUpAH kvedaM kalevaramaSezarujAM virohaH#}
+<ls>BHĀG. P. 7,9,25.</ls>
+<div n="1">— 4) mit {#api#} {%irgendwo%}: {#kubjena mftaH kfzRasarpaH kutrApyAsAditaH#}
+<ls>PAÑCAT. 262,11.</ls> {%irgendwohin, Gott weiss wohin%}
+<ls>MĀRK. P. 8,120.</ls>
+<div n="1">— 5) mit {#cid#}
+<div n="2"> a) = {#kasmiMScit#} adj.: {#kutracidaraRye#} {%in irgend einem Walde%}
+<ls>PAÑCAT. 256,6.</ls> <ls n="PAÑCAT.">260,8.</ls> {#kutracijjalASaye#}
+<ls n="PAÑCAT.">213,18.</ls>
+<div n="2">— b) {%wo%} oder {%wohin es auch sei; irgendwo irgendwohin%}: {#kutrA^ ci\dyasya\ samf^tO ra\RvA naro^ nf\zada^ne#}
+<ls>ṚV. 5,7,2.</ls> {#kutrA^ cidra\Rvo va^sa\tirva^ne\jAH#}
+<ls n="ṚV.">6,3,3.</ls> {#kutrA^ ci\dyAma^maSvinA\M daDA^nA#}
+<ls n="ṚV.">7,69,2.</ls> {#prasuptamiva cAnyatra krIqantamiva kutracit#}
+<ls>R. 5,1,5.</ls> {#kutracitpipAsAkulitena BramatA#}
 [Page2-0326]
-
-<ls>PAÑCAT. 255, 15. 142, 12</ls> (lies {#kutracit#} st. {#kutracitaM#}). Mit einer vorang. Neg. {%nirgends, nirgendswohin%}: {#asureByo BayaM nAsti yuzmAkaM kutracitkvacit#} 
-<ls>MBH. 3, 10953.</ls> {#ahaM tvatsakASAdAgatA na kutracidapi nirgatA#} 
-<ls>PAÑCAT. 36, 22.</ls> 
-<div n="2">— c) {#kutracit - kutracit#} {%in einem Falle - im andern Falle, bisweilen - bisweilen%}: {#viSizwaM kutracidvIjaM strIyonistveva kutracit#} 
-<ls>M. 9, 34.</ls> 
-<div n="2">— d) {#yatra kutra ca#} {%bei wem, er mag dieser%} oder {%jener sein%}: {#yatroBayaM kutra ca so 'pyamaNgalaH#} 
-<ls>BHĀG. P. 8, 8, 22.</ls> 
-<div n="2">— e) {#yatra kutracit#} {%wo es auch sei, hier oder dort%} 
-<ls>Schol.</ls> zu <ls>KAP. 1, 69.</ls> 
+<ls>PAÑCAT. 255,15. 142,12</ls> (lies {#kutracit#} st. {#kutracitaM#}). Mit einer vorang. Neg. {%nirgends, nirgendswohin%}: {#asureByo BayaM nAsti yuzmAkaM kutracitkvacit#}
+<ls>MBH. 3,10953.</ls> {#ahaM tvatsakASAdAgatA na kutracidapi nirgatA#}
+<ls>PAÑCAT. 36,22.</ls>
+<div n="2">— c) {#kutracit — kutracit#} {%in einem Falle — im andern Falle, bisweilen — bisweilen%}: {#viSizwaM kutracidvIjaM strIyonistveva kutracit#}
+<ls>M. 9,34.</ls>
+<div n="2">— d) {#yatra kutra ca#} {%bei wem, er mag dieser%} oder {%jener sein%}: {#yatroBayaM kutra ca so 'pyamaNgalaH#}
+<ls>BHĀG. P. 8,8,22.</ls>
+<div n="2">— e) {#yatra kutracit#} {%wo es auch sei, hier oder dort%}
+<ls>Schol.</ls> zu <ls>KAP. 1,69.</ls>
 <div n="v">— Vgl. {#akutrA#} .
 <LEND>

@@ -1,12 +1,12 @@
 <L>20579<pc>538-a<k1>noun<k2>noun
-<div n="lb"/>NOUN¦, {%s.%} {#nAma#} {%n.%} {#(n), viSezyaM, saMjYA, sattvaM, dravyavAcakaH, padArTavAcakaH,#}
-<div n="lb"/>{#AKyA, SabdaH, saNketaSabdaH;#} ‘noun of action,’ {#kArakaH, kriyA;#}
-<div n="lb"/>of agency, {#karttfvAcyaM;#} ‘animate,’ {#prARivAcakaH;#} ‘abstract,’
-<div n="lb"/>{#BAvavAcakaH;#} ‘collective,’ {#saNGavAcakaH;#} ‘communicative,’ {#apA-#}
-<div n="lb"/>{#dAnavAcyaM;#} ‘denominative,’ {#kriyAvAcakaH;#} ‘ending in a vowel,’
-<div n="lb"/>{#ajantaH;#} ‘gentile,’ {#jAtivAcakaH;#} ‘inanimate,’ {#aprARivAcakaH;#}
-<div n="lb"/>‘instrumental,’ {#kAraRavAcyaM;#} ‘inflected, or of any case,’ {#kArakaM;#}
-<div n="lb"/>‘passive,’ {#karmmavAcakaH, karmmaRivAcyaSabdaH, sampradAnavAcyaM;#} ‘posses-
-<div n="lb"/>sive,’ {#aDikaraRavAcyaM;#} ‘proper,’ {#nAmavAcakaH;#} ‘simple,’ {#BAvavAcyaM,#}
-<div n="lb"/>{#liNgaM;#} ‘verbal,’ {#kriyAvAcakaH#}.
+NOUN¦, {%s.%} {#nAma#} {%n.%} {#(n), viSezyaM, saMjYA, sattvaM, dravyavAcakaH, padArTavAcakaH,#}
+{#AKyA, SabdaH, saNketaSabdaH;#} ‘noun of action,’ {#kArakaH, kriyA;#}
+of agency, {#karttfvAcyaM;#} ‘animate,’ {#prARivAcakaH;#} ‘abstract,’
+{#BAvavAcakaH;#} ‘collective,’ {#saNGavAcakaH;#} ‘communicative,’ {#apA-#}
+{#dAnavAcyaM;#} ‘denominative,’ {#kriyAvAcakaH;#} ‘ending in a vowel,’
+{#ajantaH;#} ‘gentile,’ {#jAtivAcakaH;#} ‘inanimate,’ {#aprARivAcakaH;#}
+‘instrumental,’ {#kAraRavAcyaM;#} ‘inflected, or of any case,’ {#kArakaM;#}
+‘passive,’ {#karmmavAcakaH, karmmaRivAcyaSabdaH, sampradAnavAcyaM;#} ‘posses-
+sive,’ {#aDikaraRavAcyaM;#} ‘proper,’ {#nAmavAcakaH;#} ‘simple,’ {#BAvavAcyaM,#}
+{#liNgaM;#} ‘verbal,’ {#kriyAvAcakaH#}.
 <LEND>

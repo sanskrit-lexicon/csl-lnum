@@ -1,5 +1,5 @@
 <L>22450<pc>708<k1>thinness<k2>thinness
-<div n="lb"/>{@THINNESS:@}¦ <div n="1">(1) {#tanutA:#} v. Slenderness; </div><div n="1">(2)
-<div n="lb"/>{#sUkzmatA:#} v. Fineness; </div><div n="1">(3) {#viralatA#} <div n="xe">{%or%}</div> <div n="xs">{#vEralyam#}</div>
-<div n="lb"/>(= scarcity).</div>
+{@THINNESS:@}¦ <div n="1">(1) {#tanutA:#} v. Slenderness; </div><div n="1">(2)
+{#sUkzmatA:#} v. Fineness; </div><div n="1">(3) {#viralatA#} <div n="xe">{%or%}</div> <div n="xs">{#vEralyam#}</div>
+(= scarcity).</div>
 <LEND>

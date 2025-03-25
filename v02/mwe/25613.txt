@@ -1,11 +1,11 @@
 <L>25613<pc>695-b<k1>roar<k2>roar
-<div n="lb"/>ROAR¦, ROARING, {%s.%} (Loud continued sound) {#garjanaM -nA, garjitaM,#}
-<div n="lb"/>{#parigarjanaM, nardanaM, narditaM, rAvaH, virAvaH, dIrGaDvaniH#} {%m.,%} {#dIrGarAvaH,#}
-<div n="lb"/>{#dIrGarutaM, dIrGanirGozaH, rAsaH, hamBA, hamBArAvaH, GanaDvaniH#} {%m.,%} {#gamBI-#}
-<div n="lb"/>{#raSabdaH, gamBIraDvaniH#} {%m.,%} {#huNkAraH, huNkutaM, huNkftiH#} {%f.,%} {#sUtkAraH, cukkAraH,#}
-<div n="lb"/>{#GarDaritaM#}. — (Crying out) {#nAdaH, utkroSaH, citkAraH, cItkAraH, GozaH,#}
-<div n="lb"/>{#nirGozaH, udGozaH, utkruzwaM, vikruzwaM, kzveqitaM, prakzveqitaM#}. — (Of a lion)
-<div n="lb"/>{#siMhanAdaH -dakaH, siMhaDvaniH#} {%m.,%} {#siMhanardaH -rdanaM#}. — (Of the clouds)
-<div n="lb"/>{#meGanirGozaH, GanaDvaniH#} {%m.,%} {#meGanAdaH, meGagarjanaM, GanaSabdaH, GanasvanaH#}.
-<div n="lb"/> — (Of the sea) {#samudranAdaH, mahArRavasvanaH#}.
+ROAR¦, ROARING, {%s.%} (Loud continued sound) {#garjanaM -nA, garjitaM,#}
+{#parigarjanaM, nardanaM, narditaM, rAvaH, virAvaH, dIrGaDvaniH#} {%m.,%} {#dIrGarAvaH,#}
+{#dIrGarutaM, dIrGanirGozaH, rAsaH, hamBA, hamBArAvaH, GanaDvaniH#} {%m.,%} {#gamBI-#}
+{#raSabdaH, gamBIraDvaniH#} {%m.,%} {#huNkAraH, huNkutaM, huNkftiH#} {%f.,%} {#sUtkAraH, cukkAraH,#}
+{#GarDaritaM#}. — (Crying out) {#nAdaH, utkroSaH, citkAraH, cItkAraH, GozaH,#}
+{#nirGozaH, udGozaH, utkruzwaM, vikruzwaM, kzveqitaM, prakzveqitaM#}. — (Of a lion)
+{#siMhanAdaH -dakaH, siMhaDvaniH#} {%m.,%} {#siMhanardaH -rdanaM#}. — (Of the clouds)
+{#meGanirGozaH, GanaDvaniH#} {%m.,%} {#meGanAdaH, meGagarjanaM, GanaSabdaH, GanasvanaH#}.
+ — (Of the sea) {#samudranAdaH, mahArRavasvanaH#}.
 <LEND>

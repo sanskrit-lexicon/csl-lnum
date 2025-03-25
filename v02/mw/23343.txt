@@ -1,12 +1,12 @@
 <L>23343<pc>134,2<k1>Atan<k2>A-tan<e>1
-<s>A-√ tan</s> ¦ <ab>P.</ab> (2. <ab>sg.</ab> <s>-tanozi</s>; <ab>impf.</ab> <s>A/<srs/>tanot</s>; <ab>perf.</ab> <s>-tatAna</s>; <ab>p.</ab> <lex type="part">m.</lex> <ab>pl.</ab> <s>-tanva/ntas</s>; <ab>perf.</ab> <ab>p.</ab> <lex type="part">m.</lex> <ab>sg.</ab> <s>-tatanvA/n</s>) 
+<s>A-√ tan</s> ¦ <ab>P.</ab> (2. <ab>sg.</ab> <s>-tanozi</s>; <ab>impf.</ab> <s>A/<srs/>tanot</s>; <ab>perf.</ab> <s>-tatAna</s>; <ab>p.</ab> <lex type="part">m.</lex> <ab>pl.</ab> <s>-tanva/ntas</s>; <ab>perf.</ab> <ab>p.</ab> <lex type="part">m.</lex> <ab>sg.</ab> <s>-tatanvA/n</s>)
 <div n="to"/>to extend or stretch over, penetrate, spread, overspread (said of the light), illuminate, <ls>RV.</ls>;
 <div n="to"/> (<ab>perf.</ab> 2. <ab>sg.</ab> <s>-tata/nTa</s>) to seek to reach, <ls>RV. x, 1, 7</ls>;
 <div n="to"/>to be ready for, wait on (<ab>acc.</ab>), <ls>RV. v, 79, 3</ls>;
-<div n="to"/> (<ab>aor.</ab> <ab>Subj.</ab> <s>-tanat</s>) to stop any one, <ls>RV. i, 91, 23</ls> : <ab>P.</ab> <ab>Ā.</ab> (3. <ab>pl.</ab> <s>-tanvate</s>; <ab>perf.</ab> 1. <ab>sg.</ab> <s>-tatane</s>) 
+<div n="to"/> (<ab>aor.</ab> <ab>Subj.</ab> <s>-tanat</s>) to stop any one, <ls>RV. i, 91, 23</ls> : <ab>P.</ab> <ab>Ā.</ab> (3. <ab>pl.</ab> <s>-tanvate</s>; <ab>perf.</ab> 1. <ab>sg.</ab> <s>-tatane</s>)
 <div n="to"/>to extend (a texture), spread, stretch (a bow for shooting), <ls>RV.</ls>; <ls>AV.</ls> &c.:
 <div n="to"/><ab>P.</ab> to diffuse;
 <div n="to"/>to bestow upon, <ls>RV.</ls>; <ls>BhP.</ls> &c.;
 <div n="to"/>to effect, produce, <ls>Hariv. 4635</ls>; <ls>BhP.</ls> &c.:
-<div n="to"/><ab>Caus.</ab> (<ab>Impv.</ab> 2. <ab>sg.</ab> <s>-tAnayA</s>) to stretch, <ls>AV.</ls><info verb="pre" cp="PĀ" parse="A+tan"/>
+<div n="vp"/><ab>Caus.</ab> (<ab>Impv.</ab> 2. <ab>sg.</ab> <s>-tAnayA</s>) to stretch, <ls>AV.</ls><info verb="pre" cp="PĀ" parse="A+tan"/>
 <LEND>

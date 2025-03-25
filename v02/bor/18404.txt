@@ -1,16 +1,16 @@
 <L>18404<pc>565<k1>question<k2>question
-<div n="lb"/>{@QUESTION@}¦ (subs.): <div n="I">I An interrogatory: </div><div n="1">(1)
-<div n="lb"/>{#praSnaH#} (best equiv.), {%unless you explain (my) q.s.:%}
-<div n="lb"/>{#na cet praSnan vyAkarozi,#} Mah. iii. 313. 22.; <div n="xe">{%to%}
-<div n="lb"/>{%reply q. s.:%}</div> <div n="xs">{#praSnAn vakti,#}</div> 30, {#bravIti,#} D. vi., etc.;</div>
-<div n="lb"/><div n="1">(2) {#pfcCA, saM-, pari-;#} </div><div n="1">(3) {#anuyoga, pari-,#} </div><div n="I">II
-<div n="lb"/>Doubt: q. v.: {#sandehaH,#} <div n="xe">{%without q., out of the q.,%}
-<div n="lb"/>{%past q.:%}</div> <div n="xs">{#asaMSayam:#}</div> v. Undoubtedly, </div><div n="I">III
-<div n="lb"/>Debate, dispute: expr. by {#prazwavya#} (f. {#vyA#}),
-<div n="lb"/><div n="xe">{%here the q. is:%}</div> <div n="xs">{#atredaM prazwavyam.#}</div> ({#atra.... iti sandi-#}
-<div n="lb"/>{#hyate#} = doubted), S. i. 3. 1., {%To put to q.:%}
-<div n="lb"/>{#pfcCatiH:#} v. To ask. </div><div n="I">IV Examination, inves-
-<div n="lb"/>-tigation: q. v.: {#parIkzA:#} </div><div n="I">V Torture: q. v.</div>
-<div n="lb"/><div n="I">VI Theme of enquiry: {#vivAdavizayaH, vivAda-#}
-<div n="lb"/>{#padam,#} and sim. comp.s.</div>
+{@QUESTION@}¦ (subs.): <div n="I">I An interrogatory: </div><div n="1">(1)
+{#praSnaH#} (best equiv.), {%unless you explain (my) q.s.:%}
+{#na cet praSnan vyAkarozi,#} Mah. iii. 313. 22.; <div n="xe">{%to%}
+{%reply q. s.:%}</div> <div n="xs">{#praSnAn vakti,#}</div> 30, {#bravIti,#} D. vi., etc.;</div>
+<div n="1">(2) {#pfcCA, saM-, pari-;#} </div><div n="1">(3) {#anuyoga, pari-,#} </div><div n="I">II
+Doubt: q. v.: {#sandehaH,#} <div n="xe">{%without q., out of the q.,%}
+{%past q.:%}</div> <div n="xs">{#asaMSayam:#}</div> v. Undoubtedly, </div><div n="I">III
+Debate, dispute: expr. by {#prazwavya#} (f. {#vyA#}),
+<div n="xe">{%here the q. is:%}</div> <div n="xs">{#atredaM prazwavyam.#}</div> ({#atra.... iti sandi-#}
+{#hyate#} = doubted), S. i. 3. 1., {%To put to q.:%}
+{#pfcCatiH:#} v. To ask. </div><div n="I">IV Examination, inves-
+-tigation: q. v.: {#parIkzA:#} </div><div n="I">V Torture: q. v.</div>
+<div n="I">VI Theme of enquiry: {#vivAdavizayaH, vivAda-#}
+{#padam,#} and sim. comp.s.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>12458<pc>386<k1>intemperance<k2>intemperance
-<div n="lb"/>{@INTEMPERANCE:@}¦ <div n="I">I Incontinence: {#asaMyamaH.#} </div><div n="I">II
-<div n="lb"/>In drink: {#atipAnam.#} </div><div n="I">III In. eating: {#atyAhAraH#}</div>
-<div n="lb"/><div n="I">IV Excess: {#atiBogaH#} (?).</div>
+{@INTEMPERANCE:@}¦ <div n="I">I Incontinence: {#asaMyamaH.#} </div><div n="I">II
+In drink: {#atipAnam.#} </div><div n="I">III In. eating: {#atyAhAraH#}</div>
+<div n="I">IV Excess: {#atiBogaH#} (?).</div>
 <LEND>

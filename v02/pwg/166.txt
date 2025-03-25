@@ -1,19 +1,18 @@
 <L>166<pc>1-0013<k1>akza<k2>akza/<h>1
-1. {#akza/#}¦ <lex>m.</lex> {%Würfel zum Spielen%} 
-<ls>ŚĀNT. 2, 12.</ls> 
-<ls>P. 6, 2, 2,</ls> 
-<ls>Sch.</ls> 
-<ls>UṆ. 3, 65.</ls> <ls>AK. 2, 10, 45. 3, 4, 224.</ls> <ls>H. 486.</ls> <ls>an. 2, 556.</ls> <ls>MED. ṣ. 2.</ls> <ls>HĀR. 171.</ls> {#pIvA^naM me\zama^pacanta vI\rA nyu^ptA a\kzA anu^ dI\va A^san#} 
-<ls>ṚV. 10, 27, 17.</ls>
+1. {#akza/#}¦ <lex>m.</lex> {%Würfel zum Spielen%}
+<ls>ŚĀNT. 2,12.</ls>
+<ls>P. 6,2,2</ls>, <ls>Sch.</ls>
+<ls>UṆ. 3,65.</ls> <ls>AK. 2,10,45.</ls> <ls n="AK.">3,4,224.</ls> <ls>H. 486.</ls> <ls n="H. an.">an. 2,556.</ls> <ls>MED. ṣ. 2.</ls> <ls>HĀR. 171.</ls> {#pIvA^naM me\zama^pacanta vI\rA nyu^ptA a\kzA anu^ dI\va A^san#}
+<ls>ṚV. 10,27,17.</ls>
 <F>*
-<ls>ṚV. 10, 34.</ls> enthält das sogenannte {%Würfellied%} ({#akzasUkta#} 
-<ls>NIR. 7, 3.</ls>), in welchem ein Spieler seine Leidenschaft ergreifend schildert.</F> {#a\kzA~ i^va Sva\GnI ni mi^noti\ tAni^ (varuRaH)#} 
-<ls>AV. 4, 16, 5.</ls> {#yA a\kzezu\ pra\moda^nte (apsarasaH)#} 
-<ls>4, 38, 3.</ls> {#a\kzezu^ kf\tyAM yAM ca\kruH#} 
-<ls>5, 31, 6.</ls> {#yaTA^ vf\kzama\Sani^rvi\SvAhA\ hatnya^pra\ti . e\vAhama\dya ki^ta\vA~ a\kzErba^DyAsamapra\ti ..#} 
-<ls>7, 50, 1.</ls> {#akzA\H Pala^vatI\M dyuva^M da\tta gAM kzI\riRI^miva . saM mA^ kf\tasya\ DAra^yA\ Danu\H snAvne^va nahyata ..#} 
-<ls>7, 50, 9.</ls> {#i\damu\grAya^ ba\Brave\ namo\ yo a\kzezu^tanUva\SI . Gf\tena\ kali^M SikzAmi\ sa no^ mfqAtI\dfSe^#} 
-<ls>7, 110, 1.</ls> <ls>M. 4, 74. 7, 47. 50.</ls> Ueber die Anwendung von 5 Würfeln beim Opfer s. 
-<ls>KĀTY.</ls> zu <ls>VS. 10, 28.</ls> Vgl. auch noch {#a/kza#} 
-<ls>?7. 8. SĀYAṆA zu ŚAT. BR. 5, 4, 1, 6. in Ind. St. I, 285, N. und ROTH in Z. d. d. m. G. II, 122.</ls>
+<ls>ṚV. 10,34.</ls> enthält das sogenannte {%Würfellied%} ({#akzasUkta#}
+<ls>NIR. 7,3.</ls>), in welchem ein Spieler seine Leidenschaft ergreifend schildert.</F> {#a\kzA~ i^va Sva\GnI ni mi^noti\ tAni^ (varuRaH)#}
+<ls>AV. 4,16,5.</ls> {#yA a\kzezu\ pra\moda^nte (apsarasaH)#}
+<ls n="AV.">4,38,3.</ls> {#a\kzezu^ kf\tyAM yAM ca\kruH#}
+<ls n="AV.">5,31,6.</ls> {#yaTA^ vf\kzama\Sani^rvi\SvAhA\ hatnya^pra\ti . e\vAhama\dya ki^ta\vA~ a\kzErba^DyAsamapra\ti ..#}
+<ls n="AV.">7,50,1.</ls> {#akzA\H Pala^vatI\M dyuva^M da\tta gAM kzI\riRI^miva . saM mA^ kf\tasya\ DAra^yA\ Danu\H snAvne^va nahyata ..#}
+<ls n="AV.">7,50,9.</ls> {#i\damu\grAya^ ba\Brave\ namo\ yo a\kzezu^tanUva\SI . Gf\tena\ kali^M SikzAmi\ sa no^ mfqAtI\dfSe^#}
+<ls n="AV.">7,110,1.</ls> <ls>M. 4,74.</ls> <ls n="M.">7,47.</ls> <ls n="M. 7,">50.</ls> Ueber die Anwendung von 5 Würfeln beim Opfer s.
+<ls>KĀTY.</ls> zu <ls>VS. 10,28.</ls> Vgl. auch noch {#a/kza#}
+<ls n="VS.">7. 8.</ls> <ls>SĀYAṆA</ls> zu <ls>ŚAT. BR. 5,4,1,6.</ls> in <ls>Ind. St. I,285, N.</ls> und <ls>ROTH</ls> in <ls>Z. d. d. m. G. II,122.</ls>
 <LEND>

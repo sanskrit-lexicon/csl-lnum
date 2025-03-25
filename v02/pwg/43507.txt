@@ -1,69 +1,69 @@
 <L>43507<pc>4-0576<k1>paryanta<k2>paryanta/<h>1
-1. {#paryanta/#}¦ ({#pari + anta#}) <lex>m.</lex> 
-<ls>P. 6, 2, 180,</ls> 
-<ls>Sch.</ls> {%Umgrenzung, Grenze, Umkreis, Umgebung, Saum, Rand; Ende%} 
-<ls>HALĀY. 2, 104.</ls> {#nAnto\ na pa^rya\nto^ 'sti#} 
-<ls>TBR. 2, 1, 11, 1.</ls> {#nadIvizayaparyante#} 
-<ls>MBH. 1, 3730.</ls> {#sAgarasya ca paryante#} 
-<ls>13, 5225.</ls> <ls>SUŚR. 1, 56, 4.</ls> {#ozWa°#} 
-<ls>HALĀY. 2, 365.</ls> {#raktaparyante netre#} 
-<ls>R. 3, 55, 11.</ls> {#°raktAkza#} 
-<ls>6, 20, 11.</ls> {#kusumalavacCuritaparyantaM paryaNkatale#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 198,17.</ls> <ls>VARĀH. BṚH. S.5,47. 52. 27,c,15.</ls> <ls>PRAB. 79,17.</ls> <ls>PAÑCAT. 10,8.</ls> {#°saMsTitasitARqajapaNktihArAH (nadyaH)#} 
-<ls>ṚT. 3, 3.</ls> {#kzuraparyantaM cakram#} {%dessen Rand ein Scheermesser ist%} 
-<ls>MBH. 1, 8268.</ls> {#(candramAH) kfzRaraktAMSuparyantaH#} 
-<ls>R. 6, 16, 8.</ls> 
-<ls>SUŚR. 1, 87, 15.</ls> {#gfhe °sTe#} {%angrenzend, benachbart%} 
-<ls>Spr. 881.</ls> {#yaH kftsnAmawavImetAM paryantasTo 'Birakzati#} 
-<ls>KATHĀS. 29, 135.</ls> 
-<ls>RAGH. 18, 42.</ls> 
-<ls>RATNĀV. 27, 9.</ls> {#°deSa#} {%die angrenzende, benachbarte Gegend%} 
-<ls>HARIV. 7041.</ls> {#°BU#} 
-<ls>AK. 2, 1, 14.</ls> 
-<ls>H. 963.</ls> {#°parvata#} 
-<ls>1034.</ls> {#°niculAH#} 
-<ls>VARĀH. BṚH. S. 55, 5.</ls> 
-<ls>R. 4, 13, 13.</ls> 
-<ls>RAGH. 13, 38.</ls> 
-<ls>Spr. 923.</ls> {#paryanto laByate BUmeH samudrasya girerapi#} 
-<ls>PAÑCAT. I, 141.</ls> {#paryantAtparyantaM daSa (aNgulAni BruvoH)#} {%von einem Ende zum andern%} 
-<ls>VARĀH. BṚH. S. 58, 12.</ls> {#kftaSca kAlaparyantaH#} {%die Grenze —, das Ende der festgesetzten Zeit%} 
-<ls>R. 4, 49, 7.</ls> {#kleSasya#} 
-<ls>PAÑCAT. 261, 16.</ls> {#javasya#} {%Grenze%} 
-<ls>VID. 22.</ls> {#avicAritaparyantaM pApam#} 
-<ls>KATHĀS. 42, 114.</ls> {#paryante#} {%am Ende%} 
-<ls>32, 93.</ls> <ls>RĀJA-TAR. 1, 152. 3, 393.</ls> {#manTaparyantalabDa#} {%am Ende der Quirlung%} 
-<ls>KATHĀS. 46, 223.</ls>
+1. {#paryanta/#}¦ ({#pari + anta#}) <lex>m.</lex>
+<ls>P. 6,2,180</ls>, <ls>Sch.</ls>
+{%Umgrenzung, Grenze, Umkreis, Umgebung, Saum, Rand; Ende%}
+<ls>HALĀY. 2,104.</ls> {#nAnto\ na pa^rya\nto^ 'sti#}
+<ls>TBR. 2,1,11,1.</ls> {#nadIvizayaparyante#}
+<ls>MBH. 1,3730.</ls> {#sAgarasya ca paryante#}
+<ls n="MBH.">13,5225.</ls> <ls>SUŚR. 1,56,4.</ls> {#ozWa°#}
+<ls>HALĀY. 2,365.</ls> {#raktaparyante netre#}
+<ls>R. 3,55,11.</ls> {#°raktAkza#}
+<ls n="R.">6,20,11.</ls> {#kusumalavacCuritaparyantaM paryaNkatale#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 198,17.</ls> <ls>VARĀH. BṚH. S. 5,47. 52. 27,c,15.</ls> <ls>PRAB. 79,17.</ls> <ls>PAÑCAT. 10,8.</ls> {#°saMsTitasitARqajapaNktihArAH (nadyaH)#}
+<ls>ṚT. 3,3.</ls> {#kzuraparyantaM cakram#} {%dessen Rand ein Scheermesser ist%}
+<ls>MBH. 1,8268.</ls> {#(candramAH) kfzRaraktAMSuparyantaH#}
+<ls>R. 6,16,8.</ls>
+<ls>SUŚR. 1,87,15.</ls> {#gfhe °sTe#} {%angrenzend, benachbart%}
+<ls>Spr. 881.</ls> {#yaH kftsnAmawavImetAM paryantasTo 'Birakzati#}
+<ls>KATHĀS. 29,135.</ls>
+<ls>RAGH. 18,42.</ls>
+<ls>RATNĀV. 27,9.</ls> {#°deSa#} {%die angrenzende, benachbarte Gegend%}
+<ls>HARIV. 7041.</ls> {#°BU#}
+<ls>AK. 2,1,14.</ls>
+<ls>H. 963.</ls> {#°parvata#}
+<ls n="H.">1034.</ls> {#°niculAH#}
+<ls>VARĀH. BṚH. S. 55,5.</ls>
+<ls>R. 4,13,13.</ls>
+<ls>RAGH. 13,38.</ls>
+<ls>Spr. 923.</ls> {#paryanto laByate BUmeH samudrasya girerapi#}
+<ls>PAÑCAT. I,141.</ls> {#paryantAtparyantaM daSa (aNgulAni BruvoH)#} {%von einem Ende zum andern%}
+<ls>VARĀH. BṚH. S. 58,12.</ls> {#kftaSca kAlaparyantaH#} {%die Grenze —, das Ende der festgesetzten Zeit%}
+<ls>R. 4,49,7.</ls> {#kleSasya#}
+<ls>PAÑCAT. 261,16.</ls> {#javasya#} {%Grenze%}
+<ls>VID. 22.</ls> {#avicAritaparyantaM pApam#}
+<ls>KATHĀS. 42,114.</ls> {#paryante#} {%am Ende%}
+<ls n="KATHĀS.">32,93.</ls> <ls>RĀJA-TAR. 1,152. 3,393.</ls> {#manTaparyantalabDa#} {%am Ende der Quirlung%}
+<ls>KATHĀS. 46,223.</ls>
 [Page4-0577]
-{#vizRumavijYAtaparyantam#} 
-<ls>VARĀH. BṚH. S. 42, (43), 4.</ls> {#anAdimaDyaparyanta#} <lex>adj.</lex> 
-<ls>MBH. 13, 785.</ls> {#aparyanta/#} {%unbegrenzt, endlos%} 
-<ls>ŚAT. BR. 10, 1, 5, 4. 14, 9, 1, 10.</ls> 
-<ls>MBH. 1, 796. 2, 578. 7, 2328. 4416. 14, 2666.</ls> 
-<ls>R. 6, 1, 17.</ls> Am Ende eines <lex>adj.</lex> comp. nach einem Worte, das {%die Grenze, das Ende%} angiebt: {#pfTivI samudraparyantA#} {%das Meer zur Grenze habend, bis zum Meere reichend%} 
-<ls>AIT. BR. 8, 15.</ls> 
-<ls>MBH. 1, 2472. 4, 629. 14, 818.</ls> 
-<ls>PAÑCAT. 223, 3.</ls> {#zoqaSAkzara°#} 
-<ls>ṚV. PRĀT. 17, 28.</ls> {#paYcadaSa°#} 
-<ls>KĀTY. ŚR. 6, 1, 31. 23, 1, 3.</ls> 
-<ls>ŚĀṄKH. ŚR. 11, 1, 3. 15, 3, 2.</ls> 
-<ls>NIR. 1, 1. 12, 5. 14, 4</ls> <ls>?(= BHAG. 8, 17).</ls> {#sa eza nimezAdiyugaparyantaH#} 
-<ls>SUŚR. 1, 19, 20.</ls> 
-<ls>SĀṂKHYAK. 40. 54. 56.</ls> 
-<ls>BHĀṢĀP. 43.</ls> 
-<ls>PAÑCAT. I, 422.</ls> <ls>Schol.</ls> zu <ls>P. 4, 1, 18. 7, 2, 91.</ls> {#tasilAdayastadDitA eDAcparyantAH#} <is>gaṇa</is> {#svarAdi#} zu 
-<ls>P. 1, 1, 37.</ls> {#BavatsaMvAdaparyantaH SApo 'yamaBavacca me#} 
-<ls>KATHĀS. 14, 86.</ls> {#anekaguRa° (vimAnavara)#} so v. a. {%mit einer Menge von guten Eigenschaften versehen%} 
-<ls>MBH. 13, 5305.</ls> {#°paryantam#} {%bis an's Ende von, bis auf%} 
-<ls>KAP. 3, 47</ls> (vgl. 
-<ls>SĀṂKHYAK. 54</ls>). {#tvadrAjyakAla°#} 
-<ls>KATHĀS. 50, 53.</ls> {#kiM mama vacanaM paryavasAnaparyantamavagataM yuzmABiH#} 
-<ls>HIT. 116, 20.</ls> {#goH pratyarpaRaparyantaM yaH kAryaM karoti#} 
-<ls>Sch.</ls> zu <ls>P. 5, 2, 14.</ls> {#agnigranTaparyantamaDIte#} 
-<ls>Sch.</ls> zu <ls>P. 2, 1, 6.</ls> <ls>VOP. 6, 61.</ls> {#SroturarTapratipatti°#} 
-<ls>Schol.</ls> zu <ls>JAIM. 1, 18.</ls> {#antaHpura°#} 
-<ls>KATHĀS. 40, 67.</ls> Im comp. ohne Flexionszeichen: {#SravaRapaTaparyantagamana#} 
-<ls>GĪT. 11, 32.</ls> {#janmaparyantasTAyin#} 
-<ls>Sch.</ls> zu <ls>KAP. 1, 33.</ls> 
+{#vizRumavijYAtaparyantam#}
+<ls>VARĀH. BṚH. S. 42, (43),4.</ls> {#anAdimaDyaparyanta#} <lex>adj.</lex>
+<ls>MBH. 13,785.</ls> {#aparyanta/#} {%unbegrenzt, endlos%}
+<ls>ŚAT. BR. 10,1,5,4.</ls> <ls n="ŚAT. BR.">14,9,1,10.</ls>
+<ls>MBH. 1,796.</ls> <ls n="MBH.">2,578.</ls> <ls n="MBH.">7,2328.</ls> <ls n="MBH. 7,">4416.</ls> <ls n="MBH.">14,2666.</ls>
+<ls>R. 6,1,17.</ls> Am Ende eines <lex>adj.</lex> comp. nach einem Worte, das {%die Grenze, das Ende%} angiebt: {#pfTivI samudraparyantA#} {%das Meer zur Grenze habend, bis zum Meere reichend%}
+<ls>AIT. BR. 8,15.</ls>
+<ls>MBH. 1,2472.</ls> <ls n="MBH.">4,629.</ls> <ls n="MBH.">14,818.</ls>
+<ls>PAÑCAT. 223,3.</ls> {#zoqaSAkzara°#}
+<ls>ṚV. PRĀT. 17,28.</ls> {#paYcadaSa°#}
+<ls>KĀTY. ŚR. 6,1,31.</ls> <ls n="KĀTY. ŚR.">23,1,3.</ls>
+<ls>ŚĀṄKH. ŚR. 11,1,3. 15,3,2.</ls>
+<ls>NIR. 1,1. 12,5. 14,4</ls> (= <ls>BHAG. 8,17).</ls> {#sa eza nimezAdiyugaparyantaH#}
+<ls>SUŚR. 1,19,20.</ls>
+<ls>SĀṂKHYAK. 40. 54. 56.</ls>
+<ls>BHĀṢĀP. 43.</ls>
+<ls>PAÑCAT. I,422.</ls> <ls>Schol.</ls> zu <ls>P. 4,1,18.</ls> <ls n="P.">7,2,91.</ls> {#tasilAdayastadDitA eDAcparyantAH#} <is>gaṇa</is> {#svarAdi#} zu
+<ls>P. 1,1,37.</ls> {#BavatsaMvAdaparyantaH SApo 'yamaBavacca me#}
+<ls>KATHĀS. 14,86.</ls> {#anekaguRa° (vimAnavara)#} so v. a. {%mit einer Menge von guten Eigenschaften versehen%}
+<ls>MBH. 13,5305.</ls> {#°paryantam#} {%bis an's Ende von, bis auf%}
+<ls>KAP. 3,47</ls> (vgl.
+<ls>SĀṂKHYAK. 54</ls>). {#tvadrAjyakAla°#}
+<ls>KATHĀS. 50,53.</ls> {#kiM mama vacanaM paryavasAnaparyantamavagataM yuzmABiH#}
+<ls>HIT. 116,20.</ls> {#goH pratyarpaRaparyantaM yaH kAryaM karoti#}
+<ls>Sch.</ls> zu <ls>P. 5,2,14.</ls> {#agnigranTaparyantamaDIte#}
+<ls>Sch.</ls> zu <ls>P. 2,1,6.</ls> <ls>VOP. 6,61.</ls> {#SroturarTapratipatti°#}
+<ls>Schol.</ls> zu <ls>JAIM. 1,18.</ls> {#antaHpura°#}
+<ls>KATHĀS. 40,67.</ls> Im comp. ohne Flexionszeichen: {#SravaRapaTaparyantagamana#}
+<ls>GĪT. 11,32.</ls> {#janmaparyantasTAyin#}
+<ls>Sch.</ls> zu <ls>KAP. 1,33.</ls>
 <div n="v">— Vgl. {#nizparyanta, netra°#} .
 <LEND>

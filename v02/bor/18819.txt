@@ -1,10 +1,10 @@
 <L>18819<pc>580<k1>reflected<k2>reflected
-<div n="lb"/>{@REFLECTED, TO BE:@}¦ <div n="1">(1) {#pratiPalati#} ({#Pal,#} c. 1.),
-<div n="lb"/><div n="xe">{%being r. in the heart:%}</div> <div n="xs">{#hfdi pratiPalat,#}</div> N. iv. 13;
-<div n="lb"/><div n="xe">{%the rays being r. d:%}</div> <div n="xs">{#pratiPalati karOGe,#}</div> Si. xi. 58;</div>
-<div n="lb"/><div n="1">(2) {#pratibimbati#} (nomi.), <div n="xe">{%are r. like bordering%}
-<div n="lb"/>{%trees in a lake:%}</div> <div n="xs">{#pratibimbanti sarasIva tawadrumAH,#}</div> S.
-<div n="lb"/>p. b.; <div n="xe">{%as if the summit of the Kailāsa r. in the%}
-<div n="lb"/>{%nocturnal Yamunā:%}</div> <div n="xs">{#yAminIyamunAyAM pratibimbitamiva #}
-<div n="lb"/>{# kElAsaSiKaram,#}</div> </div><div n="I">V iii.</div>
+{@REFLECTED, TO BE:@}¦ <div n="1">(1) {#pratiPalati#} ({#Pal,#} c. 1.),
+<div n="xe">{%being r. in the heart:%}</div> <div n="xs">{#hfdi pratiPalat,#}</div> N. iv. 13;
+<div n="xe">{%the rays being r. d:%}</div> <div n="xs">{#pratiPalati karOGe,#}</div> Si. xi. 58;</div>
+<div n="1">(2) {#pratibimbati#} (nomi.), <div n="xe">{%are r. like bordering%}
+{%trees in a lake:%}</div> <div n="xs">{#pratibimbanti sarasIva tawadrumAH,#}</div> S.
+p. b.; <div n="xe">{%as if the summit of the Kailāsa r. in the%}
+{%nocturnal Yamunā:%}</div> <div n="xs">{#yAminIyamunAyAM pratibimbitamiva #}
+{# kElAsaSiKaram,#}</div> </div><div n="I">V iii.</div>
 <LEND>

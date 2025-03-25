@@ -1,17 +1,17 @@
-<L>96195<pc>5225-3<k1>liNga<k2>liNga<e>100
-{#liNga#}¦ <lex>n.</lex> (<lex>m.</lex> <ls>NṚS.UP.1,3</ls> in der <ls>Bibl.ind.</ls> ; <lex>adj.</lex> Comp. <lex>f.</lex> {#A#} , {#I#} in {#*vizRuliNgI#})
-<div n="1">— 1) {%Kennzeichen , Abzeichen , Merkmal , das Charakteristische%} , <lang n="greek">τεκμήριον</lang> ; daher {%Stichwort , Kennwort , Andeutung%} und desgl. {#indra°#} <lex>Adj.</lex> so v.a. {%an <is>Indra</is> gerichtet.%}
-<div n="1">— 2) {%ein angemaasstes , Einem nicht zukommendes Abzeichen , ein angenommenes äusseres Zeichen , durch welches man Andere zu täuschen beabsichtigt%}
-<div n="1">— 3) {%Beweismittel%} , <lang n="greek">τεκμήριον</lang> (<ls>ĀPAST.2,29,6</ls>), {%corpus delicti%} (<ls>Chr.212.14</ls>).
-<div n="1">— 4) {%Geschlechtszeichen , Geschlechtsglied.%}
-<div n="1">— 5) {%das grammatische Geschlecht.%}
-<div n="1">— 6) {%das göttlich verehrte Geschlechtsglied <is>Śiva</is>'s%} (<is>Rudra</is>'s) , {%<is>Śiva</is> in der Form eines Phallus.%}
-<div n="1">— 7) {%Götterbild.%}
-<div n="1">— 8) {%der feine Körper , das Urbild des groben , sichtbaren Körpers , das durch den Tod nicht vernichtet wird.%}
-<div n="1">— 9) {%etwas Entstandenes und daher wieder zu Nichte werdendes%} <ls>KAP.1,124.136.</ls>
-<div n="1">— 10) = {#AkASa#} <ls>KĀRAṆḌ.15,9.</ls>
-<div n="1">— 11) {%*der Urstoff.%}
-<div n="1">— 12) {%Nominalthema.%}
-<div n="1">— 13) = {#liNgapurARa#}.
-<div n="1">— 14) so v.a. {#talliNga#} <lex>Adj.</lex> {%solche Abzeichen habend%} <ls>KĀTY.ŚR.22,3,19.</ls>
+<L>96195<pc>5-225-c<k1>liNga<k2>liNga
+{#liNga#}¦ <lex>n.</lex> (<lex>m.</lex> <ls>NṚS. UP. 1,3</ls> in der <ls>Bibl. ind.</ls>; <ab>adj. Comp.</ab> <lex>f.</lex> {#A#}, {#I#} in *{#vizRuliNgI#})
+<div n="1">— 1〉 {%Kennzeichen, Abzeichen, Merkmal, das Charakteristische,%} <gk>τεϰμήριον</gk>; daher {%Stichwort, Kennwort, Andeutung%} und <ab>desgl.</ab> {#indra°#} <lex>Adj.</lex> so <ab>v. a.</ab> {%an%} <is>Indra</is> {%gerichtet%}.
+<div n="1">— 2〉 {%ein angemaasstes, Einem nicht zukommendes Abzeichen, ein angenommenes äusseres Zeichen, durch welches man Andere zu täuschen beabsichtigt%}.
+<div n="1">— 3〉 {%Beweismittel,%} <gk>τεϰμήριον</gk> (<ls>ĀPAST. 2,29,6</ls>), {%corpus delicti%} (<ls>Chr. 212,14</ls>).
+<div n="1">— 4〉 {%Geschlechtszeichen, Geschlechtsglied%}.
+<div n="1">— 5〉 {%das grammatische Geschlecht%}.
+<div n="1">— 6〉 {%das göttlich verehrte Geschlechtsglied%} <is>Śiva</is>ʼs (<is>Rudra</is>ʼs), <is>Śiva</is> {%in der Form eines Phallus%}.
+<div n="1">— 7〉 {%Götterbild%}.
+<div n="1">— 8〉 {%der feine Körper, das Urbild des groben, sichtbaren Körpers, das durch den Tod nicht vernichtet wird%}.
+<div n="1">— 9〉 {%etwas Entstandenes und daher wieder zu Nichte werdendes%} <ls>KAP. 1,124. 136</ls>.
+<div n="1">— 10〉 = {#AkASa#} <ls>KĀRAṆḌ. 15,9</ls>.
+<div n="1">— 11〉 *{%der Urstoff%}.
+<div n="1">— 12〉 {%Nominalthema%}.
+<div n="1">— 13〉 = {#liNgapurARa#}.
+<div n="1">— 14〉 so <ab>v. a.</ab> {#talliNga#} <lex>Adj.</lex> {%solche Abzeichen habend%} <ls>KĀTY. ŚR. 22,3,19</ls>.
 <LEND>

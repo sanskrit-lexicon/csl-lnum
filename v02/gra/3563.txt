@@ -1,10 +1,10 @@
-<L>3563<pc>0500<k1>jEtra<k2>jEtra
-{@jaitra,@}¦ a., <ab>n.</ab> [von 1. ji], 1) a., {%siegreich;%} 2) a., {%siegverleihend, zum Siege führend;%} 3) <ab>n.</ab>, {%Sieg.%}
-<div n="P1">-am [<ab>m.</ab>] 1) rátham {102,3}; {929,5}. — 2) krátum <lbinfo n="3"/> {862,10}.
-<div n="P1">-am [<ab>n.</ab>] 2) mánas {102,5}.
-<div n="P1">-āya 3) {635,13}; {823,3}.
-<div n="P1">-asya 1) (índrasya) {818,2}.
-<div n="P1">-ā [<ab>p.</ab> <ab>n.</ab>] 3) {635,3} (neben śravasíā).
-<div n="P1">-īm 2) sātím {111,3}.
-<div n="P1">-īs [<ab>N.</ab> <ab>p.</ab>] 2) uṣásas {265,4}.
+<L>3563<pc>0500<k1>jEtra<k2>jE/tra
+{@jaítra,@}¦ <ab>a.</ab>, <ab>n.</ab> [von <hom>1.</hom> ji], 1〉 <ab>a.</ab>, {%siegreich;%} 2〉 <ab>a.</ab>, {%siegverleihend, zum Siege führend;%} 3〉 <ab>n.</ab>, {%Sieg%}.
+<div n="TS">-am [<ab>m.</ab>] 1〉 rátham {102,3}; {929,5}. — 2〉 krátum {862,10}.
+<div n="TS">-am [<ab>n.</ab>] 2〉 mánas {102,5}.
+<div n="TS">-āya 3〉 {635,13}; {823,3}.
+<div n="TS">-asya 1〉 (índrasya) {818,2}.
+<div n="TS">-ā [<ab>p.</ab> <ab>n.</ab>] 3〉 {635,3} (neben śravasíā).
+<div n="TS">-īm 2〉 sātím {111,3}.
+<div n="TS">-īs [<ab>N.</ab> <ab>p.</ab>] 2〉 uṣásas {265,4}.
 <LEND>

@@ -1,9 +1,9 @@
 <L>17452<pc>534<k1>possible<k2>possible
-<div n="lb"/>{@POSSIBLE:@}¦ <div n="1">(1) {#Sakya#} (f. {#kyA#}), <div n="xe">{%should distinguish%}
-<div n="lb"/>{%the p. from the im-p.:%}</div> <div n="xs">{#SakyASakyaparicCedaM kuryAt,#}</div>
-<div n="lb"/>Ka. xi. 33.; </div><div n="1">(2) {#sADya#} (f. {#DyA#}): v. Im-p.
-<div n="lb"/><div n="xe">{%To be p.:%}</div> <div n="xs">{#samBavati#}</div> ({#BU,#} c. 1. may be,
-<div n="lb"/>may happen). <div n="xe">{%As far as p.:%}</div> <div n="xs">{#yAvacCaktitaH#}</div>
-<div n="lb"/>(with all might). {%Every p. means:%}
-<div n="lb"/>{#sarvopAyAH.#}</div>
+{@POSSIBLE:@}¦ <div n="1">(1) {#Sakya#} (f. {#kyA#}), <div n="xe">{%should distinguish%}
+{%the p. from the im-p.:%}</div> <div n="xs">{#SakyASakyaparicCedaM kuryAt,#}</div>
+Ka. xi. 33.; </div><div n="1">(2) {#sADya#} (f. {#DyA#}): v. Im-p.
+<div n="xe">{%To be p.:%}</div> <div n="xs">{#samBavati#}</div> ({#BU,#} c. 1. may be,
+may happen). <div n="xe">{%As far as p.:%}</div> <div n="xs">{#yAvacCaktitaH#}</div>
+(with all might). {%Every p. means:%}
+{#sarvopAyAH.#}</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>9935<pc>314<k1>glass<k2>glass
-<div n="lb"/>{@GLASS@}¦ (subs.): <div n="I">I The material: </div><div n="1">(1) {#kAcaH;#}</div>
-<div n="lb"/><div n="1">(2) {#sPawikaH#} (= crystal). </div><div n="I">II A mirror: q.v.:
-<div n="lb"/>{#darpaRaH.#} </div><div n="I">III A g. instrument: perh. {#kAcayantramH#}
-<div n="lb"/>v. Telescope, microscope, etc. </div><div n="I">IV A drink-
-<div n="lb"/>-ing. g.: {#cazaka#} (mn.) (= cup); <div n="xe">{%wine-g.:%}</div> <div n="xs">{#*kAca-#}
-<div n="lb"/>{#nirmitaM BadyapAnapAtram.#}</div> V. Glassware: {#*kAcapAtrARi#}
-<div n="lb"/>(n. pl.).</div>
+{@GLASS@}¦ (subs.): <div n="I">I The material: </div><div n="1">(1) {#kAcaH;#}</div>
+<div n="1">(2) {#sPawikaH#} (= crystal). </div><div n="I">II A mirror: q.v.:
+{#darpaRaH.#} </div><div n="I">III A g. instrument: perh. {#kAcayantramH#}
+v. Telescope, microscope, etc. </div><div n="I">IV A drink-
+-ing. g.: {#cazaka#} (mn.) (= cup); <div n="xe">{%wine-g.:%}</div> <div n="xs">{#*kAca-#}
+{#nirmitaM BadyapAnapAtram.#}</div> V. Glassware: {#*kAcapAtrARi#}
+(n. pl.).</div>
 <LEND>

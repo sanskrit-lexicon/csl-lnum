@@ -1,11 +1,11 @@
 <L>36277<pc>3-0886<k1>DarmajYa<k2>DarmajYa
-{#DarmajYa#}¦ ({#Darma + jYa#}) <lex>adj.</lex> {%gesetzeskundig, wissend was Recht ist%} 
-<ls>M. 7, 141. 209. 8, 179. 10, 127. 11, 120.</ls> 
-<ls>N. 11, 4. 24, 10.</ls> 
-<ls>R. 1, 1, 2. 36.</ls> 
-<ls>DAŚ. 2, 64.</ls> 
-<ls>VARĀH. BṚH. S. 15, 4.</ls> 
-<ls>BṚH. 19 (18), 6.</ls> <ls>HIT. 19, 3.</ls> {#DarmajYatama#} 
-<ls>R. GORR. 2, 112. 31.</ls> {#a°#} (zu streichen u. {#aDarma#}) 
-<ls>M. 8, 59.</ls>
+{#DarmajYa#}¦ ({#Darma + jYa#}) <lex>adj.</lex> {%gesetzeskundig, wissend was Recht ist%}
+<ls>M. 7,141.</ls> <ls n="M. 7,">209.</ls> <ls n="M.">8,179.</ls> <ls n="M.">10,127.</ls> <ls n="M.">11,120.</ls>
+<ls>N. 11,4.</ls> <ls n="N.">24,10.</ls>
+<ls>R. 1,1,2.</ls> <ls n="R. 1,1,">36</ls>
+<ls>DAŚ. 2,64.</ls>
+<ls>VARĀH. BṚH. S. 15,4.</ls>
+<ls>BṚH. 19 (18),6.</ls> <ls>HIT. 19,3.</ls> {#DarmajYatama#}
+<ls>R. GORR. 2,112,31.</ls> {#a°#} (zu streichen u. {#aDarma#})
+<ls>M. 8,59.</ls>
 <LEND>

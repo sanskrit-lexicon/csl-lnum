@@ -1,42 +1,42 @@
 <L>25059<pc>2-0982<k1>calana<k2>calana
-{#calana#}¦ (von 1. {#cal#}) 
-<div n="1"> 1) <lex>adj.</lex> oxyt. {%sich bewegend, beweglich u.s.w.%} 
-<ls>P. 3, 2, 148.</ls> 
-<ls>AK. 3, 2, 24.</ls> 
-<ls>TRIK. 3, 3, 239.</ls> 
-<ls>H. an. 3, 372</ls> (lies {#kampra#} st. {#kampa#}). 
-<ls>MED. n. 61.</ls> {#laGucalanagurutvEH#} 
-<ls>Sch.</ls> zu <ls>KAP. 1, 129.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%Fuss%} 
-<ls>H. 616.</ls> 
-<ls>H. an.</ls> 
-<div n="2">— b) {%Antilope%} 
-<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#I#} 
-<div n="2"> a) = {#vastraGarGarI#} 
-<ls>TRIK.</ls> <ls>H. an.</ls> = {#vastrayoDinI#} (?) 
-<ls>MED.</ls> {%ein Unterrock bei Frauen niederen Standes%} (vgl. {#calanaka#}) 
-<ls>H. 674.</ls> 
-<div n="2">— b) = {#vArIBeda#} 
-<ls>H. an.</ls> <ls>MED.</ls> {%ein Strick zum Binden der Elephanten%} 
-<ls>ŚKDR.</ls> <ls>WILS.</ls> 
-<div n="1">— 4) <lex>n.</lex> 
-<div n="2"> a) {%eine schwankende Bewegung, Bewegung, das Schwanken, Zittern; das Herumgehen%}, 
-<ls>TRIK.</ls> <ls>H. an.</ls> ({#kampa#}). 
-<ls>MED.</ls> ({#BramaRa#} und {#kampa#}). 
-<ls>P. 1, 3, 87. 3, 2, 148.</ls> {#SElarAjasya#} 
-<ls>R. 5, 36, 21.</ls> {#taraladfgaYcala°#} 
-<ls>GĪT. 11, 27.</ls> {#hanu°#} 
-<ls>P. 3, 1, 15, <is>Vārtt</is>.</ls> {#hastayoH#} 
-<ls>PAÑCAT. II, 174.</ls> {#jAnu°#} 
-<ls>252, 20.</ls> {#SarIra°#} 
-<ls>VEDĀNTAS. (Allah.) No. 83.</ls> {#prARaH - sarvasya calanaM karoti#} 
-<ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 29.</ls> {#calanAtmakaM karma#} 
-<ls>TARKASAM̃GR. 55.</ls> {#mokze prayARe calane pAnaBojanakAlayoH#} 
-<ls>MBH. 12, 3708.</ls> {#a°#} 
-<ls>PAÑCAT. 214, 16.</ls> Vgl. {#garBa°, BUmi°, aSvacalanaSAlA#} . 
-<div n="2">— b) {%das Abweichen von, Ablassen von%}: {#svaDarmAdDi manuzyARAM calanaM na praSasyate#} 
-<ls>MBH. 3, 1319.</ls> {#vyavasAyAdacalanaM DEryaM viGne mahatyapi#} 
+{#calana#}¦ (von 1. {#cal#})
+<div n="1"> 1) <lex>adj.</lex> oxyt. {%sich bewegend, beweglich u.s.w.%}
+<ls>P. 3,2,148.</ls>
+<ls>AK. 3,2,24.</ls>
+<ls>TRIK. 3,3,239.</ls>
+<ls>H. an. 3,372</ls> (lies {#kampra#} st. {#kampa#}).
+<ls>MED. n. 61.</ls> {#laGucalanagurutvEH#}
+<ls>Sch.</ls> zu <ls>KAP. 1,129.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) {%Fuss%}
+<ls>H. 616.</ls>
+<ls>H. an.</ls>
+<div n="2">— b) {%Antilope%}
+<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 3) <lex>f.</lex> {#I#}
+<div n="2"> a) = {#vastraGarGarI#}
+<ls>TRIK.</ls> <ls>H. an.</ls> = {#vastrayoDinI#} (?)
+<ls>MED.</ls> {%ein Unterrock bei Frauen niederen Standes%} (vgl. {#calanaka#})
+<ls>H. 674.</ls>
+<div n="2">— b) = {#vArIBeda#}
+<ls>H. an.</ls> <ls>MED.</ls> {%ein Strick zum Binden der Elephanten%}
+<ls>ŚKDR.</ls> <ls>WILS.</ls>
+<div n="1">— 4) <lex>n.</lex>
+<div n="2"> a) {%eine schwankende Bewegung, Bewegung, das Schwanken, Zittern; das Herumgehen%},
+<ls>TRIK.</ls> <ls>H. an.</ls> ({#kampa#}).
+<ls>MED.</ls> ({#BramaRa#} und {#kampa#}).
+<ls>P. 1,3,87.</ls> <ls n="P.">3,2,148.</ls> {#SElarAjasya#}
+<ls>R. 5,36,21.</ls> {#taraladfgaYcala°#}
+<ls>GĪT. 11,27.</ls> {#hanu°#}
+<ls>P. 3,1,15</ls>, <is>Vārtt</is>. {#hastayoH#}
+<ls>PAÑCAT. II,174.</ls> {#jAnu°#}
+<ls n="PAÑCAT.">252,20.</ls> {#SarIra°#}
+<ls>VEDĀNTAS. (Allah.) No. 83.</ls> {#prARaH — sarvasya calanaM karoti#}
+<ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 29.</ls> {#calanAtmakaM karma#}
+<ls>TARKASAM̃GR. 55.</ls> {#mokze prayARe calane pAnaBojanakAlayoH#}
+<ls>MBH. 12,3708.</ls> {#a°#}
+<ls>PAÑCAT. 214,16.</ls> Vgl. {#garBa°, BUmi°, aSvacalanaSAlA#} .
+<div n="2">— b) {%das Abweichen von, Ablassen von%}: {#svaDarmAdDi manuzyARAM calanaM na praSasyate#}
+<ls>MBH. 3,1319.</ls> {#vyavasAyAdacalanaM DEryaM viGne mahatyapi#}
 <ls>SĀH. D. 94.</ls>
 <LEND>

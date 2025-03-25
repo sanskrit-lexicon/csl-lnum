@@ -1,91 +1,91 @@
 <L>19090<pc>2-0429<k1>kevala<k2>ke/vala
-{#ke/vala#}¦ 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} ved., {#A#} klass. 
-<ls>P. 4, 1, 30.</ls> mit seinem subst. compon. 
-<ls>2, 1, 49.</ls> nom. pl. masc. {#kevale#} 
-<ls>ṚV. 10, 51, 9.</ls> 
-<div n="2"> a) {%ausschliesslich eigen, nicht mit Andern gemein, eigenthümlich; allein, alles Andere ausschliessend, merus, pur, lauter; ausser aller Beziehung zu etwas Anderm stehend, absolut%}; = {#eka#} 
-<ls>AK. 3, 4, 26, 205. 1, 16.</ls> 
-<ls>H. 742.</ls> 
-<ls>an. 3, 641.</ls> 
-<ls>MED. l. 82. fg.</ls> = {#SudDa#} und {#asahAya#} 
-<ls>UṆĀDIVṚTTI</ls> im <ls>SAṂKṢIPTAS. ŚKDR.</ls> {#a\smAka^mastu\ keva^laH#} 
-<ls>ṚV. 1, 7, 10.</ls> <ls n="ṚV. 1,">13, 10.</ls> {#mADya^Mdina\M sava^na\M keva^laM te#} 
-<ls n="ṚV.">4, 35, 7.</ls> <ls n="ṚV.">7, 98, 5.</ls> <ls n="ṚV.">10, 54, 5.</ls> <ls n="ṚV. 10,">138, 6.</ls> {#pati^M me\ keva^laM kuru#} {%gieb mir zu eigen%} 
-<ls n="ṚV. 10,">145, 2.</ls> <ls n="ṚV. 10,">173, 6.</ls> {#soma\M yaSca\kre keva^lam#} {%sich zugeeignet hat%} 
-<ls>AV. 11, 7, 36. 5, 10. 7, 37, 1. 9, 4, 12. 10, 8, 4.</ls> {#sa\trA viSva^M daDize\ keva^la\M saha^H#} 
-<ls>ṚV. 1, 57, 6.</ls> {#suzve^H pa\ktiM kf^Rute\ keva\lendra^H#} (der <is>Padap</is>. {#kevalA#} mit einer falschen Auflösung des <is>Saṃdhi</is>: es sollte nach dem gewöhnlichen Gebrauch {#kevalAm#} in <is>Saṃhitā</is> und <is>Padap</is>. geschrieben sein, da die Elisionen aufgelöst zu werden pflegen. Bemerkenswerth ist aber das fem. auf {#A#} im <is>Veda</is>) 
-<ls n="ṚV.">4, 25, 6.</ls> <ls>AV. 3, 25, 4.</ls> {#ke\va\lIndrA^ya dudu\he hi gf\zwiH#} 
-<ls>8, 9, 24.</ls> {#kevalena naH paSunezwamasat#} 
-<ls>AIT. BR. 2, 8.</ls> {#kevalasUktAni#} 
-<ls>6, 9.</ls> <ls>TS. 1, 5, 1, 2.</ls> {#ka\TA pu\trasya\ keva^laM ka\TA sADA^raRaM pi\tuH#} 
-<ls>2, 6, 1, 7.</ls> {#kevalIrozaDIraSnanti kevalIrapaH pibanti#} {%sie essen die Kräuter für sich allein und trinken das Wasser lauter%} 
-<ls>ŚAT. BR. 1, 6, 4, 15. 3, 6, 1, 7.</ls> {#ezA kevalI yatsomAhutiH#} {%das <is>Soma</is>-Opfer ist ausschliessend (ohne andere Zuthat)%} 
-<ls>1, 7, 2, 10.</ls> {#kevalabarhiH praTamaM havirBavati samAnabarhizI uttare#} {%das erste Opfer hat seine eigene Streu, für die beiden folgenden ist dieselbe gemeinsam%} 
-<ls>2, 2, 1, 16.</ls> <ls>KĀTY. ŚR. 26, 7, 34.</ls> <ls>ŚĀṄKH. ŚR. 13, 5, 20.</ls> <ls>ŚVETĀŚV. UP. 1, 11. 4, 18. 6, 11.</ls> — {#hanta vIkzasva vEdehi yadrUpaM mama kevalam#} 
-<ls>R. 5, 35, 32.</ls> 
-<ls>BHĀG. P. 6, 4, 26.</ls> {#svarAjyaM prApya kevalam#} 
+{#ke/vala#}¦
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} ved., {#A#} klass.
+<ls>P. 4,1,30.</ls> mit seinem subst. compon.
+<ls n="P.">2,1,49.</ls> nom. pl. masc. {#kevale#}
+<ls>ṚV. 10,51,9.</ls>
+<div n="2"> a) {%ausschliesslich eigen, nicht mit Andern gemein, eigenthümlich; allein, alles Andere ausschliessend, merus, pur, lauter; ausser aller Beziehung zu etwas Anderm stehend, absolut%}; = {#eka#}
+<ls>AK. 3,4,26,205</ls> <ls n="AK. 3,4,">1,16</ls>
+<ls>H. 742.</ls>
+<ls>an. 3,641.</ls>
+<ls>MED. l. 82. fg.</ls> = {#SudDa#} und {#asahAya#}
+<ls>UṆĀDIVṚTTI</ls> im <ls>SAṂKṢIPTAS.</ls> <ls>ŚKDR.</ls> {#a\smAka^mastu\ keva^laH#}
+<ls>ṚV. 1,7,10.</ls> <ls n="ṚV. 1,">13,10.</ls> {#mADya^Mdina\M sava^na\M keva^laM te#}
+<ls n="ṚV.">4,35,7.</ls> <ls n="ṚV.">7,98,5.</ls> <ls n="ṚV.">10,54,5.</ls> <ls n="ṚV. 10,">138,6.</ls> {#pati^M me\ keva^laM kuru#} {%gieb mir zu eigen%}
+<ls n="ṚV. 10,">145,2.</ls> <ls n="ṚV. 10,">173,6.</ls> {#soma\M yaSca\kre keva^lam#} {%sich zugeeignet hat%}
+<ls>AV. 11,7,36.</ls> <ls n="AV. 11,">5,10.</ls> <ls n="AV.">7,37,1.</ls> <ls n="AV.">9,4,12.</ls> <ls n="AV.">10,8,4.</ls> {#sa\trA viSva^M daDize\ keva^la\M saha^H#}
+<ls>ṚV. 1,57,6.</ls> {#suzve^H pa\ktiM kf^Rute\ keva\lendra^H#} (der <is>Padap</is>. {#kevalA#} mit einer falschen Auflösung des <is>Saṃdhi</is>: es sollte nach dem gewöhnlichen Gebrauch {#kevalAm#} in <is>Saṃhitā</is> und <is>Padap</is>. geschrieben sein, da die Elisionen aufgelöst zu werden pflegen. Bemerkenswerth ist aber das fem. auf {#A#} im <is>Veda</is>)
+<ls n="ṚV.">4,25,6.</ls> <ls>AV. 3,25,4.</ls> {#ke\va\lIndrA^ya dudu\he hi gf\zwiH#}
+<ls n="AV.">8,9,24.</ls> {#kevalena naH paSunezwamasat#}
+<ls>AIT. BR. 2,8.</ls> {#kevalasUktAni#}
+<ls n="AIT. BR.">6,9.</ls> <ls>TS. 1,5,1,2.</ls> {#ka\TA pu\trasya\ keva^laM ka\TA sADA^raRaM pi\tuH#}
+<ls n="TS.">2,6,1,7.</ls> {#kevalIrozaDIraSnanti kevalIrapaH pibanti#} {%sie essen die Kräuter für sich allein und trinken das Wasser lauter%}
+<ls>ŚAT. BR. 1,6,4,15.</ls> <ls n="ŚAT. BR.">3,6,1,7.</ls> {#ezA kevalI yatsomAhutiH#} {%das <is>Soma</is>-Opfer ist ausschliessend (ohne andere Zuthat)%}
+<ls n="ŚAT. BR.">1,7,2,10.</ls> {#kevalabarhiH praTamaM havirBavati samAnabarhizI uttare#} {%das erste Opfer hat seine eigene Streu, für die beiden folgenden ist dieselbe gemeinsam%}
+<ls n="ŚAT. BR.">2,2,1,16.</ls> <ls>KĀTY. ŚR. 26,7,34.</ls> <ls>ŚĀṄKH. ŚR. 13,5,20.</ls> <ls>ŚVETĀŚV. UP. 1,11. 4,18. 6,11.</ls> — {#hanta vIkzasva vEdehi yadrUpaM mama kevalam#}
+<ls>R. 5,35,32.</ls>
+<ls>BHĀG. P. 6,4,26.</ls> {#svarAjyaM prApya kevalam#}
 <ls>MBH. 14,408.</ls>
 [Page2-0430]
-{#kiM tayA kriyate lakzmyA yA vaDUriva kevalA . yA na veSyeva sAmAnyA paTikErupaBujyate ..#} 
-<ls>PAÑCAT. II, 141.</ls> {#nodAharedasya nAma parokzamapi kevalam#} {%den blossen Namen%} (ohne weitern Zusatz) 
-<ls>M. 2, 199. 3, 64.</ls> {#arhaRaM tatkumArIRAmAnfSaMsyaM ca kevalam#} 
-<ls>54.</ls> {#aGaM sa kevalaM BuNkte#} {%nichts als Sünde%} 
-<ls>118.</ls> {#izwIH pArvAyaRAntIyAH kevalA nirvapetsadA#} 
-<ls>?4, 10. 204. 239. 6, 21. 8, 24. 10, 71. YĀJÑ. 1, 200. BHAG. 5, 11. DRAUP. 4, 17. MBH. 4, 1927. 1929. R. 3, 40, 18. 43, 37. 46, 18. PAÑCAT. I, 27. 202. II, 100. V, 13. ŚĀK. 159. RAGH. 2, 63. KUMĀRAS. 2, 34. 5, 12. BHĀG. P. 9, 4, 40. SĀH. D. 12, 2.</ls> {#kevalArTaparA#} 
-<ls>R. 2, 42, 7.</ls> 
-<ls>DAŚ. 1, 28.</ls> {#jagatkevalakAmyayA#} 
-<ls>MBH. 2, 1544.</ls> {#kevalepsayA#} 
-<ls>559. 548.</ls> {#kevalanEyAyika#} {%ein purer Logiker%} 
-<ls>P. 2, 1, 49,</ls> 
-<ls>Sch.</ls> {#evaM tattvAByAsAnnAsti na me nAhamityapariSezam . aviparyayAdviSudDaM kevalamutpadyate jYAnam ..#} 
-<ls>SĀṂKHYAK. 64.</ls> 
-<ls>PAÑCAT. V, 12.</ls> <ls>BHĀG. P. 2, 6, 39.</ls> 
-<div n="2">— b) {%missgünstig, neidisch%} ({#kuhana#}) 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— c) ({%in sich abgeschlossen) ganz, gesammt, alle insgesammt%}, = {#kftsna#} 
-<ls>AK. 3, 4, 26, 205.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {#hanyAdDi BagavAnkrudDastrElokyamapi kevalam#} 
-<ls>MBH. 13, 2686.</ls> {#vyoma saMCAdya kevalam#} 
-<ls>3, 15168.</ls> {#kevalAM rAtrim#} 
-<ls>4, 1485.</ls> {#avocaH paruzA vAco Darmamutsfjya kevalam#} 
-<ls>1925. 13, 172.</ls> {#yaScEtAn (kAmAn) prApnuyAtsarvAnyaScEtAnkevalAMstyajet#} 
-<ls>M. 2, 95.</ls> 
-<div n="1">— 2) {#kevalam#} adv. 
-<div n="2"> a) {%nur%}: {#duzkulInA durAsevA kevalaM strI tu sA smftA#} 
-<ls>R. 3, 23, 15.</ls> {#kevalaM tu sahAyA me hanUmatpramuKA ime#} 
-<ls>4, 8, 24.</ls> {#yadi rAmaH samudrAntAM medinIM parivartayet . asyAH kfte jagatsarvamanumanyeta kevalam ..#} 
-<ls>5, 18, 35.</ls> {#puruzARAM nfpARAM ca kevalaM tulyamUrtitA#} 
-<ls>SUŚR. 1, 122, 18. 2, 166, 1.</ls> 
-<ls>PAÑCAT. 10, 15. 31, 7. 92, 22. 262, 6.</ls> 
-<ls>HIT. Pr. 11. 28, 13.</ls> 
-<ls>ŚĀK. 47. 23, 6.</ls> 
-<ls>RAGH. 1, 24. 3, 20.</ls> 
-<ls>BHĀG. P. 1, 2, 8.</ls> {#tato na SabdamAtrAdeva kevalaM#} (tautol.) {#Betavyam#} 
-<ls>PAÑCAT. 20, 9.</ls> {#na kevalam#} {%nicht nur%} — {#api#} {%sondern auch%}: {#(maNgalatUryanisvanAH) na kevalaM sadmani mAgaDIpateH paTi vyajfmBanta divOkasAmapi#} 
-<ls>RAGH. 3, 19. 31. 12, 13.</ls> 
-<ls>RĀJA-TAR. 5, 443.</ls> mit Auslassung von {#api#} 
-<ls>RAGH. 12, 67</ls> (ed. Calc. {#api)#}.{# kevalam#} {%nur%} — {#na tu#} {%nicht aber%} 
-<ls>ŚṚṄGĀRAT. 16.</ls> {#kevalam = nirRItam#} {%entschieden%} 
-<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— b) {%ganz, vollständig%}: {#niSAmatizWatparito 'sya kevalam#} (oder ist etwa {#kevalAm#} zu lesen?) {%die ganze Nacht%} 
-<ls>R. 2, 87, 23.</ls> 
-<div n="1">— 3) <lex>m.</lex> N. pr. eines Fürsten, eines Sohnes des <is>Nara</is>, 
-<ls>VP. 353.</ls> 
-<ls>BHĀG. P. 9, 2, 30.</ls> 
-<ls>LIA. I, Anh. XV.</ls> 
-<div n="1">— 4) <lex>f.</lex> {#kevalI#} {%die Lehre von der absoluten Einheit%}, = {#jYAna#} 
-<ls>TRIK. 3, 3, 385.</ls> 
-<ls>H. an.</ls> Vgl. {#kEvalya#} . 
-<div n="2">— b) N. pr. einer Localität 
-<ls>MBH. 3, 15245.</ls> 
-<div n="1">— 5) <lex>n.</lex> 
-<div n="2"> a) {%die Lehre von der absoluten Einheit%}, = {#jYAna#} 
-<ls>TRIK.</ls> = {#granTaBid#} 
-<ls>H. an.</ls> = {#jYAnaBeda#} 
-<ls>MED.</ls> (wo {#kevalI#} st. {#keralI#} zu lesen ist). 
-<div n="2">— b) N. pr. eines Landes (v. l. für {#kerala#}) 
-<ls>VP. 188,</ls> 
+{#kiM tayA kriyate lakzmyA yA vaDUriva kevalA . yA na veSyeva sAmAnyA paTikErupaBujyate ..#}
+<ls>PAÑCAT. II,141.</ls> {#nodAharedasya nAma parokzamapi kevalam#} {%den blossen Namen%} (ohne weitern Zusatz)
+<ls>M. 2,199.</ls> <ls n="M.">3,64.</ls> {#arhaRaM tatkumArIRAmAnfSaMsyaM ca kevalam#}
+<ls n="M. 3,">54.</ls> {#aGaM sa kevalaM BuNkte#} {%nichts als Sünde%}
+<ls n="M. 3,">118.</ls> {#izwIH pArvAyaRAntIyAH kevalA nirvapetsadA#}
+<ls n="M.">4,10.</ls> <ls n="M. 4,">204.</ls> <ls n="M. 4,">239.</ls> <ls n="M.">6,21.</ls> <ls n="M.">8,24.</ls> <ls n="M.">10,71.</ls> <ls>YĀJÑ. 1,200.</ls> <ls>BHAG. 5,11.</ls> <ls>DRAUP. 4,17.</ls> <ls>MBH. 4,1927.</ls> <ls n="MBH. 4,">1929.</ls> <ls>R. 3,40,18.</ls> <ls n="R. 3,">43,37.</ls> <ls n="R. 3,">46,18.</ls> <ls>PAÑCAT. I,27. 202. II,100. V,13.</ls> <ls>ŚĀK. 159.</ls> <ls>RAGH. 2,63.</ls> <ls>KUMĀRAS. 2,34. 5,12.</ls> <ls>BHĀG. P. 9,4,40.</ls> <ls>SĀH. D. 12,2.</ls> {#kevalArTaparA#}
+<ls>R. 2,42,7.</ls>
+<ls>DAŚ. 1,28.</ls> {#jagatkevalakAmyayA#}
+<ls>MBH. 2,1544.</ls> {#kevalepsayA#}
+<ls n="MBH. 2,">559.</ls> <ls n="MBH. 2,">548.</ls> {#kevalanEyAyika#} {%ein purer Logiker%}
+<ls>P. 2,1,49</ls>, <ls>Sch.</ls>
+{#evaM tattvAByAsAnnAsti na me nAhamityapariSezam . aviparyayAdviSudDaM kevalamutpadyate jYAnam ..#}
+<ls>SĀṂKHYAK. 64.</ls>
+<ls>PAÑCAT. V,12.</ls> <ls>BHĀG. P. 2,6,39.</ls>
+<div n="2">— b) {%missgünstig, neidisch%} ({#kuhana#})
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— c) ({%in sich abgeschlossen) ganz, gesammt, alle insgesammt%}, = {#kftsna#}
+<ls>AK. 3,4,26,205.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {#hanyAdDi BagavAnkrudDastrElokyamapi kevalam#}
+<ls>MBH. 13,2686.</ls> {#vyoma saMCAdya kevalam#}
+<ls n="MBH.">3,15168.</ls> {#kevalAM rAtrim#}
+<ls n="MBH.">4,1485.</ls> {#avocaH paruzA vAco Darmamutsfjya kevalam#}
+<ls n="MBH. 4,">1925.</ls> <ls n="MBH.">13,172.</ls> {#yaScEtAn (kAmAn) prApnuyAtsarvAnyaScEtAnkevalAMstyajet#}
+<ls>M. 2,95.</ls>
+<div n="1">— 2) {#kevalam#} adv.
+<div n="2"> a) {%nur%}: {#duzkulInA durAsevA kevalaM strI tu sA smftA#}
+<ls>R. 3,23,15.</ls> {#kevalaM tu sahAyA me hanUmatpramuKA ime#}
+<ls n="R.">4,8,24.</ls> {#yadi rAmaH samudrAntAM medinIM parivartayet . asyAH kfte jagatsarvamanumanyeta kevalam ..#}
+<ls n="R.">5,18,35.</ls> {#puruzARAM nfpARAM ca kevalaM tulyamUrtitA#}
+<ls>SUŚR. 1,122,18.</ls> <ls n="SUŚR.">2,166,1.</ls>
+<ls>PAÑCAT. 10,15. 31,7. 92,22. 262,6.</ls>
+<ls>HIT. Pr. 11. 28,13.</ls>
+<ls>ŚĀK. 47. 23,6.</ls>
+<ls>RAGH. 1,24.</ls> <ls n="RAGH.">3,20.</ls>
+<ls>BHĀG. P. 1,2,8.</ls> {#tato na SabdamAtrAdeva kevalaM#} (tautol.) {#Betavyam#}
+<ls>PAÑCAT. 20,9.</ls> {#na kevalam#} {%nicht nur%} — {#api#} {%sondern auch%}: {#(maNgalatUryanisvanAH) na kevalaM sadmani mAgaDIpateH paTi vyajfmBanta divOkasAmapi#}
+<ls>RAGH. 3,19.</ls> <ls n="RAGH. 3,">31.</ls> <ls n="RAGH.">12,13.</ls>
+<ls>RĀJA-TAR. 5,443.</ls> mit Auslassung von {#api#}
+<ls>RAGH. 12,67</ls> (<ls>ed. Calc.</ls> {#api#}). {#kevalam#} {%nur%} — {#na tu#} {%nicht aber%}
+<ls>ŚṚṄGĀRAT. 16.</ls> {#kevalam = nirRItam#} {%entschieden%}
+<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— b) {%ganz, vollständig%}: {#niSAmatizWatparito 'sya kevalam#} (oder ist etwa {#kevalAm#} zu lesen?) {%die ganze Nacht%}
+<ls>R. 2,87,23.</ls>
+<div n="1">— 3) <lex>m.</lex> N. pr. eines Fürsten, eines Sohnes des <is>Nara</is>,
+<ls>VP. 353.</ls>
+<ls>BHĀG. P. 9,2,30.</ls>
+<ls>LIA. I, Anh. XV.</ls>
+<div n="1">— 4) <lex>f.</lex> {#kevalI#} {%die Lehre von der absoluten Einheit%}, = {#jYAna#}
+<ls>TRIK. 3,3,385.</ls>
+<ls>H. an.</ls> Vgl. {#kEvalya#} .
+<div n="2">— b) N. pr. einer Localität
+<ls>MBH. 3,15245.</ls>
+<div n="1">— 5) <lex>n.</lex>
+<div n="2"> a) {%die Lehre von der absoluten Einheit%}, = {#jYAna#}
+<ls>TRIK.</ls> = {#granTaBid#}
+<ls>H. an.</ls> = {#jYAnaBeda#}
+<ls>MED.</ls> (wo {#kevalI#} st. {#keralI#} zu lesen ist).
+<div n="2">— b) N. pr. eines Landes (v. l. für {#kerala#})
+<ls>VP. 188</ls>,
 <ls>N. 39.</ls>
 <LEND>

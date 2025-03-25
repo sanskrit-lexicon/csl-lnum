@@ -1,22 +1,3 @@
 <L>16183<pc>275-2<k1>vAgguda<k2>vAgguda
-{#vAgguda#}¦vāg-guda, {%m.%} {%kind of%} bat; {@-ghasta-@}
-<>{@-vat,@} {%a.%} possessed of speech and hands (hasta); 
-<>{@-jāla@}, {%n.%} multitude of words, verbosity; 
-<>{@-ḍambara@}, {%m. n. id.,%} bombast; {@-daṇḍa@}, {%m.%} 
-<>admonition; {%du.%} word and staff: {@-yoḥ@} {%or%}
-<>{@-jaṃ pāruṣyam@}, severe verbal and corporal 
-<>injury, abuse and assault, {@-pāruṣya,@} {%n. du. %}
-<>{%id.%}; {@-dattā,@} {%pp. f.%} verbally given, betrothed; 
-<>{@-dāna,@} {%n.%} betrothal; {@-duṣṭa@}, {%pp.%} rude, 
-<>scurrilous; {%m.%} rude fellow, defamer; {@-deva-@}
-<>{@-tā,@} {%f.%} goddess of speech, Sarasvatī: {@-ka,@} {%a.%} 
-<>sacred to Sarasvatī; {@-devī,@} {%f.%} goddess of 
-<>speech, Sarasvatī; {@-daivatya,@} {%a.%} sacred to 
-<>Sarasvatī; {@-doṣa,@} {%m.%} abuse, scurrility: {%ab.%} 
-<>by fault of his voice; {@-dvāra,@} {%n.%} entrance of 
-<>speech = descriptive entrance; {@-baddha,@} {%pp.%} 
-<>stopped in speech, silent; {@-bandhana,@} {%n.%} 
-<>silence: {@-ṃ pra-kṛ@}, silence {%any one%}; {@-bha-@}
-<>{@-ṭa@}, {%m. N. of a various authors, esp. of a rhetorician %}<lbinfo n="6"/>
-<>{% and of a physician%}.
+{#vAgguda#}¦ vāg-guda, <lex>m.</lex> {%kind of%} bat; {@-ghastavat,@} <lex>a.</lex> possessed of speech and hands (hasta); 🞄{@-jāla,@} <lex>n.</lex> multitude of words, verbosity; 🞄{@-ḍambara,@} <lex>m.</lex> <lex>n.</lex> <ab>id.</ab>, bombast; {@-daṇḍa,@} <lex>m.</lex> 🞄admonition; <ab>du.</ab> word and staff: {@-yoḥ@} {%or%} 🞄{@-jaṃ pāruṣyam,@} severe verbal and corporal 🞄injury, abuse and assault, {@-pāruṣya,@} <lex>n.</lex> <ab>du.</ab> 🞄<ab>id.</ab>; {@-dattā,@} <ab>pp.</ab> <lex>f.</lex> verbally given, betrothed; 🞄{@-dāna,@} <lex>n.</lex> betrothal; {@-duṣṭa,@} <ab>pp.</ab> rude, 🞄scurrilous; <lex>m.</lex> rude fellow, defamer; {@-devatā,@} <lex>f.</lex> goddess of speech, Sarasvatī: {@-ka,@} <lex>a.</lex> 🞄sacred to Sarasvatī; {@-devī,@} <lex>f.</lex> goddess of 🞄speech, Sarasvatī; {@-daivatya,@} <lex>a.</lex> sacred to 🞄Sarasvatī; {@-doṣa,@} <lex>m.</lex> abuse, scurrility: <ab>ab.</ab> 🞄by fault of his voice; {@-dvāra,@} <lex>n.</lex> entrance of 🞄speech = descriptive entrance; {@-baddha,@} <ab>pp.</ab> 🞄stopped in speech, silent; {@-bandhana,@} <lex>n.</lex> 🞄silence: {@-ṃ pra-kṛ,@} silence {%any one%}; {@-bhaṭa,@} <lex>m.</lex> <ab>N.</ab> {%of a various authors, <ab>esp.</ab> of a rhetorician 🞄and of a physician%}.
 <LEND>

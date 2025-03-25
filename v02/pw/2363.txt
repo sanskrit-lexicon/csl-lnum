@@ -1,21 +1,19 @@
-<L>2363<pc>1027-3<k1>aTa<k2>a/Ta<e>001
-{#a/Ta#}¦ ( {#a/TA#} metrisch im <is>Veda</is>) <ab>Adv.</ab>
-<div n="1">— 1) {%darauf , dann , alsdann , da.%} Insbes. nach einem Relativum , einer Temporal- oder Conditional-Partikel ( {#yad , yadA , ced#}). {%darauf%} so v.a. {%dafür , in Anbetracht dessen%} <ls>17,6.</ls>
-<div n="1">— 2) anreihend: {%und , sodann , ferner.%} {#SataSo'Ta sahasraSaH#} <ls>84,9.</ls> Statt des einfachen {#aTa#} auch {#aTApi#}.
-<div n="1">— 3) am Anfange eines Werkes , eines Abschnittes und bei den Lexicographen am Anfange eines neuen Artikels so v.a. {%von hier an , jetzt.%} Statt des einfachen {#aTa#} auch {#aTAtaH#}.
-<div n="1">— 4) {%und dennoch%} <ls>29,6.</ls>
-<div n="1">— 5) {%aber , jedoch , dagegen%} <ls>21,26.31,25.32,15.82,30.179,4.241,31.</ls> Bisweilen folgt noch {#tu , punar#} oder {#ca#}.
-<div n="1">— 6) {%wenn aber%} <ls>79,17.218,2.</ls>
-<div n="1">— 7) = {#aTa vA#} {%oder%} <ls>177,5.</ls>
-<div n="1">— 8) bedeutungslos zur Completirung des Verses <ls>196,9.</ls>
-<div n="1">— 9) {#a/To#} ( {#aTa-u#}) = {#aTa#} 1)2)3) (bei den Lexicographen) 4).
-<div n="1">— 10) {#aTo vA#} = {#aTa vA#} {%oder auch.%}
-<div n="1">— 11) {#aTa vA#} und {#aTa#} — {#vA#}
-<div n="2">— a) {%oder auch , oder%} <ls>66,1.67,9.147,22.</ls> <ls>Spr.7703.</ls> {#aTa vA#} — {#aTa vA#} {%entweder — oder%} <ls>MBH.1,159,13,14.</ls> {#na-aTa vA#} und
-[Page1028-1]
-{#na-aTa vA na#} {%weder — noch.%} {#aTa vA#} können das zu ihnen gehörende Wort auch zwischen sich nehmen. Gleichbedeutend mit {#aTa vA#} ist {#vATa#} (<ls>Spr.5538</ls>). {#aTa vApi#} (<ls>Chr.66,3</ls>), {#aTApi vA , aTApi - vA , vApyaTa#}.
-<div n="2">— b) {%jedoch%} <ls>143,10.145,21.152,5.313,8.</ls>
-<div n="2">— c) {%oder wenn%} <ls>MBH.3,72,17.</ls> {#aTa vA ca#} <ab>dass.</ab> <ls>12,128,27.</ls>
-<div n="2">— d) {%sogar , selbst.%}
-<div n="1">— 12) {#aTakim#} {%wie denn anders? so ist es , allerdings.%}
+<L>2363<pc>1-027-c<k1>aTa<k2>a/Ta
+{#a/Ta#} ({#a/TA#} metrisch im <is>Veda</is>)¦ <lex>Adv.</lex>
+<div n="1">— 1〉 {%darauf, dann, alsdann, da%}. <ab>Insbes.</ab> nach einem Relativum, einer Temporal- oder Conditional-Partikel ({#yad, yadA, ced#}). {%darauf%} so <ab>v. a.</ab> {%dafür, in Anbetracht dessen%} <ls n="Chr.">17,6</ls>.
+<div n="1">— 2〉 anreihend: {%und, sodann, ferner%}. {#SataSo'Ta sahasraSaH#} <ls n="Chr.">84,9</ls>. Statt des einfachen {#aTa#} auch {#aTApi#}.
+<div n="1">— 3〉 am Anfange eines Werkes, eines Abschnittes und bei den Lexicographen am Anfange eines neuen Artikels so <ab>v. a.</ab> {%von hier an, jetzt%}. Statt des einfachen {#aTa#} auch {#aTAtaH#}.
+<div n="1">— 4〉 {%und dennoch%} <ls n="Chr.">29,6</ls>.
+<div n="1">— 5〉 {%aber, jedoch, dagegen%} <ls n="Chr.">21,26</ls>. <ls n="Chr.">31,25</ls>. <ls n="Chr.">32,15</ls>. <ls n="Chr.">82,30</ls>. <ls n="Chr.">179,4</ls>. <ls n="Chr.">241,31</ls>. Bisweilen folgt noch {#tu#}, {#punar#} oder {#ca#}.
+<div n="1">— 6〉 {%wenn aber%} <ls n="Chr.">79,17</ls>. <ls n="Chr.">218,2</ls>.
+<div n="1">— 7〉 = {#aTa vA#} {%oder%} <ls n="Chr.">177,5</ls>.
+<div n="1">— 8〉 bedeutungslos zur Completirung des Verses <ls n="Chr.">196,9</ls>.
+<div n="1">— 9〉 {#a/To#} ({#aTa-u#}) = {#aTa#} 1〉 2〉 3〉 (bei den Lexicographen) 4〉.
+<div n="1">— 10〉 {#aTo vA#} = {#aTa vA#} {%oder auch%}.
+<div n="1">— 11〉 {#aTa vA#} und {#aTa — vA#}
+<div n="2">— a〉 {%oder auch, oder%} <ls n="Chr.">66,1</ls>. <ls n="Chr.">67,9</ls>. <ls n="Chr.">147,22</ls>. <ls>Spr. 7703</ls>. {#aTa vA — aTa vA#} {%entweder — oder%} <ls>MBH. 1,159,13. 14</ls>. {#na — aTa vA#} und [Page1-028-a] {#na — aTa vA na#} {%weder — noch%}. {#aTa vA#} können das zu ihnen gehörende Wort auch zwischen sich nehmen. Gleichbedeutend mit {#aTa vA#} ist {#vATa#} (<ls>Spr. 5538</ls>). {#aTa vApi#} (<ls>Chr. 66,3</ls>), {#aTApi vA#}, {#aTApi — vA#}, {#vApyaTa#}.
+<div n="2">— b〉 {%jedoch%} <ls n="Chr.">143,10</ls>. <ls n="Chr.">145,21</ls>. <ls n="Chr.">152,5</ls>. <ls n="Chr.">313,8</ls>.
+<div n="2">— c〉 {%oder wenn%} <ls>MBH. 3,72,17</ls>. {#aTa vA ca#} <ab>dass.</ab> <ls n="MBH.">12,128,27</ls>.
+<div n="2">— d〉 {%sogar, selbst%}.
+<div n="1">— 12〉 {#aTakim#} {%wie denn anders? so ist es, allerdings%}.
 <LEND>

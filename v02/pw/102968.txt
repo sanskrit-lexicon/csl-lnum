@@ -1,17 +1,17 @@
-<L>102968<pc>6097-3<k1>viDura<k2>viDura<e>100
+<L>102968<pc>6-097-c<k1>viDura<k2>viDura
 {#viDura#}¦
-<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#A#})
-<div n="2">— a) {%der Deichsel beraubt%} (Wagen). Vielleicht auch einfach {%mitgenommen , beschädigt.%}
-<div n="2">— b) {%allein stehend%} , insbes. {%vom geliebten Gegenstande getrennt.%}
-<div n="2">— c) am Ende eines Comp. {%frei von , ermangelnd.%} {#asmadviDurA#} {%von uns entfernt , — abgesondert.%} {#satya°#} {%nicht ganz wahr%} <ls>PRASANNAR.58,4.</ls>
-<div n="2">— d) {%woran Etwas fehlt , mitgenommen , mangelhaft , in einem kläglichen Zustande sich befindend.%}
-<div n="2">— e) {%niedergedrückt , niedergeschlagen.%} {#°m#} <ab>Adv.</ab>
-<div n="2">— f) {%widerwärtig , widrig , ungünstig.%}
-<div n="1">— 2) *<lex>m.</lex> {%ein <is>Rākṣasa</is>.%}
-<div n="1">— 3) *<lex>f.</lex> {#A#} {%gekäste Milch mit Zucker und Gewürz.%}
-<div n="1">— 4) <lex>n.</lex>
-<div n="2">— a) {%Widerwärtigkeit , Ungemach.%}
-<div n="2">— b) * = {#vEkalya#}.
-<div n="2">— c) * = {#viSleza#} , {#praviSleza#} oder {#pariSleza#}.
-<div n="2">— d) <ab>Du.</ab> Bez. {%zweier Gelenke%} <ls>BHĀVAPR.1,59.</ls>
+<div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#A#})
+<div n="2">— a〉 {%der Deichsel beraubt%} (Wagen). Vielleicht auch einfach {%mitgenommen, beschädigt%}.
+<div n="2">— b〉 {%allein stehend,%} <ab>insbes.</ab> {%vom geliebten Gegenstande getrennt%}.
+<div n="2">— c〉 am Ende eines <ab>Comp.</ab> {%frei von, ermangelnd%}. {#asmadviDurA#} {%von uns entfernt, — abgesondert%}. {#satya°#} {%nicht ganz wahr%} <ls>PRASANNAR. 58,4</ls>.
+<div n="2">— d〉 {%woran Etwas fehlt, mitgenommen, mangelhaft, in einem kläglichen Zustande sich befindend%}.
+<div n="2">— e〉 {%niedergedrückt, niedergeschlagen%}. {#°m#} <lex>Adv.</lex>
+<div n="2">— f〉 {%widerwärtig, widrig, ungünstig%}.
+<div n="1">— 2〉 *<lex>m.</lex> {%ein%} <is>Rākṣasa</is>.
+<div n="1">— 3〉 *<lex>f.</lex> {#A#} {%gekäste Milch mit Zucker und Gewürz%}.
+<div n="1">— 4〉 <lex>n.</lex>
+<div n="2">— a〉 {%Widerwärtigkeit, Ungemach%}.
+<div n="2">— b〉 *= {#vEkalya#}.
+<div n="2">— c〉 *= {#viSleza#}, {#praviSleza#} oder {#pariSleza#}.
+<div n="2">— d〉 <ab>Du.</ab> <ab>Bez.</ab> {%zweier Gelenke%} <ls>BHĀVAPR. 1,59</ls>.
 <LEND>

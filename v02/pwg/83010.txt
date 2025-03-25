@@ -1,53 +1,52 @@
 <L>83010<pc>6-0234<k1>rajata<k2>rajata/
-{#rajata/#}¦ (von {#raj#} = 5. {#arj#} wie {#arjuna#} und {#rajas#}) 
-<ls>UṆĀDIS. 3, 111.</ls> 
+{#rajata/#}¦ (von {#raj#} = 5. {#arj#} wie {#arjuna#} und {#rajas#})
+<ls>UṆĀDIS. 3,111.</ls>
 <div n="1"> 1) <lex>adj.</lex> {%weisslich, silberfarbig%} (
-<ls>AK. 3, 4, 14, 82.</ls> 
-<ls>H. an. 3, 287.</ls> 
-<ls>MED. t. 143</ls>); {%silbern%}: {#f\jramu^kza\RyAya^ne raja\taM hara^yARe . raTa^M yu\ktama^sanAma su\zAma^Ri#} 
-<ls>ṚV. 8, 25, 22.</ls> {#(puram) rajatAmantarikzamakurvata#} 
-<ls>AIT. BR. 1, 23.</ls> 
-<ls>VS. 23, 37.</ls> {#ra\ja\taM hira^Ryam#} {%weissliches Gold%} d. h. {%Silber%} 
-<ls>TS. 1, 5, 1, 2.</ls> 
-<ls>ŚAT. BR. 12, 4, 4, 7. 13, 4, 2, 10. 14, 1, 3, 14.</ls> 
-<ls>KĀṬH. 10, 4.</ls> {#suvarRarajatO rukmO#} 
-<ls>ŚAT. BR. 12, 8, 3, 11.</ls> 
-<ls>TBR. 1, 5, 10, 1. 7. 8, 9, 1.</ls> {#pAtra#} 
-<ls>2, 2, 9, 7. 3, 9, 6, 5.</ls> {#nizka#} 
-<ls>PAÑCAV. BR. 17, 1, 14.</ls> 
-<ls>ĀŚV. ŚR. 2, 3, 15.</ls> 
-<ls>CHĀND. UP. 3, 19, 1.</ls> 
-<div n="1">— 2) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#arDarcAdi#} zu 
-<ls>P. 2, 4, 31.</ls> zu belegen nur das <lex>n.</lex> 
-<div n="2"> a) {%Silber%} 
-<ls>AK. 2, 9, 97.</ls> 
-<ls>H. 1043.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 2, 17. 5, 5.</ls> 
-<ls>AV. 5, 28, 1. 13, 4, 51.</ls> 
-<ls>AIT. BR. 7, 12.</ls> 
-<ls>KĀTY. ŚR. 10, 2, 37. 26, 2. 20.</ls> 
-<ls>KAUŚ. 16.</ls> 
-<ls>CHĀND. UP. 4, 17, 7.</ls> 
-<ls>ṢAḌV. BR. 6, 6.</ls> 
-<ls>M. 8, 321. 11, 57. 167.</ls> 
-<ls>R. 1, 53, 11.</ls> {#suvarRarajatEH#} 
-<ls>2,32,14. 94,5.</ls> <ls>SUŚR. 1,5,2.</ls> <ls>VARĀH. BṚH. S. 64,1.</ls> <ls>KIR. 5,41.</ls> <ls>NAIṢ. 22,52.</ls> <ls>Verz. d. Oxf. H. 282,a,28.</ls> 
-<div n="2">— b) {%Gold%} 
-<ls>H. 1045.</ls> 
-<ls>AK. 3, 4, 14, 82</ls> soll <ls>KṢĪRASVĀMIN</ls> nach <ls>AUFRECHT</ls> {#hemni#} st. {#hAre#} lesen. 
-<div n="2">— c) {%Perlenschmuck%} 
-<ls>AK. 3, 4, 14,</ls> <ls>?82.H. an. MED. HALĀY. 5, 5.</ls>
+<ls>AK. 3,4,14,82.</ls>
+<ls>H. an. 3,287.</ls>
+<ls>MED. t. 143</ls>); {%silbern%}: {#f\jramu^kza\RyAya^ne raja\taM hara^yARe . raTa^M yu\ktama^sanAma su\zAma^Ri#}
+<ls>ṚV. 8,25,22.</ls> {#(puram) rajatAmantarikzamakurvata#}
+<ls>AIT. BR. 1,23.</ls>
+<ls>VS. 23,37.</ls> {#ra\ja\taM hira^Ryam#} {%weissliches Gold%} d. h. {%Silber%}
+<ls>TS. 1,5,1,2.</ls>
+<ls>ŚAT. BR. 12,4,4,7.</ls> <ls n="ŚAT. BR.">13,4,2,10.</ls> <ls n="ŚAT. BR.">14,1,3,14.</ls>
+<ls>KĀṬH. 10,4.</ls> {#suvarRarajatO rukmO#}
+<ls>ŚAT. BR. 12,8,3,11.</ls>
+<ls>TBR. 1,5,10,1. 7. 8,9,1.</ls> {#pAtra#}
+<ls n="TBR.">2,2,9,7. 3,9,6,5.</ls> {#nizka#}
+<ls>PAÑCAV. BR. 17,1,14.</ls>
+<ls>ĀŚV. ŚR. 2,3,15.</ls>
+<ls>CHĀND. UP. 3,19,1.</ls>
+<div n="1">— 2) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#arDarcAdi#} zu
+<ls>P. 2,4,31.</ls> zu belegen nur das <lex>n.</lex>
+<div n="2"> a) {%Silber%}
+<ls>AK. 2,9,97.</ls>
+<ls>H. 1043.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 2,17. 5,5.</ls>
+<ls>AV. 5,28,1.</ls> <ls n="AV.">13,4,51.</ls>
+<ls>AIT. BR. 7,12.</ls>
+<ls>KĀTY. ŚR. 10,2,37. 26,2. 20.</ls>
+<ls>KAUŚ. 16.</ls>
+<ls>CHĀND. UP. 4,17,7.</ls>
+<ls>ṢAḌV. BR. 6,6.</ls>
+<ls>M. 8,321.</ls> <ls n="M.">11,57.</ls> <ls n="M. 11,">167.</ls>
+<ls>R. 1,53,11.</ls> {#suvarRarajatEH#}
+<ls n="R.">2,32,14.</ls> <ls n="R. 2,">94,5.</ls> <ls>SUŚR. 1,5,2.</ls> <ls>VARĀH. BṚH. S. 64,1.</ls> <ls>KIR. 5,41.</ls> <ls>NAIṢ. 22,52.</ls> <ls>Verz. d. Oxf. H. 282,a,28.</ls>
+<div n="2">— b) {%Gold%}
+<ls>H. 1045.</ls>
+<ls>AK. 3,4,14,82</ls> soll <ls>KṢĪRASVĀMIN</ls> nach <ls>AUFRECHT</ls> {#hemni#} st. {#hAre#} lesen.
+<div n="2">— c) {%Perlenschmuck%}
+<ls>AK. 3,4,14,82.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 5,5.</ls>
 [Page6-0235]
-
-<div n="2">— d) {%Blut.%} 
-<div n="2">— e) {%Elfenbein.%} 
-<div n="2">— f) {%ein best. Berg%} (als neutr.! vgl. {#rajatakUwa#} 
-u.s.w.). 
-<div n="2">— g) {%ein best. See%} (als neutr.!) 
-<ls>H. an.</ls> 
-<div n="2">— h) {%Sternbild%} 
-<ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls> 
+<div n="2">— d) {%Blut.%}
+<div n="2">— e) {%Elfenbein.%}
+<div n="2">— f) {%ein best. Berg%} (als neutr.! vgl. {#rajatakUwa#}
+u.s.w.).
+<div n="2">— g) {%ein best. See%} (als neutr.!)
+<ls>H. an.</ls>
+<div n="2">— h) {%Sternbild%}
+<ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>
 <div n="v">— Vgl. {#mahA°#} .
 <LEND>

@@ -1,6 +1,6 @@
 <L>8433<pc>196-b<k1>dispute<k2>dispute
-<div n="lb"/>DISPUTE¦, {%s.%} {#vivAdaH, vAdAnuvAdaH, vAdaprativAdaH, visaMvAdaH, vipralApaH,#}
-<div n="lb"/>{#vAgyudDaM, vAdayudDaM, vAkkalahaH, vAkkaliH#} {%m.,%} {#viroDoktiH#} {%f.,%} {#vAkyaviroDaH,#}
-<div n="lb"/>{#vitarkaH, vitaRqA, vipratipattiH#} {%f.,%} {#vitaRqA, vicAraH, vAdaH, vAkyaM, kalahaH,#}
-<div n="lb"/>{#vigrahaH, dvEDaM, sandehaH;#} ‘matter of dispute,’ {#vivAdAspadaM#}.
+DISPUTE¦, {%s.%} {#vivAdaH, vAdAnuvAdaH, vAdaprativAdaH, visaMvAdaH, vipralApaH,#}
+{#vAgyudDaM, vAdayudDaM, vAkkalahaH, vAkkaliH#} {%m.,%} {#viroDoktiH#} {%f.,%} {#vAkyaviroDaH,#}
+{#vitarkaH, vitaRqA, vipratipattiH#} {%f.,%} {#vitaRqA, vicAraH, vAdaH, vAkyaM, kalahaH,#}
+{#vigrahaH, dvEDaM, sandehaH;#} ‘matter of dispute,’ {#vivAdAspadaM#}.
 <LEND>

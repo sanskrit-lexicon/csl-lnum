@@ -1,5 +1,5 @@
 <L>532<pc>0060<k1>anulbaRa<k2>an-ulbaRa/
-{@an-ulbaṇá,@}¦ a., {%ohne Wulst%} oder {%Knoten%} [ulbaṇa], <lbinfo n="6"/> {%ohne Fehl.%}
-<div n="P1">-ám [<ab>n.</ab>] ápas {879,6}.
-<div n="P1">-éna cákṣasā {645,9}.
-<LEND>
+<chg type="chg" n="25" src="gra"><old>{@an-ulbaná,@}</old><new>{@an-ulbaṇá,@}</new></chg>¦ <ab>a.</ab>, {%ohne Wulst%} oder {%Knoten%} [ulbaṇa], {%ohne Fehl%}.
+<div n="TS">-ám [<ab>n.</ab>] ápas {879,6}.
+<div n="TS">-éna cákṣasā {645,9}.
+<LEND> [Page61]

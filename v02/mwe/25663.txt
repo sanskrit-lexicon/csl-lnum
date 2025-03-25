@@ -1,15 +1,15 @@
 <L>25663<pc>697-a<k1>room<k2>room
-<div n="lb"/>ROOM¦, {%s.%} (Space, compass, free course) {#avakASaH, prasaraH, avasaraH,#}
-<div n="lb"/>{#antaraM, vizayaH, apasAraRaM;#} ‘want of room,’ {#anavakASaH;#} ‘the
-<div n="lb"/>water flows out to make room for the stone,’ {#pAzARAya vizayaM#}
-<div n="lb"/>{#dattvA jalaM vahirgacCati;#} ‘room! make room!’ {#apasara, avasara#}. — 
-<div n="lb"/>(Place for reception or admission of any thing) {#sTAnaM,#}
-<div n="lb"/>{#AspadaM, padaM, BUmiH#} {%f.,%} {#pradeSaH;#} ‘room for suspicion,’ {#SaNkAspadaM;#}
-<div n="lb"/>‘room for fear,’ {#BayasTAnaM;#} ‘there was no room to hold all,’
-<div n="lb"/>{#sarvvaDAraRAya sTAnaM nABavat#}. — (Opportunity) {#avasaraH, avakASaH#}. — 
-<div n="lb"/>(Stead, lieu) {#sTAnaM, sTalaM, BUmiH#} {%f.;%} ‘in the room of,’ {#sTAne,#}
-<div n="lb"/>{#BUmO, sTale#}. — (Apartment) {#SAlA -likA, AgAraH -raM, kozWaH -zWakaM,#}
-<div n="lb"/>{#gfhaM, kakzaH, kuwI, AvAsaH, prakozWaH, sTalaM -lI;#} ‘inner room,’ {#upa-#}
-<div n="lb"/>{#roDakaM, antargfhaM, garBagfhaM, garBAgAraM, garBaH;#} ‘top room, upper room,’
-<div n="lb"/>{#SirogfhaM, candraSAlikA, upariSAlA#}.
+ROOM¦, {%s.%} (Space, compass, free course) {#avakASaH, prasaraH, avasaraH,#}
+{#antaraM, vizayaH, apasAraRaM;#} ‘want of room,’ {#anavakASaH;#} ‘the
+water flows out to make room for the stone,’ {#pAzARAya vizayaM#}
+{#dattvA jalaM vahirgacCati;#} ‘room! make room!’ {#apasara, avasara#}. — 
+(Place for reception or admission of any thing) {#sTAnaM,#}
+{#AspadaM, padaM, BUmiH#} {%f.,%} {#pradeSaH;#} ‘room for suspicion,’ {#SaNkAspadaM;#}
+‘room for fear,’ {#BayasTAnaM;#} ‘there was no room to hold all,’
+{#sarvvaDAraRAya sTAnaM nABavat#}. — (Opportunity) {#avasaraH, avakASaH#}. — 
+(Stead, lieu) {#sTAnaM, sTalaM, BUmiH#} {%f.;%} ‘in the room of,’ {#sTAne,#}
+{#BUmO, sTale#}. — (Apartment) {#SAlA -likA, AgAraH -raM, kozWaH -zWakaM,#}
+{#gfhaM, kakzaH, kuwI, AvAsaH, prakozWaH, sTalaM -lI;#} ‘inner room,’ {#upa-#}
+{#roDakaM, antargfhaM, garBagfhaM, garBAgAraM, garBaH;#} ‘top room, upper room,’
+{#SirogfhaM, candraSAlikA, upariSAlA#}.
 <LEND>

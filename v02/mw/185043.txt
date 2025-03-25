@@ -1,3 +1,5 @@
-<L>185043<pc>914,1<k1>vajrasUci<k2>va/jra—sUci<e>3
-<s>va/jra—sUci</s> or <s>va/jra—sUcI</s>, <lex>f.</lex> a diamond-pointed needle, <ls>MBh.</ls>; <ls>Hcar.</ls><info or="185043,vajrasUci;185046,vajrasUcI"/><info lex="f"/>
+<L>185043<pc>914,1<k1>vajrasUci<k2>vajra—sUci<e>3
+<s>vajra—sUci</s> or <s>vajra—sUcI</s>, ¦ <lex>f.</lex> a diamond-pointed needle, <ls>MBh.</ls>; <ls>Hcar.</ls>;
+<div n="P"/> <ab>N.</ab> of an <s1>Upaniṣad</s1> ascribed to <s1>Śaṃkarācārya</s1> (also <s>°cikA</s> or <s>°cy-upanizad</s>);
+<div n="P"/> of a <ab>wk.</ab> by <s1>Aśva-ghoṣa</s1>.<info lex="f"/>
 <LEND>

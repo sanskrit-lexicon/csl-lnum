@@ -1,14 +1,14 @@
 <L>3051<pc>1-0222<k1>anuSAsana<k2>anuSA/sana
-{#anuSA/sana#}¦ (von {#SAs#} mit {#anu#}) <lex>n.</lex> {%Anweisung, Lehre%} 
-<ls>ṚV. 10, 32, 7.</ls> (s.u. {#akzetravid#}).  
-<ls>ŚAT. BR. 1, 9, 3, 10. 14, 5, 5, 19.</ls> <ls>?(= BṚH. ĀR. UP. 2, 5, 19.) KAṬHOP. 6, 15. TAITT. UP. 1, 11, 4. AIT. BR. 6, 30. 7, 28. M. 6, 50.</ls> {#tanmanoranuSAsanam#} 
-<ls>8, 139. 279. 9, 239.</ls> {#SamitranuSAsanam#} 
-<ls>KĀTY. ŚR. 8, 8, 32. 19, 4, 7.</ls> {#SrutaM vfdDAnuSAsanam#} 
-<ls>N. 13, 17.</ls> {#BaratAnuSAsanAt#} 
-<ls>Sch.</ls> zu <ls>ŚĀK. 9, 6.</ls> mit dem obj. componirt: {#Sreyo'nuSAsanam#} 
-<ls>M. 2, 159.</ls> {#SabdA°#} 
-<ls>H. 1.</ls> {#liNgAnu°#} 
-<ls>19.</ls> {#kAryAnu°#} 
-<ls>ŚĀK. CH. 93, 3.</ls> das obj. im gen., das subj. im instr. oder gen.: {#SabdAnAmanuSAsanamAcAryeRAcAryasya vA#} 
-<ls>SIDDH. K.</ls> zu <ls>P.2,3,66.</ls> Im <ls>MBH.</ls> führt das 13te Buch den Namen {#anuSAsanaparvan#} .
+{#anuSA/sana#}¦ (von {#SAs#} mit {#anu#}) <lex>n.</lex> {%Anweisung, Lehre%}
+<ls>ṚV. 10,32,7.</ls> (s.u. {#akzetravid#}).
+<ls>ŚAT. BR. 1,9,3,10.</ls> <ls n="ŚAT. BR.">14,5,5,19.</ls> (= <ls>BṚH. ĀR. UP. 2,5,19.</ls>) <ls>KAṬHOP. 6,15.</ls> <ls>TAITT. UP. 1,11,4.</ls> <ls>AIT. BR. 6,30.</ls> <ls n="AIT. BR.">7,28.</ls> <ls>M. 6,50.</ls> {#tanmanoranuSAsanam#}
+<ls n="AIT. BR.">8,139.</ls> <ls n="AIT. BR 8,.">279.</ls> <ls n="AIT. BR.">9,239.</ls> {#SamitranuSAsanam#}
+<ls>KĀTY. ŚR. 8,8,32.</ls> <ls n="KĀTY. ŚR.">19,4,7.</ls> {#SrutaM vfdDAnuSAsanam#}
+<ls>N. 13,17.</ls> {#BaratAnuSAsanAt#}
+<ls>Sch.</ls> zu <ls>ŚĀK. 9,6.</ls> mit dem obj. componirt: {#Sreyo'nuSAsanam#}
+<ls>M. 2,159.</ls> {#SabdA°#}
+<ls>H. 1.</ls> {#liNgAnu°#}
+<ls n="H.">19.</ls> {#kAryAnu°#}
+<ls>ŚĀK. CH. 93,3.</ls> das obj. im gen., das subj. im instr. oder gen.: {#SabdAnAmanuSAsanamAcAryeRAcAryasya vA#}
+<ls>SIDDH. K.</ls> zu <ls>P. 2,3,66.</ls> Im <ls>MBH.</ls> führt das 13te Buch den Namen {#anuSAsanaparvan#} .
 <LEND>

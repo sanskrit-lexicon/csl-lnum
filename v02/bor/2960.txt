@@ -1,4 +1,4 @@
 <L>2960<pc>100<k1>camphor<k2>camphor
-<div n="lb"/>{@CAMPHOR:@}¦ <div n="1">(1) {#karpara#} (mn.); </div><div n="1">(2) {#sitABraH,#} A.;</div>
-<div n="lb"/><div n="1">(3) {#himavAlukA,#} A. </div><div n="1">(4) {#DanasAraH,#} A.</div>
+{@CAMPHOR:@}¦ <div n="1">(1) {#karpara#} (mn.); </div><div n="1">(2) {#sitABraH,#} A.;</div>
+<div n="1">(3) {#himavAlukA,#} A. </div><div n="1">(4) {#DanasAraH,#} A.</div>
 <LEND>

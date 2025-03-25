@@ -1,9 +1,9 @@
 <L>10369<pc>327<k1>grow up<k2>grow up
-<div n="lb"/>{@GROW UP:@}¦ <div n="1">(1) {#varDate, pari-, saM-,#} ({#vfD,#} c. 1.),
-<div n="lb"/>{%Rājavāhana grew up with the minister's sons:%}
-<div n="lb"/>{#rAjavAhano mantriputrEH sahAvarData,#} D.; </div><div n="1">(2) {#eDate#} ({#eD,#}
-<div n="lb"/>c. 1.) (rare), <div n="xe">{%g. n up with young deer:%}</div> <div n="xs">{#mfgaSAbEH #}
-<div n="lb"/>{# samameDitaH#}</div> ({#tA, taM#}), Sa. ii.; </div><div n="1">(3) {#rohati#} ({#ruh,#}
-<div n="lb"/>c. 1.) (of trees etc.), <div n="xe">{%as seeds g.:%}</div> <div n="xs">{#yaTA vIjAni #}
-<div n="lb"/>{# rohanti,#}</div> Vri.</div>
+{@GROW UP:@}¦ <div n="1">(1) {#varDate, pari-, saM-,#} ({#vfD,#} c. 1.),
+{%Rājavāhana grew up with the minister's sons:%}
+{#rAjavAhano mantriputrEH sahAvarData,#} D.; </div><div n="1">(2) {#eDate#} ({#eD,#}
+c. 1.) (rare), <div n="xe">{%g. n up with young deer:%}</div> <div n="xs">{#mfgaSAbEH #}
+{# samameDitaH#}</div> ({#tA, taM#}), Sa. ii.; </div><div n="1">(3) {#rohati#} ({#ruh,#}
+c. 1.) (of trees etc.), <div n="xe">{%as seeds g.:%}</div> <div n="xs">{#yaTA vIjAni #}
+{# rohanti,#}</div> Vri.</div>
 <LEND>

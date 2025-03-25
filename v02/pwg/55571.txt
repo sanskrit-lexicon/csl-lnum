@@ -1,10 +1,10 @@
 <L>55571<pc>5-0359<k1>BUrloka<k2>BUrloka
-{#BUrloka#}¦ {#(BUr + loka)#} <lex>m.</lex> {%die Erdenwelt%} 
-<ls>Ind. St. 2, 178.</ls> 
-<ls>MBH. 2. 506. 13, 1137.</ls> 
-<ls>BHĀG. P. 2, 5, 38. 42.</ls> 
-<ls>MĀRK. P. 23, 56. 46, 39. 66, 24. 79, 8.</ls> 
-<ls>PAÑCAR. 2, 2, 58. 4, 8, 37.</ls> <ls>Verz. d. B. H. No. 476.</ls> <ls>VP. 212.</ls> pl. <ls>BHĀG. P. 8, 22, 22.</ls> {%das Land südlich vom Aequator%} 
-<ls>SIDDHĀNTAŚIR. 3, 43.</ls> 
+{#BUrloka#}¦ ({#BUr + loka#}) <lex>m.</lex> {%die Erdenwelt%}
+<ls>Ind. St. 2,178.</ls>
+<ls>MBH. 2,506.</ls> <ls n="MBH.">13,1137.</ls>
+<ls>BHĀG. P. 2,5,38.</ls> <ls n="BHĀG. P. 2,5,">42.</ls>
+<ls>MĀRK. P. 23,56. 46,39. 66,24. 79,8.</ls>
+<ls>PAÑCAR. 2,2,58. 4,8,37.</ls> <ls>Verz. d. B. H. No. 476.</ls> <ls>VP. 212.</ls> pl. <ls>BHĀG. P. 8,22,22.</ls> {%das Land südlich vom Aequator%}
+<ls>SIDDHĀNTAŚIR. 3,43.</ls>
 <div n="v">— Vgl. {#BUloka#} .
 <LEND>

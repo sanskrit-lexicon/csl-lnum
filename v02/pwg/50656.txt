@@ -1,10 +1,10 @@
 <L>50656<pc>4-1137<k1>prAtaranuvAka<k2>prAtaranuvAka/
-{#prAtaranuvAka/#}¦ ({#prA° + anu°#}) <lex>m.</lex> {%Frühaufsagung%}, so heisst {%die Litanei, mit welcher das%} <is>Prātaḥsavana</is> {%beginnt%}: {#prAtaranuvAko mahati rAtryA anUcyaH#} 
-<ls>AIT. BR. 2, 15. 17. 18. 4, 19. 5, 33.</ls> {#sa\pta ca^turutta\rARi\ cCandA^Msi prAtaranuvA\ke 'nU^cyante#} 
-<ls>TBR. 1, 5, 9, 7. 2, 2, 3, 6.</ls> 
-<ls>ŚAT. BR. 3, 9, 3, 7. 4, 3, 4, 21. 11, 5, 5, 9.</ls> 
-<ls>KĀTY. ŚR. 9, 1, 10. 13. 13, 2, 8.</ls> {#prAgvayasAM pravAdAtprAtaranuvAkAyAmantritaH#} 
-<ls>ĀŚV. ŚR. 4, 13. 15.</ls> 
-<ls>ŚĀṄKH. ŚR. 6, 2, 1. 6, 38.</ls> 
-<ls>CHĀND. UP. 2, 24, 3. 4, 16, 2.</ls>
+{#prAtaranuvAka/#}¦ ({#prA° + anu°#}) <lex>m.</lex> {%Frühaufsagung%}, so heisst {%die Litanei, mit welcher das%} <is>Prātaḥsavana</is> {%beginnt%}: {#prAtaranuvAko mahati rAtryA anUcyaH#}
+<ls>AIT. BR. 2,15. 17. 18. 4,19. 5,33.</ls> {#sa\pta ca^turutta\rARi\ cCandA^Msi prAtaranuvA\ke 'nU^cyante#}
+<ls>TBR. 1,5,9,7. 2,2,3,6.</ls>
+<ls>ŚAT. BR. 3,9,3,7.</ls> <ls n="ŚAT. BR.">4,3,4,21.</ls> <ls n="ŚAT. BR.">11,5,5,9.</ls>
+<ls>KĀTY. ŚR. 9,1,10. 13. 13,2,8.</ls> {#prAgvayasAM pravAdAtprAtaranuvAkAyAmantritaH#}
+<ls>ĀŚV. ŚR. 4,13. 15.</ls>
+<ls>ŚĀṄKH. ŚR. 6,2,1. 6,38.</ls>
+<ls>CHĀND. UP. 2,24,3.</ls> <ls n="CHĀND. UP.">4,16,2.</ls>
 <LEND>

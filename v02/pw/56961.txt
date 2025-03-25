@@ -1,37 +1,35 @@
-<L>56961<pc>3183-2<k1>nart<k2>nart<e>500
-{#nart#}¦ , {#nf/tyati#} (metrisch auch <ab>Med.</ab>)
-<div n="1">— 1) {%tanzen.%}
-<div n="1">— 2) {%als Schauspieler spielen.%}
-<div n="1">— 3) ein Stück (<ab>Acc.</ab>) {%aufführen , — Spielen.%}
-<div n="1">— 4) {%Jmd (<ab>Acc.</ab>) umtanzen.%} — {#nfta/mAno#} <ls>ṚV.5,33,6</ls> vielleicht fehlerhaft für {#nf/tamA no#}.
-<div n="m">— <ab>Caus.</ab> {#narta/yati#} (Metrisch auch <ab>Med.</ab>) {%tanzen — , sich hinundher bewegen lassen.%} {#nartita#} {%zum Tanzen gebracht.%}
+<L>56961<pc>3-183-b<k1>nart<k2>nart
+√{#nart#}¦, {#nf/tyati#} (metrisch auch <ab>Med.</ab>)
+<div n="1">— 1〉 {%tanzen%}.
+<div n="1">— 2〉 {%als Schauspieler spielen%}.
+<div n="1">— 3〉 ein Stück (<ab>Acc.</ab>) {%aufführen, — Spielen%}.
+<div n="1">— 4〉 {%Jmd%} (<ab>Acc.</ab>) {%umtanzen%}. — {#nfta/mAno#} <ls>ṚV. 5,33,6</ls> vielleicht fehlerhaft für {#nf/tamA no#}.
+<div n="m">— <ab>Caus.</ab> {#narta/yati#} (Metrisch auch <ab>Med.</ab>) {%tanzen —, sich hinundher bewegen lassen%}. {#nartita#} {%zum Tanzen gebracht%}.
 <div n="m">— *<ab>Desid.</ab> {#ninftsati#} und {#ninartizati#}.
-<div n="m">— <ab>Intens.</ab> {#narinartti , narinartti , narinftyati , °te , *narnartti , *narnftIti , *narinftIti#} und {#*narInftIti#}.
-<div n="1">— 1) {%hinundher tanzen%} <ls>Spr.7719.7755.</ls>
-<div n="1">— 2) {%hinundher tanzen lassen%} , mit <ab>Acc.</ab>
+<div n="m">— <ab>Intens.</ab> {#narinartti#}, {#narinartti#}, {#narinftyati#}, {#°te#}, *{#narnartti#}, *{#narnftIti#}, *{#narinftIti#} und *{#narInftIti#}.
+<div n="1">— 1〉 {%hinundher tanzen%} <ls>Spr. 7719</ls>. <ls n="Spr.">7755</ls>.
+<div n="1">— 2〉 {%hinundher tanzen lassen,%} mit <ab>Acc.</ab>
 <div n="p">— Mit {#aDi#} {%tanzen auf%} (<ab>Acc.</ab>)
 <div n="p">— Mit {#anu#}
-<div n="1">— 1) {%Jmd%} (<ab>Acc.</ab>) {%nachtanzen.%}
-<div n="1">— 2) {%Jmd (<ab>Acc.</ab>) vortanzen.%}
-<div n="p">— Mit {#aBi#} {%zu Jmd (<ab>Acc.</ab>) hin tanzen oder Jmd nachtanzen.%}
-<div n="p">— Mit {#A#} {%herbeitänzeln , — Springen.%}
-<div n="m">— <ab>Caus.</ab> {%leise hinundher tanzen lassen , — bewegen.%}
-<div n="p">— Mit {#aByA#} {%herbeitänzeln , — springen.%}
+<div n="1">— 1〉 {%Jmd%} (<ab>Acc.</ab>) {%nachtanzen%}.
+<div n="1">— 2〉 {%Jmd%} (<ab>Acc.</ab>) {%vortanzen%}.
+<div n="p">— Mit {#aBi#} {%zu Jmd%} (<ab>Acc.</ab>) {%hin tanzen oder Jmd nachtanzen%}.
+<div n="p">— Mit {#A#} {%herbeitänzeln, — Springen%}.
+<div n="m">— <ab>Caus.</ab> {%leise hinundher tanzen lassen, — bewegen%}.
+<div n="p">— Mit {#aByA#} {%herbeitänzeln, — springen%}.
 <div n="p">— Mit {#upa#}
-<div n="1">— 1) {%Jmd (<ab>Acc.</ab>) vortanzen.%}
-<div n="1">— 2) {%vor Jmd%} (<ab>Acc.</ab>) {%die Gebärden des Tanzens machen%} (als Hohn) , {%verhöhnen.%}
-<div n="p">— Mit {#ni#} {%abtanzen%} , so v.a. {%im Einzelnen wiederholen.%}
-<div n="p">— Mit {#aBini#} in {#°nartam#} (Nachtr. 2).
-<div n="p">— Mit {#pari#} ( {#°nftyati#}) {%herumtanzen , umtanzen%} ; mit <ab>Acc.</ab>
-<div n="p">— Mit {#pra#} ( {#°nftyati , °te#})
-<div n="1">— 1) {%tanzend schreiten , forttanzen%} ,
-[Page3183-3]
-{%zu tanzen anfangen , tanzen.%} {#pranftta#} {%der zu tanzen angefangen hat , tanzend.%} {#pranfttvAn#} so v.a. {%fing an zu tanzen.%}
-<div n="1">— 2) {%vor Jmd%} (<ab>Acc.</ab>) {%die Gebärden des Tanzens machen%} (als Hohn) , {%verhöhnen.%}
-<div n="m">— <ab>Caus.</ab> {%tanzen lassen , — machen%} (uneig.). <ls>KĀD.9,12.</ls>
-<div n="p">— Mit {#saMpra#}, {#°nftta#} {%der zu tanzen angefangen hat.%}
-<div n="p">— Mit {#prati#} {%es Jmd%} (<ab>Acc.</ab>) {%dadurch entgelten , dass man wieder vor ihm die Gebärden des Tanzens%} (als Hohn) {%macht , wieder verhöhnen.%}
-<div n="m">— *<ab>Intens.</ab> {#pratinarnftIti#} {%Jmd (<ab>Acc.</ab>) zutanzen.%}
-<div n="p">— Mit {#vi#} {%zu tanzen anheben , Gebärden des Tanzens machen.%}
-<div n="p">— Mit {#sam#} {%zusammen tanzen.%}
+<div n="1">— 1〉 {%Jmd%} (<ab>Acc.</ab>) {%vortanzen%}.
+<div n="1">— 2〉 {%vor Jmd%} (<ab>Acc.</ab>) {%die Gebärden des Tanzens machen%} (als Hohn), {%verhöhnen%}.
+<div n="p">— Mit {#ni#} {%abtanzen,%} so <ab>v. a.</ab> {%im Einzelnen wiederholen%}.
+<div n="p">— Mit {#aBini#} in {#°nartam#} (<ls>Nachtr. 2</ls>).
+<div n="p">— Mit {#pari#} ({#°nftyati#}) {%herumtanzen, umtanzen;%} mit <ab>Acc.</ab>
+<div n="p">— Mit {#pra#} ({#°nftyati, °te#})
+<div n="1">— 1〉 {%tanzend schreiten, forttanzen, [Page3-183-c] zu tanzen anfangen, tanzen%}. {#pranftta#} {%der zu tanzen angefangen hat, tanzend%}. {#pranfttvAn#} so <ab>v. a.</ab> {%fing an zu tanzen%}.
+<div n="1">— 2〉 {%vor Jmd%} (<ab>Acc.</ab>) {%die Gebärden des Tanzens machen%} (als Hohn), {%verhöhnen%}.
+<div n="m">— <ab>Caus.</ab> {%tanzen lassen, — machen%} (<ab>uneig.</ab>). <ls>KĀD. 9,12</ls>.
+<div n="p">— Mit {#saMpra#}, {#°nftta#} {%der zu tanzen angefangen hat%}.
+<div n="p">— Mit {#prati#} {%es Jmd%} (<ab>Acc.</ab>) {%dadurch entgelten, dass man wieder vor ihm die Gebärden des Tanzens%} (als Hohn) {%macht, wieder verhöhnen%}.
+<div n="m">— *<ab>Intens.</ab> {#pratinarnftIti#} {%Jmd%} (<ab>Acc.</ab>) {%zutanzen%}.
+<div n="p">— Mit {#vi#} {%zu tanzen anheben, Gebärden des Tanzens machen%}.
+<div n="p">— Mit {#sam#} {%zusammen tanzen%}.
 <LEND>

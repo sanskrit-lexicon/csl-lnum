@@ -1,7 +1,7 @@
 <L>225<pc>010<k1>activity<k2>activity
-<div n="lb"/>{@ACTIVITY@}¦ (subs.): <div n="I">I Agility,: </div><div n="1">(1) {#kziprakAritA;#}</div>
-<div n="lb"/><div n="1">(2) {#utsAhaH#} v. Zeal. </div><div n="I">II Industry and
-<div n="lb"/>energy: </div><div n="1">(1) {#udyogaH;#} </div><div n="1">(2) {#vyavasAyaH;#} </div><div n="1">(3)
-<div n="lb"/>{#avyavasAyaH;#} </div><div n="1">(4) {#karmABiniveSaH;#} </div><div n="1">(5) {#utTAnaSIlatA.#}
-<div n="lb"/>Ph. <div n="xe">{%with great a.%}</div> <div n="xs">{#mahatA yatnena.#}</div></div>
+{@ACTIVITY@}¦ (subs.): <div n="I">I Agility,: </div><div n="1">(1) {#kziprakAritA;#}</div>
+<div n="1">(2) {#utsAhaH#} v. Zeal. </div><div n="I">II Industry and
+energy: </div><div n="1">(1) {#udyogaH;#} </div><div n="1">(2) {#vyavasAyaH;#} </div><div n="1">(3)
+{#avyavasAyaH;#} </div><div n="1">(4) {#karmABiniveSaH;#} </div><div n="1">(5) {#utTAnaSIlatA.#}
+Ph. <div n="xe">{%with great a.%}</div> <div n="xs">{#mahatA yatnena.#}</div></div>
 <LEND>

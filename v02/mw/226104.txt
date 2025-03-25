@@ -1,3 +1,3 @@
-<L>226104<pc>1114,3<k1>saMvas<k2>saM-vas<h>a<e>1
-<hom>a.</hom> <s>saM-</s>√ <hom>4.</hom> <s>vas</s> ¦ <ab>Ā.</ab> <s>-vaste</s>, to be clothed or clad in (<ab>instr.</ab>), <ls>RV. v, 85, 4.</ls><info verb="pre" cp="Ā" parse="sam+vas"/>
+<L>226104<pc>1114,3<k1>saMvas<k2>saM-vas<e>1
+ <s>saM-</s>√ <hom>4.</hom> <s>vas</s> ¦ <ab>Ā.</ab> <s>-vaste</s>, to be clothed or clad in (<ab>instr.</ab>), <ls>RV. v, 85, 4.</ls><info verb="pre" cp="Ā" parse="sam+vas"/><info hui="a"/>
 <LEND>

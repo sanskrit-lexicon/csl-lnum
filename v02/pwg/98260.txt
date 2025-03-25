@@ -1,38 +1,38 @@
 <L>98260<pc>7-0106<k1>Sala<k2>Sala/
-{#Sala/#}¦ 
-<ls>P. 3, 1, 140.</ls> 
-<div n="1"> 1) <lex>m.</lex> {%Stab%} (nach 
-<ls>SĀY.</ls>): im <is>Adhrigu</is> <is>Praiṣa</is> {#Sa\lA do\zaRI^#} (vgl. 
-<ls>P. 6, 1, 63, Schol.</ls>) {#kfRutAt#} 
-<ls>TBR. 3, 6, 6, 3.</ls> 
-<ls>AIT. BR. 2, 6.</ls> nach <ls>D.</ls> zu <ls>NIR. 5, 11</ls> = {#dravaRasamarTa#} (also von {#Sal#} abgeleitet). 
-<div n="1">— 2) <lex>m.</lex> (MED.) und <lex>n.</lex> {%Stachel eines Stachelschweins%} 
-<ls>AK. 2, 5, 7.</ls> 
-<ls>H. 1296.</ls> 
-<ls>MED. l. 49.</ls> <ls>HALĀY. 2, 78.</ls> als {%Längenmaass%} (nach dem Comm. zu 
-<ls>TAITT. BR.</ls>): {#triSala/#} 
-<ls>TBR. 1, 5, 10, 1.</ls> {#uttvA^hArza\M paYca^SalA\daTo\ daSa^SalAdu\ta#} 
-<ls>AV. 8, 7, 28.</ls> {#Sata°, sahasra°#} 
-<ls>KĀṬH. 12, 10</ls> in <ls>Ind. St. 3, 464.</ls> 
-<div n="1">— 3) <lex>m.</lex> {%Lanze%} 
-<ls>TRIK. 2, 8, 55.</ls> 
-<div n="1">— 4) <lex>m.</lex> {%ein best. Thier%} 
-<ls>PAÑCAR. 1, 7, 28, v. l.</ls> {%Kameel%} 
-<ls>H. 1253.</ls> 
-<div n="1">— 5) <lex>m.</lex> = {#kzetraBid#} 
-<ls>MED.</ls> 
-<div n="1">— 6) <lex>m.</lex> = {#viDi#} 
-<ls>MED.</ls> 
-<div n="1">— 7) <lex>m.</lex> N. pr. eines Wesens im Gefolge <is>Śiva's</is> 
-<ls>TRIK. 1, 1, 49.</ls> 
-<ls>MED.</ls> eines Schlangendämons 
-<ls>MBH. 1, 2146.</ls> eines Sohnes des <is>Dhṛtarāṣṭra</is> 
-<ls>4543.</ls> des <is>Somadatta</is> 
-<ls>6995. 2, 1267. 3, 1419. 5, 694. 7, 6002.</ls> <ls>HARIV. 1821.</ls> <ls>VP. 459.</ls> <ls>BHĀG. P. 9, 22, 18.</ls> <is>Parīkṣit's</is> 
-<ls>MBH. 3, 13178.</ls> <is>Sunahotra's</is> 
-<ls>HARIV. 1519.</ls> = {#Salya#} 
-<ls>BHĀG. P. 1, 15, 16. - 10, 36, 21. 42, 37.</ls> 
-<div n="1">— 8) <lex>f.</lex> {#I#} {%ein kleines Stachelschwein%} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
+{#Sala/#}¦
+<ls>P. 3,1,140.</ls>
+<div n="1"> 1) <lex>m.</lex> {%Stab%} (nach
+<ls>SĀY.</ls>): im <is>Adhrigu</is> <is>Praiṣa</is> {#Sa\lA do\zaRI^#} (vgl.
+<ls>P. 6,1,63</ls>, Schol.) {#kfRutAt#}
+<ls>TBR. 3,6,6,3.</ls>
+<ls>AIT. BR. 2,6.</ls> nach <ls>D.</ls> zu <ls>NIR. 5,11</ls> = {#dravaRasamarTa#} (also von {#Sal#} abgeleitet).
+<div n="1">— 2) <lex>m.</lex> (med.) und <lex>n.</lex> {%Stachel eines Stachelschweins%}
+<ls>AK. 2,5,7.</ls>
+<ls>H. 1296.</ls>
+<ls>MED. l. 49.</ls> <ls>HALĀY. 2,78.</ls> als {%Längenmaass%} (nach dem Comm. zu
+<ls>TAITT. BR.</ls>): {#triSala/#}
+<ls>TBR. 1,5,10,1.</ls> {#uttvA^hArza\M paYca^SalA\daTo\ daSa^SalAdu\ta#}
+<ls>AV. 8,7,28.</ls> {#Sata°, sahasra°#}
+<ls>KĀṬH. 12,10</ls> in <ls>Ind. St. 3,464.</ls>
+<div n="1">— 3) <lex>m.</lex> {%Lanze%}
+<ls>TRIK. 2,8,55.</ls>
+<div n="1">— 4) <lex>m.</lex> {%ein best. Thier%}
+<ls>PAÑCAR. 1,7,28, v. l.</ls> {%Kameel%}
+<ls>H. 1253.</ls>
+<div n="1">— 5) <lex>m.</lex> = {#kzetraBid#}
+<ls>MED.</ls>
+<div n="1">— 6) <lex>m.</lex> = {#viDi#}
+<ls>MED.</ls>
+<div n="1">— 7) <lex>m.</lex> N. pr. eines Wesens im Gefolge <is>Śiva's</is>
+<ls>TRIK. 1,1,49.</ls>
+<ls>MED.</ls> eines Schlangendämons
+<ls>MBH. 1,2146.</ls> eines Sohnes des <is>Dhṛtarāṣṭra</is>
+<ls n="MBH. 1,">4543.</ls> des <is>Somadatta</is>
+<ls n="MBH. 1,">6995.</ls> <ls n="MBH.">2,1267.</ls> <ls n="MBH.">3,1419.</ls> <ls n="MBH.">5,694.</ls> <ls n="MBH.">7,6002.</ls> <ls>HARIV. 1821.</ls> <ls>VP. 459.</ls> <ls>BHĀG. P. 9,22,18.</ls> <is>Parīkṣit's</is>
+<ls>MBH. 3,13178.</ls> <is>Sunahotra's</is>
+<ls>HARIV. 1519.</ls> = {#Salya#}
+<ls>BHĀG. P. 1,15,16.</ls> — <ls n="BHĀG. P.">10,36,21.</ls> <ls n="BHĀG. P. 10,">42,37.</ls>
+<div n="1">— 8) <lex>f.</lex> {#I#} {%ein kleines Stachelschwein%}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
 <div n="v">— Vgl. {#duH°, triSalA#} .
 <LEND>

@@ -1,13 +1,13 @@
 <L>6487<pc>1-0483<k1>avayava<k2>avayava
-{#avayava#}¦ <lex>m.</lex> {%Glied, Theil%} 
-<ls>AK. 2, 6, 2, 21. 3, 4, 118.</ls> 
-<ls>H. 566.</ls> 
-<ls>ŚVETĀŚV. UP. 4, 10.</ls> 
-<ls>M. 1, 16-18.</ls> <ls>SUŚR. 2, 132, 20.</ls> <ls>HIT. III, 83.</ls> <ls>RAGH. 12, 43.</ls> <ls>AMAR. 40. 46.</ls> <ls>P. 1, 1, 46</ls>, <ls>Sch.</ls> <ls>2, 2, 1</ls>, <ls>Sch.</ls> <ls>SĀH. D. 13, 14.</ls> {#SarIrAva°#} 
-<ls>P. 5, 1, 6.</ls> {#sAlvAva°#} 
-<ls>4, 1, 173.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} 
-<ls>PAÑCAT. 46, 2.</ls> 
-<ls>RAGH. 3, 7.</ls> Die {#avayavAH#} {%Schlussglieder%} bilden den 7ten {#padArTa#} in der Logik des <is>Nyāya</is>-Systems 
-<ls>NYĀYA-S. 1, 1. 32.</ls> 
-<ls>MADHUS.</ls> in <ls>Ind. St. 1, 18, 24.</ls> <ls>Z. d. d. m. G. 6, 4.</ls> <ls>Verz. d. B. H. No. 663. 668. 671.</ls>
+{#avayava#}¦ <lex>m.</lex> {%Glied, Theil%}
+<ls>AK. 2,6,2,21.</ls> <ls n="AK.">3,4,118.</ls>
+<ls>H. 566.</ls>
+<ls>ŚVETĀŚV. UP. 4,10.</ls>
+<ls>M. 1,16</ls>-<ls n="M. 1,">18.</ls> <ls>SUŚR. 2,132,20.</ls> <ls>HIT. III,83.</ls> <ls>RAGH. 12,43.</ls> <ls>AMAR. 40. 46.</ls> <ls>P. 1,1,46</ls>, <ls>Sch.</ls> <ls n="P.">2,2,1</ls>, <ls>Sch.</ls> <ls>SĀH. D. 13,14.</ls> {#SarIrAva°#}
+<ls>P. 5,1,6.</ls> {#sAlvAva°#}
+<ls n="P.">4,1,173.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+<ls>PAÑCAT. 46,2.</ls>
+<ls>RAGH. 3,7.</ls> Die {#avayavAH#} {%Schlussglieder%} bilden den 7ten {#padArTa#} in der Logik des <is>Nyāya</is>-Systems
+<ls>NYĀYA-S. 1,1. 32.</ls>
+<ls>MADHUS.</ls> in <ls>Ind. St. 1,18,24.</ls> <ls>Z. d. d. m. G. 6,4.</ls> <ls>Verz. d. B. H. No. 663. 668. 671.</ls>
 <LEND>

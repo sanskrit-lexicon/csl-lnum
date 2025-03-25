@@ -1,11 +1,11 @@
 <L>8304<pc>262<k1>face<k2>face
-<div n="lb"/>{@FACE@}¦ (v.): <div n="I">I To confront: </div><div n="1">(1) {#sammuKayati#}
-<div n="lb"/>(nomi.); </div><div n="1">(2) {#aBimuKayati#} (nomi.); </div><div n="1">(3) {#sammuKI-#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#aBimuKIBavati#}</div> (with gen.), <div n="xe">{%made it f. me with%}
-<div n="lb"/>{%difficulty:%}</div> <div n="xs">{#kaTamapi madaBimuKamakarot,#}</div> D.: v. To meet.</div>
-<div n="lb"/><div n="I">II To front upon: expr. by {#muKa-#} <div n="xe">{%or%}</div> <div n="xs">{#aBimuKa-#}</div>
-<div n="lb"/>in comp., <div n="xe">{%f. ing the east:%}</div> <div n="xs">{#pUrvamuKa#}</div> (f. {#KI#}); <div n="xe">{%f.%}
-<div n="lb"/>{%the north:%}</div> <div n="xs">{#uttaramuKa#}</div> (f. {#KI#}); {%f. ing Lakṣmaṇa:%}
-<div n="lb"/>{#lakzaRABimuKaH,#} Ram. </div><div n="I">III To cover the f. of: v.
-<div n="lb"/>To cover.</div>
+{@FACE@}¦ (v.): <div n="I">I To confront: </div><div n="1">(1) {#sammuKayati#}
+(nomi.); </div><div n="1">(2) {#aBimuKayati#} (nomi.); </div><div n="1">(3) {#sammuKI-#}
+<div n="xe">{%or%}</div> <div n="xs">{#aBimuKIBavati#}</div> (with gen.), <div n="xe">{%made it f. me with%}
+{%difficulty:%}</div> <div n="xs">{#kaTamapi madaBimuKamakarot,#}</div> D.: v. To meet.</div>
+<div n="I">II To front upon: expr. by {#muKa-#} <div n="xe">{%or%}</div> <div n="xs">{#aBimuKa-#}</div>
+in comp., <div n="xe">{%f. ing the east:%}</div> <div n="xs">{#pUrvamuKa#}</div> (f. {#KI#}); <div n="xe">{%f.%}
+{%the north:%}</div> <div n="xs">{#uttaramuKa#}</div> (f. {#KI#}); {%f. ing Lakṣmaṇa:%}
+{#lakzaRABimuKaH,#} Ram. </div><div n="I">III To cover the f. of: v.
+To cover.</div>
 <LEND>

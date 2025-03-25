@@ -1,45 +1,45 @@
 <L>116900<pc>7-1612<k1>hiMsra<k2>hiMsra/
-{#hiMsra/#}¦ (wie eben) 
-<div n="1"> 1) <lex>adj.</lex> (f. {#A#}) {%Leid anthuend, verletzend, wehthuend, schädigend%}; <lex>m.</lex> {%ein Mann, der Andere verletzt, der ein grausames Handwerk treibt%} 
-<ls>P. 3, 2, 167.</ls> 
-<ls>VOP. 26, 158.</ls> 
-<ls>AK. 3, 1, 28. 3, 4, 31, 236.</ls> 
-<ls>H. 369.</ls> 
-<ls>an. 2, 472.</ls> 
-<ls>MED. r. 102.</ls> <ls>HALĀY. 2, 217.</ls> <ls>ṚV. 10, 87, 3.</ls> <ls n="ṚV. 10, 87,">5.</ls> <ls n="ṚV. 10, 87,">9.</ls> <ls>M. 3, 164. 9, 80. 12, 56. fg. 59.</ls> <ls>MBH. 13, 5455.</ls> <ls>Spr. (II) 3096. 6217.</ls> {#veSyANganA, nfpanIti#} 
-<ls>6739.</ls> <ls>VARĀH. BṚH. S. 15, 23. 16, 5. 36. 86, 31.</ls> <ls>BṚH. 12, 15. 21, 6.</ls> <ls>LAGHUJ. 2, 15.</ls> <ls>PAÑCAR. 1, 6, 49.</ls> {#paSu#} 
-<ls>H. 1216.</ls> {#°yantra#} 
-<ls>YĀJÑ. 3, 240.</ls> 
-<ls>HEM.</ls> 
-<ls>YOGAŚ. 3, 76.</ls> {#vAc#} 
-<ls>BHĀG. P. 3, 19, 21.</ls> {#agnihotrAdi#} 
-<ls>7, 15, 48.</ls> {#°karman#} <lex>adj.</lex> 
-<ls>VARĀH. BṚH. 19, 7.</ls> m. {%Raubthier%} 
-<ls>RAGH. 2, 27. 62. 14, 28.</ls> am Ende eines comp. {%streng verfahrend mit%}: {#duzwasAmanta°#} 
-<ls>M. 9, 310.</ls> {#a°#} 
-<ls>KĀTY. ŚR. 2, 2, 12.</ls> 
-<ls>Spr. (II) 825.</ls> 
-<ls>MĀRK. P. 50, 72.</ls> 
-<ls>BHĀG. P. 8, 16, 49.</ls> 
-<ls>PAÑCAR. 4, 3, 36.</ls> {#vAc#} 
-<ls>MBH. 5, 857.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) Bein. <is>Śiva's</is> und <is>Bhīmasena's</is> 
-<ls>UṆĀDIK.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— b) N. pr. eines {%grausamen%} Brahmanen 
-<ls>HARIV. 1189.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#A#} 
-<div n="2"> a) {%Nardostachys Jatamansi%} ({#jawAmAMsI#}) 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>RĀJAN. 12, 97.</ls> = {#kAkAdanI#} 
-<ls>H. an.</ls> = {#elAvalI#} (?) 
-<ls>MED.</ls> {%Coix barbata Roxb.%} 
-<ls>ŚABDAC.</ls> im <ls>ŚKDR. -</ls> <ls>SUŚR. 2, 106, 2. 498, 13.</ls> 
-<div n="2">— b) {%Fett, adeps%} ({#vasA#}) 
-<ls>H. an.</ls> 
-<div n="2">— c) = {#nAqI#} {%Ader u.s.w.%} 
-<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 4) <lex>n.</lex> {%Grausamkeit%}: {#hiMsrAhiMsre#} 
-<ls>M. 1, 29.</ls> 
-<ls>MĀRK. P. 48, 40.</ls> 
+{#hiMsra/#}¦ (wie eben)
+<div n="1"> 1) <lex>adj.</lex> (f. {#A#}) {%Leid anthuend, verletzend, wehthuend, schädigend%}; <lex>m.</lex> {%ein Mann, der Andere verletzt, der ein grausames Handwerk treibt%}
+<ls>P. 3,2,167.</ls>
+<ls>VOP. 26,158.</ls>
+<ls>AK. 3,1,28.</ls> <ls n="AK.">3,4,31,236.</ls>
+<ls>H. 369.</ls>
+<ls>an. 2,472.</ls>
+<ls>MED. r. 102.</ls> <ls>HALĀY. 2,217.</ls> <ls>ṚV. 10,87,3.</ls> <ls n="ṚV. 10,87,">5.</ls> <ls n="ṚV. 10,87,">9.</ls> <ls>M. 3,164.</ls> <ls n="M.">9,80.</ls> <ls n="M.">12,56. fg.</ls> <ls n="M. 12,">59.</ls> <ls>MBH. 13,5455.</ls> <ls>Spr. (II) 3096.</ls> <ls n="Spr. (II)">6217.</ls> {#veSyANganA, nfpanIti#}
+<ls n="Spr. (II)">6739.</ls> <ls>VARĀH. BṚH. S. 15,23. 16,5. 36. 86,31.</ls> <ls>BṚH. 12,15. 21,6.</ls> <ls>LAGHUJ. 2,15.</ls> <ls>PAÑCAR. 1,6,49.</ls> {#paSu#}
+<ls>H. 1216.</ls> {#°yantra#}
+<ls>YĀJÑ. 3,240.</ls>
+<ls>HEM.</ls>
+<ls>YOGAŚ. 3,76.</ls> {#vAc#}
+<ls>BHĀG. P. 3,19,21.</ls> {#agnihotrAdi#}
+<ls n="BHĀG. P.">7,15,48.</ls> {#°karman#} <lex>adj.</lex>
+<ls>VARĀH. BṚH. 19,7.</ls> m. {%Raubthier%}
+<ls>RAGH. 2,27.</ls> <ls n="RAGH. 2,">62.</ls> <ls n="RAGH.">14,28.</ls> am Ende eines comp. {%streng verfahrend mit%}: {#duzwasAmanta°#}
+<ls>M. 9,310.</ls> {#a°#}
+<ls>KĀTY. ŚR. 2,2,12.</ls>
+<ls>Spr. (II) 825.</ls>
+<ls>MĀRK. P. 50,72.</ls>
+<ls>BHĀG. P. 8,16,49.</ls>
+<ls>PAÑCAR. 4,3,36.</ls> {#vAc#}
+<ls>MBH. 5,857.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) Bein. <is>Śiva's</is> und <is>Bhīmasena's</is>
+<ls>UṆĀDIK.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— b) N. pr. eines {%grausamen%} Brahmanen
+<ls>HARIV. 1189.</ls>
+<div n="1">— 3) <lex>f.</lex> {#A#}
+<div n="2"> a) {%Nardostachys Jatamansi%} ({#jawAmAMsI#})
+<ls>H. an.</ls> <ls>MED.</ls> <ls>RĀJAN. 12,97.</ls> = {#kAkAdanI#}
+<ls>H. an.</ls> = {#elAvalI#} (?)
+<ls>MED.</ls> {%Coix barbata Roxb.%}
+<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> — <ls>SUŚR. 2,106,2. 498,13.</ls>
+<div n="2">— b) {%Fett, adeps%} ({#vasA#})
+<ls>H. an.</ls>
+<div n="2">— c) = {#nAqI#} {%Ader u.s.w.%}
+<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 4) <lex>n.</lex> {%Grausamkeit%}: {#hiMsrAhiMsre#}
+<ls>M. 1,29.</ls>
+<ls>MĀRK. P. 48,40.</ls>
 <div n="v">— Vgl. {#vi°#} .
 <LEND>

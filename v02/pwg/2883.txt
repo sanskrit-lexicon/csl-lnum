@@ -1,59 +1,58 @@
 <L>2883<pc>1-0210<k1>anubanDa<k2>anubanDa
-{#anubanDa#}¦ (von {#banD#} mit {#anu#}) 
-<div n="1"> 1) <lex>m.</lex> 
-<div n="2"> a) {%Band, Verbindung%} ({#banDa#}) 
-<ls>MED. dh. 40.</ls> 
-<div n="2">— b) {%ununterbrochene Reihe, ununterbrochene Folge%}: {#harizye coruvegena plavamAno mahArRavam . latAnAM viviDaM puzpaM pAdapAnAM ca sarvaSaH .. anubanDena puzpARAM viviDena suganDinAm . Bavizyati ca me panTAH#} 
-<ls>R. 5, 3, 43. 44.</ls> {#anarTaM sAnubanDam, arTamarTAnubanDam#} 
-<ls>81, 4.</ls> {#sAnubanDAH kaTaM na syuH saMpado me nirApadaH#} 
-<ls>RAGH. 1, 64.</ls> {#vAzpaM kuru sTiratayA viratAnubanDam#} {%hemme den Fluss der Thränen%} (v. l. {#SiTilAnu°#}) 
-<ls>ŚĀK. 90.</ls> 
-<div n="2">— c) {%Folge, die Folgen%}: {#yadagre cAnubanye ca suKam#} 
-<ls>BHAG. 18, 39.</ls> {#anubanDaM kzayaM hiMsAmanavekzya#} 
-<ls>25.</ls> {#praTamaM te mahArAja kftyametanna cintitam . kevalaM vIryamattena nAnubanDo vicAritaH#} 
-<ls>R. 6, 40, 4.</ls> {#anubanDamajAnantaH karmaRAmavicakzaRAH#} 
-<ls>3, 57, 6.</ls> {#pApAnubanDo yasya syAtkarmaRaH#} 
-<ls>19.</ls> {#SAntajvaro 'pi SoDyaH syAdanubanDaBayAnnaraH#} 
-<ls>SUŚR. 2, 412, 20.</ls> 
-<div n="2">— d) {%Nachkommenschaft%}: {#sAnubanDA hatA hyasi#} 
-<ls>R. 2, 7, 28.</ls> {#kEkeyIM ca baDizyAmi sAnubanDAM sabAnDavAm#} 
-<ls>97, 27.</ls> 
-<div n="2">— e) {%Absicht, Motiv einer Handlung%}: {#anubanDaM parijYAya deSakAlO ca tattvataH - daRqaM daRqyezu pAtayet#} 
-<ls>M. 8, 126.</ls> {#pApAnubanDa#} {%Böses im Schilde führend%} 
-<ls>R. 1, 34, 30.</ls> {#vihitakrIqAnubanDacCalaH#} {%den Schein gebend, als wenn er einen Scherz beabsichtigte%} 
-<ls>AMAR. 16.</ls> 
-<div n="2">— f) {%Hinderniss%}: {#virAtre cAgataM kasmAtko 'nubanDaSca te 'Bavat#} 
-<ls>SĀV. 6, 28.</ls> 
-<div n="2">— g) {%ein secundäres Symptom, symptomatische Affection%} ({#vEdyakamate vAtAdidozARAmapraDAnyam#} 
-<ls>ŚKDR.</ls>): {#mUrCAnubanDA vizamajvarAH#} 
-<ls>SUŚR. 2, 404, 10. 6.</ls> 
-<div n="2">— h) {#vedAntamate aDikArivizayasaMbanDaprayojanAni#} 
-<ls>ŚKDR.</ls> 
-<div n="2">— i) (in der Gramm.) {%ein stummer Buchstab%} oder {%eine stumme Silbe, die an eine Wurzel, ein Thema, ein Suffix u.s.w. gefügt wird, zur Bezeichnung einer Eigenthümlicheit derselben%}, ({#vinaSvare#}) 
-<ls>AK. 3, 4, 101.</ls> 
-<ls>MED. dh. 40.</ls> <ls>P. 1, 2, 19</ls>, <ls>Sch.</ls> <ls>2, 4, 54</ls>, <ls>Sch.</ls> — Die indischen Lexicographen geben noch folgende Bedeutungen an: 
-<div n="2"> k) = {#dozotpAda#} 
-<ls>AK. 3, 4, 101.</ls> 
-<ls>H. an. 4, 147.</ls> (ein Halb - <is>Śloka</is>, der unter Anderm das zu erklärende Wort selbst enthielt, fehlt in der Calc. Ausg.) 
-<ls>MED. dh. 40.</ls> <ls>COLEBR.</ls> erklärt dieses durch {%offence or guilt%}, 
+{#anubanDa#}¦ (von {#banD#} mit {#anu#})
+<div n="1"> 1) <lex>m.</lex>
+<div n="2"> a) {%Band, Verbindung%} ({#banDa#})
+<ls>MED. dh. 40.</ls>
+<div n="2">— b) {%ununterbrochene Reihe, ununterbrochene Folge%}: {#harizye coruvegena plavamAno mahArRavam . latAnAM viviDaM puzpaM pAdapAnAM ca sarvaSaH .. anubanDena puzpARAM viviDena suganDinAm . Bavizyati ca me panTAH#}
+<ls>R. 5,3,43.</ls> <ls n="R. 5,3,">44</ls> {#anarTaM sAnubanDam, arTamarTAnubanDam#}
+<ls n="R. 5,">81,4.</ls> {#sAnubanDAH kaTaM na syuH saMpado me nirApadaH#}
+<ls>RAGH. 1,64.</ls> {#vAzpaM kuru sTiratayA viratAnubanDam#} {%hemme den Fluss der Thränen%} (v. l. {#SiTilAnu°#})
+<ls>ŚĀK. 90.</ls>
+<div n="2">— c) {%Folge, die Folgen%}: {#yadagre cAnubanye ca suKam#}
+<ls>BHAG. 18,39.</ls> {#anubanDaM kzayaM hiMsAmanavekzya#}
+<ls n="BHAG. 18,">25.</ls> {#praTamaM te mahArAja kftyametanna cintitam . kevalaM vIryamattena nAnubanDo vicAritaH#}
+<ls>R. 6,40,4.</ls> {#anubanDamajAnantaH karmaRAmavicakzaRAH#}
+<ls n="R.">3,57,6.</ls> {#pApAnubanDo yasya syAtkarmaRaH#}
+<ls n="R. 6,40,">19.</ls> {#SAntajvaro 'pi SoDyaH syAdanubanDaBayAnnaraH#}
+<ls>SUŚR. 2,412,20.</ls>
+<div n="2">— d) {%Nachkommenschaft%}: {#sAnubanDA hatA hyasi#}
+<ls>R. 2,7,28.</ls> {#kEkeyIM ca baDizyAmi sAnubanDAM sabAnDavAm#}
+<ls n="R. 2,">97,27.</ls>
+<div n="2">— e) {%Absicht, Motiv einer Handlung%}: {#anubanDaM parijYAya deSakAlO ca tattvataH — daRqaM daRqyezu pAtayet#}
+<ls>M. 8,126.</ls> {#pApAnubanDa#} {%Böses im Schilde führend%}
+<ls>R. 1,34,30.</ls> {#vihitakrIqAnubanDacCalaH#} {%den Schein gebend, als wenn er einen Scherz beabsichtigte%}
+<ls>AMAR. 16.</ls>
+<div n="2">— f) {%Hinderniss%}: {#virAtre cAgataM kasmAtko 'nubanDaSca te 'Bavat#}
+<ls>SĀV. 6,28.</ls>
+<div n="2">— g) {%ein secundäres Symptom, symptomatische Affection%} ({#vEdyakamate vAtAdidozARAmapraDAnyam#}
+<ls>ŚKDR.</ls>): {#mUrCAnubanDA vizamajvarAH#}
+<ls>SUŚR. 2,404,10. 6.</ls>
+<div n="2">— h) {#vedAntamate aDikArivizayasaMbanDaprayojanAni#}
+<ls>ŚKDR.</ls>
+<div n="2">— i) (in der Gramm.) {%ein stummer Buchstab%} oder {%eine stumme Silbe, die an eine Wurzel, ein Thema, ein Suffix u.s.w. gefügt wird, zur Bezeichnung einer Eigenthümlicheit derselben%}, ({#vinaSvare#})
+<ls>AK. 3,4,101.</ls>
+<ls>MED. dh. 40.</ls> <ls>P. 1,2,19</ls>, <ls>Sch.</ls> <ls n="P.">2,4,54</ls>, <ls>Sch.</ls> — Die indischen Lexicographen geben noch folgende Bedeutungen an:
+<div n="2"> k) = {#dozotpAda#}
+<ls>AK. 3,4,101.</ls>
+<ls>H. an. 4,147.</ls> (ein Halb — <is>Śloka</is>, der unter Anderm das zu erklärende Wort selbst enthielt, fehlt in der Calc. Ausg.)
+<ls>MED. dh. 40.</ls> <ls>COLEBR.</ls> erklärt dieses durch {%offence or guilt%},
 <ls>ŚKDR.</ls> durch {#dosotpatti#} . Es ist vielleicht das {%Motiv eines Vergehens%} gemeint; vgl. {%e.%} —
 [Page1-0211]
-
-<div n="2">— l) = {#prakftyAdi#} {%Thema u.s.w.%} 
-<ls>AK.</ls> 
-<div n="2">— m) {#muKyAnuyAyini SiSO#} 
-<ls>AK.</ls> <ls>H. an. 4, 146.</ls> {#muKyAnuyAyibAle#} 
-<ls>MED.</ls> Einige machen daraus zwei Bedeutungen. 
-<div n="2">— n) {#prakftasyAnuvartane#} 
-<ls>AK.</ls> <ls>H. an.</ls> {#prakftasyAnivartane#} 
-<ls>MED.</ls> <ls>COLEBR.</ls> : {%continuation.%} 
-<div n="2">— o) {%Anfang%} ({#AramBa#}) 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— p) {%ein Bischen%} 
-<ls>TRIK. 3, 2, 8.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#I#} . 
-<div n="2"> a) {%Durst%} 
-<ls>H. an. 4, 147.</ls> 
-<ls>MED. dh. 41.</ls> 
+<div n="2">— l) = {#prakftyAdi#} {%Thema u.s.w.%}
+<ls>AK.</ls>
+<div n="2">— m) {#muKyAnuyAyini SiSO#}
+<ls>AK.</ls> <ls>H. an. 4,146.</ls> {#muKyAnuyAyibAle#}
+<ls>MED.</ls> Einige machen daraus zwei Bedeutungen.
+<div n="2">— n) {#prakftasyAnuvartane#}
+<ls>AK.</ls> <ls>H. an.</ls> {#prakftasyAnivartane#}
+<ls>MED.</ls> <ls>COLEBR.</ls> : {%continuation.%}
+<div n="2">— o) {%Anfang%} ({#AramBa#})
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— p) {%ein Bischen%}
+<ls>TRIK. 3,2,8.</ls>
+<div n="1">— 2) <lex>f.</lex> {#I#} .
+<div n="2"> a) {%Durst%}
+<ls>H. an. 4,147.</ls>
+<ls>MED. dh. 41.</ls>
 <div n="2">— b) {%der Schlucken%} ({#hikkA#}) dies.
 <LEND>

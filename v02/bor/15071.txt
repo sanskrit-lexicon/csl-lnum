@@ -1,11 +1,11 @@
 <L>15071<pc>461<k1>much less<k2>much less
-<div n="lb"/>{@MUCH LESS, MUCH MORE:@}¦ <div n="1">(1) {#kimuta,#} <div n="xe">{%even my%}
-<div n="lb"/>{%parents do not recognise me, m. less others:%}</div>
-<div n="lb"/><div n="xs">{#pitarAvapimAM na pratisaMvidAte kimutetaraH,#}</div> D.: <div n="xe">{%he is master%}
-<div n="lb"/>{%even of my body, m. more of (my) house, of (my)%}
-<div n="lb"/>{%fortune, and of (my) dependants:%}</div> <div n="xs">{#SarIrasyApyayameva #}
-<div n="lb"/>{# praBuH, kimuta Bavanasya viBavasya parijanasya vA,#}</div> <ls>K.</ls> ;</div>
-<div n="lb"/><div n="1">(2) {#kimu,#} <div n="xe">{%m. less kings:%}</div> <div n="xs">{#kimu rAjakam,#}</div> Ki. ii. 43.;</div>
-<div n="lb"/><div n="1">(3) {#kiM punar,#} <div n="xe">{%m. more one who is so high:%}</div> <div n="xs">{#kiM #}
-<div n="lb"/>{# punaryastaToccEH,#}</div> Me.</div>
+{@MUCH LESS, MUCH MORE:@}¦ <div n="1">(1) {#kimuta,#} <div n="xe">{%even my%}
+{%parents do not recognise me, m. less others:%}</div>
+<div n="xs">{#pitarAvapimAM na pratisaMvidAte kimutetaraH,#}</div> D.: <div n="xe">{%he is master%}
+{%even of my body, m. more of (my) house, of (my)%}
+{%fortune, and of (my) dependants:%}</div> <div n="xs">{#SarIrasyApyayameva #}
+{# praBuH, kimuta Bavanasya viBavasya parijanasya vA,#}</div> <ls>K.</ls> ;</div>
+<div n="1">(2) {#kimu,#} <div n="xe">{%m. less kings:%}</div> <div n="xs">{#kimu rAjakam,#}</div> Ki. ii. 43.;</div>
+<div n="1">(3) {#kiM punar,#} <div n="xe">{%m. more one who is so high:%}</div> <div n="xs">{#kiM #}
+{# punaryastaToccEH,#}</div> Me.</div>
 <LEND>

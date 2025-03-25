@@ -1,9 +1,9 @@
 <L>15790<pc>484<k1>offensive<k2>offensive
-<div n="lb"/>{@OFFENSIVE:@}¦ <div n="I">I Displeasing, disagreeable:
-<div n="lb"/>{#duzwa#} (f. {#zwA#}), <div n="xe">{%o. words:%}</div> <div n="xs">{#duzwavAkyam;#}</div> {%o. smell:%}
-<div n="lb"/>{#duzwaganDaH.#} </div><div n="I">II Injurious: {#pIqAkaraH#} ({#rI, raM#}) and
-<div n="lb"/>sim. comp.s. </div><div n="I">III Assailant: {#AkrAmaka-#} in
-<div n="lb"/>comp. (?). Ph.: <div n="xe">{%league o. and defensive:%}</div> <div n="xs">{#saNgataH#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#kAYcanaH sanDiH,#}</div> Ka. ix. 8.; <div n="xe">{%to act on the%}
-<div n="lb"/>{%o.:%}</div> <div n="xs">{#parAmiyogaM karoti#}</div> (??).</div>
+{@OFFENSIVE:@}¦ <div n="I">I Displeasing, disagreeable:
+{#duzwa#} (f. {#zwA#}), <div n="xe">{%o. words:%}</div> <div n="xs">{#duzwavAkyam;#}</div> {%o. smell:%}
+{#duzwaganDaH.#} </div><div n="I">II Injurious: {#pIqAkaraH#} ({#rI, raM#}) and
+sim. comp.s. </div><div n="I">III Assailant: {#AkrAmaka-#} in
+comp. (?). Ph.: <div n="xe">{%league o. and defensive:%}</div> <div n="xs">{#saNgataH#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#kAYcanaH sanDiH,#}</div> Ka. ix. 8.; <div n="xe">{%to act on the%}
+{%o.:%}</div> <div n="xs">{#parAmiyogaM karoti#}</div> (??).</div>
 <LEND>

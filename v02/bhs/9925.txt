@@ -1,26 +1,3 @@
 <L>9925<pc>360,2<k1>praRIta<k2>praRIta
-{@praṇīta@}¦, adj. (= Pali paṇīta, esp. of food, but also
-<div n="lb">of dhamma, sattā, {%creatures%}, etc.), {%superior, excellent,%}
-<div n="lb">{%distinguished, first-class%}; esp. of food (and drink) and
-<div n="lb">sometimes used, without noun, of fine food: °ta-vijñāpanam
-<div n="lb">Mvy 8462, {%asking for fine food%}, = Tib. zas ({%food%}) bsod pa
-<div n="lb">({%good%}) sloṅ ba ({%begging%}), something forbidden to monks
-<div n="lb">by Prāt 511.2 (°ta-bhojanāni…); elsewhere, of food
-<div n="lb">(sometimes drink), LV 387.5; Mv i.113.6; 211.9 = ii.15.8;
-<div n="lb">ii.274.9; iii.39.5; 142.2, 15, etc.; Divy 13.7; 50.14, etc.
-<div n="lb">(common); Jm 19.25; Av i.64.9; 264.11, etc. (common);
-<div n="lb">LV 214.21 (rasāṃ praṇītāṃ, acc. pl.); of living creatures
-<div n="lb">(sattva), esp. bracketed with hīna, {%low%}, sometimes also
-<div n="lb">with madhya(ma), {%middling%}, SP 9.8; 370.2; LV 151.14;
-<div n="lb">344.11; 399.22; Mv ii.132.8; Bbh 391.2, 3; of dharma,
-<div n="lb">LV 393.16; Mv i.173.11 f. (opp. hīna); Divy 385.20;
-<div n="lb">Bbh 33.16; of divine existences, Divy 98.21 (devanikāya);
-<div n="lb">Av i.259.4 and 292.1 (trayastriṃśa); misc., Mvy 1200,
-<div n="lb">2527 (unspecified; = Tib. gya nom pa); SP 341.12 (see
-<div n="lb">{@prajñapta@}); 214.2 (jñānaṃ); 350.11 (praṇīta-mukha-
-<div n="lb">maṇḍalaḥ, {%having an excellent round mouth%}, or {%face%}); LV
-<div n="lb">47.7 (dhyānasukhaṃ); 196.5 (dāna); 196.7 (bodhimārga);
-<div n="lb">242.9 (kāma, {%desires = desirable things%}); Mv i.290.20 and
-<div n="lb">291.2 (ratanaṃ); ii.279.4 (artha, the {%goal%} of the Bodhi-
-<div n="lb">sattva); Bbh 120.9 (vastu).
+{@praṇīta@}¦, <lex>adj.</lex> (= <lang>Pali</lang> paṇīta, <ab>esp.</ab> of food, but also of dhamma, sattā, {%creatures%}, <ab>etc.</ab>), {%superior, excellent, distinguished, first-class%}; <ab>esp.</ab> of food (and drink) and sometimes used, without noun, of fine food: °ta-vijñāpanam <ls>Mvy</ls> 〔8462〕, {%asking for fine food%}, = <lang>Tib.</lang> <tib>zas</tib> ({%food%}) <tib>bsod pa</tib> ({%good%}) <tib>sloṅ ba</tib> ({%begging%}), something forbidden to monks by <ls>Prāt</ls> 〔511.2〕 (°ta-bhojanāni …); elsewhere, of food (sometimes drink), <ls>LV</ls> 〔387.5〕; <ls>Mv</ls> 〔i.113.6〕; 〔211.9〕 = 〔ii.15.8〕; 〔ii.274.9〕; 〔iii.39.5〕; 〔142.2, 15〕, <ab>etc.</ab>; <ls>Divy</ls> 〔13.7〕; 〔50.14〕, <ab>etc.</ab> (common); <ls>Jm</ls> 〔19.25〕; <ls>Av</ls> 〔i.64.9〕; 〔264.11〕, <ab>etc.</ab> (common); <ls>LV</ls> 〔214.21〕 (rasāṃ praṇītāṃ, <lex>acc.</lex> <ab>pl.</ab>); of living creatures (sattva), <ab>esp.</ab> bracketed with hīna, {%low%}, sometimes also with madhya(ma), {%middling%}, <ls>SP</ls> 〔9.8〕; 〔370.2〕; <ls>LV</ls> 〔151.14〕; 〔344.11〕; 〔399.22〕; <ls>Mv</ls> 〔ii.132.8〕; <ls>Bbh</ls> 〔391.2, 3〕; of dharma, <ls>LV</ls> 〔393.16〕; <ls>Mv</ls> 〔i.173.11 f.〕 (<ab>opp.</ab> hīna); <ls>Divy</ls> 〔385.20〕; <ls>Bbh</ls> 〔33.16〕; of divine existences, <ls>Divy</ls> 〔98.21〕 (devanikāya); <ls>Av</ls> 〔i.259.4〕 and 〔292.1〕 (trayastriṃśa); <ab>misc.</ab>, <ls>Mvy</ls> 〔1200, 2527〕 (unspecified; = <lang>Tib.</lang> <tib>gya nom pa</tib>); <ls>SP</ls> 〔341.12〕 (see {@prajñapta@}); 〔214.2〕 (jñānaṃ); 〔350.11〕 (praṇīta-mukhamaṇḍalaḥ, {%having an excellent round mouth%}, or {%face%}); <ls>LV</ls> 〔47.7〕 (dhyānasukhaṃ); 〔196.5〕 (dāna); 〔196.7〕 (bodhimārga); 〔242.9〕 (kāma, {%desires = desirable things%}); <ls>Mv</ls> 〔i.290.20〕 and 〔291.2〕 (ratanaṃ); 〔ii.279.4〕 (artha, the {%goal%} of the Bodhisattva); <ls>Bbh</ls> 〔120.9〕 (vastu).
 <LEND>

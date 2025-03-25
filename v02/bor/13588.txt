@@ -1,9 +1,9 @@
 <L>13588<pc>418<k1>limb<k2>limb
-<div n="lb"/>{@LIMB:@}¦ <div n="I">I Of the body: </div><div n="1">(1) {#aNgam,#} {%over every l.:%}
-<div n="lb"/>{#sarvANgIRaH#} ({#RA, RaM#}), V.; </div><div n="1">(2) {#avayavaH,#} <div n="xe">{%description%}
-<div n="lb"/>{%of every l.:%}</div> <div n="xs">{#pratyavayavavarRanA,#}</div> V. ii. II. Fig.: </div><div n="1">(1)
-<div n="lb"/>{#aNgam,#} <div n="xe">{%l. s of the Vedas:%}</div> <div n="xs">{#vedANgAni,#}</div> Mah.; </div><div n="1">(2)
-<div n="lb"/>{#avayavaH,#} {%while any l. of the Nanda family is alive:%}
-<div n="lb"/>{#kasmiMScidapi jIvati nandAnvayAvayave,#} Mu. </div><div n="I">III Edge,
-<div n="lb"/>border: q. v.: {#kowiH.#}</div>
+{@LIMB:@}¦ <div n="I">I Of the body: </div><div n="1">(1) {#aNgam,#} {%over every l.:%}
+{#sarvANgIRaH#} ({#RA, RaM#}), V.; </div><div n="1">(2) {#avayavaH,#} <div n="xe">{%description%}
+{%of every l.:%}</div> <div n="xs">{#pratyavayavavarRanA,#}</div> V. ii. II. Fig.: </div><div n="1">(1)
+{#aNgam,#} <div n="xe">{%l. s of the Vedas:%}</div> <div n="xs">{#vedANgAni,#}</div> Mah.; </div><div n="1">(2)
+{#avayavaH,#} {%while any l. of the Nanda family is alive:%}
+{#kasmiMScidapi jIvati nandAnvayAvayave,#} Mu. </div><div n="I">III Edge,
+border: q. v.: {#kowiH.#}</div>
 <LEND>

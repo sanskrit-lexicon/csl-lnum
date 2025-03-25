@@ -1,23 +1,23 @@
 <L>92031<pc>6-1090<k1>vinigraha<k2>vinigraha
-{#vinigraha#}¦ (von {#grah#} mit {#vini#}) <lex>m.</lex> 
-<div n="1"> 1) {%das Getrennthalten, Trennung%} 
-<ls>NIR. 1, 3. 5. 7.</ls> 
-<div n="1">— 2) {%das Niederhalten, Zurückhalten, Verhalten, Einhaltthun%}; einer Person: {#BavataH#} (subj.) 
-<ls>BHĀG. P. 8, 22, 3.</ls> {#pituH#} (obj.). 
-<ls>R. GORR. 2, 20, 46.</ls> {#dvizatAm#} 
-<ls>5, 43, 5.</ls> <ls>MBH. 3, 17460. 15011. 5, 2284.</ls> {#ari°#} 
-<ls>3, 17464. 8, 1518.</ls> <ls>HARIV. 2577.</ls> {#Atma°#} 
-<ls>BHAG. 13, 7. 17, 16.</ls> {#paYcavarga°#} 
-<ls>MBH. 12, 2600.</ls> {#prARa°#} 
-<ls>Verz. d. Oxf. H. 237,a, No. 568.</ls> {#vfzweH#} 
-<ls>VARĀH. BṚH. S. 4, 13.</ls> {#mUtra°#} 
-<ls>SUŚR. 2, 514, 4.</ls> {#niSvAsa°#} 
-<ls>8.</ls> {#vega°#} 
-<ls>304, 17.</ls> {#loBasya kroDasya ca#} 
-<ls>MBH. 3, 13987. 12, 6958.</ls> {#pApa°#} 
-<ls>M. 9, 263.</ls> {#yOvarAjyABizekasya#} 
-<ls>R. GORR. 2, 19, 12.</ls> 
-<div n="1">— 3) {%Restriction, Einschränkung%}, als Bed. von {#eva#} 
-<ls>MED. <is>avy</is>. 77.</ls> von {#aha#} 
-<ls>88.</ls>
+{#vinigraha#}¦ (von {#grah#} mit {#vini#}) <lex>m.</lex>
+<div n="1"> 1) {%das Getrennthalten, Trennung%}
+<ls>NIR. 1,3. 5. 7.</ls>
+<div n="1">— 2) {%das Niederhalten, Zurückhalten, Verhalten, Einhaltthun%}; einer Person: {#BavataH#} (subj.)
+<ls>BHĀG. P. 8,22,3.</ls> {#pituH#} (obj.).
+<ls>R. GORR. 2,20,46.</ls> {#dvizatAm#}
+<ls n="R. GORR.">5,43,5.</ls> <ls>MBH. 3,17460.</ls> <ls n="MBH. 3,">15011.</ls> <ls n="MBH.">5,2284.</ls> {#ari°#}
+<ls n="MBH.">3,17464.</ls> <ls n="MBH.">8,1518.</ls> <ls>HARIV. 2577.</ls> {#Atma°#}
+<ls>BHAG. 13,7. 17,16.</ls> {#paYcavarga°#}
+<ls>MBH. 12,2600.</ls> {#prARa°#}
+<ls>Verz. d. Oxf. H. 237,a, No. 568.</ls> {#vfzweH#}
+<ls>VARĀH. BṚH. S. 4,13.</ls> {#mUtra°#}
+<ls>SUŚR. 2,514,4.</ls> {#niSvAsa°#}
+<ls n="SUŚR.">8.</ls> {#vega°#}
+<ls n="SUŚR.">304,17.</ls> {#loBasya kroDasya ca#}
+<ls>MBH. 3,13987.</ls> <ls n="MBH.">12,6958.</ls> {#pApa°#}
+<ls>M. 9,263.</ls> {#yOvarAjyABizekasya#}
+<ls>R. GORR. 2,19,12.</ls>
+<div n="1">— 3) {%Restriction, Einschränkung%}, als Bed. von {#eva#}
+<ls>MED. <is>avy</is>. 77.</ls> von {#aha#}
+<ls n="MED. avy,">88.</ls>
 <LEND>

@@ -1,5 +1,5 @@
 <L>10931<pc>344<k1>heroic<k2>heroic
-<div n="lb"/>{@HEROIC, -AL:@}¦ <div n="I">I Lit.: by comp., {%h. age:%}
-<div n="lb"/>{#*vIrayugam.#} </div><div n="I">II Epic: q.v. </div><div n="I">III Bold, brave:
-<div n="lb"/>q.v.: <div n="xe">{%h. action:%}</div> <div n="xs">{#vIratvam;#}</div> <div n="xe">{%h. enterprise:%}</div> <div n="xs">{#vIracaritam.#}</div></div>
+{@HEROIC, -AL:@}¦ <div n="I">I Lit.: by comp., {%h. age:%}
+{#*vIrayugam.#} </div><div n="I">II Epic: q.v. </div><div n="I">III Bold, brave:
+q.v.: <div n="xe">{%h. action:%}</div> <div n="xs">{#vIratvam;#}</div> <div n="xe">{%h. enterprise:%}</div> <div n="xs">{#vIracaritam.#}</div></div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>21769<pc>686<k1>substance<k2>substance
-<div n="lb"/>{@SUBSTANCE:@}¦ <div n="I">I Essence: q. v.: {#sAraH.#} </div><div n="I">II
-<div n="lb"/>Thing: q. v.: {#vastu#} (n.). </div><div n="I">III In phil.: </div><div n="1">(1)
-<div n="lb"/>{#dravyam;#} </div><div n="1">(2) {#padArTaH,#} Par.; </div><div n="1">(3) {#Darmin#} (m.: rare),
-<div n="lb"/>S. </div><div n="I">IV Form, matter: q. v.: {#mUrtiH.#} </div><div n="I">V
-<div n="lb"/>Property, goods: q. v.: {#sampattiH.#}</div>
+{@SUBSTANCE:@}¦ <div n="I">I Essence: q. v.: {#sAraH.#} </div><div n="I">II
+Thing: q. v.: {#vastu#} (n.). </div><div n="I">III In phil.: </div><div n="1">(1)
+{#dravyam;#} </div><div n="1">(2) {#padArTaH,#} Par.; </div><div n="1">(3) {#Darmin#} (m.: rare),
+S. </div><div n="I">IV Form, matter: q. v.: {#mUrtiH.#} </div><div n="I">V
+Property, goods: q. v.: {#sampattiH.#}</div>
 <LEND>

@@ -1,83 +1,76 @@
 <L>12775<pc>1-1024<k1>UrRu<k2>UrRu
-{#UrRu#}¦ (ein aus {#vfRo - ti#} von {#var#} hervorgegangener Verbalstamm), {#UrRo/ti#} und {#UrRO/ti#} 
-<ls>P. 7, 3, 90.</ls> {#UrRute; OrRot#} 
-<ls>91</ls>; {#UrRunAva#} 
-<ls>6, 1, 8</ls>, <ls>Sch.</ls> (vgl. <is>Kār</is>. 
-zu <ls>3, 1, 22</ls>); {#OrRAvIt, OrRavIt#} und {#OrRuvIt#} 
-<ls>7, 2, 6</ls>; {#UrRavitA#} und {#UrRuvitA#} 
-<ls>1, 2, 3</ls>; partic. praet. pass. {#UrRuta#} 
-<ls>?7, 2, 11, Sch. VOP. 8, 55. 9, 46 - 49. 51. 52. 26, 89.</ls> {%umgeben, umhüllen%} 
-<ls>DHĀTUP. 24, 30.</ls> {#sa dyAmO^rRoda\ntari^kza\M sva^H#} 
-<ls>AV. 7, 1, 2.</ls> {#kene\mAM BUmi^mOrRot#} 
-?<ls n="ṚV.">10, 2, 18.</ls> <ls n="ṚV.">18, 4, 59</ls> (<ls>ṚV.</ls> var. l.). {#UrRunAva sa SastrOGErvAnarARAmanIkinIm#} 
-<ls>BHAṬṬ. 14, 103.</ls> {#dfzwvorRuvAnAnkakuBo balOGAn#} 
-<ls>3, 47.</ls> med. {%sich einhüllen%}: {#UrRanABiryaTorRute#} 
-<ls>BHĀG. P. 2, 9, 27.</ls> — desid. {#UrRunUzati, UrRunavizati, UrRunuvizati#} 
-<ls>P. 7, 2, 49.</ls> 
-<ls>VOP. 19, 8.</ls> — intens. {#UrRonUyate#} 
-<ls>PAT.</ls> und <is>Kār</is>. zu 
-<ls>P. 3, 1, 22. 6, 1, 9,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 20, 1. 4.</ls>
-
-<div n="p">— {#apa#} act. med. {%aufdecken, enthüllen; öffnen%}: {#apI^vftA aporRu\vanta^H#} 
-<ls>ṚV. 1, 190, 6.</ls> <ls n="ṚV.">4, 45, 2.</ls> <ls n="ṚV.">8, 40, 5.</ls> {#pa\ri\DIMrapo^rRu#} 
-<ls n="ṚV.">9, 96, 11.</ls> <ls n="ṚV.">10, 40, 8.</ls> {#apa^ DvA\ntamU^rRu\hi#} 
-<ls n="ṚV. 10,">73, 11.</ls> {#apo^ UrRoti\ tamo^ a\rcizA^#} 
-<ls n="ṚV. 10,">88, 12.</ls> <ls>AV. 9, 3, 18.</ls> {#aporRuvanti SAlAyE dvAre#} 
-<ls>ŚAT. BR. 3, 2, 4, 15. 4, 3, 5, 19. 2, 1, 18.</ls> {#aporRO^ti patnISiraH#} 
-<ls>KĀTY. ŚR. 26, 4, 12.</ls> {#aporRute dIkzitaH SiraH#} 
-<ls>7, 8, 25.</ls> {#apo^rRute\ vakza^H#} 
-<ls>ṚV. 1, 92, 4.</ls> {#vra\jam#} 
-<ls n="ṚV. 1,">156, 4.</ls> <ls n="ṚV.">2, 34, 12.</ls> <ls n="ṚV.">9, 108, 4.</ls> — med. {%sich enthüllen, - entblössen%} 
-<ls>ŚAT. BR. 3, 3, 3, 12.</ls> {#aporRvIta#} 
-<ls>TS. 6, 1, 3, 3.</ls>
-
-<div n="p">— {#aBi#} {%bedecken, verhüllen%}; act.: {#a\ByU^rRoti\ yanna\gnam#} 
-<ls>ṚV. 8, 68, 2.</ls> {#a\Bye^naM BUma UrRuhi#} 
-<ls n="ṚV.">10, 18, 11.</ls> <ls>AV. 18, 2, 52.</ls> — med. {%sich verhüllen%} (?): {#a\ByU\rRvA\nA pra^Bf\TasyA\yoH#} 
-<ls>ṚV. 5, 41, 19.</ls> {%verhüllen%} 
-<ls>AV. 14, 1, 27</ls> (<ls>ṚV.</ls> var. l.).
-
-<div n="p">— {#A#} {%decken%}: {#indra\M somE\rorRu^ta\ jUrna vastrE^H#} 
-<ls>ṚV. 2, 14, 3.</ls>
-
-<div n="p">— {#pra#} act. {%bedecken, verhüllen%}: {#prorRu^hi tva\cA#} 
-<ls>AV. 4, 14, 9. 15, 1, 8.</ls> {#vAsasA prorRuvanti#} 
-<ls>AIT. BR. 1, 3.</ls> 
-<ls>TS. 6, 3, 11, 1.</ls> {#vapASrapaRyO prorROti#} 
-<ls>ŚAT. BR. 3, 8, 2, 16.</ls> 
-<ls>KĀTY. ŚR. 6, 6, 12.</ls> {#prOrRAvIcCaravarzeRa tAn#} 
-<ls>BHAṬṬ. 15, 119.</ls> {#dehEH prOrRAvizurBuvam#} 
-<ls>9, 10.</ls> {#prorRuvantaM diSo vAREH#} 
-<ls>5, 56.</ls> {#diSaH prOrRavizuH#} 
-<ls>9, 10.</ls> {#prorRuvitum - diSam#} 
-<ls>7, 93.</ls> {#prorROti SokaScittaM me#} 
-<ls>18, 28.</ls> {#prorROmi kaTaM manyusamudBavam#} 
-<ls>29.</ls> {#prOrRuvIttejasArAtim#} 
-(<ls>Sch.</ls>: = {#aBiBUtavAn#}) 
-<ls>15, 122.</ls> — med. {%sich bedecken%}: {#Gf\tena^ dyAvApfTivI\ prorRu^vATAm#} 
-<ls>VS. 6, 16. 23, 20.</ls> 
-<ls>TS. 6, 1, 3, 2.</ls> 
-<ls>ŚAT. BR. 3, 2, 1, 16. 17. 14, 1, 3, 16.</ls> 
-<ls>KĀTY. ŚR. 7, 3, 28.</ls> 
-<ls>KAUŚ. 44.</ls> {#prorRuta, prorRutavant#} 
-<ls>P. 7, 2, 11,</ls> 
-<ls>Sch.</ls> — intens. {#prorRunUyate#} 
-<ls>PAT.</ls> zu <ls>P. 3, 1, 22.</ls> {%vollständig bedecken%}: {#astrOGEH prOrRonUyata vidvizaH#} 
-<ls>BHAṬṬ. 17, 75.</ls>
+{#UrRu#}¦ (ein aus {#vfRo — ti#} von {#var#} hervorgegangener Verbalstamm), {#UrRo/ti#} und {#UrRO/ti#}
+<ls>P. 7,3,90.</ls> {#UrRute; OrRot#}
+<ls n="P. 7,3,">91</ls>; {#UrRunAva#}
+<ls n="P.">6,1,8</ls>, <ls>Sch.</ls> (vgl. <is>Kār.</is> zu <ls n="P.">3,1,22</ls>);
+{#OrRAvIt, OrRavIt#} und {#OrRuvIt#}
+<ls n="P.">7,2,6</ls>; {#UrRavitA#} und {#UrRuvitA#}
+<ls n="P.">1,2,3</ls>; partic. praet. pass. {#UrRuta#}
+<ls n="P.">7,2,11</ls>, Sch. <ls>VOP. 8,55.</ls> <ls n="VOP.">9,46—49.</ls> <ls n="VOP. 9,">51.</ls> <ls n="VOP. 9,">52.</ls> <ls n="VOP.">26,89.</ls> {%umgeben, umhüllen%}
+<ls>DHĀTUP. 24,30.</ls> {#sa dyAmO^rRoda\ntari^kza\M sva^H#}
+<ls>AV. 7,1,2.</ls> {#kene\mAM BUmi^mOrRot#}
+?<ls n="ṚV.">10,2,18.</ls> <ls n="ṚV.">18,4,59</ls> (<ls>ṚV.</ls> var. l.). {#UrRunAva sa SastrOGErvAnarARAmanIkinIm#}
+<ls>BHAṬṬ. 14,103.</ls> {#dfzwvorRuvAnAnkakuBo balOGAn#}
+<ls n="BHAṬṬ.">3,47.</ls> med. {%sich einhüllen%}: {#UrRanABiryaTorRute#}
+<ls>BHĀG. P. 2,9,27.</ls> — desid. {#UrRunUzati, UrRunavizati, UrRunuvizati#}
+<ls>P. 7,2,49.</ls>
+<ls>VOP. 19,8.</ls> — intens. {#UrRonUyate#}
+<ls>PAT.</ls> und <is>Kār.</is> zu
+<ls>P. 3,1,22.</ls> <ls n="P.">6,1,9</ls>, <ls>Sch.</ls>
+<ls>VOP. 20,1.</ls> <ls n="VOP. 20,">4.</ls>
+<div n="p">— {#apa#} act. med. {%aufdecken, enthüllen; öffnen%}: {#apI^vftA aporRu\vanta^H#}
+<ls>ṚV. 1,190,6.</ls> <ls n="ṚV.">4,45,2.</ls> <ls n="ṚV.">8,40,5.</ls> {#pa\ri\DIMrapo^rRu#}
+<ls n="ṚV.">9,96,11.</ls> <ls n="ṚV.">10,40,8.</ls> {#apa^ DvA\ntamU^rRu\hi#}
+<ls n="ṚV. 10,">73,11.</ls> {#apo^ UrRoti\ tamo^ a\rcizA^#}
+<ls n="ṚV. 10,">88,12.</ls> <ls>AV. 9,3,18.</ls> {#aporRuvanti SAlAyE dvAre#}
+<ls>ŚAT. BR. 3,2,4,15. 4,3,5,19. 2,1,18.</ls> {#aporRO^ti patnISiraH#}
+<ls>KĀTY. ŚR. 26,4,12.</ls> {#aporRute dIkzitaH SiraH#}
+<ls n="KĀTY. ŚR.">7,8,25.</ls> {#apo^rRute\ vakza^H#}
+<ls>ṚV. 1,92,4.</ls> {#vra\jam#}
+<ls n="ṚV. 1,">156,4.</ls> <ls n="ṚV.">2,34,12.</ls> <ls n="ṚV.">9,108,4.</ls> — med. {%sich enthüllen, — entblössen%}
+<ls>ŚAT. BR. 3,3,3,12.</ls> {#aporRvIta#}
+<ls>TS. 6,1,3,3.</ls>
+<div n="p">— {#aBi#} {%bedecken, verhüllen%}; act.: {#a\ByU^rRoti\ yanna\gnam#}
+<ls>ṚV. 8,68,2.</ls> {#a\Bye^naM BUma UrRuhi#}
+<ls n="ṚV.">10,18,11.</ls> <ls>AV. 18,2,52.</ls> — med. {%sich verhüllen%} (?): {#a\ByU\rRvA\nA pra^Bf\TasyA\yoH#}
+<ls>ṚV. 5,41,19.</ls> {%verhüllen%}
+<ls>AV. 14,1,27</ls> (<ls>ṚV.</ls> var. l.).
+<div n="p">— {#A#} {%decken%}: {#indra\M somE\rorRu^ta\ jUrna vastrE^H#}
+<ls>ṚV. 2,14,3.</ls>
+<div n="p">— {#pra#} act. {%bedecken, verhüllen%}: {#prorRu^hi tva\cA#}
+<ls>AV. 4,14,9.</ls> <ls n="AV.">15,1,8.</ls> {#vAsasA prorRuvanti#}
+<ls>AIT. BR. 1,3.</ls>
+<ls>TS. 6,3,11,1.</ls> {#vapASrapaRyO prorROti#}
+<ls>ŚAT. BR. 3,8,2,16.</ls>
+<ls>KĀTY. ŚR. 6,6,12.</ls> {#prOrRAvIcCaravarzeRa tAn#}
+<ls>BHAṬṬ. 15,119.</ls> {#dehEH prOrRAvizurBuvam#}
+<ls n="BHAṬṬ.">9,10.</ls> {#prorRuvantaM diSo vAREH#}
+<ls n="BHAṬṬ.">5,56.</ls> {#diSaH prOrRavizuH#}
+<ls n="BHAṬṬ.">9,10.</ls> {#prorRuvitum — diSam#}
+<ls n="BHAṬṬ.">7,93.</ls> {#prorROti SokaScittaM me#}
+<ls n="BHAṬṬ.">18,28.</ls> {#prorROmi kaTaM manyusamudBavam#}
+<ls n="BHAṬṬ.">29.</ls> {#prOrRuvIttejasArAtim#}
+(<ls>Sch.</ls>: = {#aBiBUtavAn#})
+<ls n="BHAṬṬ.">15,122.</ls> — med. {%sich bedecken%}: {#Gf\tena^ dyAvApfTivI\ prorRu^vATAm#}
+<ls>VS. 6,16.</ls> <ls n="VS.">23,20.</ls>
+<ls>TS. 6,1,3,2.</ls>
+<ls>ŚAT. BR. 3,2,1,16. 17. 14,1,3,16.</ls>
+<ls>KĀTY. ŚR. 7,3,28.</ls>
+<ls>KAUŚ. 44.</ls> {#prorRuta, prorRutavant#}
+<ls>P. 7,2,11</ls>, <ls>Sch.</ls>
+— intens. {#prorRunUyate#}
+<ls>PAT.</ls> zu <ls>P. 3,1,22.</ls> {%vollständig bedecken%}: {#astrOGEH prOrRonUyata vidvizaH#}
+<ls>BHAṬṬ. 17,75.</ls>
 [Page1-1025]
-
-<div n="p">— {#saMpra#} act. med. {%ringsum bedecken%}: {#enAvaDivAsena saMprorRuvanti#} 
-<ls>ŚAT. BR. 13, 5, 2, 2.</ls> {#saM prorRu^zva\ pIva^sA\ meda^sA ca#} 
-<ls>ṚV. 10, 16, 7.</ls>
-
-<div n="p">— {#vi#} act. med. {%aufdecken, enthüllen, öffnen%} 
-<ls>ṚV. 1, 68, 1.</ls> {#vi rAya^ OrRo\ddura^H#} 
-<ls n="ṚV. 1, 68,">10.</ls> (5) <ls n="ṚV.">6, 17, 6.</ls> <ls n="ṚV.">7, 79, 4.</ls> {#vyU\rRva\tI di\vo antA^n#} 
-<ls n="ṚV.">1, 92, 11.</ls> <ls n="ṚV.">5, 80, 6.</ls> {#vyU^rRoti hf\dA ma\tim#} 
-<ls n="ṚV.">1, 105, 15.</ls> <ls n="ṚV.">9, 91, 4.</ls> <ls n="ṚV. 9,">94, 2.</ls> <ls n="ṚV.">10, 38, 2.</ls> <ls n="ṚV. 10,">81, 2.</ls> <ls>AV. 1, 11, 2. 3. 13, 3, 22.</ls> {#AdiddA\mAna^M savita\rvyU^rRuze#} 
-<ls>ṚV. 4, 54, 2.</ls> {#(yaH) vyU\rRu\te dA\Suze\ vAryA^Ri#} 
-<ls n="ṚV.">6, 50, 8.</ls> <ls n="ṚV.">9, 110, 6.</ls> {#dvArA\ vyU^rRute#} 
-<ls n="ṚV.">8, 39, 6.</ls>
+<div n="p">— {#saMpra#} act. med. {%ringsum bedecken%}: {#enAvaDivAsena saMprorRuvanti#}
+<ls>ŚAT. BR. 13,5,2,2.</ls> {#saM prorRu^zva\ pIva^sA\ meda^sA ca#}
+<ls>ṚV. 10,16,7.</ls>
+<div n="p">— {#vi#} act. med. {%aufdecken, enthüllen, öffnen%}
+<ls>ṚV. 1,68,1.</ls> {#vi rAya^ OrRo\ddura^H#}
+<ls n="ṚV. 1,68,">10.</ls> (5) <ls n="ṚV.">6,17,6.</ls> <ls n="ṚV.">7,79,4.</ls> {#vyU\rRva\tI di\vo antA^n#}
+<ls n="ṚV.">1,92,11.</ls> <ls n="ṚV.">5,80,6.</ls> {#vyU^rRoti hf\dA ma\tim#}
+<ls n="ṚV.">1,105,15.</ls> <ls n="ṚV.">9,91,4.</ls> <ls n="ṚV. 9,">94,2.</ls> <ls n="ṚV.">10,38,2.</ls> <ls n="ṚV. 10,">81,2.</ls> <ls>AV. 1,11,2.</ls> <ls n="AV. 1,11,">3.</ls> <ls n="AV.">13,3,22.</ls> {#AdiddA\mAna^M savita\rvyU^rRuze#}
+<ls>ṚV. 4,54,2.</ls> {#(yaH) vyU\rRu\te dA\Suze\ vAryA^Ri#}
+<ls n="ṚV.">6,50,8.</ls> <ls n="ṚV.">9,110,6.</ls> {#dvArA\ vyU^rRute#}
+<ls n="ṚV.">8,39,6.</ls>
 <LEND>

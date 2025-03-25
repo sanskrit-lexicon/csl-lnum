@@ -1,148 +1,146 @@
 <L>29046<pc>3-0282<k1>tala<k2>tala
-{#tala#}¦ <lex>m.</lex> <lex>n.</lex> 
-<ls>SIDDH. K.250</ls>, {%b%}, 
-<ls>8.</ls> 
-<div n="1"> 1) {%Fläche%}: {#SilAtalamASritya#} 
-<ls>MBH. 3, 2412.</ls> {#prasTe samaSilAtale#} 
-<ls>SUND. 4, 6.</ls> 
-<ls>BHARTṚ. 3, 25.</ls> 
-<ls>KUMĀRAS. 1, 56.</ls> 
-<ls>ŚĀK. 171.</ls> 
-<ls>SŪRYAS. 3, 1.</ls> {#SAlAm - sPAwikaprAvftatalAm#} {%Fussboden%} 
-<ls>R. 5, 13, 11.</ls> {#prAsAdatalam - Aropya#} {%auf das flache Dach des Palastes%} 
-<ls>MBH. 3, 2582.</ls> {#prAsAdamAlAH - talEH sPAwikasaMkASErupetAH#} 
-<ls>R. 5, 10, 10.</ls> {#muktAmaRitalAni - BavanAni#} 
-<ls>50, 9.</ls> {#harmya°#} 
-<ls>BHARTṚ. 3, 81.</ls> 
-<ls>ṚT. 1, 3.</ls> 
-<ls>PRAB. 7, 5.</ls> {#mfduSayanatale #}
+{#tala#}¦ <lex>m.</lex> <lex>n.</lex>
+<ls>SIDDH. K. 250,b,8.</ls>
+<div n="1"> 1) {%Fläche%}: {#SilAtalamASritya#}
+<ls>MBH. 3,2412.</ls> {#prasTe samaSilAtale#}
+<ls>SUND. 4,6.</ls>
+<ls>BHARTṚ. 3,25.</ls>
+<ls>KUMĀRAS. 1,56.</ls>
+<ls>ŚĀK. 171.</ls>
+<ls>SŪRYAS. 3,1.</ls> {#SAlAm — sPAwikaprAvftatalAm#} {%Fussboden%}
+<ls>R. 5,13,11.</ls> {#prAsAdatalam — Aropya#} {%auf das flache Dach des Palastes%}
+<ls>MBH. 3,2582.</ls> {#prAsAdamAlAH — talEH sPAwikasaMkASErupetAH#}
+<ls>R. 5,10,10.</ls> {#muktAmaRitalAni — BavanAni#}
+<ls n="R. 5,">50,9.</ls> {#harmya°#}
+<ls>BHARTṚ. 3,81.</ls>
+<ls>ṚT. 1,3.</ls>
+<ls>PRAB. 7,5.</ls> {#mfduSayanatale #}
 [Page3-0283]
-{# Serate#} 
-<ls>BHARTṚ.</ls> <ls>?Suppl. 25. PAÑCAT. 128, 20. 186, 8. GĪT. 12, 2.</ls> {#AdarSa°, darpaRa°#} 
-<ls>SMṚTI</ls> bei <ls>ŚAṂK.</ls> zu <ls>TAITT.</ls> <ls>UP. 1, 4, 3.</ls> <ls>ŚĀK. 191</ls> <ls>RAGH. 16, 6.</ls> <ls>BHĀG.</ls> <ls>P. 5, 20, 35.</ls> <ls>ŚIŚ. 9, 53.</ls> {#kapola°#} 
-<ls>SĀH. D. 56, 13.</ls> {#idaM rasAtalaM nAma saptamaM pfTivItalam#} 
-<ls>MBH. 5, 3602.</ls> {#utKAtaM niDiSaNkayA BUtalam#} 
-<ls>BHARTṚ. 3, 5.</ls> {#Buvastalamiva vyoma kurvanvyomeva BUtalam#} 
-<ls>RAGH. 4, 29.</ls> {#diSAgajam - DArayantaM mahItalam#} 
-<ls>R. 1, 41, 13.</ls> {#jagmurmahItalam#} 
-<ls>40, 17.</ls> {#gaNgAmAnaya - devalokAnmahItalam#} 
-<ls>42, 21.</ls> {#praviveSa talaM BUmeH#} 
-<ls>44, 41.</ls> <ls>ṚT. 1, 17.</ls> {#SoRitaM yAvataH pAMSUnsaMgfhRAti mahItalAt#} 
-<ls>M. 4, 168</ls> (vgl. 
-<ls>11, 207</ls>). {#na praBAtaralaM jyotirudeti vasuDAtalAt#} 
-<ls>ŚĀK. 25.</ls> {#BUtale sTitaH#} 
-<ls>N. 2, 27.</ls> {#nizasAda mahItale#} 
-<ls>10, 5.</ls> <ls>R. 1, 2, 14.</ls> <ls>VET. 4, 16. 33, 13.</ls> {#nItiSAstraM bAlAvaboDanArTaM BUtale pravfttam#} 
-<ls>PAÑCAT. 5, 13. 63, 17.</ls> {#BUtalaviKyAtA#} 
-<ls>VID. 1.</ls> {#kzititalApsarAH#} {%eine auf Erden wandelnde%} <is>Apsaras</is> 
-<ls>KATHĀS. 17, 34.</ls> {#aSokavanikAm - samaBUmitalAm#} 
-<ls>R. 5, 20, 10.</ls> {#svaM jalOGatalaM BittvA vyutTitaH (samudraH)#} 
-<ls>HARIV. 9639.</ls> {#rasAtalatala#} 
-<ls>R. 1, 44, 42.</ls> {#pAtAla°#} 
-<ls>31, 20.</ls> {#talavaddfSyate vyoma Kadyoto havyavAqiva . na cEvAsti talaM vyomni Kadyote ca hutASanaH ..#} 
-<ls>MBH. 12, 4148.</ls> {#avatIrya naBastalAt#} 
-<ls>N. 2, 29.</ls> 
-<ls>KATHĀS. 20, 181.</ls> 
-<ls>BHĀG. P. 2, 1, 27. 6, 9, 15.</ls> {#saMDyAraktatale vyomni#} 
-<ls>HARIV. 4349.</ls> {#amvaratalAt - patitaH#} 
-<ls>MĀRK. P. 20, 48.</ls> {#tadetadAkASatale BAti candra ivoditaH (vimAnaM puzpakam)#} 
-<ls>R. 6, 111, 25.</ls> {#taddurdinatalaM BittvA nAradaH pratyadfSyata#} 
-<ls>HARIV. 9609.</ls> Dieses {#tala#}, welches häufig den Begriff der {%Fläche%} auch da hervorhebt, wo er nicht betont zu werden braucht, und den man daher in der Paraphrase oder Uebersetzung nicht weiter zu berücksichtigen pflegt, ist das {#tala svarUpe#} oder {#svaBAve#} ({%die natürliche Form%}) der Lexicographen. <lex>m.</lex> <lex>n.</lex> 
-<ls>AK. 3, 4, 26, 204.</ls> 
-<ls>MED. l. 21</ls> (lies: {#'strI#}). <lex>m.</lex> 
-<ls>H. an. 2, 489.</ls> Das <lex>m.</lex> nicht zu belegen. 
-<div n="1">— 2) <lex>m.</lex> <lex>n.</lex> in Verbind. mit einem Worte, das {%Hand%} oder {%Fuss%} bedeutet, {%Handfläche, Fusssohle%}: {#pARitale#} du. 
-<ls>MBH. 13, 5013.</ls> {#pARitalena#} 
-<ls>M. 4, 143.</ls> 
-<ls>R. 2, 66, 17.</ls> 
-<ls>BHARTṚ. 1, 19.</ls> 
-<ls>ŚĀK. 80.</ls> 
-<ls>HIT. I, 163.</ls> <ls>VID. 87.</ls> {#karatalaH#} 
-<ls>MĀLAV. 39.</ls> {#pARiBiH - mfdvaNgulitalEH#} 
-<ls>R. 2, 104, 17.</ls> 
-<ls>ŚĀK. 29.</ls> 
-<ls>RAGH. 6, 18.</ls> {#pARipAda°#} 
-<ls>SUŚR. 1, 25, 11.</ls> {#pAdatale#} du. 
-<ls>MBH. 13, 7444.</ls> {#pAdO tAmrAyatatalANgulI#} 
-<ls>INDR. 5, 12.</ls> {#aNGri°#} 
-<ls>BHĀG. P. 8, 20, 23.</ls> {#no vA pAdatale tayA nipatitam#} 
-<ls>AMAR. 62.</ls> 
-<ls>H. 618.</ls> {#mfdutalO#} ({#caraRO#}) 
-<ls>VARĀH. BṚH. S. 67, 2. 68, 1.</ls> {%Handfläche, die flache Hand%} auch ohne danebenstehendes {#kara#} u. s. w. 
-<ls>TRIK. 3, 3, 393.</ls> 
-<ls>H. 596.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>SUŚR. 1, 27, 4. 65, 20. 126, 3</ls> (neutr.). 
-<ls>256, 8.</ls> {#talErapi samAhatEH#} 
-<ls>ARJ. 3, 40.</ls> {#mahAnAdErutkfzwatalanAditEH#} 
-<ls>MBH. 1, 8020.</ls> {#sa vidyucCuritaM cApaM viharanvE talAttalam#} 
-<ls>3, 695.</ls> {#pApAnnizpizeyaM talAsiBiH#} 
-<ls>2, 2377. 4, 353.</ls> {#talAByAmaTa rAmastu vaktre hatvA sa rAkzasam#} 
-<ls>HARIV. 16026.</ls> 
-<ls>R. 6, 36, 36. 37.</ls> {#°saMpAta#} 
-<ls>70, 44.</ls> {#°GAta#} 
-<ls>HARIV. 16027.</ls> {#tataH prahasitAH sarve te 'nyo'nyasya talAndaduH#} 
-<ls>MBH. 3, 14819. 9, 1860.</ls> {#hAsaM mumucuratyarTaM talaM dattvA parasparam#} 
-<ls>HARIV. 15741.</ls> {#°Sabda#} 
-<ls>15742.</ls> {%Fusssohle%}: {#AliNgyezu talAnkftvA prasuptAH#} 
-<ls>R. 5, 13, 47.</ls> <lex>n.</lex> {%Mitte der Fusssohle%}, = {#talahfdaya#} 
-<ls>H. 618.</ls> <lex>m.</lex> {%Vorderarm%} 
-<ls>SVĀMIN</ls> zu <ls>AK.</ls> <ls>WILS.</ls> {%Spanne%} (vgl. {#tAla#}) 
-<ls>COLEBR.</ls> zu <ls>AK. 3, 4, 26, 204.</ls> 
-<div n="1">— 3) <lex>m.</lex> <lex>n.</lex> {%die unter einem Gegenstande ausgebreitete Fläche, - Stelle%}, = {#aDas#} 
-<ls>AK. 3, 4, 26, 204.</ls> = {#anUrDva#} 
-<ls>MED.</ls> = {#mUla#} 
-<ls>TRIK. 3, 3, 393.</ls> = {#ADAra#} 
-<ls>H. an.</ls> {#pUrvAhRe ca parAhRe ca talaM yasya na muYcati . atyantaSItalacCAyA sa cCAyAtarurucyate ..#} Cit. beim <ls>Sch.</ls> zu 
-<ls>ŚĀK. 86.</ls> {#okastarURAM talam#} 
-<ls>ŚĀNTIŚ. 2, 19.</ls> {#vawatale vyavasTitaH#} 
-<ls>PAÑCAT. 9, 23. 14.</ls> {#tarutalamAyAti#} 
-<ls>HIT. 43, 21. 58, 15.</ls> 
-<ls>KATHĀS. 13, 97. 25, 87.</ls> {#PaRI mayUrasya tale nizIdati#} 
-<ls>ṚT. 1, 13. 18.</ls> {#aNguzWamUlasya tale#} 
+{# Serate#}
+<ls>BHARTṚ. Suppl. 25.</ls> <ls>PAÑCAT. 128,20.</ls> <ls n="PAÑCAT.">186,8.</ls> <ls>GĪT. 12,2.</ls> {#AdarSa°, darpaRa°#}
+<ls>SMṚTI</ls> bei <ls>ŚAṂK.</ls> zu <ls>TAITT.</ls> <ls>UP. 1,4,3.</ls> <ls>ŚĀK. 191</ls> <ls>RAGH. 16,6.</ls> <ls>BHĀG. P. 5,20,35.</ls> <ls>ŚIŚ. 9,53.</ls> {#kapola°#}
+<ls>SĀH. D. 56,13.</ls> {#idaM rasAtalaM nAma saptamaM pfTivItalam#}
+<ls>MBH. 5,3602.</ls> {#utKAtaM niDiSaNkayA BUtalam#}
+<ls>BHARTṚ. 3,5.</ls> {#Buvastalamiva vyoma kurvanvyomeva BUtalam#}
+<ls>RAGH. 4,29.</ls> {#diSAgajam — DArayantaM mahItalam#}
+<ls>R. 1,41,13.</ls> {#jagmurmahItalam#}
+<ls n="R. 1,">40,17.</ls> {#gaNgAmAnaya — devalokAnmahItalam#}
+<ls n="R. 1,">42,21.</ls> {#praviveSa talaM BUmeH#}
+<ls n="R. 1,">44,41.</ls> <ls>ṚT. 1,17.</ls> {#SoRitaM yAvataH pAMSUnsaMgfhRAti mahItalAt#}
+<ls>M. 4,168</ls> (vgl.
+<ls n="M.">11,207</ls>). {#na praBAtaralaM jyotirudeti vasuDAtalAt#}
+<ls>ŚĀK. 25.</ls> {#BUtale sTitaH#}
+<ls>N. 2,27.</ls> {#nizasAda mahItale#}
+<ls n="N.">10,5.</ls> <ls>R. 1,2,14.</ls> <ls>VET. 4,16. 33,13.</ls> {#nItiSAstraM bAlAvaboDanArTaM BUtale pravfttam#}
+<ls>PAÑCAT. 5,13.</ls> <ls n="PAÑCAT.">63,17.</ls> {#BUtalaviKyAtA#}
+<ls>VID. 1.</ls> {#kzititalApsarAH#} {%eine auf Erden wandelnde%} <is>Apsaras</is>
+<ls>KATHĀS. 17,34.</ls> {#aSokavanikAm — samaBUmitalAm#}
+<ls>R. 5,20,10.</ls> {#svaM jalOGatalaM BittvA vyutTitaH (samudraH)#}
+<ls>HARIV. 9639.</ls> {#rasAtalatala#}
+<ls>R. 1,44,42.</ls> {#pAtAla°#}
+<ls n="R. 1,">31,20.</ls> {#talavaddfSyate vyoma Kadyoto havyavAqiva . na cEvAsti talaM vyomni Kadyote ca hutASanaH ..#}
+<ls>MBH. 12,4148.</ls> {#avatIrya naBastalAt#}
+<ls>N. 2,29.</ls>
+<ls>KATHĀS. 20,181.</ls>
+<ls>BHĀG. P. 2,1,27.</ls> <ls n="BHĀG. P.">6,9,15.</ls> {#saMDyAraktatale vyomni#}
+<ls>HARIV. 4349.</ls> {#amvaratalAt — patitaH#}
+<ls>MĀRK. P. 20,48.</ls> {#tadetadAkASatale BAti candra ivoditaH (vimAnaM puzpakam)#}
+<ls>R. 6,111,25.</ls> {#taddurdinatalaM BittvA nAradaH pratyadfSyata#}
+<ls>HARIV. 9609.</ls> Dieses {#tala#}, welches häufig den Begriff der {%Fläche%} auch da hervorhebt, wo er nicht betont zu werden braucht, und den man daher in der Paraphrase oder Uebersetzung nicht weiter zu berücksichtigen pflegt, ist das {#tala svarUpe#} oder {#svaBAve#} ({%die natürliche Form%}) der Lexicographen. <lex>m.</lex> <lex>n.</lex>
+<ls>AK. 3,4,26,204.</ls>
+<ls>MED. l. 21</ls> (lies: {#'strI#}). <lex>m.</lex>
+<ls>H. an. 2,489.</ls> Das <lex>m.</lex> nicht zu belegen.
+<div n="1">— 2) <lex>m.</lex> <lex>n.</lex> in Verbind. mit einem Worte, das {%Hand%} oder {%Fuss%} bedeutet, {%Handfläche, Fusssohle%}: {#pARitale#} du.
+<ls>MBH. 13,5013.</ls> {#pARitalena#}
+<ls>M. 4,143.</ls>
+<ls>R. 2,66,17.</ls>
+<ls>BHARTṚ. 1,19.</ls>
+<ls>ŚĀK. 80.</ls>
+<ls>HIT. I,163.</ls> <ls>VID. 87.</ls> {#karatalaH#}
+<ls>MĀLAV. 39.</ls> {#pARiBiH — mfdvaNgulitalEH#}
+<ls>R. 2,104,17.</ls>
+<ls>ŚĀK. 29.</ls>
+<ls>RAGH. 6,18.</ls> {#pARipAda°#}
+<ls>SUŚR. 1,25,11.</ls> {#pAdatale#} du.
+<ls>MBH. 13,7444.</ls> {#pAdO tAmrAyatatalANgulI#}
+<ls>INDR. 5,12.</ls> {#aNGri°#}
+<ls>BHĀG. P. 8,20,23.</ls> {#no vA pAdatale tayA nipatitam#}
+<ls>AMAR. 62.</ls>
+<ls>H. 618.</ls> {#mfdutalO#} ({#caraRO#})
+<ls>VARĀH. BṚH. S. 67,2. 68,1.</ls> {%Handfläche, die flache Hand%} auch ohne danebenstehendes {#kara#} u. s. w.
+<ls>TRIK. 3,3,393.</ls>
+<ls>H. 596.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>SUŚR. 1,27,4. 65,20. 126,3</ls> (neutr.).
+<ls n="SUŚR.">256,8.</ls> {#talErapi samAhatEH#}
+<ls>ARJ. 3,40.</ls> {#mahAnAdErutkfzwatalanAditEH#}
+<ls>MBH. 1,8020.</ls> {#sa vidyucCuritaM cApaM viharanvE talAttalam#}
+<ls n="MBH.">3,695.</ls> {#pApAnnizpizeyaM talAsiBiH#}
+<ls n="MBH.">2,2377.</ls> <ls n="MBH.">4,353.</ls> {#talAByAmaTa rAmastu vaktre hatvA sa rAkzasam#}
+<ls>HARIV. 16026.</ls>
+<ls>R. 6,36,36.</ls> <ls n="R. 6,36,">37</ls> {#°saMpAta#}
+<ls n="R. 6,">70,44.</ls> {#°GAta#}
+<ls>HARIV. 16027.</ls> {#tataH prahasitAH sarve te 'nyo'nyasya talAndaduH#}
+<ls>MBH. 3,14819.</ls> <ls n="MBH.">9,1860.</ls> {#hAsaM mumucuratyarTaM talaM dattvA parasparam#}
+<ls>HARIV. 15741.</ls> {#°Sabda#}
+<ls n="HARIV.">15742.</ls> {%Fusssohle%}: {#AliNgyezu talAnkftvA prasuptAH#}
+<ls>R. 5,13,47.</ls> <lex>n.</lex> {%Mitte der Fusssohle%}, = {#talahfdaya#}
+<ls>H. 618.</ls> <lex>m.</lex> {%Vorderarm%}
+<ls>SVĀMIN</ls> zu <ls>AK.</ls> <ls>WILS.</ls> {%Spanne%} (vgl. {#tAla#})
+<ls>COLEBR.</ls> zu <ls>AK. 3,4,26,204.</ls>
+<div n="1">— 3) <lex>m.</lex> <lex>n.</lex> {%die unter einem Gegenstande ausgebreitete Fläche, — Stelle%}, = {#aDas#}
+<ls>AK. 3,4,26,204.</ls> = {#anUrDva#}
+<ls>MED.</ls> = {#mUla#}
+<ls>TRIK. 3,3,393.</ls> = {#ADAra#}
+<ls>H. an.</ls> {#pUrvAhRe ca parAhRe ca talaM yasya na muYcati . atyantaSItalacCAyA sa cCAyAtarurucyate ..#} Cit. beim <ls>Sch.</ls> zu
+<ls>ŚĀK. 86.</ls> {#okastarURAM talam#}
+<ls>ŚĀNTIŚ. 2,19.</ls> {#vawatale vyavasTitaH#}
+<ls>PAÑCAT. 9,23. 14.</ls> {#tarutalamAyAti#}
+<ls>HIT. 43,21.</ls> <ls n="HIT.">58,15.</ls>
+<ls>KATHĀS. 13,97.</ls> <ls n="KATHĀS.">25,87.</ls> {#PaRI mayUrasya tale nizIdati#}
+<ls>ṚT. 1,13. 18.</ls> {#aNguzWamUlasya tale#}
 (<ls>KULL.</ls>: = {#aDoBAge) brAhmaM tIrTaM #}
 [Page3-0284]
-{# pracakzate#} 
-<ls>M. 2, 59.</ls> {#tyajato 'rkatalaM SaSinaH#} 
-<ls>VARĀH. BṚH. S. 4, 3. 43 (34), 28.</ls> {#yasmiMstu cCardayati (KaYjanaH) tatra tale 'sti kAcam#} 
-<ls>44 (43), 12.</ls> {#SAKAtale#} 
-<ls>53, 55.</ls> Im Gegens. zu {#upari#} {%oben, nach oben%}: {#uparitalanipAtitezwako 'yam (saMDiH)#} 
-<ls>MṚCCH. 51, 18.</ls> 
-<div n="1">— 4) {%ein Leder, welches der Bogenschütz am linken Arm trägt, um diesen vor der abprallenden Sehne zu schützen%}, <lex>f.</lex> (nicht zu belegen) 
-<ls>AK. 2, 8, 2, 52.</ls> n. <ls>H. 776.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>ĀŚV. GṚHY. 3, 12.</ls> {#badDatalANgulitrAH#} 
-<ls>MBH. 1, 7075.</ls> {#talabadDA (= badDatala)#} 
-<ls>6, 621.</ls> <ls>HARIV. 12529. 13246.</ls> {#talANgulitravAn#} 
-<ls>R. 2, 87, 23.</ls> {#jyAtalanirGoza#} 
-<ls>MBH. 1, 5236. 5460. 7, 654. 13, 7471.</ls> 
-<ls>R. 2, 67, 18. 6, 81, 27.</ls> Vgl. {#talatra, talatrARa#} . 
-<div n="1">— 5) <lex>m.</lex> neben {#tAla#} Beiw. von <is>Śiva</is> 
-<ls>MBH. 13, 1243</ls>; vgl. {#atala#} . 
-<div n="1">— 6) <lex>m.</lex> N. pr. eines Lehrers <is>gaṇa</is> {#SOnakAdi#} zu 
-<ls>P. 4, 3, 106.</ls> 
-<div n="1">— 7) <lex>m.</lex> = {#tAla#} {%Fächerpalme%} 
-<ls>H. 1136.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<div n="1">— 8) <lex>m.</lex> {%der Griff eines Schwertes%} (vgl. {#tAla#}) 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="1">— 9) <lex>m.</lex> {%das Anschlagen der Saiten%} ({#tantrIGAta#}, {%pressing the strings of a lute%} 
-<ls>WILS.</ls>) {%mit der linken Hand%} 
-<ls>MED.</ls> 
-<div n="1">— 10) <lex>m.</lex> {%eine best. Hölle%} 
-<ls>ĀRUṆIKOP.</ls> in <ls>Ind. St. 2, 178.</ls> <ls>ŚIVA-P.</ls> bei <ls>WOLLH. Myth. 17.</ls> Vgl. {#talaloka, talAtala#} u. s. w., {#tAla#} . 
-<div n="1">— 11) <lex>n.</lex> {%Wald%} 
-<ls>TRIK. 2, 4, 1.</ls> 
-<ls>MED.</ls> Vgl. {#talka#} . 
-<div n="1">— 12) <lex>n.</lex> = {#talla#} 
-<ls>TRIK. 1, 2, 28.</ls> 
-<ls>ŚKDR.</ls> und <ls>WILS.</ls> ziehen diesen Artikel zum vorhergehenden und erklären das Wort durch {%Grube%}, im Index zum 
-<ls>TRIK.</ls> wird es zum folgenden (=  {#AlavAla#}) gezogen. 
-<div n="1">— 13) <lex>n.</lex> = {#talaka#} 
-<ls>Sch.</ls> zu <ls>R. 5, 10, 10.</ls> Vgl. {#talla#} . 
-<div n="1">— 14) <lex>n.</lex> {%die Veranlassung —, das Motiv einer Handlung%} ({#kAryavIja#}) 
+{# pracakzate#}
+<ls>M. 2,59.</ls> {#tyajato 'rkatalaM SaSinaH#}
+<ls>VARĀH. BṚH. S. 4,3. 43 (34),28.</ls> {#yasmiMstu cCardayati (KaYjanaH) tatra tale 'sti kAcam#}
+<ls n="VARĀH. BṚH. S.">44 (43),12.</ls> {#SAKAtale#}
+<ls n="VARĀH. BṚH. S.">53,55.</ls> Im Gegens. zu {#upari#} {%oben, nach oben%}: {#uparitalanipAtitezwako 'yam (saMDiH)#}
+<ls>MṚCCH. 51,18.</ls>
+<div n="1">— 4) {%ein Leder, welches der Bogenschütz am linken Arm trägt, um diesen vor der abprallenden Sehne zu schützen%}, <lex>f.</lex> (nicht zu belegen)
+<ls>AK. 2,8,2,52.</ls> n. <ls>H. 776.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>ĀŚV. GṚHY. 3,12.</ls> {#badDatalANgulitrAH#}
+<ls>MBH. 1,7075.</ls> {#talabadDA#} (= {#badDatala)#}
+<ls n="MBH.">6,621.</ls> <ls>HARIV. 12529.</ls> <ls n="HARIV.">13246.</ls> {#talANgulitravAn#}
+<ls>R. 2,87,23.</ls> {#jyAtalanirGoza#}
+<ls>MBH. 1,5236.</ls> <ls n="MBH. 1,">5460.</ls> <ls n="MBH.">7,654.</ls> <ls n="MBH.">13,7471.</ls>
+<ls>R. 2,67,18.</ls> <ls n="R.">6,81,27.</ls> Vgl. {#talatra, talatrARa#} .
+<div n="1">— 5) <lex>m.</lex> neben {#tAla#} Beiw. von <is>Śiva</is>
+<ls>MBH. 13,1243</ls>; vgl. {#atala#} .
+<div n="1">— 6) <lex>m.</lex> N. pr. eines Lehrers <is>gaṇa</is> {#SOnakAdi#} zu
+<ls>P. 4,3,106.</ls>
+<div n="1">— 7) <lex>m.</lex> = {#tAla#} {%Fächerpalme%}
+<ls>H. 1136.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<div n="1">— 8) <lex>m.</lex> {%der Griff eines Schwertes%} (vgl. {#tAla#})
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="1">— 9) <lex>m.</lex> {%das Anschlagen der Saiten%} ({#tantrIGAta#}, {%pressing the strings of a lute%}
+<ls>WILS.</ls>) {%mit der linken Hand%}
+<ls>MED.</ls>
+<div n="1">— 10) <lex>m.</lex> {%eine best. Hölle%}
+<ls>ĀRUṆIKOP.</ls> in <ls>Ind. St. 2,178.</ls> <ls>ŚIVA-P.</ls> bei <ls>WOLLH. Myth. 17.</ls> Vgl. {#talaloka, talAtala#} u. s. w., {#tAla#} .
+<div n="1">— 11) <lex>n.</lex> {%Wald%}
+<ls>TRIK. 2,4,1.</ls>
+<ls>MED.</ls> Vgl. {#talka#} .
+<div n="1">— 12) <lex>n.</lex> = {#talla#}
+<ls>TRIK. 1,2,28.</ls>
+<ls>ŚKDR.</ls> und <ls>WILS.</ls> ziehen diesen Artikel zum vorhergehenden und erklären das Wort durch {%Grube%}, im Index zum
+<ls>TRIK.</ls> wird es zum folgenden (= {#AlavAla#}) gezogen.
+<div n="1">— 13) <lex>n.</lex> = {#talaka#}
+<ls>Sch.</ls> zu <ls>R. 5,10,10.</ls> Vgl. {#talla#} .
+<div n="1">— 14) <lex>n.</lex> {%die Veranlassung —, das Motiv einer Handlung%} ({#kAryavIja#})
 <ls>MED.</ls> — Viell. von {#star#} {%ausbreiten%}; vgl. (<lang n="russian">тло</lang> {%Boden%} in
-<lang n="russian">дотла</lang> 
- 
+<lang n="russian">дотла</lang>
 <ls>Буслаева, Опытъ истор. гр. русскаго языка, I, S. 132.</ls>) Vgl. {#atala, jihvA°, ni°, pra°, mahA°, rasA°, vi°, su°#} .
 <LEND>

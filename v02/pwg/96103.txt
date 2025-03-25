@@ -1,39 +1,39 @@
 <L>96103<pc>6-1422<k1>vEzamya<k2>vE/zamya
-{#vE/zamya#}¦ (von {#vizama#}) <lex>n.</lex> nom. abstr. <is>gaṇa</is> {#brAhmaRAdi#} zu 
-<ls>P. 5, 1, 124.</ls> 
-<div n="1"> 1) {%Unebenheit%} (des Bodens) 
-<ls>MBH. 12, 2235.</ls> {#ati°#} 
-<ls>Spr. 5028.</ls> 
-<div n="1">— 2) {%Ungleichheit, Verschiedenartigkeit, Nichtübereinstimmung, ungleiche Vertheilung, Störung des richtigen Verhältnisses%} 
-<ls>KĀTY. ŚR. 8, 8, 39.</ls> 
-<ls>LĀṬY. 6, 5, 17.</ls> {#Pala°#} 
-<ls>MBH. 3, 13863.</ls> 
-<ls>Spr. 4699. 1560.</ls> {#saMKyA°#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 20. MBH. I, S. 308. Verz. d. Oxf. H. 264,a,32. KĀVYĀD.3,182. SĀH. D. 633. MUIR, ST.2,190. BHĀG. P.3,32,24.</ls> {#mati°#} 
-<ls>1, 9, 21.</ls> {#guRa°#} 
-<ls>2, 10, 3. 3, 10, 14. 28, 43. 11, 10, 32.</ls> <ls>SĀṂKHYAK. 46.</ls> {#vAtapittakaPaSoRitasaMnipAta°#} 
-<ls>SUŚR. 1, 4, 8. 9. 2, 5, 16.</ls> 
-<ls>TATTVAS. 50.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>?S. 57. SARVADARŚANAS. 163, 18.</ls> {#AhAra°#} 
-<ls>SUŚR. 1, 194, 18.</ls> {#dravyAvayava°#} 
-<ls>BHĀG. P. 3, 26, 45.</ls> 
-<div n="1">— 3) {%Schwierigkeit%}: {#lokavyavahArasya#} 
-<ls>MṚCCH. 149, 1.</ls> {%schwierige Lage, Noth, Bedrängniss%}: {#vEzamyaM paramaM prAptaH#} 
-<ls>MBH. 3, 2316. 13, 2506.</ls> 
-<ls>Spr. 2904.</ls> {#vEzamyARAM praSamanam#} 
-<ls>KĀM. NĪTIS. 13, 55.</ls> {#a°#} so v. a. {%Wohlfahrt%} 
-<ls>MĀRK. P. 128, 33.</ls> 
-<div n="1">— 4) {%Ungerechtigkeit, Unbilligkeit, rauhes, unfreundliches Benehmen%}: {#madana°#} 
-<ls>MĀLAV. 42, 16.</ls> 
-<ls>BHĀG. P. 6, 2, 3. 7, 1, 23.</ls> {#taTA vizamaSIlaSca nAmnA vESasyato#} (lies {#vEzamyato) 'rizu#} 
-<ls>KATHĀS. 120, 39.</ls> 
-<ls>SARVADARŚANAS. 80, 14. fg. 121, 8.</ls> {#BAgya°#} {%Missgeschick%} 
-<ls>R. 6, 98, 29.</ls> 
-<ls>MṚCCH. 152, 11.</ls> 
-<div n="1">— 5) {%Unangemessenheit, Falschheit, Unrichtigkeit%} 
-<ls>SARVADARŚANAS. 127, 7. 143, 4.</ls> {#pAzaRqapaTa°#} 
-<ls>BHĀG. P. 3, 7, 31.</ls> {#saMkalpa°#} 
-<ls>9, 1, 18. 20.</ls> {#karmasu#} {%ein Versehert bei%} 
-<ls>8, 23, 14.</ls> {#karma°#} 
-<ls>15.</ls>
+{#vE/zamya#}¦ (von {#vizama#}) <lex>n.</lex> nom. abstr. <is>gaṇa</is> {#brAhmaRAdi#} zu
+<ls>P. 5,1,124.</ls>
+<div n="1"> 1) {%Unebenheit%} (des Bodens)
+<ls>MBH. 12,2235.</ls> {#ati°#}
+<ls>Spr. 5028.</ls>
+<div n="1">— 2) {%Ungleichheit, Verschiedenartigkeit, Nichtübereinstimmung, ungleiche Vertheilung, Störung des richtigen Verhältnisses%}
+<ls>KĀTY. ŚR. 8,8,39.</ls>
+<ls>LĀṬY. 6,5,17.</ls> {#Pala°#}
+<ls>MBH. 3,13863.</ls>
+<ls>Spr. 4699.</ls> <ls n="Spr.">1560.</ls> {#saMKyA°#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 20.</ls> <ls>MBH. I, S. 308.</ls> <ls>Verz. d. Oxf. H. 264,a,32.</ls> <ls>KĀVYĀD. 3,182.</ls> <ls>SĀH. D. 633.</ls> <ls>MUIR, ST. 2,190.</ls> <ls>BHĀG. P. 3,32,24.</ls> {#mati°#}
+<ls n="BHĀG. P.">1,9,21.</ls> {#guRa°#}
+<ls n="BHĀG. P.">2,10,3.</ls> <ls n="BHĀG. P.">3,10,14.</ls> <ls n="BHĀG. P. 3,">28,43.</ls> <ls n="BHĀG. P.">11,10,32.</ls> <ls>SĀṂKHYAK. 46.</ls> {#vAtapittakaPaSoRitasaMnipAta°#}
+<ls>SUŚR. 1,4,8. 9. 2,5,16.</ls>
+<ls>TATTVAS. 50.</ls>
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 57.</ls> <ls>SARVADARŚANAS. 163,18.</ls> {#AhAra°#}
+<ls>SUŚR. 1,194,18.</ls> {#dravyAvayava°#}
+<ls>BHĀG. P. 3,26,45.</ls>
+<div n="1">— 3) {%Schwierigkeit%}: {#lokavyavahArasya#}
+<ls>MṚCCH. 149,1.</ls> {%schwierige Lage, Noth, Bedrängniss%}: {#vEzamyaM paramaM prAptaH#}
+<ls>MBH. 3,2316.</ls> <ls n="MBH.">13,2506.</ls>
+<ls>Spr. 2904.</ls> {#vEzamyARAM praSamanam#}
+<ls>KĀM. NĪTIS. 13,55.</ls> {#a°#} so v. a. {%Wohlfahrt%}
+<ls>MĀRK. P. 128,33.</ls>
+<div n="1">— 4) {%Ungerechtigkeit, Unbilligkeit, rauhes, unfreundliches Benehmen%}: {#madana°#}
+<ls>MĀLAV. 42,16.</ls>
+<ls>BHĀG. P. 6,2,3.</ls> <ls n="BHĀG. P.">7,1,23.</ls> {#taTA vizamaSIlaSca nAmnA vESasyato#} (lies {#vEzamyato) 'rizu#}
+<ls>KATHĀS. 120,39.</ls>
+<ls>SARVADARŚANAS. 80,14. fg. 121,8.</ls> {#BAgya°#} {%Missgeschick%}
+<ls>R. 6,98,29.</ls>
+<ls>MṚCCH. 152,11.</ls>
+<div n="1">— 5) {%Unangemessenheit, Falschheit, Unrichtigkeit%}
+<ls>SARVADARŚANAS. 127,7. 143,4.</ls> {#pAzaRqapaTa°#}
+<ls>BHĀG. P. 3,7,31.</ls> {#saMkalpa°#}
+<ls n="BHĀG. P.">9,1,18.</ls> <ls n="BHĀG. P. 9,1,">20.</ls> {#karmasu#} {%ein Versehert bei%}
+<ls n="BHĀG. P.">8,23,14.</ls> {#karma°#}
+<ls n="BHĀG. P. 8,23,">15.</ls>
 <LEND>

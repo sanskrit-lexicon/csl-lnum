@@ -1,7 +1,7 @@
 <L>16691<pc>512<k1>pen<k2>pen
-<div n="lb"/>{@PEN@}¦ (subs.): <div n="I">I For writing: </div><div n="1">(1) {#leKanI,#} <div n="xe">{%if%}
-<div n="lb"/>{%my p. does not cease to write for a moment:%}</div> <div n="xs">{#yadi#}</div>
-<div n="lb"/>{#me leKanI kzaRaM liKato nAvatizWeta,#} Mah.; </div><div n="1">(2) {#kalamaH#}
-<div n="lb"/>(reed-p.). </div><div n="I">II For cattle: <div n="xe">{%cow-p.:%}</div> <div n="xs">{#goSAlA, #}
-<div n="lb"/>{# gokulam,#}</div> etc.</div>
+{@PEN@}¦ (subs.): <div n="I">I For writing: </div><div n="1">(1) {#leKanI,#} <div n="xe">{%if%}
+{%my p. does not cease to write for a moment:%}</div> <div n="xs">{#yadi#}</div>
+{#me leKanI kzaRaM liKato nAvatizWeta,#} Mah.; </div><div n="1">(2) {#kalamaH#}
+(reed-p.). </div><div n="I">II For cattle: <div n="xe">{%cow-p.:%}</div> <div n="xs">{#goSAlA, #}
+{# gokulam,#}</div> etc.</div>
 <LEND>

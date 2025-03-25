@@ -1,44 +1,44 @@
 <L>112250<pc>7-1167<k1>sUna<k2>sUna
-{#sUna#}¦ 
-<div n="1"> 1) <lex>adj.</lex> (von {#sU#} = 4. {#su#}) {%erzeugt, geboren%} 
-<ls>P. 8, 2, 45, Schol.</ls> <ls>VOP. 26, 88. fg.</ls> m. {%Sohn%} 
-<ls>PAÑCAT. 198, 2</ls> (fehlerhaft für {#suta#}). <lex>f.</lex> {#A#} {%Tochter%} 
-<ls>H. an. 2, 291.</ls> 
-<ls>MED. n. 24.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#A/#} 
-<ls>UṆĀDIS. 3, 13.</ls> 
-<div n="2"> a) (wie {#sUtra#} von {#sIv#}) {%geflochtener Korb, - Schüssel%} u. s. w.: {#mA\MsaM sU\nayABf^tam#} 
-<ls>ṚV. 1, 161, 10.</ls> <ls n="ṚV. 1,">162, 13.</ls> <ls n="ṚV.">10, 86, 18.</ls> {#nAsya kza\ttA sU\nAnA^metyagra\taH#} 
-<ls>AV. 5, 17, 14.</ls> {#pAlASI#} 
-<ls>ŚĀṄKH. ŚR. 17, 3, 2. 3.</ls> 
-<ls>GOBH. 4, 2, 9.</ls> {#kuSa°#} 
-<ls>ĀŚV. GṚHY. 4, 8, 22. 27.</ls> 
-<div n="2">— b) {%Schlachtbank, Schlachthaus, Schlächterei%} 
-<ls>H. 930.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 2, 440.</ls> {#°cakraDvajavatAm#} (das Suffix gehört zu jedem der drei Worte) 
-<ls>M. 4, 84.</ls> {#daSasUnAsamaM cakram#} 
-<ls>?85 (MBH. 13, 5927). fg.</ls> {#°sTa#} 
-<ls>11, 155.</ls> <ls>MBH. 3, 13710.</ls> {#paYca sUnA gfhasTasya cullI pezaRyupaskaraH . kaRqanI codakumBaSca#} so v. a. {%diese fünf Gegenstände können den Tod eines lebenden Wesens bewirken%} 
-<ls>M. 3, 68. 71.</ls> {#dyUtaM pAnaM striyaH sUnA#} so v. a. {%das Tödten eines lebenden Wesens%} 
-<ls>BHĀG. P. 1, 17, 38.</ls> {#ekAdaSendriyacamUH paYcasUnAvinodakft#} (das Frohnen der {%fünf%} Sinne wird mit der {%Lust am Schlachten%} verglichen) 
-<ls>4, 29, 20.</ls> {#sUnAyAmapi#} so v. a. {%sogar wenn Einem das Messer an der Kehle steht, sogar im äussersten Nothfalle%} 
-<ls>5, 9, 18.</ls> 
-<div n="2">— c) {%Zäpfchen im Halse%} 
-<ls>AK. 3, 4, 18, 115.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HĀR. 129.</ls> 
-<div n="2">— d) {%Tochter%} s. u. 1). 
-<div n="1">— 3) <lex>n.</lex> = {#prasUna#} 
-<div n="2"> a) {%Blüthe%} 
-<ls>TRIK. 3, 3, 270.</ls> 
-<ls>H. 1125.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {#suradruma°#} 
-<ls>PAÑCAR. 3, 5, 8.</ls> 
-<div n="2">— b) {%Frucht%} 
-<ls>TRIK.</ls> <ls>MED.</ls> 
+{#sUna#}¦
+<div n="1"> 1) <lex>adj.</lex> (von {#sU#} = 4. {#su#}) {%erzeugt, geboren%}
+<ls>P. 8,2,45</ls>, Schol. <ls>VOP. 26,88. fg.</ls> m. {%Sohn%}
+<ls>PAÑCAT. 198,2</ls> (fehlerhaft für {#suta#}). <lex>f.</lex> {#A#} {%Tochter%}
+<ls>H. an. 2,291.</ls>
+<ls>MED. n. 24.</ls>
+<div n="1">— 2) <lex>f.</lex> {#A/#}
+<ls>UṆĀDIS. 3,13.</ls>
+<div n="2"> a) (wie {#sUtra#} von {#sIv#}) {%geflochtener Korb, — Schüssel%} u. s. w.: {#mA\MsaM sU\nayABf^tam#}
+<ls>ṚV. 1,161,10.</ls> <ls n="ṚV. 1,">162,13.</ls> <ls n="ṚV.">10,86,18.</ls> {#nAsya kza\ttA sU\nAnA^metyagra\taH#}
+<ls>AV. 5,17,14.</ls> {#pAlASI#}
+<ls>ŚĀṄKH. ŚR. 17,3,2. 3.</ls>
+<ls>GOBH. 4,2,9.</ls> {#kuSa°#}
+<ls>ĀŚV. GṚHY. 4,8,22. 27.</ls>
+<div n="2">— b) {%Schlachtbank, Schlachthaus, Schlächterei%}
+<ls>H. 930.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 2,440.</ls> {#°cakraDvajavatAm#} (das Suffix gehört zu jedem der drei Worte)
+<ls>M. 4,84.</ls> {#daSasUnAsamaM cakram#}
+<ls n="M. 4,">85</ls> (<ls>MBH. 13,5927</ls>). fg. {#°sTa#}
+<ls n="MBH.">11,155.</ls> <ls>MBH. 3,13710.</ls> {#paYca sUnA gfhasTasya cullI pezaRyupaskaraH . kaRqanI codakumBaSca#} so v. a. {%diese fünf Gegenstände können den Tod eines lebenden Wesens bewirken%}
+<ls>M. 3,68.</ls> <ls n="M. 3,">71.</ls> {#dyUtaM pAnaM striyaH sUnA#} so v. a. {%das Tödten eines lebenden Wesens%}
+<ls>BHĀG. P. 1,17,38.</ls> {#ekAdaSendriyacamUH paYcasUnAvinodakft#} (das Frohnen der {%fünf%} Sinne wird mit der {%Lust am Schlachten%} verglichen)
+<ls n="BHĀG. P.">4,29,20.</ls> {#sUnAyAmapi#} so v. a. {%sogar wenn Einem das Messer an der Kehle steht, sogar im äussersten Nothfalle%}
+<ls n="BHĀG. P.">5,9,18.</ls>
+<div n="2">— c) {%Zäpfchen im Halse%}
+<ls>AK. 3,4,18,115.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HĀR. 129.</ls>
+<div n="2">— d) {%Tochter%} s. u. 1).
+<div n="1">— 3) <lex>n.</lex> = {#prasUna#}
+<div n="2"> a) {%Blüthe%}
+<ls>TRIK. 3,3,270.</ls>
+<ls>H. 1125.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {#suradruma°#}
+<ls>PAÑCAR. 3,5,8.</ls>
+<div n="2">— b) {%Frucht%}
+<ls>TRIK.</ls> <ls>MED.</ls>
 <div n="v">— Vgl. {#iwasUna, sOnika#} .
 <LEND>

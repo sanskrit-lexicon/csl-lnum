@@ -1,12 +1,12 @@
 <L>20046<pc>717,1<k1>Sabda<k2>Sabda
-{@śabda-@}¦ <ab>m.</ab> son, bruit; ton; voix; mot, parole ({%-ena%} explicitement);
-discours, langage <lbinfo n="4"/>; <ab>gramm.</ab> mot déclinable, terminaison, suffixe; nom, titre,
-appellation; tradition ou témoignage oral; {%-aṃ kṛ-%} émettre un son,
-appeler à haute voix; {%-aṃ dā-%} <ab>v. s.</ab> {%DĀ-; -maya- -ī-%} <ab>a.</ab> consistant.
-en sons; <ab>ifc.</ab> formé du mot; {%-vant-%} <ab>a.</ab> doué de la qualité du son, {%-vat%}
+{@śabda-@}¦ <ab>m.</ab> son, bruit ; ton ; voix ; mot, parole ({%-ena%} explicitement) ;
+discours, langage <lbinfo n="4"/> ; <ab>gramm.</ab> mot déclinable, terminaison, suffixe ; nom, titre,
+appellation ; tradition ou témoignage oral ; {%-aṃ kṛ-%} émettre un son,
+appeler à haute voix ; {%-aṃ dā-%} <ab>v. s.</ab> {%DĀ- ; -maya- -ī-%} <ab>a.</ab> consistant.
+en sons ; <ab>ifc.</ab> formé du mot ; {%-vant-%} <ab>a.</ab> doué de la qualité du son, {%-vat%}
 <ab>adv.</ab> fort, bruyamment.
 
-<P>{%°ga-%} <ab>ag.</ab> qui perçoit les sons; qui émet des sons.
+<P>{%°ga-%} <ab>ag.</ab> qui perçoit les sons ; qui émet des sons.
 
 <P>{%°guṇa-%} <ab>a.</ab> qui a pour qualité le son.
 
@@ -34,15 +34,15 @@ en sons; <ab>ifc.</ab> formé du mot; {%-vant-%} <ab>a.</ab> doué de la qualit�
 
 <P>{%°virodha-%} <ab>m.</ab> contradiction de mots, contradiction <lbinfo n="7"/> apparente.
 
-<P>{%°vedha-%} <ab>m.</ab> fait de tirer sur un objet (invisible <lbinfo n="5"/>, mais) dont on entend
-le bruit; {%-in-%} <ab>a.</ab> qui tire sur un tel objet; {%-itva-%} <ab>nt.</ab>  = {%°vedha-;%}
+<P>{%°vedha-%} <ab>m.</ab> fait de tirer sur un objet (invisible, <lbinfo n="5"/> mais) dont on entend
+le bruit ; {%-in-%} <ab>a.</ab> qui tire sur un tel objet ; {%-itva-%} <ab>nt.</ab> = {%°vedha- ;%}
 {%-ya-%} <ab>a. v.</ab> sur lequel on doit tirer (sans le voir, seulement) d'après (son)
-bruit; <ab>nt.</ab>  = {%°vedha-.%}
+bruit ; <ab>nt.</ab> = {%°vedha-.%}
 
-<P>{%°śāsana- °śāstra-%} <ab>nt.</ab> grammaire; {%°śāsanavid-%} <lbinfo n="4"/> <ab>ag.</ab> qui connaît la
+<P>{%°śāsana- °śāstra-%} <ab>nt.</ab> grammaire ; {%°śāsanavid-%} <lbinfo n="4"/> <ab>ag.</ab> qui connaît la
 grammaire.
 
-<P>{%°saṃjña-%} <ab>ag.</ab> <ab>ifc.</ab> qui porte le nom de; {%-ā-%} <ab>f.</ab> <ab>gramm.</ab> terme
+<P>{%°saṃjña-%} <ab>ag.</ab> <ab>ifc.</ab> qui porte le nom de ; {%-ā-%} <ab>f.</ab> <ab>gramm.</ab> terme
 technique.
 
 <P>{%°sādhana-%} <ab>ag.</ab> qui atteint le but (guidé exclusivement) <lbinfo n="8"/> par le son (dit
@@ -60,5 +60,5 @@ d'une flèche).
 signification.
 
 <P>{%śabdālaṃkāra-%} <ab>m.</ab> figure de rhétorique (obtenue par des combinaisons)
-de mots (allitération <lbinfo n="8"/>, etc.).
+de mots (allitération, <lbinfo n="8"/> etc.).
 <LEND>

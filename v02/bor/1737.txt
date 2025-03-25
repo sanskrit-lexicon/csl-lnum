@@ -1,8 +1,8 @@
 <L>1737<pc>060<k1>beam<k2>beam
-<div n="lb"/>{@BEAM@}¦ (subs.): Of a house: {#tulA,#} Si. iii. 50.
-<div n="lb"/><div n="I">II Of a balance: </div><div n="1">(1) {#tulAdaRqaH;#} </div><div n="1">(2) {#tulADAraH#}.</div>
-<div n="lb"/><div n="I">III Of a loom: </div><div n="1">(1) {#veman#} (n.); </div><div n="1">(2) {#vApadaRqaH;#}</div>
-<div n="lb"/><div n="1">(3) {#vAyadaRqaH.#} </div><div n="I">IV Of a carriage: {#Dur#} (f.):
-<div n="lb"/>v. Pole. </div><div n="I">V A ray of light: ({#aMSuH;#} </div><div n="1">(2)
-<div n="lb"/>{#kiraRaH:#} v. Ray.</div>
+{@BEAM@}¦ (subs.): Of a house: {#tulA,#} Si. iii. 50.
+<div n="I">II Of a balance: </div><div n="1">(1) {#tulAdaRqaH;#} </div><div n="1">(2) {#tulADAraH#}.</div>
+<div n="I">III Of a loom: </div><div n="1">(1) {#veman#} (n.); </div><div n="1">(2) {#vApadaRqaH;#}</div>
+<div n="1">(3) {#vAyadaRqaH.#} </div><div n="I">IV Of a carriage: {#Dur#} (f.):
+v. Pole. </div><div n="I">V A ray of light: ({#aMSuH;#} </div><div n="1">(2)
+{#kiraRaH:#} v. Ray.</div>
 <LEND>

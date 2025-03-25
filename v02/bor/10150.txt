@@ -1,5 +1,5 @@
 <L>10150<pc>320<k1>graceful<k2>graceful
-<div n="lb"/>{@GRACEFUL:@}¦ <div n="1">(1) {#lAvaRyavat#} (f. {#tI#}) (= pretty);</div>
-<div n="lb"/><div n="1">(2) {#SoBanaH#} ({#nA, naM#}) (= fine); </div><div n="1">(3) {#ramaRIyaH#} ({#yA, yaM#})
-<div n="lb"/>(= lovely, pleasant).</div>
+{@GRACEFUL:@}¦ <div n="1">(1) {#lAvaRyavat#} (f. {#tI#}) (= pretty);</div>
+<div n="1">(2) {#SoBanaH#} ({#nA, naM#}) (= fine); </div><div n="1">(3) {#ramaRIyaH#} ({#yA, yaM#})
+(= lovely, pleasant).</div>
 <LEND>

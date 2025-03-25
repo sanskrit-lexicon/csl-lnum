@@ -1,12 +1,12 @@
 <L>2249<pc>078<k1>blunt<k2>blunt
-<div n="lb"/>{@BLUNT@}¦ (adj.): <div n="I">I Not sharp: </div><div n="1">(1) {#nistejas#}
-<div n="lb"/>(mfn.); </div><div n="1">(2) {#kuRWaH#} ({#zWA, RWaM#}); </div><div n="1">(3) {#kuRWitaH#} ({#tA, #}
-<div n="lb"/>{# taM#}); </div><div n="1">(4) {#praKaraH#} ({#rA, raM#}). <div n="xe">{%To become b.:%}</div> <div n="xs">{#kuRWI-#}
-<div n="lb"/>{#Bavati.#}</div> </div><div n="I">II Fig. Of understanding, etc.: </div><div n="1">(1)
-<div n="lb"/>{#sTUlaH#} ({#lA, laM#}) </div><div n="1">(2) {#nistejas#} (mfn.). </div><div n="I">III Plain
-<div n="lb"/>but unceremonious: {#saralaH#} ({#lA, laM#}) {%or%}
-<div n="lb"/>{#ajihmaH#} ({#hmA, hmaM#}), ({#kintu#}) {#avinItaH#} ({#tA, taM#})
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#aSizwaH#}</div> ({#zwA, zwaM#}): <div n="xe">{%by his b. remarks%}</div> <div n="xs">{#*tasya #}
-<div n="lb"/>{# saralABiravinInABiruktimiH;#}</div> <div n="xe">{%be frank not b.%}</div> <div n="xs">{#saralo #}
-<div n="lb"/>{# Bava nAvinItaH.#}</div></div>
+{@BLUNT@}¦ (adj.): <div n="I">I Not sharp: </div><div n="1">(1) {#nistejas#}
+(mfn.); </div><div n="1">(2) {#kuRWaH#} ({#zWA, RWaM#}); </div><div n="1">(3) {#kuRWitaH#} ({#tA, #}
+{# taM#}); </div><div n="1">(4) {#praKaraH#} ({#rA, raM#}). <div n="xe">{%To become b.:%}</div> <div n="xs">{#kuRWI-#}
+{#Bavati.#}</div> </div><div n="I">II Fig. Of understanding, etc.: </div><div n="1">(1)
+{#sTUlaH#} ({#lA, laM#}) </div><div n="1">(2) {#nistejas#} (mfn.). </div><div n="I">III Plain
+but unceremonious: {#saralaH#} ({#lA, laM#}) {%or%}
+{#ajihmaH#} ({#hmA, hmaM#}), ({#kintu#}) {#avinItaH#} ({#tA, taM#})
+<div n="xe">{%or%}</div> <div n="xs">{#aSizwaH#}</div> ({#zwA, zwaM#}): <div n="xe">{%by his b. remarks%}</div> <div n="xs">{#*tasya #}
+{# saralABiravinInABiruktimiH;#}</div> <div n="xe">{%be frank not b.%}</div> <div n="xs">{#saralo #}
+{# Bava nAvinItaH.#}</div></div>
 <LEND>

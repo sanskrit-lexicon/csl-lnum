@@ -1,11 +1,11 @@
 <L>9730<pc>439<k1>spell<k2>spell
 {@Spell,@}¦ {%s.%} {#maMtraH, aBicAramaMtraH#} (magic);
-<div n="lb"/>{#mohanaM, AkarzaRaM;#} ‘s. -bound’ {#aBimaMtrita,#}
-<div n="lb"/>{#maMtrarudDavIrya#}. -{%v. t.%} {#aBimaMtr#} 10 A, {#aBi-#}
-<div n="lb"/>{#-car#} c., {#maMtrEH vaSIkf#} 8 U, {#vi-, muh#} c. {@2@}
-<div n="lb"/>{#akzarARi nirdiS#} 6 P, {#yaTAkzaraM saM-KyA#} 2 P
-<div n="lb"/>or {#paW#} 1 P or {#liK#} 6 P. {@-ing,@} {%s.%} {#varRa#}
-<div n="lb"/>or {#akzara-vi nyAsaH#} or {#racanA;#} ‘having a
-<div n="lb"/>double s.’ {#dvirUpa;#} ‘variation in s.’
-<div n="lb"/>{#pAWAMtaraM, pAWaBedaH#}.
+{#mohanaM, AkarzaRaM;#} ‘s. -bound’ {#aBimaMtrita,#}
+{#maMtrarudDavIrya#}. -{%v. t.%} {#aBimaMtr#} 10 A, {#aBi-#}
+{#-car#} c., {#maMtrEH vaSIkf#} 8 U, {#vi-, muh#} c. {@2@}
+{#akzarARi nirdiS#} 6 P, {#yaTAkzaraM saM-KyA#} 2 P
+or {#paW#} 1 P or {#liK#} 6 P. {@-ing,@} {%s.%} {#varRa#}
+or {#akzara-vi nyAsaH#} or {#racanA;#} ‘having a
+double s.’ {#dvirUpa;#} ‘variation in s.’
+{#pAWAMtaraM, pAWaBedaH#}.
 <LEND>

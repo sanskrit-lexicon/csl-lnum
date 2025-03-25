@@ -1,15 +1,15 @@
 <L>17352<pc>436-a<k1>land<k2>land
-<div n="lb"/>LAND¦, {%s.%} (Country, region) {#deSaH, pradeSaH, vizayaH, rAzwraM#}. — (As op-
-<div n="lb"/>posed to water) {#sTalaM -lI;#} ‘land and water,’ {#sTalajalaM,#}
-<div n="lb"/>{#jalasTalaM;#} ‘relating to dry land,’ {#Danva#} {%n.%} {#(n), sTalIyaH -yA#}
-<div n="lb"/>{#-yaM;#} ‘produced on it,’ {#sTalajaH -jA -jaM;#} ‘confusion of land
-<div n="lb"/>and water through inundation,’ {#jalasTalaBramaH;#} ‘the way by
-<div n="lb"/>land,’ {#sTalamArgaH;#} ‘by land,’ {#sTalamArgeRa#}. — (Ground, soil, earth)
-<div n="lb"/>{#BUmiH#} {%f.,%} {#BUH#} {%f.,%} {#kzetraM, mft#} {%f.,%} {#mfttikA;#} ‘arable land,’ {#kzetraBUmiH#} {%f.;%}
-<div n="lb"/>‘ploughed land,’ {#kfzwaM, kfzwaBUmiH#} {%f.,%} {#PAlakfzwaM, sItyaBUmiH;#} ‘barren
-<div n="lb"/>land,’ {#maruH#} {%m.,%} {#marusTalaM -lI, DanvA#} {%m.%} {#(n), BUrRiH#} {%f.,%} {#UzaH -zaraH;#}
-<div n="lb"/>‘marshy land,’ {#kacCaBUH#} {%f.,%} {#anUpaBUmiH#} {%f.;%} ‘waste land,’ {#KilaH;#}
-<div n="lb"/>‘fallow land,’ {#aprahataBUmiH;#} ‘table land,’ {#sAnuH#} {%m.,%} {#prasTaH, snuH#} {%m.%}
-<div n="lb"/> — (Estate, lands) {#kzetraM, BUmiH, sTAvaraM;#} ‘paternal lands,’ {#pEtfka-#}
-<div n="lb"/>{#BUmiH;#} ‘gift of lands,’ {#BUmidAnaM#}.
+LAND¦, {%s.%} (Country, region) {#deSaH, pradeSaH, vizayaH, rAzwraM#}. — (As op-
+posed to water) {#sTalaM -lI;#} ‘land and water,’ {#sTalajalaM,#}
+{#jalasTalaM;#} ‘relating to dry land,’ {#Danva#} {%n.%} {#(n), sTalIyaH -yA#}
+{#-yaM;#} ‘produced on it,’ {#sTalajaH -jA -jaM;#} ‘confusion of land
+and water through inundation,’ {#jalasTalaBramaH;#} ‘the way by
+land,’ {#sTalamArgaH;#} ‘by land,’ {#sTalamArgeRa#}. — (Ground, soil, earth)
+{#BUmiH#} {%f.,%} {#BUH#} {%f.,%} {#kzetraM, mft#} {%f.,%} {#mfttikA;#} ‘arable land,’ {#kzetraBUmiH#} {%f.;%}
+‘ploughed land,’ {#kfzwaM, kfzwaBUmiH#} {%f.,%} {#PAlakfzwaM, sItyaBUmiH;#} ‘barren
+land,’ {#maruH#} {%m.,%} {#marusTalaM -lI, DanvA#} {%m.%} {#(n), BUrRiH#} {%f.,%} {#UzaH -zaraH;#}
+‘marshy land,’ {#kacCaBUH#} {%f.,%} {#anUpaBUmiH#} {%f.;%} ‘waste land,’ {#KilaH;#}
+‘fallow land,’ {#aprahataBUmiH;#} ‘table land,’ {#sAnuH#} {%m.,%} {#prasTaH, snuH#} {%m.%}
+ — (Estate, lands) {#kzetraM, BUmiH, sTAvaraM;#} ‘paternal lands,’ {#pEtfka-#}
+{#BUmiH;#} ‘gift of lands,’ {#BUmidAnaM#}.
 <LEND>

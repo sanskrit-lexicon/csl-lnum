@@ -1,13 +1,13 @@
 <L>1169<pc>041<k1>ascribe<k2>ascribe
-<div n="lb"/>{@ASCRIBE:@}¦ <div n="I">I To refer to as an attribute:
-<div n="lb"/>{#A-ropayati, aDyA-,#} (c. of {#ruh#}), <div n="xe">{%to whom divine%}
-<div n="lb"/>{%nature has been falsely a. d%}</div> <div n="xs">{#aDyAropitavitaTadevatAnu-#}
-<div n="lb"/>{#BAvaH,#}</div> <ls>D.</ls> i.; </div><div n="I">II To refer to, as an effect:
-<div n="lb"/>expr. by circumlo.: <div n="xe">{%common people a. every%}
-<div n="lb"/>{%thing to fate%}</div> <div n="xs">{#dEvAyattaM sarvamiti prAkftA vadanti;#}</div> <div n="xe">{%the%}
-<div n="lb"/>{%citizens a. ed his cure to the power of the charm%}</div>
-<div n="lb"/><div n="xs">{#*mantrabalenAsAvArogyaM leBa iti pOrEraDigatam.#}</div> N. B. When
-<div n="lb"/>the cause is <div n="xe">{%a person,%}</div> <div n="xs">{#Aropayati#}</div> may be used:
-<div n="lb"/><div n="xe">{%they a. ed to me the success of the day%}</div> <div n="xs">{#taddivasasya #}
-<div n="lb"/>{# jayaM mayyAropayAmAsuH.#}</div></div>
+{@ASCRIBE:@}¦ <div n="I">I To refer to as an attribute:
+{#A-ropayati, aDyA-,#} (c. of {#ruh#}), <div n="xe">{%to whom divine%}
+{%nature has been falsely a. d%}</div> <div n="xs">{#aDyAropitavitaTadevatAnu-#}
+{#BAvaH,#}</div> <ls>D.</ls> i.; </div><div n="I">II To refer to, as an effect:
+expr. by circumlo.: <div n="xe">{%common people a. every%}
+{%thing to fate%}</div> <div n="xs">{#dEvAyattaM sarvamiti prAkftA vadanti;#}</div> <div n="xe">{%the%}
+{%citizens a. ed his cure to the power of the charm%}</div>
+<div n="xs">{#*mantrabalenAsAvArogyaM leBa iti pOrEraDigatam.#}</div> N. B. When
+the cause is <div n="xe">{%a person,%}</div> <div n="xs">{#Aropayati#}</div> may be used:
+<div n="xe">{%they a. ed to me the success of the day%}</div> <div n="xs">{#taddivasasya #}
+{# jayaM mayyAropayAmAsuH.#}</div></div>
 <LEND>

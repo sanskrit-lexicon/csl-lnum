@@ -1,6 +1,6 @@
 <L>1345<pc>048<k1>attorney<k2>attorney
-<div n="lb"/>{@ATTORNEY:@}¦ {#*vyavahArapratiniDiH; moktAraH.#} <div n="xe">{%A power%}
-<div n="lb"/>{%of a.%}</div> <div n="xs">{#*vyavahArapratiniDipatram.#}</div> <div n="xe">{%A general%}</div> <div n="xs">{#*vyavahAra-#}
-<div n="lb"/>{#sacivaH, vicArAdikAryezu rAjapakzasamarTako rAjakIya-#}
-<div n="lb"/>{#praDAnopadezwA.#}</div>
+{@ATTORNEY:@}¦ {#*vyavahArapratiniDiH; moktAraH.#} <div n="xe">{%A power%}
+{%of a.%}</div> <div n="xs">{#*vyavahArapratiniDipatram.#}</div> <div n="xe">{%A general%}</div> <div n="xs">{#*vyavahAra-#}
+{#sacivaH, vicArAdikAryezu rAjapakzasamarTako rAjakIya-#}
+{#praDAnopadezwA.#}</div>
 <LEND>

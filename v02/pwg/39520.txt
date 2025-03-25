@@ -1,29 +1,29 @@
 <L>39520<pc>4-0198<k1>nirBara<k2>nirBara
-{#nirBara#}¦ ({#nis + Bara#}) <lex>adj.</lex> <lex>f.</lex> {#A#} 
-<div n="1"> 1) {%heftig, stark, übermässig%} 
-<ls>AK. 1, 1, 1, 62. 3, 5, 2.</ls> 
-<ls>H. 1506. 1535.</ls> {#°pariramBa#} 
-<ls>GĪT. 5, 7.</ls> {#°rahaHkrIqA#} 
-<ls>BHARTṚ. 1, 25.</ls> {#°saMBoga#} 
-<ls>RĀJA-TAR. 5, 230.</ls> {#°praRayitA#} 
-<ls>AMAR. 42.</ls> {#°smara#} 
-<ls>GĪT. 12, 1.</ls> 
-<ls>PRAB. 19, 13.</ls> {#°ram#} adv. {%heftig, im Uebermaasse, sehr%}: {#AliNgya#} 
-<ls>HIT. 29, 13.</ls> 
-<ls>GĪT. 1, 48.</ls> {#°pIta#} 
-<ls>KATHĀS. 26, 144.</ls> {#vizIdizyati#} 
-<ls>ŚATR. 14, 230.</ls> {#prasuptaH#} {%fest eingeschlafen%} 
-<ls>HIT. 50, 2.</ls> 
+{#nirBara#}¦ ({#nis + Bara#}) <lex>adj.</lex> <lex>f.</lex> {#A#}
+<div n="1"> 1) {%heftig, stark, übermässig%}
+<ls>AK. 1,1,1,62.</ls> <ls n="AK.">3,5,2.</ls>
+<ls>H. 1506.</ls> <ls n="H.">1535.</ls> {#°pariramBa#}
+<ls>GĪT. 5,7.</ls> {#°rahaHkrIqA#}
+<ls>BHARTṚ. 1,25.</ls> {#°saMBoga#}
+<ls>RĀJA-TAR. 5,230.</ls> {#°praRayitA#}
+<ls>AMAR. 42.</ls> {#°smara#}
+<ls>GĪT. 12,1.</ls>
+<ls>PRAB. 19,13.</ls> {#°ram#} adv. {%heftig, im Uebermaasse, sehr%}: {#AliNgya#}
+<ls>HIT. 29,13.</ls>
+<ls>GĪT. 1,48.</ls> {#°pIta#}
+<ls>KATHĀS. 26,144.</ls> {#vizIdizyati#}
+<ls>ŚATR. 14,230.</ls> {#prasuptaH#} {%fest eingeschlafen%}
+<ls>HIT. 50,2.</ls>
 <div n="1">— 2) am Ende eines comp. {%voll von,%}
 [Page4-0199]
-{%erfüllt von%}: {#amfta°#} 
-<ls>KATHĀS. 4, 89. 8, 38. 9, 47.</ls> {#maricakzoda° (mAMsaKaRqa)#} 
-<ls>13, 124.</ls> {#maNgalAtodyanihrAda° (purI)#} 
-<ls>18, 404.</ls> {#puMScalIjAlmavEDeyabAlakadrogDf° (rAjaparzad)#} 
-<ls>RĀJA-TAR. 6, 159.</ls> {#harza°#} 
-<ls>KATHĀS. 2, 73.</ls> {#amarza°#} 
-<ls>10, 61.</ls> {#premanirBarayA girA#} 
-<ls>BHĀG. P.9,18,20.</ls> <ls>Verz. d. Oxf. H. 91,b,23.</ls> {#viprAstrayInirBarAH#} 
-<ls>DHŪRTAS. 96, 10.</ls> {#kopanirBaram#} adv. 
-<ls>KATHĀS. 6, 126.</ls>
+{%erfüllt von%}: {#amfta°#}
+<ls>KATHĀS. 4,89.</ls> <ls n="KATHĀS.">8,38.</ls> <ls n="KATHĀS.">9,47.</ls> {#maricakzoda° (mAMsaKaRqa)#}
+<ls n="KATHĀS.">13,124.</ls> {#maNgalAtodyanihrAda° (purI)#}
+<ls n="KATHĀS.">18,404.</ls> {#puMScalIjAlmavEDeyabAlakadrogDf° (rAjaparzad)#}
+<ls>RĀJA-TAR. 6,159.</ls> {#harza°#}
+<ls>KATHĀS. 2,73.</ls> {#amarza°#}
+<ls n="KATHĀS.">10,61.</ls> {#premanirBarayA girA#}
+<ls>BHĀG. P. 9,18,20.</ls> <ls>Verz. d. Oxf. H. 91,b,23.</ls> {#viprAstrayInirBarAH#}
+<ls>DHŪRTAS. 96,10.</ls> {#kopanirBaram#} adv.
+<ls>KATHĀS. 6,126.</ls>
 <LEND>

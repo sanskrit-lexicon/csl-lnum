@@ -1,5 +1,5 @@
 <L>8885<pc>207-b<k1>draughts<k2>draughts
-<div n="lb"/>DRAUGHTS¦, {%s.%} {#azwApadakrIqA, SArikrIqA;#} ‘a piece at draughts,’
-<div n="lb"/>{#SAriH#} {%m.,%} {#SAraH, sAriH,#} {%m.,%} {#sAraH, sArikA, jatuputrakaH, KelanI#}
-<div n="lb"/>{#-linI, nayaH;#} ‘moving a piece at draughts,’ {#pariRAyaH, parIRAyaH#}
+DRAUGHTS¦, {%s.%} {#azwApadakrIqA, SArikrIqA;#} ‘a piece at draughts,’
+{#SAriH#} {%m.,%} {#SAraH, sAriH,#} {%m.,%} {#sAraH, sArikA, jatuputrakaH, KelanI#}
+{#-linI, nayaH;#} ‘moving a piece at draughts,’ {#pariRAyaH, parIRAyaH#}
 <LEND>

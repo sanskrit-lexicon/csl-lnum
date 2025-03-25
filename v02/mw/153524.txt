@@ -1,8 +1,8 @@
 <L>153524<pc>769,2<k1>Bram<k2>Bram<e>1
-<s>Bram</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xx, 20</ls>) <s>Bramati</s> (<ab>ep.</ab> also <s>°te</s>) and <ab>cl.</ab> 4. <ab>P.</ab> (<ls>xxvi, 96</ls>), <s>BrA<shortlong/>myati</s> (<ab>Pot.</ab> <s>BramyAt</s>, <ls>PārGṛ.</ls>; <ab>pf.</ab> <s>baBrAma</s>, 3. <ab>pl.</ab> <s>baBramuH</s> or <s>BremuH</s>, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.; <ab>fut.</ab> <s>BramitA</s> <ab>Gr.</ab>; <s>Bramizyati</s>, <ls>MBh.</ls>; <ab>aor.</ab> <s>aBramIt</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>Bramitum</s> or <s>BrAntum</s>, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.; <ab>ind.p.</ab> <s>BramitvA</s>, <s>BrAntvA</s>, <s>-BrA<shortlong/>mya</s>, <ls>ib.</ls>), 
+<s>Bram</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xx, 20</ls>) <s>Bramati</s> (<lang>ep.</lang> also <s>°te</s>) and <ab>cl.</ab> 4. <ab>P.</ab> (<ls n="Dhātup.">xxvi, 96</ls>), <s>BrAmyati</s> or <s>Bramyati</s> (<ab>Pot.</ab> <s>BramyAt</s>, <ls>PārGṛ.</ls>; <ab>pf.</ab> <s>baBrAma</s>, 3. <ab>pl.</ab> <s>baBramuH</s> or <s>BremuH</s>, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.; <ab>fut.</ab> <s>BramitA</s> <ab>Gr.</ab>; <s>Bramizyati</s>, <ls>MBh.</ls>; <ab>aor.</ab> <s>aBramIt</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>Bramitum</s> or <s>BrAntum</s>, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.; <ab>ind.p.</ab> <s>BramitvA</s>, <s>BrAntvA</s>, <s>-BrAmya</s> or <s>-Bramya</s>, <ls>ib.</ls>),
 <div n="to"/>to wander or roam about, rove, ramble (with <s>deSam</s>, to wander through or over a country; with <s>BikzAm</s>, go about begging), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to fly about (as bees), <ls>Kāv.</ls>; <ls>Var.</ls>;
-<div n="to"/>to roll about (as the eyes), <ls>Kāvyâd.</ls>;
+<div n="to"/>to roll about (as the eyes), <ls>Kāvyād.</ls>;
 <div n="to"/>to wag (as the tongue), <ls>ŚārṅgP.</ls>;
 <div n="to"/>to quiver (as the fetus in the womb), <ls>BhP.</ls>;
 <div n="to"/>to move to and fro or unsteadily, flicker, flutter, reel, totter, <ls>ŚBr.</ls>; <ls>Kālid.</ls>; <ls>Pur.</ls>;
@@ -10,8 +10,8 @@
 <div n="to"/>to spread, be current (as news), <ls>Daś.</ls>;
 <div n="to"/>to waver, be perplexed, doubt, err, <ls>Bhag.</ls>; <ls>Pur.</ls>; <ls>Siddh.</ls> :
 <div n="vp"/><ab>Pass.</ab> <ab>aor.</ab> <s>aBrAmi</s> (<ab>impers.</ab>, with <s>te</s>, ‘you have wandered or roamed about’), <ls>R.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>BrA<shortlong/>mayati</s> (<ab>mc.</ab> also <s>°te</s>; <ab>aor.</ab> <s>abiBramat</s>:
-<div n="to"/><ab>Pass.</ab> <s>BrA<shortlong/>myate</s>), to cause to wander or roam, drive or move about, agitate, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="vp"/><ab>Caus.</ab> <s>BrAmayati</s> or <s>Bramayati</s> (<ab>mc.</ab> also <s>°te</s>; <ab>aor.</ab> <s>abiBramat</s>:
+<div n="vp"/><ab>Pass.</ab> <s>BrAmyate</s> or <s>Bramyate</s>), to cause to wander or roam, drive or move about, agitate, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/> (with <s>pawaham</s> or <s>°ha-GozaRAm</s>), to move a drum about, proclaim by beat of drum, <ls>Kathās.</ls>;
 <div n="to"/>to cause to move or turn round or revolve, swing, brandish, <ls>Up.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to drive through (<ab>acc.</ab>) in a chariot, <ls>Cat.</ls>;

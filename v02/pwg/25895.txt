@@ -1,44 +1,44 @@
 <L>25895<pc>2-1056<k1>cezwa<k2>cezwa
-{#cezwa#}¦ (von {#cezw#}) 
-<div n="1"> 1) <lex>n.</lex> 
-<div n="2"> a) {%Bewegung%} (eines Gliedes, des Körpers), {%Gebärde%}: {#iNgitAkAracezwajYa#} 
-<ls>M. 7, 63.</ls> 
-<div n="2">— b) {%das Thun und Treiben%}: {#evamAdIni cAnyAni vizRoScezwAni#} 
-<ls>HARIV. 5939.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#A#} 
-<div n="2"> a) = {#cezwa#} {%a%} 
-<ls>P. 2, 3, 12.</ls> 
-<ls>VOP. 5, 19.</ls> 
-<ls>YĀJÑ. 2, 220. 3, 76.</ls> 
-<ls>MBH. 12, 682.</ls> 
-<ls>R. 2, 65, 13.</ls> 
-<ls>SUŚR. 1, 6, 10. 69, 9.</ls> {#cezwoparama#} 
-<ls>97, 10. 130, 21.</ls> {#cezwAstamBa#} 
-<ls>252, 20. 313, 3.</ls> {#saMrudDacezwa#} 
-<ls>RAGH. 2, 43.</ls> im Gegens. zu {#manovftti#} 
-<ls>ŚĀK. 16, 12.</ls> {#cezwA nfttamayI tatra#} 
-<ls>KATHĀS. 23, 84.</ls> {#AkArEriNgitErgatyA cezwayA#} 
-<ls>M. 8, 26. 7, 67.</ls> 
-<div n="2">— b) {%thätiges Verhalten, Handlung%}, = {#kriyA#} 
-<ls>AK. 3, 4, 24, 159.</ls> {#yuktacezwa#} 
-<ls>ŚVETĀŚV. UP. 2, 9.</ls> {#yuktacezwasya karmasu#} 
-<ls>BHAG. 6, 17.</ls> {#(sidDaye sarvakarmaRAm) viviDASca pfTakcezwAH#} 
-<ls>18, 14.</ls> {#na kurvIta vfTA cezwAm#} 
-<ls>M. 4, 63.</ls> 
-<ls>DHŪRTAS. 72, 12.</ls> {#so 'nupravizwo BagavAMScezwArUpeRa taM gaRam#} 
-<ls>BHĀG. P. 3, 6, 3.</ls> 
-<div n="2">— c) {%das Vollbringen, Thun%}: {#rAtriH svapnAya BUtAnAM cezwAyE karmaRAmahaH#} 
-<ls>M. 1, 65.</ls> 
-<div n="2">— d) {%das Thun und Treiben, das Benehmen, Art und Weise zu sein%}: {#karmavEcitryAtpraDAnacezwA garBadAsavat#} 
-<ls>KAP. 3, 51.</ls> {#cezwAScEva vijAnIyAdarInyoDayatAmapi#} 
-<ls>M. 7, 194.</ls> {#keyaM tava cezwA#} 
-<ls>VID. 267.</ls> {#unmattacezwa#} <lex>adj.</lex> 
-<ls>178.</ls> {#kOmArIM darSayaMScezwAm#} 
-<ls>BHĀG. P. 3, 2, 28.</ls> {#krUracezwa#} <lex>adj.</lex> 
-<ls>VARĀH. BṚH. S. 9, 12.</ls> {#cezwAM pipIlikAnAm#} 
-<ls>MĀRK. P. 27, 18.</ls> {#agnivisPuliNgAnAM vIjacezwA ca SAlmaleH#} 
-<ls>19.</ls> {#SfNgAracezwAH#} 
-<ls>RAGH. 6, 12.</ls> {#yasya gfhasyEtAdfSI cezwA tatra sevakena kaTaM sTAtavyam#} 
-<ls>HIT. 110, 22.</ls> 
+{#cezwa#}¦ (von {#cezw#})
+<div n="1"> 1) <lex>n.</lex>
+<div n="2"> a) {%Bewegung%} (eines Gliedes, des Körpers), {%Gebärde%}: {#iNgitAkAracezwajYa#}
+<ls>M. 7,63.</ls>
+<div n="2">— b) {%das Thun und Treiben%}: {#evamAdIni cAnyAni vizRoScezwAni#}
+<ls>HARIV. 5939.</ls>
+<div n="1">— 2) <lex>f.</lex> {#A#}
+<div n="2"> a) = {#cezwa#} {%a%}
+<ls>P. 2,3,12.</ls>
+<ls>VOP. 5,19.</ls>
+<ls>YĀJÑ. 2,220.</ls> <ls n="YĀJÑ.">3,76.</ls>
+<ls>MBH. 12,682.</ls>
+<ls>R. 2,65,13.</ls>
+<ls>SUŚR. 1,6,10. 69,9.</ls> {#cezwoparama#}
+<ls n="SUŚR.">97,10. 130,21.</ls> {#cezwAstamBa#}
+<ls n="SUŚR.">252,20. 313,3.</ls> {#saMrudDacezwa#}
+<ls>RAGH. 2,43.</ls> im Gegens. zu {#manovftti#}
+<ls>ŚĀK. 16,12.</ls> {#cezwA nfttamayI tatra#}
+<ls>KATHĀS. 23,84.</ls> {#AkArEriNgitErgatyA cezwayA#}
+<ls>M. 8,26.</ls> <ls n="M.">7,67.</ls>
+<div n="2">— b) {%thätiges Verhalten, Handlung%}, = {#kriyA#}
+<ls>AK. 3,4,24,159.</ls> {#yuktacezwa#}
+<ls>ŚVETĀŚV. UP. 2,9.</ls> {#yuktacezwasya karmasu#}
+<ls>BHAG. 6,17.</ls> {#(sidDaye sarvakarmaRAm) viviDASca pfTakcezwAH#}
+<ls n="BHAG.">18,14.</ls> {#na kurvIta vfTA cezwAm#}
+<ls>M. 4,63.</ls>
+<ls>DHŪRTAS. 72,12.</ls> {#so 'nupravizwo BagavAMScezwArUpeRa taM gaRam#}
+<ls>BHĀG. P. 3,6,3.</ls>
+<div n="2">— c) {%das Vollbringen, Thun%}: {#rAtriH svapnAya BUtAnAM cezwAyE karmaRAmahaH#}
+<ls>M. 1,65.</ls>
+<div n="2">— d) {%das Thun und Treiben, das Benehmen, Art und Weise zu sein%}: {#karmavEcitryAtpraDAnacezwA garBadAsavat#}
+<ls>KAP. 3,51.</ls> {#cezwAScEva vijAnIyAdarInyoDayatAmapi#}
+<ls>M. 7,194.</ls> {#keyaM tava cezwA#}
+<ls>VID. 267.</ls> {#unmattacezwa#} <lex>adj.</lex>
+<ls n="VID.">178.</ls> {#kOmArIM darSayaMScezwAm#}
+<ls>BHĀG. P. 3,2,28.</ls> {#krUracezwa#} <lex>adj.</lex>
+<ls>VARĀH. BṚH. S. 9,12.</ls> {#cezwAM pipIlikAnAm#}
+<ls>MĀRK. P. 27,18.</ls> {#agnivisPuliNgAnAM vIjacezwA ca SAlmaleH#}
+<ls n="MĀRK. P.">19.</ls> {#SfNgAracezwAH#}
+<ls>RAGH. 6,12.</ls> {#yasya gfhasyEtAdfSI cezwA tatra sevakena kaTaM sTAtavyam#}
+<ls>HIT. 110,22.</ls>
 <div n="v">— Vgl. {#karmacezwA, acezwatA, niScezwa#} .
 <LEND>

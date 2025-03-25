@@ -1,7 +1,7 @@
-<L>134699<pc>679,3<k1>pradiS<k2>pra-diS<h>a<e>1
-<s>pra-√ diS</s> <hom>a</hom> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-diSati</s>, <s>°te</s>, to point out, show, indicate, declare, appoint, fix, ordain, <ls>RV.</ls> &c. &c.;
+<L>134699<pc>679,3<k1>pradiS<k2>pra-diS<e>1
+<s>pra-√ diS</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-diSati</s>, <s>°te</s>, to point out, show, indicate, declare, appoint, fix, ordain, <ls>RV.</ls> &c. &c.;
 <div n="to"/>to direct, bid, urge, <ls>R.</ls>;
-<div n="to"/>to assign, apportion, grant, <ls>Mn.</ls>; <ls>MBh.</ls> (<s>-diSyati</s>, <ls>i, 6472</ls>), <ls>Kāv.</ls> &c.:
-<div n="to"/><ab>Caus.</ab> <s>-deSayati</s>, to urge on, incite, <ls>MBh.</ls>; <ls>R.</ls> :
-<div n="to"/><ab>Intens.</ab> (<ab>pr. p.</ab> <s>-de/diSat</s>), to animate, <ls>RV.</ls><info verb="pre" cp="PĀ" parse="pra+diS"/>
+<div n="to"/>to assign, apportion, grant, <ls>Mn.</ls>; <ls>MBh.</ls> (<s>-diSyati</s>, <ls n="MBh.">i, 6472</ls>), <ls>Kāv.</ls> &c.:
+<div n="vp"/><ab>Caus.</ab> <s>-deSayati</s>, to urge on, incite, <ls>MBh.</ls>; <ls>R.</ls> :
+<div n="vp"/><ab>Intens.</ab> (<ab>pr. p.</ab> <s>-de/diSat</s>), to animate, <ls>RV.</ls><info verb="pre" cp="PĀ" parse="pra+diS"/><info hui="a"/>
 <LEND>

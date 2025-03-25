@@ -1,9 +1,9 @@
 <L>1856<pc>062<k1>coach<k2>coach
 {@Coach,@}¦ {%s%} {#raTaH, pravahaRaM, yAnaM, vAhanaM, SakawaH-#}
-<div n="lb"/>{#-wikA;#} ‘travels by c.’ {#raTena saMcarati;#}
-<div n="lb"/>‘a c. and four’ {#caturaSvaM yAnaM;#} ‘c. box’
-<div n="lb"/>{#sUtAsanaM,#} ‘c. ful’ {#pUrRaraTaH, SAkawaM;#} ‘c,
-<div n="lb"/>horse’ {#raTyaH;#} ‘c. house’ {#raTaSAlA;#} ‘c.
-<div n="lb"/>maker’ {#raTakAraH;#} ‘c. man’ {#sUtaH, sAraTiH,#}
-<div n="lb"/>{#yaMtf#} {%m.%}
+{#-wikA;#} ‘travels by c.’ {#raTena saMcarati;#}
+‘a c. and four’ {#caturaSvaM yAnaM;#} ‘c. box’
+{#sUtAsanaM,#} ‘c. ful’ {#pUrRaraTaH, SAkawaM;#} ‘c,
+horse’ {#raTyaH;#} ‘c. house’ {#raTaSAlA;#} ‘c.
+maker’ {#raTakAraH;#} ‘c. man’ {#sUtaH, sAraTiH,#}
+{#yaMtf#} {%m.%}
 <LEND>

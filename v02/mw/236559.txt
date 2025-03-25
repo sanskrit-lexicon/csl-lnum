@@ -1,6 +1,6 @@
 <L>236559<pc>1176,1<k1>sampravad<k2>sam-pra-vad<e>1
-<s>sam-pra-√ vad</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-vadati</s>, <s>°te</s> (<ab>Ved.</ab> <ab>inf.</ab> <s>-vaditos</s>), to pronounce aloud, <ls>PañcavBr.</ls>;
-<div n="to"/> (<ab>P.</ab>) to utter cries together, sing together, <ls>Pāṇ. 1-3, 48</ls> <ab>Sch.</ab>;
+<s>sam-pra-√ vad</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-vadati</s>, <s>°te</s> (<lang>Ved.</lang> <ab>inf.</ab> <s>-vaditos</s>), to pronounce aloud, <ls>PañcavBr.</ls>;
+<div n="to"/> (<ab>P.</ab>) to utter cries together, sing together, <ls>Pāṇ. i, 3, 48</ls>, <ab>Sch.</ab>;
 <div n="to"/> (<ab>Ā.</ab>) to talk or converse together, <ls>Bhaṭṭ.</ls>;
 <div n="vp"/> <ab>Caus.</ab> <s>vAdayati</s> See below.<info verb="pre" cp="PĀ" parse="sam+pra+vad"/>
 <LEND>

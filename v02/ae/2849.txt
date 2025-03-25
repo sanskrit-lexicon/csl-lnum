@@ -1,5 +1,5 @@
 <L>2849<pc>106<k1>dialogue<k2>dialogue
 {@Dialogue,@}¦ {%s.%} {#saMlApaH, saMvAdaH, saMkaTA, saMBAza-#}
-<div n="lb"/>{#-RaM, praSnottaraM, kaTopakaTataM#}. {@-Dialogist,@} {%s.%}
-<div n="lb"/>{#saMvAdakaH, uttarapratyuttaradAyakaH#}.
+{#-RaM, praSnottaraM, kaTopakaTataM#}. {@-Dialogist,@} {%s.%}
+{#saMvAdakaH, uttarapratyuttaradAyakaH#}.
 <LEND>

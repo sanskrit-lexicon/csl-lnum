@@ -1,5 +1,5 @@
 <L>7350<pc>233<k1>elementary<k2>elementary
-<div n="lb"/>{@ELEMENTARY:@}¦ Ph.: <div n="xe">{%e. substance:%}</div> <div n="xs">{#mUlapadArTaH;#}</div> <div n="xe">{%e.%}
-<div n="lb"/>{%instruction:%}</div> <div n="xs">{#vArtAmAtrAvaboDanam,#}</div> D.; {%e. treatise:%}
-<div n="lb"/>{#laGuprabanDaH#} (?).
+{@ELEMENTARY:@}¦ Ph.: <div n="xe">{%e. substance:%}</div> <div n="xs">{#mUlapadArTaH;#}</div> <div n="xe">{%e.%}
+{%instruction:%}</div> <div n="xs">{#vArtAmAtrAvaboDanam,#}</div> D.; {%e. treatise:%}
+{#laGuprabanDaH#} (?).
 <LEND>

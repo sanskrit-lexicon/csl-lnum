@@ -1,7 +1,7 @@
 <L>22038<pc>695<k1>swear<k2>swear
-<div n="lb"/>{@SWEAR@}¦ (v. i.): {#Sapati#} <div n="xe">{%or%}</div> <div n="xs">{#Sapyati,#}</div> <div n="xe">{%who have sworn%}
-<div n="lb"/>{%together:%}</div> <div n="xs">{#saMSaptakAH,#}</div> Mah. vii.: v. Also to
-<div n="lb"/>curse; <div n="1">(2) {#SapaTaM karoti#} (=take an oath),
-<div n="lb"/><div n="xe">{%swore before her friends:%}</div> <div n="xs">{#saKInAM purataH saSapaTa-#}
-<div n="lb"/>{#maBihitavatI,#}</div> K.</div>
+{@SWEAR@}¦ (v. i.): {#Sapati#} <div n="xe">{%or%}</div> <div n="xs">{#Sapyati,#}</div> <div n="xe">{%who have sworn%}
+{%together:%}</div> <div n="xs">{#saMSaptakAH,#}</div> Mah. vii.: v. Also to
+curse; <div n="1">(2) {#SapaTaM karoti#} (=take an oath),
+<div n="xe">{%swore before her friends:%}</div> <div n="xs">{#saKInAM purataH saSapaTa-#}
+{#maBihitavatI,#}</div> K.</div>
 <LEND>

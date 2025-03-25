@@ -1,47 +1,43 @@
 <L>5847<pc>1-0428<k1>arj<k2>arj<h>4
-4. {#arj#}¦ = {#fYj, fYja/ti#} (nur im partic. praes.); med. {#fYja/te#}, die 3te pl. ebenso, als wäre eine {#fNkte#} vorauszusetzen, das sich nicht findet; 1. conj. aor. {#fYjase#}.{# - f/jyati#}, auch med. (s. u. {#aBi#} .) Vgl.
-<lang n="greek">ὀρέγω, ὀργή.</lang> 
+4. {#arj#}¦ = {#fYj, fYja/ti#} (nur im partic. praes.); med. {#fYja/te#}, die 3te pl. ebenso, als wäre eine {#fNkte#} vorauszusetzen, das sich nicht findet; 1. conj. aor. {#fYjase#}.{# — f/jyati#}, auch med. (s. u. {#aBi#} .) Vgl.
+<lang n="greek">ὀρέγω, ὀργή</lang>.
 <div n="1"> 1) {%sich strecken, ausgreifen%} (im Laufe, vgl.
-<lang n="greek">ὀρεξατ᾽ ἰών</lang>): {#u\Be sicO^ yatate BI\ma f\Yjan#} 
-<ls>ṚV. 1, 95, 7.</ls> {#aDi^ Bru\voH ki^rate re\Rumf\Yjan#} 
-<ls n="ṚV.">4, 38, 7.</ls> {#du\rvartu^H smA Bavati BI\ma f\Yjan#} 
-<ls n="ṚV. 4, 38,">8.</ls> {#pi\tA yatra^ duhi\tuH seka^mf\YjansaM Sa\gmyena\ mana^sA daGa\nve#} 
-<ls n="ṚV.">3, 31, 1.</ls> {#f\Yja\tI Saru^H#} 
-<ls n="ṚV.">1, 172, 7.</ls> med: {#sa ji\hvayA\ catu^ranIka f\Yjate^#} 
-<ls n="ṚV.">5, 48, 5.</ls> {#yenA\ saha^nta f\Yjate\ svaro^cizaH (marutaH)#} 
-<ls n="ṚV.">3, 87, 5.</ls> 
-<div n="1">— 2) {%erstreben, verlangen nach%} 
-<ls>?(NIR. 6, 21:</ls> {#fYjatiH prasADanakarmA#}): {#viSa\stvAM rAjA^naM suvi\datra^mfYjate#} 
-<ls>ṚV. 2, 1, 8.</ls> {#tamu^ ha\vyErmanu^za fYjate gi\rA#} 
-<ls n="ṚV. 2,">2, 5.</ls> <ls n="ṚV.">6, 15, 1.</ls> {#I\SA\nAsa\staru^za fYjate\ nFn#} 
-<ls n="ṚV.">1, 122, 13.</ls> infin.: {#vemi^ tvA pUzannf\Yjase\ vemi\ stota^va AGfRe#} 
-<ls n="ṚV.">8, 4, 17.</ls> 
-<div n="1">— 3) partic. {#fYjasAna/#}; 
-<div n="2"> a) {%herbeieilend%}: {#raTo\ na vi\kzvf^YjasA\na A\yuzu\ vyA^nu\zagvAryA^ de\va f^Rvati#} 
-<ls>ṚV. 1, 58, 3.</ls> 
-<div n="2">— b) {%erstrebend%}: {#viSa\ ArI\rAhu^tamfYjasA\nam#} 
-<ls n="ṚV.">1, 96, 3.</ls> {#f\Yja\sA\naH pu^ru\vAra^ u\kTErendra^M kfRvIta\ sada^nezu\ hotA^#} 
-<ls n="ṚV.">4, 21, 5.</ls> 
+<lang n="greek">ὀρεξατ᾽ ἰών</lang>): {#u\Be sicO^ yatate BI\ma f\Yjan#}
+<ls>ṚV. 1,95,7.</ls> {#aDi^ Bru\voH ki^rate re\Rumf\Yjan#}
+<ls n="ṚV.">4,38,7.</ls> {#du\rvartu^H smA Bavati BI\ma f\Yjan#}
+<ls n="ṚV. 4,38,">8.</ls> {#pi\tA yatra^ duhi\tuH seka^mf\YjansaM Sa\gmyena\ mana^sA daGa\nve#}
+<ls n="ṚV.">3,31,1.</ls> {#f\Yja\tI Saru^H#}
+<ls n="ṚV.">1,172,7.</ls> med: {#sa ji\hvayA\ catu^ranIka f\Yjate^#}
+<ls n="ṚV.">5,48,5.</ls> {#yenA\ saha^nta f\Yjate\ svaro^cizaH (marutaH)#}
+<ls n="ṚV.">3,87,5.</ls>
+<div n="1">— 2) {%erstreben, verlangen nach%}
+(<ls>NIR. 6,21</ls>: {#fYjatiH prasADanakarmA#}): {#viSa\stvAM rAjA^naM suvi\datra^mfYjate#}
+<ls>ṚV. 2,1,8.</ls> {#tamu^ ha\vyErmanu^za fYjate gi\rA#}
+<ls n="ṚV. 2,">2,5.</ls> <ls n="ṚV.">6,15,1.</ls> {#I\SA\nAsa\staru^za fYjate\ nFn#}
+<ls n="ṚV.">1,122,13.</ls> infin.: {#vemi^ tvA pUzannf\Yjase\ vemi\ stota^va AGfRe#}
+<ls n="ṚV.">8,4,17.</ls>
+<div n="1">— 3) partic. {#fYjasAna/#};
+<div n="2"> a) {%herbeieilend%}: {#raTo\ na vi\kzvf^YjasA\na A\yuzu\ vyA^nu\zagvAryA^ de\va f^Rvati#}
+<ls>ṚV. 1,58,3.</ls>
+<div n="2">— b) {%erstrebend%}: {#viSa\ ArI\rAhu^tamfYjasA\nam#}
+<ls n="ṚV.">1,96,3.</ls> {#f\Yja\sA\naH pu^ru\vAra^ u\kTErendra^M kfRvIta\ sada^nezu\ hotA^#}
+<ls n="ṚV.">4,21,5.</ls>
 <div n="v">— Vgl. 1. {#arj#} .
-
-<div n="p">— {#aBi#} {%nach Etwas greifen, auf Etwas zueilen%}, med.: {#a\Bi dvi\janmA^ tri\vfdanna^mfjyate#} 
-<ls>ṚV. 1, 140, 2.</ls> part. act.: {#a\Bi Srava\ fjya^nto vaheyuH (aSvAH)#} 
-<ls n="ṚV.">6, 37, 3.</ls>
-
-<div n="p">— {#A#} med. {%erstreben, herbeiwünschen%}: {#A rADa^Sci\tramf^Yjase#} (1. pers.) 
-<ls>ṚV. 5, 13, 6.</ls> {#A va^ fYjasa U\rjAM vyu^zwi\zvindra^M ma\ruto\ roda^sI anaktana#} 
-<ls n="ṚV.">10, 76, 1.</ls>
-
-<div n="p">— {#ni#} med. 
-<div n="1"> 1) {%erreichen, gewinnen%}: {#dEvyA\ hotA^rA praTa\mA nyf^Yje#} 
-<ls>ṚV. 3, 4, 7.</ls> {#ni yAma^M ci\tramf^Yjate (marutaH)#} 
-<ls n="ṚV.">1, 37, 3.</ls> <ls n="ṚV.">10, 142, 2.</ls> 
-<div n="1">— 2) {%erwischen, unter sich bringen%}: {#a\haM kutsa^mArjune\yaM nyf^Yje#} 
-<ls>ṚV. 4, 26, 1.</ls> {#yo\Do na Sa\trUnsa vanA\ nyf^Yjate#} 
-<ls n="ṚV.">1, 143, 5.</ls> {#vf\trA BUri^ nyf\Yjase^#} (2. pers.) 
-<ls n="ṚV.">8, 79, 4.</ls> <ls n="ṚV.">1, 54, 2.</ls>
+<div n="p">— {#aBi#} {%nach Etwas greifen, auf Etwas zueilen%}, med.: {#a\Bi dvi\janmA^ tri\vfdanna^mfjyate#}
+<ls>ṚV. 1,140,2.</ls> part. act.: {#a\Bi Srava\ fjya^nto vaheyuH (aSvAH)#}
+<ls n="ṚV.">6,37,3.</ls>
+<div n="p">— {#A#} med. {%erstreben, herbeiwünschen%}: {#A rADa^Sci\tramf^Yjase#} (1. pers.)
+<ls>ṚV. 5,13,6.</ls> {#A va^ fYjasa U\rjAM vyu^zwi\zvindra^M ma\ruto\ roda^sI anaktana#}
+<ls n="ṚV.">10,76,1.</ls>
+<div n="p">— {#ni#} med.
+<div n="1"> 1) {%erreichen, gewinnen%}: {#dEvyA\ hotA^rA praTa\mA nyf^Yje#}
+<ls>ṚV. 3,4,7.</ls> {#ni yAma^M ci\tramf^Yjate (marutaH)#}
+<ls n="ṚV.">1,37,3.</ls> <ls n="ṚV.">10,142,2.</ls>
+<div n="1">— 2) {%erwischen, unter sich bringen%}: {#a\haM kutsa^mArjune\yaM nyf^Yje#}
+<ls>ṚV. 4,26,1.</ls> {#yo\Do na Sa\trUnsa vanA\ nyf^Yjate#}
+<ls n="ṚV.">1,143,5.</ls> {#vf\trA BUri^ nyf\Yjase^#} (2. pers.)
+<ls n="ṚV.">8,79,4.</ls> <ls n="ṚV.">1,54,2.</ls>
 [Page1-0429]
-
-<div n="p">— {#sam#} med. {%zusammen streben, sich vereinigen auf%}, mit dem loc.: {#sama^sminnfYjate\ gira^H#} 
-<ls>ṚV. 1, 6, 9.</ls>
+<div n="p">— {#sam#} med. {%zusammen streben, sich vereinigen auf%}, mit dem loc.: {#sama^sminnfYjate\ gira^H#}
+<ls>ṚV. 1,6,9.</ls>
 <LEND>

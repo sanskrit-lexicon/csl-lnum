@@ -1,4 +1,4 @@
 <L>13473<pc>414<k1>level<k2>level
-<div n="lb"/>{@LEVEL@}¦ (adj.): {#samaH#} ({#mA, maM#}), <div n="xe">{%on a l. ground:%}</div> <div n="xs">{#sama-#}
-<div n="lb"/>{#BUmO;#}</div> <div n="xe">{%l. with the ground:%}</div> <div n="xs">{#BUmisamaH#}</div> ({#mA, maM#}).
+{@LEVEL@}¦ (adj.): {#samaH#} ({#mA, maM#}), <div n="xe">{%on a l. ground:%}</div> <div n="xs">{#sama-#}
+{#BUmO;#}</div> <div n="xe">{%l. with the ground:%}</div> <div n="xs">{#BUmisamaH#}</div> ({#mA, maM#}).
 <LEND>

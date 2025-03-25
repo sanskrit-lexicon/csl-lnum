@@ -1,17 +1,17 @@
 <L>11370<pc>351,1<k1>naya<k2>naya
-{@naya-@}¦ <ab>m.</ab> fait de conduire, de guider; manière <lbinfo n="5"/> de se conduire, d'agir,
-ligne de conduite <lbinfo n="5"/>, genre de vie; conduite judicieuse, prudente <lbinfo n="5"/>, habile (envers
-<ab>qq'un</ab>, <ab>loc.</ab>), bonne conduite; prudence, circonspection, bon sens, prévoyance;
-politique, sagesse politique, administration d'État; justice, équité,
-droiture <lbinfo n="4"/>; plan, dessein, programme d'action; idée directrice, principe,
-règle de conduite, maxime; traité de politique, doctrine politique <lbinfo n="3"/>;
+{@naya-@}¦ <ab>m.</ab> fait de conduire, de guider ; manière <lbinfo n="5"/> de se conduire, d'agir,
+ligne de conduite, <lbinfo n="5"/> genre de vie ; conduite judicieuse, prudente, <lbinfo n="5"/> habile (envers
+<ab>qq'un</ab>, <ab>loc.</ab>), bonne conduite ; prudence, circonspection, bon sens, prévoyance ;
+politique, sagesse politique, administration d'État ; justice, équité,
+droiture <lbinfo n="4"/> ; plan, dessein, programme d'action ; idée directrice, principe,
+règle de conduite, maxime ; traité de politique, doctrine politique <lbinfo n="3"/> ;
 {%-vant-%} <ab>a.</ab> versé dans la politique.
 
-<P>{%°kovida-%} <ab>a.</ab> prudent; habile en politique.
+<P>{%°kovida-%} <ab>a.</ab> prudent ; habile en politique.
 
-<P>{%°ga-%} <ab>ag.</ab> qui se conduit prudemment, habilement <lbinfo n="4"/>.
+<P>{%°ga-%} <ab>ag.</ab> qui se conduit prudemment, habilement. <lbinfo n="4"/>
 
-<P>{%°cakṣus-%} <ab>a.</ab> prévoyant en politique, prudent, judicieux; <ab>nt.</ab> prévoyance
+<P>{%°cakṣus-%} <ab>a.</ab> prévoyant en politique, prudent, judicieux ; <ab>nt.</ab> prévoyance
 politique.
 
 <P>{%°jña-%} <ab>a.</ab> = {%°kovida-.%}
@@ -27,7 +27,7 @@ politique.
 <P>{%°vihīna-%} <ab>a. v.</ab> qui s'écarte de la bonne règle, renonce à la bonne
 conduite.
 
-<P>{%°śālin-%} <ab>a.</ab> doué de sagesse politique; juste.
+<P>{%°śālin-%} <ab>a.</ab> doué de sagesse politique ; juste.
 
 <P>{%°śāstra-%} <ab>nt.</ab> science politique.
 

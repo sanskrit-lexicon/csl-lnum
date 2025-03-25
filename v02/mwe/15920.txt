@@ -1,8 +1,8 @@
 <L>15920<pc>389-b<k1>information<k2>information
-<div n="lb"/>INFORMATION¦, {%s.%} {#vijYaptiH, vijYApanaM, jYaptiH, jYApanaM, jYAptiH#} {%f.,%} {#vijYAptiH#} {%f.,%}
-<div n="lb"/>{#nivedanaM, AvedanaM, viditaM, boDaH -DanaM, praboDaH -DanaM, sUcanaM, saMsUcanaM,#}
-<div n="lb"/>{#AKyAnaM, KyApanaM, pratyAdeSaH#}. — (Intelligence, news) {#vArttA, samAcAraH,#}
-<div n="lb"/>{#vfttAntaH, sandeSaH, sandizwaM, saMvAdaH, sUcanA#}. — (Knowledge) {#jYAnaM,#}
-<div n="lb"/>{#vijYAnaM, boDaH, avagamaH#}. — (In law, intelligence of crime)
-<div n="lb"/>{#aparADasUcanaM -nA, anyAyasUcanaM -nA, svayamuktiH#} {%f.,%} {#pESunyaM, upaniDAnaM#}.
+INFORMATION¦, {%s.%} {#vijYaptiH, vijYApanaM, jYaptiH, jYApanaM, jYAptiH#} {%f.,%} {#vijYAptiH#} {%f.,%}
+{#nivedanaM, AvedanaM, viditaM, boDaH -DanaM, praboDaH -DanaM, sUcanaM, saMsUcanaM,#}
+{#AKyAnaM, KyApanaM, pratyAdeSaH#}. — (Intelligence, news) {#vArttA, samAcAraH,#}
+{#vfttAntaH, sandeSaH, sandizwaM, saMvAdaH, sUcanA#}. — (Knowledge) {#jYAnaM,#}
+{#vijYAnaM, boDaH, avagamaH#}. — (In law, intelligence of crime)
+{#aparADasUcanaM -nA, anyAyasUcanaM -nA, svayamuktiH#} {%f.,%} {#pESunyaM, upaniDAnaM#}.
 <LEND>

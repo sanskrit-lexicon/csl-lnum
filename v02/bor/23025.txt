@@ -1,5 +1,5 @@
 <L>23025<pc>725<k1>twelve<k2>twelve
-<div n="lb"/>{@TWELVE:@}¦ {#dvAdaSan#} (mfn.), <div n="xe">{%t. hundred:%}</div> <div n="xs">{#dvAdaSaSatam;#}</div>
-<div n="lb"/><div n="xe">{%t. thousand:%}</div> <div n="xs">{#dvAdaSasahasram;#}</div> <div n="xe">{%t. times:%}</div> <div n="xs">{#dvAdaSakftvaH;#}</div>
-<div n="lb"/><div n="xe">{%lasting t. years:%}</div> <div n="xs">{#dvAdaSavArzikaH#}</div> ({#kI, kaM#}), U. ii.
+{@TWELVE:@}¦ {#dvAdaSan#} (mfn.), <div n="xe">{%t. hundred:%}</div> <div n="xs">{#dvAdaSaSatam;#}</div>
+<div n="xe">{%t. thousand:%}</div> <div n="xs">{#dvAdaSasahasram;#}</div> <div n="xe">{%t. times:%}</div> <div n="xs">{#dvAdaSakftvaH;#}</div>
+<div n="xe">{%lasting t. years:%}</div> <div n="xs">{#dvAdaSavArzikaH#}</div> ({#kI, kaM#}), U. ii.
 <LEND>

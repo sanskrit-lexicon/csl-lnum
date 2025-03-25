@@ -1,13 +1,13 @@
 <L>8793<pc>278<k1>fire<k2>fire
-<div n="lb"/>{@FIRE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#agniH,#} <div n="xe">{%who threw f.%}
-<div n="lb"/>{%on our fort:%}</div> <div n="xs">{#kenAsmaddurge nikzipto'gniH,#}</div> H.; <div n="xe">{%to throw%}
-<div n="lb"/>{%oneself into f.:%}</div> <div n="xs">{#agniM viSati#}</div> ({#viS,#} c. 6.),; </div><div n="1">(2)
-<div n="lb"/>{#vahniH,#} <div n="xe">{%the f. spread according to the turning%}
-<div n="lb"/>{%of the wind:%}</div> <div n="xs">{#tatAna vahniH pavanAnuvfttyA,#}</div> Ki. xvi. 52;</div>
-<div n="lb"/><div n="1">(3) {#analaH,#} <div n="xe">{%burning f.:%}</div> <div n="xs">{#jvalitAnalaH,#}</div> Si.; {%forest f.:%}
-<div n="lb"/>{#dAvAnalaH,#} Ki. </div><div n="1">(4) {#jvalanaH,#} <div n="xe">{%the weapon of f.:%}</div> <div n="xs">{#jvalana-#}
-<div n="lb"/>{#syAstram,#}</div> Ki.; </div><div n="1">(5) {#pAvakaH,#} <div n="xe">{%a good f.%}</div> <div n="xs">{#susandIptaH pAvakaH,#}</div>
-<div n="lb"/>P.; </div><div n="1">(6) {#dahanaH.#} </div><div n="I">II Fig.: {#tejas#} (n.), {%that is%} [Page279]
-<div n="lb"/>{%ever-rising f.%} ({%of horses%}): {#tattejaHsatatotTitam,#} M. n.</div>
-<div n="lb"/><div n="I">III Of fire-arms: {#agniH:#} v. (I).</div>
+{@FIRE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#agniH,#} <div n="xe">{%who threw f.%}
+{%on our fort:%}</div> <div n="xs">{#kenAsmaddurge nikzipto'gniH,#}</div> H.; <div n="xe">{%to throw%}
+{%oneself into f.:%}</div> <div n="xs">{#agniM viSati#}</div> ({#viS,#} c. 6.),; </div><div n="1">(2)
+{#vahniH,#} <div n="xe">{%the f. spread according to the turning%}
+{%of the wind:%}</div> <div n="xs">{#tatAna vahniH pavanAnuvfttyA,#}</div> Ki. xvi. 52;</div>
+<div n="1">(3) {#analaH,#} <div n="xe">{%burning f.:%}</div> <div n="xs">{#jvalitAnalaH,#}</div> Si.; {%forest f.:%}
+{#dAvAnalaH,#} Ki. </div><div n="1">(4) {#jvalanaH,#} <div n="xe">{%the weapon of f.:%}</div> <div n="xs">{#jvalana-#}
+{#syAstram,#}</div> Ki.; </div><div n="1">(5) {#pAvakaH,#} <div n="xe">{%a good f.%}</div> <div n="xs">{#susandIptaH pAvakaH,#}</div>
+P.; </div><div n="1">(6) {#dahanaH.#} </div><div n="I">II Fig.: {#tejas#} (n.), {%that is%} [Page279]
+{%ever-rising f.%} ({%of horses%}): {#tattejaHsatatotTitam,#} M. n.</div>
+<div n="I">III Of fire-arms: {#agniH:#} v. (I).</div>
 <LEND>

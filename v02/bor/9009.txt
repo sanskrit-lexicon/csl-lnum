@@ -1,5 +1,5 @@
 <L>9009<pc>285<k1>florist<k2>florist
-<div n="lb"/>{@FLORIST:@}¦ <div n="I">I Lit.: {#puzpopajIvin#} (f. {#nI#}), Ram.</div>
-<div n="lb"/><div n="I">II Writer of a flora: {#*puzpAvali-#} <div n="xe">{%or%}</div> <div n="xs">{#latAkoza-#}
-<div n="lb"/>{#racayitf#}</div> (f. {#trI#}).</div>
+{@FLORIST:@}¦ <div n="I">I Lit.: {#puzpopajIvin#} (f. {#nI#}), Ram.</div>
+<div n="I">II Writer of a flora: {#*puzpAvali-#} <div n="xe">{%or%}</div> <div n="xs">{#latAkoza-#}
+{#racayitf#}</div> (f. {#trI#}).</div>
 <LEND>

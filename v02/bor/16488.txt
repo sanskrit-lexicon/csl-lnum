@@ -1,8 +1,8 @@
 <L>16488<pc>506<k1>partner<k2>partner
-<div n="lb"/>{@PARTNER:@}¦ <div n="I">I In business: </div><div n="1">(1) {#samBUyakArin#} (f.
-<div n="lb"/>{#RI#}), <div n="xe">{%by all the p.s:%}</div> <div n="xs">{#samBUyakAriBiH sarvEH,#}</div> Mit.;</div>
-<div n="lb"/><div n="1">(2) {#sahakArin#} (f. {#RI#}), Viv.; </div><div n="1">(3) {#samavAyin#} (f.
-<div n="lb"/>{#nI#}), Vri. </div><div n="I">II In matrimony: v. Consort.</div>
-<div n="lb"/><div n="I">III A partaker, sharer: q. v.: {#samaduHKasuKaH #}
-<div n="lb"/>{# saKIjanaH,#} R. viii. 65.</div>
+{@PARTNER:@}¦ <div n="I">I In business: </div><div n="1">(1) {#samBUyakArin#} (f.
+{#RI#}), <div n="xe">{%by all the p.s:%}</div> <div n="xs">{#samBUyakAriBiH sarvEH,#}</div> Mit.;</div>
+<div n="1">(2) {#sahakArin#} (f. {#RI#}), Viv.; </div><div n="1">(3) {#samavAyin#} (f.
+{#nI#}), Vri. </div><div n="I">II In matrimony: v. Consort.</div>
+<div n="I">III A partaker, sharer: q. v.: {#samaduHKasuKaH #}
+{# saKIjanaH,#} R. viii. 65.</div>
 <LEND>

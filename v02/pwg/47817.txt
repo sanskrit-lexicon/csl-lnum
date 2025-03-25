@@ -1,79 +1,78 @@
 <L>47817<pc>4-0916<k1>pragraha<k2>pragraha/
-{#pragraha/#}¦ (von {#grah#} mit {#pra#}) <lex>m.</lex> 
-<div n="1"> 1) {%das Vorsichhinhalten, Ausstrecken%}: {#so 'Yjalipragraho BUtvA#} 
-<ls>MBH. 12, 13283.</ls> {#sAYjalipragrahA sTitA#} 
-<ls>13, 6374.</ls> 
-<div n="1">— 2) {%das Ergreifen, Packen%}: {#sarve kavacapragrahe ratAH#} 
-<ls>HARIV. 15103.</ls> {#vyarTA hi kevalaM tasya pragraho vAhyagocaraH#} 
-<ls>14685.</ls> {#sAyuDapragraha#} so v. a. {%die Waffen in der Hand habend%} 
-<ls>5042.</ls> {#sasAnupragraha#} viell. so v. a. {#sAnumant#} 
-<ls>4648.</ls> {#aNga°#} {%das%} (dämonische) {%Packen der Glieder, Gliederschmerz%} 
-<ls>SUŚR. 1, 281, 9. 2, 231, 15.</ls> {%das Packen der Sonne und des Mondes, der Anfang einer Finsterniss%} (vgl. {#pragrahaRa#}) 
-<ls>SŪRYAS. 4, 14</ls>; vgl. {#graha#} 2,c,<lang n="greek">α.</lang> {#pragrahaM gataH#} {%gepackt, ergriffen, eingefangen%}: {#nahi me mucyate kaScitkaTaMcitpragrahaM gataH . gajo vA mahizo vApi#} 
-<ls>MBH. 3, 12411.</ls> = {#banDana#} {%das Binden%} 
-<ls>H. an. 3, 766. fg.</ls> = {#AbanDana#} 
-<ls>HALĀY. 5, 19.</ls> = {#niyamana#} {%das Bändigen%} 
-<ls>MED. h. 20.</ls> 
-<div n="1">— 3) {%das Loslassen%}: {#tayoraTa BujAGAtAnnigrahapragrahAttaTA . AsItsuBImaH saMpAto vajraparvatayoriva ..#} 
-<ls>MBH. 2, 912. 7, 5920.</ls> 
-<ls>HARIV. 13289.</ls> 
-<div n="1">— 4) {%freundliche Aufnahme, Gunstbezeigung%}: {#atiTipragraharata#} 
-<ls>MBH. 13, 6709.</ls> {#nigrahapragrahO#} 
-<ls>3, 11306.</ls> {#nigrahe pragrahe samyagyadA rAjA pravartate#} 
-<ls>11313. 13, 4108.</ls> {#kAlastu sarvaBUtAnAM nigrahapragrahe rataH#} 
-<ls>HARIV. 4882.</ls> {#asatpragraharati#} <lex>adj.</lex> 
-<ls>MBH. 12, 4236.</ls> {#vigrahapragrahe#} 
-<ls>3, 361.</ls> {#pragrahaM gataH#} {%freundlich aufgenommen, mit Freundlichkeit behandelt%}: {#dOzkuleyA viSezeRa kaTaMcitpragrahaM gatAH . bAlaBAvAdvikurvanti prAyaSaH pramadAH SuBe ..#} 
-<ls>MBH. 3, 17023. 5, 3280. 12, 188.</ls> 
-<div n="1">— 5) {%Zügel%} 
-<ls>P. 3, 3, 53.</ls> 
-<ls>AK. 3, 4, 23, 140. 29, 221.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>VYUTP. 157.</ls> 
-<ls>KAṬHOP. 3, 3.</ls> 
-<ls>MBH. 7, 9567.</ls> 
-<ls>MṚCCH. 107, 14.</ls> 
-<ls>ŚĀK. 8, 11. 100, 15.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 59.</ls> {%Strick%} überh.: {#pragrahEScarmapawwESca taM badDvA parvatopamam#} 
-<ls>13, 3456.</ls> {%Zügel%} in übertr. Bed. so v. a. {%Leiter, Lenker, Führer%}: {#pramARaM sarvaBUtAnAM pragrahASca BavizyaTa#} 
-<ls>MBH. 13, 2147</ls> (vgl. 
-<ls>12, 3912</ls> u. {#pragrahaRa#} 3). 
-<ls>1, 800. 7, 285.</ls> {#nfpezvaTa pranazwezu tadA tvapragrahAH prajAH#} 
-<ls>HARIV. 2370.</ls> {#tAmAryagaRasaMpUrRAM BaratapragrahAM saBAm#} 
-<ls>R. 2, 82, 1 (88, 1 GORR.).</ls> viell. so v. a. {%Geissel, Plage%} 
-<ls>HARIV. 9101.</ls> 
-<div n="1">— 6) {%der Strick, an dem die Wage hängt%}, 
-<ls>P. 3, 3, 52.</ls> 
-<ls>AK. 3, 4, 31, 239.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<div n="1">— 7) {%Lichtstrahl%} (schliesst sich an 5. an) 
-<ls>H. 99.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 1, 39.</ls> 
+{#pragraha/#}¦ (von {#grah#} mit {#pra#}) <lex>m.</lex>
+<div n="1"> 1) {%das Vorsichhinhalten, Ausstrecken%}: {#so 'Yjalipragraho BUtvA#}
+<ls>MBH. 12,13283.</ls> {#sAYjalipragrahA sTitA#}
+<ls n="MBH.">13,6374.</ls>
+<div n="1">— 2) {%das Ergreifen, Packen%}: {#sarve kavacapragrahe ratAH#}
+<ls>HARIV. 15103.</ls> {#vyarTA hi kevalaM tasya pragraho vAhyagocaraH#}
+<ls n="HARIV.">14685.</ls> {#sAyuDapragraha#} so v. a. {%die Waffen in der Hand habend%}
+<ls n="HARIV.">5042.</ls> {#sasAnupragraha#} viell. so v. a. {#sAnumant#}
+<ls n="HARIV.">4648.</ls> {#aNga°#} {%das%} (dämonische) {%Packen der Glieder, Gliederschmerz%}
+<ls>SUŚR. 1,281,9.</ls> <ls n="SUŚR.">2,231,15.</ls> {%das Packen der Sonne und des Mondes, der Anfang einer Finsterniss%} (vgl. {#pragrahaRa#})
+<ls>SŪRYAS. 4,14</ls>; vgl. {#graha#} 2,c,α. {#pragrahaM gataH#} {%gepackt, ergriffen, eingefangen%}: {#nahi me mucyate kaScitkaTaMcitpragrahaM gataH . gajo vA mahizo vApi#}
+<ls>MBH. 3,12411.</ls> = {#banDana#} {%das Binden%}
+<ls>H. an. 3,766. fg.</ls> = {#AbanDana#}
+<ls>HALĀY. 5,19.</ls> = {#niyamana#} {%das Bändigen%}
+<ls>MED. h. 20.</ls>
+<div n="1">— 3) {%das Loslassen%}: {#tayoraTa BujAGAtAnnigrahapragrahAttaTA . AsItsuBImaH saMpAto vajraparvatayoriva ..#}
+<ls>MBH. 2,912.</ls> <ls n="MBH.">7,5920.</ls>
+<ls>HARIV. 13289.</ls>
+<div n="1">— 4) {%freundliche Aufnahme, Gunstbezeigung%}: {#atiTipragraharata#}
+<ls>MBH. 13,6709.</ls> {#nigrahapragrahO#}
+<ls n="MBH.">3,11306.</ls> {#nigrahe pragrahe samyagyadA rAjA pravartate#}
+<ls n="MBH. 3,">11313.</ls> <ls n="MBH.">13,4108.</ls> {#kAlastu sarvaBUtAnAM nigrahapragrahe rataH#}
+<ls>HARIV. 4882.</ls> {#asatpragraharati#} <lex>adj.</lex>
+<ls>MBH. 12,4236.</ls> {#vigrahapragrahe#}
+<ls n="MBH.">3,361.</ls> {#pragrahaM gataH#} {%freundlich aufgenommen, mit Freundlichkeit behandelt%}: {#dOzkuleyA viSezeRa kaTaMcitpragrahaM gatAH . bAlaBAvAdvikurvanti prAyaSaH pramadAH SuBe ..#}
+<ls>MBH. 3,17023.</ls> <ls n="MBH.">5,3280.</ls> <ls n="MBH.">12,188.</ls>
+<div n="1">— 5) {%Zügel%}
+<ls>P. 3,3,53.</ls>
+<ls>AK. 3,4,23,140</ls> <ls n="AK. 3,4,">29,221</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>VYUTP. 157.</ls>
+<ls>KAṬHOP. 3,3.</ls>
+<ls>MBH. 7,9567.</ls>
+<ls>MṚCCH. 107,14.</ls>
+<ls>ŚĀK. 8,11.</ls> <ls n="ŚĀK.">100,15.</ls>
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 59.</ls> {%Strick%} überh.: {#pragrahEScarmapawwESca taM badDvA parvatopamam#}
+<ls n="MBH.">13,3456.</ls> {%Zügel%} in übertr. Bed. so v. a. {%Leiter, Lenker, Führer%}: {#pramARaM sarvaBUtAnAM pragrahASca BavizyaTa#}
+<ls>MBH. 13,2147</ls> (vgl.
+<ls n="MBH.">12,3912</ls> u. {#pragrahaRa#} 3).
+<ls n="MBH.">1,800.</ls> <ls n="MBH.">7,285.</ls> {#nfpezvaTa pranazwezu tadA tvapragrahAH prajAH#}
+<ls>HARIV. 2370.</ls> {#tAmAryagaRasaMpUrRAM BaratapragrahAM saBAm#}
+<ls>R. 2,82,1</ls> (<ls n="GORR. 2,">88,1</ls> <ls>GORR.</ls>). viell. so v. a. {%Geissel, Plage%}
+<ls>HARIV. 9101.</ls>
+<div n="1">— 6) {%der Strick, an dem die Wage hängt%},
+<ls>P. 3,3,52.</ls>
+<ls>AK. 3,4,31,239.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<div n="1">— 7) {%Lichtstrahl%} (schliesst sich an 5. an)
+<ls>H. 99.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 1,39.</ls>
 <div n="1">— 8) {%ein Gefangener%}
 [Page4-0917]
-
-<ls>AK. 2, 8, 2, 87.</ls> 
-<ls>H. 806.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 4, 74.</ls> 
-<div n="1">— 9) {%Arm%} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="1">— 10) {%eine best. Pflanze, Cassia fistula%} 
-<ls>RATNAM. 21.</ls> 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#suvarRAlumahIruha#} (vgl. 1. {#karRa#} 5., wo {#suvarRAlu#} zu lesen ist; 
-<ls>MED.</ls> hat den loc. {#suvarRAlO#}, welches 
-<ls>ŚKDR.</ls> auf {#suvarRAli#} zurückführt) 
-<ls>MED.</ls> = {#suvarRa#} {%Gold%} und {#halipAdapa#} (?) 
-<ls>H. an. -</ls> <ls>SUŚR. 2, 284, 1.</ls> 
-<div n="1">— 11) so v. a. {#pragfhya#} 
-<ls>TAITT. PRĀT. 1, 4.</ls> 
-<div n="1">— 12) vollständig {#pragrahahoma#} Bez. {%einer best. Opferhandlung%} 
-<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 276, Anm.</ls> 
-<div n="1">— 13) unter den Beinn. <is>Viṣṇu's</is> oder <is>Kṛṣṇa's</is>; s. u. {#nigraha#} 4. 
+<ls>AK. 2,8,2,87.</ls>
+<ls>H. 806.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 4,74.</ls>
+<div n="1">— 9) {%Arm%}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="1">— 10) {%eine best. Pflanze, Cassia fistula%}
+<ls>RATNAM. 21.</ls>
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#suvarRAlumahIruha#} (vgl. 1. {#karRa#} 5., wo {#suvarRAlu#} zu lesen ist;
+<ls>MED.</ls> hat den loc. {#suvarRAlO#}, welches
+<ls>ŚKDR.</ls> auf {#suvarRAli#} zurückführt)
+<ls>MED.</ls> = {#suvarRa#} {%Gold%} und {#halipAdapa#} (?)
+<ls>H. an.</ls> — <ls>SUŚR. 2,284,1.</ls>
+<div n="1">— 11) so v. a. {#pragfhya#}
+<ls>TAITT. PRĀT. 1,4.</ls>
+<div n="1">— 12) vollständig {#pragrahahoma#} Bez. {%einer best. Opferhandlung%}
+<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 276, Anm.</ls>
+<div n="1">— 13) unter den Beinn. <is>Viṣṇu's</is> oder <is>Kṛṣṇa's</is>; s. u. {#nigraha#} 4.
 <div n="v">— Vgl. {#tulA°#} .
 <LEND>

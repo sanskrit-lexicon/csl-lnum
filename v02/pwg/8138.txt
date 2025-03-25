@@ -1,11 +1,11 @@
 <L>8138<pc>1-0610<k1>AjIva<k2>AjIva
-{#AjIva#}¦ (von {#jIv#} mit {#A#}) <lex>m.</lex> {%Lebensunterhalt%} 
-<ls>AK. 2, 9, 1.</ls> 
-<ls>H. 865.</ls> {#AjIvaH sarvaBUtAnAm#} 
-<ls>MBH. 14, 956. 1432.</ls> {#svAjIva#} {%guten Lebensunterhalt gewährend%} 
-<ls>R. 2, 56, 13</ls>,a. {#sarvAjIva#} {%von dem Alle leben%} 
-<ls>ŚVETĀŚV. UP. 1, 6.</ls> {#stryAjIva#} {%ein Lebensunterhalt durch die Frau%} 
-<ls>M. 11, 63.</ls> {#SastrAjIva#} {%Soldat%} 
-<ls>AK. 2, 8, 2, 35.</ls> 
+{#AjIva#}¦ (von {#jIv#} mit {#A#}) <lex>m.</lex> {%Lebensunterhalt%}
+<ls>AK. 2,9,1.</ls>
+<ls>H. 865.</ls> {#AjIvaH sarvaBUtAnAm#}
+<ls>MBH. 14,956.</ls> <ls n="MBH. 14,">1432.</ls> {#svAjIva#} {%guten Lebensunterhalt gewährend%}
+<ls>R. 2,56,13,a.</ls> {#sarvAjIva#} {%von dem Alle leben%}
+<ls>ŚVETĀŚV. UP. 1,6.</ls> {#stryAjIva#} {%ein Lebensunterhalt durch die Frau%}
+<ls>M. 11,63.</ls> {#SastrAjIva#} {%Soldat%}
+<ls>AK. 2,8,2,35.</ls>
 <div n="v">— Vgl. {#ajAjIva#} .
 <LEND>

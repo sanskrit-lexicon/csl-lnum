@@ -1,7 +1,7 @@
 <L>6223<pc>200<k1>directly<k2>directly
-<div n="lb"/>{@DIRECTLY:@}¦ <div n="I">I Instantly: q. v.: {#sapadi.#} </div><div n="I">II
-<div n="lb"/>Immediately after: <div n="xe">{%“d. he stopped”:%}</div> <div n="xs">{#viratamAtre #}
-<div n="lb"/>{# tasmin#}</div> <div n="xe">{%or%}</div> <div n="xs">{#tadvirAmAnantarameva.#}</div> </div><div n="I">III Expressly: q. v.:
-<div n="lb"/>{#spazwam.#} </div><div n="I">IV In a direct line: {#fju,#} <div n="xe">{%or%}</div> <div n="xs">{#saralam.#}</div>
-<div n="lb"/>V. As opposed to, inversely: {#anulomena.#}</div>
+{@DIRECTLY:@}¦ <div n="I">I Instantly: q. v.: {#sapadi.#} </div><div n="I">II
+Immediately after: <div n="xe">{%“d. he stopped”:%}</div> <div n="xs">{#viratamAtre #}
+{# tasmin#}</div> <div n="xe">{%or%}</div> <div n="xs">{#tadvirAmAnantarameva.#}</div> </div><div n="I">III Expressly: q. v.:
+{#spazwam.#} </div><div n="I">IV In a direct line: {#fju,#} <div n="xe">{%or%}</div> <div n="xs">{#saralam.#}</div>
+V. As opposed to, inversely: {#anulomena.#}</div>
 <LEND>

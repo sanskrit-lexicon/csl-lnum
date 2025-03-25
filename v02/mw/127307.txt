@@ -1,17 +1,17 @@
 <L>127307<pc>640,3<k1>pU<k2>pU<h>1<e>1
-<hom>1.</hom> <s>pU</s> ¦ <ab>cl.</ab> 9. <ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. xxxi, 12</ls>) <s>punA/ti</s>, <s>punIte/</s> (3. <ab>pl.</ab> <ab>Ā.</ab> <s>puna/te</s>, <ls>AV.</ls>, <s>punate/</s>, <ls>RV.</ls>; 2. <ab>sg.</ab> <ab>Impv.</ab> <ab>P.</ab> <s>punIhi</s>, <ls>RV.</ls> &c., <s>punAhi/</s>, <ls>SV.</ls>);
-<div n="vp"/> <ab>cl.</ab> 1. <ab>Ā.</ab> (<ls>xxii 70</ls>) <s>pa/vate</s> (of <ab>P.</ab> only <ab>Impv.</ab> <s>-pava</s>, <ls>RV. ix, 19, 3</ls>, and <ab>p.</ab> <ab>gen.</ab> <ab>pl.</ab> <s>pavatAm</s>, <ls>Bhag. x, 31</ls>; <ab>p.</ab> <ab>Ā.</ab> <s>punAna/</s> below, <s>pa/vamAna</s> See <pcol>p. 610, col. 3</pcol>; 1. <ab>sg.</ab> <ab>Ā.</ab> <s>punIze</s>, <ls>RV. vii, 85, 1</ls>; <ab>pf.</ab> <s>pupuvuh</s>. <s>°ve</s>, <ls>Br.</ls>; <s>apupot</s>, <ls>RV. iii, 26, 8</ls>; <ab>aor.</ab> <s>apAvizuH</s> <ab>Subj.</ab> <s>apavizwa</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>pavizyati</s>, <s>pavitA</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>pUtvA/</s>, <ls>AV.</ls>; <s>pUtvI/</s>, <ls>RV.</ls>; <s>pavitvA</s> <ab>Gr.</ab>; <s>-pU/ya</s> and <s>-pAvam</s>, <ls>Br.</ls> &c.; <ab>inf.</ab> <s>pavitum</s>, <ls>Br.</ls>), 
+<hom>1.</hom> <s>pU</s> ¦ <ab>cl.</ab> 9. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxxi, 12</ls>) <s>punA/ti</s>, <s>punIte/</s> (3. <ab>pl.</ab> <ab>Ā.</ab> <s>puna/te</s>, <ls>AV.</ls>, <s>punate/</s>, <ls>RV.</ls>; 2. <ab>sg.</ab> <ab>Impv.</ab> <ab>P.</ab> <s>punIhi</s>, <ls>RV.</ls> &c., <s>punAhi/</s>, <ls>SV.</ls>);
+<div n="vp"/> <ab>cl.</ab> 1. <ab>Ā.</ab> (<ls n="Dhātup.">xxii, 70</ls>) <s>pa/vate</s> (of <ab>P.</ab> only <ab>Impv.</ab> <s>-pava</s>, <ls>RV. ix, 19, 3</ls>, and <ab>p.</ab> <ab>gen.</ab> <ab>pl.</ab> <s>pavatAm</s>, <ls>Bhag. x, 31</ls>; <ab>p.</ab> <ab>Ā.</ab> <s>punAna/</s> below, <s>pa/vamAna</s> See <pcol>p. 610, col. 3</pcol>; 1. <ab>sg.</ab> <ab>Ā.</ab> <s>punIze</s>, <ls>RV. vii, 85, 1</ls>; <ab>pf.</ab> <s>pupuvuH</s>, <s>°ve</s>, <ls>Br.</ls>; <s>apupot</s>, <ls>RV. iii, 26, 8</ls>; <ab>aor.</ab> <s>apAvizuH</s> <ab>Subj.</ab> <s>apavizwa</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>pavizyati</s>, <s>pavitA</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>pUtvA/</s>, <ls>AV.</ls>; <s>pUtvI/</s>, <ls>RV.</ls>; <s>pavitvA</s> <ab>Gr.</ab>; <s>-pU/ya</s> and <s>-pAvam</s>, <ls>Br.</ls> &c.; <ab>inf.</ab> <s>pavitum</s>, <ls>Br.</ls>),
 <div n="to"/>to make clean or clear or pure or bright, cleanse, purify, purge, clarify, illustrate, illume (with <s>sa/ktum</s>, ‘to cleanse from chaff, winnow’; with <s>kra/tum</s> or <s>manIzA/m</s>, ‘to enlighten the understanding’; with <s>hiraRyam</s>, ‘to wash gold’), <ls>RV.</ls> &c. &c.;
-<div n="to"/> (met.) to sift, discriminate, discern;
+<div n="to"/> (<ab>met.</ab>) to sift, discriminate, discern;
 <div n="to"/>to think of or out, invent, compose (as a hymn), <ls>RV.</ls>; <ls>AV.</ls>;
-<div n="to"/> (<ab>Ā.</ab> <s>pa/vate</s>) to purify one's self. be or become clear or bright;
-<div n="to"/> (<ab>esp.</ab>) to flow off clearly (said of the <s1 slp1="soma">Soma</s1>), <ls>RV.</ls>;
-<div n="to"/>to expiate, atone for, <ls>ib. vii, 28, 4</ls>;
+<div n="to"/> (<ab>Ā.</ab> <s>pa/vate</s>) to purify one's self, be or become clear or bright;
+<div n="to"/> (<ab>esp.</ab>) to flow off clearly (said of the <s1>Soma</s1>), <ls>RV.</ls>;
+<div n="to"/>to expiate, atone for, <ls>ib.</ls> <ls n="RV.">vii, 28, 4</ls>;
 <div n="to"/>to pass so as to purify;
 <div n="to"/>to purify in passing or pervading, ventilate, <ls>RV.</ls> &c. (<ab>cf.</ab> √ <s>pav</s>) :
 <div n="vp"/><ab>Pass.</ab> <s>pUya/te</s>, to be cleaned or washed or purified;
 <div n="to"/>to be freed or delivered from (<ab>abl.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.:
-<div n="vp"/><ab>Caus.</ab> <s>pava/yati</s> or <s>pAvayati</s> (<ab>ep.</ab> also <s>°te</s>; <ab>aor.</ab> <s>apIpavat</s> <ab>Gr.</ab>; <ab>Pass.</ab> <s>pAvyate</s>, <ls>Kāv.</ls>), 
+<div n="vp"/><ab>Caus.</ab> <s>pava/yati</s> or <s>pAvayati</s> (<lang>ep.</lang> also <s>°te</s>; <ab>aor.</ab> <s>apIpavat</s> <ab>Gr.</ab>; <ab>Pass.</ab> <s>pAvyate</s>, <ls>Kāv.</ls>),
 <div n="to"/>to cleanse, purify, <ls>TS.</ls>; <ls>Br.</ls>; &c. :
 <div n="vp"/><ab>Desid.</ab>, <s>pupUzati</s>, <s>pipavizate</s> <ab>Gr.</ab>:
 <div n="vp"/><ab>Desid.</ab> of <ab>Caus.</ab> <s>pipAvayizati</s> <ab>Gr.</ab> <info westergaard="pUY,31.12,09.0011"/><info whitneyroots="pU,99"/><info verb="genuineroot" cp="9P,9Ā,1Ā,1P"/>

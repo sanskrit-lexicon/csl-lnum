@@ -1,5 +1,5 @@
 <L>12958<pc>399<k1>justification<k2>justification
-<div n="lb"/>{@JUSTIFICATION:@}¦ <div n="I">I Excuse: ({#marzaRIyaM#} ?) {#kAraRam,#}
-<div n="lb"/><div n="xe">{%admitting pleads j.:%}</div> <div n="xs">{#prapadya kAraRaM brUte,#}</div> Mit. </div><div n="I">II
-<div n="lb"/>Absolution: {#SoDanam#} <div n="xe">{%or%}</div> <div n="xs">{#SudDiH.#}</div></div>
+{@JUSTIFICATION:@}¦ <div n="I">I Excuse: ({#marzaRIyaM#} ?) {#kAraRam,#}
+<div n="xe">{%admitting pleads j.:%}</div> <div n="xs">{#prapadya kAraRaM brUte,#}</div> Mit. </div><div n="I">II
+Absolution: {#SoDanam#} <div n="xe">{%or%}</div> <div n="xs">{#SudDiH.#}</div></div>
 <LEND>

@@ -1,25 +1,24 @@
 <L>11824<pc>1-0954<k1>upaDA<k2>upaDA/
-{#upaDA/#}¦ (von {#DA, daDAti#} mit {#upa#}) <lex>f.</lex> 
-<ls>P. 3, 3, 106,</ls> 
-<ls>Sch.</ls> 
-<div n="1"> 1) ({%Unterschiebung%}) {%Betrug, Schelmerei, Ränke%} 
-<ls>AK. 3, 4, 142.</ls> 
-<ls>H. 378,</ls> 
-<ls>Sch.</ls> {#upaDABiSca yaH ka ScitparadravyaM harennaraH . sasahAyaH sa hantavyaH prakASaM viviDErvaDEH ..#} 
-<ls>M. 8, 193.</ls> {#upaDABiravaYcitAH#} 
-<ls>MBH. 2, 250.</ls> {#upaDASuci#} 
-<ls>HIT. III, 16.</ls> {#amAtyAnupaDAtItAn#} (vgl. {#atyupaDa#}) 
-<ls>MBH. 2, 177. 15, 183.</ls> {#mAyopaDA devitAro 'tra santi#} 
-<ls>2, 2005.</ls> {#santi DarmopaDAH SlakzRAH#} 
-<ls>R. 2, 23, 9.</ls> Vgl. {#upaDi#} . 
-<div n="1">— 2) {%das aufdie-Probe-Stellen%}, = {#DarmAdyEryatparIkzaRam#} 
-<ls>AK. 2, 8, 1, 21.</ls> = {#BiyA DarmArTakAmESca parIkzA#} 
-<ls>H. 740.</ls> 
-<div n="1">— 3) gramm. {%der vorletzte, vorangehende Buchstab (an den sich%} der Endbuchstab {%anlehnt)%}: {#drAGitopaDA hrasvasya#} 
-<ls>ṚV. PRĀT. 4, 9.</ls> <ls n="ṚV. PRĀT.">2, 32.</ls> {#antyAdvarRAtpUrva upaDA#} 
-<ls>VS. PRĀT. 1, 35.</ls> 
-<ls>AV. PRĀT. 1, 92.</ls> <ls n="AV. PRĀT.">2, 33.</ls> <ls n="AV. PRĀT. 2,">55.</ls> <ls n="AV. PRĀT.">3, 27.</ls> 
-<ls>NIR. 2, 1. 4, 25. 5, 12.</ls> 
-<ls>P. 1, 1, 65. 4, 1, 54.</ls> 
-<ls>AK. 3, 6, 25.</ls>
+{#upaDA/#}¦ (von {#DA, daDAti#} mit {#upa#}) <lex>f.</lex>
+<ls>P. 3,3,106</ls>, <ls>Sch.</ls>
+<div n="1"> 1) ({%Unterschiebung%}) {%Betrug, Schelmerei, Ränke%}
+<ls>AK. 3,4,142.</ls>
+<ls>H. 378</ls>, <ls>Sch.</ls>
+{#upaDABiSca yaH ka ScitparadravyaM harennaraH . sasahAyaH sa hantavyaH prakASaM viviDErvaDEH ..#}
+<ls>M. 8,193.</ls> {#upaDABiravaYcitAH#}
+<ls>MBH. 2,250.</ls> {#upaDASuci#}
+<ls>HIT. III,16.</ls> {#amAtyAnupaDAtItAn#} (vgl. {#atyupaDa#})
+<ls>MBH. 2,177.</ls> <ls n="MBH.">15,183.</ls> {#mAyopaDA devitAro 'tra santi#}
+<ls n="MBH.">2,2005.</ls> {#santi DarmopaDAH SlakzRAH#}
+<ls>R. 2,23,9.</ls> Vgl. {#upaDi#} .
+<div n="1">— 2) {%das auf-die-Probe-Stellen%}, = {#DarmAdyEryatparIkzaRam#}
+<ls>AK. 2,8,1,21.</ls> = {#BiyA DarmArTakAmESca parIkzA#}
+<ls>H. 740.</ls>
+<div n="1">— 3) gramm. {%der vorletzte, vorangehende Buchstab (an den sich%} der Endbuchstab {%anlehnt)%}: {#drAGitopaDA hrasvasya#}
+<ls>ṚV. PRĀT. 4,9.</ls> <ls n="ṚV. PRĀT.">2,32.</ls> {#antyAdvarRAtpUrva upaDA#}
+<ls>VS. PRĀT. 1,35.</ls>
+<ls>AV. PRĀT. 1,92.</ls> <ls n="AV. PRĀT.">2,33.</ls> <ls n="AV. PRĀT. 2,">55.</ls> <ls n="AV. PRĀT.">3,27.</ls>
+<ls>NIR. 2,1. 4,25. 5,12.</ls>
+<ls>P. 1,1,65.</ls> <ls n="P.">4,1,54.</ls>
+<ls>AK. 3,6,25.</ls>
 <LEND>

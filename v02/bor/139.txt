@@ -1,5 +1,5 @@
 <L>139<pc>006<k1>acclimatize<k2>acclimatize
-<div n="lb"/>{@ACCLIMATIZE:@}¦ Ph. <div n="xe">{%many foreigners become a. d%}
-<div n="lb"/>{%to India%}</div> <div n="xs">{#*bahavo videSinaH kAlena BAratavarzasya jalavAyvAdi-#}
-<div n="lb"/>{#sahizRavo Bavanti.#}</div>
+{@ACCLIMATIZE:@}¦ Ph. <div n="xe">{%many foreigners become a. d%}
+{%to India%}</div> <div n="xs">{#*bahavo videSinaH kAlena BAratavarzasya jalavAyvAdi-#}
+{#sahizRavo Bavanti.#}</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>9357<pc>296<k1>fraternity<k2>fraternity
-<div n="lb"/>{@FRATERNITY:@}¦ <div n="I">I Brother-hood: {#BrAtftvam,#} <div n="xe">{%good%}
-<div n="lb"/>{%f.:%}</div> <div n="xs">{#sOmrAtram,#}</div> R. </div><div n="I">II Association: q.v.: {#samAjaH.#}</div>
+{@FRATERNITY:@}¦ <div n="I">I Brother-hood: {#BrAtftvam,#} <div n="xe">{%good%}
+{%f.:%}</div> <div n="xs">{#sOmrAtram,#}</div> R. </div><div n="I">II Association: q.v.: {#samAjaH.#}</div>
 <LEND>

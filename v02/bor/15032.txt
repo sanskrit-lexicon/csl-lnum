@@ -1,9 +1,9 @@
 <L>15032<pc>459<k1>mountain<k2>mountain
-<div n="lb"/>{@MOUNTAIN:@}¦ <div n="1">(1) {#parvataH,#} <div n="xe">{%a range of m.s:%}</div> <div n="xs">{#kulaparvataH,#}</div>
-<div n="lb"/>V. p.; </div><div n="1">(2) {#giriH,#} {%waters of m.-streams:%}
-<div n="lb"/>{#girinadIsalilAni,#} Sa.; </div><div n="1">(3) {#SElam,#} {%m.-residence:%}
-<div n="lb"/>{#SElavAsaH,#} Ki.; </div><div n="1">(4) {#adriH,#} {%the summit of a m.:%}
-<div n="lb"/>{#adreH SfNgam;#} </div><div n="1">(5) {#nagaH,#} <div n="xe">{%chief of m.s:%}</div> <div n="xs">{#nagADirAjaH,#}</div>
-<div n="lb"/>Ku.; </div><div n="1">(6) {#BUDaraH#} and sim. comp.s.; </div><div n="1">(7) {#acalaH;#}</div>
-<div n="lb"/><div n="1">(8) {#SiKarin#} (m.).</div>
+{@MOUNTAIN:@}¦ <div n="1">(1) {#parvataH,#} <div n="xe">{%a range of m.s:%}</div> <div n="xs">{#kulaparvataH,#}</div>
+V. p.; </div><div n="1">(2) {#giriH,#} {%waters of m.-streams:%}
+{#girinadIsalilAni,#} Sa.; </div><div n="1">(3) {#SElam,#} {%m.-residence:%}
+{#SElavAsaH,#} Ki.; </div><div n="1">(4) {#adriH,#} {%the summit of a m.:%}
+{#adreH SfNgam;#} </div><div n="1">(5) {#nagaH,#} <div n="xe">{%chief of m.s:%}</div> <div n="xs">{#nagADirAjaH,#}</div>
+Ku.; </div><div n="1">(6) {#BUDaraH#} and sim. comp.s.; </div><div n="1">(7) {#acalaH;#}</div>
+<div n="1">(8) {#SiKarin#} (m.).</div>
 <LEND>

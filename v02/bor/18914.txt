@@ -1,6 +1,6 @@
 <L>18914<pc>584<k1>relax<k2>relax
-<div n="lb"/>{@RELAX:@}¦ <div n="I">I Trans.: {#SiTilayati#} (nomi.) {%or%}
-<div n="lb"/>{#SiTilIkaroti:#} v. To loosen, slacken, lighten.</div>
-<div n="lb"/><div n="I">II Intrans.: {#SiTilAyate#} (nomi.) <div n="xe">{%or%}</div> <div n="xs">{#SiTilIBavati#}</div>
-<div n="lb"/>: v. Also to abate, decrease.</div>
+{@RELAX:@}¦ <div n="I">I Trans.: {#SiTilayati#} (nomi.) {%or%}
+{#SiTilIkaroti:#} v. To loosen, slacken, lighten.</div>
+<div n="I">II Intrans.: {#SiTilAyate#} (nomi.) <div n="xe">{%or%}</div> <div n="xs">{#SiTilIBavati#}</div>
+: v. Also to abate, decrease.</div>
 <LEND>

@@ -1,37 +1,37 @@
 <L>47639<pc>4-0899<k1>prakarza<k2>prakarza
 {#prakarza#}¦ (von 1. {#karz#} mit {#pra#}) <lex>m.</lex> {%Vorzüglichkeit, ein aussergewöhnlicher%}
 [Page4-0900]
-{%Zustand, ein hoher Grad%}; = {#kAzWA#} 
-<ls>HALĀY. 5, 51.</ls> = {#jigIzA#} 
-<ls>H. an. 3, 735.</ls> 
-<ls>MED. ṣ. 36.</ls> {#sarvAstrezu paraM vIraH prakarzamagamadbalI#} {%eine ausserordentliche Fertigkeit%} 
-<ls>MBH. 1, 6076.</ls> 
-<ls>KATHĀS. 25, 120.</ls> {#vEraM tavAyaM hi nijaH prakarzaH#} 
-<ls>32, 193.</ls> {#sOndaryamasTEryahataprakarzam#} 
-<ls>RĀJA-TAR. 5, 381.</ls> {#AyuH°#} {%langes Leben%} 
-<ls>MBH. 13, 2933.</ls> {#kAla°#} {%lange Zeit%} 
-<ls>SUŚR. 1, 30, 17. 270, 6. 278, 17. 324, 15.</ls> {#aDva°#} {%grosse Entfernung%} 
-<ls>R. GORR. 2, 52, 39.</ls> {#caya°#} {%Uebermenge%} 
-<ls>SUŚR. 1, 287, 14.</ls> 
-<ls>BHĀṢĀP. 156.</ls> {#vapuH°#} {%die Schönheit des Körpers%} 
-<ls>RAGH. 3, 34. 52.</ls> {#varRa°#} 
-<ls>KUMĀRAS. 3, 28.</ls> {#praRaya°#} {%ausserordentliche Annäherung%} 
-<ls>KATHĀS. 17, 170.</ls> {#tapaH°#} 
-<ls>24, 206.</ls> {#mati°#} 
-<ls>HIT. 121, 2.</ls> {#DIDEryAdi°#} 
-<ls>RĀJA-TAR. 5, 311.</ls> {#guRa°#} {%ausserordentliche Vorzüge%} 
-<ls>MṚCCH. 66, 10.</ls> 
-<ls>Spr. 972.</ls> {#dravya°#} 
-<ls>P. 5, 4, 11. 3, 55, <is>Vārtt</is>. 1.</ls> {#sADana°#} 5. {#rajaHpuYja°#} {%ausserordentliche —, grosse Menge%} 
-<ls>Spr. 1750.</ls> {#kzipraprakarzArTa#} zur Erkl. von {#kzepizWa#} 
-<ls>AK. 3, 2, 2, 61.</ls> {#AhAraH PalaprakarzaH#} {%vorwiegend aus Früchten bestehend%} 
-<ls>SUŚR. 2, 51, 18.</ls> {#Sakti°#} {%ausserordentliche Macht besitzend%} Inschr. in 
-<ls>Journ. of the Am. Or. S. 7, 12,</ls> <ls>Śl. 49.</ls> {#prakarza#} eine Bed. von {#iti#} 
-<ls>AK. 3, 4, 32, 7.</ls> {#prakarzAt#} {%in hohem Grade, stark, ordentlich%} 
-<ls>MṚCCH. 173, 24.</ls> {#prakarzeRa#} dass. 
-<ls>VOP. 26, 212.</ls> <ls>Schol.</ls> zu <ls>ŚĀK. 14.</ls> Am Anf. eines Comp. ohne Casuszeichen: {#°vivakzA#} 
-<ls>SIDDH. K.</ls> zu <ls>P.1,4,36.</ls> {#aprakarzakAzWApanna#} 
-<ls>Schol.</ls> zu <ls>KAP. 1, 63.</ls> {#patatprakarza#} <lex>adj.</lex> {%wobei der Vorrang fällt%} so v. a. {%gestört ist%}, in der Rhet. Bez. {%einer unlogischen Aufeinanderfolge%}: {#patatprakarzaM tatprAhuH prakarzo yatra viSlaTaH#} 
-<ls>PRATĀPAR. 64,b,9.</ls> Beispiel: {#DAvanmfgezu saMBrAmyatkarizUdyattarakzuzu . vinDyAraRyezu tizWAmaH kzuByadBallukapaNktizu ..#} dazu wird bemerkt: {#saMBrAmyatkarizUdyattarakzuzu DAvanmfgezviti vaktavye na taToktamiti patatprakarzatA#} . 
+{%Zustand, ein hoher Grad%}; = {#kAzWA#}
+<ls>HALĀY. 5,51.</ls> = {#jigIzA#}
+<ls>H. an. 3,735.</ls>
+<ls>MED. ṣ. 36.</ls> {#sarvAstrezu paraM vIraH prakarzamagamadbalI#} {%eine ausserordentliche Fertigkeit%}
+<ls>MBH. 1,6076.</ls>
+<ls>KATHĀS. 25,120.</ls> {#vEraM tavAyaM hi nijaH prakarzaH#}
+<ls n="KATHĀS.">32,193.</ls> {#sOndaryamasTEryahataprakarzam#}
+<ls>RĀJA-TAR. 5,381.</ls> {#AyuH°#} {%langes Leben%}
+<ls>MBH. 13,2933.</ls> {#kAla°#} {%lange Zeit%}
+<ls>SUŚR. 1,30,17. 270,6. 278,17. 324,15.</ls> {#aDva°#} {%grosse Entfernung%}
+<ls>R. GORR. 2,52,39.</ls> {#caya°#} {%Uebermenge%}
+<ls>SUŚR. 1,287,14.</ls>
+<ls>BHĀṢĀP. 156.</ls> {#vapuH°#} {%die Schönheit des Körpers%}
+<ls>RAGH. 3,34.</ls> <ls n="RAGH. 3,">52.</ls> {#varRa°#}
+<ls>KUMĀRAS. 3,28.</ls> {#praRaya°#} {%ausserordentliche Annäherung%}
+<ls>KATHĀS. 17,170.</ls> {#tapaH°#}
+<ls n="KATHĀS.">24,206.</ls> {#mati°#}
+<ls>HIT. 121,2.</ls> {#DIDEryAdi°#}
+<ls>RĀJA-TAR. 5,311.</ls> {#guRa°#} {%ausserordentliche Vorzüge%}
+<ls>MṚCCH. 66,10.</ls>
+<ls>Spr. 972.</ls> {#dravya°#}
+<ls>P. 5,4,11.</ls> <ls n="P. 5,">3,55</ls>, <is>Vārtt</is>. 1. {#sADana°#} 5. {#rajaHpuYja°#} {%ausserordentliche —, grosse Menge%}
+<ls>Spr. 1750.</ls> {#kzipraprakarzArTa#} zur Erkl. von {#kzepizWa#}
+<ls>AK. 3,2,2,61.</ls> {#AhAraH PalaprakarzaH#} {%vorwiegend aus Früchten bestehend%}
+<ls>SUŚR. 2,51,18.</ls> {#Sakti°#} {%ausserordentliche Macht besitzend%} Inschr. in
+<ls>Journ. of the Am. Or. S. 7,12, Śl. 49.</ls> {#prakarza#} eine Bed. von {#iti#}
+<ls>AK. 3,4,32,7.</ls> {#prakarzAt#} {%in hohem Grade, stark, ordentlich%}
+<ls>MṚCCH. 173,24.</ls> {#prakarzeRa#} dass.
+<ls>VOP. 26,212.</ls> <ls>Schol.</ls> zu <ls>ŚĀK. 14.</ls> Am Anf. eines Comp. ohne Casuszeichen: {#°vivakzA#}
+<ls>SIDDH. K.</ls> zu <ls>P. 1,4,36.</ls> {#aprakarzakAzWApanna#}
+<ls>Schol.</ls> zu <ls>KAP. 1,63.</ls> {#patatprakarza#} <lex>adj.</lex> {%wobei der Vorrang fällt%} so v. a. {%gestört ist%}, in der Rhet. Bez. {%einer unlogischen Aufeinanderfolge%}: {#patatprakarzaM tatprAhuH prakarzo yatra viSlaTaH#}
+<ls>PRATĀPAR. 64,b,9.</ls> Beispiel: {#DAvanmfgezu saMBrAmyatkarizUdyattarakzuzu . vinDyAraRyezu tizWAmaH kzuByadBallukapaNktizu ..#} dazu wird bemerkt: {#saMBrAmyatkarizUdyattarakzuzu DAvanmfgezviti vaktavye na taToktamiti patatprakarzatA#} .
 <div n="v">— Vgl. {#prAkarzika#} .
 <LEND>

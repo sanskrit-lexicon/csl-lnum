@@ -1,5 +1,5 @@
 <L>3524<pc>117<k1>chemistry<k2>chemistry
-<div n="lb"/>{@CHEMISTRY:@}¦ {#rasAyanam#} (?); {#padArTAnAM SlezaviSlezapariRAma-#}
-<div n="lb"/>{#vijYAnam.#} Inorganic c. {#*BUtarasAyanam;#} {%organic c.:%}
-<div n="lb"/>{#*vyUQarasAyanam;#} <div n="xe">{%practical c.%}</div> <div n="xs">{#*prayogarasAyanam.#}</div>
+{@CHEMISTRY:@}¦ {#rasAyanam#} (?); {#padArTAnAM SlezaviSlezapariRAma-#}
+{#vijYAnam.#} Inorganic c. {#*BUtarasAyanam;#} {%organic c.:%}
+{#*vyUQarasAyanam;#} <div n="xe">{%practical c.%}</div> <div n="xs">{#*prayogarasAyanam.#}</div>
 <LEND>

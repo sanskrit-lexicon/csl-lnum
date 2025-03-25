@@ -1,4 +1,4 @@
 <L>6037<pc>136-a<k1>copartner<k2>copartner
-<div n="lb"/>COPARTNER¦, {%s.%} {#samAMSI#} {%m.%} {#(n), samAMSahArI#} {%m.%} {#(n), aMSI#} {%m.%} {#(n),#}
-<div n="lb"/>{#aMSaBAgI#} {%m.%} {#(n), aMSahArI#} {%m.%} {#(n), samBUyakArI#} {%m.%} ({#n#}).
+COPARTNER¦, {%s.%} {#samAMSI#} {%m.%} {#(n), samAMSahArI#} {%m.%} {#(n), aMSI#} {%m.%} {#(n),#}
+{#aMSaBAgI#} {%m.%} {#(n), aMSahArI#} {%m.%} {#(n), samBUyakArI#} {%m.%} ({#n#}).
 <LEND>

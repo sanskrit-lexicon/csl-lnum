@@ -1,13 +1,13 @@
 <L>9166<pc>1-0687<k1>ArAva<k2>ArAva/
-{#ArAva/#}¦ (von {#ru#} mit {#A#}) <lex>m.</lex> {%Geschrei, Gesumme%} 
-<ls>P. 3, 3, 50.</ls> 
-<ls>AK. 1, 1, 6, 2. 3, 4, 16, 93.</ls> 
-<ls>H. 1400.</ls> {#ArAvaH sumahAMScAsIt#} 
-<ls>N.</ls> <ls>?(BOPP) 13, 16.</ls> {#ArAvaM mAtfvargasya BfgURAM kzatriyErvaDe#} 
-<ls>MBH. 1, 6846.</ls> {#jalacarArAva#} 
-<ls>1, 1213.</ls> {#BramarArAva#} 
-<ls>3, 11592. 11603.</ls> {#vakaSAvakArAva#} 
-<ls>HIT. 111, 20.</ls> {#SiKikulakalakekArAva#} 
-<ls>BHARTṚ. 1, 42.</ls> 
+{#ArAva/#}¦ (von {#ru#} mit {#A#}) <lex>m.</lex> {%Geschrei, Gesumme%}
+<ls>P. 3,3,50.</ls>
+<ls>AK. 1,1,6,2.</ls> <ls n="AK.">3,4,16,93.</ls>
+<ls>H. 1400.</ls> {#ArAvaH sumahAMScAsIt#}
+<ls>N. (BOPP) 13,16.</ls> {#ArAvaM mAtfvargasya BfgURAM kzatriyErvaDe#}
+<ls>MBH. 1,6846.</ls> {#jalacarArAva#}
+<ls n="MBH.">1,1213.</ls> {#BramarArAva#}
+<ls n="MBH.">3,11592.</ls> <ls n="MBH. 3,">11603.</ls> {#vakaSAvakArAva#}
+<ls>HIT. 111,20.</ls> {#SiKikulakalakekArAva#}
+<ls>BHARTṚ. 1,42.</ls>
 <div n="v">— Vgl. {#Arava#} .
 <LEND>

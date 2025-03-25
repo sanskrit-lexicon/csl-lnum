@@ -1,5 +1,5 @@
 <L>760<pc>0081<k1>abrahman<k2>a/-brahman
-{@á-brahman,@}¦ a., {%ohne Gebet%} [bráhman], {%nicht von Gebet begleitet.%}
-<div n="P1">-ā yajnás {931,8}; dásyus {312,9}.
-<div n="P1">-ānas sutā́sas {542,1}.
+{@á-brahman,@}¦ <ab>a.</ab>, {%ohne Gebet%} [bráhman], {%nicht von Gebet begleitet%}.
+<div n="TS">-ā yajnás {931,8}; dásyus {312,9}.
+<div n="TS"><chg type="chg" n="33" src="gra"><old>-ānas</old><new>-āṇas</new></chg> sutā́sas {542,1}.
 <LEND>

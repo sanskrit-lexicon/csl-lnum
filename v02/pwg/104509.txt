@@ -1,31 +1,29 @@
 <L>104509<pc>7-0620<k1>sanatkumAra<k2>sanatkumAra
-{#sanatkumAra#}¦ <lex>m.</lex> {%der ewige Knabe%}, N. eines <is>Ṛṣi</is>, der für einen geistigen Sohn <is>Brahman's</is> gilt, mit <is>Skanda</is> und <is>Pradyumna</is> identificirt und als Verfasser eines <is>Upapurāṇa</is> genannt wird, 
-<ls>AK. 1, 1, 1, 46.</ls> 
-<ls>CHĀND. UP. 7, 1, 1. 26, 2</ls> ({#sanAtku°#} gedr.). 
-<ls>MBH. 1, 2786. 3146. 2, 441. 3, 10697. 12700. fgg. 10, 636. 12, 13078. 13, 916.</ls> 
-<ls>HARIV. 43. 158. 895. fgg. 1335. 8059. 11811. 12437.</ls> 
-<ls>R. 1, 8, 6.</ls> 
-<ls>VARĀH. BṚH. S. 48, 62.</ls> 
-<ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 43.</ls> <ls>Ind. St. 1, 18. 469. 2, 55.</ls> <ls>WEBER, RĀMAT. UP. 306.</ls> <ls>KṚṢṆAJ. 252. fg.</ls> <ls>BHĀG. P. 3, 8, 7. 12, 4. 4, 16, 25. 6, 8, 15. 8, 18, 22.</ls> <ls>PAÑCAR. 1, 2, 49. fgg. 10, 61. 4, 4, 2.</ls> <ls>Verz. d. B. H.</ls> <ls>No. 452. 1143. 1198.</ls> <ls>Verz. d. Oxf.</ls> 
-<ls>H. 8</ls>, {%a%}, 
-<ls>5. 23</ls>, {%b%}, 
-<ls>N. 5. 25</ls>, {%b%}, 
-<ls>29. 46</ls>, {%b%}, 
-<ls>23. 52</ls>, {%a%}, 
-<ls>35. 65</ls>, {%b%}, 
-<ls>7. 75</ls>, {%b%}, 
-<ls>35. 80</ls>, {%a%}, 3. 341, {%a%}, 41. {#°kalpa#} 95, {%b%}, 
-<ls>19. fg.</ls> {#°tantra#} 20 ({#°kumArItantra#} 104, {%a%}, 
-<ls>29. fg.</ls>). 
-<ls>Notices of Skt. Mss. 126.</ls> {#°saMhitA#} 
-<ls>Verz. d. Oxf. H. 84</ls>, {%b%}, 
-<ls>30. fg. 95</ls>, {%b%}, 
-<ls>20. fg. 104</ls>, {%a%}, 
-<ls>28. fg. 106</ls>, {%b%}, 
-<ls>No. 161. 109</ls>, {%b%}, 
-<ls>6. 279</ls>, {%b%}, 
-<ls>36. 299</ls>, {%b%}, 
-<ls>10. fg.</ls> Bei den <is>Jaina</is> ist <is>Sanatkumāra</is> der 4te <is>Cakravartin</is> in <is>Bhārata</is> 
-<ls>H. 693.</ls> 
+{#sanatkumAra#}¦ <lex>m.</lex> {%der ewige Knabe%}, N. eines <is>Ṛṣi</is>, der für einen geistigen Sohn <is>Brahman's</is> gilt, mit <is>Skanda</is> und <is>Pradyumna</is> identificirt und als Verfasser eines <is>Upapurāṇa</is> genannt wird,
+<ls>AK. 1,1,1,46.</ls>
+<ls>CHĀND. UP. 7,1,1. 26,2</ls> ({#sanAtku°#} gedr.).
+<ls>MBH. 1,2786.</ls> <ls n="MBH. 1,">3146.</ls> <ls n="MBH.">2,441.</ls> <ls n="MBH.">3,10697.</ls> <ls n="MBH. 3,">12700. fgg.</ls> <ls n="MBH.">10,636.</ls> <ls n="MBH.">12,13078.</ls> <ls n="MBH.">13,916.</ls>
+<ls>HARIV. 43.</ls> <ls n="HARIV.">158.</ls> <ls n="HARIV.">895. fgg.</ls> <ls n="HARIV.">1335.</ls> <ls n="HARIV.">8059.</ls> <ls n="HARIV.">11811.</ls> <ls n="HARIV.">12437.</ls>
+<ls>R. 1,8,6.</ls>
+<ls>VARĀH. BṚH. S. 48,62.</ls>
+<ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 43.</ls> <ls>Ind. St. 1,18. 469. 2,55.</ls> <ls>WEBER, RĀMAT. UP. 306.</ls> <ls>KṚṢṆAJ. 252. fg.</ls> <ls>BHĀG. P. 3,8,7.</ls> <ls n="BHĀG. P. 3,">12,4.</ls> <ls n="BHĀG. P.">4,16,25.</ls> <ls n="BHĀG. P.">6,8,15.</ls> <ls n="BHĀG. P.">8,18,22.</ls> <ls>PAÑCAR. 1,2,49. fgg. 10,61. 4,4,2.</ls> <ls>Verz. d. B. H. No. 452. 1143. 1198.</ls> <ls>Verz. d. Oxf. H. 8,a,5.</ls>
+<ls n="Verz. d. Oxf. H.">23,b,N. 5.</ls>
+<ls n="Verz. d. Oxf. H.">25,b,29.</ls>
+<ls n="Verz. d. Oxf. H.">46,b,23.</ls>
+<ls n="Verz. d. Oxf. H.">52,a,35.</ls>
+<ls n="Verz. d. Oxf. H.">65,b,7.</ls>
+<ls n="Verz. d. Oxf. H.">75,b,35.</ls>
+<ls n="Verz. d. Oxf. H.">80,a,3.</ls> <ls n="Verz. d. Oxf. H.">341,a,41.</ls> {#°kalpa#} <ls n="Verz. d. Oxf. H.">95,b,19. fg.</ls>
+ {#°tantra#} <ls n="Verz. d. Oxf. H. 25,b,">20</ls> ({#°kumArItantra#} <ls n="Verz. d. Oxf. H.">104,a,29. fg.</ls>).
+<ls>Notices of Skt. Mss. 126.</ls> {#°saMhitA#}
+<ls>Verz. d. Oxf. H. 84,b,30. fg.</ls>
+<ls n="Verz. d. Oxf. H.">95,b,20. fg.</ls>
+<ls n="Verz. d. Oxf. H.">104,a,28. fg.</ls>
+<ls n="Verz. d. Oxf. H.">106,b,No. 161.</ls>
+<ls n="Verz. d. Oxf. H.">109,b,6.</ls>
+<ls n="Verz. d. Oxf. H.">279,b,36.</ls>
+<ls n="Verz. d. Oxf. H.">299,b,10. fg.</ls>
+Bei den <is>Jaina</is> ist <is>Sanatkumāra</is> der 4te <is>Cakravartin</is> in <is>Bhārata</is>
+<ls>H. 693.</ls>
 <div n="v">— Vgl. {#vAstu°#} .
 <LEND>

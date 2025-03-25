@@ -1,8 +1,8 @@
-<L>2335<pc>1027-2<k1>atra<k2>a/tra<h>1<e>100
-1. {#a/tra#}¦ und {#atrA#} (metrisch im <is>Veda</is>) <ab>Adv.</ab>
-<div n="1">— 1) als <ab>Loc.</ab> zu {#a#} <ab>Subst.</ab> und <lex>Adj.</lex> {%an — , in — , auf ihn%} , — {%diesen%} <ls>16,22.231,22.289,23.</ls> {#Aruhya#} <ls>111,21.</ls> {#lolupA budDiH#} <ls>107,21.</ls> {%unter diesen%} <ls>69,32.131,27.</ls> {#kfte#} <ls>13,19.39,26.44,18.65,27.110,13.111,28.</ls> {#antare#} so v.a. {%inzwischen%} <ls>142,15.145,20.150,13.</ls>
-<div n="1">— 2) {%hier , da , daselbst%} <ls>1,4.3,12.67,12.77,33.87,7.111,7.</ls> {%hierher%} <ls>150,17.151,17.19.153,13.</ls> {%da hinein%} <ls>67,7.78,7.110,1.</ls>
-<div n="1">— 3) {%hierbei , in diesem Falle , in dieser Sache , in Bezug darauf%} <ls>34,26.35,7.48,23.53,3.</ls> {#ko'trahetuH#} <ls>180,24.</ls>
-<div n="1">— 4) {%hier im Leben%} <ls>174,14.180,2.182,16.</ls>
-<div n="1">— 5) {%da , damals , dann%} <ls>8,5.8,5.15,21.</ls>
+<L>2335<pc>1-027-b<k1>atra<k2>a/tra<h>1
+<hom>1.</hom> {#a/tra#} und {#atrA#} (metrisch im <is>Veda</is>)¦ <lex>Adv.</lex>
+<div n="1">— 1〉 als <ab>Loc.</ab> zu {#a#} <ab>Subst.</ab> und <lex>Adj.</lex> {%an —, in —, auf ihn, — diesen%} <ls n="Chr.">16,22</ls>. <ls n="Chr.">231,22</ls>. <ls n="Chr.">289,23</ls>. {#Aruhya#} <ls n="Chr.">111,21</ls>. {#lolupA budDiH#} <ls n="Chr.">107,21</ls>. {%unter diesen%} <ls n="Chr.">69,32</ls>. <ls n="Chr.">131,27</ls>. {#kfte#} <ls n="Chr.">13,19</ls>. <ls n="Chr.">39,26</ls>. <ls n="Chr.">44,18</ls>. <ls n="Chr.">65,27</ls>. <ls n="Chr.">110,13</ls>. <ls n="Chr.">111,28</ls>. {#antare#} so <ab>v. a.</ab> {%inzwischen%} <ls n="Chr.">142,15</ls>. <ls n="Chr.">145,20</ls>. <ls n="Chr.">150,13</ls>.
+<div n="1">— 2〉 {%hier, da, daselbst%} <ls n="Chr.">1,4</ls>. <ls n="Chr.">3,12</ls>. <ls n="Chr.">67,12</ls>. <ls n="Chr.">77,33</ls>. <ls n="Chr.">87,7</ls>. <ls n="Chr.">111,7</ls>. {%hierher%} <ls n="Chr.">150,17</ls>. <ls n="Chr.">151,17</ls>. <ls n="Chr. 151,">19</ls>. <ls n="Chr.">153,13</ls>. {%da hinein%} <ls n="Chr.">67,7</ls>. <ls n="Chr.">78,7</ls>. <ls n="Chr.">110,1</ls>.
+<div n="1">— 3〉 {%hierbei, in diesem Falle, in dieser Sache, in Bezug darauf%} <ls n="Chr.">34,26</ls>. <ls n="Chr.">35,7</ls>. <ls n="Chr.">48,23</ls>. <ls n="Chr.">53,3</ls>. {#ko'trahetuH#} <ls n="Chr.">180,24</ls>.
+<div n="1">— 4〉 {%hier im Leben%} <ls n="Chr.">174,14</ls>. <ls n="Chr.">180,2</ls>. <ls n="Chr.">182,16</ls>.
+<div n="1">— 5〉 {%da, damals, dann%} <ls n="Chr.">7,5</ls>. <ls n="Chr.">8,5</ls>. <ls n="Chr.">15,21</ls>.
 <LEND>

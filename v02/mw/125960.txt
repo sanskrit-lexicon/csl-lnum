@@ -1,3 +1,3 @@
-<L>125960<pc>634,3<k1>purA<k2>purA/<h>a<e>2
-<s>purA/</s> <hom>a</hom> ¦ <lex>ind.</lex> (<ab>cf.</ab> <s>pra</s>, <s>puras</s>, <s>pUrva</s>) before, formerly, of old (with <s>na</s>, ‘never’), <ls>RV.</ls> &c. &c.<info lex="ind"/>
+<L>125960<pc>634,3<k1>purA<k2>purA/<e>2
+<s>purA/</s> ¦ <lex>ind.</lex> (<ab>cf.</ab> <s>pra</s>, <s>puras</s>, <s>pUrva</s>) before, formerly, of old (with <s>na</s>, ‘never’), <ls>RV.</ls> &c. &c.<info lex="ind"/><info hui="a"/>
 <LEND>

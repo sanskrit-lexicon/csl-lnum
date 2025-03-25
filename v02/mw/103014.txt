@@ -1,3 +1,3 @@
-<L>103014<pc>525,1<k1>naga<k2>na/-ga<h>b<e>1
-<s>na/-ga</s> <hom>b</hom> ¦ <lex>m.</lex> ‘not moving’ (<ab>cf.</ab> <s>a/-ga</s>), a mountain (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>; <ab>cf.</ab> <s>sa-naga</s>), <ls>AV.</ls> &c. &c.<info lex="m:f#A"/>
+<L>103014<pc>525,1<k1>naga<k2>na/-ga<e>1
+<s>na/-ga</s> ¦ <lex>m.</lex> ‘not moving’ (<ab>cf.</ab> <s>a/-ga</s>), a mountain (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>; <ab>cf.</ab> <s>sa-naga</s>), <ls>AV.</ls> &c. &c.<info lex="m:f#A"/><info hui="b"/>
 <LEND>

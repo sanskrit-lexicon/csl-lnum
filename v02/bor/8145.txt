@@ -1,4 +1,4 @@
 <L>8145<pc>257<k1>expiatory<k2>expiatory
-<div n="lb"/>{@EXPIATORY:@}¦ {#pAvanaH#} ({#nI, naM#}), <div n="xe">{%e. rite:%}</div> <div n="xs">{#pAvano viDiH,#}</div>
-<div n="lb"/>Pa. Ph.: <div n="xe">{%e. ceremony:%}</div> <div n="xs">{#prAyaScittam.#}</div>
+{@EXPIATORY:@}¦ {#pAvanaH#} ({#nI, naM#}), <div n="xe">{%e. rite:%}</div> <div n="xs">{#pAvano viDiH,#}</div>
+Pa. Ph.: <div n="xe">{%e. ceremony:%}</div> <div n="xs">{#prAyaScittam.#}</div>
 <LEND>

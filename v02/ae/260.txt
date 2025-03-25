@@ -1,5 +1,5 @@
 <L>260<pc>011<k1>aliment<k2>aliment
 {@Aliment,@}¦ {%s.%} {#AhAraH, BojanaM#}. {@-Al, -Ary,@}
-<div n="lb"/>{%a.%} {#pozaka, puzwiprada, SaktivarDaka#}. {@-ation,@} {%s.%}
-<div n="lb"/>{#pozaRaM, BaraRaM#}
+{%a.%} {#pozaka, puzwiprada, SaktivarDaka#}. {@-ation,@} {%s.%}
+{#pozaRaM, BaraRaM#}
 <LEND>

@@ -1,9 +1,9 @@
 <L>1638<pc>055<k1>charity<k2>charity
 {@Charity,@}¦ {%s.%} {#BUtAnukaMpA, dInavatsalatA, dayA-#}
-<div n="lb"/>{#-lutvaM, kfpA#}. {@2@} {#dAnaM, BikzAdAnaM, tyAgaH;#}
-<div n="lb"/>‘out of c.’ {#puRyArTe#}. {@-able,@} {%a.%} {#dInavatsala,#}
-<div n="lb"/>{#dAnaSIla, DarmAtman, daridrapAlaka#}. {@2@} {#sadaya,#}
-<div n="lb"/>{#kfpAlu, dayArdra, anukaMpArata#}. {@3@} {#anasUyaka,#}
-<div n="lb"/>{#paradozasahana#}. {@-ably,@} {%adv.%} {#sadayaM, sAnukaMpaM;#}
-<div n="lb"/>{#anasUyayA, amatsaraM#}.
+{#-lutvaM, kfpA#}. {@2@} {#dAnaM, BikzAdAnaM, tyAgaH;#}
+‘out of c.’ {#puRyArTe#}. {@-able,@} {%a.%} {#dInavatsala,#}
+{#dAnaSIla, DarmAtman, daridrapAlaka#}. {@2@} {#sadaya,#}
+{#kfpAlu, dayArdra, anukaMpArata#}. {@3@} {#anasUyaka,#}
+{#paradozasahana#}. {@-ably,@} {%adv.%} {#sadayaM, sAnukaMpaM;#}
+{#anasUyayA, amatsaraM#}.
 <LEND>

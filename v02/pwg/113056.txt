@@ -1,12 +1,12 @@
 <L>113056<pc>7-1214<k1>sOkara<k2>sOkara
-{#sOkara#}¦ (von {#sUkara#}) 
-<div n="1"> 1) <lex>adj.</lex> (f. {#I#}) {%aprinus%} 
-<ls>CARAKA 1, 5.</ls> {#vapus#} 
-<ls>KIR. 12, 54.</ls> 
-<ls>BHĀG. P. 1, 3, 7. 7, 1, 40.</ls> {#rUpa#} 
-<ls>3, 13, 20. 40.</ls> <ls>MĀRK. P. 21, 4.</ls> {#mUrti#} 
-<ls>KATHĀS. 93, 4</ls> (zu lesen saukaryā 'udyatayā). {%zu%} <is>Viṣṇu</is> {%als Eber in Beziehung stehend%} 
-<ls>WEBER, RĀMAT. UP. 314.</ls> 
-<div n="1">— 2) <lex>n.</lex> N. pr. eines Wallfahrtsortes, an dem <is>Viṣṇu</is> {%als Eber%} verehrt wird, 
-<ls>Verz. d. B. H. 142,6 v. u.</ls> <ls>Verz. d. Oxf. H. 60,a,28. 153,b,18.</ls>
+{#sOkara#}¦ (von {#sUkara#})
+<div n="1"> 1) <lex>adj.</lex> (f. {#I#}) {%aprinus%}
+<ls>CARAKA 1,5.</ls> {#vapus#}
+<ls>KIR. 12,54.</ls>
+<ls>BHĀG. P. 1,3,7.</ls> <ls n="BHĀG. P.">7,1,40.</ls> {#rUpa#}
+<ls n="BHĀG. P.">3,13,20.</ls> <ls n="BHĀG. P. 3,13,">40.</ls> <ls>MĀRK. P. 21,4.</ls> {#mUrti#}
+<ls>KATHĀS. 93,4</ls> (zu lesen saukaryā 'udyatayā). {%zu%} <is>Viṣṇu</is> {%als Eber in Beziehung stehend%}
+<ls>WEBER, RĀMAT. UP. 314.</ls>
+<div n="1">— 2) <lex>n.</lex> N. pr. eines Wallfahrtsortes, an dem <is>Viṣṇu</is> {%als Eber%} verehrt wird,
+<ls>Verz. d. B. H. 142,6</ls> v. u. <ls>Verz. d. Oxf. H. 60,a,28. 153,b,18.</ls>
 <LEND>

@@ -1,14 +1,14 @@
 <L>9852<pc>1-0745<k1>AsrAva<k2>AsrAva/
-{#AsrAva/#}¦ (von {#sru#} mit {#A#}) <lex>m.</lex> 
-<ls>P. 3, 1, 141.</ls> 
-<ls>VOP. 26, 36.</ls> 
-<div n="1"> 1) {%das Fliessen, Ausfluss%} 
-<ls>H. an. 4, 136.</ls> 
-<ls>MED. d. 43.</ls> <ls>SUŚR. 1, 8, 11. 83, 10. 84, 5. fgg.</ls> {#AsrAvamArga#} 
-<ls>2, 60, 13.</ls> {#muKAsrAva#} 
-<ls>235, 7. 1, 155, 2.</ls> {#pUyAsrAva#} 
-<ls>2, 307, 3.</ls> {#SlezmAsrAva#} 4. 
-<div n="1">— 2) {%ein Körperschaden, Gebrechen%} 
-<ls>AV. 1, 2, 4.</ls> {#tadA^srA\vasya^ Beza\jaM tadu\ roga^manInaSat#} 
-<ls>2, 3, 3.</ls> Vgl. {#anAsrAva, Asrava#} und 2. {#ASrava#} .
+{#AsrAva/#}¦ (von {#sru#} mit {#A#}) <lex>m.</lex>
+<ls>P. 3,1,141.</ls>
+<ls>VOP. 26,36.</ls>
+<div n="1"> 1) {%das Fliessen, Ausfluss%}
+<ls>H. an. 4,136.</ls>
+<ls>MED. d. 43.</ls> <ls>SUŚR. 1,8,11.</ls> <ls n="SUŚR. 1,">83,10.</ls> <ls n="SUŚR. 1,">84,5. fgg.</ls> {#AsrAvamArga#}
+<ls n="SUŚR.">2,60,13.</ls> {#muKAsrAva#}
+<ls n="SUŚR. 2,">235,7.</ls> <ls n="SUŚR.">1,155,2.</ls> {#pUyAsrAva#}
+<ls n="SUŚR.">2,307,3.</ls> {#SlezmAsrAva#} 4.
+<div n="1">— 2) {%ein Körperschaden, Gebrechen%}
+<ls>AV. 1,2,4.</ls> {#tadA^srA\vasya^ Beza\jaM tadu\ roga^manInaSat#}
+<ls n="AV.">2,3,3.</ls> Vgl. {#anAsrAva, Asrava#} und 2. {#ASrava#} .
 <LEND>

@@ -1,8 +1,8 @@
 <L>7988<pc>253<k1>excessive<k2>excessive
-<div n="lb"/>{@EXCESSIVE:@}¦ <div n="1">(1) {#ati-#} in comp., <div n="xe">{%e. rain:%}</div> <div n="xs">{#ativfzwiH;#}</div>
-<div n="lb"/><div n="xe">{%e. drinking:%}</div> <div n="xs">{#atipAnam;#}</div> </div><div n="1">(2) {#atiSaya-#} in comp., <div n="xe">{%e.%}
-<div n="lb"/>{%devotion:%}</div> <div n="xs">{#atiSayaBaktiH;#}</div> </div><div n="1">(3) {#atyantaH#} ({#ntA, ntaM#})
-<div n="lb"/><div n="xe">{%e. crying%}</div> <div n="xs">{#anyantaM ruditam,#}</div> R.; </div><div n="1">(4) {#nitAntaH#} ({#ntA, #}
-<div n="lb"/>{# ntaM#}); </div><div n="1">(5) {#sAtiSayaH#} ({#yA, yaM#}): v. Abundant,
-<div n="lb"/>much.</div>
+{@EXCESSIVE:@}¦ <div n="1">(1) {#ati-#} in comp., <div n="xe">{%e. rain:%}</div> <div n="xs">{#ativfzwiH;#}</div>
+<div n="xe">{%e. drinking:%}</div> <div n="xs">{#atipAnam;#}</div> </div><div n="1">(2) {#atiSaya-#} in comp., <div n="xe">{%e.%}
+{%devotion:%}</div> <div n="xs">{#atiSayaBaktiH;#}</div> </div><div n="1">(3) {#atyantaH#} ({#ntA, ntaM#})
+<div n="xe">{%e. crying%}</div> <div n="xs">{#anyantaM ruditam,#}</div> R.; </div><div n="1">(4) {#nitAntaH#} ({#ntA, #}
+{# ntaM#}); </div><div n="1">(5) {#sAtiSayaH#} ({#yA, yaM#}): v. Abundant,
+much.</div>
 <LEND>

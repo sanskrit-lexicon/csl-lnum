@@ -1,9 +1,9 @@
 <L>24058<pc>645-a<k1>purification<k2>purification
-<div n="lb"/>PURIFICATION¦, {%s.%} {#SoDanaM, saMSoDanaM, viSoDanaM, pariSoDanaM, SoDaH, pari-#}
-<div n="lb"/>{#SoDaH, SudDiH#} {%f.,%} {#saMSudDiH#} {%f.,%} {#viSudDiH#} {%f.,%} {#pAvanaM, pavitrIkaraRaM, mArjanaM,#}
-<div n="lb"/>{#parimArjanaM, nirmalIkaraRaM, vimalIkaraRaM, malApakarzaRaM, malApanayanaM, mala-#}
-<div n="lb"/>{#haraRaM, SucIkaraRaM, kzAlanaM, prakzAlanaM, nirRekaH, svacCIkaraRaM#}. — (State)
-<div n="lb"/>{#SudDiH#} {%f.,%} {#saMSudDiH, SudDatA -tvaM, viSudDatA, SoDitatvaM, SOcaM, SucitA,#}
-<div n="lb"/>{#pavitratA, pUtatvaM, pAvitatvaM, pUtiH#} {%f.,%} {#nirmalatA;#} ‘of a new house,’
-<div n="lb"/>{#SalyodDAraH, vAstusaMSamanaM#}.
+PURIFICATION¦, {%s.%} {#SoDanaM, saMSoDanaM, viSoDanaM, pariSoDanaM, SoDaH, pari-#}
+{#SoDaH, SudDiH#} {%f.,%} {#saMSudDiH#} {%f.,%} {#viSudDiH#} {%f.,%} {#pAvanaM, pavitrIkaraRaM, mArjanaM,#}
+{#parimArjanaM, nirmalIkaraRaM, vimalIkaraRaM, malApakarzaRaM, malApanayanaM, mala-#}
+{#haraRaM, SucIkaraRaM, kzAlanaM, prakzAlanaM, nirRekaH, svacCIkaraRaM#}. — (State)
+{#SudDiH#} {%f.,%} {#saMSudDiH, SudDatA -tvaM, viSudDatA, SoDitatvaM, SOcaM, SucitA,#}
+{#pavitratA, pUtatvaM, pAvitatvaM, pUtiH#} {%f.,%} {#nirmalatA;#} ‘of a new house,’
+{#SalyodDAraH, vAstusaMSamanaM#}.
 <LEND>

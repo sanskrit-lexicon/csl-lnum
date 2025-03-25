@@ -1,7 +1,7 @@
 <L>23977<pc>750<k1>volume<k2>volume
-<div n="lb"/>{@VOLUME:@}¦ Of books: {#KaRqa#} (mn.): v. Also
-<div n="lb"/>book. <div n="I">II Of solids: {#antargataM GanaPalam,#} Li. 176.</div>
-<div n="lb"/><div n="I">III Collection, <div n="xe">{%v. of smoke:%}</div> <div n="xs">{#DUmAvaliH#}</div> ({#lI#}),
-<div n="lb"/>Ku.; {#DUmasaMhatiH,#} Ki.; <div n="xe">{%v. of dust:%}</div> <div n="xs">{#DUlipawalam;#}</div>
-<div n="lb"/><div n="xe">{%v. of water:%}</div> <div n="xs">{#amburASiH.#}</div></div>
+{@VOLUME:@}¦ Of books: {#KaRqa#} (mn.): v. Also
+book. <div n="I">II Of solids: {#antargataM GanaPalam,#} Li. 176.</div>
+<div n="I">III Collection, <div n="xe">{%v. of smoke:%}</div> <div n="xs">{#DUmAvaliH#}</div> ({#lI#}),
+Ku.; {#DUmasaMhatiH,#} Ki.; <div n="xe">{%v. of dust:%}</div> <div n="xs">{#DUlipawalam;#}</div>
+<div n="xe">{%v. of water:%}</div> <div n="xs">{#amburASiH.#}</div></div>
 <LEND>

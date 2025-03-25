@@ -1,5 +1,5 @@
 <L>3567<pc>118<k1>childless<k2>childless
-<div n="lb"/>{@CHILDLESS:@}¦ <div n="1">(1) {#nirapatyaH#} ({#tyA, tyaM#}); </div><div n="1">(2) {#anapatyaH#}
-<div n="lb"/>({#tyA, tyaM#}); </div><div n="1">(3) {#niHsantAnaH#} ({#nA, naM#}); </div><div n="1">(4) {#aputraH#}
-<div n="lb"/>({#trA, traM#}).</div>
+{@CHILDLESS:@}¦ <div n="1">(1) {#nirapatyaH#} ({#tyA, tyaM#}); </div><div n="1">(2) {#anapatyaH#}
+({#tyA, tyaM#}); </div><div n="1">(3) {#niHsantAnaH#} ({#nA, naM#}); </div><div n="1">(4) {#aputraH#}
+({#trA, traM#}).</div>
 <LEND>

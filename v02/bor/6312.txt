@@ -1,4 +1,4 @@
 <L>6312<pc>202<k1>discontent<k2>discontent
-<div n="lb"/>{@DISCONTENT,@}¦ {@DISCONTENTMENT:@} <div n="1">(1) {#asantozaH;#}</div>
-<div n="lb"/><div n="1">(2) {#asantuzwiH;#} </div><div n="1">(3) {#asantuzwatA;#} </div><div n="1">(4) {#anirvftiH#}</div>
+{@DISCONTENT,@}¦ {@DISCONTENTMENT:@} <div n="1">(1) {#asantozaH;#}</div>
+<div n="1">(2) {#asantuzwiH;#} </div><div n="1">(3) {#asantuzwatA;#} </div><div n="1">(4) {#anirvftiH#}</div>
 <LEND>

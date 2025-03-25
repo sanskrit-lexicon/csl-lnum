@@ -1,26 +1,26 @@
 <L>19977<pc>621<k1>sea<k2>sea
-<div n="lb"/>{@SEA@}¦ (subs.): <div n="1">(1) {#samudraH,#} <div n="xe">{%s.-foam;%}</div> <div n="xs">{#samudraPenaH,#}</div> R.
-<div n="lb"/>xiii. 11.; <div n="xe">{%s.-going vessels:%}</div> <div n="xs">{#nOBiH samudravAhinIBiH,#}</div>
-<div n="lb"/>M. n.; <div n="xe">{%s.-water:%}</div> <div n="xs">{#sAmudraM jalam,#}</div> Bha.; <div n="xe">{%in the%}
-<div n="lb"/>{%middle of the s.:%}</div> <div n="xs">{#maDyesamudram,#}</div> Si. iii. 33.; <div n="xe">{%in%}
-<div n="lb"/>{%his heart — the s. of compassion:%}</div> <div n="xs">{#dayAsamudre tadASaye,#}</div>
-<div n="lb"/>N. i. 134.; </div><div n="1">(2) {#sAgaraH,#} {%throw him into the s.:%}
-<div n="lb"/>{#prakzipEnaM sAgare,#} D. vi.; <div n="xe">{%as the s. is clear when the%}
-<div n="lb"/>{%tide had set:%}</div> <div n="xs">{#nivfttavela prasanna iva sAgaraH,#}</div> Ram. v.
-<div n="lb"/>37. 6.; </div><div n="1">(3) {#arRavaH,#} <div n="xe">{%sunk in the s. of his misfor-%}
-<div n="lb"/>{%tunes:%}</div> <div n="xs">{#vyasanArRavasaMmagnam,#}</div> Ram. ii. 21. 2.; </div><div n="1">(4)
-<div n="lb"/>{#abDiH,#} and sim. comp. s., <div n="xe">{%situated on the%}
-<div n="lb"/>{%borders of the s.:%}</div> <div n="xs">{#jalaDerupakaRWapratizWitam;#}</div> {%went by s.:%}
-<div n="lb"/>{#pratasTe'mbuDivartmanA,#} K. s. 25. 35., 40. 70.; <div n="xe">{%on the%}
-<div n="lb"/>{%s. coast:%}</div> <div n="xs">{#udaDeH kUle,#}</div> R. xii. 68.; <div n="xe">{%crossing the%}
-<div n="lb"/>{%heavy s.:%}</div> <div n="xs">{#payoDimAvilaM vilaNGya,#}</div> Si. i. 68.;
-<div n="lb"/><div n="xe">{%growing on the s.-coast:%}</div> <div n="xs">{#amBoDitawADivAsAn,#}</div> Si.
-<div n="lb"/>iii. 70.; </div><div n="1">(5) {#jalaniDiH,#} and sim. comp.s, <div n="xe">{%saw%}
-<div n="lb"/>{%on the confines of s.-water:%}</div> <div n="xs">{#pArejalaM niraniDerapaSyat,#}</div>
-<div n="lb"/>Si. iii. 70.; </div><div n="1">(6) {#amburASiH,#} <div n="xe">{%the coast of the%}
-<div n="lb"/>{%salt-s:%}</div> <div n="xs">{#velA lavaRAmburASeH,#}</div> R. xiii. 15.; </div><div n="1">(7) {#ratnA-#}
-<div n="lb"/>{#karaH;#} </div><div n="1">(8) {#ApagApatiH#} and sim. comp.s; </div><div n="1">(9)
-<div n="lb"/>{#makarAlayaH.#} Ph.: (a) <div n="xe">{%go to s.:%}</div> <div n="xs">{#samudraM gacCati, #}
-<div n="lb"/>{# yAti,#}</div> etc.; (b) <div n="xe">{%beyond the s. s:%}</div> <div n="xs">{#dvIpAntarama#}</div> {%or%}
-<div n="lb"/>{#UmimataH pAram,#} Mah. iv. 26. 17.</div>
+{@SEA@}¦ (subs.): <div n="1">(1) {#samudraH,#} <div n="xe">{%s.-foam;%}</div> <div n="xs">{#samudraPenaH,#}</div> R.
+xiii. 11.; <div n="xe">{%s.-going vessels:%}</div> <div n="xs">{#nOBiH samudravAhinIBiH,#}</div>
+M. n.; <div n="xe">{%s.-water:%}</div> <div n="xs">{#sAmudraM jalam,#}</div> Bha.; <div n="xe">{%in the%}
+{%middle of the s.:%}</div> <div n="xs">{#maDyesamudram,#}</div> Si. iii. 33.; <div n="xe">{%in%}
+{%his heart — the s. of compassion:%}</div> <div n="xs">{#dayAsamudre tadASaye,#}</div>
+N. i. 134.; </div><div n="1">(2) {#sAgaraH,#} {%throw him into the s.:%}
+{#prakzipEnaM sAgare,#} D. vi.; <div n="xe">{%as the s. is clear when the%}
+{%tide had set:%}</div> <div n="xs">{#nivfttavela prasanna iva sAgaraH,#}</div> Ram. v.
+37. 6.; </div><div n="1">(3) {#arRavaH,#} <div n="xe">{%sunk in the s. of his misfor-%}
+{%tunes:%}</div> <div n="xs">{#vyasanArRavasaMmagnam,#}</div> Ram. ii. 21. 2.; </div><div n="1">(4)
+{#abDiH,#} and sim. comp. s., <div n="xe">{%situated on the%}
+{%borders of the s.:%}</div> <div n="xs">{#jalaDerupakaRWapratizWitam;#}</div> {%went by s.:%}
+{#pratasTe'mbuDivartmanA,#} K. s. 25. 35., 40. 70.; <div n="xe">{%on the%}
+{%s. coast:%}</div> <div n="xs">{#udaDeH kUle,#}</div> R. xii. 68.; <div n="xe">{%crossing the%}
+{%heavy s.:%}</div> <div n="xs">{#payoDimAvilaM vilaNGya,#}</div> Si. i. 68.;
+<div n="xe">{%growing on the s.-coast:%}</div> <div n="xs">{#amBoDitawADivAsAn,#}</div> Si.
+iii. 70.; </div><div n="1">(5) {#jalaniDiH,#} and sim. comp.s, <div n="xe">{%saw%}
+{%on the confines of s.-water:%}</div> <div n="xs">{#pArejalaM niraniDerapaSyat,#}</div>
+Si. iii. 70.; </div><div n="1">(6) {#amburASiH,#} <div n="xe">{%the coast of the%}
+{%salt-s:%}</div> <div n="xs">{#velA lavaRAmburASeH,#}</div> R. xiii. 15.; </div><div n="1">(7) {#ratnA-#}
+{#karaH;#} </div><div n="1">(8) {#ApagApatiH#} and sim. comp.s; </div><div n="1">(9)
+{#makarAlayaH.#} Ph.: (a) <div n="xe">{%go to s.:%}</div> <div n="xs">{#samudraM gacCati, #}
+{# yAti,#}</div> etc.; (b) <div n="xe">{%beyond the s. s:%}</div> <div n="xs">{#dvIpAntarama#}</div> {%or%}
+{#UmimataH pAram,#} Mah. iv. 26. 17.</div>
 <LEND>

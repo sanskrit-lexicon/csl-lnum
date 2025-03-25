@@ -1,5 +1,5 @@
 <L>18995<pc>491-a<k1>mechanic<k2>mechanic
-<div n="lb"/>MECHANIC¦, {%s.%} (Artisan) {#SilpI#} {%m.%} {#(n), SilpakAraH, SilpakarmmakAraH,#}
-<div n="lb"/>{#SilpikaH, SilpopajIvI#} {%m.%} {#(n), SilpakarmmopajIvI#} {%m.,%} {#karmmakAraH,#}
-<div n="lb"/>{#karmmAraH, kAruH#} {%m.%} {#-rukaH#}.
+MECHANIC¦, {%s.%} (Artisan) {#SilpI#} {%m.%} {#(n), SilpakAraH, SilpakarmmakAraH,#}
+{#SilpikaH, SilpopajIvI#} {%m.%} {#(n), SilpakarmmopajIvI#} {%m.,%} {#karmmakAraH,#}
+{#karmmAraH, kAruH#} {%m.%} {#-rukaH#}.
 <LEND>

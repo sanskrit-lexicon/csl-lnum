@@ -1,4 +1,4 @@
 <L>19087<pc>494-a<k1>membrane<k2>membrane
-<div n="lb"/>MEMBRANE¦, {%s.%} {#tvak#} {%f.%} {#(c), AvaraRatvak#} {%f.,%} {#Avarakatvak#} {%f.,%} {#tanutvak#} {%f.,%}
-<div n="lb"/>{#antastvak#} {%f.,%} {#carmma#} {%n.%} {#(n), antaScarmma#} {%n.,%} {#JillikA, JillI, AvaraRaM#}.
+MEMBRANE¦, {%s.%} {#tvak#} {%f.%} {#(c), AvaraRatvak#} {%f.,%} {#Avarakatvak#} {%f.,%} {#tanutvak#} {%f.,%}
+{#antastvak#} {%f.,%} {#carmma#} {%n.%} {#(n), antaScarmma#} {%n.,%} {#JillikA, JillI, AvaraRaM#}.
 <LEND>

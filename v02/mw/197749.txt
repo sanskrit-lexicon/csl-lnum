@@ -1,4 +1,4 @@
-<L>197749<pc>974,3<k1>vipaS<k2>vi-paS<h>b<e>1
-<s>vi-√ paS</s> <hom>b</hom> ¦ <ab>P.</ab> <s>-paSyati</s> (rarely <s>°te</s>), to see in different places or in detail, discern, distinguish, <ls>RV.</ls>; <ls>AV.</ls>; <ls>AitBr.</ls>; <ls>KaṭhUp.</ls>;
-<div n="to"/>to observe, perceive, learn, know, <ls>R.</ls>; <ls>BhP.</ls><info verb="pre" cp="P" parse="vi+paS"/>
+<L>197749<pc>974,2<k1>vipaS<k2>vi-paS<e>1
+<s>vi-√ paS</s> ¦ <ab>P.</ab> <s>-paSyati</s> (rarely <s>°te</s>), to see in different places or in detail, discern, distinguish, <ls>RV.</ls>; <ls>AV.</ls>; <ls>AitBr.</ls>; <ls>KaṭhUp.</ls>;
+<div n="to"/>to observe, perceive, learn, know, <ls>R.</ls>; <ls>BhP.</ls><info verb="pre" cp="P" parse="vi+paS"/><info hui="b"/>
 <LEND>

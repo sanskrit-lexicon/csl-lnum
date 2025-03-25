@@ -1,34 +1,34 @@
 <L>26804<pc>3-0052<k1>jaras<k2>jaras
-{#jaras#}¦ (von 1. {#jar#}) 
-<div n="1"> 1) <lex>n.</lex> oxyt. Nur vor vocalisch anlautenden Casusendungen 
-<ls>P. 7, 2, 101.</ls> 
-<ls>VOP. 3, 38.</ls> {%das Altwerden, Absterben, Gebrechlichkeit; Alter%} 
-<ls>NIR. 11, 38.</ls> {#mA no^ he\tiH pu\rA nu ja\raso^ vaDIt#} 
-<ls>ṚV. 8, 56, 20.</ls> 
-<ls>AV. 5, 30, 17.</ls> 
-<ls>ŚAT. BR. 10, 4, 3, 1.</ls> {#ja\rasa^H pa\rastA^t#} 
-<ls>AV. 6, 122, 1. 4.</ls> {#yu\vaM cyavA^naM ja\raso^ 'mumuktam#} 
-<ls>ṚV. 7, 71, 5.</ls> {#na\Hya^syA apa\raM ca\na ja\rasA\ mara^te\ pati^H#} 
-<ls n="ṚV.">10, 86, 11.</ls> {#vi de\vA ja\rasA^cftan#} 
-<ls>AV. 3, 31, 1. 8, 2, 8.</ls> 
-<ls>ŚAT. BR. 13, 8, 3, 1. 4.</ls> {#sva\stye^naM ja\rase^ vahATa#} 
-<ls>AV. 1, 30, 2. 6, 5, 2. 2, 10, 5. 12, 3, 6.</ls> 
-<ls>PAÑCAV. BR. 8, 9.</ls> 
-<ls>BHARTṚ. 3, 33.</ls> {#vfdDatvaM jarasA vinA#} 
-<ls>RAGH. 1, 23. 18, 6.</ls> 
-<ls>RĀJA-TAR. 2, 2.</ls> 
-<ls>BHĀG. P. 5, 10, 6. 9, 18, 40.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 189, 13.</ls> <ls>AK. 2, 6, 1, 41.</ls> Imacc. wird die Form {#jara/sam#} gebraucht: {#yatrA^ naSca\krA ja\rasa^M ta\nUnA^m#} 
-<ls>ṚV. 1, 89, 9.</ls> {#A ro^ha\tAyu^rja\rasa^M vfRA\nAH#} 
-<ls n="ṚV.">10, 18, 6.</ls> <ls>AV. 2, 13, 1.</ls> {#te kf^Ruta ja\rasa\mAyu^ra\smE Sa\tama\nyAnpari^ vfRaktu mf\tyUn#} 
-<ls>1, 30, 3.</ls> {#jarasaM gataH#} 
-<ls>BHĀG. P. 3, 2, 3.</ls> {#svajarasam#} 
-<ls>9, 19, 21.</ls> {#nivftte janmajarasO (!) yasya#} 
-<ls>Schol.</ls> zu <ls>KIR. 5, 22</ls>; vgl. 
-<ls>VOP. 3, 76.</ls> {#ajarAMsi ca vastrARi#} {%sich nicht abnutzende Gewänder%} 
-<ls>MBH. 13, 5862.</ls> Vgl. {#ajaras#} und {#jarA#} unter {#jara#} . 
-<div n="1">— 2) <lex>m.</lex> N. pr. eines Sohnes des <is>Kṛṣṇa</is> (die gedr. Ausg. <is>Vasudeva</is>) von der <is>Turī</is> 
-<ls>HARIV. 9203.</ls> eines Jägers, der <is>Kṛṣṇa</is> verwundet, 
-<ls>MBH. 16, 126. fgg.</ls> 
+{#jaras#}¦ (von 1. {#jar#})
+<div n="1"> 1) <lex>n.</lex> oxyt. Nur vor vocalisch anlautenden Casusendungen
+<ls>P. 7,2,101.</ls>
+<ls>VOP. 3,38.</ls> {%das Altwerden, Absterben, Gebrechlichkeit; Alter%}
+<ls>NIR. 11,38.</ls> {#mA no^ he\tiH pu\rA nu ja\raso^ vaDIt#}
+<ls>ṚV. 8,56,20.</ls>
+<ls>AV. 5,30,17.</ls>
+<ls>ŚAT. BR. 10,4,3,1.</ls> {#ja\rasa^H pa\rastA^t#}
+<ls>AV. 6,122,1.</ls> <ls n="AV. 6,122,">4.</ls> {#yu\vaM cyavA^naM ja\raso^ 'mumuktam#}
+<ls>ṚV. 7,71,5.</ls> {#na\Hya^syA apa\raM ca\na ja\rasA\ mara^te\ pati^H#}
+<ls n="ṚV.">10,86,11.</ls> {#vi de\vA ja\rasA^cftan#}
+<ls>AV. 3,31,1.</ls> <ls n="AV.">8,2,8.</ls>
+<ls>ŚAT. BR. 13,8,3,1. 4.</ls> {#sva\stye^naM ja\rase^ vahATa#}
+<ls>AV. 1,30,2.</ls> <ls n="AV.">6,5,2.</ls> <ls n="AV.">2,10,5.</ls> <ls n="AV.">12,3,6.</ls>
+<ls>PAÑCAV. BR. 8,9.</ls>
+<ls>BHARTṚ. 3,33.</ls> {#vfdDatvaM jarasA vinA#}
+<ls>RAGH. 1,23.</ls> <ls n="RAGH.">18,6.</ls>
+<ls>RĀJA-TAR. 2,2.</ls>
+<ls>BHĀG. P. 5,10,6.</ls> <ls n="BHĀG. P.">9,18,40.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 189,13.</ls> <ls>AK. 2,6,1,41.</ls> Imacc. wird die Form {#jara/sam#} gebraucht: {#yatrA^ naSca\krA ja\rasa^M ta\nUnA^m#}
+<ls>ṚV. 1,89,9.</ls> {#A ro^ha\tAyu^rja\rasa^M vfRA\nAH#}
+<ls n="ṚV.">10,18,6.</ls> <ls>AV. 2,13,1.</ls> {#te kf^Ruta ja\rasa\mAyu^ra\smE Sa\tama\nyAnpari^ vfRaktu mf\tyUn#}
+<ls n="AV.">1,30,3.</ls> {#jarasaM gataH#}
+<ls>BHĀG. P. 3,2,3.</ls> {#svajarasam#}
+<ls n="BHĀG. P.">9,19,21.</ls> {#nivftte janmajarasO (!) yasya#}
+<ls>Schol.</ls> zu <ls>KIR. 5,22</ls>; vgl.
+<ls>VOP. 3,76.</ls> {#ajarAMsi ca vastrARi#} {%sich nicht abnutzende Gewänder%}
+<ls>MBH. 13,5862.</ls> Vgl. {#ajaras#} und {#jarA#} unter {#jara#} .
+<div n="1">— 2) <lex>m.</lex> N. pr. eines Sohnes des <is>Kṛṣṇa</is> (die gedr. Ausg. <is>Vasudeva</is>) von der <is>Turī</is>
+<ls>HARIV. 9203.</ls> eines Jägers, der <is>Kṛṣṇa</is> verwundet,
+<ls>MBH. 16,126. fgg.</ls>
 <ls>VP. 612.</ls> An beiden Stellen scheinbar {#jarA#} .
 <LEND>

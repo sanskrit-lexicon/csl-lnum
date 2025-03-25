@@ -1,5 +1,5 @@
 <L>21785<pc>687<k1>suburb<k2>suburb
-<div n="lb"/>{@SUBURB:@}¦ <div n="1">(1) {#parisaraH,#} <div n="xe">{%in the s. s of the city:%}</div> <div n="xs">{#purI-#}
-<div n="lb"/>{#parisarezu,#}</div> B. r. vi. 3. 4.; </div><div n="1">(2) {#upaSalyam,#} {%in s. s:%}
-<div n="lb"/>{#upaSalye,#} R. xvi. 37; {#nagaropakaRWe,#} R. v. 61.</div>
+{@SUBURB:@}¦ <div n="1">(1) {#parisaraH,#} <div n="xe">{%in the s. s of the city:%}</div> <div n="xs">{#purI-#}
+{#parisarezu,#}</div> B. r. vi. 3. 4.; </div><div n="1">(2) {#upaSalyam,#} {%in s. s:%}
+{#upaSalye,#} R. xvi. 37; {#nagaropakaRWe,#} R. v. 61.</div>
 <LEND>

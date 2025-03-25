@@ -1,23 +1,3 @@
 <L>17673<pc>310-2<k1>Sastrakarman<k2>Sastrakarman
-{#Sastrakarman#}¦śastra-karman, {%n.%} surgical operation; <lbinfo n="5"/>
-<> {@-kali,@} {%m.%} duel with swords; {@-kopa,@} {%m.%} 
-<>raging of the sword {%or%} war; {@-graha,@} {%m.%} 
-<>taking to the sword, combat; {@-grāhaka,@} {%a.%} 
-<>bearing arms, armed; {@-ghāta,@} {%m.%} stroke of 
-<>the sword; {@-devatā,@} {%f.%} goddess of war ({%only %}
-<>{%pl.%}); {@-dhāraṇa@}, {%n.%} bearing of the sword; 
-<>{@-nidhana,@} {%a.%} dying by the sword; {@-nir-@}
-<>{@-yāṇa@}, {%a. id.%}; {@-nyāsa,@} {%m.%} laying down of 
-<>arms, abstention, from war; {@-pāṇi@}, {%a.%} holding <lbinfo n="4"/>
-<> a sword in {%one's%} hand; {@-pāṇin@}, {%a. id.%} 
-<>({%metr.%}); {@-pāta,@} {%m.%} cut with a knife; {@-pra-@}
-<>{@-hāra,@} {%m.%} sword-cut; {@-bhṛt@}, {%a.%} bearing arms, 
-<>armed; {%m.%} warrior; {@-vat,@} {%a.%} armed with a 
-<>sword; {@-vihita,@} {%pp.%} inflicted with a weapon; 
-<>{@-vṛtti@}, {%a.%} living by the sword, following the 
-<>profession of arms; {@-vraṇa-maya@}, {%a.%} consisting <lbinfo n="7"/>
-<> in wounds {%caused%} by weapons; {@-śikṣā@}, 
-<>{%f.%} skill with the sword; {@-saṃpāta@}, {%m.%} discharge <lbinfo n="3"/>
-<> of missiles, conflict; {@-hata,@} {%pp.%} slain 
-<>with the sword.
+{#Sastrakarman#}¦ śastra-karman, <lex>n.</lex> surgical operation; 🞄{@-kali,@} <lex>m.</lex> duel with swords; {@-kopa,@} <lex>m.</lex> 🞄raging of the sword {%or%} war; {@-graha,@} <lex>m.</lex> 🞄taking to the sword, combat; {@-grāhaka,@} <lex>a.</lex> 🞄bearing arms, armed; {@-ghāta,@} <lex>m.</lex> stroke of 🞄the sword; {@-devatā,@} <lex>f.</lex> goddess of war ({%only%} 🞄<ab>pl.</ab>); {@-dhāraṇa,@} <lex>n.</lex> bearing of the sword; 🞄{@-nidhana,@} <lex>a.</lex> dying by the sword; {@-niryāṇa,@} <lex>a.</lex> <ab>id.</ab>; {@-nyāsa,@} <lex>m.</lex> laying down of 🞄arms, abstention, from war; {@-pāṇi,@} <lex>a.</lex> holding 🞄a sword in {%oneʼs%} hand; {@-pāṇin,@} <lex>a.</lex> <ab>id.</ab> 🞄(<ab>metr.</ab>); {@-pāta,@} <lex>m.</lex> cut with a knife; {@-prahāra,@} <lex>m.</lex> sword-cut; {@-bhṛt,@} <lex>a.</lex> bearing arms, 🞄armed; <lex>m.</lex> warrior; {@-vat,@} <lex>a.</lex> armed with a 🞄sword; {@-vihita,@} <ab>pp.</ab> inflicted with a weapon; 🞄{@-vṛtti,@} <lex>a.</lex> living by the sword, following the 🞄profession of arms; {@-vraṇa-maya,@} <lex>a.</lex> consisting 🞄in wounds {%caused%} by weapons; {@-śikṣā,@} 🞄<lex>f.</lex> skill with the sword; {@-saṃpāta,@} <lex>m.</lex> discharge 🞄of missiles, conflict; {@-hata,@} <ab>pp.</ab> slain 🞄with the sword.
 <LEND>

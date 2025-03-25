@@ -1,24 +1,24 @@
 <L>110643<pc>7-1079<k1>supuzpa<k2>supuzpa<h>2
-2. {#supuzpa#}¦ 
-<div n="1"> 1) <lex>adj.</lex> {%schöne Blüthen habend.%} 
-<div n="1">— 2) <lex>m.</lex> Bez. verschiedener Pflanzen: {%Pterospermum suberifolium%} 
-<ls>RĀJAN. 10, 105.</ls> {%Kugelamaranth%}, = {#haridru#} und {#SirIza#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#raktapuzpaka#} 
-<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#A#} {%Anis%} 
-<ls>RĀJAN. 4, 15.</ls> = {#droRapuzpI#} (wohl {%Phlomis ceylanica Roxb.%}) 
-<ls>5, 138.</ls> {%Clitoria ternatea%} 
-(v. l. {#I#}) 
-<ls>3, 76.</ls> 
-<div n="1">— 4) <lex>f.</lex> {#I#} {%Andropogon aciculatus%} 
-<ls>RĀJAN. 3, 120.</ls> {%Clitoria ternatea%} 
-(v. l. {#A#}) 
-<ls>3, 76.</ls> = {#SvetAparAjitA, jIrRaPaYjI, miSreyA#} ({%Anis%}) und {#droRapuzpI#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#kadalI#} 
-<ls>ŚABDAC.</ls> ebend. 
-<div n="1">— 5) <lex>n.</lex> {%Curcuma longa%} 
-<ls>RĀJAN. 9, 125.</ls> {%Hibiscus mutabilis%} 
-<ls>12, 150.</ls> {%Tabernaemontana coronaria%} 
-<ls>4, 170.</ls> = {#tUla#} 
-<ls>9, 97.</ls>
+2. {#supuzpa#}¦
+<div n="1"> 1) <lex>adj.</lex> {%schöne Blüthen habend.%}
+<div n="1">— 2) <lex>m.</lex> Bez. verschiedener Pflanzen: {%Pterospermum suberifolium%}
+<ls>RĀJAN. 10,105.</ls> {%Kugelamaranth%}, = {#haridru#} und {#SirIza#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#raktapuzpaka#}
+<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 3) <lex>f.</lex> {#A#} {%Anis%}
+<ls>RĀJAN. 4,15.</ls> = {#droRapuzpI#} (wohl {%Phlomis ceylanica Roxb.%})
+<ls n="RĀJAN.">5,138.</ls> {%Clitoria ternatea%}
+(v. l. {#I#})
+<ls n="RĀJAN.">3,76.</ls>
+<div n="1">— 4) <lex>f.</lex> {#I#} {%Andropogon aciculatus%}
+<ls>RĀJAN. 3,120.</ls> {%Clitoria ternatea%}
+(v. l. {#A#})
+<ls n="RĀJAN.">3,76.</ls> = {#SvetAparAjitA, jIrRaPaYjI, miSreyA#} ({%Anis%}) und {#droRapuzpI#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#kadalI#}
+<ls>ŚABDAC.</ls> ebend.
+<div n="1">— 5) <lex>n.</lex> {%Curcuma longa%}
+<ls>RĀJAN. 9,125.</ls> {%Hibiscus mutabilis%}
+<ls n="RĀJAN.">12,150.</ls> {%Tabernaemontana coronaria%}
+<ls n="RĀJAN.">4,170.</ls> = {#tUla#}
+<ls n="RĀJAN.">9,97.</ls>
 <LEND>

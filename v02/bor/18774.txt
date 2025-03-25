@@ -1,5 +1,5 @@
 <L>18774<pc>579<k1>redden<k2>redden
-<div n="lb"/>{@REDDEN:@}¦ <div n="I">I Intrans.: </div><div n="1">(1) {#raktIBavati;#} </div><div n="1">(2) {#lohitA-#}
-<div n="lb"/>{#yate, -ti,#} (nomi.). </div><div n="I">II Trans.: </div><div n="1">(1) {#raktIkaroti;#}</div>
-<div n="lb"/><div n="1">(2) {#raktayati.#}</div>
+{@REDDEN:@}¦ <div n="I">I Intrans.: </div><div n="1">(1) {#raktIBavati;#} </div><div n="1">(2) {#lohitA-#}
+{#yate, -ti,#} (nomi.). </div><div n="I">II Trans.: </div><div n="1">(1) {#raktIkaroti;#}</div>
+<div n="1">(2) {#raktayati.#}</div>
 <LEND>

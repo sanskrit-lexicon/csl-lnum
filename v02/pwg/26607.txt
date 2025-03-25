@@ -1,79 +1,79 @@
 <L>26607<pc>3-0033<k1>janman<k2>ja/nman
-{#ja/nman#}¦ (von {#jan#}) <lex>n.</lex> 
-<ls>Uṇ. 4, 146.</ls> 
-<div n="1"> 1) {%Geburt, Entstehung, Ursprung%} 
-<ls>AK. 1, 1, 4, 8.</ls> 
-<ls>H. 1367.</ls> {#(garBaH) ulva^M jahAti\ janma^nA#} 
-<ls>VS. 19, 73.</ls> {#tadrA^jaya\kzmasya\ janma^#} 
-<ls>TS. 2, 3, 5, 2.</ls> {#tre\DA jA\taM janma^ne\daM hira^Ryam#} 
-<ls>AV. 5, 28, 6.</ls> 
-<ls>ṚV. 7, 33, 10.</ls> <ls n="ṚV.">3, 26, 7.</ls> 
-<ls>ŚAT. BR. 5, 3, 3, 12. 4, 2, 3. 11, 2, 1, 3.</ls> 
-<ls>ŚĀṄKH. ŚR. 15, 24, 7.</ls> 
-<ls>M. 1, 42. 2, 150. 155.</ls> 
-<ls>N. 1, 27.</ls> 
-<ls>R. 1, 3, 9.</ls> {#SUdrARAM janma pAdataH#} 
-<ls>3, 20, 31.</ls> <ls>ŚĀK. 12. 121.</ls> <ls>PAÑCAT. I, 445.</ls> <ls>RAGH. 1, 5.</ls> {#vfzRizu prApya janmanI#} 
-<ls>BHĀG. P. 1, 3, 23.</ls> {#janmanAmnoravedane#} 
-<ls>M. 5, 60.</ls> {#guruSaSANkalagnArkAH putrajanmakarAH#} 
-<ls>VARĀH.</ls> <ls>LAGHUJ. 3, 8.</ls> {#nfpatijanmaprado grahaH#} 
-<ls>BṚH. S. 9, 24.</ls> {#asaMBavaM hemamfgasya janma#} ad 
-<ls>HIT. I, 24.</ls> {#drumezu saKyA kftajanmasu#} {%gesäet, gepflanzt%} 
-<ls>KUMĀRAS. 5, 60.</ls> {#A dantajanmanaH#} {%bis zum Hervortreten der Zähne%} 
-<ls>YĀJÑ. 3, 23.</ls> {#saralaskanDasaMGawfjanmA - davAgniH#} 
-<ls>MEGH. 54.</ls> {#Akare padmarAgARAM janma kAcamaReH kutaH#} 
-<ls>HIT. Pr. 44.</ls> In comp. mit dem Namen des {%Erzeugers%} zur Bez. des {%Erzeugten%} 
-<ls>H. 6.</ls> Bisweilen überflüssig am Ende solcher <lex>adj.</lex> compp.: {#SUdrajanman#} {%ein von einem%} <is>Śūdra</is> {%Erzeugter%} = {#SUdra#} 
-<ls>YĀJÑ. 1, 57.</ls> 
-<div n="1">— 2) {%Geburt%} so v. a. {%Leben%}: {#tAvatkftvo hi mAraRam . vfTApaSuGnaH prApnoti pretya janmani janmani#} 
-<ls>M. 5, 38.</ls> {#pUrvezvapi hi janmasu#} 
-<ls>9, 100. 12, 13.</ls> {#bahUni me vyatItAni janmAni tava ca#} 
-<ls>BHAG. 4, 5.</ls> {#dfzwAdfzwajanman#} {%gegenwärtiges und zukünftiges Leben%} 
-<ls>YOGAS. 2, 12.</ls> 
-<ls>HIT. 15, 1. I, 176.</ls> <ls>KATHĀS. 3, 64.</ls> 
-<div n="1">— 3) {%Nativität%} 
-<ls>VARĀH. BṚH. S. 1, 10.</ls> 
-<div n="1">— 4) {%Geburtsort, Heimath%}: {#pa\ra\me janma^n ava^re sa\DasTe^#} 
-<ls>ṚV. 2, 9, 3.</ls> {#a\psu te\ janma^ di\vi te^ sa\DasTa^m#} 
-<ls>AV. 6, 80, 3.</ls> 
-<ls>VS. 11, 12.</ls> {#janma^M de\vAnA\M viSa^stri\zvA ro^ca\ne di\vaH#} 
-<ls>ṚV. 8, 58, 3.</ls> <ls n="ṚV.">10, 5, 7.</ls> 
-<div n="1">— 5) {%Geburtsstätte%} so v. a. {%Erzeuger, Vater%}: {#saMyamaH kimiti janmanastvayA#} ({#dUzyate#}) 
-<ls>ŚĀK. 177.</ls> 
-<div n="1">— 6) {%Geburtsstern%} (=  {#janmarkza#}) 
-<ls>VARĀH. BṚH. S. 4, 28.</ls> 
-<div n="1">— 7) in der Astrol. Bez. {%des ersten Hauses%}: {#janmanyAyAsado 'rkaH#} 
-<ls>VARĀH. BṚH. S. 104, 5. 8. 19. 25.</ls> 
-<div n="1">— 8) {%Geschöpf, Wesen%}: {#janma^M janma\nnihi^to jA\tave^dAH#} 
-<ls>ṚV. 3, 1, 20.</ls> {#vizu^rUpezu\ janma^su#} 
-<ls n="ṚV.">10, 65, 5.</ls> <ls n="ṚV.">2, 38, 8.</ls> <ls n="ṚV. 2,">7, 10.</ls> <ls n="ṚV. 2, 7,">2.</ls> <ls>TBR. 2, 5, 6, 5.</ls> {#viSvasya devI mfcayasya janmanaH#} 
-<ls>AIT. BR. 4, 10.</ls> 
-<div n="1">— 9) {%Angehörige, Sippschaft, Leute%}: {#janme^va\ nitya\M tana^yaM juzasva#} 
-<ls>ṚV. 3, 15, 2.</ls> {#janena, viSA, janmanA, putrEH#} 
-<ls n="ṚV.">2, 26, 3.</ls> 
-<div n="1">— 10) {%Geschlecht, Art, gens%} und {%genus%}: {#dEvyA^ni\ pArTi^vAni#} 
-<ls>ṚV. 5, 41, 14.</ls> {#di\vyam#} 
-<ls n="ṚV.">1, 56, 6.</ls> u. s. w. {#pri\yaM de\vAya\ janma^ne#} 
-<ls n="ṚV.">9, 108, 8.</ls> <ls n="ṚV.">1, 20, 1.</ls> {#a\mfta^m#} 
-<ls n="ṚV.">10, 176, 4.</ls> {#de\vAnA^m#} 
-<ls n="ṚV.">1, 70, 6.</ls>(3). <ls n="ṚV.">6, 51, 2.</ls> <ls n="ṚV. 6, 51,">12.</ls> {#pra de\vAM janma^ gfRa\te yaja^DyE#} 
-<ls n="ṚV. 6,">11, 3.</ls> {#de\vAM janma\ praya^sA va\rDaya^ntIH#} 
-<ls n="ṚV.">1, 71, 3.</ls> {#uBe janmanI, uBayaM janma#} u. s. w. {%beide Geschlechter%} oder {%Stämme lebender Wesen, Götter und Menschen%}, auch {%Menschen und Thiere%} 
-<ls>VĀLAKH. 4, 7.</ls> 
-<ls>ṚV. 2, 6, 7.</ls> <ls n="ṚV.">1, 31, 7.</ls> <ls n="ṚV.">9, 81, 2.</ls> <ls n="ṚV.">10, 37, 11.</ls> {#ra\Ba\sAya\ janma^ne#} {%die%} <is>Marut</is> 
-<ls n="ṚV.">1, 166, 1.</ls> 
-<div n="1">— 11) {%Natur, Beschaffenheit%}: {#A dEvyA^ni vra\tA ci^ki\tvAnA mAnu^zasya\ jana^sya\ janma^#} 
-<ls n="ṚV.">1, 70, 2.</ls> (1) {%Art und Weise%}; in der Redensart {#pra\tnena\ janma^nA#} {%nach alter Art, nach altem Herkommen%}: {#e\za pra\tnena\ janma^nA de\vo de\veBya^H su\taH#} 
-<ls>ṚV. 9, 3, 9.</ls> {#a\haM pra\tnena\ janma^nA\ (manmanA#} 
-<ls>ṚV.</ls>) {#gira^H SumBAmi#} 
-<ls>SV. II, 7, 1, 5, 2.</ls> {#a\gniH pra\tnena\ janma^nA\#}
+{#ja/nman#}¦ (von {#jan#}) <lex>n.</lex>
+<ls>Uṇ. 4,146.</ls>
+<div n="1"> 1) {%Geburt, Entstehung, Ursprung%}
+<ls>AK. 1,1,4,8.</ls>
+<ls>H. 1367.</ls> {#(garBaH) ulva^M jahAti\ janma^nA#}
+<ls>VS. 19,73.</ls> {#tadrA^jaya\kzmasya\ janma^#}
+<ls>TS. 2,3,5,2.</ls> {#tre\DA jA\taM janma^ne\daM hira^Ryam#}
+<ls>AV. 5,28,6.</ls>
+<ls>ṚV. 7,33,10.</ls> <ls n="ṚV.">3,26,7.</ls>
+<ls>ŚAT. BR. 5,3,3,12. 4,2,3. 11,2,1,3.</ls>
+<ls>ŚĀṄKH. ŚR. 15,24,7.</ls>
+<ls>M. 1,42.</ls> <ls n="M.">2,150.</ls> <ls n="M. 2,">155.</ls>
+<ls>N. 1,27.</ls>
+<ls>R. 1,3,9.</ls> {#SUdrARAM janma pAdataH#}
+<ls n="R.">3,20,31.</ls> <ls>ŚĀK. 12. 121.</ls> <ls>PAÑCAT. I,445.</ls> <ls>RAGH. 1,5.</ls> {#vfzRizu prApya janmanI#}
+<ls>BHĀG. P. 1,3,23.</ls> {#janmanAmnoravedane#}
+<ls>M. 5,60.</ls> {#guruSaSANkalagnArkAH putrajanmakarAH#}
+<ls>VARĀH.</ls> <ls>LAGHUJ. 3,8.</ls> {#nfpatijanmaprado grahaH#}
+<ls>BṚH. S. 9,24.</ls> {#asaMBavaM hemamfgasya janma#} ad
+<ls>HIT. I,24.</ls> {#drumezu saKyA kftajanmasu#} {%gesäet, gepflanzt%}
+<ls>KUMĀRAS. 5,60.</ls> {#A dantajanmanaH#} {%bis zum Hervortreten der Zähne%}
+<ls>YĀJÑ. 3,23.</ls> {#saralaskanDasaMGawfjanmA — davAgniH#}
+<ls>MEGH. 54.</ls> {#Akare padmarAgARAM janma kAcamaReH kutaH#}
+<ls>HIT. Pr. 44.</ls> In comp. mit dem Namen des {%Erzeugers%} zur Bez. des {%Erzeugten%}
+<ls>H. 6.</ls> Bisweilen überflüssig am Ende solcher <lex>adj.</lex> compp.: {#SUdrajanman#} {%ein von einem%} <is>Śūdra</is> {%Erzeugter%} = {#SUdra#}
+<ls>YĀJÑ. 1,57.</ls>
+<div n="1">— 2) {%Geburt%} so v. a. {%Leben%}: {#tAvatkftvo hi mAraRam . vfTApaSuGnaH prApnoti pretya janmani janmani#}
+<ls>M. 5,38.</ls> {#pUrvezvapi hi janmasu#}
+<ls n="M.">9,100.</ls> <ls n="M.">12,13.</ls> {#bahUni me vyatItAni janmAni tava ca#}
+<ls>BHAG. 4,5.</ls> {#dfzwAdfzwajanman#} {%gegenwärtiges und zukünftiges Leben%}
+<ls>YOGAS. 2,12.</ls>
+<ls>HIT. 15,1. I,176.</ls> <ls>KATHĀS. 3,64.</ls>
+<div n="1">— 3) {%Nativität%}
+<ls>VARĀH. BṚH. S. 1,10.</ls>
+<div n="1">— 4) {%Geburtsort, Heimath%}: {#pa\ra\me janma^n ava^re sa\DasTe^#}
+<ls>ṚV. 2,9,3.</ls> {#a\psu te\ janma^ di\vi te^ sa\DasTa^m#}
+<ls>AV. 6,80,3.</ls>
+<ls>VS. 11,12.</ls> {#janma^M de\vAnA\M viSa^stri\zvA ro^ca\ne di\vaH#}
+<ls>ṚV. 8,58,3.</ls> <ls n="ṚV.">10,5,7.</ls>
+<div n="1">— 5) {%Geburtsstätte%} so v. a. {%Erzeuger, Vater%}: {#saMyamaH kimiti janmanastvayA#} ({#dUzyate#})
+<ls>ŚĀK. 177.</ls>
+<div n="1">— 6) {%Geburtsstern%} (= {#janmarkza#})
+<ls>VARĀH. BṚH. S. 4,28.</ls>
+<div n="1">— 7) in der Astrol. Bez. {%des ersten Hauses%}: {#janmanyAyAsado 'rkaH#}
+<ls>VARĀH. BṚH. S. 104,5. 8. 19. 25.</ls>
+<div n="1">— 8) {%Geschöpf, Wesen%}: {#janma^M janma\nnihi^to jA\tave^dAH#}
+<ls>ṚV. 3,1,20.</ls> {#vizu^rUpezu\ janma^su#}
+<ls n="ṚV.">10,65,5.</ls> <ls n="ṚV.">2,38,8.</ls> <ls n="ṚV. 2,">7,10.</ls> <ls n="ṚV. 2,7,">2.</ls> <ls>TBR. 2,5,6,5.</ls> {#viSvasya devI mfcayasya janmanaH#}
+<ls>AIT. BR. 4,10.</ls>
+<div n="1">— 9) {%Angehörige, Sippschaft, Leute%}: {#janme^va\ nitya\M tana^yaM juzasva#}
+<ls>ṚV. 3,15,2.</ls> {#janena, viSA, janmanA, putrEH#}
+<ls n="ṚV.">2,26,3.</ls>
+<div n="1">— 10) {%Geschlecht, Art, gens%} und {%genus%}: {#dEvyA^ni\ pArTi^vAni#}
+<ls>ṚV. 5,41,14.</ls> {#di\vyam#}
+<ls n="ṚV.">1,56,6.</ls> u. s. w. {#pri\yaM de\vAya\ janma^ne#}
+<ls n="ṚV.">9,108,8.</ls> <ls n="ṚV.">1,20,1.</ls> {#a\mfta^m#}
+<ls n="ṚV.">10,176,4.</ls> {#de\vAnA^m#}
+<ls n="ṚV.">1,70,6.</ls>(3). <ls n="ṚV.">6,51,2.</ls> <ls n="ṚV. 6,51,">12.</ls> {#pra de\vAM janma^ gfRa\te yaja^DyE#}
+<ls n="ṚV. 6,">11,3.</ls> {#de\vAM janma\ praya^sA va\rDaya^ntIH#}
+<ls n="ṚV.">1,71,3.</ls> {#uBe janmanI, uBayaM janma#} u. s. w. {%beide Geschlechter%} oder {%Stämme lebender Wesen, Götter und Menschen%}, auch {%Menschen und Thiere%}
+<ls>VĀLAKH. 4,7.</ls>
+<ls>ṚV. 2,6,7.</ls> <ls n="ṚV.">1,31,7.</ls> <ls n="ṚV.">9,81,2.</ls> <ls n="ṚV.">10,37,11.</ls> {#ra\Ba\sAya\ janma^ne#} {%die%} <is>Marut</is>
+<ls n="ṚV.">1,166,1.</ls>
+<div n="1">— 11) {%Natur, Beschaffenheit%}: {#A dEvyA^ni vra\tA ci^ki\tvAnA mAnu^zasya\ jana^sya\ janma^#}
+<ls n="ṚV.">1,70,2.</ls> (1) {%Art und Weise%}; in der Redensart {#pra\tnena\ janma^nA#} {%nach alter Art, nach altem Herkommen%}: {#e\za pra\tnena\ janma^nA de\vo de\veBya^H su\taH#}
+<ls>ṚV. 9,3,9.</ls> {#a\haM pra\tnena\ janma^nA\ (manmanA#}
+<ls>ṚV.</ls>) {#gira^H SumBAmi#}
+<ls>SV. II,7,1,5,2.</ls> {#a\gniH pra\tnena\ janma^nA\#}
 [Page3-0034]
-({#manmanA#} 
-<ls>ṚV.</ls>) {#SumBA^nasta\nvaM1^\ svAm#} 
-<ls n="SV. II,">8, 3, 1, 1.</ls> {#pi\tuH pra\tnasya\ janma^nA vadAmasi#} 
-<ls>ṚV. 1, 87, 5.</ls> {#yatkarma rAjYA nirdizwaM tadvAcyaM dUtajanmanA#} {%nach Botenart%} 
-<ls>HARIV. 15718.</ls> 
-<div n="1">— 12) irrthümlich = {#udaka#} {%Wasser%} 
-<ls>NAIGH. 1, 12.</ls> 
+({#manmanA#}
+<ls>ṚV.</ls>) {#SumBA^nasta\nvaM1^\ svAm#}
+<ls n="SV. II,">8,3,1,1.</ls> {#pi\tuH pra\tnasya\ janma^nA vadAmasi#}
+<ls>ṚV. 1,87,5.</ls> {#yatkarma rAjYA nirdizwaM tadvAcyaM dUtajanmanA#} {%nach Botenart%}
+<ls>HARIV. 15718.</ls>
+<div n="1">— 12) irrthümlich = {#udaka#} {%Wasser%}
+<ls>NAIGH. 1,12.</ls>
 <div n="v">— Vgl. {#janiman, agrajanman, antya°, kaSmIra°, kASmIra°, dvi°, brahma°, samAna°#} .
 <LEND>

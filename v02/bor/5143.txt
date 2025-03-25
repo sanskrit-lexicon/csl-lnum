@@ -1,5 +1,5 @@
 <L>5143<pc>165<k1>crouch<k2>crouch
-<div n="lb"/>{@CROUCH:@}¦ <div n="I">I To stoop low: q. v.: {#namayati#}
-<div n="lb"/>(c. of {#nam#}). </div><div n="I">II To cringe: q. v.: {#pAdayoH #}
-<div n="lb"/>{# patati#} ({#pat,#} c. l.).</div>
+{@CROUCH:@}¦ <div n="I">I To stoop low: q. v.: {#namayati#}
+(c. of {#nam#}). </div><div n="I">II To cringe: q. v.: {#pAdayoH #}
+{# patati#} ({#pat,#} c. l.).</div>
 <LEND>

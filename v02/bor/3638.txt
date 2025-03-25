@@ -1,4 +1,4 @@
 <L>3638<pc>120<k1>christmas<k2>christmas
-<div n="lb"/>{@CHRISTMAS:@}¦ {#*kfzwajanmotsavaH.#} <div n="xe">{%C. -day:%}</div> <div n="xs">{#*kfzwasya janma-#}
-<div n="lb"/>{#dinam.#}</div> <div n="xe">{%C. -eve:%}</div> <div n="xs">{#*kazwasya janmadinasya pUrvapradozaH.#}</div>
+{@CHRISTMAS:@}¦ {#*kfzwajanmotsavaH.#} <div n="xe">{%C. -day:%}</div> <div n="xs">{#*kfzwasya janma-#}
+{#dinam.#}</div> <div n="xe">{%C. -eve:%}</div> <div n="xs">{#*kazwasya janmadinasya pUrvapradozaH.#}</div>
 <LEND>

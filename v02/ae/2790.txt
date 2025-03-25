@@ -1,11 +1,11 @@
 <L>2790<pc>103<k1>despatch<k2>despatch
 {@Despatch,@}¦ {%v. t.%} ({#satvaraM#}) {#prez#} c., {#prahi#} 5 P.
-<div n="lb"/>{#prasTA#} c. ({#sTApayati#}), {#visfj#} 6 P. {@2@} {#SIGraM,#}
-<div n="lb"/>{#Jawiti saMpad#} c. {#tvar#} c. ({#tvarayati#}), {#ASu#}
-<div n="lb"/>{#saMviDA#} 3 U. {@3@} {#han#} 2 U. {#vyApad#} c.; {%See%}
-<div n="lb"/>Kill. {%-s.%} {#tvarA, SIGratA, SIGrakAritvaM, adIrGa-#}
-<div n="lb"/>{#-sUtratA#}. {@2@} {#patraM, rAjaleKaH-leKyaM, vAcikapatraM#}.
-<div n="lb"/>{@3@} {#DAvakaH, prajavin#} {%m.,%} {#vArtAharaH, dUtaH#}.
-<div n="lb"/>{@-ful,@} {%a.%} {#tvarASIla, SIGrakArin, avilaMbin,#}
-<div n="lb"/>{#adIrGasUtra#}.
+{#prasTA#} c. ({#sTApayati#}), {#visfj#} 6 P. {@2@} {#SIGraM,#}
+{#Jawiti saMpad#} c. {#tvar#} c. ({#tvarayati#}), {#ASu#}
+{#saMviDA#} 3 U. {@3@} {#han#} 2 U. {#vyApad#} c.; {%See%}
+Kill. {%-s.%} {#tvarA, SIGratA, SIGrakAritvaM, adIrGa-#}
+{#-sUtratA#}. {@2@} {#patraM, rAjaleKaH-leKyaM, vAcikapatraM#}.
+{@3@} {#DAvakaH, prajavin#} {%m.,%} {#vArtAharaH, dUtaH#}.
+{@-ful,@} {%a.%} {#tvarASIla, SIGrakArin, avilaMbin,#}
+{#adIrGasUtra#}.
 <LEND>

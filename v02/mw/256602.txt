@@ -1,8 +1,8 @@
 <L>256602<pc>1268,3<k1>spfS<k2>spfS<h>1<e>1
-<hom>1.</hom> <s>spfS</s> ¦ <ab>cl.</ab> 6. <ab>P.</ab> (<ls>Dhātup. xxviii, 128</ls>) <s>spfSa/ti</s> (<ab>mc.</ab> also <s>°te</s>; <ab>pr. p.</ab> <s>spfSAna</s>, <ls>MBh.</ls>; <ab>impf.</ab> <s>asparSat</s>, <ls>BhP.</ls>; <ab>pf.</ab> <s>pasparSa</s>, <s>paspfSuH</s>, <s>paspfSe</s>, <ls>ib.</ls> &c.; <ab>Subj.</ab> <s>paspa/rSat</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>aspfkzat</s>, <ls>AV.</ls>; <ls>Br.</ls>; <s>asprAkzIt</s>, <ls>Br.</ls>; <ls>MBh.</ls>; <s>aspArkzIt</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>spfSyAt</s>, <ls>MBh.</ls>; <ab>fut.</ab> <s>sprazwA</s> or <s>sparzwA</s> <ab>Gr.</ab>; <s>sparkzyati</s>, <ls>ib.</ls>; <s>sprakzyati</s>, <ls>MBh.</ls>; <ab>inf.</ab> <s>sprazwum</s>, <ls>ib.</ls> &c.; <s>-spf/Se</s>, <ls>RV.</ls>; <s>-spf/Sas</s>, <ls>Br.</ls>; <ab>ind.p.</ab> <s>spfzwvA</s>, <s>-spf/Sya</s>, <ls>ib.</ls> &c.), 
+<hom>1.</hom> <s>spfS</s> ¦ <ab>cl.</ab> 6. <ab>P.</ab> (<ls>Dhātup. xxviii, 128</ls>) <s>spfSa/ti</s> (<ab>mc.</ab> also <s>°te</s>; <ab>pr. p.</ab> <s>spfSAna</s>, <ls>MBh.</ls>; <ab>impf.</ab> <s>asparSat</s>, <ls>BhP.</ls>; <ab>pf.</ab> <s>pasparSa</s>, <s>paspfSuH</s>, <s>paspfSe</s>, <ls>ib.</ls> &c.; <ab>Subj.</ab> <s>paspa/rSat</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>aspfkzat</s>, <ls>AV.</ls>; <ls>Br.</ls>; <s>asprAkzIt</s>, <ls>Br.</ls>; <ls>MBh.</ls>; <s>aspArkzIt</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>spfSyAt</s>, <ls>MBh.</ls>; <ab>fut.</ab> <s>sprazwA</s> or <s>sparzwA</s> <ab>Gr.</ab>; <s>sparkzyati</s>, <ls>ib.</ls>; <s>sprakzyati</s>, <ls>MBh.</ls>; <ab>inf.</ab> <s>sprazwum</s>, <ls>ib.</ls> &c.; <s>-spf/Se</s>, <ls>RV.</ls>; <s>-spf/Sas</s>, <ls>Br.</ls>; <ab>ind.p.</ab> <s>spfzwvA</s>, <s>-spf/Sya</s>, <ls>ib.</ls> &c.),
 <div n="to"/>to touch, feel with the hand, lay the hand on (<ab>acc.</ab> or <ab>loc.</ab>), graze, stroke, <ls>RV.</ls> &c. &c.;
 <div n="to"/>to handle, take hold of (<s>anyo 'nyaM hastO spfSataH</s>, ‘they mutually touch or shake hands’), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
-<div n="vp"/> (with <s>apa/H</s>, <s>udakam</s>, <s>jalam</s>; or <s>adBis</s> &c.) 
+<div n="vp"/> (with <s>apa/H</s>, <s>udakam</s>, <s>jalam</s>; or <s>adBis</s> &c.)
 <div n="to"/>to touch or sip water, wash or sprinkle certain parts of the body with water, <ls>GṛŚrS.</ls>; <ls>Mn. ii, 60</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to touch so as to hurt, injure, harm, <ls>Kathās.</ls> <pb n="1269,1"/>;
 <div n="to"/>to perceive or feel by touch, <ls>Up.</ls>; <ls>Mn.</ls>; <ls>VarBṛS.</ls>;
@@ -16,7 +16,7 @@
 <div n="to"/>to attain to, obtain, experience, undergo, <ls>MBh.</ls>; <ls>Kām.</ls> &c.;
 <div n="to"/>to grant, bestow (<ab>cf.</ab> <ab>Caus.</ab>), <ls>BhP.</ls> :
 <div n="vp"/><ab>Pass.</ab> <s>spfSyate</s> (<ab>aor.</ab> <s>asparSi</s>), to be touched or seized or affected by, <ls>MBh.</ls> &c.:
-<div n="vp"/><ab>Caus.</ab> <s>sparSayati</s>, <s>°te</s> (<ab>aor.</ab> <s>apasparSat</s> or <s>apispfSat</s>; <ab>Subj.</ab> <s>pispfSaH</s>, <s>°Sati</s>, <ls>RV.</ls>), 
+<div n="vp"/><ab>Caus.</ab> <s>sparSayati</s>, <s>°te</s> (<ab>aor.</ab> <s>apasparSat</s> or <s>apispfSat</s>; <ab>Subj.</ab> <s>pispfSaH</s>, <s>°Sati</s>, <ls>RV.</ls>),
 <div n="to"/>to cause to touch (two <ab>acc.</ab>), bring into immediate contact with (<ab>loc.</ab> or <ab>instr.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to convey to (<ab>loc.</ab>), <ls>RV.</ls>;
 <div n="to"/>to fill or cover with (<ab>instr.</ab>) &c.;

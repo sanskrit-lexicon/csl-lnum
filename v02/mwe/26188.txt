@@ -1,8 +1,8 @@
 <L>26188<pc>713-b<k1>scholar<k2>scholar
-<div n="lb"/>SCHOLAR¦, {%s.%} (Learner, pupil) {#SizyaH, vidyArTI#} {%m.%} {#(n), antevAsI#} {%m.,%}
-<div n="lb"/>{#CAtraH, antevAsijanaH, aDyAyI#} {%m.,%} {#aDyetA#} {%m.%} {#(tf), vidyAByAsI#} {%m.%}
-<div n="lb"/>{#(n), SikzitAkzaraH, aDItI#} {%m.,%} {#vidyAByAsakft#} {%m.,%} {#akzaramuKaH, pAWArTI#} {%m.;%}
-<div n="lb"/>‘head scholar,’ {#pawwaSizyaH;#} ‘scholar of a scholar,’ {#praSizyaH#}. — 
-<div n="lb"/>(Learned man) {#paRqitaH, paRqitajanaH, vidvAn#} {%m.%} {#(s), vidvajjanaH,#}
-<div n="lb"/>{#kftavidyaH, sarvvarasaH, rasajYaH, tAntrikaH,#} {%see%} LEARNED.
+SCHOLAR¦, {%s.%} (Learner, pupil) {#SizyaH, vidyArTI#} {%m.%} {#(n), antevAsI#} {%m.,%}
+{#CAtraH, antevAsijanaH, aDyAyI#} {%m.,%} {#aDyetA#} {%m.%} {#(tf), vidyAByAsI#} {%m.%}
+{#(n), SikzitAkzaraH, aDItI#} {%m.,%} {#vidyAByAsakft#} {%m.,%} {#akzaramuKaH, pAWArTI#} {%m.;%}
+‘head scholar,’ {#pawwaSizyaH;#} ‘scholar of a scholar,’ {#praSizyaH#}. — 
+(Learned man) {#paRqitaH, paRqitajanaH, vidvAn#} {%m.%} {#(s), vidvajjanaH,#}
+{#kftavidyaH, sarvvarasaH, rasajYaH, tAntrikaH,#} {%see%} LEARNED.
 <LEND>

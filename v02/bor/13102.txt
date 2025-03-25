@@ -1,6 +1,6 @@
 <L>13102<pc>404<k1>labourer<k2>labourer
-<div n="lb"/>{@LABOURER:@}¦ <div n="1">(1) {#karmakaraH,#} {%will do work like l. s:%}
-<div n="lb"/>{#karma karmakaravat karizyati,#} Si.; </div><div n="1">(2) {#karmAjIvaH;#} </div><div n="1">(3)
-<div n="lb"/>{#karmajIvI,#} <div n="xe">{%artisans and l. s:%}</div> <div n="xs">{#SilpinaH karmajIvinaSca,#}</div>
-<div n="lb"/>V. s.</div>
+{@LABOURER:@}¦ <div n="1">(1) {#karmakaraH,#} {%will do work like l. s:%}
+{#karma karmakaravat karizyati,#} Si.; </div><div n="1">(2) {#karmAjIvaH;#} </div><div n="1">(3)
+{#karmajIvI,#} <div n="xe">{%artisans and l. s:%}</div> <div n="xs">{#SilpinaH karmajIvinaSca,#}</div>
+V. s.</div>
 <LEND>

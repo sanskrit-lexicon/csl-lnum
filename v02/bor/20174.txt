@@ -1,9 +1,9 @@
 <L>20174<pc>628<k1>separation<k2>separation
-<div n="lb"/>{@SEPARATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#pfTakkaraRam;#} </div><div n="1">(2) [Page629]
-<div n="lb"/>{#viyojanam;#} </div><div n="1">(3) {#viSlezaRam.#} </div><div n="I">II Disconnection:</div>
-<div n="lb"/><div n="1">(1) {#viyogaH,#} <div n="xe">{%s. from lightning:%}</div> <div n="xs">{#vidyutA viprayogaH,#}</div>
-<div n="lb"/>Me. ii. 1.; <div n="xe">{%time of s.:%}</div> <div n="xs">{#viyogakAlaH,#}</div> D. iii.;</div>
-<div n="lb"/><div n="1">(2) {#viSlezaH,#} alarmed <div n="xe">{%at s.:%}</div> <div n="xs">{#viSlezakAtara#}</div> (f. {#rA#}),
-<div n="lb"/>Si.; </div><div n="1">(3) {#virahaH,#} <div n="xe">{%state of s.:%}</div> <div n="xs">{#virahAvasTA,#}</div>
-<div n="lb"/>Me.</div>
+{@SEPARATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#pfTakkaraRam;#} </div><div n="1">(2) [Page629]
+{#viyojanam;#} </div><div n="1">(3) {#viSlezaRam.#} </div><div n="I">II Disconnection:</div>
+<div n="1">(1) {#viyogaH,#} <div n="xe">{%s. from lightning:%}</div> <div n="xs">{#vidyutA viprayogaH,#}</div>
+Me. ii. 1.; <div n="xe">{%time of s.:%}</div> <div n="xs">{#viyogakAlaH,#}</div> D. iii.;</div>
+<div n="1">(2) {#viSlezaH,#} alarmed <div n="xe">{%at s.:%}</div> <div n="xs">{#viSlezakAtara#}</div> (f. {#rA#}),
+Si.; </div><div n="1">(3) {#virahaH,#} <div n="xe">{%state of s.:%}</div> <div n="xs">{#virahAvasTA,#}</div>
+Me.</div>
 <LEND>

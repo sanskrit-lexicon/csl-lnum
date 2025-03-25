@@ -1,15 +1,15 @@
 <L>19578<pc>2-0464<k1>kOrava<k2>kOrava
-{#kOrava#}¦ (von {#kuru#}) 
-<div n="1"> 1) <lex>adj.</lex> = {#kOravaka#} 
-<ls>P. 4, 2, 130.</ls> {#kO/rava#} <is>gaṇa</is> {#utsAdi#} zu 
-<ls>P. 4, 1, 86.</ls> {#kOrava/#} <is>gaṇa</is> {#kacCAdi#} zu 
-<ls>4, 2, 133.</ls> {%den%} <is>Kuru</is> {%gehörig u.s.w.%}: {#kOravIM camUm#} 
-<ls>MBH. 1, 5457. 4, 1972.</ls> {#kOravaM kzetram = kurukzetram#} 
-<ls>MEGH. 49.</ls> 
-<div n="1">— 2) patron. von <is>Kuru</is> 
-<ls>N. 14, 25.</ls> pl. <ls>MBH. 1, 5457. 3, 311.</ls> <ls>HARIV. 1801.</ls> <ls>CĀṆ. 50.</ls> {#kOravavaMSaja#} 
-<ls>MBH. 1, 1664.</ls> {#kOravendra#} 
-<ls>BENF. Chr. 36, 17. 60, 29.</ls> {#kOravanandana#} 
-<ls>41, 1. 63, 68.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#AH adya nizkOravAmekaH karizyAmi vasuMDarAm#} 
-<ls>MBH. 1, 7961.</ls>
+{#kOrava#}¦ (von {#kuru#})
+<div n="1"> 1) <lex>adj.</lex> = {#kOravaka#}
+<ls>P. 4,2,130.</ls> {#kO/rava#} <is>gaṇa</is> {#utsAdi#} zu
+<ls>P. 4,1,86.</ls> {#kOrava/#} <is>gaṇa</is> {#kacCAdi#} zu
+<ls n="P.">4,2,133.</ls> {%den%} <is>Kuru</is> {%gehörig u.s.w.%}: {#kOravIM camUm#}
+<ls>MBH. 1,5457.</ls> <ls n="MBH.">4,1972.</ls> {#kOravaM kzetram = kurukzetram#}
+<ls>MEGH. 49.</ls>
+<div n="1">— 2) patron. von <is>Kuru</is>
+<ls>N. 14,25.</ls> pl. <ls>MBH. 1,5457.</ls> <ls n="MBH.">3,311.</ls> <ls>HARIV. 1801.</ls> <ls>CĀṆ. 50.</ls> {#kOravavaMSaja#}
+<ls>MBH. 1,1664.</ls> {#kOravendra#}
+<ls>BENF. Chr. 36,17. 60,29.</ls> {#kOravanandana#}
+<ls n="BENF. Chr.">41,1. 63,68.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#AH adya nizkOravAmekaH karizyAmi vasuMDarAm#}
+<ls>MBH. 1,7961.</ls>
 <LEND>

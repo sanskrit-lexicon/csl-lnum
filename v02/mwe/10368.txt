@@ -1,7 +1,7 @@
 <L>10368<pc>247-b<k1>expansion<k2>expansion
-<div n="lb"/>EXPANSION¦, {%s.%} {#vistAraH, vistftiH#} {%f.,%} {#vistaraH, vitatiH#} {%f.,%} {#pratatiH#} {%f.,%} {#santatiH#} {%f.,%}
-<div n="lb"/>{#tantiH#} {%f.,%} {#vikASaH -SanaM, prakASaH -SanaM, prasAraH -raRaM, prasaraH, parirAraH,#}
-<div n="lb"/>{#vivftiH#} {%f.,%} {#vivAraH, visaraRaM, vyAdAnaM, visarpaRaM, prasarpaRaM, prapaYcaH,#}
-<div n="lb"/>{#vyAptiH#} {%f.,%} {#vyApanaM, vyApakatvaM, vijfmBaRaM, vihftiH#} {%f.,%} {#vyAsaH, parikzepaH,#}
-<div n="lb"/>{#atiriktatA#}.
+EXPANSION¦, {%s.%} {#vistAraH, vistftiH#} {%f.,%} {#vistaraH, vitatiH#} {%f.,%} {#pratatiH#} {%f.,%} {#santatiH#} {%f.,%}
+{#tantiH#} {%f.,%} {#vikASaH -SanaM, prakASaH -SanaM, prasAraH -raRaM, prasaraH, parirAraH,#}
+{#vivftiH#} {%f.,%} {#vivAraH, visaraRaM, vyAdAnaM, visarpaRaM, prasarpaRaM, prapaYcaH,#}
+{#vyAptiH#} {%f.,%} {#vyApanaM, vyApakatvaM, vijfmBaRaM, vihftiH#} {%f.,%} {#vyAsaH, parikzepaH,#}
+{#atiriktatA#}.
 <LEND>

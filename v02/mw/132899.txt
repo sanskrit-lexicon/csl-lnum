@@ -1,5 +1,5 @@
-<L>132899<pc>669,2<k1>pratimud<k2>prati-mud<e>1
+<L>132899<pc>669,1<k1>pratimud<k2>prati-mud<e>1
 <s>prati-√ mud</s> ¦ <ab>Ā.</ab> <s>-modate</s> (rarely <ab>P.</ab>) <s>°ti</s>, to rejoice at, welcome with joy, be glad to see (with <ab>acc.</ab>, rarely <ab>gen.</ab>), <ls>RV.</ls> &c. &c.:
-<div n="to"/><ab>Caus.</ab> <s>-modayate</s>, to gladden, cheer, <ls>ŚBr.</ls> :
-<div n="to"/><ab>Desid.</ab> of <ab>Caus.</ab> <s>-mumodayizati</s>, to wish to make cheerful, <ls>ib.</ls><info verb="pre" cp="PĀ" parse="prati+mud"/>
+<div n="vp"/><ab>Caus.</ab> <s>-modayate</s>, to gladden, cheer, <ls>ŚBr.</ls> :
+<div n="vp"/><ab>Desid.</ab> of <ab>Caus.</ab> <s>-mumodayizati</s>, to wish to make cheerful, <ls>ib.</ls><info verb="pre" cp="PĀ" parse="prati+mud"/>
 <LEND>

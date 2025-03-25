@@ -1,26 +1,26 @@
 <L>3003<pc>1-0219<k1>anuvAka<k2>anuvAka/
-{#anuvAka/#}¦ (von {#vac#} mit {#anu#}) <lex>m.</lex> 
-<ls>P. 2, 4, 29, <is>Vārtt</is>. 1.</ls> 
-<ls>AK. 3, 6, 17.</ls> 
-<div n="1"> 1) {%das Nachsprechen, Wiederholen, Aufsagen, Recitiren.%} 
-<div n="1">— 2) {%was eine Einheit des Recitirens bildet, Lection, Abschnitt%}, sowohl in den Rollen der Priester als in Büchern; daher die Unterabtheilung vieler Schrift- werke, z. B. der 
-<ls>ṚV.</ls> - <is>Saṃhitā</is>, 
-<ls>VS.</ls>-<is>Saṃhitā</is> u. s. w. in <is>Anuvāka's</is>. {#A\Ngi\ra\sAnA^mA\dyEH paYcA^nuvA\kEH svAhA^#} 
-<ls>AV. 19, 22, 1.</ls> {#eza praTamo 'nuvAkaH#} 
-<ls>ŚAT. BR. 9, 1, 1, 15.</ls> {#yajUMzi vedaH - yajuzAmanuvAkam#} 
-<ls>13, 4, 3, 6.</ls> {#prARAya svAhApAnAya svAheti dvAdaSaBiranuvAkEH#} 
-<ls>5, 1, 4.</ls> {#kzetrasyAnuvAkaM kzetrasya patinA vayamiti#} (
-<ls>ṚV. 4, 57, 1.</ls>) {#pratyfcaM juhuyAt#} 
-<ls>ĀŚV. GṚHY. 2, 18.</ls> 
-<ls>KAUŚ. 63.</ls> 
-<ls>KĀTY. ŚR. 14, 5, 26. 15, 8, 16. 16, 5, 22. 18, 3, 13. 5, 1. 19, 2, 24. 7, 1. 20, 2, 3. 7, 6. 8, 7. 21, 1, 11. 17.</ls> {#anuvAkAnta#} 
-<ls>18, 1, 2. 3.</ls> {#anuvAkaSeza#} 
-<ls>3, 12.</ls> {#prAtaranuvAka#} 
-<ls>CHĀND. UP. 2, 24, 3.</ls> 
-<ls>AIT. BR. 2, 17.</ls> {#yaM vAkezvanuvAkezu nizatsUpanizatsu ca .. gfRanti#} 
-<ls>MBH. 12, 16113. 1614.</ls> Wie die Namen derselben gebildet werden 
-<ls>P. 5, 2, 60-62.</ls> Der Verfasser schlechtweg in derselben Form vorgesetzt: {#vasizWo 'nuvAkaH . viSvAmitro 'nuvAkaH#} 
-<ls>PAT.</ls> zu <ls>P. 4, 3, 133.</ls> 
-<div n="1">— 3) {%Wiederholung%} (eines Wortes u. s. w.): {#dvipadEkapadAnyapyanuvAke (saMkramyante)#} 
-<ls>VS. PRĀT. 4, 167.</ls>
+{#anuvAka/#}¦ (von {#vac#} mit {#anu#}) <lex>m.</lex>
+<ls>P. 2,4,29</ls>, <is>Vārtt</is>. 1.
+<ls>AK. 3,6,17.</ls>
+<div n="1"> 1) {%das Nachsprechen, Wiederholen, Aufsagen, Recitiren.%}
+<div n="1">— 2) {%was eine Einheit des Recitirens bildet, Lection, Abschnitt%}, sowohl in den Rollen der Priester als in Büchern; daher die Unterabtheilung vieler Schrift- werke, z. B. der
+<ls>ṚV.</ls> — <is>Saṃhitā</is>,
+<ls>VS.</ls>-<is>Saṃhitā</is> u. s. w. in <is>Anuvāka's</is>. {#A\Ngi\ra\sAnA^mA\dyEH paYcA^nuvA\kEH svAhA^#}
+<ls>AV. 19,22,1.</ls> {#eza praTamo 'nuvAkaH#}
+<ls>ŚAT. BR. 9,1,1,15.</ls> {#yajUMzi vedaH — yajuzAmanuvAkam#}
+<ls n="ŚAT. BR.">13,4,3,6.</ls> {#prARAya svAhApAnAya svAheti dvAdaSaBiranuvAkEH#}
+<ls n="ŚAT. BR. 13,">5,1,4.</ls> {#kzetrasyAnuvAkaM kzetrasya patinA vayamiti#}
+(<ls>ṚV. 4,57,1.</ls>) {#pratyfcaM juhuyAt#}
+<ls>ĀŚV. GṚHY. 2,18.</ls>
+<ls>KAUŚ. 63.</ls>
+<ls>KĀTY. ŚR. 14,5,26.</ls> <ls n="KĀTY. ŚR.">15,8,16.</ls> <ls n="KĀTY. ŚR.">16,5,22.</ls> <ls n="KĀTY. ŚR.">18,3,13.</ls> <ls n="KĀTY. ŚR. 18,">5,1.</ls> <ls n="KĀTY. ŚR.">19,2,24.</ls> <ls n="KĀTY. ŚR. 19,">7,1.</ls> <ls n="KĀTY. ŚR.">20,2,3.</ls> <ls n="KĀTY. ŚR. 20,">7,6.</ls> <ls n="KĀTY. ŚR. 20,">8,7.</ls> <ls n="KĀTY. ŚR.">21,1,11.</ls> <ls n="KĀTY. ŚR. 21,1,">17.</ls> {#anuvAkAnta#}
+<ls n="KĀTY. ŚR.">18,1,2.</ls> <ls n="KĀTY. ŚR. 18,1,">3.</ls> {#anuvAkaSeza#}
+<ls n="KĀTY. ŚR. 18,">3,12.</ls> {#prAtaranuvAka#}
+<ls>CHĀND. UP. 2,24,3.</ls>
+<ls>AIT. BR. 2,17.</ls> {#yaM vAkezvanuvAkezu nizatsUpanizatsu ca .. gfRanti#}
+<ls>MBH. 12,16113.</ls> <ls n="MBH. 12,">1614.</ls> Wie die Namen derselben gebildet werden
+<ls>P. 5,2,60</ls>-<ls n="P. 5,2,">62.</ls> Der Verfasser schlechtweg in derselben Form vorgesetzt: {#vasizWo 'nuvAkaH . viSvAmitro 'nuvAkaH#}
+<ls>PAT.</ls> zu <ls>P. 4,3,133.</ls>
+<div n="1">— 3) {%Wiederholung%} (eines Wortes u. s. w.): {#dvipadEkapadAnyapyanuvAke (saMkramyante)#}
+<ls>VS. PRĀT. 4,167.</ls>
 <LEND>

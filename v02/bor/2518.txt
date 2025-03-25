@@ -1,8 +1,8 @@
 <L>2518<pc>086<k1>break in or into pieces<k2>break in or into pieces
-<div n="lb"/>{@BREAK IN or INTO PIECES:@}¦ <div n="I">I Trans: {#KaRqaM KaRqaM #}
-<div n="lb"/>{# karoti#} ({#kf,#} c. 8.); </div><div n="1">(2) {#cUrRayati;#} </div><div n="I">II Intrans:</div>
-<div n="lb"/><div n="1">(1) {#KaRqaM KaRqaM Bavati#} ({#BU,#} c. l.), <div n="xe">{%the fruit fell%}
-<div n="lb"/>{%from the king's hand and broke in p.%}</div> <div n="xs">{#PalaM rAjYaH #}
-<div n="lb"/>{# karakamalAnnipatya BagnaM KaRqaM baBUva,#}</div> Vet.; </div><div n="1">(2) {#cUrRitaH#}
-<div n="lb"/>({#tA, taM#}) ({#Bavati#}), H. iv.</div>
+{@BREAK IN or INTO PIECES:@}¦ <div n="I">I Trans: {#KaRqaM KaRqaM #}
+{# karoti#} ({#kf,#} c. 8.); </div><div n="1">(2) {#cUrRayati;#} </div><div n="I">II Intrans:</div>
+<div n="1">(1) {#KaRqaM KaRqaM Bavati#} ({#BU,#} c. l.), <div n="xe">{%the fruit fell%}
+{%from the king's hand and broke in p.%}</div> <div n="xs">{#PalaM rAjYaH #}
+{# karakamalAnnipatya BagnaM KaRqaM baBUva,#}</div> Vet.; </div><div n="1">(2) {#cUrRitaH#}
+({#tA, taM#}) ({#Bavati#}), H. iv.</div>
 <LEND>

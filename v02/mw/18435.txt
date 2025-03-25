@@ -1,9 +1,9 @@
 <L>18435<pc>106,2<k1>avahan<k2>ava-han<e>1
-<s>ava-√ han</s> ¦ (<ab>Subj.</ab> 2. <ab>sg.</ab> <s>-han</s>, <ls>RV. v, 32, 1 and vi, 26, 5</ls>; Imper. 2. <ab>pl.</ab> <s>-hantanA</s>, <ls>RV. ii, 34, 9</ls> Imper. 2. <ab>sg.</ab> <s>-jahi</s>; <ab>impf.</ab> 2. and 3. <ab>sg.</ab> <s>-a/han</s>, or <s>ahan</s>; <ab>perf.</ab> 2. <ab>sg.</ab> <s>-jaGanTa</s>) 
+<s>ava-√ han</s> ¦ (<ab>Subj.</ab> 2. <ab>sg.</ab> <s>-han</s>, <ls>RV. v, 32, 1</ls> and <ls n="RV.">vi, 26, 5</ls>; <ab>Imper.</ab> 2. <ab>pl.</ab> <s>-hantanA</s>, <ls>RV. ii, 34, 9</ls> <ab>Imper.</ab> 2. <ab>sg.</ab> <s>-jahi</s>; <ab>impf.</ab> 2. and 3. <ab>sg.</ab> <s>-a/han</s>, or <s>ahan</s>; <ab>perf.</ab> 2. <ab>sg.</ab> <s>-jaGanTa</s>)
 <div n="to"/>to throw down, strike, hit, <ls>RV.</ls>; <ls>AV.</ls>; <ls>MBh. ii, 915</ls>;
-<div n="vp"/> <ab>Ved.</ab> to drive away, expel, keep off, fend off, <ls>RV.</ls>; <ls>AV.</ls> &c.;
-<div n="vp"/> chiefly <ab>Ved.</ab> to thresh, <ls>RV. i, 195, 2</ls> (<ab>p.</ab> fem. <s>-GnatI</s>), <ls>TS.</ls> &c.:
+<div n="vp"/> <lang>Ved.</lang> to drive away, expel, keep off, fend off, <ls>RV.</ls>; <ls>AV.</ls> &c.;
+<div n="vp"/> chiefly <lang>Ved.</lang> to thresh, <ls>RV. i, 195, 2</ls> (<ab>p.</ab> <ab>fem.</ab> <s>-GnatI</s>), <ls>TS.</ls> &c.:
 <div n="to"/><ab>Ā.</ab> <s>-jiGnate</s>, to throw down, <ls>RV. i, 80, 5</ls>:
-<div n="to"/><ab>Caus.</ab> (Pot <s>-GAtayet</s>) to cause to thresh, <ls>ŚBr. xiv</ls> :
-<div n="to"/><ab>Intens.</ab> (Imper. 2. <ab>sg.</ab> <s>-jaNGanIhi</s>) to drive away, fend off, <ls>AV. v,20,8.</ls><info verb="pre" cp="Ā" parse="ava+han"/>
+<div n="vp"/><ab>Caus.</ab> (<ab>Pot.</ab> <s>-GAtayet</s>) to cause to thresh, <ls>ŚBr. xiv</ls> :
+<div n="vp"/><ab>Intens.</ab> (<ab>Imper.</ab> 2. <ab>sg.</ab> <s>-jaNGanIhi</s>) to drive away, fend off, <ls>AV. v, 20, 8.</ls><info verb="pre" cp="Ā" parse="ava+han"/>
 <LEND>

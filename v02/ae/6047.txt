@@ -1,14 +1,14 @@
 <L>6047<pc>251<k1>lapse<k2>lapse
 {@Lapse,@}¦ {%s.%} {#kramaH, gati#} {%f.,%} {#pravAhaH, pravftti#} {%f.,%} {#a-#}
-<div n="lb"/>{#-tyayaH, atikramaH;#} ‘after a l. of time’
-<div n="lb"/>{#aTa dinezu gacCatsu, kAlakrameRa, gacCatA kA-#}
-<div n="lb"/>{#-lena#}. {@2@} {#sKalitaM, pramAdaH, BramaH#}. {@3@} {#sKalanaM,#}
-<div n="lb"/>{#pAtaH, BraMSaH, cyuti#} {%f.,%} {#patanaM#}. {%-v. i.%} {#kramaSaH#}
-<div n="lb"/>{#yA#} 2 P or {#gam#} 1 P or {#sfp#} 1 P; {#SanEH SanEH#}
-<div n="lb"/>{#ati-i#} 2 P or {#atikram#} 1 U, 4 P. {@2@} {#BraMS#}
-<div n="lb"/>1 A, 4 P, {#cyu#} 1 A, {#pat#} 1 P, {#vical#} 1 P,
-<div n="lb"/>{#vyutkram#}. {@3@} {#sKal#} 1 P, {#pramad#} 4 P, {#Bram#} 1, 4 P.
-<div n="lb"/>{@4@} {#saMkram, apavft#} 1 A. {@-ed,@} {%a.%} {#patita, Brazwa,#}
-<div n="lb"/>&c. {@2@} {#parahastagata, saMkrAMta, apavftta;#} ‘a l.
-<div n="lb"/>suit’ {#niyatavelAtItaM kAryaM#}.
+{#-tyayaH, atikramaH;#} ‘after a l. of time’
+{#aTa dinezu gacCatsu, kAlakrameRa, gacCatA kA-#}
+{#-lena#}. {@2@} {#sKalitaM, pramAdaH, BramaH#}. {@3@} {#sKalanaM,#}
+{#pAtaH, BraMSaH, cyuti#} {%f.,%} {#patanaM#}. {%-v. i.%} {#kramaSaH#}
+{#yA#} 2 P or {#gam#} 1 P or {#sfp#} 1 P; {#SanEH SanEH#}
+{#ati-i#} 2 P or {#atikram#} 1 U, 4 P. {@2@} {#BraMS#}
+1 A, 4 P, {#cyu#} 1 A, {#pat#} 1 P, {#vical#} 1 P,
+{#vyutkram#}. {@3@} {#sKal#} 1 P, {#pramad#} 4 P, {#Bram#} 1, 4 P.
+{@4@} {#saMkram, apavft#} 1 A. {@-ed,@} {%a.%} {#patita, Brazwa,#}
+&c. {@2@} {#parahastagata, saMkrAMta, apavftta;#} ‘a l.
+suit’ {#niyatavelAtItaM kAryaM#}.
 <LEND>

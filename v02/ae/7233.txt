@@ -1,11 +1,11 @@
 <L>7233<pc>313<k1>oblique<k2>oblique
 {@Oblique,@}¦ {%a.%} {#vakra, kuwila, jihma, asarala,#}
-<div n="lb"/>{#tiryac, anfju, vizama;#} ‘o. speech’ {#va-#}
-<div n="lb"/>{#-krokti#} {%f.,%} {#BaMgi-gI#} {%f.,%} {#uparoDavacanaM;#} ‘o.
-<div n="lb"/>case’ {#apraDAnakArakaM#}. {@-ly,@} {%adv.%} {#vakraM, kuwilaM,#}
-<div n="lb"/>{#tiryak, tiraH, sAci, jihmaM#}. {@-ness,@} {%s.%} {#vakratA,#}
-<div n="lb"/>{#kOwilyaM, anfjutA, vEzamyaM;#} ‘o. of sight’
-<div n="lb"/>{#vakradfzwi#} {%f.,%} {#dfzwivakratA;#} ‘o. of conduct’
-<div n="lb"/>{#vimArga-utpaTa-gamanaM, asadAcAraH, satpaTa-#}
-<div n="lb"/>{#-BraMSaH-tyAgaH#}.
+{#tiryac, anfju, vizama;#} ‘o. speech’ {#va-#}
+{#-krokti#} {%f.,%} {#BaMgi-gI#} {%f.,%} {#uparoDavacanaM;#} ‘o.
+case’ {#apraDAnakArakaM#}. {@-ly,@} {%adv.%} {#vakraM, kuwilaM,#}
+{#tiryak, tiraH, sAci, jihmaM#}. {@-ness,@} {%s.%} {#vakratA,#}
+{#kOwilyaM, anfjutA, vEzamyaM;#} ‘o. of sight’
+{#vakradfzwi#} {%f.,%} {#dfzwivakratA;#} ‘o. of conduct’
+{#vimArga-utpaTa-gamanaM, asadAcAraH, satpaTa-#}
+{#-BraMSaH-tyAgaH#}.
 <LEND>

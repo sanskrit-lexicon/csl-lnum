@@ -1,19 +1,18 @@
 <L>99393<pc>7-0188<k1>SibikA<k2>SibikA
-{#SibikA#}¦ <lex>f.</lex> {%Sänfte, Palankin%} 
-<ls>AK. 2, 8, 2, 21.</ls> 
-<ls>H. 758. fg.</ls> 
-<ls>HALĀY. 2, 295.</ls> {#vahanti SibikAmanye yAntyanye SibikAgatAH#} 
-<ls>Spr. (II) 4735.</ls> 
-<ls>MBH. 1, 3352. 3486. 4938. 5323. 3, 12463. 13155. 5, 458.</ls> 
-<ls>HARIV. 3385. 4898. 6953.</ls> 
-<ls>R.2, 76, 14. 19. 92, 35.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 34, 13. 83, 7. 4, 24, 17. 38, 27. fg. 6, 99, 13.</ls> 
-<ls>VARĀH. BṚH. S. 68, 45. 86, 73.</ls> 
-<ls>KATHĀS. 58, 30. 88, 41. 104, 160.</ls> 
-<ls>BHĀG. P. 4, 9, 41. 5, 10, 1. 12, 6. 10, 71, 15.</ls> 
-<ls>MĀRK. P. 18, 44. 46.</ls>
+{#SibikA#}¦ <lex>f.</lex> {%Sänfte, Palankin%}
+<ls>AK. 2,8,2,21.</ls>
+<ls>H. 758. fg.</ls>
+<ls>HALĀY. 2,295.</ls> {#vahanti SibikAmanye yAntyanye SibikAgatAH#}
+<ls>Spr. (II) 4735.</ls>
+<ls>MBH. 1,3352.</ls> <ls n="MBH. 1,">3486.</ls> <ls n="MBH. 1,">4938.</ls> <ls n="MBH. 1,">5323.</ls> <ls n="MBH.">3,12463.</ls> <ls n="MBH. 3,">13155.</ls> <ls n="MBH.">5,458.</ls>
+<ls>HARIV. 3385.</ls> <ls n="HARIV.">4898.</ls> <ls n="HARIV.">6953.</ls>
+<ls>R. 2,76,14.</ls> <ls n="R. 2,76,">19.</ls> <ls n="R. 2,">92,35.</ls>
+<ls>R. GORR. 2,34,13.</ls> <ls n="R. GORR. 2,">83,7.</ls> <ls n="R. GORR.">4,24,17.</ls> <ls n="R. GORR. 4,">38,27. fg.</ls> <ls n="R. GORR.">6,99,13.</ls>
+<ls>VARĀH. BṚH. S. 68,45. 86,73.</ls>
+<ls>KATHĀS. 58,30.</ls> <ls n="KATHĀS.">88,41.</ls> <ls n="KATHĀS.">104,160.</ls>
+<ls>BHĀG. P. 4,9,41.</ls> <ls n="BHĀG. P.">5,10,1.</ls> <ls n="BHĀG. P. 5,">12,6.</ls> <ls n="BHĀG. P.">10,71,15.</ls>
+<ls>MĀRK. P. 18,44. 46.</ls>
 [Page7-0189]
-{#Danadasya#} 
-<ls>78, 18. 108, 3.</ls> Häufig (aber nie in den Bomb. Ausgg.) {#SivikA#} geschrieben.
+{#Danadasya#}
+<ls n="MĀRK. P.">78,18. 108,3.</ls> Häufig (aber nie in den Bomb. Ausgg.) {#SivikA#} geschrieben.
 <LEND>

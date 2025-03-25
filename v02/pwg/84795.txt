@@ -1,27 +1,25 @@
 <L>84795<pc>6-0366<k1>riS<k2>riS
-{#riS#}¦ und {#liS, riSa/ti#} ({#hiMsAyAm#} 
-<ls>DHĀTUP. 28, 126</ls>) und {#liSa/ti#} ({#gatO#} 
-<ls>DHĀTUP. 28, 127</ls>), {#liSa/te; le/Syati#} ({#alpIBAve#}) 
-<ls>DHĀTUP. 26, 70.</ls> {#liliSeH aleSizi; rekzyati#} und {#lekzyati, rezwA#} und {#lezwA, lezwum#} 
-<ls>P. 8, 2, 36. <is>Kār</is>. 5</ls> <ls>?aus SIDDH. K. zu P. 7, 2, 10.</ls> {%rupfen; abreissen%}; daher {%abweiden%},
-<lang n="greek">ἐρέπτομαι:</lang> {#sU\yava^saM ri\SantI^H#} 
-<ls>ṚV. 6, 28, 7.</ls> {#rizwa#} {%gezerrt, aus der Lage gebracht, zerrissen%}: {#takzA^ ri\zwaM ru\taM Bi\zagi^cCati#} 
-<ls>ṚV. 9, 112, 1.</ls> {#rizwaM na yAma\nnapa^ BUtu durma\tiH#} {%ein Bruch am Wagen%} 
-<ls n="ṚV.">1, 131, 7.</ls> {#yatte^ ri\zwaM yatte^ dyu\ttamasti\ pezwra^M ta A\tmani^#} {%wenn dir ein Knochen im Leibe verrenkt oder gebrochen ist%} 
-<ls>AV. 4, 12, 2.</ls> Die beiden ersten Stellen liessen sich auch zu {#riz#} ziehen.
-
-<div n="p">— {#A#} {%abweiden%}: {#u\srA Urja^svatI\roza^DI\rA ri^SantAm#} 
-<ls>ṚV. 10, 169, 1.</ls> {#yada\pAmoza^DInAM pari\MSamA^ri\SAma^he#} 
-<ls n="ṚV.">1, 187, 8.</ls> {#tato na manuzyA ASurna paSava AliliSire#} 
-<ls>ŚAT. BR. 2, 4, 3, 2.</ls>
-
-<div n="p">— {#vi#} med. {%sich ausrecken, aus der Lage gezerrt werden, brechen%} (am Körper), {%zerrissen werden%}: {#yadA\tmani^ ta\nvo^ me\ viri^zwam#} 
-<ls>AV. 7, 57, 1. 6, 53, 3.</ls> {#anu^ mArzwu ta\nvo^ yadvili^zwam#} 
-<ls>VS. 2, 24. 23, 14.</ls> {#sa\pta\da\Sena^ hri\yamA^Ro vya^leSizi . Bi\zajya^ta\ meti^#} 
-<ls>TBR. 1, 5, 11, 2.</ls> {#yadvE ya\jYasya^ krU\raM yadvili^zwa\M tada\nvAha^rati#} 
-<ls>TS. 1, 7, 3, 1. 2, 6, 5, 6.</ls> {#yadvA anI^SAno BA\ramA^da\tte vi vE sa li^Sate#} {%der geht aus den Fugen, bricht zusammen%} 
-<ls>6, 2, 5, 1.</ls> {#yuktaH kzaRute vA vi vA liSate#} 
-<ls>ŚAT. BR. 4, 4, 3, 13. 6, 4, 3, 1.</ls> {#brahmA vilizwaM saMdaDAti#} {%er richtet ein, was aus den Fugen ist%}, 
-<ls>KĀTY. ŚR. 25, 14, 36.</ls> {#yajYasya virizwaM saMdaDAti#} 
-<ls>CHĀND. UP. 4, 17, 4.</ls>
+{#riS#}¦ und {#liS, riSa/ti#} ({#hiMsAyAm#}
+<ls>DHĀTUP. 28,126</ls>) und {#liSa/ti#} ({#gatO#}
+<ls>DHĀTUP. 28,127</ls>), {#liSa/te; le/Syati#} ({#alpIBAve#})
+<ls>DHĀTUP. 26,70.</ls> {#liliSeH aleSizi; rekzyati#} und {#lekzyati, rezwA#} und {#lezwA, lezwum#}
+<ls>P. 8,2,36.</ls> <is>Kār.</is> 5 aus <ls>SIDDH. K.</ls> zu <ls>P. 7,2,10.</ls> {%rupfen; abreissen%}; daher {%abweiden%},
+<lang n="greek">ἐρέπτομαι</lang>: {#sU\yava^saM ri\SantI^H#}
+<ls>ṚV. 6,28,7.</ls> {#rizwa#} {%gezerrt, aus der Lage gebracht, zerrissen%}: {#takzA^ ri\zwaM ru\taM Bi\zagi^cCati#}
+<ls>ṚV. 9,112,1.</ls> {#rizwaM na yAma\nnapa^ BUtu durma\tiH#} {%ein Bruch am Wagen%}
+<ls n="ṚV.">1,131,7.</ls> {#yatte^ ri\zwaM yatte^ dyu\ttamasti\ pezwra^M ta A\tmani^#} {%wenn dir ein Knochen im Leibe verrenkt oder gebrochen ist%}
+<ls>AV. 4,12,2.</ls> Die beiden ersten Stellen liessen sich auch zu {#riz#} ziehen.
+<div n="p">— {#A#} {%abweiden%}: {#u\srA Urja^svatI\roza^DI\rA ri^SantAm#}
+<ls>ṚV. 10,169,1.</ls> {#yada\pAmoza^DInAM pari\MSamA^ri\SAma^he#}
+<ls n="ṚV.">1,187,8.</ls> {#tato na manuzyA ASurna paSava AliliSire#}
+<ls>ŚAT. BR. 2,4,3,2.</ls>
+<div n="p">— {#vi#} med. {%sich ausrecken, aus der Lage gezerrt werden, brechen%} (am Körper), {%zerrissen werden%}: {#yadA\tmani^ ta\nvo^ me\ viri^zwam#}
+<ls>AV. 7,57,1.</ls> <ls n="AV.">6,53,3.</ls> {#anu^ mArzwu ta\nvo^ yadvili^zwam#}
+<ls>VS. 2,24.</ls> <ls n="VS.">23,14.</ls> {#sa\pta\da\Sena^ hri\yamA^Ro vya^leSizi . Bi\zajya^ta\ meti^#}
+<ls>TBR. 1,5,11,2.</ls> {#yadvE ya\jYasya^ krU\raM yadvili^zwa\M tada\nvAha^rati#}
+<ls>TS. 1,7,3,1.</ls> <ls n="TS.">2,6,5,6.</ls> {#yadvA anI^SAno BA\ramA^da\tte vi vE sa li^Sate#} {%der geht aus den Fugen, bricht zusammen%}
+<ls n="TS.">6,2,5,1.</ls> {#yuktaH kzaRute vA vi vA liSate#}
+<ls>ŚAT. BR. 4,4,3,13.</ls> <ls n="ŚAT. BR.">6,4,3,1.</ls> {#brahmA vilizwaM saMdaDAti#} {%er richtet ein, was aus den Fugen ist%},
+<ls>KĀTY. ŚR. 25,14,36.</ls> {#yajYasya virizwaM saMdaDAti#}
+<ls>CHĀND. UP. 4,17,4.</ls>
 <LEND>

@@ -1,5 +1,5 @@
 <L>25594<pc>694-b<k1>ritual<k2>ritual
-<div n="lb"/>RITUAL¦, {%s.%} {#kriyApadDatiH -tI, saMskArapadDatiH#} {%f.,%} {#karmmapadDatiH#} {%f.,%} {#viDipadDatiH#} {%f.,%}
-<div n="lb"/>{#viDAnapadDatiH#} {%f.,%} {#padDatiH -tI, saMskAraSAstraM, viDiSAstraM, kriyAviDiH#} {%m.,%}
-<div n="lb"/>{#viDiH#} {%m.%}
+RITUAL¦, {%s.%} {#kriyApadDatiH -tI, saMskArapadDatiH#} {%f.,%} {#karmmapadDatiH#} {%f.,%} {#viDipadDatiH#} {%f.,%}
+{#viDAnapadDatiH#} {%f.,%} {#padDatiH -tI, saMskAraSAstraM, viDiSAstraM, kriyAviDiH#} {%m.,%}
+{#viDiH#} {%m.%}
 <LEND>

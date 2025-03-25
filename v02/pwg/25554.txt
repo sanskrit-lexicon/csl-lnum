@@ -1,225 +1,207 @@
 <L>25554<pc>2-1026<k1>cint<k2>cint
-{#cint#}¦, {#cinta/yati#} (nach Einigen auch {#ci/ntati#}, welches aber nicht zu belegen ist) 
-<ls>DHĀTUP. 32, 2</ls>; in gebundener Rede sehr häufig auch med., {#cintayAna#} auch in der Prosa 
-<ls>PAÑCAT. 209, 6.</ls> {#cintya#} gerund. 
-<ls>MBH. 3, 14111.</ls> 
-<ls>BENF. Chr. 58, 1.</ls> 
-<ls>HARIV. 10209.</ls> 
-<div n="1"> 1) {%bei sich denken, einen bestimmten Gedanken haben; nachdenken, nachsinnen%}: {#na sanAmnIti cintayan#} 
-<ls>MBH. 1, 1053.</ls> {#dvitIyamidamAScaryamityacintayata#} 
-<ls>3, 13715.</ls> {#kzaRaM sOmya na jIveyaM vinA tAmiti cintaye#} 
-<ls>R. 5, 67, 10.</ls> 
-<ls>PAÑCAT. 1, 14. 209, 6.</ls> {#paSyAmi tAvatko hanti narAnatreti cintayan#} 
-<ls>VID. 211.</ls> {#tAvaccOreRa dfzwA cintitaM ca . ezA sABaraRA kutra gacCati#} 
-<ls>VET. 25, 5. 29, 2. 33, 11.</ls> {#nirmame yozitaM divyaM cintayitvA punaH punaH#} 
-<ls>MBH. 1, 7690.</ls> {#tasya cintayato budDirutpanneyam#} 
-<ls>R. 1, 8, 2.</ls> {#cintayAmAsa ko nvetalloke 'sminpraTayediti#} 
-<ls>4, 1.</ls> {#cintaya tAvat kenApadeSena #}
+{#cint#}¦, {#cinta/yati#} (nach Einigen auch {#ci/ntati#}, welches aber nicht zu belegen ist)
+<ls>DHĀTUP. 32,2</ls>; in gebundener Rede sehr häufig auch med., {#cintayAna#} auch in der Prosa
+<ls>PAÑCAT. 209,6.</ls> {#cintya#} gerund.
+<ls>MBH. 3,14111.</ls>
+<ls>BENF. Chr. 58,1.</ls>
+<ls>HARIV. 10209.</ls>
+<div n="1"> 1) {%bei sich denken, einen bestimmten Gedanken haben; nachdenken, nachsinnen%}: {#na sanAmnIti cintayan#}
+<ls>MBH. 1,1053.</ls> {#dvitIyamidamAScaryamityacintayata#}
+<ls n="MBH.">3,13715.</ls> {#kzaRaM sOmya na jIveyaM vinA tAmiti cintaye#}
+<ls>R. 5,67,10.</ls>
+<ls>PAÑCAT. 1,14.</ls> <ls n="PAÑCAT.">209,6.</ls> {#paSyAmi tAvatko hanti narAnatreti cintayan#}
+<ls>VID. 211.</ls> {#tAvaccOreRa dfzwA cintitaM ca . ezA sABaraRA kutra gacCati#}
+<ls>VET. 25,5. 29,2. 33,11.</ls> {#nirmame yozitaM divyaM cintayitvA punaH punaH#}
+<ls>MBH. 1,7690.</ls> {#tasya cintayato budDirutpanneyam#}
+<ls>R. 1,8,2.</ls> {#cintayAmAsa ko nvetalloke 'sminpraTayediti#}
+<ls n="R. 1,">4,1.</ls> {#cintaya tAvat kenApadeSena #}
 [Page2-1027]
-{# sakfdapyASrame vasAmaH#} 
-<ls>ŚĀK. 27, 1. 37, 3. 66, 17.</ls> {#sA cintayantI budDyATa tarkayAmAsa - kaTam#} 
-<ls>N. 5, 11.</ls> 
-<ls>DAŚ. 2, 2.</ls> {#sA cintaye sadA putra brAhmaRasyAsya kiM tvaham . priyaM kuryAmiti#} 
-<ls>BRĀHMAṆ. 1, 7.</ls> {#manasA cintya#} 
-<ls>MBH.</ls> in <ls>BENF. Chr. 58, 1.</ls> {#sucintya coktam#} 
-<ls>HIT. I, 19.</ls> {#cintayaDvam#} 
-<ls>MBH. 3, 2549.</ls> {#cintayAna#} 
-<ls>2, 1748. 3, 12929.</ls> {#cintayamAna#} 
-<ls>1715.</ls> <ls>R. 1, 4, 2.</ls> 
-<div n="1">— 2) {%an Jmd%} oder {%Etwas denken, nachsinnen über, in Gedanken sich beschäftigen mit, seine Gedanken richten auf%}; 
-<div n="2"> a) mit dem acc.: {#yadyahaM nEzaDAdanyaM manasApi na cintaye#} 
-<ls>MBH. 3, 2399.</ls> 
-<ls>R. 3, 61, 2.</ls> {#na cApyacintayadrakzastvadgatenAntarAtmanA#} 
-<ls>6, 103, 9.</ls> <ls>PAÑCAT. I, 151.</ls> <ls>KATHĀS. 4, 115.</ls> <ls>CAURAP. 1.</ls> <ls>DHŪRTAS. 71, 6.</ls> {#anyo'nyaM cintayataH#} 
-<ls>HIT. 63, 1.</ls> {#tvayEva cintyamAnasya (me)#} 
-<ls>RAGH. 1, 64.</ls> {#tezAM gatimacintayat#} 
-<ls>MBH. 3, 9916.</ls> {#ekAkI cintayennityaM vivikte hitamAtmanaH#} 
-<ls>M. 4, 258. 7, 56. 106. 151.</ls> 
-<ls>YĀJÑ. 1, 115. 311.</ls> 
-<ls>R. 1, 2, 23. 45, 3.</ls> 
-<ls>HIT. Pr. 3.</ls> 
-<ls>ŚĀK. 71, 18.</ls> {#tasmAdasya vaDaM rAjA manasApi na cintayet#} 
-<ls>M. 8, 381.</ls> {#yo na cintayate pApam#} 
-<ls>PAÑCAT. I, 100.</ls> {#BAjane yo ya AhAraScintyate sa sa tizWati#} 
-<ls>KATHĀS. 3, 50.</ls> {#tasmAccOrasyApyupakAriRaH SreyaScintyate#} 
-<ls>PAÑCAT. 182, 1.</ls> {#eza raTaScintita#} ({%sobald man nur seiner gedacht hat%}) {#AkASe yAti#} 
-<ls>VET. 36, 8.</ls> {#cintitopanata#} 
-<ls>VID. 261.</ls> {#cintitopasTita#} 
-<ls>48. 78.</ls> {#yaTAcintitavizayaM gataH#} 
-<ls>PAÑCAT. 226, 18.</ls> {#acintito vaDaH#} {%an den man nicht gedacht hatte, unerwartet%} 
-<ls>II, 3.</ls> <ls>HIT. I, 157.</ls> 
-<div n="2">— b) mit dem dat.: {#manasA cintayAmAsa vAsudevAya#} 
-<ls>HARIV. 5976.</ls> 
-<div n="2">— c) mit dem loc.: {#sutezu dArezu Danezu cintayan#} 
-<ls>BHĀG. P. 5, 19, 14.</ls> 
-<div n="2">— d) mit {#prati#} und acc.: {#cintayAmAsa - devarAjaraTaM prati#} 
-<ls>MBH. 3, 1714.</ls> Vgl. u. {#prati#} . 
-<div n="1">— 3) {%denken an, beachten, berücksichtigen, seine Aufmerksamkeit wenden auf%}, mit einer Neg.: {#na sa taM cintayAmAsa siMhaH krudDo mfgaM yaTA#} 
-<ls>MBH. 2, 1490.</ls> {#aBimAnena mattaH sankaMcinnAnyamacintayam#} 
-<ls>3, 12521.</ls> {#acintayitvA tAnvARAn#} 
-<ls>6, 5459.</ls> <ls>HARIV. 9301.</ls> <ls>R. 6, 75, 40.</ls> {#guRadozamacintya#} 
-<ls>5, 77, 11.</ls> <ls>HIT. I, 177.</ls> 
-<div n="1">— 4) {%ausdenken, ausfindig machen%}: {#cintayitvA tapoviGnamupAyam#} 
-<ls>R. 1, 63, 27.</ls> {#pratIkAraScintyatAm#} 
-<ls>HIT. 13, 19.</ls> {#asmadarTe BavedvAyamupAyaScintito mahAn#} 
-<ls>N. 19, 4.</ls> {#sucintitaM cOzaDamAturARAM na nAmamAtreRa karotyarogam#} 
-<ls>HIT. I, 162.</ls> 
-<div n="1">— 5) {%in Betracht ziehen, behandeln, besprechen%}: {#sTityutpattipralayAScintyante yatra BUtAnAm#} 
-<ls>SĀṂKHYAK. 69.</ls> {#caturTapAde tu - saMdihyamAnAnyavyaktAjAdipadAni cintitAni#} 
-<ls>MADHUS.</ls> in <ls>Ind. St. 1, 19, 22.</ls> 
-<div n="1">— 6) {%von Jmd denken, eine Meinung über Jmd haben, Jmd für Etwas halten%}: {#evaM cintaya mAM deva Bftyo mahyamiti#} 
-<ls>HARIV. 14675.</ls> {#adyAsya (maRivarasya) darSanenAhaM dfzwAM tAmiva cintaye#} {%es kommt mir vor, als wenn ich sie gesehen hätte%}, 
-<ls>R. 5, 67, 7.</ls> {#rAjYISabdaBAjanamAtmAnamapi cintayatu BavatI#} {%bedenke, dass auch du den Titel Königin führst%}, 
-<ls>MĀLAV. 12, 18.</ls> {#na tvAM tfRaM cintayAmi#} {%ich achte dich weniger als einen Grashalm%} 
-<ls>P. 2, 3, 17,</ls> 
-<ls>Sch.</ls> 
+{# sakfdapyASrame vasAmaH#}
+<ls>ŚĀK. 27,1. 37,3. 66,17.</ls> {#sA cintayantI budDyATa tarkayAmAsa — kaTam#}
+<ls>N. 5,11.</ls>
+<ls>DAŚ. 2,2.</ls> {#sA cintaye sadA putra brAhmaRasyAsya kiM tvaham . priyaM kuryAmiti#}
+<ls>BRĀHMAṆ. 1,7.</ls> {#manasA cintya#}
+<ls>MBH.</ls> in <ls>BENF. Chr. 58,1.</ls> {#sucintya coktam#}
+<ls>HIT. I,19.</ls> {#cintayaDvam#}
+<ls>MBH. 3,2549.</ls> {#cintayAna#}
+<ls n="MBH.">2,1748.</ls> <ls n="MBH.">3,12929.</ls> {#cintayamAna#}
+<ls n="MBH. 3,">1715.</ls> <ls>R. 1,4,2.</ls>
+<div n="1">— 2) {%an Jmd%} oder {%Etwas denken, nachsinnen über, in Gedanken sich beschäftigen mit, seine Gedanken richten auf%};
+<div n="2"> a) mit dem acc.: {#yadyahaM nEzaDAdanyaM manasApi na cintaye#}
+<ls>MBH. 3,2399.</ls>
+<ls>R. 3,61,2.</ls> {#na cApyacintayadrakzastvadgatenAntarAtmanA#}
+<ls n="R.">6,103,9.</ls> <ls>PAÑCAT. I,151.</ls> <ls>KATHĀS. 4,115.</ls> <ls>CAURAP. 1.</ls> <ls>DHŪRTAS. 71,6.</ls> {#anyo'nyaM cintayataH#}
+<ls>HIT. 63,1.</ls> {#tvayEva cintyamAnasya (me)#}
+<ls>RAGH. 1,64.</ls> {#tezAM gatimacintayat#}
+<ls>MBH. 3,9916.</ls> {#ekAkI cintayennityaM vivikte hitamAtmanaH#}
+<ls>M. 4,258.</ls> <ls n="M.">7,56.</ls> <ls n="M. 7,">106.</ls> <ls n="M. 7,">151.</ls>
+<ls>YĀJÑ. 1,115. 311.</ls>
+<ls>R. 1,2,23.</ls> <ls n="R. 1,">45,3.</ls>
+<ls>HIT. Pr. 3.</ls>
+<ls>ŚĀK. 71,18.</ls> {#tasmAdasya vaDaM rAjA manasApi na cintayet#}
+<ls>M. 8,381.</ls> {#yo na cintayate pApam#}
+<ls>PAÑCAT. I,100.</ls> {#BAjane yo ya AhAraScintyate sa sa tizWati#}
+<ls>KATHĀS. 3,50.</ls> {#tasmAccOrasyApyupakAriRaH SreyaScintyate#}
+<ls>PAÑCAT. 182,1.</ls> {#eza raTaScintita#} ({%sobald man nur seiner gedacht hat%}) {#AkASe yAti#}
+<ls>VET. 36,8.</ls> {#cintitopanata#}
+<ls>VID. 261.</ls> {#cintitopasTita#}
+<ls n="VID.">48. 78.</ls> {#yaTAcintitavizayaM gataH#}
+<ls>PAÑCAT. 226,18.</ls> {#acintito vaDaH#} {%an den man nicht gedacht hatte, unerwartet%}
+<ls n="PAÑCAT.">II,3.</ls> <ls>HIT. I,157.</ls>
+<div n="2">— b) mit dem dat.: {#manasA cintayAmAsa vAsudevAya#}
+<ls>HARIV. 5976.</ls>
+<div n="2">— c) mit dem loc.: {#sutezu dArezu Danezu cintayan#}
+<ls>BHĀG. P. 5,19,14.</ls>
+<div n="2">— d) mit {#prati#} und acc.: {#cintayAmAsa — devarAjaraTaM prati#}
+<ls>MBH. 3,1714.</ls> Vgl. u. {#prati#} .
+<div n="1">— 3) {%denken an, beachten, berücksichtigen, seine Aufmerksamkeit wenden auf%}, mit einer Neg.: {#na sa taM cintayAmAsa siMhaH krudDo mfgaM yaTA#}
+<ls>MBH. 2,1490.</ls> {#aBimAnena mattaH sankaMcinnAnyamacintayam#}
+<ls n="MBH.">3,12521.</ls> {#acintayitvA tAnvARAn#}
+<ls n="MBH.">6,5459.</ls> <ls>HARIV. 9301.</ls> <ls>R. 6,75,40.</ls> {#guRadozamacintya#}
+<ls n="R.">5,77,11.</ls> <ls>HIT. I,177.</ls>
+<div n="1">— 4) {%ausdenken, ausfindig machen%}: {#cintayitvA tapoviGnamupAyam#}
+<ls>R. 1,63,27.</ls> {#pratIkAraScintyatAm#}
+<ls>HIT. 13,19.</ls> {#asmadarTe BavedvAyamupAyaScintito mahAn#}
+<ls>N. 19,4.</ls> {#sucintitaM cOzaDamAturARAM na nAmamAtreRa karotyarogam#}
+<ls>HIT. I,162.</ls>
+<div n="1">— 5) {%in Betracht ziehen, behandeln, besprechen%}: {#sTityutpattipralayAScintyante yatra BUtAnAm#}
+<ls>SĀṂKHYAK. 69.</ls> {#caturTapAde tu — saMdihyamAnAnyavyaktAjAdipadAni cintitAni#}
+<ls>MADHUS.</ls> in <ls>Ind. St. 1,19,22.</ls>
+<div n="1">— 6) {%von Jmd denken, eine Meinung über Jmd haben, Jmd für Etwas halten%}: {#evaM cintaya mAM deva Bftyo mahyamiti#}
+<ls>HARIV. 14675.</ls> {#adyAsya (maRivarasya) darSanenAhaM dfzwAM tAmiva cintaye#} {%es kommt mir vor, als wenn ich sie gesehen hätte%},
+<ls>R. 5,67,7.</ls> {#rAjYISabdaBAjanamAtmAnamapi cintayatu BavatI#} {%bedenke, dass auch du den Titel Königin führst%},
+<ls>MĀLAV. 12,18.</ls> {#na tvAM tfRaM cintayAmi#} {%ich achte dich weniger als einen Grashalm%}
+<ls>P. 2,3,17</ls>, <ls>Sch.</ls>
 <div n="v">— Vgl. das ältere 4. {#cit#} .
-
-<div n="p">— {#anu#} 
-<div n="1"> 1) {%bei sich denken%} 
-<ls>HARIV. 9216.</ls> {%nachdenken, überlegen%} 
-<ls>R. 1, 15, 23.</ls> 
-<div n="1">— 2) {%Jmdes gedenken, über Etwas nachsinnen, in Gedanken sich vorführen%}; mit dem acc.: {#vEdarBImanucintayan#} 
-<ls>MBH. 3, 2642.</ls> {#paramaM puruzaM divyaM yAti pArTAnucintayan#} 
-<ls>BHAG. 8, 8.</ls> 
-<ls>R. 2, 39, 3. 41, 16. 4, 29, 6. 5, 20, 5.</ls> 
-<ls>CAURAP. 18. 25.</ls> 
-<ls>BHĀG. P. 4, 8, 70.</ls> {#DarmArTO cAnucintayet#} 
-<ls>M. 4, 92.</ls> 
-<ls>MBH. 1, 3402. 2, 1680. 3, 3070.</ls> {#etadbudDyAnucintaya#} 
-<ls>16613.</ls> <ls>HARIV. 5887.</ls> <ls>R. 4, 8, 41.</ls> {#hitam - sEnyAnAmanucintaya#} 
-<ls>6, 21, 35.</ls> <ls>ŚĀK. 42.</ls> <ls>GĪT. 9, 1.</ls> <ls>BHĀG. P. 4, 7, 2.</ls> — caus. {%Jmd über Etwas nachsinnen lassen%}: {#tato vayaM BagavatA bahavo DarmAH - anucintayitAH#} 
-<ls>SADDH. P. 4, 27</ls>,a. 
+<div n="p">— {#anu#}
+<div n="1"> 1) {%bei sich denken%}
+<ls>HARIV. 9216.</ls> {%nachdenken, überlegen%}
+<ls>R. 1,15,23.</ls>
+<div n="1">— 2) {%Jmdes gedenken, über Etwas nachsinnen, in Gedanken sich vorführen%}; mit dem acc.: {#vEdarBImanucintayan#}
+<ls>MBH. 3,2642.</ls> {#paramaM puruzaM divyaM yAti pArTAnucintayan#}
+<ls>BHAG. 8,8.</ls>
+<ls>R. 2,39,3.</ls> <ls n="R. 2,">41,16.</ls> <ls n="R.">4,29,6.</ls> <ls n="R.">5,20,5.</ls>
+<ls>CAURAP. 18. 25.</ls>
+<ls>BHĀG. P. 4,8,70.</ls> {#DarmArTO cAnucintayet#}
+<ls>M. 4,92.</ls>
+<ls>MBH. 1,3402.</ls> <ls n="MBH.">2,1680.</ls> <ls n="MBH.">3,3070.</ls> {#etadbudDyAnucintaya#}
+<ls n="MBH. 3,">16613.</ls> <ls>HARIV. 5887.</ls> <ls>R. 4,8,41.</ls> {#hitam — sEnyAnAmanucintaya#}
+<ls n="R.">6,21,35.</ls> <ls>ŚĀK. 42.</ls> <ls>GĪT. 9,1.</ls> <ls>BHĀG. P. 4,7,2.</ls> — caus. {%Jmd über Etwas nachsinnen lassen%}: {#tato vayaM BagavatA bahavo DarmAH — anucintayitAH#}
+<ls>SADDH. P. 4,27,a.</ls>
 <div n="v">— Vgl. {#anucintana#} .
-
 <div n="p">— {#samanu#} {%Jmdes gedenken, über Etwas nachsinnen%}: {#gaNgAM samanucintayat#}
 [Page2-1028]
-
-<ls>MBH. 3, 9952.</ls> {#vedAnbudDyA samanucintaya#} 
-<ls>12, 12393.</ls>
-
-<div n="p">— {#aBi#} {%über Etwas nachsinnen%} 
-<ls>MBH. 13, 4341.</ls>
-
-<div n="p">— {#vyA#}, {#vyAcintayat#} 
-<ls>PAÑCAT. 104, 16</ls> fehlerhaft für {#vyaci°#} .
-
+<ls>MBH. 3,9952.</ls> {#vedAnbudDyA samanucintaya#}
+<ls n="MBH.">12,12393.</ls>
+<div n="p">— {#aBi#} {%über Etwas nachsinnen%}
+<ls>MBH. 13,4341.</ls>
+<div n="p">— {#vyA#}, {#vyAcintayat#}
+<ls>PAÑCAT. 104,16</ls> fehlerhaft für {#vyaci°#} .
 <div n="p">— {#nis#} s. {#aniScintya#} .
-
-<div n="p">— {#pari#} 
-<div n="1"> 1) {%bei sich denken%} 
-<ls>BHĀG. P. 6, 18, 22.</ls> {%hin und her sinnen, reiflich überlegen%}: {#evaM vicArya bahuSo vArzReyaH paryacintayat . hfdayena#} 
-<ls>N. 19, 28.</ls> {#paricintya tu pArTena saMnipAto na naH kzamaH#} 
-<ls>MBH. 4, 1534.</ls> {#sadA paricintayan#} 
-<ls>BHAG. 10, 17.</ls> {#tvameva tAvatparicintaya svayaM kadAcidete yadi yogamarhataH#} 
-<ls>KUMĀRAS. 5, 67.</ls> 
-<div n="1">— 2) {%Jmdes gedenken, über Etwas nachsinnen%}: {#tvAmeva nityaM paricintayan#} 
-<ls>R. 5, 34, 23.</ls> {#kAyamaByantaraM kftsnamekAgraH paricintayet#} 
-<ls>MBH. 14, 568.</ls> {#yaTA DarmamavApnozi tatkfzRa paricintyatAm#} 
-<ls>HARIV. 4409. 10076.</ls> 
-<ls>RĀJA-TAR. 1, 23.</ls> 
-<div n="1">— 3) {%ausdenken, ausfindig machen%}: {#upAyo nirapAyo 'yamasmABiH paricintitaH#} 
-<ls>R. 1, 9, 2.</ls>
-
-<div n="p">— {#saMpari#} {%ausdenken%}: {#atropAyo yaTAvattu mayA saMparicintitaH#} 
-<ls>R. 6, 22, 10.</ls>
-
-<div n="p">— {#pra#} 
-<div n="1"> 1) {%nachsinnen%} 
-<ls>R. 3, 37, 24.</ls> {#tatpracintaya kAkutsTa hanyetEkezuRA yaTA#} 
-<ls>4, 8, 8.</ls> 
-<div n="1">— 2) {%Etwas denken, nachdenken über, sinnen über%}: {#iti pracintya tat#} 
-<ls>MBH. 3, 12231.</ls> {#nEkaH svArTAnpracintayet#} 
-<ls>PAÑCAT. V, 88.</ls> {#manasApi svajAtyAnAM yo 'nizwAni pracintayet#} 
-<ls>I, 332.</ls> 
-<div n="1">— 3) {%ausdenken, ausfindig machen%}: {#upAyo 'nyaH pracintyatAm#} 
-<ls>MBH. 3, 8820.</ls> {#vAsaScEzAM pracintyatAm#} 
-<ls>4, 908.</ls>
-
-<div n="p">— {#vipra#} {%gedenken%}: {#duHKAni dattAnyapi vipracintya#} 
-<ls>MBH. 8, 4230.</ls>
-
-<div n="p">— {#prati#} dass.: {#tasyASca rAmaM praticintayantyAH patyuH kulaM svaM ca kulam#} 
-<ls>R. 5, 28, 11. 33, 39</ls> <ls>?(med.). CAURAP. 22.</ls>
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%unterscheiden, wahrnehmen%}: {#BUtezu BUtezu vicintya DIrAH pretyAsmAllokAdamftA Bavanti#} 
-<ls>KENOP. 13.</ls> 
-<div n="1">— 2) {%bei sich denken, überlegen, nachsinnen%}: {#vicintyEvam#} 
-<ls>N. 10, 17.</ls> 
-<ls>R. 5, 30, 15.</ls> 
-<ls>PAÑCAT. 23, 10. 33, 5. 104, 16.</ls> 
-<ls>VID. 98. 108. 263.</ls> {#kzaRaM vicintya#} 
-<ls>HIT. 29, 19. 43, 1.</ls> 
-<ls>ŚĀK. 30, 3. 36, 3.</ls> 
-<ls>VIKR. 4, 2.</ls> 
-<ls>VID. 70.</ls> 
-<ls>RĀJA-TAR. 5, 307.</ls> 
-<ls>DHŪRTAS. 76, 3.</ls> 
-<div n="1">— 3) {%an Jmd%} oder {%Etwas denken, nachsinnen über, sich in Gedanken womit beschäftigen%}; mit dem acc.: {#taTEvAryaM vicintayan#} 
-<ls>R. 2, 89, 4. 3, 79, 19.</ls> 
-<ls>ŚĀK. 76.</ls> 
-<ls>MĀLAV. 78.</ls> {#(tasya) taM vicintayataH SApam#} 
-<ls>MBH. 1, 4885. 3, 1876.</ls> {#tamevArTaM vicintayan#} 
-<ls>2, 1647. 3, 16691.</ls> {#manasedaM vyacintayam#} 
-<ls>1, 5190.</ls> {#tena mftyuM vicintaye#} 
-<ls>MBH. 2, 1696.</ls> 
-<ls>R. 2, 83, 26.</ls> {#sa ca viBavakzayAddeSAntaragamanaM vyacintayat#} 
-<ls>PAÑCAT. 99, 20. I, 113.</ls> mit dem infin. 
-<ls>R. 6, 82, 94.</ls> 
-<div n="1">— 4) {%in Betracht ziehen, berücksichtigen, beachten%}: {#asmAnsADu vicintya saMyamaDanAnuccEHkulaM cAtmanastvayyasyAH kaTamapyabAnDavakftAM snehapravfttiM ca tAm#} 
-<ls>ŚĀK. 92.</ls> {#etAnguRAnsapta vicintya deyA kanyA#} 
-<ls>PAÑCAT. III, 221.</ls> {#aho vayaM DanyatamAH yadatra tyaktAH pitfByAM na vicintayAmaH#} {%dass wir uns darum nicht kümmern%} 
-<ls>BHĀG. P. 7, 2, 38.</ls> {#na cApi darSanaM dUre tasyA vApyA vicintaye#} 
-<ls>R. 3, 78, 11.</ls> {#sendrAnapi surAnpudDe samastAnna vicintaye#} 
-<ls>40, 21.</ls> 
-<div n="1">— 5) {%ausdenken, ausfindig machen%}: {#vanamanyadvicintyatAm#} 
-<ls>MBH. 3, 1445.</ls> {#tadvicintyatAM vinipAtapratIkAraH#} 
-<ls>PAÑCAT. 92, 6.</ls> 
-<div n="1">— 6) {%sich Etwas vorstellen%}: {#etAvA~llokavinyAso mAnalakzaRasaMsTABirvicintitaH kaviBiH#} 
-<ls>BHĀG. P. 5, 20, 38.</ls> 
+<div n="p">— {#pari#}
+<div n="1"> 1) {%bei sich denken%}
+<ls>BHĀG. P. 6,18,22.</ls> {%hin und her sinnen, reiflich überlegen%}: {#evaM vicArya bahuSo vArzReyaH paryacintayat . hfdayena#}
+<ls>N. 19,28.</ls> {#paricintya tu pArTena saMnipAto na naH kzamaH#}
+<ls>MBH. 4,1534.</ls> {#sadA paricintayan#}
+<ls>BHAG. 10,17.</ls> {#tvameva tAvatparicintaya svayaM kadAcidete yadi yogamarhataH#}
+<ls>KUMĀRAS. 5,67.</ls>
+<div n="1">— 2) {%Jmdes gedenken, über Etwas nachsinnen%}: {#tvAmeva nityaM paricintayan#}
+<ls>R. 5,34,23.</ls> {#kAyamaByantaraM kftsnamekAgraH paricintayet#}
+<ls>MBH. 14,568.</ls> {#yaTA DarmamavApnozi tatkfzRa paricintyatAm#}
+<ls>HARIV. 4409.</ls> <ls n="HARIV.">10076.</ls>
+<ls>RĀJA-TAR. 1,23.</ls>
+<div n="1">— 3) {%ausdenken, ausfindig machen%}: {#upAyo nirapAyo 'yamasmABiH paricintitaH#}
+<ls>R. 1,9,2.</ls>
+<div n="p">— {#saMpari#} {%ausdenken%}: {#atropAyo yaTAvattu mayA saMparicintitaH#}
+<ls>R. 6,22,10.</ls>
+<div n="p">— {#pra#}
+<div n="1"> 1) {%nachsinnen%}
+<ls>R. 3,37,24.</ls> {#tatpracintaya kAkutsTa hanyetEkezuRA yaTA#}
+<ls n="R.">4,8,8.</ls>
+<div n="1">— 2) {%Etwas denken, nachdenken über, sinnen über%}: {#iti pracintya tat#}
+<ls>MBH. 3,12231.</ls> {#nEkaH svArTAnpracintayet#}
+<ls>PAÑCAT. V,88.</ls> {#manasApi svajAtyAnAM yo 'nizwAni pracintayet#}
+<ls n="PAÑCAT.">I,332.</ls>
+<div n="1">— 3) {%ausdenken, ausfindig machen%}: {#upAyo 'nyaH pracintyatAm#}
+<ls>MBH. 3,8820.</ls> {#vAsaScEzAM pracintyatAm#}
+<ls n="MBH.">4,908.</ls>
+<div n="p">— {#vipra#} {%gedenken%}: {#duHKAni dattAnyapi vipracintya#}
+<ls>MBH. 8,4230.</ls>
+<div n="p">— {#prati#} dass.: {#tasyASca rAmaM praticintayantyAH patyuH kulaM svaM ca kulam#}
+<ls>R. 5,28,11.</ls> <ls n="R. 5,">33,39</ls> (med.). <ls>CAURAP. 22.</ls>
+<div n="p">— {#vi#}
+<div n="1"> 1) {%unterscheiden, wahrnehmen%}: {#BUtezu BUtezu vicintya DIrAH pretyAsmAllokAdamftA Bavanti#}
+<ls>KENOP. 13.</ls>
+<div n="1">— 2) {%bei sich denken, überlegen, nachsinnen%}: {#vicintyEvam#}
+<ls>N. 10,17.</ls>
+<ls>R. 5,30,15.</ls>
+<ls>PAÑCAT. 23,10.</ls> <ls n="PAÑCAT.">33,5.</ls> <ls n="PAÑCAT.">104,16.</ls>
+<ls>VID. 98. 108. 263.</ls> {#kzaRaM vicintya#}
+<ls>HIT. 29,19.</ls> <ls n="HIT.">43,1.</ls>
+<ls>ŚĀK. 30,3.</ls> <ls n="ŚĀK.">36,3.</ls>
+<ls>VIKR. 4,2.</ls>
+<ls>VID. 70.</ls>
+<ls>RĀJA-TAR. 5,307.</ls>
+<ls>DHŪRTAS. 76,3.</ls>
+<div n="1">— 3) {%an Jmd%} oder {%Etwas denken, nachsinnen über, sich in Gedanken womit beschäftigen%}; mit dem acc.: {#taTEvAryaM vicintayan#}
+<ls>R. 2,89,4.</ls> <ls n="R.">3,79,19.</ls>
+<ls>ŚĀK. 76.</ls>
+<ls>MĀLAV. 78.</ls> {#(tasya) taM vicintayataH SApam#}
+<ls>MBH. 1,4885.</ls> <ls n="MBH.">3,1876.</ls> {#tamevArTaM vicintayan#}
+<ls n="MBH.">2,1647.</ls> <ls n="MBH.">3,16691.</ls> {#manasedaM vyacintayam#}
+<ls n="MBH.">1,5190.</ls> {#tena mftyuM vicintaye#}
+<ls>MBH. 2,1696.</ls>
+<ls>R. 2,83,26.</ls> {#sa ca viBavakzayAddeSAntaragamanaM vyacintayat#}
+<ls>PAÑCAT. 99,20. I,113.</ls> mit dem infin.
+<ls>R. 6,82,94.</ls>
+<div n="1">— 4) {%in Betracht ziehen, berücksichtigen, beachten%}: {#asmAnsADu vicintya saMyamaDanAnuccEHkulaM cAtmanastvayyasyAH kaTamapyabAnDavakftAM snehapravfttiM ca tAm#}
+<ls>ŚĀK. 92.</ls> {#etAnguRAnsapta vicintya deyA kanyA#}
+<ls>PAÑCAT. III,221.</ls> {#aho vayaM DanyatamAH yadatra tyaktAH pitfByAM na vicintayAmaH#} {%dass wir uns darum nicht kümmern%}
+<ls>BHĀG. P. 7,2,38.</ls> {#na cApi darSanaM dUre tasyA vApyA vicintaye#}
+<ls>R. 3,78,11.</ls> {#sendrAnapi surAnpudDe samastAnna vicintaye#}
+<ls n="R. 3,">40,21.</ls>
+<div n="1">— 5) {%ausdenken, ausfindig machen%}: {#vanamanyadvicintyatAm#}
+<ls>MBH. 3,1445.</ls> {#tadvicintyatAM vinipAtapratIkAraH#}
+<ls>PAÑCAT. 92,6.</ls>
+<div n="1">— 6) {%sich Etwas vorstellen%}: {#etAvA~llokavinyAso mAnalakzaRasaMsTABirvicintitaH kaviBiH#}
+<ls>BHĀG. P. 5,20,38.</ls>
 <div n="v">— Vgl. {#vicintana#} fgg.
-
-<div n="p">— {#anuvi#} {%in der Erinnerung zurückrufen%}: {#tAmeva daridracintAmanuvicintayamAnaH#} 
-<ls>SADDH. P.4,24,b.</ls>
-
-<div n="p">— {#pravi#} {%denken an, nachsinnen über%}: {#sA tu rUpaM ca ganDaM ca maharzeH pravicintya tam#} 
-<ls>MBH. 1, 4296.</ls> {#aDyAtmagatim#} 
-<ls>12, 13722.</ls> {#sarvaTA sAgarajale #}
+<div n="p">— {#anuvi#} {%in der Erinnerung zurückrufen%}: {#tAmeva daridracintAmanuvicintayamAnaH#}
+<ls>SADDH. P. 4,24,b.</ls>
+<div n="p">— {#pravi#} {%denken an, nachsinnen über%}: {#sA tu rUpaM ca ganDaM ca maharzeH pravicintya tam#}
+<ls>MBH. 1,4296.</ls> {#aDyAtmagatim#}
+<ls n="MBH.">12,13722.</ls> {#sarvaTA sAgarajale #}
 [Page2-1029]
-{# saMtAraM pravicintaya#} 
-<ls>R. 5, 66, 33.</ls>
-
-<div n="p">— {#sam#} 
-<div n="1"> 1) {%denken, bei sich denken, nachdenken, überlegen%}: {#caturTe 'hani martavyamiti saMcintya#} 
-<ls>SĀV. 4, 3.</ls> {#dEvamiti saMcintya#} 
-<ls>PAÑCAT. II, 147.</ls> {#sa evaM citte saMcintitavAn#} 
-<ls>197, 19.</ls> {#manasA samacintayam#} 
-<ls>MBH.</ls> in <ls>BENF. Chr. 37, 2. N. 21, 23.</ls> {#evaM saMcintayitvA#} 
-<ls>HARIV. 8023.</ls> 
-<ls>N. 5, 13.</ls> {#iti saMcintya#} 
-<ls>MBH.</ls> in <ls>BENF. Chr. 54, 16.</ls> <ls>HIT. 14, 8.</ls> <ls>KATHĀS. 5, 7.</ls> <ls>VID. 175. 242.</ls> <ls>RĀJA-TAR. 5, 312.</ls> {#sADu saMcintya#} 
-<ls>MBH. 4, 908.</ls> {#saMcintayitvA nipuRam#} 
-<ls>R. 6, 7, 4.</ls> {#tatsaMcintyAnyaH kaScidrAjA vihaMgAnAM kriyatAm#} 
-<ls>PAÑCAT. 157, 20.</ls> {#tadyaTA hyasya kAryasya na BavedanyaTA gatiH . yUyaM hi budDiSAstrajYAH saMcintayitumarhaTa ..#} 
-<ls>R. 5, 1, 86.</ls> 
-<div n="1">— 2) {%an Jmd%} oder {%Etwas denken, gedenken, sinnen auf, sich in Gedanken womit beschäftigen, bedenken%}; mit dem acc.: {#mAM hi saMcintayantI#} 
-<ls>R. 2, 38, 16.</ls> {#budDyA saMcintya vAnarAn#} 
-<ls>5, 1, 90. 30, 17.</ls> <ls>CAURAP. 33.</ls> <ls>CĀT. 7.</ls> {#saMcintayedBagavataScaraRAravindam#} 
-<ls>BHĀG. P. 3, 28, 21.</ls> {#gurulAGavam#} 
-<ls>M. 9, 299.</ls> {#karmaPalodayam#} 
-<ls>11, 231.</ls> <ls>YĀJÑ. 1, 359.</ls> {#kartavyasya viniScayam#} 
-<ls>MBH. 1, 7687.</ls> {#DarmArTO#} 
-<ls>2, 219. 1653.</ls> <ls>BENF. Chr. 39, 1.</ls> <ls>DRAUP. 3, 9.</ls> {#saMcintya gItakzamamarTabanDam#} 
-<ls>ŚĀK. 164.</ls> {#etatsaMcintya manasA#} 
-<ls>R. 3, 50, 25. 48, 17.</ls> {#te 'pi SAstrARi saMcintya procuH#} 
-<ls>PAÑCAT. 255, 3.</ls> 
-<div n="1">— 3) {%Jmd zu Etwas bestimmen%}: {#Baratastu - yadA BagavatAvanitalaparipAlanAya saMcintitaH#} 
-<ls>BHĀG. P. 5, 7, 1.</ls>
-
-<div n="p">— {#anusam#} {%nachsinnen%}: {#muhUrtamanusaMcintya#} 
-<ls>MBH. 14, 59.</ls>
-
-<div n="p">— {#aBisam#} {%gedenken%}: {#tannUnamaBisaMcintya#} 
-<ls>MBH. 7, 5551.</ls>
+{# saMtAraM pravicintaya#}
+<ls>R. 5,66,33.</ls>
+<div n="p">— {#sam#}
+<div n="1"> 1) {%denken, bei sich denken, nachdenken, überlegen%}: {#caturTe 'hani martavyamiti saMcintya#}
+<ls>SĀV. 4,3.</ls> {#dEvamiti saMcintya#}
+<ls>PAÑCAT. II,147.</ls> {#sa evaM citte saMcintitavAn#}
+<ls n="PAÑCAT.">197,19.</ls> {#manasA samacintayam#}
+<ls>MBH.</ls> in <ls>BENF. Chr. 37,2.</ls> <ls>N. 21,23.</ls> {#evaM saMcintayitvA#}
+<ls>HARIV. 8023.</ls>
+<ls>N. 5,13.</ls> {#iti saMcintya#}
+<ls>MBH.</ls> in <ls>BENF. Chr. 54,16.</ls> <ls>HIT. 14,8.</ls> <ls>KATHĀS. 5,7.</ls> <ls>VID. 175. 242.</ls> <ls>RĀJA-TAR. 5,312.</ls> {#sADu saMcintya#}
+<ls>MBH. 4,908.</ls> {#saMcintayitvA nipuRam#}
+<ls>R. 6,7,4.</ls> {#tatsaMcintyAnyaH kaScidrAjA vihaMgAnAM kriyatAm#}
+<ls>PAÑCAT. 157,20.</ls> {#tadyaTA hyasya kAryasya na BavedanyaTA gatiH . yUyaM hi budDiSAstrajYAH saMcintayitumarhaTa ..#}
+<ls>R. 5,1,86.</ls>
+<div n="1">— 2) {%an Jmd%} oder {%Etwas denken, gedenken, sinnen auf, sich in Gedanken womit beschäftigen, bedenken%}; mit dem acc.: {#mAM hi saMcintayantI#}
+<ls>R. 2,38,16.</ls> {#budDyA saMcintya vAnarAn#}
+<ls n="R.">5,1,90.</ls> <ls n="R. 5,">30,17.</ls> <ls>CAURAP. 33.</ls> <ls>CĀT. 7.</ls> {#saMcintayedBagavataScaraRAravindam#}
+<ls>BHĀG. P. 3,28,21.</ls> {#gurulAGavam#}
+<ls>M. 9,299.</ls> {#karmaPalodayam#}
+<ls n="M.">11,231.</ls> <ls>YĀJÑ. 1,359.</ls> {#kartavyasya viniScayam#}
+<ls>MBH. 1,7687.</ls> {#DarmArTO#}
+<ls n="MBH.">2,219.</ls> <ls n="MBH. 2,">1653.</ls> <ls>BENF. Chr. 39,1.</ls> <ls>DRAUP. 3,9.</ls> {#saMcintya gItakzamamarTabanDam#}
+<ls>ŚĀK. 164.</ls> {#etatsaMcintya manasA#}
+<ls>R. 3,50,25.</ls> <ls n="R. 3,">48,17.</ls> {#te 'pi SAstrARi saMcintya procuH#}
+<ls>PAÑCAT. 255,3.</ls>
+<div n="1">— 3) {%Jmd zu Etwas bestimmen%}: {#Baratastu — yadA BagavatAvanitalaparipAlanAya saMcintitaH#}
+<ls>BHĀG. P. 5,7,1.</ls>
+<div n="p">— {#anusam#} {%nachsinnen%}: {#muhUrtamanusaMcintya#}
+<ls>MBH. 14,59.</ls>
+<div n="p">— {#aBisam#} {%gedenken%}: {#tannUnamaBisaMcintya#}
+<ls>MBH. 7,5551.</ls>
 <LEND>

@@ -1,76 +1,74 @@
-<L>96287<pc>5227-3<k1>lI<k2>lI<h>1<e>500
-1. {#lI#}¦
-<div n="1">— 1) {#*linAti#} ( {#SlezaRe#}) {%sich Etwas anheften%} , so v.a. {%theilhaftig werden.%}
-<div n="1">— 2) {#*layati#} {%sich ergiessen in%} (<ab>Loc.</ab>).
-<div n="1">— 3) {#lI/yate#}.
-<div n="2">— a) {%sich schmiegen an , sich andrücken , hängen an%} (in übertragener Bed.) ; mit <ab>Loc.</ab> {#lIna#} {%liegend an%} (im Comp. vorangehend) , {%ganz hingegeben einer Sache%} (<ab>Loc.</ab> oder im Comp. vorangehend).
-<div n="2">— b) {%stecken bleiben , stocken.%} {#lIna#} {%stecken geblieben%} ; {#danta°#} {%worin die Zähne stecken.%}
-<div n="2">— c) {%sich niedersetzen , sich setzen auf%} oder {%in%} (von Vögeln und Insecten <ls>297,19</ls> ; gleichsam {%sich anheften%} ) , {%sich legen auf%} (ein Lager) ; mit <ab>Loc.</ab> {#lIna#} {%sitzend auf oder in%} (im Comp. vorangehend).
-<div n="2">— d) {%sich ducken , kauern , sich verstecken , hineinschlüpfen — , verschwinden — , aufgehen in%} (<ab>Loc.</ab>). {#lIna#} (auch <lex>n.</lex> impers.) {%sich versteckt habend , versteckt%} (auch in übertragener Bed.) , {%steckend — , verborgen — , hineingeschlüpft — , verschwunden — , aufgegangen in%} (<ab>Loc.</ab> oder im Comp. vorangehend). — {#gfDrARi#} {#lIyante#} <ls>MBH.6,5203</ls> fehlerhaft für {#gfDrA#} {#nilIyante#} ; {#lIna#} auch mit {#nIla#} verwechselt.
-<div n="m">— *<ab>Caus.</ab> {#lApayati#} ( {#saMmAnaSAlInIkaraRayoH#} , {#pralamBane#} , {#pUjABiBave#}.
-<div n="p">— Mit {#anu#} ( {#°lIyate#}) {%nach Etwas%} (<ab>Acc.</ab>) {%verschwinden.%}
-<div n="p">— Mit {#apa#} <ab>Caus.</ab> ( {#°lApayate#}) {%Jmd demüthigen%} oder {%anführen , hintergehen%} <ls>BHAṬṬ.</ls>
-<div n="p">— Mit {#aBi#} ( {#°lIyate#})
-<div n="1">— 1) {%sich schmiegen an%} (<ab>Acc.</ab>) {#aBilIna#} {%angeschmiegt.%}
-<div n="1">— 2) {%sich setzen auf oder in%} (von Vögeln und Insecten). {#aBilIna#} {%besetzt von%} (im Comp. vorangehend).
-<div n="p">— Mit {#ava#}{# (°lIyate)#}
-<div n="1">— 1) {%stocken.%}
-<div n="1">— 2) {%sich niedersetzen%} (von Vögeln). {#avalIna#} {%sitzend.%}
-<div n="1">— 3) {%sich drücken , hineinschlüpfen in%} (<ab>Loc.</ab>). {#avalIna#} {%der sich geduckt — , versteckt hat in%} (<ab>Loc.</ab> oder im Comp. vorangehend).
-<div n="p">— Mit {#vyava#} ( {#°lIyate#}) {%sich ducken , kauern.%}
-<div n="p">— Mit {#samava#} ( {#°lIyate#}) {%aufgehen — , verschwinden in%} (<ab>Loc.</ab>).
-<div n="p">— Mit {#A#} ( {#°lIyate#})
-<div n="1">— 1) {%sich anschmiegen an%} (<ab>Loc.</ab>). {#AlIna#} {%angeschmiegt an%} (<ab>Acc.</ab>) , {%anfliegend.%}
-<div n="1">— 2) {%sich setzen auf oder in.%} {#AlIna#} {%darin sitzend.%}
-<div n="1">— 3) {%sich ducken , kauern , sich verstecken.%} {#AlIna#} {%versteckt , sich versteckt haltend , — in%} (im Comp. vorangehend).
-<div n="p">— Mit {#pratyA#} ( {#°lilye#}) {%sich hängen an%} (<ab>Acc.</ab>). -*Mit {#ud#} <ab>Caus.</ab> <ab>Med.</ab> = {#vaYcayati#} und {#nyagBAvayati#}.
-<div n="p">— Mit {#upa#} ( {#°lIyate#}) {%sich anschmiegen an.%} (<ab>Acc.</ab>).
+<L>96287<pc>5-227-c<k1>lI<k2>lI<h>1
+<hom>1.</hom> √{#lI#}¦
+<div n="1">— 1〉 *{#linAti#} ({#SlezaRe#}) {%sich Etwas anheften,%} so <ab>v. a.</ab> {%theilhaftig werden%}.
+<div n="1">— 2〉 *{#layati#} {%sich ergiessen in%} (<ab>Loc.</ab>).
+<div n="1">— 3〉 {#lI/yate#}.
+<div n="2">— a〉 {%sich schmiegen an, sich andrücken, hängen an%} (in übertragener <ab>Bed.</ab>); mit <ab>Loc.</ab> {#lIna#} {%liegend an%} (im <ab>Comp.</ab> vorangehend), {%ganz hingegeben einer Sache%} (<ab>Loc.</ab> oder im <ab>Comp.</ab> vorangehend).
+<div n="2">— b〉 {%stecken bleiben, stocken%}. {#lIna#} {%stecken geblieben;%} {#danta°#} {%worin die Zähne stecken%}.
+<div n="2">— c〉 {%sich niedersetzen, sich setzen auf%} oder {%in%} (von Vögeln und Insecten <ls n="Chr.">297,19</ls>; gleichsam {%sich anheften%}), {%sich legen auf%} (ein Lager); mit <ab>Loc.</ab> {#lIna#} {%sitzend auf oder in%} (im <ab>Comp.</ab> vorangehend).
+<div n="2">— d〉 {%sich ducken, kauern, sich verstecken, hineinschlüpfen —, verschwinden —, aufgehen in%} (<ab>Loc.</ab>). {#lIna#} (auch <lex>n.</lex> <ab>impers.</ab>) {%sich versteckt habend, versteckt%} (auch in übertragener <ab>Bed.</ab>), {%steckend —, verborgen —, hineingeschlüpft —, verschwunden —, aufgegangen in%} (<ab>Loc.</ab> oder im <ab>Comp.</ab> vorangehend). — {#gfDrARi#} {#lIyante#} <ls>MBH. 6,5203</ls> fehlerhaft für {#gfDrA#} {#nilIyante#}; {#lIna#} auch mit {#nIla#} verwechselt.
+<div n="m">— *<ab>Caus.</ab> {#lApayati#} ({#saMmAnaSAlInIkaraRayoH#}, {#pralamBane#}, {#pUjABiBave#}).
+<div n="p">— Mit {#anu#} ({#°lIyate#}) {%nach Etwas%} (<ab>Acc.</ab>) {%verschwinden%}.
+<div n="p">— Mit {#apa#} <ab>Caus.</ab> ({#°lApayate#}) {%Jmd demüthigen%} oder {%anführen, hintergehen%} <ls>BHAṬṬ.</ls>
+<div n="p">— Mit {#aBi#} ({#°lIyate#})
+<div n="1">— 1〉 {%sich schmiegen an%} (<ab>Acc.</ab>) {#aBilIna#} {%angeschmiegt%}.
+<div n="1">— 2〉 {%sich setzen auf oder in%} (von Vögeln und Insecten). {#aBilIna#} {%besetzt von%} (im <ab>Comp.</ab> vorangehend).
+<div n="p">— Mit {#ava#} ({#°lIyate#})
+<div n="1">— 1〉 {%stocken%}.
+<div n="1">— 2〉 {%sich niedersetzen%} (von Vögeln). {#avalIna#} {%sitzend%}.
+<div n="1">— 3〉 {%sich drücken, hineinschlüpfen in%} (<ab>Loc.</ab>). {#avalIna#} {%der sich geduckt —, versteckt hat in%} (<ab>Loc.</ab> oder im <ab>Comp.</ab> vorangehend).
+<div n="p">— Mit {#vyava#} ({#°lIyate#}) {%sich ducken, kauern%}.
+<div n="p">— Mit {#samava#} ({#°lIyate#}) {%aufgehen —, verschwinden in%} (<ab>Loc.</ab>).
+<div n="p">— Mit {#A#} ({#°lIyate#})
+<div n="1">— 1〉 {%sich anschmiegen an%} (<ab>Loc.</ab>). {#AlIna#} {%angeschmiegt an%} (<ab>Acc.</ab>), {%anfliegend%}.
+<div n="1">— 2〉 {%sich setzen auf oder in%}. {#AlIna#} {%darin sitzend%}.
+<div n="1">— 3〉 {%sich ducken, kauern, sich verstecken%}. {#AlIna#} {%versteckt, sich versteckt haltend, — in%} (im <ab>Comp.</ab> vorangehend).
+<div n="p">— Mit {#pratyA#} ({#°lilye#}) {%sich hängen an%} (<ab>Acc.</ab>).
+<div n="p">— *Mit {#ud#} <ab>Caus.</ab> <ab>Med.</ab> = {#vaYcayati#} und {#nyagBAvayati#}.
+<div n="p">— Mit {#upa#} ({#°lIyate#}) {%sich anschmiegen an%}. (<ab>Acc.</ab>).
 <div n="p">— Mit {#ni#}
-<div n="1">— 1) ( {#°lIyate#}) {%ankleben , sich anheften.%} {#nilIna#} {%angeklebt , sich angeheftet habend , — an%} (<ab>Loc.</ab> oder im Comp. vorangehend) ; {%ganz vertieft in%} (<ab>Loc.</ab>).
-<div n="1">— 2) ( {#°lIyate#} , {#°lIyet#} , {#°lIyeyus#} , {#°lilye#}) {%sich niedersetzen , — auf%} (<ab>Loc.</ab>) von Vögeln u.s.w. {#niletum#} <ls>ŚIŚ.18,1.</ls> {#nilIna#} {%sitzend auf%} (im Comp. vorangehend)
-[Page5228-1]
-<ls>19,84.</ls>
-<div n="1">— 3) ( {#°la/yate#} , {#°lAyata#}*) , {#°lIyate#} , {#°lilye#} , {#°lilyus#} , {#°la/yAM#} {#cakre#} , {#°alezwa#} , {#°lA/ya#} <ls>TBR.1,2,1,5.</ls> {#°lIya#}) {%sich verstecken , sich verschlüpfen , verschwinden , unsichtbar werden , — vor (Abl) , — in%} (<ab>Loc.</ab>). {#ni/lIna#} {%versteckt , — in%} (<ab>Loc.</ab>) ; {%in dem sich Jmd%} (instr.) {%versteckt hat.%}
-<div n="p">— Mit {#apani#} ( {#°layate#}) {%sich verstecken , verschwinden.%}
+<div n="1">— 1〉 ({#°lIyate#}) {%ankleben, sich anheften%}. {#nilIna#} {%angeklebt, sich angeheftet habend, — an%} (<ab>Loc.</ab> oder im <ab>Comp.</ab> vorangehend); {%ganz vertieft in%} (<ab>Loc.</ab>).
+<div n="1">— 2〉 ({#°lIyate#}, {#°lIyet#}, {#°lIyeyus#}, {#°lilye#}) {%sich niedersetzen, — auf%} (<ab>Loc.</ab>) von Vögeln <ab>u. s. w.</ab> {#niletum#} <ls>ŚIŚ. 18,1</ls>. {#nilIna#} {%sitzend auf%} (im <ab>Comp.</ab> vorangehend) [Page5-228-a] <ls n="ŚIŚ.">19,84</ls>.
+<div n="1">— 3〉 ({#°la/yate#}, {#°lAyata#}*⁾, {#°lIyate#}, {#°lilye#}, {#°lilyus#}, {#°la/yAM#} {#cakre#}, {#°alezwa#}, {#°lA/ya#} <ls>TBR. 1,2,1,5</ls>. {#°lIya#}) {%sich verstecken, sich verschlüpfen, verschwinden, unsichtbar werden, — vor%} (<ab>Abl.</ab>), — {%in%} (<ab>Loc.</ab>). {#ni/lIna#} {%versteckt, — in%} (<ab>Loc.</ab>); {%in dem sich Jmd%} (<ab>instr.</ab>) {%versteckt hat%}.
+<F>*⁾ Wäre bis auf das {#la#} ein regelmässige Imperfect von {#ay#}, {#ayate#} mit {#nis#}.</F>
+<div n="p">— Mit {#apani#} ({#°layate#}) {%sich verstecken, verschwinden%}.
 <div n="p">— Mit {#aBini#} in {#aBinilIyamAnaka#}.
-<div n="p">— Mit {#saMni#} ( {#°lIyate#})
-<div n="1">— 1) {%sich niedersetzen%} (von Vögeln).
-<div n="1">— 2) {%sich verstecken , verschwinden in%} (<ab>Loc.</ab>).
-<div n="p">— Mit {#pra#}{# (°lIyate)#}
-<div n="1">— 1) {%sich verstecken%} in {#pralA/yam#}.
-<div n="1">— 2) {%sich auflösen , aufgehen in%} (<ab>Loc.</ab>) , {%verschwinden , sterben.%} {#pralIna#} {%verschwunden , dahingegangen , verloren gegangen , aufgegangen in%} (<ab>Loc.</ab>) , {%gestorben.%}
-<div n="1">— 3) {#pralIna#}
-<div n="2">— a) {%aufgelöst%} , so v.a. {%erschlafft , ermüdet%} <ls>AIT.BR.5,28,4.</ls>
-<div n="2">— b) {%davongeflogen%} <ls>MBH.12,261,38.</ls> <ab>v.l.</ab> {#praqIna#}.
-<div n="p">— Mit {#vipra#} , {#°lIna#} {%auseinandergeflogen%} (ein geschlagenes Heer).
-<div n="p">— Mit {#saMpra#} ( {#°lIyate#}) {%verschwinden , aufgehen — , untergehen in%} (<ab>Loc.</ab>). {#°lIna#} {%verschwunden , aufgegangen — , enthalten in%} (<ab>Loc.</ab>).
+<div n="p">— Mit {#saMni#} ({#°lIyate#})
+<div n="1">— 1〉 {%sich niedersetzen%} (von Vögeln).
+<div n="1">— 2〉 {%sich verstecken, verschwinden in%} (<ab>Loc.</ab>).
+<div n="p">— Mit {#pra#} ({#°lIyate#})
+<div n="1">— 1〉 {%sich verstecken%} in {#pralA/yam#}.
+<div n="1">— 2〉 {%sich auflösen, aufgehen in%} (<ab>Loc.</ab>), {%verschwinden, sterben%}. {#pralIna#} {%verschwunden, dahingegangen, verloren gegangen, aufgegangen in%} (<ab>Loc.</ab>), {%gestorben%}.
+<div n="1">— 3〉 {#pralIna#}
+<div n="2">— a〉 {%aufgelöst,%} so <ab>v. a.</ab> {%erschlafft, ermüdet%} <ls>AIT. BR. 5,28,4</ls>.
+<div n="2">— b〉 {%davongeflogen%} <ls>MBH. 12,261,38</ls>. <ab>v. l.</ab> {#praqIna#}.
+<div n="p">— Mit {#vipra#}, {#°lIna#} {%auseinandergeflogen%} (ein geschlagenes Heer).
+<div n="p">— Mit {#saMpra#} ({#°lIyate#}) {%verschwinden, aufgehen —, untergehen in%} (<ab>Loc.</ab>). {#°lIna#} {%verschwunden, aufgegangen —, enthalten in%} (<ab>Loc.</ab>).
 <div n="p">— Mit {#prati#}
-<div n="1">— 1) ( {#°lIyate#}) {%verschwinden.%}
-<div n="1">— 2) {#pratilIna#} {%unverrückt oder zurückgezogen.%}
-<div n="m">— <ab>Vgl.</ab> {#apratilInA#} (Nachtr. 3).
-<div n="p">— Mit {#vi#}{# (°lIyate , °lilyus , °lIya , *°lAya)#} [Fußnote: *Wäre bis auf das {#la#} ein regelmässige Imperfect von {#ay#} , {#ayate#} mit {#nis#}]
-<div n="1">— 1) {%sich anschmiegen%} (<ls>319,9</ls>), {%sich heften an%} (<ab>Loc.</ab>). {#mahItale#} so v.a. {%sich auf den Erdboden ducken.%} {#vilIna#} {%geheftet an , — auf%} (vom Blick) , {%vertieft in%} ; die Ergänzung im <ab>Loc.</ab> oder im Comp. vorangehend.
-<div n="1">— 2) {%sich setzen auf%} (von Vögeln). {#°vilIna#} {%sitzend auf.%}
-<div n="1">— 3) {%stocken.%} {#vilIna#} {%stockend.%}
-<div n="1">— 4) {%sich verstecken , — verschlüpfen ; verschwinden , zu Nichte werden. {#vilIna#} versteckt ; verschwunden , zu Nichte geworden , hingegangen ; verschwunden — , verschwindend — , aufgehend in%} (<ab>Loc.</ab>) <ls>Spr.7761.</ls>
-<div n="1">— 5) {%zergehen , sich auflösen , schmelzen.%} {#vilIna#} {%zergangen , aufgelöst , geschmolzen.%}
+<div n="1">— 1〉 ({#°lIyate#}) {%verschwinden%}.
+<div n="1">— 2〉 {#pratilIna#} {%unverrückt oder zurückgezogen%}.
+<div n="m">— <ab>Vgl.</ab> {#apratilInA#} (<ls>Nachtr. 3</ls>).
+<div n="p">— Mit {#vi#} ({#°lIyate#}, {#°lilyus#}, {#°lIya#}, *{#°lAya#})
+<div n="1">— 1〉 {%sich anschmiegen%} (<ls n="Chr.">319,9</ls>), {%sich heften an%} (<ab>Loc.</ab>). {#mahItale#} so <ab>v. a.</ab> {%sich auf den Erdboden ducken%}. {#vilIna#} {%geheftet an, — auf%} (vom Blick), {%vertieft in;%} die Ergänzung im <ab>Loc.</ab> oder im <ab>Comp.</ab> vorangehend.
+<div n="1">— 2〉 {%sich setzen auf%} (von Vögeln). {#°vilIna#} {%sitzend auf%}.
+<div n="1">— 3〉 {%stocken%}. {#vilIna#} {%stockend%}.
+<div n="1">— 4〉 {%sich verstecken, — verschlüpfen; verschwinden, zu Nichte werden%}. {#vilIna#} {%versteckt; verschwunden, zu Nichte geworden, hingegangen; verschwunden —, verschwindend —, aufgehend in%} (<ab>Loc.</ab>) <ls>Spr. 7761</ls>.
+<div n="1">— 5〉 {%zergehen, sich auflösen, schmelzen%}. {#vilIna#} {%zergangen, aufgelöst, geschmolzen%}.
 <div n="m">— <ab>Caus.</ab> {#vilApayati#} und {#vilAyayati#}
-<div n="1">— 1) {%verschwinden machen , aufgehen lassen in%} (<ab>Loc.</ab>) , {%zu Nichte machen.%}
-<div n="1">— 2) {%schmelzen%} (transit.).
-<div n="p">— Mit {#anuvi#} ( {#°lI/yate#} {%sich auflösen in%} (<ab>Acc.</ab>).
-<div n="p">— Mit {#aBivi#} ( {#°lIyate#} {%sich auflösen%} <ls>CARAKA.6,19.</ls>
-<div n="m">— <ab>Caus.</ab> ( {#°lApayati#}) {%schmelzen lassen.%}
-<div n="p">— Mit {#pravi#} ( {#°lIyate#}) {%verschwinden , zu Nichte werden.%}
-<div n="m">— <ab>Caus.</ab> ( {#°lApayati#})
-<div n="1">— 1) {%verschwinden machen%} (<ls>ŚAṂK.zu.BĀDAR.3,2,21</ls> ), {%aufgehen lassen in%} (<ab>Loc.</ab>) <ab>Comm.</ab> zu <ls>BHĀG.P.3,9,20.</ls>
-<div n="1">— 2) {%auflösen , schmelzen.%}
+<div n="1">— 1〉 {%verschwinden machen, aufgehen lassen in%} (<ab>Loc.</ab>), {%zu Nichte machen%}.
+<div n="1">— 2〉 {%schmelzen%} (transit).
+<div n="p">— Mit {#anuvi#} ({#°lI/yate#}) {%sich auflösen in%} (<ab>Acc.</ab>).
+<div n="p">— Mit {#aBivi#} ({#°lIyate#}) {%sich auflösen%} <ls>CARAKA. 6,19</ls>.
+<div n="m">— <ab>Caus.</ab> ({#°lApayati#}) {%schmelzen lassen%}.
+<div n="p">— Mit {#pravi#} ({#°lIyate#}) {%verschwinden, zu Nichte werden%}.
+<div n="m">— <ab>Caus.</ab> ({#°lApayati#})
+<div n="1">— 1〉 {%verschwinden machen%} (<ls>ŚAṂK. zu BĀDAR. 3,2,21</ls>), {%aufgehen lassen in%} (<ab>Loc.</ab>) <ls>Comm. zu BHĀG. P. 3,9,20</ls>.
+<div n="1">— 2〉 {%auflösen, schmelzen%}.
 <div n="p">— Mit {#saMpravi#} <ab>Caus.</ab> in {#°lApana#}.
-<div n="p">— Mit {#sam#} ( {#saMlIyate#})
-<div n="1">— 1) {%sich anschmiegen , — an%} (<ab>Acc.</ab>). {#saMlIna#} {%sich anschmiegen , — an%} (<ab>Acc.</ab>). {#saMlIna#} {%sich anschmiegen , — an%} (<ab>Acc.</ab>). {#saMlIna#} {%sich anschmiegend , — an%} (<ab>Loc.</ab>).
-[Page5228-2]
-
-<div n="1">— 2) {%hineingehen — , Platz finden in%} (<ab>Loc.</ab>). {#saMlIna#} {%hineingegangen in%} (<ab>Loc.</ab>).
-<div n="1">— 3) {%sich verstecken , sich versteckt halten.%} {#saMlIna#} {%versteckt , sich versteckt haltend in%} (<ab>Loc.</ab> oder im Comp. vorangehend).
-<div n="1">— 4) {%sich ducken , kauern , sich zusammenziehen.%} {#saMlIna#} {%geduckt , gekauert , zusammengezogen in%} (<ab>Loc.</ab>). {#°mAnasa#} <lex>Adj.</lex> so v.a. {%kleinmüthig.%}
-<div n="p">— Mit {#pratisam#} in {#pratisaMlayana#} und {#pratisaMlIna#} (Nachtr. 5).
+<div n="p">— Mit {#sam#} ({#saMlIyate#})
+<div n="1">— 1〉 {%sich anschmiegen, — an%} (<ab>Acc.</ab>). {#saMlIna#} {%sich anschmiegen, — an%} (<ab>Acc.</ab>). {#saMlIna#} {%sich anschmiegen, — an%} (<ab>Acc.</ab>). {#saMlIna#} {%sich anschmiegend, — an%} (<ab>Loc.</ab>). [Page5-228-b]
+<div n="1">— 2〉 {%hineingehen —, Platz finden in%} (<ab>Loc.</ab>). {#saMlIna#} {%hineingegangen in%} (<ab>Loc.</ab>).
+<div n="1">— 3〉 {%sich verstecken, sich versteckt halten%}. {#saMlIna#} {%versteckt, sich versteckt haltend in%} (<ab>Loc.</ab> oder im <ab>Comp.</ab> vorangehend).
+<div n="1">— 4〉 {%sich ducken, kauern, sich zusammenziehen%}. {#saMlIna#} {%geduckt, gekauert, zusammengezogen in%} (<ab>Loc.</ab>). {#°mAnasa#} <lex>Adj.</lex> so <ab>v. a.</ab> {%kleinmüthig%}.
+<div n="p">— Mit {#pratisam#} in {#pratisaMlayana#} und {#pratisaMlIna#} (<ls>Nachtr. 5</ls>).
 <LEND>

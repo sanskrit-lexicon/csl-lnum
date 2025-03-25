@@ -1,5 +1,5 @@
 <L>6405<pc>205<k1>dish<k2>dish
-<div n="lb"/>{@DISH@}¦ (subs.): <div n="I">I A vessel: q. v.: </div><div n="1">(1) {#SarAvaH;#}</div>
-<div n="lb"/><div n="1">(2) {#pAtram.#} </div><div n="I">II A made-d.: <div n="xe">{%how many d. s have%}
-<div n="lb"/>{%you got:%}</div> <div n="xs">{#*kiyadviDAni te BojyAni.#}</div></div>
+{@DISH@}¦ (subs.): <div n="I">I A vessel: q. v.: </div><div n="1">(1) {#SarAvaH;#}</div>
+<div n="1">(2) {#pAtram.#} </div><div n="I">II A made-d.: <div n="xe">{%how many d. s have%}
+{%you got:%}</div> <div n="xs">{#*kiyadviDAni te BojyAni.#}</div></div>
 <LEND>

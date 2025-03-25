@@ -1,11 +1,10 @@
 <L>9784<pc>1533<k1>sudakza<k2>su-da/kza
-{@su-dákṣa,@}¦ a., {%grosse Kraft%} [dákṣa] {%habend, sehr kräftig.%}
-<div n="P1">-a indo {817,4}; {820,10}; indra {101,9}.
-<div n="P1">-as agnís {200,1}; {365,1}; {917,3} (dákṣais asi); vīrás {238,9}; janitā́ (sómas) {799,2}; (sómas) <lbinfo n="4"/> {91,2}; savitā́ {512,1}.
-[Page1534]
-<div n="P1">-am [<ab>m.</ab>] agním {257,2}; {639,13}; {517,6}; {518,3} (ásuram); rayím {873,4}; śúṣmam {460,8}.
-<div n="P1">-am [<ab>n.</ab>] ándhas {312,1}.
-<div n="P1">-asya ándhasas {701,4}.
-<div n="P1">-ā [V. <ab>du.</ab>] aśvinā {292,7}.
-<div n="P1">-ā [<ab>A.</ab> <ab>du.</ab>] mitrā́váruṇā {582,2}.
+{@su-dákṣa,@}¦ <ab>a.</ab>, {%grosse Kraft%} [dákṣa] {%habend, sehr kräftig%}.
+<div n="TS">-a indo {817,4}; {820,10}; indra {101,9}.
+<div n="TS">-as agnís {200,1}; {365,1}; {917,3} (dákṣais asi); vīrás {238,9}; janitā́ (sómas) {799,2}; (sómas) {91,2}; savitā́ {512,1}. [Page1534]
+<div n="TS">-am [<ab>m.</ab>] agním {257,2}; {639,13}; {517,6}; {518,3} (ásuram); rayím {873,4}; śúṣmam {460,8}.
+<div n="TS">-am [<ab>n.</ab>] ándhas {312,1}.
+<div n="TS">-asya ándhasas {701,4}.
+<div n="TS">-ā [<ab>V.</ab> <ab>du.</ab>] aśvinā {292,7}.
+<div n="TS">-ā [<ab>A.</ab> <ab>du.</ab>] mitrā́váruṇā {582,2}.
 <LEND>

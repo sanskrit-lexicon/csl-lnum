@@ -1,15 +1,15 @@
 <L>2393<pc>082<k1>bottom<k2>bottom
-<div n="lb"/>{@BOTTOM@}¦ (subs.): <div n="I">I The lowest part: </div><div n="1">(1)
-<div n="lb"/>{#tallam,#} <div n="xe">{%whose b. cannot be touched%}</div> <div n="xs">{#atalasparSaH#}</div> ({#rSA, #}
-<div n="lb"/>{# rSaM#}); <div n="xe">{%who were sitting at the b. of the tree%}</div> <div n="xs">{#taru-#}
-<div n="lb"/>{#tale'vasTitAn,#}</div> H. ii.; </div><div n="1">(2) {#aDoBAgaH;#} </div><div n="1">(3) {#pAdaH#}
-<div n="lb"/>(of a hill: v. Foot). </div><div n="I">II Fig.: Ph. <div n="xe">{%one who%}
-<div n="lb"/>{%has dived to the b. of Philosophy%}</div> <div n="xs">{#darSanapAradarSI;#}</div>
-<div n="lb"/><div n="xe">{%one who has gone to the b. of all śāstras%}</div> <div n="xs">{#sakala-#}
-<div n="lb"/>{#SAstrapAraNgamaH,#}</div> P. i. 10; <div n="xe">{%you should examine it to%}
-<div n="lb"/>{%the b.%}</div> <div n="xs">{#tvayedamAmUlaM parIkzitavyam;#}</div> <div n="xe">{%you are at the b.%}
-<div n="lb"/>{%of this mischief%}</div> <div n="xs">{#tvamasyAnarTasya BUlaM#}</div> <div n="xe">{%or%}</div> <div n="xs">{#nidAnam.#}</div> </div><div n="I">III
-<div n="lb"/>A valley: q. v.; {#nimnaBUmiH.#} </div><div n="I">IV A ship:
-<div n="lb"/>q. v.: {#potaH.#} V. Stamina: q. v. </div><div n="I">VI Dregs:
-<div n="lb"/>q. v.: {#malam.#}</div>
+{@BOTTOM@}¦ (subs.): <div n="I">I The lowest part: </div><div n="1">(1)
+{#tallam,#} <div n="xe">{%whose b. cannot be touched%}</div> <div n="xs">{#atalasparSaH#}</div> ({#rSA, #}
+{# rSaM#}); <div n="xe">{%who were sitting at the b. of the tree%}</div> <div n="xs">{#taru-#}
+{#tale'vasTitAn,#}</div> H. ii.; </div><div n="1">(2) {#aDoBAgaH;#} </div><div n="1">(3) {#pAdaH#}
+(of a hill: v. Foot). </div><div n="I">II Fig.: Ph. <div n="xe">{%one who%}
+{%has dived to the b. of Philosophy%}</div> <div n="xs">{#darSanapAradarSI;#}</div>
+<div n="xe">{%one who has gone to the b. of all śāstras%}</div> <div n="xs">{#sakala-#}
+{#SAstrapAraNgamaH,#}</div> P. i. 10; <div n="xe">{%you should examine it to%}
+{%the b.%}</div> <div n="xs">{#tvayedamAmUlaM parIkzitavyam;#}</div> <div n="xe">{%you are at the b.%}
+{%of this mischief%}</div> <div n="xs">{#tvamasyAnarTasya BUlaM#}</div> <div n="xe">{%or%}</div> <div n="xs">{#nidAnam.#}</div> </div><div n="I">III
+A valley: q. v.; {#nimnaBUmiH.#} </div><div n="I">IV A ship:
+q. v.: {#potaH.#} V. Stamina: q. v. </div><div n="I">VI Dregs:
+q. v.: {#malam.#}</div>
 <LEND>

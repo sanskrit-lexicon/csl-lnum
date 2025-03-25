@@ -1,41 +1,41 @@
 <L>50279<pc>4-1112<k1>prahAra<k2>prahAra
-{#prahAra#}¦ (von {#har#} mit {#pra#}) <lex>m.</lex> 
-<ls>P. 7, 3, 54,</ls> 
-<ls>Sch.</ls> {%Schlag, Hieb, Streich, Stoss, Schuss, Wurf, ictus%}: {#prahArArta#} 
-<ls>YĀJÑ. 3, 248.</ls> 
-<ls>DRAUP. 9, 5.</ls> {#prahAro ripuhastataH#} 
-<ls>Spr. 2930.</ls> 
-<ls>SUŚR. 1, 101, 10. 113, 3. 352, 20. 2, 260, 21.</ls> 
-<ls>RAGH. 7, 41.</ls> 
-<ls>KATHĀS. 10, 116. 33, 118.</ls> {#dfQaprahArABihata#} 
-<ls>?47, 62. 49, 147. MĀRK. P. 83, 14. PRAB. 88, 3. PAÑCAT. 214, 15. Schol. zu ŚĀK. 32.</ls> {#Sirasi#} 
-<ls>M. 4, 83</ls> <ls>?(MBH. 13, 5023.)</ls> {#atrANge 'sya prahAro 'yaM maddattaH#} 
-<ls>RĀJA-TAR. 5, 435.</ls> {#pAda°#} (s. auch bes.) {%Fussschlag%} 
-<ls>KATHĀS. 12, 103.</ls> 
-<ls>PAÑCAT. 252, 25.</ls> {#jAnu°#} 
-<ls>R. 6, 98, 24.</ls> {#pARi°#} 
-<ls>HARIV. 2251.</ls> 
-<ls>Spr. 2921.</ls> {#muzwi°#} 
-<ls>SUŚR. 1, 288, 5.</ls> {#GoRAyAM muzwiprahAraM dadAti#} 
-<ls>MṚCCH. 35, 10.</ls> {#pakza°#} 
-<ls>HARIV. 10507.</ls> {#tuRqapakza°#} 
-<ls>R. 3, 56, 35.</ls> 
-<ls>MĀRK. P. 88, 35.</ls> {#Kuradanta°#} 
-<ls>KATHĀS. 37, 167.</ls> 
-<ls>HALĀY. 2, 65.</ls> 
-<ls>PAÑCAT. 69, 1.</ls> {#laguqa°#} 
-<ls>37, 5.</ls> {#kaSA°#} 
-<ls>MBH. 1, 6707.</ls> {#Kaqga°#} 
-<ls>VID. 214.</ls> 
-<ls>KATHĀS. 38, 67. 41, 51. 50, 24.</ls> {#mayA pradattanistriMSaprahArA#} 
-<ls>37, 168.</ls> {#smaraSara°#} 
-<ls>HIT. 23, 13.</ls> {#kuliSa°#} 
-<ls>Spr. 2744.</ls> {#salila°#} 
-<ls>MBH. 8, 819.</ls> {#BrAtfBAryAprahArada#} {%dem Bruder oder der Gattin Schläge versetzend%} 
-<ls>YĀJÑ. 2, 232.</ls> {#supta°#} {%ein Schlag, den man einem Schlafenden versetzt%}, 
-<ls>HARIV. 4816.</ls> {#ati°#} 
-<ls>MBH. 8, 2477.</ls> {#SfNgArEH suprahArESca kElAso madanAyate#} 
-<ls>HARIV. 12007.</ls> {#SUrARAM hi prahArAya rasitaM raRadunduBeH#} {%damit sie einhauen%} 
-<ls>Spr. 1130.</ls> 
+{#prahAra#}¦ (von {#har#} mit {#pra#}) <lex>m.</lex>
+<ls>P. 7,3,54</ls>, <ls>Sch.</ls>
+{%Schlag, Hieb, Streich, Stoss, Schuss, Wurf, ictus%}: {#prahArArta#}
+<ls>YĀJÑ. 3,248.</ls>
+<ls>DRAUP. 9,5.</ls> {#prahAro ripuhastataH#}
+<ls>Spr. 2930.</ls>
+<ls>SUŚR. 1,101,10. 113,3. 352,20. 2,260,21.</ls>
+<ls>RAGH. 7,41.</ls>
+<ls>KATHĀS. 10,116.</ls> <ls n="KATHĀS.">33,118.</ls> {#dfQaprahArABihata#}
+<ls n="KATHĀS.">47,62.</ls> <ls n="KATHĀS.">49,147.</ls> <ls>MĀRK. P. 83,14.</ls> <ls>PRAB. 88,3.</ls> <ls>PAÑCAT. 214,15.</ls> Schol. zu <ls>ŚĀK. 32.</ls> {#Sirasi#}
+<ls>M. 4,83</ls> (<ls>MBH. 13,5023.</ls>) {#atrANge 'sya prahAro 'yaM maddattaH#}
+<ls>RĀJA-TAR. 5,435.</ls> {#pAda°#} (s. auch bes.) {%Fussschlag%}
+<ls>KATHĀS. 12,103.</ls>
+<ls>PAÑCAT. 252,25.</ls> {#jAnu°#}
+<ls>R. 6,98,24.</ls> {#pARi°#}
+<ls>HARIV. 2251.</ls>
+<ls>Spr. 2921.</ls> {#muzwi°#}
+<ls>SUŚR. 1,288,5.</ls> {#GoRAyAM muzwiprahAraM dadAti#}
+<ls>MṚCCH. 35,10.</ls> {#pakza°#}
+<ls>HARIV. 10507.</ls> {#tuRqapakza°#}
+<ls>R. 3,56,35.</ls>
+<ls>MĀRK. P. 88,35.</ls> {#Kuradanta°#}
+<ls>KATHĀS. 37,167.</ls>
+<ls>HALĀY. 2,65.</ls>
+<ls>PAÑCAT. 69,1.</ls> {#laguqa°#}
+<ls n="PAÑCAT.">37,5.</ls> {#kaSA°#}
+<ls>MBH. 1,6707.</ls> {#Kaqga°#}
+<ls>VID. 214.</ls>
+<ls>KATHĀS. 38,67.</ls> <ls n="KATHĀS.">41,51.</ls> <ls n="KATHĀS.">50,24.</ls> {#mayA pradattanistriMSaprahArA#}
+<ls n="KATHĀS.">37,168.</ls> {#smaraSara°#}
+<ls>HIT. 23,13.</ls> {#kuliSa°#}
+<ls>Spr. 2744.</ls> {#salila°#}
+<ls>MBH. 8,819.</ls> {#BrAtfBAryAprahArada#} {%dem Bruder oder der Gattin Schläge versetzend%}
+<ls>YĀJÑ. 2,232.</ls> {#supta°#} {%ein Schlag, den man einem Schlafenden versetzt%},
+<ls>HARIV. 4816.</ls> {#ati°#}
+<ls>MBH. 8,2477.</ls> {#SfNgArEH suprahArESca kElAso madanAyate#}
+<ls>HARIV. 12007.</ls> {#SUrARAM hi prahArAya rasitaM raRadunduBeH#} {%damit sie einhauen%}
+<ls>Spr. 1130.</ls>
 <div n="v">— Vgl. {#tala°#} .
 <LEND>

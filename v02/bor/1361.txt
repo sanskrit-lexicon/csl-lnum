@@ -1,6 +1,6 @@
 <L>1361<pc>048<k1>audible<k2>audible
-<div n="lb"/>{@AUDIBLE:@}¦ {#sPuwaH#} ({#wA, waM#}) (=distinct: q. v.). Ph.:
-<div n="lb"/><div n="xe">{%he speaks in an a. voice%}</div> <div n="xs">{#*sa taTA giramudIrayati #}
-<div n="lb"/>{# yaTA SrotfvargARAM karRagocarIBavati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#yaTA SrotAro grahItuM #}
-<div n="lb"/>{# Sakruvanti.#}</div>
+{@AUDIBLE:@}¦ {#sPuwaH#} ({#wA, waM#}) (=distinct: q. v.). Ph.:
+<div n="xe">{%he speaks in an a. voice%}</div> <div n="xs">{#*sa taTA giramudIrayati #}
+{# yaTA SrotfvargARAM karRagocarIBavati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#yaTA SrotAro grahItuM #}
+{# Sakruvanti.#}</div>
 <LEND>

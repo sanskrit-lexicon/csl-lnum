@@ -1,7 +1,7 @@
 <L>9824<pc>233-a<k1>entrance<k2>entrance
-<div n="lb"/>ENTRANCE¦, {%s.%} (Act of entering) {#praveSaH -SanaM, niveSaH -SanaM, AveSaH#}
-<div n="lb"/>{#-SanaM, samAveSaH, veSaH -SanaM, vezaRaM, veSikA, pratihAraRaM#}. — (Door,
-<div n="lb"/>gate) {#dvAraM, dvAravartma#} {%n.%} {#(n), muKaM, gfhamuKaM, niHsaraRaM, pratIhAraH,#}
-<div n="lb"/>{#paTaH;#} ‘principal entrance,’ {#siMhadvAraM;#} ‘private entrance,’
-<div n="lb"/>{#pracCannadvAraM#}.
+ENTRANCE¦, {%s.%} (Act of entering) {#praveSaH -SanaM, niveSaH -SanaM, AveSaH#}
+{#-SanaM, samAveSaH, veSaH -SanaM, vezaRaM, veSikA, pratihAraRaM#}. — (Door,
+gate) {#dvAraM, dvAravartma#} {%n.%} {#(n), muKaM, gfhamuKaM, niHsaraRaM, pratIhAraH,#}
+{#paTaH;#} ‘principal entrance,’ {#siMhadvAraM;#} ‘private entrance,’
+{#pracCannadvAraM#}.
 <LEND>

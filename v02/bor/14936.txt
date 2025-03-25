@@ -1,14 +1,14 @@
 <L>14936<pc>456<k1>moon<k2>moon
-<div n="lb"/>{@MOON:@}¦ <div n="1">(1) {#candraH,#} <div n="xe">{%enjoy the m.-beams:%}</div> <div n="xs">{#sevyantAM #}
-<div n="lb"/>{# candrapAdAH,#}</div> <ls>V.</ls> ; {%full m.:%} q. v.; <div n="xe">{%half m.:%}</div> <div n="xs">{#ardDacandraH,#}</div>
-<div n="lb"/><ls>P.</ls> ; <div n="xe">{%approaching m. -rise:%}</div> <div n="xs">{#AsannacandrodayaH,#}</div> <ls>K.</ls> ;</div>
-<div n="lb"/><div n="1">(2) {#SaSI,#} <div n="xe">{%m. -light passes with the m.:%}</div> <div n="xs">{#SaSinA #}
-<div n="lb"/>{# saha yAti kOmudI,#}</div> Ku.; </div><div n="1">(3) {#induH,#} {%the new m.:%}
-<div n="lb"/>{#navenduH,#} <ls>R.</ls> ; <div n="xe">{%the m. -set:%}</div> <div n="xs">{#gato'staminduH,#}</div> <ls>B.</ls> ; </div><div n="1">(4)
-<div n="lb"/>{#candramasa#} (m.), {%fixing my sight on the m. which%}
-<div n="lb"/><div n="xe">{%has whitened the quarters with its rays:%}</div> <div n="xs">{#karE-#}
-<div n="lb"/>{#rDavalitASAmuKe candramasi nihitadfzwiH,#}</div> K. ii.; </div><div n="1">(5)
-<div n="lb"/>{#viDuH;#} </div><div n="1">(6) {#niSAkaraH;#} </div><div n="1">(7) {#SaSANkaH;#} </div><div n="1">(8) {#suDAMSuH;#}</div>
-<div n="lb"/><div n="1">(9) {#dvijarAjaH;#} </div><div n="1">(10) {#SItamayUKaH.#} <div n="xe">{%The day of new%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#pratipad.#}</div></div>
+{@MOON:@}¦ <div n="1">(1) {#candraH,#} <div n="xe">{%enjoy the m.-beams:%}</div> <div n="xs">{#sevyantAM #}
+{# candrapAdAH,#}</div> <ls>V.</ls> ; {%full m.:%} q. v.; <div n="xe">{%half m.:%}</div> <div n="xs">{#ardDacandraH,#}</div>
+<ls>P.</ls> ; <div n="xe">{%approaching m. -rise:%}</div> <div n="xs">{#AsannacandrodayaH,#}</div> <ls>K.</ls> ;</div>
+<div n="1">(2) {#SaSI,#} <div n="xe">{%m. -light passes with the m.:%}</div> <div n="xs">{#SaSinA #}
+{# saha yAti kOmudI,#}</div> Ku.; </div><div n="1">(3) {#induH,#} {%the new m.:%}
+{#navenduH,#} <ls>R.</ls> ; <div n="xe">{%the m. -set:%}</div> <div n="xs">{#gato'staminduH,#}</div> <ls>B.</ls> ; </div><div n="1">(4)
+{#candramasa#} (m.), {%fixing my sight on the m. which%}
+<div n="xe">{%has whitened the quarters with its rays:%}</div> <div n="xs">{#karE-#}
+{#rDavalitASAmuKe candramasi nihitadfzwiH,#}</div> K. ii.; </div><div n="1">(5)
+{#viDuH;#} </div><div n="1">(6) {#niSAkaraH;#} </div><div n="1">(7) {#SaSANkaH;#} </div><div n="1">(8) {#suDAMSuH;#}</div>
+<div n="1">(9) {#dvijarAjaH;#} </div><div n="1">(10) {#SItamayUKaH.#} <div n="xe">{%The day of new%}
+{%m.:%}</div> <div n="xs">{#pratipad.#}</div></div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>9734<pc>439<k1>sphere<k2>sphere
 {@Sphere,@}¦ {%s.%} {#golaH-laM, vartulaM, maMqalaM;#} {%See%} {@Orb;@}
-<div n="lb"/>‘celestial s.’ {#vyoma-naBo-maMqalaM#}. {@2@} {#niyogaH,#}
-<div n="lb"/>{#vizayaH, aDikAraH, DarmaH, prakaraRaM#}. {@3@} {#saM-,#}
-<div n="lb"/>{#sTiti#} {%f.,%} {#avasTA, daSA,#} (in life).
-<div n="lb"/>{@-Spherical,@} {%a.%} {#golAkAra, vartula, gola#}.
-<div n="lb"/>{@-Spheroid,@} {%s.%} {#upagolaH; aMqAkftiH#}. {@-al,@}
-<div n="lb"/>{%a.%} {#golaprAya-kalpa, upagola#}. {@-Spherule,@} {%s.%}
-<div n="lb"/>{#golakaH, laGu-kzudra-golaH#}.
+‘celestial s.’ {#vyoma-naBo-maMqalaM#}. {@2@} {#niyogaH,#}
+{#vizayaH, aDikAraH, DarmaH, prakaraRaM#}. {@3@} {#saM-,#}
+{#sTiti#} {%f.,%} {#avasTA, daSA,#} (in life).
+{@-Spherical,@} {%a.%} {#golAkAra, vartula, gola#}.
+{@-Spheroid,@} {%s.%} {#upagolaH; aMqAkftiH#}. {@-al,@}
+{%a.%} {#golaprAya-kalpa, upagola#}. {@-Spherule,@} {%s.%}
+{#golakaH, laGu-kzudra-golaH#}.
 <LEND>

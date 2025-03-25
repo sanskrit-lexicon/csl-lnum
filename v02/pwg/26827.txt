@@ -1,49 +1,48 @@
 <L>26827<pc>3-0054<k1>jarjara<k2>jarja/ra
-{#jarja/ra#}¦ (von 1. {#jar#}) 
-<ls>Uṇ. 3, 130,</ls> 
-<ls>Sch.</ls> 
-<div n="1"> 1) <lex>adj.</lex> 
-<div n="2"> a) = {#jIrRa#} 
-<ls>H. an. 3, 556.</ls> = {#jarAtura#} 
-<ls>MED. r. 158.</ls> {%abgelebt, zusammengefallen%}: {#virahavedanayA pIqitastAM smaran jarjarIBUtaSarIraH saMjAtaH#} 
-<ls>VET. 7, 9.</ls> 
-<div n="2">— b) {%zerfetzt, löcherig, gespalten, zersplittert, geborsten, zerschlagen%}: {#°snAnaSAwI#} 
-<ls>MṚCCH. 49, 11.</ls> {#kOpInaM SataKaRqajarjarataram#} 
-<ls>BHARTṚ. 3, 92.</ls> {#°vaMSa#} 
-<ls>PAÑCAT. 117, 6. 14. 127, 3.</ls> 
-<ls>HIT. 27, 15. 32, 9.</ls> {#(gfham) BittiviSlezajarjaram#} 
-<ls>KATHĀS. 2. 49.</ls> {#laGu jarjaraM daDiniBaM vfhadvisaMsTAnamapi hEmam (muktAPalam)#} 
-<ls>VARĀH. BṚH. S. 82</ls> <ls>(80,b),5.</ls> {#drumAH - jarjarapattrAH#} 
-<ls>53, 49.</ls> {#(ozaDIm) SilAyAM jarjarIkftya#} 
-<ls>R. 6, 83, 54.</ls> {#muYjavajjarjarIBUtA bahavastatra pAdapAH#} 
-<ls>MBH. 3, 434.</ls> {#jalamucaH#} 
-<ls>MEGH. 70.</ls> {#kftvA puMvatpAtamuccErBfguByo mUrDni grAvRAM jarjarA nirJarOGAH#} 
-<ls>ŚIŚ. 4, 23.</ls> {#vyABagnajarjaraSiro'sTi#} 
-<ls>PRAB. 67, 11.</ls> {#jarjarasarvANga#} 
-<ls>MBH. 3, 450.</ls> 
-<ls>R. 6, 83, 18.</ls> {#pakzatuRqaprahArESca SataSo jarjarIkftam (rAkzasam)#} 
-<ls>MBH. 3, 16049. 7, 3468. 8, 2719. 9, 3279.</ls> 
-<ls>R. 4, 12, 31.</ls> 
-<ls>PAÑCAT. 40, 21.</ls> 
-<ls>HIT. 107, 18.</ls> 
-<ls>PRAB. 88, 3.</ls> 
-<div n="2">— c) {%zerrissen, gespalten%} so v. a. {%in Zwiespalt seiend%}: {#jarjaraM cAsya vizayaM kurvanti pratirUpakEH#} 
-<ls>MBH. 12, 2037.</ls> {#svarAjyaM Bedajarjaram#} 
-<ls>RĀJA-TAR. 2, 152.</ls> {#evaM paryAkule loke vitaTe jarjarIkfte . tEstErnyAyEH#} 
-<ls>12, 475.</ls> {#cintAjarjaracetas#} 
-<ls>PRAB. 35, 6.</ls> 
-<div n="2">— d) {%dumpf%} (wie der Ton eines {%zerbrochenen%} Gefässes): {#BEravajarjaraSabdo yAti (nirGAtaH)#} 
-<ls>VARĀH. BṚH. S. 38 (37), 5.</ls> {#paraSorjarjaraSabdo nezwaH snigDo GanaSca hitaH#} 
-<ls>42 (43), 19.</ls> {#gardaBajarjararUkzasvarASca DanasOKyasaMtyaktAH#} 
-<ls>67, 95 (96).</ls> {#BinnaBEravadInArtaparuzakzAmajarjarAH svarA nezwAH#} 
-<ls>85, 36.</ls> {#baBAze harzavAzpAmbuGarGarAkzarajarjaram#} 
-<ls>KATHĀS. 25, 66.</ls> 
-<div n="1">— 2) <lex>n.</lex> 
-<div n="2"> a) <is>Indra's</is> {%Fahne%} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— b) = {#SEvala#} 
-<ls>MED.</ls> - <ls>ŚKDR.</ls> u. <ls>WILS.</ls> machen das Wort in beiden Bedd. zum m.; in der 1 sten Ausg. von 
-<ls>WILS.</ls> wird {#SEvala#} durch {%Vallisneria%} (d. i. {%Blyxa Saivala Steud.%}) wiedergegeben, in der 2ten durch {%Utricularia fasciculata%}; hier tritt auch noch eine 3te Bed. {%benzoin%} hinzu, die auf der Lesart {#SElaja#} beruht, wie 
-<ls>ŚKDR.</ls> st. {#SEvala#} liest. 
+{#jarja/ra#}¦ (von 1. {#jar#})
+<ls>Uṇ. 3,130</ls>, <ls>Sch.</ls>
+<div n="1"> 1) <lex>adj.</lex>
+<div n="2"> a) = {#jIrRa#}
+<ls>H. an. 3,556.</ls> = {#jarAtura#}
+<ls>MED. r. 158.</ls> {%abgelebt, zusammengefallen%}: {#virahavedanayA pIqitastAM smaran jarjarIBUtaSarIraH saMjAtaH#}
+<ls>VET. 7,9.</ls>
+<div n="2">— b) {%zerfetzt, löcherig, gespalten, zersplittert, geborsten, zerschlagen%}: {#°snAnaSAwI#}
+<ls>MṚCCH. 49,11.</ls> {#kOpInaM SataKaRqajarjarataram#}
+<ls>BHARTṚ. 3,92.</ls> {#°vaMSa#}
+<ls>PAÑCAT. 117,6. 14. 127,3.</ls>
+<ls>HIT. 27,15.</ls> <ls n="HIT.">32,9.</ls> {#(gfham) BittiviSlezajarjaram#}
+<ls>KATHĀS. 2,49.</ls> {#laGu jarjaraM daDiniBaM vfhadvisaMsTAnamapi hEmam (muktAPalam)#}
+<ls>VARĀH. BṚH. S. 82</ls> (<ls n="VARĀH. BṚH. S.">80,b),5.</ls> {#drumAH — jarjarapattrAH#}
+<ls n="VARĀH. BṚH. S.">53,49.</ls> {#(ozaDIm) SilAyAM jarjarIkftya#}
+<ls>R. 6,83,54.</ls> {#muYjavajjarjarIBUtA bahavastatra pAdapAH#}
+<ls>MBH. 3,434.</ls> {#jalamucaH#}
+<ls>MEGH. 70.</ls> {#kftvA puMvatpAtamuccErBfguByo mUrDni grAvRAM jarjarA nirJarOGAH#}
+<ls>ŚIŚ. 4,23.</ls> {#vyABagnajarjaraSiro'sTi#}
+<ls>PRAB. 67,11.</ls> {#jarjarasarvANga#}
+<ls>MBH. 3,450.</ls>
+<ls>R. 6,83,18.</ls> {#pakzatuRqaprahArESca SataSo jarjarIkftam (rAkzasam)#}
+<ls>MBH. 3,16049.</ls> <ls n="MBH.">7,3468.</ls> <ls n="MBH.">8,2719.</ls> <ls n="MBH.">9,3279.</ls>
+<ls>R. 4,12,31.</ls>
+<ls>PAÑCAT. 40,21.</ls>
+<ls>HIT. 107,18.</ls>
+<ls>PRAB. 88,3.</ls>
+<div n="2">— c) {%zerrissen, gespalten%} so v. a. {%in Zwiespalt seiend%}: {#jarjaraM cAsya vizayaM kurvanti pratirUpakEH#}
+<ls>MBH. 12,2037.</ls> {#svarAjyaM Bedajarjaram#}
+<ls>RĀJA-TAR. 2,152.</ls> {#evaM paryAkule loke vitaTe jarjarIkfte . tEstErnyAyEH#}
+<ls n="RĀJA-TAR.">12,475.</ls> {#cintAjarjaracetas#}
+<ls>PRAB. 35,6.</ls>
+<div n="2">— d) {%dumpf%} (wie der Ton eines {%zerbrochenen%} Gefässes): {#BEravajarjaraSabdo yAti (nirGAtaH)#}
+<ls>VARĀH. BṚH. S. 38 (37),5.</ls> {#paraSorjarjaraSabdo nezwaH snigDo GanaSca hitaH#}
+<ls n="VARĀH. BṚH. S.">42 (43),19.</ls> {#gardaBajarjararUkzasvarASca DanasOKyasaMtyaktAH#}
+<ls n="VARĀH. BṚH. S.">67,95 (96).</ls> {#BinnaBEravadInArtaparuzakzAmajarjarAH svarA nezwAH#}
+<ls n="VARĀH. BṚH. S.">85,36.</ls> {#baBAze harzavAzpAmbuGarGarAkzarajarjaram#}
+<ls>KATHĀS. 25,66.</ls>
+<div n="1">— 2) <lex>n.</lex>
+<div n="2"> a) <is>Indra's</is> {%Fahne%}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— b) = {#SEvala#}
+<ls>MED.</ls> — <ls>ŚKDR.</ls> u. <ls>WILS.</ls> machen das Wort in beiden Bedd. zum m.; in der 1 sten Ausg. von
+<ls>WILS.</ls> wird {#SEvala#} durch {%Vallisneria%} (<ab>d. i.</ab> {%Blyxa Saivala Steud.%}) wiedergegeben, in der 2ten durch {%Utricularia fasciculata%}; hier tritt auch noch eine 3te Bed. {%benzoin%} hinzu, die auf der Lesart {#SElaja#} beruht, wie
+<ls>ŚKDR.</ls> st. {#SEvala#} liest.
 <div n="v">— Vgl. {#vijarjarA#} .
 <LEND>

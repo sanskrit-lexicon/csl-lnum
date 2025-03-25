@@ -1,9 +1,9 @@
 <L>7553<pc>238<k1>end<k2>end
-<div n="lb"/>{@END@}¦ (v. i.): <div n="1">(1) expr. by subs., <div n="xe">{%this dynasty%}
-<div n="lb"/>{%will e. in Sumitra:%}</div> <div n="xs">{#ayaM vaMSaH sumitrAnto Bavizyati,#}</div>
-<div n="lb"/>V. p.; ({%words%}) <div n="xe">{%e. ing in the affix%}</div> <div n="xs">{#I#}</div> <div n="xe">{%are femi-%}
-<div n="lb"/>{%nine:%}</div> <div n="xs">{#IpratyayAntaH strI syAt,#}</div> S. k.; <div n="xe">{%whether it will%}
-<div n="lb"/>{%e. auspiciously or otherwise:%}</div> <div n="xs">{#kalyARI pariRatirastu #}
-<div n="lb"/>{# vAnyaTA vA,#}</div> Vi.; </div><div n="1">(2) {#avasIyate#} (pass. of {#so#})
-<div n="lb"/>(rare), <div n="xe">{%it will e. so:%}</div> <div n="xs">{#evaM kilAvasIyate,#}</div> Vi.</div>
+{@END@}¦ (v. i.): <div n="1">(1) expr. by subs., <div n="xe">{%this dynasty%}
+{%will e. in Sumitra:%}</div> <div n="xs">{#ayaM vaMSaH sumitrAnto Bavizyati,#}</div>
+V. p.; ({%words%}) <div n="xe">{%e. ing in the affix%}</div> <div n="xs">{#I#}</div> <div n="xe">{%are femi-%}
+{%nine:%}</div> <div n="xs">{#IpratyayAntaH strI syAt,#}</div> S. k.; <div n="xe">{%whether it will%}
+{%e. auspiciously or otherwise:%}</div> <div n="xs">{#kalyARI pariRatirastu #}
+{# vAnyaTA vA,#}</div> Vi.; </div><div n="1">(2) {#avasIyate#} (pass. of {#so#})
+(rare), <div n="xe">{%it will e. so:%}</div> <div n="xs">{#evaM kilAvasIyate,#}</div> Vi.</div>
 <LEND>

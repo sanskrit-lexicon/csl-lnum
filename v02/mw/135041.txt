@@ -1,4 +1,4 @@
-<L>135041<pc>681,3<k1>prapac<k2>pra-pac<h>b<e>1
-<hom>b.</hom> <s>pra-</s>√ <hom>2.</hom> <s>pac</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-pacati</s>, <s>°te</s>, to begin to cook, <ls>Pāṇ. 8-1, 44</ls> <ab>Sch.</ab>;
-<div n="to"/>to be accustomed to cook, <ls>R.</ls><info verb="pre" cp="PĀ" parse="pra+pac"/>
+<L>135041<pc>681,3<k1>prapac<k2>pra-pac<e>1
+ <s>pra-</s>√ <hom>2.</hom> <s>pac</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-pacati</s>, <s>°te</s>, to begin to cook, <ls>Pāṇ. viii, 1, 44</ls>, <ab>Sch.</ab>;
+<div n="to"/>to be accustomed to cook, <ls>R.</ls><info verb="pre" cp="PĀ" parse="pra+pac"/><info hui="b"/>
 <LEND>

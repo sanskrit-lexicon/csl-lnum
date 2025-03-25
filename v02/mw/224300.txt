@@ -1,3 +1,3 @@
-<L>224300<pc>1105,2<k1>SvaGnin<k2>SvaGni/n<h>b<e>2
-<s>SvaGni/n</s> <hom>b</hom> ¦ <lex>m.</lex> (<ab>prob.</ab> <ab>fr.</ab> <s>Sva-han</s>, ‘a dog-killer’ or low fellow, but <ab>accord.</ab> to some for <s>sva-Gnin</s>, ‘one who destroys his own’) a gamester, professional gambler, <ls>RV.</ls>; <ls>AV.</ls><info lex="m"/>
+<L>224300<pc>1105,2<k1>SvaGnin<k2>SvaGni/n<e>2
+<s>SvaGni/n</s> ¦ <lex>m.</lex> (<ab>prob.</ab> <ab>fr.</ab> <s>Sva-han</s>, ‘a dog-killer’ or low fellow, but <ab>accord.</ab> to some for <s>sva-Gnin</s>, ‘one who destroys his own’) a gamester, professional gambler, <ls>RV.</ls>; <ls>AV.</ls><info lex="m"/><info hui="b"/>
 <LEND>

@@ -1,6 +1,6 @@
 <L>3303<pc>110<k1>celebration<k2>celebration
-<div n="lb"/>{@CELEBRATION:@}¦ <div n="I">I A praising: {#kIrtanam:#} v. To
-<div n="lb"/>celebrate, praise. </div><div n="I">II Solemnization </div><div n="1">(1)
-<div n="lb"/>{#aBinandanam;#} </div><div n="1">(2) {#anuzWAnam#} (=performance:
-<div n="lb"/>q. v.).</div>
+{@CELEBRATION:@}¦ <div n="I">I A praising: {#kIrtanam:#} v. To
+celebrate, praise. </div><div n="I">II Solemnization </div><div n="1">(1)
+{#aBinandanam;#} </div><div n="1">(2) {#anuzWAnam#} (=performance:
+q. v.).</div>
 <LEND>

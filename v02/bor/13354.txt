@@ -1,9 +1,9 @@
 <L>13354<pc>411<k1>learned<k2>learned
-<div n="lb"/>{@LEARNED:@}¦ <div n="I">I Erudite: </div><div n="1">(1) {#vidvas#} (f. {#-duzI#}); [Page412]</div>
-<div n="lb"/><div n="1">(2) {#paRqitaH#} ({#tA, taM#}); </div><div n="1">(3) {#vipaScit#} (mfn.);</div>
-<div n="lb"/><div n="1">(4) {#buDaH#} ({#DA, DaM#}), {#vi-.#} </div><div n="I">II L. in: </div><div n="1">(1) {#aBijYaH#}
-<div n="lb"/>({#jYA, jYaM#}): v. Knowing; </div><div n="1">(2) {#aDItin#} (f. {#nI#}),
-<div n="lb"/><div n="xe">{%l. in the four Vedas:%}</div> <div n="xs">{#aDItI caturzvAmnAyezu,#}</div> D. v.:
-<div n="lb"/>v. Proficient. </div><div n="I">III Of works etc.: {#pARqitya-#}
-<div n="lb"/>{#vyaYjaka#} (f. {#YjikA#}) (= indicative of learing) (?).</div>
+{@LEARNED:@}¦ <div n="I">I Erudite: </div><div n="1">(1) {#vidvas#} (f. {#-duzI#}); [Page412]</div>
+<div n="1">(2) {#paRqitaH#} ({#tA, taM#}); </div><div n="1">(3) {#vipaScit#} (mfn.);</div>
+<div n="1">(4) {#buDaH#} ({#DA, DaM#}), {#vi-.#} </div><div n="I">II L. in: </div><div n="1">(1) {#aBijYaH#}
+({#jYA, jYaM#}): v. Knowing; </div><div n="1">(2) {#aDItin#} (f. {#nI#}),
+<div n="xe">{%l. in the four Vedas:%}</div> <div n="xs">{#aDItI caturzvAmnAyezu,#}</div> D. v.:
+v. Proficient. </div><div n="I">III Of works etc.: {#pARqitya-#}
+{#vyaYjaka#} (f. {#YjikA#}) (= indicative of learing) (?).</div>
 <LEND>

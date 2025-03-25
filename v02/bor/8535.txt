@@ -1,8 +1,8 @@
 <L>8535<pc>270<k1>fear<k2>fear
-<div n="lb"/>{@FEAR@}¦ (v.t.): <div n="1">(1) {#biBeti#} ({#mI,#} c. 3.) (with abl.),
-<div n="lb"/><div n="xe">{%f. s. thieves:%}</div> <div n="xs">{#cOrAdviBeti,#}</div> S. k.; <div n="xe">{%f. s in the%}
-<div n="lb"/>{%forest:%}</div> <div n="xs">{#araRye biBeti,#}</div> S.k.: </div><div n="1">(2) {#trasyati, saM-, vi-, #}
-<div n="lb"/>{# pari-,#} ({#trasa,#} c. 4.) (with abl.): stronger [Page271]
-<div n="lb"/>than f., <div n="xe">{%if he did not f. the god Śiva:%}</div> <div n="xs">{#yadi tena #}
-<div n="lb"/>{# devAdBavAnIpaterna trastam,#}</div> Vi. ii. 28.</div>
+{@FEAR@}¦ (v.t.): <div n="1">(1) {#biBeti#} ({#mI,#} c. 3.) (with abl.),
+<div n="xe">{%f. s. thieves:%}</div> <div n="xs">{#cOrAdviBeti,#}</div> S. k.; <div n="xe">{%f. s in the%}
+{%forest:%}</div> <div n="xs">{#araRye biBeti,#}</div> S.k.: </div><div n="1">(2) {#trasyati, saM-, vi-, #}
+{# pari-,#} ({#trasa,#} c. 4.) (with abl.): stronger [Page271]
+than f., <div n="xe">{%if he did not f. the god Śiva:%}</div> <div n="xs">{#yadi tena #}
+{# devAdBavAnIpaterna trastam,#}</div> Vi. ii. 28.</div>
 <LEND>

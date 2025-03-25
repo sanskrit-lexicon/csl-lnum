@@ -1,5 +1,5 @@
 <L>24486<pc>767<k1>worshipful<k2>worshipful
-<div n="lb"/>{@WORSHIPFUL:@}¦ <div n="1">(1) {#arcanIya#} (f. {#yA#}), {#aBi, samaBi-;#}</div>
-<div n="lb"/><div n="1">(2) {#pUjya#} (f. {#jyA#}) <div n="xe">{%or%}</div> <div n="xs">{#pUjanIya#}</div> (f. {#yA#}); </div><div n="1">(3) {#upAsya#}
-<div n="lb"/>(f. {#syA#}) <div n="xe">{%or%}</div> <div n="xs">{#upAsanIya#}</div> (f. {#yA#}); etc.</div>
+{@WORSHIPFUL:@}¦ <div n="1">(1) {#arcanIya#} (f. {#yA#}), {#aBi, samaBi-;#}</div>
+<div n="1">(2) {#pUjya#} (f. {#jyA#}) <div n="xe">{%or%}</div> <div n="xs">{#pUjanIya#}</div> (f. {#yA#}); </div><div n="1">(3) {#upAsya#}
+(f. {#syA#}) <div n="xe">{%or%}</div> <div n="xs">{#upAsanIya#}</div> (f. {#yA#}); etc.</div>
 <LEND>

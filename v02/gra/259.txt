@@ -1,6 +1,6 @@
 <L>259<pc>0031<k1>atrin<k2>atri/n
-{@atrín,@}¦ a., {%gefrässig%} [wol von atrá in der Bedeutung <lbinfo n="7"/> der Fresswerkzeuge], zur Bezeichnung <lbinfo n="4"/> von Dämonen.
-<div n="P1">-íṇam {36,14. 20}; {86,10}; {457,28}; {492,14} (paním); <lbinfo n="5"/> {632,1}; {639,15}; {816,6} (rakṣásam); {817,6}; {862,4}; {944,1}.
-<div n="P1">-íṇas [<ab>N.</ab> <ab>p.</ab>] {21,5}; {94,9}.
-<div n="P1">-íṇas [<ab>A.</ab> <ab>p.</ab>] {620,1. 5}; {798,48} (rakṣásas).
-<LEND>
+{@atrín,@}¦ <ab>a.</ab>, {%gefrässig%} [wol von atrá in der Bedeutung der Fresswerkzeuge], zur Bezeichnung von Dämonen.
+<div n="TS">-íṇam {36,14}. _{36,20}; {86,10}; {457,28}; {492,14} (paním); {632,1}; {639,15}; {816,6} (rakṣásam); {817,6}; {862,4}; {944,1}.
+<div n="TS">-íṇas [<ab>N.</ab> <ab>p.</ab>] {21,5}; {94,9}.
+<div n="TS">-íṇas [<ab>A.</ab> <ab>p.</ab>] {620,1}. _{620,5}; {798,48} (rakṣásas).
+<LEND> [Page32]

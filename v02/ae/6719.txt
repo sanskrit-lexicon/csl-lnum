@@ -1,15 +1,15 @@
 <L>6719<pc>290<k1>minute<k2>minute
 {@Minute,@}¦ {%s.%} {#kzaRaH, palaM, nimi(me)zaH#}. {@2@} {#kalA#}. {@3@}
-<div n="lb"/>{#leKaH, liKitaM#} {%-v. t.%} {#liK#} 6 P, {#smaraRArTaM#}
-<div n="lb"/>{#liK#} {%-a.%} {#sUkzma, aRu, atyalpa, atisUkzma,#}
-<div n="lb"/>{#alpizWa, kzudra, pratanu#}. {@2@} {#nipuRa, sAvaDAna,#}
-<div n="lb"/>{#sUkzma#}. {@3@} {#sUkzmadfzwi, sUkzmadarSin;#} ‘after m.
-<div n="lb"/>inquiries’ {#nipuRaM anvizya;#} ‘m. descrip-
-<div n="lb"/>-tion of a woman’ {#taruRIpfTagavayavavarRanaM#}
-<div n="lb"/>or {#-pratyavayavavarRanaM#}. {@-ly,@} {%adv.%} {#sUkzmaM, lavaSaH,#}
-<div n="lb"/>{#aRuSaH; snigDaM, nipuRaM, sUkzmadfzwyA;#} ‘while
-<div n="lb"/>m. looking at the ring’ {#aMgulIyakaM#}
-<div n="lb"/>{#snigDaM niDyAyaMtI#} (M. 1). {@-ness,@} {%s.%}
-<div n="lb"/>{#sUkzmatA, atyalpatA, atitanutA,#} &c. {@-Mi-@}
-<div n="lb"/>{@-nutiæ,@} {%s.%} {#sUkzmAvayavAH, paramARavaH#}.
+{#leKaH, liKitaM#} {%-v. t.%} {#liK#} 6 P, {#smaraRArTaM#}
+{#liK#} {%-a.%} {#sUkzma, aRu, atyalpa, atisUkzma,#}
+{#alpizWa, kzudra, pratanu#}. {@2@} {#nipuRa, sAvaDAna,#}
+{#sUkzma#}. {@3@} {#sUkzmadfzwi, sUkzmadarSin;#} ‘after m.
+inquiries’ {#nipuRaM anvizya;#} ‘m. descrip-
+-tion of a woman’ {#taruRIpfTagavayavavarRanaM#}
+or {#-pratyavayavavarRanaM#}. {@-ly,@} {%adv.%} {#sUkzmaM, lavaSaH,#}
+{#aRuSaH; snigDaM, nipuRaM, sUkzmadfzwyA;#} ‘while
+m. looking at the ring’ {#aMgulIyakaM#}
+{#snigDaM niDyAyaMtI#} (M. 1). {@-ness,@} {%s.%}
+{#sUkzmatA, atyalpatA, atitanutA,#} &c. {@-Mi-@}
+{@-nutiæ,@} {%s.%} {#sUkzmAvayavAH, paramARavaH#}.
 <LEND>

@@ -1,10 +1,3 @@
 <L>1207<pc>042,1<k1>anyAtaka<k2>anyAtaka
-{@anyātaka@}¦, adj. (§ 2.15; = Pali aññāta, °taka; AMg.
-<div n="lb">aṇṇāya; from Skt. ajñāta, in MIndic {%stranger%}), {%belonging%}
-<div n="lb">{%to another%} or {%others%}; the word was unhistorically Sktized
-<div n="lb">by association with anya, {%other%}: Mv i.346.11 ff. (repeatedly),
-<div n="lb">e.g. adinnam anyātakaṃ śālim, {%rice belonging to others%}
-<div n="lb">{%and not given%} (by them). In MSV iv. 107.11 spelled {@anyā-@}
-<div n="lb">{@dakam@} (ed. em. ajñātakaṃ); Tib. (Dutt, 108 n. 1) gzan
-<div n="lb">gi, {%of another%} (anya!).
+{@anyātaka@}¦, <lex>adj.</lex> (〔§ 2.15〕; = <lang>Pali</lang> aññāta, °taka; <lang>AMg.</lang> aṇṇāya; from <lang>Skt.</lang> ajñāta, in <lang>MIndic</lang> {%stranger%}), {%belonging to another%} or {%others%}; the word was unhistorically <ab>Sktized</ab> by association with anya, {%other%}: <ls>Mv</ls> 〔i.346.11 ff.〕 (repeatedly), <ab>e.g.</ab> adinnam anyātakaṃ śālim, {%rice belonging to others and not given%} (by them). In <ls>MSV</ls> 〔iv.107.11〕 spelled {@anyādakam@} (<ab>ed.</ab> <ab>em.</ab> ajñātakaṃ); <lang>Tib.</lang> (<ls>Dutt</ls>, 〔108 n. 1〕) <tib>gzan gi</tib>, {%of another%} (anya!).
 <LEND>

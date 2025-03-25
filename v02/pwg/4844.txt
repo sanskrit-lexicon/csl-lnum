@@ -1,30 +1,30 @@
 <L>4844<pc>1-0355<k1>aBIkzRa<k2>aBIkzRa
-{#aBIkzRa#}¦ (aus {#aBi + kzaRa#}) <lex>adj.</lex> 
-<div n="1"> 1) {%beständig%} 
-<ls>H. an. 3, 193.</ls> 
-<ls>MED. ṇ. 35.</ls> 
-<div n="1">— 2) {%heftig%} ({#BfSa#}) dies. Davon: 
-<div n="1"> 1) {#aBIkzRam#} adv. <is>gaṇa</is> {#svarAdi#} . 
-<div n="2"> a) {%jeden Augenblick, wiederholt, beständig%} 
-<ls>AK. 3, 5, 1. 11.</ls> 
-<ls>TRIK. 3, 3, 121.</ls> 
-<ls>H. 1531.</ls> 
-<ls>an. 7, 56</ls> ({#pOnaHpunye saMtate ca#}). 
-<ls>MED. avy. 61</ls> {#(muhuraSrAnte)#}.{# muhurmUQa iva kAlo yAvadaBIkzRaM ceti . aBIkzRamaBikzaRaM Bavati#} 
-<ls>NIR. 2, 25.</ls> 
-<ls>KENOP. 30</ls> (<ls>ŚAṂK.</ls>: = {#BfSam#}). 
-<ls>N. 9, 34.</ls> 
-<ls>ARJ. 10, 54.</ls> 
-<ls>SUŚR. 1, 98, 16. 376, 2. 2, 41, 3. 98, 14.</ls> 
-<ls>PAÑCAT. II, 193. IV, 66.</ls> {#mahAraRyamanaBIkzRopasevitam#} 
-<ls>R. 2, 71, 8.</ls> 
-<div n="2">— b) {%sehr%}, {#BfSe#} 
-<ls>TRIK. 3, 3, 121.</ls> {#prakarze#} 
-<ls>H. an. 7, 55.</ls> 
-<ls>MED. avy. 61.</ls> 
-<div n="2">— c) {%eiligst%} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="1">— 2) {#aBIkzRaSas#} adv. {%beständig, ununterbrochen%}: {#api nAnDO BavetAM nO rudantO tAvaBIkzRaSaH#} 
-<ls>R. 2, 46, 6. 3, 30, 28.</ls> 
-<ls>SUŚR. 2, 130, 17. 254, 21.</ls>
+{#aBIkzRa#}¦ (aus {#aBi + kzaRa#}) <lex>adj.</lex>
+<div n="1"> 1) {%beständig%}
+<ls>H. an. 3,193.</ls>
+<ls>MED. ṇ. 35.</ls>
+<div n="1">— 2) {%heftig%} ({#BfSa#}) dies. Davon:
+<div n="1"> 1) {#aBIkzRam#} adv. <is>gaṇa</is> {#svarAdi#} .
+<div n="2"> a) {%jeden Augenblick, wiederholt, beständig%}
+<ls>AK. 3,5,1.</ls> <ls n="AK. 3,5,">11.</ls>
+<ls>TRIK. 3,3,121.</ls>
+<ls>H. 1531.</ls>
+<ls>an. 7,56</ls> ({#pOnaHpunye saMtate ca#}).
+<ls>MED. avy. 61</ls> ({#muhuraSrAnte#}).{# muhurmUQa iva kAlo yAvadaBIkzRaM ceti . aBIkzRamaBikzaRaM Bavati#}
+<ls>NIR. 2,25.</ls>
+<ls>KENOP. 30</ls> (<ls>ŚAṂK.</ls>: = {#BfSam#}).
+<ls>N. 9,34.</ls>
+<ls>ARJ. 10,54.</ls>
+<ls>SUŚR. 1,98,16. 376,2. 2,41,3. 98,14.</ls>
+<ls>PAÑCAT. II,193. IV,66.</ls> {#mahAraRyamanaBIkzRopasevitam#}
+<ls>R. 2,71,8.</ls>
+<div n="2">— b) {%sehr%}, {#BfSe#}
+<ls>TRIK. 3,3,121.</ls> {#prakarze#}
+<ls>H. an. 7,55.</ls>
+<ls>MED. avy. 61.</ls>
+<div n="2">— c) {%eiligst%}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="1">— 2) {#aBIkzRaSas#} adv. {%beständig, ununterbrochen%}: {#api nAnDO BavetAM nO rudantO tAvaBIkzRaSaH#}
+<ls>R. 2,46,6.</ls> <ls n="R.">3,30,28.</ls>
+<ls>SUŚR. 2,130,17. 254,21.</ls>
 <LEND>

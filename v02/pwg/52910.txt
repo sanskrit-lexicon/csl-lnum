@@ -1,16 +1,16 @@
 <L>52910<pc>5-0101<k1>budDimant<k2>budDimant
-{#budDimant#}¦ (von {#budDi)#} <lex>adj.</lex> {%verständig%} 
-<ls>VYUTP. 78.</ls> 
-<ls>ĀŚV. GṚHY. 1, 5, 2.</ls> 
-<ls>M. 1, 96. 4, 136. 9, 227. 11, 172.</ls> 
-<ls>BHAG. 4, 18. 7, 10.</ls> 
-<ls>SĀV. 2, 14.</ls> 
-<ls>R. 1, 1, 11.</ls> 
-<ls>Spr. 287. 519. 905. 1976. 3528. 4635. fg.</ls> 
-<ls>KATHĀS. 27, 208.</ls> 
-<ls>VID. 37. 293.</ls> <is>Agni</is> 
-<ls>ŚĀṄKH. ŚR. 2, 5, 14.</ls> {#AgneyAvAjyaBAgO budDimadindumantAvityAcakzeta#} 
-<ls>ĀŚV. ŚR. 2, 8.</ls> {#su°#} 
-<ls>KATHĀS. 49, 110.</ls> {#budDimattara#} 
-<ls>R. 2, 104. 34.</ls>
+{#budDimant#}¦ (von {#budDi)#} <lex>adj.</lex> {%verständig%}
+<ls>VYUTP. 78.</ls>
+<ls>ĀŚV. GṚHY. 1,5,2.</ls>
+<ls>M. 1,96.</ls> <ls n="M.">4,136.</ls> <ls n="M.">9,227.</ls> <ls n="M.">11,172.</ls>
+<ls>BHAG. 4,18. 7,10.</ls>
+<ls>SĀV. 2,14.</ls>
+<ls>R. 1,1,11.</ls>
+<ls>Spr. 287.</ls> <ls n="Spr.">519.</ls> <ls n="Spr.">905.</ls> <ls n="Spr.">1976.</ls> <ls n="Spr.">3528.</ls> <ls n="Spr.">4635. fg.</ls>
+<ls>KATHĀS. 27,208.</ls>
+<ls>VID. 37. 293.</ls> <is>Agni</is>
+<ls>ŚĀṄKH. ŚR. 2,5,14.</ls> {#AgneyAvAjyaBAgO budDimadindumantAvityAcakzeta#}
+<ls>ĀŚV. ŚR. 2,8.</ls> {#su°#}
+<ls>KATHĀS. 49,110.</ls> {#budDimattara#}
+<ls>R. 2,104,34.</ls>
 <LEND>

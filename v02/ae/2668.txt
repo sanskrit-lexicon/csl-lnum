@@ -1,14 +1,14 @@
 <L>2668<pc>097<k1>degree<k2>degree
 {@Degree,@}¦ {%s.%} {#padaM, sTAnaM, padavi-vI#} {%f.,%} {#AspadaM#}.
-<div n="lb"/>{@2@} {#daSA, sTiti#} {%f.,%} {#avasTA#}. {@3@} {#upADiH, upa-#}
-<div n="lb"/>{#-padaM#}. {@4@} {#kulaM, vaMSaH, anvayaH#}. {@5@} {#pramARaM, parimARaM#}.
-<div n="lb"/>{@6@} {#gaRaH, vargaH#}. {@7@} {#BAgaH, aMSaH#}. {@8@} {#kowi#} {%f.,%}
-<div n="lb"/>{#kAzWA;#} ‘the highest d.’ {#parAkowiH-kAzWA,#}
-<div n="lb"/>{#atiBUmiH#}. {@9@} {#kramaH, anukramaH, Avft#} {%f.,%} {#pari-#}
-<div n="lb"/>{#-pAwi-wI#} {%f.,%} {#AnupUrvyaM-rvI, paryAyaH, tAratamya-#}
-<div n="lb"/>{#-BAvaH;#} ‘in the highest d.’ {#niratiSayaM,#}
-<div n="lb"/>{#ekAMtataH;#} ‘in some d.’ {#kiMcit, kiyatA-#}
-<div n="lb"/>{#-pyaMSena, Izat;#} ‘not in any d.’ {#na kenA-#}
-<div n="lb"/>{#-pyaMSena;#} ‘by d. s’ {#krameRa, kramaSaH, SanEH-#}
-<div n="lb"/>{#-SanEH, pratipadaM#}.
+{@2@} {#daSA, sTiti#} {%f.,%} {#avasTA#}. {@3@} {#upADiH, upa-#}
+{#-padaM#}. {@4@} {#kulaM, vaMSaH, anvayaH#}. {@5@} {#pramARaM, parimARaM#}.
+{@6@} {#gaRaH, vargaH#}. {@7@} {#BAgaH, aMSaH#}. {@8@} {#kowi#} {%f.,%}
+{#kAzWA;#} ‘the highest d.’ {#parAkowiH-kAzWA,#}
+{#atiBUmiH#}. {@9@} {#kramaH, anukramaH, Avft#} {%f.,%} {#pari-#}
+{#-pAwi-wI#} {%f.,%} {#AnupUrvyaM-rvI, paryAyaH, tAratamya-#}
+{#-BAvaH;#} ‘in the highest d.’ {#niratiSayaM,#}
+{#ekAMtataH;#} ‘in some d.’ {#kiMcit, kiyatA-#}
+{#-pyaMSena, Izat;#} ‘not in any d.’ {#na kenA-#}
+{#-pyaMSena;#} ‘by d. s’ {#krameRa, kramaSaH, SanEH-#}
+{#-SanEH, pratipadaM#}.
 <LEND>

@@ -1,5 +1,5 @@
 <L>12292<pc>382<k1>innocence<k2>innocence
-<div n="lb"/>{@INNOCENCE:@}¦ <div n="I">I Of men etc.: </div><div n="1">(1) {#nirAparADatA;#}</div>
-<div n="lb"/><div n="1">(2) {#anaparADitA.#} </div><div n="I">II of acts etc.: </div><div n="1">(1) {#nirdozatA;#}</div>
-<div n="lb"/><div n="1">(2) {#anavadyatA.#}</div>
+{@INNOCENCE:@}¦ <div n="I">I Of men etc.: </div><div n="1">(1) {#nirAparADatA;#}</div>
+<div n="1">(2) {#anaparADitA.#} </div><div n="I">II of acts etc.: </div><div n="1">(1) {#nirdozatA;#}</div>
+<div n="1">(2) {#anavadyatA.#}</div>
 <LEND>

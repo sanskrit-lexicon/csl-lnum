@@ -1,144 +1,133 @@
 <L>19756<pc>2-0475<k1>krand<k2>krand
-{#krand#}¦, {#kra/ndati#} und {#kra/ndate#} (auch {#kra/date#} nach einer v. l.) 
-<ls>DHĀTUP. 3, 34. 19, 11</ls>; {#cakranda#} und {#cakrade#} (ved. s. u. {#anu)#}; ved. aor. 
-<ls>2. und 3.</ls> {#akran, akrAn, kran; kradas; akrandIt#} 
-<ls>?(P. 7, 4, 65, Sch.).</ls> 
-<div n="1"> 1) {%wiehern, brüllen%}, bildlich vom Donner und Wasser ({%rauschen)%}: {#kranda\daSvo^ ru\vadgOH#} 
-<ls>ṚV. 1, 173, 3.</ls> {#atyo\ na kra^daH#} 
-<ls n="ṚV.">9, 97, 18.</ls> <ls n="ṚV. 9, 97,">28.</ls> {#yadakra^ndaH praTa\maM jAya^mAnaH#} 
-<ls n="ṚV.">1, 163, 1.</ls> {#akra^ndada\gni sta\naya^nnavi\ dyOH#} 
-<ls n="ṚV.">10, 45, 4.</ls> <ls n="ṚV. 10,">44, 8.</ls> {#krandatIva hi parjanya stanayan#} 
-<ls>ŚAT. BR. 6, 7, 3, 2.</ls> 
-<ls>VS. 22, 7.</ls> {#tasya\ vajra^H krandati\ smatsva\rzAH#} 
-<ls>ṚV. 1, 100, 13.</ls> {#pava^mAna\ viDa^rmaRi . akrA^nde\vo na sUrya^H#} 
-(<ls>SV.</ls>: {#krandan#}) 
-<ls>9, 64, 9.</ls> {#hari^rakrAnyaja\taH sa^Mya\to mada^H#} 
-<ls>69, 3.</ls> {#akrA^ntsamu\draH pra^Ta\me viDa^rman#} 
-<ls>97, 40.</ls> 
-<div n="1">— 2) {%knarren%}, vom Rade: {#yaTA raTacakraM vA kOlAlacakraM vApratizWitaM krandet#} 
-<ls>ŚAT. BR. 11, 8, 1, 1.</ls> 
-<div n="1">— 3) {%kläglich schreien, jammern%} 
-<ls>DHĀTUP.</ls> {#ca\kranna#} (hier wie im vorherg. Verse partic. praes. von 
-<ls>2.</ls> {#kar#} und dort nachzutragen) {#kra^ndadA\Dye^ Si\vAyE^#} 
-<ls>ṚV. 10, 95, 13.</ls> {#mA pitaH kranda#} 
-<ls>MBH. 1, 6201.</ls> {#niSamya karuRaM krOYcIM krandantIm#} 
-<ls>R. 1, 2, 17. 3, 51, 3.</ls> 
-<ls>VID. 26. 102.</ls> 
-<ls>BHĀG. P. 5, 14, 38.</ls> {#kiM krandasi#} 
-<ls>PAÑCAT. IV, 31.</ls> {#krandati karuRam#} 
-<ls>VIKR. 3.</ls> {#sA muktakaRWam - cakranda vignA kurarIva#} 
-<ls>RAGH. 14, 68. 15, 42.</ls> 
-<ls>BHAṬṬ. 3, 28. 5, 5. 14, 48.</ls> {#akrandIt#} 
-<ls>15, 95.</ls> {#kranditum#} 
-<ls>ŚĀK. 126.</ls> med.: {#tAM krandamAnAmatyarTaM kurarImiva vASatIm#} 
-<ls>MBH. 3, 2381.</ls> 
-<ls>R.4, 24, 41.</ls>
+{#krand#}¦, {#kra/ndati#} und {#kra/ndate#} (auch {#kra/date#} nach einer v. l.)
+<ls>DHĀTUP. 3,34.</ls> <ls n="DHĀTUP.">19,11</ls>; {#cakranda#} und {#cakrade#} (ved. s. u. {#anu)#}; ved. aor.
+2. und 3. {#akran, akrAn, kran; kradas; akrandIt#}
+(<ls>P. 7,4,65</ls>, Sch.).
+<div n="1"> 1) {%wiehern, brüllen%}, bildlich vom Donner und Wasser ({%rauschen)%}: {#kranda\daSvo^ ru\vadgOH#}
+<ls>ṚV. 1,173,3.</ls> {#atyo\ na kra^daH#}
+<ls n="ṚV.">9,97,18.</ls> <ls n="ṚV. 9,97,">28.</ls> {#yadakra^ndaH praTa\maM jAya^mAnaH#}
+<ls n="ṚV.">1,163,1.</ls> {#akra^ndada\gni sta\naya^nnavi\ dyOH#}
+<ls n="ṚV.">10,45,4.</ls> <ls n="ṚV. 10,">44,8.</ls> {#krandatIva hi parjanya stanayan#}
+<ls>ŚAT. BR. 6,7,3,2.</ls>
+<ls>VS. 22,7.</ls> {#tasya\ vajra^H krandati\ smatsva\rzAH#}
+<ls>ṚV. 1,100,13.</ls> {#pava^mAna\ viDa^rmaRi . akrA^nde\vo na sUrya^H#}
+(<ls>SV.</ls>: {#krandan#})
+<ls n="ṚV.">9,64,9.</ls> {#hari^rakrAnyaja\taH sa^Mya\to mada^H#}
+<ls n="ṚV.">69,3.</ls> {#akrA^ntsamu\draH pra^Ta\me viDa^rman#}
+<ls n="ṚV.">97,40.</ls>
+<div n="1">— 2) {%knarren%}, vom Rade: {#yaTA raTacakraM vA kOlAlacakraM vApratizWitaM krandet#}
+<ls>ŚAT. BR. 11,8,1,1.</ls>
+<div n="1">— 3) {%kläglich schreien, jammern%}
+<ls>DHĀTUP.</ls> {#ca\kranna#} (hier wie im vorherg. Verse partic. praes. von
+<hom>2.</hom> {#kar#} und dort nachzutragen) {#kra^ndadA\Dye^ Si\vAyE^#}
+<ls>ṚV. 10,95,13.</ls> {#mA pitaH kranda#}
+<ls>MBH. 1,6201.</ls> {#niSamya karuRaM krOYcIM krandantIm#}
+<ls>R. 1,2,17.</ls> <ls n="R.">3,51,3.</ls>
+<ls>VID. 26. 102.</ls>
+<ls>BHĀG. P. 5,14,38.</ls> {#kiM krandasi#}
+<ls>PAÑCAT. IV,31.</ls> {#krandati karuRam#}
+<ls>VIKR. 3.</ls> {#sA muktakaRWam — cakranda vignA kurarIva#}
+<ls>RAGH. 14,68.</ls> <ls n="RAGH.">15,42.</ls>
+<ls>BHAṬṬ. 3,28. 5,5. 14,48.</ls> {#akrandIt#}
+<ls n="BHAṬṬ.">15,95.</ls> {#kranditum#}
+<ls>ŚĀK. 126.</ls> med.: {#tAM krandamAnAmatyarTaM kurarImiva vASatIm#}
+<ls>MBH. 3,2381.</ls>
+<ls>R. 4,24,41.</ls>
 [Page2-0476]
-{#krandita#} <lex>n.</lex> {%ein klägliches Schreien, Jammern%} 
-<ls>AK. 1, 1, 7, 25.</ls> 
-<ls>H. 1402.</ls> 
-<ls>an. 3, 257.</ls> 
-<ls>MED. t. 103.</ls> 
-<div n="1">— 4) {%Jmd kläglich anrufen%}, mit dem acc.: {#krandatyavirataM so 'Ta BrAtfmAtfsutAnaTa#} 
-<ls>MĀRK. P. 10, 60.</ls> {#trAhIti cArtAH krandanti mAm#} 
-<ls>15, 68.</ls> = {#AhvAna#} {%anrufen%} 
-<ls>DHĀTUP.</ls> {#krandita#} <lex>n.</lex> {%das Herbeirufen%} 
-<ls>H. an. 3, 257.</ls> 
-<ls>MED. t. 103.</ls> — caus. angeblich nicht mit dem acc. 
-<ls>P. 1, 4, 52, <is>Vārtt</is>. 1,</ls> 
-<ls>Sch.</ls> 
-<div n="1"> 1) {%brüllen —, rauschen —, dröhnen machen%}: {#akra^ndayo na\dya^H#} 
-<ls>ṚV. 1, 54, 1.</ls> {#yo akra^ndayatsali\lam#} 
-<ls>AV. 8, 9, 2.</ls> {#Sa\tamuzwrA\~ aci^kradat#} 
-<ls>ṚV. 8, 46, 31.</ls> {#sa tvi1^\mA viSvA\ Buva^nAni cikradat#} 
-<ls>VĀLAKH. 3, 4.</ls> {#ta\taM tantu^macikradaH#} 
-<ls>ṚV. 9, 22, 7.</ls> 
-<ls>SV. I, 6, 2, 2, 6.</ls> 
-<div n="1">— 2) {%zum Jammern bringen%}: {#kranditAn (kumArAn)#} 
-<ls>SUŚR. 2, 382, 13.</ls> 
-<div n="1">— 3) {%brüllen, rauschen u.s.w.%}, aor.: {#di\vo na sAnu^ sta\naya^nnacikradat#} 
-<ls>ṚV. 1, 58, 2.</ls> {#aci^krada\dvfza^Ra\M patnyacCA^#} 
-<ls n="ṚV.">4, 24, 8.</ls> <ls n="ṚV.">7, 20, 9.</ls> <ls n="ṚV. 7,">36, 3.</ls> <ls>VS. 38, 22.</ls> <ls>AV. 3, 3, 1. 18, 4, 58.</ls> {#dyOrna ca^kradadadBi\yA#} 
-<ls>8, 7, 26.</ls> {#aSvo\ na ca^krado\ vf^zA#} 
-<ls>9, 64, 3.</ls> vom <is>Soma</is>: {#sa Su\zmI ka\laSe\zvA pu^nA\no a^cikradat#} 
-<ls>ṚV. 9, 18, 7.</ls> <ls n="ṚV. 9,">75, 3.</ls> <ls n="ṚV. 9,">96, 24.</ls> — intens. ved. {#ka/nikranti#}; partic. {#ka/nikrat#} (
-<ls>ṚV. 9, 63, 20</ls>), gew. {#ka/nikradat#} 
-<ls>?(P. 7, 4, 65; nach dem Schol.</ls> aor. vom simpl., = {#akrandIt); kanikradya/mAna#} 
-<ls>ŚAT. BR. 6, 4, 4, 7.</ls> {%wiehern, brüllen, schreien, rauschen, dröhnen%}: {#indu\ratyo\ na vA^ja\sftkani^kranti pa\vitra\ A#} 
-<ls>ṚV. 9, 43, 5.</ls> <ls n="ṚV. 9,">95, 1.</ls> {#(vfzaBaH) daDa\dreta\H kani^kradat#} 
-<ls n="ṚV.">1, 128, 3.</ls> <ls n="ṚV. 1,">152, 5.</ls> <ls n="ṚV.">4, 50, 5.</ls> <ls n="ṚV.">5, 83, 1.</ls> {#yatpa^rjanya\ kani^kradatsta\naya\M haMsi^ du\zkfta^H#} 
-<ls n="ṚV. 5, 83,">9.</ls> <ls n="ṚV.">9, 97, 32.</ls> <ls>AV. 2, 30, 5.</ls> {%kreischend%}, von einem Vogel 
-<ls>ṚV. 2, 42, 1.</ls> <ls n="ṚV. 2, 42,">2.</ls> {%knatternd%}, vom Feuer: {#pra mA\tfByo\ aDi\ kani^kradadgAH#} 
-<ls n="ṚV.">10, 1, 2.</ls> med.: {#ahatAni marmARi kanikrante#} 
-(<ls>Sch.</ls>: {#tAni daRqAdiBiratAqitAni varmARi carmayuktAni BeryAdIni kanikrandante SabdaM kurvanti#}) 
-<ls>ADBH. BR.</ls> in <ls>Ind. St. 1, 41.</ls> Vgl. {#kanikrada#} .
-
-<div n="p">— {#anu#} med. {%zurufen%}: {#sa\dyaH so a^sya mahi\mA na sa\MnaSe\ yaM kzo\RIra^nucakra\de#} 
-<ls>ṚV. 8, 3, 10.</ls>
-
-<div n="p">— {#aBi#} {%anwiehern, anbrüllen, anschreien%}: {#a\Bi\kranda^nka\laSa^M vA\jya^rzati#} 
-<ls>ṚV. 9, 86, 11.</ls> <ls n="ṚV. 9,">38, 6.</ls> <ls n="ṚV.">10, 21, 8.</ls> {#a\Bi kra^ndanti\ hari^teBirA\saBi^H#} 
-<ls n="ṚV.">10, 94, 2.</ls> {#a\Bi kra^nda sta\naya\ garBa\mA DA^H#} 
-<ls n="ṚV.">5, 83, 7.</ls> {#tvaM Buva^nA ja\naya^nna\Bi kra^n#} 
-<ls n="ṚV.">7, 5, 7.</ls> <ls>AV. 8, 7, 21.</ls> {#yatprA\Ra sta^nayi\tnunA^Bi\kranda\tyoza^DIH#} 
-<ls>11, 4, 3. 4. 5, 12. 5, 20, 2. 7.</ls> <ls>LĀṬY. 9, 9, 22.</ls> — caus. aor.: {#a\Bi gA a^cikradat#} 
-<ls>ṚV. 9, 82, 1.</ls> — intens. partic.: {#(vfzA) a\Bi\kani^krada\dgAH#} 
-<ls>ṚV. 9, 97, 13.</ls> <ls n="ṚV. 9,">67, 14.</ls> <ls n="ṚV.">10, 67, 3.</ls>
-
-<div n="p">— {#ava#} {%brüllen%}: {#ava^ kranda dakziRa\to gf\hARA^m#} 
-<ls>ṚV. 2, 42, 3.</ls> {#avo\sriyo^ vfza\BaH kra^ndatu\ dyOH#} 
-<ls n="ṚV.">5, 58, 6.</ls> — caus. dass. (nur in Verbind. mit {#vane#} oder {#vanezu): vfzAva^ cakrada\dvane^#} 
-<ls>ṚV. 9, 7, 3.</ls> {#SiSu\rna jA\to 'va^ cakrada\dvane^#} 
-<ls n="ṚV. 9,">74, 1.</ls> <ls n="ṚV. 9, 74,">86.</ls> <ls n="ṚV. 9, 74,">31.</ls> <ls n="ṚV. 9,">107, 22.</ls> 
+{#krandita#} <lex>n.</lex> {%ein klägliches Schreien, Jammern%}
+<ls>AK. 1,1,7,25.</ls>
+<ls>H. 1402.</ls>
+<ls>an. 3,257.</ls>
+<ls>MED. t. 103.</ls>
+<div n="1">— 4) {%Jmd kläglich anrufen%}, mit dem acc.: {#krandatyavirataM so 'Ta BrAtfmAtfsutAnaTa#}
+<ls>MĀRK. P. 10,60.</ls> {#trAhIti cArtAH krandanti mAm#}
+<ls n="MĀRK. P.">15,68.</ls> = {#AhvAna#} {%anrufen%}
+<ls>DHĀTUP.</ls> {#krandita#} <lex>n.</lex> {%das Herbeirufen%}
+<ls>H. an. 3,257.</ls>
+<ls>MED. t. 103.</ls> — caus. angeblich nicht mit dem acc.
+<ls>P. 1,4,52</ls>, <is>Vārtt</is>. 1, <ls>Sch.</ls>
+<div n="1"> 1) {%brüllen —, rauschen —, dröhnen machen%}: {#akra^ndayo na\dya^H#}
+<ls>ṚV. 1,54,1.</ls> {#yo akra^ndayatsali\lam#}
+<ls>AV. 8,9,2.</ls> {#Sa\tamuzwrA\~ aci^kradat#}
+<ls>ṚV. 8,46,31.</ls> {#sa tvi1^\mA viSvA\ Buva^nAni cikradat#}
+<ls>VĀLAKH. 3,4.</ls> {#ta\taM tantu^macikradaH#}
+<ls>ṚV. 9,22,7.</ls>
+<ls>SV. I,6,2,2,6.</ls>
+<div n="1">— 2) {%zum Jammern bringen%}: {#kranditAn (kumArAn)#}
+<ls>SUŚR. 2,382,13.</ls>
+<div n="1">— 3) {%brüllen, rauschen u.s.w.%}, aor.: {#di\vo na sAnu^ sta\naya^nnacikradat#}
+<ls>ṚV. 1,58,2.</ls> {#aci^krada\dvfza^Ra\M patnyacCA^#}
+<ls n="ṚV.">4,24,8.</ls> <ls n="ṚV.">7,20,9.</ls> <ls n="ṚV. 7,">36,3.</ls> <ls>VS. 38,22.</ls> <ls>AV. 3,3,1.</ls> <ls n="AV.">18,4,58.</ls> {#dyOrna ca^kradadadBi\yA#}
+<ls n="AV.">8,7,26.</ls> {#aSvo\ na ca^krado\ vf^zA#}
+<ls n="AV.">9,64,3.</ls> vom <is>Soma</is>: {#sa Su\zmI ka\laSe\zvA pu^nA\no a^cikradat#}
+<ls>ṚV. 9,18,7.</ls> <ls n="ṚV. 9,">75,3.</ls> <ls n="ṚV. 9,">96,24.</ls> — intens. ved. {#ka/nikranti#}; partic. {#ka/nikrat#} (
+<ls>ṚV. 9,63,20</ls>), gew. {#ka/nikradat#}
+(<ls>P. 7,4,65</ls>; nach dem Schol. aor. vom simpl., = {#akrandIt); kanikradya/mAna#}
+<ls>ŚAT. BR. 6,4,4,7.</ls> {%wiehern, brüllen, schreien, rauschen, dröhnen%}: {#indu\ratyo\ na vA^ja\sftkani^kranti pa\vitra\ A#}
+<ls>ṚV. 9,43,5.</ls> <ls n="ṚV. 9,">95,1.</ls> {#(vfzaBaH) daDa\dreta\H kani^kradat#}
+<ls n="ṚV.">1,128,3.</ls> <ls n="ṚV. 1,">152,5.</ls> <ls n="ṚV.">4,50,5.</ls> <ls n="ṚV.">5,83,1.</ls> {#yatpa^rjanya\ kani^kradatsta\naya\M haMsi^ du\zkfta^H#}
+<ls n="ṚV. 5,83,">9.</ls> <ls n="ṚV.">9,97,32.</ls> <ls>AV. 2,30,5.</ls> {%kreischend%}, von einem Vogel
+<ls>ṚV. 2,42,1.</ls> <ls n="ṚV. 2,42,">2.</ls> {%knatternd%}, vom Feuer: {#pra mA\tfByo\ aDi\ kani^kradadgAH#}
+<ls n="ṚV.">10,1,2.</ls> med.: {#ahatAni marmARi kanikrante#}
+(<ls>Sch.</ls>: {#tAni daRqAdiBiratAqitAni varmARi carmayuktAni BeryAdIni kanikrandante SabdaM kurvanti#})
+<ls>ADBH. BR.</ls> in <ls>Ind. St. 1,41.</ls> Vgl. {#kanikrada#} .
+<div n="p">— {#anu#} med. {%zurufen%}: {#sa\dyaH so a^sya mahi\mA na sa\MnaSe\ yaM kzo\RIra^nucakra\de#}
+<ls>ṚV. 8,3,10.</ls>
+<div n="p">— {#aBi#} {%anwiehern, anbrüllen, anschreien%}: {#a\Bi\kranda^nka\laSa^M vA\jya^rzati#}
+<ls>ṚV. 9,86,11.</ls> <ls n="ṚV. 9,">38,6.</ls> <ls n="ṚV.">10,21,8.</ls> {#a\Bi kra^ndanti\ hari^teBirA\saBi^H#}
+<ls n="ṚV.">10,94,2.</ls> {#a\Bi kra^nda sta\naya\ garBa\mA DA^H#}
+<ls n="ṚV.">5,83,7.</ls> {#tvaM Buva^nA ja\naya^nna\Bi kra^n#}
+<ls n="ṚV.">7,5,7.</ls> <ls>AV. 8,7,21.</ls> {#yatprA\Ra sta^nayi\tnunA^Bi\kranda\tyoza^DIH#}
+<ls n="AV.">11,4,3.</ls> <ls n="AV. 11,4,">4.</ls> <ls n="AV. 11,">5,12.</ls> <ls n="AV.">5,20,2.</ls> <ls n="AV. 5,20,">7.</ls> <ls>LĀṬY. 9,9,22.</ls> — caus. aor.: {#a\Bi gA a^cikradat#}
+<ls>ṚV. 9,82,1.</ls> — intens. partic.: {#(vfzA) a\Bi\kani^krada\dgAH#}
+<ls>ṚV. 9,97,13.</ls> <ls n="ṚV. 9,">67,14.</ls> <ls n="ṚV.">10,67,3.</ls>
+<div n="p">— {#ava#} {%brüllen%}: {#ava^ kranda dakziRa\to gf\hARA^m#}
+<ls>ṚV. 2,42,3.</ls> {#avo\sriyo^ vfza\BaH kra^ndatu\ dyOH#}
+<ls n="ṚV.">5,58,6.</ls> — caus. dass. (nur in Verbind. mit {#vane#} oder {#vanezu): vfzAva^ cakrada\dvane^#}
+<ls>ṚV. 9,7,3.</ls> {#SiSu\rna jA\to 'va^ cakrada\dvane^#}
+<ls n="ṚV. 9,">74,1.</ls> <ls n="ṚV. 9,74,">86.</ls> <ls n="ṚV. 9,74,">31.</ls> <ls n="ṚV. 9,">107,22.</ls>
 <div n="v">— Vgl. {#avakranda#} .
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {%anschreien, anrufen%}: {#A tvA SiSurAkrandatu#} 
-<ls>PĀR. GṚHY. 3, 4.</ls> {#AkrandadBImasenaM vE yena yAto mahAbalaH#} 
-<ls>MBH. 3, 11461.</ls> {#ehyehIti SiKaRqinAM pawutaraM kekABirAkranditaH (meGaH)#} 
-<ls>MṚCCH. 84, 21.</ls> 
-<div n="1">— 2) {%kläglich schreien, jammern, weinen%}: {#AkrandantyantarikzasTA AgacCeha narADipa#} 
-<ls>MĀRK. P. 8, 156.</ls> {#tfRAgralagnEstuhinEH patadBirAkrandatIvozasi SItakAlaH#} 
-<ls>ṚT. 4, 7.</ls> {#AkrandizuH#} 
-<ls>BHAṬṬ. 15, 50.</ls> med.: {#AkrandamAnAM saMSrutya#} 
-<ls>MBH. 3, 2388.</ls> {#yadA grahagrasta iva kvacidDasatyAkrandate#} 
-<ls>BHĀG. P. 7, 7, 35.</ls> {#Akrandita#} <lex>n.</lex> {%Gebrüll, klägliches Geschrei%}: {#DenoH#} 
-<ls>RAGH. 2, 28.</ls> {#alamAkranditena#} 
-<ls>VIKR. 5, 5.</ls> {#putrayoH#} 
-<ls>BHĀG. P. 9, 14, 28.</ls> — caus. 
-<div n="1"> 1) {%herdröhnen u.s.w.%}: {#A kra^ndaya\ bala\mojo^ na\ A DA^H#} {%dröhne uns Kraft her, flösse uns Muth ein%} (o Trommel) 
-<ls>ṚV. 6, 47, 30.</ls> 
-<div n="1">— 2) {%laut zurufen, anschreien%}: {#A kra^ndaya Danapate#} 
-<ls>AV. 2. 36, 6.</ls> {#puruzAnAkrandayataH#} 
-<ls>ŚAT. BR. 11, 6, 1, 6.</ls> 
-<ls>VS. 16, 19.</ls> Nach einer Interpr.
+<div n="p">— {#A#}
+<div n="1"> 1) {%anschreien, anrufen%}: {#A tvA SiSurAkrandatu#}
+<ls>PĀR. GṚHY. 3,4.</ls> {#AkrandadBImasenaM vE yena yAto mahAbalaH#}
+<ls>MBH. 3,11461.</ls> {#ehyehIti SiKaRqinAM pawutaraM kekABirAkranditaH (meGaH)#}
+<ls>MṚCCH. 84,21.</ls>
+<div n="1">— 2) {%kläglich schreien, jammern, weinen%}: {#AkrandantyantarikzasTA AgacCeha narADipa#}
+<ls>MĀRK. P. 8,156.</ls> {#tfRAgralagnEstuhinEH patadBirAkrandatIvozasi SItakAlaH#}
+<ls>ṚT. 4,7.</ls> {#AkrandizuH#}
+<ls>BHAṬṬ. 15,50.</ls> med.: {#AkrandamAnAM saMSrutya#}
+<ls>MBH. 3,2388.</ls> {#yadA grahagrasta iva kvacidDasatyAkrandate#}
+<ls>BHĀG. P. 7,7,35.</ls> {#Akrandita#} <lex>n.</lex> {%Gebrüll, klägliches Geschrei%}: {#DenoH#}
+<ls>RAGH. 2,28.</ls> {#alamAkranditena#}
+<ls>VIKR. 5,5.</ls> {#putrayoH#}
+<ls>BHĀG. P. 9,14,28.</ls> — caus.
+<div n="1"> 1) {%herdröhnen u.s.w.%}: {#A kra^ndaya\ bala\mojo^ na\ A DA^H#} {%dröhne uns Kraft her, flösse uns Muth ein%} (o Trommel)
+<ls>ṚV. 6,47,30.</ls>
+<div n="1">— 2) {%laut zurufen, anschreien%}: {#A kra^ndaya Danapate#}
+<ls>AV. 2,36,6.</ls> {#puruzAnAkrandayataH#}
+<ls>ŚAT. BR. 11,6,1,6.</ls>
+<ls>VS. 16,19.</ls> Nach einer Interpr.
 [Page2-0477]
-von 
-<ls>DHĀTUP. 33, 54</ls> : {%ununterbrochen schreien.%} 
-<div n="1">— 3) {%kläglich schreien —, weinen machen%}: {#lokAnsapAlAMstrIn - muhurAkrandayizyataH#} 
-<ls>BHĀG. P. 3, 14, 38.</ls> {#(rakzAMsi) AkrandayatkapiBiH#} 
-<ls>VOP. 5, 5.</ls> 
+von
+<ls>DHĀTUP. 33,54</ls> : {%ununterbrochen schreien.%}
+<div n="1">— 3) {%kläglich schreien —, weinen machen%}: {#lokAnsapAlAMstrIn — muhurAkrandayizyataH#}
+<ls>BHĀG. P. 3,14,38.</ls> {#(rakzAMsi) AkrandayatkapiBiH#}
+<ls>VOP. 5,5.</ls>
 <div n="v">— Vgl. {#Akranda#} fgg.
-
-<div n="p">— {#samA#} {%kläglich schreien%}: {#hA tAta DarmarAjeti samAkrandanmahABaye#} 
-<ls>MBH. 15, 1073.</ls>
-
-<div n="p">— {#ni#} {%herunter schreien%}, von einem Vogel: {#nyakrandIt#} 
-<ls>NIR. 9, 4.</ls> — caus. {%hineinbrüllen lassen%}: {#nya^krandayannupa\yanta^ enam#} 
-<ls>ṚV. 10, 102, 5.</ls>
-
-<div n="p">— {#pari#} caus. {%umrauschen%}: {#nfBi^rya\taH pari\ koSA^~ acikradat#} 
-<ls>ṚV. 9, 86, 20.</ls>
-
-<div n="p">— {#pra#} {%laut anrufen%}: {#pra va spaLa^kraMnsuvi\tAya^ dA\vane^#} 
-<ls>ṚV. 5, 59, 1.</ls> — caus. {%rauschen%}: {#e\za pra koSe\ maDu^mA~ acikradat#} 
-<ls>ṚV. 9, 77, 1.</ls>
-
-<div n="p">— {#vi#}, {#vikrandita#} <lex>n.</lex> {%das Wehklagen%} 
-<ls>R. 2, 59, 30.</ls>
-
-<div n="p">— {#sam#} {%zusammenschreien u.s.w.%}: {#saM mA\tfBi^rvAvaSA\no a^krAn#} 
-<ls>ṚV. 2, 11, 8.</ls> — caus. {%durch Rauschen u.s.w. zusammenbringen, conclamare aliquid%}: {#saM ci^krado ma\ho a\smaBya\M vAjA^n#} 
-<ls>ṚV. 9, 90, 4.</ls> 
+<div n="p">— {#samA#} {%kläglich schreien%}: {#hA tAta DarmarAjeti samAkrandanmahABaye#}
+<ls>MBH. 15,1073.</ls>
+<div n="p">— {#ni#} {%herunter schreien%}, von einem Vogel: {#nyakrandIt#}
+<ls>NIR. 9,4.</ls> — caus. {%hineinbrüllen lassen%}: {#nya^krandayannupa\yanta^ enam#}
+<ls>ṚV. 10,102,5.</ls>
+<div n="p">— {#pari#} caus. {%umrauschen%}: {#nfBi^rya\taH pari\ koSA^~ acikradat#}
+<ls>ṚV. 9,86,20.</ls>
+<div n="p">— {#pra#} {%laut anrufen%}: {#pra va spaLa^kraMnsuvi\tAya^ dA\vane^#}
+<ls>ṚV. 5,59,1.</ls> — caus. {%rauschen%}: {#e\za pra koSe\ maDu^mA~ acikradat#}
+<ls>ṚV. 9,77,1.</ls>
+<div n="p">— {#vi#}, {#vikrandita#} <lex>n.</lex> {%das Wehklagen%}
+<ls>R. 2,59,30.</ls>
+<div n="p">— {#sam#} {%zusammenschreien u.s.w.%}: {#saM mA\tfBi^rvAvaSA\no a^krAn#}
+<ls>ṚV. 2,11,8.</ls> — caus. {%durch Rauschen u.s.w. zusammenbringen, conclamare aliquid%}: {#saM ci^krado ma\ho a\smaBya\M vAjA^n#}
+<ls>ṚV. 9,90,4.</ls>
 <div n="v">— Vgl. {#saMkrandana#} .
 <LEND>

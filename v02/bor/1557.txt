@@ -1,8 +1,8 @@
 <L>1557<pc>055<k1>band<k2>band
-<div n="lb"/>{@BAND@}¦ (subs.): <div n="I">I That which binds: </div><div n="1">(1)
-<div n="lb"/>{#banGaH:#} <div n="xe">{%b. of hope%}</div> <div n="xs">{#ASAbanGaH#}</div>, Me. i. 10; </div><div n="1">(2)
-<div n="lb"/>{#banGanam;#} </div><div n="1">(3) {#banGanI.#} </div><div n="I">II A company of
-<div n="lb"/>persons: </div><div n="1">(1) {#dalam;#} </div><div n="1">(2) {#gulmaH#} (b. of troops).</div>
-<div n="lb"/><div n="I">III Musical instruments: </div><div n="1">(1) {#vAdyaBARqam.#}
-<div n="lb"/>(?); </div><div n="1">(2) {#tUryEGaH#} (?).</div>
+{@BAND@}¦ (subs.): <div n="I">I That which binds: </div><div n="1">(1)
+{#banGaH:#} <div n="xe">{%b. of hope%}</div> <div n="xs">{#ASAbanGaH#}</div>, Me. i. 10; </div><div n="1">(2)
+{#banGanam;#} </div><div n="1">(3) {#banGanI.#} </div><div n="I">II A company of
+persons: </div><div n="1">(1) {#dalam;#} </div><div n="1">(2) {#gulmaH#} (b. of troops).</div>
+<div n="I">III Musical instruments: </div><div n="1">(1) {#vAdyaBARqam.#}
+(?); </div><div n="1">(2) {#tUryEGaH#} (?).</div>
 <LEND>

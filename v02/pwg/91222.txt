@@ -1,25 +1,24 @@
 <L>91222<pc>6-1019<k1>vijana<k2>vijana
-{#vijana#}¦ (2. {#vi#} + 1. {#jana#}) <lex>adj.</lex> {%menschenleer, einsam%} 
-<ls>AK. 2, 8, 1, 22. 3, 4, 14, 85.</ls> 
-<ls>H. 742.</ls> 
-<ls>HALĀY. 4, 23.</ls> {#vana#} 
-<ls>M. 10, 107. 11, 105.</ls> 
-<ls>MBH. 1, 5896. 3, 2384.</ls> 
-<ls>R. 1, 9, 26. 63, 6. 2, 26, 24. 29, 21. 5, 28, 2.</ls> 
-<ls>SUŚR. 1, 241, 7.</ls> 
-<ls>Spr. 2006.</ls> 
-<ls>KATHĀS. 10, 164.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 49, 7.</ls> subst. {%ein einsamer Ort%}: {#ninye vijanam#} 
-<ls>VOP. 24, 13.</ls> {#vijanAsevinI#} 
-<ls>KATHĀS. 71, 95.</ls> {#vijane#} {%an einem einsamen Orte, fern von allen Menschen, ohne Zeugen, im Geheimen%} 
-<ls>MBH. 1, 4666. 2, 1790. 3, 2748. 14, 150.</ls> 
-<ls>R. 2, 53, 28.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 114, 34.</ls> 
-<ls>Spr. 4208.</ls> 
-<ls>VARĀH. BṚH. S. 43, 16.</ls> 
-<ls>BṚH. 5, 16.</ls> <ls>KATHĀS. 4, 114. 10, 178. 12, 143. 13, 3. 16, 7. 23, 1. 27, 152. 29, 8. 32, 157.</ls> <ls>RĀJA-TAR. 4, 31. 282.</ls> <ls>BHĀG. P. 1, 6, 21. 7, 9, 44.</ls> <ls>PAÑCAT. 58, 8. 225, 25.</ls> <ls>HIT. 87, 22.</ls> <ls>VET.</ls> in <ls>LA. (III) 7, 13.</ls> {#vijanezu#} 
-<ls>MĀRK. P. 118, 12.</ls> {#vijanaM kar#} {%alle Zeugen entfernen%}: {#atra vijanaM kftvA#} 
-<ls>KATHĀS. 38, 53. 40, 100. 75, 172.</ls> {#rAjYA vijanaM kftam#} 
-<ls>VET.</ls> in <ls>LA. (III) 3, 9.</ls>
+{#vijana#}¦ (2. {#vi#} + 1. {#jana#}) <lex>adj.</lex> {%menschenleer, einsam%}
+<ls>AK. 2,8,1,22.</ls> <ls n="AK.">3,4,14,85.</ls>
+<ls>H. 742.</ls>
+<ls>HALĀY. 4,23.</ls> {#vana#}
+<ls>M. 10,107.</ls> <ls n="M.">11,105.</ls>
+<ls>MBH. 1,5896.</ls> <ls n="MBH.">3,2384.</ls>
+<ls>R. 1,9,26.</ls> <ls n="R. 1,">63,6.</ls> <ls n="R.">2,26,24.</ls> <ls n="R. 2,">29,21.</ls> <ls n="R.">5,28,2.</ls>
+<ls>SUŚR. 1,241,7.</ls>
+<ls>Spr. 2006.</ls>
+<ls>KATHĀS. 10,164.</ls>
+<ls>BRAHMA-P. in LA. (III) 49,7.</ls> subst. {%ein einsamer Ort%}: {#ninye vijanam#}
+<ls>VOP. 24,13.</ls> {#vijanAsevinI#}
+<ls>KATHĀS. 71,95.</ls> {#vijane#} {%an einem einsamen Orte, fern von allen Menschen, ohne Zeugen, im Geheimen%}
+<ls>MBH. 1,4666.</ls> <ls n="MBH.">2,1790.</ls> <ls n="MBH.">3,2748.</ls> <ls n="MBH.">14,150.</ls>
+<ls>R. 2,53,28.</ls>
+<ls>R. GORR. 2,114,34.</ls>
+<ls>Spr. 4208.</ls>
+<ls>VARĀH. BṚH. S. 43,16.</ls>
+<ls>BṚH. 5,16.</ls> <ls>KATHĀS. 4,114.</ls> <ls n="KATHĀS.">10,178.</ls> <ls n="KATHĀS.">12,143.</ls> <ls n="KATHĀS.">13,3.</ls> <ls n="KATHĀS.">16,7.</ls> <ls n="KATHĀS.">23,1.</ls> <ls n="KATHĀS.">27,152.</ls> <ls n="KATHĀS.">29,8.</ls> <ls n="KATHĀS.">32,157.</ls> <ls>RĀJA-TAR. 4,31. 282.</ls> <ls>BHĀG. P. 1,6,21.</ls> <ls n="BHĀG. P.">7,9,44.</ls> <ls>PAÑCAT. 58,8.</ls> <ls n="PAÑCAT.">225,25.</ls> <ls>HIT. 87,22.</ls> <ls>VET. in LA. (III) 7,13.</ls> {#vijanezu#}
+<ls>MĀRK. P. 118,12.</ls> {#vijanaM kar#} {%alle Zeugen entfernen%}: {#atra vijanaM kftvA#}
+<ls>KATHĀS. 38,53.</ls> <ls n="KATHĀS.">40,100.</ls> <ls n="KATHĀS.">75,172.</ls> {#rAjYA vijanaM kftam#}
+<ls>VET. in LA. (III) 3,9.</ls>
 <LEND>

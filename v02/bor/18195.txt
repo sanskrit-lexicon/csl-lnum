@@ -1,16 +1,16 @@
 <L>18195<pc>557<k1>punish<k2>punish
-<div n="lb"/>{@PUNISH:@}¦ <div n="1">(1) {#daRqayati#} ({#daRq,#} c. 10.): may take
-<div n="lb"/>two acc. If an offence is the object, expr.
-<div n="lb"/>with the offender, <div n="xe">{%a king p. ing those who do%}
-<div n="lb"/>{%not deserve p. ment:%}</div> <div n="xs">{#adaRqyAn daRqayan rAjA,#}</div> M.;
-<div n="lb"/>{%a washerman wearing another's clothes is to be%}
-<div n="lb"/>{%p. ed with%} ({%a fine of%}) <div n="xe">{%three paṇas:%}</div> <div n="xs">{#vasAnastrIn #}
-<div n="lb"/>{# paRAn daqRyo rajakastu parAMSukam,#}</div> Y. ii. 241.; {%in go-%}
-<div n="lb"/>{%ing to a woman of the same caste,%} ({%one%}) <div n="xe">{%is to be%}
-<div n="lb"/>{%p. ed with the highest p. meant:%}</div> <div n="xs">{#savarRAgamane tUttama-#}
-<div n="lb"/>{#sAhasaM daRqyaH,#}</div> V. s.; </div><div n="1">(2) {#SAsti#} ({#SAs,#} c. 2.:
-<div n="lb"/>rare), <div n="xe">{%he should be p. d like a thief:%}</div> <div n="xs">{#cOravacCAsyaH,#}</div>
-<div n="lb"/>V. s.; </div><div n="1">(3) with {#daRqaH,#} <div n="xe">{%p. ing according to the%}
-<div n="lb"/>{%nature of the offence;%}</div> <div n="xs">{#yaTAparADadaRqa#}</div> ({#RqA#}), R. i.
-<div n="lb"/>6.</div>
+{@PUNISH:@}¦ <div n="1">(1) {#daRqayati#} ({#daRq,#} c. 10.): may take
+two acc. If an offence is the object, expr.
+with the offender, <div n="xe">{%a king p. ing those who do%}
+{%not deserve p. ment:%}</div> <div n="xs">{#adaRqyAn daRqayan rAjA,#}</div> M.;
+{%a washerman wearing another's clothes is to be%}
+{%p. ed with%} ({%a fine of%}) <div n="xe">{%three paṇas:%}</div> <div n="xs">{#vasAnastrIn #}
+{# paRAn daqRyo rajakastu parAMSukam,#}</div> Y. ii. 241.; {%in go-%}
+{%ing to a woman of the same caste,%} ({%one%}) <div n="xe">{%is to be%}
+{%p. ed with the highest p. meant:%}</div> <div n="xs">{#savarRAgamane tUttama-#}
+{#sAhasaM daRqyaH,#}</div> V. s.; </div><div n="1">(2) {#SAsti#} ({#SAs,#} c. 2.:
+rare), <div n="xe">{%he should be p. d like a thief:%}</div> <div n="xs">{#cOravacCAsyaH,#}</div>
+V. s.; </div><div n="1">(3) with {#daRqaH,#} <div n="xe">{%p. ing according to the%}
+{%nature of the offence;%}</div> <div n="xs">{#yaTAparADadaRqa#}</div> ({#RqA#}), R. i.
+6.</div>
 <LEND>

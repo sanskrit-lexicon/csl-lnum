@@ -1,39 +1,38 @@
 <L>34092<pc>3-0716<k1>dUta<k2>dUta/
-{#dUta/#}¦ 
-<ls>UṆĀDIS. 3, 90.</ls> 
-<div n="1"> 1) {%m. Bote, Abgesandter, Gesandter eines Fürsten, Unterhändler%} 
-<ls>NIR. 5, 1.</ls> 
-<ls>AK. 2, 8, 1, 16.</ls> 
-<ls>H. 734.</ls> {#saM dU\to a^gna\ Iya^se\ hi de\vAn#} 
-<ls>ṚV. 7, 3, 3.</ls> <ls n="ṚV.">3, 3, 2.</ls> <ls n="ṚV.">6, 8, 4.</ls> {#ya\masya^ dU\tO#} 
-<ls n="ṚV.">10, 14, 12.</ls> <ls>AV. 8, 8, 10.</ls> {#A\virdU\tAnkf^Rute va\rzyA\~3^\ aha^#} 
-<ls>5, 83, 3.</ls> <ls>ŚAT. BR. 3, 5, 1, 16.</ls> <ls>KĀTY. ŚR. 15, 3, 13.</ls> <ls>ĀŚV. GṚHY. 1, 12.</ls> {#dUtA vEvasvatasya#} 
-<ls>DAŚ. 2, 63.</ls> {#kaScAsO yasyAhaM dUta IpsitaH#} {%zu dem ich als Abgesandter gehen soll%} 
-<ls>N. 3, 2.</ls> {#srOGna#} {%ein nach%} <is>Srughna</is> {%gehender Bote%} 
-<ls>P. 4, 3, 85. -</ls> <ls>M. 3, 163. 7, 63. fgg. 153.</ls> <ls>R. 1, 5, 16. 5, 56, 14.</ls> <ls>SUŚR. 1, 8, 15. 30, 5. 105, 1. 4.</ls> {#meDAvI vAkpawuH prAjYaH paracittopalakzakaH . DIro yaToktavAdI ca eza dUto viDIyate ..#} 
-<ls>CĀṆ. 106.</ls> 
-<ls>KĀM. NĪTIS. 12, 1. fgg.</ls> <ls>SĀH. D. 86. fgg.</ls> <ls>PAÑCAT. III, 86.</ls> <ls>HIT. III, 63.</ls> <ls>RĀJA-TAR. 1, 119.</ls> {#°karman#} 
-<ls>MBH. 5, 125.</ls> 
-<ls>PAÑCAT. 161, 2.</ls> Vgl. {#agni°, tvA°, mftyu°, yama°#} . 
-<div n="1">— 2) <lex>f.</lex> {#dUtI/#} 
-<div n="2"> a) {%Botin, Unterhändlerin%} (insbes. in Liebesangelegenheiten) 
-<ls>AK. 2, 6, 1, 17.</ls> 
-<ls>H. 521.</ls> 
-<ls>ṚV. 10, 108, 2.</ls> <ls n="ṚV. 10, 108,">3.</ls> 
-<ls>N. 21, 32.</ls> 
-<ls>HARIV. 8643.</ls> 
-<ls>VARĀH. BṚH. S. 77, 9. 10.</ls> 
-<ls>HIT. 39, 21.</ls> 
-<ls>KATHĀS. 10, 90.</ls> 
-<ls>VET. 8, 17.</ls> 
-<ls>DHŪRTAS. 76, 7.</ls> 
-<ls>SĀH. D. 20, 16. 37, 12. 61, 1. 9. fgg.</ls> {#jarAM praSAntidUtImupayAtAm#}
+{#dUta/#}¦
+<ls>UṆĀDIS. 3,90.</ls>
+<div n="1"> 1) {%m. Bote, Abgesandter, Gesandter eines Fürsten, Unterhändler%}
+<ls>NIR. 5,1.</ls>
+<ls>AK. 2,8,1,16.</ls>
+<ls>H. 734.</ls> {#saM dU\to a^gna\ Iya^se\ hi de\vAn#}
+<ls>ṚV. 7,3,3.</ls> <ls n="ṚV.">3,3,2.</ls> <ls n="ṚV.">6,8,4.</ls> {#ya\masya^ dU\tO#}
+<ls n="ṚV.">10,14,12.</ls> <ls>AV. 8,8,10.</ls> {#A\virdU\tAnkf^Rute va\rzyA\~3^\ aha^#}
+<ls n="AV.">5,83,3.</ls> <ls>ŚAT. BR. 3,5,1,16.</ls> <ls>KĀTY. ŚR. 15,3,13.</ls> <ls>ĀŚV. GṚHY. 1,12.</ls> {#dUtA vEvasvatasya#}
+<ls>DAŚ. 2,63.</ls> {#kaScAsO yasyAhaM dUta IpsitaH#} {%zu dem ich als Abgesandter gehen soll%}
+<ls>N. 3,2.</ls> {#srOGna#} {%ein nach%} <is>Srughna</is> {%gehender Bote%}
+<ls>P. 4,3,85.</ls> — <ls>M. 3,163.</ls> <ls n="M.">7,63. fgg.</ls> <ls n="M. 7,">153.</ls> <ls>R. 1,5,16.</ls> <ls n="R.">5,56,14.</ls> <ls>SUŚR. 1,8,15. 30,5. 105,1. 4.</ls> {#meDAvI vAkpawuH prAjYaH paracittopalakzakaH . DIro yaToktavAdI ca eza dUto viDIyate ..#}
+<ls>CĀṆ. 106.</ls>
+<ls>KĀM. NĪTIS. 12,1. fgg.</ls> <ls>SĀH. D. 86. fgg.</ls> <ls>PAÑCAT. III,86.</ls> <ls>HIT. III,63.</ls> <ls>RĀJA-TAR. 1,119.</ls> {#°karman#}
+<ls>MBH. 5,125.</ls>
+<ls>PAÑCAT. 161,2.</ls> Vgl. {#agni°, tvA°, mftyu°, yama°#} .
+<div n="1">— 2) <lex>f.</lex> {#dUtI/#}
+<div n="2"> a) {%Botin, Unterhändlerin%} (insbes. in Liebesangelegenheiten)
+<ls>AK. 2,6,1,17.</ls>
+<ls>H. 521.</ls>
+<ls>ṚV. 10,108,2.</ls> <ls n="ṚV. 10,108,">3.</ls>
+<ls>N. 21,32.</ls>
+<ls>HARIV. 8643.</ls>
+<ls>VARĀH. BṚH. S. 77,9. 10.</ls>
+<ls>HIT. 39,21.</ls>
+<ls>KATHĀS. 10,90.</ls>
+<ls>VET. 8,17.</ls>
+<ls>DHŪRTAS. 76,7.</ls>
+<ls>SĀH. D. 20,16. 37,12. 61,1. 9. fgg.</ls> {#jarAM praSAntidUtImupayAtAm#}
 [Page3-0717]
-
-<ls>KATHĀS. 10, 216.</ls> Häufig auch {#dUti/#} 
-<ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 179.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>HARIV. 8641.</ls> <ls>RAGH. 18, 52. 19, 18.</ls> <ls>KUMĀRAS. 4, 16.</ls> {#madana°#} 
-<ls>VIKR. 88.</ls> {#sTAne prARAH kAmino dUtyaDInAH (dUti#} oder {#dUtI#}) 
-<ls>MĀLAV. 49.</ls> Vgl. {#kAmadUtI#} . 
-<div n="2">— b) {%ein best. Vogel%} (s. {#sArikA#}) 
+<ls>KATHĀS. 10,216.</ls> Häufig auch {#dUti/#}
+<ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4,179.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>HARIV. 8641.</ls> <ls>RAGH. 18,52.</ls> <ls n="RAGH.">19,18.</ls> <ls>KUMĀRAS. 4,16.</ls> {#madana°#}
+<ls>VIKR. 88.</ls> {#sTAne prARAH kAmino dUtyaDInAH (dUti#} oder {#dUtI#})
+<ls>MĀLAV. 49.</ls> Vgl. {#kAmadUtI#} .
+<div n="2">— b) {%ein best. Vogel%} (s. {#sArikA#})
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> — Wohl desselben Ursprungs wie {#dUra#} .
 <LEND>

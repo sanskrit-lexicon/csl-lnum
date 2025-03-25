@@ -1,21 +1,21 @@
 <L>13683<pc>421<k1>live<k2>live
-<div n="lb"/>{@LIVE@}¦ (v.): <div n="I">I Lit.: </div><div n="1">(1) {#jIvati#} ({#jIv,#} c. l.),
-<div n="lb"/><div n="xe">{%I will not l. any more:%}</div> <div n="xs">{#ata UrdDvaM na jIvAmi,#}</div> A. r.;
-<div n="lb"/><div n="xe">{%why the sinner is allowed to l.:%}</div> <div n="xs">{#kiMnimittaM #}
-<div n="lb"/>{# pAtakI jIvyate,#}</div> Mr.; </div><div n="1">(2) {#prARiti#} ({#an,#} c. 2.),
-<div n="lb"/><div n="xe">{%so long as I am l. ing:%}</div> <div n="xs">{#yAvat prARimi,#}</div> K. II.
-<div n="lb"/>To sustain life: </div><div n="1">(1) {#jIvati, upa-, A-,#} <div n="xe">{%l.ing on%}
-<div n="lb"/>{%the produce of trees:%}</div> <div n="xs">{#vfkzajIvikayA jIvan,#}</div> B. p.:</div>
-<div n="lb"/><div n="1">(2) {#vartayati#} (c. of {#vft#}), {%l. ing on wild fruits:%}
-<div n="lb"/>{#vanyena vartayan,#} R. xii. 20. Ph.: {%l. ing on leaves:%}
-<div n="lb"/>{#parRavfttitA,#} Ku.; <div n="xe">{%l.ing by gambling:%}</div> <div n="xs">{#dyUtopajIvin#}</div>
-<div n="lb"/>(f. {#nI#}), Mr. III. To dwell: </div><div n="1">(1) {#vasati, #}
-<div n="lb"/>{# ni-,#} ({#vas,#} c. 1.), <div n="xe">{%were they known to be l. ing%}
-<div n="lb"/>{%there:%}</div> <div n="xs">{#na Kalu viditAste tatra nivasantaH,#}</div> Mu.; </div><div n="1">(2)
-<div n="lb"/><div n="xe">{%l.ing together:%}</div> <div n="xs">{#saha jIvantaH,#}</div> Mit. {%To l. with:%}</div>
-<div n="lb"/><div n="1">(1) {#saha vasati,#} <div n="xe">{%will always l. with you:%}</div> <div n="xs">{#tvayA #}
-<div n="lb"/>{# sArDaM sadA vatsyati,#}</div> Mah. iii. 231. 6.; </div><div n="1">(2)
-<div n="lb"/>{#saMvasati,#} M. IV. To spend life: {#jIvanaM nayati#}
-<div n="lb"/>({#nI,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#gamayati#}</div> (c. of {#gam#}) <div n="xe">{%or%}</div> <div n="xs">{#yApayati#}</div>
-<div n="lb"/>(c. of {#yA#}) <div n="xe">{%or%}</div> <div n="xs">{#ati-vAhayati#}</div> (c. of {#vah#}).</div>
+{@LIVE@}¦ (v.): <div n="I">I Lit.: </div><div n="1">(1) {#jIvati#} ({#jIv,#} c. l.),
+<div n="xe">{%I will not l. any more:%}</div> <div n="xs">{#ata UrdDvaM na jIvAmi,#}</div> A. r.;
+<div n="xe">{%why the sinner is allowed to l.:%}</div> <div n="xs">{#kiMnimittaM #}
+{# pAtakI jIvyate,#}</div> Mr.; </div><div n="1">(2) {#prARiti#} ({#an,#} c. 2.),
+<div n="xe">{%so long as I am l. ing:%}</div> <div n="xs">{#yAvat prARimi,#}</div> K. II.
+To sustain life: </div><div n="1">(1) {#jIvati, upa-, A-,#} <div n="xe">{%l.ing on%}
+{%the produce of trees:%}</div> <div n="xs">{#vfkzajIvikayA jIvan,#}</div> B. p.:</div>
+<div n="1">(2) {#vartayati#} (c. of {#vft#}), {%l. ing on wild fruits:%}
+{#vanyena vartayan,#} R. xii. 20. Ph.: {%l. ing on leaves:%}
+{#parRavfttitA,#} Ku.; <div n="xe">{%l.ing by gambling:%}</div> <div n="xs">{#dyUtopajIvin#}</div>
+(f. {#nI#}), Mr. III. To dwell: </div><div n="1">(1) {#vasati, #}
+{# ni-,#} ({#vas,#} c. 1.), <div n="xe">{%were they known to be l. ing%}
+{%there:%}</div> <div n="xs">{#na Kalu viditAste tatra nivasantaH,#}</div> Mu.; </div><div n="1">(2)
+<div n="xe">{%l.ing together:%}</div> <div n="xs">{#saha jIvantaH,#}</div> Mit. {%To l. with:%}</div>
+<div n="1">(1) {#saha vasati,#} <div n="xe">{%will always l. with you:%}</div> <div n="xs">{#tvayA #}
+{# sArDaM sadA vatsyati,#}</div> Mah. iii. 231. 6.; </div><div n="1">(2)
+{#saMvasati,#} M. IV. To spend life: {#jIvanaM nayati#}
+({#nI,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#gamayati#}</div> (c. of {#gam#}) <div n="xe">{%or%}</div> <div n="xs">{#yApayati#}</div>
+(c. of {#yA#}) <div n="xe">{%or%}</div> <div n="xs">{#ati-vAhayati#}</div> (c. of {#vah#}).</div>
 <LEND>

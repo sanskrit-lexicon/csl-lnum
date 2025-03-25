@@ -1,17 +1,16 @@
 <L>41205<pc>4-0347<k1>pakzapAta<k2>pakzapAta
-{#pakzapAta#}¦ ({#pakza + pAta#}) <lex>m.</lex> 
-<div n="1"> 1) {%die Mausse der Vögel%} 
-<ls>VIJAYARAKṢITA</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 2) {%Parteinahme, Parteilichkeit, Vorliebe für%} (loc. gen.) 
-<ls>MBH. 1, 5347. 7, 4490. 17, 52.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 109, 57</ls> ({#a°#}). 
-<ls>3, 58, 8. 6, 12, 6.</ls> {#satyaM janA vacmi na pakzapAtAt#} 
-<ls>BHARTṚ. 1, 54.</ls> 
-<ls>MĀLAV. 12, 3.</ls> {#vartate pakzapAtena mitraM yaduBayAtmakam#} 
-<ls>KĀM. NĪTIS. 8, 63.</ls> {#pakzapAto 'pi satastasyA rUpasyAlOkika eva#} 
-<ls>VIKR. 19, 6.</ls> 
-<ls>HIT. 37, 20.</ls> {#ata evAsyopari me mEtrIpakzapAtaH#} {%daher bin ich so auf die Freundschaft mit ihm versessen%} 
-<ls>PAÑCAT. 112, 19.</ls> {#sapakzapAtaM sA tasyE#} (lies {#tasmE) dfzwyEva vidaDe manaH#} 
-<ls>RĀJA-TAR. 4, 21.</ls>
+{#pakzapAta#}¦ ({#pakza + pAta#}) <lex>m.</lex>
+<div n="1"> 1) {%die Mausse der Vögel%}
+<ls>VIJAYARAKṢITA</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 2) {%Parteinahme, Parteilichkeit, Vorliebe für%} (loc. gen.)
+<ls>MBH. 1,5347.</ls> <ls n="MBH.">7,4490.</ls> <ls n="MBH.">17,52.</ls>
+<ls>R. GORR. 2,109,57</ls> ({#a°#}).
+<ls n="R. GORR.">3,58,8.</ls> <ls n="R. GORR.">6,12,6.</ls> {#satyaM janA vacmi na pakzapAtAt#}
+<ls>BHARTṚ. 1,54.</ls>
+<ls>MĀLAV. 12,3.</ls> {#vartate pakzapAtena mitraM yaduBayAtmakam#}
+<ls>KĀM. NĪTIS. 8,63.</ls> {#pakzapAto 'pi satastasyA rUpasyAlOkika eva#}
+<ls>VIKR. 19,6.</ls>
+<ls>HIT. 37,20.</ls> {#ata evAsyopari me mEtrIpakzapAtaH#} {%daher bin ich so auf die Freundschaft mit ihm versessen%}
+<ls>PAÑCAT. 112,19.</ls> {#sapakzapAtaM sA tasyE#} (lies {#tasmE) dfzwyEva vidaDe manaH#}
+<ls>RĀJA-TAR. 4,21.</ls>
 <LEND>

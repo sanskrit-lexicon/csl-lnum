@@ -1,7 +1,7 @@
 <L>19556<pc>608<k1>run<k2>run
-<div n="lb"/>{@RUN@}¦ (v. t.): <div n="I">I Lit.: {#DAvayati, saM-#} (c. of {#DAv#}),
-<div n="lb"/><div n="xe">{%if I ride and r. you:%}</div> <div n="xs">{#yadyahaM tava pfzWe samAruhya DAvayAmi,#}</div>
-<div n="lb"/>P. iv. 7. </div><div n="I">II To cause to go, move: {#cAlayati, #}
-<div n="lb"/>{# saM-,#} (c. of {#cal#}). </div><div n="I">III To drive: q. v.:
-<div n="lb"/>{#vAhayati#} (c. of {#vaha#}).</div>
+{@RUN@}¦ (v. t.): <div n="I">I Lit.: {#DAvayati, saM-#} (c. of {#DAv#}),
+<div n="xe">{%if I ride and r. you:%}</div> <div n="xs">{#yadyahaM tava pfzWe samAruhya DAvayAmi,#}</div>
+P. iv. 7. </div><div n="I">II To cause to go, move: {#cAlayati, #}
+{# saM-,#} (c. of {#cal#}). </div><div n="I">III To drive: q. v.:
+{#vAhayati#} (c. of {#vaha#}).</div>
 <LEND>

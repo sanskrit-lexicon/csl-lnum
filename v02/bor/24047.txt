@@ -1,5 +1,5 @@
 <L>24047<pc>752<k1>walk<k2>walk
-<div n="lb"/>{@WALK,@}¦ {@WALKING@} (subs.): {#pAdacAraH:#} and sim.
-<div n="lb"/>comp.s. <div n="xe">{%W. about:%}</div> <div n="xs">{#parikramaH, -Ram,#}</div> <div n="xe">{%W. for%}
-<div n="lb"/>{%amusement:%}</div> <div n="xs">{#vihAraH#}</div> <div n="xe">{%or%}</div> <div n="xs">{#viharaRam.#}</div>
+{@WALK,@}¦ {@WALKING@} (subs.): {#pAdacAraH:#} and sim.
+comp.s. <div n="xe">{%W. about:%}</div> <div n="xs">{#parikramaH, -Ram,#}</div> <div n="xe">{%W. for%}
+{%amusement:%}</div> <div n="xs">{#vihAraH#}</div> <div n="xe">{%or%}</div> <div n="xs">{#viharaRam.#}</div>
 <LEND>

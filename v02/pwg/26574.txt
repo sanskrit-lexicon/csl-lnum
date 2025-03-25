@@ -1,40 +1,40 @@
 <L>26574<pc>3-0031<k1>janus<k2>janu/s
-{#janu/s#}¦ (wie eben) <lex>n.</lex> (m. in den Formen nom. {#janUs#}, acc. {#janu/zam#}) 
-<ls>Uṇ. 2, 111.</ls> 
-<div n="1"> 1) {%Geburt, Ursprung, Herkunft%} 
-<ls>AK. 1, 1, 4, 8.</ls> 
-<ls>H. 1367.</ls> {#ja\nUSci^dvo marutastve\zye^Ra#} 
-<ls>ṚV. 7, 58, 2.</ls> {#u\BA yada^sya ja\nuza\M yadinva^taH#} 
-<ls n="ṚV.">1, 141, 4.</ls> <ls n="ṚV. 1,">139, 9.</ls> {#janUrvAsAMsi#} (mit Dehnung des Vocals) {%die angeborenen, natürlichen Gewänder%} 
-<ls>ŚAT. BR. 5, 3, 5, 25</ls> (an derselben Stelle kann {#janvA tanvA#} nicht wohl richtig sein, wenn auch von den Handschriften vertreten, und sollte wie im Vorhergehenden {#sajanvA#} stehen). {#naki\rhye^zAM ja\nUMzi\ veda^#} 
-<ls>ṚV. 7, 56, 2.</ls> {#ja\nuza\H pari^ vftra\hA#} 
-<ls n="ṚV.">8, 55, 9.</ls> {#sA\kaM ta\nvA^ ja\nuzo 'Di^ jA\tAH#} 
-<ls>AV. 7, 115, 3.</ls> {%Nativität%} 
-<ls>Verz. d. B. H. No. 878.</ls> {#januHpadDati#} 
-<ls>876.</ls> 
-<div n="1">— 2) {%Geburtsstätte%}: {#iyaM vE pratizWA janUrAsAM prajAnAm#} 
-<ls>ŚAT. BR. 3, 9, 3, 2.</ls> 
-<div n="1">— 3) {%Geschöpf, Wesen%}: {#dEvyA^ni\ mAnu^zA ja\nUMzi^#} 
-<ls>ṚV. 7, 4, 1.</ls> {#yaM pi\tAkf^Ro\dviSva^smA\dA ja\nuzo\ veda^sa\spari^#} 
-<ls n="ṚV.">2, 17, 6.</ls> {#pra\Ta\mAya^ ja\nuze^#} 
-<ls>AV. 4, 1, 2. 13, 1, 4.</ls> {#rAjA^ ja\nuzA^m#} 
-<ls>ṚV. 4, 17, 20.</ls> {#BUmA^ ja\nuza^H#} 
-<ls n="ṚV.">1, 61, 14.</ls> <ls n="ṚV.">6, 66, 4.</ls> {#ja\nuzI^ u\Be anu^#} 
-<ls n="ṚV.">9, 70, 3.</ls> 
-<div n="1">— 4) {%Schöpfung, Hervorbringung%}: {#DIrA\ nva^sya mahi\nA ja\nUMzi^#} 
-<ls>ṚV. 7, 86, 1.</ls> 
-<div n="1">— 5) {%Art, genus%} 
-<ls>?(NIR. 9, 4):</ls> {#kani^kradajja\nuza^M prabruvA\Ra iya^rti\ vAca^m#} 
-<ls>ṚV. 2, 42, 1.</ls> 
-<div n="1">— 6) häufig ist der adv. Gebrauch des instr. {#janu/zA#} {%von Geburt an, naturaliter, von Hause aus, dem Wesen%} oder {%der Bestimmung nach%} (vgl. {%ita natus, ut%}); durch {%eigentlich, wesentlich, nothwendig%} und andere Wendungen wiederzugeben. {#januzAnDa#} (als comp. angesehen) {%blindgeboren%} 
-<ls>P. 6, 3, 3</ls>, <is>Vārtt</is>. 2. {#a\Sa\truri^ndra ja\nuzA^ sa\nAda^si#} 
-<ls>ṚV. 1, 102, 8.</ls> <ls n="ṚV.">8, 21, 13.</ls> {#ja\nuze\mazA^LahaH#} 
-<ls n="ṚV.">7, 20, 3.</ls> {#pra\SA\stA potA^ ja\nuzA^ pu\rohi^taH#} 
-<ls n="ṚV.">1, 94, 6.</ls> <ls n="ṚV.">3, 1, 3.</ls> <ls n="ṚV.">5, 29, 14.</ls> <ls n="ṚV. 5,">57, 5.</ls> <ls n="ṚV. 5,">59, 6.</ls> {#tvazwA^ra\mindro^ ja\nuzA^Bi\BUya^#} 
-<ls n="ṚV.">3, 48, 4.</ls> {#na yasya^ va\rtA ja\nuzA\ nvasti^#} 
-<ls n="ṚV.">4, 20, 7.</ls> {#nya^smi\nnindro^ ja\nuze^muvoca#} 
-<ls n="ṚV.">7, 21, 1.</ls> {#sa bu\DnAdA^zwa ja\nuzA\Bya^gram#} 
-<ls>TS. 2, 3, 14, 6.</ls> 
-<ls>AV. 9, 4, 24.</ls> 
+{#janu/s#}¦ (wie eben) <lex>n.</lex> (m. in den Formen nom. {#janUs#}, acc. {#janu/zam#})
+<ls>Uṇ. 2,111.</ls>
+<div n="1"> 1) {%Geburt, Ursprung, Herkunft%}
+<ls>AK. 1,1,4,8.</ls>
+<ls>H. 1367.</ls> {#ja\nUSci^dvo marutastve\zye^Ra#}
+<ls>ṚV. 7,58,2.</ls> {#u\BA yada^sya ja\nuza\M yadinva^taH#}
+<ls n="ṚV.">1,141,4.</ls> <ls n="ṚV. 1,">139,9.</ls> {#janUrvAsAMsi#} (mit Dehnung des Vocals) {%die angeborenen, natürlichen Gewänder%}
+<ls>ŚAT. BR. 5,3,5,25</ls> (an derselben Stelle kann {#janvA tanvA#} nicht wohl richtig sein, wenn auch von den Handschriften vertreten, und sollte wie im Vorhergehenden {#sajanvA#} stehen). {#naki\rhye^zAM ja\nUMzi\ veda^#}
+<ls>ṚV. 7,56,2.</ls> {#ja\nuza\H pari^ vftra\hA#}
+<ls n="ṚV.">8,55,9.</ls> {#sA\kaM ta\nvA^ ja\nuzo 'Di^ jA\tAH#}
+<ls>AV. 7,115,3.</ls> {%Nativität%}
+<ls>Verz. d. B. H. No. 878.</ls> {#januHpadDati#}
+<ls n="Verz. d. B. H.">876.</ls>
+<div n="1">— 2) {%Geburtsstätte%}: {#iyaM vE pratizWA janUrAsAM prajAnAm#}
+<ls>ŚAT. BR. 3,9,3,2.</ls>
+<div n="1">— 3) {%Geschöpf, Wesen%}: {#dEvyA^ni\ mAnu^zA ja\nUMzi^#}
+<ls>ṚV. 7,4,1.</ls> {#yaM pi\tAkf^Ro\dviSva^smA\dA ja\nuzo\ veda^sa\spari^#}
+<ls n="ṚV.">2,17,6.</ls> {#pra\Ta\mAya^ ja\nuze^#}
+<ls>AV. 4,1,2.</ls> <ls n="AV.">13,1,4.</ls> {#rAjA^ ja\nuzA^m#}
+<ls>ṚV. 4,17,20.</ls> {#BUmA^ ja\nuza^H#}
+<ls n="ṚV.">1,61,14.</ls> <ls n="ṚV.">6,66,4.</ls> {#ja\nuzI^ u\Be anu^#}
+<ls n="ṚV.">9,70,3.</ls>
+<div n="1">— 4) {%Schöpfung, Hervorbringung%}: {#DIrA\ nva^sya mahi\nA ja\nUMzi^#}
+<ls>ṚV. 7,86,1.</ls>
+<div n="1">— 5) {%Art, genus%}
+(<ls>NIR. 9,4</ls>): {#kani^kradajja\nuza^M prabruvA\Ra iya^rti\ vAca^m#}
+<ls>ṚV. 2,42,1.</ls>
+<div n="1">— 6) häufig ist der adv. Gebrauch des instr. {#janu/zA#} {%von Geburt an, naturaliter, von Hause aus, dem Wesen%} oder {%der Bestimmung nach%} (vgl. {%ita natus, ut%}); durch {%eigentlich, wesentlich, nothwendig%} und andere Wendungen wiederzugeben. {#januzAnDa#} (als comp. angesehen) {%blindgeboren%}
+<ls>P. 6,3,3</ls>, <is>Vārtt</is>. 2. {#a\Sa\truri^ndra ja\nuzA^ sa\nAda^si#}
+<ls>ṚV. 1,102,8.</ls> <ls n="ṚV.">8,21,13.</ls> {#ja\nuze\mazA^LahaH#}
+<ls n="ṚV.">7,20,3.</ls> {#pra\SA\stA potA^ ja\nuzA^ pu\rohi^taH#}
+<ls n="ṚV.">1,94,6.</ls> <ls n="ṚV.">3,1,3.</ls> <ls n="ṚV.">5,29,14.</ls> <ls n="ṚV. 5,">57,5.</ls> <ls n="ṚV. 5,">59,6.</ls> {#tvazwA^ra\mindro^ ja\nuzA^Bi\BUya^#}
+<ls n="ṚV.">3,48,4.</ls> {#na yasya^ va\rtA ja\nuzA\ nvasti^#}
+<ls n="ṚV.">4,20,7.</ls> {#nya^smi\nnindro^ ja\nuze^muvoca#}
+<ls n="ṚV.">7,21,1.</ls> {#sa bu\DnAdA^zwa ja\nuzA\Bya^gram#}
+<ls>TS. 2,3,14,6.</ls>
+<ls>AV. 9,4,24.</ls>
 <div n="v">— Vgl. {#aNgajanus#} .
 <LEND>

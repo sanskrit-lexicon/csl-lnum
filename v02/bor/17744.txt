@@ -1,7 +1,7 @@
 <L>17744<pc>543<k1>price<k2>price
-<div n="lb"/>{@PRICE@}¦ (subs.): <div n="1">(1) {#BUlyam,#} <div n="xe">{%at what p.:%}</div> <div n="xs">{#kiyatA #}
-<div n="lb"/>{# mUlyena,#}</div> P.; {%we have been cruelly fixed by you as%}
-<div n="lb"/>{%the p. of these%} ({%ornaments%}): {#kalpitA BUlyametezAM #}
-<div n="lb"/>{# krUreRa BavatA vayam,#} Mu. v. 17.; </div><div n="1">(2) {#arGaH#} (rare),
-<div n="lb"/><div n="xe">{%at a very low p.:%}</div> <div n="xs">{#laGIyasArGena,#}</div> D. iii.</div>
+{@PRICE@}¦ (subs.): <div n="1">(1) {#BUlyam,#} <div n="xe">{%at what p.:%}</div> <div n="xs">{#kiyatA #}
+{# mUlyena,#}</div> P.; {%we have been cruelly fixed by you as%}
+{%the p. of these%} ({%ornaments%}): {#kalpitA BUlyametezAM #}
+{# krUreRa BavatA vayam,#} Mu. v. 17.; </div><div n="1">(2) {#arGaH#} (rare),
+<div n="xe">{%at a very low p.:%}</div> <div n="xs">{#laGIyasArGena,#}</div> D. iii.</div>
 <LEND>

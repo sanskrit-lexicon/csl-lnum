@@ -1,21 +1,21 @@
 <L>31733<pc>849-b<k1>zodiac<k2>zodiac
-<div n="lb"/>ZODIAC¦, {%s.%} {#rASicakraM, jyotiScakraM, rASimaRqalaM, BacakraM, BamaRqalaM, BAganaM,#}
-<div n="lb"/>{#rimPaM;#} ‘a sign of the zodiac,’ {#rASiH#} {%m.,%} {#lagnaM, BaM;#} ‘the
-<div n="lb"/>twelve signs collectively,’ {#rASigaRaH, BagaRaH, rASikuRqalI, meza-#}
-<div n="lb"/>{#vfzAdayaH#} {%m. pl.%} These are, 1. Aries, {#mezaH;#} 2. Taurus, {#vfzaH,#}
-<div n="lb"/>{#vfzaBaH;#} 3. Gemini, {#miTunaH, dvandvaH, jittamaH;#} 4. Cancer, {#karkawaH,#}
-<div n="lb"/>{#karkaH, karkawarASiH#} {%m.;%} 5. Leo, {#siMhaH, AraRyarASiH#} {%m.;%} 6. Virgo,
-<div n="lb"/>{#kanyA;#} 7. Libra, {#tulA, tulADAraH, DawaH;#} 8. Scorpio, {#vfScikaH,#}
-<div n="lb"/>{#kOrpyaH, aliH#} {%m.;%} 9. Sagittarius, {#DanuH -nu#} {%m. n.,%} {#tOkzikaH;#}
-<div n="lb"/>10. Capricornus, {#makaraH, makararASiH#} {%m.;%} 11. Aquarius, {#kumBaH,#}
-<div n="lb"/>{#kumBarASiH#} {%m.;%} 12. Pisces, {#mInaH, mInarASiH#} {%m.,%} {#mInalagnaM, JazaH#}.
-<div n="lb"/>Of the twelve signs there are two divisions, one called
-<div n="lb"/>{#uttaragolaH,#} consisting of the six signs, from Aries to Virgo,
-<div n="lb"/>the other called {#dakziRagolaH,#} comprising the remaining six
-<div n="lb"/>signs. ‘The rising of a sign,’ {#lagnaM, udayaH;#} ‘setting,’ {#astaM;#}
-<div n="lb"/>‘rising sign,’ {#udayalagnaM;#} ‘setting sign,’ {#astalagnaM;#} ‘circuit
-<div n="lb"/>of the sun through the zodiac,’ {#BAganaM, BagaRaH;#} ‘passage of
-<div n="lb"/>the sun through a sign,’ {#sUryyasaNkrAntiH#} {%f.,%} {#ravisaNkrAntiH#} {%f.,%} {#sUryya-#}
-<div n="lb"/>{#saNkramaRaM;#} ‘of a planet,’ {#rASiBogaH;#} ‘passage of the sun or
-<div n="lb"/>a planet from one sign into another,’ {#saNkrAntiH#} {%f.,%} {#saNkramaH#}.
+ZODIAC¦, {%s.%} {#rASicakraM, jyotiScakraM, rASimaRqalaM, BacakraM, BamaRqalaM, BAganaM,#}
+{#rimPaM;#} ‘a sign of the zodiac,’ {#rASiH#} {%m.,%} {#lagnaM, BaM;#} ‘the
+twelve signs collectively,’ {#rASigaRaH, BagaRaH, rASikuRqalI, meza-#}
+{#vfzAdayaH#} {%m. pl.%} These are, 1. Aries, {#mezaH;#} 2. Taurus, {#vfzaH,#}
+{#vfzaBaH;#} 3. Gemini, {#miTunaH, dvandvaH, jittamaH;#} 4. Cancer, {#karkawaH,#}
+{#karkaH, karkawarASiH#} {%m.;%} 5. Leo, {#siMhaH, AraRyarASiH#} {%m.;%} 6. Virgo,
+{#kanyA;#} 7. Libra, {#tulA, tulADAraH, DawaH;#} 8. Scorpio, {#vfScikaH,#}
+{#kOrpyaH, aliH#} {%m.;%} 9. Sagittarius, {#DanuH -nu#} {%m. n.,%} {#tOkzikaH;#}
+10. Capricornus, {#makaraH, makararASiH#} {%m.;%} 11. Aquarius, {#kumBaH,#}
+{#kumBarASiH#} {%m.;%} 12. Pisces, {#mInaH, mInarASiH#} {%m.,%} {#mInalagnaM, JazaH#}.
+Of the twelve signs there are two divisions, one called
+{#uttaragolaH,#} consisting of the six signs, from Aries to Virgo,
+the other called {#dakziRagolaH,#} comprising the remaining six
+signs. ‘The rising of a sign,’ {#lagnaM, udayaH;#} ‘setting,’ {#astaM;#}
+‘rising sign,’ {#udayalagnaM;#} ‘setting sign,’ {#astalagnaM;#} ‘circuit
+of the sun through the zodiac,’ {#BAganaM, BagaRaH;#} ‘passage of
+the sun through a sign,’ {#sUryyasaNkrAntiH#} {%f.,%} {#ravisaNkrAntiH#} {%f.,%} {#sUryya-#}
+{#saNkramaRaM;#} ‘of a planet,’ {#rASiBogaH;#} ‘passage of the sun or
+a planet from one sign into another,’ {#saNkrAntiH#} {%f.,%} {#saNkramaH#}.
 <LEND>

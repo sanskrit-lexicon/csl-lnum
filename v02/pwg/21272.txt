@@ -1,14 +1,14 @@
 <L>21272<pc>2-0619<k1>Keda<k2>Keda
-{#Keda#}¦ (von {#Kid#}) 
-<div n="1"> 1) <lex>m.</lex> {%Müdigkeit, Erschlaffung; ein Gefühl der Abspannung, trübe Stimmung%} 
-<ls>H. 299.</ls> 
-<ls>R. 1, 41, 15.</ls> {#yadyapyetadvanaM sarvaM vicitaM hi samAhitEH .. KedaM tyaktvA punaH sarvaM vicinvantu vanOkasaH ..#} 
-<ls>4, 49, 14.</ls> {#aDikAraKedaM nirUpya#} 
-<ls>ŚĀK. 61, 17.</ls> {#kimatra paripatanaKedamanuBavasi#} 
-<ls>88, 11.</ls> {#ratiKedaKinna#} 
-<ls>PAÑCAT. I, 224.</ls> <ls>VIKR. 135.</ls> <ls>CAURAP. 10. -</ls> <ls>ŚĀNTIŚ. 3, 23.</ls> <ls>PAÑCAT. I, 225.</ls> <ls>RAGH. 18, 44.</ls> <ls>MEGH. 33. 90.</ls> <ls>ŚṚNGĀRAT. 21.</ls> <ls>AMAR. 30. 53.</ls> <ls>AK. 3, 4, 32, 5. 18.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#Ke/dA#} viell. {%Hammer, Schlägel%} oder {%ein ähnliches Werkzeug%}, dem Indra zukommend: {#A da\SaBi^rvi\vasva^ta\ indra\H koSA^macucyavIt . Keda^yA tri\vftA^ di\vaH ..#} 
-<ls>ṚV. 8, 61, 8.</ls> {#samittAnvf^tra\hAKi^da\tKe a\rA~ i^va\ Keda^yA#} 
-<ls n="ṚV. 8,">66, 3.</ls> {#sa\trA KedA^maruSa\hA vf^zasva#} 
-<ls n="ṚV.">10, 116, 4.</ls>
+{#Keda#}¦ (von {#Kid#})
+<div n="1"> 1) <lex>m.</lex> {%Müdigkeit, Erschlaffung; ein Gefühl der Abspannung, trübe Stimmung%}
+<ls>H. 299.</ls>
+<ls>R. 1,41,15.</ls> {#yadyapyetadvanaM sarvaM vicitaM hi samAhitEH .. KedaM tyaktvA punaH sarvaM vicinvantu vanOkasaH ..#}
+<ls n="R.">4,49,14.</ls> {#aDikAraKedaM nirUpya#}
+<ls>ŚĀK. 61,17.</ls> {#kimatra paripatanaKedamanuBavasi#}
+<ls n="ŚĀK.">88,11.</ls> {#ratiKedaKinna#}
+<ls>PAÑCAT. I,224.</ls> <ls>VIKR. 135.</ls> <ls>CAURAP. 10.</ls> — <ls>ŚĀNTIŚ. 3,23.</ls> <ls>PAÑCAT. I,225.</ls> <ls>RAGH. 18,44.</ls> <ls>MEGH. 33. 90.</ls> <ls>ŚṚNGĀRAT. 21.</ls> <ls>AMAR. 30. 53.</ls> <ls>AK. 3,4,32,5.</ls> <ls n="AK. 3,4,32,">18.</ls>
+<div n="1">— 2) <lex>f.</lex> {#Ke/dA#} viell. {%Hammer, Schlägel%} oder {%ein ähnliches Werkzeug%}, dem Indra zukommend: {#A da\SaBi^rvi\vasva^ta\ indra\H koSA^macucyavIt . Keda^yA tri\vftA^ di\vaH ..#}
+<ls>ṚV. 8,61,8.</ls> {#samittAnvf^tra\hAKi^da\tKe a\rA~ i^va\ Keda^yA#}
+<ls n="ṚV. 8,">66,3.</ls> {#sa\trA KedA^maruSa\hA vf^zasva#}
+<ls n="ṚV.">10,116,4.</ls>
 <LEND>

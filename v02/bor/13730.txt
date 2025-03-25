@@ -1,6 +1,6 @@
 <L>13730<pc>422<k1>lodge<k2>lodge
-<div n="lb"/>{@LODGE@}¦ (v. t.): <div n="I">I To place, put: q. v.: {#sTApa-#}
-<div n="lb"/>{#yati#} (c. of {#sTA#}). </div><div n="I">II To harbour: {#vAsaM #}
-<div n="lb"/>{# dadAti;#} gen. expr. by intrans. Ph.: <div n="xe">{%to l.%}
-<div n="lb"/>{%information:%}</div> <div n="xs">{#AvedanaM karoti.#}</div></div>
+{@LODGE@}¦ (v. t.): <div n="I">I To place, put: q. v.: {#sTApa-#}
+{#yati#} (c. of {#sTA#}). </div><div n="I">II To harbour: {#vAsaM #}
+{# dadAti;#} gen. expr. by intrans. Ph.: <div n="xe">{%to l.%}
+{%information:%}</div> <div n="xs">{#AvedanaM karoti.#}</div></div>
 <LEND>

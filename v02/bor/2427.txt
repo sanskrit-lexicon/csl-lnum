@@ -1,4 +1,4 @@
 <L>2427<pc>083<k1>bow-man<k2>bow-man
-<div n="lb"/>{@BOW-MAN:@}¦ <div n="1">(1) {#DanvI;#} </div><div n="1">(2) {#DAnuzkaH;#} </div><div n="1">(3) {#DanurDaraH;#}</div>
-<div n="lb"/><div n="1">(4) {#DanurBft;#} </div><div n="1">(5) {#nizaNgI.#}</div>
+{@BOW-MAN:@}¦ <div n="1">(1) {#DanvI;#} </div><div n="1">(2) {#DAnuzkaH;#} </div><div n="1">(3) {#DanurDaraH;#}</div>
+<div n="1">(4) {#DanurBft;#} </div><div n="1">(5) {#nizaNgI.#}</div>
 <LEND>

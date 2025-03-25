@@ -1,20 +1,20 @@
 <L>55042<pc>5-0300<k1>Bukti<k2>Bukti
-{#Bukti#}¦ (von 3. {#Buj)#} <lex>f.</lex> 
-<div n="1"> 1) {%das Essen, Geniessen, Genuss%}; = {#maMBoga#} 
-<ls>HALĀY. 5, 42.</ls> 
-<ls>ĀŚV. GṚHY. 1, 23, 15.</ls> 
-<ls>KUSUM. 4, 22.</ls> {#°varjita#} {%ungeniessbar%} {#(Bojana)#} 
-<ls>PAÑCAT. 138, 2.</ls> {%Genuss%} so v. a. {%Benutzung, Niessbrauch%} 
-<ls>M. 8, 252.</ls> 
-<ls>YĀJÑ. 2, 22. 27.</ls> 
-<ls>Spr. 1846. 2182.</ls> 
-<div n="1">— 2) {%Speise%} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>Spr. 125.</ls> <ls>RĀJA-TAR. 5, 170.</ls> 
-<div n="1">— 3) in der Astr. {%die tägliche Bewegung eines Gestirns%} 
-<ls>SŪRYAS. 1, 60. 67. 2, 46. 47. 48. 50. 51. 64</ls> {#(Bakti#} gedr.). 
-<ls>65. 66. 4, 2. 4. 13. 18</ls> {#(Bakti#} gedr.). 
-<ls>5, 10. 7, 3. 4. 8, 14. 9, 10. 11. 17. 10, 3. 11, 10. 13. 14. 12, 83. 14, 11. 19.</ls> <ls>WEBER, JYOT. 85. fg. 88. 107.</ls> {#saMvatsara°, mAsa°, pakza°#} {%Jahreslauf, Monatslauf, der in einem halben Monat zurückgelegte Lauf%} (der Sonne) 
-<ls>BHĀG. P. 5, 22, 8.</ls> {#kAlasya saMsTAnaBuktyA#} {%das Durchlaufen der verschiedenen Zeiträume%} {#(saMsTAna = paramARvAdyavasTA, Bukti = vyApti#} 
-<ls>Schol.</ls><ls>) 3, 11, 3.</ls> 
+{#Bukti#}¦ (von 3. {#Buj)#} <lex>f.</lex>
+<div n="1"> 1) {%das Essen, Geniessen, Genuss%}; = {#maMBoga#}
+<ls>HALĀY. 5,42.</ls>
+<ls>ĀŚV. GṚHY. 1,23,15.</ls>
+<ls>KUSUM. 4,22.</ls> {#°varjita#} {%ungeniessbar%} ({#Bojana#})
+<ls>PAÑCAT. 138,2.</ls> {%Genuss%} so v. a. {%Benutzung, Niessbrauch%}
+<ls>M. 8,252.</ls>
+<ls>YĀJÑ. 2,22. 27.</ls>
+<ls>Spr. 1846.</ls> <ls n="Spr.">2182.</ls>
+<div n="1">— 2) {%Speise%}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>Spr. 125.</ls> <ls>RĀJA-TAR. 5,170.</ls>
+<div n="1">— 3) in der Astr. {%die tägliche Bewegung eines Gestirns%}
+<ls>SŪRYAS. 1,60. 67. 2,46. 47. 48. 50. 51. 64</ls> {#(Bakti#} gedr.).
+<ls n="SŪRYAS.">65. 66. 4,2. 4. 13. 18</ls> {#(Bakti#} gedr.).
+<ls n="SŪRYAS.">5,10. 7,3. 4. 8,14. 9,10. 11. 17. 10,3. 11,10. 13. 14. 12,83. 14,11. 19.</ls> <ls>WEBER, JYOT. 85. fg. 88. 107.</ls> {#saMvatsara°, mAsa°, pakza°#} {%Jahreslauf, Monatslauf, der in einem halben Monat zurückgelegte Lauf%} (der Sonne)
+<ls>BHĀG. P. 5,22,8.</ls> {#kAlasya saMsTAnaBuktyA#} {%das Durchlaufen der verschiedenen Zeiträume%} ({#saMsTAna = paramARvAdyavasTA, Bukti = vyApti#} <ls>Schol.</ls>)
+<ls n="BHĀG. P.">3,11,3.</ls>
 <div n="v">— Vgl. {#tIra°, tri°#} .
 <LEND>

@@ -1,5 +1,5 @@
 <L>4042<pc>131<k1>coloured<k2>coloured
-<div n="lb"/>{@COLOURED@}¦ (adj.): Ph.: <div n="xe">{%red -c.%}</div> <div n="xs">{#raktavarRaH#}</div> ({#rRA, rRaM#});
-<div n="lb"/><div n="xe">{%many -c.%}</div> <div n="xs">{#nAnAvarRaH#}</div> ({#rRA, rRaM#}) <div n="xe">{%c. people.%}</div> <div n="xs">{#APrikAdi-#}
-<div n="lb"/>{#deSIyakfzRavarRalokAH.#}</div>
+{@COLOURED@}¦ (adj.): Ph.: <div n="xe">{%red -c.%}</div> <div n="xs">{#raktavarRaH#}</div> ({#rRA, rRaM#});
+<div n="xe">{%many -c.%}</div> <div n="xs">{#nAnAvarRaH#}</div> ({#rRA, rRaM#}) <div n="xe">{%c. people.%}</div> <div n="xs">{#APrikAdi-#}
+{#deSIyakfzRavarRalokAH.#}</div>
 <LEND>

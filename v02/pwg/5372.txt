@@ -1,4 +1,4 @@
 <L>5372<pc>1-0390<k1>amrAtaka<k2>amrAtaka
-{#amrAtaka#}¦ = {#AmrAtaka#} 
-<ls>TRIK. 2, 4, 8. 3, 3, 232.</ls>
+{#amrAtaka#}¦ = {#AmrAtaka#}
+<ls>TRIK. 2,4,8.</ls> <ls n="TRIK.">3,3,232.</ls>
 <LEND>

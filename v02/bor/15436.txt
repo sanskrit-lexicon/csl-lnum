@@ -1,6 +1,6 @@
 <L>15436<pc>473<k1>nine<k2>nine
-<div n="lb"/>{@NINE:@}¦ {#navan#} (mfn.), <div n="xe">{%n. or ten:%}</div> <div n="xs">{#navadaSAH#}</div> (n. {#-ni#});
-<div n="lb"/><div n="xe">{%n. times:%}</div> <div n="xs">{#navavArAn;#}</div> <div n="xe">{%in n. ways:%}</div> <div n="xs">{#navaDA;#}</div> <div n="xe">{%of n.%}
-<div n="lb"/>{%kinds:%}</div> <div n="xs">{#navaviDaH#}</div> ({#DA, DaM#}); <div n="xe">{%n. gems of Vikramā-%}
-<div n="lb"/>{%ditya:%}</div> <div n="xs">{#vikramasya nava ratnAni,#}</div> Ja.
+{@NINE:@}¦ {#navan#} (mfn.), <div n="xe">{%n. or ten:%}</div> <div n="xs">{#navadaSAH#}</div> (n. {#-ni#});
+<div n="xe">{%n. times:%}</div> <div n="xs">{#navavArAn;#}</div> <div n="xe">{%in n. ways:%}</div> <div n="xs">{#navaDA;#}</div> <div n="xe">{%of n.%}
+{%kinds:%}</div> <div n="xs">{#navaviDaH#}</div> ({#DA, DaM#}); <div n="xe">{%n. gems of Vikramā-%}
+{%ditya:%}</div> <div n="xs">{#vikramasya nava ratnAni,#}</div> Ja.
 <LEND>

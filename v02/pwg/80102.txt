@@ -1,45 +1,42 @@
 <L>80102<pc>5-1654<k1>Bar<k2>Bar<h>1
-1. {#Bar#}¦ 
-<div n="1"> 1) {#muzwinA BftAH#} {%gehalten%} 
-<ls>BHĀG. P. 11, 30, 21.</ls> {#pulakAnyabiBrat (= abiBaruH)#} so v. a. {%hatten%} 
-<ls>10, 29, 40.</ls> {%im Gedächtniss behalten%}: {#yaScEtAM sukaTAM biBarti#} 
-<ls>KATHĀS. 124, 251.</ls> 
-<div n="1">— 9) {#ratnErBftaM mAtuluNgam#} {%angefüllt mit%} 
-<ls>KATHĀS. 53, 27.</ls> {#hemaBftAM dftim#} 
-<ls>64, 28.</ls> {#amftaBfta (karpara)#} 69. {#ratnABaraRaBArakEH . suBftAnpaYca karaBAn#} {%schwer beladen%} 
-<ls>103, 184.</ls>
-
-<div n="p">— {#ni#} 
-<div n="1"> 1) 
-<ls>BHĀG. P. 10, 17, 14. 25, 29. 32, 20. 12, 12, 68.</ls> {#niBftErdorBiH#} {%beladen, belastet%} 
-<ls>10, 62, 9.</ls> 
-<div n="1">— 2) {#niBftoda#} 
-<ls>BHĀG. P. 12, 10, 5.</ls> {#°marunmano'kza#} 
-<ls>10, 87, 21.</ls> {#niBftAtman#} 
-<ls>12, 10, 3.</ls> {#niBftAtmendriyASaya#} 
-<ls>4. Z. 4</ls> {#aniBftakara#} 
-<ls>MEGH. 69</ls> stände besser unter 5). 
-<div n="1">— 4) {#niBfto BUtvA#} 
-<ls>PAÑCAT. 193, 7.</ls> {#niBftam#} 
-<ls>163, 24.</ls> {#gfhadvAraM niBftaM viDAya#} (lies {#piDAya)#} 
-<ls>186, 8.</ls> {#niBftaM kftvA kaTayAmi#} 
-<ls>HIT. 56, 19</ls> schwerlich richtig; vgl. 
-v. l. 
-<div n="1">— 6) {%getragen, besessen%}: {#adya me niBfto dehaH#} so v. a. {%heute habe ich einen Körper%} so v. a. {%heute fühle ich den ganzen Werth eines Körpers%} 
-<ls>BHĀG. P. 10, 28, 5.</ls> {#idAnIM mayA deho DftaH . yadA tvaddarSanaM jAtaM tadEva dehasAPalyaM prAptamityarTaH . yadvA niBftaH pUrRamanoraTa ityarTaH#} Comm. 
-<div n="1">— 7) {#niBftA#} <lex>f.</lex> Bez. {%einer Art von Räthsel%} 
-<ls>KĀVYĀD. 3, 102.</ls>
-
-<div n="p">— {#pari#} act. {%umherwandern%}: {#parasparaM vane gfhItahastAH paribaBrimAturAH#} 
-<ls>BHĀG. P. 10, 80, 38.</ls> {#pari paritaH baBrima iqAgamaSCAndasaH BArAnDftavanta ityarTaH#} Comm.
-
-<div n="p">— {#sam#} 
-<div n="1"> 1) {#navaSaSaBftA - hutavahamuKe saMBftaM tadDi tejaH#} {%gelegt in%} 
-<ls>MEGH. 44.</ls> 
+1. {#Bar#}¦
+<div n="1"> 1) {#muzwinA BftAH#} {%gehalten%}
+<ls>BHĀG. P. 11,30,21.</ls> {#pulakAnyabiBrat#} (= {#abiBaruH)#} so v. a. {%hatten%}
+<ls n="BHĀG. P.">10,29,40.</ls> {%im Gedächtniss behalten%}: {#yaScEtAM sukaTAM biBarti#}
+<ls>KATHĀS. 124,251.</ls>
+<div n="1">— 9) {#ratnErBftaM mAtuluNgam#} {%angefüllt mit%}
+<ls>KATHĀS. 53,27.</ls> {#hemaBftAM dftim#}
+<ls n="KATHĀS.">64,28.</ls> {#amftaBfta (karpara)#} 69. {#ratnABaraRaBArakEH . suBftAnpaYca karaBAn#} {%schwer beladen%}
+<ls n="KATHĀS.">103,184.</ls>
+<div n="p">— {#ni#}
+<div n="1"> 1)
+<ls>BHĀG. P. 10,17,14.</ls> <ls n="BHĀG. P. 10,">25,29.</ls> <ls n="BHĀG. P. 10,">32,20.</ls> <ls n="BHĀG. P.">12,12,68.</ls> {#niBftErdorBiH#} {%beladen, belastet%}
+<ls n="BHĀG. P.">10,62,9.</ls>
+<div n="1">— 2) {#niBftoda#}
+<ls>BHĀG. P. 12,10,5.</ls> {#°marunmano'kza#}
+<ls n="BHĀG. P.">10,87,21.</ls> {#niBftAtman#}
+<ls n="BHĀG. P.">12,10,3.</ls> {#niBftAtmendriyASaya#}
+<ls n="BHĀG. P. 12,10,">4.</ls> Z. 4 {#aniBftakara#}
+<ls>MEGH. 69</ls> stände besser unter 5).
+<div n="1">— 4) {#niBfto BUtvA#}
+<ls>PAÑCAT. 193,7.</ls> {#niBftam#}
+<ls n="PAÑCAT.">163,24.</ls> {#gfhadvAraM niBftaM viDAya#} (lies {#piDAya)#}
+<ls n="PAÑCAT.">186,8.</ls> {#niBftaM kftvA kaTayAmi#}
+<ls>HIT. 56,19</ls> schwerlich richtig; vgl.
+v. l.
+<div n="1">— 6) {%getragen, besessen%}: {#adya me niBfto dehaH#} so v. a. {%heute habe ich einen Körper%} so v. a. {%heute fühle ich den ganzen Werth eines Körpers%}
+<ls>BHĀG. P. 10,28,5.</ls> {#idAnIM mayA deho DftaH . yadA tvaddarSanaM jAtaM tadEva dehasAPalyaM prAptamityarTaH . yadvA niBftaH pUrRamanoraTa ityarTaH#} Comm.
+<div n="1">— 7) {#niBftA#} <lex>f.</lex> Bez. {%einer Art von Räthsel%}
+<ls>KĀVYĀD. 3,102.</ls>
+<div n="p">— {#pari#} act. {%umherwandern%}: {#parasparaM vane gfhItahastAH paribaBrimAturAH#}
+<ls>BHĀG. P. 10,80,38.</ls> {#pari paritaH baBrima iqAgamaSCAndasaH BArAnDftavanta ityarTaH#} Comm.
+<div n="p">— {#sam#}
+<div n="1"> 1) {#navaSaSaBftA — hutavahamuKe saMBftaM tadDi tejaH#} {%gelegt in%}
+<ls>MEGH. 44.</ls>
 <div n="1">— 4) {%heimgeben%}: {#apamityamiva saMBara ko 'mbAdadate dadat#} {%zahle heim%}
 [Page5-1655]
-{%die Schuld, wer wird dem geben, der nicht%} (zuvor) {%gab%} 
-<ls>ĀŚV. ŚR. 2, 18, 3.</ls> so wird die verdorbene Stelle zu bessern sein. 
-<div n="1">— 5) {%Jmd ehren%}: {#saMBfta (= saMmAnita#} Comm.) 
-<ls>BHĀG. P. 10, 80, 26.</ls>
+{%die Schuld, wer wird dem geben, der nicht%} (zuvor) {%gab%}
+<ls>ĀŚV. ŚR. 2,18,3.</ls> so wird die verdorbene Stelle zu bessern sein.
+<div n="1">— 5) {%Jmd ehren%}: {#saMBfta#} (= {#saMmAnita#} Comm.)
+<ls>BHĀG. P. 10,80,26.</ls>
 <LEND>

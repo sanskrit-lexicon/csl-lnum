@@ -1,61 +1,61 @@
 <L>17371<pc>2-0300<k1>kIrti<k2>kIrti/
-{#kIrti/#}¦ (von 2. {#kar#}) ved. 
-<ls>P. 3, 3, 97.</ls> {#kI/rti#} klass. 
-<ls>Uṇ. 4, 120.</ls> <lex>f.</lex> 
-<div n="1"> 1) {%das Gedenken, Erwähnung; Rede, Kunde%}: {#tAM su te^ kI\rtiM ma^Gavanmahi\tvA yattvA^ BI\te roda^sI\ ahva^yetAm#} 
-<ls>ṚV. 10, 54, 1.</ls> {#GftakIrtO#} {%bei Erwähnung des%} <is>Ghṛta</is> 
-<ls>ŚAT. BR. 1, 4, 1, 13. 19. 14, 9, 2, 11.</ls> {#kI\rtiM ba\huByo\ vi ha^ra dvirA\je#} 
-<ls>AV. 5, 20, 9.</ls> {#pApI kIrtiH#} 
-<ls>ŚAT. BR. 3, 1, 2, 21.</ls> 
-<ls>ĀŚV. ŚR. 9, 7.</ls> {#sumitriyAM vAcaM dunduBe kalyARIM kIrtimAvada#} 
-<ls>LĀṬY. 3, 11.</ls> 
-<ls>ŚĀṄKH. ŚR. 13, 14, 6.</ls> {#kIrti#} = {#Sabda#} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 2) {%gute Kunde, Ruhm%} 
-<ls>AK. 1, 1, 5, 12. 3, 4, 3,27.</ls>  
-<ls>H. 273.</ls> 
-<ls>an. 2, 163.</ls> 
-<ls>MED. t. 10.</ls> <ls>AV. 9, 6, 35. 10, 3, 17. 12, 5, 9. 13, 4, 14.</ls> <ls>ŚAT. BR. 6, 3, 1, 17. 14, 4, 2, 18.</ls>
+{#kIrti/#}¦ (von 2. {#kar#}) ved.
+<ls>P. 3,3,97.</ls> {#kI/rti#} klass.
+<ls>Uṇ. 4,120.</ls> <lex>f.</lex>
+<div n="1"> 1) {%das Gedenken, Erwähnung; Rede, Kunde%}: {#tAM su te^ kI\rtiM ma^Gavanmahi\tvA yattvA^ BI\te roda^sI\ ahva^yetAm#}
+<ls>ṚV. 10,54,1.</ls> {#GftakIrtO#} {%bei Erwähnung des%} <is>Ghṛta</is>
+<ls>ŚAT. BR. 1,4,1,13. 19. 14,9,2,11.</ls> {#kI\rtiM ba\huByo\ vi ha^ra dvirA\je#}
+<ls>AV. 5,20,9.</ls> {#pApI kIrtiH#}
+<ls>ŚAT. BR. 3,1,2,21.</ls>
+<ls>ĀŚV. ŚR. 9,7.</ls> {#sumitriyAM vAcaM dunduBe kalyARIM kIrtimAvada#}
+<ls>LĀṬY. 3,11.</ls>
+<ls>ŚĀṄKH. ŚR. 13,14,6.</ls> {#kIrti#} = {#Sabda#}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 2) {%gute Kunde, Ruhm%}
+<ls>AK. 1,1,5,12.</ls> <ls n="AK.">3,4,3,27.</ls>
+<ls>H. 273.</ls>
+<ls>an. 2,163.</ls>
+<ls>MED. t. 10.</ls> <ls>AV. 9,6,35.</ls> <ls n="AV.">10,3,17.</ls> <ls n="AV.">12,5,9.</ls> <ls n="AV.">13,4,14.</ls> <ls>ŚAT. BR. 6,3,1,17.</ls> <ls n="ŚAT. BR.">14,4,2,18.</ls>
 [Page2-0301]
-{#mahAnkIrtyA#} 
-<ls>TAITT. UP. 3, 6.</ls> {#kIrtiH pfzWaM gireriva#} 
-<ls>1, 10.</ls> {#iha kIrtimavApnoti#} 
-<ls>M. 2, 9.</ls> {#agryA#} 
-<ls>5, 166.</ls> {#anuttamA#} 
-<ls>8, 81.</ls> {#vipulA#} 
-<ls>MBH. 3, 14712.</ls> {#kIrtiM dAsyAmi te parAm#} 
-<ls>N. 20, 26.</ls> {#kIrtirastu tavAkzayyA#} 
-<ls>26, 27.</ls> {#mahAkIrti#} 
-<ls>R. 5, 30, 2.</ls> {#pfTu°#} 
-<ls>3, 53, 45.</ls> {#puRya°#} 
-<ls>1, 5, 1. 5, 23, 29</ls> (im Gegens. zu {#akIrti)#}.{# ananta°#} 
-<ls>RAGH. 2, 64.</ls> {#mahanIya°#} 
-<ls>25.</ls> {#pramAditAM kIrtimiva#} 
-<ls>R. 5, 21, 10.</ls> {#yaSaSca kIrtiM ca#} 
-<ls>M. 4, 94. 11, 40.</ls> 
-<ls>R. 2, 109, 22.</ls> {#kIrtikara#} 
-<ls>MBH. 3, 16948.</ls> <ls>?ad HIT. Pr. 48.</ls> {#na me kIrtiH praRaSyeta#} 
-<ls>MBH. 3, 16945.</ls> {#yaSoGnaM kIrtinASanam#} 
-<ls>M. 8, 127. -</ls> <ls>MBH. 3, 16949. fgg.</ls> 
-<ls>VIŚV. 3, 12.</ls> 
-<ls>PAÑCAT. 4, 22.</ls> 
-<ls>MEGH. 46.</ls> 
-<ls>ŚUK. 42, 3.</ls> 
-<ls>BHĀG. P. 2, 7, 21.</ls> pl. <ls>DHŪRTAS. 67, 18.</ls> Personif. 
-<ls>HARIV. 7740. 14035.</ls> eine Tochter <is>Dakṣa's</is> und Gemahlin <is>Dharma's</is> 
-<ls>MBH. 1, 2578.</ls> 
-<ls>HARIV. 11525. 12452.</ls> 
-<ls>VP. 54.</ls> — Die Lexicogrr. haben noch folgende Bedd. 
-<div n="1"> 3) {%Ausdehnung%} 
-<ls>H. an.</ls> <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 4) {%Glanz%} 
-<ls>ŚABDAR.</ls> ebend. 
-<div n="1">— 5) {%Gunst%} ({#prasAda#}) 
-<ls>MED.</ls> Statt dessen {#prAsAda#} 
-<ls>H. an.</ls> 
-<div n="1">— 6) {%Schmutz%} ({#kardama#}) 
-<ls>H. an.</ls> <ls>VIŚVA.</ls> 
-<div n="1">— 7) N. einer <is>Mātṛkā</is> 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR. -</ls> <ls>LALIT. 356</ls> erscheint {#kIrti#} (doch nicht f.) als N. pr. eines Stiers. 
+{#mahAnkIrtyA#}
+<ls>TAITT. UP. 3,6.</ls> {#kIrtiH pfzWaM gireriva#}
+<ls n="TAITT. UP.">1,10.</ls> {#iha kIrtimavApnoti#}
+<ls>M. 2,9.</ls> {#agryA#}
+<ls n="M.">5,166.</ls> {#anuttamA#}
+<ls n="M.">8,81.</ls> {#vipulA#}
+<ls>MBH. 3,14712.</ls> {#kIrtiM dAsyAmi te parAm#}
+<ls>N. 20,26.</ls> {#kIrtirastu tavAkzayyA#}
+<ls n="N.">26,27.</ls> {#mahAkIrti#}
+<ls>R. 5,30,2.</ls> {#pfTu°#}
+<ls n="R.">3,53,45.</ls> {#puRya°#}
+<ls n="R.">1,5,1.</ls> <ls n="R.">5,23,29</ls> (im Gegens. zu {#akIrti)#}.{# ananta°#}
+<ls>RAGH. 2,64.</ls> {#mahanIya°#}
+<ls n="RAGH. 2,">25.</ls> {#pramAditAM kIrtimiva#}
+<ls>R. 5,21,10.</ls> {#yaSaSca kIrtiM ca#}
+<ls>M. 4,94.</ls> <ls n="M.">11,40.</ls>
+<ls>R. 2,109,22.</ls> {#kIrtikara#}
+<ls>MBH. 3,16948.</ls> ad <ls>HIT. Pr. 48.</ls> {#na me kIrtiH praRaSyeta#}
+<ls>MBH. 3,16945.</ls> {#yaSoGnaM kIrtinASanam#}
+<ls>M. 8,127.</ls> — <ls>MBH. 3,16949. fgg.</ls>
+<ls>VIŚV. 3,12.</ls>
+<ls>PAÑCAT. 4,22.</ls>
+<ls>MEGH. 46.</ls>
+<ls>ŚUK. 42,3.</ls>
+<ls>BHĀG. P. 2,7,21.</ls> pl. <ls>DHŪRTAS. 67,18.</ls> Personif.
+<ls>HARIV. 7740.</ls> <ls n="HARIV.">14035.</ls> eine Tochter <is>Dakṣa's</is> und Gemahlin <is>Dharma's</is>
+<ls>MBH. 1,2578.</ls>
+<ls>HARIV. 11525.</ls> <ls n="HARIV.">12452.</ls>
+<ls>VP. 54.</ls> — Die Lexicogrr. haben noch folgende Bedd.
+<div n="1"> 3) {%Ausdehnung%}
+<ls>H. an.</ls> <ls>VIŚVA</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 4) {%Glanz%}
+<ls>ŚABDAR.</ls> ebend.
+<div n="1">— 5) {%Gunst%} ({#prasAda#})
+<ls>MED.</ls> Statt dessen {#prAsAda#}
+<ls>H. an.</ls>
+<div n="1">— 6) {%Schmutz%} ({#kardama#})
+<ls>H. an.</ls> <ls>VIŚVA.</ls>
+<div n="1">— 7) N. einer <is>Mātṛkā</is>
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> — <ls>LALIT. 356</ls> erscheint {#kIrti#} (doch nicht f.) als N. pr. eines Stiers.
 <div n="v">— Vgl. {#divAkIrti, sukIrti#} .
 <LEND>

@@ -1,21 +1,21 @@
 <L>11475<pc>359<k1>if<k2>if
-<div n="lb"/>{@IF:@}¦ <div n="1">(1) {#yadi,#} <div n="xe">{%if you are not delighted with the%}
-<div n="lb"/>{%tremulous glances.......:%}</div> <div n="xs">{#lolApANgEryadi na ramase,#}</div> Me.;
-<div n="lb"/><div n="xe">{%if so, I am fortunate:%}</div> <div n="xs">{#yadyevaM dadDanyo'ham,#}</div> P.; <div n="xe">{%or if you%}
-<div n="lb"/>{%again get your place:%}</div> <div n="xs">{#tvayATavA yadi labDaM punarAtmanaH #}
-<div n="lb"/>{# padam,#}</div> Ki.; <div n="xe">{%even if his union was doubtful:%}</div> <div n="xs">{#sandi-#}
-<div n="lb"/>{#gDo'pyasya samAgamo yadi syAt,#}</div> K.; {%if%} ({%he%}) <div n="xe">{%had not%}
-<div n="lb"/>{%wagered:%}</div> <div n="xs">{#yadi paRaM nAkarizyat,#}</div> V.; {%then again if%}
-<div n="lb"/>.....: {#punaraparaM yadi,#} K.; </div><div n="1">(2) {#cet#} (never at the
-<div n="lb"/>beginning of a sentence), <div n="xe">{%if not:%}</div> <div n="xs">{#no cet,#}</div> H.
-<div n="lb"/>v. Otherwise; <div n="xe">{%if on the other hand, you are%}
-<div n="lb"/>{%waiting for time:%}</div> <div n="xs">{#aTa cedavaDiH pratIkzyate,#}</div> Ki.; <div n="xe">{%but%}
-<div n="lb"/>{%if I could not find out some means here:%}</div> <div n="xs">{#api tu na #}
-<div n="lb"/>{# cediha kamapyupAyamudBAvayituM SaknuyAm,#}</div> D. N.B. Note
-<div n="lb"/>the use of {#viDiliN#} {%when the sentence implies%}
-<div n="lb"/>{%that something may or might happen%} and of {#xN#}
-<div n="lb"/><div n="xe">{%when it implies that something would have happe-%}
-<div n="lb"/>{%ned.%}</div> <div n="xs">{#law, luw#}</div> and {#xw#} are used when it deals
-<div n="lb"/>{%with facts actual or assumed, the first with%}
-<div n="lb"/>{%present and the last two with future facts.%}</div>
+{@IF:@}¦ <div n="1">(1) {#yadi,#} <div n="xe">{%if you are not delighted with the%}
+{%tremulous glances.......:%}</div> <div n="xs">{#lolApANgEryadi na ramase,#}</div> Me.;
+<div n="xe">{%if so, I am fortunate:%}</div> <div n="xs">{#yadyevaM dadDanyo'ham,#}</div> P.; <div n="xe">{%or if you%}
+{%again get your place:%}</div> <div n="xs">{#tvayATavA yadi labDaM punarAtmanaH #}
+{# padam,#}</div> Ki.; <div n="xe">{%even if his union was doubtful:%}</div> <div n="xs">{#sandi-#}
+{#gDo'pyasya samAgamo yadi syAt,#}</div> K.; {%if%} ({%he%}) <div n="xe">{%had not%}
+{%wagered:%}</div> <div n="xs">{#yadi paRaM nAkarizyat,#}</div> V.; {%then again if%}
+.....: {#punaraparaM yadi,#} K.; </div><div n="1">(2) {#cet#} (never at the
+beginning of a sentence), <div n="xe">{%if not:%}</div> <div n="xs">{#no cet,#}</div> H.
+v. Otherwise; <div n="xe">{%if on the other hand, you are%}
+{%waiting for time:%}</div> <div n="xs">{#aTa cedavaDiH pratIkzyate,#}</div> Ki.; <div n="xe">{%but%}
+{%if I could not find out some means here:%}</div> <div n="xs">{#api tu na #}
+{# cediha kamapyupAyamudBAvayituM SaknuyAm,#}</div> D. N.B. Note
+the use of {#viDiliN#} {%when the sentence implies%}
+{%that something may or might happen%} and of {#xN#}
+<div n="xe">{%when it implies that something would have happe-%}
+{%ned.%}</div> <div n="xs">{#law, luw#}</div> and {#xw#} are used when it deals
+{%with facts actual or assumed, the first with%}
+{%present and the last two with future facts.%}</div>
 <LEND>

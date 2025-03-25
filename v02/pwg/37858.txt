@@ -1,9 +1,9 @@
 <L>37858<pc>4-0060<k1>nareSvara<k2>nareSvara
-{#nareSvara#}¦ ({#nara + ISvara#}) <lex>m.</lex> dass. 
-<ls>MBH. 1, 6938. 5, 7441.</ls> 
-<ls>N. 2, 5. 4, 19. 11, 6.</ls> 
-<ls>R. 1, 60, 12.</ls> 
-<ls>VARĀH. BṚH. S. 8, 50. 15, 24.</ls> 
-<ls>RĀJA-TAR. 4, 207.</ls> 
-<ls>PAÑCAT. I, 256.</ls>
+{#nareSvara#}¦ ({#nara + ISvara#}) <lex>m.</lex> dass.
+<ls>MBH. 1,6938.</ls> <ls n="MBH.">5,7441.</ls>
+<ls>N. 2,5.</ls> <ls n="N.">4,19.</ls> <ls n="N.">11,6.</ls>
+<ls>R. 1,60,12.</ls>
+<ls>VARĀH. BṚH. S. 8,50. 15,24.</ls>
+<ls>RĀJA-TAR. 4,207.</ls>
+<ls>PAÑCAT. I,256.</ls>
 <LEND>

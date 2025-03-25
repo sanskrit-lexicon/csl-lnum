@@ -1,5 +1,5 @@
 <L>19610<pc>609<k1>sack<k2>sack
-<div n="lb"/>{@SACK@}¦ (subs.): <div n="I">I A canvas bag: {#goRI,#} <div n="xe">{%buying%}
-<div n="lb"/>{%s. s:%}</div> <div n="xs">{#goRIH krItvA,#}</div> D. </div><div n="I">II Plunder, devasta-
-<div n="lb"/>-tion: q. v.: {#GAtaH.#} </div><div n="I">III A garment: {#SARI#} (?).</div>
+{@SACK@}¦ (subs.): <div n="I">I A canvas bag: {#goRI,#} <div n="xe">{%buying%}
+{%s. s:%}</div> <div n="xs">{#goRIH krItvA,#}</div> D. </div><div n="I">II Plunder, devasta-
+-tion: q. v.: {#GAtaH.#} </div><div n="I">III A garment: {#SARI#} (?).</div>
 <LEND>

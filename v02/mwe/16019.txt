@@ -1,6 +1,6 @@
 <L>16019<pc>392-b<k1>injurer<k2>injurer
-<div n="lb"/>INJURER¦, {%s.%} {#hiMsakaH, hiMsAkArI#} {%m.%} {#(n), apakArI#} {%m.,%} {#apakArakaH,#}
-<div n="lb"/>{#kzatikArakaH, anyAyakArI#} {%m.,%} {#parApakArI#} {%m.,%} {#anizwakArI#} {%m.,%} {#ahita-#}
-<div n="lb"/>{#kArI#} {%m.,%} {#drohakArI#} {%m.,%} {#rezwA#} {%m.%} {#(zwf), naSitA#} {%m.%} {#(tf), naMzwA#} {%m.%} {#(zwf),#}
-<div n="lb"/>{#drohI#} {%m.%} {#(n), dvezI#} {%m.%} {#(n), viheWakaH#}.
+INJURER¦, {%s.%} {#hiMsakaH, hiMsAkArI#} {%m.%} {#(n), apakArI#} {%m.,%} {#apakArakaH,#}
+{#kzatikArakaH, anyAyakArI#} {%m.,%} {#parApakArI#} {%m.,%} {#anizwakArI#} {%m.,%} {#ahita-#}
+{#kArI#} {%m.,%} {#drohakArI#} {%m.,%} {#rezwA#} {%m.%} {#(zwf), naSitA#} {%m.%} {#(tf), naMzwA#} {%m.%} {#(zwf),#}
+{#drohI#} {%m.%} {#(n), dvezI#} {%m.%} {#(n), viheWakaH#}.
 <LEND>

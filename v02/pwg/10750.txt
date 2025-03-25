@@ -1,40 +1,38 @@
 <L>10750<pc>1-0877<k1>ujJ<k2>ujJ
-{#ujJ#}¦, {#ujJa/ti#} {%verlassen, fahren lassen, aufgeben%} 
-<ls>DHĀTUP. 28, 21.</ls> {#talpamujJAM cakAra#} 
-<ls>RAGH. 5, 75.</ls> {#adyApi nojJati haraH kila kAlakUwam#} 
-<ls>CAURAP. 50.</ls> {#na SvetaBAvamujJati SaNKaH#} 
-<ls>PAÑCAT. IV, 76.</ls> {#tAnprati mAnamujJata#} 
-<ls>BHARTṚ. 2, 13.</ls> {#prARAnOjJIt#} 
-<ls>BHAṬṬ. 15, 84.</ls> {#yatizye dehamujJitum#} 
-<ls>KATHĀS. 5, 128. 22, 155.</ls> {#ujJita#} 
-<ls>H. 1475.</ls> 
-<ls>MBH. 1, 3061. 2, 2421.</ls> 
-<ls>R. 2, 30, 20. 114, 17.</ls> 
-<ls>ŚĀK.14, 19. 41.</ls> 
-<ls>VIKR. 147.</ls> 
-<ls>ŚṚṄGĀRAT. 10.</ls> 
-<ls>RAGH. 1, 40. 51.</ls> 
-<ls>KATHĀS. 20, 14.</ls> 
-<ls>PRAB. 24, 2.</ls>
+{#ujJ#}¦, {#ujJa/ti#} {%verlassen, fahren lassen, aufgeben%}
+<ls>DHĀTUP. 28,21.</ls> {#talpamujJAM cakAra#}
+<ls>RAGH. 5,75.</ls> {#adyApi nojJati haraH kila kAlakUwam#}
+<ls>CAURAP. 50.</ls> {#na SvetaBAvamujJati SaNKaH#}
+<ls>PAÑCAT. IV,76.</ls> {#tAnprati mAnamujJata#}
+<ls>BHARTṚ. 2,13.</ls> {#prARAnOjJIt#}
+<ls>BHAṬṬ. 15,84.</ls> {#yatizye dehamujJitum#}
+<ls>KATHĀS. 5,128.</ls> <ls n="KATHĀS.">22,155.</ls> {#ujJita#}
+<ls>H. 1475.</ls>
+<ls>MBH. 1,3061.</ls> <ls n="MBH.">2,2421.</ls>
+<ls>R. 2,30,20.</ls> <ls n="R. 2,">114,17.</ls>
+<ls>ŚĀK. 14,19. 41.</ls>
+<ls>VIKR. 147.</ls>
+<ls>ŚṚṄGĀRAT. 10.</ls>
+<ls>RAGH. 1,40.</ls> <ls n="RAGH. 1,">51.</ls>
+<ls>KATHĀS. 20,14.</ls>
+<ls>PRAB. 24,2.</ls>
 [Page1-0878]
-{#aviratojJitavArivipARquBiH (ambudEH)#} 
-<ls>KIRĀT. 5, 6.</ls> {#prARErnojJitO#} 
-<ls>PAÑCAT. 80, 10.</ls> {#svedamalojJita#} {%frei von Schweiss und Unreinigkeit%} 
-<ls>H. 57.</ls> {%vermeiden, entgehen%}: {#avAcyamujJatA#} 
-<ls>RAGH. 8, 83.</ls> 
-<ls>ŚIŚUP. 1, 63. 4, 63.</ls> — Eine aus der Verbindung von {#ud + hA#} entstandene Wurzelform.
-
-<div n="p">— {#pra#} dass.: {#projJanti sadbAnDavAH - narAn#} 
-<ls>PAÑCAT. V, 22.</ls> {#svagfhiRI preyasyapi projJitA#} 
-<ls>PRAB. 23, 16.</ls> {#projJitaprARAH#} 
-<ls>PAÑCAT. I, 333.</ls> {#liKitatamapi lalAwe projJituM#} ({%engehen%}) {#kaH samarTaH#} ad 
-<ls>HIT. I, 17.</ls>
-
-<div n="p">— {#sam#} dass.: {#prARAnsamujJanti#} 
-<ls>PAÑCAT. I, 343.</ls> {#samujJita#} 
-<ls>AK. 3, 2, 56.</ls> {#samujJitakAmasamanvayaH#} 
-<ls>PRAB. 100, 12.</ls> {#saNgasamujJita#} {%frei von%} 
-<ls>11, 9.</ls> {#BuktasamujJita#} <lex>n.</lex> {%Ueberbleibsel vom Essen%} 
-<ls>AK. 2, 9, 56.</ls> 
+{#aviratojJitavArivipARquBiH (ambudEH)#}
+<ls>KIRĀT. 5,6.</ls> {#prARErnojJitO#}
+<ls>PAÑCAT. 80,10.</ls> {#svedamalojJita#} {%frei von Schweiss und Unreinigkeit%}
+<ls>H. 57.</ls> {%vermeiden, entgehen%}: {#avAcyamujJatA#}
+<ls>RAGH. 8,83.</ls>
+<ls>ŚIŚUP. 1,63. 4,63.</ls> — Eine aus der Verbindung von {#ud + hA#} entstandene Wurzelform.
+<div n="p">— {#pra#} dass.: {#projJanti sadbAnDavAH — narAn#}
+<ls>PAÑCAT. V,22.</ls> {#svagfhiRI preyasyapi projJitA#}
+<ls>PRAB. 23,16.</ls> {#projJitaprARAH#}
+<ls>PAÑCAT. I,333.</ls> {#liKitatamapi lalAwe projJituM#} ({%engehen%}) {#kaH samarTaH#} ad
+<ls>HIT. I,17.</ls>
+<div n="p">— {#sam#} dass.: {#prARAnsamujJanti#}
+<ls>PAÑCAT. I,343.</ls> {#samujJita#}
+<ls>AK. 3,2,56.</ls> {#samujJitakAmasamanvayaH#}
+<ls>PRAB. 100,12.</ls> {#saNgasamujJita#} {%frei von%}
+<ls n="PRAB.">11,9.</ls> {#BuktasamujJita#} <lex>n.</lex> {%Ueberbleibsel vom Essen%}
+<ls>AK. 2,9,56.</ls>
 <ls>H. 426.</ls>
 <LEND>

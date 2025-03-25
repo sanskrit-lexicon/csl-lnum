@@ -1,11 +1,11 @@
 <L>5152<pc>166<k1>crown<k2>crown
-<div n="lb"/>{@CROWN@}¦ (subs.): <div n="I">I The ornament: </div><div n="1">(1) {#kirIwa#}
-<div n="lb"/>(mn.); </div><div n="1">(2) {#mukuwam;#} </div><div n="1">(3) {#mOliH#} </div><div n="I">II Fig., royal
-<div n="lb"/>power: <div n="xe">{%got the c. of Italy:%}</div> <div n="xs">{#itAlirAjyamavApa;#}</div>
-<div n="lb"/><div n="xe">{%placed the c. on his son:%}</div> <div n="xs">{#tadAtmasammavaM rAjye samAdaDuH,#}</div>
-<div n="lb"/>R. xvii. 8. </div><div n="I">III Fig., sovereign: q. v. Ph.:
-<div n="lb"/><div n="xe">{%servant of the c.:%}</div> <div n="xs">{#rAjasevakaH.#}</div> </div><div n="I">IV Any garland:
-<div n="lb"/>q. v.: {#mAlA.#} V. Of the head: {#cUqA.#} </div><div n="I">VI
-<div n="lb"/>Summit: q. v.: {#cUqA.#} </div><div n="I">VII A coin: {#iMlaRqIya-#}
-<div n="lb"/>{#rUpyamudrAviSezaH.#}</div>
+{@CROWN@}¦ (subs.): <div n="I">I The ornament: </div><div n="1">(1) {#kirIwa#}
+(mn.); </div><div n="1">(2) {#mukuwam;#} </div><div n="1">(3) {#mOliH#} </div><div n="I">II Fig., royal
+power: <div n="xe">{%got the c. of Italy:%}</div> <div n="xs">{#itAlirAjyamavApa;#}</div>
+<div n="xe">{%placed the c. on his son:%}</div> <div n="xs">{#tadAtmasammavaM rAjye samAdaDuH,#}</div>
+R. xvii. 8. </div><div n="I">III Fig., sovereign: q. v. Ph.:
+<div n="xe">{%servant of the c.:%}</div> <div n="xs">{#rAjasevakaH.#}</div> </div><div n="I">IV Any garland:
+q. v.: {#mAlA.#} V. Of the head: {#cUqA.#} </div><div n="I">VI
+Summit: q. v.: {#cUqA.#} </div><div n="I">VII A coin: {#iMlaRqIya-#}
+{#rUpyamudrAviSezaH.#}</div>
 <LEND>

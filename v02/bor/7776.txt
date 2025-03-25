@@ -1,5 +1,5 @@
 <L>7776<pc>246<k1>equip<k2>equip
-<div n="lb"/>{@EQUIP@}¦ (v.): <div n="1">(1) {#sajjIkaroti,#} <div n="xe">{%well e. ped:%}</div> <div n="xs">{#susajjitaH#}</div>
-<div n="lb"/>({#tA, taM#}); </div><div n="1">(2) {#A-kalpayati, upa-,#} ({#klwp,#} c. 10.): v.
-<div n="lb"/>Also to adorn, accoutre.</div>
+{@EQUIP@}¦ (v.): <div n="1">(1) {#sajjIkaroti,#} <div n="xe">{%well e. ped:%}</div> <div n="xs">{#susajjitaH#}</div>
+({#tA, taM#}); </div><div n="1">(2) {#A-kalpayati, upa-,#} ({#klwp,#} c. 10.): v.
+Also to adorn, accoutre.</div>
 <LEND>

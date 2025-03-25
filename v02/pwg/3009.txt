@@ -1,6 +1,6 @@
 <L>3009<pc>1-0220<k1>anuvAcana<k2>anuvAcana
-{#anuvAcana#}¦ (von {#vac#} im caus. mit {#anu#}) <is>gaṇa</is> {#anupravacanAdi#} . <lex>n.</lex> {%das vom%} <is>Adhvaryu</is> {%veranlasste Nachsprechen der die Gottheit einladenden%} <is>Ṛc</is> {%durch den%} <is>Hotar</is> 
-<ls>KĀTY. ŚR. 10, 2, 16. 15, 10, 13. 19, 3, 4.</ls> {#anuvAcanaprEza#} {%die vom%} <is>Adhvaryu</is> {%an den%} <is>Hotar</is> {%gerichtete Aufforderung zur Recitation der die Gottheit einladenden%} <is>Ṛc</is> 
-<ls>KĀTY. ŚR. 1, 9, 13.</ls> {#anuvAcanaprEzO#} {%die vom%} <is>Adhvaryu</is> {%veranlasste Recitation der die Gottheit einladenden%} <is>Ṛc</is> {%durch den%} <is>Hotar</is>, {%und die an den%} <is>Maitrāvaruṇa</is> {%gerichtete Aufforderung des%} <is>Adhvaryu</is>, {%den Göttern ihre bestimmten Theile anzuweisen%}, 
-<ls>9, 9, 8. 12, 6, 9. 19, 7, 8.</ls>
+{#anuvAcana#}¦ (von {#vac#} im caus. mit {#anu#}) <is>gaṇa</is> {#anupravacanAdi#} . <lex>n.</lex> {%das vom%} <is>Adhvaryu</is> {%veranlasste Nachsprechen der die Gottheit einladenden%} <is>Ṛc</is> {%durch den%} <is>Hotar</is>
+<ls>KĀTY. ŚR. 10,2,16.</ls> <ls n="KĀTY. ŚR.">15,10,13.</ls> <ls n="KĀTY. ŚR.">19,3,4.</ls> {#anuvAcanaprEza#} {%die vom%} <is>Adhvaryu</is> {%an den%} <is>Hotar</is> {%gerichtete Aufforderung zur Recitation der die Gottheit einladenden%} <is>Ṛc</is>
+<ls>KĀTY. ŚR. 1,9,13.</ls> {#anuvAcanaprEzO#} {%die vom%} <is>Adhvaryu</is> {%veranlasste Recitation der die Gottheit einladenden%} <is>Ṛc</is> {%durch den%} <is>Hotar</is>, {%und die an den%} <is>Maitrāvaruṇa</is> {%gerichtete Aufforderung des%} <is>Adhvaryu</is>, {%den Göttern ihre bestimmten Theile anzuweisen%},
+<ls n="KĀTY. ŚR.">9,9,8.</ls> <ls n="KĀTY. ŚR.">12,6,9.</ls> <ls n="KĀTY. ŚR.">19,7,8.</ls>
 <LEND>

@@ -1,4 +1,4 @@
 <L>22943<pc>607-b<k1>population<k2>population
-<div n="lb"/>POPULATION¦, {%s.%} {#prajA, prajAsaMKyA, janasaMKyA, lokasaMKyA, janAH#} {%m. pl.,%}
-<div n="lb"/>{#janatA, deSajanatA, deSajanAH#} {%m. pl.,%} {#deSaprajA, lokaH, deSalokaH#}.
+POPULATION¦, {%s.%} {#prajA, prajAsaMKyA, janasaMKyA, lokasaMKyA, janAH#} {%m. pl.,%}
+{#janatA, deSajanatA, deSajanAH#} {%m. pl.,%} {#deSaprajA, lokaH, deSalokaH#}.
 <LEND>

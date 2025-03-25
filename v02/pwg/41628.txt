@@ -1,100 +1,93 @@
 <L>41628<pc>4-0377<k1>paw<k2>paw
-{#paw#}¦ ({#pa/wati#} {%gehen, sich bewegen%} 
-<ls>DHĀTUP. 9, 9</ls>), {#pAwa/yati#} ({%sprechen%} oder {%leuchten%} 
-<ls>DHĀTUP. 33, 79</ls>) {%spalten, aufschlitzen, zerreissen, aufreissen%}: {#kAzWAnyapAwayat#} 
-<ls>MBH. 3, 16747.</ls> {#pAwitAnAM kAzWavat#} 
-<ls>HARIV. 5597.</ls> 
-<ls>KATHĀS. 28, 157.</ls> 
-<ls>PAÑCAT. 10, 7. 9.</ls> {#(nagaram) maDyena pAwayAmAsa krakaco dArvivocCritam#} 
-<ls>MBH. 3, 882.</ls> {#SUle vA tizWatAmeza pAwyatAM krakacena vA#} 
-<ls>MṚKCH. 176, 2.</ls> {#Bittizu mayA niSi pAwitAsu#} 
-<ls>47, 16.</ls> <ls>RĀJA-TAR. 5, 92.</ls> {#dviDA#} 
-<ls>SUŚR. 1, 56, 14. 101, 4.</ls> {#kukzim#} 
-<ls>279, 9. 2, 90, 4. 340, 10.</ls> <ls>RĀJA-TAR. 5, 439. fg.</ls> <ls>KATHĀS. 26, 222. fg.</ls> {#svamaNgaM pAwayAmAsa svayaM dantanaKakzatEH#} 
-<ls>20, 121. 29, 86.</ls> <ls>MBH. 6, 1781.</ls> <ls>DEV. 6, 13.</ls> {#pAwitalalAwa#} 
-<ls>PAÑCAT. 217, 22.</ls> {#(BujaMgam) muKataH pAwayAmAsa SastreRa niSitena#} 
-<ls>MBH. 3, 2389.</ls> {#pAwyamAno vajreRa garBaH#} 
-<ls>HARIV. 249. 4316. fg.</ls> 
-<ls>R. 4, 8, 12.</ls> 
-<ls>RĀJA-TAR. 5, 2.</ls> 
-<ls>BHĀG. P. 6, 18, 62.</ls> {#pAwitajihva#} 
-<ls>KATHĀS. 22, 200.</ls> {#pAwayitvA svahastena svottarIyam#} 
-<ls>20, 155. fg.</ls> <ls>VID. 182.</ls> <ls>RĀJA-TAR. 3, 527.</ls> {#dattvarRaM pAwayelleKyam#} 
-<ls>YĀJÑ. 2, 94</ls> (<ls>ST.</ls> {%zerreissen lassen%}). {#darBapAwitatalena pARanA#} 
-<ls>RAGH. 11, 31.</ls> 
-<ls>KATHĀS. 13, 43.</ls> {#jaladAnyapAwayanniva#} 
-<ls>MBH. 3, 1716.</ls> {#tamaH#} 
-<ls>HARIV. 9744.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 187, 18.</ls> {#pAwitAni - siMhanAdena mahatA hfdayAni manAMsi ca#} 
-<ls>HARIV. 12866.</ls> {%ausreissen%}: {#cakzurekamapAwayat#} 
-<ls>KATHĀS. 28, 21.</ls> Für das med. haben wir nur die Stelle: {#tvacaM pAwayizye viviDEH kaNkapattriBiH#} 
-<ls>MBH. 14, 853.</ls> pass. {#pAwyate#} {%sich spalten%} 
-<ls>SUŚR. 2, 464, 16.</ls> {#pAwita = Binna = dArita#} 
-<ls>H. 1488.</ls> — {#paw, pawayati (granTe#} oder {#vezwane#} wegen {#pawa#}) 
-<ls>DHĀTUP. 35, 5.</ls>
-
-<div n="p">— {#ava#} ({#pAwayati#}) {%zerspalten%} 
-<ls>SUŚR. 1, 32, 12.</ls> pass. {#°pAwyate#} {%sich spalten%}
+{#paw#}¦ ({#pa/wati#} {%gehen, sich bewegen%}
+<ls>DHĀTUP. 9,9</ls>), {#pAwa/yati#} ({%sprechen%} oder {%leuchten%}
+<ls>DHĀTUP. 33,79</ls>) {%spalten, aufschlitzen, zerreissen, aufreissen%}: {#kAzWAnyapAwayat#}
+<ls>MBH. 3,16747.</ls> {#pAwitAnAM kAzWavat#}
+<ls>HARIV. 5597.</ls>
+<ls>KATHĀS. 28,157.</ls>
+<ls>PAÑCAT. 10,7. 9.</ls> {#(nagaram) maDyena pAwayAmAsa krakaco dArvivocCritam#}
+<ls>MBH. 3,882.</ls> {#SUle vA tizWatAmeza pAwyatAM krakacena vA#}
+<ls>MṚKCH. 176,2.</ls> {#Bittizu mayA niSi pAwitAsu#}
+<ls n="MṚKCH.">47,16.</ls> <ls>RĀJA-TAR. 5,92.</ls> {#dviDA#}
+<ls>SUŚR. 1,56,14. 101,4.</ls> {#kukzim#}
+<ls n="SUŚR.">279,9. 2,90,4. 340,10.</ls> <ls>RĀJA-TAR. 5,439. fg.</ls> <ls>KATHĀS. 26,222. fg.</ls> {#svamaNgaM pAwayAmAsa svayaM dantanaKakzatEH#}
+<ls n="KATHĀS.">20,121.</ls> <ls n="KATHĀS.">29,86.</ls> <ls>MBH. 6,1781.</ls> <ls>DEV. 6,13.</ls> {#pAwitalalAwa#}
+<ls>PAÑCAT. 217,22.</ls> {#(BujaMgam) muKataH pAwayAmAsa SastreRa niSitena#}
+<ls>MBH. 3,2389.</ls> {#pAwyamAno vajreRa garBaH#}
+<ls>HARIV. 249.</ls> <ls n="HARIV.">4316. fg.</ls>
+<ls>R. 4,8,12.</ls>
+<ls>RĀJA-TAR. 5,2.</ls>
+<ls>BHĀG. P. 6,18,62.</ls> {#pAwitajihva#}
+<ls>KATHĀS. 22,200.</ls> {#pAwayitvA svahastena svottarIyam#}
+<ls n="KATHĀS.">20,155. fg.</ls> <ls>VID. 182.</ls> <ls>RĀJA-TAR. 3,527.</ls> {#dattvarRaM pAwayelleKyam#}
+<ls>YĀJÑ. 2,94</ls> (<ls>ST.</ls> {%zerreissen lassen%}). {#darBapAwitatalena pARanA#}
+<ls>RAGH. 11,31.</ls>
+<ls>KATHĀS. 13,43.</ls> {#jaladAnyapAwayanniva#}
+<ls>MBH. 3,1716.</ls> {#tamaH#}
+<ls>HARIV. 9744.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 187,18.</ls> {#pAwitAni — siMhanAdena mahatA hfdayAni manAMsi ca#}
+<ls>HARIV. 12866.</ls> {%ausreissen%}: {#cakzurekamapAwayat#}
+<ls>KATHĀS. 28,21.</ls> Für das med. haben wir nur die Stelle: {#tvacaM pAwayizye viviDEH kaNkapattriBiH#}
+<ls>MBH. 14,853.</ls> pass. {#pAwyate#} {%sich spalten%}
+<ls>SUŚR. 2,464,16.</ls> {#pAwita = Binna = dArita#}
+<ls>H. 1488.</ls> — {#paw, pawayati (granTe#} oder {#vezwane#} wegen {#pawa#})
+<ls>DHĀTUP. 35,5.</ls>
+<div n="p">— {#ava#} ({#pAwayati#}) {%zerspalten%}
+<ls>SUŚR. 1,32,12.</ls> pass. {#°pAwyate#} {%sich spalten%}
 [Page4-0378]
-
-<ls>297, 2.</ls> 
+<ls n="SUŚR.">297,2.</ls>
 <div n="v">— Vgl. {#avapAwikA#} .
-
-<div n="p">— {#A#} ({#pAwayati#}) {%spalten%} 
-<ls>SUŚR. 2, 22, 19.</ls>
-
-<div n="p">— {#ud#} ({#pAwayati#}) {%abspalten, abschlitzen, abreissen%}: {#Palakam#} 
-<ls>ŚĀṄKH. ŚR. 17, 1, 2. 8.</ls> 
-<ls>SUŚR. 1, 56, 15.</ls> {#dantErnotpAwayennaKAn#} 
-<ls>M. 4, 69.</ls> {%aufreissen, aufschlitzen%}: {#SarkarotpAwitANgaka#} 
-<ls>RĀJA-TAR. 5, 432.</ls> {#pewAm#} so v. a. {%öffnen%} 
-<ls>PAÑCAT. 222, 5.</ls> pass. {%sich spalten%} 
-<ls>SUŚR. 2, 313, 9. 310, 5.</ls> — {%ausreissen, von seinem Platze fortreissen%}: {#utpAwya dorByAM drumam#} 
-<ls>MBH. 1, 7076. 3, 11121. 12377.</ls> {#DArtarAzwraM vanam#} 
-<ls>4, 1983.</ls> <ls>HARIV. 6623. 6983. 7464.</ls> <ls>R. 6, 26, 48. 30, 20. 83, 53.</ls> <ls>RAGH. 15, 19.</ls> {#sakAnanavanaM girim#} 
-<ls>HARIV. 3920. 3923. 3925. 8997.</ls> 
-<ls>R. 6, 32, 18. 83, 30.</ls> 
-<ls>KUMĀRAS. 2, 43.</ls> 
-<ls>BHĀG. P. 8, 6, 33.</ls> 
-<ls>H. 1480.</ls> {#stamBaM saBAyAH#} 
-<ls>HARIV. 6755.</ls> 
-<ls>RĀJA-TAR. 4, 327.</ls> {#svatejasotpAwitalokaSalyaH#} 
-<ls>BHĀG. P. 4, 16, 27.</ls> {#kIlakam#} 
-<ls>PAÑCAT. 10, 11</ls> <ls>?(ed. orn. 6, 6).</ls> {#keSAn#} 
-<ls>R. 3, 57, 25.</ls> {#akziRI#} 
-<ls>BHĀG. P. 5, 26, 35.</ls> 
-<ls>PAÑCAT. 72, 12.</ls> {#cakarza dorByAmutpAwya BImo mallam#} {%von seinem Platze fortreissen%} 
-<ls>MBH. 4, 359.</ls> {#tvAmanutpAwya mUlataH#} {%von Grund aus vernichten%} 
-<ls>R. 6, 88, 19.</ls> 
-<ls>RĀJA-TAR. 4, 140.</ls> {#timim#} 503. {%verscheuchen, entfernen%}: {#rAkzasarAjasya BayamutpAwayAmyaham#} 
-<ls>R. 6, 37, 87.</ls> {#ruzam#} 
-<ls>RĀJA-TAR. 1, 297.</ls> {#rAjyAt#} {%von der Herrschaft —, von der Regierung entfernen, entthronen%} 
-<ls>RĀJA-TAR. 5, 298.</ls> auch ohne {#rAjyAt#} dass. 
-<ls>4, 400. 5, 279. 291</ls> (vgl. {#utpAwana#} 
-<ls>?255. 292). Bei TROYER</ls> häufig {#Wa#} st. {#wa#} gedruckt. 
+<div n="p">— {#A#} ({#pAwayati#}) {%spalten%}
+<ls>SUŚR. 2,22,19.</ls>
+<div n="p">— {#ud#} ({#pAwayati#}) {%abspalten, abschlitzen, abreissen%}: {#Palakam#}
+<ls>ŚĀṄKH. ŚR. 17,1,2. 8.</ls>
+<ls>SUŚR. 1,56,15.</ls> {#dantErnotpAwayennaKAn#}
+<ls>M. 4,69.</ls> {%aufreissen, aufschlitzen%}: {#SarkarotpAwitANgaka#}
+<ls>RĀJA-TAR. 5,432.</ls> {#pewAm#} so v. a. {%öffnen%}
+<ls>PAÑCAT. 222,5.</ls> pass. {%sich spalten%}
+<ls>SUŚR. 2,313,9. 310,5.</ls> — {%ausreissen, von seinem Platze fortreissen%}: {#utpAwya dorByAM drumam#}
+<ls>MBH. 1,7076.</ls> <ls n="MBH.">3,11121.</ls> <ls n="MBH. 3,">12377.</ls> {#DArtarAzwraM vanam#}
+<ls n="MBH.">4,1983.</ls> <ls>HARIV. 6623.</ls> <ls n="HARIV.">6983.</ls> <ls n="HARIV.">7464.</ls> <ls>R. 6,26,48.</ls> <ls n="R. 6,">30,20.</ls> <ls n="R. 6,">83,53.</ls> <ls>RAGH. 15,19.</ls> {#sakAnanavanaM girim#}
+<ls>HARIV. 3920.</ls> <ls n="HARIV.">3923.</ls> <ls n="HARIV.">3925.</ls> <ls n="HARIV.">8997.</ls>
+<ls>R. 6,32,18.</ls> <ls n="R. 6,">83,30.</ls>
+<ls>KUMĀRAS. 2,43.</ls>
+<ls>BHĀG. P. 8,6,33.</ls>
+<ls>H. 1480.</ls> {#stamBaM saBAyAH#}
+<ls>HARIV. 6755.</ls>
+<ls>RĀJA-TAR. 4,327.</ls> {#svatejasotpAwitalokaSalyaH#}
+<ls>BHĀG. P. 4,16,27.</ls> {#kIlakam#}
+<ls>PAÑCAT. 10,11</ls> (<ls n="PAÑCAT.">ed. orn. 6,6</ls>). {#keSAn#}
+<ls>R. 3,57,25.</ls> {#akziRI#}
+<ls>BHĀG. P. 5,26,35.</ls>
+<ls>PAÑCAT. 72,12.</ls> {#cakarza dorByAmutpAwya BImo mallam#} {%von seinem Platze fortreissen%}
+<ls>MBH. 4,359.</ls> {#tvAmanutpAwya mUlataH#} {%von Grund aus vernichten%}
+<ls>R. 6,88,19.</ls>
+<ls>RĀJA-TAR. 4,140.</ls> {#timim#} 503. {%verscheuchen, entfernen%}: {#rAkzasarAjasya BayamutpAwayAmyaham#}
+<ls>R. 6,37,87.</ls> {#ruzam#}
+<ls>RĀJA-TAR. 1,297.</ls> {#rAjyAt#} {%von der Herrschaft —, von der Regierung entfernen, entthronen%}
+<ls>RĀJA-TAR. 5,298.</ls> auch ohne {#rAjyAt#} dass.
+<ls n="RĀJA-TAR.">4,400. 5,279. 291</ls> (vgl. {#utpAwana#}
+<ls n="RĀJA-TAR.">255. 292).</ls> bei <ls>TROYER</ls> häufig {#Wa#} st. {#wa#} gedruckt.
 <div n="v">— Vgl. {#utpawa, utpala, utpAwa#} fgg.
-
-<div n="p">— {#samud#} ({#pAwayati#}) {%ausreissen%}: {#SiMSapAm#} 
-<ls>R. 5, 39, 23.</ls> {#mahAgirim#} 
-<ls>HARIV. 12181.</ls> 
-<ls>R. 6, 36, 11.</ls> {#yUpAn#} 
-<ls>MBH. 12, 10242.</ls> {#cakraM ca dattavAnkfzRaH samutpAwya svacakrataH#} 
-<ls>DEV. 2, 20. fg.</ls> {%ausziehen, abreissen%}: {#tasya samutpAwya yUnaH strIveSam#} 
-<ls>KATHĀS. 7, 84.</ls> {%von der Regierung ausschliessen, entthronen%} 
-<ls>RĀJA-TAR. 5, 286. 297.</ls>
-
-<div n="p">— {#vini#} {%zerspalten%}: {#cakreRa nakravadanaM vinipAwya#} 
-<ls>BHĀG. P. 2, 7, 16.</ls>
-
-<div n="p">— {#vi#} ({#pAwayati#}) {%zerspalten, zerreissen%}: {#kadalIstamBam#} 
-<ls>MBH. 12, 591. 8, 2885.</ls> {#ketakavarhaM naKAgrEH#} 
-<ls>RAGH. 6, 17.</ls> {#vipAwitAByAmozWAByAm#} 
-<ls>HARIV. 4310.</ls> {#udaram#} 
-<ls>KATHĀS. 26, 188. 218.</ls> {#garBam#} 
-<ls>255.</ls> <ls>BHĀG. P. 8, 3, 33.</ls> {#mAm#} 
-<ls>4, 17, 21. 8, 11, 35.</ls> {#kuTAH#} 
-<ls>MBH. 6, 4392. 8, 755.</ls> {%ausreissen, entwurzeln%}: {#vAtyAvegavipAwitaM viwapinam#} 
-<ls>RĀJA-TAR. 5, 477.</ls> {%zerreissen%} so v. a. {%vernichten, zerstören%}: {#sahasraKaRqaM svakftaM sUtram - SOnakena vipAwitam#} 
-<ls>ṢAḌGURUŚIṢYA</ls> bei <ls>MÜLLER, SL. 238, 3.</ls> viell. {%aufschliessen%} in übertr. Bed.: {#vipAwitArizwa#} {%das Glück%} 
-<ls>RĀJA-TAR. 3, 482.</ls>
+<div n="p">— {#samud#} ({#pAwayati#}) {%ausreissen%}: {#SiMSapAm#}
+<ls>R. 5,39,23.</ls> {#mahAgirim#}
+<ls>HARIV. 12181.</ls>
+<ls>R. 6,36,11.</ls> {#yUpAn#}
+<ls>MBH. 12,10242.</ls> {#cakraM ca dattavAnkfzRaH samutpAwya svacakrataH#}
+<ls>DEV. 2,20. fg.</ls> {%ausziehen, abreissen%}: {#tasya samutpAwya yUnaH strIveSam#}
+<ls>KATHĀS. 7,84.</ls> {%von der Regierung ausschliessen, entthronen%}
+<ls>RĀJA-TAR. 5,286. 297.</ls>
+<div n="p">— {#vini#} {%zerspalten%}: {#cakreRa nakravadanaM vinipAwya#}
+<ls>BHĀG. P. 2,7,16.</ls>
+<div n="p">— {#vi#} ({#pAwayati#}) {%zerspalten, zerreissen%}: {#kadalIstamBam#}
+<ls>MBH. 12,591.</ls> <ls n="MBH.">8,2885.</ls> {#ketakavarhaM naKAgrEH#}
+<ls>RAGH. 6,17.</ls> {#vipAwitAByAmozWAByAm#}
+<ls>HARIV. 4310.</ls> {#udaram#}
+<ls>KATHĀS. 26,188.</ls> <ls n="KATHĀS. 26,">218.</ls> {#garBam#}
+<ls n="KATHĀS. 26,">255.</ls> <ls>BHĀG. P. 8,3,33.</ls> {#mAm#}
+<ls n="BHĀG. P.">4,17,21.</ls> <ls n="BHĀG. P.">8,11,35.</ls> {#kuTAH#}
+<ls>MBH. 6,4392.</ls> <ls n="MBH.">8,755.</ls> {%ausreissen, entwurzeln%}: {#vAtyAvegavipAwitaM viwapinam#}
+<ls>RĀJA-TAR. 5,477.</ls> {%zerreissen%} so v. a. {%vernichten, zerstören%}: {#sahasraKaRqaM svakftaM sUtram — SOnakena vipAwitam#}
+<ls>ṢAḌGURUŚIṢYA</ls> bei <ls>MÜLLER, SL. 238,3.</ls> viell. {%aufschliessen%} in übertr. Bed.: {#vipAwitArizwa#} {%das Glück%}
+<ls>RĀJA-TAR. 3,482.</ls>
 <LEND>

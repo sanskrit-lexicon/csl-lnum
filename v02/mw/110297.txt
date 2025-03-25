@@ -1,5 +1,5 @@
 <L>110297<pc>559,2<k1>niviS<k2>ni-viS<e>1
-<s>ni-√ viS</s> ¦ <ab>Ā.</ab> <s>-viSate</s> (rarely <ab>P.</ab> <s>°ti</s>; <ab>cf.</ab> <ls>Pāṇ. 1-3, 17</ls>; <ab>aor.</ab> <s>-aviSran</s>, <s>-avikzata</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>-viviSre</s>, <ls>ib.</ls>), 
+<s>ni-√ viS</s> ¦ <ab>Ā.</ab> <s>-viSate</s> (rarely <ab>P.</ab> <s>°ti</s>; <ab>cf.</ab> <ls>Pāṇ. i, 3, 17</ls>; <ab>aor.</ab> <s>-aviSran</s>, <s>-avikzata</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>-viviSre</s>, <ls>ib.</ls>),
 <div n="to"/>to enter or penetrate into (<ab>acc.</ab> or <ab>loc.</ab>);
 <div n="to"/>to alight, descend;
 <div n="to"/>to come to rest, settle down or in a home, <ls>RV.</ls> &c. &c.;
@@ -10,7 +10,7 @@
 <div n="to"/>to be founded (said of a town), <ls>ib.</ls>;
 <div n="to"/>to be fixed or intent on (<ab>loc.</ab>, said of the mind), <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls>;
 <div n="to"/>to sink down, cease, disappear, vanish, <ls>RV.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-veSayati</s>, to bring to rest, <ls>RV.</ls>; <ls>TBr.</ls>;
+<div n="vp"/><ab>Caus.</ab> <s>-veSayati</s>, to bring to rest, <ls>RV.</ls>; <ls>TBr.</ls>;
 <div n="to"/>to cause to enter, introduce;
 <div n="to"/>to cause to sit or lie or settle down on (<ab>loc.</ab>), <ls>MBh.</ls>; <ls>Hariv.</ls> &c.;
 <div n="to"/>to cause (a man) to marry, <ls>Śak.</ls>;
@@ -23,5 +23,5 @@
 <div n="to"/>to write down (<s>nAma sva-haste</s>), <ls>Yājñ.</ls>;
 <div n="to"/>to paint (<s>citre</s>), <ls>Śak.</ls>;
 <div n="to"/>to call to mind, impress (<s>manasi</s>, <s>hfdaye</s> &c.), <ls>Var.</ls>; <ls>Kāv.</ls>; <ls>Pur.</ls> :
-<div n="vp"/><ab>Desid.</ab> <s>-vivikzate</s>, <ls>Pāṇ. 1-3, 62</ls>; <ls>Kāś.</ls><info verb="pre" cp="PĀ" parse="ni+viS"/>
+<div n="vp"/><ab>Desid.</ab> <s>-vivikzate</s>, <ls>Pāṇ. i, 3, 62</ls>, <ls>Kāś.</ls><info verb="pre" cp="PĀ" parse="ni+viS"/>
 <LEND>

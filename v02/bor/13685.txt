@@ -1,8 +1,8 @@
 <L>13685<pc>421<k1>livelihood<k2>livelihood
-<div n="lb"/>{@LIVELIHOOD:@}¦ <div n="1">(1) {#jIvikA, A-, upa-,#} {%to get l.:%}
-<div n="lb"/>{#jIvikAM prApnoti,#} S. k.; ({%it%}) <div n="xe">{%has become my l.%}
-<div n="lb"/>{%now:%}</div> <div n="xs">{#AjIvikedAnIM saMvfttA,#}</div> Mr.; </div><div n="1">(2) {#AjIvaH, #}
-<div n="lb"/>{# -nam,#} <div n="xe">{%pure l.:%}</div> <div n="xs">{#viSudDa AjIvaH,#}</div> Sa.; </div><div n="1">(3) {#vfttiH,#}
-<div n="lb"/>(rarely {#vartanam#}), <div n="xe">{%for l.:%}</div> <div n="xs">{#vfttyarTam,#}</div> H.; </div><div n="1">(4) {#jIvanam#}
-<div n="lb"/>(rare), <div n="xe">{%means of l.:%}</div> <div n="xs">{#jIvanopAyaH,#}</div> D.s.</div>
+{@LIVELIHOOD:@}¦ <div n="1">(1) {#jIvikA, A-, upa-,#} {%to get l.:%}
+{#jIvikAM prApnoti,#} S. k.; ({%it%}) <div n="xe">{%has become my l.%}
+{%now:%}</div> <div n="xs">{#AjIvikedAnIM saMvfttA,#}</div> Mr.; </div><div n="1">(2) {#AjIvaH, #}
+{# -nam,#} <div n="xe">{%pure l.:%}</div> <div n="xs">{#viSudDa AjIvaH,#}</div> Sa.; </div><div n="1">(3) {#vfttiH,#}
+(rarely {#vartanam#}), <div n="xe">{%for l.:%}</div> <div n="xs">{#vfttyarTam,#}</div> H.; </div><div n="1">(4) {#jIvanam#}
+(rare), <div n="xe">{%means of l.:%}</div> <div n="xs">{#jIvanopAyaH,#}</div> D.s.</div>
 <LEND>

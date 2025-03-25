@@ -1,9 +1,9 @@
 <L>3255<pc>108<k1>cattle<k2>cattle
-<div n="lb"/>{@CATTLE:@}¦ <div n="I">I The bovine species: {#gAvaH#} (m. pl.),
-<div n="lb"/><div n="xe">{%c. range%}</div> <div n="xs">{#gocaraH,#}</div> Ki.; <div n="xe">{%herd af c.%}</div> <div n="xs">{#gokulam,#}</div> V. p.; <div n="xe">{%c.-%}
-<div n="lb"/>{%keeper%}</div> <div n="xs">{#gopaH,#}</div> Ki.; <div n="xe">{%c. -path%}</div> <div n="xs">{#govAwaH,#}</div> Ga. </div><div n="I">II In a
-<div n="lb"/>wider sense, including sheep, etc.: </div><div n="1">(1)
-<div n="lb"/>{#paSavaH#} (m. pl.), <div n="xe">{%breeding of c.%}</div> <div n="xs">{#pASupAlyam,#}</div> M.;
-<div n="lb"/><div n="xe">{%to graze c.%}</div> <div n="xs">{#paSUn cArayati,#}</div> B. p.; </div><div n="1">(2) {#gomezAdayaH#}
-<div n="lb"/>(m. pl.), <div n="xe">{%c. show%}</div> <div n="xs">{#*gomezAdimelA.#}</div></div>
+{@CATTLE:@}¦ <div n="I">I The bovine species: {#gAvaH#} (m. pl.),
+<div n="xe">{%c. range%}</div> <div n="xs">{#gocaraH,#}</div> Ki.; <div n="xe">{%herd af c.%}</div> <div n="xs">{#gokulam,#}</div> V. p.; <div n="xe">{%c.-%}
+{%keeper%}</div> <div n="xs">{#gopaH,#}</div> Ki.; <div n="xe">{%c. -path%}</div> <div n="xs">{#govAwaH,#}</div> Ga. </div><div n="I">II In a
+wider sense, including sheep, etc.: </div><div n="1">(1)
+{#paSavaH#} (m. pl.), <div n="xe">{%breeding of c.%}</div> <div n="xs">{#pASupAlyam,#}</div> M.;
+<div n="xe">{%to graze c.%}</div> <div n="xs">{#paSUn cArayati,#}</div> B. p.; </div><div n="1">(2) {#gomezAdayaH#}
+(m. pl.), <div n="xe">{%c. show%}</div> <div n="xs">{#*gomezAdimelA.#}</div></div>
 <LEND>

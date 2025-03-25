@@ -1,14 +1,14 @@
 <L>21866<pc>689<k1>sum<k2>sum
-<div n="lb"/>{@SUM@}¦ (subs.): <div n="I">I Aggregate: </div><div n="1">(1) {#yogaH#} (= addi-
-<div n="lb"/>-tion), <div n="xe">{%whose s. is hundred and one:%}</div> <div n="xs">{#yayoryogaM #}
-<div n="lb"/>{# SataM sEkam,#}</div> Li. 27.; </div><div n="1">(2) {#mAnam, pramARam#} (=total
-<div n="lb"/>number), <div n="xe">{%tell me the s. of his things:%}</div> <div n="xs">{#tasya dravya-#}
-<div n="lb"/>{#pramARaM vad,#}</div> Li. 25.; </div><div n="1">(3) {#Ekyam#} (=total). </div><div n="I">II
-<div n="lb"/>Quantity: {#rASiH,#} {%what s. becomes%} 68......:
-<div n="lb"/>{#syAt ko rASirdvyUnasaptatiH,#} Li. 21. </div><div n="I">III Of
-<div n="lb"/>money: no expr., <div n="xe">{%why do you spend a large s.%}
-<div n="lb"/>{%of money:%}</div> <div n="xs">{#kiM mahAnarTotsargaH kriyate,#}</div> Mu. iii. </div><div n="I">IV
-<div n="lb"/>S. and substance: </div><div n="1">(1) {#marman,#} (n.); </div><div n="1">(2) {#sAraH.#}
-<div n="lb"/>V. Acme: q. v.: </div><div n="1">(1) {#parA kowiH;#} </div><div n="1">(2) {#Palitam,#}
-<div n="lb"/>M. n.</div>
+{@SUM@}¦ (subs.): <div n="I">I Aggregate: </div><div n="1">(1) {#yogaH#} (= addi-
+-tion), <div n="xe">{%whose s. is hundred and one:%}</div> <div n="xs">{#yayoryogaM #}
+{# SataM sEkam,#}</div> Li. 27.; </div><div n="1">(2) {#mAnam, pramARam#} (=total
+number), <div n="xe">{%tell me the s. of his things:%}</div> <div n="xs">{#tasya dravya-#}
+{#pramARaM vad,#}</div> Li. 25.; </div><div n="1">(3) {#Ekyam#} (=total). </div><div n="I">II
+Quantity: {#rASiH,#} {%what s. becomes%} 68......:
+{#syAt ko rASirdvyUnasaptatiH,#} Li. 21. </div><div n="I">III Of
+money: no expr., <div n="xe">{%why do you spend a large s.%}
+{%of money:%}</div> <div n="xs">{#kiM mahAnarTotsargaH kriyate,#}</div> Mu. iii. </div><div n="I">IV
+S. and substance: </div><div n="1">(1) {#marman,#} (n.); </div><div n="1">(2) {#sAraH.#}
+V. Acme: q. v.: </div><div n="1">(1) {#parA kowiH;#} </div><div n="1">(2) {#Palitam,#}
+M. n.</div>
 <LEND>

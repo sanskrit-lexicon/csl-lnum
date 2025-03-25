@@ -1,23 +1,23 @@
 <L>8115<pc>350<k1>populace<k2>populace
 {@Populace,@}¦ {%s.%} {#lokaH, janaH, sAmAnya-prAkfta-#}
-<div n="lb"/>{#-janAH;#} {%See%} {@People. -Popular,@} {#loka-jana-#}
-<div n="lb"/>{#-priya, sarvapriya#}. {@2@} {#lOkika#} ({#kI#} {%f.%}) {#loka-#}
-<div n="lb"/>{#-prasidDa, lokarUQa-saMmata, jana-loka#} in
-<div n="lb"/>comp.; ‘p. scandal’ {#lokApavAdaH;#}
-<div n="lb"/>‘seeking p. favor’ {#loka-jana-raMjanaM;#} ‘p.
-<div n="lb"/>usage’ {#rUQi#} {%f.,%} {#janavyavahAraH, lokAcAraH,#}
-<div n="lb"/>{#lokamaryAdA-rIti#} {%f.;%} ‘p. report’ {#janapravAdaH;#}
-<div n="lb"/>{#loka#} or {#jana-vArtA#} or {#Sruti#} {%f.,%} {#kiMvadaMtI;#}
-<div n="lb"/>‘p. tumult’ {#prakftikzoBaH;#} ‘conformity
-<div n="lb"/>to p opinion’ {#lokAnusaraRaM#}. {@3@} {#sAmAnya,#}
-<div n="lb"/>{#sADAraRa#} ({#RI#} {%f.%}). {@-ity,@} {%s.%} {#lokapriyatA,#}
-<div n="lb"/>{#loka-jana-prIti#} {%f.%} -{#anurAgaH saMmAnaH#}. {@-ly,@}
-<div n="lb"/>{%adv.%} {#loke, lOkikatayA, sADAraRataH, sAmA-#}
-<div n="lb"/>{#-nyataH, lokaraMjanArTaM#}. {@-Populate,@} {%v. t.%} {#vas#}
-<div n="lb"/>c., {#janEH AkF#} 6 P or {#pUr#} 10. {%-v. i.%} {#prajAM#}
-<div n="lb"/>{#utpad#} c. {#prajan#} 4 A. {#prajAvfdDiM kf#} 8 U. {@-ion,@}
-<div n="lb"/>{%s.%} {#prajA, prajA-loka-saMKyA, janAH, lokAH#}.
-<div n="lb"/>{@-Populous,@} {%a.%} {#janAkIrRa, janasaMkula-pUrRa,#}
-<div n="lb"/>{#bahu#} or {#pracura-jana#} or {#praja, janasaMbADa#}. {@-ness,@}
-<div n="lb"/>{%s.%} {#loka-prajA-bAhulyaM#}.
+{#-janAH;#} {%See%} {@People. -Popular,@} {#loka-jana-#}
+{#-priya, sarvapriya#}. {@2@} {#lOkika#} ({#kI#} {%f.%}) {#loka-#}
+{#-prasidDa, lokarUQa-saMmata, jana-loka#} in
+comp.; ‘p. scandal’ {#lokApavAdaH;#}
+‘seeking p. favor’ {#loka-jana-raMjanaM;#} ‘p.
+usage’ {#rUQi#} {%f.,%} {#janavyavahAraH, lokAcAraH,#}
+{#lokamaryAdA-rIti#} {%f.;%} ‘p. report’ {#janapravAdaH;#}
+{#loka#} or {#jana-vArtA#} or {#Sruti#} {%f.,%} {#kiMvadaMtI;#}
+‘p. tumult’ {#prakftikzoBaH;#} ‘conformity
+to p opinion’ {#lokAnusaraRaM#}. {@3@} {#sAmAnya,#}
+{#sADAraRa#} ({#RI#} {%f.%}). {@-ity,@} {%s.%} {#lokapriyatA,#}
+{#loka-jana-prIti#} {%f.%} -{#anurAgaH saMmAnaH#}. {@-ly,@}
+{%adv.%} {#loke, lOkikatayA, sADAraRataH, sAmA-#}
+{#-nyataH, lokaraMjanArTaM#}. {@-Populate,@} {%v. t.%} {#vas#}
+c., {#janEH AkF#} 6 P or {#pUr#} 10. {%-v. i.%} {#prajAM#}
+{#utpad#} c. {#prajan#} 4 A. {#prajAvfdDiM kf#} 8 U. {@-ion,@}
+{%s.%} {#prajA, prajA-loka-saMKyA, janAH, lokAH#}.
+{@-Populous,@} {%a.%} {#janAkIrRa, janasaMkula-pUrRa,#}
+{#bahu#} or {#pracura-jana#} or {#praja, janasaMbADa#}. {@-ness,@}
+{%s.%} {#loka-prajA-bAhulyaM#}.
 <LEND>

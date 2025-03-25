@@ -1,10 +1,10 @@
 <L>194157<pc>955,2<k1>vikram<k2>vi-kram<e>1
-<s>vi-√ kram</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-krAmati</s>, <s>-kramate</s> (<ab>cf.</ab> <ls>Pāṇ. 1-3, 41</ls>), to step beyond or aside, move away, depart from (<ab>abl.</ab>), <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>;
+<s>vi-√ kram</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-krAmati</s>, <s>-kramate</s> (<ab>cf.</ab> <ls>Pāṇ. i, 3, 41</ls>), to step beyond or aside, move away, depart from (<ab>abl.</ab>), <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>;
 <div n="to"/>to move apart or asunder, become divided, <ls>RV.</ls>; <ls>AV.</ls>; <ls>TS.</ls>;
 <div n="to"/>to go or stride through, traverse, <ls>RV.</ls>; <ls>AV.</ls>; <ls>TBr.</ls>;
 <div n="to"/>to move on, walk, go, advance, <ls>RV.</ls> &c. &c.;
 <div n="to"/>to rise to (<ab>acc.</ab>), <ls>ŚBr.</ls>; <ls>MBh.</ls>; <ls>R.</ls>;
 <div n="to"/>to bestride, <ls>BhP.</ls>;
 <div n="to"/>to show valour or prowess, attack, assail, fight, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
-<div n="to"/><ab>Caus.</ab> <s>-kramayati</s>, to cause to step or stride over or through, <ls>KātyŚr.</ls><info verb="pre" cp="PĀ" parse="vi+kram"/>
+<div n="vp"/><ab>Caus.</ab> <s>-kramayati</s>, to cause to step or stride over or through, <ls>KātyŚr.</ls><info verb="pre" cp="PĀ" parse="vi+kram"/>
 <LEND>

@@ -1,12 +1,12 @@
 <L>2162<pc>075<k1>bleed<k2>bleed
-<div n="lb"/>{@BLEED@}¦ (v. i.): {#raktaM#} <div n="xe">{%or%}</div> <div n="xs">{#ruDiraM#}</div> <div n="xe">{%or%}</div> <div n="xs">{#SoRitaM sravati#}</div> ({#sru,#}
-<div n="lb"/>c. l); <div n="xe">{%or%}</div> <div n="xs">{#cyavate#}</div> ({#cyu,#} c. l), Ki.; <div n="xe">{%or%}</div> <div n="xs">{#kzarati#}</div>
-<div n="lb"/>({#kzar,#} c. l). M. n.; <div n="xe">{%or%}</div> <div n="xs">{#gacCati#}</div> ({#gam,#} c. l)
-<div n="lb"/>(rare), <div n="xe">{%when it stops itself after sufficient b.%}
-<div n="lb"/>{%ing%}</div> <div n="xs">{#samyag gatvA yadA raktaM svayamevAvatizWate,#}</div> Śr.; {%or%}
-<div n="lb"/>{#pravartate#} ({#vft,#} c. l) (rare), <div n="xe">{%if it does not b.%}</div> <div n="xs">{#apra-#}
-<div n="lb"/>{#vartamAne rakte.#}</div> N. B. These verbs are cons.
-<div n="lb"/>with gen. of the person and abl. of the
-<div n="lb"/>part which b. s: <div n="xe">{%his hand b. s%}</div> <div n="xs">{#tasya hastAt #}
-<div n="lb"/>{# SoRitaM sravati.#}</div>
+{@BLEED@}¦ (v. i.): {#raktaM#} <div n="xe">{%or%}</div> <div n="xs">{#ruDiraM#}</div> <div n="xe">{%or%}</div> <div n="xs">{#SoRitaM sravati#}</div> ({#sru,#}
+c. l); <div n="xe">{%or%}</div> <div n="xs">{#cyavate#}</div> ({#cyu,#} c. l), Ki.; <div n="xe">{%or%}</div> <div n="xs">{#kzarati#}</div>
+({#kzar,#} c. l). M. n.; <div n="xe">{%or%}</div> <div n="xs">{#gacCati#}</div> ({#gam,#} c. l)
+(rare), <div n="xe">{%when it stops itself after sufficient b.%}
+{%ing%}</div> <div n="xs">{#samyag gatvA yadA raktaM svayamevAvatizWate,#}</div> Śr.; {%or%}
+{#pravartate#} ({#vft,#} c. l) (rare), <div n="xe">{%if it does not b.%}</div> <div n="xs">{#apra-#}
+{#vartamAne rakte.#}</div> N. B. These verbs are cons.
+with gen. of the person and abl. of the
+part which b. s: <div n="xe">{%his hand b. s%}</div> <div n="xs">{#tasya hastAt #}
+{# SoRitaM sravati.#}</div>
 <LEND>

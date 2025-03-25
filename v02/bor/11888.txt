@@ -1,4 +1,4 @@
 <L>11888<pc>371<k1>incompletely<k2>incompletely
-<div n="lb"/>{@INCOMPLETELY:@}¦ <div n="1">(1) {#asampUrRam;#} </div><div n="1">(2) {#na pUrRam#} {%or%}
-<div n="lb"/>{#sampUrRam#} <div n="xe">{%or%}</div> <div n="xs">{#paripUrRam.#}</div></div>
+{@INCOMPLETELY:@}¦ <div n="1">(1) {#asampUrRam;#} </div><div n="1">(2) {#na pUrRam#} {%or%}
+{#sampUrRam#} <div n="xe">{%or%}</div> <div n="xs">{#paripUrRam.#}</div></div>
 <LEND>

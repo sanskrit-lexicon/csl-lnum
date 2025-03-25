@@ -1,4 +1,4 @@
 <L>7459<pc>170-a<k1>denomination<k2>denomination
-<div n="lb"/>DENOMINATION¦, {%s.%} {#nAma#} {%n.%} {#(n), nAmaDeyaH -yaM, aBiDA -DAnaM -DeyaM, saMjYA,#}
-<div n="lb"/>{#AKyA, aBiKyA, aDivacanaM, lakzaRaM, upADiH#} {%m.,%} {#KyAtiH#} {%f.%}
+DENOMINATION¦, {%s.%} {#nAma#} {%n.%} {#(n), nAmaDeyaH -yaM, aBiDA -DAnaM -DeyaM, saMjYA,#}
+{#AKyA, aBiKyA, aDivacanaM, lakzaRaM, upADiH#} {%m.,%} {#KyAtiH#} {%f.%}
 <LEND>

@@ -1,9 +1,9 @@
 <L>5657<pc>181<k1>defend<k2>defend
-<div n="lb"/>{@DEFEND:@}¦ <div n="I">I To protect: q. v. {#rakzati#} ({#rakza,#} c. l.),
-<div n="lb"/><div n="xe">{%d. him from Bhima:%}</div> <div n="xs">{#rakzEnaM BImAt.#}</div> Ve. iii. N. B.
-<div n="lb"/>Exact sense expr. by circumlo., <div n="xe">{%Karṇa cannot%}
-<div n="lb"/>{%d. the Kaurava army from Bhīma and Arjuna:%}</div>
-<div n="lb"/><div n="xs">{#kEravabalamAloqayantO BImArjunO rADeyena na Sakyete #}
-<div n="lb"/>{# nivArayitum,#}</div> Ve. </div><div n="I">II In law, to contest: {#uttaraM #}
-<div n="lb"/>{# dadAti,#} ({#dA,#} c. 3.). </div><div n="I">III To repel: q. v.</div>
+{@DEFEND:@}¦ <div n="I">I To protect: q. v. {#rakzati#} ({#rakza,#} c. l.),
+<div n="xe">{%d. him from Bhima:%}</div> <div n="xs">{#rakzEnaM BImAt.#}</div> Ve. iii. N. B.
+Exact sense expr. by circumlo., <div n="xe">{%Karṇa cannot%}
+{%d. the Kaurava army from Bhīma and Arjuna:%}</div>
+<div n="xs">{#kEravabalamAloqayantO BImArjunO rADeyena na Sakyete #}
+{# nivArayitum,#}</div> Ve. </div><div n="I">II In law, to contest: {#uttaraM #}
+{# dadAti,#} ({#dA,#} c. 3.). </div><div n="I">III To repel: q. v.</div>
 <LEND>

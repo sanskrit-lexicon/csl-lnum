@@ -1,13 +1,13 @@
 <L>65<pc>003<k1>accident<k2>accident
 {@Accident,@}¦ {%s.%} {#samApatti#} {%f.,%} {#dEvayogaH-gati#} {%f.,%}
-<div n="lb"/>{#dEvaGawanaM, yadfcCA;#} ‘seen by a.’ {#samApatti-#}
-<div n="lb"/>{#-yadfcCA-dfzwa#}. {@2@} {#Apad-vipad#} {%f.;%} {#atyAhitaM,#}
-<div n="lb"/>{#upaplavaH#}. {@3@} {#apakfti#} {%f.,%} {#asahajo guRaH, vikf-#}
-<div n="lb"/>{#-ti#} {%f.,%} ‘life is but an a.’ {#vikftirjIvita-#}
-<div n="lb"/>{#-mucyate#} (R. VIII. 87); ‘by a.’ {#akasmAt,#}
-<div n="lb"/>{#dEvena, dEvAt, dEvagatyA#}. {@-al,@} {%a.%} {#yAdfcCika-#}
-<div n="lb"/>{#-Akasmika#} ({#kI#} {%f.%}) {#kAkatAlIya, dEvAyatta#}.
-<div n="lb"/>{@2@} {#aprakfta, asamavAyin; asahaja, AhArya#}.
-<div n="lb"/>{@-ally@} {%adv.%} {#dEvAt, devayogena, yadfcCayA,#}
-<div n="lb"/>{#viDi-dEva-vaSAt, samApatyA, akasmAt#}.
+{#dEvaGawanaM, yadfcCA;#} ‘seen by a.’ {#samApatti-#}
+{#-yadfcCA-dfzwa#}. {@2@} {#Apad-vipad#} {%f.;%} {#atyAhitaM,#}
+{#upaplavaH#}. {@3@} {#apakfti#} {%f.,%} {#asahajo guRaH, vikf-#}
+{#-ti#} {%f.,%} ‘life is but an a.’ {#vikftirjIvita-#}
+{#-mucyate#} (R. VIII. 87); ‘by a.’ {#akasmAt,#}
+{#dEvena, dEvAt, dEvagatyA#}. {@-al,@} {%a.%} {#yAdfcCika-#}
+{#-Akasmika#} ({#kI#} {%f.%}) {#kAkatAlIya, dEvAyatta#}.
+{@2@} {#aprakfta, asamavAyin; asahaja, AhArya#}.
+{@-ally@} {%adv.%} {#dEvAt, devayogena, yadfcCayA,#}
+{#viDi-dEva-vaSAt, samApatyA, akasmAt#}.
 <LEND>

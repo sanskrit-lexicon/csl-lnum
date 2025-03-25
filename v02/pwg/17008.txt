@@ -1,14 +1,14 @@
 <L>17008<pc>2-0271<k1>kASin<k2>kASin<h>1
-1. {#kASin#}¦ (von {#kAS#} oder 1. {#kASa#}) 
-<div n="1"> 1) <lex>adj.</lex> am Ende eines comp. {%scheinend, erscheinend, den Schein von Etwas habend%}: {#mattakASinI#} 
-<ls>MBH. 1, 6554. 3, 17118.</ls> 
-<ls>R. 5, 18, 37. 6, 7, 48.</ls> 
-<ls>DAŚAK. 101, 1.</ls> {#karmasu - ajYAnAdarTakASizu . mArTadfzwiM kfTAH#} 
-<ls>BHĀG. P. 4, 29, 47.</ls> {#jitakASin#} {%der als Sieger erscheint, sich als Sieger gebahrt%} 
-<ls>MBH. 2, 2185. 3, 790. 14962. fg.</ls> 
-<ls>16394.</ls> <ls>R. 3, 1, 19. 4, 10, 9. 48, 23. 6, 28, 10. 70, 45. 92, 65.</ls> {#jayakASin#} dass. 
-<ls>BHĀG. P. 4, 10, 15.</ls> Vgl. {#apApakASin#} . 
-<div n="1">— 2) <lex>m.</lex> N. pr. eines Mannes 
-<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 55, 7 v. u.</ls> eines Sohnes von <is>Brahman</is> <is>Kavi</is> 
-<ls>MBH. 13, 4150.</ls>
+1. {#kASin#}¦ (von {#kAS#} oder 1. {#kASa#})
+<div n="1"> 1) <lex>adj.</lex> am Ende eines comp. {%scheinend, erscheinend, den Schein von Etwas habend%}: {#mattakASinI#}
+<ls>MBH. 1,6554.</ls> <ls n="MBH.">3,17118.</ls>
+<ls>R. 5,18,37.</ls> <ls n="R.">6,7,48.</ls>
+<ls>DAŚAK. 101,1.</ls> {#karmasu — ajYAnAdarTakASizu . mArTadfzwiM kfTAH#}
+<ls>BHĀG. P. 4,29,47.</ls> {#jitakASin#} {%der als Sieger erscheint, sich als Sieger gebahrt%}
+<ls>MBH. 2,2185.</ls> <ls n="MBH.">3,790.</ls> <ls n="MBH. 3,">14962. fg.</ls>
+<ls n="MBH. 3,">16394.</ls> <ls>R. 3,1,19.</ls> <ls n="R.">4,10,9.</ls> <ls n="R. 4,">48,23.</ls> <ls n="R.">6,28,10.</ls> <ls n="R. 6,">70,45.</ls> <ls n="R. 6,">92,65.</ls> {#jayakASin#} dass.
+<ls>BHĀG. P. 4,10,15.</ls> Vgl. {#apApakASin#} .
+<div n="1">— 2) <lex>m.</lex> N. pr. eines Mannes
+<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 55,7</ls> v. u. eines Sohnes von <is>Brahman</is> <is>Kavi</is>
+<ls>MBH. 13,4150.</ls>
 <LEND>

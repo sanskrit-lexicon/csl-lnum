@@ -1,61 +1,61 @@
 <L>26443<pc>3-0012<k1>jaWara<k2>jaWara
-{#jaWara#}¦ 
-<div n="1"> 1) <lex>adj.</lex> 
-<div n="2"> a) {%hart%} 
-<ls>AK. 3, 2, 26. 3, 4, 25, 191.</ls> 
-<ls>an. 3, 556.</ls> 
-<ls>MED. r. 157.</ls> {#jaWarakamaWIpfzWakaWinA#} 
-<ls>ŚĀNTIŚ. 4, 13.</ls> 
-<div n="2">— b) {%alt%} 
-<ls>MED.</ls> <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu 
-<ls>ŚIŚ. 4, 29.</ls> {%gebunden%} 
+{#jaWara#}¦
+<div n="1"> 1) <lex>adj.</lex>
+<div n="2"> a) {%hart%}
+<ls>AK. 3,2,26.</ls> <ls n="AK.">3,4,25,191.</ls>
+<ls>an. 3,556.</ls>
+<ls>MED. r. 157.</ls> {#jaWarakamaWIpfzWakaWinA#}
+<ls>ŚĀNTIŚ. 4,13.</ls>
+<div n="2">— b) {%alt%}
+<ls>MED.</ls> <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu
+<ls>ŚIŚ. 4,29.</ls> {%gebunden%}
 <ls>H. an.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> Beide Bedd. gehen wohl auf eine zurück, da {#vfdDa#} (
-<ls>VAIJ.</ls> aber {#jIrRa#}) und {#badDa (vadDa)#} leicht mit einander verwechselt werden können. — {#atijaWarA#} 
-<ls>ŚIŚ. 4, 29</ls> erklart der Schol. durch {#atikaWinA#} {%sehr hart%} und {#atijaratI#} {%sehr alt.%} Die Bedd. {%hart%} und {%alt%} werden auch {#jaraWa#} ertheilt und die letzte Bed. ist hier etymologisch gerechtfertigt. Als <lex>adj.</lex> ist uns {#jaWara#} noch 
-<ls>R. 2, 98, 24</ls> als Beiw. von {%Pferden%} vorgekommen: {#vAyuvegasamO vIrO jaWarO turagottamO#} (die Ausg. von 
-<ls>GORR. 2, 107, 13</ls> : {#°samO GorAvagragO nfpaterhayO#}); hier würde die Bed. {%gelblich%}, welche von dem mit {#jaWara#} leicht zu verwechselnden {#jaraWa#} angegeben wird, recht gut passen. 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) pl. N. pr. eines Volkes 
-<ls>MBH. 6, 350.</ls> 
-<ls>VP. 187.</ls> im Sudosten von <is>Madhyadeśa</is> 
-<ls>VARĀH. BṚH. S. 14, 8.</ls> 
-<div n="2">— b) N. pr. eines Gebirges 
-<ls>VP. 171.</ls> 
-<ls>BHĀG. P. 5, 16, 28.</ls> 
-<div n="1">— 3) {#jaWa/ra#} 
-<ls>Uṇ.5,38.</ls> n. <ls>SIDDH. K. 249,b,2.</ls> m. <ls>H. an.</ls> m. n. <ls>H.</ls>, <ls>Sch.</ls> <ls>MED.</ls> zu belegen nur <lex>n.</lex> 
-<div n="2"> a) {%Bauch, Leib%} 
-<ls>NIR. 4, 7.</ls> 
-<ls>AK. 2, 6, 2, 28.</ls> 
-<ls>H. 604.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {%Mutterleib%}; übertr. {%Höhlung, Inneres, Schooss%}; auch pl.: {#vf\trasya^#} 
-<ls>ṚV. 1, 54, 10.</ls> <ls n="ṚV.">3, 2, 11.</ls> <ls n="ṚV.">1, 95, 10.</ls> {#ja\Ware\ soma^M ta\nvI\1^\ saho\ maha^H#} 
-<ls n="ṚV.">2, 16, 2.</ls> <ls n="ṚV. 2,">22, 2.</ls> <ls n="ṚV.">3, 22, 1.</ls> <ls n="ṚV. 3,">35, 6.</ls> {#indra^sya ha\vyErja\Wara^M pfRA\naH#} 
-<ls>VS. 20, 45.</ls> {#yadasu^rasya ja\WarA\dajA^yata#} 
-<ls>ṚV. 3, 29, 14.</ls> {#sIda\nvana^sya ja\Ware^ punA\naH#} 
-<ls n="ṚV.">9, 95, 1.</ls> <ls n="ṚV.">10, 92, 5.</ls> {#sa\mu\drasya^#} 
-<ls>AV. 13, 3, 4.</ls> 
-<ls>ŚĀṄKH. ŚR. 4, 15, 24. 14, 21, 3.</ls> {#°gOrava#} 
-<ls>SUŚR. 1, 128, 6.</ls> {#lambajaWara#} 
-<ls>HIḌ. 2, 3.</ls> 
-<ls>ARJ. 3, 19.</ls> 
-<ls>VARĀH. BṚH. S. 50, 26. 31. 38. 43. 52, 53. 67, 18.</ls> {#pfzWataH sevayedarkaM jaWareRa hutASanam#} 
-<ls>HIT. II, 33.</ls> {#jaWaraM ko na biBarti kevalam#} 
-<ls>PAÑCAT. I, 27.</ls> {#yAvadBriyeta jaWaraM tAvatsvatvaM hi dehinAm#} 
-<ls>BHĀG. P. 7, 14, 8.</ls> {#sa tvaM Bfto me jaWareRa nATa kaTaM nu#} 
-<ls>3, 33, 4. 2.</ls> {#Aste 'syA jaWare vIryamavizahyaM suradvizaH#} 
-<ls>7, 7, 9.</ls> {#KaNgadaRqaM DanuzpASaM SarOGajaWaram (rAmakAlam)#} 
-<ls>R. 3, 41, 26.</ls> {#pUrRe - jaWarapiWare#} 
-<ls>PAÑCAT. V, 83.</ls> {#jaWaravalmIkASrayeRorageRa#} 
-<ls>183, 20.</ls> In den beiden letzten Beispielen wird das Vorangehen von {#jaWara#} von den
+<ls>VAIJ.</ls> aber {#jIrRa#}) und {#badDa (vadDa)#} leicht mit einander verwechselt werden können. — {#atijaWarA#}
+<ls>ŚIŚ. 4,29</ls> erklart der Schol. durch {#atikaWinA#} {%sehr hart%} und {#atijaratI#} {%sehr alt.%} Die Bedd. {%hart%} und {%alt%} werden auch {#jaraWa#} ertheilt und die letzte Bed. ist hier etymologisch gerechtfertigt. Als <lex>adj.</lex> ist uns {#jaWara#} noch
+<ls>R. 2,98,24</ls> als Beiw. von {%Pferden%} vorgekommen: {#vAyuvegasamO vIrO jaWarO turagottamO#} (die Ausg. von
+<ls>GORR. 2,107,13</ls> : {#°samO GorAvagragO nfpaterhayO#}); hier würde die Bed. {%gelblich%}, welche von dem mit {#jaWara#} leicht zu verwechselnden {#jaraWa#} angegeben wird, recht gut passen.
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) pl. N. pr. eines Volkes
+<ls>MBH. 6,350.</ls>
+<ls>VP. 187.</ls> im Sudosten von <is>Madhyadeśa</is>
+<ls>VARĀH. BṚH. S. 14,8.</ls>
+<div n="2">— b) N. pr. eines Gebirges
+<ls>VP. 171.</ls>
+<ls>BHĀG. P. 5,16,28.</ls>
+<div n="1">— 3) {#jaWa/ra#}
+<ls>Uṇ. 5,38.</ls> n. <ls>SIDDH. K. 249,b,2.</ls> m. <ls>H. an.</ls> m. n. <ls>H.</ls>, <ls>Sch.</ls> <ls>MED.</ls> zu belegen nur <lex>n.</lex>
+<div n="2"> a) {%Bauch, Leib%}
+<ls>NIR. 4,7.</ls>
+<ls>AK. 2,6,2,28.</ls>
+<ls>H. 604.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {%Mutterleib%}; übertr. {%Höhlung, Inneres, Schooss%}; auch pl.: {#vf\trasya^#}
+<ls>ṚV. 1,54,10.</ls> <ls n="ṚV.">3,2,11.</ls> <ls n="ṚV.">1,95,10.</ls> {#ja\Ware\ soma^M ta\nvI\1^\ saho\ maha^H#}
+<ls n="ṚV.">2,16,2.</ls> <ls n="ṚV. 2,">22,2.</ls> <ls n="ṚV.">3,22,1.</ls> <ls n="ṚV. 3,">35,6.</ls> {#indra^sya ha\vyErja\Wara^M pfRA\naH#}
+<ls>VS. 20,45.</ls> {#yadasu^rasya ja\WarA\dajA^yata#}
+<ls>ṚV. 3,29,14.</ls> {#sIda\nvana^sya ja\Ware^ punA\naH#}
+<ls n="ṚV.">9,95,1.</ls> <ls n="ṚV.">10,92,5.</ls> {#sa\mu\drasya^#}
+<ls>AV. 13,3,4.</ls>
+<ls>ŚĀṄKH. ŚR. 4,15,24. 14,21,3.</ls> {#°gOrava#}
+<ls>SUŚR. 1,128,6.</ls> {#lambajaWara#}
+<ls>HIḌ. 2,3.</ls>
+<ls>ARJ. 3,19.</ls>
+<ls>VARĀH. BṚH. S. 50,26. 31. 38. 43. 52,53. 67,18.</ls> {#pfzWataH sevayedarkaM jaWareRa hutASanam#}
+<ls>HIT. II,33.</ls> {#jaWaraM ko na biBarti kevalam#}
+<ls>PAÑCAT. I,27.</ls> {#yAvadBriyeta jaWaraM tAvatsvatvaM hi dehinAm#}
+<ls>BHĀG. P. 7,14,8.</ls> {#sa tvaM Bfto me jaWareRa nATa kaTaM nu#}
+<ls n="BHĀG. P.">3,33,4.</ls> <ls n="BHĀG. P. 3,33,">2.</ls> {#Aste 'syA jaWare vIryamavizahyaM suradvizaH#}
+<ls n="BHĀG. P.">7,7,9.</ls> {#KaNgadaRqaM DanuzpASaM SarOGajaWaram (rAmakAlam)#}
+<ls>R. 3,41,26.</ls> {#pUrRe — jaWarapiWare#}
+<ls>PAÑCAT. V,83.</ls> {#jaWaravalmIkASrayeRorageRa#}
+<ls n="PAÑCAT.">183,20.</ls> In den beiden letzten Beispielen wird das Vorangehen von {#jaWara#} von den
 [Page3-0013]
-Grammatikern gestattet; vgl. <is>gaṇa</is> {#kaqArAdi#} zu 
-<ls>P. 2, 2, 38.</ls> 
-<div n="2">— b) wie {#udara#} 
-<ls>3.</ls> {%gewisse krankhafte Affectionen des Unterleibes%} 
-<ls>SUŚR. 1, 193, 10. 2, 449. 14.</ls> 
-<div n="1">— 4) {#ja/Wara#} von 
-<ls>SĀY.</ls> für identisch mit {#jaWa/ra#} angesehen, wogegen nicht nur die Betonung, sondern auch der Zusammenhang spricht. {#yABi\H paWa^rvA\ jaWa^rasya ma\jmanA\gnirnAdI^decci\ta i\dDo ajma\nnA#} 
-<ls>ṚV. 1, 112, 17.</ls> Viell. {%Lauf%}; vgl. {#jaWala#} .
+Grammatikern gestattet; vgl. <is>gaṇa</is> {#kaqArAdi#} zu
+<ls>P. 2,2,38.</ls>
+<div n="2">— b) wie {#udara#}
+<ls n="P. 2,2,">3.</ls> {%gewisse krankhafte Affectionen des Unterleibes%}
+<ls>SUŚR. 1,193,10. 2,449. 14.</ls>
+<div n="1">— 4) {#ja/Wara#} von
+<ls>SĀY.</ls> für identisch mit {#jaWa/ra#} angesehen, wogegen nicht nur die Betonung, sondern auch der Zusammenhang spricht. {#yABi\H paWa^rvA\ jaWa^rasya ma\jmanA\gnirnAdI^decci\ta i\dDo ajma\nnA#}
+<ls>ṚV. 1,112,17.</ls> Viell. {%Lauf%}; vgl. {#jaWala#} .
 <LEND>

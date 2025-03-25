@@ -1,10 +1,10 @@
 <L>9576<pc>1-0718<k1>ASin<k2>ASin
-{#ASin#}¦ (von 2. {#aS#}) <lex>adj.</lex> am Ende eines comp. {%essend%}: {#sAyaMprAtarASi/n#} 
-<ls>ŚAT. BR. 2, 4, 2, 6.</ls> {#a/mAMsASin#} 
-<ls>14, 1, 1, 29.</ls> <ls>KĀTY. ŚR. 22, 7, 19.</ls> {#maDvA°#} 
-<ls>5, 2, 21.</ls> <ls>M. 2, 118. 3, 109. 158. 285. 11, 72. 218. 12, 71.</ls> <ls>BHAG. 3, 13. 18, 52.</ls> <ls>R. 3, 33, 24. 73, 4. 5, 11, 8. 6, 75, 20.</ls> <ls>SUŚR. 2, 26, 11.</ls> <ls>PAÑCAT. 59, 10.</ls> <ls>CĀṆ. 69.</ls> {#BikzASitva#} 
-<ls>HIT. I, 129.</ls> {#nAnASitva#} 
-<ls>MBH. 3, 13450.</ls> {#anASitva#} 
-<ls>13447.</ls> {#nirASitva#} 
-<ls>13994.</ls>
+{#ASin#}¦ (von 2. {#aS#}) <lex>adj.</lex> am Ende eines comp. {%essend%}: {#sAyaMprAtarASi/n#}
+<ls>ŚAT. BR. 2,4,2,6.</ls> {#a/mAMsASin#}
+<ls n="ŚAT. BR.">14,1,1,29.</ls> <ls>KĀTY. ŚR. 22,7,19.</ls> {#maDvA°#}
+<ls n="KĀTY. ŚR.">5,2,21.</ls> <ls>M. 2,118.</ls> <ls n="M.">3,109.</ls> <ls n="M. 3,">158.</ls> <ls n="M. 3,">285.</ls> <ls n="M.">11,72.</ls> <ls n="M. 11,">218.</ls> <ls n="M.">12,71.</ls> <ls>BHAG. 3,13. 18,52.</ls> <ls>R. 3,33,24.</ls> <ls n="R. 3,">73,4.</ls> <ls n="R.">5,11,8.</ls> <ls n="R.">6,75,20.</ls> <ls>SUŚR. 2,26,11.</ls> <ls>PAÑCAT. 59,10.</ls> <ls>CĀṆ. 69.</ls> {#BikzASitva#}
+<ls>HIT. I,129.</ls> {#nAnASitva#}
+<ls>MBH. 3,13450.</ls> {#anASitva#}
+<ls n="MBH. 3,">13447.</ls> {#nirASitva#}
+<ls n="MBH. 3,">13994.</ls>
 <LEND>

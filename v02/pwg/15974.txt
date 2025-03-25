@@ -1,28 +1,28 @@
 <L>15974<pc>2-0193<k1>kAMsya<k2>kA/Msya
-{#kA/Msya#}¦ (von {#kaMsa#}) 
-<ls>P. 4, 3, 168</ls> (von {#kaMsIya#}, was wohl {%Messing%} bedeutet). 
-<ls>155</ls> (eine neue Bild. von {#kAMsya#}). 
-<div n="1"> 1) <lex>adj.</lex> {%messingen%}: {#vAraRena sruveRa kAMsyena vA#} 
-<ls>ŚĀṄKH. ŚR. 4, 16, 5. 15.</ls> 
-<ls>KĀTY. ŚR. 2, 3, 5. 22, 10, 31.</ls> {#SuBaM pAtraM tu kAMsyaM syAttenAgniM praRayet#} 
-<ls>GṚHYASAṂGR. 1, 68.</ls> {#na pAdO DAvayetkAMsye kadAcidapi BAjane#} 
-<ls>M. 4, 65.</ls> 
-<ls>R. 4, 50, 33.</ls> {#kAMsyaBAjana#} (kann auch subst. {%Messing%} sein) 
-<ls>SUŚR. 1, 74, 19. 2, 446, 15.</ls> 
-<div n="1">— 2) <lex>n.</lex> 
-<div n="2"> a) {%Messing%} 
-<ls>H. 1049.</ls> 
-<ls>an. 2, 351.</ls> 
-<ls>MED. y. 11.</ls> <ls>M. 5, 114. 11, 167. 12, 62.</ls> <ls>YĀJÑ. 1, 190.</ls> <ls>SUŚR. 1, 228, 2.</ls> 
-<div n="2">— b) {%ein messingenes Trinkgeschirr%} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>ŚĀṄKH. ŚR. 4, 21, 8.</ls> <ls>ŚIKṢĀ 29.</ls> <ls>PĀR. GṚHY. 1, 3. 3, 4.</ls> <ls>SUŚR. 1, 171, 9. 2, 181, 10. 502, 12.</ls> <ls>MBH. 2, 1751.</ls> {#bAlajena nidAnena kAMsyaM Bavatu dohanam#} 
-<ls>MBH. 13, 4587.</ls> {#kAMsyadohA (gOH)#} 
-<ls>3517.</ls> {#kAMsyadohanA#} 
-<ls>2, 1910.</ls> <ls>R. 1, 72, 23.</ls> {#kAMsyopadohA#} 
-<ls>MBH. 3, 12725. 12727.</ls> Vgl. auch 
-<ls>AV. 18, 3, 17.</ls> 
-<div n="2">— c) {%ein best. musik. Instrument%} 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— d) {%ein best. Maass%} (vgl. {#kaMsa#} und die Beispiele unter b) 
+{#kA/Msya#}¦ (von {#kaMsa#})
+<ls>P. 4,3,168</ls> (von {#kaMsIya#}, was wohl {%Messing%} bedeutet).
+<ls n="P. 4,3,">155</ls> (eine neue Bild. von {#kAMsya#}).
+<div n="1"> 1) <lex>adj.</lex> {%messingen%}: {#vAraRena sruveRa kAMsyena vA#}
+<ls>ŚĀṄKH. ŚR. 4,16,5. 15.</ls>
+<ls>KĀTY. ŚR. 2,3,5.</ls> <ls n="KĀTY. ŚR.">22,10,31.</ls> {#SuBaM pAtraM tu kAMsyaM syAttenAgniM praRayet#}
+<ls>GṚHYASAṂGR. 1,68.</ls> {#na pAdO DAvayetkAMsye kadAcidapi BAjane#}
+<ls>M. 4,65.</ls>
+<ls>R. 4,50,33.</ls> {#kAMsyaBAjana#} (kann auch subst. {%Messing%} sein)
+<ls>SUŚR. 1,74,19.</ls> <ls n="SUŚR.">2,446,15.</ls>
+<div n="1">— 2) <lex>n.</lex>
+<div n="2"> a) {%Messing%}
+<ls>H. 1049.</ls>
+<ls>an. 2,351.</ls>
+<ls>MED. y. 11.</ls> <ls>M. 5,114.</ls> <ls n="M.">11,167.</ls> <ls n="M.">12,62.</ls> <ls>YĀJÑ. 1,190.</ls> <ls>SUŚR. 1,228,2.</ls>
+<div n="2">— b) {%ein messingenes Trinkgeschirr%}
+<ls>H. an.</ls> <ls>MED.</ls> <ls>ŚĀṄKH. ŚR. 4,21,8.</ls> <ls>ŚIKṢĀ 29.</ls> <ls>PĀR. GṚHY. 1,3. 3,4.</ls> <ls>SUŚR. 1,171,9. 2,181,10. 502,12.</ls> <ls>MBH. 2,1751.</ls> {#bAlajena nidAnena kAMsyaM Bavatu dohanam#}
+<ls>MBH. 13,4587.</ls> {#kAMsyadohA (gOH)#}
+<ls n="MBH. 13,">3517.</ls> {#kAMsyadohanA#}
+<ls n="MBH.">2,1910.</ls> <ls>R. 1,72,23.</ls> {#kAMsyopadohA#}
+<ls>MBH. 3,12725.</ls> <ls n="MBH. 3,">12727.</ls> Vgl. auch
+<ls>AV. 18,3,17.</ls>
+<div n="2">— c) {%ein best. musik. Instrument%}
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— d) {%ein best. Maass%} (vgl. {#kaMsa#} und die Beispiele unter b)
 <ls>H. an.</ls>
 <LEND>

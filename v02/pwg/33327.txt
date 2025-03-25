@@ -1,64 +1,64 @@
 <L>33327<pc>3-0662<k1>duHKa<k2>duHKa/
-{#duHKa/#}¦ (ein nach {#suKa#} gebildetes, der ältesten Sprache noch abgehendes Wort; nach einer allgemeinen Vorschrift der Grammatiker {#duzKa#} zu schreiben, aber in dieser Form in den Handschriften wohl selten vorkommend) 
-<ls>ŚĀNT. 1, 6.</ls> 
-<div n="1"> 1) <lex>n.</lex> {%Unbehagen, Schmerz, Leiden%} 
-<ls>AK. 1, 2, 2, 3. 3, 6, 3, 23.</ls> 
-<ls>TRIK. 1, 2, 7</ls> (=  {#aGa#}). 
-<ls>H. 1370.</ls> {#duHKaM laBet#} Einschieb. nach 
-<ls>ṚV. 10, 85.</ls> {#duHKamupayanti#} 
-<ls>ŚAT. BR. 14, 7, 2, 15.</ls> 
-<ls>M. 1. 26. 49. 4, 167.</ls> {#manuzyARAM paSUnAM ca duHKAya prahfte sati . yaTA yaTA mahadduHKaM daRqaM kuryAttaTA taTA ..#} 
-<ls>8, 286.</ls> {#samAyukta#} 
-<ls>12. 28.</ls> {#°yoga#} 
-<ls>6, 64.</ls> {#saMprApnuvanti duHKAni tAsu tAsviha yonizu#} 
-<ls>12, 74.</ls> {#SoRitena vinA duHKaM kurvankAzWAdiBirnaraH#} 
-<ls>YĀJÑ. 2, 218.</ls> 
-<ls>MBH. 2, 955.</ls> 
-<ls>N. 10, 11. 12.</ls> {#nigfhyAtmano duHKam#} 
-<ls>22, 23.</ls> <ls>R. 1, 9, 42.</ls> <ls>SUŚR. 2, 149, 10.</ls> <ls>MEGH. 108.</ls> <ls>RAGH. 3, 6.</ls> <ls>HIT. I, 11.</ls> {#cakravatparivartante duHKAni ca suKAni ca#} 164. {#°kara#} 
-<ls>BRĀHMAṆ. 1, 23.</ls> 
-<ls>HIT. Pr. 12.</ls> {#sarvezAmanukUlavedanIyaM suKaM pratikUlavedanIyaM duHKam#} 
-<ls>TARKAS. 53.</ls> {#jarAmaraRAdijaM duHKam#} 
-<ls>KAP. 3, 53.</ls> 
-<ls>SĀṂKHYAK. 55.</ls> {#°traya#} 
-<ls>1.</ls> <ls>TATTVAS.</ls> Einl. {#tena duHKena rodimi#} 
-<ls>VET. 25, 1.</ls> {#pitrostu duHKinorduHKAtpatatyaSrucayo Buvi#} 
-<ls>ŚUK. 40, 14.</ls> {#(putraH) yaH pitfduHKAya vartate#} 
-<ls>42, 7.</ls> {#tanayAviSleza°#} 
-<ls>ŚĀK. 81.</ls> {#anuSaya°#} 
-<ls>134.</ls> {#nErASya°#} 
-<ls>VID. 260.</ls> {#kleSitaH karmaduHKEH#} 
-<ls>ŚṚṄGĀRAT. 12.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#AH samaduHKAmiva kurvatI sTalIm#} 
-<ls>KUMĀRAS. 4, 4.</ls> Personif. ein Kind des <is>Naraka</is> und der <is>Vedanā</is> 
-<ls>VP. 56.</ls> {#duHKena#} {%mit Mühe, schwer%} 
-<ls>SIDDH. K.37,a.</ls> <ls>ŚĀK.41,10.</ls> {#niHsarpe badDasarpe vA Bavane supyate suKam . sadA dfzwaBujaMge tu nidrA duH Kena laByate ..#} 
-<ls>PAÑCAT. III, 263.</ls> <ls>HIT. I, 152.</ls> <ls>VID. 192.</ls> {#duHKaduHKena#} {%mit grosser Mühe%} 
+{#duHKa/#}¦ (ein nach {#suKa#} gebildetes, der ältesten Sprache noch abgehendes Wort; nach einer allgemeinen Vorschrift der Grammatiker {#duzKa#} zu schreiben, aber in dieser Form in den Handschriften wohl selten vorkommend)
+<ls>ŚĀNT. 1,6.</ls>
+<div n="1"> 1) <lex>n.</lex> {%Unbehagen, Schmerz, Leiden%}
+<ls>AK. 1,2,2,3.</ls> <ls n="AK.">3,6,3,23.</ls>
+<ls>TRIK. 1,2,7</ls> (= {#aGa#}).
+<ls>H. 1370.</ls> {#duHKaM laBet#} Einschieb. nach
+<ls>ṚV. 10,85.</ls> {#duHKamupayanti#}
+<ls>ŚAT. BR. 14,7,2,15.</ls>
+<ls>M. 1,26.</ls> <ls n="M. 1,">49.</ls> <ls n="M.">4,167.</ls> {#manuzyARAM paSUnAM ca duHKAya prahfte sati . yaTA yaTA mahadduHKaM daRqaM kuryAttaTA taTA ..#}
+<ls n="M.">8,286.</ls> {#samAyukta#}
+<ls n="M.">12,28.</ls> {#°yoga#}
+<ls n="M.">6,64.</ls> {#saMprApnuvanti duHKAni tAsu tAsviha yonizu#}
+<ls n="M.">12,74.</ls> {#SoRitena vinA duHKaM kurvankAzWAdiBirnaraH#}
+<ls>YĀJÑ. 2,218.</ls>
+<ls>MBH. 2,955.</ls>
+<ls>N. 10,11. 12.</ls> {#nigfhyAtmano duHKam#}
+<ls n="N.">22,23.</ls> <ls>R. 1,9,42.</ls> <ls>SUŚR. 2,149,10.</ls> <ls>MEGH. 108.</ls> <ls>RAGH. 3,6.</ls> <ls>HIT. I,11.</ls> {#cakravatparivartante duHKAni ca suKAni ca#} 164. {#°kara#}
+<ls>BRĀHMAṆ. 1,23.</ls>
+<ls>HIT. Pr. 12.</ls> {#sarvezAmanukUlavedanIyaM suKaM pratikUlavedanIyaM duHKam#}
+<ls>TARKAS. 53.</ls> {#jarAmaraRAdijaM duHKam#}
+<ls>KAP. 3,53.</ls>
+<ls>SĀṂKHYAK. 55.</ls> {#°traya#} 1.
+<ls>TATTVAS.</ls> Einl. {#tena duHKena rodimi#}
+<ls>VET. 25,1.</ls> {#pitrostu duHKinorduHKAtpatatyaSrucayo Buvi#}
+<ls>ŚUK. 40,14.</ls> {#(putraH) yaH pitfduHKAya vartate#}
+<ls n="ŚUK.">42,7.</ls> {#tanayAviSleza°#}
+<ls>ŚĀK. 81.</ls> {#anuSaya°#}
+<ls n="ŚĀK.">134.</ls> {#nErASya°#}
+<ls>VID. 260.</ls> {#kleSitaH karmaduHKEH#}
+<ls>ŚṚṄGĀRAT. 12.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#AH samaduHKAmiva kurvatI sTalIm#}
+<ls>KUMĀRAS. 4,4.</ls> Personif. ein Kind des <is>Naraka</is> und der <is>Vedanā</is>
+<ls>VP. 56.</ls> {#duHKena#} {%mit Mühe, schwer%}
+<ls>SIDDH. K. 37,a.</ls> <ls>ŚĀK. 41,10.</ls> {#niHsarpe badDasarpe vA Bavane supyate suKam . sadA dfzwaBujaMge tu nidrA duH Kena laByate ..#}
+<ls>PAÑCAT. III,263.</ls> <ls>HIT. I,152.</ls> <ls>VID. 192.</ls> {#duHKaduHKena#} {%mit grosser Mühe%}
 <ls>MEGH. 91.</ls> {#duHKAt#} {%mit Mühe, schwer, schwerlich%}: {#caturvargaprAptiH #}
 [Page3-0663]
-{# - duHKAdeva - jAyate#} 
-<ls>SĀH. D. 2, 4.</ls> {#duHKam#} dass.: {#Druvamadya mahArAjo duHKaM svapiti#} 
-<ls>R. 2, 53, 6.</ls> {#duHKaM tvayi nivatsyati#} 
-<ls>N. 14, 15. 16.</ls> {#avyaktA hi gatirduHKaM dehavadBiravApyate#} 
-<ls>BHAG. 12, 5.</ls> {#pUrvAvaDIritaM Sreyo duHKaM hi parivartate#} 
-<ls>ŚĀK. 172.</ls> {#duHKam#} mit einem folg. infin. {%schwer zu%}: {#saMnyAsastu mahAbAho duHKamAptumayogataH#} 
-<ls>BHAG. 5, 6</ls>; vgl. {#duHKamityeva yatkarma kAyakleSaBayAtryajet#} {%als etwas schwer zu Vollbringendes%} 
-<ls>18, 8.</ls> {#duHKa#} am Anf. eines comp. {%mit Mühe, schwer%}: {#°cArin#} 
-<ls>R. 3, 23, 14.</ls> {#°jIvin#} {%mit Mühe sein Leben fristend%} 
-<ls>M. 11, 9.</ls> {#°cCedya#} 
-<ls>KĀM. NĪTIS. 9, 44.</ls> 
-<div n="1">— 2) <lex>adj.</lex> <lex>f.</lex> {#A#} {%unbehaglich, unangenehm, widerwärtig%}: {#susuKA na ca duHKA sA (saBA) na SItA na ca GarmadA#} 
-<ls>HARIV. 12661.</ls> {#supyate parRaSayyAsu tfRaSayyAsu ca - svayaMkftAsu duHKAsu#} 
-<ls>R. GORR. 2, 28, 20.</ls> {#tErvAkyEH paruzErduHKEH kEkeyI BfSaduHKitA#} 
-<ls>R.</ls> <ls>SCHL. 2, 78, 20.</ls> {#siMhAnAM ninadA duHKAH SrotuM duHKamato vanam#} {%unangenehm zu hören%} 
-<ls>28, 7.</ls> 
-<div n="1">— 3) compar. {#duHKatara#} <lex>n.</lex> {%ein grösseres Leid, - Ungemach; ein gar grosses Uebel%}; <lex>adj.</lex> {%unbehaglicher, mit mehr Ungemach verbunden%}: {#kiM nu duHKataraM SakyaM mayA drazwumataH param . yo 'hamadya#} u. s. w. 
-<ls>HIḌ. 1, 35.</ls> 
-<ls>N. 11, 17.</ls> 
-<ls>BHAG. 2, 36.</ls> 
-<ls>DAŚ. 2, 64.</ls> {#duHKAdduHKataraM prApya#} 
-<ls>R. 5, 53, 7.</ls> {#ato duHKataraM vanam#} 
-<ls>R.</ls> <ls>SCHL. 2, 28, 9. fgg.</ls> {#SayyA#} 
-<ls>MBH. 5, 1819.</ls> — Die Bed. {%the world%} bei 
-<ls>WILS.</ls> beruht auf einem Druckfehler im 
+{# — duHKAdeva — jAyate#}
+<ls>SĀH. D. 2,4.</ls> {#duHKam#} dass.: {#Druvamadya mahArAjo duHKaM svapiti#}
+<ls>R. 2,53,6.</ls> {#duHKaM tvayi nivatsyati#}
+<ls>N. 14,15. 16.</ls> {#avyaktA hi gatirduHKaM dehavadBiravApyate#}
+<ls>BHAG. 12,5.</ls> {#pUrvAvaDIritaM Sreyo duHKaM hi parivartate#}
+<ls>ŚĀK. 172.</ls> {#duHKam#} mit einem folg. infin. {%schwer zu%}: {#saMnyAsastu mahAbAho duHKamAptumayogataH#}
+<ls>BHAG. 5,6</ls>; vgl. {#duHKamityeva yatkarma kAyakleSaBayAtryajet#} {%als etwas schwer zu Vollbringendes%}
+<ls n="BHAG.">18,8.</ls> {#duHKa#} am Anf. eines comp. {%mit Mühe, schwer%}: {#°cArin#}
+<ls>R. 3,23,14.</ls> {#°jIvin#} {%mit Mühe sein Leben fristend%}
+<ls>M. 11,9.</ls> {#°cCedya#}
+<ls>KĀM. NĪTIS. 9,44.</ls>
+<div n="1">— 2) <lex>adj.</lex> <lex>f.</lex> {#A#} {%unbehaglich, unangenehm, widerwärtig%}: {#susuKA na ca duHKA sA (saBA) na SItA na ca GarmadA#}
+<ls>HARIV. 12661.</ls> {#supyate parRaSayyAsu tfRaSayyAsu ca — svayaMkftAsu duHKAsu#}
+<ls>R. GORR. 2,28,20.</ls> {#tErvAkyEH paruzErduHKEH kEkeyI BfSaduHKitA#}
+<ls>R. SCHL. 2,78,20.</ls> {#siMhAnAM ninadA duHKAH SrotuM duHKamato vanam#} {%unangenehm zu hören%}
+<ls n="R. SCHL.">28,7.</ls>
+<div n="1">— 3) compar. {#duHKatara#} <lex>n.</lex> {%ein grösseres Leid, — Ungemach; ein gar grosses Uebel%}; <lex>adj.</lex> {%unbehaglicher, mit mehr Ungemach verbunden%}: {#kiM nu duHKataraM SakyaM mayA drazwumataH param . yo 'hamadya#} u. s. w.
+<ls>HIḌ. 1,35.</ls>
+<ls>N. 11,17.</ls>
+<ls>BHAG. 2,36.</ls>
+<ls>DAŚ. 2,64.</ls> {#duHKAdduHKataraM prApya#}
+<ls>R. 5,53,7.</ls> {#ato duHKataraM vanam#}
+<ls>R. SCHL. 2,28,9. fgg.</ls> {#SayyA#}
+<ls>MBH. 5,1819.</ls> — Die Bed. {%the world%} bei
+<ls>WILS.</ls> beruht auf einem Druckfehler im
 <ls>TRIK.</ls>; vgl. {#duHKaloka#} .
 <LEND>

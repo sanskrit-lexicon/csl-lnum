@@ -1,7 +1,7 @@
 <L>43588<pc>4-0583<k1>parvakAla<k2>parvakAla
-{#parvakAla#}¦ ({#parvan + kAla#}) <lex>m.</lex> {%die Zeit des Mondwechsels%} 
-<ls>R. 3, 42, 12. 13.</ls> {#parvakAlezu pitarastiTikAlepu devatAH . puruzaM svayamAyAnti#} 
-<ls>MĀRK. P. 13, 14.</ls> {%die Zeit, da der Mond bei seiner Conjunction oder Opposition durch den Knoten geht%}, 
-<ls>VARĀH. BṚH. S. 5, 2.</ls> {#grastAsIdgraheReva parvakAle divAkaraH#} 
-<ls>MBH. 1, 6771.</ls>
+{#parvakAla#}¦ ({#parvan + kAla#}) <lex>m.</lex> {%die Zeit des Mondwechsels%}
+<ls>R. 3,42,12.</ls> <ls n="R. 3,42,">13</ls> {#parvakAlezu pitarastiTikAlepu devatAH . puruzaM svayamAyAnti#}
+<ls>MĀRK. P. 13,14.</ls> {%die Zeit, da der Mond bei seiner Conjunction oder Opposition durch den Knoten geht%},
+<ls>VARĀH. BṚH. S. 5,2.</ls> {#grastAsIdgraheReva parvakAle divAkaraH#}
+<ls>MBH. 1,6771.</ls>
 <LEND>

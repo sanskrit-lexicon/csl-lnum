@@ -1,4 +1,4 @@
 <L>1707<pc>036-b<k1>baling-vessel<k2>baling-vessel
-<div n="lb"/>BALING-VESSEL¦, {%s.%} {#sekapAtraM, secanaM, sektraM, abBri#} {%n.,%} {#aBriH#} {%f.,%} {#ambusecanI,#}
-<div n="lb"/>{#droRiH#} {%f.,%} {#-RI, avagAdaH, kAzWakuddAlaH, kAzWAmbuvAhinI#} {%f.%}
+BALING-VESSEL¦, {%s.%} {#sekapAtraM, secanaM, sektraM, abBri#} {%n.,%} {#aBriH#} {%f.,%} {#ambusecanI,#}
+{#droRiH#} {%f.,%} {#-RI, avagAdaH, kAzWakuddAlaH, kAzWAmbuvAhinI#} {%f.%}
 <LEND>

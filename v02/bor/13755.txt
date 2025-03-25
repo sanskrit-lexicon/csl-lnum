@@ -1,16 +1,16 @@
 <L>13755<pc>423<k1>long<k2>long
-<div n="lb"/>{@LONG@}¦ (adj.): <div n="1">(1) {#dIrGaH#} ({#rGA, rGaM#}) (in all senses),
-<div n="lb"/><div n="xe">{%l. -eared:%}</div> <div n="xs">{#dIrGakarRa#}</div> (f. {#rRA#}), H.; {%in l. journeys:%}
-<div n="lb"/>{#dIrGe'Dvani,#} Ka.; <div n="xe">{%for a l. time:%}</div> <div n="xs">{#dIrGakAlam,#}</div> K.;
-<div n="lb"/><div n="xe">{%l. sorrow:%}</div> <div n="xs">{#dIrGaSokaH,#}</div> K.; <div n="xe">{%l. sleep:%}</div> <div n="xs">{#dIrGanidrA,#}</div>
-<div n="lb"/>R.; <div n="xe">{%a vowel is short, long or protracted:%}</div> <div n="xs">{#aj-#}
-<div n="lb"/>{#BrasvadIrGaplutaH,#}</div> Pāṇini.; </div><div n="1">(2) {#AyataH#} ({#tA, taM#}) (lit.),
-<div n="lb"/><div n="xe">{%how broad, how l.:%}</div> <div n="xs">{#kiMvistArAH kimAyatAH,#}</div> Mah.
-<div n="lb"/>ii. 6. 16.; <div n="xe">{%thrice l.:%}</div> <div n="xs">{#triguRamAyataH#}</div> ({#tA, taM#}),
-<div n="lb"/>Mat.; </div><div n="1">(3) {#AyAmavat#} (f. {#tI#}) (= 2), <div n="xe">{%l. black%}
-<div n="lb"/>{%hair:%}</div> <div n="xs">{#AyAmavAnnIlo mUrDajakalApaH,#}</div> D. vi.; </div><div n="1">(4)
-<div n="lb"/>{#vistIrRa#} (f. {#rRA#}) (in extent), <div n="xe">{%news about Kusu-%}
-<div n="lb"/>{%mapura is l.:%}</div> <div n="xs">{#vistIrRaH kusumapuravfttAntaH,#}</div> Mu. ii.;</div>
-<div n="lb"/><div n="1">(5) {#ciraH#} ({#rA, raM#}) (of time only), {%l. standing:%}
-<div n="lb"/>{#cirasTitiH,#} D. v.</div>
+{@LONG@}¦ (adj.): <div n="1">(1) {#dIrGaH#} ({#rGA, rGaM#}) (in all senses),
+<div n="xe">{%l. -eared:%}</div> <div n="xs">{#dIrGakarRa#}</div> (f. {#rRA#}), H.; {%in l. journeys:%}
+{#dIrGe'Dvani,#} Ka.; <div n="xe">{%for a l. time:%}</div> <div n="xs">{#dIrGakAlam,#}</div> K.;
+<div n="xe">{%l. sorrow:%}</div> <div n="xs">{#dIrGaSokaH,#}</div> K.; <div n="xe">{%l. sleep:%}</div> <div n="xs">{#dIrGanidrA,#}</div>
+R.; <div n="xe">{%a vowel is short, long or protracted:%}</div> <div n="xs">{#aj-#}
+{#BrasvadIrGaplutaH,#}</div> Pāṇini.; </div><div n="1">(2) {#AyataH#} ({#tA, taM#}) (lit.),
+<div n="xe">{%how broad, how l.:%}</div> <div n="xs">{#kiMvistArAH kimAyatAH,#}</div> Mah.
+ii. 6. 16.; <div n="xe">{%thrice l.:%}</div> <div n="xs">{#triguRamAyataH#}</div> ({#tA, taM#}),
+Mat.; </div><div n="1">(3) {#AyAmavat#} (f. {#tI#}) (= 2), <div n="xe">{%l. black%}
+{%hair:%}</div> <div n="xs">{#AyAmavAnnIlo mUrDajakalApaH,#}</div> D. vi.; </div><div n="1">(4)
+{#vistIrRa#} (f. {#rRA#}) (in extent), <div n="xe">{%news about Kusu-%}
+{%mapura is l.:%}</div> <div n="xs">{#vistIrRaH kusumapuravfttAntaH,#}</div> Mu. ii.;</div>
+<div n="1">(5) {#ciraH#} ({#rA, raM#}) (of time only), {%l. standing:%}
+{#cirasTitiH,#} D. v.</div>
 <LEND>

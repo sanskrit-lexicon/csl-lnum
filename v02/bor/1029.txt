@@ -1,6 +1,6 @@
 <L>1029<pc>036<k1>archdeaconry<k2>archdeaconry
-<div n="lb"/>{@ARCHDEACONRY:@}¦ <div n="I">I The office of an arch-
-<div n="lb"/>-deacon: {#*Arcaqikanapadam.#} </div><div n="I">II His residence:
-<div n="lb"/>{#*ArcaqikanAvAsaH.#} </div><div n="I">III His jurisdiction {#*Arcaqi-#}
-<div n="lb"/>{#kanasyADikAraH.#}</div>
+{@ARCHDEACONRY:@}¦ <div n="I">I The office of an arch-
+-deacon: {#*Arcaqikanapadam.#} </div><div n="I">II His residence:
+{#*ArcaqikanAvAsaH.#} </div><div n="I">III His jurisdiction {#*Arcaqi-#}
+{#kanasyADikAraH.#}</div>
 <LEND>

@@ -1,66 +1,57 @@
 <L>22683<pc>2-0766<k1>gur<k2>gur
-{#gur#}¦, {#gura/te#} (bisweilen auch act. {#gurati#}), Nebenform von 1. {#gar#} . Vom einfachen Verbum nur das partic. praet. pass. {#gUrta#} (ved. 
-<ls>P. 8, 2, 61.</ls> {#gUrRa#} klass. 
-<ls>Sch.</ls>) zu belegen in der Bed. {%gebilligt, willkommen, angenehm. gratus%} (viell. damit verwandt): {#pU\rvIru\zasa^H Sa\rada^Sca gU\rtA vftraM ja^Ga\nvA~ a^sfja\dvi sinDU^n#} 
-<ls>ṚV. 4, 19, 8.</ls> {#sa\hasra^M ta indro\tayo^ naH sa\hasra\mizo^ harivo gU\rtata^mAH#} 
-<ls n="ṚV.">1, 167, 1.</ls> {#gUrtA amftamya#} ved. 
-<ls>P. 8, 2, 61,</ls> 
-<ls>Sch.</ls> Vgl. {#gUrtamanas#} fgg., {#arigUrta, puru°, rADo°, viSva°, sva°#}.{# - gur, gura/te#} {%aufheben%} (vgl. u. {#ud#}) 
-<ls>DHĀTUP. 28, 103.</ls> {#gur#} und {#gUr#}.{# gora/yate#} und {#gUra/yate#} dass. 
-(v. l. {%essen%}) 
-<ls>33. 21.</ls> {#gUr, gU/ryate#} {%verletzen; gehen%} 
-<ls>26, 45.</ls>
-
-<div n="p">— {#ati#} {%aufjauchzen, aufschreien (?)%}: {#mf\go nASno\M ati\ yajju^gu\ryAt#} 
-<ls>ṚV. 1, 173, 2.</ls>
-
-<div n="p">— {#apa#} {%zurückweisen, Missbilligung aussprechen, bedrohen, schmähen%}: {#(tam) u\ccErindro^ apa\gUryA^ jaGAna#} 
-<ls>ṚV. 5, 32, 6.</ls> {#namo^ 'pagu\ramA^RAya cABiGna\te ca#} 
-<ls>TS. 4, 5, 9, 2.</ls> {#yo^ 'pagu\rAtE^ Sa\tena^ yAtayAt tasmA^dbrAhma\RAya\ nApa^gureta\ na niha^nyAt#} 
-<ls>2, 6, 10, 2.</ls> {#acCa^mbawkAramapa\gUrya\ vaza^wkaroti\ stftyE^#} 
-<ls>2, 5.</ls> {#apagUryASrAvayetpratyASrAvayecca cCindanniva vazawkuryAt#} 
-<ls>ĀŚV. ŚR. 9, 7.</ls> {#apagoram = apagAram#} 
-<ls>P. 6, 1, 53</ls>; vgl. {#apagara#} . — intens.: {#jiga^rti\mindro^ apa\jargu^rARa\H prati^ Sva\santa\mava^ dAna\vaM ha^n#} 
-<ls>ṚV. 5, 29, 4.</ls>
-
+{#gur#}¦, {#gura/te#} (bisweilen auch act. {#gurati#}), Nebenform von 1. {#gar#} . Vom einfachen Verbum nur das partic. praet. pass. {#gUrta#} (ved.
+<ls>P. 8,2,61.</ls> {#gUrRa#} klass.
+<ls>Sch.</ls>) zu belegen in der Bed. {%gebilligt, willkommen, angenehm. gratus%} (viell. damit verwandt): {#pU\rvIru\zasa^H Sa\rada^Sca gU\rtA vftraM ja^Ga\nvA~ a^sfja\dvi sinDU^n#}
+<ls>ṚV. 4,19,8.</ls> {#sa\hasra^M ta indro\tayo^ naH sa\hasra\mizo^ harivo gU\rtata^mAH#}
+<ls n="ṚV.">1,167,1.</ls> {#gUrtA amftamya#} ved.
+<ls>P. 8,2,61</ls>, <ls>Sch.</ls>
+Vgl. {#gUrtamanas#} fgg., {#arigUrta, puru°, rADo°, viSva°, sva°#}.{# — gur, gura/te#} {%aufheben%} (vgl. u. {#ud#})
+<ls>DHĀTUP. 28,103.</ls> {#gur#} und {#gUr#}.{# gora/yate#} und {#gUra/yate#} dass.
+(v. l. {%essen%})
+<ls n="DHĀTUP.">33,21.</ls> {#gUr, gU/ryate#} {%verletzen; gehen%}
+<ls n="DHĀTUP.">26,45.</ls>
+<div n="p">— {#ati#} {%aufjauchzen, aufschreien (?)%}: {#mf\go nASno\M ati\ yajju^gu\ryAt#}
+<ls>ṚV. 1,173,2.</ls>
+<div n="p">— {#apa#} {%zurückweisen, Missbilligung aussprechen, bedrohen, schmähen%}: {#(tam) u\ccErindro^ apa\gUryA^ jaGAna#}
+<ls>ṚV. 5,32,6.</ls> {#namo^ 'pagu\ramA^RAya cABiGna\te ca#}
+<ls>TS. 4,5,9,2.</ls> {#yo^ 'pagu\rAtE^ Sa\tena^ yAtayAt tasmA^dbrAhma\RAya\ nApa^gureta\ na niha^nyAt#}
+<ls n="TS.">2,6,10,2.</ls> {#acCa^mbawkAramapa\gUrya\ vaza^wkaroti\ stftyE^#}
+<ls n="TS.">2,5.</ls> {#apagUryASrAvayetpratyASrAvayecca cCindanniva vazawkuryAt#}
+<ls>ĀŚV. ŚR. 9,7.</ls> {#apagoram = apagAram#}
+<ls>P. 6,1,53</ls>; vgl. {#apagara#} . — intens.: {#jiga^rti\mindro^ apa\jargu^rARa\H prati^ Sva\santa\mava^ dAna\vaM ha^n#}
+<ls>ṚV. 5,29,4.</ls>
 <div n="p">— {#aBi#} {%zustimmen, billigen, Beifall bezeigen%}: {#a\Bi no^ agna u\kTamijju^guryAH#}
 [Page2-0767]
-
-<ls>ṚV. 1, 140, 13.</ls> {#A\yUyA^ DfzRo aBi\gUryA\ tvam (piba)#} 
-<ls n="ṚV.">2, 37, 3.</ls> {#Srava\tsAma^ gI\yamA^nam a\Bi rADa^sA jugurat#} 
-<ls n="ṚV.">8, 70, 5.</ls> {#i\zwaM vI\taM a\BigU^rta\M vaza^wkfta\M taM de\vAsa\H prati^ gfBRa\ntyaSva^m#} {%von beifälligem Zuruf begleitet%} 
-<ls n="ṚV.">1, 162, 15.</ls> {#sva\yama^BigUrta#} 
-<ls>TS. 3, 2, 8, 1.</ls> 
+<ls>ṚV. 1,140,13.</ls> {#A\yUyA^ DfzRo aBi\gUryA\ tvam (piba)#}
+<ls n="ṚV.">2,37,3.</ls> {#Srava\tsAma^ gI\yamA^nam a\Bi rADa^sA jugurat#}
+<ls n="ṚV.">8,70,5.</ls> {#i\zwaM vI\taM a\BigU^rta\M vaza^wkfta\M taM de\vAsa\H prati^ gfBRa\ntyaSva^m#} {%von beifälligem Zuruf begleitet%}
+<ls n="ṚV.">1,162,15.</ls> {#sva\yama^BigUrta#}
+<ls>TS. 3,2,8,1.</ls>
 <div n="v">— Vgl. {#aBigUrti#} .
-
-<div n="p">— {#ava#} {%mit Drohungen auf Jmd%} (loc. dat.) {%losfahren%}: {#na kadAciddvije tasmAdvidvAnavaguredapi . na tAqayettfRenApi#} 
-<ls>M. 4, 169.</ls> {#brAhmaRAyAvaguryEva#} (sic) {#dvijAtirvaDakAmyayA#} 
-<ls>165.</ls> {#avagUrya tvabdaSataM sahasramaBihatya ca . jiGAMsayA brAhmaRasya narakaM pratipadyate ..#} 
-<ls>11, 206. 208.</ls> {#avagUrRa#} 
-<ls>P. 8, 2, 77,</ls> 
-<ls>Sch.</ls> 
+<div n="p">— {#ava#} {%mit Drohungen auf Jmd%} (loc. dat.) {%losfahren%}: {#na kadAciddvije tasmAdvidvAnavaguredapi . na tAqayettfRenApi#}
+<ls>M. 4,169.</ls> {#brAhmaRAyAvaguryEva#} (sic) {#dvijAtirvaDakAmyayA#}
+<ls n="M. 4,">165.</ls> {#avagUrya tvabdaSataM sahasramaBihatya ca . jiGAMsayA brAhmaRasya narakaM pratipadyate ..#}
+<ls n="M.">11,206.</ls> <ls n="M. 11,">208.</ls> {#avagUrRa#}
+<ls>P. 8,2,77</ls>, <ls>Sch.</ls>
 <div n="v">— Vgl. {#avagoraRa#} .
-
-<div n="p">— {#A#} {%Beifall bezeigen, billigen; zusagen, einwilligen%}: {#dEvI\M vAca^M dunduBa\ A gu^rasva#} 
-<ls>AV. 5, 20, 4.</ls> {#(puroLASam) ju\zamve\ndrA gu^rasva ca#} 
-<ls>ṚV. 3, 52, 2.</ls> {#sarvA^Byo\ vA e\za de\vatA^Bya\H sarve^ByaH pf\zWeBya^ A\tmAna\mAgu^rate\ yaH sa\trAyA^gu\rate^#} 
-<ls>TBR. 1, 4, 7, 7.</ls> {#AgUrya#} 
-<ls>ŚĀṄKH. ŚR. 13, 3, 3.</ls> 
-<ls>KĀTY. ŚR. 25, 11, 1. 2.</ls> {%die%} {#Agur#} {%aussprechen%} 
-<ls>AIT. BR. 2, 28.</ls> 
+<div n="p">— {#A#} {%Beifall bezeigen, billigen; zusagen, einwilligen%}: {#dEvI\M vAca^M dunduBa\ A gu^rasva#}
+<ls>AV. 5,20,4.</ls> {#(puroLASam) ju\zamve\ndrA gu^rasva ca#}
+<ls>ṚV. 3,52,2.</ls> {#sarvA^Byo\ vA e\za de\vatA^Bya\H sarve^ByaH pf\zWeBya^ A\tmAna\mAgu^rate\ yaH sa\trAyA^gu\rate^#}
+<ls>TBR. 1,4,7,7.</ls> {#AgUrya#}
+<ls>ŚĀṄKH. ŚR. 13,3,3.</ls>
+<ls>KĀTY. ŚR. 25,11,1. 2.</ls> {%die%} {#Agur#} {%aussprechen%}
+<ls>AIT. BR. 2,28.</ls>
 <div n="v">— Vgl. {#Agur, AguraRa, AgUrRa, AgUrta#} .
-
-<div n="p">— {#ud#} {%drohend die Stimme u.s.w. erheben%}: {#nama^ udgu\ramA^RAya#} 
-(<ls>TS.</ls>: {#apaguramARAya) cABiGna\te ca^#} 
-<ls>VS. 16, 46.</ls> {#udgUrRe praTamo daRqaH saMsparSe tu tadarDikaH#} 
-<ls>YĀJÑ. 2, 215.</ls> {#udgUrRe hastapAde tu daSaviMSatikO damO . parasparaM tu sarvezAM Sastre maDyamasAhasam ..#} 
-<ls>216.</ls> {#udgUrRalaguqena cOrAdgoyugaM rarakza#} 
-<ls>PAÑCAT. 183, 9.</ls> {#udagurizata drumAn#} 
-<ls>BHAṬṬ. 15, 34.</ls> {#ujjugUre tataH SOlam#} 
-<ls>14, 51.</ls> {#udgUrRavARa#} 
-<ls>8, 89.</ls> {#udgUrRa#} {%aufgehoben%} 
-<ls>AK. 3, 2, 39.</ls>
-
-<div n="p">— {#pra#} {%laut ausrufen%}: {#pra ma^nda\yu\rma\nAM gU^rta\ hotA\ Bara^te\ maryo^ miTu\nA yaja^traH#} 
-<ls>ṚV. 1, 173, 2.</ls>
+<div n="p">— {#ud#} {%drohend die Stimme u.s.w. erheben%}: {#nama^ udgu\ramA^RAya#}
+(<ls>TS.</ls>: {#apaguramARAya) cABiGna\te ca^#}
+<ls>VS. 16,46.</ls> {#udgUrRe praTamo daRqaH saMsparSe tu tadarDikaH#}
+<ls>YĀJÑ. 2,215.</ls> {#udgUrRe hastapAde tu daSaviMSatikO damO . parasparaM tu sarvezAM Sastre maDyamasAhasam ..#}
+<ls n="YĀJÑ.">216.</ls> {#udgUrRalaguqena cOrAdgoyugaM rarakza#}
+<ls>PAÑCAT. 183,9.</ls> {#udagurizata drumAn#}
+<ls>BHAṬṬ. 15,34.</ls> {#ujjugUre tataH SOlam#}
+<ls n="BHAṬṬ.">14,51.</ls> {#udgUrRavARa#}
+<ls n="BHAṬṬ.">8,89.</ls> {#udgUrRa#} {%aufgehoben%}
+<ls>AK. 3,2,39.</ls>
+<div n="p">— {#pra#} {%laut ausrufen%}: {#pra ma^nda\yu\rma\nAM gU^rta\ hotA\ Bara^te\ maryo^ miTu\nA yaja^traH#}
+<ls>ṚV. 1,173,2.</ls>
 <LEND>

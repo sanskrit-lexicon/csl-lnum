@@ -1,15 +1,14 @@
 <L>27942<pc>3-0157<k1>jyut<k2>jyut
-{#jyut#}¦ (aus {#dyut#}), {#jyo/tate#} {%leuchten%} 
-<ls>NAIGH. 1, 16.</ls> 
-<ls>DHĀTUP. 2, 31</ls>, v.l. {#na tatra sUryaH somo vA jyotate#} (v. l. {#dyotate#}) {#na ca pAvakaH#} 
-<ls>INDR. 1, 32.</ls> {#svayEva praBayA tatra jyotante#} (v. l. {#dyo°#}) 
-<ls>33.</ls> {#jyo/tati#} 
-<ls>DHĀTUP. 3, 4</ls>, v.l. — caus. {%beleuchten, erleuchten%}: {#jyo\tayE^naM maha\te sOBa^gAya#} 
-<ls>AV. 7, 16, 1</ls> <ls>?(anders VS. 27, 8).</ls> {#Aruroha raTaM divyaM jyotayanniva#} (v. l. {#dyo°) BAskaraH#} 
-<ls>INDR. 1, 30.</ls>
-
-<div n="p">— {#ava#} caus. {%beleuchten%} (mittelst eines Lichtes, einer Fackel u. s. w.) 
-<ls>ŚAT. BR. 2, 3, 1, 16.</ls> {#avajyotya rAtrAvaSnIyAt#} {%bei Licht%} 
-<ls>14, 1, 1, 33. 12, 4, 2, 8.</ls> {#tfRena#} 
-<ls>11, 6, 1, 10.</ls> <ls>KĀTY. ŚR. 4, 14, 5.</ls> <ls>ŚĀṄKH. ŚR. 2, 8, 9. 11.</ls>
+{#jyut#}¦ (aus {#dyut#}), {#jyo/tate#} {%leuchten%}
+<ls>NAIGH. 1,16.</ls>
+<ls>DHĀTUP. 2,31</ls>, v.l. {#na tatra sUryaH somo vA jyotate#} (v. l. {#dyotate#}) {#na ca pAvakaH#}
+<ls>INDR. 1,32.</ls> {#svayEva praBayA tatra jyotante#} (v. l. {#dyo°#})
+<ls n="INDR. 1,">33.</ls> {#jyo/tati#}
+<ls>DHĀTUP. 3,4</ls>, v.l. — caus. {%beleuchten, erleuchten%}: {#jyo\tayE^naM maha\te sOBa^gAya#}
+<ls>AV. 7,16,1</ls> (anders <ls>VS. 27,8</ls>). {#Aruroha raTaM divyaM jyotayanniva#} (v. l. {#dyo°) BAskaraH#}
+<ls>INDR. 1,30.</ls>
+<div n="p">— {#ava#} caus. {%beleuchten%} (mittelst eines Lichtes, einer Fackel u. s. w.)
+<ls>ŚAT. BR. 2,3,1,16.</ls> {#avajyotya rAtrAvaSnIyAt#} {%bei Licht%}
+<ls n="ŚAT. BR.">14,1,1,33. 12,4,2,8.</ls> {#tfRena#}
+<ls n="ŚAT. BR.">11,6,1,10.</ls> <ls>KĀTY. ŚR. 4,14,5.</ls> <ls>ŚĀṄKH. ŚR. 2,8,9. 11.</ls>
 <LEND>

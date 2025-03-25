@@ -1,440 +1,408 @@
 <L>15590<pc>2-0142<k1>karz<k2>karz<h>1
-1. {#karz#}¦, {#ka/rzati#} 
-<ls>DHĀTUP. 23, 21</ls>; {#cakarza, cakarziTa#} 
-<ls>P. 7, 2, 62,</ls> 
-<ls>Sch.</ls>; {#karkzyati#} und {#krakzyati; karzwA#} und {#krazwA#} (
-<ls>P. 6, 1, 59. <is>Kār</is>. 5</ls> <ls>?aus der SIDDH. K. zu P. 7, 2, 10</ls>); {#akfkzat, akArkzIt#} und {#akrAkzIt#} 
-<ls>P.3,1,44, <is>Vārtt</is>.</ls> <ls>SIDDH. K. 130,a,8.</ls> <ls>VOP.8,77. 78</ls>; hier und da auch med.; {#krazwum#}; partic. pass. {#kfzwa#} . 
-<div n="1"> 1) {%ziehen, anziehen, schleppen, hinundherziehen, zerren, zausen, mit sich fortziehen%}: {#dfti\M su ka^rza\ vizi^ta\M nya^Ycam#} 
-<ls>ṚV. 5, 83, 7.</ls> {#go\DA tasmA^ aya\TaM ka^rzade\tat#} 
-<ls n="ṚV.">10, 28, 10.</ls> {#dakziRAkarzat#} 
-<ls>ŚAT. BR. 7, 4, 1, 39.</ls> {#udIcaH kfzyamARasya#} 
-<ls>3, 8, 2, 17.</ls> {#karze^dena\M na cE^na\M karze^t#} ({%züchtigen%}) 
-<ls>AV. 15, 13, 7.</ls> — {#grAmamajAM karzati#} {%er zieht die Ziege in's Dorf%} 
-<ls>SIDDH. K.</ls> zu <ls>P.1,4,51.</ls> {#nigfhya taM balAdBImo visPurantaM cakarza ha . tasmAddeSAdDanUMzyazwO siMhaH kzudramfgaM yaTA ..#} 
-<ls>MBH. 1, 6001.</ls> {#BrAtFnprati cakarzATa so 'strapAtAdacetasam#} 
-<ls>6468.</ls> {#kaTam - saBAM kfzyeta mAdfSI#} 
-<ls>3, 521.</ls> <ls>DRAUP. 5, 25. 9, 12.</ls> <ls>ŚĀK. 173.</ls> {#SunaH karzatu vfttyarTe yaste harati puzkaram#} 
-<ls>13, 4580</ls> ({#parikarzatu#} 
-<ls>4515</ls>). {#AkarRakfzwam - vARam#} 
-<ls>RAGH. 9, 57.</ls> {#(Saram) balavatkfzya#} 
-<ls>MBH.</ls> in <ls>BENF. Chr. 40, 10.</ls> {#tURArDakfzwaM Saram#} 
-<ls>ŚĀK. 131.</ls> {#nATavatImanATavaccakarzA vAyuH kadalImivArtAm#} 
-<ls>MBH. 2, 2227.1, 6001. 3, 10494.</ls> 
-<ls>R. 3, 57, 26.</ls>
+1. {#karz#}¦, {#ka/rzati#}
+<ls>DHĀTUP. 23,21</ls>; {#cakarza, cakarziTa#}
+<ls>P. 7,2,62</ls>, <ls>Sch.</ls>;
+{#karkzyati#} und {#krakzyati; karzwA#} und {#krazwA#} (
+<ls>P. 6,1,59.</ls> <is>Kār.</is> 5 aus der <ls>SIDDH. K.</ls> zu <ls>P. 7,2,10</ls>); {#akfkzat, akArkzIt#} und {#akrAkzIt#}
+<ls>P. 3,1,44</ls>, <is>Vārtt</is>. <ls>SIDDH. K. 130,a,8.</ls> <ls>VOP. 8,77.</ls> <ls n="VOP. 8,">78</ls>; hier und da auch med.; {#krazwum#}; partic. pass. {#kfzwa#} .
+<div n="1"> 1) {%ziehen, anziehen, schleppen, hinundherziehen, zerren, zausen, mit sich fortziehen%}: {#dfti\M su ka^rza\ vizi^ta\M nya^Ycam#}
+<ls>ṚV. 5,83,7.</ls> {#go\DA tasmA^ aya\TaM ka^rzade\tat#}
+<ls n="ṚV.">10,28,10.</ls> {#dakziRAkarzat#}
+<ls>ŚAT. BR. 7,4,1,39.</ls> {#udIcaH kfzyamARasya#}
+<ls n="ŚAT. BR.">3,8,2,17.</ls> {#karze^dena\M na cE^na\M karze^t#} ({%züchtigen%})
+<ls>AV. 15,13,7.</ls> — {#grAmamajAM karzati#} {%er zieht die Ziege in's Dorf%}
+<ls>SIDDH. K.</ls> zu <ls>P. 1,4,51.</ls> {#nigfhya taM balAdBImo visPurantaM cakarza ha . tasmAddeSAdDanUMzyazwO siMhaH kzudramfgaM yaTA ..#}
+<ls>MBH. 1,6001.</ls> {#BrAtFnprati cakarzATa so 'strapAtAdacetasam#}
+<ls n="MBH. 1,">6468.</ls> {#kaTam — saBAM kfzyeta mAdfSI#}
+<ls n="MBH.">3,521.</ls> <ls>DRAUP. 5,25. 9,12.</ls> <ls>ŚĀK. 173.</ls> {#SunaH karzatu vfttyarTe yaste harati puzkaram#}
+<ls n="ŚĀK.">13,4580</ls> ({#parikarzatu#}
+<ls n="ŚĀK.">4515</ls>). {#AkarRakfzwam — vARam#}
+<ls>RAGH. 9,57.</ls> {#(Saram) balavatkfzya#}
+<ls>MBH.</ls> in <ls>BENF. Chr. 40,10.</ls> {#tURArDakfzwaM Saram#}
+<ls>ŚĀK. 131.</ls> {#nATavatImanATavaccakarzA vAyuH kadalImivArtAm#}
+<ls>MBH. 2,2227.</ls> <ls n="MBH.">1,6001.</ls> <ls n="MBH.">3,10494.</ls>
+<ls>R. 3,57,26.</ls>
 [Page2-0143]
-{#prasahya siMhaH kila tAM cakarza#} 
-<ls>RAGH. 2, 27.</ls> {#adya gAtrARi te kaNkAH SyenA gomAyavastaTA . karzantu Buvi#} 
-<ls>MBH. 1, 5992.</ls> 
-<ls>R. 5, 36, 35.</ls> {%mit sich fortziehen%}: {#mArutasyAlayaM SrImAnkapirvyomacaro mahAn . saMprayAtyeva gaganaM karzanniva diSo daSa ..#} 
-<ls>55, 13.</ls> {#kapinA kfzyamARAni mahABrARi#} 
-<ls>15.</ls> trop.: {#mamEvAMSo jIvaloke jIvaBUtaH sanAtanaH . manaHzazWAnIndriyARi prakftisTAni karzati ..#} 
-<ls>BHAG. 15, 7.</ls> {#rasAnusAriRI jihvA karzatyeva rasAnprati#} 
-<ls>MBH. 3, 15428.</ls> {#dyUte dozAMSca jAnansa putrasnehAdakfzyata#} 
-<ls>2, 1776.</ls> {#tvadIyavadanAmbujakfzwacetas#} 
-<ls>DHŪRTAS. 85, 2.</ls> {#akrAkzIt#} 
-<ls>BHAṬṬ. 15, 47. 122.</ls> med.: {#sa kfzyamARo BImena karzamARaSca pARqavam#} 
-<ls>MBH. 1, 6289.</ls> {#karzamARo varUTinIm#} {%ein Heer mit sich führend%} 
-<ls>MBH.</ls> in <ls>BENF. Chr. 54, 14.</ls> 
-<div n="1">— 2) {%spannen%} (den Bogen): {#nAtyAyatakfzwaSArNgaH#} 
-<ls>RAGH. 5, 50.</ls> 
-<div n="1">— 3) {%an sich ziehen, in seine Gewalt bekommen, überwältigen%}: {#nakraH svasTAnamAsAdya gajendramapi karziti#} 
-<ls>PAÑCAT. III, 43</ls> (vgl. 
-<ls>HIT. IV, 45</ls>). {#epa tvAM rAmarUpeRa kAlaH karzati#} 
-<ls>R. 4, 24, 35.</ls> {#balavAnindriyagrAmo vidvAMsamapi karzati#} 
-<ls>M. 2, 215.</ls> {#tvamApadA kfzwaH kiM karipyasi#} 
-<ls>MBH. 4, 20.</ls> 
-<div n="1">— 4) {%an sich ziehen, erlangen%}: {#kulasaMKyAM ca gacCanti karpanti ca mahadyaSaH#} 
-<ls>MBH. 3, 66.</ls> 
-<div n="1">— 5) {%entziehen%}, mit doppeltem acc.: {#akarzatpUtanAM balam#} 
-<ls>VOP. 5, 8.</ls> 
-<div n="1">— 6) {%Furchen ziehen, befurchen, pflügen, einpflügen%} (vgl. 
-<ls>2.</ls> {#karz): skyena karpanniyAt#} 
-<ls>LĀṬY. 5, 1.</ls> {#yava\M vfke^Ra karpaTaH#} 
-<ls>ṚV. 8, 22, 6.</ls> {#tasya lANgalahastasya karpato yajYamaRqalam#} 
-<ls>R. 3, 4, 12.</ls> {#anulomakfzwaM kzetraM pratilomaM karpati#} 
-<ls>P. 5, 4, 58,</ls> 
-<ls>Sch.</ls> — caus. {#karzayati#} 
-<div n="1"> 1) {%ziehen%}: {#di\vi me^ a\nyaH pa\kzo\3^\ Do a\nyama^cIkfzam#} 
-<ls>ṚV. 10, 119, 11.</ls> {#DarmakarpitaH . tasya Sastrasya saMsargAjjagAma nirayaM muniH#} 
-<ls>R. 3, 13, 20.</ls> {#keSepu karzitA#} 
-<ls>MṚCCH. 16, 25.</ls> {%ausziehen, ausreissen%}: {#PalamUlAni karzayan#} 
-<ls>MBH. 3, 2307.</ls> 
-<div n="1">— 2) {%hin und her zerren, mitnehmen, peinigen%}: {#karzayAmaSca mitrARi nandayAmaH SAtravAn#} 
-<ls>MBH. 3, 1272. 1, 8367.</ls> {#putradArESca karzitAn#} 
-<ls>13, 3014.</ls> {#mohAdrAjA svarAzwraM yaH karzayatyanavekzayA#} 
-<ls>M. 7, 111.</ls> {#AtmAnaM niyamEstEstEH karzayitvA#} 
-<ls>R. 3, 13, 29. 2, 24, 7.</ls> {#aDvanA karzitAnAm#} 
-<ls>MBH. 13, 5687.</ls> {#Sramakarzita#} 
-<ls>HIḌ. 4, 42.</ls> 
-<ls>N. 11, 12.</ls> {#duHKena karzitA#} 
-<ls>7, 13. 9, 25.</ls> {#avfttikarzita#} 
-<ls>M. 9, 74. 10, 111.</ls> = {#vfttikarzita#} 
-<ls>2, 24. 8, 411.</ls> {#kzutSramaSokakarzita#} 
-<ls>R. 3, 65, 18.</ls> {#Soka°#} 
-<ls>62, 1.</ls> <ls>SĀV. 6, 9.</ls> {#rAgadvezamamatvakarpitaDiyaH#} 
-<ls>DHŪRTAS. 85, 11.</ls> {#aNgavErUpya°#} 
-<ls>R. 5, 49, 4.</ls> Vgl. u. {#karS#} im caus.
-
-<div n="p">— {#ati#} {%über Etwas hinziehen%}: {#PAlamatikarzati#} 
+{#prasahya siMhaH kila tAM cakarza#}
+<ls>RAGH. 2,27.</ls> {#adya gAtrARi te kaNkAH SyenA gomAyavastaTA . karzantu Buvi#}
+<ls>MBH. 1,5992.</ls>
+<ls>R. 5,36,35.</ls> {%mit sich fortziehen%}: {#mArutasyAlayaM SrImAnkapirvyomacaro mahAn . saMprayAtyeva gaganaM karzanniva diSo daSa ..#}
+<ls n="R. 5,">55,13.</ls> {#kapinA kfzyamARAni mahABrARi#}
+<ls n="R. 5,36,">15.</ls> trop.: {#mamEvAMSo jIvaloke jIvaBUtaH sanAtanaH . manaHzazWAnIndriyARi prakftisTAni karzati ..#}
+<ls>BHAG. 15,7.</ls> {#rasAnusAriRI jihvA karzatyeva rasAnprati#}
+<ls>MBH. 3,15428.</ls> {#dyUte dozAMSca jAnansa putrasnehAdakfzyata#}
+<ls n="MBH.">2,1776.</ls> {#tvadIyavadanAmbujakfzwacetas#}
+<ls>DHŪRTAS. 85,2.</ls> {#akrAkzIt#}
+<ls>BHAṬṬ. 15,47. 122.</ls> med.: {#sa kfzyamARo BImena karzamARaSca pARqavam#}
+<ls>MBH. 1,6289.</ls> {#karzamARo varUTinIm#} {%ein Heer mit sich führend%}
+<ls>MBH.</ls> in <ls>BENF. Chr. 54,14.</ls>
+<div n="1">— 2) {%spannen%} (den Bogen): {#nAtyAyatakfzwaSArNgaH#}
+<ls>RAGH. 5,50.</ls>
+<div n="1">— 3) {%an sich ziehen, in seine Gewalt bekommen, überwältigen%}: {#nakraH svasTAnamAsAdya gajendramapi karzati#}
+<ls>PAÑCAT. III,43</ls> (vgl.
+<ls>HIT. IV,45</ls>). {#epa tvAM rAmarUpeRa kAlaH karzati#}
+<ls>R. 4,24,35.</ls> {#balavAnindriyagrAmo vidvAMsamapi karzati#}
+<ls>M. 2,215.</ls> {#tvamApadA kfzwaH kiM karipyasi#}
+<ls>MBH. 4,20.</ls>
+<div n="1">— 4) {%an sich ziehen, erlangen%}: {#kulasaMKyAM ca gacCanti karpanti ca mahadyaSaH#}
+<ls>MBH. 3,66.</ls>
+<div n="1">— 5) {%entziehen%}, mit doppeltem acc.: {#akarzatpUtanAM balam#}
+<ls>VOP. 5,8.</ls>
+<div n="1">— 6) {%Furchen ziehen, befurchen, pflügen, einpflügen%}
+(vgl. 2. {#karz#}): {#skyena karpanniyAt#}
+<ls>LĀṬY. 5,1.</ls> {#yava\M vfke^Ra karpaTaH#}
+<ls>ṚV. 8,22,6.</ls> {#tasya lANgalahastasya karpato yajYamaRqalam#}
+<ls>R. 3,4,12.</ls> {#anulomakfzwaM kzetraM pratilomaM karpati#}
+<ls>P. 5,4,58</ls>, <ls>Sch.</ls>
+— caus. {#karzayati#}
+<div n="1"> 1) {%ziehen%}: {#di\vi me^ a\nyaH pa\kzo\3^\ Do a\nyama^cIkfzam#}
+<ls>ṚV. 10,119,11.</ls> {#DarmakarpitaH . tasya Sastrasya saMsargAjjagAma nirayaM muniH#}
+<ls>R. 3,13,20.</ls> {#keSepu karzitA#}
+<ls>MṚCCH. 16,25.</ls> {%ausziehen, ausreissen%}: {#PalamUlAni karzayan#}
+<ls>MBH. 3,2307.</ls>
+<div n="1">— 2) {%hin und her zerren, mitnehmen, peinigen%}: {#karzayAmaSca mitrARi nandayAmaH SAtravAn#}
+<ls>MBH. 3,1272.</ls> <ls n="MBH.">1,8367.</ls> {#putradArESca karzitAn#}
+<ls n="MBH.">13,3014.</ls> {#mohAdrAjA svarAzwraM yaH karzayatyanavekzayA#}
+<ls>M. 7,111.</ls> {#AtmAnaM niyamEstEstEH karzayitvA#}
+<ls>R. 3,13,29.</ls> <ls n="R.">2,24,7.</ls> {#aDvanA karzitAnAm#}
+<ls>MBH. 13,5687.</ls> {#Sramakarzita#}
+<ls>HIḌ. 4,42.</ls>
+<ls>N. 11,12.</ls> {#duHKena karzitA#}
+<ls n="N.">7,13. 9,25.</ls> {#avfttikarzita#}
+<ls>M. 9,74.</ls> <ls n="M.">10,111.</ls> = {#vfttikarzita#}
+<ls n="M.">2,24.</ls> <ls n="M.">8,411.</ls> {#kzutSramaSokakarzita#}
+<ls>R. 3,65,18.</ls> {#Soka°#}
+<ls n="R. 3,">62,1.</ls> <ls>SĀV. 6,9.</ls> {#rAgadvezamamatvakarpitaDiyaH#}
+<ls>DHŪRTAS. 85,11.</ls> {#aNgavErUpya°#}
+<ls>R. 5,49,4.</ls> Vgl. u. {#karS#} im caus.
+<div n="p">— {#ati#} {%über Etwas hinziehen%}: {#PAlamatikarzati#}
 <ls>KAUŚ. 20.</ls>
-
-<div n="p">— {#anu#} {%hinter sich her ziehen%}: {#tadAsya SavalAM rAjA viSvAmitro 'nvakarzata#} 
-<ls>R. 1, 54, 1.</ls> {#anyaTA cakAreRa tftIyAnukfpyeta#} (vgl. u. {#anukfzwa#}) 
-<ls>Sch.</ls> zu <ls>P. 2, 3, 72.</ls> {%anziehen%}: {#dantacCadaM priyatamena nipItasAraM dantAgraBinnamanukfzya#} (v. l. für {#apakfzya) nirIkzate ca#} (im Spiegel) 
-<ls>ṚT. 4, 13.</ls> — caus. {%hinter sich her ziehen, in Anspruch nehmen%}: {#yajamAnAMstu tAndfzwvA sarvAndIkzAnukarzitAn#} 
-<ls>MBH. 13, 7281.</ls> 
+<div n="p">— {#anu#} {%hinter sich her ziehen%}: {#tadAsya SavalAM rAjA viSvAmitro 'nvakarzata#}
+<ls>R. 1,54,1.</ls> {#anyaTA cakAreRa tftIyAnukfpyeta#} (vgl. u. {#anukfzwa#})
+<ls>Sch.</ls> zu <ls>P. 2,3,72.</ls> {%anziehen%}: {#dantacCadaM priyatamena nipItasAraM dantAgraBinnamanukfzya#} (v. l. für {#apakfzya) nirIkzate ca#} (im Spiegel)
+<ls>ṚT. 4,13.</ls> — caus. {%hinter sich her ziehen, in Anspruch nehmen%}: {#yajamAnAMstu tAndfzwvA sarvAndIkzAnukarzitAn#}
+<ls>MBH. 13,7281.</ls>
 <div n="v">— Vgl. {#anukarza, anukarzaRa, anukfzwa, Anukfzwa#} .
-
-<div n="p">— {#apa#} 
-<div n="1"> 1) {%abziehen, wegziehen, fortreissen, wegnehmen, entfernen%}: {#azwAvakraM pituraNke nizannam . apAkarzadgfhya pARO#} 
-<ls>MBH. 3, 10615.</ls> {#mArIcenApakfzwe tu rAGave#} 
-<ls>R. 3, 52, 2. 59, 11.</ls> 
-<ls>BHĀG. P. 9, 10, 10.</ls> {#apAkarzata vEdehyAH sakASAdrAkzaseSvaram#} 
-<ls>R. 6, 72, 68.</ls> {#mAMsamapakfzya ca . damayantyE tataH prAdAt#} 
-<ls>N. 23, 19.</ls> {#apakfzwAmbarAM dfzwvA tAmfziScakame tadA#} 
-<ls>MBH. 1, 6330.</ls> {#tasya (DanuzaH) mOrvImapAkarzat#} 
-<ls>4, 166.</ls> <ls>ṚT. 4, 13</ls> (s. u. {#anu)#}.{# AnAyiBistAmapakfzwanakrAm (nadIm)#} 
-<ls>RAGH. 16, 55.</ls> {#aBimfzwAdaMSUnapakfzya#} 
-<ls>KĀTY. ŚR. 9, 5, 11. 17, 12, 12.</ls> {#udakamapakarzati#} 
-<ls>KAUŚ. 61.</ls> {#yAvadasya punarbudDiM viduro nApakarzati . pARqavAnayane#} 
-<ls>MBH. 3, 290.</ls> {#DEryaM Soko 'pakarzati#} 
-<ls>R. 5, 71, 5.</ls> {#pApaM cAsyApakarpati#} 
-<ls>MBH. 13. 2699. 1814. 14, 43.</ls> 
-<ls>PAÑCAT. III, 159.</ls> {#eza rogAnyogo 'pakarzati#}
+<div n="p">— {#apa#}
+<div n="1"> 1) {%abziehen, wegziehen, fortreissen, wegnehmen, entfernen%}: {#azwAvakraM pituraNke nizannam . apAkarzadgfhya pARO#}
+<ls>MBH. 3,10615.</ls> {#mArIcenApakfzwe tu rAGave#}
+<ls>R. 3,52,2.</ls> <ls n="R. 3,">59,11.</ls>
+<ls>BHĀG. P. 9,10,10.</ls> {#apAkarzata vEdehyAH sakASAdrAkzaseSvaram#}
+<ls>R. 6,72,68.</ls> {#mAMsamapakfzya ca . damayantyE tataH prAdAt#}
+<ls>N. 23,19.</ls> {#apakfzwAmbarAM dfzwvA tAmfziScakame tadA#}
+<ls>MBH. 1,6330.</ls> {#tasya (DanuzaH) mOrvImapAkarzat#}
+<ls n="MBH.">4,166.</ls> <ls>ṚT. 4,13</ls> (s. u. {#anu)#}.{# AnAyiBistAmapakfzwanakrAm (nadIm)#}
+<ls>RAGH. 16,55.</ls> {#aBimfzwAdaMSUnapakfzya#}
+<ls>KĀTY. ŚR. 9,5,11.</ls> <ls n="KĀTY. ŚR.">17,12,12.</ls> {#udakamapakarzati#}
+<ls>KAUŚ. 61.</ls> {#yAvadasya punarbudDiM viduro nApakarzati . pARqavAnayane#}
+<ls>MBH. 3,290.</ls> {#DEryaM Soko 'pakarzati#}
+<ls>R. 5,71,5.</ls> {#pApaM cAsyApakarpati#}
+<ls>MBH. 13,2699.</ls> <ls n="MBH. 13,">1814.</ls> <ls n="MBH.">14,43.</ls>
+<ls>PAÑCAT. III,159.</ls> {#eza rogAnyogo 'pakarzati#}
 [Page2-0144]
-
-<ls>SUŚR. 2, 132, 5.</ls> 
-<ls>MBH. 2, 223. 4, 1589.</ls> {%abziehen, weglassen, vermindern%} (Gegens. {#varDay): apakarzedevaM yAvatpaYcadaSa#} 
-<ls>SUŚR. 2, 40, 8. 51, 14.</ls> {#paSunehItyapakfzya#} 
-<ls>KĀTY. ŚR. 10, 1, 19.</ls> {%ablegen, bei Seite setzen%}: {#apakfzya ca lajjAm#} 
-<ls>N. 17, 32.</ls> {%zurückziehen, aus dem Folgenden zum Vorhergehenden ziehen%}; {#agrimasUtrasTaM sarvatragrahaRamihApakfpyate#} 
-<ls>P. 4, 1, 17,</ls> 
-<ls>Sch.</ls> 
-<div n="1">— 2) {%spannen%} (den Bogen): {#DanuHSrezWamapakfzya#} 
-<ls>MBH. 4, 1909.</ls> 
-<div n="1">— 3) {%herabziehen, erniedrigen, entehren%}: {#pIqayanBftyavargaM hi AtmAnamapakarzati#} 
-<ls>MBH. 13, 2186.</ls> — caus. {%abziehen, entfernen%}: {#na cAhaM na ca te sarve sAmadAnaviBedanEH . na daRqErna yuDA SakyAH sugrIvAdapakarzitum ..#} 
-<ls>R. 4, 54, 11.</ls> {#kutomUlamidaM duHKaM jYAtumicCAmi tattvataH . viditvApyapakarzeyaM SakyaM cedapakarzitum ..#} 
-<ls>MBH. 1, 6205.</ls> {%herabziehen, schmälern%}: {#kAvyasyAtmaBUtaM rasamapakarzayantaH#} (Gegens. {#utkarzayantaH#}) 
-<ls>SĀH. D. 7, 21.</ls> 
+<ls>SUŚR. 2,132,5.</ls>
+<ls>MBH. 2,223.</ls> <ls n="MBH.">4,1589.</ls> {%abziehen, weglassen, vermindern%} (Gegens. {#varDay): apakarzedevaM yAvatpaYcadaSa#}
+<ls>SUŚR. 2,40,8. 51,14.</ls> {#paSunehItyapakfzya#}
+<ls>KĀTY. ŚR. 10,1,19.</ls> {%ablegen, bei Seite setzen%}: {#apakfzya ca lajjAm#}
+<ls>N. 17,32.</ls> {%zurückziehen, aus dem Folgenden zum Vorhergehenden ziehen%}; {#agrimasUtrasTaM sarvatragrahaRamihApakfpyate#}
+<ls>P. 4,1,17</ls>, <ls>Sch.</ls>
+<div n="1">— 2) {%spannen%} (den Bogen): {#DanuHSrezWamapakfzya#}
+<ls>MBH. 4,1909.</ls>
+<div n="1">— 3) {%herabziehen, erniedrigen, entehren%}: {#pIqayanBftyavargaM hi AtmAnamapakarzati#}
+<ls>MBH. 13,2186.</ls> — caus. {%abziehen, entfernen%}: {#na cAhaM na ca te sarve sAmadAnaviBedanEH . na daRqErna yuDA SakyAH sugrIvAdapakarzitum ..#}
+<ls>R. 4,54,11.</ls> {#kutomUlamidaM duHKaM jYAtumicCAmi tattvataH . viditvApyapakarzeyaM SakyaM cedapakarzitum ..#}
+<ls>MBH. 1,6205.</ls> {%herabziehen, schmälern%}: {#kAvyasyAtmaBUtaM rasamapakarzayantaH#} (Gegens. {#utkarzayantaH#})
+<ls>SĀH. D. 7,21.</ls>
 <div n="v">— Vgl. {#apakarza#} fgg. und {#apakfzwa#} .
-
-<div n="p">— {#vyapa#} {%wegziehen, fortziehen, fortschleppen%}: {#vyapakfzwo mahAtmanA#} 
-<ls>HIḌ. 4, 35.</ls> {#nAsti lajjA ca te sItAM ca te sItAM cOravadvyapakarzataH#} 
-<ls>R. 6, 88, 22.</ls> {%abziehen, ablegen%} (ein Kleid): {#vyapakfzwAmbarAM dfzwvA tAmfpiScakame tataH#} 
-<ls>MBH. 1, 5104.</ls> {%wegnehmen, entfernen, fahren lassen%}: {#yEraByupAyErenAMsi mAnavo vyapakarzati#} 
-<ls>M. 11, 210.</ls> {#adya DarmAtmatA cEva vyapakfzwA yuDizWirAt . darSitaM kfpaRatvaM ca#} 
-<ls>MBH. 2, 1361.</ls> {#damayantyAM viSaNkAM tAM vyapAkarzat#} 
-<ls>N. 24, 36.</ls>
-
-<div n="p">— {#aBi#} {%in seine Gewalt bekommen, überwältigen%}: {#asmAnevABikarzanto dInAn#} 
-<ls>MBH. 3, 15064.</ls>
-
-<div n="p">— {#ava#} 
-<div n="1"> 1) {%fortziehen, wegziehen%}: {#siMhaSiSuM kareREvAvakarzati#} 
-<ls>ŚĀK. 173, v. l.</ls> {#AkfpyamARaH kalinA sOhfdenAvakfzyate#} 
-<ls>MBH. 3, 2358.</ls> {#pragfhyATa DanuzkowyA jyApASenAvakfpya ca#} 
-<ls>1599.</ls> {%abziehen, ablegen%}: {#srajaSca nAvakfzyeta#} (pass. mit med. Bed.) 
-<ls>13, 5007.</ls> {#avakfzwottarAsaNgaH#} 
-<ls>3, 474.</ls> {%abkehren%}: {#agnim#} 
-<ls>KĀTY. ŚR. 18, 2, 10.</ls> {%entfernen%}: {#kaccidarTezvasaMmUQAnhitakAmAnanupriyAn . nAvakarzasi karmaByaH pUrvamaprApya kilvizam ..#} 
-<ls>MBH. 2, 207.</ls> 
-<div n="1">— 2) {%hinunterziehen%}, {#avakfzwa#} {%nach unten gebracht, unten befindlich%}: {#rOhiRahavanyO cAvakfzwe#} 
-<ls>KĀTY. ŚR. 26, 7, 18. 2, 8, 13.</ls> {#naKAvakfzwe 'tyarTaM piqakAH sadAhapAkA Bavanti#} {%unter dem Nagel%} 
-<ls>SUŚR. 2, 291, 1.</ls> 
+<div n="p">— {#vyapa#} {%wegziehen, fortziehen, fortschleppen%}: {#vyapakfzwo mahAtmanA#}
+<ls>HIḌ. 4,35.</ls> {#nAsti lajjA ca te sItAM ca te sItAM cOravadvyapakarzataH#}
+<ls>R. 6,88,22.</ls> {%abziehen, ablegen%} (ein Kleid): {#vyapakfzwAmbarAM dfzwvA tAmfpiScakame tataH#}
+<ls>MBH. 1,5104.</ls> {%wegnehmen, entfernen, fahren lassen%}: {#yEraByupAyErenAMsi mAnavo vyapakarzati#}
+<ls>M. 11,210.</ls> {#adya DarmAtmatA cEva vyapakfzwA yuDizWirAt . darSitaM kfpaRatvaM ca#}
+<ls>MBH. 2,1361.</ls> {#damayantyAM viSaNkAM tAM vyapAkarzat#}
+<ls>N. 24,36.</ls>
+<div n="p">— {#aBi#} {%in seine Gewalt bekommen, überwältigen%}: {#asmAnevABikarzanto dInAn#}
+<ls>MBH. 3,15064.</ls>
+<div n="p">— {#ava#}
+<div n="1"> 1) {%fortziehen, wegziehen%}: {#siMhaSiSuM kareREvAvakarzati#}
+<ls>ŚĀK. 173, v. l.</ls> {#AkfpyamARaH kalinA sOhfdenAvakfzyate#}
+<ls>MBH. 3,2358.</ls> {#pragfhyATa DanuzkowyA jyApASenAvakfpya ca#}
+<ls n="MBH. 3,">1599.</ls> {%abziehen, ablegen%}: {#srajaSca nAvakfzyeta#} (pass. mit med. Bed.)
+<ls n="MBH.">13,5007.</ls> {#avakfzwottarAsaNgaH#}
+<ls n="MBH.">3,474.</ls> {%abkehren%}: {#agnim#}
+<ls>KĀTY. ŚR. 18,2,10.</ls> {%entfernen%}: {#kaccidarTezvasaMmUQAnhitakAmAnanupriyAn . nAvakarzasi karmaByaH pUrvamaprApya kilvizam ..#}
+<ls>MBH. 2,207.</ls>
+<div n="1">— 2) {%hinunterziehen%}, {#avakfzwa#} {%nach unten gebracht, unten befindlich%}: {#rOhiRahavanyO cAvakfzwe#}
+<ls>KĀTY. ŚR. 26,7,18.</ls> <ls n="KĀTY. ŚR.">2,8,13.</ls> {#naKAvakfzwe 'tyarTaM piqakAH sadAhapAkA Bavanti#} {%unter dem Nagel%}
+<ls>SUŚR. 2,291,1.</ls>
 <div n="v">— Vgl. {#avakfzwa#} .
-
 <div n="p">— {#aByava#} s. {#aByavakarzaRa#} .
-
-<div n="p">— {#vyava#} {%abziehen, abwendig machen%}: {#kftASaM kftanirdeSaM kftaBaktaM kfta Sramam . BedErye vyavakarzanti tevE nirayagAminaH ..#} 
-<ls>MBH. 13, 1642.</ls>
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {%heranziehen, anziehen, mit sich fortziehen%}: {#SAKAm - puzkarAgreRAkfzya#} 
-<ls>PAÑCAT. 80, 8.</ls> 
-<ls>R. 3, 74, 19. 75, 32.</ls> {#sa tEH prakfzyatAkfzyata ca#} 
-<ls>5, 61. 19.</ls> <ls>SUŚR. 1, 54, 16. 109, 11.</ls> {#nAkasmAdyuvatI vfdDaM keSezvAkfzya cumbati#} 
-<ls>HIT. I, 102.</ls> <ls>VID. 106.</ls> {#bAhudaRqamAkfzya#} {%den Arm anziehen%} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 201. 11.</ls> {#AkarRadeSAntamayamAkfzyatAm (SaraH)#} 
-<ls>MBH. 3, 8670.</ls> 
-<ls>PAÑCAT. 120, 10.</ls> {#Acakarzaturanyo'nyam#} 
-<ls>MBH. 1, 7109.</ls> {#narAngehAdgehAtpratidinamAkfzya nayataH kftAntAt#} 
-<ls>ŚĀNTIŚ. 3, 5.</ls> {#dUramamunA sAraNgena vayamAkfzwAH#} 
-<ls>ŚĀK. 5, 5.</ls> {#pAdAkfzwavratativalaya#} 
-<ls>32.</ls> {#vaBaYjatustadA vfkzA~llatAScAcakarpatustadA#} 
-<ls>MBH. 1, 6805.</ls> 
-<ls>N. 10, 26.</ls> 
-<ls>MṚCCH. 176, 2.</ls> 
-<ls>PAÑCAT. IV, 12.</ls> <ls>AMAR. 72.</ls> <ls>CAURAP. 15.</ls> <ls>RĀJA-TAR. 5, 101.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 3, 1, 15.</ls> <ls>SĀH. D. 3, 7.</ls> {#manye tadviDinAkfzya kArito 'smi#} 
-<ls>MBH. 3, 323.</ls> {#umArUpeRa yUyaM te saMyamastimitaM manaH . SaMBoryataDvamAkrazwumayaskAntena lohavat ..#} 
-<ls>KUMĀRAS. 2, 59.</ls> {#apANgErAkarzadBiH kimapi hfdayam#} 
-<ls>ŚĀNTIŚ. 4, 16.</ls> {#rAjyaloBAkfzwaH#} 
-<ls>HIT. 41, 14. 10, 10.</ls> {#loBAkfzwacetasA#} 
-<ls>42, 7.</ls> {#tallAvaRyaguRAkfzwena mayA#} 
-<ls>63, 15.</ls> <ls>ŚĀK. 68, 13.</ls> <ls>VID. 14. 149.</ls> <ls>GIT. 7, 30.</ls> {#anAkfzwasya vizayEH#} 
-<ls>RAGH. 1, 23.</ls> {#KaNgam#} {%das Schwert%} (aus der Scheide) {%ziehen%} 
-<ls>MṚCCH. 132, 5.</ls> 
-<ls>VID. 104.</ls> 
-<ls>VET. 33, 7.</ls> 
+<div n="p">— {#vyava#} {%abziehen, abwendig machen%}: {#kftASaM kftanirdeSaM kftaBaktaM kfta Sramam . BedErye vyavakarzanti tevE nirayagAminaH ..#}
+<ls>MBH. 13,1642.</ls>
+<div n="p">— {#A#}
+<div n="1"> 1) {%heranziehen, anziehen, mit sich fortziehen%}: {#SAKAm — puzkarAgreRAkfzya#}
+<ls>PAÑCAT. 80,8.</ls>
+<ls>R. 3,74,19.</ls> <ls n="R. 3,">75,32.</ls> {#sa tEH prakfzyatAkfzyata ca#}
+<ls n="R. 3,">5,61.</ls> <ls n="R. 3,5,">19.</ls> <ls>SUŚR. 1,54,16. 109,11.</ls> {#nAkasmAdyuvatI vfdDaM keSezvAkfzya cumbati#}
+<ls>HIT. I,102.</ls> <ls>VID. 106.</ls> {#bAhudaRqamAkfzya#} {%den Arm anziehen%}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 201. 11.</ls> {#AkarRadeSAntamayamAkfzyatAm (SaraH)#}
+<ls>MBH. 3,8670.</ls>
+<ls>PAÑCAT. 120,10.</ls> {#Acakarzaturanyo'nyam#}
+<ls>MBH. 1,7109.</ls> {#narAngehAdgehAtpratidinamAkfzya nayataH kftAntAt#}
+<ls>ŚĀNTIŚ. 3,5.</ls> {#dUramamunA sAraNgena vayamAkfzwAH#}
+<ls>ŚĀK. 5,5.</ls> {#pAdAkfzwavratativalaya#}
+<ls n="ŚĀK.">32.</ls> {#vaBaYjatustadA vfkzA~llatAScAcakarpatustadA#}
+<ls>MBH. 1,6805.</ls>
+<ls>N. 10,26.</ls>
+<ls>MṚCCH. 176,2.</ls>
+<ls>PAÑCAT. IV,12.</ls> <ls>AMAR. 72.</ls> <ls>CAURAP. 15.</ls> <ls>RĀJA-TAR. 5,101.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 3,1,15.</ls> <ls>SĀH. D. 3,7.</ls> {#manye tadviDinAkfzya kArito 'smi#}
+<ls>MBH. 3,323.</ls> {#umArUpeRa yUyaM te saMyamastimitaM manaH . SaMBoryataDvamAkrazwumayaskAntena lohavat ..#}
+<ls>KUMĀRAS. 2,59.</ls> {#apANgErAkarzadBiH kimapi hfdayam#}
+<ls>ŚĀNTIŚ. 4,16.</ls> {#rAjyaloBAkfzwaH#}
+<ls>HIT. 41,14.</ls> <ls n="HIT.">10,10.</ls> {#loBAkfzwacetasA#}
+<ls n="HIT.">42,7.</ls> {#tallAvaRyaguRAkfzwena mayA#}
+<ls n="HIT.">63,15.</ls> <ls>ŚĀK. 68,13.</ls> <ls>VID. 14. 149.</ls> <ls>GIT. 7,30.</ls> {#anAkfzwasya vizayEH#}
+<ls>RAGH. 1,23.</ls> {#KaNgam#} {%das Schwert%} (aus der Scheide) {%ziehen%}
+<ls>MṚCCH. 132,5.</ls>
+<ls>VID. 104.</ls>
+<ls>VET. 33,7.</ls>
 <div n="1">— 2) {#cApam#} {%den Bogen spannen%} ad
 [Page2-0145]
-
-<ls>ŚĀK. 54.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 197, 2.</ls> <ls>ŚIŚ. 9, 40.</ls> 
-<div n="1">— 3) {%abziehen, abreissen%}: {#hastAtkawakamAkfzya#} 
-<ls>MṚCCH. 38, 24.</ls> {#AkfzyamARe vasane#} 
-<ls>MBH. 2, 2291.</ls> {%herausziehen%}: {#kUpAdAkfzya#} 
-<ls>VET. 22, 7.</ls> {#JOlikAdAkfzya#} 
-<ls>DHŪRTAS. 95, 8.</ls> 
-<div n="1">— 4) {%entziehen, entreissen, abnehmen%}: {#kiMcidAkfzwasalilaH (deSaH)#} 
-<ls>RĀJA-TAR. 5, 69.</ls> {#tasmAdAkfzya tadrAjyaM mama SIGraM pradIyatAm#} 
-<ls>MBH. 1, 6348.</ls> {#AkarkzyAmi yaSaH#} 
-<ls>BHAṬṬ. 16, 30.</ls> 
-<div n="1">— 5) {%entlehnen%}: {#paYcatantrAttaTAnyasmAdgranTAdAkfzya#} 
-<ls>HIT. Pr. 8.</ls> {#uttarasUtrAdiha BAva ityAkfzyate#} 
-<ls>SIDDH. K.</ls> zu <ls>P.3,1,106.</ls> — caus. {%heranziehen, an sich ziehen%}: {#vastramAkarzayantI#} 
-<ls>ṚT. 5, 11.</ls> {#svahastenANgArA AkarzitAH#} (vgl. u. {#samA#}) 
-<ls>PAÑCAT. 32, 17.</ls> 
+<ls>ŚĀK. 54.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 197,2.</ls> <ls>ŚIŚ. 9,40.</ls>
+<div n="1">— 3) {%abziehen, abreissen%}: {#hastAtkawakamAkfzya#}
+<ls>MṚCCH. 38,24.</ls> {#AkfzyamARe vasane#}
+<ls>MBH. 2,2291.</ls> {%herausziehen%}: {#kUpAdAkfzya#}
+<ls>VET. 22,7.</ls> {#JOlikAdAkfzya#}
+<ls>DHŪRTAS. 95,8.</ls>
+<div n="1">— 4) {%entziehen, entreissen, abnehmen%}: {#kiMcidAkfzwasalilaH (deSaH)#}
+<ls>RĀJA-TAR. 5,69.</ls> {#tasmAdAkfzya tadrAjyaM mama SIGraM pradIyatAm#}
+<ls>MBH. 1,6348.</ls> {#AkarkzyAmi yaSaH#}
+<ls>BHAṬṬ. 16,30.</ls>
+<div n="1">— 5) {%entlehnen%}: {#paYcatantrAttaTAnyasmAdgranTAdAkfzya#}
+<ls>HIT. Pr. 8.</ls> {#uttarasUtrAdiha BAva ityAkfzyate#}
+<ls>SIDDH. K.</ls> zu <ls>P. 3,1,106.</ls> — caus. {%heranziehen, an sich ziehen%}: {#vastramAkarzayantI#}
+<ls>ṚT. 5,11.</ls> {#svahastenANgArA AkarzitAH#} (vgl. u. {#samA#})
+<ls>PAÑCAT. 32,17.</ls>
 <div n="v">— Vgl. {#Akarza#} fg., {#Akarzin, Akfzwi#} .
-
-<div n="p">— {#apA#} {%abziehen, abwenden, entfernen%}: {#na hi tasmAnmanaH kaSciccakzuzI vA narottamAt . naraH SaknotyapAkrazwum#} 
-<ls>R. 2, 17, 9.</ls> {#tamaSakyamapAkrazwuM nirdeSAtpituH#} 
-<ls>RAGH. 12, 17.</ls> {#aTa me deva saMmohamapAkrazwuM tvamarhasi#} 
-<ls>BHĀG. P. 3, 25, 10.</ls>
-
-<div n="p">— {#vyapA#} {%abziehen, abreissen%}: {#tato duHSAsano rAjandrOpadyA vasanaM balAt . saBAmaDye samAkzipya vyapAkrazwuM pracakrame#} 
-<ls>MBH. 2, 2290.</ls>
-
-<div n="p">— {#paryA#} {%herumziehen, herumschleppen%}: {#drOpadI ca saBAmaDye - paryAkfzwA#} 
-<ls>MBH. 18, 9.</ls>
-
-<div n="p">— {#vyA#} {%abziehen, ablegen, abwerfen%}: {#srastavyAkfzwavasanAH#} 
-<ls>R. 5, 54, 15.</ls> {%entfernen, trennen%} 
-<ls>PRAB. 37, 7.</ls>
-
-<div n="p">— {#samA#} {%heranziehen, an sich ziehen%}: {#samAkfzwA hyete - svahastenANgArAH#} (vgl. u. {#A#}) 
-<ls>AMAR. 76.</ls> {#samAkfzya tu taM sutam . viSasya cEnam#} 
-<ls>MBH. 3, 10494.</ls> {%herausziehen%}: {#kzuraBARqAtkzuramekaM samAkfzya#} 
-<ls>PAÑCAT. 40, 16.</ls> — caus. {%mit sich fortreissen%}: {#sA (samudravelA) mattagajendrAnapi samAkarzayati#} 
-<ls>PAÑCAT. 74, 23.</ls>
-
-<div n="p">— {#ud#} 
-<div n="1"> 1) {%in die Höhe ziehen, - bringen%} (in übertr. Bed.); pass. {%einen Aufschwung nehmen, die Oberhand bekommen%}: {#utkarzati ha vE jYAnasaMtatim#} 
-<ls>MĀṆḌ. UP. 10.</ls> {#kalAvaDarma utkfzyamARe#} 
-<ls>BHĀG. P. 5, 6, 10.</ls> {#utkfzwa#} {%gesteigert, ausserordentlich%}: {#utkfzwabalapOruza#} 
-<ls>R. 3, 41, 5.</ls> {#jihvAlOlyotkfzwOtsukyAt#} 
-<ls>PAÑCAT. 62, 3.</ls> {%heftig, stark%}, von einem Laute: {#mahAnAdErutkfzwatalanAditEH#} 
-<ls>MBH. 1, 7650. 8020.</ls> {#utkfzwaninada#} 
-<ls>4, 355.</ls> Andere Belege für das partic. s. u. {#utkfzwa#} . 
-<div n="1">— 2) {%herausziehen, herausnehmen, fortlassen%}: {#yadA ca vaH - utkarzati jalAttasmAtsTalam#} 
-<ls>MBH. 1, 7869. 7850.</ls> {#utkfzwo gEH = paNkAdudDftaH#} 
-<ls>P. 2, 1, 61,</ls> 
-<ls>Sch.</ls> {#aNgadakowilagnam . prAlambamutkfzya#} 
-<ls>RAGH. 6, 14.</ls> {#vanaspatipraBftInyaNgAnyutkfzyeran#} 
-<ls>ŚĀṄKH. ŚR. 15, 1, 27.</ls> {#utkfzwasneha#} 
-<ls>SUŚR. 1, 180, 1.</ls> {%ausziehen%} (ein Kleid): {#vastramutkarzati mayi#} 
-<ls>MBH. 2, 1810.</ls> {#utkarzantyASca vasanam#} 
-<ls>R. 5, 36, 37.</ls> Vgl. {#utkarzaRa#}, wo im ersten Beispiele {%das Ausziehen des Kleides%} gemeint ist. 
-<div n="1">— 3) {%spannen%}, vom Bogen: {#utkarzati DanuHSrezWam#} 
-<ls>MBH. 4, 1635.</ls> {%auseinanderziehen%}: {#dvyaNgulotkarzam#} (absolut.), {#dvyaNgula utkarzam#} oder {#dvyaNgulenotkarzaM KaRqikAM Cinatti#} 
-<ls>P. 3, 4, 51,</ls> 
-<ls>Sch.</ls> — caus. {%in die Höhe bringen, heben, steigern%} (Gegens. {#apakarzay#}) 
-<ls>SĀH. D. 7, 21.</ls> 
+<div n="p">— {#apA#} {%abziehen, abwenden, entfernen%}: {#na hi tasmAnmanaH kaSciccakzuzI vA narottamAt . naraH SaknotyapAkrazwum#}
+<ls>R. 2,17,9.</ls> {#tamaSakyamapAkrazwuM nirdeSAtpituH#}
+<ls>RAGH. 12,17.</ls> {#aTa me deva saMmohamapAkrazwuM tvamarhasi#}
+<ls>BHĀG. P. 3,25,10.</ls>
+<div n="p">— {#vyapA#} {%abziehen, abreissen%}: {#tato duHSAsano rAjandrOpadyA vasanaM balAt . saBAmaDye samAkzipya vyapAkrazwuM pracakrame#}
+<ls>MBH. 2,2290.</ls>
+<div n="p">— {#paryA#} {%herumziehen, herumschleppen%}: {#drOpadI ca saBAmaDye — paryAkfzwA#}
+<ls>MBH. 18,9.</ls>
+<div n="p">— {#vyA#} {%abziehen, ablegen, abwerfen%}: {#srastavyAkfzwavasanAH#}
+<ls>R. 5,54,15.</ls> {%entfernen, trennen%}
+<ls>PRAB. 37,7.</ls>
+<div n="p">— {#samA#} {%heranziehen, an sich ziehen%}: {#samAkfzwA hyete — svahastenANgArAH#} (vgl. u. {#A#})
+<ls>AMAR. 76.</ls> {#samAkfzya tu taM sutam . viSasya cEnam#}
+<ls>MBH. 3,10494.</ls> {%herausziehen%}: {#kzuraBARqAtkzuramekaM samAkfzya#}
+<ls>PAÑCAT. 40,16.</ls> — caus. {%mit sich fortreissen%}: {#sA (samudravelA) mattagajendrAnapi samAkarzayati#}
+<ls>PAÑCAT. 74,23.</ls>
+<div n="p">— {#ud#}
+<div n="1"> 1) {%in die Höhe ziehen, — bringen%} (in übertr. Bed.); pass. {%einen Aufschwung nehmen, die Oberhand bekommen%}: {#utkarzati ha vE jYAnasaMtatim#}
+<ls>MĀṆḌ. UP. 10.</ls> {#kalAvaDarma utkfzyamARe#}
+<ls>BHĀG. P. 5,6,10.</ls> {#utkfzwa#} {%gesteigert, ausserordentlich%}: {#utkfzwabalapOruza#}
+<ls>R. 3,41,5.</ls> {#jihvAlOlyotkfzwOtsukyAt#}
+<ls>PAÑCAT. 62,3.</ls> {%heftig, stark%}, von einem Laute: {#mahAnAdErutkfzwatalanAditEH#}
+<ls>MBH. 1,7650.</ls> <ls n="MBH. 1,">8020.</ls> {#utkfzwaninada#}
+<ls n="MBH.">4,355.</ls> Andere Belege für das partic. s. u. {#utkfzwa#} .
+<div n="1">— 2) {%herausziehen, herausnehmen, fortlassen%}: {#yadA ca vaH — utkarzati jalAttasmAtsTalam#}
+<ls>MBH. 1,7869.</ls> <ls n="MBH. 1,">7850.</ls> {#utkfzwo gEH = paNkAdudDftaH#}
+<ls>P. 2,1,61</ls>, <ls>Sch.</ls>
+{#aNgadakowilagnam . prAlambamutkfzya#}
+<ls>RAGH. 6,14.</ls> {#vanaspatipraBftInyaNgAnyutkfzyeran#}
+<ls>ŚĀṄKH. ŚR. 15,1,27.</ls> {#utkfzwasneha#}
+<ls>SUŚR. 1,180,1.</ls> {%ausziehen%} (ein Kleid): {#vastramutkarzati mayi#}
+<ls>MBH. 2,1810.</ls> {#utkarzantyASca vasanam#}
+<ls>R. 5,36,37.</ls> Vgl. {#utkarzaRa#}, wo im ersten Beispiele {%das Ausziehen des Kleides%} gemeint ist.
+<div n="1">— 3) {%spannen%}, vom Bogen: {#utkarzati DanuHSrezWam#}
+<ls>MBH. 4,1635.</ls> {%auseinanderziehen%}: {#dvyaNgulotkarzam#} (absolut.), {#dvyaNgula utkarzam#} oder {#dvyaNgulenotkarzaM KaRqikAM Cinatti#}
+<ls>P. 3,4,51</ls>, <ls>Sch.</ls>
+— caus. {%in die Höhe bringen, heben, steigern%} (Gegens. {#apakarzay#})
+<ls>SĀH. D. 7,21.</ls>
 <div n="v">— Vgl. {#utkarza#} fgg.
-
-<div n="p">— {#apod#} {%abtrennen%}: {#mUlAni ca prAntAni cApotkfzya#} 
+<div n="p">— {#apod#} {%abtrennen%}: {#mUlAni ca prAntAni cApotkfzya#}
 <ls>KAUŚ. 90.</ls>
-
-<div n="p">— {#samud#} {%in die Höhe ziehen, - bringen%}: {#vAyuH samutkarzati garBayonimftO retaH puzparasAnupfktam#} 
-<ls>MBH. 1, 3613.</ls>
-
-<div n="p">— {#upa#} 
-<div n="1"> 1) {%heranziehen, zu sich ziehen%} 
-<ls>SUŚR. 2, 345, 11.</ls> {#pARyupakarzam, pARAvupakarzam#} oder {#pARinopakarzaM DAnAH saMgfhRAti#} 
-<ls>P. 3, 4, 49,</ls> 
-<ls>Sch.</ls> {#upakarza viBo prapannam#} 
-<ls>BHĀG. P. 7, 9, 22.</ls> 
-<div n="1">— 2) {%entfernen, fahren lassen%}: {#damayantyAM viSaNkAM tAmupAkarzat#} 
-<ls>MBH. 3, 2996</ls> <ls>?= N. 24, 36</ls>, wo die richtige Lesart {#vyapAkarzat#} sich findet.
+<div n="p">— {#samud#} {%in die Höhe ziehen, — bringen%}: {#vAyuH samutkarzati garBayonimftO retaH puzparasAnupfktam#}
+<ls>MBH. 1,3613.</ls>
+<div n="p">— {#upa#}
+<div n="1"> 1) {%heranziehen, zu sich ziehen%}
+<ls>SUŚR. 2,345,11.</ls> {#pARyupakarzam, pARAvupakarzam#} oder {#pARinopakarzaM DAnAH saMgfhRAti#}
+<ls>P. 3,4,49</ls>, <ls>Sch.</ls>
+{#upakarza viBo prapannam#}
+<ls>BHĀG. P. 7,9,22.</ls>
+<div n="1">— 2) {%entfernen, fahren lassen%}: {#damayantyAM viSaNkAM tAmupAkarzat#}
+<ls>MBH. 3,2996</ls> = <ls>N. 24,36</ls>, wo die richtige Lesart {#vyapAkarzat#} sich findet.
 [Page2-0146]
-
-<div n="p">— {#samupa#} {%heranziehen%}: {#nAvaH samupakarzaDvaM tArayizyAma vAhinIm#} 
-<ls>R. 2, 89, 10.</ls>
-
-<div n="p">— {#ni#} {%hinabziehen(?)%}: {#yaH saMsTitaH puruzo dahyate vA niKanyate vApi nikfzyate vA#} (oder {%wird%} von der Strömung {%hinabgezogen%}?). 
-<ls>MBH. 1, 3616.</ls> 
-<ls>WEST.</ls> : {%dilacerare(?%}). Die Bed. {%niederziehen%} hat das Wort wohl an folg. Stellen: {#sakfnnikarzanharati#} 
-<ls>ŚAT. BR. 12, 5, 1, 8.</ls> {#ni\ka\rzi\zya\te, ni\karza^mARAya, nika^rzitAya#} 
-<ls>TS. 7, 1, 19, 3.</ls> — partic. {#nikfzwa#} 
-<div n="1"> 1) {%niedrig stehend, verachtet, gemein%} 
-<ls>AK. 3, 2, 3. 3, 4, 29, 227.</ls> 
-<ls>H. 1442.</ls> {#sunikfzwA ca te yoniH#} 
-<ls>MBH. 1, 3067.</ls> {#sarve rAjYo mETilasya mEnAkasyeva parvatAH . nikfzwaBUtA rAjAno vatsA hyanaquho yaTA ..#} 
-<ls>3, 10655.</ls> {#nikfzwajAta#} 
-<ls>MṚCCH. 127, 15.</ls> {#nikfzwASayatayA#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 196, 7.</ls> <ls>VEDĀNTAS. ebend. 205, 3.</ls> 
-<div n="1">— 2) {%nahe%}, <lex>n.</lex> {%Nähe%} 
-<ls>H. 1451.</ls> {#nAtidUre nikfzwe vA#} 
-<ls>SUŚR. 1, 94, 4.</ls> Vgl. u. {#saMni#} .
-
-<div n="p">— {#saMni#}, partic. {#saMnikfzwa#} 
-<div n="1"> 1) ({%zusammengezogen) in die Nähe gebracht, nahe stehend, nahe bevorstehend, nahe%}; <lex>n.</lex> {%Nähe%} 
-<ls>AK. 3, 2, 16.</ls> {#saMnikfzwaviprakfzwakarRika#} 
-<ls>SUŚR. 2, 199, 21.</ls> {#saMnikfzwAnimAnsarvAnanumantrya dvijarzaBAn#} 
-<ls>R. 2, 2, 8.</ls> {#saMnikfzwaM ca yatra syAdiDmapuzpaPalodakam#} 
-<ls>3, 21, 5.</ls> <ls>MEGH. 74.</ls> {#saMnikfzwaSca no vIra jayaH SatroH parAjayaH#} 
-<ls>R. 3, 30, 8.</ls> {#AsanasaMnikfzwam#} adv. {%in der Nähe des Sitzes%} 
-<ls>KUMĀRAS. 3, 2.</ls> {#saMnikfzwe#} 
-<ls>SUŚR. 1, 94, 5.</ls> {#ASramasaMnikfzwe sTitAH smaH#} 
-<ls>ŚĀK. 23, 23.</ls> 
+<div n="p">— {#samupa#} {%heranziehen%}: {#nAvaH samupakarzaDvaM tArayizyAma vAhinIm#}
+<ls>R. 2,89,10.</ls>
+<div n="p">— {#ni#} {%hinabziehen(?)%}: {#yaH saMsTitaH puruzo dahyate vA niKanyate vApi nikfzyate vA#} (oder {%wird%} von der Strömung {%hinabgezogen%}?).
+<ls>MBH. 1,3616.</ls>
+<ls>WEST.</ls> : {%dilacerare(?%}). Die Bed. {%niederziehen%} hat das Wort wohl an folg. Stellen: {#sakfnnikarzanharati#}
+<ls>ŚAT. BR. 12,5,1,8.</ls> {#ni\ka\rzi\zya\te, ni\karza^mARAya, nika^rzitAya#}
+<ls>TS. 7,1,19,3.</ls> — partic. {#nikfzwa#}
+<div n="1"> 1) {%niedrig stehend, verachtet, gemein%}
+<ls>AK. 3,2,3.</ls> <ls n="AK.">3,4,29,227.</ls>
+<ls>H. 1442.</ls> {#sunikfzwA ca te yoniH#}
+<ls>MBH. 1,3067.</ls> {#sarve rAjYo mETilasya mEnAkasyeva parvatAH . nikfzwaBUtA rAjAno vatsA hyanaquho yaTA ..#}
+<ls n="MBH.">3,10655.</ls> {#nikfzwajAta#}
+<ls>MṚCCH. 127,15.</ls> {#nikfzwASayatayA#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 196,7.</ls> <ls>VEDĀNTAS. ebend. 205,3.</ls>
+<div n="1">— 2) {%nahe%}, <lex>n.</lex> {%Nähe%}
+<ls>H. 1451.</ls> {#nAtidUre nikfzwe vA#}
+<ls>SUŚR. 1,94,4.</ls> Vgl. u. {#saMni#} .
+<div n="p">— {#saMni#}, partic. {#saMnikfzwa#}
+<div n="1"> 1) ({%zusammengezogen) in die Nähe gebracht, nahe stehend, nahe bevorstehend, nahe%}; <lex>n.</lex> {%Nähe%}
+<ls>AK. 3,2,16.</ls> {#saMnikfzwaviprakfzwakarRika#}
+<ls>SUŚR. 2,199,21.</ls> {#saMnikfzwAnimAnsarvAnanumantrya dvijarzaBAn#}
+<ls>R. 2,2,8.</ls> {#saMnikfzwaM ca yatra syAdiDmapuzpaPalodakam#}
+<ls n="R.">3,21,5.</ls> <ls>MEGH. 74.</ls> {#saMnikfzwaSca no vIra jayaH SatroH parAjayaH#}
+<ls>R. 3,30,8.</ls> {#AsanasaMnikfzwam#} adv. {%in der Nähe des Sitzes%}
+<ls>KUMĀRAS. 3,2.</ls> {#saMnikfzwe#}
+<ls>SUŚR. 1,94,5.</ls> {#ASramasaMnikfzwe sTitAH smaH#}
+<ls>ŚĀK. 23,23.</ls>
 <div n="v">— Vgl. {#saMnikarza#} .
-
-<div n="p">— {#nis#} 
-<div n="1"> 1) {%herausziehen%} 
-<ls>ŚAT. BR. 4, 5, 2, 10.</ls> {#tataH satyavataH kAyAt - aNguzWamAtraM puruzaM niScakarza yamo balAt#} 
-<ls>MBH. 3, 16763.</ls> {#izIkAM ca yaTA muYjAtkaScinnizkfzya darSayet#} 
-<ls>14, 553. 1, 4327.</ls> {#tasya nizkfzyamARasya sAyakasya#} 
-<ls>R. 4, 22, 22.</ls> {#niHkfzwAntra#} 
-<ls>SUŚR. 2, 435, 14.</ls> {#jihvAM niHkfzya#} 
-<ls>486, 18.</ls> {#vahniM yaTA dAruRi - nizkarzanti gUQam#} 
-<ls>BHĀG. P. 6, 4, 27.</ls> {#nizkrazwumarTaM cakame kuverAt#} 
-<ls>RAGH. 5, 26.</ls> 
-<div n="1">— 2) {%zerreissen%}: {#tamamutra niraye vartamAnaM vajrakaRwakaSAlmalImAropya nizkarzanti#} 
-<ls>BHĀG. P. 5, 26, 21.</ls> — caus. {%zerreissen, zerstören, zu Grunde richten%}: {#kAlacakraM BramistIkzRaM sarvaM nizkarzayajjagat#} 
-<ls>BHĀG. P. 6, 5, 19.</ls>
-
-<div n="p">— {#parA#} 
-<div n="1"> 1) {%fortziehen%}: {#sa tAM parAkfzya saBAsamIpamAnIya#} 
-<ls>MBH. 2, 2227.</ls> 
-<div n="1">— 2) {%herabziehen, schmähen%}: {#brAhmaRA yaM praSaMsanti puruzAH sa pravaryate . brAhmaREryaH parAkfzwaH parABUyAtkzaRAdDi saH ..#} 
-<ls>MBH. 13, 2102.</ls>
-
-<div n="p">— {#pari#} 
-<div n="1"> 1) {%herumziehen, herumschleppen%}: {#SvApadAH parikarzantu narAMSca nihatAfnmayA#} 
-<ls>R. 2, 97, 30.</ls> {#drOpadIM parikarzadBiH#} 
-<ls>MBH. 3, 1940. 536. 4, 457.</ls> 
-<ls>DRAUP. 5, 21.</ls> 
-<ls>R. 5, 49, 18. 6, 8, 25.</ls> {#muhUrtaM tO tadAnyo'nyaM samare paryakarzatAm#} 
-<ls>MBH. 1, 7111.</ls> {#SunaH sa parikarzatu#} 
-<ls>13, 4515.</ls> {#itaScetarataScEnaM kftAntaH parikarzati#} 
-<ls>R. 2, 105, 13.</ls> {#rAgABiBUtaH puruzaH kAmena parikfzyate#} 
-<ls>MBH. 3, 80. 13, 2609.</ls> med. : {#kuruvIramaDye rajasvalAM yatparikarzase mAm#} 
-<ls>2, 2235.</ls> mit recipr. Bed. 
-<ls>4, 764.</ls> 
-<div n="1">— 2) {%anführen%} (ein Heer): {#yo 'sO SatasahasrARi sahasraM parikarzati#} 
-<ls>R. 6, 2, 28.</ls> 
-<div n="1">— 3) {%in sich herumgehen lassen, beständig an Etwas denken%}: {#sTAne 'smin (svarge) vasa rAjendra karmaBirnirjitEH SuBEH . kiM tvaM mAnuzyakaM sne hamadyApi parikarzasi ..#} 
-<ls>MBH. 17, 104.</ls> — caus. {%Jmd hinundherzerren, mitnehmen, peinigen%}: {#anAvfzwyA tayA rAjA sa tadA parikarzitaH#} 
-<ls>R. 1, 8, 13.</ls> {#nAvindatArtiM parikarzitApi (parikarSitA?)#} 
-<ls>BHĀG. P. 4, 23, 20.</ls>
-
-<div n="p">— {#pra#} 
-<div n="1"> 1) {%hervorziehen, vorstrecken%}: {#dakziRaM pAdaM praTamaM prakarzati#} 
-<ls>KAUŚ. 90.</ls> {%vorwärts ziehen, fortziehen%}: {#sa tEH prakfzyatAkfzyata ca#} 
-<ls>R. 5, 61, 19.</ls> {#vegena mahatA nAvaM prAkarzallavaRAmBasi#} 
-<ls>MBH. 3, 12787.</ls> {#tAvanyo'nyaM samASlizya prakarzantO parasparam#} 
-<ls>4, 755.</ls> {#sTAnAdapIndraM kupitaH prakarzet#} 
-<ls>R. 3, 43, 42.</ls> {#daSagrIvam - diSaM yAmyAM prakarzati#} 
-<ls>5, 27, 17. 2, 69, 16.</ls> {#prakfzwASca yaTAkAmaM #}
+<div n="p">— {#nis#}
+<div n="1"> 1) {%herausziehen%}
+<ls>ŚAT. BR. 4,5,2,10.</ls> {#tataH satyavataH kAyAt — aNguzWamAtraM puruzaM niScakarza yamo balAt#}
+<ls>MBH. 3,16763.</ls> {#izIkAM ca yaTA muYjAtkaScinnizkfzya darSayet#}
+<ls n="MBH.">14,553.</ls> <ls n="MBH.">1,4327.</ls> {#tasya nizkfzyamARasya sAyakasya#}
+<ls>R. 4,22,22.</ls> {#niHkfzwAntra#}
+<ls>SUŚR. 2,435,14.</ls> {#jihvAM niHkfzya#}
+<ls n="SUŚR.">486,18.</ls> {#vahniM yaTA dAruRi — nizkarzanti gUQam#}
+<ls>BHĀG. P. 6,4,27.</ls> {#nizkrazwumarTaM cakame kuverAt#}
+<ls>RAGH. 5,26.</ls>
+<div n="1">— 2) {%zerreissen%}: {#tamamutra niraye vartamAnaM vajrakaRwakaSAlmalImAropya nizkarzanti#}
+<ls>BHĀG. P. 5,26,21.</ls> — caus. {%zerreissen, zerstören, zu Grunde richten%}: {#kAlacakraM BramistIkzRaM sarvaM nizkarzayajjagat#}
+<ls>BHĀG. P. 6,5,19.</ls>
+<div n="p">— {#parA#}
+<div n="1"> 1) {%fortziehen%}: {#sa tAM parAkfzya saBAsamIpamAnIya#}
+<ls>MBH. 2,2227.</ls>
+<div n="1">— 2) {%herabziehen, schmähen%}: {#brAhmaRA yaM praSaMsanti puruzAH sa pravaryate . brAhmaREryaH parAkfzwaH parABUyAtkzaRAdDi saH ..#}
+<ls>MBH. 13,2102.</ls>
+<div n="p">— {#pari#}
+<div n="1"> 1) {%herumziehen, herumschleppen%}: {#SvApadAH parikarzantu narAMSca nihatAfnmayA#}
+<ls>R. 2,97,30.</ls> {#drOpadIM parikarzadBiH#}
+<ls>MBH. 3,1940.</ls> <ls n="MBH. 3,">536.</ls> <ls n="MBH.">4,457.</ls>
+<ls>DRAUP. 5,21.</ls>
+<ls>R. 5,49,18.</ls> <ls n="R.">6,8,25.</ls> {#muhUrtaM tO tadAnyo'nyaM samare paryakarzatAm#}
+<ls>MBH. 1,7111.</ls> {#SunaH sa parikarzatu#}
+<ls n="MBH.">13,4515.</ls> {#itaScetarataScEnaM kftAntaH parikarzati#}
+<ls>R. 2,105,13.</ls> {#rAgABiBUtaH puruzaH kAmena parikfzyate#}
+<ls>MBH. 3,80.</ls> <ls n="MBH.">13,2609.</ls> med. : {#kuruvIramaDye rajasvalAM yatparikarzase mAm#}
+<ls n="MBH.">2,2235.</ls> mit recipr. Bed.
+<ls n="MBH.">4,764.</ls>
+<div n="1">— 2) {%anführen%} (ein Heer): {#yo 'sO SatasahasrARi sahasraM parikarzati#}
+<ls>R. 6,2,28.</ls>
+<div n="1">— 3) {%in sich herumgehen lassen, beständig an Etwas denken%}: {#sTAne 'smin (svarge) vasa rAjendra karmaBirnirjitEH SuBEH . kiM tvaM mAnuzyakaM sne hamadyApi parikarzasi ..#}
+<ls>MBH. 17,104.</ls> — caus. {%Jmd hinundherzerren, mitnehmen, peinigen%}: {#anAvfzwyA tayA rAjA sa tadA parikarzitaH#}
+<ls>R. 1,8,13.</ls> {#nAvindatArtiM parikarzitApi (parikarSitA?)#}
+<ls>BHĀG. P. 4,23,20.</ls>
+<div n="p">— {#pra#}
+<div n="1"> 1) {%hervorziehen, vorstrecken%}: {#dakziRaM pAdaM praTamaM prakarzati#}
+<ls>KAUŚ. 90.</ls> {%vorwärts ziehen, fortziehen%}: {#sa tEH prakfzyatAkfzyata ca#}
+<ls>R. 5,61,19.</ls> {#vegena mahatA nAvaM prAkarzallavaRAmBasi#}
+<ls>MBH. 3,12787.</ls> {#tAvanyo'nyaM samASlizya prakarzantO parasparam#}
+<ls n="MBH.">4,755.</ls> {#sTAnAdapIndraM kupitaH prakarzet#}
+<ls>R. 3,43,42.</ls> {#daSagrIvam — diSaM yAmyAM prakarzati#}
+<ls n="R.">5,27,17.</ls> <ls n="R.">2,69,16.</ls> {#prakfzwASca yaTAkAmaM #}
 [Page2-0147]
-{# devamArgaM ca darSitAH#} 
-<ls>5, 63, 11.</ls> {%in die Höhe ziehen%}, s. {#prakfzya#} . 
-<div n="1">— 2) {%anführen%} (ein Heer): {#yaSca senAM prakarzati#} 
-<ls>MBH. 1, 5413. 3, 16272. 16274.</ls> 
-<ls>R. 6, 2, 44.</ls> 
-<div n="1">— 3) {%spannen%} (den Bogen): {#gARqIvaM ca prakarzataH#} (genet. des partic.) 
-<ls>MBH. 4, 1959.</ls> 
-<div n="1">— 4) {%ausziehen, in die Länge ziehen%}, {#prakfzwa#} {%lang%}: {#gatvA prakfzwamaDvAnam#} 
-<ls>N. 12, 82.</ls> von der Zeit 
-<ls>P. 5, 1, 108.</ls> 
-<div n="1">— 5) {%hervorziehen, voranstellen%}; {#prakfzwa#} {%ausgezeichnet, vorzüglich; heftig, stark%} 
-<ls>H. 1438.</ls> {#yadA prakfzwA manyeta sarvAstu prakftIrBfSam#} 
-<ls>M. 7, 170.</ls> {#prakfzwAH puRyataH kASca jYeyA nadyaH#} 
-<ls>MBH. 13, 1776.</ls> 
-<ls>R. 3, 21, 19. 5, 53, 24. 6, 1, 46.</ls> 
-<ls>PAÑCAT. 191, 16.</ls> {#prakfzwatara#} 
-<ls>190, 4.</ls> {#prakfzwatamakzutpipAsAdiduHKa#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 185, 4.</ls> {#prakfzwavEra#} ebend. 
-<ls>198, 2.</ls> 
-<div n="1">— 6) {%fortziehen, keine Ruhe lassen, beunruhigen%}: {#ekaM tu mama dInasya mano BUyaH prakarzati . yadasyAhaM priyAKyAne na karomi sadfkpriyam ..#} 
-<ls>R. 5, 70, 11.</ls>
-
-<div n="p">— {#vipra#} {%wegführen, heimführen (?)%}: {#vidDena lakzyeRa hi viprakfzwA#} 
-<ls>MBH. 1, 7197.</ls> 
-<ls>WEST.</ls> : {%potiri, vincere(?%}). — {#viprakfzwa#} {%auseinandergezogen, weit, entfernt%} 
-<ls>H. 1452.</ls> {#viprakfzwe hyahaM deSe - avasam#} 
-<ls>R. 2, 75, 3.</ls> 
-<ls>SUŚR. 2, 199, 21.</ls> 
-<ls>ŚĀK. 5, 13.</ls> 
-<ls>PAÑCAT. 127, 17. 221, 2.</ls> 
-<ls>RAGH. 17, 45.</ls> {#viprakfzwAdAgata#} (compon.) {%aus der Ferne gekommen%} 
-<ls>Sch.</ls> zu <ls>P. 2, 1, 39. 6, 3, 2.</ls> {#aviprakfzwa#} {%nicht weit von einander entfernt, sich nahe stehend%} (dem Amte nach) 
-<ls>P. 2, 4, 5.</ls> {#aviprakfzwakAle#} 
-<ls>5, 4, 20.</ls> {#viprakfzwaka = viprakfzwa#} 
-<ls>AK. 3, 2, 18.</ls> 
+{# devamArgaM ca darSitAH#}
+<ls n="R.">5,63,11.</ls> {%in die Höhe ziehen%}, s. {#prakfzya#} .
+<div n="1">— 2) {%anführen%} (ein Heer): {#yaSca senAM prakarzati#}
+<ls>MBH. 1,5413.</ls> <ls n="MBH.">3,16272.</ls> <ls n="MBH. 3,">16274.</ls>
+<ls>R. 6,2,44.</ls>
+<div n="1">— 3) {%spannen%} (den Bogen): {#gARqIvaM ca prakarzataH#} (genet. des partic.)
+<ls>MBH. 4,1959.</ls>
+<div n="1">— 4) {%ausziehen, in die Länge ziehen%}, {#prakfzwa#} {%lang%}: {#gatvA prakfzwamaDvAnam#}
+<ls>N. 12,82.</ls> von der Zeit
+<ls>P. 5,1,108.</ls>
+<div n="1">— 5) {%hervorziehen, voranstellen%}; {#prakfzwa#} {%ausgezeichnet, vorzüglich; heftig, stark%}
+<ls>H. 1438.</ls> {#yadA prakfzwA manyeta sarvAstu prakftIrBfSam#}
+<ls>M. 7,170.</ls> {#prakfzwAH puRyataH kASca jYeyA nadyaH#}
+<ls>MBH. 13,1776.</ls>
+<ls>R. 3,21,19.</ls> <ls n="R.">5,53,24</ls> <ls n="R.">6,1,46.</ls>
+<ls>PAÑCAT. 191,16.</ls> {#prakfzwatara#}
+<ls n="PAÑCAT.">190,4.</ls> {#prakfzwatamakzutpipAsAdiduHKa#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 185,4.</ls> {#prakfzwavEra#} ebend.
+<ls n="BENF. Chr.">198,2.</ls>
+<div n="1">— 6) {%fortziehen, keine Ruhe lassen, beunruhigen%}: {#ekaM tu mama dInasya mano BUyaH prakarzati . yadasyAhaM priyAKyAne na karomi sadfkpriyam ..#}
+<ls>R. 5,70,11.</ls>
+<div n="p">— {#vipra#} {%wegführen, heimführen (?)%}: {#vidDena lakzyeRa hi viprakfzwA#}
+<ls>MBH. 1,7197.</ls>
+<ls>WEST.</ls> : {%potiri, vincere(?%}). — {#viprakfzwa#} {%auseinandergezogen, weit, entfernt%}
+<ls>H. 1452.</ls> {#viprakfzwe hyahaM deSe — avasam#}
+<ls>R. 2,75,3.</ls>
+<ls>SUŚR. 2,199,21.</ls>
+<ls>ŚĀK. 5,13.</ls>
+<ls>PAÑCAT. 127,17.</ls> <ls n="PAÑCAT.">221,2.</ls>
+<ls>RAGH. 17,45.</ls> {#viprakfzwAdAgata#} (compon.) {%aus der Ferne gekommen%}
+<ls>Sch.</ls> zu <ls>P. 2,1,39.</ls> <ls n="P.">6,3,2.</ls> {#aviprakfzwa#} {%nicht weit von einander entfernt, sich nahe stehend%} (dem Amte nach)
+<ls>P. 2,4,5.</ls> {#aviprakfzwakAle#}
+<ls n="P.">5,4,20.</ls> {#viprakfzwaka = viprakfzwa#}
+<ls>AK. 3,2,18.</ls>
 <div n="v">— Vgl. {#viprakarza#} .
-
-<div n="p">— {#prati#}, partic. {#pratikfzwa#} {%zurückgeschoben%} Citat in 
-<ls>YĀJÑIKAD. PADDH. zu KĀTY. ŚR. 2, 8.</ls> ({%zurückgewiesen) verachtet%} 
-<ls>AK. 3, 2, 3.</ls> 
-<ls>H. 1442.</ls> = {#guhya#} {%was man verbergen muss%} 
-<ls>H. an. 4, 63.</ls> 
-<ls>MED. ṭ. 63.</ls> Wohl nur fehlerhaft für {#garhya#}, wie 
-<ls>ŚKDR.</ls> u. {#pratikfzwa#} liest, mit Anführung von 
+<div n="p">— {#prati#}, partic. {#pratikfzwa#} {%zurückgeschoben%} Citat in
+<ls>YĀJÑIKAD. PADDH. zu KĀTY. ŚR. 2,8.</ls> ({%zurückgewiesen) verachtet%}
+<ls>AK. 3,2,3.</ls>
+<ls>H. 1442.</ls> = {#guhya#} {%was man verbergen muss%}
+<ls>H. an. 4,63.</ls>
+<ls>MED. ṭ. 63.</ls> Wohl nur fehlerhaft für {#garhya#}, wie
+<ls>ŚKDR.</ls> u. {#pratikfzwa#} liest, mit Anführung von
 <ls>MED.</ls>
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%auseinanderziehen, zerreissen; zerstören%}: {#ava^kABi\rvi ka^rzati#} 
-<ls>TS. 5, 4, 4, 3.</ls> 
-<ls>ŚAT. BR. 9, 1, 2, 20.</ls> {#vyenamakfkzaTAH#} 
-<ls>11, 7, 2, 2.</ls> {#yajYe vikfzwamanu vikrakzye#} 
-<ls>8, 4, 2.</ls> <ls>KĀTY. ŚR. 16, 8, 20.</ls> {#vikfzwa#} {%auseinandergezogen%} (von Lauten) 
-<ls>Ind. St. 1, 47.</ls> {#avikfzwa#} {%nicht auseinandergehalten%} 
-<ls>ṚV. PRĀT. 3, 18.</ls> 
-<div n="1">— 2) {%spannen%} (einen Bogen): {#vikfzya balavadDanuH#} 
-<ls>MBH. 3, 11956. 14331. 16127. 4, 1861. 1889.</ls> 
-<ls>R. 3, 34, 3. 38, 6. 7. 4, 30, 18. 6, 70, 35.</ls> 
-<ls>ŚĀK. 156.</ls> 
-<ls>RAGH. 11, 77.</ls> 
-<ls>BHĀG. P. 9, 10, 6.</ls> (den Pfeil mit der Bogensehne) {%anziehen%}: {#tataH SaraM tu nEzAdiraNgulIBirvyakarzata#} ({%mit den Fingern%} ohne den Daumen) 
-<ls>MBH. 1, 5268.</ls> {#vARamA karRAdvikfzya#} 
-<ls>R. 6, 70, 39.</ls> 
-<div n="1">— 3) {%erweitern%} 
-<ls>KĀTY. ŚR. 16, 8, 20.</ls> {#vikfzwa#} {%weit, lang%}: {#vikfzwena satA paTA#} 
-<ls>R. 2, 68, 21.</ls> {#grAmAnvikfzwAsImAntAn#} 
-<ls>49, 3.</ls> {#vikfzwaparvan#} 
-<ls>Ind. St. 2, 287.</ls> 
-<div n="1">— 4) {%hinundher ziehen, - schleppen, zausen, mit sich fortziehen%}: {#punarBImo balAdenaM vicakarza#} 
-<ls>MBH. 1, 6003. fg.</ls> 
-<ls>6288. 2, 2339. 3, 445. 522. 4, 761.</ls> <ls>DRAUP. 5, 22.</ls> <ls>R. 2, 78, 16. 3, 56, 48.</ls> <ls>BHĀG. P. 3, 3, 1.</ls> {#te vikfzwASca bAhuByAM devamArgaM ca darSitAH#} 
-<ls>R. 5, 61, 4. 6.</ls> {#latA vallISca vegena vikarzan#} 
-<ls>MBH. 3, 11107.</ls> {#hanUmAnmeGajAlAni vikarzanniva gacCati#} 
-<ls>R. 5, 55, 14.</ls> {#vikarzantI PenaM vasanamiva saMramBaSiTilam#} 
-<ls>VIKR. 115.</ls> {#yaTA vAyurjalaDarAnvikarzati tatastataH#} 
-<ls>MBH. 13, 51.</ls> 
-<ls>BHĀG. P. 4, 24, 65. 28, 25. 6, 1, 31.</ls> {%hinter sich her ziehen%}: {#vikarzanmahatIM senAM paryawasyaMSumAniva#} 
-<ls>3, 21, 53.</ls> 
-<div n="1">— 5) {%herausziehen%}: {#matsyAnvikfzya#} 
-<ls>BHARTṚ. 1, 84.</ls> {#etaM dinAni dvitrARi payo yuktyA vikfzya tat#} 
-<ls>RĀJA-TAR. 5, 90.</ls> 
-<div n="1">— 6) {%berauben%}: {#yaja^mAna\M vA e\tadvika^rzante\ yadA^hava\nIyA^tpaSu\Srapa^Ra\M hara^nti#} 
-<ls>TS. 3, 1, 3, 2.</ls> {#eza ha vAva kzattriyo 'vikfzwo yamevaMvido yAjayanti . aTa ha taM vyeva karzante yaTA ha vA idaM nizAdA vittamAdAya dravanti#} 
-<ls>AIT. BR. 8, 11.</ls> 
+<div n="p">— {#vi#}
+<div n="1"> 1) {%auseinanderziehen, zerreissen; zerstören%}: {#ava^kABi\rvi ka^rzati#}
+<ls>TS. 5,4,4,3.</ls>
+<ls>ŚAT. BR. 9,1,2,20.</ls> {#vyenamakfkzaTAH#}
+<ls n="ŚAT. BR.">11,7,2,2.</ls> {#yajYe vikfzwamanu vikrakzye#}
+<ls n="ŚAT. BR.">8,4,2.</ls> <ls>KĀTY. ŚR. 16,8,20.</ls> {#vikfzwa#} {%auseinandergezogen%} (von Lauten)
+<ls>Ind. St. 1,47.</ls> {#avikfzwa#} {%nicht auseinandergehalten%}
+<ls>ṚV. PRĀT. 3,18.</ls>
+<div n="1">— 2) {%spannen%} (einen Bogen): {#vikfzya balavadDanuH#}
+<ls>MBH. 3,11956.</ls> <ls n="MBH. 3,">14331.</ls> <ls n="MBH. 3,">16127.</ls> <ls n="MBH.">4,1861.</ls> <ls n="MBH. 4,">1889.</ls>
+<ls>R. 3,34,3.</ls> <ls n="R. 3,">38,6.</ls> <ls n="R. 3,38,">7.</ls> <ls n="R.">4,30,18.</ls> <ls n="R.">6,70,35.</ls>
+<ls>ŚĀK. 156.</ls>
+<ls>RAGH. 11,77.</ls>
+<ls>BHĀG. P. 9,10,6.</ls> (den Pfeil mit der Bogensehne) {%anziehen%}: {#tataH SaraM tu nEzAdiraNgulIBirvyakarzata#} ({%mit den Fingern%} ohne den Daumen)
+<ls>MBH. 1,5268.</ls> {#vARamA karRAdvikfzya#}
+<ls>R. 6,70,39.</ls>
+<div n="1">— 3) {%erweitern%}
+<ls>KĀTY. ŚR. 16,8,20.</ls> {#vikfzwa#} {%weit, lang%}: {#vikfzwena satA paTA#}
+<ls>R. 2,68,21.</ls> {#grAmAnvikfzwAsImAntAn#}
+<ls n="R. 2,">49,3.</ls> {#vikfzwaparvan#}
+<ls>Ind. St. 2,287.</ls>
+<div n="1">— 4) {%hinundher ziehen, — schleppen, zausen, mit sich fortziehen%}: {#punarBImo balAdenaM vicakarza#}
+<ls>MBH. 1,6003. fg.</ls>
+<ls n="MBH. 1,">6288.</ls> <ls n="MBH.">2,2339.</ls> <ls n="MBH.">3,445.</ls> <ls n="MBH. 3,">522.</ls> <ls n="MBH.">4,761.</ls> <ls>DRAUP. 5,22.</ls> <ls>R. 2,78,16.</ls> <ls n="R.">3,56,48.</ls> <ls>BHĀG. P. 3,3,1.</ls> {#te vikfzwASca bAhuByAM devamArgaM ca darSitAH#}
+<ls>R. 5,61,4.</ls> <ls n="R. 5,61,">6</ls> {#latA vallISca vegena vikarzan#}
+<ls>MBH. 3,11107.</ls> {#hanUmAnmeGajAlAni vikarzanniva gacCati#}
+<ls>R. 5,55,14.</ls> {#vikarzantI PenaM vasanamiva saMramBaSiTilam#}
+<ls>VIKR. 115.</ls> {#yaTA vAyurjalaDarAnvikarzati tatastataH#}
+<ls>MBH. 13,51.</ls>
+<ls>BHĀG. P. 4,24,65.</ls> <ls n="BHĀG. P. 4,">28,25.</ls> <ls n="BHĀG. P.">6,1,31.</ls> {%hinter sich her ziehen%}: {#vikarzanmahatIM senAM paryawasyaMSumAniva#}
+<ls n="BHĀG. P.">3,21,53.</ls>
+<div n="1">— 5) {%herausziehen%}: {#matsyAnvikfzya#}
+<ls>BHARTṚ. 1,84.</ls> {#etaM dinAni dvitrARi payo yuktyA vikfzya tat#}
+<ls>RĀJA-TAR. 5,90.</ls>
+<div n="1">— 6) {%berauben%}: {#yaja^mAna\M vA e\tadvika^rzante\ yadA^hava\nIyA^tpaSu\Srapa^Ra\M hara^nti#}
+<ls>TS. 3,1,3,2.</ls> {#eza ha vAva kzattriyo 'vikfzwo yamevaMvido yAjayanti . aTa ha taM vyeva karzante yaTA ha vA idaM nizAdA vittamAdAya dravanti#}
+<ls>AIT. BR. 8,11.</ls>
 <div n="1">— 7) {%zurückhalten, vorenthalten%}: {#kaccidbalasya BaktaM ca vetanaM ca yaTocitam #}
 [Page2-0148]
-{# . saMprAptakAle dAtavyaM dadAsi na vikarzasi ..#} 
-<ls>MBH. 2, 182.</ls>
-
-<div n="p">— {#sam#} 
-<div n="1"> 1) {%zusammenziehen, - schnüren, verengern%}: {#sa\Mkarza^ntI ka\rUka^ram#} 
-<ls>AV. 11, 9, 8.</ls> {#prA\RAntsaMka^rzet#} 
-<ls>TS. 6, 3, 1, 5.</ls> {#pakzapucCApyayezu caturaNgulaM caturaNgulaM saMkarzati vikarzatyante#} 
-<ls>KĀTY. ŚR. 16, 8, 20.</ls> {#saMkfzwa#} {%zusammengezogen%} (von Lauten) 
-<ls>Ind. St. 1, 47.</ls> {%nahe gerückt%} 
-<ls>KĀTY. ŚR. 18, 4, 18.</ls> 
-<div n="1">— 2) {%mit sich fortziehen, mit sich führen%}: {#kva cAsO puruzaH SyAmo yo 'sO mAM saMcakarza ha#} 
-<ls>MBH. 3, 16812.</ls> 
-<ls>R. 5, 63, 19.</ls> {#kowISatasahasrARi harIRAM samakarzata#} 
-<ls>MBH. 3, 16273.</ls>
+{# . saMprAptakAle dAtavyaM dadAsi na vikarzasi ..#}
+<ls>MBH. 2,182.</ls>
+<div n="p">— {#sam#}
+<div n="1"> 1) {%zusammenziehen, — schnüren, verengern%}: {#sa\Mkarza^ntI ka\rUka^ram#}
+<ls>AV. 11,9,8.</ls> {#prA\RAntsaMka^rzet#}
+<ls>TS. 6,3,1,5.</ls> {#pakzapucCApyayezu caturaNgulaM caturaNgulaM saMkarzati vikarzatyante#}
+<ls>KĀTY. ŚR. 16,8,20.</ls> {#saMkfzwa#} {%zusammengezogen%} (von Lauten)
+<ls>Ind. St. 1,47.</ls> {%nahe gerückt%}
+<ls>KĀTY. ŚR. 18,4,18.</ls>
+<div n="1">— 2) {%mit sich fortziehen, mit sich führen%}: {#kva cAsO puruzaH SyAmo yo 'sO mAM saMcakarza ha#}
+<ls>MBH. 3,16812.</ls>
+<ls>R. 5,63,19.</ls> {#kowISatasahasrARi harIRAM samakarzata#}
+<ls>MBH. 3,16273.</ls>
 <LEND>

@@ -1,3 +1,4 @@
-<L>40350<pc>233,3<k1>Ekzava<k2>Ekzava/<e>1
-<s>Ekzava/</s> ¦ <lex>mf(<s>I</s>)n.</lex> and <s>Ekzavya/</s> (<ab>fr.</ab> <s>ikzu</s>), made of or produced from the sugar-cane, <ls>TS. vi</ls>; <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Hcat.</ls><info lex="m:f#I:n"/>
+<L>40350<pc>233,2<k1>Ekzava<k2>Ekzava/<e>1
+<s>Ekzava/</s> and <s>Ekzavya^</s>, ¦ <lex>mf(<s>I</s>)n.</lex> (<ab>fr.</ab> <s>ikzu</s>), made of or produced from the sugar-cane, <ls>TS. vi</ls>; <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Hcat.</ls>
+<div n="P"/> (<s>am</s>),<lex>n.</lex> sugar, <ls>Suśr.</ls><info lex="n"/><info lex="m:f#I:n"/>
 <LEND>

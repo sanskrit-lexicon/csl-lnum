@@ -1,10 +1,10 @@
 <L>17728<pc>543<k1>prevail<k2>prevail
-<div n="lb"/>{@PREVAIL:@}¦ To prove the stronger: <div n="1">(1) {#aBi-#}
-<div n="lb"/>{#Bavati#} ({#BU,#} c. 1.: with acc.), <div n="xe">{%that insanities p.%}
-<div n="lb"/>{%over men like you:%}</div> <div n="xs">{#yadBavAdfSAH pramAdEraBiBUyante,#}</div> K.;</div>
-<div n="lb"/><div n="1">(2) {#atiricyate:#} v. To excel. </div><div n="I">II To be cur-
-<div n="lb"/>-rent: expr. by adj.: {#prabala#} (f. {#lA,#}), {#pracala#} (f. {#lA#}),
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#praBUta#}</div> (f. {#tA#}): v. Prevalent. </div><div n="I">III With
-<div n="lb"/>on, upon, or with, to persuade, induce:
-<div n="lb"/>q. v.: {#anunIya pravartayati#} (c. of {#vft#}).</div>
+{@PREVAIL:@}¦ To prove the stronger: <div n="1">(1) {#aBi-#}
+{#Bavati#} ({#BU,#} c. 1.: with acc.), <div n="xe">{%that insanities p.%}
+{%over men like you:%}</div> <div n="xs">{#yadBavAdfSAH pramAdEraBiBUyante,#}</div> K.;</div>
+<div n="1">(2) {#atiricyate:#} v. To excel. </div><div n="I">II To be cur-
+-rent: expr. by adj.: {#prabala#} (f. {#lA,#}), {#pracala#} (f. {#lA#}),
+<div n="xe">{%or%}</div> <div n="xs">{#praBUta#}</div> (f. {#tA#}): v. Prevalent. </div><div n="I">III With
+on, upon, or with, to persuade, induce:
+q. v.: {#anunIya pravartayati#} (c. of {#vft#}).</div>
 <LEND>

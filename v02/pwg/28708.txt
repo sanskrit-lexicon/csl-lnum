@@ -1,24 +1,24 @@
 <L>28708<pc>3-0235<k1>tanmAtra<k2>tanmAtra
-{#tanmAtra#}¦ ({#tad + mAtra#} oder {#mAtrA#}) 
-<div n="1"> 1) <lex>adj.</lex> 
-<div n="2"> a) {%nur so viel, so wenig%}; <lex>n.</lex> {%eine solche Kleinigkeit%} 
-<ls>DĀYABH. 151</ls>, ult. {#sUcyagreRApi yadBUmerapi DIyeta BArata . tanmAtraM cenmahyaM na dadAti purA ..#} 
-<ls>MBH. 9, 1806.</ls> 
-<ls>PAÑCAT. I, 284. 96, 6.</ls> {#tanmAtrAdeva kupitaH#} 
-<ls>KATHĀS. 5, 15.</ls> 
-<ls>RĀJA-TAR. 6, 1.</ls> 
-<div n="2">— b) {%aus den Atomen, dem Urstoff bestehend u.s.w.%}: {#BUtasargastftIyastu tanmAtro dravyaSaktimAn#} 
-<ls>BHĀG. P. 3, 10, 15.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%Atom, Urstoff; ein in sich noch ununterschiedenes feines Element, aus welchem ein in sich schon unterschiedenes gröberes Element hervorgeht%}: {#tanmAtrARyaviSezAsteByo BUtAni paYca paYcaByaH . ete smftA viSezAH SAntA GorASca mUQASca ..#} 
-<ls>SĀṂKHYAK. 38.</ls> {#ahaMkArAtpaYca tanmAtrARi, tanmAtreByaH sTUlaBUtAni#} 
-<ls>KAP. 1, 62. 63. 2, 17.</ls> 
-<ls>YĀJÑ. 3, 179.</ls> {#SabdatanmAtraM sparSa° rUpa° rasa° ganDa° ceti paYca tanmAtrARi#} 
-<ls>TATTVAS. 10.</ls> 
-<ls>VEDĀNTAS. (Allah.) No. 42.</ls> <ls>MBH. 1, 3613. 13, 793.</ls> <ls>BHĀG. P. 3, 26, 12.</ls> {#naBasaH SabdatanmAtrAt#} (adj.) 
-<ls>35.</ls> {#rUpatanmAtraM jyotiH#} 
-<ls>5, 33.</ls> {#viSvaM vE brahmatanmAtram#} 
-<ls>10, 12.</ls> Davon nom. abstr. {#tanmAtratA#} <lex>f.</lex> 
-<ls>VP. 17.</ls> 
-<ls>MĀRK. P. 45, 46.</ls> {#tanmAtratva#} <lex>n.</lex> 
-<ls>BHĀG. P. 3, 26, 33. 36.</ls>
+{#tanmAtra#}¦ ({#tad + mAtra#} oder {#mAtrA#})
+<div n="1"> 1) <lex>adj.</lex>
+<div n="2"> a) {%nur so viel, so wenig%}; <lex>n.</lex> {%eine solche Kleinigkeit%}
+<ls>DĀYABH. 151</ls>, ult. {#sUcyagreRApi yadBUmerapi DIyeta BArata . tanmAtraM cenmahyaM na dadAti purA ..#}
+<ls>MBH. 9,1806.</ls>
+<ls>PAÑCAT. I,284. 96,6.</ls> {#tanmAtrAdeva kupitaH#}
+<ls>KATHĀS. 5,15.</ls>
+<ls>RĀJA-TAR. 6,1.</ls>
+<div n="2">— b) {%aus den Atomen, dem Urstoff bestehend u.s.w.%}: {#BUtasargastftIyastu tanmAtro dravyaSaktimAn#}
+<ls>BHĀG. P. 3,10,15.</ls>
+<div n="1">— 2) <lex>n.</lex> {%Atom, Urstoff; ein in sich noch ununterschiedenes feines Element, aus welchem ein in sich schon unterschiedenes gröberes Element hervorgeht%}: {#tanmAtrARyaviSezAsteByo BUtAni paYca paYcaByaH . ete smftA viSezAH SAntA GorASca mUQASca ..#}
+<ls>SĀṂKHYAK. 38.</ls> {#ahaMkArAtpaYca tanmAtrARi, tanmAtreByaH sTUlaBUtAni#}
+<ls>KAP. 1,62. 63. 2,17.</ls>
+<ls>YĀJÑ. 3,179.</ls> {#SabdatanmAtraM sparSa° rUpa° rasa° ganDa° ceti paYca tanmAtrARi#}
+<ls>TATTVAS. 10.</ls>
+<ls>VEDĀNTAS. (Allah.) No. 42.</ls> <ls>MBH. 1,3613.</ls> <ls n="MBH.">13,793.</ls> <ls>BHĀG. P. 3,26,12.</ls> {#naBasaH SabdatanmAtrAt#} (adj.)
+<ls n="BHĀG. P. 3,26,">35.</ls> {#rUpatanmAtraM jyotiH#}
+<ls n="BHĀG. P. 3,">5,33.</ls> {#viSvaM vE brahmatanmAtram#}
+<ls n="BHĀG. P. 3,">10,12.</ls> Davon nom. abstr. {#tanmAtratA#} <lex>f.</lex>
+<ls>VP. 17.</ls>
+<ls>MĀRK. P. 45,46.</ls> {#tanmAtratva#} <lex>n.</lex>
+<ls>BHĀG. P. 3,26,33.</ls> <ls n="BHĀG. P. 3,26,">36.</ls>
 <LEND>

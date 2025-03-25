@@ -1,8 +1,8 @@
 <L>5652<pc>235<k1>intercourse<k2>intercourse
 {@Intercourse,@}¦ {%s.%} {#saMgaH, samAgamaH, saMgati#} {%f.,%}
-<div n="lb"/>{#saMsargaH, sagamaH, saMparkaH, sAhacaryaM, sAhityaM,#}
-<div n="lb"/>{#saMGawwanaM, anyonyasaMsargaH, AlApaH, saMvAdaH,#}
-<div n="lb"/>{#paricayaH;#} ‘semual i.’ {#mETunaM, ratikriyA,#}
-<div n="lb"/>{#surataM, strIBogaH;#} ‘social i.’ {#lokavyavahAraH-#}
-<div n="lb"/>{#-saMsargaH#}.
+{#saMsargaH, sagamaH, saMparkaH, sAhacaryaM, sAhityaM,#}
+{#saMGawwanaM, anyonyasaMsargaH, AlApaH, saMvAdaH,#}
+{#paricayaH;#} ‘semual i.’ {#mETunaM, ratikriyA,#}
+{#surataM, strIBogaH;#} ‘social i.’ {#lokavyavahAraH-#}
+{#-saMsargaH#}.
 <LEND>

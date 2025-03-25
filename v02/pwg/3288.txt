@@ -1,9 +1,9 @@
 <L>3288<pc>1-0246<k1>antarAla<k2>antarAla
-{#antarAla#}¦ ({#antar + Ala#}) <lex>n.</lex> {%Zwischenraum%} 
-<ls>AK. 1, 1, 2, 7.</ls> 
-<ls>P. 2, 2, 6.</ls> {#dakziRasyAH pUrvasyASca diSorantarAlaM dakziRapUrvA#} 
-<ls>Sch.</ls> {#pratimAnaM praticCAyAgajadantAntarAlayoH#} 
-<ls>TRIK. 3, 3, 246.</ls> {#antarAle#} {%unterweges%} 
-<ls>PAÑCAT. 55, 17. 238, 21.</ls> {#varRAnAM sAntarAlAnAm#} {%der Kasten mit den Zwischenkasten%} 
-<ls>M. 2, 18.</ls>
+{#antarAla#}¦ ({#antar + Ala#}) <lex>n.</lex> {%Zwischenraum%}
+<ls>AK. 1,1,2,7.</ls>
+<ls>P. 2,2,6.</ls> {#dakziRasyAH pUrvasyASca diSorantarAlaM dakziRapUrvA#}
+<ls>Sch.</ls> {#pratimAnaM praticCAyAgajadantAntarAlayoH#}
+<ls>TRIK. 3,3,246.</ls> {#antarAle#} {%unterweges%}
+<ls>PAÑCAT. 55,17.</ls> <ls n="PAÑCAT.">238,21.</ls> {#varRAnAM sAntarAlAnAm#} {%der Kasten mit den Zwischenkasten%}
+<ls>M. 2,18.</ls>
 <LEND>

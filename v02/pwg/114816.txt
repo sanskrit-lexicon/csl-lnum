@@ -1,240 +1,238 @@
 <L>114816<pc>7-1411<k1>sva<k2>sva/
-{#sva/#}¦ Declination <is>gaṇa</is> {#sarvAdi#} 
-zu <ls>P. 1, 1, 27. 35. 7, 1, 16.</ls> <ls>VOP. 3, 9. 12. 37.</ls> vor {#svA#} behält ein Femininum im comp. seinen Charakter 
-<ls>6, 13.</ls> <is>gaṇa</is> {#priyAdi#} 
-zu <ls>P. 6, 3, 34.</ls> 
-<div n="1"> 1) <lex>adj.</lex> (f. {#A) sva/smin#} 
-<ls>ṚV. 1, 132, 2.</ls> {#sva/syAs#} 
-<ls n="ṚV.">9, 79, 3.</ls> {%eigen (mein, dein sein%} u. s. w.: Gegens. {#araRa, para#}) 
-<ls>AK. 3, 4, 27, 213.</ls> 
-<ls>H. 562.</ls> 
-<ls>an. 1, 14.</ls> 
-<ls>MED. v. 2.</ls> {#pra svAM ma\tima^tarat#} 
-<ls>ṚV. 1, 33, 13.</ls> <ls n="ṚV. 1,">119, 8.</ls> {#vaDI^ vf\traM svena\ BAme^na#} 
-<ls n="ṚV. 1,">165, 8.</ls> {#svamoko^ a\Bi va^H syAma#} 
-<ls n="ṚV.">7, 56, 24.</ls> {#ta\nvaM1^\ tava\ svAm#} 
-<ls n="ṚV.">6, 11, 2.</ls> {#sIda^ hota\H sva u^ lo\ke#} 
-<ls n="ṚV.">3, 29, 8.</ls> {#sve dama\ A#} 
-<ls n="ṚV.">4, 2, 8.</ls> {#reja\dBUmi^rBi\yasA\ svasya^ ma\nyoH#} 
-<ls n="ṚV. 4,">17, 2.</ls> <ls n="ṚV.">7, 21, 6.</ls> {#na\hi svamAyu^Sciki\te jane^zu#} 
-<ls n="ṚV. 7,">23, 2.</ls> {#na sa svo dakza^H#} 
-<ls n="ṚV. 7,">86, 6.</ls> {#tanU#} 
-<ls n="ṚV.">8, 11, 10.</ls> {#saKA^#} 
-<ls n="ṚV. 8,">59, 11.</ls> {#panTA\M yaste\ svaH#} 
-<ls n="ṚV.">10, 18, 1.</ls> <ls n="ṚV. 10,">56, 2.</ls> {#varRa#} {%die eigene%} d. h. {%gewöhnliche Farbe%} 
-<ls>AV. 1, 23, 2.</ls> {#jana#} 
-<ls>5, 30, 2. 6, 43, 1. 49, 1. 142, 1. 7, 108, 1.</ls> {#gfha#} 
-<ls>14, 2, 19.</ls> {#pi\tara^H#} {%unsere%} 
-<ls>18, 2, 29.</ls> <ls>ŚAT. BR. 1, 4, 2, 17.</ls> {#devatA#} 
-<ls>13, 1, 2, 3. 14, 5, 1, 20.</ls> <ls>TS. 2, 1, 9, 1.</ls> {#antaHsTA#} 
-<ls>ṚV. PRĀT. 2, 8.</ls> <ls n="ṚV. PRĀT.">4, 1.</ls> <ls n="ṚV. PRĀT. 4,">3.</ls> <ls n="ṚV. PRĀT.">6, 1.</ls> <ls n="ṚV. PRĀT. 6,">6.</ls> {#yAvatsvam#} {%so weit sie ihm gehören%} 
-<ls>KĀTY.</ls><ls>ŚR. 4, 2, 28.</ls>
+{#sva/#}¦ Declination <is>gaṇa</is> {#sarvAdi#}
+zu <ls>P. 1,1,27.</ls> <ls n="P. 1,1,">35.</ls> <ls n="P.">7,1,16.</ls> <ls>VOP. 3,9.</ls> <ls n="VOP. 3,">12.</ls> <ls n="VOP. 3,">37.</ls> vor {#svA#} behält ein Femininum im comp. seinen Charakter
+<ls n="VOP.">6,13.</ls> <is>gaṇa</is> {#priyAdi#}
+zu <ls>P. 6,3,34.</ls>
+<div n="1"> 1) <lex>adj.</lex> (f. {#A) sva/smin#}
+<ls>ṚV. 1,132,2.</ls> {#sva/syAs#}
+<ls n="ṚV.">9,79,3.</ls> {%eigen (mein, dein sein%} u. s. w.: Gegens. {#araRa, para#})
+<ls>AK. 3,4,27,213.</ls>
+<ls>H. 562.</ls>
+<ls>an. 1,14.</ls>
+<ls>MED. v. 2.</ls> {#pra svAM ma\tima^tarat#}
+<ls>ṚV. 1,33,13.</ls> <ls n="ṚV. 1,">119,8.</ls> {#vaDI^ vf\traM svena\ BAme^na#}
+<ls n="ṚV. 1,">165,8.</ls> {#svamoko^ a\Bi va^H syAma#}
+<ls n="ṚV.">7,56,24.</ls> {#ta\nvaM1^\ tava\ svAm#}
+<ls n="ṚV.">6,11,2.</ls> {#sIda^ hota\H sva u^ lo\ke#}
+<ls n="ṚV.">3,29,8.</ls> {#sve dama\ A#}
+<ls n="ṚV.">4,2,8.</ls> {#reja\dBUmi^rBi\yasA\ svasya^ ma\nyoH#}
+<ls n="ṚV. 4,">17,2.</ls> <ls n="ṚV.">7,21,6.</ls> {#na\hi svamAyu^Sciki\te jane^zu#}
+<ls n="ṚV. 7,">23,2.</ls> {#na sa svo dakza^H#}
+<ls n="ṚV. 7,">86,6.</ls> {#tanU#}
+<ls n="ṚV.">8,11,10.</ls> {#saKA^#}
+<ls n="ṚV. 8,">59,11.</ls> {#panTA\M yaste\ svaH#}
+<ls n="ṚV.">10,18,1.</ls> <ls n="ṚV. 10,">56,2.</ls> {#varRa#} {%die eigene%} d. h. {%gewöhnliche Farbe%}
+<ls>AV. 1,23,2.</ls> {#jana#}
+<ls n="AV.">5,30,2.</ls> <ls n="AV.">6,43,1.</ls> <ls n="AV. 6,">49,1.</ls> <ls n="AV. 6,">142,1.</ls> <ls n="AV.">7,108,1.</ls> {#gfha#}
+<ls n="AV.">14,2,19.</ls> {#pi\tara^H#} {%unsere%}
+<ls n="AV.">18,2,29.</ls> <ls>ŚAT. BR. 1,4,2,17.</ls> {#devatA#}
+<ls n="ŚAT. BR.">13,1,2,3. 14,5,1,20.</ls> <ls>TS. 2,1,9,1.</ls> {#antaHsTA#}
+<ls>ṚV. PRĀT. 2,8.</ls> <ls n="ṚV. PRĀT.">4,1.</ls> <ls n="ṚV. PRĀT. 4,">3.</ls> <ls n="ṚV. PRĀT.">6,1.</ls> <ls n="ṚV. PRĀT. 6,">6.</ls> {#yAvatsvam#} {%so weit sie ihm gehören%}
+<ls>KĀTY. ŚR. 4,2,28.</ls>
 [Page7-1412]
-— Die Flexion und der Gebrauch des Wortes in der späteren Sprache ergiebt sich aus dem Folgenden. Es wird bezogen: 
-<div n="2"> a) auf eine 3te Person und zwar 
-<div n="3"> α) auf das grammatische Subject: {#svaM svaM caritraM SikzeranpfTivyAM sarvamAnavAH#} 
-<ls>M. 2, 20.</ls> {#prakftiM svAm#} 
-<ls>BHAG. 4, 6.</ls> 
-<ls>MBH. 3, 2111.</ls> {#gatAH svaM svaM gfhaM surAH#} 
-<ls>1845.</ls> <ls>R. 1, 1, 65. 58, 9.</ls> {#sUryApAye na Kalu kamalaM puzyati svAmaBiKyAm#} 
-<ls>MEGH. 78.</ls> 
-<ls>ŚĀK. 18. 131.</ls> {#svayEva praBayA dyotate#} 
-<ls>MBH. 3, 1746.</ls> {#svayodIritayA (= svayamudIritayA) svaSaktyA#} 
-<ls>BHĀG. P. 3, 8, 12.</ls> {#SarIrAtsvAt#} 
-<ls>M. 1, 8.</ls> {#amBasaH svasmAt#} 
-<ls>Spr. (II) 7017.</ls> {#svasya nAmnaH#} 
-<ls>M. 2, 124.</ls> {#mAtuH svasyAH#} 
-<ls>RAGH. 12, 13.</ls> {#sve sve 'ntare#} 
-<ls>M. 1, 63. 8, 42.</ls> {#svasminskanDe#} 
-<ls>R. GORR. 2, 37, 12.</ls> <ls>KATHĀS. 25, 294.</ls> <ls>RĀJA-TAR. 1, 18. 3, 265. 5, 48.</ls> {#svAH svAH prajAH#} 
-<ls>M. 1, 61.</ls> {#svAni karmARi#} 
-<ls>8, 42. 1, 30.</ls> {#svEH karmaBiH#} 
-<ls>4, 3.</ls> <ls>R. 1, 6, 6.</ls> {#sveByaH sveByastu karmaByaH#} 
-<ls>M. 12, 70.</ls> {#svezu karmasu#} 
-<ls>4, 155.</ls> am Anf. eines comp.: {#dIpyamAnaH svavapuzA devavaddivi modate#} 
-<ls>2, 232. 3, 45.</ls> {#svamAMsaM paramAMsena yo varDayitumicCati#} 
-<ls>5, 52. 9, 298.</ls> {#aravindAnAmAmodamupajiGrantO svaniHSvAsAnukAriRAm#} 
-<ls>RAGH. 1, 43. 2, 4.</ls> 
-<ls>ŚĀK. 8, 22.</ls> 
-<ls>Spr. (II) 6704.</ls> 
-<ls>KATHĀS. 103, 73.</ls> 
-<ls>HIT. 17, 4.</ls> 
-<ls>LA. (III) 8, 20. 11, 18. 36, 6.</ls> <ls>BHĀG. P. 1, 8, 13.</ls> 
-<div n="3">— β) auf das logische Subject (instr.): {#prakalpyA tasya tErvfttiH svakuwumbAt#} 
-<ls>M. 10, 124.</ls> {#payaH pUrvEH svaniHSvAsakavozRamupaBujyate#} 
-<ls>RAGH. 1, 67.</ls> {#rAjYA sa nIto 'BUtsvamandiram#} 
-<ls>KATHĀS. 18, 246. 249.</ls> 
-<ls>BHĀG. P. 3, 2, 12.</ls> 
-<div n="3">— γ) auf einen gen.: {#sve sve Darme nivizwAnAm#} 
-<ls>M. 7, 35.</ls> {#tezAM svaM svamaBiprAyamupalaBya pfTakpfTak#} 57. {#jIvantInAM tu tAsAM ye tadDareyuH svabAnDavAH#} 
-<ls>8, 29.</ls> {#tezAM dozAnaBiKyApya sve sve karmaRi tattvataH . kurvIta SAsanaM rAjA#} 
-<ls>9, 262.</ls> {#svaDiyo niScayo nAsti yasya#} 
-<ls>Spr. (II) 7280.</ls> {#svaSaktyA kurvataH karma#} (nom.) {#na cetsidDiM prayacCati#} 
-<ls>7327. 7340.</ls> {#svasuKaM nAsti sADvInAM tAsAM BartfsuKaM suKam#} 
-<ls>KATHĀS. 39, 53.</ls> {#tasyAH svapatiH#} 
-<ls>MĀRK. P. 16, 52.</ls> {#avasTitAnAmanuSAsane sve#} (d. i. {#ajasya) - ajasya#} 
-<ls>BHĀG. P. 3, 1, 45. 8, 26.</ls> {#svapatAM nidrayA svayA#} {%ein Schlaf, über den sie selbst verfügen%}, 
-<ls>Spr. (II) 908.</ls> 
-<div n="3">— δ) auf einen loc.: {#svagfhodyAnagate 'pi snigDe pApaM viSaNkate#} 
-<ls>Spr. (II) 7268.</ls> 
-<div n="3">— ε) auf einen acc.: {#AryarUpamivAnAryaM karmaBiH svErviBAvayet#} 
-<ls>M. 10, 57.</ls> {#BrAtaraM svapuraM prezayAmAsa#} 
-<ls>MBH. 3, 3055.</ls> {#cAturvarRyaM ca loke 'sminsve sve Darme niyokzyati#} 
-<ls>R. 1, 1, 92. 42, 1.</ls> 
-<ls>RAGH. 2, 70.</ls> {#taM svodantaM pfzwavAnnfpaH#} 
-<ls>RĀJA-TAR. 4, 278. 414.</ls> {#aTArjunaM sve#} (nom. pl.) {#parivArya sEnikAH - abruvan#} 
-<ls>MBH. 8, 708.</ls> {#vidUraTaM svaBAryA jaGAna#} 
-<ls>VARĀH. BṚH. S. 78, 1.</ls> 
-<ls>Spr. (II) 3191.</ls> 
-<div n="3">— ζ) auf das im comp. vorangehende Wort: {#sItAsvahastopahftAgryapUja#} 
-<ls>RAGH. 14, 19.</ls> 
-<div n="3">— η) auf ein zu ergänzendes allgemeines Subject: {#CAyA svA dAsavargaSca#} so v. a. {%die Schaar der Diener ist des Mannes Schatten%} 
-<ls>M. 4, 185.</ls> {#BrAtA svaH#} 
-<ls>Spr. (II) 873.</ls> {#svaM cetkarmaPalaM na syAt#} 
-<ls>MBH. 13, 313.</ls> {#svahastaDftadaRqamivAtapatram#} 
-<ls>1493.</ls> {#svagfhe pAtavyaH#} 
-<ls>6415.</ls> {#svaguRaM paradozaM ca vaktum#} 
-<ls>7266.</ls> {#aTa nAyikA triviDA svAnyA sADAraRastrIti#} 
-<ls>SĀH. D. 96.</ls> 
-<div n="2">— b) auf die 2te Person und zwar 
-<div n="3"> α) auf das grammatische Subject: {#padAni gaRayangacCa svAni#} 
-<ls>MBH. 3, 2618.</ls> {#BrAtaraM svaM praharzaya#} 
-<ls>R. 6, 37, 77.</ls> {#tvamapi svaM niyogamaSUnyaM kuru#} 
-<ls>ŚĀK. 24, 16. 81, 4.</ls> {#mAvamaMsTAH svamAtmAnam#} 
-<ls>Spr. (II) 922.</ls> 
-<ls>KATHĀS. 24, 181.</ls> {#svaSarIreRa svargaM gacCa#} 
-<ls>R. 1, 60, 13.</ls> 
-<ls>MEGH. 96.</ls> 
-<ls>Spr. (II) 7328.</ls> 
-<ls>ŚĀK. 112, 18.</ls> 
-<ls>KATHĀS. 41, 37.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 25, 22.</ls> 
-<div n="3">— β) auf das logische Subject (instr. oder zu ergänzen): {#bAliSastvaM naraSrezWa gamyatAM svapuram#} 
-<ls>R. 1, 58, 5.</ls> 
-<ls>VIKR. 27, 3.</ls> 
-<div n="3">— γ) auf einen gen.: {#svameva sTAnametatte#} 
-<ls>KATHĀS. 61, 120.</ls> {#kalpaM narakavAsaste kitavAsti svayAtakEH#}
+— Die Flexion und der Gebrauch des Wortes in der späteren Sprache ergiebt sich aus dem Folgenden. Es wird bezogen:
+<div n="2"> a) auf eine 3te Person und zwar
+<div n="3"> α) auf das grammatische Subject: {#svaM svaM caritraM SikzeranpfTivyAM sarvamAnavAH#}
+<ls>M. 2,20.</ls> {#prakftiM svAm#}
+<ls>BHAG. 4,6.</ls>
+<ls>MBH. 3,2111.</ls> {#gatAH svaM svaM gfhaM surAH#}
+<ls n="MBH. 3,">1845.</ls> <ls>R. 1,1,65.</ls> <ls n="R. 1,">58,9.</ls> {#sUryApAye na Kalu kamalaM puzyati svAmaBiKyAm#}
+<ls>MEGH. 78.</ls>
+<ls>ŚĀK. 18. 131.</ls> {#svayEva praBayA dyotate#}
+<ls>MBH. 3,1746.</ls> {#svayodIritayA#} (= {#svayamudIritayA) svaSaktyA#}
+<ls>BHĀG. P. 3,8,12.</ls> {#SarIrAtsvAt#}
+<ls>M. 1,8.</ls> {#amBasaH svasmAt#}
+<ls>Spr. (II) 7017.</ls> {#svasya nAmnaH#}
+<ls>M. 2,124.</ls> {#mAtuH svasyAH#}
+<ls>RAGH. 12,13.</ls> {#sve sve 'ntare#}
+<ls>M. 1,63.</ls> <ls n="M.">8,42.</ls> {#svasminskanDe#}
+<ls>R. GORR. 2,37,12.</ls> <ls>KATHĀS. 25,294.</ls> <ls>RĀJA-TAR. 1,18. 3,265. 5,48.</ls> {#svAH svAH prajAH#}
+<ls>M. 1,61.</ls> {#svAni karmARi#}
+<ls n="M.">8,42.</ls> <ls n="M.">1,30.</ls> {#svEH karmaBiH#}
+<ls n="M.">4,3.</ls> <ls>R. 1,6,6.</ls> {#sveByaH sveByastu karmaByaH#}
+<ls>M. 12,70.</ls> {#svezu karmasu#}
+<ls n="M.">4,155.</ls> am Anf. eines comp.: {#dIpyamAnaH svavapuzA devavaddivi modate#}
+<ls n="M.">2,232.</ls> <ls n="M.">3,45.</ls> {#svamAMsaM paramAMsena yo varDayitumicCati#}
+<ls n="M.">5,52.</ls> <ls n="M.">9,298.</ls> {#aravindAnAmAmodamupajiGrantO svaniHSvAsAnukAriRAm#}
+<ls>RAGH. 1,43.</ls> <ls n="RAGH.">2,4.</ls>
+<ls>ŚĀK. 8,22.</ls>
+<ls>Spr. (II) 6704.</ls>
+<ls>KATHĀS. 103,73.</ls>
+<ls>HIT. 17,4.</ls>
+<ls>LA. (III) 8,20. 11,18. 36,6.</ls> <ls>BHĀG. P. 1,8,13.</ls>
+<div n="3">— β) auf das logische Subject (instr.): {#prakalpyA tasya tErvfttiH svakuwumbAt#}
+<ls>M. 10,124.</ls> {#payaH pUrvEH svaniHSvAsakavozRamupaBujyate#}
+<ls>RAGH. 1,67.</ls> {#rAjYA sa nIto 'BUtsvamandiram#}
+<ls>KATHĀS. 18,246.</ls> <ls n="KATHĀS. 18,">249.</ls>
+<ls>BHĀG. P. 3,2,12.</ls>
+<div n="3">— γ) auf einen gen.: {#sve sve Darme nivizwAnAm#}
+<ls>M. 7,35.</ls> {#tezAM svaM svamaBiprAyamupalaBya pfTakpfTak#} 57. {#jIvantInAM tu tAsAM ye tadDareyuH svabAnDavAH#}
+<ls n="M.">8,29.</ls> {#tezAM dozAnaBiKyApya sve sve karmaRi tattvataH . kurvIta SAsanaM rAjA#}
+<ls n="M.">9,262.</ls> {#svaDiyo niScayo nAsti yasya#}
+<ls>Spr. (II) 7280.</ls> {#svaSaktyA kurvataH karma#} (nom.) {#na cetsidDiM prayacCati#}
+<ls n="Spr. (II)">7327. 7340.</ls> {#svasuKaM nAsti sADvInAM tAsAM BartfsuKaM suKam#}
+<ls>KATHĀS. 39,53.</ls> {#tasyAH svapatiH#}
+<ls>MĀRK. P. 16,52.</ls> {#avasTitAnAmanuSAsane sve#} (<ab>d. i.</ab> {#ajasya) — ajasya#}
+<ls>BHĀG. P. 3,1,45.</ls> <ls n="BHĀG. P. 3,">8,26.</ls> {#svapatAM nidrayA svayA#} {%ein Schlaf, über den sie selbst verfügen%},
+<ls>Spr. (II) 908.</ls>
+<div n="3">— δ) auf einen loc.: {#svagfhodyAnagate 'pi snigDe pApaM viSaNkate#}
+<ls>Spr. (II) 7268.</ls>
+<div n="3">— ε) auf einen acc.: {#AryarUpamivAnAryaM karmaBiH svErviBAvayet#}
+<ls>M. 10,57.</ls> {#BrAtaraM svapuraM prezayAmAsa#}
+<ls>MBH. 3,3055.</ls> {#cAturvarRyaM ca loke 'sminsve sve Darme niyokzyati#}
+<ls>R. 1,1,92.</ls> <ls n="R. 1,">42,1.</ls>
+<ls>RAGH. 2,70.</ls> {#taM svodantaM pfzwavAnnfpaH#}
+<ls>RĀJA-TAR. 4,278. 414.</ls> {#aTArjunaM sve#} (nom. pl.) {#parivArya sEnikAH — abruvan#}
+<ls>MBH. 8,708.</ls> {#vidUraTaM svaBAryA jaGAna#}
+<ls>VARĀH. BṚH. S. 78,1.</ls>
+<ls>Spr. (II) 3191.</ls>
+<div n="3">— ζ) auf das im comp. vorangehende Wort: {#sItAsvahastopahftAgryapUja#}
+<ls>RAGH. 14,19.</ls>
+<div n="3">— η) auf ein zu ergänzendes allgemeines Subject: {#CAyA svA dAsavargaSca#} so v. a. {%die Schaar der Diener ist des Mannes Schatten%}
+<ls>M. 4,185.</ls> {#BrAtA svaH#}
+<ls>Spr. (II) 873.</ls> {#svaM cetkarmaPalaM na syAt#}
+<ls>MBH. 13,313.</ls> {#svahastaDftadaRqamivAtapatram#}
+<ls n="MBH. 13,">1493.</ls> {#svagfhe pAtavyaH#}
+<ls n="MBH. 13,">6415.</ls> {#svaguRaM paradozaM ca vaktum#}
+<ls n="MBH. 13,">7266.</ls> {#aTa nAyikA triviDA svAnyA sADAraRastrIti#}
+<ls>SĀH. D. 96.</ls>
+<div n="2">— b) auf die 2te Person und zwar
+<div n="3"> α) auf das grammatische Subject: {#padAni gaRayangacCa svAni#}
+<ls>MBH. 3,2618.</ls> {#BrAtaraM svaM praharzaya#}
+<ls>R. 6,37,77.</ls> {#tvamapi svaM niyogamaSUnyaM kuru#}
+<ls>ŚĀK. 24,16.</ls> <ls n="ŚĀK.">81,4.</ls> {#mAvamaMsTAH svamAtmAnam#}
+<ls>Spr. (II) 922.</ls>
+<ls>KATHĀS. 24,181.</ls> {#svaSarIreRa svargaM gacCa#}
+<ls>R. 1,60,13.</ls>
+<ls>MEGH. 96.</ls>
+<ls>Spr. (II) 7328.</ls>
+<ls>ŚĀK. 112,18.</ls>
+<ls>KATHĀS. 41,37.</ls>
+<ls>VET. in LA. (III) 25,22.</ls>
+<div n="3">— β) auf das logische Subject (instr. oder zu ergänzen): {#bAliSastvaM naraSrezWa gamyatAM svapuram#}
+<ls>R. 1,58,5.</ls>
+<ls>VIKR. 27,3.</ls>
+<div n="3">— γ) auf einen gen.: {#svameva sTAnametatte#}
+<ls>KATHĀS. 61,120.</ls> {#kalpaM narakavAsaste kitavAsti svayAtakEH#}
 [Page7-1413]
-
-<ls>121, 189.</ls> 
-<div n="3">— δ) auf einen acc.: {#yena tvAM svASrayaM prApayAmi#} 
-<ls>PAÑCAT. 168, 5.</ls> 
-<div n="2">— c) auf die 1te Person und zwar 
-<div n="3"> α) auf das grammatische Subject: {#svamaMSaM vitarAmi te#} 
-<ls>MBH. 3, 3053.</ls> 
-<ls>R. 2, 79, 12.</ls> 
-<ls>KATHĀS. 18, 296. 35, 68.</ls> {#svena BartrA saha#} 
-<ls>43, 156.</ls> {#svabAhubalamASritya hanizye 'haM vAnarAn#} 
-<ls>MBH. 1, 5579.</ls> {#gacCeyaM svaSarIreRa devatAnAM parAM gatim#} 
-<ls>R. 1, 57, 11. 2, 74, 19.</ls> 
-<ls>KATHĀS. 25, 193. 71, 58.</ls> 
-<ls>PAÑCAT. 226, 14.</ls> 
-<ls>HIT. 11, 5. 18, 9.</ls> 
-<div n="3">— β) auf den Sprechenden, trotzdem, dass eine 2te imperat. vorangeht: {#grasizye Bakzayizye 'haM praviSa svodaraM prati#} 
-<ls>R. 5, 56, 16.</ls> {#ehi gacCAvo varDamAnapuraM priye . sA hi svA rAjaDAnI#} 
-<ls>KATHĀS. 39, 162. fg.</ls> 
-<div n="3">— γ) auf das logische Subject: {#mayA tvadya pravezwavyA svA tanUH#} 
-<ls>KATHĀS. 26, 105.</ls> {#svaSiro dattaM mayA#} 
-<ls>41, 47. 42, 76.</ls> {#seyaM svadehArpaRanizkrayeRa nyAyyA mayA mocayituM BavattaH#} 
-<ls>RAGH. 2, 55.</ls> 
-<div n="3">— δ) auf einen gen.: {#praviSa svodaraM mama#} 
-<ls>R. 5, 56, 25.</ls> {#svaM manastvadrataM mama#} 
-<ls>KATHĀS. 104, 59.</ls> {#vidyate cAvayoratra svahastaliKitaM miTaH#} 
-<ls>24, 189.</ls> 
-<div n="3">— ε) auf einen acc.: {#svanagarAya prasTitaM mAm#} 
-<ls>ŚĀK. 84, 11.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%ein Eigener, Angehöriger%}; pl. {%die Eigenen, Seinigen, Freunde%} (Gegens. {#anya, araRa, amitra, para#}) 
-<ls>P. 1, 1, 35.</ls> 
-<ls>VOP. 3, 9.</ls> 
-<ls>AK. 2, 6, 1, 34. 3, 4, 27, 213.</ls> 
-<ls>TRIK. 3, 3, 424.</ls> 
-<ls>H. 561.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {#pati\M BrAta^ra\mAtsvAn#} 
-<ls>AV. 11, 9, 8. 3, 19, 3. 7, 52, 1. 9, 2, 14. 10, 3, 8. 18, 2, 23.</ls> {#SrezWaH svAnAm#} 
-<ls>AIT. BR. 1, 5.</ls> 
-<ls>TS. 3, 2, 2, 2.</ls> 
-<ls>ŚAT. BR. 14, 8, 4, 1.</ls> 
-<ls>KĀṬH. 11, 3. 6.</ls> {#svo 'BiziYcati#} 
-<ls>ŚAT. BR. 5, 3, 5, 12.</ls> {#yo 'sya svo Bavati#} 
-<ls>4, 3, 1. 11. 1, 1, 4, 5.</ls> <ls>KAUṢ. UP. 4, 20.</ls> <ls>M. 2, 109.</ls> {#svaH paro 'pi vA#} 
-<ls>BHĀG. P. 6, 16, 10.</ls> {#mftaM svamiva bAnDavAH (anuSocanti)#} 
-<ls>MBH. 1, 4967.</ls> {#svena#} 
-<ls>RĀJA-TAR. 1, 114.</ls> {#nEva sve#} (gegen 
-<ls>P.</ls> und <ls>VOP.</ls>) {#na pare samAjananparasparam#} 
-<ls>MBH. 6, 4162.</ls> {#sve svAnpare svakIyAMSca nijaGnuH#} 
-<ls>7, 7608.</ls> {#pare 'pi svA#} (Conj. für {#sva) Bavanti#} 
-<ls>Spr. (II) 2341.</ls> {#svEH#} 
-<ls>1223.</ls> {#sveByo naH sumahadBayam#} 
-<ls>R. 4, 18, 16.</ls> {#svAnAm#} 
-<ls>BHĀG. P. 1, 8, 1. 2, 8, 5. 3, 15, 42. 4, 3, 19. 24, 44. 5, 8, 17. 9, 18, 29.</ls> {#svezu parezu ca#} 
-<ls>R. 1, 7, 10.</ls> 
-<ls>Spr. (II) 1657.</ls> {#svaBaya#} {%Gefahr von Seiten der Eigenen%} 
-<ls>VARĀH. BṚH. S. 95, 10.</ls> 
-<ls>Spr. (II) 6190.</ls> {%ein Mann der eigenen Kaste%}: {#na vipraM svezu tizWatsu mftaM SUdreRa nAyayet#} 
-<ls>M. 5, 104.</ls> {#svA#} {%ein Weib der eig. K.%} 
-<ls>KĀTY. ŚR. 18, 6, 28.</ls> 
-<ls>M. 3, 13. 9, 85. fg.</ls> 
-<div n="1">— 3) {%die eigene Person, das Selbst, das Ich%} (fungirt wie {#Atman#} als pron. reflex.); 
-m. <ls>AK. 3, 4, 27, 213.</ls> <ls>H. an.</ls> <ls>MED. n.</ls> <ls>TRIK.</ls> {#svaM ca brahma ca saMsAre muktO tu brahma kevalam#} 
-<ls>Spr. (II) 7276.</ls> {#yastUrRanABa iva tantuBiH praDAnajEH . svaBAvato deva ekaH svamAvfRot ..#} {%sich%} 
-<ls>ŚVETĀŚV. UP. 6, 10.</ls> {#laNkAsTaH svaM (= svIyaM deham#} Comm.) {#Darizyasi#} 
-<ls>R. 7,108,25.</ls> <ls>Spr. (II) 3724.</ls> <ls>NAIṢ. 1,31.6,95.</ls> <ls>RĀJA-TAR. 3,370. fg. 5,303.</ls> <ls>Verz. d. Oxf. H. 128,b,22.</ls> <ls>PRAB. 14,16.</ls> <ls>ŚATR. 2,21. 14,271.</ls> {#saMjAnIzva svam#} 
-<ls>VOP. 5, 13.</ls> voc. {#sva#} 
-<ls>NALOD. 3, 30.</ls> {#svena#} 
-<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 303, 4.</ls> {#ya\dAyu^kta\ tmanA\ svAdaDi\ zRuBi\rvi zpa^rDasaH#} {%von selbst, von sich aus%} 
-<ls>ṚV. 5, 87, 4.</ls> {#svasmAt#} 
-<ls>Spr. (II) 5734.</ls> {#svasya#} 
-<ls>?3774. 4719. 5934. 7332. R. 7, 37, 1, 43. RĀJA-TAR. 1, 139. 2, 23. 3, 439. 4, 280. 6, 207. SĀH. D. 11, 4. 15. BHĀG. P. 3, 2, 12. NĪLAK. 62. ŚATR. 14, 342. VEDĀNTAS. (Allah.) No. 81.</ls> {#nAsti naH sve vicAraRA#} 
-<ls>R. GORR. 1, 74, 22.</ls> {#ramataH sva AtmanaH#} 
-<ls>BHĀG. P. 5, 19, 5.</ls> {#svasminniva svaputre 'pi premadarSanAt#} 
-<ls>VEDĀNTAS. (Allah.) No. 81.</ls> {#pareRa svasmiMstAqite sati#} 
-<ls>Schol.</ls> zu <ls>PRAB. 75,</ls> <ls>Śl. 18.</ls> {#kawAhaH prasTaM svasminsamAveSayati#} 
-<ls>Schol.</ls> zu <ls>P. 5, 1, 52.</ls> zu <ls>BHĀG. P. 12, 4, 4.</ls> {#sEnikAH svAnyavartanta svAmiBaktiparANmuKAH#} {%kümmerten sich%} (nur) {%um sich%} 
-<ls>RĀJA-TAR. 4, 411.</ls> Häufig am Anfange eines comp. (auch in der ältesten Sprache, wie man aus den besonders aufgeführten Wörtern ersehen kann): {#°snehena#} 
-<ls>R. 6, 89, 11.</ls> <ls>WEBER, RĀMAT. UP. 295. 301.</ls> {#°BaraRavyApAramAtrodyatAH#}
+<ls n="KATHĀS.">121,189.</ls>
+<div n="3">— δ) auf einen acc.: {#yena tvAM svASrayaM prApayAmi#}
+<ls>PAÑCAT. 168,5.</ls>
+<div n="2">— c) auf die 1te Person und zwar
+<div n="3"> α) auf das grammatische Subject: {#svamaMSaM vitarAmi te#}
+<ls>MBH. 3,3053.</ls>
+<ls>R. 2,79,12.</ls>
+<ls>KATHĀS. 18,296.</ls> <ls n="KATHĀS.">35,68.</ls> {#svena BartrA saha#}
+<ls n="KATHĀS.">43,156.</ls> {#svabAhubalamASritya hanizye 'haM vAnarAn#}
+<ls>MBH. 1,5579.</ls> {#gacCeyaM svaSarIreRa devatAnAM parAM gatim#}
+<ls>R. 1,57,11.</ls> <ls n="R.">2,74,19.</ls>
+<ls>KATHĀS. 25,193.</ls> <ls n="KATHĀS.">71,58.</ls>
+<ls>PAÑCAT. 226,14.</ls>
+<ls>HIT. 11,5.</ls> <ls n="HIT.">18,9.</ls>
+<div n="3">— β) auf den Sprechenden, trotzdem, dass eine 2te imperat. vorangeht: {#grasizye Bakzayizye 'haM praviSa svodaraM prati#}
+<ls>R. 5,56,16.</ls> {#ehi gacCAvo varDamAnapuraM priye . sA hi svA rAjaDAnI#}
+<ls>KATHĀS. 39,162. fg.</ls>
+<div n="3">— γ) auf das logische Subject: {#mayA tvadya pravezwavyA svA tanUH#}
+<ls>KATHĀS. 26,105.</ls> {#svaSiro dattaM mayA#}
+<ls n="KATHĀS.">41,47.</ls> <ls n="KATHĀS.">42,76.</ls> {#seyaM svadehArpaRanizkrayeRa nyAyyA mayA mocayituM BavattaH#}
+<ls>RAGH. 2,55.</ls>
+<div n="3">— δ) auf einen gen.: {#praviSa svodaraM mama#}
+<ls>R. 5,56,25.</ls> {#svaM manastvadrataM mama#}
+<ls>KATHĀS. 104,59.</ls> {#vidyate cAvayoratra svahastaliKitaM miTaH#}
+<ls n="KATHĀS.">24,189.</ls>
+<div n="3">— ε) auf einen acc.: {#svanagarAya prasTitaM mAm#}
+<ls>ŚĀK. 84,11.</ls>
+<div n="1">— 2) <lex>m.</lex> {%ein Eigener, Angehöriger%}; pl. {%die Eigenen, Seinigen, Freunde%} (Gegens. {#anya, araRa, amitra, para#})
+<ls>P. 1,1,35.</ls>
+<ls>VOP. 3,9.</ls>
+<ls>AK. 2,6,1,34.</ls> <ls n="AK.">3,4,27,213.</ls>
+<ls>TRIK. 3,3,424.</ls>
+<ls>H. 561.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {#pati\M BrAta^ra\mAtsvAn#}
+<ls>AV. 11,9,8.</ls> <ls n="AV.">3,19,3.</ls> <ls n="AV.">7,52,1.</ls> <ls n="AV.">9,2,14.</ls> <ls n="AV.">10,3,8.</ls> <ls n="AV.">18,2,23.</ls> {#SrezWaH svAnAm#}
+<ls>AIT. BR. 1,5.</ls>
+<ls>TS. 3,2,2,2.</ls>
+<ls>ŚAT. BR. 14,8,4,1.</ls>
+<ls>KĀṬH. 11,3. 6.</ls> {#svo 'BiziYcati#}
+<ls>ŚAT. BR. 5,3,5,12.</ls> {#yo 'sya svo Bavati#}
+<ls n="ŚAT. BR.">4,3,1. 11. 1,1,4,5.</ls> <ls>KAUṢ. UP. 4,20.</ls> <ls>M. 2,109.</ls> {#svaH paro 'pi vA#}
+<ls>BHĀG. P. 6,16,10.</ls> {#mftaM svamiva bAnDavAH (anuSocanti)#}
+<ls>MBH. 1,4967.</ls> {#svena#}
+<ls>RĀJA-TAR. 1,114.</ls> {#nEva sve#} (gegen
+<ls>P.</ls> und <ls>VOP.</ls>) {#na pare samAjananparasparam#}
+<ls>MBH. 6,4162.</ls> {#sve svAnpare svakIyAMSca nijaGnuH#}
+<ls n="MBH.">7,7608.</ls> {#pare 'pi svA#} (Conj. für {#sva) Bavanti#}
+<ls>Spr. (II) 2341.</ls> {#svEH#}
+<ls n="Spr. (II)">1223.</ls> {#sveByo naH sumahadBayam#}
+<ls>R. 4,18,16.</ls> {#svAnAm#}
+<ls>BHĀG. P. 1,8,1.</ls> <ls n="BHĀG. P.">2,8,5.</ls> <ls n="BHĀG. P.">3,15,42.</ls> <ls n="BHĀG. P.">4,3,19.</ls> <ls n="BHĀG. P. 4,">24,44.</ls> <ls n="BHĀG. P.">5,8,17.</ls> <ls n="BHĀG. P.">9,18,29.</ls> {#svezu parezu ca#}
+<ls>R. 1,7,10.</ls>
+<ls>Spr. (II) 1657.</ls> {#svaBaya#} {%Gefahr von Seiten der Eigenen%}
+<ls>VARĀH. BṚH. S. 95,10.</ls>
+<ls>Spr. (II) 6190.</ls> {%ein Mann der eigenen Kaste%}: {#na vipraM svezu tizWatsu mftaM SUdreRa nAyayet#}
+<ls>M. 5,104.</ls> {#svA#} {%ein Weib der eig. K.%}
+<ls>KĀTY. ŚR. 18,6,28.</ls>
+<ls>M. 3,13.</ls> <ls n="M.">9,85. fg.</ls>
+<div n="1">— 3) {%die eigene Person, das Selbst, das Ich%} (fungirt wie {#Atman#} als pron. reflex.);
+m. <ls>AK. 3,4,27,213.</ls> <ls>H. an.</ls> <ls>MED. n.</ls> <ls>TRIK.</ls> {#svaM ca brahma ca saMsAre muktO tu brahma kevalam#}
+<ls>Spr. (II) 7276.</ls> {#yastUrRanABa iva tantuBiH praDAnajEH . svaBAvato deva ekaH svamAvfRot ..#} {%sich%}
+<ls>ŚVETĀŚV. UP. 6,10.</ls> {#laNkAsTaH svaM (= svIyaM deham#} Comm.) {#Darizyasi#}
+<ls>R. 7,108,25.</ls> <ls>Spr. (II) 3724.</ls> <ls>NAIṢ. 1,31. 6,95.</ls> <ls>RĀJA-TAR. 3,370. fg. 5,303.</ls> <ls>Verz. d. Oxf. H. 128,b,22.</ls> <ls>PRAB. 14,16.</ls> <ls>ŚATR. 2,21. 14,271.</ls> {#saMjAnIzva svam#}
+<ls>VOP. 5,13.</ls> voc. {#sva#}
+<ls>NALOD. 3,30.</ls> {#svena#}
+<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 303,4.</ls> {#ya\dAyu^kta\ tmanA\ svAdaDi\ zRuBi\rvi zpa^rDasaH#} {%von selbst, von sich aus%}
+<ls>ṚV. 5,87,4.</ls> {#svasmAt#}
+<ls>Spr. (II) 5734.</ls> {#svasya#}
+<ls n="Spr. (II)">3774. 4719. 5934. 7332.</ls> <ls>R. 7,37,1,43.</ls> <ls>RĀJA-TAR. 1,139. 2,23. 3,439. 4,280. 6,207.</ls> <ls>SĀH. D. 11,4. 15.</ls> <ls>BHĀG. P. 3,2,12.</ls> <ls>NĪLAK. 62.</ls> <ls>ŚATR. 14,342.</ls> <ls>VEDĀNTAS. (Allah.) No. 81.</ls> {#nAsti naH sve vicAraRA#}
+<ls>R. GORR. 1,74,22.</ls> {#ramataH sva AtmanaH#}
+<ls>BHĀG. P. 5,19,5.</ls> {#svasminniva svaputre 'pi premadarSanAt#}
+<ls>VEDĀNTAS. (Allah.) No. 81.</ls> {#pareRa svasmiMstAqite sati#}
+<ls>Schol.</ls> zu <ls>PRAB. 75, Śl. 18.</ls> {#kawAhaH prasTaM svasminsamAveSayati#}
+<ls>Schol.</ls> zu <ls>P. 5,1,52.</ls> zu <ls>BHĀG. P. 12,4,4.</ls> {#sEnikAH svAnyavartanta svAmiBaktiparANmuKAH#} {%kümmerten sich%} (nur) {%um sich%}
+<ls>RĀJA-TAR. 4,411.</ls> Häufig am Anfange eines comp. (auch in der ältesten Sprache, wie man aus den besonders aufgeführten Wörtern ersehen kann): {#°snehena#}
+<ls>R. 6,89,11.</ls> <ls>WEBER, RĀMAT. UP. 295. 301.</ls> {#°BaraRavyApAramAtrodyatAH#}
 [Page7-1414]
-
-<ls>Spr. (II) 2032.</ls> {#svAnuBUtyekamAna#} 
-<ls>2789.</ls> {#°lakzaRaM tu yo veda#} 
-<ls>4986. 7276.</ls> {#°parapratAraka#} 
-<ls>7285.</ls> {#svApakarzaM parotkarzaM dUtoktErmanyate tu kaH#} 
-<ls>7339.</ls> {#°parAntaram#} 
-<ls>KATHĀS. 34, 198. 102, 145.</ls> {#°pozaRapara#} 
-<ls>MĀRK. P. 14, 69.</ls> {#°smftiklaptaye#} 
-<ls>RĀJA-TAR. 5, 463.</ls> 
-<ls>BHĀG. P. 9, 10, 30. 10, 38, 15. 11, 25, 2.</ls> 
-<ls>SĀH. D. 11, 2. 57.</ls> {#svanistaraRASaktO#} 
-<ls>KULL.</ls> zu <ls>M. 8, 350.</ls> 
-<div n="1">— 4) <lex>n.</lex> (nach den Lexicographen auch m.) {%das Eigene, Eigenthum, Besitz%} 
-<ls>AK.</ls> <ls>TRIK.</ls> <ls>H. 192.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1, 80.</ls> {#Dru\vama^sya\ yatsvam#} 
-<ls>ṚV. 7, 82, 6.</ls> {#yadDe\va kiM ca\ yaja^mAnasya\ svam#} 
-<ls>TS. 1, 5, 9, 1.</ls> {#puru^zasya#} 
-<ls>TBR. 1, 3, 7, 4.</ls> 
-<ls>AV. 6, 107, 1.</ls> {#tadA^hu\ svasya\ gopa^nam#} 
-<ls>12, 4, 10.</ls> <ls>ŚAT. BR. 5, 3, 1, 1.</ls> <ls>TS. 3, 1, 2, 3. 4.</ls> <ls>P. 6, 2, 17.</ls> {#sarvaM svaM brAhmaRasyedaM yatkiMcijjagatIgatam#} 
-<ls>M. 1, 100.</ls> {#svameva brAhmaRo BuNkte svaM vaste svaM dadAti sa#} 
-<ls>101.</ls> {#svAdAna#} 
-<ls>8, 172.</ls> {#parasya#} 
-<ls>197.</ls> {#nahi tasyAsti kiMcitsvam#} 
-<ls>417.</ls> <ls>YĀJÑ. 2, 175.</ls> <ls>MBH. 4, 1602</ls> ({#Danam#} ed. Bomb.). 
-<ls>Spr. (II) 3640. 4849, v. l. 7284.</ls> {#°vinASa#} 
-<ls>VARĀH. BṚH. S. 79, 23.</ls> {#°vijaya#} 
-<ls>BHĀG. P. 4, 23, 4.</ls> 
-<ls>H. 3. 76. 157.</ls> {#rAja°, Srotriya°#} 
-<ls>M. 8, 149.</ls> {#brAhmaRa°#} 
-<ls>11, 18. 126.</ls> {#deva°, asura°#} 
-<ls>20. 26. 12, 60.</ls> <ls>YĀJÑ. 3, 212.</ls> <ls>MBH. 3, 15967.</ls> <ls>MṚCCH. 61, 3.</ls> <ls>Spr. (II) 2945.</ls> <ls>KATHĀS. 33, 154.</ls> {#para°#} (s. auch bes.) 
-<ls>R. 1, 6, 11.</ls> 
-<ls>Spr. (II) 247</ls> <ls>?(pl.). 7367 (pl.).</ls> am Ende eines <lex>adj.</lex> comp. (f. {#A): hfta°#} 
-<ls>VARĀH. BṚH. S. 104, 19.</ls> 
-<ls>KATHĀS. 22, 62. 36, 74. 58, 23.</ls> 
-<ls>BHĀG. P. 5, 13, 7.</ls> 
-<div n="1">— 5) <lex>n.</lex> Bez. {%des 2ten astrol. Hauses%} (=  {#arTa#}) 
-<ls>VARĀH. BṚH. 1, 16. 4, 4. 5, 3. 9, 1.</ls> 
-<ls>LAGHUJ. 2, 11.</ls> 
-<div n="1">— 6) <lex>n.</lex> (in Algebra) {%plus, or affirmative quantity%} 
-<ls>WILSON.</ls> 
-<div n="v">— Vgl. {#niH°, para°, pratisvam, brahma°, yaTA°#} (adv. auch 
-<ls>TS. PRĀT. 24, 4</ls>), {#sarva°#} und {#sOva#} .
+<ls>Spr. (II) 2032.</ls> {#svAnuBUtyekamAna#}
+<ls n="Spr. (II)">2789.</ls> {#°lakzaRaM tu yo veda#}
+<ls n="Spr. (II)">4986. 7276.</ls> {#°parapratAraka#}
+<ls n="Spr. (II)">7285.</ls> {#svApakarzaM parotkarzaM dUtoktErmanyate tu kaH#}
+<ls n="Spr. (II)">7339.</ls> {#°parAntaram#}
+<ls>KATHĀS. 34,198.</ls> <ls n="KATHĀS.">102,145.</ls> {#°pozaRapara#}
+<ls>MĀRK. P. 14,69.</ls> {#°smftiklaptaye#}
+<ls>RĀJA-TAR. 5,463.</ls>
+<ls>BHĀG. P. 9,10,30.</ls> <ls n="BHĀG. P.">10,38,15.</ls> <ls n="BHĀG. P.">11,25,2.</ls>
+<ls>SĀH. D. 11,2. 57.</ls> {#svanistaraRASaktO#}
+<ls>KULL.</ls> zu <ls>M. 8,350.</ls>
+<div n="1">— 4) <lex>n.</lex> (nach den Lexicographen auch m.) {%das Eigene, Eigenthum, Besitz%}
+<ls>AK.</ls> <ls>TRIK.</ls> <ls>H. 192.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1,80.</ls> {#Dru\vama^sya\ yatsvam#}
+<ls>ṚV. 7,82,6.</ls> {#yadDe\va kiM ca\ yaja^mAnasya\ svam#}
+<ls>TS. 1,5,9,1.</ls> {#puru^zasya#}
+<ls>TBR. 1,3,7,4.</ls>
+<ls>AV. 6,107,1.</ls> {#tadA^hu\ svasya\ gopa^nam#}
+<ls n="AV.">12,4,10.</ls> <ls>ŚAT. BR. 5,3,1,1.</ls> <ls>TS. 3,1,2,3. 4.</ls> <ls>P. 6,2,17.</ls> {#sarvaM svaM brAhmaRasyedaM yatkiMcijjagatIgatam#}
+<ls>M. 1,100.</ls> {#svameva brAhmaRo BuNkte svaM vaste svaM dadAti sa#}
+<ls n="M. 1,">101.</ls> {#svAdAna#}
+<ls n="M.">8,172.</ls> {#parasya#}
+<ls n="M. 8,">197.</ls> {#nahi tasyAsti kiMcitsvam#}
+<ls n="M. 8,">417.</ls> <ls>YĀJÑ. 2,175.</ls> <ls>MBH. 4,1602</ls> ({#Danam#} <ls>ed. Bomb.</ls>).
+<ls>Spr. (II) 3640.</ls> <ls n="Spr. (II)">4849, v. l.</ls> <ls n="Spr. (II)">7284.</ls> {#°vinASa#}
+<ls>VARĀH. BṚH. S. 79,23.</ls> {#°vijaya#}
+<ls>BHĀG. P. 4,23,4.</ls>
+<ls>H. 3.</ls> <ls n="H.">76.</ls> <ls n="H.">157.</ls> {#rAja°, Srotriya°#}
+<ls>M. 8,149.</ls> {#brAhmaRa°#}
+<ls n="M.">11,18.</ls> <ls n="M. 11,">126.</ls> {#deva°, asura°#}
+<ls n="M. 11,">20.</ls> <ls n="M. 11,">26.</ls> <ls n="M.">12,60.</ls> <ls>YĀJÑ. 3,212.</ls> <ls>MBH. 3,15967.</ls> <ls>MṚCCH. 61,3.</ls> <ls>Spr. (II) 2945.</ls> <ls>KATHĀS. 33,154.</ls> {#para°#} (s. auch bes.)
+<ls>R. 1,6,11.</ls>
+<ls>Spr. (II) 247</ls> (pl.). <ls n="Spr. (II)">7367</ls> (pl.). am Ende eines <lex>adj.</lex> comp. (f. {#A): hfta°#}
+<ls>VARĀH. BṚH. S. 104,19.</ls>
+<ls>KATHĀS. 22,62.</ls> <ls n="KATHĀS.">36,74.</ls> <ls n="KATHĀS.">58,23.</ls>
+<ls>BHĀG. P. 5,13,7.</ls>
+<div n="1">— 5) <lex>n.</lex> Bez. {%des 2ten astrol. Hauses%} (= {#arTa#})
+<ls>VARĀH. BṚH. 1,16. 4,4. 5,3. 9,1.</ls>
+<ls>LAGHUJ. 2,11.</ls>
+<div n="1">— 6) <lex>n.</lex> (in Algebra) {%plus, or affirmative quantity%}
+<ls>WILSON.</ls>
+<div n="v">— Vgl. {#niH°, para°, pratisvam, brahma°, yaTA°#} (adv. auch
+<ls>TS. PRĀT. 24,4</ls>), {#sarva°#} und {#sOva#} .
 <LEND>

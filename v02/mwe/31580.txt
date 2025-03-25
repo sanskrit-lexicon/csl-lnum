@@ -1,27 +1,27 @@
 <L>31580<pc>845-b<k1>world<k2>world
-<div n="lb"/>WORLD¦, {%s.%} (Universe) {#jagat#} {%n.,%} {#jagatI, lokaH, carAcaraM,#} {%see%} UNIVERSE.
-<div n="lb"/> — (The earth) {#lokaH, BuvanaM, pfTivI, BUH#} {%f.,%} {#BavaH, BUlokaH, BUgolaH,#}
-<div n="lb"/>{#jagat#} {%n.,%} {#jIvADAraH, jIvAjIvADAraH, vizwapaM, pizwapaM;#} ‘creator of
-<div n="lb"/>the world,’ {#jagatsrazwA#} {%m.%} ({#zwf#}); ‘destruction of the world,’
-<div n="lb"/>{#jagatkzayaH, jagadvinASaH;#} ‘destroyer of it,’ {#jagadGAtI#} {%m.;%} ‘end
-<div n="lb"/>of the world,’ {#jagadantaH, kalpaH, BavavItiH#} {%f.;%} ‘to the end of
-<div n="lb"/>the world,’ {#AkalpAt;#} ‘ends of the world,’ {#digantAH#} {%m. pl.;%}
-<div n="lb"/>‘the three worlds,’ {#triBuvanaM, trElokyaM, lokatrayaM, BuvanatrayaM, jagattrayaM;#}
-<div n="lb"/>‘soul of the world,’ {#jagadAtmA#} {%m.,%} {#lokAtmA#} {%m.%} — (Mundane
-<div n="lb"/>existence) {#saMsAraH, saMsaraRaM, saMsftiH#} {%f.,%} {#ihalokavAsaH, BUlokavAsaH,#}
-<div n="lb"/>{#jagannivAsaH, prapaYcaH, kazwakArakaH, saMsAramArgaH, saMsAracakraM, saMmArAvarttaH,#}
-<div n="lb"/>{#mohAspadaM, mAyAcakraM, mAyAjAlaM, vizayajAlaM, lokayAtrA, pravfttimArgaH;#}
-<div n="lb"/>‘this world,’ {#ihalokaH;#} ‘the next world,’ {#paralokaH, lokAntaraM,#}
-<div n="lb"/>{#pretalokaH;#} ‘the world above,’ {#UrdDvalokaH;#} ‘belonging to this
-<div n="lb"/>world,’ {#EhalOkikaH -kI -kaM, EhikaH#} &c.; ‘belonging to the
-<div n="lb"/>next world,’ {#pAralOkikaH -kI -kaM, pAratrikaH#} &c., {#AmuzmikaH#} &c.;
-<div n="lb"/>‘in this world,’ {#iha, ihaloke;#} ‘in the next world,’ {#paratra,#}
-<div n="lb"/>{#amutra, pretya;#} ‘renunciation of the world,’ {#sannyasanaM, sarvvasaNgapari-#}
-<div n="lb"/>{#tyAgaH;#} ‘one who renounces it,’ {#sannyAsI#} {%m.%} ({#n#}); ‘deadness
-<div n="lb"/>to the world,’ {#vErAgyaM, vizayaviraktiH#} {%f.;%} ‘sick of the world,’
-<div n="lb"/>{#BavarogI -giRI#} &c., {#BavArttaH -rttA -rttaM;#} ‘snares of the world,’
-<div n="lb"/>{#mohajAlaM, mAyAjAlaM, mohapASaH#}. — (Mankind) {#lokaH, lokAH#} {%m. pl.,%}
-<div n="lb"/>{#jIvalokaH, janAH#} {%m. pl.;%} ‘fear of the world,’ {#lokalajjA#} — 
-<div n="lb"/>(Customs of men) {#lokamArgaH, lokarItiH#} {%f.,%} {#lokapracAraH, janarI-#}
-<div n="lb"/>{#tiH#} {%f.,%} {#janapracAraH,#} ‘one who has seen the world,’ {#bahudfzwaH#}.
+WORLD¦, {%s.%} (Universe) {#jagat#} {%n.,%} {#jagatI, lokaH, carAcaraM,#} {%see%} UNIVERSE.
+ — (The earth) {#lokaH, BuvanaM, pfTivI, BUH#} {%f.,%} {#BavaH, BUlokaH, BUgolaH,#}
+{#jagat#} {%n.,%} {#jIvADAraH, jIvAjIvADAraH, vizwapaM, pizwapaM;#} ‘creator of
+the world,’ {#jagatsrazwA#} {%m.%} ({#zwf#}); ‘destruction of the world,’
+{#jagatkzayaH, jagadvinASaH;#} ‘destroyer of it,’ {#jagadGAtI#} {%m.;%} ‘end
+of the world,’ {#jagadantaH, kalpaH, BavavItiH#} {%f.;%} ‘to the end of
+the world,’ {#AkalpAt;#} ‘ends of the world,’ {#digantAH#} {%m. pl.;%}
+‘the three worlds,’ {#triBuvanaM, trElokyaM, lokatrayaM, BuvanatrayaM, jagattrayaM;#}
+‘soul of the world,’ {#jagadAtmA#} {%m.,%} {#lokAtmA#} {%m.%} — (Mundane
+existence) {#saMsAraH, saMsaraRaM, saMsftiH#} {%f.,%} {#ihalokavAsaH, BUlokavAsaH,#}
+{#jagannivAsaH, prapaYcaH, kazwakArakaH, saMsAramArgaH, saMsAracakraM, saMmArAvarttaH,#}
+{#mohAspadaM, mAyAcakraM, mAyAjAlaM, vizayajAlaM, lokayAtrA, pravfttimArgaH;#}
+‘this world,’ {#ihalokaH;#} ‘the next world,’ {#paralokaH, lokAntaraM,#}
+{#pretalokaH;#} ‘the world above,’ {#UrdDvalokaH;#} ‘belonging to this
+world,’ {#EhalOkikaH -kI -kaM, EhikaH#} &c.; ‘belonging to the
+next world,’ {#pAralOkikaH -kI -kaM, pAratrikaH#} &c., {#AmuzmikaH#} &c.;
+‘in this world,’ {#iha, ihaloke;#} ‘in the next world,’ {#paratra,#}
+{#amutra, pretya;#} ‘renunciation of the world,’ {#sannyasanaM, sarvvasaNgapari-#}
+{#tyAgaH;#} ‘one who renounces it,’ {#sannyAsI#} {%m.%} ({#n#}); ‘deadness
+to the world,’ {#vErAgyaM, vizayaviraktiH#} {%f.;%} ‘sick of the world,’
+{#BavarogI -giRI#} &c., {#BavArttaH -rttA -rttaM;#} ‘snares of the world,’
+{#mohajAlaM, mAyAjAlaM, mohapASaH#}. — (Mankind) {#lokaH, lokAH#} {%m. pl.,%}
+{#jIvalokaH, janAH#} {%m. pl.;%} ‘fear of the world,’ {#lokalajjA#} — 
+(Customs of men) {#lokamArgaH, lokarItiH#} {%f.,%} {#lokapracAraH, janarI-#}
+{#tiH#} {%f.,%} {#janapracAraH,#} ‘one who has seen the world,’ {#bahudfzwaH#}.
 <LEND>

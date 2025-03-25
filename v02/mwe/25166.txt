@@ -1,5 +1,5 @@
 <L>25166<pc>680-a<k1>reptile<k2>reptile
-<div n="lb"/>REPTILE¦, {%s.%} {#uragaH, urogAmI#} {%m.%} {#(n), urogaH, urogamaH, uraNgaH, uraNgamaH,#}
-<div n="lb"/>{#sarpaH, sarIsfpaH, sarpI#} {%m.%} {#(n), kfmiH#} {%m.,%} {#vilavAsI#} {%m.%} {#(n), vile-#}
-<div n="lb"/>{#vAsA#} {%m.,%} {#vilOkAH#} {%m.%} {#(s), apadaH, apAdaH, bahupAdaH#}.
+REPTILE¦, {%s.%} {#uragaH, urogAmI#} {%m.%} {#(n), urogaH, urogamaH, uraNgaH, uraNgamaH,#}
+{#sarpaH, sarIsfpaH, sarpI#} {%m.%} {#(n), kfmiH#} {%m.,%} {#vilavAsI#} {%m.%} {#(n), vile-#}
+{#vAsA#} {%m.,%} {#vilOkAH#} {%m.%} {#(s), apadaH, apAdaH, bahupAdaH#}.
 <LEND>

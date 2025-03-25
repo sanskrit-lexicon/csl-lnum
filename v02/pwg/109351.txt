@@ -1,39 +1,39 @@
 <L>109351<pc>7-0992<k1>sidDAnta<k2>sidDAnta
-{#sidDAnta#}¦ ({#sidDa + anta#}) <lex>m.</lex> 
-<div n="1"> 1) {%das letzte Ziel, Vorhaben%}: {#sama°#} <lex>adj.</lex> {%gleiche Ziele verfolgend%} 
-<ls>ĀŚV. ŚR. 12, 8, 15.</ls> 
-<div n="1">— 2) {%ein endgiltiger, feststehender, begründeter Satz, Lehre, Doctrin%} ({#rAdDAnta, kftAnta, samaya, tantra#}) 
-<ls>AK. 1, 1, 4, 13. 3, 4, 14, 67. 24, 151. 25, 187.</ls> 
-<ls>TRIK. 1, 1, 115.</ls> 
-<ls>H. 242.</ls> 
-<ls>HALĀY. 1, 10. 5, 83. fg.</ls> {#prAmARikatvenAByupagato 'rTaH sidDAntaH#} 
-<ls>SARVADARŚANAS. 113, 18.</ls> {#yaH parIkzakErbahuviDaM parIkzya hetuBiSca sADayitvA sTApyate nirRayaH sa sidDAntaH#} 
-<ls>CARAKA 3, 8.</ls> {#tantrADikaraRAByupagamasaMsTitiH sidDAntaH#} 
-<ls>NYĀYAS. 1, 26.</ls> er ist vierfach: {#sarvatantra°, pratitantra°, aDikaraRa°, aByupagama°#} 
-<ls>27. fgg.</ls> <ls>CARAKA a. a. O.</ls> <ls>Ind. St. 2, 295.</ls> <ls>MBH. 1, 2887.</ls> <ls>KAP. 1, 21.</ls> <ls>SĀṂKHYAK. 71.</ls> <ls>NĪLAK. 49. 180.</ls> Einl. zu <ls>JAIM.</ls> <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 10.</ls> Comm. zu <ls>VĀSAVAD. S. 18.</ls> <ls>Spr. (II) 5231.</ls> <ls>PAÑCAR. 4, 2, 16.</ls> <ls>SĀH. D. 31, 10.</ls> <ls>KULL.</ls> zu <ls>M. 8, 209.</ls> <ls>Verz. d. Oxf. H. 17</ls>
+{#sidDAnta#}¦ ({#sidDa + anta#}) <lex>m.</lex>
+<div n="1"> 1) {%das letzte Ziel, Vorhaben%}: {#sama°#} <lex>adj.</lex> {%gleiche Ziele verfolgend%}
+<ls>ĀŚV. ŚR. 12,8,15.</ls>
+<div n="1">— 2) {%ein endgiltiger, feststehender, begründeter Satz, Lehre, Doctrin%} ({#rAdDAnta, kftAnta, samaya, tantra#})
+<ls>AK. 1,1,4,13.</ls> <ls n="AK.">3,4,14,67.</ls> <ls n="AK. 3,4,">24,151.</ls> <ls n="AK. 3,4,">25,187.</ls>
+<ls>TRIK. 1,1,115.</ls>
+<ls>H. 242.</ls>
+<ls>HALĀY. 1,10. 5,83. fg.</ls> {#prAmARikatvenAByupagato 'rTaH sidDAntaH#}
+<ls>SARVADARŚANAS. 113,18.</ls> {#yaH parIkzakErbahuviDaM parIkzya hetuBiSca sADayitvA sTApyate nirRayaH sa sidDAntaH#}
+<ls>CARAKA 3,8.</ls> {#tantrADikaraRAByupagamasaMsTitiH sidDAntaH#}
+<ls>NYĀYAS. 1,26.</ls> er ist vierfach: {#sarvatantra°, pratitantra°, aDikaraRa°, aByupagama°#}
+<ls n="NYĀYAS. 1,">27. fgg.</ls> <ls>CARAKA a. a. O.</ls> <ls>Ind. St. 2,295.</ls> <ls>MBH. 1,2887.</ls> <ls>KAP. 1,21.</ls> <ls>SĀṂKHYAK. 71.</ls> <ls>NĪLAK. 49. 180.</ls> Einl. zu <ls>JAIM.</ls> <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 10.</ls> Comm. zu <ls>VĀSAVAD. S. 18.</ls> <ls>Spr. (II) 5231.</ls> <ls>PAÑCAR. 4,2,16.</ls> <ls>SĀH. D. 31,10.</ls> <ls>KULL.</ls> zu <ls>M. 8,209.</ls> <ls>Verz. d. Oxf. H. 17,a,2.</ls>
 [Page7-0993]
-, {%a%}, 2. 23, {%b%}, N. 5. 86, {%b%}, 47. 160, {%b%}, 7. 227, {%a%}, 
-<ls>No. 557.</ls> <ls>SARVADARŚANAS. 46, 1.</ls> {#pArameSvara#} 
-<ls>PRAB. 57, 14.</ls> {#vedAnta°#} 
-<ls>54, 10.</ls> {#svaSAstra°#} 
-<ls>SUŚR. 1, 50, 16.</ls> {#SAlAkya°#} 
-<ls>2, 370, 14.</ls> {#budDa°#} 
-<ls>LA. (III) 90, 1.</ls> {#digambara°#} 
-<ls>PRAB. 46, 5.</ls> {#praBAkaragurURAm#} 
-<ls>SARVADARŚANAS. 135, 2.</ls> {#BawwAcAryARAm#} 
-<ls>134, 22.</ls> {#raseSvara°#} 
-<ls>98, 21. fg.</ls> {#vyavahAra°, sva°#} Comm. zu 
-<ls>KAP. 1, 106.</ls> {#a°#} 
-<ls>SUŚR. 1, 149, 14.</ls> 
-<div n="1">— 3) im System der <is>Karmamīmāṃsā</is> {%Conclusion und Refutation des erhobenen Einwandes%} (das 4te Glied im <is>Adhikaraṇa</is>) 
-<ls>SARVADARŚANAS. 122, 21. 124, 6.</ls> 
-<div n="1">— 4) {%ein astronomisches Lehrbuch%} 
-<ls>VARĀH. BṚH. S. 2, S. 4, Z. 2.</ls> <ls>GAṆITĀDHY.</ls> <ls>KĀLAM. 6.</ls> <ls>Verz. d. B. H. No. 862. 939.</ls> <ls>WEBER, JYOT. 98.</ls> <ls>Journ. of the Am. Or. S. 6, 418. fgg.</ls> <ls>KERN</ls> in der Vorrede zu 
-<ls>VARĀH. BṚH. S. 24. fg.</ls> 
-<div n="1">— 5) Bez. einer Klasse von Werken bei den Beddhisten 
-<ls>WASSILJEW 60. 260.</ls> bei den <is>Jaina</is> 
-<ls>WILSON, Sel. Works 1, 280. fg.</ls> Titel eines best. <is>Jaina</is>- Werkes 
-<ls>SARVADARŚANAS. 41, 4.</ls> bei den <is>Tāntrika</is> steht dem Ansehen nach {#sidDAnta#} neutr. zwischen {#vAma#} und {#kOla#} 
-<ls>Verz. d. Oxf. H. 91,a,18.</ls> 
+<ls n="Verz. d. Oxf. H.">23,b, N. 5. 86,b,47. 160,b,7. 227,a, No. 557.</ls>
+<ls>SARVADARŚANAS. 46,1.</ls> {#pArameSvara#}
+<ls>PRAB. 57,14.</ls> {#vedAnta°#}
+<ls n="PRAB.">54,10.</ls> {#svaSAstra°#}
+<ls>SUŚR. 1,50,16.</ls> {#SAlAkya°#}
+<ls n="SUŚR.">2,370,14.</ls> {#budDa°#}
+<ls>LA. (III) 90,1.</ls> {#digambara°#}
+<ls>PRAB. 46,5.</ls> {#praBAkaragurURAm#}
+<ls>SARVADARŚANAS. 135,2.</ls> {#BawwAcAryARAm#}
+<ls n="SARVADARŚANAS.">134,22.</ls> {#raseSvara°#}
+<ls n="SARVADARŚANAS.">98,21. fg.</ls> {#vyavahAra°, sva°#} Comm. zu
+<ls>KAP. 1,106.</ls> {#a°#}
+<ls>SUŚR. 1,149,14.</ls>
+<div n="1">— 3) im System der <is>Karmamīmāṃsā</is> {%Conclusion und Refutation des erhobenen Einwandes%} (das 4te Glied im <is>Adhikaraṇa</is>)
+<ls>SARVADARŚANAS. 122,21. 124,6.</ls>
+<div n="1">— 4) {%ein astronomisches Lehrbuch%}
+<ls>VARĀH. BṚH. S. 2, S. 4, Z. 2.</ls> <ls>GAṆITĀDHY.</ls> <ls>KĀLAM. 6.</ls> <ls>Verz. d. B. H. No. 862. 939.</ls> <ls>WEBER, JYOT. 98.</ls> <ls>Journ. of the Am. Or. S. 6,418. fgg.</ls> <ls>KERN</ls> in der Vorrede zu
+<ls>VARĀH. BṚH. S. 24. fg.</ls>
+<div n="1">— 5) Bez. einer Klasse von Werken bei den Beddhisten
+<ls>WASSILJEW 60. 260.</ls> bei den <is>Jaina</is>
+<ls>WILSON, Sel. Works 1,280. fg.</ls> Titel eines best. <is>Jaina</is>- Werkes
+<ls>SARVADARŚANAS. 41,4.</ls> bei den <is>Tāntrika</is> steht dem Ansehen nach {#sidDAnta#} neutr. zwischen {#vAma#} und {#kOla#}
+<ls>Verz. d. Oxf. H. 91,a,18.</ls>
 <div n="v">— Vgl. {#apa°, kandarpa°, kArttika°, jYAta°, jyotiH°, nyAya°, brahma°, brahmasPuwa°, Bakti°, mahA°, mahAdeva°, mADva°, vasizWa°, vAkya°, vEyAkaraRa°, vyAsa°, SAstra°, Siva°, sidDa°, soma°#} u. s. w.
 <LEND>

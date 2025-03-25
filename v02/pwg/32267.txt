@@ -1,27 +1,27 @@
 <L>32267<pc>3-0550<k1>daSama<k2>daSama/<h>1
-1. {#daSama/#}¦ (von {#daSan#}) 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} {%der zehnte%}: {#da\Sa\me yu\ge#} 
-<ls>ṚV. 1, 158, 6.</ls> <ls n="ṚV. 1,">117, 12.</ls> {#taM te\ garBa^M havAmahe daSa\me mA\si sUta^ve#} 
-<ls n="ṚV.">10, 184, 3.</ls> <ls>AV. 13, 4, 18.</ls> <ls>VS. 10, 30.</ls> <ls>ŚAT. BR. 1, 4, 1, 37. 4, 1, 5, 16.</ls> <ls>KĀTY. ŚR. 7, 7, 18.</ls> <ls>M. 2, 90. 9, 81.</ls> {%der zehnte Tag%} als N. eines <is>Ekāha</is>, nämlich des letzten Tages des zum <is>Dvādaśāha</is> gehörigen <is>Daśarātra</is>: {#anto vA eza yajYasya yaddaSamamahaH#} 
-<ls>TBR. 2, 2, 6, 1.</ls> 
-<ls>ŚAT. BR. 12, 1, 2, 3. 3, 20.</ls> 
-<ls>PAÑCAV. BR. 4, 8.</ls> 
-<ls>ŚĀṄKH. ŚR. 14, 74, 1.</ls> {#daSamavrata#} 
-<ls>LĀṬY. 3, 6, 17.</ls> {#daSamam#} adv. {%zum zehnten Mal%}: {#tasmE^ daSa\maM hU\taH pratya^SfRot#} 
-<ls>TBR. 2, 3, 11, 1.</ls> viell. auch 
-<ls>ṚV. 8, 24, 23.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#I#} 
-<div n="2"> a) sc. {#tiTi#} {%der zehnte Tag in einem Halbmonat%} 
-<ls>M. 3, 276.</ls> 
-<ls>MBH. 3, 6053.</ls> 
-<div n="2">— b) {%die zehnte Altersstufe, das höchste Greisenalter von 90 - 100%} (vgl. {#daSame yuge#} oben): {#da\Sa\mImu\graH su\manA^ vaSe\ha#} 
-<ls>AV. 3, 4, 7.</ls> {#tasmAdizuhato vA daRqahato vA daSamIM nErdaSyaM gacCati#} 
-<ls>PAÑCAV. BR. 22, 14.</ls> {#mAnArhaH SUdro 'pi daSamIM gataH#} 
-<ls>M. 2, 137.</ls> {#daSamIsTa#} 
-<ls>138.</ls> Dieses = {#varzIyaMs#} 
-<ls>H. 340,</ls> 
-<ls>Sch.</ls> = {#kzIRarAga#} und {#vfdDa#} 
-<ls>AK. 3, 4, 15, 90.</ls> = {#nazwavIrya#} und {#sTavira#} 
-<ls>MED. th. 28.</ls> = {#kzIRarAga, sTavira#} und {#mftASana#} 
-<ls>H. an. 4, 134.</ls>
+1. {#daSama/#}¦ (von {#daSan#})
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} {%der zehnte%}: {#da\Sa\me yu\ge#}
+<ls>ṚV. 1,158,6.</ls> <ls n="ṚV. 1,">117,12.</ls> {#taM te\ garBa^M havAmahe daSa\me mA\si sUta^ve#}
+<ls n="ṚV.">10,184,3.</ls> <ls>AV. 13,4,18.</ls> <ls>VS. 10,30.</ls> <ls>ŚAT. BR. 1,4,1,37.</ls> <ls n="ŚAT. BR.">4,1,5,16.</ls> <ls>KĀTY. ŚR. 7,7,18.</ls> <ls>M. 2,90.</ls> <ls n="M.">9,81.</ls> {%der zehnte Tag%} als N. eines <is>Ekāha</is>, nämlich des letzten Tages des zum <is>Dvādaśāha</is> gehörigen <is>Daśarātra</is>: {#anto vA eza yajYasya yaddaSamamahaH#}
+<ls>TBR. 2,2,6,1.</ls>
+<ls>ŚAT. BR. 12,1,2,3. 3,20.</ls>
+<ls>PAÑCAV. BR. 4,8.</ls>
+<ls>ŚĀṄKH. ŚR. 14,74,1.</ls> {#daSamavrata#}
+<ls>LĀṬY. 3,6,17.</ls> {#daSamam#} adv. {%zum zehnten Mal%}: {#tasmE^ daSa\maM hU\taH pratya^SfRot#}
+<ls>TBR. 2,3,11,1.</ls> viell. auch
+<ls>ṚV. 8,24,23.</ls>
+<div n="1">— 2) <lex>f.</lex> {#I#}
+<div n="2"> a) sc. {#tiTi#} {%der zehnte Tag in einem Halbmonat%}
+<ls>M. 3,276.</ls>
+<ls>MBH. 3,6053.</ls>
+<div n="2">— b) {%die zehnte Altersstufe, das höchste Greisenalter von 90 — 100%} (vgl. {#daSame yuge#} oben): {#da\Sa\mImu\graH su\manA^ vaSe\ha#}
+<ls>AV. 3,4,7.</ls> {#tasmAdizuhato vA daRqahato vA daSamIM nErdaSyaM gacCati#}
+<ls>PAÑCAV. BR. 22,14.</ls> {#mAnArhaH SUdro 'pi daSamIM gataH#}
+<ls>M. 2,137.</ls> {#daSamIsTa#}
+<ls n="M. 2,">138.</ls> Dieses = {#varzIyaMs#}
+<ls>H. 340</ls>, <ls>Sch.</ls>
+= {#kzIRarAga#} und {#vfdDa#}
+<ls>AK. 3,4,15,90.</ls> = {#nazwavIrya#} und {#sTavira#}
+<ls>MED. th. 28.</ls> = {#kzIRarAga, sTavira#} und {#mftASana#}
+<ls>H. an. 4,134.</ls>
 <LEND>

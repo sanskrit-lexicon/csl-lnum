@@ -1,6 +1,6 @@
 <L>7881<pc>341<k1>pet<k2>pet
 {@Pet,@}¦ {%s.%} {#prema-prIti-pAtraM, premAspadaM, krIqAmfgaH#}. {@2@}
-<div n="lb"/>{#IzatkopaH, kopAveSaH#}. {%-a.%} {#priya, premAspa-#}
-<div n="lb"/>{#-dIBUta, vallaBa;#} {%See%} {@Favourite.@} {%-v. t.%} {#lal#}
-<div n="lb"/>10; {%See%} {@Fondle.@}
+{#IzatkopaH, kopAveSaH#}. {%-a.%} {#priya, premAspa-#}
+{#-dIBUta, vallaBa;#} {%See%} {@Favourite.@} {%-v. t.%} {#lal#}
+10; {%See%} {@Fondle.@}
 <LEND>

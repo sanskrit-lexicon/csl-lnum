@@ -1,10 +1,9 @@
 <L>9360<pc>1478<k1>sama<k2>sama
-{@sama,@}¦ pr. [von sa, <ab>vgl.</ab>
-<lang n="greek">ἀμός</lang>, <ab>goth.</ab> sums], 1) {%irgend einer, irgend jemand;%} namentlich 2) in negativen Sätzen; 3) {%jeder,%} <ab>pl.</ab> {%alle;%} 4) {%ganz.%}
-<div n="P1">-am 3) ásunvantam {176,4}.
-<div n="P1">-asmai 2) vṛ́kāya {492,6}.
-<div n="P1">-asmāt 3) aghāyatás {378,3}.
-<div n="P1">-asya 1) śárdhatas {483,4}. — 2) dūḍhías {684,9}. — 3) {855,4} (ánne); {773,30} (nidás); (paṇínas) <lbinfo n="6"/> {494,8} (hṛ́dayam); <lbinfo n="5"/> kásya cid {741,5} (svanā́t). — 4) mahimánas <lbinfo n="7"/> te {468,3}; {880,3}.
-<div n="P1">-asmin 3) vā́je gómati {641,8}.
-<div n="P1">-e [<ab>N.</ab> <ab>p.</ab> <ab>m.</ab>] 3) anyaké … {659,1—10}; {660,1—11}.
+{@sama,@}¦ <ab>pr.</ab> [von sa, <ab>vgl.</ab> <gk>ἀμός</gk>, <lang>goth.</lang> sums], 1〉 {%irgend einer, irgend jemand;%} namentlich 2〉 in negativen Sätzen; 3〉 {%jeder,%} <ab>pl.</ab> {%alle;%} 4〉 {%ganz%}.
+<div n="TS">-am 3〉 ásunvantam {176,4}.
+<div n="TS">-asmai 2〉 vṛ́kāya {492,6}.
+<div n="TS">-asmāt 3〉 aghāyatás {378,3}.
+<div n="TS">-asya 1〉 śárdhatas {483,4}. — 2〉 dūḍhías {684,9}. — 3〉 {855,4} (ánne); {773,30} (nidás); (paṇínas) {494,8} (hṛ́dayam); kásya cid {741,5} (svanā́t). — 4〉 mahimánas te {468,3}; {880,3}.
+<div n="TS">-asmin 3〉 vā́je gómati {641,8}.
+<div n="TS">-e [<ab>N.</ab> <ab>p.</ab> <ab>m.</ab>] 3〉 anyaké 〰 {659,1}—_{659,10}; {660,1}—_{660,11}<chg type="chg" n="1" src="user"><old></old><new> ; (also) {661,1}—_{661,10}; {662,4}—{662,6}</new></chg>.
 <LEND>

@@ -1,6 +1,6 @@
 <L>8658<pc>380<k1>rebuff<k2>rebuff
 {@Rebuff,@}¦ {%v. t.%} {#prati-parA-han#} 2 P; {#parABU#} 1 P,
-<div n="lb"/>{#parAji#} 1 A {@2@} {#pratyAdiS#} 6 P, {#nirAkf#} 8 U.
-<div n="lb"/>{%-s.%} {#pratiGAtaH; parABavaH; parAjayaH; pratyAdeSaH;#}
-<div n="lb"/>{%See%} {@Repulse.@}
+{#parAji#} 1 A {@2@} {#pratyAdiS#} 6 P, {#nirAkf#} 8 U.
+{%-s.%} {#pratiGAtaH; parABavaH; parAjayaH; pratyAdeSaH;#}
+{%See%} {@Repulse.@}
 <LEND>

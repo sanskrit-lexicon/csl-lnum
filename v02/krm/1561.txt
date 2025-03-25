@@ -1,12 +1,12 @@
 <L>1561<pc>1203<k1>varca<k2>varca
 (1561) {@<s>“varca dIptO”</s>@}¦ (I<s>-BvAdiH</s>-162. <s>aka</s>. <s>sew</s>. <s>Atma</s>.)
 <div n="NI"><s>varcakaH-rcikA, varcakaH-rcikA, vivarcizakaH-zikA, vAvarcakaH-rcikA</s>;
-<div n="lb"><s>varcitA-trI, varcayitA-trI, vivarcizitA-trI, vAvarcitA-trI</s>;
-<div n="lb"><s>ityAdIni rUpARi sarvARyapi BOvAdikacarcativat</s> (505) <s>UhyAni . asya DAtoH</s>
-<div n="lb"><s>AtmanepaditvAt SAnaci</s>-
+<s>varcitA-trI, varcayitA-trI, vivarcizitA-trI, vAvarcitA-trI</s>;
+<s>ityAdIni rUpARi sarvARyapi BOvAdikacarcativat</s> (505) <s>UhyAni . asya DAtoH</s>
+<s>AtmanepaditvAt SAnaci</s>-
 <sup>A</sup> <s>varcamAnaH, kvipi</s>-
 <sup>7</sup> <s>avAvarka-varcO-varcaH, suvarcI</s>,
-<div n="lb"><s>suvarcikA, suvarcalA, varcaskam, brahmavarcasam-hastivarcasam, Ryati</s>-
+<s>suvarcikA, suvarcalA, varcaskam, brahmavarcasam-hastivarcasam, Ryati</s>-
 <sup>8</sup> <s>varcyam</s>,
 <sup>9</sup> <s>varcA</s>,
 <sup>10</sup> <s>varcaH ityAdIni rUpARi asya DAtoH viSezeRa BavantIti boDyam .</s> 
@@ -14,9 +14,9 @@
 <F>A. <s>‘sumaNGitAH SiNGitapuzpasOraBA yadvarcamAnAH paSupAH prasecire ..’ DA</s>. <s>kA</s>. 1. 22.</F>
 <F>7. <s>‘rAt sasya’</s> (8-2-24) <s>iti niyamAt na saMyogAntalopaH .</s></F>
 <F>8. <s>Ryati ‘cajoH ku GiRRyatoH’</s> (7-3-52) <s>iti kutvaM na Bavati . ‘na kvAdeH’</s>
-<div n="lb">(7-3-59) <s>ityatra ‘kvAdyajivrajiyAcirucInAmapratizeDo nizWAyAmaniwaH kutva</s>-
-<div n="lb"><s>vacanAt’ iti vArtikam . ye kvAdayo'nye vA nizWAyAmaniwastezAM kutvam, ye</s>
-<div n="lb"><s>tu sewastezAM neti saMgrahArTaH . tenAtra kutvaM neti jYeyam .</s></F>
+(7-3-59) <s>ityatra ‘kvAdyajivrajiyAcirucInAmapratizeDo nizWAyAmaniwaH kutva</s>-
+<s>vacanAt’ iti vArtikam . ye kvAdayo'nye vA nizWAyAmaniwastezAM kutvam, ye</s>
+<s>tu sewastezAM neti saMgrahArTaH . tenAtra kutvaM neti jYeyam .</s></F>
 <F>9. <s>‘guroSca halaH’</s> (3-3-103) <s>iti striyAmakArapratyayaH . ktino'pavAdaH .</s></F>
 <F>10. <s>ORAdike [da</s>. <s>u</s>. 9-49<s>] asunpratyaye rUpamevam . varcaH = ASutejasI ityarTaH .</s></F>
 <LEND>

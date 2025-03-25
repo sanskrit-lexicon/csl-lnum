@@ -1,3 +1,3 @@
 <L>5431.01<pc>128,1<k1>anAkranda<k2>an-Akranda<e>1
-<s>an-Akranda</s> ¦ <lex>mf(<s>A</s>)n.</lex>, ‘not having on whom to call for help’, ‘without a protector’ <ls>MBh. i, 6568; iii, 13859</ls><info phwparent="22308,Akranda"/><info lex="m:f#A:n"/>
+<s>an-Akranda</s> ¦ <lex>mf(<s>A</s>)n.</lex>, ‘not having on whom to call for help’, ‘without a protector’, <ls>MBh. i, 6568</ls>; <ls n="MBh.">iii, 13859</ls><info phwparent="22308,Akranda"/><info lex="m:f#A:n"/>
 <LEND>

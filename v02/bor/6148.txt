@@ -1,10 +1,10 @@
 <L>6148<pc>197<k1>dig<k2>dig
-<div n="lb"/>{@DIG@}¦ (v.): {#Kanati, -te,#} ({#Kan,#} c. 1.), <div n="xe">{%d. ging the%}
-<div n="lb"/>{%place:%}</div> <div n="xs">{#sTAnaM KanitvA,#}</div> P. v. 3.: {%to d. a well:%}
-<div n="lb"/>{#kUpaM Kanati,#} Sr.; {%to d. gold from the ground:%}
-<div n="lb"/>{#BUmiM KanitvA, svarRaM gfhRAti#} <div n="xe">{%or%}</div> <div n="xs">{#BUmeH svarRam utKanati.#}</div> [Page198]
-<div n="lb"/>Comp.: <div n="xe">{%d. down:%}</div> <div n="xs">{#avaKanati;#}</div> <div n="xe">{%d. in:%}</div> <div n="xs">{#niKanati;#}</div>
-<div n="lb"/><div n="xe">{%d. out or up:%}</div> <div n="xs">{#utKanati.#}</div> Ph.: <div n="xe">{%to d. a subter-%}
-<div n="lb"/>{%ranean passage:%}</div> <div n="xs">{#suraNgaM karoti,#}</div> D.; <div n="xe">{%to d. the%}
-<div n="lb"/>{%ground:%}</div> <div n="xs">{#BUmim avadArayati,#}</div> R.
+{@DIG@}¦ (v.): {#Kanati, -te,#} ({#Kan,#} c. 1.), <div n="xe">{%d. ging the%}
+{%place:%}</div> <div n="xs">{#sTAnaM KanitvA,#}</div> P. v. 3.: {%to d. a well:%}
+{#kUpaM Kanati,#} Sr.; {%to d. gold from the ground:%}
+{#BUmiM KanitvA, svarRaM gfhRAti#} <div n="xe">{%or%}</div> <div n="xs">{#BUmeH svarRam utKanati.#}</div> [Page198]
+Comp.: <div n="xe">{%d. down:%}</div> <div n="xs">{#avaKanati;#}</div> <div n="xe">{%d. in:%}</div> <div n="xs">{#niKanati;#}</div>
+<div n="xe">{%d. out or up:%}</div> <div n="xs">{#utKanati.#}</div> Ph.: <div n="xe">{%to d. a subter-%}
+{%ranean passage:%}</div> <div n="xs">{#suraNgaM karoti,#}</div> D.; <div n="xe">{%to d. the%}
+{%ground:%}</div> <div n="xs">{#BUmim avadArayati,#}</div> R.
 <LEND>

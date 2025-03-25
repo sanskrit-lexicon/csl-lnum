@@ -1,5 +1,5 @@
 <L>23444<pc>736<k1>unpaid<k2>unpaid
-<div n="lb"/>{@UNPAID:@}¦ <div n="I">I Not discharged: {#aSoDita#} (f.
-<div n="lb"/>{#tA#}) etc. </div><div n="I">II Not paid: {#adattavetana#} (f. {#nA#})
-<div n="lb"/>etc.</div>
+{@UNPAID:@}¦ <div n="I">I Not discharged: {#aSoDita#} (f.
+{#tA#}) etc. </div><div n="I">II Not paid: {#adattavetana#} (f. {#nA#})
+etc.</div>
 <LEND>

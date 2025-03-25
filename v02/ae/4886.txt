@@ -1,9 +1,9 @@
 <L>4886<pc>202<k1>heresy<k2>heresy
 {@Heresy,@}¦ {%s.%} {#pAzaMqamArgaH, nAstikatA, miTyA-#}
-<div n="lb"/>{#-dfzwi#} {%f.,%} {#viDarmaH, viDarmasevA, paraDarmASrayaH, a-#}
-<div n="lb"/>{#-paTaM, vipaTaH#}. {@-Heretic,@} {%s.%} {#pAzaM(KaM)qaH, nA-#}
-<div n="lb"/>{#-stikaH, viDarmasevin#} {%m.,%} {#paraDarmAvalaMbin#} {%m.,%}
-<div n="lb"/>{#devaniMdakaH, upaDarmasevin#} {%m.,%} {#svaDarmaBrazwaH-cyutaH,#}
-<div n="lb"/>{#patitaH#}. {@-al,@} {%a.%} {#DarmavirudDa, vipaTa-viDarma-#}
-<div n="lb"/>{#-gAmin#}. {@-ally,@} {%adv.%} {#pAzaMqavat, nAstikavat#}.
+{#-dfzwi#} {%f.,%} {#viDarmaH, viDarmasevA, paraDarmASrayaH, a-#}
+{#-paTaM, vipaTaH#}. {@-Heretic,@} {%s.%} {#pAzaM(KaM)qaH, nA-#}
+{#-stikaH, viDarmasevin#} {%m.,%} {#paraDarmAvalaMbin#} {%m.,%}
+{#devaniMdakaH, upaDarmasevin#} {%m.,%} {#svaDarmaBrazwaH-cyutaH,#}
+{#patitaH#}. {@-al,@} {%a.%} {#DarmavirudDa, vipaTa-viDarma-#}
+{#-gAmin#}. {@-ally,@} {%adv.%} {#pAzaMqavat, nAstikavat#}.
 <LEND>

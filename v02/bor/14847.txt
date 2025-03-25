@@ -1,7 +1,7 @@
 <L>14847<pc>454<k1>modern<k2>modern
-<div n="lb"/>{@MODERN:@}¦ <div n="1">(1) {#ADunikaH#} ({#kI, kaM#}), S. p. b. i.
-<div n="lb"/>43.; </div><div n="1">(2) {#idAnIntanaH#} ({#nI, naM#}). {%The m.s:%}
-<div n="lb"/>{#idAnIntanAH,#} <ls>S.</ls> ; </div><div n="1">(3) {#idantanaH#} ({#nI, naM#}), <div n="xe">{%by the%}
-<div n="lb"/>{%m.s wanting in energy:%}</div> <div n="xs">{#SaktihInEridantanEH,#}</div> Vri.:</div>
-<div n="lb"/><div n="1">(4) {#aDunAtanaH#} ({#nI, naM#}).</div>
+{@MODERN:@}¦ <div n="1">(1) {#ADunikaH#} ({#kI, kaM#}), S. p. b. i.
+43.; </div><div n="1">(2) {#idAnIntanaH#} ({#nI, naM#}). {%The m.s:%}
+{#idAnIntanAH,#} <ls>S.</ls> ; </div><div n="1">(3) {#idantanaH#} ({#nI, naM#}), <div n="xe">{%by the%}
+{%m.s wanting in energy:%}</div> <div n="xs">{#SaktihInEridantanEH,#}</div> Vri.:</div>
+<div n="1">(4) {#aDunAtanaH#} ({#nI, naM#}).</div>
 <LEND>

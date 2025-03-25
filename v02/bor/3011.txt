@@ -1,5 +1,5 @@
 <L>3011<pc>101<k1>canvas<k2>canvas
-<div n="lb"/>{@CANVAS:@}¦ <div n="I">I A coarse cloth: {#SARam,#} <div n="xe">{%c. bag%}</div> <div n="xs">{#SARa-#}
-<div n="lb"/>{#puwam.#}</div> </div><div n="I">II Sails: q. v.: {#vAtavasanAni#} (n. pl.)
-<div n="lb"/>(?). </div><div n="I">III Cloth for painting: {#pawam,#} <ls>D.</ls></div>
+{@CANVAS:@}¦ <div n="I">I A coarse cloth: {#SARam,#} <div n="xe">{%c. bag%}</div> <div n="xs">{#SARa-#}
+{#puwam.#}</div> </div><div n="I">II Sails: q. v.: {#vAtavasanAni#} (n. pl.)
+(?). </div><div n="I">III Cloth for painting: {#pawam,#} <ls>D.</ls></div>
 <LEND>

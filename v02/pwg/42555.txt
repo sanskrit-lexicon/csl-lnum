@@ -1,18 +1,18 @@
 <L>42555<pc>4-0502<k1>parADIna<k2>parADIna
-{#parADIna#}¦ ({#para + aDIna#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%von einem Andern abhängig, abhängig%} 
-<ls>AK. 3, 1, 16.</ls> 
-<ls>H. 356.</ls> 
-<ls>HALĀY. 2, 186.</ls> {#narADipAH#} 
-<ls>R. 3, 37, 6.</ls> {#kfzi#} 
-<ls>M. 10, 83.</ls> {#anna#} 54. {#Bojana#} 
-<ls>HIT. I, 131.</ls> {#saMpatti#} 
-<ls>II, 143.</ls> {#vftti#} 
-<ls>Spr. 621.</ls> 
-<ls>MEGH. 8.</ls> {#jIvita#} 
-<ls>Spr. 1331.</ls> {#puruzasya kriyAPalam#} 
-<ls>MBH. 12, 12520</ls> <ls>?(vgl. 3, 13850).</ls> {#a°#} 
-<ls>ŚAT. BR. 11, 5, 7, 1.</ls> {#banDuparADInA kanyA#} 
-<ls>KATHĀS. 24, 38.</ls> {#ahaM BaktaparADInaH#} 
-<ls>BHĀG. P. 9, 4, 63.</ls> {#grAmyAH kfziparADInAH#} 
-<ls>RĀJA-TAR. 6, 9.</ls>
+{#parADIna#}¦ ({#para + aDIna#}) <lex>adj.</lex> <lex>f.</lex> {#A#} {%von einem Andern abhängig, abhängig%}
+<ls>AK. 3,1,16.</ls>
+<ls>H. 356.</ls>
+<ls>HALĀY. 2,186.</ls> {#narADipAH#}
+<ls>R. 3,37,6.</ls> {#kfzi#}
+<ls>M. 10,83.</ls> {#anna#} 54. {#Bojana#}
+<ls>HIT. I,131.</ls> {#saMpatti#}
+<ls n="HIT.">II,143.</ls> {#vftti#}
+<ls>Spr. 621.</ls>
+<ls>MEGH. 8.</ls> {#jIvita#}
+<ls>Spr. 1331.</ls> {#puruzasya kriyAPalam#}
+<ls>MBH. 12,12520</ls> (vgl. <ls n="MBH.">3,13850</ls>). {#a°#}
+<ls>ŚAT. BR. 11,5,7,1.</ls> {#banDuparADInA kanyA#}
+<ls>KATHĀS. 24,38.</ls> {#ahaM BaktaparADInaH#}
+<ls>BHĀG. P. 9,4,63.</ls> {#grAmyAH kfziparADInAH#}
+<ls>RĀJA-TAR. 6,9.</ls>
 <LEND>

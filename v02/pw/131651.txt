@@ -1,67 +1,64 @@
-<L>131651<pc>7225-1<k1>smar<k2>smar<e>500
-{#smar#}¦ , {#sma/rati#} (metrisch und ungenau auch <ab>Med.</ab>) , {#smaryate#} <ab>Pass.</ab>
-<div n="1">— 1) {%sich erinnern , im Gedächtniss haben , in's Gedächtniss rufen , sich vergegenwärtigen , gedenken , mit Wehmuth sich erinnern%} ; mit <ab>Gen.</ab> oder <ab>Acc.</ab> Die vergangene Handlung , {%deren man sich erinnert%} , steht im (*Imperf.) oder <ab>Partic.</ab> praet. pass. mit {#yad#} {%dass%} , oder im Fut. ohne {#yad#} (*bei zwei Handlungen kann dieses auch dabei stehen).
-<div n="1">— 2) Pass , {%überliefert werden.%} <ab>Act.</ab> {%mit Stillschweigen übergehen.%}
-<div n="1">— 3) {%lehren , behaupten , statuiren%} <ls>GAUT.</ls>
-<div n="1">— 4) <ab>Pass.</ab> {%von Jmd%} (<ab>Instr.</ab>) {%erklärt werden für , gelten als%} (<ab>Nomin.</ab> oder <ab>Loc.</ab>) <ls>ĀPAST.2,4,24,</ls> <ls>Chr.227,1.</ls>
-<div n="1">— 5) {%hersagen , recitiren%} <ls>HEMĀDRI.1,429,15.</ls>
-<div n="1">— 6) {#smfta#}
-<div n="2">— a) {%dessen man sich erinnert , an den oder woran man denkt.%} {#kiM#} {#smfto 'smi#} {%weshalb hast du meiner gedacht?%} so v.a. {%weshalb hast du mich citirt?%}
-<div n="2">— b) {%überliefert , gelehrt.%}
-<div n="2">— c) {%erwähnt.%}
-<div n="2">— d) {%gelehrt%} , so v.a. {%vorgeschrieben.%} {#na smftam#} so v.a. {%nicht gestattet.%}
-<div n="2">— e) {%erklärt für , geltend als%} (<ab>Nomin.</ab> , <ab>Loc.</ab> oder <ab>Dat.</ab>). {#bIjAdeva PalaM smftam#} so v.a. {%nur aus dem Samen , so heisst es , kommt die Frucht%} ; {#tadanu plavaH smftaH#} {%darauf folgt , so heisst es , <is>Plava</is>.%}
-<div n="2">— f) {%erklärt für%} (<ab>Nomin.</ab> mit oder ohne {#iti#} ) , so v.a. {%heissend.%}
-<div n="m">— <ab>Caus.</ab> {#smArayati#} und {#smarayati#} (seltener ; metrisch) auch <ab>Med.</ab>)
-<div n="1">— 1) {%Jmd%} (<ab>Acc.</ab>) {%erinnern , gedenken lassen.%} {#smArita#} von einem Zeugen , der wiederholt an die
-[Page7225-2]
-zu bezeugende Sache {%erinnert%} wird , <ls>NĀRADA.</ls> {%a.%} 2. 1.150.
-<div n="1">— 2) {%erinnern — , mahnen an Jmd oder Etwas%} (<ab>Acc.</ab> , ausnahmsweise <ab>Gen.</ab>). <ab>Pass.</ab> {#smaryate#} <ls>241,14</ls>) {%in's Gedächtniss gerufen werden.%} {#smArita#} {%in's Gedächtniss gerufen.%}
-<div n="1">— 3) {%Jmd erinnern an%} , mit doppelten <ab>Acc.</ab> oder mit <ab>Gen.</ab> der Person und <ab>Acc.</ab> der Sache (mit zu ergänzenden <ab>Acc.</ab> <ls>108,6</ls>). <ab>Pass.</ab> {%erinnert werden an%} (<ab>Acc.</ab>) , {#smArita#} {%erinnert an%} (<ab>Acc.</ab>).
-<div n="m">— <ab>Desid.</ab> {#susmUrzate (°ti)#} fehlerhaft) {%gedenken wollen%} , mit <ab>Acc.</ab>
+<L>131651<pc>7-225-a<k1>smar<k2>smar
+√{#smar#}¦, {#sma/rati#} (metrisch und ungenau auch <ab>Med.</ab>), {#smaryate#} <ab>Pass.</ab>
+<div n="1">— 1〉 {%sich erinnern, im Gedächtniss haben, inʼs Gedächtniss rufen, sich vergegenwärtigen, gedenken, mit Wehmuth sich erinnern;%} mit <ab>Gen.</ab> oder <ab>Acc.</ab> Die vergangene Handlung, {%deren man sich erinnert,%} steht im (*<ab>Imperf.</ab>) oder <ab>Partic.</ab> <ab>praet.</ab> <ab>pass.</ab> mit {#yad#} {%dass,%} oder im <ab>Fut.</ab> ohne {#yad#} (*bei zwei Handlungen kann dieses auch dabei stehen).
+<div n="1">— 2〉 <ab>Pass.</ab> {%überliefert werden%}. <ab>Act.</ab> {%mit Stillschweigen übergehen%}.
+<div n="1">— 3〉 {%lehren, behaupten, statuiren%} <ls>GAUT.</ls>
+<div n="1">— 4〉 <ab>Pass.</ab> {%von Jmd%} (<ab>Instr.</ab>) {%erklärt werden für, gelten als%} (<ab>Nomin.</ab> oder <ab>Loc.</ab>) <ls>ĀPAST. 2,4,24</ls>, <ls>Chr. 227,1</ls>.
+<div n="1">— 5〉 {%hersagen, recitiren%} <ls>HEMĀDRI 1,429,15</ls>.
+<div n="1">— 6〉 {#smfta#}
+<div n="2">— a〉 {%dessen man sich erinnert, an den oder woran man denkt%}. {#kiM#} {#smfto 'smi#} {%weshalb hast du meiner gedacht?%} so <ab>v. a.</ab> {%weshalb hast du mich citirt?%}
+<div n="2">— b〉 {%überliefert, gelehrt%}.
+<div n="2">— c〉 {%erwähnt%}.
+<div n="2">— d〉 {%gelehrt,%} so <ab>v. a.</ab> {%vorgeschrieben%}. {#na smftam#} so <ab>v. a.</ab> {%nicht gestattet%}.
+<div n="2">— e〉 {%erklärt für, geltend als%} (<ab>Nomin.</ab>, <ab>Loc.</ab> oder <ab>Dat.</ab>). {#bIjAdeva PalaM smftam#} so <ab>v. a.</ab> {%nur aus dem Samen, so heisst es, kommt die Frucht;%} {#tadanu plavaH smftaH#} {%darauf folgt, so heisst es,%} <is>Plava</is>.
+<div n="2">— f〉 {%erklärt für%} (<ab>Nomin.</ab> mit oder ohne {#iti#}), so <ab>v. a.</ab> {%heissend%}.
+<div n="m">— <ab>Caus.</ab> {#smArayati#} und {#smarayati#} (seltener; metrisch auch <ab>Med.</ab>)
+<div n="1">— 1〉 {%Jmd%} (<ab>Acc.</ab>) {%erinnern, gedenken lassen%}. {#smArita#} von einem Zeugen, der wiederholt an die [Page7-225-b] zu bezeugende Sache {%erinnert%} wird, <ls>NĀRADA (a.) 2,1,150</ls>.
+<div n="1">— 2〉 {%erinnern —, mahnen an Jmd oder Etwas%} (<ab>Acc.</ab>, ausnahmsweise <ab>Gen.</ab>). <ab>Pass.</ab> ({#smaryate#} <ls n="Chr.">241,14</ls>) {%inʼs Gedächtniss gerufen werden%}. {#smArita#} {%inʼs Gedächtniss gerufen%}.
+<div n="1">— 3〉 {%Jmd erinnern an,%} mit doppelten <ab>Acc.</ab> oder mit <ab>Gen.</ab> der Person und <ab>Acc.</ab> der Sache (mit zu ergänzenden <ab>Acc.</ab> <ls n="Chr.">108,6</ls>). <ab>Pass.</ab> {%erinnert werden an%} (<ab>Acc.</ab>), {#smArita#} {%erinnert an%} (<ab>Acc.</ab>).
+<div n="m">— <ab>Desid.</ab> {#susmUrzate#} ({#°ti#} fehlerhaft) {%gedenken wollen,%} mit <ab>Acc.</ab>
 <div n="m">— *<ab>Intens.</ab> {#sAsmaryate#}
 <div n="p">— Mit {#anu#}
-<div n="1">— 1) {%sich erinnern , gedenken%} ; mit <ab>Acc.</ab>
-<div n="1">— 2) so v.a. {%beichten.%}
-<div n="1">— 3) {#anusmfta#}
-<div n="2">— a) <lex>n.</lex> impers. {#yadEva#} — {#anusmftaM devena#} {%als der Fürst sich dessen erinnerte , dass%} (directe Rede + {#iti#} ) ,
-<div n="2">— b) {%vorgeschrieben , gelehrt , geltend.%}
-<div n="m">— <ab>Caus.</ab> {#°smarayati#} {%erinnern an%} (<ab>Acc.</ab>). {#anusmArita#} {%erinnert an%} (<ab>Acc.</ab>) <ls>BĀLAR.64,16.</ls>
-<div n="p">— Mit {#pratyanu#} {%sich entsinnen , dass Jmd oder Etwas Jmd%} oder {%Etwas sei%} (mit doppeltem <ab>Acc.</ab>).
-<div n="p">— Mit {#samanu#} {%sich erinnern , gedenken%} ; mit <ab>Acc.</ab> <ls>JĀTAKAM.3.</ls>
+<div n="1">— 1〉 {%sich erinnern, gedenken;%} mit <ab>Acc.</ab>
+<div n="1">— 2〉 so <ab>v. a.</ab> {%beichten%}.
+<div n="1">— 3〉 {#anusmfta#}
+<div n="2">— a〉 <lex>n.</lex> <ab>impers.</ab> {#yadEva — anusmftaM devena#} {%als der Fürst sich dessen erinnerte, dass%} (directe Rede + {#iti#}),
+<div n="2">— b〉 {%vorgeschrieben, gelehrt, geltend%}.
+<div n="m">— <ab>Caus.</ab> {#°smarayati#} {%erinnern an%} (<ab>Acc.</ab>). {#anusmArita#} {%erinnert an%} (<ab>Acc.</ab>) <ls>BĀLAR. 64,16</ls>.
+<div n="p">— Mit {#pratyanu#} {%sich entsinnen, dass Jmd oder Etwas Jmd%} oder {%Etwas sei%} (mit doppeltem <ab>Acc.</ab>).
+<div n="p">— Mit {#samanu#} {%sich erinnern, gedenken;%} mit <ab>Acc.</ab> <ls>JĀTAKAM. 3</ls>.
 <div n="p">— Mit {#apa#}
-<div n="1">— 1) {%das Bewusstsein verlieren.%}
-<div n="1">— 2) {#apasmfta#}
-<div n="2">— a) {%der das Bewusstsein verloren hat.%}
-<div n="2">— b) {%vergessen.%}
-<div n="p">— Mit {#upa#} {%sich erinnern , gedenken%} ; mit <ab>Acc.</ab>
-<div n="p">— Mit {#ni#} , {#ni/smara#} <ls>MAITR.S.4.5,7(73,20)</ls> wohl fehlerhaft; <ab>vgl.</ab> <ls>VS.6,36.</ls>
-<div n="p">— Mit {#vini#} , {#°smfta#} {%erwähnt.%}
+<div n="1">— 1〉 {%das Bewusstsein verlieren%}.
+<div n="1">— 2〉 {#apasmfta#}
+<div n="2">— a〉 {%der das Bewusstsein verloren hat%}.
+<div n="2">— b〉 {%vergessen%}.
+<div n="p">— Mit {#upa#} {%sich erinnern, gedenken;%} mit <ab>Acc.</ab>
+<div n="p">— Mit {#ni#}, {#ni/smara#} <ls>MAITR. S. 4,5,7 (73,20)</ls> wohl fehlerhaft; <ab>vgl.</ab> <ls>VS. 6,36</ls>.
+<div n="p">— Mit {#vini#}, {#°smfta#} {%erwähnt%}.
 <div n="p">— Mit {#pra#}
-<div n="1">— 1) {%sich erinnern , gedenken%} ; mit <ab>Acc.</ab>
-<div n="1">— 2) {%vergessen.%} {#prasmfta#} {%vergessen%} <ls>NAIṢ.5,121.</ls>
-<div n="p">— Mit {#prati#} {%sich erinnern , gedenken%} ; mit <ab>Acc.</ab>
-<div n="m">— <ab>Caus.</ab> {%Jmd an Etwas erinnern.%}
+<div n="1">— 1〉 {%sich erinnern, gedenken;%} mit <ab>Acc.</ab>
+<div n="1">— 2〉 {%vergessen%}. {#prasmfta#} {%vergessen%} <ls>NAIṢ. 5,121</ls>.
+<div n="p">— Mit {#prati#} {%sich erinnern, gedenken;%} mit <ab>Acc.</ab>
+<div n="m">— <ab>Caus.</ab> {%Jmd an Etwas erinnern%}.
 <div n="p">— Mit {#vi#}
-<div n="1">— 1) {%vergessen%} , mit <ab>Acc.</ab> {#vismarati#} = {#vismaryate#} (!) <ab>Comm.</ab> zu <ls>ṚṢIMAṆḌALASTOTRA.105.128</ls> nach <ls>JACOBI.</ls>
-<div n="1">— 2) {#vismfta#}
-<div n="2">— a) {%der Jmd oder Etwas%} (<ab>Acc.</ab> ) oder im Comp. vorangehend {%vergessen hat.%} Ohne Ergänzung {%der Alles vergessen hat.%}
-<div n="2">— b) {%vergessen von%} (<ab>Instr.</ab> oder <ab>Gen.</ab>).
-<div n="1">— 3) {#vismftavant#} = 2)a)
+<div n="1">— 1〉 {%vergessen,%} mit <ab>Acc.</ab> {#vismarati#} = {#vismaryate#} (!) <ls>Comm. zu ṚṢIMAṆḌALASTOTRA 105. 128</ls> nach <ls>JACOBI</ls>.
+<div n="1">— 2〉 {#vismfta#}
+<div n="2">— a〉 {%der Jmd oder Etwas%} (<ab>Acc.</ab>) oder im <ab>Comp.</ab> vorangehend {%vergessen hat%}. Ohne Ergänzung {%der Alles vergessen hat%}.
+<div n="2">— b〉 {%vergessen von%} (<ab>Instr.</ab> oder <ab>Gen.</ab>).
+<div n="1">— 3〉 {#vismftavant#} = 2〉a〉.
 <div n="m">— <ab>Caus.</ab> {#vismArayati#}
-<div n="1">— 1) {%Etwas%} (<ab>Acc.</ab>) {%in Vergessenheit bringen%} <ls>Spr.7629.</ls> {#vismArita#} {%in Vergessenheit gebracht.%}
-<div n="1">— 2) {%Jmd Etwas vergessen machen%} , mit doppeltem <ab>Acc.</ab> {#vismArita#} {%der veranlasset worden ist Etwas%} (<ab>Acc.</ab>) {%zu vergessen.%}
-<div n="1">— 3) {#vismAryate#} <ls>RĀJAT.5,31</ls> fehlerhaft für {#vismaryate#} (<ab>Pass.</ab> von Simplex) <ab>Vgl.</ab> <ls>Spr.</ls>
+<div n="1">— 1〉 {%Etwas%} (<ab>Acc.</ab>) {%in Vergessenheit bringen%} <ls>Spr. 7629</ls>. {#vismArita#} {%in Vergessenheit gebracht%}.
+<div n="1">— 2〉 {%Jmd Etwas vergessen machen,%} mit doppeltem <ab>Acc.</ab> {#vismArita#} {%der veranlasset worden ist Etwas%} (<ab>Acc.</ab>) {%zu vergessen%}.
+<div n="1">— 3〉 {#vismAryate#} <ls>RĀJAT. 5,318</ls> fehlerhaft für {#vismaryate#} (<ab>Pass.</ab> von Simplex): <ab>vgl.</ab> <ls>Spr. 2802</ls>
 <div n="p">— Mit {#sam#}
-<div n="1">— 1) {%sich erinnern , gedenken%} ; mit <ab>Acc.</ab> (<ab>Gen.</ab> <ls>BHAṬṬ.</ls>).
-<div n="1">— 2) {#saMsmfta#}
-<div n="2">— a) {%dessen man sich erinnert hat.%}
-<div n="2">— b) {%vorgeschrieben.%}
-<div n="2">— c) {%genannt , heissend.%}
+<div n="1">— 1〉 {%sich erinnern, gedenken;%} mit <ab>Acc.</ab> (<ab>Gen.</ab> <ls>BHAṬṬ.</ls>).
+<div n="1">— 2〉 {#saMsmfta#}
+<div n="2">— a〉 {%dessen man sich erinnert hat%}.
+<div n="2">— b〉 {%vorgeschrieben%}.
+<div n="2">— c〉 {%genannt, heissend%}.
 <div n="m">— <ab>Caus.</ab> {#saMsmArayati#} und {#saMsmarayati#}
-<div n="1">— 1) {%Jmd%} (<ab>Acc.</ab>) {%erinnern , an%} (<ab>Acc.</ab>) <ls>292,30.</ls> {#saMsmArita#} {%erinnert , — an%} (<ab>Acc.</ab>).
-<div n="1">— 2) {%in's Gedächtniss rufen , — Jmdm%} (<ab>Gen.</ab>). {#sasmArita#} {%in's Gedächtniss gerufen.%}
-<div n="p">— Mit {#anusam#} {%sich erinnern , gedenken%} ; mit <ab>Acc.</ab> oder <ab>Gen.</ab> —
-[Page7225-3]
-<div n="p">— Mit {#aBisam#} dass ; mit <ab>Acc.</ab> — {#pratisam#} <ab>dass.</ab> , mit <ab>Acc.</ab>
+<div n="1">— 1〉 {%Jmd%} (<ab>Acc.</ab>) {%erinnern, an%} (<ab>Acc.</ab>) <ls n="Chr.">292,30</ls>. {#saMsmArita#} {%erinnert, — an%} (<ab>Acc.</ab>).
+<div n="1">— 2〉 {%inʼs Gedächtniss rufen, — Jmdm%} (<ab>Gen.</ab>). {#sasmArita#} {%inʼs Gedächtniss gerufen%}.
+<div n="p">— Mit {#anusam#} {%sich erinnern, gedenken;%} mit <ab>Acc.</ab> oder <ab>Gen.</ab> [Page7-225-c]
+<div n="p">— Mit {#aBisam#} dass; mit <ab>Acc.</ab> — {#pratisam#} <ab>dass.</ab>, mit <ab>Acc.</ab>
 <LEND>

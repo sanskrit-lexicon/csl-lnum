@@ -1,231 +1,206 @@
 <L>40628<pc>4-0301<k1>nud<k2>nud<h>1
-1. {#nud#}¦, {#nuda/ti, °te#} 
-<ls>DHĀTUP. 28, 2. 132.</ls> {#praRudyAt#} 
-<ls>HARIV. 7442.</ls> {#nunoda, nunude; anOtsIt#}, ved. {#nutTA/s, anutta; notsyati, °te#} <is>Kār</is>. 3 aus 
-<ls>SIDDH. K.</ls> zu <ls>P.7,2,10</ls>; partic. {#nutta#} und {#nunna#} 
-<ls>P. 8, 2, 56.</ls> 
-<ls>VOP. 26, 98.</ls> {#praRudita#} 
-<ls>MBH. 1, 6670.</ls> {#saMpraRudita#} 
-<ls>3, 377.</ls> {%stossen, fortstossen, rücken; vertreiben, austreiben, verscheuchen, entfernen%}: {#nu\dasva\ yAH pa^ri\spfDa^H#} 
-<ls>ṚV. 9, 53, 1.</ls> <ls n="ṚV. 9,">63, 24.</ls> {#bi\Beda^ va\laM nu^nu\de vivA^caH#} 
-<ls n="ṚV.">3, 34, 10.</ls> {#a\rvAYca^M nunude va\lam#} 
-<ls n="ṚV.">8, 14, 8.</ls> <ls n="ṚV.">1, 85, 10.</ls> {#U\rDvaM nu^nudra utsa\DiM piba^DyE#} {%in die Höhe stemmen, lüpfen%} 
-<ls n="ṚV. 1,">88, 4.</ls> {#taM pa^rA\vata\mindro^ nudatu#} 
-<ls>AV. 6, 75, 2. 124, 2. 9, 2, 15. 12, 1, 32.</ls> 
-<ls>ŚAT. BR. 1, 9, 3, 11. 11, 5, 5, 8. 9.</ls> {#tAMstaTEByo lokeByo 'nudanta#} 
-<ls>AIT. BR. 1, 23.</ls> {#BAginaM BAgAnnudante#} 
-<ls>2, 7. 3. 14. 50.</ls> {#parAcIM vAcA (nirftiM) nudAmi#} 
-<ls>TBR. 3, 1, 2, 3</ls> in <ls>Z. f. d. K. d. M. 7, 271.</ls> <ls>ṚV. PRĀT. 11, 20.</ls> {#mandaM mandaM nudati pavanaScAnukUlo yaTA tvAm (meGa)#} 
-<ls>MEGH. 9.</ls> {#nudati nfpaH sapatnAn#} 
-<ls>MBH.3,974.4,1395.</ls> <ls>VĀRĀHA-P.</ls> in <ls>Verz. d. Oxf. H. 57,a,17.</ls> {#Adityo divi devezu tamo nudati tejasA . taTEva nfpatirBUmAvaDarmAnnudate BfSam ..#} 
-<ls>MBH. 3, 12707.</ls> {#ahaM pApaM nudAmi te#} 
-<ls>1, 3391.</ls> {#(enaH) sarvaM tannudate paScAdyajYEH#} 
-<ls>?3, 1341. 12, 6634 (vgl. 5, 1589). SUŚR. 2, 360, 7.</ls> {#vAmetaraH saMSayamasya bAhuH keyUrabanDocCvasitErnunoda#} 
-<ls>RAGH. 6, 68.</ls> {#AtmAparADaM nudatIM cirAya SuSrUzayA#} 
-<ls>16, 85.</ls> {#kzapayati ca ripuM SokAMSca nudati#} 
-<ls>VARĀH. BṚH. S. 104, 6.</ls> pass.: {#nfpatervyajanAdiBistamo nunude#} 
-<ls>RAGH. 8, 40.</ls> {%schleudern%}: {#nunoda SAKiman#} 
-<ls>BHAṬṬ. 14, 109.</ls> {%weitertreiben, antreiben%}: {#sUtasya nudato vAhAn#} 
-<ls>MBH. 3, 15739.</ls> {#nutta#} und {#nunna#} {%fortgestossen, fortgedrängt%} 
-<ls>AK. 3, 2, 37.</ls> 
-<ls>H. 1482.</ls> 
-<ls>HALĀY. 4, 82</ls> (wo wohl {#nuttaM#} st. {#tunnaM#} zu lesen ist). {#gadAnunne mahAsure#} 
-<ls>MBH. 3, 679.</ls> {#(gadA) arjunena SarErnunnA pratimArgamaTAgamat#} 
-<ls>4, 1819.</ls> {#jA\yA patyA^ nu\ttA#} {%verstossen%} 
-<ls>AV. 10, 1. 3. 8, 8, 19. 9, 2, 4.</ls> {#tottrErnunna iva dvipaH#} {%angetrieben%} 
-<ls>R. 2, 40, 41.</ls> 
+1. {#nud#}¦, {#nuda/ti, °te#}
+<ls>DHĀTUP. 28,2.</ls> <ls n="DHĀTUP. 28,">132.</ls> {#praRudyAt#}
+<ls>HARIV. 7442.</ls> {#nunoda, nunude; anOtsIt#}, ved. {#nutTA/s, anutta; notsyati, °te#} <is>Kār.</is> 3 aus
+<ls>SIDDH. K.</ls> zu <ls>P. 7,2,10</ls>; partic. {#nutta#} und {#nunna#}
+<ls>P. 8,2,56.</ls>
+<ls>VOP. 26,98.</ls> {#praRudita#}
+<ls>MBH. 1,6670.</ls> {#saMpraRudita#}
+<ls n="MBH.">3,377.</ls> {%stossen, fortstossen, rücken; vertreiben, austreiben, verscheuchen, entfernen%}: {#nu\dasva\ yAH pa^ri\spfDa^H#}
+<ls>ṚV. 9,53,1.</ls> <ls n="ṚV. 9,">63,24.</ls> {#bi\Beda^ va\laM nu^nu\de vivA^caH#}
+<ls n="ṚV.">3,34,10.</ls> {#a\rvAYca^M nunude va\lam#}
+<ls n="ṚV.">8,14,8.</ls> <ls n="ṚV.">1,85,10.</ls> {#U\rDvaM nu^nudra utsa\DiM piba^DyE#} {%in die Höhe stemmen, lüpfen%}
+<ls n="ṚV. 1,">88,4.</ls> {#taM pa^rA\vata\mindro^ nudatu#}
+<ls>AV. 6,75,2.</ls> <ls n="AV. 6,">124,2.</ls> <ls n="AV.">9,2,15.</ls> <ls n="AV.">12,1,32.</ls>
+<ls>ŚAT. BR. 1,9,3,11. 11,5,5,8. 9.</ls> {#tAMstaTEByo lokeByo 'nudanta#}
+<ls>AIT. BR. 1,23.</ls> {#BAginaM BAgAnnudante#}
+<ls n="AIT. BR.">2,7. 3. 14. 50.</ls> {#parAcIM vAcA (nirftiM) nudAmi#}
+<ls>TBR. 3,1,2,3</ls> in <ls>Z. f. d. K. d. M. 7,271.</ls> <ls>ṚV. PRĀT. 11,20.</ls> {#mandaM mandaM nudati pavanaScAnukUlo yaTA tvAm (meGa)#}
+<ls>MEGH. 9.</ls> {#nudati nfpaH sapatnAn#}
+<ls>MBH. 3,974.</ls> <ls n="MBH.">4,1395.</ls> <ls>VĀRĀHA-P.</ls> in <ls>Verz. d. Oxf. H. 57,a,17.</ls> {#Adityo divi devezu tamo nudati tejasA . taTEva nfpatirBUmAvaDarmAnnudate BfSam ..#}
+<ls>MBH. 3,12707.</ls> {#ahaM pApaM nudAmi te#}
+<ls n="MBH.">1,3391.</ls> {#(enaH) sarvaM tannudate paScAdyajYEH#}
+<ls n="MBH.">3,1341.</ls> <ls n="MBH.">12,6634</ls> (vgl. <ls n="MBH.">5,1589</ls>). <ls>SUŚR. 2,360,7.</ls> {#vAmetaraH saMSayamasya bAhuH keyUrabanDocCvasitErnunoda#}
+<ls>RAGH. 6,68.</ls> {#AtmAparADaM nudatIM cirAya SuSrUzayA#}
+<ls n="RAGH.">16,85.</ls> {#kzapayati ca ripuM SokAMSca nudati#}
+<ls>VARĀH. BṚH. S. 104,6.</ls> pass.: {#nfpatervyajanAdiBistamo nunude#}
+<ls>RAGH. 8,40.</ls> {%schleudern%}: {#nunoda SAKiman#}
+<ls>BHAṬṬ. 14,109.</ls> {%weitertreiben, antreiben%}: {#sUtasya nudato vAhAn#}
+<ls>MBH. 3,15739.</ls> {#nutta#} und {#nunna#} {%fortgestossen, fortgedrängt%}
+<ls>AK. 3,2,37.</ls>
+<ls>H. 1482.</ls>
+<ls>HALĀY. 4,82</ls> (wo wohl {#nuttaM#} st. {#tunnaM#} zu lesen ist). {#gadAnunne mahAsure#}
+<ls>MBH. 3,679.</ls> {#(gadA) arjunena SarErnunnA pratimArgamaTAgamat#}
+<ls n="MBH.">4,1819.</ls> {#jA\yA patyA^ nu\ttA#} {%verstossen%}
+<ls>AV. 10,1,3.</ls> <ls n="AV.">8,8,19.</ls> <ls n="AV.">9,2,4.</ls> {#tottrErnunna iva dvipaH#} {%angetrieben%}
+<ls>R. 2,40,41.</ls>
 <div n="v">— Vgl.
-<lang n="Old-Church-Slavonic">ноудити, нѫдити</lang> (schon von 
+<lang n="Old-Church-Slavonic">ноудити, нѫдити</lang> (schon von
 <ls>MIKLOSICH</ls> verglichen),
 <lang n="Old-Church-Slavonic">ноужда, нѫжда</lang> {%Noth.%}
-
-<div n="p">— caus. {#nodayati#} {%antreiben%}: {#tAnhayAn . anodayat (prAcodayat#} 
-<ls>MBH. 3, 12095</ls>) <ls>ARJ. 6, 17.</ls> {#te nodyamAnA (codyamAnA#} 
-<ls>MBH. 3, 2794</ls>) {#viDivadvAhukena hayottamAH#} 
-<ls>N. 19, 22.</ls> {#nodayASvAn#} 
-<ls>ŚĀK. 7, 20. v. l.</ls> für {#codaya#}.{# nodita#} v.l. für {#codita, deSita#} 
-<ls>Spr. 463.</ls> {#mAtaNgAH - aNkuSANguzWanoditAH#} 
-<ls>MBH. 9, 1005.</ls> {#vizRunA nAsmi noditaH#} 
-<ls>R. 5, 46, 12.</ls> {#tezAM sUtamanodayat#} 
-<ls>VĀYU-P.</ls> in <ls>Verz. d. Oxf. H. 47,a,5 v. u.</ls>
-
-<div n="p">— intens. {%wiederholt wegstossen, vertreiben%}: {#tAnviSve devA anonudyanta#} 
-<ls>AIT. BR. 3, 30.</ls>
-
-<div n="p">— {#ati#} {%vorübertreiben%}: {#yakzamo^ vI\rudBi\rati^nutto nA\vyA^ etu sro\tyAH#} 
-<ls>AV. 8, 7, 15.</ls>
-
-<div n="p">— {#apa#} {%fortstossen, vertreiben, verscheuchen%} 
-<ls>ṚV. 1, 167, 4.</ls> {#apa\ mfDo^ nudasva#} 
-<ls n="ṚV.">3, 47, 2.</ls> <ls n="ṚV.">10, 131, 1.</ls> {#apa^ mf\tyuM nu^dantu#} 
-<ls>AV. 12, 3, 49. 10, 1, 1.</ls> {#apAGaSaMsaM nudatAmarAtim#} 
-<ls>TBR. 3, 1, 1, 4. 13. 14</ls> in <ls>Z. f. d. K. d. M. 7, 267. 269. 270.</ls> {#jarAM rogamapanudya SarIrAt#} 
-<ls>ŚĀṄKH. GṚHY. 3, 8.</ls> 
-<ls>KAUŚ. 48. 97.</ls> 
-<ls>VS. 28, 13.</ls> {#yaH - akzOhiRISatamapAnudat#} 
-<ls>BHĀG. P. 1, 16, 35.</ls> {#DanatfzRAmapAnudat#} 
+<div n="p">— caus. {#nodayati#} {%antreiben%}: {#tAnhayAn . anodayat (prAcodayat#}
+<ls>MBH. 3,12095</ls>) <ls>ARJ. 6,17.</ls> {#te nodyamAnA (codyamAnA#}
+<ls>MBH. 3,2794</ls>) {#viDivadvAhukena hayottamAH#}
+<ls>N. 19,22.</ls> {#nodayASvAn#}
+<ls>ŚĀK. 7,20. v. l.</ls> für {#codaya#}.{# nodita#} v.l. für {#codita, deSita#}
+<ls>Spr. 463.</ls> {#mAtaNgAH — aNkuSANguzWanoditAH#}
+<ls>MBH. 9,1005.</ls> {#vizRunA nAsmi noditaH#}
+<ls>R. 5,46,12.</ls> {#tezAM sUtamanodayat#}
+<ls>VĀYU-P.</ls> in <ls>Verz. d. Oxf. H. 47,a,5</ls> v. u.
+<div n="p">— intens. {%wiederholt wegstossen, vertreiben%}: {#tAnviSve devA anonudyanta#}
+<ls>AIT. BR. 3,30.</ls>
+<div n="p">— {#ati#} {%vorübertreiben%}: {#yakzamo^ vI\rudBi\rati^nutto nA\vyA^ etu sro\tyAH#}
+<ls>AV. 8,7,15.</ls>
+<div n="p">— {#apa#} {%fortstossen, vertreiben, verscheuchen%}
+<ls>ṚV. 1,167,4.</ls> {#apa\ mfDo^ nudasva#}
+<ls n="ṚV.">3,47,2.</ls> <ls n="ṚV.">10,131,1.</ls> {#apa^ mf\tyuM nu^dantu#}
+<ls>AV. 12,3,49.</ls> <ls n="AV.">10,1,1.</ls> {#apAGaSaMsaM nudatAmarAtim#}
+<ls>TBR. 3,1,1,4. 13. 14</ls> in <ls>Z. f. d. K. d. M. 7,267. 269. 270.</ls> {#jarAM rogamapanudya SarIrAt#}
+<ls>ŚĀṄKH. GṚHY. 3,8.</ls>
+<ls>KAUŚ. 48. 97.</ls>
+<ls>VS. 28,13.</ls> {#yaH — akzOhiRISatamapAnudat#}
+<ls>BHĀG. P. 1,16,35.</ls> {#DanatfzRAmapAnudat#}
 <ls>MBH. 14,1853</ls>;
 [Page4-0302]
-vgl. {#apA#}.{# mamApanudyAdyacCokam#} 
-<ls>BHAG. 2, 8.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 132. BHĀG. P. 5, 8, 17. KULL. zu M. 11, 86. 115. BHAṬṬ. 10, 13.</ls> Vgl. {#apanutti, °nuda, °nAde#} fgg. — caus. = simpl.: {#apanodita (Baya)#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 132.</ls> — desid. s. {#apanunutsu#} .
-
-<div n="p">— {#vyapa#} {%vertreiben, verscheuchen%}: {#alakzamIM vyapanotsyaTa#} 
-<ls>MBH. 3, 10695.</ls> {#SokaM rAjanvyapanuda#} 
-<ls>11, 24.</ls> {#tezAM Sramam - vyapAnudat#} 
-<ls>7, 3740</ls>; vgl. {#vyapA#} und {#vyapanutti#} .
-
-<div n="p">— {#aBi#} {%Jmd stossen, drängen%}: {#daRqakAzWABinunnANgI (vasuMDarA KAyamA nA)#} 
-<ls>MBH. 14, 1718.</ls> — caus. {%antreiben%}: {#tato 'ByanodayatkfzRo yujyatAmiti dArukam#} 
-<ls>MBH. 14, 1478.</ls> {#mAdfSenABinoditaH#} 
-<ls>?7,4226. VĀYU-P. in Verz. d. Oxf. H. 47,b,4.</ls>
-
-<div n="p">— {#ava#} caus. {%Jmd%} (acc.) {%durch Jmd%} (acc.) {%wegtreiben lassen%}: {#yadi . kurUnavAnodayizyastam#} 
-<ls>MBH. 7, 3069.</ls>
-
-<div n="p">— {#paryava#} {%hinstossen%} d. h. {%hinschaffen zu%} (acc.): {#baliM hriyamARaM panTAnaM paryavanudati#} 
-<ls>PAÑCAV. BR. 15, 7, 4.</ls>
-
-<div n="p">— {#apA#} {%forttreiben, vertreiben, verscheuchen, entfernen%}: {#aBidravArjuna kzipraM kurUndroRAdapAnuda#} 
-<ls>MBH. 7, 8691.</ls> {#puraMdarasya karRa tvaM budDimetAmapAnuda#} 
-<ls>3, 16973.</ls> {#karmadozAnapAnudan#} (partic.) 
-<ls>M. 6, 95.</ls> {#gurustrIgamanIyaM tu vratEreBirapAnudet#} 
-<ls>11, 102. 169.</ls> Die unlogische Verbindung der zwei Prapositonen ist nur durch das Metrum veranlasst.
-
-<div n="p">— {#vyapA#} {%entfernen, verscheuchen%}: {#parivezwanametezAM kzipraM cEva vyapAnuda#} 
-<ls>MBH. 4, 1319.</ls> {#jyezWasya pARquputrasya SokaM BIzma vyapAnuda#} 
-<ls>12, 1836.</ls> Auch hier gilt das bei {#apA#} Bemerkte.
-
-<div n="p">— {#upA#} dass.: {#tataH SezAnupAnudat . izujAlena mahatA#} 
-<ls>MBH. 7, 1771.</ls> {#nAdya SokamupAnude#} {%von sich entfernen, sich befreien von%} 268. {%zertrümmern, zerspalten%}: {#(kArmukam) tadapyasya SitErBallEstriDA triBirupAnudat#} 
-<ls>6, 5619.</ls> Aller Wahrscheinlichkeit nach ist wohl überall {#apAnu°#} zu lesen.
-
-<div n="p">— {#upa#} {%herantreiben%}: {#drutamarudupanunnEH - ambuvAhEH#} 
-<ls>ŚIŚ. 4, 68.</ls>
-
-<div n="p">— {#nis#} {%ausstossen, wegräumen, austreiben, verscheuchen, entfernen%} 
-<ls>AV. 6, 75, 1. 12, 2, 15. 16. 42.</ls> 
-<ls>AIT. BR. 4, 6. 5, 11.</ls> 
-<ls>KAUŚ. 71.</ls> 
-<ls>TAITT. ĀR. 10. 1, 8.</ls> {#kzuDA nirnudati#} (lies {#nirRu°) prajYAm#} 
-<ls>MBH. 14, 2780.</ls> {#nirRudannivAsya cAyuH#} 
-<ls>5, 1590.</ls> {#tacca nirRudati yatpurA kftam#} 
-<ls>?12, 7126 = 9037.</ls> {#nirRudanpApamAtmanaH#} 
-<ls>R. 1, 13, 40.</ls> {%von sich stossen, zurückweisen%}: {#DAnA matsyAnpayo mAMsaM SAkaM cEva na nirRudet#} 
-<ls>M. 4, 250.</ls> 
+vgl. {#apA#}.{# mamApanudyAdyacCokam#}
+<ls>BHAG. 2,8.</ls>
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 132.</ls> <ls>BHĀG. P. 5,8,17.</ls> <ls>KULL.</ls> zu <ls>M. 11,86.</ls> <ls n="M. 11,">115.</ls> <ls>BHAṬṬ. 10,13.</ls> Vgl. {#apanutti, °nuda, °nAde#} fgg. — caus. = simpl.: {#apanodita (Baya)#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 132.</ls> — desid. s. {#apanunutsu#} .
+<div n="p">— {#vyapa#} {%vertreiben, verscheuchen%}: {#alakzamIM vyapanotsyaTa#}
+<ls>MBH. 3,10695.</ls> {#SokaM rAjanvyapanuda#}
+<ls n="MBH.">11,24.</ls> {#tezAM Sramam — vyapAnudat#}
+<ls n="MBH.">7,3740</ls>; vgl. {#vyapA#} und {#vyapanutti#} .
+<div n="p">— {#aBi#} {%Jmd stossen, drängen%}: {#daRqakAzWABinunnANgI (vasuMDarA KAyamA nA)#}
+<ls>MBH. 14,1718.</ls> — caus. {%antreiben%}: {#tato 'ByanodayatkfzRo yujyatAmiti dArukam#}
+<ls>MBH. 14,1478.</ls> {#mAdfSenABinoditaH#}
+<ls n="MBH.">7,4226.</ls> <ls>VĀYU-P.</ls> in <ls>Verz. d. Oxf. H. 47,b,4.</ls>
+<div n="p">— {#ava#} caus. {%Jmd%} (acc.) {%durch Jmd%} (acc.) {%wegtreiben lassen%}: {#yadi . kurUnavAnodayizyastam#}
+<ls>MBH. 7,3069.</ls>
+<div n="p">— {#paryava#} {%hinstossen%} d. h. {%hinschaffen zu%} (acc.): {#baliM hriyamARaM panTAnaM paryavanudati#}
+<ls>PAÑCAV. BR. 15,7,4.</ls>
+<div n="p">— {#apA#} {%forttreiben, vertreiben, verscheuchen, entfernen%}: {#aBidravArjuna kzipraM kurUndroRAdapAnuda#}
+<ls>MBH. 7,8691.</ls> {#puraMdarasya karRa tvaM budDimetAmapAnuda#}
+<ls n="MBH.">3,16973.</ls> {#karmadozAnapAnudan#} (partic.)
+<ls>M. 6,95.</ls> {#gurustrIgamanIyaM tu vratEreBirapAnudet#}
+<ls n="M.">11,102.</ls> <ls n="M. 11,">169.</ls> Die unlogische Verbindung der zwei Prapositonen ist nur durch das Metrum veranlasst.
+<div n="p">— {#vyapA#} {%entfernen, verscheuchen%}: {#parivezwanametezAM kzipraM cEva vyapAnuda#}
+<ls>MBH. 4,1319.</ls> {#jyezWasya pARquputrasya SokaM BIzma vyapAnuda#}
+<ls n="MBH.">12,1836.</ls> Auch hier gilt das bei {#apA#} Bemerkte.
+<div n="p">— {#upA#} dass.: {#tataH SezAnupAnudat . izujAlena mahatA#}
+<ls>MBH. 7,1771.</ls> {#nAdya SokamupAnude#} {%von sich entfernen, sich befreien von%} 268. {%zertrümmern, zerspalten%}: {#(kArmukam) tadapyasya SitErBallEstriDA triBirupAnudat#}
+<ls n="MBH.">6,5619.</ls> Aller Wahrscheinlichkeit nach ist wohl überall {#apAnu°#} zu lesen.
+<div n="p">— {#upa#} {%herantreiben%}: {#drutamarudupanunnEH — ambuvAhEH#}
+<ls>ŚIŚ. 4,68.</ls>
+<div n="p">— {#nis#} {%ausstossen, wegräumen, austreiben, verscheuchen, entfernen%}
+<ls>AV. 6,75,1.</ls> <ls n="AV.">12,2,15.</ls> <ls n="AV. 12,2,">16.</ls> <ls n="AV. 12,2,">42.</ls>
+<ls>AIT. BR. 4,6.</ls> <ls n="AIT. BR.">5,11.</ls>
+<ls>KAUŚ. 71.</ls>
+<ls>TAITT. ĀR. 10. 1,8.</ls> {#kzuDA nirnudati#} (lies {#nirRu°) prajYAm#}
+<ls>MBH. 14,2780.</ls> {#nirRudannivAsya cAyuH#}
+<ls n="MBH.">5,1590.</ls> {#tacca nirRudati yatpurA kftam#}
+<ls n="MBH.">12,7126</ls> = <ls n="MBH. 12,">9037.</ls> {#nirRudanpApamAtmanaH#}
+<ls>R. 1,13,40.</ls> {%von sich stossen, zurückweisen%}: {#DAnA matsyAnpayo mAMsaM SAkaM cEva na nirRudet#}
+<ls>M. 4,250.</ls>
 <div n="v">— Vgl. {#nirRoda#} .
-
-<div n="p">— {#aBinis#} {%austreiben, verscheuchen, entfernen%}: {#ajYAnAdDi kftaM pApaM tapasEvABinirnudet#} (lies: {#°nirRudet#}) 
-<ls>MBH. 12, 10728.</ls>
-
-<div n="p">— {#parA#} {%wegstossen, - drängen, - treiben, entfernen%} 
-<ls>ṚV. 1, 39, 2.</ls> {#parA\ SarDa^ntaM nunude a\Bi kzAm#} 
-<ls n="ṚV.">7, 18, 16.</ls> <ls n="ṚV. 7,">32, 25.</ls> <ls n="ṚV.">8, 14, 9.</ls> {#parA^va\taM nu^deTAm#} {%con der Stelle rücken%} 
-<ls n="ṚV.">1, 116, 9.</ls> <ls>AV. 3, 18, 3.</ls> {#tannaH parARuda viBo kaSmalaM mAnasaM mahat#} 
-<ls>BHĀG. P. 3, 7, 7.</ls> {#tAM cApi yuzmaccaraRasevayAhaM parARude#} 18.
-
-<div n="p">— {#pari#} {%herabstossen%}: {#nu\tTA acyu^ta\M sada^sa\spari\ svAt (adrim)#} 
-<ls>ṚV. 6, 17, 5.</ls> {%hineinstossen in, verwunden%}: {#naKadaSanErDAtrImAtmAnaM ca pariRudati#} 
-<ls>SUŚR. 1, 375, 6.</ls>
-
-<div n="p">— {#pra#} {%fortstossen, vordrängen, forttreiben, verscheuchen%} 
-<ls>AV. 1, 7, 4. 2, 25, 5. 3, 6, 8.</ls> 
-<ls>VS. 2, 30. 15, 1.</ls> {#sA no\ BUmi\H pra Ru^datAM sa\patnA^n#} 
-<ls>AV. 12, 1. 41.</ls> 
-<ls>PAÑCAV. BR. 20, 6, 1.</ls> 
-<ls>KAUŚ. 48.</ls> {#sa SatrusenAM tarasA praRudya#} 
-<ls>MBH. 4, 1660. 5, 1868. 14, 224.</ls> {#nAvamanyedaBigataM na praRudyAtkaTaMca na#} 
-<ls>13. 3212.</ls> {#anDakAraM praRudannudatizWata candramAH#} 
-<ls>4, 1068.</ls> {#budDyA BayaM praRudati#} 
-<ls>5. 1311.</ls> {#gAvo mamEnaH #}
+<div n="p">— {#aBinis#} {%austreiben, verscheuchen, entfernen%}: {#ajYAnAdDi kftaM pApaM tapasEvABinirnudet#} (lies: {#°nirRudet#})
+<ls>MBH. 12,10728.</ls>
+<div n="p">— {#parA#} {%wegstossen, — drängen, — treiben, entfernen%}
+<ls>ṚV. 1,39,2.</ls> {#parA\ SarDa^ntaM nunude a\Bi kzAm#}
+<ls n="ṚV.">7,18,16.</ls> <ls n="ṚV. 7,">32,25.</ls> <ls n="ṚV.">8,14,9.</ls> {#parA^va\taM nu^deTAm#} {%con der Stelle rücken%}
+<ls n="ṚV.">1,116,9.</ls> <ls>AV. 3,18,3.</ls> {#tannaH parARuda viBo kaSmalaM mAnasaM mahat#}
+<ls>BHĀG. P. 3,7,7.</ls> {#tAM cApi yuzmaccaraRasevayAhaM parARude#} 18.
+<div n="p">— {#pari#} {%herabstossen%}: {#nu\tTA acyu^ta\M sada^sa\spari\ svAt (adrim)#}
+<ls>ṚV. 6,17,5.</ls> {%hineinstossen in, verwunden%}: {#naKadaSanErDAtrImAtmAnaM ca pariRudati#}
+<ls>SUŚR. 1,375,6.</ls>
+<div n="p">— {#pra#} {%fortstossen, vordrängen, forttreiben, verscheuchen%}
+<ls>AV. 1,7,4.</ls> <ls n="AV.">2,25,5.</ls> <ls n="AV.">3,6,8.</ls>
+<ls>VS. 2,30.</ls> <ls n="VS.">15,1.</ls> {#sA no\ BUmi\H pra Ru^datAM sa\patnA^n#}
+<ls>AV. 12,1,41.</ls>
+<ls>PAÑCAV. BR. 20,6,1.</ls>
+<ls>KAUŚ. 48.</ls> {#sa SatrusenAM tarasA praRudya#}
+<ls>MBH. 4,1660.</ls> <ls n="MBH.">5,1868.</ls> <ls n="MBH.">14,224.</ls> {#nAvamanyedaBigataM na praRudyAtkaTaMca na#}
+<ls n="MBH. 14,">13.</ls> <ls n="MBH. 14,">3212.</ls> {#anDakAraM praRudannudatizWata candramAH#}
+<ls n="MBH.">4,1068.</ls> {#budDyA BayaM praRudati#}
+<ls n="MBH. 4,">5.</ls> <ls n="MBH. 4,">1311.</ls> {#gAvo mamEnaH #}
 [Page4-0303]
-{# praRudantu#} 
-<ls>13, 3675.</ls> {#praRotsye 'haM Bayametat#} 
-<ls>14, 267.</ls> {#praRudyAnme vfjinam#} 
-<ls>HARIV. 7442.</ls> 
-<ls>R. 3, 78, 8.</ls> {#praRudya Sokam#} ({%bei sich%}) 
-<ls>R. GORR. 2, 53, 41.</ls> {%in Bewegung setzen, treiben%}: {#pra nAka^mf\zvaM nu^nude bf\hanta^m#} 
-<ls>ṚV. 7, 86, 1.</ls> — partic. {#pra/Rutta#} 
-<ls>AV. 9, 2, 14. 11, 9, 20.</ls> {#praRunna#} {%fortgestossen%} 
-<ls>ŚIŚ. 9, 71.</ls> {%vertrieben, verscheucht%}: {#(dAnavAn) gARqIvAstrapraRunnAn#} 
-<ls>MBH. 3, 12253. 11392. 4, 1490. 1695.</ls> {%angetrieben%}: {#(tena) tezAM (hayAnAM) praRunnAnAmASutvAcCIGragAminAm#} 
-<ls>3, 12096.</ls> {%in Bewegung gesetzt%}: {#bAhuvegapraRunnena samudreRa#} 
-<ls>R. 5, 3, 38.</ls> {#tasya sEnyasya reRumudDUtaM vE vAjiKurapraRunnam#} 
-<ls>MBH. 3, 15691.</ls> {#praRudita#} in der Stelle: {#(gAm) kaSAdaRqapraRuditAm#} {%weggetrieben%} 
-<ls>MBH. 1, 6670.</ls> Vgl. {#praRud#} u. s. w. — caus. 
-<div n="1"> 1) {%von sich wegstossen%}: {#sa mftyupASAnpurataH praRodya SokAtigo modate svargaloke#} 
-<ls>KAṬHOP. 1, 18.</ls> 
-<div n="1">— 2) {%in Bewegung setzen, aufregen%}: {#BayapraRoditAntarAtman#} 
-<ls>PAÑCAT. 165, 10.</ls> 
-<div n="1">— 3) {%Jmd%} (acc.) {%zu Etwas%} (acc.) {%drängen, Jmd um Etwas angehen%}: {#praRodayAmyahaM yattvAM tanme vyAKyAtumarhasi#} 
-<ls>VARĀH. BṚH. S. 87, 44.</ls>
-
-<div n="p">— {#atipra#} {%Jmd stark drängen, Jmd stark zusetzen%} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 193, 14.</ls>
-
-<div n="p">— {#anupra#} {%von sich stossen%}: {#anugfhRIyAnnAnupraRudet#} 
-<ls>KAUŚ. 56.</ls> {%verscheuchen, in die Flucht jagen%}: {#anupraRunnA rakzoBiH siMhEriva mahAdvipAH#} 
-<ls>R. 6, 7, 36.</ls>
-
-<div n="p">— {#saMpra#} {%treiben, drängen%}: {#viDinA saMpraRuditaH SApAyAsya mano daDe#} 
-<ls>MBH. 3, 377.</ls> viell. {%fern halten von%} (ablat.) so v. a. {%missgönnen%} 
-<ls>5, 745.</ls>
-
-<div n="p">— {#prati#} {%zurückstossen, abwehren%}: {#agne^ ma\nyuM pra^tinu\danpare^zAm#} 
-<ls>ṚV. 10, 128, 6.</ls> 
-<ls>VS. 15, 1.</ls> 
-<ls>TS. 1, 1, 5, 6. 9, 8.</ls> 
-<ls>KĀṬH. 28, 4. 31, 8.</ls> 
-<ls>PAÑCAV. BR. 16, 6, 12.</ls> {#A\di\tyA vA e\taM BUtyE\ prati^nudante#} 
-<ls>TS. 2, 3, 1, 1.</ls>
-
-<div n="p">— {#vi#} 
-<div n="1"> 1) {%auseinandertreiben, wegtreiben, vertreiben%}: {#vi mfDo^ nudasva#} 
-<ls>ṚV. 10, 84, 2.</ls> <ls n="ṚV. 10,">180, 2.</ls> 
-<ls>ŚĀṄKH. ŚR. 14, 38, 5. 6.</ls> 
-<div n="1">— 2) {%verwunden%}: {#codayAmAsa tAnaSvAnvinunnAnBIzmasAyakEH#} 
-<ls>MBH. 6, 4846.</ls> {#mocayAmAsa turagAnvinunnAnkaNkapattriBiH#} 
-<ls>7, 3727.</ls> {#SarErvinunnANganiyantfvAhayoH#} 
-<ls>8, 4528.</ls> 
-<div n="1">— 3) {%schlagen, spielen%} (die Cyther): {#vIRAm#} 
-<ls>BHĀG. P. 4, 8, 38.</ls> {#Atodyam#} 
-<ls>12, 39.</ls> 
-<div n="v">— Vgl. {#vinud#} u. s. w. — caus. 
-<div n="1"> 1) {%vertreiben, verscheuchen%}: {#tApaM vinodaya dfzwiBiH#} 
-<ls>GĪT. 10, 13.</ls> {#vinoditadinaklama#} 
-<ls>ŚIŚ. 4, 66.</ls> 
-<div n="1">— 2) {%zubringen%} (die Zeit): {#(tam) ASvAsayanto viprAgryAH kzapAM sarvAM vyanodayan#} 
-<ls>MBH. 3, 46.</ls> 
-<div n="1">— 3) {%zerstreuen, aufheitern, erheitern%}: {#(apsarasaH) prahfzwarUpA vinoditAH keSinisUdanena#} 
-<ls>HARIV. 8470.</ls> {#prahfzwakoyazwikokilasvanErvinodayantaM (vinoditaM taM#} 
-<ls>R. GORR. 2, 54, 42</ls>) {#vasuDADaram#} 
-<ls>R. 2, 54, 41.</ls> {#puzpaM PalaM cArtavamAharantyaH - vinodayizyanti navABizaNgAm (tvAm)#} 
-<ls>RAGH. 14, 77.</ls> {#kaTaM vA (devI) sarujatvAdvinodyate#} 
-<ls>MĀLAV. 43, 13.</ls> {#kvopaviSya - latAsu dfzwiM vinodayAmi#} 
-<ls>ŚĀK. 81, 17, v. l.</ls> {#kva nu Kalu - SramaklAntamAtmAnaM vinodayAmi#} 
-<ls>32, 12.</ls> <ls>MĀLAV. 41, 3.</ls> <ls>VIKR. 30, 10.</ls> <ls>PRAB. 2, 16.</ls> {#lolaM vinodaya manaH sumanolatAsu#} 
-<ls>Spr. 135.</ls> {#ceto vinodayan . sTAnasTAnezu baBrAma#} 
-<ls>KATHĀS. 26, 74.</ls> 
-<div n="1">— 4) {%sich erheitern, sich ergötzen an%} (instr.): {#lakzmIrvinodayati yena#} 
-<ls>RAGH. 5, 67.</ls>
-
-<div n="p">— {#aBivi#} caus. {%aufheitern, erheitern%} 
-<ls>MBH. 12, 898.</ls>
-
-<div n="p">— {#sam#} {%zusammendrängen, - bringen%}: {#a\mUM ca\ mAM ca\ saM nu^da#} 
-<ls>AV. 6, 139, 3.</ls> {#i\hemAvi^ndra\ saM nu^da cakravA\keva\ daMpa^tI#} 
-<ls>14, 2, 64.</ls> <ls>KAUŚ. 79.</ls> — caus. 
-<div n="1"> 1) dass.: {#svAM senAM samanodayat#} 
-<ls>MBH. 6, 777.</ls> {#taM taTA CinnamUlena saMnodayitumarhasi#} (?) 
-<ls>12, 5443.</ls> 
-<div n="1">— 2) {%herbeischaffen%}: {#ahaM saMnodayAmyenaM yaH kAryaM sADayizyati#} 
-<ls>R. 5, 1, 92.</ls> 
-<div n="1">— 3) {%antreiben%}: {#hayottamAn - saMnodayAmAsa (saMcodayAmAsa#} 
-<ls>MBH. 3, 2850</ls>) <ls>N. 20, 33.</ls>
+{# praRudantu#}
+<ls n="MBH.">13,3675.</ls> {#praRotsye 'haM Bayametat#}
+<ls n="MBH.">14,267.</ls> {#praRudyAnme vfjinam#}
+<ls>HARIV. 7442.</ls>
+<ls>R. 3,78,8.</ls> {#praRudya Sokam#} ({%bei sich%})
+<ls>R. GORR. 2,53,41.</ls> {%in Bewegung setzen, treiben%}: {#pra nAka^mf\zvaM nu^nude bf\hanta^m#}
+<ls>ṚV. 7,86,1.</ls> — partic. {#pra/Rutta#}
+<ls>AV. 9,2,14.</ls> <ls n="AV.">11,9,20.</ls> {#praRunna#} {%fortgestossen%}
+<ls>ŚIŚ. 9,71.</ls> {%vertrieben, verscheucht%}: {#(dAnavAn) gARqIvAstrapraRunnAn#}
+<ls>MBH. 3,12253.</ls> <ls n="MBH. 3,">11392.</ls> <ls n="MBH.">4,1490.</ls> <ls n="MBH. 4,">1695.</ls> {%angetrieben%}: {#(tena) tezAM (hayAnAM) praRunnAnAmASutvAcCIGragAminAm#}
+<ls n="MBH.">3,12096.</ls> {%in Bewegung gesetzt%}: {#bAhuvegapraRunnena samudreRa#}
+<ls>R. 5,3,38.</ls> {#tasya sEnyasya reRumudDUtaM vE vAjiKurapraRunnam#}
+<ls>MBH. 3,15691.</ls> {#praRudita#} in der Stelle: {#(gAm) kaSAdaRqapraRuditAm#} {%weggetrieben%}
+<ls>MBH. 1,6670.</ls> Vgl. {#praRud#} u. s. w. — caus.
+<div n="1"> 1) {%von sich wegstossen%}: {#sa mftyupASAnpurataH praRodya SokAtigo modate svargaloke#}
+<ls>KAṬHOP. 1,18.</ls>
+<div n="1">— 2) {%in Bewegung setzen, aufregen%}: {#BayapraRoditAntarAtman#}
+<ls>PAÑCAT. 165,10.</ls>
+<div n="1">— 3) {%Jmd%} (acc.) {%zu Etwas%} (acc.) {%drängen, Jmd um Etwas angehen%}: {#praRodayAmyahaM yattvAM tanme vyAKyAtumarhasi#}
+<ls>VARĀH. BṚH. S. 87,44.</ls>
+<div n="p">— {#atipra#} {%Jmd stark drängen, Jmd stark zusetzen%}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 193,14.</ls>
+<div n="p">— {#anupra#} {%von sich stossen%}: {#anugfhRIyAnnAnupraRudet#}
+<ls>KAUŚ. 56.</ls> {%verscheuchen, in die Flucht jagen%}: {#anupraRunnA rakzoBiH siMhEriva mahAdvipAH#}
+<ls>R. 6,7,36.</ls>
+<div n="p">— {#saMpra#} {%treiben, drängen%}: {#viDinA saMpraRuditaH SApAyAsya mano daDe#}
+<ls>MBH. 3,377.</ls> viell. {%fern halten von%} (ablat.) so v. a. {%missgönnen%}
+<ls n="MBH.">5,745.</ls>
+<div n="p">— {#prati#} {%zurückstossen, abwehren%}: {#agne^ ma\nyuM pra^tinu\danpare^zAm#}
+<ls>ṚV. 10,128,6.</ls>
+<ls>VS. 15,1.</ls>
+<ls>TS. 1,1,5,6. 9,8.</ls>
+<ls>KĀṬH. 28,4. 31,8.</ls>
+<ls>PAÑCAV. BR. 16,6,12.</ls> {#A\di\tyA vA e\taM BUtyE\ prati^nudante#}
+<ls>TS. 2,3,1,1.</ls>
+<div n="p">— {#vi#}
+<div n="1"> 1) {%auseinandertreiben, wegtreiben, vertreiben%}: {#vi mfDo^ nudasva#}
+<ls>ṚV. 10,84,2.</ls> <ls n="ṚV. 10,">180,2.</ls>
+<ls>ŚĀṄKH. ŚR. 14,38,5. 6.</ls>
+<div n="1">— 2) {%verwunden%}: {#codayAmAsa tAnaSvAnvinunnAnBIzmasAyakEH#}
+<ls>MBH. 6,4846.</ls> {#mocayAmAsa turagAnvinunnAnkaNkapattriBiH#}
+<ls n="MBH.">7,3727.</ls> {#SarErvinunnANganiyantfvAhayoH#}
+<ls n="MBH.">8,4528.</ls>
+<div n="1">— 3) {%schlagen, spielen%} (die Cyther): {#vIRAm#}
+<ls>BHĀG. P. 4,8,38.</ls> {#Atodyam#}
+<ls n="BHĀG. P. 4,">12,39.</ls>
+<div n="v">— Vgl. {#vinud#} u. s. w. — caus.
+<div n="1"> 1) {%vertreiben, verscheuchen%}: {#tApaM vinodaya dfzwiBiH#}
+<ls>GĪT. 10,13.</ls> {#vinoditadinaklama#}
+<ls>ŚIŚ. 4,66.</ls>
+<div n="1">— 2) {%zubringen%} (die Zeit): {#(tam) ASvAsayanto viprAgryAH kzapAM sarvAM vyanodayan#}
+<ls>MBH. 3,46.</ls>
+<div n="1">— 3) {%zerstreuen, aufheitern, erheitern%}: {#(apsarasaH) prahfzwarUpA vinoditAH keSinisUdanena#}
+<ls>HARIV. 8470.</ls> {#prahfzwakoyazwikokilasvanErvinodayantaM (vinoditaM taM#}
+<ls>R. GORR. 2,54,42</ls>) {#vasuDADaram#}
+<ls>R. 2,54,41.</ls> {#puzpaM PalaM cArtavamAharantyaH — vinodayizyanti navABizaNgAm (tvAm)#}
+<ls>RAGH. 14,77.</ls> {#kaTaM vA (devI) sarujatvAdvinodyate#}
+<ls>MĀLAV. 43,13.</ls> {#kvopaviSya — latAsu dfzwiM vinodayAmi#}
+<ls>ŚĀK. 81,17, v. l.</ls> {#kva nu Kalu — SramaklAntamAtmAnaM vinodayAmi#}
+<ls n="ŚĀK.">32,12.</ls> <ls>MĀLAV. 41,3.</ls> <ls>VIKR. 30,10.</ls> <ls>PRAB. 2,16.</ls> {#lolaM vinodaya manaH sumanolatAsu#}
+<ls>Spr. 135.</ls> {#ceto vinodayan . sTAnasTAnezu baBrAma#}
+<ls>KATHĀS. 26,74.</ls>
+<div n="1">— 4) {%sich erheitern, sich ergötzen an%} (instr.): {#lakzmIrvinodayati yena#}
+<ls>RAGH. 5,67.</ls>
+<div n="p">— {#aBivi#} caus. {%aufheitern, erheitern%}
+<ls>MBH. 12,898.</ls>
+<div n="p">— {#sam#} {%zusammendrängen, — bringen%}: {#a\mUM ca\ mAM ca\ saM nu^da#}
+<ls>AV. 6,139,3.</ls> {#i\hemAvi^ndra\ saM nu^da cakravA\keva\ daMpa^tI#}
+<ls n="AV.">14,2,64.</ls> <ls>KAUŚ. 79.</ls> — caus.
+<div n="1"> 1) dass.: {#svAM senAM samanodayat#}
+<ls>MBH. 6,777.</ls> {#taM taTA CinnamUlena saMnodayitumarhasi#} (?)
+<ls n="MBH.">12,5443.</ls>
+<div n="1">— 2) {%herbeischaffen%}: {#ahaM saMnodayAmyenaM yaH kAryaM sADayizyati#}
+<ls>R. 5,1,92.</ls>
+<div n="1">— 3) {%antreiben%}: {#hayottamAn — saMnodayAmAsa (saMcodayAmAsa#}
+<ls>MBH. 3,2850</ls>) <ls>N. 20,33.</ls>
 [Page4-0304]
-
-<div n="p">— {#upasam#} {%zusammendrängen, - bringen, herbeischaffen%}: {#marIcIrupasaMnuda#} 
-<ls>TAITT. ĀR. 4, 39, 1.</ls> {#asmaByaM kzatramajaraM suvIryaMgomadaSvavadupasaMnudeha#} 
-<ls>TAITT. BR. 3, 1, 1, 10</ls> in <ls>Z. f. d. K. d. M. 7, 268.</ls>
+<div n="p">— {#upasam#} {%zusammendrängen, — bringen, herbeischaffen%}: {#marIcIrupasaMnuda#}
+<ls>TAITT. ĀR. 4,39,1.</ls> {#asmaByaM kzatramajaraM suvIryaMgomadaSvavadupasaMnudeha#}
+<ls>TAITT. BR. 3,1,1,10</ls> in <ls>Z. f. d. K. d. M. 7,268.</ls>
 <LEND>

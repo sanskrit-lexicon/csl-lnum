@@ -1,4 +1,4 @@
-<L>198313<pc>978,1<k1>viBAs<k2>vi-BAs<h>a<e>1
-<s>vi-√ BAs</s> <hom>a</hom> ¦ <ab>Ā.</ab> <s>-BAsate</s> (in <ab>Ved.</ab> also <ab>P.</ab>), to shine brightly or pleasantly, be bright, <ls>AV.</ls>; <ls>R.</ls>; <ls>Śatr.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-BAsayati</s>, to cause to shine, illuminate, brighten, <ls>MBh.</ls><info verb="pre" cp="PĀ" parse="vi+BAs"/>
+<L>198313<pc>978,1<k1>viBAs<k2>vi-BAs<e>1
+<s>vi-√ BAs</s> ¦ <ab>Ā.</ab> <s>-BAsate</s> (in <lang>Ved.</lang> also <ab>P.</ab>), to shine brightly or pleasantly, be bright, <ls>AV.</ls>; <ls>R.</ls>; <ls>Śatr.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>-BAsayati</s>, to cause to shine, illuminate, brighten, <ls>MBh.</ls><info verb="pre" cp="PĀ" parse="vi+BAs"/><info hui="a"/>
 <LEND>

@@ -1,8 +1,8 @@
 <L>9824<pc>310<k1>get abroad<k2>get abroad
-<div n="lb"/>{@GET ABROAD:@}¦ <div n="1">(1) {#prasarati#} ({#sf,#} c. 1.), D. iii.;</div>
-<div n="lb"/><div n="1">(2) {#prasarpati#} ({#sfp,#} c. 1.), <div n="xe">{%the rumour got abroad%}
-<div n="lb"/>{%on all sides:%}</div> <div n="xs">{#pratidiSaM lokavAdaH prAsarpat,#}</div> D. viii.;</div>
-<div n="lb"/><div n="1">(3) {#bahulImavati#} ({#BU,#} c. 1.), Sa. vi.; </div><div n="1">(4) {#praTate#}
-<div n="lb"/>({#praT,#} c. 1.) (= to be known), <div n="xe">{%the fame of%}
-<div n="lb"/>{%Dhanamitra got abroad:%}</div> <div n="xs">{#Danamitrasya kIrtirapraTata,#}</div> D. ii.</div>
+{@GET ABROAD:@}¦ <div n="1">(1) {#prasarati#} ({#sf,#} c. 1.), D. iii.;</div>
+<div n="1">(2) {#prasarpati#} ({#sfp,#} c. 1.), <div n="xe">{%the rumour got abroad%}
+{%on all sides:%}</div> <div n="xs">{#pratidiSaM lokavAdaH prAsarpat,#}</div> D. viii.;</div>
+<div n="1">(3) {#bahulImavati#} ({#BU,#} c. 1.), Sa. vi.; </div><div n="1">(4) {#praTate#}
+({#praT,#} c. 1.) (= to be known), <div n="xe">{%the fame of%}
+{%Dhanamitra got abroad:%}</div> <div n="xs">{#Danamitrasya kIrtirapraTata,#}</div> D. ii.</div>
 <LEND>

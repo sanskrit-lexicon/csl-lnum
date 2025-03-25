@@ -1,5 +1,5 @@
 <L>16921<pc>420-a<k1>joint-heir<k2>joint-heir
-<div n="lb"/>JOINT-HEIR¦, {%s.%} {#samAMSI#} {%m.%} {#(n), samaBAgI#} {%m.%} {#(n), samADikArI#} {%m.%} {#(n),#}
-<div n="lb"/>{#samAMSahArI#} {%m.%} {#(n), BAgI#} {%m.%} {#(n), saMviBAgI, BAgaharaH, samaBAgahArI#} {%m.,%}
-<div n="lb"/>{#BAgaDeyaH, sahADikArI#} {%m. See%} COHEIR.
+JOINT-HEIR¦, {%s.%} {#samAMSI#} {%m.%} {#(n), samaBAgI#} {%m.%} {#(n), samADikArI#} {%m.%} {#(n),#}
+{#samAMSahArI#} {%m.%} {#(n), BAgI#} {%m.%} {#(n), saMviBAgI, BAgaharaH, samaBAgahArI#} {%m.,%}
+{#BAgaDeyaH, sahADikArI#} {%m. See%} COHEIR.
 <LEND>

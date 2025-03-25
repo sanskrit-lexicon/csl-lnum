@@ -1,9 +1,9 @@
 <L>9342<pc>296<k1>frame<k2>frame
-<div n="lb"/>{@FRAME@}¦ (subs.): <div n="I">I A fabric: {#nirmARam.#} </div><div n="I">II A
-<div n="lb"/>case: {#ADAraH,#} <div n="xe">{%door -f.:%}</div> <div n="xs">{#dvArasyADAradAru,#}</div> M.n. </div><div n="I">III
-<div n="lb"/>Body: q.v.: {#vapuH,#} <div n="xe">{%surely (her) f. was made%}
-<div n="lb"/>{%of golden lotuses:%}</div> <div n="xs">{#DruvaM vapuH kAYcanapadmanirmitam,#}</div> Ku.</div>
-<div n="lb"/><div n="I">IV Humour: {#BAvaH;#} oftenn ot expr., <div n="xe">{%in a%}
-<div n="lb"/>{%happy f. of mind:%}</div> <div n="xs">{#nirvftamanas#}</div> (mfn.). </div><div n="I">V System:
-<div n="lb"/>{#prakAraH.#}</div>
+{@FRAME@}¦ (subs.): <div n="I">I A fabric: {#nirmARam.#} </div><div n="I">II A
+case: {#ADAraH,#} <div n="xe">{%door -f.:%}</div> <div n="xs">{#dvArasyADAradAru,#}</div> M.n. </div><div n="I">III
+Body: q.v.: {#vapuH,#} <div n="xe">{%surely (her) f. was made%}
+{%of golden lotuses:%}</div> <div n="xs">{#DruvaM vapuH kAYcanapadmanirmitam,#}</div> Ku.</div>
+<div n="I">IV Humour: {#BAvaH;#} oftenn ot expr., <div n="xe">{%in a%}
+{%happy f. of mind:%}</div> <div n="xs">{#nirvftamanas#}</div> (mfn.). </div><div n="I">V System:
+{#prakAraH.#}</div>
 <LEND>

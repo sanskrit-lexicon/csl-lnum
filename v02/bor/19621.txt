@@ -1,14 +1,14 @@
 <L>19621<pc>610<k1>sacrifice<k2>sacrifice
-<div n="lb"/>{@SACRIFICE@}¦ (v.): {#yajati, -te#} ({#yaj,#} c. 1.: religious),
-<div n="lb"/><div n="xe">{%let the son of Pāṇdu s.:%}</div> <div n="xs">{#yajatAM pARqavaH,#}</div> Si. ii.
-<div n="lb"/>65.; {%what%} ({%men%}) <div n="xe">{%s., give here:%}</div> <div n="xs">{#yadyajanti dadatIha,#}</div>
-<div n="lb"/>He.; <div n="1">(2) {#tyajati#} ({#tyaj,#} c. 1. = to abandon,
-<div n="lb"/>give up: q. v.), <div n="xe">{%s. d things to gods:%}</div> <div n="xs">{#atyajan#}</div>
-<div n="lb"/>({#ayajan,#} M.n.) {#dravyajAtamapadiSya devatAH.#} Si. xiv.
-<div n="lb"/>20.; {%s. s%} ({%his%}) <div n="xe">{%life:%}</div> <div n="xs">{#tyajati prARAn,#}</div> Mu. i. 24.;</div>
-<div n="lb"/><div n="1">(3) {#AlaBate, sam-,#} ({#laB,#} c. 1. = to kill),
-<div n="lb"/><div n="xe">{%Brāhmins s.d the horse according to the pres-%}
-<div n="lb"/>{%cribed rite:%}</div> <div n="xs">{#taM turaNgaM yaTASAstramABanta dvijAtayaH,#}</div>
-<div n="lb"/>Mah. xiv. 89. 1.; </div><div n="1">(4) {#Srapayati, saM-#} (= 3), 2.
-<div n="lb"/>: v. Also to offer.</div>
+{@SACRIFICE@}¦ (v.): {#yajati, -te#} ({#yaj,#} c. 1.: religious),
+<div n="xe">{%let the son of Pāṇdu s.:%}</div> <div n="xs">{#yajatAM pARqavaH,#}</div> Si. ii.
+65.; {%what%} ({%men%}) <div n="xe">{%s., give here:%}</div> <div n="xs">{#yadyajanti dadatIha,#}</div>
+He.; <div n="1">(2) {#tyajati#} ({#tyaj,#} c. 1. = to abandon,
+give up: q. v.), <div n="xe">{%s. d things to gods:%}</div> <div n="xs">{#atyajan#}</div>
+({#ayajan,#} M.n.) {#dravyajAtamapadiSya devatAH.#} Si. xiv.
+20.; {%s. s%} ({%his%}) <div n="xe">{%life:%}</div> <div n="xs">{#tyajati prARAn,#}</div> Mu. i. 24.;</div>
+<div n="1">(3) {#AlaBate, sam-,#} ({#laB,#} c. 1. = to kill),
+<div n="xe">{%Brāhmins s.d the horse according to the pres-%}
+{%cribed rite:%}</div> <div n="xs">{#taM turaNgaM yaTASAstramABanta dvijAtayaH,#}</div>
+Mah. xiv. 89. 1.; </div><div n="1">(4) {#Srapayati, saM-#} (= 3), 2.
+: v. Also to offer.</div>
 <LEND>

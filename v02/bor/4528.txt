@@ -1,9 +1,9 @@
 <L>4528<pc>147<k1>constant<k2>constant
-<div n="lb"/>{@CONSTANT:@}¦ <div n="I">I Firm: </div><div n="1">(1) {#sTiraH#} ({#rA, raM#}), <div n="xe">{%my%}
-<div n="lb"/>{%entire fortune is c.:%}</div> <div n="xs">{#sTirA mama sarvasampat,#}</div> Si.;</div>
-<div n="lb"/><div n="1">(2) {#acalaH#} <div n="xe">{%or%}</div> <div n="xs">{#niScalaH#}</div> ({#lA, laM#}), <div n="xe">{%regard for depen-%}
-<div n="lb"/>{%dents is not c.:%}</div> <div n="xs">{#calaM gOravamASritezu,#}</div> Ku.; </div><div n="1">(3) {#ava-#}
-<div n="lb"/>{#sTitaH#} <div n="xe">{%or%}</div> <div n="xs">{#vyavasTitaH#}</div> ({#tA, taM#}) (rare), <div n="xe">{%love for woman%}
-<div n="lb"/>{%is not c.:%}</div> <div n="xs">{#prema dayitAsvanavasTitam,#}</div> Ku. iv. 28.</div>
-<div n="lb"/><div n="I">II Continuous: q. v.: {#satataH#} ({#tA, taM#}).</div>
+{@CONSTANT:@}¦ <div n="I">I Firm: </div><div n="1">(1) {#sTiraH#} ({#rA, raM#}), <div n="xe">{%my%}
+{%entire fortune is c.:%}</div> <div n="xs">{#sTirA mama sarvasampat,#}</div> Si.;</div>
+<div n="1">(2) {#acalaH#} <div n="xe">{%or%}</div> <div n="xs">{#niScalaH#}</div> ({#lA, laM#}), <div n="xe">{%regard for depen-%}
+{%dents is not c.:%}</div> <div n="xs">{#calaM gOravamASritezu,#}</div> Ku.; </div><div n="1">(3) {#ava-#}
+{#sTitaH#} <div n="xe">{%or%}</div> <div n="xs">{#vyavasTitaH#}</div> ({#tA, taM#}) (rare), <div n="xe">{%love for woman%}
+{%is not c.:%}</div> <div n="xs">{#prema dayitAsvanavasTitam,#}</div> Ku. iv. 28.</div>
+<div n="I">II Continuous: q. v.: {#satataH#} ({#tA, taM#}).</div>
 <LEND>

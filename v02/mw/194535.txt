@@ -1,13 +1,13 @@
 <L>194535<pc>957,2<k1>vigrah<k2>vi-grah<e>1
-<s>vi-√ grah</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-gfhRAti</s>, <s>°RIte</s> (<ab>Ved.</ab> also <s>-gfBRAti</s>, <s>°RIte</s>), to stretch out or apart, spread out, <ls>AV.</ls>;
+<s>vi-√ grah</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-gfhRAti</s>, <s>°RIte</s> (<lang>Ved.</lang> also <s>-gfBRAti</s>, <s>°RIte</s>), to stretch out or apart, spread out, <ls>AV.</ls>;
 <div n="to"/>to distribute, divide (<ab>esp.</ab> to draw out fluids at several times), <ls>RV.</ls>; <ls>ŚBr.</ls>; <ls>TBr.</ls>; <ls>KātyŚr.</ls>;
 <div n="to"/>to hold apart, separate, isolate, <ls>ŚrS.</ls>;
-<div n="to"/> (in gram.) to analyse (<ab>cf.</ab> <s>vi-graha</s>);
+<div n="to"/> (in <ab>gram.</ab>) to analyse (<ab>cf.</ab> <s>vi-graha</s>);
 <div n="to"/>to wage war, fight against (<ab>acc.</ab>), <ls>MBh.</ls>;
 <div n="to"/>to quarrel, contend with (<ab>instr.</ab> with or without <s>saha</s>, or <s>sA<srs/>rDam</s>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to seize, lay hold of (<ab>acc.</ab> or <ab>loc.</ab>), <ls>MBh.</ls>; <ls>Mṛcch.</ls>;
 <div n="to"/>to receive in a friendly manner, welcome, <ls>MBh.</ls>;
 <div n="to"/>to perceive, observe, <ls>BhP.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-grAhayati</s>, to cause to fight, cause to wage war against, <s1 slp1="das">Das</s1>, <ls>Bhaṭṭ.</ls> :
-<div n="to"/><ab>Desid.</ab> <s>-jiGfkzati</s>, to wish to fight against, <ls>Bhaṭṭ.</ls><info verb="pre" cp="PĀ" parse="vi+grah"/>
+<div n="vp"/><ab>Caus.</ab> <s>-grAhayati</s>, to cause to fight, cause to wage war against, <s1>Das</s1>, <ls>Bhaṭṭ.</ls> :
+<div n="vp"/><ab>Desid.</ab> <s>-jiGfkzati</s>, to wish to fight against, <ls>Bhaṭṭ.</ls><info verb="pre" cp="PĀ" parse="vi+grah"/>
 <LEND>

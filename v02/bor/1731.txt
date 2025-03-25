@@ -1,5 +1,5 @@
 <L>1731<pc>059<k1>bead<k2>bead
-<div n="lb"/>{@BEAD@}¦ (subs.): <div n="1">(1) {#gulI;#} </div><div n="1">(2) {#gulikA;#} </div><div n="1">(3) {#guwI;#}</div>
-<div n="lb"/><div n="1">(4) {#guwikA.#} <div n="xe">{%A string of b. s%}</div> <div n="xs">{#mAlA;#}</div> {%a rosary of%}
-<div n="lb"/>{%b. s:%} </div><div n="1">(1) {#akzamAlA;#} </div><div n="1">(2) {#japamAlA.#}</div>
+{@BEAD@}¦ (subs.): <div n="1">(1) {#gulI;#} </div><div n="1">(2) {#gulikA;#} </div><div n="1">(3) {#guwI;#}</div>
+<div n="1">(4) {#guwikA.#} <div n="xe">{%A string of b. s%}</div> <div n="xs">{#mAlA;#}</div> {%a rosary of%}
+{%b. s:%} </div><div n="1">(1) {#akzamAlA;#} </div><div n="1">(2) {#japamAlA.#}</div>
 <LEND>

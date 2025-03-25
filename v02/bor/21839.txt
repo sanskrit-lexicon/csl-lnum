@@ -1,6 +1,6 @@
 <L>21839<pc>689<k1>sugar-cane<k2>sugar-cane
-<div n="lb"/>{@SUGAR-CANE:@}¦ {#ikzuH#} <div n="xe">{%“plant s.”:%}</div> <div n="xs">{#bAla ikzuH;#}</div> <div n="xe">{%ripe s.%}
-<div n="lb"/>{%juice:%}</div> <div n="xs">{#pakvekzurasaH;#}</div> <div n="xe">{%scorched s.:%}</div> <div n="xs">{#pORqraH, -kaH;#}</div>
-<div n="lb"/><div n="xe">{%red s.:%}</div> <div n="xs">{#kozakAraH;#}</div> <div n="xe">{%bamboo s.:%}</div> <div n="xs">{#vaMSakaH;#}</div> {%juicy s.:%}
-<div n="lb"/>{#kAntAraH, -kaH;#} etc., Bha.
+{@SUGAR-CANE:@}¦ {#ikzuH#} <div n="xe">{%“plant s.”:%}</div> <div n="xs">{#bAla ikzuH;#}</div> <div n="xe">{%ripe s.%}
+{%juice:%}</div> <div n="xs">{#pakvekzurasaH;#}</div> <div n="xe">{%scorched s.:%}</div> <div n="xs">{#pORqraH, -kaH;#}</div>
+<div n="xe">{%red s.:%}</div> <div n="xs">{#kozakAraH;#}</div> <div n="xe">{%bamboo s.:%}</div> <div n="xs">{#vaMSakaH;#}</div> {%juicy s.:%}
+{#kAntAraH, -kaH;#} etc., Bha.
 <LEND>

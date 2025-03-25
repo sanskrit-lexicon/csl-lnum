@@ -1,5 +1,5 @@
 <L>841<pc>030<k1>antecedent<k2>antecedent
-<div n="lb"/>{@ANTECEDENT@}¦ (subs): Ph. <div n="xe">{%whose a. s are not%}
-<div n="lb"/>{%known%}</div> <div n="xs">{#*yasya pUrvacaritamavijYAtam.#}</div> <div n="I">II In logic:
-<div n="lb"/>{#pUrvapakzaH.#} </div><div n="I">III In gram.: {#*pUrvasaMjYA.#}</div>
+{@ANTECEDENT@}¦ (subs): Ph. <div n="xe">{%whose a. s are not%}
+{%known%}</div> <div n="xs">{#*yasya pUrvacaritamavijYAtam.#}</div> <div n="I">II In logic:
+{#pUrvapakzaH.#} </div><div n="I">III In gram.: {#*pUrvasaMjYA.#}</div>
 <LEND>

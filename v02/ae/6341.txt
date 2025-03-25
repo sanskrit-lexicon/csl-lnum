@@ -1,16 +1,16 @@
 <L>6341<pc>271<k1>luck<k2>luck
 {@Luck,@}¦ {%s.%} {#dEvaM, BAgyaM, BAgaDeyaM, viDiH, niyati#}
-<div n="lb"/>{%f.,%} {#BavitavyatA, dEvayogaH;#} {%See%} {@Fate;@}
-<div n="lb"/>‘good l.’ {#sOBAgyaM, puRyodayaH, BAgyopacayaH,#}
-<div n="lb"/>‘bad or ill l.’ {#dEvadurvipAkaH-viparyAsaH-#}
-<div n="lb"/>{#-viparyayaH, maMdaBAgyaM, dOrBAgyaM, durdEvaM, durgati#} {%f,%}
-<div n="lb"/>{#aSuBaM, amaMgalaM#}. {@-less,@} {%a.%} {#dEvopahata, maMda-#}
-<div n="lb"/>{#-BAgya, aDanya, durBAgya, aBAgya, BAgya-dEva-#}
-<div n="lb"/>{#-hIna, durdEvagrasta, hInaBAgya#}. {@-lessly,@} {%adv.%}
-<div n="lb"/>{#durdEvAt, duBAgyAt#}. {@-Lucky,@} {%a.%} {#BAgyavat,#}
-<div n="lb"/>{#Danya, sOBAgyavat, puRyavat, BAgya-dEva-SAlin#}
-<div n="lb"/>{@2@} {#SuBa, kalyARa (RI#} {%f.%}), {#Badra, maMgala, Siva#}.
-<div n="lb"/>{@-ily,@} {%adv.%} {#dEvAt, dEvayogAt, dizwyA, dEva-#}
-<div n="lb"/>{#-BAgya-vaSAt, sOBAgyena#}. {@-iness,@} {%s.%} {#sO-#}
-<div n="lb"/>{#-BAgyaM, DanyatA, puRyavattA,#} &c.
+{%f.,%} {#BavitavyatA, dEvayogaH;#} {%See%} {@Fate;@}
+‘good l.’ {#sOBAgyaM, puRyodayaH, BAgyopacayaH,#}
+‘bad or ill l.’ {#dEvadurvipAkaH-viparyAsaH-#}
+{#-viparyayaH, maMdaBAgyaM, dOrBAgyaM, durdEvaM, durgati#} {%f,%}
+{#aSuBaM, amaMgalaM#}. {@-less,@} {%a.%} {#dEvopahata, maMda-#}
+{#-BAgya, aDanya, durBAgya, aBAgya, BAgya-dEva-#}
+{#-hIna, durdEvagrasta, hInaBAgya#}. {@-lessly,@} {%adv.%}
+{#durdEvAt, duBAgyAt#}. {@-Lucky,@} {%a.%} {#BAgyavat,#}
+{#Danya, sOBAgyavat, puRyavat, BAgya-dEva-SAlin#}
+{@2@} {#SuBa, kalyARa (RI#} {%f.%}), {#Badra, maMgala, Siva#}.
+{@-ily,@} {%adv.%} {#dEvAt, dEvayogAt, dizwyA, dEva-#}
+{#-BAgya-vaSAt, sOBAgyena#}. {@-iness,@} {%s.%} {#sO-#}
+{#-BAgyaM, DanyatA, puRyavattA,#} &c.
 <LEND>

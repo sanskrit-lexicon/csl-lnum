@@ -1,8 +1,8 @@
 <L>21551<pc>679<k1>store<k2>store
-<div n="lb"/>{@STORE@}¦ (v.): <div n="1">(1) {#saMBarati#} ({#Bf,#} c. 1.), <div n="xe">{%s. ing money%}
-<div n="lb"/>{%for spending:%}</div> <div n="xs">{#tyAgAya saMBftArTAnAm,#}</div> R. i. 7.; </div><div n="1">(2)
-<div n="lb"/>{#saMcinoti#} ({#ci,#} c. 5.), <div n="xe">{%how much blood have%}
-<div n="lb"/>{%you s. d up:%}</div> <div n="xs">{#aTa kiyatpraBUtaM tvayA saYcitaM ruDiram,#}</div>
-<div n="lb"/>Ve. iii.; ({#hf,#} c. 1.): v. To collect; </div><div n="1">(4)
-<div n="lb"/>{#paripUrayati#} ({#pUr,#} c. 10.: v. To fill up).</div>
+{@STORE@}¦ (v.): <div n="1">(1) {#saMBarati#} ({#Bf,#} c. 1.), <div n="xe">{%s. ing money%}
+{%for spending:%}</div> <div n="xs">{#tyAgAya saMBftArTAnAm,#}</div> R. i. 7.; </div><div n="1">(2)
+{#saMcinoti#} ({#ci,#} c. 5.), <div n="xe">{%how much blood have%}
+{%you s. d up:%}</div> <div n="xs">{#aTa kiyatpraBUtaM tvayA saYcitaM ruDiram,#}</div>
+Ve. iii.; ({#hf,#} c. 1.): v. To collect; </div><div n="1">(4)
+{#paripUrayati#} ({#pUr,#} c. 10.: v. To fill up).</div>
 <LEND>

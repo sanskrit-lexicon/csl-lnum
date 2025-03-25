@@ -1,4 +1,4 @@
 <L>20836<pc>654<k1>smoker<k2>smoker
-<div n="lb"/>{@SMOKER:@}¦ <div n="1">(1) {#DUmapa#} (f. {#pA#}) <div n="xe">{%or%}</div> <div n="xs">{#pAyin#}</div> (f. {#nI#});</div>
-<div n="lb"/><div n="1">(2) {#DUmasevin#} (f. {#nI#}).</div>
+{@SMOKER:@}¦ <div n="1">(1) {#DUmapa#} (f. {#pA#}) <div n="xe">{%or%}</div> <div n="xs">{#pAyin#}</div> (f. {#nI#});</div>
+<div n="1">(2) {#DUmasevin#} (f. {#nI#}).</div>
 <LEND>

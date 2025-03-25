@@ -1,15 +1,15 @@
 <L>20149<pc>2-0530<k1>kzapaRa<k2>kzapaRa<h>1
-1. {#kzapaRa#}¦ (von 1. {#kzap#}) 
-<div n="1"> 1) <lex>m.</lex> {%ein buddhistischer Bettler (Enthaltsamkeit übend%}) 
-<ls>TRIK. 3, 1, 22. 3, 3, 23</ls> (=  {#puzyalaka#}, wie zu lesen ist). 
-<ls>245.</ls> <ls>ŚKDR.</ls> und Wils. nach derselben Aut. fälschlich: <lex>adj.</lex> {%schamlos.%} {#kzapaRIBUta#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 192, 16.</ls> Nach <ls>VYUTP. 91</ls> Name einer bestimmten buddhistischen Secte. Vgl. {#kzapaRaka#} . 
-<div n="1">— 2) <lex>n.</lex> {%Enthaltsamkeit, Kasteiung%}: {#kzapaRaM#} 
-(<ls>Sch.</ls>: = {#anaDyAyo lomanaKanikfntanam) pravacanaM ca pUrvavat#} 
-<ls>PĀR. GṚHY. 2, 12.</ls> {#BuktvAto 'nyatamasyAnnamamatyA kzapaRaM#} 
-(<ls>KULL.</ls>: = {#upavAsa) tryaham#} 
-<ls>M. 4, 222.</ls> {#sabrahmacAriRyekAhamatIte kzapaRaM#} 
-(<ls>KULL.</ls> = {#aSOca) smftam#} 
-<ls>5, 71.</ls> {#caturTaBaktakzapaRaM vESye SUdre viDIyate#} 
-<ls>MBH. 13, 5145.</ls>
+1. {#kzapaRa#}¦ (von 1. {#kzap#})
+<div n="1"> 1) <lex>m.</lex> {%ein buddhistischer Bettler (Enthaltsamkeit übend%})
+<ls>TRIK. 3,1,22.</ls> <ls n="TRIK.">3,3,23</ls> (= {#puzyalaka#}, wie zu lesen ist).
+<ls n="TRIK. 3,3,">245.</ls> <ls>ŚKDR.</ls> und Wils. nach derselben Aut. fälschlich: <lex>adj.</lex> {%schamlos.%} {#kzapaRIBUta#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 192,16.</ls> Nach <ls>VYUTP. 91</ls> Name einer bestimmten buddhistischen Secte. Vgl. {#kzapaRaka#} .
+<div n="1">— 2) <lex>n.</lex> {%Enthaltsamkeit, Kasteiung%}: {#kzapaRaM#}
+(<ls>Sch.</ls>: = {#anaDyAyo lomanaKanikfntanam) pravacanaM ca pUrvavat#}
+<ls>PĀR. GṚHY. 2,12.</ls> {#BuktvAto 'nyatamasyAnnamamatyA kzapaRaM#}
+(<ls>KULL.</ls>: = {#upavAsa) tryaham#}
+<ls>M. 4,222.</ls> {#sabrahmacAriRyekAhamatIte kzapaRaM#}
+(<ls>KULL.</ls> = {#aSOca) smftam#}
+<ls n="M.">5,71.</ls> {#caturTaBaktakzapaRaM vESye SUdre viDIyate#}
+<ls>MBH. 13,5145.</ls>
 <LEND>

@@ -1,5 +1,5 @@
 <L>15350<pc>470<k1>neighbourhood<k2>neighbourhood
-<div n="lb"/>{@NEIGHBOURHOOD:@}¦ {#sannihitapradeSaH.#} Ph.: <div n="xe">{%“in the%}
-<div n="lb"/>{%n. of death”:%}</div> <div n="xs">{#mftyusanniDO,#}</div> <div n="xe">{%“law of n.”:%}</div> <div n="xs">{#prativeSi-#}
-<div n="lb"/>{#DarmaH;#}</div> <div n="xe">{%in the n. of Mithilā:%}</div> <div n="xs">{#miTilopakaRWe,#}</div> Vi. iv.
+{@NEIGHBOURHOOD:@}¦ {#sannihitapradeSaH.#} Ph.: <div n="xe">{%“in the%}
+{%n. of death”:%}</div> <div n="xs">{#mftyusanniDO,#}</div> <div n="xe">{%“law of n.”:%}</div> <div n="xs">{#prativeSi-#}
+{#DarmaH;#}</div> <div n="xe">{%in the n. of Mithilā:%}</div> <div n="xs">{#miTilopakaRWe,#}</div> Vi. iv.
 <LEND>

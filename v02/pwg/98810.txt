@@ -1,131 +1,130 @@
 <L>98810<pc>7-0142<k1>SAnti<k2>SA/nti
-{#SA/nti#}¦ (von 2. {#Sam#}) 
-<div n="1"> 1) <lex>f.</lex> 
-<div n="2"> a) {%Ruhe des Gemüths, Seelenruhe, innerer Friede%} 
-<ls>AK. 3, 3, 3.</ls> 
-<ls>TRIK. 3, 3, 186.</ls> 
-<ls>H. 304.</ls> 
-<ls>an. 2, 200.</ls> 
-<ls>MED. t. 62.</ls> {#SAntimatyantameti#} 
-<ls>KAṬHOP. 1, 7.</ls> 
-<ls>Ind. St. 1, 427. 2, 98.</ls> 
-<ls>BHAG. 2, 66.</ls> {#dvEraTenAstu vE SAntistava vA mama vA#} 
-<ls>MBH. 3, 3037.</ls> {#SAntiM na ca gacCati#} 
-<ls>15705.</ls> {#°gata#} 
-<ls>12, 6563.</ls> {#na leBe SAntimAtmanaH#} 
-<ls>R. 1, 64, 16.</ls> {#na me SAntirBavizyati#} 
-<ls>2, 99, 5. fgg.</ls> {#°parAyaRa#} 
-<ls>R. GORR. 1, 76, 22. 4, 23, 7.</ls> <ls>KUMĀRAS. 4, 17.</ls> <ls>RAGH. 7, 68.</ls> <ls>ŚĀK. 95, v. l.</ls> <ls>VIKR. 24.</ls> <ls>MĀLATĪM. 87, 6.</ls> <ls>Spr. (II) 1287. 1705. 2753. 2977.</ls> {#°KaNgaH kare yasya#} 
-<ls>(I) 2975.</ls> {#°tulyaM tapo nAsti#} 
-<ls>5071.</ls> <ls>VARĀH. BṚH. S. 104, 26.</ls> <ls>RĀJA-TAR. 4, 387.</ls> <ls>WILSON, Sel. Works 1, 163.</ls> <ls>PRAB. 5, 5.</ls> <ls>BHĀG. P. 3, 29, 23. 4, 7, 54. 20, 10, 9, 22, 13.</ls> <ls>PAÑCAT. 89, 5. 90, 4.</ls> {#SAntiH karaRIyA#} 
-<ls>HIT. 36, 5.</ls> {#SAntimicCanti sADavaH#} 
-<ls>Spr. (II) 4651.</ls> 
-<div n="2">— b) {%das Erlöschen, Nachlassen, Aufhören, Sichlegen; das Ausbleiben einer üblen Wirkung, eine darauf gerichtete Cerimonie%}: {#SAntimupAgamat (agniH)#} 
-<ls>R. 3, 9, 34.</ls> {#alAta°#} 
-<ls>Ind. St. 2, 101.</ls> {#Baya°#} 
-<ls>MBH. 1, 1640.</ls> {#nayanasalilaM yozitAM SAntiM neyam#} 
-<ls>MEGH. 40.</ls> {#aDvaraviGAta°#} 
-<ls>RAGH. 11, 1.</ls> {#nidAGatApa°#} 
-<ls>MĀLATĪM. 128, 3.</ls> <ls>Spr. (II) 340.</ls> {#BavabIja°#} 
-<ls>816.</ls> {#aDunA ca sa SApo vaH sarvezAM SAntimAgataH#} 
-<ls>KATHĀS. 25, 260.</ls> 
-<ls>RĀJA-TAR. 1, 166.</ls> des Hungers 
-<ls>AIT. BR. 5, 27.</ls> 
-<ls>Spr. 3335.</ls> 
-<ls>BHĀG. P. 10, 23, 1.</ls>
+{#SA/nti#}¦ (von 2. {#Sam#})
+<div n="1"> 1) <lex>f.</lex>
+<div n="2"> a) {%Ruhe des Gemüths, Seelenruhe, innerer Friede%}
+<ls>AK. 3,3,3.</ls>
+<ls>TRIK. 3,3,186.</ls>
+<ls>H. 304.</ls>
+<ls>an. 2,200.</ls>
+<ls>MED. t. 62.</ls> {#SAntimatyantameti#}
+<ls>KAṬHOP. 1,7.</ls>
+<ls>Ind. St. 1,427. 2,98.</ls>
+<ls>BHAG. 2,66.</ls> {#dvEraTenAstu vE SAntistava vA mama vA#}
+<ls>MBH. 3,3037.</ls> {#SAntiM na ca gacCati#}
+<ls n="MBH. 3,">15705.</ls> {#°gata#}
+<ls n="MBH.">12,6563.</ls> {#na leBe SAntimAtmanaH#}
+<ls>R. 1,64,16.</ls> {#na me SAntirBavizyati#}
+<ls n="R.">2,99,5. fgg.</ls> {#°parAyaRa#}
+<ls>R. GORR. 1,76,22.</ls> <ls n="R. GORR.">4,23,7.</ls> <ls>KUMĀRAS. 4,17.</ls> <ls>RAGH. 7,68.</ls> <ls>ŚĀK. 95, v. l.</ls> <ls>VIKR. 24.</ls> <ls>MĀLATĪM. 87,6.</ls> <ls>Spr. (II) 1287.</ls> <ls n="Spr. (II)">1705.</ls> <ls n="Spr. (II)">2753.</ls> <ls n="Spr. (II)">2977.</ls> {#°KaNgaH kare yasya#}
+<ls n="Spr.">(I) 2975.</ls> {#°tulyaM tapo nAsti#}
+<ls n="Spr. (I)">5071.</ls> <ls>VARĀH. BṚH. S. 104,26.</ls> <ls>RĀJA-TAR. 4,387.</ls> <ls>WILSON, Sel. Works 1,163.</ls> <ls>PRAB. 5,5.</ls> <ls>BHĀG. P. 3,29,23.</ls> <ls n="BHĀG. P.">4,7,54.</ls> <ls n="BHĀG. P. 4,">20,10.</ls> <ls n="BHĀG. P.">9,22,13.</ls> <ls>PAÑCAT. 89,5.</ls> <ls n="PAÑCAT.">90,4.</ls> {#SAntiH karaRIyA#}
+<ls>HIT. 36,5.</ls> {#SAntimicCanti sADavaH#}
+<ls>Spr. (II) 4651.</ls>
+<div n="2">— b) {%das Erlöschen, Nachlassen, Aufhören, Sichlegen; das Ausbleiben einer üblen Wirkung, eine darauf gerichtete Cerimonie%}: {#SAntimupAgamat (agniH)#}
+<ls>R. 3,9,34.</ls> {#alAta°#}
+<ls>Ind. St. 2,101.</ls> {#Baya°#}
+<ls>MBH. 1,1640.</ls> {#nayanasalilaM yozitAM SAntiM neyam#}
+<ls>MEGH. 40.</ls> {#aDvaraviGAta°#}
+<ls>RAGH. 11,1.</ls> {#nidAGatApa°#}
+<ls>MĀLATĪM. 128,3.</ls> <ls>Spr. (II) 340.</ls> {#BavabIja°#}
+<ls n="Spr. (II)">816.</ls> {#aDunA ca sa SApo vaH sarvezAM SAntimAgataH#}
+<ls>KATHĀS. 25,260.</ls>
+<ls>RĀJA-TAR. 1,166.</ls> des Hungers
+<ls>AIT. BR. 5,27.</ls>
+<ls>Spr. 3335.</ls>
+<ls>BHĀG. P. 10,23,1.</ls>
 [Page7-0143]
-{#rujAm#} 
-<ls>Spr. (II) 1992.</ls> {#vyADeH#} 
-<ls>(I) 3041.</ls> {#visPowa°#} 
-<ls>2276.</ls> {#tfzRA°#} 
-<ls>2784.</ls> {#toyaviplava°#} 
-<ls>RĀJA-TAR. 1, 159. 375. 3, 461. 4, 715.</ls> {#SIta°#} 
-<ls>6, 364.</ls> {#DanaM nIyate SAntim#} 
-<ls>4, 681.</ls> {#ApacCAnti#} 
-<ls>6, 223.</ls> {#sarvopadrava°#} 
-<ls>PAÑCAR. 3, 14, 18.</ls> {#janmajarAdi°#} 
-<ls>Verz. d. Oxf. H. 4, No. 30.</ls> {#moha°#} 
-<ls>227,a,16.</ls> {#SAntimupEti pApam#} 
-<ls>VARĀH. BṚH. S. 46, 46. 24.</ls> 
-<ls>AV. 19, 9, 3. fgg.</ls> 
-<ls>VS. 3, 43. 36, 17.</ls> 
-<ls>TS. 1, 5, 1, 4. 2, 5, 8, 2.</ls> {#a\po 'vo^kzati\ SAntyE^#} 
-<ls>TBR. 1, 1, 3, 1. 2, 1, 3, 5.</ls> 
-<ls>AIT. BR. 1, 13. 16.</ls> {#vajrasya#} 
-<ls>3, 8. 34.</ls> {#SAntirvA ApaH#} 
-<ls>7, 5.</ls> {#apAM SAntiH#} ein Spruch 
-<ls>8, 6. 8.</ls> <ls>ŚAT. BR. 9, 2, 3, 37.</ls> {#adButAnAM karmaRAm#} 
-<ls>ṢAḌV. BR. 5, 1. 2. 10.</ls> {#SAntiM kftvA gurumaBivAdayate#} 
-<ls>GOBH. 3, 2, 29.</ls> {#SAntyudaka#} 
-<ls>KAUŚ. 9. 17. 44. 80.</ls> 
-<ls>ŚĀK. 31,11.</ls> <ls>Verz. d. Oxf. H. 94,b,15.</ls> {#°pAtra#} 
-<ls>ŚĀṄKH. GṚHY. 6, 2. 3. 6.</ls> — 
-<ls>R. 2, 25, 27.</ls> {#SAntayaSca pravartantAM samantataH#} 
-<ls>?7, 91, 16. 1, 11, 14 (20 GORR.). MBH. 14, 2411. fg.</ls> {#°SatakEH#} 
-<ls>Spr. (II) 3217, v. l.</ls> 
-<ls>VARĀH. BṚH. S. 2, S. 3, Z. 17.</ls> {#KaYjanotpAta°#} 
-<ls>S. 7, Z. 4.</ls> {#aSuBaM SAntiBiH SamayetpuroDAH#} 
-<ls>43, 61.</ls> {#nIrAjanasaMjYitA#} 
-<ls>44, 2.</ls> {#kuryAcCAntiM turaMgARAm#} 
-<ls>6. 21.</ls> {#nfpaH SAntiM prayuYjIta#} 
-<ls>46, 3. 5. 17. 54. 80. 48, 2.</ls> {#pOzI#} 
-<ls>82. 97, 17. 98, 6. 104, 8.</ls> <ls>Verz. d. Oxf. H. 42</ls>, {%b%}, 
-<ls>10. 86</ls>, {%b%}, 
-<ls>42. fgg. 97</ls>, {%b%}, 
-<ls>34.</ls> {%das Vermögen sich von allem Widerwärtigen zu befreien%} 
-<ls>50,b,5. 100,a,40. 105</ls>, {%a%}, 
-<ls>11 und N. 4</ls> (vgl. 
-<ls>WEBER, RĀMAT. UP. 303</ls>). {#°vrata#} 
-<ls>34,a,35. fg. 58,a,43.</ls> 
-<div n="2">— c) {%Friede, Heil, Segen, Wohlergehen%}; = {#maNgala, Badra#} 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1, 4515. fg.</ls> <ls>KATHĀS. 25, 92.</ls> {#trayARAmapi lokAnAM tadA SAntirBavizyati#} 
-<ls>R. 3, 18, 46. 69, 10.</ls> 
-<ls>VARĀH. BṚH. S. 11, 46. 30, 15.</ls> {#dattvA SAntiM mahIpateH#} 
-<ls>48, 21.</ls> {#nfpadeSAdiSAntistu praSastiraBiDIyate#} 
-<ls>SĀH. D. 405.</ls> {#lokAnAM SAntiH#} N. eines <is>Sāman</is> 
-<ls>Ind. St. 3, 235</ls>,b. {#vAdayanti tadA SAntim#} {%Heil —, Wohlergehen wünschen%} 
-<ls>R. 2, 69, 4.</ls> {#uvAca SAntiM mama cApi#} 
-<ls>5, 69, 28.</ls> {#jepuH SAntimanuttamAm#} 
-<ls>HARIV. 13732.</ls> {#maDuramuvAca SAntiyuktam#} 
-<ls>R. GORR. 2, 20, 47.</ls> 
-<div n="2">— d) {%Vernichtung, das zu Grunde Gehen%}: eines Feindes 
-<ls>KUMĀRAS. 2, 51.</ls> 
-<ls>KATHĀS. 20, 69.</ls> 
-<ls>MĀRK. P. 108, 5.</ls> {#tasya SAntiM karizyAmi#} 
-<ls>BHĀG. P. 7, 4, 26.</ls> {%das Eingehen zur ewigen Ruhe, Sterben, Tod%}: {#SAntiM niHsaMtatiryayO#} 
-<ls>RĀJA-TAR. 3, 124.</ls> {#SAntiM prapede#} 
-<ls>4, 124.</ls> {#SAntimAgataH#} 
-<ls>702.</ls> 
-<div n="2">— e) = {#SAntikalpa#} 
-<ls>BHĀG. P. 12, 7, 4.</ls> 
-<div n="2">— f) {%die Seelenruhe%} u. s. w. personif. 
-<ls>HARIV. 14036.</ls> eine Tochter der <is>Śraddhā</is> 
-<ls>PRAB. 17, 13. 43, 3. fgg.</ls> Gattin <is>Atharvan's</is> 
-<ls>BHĀG. P. 3, 24, 24.</ls> eine Tochter <is>Dakṣa's</is> und Gattin <is>Dharma's</is> 
-<ls>4, 1, 49.</ls> <ls>MĀRK. P. 50, 21.</ls> <ls>VP. 54.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. pr. 
-<div n="2"> a) eines Sohnes des <is>Indra</is> 
-<ls>MBH. 1, 7304.</ls> 
-<div n="2">— b) <is>Indra's</is> im 10ten <is>Manvantara</is> 
-<ls>VP. 3, 2, 25.</ls> 
-<ls>MĀRK. P. 94, 13.</ls> 
-<div n="2">— c) eines <is>Tuṣita</is>, Sohnes des <is>Viṣṇu</is> von der <is>Dakṣiṇā</is>, 
-<ls>BHĀG. P. 4, 1, 7.</ls> 
-<div n="2">— d) eines Sohnes des <is>Kṛṣṇa</is> von der <is>Kālindī</is> 
-<ls>BHĀG. P. 10, 61, 14.</ls> 
-<div n="2">— e) eines <is>Ṛṣi</is> 
-<ls>MBH. 12, 12759.</ls> eines Sohnes des <is>Aṅgiras</is> 
-<ls>13, 4147.</ls> eines Schülers des <is>Bhūti</is> 
-<ls>MĀRK. P. 99, 11.</ls> 
-<div n="2">— f) eines Sohnes des <is>Nīla</is> und Vaters des <is>Suśānti</is> 
-<ls>VP. 453.</ls> 
-<ls>BHĀG. P. 9, 21, 30. fg.</ls> 
-<div n="2">— g) des 16ten <is>Arhant's</is> der gegenwärtigen <is>Avasarpiṇī</is> und 5ten <is>Cakravartin</is> in <is>Bhārata</is> 
-<ls>H. 28. 693.</ls> 
-<ls>H. an.</ls> 
-<ls>ŚATR. 1, 2. 382</ls>; vgl. {#°nATa#} . 
-<div n="2">— h) eines Lehrers (mit vollem Namen {#ratnAkara°#}) 
-<ls>TĀRAN. 234. 239. 243. 325. 328.</ls> 
-<div n="v">— Vgl. {#graha°, mahA°#} 
-<ls>?(VARĀH. BṚH. S. 46, 81.</ls> {#°SAntI#}), {#su°#} .
+{#rujAm#}
+<ls>Spr. (II) 1992.</ls> {#vyADeH#}
+<ls n="Spr.">(I) 3041.</ls> {#visPowa°#}
+<ls n="Spr. (I)">2276.</ls> {#tfzRA°#}
+<ls n="Spr. (I)">2784.</ls> {#toyaviplava°#}
+<ls>RĀJA-TAR. 1,159. 375. 3,461. 4,715.</ls> {#SIta°#}
+<ls n="RĀJA-TAR.">6,364.</ls> {#DanaM nIyate SAntim#}
+<ls n="RĀJA-TAR.">4,681.</ls> {#ApacCAnti#}
+<ls n="RĀJA-TAR.">6,223.</ls> {#sarvopadrava°#}
+<ls>PAÑCAR. 3,14,18.</ls> {#janmajarAdi°#}
+<ls>Verz. d. Oxf. H. 4, No. 30.</ls> {#moha°#}
+<ls n="Verz. d. Oxf. H.">227,a,16.</ls> {#SAntimupEti pApam#}
+<ls>VARĀH. BṚH. S. 46,46. 24.</ls>
+<ls>AV. 19,9,3. fgg.</ls>
+<ls>VS. 3,43.</ls> <ls n="VS.">36,17.</ls>
+<ls>TS. 1,5,1,4.</ls> <ls n="TS.">2,5,8,2.</ls> {#a\po 'vo^kzati\ SAntyE^#}
+<ls>TBR. 1,1,3,1. 2,1,3,5.</ls>
+<ls>AIT. BR. 1,13. 16.</ls> {#vajrasya#}
+<ls n="AIT. BR.">3,8. 34.</ls> {#SAntirvA ApaH#}
+<ls n="AIT. BR.">7,5.</ls> {#apAM SAntiH#} ein Spruch
+<ls n="AIT. BR.">8,6. 8.</ls> <ls>ŚAT. BR. 9,2,3,37.</ls> {#adButAnAM karmaRAm#}
+<ls>ṢAḌV. BR. 5,1. 2. 10.</ls> {#SAntiM kftvA gurumaBivAdayate#}
+<ls>GOBH. 3,2,29.</ls> {#SAntyudaka#}
+<ls>KAUŚ. 9. 17. 44. 80.</ls>
+<ls>ŚĀK. 31,11.</ls> <ls>Verz. d. Oxf. H. 94,b,15.</ls> {#°pAtra#}
+<ls>ŚĀṄKH. GṚHY. 6,2. 3. 6.</ls> —
+<ls>R. 2,25,27.</ls> {#SAntayaSca pravartantAM samantataH#}
+<ls n="R.">7,91,16.</ls> <ls n="R.">1,11,14</ls> (<ls n="GORR. 1,11,">20</ls> <ls>GORR.</ls>). <ls>MBH. 14,2411. fg.</ls> {#°SatakEH#}
+<ls>Spr. (II) 3217, v. l.</ls>
+<ls>VARĀH. BṚH. S. 2, S. 3, Z. 17.</ls> {#KaYjanotpAta°#}
+S. 7, Z. 4. {#aSuBaM SAntiBiH SamayetpuroDAH#}
+<ls n="VARĀH. BṚH. S.">43,61.</ls> {#nIrAjanasaMjYitA#}
+<ls n="VARĀH. BṚH. S.">44,2.</ls> {#kuryAcCAntiM turaMgARAm#}
+<ls n="VARĀH. BṚH. S.">6. 21.</ls> {#nfpaH SAntiM prayuYjIta#}
+<ls n="VARĀH. BṚH. S.">46,3. 5. 17. 54. 80. 48,2.</ls> {#pOzI#}
+<ls n="VARĀH. BṚH. S.">82. 97,17. 98,6. 104,8.</ls>
+<ls>Verz. d. Oxf. H. 42,b,10.</ls> <ls n="Verz. d. Oxf. H.">86,b,42. fgg.</ls>
+<ls n="Verz. d. Oxf. H.">97,b,34.</ls>
+{%das Vermögen sich von allem Widerwärtigen zu befreien%}
+<ls n="Verz. d. Oxf. H.">50,b,5. 100,a,40. 105,a,11 und N. 4</ls>
+(vgl. <ls>WEBER, RĀMAT. UP. 303</ls>). {#°vrata#}
+<ls n="Verz. d. Oxf. H.">34,a,35. fg. 58,a,43.</ls>
+<div n="2">— c) {%Friede, Heil, Segen, Wohlergehen%}; = {#maNgala, Badra#}
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1,4515. fg.</ls> <ls>KATHĀS. 25,92.</ls> {#trayARAmapi lokAnAM tadA SAntirBavizyati#}
+<ls>R. 3,18,46.</ls> <ls n="R. 3,">69,10.</ls>
+<ls>VARĀH. BṚH. S. 11,46. 30,15.</ls> {#dattvA SAntiM mahIpateH#}
+<ls n="VARĀH. BṚH. S.">48,21.</ls> {#nfpadeSAdiSAntistu praSastiraBiDIyate#}
+<ls>SĀH. D. 405.</ls> {#lokAnAM SAntiH#} N. eines <is>Sāman</is>
+<ls>Ind. St. 3,235,b.</ls> {#vAdayanti tadA SAntim#} {%Heil —, Wohlergehen wünschen%}
+<ls>R. 2,69,4.</ls> {#uvAca SAntiM mama cApi#}
+<ls n="R.">5,69,28.</ls> {#jepuH SAntimanuttamAm#}
+<ls>HARIV. 13732.</ls> {#maDuramuvAca SAntiyuktam#}
+<ls>R. GORR. 2,20,47.</ls>
+<div n="2">— d) {%Vernichtung, das zu Grunde Gehen%}: eines Feindes
+<ls>KUMĀRAS. 2,51.</ls>
+<ls>KATHĀS. 20,69.</ls>
+<ls>MĀRK. P. 108,5.</ls> {#tasya SAntiM karizyAmi#}
+<ls>BHĀG. P. 7,4,26.</ls> {%das Eingehen zur ewigen Ruhe, Sterben, Tod%}: {#SAntiM niHsaMtatiryayO#}
+<ls>RĀJA-TAR. 3,124.</ls> {#SAntiM prapede#}
+<ls n="RĀJA-TAR.">4,124.</ls> {#SAntimAgataH#}
+<ls n="RĀJA-TAR.">702.</ls>
+<div n="2">— e) = {#SAntikalpa#}
+<ls>BHĀG. P. 12,7,4.</ls>
+<div n="2">— f) {%die Seelenruhe%} u. s. w. personif.
+<ls>HARIV. 14036.</ls> eine Tochter der <is>Śraddhā</is>
+<ls>PRAB. 17,13. 43,3. fgg.</ls> Gattin <is>Atharvan's</is>
+<ls>BHĀG. P. 3,24,24.</ls> eine Tochter <is>Dakṣa's</is> und Gattin <is>Dharma's</is>
+<ls n="BHĀG. P.">4,1,49.</ls> <ls>MĀRK. P. 50,21.</ls> <ls>VP. 54.</ls>
+<div n="1">— 2) <lex>m.</lex> N. pr.
+<div n="2"> a) eines Sohnes des <is>Indra</is>
+<ls>MBH. 1,7304.</ls>
+<div n="2">— b) <is>Indra's</is> im 10ten <is>Manvantara</is>
+<ls>VP. 3,2,25.</ls>
+<ls>MĀRK. P. 94,13.</ls>
+<div n="2">— c) eines <is>Tuṣita</is>, Sohnes des <is>Viṣṇu</is> von der <is>Dakṣiṇā</is>,
+<ls>BHĀG. P. 4,1,7.</ls>
+<div n="2">— d) eines Sohnes des <is>Kṛṣṇa</is> von der <is>Kālindī</is>
+<ls>BHĀG. P. 10,61,14.</ls>
+<div n="2">— e) eines <is>Ṛṣi</is>
+<ls>MBH. 12,12759.</ls> eines Sohnes des <is>Aṅgiras</is>
+<ls n="MBH.">13,4147.</ls> eines Schülers des <is>Bhūti</is>
+<ls>MĀRK. P. 99,11.</ls>
+<div n="2">— f) eines Sohnes des <is>Nīla</is> und Vaters des <is>Suśānti</is>
+<ls>VP. 453.</ls>
+<ls>BHĀG. P. 9,21,30. fg.</ls>
+<div n="2">— g) des 16ten <is>Arhant's</is> der gegenwärtigen <is>Avasarpiṇī</is> und 5ten <is>Cakravartin</is> in <is>Bhārata</is>
+<ls>H. 28.</ls> <ls n="H.">693.</ls>
+<ls>H. an.</ls>
+<ls>ŚATR. 1,2. 382</ls>; vgl. {#°nATa#} .
+<div n="2">— h) eines Lehrers (mit vollem Namen {#ratnAkara°#})
+<ls>TĀRAN. 234. 239. 243. 325. 328.</ls>
+<div n="v">— Vgl. {#graha°, mahA°#}
+(<ls>VARĀH. BṚH. S. 46,81.</ls> {#°SAntI#}), {#su°#} .
 <LEND>

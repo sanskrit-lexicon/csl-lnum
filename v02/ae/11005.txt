@@ -1,9 +1,9 @@
 <L>11005<pc>486<k1>verse<k2>verse
 {@Verse,@}¦ {%s.%} {#kavitA, padyaM, kAvyaM;#} ‘syllabic v.’
-<div n="lb"/>{#vfttaM;#} ‘blank v.’ {#muktaprAsaH#} {@2@} {#SlokaH#}. {@3@}
-<div n="lb"/>(Portion of v.) {#caraRaH, pAdaH, padaM#}.
-<div n="lb"/>{@-Versify,@} {%v. t.%} {#padyAni rac#} 10 or {#nibaMD#}
-<div n="lb"/>9 P, {#kavayati#} (D.). {@-ier,@} {%s.%} {#kaviH, kavi-#}
-<div n="lb"/>{#-deSyaH#}. {@-ication,@} {%s.%} {#Sloka-padya-racanA,#}
-<div n="lb"/>{#CaMdobaMDaH#}.
+{#vfttaM;#} ‘blank v.’ {#muktaprAsaH#} {@2@} {#SlokaH#}. {@3@}
+(Portion of v.) {#caraRaH, pAdaH, padaM#}.
+{@-Versify,@} {%v. t.%} {#padyAni rac#} 10 or {#nibaMD#}
+9 P, {#kavayati#} (D.). {@-ier,@} {%s.%} {#kaviH, kavi-#}
+{#-deSyaH#}. {@-ication,@} {%s.%} {#Sloka-padya-racanA,#}
+{#CaMdobaMDaH#}.
 <LEND>

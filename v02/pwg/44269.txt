@@ -1,13 +1,13 @@
 <L>44269<pc>4-0646<k1>pAtratA<k2>pAtratA
-{#pAtratA#}¦ (von {#pAtra#}) <lex>f.</lex> 
-<div n="1"> 1) {%das Behältersein für Etwas%} (abstr. zu {#pAtra#} 3.): {#kadA muKaM varatanu kAraRAdfte tavAgataM kzaRamapi kopapAtratAm#} 
-<ls>MĀLAV. 74.</ls> {#dEnyasya pAtratAmeti#} 
-<ls>Spr. 1249.</ls> {#varaM patyO pravAsasTe maraRaM kulayozitaH . na tu rUpAramallokalocanApAtapAtratA ..#} 
-<ls>KATHĀS. 4, 41.</ls> {#tenEvAgAtpuroBAgivitarkAtaNkapAtratAm#} 
-<ls>RĀJA-TAR. 6, 83.</ls> 
-<div n="1">— 2) {%das Würdigsein, Würdigkeit%} (abstr. zu {#pAtra#} 4.): {#na vidyayA kevalayA tapasA vApi pAtratA . yatra vfttamime coBe tadDi pAtraM prakIrtitam ..#} 
-<ls>YĀJÑ. 1, 200. 3, 333.</ls> {#apAtraH pAtratAM yAti yatra pAtro na vidyate#} 
-<ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 158.</ls> {#vinayAdyAti pAtratAm#} ad 
-<ls>HIT. Pr. 5. 6.</ls> 
-<ls>BHĀG. P. 7, 14, 35.</ls>
+{#pAtratA#}¦ (von {#pAtra#}) <lex>f.</lex>
+<div n="1"> 1) {%das Behältersein für Etwas%} (abstr. zu {#pAtra#} 3.): {#kadA muKaM varatanu kAraRAdfte tavAgataM kzaRamapi kopapAtratAm#}
+<ls>MĀLAV. 74.</ls> {#dEnyasya pAtratAmeti#}
+<ls>Spr. 1249.</ls> {#varaM patyO pravAsasTe maraRaM kulayozitaH . na tu rUpAramallokalocanApAtapAtratA ..#}
+<ls>KATHĀS. 4,41.</ls> {#tenEvAgAtpuroBAgivitarkAtaNkapAtratAm#}
+<ls>RĀJA-TAR. 6,83.</ls>
+<div n="1">— 2) {%das Würdigsein, Würdigkeit%} (abstr. zu {#pAtra#} 4.): {#na vidyayA kevalayA tapasA vApi pAtratA . yatra vfttamime coBe tadDi pAtraM prakIrtitam ..#}
+<ls>YĀJÑ. 1,200.</ls> <ls n="YĀJÑ.">3,333.</ls> {#apAtraH pAtratAM yAti yatra pAtro na vidyate#}
+<ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4,158.</ls> {#vinayAdyAti pAtratAm#} ad
+<ls>HIT. Pr. 5. 6.</ls>
+<ls>BHĀG. P. 7,14,35.</ls>
 <LEND>

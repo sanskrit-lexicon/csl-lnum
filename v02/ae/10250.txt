@@ -1,8 +1,8 @@
 <L>10250<pc>463<k1>taunt<k2>taunt
 {@Taunt,@}¦ {%v. t.%} {#A-aDi-kzip#} 6 P, {#niMd#} 1 P,
-<div n="lb"/>{#upAlaB#} 1 A; {%See%} {@Censure. 2@} {#solluMWanaM-#}
-<div n="lb"/>{#-sotprAsena-vad#} 1 P; ‘enough of t.; ing’
-<div n="lb"/>{#alamalamupAlaBya#}. {%-s.%} {#A-aDi-kzepaH, upAlaMBaH,#}
-<div n="lb"/>{#solluMWanokti#} {%f.%} {@-ing,@} {%a.%} {#sAkzepa, sopAlaMBaM,#}
-<div n="lb"/>{#AkzepagarBa;#} {%See%} {@Sarcastic.@}
+{#upAlaB#} 1 A; {%See%} {@Censure. 2@} {#solluMWanaM-#}
+{#-sotprAsena-vad#} 1 P; ‘enough of t.; ing’
+{#alamalamupAlaBya#}. {%-s.%} {#A-aDi-kzepaH, upAlaMBaH,#}
+{#solluMWanokti#} {%f.%} {@-ing,@} {%a.%} {#sAkzepa, sopAlaMBaM,#}
+{#AkzepagarBa;#} {%See%} {@Sarcastic.@}
 <LEND>

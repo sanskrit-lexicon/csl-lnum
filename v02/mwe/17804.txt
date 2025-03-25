@@ -1,4 +1,4 @@
 <L>17804<pc>450-a<k1>lexicon<k2>lexicon
-<div n="lb"/>LEXICON¦, {%s.%} {#kozaH, koSaH, SabdakozaH, SabdakoSaH, SabdasaNgrahaH, aBi-#}
-<div n="lb"/>{#DAnaM, SabdagranTaH, SabdajAlaM, nirvacanaM, niGaRwuH#} {%m.%}
+LEXICON¦, {%s.%} {#kozaH, koSaH, SabdakozaH, SabdakoSaH, SabdasaNgrahaH, aBi-#}
+{#DAnaM, SabdagranTaH, SabdajAlaM, nirvacanaM, niGaRwuH#} {%m.%}
 <LEND>

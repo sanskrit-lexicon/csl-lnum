@@ -1,29 +1,28 @@
 <L>115535<pc>7-1463<k1>svasTa<k2>svasTa
-{#svasTa#}¦ <lex>adj.</lex> (f. {#A#}) 
-<div n="1"> 1) {%in seinem natürlichen Zustande sich befindend, - verharrend; wohl auf, gesund%} (am Körper oder an der Seele), {%guter Dinge%} 
-<ls>MAITRYUP. 2, 7.</ls> <ls>BHAG. 14, 24.</ls> <ls>BHĀG. P. 2, 7, 10. 4, 11, 21. 28, 64. 6, 16, 31. 8, 17, 9. 11, 18, 27. 31, 13.</ls> <ls>M. 1, 53, v. l. 8, 216. fg. , v. l.</ls> {#na svasTA nalaM prati baBUva sA#} 
-<ls>MBH. 3, 2104.</ls> {#aNgAni#} 
-<ls>16829. 16856.</ls> {#svasTo Bava#} 
-<ls>4, 1396. 13, 24. 14, 316. 318.</ls> <ls>HARIV. 684</ls> (nach der Lesart der neueren Ausg.). 
-<ls>5187. 8024. 8281.</ls> <ls>R. 2, 53, 23</ls> ({#KasTa#} gedr.). 
-<ls>?69,19. 105,36.7,18,17. 22,13. 29,33. 47,8. 106,11. SUŚR.1,3,6. 11,19. 54,7. 107,1. 114,11. 255,10.2,548,6. Verz. d. Oxf. H. 357,b,7. KĀM. NĪTIS.7,38. 12,49. RAGH.4,14. ŚĀK. 191, v. l. MĀLATĪM. 63,12. UTTARAR. 12,7</ls> ({#susTa#} 
-<ls>ed. Cow. 16, 13</ls>). 
-<ls>Spr. (II) 1178. 1323. 2286. 2982. 4040. 4528. 4706, v. l. 4955. 5437, v. l. 5480.</ls> <ls>VARĀH. BṚH. S. 8, 18. 88, 34.</ls> <ls>KATHĀS. 10, 197. 18, 210. 22, 248. 36, 40. 39, 192. 51, 203. 60, 150. 62, 123. 63, 173.</ls> <ls>MĀRK. P. 22, 27</ls> (gegen das Metrum {#susTa#}). 
-<ls>39, 37.</ls> <ls>PRAB. 14, 14. 20, 12.</ls> <ls>PAÑCAT. 56, 2. 106, 21. 128, 19.</ls> {#°vftta#} <lex>adj.</lex> (so der Comm., {#susTa°#} der Text) {%natürlich, regelrecht, normal%} 
-<ls>KĀM. NĪTIS. 5, 48.</ls> {#°kriya (kuYjara)#} 
-<ls>15, 8.</ls> {#svasTAveSa#} 
-<ls>KATHĀS. 70, 56.</ls> {#yaTA japAkusumena sPawikamaRI rakto 'svasTo Bavati tannivfttO ca rAgaSUnyaH svasTo Bavati#} Comm. zu 
-<ls>KAP. 2, 35.</ls> {#tIra#} so v. a. {%unverletzt%} 
-<ls>RĀJA-TAR. 1, 40.</ls> {#sTiti#} so v. a. {%unbehelligt%} 
-<ls>BĀLAR. 196, 2.</ls> compar. {#°tara#} {%sehr guter Dinge%} 
-<ls>R. 7, 25, 1.</ls> {#a°#} {%unwohl, krank, sich unbehaglich fühlend%} 
-<ls>M. 7, 226.</ls> 
-<ls>MBH. 3, 2108. fg. 16750.</ls> {#°hfdaya#} 
-<ls>R. 1, 9, 42.</ls> {#°cetana#} 
-<ls>63, 35. 7, 28, 16.</ls> <ls>KĀM. NĪTIS. 13, 60.</ls> <ls>ŚĀK. 31, 8. 9. 33, 11.</ls> <ls>KATHĀS. 24, 147. 33, 151. 37, 221. 60, 150. 63, 116.</ls> <ls>BHĀG. P. 8, 16, 10.</ls> {#nAti°#} 
-<ls>MBH. 3, 2110.</ls> {#asvasTaH saMsAraH#} {%nicht natürlich, nicht in seinen Fugen%} 
-<ls>Spr. (II) 2334.</ls> 
-<div n="1">— 2) {%im eigenen Ich —, im Subject befindlich%}: {#kevalaM saMvidaM svasTAM manyante#} 
-<ls>SARVADARŚANAS. 24, 12.</ls> — Wechselt oft mit {#susTa#}.{# praTitAsvasTa#} 
-<ls>RĀJA-TAR. 4, 31</ls> fehlerhaft für {#praTitAsvAsTya#} .
+{#svasTa#}¦ <lex>adj.</lex> (f. {#A#})
+<div n="1"> 1) {%in seinem natürlichen Zustande sich befindend, — verharrend; wohl auf, gesund%} (am Körper oder an der Seele), {%guter Dinge%}
+<ls>MAITRYUP. 2,7.</ls> <ls>BHAG. 14,24.</ls> <ls>BHĀG. P. 2,7,10.</ls> <ls n="BHĀG. P.">4,11,21.</ls> <ls n="BHĀG. P. 4,">28,64.</ls> <ls n="BHĀG. P.">6,16,31.</ls> <ls n="BHĀG. P.">8,17,9.</ls> <ls n="BHĀG. P.">11,18,27.</ls> <ls n="BHĀG. P. 11,">31,13.</ls> <ls>M. 1,53</ls>, v. l. <ls n="M.">8,216. fg.</ls>, v. l. {#na svasTA nalaM prati baBUva sA#}
+<ls>MBH. 3,2104.</ls> {#aNgAni#}
+<ls n="MBH. 3,">16829.</ls> <ls n="MBH. 3,">16856.</ls> {#svasTo Bava#}
+<ls n="MBH.">4,1396.</ls> <ls n="MBH.">13,24.</ls> <ls n="MBH.">14,316.</ls> <ls n="MBH. 14,">318.</ls> <ls>HARIV. 684</ls> (nach der Lesart der neueren Ausg.).
+<ls n="HARIV.">5187.</ls> <ls n="HARIV.">8024.</ls> <ls n="HARIV.">8281.</ls> <ls>R. 2,53,23</ls> ({#KasTa#} gedr.).
+<ls n="R. 2,">69,19.</ls> <ls n="R. 2,">105,36.</ls> <ls n="R.">7,18,17.</ls> <ls n="R. 7,">22,13.</ls> <ls n="R. 7,">29,33.</ls> <ls n="R. 7,">47,8.</ls> <ls n="R. 7,">106,11.</ls> <ls>SUŚR. 1,3,6. 11,19. 54,7. 107,1. 114,11. 255,10. 2,548,6.</ls> <ls>Verz. d. Oxf. H. 357,b,7.</ls> <ls>KĀM. NĪTIS. 7,38. 12,49.</ls> <ls>RAGH. 4,14.</ls> <ls>ŚĀK. 191, v. l.</ls> <ls>MĀLATĪM. 63,12.</ls> <ls>UTTARAR. 12,7</ls> ({#susTa#} <ls n="UTTARAR.">ed. Cow. 16,13</ls>).
+<ls>Spr. (II) 1178.</ls> <ls n="Spr. (II)">1323.</ls> <ls n="Spr. (II)">2286.</ls> <ls n="Spr. (II)">2982.</ls> <ls n="Spr. (II)">4040.</ls> <ls n="Spr. (II)">4528.</ls> <ls n="Spr. (II)">4706, v. l.</ls> <ls n="Spr. (II)">4955.</ls> <ls n="Spr. (II)">5437, v. l.</ls> <ls n="Spr. (II)">5480.</ls> <ls>VARĀH. BṚH. S. 8,18. 88,34.</ls> <ls>KATHĀS. 10,197.</ls> <ls n="KATHĀS.">18,210.</ls> <ls n="KATHĀS.">22,248.</ls> <ls n="KATHĀS.">36,40.</ls> <ls n="KATHĀS.">39,192.</ls> <ls n="KATHĀS.">51,203.</ls> <ls n="KATHĀS.">60,150.</ls> <ls n="KATHĀS.">62,123.</ls> <ls n="KATHĀS.">63,173.</ls> <ls>MĀRK. P. 22,27</ls> (gegen das Metrum {#susTa#}).
+<ls n="MĀRK. P.">39,37.</ls> <ls>PRAB. 14,14.</ls> <ls n="PRAB.">20,12.</ls> <ls>PAÑCAT. 56,2.</ls> <ls n="PAÑCAT.">106,21.</ls> <ls n="PAÑCAT.">128,19.</ls> {#°vftta#} <lex>adj.</lex> (so der Comm., {#susTa°#} der Text) {%natürlich, regelrecht, normal%}
+<ls>KĀM. NĪTIS. 5,48.</ls> {#°kriya (kuYjara)#}
+<ls n="KĀM. NĪTIS.">15,8.</ls> {#svasTAveSa#}
+<ls>KATHĀS. 70,56.</ls> {#yaTA japAkusumena sPawikamaRI rakto 'svasTo Bavati tannivfttO ca rAgaSUnyaH svasTo Bavati#} Comm. zu
+<ls>KAP. 2,35.</ls> {#tIra#} so v. a. {%unverletzt%}
+<ls>RĀJA-TAR. 1,40.</ls> {#sTiti#} so v. a. {%unbehelligt%}
+<ls>BĀLAR. 196,2.</ls> compar. {#°tara#} {%sehr guter Dinge%}
+<ls>R. 7,25,1.</ls> {#a°#} {%unwohl, krank, sich unbehaglich fühlend%}
+<ls>M. 7,226.</ls>
+<ls>MBH. 3,2108. fg.</ls> <ls n="MBH. 3,">16750.</ls> {#°hfdaya#}
+<ls>R. 1,9,42.</ls> {#°cetana#}
+<ls n="R. 1,">63,35.</ls> <ls n="R.">7,28,16.</ls> <ls>KĀM. NĪTIS. 13,60.</ls> <ls>ŚĀK. 31,8. 9. 33,11.</ls> <ls>KATHĀS. 24,147.</ls> <ls n="KATHĀS.">33,151.</ls> <ls n="KATHĀS.">37,221.</ls> <ls n="KATHĀS.">60,150.</ls> <ls n="KATHĀS.">63,116.</ls> <ls>BHĀG. P. 8,16,10.</ls> {#nAti°#}
+<ls>MBH. 3,2110.</ls> {#asvasTaH saMsAraH#} {%nicht natürlich, nicht in seinen Fugen%}
+<ls>Spr. (II) 2334.</ls>
+<div n="1">— 2) {%im eigenen Ich —, im Subject befindlich%}: {#kevalaM saMvidaM svasTAM manyante#}
+<ls>SARVADARŚANAS. 24,12.</ls> — Wechselt oft mit {#susTa#}.{# praTitAsvasTa#}
+<ls>RĀJA-TAR. 4,31</ls> fehlerhaft für {#praTitAsvAsTya#} .
 <LEND>

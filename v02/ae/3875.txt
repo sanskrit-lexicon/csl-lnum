@@ -1,26 +1,26 @@
 <L>3875<pc>153<k1>faith<k2>faith
 {@Faith,@}¦ {%s.%} {#viSvAsaH, pratyayaH, viSraMBaH#} {@2@} {#SradDA,#}
-<div n="lb"/>{#Bakti#} {%f.,%} {#nizWA, AstikyabudDi#} {%f.%} {@3@} {#avyAjaH,#}
-<div n="lb"/>{#fjutA, satyatA, viSvAsyatA#}. {@-ful,@} {%a.%} {#viSvA-#}
-<div n="lb"/>{#-sya viSvasanIya, viSrabDa#}. {@2@} {#satyasaMDa, satya-#}
-<div n="lb"/>{#-pratijYa-vrata;#} ‘f. to promise’ {#pAlitasaMgara,#}
-<div n="lb"/>{#pratijYApAlaka#}. {@3@} {#anurakta, Bakta, dfQaBakti,#}
-<div n="lb"/>{#Baktimat;#} ‘a f. wife’ {#sADvI, ekapatnI,#}
-<div n="lb"/>{#pativratA, satI, sucaritrA;#} ‘a f. friend’
-<div n="lb"/>{#dfQasOhfdaM-dfQaprema-mitraM#}. {@4@} {#yaTArTa, satya#}. {@5@}
-<div n="lb"/>{#SradDAlu, SraddaDAna, pratyayin, viSvAsin#}.
-<div n="lb"/>{@-fully,@} {%adv.%} {#dfQaBaktyA, BaktipUrvaM, sAnu-#}
-<div n="lb"/>{#-rAgaM, nizWayA; avyAjaM, fjuBAvena, nizkapawaM#}.
-<div n="lb"/>{@-fulness,@} {%s.%} {#viSvAsyatA#}. {@2@} {#Bakti#} {%f.,%} {#dfQA-#}
-<div n="lb"/>{#-maktiH, anurakti-Asakti-#} {%f.;%} {#ArjavaM, nizkA-#}
-<div n="lb"/>{#-pawyaM#}. {@3@} {#pratijYApAlanaM, satyasaMDatA#}. {@4@} {#satyatA#}.
-<div n="lb"/>{@-less,@} {%a.%} {#aviSvAsya#}. {@2@} {#aBakta, viSvAsa-#}
-<div n="lb"/>{#-GAtaka, BaktihIna, ananurakta#}. {@3@} {#asatyasaMDa,#}
-<div n="lb"/>{#BagnapratijYa, visaMvAdin#}. {@4@} {#aviSvAsin, apra-#}
-<div n="lb"/>{#-tyayin, aSraddaDAna#}. {@5@} {#vyaBicArin; asatI,#}
-<div n="lb"/>{#asADvI, BagnacAritryA#} (as a woman).
-<div n="lb"/>{@-lessness,@} {%s.%} {#aviSvAsaH, apratyayaH, aSradDA#}.
-<div n="lb"/>{@2@} {#viSvAsaBaMgaH-GAtaH, aBakti#} {@3@} {%f.%} {#pratijYA-#}
-<div n="lb"/>{#-BaMgaH, samayavyatikramaH, asatyasaMDatA, vrata-#}
-<div n="lb"/>{#-lopanaM#}.
+{#Bakti#} {%f.,%} {#nizWA, AstikyabudDi#} {%f.%} {@3@} {#avyAjaH,#}
+{#fjutA, satyatA, viSvAsyatA#}. {@-ful,@} {%a.%} {#viSvA-#}
+{#-sya viSvasanIya, viSrabDa#}. {@2@} {#satyasaMDa, satya-#}
+{#-pratijYa-vrata;#} ‘f. to promise’ {#pAlitasaMgara,#}
+{#pratijYApAlaka#}. {@3@} {#anurakta, Bakta, dfQaBakti,#}
+{#Baktimat;#} ‘a f. wife’ {#sADvI, ekapatnI,#}
+{#pativratA, satI, sucaritrA;#} ‘a f. friend’
+{#dfQasOhfdaM-dfQaprema-mitraM#}. {@4@} {#yaTArTa, satya#}. {@5@}
+{#SradDAlu, SraddaDAna, pratyayin, viSvAsin#}.
+{@-fully,@} {%adv.%} {#dfQaBaktyA, BaktipUrvaM, sAnu-#}
+{#-rAgaM, nizWayA; avyAjaM, fjuBAvena, nizkapawaM#}.
+{@-fulness,@} {%s.%} {#viSvAsyatA#}. {@2@} {#Bakti#} {%f.,%} {#dfQA-#}
+{#-maktiH, anurakti-Asakti-#} {%f.;%} {#ArjavaM, nizkA-#}
+{#-pawyaM#}. {@3@} {#pratijYApAlanaM, satyasaMDatA#}. {@4@} {#satyatA#}.
+{@-less,@} {%a.%} {#aviSvAsya#}. {@2@} {#aBakta, viSvAsa-#}
+{#-GAtaka, BaktihIna, ananurakta#}. {@3@} {#asatyasaMDa,#}
+{#BagnapratijYa, visaMvAdin#}. {@4@} {#aviSvAsin, apra-#}
+{#-tyayin, aSraddaDAna#}. {@5@} {#vyaBicArin; asatI,#}
+{#asADvI, BagnacAritryA#} (as a woman).
+{@-lessness,@} {%s.%} {#aviSvAsaH, apratyayaH, aSradDA#}.
+{@2@} {#viSvAsaBaMgaH-GAtaH, aBakti#} {@3@} {%f.%} {#pratijYA-#}
+{#-BaMgaH, samayavyatikramaH, asatyasaMDatA, vrata-#}
+{#-lopanaM#}.
 <LEND>

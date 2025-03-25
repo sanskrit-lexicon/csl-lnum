@@ -1,5 +1,5 @@
 <L>8085<pc>256<k1>exile<k2>exile
-<div n="lb"/>{@EXILE@}¦ (subs.): <div n="I">I Banishment: q. v.: {#nirvAsanam.#}</div>
-<div n="lb"/><div n="I">II The person e. d: {#nirvAsitaH#} <div n="xe">{%or%}</div> <div n="xs">{#vivAsitaH#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#pravrAjitaH#}</div> ({#tA, taM#}).</div>
+{@EXILE@}¦ (subs.): <div n="I">I Banishment: q. v.: {#nirvAsanam.#}</div>
+<div n="I">II The person e. d: {#nirvAsitaH#} <div n="xe">{%or%}</div> <div n="xs">{#vivAsitaH#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#pravrAjitaH#}</div> ({#tA, taM#}).</div>
 <LEND>

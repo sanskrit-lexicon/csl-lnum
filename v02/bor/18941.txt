@@ -1,16 +1,16 @@
 <L>18941<pc>585<k1>remain<k2>remain
-<div n="lb"/>{@REMAIN:@}¦ <div n="1">(1) {#tizWati, avatizWate#} ({#sTA,#} c. l.), <div n="xe">{%will%}
-<div n="lb"/>{%go wherever it likes or accustomed to this place%}
-<div n="lb"/>{%will r. here:%}</div> <div n="xs">{#yAsyati yatrAsmE rocizyate, ihEva vA #}
-<div n="lb"/>{# samupajAtaparicayaH sTAsyati,#}</div> <ls>K.</ls> ; <div n="xe">{%the king r. ed there%}
-<div n="lb"/>{%at night:%}</div> <div n="xs">{#rAjA tatrEva rAtrAvatizWat,#}</div> Bha.; <div n="xe">{%one Gan-%}
-<div n="lb"/>{%gadatta alone r. ed:%}</div> <div n="xs">{#kevalameko gaNgadattastizWati,#}</div> P.;
-<div n="lb"/><div n="xe">{%not a point of the earth r. ed pathless:%}</div> <div n="xs">{#nAsTAdapanTA #}
-<div n="lb"/>{# DaraReH kaRo'pi,#}</div> N. x. 2.; </div><div n="1">(2) {#Sizyate, ava-#} (pass.
-<div n="lb"/>of {#Siz#}) (= to be left as a remainder), ({%you%})
-<div n="lb"/><div n="xe">{%r. only in words:%}</div> <div n="xs">{#kaTAsu SizyaDvam,#}</div> M. i. 142.;
-<div n="lb"/>{%when the fame%} ({%alone%}) {%of Vikramāditya r. s:%}
-<div n="lb"/>{#gatavati kIrtiSezaM vikramAditye,#} Va.; <div n="xe">{%the wives of the%}
-<div n="lb"/>{%Vrishnis r. ing after abduction:%}</div> <div n="xs">{#kalatraM vfzRInAM hfta-#}
-<div n="lb"/>{#Sezitam,#}</div> Mah. xvi. 7. 68.</div>
+{@REMAIN:@}¦ <div n="1">(1) {#tizWati, avatizWate#} ({#sTA,#} c. l.), <div n="xe">{%will%}
+{%go wherever it likes or accustomed to this place%}
+{%will r. here:%}</div> <div n="xs">{#yAsyati yatrAsmE rocizyate, ihEva vA #}
+{# samupajAtaparicayaH sTAsyati,#}</div> <ls>K.</ls> ; <div n="xe">{%the king r. ed there%}
+{%at night:%}</div> <div n="xs">{#rAjA tatrEva rAtrAvatizWat,#}</div> Bha.; <div n="xe">{%one Gan-%}
+{%gadatta alone r. ed:%}</div> <div n="xs">{#kevalameko gaNgadattastizWati,#}</div> P.;
+<div n="xe">{%not a point of the earth r. ed pathless:%}</div> <div n="xs">{#nAsTAdapanTA #}
+{# DaraReH kaRo'pi,#}</div> N. x. 2.; </div><div n="1">(2) {#Sizyate, ava-#} (pass.
+of {#Siz#}) (= to be left as a remainder), ({%you%})
+<div n="xe">{%r. only in words:%}</div> <div n="xs">{#kaTAsu SizyaDvam,#}</div> M. i. 142.;
+{%when the fame%} ({%alone%}) {%of Vikramāditya r. s:%}
+{#gatavati kIrtiSezaM vikramAditye,#} Va.; <div n="xe">{%the wives of the%}
+{%Vrishnis r. ing after abduction:%}</div> <div n="xs">{#kalatraM vfzRInAM hfta-#}
+{#Sezitam,#}</div> Mah. xvi. 7. 68.</div>
 <LEND>

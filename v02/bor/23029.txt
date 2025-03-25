@@ -1,6 +1,6 @@
 <L>23029<pc>725<k1>twice<k2>twice
-<div n="lb"/>{@TWICE:@}¦ <div n="1">(1) {#dviH;#} </div><div n="1">(2) {#dvivAram,#} <div n="xe">{%T. born:%}</div> <div n="xs">{#dvijaH#}</div>
-<div n="lb"/>({#jA, jaM#}); <div n="xe">{%t. ploughed:%}</div> <div n="xs">{#dviguRAkftaH#}</div> ({#tA, taM#}); <div n="xe">{%t. as%}
-<div n="lb"/>{%valiant as he:%}</div> <div n="xs">{#tasmAdviguRaparAkrAntaH#}</div> ({#ntA, ntaM#});
-<div n="lb"/><div n="xe">{%t. a day:%}</div> <div n="xs">{#dvirahraH.#}</div></div>
+{@TWICE:@}¦ <div n="1">(1) {#dviH;#} </div><div n="1">(2) {#dvivAram,#} <div n="xe">{%T. born:%}</div> <div n="xs">{#dvijaH#}</div>
+({#jA, jaM#}); <div n="xe">{%t. ploughed:%}</div> <div n="xs">{#dviguRAkftaH#}</div> ({#tA, taM#}); <div n="xe">{%t. as%}
+{%valiant as he:%}</div> <div n="xs">{#tasmAdviguRaparAkrAntaH#}</div> ({#ntA, ntaM#});
+<div n="xe">{%t. a day:%}</div> <div n="xs">{#dvirahraH.#}</div></div>
 <LEND>

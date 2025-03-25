@@ -1,4 +1,4 @@
 <L>13356<pc>412<k1>learner<k2>learner
-<div n="lb"/>{@LEARNER:@}¦ <div n="1">(1) {#SikzA-#} <div n="xe">{%or%}</div> <div n="xs">{#vidyA-grAhaka#}</div> (f. {#hikA#});</div>
-<div n="lb"/><div n="1">(2) {#SizyaH#} (= pupil).</div>
+{@LEARNER:@}¦ <div n="1">(1) {#SikzA-#} <div n="xe">{%or%}</div> <div n="xs">{#vidyA-grAhaka#}</div> (f. {#hikA#});</div>
+<div n="1">(2) {#SizyaH#} (= pupil).</div>
 <LEND>

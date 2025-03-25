@@ -1,7 +1,7 @@
 <L>30846<pc>829-a<k1>verse<k2>verse
-<div n="lb"/>VERSE¦, {%s.%} (Metrical composition) {#padyaM, kavitA, kAvyaM, Candas#} {%n.,%}
-<div n="lb"/>{#gA;#} ‘measured by time,’ {#jAtiH#} {%f.;%} ‘syllabic,’ {#vfttaM;#} ‘blank,’
-<div n="lb"/>{#muktaprAsaH;#} ‘prose and verse,’ {#gadyapadyaM#}. — (Stanza) {#SlokaH, gATA,#}
-<div n="lb"/>{#rUpaM#}. — (Line of a stanza) {#pAdaH, caraRaH -RaM, padaM;#} ‘verse by
-<div n="lb"/>verse,’ {#pAdaSas#}.
+VERSE¦, {%s.%} (Metrical composition) {#padyaM, kavitA, kAvyaM, Candas#} {%n.,%}
+{#gA;#} ‘measured by time,’ {#jAtiH#} {%f.;%} ‘syllabic,’ {#vfttaM;#} ‘blank,’
+{#muktaprAsaH;#} ‘prose and verse,’ {#gadyapadyaM#}. — (Stanza) {#SlokaH, gATA,#}
+{#rUpaM#}. — (Line of a stanza) {#pAdaH, caraRaH -RaM, padaM;#} ‘verse by
+verse,’ {#pAdaSas#}.
 <LEND>

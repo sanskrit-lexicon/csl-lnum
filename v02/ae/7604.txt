@@ -1,9 +1,9 @@
 <L>7604<pc>329<k1>panegyric<k2>panegyric
 {@Panegyric,@}¦ {%s.%} {#stuti#} {%f.,%} {#SlAGA, praSaMsA,#}
-<div n="lb"/>{#stutivAdaH-pAWaH, guRavarRanaM-kIrtanaM#}. {@-al,@} {%a.%}
-<div n="lb"/>{#stutimaya#} ({#yI#} {%f.%}), {#praSaMsAtmaka#}.
-<div n="lb"/>{@-Panegyrize,@} {%v. t.%} {#stu#} 2 U, {#SlAG#} 1 A,
-<div n="lb"/>{#praSaMs#} 1 P; {%See%} {@Praise. -Panegyrist,@} {%s.%}
-<div n="lb"/>{#saMstAvakaH, vEtAlikaH, baMdin#} {%m.,%} {#mAgaDaH,#}
-<div n="lb"/>{#stutipAWakaH#}.
+{#stutivAdaH-pAWaH, guRavarRanaM-kIrtanaM#}. {@-al,@} {%a.%}
+{#stutimaya#} ({#yI#} {%f.%}), {#praSaMsAtmaka#}.
+{@-Panegyrize,@} {%v. t.%} {#stu#} 2 U, {#SlAG#} 1 A,
+{#praSaMs#} 1 P; {%See%} {@Praise. -Panegyrist,@} {%s.%}
+{#saMstAvakaH, vEtAlikaH, baMdin#} {%m.,%} {#mAgaDaH,#}
+{#stutipAWakaH#}.
 <LEND>

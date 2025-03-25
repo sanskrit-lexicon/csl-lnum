@@ -1,6 +1,6 @@
 <L>7974<pc>183-b<k1>dimension<k2>dimension
-<div n="lb"/>DIMENSION¦, {%s.%} {#parimARaM, pramARaM, mAtraM, mAtrA, mAnaM, vistAraH, parisaraH,#}
-<div n="lb"/>{#prasaraH, paryyantaM, prapaYcaH, viSAlatA, vizulatA, santatiH#} {%f.,%} {#vizayaH,#}
-<div n="lb"/>{#drAGimA#} {%m.%} {#(n), dErGyaM, AyatiH#} {%f.,%} {#AyAmaH, prayAmaH#}. The three
-<div n="lb"/>dimensions are, ‘length,’ {#dErDyaM;#} ‘breadth,’ {#vistAraH;#} ‘depth,’ {#veDaH#}.
+DIMENSION¦, {%s.%} {#parimARaM, pramARaM, mAtraM, mAtrA, mAnaM, vistAraH, parisaraH,#}
+{#prasaraH, paryyantaM, prapaYcaH, viSAlatA, vizulatA, santatiH#} {%f.,%} {#vizayaH,#}
+{#drAGimA#} {%m.%} {#(n), dErGyaM, AyatiH#} {%f.,%} {#AyAmaH, prayAmaH#}. The three
+dimensions are, ‘length,’ {#dErDyaM;#} ‘breadth,’ {#vistAraH;#} ‘depth,’ {#veDaH#}.
 <LEND>

@@ -1,5 +1,5 @@
 <L>2319<pc>080<k1>bonded<k2>bonded
-<div n="lb"/>{@BONDED@}¦ (adj.): Ph. <div n="xe">{%b. goods%}</div> <div n="xs">{#*pratijYAtaSulkadAnAni#}</div>
-<div n="lb"/>{#dravyARi#} (n. pl.): <div n="xe">{%b. warehouse%}</div> <div n="xs">{#*pratijYAtaSulkadAna-#}
-<div n="lb"/>{#dravyaSAlA.#}</div>
+{@BONDED@}¦ (adj.): Ph. <div n="xe">{%b. goods%}</div> <div n="xs">{#*pratijYAtaSulkadAnAni#}</div>
+{#dravyARi#} (n. pl.): <div n="xe">{%b. warehouse%}</div> <div n="xs">{#*pratijYAtaSulkadAna-#}
+{#dravyaSAlA.#}</div>
 <LEND>

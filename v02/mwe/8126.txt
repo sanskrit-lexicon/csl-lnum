@@ -1,8 +1,8 @@
 <L>8126<pc>187-b<k1>discipline<k2>discipline
-<div n="lb"/>DISCIPLINE¦, {%s.%} (Education, instruction) {#vinayaH, SikzA, aByAsaH,#}
-<div n="lb"/>{#SAsanaM, SizwiH#} {%f.,%} {#SAstiH#} {%f.,%} {#anuSAsanaM, upadeSaH, aDyApanaM, anunayaH,#}
-<div n="lb"/>{#nItiH#} {%f.%} — (Military discipline) {#vyAyAmaH, yudDAByAsaH, yudDaSikzA,#}
-<div n="lb"/>{#yudDanItiH#} {%f.,%} {#yudDavyavasTA#}. — (Rule of government) {#nItiH#} {%f.,%} {#nayaH,#}
-<div n="lb"/>{#rAjanItiH, vyavasTA, niyamaH, viDiH#} {%m.%} — (Chastisement) {#SizwiH#} {%f.,%}
-<div n="lb"/>{#SAstiH#} {%f.,%} {#SAsanaM, nigrahaH, sAhasaM, daRqaH, damaH#}. — (Subjection) {#dAntiH#} {%f.%}
+DISCIPLINE¦, {%s.%} (Education, instruction) {#vinayaH, SikzA, aByAsaH,#}
+{#SAsanaM, SizwiH#} {%f.,%} {#SAstiH#} {%f.,%} {#anuSAsanaM, upadeSaH, aDyApanaM, anunayaH,#}
+{#nItiH#} {%f.%} — (Military discipline) {#vyAyAmaH, yudDAByAsaH, yudDaSikzA,#}
+{#yudDanItiH#} {%f.,%} {#yudDavyavasTA#}. — (Rule of government) {#nItiH#} {%f.,%} {#nayaH,#}
+{#rAjanItiH, vyavasTA, niyamaH, viDiH#} {%m.%} — (Chastisement) {#SizwiH#} {%f.,%}
+{#SAstiH#} {%f.,%} {#SAsanaM, nigrahaH, sAhasaM, daRqaH, damaH#}. — (Subjection) {#dAntiH#} {%f.%}
 <LEND>

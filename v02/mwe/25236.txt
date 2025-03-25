@@ -1,7 +1,7 @@
 <L>25236<pc>682-b<k1>resistance<k2>resistance
-<div n="lb"/>RESISTANCE¦, {%s.%} {#pratikAraH, pratIkAraH, vipratikAraH, pratikriyA, viroDaH,#}
-<div n="lb"/>{#pratiroDaH, pratikUlatA, prAtikUlyaM, pratiyogaH -gitA, paryavasTAnaM, paryavasTA,#}
-<div n="lb"/>{#paryavasTitiH#} {%f.,%} {#pratyavasTAnaM, pratyavasTitiH#} {%f.,%} {#praticCedaH, nikAraH, prati-#}
-<div n="lb"/>{#banDaH -nDakatA, pratizwamBaH, nigrahaH -haRaM, avagrahaH, nivAraRaM, pratiyatnaH,#}
-<div n="lb"/>{#pratyupAyaH#}. — (In mechanics) {#pratyAGAtaH, pratiGAtaH#}.
+RESISTANCE¦, {%s.%} {#pratikAraH, pratIkAraH, vipratikAraH, pratikriyA, viroDaH,#}
+{#pratiroDaH, pratikUlatA, prAtikUlyaM, pratiyogaH -gitA, paryavasTAnaM, paryavasTA,#}
+{#paryavasTitiH#} {%f.,%} {#pratyavasTAnaM, pratyavasTitiH#} {%f.,%} {#praticCedaH, nikAraH, prati-#}
+{#banDaH -nDakatA, pratizwamBaH, nigrahaH -haRaM, avagrahaH, nivAraRaM, pratiyatnaH,#}
+{#pratyupAyaH#}. — (In mechanics) {#pratyAGAtaH, pratiGAtaH#}.
 <LEND>

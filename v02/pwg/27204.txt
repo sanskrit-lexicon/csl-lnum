@@ -1,33 +1,32 @@
 <L>27204<pc>3-0076<k1>jAtaka<k2>jAtaka
-{#jAtaka#}¦ (von {#jAta#}) 
-<div n="1"> 1) <lex>adj.</lex> {%erzeugt, geboren%}: {#jAra°#} 
-<ls>M. 9, 143.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%ein neugeborenes Kind%} 
-<ls>KAUŚ. 111.</ls> 
-<div n="2">— b) {%Bettler%} 
-<ls>DHAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 3) <lex>n.</lex> 
-<div n="2"> a) = {#jAtakarman#} {%Cerimonie nach der Geburt des Kindes%}: {#jAtakAdyAH kriyAH#} 
-<ls>MBH. 1, 949.</ls> {#kumArasya - vAcayitvASizo viprEH kArayAmAsa jAtakam#} 
-<ls>BHĀG. P. 6, 14, 33.</ls> 
-<div n="2">— b) {%Nativität, Nativitätslehre%}: {#(tasya) rAjA viprEH - jAtakaM kArayAmAsa vAcayitvA ca maNgalam#} 
-<ls>BHĀG. P. 1, 12, 13.</ls> {#°kovida#}
+{#jAtaka#}¦ (von {#jAta#})
+<div n="1"> 1) <lex>adj.</lex> {%erzeugt, geboren%}: {#jAra°#}
+<ls>M. 9,143.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) {%ein neugeborenes Kind%}
+<ls>KAUŚ. 111.</ls>
+<div n="2">— b) {%Bettler%}
+<ls>DHAR.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 3) <lex>n.</lex>
+<div n="2"> a) = {#jAtakarman#} {%Cerimonie nach der Geburt des Kindes%}: {#jAtakAdyAH kriyAH#}
+<ls>MBH. 1,949.</ls> {#kumArasya — vAcayitvASizo viprEH kArayAmAsa jAtakam#}
+<ls>BHĀG. P. 6,14,33.</ls>
+<div n="2">— b) {%Nativität, Nativitätslehre%}: {#(tasya) rAjA viprEH — jAtakaM kArayAmAsa vAcayitvA ca maNgalam#}
+<ls>BHĀG. P. 1,12,13.</ls> {#°kovida#}
 [Page3-0077]
-
-<ls>?29. VARĀH. BṚH. 27, 3. Im ŚKDR.</ls> werden folgende über {%Nativität%} handelnde Schriften namhaft gemacht: {#jAtakadIpikA, jAtakAmfta, °taraMgiRI, °kOmudI, °ratnAkara, °sAra, jAtakArRava#} (vgl. 
-<ls>COLEBR. Misc. Ess. II, 385. 410. 482. fg.</ls>), {#°candrikA, laGu°, bfhajjAtaka#} . Vgl. 
-<ls>REINAUD,</ls> <ls>Mém. sur l'Inde 336.</ls> {#°padDati#} 
-<ls>Verz. d. B. H. No. 865. 869. fgg.</ls> <ls>Ind. St. 2, 253.</ls> {#°padmakoSa#} 
-<ls>252. 276.</ls> {#jAtakABaraRa#} 
-<ls>Verz. d. B. H. No. 866. fg.</ls> {#°kalAniDi, °saMgraha#} 
-<ls>MACK. Coll. 1, 122.</ls> 
-<div n="2">— c) bei den Buddhisten {%eine frühere Geburt%} <is>Śākyamuni's</is> {%und die dieselben behandelnden Erzählungen%} 
-<ls>VYUTP. 39.</ls> 
-<ls>BURN. Intr. 61.</ls> {#°mAlA#} ebend. 
-<ls>WASSILJEW 109.</ls> {#°sena#} 
-<ls>HIOUEN-THSANG I, 137. 197.</ls> <ls>VYĀḌI</ls> zu <ls>H. 233</ls> zählt 
-<ls>34</ls> solche {%frühere Geburten%} auf; vgl. {#catustriMSajjAtakajYa#} und 
-<ls>Ind. St. 3, 127. fg. 356. fgg. 4, 387. fgg.</ls> 
+<ls n="BHĀG. P. 1,12,">29.</ls> <ls>VARĀH. BṚH. 27,3. Im</ls> <ls>ŚKDR.</ls> werden folgende über {%Nativität%} handelnde Schriften namhaft gemacht: {#jAtakadIpikA, jAtakAmfta, °taraMgiRI, °kOmudI, °ratnAkara, °sAra, jAtakArRava#} (vgl.
+<ls>COLEBR. Misc. Ess. II,385. 410. 482. fg.</ls>), {#°candrikA, laGu°, bfhajjAtaka#} . Vgl.
+<ls>REINAUD, Mém. sur l'Inde 336.</ls> {#°padDati#}
+<ls>Verz. d. B. H. No. 865. 869. fgg.</ls> <ls>Ind. St. 2,253.</ls> {#°padmakoSa#}
+<ls n="Ind. St.">252. 276.</ls> {#jAtakABaraRa#}
+<ls>Verz. d. B. H. No. 866. fg.</ls> {#°kalAniDi, °saMgraha#}
+<ls>MACK. Coll. 1,122.</ls>
+<div n="2">— c) bei den Buddhisten {%eine frühere Geburt%} <is>Śākyamuni's</is> {%und die dieselben behandelnden Erzählungen%}
+<ls>VYUTP. 39.</ls>
+<ls>BURN. Intr. 61.</ls> {#°mAlA#} ebend.
+<ls>WASSILJEW 109.</ls> {#°sena#}
+<ls>HIOUEN-THSANG I,137. 197.</ls> <ls>VYĀḌI</ls> zu <ls>H. 233</ls> zählt
+34 solche {%frühere Geburten%} auf; vgl. {#catustriMSajjAtakajYa#} und
+<ls>Ind. St. 3,127. fg. 356. fgg. 4,387. fgg.</ls>
 <div n="2">— d) {%ein Aggregat gleichartiger Dinge%}; vgl. {#caturjAtaka#} .
 <LEND>

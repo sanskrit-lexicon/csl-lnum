@@ -1,12 +1,12 @@
 <L>17571<pc>442-b<k1>leader<k2>leader
-<div n="lb"/>LEADER¦, {%s.%} (Guide, conductor) {#netA#} {%m.%} {#(tf), nAyakaH, netraH, vinetA#} {%m.,%}
-<div n="lb"/>{#paTadarSakaH, mArgadarSakaH, mArganirdezwA#} {%m.%} {#(zwf), paTanirdeSakaH, mArgAdezwA#} {%m.,%}
-<div n="lb"/>{#mArgopadeSI#} {%m.%} {#(n), upadezwA#} {%m.,%} {#saYcArakaH#}. — (Chief) {#muKyaH, muKaraH,#}
-<div n="lb"/>{#pramuKaH, aDipaH, aDizWAtA#} {%m.%} {#(tf), ISvaraH, patiH#} {%m.%} — (One who
-<div n="lb"/>goes first) {#purogaH -gamaH, purogAmI#} {%m.%} {#(n), purogatiH#} {%m.,%} {#agragaH,#}
-<div n="lb"/>{#agrasaraH, agresaraH -rikaH, agrataHsaraH, puraHsaraH, purassaraH, agragAmI,#}
-<div n="lb"/>{#prazWaH, SirovarttI#} {%m.%} {#(n), SirassTaH#}. — (Of an army) {#senAgragaH,#}
-<div n="lb"/>{#senAnIH#} {%m.,%} {#senApatiH#} {%m.,%} {#senADipaH, senADyakzaH, daRqanAyakaH, yoDamuKyaH,#}
-<div n="lb"/>{#vAhinIpatiH#} {%m.,%} {#camUpatiH#} {%m.;%} ‘an able leader in war,’ {#sAMyugInaH#}.
-<div n="lb"/> — (Of a religious order or sect) {#AcAryyaH, guruH#} {%m.%}
+LEADER¦, {%s.%} (Guide, conductor) {#netA#} {%m.%} {#(tf), nAyakaH, netraH, vinetA#} {%m.,%}
+{#paTadarSakaH, mArgadarSakaH, mArganirdezwA#} {%m.%} {#(zwf), paTanirdeSakaH, mArgAdezwA#} {%m.,%}
+{#mArgopadeSI#} {%m.%} {#(n), upadezwA#} {%m.,%} {#saYcArakaH#}. — (Chief) {#muKyaH, muKaraH,#}
+{#pramuKaH, aDipaH, aDizWAtA#} {%m.%} {#(tf), ISvaraH, patiH#} {%m.%} — (One who
+goes first) {#purogaH -gamaH, purogAmI#} {%m.%} {#(n), purogatiH#} {%m.,%} {#agragaH,#}
+{#agrasaraH, agresaraH -rikaH, agrataHsaraH, puraHsaraH, purassaraH, agragAmI,#}
+{#prazWaH, SirovarttI#} {%m.%} {#(n), SirassTaH#}. — (Of an army) {#senAgragaH,#}
+{#senAnIH#} {%m.,%} {#senApatiH#} {%m.,%} {#senADipaH, senADyakzaH, daRqanAyakaH, yoDamuKyaH,#}
+{#vAhinIpatiH#} {%m.,%} {#camUpatiH#} {%m.;%} ‘an able leader in war,’ {#sAMyugInaH#}.
+ — (Of a religious order or sect) {#AcAryyaH, guruH#} {%m.%}
 <LEND>

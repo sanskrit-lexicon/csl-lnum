@@ -1,7 +1,7 @@
 <L>13348<pc>411<k1>leap<k2>leap
-<div n="lb"/>{@LEAP@}¦ (v.): <div n="1">(1) {#plavate#} ({#plu,#} c. 1.): <div n="xe">{%l. down:%}</div> <div n="xs">{#ava-#}
-<div n="lb"/>{#plavate;#}</div> <div n="xe">{%l. up:%}</div> <div n="xs">{#utplavate;#}</div> <div n="xe">{%l. forth:%}</div> <div n="xs">{#Aplavate;#}</div> </div><div n="1">(2) {#valgate, #}
-<div n="lb"/>{# -ti#} ({#valg,#} c. 1.) (= to skip); </div><div n="1">(3) {#lamPaM#} {%or%}
-<div n="lb"/>{#BampaM dadAti.#} {%L. over:%} ({#lamPena,#} etc.) {#laNGayati#} ({#laNG,#}
-<div n="lb"/>c. 10.).</div>
+{@LEAP@}¦ (v.): <div n="1">(1) {#plavate#} ({#plu,#} c. 1.): <div n="xe">{%l. down:%}</div> <div n="xs">{#ava-#}
+{#plavate;#}</div> <div n="xe">{%l. up:%}</div> <div n="xs">{#utplavate;#}</div> <div n="xe">{%l. forth:%}</div> <div n="xs">{#Aplavate;#}</div> </div><div n="1">(2) {#valgate, #}
+{# -ti#} ({#valg,#} c. 1.) (= to skip); </div><div n="1">(3) {#lamPaM#} {%or%}
+{#BampaM dadAti.#} {%L. over:%} ({#lamPena,#} etc.) {#laNGayati#} ({#laNG,#}
+c. 10.).</div>
 <LEND>

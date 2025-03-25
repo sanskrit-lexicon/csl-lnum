@@ -1,36 +1,35 @@
 <L>12012<pc>1-0968<k1>uparizwAt<k2>upa/rizwAt
-{#upa/rizwAt#}¦ (von {#upari#}) 
-<ls>P. 5, 2, 31.</ls> 
-<ls>VOP. 7, 110.</ls> 
-<ls>H. 1526.</ls> 
-<div n="1"> 1) adv. 
+{#upa/rizwAt#}¦ (von {#upari#})
+<ls>P. 5,2,31.</ls>
+<ls>VOP. 7,110.</ls>
+<ls>H. 1526.</ls>
+<div n="1"> 1) adv.
 <div n="2"> a) {%oben,%}
 [Page1-0969]
-{%von oben%} (Gegens. {#aDastAt): u\pari^zwAttuja\tA va\Dena^#} 
-<ls>ṚV. 9, 91, 4.</ls> 
-<ls>AV. 4, 40, 7.</ls> {#viSve^ de\vA u\pari^zwAdu\bjanto^ ya\ntvoja^sA#} 
-<ls>8, 8, 13.</ls> {#uparizwAdAjyasyABiGArayati#} 
-<ls>ŚAT. BR. 1, 6, 1, 21. 2, 3, 3, 12.</ls> {#puruza uparizwAtpaSUnatitizWati#} 
-<ls>13, 3, 6, 4. 4, 4, 1, 1.</ls> <ls>CHĀND. UP. 7, 25, 1.</ls> {#nADastAnnoparizwAcca gatirnApsu na cAmbare . kasyacitsajjate 'smAkam#} 
-<ls>R. 4, 28, 26. 5, 73, 17.</ls> 
-<div n="2">— b) {%hinten%} (Gegens. {#purastAt#}) 
-<ls>TS. 2, 6, 6, 3.</ls> 
-<ls>ŚAT. BR. 1, 4, 1, 37. 9, 1, 1, 25.</ls> {#upa/rizwAllakzaRa#} 
-<ls>1, 7, 2, 19. 3, 8, 1, 16.</ls> <ls>NIR. 1, 4.</ls> in einem Spruche, Buche u. s. w. {%weiterhin, später, im Folgenden%} 
-<ls>15. 2, 13. 7, 9.</ls> <ls>SUŚR. 1, 24, 20.</ls> 
-<div n="2">— c) {%nachher, später%}; Gegens. {#purastAt#} 
-<ls>CHĀND. UP. 5, 2, 2.</ls> {#aDastAt#} 
-<ls>YĀJÑ. 1, 106.</ls> 
-<div n="1">— 2) praep. 
-<div n="2"> a) {%über, auf, hinab auf%}; mit dem acc.: {#nedenamuparizwAnnAzwrA rakzAMsyavapaSyAn#} 
-<ls>ŚAT. BR. 1, 2, 2, 16. 7, 1, 20. 5, 2, 1, 21. 12, 4, 2, 10.</ls> mit dem gen.: {#uparizwAcCIrzRaH#} 
-<ls>5, 4, 1, 14. 8, 5, 1, 16.</ls> {#uparizwAcca vfkzasya balAkA saMnyalIyata#} 
-<ls>MBH. 3, 13654.</ls> {#tasyoparizwAnnyapatat#} 
-<ls>R. 5, 3, 16. 4, 44, 123.</ls> 
-<ls>H. 1526,</ls> 
-<ls>Sch.</ls> 
-<div n="2">— b) {%hinter%}, mit dem gen.: {#pu\rastA\nnAByA^ a\nyada^va\dyedu\pari^zwAda\nyat#} 
-<ls>TS. 3, 4, 1, 3. 4. 6, 3, 7, 4.</ls> {#yajYasya#} 
-<ls>ŚAT. BR. 1, 9, 1, 1. 5, 3, 2, 1. 12, 3, 5, 12. 13.</ls> {#kziprasyoparizwAduBayataH kUrcaH#} 
-<ls>SUŚR. 1, 348, 12.</ls>
+{%von oben%} (Gegens. {#aDastAt): u\pari^zwAttuja\tA va\Dena^#}
+<ls>ṚV. 9,91,4.</ls>
+<ls>AV. 4,40,7.</ls> {#viSve^ de\vA u\pari^zwAdu\bjanto^ ya\ntvoja^sA#}
+<ls n="AV.">8,8,13.</ls> {#uparizwAdAjyasyABiGArayati#}
+<ls>ŚAT. BR. 1,6,1,21.</ls> <ls n="ŚAT. BR.">2,3,3,12.</ls> {#puruza uparizwAtpaSUnatitizWati#}
+<ls n="ŚAT. BR.">13,3,6,4.</ls> <ls n="ŚAT. BR.">4,4,1,1.</ls> <ls>CHĀND. UP. 7,25,1.</ls> {#nADastAnnoparizwAcca gatirnApsu na cAmbare . kasyacitsajjate 'smAkam#}
+<ls>R. 4,28,26.</ls> <ls n="R.">5,73,17.</ls>
+<div n="2">— b) {%hinten%} (Gegens. {#purastAt#})
+<ls>TS. 2,6,6,3.</ls>
+<ls>ŚAT. BR. 1,4,1,37.</ls> <ls n="ŚAT. BR.">9,1,1,25.</ls> {#upa/rizwAllakzaRa#}
+<ls n="ŚAT. BR.">1,7,2,19.</ls> <ls n="ŚAT. BR.">3,8,1,16.</ls> <ls>NIR. 1,4.</ls> in einem Spruche, Buche u. s. w. {%weiterhin, später, im Folgenden%}
+<ls n="NIR. 1,">15.</ls> <ls n="NIR.">2,13.</ls> <ls n="NIR.">7,9.</ls> <ls>SUŚR. 1,24,20.</ls>
+<div n="2">— c) {%nachher, später%}; Gegens. {#purastAt#}
+<ls>CHĀND. UP. 5,2,2.</ls> {#aDastAt#}
+<ls>YĀJÑ. 1,106.</ls>
+<div n="1">— 2) praep.
+<div n="2"> a) {%über, auf, hinab auf%}; mit dem acc.: {#nedenamuparizwAnnAzwrA rakzAMsyavapaSyAn#}
+<ls>ŚAT. BR. 1,2,2,16.</ls> <ls n="ŚAT. BR. 1,">7,1,20.</ls> <ls n="ŚAT. BR.">5,2,1,21.</ls> <ls n="ŚAT. BR.">12,4,2,10.</ls> mit dem gen.: {#uparizwAcCIrzRaH#}
+<ls n="ŚAT. BR.">5,4,1,14.</ls> <ls n="ŚAT. BR.">8,5,1,16.</ls> {#uparizwAcca vfkzasya balAkA saMnyalIyata#}
+<ls>MBH. 3,13654.</ls> {#tasyoparizwAnnyapatat#}
+<ls>R. 5,3,16.</ls> <ls n="R.">4,44,123.</ls>
+<ls>H. 1526</ls>, <ls>Sch.</ls>
+<div n="2">— b) {%hinter%}, mit dem gen.: {#pu\rastA\nnAByA^ a\nyada^va\dyedu\pari^zwAda\nyat#}
+<ls>TS. 3,4,1,3. 4. 6,3,7,4.</ls> {#yajYasya#}
+<ls>ŚAT. BR. 1,9,1,1. 5,3,2,1. 12,3,5,12. 13.</ls> {#kziprasyoparizwAduBayataH kUrcaH#}
+<ls>SUŚR. 1,348,12.</ls>
 <LEND>

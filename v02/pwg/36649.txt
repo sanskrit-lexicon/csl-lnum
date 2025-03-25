@@ -1,51 +1,50 @@
 <L>36649<pc>3-0948<k1>DArA<k2>DA/rA<h>2
-2. {#DA/rA#}¦ (von 2. {#DAv#}) <lex>f.</lex> <is>gaṇa</is> {#vfzAdi#} zu 
-<ls>P. 6, 1, 203.</ls> 
-<ls>VOP. 26, 191.</ls> 
-<div n="1"> 1) {%Schneide, Schärfe, Klinge eines schneidenden Werkzeugs%} 
-<ls>H. an. 2, 431.</ls> 
-<ls>MED. r. 50. fg.</ls> {#SiSI^ta\ tejo 'ya^so\ na DArA^m#} 
-<ls>ṚV. 6, 3, 5.</ls> <ls n="ṚV. 6,">47, 10.</ls> {#pra sa\ptava^DrirA\SasA\ DArA^ma\gnera^SAyata#} {%Schärfe der Flammen%} 
-<ls n="ṚV.">8, 62, 9.</ls> {#kzurasya#} 
-<ls>ŚAT. BR. 14, 6, 3, 2.</ls> {#svaDiti°#} 
-<ls>KAUŚ. 44.</ls> 
-<ls>TAITT. ĀR. 4, 38, 1.</ls> 
-<ls>SUŚR. 1, 27, 18. 28, 1.</ls> {#nAnADArAmuKEH SastrEH#} 
-<ls>2, 17, 9.</ls> {#Kaqga°#} 
-<ls>R. 2, 23, 35.</ls> 
-<ls>HIT. III, 67.</ls> <ls>TRIK. 1, 1, 125.</ls> {#paraSvaDasya#} 
-<ls>RAGH. 6, 42. 11, 78.</ls> {#nIlotpalapattraDArayA samillatAM Cettum#} 
-<ls>ŚĀK. 17.</ls> {#tIkzRaDAra#} (s. auch bes.) 
-<ls>MBH. 13, 864.</ls> 
-<ls>R. 6, 68, 13.</ls> 
-<ls>DEV. 3, 6.</ls> {#Sita°#} 
-<ls>MBH. 3, 13581.</ls> 
-<ls>HARIV. 2447.</ls> 
-<ls>BHĀG. P. 4, 5, 22.</ls> {#kuRWa°#} 
-<ls>R. 3, 32, 16.</ls> {#pfTu°#} 
-<ls>MBH. 1, 8240. 4, 1990. 2042. 2082.</ls> 
-<ls>R. 6, 92, 14.</ls> {#uru°#} 
-<ls>BHĀG. P. 2, 7, 22.</ls> {#uBayato°#} 
-<ls>5, 26, 15.</ls> {#Gora°#} 
-<ls>PRAB. 5, 10.</ls> {#vajra°#} 
-<ls>R. 6, 87, 10. 17.</ls> {#kfta°#} {%geschärft%} 
-<ls>MBH. 7, 3090.</ls> Vgl. {#arDa°, asi°, kzura°, KaRqa°, Kara°#} . 
+2. {#DA/rA#}¦ (von 2. {#DAv#}) <lex>f.</lex> <is>gaṇa</is> {#vfzAdi#} zu
+<ls>P. 6,1,203.</ls>
+<ls>VOP. 26,191.</ls>
+<div n="1"> 1) {%Schneide, Schärfe, Klinge eines schneidenden Werkzeugs%}
+<ls>H. an. 2,431.</ls>
+<ls>MED. r. 50. fg.</ls> {#SiSI^ta\ tejo 'ya^so\ na DArA^m#}
+<ls>ṚV. 6,3,5.</ls> <ls n="ṚV. 6,">47,10.</ls> {#pra sa\ptava^DrirA\SasA\ DArA^ma\gnera^SAyata#} {%Schärfe der Flammen%}
+<ls n="ṚV.">8,62,9.</ls> {#kzurasya#}
+<ls>ŚAT. BR. 14,6,3,2.</ls> {#svaDiti°#}
+<ls>KAUŚ. 44.</ls>
+<ls>TAITT. ĀR. 4,38,1.</ls>
+<ls>SUŚR. 1,27,18. 28,1.</ls> {#nAnADArAmuKEH SastrEH#}
+<ls n="SUŚR.">2,17,9.</ls> {#Kaqga°#}
+<ls>R. 2,23,35.</ls>
+<ls>HIT. III,67.</ls> <ls>TRIK. 1,1,125.</ls> {#paraSvaDasya#}
+<ls>RAGH. 6,42.</ls> <ls n="RAGH.">11,78.</ls> {#nIlotpalapattraDArayA samillatAM Cettum#}
+<ls>ŚĀK. 17.</ls> {#tIkzRaDAra#} (s. auch bes.)
+<ls>MBH. 13,864.</ls>
+<ls>R. 6,68,13.</ls>
+<ls>DEV. 3,6.</ls> {#Sita°#}
+<ls>MBH. 3,13581.</ls>
+<ls>HARIV. 2447.</ls>
+<ls>BHĀG. P. 4,5,22.</ls> {#kuRWa°#}
+<ls>R. 3,32,16.</ls> {#pfTu°#}
+<ls>MBH. 1,8240.</ls> <ls n="MBH.">4,1990.</ls> <ls n="MBH. 4,">2042.</ls> <ls n="MBH. 4,">2082.</ls>
+<ls>R. 6,92,14.</ls> {#uru°#}
+<ls>BHĀG. P. 2,7,22.</ls> {#uBayato°#}
+<ls n="BHĀG. P.">5,26,15.</ls> {#Gora°#}
+<ls>PRAB. 5,10.</ls> {#vajra°#}
+<ls>R. 6,87,10.</ls> <ls n="R. 6,87,">17</ls> {#kfta°#} {%geschärft%}
+<ls>MBH. 7,3090.</ls> Vgl. {#arDa°, asi°, kzura°, KaRqa°, Kara°#} .
 <div n="1">— 2) {%der%}
 [Page3-0949]
-{%Umkreis eines Rades%} ({#praDi#}) 
-<ls>H. 755.</ls> 
-<ls>RAGH. 13, 15.</ls> 
-<div n="1">— 3) {%die Spitze eines Heeres%}, = {#sEnyAgra#} 
-<ls>H. an.</ls> = {#sEnyAgrimaskanDa#} 
-<ls>MED.</ls> Vgl. {#DArANkura#} 
-<ls>3.</ls> 
-<div n="1">— 4) {%Ohrläppchen%} ({#karRaprAnta#}) 
-<ls>H. ś. 119.</ls> 
-<div n="1">— 5) = {#saMtati#} {%fortlaufende Reihe, Geschlechtsreihe%} 
-<ls>H. an.</ls> <ls>MED.</ls> = {#rAji#} {%Reihe%} 
-<ls>TRIK. 3, 3, 356.</ls> Vgl. {#vana°#} . 
-<div n="1">— 6) {%Zaun, Hecke.%} 
-<div n="1">— 7) {%Bergrand (the edge of a mountain%}) 
-<ls>WILS.</ls> 
+{%Umkreis eines Rades%} ({#praDi#})
+<ls>H. 755.</ls>
+<ls>RAGH. 13,15.</ls>
+<div n="1">— 3) {%die Spitze eines Heeres%}, = {#sEnyAgra#}
+<ls>H. an.</ls> = {#sEnyAgrimaskanDa#}
+<ls>MED.</ls> Vgl. {#DArANkura#} 3.
+<div n="1">— 4) {%Ohrläppchen%} ({#karRaprAnta#})
+<ls>H. ś. 119.</ls>
+<div n="1">— 5) = {#saMtati#} {%fortlaufende Reihe, Geschlechtsreihe%}
+<ls>H. an.</ls> <ls>MED.</ls> = {#rAji#} {%Reihe%}
+<ls>TRIK. 3,3,356.</ls> Vgl. {#vana°#} .
+<div n="1">— 6) {%Zaun, Hecke.%}
+<div n="1">— 7) {%Bergrand (the edge of a mountain%})
+<ls>WILS.</ls>
 <div n="v">— Vgl. {#pAli#} in Betreff der verschiedenen Bedeutungen.
 <LEND>

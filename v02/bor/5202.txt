@@ -1,5 +1,5 @@
 <L>5202<pc>167<k1>cube<k2>cube
-<div n="lb"/>{@CUBE@}¦ (subs.): <div n="I">I In arith.: {#GanaH,#} <div n="xe">{%c. root:%}</div> <div n="xs">{#Gana-#}
-<div n="lb"/>{#mUlam,#}</div> Li. </div><div n="I">II In geo.: {#samakoRasamacaturBujaGana-#}
-<div n="lb"/>{#kzetram,#} K. d.</div>
+{@CUBE@}¦ (subs.): <div n="I">I In arith.: {#GanaH,#} <div n="xe">{%c. root:%}</div> <div n="xs">{#Gana-#}
+{#mUlam,#}</div> Li. </div><div n="I">II In geo.: {#samakoRasamacaturBujaGana-#}
+{#kzetram,#} K. d.</div>
 <LEND>

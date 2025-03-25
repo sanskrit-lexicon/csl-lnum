@@ -1,8 +1,8 @@
 <L>67005<pc>5-1127<k1>AScarya<k2>AScarya
-{#AScarya#}¦, {#AScaryeRa#} {%vor Erstaunen%} 
-<ls>KATHĀS. 65, 136.</ls> {#kaTAScarya#} <lex>n.</lex> {%eine wunderbare Erzählung%} 
-<ls>91, 46. 93, 93.</ls> {#sAScarya#} {%wunderbar%} {#sAScaryacarya#} <lex>adj.</lex> 
-<ls>Spr. 1434.</ls> {%verwundert, erstaunt%} 
-<ls>KATHĀS. 60, 148. 63, 72. 66, 180. 78, 42. 94. 86, 156.</ls> {#dattAScaryaH svabanDuzu#} {%in Erstaunen setzend%} 
-<ls>124, 17.</ls>
+{#AScarya#}¦, {#AScaryeRa#} {%vor Erstaunen%}
+<ls>KATHĀS. 65,136.</ls> {#kaTAScarya#} <lex>n.</lex> {%eine wunderbare Erzählung%}
+<ls n="KATHĀS.">91,46.</ls> <ls n="KATHĀS.">93,93.</ls> {#sAScarya#} {%wunderbar%} {#sAScaryacarya#} <lex>adj.</lex>
+<ls>Spr. 1434.</ls> {%verwundert, erstaunt%}
+<ls>KATHĀS. 60,148.</ls> <ls n="KATHĀS.">63,72.</ls> <ls n="KATHĀS.">66,180.</ls> <ls n="KATHĀS.">78,42.</ls> <ls n="KATHĀS. 78,">94.</ls> <ls n="KATHĀS.">86,156.</ls> {#dattAScaryaH svabanDuzu#} {%in Erstaunen setzend%}
+<ls n="KATHĀS.">124,17.</ls>
 <LEND>

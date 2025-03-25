@@ -1,9 +1,9 @@
 <L>1096<pc>038<k1>arouse<k2>arouse
-<div n="lb"/>{@AROUSE:@}¦ <div n="I">I From sleep: {#praboDayati:#} v. To
-<div n="lb"/>awake. </div><div n="I">II From inaction </div><div n="1">(1) {#uttejayati#}
-<div n="lb"/>({#tij,#} c. 10), <div n="xe">{%will go to the island of Mahendra%}
-<div n="lb"/>{%to a. Jāmadagnya%}</div> <div n="xs">{#jAmadagnyamuttejayituM mahendradvIpameva #}
-<div n="lb"/>{# gacCAvaH#}</div> Vi. ii.; </div><div n="1">(2) {#utTApayati#} (c. of {#sTA#}), <div n="xe">{%and%}
-<div n="lb"/>{%a. ing his natural enemies%}</div> <div n="xs">{#utTApya sahajAMSca dvizaH#}</div>
-<div n="lb"/><ls>D.</ls> iv.; </div><div n="1">(3) {#praboDayati#} (rare).</div>
+{@AROUSE:@}¦ <div n="I">I From sleep: {#praboDayati:#} v. To
+awake. </div><div n="I">II From inaction </div><div n="1">(1) {#uttejayati#}
+({#tij,#} c. 10), <div n="xe">{%will go to the island of Mahendra%}
+{%to a. Jāmadagnya%}</div> <div n="xs">{#jAmadagnyamuttejayituM mahendradvIpameva #}
+{# gacCAvaH#}</div> Vi. ii.; </div><div n="1">(2) {#utTApayati#} (c. of {#sTA#}), <div n="xe">{%and%}
+{%a. ing his natural enemies%}</div> <div n="xs">{#utTApya sahajAMSca dvizaH#}</div>
+<ls>D.</ls> iv.; </div><div n="1">(3) {#praboDayati#} (rare).</div>
 <LEND>

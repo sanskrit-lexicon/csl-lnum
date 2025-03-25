@@ -1,4 +1,4 @@
 <L>4504<pc>0640<k1>dozAvastf<k2>dozA-vastf
-{@doṣā-vastṛ,@}¦ <ab>m.</ab> {%Erheller%} [vastṛ], des Dunkels [dosā́].
-<div n="P1">-ar [V.] agne {1,7}; {300,9}; {531,15}.
+{@doṣā-vastṛ,@}¦ <ab>m.</ab> {%Erheller%} <chg type="chg" n="135" src="gra"><old>[vastṛ], des Dunkels</old><new>[vastṛ́] {%des Dunkels%}</new></chg> [dosā́].
+<div n="TS">-ar [<ab>V.</ab>] agne {1,7}; {300,9}; {531,15}.
 <LEND>

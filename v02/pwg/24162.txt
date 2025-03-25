@@ -1,13 +1,13 @@
 <L>24162<pc>2-0894<k1>GftaScut<k2>GftaScu/t
-{#GftaScu/t#}¦ ({#Gfta + Scut#}) <lex>adj.</lex> {%Fett träufelnd%}: {#sruc#} 
-<ls>ṚV. 5, 14, 3.</ls> {#U\rmaya^H#} 
-<ls n="ṚV.">7, 96, 5.</ls> {#iz#} 
-<ls n="ṚV.">8, 8, 15.</ls> {#Urj#} 
-<ls n="ṚV. 8, 8,">16.</ls> {#De\nava^H#} 
-<ls n="ṚV.">9, 77, 1.</ls> {#gf\hAsa^H#} 
-<ls n="ṚV.">10, 18, 12.</ls> {#svAra#} 
-<ls n="ṚV.">2, 11, 7.</ls> {#arka#} 
-<ls>VĀLAKH. 3, 10.</ls> {#ApaH#} 
-<ls>AV. 1, 33, 4. 10, 6, 6. 18, 3, 68. 4, 42.</ls> {#GftaScunniDana#} <lex>n.</lex> N. eines <is>Sāman</is> 
-<ls>Ind. St. 3, 216.</ls>
+{#GftaScu/t#}¦ ({#Gfta + Scut#}) <lex>adj.</lex> {%Fett träufelnd%}: {#sruc#}
+<ls>ṚV. 5,14,3.</ls> {#U\rmaya^H#}
+<ls n="ṚV.">7,96,5.</ls> {#iz#}
+<ls n="ṚV.">8,8,15.</ls> {#Urj#}
+<ls n="ṚV. 8,8,">16.</ls> {#De\nava^H#}
+<ls n="ṚV.">9,77,1.</ls> {#gf\hAsa^H#}
+<ls n="ṚV.">10,18,12.</ls> {#svAra#}
+<ls n="ṚV.">2,11,7.</ls> {#arka#}
+<ls>VĀLAKH. 3,10.</ls> {#ApaH#}
+<ls>AV. 1,33,4.</ls> <ls n="AV.">10,6,6.</ls> <ls n="AV.">18,3,68.</ls> <ls n="AV. 18,">4,42.</ls> {#GftaScunniDana#} <lex>n.</lex> N. eines <is>Sāman</is>
+<ls>Ind. St. 3,216.</ls>
 <LEND>

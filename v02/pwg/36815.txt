@@ -1,25 +1,25 @@
 <L>36815<pc>3-0971<k1>DuraMDara<k2>DuraMDara
-{#DuraMDara#}¦ ({#Duram#}, acc. von {#Dur, + Dara#}) 
-<div n="1"> 1) <lex>adj.</lex> {%das Joch tragend, zum Anspannen geeignet%}; <lex>m.</lex> {%Zugthier%} 
-<ls>AK. 2, 9, 65.</ls> 
-<ls>H. 1262.</ls> 
-<ls>an. 4, 261.</ls> 
-<ls>MED. r. 272.</ls> {#anaqvAn#} 
-<ls>MBH. 3, 12724. 13380.</ls> {#guruSakawaDuraMDara (gavendra)#} 
-<ls>PAÑCAT. ed. orn. I, 17.</ls> 
-<div n="1">— 2) <lex>adj.</lex> {%die ihm aufgeladene Bürde mit Ergebung tragend%}: {#duHKaM ca kAle sahate mahAtmA DuraMDarastasya jitAH sapatnAH#} 
-<ls>MBH. 5, 1077.</ls> {#vane vasannatiTizvapramatto DuraMDaraH puRyakfdeza tApasaH#} 
-<ls>1404.</ls> 
-<div n="1">— 3) <lex>adj.</lex> {%Jmd%} (gen.) {%aus der Noth helfend%}: {#santa eva satAM nityamApadudDaraRakzamAH . gajAnAM paNkamagnAnAM gajA eva DuraMDarAH ..#} 
-<ls>HIT. I, 181.</ls> 
-<div n="1">— 4) <lex>m.</lex> {%Spitzführer, Vordermann%}: {#kOravARAm#} 
-<ls>MBH. 13, 6275. 7689. 14, 2336. 15, 48. 5, 90.</ls> 
-<ls>HARIV. 1823.</ls> Als Beiw. <is>Śiva's</is> 
-<ls>ŚIV.</ls> 
-<div n="1">— 5) <lex>m.</lex> pl. N. pr. eines Volkes 
-<ls>MBH. 6, 349</ls> <ls>?(VP. 187).</ls> 
-<div n="1">— 6) <lex>m.</lex> N. pr. eines <is>Rakṣas</is> 
-<ls>R. 6, 32, 15.</ls> 
-<div n="1">— 7) <lex>m.</lex> = {#Dava#} {%Grislea tomentosa Roxb.%} 
+{#DuraMDara#}¦ ({#Duram#}, acc. von {#Dur, + Dara#})
+<div n="1"> 1) <lex>adj.</lex> {%das Joch tragend, zum Anspannen geeignet%}; <lex>m.</lex> {%Zugthier%}
+<ls>AK. 2,9,65.</ls>
+<ls>H. 1262.</ls>
+<ls>an. 4,261.</ls>
+<ls>MED. r. 272.</ls> {#anaqvAn#}
+<ls>MBH. 3,12724.</ls> <ls n="MBH. 3,">13380.</ls> {#guruSakawaDuraMDara (gavendra)#}
+<ls>PAÑCAT. ed. orn. I,17.</ls>
+<div n="1">— 2) <lex>adj.</lex> {%die ihm aufgeladene Bürde mit Ergebung tragend%}: {#duHKaM ca kAle sahate mahAtmA DuraMDarastasya jitAH sapatnAH#}
+<ls>MBH. 5,1077.</ls> {#vane vasannatiTizvapramatto DuraMDaraH puRyakfdeza tApasaH#}
+<ls n="MBH. 5,">1404.</ls>
+<div n="1">— 3) <lex>adj.</lex> {%Jmd%} (gen.) {%aus der Noth helfend%}: {#santa eva satAM nityamApadudDaraRakzamAH . gajAnAM paNkamagnAnAM gajA eva DuraMDarAH ..#}
+<ls>HIT. I,181.</ls>
+<div n="1">— 4) <lex>m.</lex> {%Spitzführer, Vordermann%}: {#kOravARAm#}
+<ls>MBH. 13,6275.</ls> <ls n="MBH. 13,">7689.</ls> <ls n="MBH.">14,2336.</ls> <ls n="MBH.">15,48.</ls> <ls n="MBH.">5,90.</ls>
+<ls>HARIV. 1823.</ls> Als Beiw. <is>Śiva's</is>
+<ls>ŚIV.</ls>
+<div n="1">— 5) <lex>m.</lex> pl. N. pr. eines Volkes
+<ls>MBH. 6,349</ls> (<ls>VP. 187).</ls>
+<div n="1">— 6) <lex>m.</lex> N. pr. eines <is>Rakṣas</is>
+<ls>R. 6,32,15.</ls>
+<div n="1">— 7) <lex>m.</lex> = {#Dava#} {%Grislea tomentosa Roxb.%}
 <ls>H. an.</ls> <ls>MED.</ls> <ls>RATNAM.</ls> im <ls>ŚKDR.</ls> <ls>NIGH. Pr.</ls>
 <LEND>

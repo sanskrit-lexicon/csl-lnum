@@ -1,10 +1,10 @@
 <L>6569<pc>282<k1>meal<k2>meal
 {@Meal,@}¦ {%s.%} {#saktu#} ({%m.%} pl.), {#kzodaH, cUrRaM, pizwaM#}.
-<div n="lb"/>{@2@} {#BojanaM, aSanaM; AhAraH, AhAraviDiH;#}
-<div n="lb"/>‘took his m. s’ {#AhAraviDimakarot,#}
-<div n="lb"/>{#BojanaM nirvartayAmAsa, SarIrasTitiM samapAdayat#}
-<div n="lb"/>‘good m.’ {#suBojanaM;#} ‘morning m.’
-<div n="lb"/>{#prAtarASaH#}. {@-y,@} {%a.%} {#sacUrRa, kzodamaya#} ({#yI#} {%f.%}),
-<div n="lb"/>{@2@} {#komala, masfRa, mfdu, cUrRasadfSa#} ({#SI#} {%f.%});
-<div n="lb"/>m. mouthed’ {#mfduBAzin, komalavAc#}.
+{@2@} {#BojanaM, aSanaM; AhAraH, AhAraviDiH;#}
+‘took his m. s’ {#AhAraviDimakarot,#}
+{#BojanaM nirvartayAmAsa, SarIrasTitiM samapAdayat#}
+‘good m.’ {#suBojanaM;#} ‘morning m.’
+{#prAtarASaH#}. {@-y,@} {%a.%} {#sacUrRa, kzodamaya#} ({#yI#} {%f.%}),
+{@2@} {#komala, masfRa, mfdu, cUrRasadfSa#} ({#SI#} {%f.%});
+m. mouthed’ {#mfduBAzin, komalavAc#}.
 <LEND>

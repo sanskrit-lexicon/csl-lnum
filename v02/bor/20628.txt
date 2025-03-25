@@ -1,6 +1,6 @@
 <L>20628<pc>647<k1>sit down<k2>sit down
-<div n="lb"/>{@SIT DOWN:@}¦ <div n="I">I To take one's seat: q. v.: {#upa-#}
-<div n="lb"/>{#viSati#} ({#viS,#} c. 6.), <div n="xe">{%s. for a moment:%}</div> <div n="xs">{#muhUrtamupa-#}
-<div n="lb"/>{#viSatu,#}</div> Sa. i. </div><div n="I">II In mil.: expr. with {#tizWati#}
-<div n="lb"/>({#sTA,#} c. 1.): v. Also to besiege.</div>
+{@SIT DOWN:@}¦ <div n="I">I To take one's seat: q. v.: {#upa-#}
+{#viSati#} ({#viS,#} c. 6.), <div n="xe">{%s. for a moment:%}</div> <div n="xs">{#muhUrtamupa-#}
+{#viSatu,#}</div> Sa. i. </div><div n="I">II In mil.: expr. with {#tizWati#}
+({#sTA,#} c. 1.): v. Also to besiege.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>202769<pc>1001,1<k1>visfj<k2>vi-sfj<e>1
-<s>vi-√ sfj</s> ¦ <ab>P.</ab> <s>-sfjati</s> (<ab>ep.</ab> also <ab>Ā.</ab>), to send or pour forth, let go or run or flow, discharge, emit, shoot, cast, hurl (<ab>lit.</ab> and <ab>fig.</ab>; ‘at’ <ab>loc.</ab> <ab>dat.</ab>, or <ab>acc.</ab> with <s>prati</s>), <ls>RV.</ls> &c. &c.;
+<s>vi-√ sfj</s> ¦ <ab>P.</ab> <s>-sfjati</s> (<lang>ep.</lang> also <ab>Ā.</ab>), to send or pour forth, let go or run or flow, discharge, emit, shoot, cast, hurl (<ab>lit.</ab> and <ab>fig.</ab>; ‘at’ <ab>loc.</ab> <ab>dat.</ab>, or <ab>acc.</ab> with <s>prati</s>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to turn (the eye) upon (<ab>loc.</ab>), <ls>ŚāṅkhŚr.</ls>;
 <div n="to"/>to shed (tears), <ls>R.</ls>; <ls>Kālid.</ls>; <ls>Daś.</ls>;
 <div n="to"/> (<ab>Ā.</ab>) to evacuate the bowels, <ls>PraśnUp.</ls>;
@@ -16,7 +16,7 @@
 <div n="to"/>to remit, exempt from (<ab>acc.</ab>), <ls>Rājat.</ls>;
 <div n="to"/>to hand over, deliver, bestow, grant, <ls>MaitrS.</ls> &c. &c.;
 <div n="to"/>to produce, create (<ab>esp.</ab> ‘in detail’), <ls>Up.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.:
-<div n="to"/><ab>Caus.</ab> <s>-sarjayati</s>, to discharge, emit, cast, hurl, throw (<ab>lit.</ab> and <ab>fig.</ab>), <ls>ĀśvGṛ.</ls>; <ls>MBh.</ls> &c.;
+<div n="vp"/><ab>Caus.</ab> <s>-sarjayati</s>, to discharge, emit, cast, hurl, throw (<ab>lit.</ab> and <ab>fig.</ab>), <ls>ĀśvGṛ.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to utter (a sound), <ls>ŚBr.</ls>;
 <div n="to"/>to set free, release, let go, dismiss, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Kālid.</ls>;
 <div n="to"/>to banish, exile, <ls>R.</ls>;
@@ -29,5 +29,5 @@
 <div n="to"/>to give away, <ls>MBh.</ls>;
 <div n="to"/>to hand over, deliver, grant, bestow, <ls>MBh.</ls>; <ls>Hariv.</ls> &c.;
 <div n="to"/>to produce, create, <ls>BhP.</ls>;
-<div n="to"/>to answer questions, <ls>Divyâv.</ls><info verb="pre" cp="PĀ" parse="vi+sfj"/>
+<div n="to"/>to answer questions, <ls>Divyāv.</ls><info verb="pre" cp="PĀ" parse="vi+sfj"/>
 <LEND>

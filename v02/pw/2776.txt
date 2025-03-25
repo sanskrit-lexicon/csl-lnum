@@ -1,11 +1,9 @@
-<L>2776<pc>1033-1<k1>aDikaraRa<k2>aDikaraRa<e>100
-{#aDikaraRa#}¦ <lex>n.</lex> (am Ende eines <lex>adj.</lex> Comp. <lex>f.</lex> {#A#})
-<div n="1">— 1) {%Substrat , das worauf Etwas bezogen wird.%}
-<div n="1">— 2) {%Stoff , Substanz.%}
-<div n="1">— 3) {%Fach , Zweig , Branche%} <ls>Spr.6926.</ls>
-<div n="1">— 4) {%ein einem speciellen Gegenstande gewidmeter Abschnitt , Artikel , Paragraph.%}
-<div n="1">— 5) {%Gericht , Gerichtshof.%}
-<div n="1">— 6) in der Gramm. {%das worauf , worin , woran , wo oder wann Etwas geschieht oder Statt findet , der Begriff des Locativs%} <ls>224,13.</ls>
-[Page1033-2]
-<ls>233,3.237,23.238,17.</ls>
+<L>2776<pc>1-033-a<k1>aDikaraRa<k2>aDikaraRa
+{#aDikaraRa#}¦ <lex>n.</lex> (am Ende eines <ab>adj. Comp.</ab> <lex>f.</lex> {#A#})
+<div n="1">— 1〉 {%Substrat, das worauf Etwas bezogen wird%}.
+<div n="1">— 2〉 {%Stoff, Substanz%}.
+<div n="1">— 3〉 {%Fach, Zweig, Branche%} <ls>Spr. 6926</ls>.
+<div n="1">— 4〉 {%ein einem speciellen Gegenstande gewidmeter Abschnitt, Artikel, Paragraph%}.
+<div n="1">— 5〉 {%Gericht, Gerichtshof%}.
+<div n="1">— 6〉 in der <ab>Gramm.</ab> {%das worauf, worin, woran, wo oder wann Etwas geschieht oder Statt findet, der Begriff des Locativs%} <ls n="Chr.">224,13</ls>. [Page1-033-b] <ls n="Chr.">233,3</ls>. <ls n="Chr.">237,23</ls>. <ls n="Chr.">238,17</ls>.
 <LEND>

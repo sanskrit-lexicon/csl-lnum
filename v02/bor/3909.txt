@@ -1,6 +1,6 @@
 <L>3909<pc>128<k1>coat<k2>coat
-<div n="lb"/>{@COAT@}¦ (subs.): An article of dress: {#*kowaB.#}
-<div n="lb"/><div n="I">II A covering: q. v. </div><div n="1">(1) {#AvaraRam,#} {%c. s. of mail:%}
-<div n="lb"/>{#dehAvaraRAni,#} Ki.: v. Armour; </div><div n="1">(2) {#pawalam#} (of the
-<div n="lb"/>eye). Ph.: <div n="xe">{%c. of arms:%}</div> <div n="xs">{#*colacihnam.#}</div></div>
+{@COAT@}¦ (subs.): An article of dress: {#*kowaB.#}
+<div n="I">II A covering: q. v. </div><div n="1">(1) {#AvaraRam,#} {%c. s. of mail:%}
+{#dehAvaraRAni,#} Ki.: v. Armour; </div><div n="1">(2) {#pawalam#} (of the
+eye). Ph.: <div n="xe">{%c. of arms:%}</div> <div n="xs">{#*colacihnam.#}</div></div>
 <LEND>

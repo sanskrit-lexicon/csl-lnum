@@ -1,14 +1,14 @@
 <L>10879<pc>1-0888<k1>uttamANga<k2>uttamANga
-{#uttamANga#}¦ ({#u° + aNga#}) <lex>n.</lex> {%der höchste%} oder {%vorzüglichste Theil des Körpers, der Kopf%} 
-<ls>AK. 2, 6, 2, 46.</ls> 
-<ls>H. 566.</ls> 
-<ls>M. 1, 93. 8, 300.</ls> 
-<ls>BHAG. 11, 27.</ls> 
-<ls>MBH. 3, 2003. 14, 2500.</ls> 
-<ls>R. 3, 58, 29. 6, 67, 25. 92, 41.</ls> 
-<ls>SUŚR. 1, 118, 5.</ls> 
-<ls>MṚCCH. 66, 10.</ls> 
-<ls>RAGH. 7, 48.</ls> 
-<ls>KUMĀRAS. 7, 41.</ls> 
+{#uttamANga#}¦ ({#u° + aNga#}) <lex>n.</lex> {%der höchste%} oder {%vorzüglichste Theil des Körpers, der Kopf%}
+<ls>AK. 2,6,2,46.</ls>
+<ls>H. 566.</ls>
+<ls>M. 1,93.</ls> <ls n="M.">8,300.</ls>
+<ls>BHAG. 11,27.</ls>
+<ls>MBH. 3,2003.</ls> <ls n="MBH.">14,2500.</ls>
+<ls>R. 3,58,29.</ls> <ls n="R.">6,67,25</ls> <ls n="R. 6,">92,41.</ls>
+<ls>SUŚR. 1,118,5.</ls>
+<ls>MṚCCH. 66,10.</ls>
+<ls>RAGH. 7,48.</ls>
+<ls>KUMĀRAS. 7,41.</ls>
 <div n="v">— Vgl. {#aDamANga#} .
 <LEND>

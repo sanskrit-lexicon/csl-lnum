@@ -1,6 +1,6 @@
 <L>1380<pc>049<k1>aunt<k2>aunt
-<div n="lb"/>{@AUNT:@}¦ <div n="1">(1) {#pitfsvasA#} (father's sister): </div><div n="1">(2) {#mAtf-#}
-<div n="lb"/>{#svasA#} (mother's sister); </div><div n="1">(3) {#pitfvyA#} (father's
-<div n="lb"/>brother's wife).; </div><div n="1">(4) {#mAtulI, mAtulAnI#}
-<div n="lb"/>(mother's brother's wife).</div>
+{@AUNT:@}¦ <div n="1">(1) {#pitfsvasA#} (father's sister): </div><div n="1">(2) {#mAtf-#}
+{#svasA#} (mother's sister); </div><div n="1">(3) {#pitfvyA#} (father's
+brother's wife).; </div><div n="1">(4) {#mAtulI, mAtulAnI#}
+(mother's brother's wife).</div>
 <LEND>

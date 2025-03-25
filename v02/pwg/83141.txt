@@ -1,8 +1,8 @@
 <L>83141<pc>6-0244<k1>raRAjira<k2>raRAjira
-{#raRAjira#}¦ ({#raRa + a°#}) <lex>n.</lex> {%Kampfplatz, Schlachtfeld%} 
-<ls>MBH. 1, 530. 1184. 5, 718. 5843. 14, 2398. 15, 810.</ls> 
-<ls>R. 3, 35, 96. 5, 79, 14. 83, 10. 7, 32, 48.</ls> 
-<ls>Spr. 5079.</ls> 
-<ls>KATHĀS. 50, 8. 103, 7.</ls> 
-<ls>BHĀG. P. 4, 10, 20. 9, 15, 32.</ls>
+{#raRAjira#}¦ ({#raRa + a°#}) <lex>n.</lex> {%Kampfplatz, Schlachtfeld%}
+<ls>MBH. 1,530.</ls> <ls n="MBH. 1,">1184.</ls> <ls n="MBH.">5,718.</ls> <ls n="MBH. 5,">5843.</ls> <ls n="MBH.">14,2398.</ls> <ls n="MBH.">15,810.</ls>
+<ls>R. 3,35,96.</ls> <ls n="R.">5,79,14.</ls> <ls n="R. 5,">83,10.</ls> <ls n="R.">7,32,48.</ls>
+<ls>Spr. 5079.</ls>
+<ls>KATHĀS. 50,8.</ls> <ls n="KATHĀS.">103,7.</ls>
+<ls>BHĀG. P. 4,10,20.</ls> <ls n="BHĀG. P.">9,15,32.</ls>
 <LEND>

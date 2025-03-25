@@ -1,6 +1,6 @@
 <L>22106<pc>584-a<k1>performer<k2>performer
-<div n="lb"/>PERFORMER¦, {%s.%} {#karttA#} {%m.%} {#(rttf), kArakaH, anuzWAtA#} {%m.%} {#(tf), viDAyI#} {%m.%}
-<div n="lb"/>{#(n), anuzWAyI#} {%m.,%} {#sADakaH, sampAdakaH, nirvAhakaH, pravarttakaH, praRetA#} {%m.%}
-<div n="lb"/>{#(tf), prayojakaH#}. — (Actor) {#nawaH, aBinetA#} {%m.%} {#(tf), aBinayI#} {%m.%} {#(n),#}
-<div n="lb"/>{#aBinayakArI#} {%m.%} — (Musical) {#vAdyavAdakaH, BARqavAdakaH, vAdakaH#}.
+PERFORMER¦, {%s.%} {#karttA#} {%m.%} {#(rttf), kArakaH, anuzWAtA#} {%m.%} {#(tf), viDAyI#} {%m.%}
+{#(n), anuzWAyI#} {%m.,%} {#sADakaH, sampAdakaH, nirvAhakaH, pravarttakaH, praRetA#} {%m.%}
+{#(tf), prayojakaH#}. — (Actor) {#nawaH, aBinetA#} {%m.%} {#(tf), aBinayI#} {%m.%} {#(n),#}
+{#aBinayakArI#} {%m.%} — (Musical) {#vAdyavAdakaH, BARqavAdakaH, vAdakaH#}.
 <LEND>

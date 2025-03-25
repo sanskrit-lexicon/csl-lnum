@@ -1,7 +1,7 @@
 <L>10910<pc>343<k1>hereditary<k2>hereditary
-<div n="lb"/>{@HEREDITARY:@}¦ <div n="1">(1) {#kulakramAgataH#} ({#tA, taM#}), <div n="xe">{%h. minis-%}
-<div n="lb"/>{%ter:%}</div> <div n="xs">{#kulakramAgataH sacivaH,#}</div> P. </div><div n="1">(2) {#pitfpEtAmahaH#} ({#hI, haM#}),
-<div n="lb"/><div n="xe">{%h. kingdom:%}</div> <div n="xs">{#pitfpEtAmahaM rAjyam,#}</div> Ram. ii. 50. 8.</div>
-<div n="lb"/><div n="1">(3) {#mOlaH#} ({#lI, laM#}), M. vii. 54.; </div><div n="1">(4) {#mUlAgataH#}
-<div n="lb"/>({#tA, taM#}), M. n.</div>
+{@HEREDITARY:@}¦ <div n="1">(1) {#kulakramAgataH#} ({#tA, taM#}), <div n="xe">{%h. minis-%}
+{%ter:%}</div> <div n="xs">{#kulakramAgataH sacivaH,#}</div> P. </div><div n="1">(2) {#pitfpEtAmahaH#} ({#hI, haM#}),
+<div n="xe">{%h. kingdom:%}</div> <div n="xs">{#pitfpEtAmahaM rAjyam,#}</div> Ram. ii. 50. 8.</div>
+<div n="1">(3) {#mOlaH#} ({#lI, laM#}), M. vii. 54.; </div><div n="1">(4) {#mUlAgataH#}
+({#tA, taM#}), M. n.</div>
 <LEND>

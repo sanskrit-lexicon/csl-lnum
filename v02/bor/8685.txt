@@ -1,7 +1,7 @@
 <L>8685<pc>275<k1>fidelity<k2>fidelity
-<div n="lb"/>{@FIDELITY:@}¦ <div n="I">I Loyalty: {#BaktiH,#} {%with%} ({%your%})
-<div n="lb"/>{%f. to%} ({%your%}) <div n="xe">{%preceptor:%}</div> <div n="xs">{#BattayA gurO,#}</div> R. ii. 63.
-<div n="lb"/>Honesty, {#nizkapawatA.#} </div><div n="I">III Attachment: </div><div n="1">(1)
-<div n="lb"/>{#AsaktiH;#} </div><div n="1">(2) {#saNgaH#} (rare), {#gaRikAyASca gamyaM prati #}
-<div n="lb"/>{# sajjatEva na saNgaH,#} D.</div>
+{@FIDELITY:@}¦ <div n="I">I Loyalty: {#BaktiH,#} {%with%} ({%your%})
+{%f. to%} ({%your%}) <div n="xe">{%preceptor:%}</div> <div n="xs">{#BattayA gurO,#}</div> R. ii. 63.
+Honesty, {#nizkapawatA.#} </div><div n="I">III Attachment: </div><div n="1">(1)
+{#AsaktiH;#} </div><div n="1">(2) {#saNgaH#} (rare), {#gaRikAyASca gamyaM prati #}
+{# sajjatEva na saNgaH,#} D.</div>
 <LEND>

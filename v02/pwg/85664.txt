@@ -1,28 +1,28 @@
 <L>85664<pc>6-0470<k1>lakzman<k2>la/kzman
-{#la/kzman#}¦ (von {#lag#} wie {#lakza#} und {#lakzmI#}) <lex>n.</lex> 
-<div n="1"> 1) {%Mal, Merkmal, Marke, Zeichen%} (sg. bisweilen in collectiver Bedeutung, daher so v. a. {%Definition%}) 
-<ls>AK. 1, 1, 2, 18. 3, 4, 14, 79. 18, 127.</ls> 
-<ls>H. 106.</ls> 
-<ls>an. 2, 282.</ls> 
-<ls>MED. n. 119.</ls> <ls>HALĀY. 1, 45. 5, 69.</ls> <ls>AV. 1, 23, 4. 6, 141, 2. 3. 12, 4, 6.</ls> {#kfzRa#} 
-<ls>TS. 7, 4, 19, 2.</ls> 
-<ls>ŚAT. BR. 1, 7, 2, 18. 8, 4, 4, 11. 5, 4, 3.</ls> 
-<ls>SUŚR. 2, 264, 12.</ls> 
-<ls>VARĀH. BṚH. S. 43, 58. 67. 51, 44. 52, 10. 54, 48.</ls> 
-<ls>BṚH. 18, 4.</ls> <ls>Spr. 2662.</ls> {#himAMSoH#} 
-<ls>ŚĀK. 19.</ls> 
-<ls>ŚIŚ. 9, 31.</ls> {#uttamo lokapAlo 'yamiti lakzma praSastizu . yaH prAptavAn#} 
-<ls>RĀJA-TAR. 1, 346.</ls> {#puMlakzma#} (vom Folgenden zu trennen) 
-<ls>2, 104.</ls> <ls>BHĀG. P. 3, 16, 21. 5, 18, 23.</ls> <ls>Ind. St. 8, 296. 300. 351.</ls> {#amIzAM spazwatvAllakzma nocyate#} 
-<ls>SĀH. D. 551.</ls> {#iti kaTitaM saMgrahAddravyasya lakzma#} 
-<ls>SARVADARŚANAS. 53, 21.</ls> Am Ende eines <lex>adj.</lex> comp.: {#deva°#} 
-<ls>TS. 5, 2, 8, 3.</ls> {#purastA/llakzman#} 
-<ls>2, 6, 2, 3. 4.</ls> <ls>Ind. St. 8, 300.</ls> <ls>KUMĀRAS. 7, 43.</ls> <ls>RAGH. 19, 30.</ls> <ls>RĀJA-TAR. 1, 2.</ls> {#a°#} (Lesart der ed. Bomb.) so v. a. {%kein Ansehen habend%}: {#divAkara#} 
-<ls>MBH. 6, 5209.</ls> Vgl. {#kampa°, #}
+{#la/kzman#}¦ (von {#lag#} wie {#lakza#} und {#lakzmI#}) <lex>n.</lex>
+<div n="1"> 1) {%Mal, Merkmal, Marke, Zeichen%} (sg. bisweilen in collectiver Bedeutung, daher so v. a. {%Definition%})
+<ls>AK. 1,1,2,18.</ls> <ls n="AK.">3,4,14,79.</ls> <ls n="AK. 3,4,">18,127.</ls>
+<ls>H. 106.</ls>
+<ls>an. 2,282.</ls>
+<ls>MED. n. 119.</ls> <ls>HALĀY. 1,45. 5,69.</ls> <ls>AV. 1,23,4.</ls> <ls n="AV.">6,141,2.</ls> <ls n="AV. 6,141,">3.</ls> <ls n="AV.">12,4,6.</ls> {#kfzRa#}
+<ls>TS. 7,4,19,2.</ls>
+<ls>ŚAT. BR. 1,7,2,18. 8,4,4,11. 5,4,3.</ls>
+<ls>SUŚR. 2,264,12.</ls>
+<ls>VARĀH. BṚH. S. 43,58. 67. 51,44. 52,10. 54,48.</ls>
+<ls>BṚH. 18,4.</ls> <ls>Spr. 2662.</ls> {#himAMSoH#}
+<ls>ŚĀK. 19.</ls>
+<ls>ŚIŚ. 9,31.</ls> {#uttamo lokapAlo 'yamiti lakzma praSastizu . yaH prAptavAn#}
+<ls>RĀJA-TAR. 1,346.</ls> {#puMlakzma#} (vom Folgenden zu trennen)
+<ls n="RĀJA-TAR.">2,104.</ls> <ls>BHĀG. P. 3,16,21.</ls> <ls n="BHĀG. P.">5,18,23.</ls> <ls>Ind. St. 8,296. 300. 351.</ls> {#amIzAM spazwatvAllakzma nocyate#}
+<ls>SĀH. D. 551.</ls> {#iti kaTitaM saMgrahAddravyasya lakzma#}
+<ls>SARVADARŚANAS. 53,21.</ls> Am Ende eines <lex>adj.</lex> comp.: {#deva°#}
+<ls>TS. 5,2,8,3.</ls> {#purastA/llakzman#}
+<ls n="TS.">2,6,2,3. 4.</ls> <ls>Ind. St. 8,300.</ls> <ls>KUMĀRAS. 7,43.</ls> <ls>RAGH. 19,30.</ls> <ls>RĀJA-TAR. 1,2.</ls> {#a°#} (Lesart der <ls>ed. Bomb.</ls>) so v. a. {%kein Ansehen habend%}: {#divAkara#}
+<ls>MBH. 6,5209.</ls> Vgl. {#kampa°, #}
 [Page6-0471]
-{# mfgarAja°, rAja°#} . 
-<div n="1">— 2) = {#praDAna#} {%das Haupt, der Vorzüglichste%} 
-<ls>AK. 3, 4, 18, 127.</ls> 
-<ls>H. an.</ls> 
+{# mfgarAja°, rAja°#} .
+<div n="1">— 2) = {#praDAna#} {%das Haupt, der Vorzüglichste%}
+<ls>AK. 3,4,18,127.</ls>
+<ls>H. an.</ls>
 <ls>MED.</ls>
 <LEND>

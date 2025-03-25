@@ -1,6 +1,6 @@
 <L>7392<pc>322<k1>orthodox<k2>orthodox
 {@Orthodox,@}¦ {%a.%} {#SAstrIya, SAstrasaMmata, SAstra-#}
-<div n="lb"/>{#-matAnusArin, DarmaparAyaRa, satyaDarmAnuroDin#}.
-<div n="lb"/>{@-y,@} {%s.%} {#SAstrAnusAraH, SAstramArgAvalaMbanaM,#}
-<div n="lb"/>{#DarmaparAyaRatA#}.
+{#-matAnusArin, DarmaparAyaRa, satyaDarmAnuroDin#}.
+{@-y,@} {%s.%} {#SAstrAnusAraH, SAstramArgAvalaMbanaM,#}
+{#DarmaparAyaRatA#}.
 <LEND>

@@ -1,7 +1,7 @@
 <L>11810<pc>369<k1>inattentive<k2>inattentive
-<div n="lb"/>{@INATTENTIVE:@}¦ <div n="1">(1) {#asAvaDAnaH#} ({#nA, naM#}); </div><div n="1">(2)
-<div n="lb"/>{#anavaDAnaH#} ({#nA, naM#}) <div n="xe">{%or%}</div> <div n="xs">{#anavahitaH#}</div> ({#tA, taM#}) (= in-
-<div n="lb"/>-advertent); </div><div n="1">(3) {#pramattaH#} ({#ttA, ttaM#}) (= careless);</div>
-<div n="lb"/><div n="1">(4) {#amanoyogin#} (f. {#nI#}) (rare); </div><div n="1">(5) {#anavekzin#}
-<div n="lb"/>(f. {#RI#}) (= not looking after).</div>
+{@INATTENTIVE:@}¦ <div n="1">(1) {#asAvaDAnaH#} ({#nA, naM#}); </div><div n="1">(2)
+{#anavaDAnaH#} ({#nA, naM#}) <div n="xe">{%or%}</div> <div n="xs">{#anavahitaH#}</div> ({#tA, taM#}) (= in-
+-advertent); </div><div n="1">(3) {#pramattaH#} ({#ttA, ttaM#}) (= careless);</div>
+<div n="1">(4) {#amanoyogin#} (f. {#nI#}) (rare); </div><div n="1">(5) {#anavekzin#}
+(f. {#RI#}) (= not looking after).</div>
 <LEND>

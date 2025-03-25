@@ -1,3 +1,3 @@
-<L>209633<pc>1036,3<k1>vyAGrI<k2>vyAGrI<h>b<e>2
-<s>vyAGrI</s> <hom>b</hom> ¦ <lex>f.</lex> of <s>vyAGra</s>, a tigress, <ls>Śikṣ.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="f"/>
+<L>209633<pc>1036,3<k1>vyAGrI<k2>vyAGrI<e>2
+<s>vyAGrI</s> ¦ <lex>f.</lex> of <s>vyAGra</s>, a tigress, <ls>Śikṣ.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="f"/><info hui="b"/>
 <LEND>

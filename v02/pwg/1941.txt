@@ -1,23 +1,23 @@
 <L>1941<pc>1-0147<k1>aDikfta<k2>aDikfta
-{#aDikfta#}¦ (von {#kar#} mit {#aDi#}) 
-<div n="1"> 1) <lex>adj.</lex> {%an die Spitze gestellt, als Haupt eingesetzt%}: {#rAjYaScADikfto vidvAnbrAhmaRaH#} 
-<ls>M. 8, 11.</ls> {%mit Etwas beauftragt, amtlich angestellt%}: {#mAraRADikftAH puruzAH#} {%die Henkersknechte%} 
-<ls>VIVĀDAC. 114, 15.</ls> {%betheiligt, beschäftigt%}: {#nizAdasTapatirgAveDuke 'DikftaH#} 
-<ls>KĀTY. ŚR. 1, 1, 12.</ls> {#pUrve (vAsasI) dadyAdaDikfteByo yasmA icCet#} 
-<ls>5, 5, 34.</ls> {#sutyAdO hiraRyasrajo 'pinahyante 'DikftA#} 
-(<ls>Sch.</ls> {#ftvijaH) yajamAnaH patnI ca#} 
-<ls>14, 1, 23.</ls> {#pAtrARi nAwye 'DikftAH#} 
-<ls>H. 327.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%Haupt, Aufseher, Verwalter, Chef, Beamter%} 
-<ls>AK. 2, 8, 1, 6. 3, 4, 227.</ls> 
-<ls>H. 722.</ls> {#yaTA samrAqevADikftAnviniyuNkte . etAngrAmAnetAngrAmAnaDitizWasveti#} 
-<ls>PRAŚNOP. 3, 4.</ls> mit dem loc.: {#aDikfto grAme#} 
-<ls>AK. 2, 8, 1, 7.</ls> 
-<ls>H. 726.</ls> {#antaHpure#} 
-<ls>AK. 2, 8, 1, 8.</ls> {#gozu#} 
-<ls>H. 889.</ls> {#avaroDagfhezu rAjYaH#} 
-<ls>ŚĀK. 100, v. l.</ls> im comp.: {#rakzADikftAH#} 
-<ls>M. 7, 123. 9, 272.</ls> {#paYcasenADikftAn#} 
-<ls>R. 5, 42, 1.</ls> {#DarmADikftAn#} 
-<ls>PAÑCAT. 41, 16.</ls>
+{#aDikfta#}¦ (von {#kar#} mit {#aDi#})
+<div n="1"> 1) <lex>adj.</lex> {%an die Spitze gestellt, als Haupt eingesetzt%}: {#rAjYaScADikfto vidvAnbrAhmaRaH#}
+<ls>M. 8,11.</ls> {%mit Etwas beauftragt, amtlich angestellt%}: {#mAraRADikftAH puruzAH#} {%die Henkersknechte%}
+<ls>VIVĀDAC. 114,15.</ls> {%betheiligt, beschäftigt%}: {#nizAdasTapatirgAveDuke 'DikftaH#}
+<ls>KĀTY. ŚR. 1,1,12.</ls> {#pUrve (vAsasI) dadyAdaDikfteByo yasmA icCet#}
+<ls n="KĀTY. ŚR.">5,5,34.</ls> {#sutyAdO hiraRyasrajo 'pinahyante 'DikftA#}
+(<ls>Sch.</ls> {#ftvijaH) yajamAnaH patnI ca#}
+<ls n="KĀTY. ŚR.">14,1,23.</ls> {#pAtrARi nAwye 'DikftAH#}
+<ls>H. 327.</ls>
+<div n="1">— 2) <lex>m.</lex> {%Haupt, Aufseher, Verwalter, Chef, Beamter%}
+<ls>AK. 2,8,1,6.</ls> <ls n="AK.">3,4,227.</ls>
+<ls>H. 722.</ls> {#yaTA samrAqevADikftAnviniyuNkte . etAngrAmAnetAngrAmAnaDitizWasveti#}
+<ls>PRAŚNOP. 3,4.</ls> mit dem loc.: {#aDikfto grAme#}
+<ls>AK. 2,8,1,7.</ls>
+<ls>H. 726.</ls> {#antaHpure#}
+<ls>AK. 2,8,1,8.</ls> {#gozu#}
+<ls>H. 889.</ls> {#avaroDagfhezu rAjYaH#}
+<ls>ŚĀK. 100, v. l.</ls> im comp.: {#rakzADikftAH#}
+<ls>M. 7,123.</ls> <ls n="M.">9,272.</ls> {#paYcasenADikftAn#}
+<ls>R. 5,42,1.</ls> {#DarmADikftAn#}
+<ls>PAÑCAT. 41,16.</ls>
 <LEND>

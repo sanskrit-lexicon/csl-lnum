@@ -1,10 +1,10 @@
 <L>2173<pc>075<k1>blind<k2>blind
-<div n="lb"/>{@BLIND@}¦ (adj.): {#anDaH,#} ({#nDA, nDaM#}), <div n="xe">{%born b.%}</div> <div n="xs">{#janmAnDaH#}</div>
-<div n="lb"/>({#nDA, nDaM#}) <div n="xe">{%or%}</div> <div n="xs">{#jAtyanDaH#}</div> ({#nDA, nDaM#}) (rare)
-<div n="lb"/>M.; <div n="1">(2) {#anDadfS#} (mfn.) and sim. comp. s.,
-<div n="lb"/><div n="xe">{%naturally b. to their own improprieties%}</div> <div n="xs">{#sahajAnDa-#}
-<div n="lb"/>{#dfSaH svadurnaye,#}</div> Si. xvi. 29. Ph {%b. of one eye%}
-<div n="lb"/>{#kARaH#} ({#RA, RaM#}); <div n="xe">{%b. at night%}</div> <div n="xs">{#rAtryanDaH#}</div> ({#nDA, nDaM#});
-<div n="lb"/><div n="xe">{%a b. well%}</div> <div n="xs">{#anDakUpaH,#}</div> Va.; <div n="xe">{%love is b.%}</div> <div n="xs">{#*prema BadraM na #}
-<div n="lb"/>{# paSyati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#gaRayati.#}</div></div>
+{@BLIND@}¦ (adj.): {#anDaH,#} ({#nDA, nDaM#}), <div n="xe">{%born b.%}</div> <div n="xs">{#janmAnDaH#}</div>
+({#nDA, nDaM#}) <div n="xe">{%or%}</div> <div n="xs">{#jAtyanDaH#}</div> ({#nDA, nDaM#}) (rare)
+M.; <div n="1">(2) {#anDadfS#} (mfn.) and sim. comp. s.,
+<div n="xe">{%naturally b. to their own improprieties%}</div> <div n="xs">{#sahajAnDa-#}
+{#dfSaH svadurnaye,#}</div> Si. xvi. 29. Ph {%b. of one eye%}
+{#kARaH#} ({#RA, RaM#}); <div n="xe">{%b. at night%}</div> <div n="xs">{#rAtryanDaH#}</div> ({#nDA, nDaM#});
+<div n="xe">{%a b. well%}</div> <div n="xs">{#anDakUpaH,#}</div> Va.; <div n="xe">{%love is b.%}</div> <div n="xs">{#*prema BadraM na #}
+{# paSyati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#gaRayati.#}</div></div>
 <LEND>

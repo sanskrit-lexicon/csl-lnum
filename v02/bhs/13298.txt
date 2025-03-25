@@ -1,30 +1,3 @@
 <L>13298<pc>470,2<k1>varANga<k2>varANga
-{@varāṅga@}¦, adj. (Skt. vara-aṅga; in Skt. recorded as
-<div n="lb">Bhvr. only in a gloss in Amarakośa; not noted Pali or
-<div n="lb">Pkt., but see below), lit. {%having excellent (bodily) members%};
-<div n="lb">so Tib. yan lag mchog, on LV and Mvy: ep. of heroic
-<div n="lb">sons,…śūrāṇāṃ vīrāṇāṃ °ga-rūpiṇāṃ parasainyapra-
-<div n="lb">mardakānāṃ Mv i.49.5; 193.18; ii.158.17 and LV 18.6;
-<div n="lb">of the four divisions of an army, rājā caturaṅgād bala-
-<div n="lb">kāyād vara-varāṅgān hastino 'śvān rathān manuṣyāṃś ca
-<div n="lb">vahaneṣv āropya Tāmradvīpaṃ saṃprasthitaḥ Divy
-<div n="lb">527.27, {%the king loaded on boats the severally%} (i.e. in each
-<div n="lb">department; vara-va°) {%best-membered elephants, horses,%}
-<div n="lb">{%chariots, and men from his four-membered army, and…%};
-<div n="lb">varāṅga-balam Mvy 8211, {%strength of a varāṅga%}. Acc. to
-<div n="lb">pw 7.372, the mg. would be {%elephant%} (so Skt. Lex.) in
-<div n="lb">Mvy and Divy (so also Index to Divy). But the word in
-<div n="lb">Divy clearly applies to all four regular divisions of an
-<div n="lb">Indian army, specifically named here; if it meant {%elephant%}
-<div n="lb">it would duplicate hastino. And in Mvy it is placed between
-<div n="lb">{@mahānagna-@} and {@praskandi-@}balam (see these words),
-<div n="lb">and separated from prākṛtahasti and gandhahasti-b° in
-<div n="lb">8208--9. In MPS 31.21 a varāṅga's power rates very high,
-<div n="lb">just below that of an {@ardha-nārāyaṇa@}, above that of a
-<div n="lb">{@mahānagna@} and {@praskandin@}. PTSD s.v. vīra regards
-<div n="lb">this as ‘distorted’ from vīraṅga-as in Pali; on the con-
-<div n="lb">trary, I believe the Pali cliché DN i.89.5 etc. is compressed
-<div n="lb">from an original closer to Mv i.49.5 etc.; it reads puttā
-<div n="lb">…sūrā vīraṅgarūpā parasenappamaddanā (vīraṅga- for
-<div n="lb">BHS vīrā varāṅga-).
+{@varāṅga@}¦, <lex>adj.</lex> (<lang>Skt.</lang> vara-aṅga; in <lang>Skt.</lang> recorded as <ab>Bhvr.</ab> only in a gloss in <ls>Amarakośa</ls>; not noted <lang>Pali</lang> or <lang>Pkt.</lang>, but see below), <ab>lit.</ab> {%having excellent (bodily) members%}; so <lang>Tib.</lang> <tib>yan lag mchog</tib>, on <ls>LV</ls> and <ls>Mvy</ls>: <ab>ep.</ab> of heroic sons, … śūrāṇāṃ vīrāṇāṃ °ga-rūpiṇāṃ parasainyapramardakānāṃ <ls>Mv</ls> 〔i.49.5〕; 〔193.18〕; 〔ii.158.17〕 and <ls>LV</ls> 〔18.6〕; of the four divisions of an army, rājā caturaṅgād balakāyād vara-varāṅgān hastino 'śvān rathān manuṣyāṃś ca vahaneṣv āropya Tāmradvīpaṃ saṃprasthitaḥ <ls>Divy</ls> 〔527.27〕, {%the king loaded on boats the severally%} (<ab>i.e.</ab> in each department; vara-va°) {%best-membered elephants, horses, chariots, and men from his four-membered army, and …%}; varāṅga-balam <ls>Mvy</ls> 〔8211〕, {%strength of a varāṅga%}. <ab>Acc.</ab> to <ls>pw</ls> 〔7.372〕, the <ab>mg.</ab> would be {%elephant%} (so <lang>Skt.</lang> <ab>Lex.</ab>) in <ls>Mvy</ls> and <ls>Divy</ls> (so also <ls>Index to Divy</ls>). But the word in <ls>Divy</ls> clearly applies to all four regular divisions of an Indian army, specifically named here; if it meant {%elephant%} it would duplicate hastino. And in <ls>Mvy</ls> it is placed between {@mahānagna-@} and {@praskandi-@}balam (see these words), and separated from prākṛtahasti and gandhahasti-b° in 〔8208—9〕. In <ls>MPS</ls> 〔31.21〕 a varāṅgaʼs power rates very high, just below that of an {@ardha-nārāyaṇa@}, above that of a {@mahānagna@} and {@praskandin@}. <ls>PTSD</ls> <ab>s.v.</ab> vīra regards this as ‘distorted’ from vīraṅga-as in <lang>Pali</lang>; on the contrary, I believe the <lang>Pali</lang> cliché <ls>DN</ls> 〔i.89.5〕 <ab>etc.</ab> is compressed from an original closer to <ls>Mv</ls> 〔i.49.5〕 <ab>etc.</ab>; it reads puttā … sūrā vīraṅgarūpā parasenappamaddanā (vīraṅga- for <lang>BHS</lang> vīrā varāṅga-).
 <LEND>

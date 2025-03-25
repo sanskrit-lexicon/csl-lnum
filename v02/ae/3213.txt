@@ -1,10 +1,10 @@
 <L>3213<pc>122<k1>dread<k2>dread
 {@Dread,@}¦ {%s.%} {#BIti#} {%f.,%} {#trAsaH, Baya, sADvasaM#}.
-<div n="lb"/>{%-v. t.%} {#BI#} 3 P, {#tras#} 1, 4 P, {#udvij#} 6 A,
-<div n="lb"/>(with abl.). {@-ed,@} {%a.%} {#BayahetuH, trAsasTAnaM#}.
-<div n="lb"/>{%-a.,%} {@-ful,@} {%a.%} {#dAruRa, Bayaprada, BIma, BayaMkara#}
-<div n="lb"/>({#rI#} {%f.%}), {#trAsAvaha, BIzaRa, BayAnaka, Gora,#}
-<div n="lb"/>{#ugra, BErava#} ({#vI#} {%f.%}), {#rOdra#} ({#drI#} {%f.%}).
-<div n="lb"/>{@-fully,@} {%adv.%} {#dAruRaM, ugraM, BImaM#}. {@-less,@} {%a.%}
-<div n="lb"/>{#nirBaya, trAsahIna#}. {@-naught,@} {%s.%} {#yudDanOkA#}.
+{%-v. t.%} {#BI#} 3 P, {#tras#} 1, 4 P, {#udvij#} 6 A,
+(with abl.). {@-ed,@} {%a.%} {#BayahetuH, trAsasTAnaM#}.
+{%-a.,%} {@-ful,@} {%a.%} {#dAruRa, Bayaprada, BIma, BayaMkara#}
+({#rI#} {%f.%}), {#trAsAvaha, BIzaRa, BayAnaka, Gora,#}
+{#ugra, BErava#} ({#vI#} {%f.%}), {#rOdra#} ({#drI#} {%f.%}).
+{@-fully,@} {%adv.%} {#dAruRaM, ugraM, BImaM#}. {@-less,@} {%a.%}
+{#nirBaya, trAsahIna#}. {@-naught,@} {%s.%} {#yudDanOkA#}.
 <LEND>

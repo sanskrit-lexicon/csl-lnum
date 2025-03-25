@@ -1,15 +1,15 @@
 <L>5639<pc>234<k1>intelligence<k2>intelligence
 {@Intelligence,@}¦ {%s.%} {#mati#} {%f.,%} {#jYAnaM, budDicAturyaM,#}
-<div n="lb"/>{#vEdagDyaM, meDA;#} {%See%} {@Intellect. 2@} {#vArtA,#}
-<div n="lb"/>{#udaMtaH, vfttAMtaH, pravftti#} {%f.,%} {#samAcAraH#}. {@3@} {#saMdeSaH#}
-<div n="lb"/>{#vAcikaM#}. {@-er,@} {%s.%} {#vArtAharaH, vArtAvaha, saMdeSaharaH,#}
-<div n="lb"/>{#AKyAyakaH, vEvaDikaH#}. {@-Intelligent,@} {%a.%}
-<div n="lb"/>{#mati-budDi-DI-mat, prajYAvat, meDAvin, sajYAna,#}
-<div n="lb"/>{#prAjYa, suDI#}. {@2@} {#catura, kuSala, nipuRa, vijYa,#}
-<div n="lb"/>{#-vidagDa, nipuRamati#}. {@-ly,@} {%adv.%} {#caturaM, saM-#}
-<div n="lb"/>{#-vEdagDyaM, sanEpuRyaM, vijYavat, subudDipUrvaM, budDi-#}
-<div n="lb"/>{#-cAturyeRa#}. {@-Intelligible,@} {%a.%} {#spazwa, sugama,#}
-<div n="lb"/>{#baM, Dagamya, BinnArTa, suboDa, suvyakta, sugrAhya,#}
-<div n="lb"/>{#boDagamya-grAhya#}. {@Intelligibly,@} {%adv.%} {#spazwaM,#}
-<div n="lb"/>{#suvyaktaM, BinnArTaM, spazwArTaM#}.
+{#vEdagDyaM, meDA;#} {%See%} {@Intellect. 2@} {#vArtA,#}
+{#udaMtaH, vfttAMtaH, pravftti#} {%f.,%} {#samAcAraH#}. {@3@} {#saMdeSaH#}
+{#vAcikaM#}. {@-er,@} {%s.%} {#vArtAharaH, vArtAvaha, saMdeSaharaH,#}
+{#AKyAyakaH, vEvaDikaH#}. {@-Intelligent,@} {%a.%}
+{#mati-budDi-DI-mat, prajYAvat, meDAvin, sajYAna,#}
+{#prAjYa, suDI#}. {@2@} {#catura, kuSala, nipuRa, vijYa,#}
+{#-vidagDa, nipuRamati#}. {@-ly,@} {%adv.%} {#caturaM, saM-#}
+{#-vEdagDyaM, sanEpuRyaM, vijYavat, subudDipUrvaM, budDi-#}
+{#-cAturyeRa#}. {@-Intelligible,@} {%a.%} {#spazwa, sugama,#}
+{#baM, Dagamya, BinnArTa, suboDa, suvyakta, sugrAhya,#}
+{#boDagamya-grAhya#}. {@Intelligibly,@} {%adv.%} {#spazwaM,#}
+{#suvyaktaM, BinnArTaM, spazwArTaM#}.
 <LEND>

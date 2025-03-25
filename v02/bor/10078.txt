@@ -1,7 +1,7 @@
 <L>10078<pc>318<k1>golden<k2>golden
-<div n="lb"/>{@GOLDEN:@}¦ <div n="1">(1) by tat. comp., <div n="xe">{%g. ornament:%}</div> <div n="xs">{#kanaka-#}
-<div n="lb"/>{#BUzaRam;#}</div> </div><div n="1">(2) {#kAYcanaH#} ({#nI, naM#}); </div><div n="1">(3) {#sOvarRa#} (f. {#rRI#});</div>
-<div n="lb"/><div n="1">(4) {#hiraRmayaH#} ({#yI, yaM#}); </div><div n="1">(5) {#svarRamayaH#} ({#yI, yaM#});</div>
-<div n="lb"/><div n="1">(6) {#hEmaH#} ({#mI, maM#}); </div><div n="1">(7) {#kanakaBayaH#} ({#yI, yaM#}). Ph.:
-<div n="lb"/><div n="xe">{%the g. age:%}</div> <div n="xs">{#satyayugam.#}</div></div>
+{@GOLDEN:@}¦ <div n="1">(1) by tat. comp., <div n="xe">{%g. ornament:%}</div> <div n="xs">{#kanaka-#}
+{#BUzaRam;#}</div> </div><div n="1">(2) {#kAYcanaH#} ({#nI, naM#}); </div><div n="1">(3) {#sOvarRa#} (f. {#rRI#});</div>
+<div n="1">(4) {#hiraRmayaH#} ({#yI, yaM#}); </div><div n="1">(5) {#svarRamayaH#} ({#yI, yaM#});</div>
+<div n="1">(6) {#hEmaH#} ({#mI, maM#}); </div><div n="1">(7) {#kanakaBayaH#} ({#yI, yaM#}). Ph.:
+<div n="xe">{%the g. age:%}</div> <div n="xs">{#satyayugam.#}</div></div>
 <LEND>

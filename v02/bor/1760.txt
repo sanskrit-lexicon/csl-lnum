@@ -1,12 +1,12 @@
 <L>1760<pc>061<k1>beat<k2>beat
-<div n="lb"/>{@BEAT@}¦ (v. t.): <div n="I">I To strike: q. v.: </div><div n="1">(1) {#tAqayati#}
-<div n="lb"/>({#taq,#} c. 10), <div n="xe">{%b. ing her breast%}</div> <div n="xs">{#sorastAqam,#}</div> Vi.
-<div n="lb"/>vi.; <div n="xe">{%to b. in return%}</div> <div n="xs">{#pratIpaM tAqayati,#}</div> Mr. xi.;</div>
-<div n="lb"/><div n="1">(2) {#hanti A-, aBi-, ni-,#} ({#han,#} c. 2), <div n="xe">{%of un-b.%}
-<div n="lb"/>{%en drums%}</div> <div n="xs">{#anAhatasya dunduBeH,#}</div> Ki. xviii. 17. </div><div n="I">II
-<div n="lb"/>To defeat: q. v.: </div><div n="1">(1) {#Banakti#} ({#maYj,#} c. 7), <div n="xe">{%b.%}
-<div n="lb"/>{%the king's troops in the battle%}</div> <div n="xs">{#rAjAnIkaM baBaYjAjO,#}</div>
-<div n="lb"/>Raj.; </div><div n="1">(2) {#KaRqayati, pari,#} ({#KaRq,#} c. 10), B.
-<div n="lb"/>xii. 17.; <div n="xe">{%being b. en by the enemy%}</div> <div n="xs">{#KaRqanAM prApya #}
-<div n="lb"/>{# parAt,#}</div> Ki. xvii. 60.</div>
+{@BEAT@}¦ (v. t.): <div n="I">I To strike: q. v.: </div><div n="1">(1) {#tAqayati#}
+({#taq,#} c. 10), <div n="xe">{%b. ing her breast%}</div> <div n="xs">{#sorastAqam,#}</div> Vi.
+vi.; <div n="xe">{%to b. in return%}</div> <div n="xs">{#pratIpaM tAqayati,#}</div> Mr. xi.;</div>
+<div n="1">(2) {#hanti A-, aBi-, ni-,#} ({#han,#} c. 2), <div n="xe">{%of un-b.%}
+{%en drums%}</div> <div n="xs">{#anAhatasya dunduBeH,#}</div> Ki. xviii. 17. </div><div n="I">II
+To defeat: q. v.: </div><div n="1">(1) {#Banakti#} ({#maYj,#} c. 7), <div n="xe">{%b.%}
+{%the king's troops in the battle%}</div> <div n="xs">{#rAjAnIkaM baBaYjAjO,#}</div>
+Raj.; </div><div n="1">(2) {#KaRqayati, pari,#} ({#KaRq,#} c. 10), B.
+xii. 17.; <div n="xe">{%being b. en by the enemy%}</div> <div n="xs">{#KaRqanAM prApya #}
+{# parAt,#}</div> Ki. xvii. 60.</div>
 <LEND>

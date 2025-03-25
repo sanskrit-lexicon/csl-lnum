@@ -1,5 +1,5 @@
-<L>108736<pc>549,3<k1>nipA<k2>ni-pA<h>b<e>1
-<hom>b.</hom> <s>ni-</s>√ <hom>2.</hom> <s>pA</s> ¦ <ab>P.</ab> <s>-pAti</s>, to guard or protect from (<ab>abl.</ab>);
+<L>108736<pc>549,3<k1>nipA<k2>ni-pA<e>1
+ <s>ni-</s>√ <hom>2.</hom> <s>pA</s> ¦ <ab>P.</ab> <s>-pAti</s>, to guard or protect from (<ab>abl.</ab>);
 <div n="to"/>to observe, watch over, <ls>RV.</ls>; <ls>AV.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-pAlayati</s>, to protect, guard, govern, <ls>MW. 2.</ls><info verb="pre" cp="P" parse="ni+pA"/>
+<div n="vp"/><ab>Caus.</ab> <s>-pAlayati</s>, to protect, guard, govern, <ls>MW.</ls><info verb="pre" cp="P" parse="ni+pA"/><info hui="b"/>
 <LEND>

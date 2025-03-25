@@ -1,8 +1,8 @@
 <L>13777<pc>332-a<k1>hardness<k2>hardness
-<div n="lb"/>HARDNESS¦, {%s.%} (Firmness, solidity) {#dfQatA, dArQyaM, draQimA#} {%m.%} {#(n),#}
-<div n="lb"/>{#kaWinatA, kAWinyaM, GanatA, kaWoratA, drAQyaM, karkaSatA, kArkaSyaM, nizWuratA#}.
-<div n="lb"/> — (Difficulty to be understood) {#durjYeyatA, aspazwatA#}. — (Diffi-
-<div n="lb"/>culty to be effected) {#duHsADyatA, duzkaratvaM, kAWinyaM, kaWinatA, asOkaryyaM,#}
-<div n="lb"/>{#kazwatvaM#}. — (Severity) {#nizWuratA, nEzWuryyaM, kaWoratA, ugratA, tIkzRatA,#}
-<div n="lb"/>{#karkaSatA, kArkaSyaM#}.
+HARDNESS¦, {%s.%} (Firmness, solidity) {#dfQatA, dArQyaM, draQimA#} {%m.%} {#(n),#}
+{#kaWinatA, kAWinyaM, GanatA, kaWoratA, drAQyaM, karkaSatA, kArkaSyaM, nizWuratA#}.
+ — (Difficulty to be understood) {#durjYeyatA, aspazwatA#}. — (Diffi-
+culty to be effected) {#duHsADyatA, duzkaratvaM, kAWinyaM, kaWinatA, asOkaryyaM,#}
+{#kazwatvaM#}. — (Severity) {#nizWuratA, nEzWuryyaM, kaWoratA, ugratA, tIkzRatA,#}
+{#karkaSatA, kArkaSyaM#}.
 <LEND>

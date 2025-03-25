@@ -1,40 +1,39 @@
 <L>62175<pc>5-0917<k1>moGa<k2>mo/Ga
-{#mo/Ga#}¦ (von 1. {#muh)#} 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%eitel, zwecklos, fruchtlos, vergeblich%} 
-<ls>AK. 3, 2, 31.</ls> 
-<ls>H. 1516.</ls> 
-<ls>an. 2, 54.</ls> 
-<ls>MED. gh. 4.</ls> <ls>HALĀY. 4, 75.</ls> {#yacci\keta^ sa\tyamittanna moGa^m#} 
-<ls>ṚV. 10, 55, 6.</ls> {#yadulU^ko\ vada^ti mo\Game\tat#} {%hat Nichts zu bedeuten%} 
-<ls n="ṚV. 10,">165, 4.</ls> {#moGa\manna^M vindate\ apra^cetAH#} 
-<ls>?117, 6 (vgl. MBH. 5, 387). ŚAT. BR. 3, 5, 4, 3.</ls> {#moGasta eza kaSyapAyAsa saMgaraH#} 
-<ls>AIT. BR. 8, 21.</ls> {#moGaM skanditamArzaBam#} 
-<ls>M. 9, 50.</ls> {#moGASA moGakarmARo moGajYAnAH#} 
-<ls>BHAG. 9, 12.</ls> 
-<ls>MBH. 1, 2381.</ls> {#bARa#} 
-<ls>14, 2445.</ls> <ls>R. 1, 76, 8. 6, 80, 35.</ls> <ls>R. GORR. 2, 74, 29. 85, 16.</ls> {#°saMkalpa#} 
-<ls>5, 15, 21.</ls> <ls>HARIV. 10761.</ls> <ls>Spr. 801. 1372. 4768.</ls> {#moGAH kriyAH sarvA Bavantyeva gatAyuzaH#} 
-<ls>SUŚR. 1, 117, 12.</ls> 
-<ls>RAGH. 11, 39. 14, 65.</ls> 
-<ls>MEGH. 6.</ls> 
-<ls>KATHĀS. 18, 126. 35, 86. 36, 134. 49, 196.</ls> 
-<ls>RĀJA-TAR. 3, 466.</ls> 
-<ls>BHĀG. P. 3, 14, 14. 7, 13, 29.</ls> {#moGam#} adv.: {#yadi\ moGa^M de\vA~ a^pyU\he#} 
-<ls>ṚV. 7, 104, 4.</ls> 
-<ls>ŚAT. BR. 3, 2, 4, 6.</ls> {#moGaM pArTa sa jIvati#} 
-<ls>BHAG. 3, 16.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 77, 42.</ls> 
-<ls>Spr. 3699.</ls> {#moGahAsin#} {%ohne Grund lachend%} 
-<ls>Ind. St. 3, 466.</ls> {#moGa = hIna#} 
-<ls>MED.</ls> = {#dIna#} 
-<ls>H. an.</ls> Vgl. {#amoGa#}, wo noch hinzugefügt werden könnte {#amoGAtiTi#} {%ein Gast, der nicht vergeblich kommt%}, 
-<ls>MBH. 7, 2759.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%Einfriedigung, Hecke, Zaun%} 
-<ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>; vgl. {#moGoli#} . 
-<div n="1">— 3) <lex>f.</lex> {#A#} {%Bignonia suaveolens%} 
-<ls>AK. 2, 4, 2, 35.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {%eine best. Pflanze, deren Same gegen Eingeweidewürmer gebraucht wird%} {#(viqaNga)#}, 
+{#mo/Ga#}¦ (von 1. {#muh)#}
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%eitel, zwecklos, fruchtlos, vergeblich%}
+<ls>AK. 3,2,31.</ls>
+<ls>H. 1516.</ls>
+<ls>an. 2,54.</ls>
+<ls>MED. gh. 4.</ls> <ls>HALĀY. 4,75.</ls> {#yacci\keta^ sa\tyamittanna moGa^m#}
+<ls>ṚV. 10,55,6.</ls> {#yadulU^ko\ vada^ti mo\Game\tat#} {%hat Nichts zu bedeuten%}
+<ls n="ṚV. 10,">165,4.</ls> {#moGa\manna^M vindate\ apra^cetAH#}
+<ls n="ṚV. 10,">117,6</ls> (vgl. <ls>MBH. 5,387</ls>). <ls>ŚAT. BR. 3,5,4,3.</ls> {#moGasta eza kaSyapAyAsa saMgaraH#}
+<ls>AIT. BR. 8,21.</ls> {#moGaM skanditamArzaBam#}
+<ls>M. 9,50.</ls> {#moGASA moGakarmARo moGajYAnAH#}
+<ls>BHAG. 9,12.</ls>
+<ls>MBH. 1,2381.</ls> {#bARa#}
+<ls n="MBH.">14,2445.</ls> <ls>R. 1,76,8.</ls> <ls n="R.">6,80,35.</ls> <ls>R. GORR. 2,74,29.</ls> <ls n="R. GORR. 2,">85,16.</ls> {#°saMkalpa#}
+<ls n="R. GORR.">5,15,21.</ls> <ls>HARIV. 10761.</ls> <ls>Spr. 801.</ls> <ls n="Spr.">1372.</ls> <ls n="Spr.">4768.</ls> {#moGAH kriyAH sarvA Bavantyeva gatAyuzaH#}
+<ls>SUŚR. 1,117,12.</ls>
+<ls>RAGH. 11,39.</ls> <ls n="RAGH.">14,65.</ls>
+<ls>MEGH. 6.</ls>
+<ls>KATHĀS. 18,126.</ls> <ls n="KATHĀS.">35,86.</ls> <ls n="KATHĀS.">36,134.</ls> <ls n="KATHĀS.">49,196.</ls>
+<ls>RĀJA-TAR. 3,466.</ls>
+<ls>BHĀG. P. 3,14,14.</ls> <ls n="BHĀG. P.">7,13,29.</ls> {#moGam#} adv.: {#yadi\ moGa^M de\vA~ a^pyU\he#}
+<ls>ṚV. 7,104,4.</ls>
+<ls>ŚAT. BR. 3,2,4,6.</ls> {#moGaM pArTa sa jIvati#}
+<ls>BHAG. 3,16.</ls>
+<ls>R. GORR. 1,77,42.</ls>
+<ls>Spr. 3699.</ls> {#moGahAsin#} {%ohne Grund lachend%}
+<ls>Ind. St. 3,466.</ls> {#moGa = hIna#}
+<ls>MED.</ls> = {#dIna#}
+<ls>H. an.</ls> Vgl. {#amoGa#}, wo noch hinzugefügt werden könnte {#amoGAtiTi#} {%ein Gast, der nicht vergeblich kommt%},
+<ls>MBH. 7,2759.</ls>
+<div n="1">— 2) <lex>m.</lex> {%Einfriedigung, Hecke, Zaun%}
+<ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>; vgl. {#moGoli#} .
+<div n="1">— 3) <lex>f.</lex> {#A#} {%Bignonia suaveolens%}
+<ls>AK. 2,4,2,35.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {%eine best. Pflanze, deren Same gegen Eingeweidewürmer gebraucht wird%} ({#viqaNga#}),
 <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls>; vgl. {#amoGA#} .
 <LEND>

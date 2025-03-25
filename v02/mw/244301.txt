@@ -1,5 +1,5 @@
 <L>244301<pc>1215,1<k1>siD<k2>siD<h>3<e>1
-<hom>3.</hom> <s>siD</s> ¦ (weak form of √ <s>sAD</s>) <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 83</ls>) <s>si/Dyati</s> (<ab>ep.</ab> and <ab>mc.</ab> also <s>°te</s>; pf: <s>sizeDa</s>, <ls>RV. i, 32, 13</ls>; <ab>aor.</ab> <s>asiDat</s> <ab>Gr.</ab>; <s>sEtsIt</s>, <ls>Sarvad.</ls>; <ab>Prec.</ab> <s>siDyAsam</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>sedDA</s>, <ls>ib.</ls>; <s>setsyati</s>, <s>°te</s>, <ls>MBh.</ls> &c.; <ab>inf.</ab> <s>sedDum</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>seDitvA</s>, <s>siDitvA</s>, or <s>sidDvA</s>, <ls>ib.</ls>), 
+<hom>3.</hom> <s>siD</s> ¦ (weak form of √ <s>sAD</s>) <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 83</ls>) <s>si/Dyati</s> (<lang>ep.</lang> and <ab>mc.</ab> also <s>°te</s>; <ab>pf.</ab> <s>sizeDa</s>, <ls>RV. i, 32, 13</ls>; <ab>aor.</ab> <s>asiDat</s> <ab>Gr.</ab>; <s>sEtsIt</s>, <ls>Sarvad.</ls>; <ab>Prec.</ab> <s>siDyAsam</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>sedDA</s>, <ls>ib.</ls>; <s>setsyati</s>, <s>°te</s>, <ls>MBh.</ls> &c.; <ab>inf.</ab> <s>sedDum</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>seDitvA</s>, <s>siDitvA</s>, or <s>sidDvA</s>, <ls>ib.</ls>),
 <div n="to"/>to be accomplished or fulfilled or effected or settled, be successful, succeed, <ls>RV.</ls> &c. &c.;
 <div n="to"/>to hit a mark (<ab>loc.</ab>), <ls>Śak.</ls>;
 <div n="to"/>to attain one's aim or object, have success, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
@@ -11,7 +11,7 @@
 <div n="to"/>to conform to a person's will, yield to (<ab>gen.</ab>), <ls>Kathās.</ls>;
 <div n="to"/>to fall to a person's (<ab>gen.</ab>) lot or share, <ls>Prab.</ls>;
 <div n="to"/>to come into existence, originate, arise, <ls>BhP.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>seDayati</s> (<ab>aor.</ab> <s>asIziDat</s>) or <s>sADayati</s>, to show the knowledge or skill (of any one, the former, ‘with reference to sacred things’, the latter, ‘to secular things’), <ls>Pat.</ls> on <ls>Pāṇ. 6-1, 49</ls> (<s>saD°</s>), to accomplish, effect, <ls>MW.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>seDayati</s> (<ab>aor.</ab> <s>asIziDat</s>) or <s>sADayati</s>, to show the knowledge or skill (of any one, the former, ‘with reference to sacred things’, the latter, ‘to secular things’), <ls>Pat.</ls> on <ls>Pāṇ. vi, 1, 49</ls> (<s>saD°</s>), to accomplish, effect, <ls>MW.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>sizitsati</s> <ab>Gr.</ab>:
 <div n="vp"/><ab>Intens.</ab> <s>seziDyate</s>, <s>sezedDi</s>, <ls>ib.</ls><info westergaard="ziDu,26.83,04.0088"/><info whitneyroots="siD2,186"/><info verb="genuineroot" cp="4P"/>
 <LEND>

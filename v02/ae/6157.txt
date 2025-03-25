@@ -1,10 +1,10 @@
 <L>6157<pc>257<k1>lethargy<k2>lethargy
 {@Lethargy,@}¦ {%s.%} {#jAqyaM, maMdatA, nidrAlutA, A-#}
-<div n="lb"/>{#-lasya, taMdrA, taMdri-drI#} {%f,%} {#jaqabudDitvaM, nidrAla-#}
-<div n="lb"/>{#-satA, kAryajaqatA, kAryadvezaH, atimAMdyaM#}. {@2@}
-<div n="lb"/>{#Gora-gAQa-nidrA, nirBaranidrA#}. {@-ic,@} {%a.%} {#nidrAlu,#}
-<div n="lb"/>{#nidrAlasa, nidrASIla, jaqa, maMda, jaqabudDi,#}
-<div n="lb"/>{#suptamati; kAryajaqa, kAryavimuKa#} ({#KI#} {%f.%});
-<div n="lb"/>{#AlasyaSIla#}. {@-ically,@} {%adv.%} {#jaqavat, maMdavat#}.
-<div n="lb"/>{@-icalness,@} {%See (s.)%}
+{#-lasya, taMdrA, taMdri-drI#} {%f,%} {#jaqabudDitvaM, nidrAla-#}
+{#-satA, kAryajaqatA, kAryadvezaH, atimAMdyaM#}. {@2@}
+{#Gora-gAQa-nidrA, nirBaranidrA#}. {@-ic,@} {%a.%} {#nidrAlu,#}
+{#nidrAlasa, nidrASIla, jaqa, maMda, jaqabudDi,#}
+{#suptamati; kAryajaqa, kAryavimuKa#} ({#KI#} {%f.%});
+{#AlasyaSIla#}. {@-ically,@} {%adv.%} {#jaqavat, maMdavat#}.
+{@-icalness,@} {%See (s.)%}
 <LEND>

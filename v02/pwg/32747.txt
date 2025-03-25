@@ -1,74 +1,73 @@
 <L>32747<pc>3-0604<k1>dAsa<k2>dAsa/<h>1
-1. {#dAsa/#}¦ (von {#dAs#}) ved., {#dAsa/#} und {#dA/sa#} (vgl. 2. {#dAsa#}) 
-<ls>UṆĀDIS. 5, 10.</ls> <lex>m.</lex> 
-<div n="1"> 1) Bez. {%übermenschlicher, den Sterblichen feindlicher Wesen, Dämon.%} So heissen viele von <is>Indra</is> bezwungene Unholde: <is>Namuci</is>, <is>Pipru</is>, <is>Śambara</is>, <is>Varcin</is> u. a. 
-<ls>NIR. 2, 17.</ls> 
-<ls>ṚV. 1, 174, 7.</ls> <ls n="ṚV.">2, 11, 2.</ls> <ls n="ṚV. 2,">20, 6.</ls> <ls n="ṚV.">4, 18, 9.</ls> <ls n="ṚV. 4,">30, 15.</ls> <ls n="ṚV. 4, 18,">21.</ls> <ls n="ṚV.">5, 30, 7.</ls> <ls n="ṚV. 5, 30,">9.</ls> <ls n="ṚV.">6, 20, 6.</ls> <ls n="ṚV. 6,">47, 21.</ls> <ls n="ṚV.">8, 32, 2.</ls> {#vaDa^rdA\sasya^ damBaya#} 
-<ls n="ṚV.">10, 22, 8.</ls> <ls n="ṚV.">8, 24, 27.</ls> {#ojo^ dA\sasya^ damBaya#} 
-<ls n="ṚV. 8,">40, 6.</ls> {#ni dA\saM Si^SnaTo\ haTE^H#} 
-<ls n="ṚV. 8,">59, 10.</ls> <ls n="ṚV.">10, 138, 3.</ls> <ls n="ṚV. 10,">120, 2.</ls> {#na me^ dA\so#} (man hätte eher {#dAso^#} {%Barbar%} erwartet) {#nAryo^ mahi\tvA vra\taM mI^mAya\ yada\haM Da^ri\zye#} 
-<ls>AV. 5, 11, 3.</ls> Vgl. {#dasyu#} . 
-<div n="1">— 2) {%Sclave, Knecht%} 
-<ls>AK. 2, 10, 17.</ls> 
-<ls>TRIK. 3, 3, 446.</ls> 
-<ls>H. 360.</ls> 
-<ls>an. 2, 582.</ls> 
-<ls>MED. s. 3.</ls> {#ara^M dA\so na mI\|uze^ karARi#} 
-<ls>ṚV. 7, 86, 7.</ls> <ls n="ṚV.">10, 62, 10.</ls> {#Sa\taM me^ garda\BAnA^M Sa\tamUrRA^vatInAm . Sa\taM dA\sA~ ati\ sraja^H#} 
-<ls>VĀLAKH. 7, 3</ls> (vgl. {#Sa\taM dA\se ba^lbU\Te vipra\staru^kza\ A da^de#} 
-<ls>ṚV. 8, 46, 32</ls>, wo {#dA\sAn#} zu vermuthen ist). {#trayo^ dA\sA AYja^nasya#} 
-<ls>AV. 4, 9, 8.</ls> 
-<ls>KAUŚ. 17. 89.</ls> {#dAsaBArya#} <lex>n.</lex> sg. {%Knechte und Frauen%} 
-<ls>CHĀND. UP. 7, 24, 2.</ls> {#jaraddAsa#} 
-<ls>ĀŚV. GṚHY. 4, 2.</ls> {#°miTuna#} 
-<ls>KĀTY. ŚR. 22, 2, 27.</ls> 
-<ls>LĀṬY. 8, 4, 14.</ls> 
-<ls>M. 4, 253. 8, 299. 342.</ls> ist {#aDana#} 
-<ls>416.</ls> neben {#Bftaka#},
+1. {#dAsa/#}¦ (von {#dAs#}) ved., {#dAsa/#} und {#dA/sa#} (vgl. 2. {#dAsa#})
+<ls>UṆĀDIS. 5,10.</ls> <lex>m.</lex>
+<div n="1"> 1) Bez. {%übermenschlicher, den Sterblichen feindlicher Wesen, Dämon.%} So heissen viele von <is>Indra</is> bezwungene Unholde: <is>Namuci</is>, <is>Pipru</is>, <is>Śambara</is>, <is>Varcin</is> u. a.
+<ls>NIR. 2,17.</ls>
+<ls>ṚV. 1,174,7.</ls> <ls n="ṚV.">2,11,2.</ls> <ls n="ṚV. 2,">20,6.</ls> <ls n="ṚV.">4,18,9.</ls> <ls n="ṚV. 4,">30,15.</ls> <ls n="ṚV. 4,18,">21.</ls> <ls n="ṚV.">5,30,7.</ls> <ls n="ṚV. 5,30,">9.</ls> <ls n="ṚV.">6,20,6.</ls> <ls n="ṚV. 6,">47,21.</ls> <ls n="ṚV.">8,32,2.</ls> {#vaDa^rdA\sasya^ damBaya#}
+<ls n="ṚV.">10,22,8.</ls> <ls n="ṚV.">8,24,27.</ls> {#ojo^ dA\sasya^ damBaya#}
+<ls n="ṚV. 8,">40,6.</ls> {#ni dA\saM Si^SnaTo\ haTE^H#}
+<ls n="ṚV. 8,">59,10.</ls> <ls n="ṚV.">10,138,3.</ls> <ls n="ṚV. 10,">120,2.</ls> {#na me^ dA\so#} (man hätte eher {#dAso^#} {%Barbar%} erwartet) {#nAryo^ mahi\tvA vra\taM mI^mAya\ yada\haM Da^ri\zye#}
+<ls>AV. 5,11,3.</ls> Vgl. {#dasyu#} .
+<div n="1">— 2) {%Sclave, Knecht%}
+<ls>AK. 2,10,17.</ls>
+<ls>TRIK. 3,3,446.</ls>
+<ls>H. 360.</ls>
+<ls>an. 2,582.</ls>
+<ls>MED. s. 3.</ls> {#ara^M dA\so na mI\|uze^ karARi#}
+<ls>ṚV. 7,86,7.</ls> <ls n="ṚV.">10,62,10.</ls> {#Sa\taM me^ garda\BAnA^M Sa\tamUrRA^vatInAm . Sa\taM dA\sA~ ati\ sraja^H#}
+<ls>VĀLAKH. 7,3</ls> (vgl. {#Sa\taM dA\se ba^lbU\Te vipra\staru^kza\ A da^de#}
+<ls>ṚV. 8,46,32</ls>, wo {#dA\sAn#} zu vermuthen ist). {#trayo^ dA\sA AYja^nasya#}
+<ls>AV. 4,9,8.</ls>
+<ls>KAUŚ. 17. 89.</ls> {#dAsaBArya#} <lex>n.</lex> sg. {%Knechte und Frauen%}
+<ls>CHĀND. UP. 7,24,2.</ls> {#jaraddAsa#}
+<ls>ĀŚV. GṚHY. 4,2.</ls> {#°miTuna#}
+<ls>KĀTY. ŚR. 22,2,27.</ls>
+<ls>LĀṬY. 8,4,14.</ls>
+<ls>M. 4,253.</ls> <ls n="M.">8,299.</ls> <ls n="M. 8,">342.</ls> ist {#aDana#}
+<ls n="M. 8,">416.</ls> neben {#Bftaka#},
 [Page3-0605]
-{#Bftya#} 
-<ls>70.</ls> <ls>R. 2, 24, 3.</ls> {#adAsaM dAsajIvanam#} 
-<ls>M. 10, 32.</ls> 
-<ls>VET. 19, 4.</ls> 
-<ls>BHĀG. P. 1, 18, 33.</ls> {#gfhakarma°#} 
-<ls>BHARTṚ. 1, 1.</ls> {#ASAyAH Kalu ye dAsAste dAsAH sarvadehinAm#} 
-<ls>KAVITĀMṚTAKŪPA 30.</ls> {#dAsavarga#} {%Dienerschaft%} 
-<ls>M. 3, 246. 4, 180. 185.</ls> {#dAsajana#} 
-<ls>VIKR. 54.</ls> 
-<ls>KATHĀS. 4, 70.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 182, 3.</ls> {%sieben Arten von Sclaven%} 
-<ls>M. 8, 415.</ls> {%fünfzehn%} 
-<ls>MIT. 267. fg.</ls> {#dAsasyakulam#} (als comp.) so v. a. {%gemeines Gesindel%} 
-<ls>P. 6, 3, 21,</ls> 
-<ls>Sch.</ls> {#dAsa#} am Ende von <is>Śūdra-</is> Namen <is>Yama</is> bei 
-<ls>KULL.</ls> zu <ls>M. 2, 32.</ls> <ls>VP. 298.</ls> von <is>Kāyastha</is> - Namen 
-<ls>COLEBR. Misc. Ess. II, 190.</ls> in buddh. Namen 
-<ls>WASSILJEW 268.</ls> In comp. mit Götternamen (z. B. {#kAlidAsa#}) gewiss nicht <is>Śūdra</is> bezeichnend. {#dAsa = SUdra#} 
-<ls>UJJVAL.</ls> <ls>TRIK. 2, 10, 1.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#dAsI/#} <lex>f.</lex> {%Sclavin, Magd%} 
-<ls>H. 534.</ls> 
-<ls>an. 2, 582.</ls> 
-<ls>MED. s. 3.</ls> <ls>AV. 5, 22, 6. 12, 3, 13. 4, 9.</ls> <ls>ŚAT. BR. 14, 9, 1, 10.</ls> <ls>KĀTY. ŚR. 13, 3, 19.</ls> <ls>LĀṬY. 4, 3, 18. 8, 11, 16.</ls> <ls>M. 9, 48. 55. 179. 11, 183.</ls> <ls>MBH. 1, 1087. N. 1, 11.</ls> <ls>VID. 45. 307.</ls> <ls>BHĀG. P. 1, 5, 23.</ls> {#dAsadAsI#} {%die Sclavin eines Sclaven%} 
-<ls>M. 9, 179.</ls> {#dAsIdAsa#} <lex>n.</lex> sg. {%Sclavinnen und Sclaven, Mägde und Knechte%} <is>gaṇa</is> {#gavASvAdi#} zu 
-<ls>P. 2, 4, 11.</ls> 
-<ls>MBH. 13, 2950. 15, 405. 412.</ls> 
-<ls>R. 1, 74, 4. 2, 77, 3.</ls> {#dAsIdAsAH#} 
-<ls>MBH. 2, 2510.</ls> {#dAsImARavaka#} <lex>n.</lex> sg. {%Sclavinnen und Knaben%} <is>gaṇa</is> {#gavASvAdi#} zu 
-<ls>P. 2, 4, 11.</ls> {#dAsIjana#} 
-<ls>VARĀH. BṚH. S. 50, 25.</ls> {#dAsyAH putraH#} 
-<ls>AIT. BR. 2, 19.</ls> {#dAsIputra#} 
-<ls>BRAHMAVAIV. P.</ls> in <ls>Verz. d. Oxf. H. 21,b,15.</ls> {#dAsIputra#} oder {#dAsyAHputra#} (als comp.) {%Sohn einer Sclavin%}, uneig. als Ausdruck der Verachtung so v. a. {%ein gemeiner, niederträchtiger Mensch%} 
-<ls>P. 6, 3, 22,</ls> 
-<ls>Sch.</ls> 
-<ls>RĀJA-TAR. 5, 179.</ls> im <is>Prākrit</is> (gewöhnlich {#dAsIeutta#}) 
-<ls>MṚCCH. 79, 24. 80, 14.</ls> 
-<ls>ŚĀK. 20, 8. 88, 5.</ls> 
-<ls>RATNĀV. 91, 1. 100, 11.</ls> {#dAsyAHputrI#} 
-<ls>PRAB. 41, 13. 63, 6.</ls> eben so {#dAsIsuta#} 
-<ls>RĀJA-TAR. 5, 397.</ls> {#dAsyAH sutam#} (ob auch nur mit einem Acc.) 
-<ls>BHĀG. P. 3, 1, 15.</ls> {#dAsyAHsadfSI#} (comp.) 
-<ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 5, 10.</ls> {#dAsISrotriya#} {%ein mit dem%} <is>Veda</is> {%vertrauter Brahman, der einer Sclavin nachgeht%}, 
-<ls>P. 6, 2, 69,</ls> 
-<ls>Sch.</ls> {#dA/sI#} (mit zurückgezogenem Tone) als Schimpfwort {%ein gemeines Weib%} 
-<ls>Sch.</ls> zu <ls>P. 5, 3, 98</ls> und <ls>6, 1, 204.</ls> — Am Ende eines <lex>adj.</lex> comp. {#dAsIka#} 
-<ls>MBH. 2, 1904. 3, 14691.</ls>
+{#Bftya#}
+<ls n="M. 8,">70.</ls> <ls>R. 2,24,3.</ls> {#adAsaM dAsajIvanam#}
+<ls>M. 10,32.</ls>
+<ls>VET. 19,4.</ls>
+<ls>BHĀG. P. 1,18,33.</ls> {#gfhakarma°#}
+<ls>BHARTṚ. 1,1.</ls> {#ASAyAH Kalu ye dAsAste dAsAH sarvadehinAm#}
+<ls>KAVITĀMṚTAKŪPA 30.</ls> {#dAsavarga#} {%Dienerschaft%}
+<ls>M. 3,246.</ls> <ls n="M.">4,180.</ls> <ls n="M. 4,">185.</ls> {#dAsajana#}
+<ls>VIKR. 54.</ls>
+<ls>KATHĀS. 4,70.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 182,3.</ls> {%sieben Arten von Sclaven%}
+<ls>M. 8,415.</ls> {%fünfzehn%}
+<ls>MIT. 267. fg.</ls> {#dAsasyakulam#} (als comp.) so v. a. {%gemeines Gesindel%}
+<ls>P. 6,3,21</ls>, <ls>Sch.</ls>
+{#dAsa#} am Ende von <is>Śūdra-</is> Namen <is>Yama</is> bei
+<ls>KULL.</ls> zu <ls>M. 2,32.</ls> <ls>VP. 298.</ls> von <is>Kāyastha</is> — Namen
+<ls>COLEBR. Misc. Ess. II,190.</ls> in buddh. Namen
+<ls>WASSILJEW 268.</ls> In comp. mit Götternamen (z. B. {#kAlidAsa#}) gewiss nicht <is>Śūdra</is> bezeichnend. {#dAsa = SUdra#}
+<ls>UJJVAL.</ls> <ls>TRIK. 2,10,1.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#dAsI/#} <lex>f.</lex> {%Sclavin, Magd%}
+<ls>H. 534.</ls>
+<ls>an. 2,582.</ls>
+<ls>MED. s. 3.</ls> <ls>AV. 5,22,6.</ls> <ls n="AV.">12,3,13.</ls> <ls n="AV. 12,">4,9.</ls> <ls>ŚAT. BR. 14,9,1,10.</ls> <ls>KĀTY. ŚR. 13,3,19.</ls> <ls>LĀṬY. 4,3,18. 8,11,16.</ls> <ls>M. 9,48.</ls> <ls n="M. 9,">55.</ls> <ls n="M. 9,">179.</ls> <ls n="M.">11,183.</ls> <ls>MBH. 1,1087.</ls> <ls>N. 1,11.</ls> <ls>VID. 45. 307.</ls> <ls>BHĀG. P. 1,5,23.</ls> {#dAsadAsI#} {%die Sclavin eines Sclaven%}
+<ls>M. 9,179.</ls> {#dAsIdAsa#} <lex>n.</lex> sg. {%Sclavinnen und Sclaven, Mägde und Knechte%} <is>gaṇa</is> {#gavASvAdi#} zu
+<ls>P. 2,4,11.</ls>
+<ls>MBH. 13,2950.</ls> <ls n="MBH.">15,405.</ls> <ls n="MBH. 15,">412.</ls>
+<ls>R. 1,74,4.</ls> <ls n="R.">2,77,3.</ls> {#dAsIdAsAH#}
+<ls>MBH. 2,2510.</ls> {#dAsImARavaka#} <lex>n.</lex> sg. {%Sclavinnen und Knaben%} <is>gaṇa</is> {#gavASvAdi#} zu
+<ls>P. 2,4,11.</ls> {#dAsIjana#}
+<ls>VARĀH. BṚH. S. 50,25.</ls> {#dAsyAH putraH#}
+<ls>AIT. BR. 2,19.</ls> {#dAsIputra#}
+<ls>BRAHMAVAIV. P.</ls> in <ls>Verz. d. Oxf. H. 21,b,15.</ls> {#dAsIputra#} oder {#dAsyAHputra#} (als comp.) {%Sohn einer Sclavin%}, uneig. als Ausdruck der Verachtung so v. a. {%ein gemeiner, niederträchtiger Mensch%}
+<ls>P. 6,3,22</ls>, <ls>Sch.</ls>
+<ls>RĀJA-TAR. 5,179.</ls> im <is>Prākrit</is> (gewöhnlich {#dAsIeutta#})
+<ls>MṚCCH. 79,24. 80,14.</ls>
+<ls>ŚĀK. 20,8.</ls> <ls n="ŚĀK.">88,5.</ls>
+<ls>RATNĀV. 91,1. 100,11.</ls> {#dAsyAHputrI#}
+<ls>PRAB. 41,13.</ls> <ls n="PRAB.">63,6.</ls> eben so {#dAsIsuta#}
+<ls>RĀJA-TAR. 5,397.</ls> {#dAsyAH sutam#} (ob auch nur mit einem Acc.)
+<ls>BHĀG. P. 3,1,15.</ls> {#dAsyAHsadfSI#} (comp.)
+<ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 5,10.</ls> {#dAsISrotriya#} {%ein mit dem%} <is>Veda</is> {%vertrauter Brahman, der einer Sclavin nachgeht%},
+<ls>P. 6,2,69</ls>, <ls>Sch.</ls>
+{#dA/sI#} (mit zurückgezogenem Tone) als Schimpfwort {%ein gemeines Weib%}
+<ls>Sch.</ls> zu <ls>P. 5,3,98</ls> und <ls n="P.">6,1,204.</ls> — Am Ende eines <lex>adj.</lex> comp. {#dAsIka#}
+<ls>MBH. 2,1904.</ls> <ls n="MBH.">3,14691.</ls>
 <LEND>

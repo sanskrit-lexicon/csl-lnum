@@ -1,283 +1,270 @@
 <L>10503<pc>1-0846<k1>Ir<k2>Ir
 {#Ir#}¦, {#I/rte#} (
-<ls>NAIGH. 2, 14</ls>), {#I/rate#} ({#Ira/te#} s. — {#saMpra)#}; imperf. 3. sg. und pl. {#Erata#}; partic. {#I/rARa, IrRa#}; 
-<ls>DHĀTUP. 24, 8.</ls> 
-<div n="1"> 1) {%sich in Bewegung setzen, sich erheben, hervorgehen; erstehen; ausgehen%} (vom Schall): {#dra\psA maDu^manta Irate#} 
-<ls>ṚV. 5, 63, 4.</ls> {#Ada^sya\ te Dva\saya^nta Irate#} 
-<ls n="ṚV.">1, 140, 5.</ls> {#ma\tsa\rAsa^H pra\supa^H sA\kamI^rate#} 
-<ls n="ṚV.">9, 69, 6.</ls> {#ruSa^dIrte\ payo\ goH#} 
-<ls n="ṚV. 9,">91, 3.</ls> {#a\sme vAjA^sa IratAm#} 
-<ls n="ṚV.">4, 8, 7.</ls> {#gira\ stomA^sa Irate#} 
-<ls n="ṚV.">8, 43, 1.</ls> <ls n="ṚV. 8,">44, 25.</ls> <ls n="ṚV.">1, 52, 1.</ls> {#vA\yupra^cyutA di\vo vfzwi^rIrte#} 
-<ls>TS. 5, 1, 5, 1.</ls> 
-<ls>ŚAT. BR. 14, 2, 2, 3.</ls> 
-<div n="1">— 2) {%sich auf und davon machen%}: {#mf\gAdfSyA^ iverate#} 
-<ls>AV. 19, 38, 2.</ls> 
-<div n="1">— 3) trans. {%in Bewegung setzen; erheben, anheben%}: {#yatra^ dro\Rya^SvAsa\ Ira^te Gf\taM vAH#} 
-<ls>ṚV. 10, 99, 4.</ls> {#ya Iva^te\ vrahma^Re gA\tumEra^ta#} 
-<ls n="ṚV.">4, 4, 6.</ls> — caus. {#Ira/yati#} (
-<ls>DHĀTUP. 34, 5</ls>) und {#°te#} . Die als 3te pl. perf. geltende Form {#erire#}, welche vom <is>Padapāṭha</is> und den Commentatoren (schon im 
-<ls>NIR. 4, 23</ls>) sowie nach der Accentuirung des Textes in {#A + Irire#} zerlegt wird, scheint eigentl. dem einfachen verbum anzugehören (s. — {#ni#}) und ist, wie die Bedeutung zeigt, zum Causalstamm zu ziehen. Dieselbe ist übrigens nach der hergebrachten Ordnung unter {#A#} gestellt. 
-<div n="1"> 1) {%in Bewegung setzen, schleudern; erregen; hervorgehen —, erstehen lassen, in's Leben rufen%}: {#a\paH sa^mu\dramEra^yat#} 
-<ls>ṚV. 8, 6, 13.</ls> {#a\MSorU\rmimI^raya#} 
-<ls n="ṚV.">9, 97, 14.</ls> <ls n="ṚV. 9, 97,">56.</ls> {#yada^sya\ Suzma\mEra^yaH#} 
-<ls n="ṚV.">2, 17, 3.</ls> <ls n="ṚV.">9, 76, 2.</ls> {#de\vaM de^va\M rADa^se co\daya^ntyasma\drya^ksU\nftA^ I\raya^ntI#} 
-<ls n="ṚV.">7, 79, 5.</ls> <ls n="ṚV.">1, 113, 12.</ls> <ls n="ṚV.">3, 61, 2.</ls> {#panTA^no\ yeBi\rviSva\mEra^yaH#} 
-<ls>AV. 7, 55,1.</ls>
+<ls>NAIGH. 2,14</ls>), {#I/rate#} ({#Ira/te#} s. — {#saMpra)#}; imperf. 3. sg. und pl. {#Erata#}; partic. {#I/rARa, IrRa#};
+<ls>DHĀTUP. 24,8.</ls>
+<div n="1"> 1) {%sich in Bewegung setzen, sich erheben, hervorgehen; erstehen; ausgehen%} (vom Schall): {#dra\psA maDu^manta Irate#}
+<ls>ṚV. 5,63,4.</ls> {#Ada^sya\ te Dva\saya^nta Irate#}
+<ls n="ṚV.">1,140,5.</ls> {#ma\tsa\rAsa^H pra\supa^H sA\kamI^rate#}
+<ls n="ṚV.">9,69,6.</ls> {#ruSa^dIrte\ payo\ goH#}
+<ls n="ṚV. 9,">91,3.</ls> {#a\sme vAjA^sa IratAm#}
+<ls n="ṚV.">4,8,7.</ls> {#gira\ stomA^sa Irate#}
+<ls n="ṚV.">8,43,1.</ls> <ls n="ṚV. 8,">44,25.</ls> <ls n="ṚV.">1,52,1.</ls> {#vA\yupra^cyutA di\vo vfzwi^rIrte#}
+<ls>TS. 5,1,5,1.</ls>
+<ls>ŚAT. BR. 14,2,2,3.</ls>
+<div n="1">— 2) {%sich auf und davon machen%}: {#mf\gAdfSyA^ iverate#}
+<ls>AV. 19,38,2.</ls>
+<div n="1">— 3) trans. {%in Bewegung setzen; erheben, anheben%}: {#yatra^ dro\Rya^SvAsa\ Ira^te Gf\taM vAH#}
+<ls>ṚV. 10,99,4.</ls> {#ya Iva^te\ vrahma^Re gA\tumEra^ta#}
+<ls n="ṚV.">4,4,6.</ls> — caus. {#Ira/yati#} (
+<ls>DHĀTUP. 34,5</ls>) und {#°te#} . Die als 3te pl. perf. geltende Form {#erire#}, welche vom <is>Padapāṭha</is> und den Commentatoren (schon im
+<ls>NIR. 4,23</ls>) sowie nach der Accentuirung des Textes in {#A + Irire#} zerlegt wird, scheint eigentl. dem einfachen verbum anzugehören (s. — {#ni#}) und ist, wie die Bedeutung zeigt, zum Causalstamm zu ziehen. Dieselbe ist übrigens nach der hergebrachten Ordnung unter {#A#} gestellt.
+<div n="1"> 1) {%in Bewegung setzen, schleudern; erregen; hervorgehen —, erstehen lassen, in's Leben rufen%}: {#a\paH sa^mu\dramEra^yat#}
+<ls>ṚV. 8,6,13.</ls> {#a\MSorU\rmimI^raya#}
+<ls n="ṚV.">9,97,14.</ls> <ls n="ṚV. 9,97,">56.</ls> {#yada^sya\ Suzma\mEra^yaH#}
+<ls n="ṚV.">2,17,3.</ls> <ls n="ṚV.">9,76,2.</ls> {#de\vaM de^va\M rADa^se co\daya^ntyasma\drya^ksU\nftA^ I\raya^ntI#}
+<ls n="ṚV.">7,79,5.</ls> <ls n="ṚV.">1,113,12.</ls> <ls n="ṚV.">3,61,2.</ls> {#panTA^no\ yeBi\rviSva\mEra^yaH#}
+<ls>AV. 7,55,1.</ls>
 [Page1-0847]
-{#yu\vama\gniM ca^ vfzaRAva\paSca\ vana\spatI^MraSvinA\vEra^yeTAm#} 
-<ls>ṚV. 1, 157, 5.</ls> {#ma\nI\zAM druRA\ na pA\ramI^raya na\dInA^m#} 
-<ls n="ṚV.">8, 85, 11.</ls> {#somo^ Gfta\SrIrma^hi\mAna^mI\raya^n#} {%entfaltend%} 
-<ls n="ṚV.">10, 65, 2.</ls> {#f\tena\ ye ca^ma\samEra^yanta#} {%zu Stande brachten%} 
-<ls>AV. 6, 47, 3.</ls> — {#yaTA dArumayI yozA - IrayatyaNgamaNgAni#} 
-<ls>MBH. 3, 1140.</ls> {#vAwvIritABiH - gaNgormiBiH#} 
-<ls>13, 1839.</ls> {#vARo matsuteritaH#} 
-<ls>3, 709.</ls> <ls>R. 4, 9, 32.</ls> {#yantreReveritaH SaraH#} 
-<ls>VID. 24.</ls> {#Eriracca mahAdrumam#} 
-<ls>BHAṬṬ. 15, 52.</ls> {#meGA vAteritA iva#} 
-<ls>R. 3, 25, 25.</ls> {#adUreritekzaRaH#} 
-<ls>AK. 3, 4, 17.</ls> {#snehavIryeritam (kaPam)#} 
-<ls>SUŚR. 2, 348, 11.</ls> {#rAmABirAmeritacittadozaH (predAzaH)#} 
-<ls>R. 5, 11, 8.</ls> {#IryamARo#} ({%angetrieben%}) {#mAtrA#} 
-<ls>BHAṬṬ. 12, 6.</ls> {#Irita#} {%geworfen%} 
-<ls>AK. 3, 2, 37.</ls> 
-<ls>H. 1482.</ls> {%ertönen lassen%}, (die Stimme); {%aussprechen, verkünden, anführen%}: {#vAca^ I\raya^n#} 
-<ls>ṚV. 9, 62, 26.</ls> <ls n="ṚV. 9,">97, 34.</ls> {#aTa vAcamIrayati tAmu nAmnIrayati#} 
-<ls>CHĀND. UP. 7, 4, 1.</ls> 
-<ls>R. 3, 73, 5.</ls> {#mAnuzImIrayangiram#} 
-<ls>MBH. 1, 4565.</ls> 
-<ls>M. 11, 35.</ls> 
-<ls>R. 2, 96, 47.</ls> {#sarasvatImIraya devajuzwAm#} 
-<ls>MBH. 3, 10628.</ls> {#raTaMtaraM sAma Irayati#} 
-<ls>13, 986.</ls> {#vAkyaM ca mayeryamARam#} 
-<ls>3, 10625.</ls> {#IryamARena satataM brahmaGozeRa#} 
-<ls>695.</ls> {#(vAkyam) damayantyA yaTeritam#} 
-<ls>2743.</ls> {#sADu sADviti - vismitErIritaH SabdaH#} 
-<ls>2220.</ls> <ls>RAGH. 9, 8.</ls> {#niboDa cemAM giramIritAM mayA#} 
-<ls>SĀV. 5, 33.</ls> {#hitaM na gfhRanti suhfdBirIritam#} 
-<ls>R. 3, 45, 22. 5, 88, 25.</ls> {#ke guRAH sadBirIritAH#} 
-<ls>MBH. 14, 941.</ls> 
-<ls>R. 1, 26, 23.</ls> 
-<ls>SUŚR. 2, 146, 6. 361, 5. 404, 5.</ls> {#uSanaseritam (purARam)#} 
-<ls>MADHUS.</ls> in <ls>Ind. St. 1, 18, 15.</ls> 
-<div n="1">— 2) {%erheben, in die Höhe bringen%}: {#sUrya^mErayataM di\vi#} 
-<ls>ṚV. 7, 82, 3.</ls> {#yo ha\vyAnyEra^yatA\ manu^rhito de\va A\sA su^ga\nDinA^#} 
-<ls n="ṚV.">8, 19, 24.</ls> {#ha\vyAnyEra^yaddi\vi#} 
-<ls n="ṚV. 8,">63, 3.</ls> {#yamEra^yaMSca\ndrama^si#} 
-<ls>VS. 1, 28.</ls> {#yA de\vezu^ ta\nva1^\mEra^yanta#} 
-<ls>ṚV. 10, 169, 3.</ls> {#ha\vyEra\gnirmanu^za Ira\yaDyE^#} 
-<ls n="ṚV.">4, 2, 1.</ls> {#svAyA\M yatta\nuvA^M ta\nUmEra^yata#} 
-<ls>TS. 1, 7, 12, 2.</ls> 
-<ls>ŚAT. BR. 11, 7, 2, 6.</ls> 
-<div n="1">— 3) {%sich erheben%}: {#yatra^ de\vA a\mfta^mAnaSA\nAH sa^mA\ne yonA\vaDyEra^yanta#} 
-<ls>AV. 2, 1, 5.</ls> 
-<ls>VS. 32, 10.</ls> 
+{#yu\vama\gniM ca^ vfzaRAva\paSca\ vana\spatI^MraSvinA\vEra^yeTAm#}
+<ls>ṚV. 1,157,5.</ls> {#ma\nI\zAM druRA\ na pA\ramI^raya na\dInA^m#}
+<ls n="ṚV.">8,85,11.</ls> {#somo^ Gfta\SrIrma^hi\mAna^mI\raya^n#} {%entfaltend%}
+<ls n="ṚV.">10,65,2.</ls> {#f\tena\ ye ca^ma\samEra^yanta#} {%zu Stande brachten%}
+<ls>AV. 6,47,3.</ls> — {#yaTA dArumayI yozA — IrayatyaNgamaNgAni#}
+<ls>MBH. 3,1140.</ls> {#vAwvIritABiH — gaNgormiBiH#}
+<ls n="MBH.">13,1839.</ls> {#vARo matsuteritaH#}
+<ls n="MBH.">3,709.</ls> <ls>R. 4,9,32.</ls> {#yantreReveritaH SaraH#}
+<ls>VID. 24.</ls> {#Eriracca mahAdrumam#}
+<ls>BHAṬṬ. 15,52.</ls> {#meGA vAteritA iva#}
+<ls>R. 3,25,25.</ls> {#adUreritekzaRaH#}
+<ls>AK. 3,4,17.</ls> {#snehavIryeritam (kaPam)#}
+<ls>SUŚR. 2,348,11.</ls> {#rAmABirAmeritacittadozaH (predAzaH)#}
+<ls>R. 5,11,8.</ls> {#IryamARo#} ({%angetrieben%}) {#mAtrA#}
+<ls>BHAṬṬ. 12,6.</ls> {#Irita#} {%geworfen%}
+<ls>AK. 3,2,37.</ls>
+<ls>H. 1482.</ls> {%ertönen lassen%}, (die Stimme); {%aussprechen, verkünden, anführen%}: {#vAca^ I\raya^n#}
+<ls>ṚV. 9,62,26.</ls> <ls n="ṚV. 9,">97,34.</ls> {#aTa vAcamIrayati tAmu nAmnIrayati#}
+<ls>CHĀND. UP. 7,4,1.</ls>
+<ls>R. 3,73,5.</ls> {#mAnuzImIrayangiram#}
+<ls>MBH. 1,4565.</ls>
+<ls>M. 11,35.</ls>
+<ls>R. 2,96,47.</ls> {#sarasvatImIraya devajuzwAm#}
+<ls>MBH. 3,10628.</ls> {#raTaMtaraM sAma Irayati#}
+<ls n="MBH.">13,986.</ls> {#vAkyaM ca mayeryamARam#}
+<ls n="MBH.">3,10625.</ls> {#IryamARena satataM brahmaGozeRa#}
+<ls n="MBH. 3,">695.</ls> {#(vAkyam) damayantyA yaTeritam#}
+<ls n="MBH. 3,">2743.</ls> {#sADu sADviti — vismitErIritaH SabdaH#}
+<ls n="MBH. 3,">2220.</ls> <ls>RAGH. 9,8.</ls> {#niboDa cemAM giramIritAM mayA#}
+<ls>SĀV. 5,33.</ls> {#hitaM na gfhRanti suhfdBirIritam#}
+<ls>R. 3,45,22.</ls> <ls n="R.">5,88,25.</ls> {#ke guRAH sadBirIritAH#}
+<ls>MBH. 14,941.</ls>
+<ls>R. 1,26,23.</ls>
+<ls>SUŚR. 2,146,6. 361,5. 404,5.</ls> {#uSanaseritam (purARam)#}
+<ls>MADHUS.</ls> in <ls>Ind. St. 1,18,15.</ls>
+<div n="1">— 2) {%erheben, in die Höhe bringen%}: {#sUrya^mErayataM di\vi#}
+<ls>ṚV. 7,82,3.</ls> {#yo ha\vyAnyEra^yatA\ manu^rhito de\va A\sA su^ga\nDinA^#}
+<ls n="ṚV.">8,19,24.</ls> {#ha\vyAnyEra^yaddi\vi#}
+<ls n="ṚV. 8,">63,3.</ls> {#yamEra^yaMSca\ndrama^si#}
+<ls>VS. 1,28.</ls> {#yA de\vezu^ ta\nva1^\mEra^yanta#}
+<ls>ṚV. 10,169,3.</ls> {#ha\vyEra\gnirmanu^za Ira\yaDyE^#}
+<ls n="ṚV.">4,2,1.</ls> {#svAyA\M yatta\nuvA^M ta\nUmEra^yata#}
+<ls>TS. 1,7,12,2.</ls>
+<ls>ŚAT. BR. 11,7,2,6.</ls>
+<div n="1">— 3) {%sich erheben%}: {#yatra^ de\vA a\mfta^mAnaSA\nAH sa^mA\ne yonA\vaDyEra^yanta#}
+<ls>AV. 2,1,5.</ls>
+<ls>VS. 32,10.</ls>
 <div n="v">— Vgl. das nahe verwandte {#ar#} .
-
-<div n="p">— {#A#} caus. act. und med. im praes. und imperf. (über {#erire#} s. oben) 
-<div n="1"> 1) {%herbeischaffen, verschaffen%}: {#A\mAsu^ pa\kvamEra^yaH#} 
-<ls>ṚV. 8, 78, 7.</ls> {#a\sme ra\yimera^yaDvam#} 
-<ls n="ṚV.">4, 34, 2.</ls> <ls n="ṚV.">7, 5, 8.</ls> ({#erire#} 
-<ls n="ṚV.">3, 11, 9.</ls> <ls n="ṚV.">6, 5, 2</ls>) <ls n="ṚV.">7, 94, 4.</ls> {#pf\zWezvera^yA ra\yim#} 
-<ls n="ṚV.">9, 102, 3.</ls> <ls>VS. 14, 8.</ls> {#jA\myE Durya\M pati\mera^yeTAm#} 
-<ls>AV. 5, 1, 4. 3.</ls> {#SarI^re mA\Msamasu\mera^yAmaH#} 
-<ls>29, 5. 6, 61, 1.</ls> {#tAM pU^zaM Ci\vata^mA\mera^yasva#} 
-<ls>ṚV. 10, 85, 37.</ls> ({#erire#} 
-<ls n="ṚV.">1, 143, 4.</ls> <ls n="ṚV. 1,">6, 4.</ls>) {%sich verschaffen%}: {#sO\Da\nva\nAso^ a\mfta^tva\meri^re#} 
-<ls n="ṚV.">3, 6, 3.</ls> 
-<div n="1">— 2) {%erheben%} (einen Gesang u. s. w.): {#dyu\mnava\dbrahma^ kuSi\kAsa\ eri^re#} 
-<ls>ṚV. 3, 29, 15.</ls> {#brahma^Re gA\tumEra^ya#} 
-<ls n="ṚV.">10, 122, 2.</ls>
-
+<div n="p">— {#A#} caus. act. und med. im praes. und imperf. (über {#erire#} s. oben)
+<div n="1"> 1) {%herbeischaffen, verschaffen%}: {#A\mAsu^ pa\kvamEra^yaH#}
+<ls>ṚV. 8,78,7.</ls> {#a\sme ra\yimera^yaDvam#}
+<ls n="ṚV.">4,34,2.</ls> <ls n="ṚV.">7,5,8.</ls> ({#erire#}
+<ls n="ṚV.">3,11,9.</ls> <ls n="ṚV.">6,5,2</ls>) <ls n="ṚV.">7,94,4.</ls> {#pf\zWezvera^yA ra\yim#}
+<ls n="ṚV.">9,102,3.</ls> <ls>VS. 14,8.</ls> {#jA\myE Durya\M pati\mera^yeTAm#}
+<ls>AV. 5,1,4.</ls> <ls n="AV. 5,1,">3.</ls> {#SarI^re mA\Msamasu\mera^yAmaH#}
+<ls n="AV. 5,">29,5.</ls> <ls n="AV.">6,61,1.</ls> {#tAM pU^zaM Ci\vata^mA\mera^yasva#}
+<ls>ṚV. 10,85,37.</ls> ({#erire#}
+<ls n="ṚV.">1,143,4.</ls> <ls n="ṚV. 1,">6,4.</ls>) {%sich verschaffen%}: {#sO\Da\nva\nAso^ a\mfta^tva\meri^re#}
+<ls n="ṚV.">3,6,3.</ls>
+<div n="1">— 2) {%erheben%} (einen Gesang u. s. w.): {#dyu\mnava\dbrahma^ kuSi\kAsa\ eri^re#}
+<ls>ṚV. 3,29,15.</ls> {#brahma^Re gA\tumEra^ya#}
+<ls n="ṚV.">10,122,2.</ls>
 <div n="p">— {#nyA#} s. u. {#ni#} .
-
-<div n="p">— {#ud#} 
-<div n="1"> 1) {%sich erheben, aufstehen, aufbrechen%} (um zu gehen oder zu kommen): {#udI^rATAmftAya\te yu\YjATA^maSvinA\ raTa^m#} 
-<ls>ṚV. 8, 62, 1.</ls> {#udI^ratA\mava^ra\ utparA^saH#} 
-<ls n="ṚV.">10, 15, 1.</ls> {#udI^rzva nArya\Bi jI^valo\kam#} 
-<ls n="ṚV. 10,">18, 8.</ls> {#udI^rzvA\taH#} {%hebe dich weg von hier%} 
-<ls n="ṚV. 10,">85, 21.</ls> {#u\dIrA^RA u\tAsI^nAH#} 
-<ls>AV. 12, 1, 28.</ls> 
-<ls>ṚV. 1, 113, 16.</ls> <ls n="ṚV.">8, 7, 7.</ls> <ls n="ṚV. 8, 7,">17.</ls> <ls n="ṚV.">4, 39, 5.</ls> 
-<ls>ŚAT. BR. 13, 5, 4, 16. 17.</ls> 
-<div n="1">— 2) {%sich erheben%} d. i. {%in Bewegung kommen, aufsteigen, erstehen%} (von Kräften, Vorstellungen, Tönen u. s. w.): {#u^dIratAM sU\nftA\ utpura^MDIH#} 
-<ls>ṚV. 1, 123, 6.</ls> {#ucCuzmA\ oza^DInA\M gAvo^ go\zWAdi^verate#} {%die Düfte der Pflanzen steigen auf%} 
-<ls n="ṚV.">10, 97, 8.</ls> <ls n="ṚV.">2, 17, 1.</ls> <ls n="ṚV.">9, 50, 1.</ls> {#tvadvAjA\ udI^rate#} 
-<ls n="ṚV.">5, 25, 7.</ls> <ls n="ṚV.">4, 45, 2.</ls> {#si\Mhasya^ sta\naTA\ u^dIrate#} 
-<ls n="ṚV.">5, 83, 3.</ls> {#vAca^H#} 
-<ls n="ṚV.">9, 33, 4.</ls> <ls n="ṚV. 9,">50, 2.</ls> <ls n="ṚV.">8, 3, 15.</ls> {#udu\ brahmA^RyErata#} 
-<ls n="ṚV.">7, 23, 1.</ls> {#uda\rcaya^ Irate#} 
-<ls n="ṚV.">8, 44, 4.</ls> <ls n="ṚV. 8, 44,">17.</ls> {#yadu\dIra^ta A\jaya^H#} {%wenn Wettkämpfe sich erheben%} 
-<ls n="ṚV.">1, 81, 3.</ls> {#u\dIra^te#} als 
-<ls n="ṚV. 1, 81,">3.</ls> sg.: {#yo\3^\ dya senyo^ va\Do 'GA\yUnA^mu\dIra^te#} 
-<ls>AV. 1, 20, 2. 6, 99, 2.</ls> 
-<div n="1">— 3) partic. {#udIrRa#} (in der klassischen Sprache nur diese Form vom simpl. zu belegen) {%erregt, gesteigert, zum Ausbruch gekommen%} 
-<ls>NIR. 3, 20.</ls> {#mArutaH#} 
+<div n="p">— {#ud#}
+<div n="1"> 1) {%sich erheben, aufstehen, aufbrechen%} (um zu gehen oder zu kommen): {#udI^rATAmftAya\te yu\YjATA^maSvinA\ raTa^m#}
+<ls>ṚV. 8,62,1.</ls> {#udI^ratA\mava^ra\ utparA^saH#}
+<ls n="ṚV.">10,15,1.</ls> {#udI^rzva nArya\Bi jI^valo\kam#}
+<ls n="ṚV. 10,">18,8.</ls> {#udI^rzvA\taH#} {%hebe dich weg von hier%}
+<ls n="ṚV. 10,">85,21.</ls> {#u\dIrA^RA u\tAsI^nAH#}
+<ls>AV. 12,1,28.</ls>
+<ls>ṚV. 1,113,16.</ls> <ls n="ṚV.">8,7,7.</ls> <ls n="ṚV. 8,7,">17.</ls> <ls n="ṚV.">4,39,5.</ls>
+<ls>ŚAT. BR. 13,5,4,16. 17.</ls>
+<div n="1">— 2) {%sich erheben%} <ab>d. i.</ab> {%in Bewegung kommen, aufsteigen, erstehen%} (von Kräften, Vorstellungen, Tönen u. s. w.): {#u^dIratAM sU\nftA\ utpura^MDIH#}
+<ls>ṚV. 1,123,6.</ls> {#ucCuzmA\ oza^DInA\M gAvo^ go\zWAdi^verate#} {%die Düfte der Pflanzen steigen auf%}
+<ls n="ṚV.">10,97,8.</ls> <ls n="ṚV.">2,17,1.</ls> <ls n="ṚV.">9,50,1.</ls> {#tvadvAjA\ udI^rate#}
+<ls n="ṚV.">5,25,7.</ls> <ls n="ṚV.">4,45,2.</ls> {#si\Mhasya^ sta\naTA\ u^dIrate#}
+<ls n="ṚV.">5,83,3.</ls> {#vAca^H#}
+<ls n="ṚV.">9,33,4.</ls> <ls n="ṚV. 9,">50,2.</ls> <ls n="ṚV.">8,3,15.</ls> {#udu\ brahmA^RyErata#}
+<ls n="ṚV.">7,23,1.</ls> {#uda\rcaya^ Irate#}
+<ls n="ṚV.">8,44,4.</ls> <ls n="ṚV. 8,44,">17.</ls> {#yadu\dIra^ta A\jaya^H#} {%wenn Wettkämpfe sich erheben%}
+<ls n="ṚV.">1,81,3.</ls> {#u\dIra^te#} als
+<ls n="ṚV. 1,81,">3.</ls> sg.: {#yo\3^\ dya senyo^ va\Do 'GA\yUnA^mu\dIra^te#}
+<ls>AV. 1,20,2.</ls> <ls n="AV.">6,99,2.</ls>
+<div n="1">— 3) partic. {#udIrRa#} (in der klassischen Sprache nur diese Form vom simpl. zu belegen) {%erregt, gesteigert, zum Ausbruch gekommen%}
+<ls>NIR. 3,20.</ls> {#mArutaH#}
 <ls>ŚIKṢĀ 9.</ls> {#brahma kzattreRa saMsfzwaM kzattraM ca brahmaRA saha . udIrRe dahataH #}
 [Page1-0848]
-{# SatrUnvanAnIvAgnimArutO ..#} 
-<ls>MBH. 3, 973.</ls> {#BavallabDavarodIrRaH#} ({#mahAsuraH#}) 
-<ls>KUMĀRAS. 2, 32.</ls> 
-<ls>SUŚR. 1, 127, 21. 2, 332, 15.</ls> {#°vega#} 
-<ls>377, 9.</ls> <ls>R. 4, 31, 4. 5, 60, 16.</ls> {#nityamudIrRasattve (nare)#} 
-<ls>MBH. 13, 512.</ls> {#°rAgavftti#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 182, 16.</ls> {%hoch, erhaben%}: {#na hi rAjYAmudIrRAnAmevaMBUtErnarEH kvacit . saKyaM Bavati - SriyA hInErDanacyutEH ..#} 
-<ls>MBH. 1, 5138.</ls> {#rakzasAm#} 
-<ls>R. 3, 28, 21.</ls> = {#udAra#} 
-<ls>H. 367.</ls> Davon nom. abstr. {#udIrRatA#} <lex>f.</lex> {%Erregtheit, Regsamkeit, Behendigkeit%} 
-<ls>SUŚR. 1, 355, 9.</ls> — caus. {%bewirken, dass sich Etwas erhebt, in Bewegung kommt; in die Höhe werfen, schleudern; hervorstecken, hervordrängen; auftreiben, aufregen; erheben%} (die Stimme); {%aussprechen; hervorrufen%}: {#re\BaM guhA^ hi\tamudE^rayatam#} {%herausbringen%} 
-<ls>ṚV. 10, 39, 2.</ls> <ls n="ṚV.">1, 112, 5.</ls> {#vajramastramudIraya#} 
-<ls>MBH. 3, 12173. fg. 4, 1870.</ls> {#so 'nyadastramudIrayat#} 
-<ls>R. 6, 80, 6.</ls> {#kaScitkareRa - udIrayAmAsa salIlamakzAn#} 
-<ls>RAGH. 6, 18.</ls> {#mahAnASIvizaH prAkAraranDreRodErayacCiraH#} 
-<ls>DAŚAK. 121, 14.</ls> {#kusumam - yadaSoko 'yamudIrayizyati#} 
-<ls>RAGH. 8, 61.</ls> {#udI^raya ka\vita^maM ka\vInA^m#} 
-<ls>ṚV. 5, 42, 3.</ls> <ls n="ṚV.">10, 11, 6.</ls> {#udI^mftA\yumI^rayat#} 
-<ls n="ṚV.">8, 68, 6.</ls> {#jAnakI SokasaMtaptA hutASanamudIrayat#} 
-<ls>R. 5, 49, 19.</ls> {#jI\vamu^dI\raya^ntyu\zAH#} 
-<ls>ṚV. 1, 113, 8.</ls> <ls n="ṚV. 1,">117, 24.</ls> {#utpura^MDIrIrayatam#} 
-<ls n="ṚV.">10, 39, 2.</ls> <ls n="ṚV.">8, 7, 3.</ls> {#udI^raya\ prati^ mA sU\natf^H#} 
-<ls n="ṚV.">1, 48, 2.</ls> {#udvAca^mI\raya^ti#} 
-<ls n="ṚV.">9, 72, 1.</ls> <ls n="ṚV.">1, 168, 8.</ls> <ls n="ṚV.">8, 90, 16.</ls> {#ete vAcamudIrayan#} 
-<ls>R. 2, 57, 3.</ls> {#nAlokyAM tAm#} ({#vAcam#}) {#udIrayet#} 
-<ls>M. 2, 161.</ls> 
-<ls>R. 5, 27, 35.</ls> {#sarvaM mantramudIrayan#} 
-<ls>YĀJÑ. 1, 136.</ls> {#brahmaGozam#} 
-<ls>R. 3, 52, 20.</ls> {#udIrayAmAsuH - AlokaSabdam#} 
-<ls>RAGH. 2, 9.</ls> {#uderayat#} (sic) 
-<ls>KATHĀS. 7, 10. 16, 117.</ls> {#ityudIrya#} {%so sprechend%} 
-<ls>VET. 33, 8.</ls> {#udI^rayaTA marutaH samudra\to yU\yaM vf\zwim#} 
-<ls>ṚV. 5, 55, 5.</ls> 
-<ls>TS. 2, 4, 10, 2.</ls> {#vyADimudIrayet#} 
-<ls>SUŚR. 1, 128, 1.</ls> {#tisfBistvamavasTABirmahimAnamudIrayan#} {%an den Tag legend%} 
-<ls>KUMĀRAS. 2, 6.</ls> Als Aorist - Formen hierzu scheinen die folgenden betrachtet werden zu müssen: {#yaste\ BarA\danni^yate ci\danna^M ni\Siza^nma\ndramati^Timu\dIra^t#} {%sich erheben macht%} d. i. {%herbeiruft%} 
-<ls>ṚV. 4, 2, 7.</ls> {#udvanda^namErataM da\MsanA^BiH#} {%brachtet heraus%} (vgl. oben das erste Beisp.) 
-<ls n="ṚV.">1, 118, 6.</ls> — pass.: {#udIryamARamastram#} {%geschleudert%} 
-<ls>R. 1, 55, 22.</ls> {%erregt werden, zum Ausbruch gebracht werden, aufgeregt werden%}: {#KurErudIrito reRuH#} 
-<ls>R. 2, 93, 14.</ls> {#tena pittamudIryate#} 
-<ls>SUŚR. 1, 152, 15. 2, 312, 17.</ls> {#udIryamARA harzeRa DAtrI paramayA mudA#} 
-<ls>R. 2, 7, 9.</ls> {#azwAvakraM cApyudIryantameva#} 
-<ls>MBH. 13, 10671.</ls> {#udIritendriya#} 
-<ls>KUMĀRAS. 4, 41.</ls> {#udIritaDI#} {%von aufgewecktem Verstande%} 
-<ls>PRAB. 14, 14.</ls> {%ertönen, ausgesprochen —, angegeben —, aufgezählt werden%}: {#tato gaREH - udIrito maNgalatUryaGozaH#} 
-<ls>KUMĀRAS. 7, 40.</ls> {#vAk#} 
-<ls>VID. 143.</ls> {#udIrito 'rTaH paSunApi gfhyate#} 
-<ls>PAÑCAT. I, 49.</ls> {#Bugne - eza vAcyaliNga udIryate#} {%wird als adj. angegeben, gilt für ein adj.%} 
-<ls>TRIK. 3, 3, 119.</ls> {#aDyAyAnAM SataM viMSamevametadudIritam#} 
-<ls>SUŚR. 1, 10, 14. 2, 8, 19. 9, 8.</ls>
-
-<div n="p">— {#aByud#} caus. {%erheben, ertönen lassen%} (die Stimme); {%aufregen, reizen%}: {#AstIkastizWa tizWeti vAcastisro 'ByudIrayan#} 
-<ls>MBH. 1, 2170.</ls> {#tatastenEva vegena pittamasyAByudIryate#} 
-<ls>SUŚR. 1, 37, 9.</ls>
-
-<div n="p">— {#samud#} partic. {#samudIrRa#} {%in Bewegung gekommen, in Aufregung gerathen%}: {#sarvataH samudIrRasya tava#} 
-<ls>R. 6, 95, 8.</ls> {#samudIrRamAnasa#} 
-<ls>4, 43, 69. 5, 42, 6.</ls> {#samudIrRA dozAH#} 
-<ls>SUŚR. 2, 190, 21.</ls> {#samudIrRaKaratva#} 
-<ls>1, 261, 2.</ls> — caus. {%in Bewegung versetzen, werfen; aufregen; erheben, ertönen lassen%}: {#brahmAstre samudIrite#} 
-<ls>R. 1, 56, 15. 5, 36, 46.</ls> {#pAMSavo 'pi kurukzetre vAyunA samudIritAH#} 
-<ls>MBH. 3, 5073.</ls> ({#°kzetrAt#}) 
-<ls>7074.</ls> {#manogatAM . vAcam - samudErayat#} 
-<ls>KATHĀS. 24, 41.</ls> {%anregen, aufmerksam machen%}: {#saMpraboDayatyevEnametatsamudIryayati#} (sic) 
-<ls>ŚAT. BR. 2, 2, 3, 21.</ls>
+{# SatrUnvanAnIvAgnimArutO ..#}
+<ls>MBH. 3,973.</ls> {#BavallabDavarodIrRaH#} ({#mahAsuraH#})
+<ls>KUMĀRAS. 2,32.</ls>
+<ls>SUŚR. 1,127,21.</ls> <ls n="SUŚR.">2,332,15.</ls> {#°vega#}
+<ls n="SUŚR. 2,">377,9.</ls> <ls>R. 4,31,4.</ls> <ls n="R.">5,60,16.</ls> {#nityamudIrRasattve (nare)#}
+<ls>MBH. 13,512.</ls> {#°rAgavftti#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 182,16.</ls> {%hoch, erhaben%}: {#na hi rAjYAmudIrRAnAmevaMBUtErnarEH kvacit . saKyaM Bavati — SriyA hInErDanacyutEH ..#}
+<ls>MBH. 1,5138.</ls> {#rakzasAm#}
+<ls>R. 3,28,21.</ls> = {#udAra#}
+<ls>H. 367.</ls> Davon nom. abstr. {#udIrRatA#} <lex>f.</lex> {%Erregtheit, Regsamkeit, Behendigkeit%}
+<ls>SUŚR. 1,355,9.</ls> — caus. {%bewirken, dass sich Etwas erhebt, in Bewegung kommt; in die Höhe werfen, schleudern; hervorstecken, hervordrängen; auftreiben, aufregen; erheben%} (die Stimme); {%aussprechen; hervorrufen%}: {#re\BaM guhA^ hi\tamudE^rayatam#} {%herausbringen%}
+<ls>ṚV. 10,39,2.</ls> <ls n="ṚV.">1,112,5.</ls> {#vajramastramudIraya#}
+<ls>MBH. 3,12173. fg.</ls> <ls n="MBH.">4,1870.</ls> {#so 'nyadastramudIrayat#}
+<ls>R. 6,80,6.</ls> {#kaScitkareRa — udIrayAmAsa salIlamakzAn#}
+<ls>RAGH. 6,18.</ls> {#mahAnASIvizaH prAkAraranDreRodErayacCiraH#}
+<ls>DAŚAK. 121,14.</ls> {#kusumam — yadaSoko 'yamudIrayizyati#}
+<ls>RAGH. 8,61.</ls> {#udI^raya ka\vita^maM ka\vInA^m#}
+<ls>ṚV. 5,42,3.</ls> <ls n="ṚV.">10,11,6.</ls> {#udI^mftA\yumI^rayat#}
+<ls n="ṚV.">8,68,6.</ls> {#jAnakI SokasaMtaptA hutASanamudIrayat#}
+<ls>R. 5,49,19.</ls> {#jI\vamu^dI\raya^ntyu\zAH#}
+<ls>ṚV. 1,113,8.</ls> <ls n="ṚV. 1,">117,24.</ls> {#utpura^MDIrIrayatam#}
+<ls n="ṚV.">10,39,2.</ls> <ls n="ṚV.">8,7,3.</ls> {#udI^raya\ prati^ mA sU\natf^H#}
+<ls n="ṚV.">1,48,2.</ls> {#udvAca^mI\raya^ti#}
+<ls n="ṚV.">9,72,1.</ls> <ls n="ṚV.">1,168,8.</ls> <ls n="ṚV.">8,90,16.</ls> {#ete vAcamudIrayan#}
+<ls>R. 2,57,3.</ls> {#nAlokyAM tAm#} ({#vAcam#}) {#udIrayet#}
+<ls>M. 2,161.</ls>
+<ls>R. 5,27,35.</ls> {#sarvaM mantramudIrayan#}
+<ls>YĀJÑ. 1,136.</ls> {#brahmaGozam#}
+<ls>R. 3,52,20.</ls> {#udIrayAmAsuH — AlokaSabdam#}
+<ls>RAGH. 2,9.</ls> {#uderayat#} (sic)
+<ls>KATHĀS. 7,10.</ls> <ls n="KATHĀS.">16,117.</ls> {#ityudIrya#} {%so sprechend%}
+<ls>VET. 33,8.</ls> {#udI^rayaTA marutaH samudra\to yU\yaM vf\zwim#}
+<ls>ṚV. 5,55,5.</ls>
+<ls>TS. 2,4,10,2.</ls> {#vyADimudIrayet#}
+<ls>SUŚR. 1,128,1.</ls> {#tisfBistvamavasTABirmahimAnamudIrayan#} {%an den Tag legend%}
+<ls>KUMĀRAS. 2,6.</ls> Als Aorist — Formen hierzu scheinen die folgenden betrachtet werden zu müssen: {#yaste\ BarA\danni^yate ci\danna^M ni\Siza^nma\ndramati^Timu\dIra^t#} {%sich erheben macht%} <ab>d. i.</ab> {%herbeiruft%}
+<ls>ṚV. 4,2,7.</ls> {#udvanda^namErataM da\MsanA^BiH#} {%brachtet heraus%} (vgl. oben das erste Beisp.)
+<ls n="ṚV.">1,118,6.</ls> — pass.: {#udIryamARamastram#} {%geschleudert%}
+<ls>R. 1,55,22.</ls> {%erregt werden, zum Ausbruch gebracht werden, aufgeregt werden%}: {#KurErudIrito reRuH#}
+<ls>R. 2,93,14.</ls> {#tena pittamudIryate#}
+<ls>SUŚR. 1,152,15.</ls> <ls n="SUŚR.">2,312,17.</ls> {#udIryamARA harzeRa DAtrI paramayA mudA#}
+<ls>R. 2,7,9.</ls> {#azwAvakraM cApyudIryantameva#}
+<ls>MBH. 13,10671.</ls> {#udIritendriya#}
+<ls>KUMĀRAS. 4,41.</ls> {#udIritaDI#} {%von aufgewecktem Verstande%}
+<ls>PRAB. 14,14.</ls> {%ertönen, ausgesprochen —, angegeben —, aufgezählt werden%}: {#tato gaREH — udIrito maNgalatUryaGozaH#}
+<ls>KUMĀRAS. 7,40.</ls> {#vAk#}
+<ls>VID. 143.</ls> {#udIrito 'rTaH paSunApi gfhyate#}
+<ls>PAÑCAT. I,49.</ls> {#Bugne — eza vAcyaliNga udIryate#} {%wird als adj. angegeben, gilt für ein adj.%}
+<ls>TRIK. 3,3,119.</ls> {#aDyAyAnAM SataM viMSamevametadudIritam#}
+<ls>SUŚR. 1,10,14. 2,8,19. 9,8.</ls>
+<div n="p">— {#aByud#} caus. {%erheben, ertönen lassen%} (die Stimme); {%aufregen, reizen%}: {#AstIkastizWa tizWeti vAcastisro 'ByudIrayan#}
+<ls>MBH. 1,2170.</ls> {#tatastenEva vegena pittamasyAByudIryate#}
+<ls>SUŚR. 1,37,9.</ls>
+<div n="p">— {#samud#} partic. {#samudIrRa#} {%in Bewegung gekommen, in Aufregung gerathen%}: {#sarvataH samudIrRasya tava#}
+<ls>R. 6,95,8.</ls> {#samudIrRamAnasa#}
+<ls n="R.">4,43,69.</ls> <ls n="R.">5,42,6.</ls> {#samudIrRA dozAH#}
+<ls>SUŚR. 2,190,21.</ls> {#samudIrRaKaratva#}
+<ls n="SUŚR.">1,261,2.</ls> — caus. {%in Bewegung versetzen, werfen; aufregen; erheben, ertönen lassen%}: {#brahmAstre samudIrite#}
+<ls>R. 1,56,15.</ls> <ls n="R.">5,36,46.</ls> {#pAMSavo 'pi kurukzetre vAyunA samudIritAH#}
+<ls>MBH. 3,5073.</ls> ({#°kzetrAt#})
+<ls n="MBH. 3,">7074.</ls> {#manogatAM . vAcam — samudErayat#}
+<ls>KATHĀS. 24,41.</ls> {%anregen, aufmerksam machen%}: {#saMpraboDayatyevEnametatsamudIryayati#} (sic)
+<ls>ŚAT. BR. 2,2,3,21.</ls>
 [Page1-0849]
-
-<div n="p">— {#ni#} caus. 
-<div n="1"> 1) {%hineintreiben, vorwärtsbringen%} (zu einem Ziel): {#u\tAdaH pa^ru\ze gavi\ sUra^Sca\kraM hi^ra\Ryaya^m . nyE^rayadra\TIta^maH#} 
-<ls>ṚV. 6, 56, 3.</ls> {#ye tve kAma^M nyeri\re#} {%die ihr Begehren an dich gebracht haben%} 
-<ls n="ṚV.">8, 19, 18.</ls> 
-<div n="1">— 2) {%aussenden, aufstellen%} (zu einem Geschäft), in der öfters gebrauchten Redensart: {#tvAM hya^gne\ sadamitsa^ma\nya vo^ de\vAso^ de\vama^ra\tiM nye^ri\re#} 
-<ls>ṚV. 4, 1, 1.</ls> {#yaM de\vA dU\tama^ra\tiM nye^ri\re#} 
-<ls n="ṚV.">8, 19, 21.</ls> {#a\ra\tiM nye^rire havya\vAha\M nye^rire#} (<is>Padap</is>.: {#ni . e\ri\re\#}) 
-<ls n="ṚV.">1, 128, 8.</ls> <ls n="ṚV.">2, 2, 3.</ls>
-
-<div n="p">— {#pra#} {%sich in Bewegung setzen, hervorkommen; zum Vorschein kommen, erstehen; ausgehen%} (vom Schall u. s. w.): {#yasya^ te\ viSvA\ Buva^nAni ke\tunA\ pra cera^te\ ni ca^ vi\Sante^ a\ktuBi^H#} 
-<ls>ṚV. 10, 37, 9.</ls> 
-<ls>AV. 4, 25, 3.</ls> {#pra viprA^RAM ma\tayo\ vAca^ Irate#} 
-<ls>ṚV. 9, 85, 7.</ls> {#pra ma^nI\zA I^rate\ soma\macCa^#} 
-<ls n="ṚV. 9,">95, 3.</ls> {#pra bu\DnyA^ va Irate\ mahA^Msi#} 
-<ls n="ṚV.">7, 56, 14.</ls> {#pra DanvA^nyErata#} 
-<ls n="ṚV.">8, 20, 4.</ls> {#yatprEra^ta nAma\Deya\M daDA^nAH#} 
-<ls n="ṚV.">10, 71, 1.</ls> <ls>TS. 2, 2, 2, 3.</ls> {#paSavo vE pUzA ta etasya prasave prerate#} 
-<ls>ŚAT. BR. 9, 2, 3, 12.</ls> — caus. act. {%vorwärtsdrängen; entsenden; hervortreiben, hervorgehen lassen; hervorbringen%} (einen Schall); {%antreiben, befördern%} (nach einem Ziel): {#nAva\M pra yatsa^mu\dramI\rayA^va\ maDya^m#} 
-<ls>ṚV. 7, 88, 3.</ls> <ls n="ṚV.">10, 116, 9.</ls> {#prArRA^MsyErayataM na\dInA^m#} 
-<ls n="ṚV.">6, 72, 3.</ls> {#a\paH prera^ya\ saga^rasya bu\DnAt#} 
-<ls n="ṚV.">10, 89, 4.</ls> <ls>AV. 10, 2, 26.</ls> {#sa prerayati mArutam#} 
-<ls>ŚIKṢĀ 6.</ls> {#aDaH prerita#} 
-<ls>SUŚR. 1, 256, 18.</ls> {#tamupAdravadudyamya dakziRaM dorniSAcaraH . ekatAla ivotpAtapavanaprerito giriH ..#} 
-<ls>RAGH. 15, 23.</ls> {#prerayantI tataScakzuH sugrIvaM sA dadarSa ca#} 
-<ls>R. 4, 19, 33.</ls> {#anyato nayane prerayantI#} 
-<ls>ŚĀK. 35, v. l.</ls> {#tatastataH preritavAmalocanA#} 
-<ls>23</ls>, v.l. {#prAgnaye\ vAca^mIraya#} 
-<ls>ṚV. 10, 187, 1.</ls> {#pra pa\rjanya^mIrayA vfzwi\manta^m#} 
-<ls n="ṚV. 10,">98, 8.</ls> {#tAnprera^ya\ sve a^gne sa\DasTe^#} 
-<ls>VS. 8, 19.</ls> {#prera^ya\ sUro\ arTa\M na pA\ram#} 
-<ls>ṚV. 10, 29, 5.</ls> {#su\vf\ktiM prera^ya Si\vata^mAya pa\SvaH#} 
-<ls n="ṚV.">8, 85, 10.</ls> {#AtmAnamapi ca krudDaH prerayedyamasAdanam#} 
-<ls>MBH. 3, 1070.</ls> {#prerayASvAn#} 
-<ls>ŚĀK. 7, 20, v. l.</ls> {#lakzmaRaM prerayediha#} 
-<ls>R. 3, 50, 23.</ls> {#kimuddiSya kASyapena matsakASamfzayaH preritAH syuH#} 
-<ls>ŚĀK. 62, 16.</ls> {#kurvantaM prerayati = kArayati#} 
-<ls>P. 3, 1, 26,</ls> 
-<ls>Sch. 1, 4, 52,</ls> 
-<ls>Sch.</ls> {#yAtrAyE prerayAmAsa#} 
-(<ls>ST.</ls>: {#codayAmAsa#}) {#taM SakteH praTamaM Sarat#} 
-<ls>RAGH.</ls> (ed. Calc.) 
-<ls>4, 24.</ls> <ls>MBH. 5, 72.</ls> <ls>R. 3, 8, 16.</ls> {#preryamARaH sa tadguREH#} 
-<ls>KATHĀS. 10, 212.</ls> {#prerito 'BUtsvabanDuBiH . kawAhadvIpagamane guhaseno baRijyayA#} 
-<ls>13, 74. 76.</ls> <ls>VID. 150.</ls> {#preritAScandrapAdEH - candrakAntAH#} {%erregt%} 
+<div n="p">— {#ni#} caus.
+<div n="1"> 1) {%hineintreiben, vorwärtsbringen%} (zu einem Ziel): {#u\tAdaH pa^ru\ze gavi\ sUra^Sca\kraM hi^ra\Ryaya^m . nyE^rayadra\TIta^maH#}
+<ls>ṚV. 6,56,3.</ls> {#ye tve kAma^M nyeri\re#} {%die ihr Begehren an dich gebracht haben%}
+<ls n="ṚV.">8,19,18.</ls>
+<div n="1">— 2) {%aussenden, aufstellen%} (zu einem Geschäft), in der öfters gebrauchten Redensart: {#tvAM hya^gne\ sadamitsa^ma\nya vo^ de\vAso^ de\vama^ra\tiM nye^ri\re#}
+<ls>ṚV. 4,1,1.</ls> {#yaM de\vA dU\tama^ra\tiM nye^ri\re#}
+<ls n="ṚV.">8,19,21.</ls> {#a\ra\tiM nye^rire havya\vAha\M nye^rire#} (<is>Padap</is>.: {#ni . e\ri\re\#})
+<ls n="ṚV.">1,128,8.</ls> <ls n="ṚV.">2,2,3.</ls>
+<div n="p">— {#pra#} {%sich in Bewegung setzen, hervorkommen; zum Vorschein kommen, erstehen; ausgehen%} (vom Schall u. s. w.): {#yasya^ te\ viSvA\ Buva^nAni ke\tunA\ pra cera^te\ ni ca^ vi\Sante^ a\ktuBi^H#}
+<ls>ṚV. 10,37,9.</ls>
+<ls>AV. 4,25,3.</ls> {#pra viprA^RAM ma\tayo\ vAca^ Irate#}
+<ls>ṚV. 9,85,7.</ls> {#pra ma^nI\zA I^rate\ soma\macCa^#}
+<ls n="ṚV. 9,">95,3.</ls> {#pra bu\DnyA^ va Irate\ mahA^Msi#}
+<ls n="ṚV.">7,56,14.</ls> {#pra DanvA^nyErata#}
+<ls n="ṚV.">8,20,4.</ls> {#yatprEra^ta nAma\Deya\M daDA^nAH#}
+<ls n="ṚV.">10,71,1.</ls> <ls>TS. 2,2,2,3.</ls> {#paSavo vE pUzA ta etasya prasave prerate#}
+<ls>ŚAT. BR. 9,2,3,12.</ls> — caus. act. {%vorwärtsdrängen; entsenden; hervortreiben, hervorgehen lassen; hervorbringen%} (einen Schall); {%antreiben, befördern%} (nach einem Ziel): {#nAva\M pra yatsa^mu\dramI\rayA^va\ maDya^m#}
+<ls>ṚV. 7,88,3.</ls> <ls n="ṚV.">10,116,9.</ls> {#prArRA^MsyErayataM na\dInA^m#}
+<ls n="ṚV.">6,72,3.</ls> {#a\paH prera^ya\ saga^rasya bu\DnAt#}
+<ls n="ṚV.">10,89,4.</ls> <ls>AV. 10,2,26.</ls> {#sa prerayati mArutam#}
+<ls>ŚIKṢĀ 6.</ls> {#aDaH prerita#}
+<ls>SUŚR. 1,256,18.</ls> {#tamupAdravadudyamya dakziRaM dorniSAcaraH . ekatAla ivotpAtapavanaprerito giriH ..#}
+<ls>RAGH. 15,23.</ls> {#prerayantI tataScakzuH sugrIvaM sA dadarSa ca#}
+<ls>R. 4,19,33.</ls> {#anyato nayane prerayantI#}
+<ls>ŚĀK. 35, v. l.</ls> {#tatastataH preritavAmalocanA#}
+<ls n="ŚĀK.">23, v.l.</ls> {#prAgnaye\ vAca^mIraya#}
+<ls>ṚV. 10,187,1.</ls> {#pra pa\rjanya^mIrayA vfzwi\manta^m#}
+<ls n="ṚV. 10,">98,8.</ls> {#tAnprera^ya\ sve a^gne sa\DasTe^#}
+<ls>VS. 8,19.</ls> {#prera^ya\ sUro\ arTa\M na pA\ram#}
+<ls>ṚV. 10,29,5.</ls> {#su\vf\ktiM prera^ya Si\vata^mAya pa\SvaH#}
+<ls n="ṚV.">8,85,10.</ls> {#AtmAnamapi ca krudDaH prerayedyamasAdanam#}
+<ls>MBH. 3,1070.</ls> {#prerayASvAn#}
+<ls>ŚĀK. 7,20, v. l.</ls> {#lakzmaRaM prerayediha#}
+<ls>R. 3,50,23.</ls> {#kimuddiSya kASyapena matsakASamfzayaH preritAH syuH#}
+<ls>ŚĀK. 62,16.</ls> {#kurvantaM prerayati = kArayati#}
+<ls>P. 3,1,26</ls>, <ls>Sch. 1,4,52</ls>,
+<ls>Sch.</ls>
+{#yAtrAyE prerayAmAsa#}
+(ST.: {#codayAmAsa#}) {#taM SakteH praTamaM Sarat#}
+<ls>RAGH. (ed. Calc.) 4,24.</ls>
+<ls>MBH. 5,72.</ls> <ls>R. 3,8,16.</ls> {#preryamARaH sa tadguREH#}
+<ls>KATHĀS. 10,212.</ls> {#prerito 'BUtsvabanDuBiH . kawAhadvIpagamane guhaseno baRijyayA#}
+<ls n="KATHĀS.">13,74.</ls> <ls n="KATHĀS. 13,">76.</ls> <ls>VID. 150.</ls> {#preritAScandrapAdEH — candrakAntAH#} {%erregt%}
 <ls>MEGH. 71.</ls>
-
-<div n="p">— {#aBipra#} caus. pass. {%vorwärts getrieben werden%} 
-<ls>SUŚR. 1, 320, 20.</ls>
-
-<div n="p">— {#saMpra#} {%sich zusammen erheben%}: {#saM prera^te\ anu\ vAta^sya vi\zWAH#} 
-<ls>ṚV. 10, 168, 2.</ls> {#niSi^tAyA\M hi rakzA^Msi pre\rate^ sa\MprerRA^nye\vEnA^ni hanti#} 
-<ls>TS. 2, 2, 2, 3.</ls> — caus. {%vorwärts drängen, stossen%}: {#kUpopakaRWe viSrAnto brAhmaRastayA - saMprerya kUpAntaH pAtitaH#} 
-<ls>PAÑCAT. 222, 2.</ls>
-
-<div n="p">— {#prati#} caus. {%aufsetzen%}: {#Sira\H pratyE^rayatam#} 
-<ls>ṚV. 1, 117, 22.</ls>
-
-<div n="p">— {#vi#} caus. act. {%auseinandertreiben; eröffnen, zerbrechen; zertheilen%}: {#pu\ra\Mda\ro dAsI^rEraya\dvi (puraH)#} 
-<ls>ṚV. 2, 20, 7.</ls> <ls n="ṚV.">1, 51, 11.</ls> {#tre\DA sa\hasra\M vi tadE^rayeTAm#} 
-<ls n="ṚV.">6, 69, 8.</ls> {#indro\ vi vf\tramE^rayat#} 
-<ls n="ṚV.">8, 65, 3.</ls> {#vi goBi\radri^mErayat#} 
-<ls n="ṚV.">1, 7, 3.</ls> aor.: {#a\haM puro^ mandasA\no vyE^ram#} 
-<ls n="ṚV.">4, 26, 3.</ls> <ls n="ṚV.">2, 19, 6.</ls> {#vi parva^tasya dfMhi\tAnyE^rat#} 
-<ls n="ṚV. 2,">15, 8.</ls>
-
-<div n="p">— {#sam#} partic. {#samIrRa#} 
-<ls>P. 7, 1, 102,</ls> 
-<ls>Sch.</ls> (auf {#F#} zurückgeführt). — caus. act. med. 
-<div n="1"> 1) {%in Bewegung setzen, aufjagen; hervorbringen%} (einen Laut u. s. w.): {#samIrayanBuvanA mAtariSvA#} 
-<ls>TAITT. BR. 3, 1, 1, 13.</ls> {#samIrayAM cakArATa rAkzasasya kapiH SilAm#} 
-<ls>BHAṬṬ. 14, 111.</ls> {#tarugaRAnmArutena samIritAn#} 
-<ls>R. 5, 16, 45.</ls> 
-<ls>MBH. 1, 5882.</ls> {#tejaH samIritam#} 
-<ls>SUŚR. 1, 51, 4.</ls> 
-<ls>NIR. 4, 13. 5, 25. 6, 15.</ls> {#tABirABaraREH SabdastrAsitABiH samIritaH#} 
-<ls>MBH. 3, 12185.</ls> {#mayA ca yadidaM vAkyam - samIritam#} 
-<ls>R. 4, 6, 21. 61, 28. 6, 103, 1.</ls> 
-<ls>SĀV. 5, 36.</ls> 
-<ls>RAGH. 3, 47.</ls> 
+<div n="p">— {#aBipra#} caus. pass. {%vorwärts getrieben werden%}
+<ls>SUŚR. 1,320,20.</ls>
+<div n="p">— {#saMpra#} {%sich zusammen erheben%}: {#saM prera^te\ anu\ vAta^sya vi\zWAH#}
+<ls>ṚV. 10,168,2.</ls> {#niSi^tAyA\M hi rakzA^Msi pre\rate^ sa\MprerRA^nye\vEnA^ni hanti#}
+<ls>TS. 2,2,2,3.</ls> — caus. {%vorwärts drängen, stossen%}: {#kUpopakaRWe viSrAnto brAhmaRastayA — saMprerya kUpAntaH pAtitaH#}
+<ls>PAÑCAT. 222,2.</ls>
+<div n="p">— {#prati#} caus. {%aufsetzen%}: {#Sira\H pratyE^rayatam#}
+<ls>ṚV. 1,117,22.</ls>
+<div n="p">— {#vi#} caus. act. {%auseinandertreiben; eröffnen, zerbrechen; zertheilen%}: {#pu\ra\Mda\ro dAsI^rEraya\dvi (puraH)#}
+<ls>ṚV. 2,20,7.</ls> <ls n="ṚV.">1,51,11.</ls> {#tre\DA sa\hasra\M vi tadE^rayeTAm#}
+<ls n="ṚV.">6,69,8.</ls> {#indro\ vi vf\tramE^rayat#}
+<ls n="ṚV.">8,65,3.</ls> {#vi goBi\radri^mErayat#}
+<ls n="ṚV.">1,7,3.</ls> aor.: {#a\haM puro^ mandasA\no vyE^ram#}
+<ls n="ṚV.">4,26,3.</ls> <ls n="ṚV.">2,19,6.</ls> {#vi parva^tasya dfMhi\tAnyE^rat#}
+<ls n="ṚV. 2,">15,8.</ls>
+<div n="p">— {#sam#} partic. {#samIrRa#}
+<ls>P. 7,1,102</ls>, <ls>Sch.</ls>
+(auf {#F#} zurückgeführt). — caus. act. med.
+<div n="1"> 1) {%in Bewegung setzen, aufjagen; hervorbringen%} (einen Laut u. s. w.): {#samIrayanBuvanA mAtariSvA#}
+<ls>TAITT. BR. 3,1,1,13.</ls> {#samIrayAM cakArATa rAkzasasya kapiH SilAm#}
+<ls>BHAṬṬ. 14,111.</ls> {#tarugaRAnmArutena samIritAn#}
+<ls>R. 5,16,45.</ls>
+<ls>MBH. 1,5882.</ls> {#tejaH samIritam#}
+<ls>SUŚR. 1,51,4.</ls>
+<ls>NIR. 4,13. 5,25. 6,15.</ls> {#tABirABaraREH SabdastrAsitABiH samIritaH#}
+<ls>MBH. 3,12185.</ls> {#mayA ca yadidaM vAkyam — samIritam#}
+<ls>R. 4,6,21.</ls> <ls n="R. 4,">61,28.</ls> <ls n="R.">6,103,1.</ls>
+<ls>SĀV. 5,36.</ls>
+<ls>RAGH. 3,47.</ls>
 <div n="1">— 2) {%zusammenbringen, zu Stande bringen; in's Leben rufen, entstehen%}
 [Page1-0850]
-{%lassen%}: {#ma\hI samE^racca\mvA^ samI\cI#} 
-<ls>ṚV. 3, 55, 20.</ls> {#samE^raya\M roda^sI DA\raya^M ca#} 
-<ls n="ṚV.">4, 42, 3.</ls> {#de\vA garBa\M samE^rayan#} 
-<ls>AV. 1, 11, 2. 4, 2, 8.</ls> {#sUrya^m#} 
-<ls>3, 31, 7.</ls> {#ka\Syapa\stvAma^sfjata ka\Syapa^stvA\ samE^rayat#} 
-<ls>8, 5, 14. 2, 5. 15, 1, 1. 19, 54, 1.</ls> <ls>SV. I, 5, 2, 3, 2.</ls> {%Jmd mit Etwas ausstatten%}: {#prA\RenA^gne\ cakzu^zA\ saM sf^je\maM samI^raya ta\nvA\3^\ saM bale^na#} 
-<ls>AV. 5, 30, 14.</ls> 
-<ls>ŚAT. BR. 3, 5, 1, 31. 8, 2, 6. 14, 1, 3, 31.</ls> {%wiederbeleben%}: {#yAnevEzAM tasminsaMgrAme 'GnaMstAnpitfyajYena samErayanta#} 
-<ls>2, 6, 1, 1. 2.</ls> 
-<div n="1">— 3) {%verleihen%}: {#sami^ndreraya\ gAma^na\qvAha\M ya Ava^ha\dana^H#} 
-<ls>ṚV. 10, 59, 10.</ls> {#vA\maM pi\tfByo\ ya i\daM sa^meri\re#} 
-(<ls>AV.</ls> {#I\ri\re#}) {#maya\H pati^Byo\ jana^yaH pari\zvaje^#} 
-<ls>40, 10.</ls> {#AditsaKi^ByaSca\raTa\M samE^rat#} 
-<ls>3, 31, 15.</ls>
-
-<div n="p">— {#aBisam#} caus. {%in Bewegung setzen%}: {#kadalI vAtenABisamIritA#} 
-<ls>MBH. 10, 579.</ls>
+{%lassen%}: {#ma\hI samE^racca\mvA^ samI\cI#}
+<ls>ṚV. 3,55,20.</ls> {#samE^raya\M roda^sI DA\raya^M ca#}
+<ls n="ṚV.">4,42,3.</ls> {#de\vA garBa\M samE^rayan#}
+<ls>AV. 1,11,2.</ls> <ls n="AV.">4,2,8.</ls> {#sUrya^m#}
+<ls n="AV.">3,31,7.</ls> {#ka\Syapa\stvAma^sfjata ka\Syapa^stvA\ samE^rayat#}
+<ls n="AV.">8,5,14.</ls> <ls n="AV. 8,">2,5.</ls> <ls n="AV.">15,1,1.</ls> <ls n="AV.">19,54,1.</ls> <ls>SV. I,5,2,3,2.</ls> {%Jmd mit Etwas ausstatten%}: {#prA\RenA^gne\ cakzu^zA\ saM sf^je\maM samI^raya ta\nvA\3^\ saM bale^na#}
+<ls>AV. 5,30,14.</ls>
+<ls>ŚAT. BR. 3,5,1,31.</ls> <ls n="ŚAT. BR. 3,">8,2,6.</ls> <ls n="ŚAT. BR.">14,1,3,31.</ls> {%wiederbeleben%}: {#yAnevEzAM tasminsaMgrAme 'GnaMstAnpitfyajYena samErayanta#}
+<ls n="ŚAT. BR.">2,6,1,1.</ls> <ls n="ŚAT. BR. 2,6,1,">2.</ls>
+<div n="1">— 3) {%verleihen%}: {#sami^ndreraya\ gAma^na\qvAha\M ya Ava^ha\dana^H#}
+<ls>ṚV. 10,59,10.</ls> {#vA\maM pi\tfByo\ ya i\daM sa^meri\re#}
+(<ls>AV.</ls> {#I\ri\re#}) {#maya\H pati^Byo\ jana^yaH pari\zvaje^#}
+<ls n="ṚV. 10,">40,10.</ls> {#AditsaKi^ByaSca\raTa\M samE^rat#}
+<ls n="ṚV.">3,31,15.</ls>
+<div n="p">— {#aBisam#} caus. {%in Bewegung setzen%}: {#kadalI vAtenABisamIritA#}
+<ls>MBH. 10,579.</ls>
 <LEND>

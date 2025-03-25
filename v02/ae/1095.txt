@@ -1,10 +1,10 @@
 <L>1095<pc>038<k1>board<k2>board
 {@Board,@}¦ {%s.%} {#PalakaH-kaM; BojanAsanaM, kAzWaKaMqaM#}. {@2@}
-<div n="lb"/>{#grAsaH, BojanaM, AhAraH#}. {@3@} {#saBA, parizad#} {%f.,%}
-<div n="lb"/>{#samAjaH, gaRaH, vargaH#}. {@4@} {#nOkAtalaM-pfzWaM;#} ‘to go
-<div n="lb"/>on b. a ship’ {#potaM A-aDi-ruh#} 1 P; ‘on
-<div n="lb"/>b.’ {#nOkArUQa#} {%a.,%} {#nOtale#}. {@5@} {#azwApadaM, SAri-#}
-<div n="lb"/>{#-PalaM#}. {%-v. t.%} {#balAt nAvaM Aruh#} 1 P. {@2@} {#PalakEH#}
-<div n="lb"/>{#Astf-stF#} 5, 9 U. {@-er,@} {%s.%} {#nirUpitamUlyena#}
-<div n="lb"/>{#Bokta#} {%m.%}
+{#grAsaH, BojanaM, AhAraH#}. {@3@} {#saBA, parizad#} {%f.,%}
+{#samAjaH, gaRaH, vargaH#}. {@4@} {#nOkAtalaM-pfzWaM;#} ‘to go
+on b. a ship’ {#potaM A-aDi-ruh#} 1 P; ‘on
+b.’ {#nOkArUQa#} {%a.,%} {#nOtale#}. {@5@} {#azwApadaM, SAri-#}
+{#-PalaM#}. {%-v. t.%} {#balAt nAvaM Aruh#} 1 P. {@2@} {#PalakEH#}
+{#Astf-stF#} 5, 9 U. {@-er,@} {%s.%} {#nirUpitamUlyena#}
+{#Bokta#} {%m.%}
 <LEND>

@@ -1,19 +1,19 @@
 <L>7939<pc>342<k1>piece<k2>piece
 {@Piece,@}¦ {%s.%} {#KaMqaH-qaM, viBAgaH; aMSaH, lavaH,#}
-<div n="lb"/>{#SakalaH-laM, vi-, dalaM, BinnaM#}. {@2@} {#racanA, pra-, baMDaH,#}
-<div n="lb"/>‘to break in p s’ {#SakalIkf#} 8 U, {#KaMqaSaH#}
-<div n="lb"/>{#kf, KaMq#} 10; ‘to fall to p. s’ {#vi-, dal,#} 1 P;
-<div n="lb"/>‘p. of poetry’ {#kAvyaprabaMDaH, kavitA;#} ‘p.
-<div n="lb"/>of work’ {#kAryaM;#} ‘p. of money’ {#mudrA;#}
-<div n="lb"/>‘p. of water’ {#jalADAraH, jalASayaH;#}
-<div n="lb"/>‘in p. s’ {#KaMqaSaH, lavaSaH;#} ‘p. at chess’
-<div n="lb"/>{#SA#} ({#sA#}) {#riH-raH;#} ‘a p. to each’ {#ekEkaM,#}
-<div n="lb"/>{#pratyekaM, pfTak pfTak;#} ‘what a p. of work
-<div n="lb"/>in man’ {#aho nirmARaviSezaH narajIvaH;#} ‘of
-<div n="lb"/>a p.’ {#ekarUpa-prakAra;#} ‘of a p. with’
-<div n="lb"/>{#sadfSa#} ({#SI#} {%f.%}), {#anurUpa-;#} {%See%} {@Like.@} {%-v. t.%}
-<div n="lb"/>{#saMyuj#} 7 U, 10, {#saMDA- samADA#}-3 U. {@-less,@}
-<div n="lb"/>{%a.%} {#aKaMqa#}. {@-Piecemeal,@} {%adv.%} {#KaMqaSaH,#}
-<div n="lb"/>{#lavaSaH, BAgaSaH, KaMqaM KaMqaM, pfTak pfTak#}. {%-a.%}
-<div n="lb"/>{#BAgin, KaMqa#} in comp.
+{#SakalaH-laM, vi-, dalaM, BinnaM#}. {@2@} {#racanA, pra-, baMDaH,#}
+‘to break in p s’ {#SakalIkf#} 8 U, {#KaMqaSaH#}
+{#kf, KaMq#} 10; ‘to fall to p. s’ {#vi-, dal,#} 1 P;
+‘p. of poetry’ {#kAvyaprabaMDaH, kavitA;#} ‘p.
+of work’ {#kAryaM;#} ‘p. of money’ {#mudrA;#}
+‘p. of water’ {#jalADAraH, jalASayaH;#}
+‘in p. s’ {#KaMqaSaH, lavaSaH;#} ‘p. at chess’
+{#SA#} ({#sA#}) {#riH-raH;#} ‘a p. to each’ {#ekEkaM,#}
+{#pratyekaM, pfTak pfTak;#} ‘what a p. of work
+in man’ {#aho nirmARaviSezaH narajIvaH;#} ‘of
+a p.’ {#ekarUpa-prakAra;#} ‘of a p. with’
+{#sadfSa#} ({#SI#} {%f.%}), {#anurUpa-;#} {%See%} {@Like.@} {%-v. t.%}
+{#saMyuj#} 7 U, 10, {#saMDA- samADA#}-3 U. {@-less,@}
+{%a.%} {#aKaMqa#}. {@-Piecemeal,@} {%adv.%} {#KaMqaSaH,#}
+{#lavaSaH, BAgaSaH, KaMqaM KaMqaM, pfTak pfTak#}. {%-a.%}
+{#BAgin, KaMqa#} in comp.
 <LEND>

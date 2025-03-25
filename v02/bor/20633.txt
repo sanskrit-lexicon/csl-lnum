@@ -1,5 +1,5 @@
 <L>20633<pc>647<k1>situation<k2>situation
-<div n="lb"/>{@SITUATION:@}¦ <div n="I">I Location: </div><div n="1">(1) {#niveSaH, -nam, #}
-<div n="lb"/>{# saM-;#} </div><div n="1">(2) {#saMsTAnam#} <div n="xe">{%or%}</div> <div n="xs">{#avasTAnam#}</div> ({#sTitiH#}). </div><div n="I">II
-<div n="lb"/>Post, employment: q. v.: {#padam.#}</div>
+{@SITUATION:@}¦ <div n="I">I Location: </div><div n="1">(1) {#niveSaH, -nam, #}
+{# saM-;#} </div><div n="1">(2) {#saMsTAnam#} <div n="xe">{%or%}</div> <div n="xs">{#avasTAnam#}</div> ({#sTitiH#}). </div><div n="I">II
+Post, employment: q. v.: {#padam.#}</div>
 <LEND>

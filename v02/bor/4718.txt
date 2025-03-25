@@ -1,4 +1,4 @@
 <L>4718<pc>153<k1>cookery<k2>cookery
-<div n="lb"/>{@COOKERY:@}¦ {#pAkakalA.#} <div n="xe">{%C. book:%}</div> <div n="xs">{#pAkaSAstram,#}</div> Bha.;
-<div n="lb"/><div n="xe">{%skilled in c.:%}</div> <div n="xs">{#pAkapaRqitaH,#}</div> Bha.
+{@COOKERY:@}¦ {#pAkakalA.#} <div n="xe">{%C. book:%}</div> <div n="xs">{#pAkaSAstram,#}</div> Bha.;
+<div n="xe">{%skilled in c.:%}</div> <div n="xs">{#pAkapaRqitaH,#}</div> Bha.
 <LEND>

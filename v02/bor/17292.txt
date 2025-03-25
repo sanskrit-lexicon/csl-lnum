@@ -1,7 +1,7 @@
 <L>17292<pc>529<k1>poem<k2>poem
-<div n="lb"/>{@POEM:@}¦ <div n="1">(1) {#kAvyam,#} <div n="xe">{%composer of p. s:%}</div> <div n="xs">{#kartA kAvyAnAm,#}</div>
-<div n="lb"/>D.; <div n="xe">{%a short p.:%}</div> <div n="xs">{#KaRqakAvyam,#}</div> Sah.; </div><div n="1">(2) {#kAvya-#}
-<div n="lb"/>{#prabanDaH,#} <div n="xe">{%by writing p. s:%}</div> <div n="xs">{#kAvyaprabanDaracanena,#}</div> K.;</div>
-<div n="lb"/><div n="1">(3) {#campUH#} (a p. interspersed with prose), <div n="xe">{%to%}
-<div n="lb"/>{%string it:%}</div> <div n="xs">{#campUM gumPati,#}</div> Ch.: v. Poetry, verse.</div>
+{@POEM:@}¦ <div n="1">(1) {#kAvyam,#} <div n="xe">{%composer of p. s:%}</div> <div n="xs">{#kartA kAvyAnAm,#}</div>
+D.; <div n="xe">{%a short p.:%}</div> <div n="xs">{#KaRqakAvyam,#}</div> Sah.; </div><div n="1">(2) {#kAvya-#}
+{#prabanDaH,#} <div n="xe">{%by writing p. s:%}</div> <div n="xs">{#kAvyaprabanDaracanena,#}</div> K.;</div>
+<div n="1">(3) {#campUH#} (a p. interspersed with prose), <div n="xe">{%to%}
+{%string it:%}</div> <div n="xs">{#campUM gumPati,#}</div> Ch.: v. Poetry, verse.</div>
 <LEND>

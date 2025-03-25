@@ -1,3 +1,5 @@
-<L>242242<pc>1205,1<k1>sAmaga<k2>sAma—ga<e>3
-<s>sAma—ga</s> or <s>sAma—gA/</s>, <lex>m.</lex> a <ns>Brāhman</ns> who chants or recites the <ab n="Sāma-veda" slp1="sAma-veda">S°</ab>, <ls>RV.</ls> &c. &c.<info or="242242,sAmaga;242246,sAmagA"/><info lex="m"/>
+<L>242242<pc>1205,1<k1>sAmaga<k2>sAma—ga/<e>3
+<s>sAma—ga/</s> or <s>sAma—gA/</s>, ¦ <lex>m.</lex> a <ns>Brāhman</ns> who chants or recites the <s1 n="Sāma-veda">S°</s1>, <ls>RV.</ls> &c. &c.;
+<div n="P"/> (<s>I</s>), <lex>f.</lex> the wife of a <s1 n="Sāma-veda">S°</s1> <ns>Brāhman</ns>, <ls>L.</ls>;
+<div n="P"/> <s>-gAnAM Candas</s>, <lex>n.</lex> a <s1>Pariśiṣṭa</s1> of the <s1>Sāma-veda</s1>;<info lex="m"/>
 <LEND>

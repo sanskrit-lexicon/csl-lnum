@@ -1,11 +1,11 @@
 <L>64417<pc>5-1018<k1>aBijita<k2>aBijita
-{#aBijita#}¦ 
-<div n="1"> 1) = {#aBijit#} 
-<ls>3</ls>): {#aBijite yoge#} 
-<ls>MBH. 13, 3278.</ls> 
-<ls>HARIV. 3248.</ls> 
-<div n="1">— 2) = {#aBijit#} 
-<ls>4</ls>): {#muhUrte 'Bijite 'zwame#} 
-<ls>MBH. 1, 4764.</ls> 
+{#aBijita#}¦
+<div n="1"> 1) = {#aBijit#} 3):
+{#aBijite yoge#}
+<ls>MBH. 13,3278.</ls>
+<ls>HARIV. 3248.</ls>
+<div n="1">— 2) = {#aBijit#}
+<ls n="HARIV.">4</ls>): {#muhUrte 'Bijite 'zwame#}
+<ls>MBH. 1,4764.</ls>
 <ls>HARIV. 3317.</ls>
 <LEND>

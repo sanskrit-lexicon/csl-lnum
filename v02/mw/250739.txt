@@ -1,7 +1,7 @@
 <L>250739<pc>1239,3<k1>sU<k2>sU<h>2<e>1
-<hom>2.</hom> <s>sU</s> ¦ (<ab>cf.</ab> <hom>1.</hom> <s>sU</s> and √ <hom>5.</hom> <s>su</s>) <ab>cl.</ab> 2. <ab>Ā.</ab> (<ls>Dhātup. xxiv, 21</ls>) <s>sUte</s> 
+<hom>2.</hom> <s>sU</s> ¦ (<ab>cf.</ab> <hom>1.</hom> <s>sU</s> and √ <hom>5.</hom> <s>su</s>) <ab>cl.</ab> 2. <ab>Ā.</ab> (<ls>Dhātup. xxiv, 21</ls>) <s>sUte</s>
 (1. <ab>sg.</ab> <ab>pr.</ab> <s>suve</s>, 3. <ab>sg.</ab> <ab>impf.</ab> <s>asUta</s>;
-in later language also <s>sUyate</s> [<ls>xxvi, 31</ls>] and in <ab>comp.</ab> with <s>pra</s> also <s>-savati</s> and <s>-sOti</s> [<ab>cf.</ab> <ls>xxiv, 31</ls>];
+in later language also <s>sUyate</s> [<ls n="Dhātup.">xxvi, 31</ls>] and in <ab>comp.</ab> with <s>pra</s> also <s>-savati</s> and <s>-sOti</s> [<ab>cf.</ab> <ls n="Dhātup.">xxiv, 31</ls>];
 <ab>pf.</ab> <s>sasUva</s>, <ls>RV.</ls>;
 <s>suzuve/</s>, <ls>AV.</ls> &c.;
 <s>susAva</s>, <ls>MBh.</ls> &c.;
@@ -20,9 +20,9 @@ in later language also <s>sUyate</s> [<ls>xxvi, 31</ls>] and in <ab>comp.</ab> w
 <s>sotum</s> or <s>savitum</s> <ab>Gr.</ab>;
 <ab>ind.p.</ab> <s>sUtvA/</s>, <ls>Br.</ls>;
 <s>-sUya</s>, <ls>MBh.</ls> &c.;
-<s>-su/tya</s>, <ls>ŚBr.</ls>), 
+<s>-su/tya</s>, <ls>ŚBr.</ls>),
 <div n="to"/>to beget, procreate, bring forth, bear, produce, yield, <ls>RV.</ls> &c. &c.:
 <div n="vp"/><ab>Pass.</ab> <s>sUyate</s> (<ab>aor.</ab> <s>asAvi</s>), to be begotten or brought forth, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
 <div n="vp"/><ab>Caus.</ab> <s>sAvayati</s> <ab>Gr.</ab>:
-<div n="vp"/><ab>Desid.</ab> <s>-susUzati</s>, <ls>ib.</ls><info westergaard="zUN,24.21,02.0025"/><info whitneyroots="sU,188"/><info verb="genuineroot" cp="2Ā"/>
+<div n="vp"/><ab>Desid.</ab> <s>susUzati</s>, <ls>ib.</ls><info westergaard="zUN,24.21,02.0025"/><info whitneyroots="sU,188"/><info verb="genuineroot" cp="2Ā"/>
 <LEND>

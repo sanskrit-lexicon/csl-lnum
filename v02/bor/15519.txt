@@ -1,8 +1,8 @@
 <L>15519<pc>475<k1>north<k2>north
-<div n="lb"/>{@NORTH@}¦ (adj.): {#uttaraH#} ({#rA, raM#}), {%the n. Kurus:%}
-<div n="lb"/>{#uttarAn kurUn,,#} Ki.; {%what is n. of the ocean:%}
-<div n="lb"/>{#uttaraM yat samudrasya,#} V. p.; <div n="xe">{%n. wind:%}</div> <div n="xs">{#uttaro vAyuH,#}</div>
-<div n="lb"/>V. m.; (rarely) {#udIcInaH#} ({#nA, naM#}) <div n="xe">{%or%}</div> <div n="xs">{#udIcya#}</div>
-<div n="lb"/>(f. {#cyA#}) <div n="xe">{%or%}</div> <div n="xs">{#kOveraH#}</div> ({#rI, raM#}), {%the n. quarter:%}
-<div n="lb"/>{#kOveradigBAgaH,#} Si. <div n="xe">{%N. star.:%}</div> <div n="xs">{#DruvaH.#}</div>
+{@NORTH@}¦ (adj.): {#uttaraH#} ({#rA, raM#}), {%the n. Kurus:%}
+{#uttarAn kurUn,,#} Ki.; {%what is n. of the ocean:%}
+{#uttaraM yat samudrasya,#} V. p.; <div n="xe">{%n. wind:%}</div> <div n="xs">{#uttaro vAyuH,#}</div>
+V. m.; (rarely) {#udIcInaH#} ({#nA, naM#}) <div n="xe">{%or%}</div> <div n="xs">{#udIcya#}</div>
+(f. {#cyA#}) <div n="xe">{%or%}</div> <div n="xs">{#kOveraH#}</div> ({#rI, raM#}), {%the n. quarter:%}
+{#kOveradigBAgaH,#} Si. <div n="xe">{%N. star.:%}</div> <div n="xs">{#DruvaH.#}</div>
 <LEND>

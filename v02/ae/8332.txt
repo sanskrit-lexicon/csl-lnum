@@ -1,17 +1,17 @@
 <L>8332<pc>363<k1>profit<k2>profit
 {@Profit,@}¦ {%s.%} {#lABaH, hitaM, upakAraH, arTaH, ka-#}
-<div n="lb"/>{#-lyARaM#}. {@2@} {#PalaM, lABaH, AyaH, udayaH, vfdDi#}
-<div n="lb"/>{%f.,%} {#kalAMtaraM, laByaM;#} ‘p. and loss’ {#lABA-#}
-<div n="lb"/>{#-lABO;#} ‘capital with p. thereon’ {#mUla-#}
-<div n="lb"/>{#-kalAMtare#}. {%-v. t.%} {#hitamAvah#} 1 P, {#upakf#} 8 U,
-<div n="lb"/>{#hitAya BU#} 1 P. {%-v. i.%} (Oneself) {#PalaM-#}
-<div n="lb"/>{#-lABaM-prAp#} 5 P or {#vid#} 6 U. {@2@} {#vfD#} 1 A,
-<div n="lb"/>{#unnatiM-utkarzaM-yA#} 2 P, {#pra-upa-ci#} pass.;
-<div n="lb"/>{%See%} {@Improve. -able,@} {%a.%} {#lABa-arTa-kara#}
-<div n="lb"/>({#rI#} {%f.%}), {#lABaprada, lABa-Pala-da, Pala-lABa-#}
-<div n="lb"/>{#-Avaha#}. {@2@} {#hita, hitakara, hitAvaha, upayukta,#}
-<div n="lb"/>{#upakArin, sopakAra#}. {@-ableness,@} {%s.%} {#sA-#}
-<div n="lb"/>{#-PalyaM, PaladatA, upayuktatA#}. {@-ably,@} {%adv.%}
-<div n="lb"/>{#salABaM, saPalaM, sahitaM, amuDA#}. {@-less,@} {%a.%}
-<div n="lb"/>{#nizPala, aPala, ahita, vyarTa, nirarTaka#}.
+{#-lyARaM#}. {@2@} {#PalaM, lABaH, AyaH, udayaH, vfdDi#}
+{%f.,%} {#kalAMtaraM, laByaM;#} ‘p. and loss’ {#lABA-#}
+{#-lABO;#} ‘capital with p. thereon’ {#mUla-#}
+{#-kalAMtare#}. {%-v. t.%} {#hitamAvah#} 1 P, {#upakf#} 8 U,
+{#hitAya BU#} 1 P. {%-v. i.%} (Oneself) {#PalaM-#}
+{#-lABaM-prAp#} 5 P or {#vid#} 6 U. {@2@} {#vfD#} 1 A,
+{#unnatiM-utkarzaM-yA#} 2 P, {#pra-upa-ci#} pass.;
+{%See%} {@Improve. -able,@} {%a.%} {#lABa-arTa-kara#}
+({#rI#} {%f.%}), {#lABaprada, lABa-Pala-da, Pala-lABa-#}
+{#-Avaha#}. {@2@} {#hita, hitakara, hitAvaha, upayukta,#}
+{#upakArin, sopakAra#}. {@-ableness,@} {%s.%} {#sA-#}
+{#-PalyaM, PaladatA, upayuktatA#}. {@-ably,@} {%adv.%}
+{#salABaM, saPalaM, sahitaM, amuDA#}. {@-less,@} {%a.%}
+{#nizPala, aPala, ahita, vyarTa, nirarTaka#}.
 <LEND>

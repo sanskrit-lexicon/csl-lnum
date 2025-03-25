@@ -1,8 +1,7 @@
 <L>42657<pc>4-0512<k1>parikIrtana<k2>parikIrtana
-{#parikIrtana#}¦ (von {#kIrtay#} mit {#pari#}) <lex>n.</lex> {%das laute Verkünden, Nennen%} 
-<ls>M. 4, 237.</ls> 
-<ls>MBH. 4, 1184. 5, 6079. 13, 7160. 14, 64.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 4, 21. 22. 4, 58, 22.</ls> 
-<ls>MĀRK. P. 51, 25.</ls>
+{#parikIrtana#}¦ (von {#kIrtay#} mit {#pari#}) <lex>n.</lex> {%das laute Verkünden, Nennen%}
+<ls>M. 4,237.</ls>
+<ls>MBH. 4,1184.</ls> <ls n="MBH.">5,6079.</ls> <ls n="MBH.">13,7160.</ls> <ls n="MBH.">14,64.</ls>
+<ls>R. GORR. 1,4,21.</ls> <ls n="R. GORR. 1,4,">22.</ls> <ls n="R. GORR.">4,58,22.</ls>
+<ls>MĀRK. P. 51,25.</ls>
 <LEND>

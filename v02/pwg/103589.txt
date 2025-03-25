@@ -1,28 +1,28 @@
 <L>103589<pc>7-0535<k1>saNgin<k2>saNgin
-{#saNgin#}¦ (von {#saYj#} oder {#saNga#}) <lex>adj.</lex> 
-<div n="1"> 1) {%hängend an, steckend an, in auf%}: {#prabudDacUta° (paraBftA, BramarI)#} 
-<ls>MĀLAV. 60.</ls> {#SaradamBoDarotsaNgasaNginIvEndavI kalA#} 
-<ls>KATHĀS. 22, 107.</ls> {#SarAvacCidra°#} 
-<ls>29, 145.</ls> {#vfkzAgra° (pASa)#} 
-<ls>96, 16.</ls> {#BujatAM pibatAM vApi saNgiBirjalavipruzEH#} 
-<ls>MĀRK. P. 51, 88.</ls> {#astrARi karapallavasaNgIni#} 
-<ls>84, 26.</ls> 
-<div n="1">— 2) {%in Berührung, - in Contact kommend%}: {#aMSumAlA sUryasya dvijacaRqAlasaNginI#} 
-<ls>MĀRK. P. 18, 32.</ls> {#tvadaNgasaNgI pavanaH#} 
-<ls>15, 48.</ls> 
-<div n="1">— 3) {%mit dem Herzen hängend an, einer Person%} oder {%einer Sache ergeben, obliegend%}: {#yozitAm#} 
-<ls>BHĀG. P. 5, 5, 2.</ls> {#strI°#} 
-<ls>9, 10, 11. 11, 14, 29. fg. 3, 31, 35.</ls> {#BagavatsaNgin#} 
-<ls>1, 18, 13. 4, 24, 57. 30, 34.</ls> <ls>KATHĀS. 58, 60.</ls> {#kAmyavastuzu navezu#} 
-<ls>RAGH. 19, 16.</ls> {#asu°#} 
-<ls>HARIV. 11902.</ls> {#Atma°#} 
-<ls>MBH. 14, 1304.</ls> {#satya°#} 
-<ls>5, 4911.</ls> {#karma°#} 
-<ls>BHAG. 3, 26. 14, 15.</ls> 
-<ls>Spr. (II) 1868. 4735, v. l.</ls> {#suKa°#} 
-<ls>ŚĀK. 108.</ls> ohne Ergänzung {%an der Sinnenwelt hängend%}: {#tAruRya#} 
-<ls>KATHĀS. 27, 183.</ls> {#a°#} {%nicht a. d. S. h.%} 
-<ls>BHĀG. P. 1, 11, 38. 4, 14, 15. 7, 7, 19. 11, 25, 26.</ls> {%frei von allen Gelüsten%}: {#yoga#} 
-<ls>MĀRK. P. 16, 6.</ls> 
+{#saNgin#}¦ (von {#saYj#} oder {#saNga#}) <lex>adj.</lex>
+<div n="1"> 1) {%hängend an, steckend an, in auf%}: {#prabudDacUta° (paraBftA, BramarI)#}
+<ls>MĀLAV. 60.</ls> {#SaradamBoDarotsaNgasaNginIvEndavI kalA#}
+<ls>KATHĀS. 22,107.</ls> {#SarAvacCidra°#}
+<ls n="KATHĀS.">29,145.</ls> {#vfkzAgra° (pASa)#}
+<ls n="KATHĀS.">96,16.</ls> {#BujatAM pibatAM vApi saNgiBirjalavipruzEH#}
+<ls>MĀRK. P. 51,88.</ls> {#astrARi karapallavasaNgIni#}
+<ls n="MĀRK. P.">84,26.</ls>
+<div n="1">— 2) {%in Berührung, — in Contact kommend%}: {#aMSumAlA sUryasya dvijacaRqAlasaNginI#}
+<ls>MĀRK. P. 18,32.</ls> {#tvadaNgasaNgI pavanaH#}
+<ls n="MĀRK. P.">15,48.</ls>
+<div n="1">— 3) {%mit dem Herzen hängend an, einer Person%} oder {%einer Sache ergeben, obliegend%}: {#yozitAm#}
+<ls>BHĀG. P. 5,5,2.</ls> {#strI°#}
+<ls n="BHĀG. P.">9,10,11.</ls> <ls n="BHĀG. P.">11,14,29. fg.</ls> <ls n="BHĀG. P.">3,31,35.</ls> {#BagavatsaNgin#}
+<ls n="BHĀG. P.">1,18,13.</ls> <ls n="BHĀG. P.">4,24,57.</ls> <ls n="BHĀG. P. 4,">30,34.</ls> <ls>KATHĀS. 58,60.</ls> {#kAmyavastuzu navezu#}
+<ls>RAGH. 19,16.</ls> {#asu°#}
+<ls>HARIV. 11902.</ls> {#Atma°#}
+<ls>MBH. 14,1304.</ls> {#satya°#}
+<ls n="MBH.">5,4911.</ls> {#karma°#}
+<ls>BHAG. 3,26. 14,15.</ls>
+<ls>Spr. (II) 1868.</ls> <ls n="Spr. (II)">4735, v. l.</ls> {#suKa°#}
+<ls>ŚĀK. 108.</ls> ohne Ergänzung {%an der Sinnenwelt hängend%}: {#tAruRya#}
+<ls>KATHĀS. 27,183.</ls> {#a°#} {%nicht a. d. S. h.%}
+<ls>BHĀG. P. 1,11,38.</ls> <ls n="BHĀG. P.">4,14,15.</ls> <ls n="BHĀG. P.">7,7,19.</ls> <ls n="BHĀG. P.">11,25,26.</ls> {%frei von allen Gelüsten%}: {#yoga#}
+<ls>MĀRK. P. 16,6.</ls>
 <div n="v">— Vgl. {#patsaNgin#} .
 <LEND>

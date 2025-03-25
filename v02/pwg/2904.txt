@@ -1,23 +1,23 @@
 <L>2904<pc>1-0212<k1>anumata<k2>a/numata
-{#a/numata#}¦ (von {#man#} mit {#anu#}) 
-<div n="1"> 1) <lex>adj.</lex> 
-<div n="2"> a) {%gebilligt, gutgeheissen, worin man eingewilligt hat%}: {#lakzmaRAnumataM vacaH#} 
-<ls>R. 4, 12, 9.</ls> {#anumatagamanA SakuntalA taruBiH#} 
-<ls>ŚĀK. 85.</ls> 
-<div n="2">— b) {%überlassen, abgetreten%}: {#sA yatte janma tena no 'numatA somamacCehItyevEtadAha#} 
-<ls>ŚAT. BR. 3, 2, 4, 20.</ls> {#tasya ha vA ezAnumatA gfhezu hanyate#} {%in dessen Hause darf sie%} (die Kuh) {%geschlagen werden%} 
-<ls>5, 4, 4, 23.</ls> 
-<div n="2">— c) {%die Erlaubniss, Einwilligung habend%}: {#anumatyAnumataH sUyE#} 
-<ls>ŚAT. BR. 5, 2, 3, 4. 3, 5, 31.</ls> {#guruRAnumataH#} 
-<ls>M. 3, 4.</ls> 
-<ls>VID. 208.</ls> {#anumato gfhAya#} {%zur Heirath%} 
-<ls>RAGH. 5, 10.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%Einwilligung%}: {#ita icCAmo gantavye 'numataM tvayA#} 
-<ls>R. 3, 12, 8.</ls> {#anumate#} {%mit Einwilligung%}, mit dem gen. 
-<ls>M. 5, 151. 8, 358.</ls> 
-<ls>SĀV. 5, 80.</ls> 
-<ls>N. 17, 21.</ls> 
-<ls>R. 1, 67, 24.</ls> am Ende eines comp. 
-<ls>M. 8, 231.</ls> 
-<ls>VIŚV. 12, 24.</ls>
+{#a/numata#}¦ (von {#man#} mit {#anu#})
+<div n="1"> 1) <lex>adj.</lex>
+<div n="2"> a) {%gebilligt, gutgeheissen, worin man eingewilligt hat%}: {#lakzmaRAnumataM vacaH#}
+<ls>R. 4,12,9.</ls> {#anumatagamanA SakuntalA taruBiH#}
+<ls>ŚĀK. 85.</ls>
+<div n="2">— b) {%überlassen, abgetreten%}: {#sA yatte janma tena no 'numatA somamacCehItyevEtadAha#}
+<ls>ŚAT. BR. 3,2,4,20.</ls> {#tasya ha vA ezAnumatA gfhezu hanyate#} {%in dessen Hause darf sie%} (die Kuh) {%geschlagen werden%}
+<ls n="ŚAT. BR.">5,4,4,23.</ls>
+<div n="2">— c) {%die Erlaubniss, Einwilligung habend%}: {#anumatyAnumataH sUyE#}
+<ls>ŚAT. BR. 5,2,3,4.</ls> <ls n="ŚAT. BR. 5,">3,5,31.</ls> {#guruRAnumataH#}
+<ls>M. 3,4.</ls>
+<ls>VID. 208.</ls> {#anumato gfhAya#} {%zur Heirath%}
+<ls>RAGH. 5,10.</ls>
+<div n="1">— 2) <lex>n.</lex> {%Einwilligung%}: {#ita icCAmo gantavye 'numataM tvayA#}
+<ls>R. 3,12,8.</ls> {#anumate#} {%mit Einwilligung%}, mit dem gen.
+<ls>M. 5,151.</ls> <ls n="M.">8,358.</ls>
+<ls>SĀV. 5,80.</ls>
+<ls>N. 17,21.</ls>
+<ls>R. 1,67,24.</ls> am Ende eines comp.
+<ls>M. 8,231.</ls>
+<ls>VIŚV. 12,24.</ls>
 <LEND>

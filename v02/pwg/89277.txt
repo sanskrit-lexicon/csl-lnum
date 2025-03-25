@@ -1,167 +1,146 @@
 <L>89277<pc>6-0875<k1>vA<k2>vA<h>2
-2. {#vA#}¦, {#vA/ti#} 
-<ls>NAIGH. 2, 14</ls> {#(gatikarman)#} . 
-<ls>DHĀTUP. 24, 42</ls> ({#gatiganDanayoH, gamanahiMsayoH#} 
-<ls>VOP.</ls>). {#avAn#} und {#avus#} 
-<ls>P. 3, 4, 111, Schol.</ls> {#avAsIt#} 
-<ls>7, 2, 72, Schol.</ls> 
-<div n="1"> 1) {%wehen%}: {#tanno\ vAto^ mayo\Bu vA^tu Beza\jam#} 
-<ls>ṚV. 1, 89, 4.</ls> 
-<ls>AV. 4, 15, 8. 16. 7, 69, 1. 12, 3, 12.</ls> 
-<ls>ŚAT. BR. 2, 2, 3, 8.</ls> {#yadA balavadvAtyatyugro vAtItyAhuH#} 
-<ls>6, 1, 3, 13. 10, 3, 5, 14.</ls> {#yAM diSaM vAto vAyAt#} 
-<ls>11, 5, 3, 11.</ls> {#vAte^ vA\ti#} 
-<ls>6, 9.</ls> <ls>TBR. 2, 3, 9, 4. 5.</ls> {#vAti mArutaH#} 
-<ls>R. 1, 14, 17. 65, 13. 2, 41, 15. 3, 54, 12.</ls> 
-<ls>Spr. 1769.</ls> 
-<ls>VARĀH. BṚH. S. 27, 7. 31, 5.</ls> 
-<ls>BHĀG. P. 1, 14, 16. 3, 25, 42.</ls> {#vAnganDavahaH#} 
-<ls>BHAṬṬ. 2, 10.</ls> {#mArute vAti vA BfSam#} 
-<ls>M. 4, 122. 11, 113.</ls> 
-<ls>KĀM. NĪTIS. 7, 38.</ls> <ls>Spr. 1914.</ls> {#vAyuravAt#} 
-<ls>R. GORR. 1, 25, 4.</ls> <ls>BHAṬṬ. 8, 61. 17, 9. 74.</ls> {#vavO#} 
-<ls>MBH. 1, 5883. 3, 2995. 12041. 5, 7206.</ls> 
-<ls>R. 2, 91, 24.</ls> 
-<ls>RAGH. 3, 14.</ls> 
-<ls>KATHĀS. 55, 109.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 52, 22.</ls> <ls>BHAṬṬ. 7, 1.</ls> {#avAsIt#} 
-<ls>9, 2. 15, 26.</ls> {#vAsyati#} 
-<ls>MEGH. 43.</ls> {#nASakanmAruto vAtum#} 
-<ls>HARIV. 90.</ls> 
-<ls>KATHĀS. 25, 42. 44, 136.</ls> 
-<div n="1">— 2) {%anwehen%}: {#sADvasADUMScApi vAtIha vAyuH#} 
-<ls>Spr. 5222.</ls> 
-<div n="1">— 3) {%Gerüche aushauchen, ausdünsten, sich verbreiten%} (von einem Geruche): {#tasmAtte SaRAH pUtayo vAnti#} 
-<ls>ŚAT. BR. 3, 2, 1, 11.</ls> {#vAti ganDaH sumanasAM prativAtaM kaTaM ca na . Darmajastu manuzyARAM vAti ganDaH samantataH ..#} 
-<ls>Spr. 4982.</ls> {#adanAdDaviraNga vAti#} 
-<ls>BHĀG. P. 5, 2, 13.</ls> Diese Bed. ist wohl mit {#ganDana#} im 
-<ls>DHĀTUP.</ls> gemeint. 
+2. {#vA#}¦, {#vA/ti#}
+<ls>NAIGH. 2,14</ls> ({#gatikarman#}) .
+<ls>DHĀTUP. 24,42</ls> ({#gatiganDanayoH, gamanahiMsayoH#}
+<ls>VOP.</ls>). {#avAn#} und {#avus#}
+<ls>P. 3,4,111</ls>, Schol. {#avAsIt#}
+<ls n="P.">7,2,72</ls>, Schol.
+<div n="1"> 1) {%wehen%}: {#tanno\ vAto^ mayo\Bu vA^tu Beza\jam#}
+<ls>ṚV. 1,89,4.</ls>
+<ls>AV. 4,15,8.</ls> <ls n="AV. 4,15,">16.</ls> <ls n="AV.">7,69,1.</ls> <ls n="AV.">12,3,12.</ls>
+<ls>ŚAT. BR. 2,2,3,8.</ls> {#yadA balavadvAtyatyugro vAtItyAhuH#}
+<ls n="ŚAT. BR.">6,1,3,13. 10,3,5,14.</ls> {#yAM diSaM vAto vAyAt#}
+<ls n="ŚAT. BR.">11,5,3,11.</ls> {#vAte^ vA\ti#}
+<ls n="ŚAT. BR.">6,9.</ls> <ls>TBR. 2,3,9,4. 5.</ls> {#vAti mArutaH#}
+<ls>R. 1,14,17.</ls> <ls n="R. 1,">65,13.</ls> <ls n="R.">2,41,15.</ls> <ls n="R.">3,54,12.</ls>
+<ls>Spr. 1769.</ls>
+<ls>VARĀH. BṚH. S. 27,7. 31,5.</ls>
+<ls>BHĀG. P. 1,14,16.</ls> <ls n="BHĀG. P.">3,25,42.</ls> {#vAnganDavahaH#}
+<ls>BHAṬṬ. 2,10.</ls> {#mArute vAti vA BfSam#}
+<ls>M. 4,122.</ls> <ls n="M.">11,113.</ls>
+<ls>KĀM. NĪTIS. 7,38.</ls> <ls>Spr. 1914.</ls> {#vAyuravAt#}
+<ls>R. GORR. 1,25,4.</ls> <ls>BHAṬṬ. 8,61. 17,9. 74.</ls> {#vavO#}
+<ls>MBH. 1,5883.</ls> <ls n="MBH.">3,2995.</ls> <ls n="MBH. 3,">12041.</ls> <ls n="MBH.">5,7206.</ls>
+<ls>R. 2,91,24.</ls>
+<ls>RAGH. 3,14.</ls>
+<ls>KATHĀS. 55,109.</ls>
+<ls>BRAHMA-P. in LA. (III) 52,22.</ls> <ls>BHAṬṬ. 7,1.</ls> {#avAsIt#}
+<ls n="BHAṬṬ.">9,2. 15,26.</ls> {#vAsyati#}
+<ls>MEGH. 43.</ls> {#nASakanmAruto vAtum#}
+<ls>HARIV. 90.</ls>
+<ls>KATHĀS. 25,42.</ls> <ls n="KATHĀS.">44,136.</ls>
+<div n="1">— 2) {%anwehen%}: {#sADvasADUMScApi vAtIha vAyuH#}
+<ls>Spr. 5222.</ls>
+<div n="1">— 3) {%Gerüche aushauchen, ausdünsten, sich verbreiten%} (von einem Geruche): {#tasmAtte SaRAH pUtayo vAnti#}
+<ls>ŚAT. BR. 3,2,1,11.</ls> {#vAti ganDaH sumanasAM prativAtaM kaTaM ca na . Darmajastu manuzyARAM vAti ganDaH samantataH ..#}
+<ls>Spr. 4982.</ls> {#adanAdDaviraNga vAti#}
+<ls>BHĀG. P. 5,2,13.</ls> Diese Bed. ist wohl mit {#ganDana#} im
+<ls>DHĀTUP.</ls> gemeint.
 <div n="v">— Vgl. 3. {#vA#} .
-
-<div n="p">— {#ati#} {%darüber hinaus wehen%}: {#na BUmi\M vAto 'ti^ vAti#} 
-<ls>AV. 4, 5, 2.</ls>
-
-<div n="p">— {#anu#} {%anblasen, anfachen, weiterwehen%}: {#Ada^sya\ vAto\ anu^ vAti So\cirastu\rna SaryA^m#} 
-<ls>ṚV. 1, 148, 4.</ls> <ls n="ṚV.">4, 7, 10.</ls> <ls n="ṚV.">7, 3, 3.</ls> <ls n="ṚV.">10, 142, 4.</ls> {#vAyurasya kAmAnanuvAti#} 
-<ls>KĀṬH. 12, 13.</ls> {%nachwehen%}: {#vAta^sya pra\vAmu^pa\vAmanu^ vAtya\rciH#} 
-<ls>AV. 12, 1, 51.</ls> 
-<ls>TS. 5, 5, 7, 3. 4.</ls> {#anuvAti SuBo vAyuH senAm#} {%anwehen%} 
-<ls>R. 5, 73, 52.</ls> {#SivaScAnuvavO vAyuH#} {%wehen%} 
-<ls>MBH. 5, 2942.</ls> 
-<ls>BHĀG. P. 10, 35, 21.</ls>
-
-<div n="p">— {#apa#} {%ausdünsten%}: {#yadUva^Dyamu\dara^syApa\vAti^#} 
-<ls>ṚV. 1, 162, 10.</ls>
-
-<div n="p">— {#aBi#} {%anwehen, herwehen%}: {#SaM na^ izi\ro a\Bi vA^tu\ vAta^H#} 
-<ls>ṚV. 7, 35, 4.</ls> <ls n="ṚV.">10, 169, 1.</ls>
+<div n="p">— {#ati#} {%darüber hinaus wehen%}: {#na BUmi\M vAto 'ti^ vAti#}
+<ls>AV. 4,5,2.</ls>
+<div n="p">— {#anu#} {%anblasen, anfachen, weiterwehen%}: {#Ada^sya\ vAto\ anu^ vAti So\cirastu\rna SaryA^m#}
+<ls>ṚV. 1,148,4.</ls> <ls n="ṚV.">4,7,10.</ls> <ls n="ṚV.">7,3,3.</ls> <ls n="ṚV.">10,142,4.</ls> {#vAyurasya kAmAnanuvAti#}
+<ls>KĀṬH. 12,13.</ls> {%nachwehen%}: {#vAta^sya pra\vAmu^pa\vAmanu^ vAtya\rciH#}
+<ls>AV. 12,1,51.</ls>
+<ls>TS. 5,5,7,3. 4.</ls> {#anuvAti SuBo vAyuH senAm#} {%anwehen%}
+<ls>R. 5,73,52.</ls> {#SivaScAnuvavO vAyuH#} {%wehen%}
+<ls>MBH. 5,2942.</ls>
+<ls>BHĀG. P. 10,35,21.</ls>
+<div n="p">— {#apa#} {%ausdünsten%}: {#yadUva^Dyamu\dara^syApa\vAti^#}
+<ls>ṚV. 1,162,10.</ls>
+<div n="p">— {#aBi#} {%anwehen, herwehen%}: {#SaM na^ izi\ro a\Bi vA^tu\ vAta^H#}
+<ls>ṚV. 7,35,4.</ls> <ls n="ṚV.">10,169,1.</ls>
 [Page6-0876]
-{#pUtirenAnaBivavO#} 
-<ls>ŚAT. BR. 4, 1, 3, 6.</ls> 
-<ls>KĀṬH. 31, 3.</ls> {#suKo vAto 'BivAti mAm#} 
-<ls>MBH. 4, 2238.</ls> {#purABivAti mAruto yamasya yaH puraHsaraH#} 
-<ls>12, 12080.</ls>
-
-<div n="p">— {#ava#} {%herabwehen%}: {#nya1^\vAto 'va^ vAti#} 
-<ls>ṚV. 10, 60, 11.</ls> {#tapu^rjamBo\ vana\ A vAta^codito yU\Te na sA\hvA~ ava^ vAti\ vaMsa^gaH#} {%wird vom Lufthauch getragen in%} 
-<ls n="ṚV.">1, 58, 5.</ls>
-
-<div n="p">— {#A#} {%herwehen%}: {#dvAvi\mO vAtO^ vA\ta\ A sinDo\rA pa^rA\vata^H . dakza^M ta a\nya A vA^tu#} 
-<ls>ṚV. 10, 137, 2.</ls> <ls n="ṚV. 10, 137,">3.</ls> {#vAta\ A vA^tu Beza\jam#} 
-<ls n="ṚV. 10,">186, 1.</ls> {#AvAnAvAnmAtariSvA#} 
-<ls>KIR. 5, 36.</ls> {#yatrAmodamupAdAya mArga AvAti mArutaH#} 
-<ls>BHĀG. P. 8, 15, 18.</ls> {#AvavurvAyavo GorAH#} 
-<ls>BHAṬṬ. 14, 97.</ls> {%anwehen%}: {#vA\yurBU\tvA sarvA\ diSa\ A vA^hi#} 
-<ls>TBR. 3, 10, 4, 2.</ls>
-
-<div n="p">— {#ud#} {%durch Luftzug erlöschen%}: {#agnirvA udvAnvAyumanupraviSati#} 
-<ls>AIT. BR. 8, 28</ls> <ls>?(ŚAṂK. zu BṚH. ĀR. UP. 321). KAUŚ. 72.</ls> 
+{#pUtirenAnaBivavO#}
+<ls>ŚAT. BR. 4,1,3,6.</ls>
+<ls>KĀṬH. 31,3.</ls> {#suKo vAto 'BivAti mAm#}
+<ls>MBH. 4,2238.</ls> {#purABivAti mAruto yamasya yaH puraHsaraH#}
+<ls n="MBH.">12,12080.</ls>
+<div n="p">— {#ava#} {%herabwehen%}: {#nya1^\vAto 'va^ vAti#}
+<ls>ṚV. 10,60,11.</ls> {#tapu^rjamBo\ vana\ A vAta^codito yU\Te na sA\hvA~ ava^ vAti\ vaMsa^gaH#} {%wird vom Lufthauch getragen in%}
+<ls n="ṚV.">1,58,5.</ls>
+<div n="p">— {#A#} {%herwehen%}: {#dvAvi\mO vAtO^ vA\ta\ A sinDo\rA pa^rA\vata^H . dakza^M ta a\nya A vA^tu#}
+<ls>ṚV. 10,137,2.</ls> <ls n="ṚV. 10,137,">3.</ls> {#vAta\ A vA^tu Beza\jam#}
+<ls n="ṚV. 10,">186,1.</ls> {#AvAnAvAnmAtariSvA#}
+<ls>KIR. 5,36.</ls> {#yatrAmodamupAdAya mArga AvAti mArutaH#}
+<ls>BHĀG. P. 8,15,18.</ls> {#AvavurvAyavo GorAH#}
+<ls>BHAṬṬ. 14,97.</ls> {%anwehen%}: {#vA\yurBU\tvA sarvA\ diSa\ A vA^hi#}
+<ls>TBR. 3,10,4,2.</ls>
+<div n="p">— {#ud#} {%durch Luftzug erlöschen%}: {#agnirvA udvAnvAyumanupraviSati#}
+<ls>AIT. BR. 8,28</ls> (<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. 321).</ls> <ls>KAUŚ. 72.</ls>
 <div n="v">— Vgl. 3. {#vA#} mit {#ud#} .
-
-<div n="p">— {#anUd#} im Winde (acc.) {%verwehen%}: {#yadA vA agniranugacCati vAyuM tarhyanUdvAti tasmAdenamudavAsIdatyAhurvAyuM hyanUdvAti#} 
-<ls>ŚAT. BR. 10, 3, 3, 8</ls> <ls>?(ŚAṂK. zu BṚH. ĀR. UP. S. 321).</ls>
-
-<div n="p">— {#upa#} {%anwehen%} 
-<ls>ŚAT. BR. 13, 3, 8, 6.</ls> {%anblasen%}: {#yUyaM tu me sacyupavAta#} 
-<ls>4, 1, 3, 7.</ls> 
+<div n="p">— {#anUd#} im Winde (acc.) {%verwehen%}: {#yadA vA agniranugacCati vAyuM tarhyanUdvAti tasmAdenamudavAsIdatyAhurvAyuM hyanUdvAti#}
+<ls>ŚAT. BR. 10,3,3,8</ls> (<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 321).</ls>
+<div n="p">— {#upa#} {%anwehen%}
+<ls>ŚAT. BR. 13,3,8,6.</ls> {%anblasen%}: {#yUyaM tu me sacyupavAta#}
+<ls n="ŚAT. BR.">4,1,3,7.</ls>
 <div n="v">— Vgl. {#upavA#} und 3. {#vA#} mit {#upa#} .
-
-<div n="p">— {#pariRi#} und {#praRi°#} 
-<ls>P. 8, 4, 17, Schol.</ls>
-
-<div n="p">— {#nis#} 
-<div n="1"> 1) {%wehen%}: {#nirvavuH SataSacEva vfzwivAtAH savidyutaH#} 
-<ls>R. 4, 29, 11.</ls> 
-<div n="1">— 2) {%erlöschen%}: {#nirvAsyataH pradIpasya SiKeva#} 
-<ls>ŚĀK. CH. 91, 11.</ls> 
-<div n="1">— 3) {%sich abkühlen, gestillt —, erquickt werden%}: {#taTA vapurjalArdrApavanErna nirvavO#} 
-<ls>ŚIŚ. 1, 65.</ls> {#iti sarvaM samunnadDaM na nirvAti kaTaM ca na#} 
-<ls>MBH. 9, 259.</ls> {#tvayi dfzwa eva tasyA nirvAti mano manoBavajvalitam#} 
-<ls>Spr. 1086.</ls> 
-<ls>KATHĀS. 104, 57. 117, 51.</ls> 
-<div n="v">— Vgl. {#nirvARa#} . — caus. {%auslöschen; ablöschen, von der Gluth —, von der Hitze befreien, kühlen; stillen, zur Ruhe bringen, erquicken%}: {#yaM tvama^gne sa\mada^ha\stamu\ nirvA^payA\ puna^H#} 
-<ls>ṚV. 10, 16, 13.</ls> {#agnInnirvApayAM cakruH#} 
-<ls>AIT. BR. 2, 36.</ls> {#udakenAsTIni#} 
-<ls>ŚĀṄKH. ŚR. 4, 15, 13.</ls> {#samiDaM jAtavedasam . varzErnirvApayizyAmo meGA BUtvA savidyutaH ..#} 
-<ls>MBH. 1, 1608. 5857. 11, 241.</ls> 
-<ls>HARIV. 6227.</ls> 
-<ls>KATHĀS. 66, 15.</ls> {#pradIpaM pawAntena#} 
-<ls>MṚCCH. 16, 7. 49, 20.</ls> <ls>BURNOUF,</ls> <ls>?Intr. 589. KATHĀS. 4, 67.</ls> {#analapraveSena SokAnalam#} 
-<ls>PRAB. 90, 20.</ls> {#kzAraM sarpizA#} 
-<ls>SUŚR. 2, 47, 11. 74, 10.</ls> {#BasmIBUtA~llokAn - jalayuktena karmaRA#} 
-<ls>HARIV. 11343.</ls> {#atiprabanDaprahitAstravfzwiBistamASrayaM duzprasahasya tejasaH . SaSAka nirvApayituM na vAsavaH svataScayutaM vahnimivAdBirambudaH ..#} 
-<ls>RAGH. 3, 58.</ls> {#priyasaMdeSEH sItAm#} 
-<ls>12, 63.</ls> {#nirvApitaH kanakakumBamuKojJitena vaMSABizekaviDinA SiSireRa garBaH#} 
-<ls>19, 56.</ls> {#dagDaM cirAya malayAnilacandrapAdErnirvApitaM tu pariraBya vapurna nAma#} 
-<ls>MĀLAT. 128, 14. fg.</ls> {#aNgAni tvamanaNgatApaviDurARyehyehi nirvApaya#} 
-<ls>RATNĀV. 65, 9.</ls> {#pitarO viprayogAgnitApitO#} (acc.) {#niravApayatAM sadyo darSanAmftavarziRO#} (nomin.) 
-<ls>KATHĀS. 25, 265.</ls> {#iti vAksuDayA tasyAH kftI nirvApitaH#} 
-<ls>103, 72.</ls> {#nirvApaya prasannena locanenAmftaScyutA . dfzwvA mAM duHKadAvAgnidagDam#} 
-<ls>101,304.</ls> <ls>Verz. d. Oxf. H. 31,a,42.</ls> {#sa#} ({#agniH#}) {#me nirvApya sahasA cakzuzI SAmyate punaH#} so v. a. {%blendend%} (=  {#mandIkftya#} 
-<ls>NĪLAK.</ls>) <ls>MBH. 5, 3864.</ls> 
+<div n="p">— {#pariRi#} und {#praRi°#}
+<ls>P. 8,4,17</ls>, Schol.
+<div n="p">— {#nis#}
+<div n="1"> 1) {%wehen%}: {#nirvavuH SataSacEva vfzwivAtAH savidyutaH#}
+<ls>R. 4,29,11.</ls>
+<div n="1">— 2) {%erlöschen%}: {#nirvAsyataH pradIpasya SiKeva#}
+<ls>ŚĀK. CH. 91,11.</ls>
+<div n="1">— 3) {%sich abkühlen, gestillt —, erquickt werden%}: {#taTA vapurjalArdrApavanErna nirvavO#}
+<ls>ŚIŚ. 1,65.</ls> {#iti sarvaM samunnadDaM na nirvAti kaTaM ca na#}
+<ls>MBH. 9,259.</ls> {#tvayi dfzwa eva tasyA nirvAti mano manoBavajvalitam#}
+<ls>Spr. 1086.</ls>
+<ls>KATHĀS. 104,57.</ls> <ls n="KATHĀS.">117,51.</ls>
+<div n="v">— Vgl. {#nirvARa#} . — caus. {%auslöschen; ablöschen, von der Gluth —, von der Hitze befreien, kühlen; stillen, zur Ruhe bringen, erquicken%}: {#yaM tvama^gne sa\mada^ha\stamu\ nirvA^payA\ puna^H#}
+<ls>ṚV. 10,16,13.</ls> {#agnInnirvApayAM cakruH#}
+<ls>AIT. BR. 2,36.</ls> {#udakenAsTIni#}
+<ls>ŚĀṄKH. ŚR. 4,15,13.</ls> {#samiDaM jAtavedasam . varzErnirvApayizyAmo meGA BUtvA savidyutaH ..#}
+<ls>MBH. 1,1608.</ls> <ls n="MBH. 1,">5857.</ls> <ls n="MBH.">11,241.</ls>
+<ls>HARIV. 6227.</ls>
+<ls>KATHĀS. 66,15.</ls> {#pradIpaM pawAntena#}
+<ls>MṚCCH. 16,7. 49,20.</ls> <ls>BURNOUF, Intr. 589.</ls> <ls>KATHĀS. 4,67.</ls> {#analapraveSena SokAnalam#}
+<ls>PRAB. 90,20.</ls> {#kzAraM sarpizA#}
+<ls>SUŚR. 2,47,11. 74,10.</ls> {#BasmIBUtA~llokAn — jalayuktena karmaRA#}
+<ls>HARIV. 11343.</ls> {#atiprabanDaprahitAstravfzwiBistamASrayaM duzprasahasya tejasaH . SaSAka nirvApayituM na vAsavaH svataScayutaM vahnimivAdBirambudaH ..#}
+<ls>RAGH. 3,58.</ls> {#priyasaMdeSEH sItAm#}
+<ls n="RAGH.">12,63.</ls> {#nirvApitaH kanakakumBamuKojJitena vaMSABizekaviDinA SiSireRa garBaH#}
+<ls n="RAGH.">19,56.</ls> {#dagDaM cirAya malayAnilacandrapAdErnirvApitaM tu pariraBya vapurna nAma#}
+<ls>MĀLAT. 128,14. fg.</ls> {#aNgAni tvamanaNgatApaviDurARyehyehi nirvApaya#}
+<ls>RATNĀV. 65,9.</ls> {#pitarO viprayogAgnitApitO#} (acc.) {#niravApayatAM sadyo darSanAmftavarziRO#} (nomin.)
+<ls>KATHĀS. 25,265.</ls> {#iti vAksuDayA tasyAH kftI nirvApitaH#}
+<ls n="KATHĀS.">103,72.</ls> {#nirvApaya prasannena locanenAmftaScyutA . dfzwvA mAM duHKadAvAgnidagDam#}
+<ls n="KATHĀS.">101,304.</ls> <ls>Verz. d. Oxf. H. 31,a,42.</ls> {#sa#} ({#agniH#}) {#me nirvApya sahasA cakzuzI SAmyate punaH#} so v. a. {%blendend%} (= {#mandIkftya#}
+<ls>NĪLAK.</ls>) <ls>MBH. 5,3864.</ls>
 <div n="v">— Vgl. 2. {#nirvApaRa#} fg.
-
-<div n="p">— {#anunis#} {%erlöschen nach%} (acc.): {#nirvARamanunirvAti tapanaM tapanopalaH#} 
+<div n="p">— {#anunis#} {%erlöschen nach%} (acc.): {#nirvARamanunirvAti tapanaM tapanopalaH#}
 <ls>Spr. 1611.</ls>
-
-<div n="p">— {#parinis#} {%vollkommen erlöschen, - zur Ruhe gelangen%}: {#ulkeva parinirvAti sma#} 
-<ls>LALIT. ed. Calc. 20, 9.</ls> {#SAmyAmi parinirvAmi#} 
-<ls>MBH. 12, 6635.</ls> Vgl. {#parinirvARa#} . — caus. {%vollkommen zur Ruhe bringen%}: {#parinirvApayitavya#}
+<div n="p">— {#parinis#} {%vollkommen erlöschen, — zur Ruhe gelangen%}: {#ulkeva parinirvAti sma#}
+<ls>LALIT. ed. Calc. 20,9.</ls> {#SAmyAmi parinirvAmi#}
+<ls>MBH. 12,6635.</ls> Vgl. {#parinirvARa#} . — caus. {%vollkommen zur Ruhe bringen%}: {#parinirvApayitavya#}
 [Page6-0877]
-
-<ls>BURNOUF,</ls> <ls>Intr. 593.</ls>
-
-<div n="p">— {#parA#} {%wegwehen%}: {#parA\nyo vA^tu\ yadrapa^H#} 
-<ls>ṚV. 10, 137, 2.</ls>
-
-<div n="p">— {#pra#} {%wehen%}: {#a\hame\va vAta^ iva\ pra vA^mi#} 
-<ls>ṚV. 10, 125, 8.</ls> {#vanAcca vAyuH suraBiH pravAyAt#} 
-<ls>MBH. 1, 2936.</ls> {#vAtASca pravavuH#} 
-<ls>4509. 3, 11998. 6, 731. 7, 328. 9029. 12, 6333. 12081.</ls> <ls>HARIV. 4941. 8790.</ls> <ls>R. 2, 71, 25. 91, 26.</ls> <ls>R. GORR. 2, 100, 21. 3, 22, 15. 52, 11.</ls> <ls>BHĀG. P. 3, 9, 18. 5, 24, 5.</ls> <ls>PAÑCAT. 169, 6.</ls> von Gerüchen: {#ganDo yasyAH kroSAtpravAti vE#} 
-<ls>MBH. 1, 6934. 6, 138.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 100, 23. 125, 21 (114, 10</ls> <ls>SCHL.</ls><ls>). 4, 13, 21. 5, 73, 59.</ls> 
-<div n="v">— Vgl. {#pravA, pravAta#} (auch 
-<ls>R. 5, 26, 1</ls>), {#pravAyya#} .
-
-<div n="p">— {#vi#} {%verwehen, auseinanderblasen; durchwehen%}: {#vi vA^ta vAhi\ yadrapa^H#} 
-<ls>ṚV. 10, 137, 3.</ls> {#miha\M na vAto\ vi ha^ vAti\ BUma^#} 
-<ls n="ṚV. 10,">31, 9.</ls> <ls n="ṚV.">1, 28, 6.</ls> {#vya^vAtte\ jyoti^raBUt#} 
-<ls>AV. 8, 1, 21.</ls> {#i\me vE sa\hAstA\M te vA\yurvya^vAt#} 
-<ls>TS. 3, 4, 3, 1.</ls> 
-<ls>ŚAT. BR. 4, 1, 3, 7. 10.</ls> 
-<ls>KĀṬH. 13, 2. 27, 3.</ls> {#tato lokAnvivAtyasO (vAyuH)#} 
-<ls>MBH. 12, 13379.</ls> {%nach verschiedenen Richtungen hin wehen%}: {#vizvagvAtASca vivavuH#} 
-<ls>6, 732.</ls> {#vAyurvivAti hfdayAni harannarARAm#} 
-<ls>ṚT. 6, 22.</ls>
-
-<div n="p">— {#anuvi#} {%der Reihe%} oder {%der Länge nach durchwehen%}: {#diSaH#} 
-<ls>TBR. 2, 3, 9, 6. 3, 10, 4, 2.</ls>
-
-<div n="p">— {#sam#} {%wehen%} 
-<ls>TBR. 3, 11, 7, 2.</ls> 
-<ls>MBH. 4, 1288. 12, 12395. 12401</ls> (wo mit der ed. Bomb. {#saMvAti#} st. {#saMBAti#} zu lesen ist).
-
-<div n="p">— {#anusam#} {%der Reihe nach (zusammen) anwehen%}: {#diSaH#} 
-<ls>TBR. 2, 3, 9, 6. 3, 10, 4, 2.</ls>
+<ls>BURNOUF, Intr. 593.</ls>
+<div n="p">— {#parA#} {%wegwehen%}: {#parA\nyo vA^tu\ yadrapa^H#}
+<ls>ṚV. 10,137,2.</ls>
+<div n="p">— {#pra#} {%wehen%}: {#a\hame\va vAta^ iva\ pra vA^mi#}
+<ls>ṚV. 10,125,8.</ls> {#vanAcca vAyuH suraBiH pravAyAt#}
+<ls>MBH. 1,2936.</ls> {#vAtASca pravavuH#}
+<ls n="MBH. 1,">4509.</ls> <ls n="MBH.">3,11998.</ls> <ls n="MBH.">6,731.</ls> <ls n="MBH.">7,328.</ls> <ls n="MBH. 7,">9029.</ls> <ls n="MBH.">12,6333.</ls> <ls n="MBH. 12,">12081.</ls> <ls>HARIV. 4941.</ls> <ls n="HARIV.">8790.</ls> <ls>R. 2,71,25.</ls> <ls n="R. 2,">91,26.</ls> <ls>R. GORR. 2,100,21.</ls> <ls n="R. GORR.">3,22,15.</ls> <ls n="R. GORR. 3,">52,11.</ls> <ls>BHĀG. P. 3,9,18.</ls> <ls n="BHĀG. P.">5,24,5.</ls> <ls>PAÑCAT. 169,6.</ls> von Gerüchen: {#ganDo yasyAH kroSAtpravAti vE#}
+<ls>MBH. 1,6934.</ls> <ls n="MBH.">6,138.</ls>
+<ls>R. GORR. 2,100,23.</ls> <ls n="R. GORR. 2,">125,21</ls> (<ls n="SCHL. 2,">114,10</ls> <ls>SCHL.</ls>). <ls n="R. GORR.">4,13,21.</ls> <ls n="R. GORR.">5,73,59.</ls>
+<div n="v">— Vgl. {#pravA, pravAta#} (auch
+<ls>R. 5,26,1</ls>), {#pravAyya#} .
+<div n="p">— {#vi#} {%verwehen, auseinanderblasen; durchwehen%}: {#vi vA^ta vAhi\ yadrapa^H#}
+<ls>ṚV. 10,137,3.</ls> {#miha\M na vAto\ vi ha^ vAti\ BUma^#}
+<ls n="ṚV. 10,">31,9.</ls> <ls n="ṚV.">1,28,6.</ls> {#vya^vAtte\ jyoti^raBUt#}
+<ls>AV. 8,1,21.</ls> {#i\me vE sa\hAstA\M te vA\yurvya^vAt#}
+<ls>TS. 3,4,3,1.</ls>
+<ls>ŚAT. BR. 4,1,3,7. 10.</ls>
+<ls>KĀṬH. 13,2. 27,3.</ls> {#tato lokAnvivAtyasO (vAyuH)#}
+<ls>MBH. 12,13379.</ls> {%nach verschiedenen Richtungen hin wehen%}: {#vizvagvAtASca vivavuH#}
+<ls n="MBH.">6,732.</ls> {#vAyurvivAti hfdayAni harannarARAm#}
+<ls>ṚT. 6,22.</ls>
+<div n="p">— {#anuvi#} {%der Reihe%} oder {%der Länge nach durchwehen%}: {#diSaH#}
+<ls>TBR. 2,3,9,6. 3,10,4,2.</ls>
+<div n="p">— {#sam#} {%wehen%}
+<ls>TBR. 3,11,7,2.</ls>
+<ls>MBH. 4,1288.</ls> <ls n="MBH.">12,12395.</ls> <ls n="MBH. 12,">12401</ls> (wo mit der <ls>ed. Bomb.</ls> {#saMvAti#} st. {#saMBAti#} zu lesen ist).
+<div n="p">— {#anusam#} {%der Reihe nach (zusammen) anwehen%}: {#diSaH#}
+<ls>TBR. 2,3,9,6. 3,10,4,2.</ls>
 <LEND>

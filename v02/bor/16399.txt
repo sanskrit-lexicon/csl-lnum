@@ -1,4 +1,4 @@
 <L>16399<pc>503<k1>paramour<k2>paramour
-<div n="lb"/>{@PARAMOUR:@}¦ <div n="I">I Male: </div><div n="1">(1) {#jAraH;#} </div><div n="1">(2) {#upapatiH.#}</div>
-<div n="lb"/><div n="I">II Female: {#upapatnI.#}</div>
+{@PARAMOUR:@}¦ <div n="I">I Male: </div><div n="1">(1) {#jAraH;#} </div><div n="1">(2) {#upapatiH.#}</div>
+<div n="I">II Female: {#upapatnI.#}</div>
 <LEND>

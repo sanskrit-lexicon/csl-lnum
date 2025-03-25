@@ -1,12 +1,12 @@
 <L>222<pc>009<k1>action<k2>action
-<div n="lb"/>{@ACTION:@}¦ <div n="I">I Agency: Often not expr: <div n="xe">{%water%}
-<div n="lb"/>{%boils by the a. of heat%}</div> <div n="xs">{#*vAri tapati tApena.#}</div> Ph. <div n="xe">{%the%}
-<div n="lb"/>{%a. of the senses%}</div> <div n="xs">{#indriyARAM vfttiH,#}</div> Ku. iii. 72;
-<div n="lb"/><div n="xe">{%the a. of love%}</div> <div n="xs">{#madanasya vyApAraH,#}</div> Sa. i. </div><div n="I">II Deed,
-<div n="lb"/>conduct: q. v. </div><div n="1">(1) {#cezwitam;#} </div><div n="1">(2) {#vicezwitam.#}</div>
-<div n="lb"/><div n="I">III Gesticulation: q. v. {#cezwA,#} M. vii. 63.</div>
-<div n="lb"/><div n="I">IV Law suit, cause: q. v. {#kAryam,#} Mr. xi.
-<div n="lb"/>V. An engagement, battle: q. v.: {#yudDam.#}</div>
-<div n="lb"/><div n="I">VI In plays etc.: {#*kAryam:#} <div n="xe">{%there is much a.%}
-<div n="lb"/>{%in the play%}</div> <div n="xs">{#*kAryaBulaM nAwakam.:#}</div></div>
+{@ACTION:@}¦ <div n="I">I Agency: Often not expr: <div n="xe">{%water%}
+{%boils by the a. of heat%}</div> <div n="xs">{#*vAri tapati tApena.#}</div> Ph. <div n="xe">{%the%}
+{%a. of the senses%}</div> <div n="xs">{#indriyARAM vfttiH,#}</div> Ku. iii. 72;
+<div n="xe">{%the a. of love%}</div> <div n="xs">{#madanasya vyApAraH,#}</div> Sa. i. </div><div n="I">II Deed,
+conduct: q. v. </div><div n="1">(1) {#cezwitam;#} </div><div n="1">(2) {#vicezwitam.#}</div>
+<div n="I">III Gesticulation: q. v. {#cezwA,#} M. vii. 63.</div>
+<div n="I">IV Law suit, cause: q. v. {#kAryam,#} Mr. xi.
+V. An engagement, battle: q. v.: {#yudDam.#}</div>
+<div n="I">VI In plays etc.: {#*kAryam:#} <div n="xe">{%there is much a.%}
+{%in the play%}</div> <div n="xs">{#*kAryaBulaM nAwakam.:#}</div></div>
 <LEND>

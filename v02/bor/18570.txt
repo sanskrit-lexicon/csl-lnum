@@ -1,9 +1,9 @@
 <L>18570<pc>571<k1>rare<k2>rare
-<div n="lb"/>{@RARE:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#virala#} (f. {#lA#}), <div n="xe">{%with r.%}
-<div n="lb"/>{%dew-drops:%}</div> <div n="xs">{#viralatuzArakaRaH,#}</div> Ki. x. 28.; {#avirala-#}
-<div n="lb"/>{#lAYCanahAriRaSca kAlAH,#} Ki. x. 38.; <div n="xe">{%their advi-%}
-<div n="lb"/>{%sers are rare:%}</div> <div n="xs">{#viralAstezAmupadezwAraH,#}</div> K, </div><div n="1">(2) {#durlaBa#}
-<div n="lb"/>(f. {#BA#}) and sim. comp.s. (= scarce). </div><div n="I">II
-<div n="lb"/>Excellent: {#apUrva#} (f. {#rvA#}), <div n="xe">{%I saw a rare flower-%}
-<div n="lb"/>{%stalk:%}</div> <div n="xs">{#adfzwapUrvAM kusumamaYjarImadrAkzam,#}</div> K.</div>
+{@RARE:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#virala#} (f. {#lA#}), <div n="xe">{%with r.%}
+{%dew-drops:%}</div> <div n="xs">{#viralatuzArakaRaH,#}</div> Ki. x. 28.; {#avirala-#}
+{#lAYCanahAriRaSca kAlAH,#} Ki. x. 38.; <div n="xe">{%their advi-%}
+{%sers are rare:%}</div> <div n="xs">{#viralAstezAmupadezwAraH,#}</div> K, </div><div n="1">(2) {#durlaBa#}
+(f. {#BA#}) and sim. comp.s. (= scarce). </div><div n="I">II
+Excellent: {#apUrva#} (f. {#rvA#}), <div n="xe">{%I saw a rare flower-%}
+{%stalk:%}</div> <div n="xs">{#adfzwapUrvAM kusumamaYjarImadrAkzam,#}</div> K.</div>
 <LEND>

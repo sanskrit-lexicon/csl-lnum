@@ -1,10 +1,10 @@
 <L>1608<pc>054<k1>chamber<k2>chamber
 {@Chamber,@}¦ {%s.%} {#kozWaH, SAlA, AgAraM, AvAsaH,#}
-<div n="lb"/>{#kakzaH, veSman#} {%n.;%} ‘bed-c.’ {#SayyAveSman#} {%n.,%}
-<div n="lb"/>{#SayanAgAraM, vAsagfhaM;#} ‘inner c.’ {#kakzAMtaraM,#}
-<div n="lb"/>{#uparoDakaM;#} ‘upper c.’ {#caMdraSAlA, SirAgfhaM#}.
-<div n="lb"/>{@-lain,@} {%s.%} {#kaMcukin#} {%m.;%} {#SayanADikftaH, aMtaH-#}
-<div n="lb"/>{#-puravartin#} {%m.,%} {#mahattaraH;#} ‘female c.’ {#maha-#}
-<div n="lb"/>{#-ttarikA#}. {@-maid,@} {%s.%} {#SayanaparicArikA, aMtaH-#}
-<div n="lb"/>{#-puradAsI#}.
+{#kakzaH, veSman#} {%n.;%} ‘bed-c.’ {#SayyAveSman#} {%n.,%}
+{#SayanAgAraM, vAsagfhaM;#} ‘inner c.’ {#kakzAMtaraM,#}
+{#uparoDakaM;#} ‘upper c.’ {#caMdraSAlA, SirAgfhaM#}.
+{@-lain,@} {%s.%} {#kaMcukin#} {%m.;%} {#SayanADikftaH, aMtaH-#}
+{#-puravartin#} {%m.,%} {#mahattaraH;#} ‘female c.’ {#maha-#}
+{#-ttarikA#}. {@-maid,@} {%s.%} {#SayanaparicArikA, aMtaH-#}
+{#-puradAsI#}.
 <LEND>

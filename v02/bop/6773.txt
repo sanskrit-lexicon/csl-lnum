@@ -1,9 +1,8 @@
 <L>6773<pc>295-b<k1>rohiRI<k2>rohiRI
-{#rohiRI#}¦ {%f.%} (r. {#ruh#} s. {#in#} in {%fem.%}) astrum lunare
-<sup>(*)</sup> {%in, my-%}
-<div n="lb">{%thologia%} una e {%Dakshi%} filiis et dei {%Tschandri%} (lunae) con-
-<div n="lb">jugibus. N. 16. 22.
-<F>(*) Wilson: {%The fourth lunar asterism figured by a%}
-<div n="lb">{%wheeled carriage and containing five stars, probably, a,%}
-<div n="lb"><lang n="greek"></lang></F>
+{#rohiRI#}¦ {%f.%} (r. {#ruh#} s. {#in#} in {%fem.%}) astrum lunare <sup>(*)</sup>, {%in mythologia%}
+una e {%Dakshi%} filiis et dei {%Tschandri%} (lunae) conjugibus.
+N. 16.22.
+<F>(*) Wilson: {%The fourth lunar asterism figured by a
+wheeled carriage and containing five stars, probably%},
+<lang n="greek">α, β, γ, δ, ε</lang>.</F>
 <LEND>

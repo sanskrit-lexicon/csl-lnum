@@ -1,203 +1,201 @@
 <L>29523<pc>3-0318<k1>tAvant<k2>tA/vant
-{#tA/vant#}¦ (von 1. {#ta#}) 
-<div n="1"> 1) <lex>adj.</lex> (f. {#tAvatI#}) {%so gross, so weit reichend, so lange dauernd, so viel%} 
-<ls>P. 5, 2, 39. 6, 3, 91.</ls> 
-<ls>VOP. 7, 94.</ls> {#yAva^di\daM Buva^na\M viSva\masti^ tAvA^~ a\yaM pAta^ve\ somo^ astu#} 
-<ls>ṚV. 1, 108, 2.</ls> {#tAva^duzo\ rADo^ a\smaBya^M rAsva\ yAva^tsto\tfByo\ ara^do gfRA\nA#} 
-<ls n="ṚV.">7, 79, 4.</ls> {#yAva^tInA\moza^DInA\M gAva^H prA\Snanti^, tAva^tI\stuBya\moza^DI\H Sarma^ yacCantu#} 
-<ls>AV. 8, 7, 25.</ls> 
-<ls>ŚAT. BR. 1, 2, 5, 13. 5, 1, 2, 11. 9, 2, 2, 2. 4, 3, 9.</ls> {#yAvadvA eza Atapati tAvAnezaH#} 
-<ls>14, 1, 1, 33.</ls> {#yAvatyeva vAktAvatI pfTivI tAvAnayamagniH#} 
-<ls>4, 3, 18. 19.</ls> {#yAva^dagniho\tramAsI\ttAvA^nagnizwo\mo yAva^tI pOrRamA\sI tAvA^nu\kTya^H#} 
-<ls>TS. 1, 6, 9, 1.</ls> {#yAva\tpara^svata\H pasa\stAva^tte varDatA\M pasa^H#} 
-<ls>AV. 6, 72, 2. 5, 22, 5. 13, 4, 44. 19, 6, 3.</ls> 
-<ls>ŚĀṄKH. ŚR. 8, 21, 16. fgg.</ls> 
-<ls>KĀTY. ŚR. 20, 2, 11.</ls> 
-<ls>CHĀND. UP. 8, 1, 3.</ls> — {#yAvAnarTa udapAne sarvataH saMplutodake . tAvAnsarvezu vedezu brAhmaRasya vijAnataH#} 
-<ls>BHAG. 2, 46.</ls> {#Atmanyapi na viSvAsastAvAnBavati satsu yaH (= yAvAn)#} 
-<ls>SĀV. 5, 41.</ls> {#yAvAnaDarmaH - tAvAn#} 
-<ls>M. 9, 249.</ls> {#yAvatI saMBavedvfttistAvatIM dAtumarhati#} 
-<ls>8, 155.</ls> {#(nikzepaH) yAvAn - tAvAneva sa vijYeyaH#} 
-<ls>194.</ls> {#yAvacCasyaM vinaSyettu tAvatsyAtkzetriRaH Palam#} 
-<ls>YĀJÑ. 2, 161.</ls> {#tAvatI rAtrireva ca#} 
-<ls>M. 1, 72. 73,</ls> 
-<ls>H. 131.</ls> {#yAvato grasate grAsAn - tAvato grasate pretya dIptaSUlarzwyayoguqAn#} 
-<ls>M. 3, 133. 176. 178. 7, 61.</ls> {#yaToktAni tAvantyeva PalAni ca#} 
-<ls>N. 20, 18.</ls> {#tanmAtrARi ca tAvanti#} {%ebenso viele%} 
-<ls>BHĀG. P. 3, 26, 12.</ls> 
-<ls>M. 1, 64.</ls> {#(taRqulAH) tAvanta evAsanBujyamAnA dine dine#} {%verblieben in derselben Anzahl%} 
-<ls>KATHĀS. 7, 21.</ls> {#vAsAMsi yAvanti laBe tAvattAvadrame taTA#} 
-<ls>MBH. 4, 264.</ls> {#te tu yAvanta evAjO tAvAMSca#} (v. l. {#tAvadDA) dadfSe sa tEH#} {%in derselben Anzahl erschien er ihnen%} 
-<ls>RAGH. 12, 45.</ls> {#yAvatA kzaRena tAvatA#} {%nach wie langer Zeit - nach so langer Zeit, so bald als%} 
-<ls>RĀJA-TAR. 5, 110.</ls> {#tAvatA#} {%in der Zeit, inzwischen, unterdessen%} 
-<ls>KATHĀS. 10, 24.</ls> <ls>Verz. d. Oxf. H. 155</ls>, {%b%}, 
-<ls>40. 156</ls>,a. 
-<ls>29. 35.</ls> — {#tAvatEva yajYo saMsTitaH#} 
-<ls>AIT. BR. 1, 11.</ls> {#tAvatADikam#} 
-<ls>ṚV. PRĀT. 13, 13.</ls> {#jambudvIpo 'yaM yAvatpramARavistArastAvatA#} ({%in demselben Umfange%}, nicht etwa mit {#kzI°#} zu verbinden) {#kzIrodaDinA parivezwitaH#} 
-<ls>BHĀG. P. 5, 20, 2.</ls> {#tAvatAntarBUmyAM pravizwaH#} {%ebenso tief geht er unter die Erde%} 
-<ls>16, 7. 8, 2, 2.</ls> {#gfhItahfdayastanvyAstAvatEva#}
+{#tA/vant#}¦ (von 1. {#ta#})
+<div n="1"> 1) <lex>adj.</lex> (f. {#tAvatI#}) {%so gross, so weit reichend, so lange dauernd, so viel%}
+<ls>P. 5,2,39.</ls> <ls n="P.">6,3,91.</ls>
+<ls>VOP. 7,94.</ls> {#yAva^di\daM Buva^na\M viSva\masti^ tAvA^~ a\yaM pAta^ve\ somo^ astu#}
+<ls>ṚV. 1,108,2.</ls> {#tAva^duzo\ rADo^ a\smaBya^M rAsva\ yAva^tsto\tfByo\ ara^do gfRA\nA#}
+<ls n="ṚV.">7,79,4.</ls> {#yAva^tInA\moza^DInA\M gAva^H prA\Snanti^, tAva^tI\stuBya\moza^DI\H Sarma^ yacCantu#}
+<ls>AV. 8,7,25.</ls>
+<ls>ŚAT. BR. 1,2,5,13. 5,1,2,11. 9,2,2,2. 4,3,9.</ls> {#yAvadvA eza Atapati tAvAnezaH#}
+<ls n="ŚAT. BR.">14,1,1,33.</ls> {#yAvatyeva vAktAvatI pfTivI tAvAnayamagniH#}
+<ls n="ŚAT. BR.">4,3,18. 19.</ls> {#yAva^dagniho\tramAsI\ttAvA^nagnizwo\mo yAva^tI pOrRamA\sI tAvA^nu\kTya^H#}
+<ls>TS. 1,6,9,1.</ls> {#yAva\tpara^svata\H pasa\stAva^tte varDatA\M pasa^H#}
+<ls>AV. 6,72,2.</ls> <ls n="AV.">5,22,5.</ls> <ls n="AV.">13,4,44.</ls> <ls n="AV.">19,6,3.</ls>
+<ls>ŚĀṄKH. ŚR. 8,21,16. fgg.</ls>
+<ls>KĀTY. ŚR. 20,2,11.</ls>
+<ls>CHĀND. UP. 8,1,3.</ls> — {#yAvAnarTa udapAne sarvataH saMplutodake . tAvAnsarvezu vedezu brAhmaRasya vijAnataH#}
+<ls>BHAG. 2,46.</ls> {#Atmanyapi na viSvAsastAvAnBavati satsu yaH (= yAvAn)#}
+<ls>SĀV. 5,41.</ls> {#yAvAnaDarmaH — tAvAn#}
+<ls>M. 9,249.</ls> {#yAvatI saMBavedvfttistAvatIM dAtumarhati#}
+<ls n="M.">8,155.</ls> {#(nikzepaH) yAvAn — tAvAneva sa vijYeyaH#}
+<ls n="M. 8,">194.</ls> {#yAvacCasyaM vinaSyettu tAvatsyAtkzetriRaH Palam#}
+<ls>YĀJÑ. 2,161.</ls> {#tAvatI rAtrireva ca#}
+<ls>M. 1,72.</ls> <ls n="M. 1,">73</ls>,
+<ls>H. 131.</ls> {#yAvato grasate grAsAn — tAvato grasate pretya dIptaSUlarzwyayoguqAn#}
+<ls>M. 3,133.</ls> <ls n="M. 3,">176.</ls> <ls n="M. 3,">178.</ls> <ls n="M.">7,61.</ls> {#yaToktAni tAvantyeva PalAni ca#}
+<ls>N. 20,18.</ls> {#tanmAtrARi ca tAvanti#} {%ebenso viele%}
+<ls>BHĀG. P. 3,26,12.</ls>
+<ls>M. 1,64.</ls> {#(taRqulAH) tAvanta evAsanBujyamAnA dine dine#} {%verblieben in derselben Anzahl%}
+<ls>KATHĀS. 7,21.</ls> {#vAsAMsi yAvanti laBe tAvattAvadrame taTA#}
+<ls>MBH. 4,264.</ls> {#te tu yAvanta evAjO tAvAMSca#} (v. l. {#tAvadDA) dadfSe sa tEH#} {%in derselben Anzahl erschien er ihnen%}
+<ls>RAGH. 12,45.</ls> {#yAvatA kzaRena tAvatA#} {%nach wie langer Zeit — nach so langer Zeit, so bald als%}
+<ls>RĀJA-TAR. 5,110.</ls> {#tAvatA#} {%in der Zeit, inzwischen, unterdessen%}
+<ls>KATHĀS. 10,24.</ls> <ls>Verz. d. Oxf. H. 155,b,40.</ls>
+<ls n="Verz. d. Oxf. H.">156,a,29. 35.</ls> — {#tAvatEva yajYo saMsTitaH#}
+<ls>AIT. BR. 1,11.</ls> {#tAvatADikam#}
+<ls>ṚV. PRĀT. 13,13.</ls> {#jambudvIpo 'yaM yAvatpramARavistArastAvatA#} ({%in demselben Umfange%}, nicht etwa mit {#kzI°#} zu verbinden) {#kzIrodaDinA parivezwitaH#}
+<ls>BHĀG. P. 5,20,2.</ls> {#tAvatAntarBUmyAM pravizwaH#} {%ebenso tief geht er unter die Erde%}
+<ls n="BHĀG. P. 5,">16,7.</ls> <ls n="BHĀG. P.">8,2,2.</ls> {#gfhItahfdayastanvyAstAvatEva#}
 [Page3-0319]
-(so ed. Calc.) {%schon dadurch%} 
-<ls>RĀJA-TAR. 4, 24.</ls> 
-<ls>DAŚAK. 92, 17.</ls> — {#yAvatyu vA etasmAtprARAtpurastAdurastAvati paScAcCroRI#} {%so weit%} 
-<ls>ŚAT. BR. 8, 6, 2, 8.</ls> {#yadi\ varze\ttAva^tye\va ho\tavya^m#} {%so lange, in der Zeit%} 
-<ls>TS. 2, 4, 10, 1.</ls> {#sa yAva^dU\rDvaH pa^rA\viDya^ti\ tAva^ti sva\yame\va vya^ramata#} 
-<ls>12, 1.</ls> Häufig am Anfange eines <lex>adj.</lex> comp.: {#tA/vanmAna#} 
-<ls>TS. 2, 3, 11, 5.</ls> {#tAvadvarza#} {%ebenso alt%} 
-<ls>LĀṬY. 9, 12, 2.</ls> {#tAvacCatI#} 
-<ls>M. 1, 69.</ls> {#tAvadruRa#} 
-<ls>20.</ls> {#tAvatPala#} 
-<ls>ŚĀK. 137.</ls> — {#tAvatsUtreRa#} {%mit eben so vielen Schnüren%} 
-<ls>YĀJÑ. 2, 103.</ls> {#tA/vadvIryavant#} 
-<ls>ŚAT. BR. 1, 2, 3, 7.</ls> In Verb. mit Zahladvv. (ob comp.?): {#tristAvantam#} 
-<ls>ŚAT. BR. 11, 5, 6, 3.</ls> {#dvistAvatI rajjuH#} 
-<ls>P. 5, 4, 84,</ls> 
-<ls>Sch.</ls> {#apare daSasAhasrA dvistAvantastaTA pare#} 
-<ls>MBH. 4, 289.</ls> {#dvistAvacca kareRavaH#} 
-<ls>HARIV. 6927.</ls> {#dvistAvatpuruzAdAnAM rakzasAm#} 
-<ls>MBH. 3, 16176.</ls> 
-<ls>R. 3, 61, 22.</ls> Vgl. {#dvistAva, tristAva#} . Ueber die Bed. von {#tAvant#} und {#yAvant#} in der Arithmetik s. 
-<ls>COLEBR. Alg. 139. 258.</ls> 
-<div n="1">— 2) {#tA/vat#} adv. 
-<div n="2"> a) {%so weit, so sehr, so viel, in solcher Menge, - Anzahl%}: {#yAva\ccata^sraH pra\diSa\Scakzu\ryAva^tsamaSnu\te . tAva^tsa\mEtvi^ndri\yaM mayi^#} 
-<ls>AV. 3, 22, 5. 4. 12, 1, 33.</ls> {#yAvatpuruza UrDvabAhustAvadagniScitaH#} 
-<ls>KAUŚ. 85.</ls> 
-<ls>ṚV. 10, 114, 8.</ls> {#prastaramAtraM SizwvA tAvatpratiparyeti#} 
-<ls>KĀTY. ŚR. 5, 8, 30. 6, 22. 9, 13, 27.</ls> {#yAvadicCasi ratnAni hiraRyaM vA - tAvaddadAmi te sarvam#} 
-<ls>R. 1, 53, 21.</ls> {#taM samantaM lokaM dvistAvatpfTivI paryeti tAM pfTivIM dvistAvatsamudraH paryeti#} 
-<ls>ŚAT. BR. 14, 6, 3, 2.</ls> 
-<div n="2">— b) {%so lange, während dessen, in der Zeit%}; in Correl. mit {#yAvat#} {%wie lange, während, bis%}: {#yAvadvE kzullakA BavAmo bahvI vE nastAvannAzwvA Bavati#} 
-<ls>ŚAT. BR. 1, 8, 1, 3. 6, 3, 11.</ls> 
-<ls>ṚV. 10, 88, 19.</ls> {#yAvattrayaste jIveyustAvannAnyaM samAcaret#} 
-<ls>M. 2, 235. 4, 111.</ls> {#yacCezaM daSarAtrasya tAvadevASucirBavet#} 
-<ls>?5, 75. - N. 5, 31. MBH. 14, 174. R. 1, 2, 39. 3, 9, 32. PAÑCAT. 21, 9. ŚĀK. 101, 10. BHĀG. P. 6, 16, 7. RĀJA-TAR. 5, 253. fg. MĀRK. P. 15, 39.</ls> {#tAvatkajjalamardanEH . anyavadvipralabDo 'BUccIraKaRqEkakarpawaH .. yAvatsa paScime yAme baRiktatrAgato 'Bavat .#} 
-<ls>KATHĀS. 4, 60. 61.</ls> {%in dem Augenblicke als - da%}: {#yAvacca nikawaM tezAM prApa tAvattrayo 'pi te . - tasminpraharanti sma muzwiBiH#} 
-<ls>VID. 81. 104. 114. 295.</ls> 
-<ls>VET. 5, 11. 13. 6, 19. 28, 7.</ls> 
-<ls>HIT. 12, 1. 43, 21.</ls> {#tAvadeva - purA#} {%bevor%} 
-<ls>R. 1, 28, 11.</ls> Ohne Correl. {%mittlerweile, inzwischen%}: {#tatastAvawastaM gate savitari#} 
-<ls>HIT. 17, 20, v. l.</ls> 
-<ls>MBH. 13, 2727.</ls> {#yAvat - dvistAvat#} {%zweimal so lange%} 
-<ls>CHĀND. UP. 3, 7, 4.</ls> {#tA/vajjyok#} {%so lange%} 
-<ls>ŚAT. BR. 11, 5, 1, 2.</ls> {#yAvanna - tAvat#} {%so lange nicht, bevor, bis - so lange, während dessen, in der Zeit, bis dahin%}: {#SUdreRa hi samastAvadyAvadvede na jAyate#} 
-<ls>M. 2. 172. 5, 126. 11, 153.</ls> {#yAvattvAM na vimokzyati . tAvattvayi - duHKaM vE sa nivatsyati#} 
-<ls>N. 14, 16.</ls> 
-<ls>MBH. 5, 7486.</ls> {#budDiM na kurute yAvannASe - tAvatprasAdyaH#} 
-<ls>R. 1, 65, 15. 3, 1, 28. 49, 14.</ls> 
-<ls>BHARTṚ. 1, 55. 59.</ls> 
-<ls>PAÑCAT. 21, 3. 4.</ls> 
-<ls>PRAB. 7, 3.</ls> {#tAvacca SoBate mUrKo yAvatkiMcinna BAzate#} 
-<ls>HIT. Pr. 39.</ls> {#yAvanme dantA na truwyanti tAvadBavataH pASaM Cinadmi#} 
-<ls>15, 10. 43, 12.</ls> {#tAvadBayasya BetavyaM yAvadBayamanAgatam#} 
-<ls>I, 50.</ls> {#tAvatsyAdaSucirvipro yAvattatsyAdanirdaSam#} 
-<ls>M. 5, 79.</ls> {#yAvadDyakftaviSvAsA drupade - tAvadeva#} 
-<ls>MBH. 1, 7414.</ls> {#saMvatsaro 'tyagAttAvadyAvatA nAgato gataH#} 
-<ls>BHĀG. P. 9, 5, 23.</ls> Mit {#yAvat#} kann {#purA#} verbunden werden: {#purADarmo vartate neha yAvattAvadgacCAmaH#} 
-<ls>MBH. 13, 4556.</ls> {#tAvadeva ciraM#} (müssig) {#yAvanna vimokzye#} 
-<ls>CHĀND. UP. 6, 14, 2.</ls> Nicht selten fehlt bei {#yAvat#} die Negation: {#bAladAyAdikaM rikTaM tAvadrAjAnupAlayet . yAvatsa syAtsamAvftto yAvaccAtItaSESavaH ..#} 
-<ls>M. 8, 27.</ls> {#tAvattapaH kuryAdyAvattuzwikaraM Bavet#} 
-<ls>11, 233.</ls> {#ahaM hi SozayizyAmi AtmAnaM vijitendriyaH . tAvadyAvadDi me prAptaM brAhmaRyam#} 
-<ls>R. 1, 64, 19.</ls> {#gacCasi#} (v. l. {#yAsi na) yAvadantam . tAvat#} 
-<ls>ŚĀK. 139.</ls> {#yAvadahamASramavAsinaH pratyavekzyopAvarte tAvadArdrapfzWAH kriyantAM vAjinaH#} 
-<ls>8,14.</ls>
+(so <ls>ed. Calc.</ls>) {%schon dadurch%}
+<ls>RĀJA-TAR. 4,24.</ls>
+<ls>DAŚAK. 92,17.</ls> — {#yAvatyu vA etasmAtprARAtpurastAdurastAvati paScAcCroRI#} {%so weit%}
+<ls>ŚAT. BR. 8,6,2,8.</ls> {#yadi\ varze\ttAva^tye\va ho\tavya^m#} {%so lange, in der Zeit%}
+<ls>TS. 2,4,10,1.</ls> {#sa yAva^dU\rDvaH pa^rA\viDya^ti\ tAva^ti sva\yame\va vya^ramata#}
+<ls n="TS.">12,1.</ls> Häufig am Anfange eines <lex>adj.</lex> comp.: {#tA/vanmAna#}
+<ls>TS. 2,3,11,5.</ls> {#tAvadvarza#} {%ebenso alt%}
+<ls>LĀṬY. 9,12,2.</ls> {#tAvacCatI#}
+<ls>M. 1,69.</ls> {#tAvadruRa#}
+<ls n="M. 1,">20.</ls> {#tAvatPala#}
+<ls>ŚĀK. 137.</ls> — {#tAvatsUtreRa#} {%mit eben so vielen Schnüren%}
+<ls>YĀJÑ. 2,103.</ls> {#tA/vadvIryavant#}
+<ls>ŚAT. BR. 1,2,3,7.</ls> In Verb. mit Zahladvv. (ob comp.?): {#tristAvantam#}
+<ls>ŚAT. BR. 11,5,6,3.</ls> {#dvistAvatI rajjuH#}
+<ls>P. 5,4,84</ls>, <ls>Sch.</ls>
+{#apare daSasAhasrA dvistAvantastaTA pare#}
+<ls>MBH. 4,289.</ls> {#dvistAvacca kareRavaH#}
+<ls>HARIV. 6927.</ls> {#dvistAvatpuruzAdAnAM rakzasAm#}
+<ls>MBH. 3,16176.</ls>
+<ls>R. 3,61,22.</ls> Vgl. {#dvistAva, tristAva#} . Ueber die Bed. von {#tAvant#} und {#yAvant#} in der Arithmetik s.
+<ls>COLEBR. Alg. 139. 258.</ls>
+<div n="1">— 2) {#tA/vat#} adv.
+<div n="2"> a) {%so weit, so sehr, so viel, in solcher Menge, — Anzahl%}: {#yAva\ccata^sraH pra\diSa\Scakzu\ryAva^tsamaSnu\te . tAva^tsa\mEtvi^ndri\yaM mayi^#}
+<ls>AV. 3,22,5.</ls> <ls n="AV. 3,22,">4.</ls> <ls n="AV.">12,1,33.</ls> {#yAvatpuruza UrDvabAhustAvadagniScitaH#}
+<ls>KAUŚ. 85.</ls>
+<ls>ṚV. 10,114,8.</ls> {#prastaramAtraM SizwvA tAvatpratiparyeti#}
+<ls>KĀTY. ŚR. 5,8,30. 6,22. 9,13,27.</ls> {#yAvadicCasi ratnAni hiraRyaM vA — tAvaddadAmi te sarvam#}
+<ls>R. 1,53,21.</ls> {#taM samantaM lokaM dvistAvatpfTivI paryeti tAM pfTivIM dvistAvatsamudraH paryeti#}
+<ls>ŚAT. BR. 14,6,3,2.</ls>
+<div n="2">— b) {%so lange, während dessen, in der Zeit%}; in Correl. mit {#yAvat#} {%wie lange, während, bis%}: {#yAvadvE kzullakA BavAmo bahvI vE nastAvannAzwvA Bavati#}
+<ls>ŚAT. BR. 1,8,1,3. 6,3,11.</ls>
+<ls>ṚV. 10,88,19.</ls> {#yAvattrayaste jIveyustAvannAnyaM samAcaret#}
+<ls>M. 2,235.</ls> <ls n="M.">4,111.</ls> {#yacCezaM daSarAtrasya tAvadevASucirBavet#}
+<ls n="M.">5,75.</ls> — <ls>N. 5,31.</ls> <ls>MBH. 14,174.</ls> <ls>R. 1,2,39.</ls> <ls n="R.">3,9,32.</ls> <ls>PAÑCAT. 21,9.</ls> <ls>ŚĀK. 101,10.</ls> <ls>BHĀG. P. 6,16,7.</ls> <ls>RĀJA-TAR. 5,253. fg.</ls> <ls>MĀRK. P. 15,39.</ls> {#tAvatkajjalamardanEH . anyavadvipralabDo 'BUccIraKaRqEkakarpawaH .. yAvatsa paScime yAme baRiktatrAgato 'Bavat .#}
+<ls>KATHĀS. 4,60.</ls> <ls n="KATHĀS. 4,">61.</ls> {%in dem Augenblicke als — da%}: {#yAvacca nikawaM tezAM prApa tAvattrayo 'pi te . — tasminpraharanti sma muzwiBiH#}
+<ls>VID. 81. 104. 114. 295.</ls>
+<ls>VET. 5,11. 13. 6,19. 28,7.</ls>
+<ls>HIT. 12,1.</ls> <ls n="HIT.">43,21.</ls> {#tAvadeva — purA#} {%bevor%}
+<ls>R. 1,28,11.</ls> Ohne Correl. {%mittlerweile, inzwischen%}: {#tatastAvawastaM gate savitari#}
+<ls>HIT. 17,20, v. l.</ls>
+<ls>MBH. 13,2727.</ls> {#yAvat — dvistAvat#} {%zweimal so lange%}
+<ls>CHĀND. UP. 3,7,4.</ls> {#tA/vajjyok#} {%so lange%}
+<ls>ŚAT. BR. 11,5,1,2.</ls> {#yAvanna — tAvat#} {%so lange nicht, bevor, bis — so lange, während dessen, in der Zeit, bis dahin%}: {#SUdreRa hi samastAvadyAvadvede na jAyate#}
+<ls>M. 2,172.</ls> <ls n="M.">5,126.</ls> <ls n="M.">11,153.</ls> {#yAvattvAM na vimokzyati . tAvattvayi — duHKaM vE sa nivatsyati#}
+<ls>N. 14,16.</ls>
+<ls>MBH. 5,7486.</ls> {#budDiM na kurute yAvannASe — tAvatprasAdyaH#}
+<ls>R. 1,65,15.</ls> <ls n="R.">3,1,28</ls> <ls n="R. 3,">49,14.</ls>
+<ls>BHARTṚ. 1,55. 59.</ls>
+<ls>PAÑCAT. 21,3. 4.</ls>
+<ls>PRAB. 7,3.</ls> {#tAvacca SoBate mUrKo yAvatkiMcinna BAzate#}
+<ls>HIT. Pr. 39.</ls> {#yAvanme dantA na truwyanti tAvadBavataH pASaM Cinadmi#}
+<ls n="HIT.">15,10.</ls> <ls n="HIT.">43,12.</ls> {#tAvadBayasya BetavyaM yAvadBayamanAgatam#}
+<ls n="HIT.">I,50.</ls> {#tAvatsyAdaSucirvipro yAvattatsyAdanirdaSam#}
+<ls>M. 5,79.</ls> {#yAvadDyakftaviSvAsA drupade — tAvadeva#}
+<ls>MBH. 1,7414.</ls> {#saMvatsaro 'tyagAttAvadyAvatA nAgato gataH#}
+<ls>BHĀG. P. 9,5,23.</ls> Mit {#yAvat#} kann {#purA#} verbunden werden: {#purADarmo vartate neha yAvattAvadgacCAmaH#}
+<ls>MBH. 13,4556.</ls> {#tAvadeva ciraM#} (müssig) {#yAvanna vimokzye#}
+<ls>CHĀND. UP. 6,14,2.</ls> Nicht selten fehlt bei {#yAvat#} die Negation: {#bAladAyAdikaM rikTaM tAvadrAjAnupAlayet . yAvatsa syAtsamAvftto yAvaccAtItaSESavaH ..#}
+<ls>M. 8,27.</ls> {#tAvattapaH kuryAdyAvattuzwikaraM Bavet#}
+<ls n="M.">11,233.</ls> {#ahaM hi SozayizyAmi AtmAnaM vijitendriyaH . tAvadyAvadDi me prAptaM brAhmaRyam#}
+<ls>R. 1,64,19.</ls> {#gacCasi#} (v. l. {#yAsi na) yAvadantam . tAvat#}
+<ls>ŚĀK. 139.</ls> {#yAvadahamASramavAsinaH pratyavekzyopAvarte tAvadArdrapfzWAH kriyantAM vAjinaH#}
+<ls n="ŚĀK.">8,14.</ls>
 [Page3-0320]
-{#ihEva tAvattizWAmi yAvadAyAtyasO#} 
-<ls>VID. 99. 54.</ls> 
-<div n="2">— c) {%sofort; zuvörderst, zunächst%}: {#brahmA^Ri\ hi ca^kf\ze varDa^nAni\ tAva^tta indra ma\tiBi^rvivizmaH#} 
-<ls>ṚV. 6, 23, 6.</ls> {#dAtuM ca tAvadicCAmi svargagatasya mahIpateH . OrDvadehanimittArTamavatIryodakaM nadIm#} 
-<ls>R. 2, 83, 24.</ls> {#aDarmeREDate tAvattato BadrARi paSyati . tato sapatnAYjayati samUlastu vinaSyati ..#} 
-<ls>M. 4, 174.</ls> {#ahastAvatpradozo vA kaccidgacCati te suKam#} 
-<ls>HARIV. 10063.</ls> {#DanaM tAvadasulaBaM labDaM kfcCreRa pAlyate#} 
-<ls>HIT. 37, 14.</ls> {#mitralABastAvadasmABiH SrutaH . idAnIM suhfdBedaM SrotumicCAmaH#} 
-<ls>45, 1.</ls> {#mArgaM tAvacCfRu - saMdeSaM me tadanu jalada Srozyasi#} 
-<ls>MEGH. 13.</ls> {#tava BakzaRAtsvAminaH prARayAtrApi tAvanna Bavati . aparaM dozaSca samutpadyate#} 
-<ls>PAÑCAT. 71, 1.</ls> {#ekastAvallaGustvaM saMprApto 'paraM velAtikrameRa#} 
-<ls>55, 11.</ls> {#arTakAmavArttAniBajYA vayam - sA tvavAdIt arTastAvat - kAmastu#} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 182, 18. fgg.</ls> {#Saktidvayamasti . AvaraRaSaktistAvat - vikzepaSaktistu#} 
-<ls>VEDĀNTAS. (Allah.) No. 36. 39.</ls> {#ahaM tAvat - ayaM ca#} 
-<ls>PRAB. 16, 3. 20, 13.</ls> {#tAvat - api#} 
-<ls>PAÑCAT. 128, 2.</ls> 
-<ls>HIT. 21, 13.</ls> {#tAvat - ca#} 
-<ls>PRAB. 13, 6.</ls> {#tAvadevodagAt (pataMgamaRqalam) - utTAya ca#} u. s. w. {%kaum - so%} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 188, 21.</ls> {#tAvat - vyatIte 'sminkAle#} 
-<ls>BHARTṚ. 1, 79.</ls> {#saMparizvaja tAmanmAM paScAtputra gamizyasi#} 
-<ls>R. GORR. 2, 66, 30.</ls> {#tAvat - tatas#} 
-<ls>RAGH. 7, 4. 5.</ls> {#tAvat - punaH#} 
-<ls>PAÑCAT. 53, 24.</ls> {#kiM tAvat - uta - Aho svit#} 
-<ls>ŚĀK. 106. -</ls> <ls>ŚĀK. 72. 184. 69, 22. 71, 8. 104, 22.</ls> <ls>PAÑCAT. 4, 14.</ls> <ls>KATHĀS. 5, 6. 25, 217.</ls> <ls>BHĀG. P. 3, 1, 24.</ls> <ls>BRAHMA-P.</ls> in <ls>LA.53, 18.</ls> <ls>RĀJA-TAR. 3, 166.</ls> <ls>PRAB. 13, 6.</ls> <ls>VEDĀNTAS. (Allah.) No. 10.</ls> <ls>Sch.</ls> zu <ls>KAP. 1, 78.</ls> <ls>SĀH. D. 2, 18.</ls> <ls>P. 4, 2, 93</ls>, <ls>Sch.</ls> Sehr häufig in Verbind. mit einem imperat. als Aufforderung zu dem was {%sofort, zunächst%} zu thun ist. 
-<ls>HIḌ. 4, 53.</ls> 
-<ls>R. 1, 8, 5. 9, 34. 3, 5, 12. 53, 23. 6, 106, 13.</ls> 
-<ls>ŚĀK. 3, 7. 8, 13. 23, 1. 24, 1. 27, 1. 71, 10. 85, 15. 86, 17. 91, 5.</ls> 
-<ls>MĀLAV. 12, 3.</ls> 
-<ls>VIKR. 149.</ls> 
-<ls>KUMĀRAS. 5, 67.</ls> 
-<ls>PAÑCAT. 17, 20.</ls> 
-<ls>HIT. 10, 3</ls> (wo {#tAvat#} zum Vorhergehenden gehört). 
-<ls>?15, 8. 18, 19. KATHĀS. 5, 113. VID. 124. BHĀG. P. 7, 4, 26. 8, 6, 19. VET. 28, 8. DAŚAK. in BENF. Chr. 184, 1. PRAB. 5, 6. RĀJA-TAR. 3, 369. SĀH. D. 73, 18.</ls> In Verbind. mit einem potent. 
-<ls>MBH. 4, 888.</ls> 
-<ls>R. 2, 56, 13</ls>,b. mit {#arh#} {%müssen%}: {#tattAvadvAKyaM tvaM kzantumarhasi#} 
-<ls>R. 2, 52, 36. 1, 24, 11.</ls> mit einer 1ten praes.: {#girirAjamimaM tAvatpfcCAmi nfpatiM prati#} {%ich will zuvörderst den König der Berge befragen%} 
-<ls>N. 12, 28.</ls> 
-<ls>MṚCCH. 48, 14.</ls> 
-<ls>ŚĀK. 7, 19. 20. 9, 18. 14, 10. 32, 15. 46, 7. 68, 6.</ls> 
-<ls>PAÑCAT. 21, 8.</ls> 
-<ls>HIT. 17, 17. 18, 15.</ls> 
-<ls>VID. 211.</ls> mit einer 1ten fut. 
-<ls>N.</ls> <ls>?(BOPP) 12, 41</ls>  (v. l. praes.). 
-<ls>ŚĀK. 12, 12. 13, 22. 18, 10. 23, 13. 31, 11. 32, 15</ls> <ls>?(v. l.). 85, 7. PAÑCAT. 13, 3.</ls> Nicht selten mit zu ergänzendem imperat.: {#itastAvat#} 
-<ls>MĀLAV. 3, 6. 17, 6.</ls> 
-<ls>PRAB. 3, 3.</ls> {#DanustAvat#} 
-<ls>ŚĀK. 93, 16.</ls> 
-<ls>VIKR. 76, 14.</ls> {#mA tAvat#} als Ausdruck {%der höchsten Missbilligung, einer völlig abweichenden Ansicht%}, etwa so v. a. {%um des Himmels Willen nicht%} 
-<ls>ŚĀK. 66, 22. 78, 15. 93, 5.</ls> 
-<ls>MĀLAV. 3, 12.</ls> 
-<div n="2">— d) mit der Neg. {%noch nicht%}: {#na tAvaddfSyate sUryaH kzayo 'yaM pratiBAti ca . udite - BAnO kaTametadBavizyati#} 
-<ls>MBH. 1, 1273. 5997. 4, 1249. 6, 1576.</ls> 
-<ls>R. 1, 63, 22. 2, 52, 90. 5, 34, 2.</ls> 
-<ls>MṚCCH. 48, 14.</ls> 
-<ls>ŚĀK. 25, 14.</ls> 
-<ls>VIKR. 7. 64, 18.</ls> 
-<ls>RĀJA-TAR. 5, 133.</ls> {#nanvamumeva tAvadacirapravfttam - grIzmasamayam#} {%noch nicht lange%} 
-<ls>ŚĀK. 4, 4.</ls> 
-<ls>RĀJA-TAR. 1, 118.</ls> {#na tAvat - yAvat#} {%noch nicht - während%} 
-<ls>KATHĀS. 26, 23.</ls> 
-<div n="2">— e) bei Einräumungen {%wohl, allerdings%}: {#samyagAha BavAMstAvaddUtavaDyA vigarhitA . avaSyaM tu vaDAdanyaH karaRIyo 'sya nigrahaH ..#} 
-<ls>R. 5, 49, 2. 2, 38, 7. 11. 52, 43. 58, 25.</ls> {#sfjati tAvadaSezaguRAkaraM puruzaratnamalaMkaraRaM BuvaH . tadapi tatkzaRaBaNgi karoti cedahaha kazwamapaRqitatA #}
+{#ihEva tAvattizWAmi yAvadAyAtyasO#}
+<ls>VID. 99. 54.</ls>
+<div n="2">— c) {%sofort; zuvörderst, zunächst%}: {#brahmA^Ri\ hi ca^kf\ze varDa^nAni\ tAva^tta indra ma\tiBi^rvivizmaH#}
+<ls>ṚV. 6,23,6.</ls> {#dAtuM ca tAvadicCAmi svargagatasya mahIpateH . OrDvadehanimittArTamavatIryodakaM nadIm#}
+<ls>R. 2,83,24.</ls> {#aDarmeREDate tAvattato BadrARi paSyati . tato sapatnAYjayati samUlastu vinaSyati ..#}
+<ls>M. 4,174.</ls> {#ahastAvatpradozo vA kaccidgacCati te suKam#}
+<ls>HARIV. 10063.</ls> {#DanaM tAvadasulaBaM labDaM kfcCreRa pAlyate#}
+<ls>HIT. 37,14.</ls> {#mitralABastAvadasmABiH SrutaH . idAnIM suhfdBedaM SrotumicCAmaH#}
+<ls n="HIT.">45,1.</ls> {#mArgaM tAvacCfRu — saMdeSaM me tadanu jalada Srozyasi#}
+<ls>MEGH. 13.</ls> {#tava BakzaRAtsvAminaH prARayAtrApi tAvanna Bavati . aparaM dozaSca samutpadyate#}
+<ls>PAÑCAT. 71,1.</ls> {#ekastAvallaGustvaM saMprApto 'paraM velAtikrameRa#}
+<ls n="PAÑCAT.">55,11.</ls> {#arTakAmavArttAniBajYA vayam — sA tvavAdIt arTastAvat — kAmastu#}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 182,18. fgg.</ls> {#Saktidvayamasti . AvaraRaSaktistAvat — vikzepaSaktistu#}
+<ls>VEDĀNTAS. (Allah.) No. 36. 39.</ls> {#ahaM tAvat — ayaM ca#}
+<ls>PRAB. 16,3.</ls> <ls n="PRAB.">20,13.</ls> {#tAvat — api#}
+<ls>PAÑCAT. 128,2.</ls>
+<ls>HIT. 21,13.</ls> {#tAvat — ca#}
+<ls>PRAB. 13,6.</ls> {#tAvadevodagAt (pataMgamaRqalam) — utTAya ca#} u. s. w. {%kaum — so%}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 188,21.</ls> {#tAvat — vyatIte 'sminkAle#}
+<ls>BHARTṚ. 1,79.</ls> {#saMparizvaja tAmanmAM paScAtputra gamizyasi#}
+<ls>R. GORR. 2,66,30.</ls> {#tAvat — tatas#}
+<ls>RAGH. 7,4.</ls> <ls n="RAGH. 7,">5.</ls> {#tAvat — punaH#}
+<ls>PAÑCAT. 53,24.</ls> {#kiM tAvat — uta — Aho svit#}
+<ls>ŚĀK. 106.</ls> — <ls>ŚĀK. 72. 184. 69,22. 71,8. 104,22.</ls> <ls>PAÑCAT. 4,14.</ls> <ls>KATHĀS. 5,6.</ls> <ls n="KATHĀS.">25,217.</ls> <ls>BHĀG. P. 3,1,24.</ls> <ls>BRAHMA-P. in LA. 53,18.</ls> <ls>RĀJA-TAR. 3,166.</ls> <ls>PRAB. 13,6.</ls> <ls>VEDĀNTAS. (Allah.) No. 10.</ls> <ls>Sch.</ls> zu <ls>KAP. 1,78.</ls> <ls>SĀH. D. 2,18.</ls> <ls>P. 4,2,93</ls>, <ls>Sch.</ls> Sehr häufig in Verbind. mit einem imperat. als Aufforderung zu dem was {%sofort, zunächst%} zu thun ist.
+<ls>HIḌ. 4,53.</ls>
+<ls>R. 1,8,5.</ls> <ls n="R. 1,">9,34.</ls> <ls n="R.">3,5,12.</ls> <ls n="R. 3,">53,23.</ls> <ls n="R.">6,106,13.</ls>
+<ls>ŚĀK. 3,7. 8,13. 23,1. 24,1. 27,1. 71,10. 85,15. 86,17. 91,5.</ls>
+<ls>MĀLAV. 12,3.</ls>
+<ls>VIKR. 149.</ls>
+<ls>KUMĀRAS. 5,67.</ls>
+<ls>PAÑCAT. 17,20.</ls>
+<ls>HIT. 10,3</ls> (wo {#tAvat#} zum Vorhergehenden gehört).
+<ls n="HIT.">15,8. 18,19.</ls> <ls>KATHĀS. 5,113.</ls> <ls>VID. 124.</ls> <ls>BHĀG. P. 7,4,26.</ls> <ls n="BHĀG. P.">8,6,19.</ls> <ls>VET. 28,8.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 184,1.</ls> <ls>PRAB. 5,6.</ls> <ls>RĀJA-TAR. 3,369.</ls> <ls>SĀH. D. 73,18.</ls> In Verbind. mit einem potent.
+<ls>MBH. 4,888.</ls>
+<ls>R. 2,56,13,b.</ls> mit {#arh#} {%müssen%}: {#tattAvadvAKyaM tvaM kzantumarhasi#}
+<ls>R. 2,52,36.</ls> <ls n="R.">1,24,11.</ls> mit einer 1ten praes.: {#girirAjamimaM tAvatpfcCAmi nfpatiM prati#} {%ich will zuvörderst den König der Berge befragen%}
+<ls>N. 12,28.</ls>
+<ls>MṚCCH. 48,14.</ls>
+<ls>ŚĀK. 7,19. 20. 9,18. 14,10. 32,15. 46,7. 68,6.</ls>
+<ls>PAÑCAT. 21,8.</ls>
+<ls>HIT. 17,17.</ls> <ls n="HIT.">18,15.</ls>
+<ls>VID. 211.</ls> mit einer 1ten fut.
+<ls>N. (BOPP) 12,41</ls> (v. l. praes.).
+<ls>ŚĀK. 12,12. 13,22. 18,10. 23,13. 31,11. 32,15</ls> (<ls>v. l.). 85,7.</ls> <ls>PAÑCAT. 13,3.</ls> Nicht selten mit zu ergänzendem imperat.: {#itastAvat#}
+<ls>MĀLAV. 3,6. 17,6.</ls>
+<ls>PRAB. 3,3.</ls> {#DanustAvat#}
+<ls>ŚĀK. 93,16.</ls>
+<ls>VIKR. 76,14.</ls> {#mA tAvat#} als Ausdruck {%der höchsten Missbilligung, einer völlig abweichenden Ansicht%}, etwa so v. a. {%um des Himmels Willen nicht%}
+<ls>ŚĀK. 66,22. 78,15. 93,5.</ls>
+<ls>MĀLAV. 3,12.</ls>
+<div n="2">— d) mit der Neg. {%noch nicht%}: {#na tAvaddfSyate sUryaH kzayo 'yaM pratiBAti ca . udite — BAnO kaTametadBavizyati#}
+<ls>MBH. 1,1273.</ls> <ls n="MBH. 1,">5997.</ls> <ls n="MBH.">4,1249.</ls> <ls n="MBH.">6,1576.</ls>
+<ls>R. 1,63,22.</ls> <ls n="R.">2,52,90</ls> <ls n="R.">5,34,2.</ls>
+<ls>MṚCCH. 48,14.</ls>
+<ls>ŚĀK. 25,14.</ls>
+<ls>VIKR. 7. 64,18.</ls>
+<ls>RĀJA-TAR. 5,133.</ls> {#nanvamumeva tAvadacirapravfttam — grIzmasamayam#} {%noch nicht lange%}
+<ls>ŚĀK. 4,4.</ls>
+<ls>RĀJA-TAR. 1,118.</ls> {#na tAvat — yAvat#} {%noch nicht — während%}
+<ls>KATHĀS. 26,23.</ls>
+<div n="2">— e) bei Einräumungen {%wohl, allerdings%}: {#samyagAha BavAMstAvaddUtavaDyA vigarhitA . avaSyaM tu vaDAdanyaH karaRIyo 'sya nigrahaH ..#}
+<ls>R. 5,49,2.</ls> <ls n="R.">2,38,7.</ls> <ls n="R. 2,38,">11.</ls> <ls n="R. 2,">52,43.</ls> <ls n="R. 2,">58,25.</ls> {#sfjati tAvadaSezaguRAkaraM puruzaratnamalaMkaraRaM BuvaH . tadapi tatkzaRaBaNgi karoti cedahaha kazwamapaRqitatA #}
 [Page3-0321]
-{# viDeH ..#} 
-<ls>BHARTṚ. 2, 88.</ls> {#vayaM tAvatsarvatrEva paryawitAH . paraM na kiMcitprAptaM dfzwaM vA sattvam#} 
-<ls>PAÑCAT. 70, 19.</ls> {#asti deva tAvadayaM mahAnBayahetuH - kiM tu#} 
-<ls>HIT. 56, 22. 15, 18.</ls> {#dfQastAvadbanDaH#} {%es ist nicht zu läugnen, das Band ist fest%}, 
-<ls>21, 20.</ls> <ls>KATHĀS. 5, 3.</ls> <ls>ŚĀK. 12, 12,</ls> <ls>v. l. 83, 23.</ls> <ls>HIT. Pr. 39</ls>,a. {#gatA tAvannivedyEva mama sodayaparvatam#} {%sie ist allerdings fortgegangen, nachdem sie aber zuvor%} u. s. w. 
-<ls>VID. 173.</ls> 
-<div n="2">— f) {%schon, sogar%} (wenn diese einem {%wieviel mehr%} oder {%wieviel weniger%} gegenüberstehen): {#yadi tAvatsumadrasya mEnAkasya nagasya ca . rAmArTe saMBramastIvraH kimagnerna Bavizyati#} 
-<ls>R. 5, 49, 27.</ls> {#sa tAvatpratijagrAha Kago BAryAnisUdanam . kapotaH - kimutAhaM viBIzaRam#} 
-<ls>91, 5. 4, 35, 8.</ls> {#vEklavyaM mama tAvadIdfSamapi snehAdaraRyOkasaH pIqyante gfhiRaH kaTaM nu tanayAviSlezaduH KErnavEH#} 
-<ls>ŚĀK. 81.</ls> {#ahanyahanyAtmana eva tAvajjYAtuM pramAdasKalitaM na Sakyam . prajAsu kaH kena paTA prayAtItyaSezato veditumasti SaktiH ..#} 
-<ls>153.</ls> 
-<div n="2">— g) hebt wie {#eva#} einen Begriff mit Nachdruck hervor und ist bisweilen mit jener part. verbunden: {#alpo 'pyevaM mahAnvApi (SulkaH) vikrayastAvadeva saH#} {%es ist ein Verkauf und nichts anderes%} 
-<ls>M. 3, 53.</ls> {#stotavyA yadi tAvatsA#} ({%sie und nicht ich%}) {#nAradena tavAgrataH . durBago 'yaM janastatra kimarTamanuSabditaH ..#} 
-<ls>HARIV. 7110.</ls> {#na tAvatsadfSaM hyetatsacivEH - vipriyaM nfpatervaktum#} {%durchaus nicht%} 
-<ls>R. 6, 5, 4.</ls> {#tvanmatiH kevalA tAvatparipAlayituM prajAH#} 
-<ls>ŚĀK. 159.</ls> {#AvayostAvadekamudaraM sAmAnyatfptiSca Bavizyati#} {%wir haben ja nur einen Magen und so wird%} u. s. w. 
-<ls>PAÑCAT. 264, 2.</ls> {#iyaM tAvaddakziRena#} {%da steht sie ja zu deiner Rechten%} 
-<ls>53, 10.</ls> {#tvaM tAvatkatamAM tarkayasi#} {%welche ist es nach deiner Vermuthung%} 
-<ls>86, 9.</ls> {#mitratvaM tAvadasmABiH sahAyatnena nizpannameva BavataH#} 
-<ls>HIT. 38, 17.</ls> 
-<ls>CĀT. 1.</ls> — Nach den Lexicogrr. 
-<div n="1"> 1) {#mAne#} . 
-<div n="1">— 2) {#avaDO (paricCede)#} . 
-<div n="1">— 3) {#sAkalye (kArtsnye)#} . 
-<div n="1">— 4) {#avaDAraRe#} 
-<ls>AK. 3, 4, 32 (28), 8.</ls> 
-<ls>H. an. 7, 23.</ls> 
-<ls>MED.</ls> <is>avy</is>. 
-<ls>29. 30.</ls> 
-<div n="1">— 5) {#aDikAre#} . 
-<div n="1">— 6) {#saMBrame#} 
-<ls>MED.</ls> 
-<div n="1">— 7) {#pakzAntare#} . 
-<div n="1">— 8) {#praSaMsAyAm#} 
+{# viDeH ..#}
+<ls>BHARTṚ. 2,88.</ls> {#vayaM tAvatsarvatrEva paryawitAH . paraM na kiMcitprAptaM dfzwaM vA sattvam#}
+<ls>PAÑCAT. 70,19.</ls> {#asti deva tAvadayaM mahAnBayahetuH — kiM tu#}
+<ls>HIT. 56,22.</ls> <ls n="HIT.">15,18.</ls> {#dfQastAvadbanDaH#} {%es ist nicht zu läugnen, das Band ist fest%},
+<ls n="HIT.">21,20.</ls> <ls>KATHĀS. 5,3.</ls> <ls>ŚĀK. 12,12, v. l. 83,23.</ls> <ls>HIT. Pr. 39,a.</ls> {#gatA tAvannivedyEva mama sodayaparvatam#} {%sie ist allerdings fortgegangen, nachdem sie aber zuvor%} u. s. w.
+<ls>VID. 173.</ls>
+<div n="2">— f) {%schon, sogar%} (wenn diese einem {%wieviel mehr%} oder {%wieviel weniger%} gegenüberstehen): {#yadi tAvatsumadrasya mEnAkasya nagasya ca . rAmArTe saMBramastIvraH kimagnerna Bavizyati#}
+<ls>R. 5,49,27.</ls> {#sa tAvatpratijagrAha Kago BAryAnisUdanam . kapotaH — kimutAhaM viBIzaRam#}
+<ls n="R. 5,">91,5.</ls> <ls n="R.">4,35,8.</ls> {#vEklavyaM mama tAvadIdfSamapi snehAdaraRyOkasaH pIqyante gfhiRaH kaTaM nu tanayAviSlezaduH KErnavEH#}
+<ls>ŚĀK. 81.</ls> {#ahanyahanyAtmana eva tAvajjYAtuM pramAdasKalitaM na Sakyam . prajAsu kaH kena paTA prayAtItyaSezato veditumasti SaktiH ..#}
+<ls n="ŚĀK.">153.</ls>
+<div n="2">— g) hebt wie {#eva#} einen Begriff mit Nachdruck hervor und ist bisweilen mit jener part. verbunden: {#alpo 'pyevaM mahAnvApi (SulkaH) vikrayastAvadeva saH#} {%es ist ein Verkauf und nichts anderes%}
+<ls>M. 3,53.</ls> {#stotavyA yadi tAvatsA#} ({%sie und nicht ich%}) {#nAradena tavAgrataH . durBago 'yaM janastatra kimarTamanuSabditaH ..#}
+<ls>HARIV. 7110.</ls> {#na tAvatsadfSaM hyetatsacivEH — vipriyaM nfpatervaktum#} {%durchaus nicht%}
+<ls>R. 6,5,4.</ls> {#tvanmatiH kevalA tAvatparipAlayituM prajAH#}
+<ls>ŚĀK. 159.</ls> {#AvayostAvadekamudaraM sAmAnyatfptiSca Bavizyati#} {%wir haben ja nur einen Magen und so wird%} u. s. w.
+<ls>PAÑCAT. 264,2.</ls> {#iyaM tAvaddakziRena#} {%da steht sie ja zu deiner Rechten%}
+<ls n="PAÑCAT.">53,10.</ls> {#tvaM tAvatkatamAM tarkayasi#} {%welche ist es nach deiner Vermuthung%}
+<ls n="PAÑCAT.">86,9.</ls> {#mitratvaM tAvadasmABiH sahAyatnena nizpannameva BavataH#}
+<ls>HIT. 38,17.</ls>
+<ls>CĀT. 1.</ls> — Nach den Lexicogrr.
+<div n="1"> 1) {#mAne#} .
+<div n="1">— 2) {#avaDO (paricCede)#} .
+<div n="1">— 3) {#sAkalye (kArtsnye)#} .
+<div n="1">— 4) {#avaDAraRe#}
+<ls>AK. 3,4,32 (28),8.</ls>
+<ls>H. an. 7,23.</ls>
+<ls>MED. <is>avy.</is> 29. 30.</ls>
+<div n="1">— 5) {#aDikAre#} .
+<div n="1">— 6) {#saMBrame#}
+<ls>MED.</ls>
+<div n="1">— 7) {#pakzAntare#} .
+<div n="1">— 8) {#praSaMsAyAm#}
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
 <LEND>

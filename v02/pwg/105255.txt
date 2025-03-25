@@ -1,16 +1,16 @@
 <L>105255<pc>7-0681<k1>samad<k2>sama/d
-{#sama/d#}¦ <lex>f.</lex> {%Streit, Händel%} 
-<ls>NAIGH. 2, 17.</ls> häufig loc. pl. 
-<ls>ṚV. 1, 5, 4.</ls> <ls n="ṚV. 1,">66, 6.</ls> <ls n="ṚV. 1,">173, 7.</ls> <ls n="ṚV.">2, 12, 3.</ls> {#kartA^ra\M jyoti^H sa\matsu^#} 
-<ls n="ṚV.">8, 16, 10.</ls> {#yadva\rmI yAti^ sa\madA^mu\pasTe^#} 
-<ls n="ṚV.">6, 75, 1.</ls> {#tI\vrAH sa\mado^ jayema#} 2. {#sa\mado\ gami^zWaH#} 
-<ls>AV. 5, 20, 12.</ls> {#a\haM janA^ya sa\mada^M kfRomi#} 
-<ls>ṚV. 10, 125, 6.</ls> 
-<ls>ŚAT. BR. 1, 1, 4, 24. 3, 6, 2, 2. 4, 6, 8, 12.</ls> {#de\vatA^ByaH sa\mada^M daDyAt#} {%erregt Händel unter den Göttern%} 
-<ls>TBR. 2, 1, 2, 10. 3, 3, 3, 2.</ls> {#kza\trAya^ ca\ viSe^ ca#} {%zwischen%} K. {%und%} <ab n="?">V.</ab> 
-<ls>TS. 2, 2, 11, 2.</ls> {#tABya evAsamadaM karoti#} {%macht, dass unter ihnen Frieden bleibt%}, 
-<ls>ŚAT. BR. 1, 1, 2, 18. 4, 4, 2, 3.</ls> Die beiden Ableitungen {#sam + ad#} {%essen%} und {#sam + mad#} ({%weil Trunkene Händel kriegen%} 
-<ls>DURGA</ls>), welche schon 
-<ls>NIR. 9, 17</ls> giebt, obwohl <is>Padap</is>. richtig {#samad#} schreibt, halten wir für gleich unbrauchbar; vielmehr 2. {#sam#} + suff. {#ad#} wie {#dfzad, Basad, vanad, Sarad#}; vgl.
-<lang n="greek">ὅμαδος.</lang>
+{#sama/d#}¦ <lex>f.</lex> {%Streit, Händel%}
+<ls>NAIGH. 2,17.</ls> häufig loc. pl.
+<ls>ṚV. 1,5,4.</ls> <ls n="ṚV. 1,">66,6.</ls> <ls n="ṚV. 1,">173,7.</ls> <ls n="ṚV.">2,12,3.</ls> {#kartA^ra\M jyoti^H sa\matsu^#}
+<ls n="ṚV.">8,16,10.</ls> {#yadva\rmI yAti^ sa\madA^mu\pasTe^#}
+<ls n="ṚV.">6,75,1.</ls> {#tI\vrAH sa\mado^ jayema#} 2. {#sa\mado\ gami^zWaH#}
+<ls>AV. 5,20,12.</ls> {#a\haM janA^ya sa\mada^M kfRomi#}
+<ls>ṚV. 10,125,6.</ls>
+<ls>ŚAT. BR. 1,1,4,24.</ls> <ls n="ŚAT. BR.">3,6,2,2.</ls> <ls n="ŚAT. BR.">4,6,8,12.</ls> {#de\vatA^ByaH sa\mada^M daDyAt#} {%erregt Händel unter den Göttern%}
+<ls>TBR. 2,1,2,10. 3,3,3,2.</ls> {#kza\trAya^ ca\ viSe^ ca#} {%zwischen%} K. {%und%} <ab n="?">V.</ab>
+<ls>TS. 2,2,11,2.</ls> {#tABya evAsamadaM karoti#} {%macht, dass unter ihnen Frieden bleibt%},
+<ls>ŚAT. BR. 1,1,2,18.</ls> <ls n="ŚAT. BR.">4,4,2,3.</ls> Die beiden Ableitungen {#sam + ad#} {%essen%} und {#sam + mad#} ({%weil Trunkene Händel kriegen%}
+<ls>DURGA</ls>), welche schon
+<ls>NIR. 9,17</ls> giebt, obwohl <is>Padap</is>. richtig {#samad#} schreibt, halten wir für gleich unbrauchbar; vielmehr 2. {#sam#} + suff. {#ad#} wie {#dfzad, Basad, vanad, Sarad#}; vgl.
+<lang n="greek">ὅμαδος</lang>.
 <LEND>

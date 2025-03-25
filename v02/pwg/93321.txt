@@ -1,23 +1,23 @@
 <L>93321<pc>6-1217<k1>viSezatas<k2>viSezatas
-{#viSezatas#}¦ (von {#viSeza#}) 
-<div n="1"> 1) am Ende eines comp. {%je nach der Verschiedenheit%}: {#vidyA°#} 
-<ls>M. 11, 2.</ls> {#karmavidyA°#} 
-<ls>12, 41.</ls> {#viSezatas#} so v. a. {#viSezasya#} {%der Besonderheit%} 
-<ls>KAṆ. 4, 1, 4.</ls> {#DAturmanaHSilAdyadrergErikaM tu viSezatas#} so v. a. {%Röthel ist aber eine Species davon%} 
-<ls>AK. 2, 3, 8.</ls> {#a°#} {%ohne Unterschied%} 
-<ls>M. 9, 125.</ls> 
-<ls>R. 2, 52, 33. 77, 23.</ls> 
-<ls>KATHĀS. 37, 5.</ls> 
-<div n="1">— 2) adv. = {#viSezeRa, viSezAt#} {%vorzüglich, vornehmlich, besonders, vor Allem, zumal%} 
-<ls>M. 2, 226. 4, 209. 5, 21. 7, 55. 8, 323. 12, 93.</ls> 
-<ls>YĀJÑ. 1, 203.</ls> 
-<ls>MBH. 1, 5986. 3, 2175. 2366. 2636. 2638. 2777. 5, 5441. 5972. 7299.</ls> 
-<ls>R. 1, 4, 16. 10, 36. 54,11.  59, 13. 2, 21, 60. 26, 26. 31, 20. 64, 22. 31. 73, 18. 4, 6, 18. 14, 10.</ls> 
-<ls>Spr. 2381. 3340. 5089. 5285.</ls> 
-<ls>VARĀH. BṚH. S. 9, 12. 11, 9. 25, 6.</ls> 
-<ls>KATHĀS. 12, 48. 33, 5.</ls> 
-<ls>PRAB. 9, 3. 84, 8.</ls> 
-<ls>BHĀG. P. 1, 17, 41. 8, 21, 12.</ls> 
-<ls>PAÑCAT. 47, 7.</ls> 
-<ls>HIT. 36, 12. 57, 12. 89, 22.</ls>
+{#viSezatas#}¦ (von {#viSeza#})
+<div n="1"> 1) am Ende eines comp. {%je nach der Verschiedenheit%}: {#vidyA°#}
+<ls>M. 11,2.</ls> {#karmavidyA°#}
+<ls n="M.">12,41.</ls> {#viSezatas#} so v. a. {#viSezasya#} {%der Besonderheit%}
+<ls>KAṆ. 4,1,4.</ls> {#DAturmanaHSilAdyadrergErikaM tu viSezatas#} so v. a. {%Röthel ist aber eine Species davon%}
+<ls>AK. 2,3,8.</ls> {#a°#} {%ohne Unterschied%}
+<ls>M. 9,125.</ls>
+<ls>R. 2,52,33.</ls> <ls n="R. 2,">77,23.</ls>
+<ls>KATHĀS. 37,5.</ls>
+<div n="1">— 2) adv. = {#viSezeRa, viSezAt#} {%vorzüglich, vornehmlich, besonders, vor Allem, zumal%}
+<ls>M. 2,226.</ls> <ls n="M.">4,209.</ls> <ls n="M.">5,21.</ls> <ls n="M.">7,55.</ls> <ls n="M.">8,323.</ls> <ls n="M.">12,93.</ls>
+<ls>YĀJÑ. 1,203.</ls>
+<ls>MBH. 1,5986.</ls> <ls n="MBH.">3,2175.</ls> <ls n="MBH. 3,">2366.</ls> <ls n="MBH. 3,">2636.</ls> <ls n="MBH. 3,">2638.</ls> <ls n="MBH. 3,">2777.</ls> <ls n="MBH.">5,5441.</ls> <ls n="MBH. 5,">5972.</ls> <ls n="MBH. 5,">7299.</ls>
+<ls>R. 1,4,16.</ls> <ls n="R. 1,">10,36.</ls> <ls n="R. 1,">54,11.</ls> <ls n="R. 1,">59,13.</ls> <ls n="R.">2,21,60.</ls> <ls n="R. 2,">26,26.</ls> <ls n="R. 2,">31,20.</ls> <ls n="R. 2,">64,22.</ls> <ls n="R. 2,64,">31.</ls> <ls n="R. 2,">73,18.</ls> <ls n="R.">4,6,18.</ls> <ls n="R. 4,">14,10.</ls>
+<ls>Spr. 2381.</ls> <ls n="Spr.">3340.</ls> <ls n="Spr.">5089.</ls> <ls n="Spr.">5285.</ls>
+<ls>VARĀH. BṚH. S. 9,12. 11,9. 25,6.</ls>
+<ls>KATHĀS. 12,48.</ls> <ls n="KATHĀS.">33,5.</ls>
+<ls>PRAB. 9,3.</ls> <ls n="PRAB.">84,8.</ls>
+<ls>BHĀG. P. 1,17,41.</ls> <ls n="BHĀG. P.">8,21,12.</ls>
+<ls>PAÑCAT. 47,7.</ls>
+<ls>HIT. 36,12. 57,12. 89,22.</ls>
 <LEND>

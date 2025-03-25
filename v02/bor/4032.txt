@@ -1,4 +1,4 @@
 <L>4032<pc>131<k1>colonist<k2>colonist
-<div n="lb"/>{@COLONIST:@}¦ {#*aDiniveSin#} (f. {#nI#}) <div n="xe">{%or%}</div> <div n="xs">{#aDiniveSavAsin#}</div>
-<div n="lb"/>(f. {#nI#}).
+{@COLONIST:@}¦ {#*aDiniveSin#} (f. {#nI#}) <div n="xe">{%or%}</div> <div n="xs">{#aDiniveSavAsin#}</div>
+(f. {#nI#}).
 <LEND>

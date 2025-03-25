@@ -1,13 +1,13 @@
 <L>7573<pc>239<k1>enemy<k2>enemy
-<div n="lb"/>{@ENEMY:@}¦ <div n="1">(1) {#SatruH,#} <div n="xe">{%who never made an e.:%}</div> <div n="xs">{#ajAta-#}
-<div n="lb"/>{#SatruH,#}</div> Ve.; <div n="xe">{%a prostrate e.:%}</div> <div n="xs">{#caraRanipatitaH SatraH,#}</div>
-<div n="lb"/>Mr.; </div><div n="1">(2) {#ripuH,#} <div n="xe">{%attack on the e. s' side:%}</div> <div n="xs">{#ripu-#}
-<div n="lb"/>{#pakzABiyogaH,#}</div> Vi.; </div><div n="1">(3) {#vErin#} (m.), {%great e.:%}
-<div n="lb"/>{#vErivaraH,#} Ku.; </div><div n="1">(4) {#ariH,#} {%to the e. of Namuchi%}
-<div n="lb"/>(i.e. Indra): {#namuceraraye,#} R.; </div><div n="1">(5) {#arAtiH,#}
-<div n="lb"/><div n="xe">{%victory over the e. s:%}</div> <div n="xs">{#arAtizu jayaH,#}</div> Ki.; </div><div n="1">(6) {#dviz, #}
-<div n="lb"/>{# vidviz,#} <div n="xe">{%or%}</div> <div n="xs">{#dvizat#}</div> (n.), <div n="xe">{%e. s of gods:%}</div> <div n="xs">{#devadvizaH,#}</div> Ku.;</div>
-<div n="lb"/><div n="1">(7) {#paraH#} (an ambiguous term), <div n="xe">{%by stronger%}
-<div n="lb"/>{%e. s:%}</div> <div n="xs">{#balavattarEH parEH,#}</div> Ku.; </div><div n="1">(8) {#paripanTin#} (m.)
-<div n="lb"/>(rare); </div><div n="1">(9) {#SAtravaH#} (rare): v. Opponent.</div>
+{@ENEMY:@}¦ <div n="1">(1) {#SatruH,#} <div n="xe">{%who never made an e.:%}</div> <div n="xs">{#ajAta-#}
+{#SatruH,#}</div> Ve.; <div n="xe">{%a prostrate e.:%}</div> <div n="xs">{#caraRanipatitaH SatraH,#}</div>
+Mr.; </div><div n="1">(2) {#ripuH,#} <div n="xe">{%attack on the e. s' side:%}</div> <div n="xs">{#ripu-#}
+{#pakzABiyogaH,#}</div> Vi.; </div><div n="1">(3) {#vErin#} (m.), {%great e.:%}
+{#vErivaraH,#} Ku.; </div><div n="1">(4) {#ariH,#} {%to the e. of Namuchi%}
+(i.e. Indra): {#namuceraraye,#} R.; </div><div n="1">(5) {#arAtiH,#}
+<div n="xe">{%victory over the e. s:%}</div> <div n="xs">{#arAtizu jayaH,#}</div> Ki.; </div><div n="1">(6) {#dviz, #}
+{# vidviz,#} <div n="xe">{%or%}</div> <div n="xs">{#dvizat#}</div> (n.), <div n="xe">{%e. s of gods:%}</div> <div n="xs">{#devadvizaH,#}</div> Ku.;</div>
+<div n="1">(7) {#paraH#} (an ambiguous term), <div n="xe">{%by stronger%}
+{%e. s:%}</div> <div n="xs">{#balavattarEH parEH,#}</div> Ku.; </div><div n="1">(8) {#paripanTin#} (m.)
+(rare); </div><div n="1">(9) {#SAtravaH#} (rare): v. Opponent.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>7961<pc>252<k1>examination<k2>examination
-<div n="lb"/>{@EXAMINATION:@}¦ {#parIkzA,#} <div n="xe">{%e. of gems:%}</div> <div n="xs">{#ratnaparIkzA,#}</div>
-<div n="lb"/>Mal.; <div n="xe">{%e. -in-chief:%}</div> <div n="xs">{#*pUrvaparIkzA;#}</div> <div n="xe">{%post mortem%}
-<div n="lb"/>{%e.:%}</div> <div n="xs">{#*pretaparIkzA;#}</div> <div n="xe">{%e. of urine:%}</div> <div n="xs">{#mUtraparIkzA,#}</div> Bha.;
-<div n="lb"/>{%after e.%} ({%of a book%}): {#parIkzya,#} Mal.
+{@EXAMINATION:@}¦ {#parIkzA,#} <div n="xe">{%e. of gems:%}</div> <div n="xs">{#ratnaparIkzA,#}</div>
+Mal.; <div n="xe">{%e. -in-chief:%}</div> <div n="xs">{#*pUrvaparIkzA;#}</div> <div n="xe">{%post mortem%}
+{%e.:%}</div> <div n="xs">{#*pretaparIkzA;#}</div> <div n="xe">{%e. of urine:%}</div> <div n="xs">{#mUtraparIkzA,#}</div> Bha.;
+{%after e.%} ({%of a book%}): {#parIkzya,#} Mal.
 <LEND>

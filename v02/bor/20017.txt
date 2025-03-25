@@ -1,6 +1,6 @@
 <L>20017<pc>623<k1>seat<k2>seat
-<div n="lb"/>{@SEAT@}¦ (v.): <div n="I">I To s. oneself: {#Asane upaviSati, #}
-<div n="lb"/>{# sam-,#} ({#viS,#} c. 6.), {#nizIdati#} ({#sad,#} c. 1.), etc.</div>
-<div n="lb"/><div n="I">II To s. another: {#Asane upaveSayati#} (c. of
-<div n="lb"/>{#viS#}) <div n="xe">{%or%}</div> <div n="xs">{#aBiniveSayati,#}</div> Si. i. 15.</div>
+{@SEAT@}¦ (v.): <div n="I">I To s. oneself: {#Asane upaviSati, #}
+{# sam-,#} ({#viS,#} c. 6.), {#nizIdati#} ({#sad,#} c. 1.), etc.</div>
+<div n="I">II To s. another: {#Asane upaveSayati#} (c. of
+{#viS#}) <div n="xe">{%or%}</div> <div n="xs">{#aBiniveSayati,#}</div> Si. i. 15.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>9764<pc>308<k1>generally<k2>generally
-<div n="lb"/>{@GENERALLY:@}¦ <div n="I">I In general: </div><div n="1">(1) {#sADAraRyena;#}</div>
-<div n="lb"/><div n="1">(2) {#sAmAnyataH;#} </div><div n="1">(3) {#sADAraRataH.#} </div><div n="I">II Mostly: </div><div n="1">(1)
-<div n="lb"/>{#prAyeRa;#} </div><div n="1">(2) {#prAyaSaH;#} </div><div n="1">(3) {#prAyaH.#}</div>
+{@GENERALLY:@}¦ <div n="I">I In general: </div><div n="1">(1) {#sADAraRyena;#}</div>
+<div n="1">(2) {#sAmAnyataH;#} </div><div n="1">(3) {#sADAraRataH.#} </div><div n="I">II Mostly: </div><div n="1">(1)
+{#prAyeRa;#} </div><div n="1">(2) {#prAyaSaH;#} </div><div n="1">(3) {#prAyaH.#}</div>
 <LEND>

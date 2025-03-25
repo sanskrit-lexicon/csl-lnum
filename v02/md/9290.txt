@@ -1,11 +1,3 @@
 <L>9290<pc>119-3<k1>dina<k2>dina<h>2
-{#dina#}¦dína, {%n.%} day: {@-kara,@} {%m.%} (day-making), 
-<>sun; {%N.%}; {@-kartavya,@} {%n.%} daily observance; 
-<>{@-kartṛ@}, {%m.%} (day-maker), sun; {@-kārya,@} {%n.%} 
-<>daily observance; {@-kṛt@}, {%m.%} sun; {@-kṛtya@}, {%n.%} 
-<>= -kārya; {@-kṣaya,@} {%m.%} decline of day, evening; <lbinfo n="4"/>
-<> {@-naktam,@} {%ad.%} day and night; {@-nātha,@} 
-<>{%m.%} (lord of day), sun; {@-pati,@} {%m. id.%}; {@-bhartṛ@}, 
-<>{%m. id.%}; {@-maṇi@}, {%m. id.%} (gem of day); {@-mukha,@} 
-<>{%n.%} day-break.
+{#dina#}¦ <hom>2.</hom> dína, <lex>n.</lex> day: {@-kara,@} <lex>m.</lex> (day-making), 🞄sun; <ab>N.</ab>; {@-kartavya,@} <lex>n.</lex> daily observance; 🞄{@-kartṛ,@} <lex>m.</lex> (day-maker), sun; {@-kārya,@} <lex>n.</lex> 🞄daily observance; {@-kṛt,@} <lex>m.</lex> sun; {@-kṛtya,@} <lex>n.</lex> 🞄= -kārya; {@-kṣaya,@} <lex>m.</lex> decline of day, evening; 🞄{@-naktam,@} <lex>ad.</lex> day and night; {@-nātha,@} 🞄<lex>m.</lex> (lord of day), sun; {@-pati,@} <lex>m.</lex> <ab>id.</ab>; {@-bhartṛ,@} 🞄<lex>m.</lex> <ab>id.</ab>; {@-maṇi,@} <lex>m.</lex> <ab>id.</ab> (gem of day); {@-mukha,@} 🞄<lex>n.</lex> day-break.
 <LEND>

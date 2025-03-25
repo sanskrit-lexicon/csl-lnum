@@ -1,7 +1,7 @@
 <L>11764<pc>368<k1>impulse<k2>impulse
-<div n="lb"/>{@IMPULSE, IMPULSION:@}¦ <div n="I">I The act: {#praRo#} ({#co#}) {#danam.#}</div>
-<div n="lb"/><div n="I">II Force communicated: expr. by {#pratiGAtaH#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#saMGawwaH#}</div> (= clash): v. Also speed. </div><div n="I">III
-<div n="lb"/>Mental: </div><div n="1">(1) {#BAvagatiH#} (?); </div><div n="1">(2) by verb
-<div n="lb"/>{#praRo#} ({#co#}) {#dayati.#}</div>
+{@IMPULSE, IMPULSION:@}¦ <div n="I">I The act: {#praRo#} ({#co#}) {#danam.#}</div>
+<div n="I">II Force communicated: expr. by {#pratiGAtaH#}
+<div n="xe">{%or%}</div> <div n="xs">{#saMGawwaH#}</div> (= clash): v. Also speed. </div><div n="I">III
+Mental: </div><div n="1">(1) {#BAvagatiH#} (?); </div><div n="1">(2) by verb
+{#praRo#} ({#co#}) {#dayati.#}</div>
 <LEND>

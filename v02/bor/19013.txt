@@ -1,4 +1,4 @@
 <L>19013<pc>588<k1>repayment<k2>repayment
-<div n="lb"/>{@REPAYMENT:@}¦ <div n="1">(1) {#niryAtanam;#} </div><div n="1">(2) {#pratidAnam#} {%or%}
-<div n="lb"/>{#pratyarpaRam#} (= giving back).</div>
+{@REPAYMENT:@}¦ <div n="1">(1) {#niryAtanam;#} </div><div n="1">(2) {#pratidAnam#} {%or%}
+{#pratyarpaRam#} (= giving back).</div>
 <LEND>

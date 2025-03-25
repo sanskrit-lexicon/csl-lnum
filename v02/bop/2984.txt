@@ -1,12 +1,12 @@
 <L>2984<pc>114-a<k1>Gas<k2>Gas
-{#Gas#}¦ 1. {%P.%} edere. (Ex hac radice ortum esse censeo {#jakz,#}
-<div n="lb">quod correptum est e {#jaGas,#} expulso {#a,#} v. gr. 354.;
-<div n="lb">cf. lat. {%gus-tus, gusto, vescor,%} quod explicaverim e {%gues-%}
-<div n="lb">{%cor,%} abjectâ gutturali, sicut in {%vivo%} e {%guivo, vermis%} e {%quer-%}
-<div n="lb">{%mis,%} v. {#kfmi;#} gr. <lang n="greek"></lang> huc etiam traxerim nostrum
-<div n="lb">{%Gast,%} goth. {%gasts,%} Th. {%gas-ti;%} lat. {%hos-tis, hos-pes, hos-%}
-<div n="lb">{%pit-is,%} tanquam is qui edere vel cibum petit, qui esum it;
-<div n="lb">Pottius I. 278. apte confert {%gâ-nea,%} e {%gas-nea;%} lith. {%gas-%}
-<div n="lb">{%padà%} hospitium, tanquam locus edendi, v. {#pada;#} {%gafzlùs%}
-<div n="lb">libidinosus.)
+{#Gas#}¦ 1. {%P.%} edere. (Ex hac radice ortum esse censeo {#jakz#},
+quod correptum est e {#jaGas#}, expulso {#a#}, v. gr. 354.;
+cf. lat. {%gus-tus, gusto, vescor%}, quod explicaverim e {%guescor%},
+abjectâ gutturali, sicut in {%vivo%} e {%guivo, vermis%} e {%quermis%},
+v. {#kfmi#}; gr. <lang n="greek">γασ-τήϱ</lang>; huc etiam traxerim nostrum
+{%Gast%}, goth. {%gasts%}, Th. {%gas-ti%}; lat. {%hos-tis, hos-pes, hospit-is%},
+tanquam is qui edere vel cibum petit, qui esum it;
+Pottius I.278. apte confert {%gâ-nea%}, e {%gas-nea%}; lith. {%gas-padà%}
+hospitium, tanquam locus edendi, v. {#pada#}; {%gaʃzlùs%}
+libidinosus.)
 <LEND>

@@ -1,14 +1,14 @@
 <L>13559<pc>417<k1>light<k2>light
-<div n="lb"/>{@LIGHT@}¦ (adj.): <div n="I">I Not heavy: {#laGu#} (f. {#DvI#}).</div>
-<div n="lb"/><div n="I">II Of food: {#laGu#} (f. {#DvI#}), {%goat-flesh is l.:%}
-<div n="lb"/>{#CAgamAMsaM laGu,#} Bha. </div><div n="I">III Active, nimble: {#laGu#}
-<div n="lb"/>(f. {#DvI#}), <div n="xe">{%l.-handed:%}</div> <div n="xs">{#laGuhasta#}</div> (f. {#stA#}). </div><div n="I">IV
-<div n="lb"/>Lightly armed: perh. {#laGu#} (f. {#DvI#}). V. Un-
-<div n="lb"/>-settled, volatile: {#laGu#} (f. {#DvI#}), {%by l. conduct:%}
-<div n="lb"/>{#laGuvfttitayA,#} Ki. ii. 53. </div><div n="I">VI Gay: {#laGu#} (f. {#DvI#}),
-<div n="lb"/><div n="xe">{%as with their l. appearance:%}</div> <div n="xs">{#darSanena laGunA yaTA tayoH,#}</div>
-<div n="lb"/>R. xi. 12. </div><div n="I">VII Of colours: {#laGu#} (f. {#DvI#}) (??).
-<div n="lb"/>[{#pAtalA#} is used in vernacular]. </div><div n="I">VIII Not
-<div n="lb"/>dark: {#sAlokaH#} ({#kA, kaM#}), etc.: v. Also moon
-<div n="lb"/>-l. Ph.: <div n="xe">{%make l. of:%}</div> <div n="xs">{#laGUkaroti,#}</div> etc.</div>
+{@LIGHT@}¦ (adj.): <div n="I">I Not heavy: {#laGu#} (f. {#DvI#}).</div>
+<div n="I">II Of food: {#laGu#} (f. {#DvI#}), {%goat-flesh is l.:%}
+{#CAgamAMsaM laGu,#} Bha. </div><div n="I">III Active, nimble: {#laGu#}
+(f. {#DvI#}), <div n="xe">{%l.-handed:%}</div> <div n="xs">{#laGuhasta#}</div> (f. {#stA#}). </div><div n="I">IV
+Lightly armed: perh. {#laGu#} (f. {#DvI#}). V. Un-
+-settled, volatile: {#laGu#} (f. {#DvI#}), {%by l. conduct:%}
+{#laGuvfttitayA,#} Ki. ii. 53. </div><div n="I">VI Gay: {#laGu#} (f. {#DvI#}),
+<div n="xe">{%as with their l. appearance:%}</div> <div n="xs">{#darSanena laGunA yaTA tayoH,#}</div>
+R. xi. 12. </div><div n="I">VII Of colours: {#laGu#} (f. {#DvI#}) (??).
+[{#pAtalA#} is used in vernacular]. </div><div n="I">VIII Not
+dark: {#sAlokaH#} ({#kA, kaM#}), etc.: v. Also moon
+-l. Ph.: <div n="xe">{%make l. of:%}</div> <div n="xs">{#laGUkaroti,#}</div> etc.</div>
 <LEND>

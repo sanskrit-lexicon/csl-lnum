@@ -1,42 +1,35 @@
 <L>45838<pc>4-0767<k1>puT<k2>puT
-{#puT#}¦, {#pu/Tyati (hiMsAyAm)#} 
-<ls>DHĀTUP. 26, 12.</ls> caus. {%zerdrücken, zerschmettern, zermalmen%}: {#patannavAkSirA BUmO hastyArohAnapoTayat#} 
-<ls>DRAUP. 8, 22.</ls> 
-<ls>MBH. 1, 5021. 5025. 3, 545. 11106.</ls> {#kIcakasyAhaM poTayAmi padA SiraH#} 
-<ls>4, 643. 727. 732.</ls> {#nijaGAna padA kAMScidAkzipyAnyAnapoTayat#} 
-<ls>6, 2297.</ls> <ls>HARIV. 4778. 9139.</ls> <ls>R. 3, 57, 29.</ls> {#poTayizye#} 
-<ls>MBH. 8, 4565.</ls> {#poTayAna#} 
-<ls>HARIV. 13416.</ls> {#poTita#} 
-<ls>MBH. 4, 795.</ls> 
-<ls>R. 6, 28, 18. 39.</ls> {%zu Nichte machen, bewirken, dass Etwas nicht gehört, nicht bemerkt wird%}: {#yaTA vivAhotsavatUryanAdAnapoTayandunduBayo 'ntarIkze . taTA vaDUtsAritahemalAjAH#} (acc.) {#surojJitAH kOsumavfzwayo 'tra ..#} {%übertönen%} und {%überdecken%} 
-<ls>KATHĀS. 34, 257.</ls> {%sprechen%} oder {%leuchten%} 
-<ls>DHĀTUP. 26, 12.</ls> 
+{#puT#}¦, {#pu/Tyati (hiMsAyAm)#}
+<ls>DHĀTUP. 26,12.</ls> caus. {%zerdrücken, zerschmettern, zermalmen%}: {#patannavAkSirA BUmO hastyArohAnapoTayat#}
+<ls>DRAUP. 8,22.</ls>
+<ls>MBH. 1,5021.</ls> <ls n="MBH. 1,">5025.</ls> <ls n="MBH.">3,545.</ls> <ls n="MBH. 3,">11106.</ls> {#kIcakasyAhaM poTayAmi padA SiraH#}
+<ls n="MBH.">4,643.</ls> <ls n="MBH. 4,">727.</ls> <ls n="MBH. 4,">732.</ls> {#nijaGAna padA kAMScidAkzipyAnyAnapoTayat#}
+<ls n="MBH.">6,2297.</ls> <ls>HARIV. 4778.</ls> <ls n="HARIV.">9139.</ls> <ls>R. 3,57,29.</ls> {#poTayizye#}
+<ls>MBH. 8,4565.</ls> {#poTayAna#}
+<ls>HARIV. 13416.</ls> {#poTita#}
+<ls>MBH. 4,795.</ls>
+<ls>R. 6,28,18.</ls> <ls n="R. 6,28,">39</ls> {%zu Nichte machen, bewirken, dass Etwas nicht gehört, nicht bemerkt wird%}: {#yaTA vivAhotsavatUryanAdAnapoTayandunduBayo 'ntarIkze . taTA vaDUtsAritahemalAjAH#} (acc.) {#surojJitAH kOsumavfzwayo 'tra ..#} {%übertönen%} und {%überdecken%}
+<ls>KATHĀS. 34,257.</ls> {%sprechen%} oder {%leuchten%}
+<ls>DHĀTUP. 26,12.</ls>
 <div n="v">— Vgl. {#punT#} .
-
-<div n="p">— {#aBi#} caus. {%schmettern%}: {#sahasA ca samutkzipya SilAyAmaBipoTitA#} 
+<div n="p">— {#aBi#} caus. {%schmettern%}: {#sahasA ca samutkzipya SilAyAmaBipoTitA#}
 <ls>HARIV. 3347.</ls>
-
-<div n="p">— {#ava#} caus. {%zerschmettern%}: {#(tam) muzalenAvapoTayat#} 
-<ls>HARIV. 5611. 10504.</ls> {#avapoTita#} 
-<ls>5612.</ls> <ls>MBH. 6, 5505.</ls>
-
-<div n="p">— {#A#} caus. {%drücken%}: {#kARqaBagne prarUQe vizamolvaRasaMhite . ApoTya SamayedBagnam#} 
-<ls>SUŚR. 2, 31, 6.</ls> {%zerdrücken%}: {#SuklekzukARqamApoTya#} 
-<ls>472, 6.</ls>
-
-<div n="p">— {#ni#} caus. {%niederschmettern%} 
+<div n="p">— {#ava#} caus. {%zerschmettern%}: {#(tam) muzalenAvapoTayat#}
+<ls>HARIV. 5611.</ls> <ls n="HARIV.">10504.</ls> {#avapoTita#}
+<ls n="HARIV.">5612.</ls> <ls>MBH. 6,5505.</ls>
+<div n="p">— {#A#} caus. {%drücken%}: {#kARqaBagne prarUQe vizamolvaRasaMhite . ApoTya SamayedBagnam#}
+<ls>SUŚR. 2,31,6.</ls> {%zerdrücken%}: {#SuklekzukARqamApoTya#}
+<ls n="SUŚR.">472,6.</ls>
+<div n="p">— {#ni#} caus. {%niederschmettern%}
 <ls>HARIV. 4525.</ls>
-
-<div n="p">— {#pra#} {%fortstossen%}: {#prapoTayanti cAnyo 'nyaM patitA~llaNGayanti ca#} 
-<ls>R. 6, 25, 7.</ls>
-
-<div n="p">— {#vi#} caus. {%zerschmettern, zermalmen%}: {#aSvAnasya vyapoTayat#} 
-<ls>MBH. 4, 1105.</ls> 
-<ls>HARIV. 5095.</ls> 
-<ls>R. 6, 18, 46.</ls> med. <ls>MBH. 9, 847.</ls> {#vipoTita#} 
-<ls>7, 1450.</ls> <ls>HARIV. 6897.</ls> <ls>MĀRK. P. 82, 57.</ls>
-
-<div n="p">— {#sam#} caus. dass. 
-<ls>MBH. 7, 1935. 6708. 8, 483. 2495. 9, 1045.</ls> 
+<div n="p">— {#pra#} {%fortstossen%}: {#prapoTayanti cAnyo 'nyaM patitA~llaNGayanti ca#}
+<ls>R. 6,25,7.</ls>
+<div n="p">— {#vi#} caus. {%zerschmettern, zermalmen%}: {#aSvAnasya vyapoTayat#}
+<ls>MBH. 4,1105.</ls>
+<ls>HARIV. 5095.</ls>
+<ls>R. 6,18,46.</ls> med. <ls>MBH. 9,847.</ls> {#vipoTita#}
+<ls n="MBH.">7,1450.</ls> <ls>HARIV. 6897.</ls> <ls>MĀRK. P. 82,57.</ls>
+<div n="p">— {#sam#} caus. dass.
+<ls>MBH. 7,1935.</ls> <ls n="MBH. 7,">6708.</ls> <ls n="MBH.">8,483.</ls> <ls n="MBH. 8,">2495.</ls> <ls n="MBH.">9,1045.</ls>
 <ls>HARIV. 3340.</ls>
 <LEND>

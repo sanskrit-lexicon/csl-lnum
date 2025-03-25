@@ -1,11 +1,11 @@
 <L>112031<pc>568,2<k1>nft<k2>nft<h>1<e>1
-<hom>1.</hom> <s>nft</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 9</ls>) <s>nf/tyati</s> (<ab>ep.</ab> also <s>°te</s>; <ab>pf.</ab> <s>nanarta</s>, <s>nanftur</s>, <ls>MBh.</ls>; <ab>aor.</ab> <s>anartizur</s>, <ls>RV.</ls>; <s>-nftur</s> [<ab>cf.</ab> <s>A-√ nft</s>]; <ab>p.</ab> <s>nfta/mAna</s> [?] <ls>ib. v, 33, 6</ls>; <ab>fut.</ab> <s>nartizyati</s>, <ls>MBh.</ls> &c.; <s>nartsyati</s> and <s>nartitA</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>nartitum</s> and <s>narttum</s>, <ls>MBh.</ls> &c.; <ab>ind.p.</ab> <s>nartitvA</s>, <ls>ib.</ls>, <s>-nartam</s>, <ls>Br.</ls>), 
+<hom>1.</hom> <s>nft</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 9</ls>) <s>nf/tyati</s> (<lang>ep.</lang> also <s>°te</s>; <ab>pf.</ab> <s>nanarta</s>, <s>nanftur</s>, <ls>MBh.</ls>; <ab>aor.</ab> <s>anartizur</s>, <ls>RV.</ls>; <s>-nftur</s> [<ab>cf.</ab> <s>A-√ nft</s>]; <ab>p.</ab> <s>nfta/mAna</s> [?] <ls>ib.</ls> <ls n="RV.">v, 33, 6</ls>; <ab>fut.</ab> <s>nartizyati</s>, <ls>MBh.</ls> &c.; <s>nartsyati</s> and <s>nartitA</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>nartitum</s> and <s>narttum</s>, <ls>MBh.</ls> &c.; <ab>ind.p.</ab> <s>nartitvA</s>, <ls>ib.</ls>, <s>-nartam</s>, <ls>Br.</ls>),
 <div n="to"/>to dance, <ls>RV.</ls> &c. &c.;
 <div n="to"/>to act on the stage, represent (<ab>acc.</ab>), <ls>Hariv.</ls> &c.;
 <div n="to"/>to dance about (<ab>acc.</ab>), <ls>R.</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>narta/yati</s>, <s>°te</s>, to cause to dance, <ls>RV.</ls> &c. &c.:
-<div n="vp"/><ab>Desid.</ab> <s>ninftsati</s> and <s>ninartizati</s>, <ls>Pāṇ. 7-2, 57</ls> :
-<div n="vp"/><ab>Intens.</ab> <s>narI<shortlong/>nartti</s>, <ls>Var.</ls>; <ls>Kāv.</ls> <pb n="568,3"/>;
+<div n="vp"/><ab>Desid.</ab> <s>ninftsati</s> and <s>ninartizati</s>, <ls>Pāṇ. vii, 2, 57</ls> :
+<div n="vp"/><ab>Intens.</ab> <s>narinartti</s> or <s>narInartti</s>, <ls>Var.</ls>; <ls>Kāv.</ls> <pb n="568,3"/>;
 <div n="vp"/> <s>narInftyate</s>, <s>°ti</s>, <ls>Kāv.</ls>;
-<div n="to"/> <s>narnartti</s>, <s>narnftIti</s>, <s>narI<shortlong/>nftIti</s> <ab>Gr.</ab>, to dance about or cause to dance about (<ab>cf.</ab> <s>naw</s>). <info westergaard="nftI,26.9,04.0009"/><info whitneyroots="nft,92"/><info verb="genuineroot" cp="4P"/>
+<div n="to"/> <s>narnartti</s>, <s>narnftIti</s>, <s>narinftIti</s> or <s>narInftIti</s> <ab>Gr.</ab>, to dance about or cause to dance about (<ab>cf.</ab> <s>naw</s>). <info westergaard="nftI,26.9,04.0009"/><info whitneyroots="nft,92"/><info verb="genuineroot" cp="4P"/>
 <LEND>

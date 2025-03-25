@@ -1,6 +1,6 @@
 <L>22835<pc>720<k1>treatment<k2>treatment
-<div n="lb"/>{@TREATMENT:@}¦ <div n="I">I Behaviour, conduct: </div><div n="1">(1)
-<div n="lb"/>{#AcaraRam;#} </div><div n="1">(2) {#vyavahAraH;#} </div><div n="1">(3) {#vfttiH.#} </div><div n="I">II Medical
-<div n="lb"/>t.; </div><div n="1">(1) {#cikitsA;#} </div><div n="1">(2) {#upacAraH;#} </div><div n="1">(3) {#upakramaH#}
-<div n="lb"/>(rare). </div><div n="I">III Description: q. v.: {#varRanA.#}</div>
+{@TREATMENT:@}¦ <div n="I">I Behaviour, conduct: </div><div n="1">(1)
+{#AcaraRam;#} </div><div n="1">(2) {#vyavahAraH;#} </div><div n="1">(3) {#vfttiH.#} </div><div n="I">II Medical
+t.; </div><div n="1">(1) {#cikitsA;#} </div><div n="1">(2) {#upacAraH;#} </div><div n="1">(3) {#upakramaH#}
+(rare). </div><div n="I">III Description: q. v.: {#varRanA.#}</div>
 <LEND>

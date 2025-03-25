@@ -1,20 +1,20 @@
 <L>11255<pc>353<k1>house<k2>house
-<div n="lb"/>{@HOUSE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#gfham#} (best equiv.:
-<div n="lb"/>{#gfhAH#} in pl.=h. with its surroundings or
-<div n="lb"/>inmates), {%to the h. of the chief of Vidarbha:%}
-<div n="lb"/>{#gfhAn vidarBADipateH,#} N. xvi. 1.; <div n="xe">{%where h. s shone as%}
-<div n="lb"/>{%if with edges of thatches:%}</div> <div n="xs">{#gfhARi niDrEriva yatra rejuH,#}</div>
-<div n="lb"/>Si. iii. 49.; </div><div n="1">(2) {#geham,#} <div n="xe">{%she is fortune in h.%}</div> <div n="xs">{#iyaM gehe #}
-<div n="lb"/>{# lakzmIH,#}</div> U. i. 38.; <div n="xe">{%the mistress of my h.:%}</div> <div n="xs">{#madragehinI,#}</div>
-<div n="lb"/>Me. ii. 16.; </div><div n="1">(3) {#A(a)garam,#} <div n="xe">{%our h.:%}</div> <div n="xs">{#asmadIyAgAram,#}</div>
-<div n="lb"/>Ma.; </div><div n="1">(4) {#kulam#} (rare), <div n="xe">{%h. of god:%}</div> <div n="xs">{#devakulam,#}</div> Mr. ii.;</div>
-<div n="lb"/><div n="1">(5) {#SaraRam#} (rare: prop=protection), {%h. of fire:%}
-<div n="lb"/>{#agniSaraRam,#} Sa. iv.; </div><div n="1">(6) {#Bavanam#} (= building): v.
-<div n="lb"/>Edifice; </div><div n="1">(7) {#niketanam#} (= abode: q.v.); </div><div n="1">(8)
-<div n="lb"/>{#Ayatanam:#} v. Temple. </div><div n="I">II Family, race: q.v.:
-<div n="lb"/>{#gfham,#} <div n="xe">{%is this becoming your h.:%}</div> <div n="xs">{#yuktametadvo gfhasya,#}</div> Vi.
-<div n="lb"/>iv. </div><div n="I">III A firm: {#gfham#} (after Bengali). </div><div n="I">IV In
-<div n="lb"/>chess: {#gfham.#} </div><div n="I">V A legislative body: {#samA,#}
-<div n="lb"/><div n="xe">{%“to bring down the whole h.”:%}</div> <div n="xs">{#samagrasaBAgfham#}</div> ({%or%}
-<div n="lb"/>{#SrAvakAn#}) {#Avarjayati#} (?).</div>
+{@HOUSE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#gfham#} (best equiv.:
+{#gfhAH#} in pl.=h. with its surroundings or
+inmates), {%to the h. of the chief of Vidarbha:%}
+{#gfhAn vidarBADipateH,#} N. xvi. 1.; <div n="xe">{%where h. s shone as%}
+{%if with edges of thatches:%}</div> <div n="xs">{#gfhARi niDrEriva yatra rejuH,#}</div>
+Si. iii. 49.; </div><div n="1">(2) {#geham,#} <div n="xe">{%she is fortune in h.%}</div> <div n="xs">{#iyaM gehe #}
+{# lakzmIH,#}</div> U. i. 38.; <div n="xe">{%the mistress of my h.:%}</div> <div n="xs">{#madragehinI,#}</div>
+Me. ii. 16.; </div><div n="1">(3) {#A(a)garam,#} <div n="xe">{%our h.:%}</div> <div n="xs">{#asmadIyAgAram,#}</div>
+Ma.; </div><div n="1">(4) {#kulam#} (rare), <div n="xe">{%h. of god:%}</div> <div n="xs">{#devakulam,#}</div> Mr. ii.;</div>
+<div n="1">(5) {#SaraRam#} (rare: prop=protection), {%h. of fire:%}
+{#agniSaraRam,#} Sa. iv.; </div><div n="1">(6) {#Bavanam#} (= building): v.
+Edifice; </div><div n="1">(7) {#niketanam#} (= abode: q.v.); </div><div n="1">(8)
+{#Ayatanam:#} v. Temple. </div><div n="I">II Family, race: q.v.:
+{#gfham,#} <div n="xe">{%is this becoming your h.:%}</div> <div n="xs">{#yuktametadvo gfhasya,#}</div> Vi.
+iv. </div><div n="I">III A firm: {#gfham#} (after Bengali). </div><div n="I">IV In
+chess: {#gfham.#} </div><div n="I">V A legislative body: {#samA,#}
+<div n="xe">{%“to bring down the whole h.”:%}</div> <div n="xs">{#samagrasaBAgfham#}</div> ({%or%}
+{#SrAvakAn#}) {#Avarjayati#} (?).</div>
 <LEND>

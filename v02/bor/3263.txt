@@ -1,15 +1,15 @@
 <L>3263<pc>108<k1>cause<k2>cause
-<div n="lb"/>{@CAUSE@}¦ (subs.): <div n="I">I That which produces
-<div n="lb"/>effect: {#kAraRaM,#} <div n="xe">{%you are the c. of all element%}
-<div n="lb"/>{%c. s%}</div> <div n="xs">{#tvaM kAraRaM kAraRakAraRAnAm,#}</div> Ki. {%Primary c.:%}
-<div n="lb"/>{#AdikAraRam;#} </div><div n="1">(2) {#nidAnam,#} R. iii. </div><div n="I">I {%Material%}
-<div n="lb"/>{#samavAyikAraRam,#} <div n="xe">{%Efficient c.%}</div> <div n="xs">{#nimittam#}</div> <div n="xe">{%or%}</div> <div n="xs">{#nimittakAra#}</div></div>
-<div n="lb"/><div n="I">II That which is the occasion of
-<div n="lb"/>action: {#kAraRam,#} <div n="xe">{%without any c.%}</div> <div n="xs">{#akAraRam:#}</div>
-<div n="lb"/>Reason, ground. </div><div n="I">III A lawsuit: q. v.:
-<div n="lb"/>{#kAryam,#} {%tell%} ({%us%}) <div n="xe">{%that c.%}</div> <div n="xs">{#tatkAryaM kaTaya.#}</div> Mr. ix.</div>
-<div n="lb"/><div n="I">IV Object, side: q. v. {#kAryam,#} <div n="xe">{%our c. is all but%}
-<div n="lb"/>{%undertaken by you%}</div> <div n="xs">{#kAryaM tvayA naH pratipannakalpam,#}</div> Ku.
-<div n="lb"/>iii. 14; {%in the Śudra's%} ({%Chandragupta's%} c.
-<div n="lb"/>{#vfzalasya kfte,#} Mu.: v. For the sake of.</div>
+{@CAUSE@}¦ (subs.): <div n="I">I That which produces
+effect: {#kAraRaM,#} <div n="xe">{%you are the c. of all element%}
+{%c. s%}</div> <div n="xs">{#tvaM kAraRaM kAraRakAraRAnAm,#}</div> Ki. {%Primary c.:%}
+{#AdikAraRam;#} </div><div n="1">(2) {#nidAnam,#} R. iii. </div><div n="I">I {%Material%}
+{#samavAyikAraRam,#} <div n="xe">{%Efficient c.%}</div> <div n="xs">{#nimittam#}</div> <div n="xe">{%or%}</div> <div n="xs">{#nimittakAra#}</div></div>
+<div n="I">II That which is the occasion of
+action: {#kAraRam,#} <div n="xe">{%without any c.%}</div> <div n="xs">{#akAraRam:#}</div>
+Reason, ground. </div><div n="I">III A lawsuit: q. v.:
+{#kAryam,#} {%tell%} ({%us%}) <div n="xe">{%that c.%}</div> <div n="xs">{#tatkAryaM kaTaya.#}</div> Mr. ix.</div>
+<div n="I">IV Object, side: q. v. {#kAryam,#} <div n="xe">{%our c. is all but%}
+{%undertaken by you%}</div> <div n="xs">{#kAryaM tvayA naH pratipannakalpam,#}</div> Ku.
+iii. 14; {%in the Śudra's%} ({%Chandragupta's%} c.
+{#vfzalasya kfte,#} Mu.: v. For the sake of.</div>
 <LEND>

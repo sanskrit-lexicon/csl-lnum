@@ -1,29 +1,29 @@
 <L>9990<pc>1-0780<k1>icCA<k2>icCA/
-{#icCA/#}¦ (von {#iz, icCati#}) <lex>f.</lex> {%Wunsch, Verlangen, Neigung%} 
-<ls>P. 3, 3, 101.</ls> 
-<ls>VOP. 26, 191.</ls> 
-<ls>AK. 1, 1, 7, 27. 3, 4, 9, 41.</ls> 
-<ls>H. 430.</ls> Gegens. {#dveza#} {%Abneigung%} 
-<ls>BHAG. 7, 27. 13, 6.</ls> {#mokza icCAsti#} 
-<ls>P. 1, 4, 45,</ls> 
-<ls>Sch.</ls> mit dem inf. 
-<ls>VOP. 5, 15.</ls> {#amAtyErviniyukto 'haM rAjye nAtmecCayA#} 
-<ls>R. 4, 9, 4.</ls> {#AtmasuKecCayA#} 
-<ls>M. 5, 45.</ls> {#vilAduttaraRecCayA#} 
-<ls>R. 4, 52, 18.</ls> {#icCayA#} {%nach Wunsch, nach eigener Neigung%} 
-<ls>M. 3, 32. 5, 103. 11, 124.</ls> 
-<ls>YĀJÑ. 2, 12.</ls> 
-<ls>PRAB. 101, 8.</ls> {#icCayAtmanaH#} 
-<ls>M. 9, 95. 11, 73.</ls> {#svayecCayA#} 
-<ls>9, 175.</ls> <ls>PAÑCAT. I, 369.</ls> {#svecCayA#} 
-<ls>87, 11.</ls> <ls>HIT. 17, 15.</ls> <ls>VET. 29, 15.</ls> {#madicCayA#} 
-<ls>KATHĀS. 5, 7.</ls> {#vigatecCABayakroDa#} 
-<ls>BHAG. 5, 28.</ls> {#janmani kleSabahule kiM nu duHKamataH param . icCAsaMpadyato nAsti yatrecCA na nivartate ..#} 
-<ls>HIT. I, 176.</ls> {#icCAratEH#} 
-<ls>MEGH. 87.</ls> {#icCAM nigrahItum#} {%sein Verlangen unterdrücken%} 
-<ls>ŚĀK. 16, 12, v. l.</ls> {#mahecCa#} 
-<ls>PAÑCAT. I, 43.</ls> <ls>RAGH. 18, 32.</ls> Bei den Mathematikern heisst {#icCA#} {%die gestellte Frage%}, {#icCAPala#} {%die Lösung der Frage%} 
-<ls>COLEBR. Alg. 33.</ls> In der Grammatik Bezeichnung {%einer desider.-Bildung%} 
-<ls>AV. PRĀT. 3, 18.</ls> <ls n="AV. PRĀT.">4, 29.</ls> 
+{#icCA/#}¦ (von {#iz, icCati#}) <lex>f.</lex> {%Wunsch, Verlangen, Neigung%}
+<ls>P. 3,3,101.</ls>
+<ls>VOP. 26,191.</ls>
+<ls>AK. 1,1,7,27.</ls> <ls n="AK.">3,4,9,41.</ls>
+<ls>H. 430.</ls> Gegens. {#dveza#} {%Abneigung%}
+<ls>BHAG. 7,27. 13,6.</ls> {#mokza icCAsti#}
+<ls>P. 1,4,45</ls>, <ls>Sch.</ls>
+mit dem inf.
+<ls>VOP. 5,15.</ls> {#amAtyErviniyukto 'haM rAjye nAtmecCayA#}
+<ls>R. 4,9,4.</ls> {#AtmasuKecCayA#}
+<ls>M. 5,45.</ls> {#vilAduttaraRecCayA#}
+<ls>R. 4,52,18.</ls> {#icCayA#} {%nach Wunsch, nach eigener Neigung%}
+<ls>M. 3,32.</ls> <ls n="M.">5,103.</ls> <ls n="M.">11,124.</ls>
+<ls>YĀJÑ. 2,12.</ls>
+<ls>PRAB. 101,8.</ls> {#icCayAtmanaH#}
+<ls>M. 9,95.</ls> <ls n="M.">11,73.</ls> {#svayecCayA#}
+<ls n="M.">9,175.</ls> <ls>PAÑCAT. I,369.</ls> {#svecCayA#}
+<ls n="M.">87,11.</ls> <ls>HIT. 17,15.</ls> <ls>VET. 29,15.</ls> {#madicCayA#}
+<ls>KATHĀS. 5,7.</ls> {#vigatecCABayakroDa#}
+<ls>BHAG. 5,28.</ls> {#janmani kleSabahule kiM nu duHKamataH param . icCAsaMpadyato nAsti yatrecCA na nivartate ..#}
+<ls>HIT. I,176.</ls> {#icCAratEH#}
+<ls>MEGH. 87.</ls> {#icCAM nigrahItum#} {%sein Verlangen unterdrücken%}
+<ls>ŚĀK. 16,12, v. l.</ls> {#mahecCa#}
+<ls>PAÑCAT. I,43.</ls> <ls>RAGH. 18,32.</ls> Bei den Mathematikern heisst {#icCA#} {%die gestellte Frage%}, {#icCAPala#} {%die Lösung der Frage%}
+<ls>COLEBR. Alg. 33.</ls> In der Grammatik Bezeichnung {%einer desider.-Bildung%}
+<ls>AV. PRĀT. 3,18.</ls> <ls n="AV. PRĀT.">4,29.</ls>
 <div n="v">— Vgl. {#anicCA#} .
 <LEND>

@@ -1,7 +1,7 @@
 <L>19150<pc>495-b<k1>merchandise<k2>merchandise
-<div n="lb"/>MERCHANDISE¦, {%s.%} (Goods) {#paRyaM, paRyadravyaM, paRyadravyARi#} {%n. pl.,%} {#paRyA-#}
-<div n="lb"/>{#ni#} {%n. pl.,%} {#vikreyadravyARi, viwpaRyaM, BARqakaM, paRyaBARqakaM, paRyaBARqA-#}
-<div n="lb"/>{#ni#} {%n. pl.,%} {#bARijaBARqAni, bARijadravyaM, bARijapaRyaM, paRaH, paRasaH#}.
-<div n="lb"/> — (Trade) {#bARijyaM -jyA, baRikpaTaM, krayavikrayaH, paRAyA, vyApAraH,#}
-<div n="lb"/>{#vyavahAraH, vyavasAyaH#}.
+MERCHANDISE¦, {%s.%} (Goods) {#paRyaM, paRyadravyaM, paRyadravyARi#} {%n. pl.,%} {#paRyA-#}
+{#ni#} {%n. pl.,%} {#vikreyadravyARi, viwpaRyaM, BARqakaM, paRyaBARqakaM, paRyaBARqA-#}
+{#ni#} {%n. pl.,%} {#bARijaBARqAni, bARijadravyaM, bARijapaRyaM, paRaH, paRasaH#}.
+ — (Trade) {#bARijyaM -jyA, baRikpaTaM, krayavikrayaH, paRAyA, vyApAraH,#}
+{#vyavahAraH, vyavasAyaH#}.
 <LEND>

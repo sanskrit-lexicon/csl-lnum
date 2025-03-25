@@ -1,10 +1,10 @@
 <L>9362<pc>420<k1>severe<k2>severe
 {@Severe,@}¦ {%a,%} {#Kara, paruza, tIkzRa, nizWura, kaWora,#}
-<div n="lb"/>{#caMqa, tIvra, ugra, asOmya, ugraSAsana, tIkzRa-#}
-<div n="lb"/>{#-daMqa#}. {@2@} (Of things only) {#duHsaha, durvizaha;#}
-<div n="lb"/>{#tumula, Gora,#} (of fight); {#atyaMta, atimAtra;#}
-<div n="lb"/>{#su-ati#} pr. {@-ity,@} {%s.%} {#pAruzyaM, kaWoratA,#}
-<div n="lb"/>{#nEzWuryaM, kAWinyaM, ugradaMqatA; tIvratA, duHsahatA,#}
-<div n="lb"/>&c. {@2@} {#tIkzRadaMqaH#}. {@-ly,@} {%adv.%} {#paruzaM, kaWoraM,#}
-<div n="lb"/>{#nizWuraM, ugraM, tIvraM, tIkzRaM, caMqaM, balavat#}.
+{#caMqa, tIvra, ugra, asOmya, ugraSAsana, tIkzRa-#}
+{#-daMqa#}. {@2@} (Of things only) {#duHsaha, durvizaha;#}
+{#tumula, Gora,#} (of fight); {#atyaMta, atimAtra;#}
+{#su-ati#} pr. {@-ity,@} {%s.%} {#pAruzyaM, kaWoratA,#}
+{#nEzWuryaM, kAWinyaM, ugradaMqatA; tIvratA, duHsahatA,#}
+&c. {@2@} {#tIkzRadaMqaH#}. {@-ly,@} {%adv.%} {#paruzaM, kaWoraM,#}
+{#nizWuraM, ugraM, tIvraM, tIkzRaM, caMqaM, balavat#}.
 <LEND>

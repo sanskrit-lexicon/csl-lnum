@@ -1,44 +1,44 @@
 <L>96681<pc>6-1478<k1>vyAsa<k2>vyAsa
-{#vyAsa#}¦ (von 2. {#as#} mit {#vi#}) <lex>m.</lex> 
-<div n="1"> 1) {%das Auseinanderziehen%}, ein Fehler der Aussprache 
-<ls>ṚV. PRĀT. 14, 2.</ls> <ls n="ṚV. PRĀT. 14,">4.</ls> 
-<div n="1">— 2) {%Ausführlichkeit, ausführliche Darstellung%} (Gegens. {#samAsa#}) 
-<ls>AK. 3, 3, 22.</ls> 
-<ls>TRIK. 3, 3, 451.</ls> 
-<ls>H. 1432.</ls> 
-<ls>an. 2, 591.</ls> 
-<ls>MED. s. 11.</ls> <ls>HALĀY. 4, 81. 5, 19.</ls> <ls>MBH. 1, 51. 85. 3, 67.</ls> {#vyAsena#} {%ausführlich%} 
-<ls>SUŚR. 2, 17, 3. 513, 6.</ls> 
-<ls>PAÑCAR. 2, 3, 46.</ls> {#vyAsAt#} dass. 
-<ls>SUŚR. 1, 261, 3.</ls> {#vyAsatas#} dass. 
-<ls>112, 13. 2, 332, 9.</ls> {#vyAsasamAsatas#} 
-<ls>MBH. 12, 1296.</ls>
+{#vyAsa#}¦ (von 2. {#as#} mit {#vi#}) <lex>m.</lex>
+<div n="1"> 1) {%das Auseinanderziehen%}, ein Fehler der Aussprache
+<ls>ṚV. PRĀT. 14,2.</ls> <ls n="ṚV. PRĀT. 14,">4.</ls>
+<div n="1">— 2) {%Ausführlichkeit, ausführliche Darstellung%} (Gegens. {#samAsa#})
+<ls>AK. 3,3,22.</ls>
+<ls>TRIK. 3,3,451.</ls>
+<ls>H. 1432.</ls>
+<ls>an. 2,591.</ls>
+<ls>MED. s. 11.</ls> <ls>HALĀY. 4,81. 5,19.</ls> <ls>MBH. 1,51.</ls> <ls n="MBH. 1,">85.</ls> <ls n="MBH.">3,67.</ls> {#vyAsena#} {%ausführlich%}
+<ls>SUŚR. 2,17,3. 513,6.</ls>
+<ls>PAÑCAR. 2,3,46.</ls> {#vyAsAt#} dass.
+<ls>SUŚR. 1,261,3.</ls> {#vyAsatas#} dass.
+<ls n="SUŚR.">112,13. 2,332,9.</ls> {#vyAsasamAsatas#}
+<ls>MBH. 12,1296.</ls>
 [Page6-1479]
-{#samAsavyAsayogatas#} 
-<ls>BHĀG. P. 1, 9, 27.</ls> 
-<div n="1">— 3) {%Durchmesser%} 
-<ls>COLEBR. Alg. 87.</ls> {%Breite%} 
-<ls>VARĀH. BṚH. S. 53, 12. 17. 28. fgg.</ls> = {#mAnaBeda#} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 4) {%der auseinandergezogene Text%}, Bez. {%des%} <is>Padapāṭha</is> 
-<ls>AV. PRĀT. 3, 68.</ls> <ls n="AV. PRĀT. 3,">72.</ls> 
-<div n="1">— 5) N. pr. eines mythischen Weisen, dem die Redaction und auch Abfassung einer Menge umfangreicher Texte (der <is>Veda</is>, des <is>Mahābhārata</is>, der <is>Purāṇa</is>, des <is>Vedānta</is> u. s. w.) zugeschrieben werden; er gilt für einen Sohn <is>Parāśara's</is> von der <is>Satyavatī</is> (vgl. {#dvEpAyana, kfzRadvEpAyana#}). 
-<ls>TRIK. 2, 7, 15. 3, 3, 451.</ls> 
-<ls>H. 847.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 2, 258.</ls> 
-<ls>TAITT. ĀR. 1, 9, 2.</ls> 
-<ls>Ind. St. 4, 377.</ls> 
-<ls>BHAG. 10, 13.</ls> {#munInAmapyahaM vyAsaH#} (sagt <is>Kṛṣṇa</is>) 
-<ls>13, 37. 18, 75.</ls> <ls>MBH. 1, 21. 2047.</ls> {#vivyAsa vidAnyasmAtsa tasmAdvyAsa iti smftaH#} 
-<ls>2417.</ls> <ls>HARIV. 2. 4. 5. 453. 7999. 10692.</ls> {#matsItanUja#} 
-<ls>Spr. (II) 1110.</ls> <ls>Verz. d. Oxf. H. 47,b,21. fgg. 59,a,35.</ls> <ls>BHĀG. P.1,6,1.</ls> <ls>BURNOUF,</ls> <ls>?Intr. 568. TATTVAS. 22. HALL 9. 86. Verfasser eines Gesetzbuchs YĀJÑ.1,5. Ind. St.1,20. 232. fgg. 467. GILD. Bibl. 455.</ls> achtundzwanzig <is>Vyāsa</is> 
-<ls>VP. 272.</ls> <ls>Verz. d. Oxf. H. 52,a. fgg. 80,a.</ls> Astronom <ls>Ind. St. 2,247.</ls> {#skAnda#} 
-<ls>3, 280.</ls> {#°mAtar = satyavatI#} 
-<ls>TRIK. 2, 8, 11.</ls> {#°sU#} desgl. 
-<ls>3, 3, 222.</ls> 
-<div n="1">— 6) als v.l. für {#vyAma#} 
-<ls>VARĀH. BṚH. S. 77, 7</ls> vielleicht fehlerhaft für {#vyADa#} oder {#vyApya#} {%Costus speciosus%} oder {%arabicus.%} 
+{#samAsavyAsayogatas#}
+<ls>BHĀG. P. 1,9,27.</ls>
+<div n="1">— 3) {%Durchmesser%}
+<ls>COLEBR. Alg. 87.</ls> {%Breite%}
+<ls>VARĀH. BṚH. S. 53,12. 17. 28. fgg.</ls> = {#mAnaBeda#}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 4) {%der auseinandergezogene Text%}, Bez. {%des%} <is>Padapāṭha</is>
+<ls>AV. PRĀT. 3,68.</ls> <ls n="AV. PRĀT. 3,">72.</ls>
+<div n="1">— 5) N. pr. eines mythischen Weisen, dem die Redaction und auch Abfassung einer Menge umfangreicher Texte (der <is>Veda</is>, des <is>Mahābhārata</is>, der <is>Purāṇa</is>, des <is>Vedānta</is> u. s. w.) zugeschrieben werden; er gilt für einen Sohn <is>Parāśara's</is> von der <is>Satyavatī</is> (vgl. {#dvEpAyana, kfzRadvEpAyana#}).
+<ls>TRIK. 2,7,15.</ls> <ls n="TRIK.">3,3,451.</ls>
+<ls>H. 847.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 2,258.</ls>
+<ls>TAITT. ĀR. 1,9,2.</ls>
+<ls>Ind. St. 4,377.</ls>
+<ls>BHAG. 10,13.</ls> {#munInAmapyahaM vyAsaH#} (sagt <is>Kṛṣṇa</is>)
+<ls n="BHAG.">13,37. 18,75.</ls> <ls>MBH. 1,21.</ls> <ls n="MBH. 1,">2047.</ls> {#vivyAsa vidAnyasmAtsa tasmAdvyAsa iti smftaH#}
+<ls n="MBH. 1,">2417.</ls> <ls>HARIV. 2.</ls> <ls n="HARIV.">4.</ls> <ls n="HARIV.">5.</ls> <ls n="HARIV.">453.</ls> <ls n="HARIV.">7999.</ls> <ls n="HARIV.">10692.</ls> {#matsItanUja#}
+<ls>Spr. (II) 1110.</ls> <ls>Verz. d. Oxf. H. 47,b,21. fgg. 59,a,35.</ls> <ls>BHĀG. P. 1,6,1.</ls> <ls>BURNOUF, Intr. 568.</ls> <ls>TATTVAS. 22.</ls> <ls>HALL 9. 86.</ls> Verfasser eines Gesetzbuchs <ls>YĀJÑ. 1,5.</ls> <ls>Ind. St. 1,20. 232. fgg. 467.</ls> <ls>GILD. Bibl. 455.</ls> achtundzwanzig <is>Vyāsa</is>
+<ls>VP. 272.</ls> <ls>Verz. d. Oxf. H. 52,a. fgg. 80,a.</ls> Astronom <ls>Ind. St. 2,247.</ls> {#skAnda#}
+<ls n="Ind. St.">3,280.</ls> {#°mAtar = satyavatI#}
+<ls>TRIK. 2,8,11.</ls> {#°sU#} desgl.
+<ls n="TRIK.">3,3,222.</ls>
+<div n="1">— 6) als v.l. für {#vyAma#}
+<ls>VARĀH. BṚH. S. 77,7</ls> vielleicht fehlerhaft für {#vyADa#} oder {#vyApya#} {%Costus speciosus%} oder {%arabicus.%}
 <div n="v">— Vgl. {#dinavyAsadala, bAbajI°, bfhadvyAsa, veda°, vEyAsa#} fgg.
 <LEND>

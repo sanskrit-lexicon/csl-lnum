@@ -1,5 +1,5 @@
 <L>17812<pc>545<k1>privy<k2>privy
-<div n="lb"/>{@PRIVY@}¦ (subs.): <div n="1">(1) {#SOcasTAnam;#} </div><div n="1">(2) {#varcaHsTAnam,#}
-<div n="lb"/>Mit. <div n="xe">{%In the public p. at Benares:%}</div> <div n="xs">{#vArARasyA-#}
-<div n="lb"/>{#muccAraprasrAvasTAne,#}</div> Kar.</div>
+{@PRIVY@}¦ (subs.): <div n="1">(1) {#SOcasTAnam;#} </div><div n="1">(2) {#varcaHsTAnam,#}
+Mit. <div n="xe">{%In the public p. at Benares:%}</div> <div n="xs">{#vArARasyA-#}
+{#muccAraprasrAvasTAne,#}</div> Kar.</div>
 <LEND>

@@ -1,18 +1,18 @@
 <L>12931<pc>1-1040<k1>fgveda<k2>fgveda/
-{#fgveda/#}¦ ({#fc + veda#}) <lex>m.</lex> <is>Ṛgveda</is> 
-<div n="2"> a) {%die Gesammtheit derjenigen heiligen Poesien, welche nach ihrer Anwendung im Cultus%} {#fcaH#} {%heissen im Unterschied von den%} {#yajUMzi#} {%und%} {#sAmAni#}; 
-<div n="2"> b) {%die geordnete und aufgezeichnete Sammlung dieser Lieder%}, eine der heiligen Schriften. Der 
-<ls>ṚV.</ls> ist in zehn Bücher ({#maRqala#}) eingetheilt: die ersten acht enthalten jedesmal besondere Liederkreise, welche einem Verfasser oder einem bestimmten Geschlecht zugeschrieben sind; das neunte Buch enthält die <is>Soma</is> - Lieder; das zehnte ist ein Anhang von Poesien verschiedener Art und von mancherlei Verfassern; 
-<div n="2"> c) in weiterem Sinne bezeichnet das Wort {%eine ganze Abtheilung der heiligen Bücher, unter welcher liturgische und andere Bücher begriffen sind.%} Vgl. 
-<ls>ROTH, Zur L. u. G. d. W. p. 5. fgg.</ls> <ls>WEBER, Lit. p. 30. fgg.</ls> <ls>H. 249.</ls> {#fgveda evAgnerajAyata yajurvedo vAyoH sAmaveda AdityAt#} (vgl. 
-<ls>M. 1, 23</ls>) <ls>AIT. BR. 5, 32.</ls> <ls>ŚAT. BR. 11, 5, 8, 3.</ls> {#fgvedenEva hotramakurvata yajurvedenADvaryavaM sAmavedenodgITam#} 
-<ls>4. 6</ls> (wofür 
-<ls>AIT. BR. 5, 32</ls> {#fcA, yajuzA, sAmnA#} steht). 
-<ls>12, 3, 4, 9. 14, 4, 3, 12. 5, 4, 10. 6, 10, 6. 7, 3, 11.</ls> <ls>ŚĀṄKH. ŚR. 1, 1, 27. 3, 21, 2.</ls> <ls>PĀR. GṚHY. 2, 10.</ls> {#fgvedo devadEvatyo yajurvedastu mAnuzaH . sAmavedaH smftaH pitryaH#} 
-<ls>M. 4, 124. 11, 261.</ls> {#fgvedavid#} 
-<ls>12, 112.</ls> <ls>VP. 42. 275. fgg.</ls> {#fgvedin#} <lex>adj.</lex> {%mit dem%} <is>Ṛgveda</is> {%vertraut%}: {#fgvedivfzotsarga#} 
-<ls>GILD. Bibl. 465.</ls> {#fgyajuHsAmavedin#} {%mit den genannten%} <is>Veda</is> {%vertraut%} 
-<ls>INDR. 2, 18.</ls> {#fgvedIya#} <lex>adj.</lex> {%zum%} 
-<ls>ṚV.</ls> {%gehörig%} 
+{#fgveda/#}¦ ({#fc + veda#}) <lex>m.</lex> <is>Ṛgveda</is>
+<div n="2"> a) {%die Gesammtheit derjenigen heiligen Poesien, welche nach ihrer Anwendung im Cultus%} {#fcaH#} {%heissen im Unterschied von den%} {#yajUMzi#} {%und%} {#sAmAni#};
+<div n="2"> b) {%die geordnete und aufgezeichnete Sammlung dieser Lieder%}, eine der heiligen Schriften. Der
+<ls>ṚV.</ls> ist in zehn Bücher ({#maRqala#}) eingetheilt: die ersten acht enthalten jedesmal besondere Liederkreise, welche einem Verfasser oder einem bestimmten Geschlecht zugeschrieben sind; das neunte Buch enthält die <is>Soma</is> — Lieder; das zehnte ist ein Anhang von Poesien verschiedener Art und von mancherlei Verfassern;
+<div n="2"> c) in weiterem Sinne bezeichnet das Wort {%eine ganze Abtheilung der heiligen Bücher, unter welcher liturgische und andere Bücher begriffen sind.%} Vgl.
+<ls>ROTH</ls>, <ls>Zur L. u. G. d. W. p. 5. fgg.</ls> <ls>WEBER, Lit. p. 30. fgg.</ls> <ls>H. 249.</ls> {#fgveda evAgnerajAyata yajurvedo vAyoH sAmaveda AdityAt#} (vgl.
+<ls>M. 1,23</ls>) <ls>AIT. BR. 5,32.</ls> <ls>ŚAT. BR. 11,5,8,3.</ls> {#fgvedenEva hotramakurvata yajurvedenADvaryavaM sAmavedenodgITam#}
+<ls n="ŚAT. BR.">4. 6</ls> (wofür
+<ls>AIT. BR. 5,32</ls> {#fcA, yajuzA, sAmnA#} steht).
+<ls n="AIT. BR.">12,3,4,9. 14,4,3,12. 5,4,10. 6,10,6. 7,3,11.</ls> <ls>ŚĀṄKH. ŚR. 1,1,27. 3,21,2.</ls> <ls>PĀR. GṚHY. 2,10.</ls> {#fgvedo devadEvatyo yajurvedastu mAnuzaH . sAmavedaH smftaH pitryaH#}
+<ls>M. 4,124.</ls> <ls n="M.">11,261.</ls> {#fgvedavid#}
+<ls n="M.">12,112.</ls> <ls>VP. 42. 275. fgg.</ls> {#fgvedin#} <lex>adj.</lex> {%mit dem%} <is>Ṛgveda</is> {%vertraut%}: {#fgvedivfzotsarga#}
+<ls>GILD. Bibl. 465.</ls> {#fgyajuHsAmavedin#} {%mit den genannten%} <is>Veda</is> {%vertraut%}
+<ls>INDR. 2,18.</ls> {#fgvedIya#} <lex>adj.</lex> {%zum%}
+<ls>ṚV.</ls> {%gehörig%}
 <ls>Verz. d. B. H. No. 1178.</ls>
 <LEND>

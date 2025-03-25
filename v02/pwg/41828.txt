@@ -1,105 +1,104 @@
 <L>41828<pc>4-0410<k1>pati<k2>pa/ti
-{#pa/ti#}¦ (von 3. {#pat#}) 
-<ls>UṆĀDIS. 4, 57.</ls> instr. {#pa/tyA#}, dat. {#pa/tye#}, gen. abl. {#patyus#}, loc. {#patyO#}; am Ende eines comp. wie die andern Masculina auf {#i#} 
-<ls>P. 1, 4, 8. 7, 3, 118.</ls> 
-<ls>VOP. 3, 53.</ls> Im Veda auch in Verbindung mit einem gen. (vgl. {#vA\caspati^nA, u\zaspati^nA#} 
-<ls>AV. 16, 6, 6.</ls> {#kzetra^sya\ pata^ye#} 
-<ls>2, 8, 5.</ls> {#BU\tasya\ pata^ye#} 
-<ls>3, 10, 9. 10</ls>) regelmässig declinirt nach 
-<ls>P. 1, 4, 9.</ls> {#kuluYcAnAM pataye#} <ls>Sch.</ls> Die regelmässigen Formen kommen aber auch in der nachvedischen Sprache vor und auch ohne vorangehenden Genitiv: {#patinA#} 
-<ls>R. 1, 2, 15. 4, 16, 35.</ls> 
-<ls>MĀRK. P. 21, 68. 74, 40.</ls> {#patO#} 
-<ls>KATHĀS. 42, 207.</ls> Lautliches Verhalten eines vorangehenden gen. 
-<ls>ṚV. PRĀT. 4, 15.</ls> 
-<ls>VS. PRĀT. 3, 34.</ls> 
-<ls>P. 8, 3, 53. 54.</ls> Ableitungen von Compositis auf {#pati#} 
-<ls>P. 4, 1, 84. 85.</ls> 
-<div n="1"> 1) <lex>m.</lex> {%Inhaber, Besitzer; Herr, Gebieter%} 
-<ls>AK. 3, 1, 10.</ls> 
-<ls>H. 359.</ls> 
-<ls>MED. t. 32</ls> <ls>?(m. f. n.) UJJVAL.</ls> {#rA\yaH syA^ma\ pata^yaH#} 
-<ls>ṚV. 5, 49, 4.</ls> {#a\Dva\rARA^m#} 
-<ls n="ṚV.">1, 44, 9.</ls> {#Di\yas#} 
-<ls n="ṚV. 1,">23, 3.</ls> {#viSva^sya\ jaga^taH prARataspati^H#} 
-<ls n="ṚV. 1,">101, 5.</ls> {#Socizas#} 
-<ls n="ṚV.">5, 6, 5.</ls> {#Buva^nasya#} 
-<ls n="ṚV. 5,">51, 12.</ls> {#vi\SAm#} 
-<ls n="ṚV.">6, 15, 1.</ls> {#su\vIrya^sya#} 
-<ls n="ṚV. 6,">47, 12.</ls> {#paTas#} 
-<ls n="ṚV. 6,">58, 1.</ls> {#gavA^m#} 
-<ls n="ṚV.">3, 31, 4.</ls> {#harI^RAm#} 
-<ls n="ṚV.">8, 24, 14.</ls> {#a\SvinO\ patI^#} 
-<ls n="ṚV.">2, 31, 4.</ls> <ls n="ṚV.">4, 16, 7.</ls> {#indrA^ya pra\tnAya\ patye^#} 
-<ls n="ṚV.">1, 61, 2.</ls> <ls>AV. 6, 33, 3.</ls> {#patiM patInAm#} 
-<ls>ŚVETĀŚV. UP. 6, 7.</ls> {#pfTivyAH#} 
-<ls>R. 1, 54, 11.</ls> {#daSagrAma°, sahasra°#} 
-<ls>M. 7, 115. 117.</ls> {#akzOhiRI°#} 
-<ls>N. 1, 3.</ls> {#kzetrapatinA#} 
-<ls>HIT. 21, 10.</ls> im Gegens. zu {#Bftya#} 
-<ls>Spr. 280.</ls> 
-<ls>VARĀH. BṚH. S. 91, 1. 92, 9.</ls> {#anDramadrakapatI#} 
-<ls>11. 60. 55.</ls> {#vidarBapataye#} 
-<ls>N. 2, 5.</ls> {#kUrma°#} 
-<ls>Spr. 608.</ls> {#varAha°#} 
-<ls>ŚĀK. 39, v. l.</ls> 
+{#pa/ti#}¦ (von 3. {#pat#})
+<ls>UṆĀDIS. 4,57.</ls> instr. {#pa/tyA#}, dat. {#pa/tye#}, gen. abl. {#patyus#}, loc. {#patyO#}; am Ende eines comp. wie die andern Masculina auf {#i#}
+<ls>P. 1,4,8.</ls> <ls n="P.">7,3,118.</ls>
+<ls>VOP. 3,53.</ls> Im Veda auch in Verbindung mit einem gen. (vgl. {#vA\caspati^nA, u\zaspati^nA#}
+<ls>AV. 16,6,6.</ls> {#kzetra^sya\ pata^ye#}
+<ls n="AV.">2,8,5.</ls> {#BU\tasya\ pata^ye#}
+<ls n="AV.">3,10,9.</ls> <ls n="AV. 3,10,">10</ls>) regelmässig declinirt nach
+<ls>P. 1,4,9.</ls> {#kuluYcAnAM pataye#} <ls>Sch.</ls> Die regelmässigen Formen kommen aber auch in der nachvedischen Sprache vor und auch ohne vorangehenden Genitiv: {#patinA#}
+<ls>R. 1,2,15.</ls> <ls n="R.">4,16,35.</ls>
+<ls>MĀRK. P. 21,68. 74,40.</ls> {#patO#}
+<ls>KATHĀS. 42,207.</ls> Lautliches Verhalten eines vorangehenden gen.
+<ls>ṚV. PRĀT. 4,15.</ls>
+<ls>VS. PRĀT. 3,34.</ls>
+<ls>P. 8,3,53.</ls> <ls n="P. 8,3,">54.</ls> Ableitungen von Compositis auf {#pati#}
+<ls>P. 4,1,84.</ls> <ls n="P. 4,1,">85.</ls>
+<div n="1"> 1) <lex>m.</lex> {%Inhaber, Besitzer; Herr, Gebieter%}
+<ls>AK. 3,1,10.</ls>
+<ls>H. 359.</ls>
+<ls>MED. t. 32</ls> (m. f. n.) <ls>UJJVAL.</ls> {#rA\yaH syA^ma\ pata^yaH#}
+<ls>ṚV. 5,49,4.</ls> {#a\Dva\rARA^m#}
+<ls n="ṚV.">1,44,9.</ls> {#Di\yas#}
+<ls n="ṚV. 1,">23,3.</ls> {#viSva^sya\ jaga^taH prARataspati^H#}
+<ls n="ṚV. 1,">101,5.</ls> {#Socizas#}
+<ls n="ṚV.">5,6,5.</ls> {#Buva^nasya#}
+<ls n="ṚV. 5,">51,12.</ls> {#vi\SAm#}
+<ls n="ṚV.">6,15,1.</ls> {#su\vIrya^sya#}
+<ls n="ṚV. 6,">47,12.</ls> {#paTas#}
+<ls n="ṚV. 6,">58,1.</ls> {#gavA^m#}
+<ls n="ṚV.">3,31,4.</ls> {#harI^RAm#}
+<ls n="ṚV.">8,24,14.</ls> {#a\SvinO\ patI^#}
+<ls n="ṚV.">2,31,4.</ls> <ls n="ṚV.">4,16,7.</ls> {#indrA^ya pra\tnAya\ patye^#}
+<ls n="ṚV.">1,61,2.</ls> <ls>AV. 6,33,3.</ls> {#patiM patInAm#}
+<ls>ŚVETĀŚV. UP. 6,7.</ls> {#pfTivyAH#}
+<ls>R. 1,54,11.</ls> {#daSagrAma°, sahasra°#}
+<ls>M. 7,115.</ls> <ls n="M. 7,">117.</ls> {#akzOhiRI°#}
+<ls>N. 1,3.</ls> {#kzetrapatinA#}
+<ls>HIT. 21,10.</ls> im Gegens. zu {#Bftya#}
+<ls>Spr. 280.</ls>
+<ls>VARĀH. BṚH. S. 91,1. 92,9.</ls> {#anDramadrakapatI#}
+<ls n="VARĀH. BṚH. S.">11. 60. 55.</ls> {#vidarBapataye#}
+<ls>N. 2,5.</ls> {#kUrma°#}
+<ls>Spr. 608.</ls> {#varAha°#}
+<ls>ŚĀK. 39, v. l.</ls>
 <ls>H. 4.</ls> In
 [Page4-0411]
-zahlreichen Verbindungen zur Bezeichnung von Genien oder ähnlichen Personificationen, z. B. {#bfhaspati, brahmaRaspati, vAcaspati, vAstozpati, vanaspati#} (s. u. d. Ww.), {#kzetra^sya#} 
-<ls>ṚV. 7, 35, 10.</ls> {#sa\tyasya^#} 12. {#naBa^sas#} 
-<ls>AV. 6, 79, 1.</ls> {#ozaDInAm#} {%der Mond%} 
-<ls>ŚĀK. 77.</ls> {#vittAppatyoH#} <is>Kuvera</is> {%und%} <is>Varuṇa</is> 
-<ls>M. 5, 96.</ls> {#saritAm#} {%der Ocean%} 
-<ls>VARĀH. BṚH. S. 12, 5.</ls> {#vacasAm#} {%der Planet Jupiter%} 
-<ls>LAGHUJ. 5, 10.</ls> {#prajAnAm#} (s. {#prajA°#}) 
-<ls>M. 1, 34.</ls> 
-<ls>RAGH. 3, 27.</ls> {#diSAm#} 
-<ls>AK. 1, 1, 2, 4.</ls> 
-<ls>H. 169.</ls> Accent eines auf {#pati (= ISvara)#} ausgehenden comp. 
-<ls>P. 6, 2, 18-20. 140.</ls> 
-<div n="1">— 2) <lex>f.</lex> {%Besitzerin, Herrin%} 
-<ls>MED.</ls> {#grAmasya patiriyam#} 
-<ls>Schol.</ls> zu <ls>P. 4, 1, 33. 34.</ls> {#kArIzaganDyA patiryasya kArIzaganDyApatirgrAmaH#} 
-<ls>Schol.</ls> zu <ls>P. 6, 1, 13.</ls> Vgl. {#patnI#} . 
-<div n="1">— 3) <lex>m.</lex> {%Gemahl, Gatte%} 
-<ls>AK. 2, 6, 1, 35.</ls> 
-<ls>H. 516.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 2, 342.</ls> {#pati\rjanI^nAm#} 
-<ls>ṚV. 1, 66, 8</ls> (4). <ls n="ṚV. 1,">119, 5.</ls> {#va\DUri\yaM pati^mi\cCantyo^ti#} 
-<ls n="ṚV.">5, 37, 3.</ls> <ls n="ṚV.">4, 43, 6.</ls> <ls n="ṚV.">10, 10, 3.</ls> <ls n="ṚV. 10, 10,">7.</ls> <ls>AV. 5, 17, 8.</ls> <ls>ŚAT. BR. 1, 9, 2, 14. 14, 1, 2, 11. 4, 2, 5.</ls> <ls>AIT. BR. 3, 22. 23. 47. 48.</ls> {#devaraH patisTAnIyaH#} 
-<ls>ĀŚV. GṚHY. 4, 2.</ls> {#jAyApatI#} 
-<ls>ŚAT. BR. 4, 6, 7, 9.</ls> {#BAryAyA BaraRAdBartA pAlanAcca patiH smftaH#} 
-<ls>MBH. 1, 4199.</ls> {#°sevA#} 
-<ls>M. 2, 67.</ls> {#°SuSrUzaRa#} 
-<ls>R. 1, 1, 88.</ls> 
-<ls>N. 3, 23. 11, 35.</ls> 
-<ls>ŚĀK. 84.</ls> 
-<ls>RAGH. 3, 12.</ls> 
-<ls>HIT. 28, 4.</ls> 
-<ls>VID. 156.</ls> {#°vallaBA#} 
-<ls>VARĀH. BṚH. S. 103, 8.</ls> {#°ratA#} 
-<ls>BṚH. 23 (22), 5.</ls> {#patyA#} 
-<ls>M. 9, 13. 175. 195.</ls> {#patye#} 
-<ls>KATHĀS. 43, 84.</ls> {#patyO#} 
-<ls>29, 89.</ls> <ls>M. 3, 174. 5, 157. 8, 317. 9, 195. 200.</ls> Mit Verwandtschaftsnamen auf {#ar#} mit dem Thema oder dem gen. componirt nach 
-<ls>P. 6, 3, 24.</ls> {#duhitfpati#} oder {#duhituHpati#} <ls>Sch.</ls> Verkürzungen einiger Feminina vor {#pati#} im comp. 
-<ls>P. 6, 1, 13.</ls> {#kArIzaganDIpatiH = kArIzaganDyAyAH patiH#} 
-<ls>Sch.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> gleichlautend: {#jIvatpatyA tvayA#} 
-<ls>R. GORR. 2, 24, 8.</ls> {#hatapatyaH (BAryAH)#} 
-<ls>MBH. 2, 2639.</ls> {#apati#} 
-<ls>8, 314.</ls> {#vfdDapati#} 
-<ls>P. 4, 1, 34, <is>Vārtt</is>.,</ls> 
-<ls>Sch.</ls> 
-<ls>P. 4, 2, 13,</ls> 
-<ls>Sch.</ls>; vgl. {#jIvatpati#} . Auch {#patikA#}, z. B. {#pramItapatikA#} 
-<ls>M. 9, 68.</ls> {#jIvatpatikA#} 
-<ls>KULL.</ls> zu <ls>M. 3, 174.</ls> {#ekapatikA#} ders. zu 
-<ls>9, 183.</ls> Vgl. auch {#patnI#} . 
-<div n="1">— 4) <lex>f.</lex> {%Gattin%} am Ende eines (nicht adj.) comp., = {#patnI#} 
-<ls>P. 4, 1, 34.</ls> {#vfdDapati = vfdDapatnI#} 
-<ls>Schol.</ls> 
-<div n="1">— 5) <lex>m.</lex> {%Wurzel.%} 
-<div n="1">— 6) {%Gang%} ({#gati#}; wohl {%Flug%} von 1. {#pat#}) 
-<ls>VIŚVA</ls> im <ls>ŚKDR.</ls> 
+zahlreichen Verbindungen zur Bezeichnung von Genien oder ähnlichen Personificationen, z. B. {#bfhaspati, brahmaRaspati, vAcaspati, vAstozpati, vanaspati#} (s. u. d. Ww.), {#kzetra^sya#}
+<ls>ṚV. 7,35,10.</ls> {#sa\tyasya^#} 12. {#naBa^sas#}
+<ls>AV. 6,79,1.</ls> {#ozaDInAm#} {%der Mond%}
+<ls>ŚĀK. 77.</ls> {#vittAppatyoH#} <is>Kuvera</is> {%und%} <is>Varuṇa</is>
+<ls>M. 5,96.</ls> {#saritAm#} {%der Ocean%}
+<ls>VARĀH. BṚH. S. 12,5.</ls> {#vacasAm#} {%der Planet Jupiter%}
+<ls>LAGHUJ. 5,10.</ls> {#prajAnAm#} (s. {#prajA°#})
+<ls>M. 1,34.</ls>
+<ls>RAGH. 3,27.</ls> {#diSAm#}
+<ls>AK. 1,1,2,4.</ls>
+<ls>H. 169.</ls> Accent eines auf {#pati#} (= {#ISvara)#} ausgehenden comp.
+<ls>P. 6,2,18</ls>-<ls n="P. 6,2,">20</ls>. <ls n="P. 6,2,">140.</ls>
+<div n="1">— 2) <lex>f.</lex> {%Besitzerin, Herrin%}
+<ls>MED.</ls> {#grAmasya patiriyam#}
+<ls>Schol.</ls> zu <ls>P. 4,1,33.</ls> <ls n="P. 4,1,">34.</ls> {#kArIzaganDyA patiryasya kArIzaganDyApatirgrAmaH#}
+<ls>Schol.</ls> zu <ls>P. 6,1,13.</ls> Vgl. {#patnI#} .
+<div n="1">— 3) <lex>m.</lex> {%Gemahl, Gatte%}
+<ls>AK. 2,6,1,35.</ls>
+<ls>H. 516.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 2,342.</ls> {#pati\rjanI^nAm#}
+<ls>ṚV. 1,66,8</ls> (4). <ls n="ṚV. 1,">119,5.</ls> {#va\DUri\yaM pati^mi\cCantyo^ti#}
+<ls n="ṚV.">5,37,3.</ls> <ls n="ṚV.">4,43,6.</ls> <ls n="ṚV.">10,10,3.</ls> <ls n="ṚV. 10,10,">7.</ls> <ls>AV. 5,17,8.</ls> <ls>ŚAT. BR. 1,9,2,14. 14,1,2,11. 4,2,5.</ls> <ls>AIT. BR. 3,22. 23. 47. 48.</ls> {#devaraH patisTAnIyaH#}
+<ls>ĀŚV. GṚHY. 4,2.</ls> {#jAyApatI#}
+<ls>ŚAT. BR. 4,6,7,9.</ls> {#BAryAyA BaraRAdBartA pAlanAcca patiH smftaH#}
+<ls>MBH. 1,4199.</ls> {#°sevA#}
+<ls>M. 2,67.</ls> {#°SuSrUzaRa#}
+<ls>R. 1,1,88.</ls>
+<ls>N. 3,23.</ls> <ls n="N.">11,35.</ls>
+<ls>ŚĀK. 84.</ls>
+<ls>RAGH. 3,12.</ls>
+<ls>HIT. 28,4.</ls>
+<ls>VID. 156.</ls> {#°vallaBA#}
+<ls>VARĀH. BṚH. S. 103,8.</ls> {#°ratA#}
+<ls>BṚH. 23 (22),5.</ls> {#patyA#}
+<ls>M. 9,13.</ls> <ls n="M. 9,">175.</ls> <ls n="M. 9,">195.</ls> {#patye#}
+<ls>KATHĀS. 43,84.</ls> {#patyO#}
+<ls n="KATHĀS.">29,89.</ls> <ls>M. 3,174.</ls> <ls n="M.">5,157.</ls> <ls n="M.">8,317.</ls> <ls n="M.">9,195.</ls> <ls n="M. 9,">200.</ls> Mit Verwandtschaftsnamen auf {#ar#} mit dem Thema oder dem gen. componirt nach
+<ls>P. 6,3,24.</ls> {#duhitfpati#} oder {#duhituHpati#} <ls>Sch.</ls> Verkürzungen einiger Feminina vor {#pati#} im comp.
+<ls>P. 6,1,13.</ls> {#kArIzaganDIpatiH = kArIzaganDyAyAH patiH#}
+<ls>Sch.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> gleichlautend: {#jIvatpatyA tvayA#}
+<ls>R. GORR. 2,24,8.</ls> {#hatapatyaH (BAryAH)#}
+<ls>MBH. 2,2639.</ls> {#apati#}
+<ls n="MBH.">8,314.</ls> {#vfdDapati#}
+<ls>P. 4,1,34</ls>, <is>Vārtt</is>., <ls>Sch.</ls>
+<ls>P. 4,2,13</ls>, <ls>Sch.</ls>;
+vgl. {#jIvatpati#} . Auch {#patikA#}, z. B. {#pramItapatikA#}
+<ls>M. 9,68.</ls> {#jIvatpatikA#}
+<ls>KULL.</ls> zu <ls>M. 3,174.</ls> {#ekapatikA#} ders. zu
+<ls n="M.">9,183.</ls> Vgl. auch {#patnI#} .
+<div n="1">— 4) <lex>f.</lex> {%Gattin%} am Ende eines (nicht adj.) comp., = {#patnI#}
+<ls>P. 4,1,34.</ls> {#vfdDapati = vfdDapatnI#}
+<ls>Schol.</ls>
+<div n="1">— 5) <lex>m.</lex> {%Wurzel.%}
+<div n="1">— 6) {%Gang%} ({#gati#}; wohl {%Flug%} von 1. {#pat#})
+<ls>VIŚVA</ls> im <ls>ŚKDR.</ls>
 <div n="v">— Vgl. {#aMSu°, aMhasas°, aDi°, daMpatI, dvArapati, nf°, pfTivI°, prajA°, BUmi°, mahI°, viw°#} u. s. w.
 <LEND>

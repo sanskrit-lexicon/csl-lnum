@@ -1,20 +1,20 @@
 <L>24595<pc>660-a<k1>reason<k2>reason
-<div n="lb"/>REASON¦, {%s.%} (Reasoning faculty, understanding) {#budDiH#} {%f.,%} {#DIH#} {%f.,%}
-<div n="lb"/>{#manas#} {%n.,%} {#matiH#} {%f.,%} {#cittaM, cetas#} {%n.,%} {#jYAnaM, cicCaktiH#} {%f.,%} {#cetanA, cit#} {%f.,%}
-<div n="lb"/>{#tarkaSaktiH#} {%f.,%} {#anumAnaSaktiH#} {%f.,%} {#AkalanaSaktiH#} {%f.,%} {#mAnasaM, prajYA, upala-#}
-<div n="lb"/>{#bDiH#} {%f.,%} {#SemuzI, manIzA, svAntaM#}. — (Right, justice) {#yuktatA, yuktiH#} {%f.,%}
-<div n="lb"/>[Page660-b+ 51]
-<div n="lb"/>{#upapattiH#} {%f.,%} {#upapannatA, yogyatA, yaTAyogyatA, yaTArTatA, yATArTyaM,#}
-<div n="lb"/>{#nyAyaH, nyAyyatA, sAmaYjasyaM, samyaktvaM;#} ‘with reason,’ {#yuktaM,#}
-<div n="lb"/>{#yaTAyuktaM, yaTAyogyaM, nyAyatas, samyak#}. — (Cause, ground) {#hetuH#} {%m.,%}
-<div n="lb"/>{#kAraRaM, nimittaM -ttakaM, nidAnaM, nibanDanaM, prayojanaM;#} ‘by reason
-<div n="lb"/>of,’ {#hetoH hetO, nimitte, kfte, arTaM, kAraRAt,#} or expressed
-<div n="lb"/>simply by the abl. c.; as, ‘by reason of anger,’
-<div n="lb"/>{#kopAt;#} ‘for this reason,’ {#anena hetunA, ataHkAraRAt, tasya hetoH,#}
-<div n="lb"/>{#tadarTaM;#} ‘for some reason,’ {#kenApi kAraRena;#} ‘for what reason,’
-<div n="lb"/>{#kena hetunA, kasya hetoH, kimarTaM;#} ‘without reason,’ {#kAraRena vinA,#}
-<div n="lb"/>{#hetunA vinA, akasmAt;#} ‘He assigns a reason,’ {#sa hetum Aha;#}
-<div n="lb"/>‘the reason of their barrenness is the absence of seed,’
-<div n="lb"/>{#tezAM banDyatve vIjABAvaH kAraRaM;#} ‘the reason of the indistinct-
-<div n="lb"/>ness is as follows,’ {#aTa aspazwatve hetur ucyate#}.
+REASON¦, {%s.%} (Reasoning faculty, understanding) {#budDiH#} {%f.,%} {#DIH#} {%f.,%}
+{#manas#} {%n.,%} {#matiH#} {%f.,%} {#cittaM, cetas#} {%n.,%} {#jYAnaM, cicCaktiH#} {%f.,%} {#cetanA, cit#} {%f.,%}
+{#tarkaSaktiH#} {%f.,%} {#anumAnaSaktiH#} {%f.,%} {#AkalanaSaktiH#} {%f.,%} {#mAnasaM, prajYA, upala-#}
+{#bDiH#} {%f.,%} {#SemuzI, manIzA, svAntaM#}. — (Right, justice) {#yuktatA, yuktiH#} {%f.,%}
+[Page660-b+ 51]
+{#upapattiH#} {%f.,%} {#upapannatA, yogyatA, yaTAyogyatA, yaTArTatA, yATArTyaM,#}
+{#nyAyaH, nyAyyatA, sAmaYjasyaM, samyaktvaM;#} ‘with reason,’ {#yuktaM,#}
+{#yaTAyuktaM, yaTAyogyaM, nyAyatas, samyak#}. — (Cause, ground) {#hetuH#} {%m.,%}
+{#kAraRaM, nimittaM -ttakaM, nidAnaM, nibanDanaM, prayojanaM;#} ‘by reason
+of,’ {#hetoH hetO, nimitte, kfte, arTaM, kAraRAt,#} or expressed
+simply by the abl. c.; as, ‘by reason of anger,’
+{#kopAt;#} ‘for this reason,’ {#anena hetunA, ataHkAraRAt, tasya hetoH,#}
+{#tadarTaM;#} ‘for some reason,’ {#kenApi kAraRena;#} ‘for what reason,’
+{#kena hetunA, kasya hetoH, kimarTaM;#} ‘without reason,’ {#kAraRena vinA,#}
+{#hetunA vinA, akasmAt;#} ‘He assigns a reason,’ {#sa hetum Aha;#}
+‘the reason of their barrenness is the absence of seed,’
+{#tezAM banDyatve vIjABAvaH kAraRaM;#} ‘the reason of the indistinct-
+ness is as follows,’ {#aTa aspazwatve hetur ucyate#}.
 <LEND>

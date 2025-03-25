@@ -1,9 +1,9 @@
 <L>8780<pc>387<k1>relevant<k2>relevant
 {@Relevant,@}¦ {%a.%} {#prAstAvika#} ({#kI#} {%f.%}), {#prastuta,#}
-<div n="lb"/>{#prastutAnuzaMgin, prAsaMgika#} ({#kI#} {%f.%}), {#prastAva-#}
-<div n="lb"/>{#-sadfSa#} ({#SI#} {%f.%}) {#-ucita-anurUpa, prasaMgocita#}.
-<div n="lb"/>{@-ly,@} {%adv.%} {#prastAvasadfSaM, prAsaMgikaM#}.
-<div n="lb"/>{@-Relevance, -cy,@} {%s.%} {#prastAvOcityaM, prastAva-#}
-<div n="lb"/>{#-saMgati#} {%f.,%} {#prastutAnusAraH-anvayaH, prakaraRA-#}
-<div n="lb"/>{#-nusAraH, prAstAvikatvaM#}.
+{#prastutAnuzaMgin, prAsaMgika#} ({#kI#} {%f.%}), {#prastAva-#}
+{#-sadfSa#} ({#SI#} {%f.%}) {#-ucita-anurUpa, prasaMgocita#}.
+{@-ly,@} {%adv.%} {#prastAvasadfSaM, prAsaMgikaM#}.
+{@-Relevance, -cy,@} {%s.%} {#prastAvOcityaM, prastAva-#}
+{#-saMgati#} {%f.,%} {#prastutAnusAraH-anvayaH, prakaraRA-#}
+{#-nusAraH, prAstAvikatvaM#}.
 <LEND>

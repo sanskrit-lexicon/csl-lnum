@@ -1,5 +1,5 @@
 <L>22273<pc>702<k1>technology<k2>technology
-<div n="lb"/>{@TECHNOLOGY:@}¦ <div n="I">I Of arts: {#SilpavijYAnam.#} </div><div n="I">II
-<div n="lb"/>Of terms: {#pariBAzA,#} <div n="xe">{%general t.:%}</div> <div n="xs">{#sAmAnyapariBAzA.#}</div>
-<div n="lb"/>Mit.</div>
+{@TECHNOLOGY:@}¦ <div n="I">I Of arts: {#SilpavijYAnam.#} </div><div n="I">II
+Of terms: {#pariBAzA,#} <div n="xe">{%general t.:%}</div> <div n="xs">{#sAmAnyapariBAzA.#}</div>
+Mit.</div>
 <LEND>

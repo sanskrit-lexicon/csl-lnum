@@ -1,102 +1,101 @@
 <L>88106<pc>6-0710<k1>vara<k2>vara<h>4
-4. {#vara#}¦ (wie eben) 
-<div n="1"> 1) <lex>adj.</lex> (f. {#A#}) 
-<div n="2"> a) ({%erwünscht) der vorzüglichste, beste, schönste%} 
-<ls>AK. 3, 4, 25, 173. 175. 30, 237.</ls> 
-<ls>H. 1439.</ls> 
-<ls>an. 2, 450. fg.</ls> 
-<ls>MED. r. 63.</ls> <ls>HALĀY. 4, 4.</ls> {#devA dadatu yadvaram#} 
-<ls>ŚĀṄKH. ŚR. 12, 19, 1.</ls> {#varAM#} (vielleicht {#varaM) DenuM kartre dadyAt#} 
-<ls>KAUŚ. 112. 136.</ls> {#putrAH#} 
-<ls>MBH. 1, 2596.</ls> {#niGnamAnA varAnvarAn#} 
-<ls>7, 1529.</ls> <ls>HARIV. 7904.</ls> {#BUzaRAni#} 
-<ls>R. 2, 39, 15. 68, 9.</ls> {#dArURi#} 
-<ls>56, 14.</ls> {#BogAH#} 
-<ls>R. GORR. 1, 4, 7. 3, 52, 40.</ls> {#kanyAH#} 
-<ls>4, 25, 26. 5, 11, 22.</ls> <ls>VARĀH. BṚH. S. 74, 1.</ls> <ls>RĀJA-TAR. 5, 431.</ls> <ls>BHĀG. P. 1, 12, 14. 6, 4, 15.</ls> <ls>MĀRK. P. 96, 45.</ls> <ls>PAÑCAR. 1, 6, 22.</ls> {#etatkzatraBftAM varam#} {%am Besten für%} 
-<ls>R. GORR. 2, 95, 21.</ls> {#PalaM #}
+4. {#vara#}¦ (wie eben)
+<div n="1"> 1) <lex>adj.</lex> (f. {#A#})
+<div n="2"> a) ({%erwünscht) der vorzüglichste, beste, schönste%}
+<ls>AK. 3,4,25,173.</ls> <ls n="AK. 3,4,25,">175.</ls> <ls n="AK. 3,4,">30,237.</ls>
+<ls>H. 1439.</ls>
+<ls>an. 2,450. fg.</ls>
+<ls>MED. r. 63.</ls> <ls>HALĀY. 4,4.</ls> {#devA dadatu yadvaram#}
+<ls>ŚĀṄKH. ŚR. 12,19,1.</ls> {#varAM#} (vielleicht {#varaM) DenuM kartre dadyAt#}
+<ls>KAUŚ. 112. 136.</ls> {#putrAH#}
+<ls>MBH. 1,2596.</ls> {#niGnamAnA varAnvarAn#}
+<ls n="MBH.">7,1529.</ls> <ls>HARIV. 7904.</ls> {#BUzaRAni#}
+<ls>R. 2,39,15.</ls> <ls n="R. 2,">68,9.</ls> {#dArURi#}
+<ls n="R. 2,">56,14.</ls> {#BogAH#}
+<ls>R. GORR. 1,4,7.</ls> <ls n="R. GORR.">3,52,40.</ls> {#kanyAH#}
+<ls n="R. GORR.">4,25,26.</ls> <ls n="R. GORR.">5,11,22.</ls> <ls>VARĀH. BṚH. S. 74,1.</ls> <ls>RĀJA-TAR. 5,431.</ls> <ls>BHĀG. P. 1,12,14.</ls> <ls n="BHĀG. P.">6,4,15.</ls> <ls>MĀRK. P. 96,45.</ls> <ls>PAÑCAR. 1,6,22.</ls> {#etatkzatraBftAM varam#} {%am Besten für%}
+<ls>R. GORR. 2,95,21.</ls> {#PalaM #}
 [Page6-0711]
-{# varamaDyanIcam#} 
-<ls>VARĀH. BṚH. S. 88, 46.</ls> {#varADamamaDyamAH#} 
-<ls>BṚH. 23, 17.</ls> Häufig mit seinem subst. comp.: {#°vastra#} 
-<ls>ADBHUTA-BR. 6, 6</ls> in <ls>Ind. St. 1, 40.</ls> {#°dakziRA#} 
-<ls>YĀJÑ. 1, 358.</ls> {#varAsanezu#} 
-<ls>MBH. 1, 7717.</ls> {#varANganA#} 
-<ls>3, 2507.</ls> {#varAyuDAni#} 
-<ls>8811.</ls> {#varAnnapAna°#} 
-<ls>R. 1, 5, 15.</ls> {#°vastrARi#} 
-<ls>2, 30, 44. 78, 7.</ls> <ls>RAGH. 11, 54.</ls> <ls>AK. 2, 6, 3, 20. 3, 4, 31, 240.</ls> <ls>Spr. 4323.</ls> <ls>KATHĀS. 16, 85. 18, 98.</ls> <ls>PRAB. 85, 3.</ls> <ls>CAURAP. 22.</ls> <ls>BHĀG. P. 1, 9, 33.</ls> <ls>MĀRK. P. 61, 35. 65, 5.</ls> mit einem gen. pl. {%der beste, vorzüglichste unter%}: {#sarvavedavidAm#} 
-<ls>MBH. 1, 107.</ls> {#dvipadAm#} 
-<ls>3, 2232. 17341.</ls> {#BAryA ca suhfdAM varA#} 
-<ls>4, 44. 14, 1528.</ls> <ls>R. 1, 1, 1.</ls> {#saritAM varA#} 
-<ls>35, 11.</ls> <ls>R. GORR. 2, 23, 3.</ls> <ls>RAGH. 1, 59. 5, 23.</ls> <ls>KUMĀRAS. 6, 18.</ls> <ls>KATHĀS. 22, 187.</ls> <ls>BHĀG. P. 1, 3, 41.</ls> <ls>MĀRK. P. 108, 10.</ls> mit einem loc.: {#narezu ca nalo varaH#} 
-<ls>MBH. 3, 2101.</ls> mit einem abl.: {#pramadAByo varA#} {%die schönste unter den Frauen%} 
-<ls>1, 950.</ls> {#sarvadravyAcca yadvaram#} 
-<ls>M. 9, 112.</ls> {#daSataScApnuyAdvaram#} 
-<ls>114.</ls> {#sa duhyAddaSato varAm#} 
-<ls>8, 231.</ls> Häufig in comp. mit dem im gen. u.s.w. gedachten Substantiv: {#pApo nfzadvaro janaH#} (hierher nach dem Comm., eher jedoch {#nfzadvara = nfzadvan#}; 
-<ls>ŚĀṄKH. ŚR. 15, 19, 1</ls> hat {#nizadvara#}) 
-<ls>AIT. BR. 7, 15.</ls> {#grAmavarAH#} 
-<ls>MBH. 1, 4965.</ls> {#raTavaraH#} 
-<ls>3, 2294.</ls> {#nara°#} 
-<ls>2792.</ls> {#nfvaro narezviva#} 
-<ls>4, 238.</ls> <ls>R. 1, 1, 66.</ls> {#puravaram#} 
-<ls>6, 6. 7, 15. 9, 65.</ls> {#SUla°#} 
-<ls>29, 6.</ls> {#ikzvAku°#} 
-<ls>2, 42, 1.</ls> {#saridvarA#} 
-<ls>RAGH. 16, 71.</ls> {#taruvarAH#} 
-<ls>ṚT. 3, 10.</ls> 
-<ls>VIKR. 119.</ls> 
-<ls>Spr. 411. 564. 2186. 3053.</ls> 
-<ls>VARĀH. BṚH. S. 19, 6. 44, 15. 48, 56.</ls> 
-<ls>KATHĀS. 17, 8. 24, 137.</ls> 
-<ls>RĀJA-TAR. 5, 157.</ls> 
-<ls>BHĀG. P. 3, 5, 40.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 1, 13.</ls> {#naravarottama#} 
-<ls>N. 12, 38.</ls> {#naravaraSrezWa#} 
-<ls>R. 2, 61, 3. 7, 104, 13.</ls> ein solches comp. am Ende eines <lex>adj.</lex> comp.: {#utPullanAnAtaruvarAsu vanaBUmizu#} 
-<ls>KATHĀS. 54, 52.</ls> 
-<div n="2">— b) {%vorzüglicher, besser%}: {#imAH syuH kramaSo varAH#} 
-<ls>M. 3, 12.</ls> mit einem abl.: {#hiraRyaBUmilABeByo mitralabDirvarA yataH#} 
-<ls>YĀJÑ. 1, 351.</ls> {#tvamevEkaH SatAdapi varaH sutaH#} 
-<ls>MBH. 1, 4030. 13, 1441.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 80, 10.</ls> 
-<ls>Spr. 3397. 4201.</ls> 
-<ls>KATHĀS. 78, 127.</ls> 
-<ls>PRAB. 52, 14.</ls> statt des abl. der gen.: {#kAmo DarmArTayorvaraH#} 
-<ls>Spr. 3049.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%eine best. Körnerfrucht%}, = {#varawa#} 
-<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 102, 17.</ls> 
-<div n="2">— b) {%Bdellion%} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— c) {%Sperling%} 
-<ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#A#} 
-<div n="2"> a) Bez. verschiedener Pflanzen und vegetabilischer Stoffe: {%die drei Myrobalanen%} 
-<ls>MED.</ls> {%Clypea hernandifolia%} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>RATNAM. 14.</ls> {%Asparagus racemosus%} 15. {%Cocculus cordifolius DC., Gelbwurz%}, = {#brAhmI, medA#} und {#viqaNga#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#reRukA#} 
-<ls>ŚABDAC.</ls> im <ls>ŚKDR. -</ls> <ls>SUŚR. 2, 104, 10. 227, 17.</ls> 
-<div n="2">— b) Bein. der <is>Pārvatī</is> 
-<ls>H. ś. 48.</ls> 
-<div n="2">— c) N. pr. eines Flusses 
-<ls>MBH. 6, 333</ls> <ls>?(VP. 183).</ls> 
-<div n="1">— 4) <lex>f.</lex> {#I/#} <is>gaṇa</is> {#gOrAdi#} 
-zu <ls>P. 4, 1, 41.</ls> 
-<div n="2"> a) {%Asparagus racemosus%} 
-<ls>AK. 2, 4, 3, 19.</ls> 
-<ls>TRIK. 3, 3, 376.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<div n="2">— b) Bein. der <is>Chāyā</is>, der Gattin des Sonnengottes, 
-<ls>TRIK. 1, 1, 100.</ls> 
-<div n="1">— 5) <lex>n.</lex> {%Saffran%} 
-<ls>AK. 2, 6, 3, 25.</ls> 
-<ls>TRIK. 3, 3, 363.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>BHĀG. P. 4, 6, 16.</ls> 
+{# varamaDyanIcam#}
+<ls>VARĀH. BṚH. S. 88,46.</ls> {#varADamamaDyamAH#}
+<ls>BṚH. 23,17.</ls> Häufig mit seinem subst. comp.: {#°vastra#}
+<ls>ADBHUTA-BR. 6,6</ls> in <ls>Ind. St. 1,40.</ls> {#°dakziRA#}
+<ls>YĀJÑ. 1,358.</ls> {#varAsanezu#}
+<ls>MBH. 1,7717.</ls> {#varANganA#}
+<ls n="MBH.">3,2507.</ls> {#varAyuDAni#}
+<ls n="MBH. 3,">8811.</ls> {#varAnnapAna°#}
+<ls>R. 1,5,15.</ls> {#°vastrARi#}
+<ls n="R.">2,30,44.</ls> <ls n="R. 2,">78,7.</ls> <ls>RAGH. 11,54.</ls> <ls>AK. 2,6,3,20.</ls> <ls n="AK.">3,4,31,240.</ls> <ls>Spr. 4323.</ls> <ls>KATHĀS. 16,85.</ls> <ls n="KATHĀS.">18,98.</ls> <ls>PRAB. 85,3.</ls> <ls>CAURAP. 22.</ls> <ls>BHĀG. P. 1,9,33.</ls> <ls>MĀRK. P. 61,35. 65,5.</ls> mit einem gen. pl. {%der beste, vorzüglichste unter%}: {#sarvavedavidAm#}
+<ls>MBH. 1,107.</ls> {#dvipadAm#}
+<ls n="MBH.">3,2232.</ls> <ls n="MBH. 3,">17341.</ls> {#BAryA ca suhfdAM varA#}
+<ls n="MBH.">4,44.</ls> <ls n="MBH.">14,1528.</ls> <ls>R. 1,1,1.</ls> {#saritAM varA#}
+<ls n="R. 1,">35,11.</ls> <ls>R. GORR. 2,23,3.</ls> <ls>RAGH. 1,59.</ls> <ls n="RAGH.">5,23.</ls> <ls>KUMĀRAS. 6,18.</ls> <ls>KATHĀS. 22,187.</ls> <ls>BHĀG. P. 1,3,41.</ls> <ls>MĀRK. P. 108,10.</ls> mit einem loc.: {#narezu ca nalo varaH#}
+<ls>MBH. 3,2101.</ls> mit einem abl.: {#pramadAByo varA#} {%die schönste unter den Frauen%}
+<ls n="MBH.">1,950.</ls> {#sarvadravyAcca yadvaram#}
+<ls>M. 9,112.</ls> {#daSataScApnuyAdvaram#}
+<ls n="M. 9,">114.</ls> {#sa duhyAddaSato varAm#}
+<ls n="M.">8,231.</ls> Häufig in comp. mit dem im gen. u.s.w. gedachten Substantiv: {#pApo nfzadvaro janaH#} (hierher nach dem Comm., eher jedoch {#nfzadvara = nfzadvan#};
+<ls>ŚĀṄKH. ŚR. 15,19,1</ls> hat {#nizadvara#})
+<ls>AIT. BR. 7,15.</ls> {#grAmavarAH#}
+<ls>MBH. 1,4965.</ls> {#raTavaraH#}
+<ls n="MBH.">3,2294.</ls> {#nara°#}
+<ls n="MBH. 3,">2792.</ls> {#nfvaro narezviva#}
+<ls n="MBH.">4,238.</ls> <ls>R. 1,1,66.</ls> {#puravaram#}
+<ls n="R. 1,">6,6.</ls> <ls n="R. 1,">7,15.</ls> <ls n="R. 1,">9,65.</ls> {#SUla°#}
+<ls n="R. 1,">29,6.</ls> {#ikzvAku°#}
+<ls n="R.">2,42,1.</ls> {#saridvarA#}
+<ls>RAGH. 16,71.</ls> {#taruvarAH#}
+<ls>ṚT. 3,10.</ls>
+<ls>VIKR. 119.</ls>
+<ls>Spr. 411.</ls> <ls n="Spr.">564.</ls> <ls n="Spr.">2186.</ls> <ls n="Spr.">3053.</ls>
+<ls>VARĀH. BṚH. S. 19,6. 44,15. 48,56.</ls>
+<ls>KATHĀS. 17,8.</ls> <ls n="KATHĀS.">24,137.</ls>
+<ls>RĀJA-TAR. 5,157.</ls>
+<ls>BHĀG. P. 3,5,40.</ls>
+<ls>VET. in LA. (III) 1,13.</ls> {#naravarottama#}
+<ls>N. 12,38.</ls> {#naravaraSrezWa#}
+<ls>R. 2,61,3.</ls> <ls n="R.">7,104,13.</ls> ein solches comp. am Ende eines <lex>adj.</lex> comp.: {#utPullanAnAtaruvarAsu vanaBUmizu#}
+<ls>KATHĀS. 54,52.</ls>
+<div n="2">— b) {%vorzüglicher, besser%}: {#imAH syuH kramaSo varAH#}
+<ls>M. 3,12.</ls> mit einem abl.: {#hiraRyaBUmilABeByo mitralabDirvarA yataH#}
+<ls>YĀJÑ. 1,351.</ls> {#tvamevEkaH SatAdapi varaH sutaH#}
+<ls>MBH. 1,4030.</ls> <ls n="MBH.">13,1441.</ls>
+<ls>R. GORR. 2,80,10.</ls>
+<ls>Spr. 3397.</ls> <ls n="Spr.">4201.</ls>
+<ls>KATHĀS. 78,127.</ls>
+<ls>PRAB. 52,14.</ls> statt des abl. der gen.: {#kAmo DarmArTayorvaraH#}
+<ls>Spr. 3049.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) {%eine best. Körnerfrucht%}, = {#varawa#}
+<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 102,17.</ls>
+<div n="2">— b) {%Bdellion%}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— c) {%Sperling%}
+<ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>
+<div n="1">— 3) <lex>f.</lex> {#A#}
+<div n="2"> a) Bez. verschiedener Pflanzen und vegetabilischer Stoffe: {%die drei Myrobalanen%}
+<ls>MED.</ls> {%Clypea hernandifolia%}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>RATNAM. 14.</ls> {%Asparagus racemosus%} 15. {%Cocculus cordifolius DC., Gelbwurz%}, = {#brAhmI, medA#} und {#viqaNga#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#reRukA#}
+<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> — <ls>SUŚR. 2,104,10. 227,17.</ls>
+<div n="2">— b) Bein. der <is>Pārvatī</is>
+<ls>H. ś. 48.</ls>
+<div n="2">— c) N. pr. eines Flusses
+<ls>MBH. 6,333</ls> (<ls>VP. 183).</ls>
+<div n="1">— 4) <lex>f.</lex> {#I/#} <is>gaṇa</is> {#gOrAdi#}
+zu <ls>P. 4,1,41.</ls>
+<div n="2"> a) {%Asparagus racemosus%}
+<ls>AK. 2,4,3,19.</ls>
+<ls>TRIK. 3,3,376.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<div n="2">— b) Bein. der <is>Chāyā</is>, der Gattin des Sonnengottes,
+<ls>TRIK. 1,1,100.</ls>
+<div n="1">— 5) <lex>n.</lex> {%Saffran%}
+<ls>AK. 2,6,3,25.</ls>
+<ls>TRIK. 3,3,363.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>BHĀG. P. 4,6,16.</ls>
 <div n="v">— Vgl. {#pfzadvarA, bIjavara, budDi°, brAhmaRa°, mantri°, mahAvara, meDAvara, yaSo°, loha°#} .
 <LEND>

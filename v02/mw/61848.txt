@@ -1,3 +1,3 @@
-<L>61848<pc>339,2<k1>KArI<k2>KArI/<h>a<e>1B
-<s>KArI/</s> <hom>a</hom> ¦ <lex>f.</lex> <ab>id.</ab>, <ls>RV. iv, 32, 17</ls>; <ls>Pāṇ.</ls>; <ls>Pañcat.</ls>; <ls>Rājat.</ls><info lex="f"/>
+<L>61848<pc>339,2<k1>KArI<k2>KArI/<e>1B
+<s>KArI/</s> ¦ (<s>I/</s>), <lex>f.</lex> <ab>id.</ab>, <ls>RV. iv, 32, 17</ls>; <ls>Pāṇ.</ls>; <ls>Pañcat.</ls>; <ls>Rājat.</ls><info lex="f"/><info hui="a"/>
 <LEND>

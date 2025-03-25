@@ -1,41 +1,41 @@
 <L>115227<pc>7-1446<k1>svarUpa<k2>svarUpa
-{#svarUpa#}¦ 
-<div n="1"> 1) <lex>n.</lex> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} . 
-<div n="2"> a) {%die eigene Gestalt, - Form%}: {#°DArin#} 
-<ls>MBH. 3, 2620.</ls> {#svarUpaM divyamAsTAya#} 
-<ls>11977. 5, 7537. 12, 4270.</ls> {#vizRu°#} <is>Viṣṇu's</is> {%Gestalt%} 
-<ls>PAÑCAT. ed. orn. 54, 16.</ls> <ls>BHĀG. P. 1, 9, 39.</ls> {#vyavasTAnaM °taH#} 
-<ls>2, 8, 22. 3, 2, 15.</ls> {#yajYasvarUpaDfk#} 
-<ls>4, 1, 4.</ls> {#°sTa#} 
-<ls>?23, 18. 6, 8, 31 (pl.).</ls> {#Sabdasya#} {%Lautform%} 
-<ls>Schol.</ls> zu <ls>P. 1, 1, 68.</ls> {#Sabda°#} 
-zu <ls>39. 2, 2, 34.</ls> {#svarUpam, paryAyAH, viSezAH#} {%das Wort selbst, die Synonyme, die Unterarten (Species%}) 
-<ls>SIDDH. K.</ls> zu <ls>4,35.</ls> am Ende eines <lex>adj.</lex> comp.: {#strI°#} {%in weiblicher Gestalt%} 
-<ls>MBH. 5, 7531.</ls> {#a°#} {%gestaltlos%} (Gegens. {#rUpavant#}) 
-<ls>BHĀG. P. 2, 6, 44.</ls> 
-<div n="2">— b) {%die eigene Beschaffenheit, Eigenthümlichkeit, Wesen, Natur, Charakter%} 
-<ls>AK. 1, 1, 7, 38. 3, 4, 26, 204.</ls> 
-<ls>TRIK. 3, 3, 145.</ls> 
-<ls>HALĀY. 5, 78.</ls> {#nAmnAM svarUpaBAvo hi BoBAva fziBiH smftaH#} so v. a. {#Bos#} {%gilt ja gerade dasselbe wie der eigentliche Name%} 
-<ls>M.2,124.</ls> <ls>YOGAS.1,3.2,23. 54.</ls> <ls>Verz. d. Oxf. H. 231,b,2. 21.</ls> <ls>Spr.</ls> <ls>?(II)2165. 6420. VARĀH. BṚH. S. 32,16. 47,3. KATHĀS. 18,215. 20,103. 24,157. 48,77. 111,87. 120,86. MĀRK. P. 34,9. 51,90. 68,3. SĀH. D. 2. PRATĀPAR.3,b,6. BHĀG. P.3,28,37.7,9,20. PAÑCAT. 43,12. 137,19. 145,16. 233,11. ed. orn. 19,4. HIT. 98,13. 113,13. Z. d. d. m. G. 14,572,5. HEM. YOGAŚ.4,52.</ls>
+{#svarUpa#}¦
+<div n="1"> 1) <lex>n.</lex> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} .
+<div n="2"> a) {%die eigene Gestalt, — Form%}: {#°DArin#}
+<ls>MBH. 3,2620.</ls> {#svarUpaM divyamAsTAya#}
+<ls n="MBH. 3,">11977.</ls> <ls n="MBH.">5,7537.</ls> <ls n="MBH.">12,4270.</ls> {#vizRu°#} <is>Viṣṇu's</is> {%Gestalt%}
+<ls>PAÑCAT. ed. orn. 54,16.</ls> <ls>BHĀG. P. 1,9,39.</ls> {#vyavasTAnaM °taH#}
+<ls n="BHĀG. P.">2,8,22.</ls> <ls n="BHĀG. P.">3,2,15.</ls> {#yajYasvarUpaDfk#}
+<ls n="BHĀG. P.">4,1,4.</ls> {#°sTa#}
+<ls n="BHĀG. P. 4,">23,18.</ls> <ls n="BHĀG. P.">6,8,31</ls> (pl.). {#Sabdasya#} {%Lautform%}
+<ls>Schol.</ls> zu <ls>P. 1,1,68.</ls> {#Sabda°#}
+zu <ls n="P. 1,1,">39.</ls> <ls n="P.">2,2,34.</ls> {#svarUpam, paryAyAH, viSezAH#} {%das Wort selbst, die Synonyme, die Unterarten (Species%})
+<ls>SIDDH. K.</ls> zu <ls n="P. 2,">4,35.</ls> am Ende eines <lex>adj.</lex> comp.: {#strI°#} {%in weiblicher Gestalt%}
+<ls>MBH. 5,7531.</ls> {#a°#} {%gestaltlos%} (Gegens. {#rUpavant#})
+<ls>BHĀG. P. 2,6,44.</ls>
+<div n="2">— b) {%die eigene Beschaffenheit, Eigenthümlichkeit, Wesen, Natur, Charakter%}
+<ls>AK. 1,1,7,38.</ls> <ls n="AK.">3,4,26,204.</ls>
+<ls>TRIK. 3,3,145.</ls>
+<ls>HALĀY. 5,78.</ls> {#nAmnAM svarUpaBAvo hi BoBAva fziBiH smftaH#} so v. a. {#Bos#} {%gilt ja gerade dasselbe wie der eigentliche Name%}
+<ls>M. 2,124.</ls> <ls>YOGAS. 1,3. 2,23. 54.</ls> <ls>Verz. d. Oxf. H. 231,b,2. 21.</ls> <ls>Spr. (II) 2165.</ls> <ls n="Spr. (II)">6420.</ls> <ls>VARĀH. BṚH. S. 32,16. 47,3.</ls> <ls>KATHĀS. 18,215.</ls> <ls n="KATHĀS.">20,103.</ls> <ls n="KATHĀS.">24,157.</ls> <ls n="KATHĀS.">48,77.</ls> <ls n="KATHĀS.">111,87.</ls> <ls n="KATHĀS.">120,86.</ls> <ls>MĀRK. P. 34,9. 51,90. 68,3.</ls> <ls>SĀH. D. 2.</ls> <ls>PRATĀPAR. 3,b,6.</ls> <ls>BHĀG. P. 3,28,37.</ls> <ls n="BHĀG. P.">7,9,20.</ls> <ls>PAÑCAT. 43,12. 137,19. 145,16. 233,11. ed. orn. 19,4.</ls> <ls>HIT. 98,13. 113,13.</ls> <ls>Z. d. d. m. G. 14,572,5.</ls> <ls>HEM. YOGAŚ. 4,52.</ls>
 [Page7-1447]
-{#svasvarUpa#} 45. {#paWa kiMcitkAlasvarUpam#} 
-<ls>VET.</ls> in <ls>LA. (III) 29, 18.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 14, 3.</ls> Comm. zu <ls>TS. PRĀT. 21, 10.</ls> <ls n="TS. PRĀT. 21,">15.</ls> <ls n="TS. PRĀT.">24, 4.</ls> <ls>SARVADARŚANAS. 31, 21. 34, 8. 17. 47, 15. fgg. 60, 9. 99, 12. 17. 169, 13. 174, 11. 180, 3.</ls> {#°tas#} 
-<ls>MĀRK. P. 73, 3.</ls> {#svarUpamahAtman#} so v. a. {%von Natur%} 
-<ls>134, 8.</ls> {#svarUpAsidDa#} so v. a. {%in sich als falsch sich erweisend%} (z. B. der Laut ist eine Eigenschaft, weil man ihn sieht) 
-<ls>TARKAS. 43. fg.</ls> am Ende eines <lex>adj.</lex> comp.: {#pUrva°#} 
-<ls>ṚV. PRĀT. 6, 11.</ls> {#brahma°#} (so lesen wir) 
-<ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 76.</ls> {#abAhya°#} 
-<ls>163.</ls> <ls>PAÑCAR. 2, 3, 51. 4, 5.</ls> <ls>SARVADARŚANAS. 174. 13.</ls> 
-<div n="1">— 3) <lex>adj.</lex> = {#buDa#} und {#manojYa#} (vgl. {#aBirUpa, prAptarUpa#} und {#surUpa#}) 
-<ls>AK. 3, 4, 19, 134.</ls> fehlerhaft für {#sarUpa#} (so 
-<ls>WILSON</ls><ls>?'S Ausg.</ls>) <ls>SĀṂKHYAK. 8.</ls> für {#surUpa#} 
-<ls>VET.</ls> in <ls>LA. (III) 16, 14.</ls> 
-<div n="1">— 4) <lex>m.</lex> N. pr. eines <is>Daitya</is> 
-<ls>MBH. 2, 366.</ls> eines Sohnes der <is>Sunandā</is> 
-<ls>MĀRK. P. 118, 2.</ls> eines Schülers des <is>Caitanya</is> 
-<ls>WILSON, Sel. Works 1, 155.</ls> 
-<div n="1">— 5) N. pr. einer Oertlichkeit (vgl. {#svArUpa#}) 
-<ls>Verz. d. Oxf. H. 338,b,22.</ls> 
+{#svasvarUpa#} 45. {#paWa kiMcitkAlasvarUpam#}
+<ls>VET. in LA. (III) 29,18.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,14,3.</ls> Comm. zu <ls>TS. PRĀT. 21,10.</ls> <ls n="TS. PRĀT. 21,">15.</ls> <ls n="TS. PRĀT.">24,4.</ls> <ls>SARVADARŚANAS. 31,21. 34,8. 17. 47,15. fgg. 60,9. 99,12. 17. 169,13. 174,11. 180,3.</ls> {#°tas#}
+<ls>MĀRK. P. 73,3.</ls> {#svarUpamahAtman#} so v. a. {%von Natur%}
+<ls n="MĀRK. P.">134,8.</ls> {#svarUpAsidDa#} so v. a. {%in sich als falsch sich erweisend%} (z. B. der Laut ist eine Eigenschaft, weil man ihn sieht)
+<ls>TARKAS. 43. fg.</ls> am Ende eines <lex>adj.</lex> comp.: {#pUrva°#}
+<ls>ṚV. PRĀT. 6,11.</ls> {#brahma°#} (so lesen wir)
+<ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9,76.</ls> {#abAhya°#}
+<ls n="Ind. St.">163.</ls> <ls>PAÑCAR. 2,3,51. 4,5.</ls> <ls>SARVADARŚANAS. 174. 13.</ls>
+<div n="1">— 3) <lex>adj.</lex> = {#buDa#} und {#manojYa#} (vgl. {#aBirUpa, prAptarUpa#} und {#surUpa#})
+<ls>AK. 3,4,19,134.</ls> fehlerhaft für {#sarUpa#} (so <ls>WILSON</ls>'s Ausg.)
+<ls>SĀṂKHYAK. 8.</ls> für {#surUpa#}
+<ls>VET. in LA. (III) 16,14.</ls>
+<div n="1">— 4) <lex>m.</lex> N. pr. eines <is>Daitya</is>
+<ls>MBH. 2,366.</ls> eines Sohnes der <is>Sunandā</is>
+<ls>MĀRK. P. 118,2.</ls> eines Schülers des <is>Caitanya</is>
+<ls>WILSON, Sel. Works 1,155.</ls>
+<div n="1">— 5) N. pr. einer Oertlichkeit (vgl. {#svArUpa#})
+<ls>Verz. d. Oxf. H. 338,b,22.</ls>
 <div n="v">— Vgl. {#nIla°, viDisvarUpavAdArTa, SrI°#} .
 <LEND>

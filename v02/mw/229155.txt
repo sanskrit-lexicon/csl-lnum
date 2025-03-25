@@ -1,5 +1,5 @@
-<L>229155<pc>1132,1<k1>saMci<k2>saM-ci<h>a<e>1
-<hom>a.</hom> <s>saM-</s>√ <hom>1.</hom> <s>ci</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-cinoti</s>, <s>-cinute</s>, to heap together, pile up, heap up, <ls>ŚBr.</ls>; <ls>ŚrS.</ls>;
+<L>229155<pc>1132,1<k1>saMci<k2>saM-ci<e>1
+ <s>saM-</s>√ <hom>1.</hom> <s>ci</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-cinoti</s>, <s>-cinute</s>, to heap together, pile up, heap up, <ls>ŚBr.</ls>; <ls>ŚrS.</ls>;
 <div n="to"/>to arrange, put in order, <ls>ib.</ls>; <ls>Bhaṭṭ.</ls>;
-<div n="to"/>to accumulate, gather together, collect, acquire, <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info verb="pre" cp="PĀ" parse="sam+ci"/>
+<div n="to"/>to accumulate, gather together, collect, acquire, <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info verb="pre" cp="PĀ" parse="sam+ci"/><info hui="a"/>
 <LEND>

@@ -1,47 +1,47 @@
 <L>41140<pc>4-0338<k1>nyUna<k2>nyU^na
-{#nyU^na#}¦ (1. {#ni + Una#}) 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%verkürzt, verkleinert, mangelhaft, defect%} (Gegens. {#atirikta, aDika, pUrRa); = Una#} 
-<ls>AK. 3, 4, 18, 130.</ls> 
-<ls>H. an. 2, 273.</ls> 
-<ls>MED. n. 13.</ls> {#triBirakzarErnyUnam#} 
-<ls>AIT. BR. 3, 46.</ls> {#navanyUna#} 
-<ls>6, 9.</ls> <ls>ŚAT. BR. 2, 5, 1, 20.</ls> <ls>TBR. 2, 2, 1, 2.</ls> {#nyUnAkzara#} 
-<ls>ŚAT. BR. 10, 3, 2, 13.</ls> {#yatra nyUnamAsIttadetEH samapUrayan#} 
-<ls>2, 3, 16.</ls> {#aDike, same, nyUne#} 
-<ls>ĀŚV. GṚHY. 2, 8.</ls> {#nyUnADikANga#} 
-<ls>SUŚR. 1, 105, 7.</ls> 
-<ls>LĀṬY. 1, 1, 7.</ls> 
-<ls>ĀŚV. GṚHY. 1, 23.</ls> eine Finsterniss 
-<ls>SŪRYAS. 4, 11.</ls> {#pAdErnyUnaM Socasi mEkapAdam#} {%an den Füssen defect%} 
-<ls>BHĀG. P. 1, 16, 21. 17, 7.</ls> {#arTanyUna#} {%der kein Vermögen hat%} 
-<ls>MBH. 3, 4057</ls> (st. dessen {#arTahIna#} 
-<ls>13, 5207</ls>). {#samavizamanyUnamaDikam#} (auf der Erde) 
-<ls>BHĀG. P. 5, 9, 12.</ls> {#me nyUnam#} {%was mir mangelt%} 
-<ls>1, 5, 7.</ls> {#rAjaDAnI#} wohl so v. a. {%ausgestorben%} 
-<ls>R. 2, 88, 20.</ls> {#AsAra#} {%zu wenig%} 
-<ls>M. 8, 203.</ls> {#nyUnAByaDikaviBaktAnAm#} {%so dass der Eine zu wenig, der Andere zu viel erhält%} 
-<ls>YĀJÑ. 2, 116.</ls> {%gering, niedrig%}; = {#garhya#} 
-<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> = {#aDama#} 
-<ls>AK. 3, 4, 23, 146.</ls> {#nyUnajAtikulodBava#} 
-<ls>MBH. 13, 6610.</ls> {#(veDasA) dattvA kAryapadaM, nyUnaM nyastaH kalinfpAvalO#} 
-<ls>RĀJA-TAR. 4, 117.</ls> {%weniger%}: {#tato nyUnam#} 
-<ls>SIDDH. K.</ls> zu <ls>P.5,4,57.</ls> <ls>VARĀH. BṚH. S.24,27.</ls>
+{#nyU^na#}¦ (1. {#ni + Una#})
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%verkürzt, verkleinert, mangelhaft, defect%} (Gegens. {#atirikta, aDika, pUrRa); = Una#}
+<ls>AK. 3,4,18,130.</ls>
+<ls>H. an. 2,273.</ls>
+<ls>MED. n. 13.</ls> {#triBirakzarErnyUnam#}
+<ls>AIT. BR. 3,46.</ls> {#navanyUna#}
+<ls n="AIT. BR.">6,9.</ls> <ls>ŚAT. BR. 2,5,1,20.</ls> <ls>TBR. 2,2,1,2.</ls> {#nyUnAkzara#}
+<ls>ŚAT. BR. 10,3,2,13.</ls> {#yatra nyUnamAsIttadetEH samapUrayan#}
+<ls n="ŚAT. BR.">2,3,16.</ls> {#aDike, same, nyUne#}
+<ls>ĀŚV. GṚHY. 2,8.</ls> {#nyUnADikANga#}
+<ls>SUŚR. 1,105,7.</ls>
+<ls>LĀṬY. 1,1,7.</ls>
+<ls>ĀŚV. GṚHY. 1,23.</ls> eine Finsterniss
+<ls>SŪRYAS. 4,11.</ls> {#pAdErnyUnaM Socasi mEkapAdam#} {%an den Füssen defect%}
+<ls>BHĀG. P. 1,16,21.</ls> <ls n="BHĀG. P. 1,">17,7.</ls> {#arTanyUna#} {%der kein Vermögen hat%}
+<ls>MBH. 3,4057</ls> (st. dessen {#arTahIna#}
+<ls n="MBH.">13,5207</ls>). {#samavizamanyUnamaDikam#} (auf der Erde)
+<ls>BHĀG. P. 5,9,12.</ls> {#me nyUnam#} {%was mir mangelt%}
+<ls n="BHĀG. P.">1,5,7.</ls> {#rAjaDAnI#} wohl so v. a. {%ausgestorben%}
+<ls>R. 2,88,20.</ls> {#AsAra#} {%zu wenig%}
+<ls>M. 8,203.</ls> {#nyUnAByaDikaviBaktAnAm#} {%so dass der Eine zu wenig, der Andere zu viel erhält%}
+<ls>YĀJÑ. 2,116.</ls> {%gering, niedrig%}; = {#garhya#}
+<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> = {#aDama#}
+<ls>AK. 3,4,23,146.</ls> {#nyUnajAtikulodBava#}
+<ls>MBH. 13,6610.</ls> {#(veDasA) dattvA kAryapadaM, nyUnaM nyastaH kalinfpAvalO#}
+<ls>RĀJA-TAR. 4,117.</ls> {%weniger%}: {#tato nyUnam#}
+<ls>SIDDH. K.</ls> zu <ls>P. 5,4,57.</ls> <ls>VARĀH. BṚH. S. 24,27.</ls>
 [Page4-0339]
-{#zazwiM SatasahasrARi na nyUnAByaDikAni tu#} (so v. a. {#nyUnAnyaBya°#}, so dass die Verbesserung {#nyUnAnyaDi°#} nahe liegt) {%nicht weniger, wohl aber mehr%} (viell. auch {%nicht weniger und nicht mehr%}) 
-<ls>HARIV. 7960.</ls> {#nyUnAH parezAM (akzOhiRyaH) saptEva#} ({%nämlich nur sieben%}) 
-<ls>MBH. 5, 2209.</ls> {%geringer, niedriger%}: {#samaM nyUnaM taTOjasA (Bedayet)#} 
-<ls>1, 5592.</ls> {#nodDavo 'Rvapi mannyUnaH#} 
-<ls>BHĀG. P. 3, 4, 31.</ls> {#sTAnena vayasA ca#} 
-<ls>P. 4, 1, 165,</ls> 
-<ls>Sch.</ls> {#varRa°#} 
-<ls>VARĀH. BṚH. S. 83</ls> <ls>(80,c),10. 78,20.</ls> {#maDya°#} {%geringer als mittelmässig%} 
-<ls>9, 9.</ls> {#nyUnataram#} adv. {%noch geringer, kleiner%} 
-<ls>52, 11.</ls> {#goGno nyUnataraM yAti#} {%sinkt tiefer hinab%} 
-<ls>MĀRK. P. 14, 94.</ls> = {#avara#} {%das Minimum%} 
-<ls>KĀŚ.</ls> und <ls>SIDDH.</ls> zu <ls>P. 5, 4, 57.</ls> 
-<div n="1">— 2) subst. euphem. so v. a. {%vulva%}: {#nyUne vE retaH siYcati#} 
-<ls>AIT. BR. 6, 9.</ls> {#nyUnAdvE prajAH prajAyante#} ebend. 
-<ls>ŚAT. BR. 2, 1, 1, 13. 5, 1, 20.</ls> 
-<ls>TS. 5, 1, 9, 2.</ls> 
+{#zazwiM SatasahasrARi na nyUnAByaDikAni tu#} (so v. a. {#nyUnAnyaBya°#}, so dass die Verbesserung {#nyUnAnyaDi°#} nahe liegt) {%nicht weniger, wohl aber mehr%} (viell. auch {%nicht weniger und nicht mehr%})
+<ls>HARIV. 7960.</ls> {#nyUnAH parezAM (akzOhiRyaH) saptEva#} ({%nämlich nur sieben%})
+<ls>MBH. 5,2209.</ls> {%geringer, niedriger%}: {#samaM nyUnaM taTOjasA (Bedayet)#}
+<ls n="MBH.">1,5592.</ls> {#nodDavo 'Rvapi mannyUnaH#}
+<ls>BHĀG. P. 3,4,31.</ls> {#sTAnena vayasA ca#}
+<ls>P. 4,1,165</ls>, <ls>Sch.</ls>
+{#varRa°#}
+<ls>VARĀH. BṚH. S. 83</ls> (<ls n="VARĀH. BṚH. S.">80,c),10. 78,20.</ls> {#maDya°#} {%geringer als mittelmässig%}
+<ls n="VARĀH. BṚH. S.">9,9.</ls> {#nyUnataram#} adv. {%noch geringer, kleiner%}
+<ls n="VARĀH. BṚH. S.">52,11.</ls> {#goGno nyUnataraM yAti#} {%sinkt tiefer hinab%}
+<ls>MĀRK. P. 14,94.</ls> = {#avara#} {%das Minimum%}
+<ls>KĀŚ.</ls> und <ls>SIDDH.</ls> zu <ls>P. 5,4,57.</ls>
+<div n="1">— 2) subst. euphem. so v. a. {%vulva%}: {#nyUne vE retaH siYcati#}
+<ls>AIT. BR. 6,9.</ls> {#nyUnAdvE prajAH prajAyante#} ebend.
+<ls>ŚAT. BR. 2,1,1,13. 5,1,20.</ls>
+<ls>TS. 5,1,9,2.</ls>
 <div n="v">— Vgl. {#a°, anyUnADika#} .
 <LEND>

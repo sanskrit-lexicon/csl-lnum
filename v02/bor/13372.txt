@@ -1,12 +1,12 @@
 <L>13372<pc>412<k1>leave<k2>leave
-<div n="lb"/>{@LEAVE@}¦ (v.): <div n="I">I To forsake, abandon: q. v.:
-<div n="lb"/>{#tyajati, pari-,#} ({#tyaj,#} c. 1.). Ph.: {%it is not proper%}
-<div n="lb"/><div n="xe">{%to l. him alone:%}</div> <div n="xs">{#na yuktamenamekAkinaM kartum,#}</div> K.</div>
-<div n="lb"/><div n="I">II To bequeath: q. v.: {#dadAti#} ({#dA,#} c. 3.).</div>
-<div n="lb"/><div n="I">III To suffer to remain: {#sTApayati#} (c. of {#sTA#}):
-<div n="lb"/>v. To remain. </div><div n="I">IV To entrust: q. v. {#nyasyati#}
-<div n="lb"/>({#as,#} c. 4.) <div n="xe">{%or%}</div> <div n="xs">{#nyAsIkaroti,#}</div> <div n="xe">{%certainly Rākṣasa%}
-<div n="lb"/>{%will not l. his family with men who are not his%}
-<div n="lb"/>{%equals:%}</div> <div n="xs">{#nUnaM hyanAtmasadfSezu rAkzasaH kalatraM nyAsIkarizyati,#}</div>
-<div n="lb"/>Mu. i.: v. To refer: perh. {#nyasyati.#}</div>
+{@LEAVE@}¦ (v.): <div n="I">I To forsake, abandon: q. v.:
+{#tyajati, pari-,#} ({#tyaj,#} c. 1.). Ph.: {%it is not proper%}
+<div n="xe">{%to l. him alone:%}</div> <div n="xs">{#na yuktamenamekAkinaM kartum,#}</div> K.</div>
+<div n="I">II To bequeath: q. v.: {#dadAti#} ({#dA,#} c. 3.).</div>
+<div n="I">III To suffer to remain: {#sTApayati#} (c. of {#sTA#}):
+v. To remain. </div><div n="I">IV To entrust: q. v. {#nyasyati#}
+({#as,#} c. 4.) <div n="xe">{%or%}</div> <div n="xs">{#nyAsIkaroti,#}</div> <div n="xe">{%certainly Rākṣasa%}
+{%will not l. his family with men who are not his%}
+{%equals:%}</div> <div n="xs">{#nUnaM hyanAtmasadfSezu rAkzasaH kalatraM nyAsIkarizyati,#}</div>
+Mu. i.: v. To refer: perh. {#nyasyati.#}</div>
 <LEND>

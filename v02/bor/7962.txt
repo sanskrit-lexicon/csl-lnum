@@ -1,8 +1,8 @@
 <L>7962<pc>252<k1>examine<k2>examine
-<div n="lb"/>{@EXAMINE@}¦ (v.): {#parIkzate, saM-,#} ({#Ikz,#} c. 1.), <div n="xe">{%one%}
-<div n="lb"/>{%should e. and then form association:%}</div> <div n="xs">{#saNgataM parIkzya #}
-<div n="lb"/>{# kartavyam,#}</div> Sa.; <div n="xe">{%shall e. a sick man by look, touch%}
-<div n="lb"/>{%and question:%}</div> <div n="xs">{#darSanasparSanapraSnE rogiRaM parIkzeta,#}</div> Bha.;
-<div n="lb"/>{%shall not e. witnesses in all cases of violence:%}
-<div n="lb"/>{#sAhasesu ca sarvezu na parIkzeta sAkziRaH,#} N. s.
+{@EXAMINE@}¦ (v.): {#parIkzate, saM-,#} ({#Ikz,#} c. 1.), <div n="xe">{%one%}
+{%should e. and then form association:%}</div> <div n="xs">{#saNgataM parIkzya #}
+{# kartavyam,#}</div> Sa.; <div n="xe">{%shall e. a sick man by look, touch%}
+{%and question:%}</div> <div n="xs">{#darSanasparSanapraSnE rogiRaM parIkzeta,#}</div> Bha.;
+{%shall not e. witnesses in all cases of violence:%}
+{#sAhasesu ca sarvezu na parIkzeta sAkziRaH,#} N. s.
 <LEND>

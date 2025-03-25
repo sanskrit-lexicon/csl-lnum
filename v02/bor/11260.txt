@@ -1,4 +1,4 @@
 <L>11260<pc>354<k1>household<k2>household
-<div n="lb"/>{@HOUSEHOLD@}¦ (subs.): <div n="I">I Family: </div><div n="1">(1) {#parijanaH;#}</div>
-<div n="lb"/><div n="1">(2) {#parivAraH.#} </div><div n="I">II Family life: expr. by {#gfham.#}</div>
+{@HOUSEHOLD@}¦ (subs.): <div n="I">I Family: </div><div n="1">(1) {#parijanaH;#}</div>
+<div n="1">(2) {#parivAraH.#} </div><div n="I">II Family life: expr. by {#gfham.#}</div>
 <LEND>

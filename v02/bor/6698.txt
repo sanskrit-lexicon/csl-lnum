@@ -1,9 +1,9 @@
 <L>6698<pc>214<k1>do for<k2>do for
-<div n="lb"/>{@DO FOR:@}¦ <div n="I">I Lit.: {#karoti,#} <div n="xe">{%if you would do this%}
-<div n="lb"/>{%for me:%}</div> <div n="xs">{#yadi me BavAnidaM kuryAt,#}</div> M. b. </div><div n="I">II To do
-<div n="lb"/>good: {#priyaM karoti#} (with gen.), <div n="xe">{%what more%}
-<div n="lb"/>{%shall I do for you:%}</div> <div n="xs">{#kiM te BUyaH priyaM karomi,#}</div> Mr. [Page215]
-<div n="lb"/>x.: v. Good, to do. </div><div n="I">III To destroy: q. v.:
-<div n="lb"/>{#utsAdayati#} (c. of {#sad#}), <div n="xe">{%I am done for:%}</div> <div n="xs">{#utsAdi-#}
-<div n="lb"/>{#to'smi,#}</div> Mr. iv. To suit: q. v.</div>
+{@DO FOR:@}¦ <div n="I">I Lit.: {#karoti,#} <div n="xe">{%if you would do this%}
+{%for me:%}</div> <div n="xs">{#yadi me BavAnidaM kuryAt,#}</div> M. b. </div><div n="I">II To do
+good: {#priyaM karoti#} (with gen.), <div n="xe">{%what more%}
+{%shall I do for you:%}</div> <div n="xs">{#kiM te BUyaH priyaM karomi,#}</div> Mr. [Page215]
+x.: v. Good, to do. </div><div n="I">III To destroy: q. v.:
+{#utsAdayati#} (c. of {#sad#}), <div n="xe">{%I am done for:%}</div> <div n="xs">{#utsAdi-#}
+{#to'smi,#}</div> Mr. iv. To suit: q. v.</div>
 <LEND>

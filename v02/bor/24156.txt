@@ -1,23 +1,23 @@
 <L>24156<pc>755<k1>way<k2>way
-<div n="lb"/>{@WAY:@}¦ <div n="I">I Road: </div><div n="1">(1) {#mArgaH,#} <div n="xe">{%to give w.:%}</div> <div n="xs">{#mArgaM #}
-<div n="lb"/>{# dadAti,#}</div> Mr. x.; <div n="xe">{%to lead the w.:%}</div> <div n="xs">{#mArgamAdiSati,#}</div>
-<div n="lb"/>Sa. v.; </div><div n="1">(2) {#panTAH,#} <div n="xe">{%tell me the w. which leads to%}
-<div n="lb"/>{%the hermitage of Agastya:%}</div> <div n="xs">{#agastyASramasya panTAnaM brUhi,#}</div>
-<div n="lb"/>U. ii.; <div n="xe">{%tread in improper w. s.:%}</div> <div n="xs">{#apaTe padamarpayanti,#}</div>
-<div n="lb"/>R. ix. 74.; </div><div n="1">(3) {#aDvan#} (m.), {%going a little w.:%}
-<div n="lb"/>{#gatvA kaYcidaDvAnam,#} K.; {%accidentally in the w.:%}
-<div n="lb"/>{#aDvani dEvayogAt,#} R. v. 60.; </div><div n="1">(4) {#vartman#} (n.), <div n="xe">{%one%}
-<div n="lb"/>{%who has lost his w.:%}</div> <div n="xs">{#pranazwavartman#}</div> (mfn.), K.;
-<div n="lb"/><div n="xe">{%women go the w. of their husbands:%}</div> <div n="xs">{#pramadAH pati-#}</div> [Page756]
-<div n="lb"/>{#vartmagAH,#} Ku. iv. 33. Ph.: <div n="xe">{%I have come such a%}
-<div n="lb"/>{%long w.:%}</div> <div n="xs">{#etAvatIM BUmiBAyAtaH,#}</div> K.; <div n="xe">{%this w. your%}
-<div n="lb"/>{%majesty:%}</div> <div n="xs">{#ito ito devI,#}</div> V. ii.; {%did you not see%}
-<div n="lb"/>({%meet%}) <div n="xe">{%the Queen on the w.:%}</div> <div n="xs">{#na Kalvantare tvayA #}
-<div n="lb"/>{# dfzwA devI,#}</div> Sa. vi.; <div n="xe">{%make w.:%}</div> <div n="xs">{#antaramantaram,#}</div> Mr.
-<div n="lb"/>x.; <div n="xe">{%which w. is the wretch gone:%}</div> <div n="xs">{#katamena digvi-#}
-<div n="lb"/>{#BAgena gataH sa jAlmaH ?#}</div> V. i.; <div n="xe">{%right of w.:%}</div> <div n="xs">{#gamanADi-#}
-<div n="lb"/>{#kAraH.#}</div> </div><div n="I">II Device: q. v.: {#upAyaH.#} </div><div n="I">III Manner,
-<div n="lb"/>method: q. v.: {#prakAraH.#} Miscell.: <div n="xe">{%in two,%}
-<div n="lb"/>{%three, many w. s:%}</div> <div n="xs">{#dviDA, triDA, bahuDA;#}</div> <div n="xe">{%by w. of%}
-<div n="lb"/>{%illustration:%}</div> <div n="xs">{#nidarSanarUpeRa.#}</div></div>
+{@WAY:@}¦ <div n="I">I Road: </div><div n="1">(1) {#mArgaH,#} <div n="xe">{%to give w.:%}</div> <div n="xs">{#mArgaM #}
+{# dadAti,#}</div> Mr. x.; <div n="xe">{%to lead the w.:%}</div> <div n="xs">{#mArgamAdiSati,#}</div>
+Sa. v.; </div><div n="1">(2) {#panTAH,#} <div n="xe">{%tell me the w. which leads to%}
+{%the hermitage of Agastya:%}</div> <div n="xs">{#agastyASramasya panTAnaM brUhi,#}</div>
+U. ii.; <div n="xe">{%tread in improper w. s.:%}</div> <div n="xs">{#apaTe padamarpayanti,#}</div>
+R. ix. 74.; </div><div n="1">(3) {#aDvan#} (m.), {%going a little w.:%}
+{#gatvA kaYcidaDvAnam,#} K.; {%accidentally in the w.:%}
+{#aDvani dEvayogAt,#} R. v. 60.; </div><div n="1">(4) {#vartman#} (n.), <div n="xe">{%one%}
+{%who has lost his w.:%}</div> <div n="xs">{#pranazwavartman#}</div> (mfn.), K.;
+<div n="xe">{%women go the w. of their husbands:%}</div> <div n="xs">{#pramadAH pati-#}</div> [Page756]
+{#vartmagAH,#} Ku. iv. 33. Ph.: <div n="xe">{%I have come such a%}
+{%long w.:%}</div> <div n="xs">{#etAvatIM BUmiBAyAtaH,#}</div> K.; <div n="xe">{%this w. your%}
+{%majesty:%}</div> <div n="xs">{#ito ito devI,#}</div> V. ii.; {%did you not see%}
+({%meet%}) <div n="xe">{%the Queen on the w.:%}</div> <div n="xs">{#na Kalvantare tvayA #}
+{# dfzwA devI,#}</div> Sa. vi.; <div n="xe">{%make w.:%}</div> <div n="xs">{#antaramantaram,#}</div> Mr.
+x.; <div n="xe">{%which w. is the wretch gone:%}</div> <div n="xs">{#katamena digvi-#}
+{#BAgena gataH sa jAlmaH ?#}</div> V. i.; <div n="xe">{%right of w.:%}</div> <div n="xs">{#gamanADi-#}
+{#kAraH.#}</div> </div><div n="I">II Device: q. v.: {#upAyaH.#} </div><div n="I">III Manner,
+method: q. v.: {#prakAraH.#} Miscell.: <div n="xe">{%in two,%}
+{%three, many w. s:%}</div> <div n="xs">{#dviDA, triDA, bahuDA;#}</div> <div n="xe">{%by w. of%}
+{%illustration:%}</div> <div n="xs">{#nidarSanarUpeRa.#}</div></div>
 <LEND>

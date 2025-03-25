@@ -1,47 +1,45 @@
-<L>98955<pc>6037-2<k1>varz<k2>varz<h>1<e>500
-1. {#varz#}¦ , {#va/rzati#} , {#°te#} (in der späteren Sprache nur metrisch)
-<div n="1">— 1) {%regnen , in reichem Maasse ausschütten%} ; das Subject ist , wenn das Verbum nicht unpersönlich gedacht wird , der Regen,<is>Parjanya</is> , <is>Indra</is> , der Gott , der Himmel , die Wolken u.s.w. {#va/rzati#} {%während es regnet , bei Regen.%} Das Herabfallende im <ab>Instr.</ab> oder <ab>Acc.</ab>
-<div n="1">— 2) {%beregnen , überschütten mit%} (<ab>Instr.</ab>).
-<div n="1">— 3) <ab>Med.</ab> {%sich ausschütten%} , so v.a. {%verschwenderisch austheilen%} <ls>ṚV.6,26,1.</ls>
-<div n="1">— 4) {#vfzwa#} mit act. (auch {#vfzwavant) , #} neutr. und pass. {%(als Regen niedergefallen%}) Bedeutung. {#vfzwe#} {%wenn es geregnet hat.%}
-<div n="1">— 5) nach dem <ls>DHĀTUP.</ls> auch {#hiMsAkleSanayoH#} und {#prajanESye#}.
+<L>98955<pc>6-037-b<k1>varz<k2>varz<h>1
+<hom>1.</hom> √{#varz#}¦, {#va/rzati#}, {#°te#} (in der späteren Sprache nur metrisch)
+<div n="1">— 1〉 {%regnen, in reichem Maasse ausschütten;%} das Subject ist, wenn das Verbum nicht unpersönlich gedacht wird, der Regen <is>Parjanya</is>, <is>Indra</is>, der Gott, der Himmel, die Wolken <ab>u. s. w.</ab> {#va/rzati#} {%während es regnet, bei Regen%}. Das Herabfallende im <ab>Instr.</ab> oder <ab>Acc.</ab>
+<div n="1">— 2〉 {%beregnen, überschütten mit%} (<ab>Instr.</ab>).
+<div n="1">— 3〉 <ab>Med.</ab> {%sich ausschütten,%} so <ab>v. a.</ab> {%verschwenderisch austheilen%} <ls>ṚV. 6,26,1</ls>.
+<div n="1">— 4〉 {#vfzwa#} mit <ab>act.</ab> (auch {#vfzwavant#}), <ab>neutr.</ab> und <ab>pass.</ab> ({%als Regen niedergefallen%}) Bedeutung. {#vfzwe#} {%wenn es geregnet hat%}.
+<div n="1">— 5〉 nach dem <ls>DHĀTUP.</ls> auch {#hiMsAkleSanayoH#} und {#prajanESye#}.
 <div n="m">— <ab>Caus.</ab>
-<div n="1">— 1) {#varzayati#}
-<div n="2">— a) {%regnen lassen%} (Regen , den <is>Parjanya</is> , den <is>Indra</is> , den Himmel oder ohne Object).
-<div n="2">— b) {%Etwas als Regen herabfallen lassen.%} {#varzita#} {%als Regen herabgefallen.%}
-<div n="2">— c) {%beregnen , — mit%} (<ab>Instr.</ab>).
-<div n="1">— 2) {#*varzayate#} ( {#SaktibanDane#} , {#prajanESye#} ).
-<div n="p">— Mit {#ati#} {%in Menge regnen%} (vom Gott). {#ativfzwa#} in act. (<ls>MBH.7,178,30</ls>) und pass. {%(als Regen herabgefallen%}) Bed.
+<div n="1">— 1〉 {#varzayati#}
+<div n="2">— a〉 {%regnen lassen%} (Regen, den <is>Parjanya</is>, den <is>Indra</is>, den Himmel oder ohne Object).
+<div n="2">— b〉 {%Etwas als Regen herabfallen lassen%}. {#varzita#} {%als Regen herabgefallen%}.
+<div n="2">— c〉 {%beregnen, — mit%} (<ab>Instr.</ab>).
+<div n="1">— 2〉 *{#varzayate#} ({#SaktibanDane#}, {#prajanESye#}).
+<div n="p">— Mit {#ati#} {%in Menge regnen%} (vom Gott). {#ativfzwa#} in <ab>act.</ab> (<ls>MBH. 7,178,30</ls>) und <ab>pass.</ab> ({%als Regen herabgefallen%}) <ab>Bed.</ab>
 <div n="p">— Mit {#anu#} {%hinregnen über%} (<ab>Acc.</ab>).
 <div n="p">— Mit {#aBi#}
-<div n="1">— 1) {%beregnen , überschütten mit%} (<ab>Instr.</ab>).
-<div n="1">— 2) {%regen , in reichem Maasse ausschütten%} ; mit <ab>Instr.</ab> oder <ab>Acc.</ab> des Herabfallenden.
-<div n="1">— 3) {#aBi/vfzwa#}
-<div n="2">— a) {%beregnet%} (15 , 25) , {%worauf Regen gefallen ist , überschüttet mit%} (<ab>Instr.</ab>).
-<div n="2">— b) {%geregnet — , Regen herabgesandt habend.%}
-<div n="2">— c) {%als Regen herabgefallen.%}
-<div n="2">— d) <lex>n.</lex> impers. {%geregnet habend.%}
-<div n="m">— <ab>Caus.</ab> {%beregnen , überschütten mit%} (<ab>Instr.</ab>).
-<div n="p">— Mit {#samaBi#} {%beregnen.%}
+<div n="1">— 1〉 {%beregnen, überschütten mit%} (<ab>Instr.</ab>).
+<div n="1">— 2〉 {%regen, in reichem Maasse ausschütten;%} mit <ab>Instr.</ab> oder <ab>Acc.</ab> des Herabfallenden.
+<div n="1">— 3〉 {#aBi/vfzwa#}
+<div n="2">— a〉 {%beregnet%} (<ls n="Chr.">15,25</ls>), {%worauf Regen gefallen ist, überschüttet mit%} (<ab>Instr.</ab>).
+<div n="2">— b〉 {%geregnet —, Regen herabgesandt habend%}.
+<div n="2">— c〉 {%als Regen herabgefallen%}.
+<div n="2">— d〉 <lex>n.</lex> <ab>impers.</ab> {%geregnet habend%}.
+<div n="m">— <ab>Caus.</ab> {%beregnen, überschütten mit%} (<ab>Instr.</ab>).
+<div n="p">— Mit {#samaBi#} {%beregnen%}.
 <div n="p">— Mit {#ava#} <ab>dass.</ab>
 <div n="p">— Mit {#A#}
-<div n="1">— 1) {%beregnen , überschütten mit%} (<ab>Instr.</ab>).
-<div n="1">— 2) <ab>Med.</ab> {%sich%} ein Getränk (<ab>Acc.</ab> oder <ab>Gen.</ab> , aber auch ohne Obj.) {%einschütten.%}
-<div n="p">— Mit {#ud#} <ab>Med.</ab> {%sich ausschütten%} , so. v.a. {%verschwenderisch austheilen.%}
-<div n="p">— Mit {#nis#} , {#nirvfzwa#} {%ausgeregnet — , zu regnen aufgehört habend%} <ls>VĀMANA.43,10.</ls> <ls>KĀD.31,19.</ls>
-<div n="p">— Mit {#pari#} {%beregnen , beschütten mit%} (<ab>Instr.</ab>).
+<div n="1">— 1〉 {%beregnen, überschütten mit%} (<ab>Instr.</ab>).
+<div n="1">— 2〉 <ab>Med.</ab> {%sich%} ein Getränk (<ab>Acc.</ab> oder <ab>Gen.</ab>, aber auch ohne <ab>Obj.</ab>) {%einschütten%}.
+<div n="p">— Mit {#ud#} <ab>Med.</ab> {%sich ausschütten,%} so <ab>v. a.</ab> {%verschwenderisch austheilen%}.
+<div n="p">— Mit {#nis#}, {#nirvfzwa#} {%ausgeregnet —, zu regnen aufgehört habend%} <ls>VĀMANA 43,10</ls>. <ls>KĀD. 31,19</ls>.
+<div n="p">— Mit {#pari#} {%beregnen, beschütten mit%} (<ab>Instr.</ab>).
 <div n="p">— Mit {#pra#}
-<div n="1">— 1) {%zu regnen anfangen , regnen , in reichem Maasse ausschütten%} ; mit <ab>Instr.</ab> oder des Herabfallenden.
-<div n="1">— 2) {%beregnen , überschütten mit%} (<ab>Instr.</ab>)
-<div n="1">— 3) {#pravfzwa#} {%zu regnen — , zu schütten angefangen habend%} ; mit <ab>Instr.</ab> oder <ab>Acc.</ab> des Herabfallenden. {#pravfzwe#} {%wenn es regnet.%}
-<div n="m">— <ab>Caus.</ab> {%regnen machen.%}
+<div n="1">— 1〉 {%zu regnen anfangen, regnen, in reichem Maasse ausschütten;%} mit <ab>Instr.</ab> oder des Herabfallenden.
+<div n="1">— 2〉 {%beregnen, überschütten mit%} (<ab>Instr.</ab>)
+<div n="1">— 3〉 {#pravfzwa#} {%zu regnen —, zu schütten angefangen habend;%} mit <ab>Instr.</ab> oder <ab>Acc.</ab> des Herabfallenden. {#pravfzwe#} {%wenn es regnet%}.
+<div n="m">— <ab>Caus.</ab> {%regnen machen%}.
 <div n="p">— Mit {#aBipra#}
-<div n="1">— 1) {%beregnen.%}
-<div n="1">— 2) {%regnen.%}
-<div n="p">— Mit {#saMpra#} , {#°vfzwa#} (s. auch bes.) {%zu regnen angefangen habend%} (<is>Indra</is>) {%mit%} (<ab>Instr.</ab>).
-<div n="p">— Mit {#prati#} {%beregnen , überschütten%}
-[Page6037-3]
-{%mit%} (<ab>Instr.</ab>).
-<div n="p">— Mit {#vi#} <ab>Caus.</ab> <ab>dass.</ab> <ls>MBH.8,20,32.</ls>
-<div n="p">— Mit {#sam#} {%beregnen.%}
+<div n="1">— 1〉 {%beregnen%}.
+<div n="1">— 2〉 {%regnen%}.
+<div n="p">— Mit {#saMpra#}, {#°vfzwa#} (<ab>s.</ab> auch <ab>bes.</ab>) {%zu regnen angefangen habend%} (<is>Indra</is>) {%mit%} (<ab>Instr.</ab>).
+<div n="p">— Mit {#prati#} {%beregnen, überschütten [Page6-037-c] mit%} (<ab>Instr.</ab>).
+<div n="p">— Mit {#vi#} <ab>Caus.</ab> <ab>dass.</ab> <ls>MBH. 8,20,32</ls>.
+<div n="p">— Mit {#sam#} {%beregnen%}.
 <LEND>

@@ -1,6 +1,6 @@
-<L>1252<pc>0140<k1>aSrIra<k2>a/-SrIra/
-{@á-śrīrá,@}¦ a., {%hässlich.%}
-<div n="P1">-ás {622,20} jā́mātā.
-<div n="P1">-ám {469,6}, Gegensatz suprátīkam.
-<div n="P1">-ā́ [<ab>f.</ab>] tanū́s {911,30}.
+<L>1252<pc>0140<k1>aSrIra<k2>a-SrIra/
+<chg type="chg" n="44" src="gra"><old>{@á-śrīrá,@}</old><new>{@a-śrīrá,@}</new></chg>¦ <ab>a.</ab>, {%hässlich%}.
+<div n="TS">-ás {622,20} jā́mātā.
+<div n="TS">-ám {469,6}, Gegensatz suprátīkam.
+<div n="TS">-ā́ [<ab>f.</ab>] tanū́s {911,30}.
 <LEND>

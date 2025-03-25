@@ -1,14 +1,14 @@
 <L>20315<pc>634<k1>share<k2>share
-<div n="lb"/>{@SHARE@}¦ (subs.): <div n="I">I In gen.: {#aMSaH,#} <div n="xe">{%he gets two%}
-<div n="lb"/>{%s. s, the rest one each:%}</div> <div n="xs">{#tasya dvAvaMSO SezARAmekEkaH,#}</div>
-<div n="lb"/>Viv.; <div n="xe">{%they are entitled to a third s.:%}</div> <div n="xs">{#te tftIyAMSa-#}
-<div n="lb"/>{#BAginaH,#}</div> Viv.; {%eunuchs and outcastes have no s.:%}
-<div n="lb"/>{#anaMSO klIvapatitO,#} M. ix. 201.; {#“samo nyUno'Diko #}
-<div n="lb"/>{# vAMSo yena kziptastaTEva saH . vyayaM dadyAt karma kuryAllABaM #}
-<div n="lb"/>{# gfhnIta cEva hi”,#} Vri.; </div><div n="1">(2) {#BAgaH,#} <div n="xe">{%apportionment%}
-<div n="lb"/>{%of s. s:%}</div> <div n="xs">{#BAgakalpanA,#}</div> Viv.; <div n="xe">{%two s. s are to be%}
-<div n="lb"/>{%given him, the rest s. equally:%}</div> <div n="xs">{#tasya BAgadvayaM SezAstu #}
-<div n="lb"/>{# samaBAginaH,#}</div> Viv. Ph.: <div n="xe">{%to go s. s:%}</div> <div n="xs">{#aMSin#}</div> (f. {#nI#})
-<div n="lb"/>{#Bavati:#} v. Sharer. </div><div n="I">II Of a plough: {#PAlaH:#}
-<div n="lb"/>v. Ploughshare.</div>
+{@SHARE@}¦ (subs.): <div n="I">I In gen.: {#aMSaH,#} <div n="xe">{%he gets two%}
+{%s. s, the rest one each:%}</div> <div n="xs">{#tasya dvAvaMSO SezARAmekEkaH,#}</div>
+Viv.; <div n="xe">{%they are entitled to a third s.:%}</div> <div n="xs">{#te tftIyAMSa-#}
+{#BAginaH,#}</div> Viv.; {%eunuchs and outcastes have no s.:%}
+{#anaMSO klIvapatitO,#} M. ix. 201.; {#“samo nyUno'Diko #}
+{# vAMSo yena kziptastaTEva saH . vyayaM dadyAt karma kuryAllABaM #}
+{# gfhnIta cEva hi”,#} Vri.; </div><div n="1">(2) {#BAgaH,#} <div n="xe">{%apportionment%}
+{%of s. s:%}</div> <div n="xs">{#BAgakalpanA,#}</div> Viv.; <div n="xe">{%two s. s are to be%}
+{%given him, the rest s. equally:%}</div> <div n="xs">{#tasya BAgadvayaM SezAstu #}
+{# samaBAginaH,#}</div> Viv. Ph.: <div n="xe">{%to go s. s:%}</div> <div n="xs">{#aMSin#}</div> (f. {#nI#})
+{#Bavati:#} v. Sharer. </div><div n="I">II Of a plough: {#PAlaH:#}
+v. Ploughshare.</div>
 <LEND>

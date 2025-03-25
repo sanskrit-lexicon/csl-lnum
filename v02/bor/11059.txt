@@ -1,6 +1,6 @@
 <L>11059<pc>347<k1>hobby<k2>hobby
-<div n="lb"/>{@HOBBY, -HORSE:@}¦ <div n="I">I Lit.: {#GowakaviSezaH.#} </div><div n="I">II A
-<div n="lb"/>play-horse: {#krIqAGowakaH.#} </div><div n="I">III A favourite
-<div n="lb"/>theme: {#cirakAmyam#} (?), <div n="xe">{%to ride one's h.:%}</div> <div n="xs">{#*cirakAmyaM #}
-<div n="lb"/>{# kIrtayati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#stOti.#}</div></div>
+{@HOBBY, -HORSE:@}¦ <div n="I">I Lit.: {#GowakaviSezaH.#} </div><div n="I">II A
+play-horse: {#krIqAGowakaH.#} </div><div n="I">III A favourite
+theme: {#cirakAmyam#} (?), <div n="xe">{%to ride one's h.:%}</div> <div n="xs">{#*cirakAmyaM #}
+{# kIrtayati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#stOti.#}</div></div>
 <LEND>

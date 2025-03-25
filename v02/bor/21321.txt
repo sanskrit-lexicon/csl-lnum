@@ -1,5 +1,5 @@
 <L>21321<pc>671<k1>stagnation<k2>stagnation
-<div n="lb"/>{@STAGNATION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#sTEryam, sTiratA, sTira-#}
-<div n="lb"/>{#tvam;#} </div><div n="1">(2) {#niScalatA.#} </div><div n="I">II Fig.: </div><div n="1">(1) {#mAndyam;#}</div>
-<div n="lb"/><div n="1">(2) {#SlaTatA;#} </div><div n="1">(3) {#SiTilatA.#}</div>
+{@STAGNATION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#sTEryam, sTiratA, sTira-#}
+{#tvam;#} </div><div n="1">(2) {#niScalatA.#} </div><div n="I">II Fig.: </div><div n="1">(1) {#mAndyam;#}</div>
+<div n="1">(2) {#SlaTatA;#} </div><div n="1">(3) {#SiTilatA.#}</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>134857<pc>680,3<k1>pradru<k2>pra-dru<e>1
-<s>pra-√ dru</s> ¦ <ab>P.</ab> <s>-dravati</s> (<ab>ep.</ab> also <ab>Ā.</ab> <s>°te</s>), to run forwards, run away, flee, <ls>RV.</ls> &c. &c.;
+<s>pra-√ dru</s> ¦ <ab>P.</ab> <s>-dravati</s> (<lang>ep.</lang> also <ab>Ā.</ab> <s>°te</s>), to run forwards, run away, flee, <ls>RV.</ls> &c. &c.;
 <div n="to"/>to hasten towards, rush upon or against (<ab>acc.</ab>), <ls>MBh.</ls>; <ls>R.</ls>;
 <div n="to"/>to escape safely to (<ab>acc.</ab>), <ls>MBh.</ls> (<ab>v.l.</ab> <s>prA<srs/>d°</s>) :
-<div n="to"/><ab>Caus.</ab> <s>-drAvayati</s>, to cause to run away, put to flight, <ls>MBh.</ls><info verb="pre" cp="PĀ" parse="pra+dru"/>
+<div n="vp"/><ab>Caus.</ab> <s>-drAvayati</s>, to cause to run away, put to flight, <ls>MBh.</ls><info verb="pre" cp="PĀ" parse="pra+dru"/>
 <LEND>

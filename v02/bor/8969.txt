@@ -1,9 +1,9 @@
 <L>8969<pc>284<k1>flight<k2>flight
-<div n="lb"/>{@FLIGHT@}¦ (subs.): <div n="I">I Fleeing: {#palAyanam,#} {%taken to f.:%}
-<div n="lb"/>{#palAyanaparAyaRa#} (f. {#RA#}). <div n="xe">{%To put to f.:%}</div> <div n="xs">{#vidrAvayati#}</div> (c.
-<div n="lb"/>of {#dru#}). </div><div n="I">II Of birds: </div><div n="1">(1) {#qayanam,#} {%upward f.:%}
-<div n="lb"/>{#uqqayanam;#} </div><div n="1">(2) {#gatiH#} (= motion), {%of “lazy f.”:%}
-<div n="lb"/>{#mandagatiH,#} H. </div><div n="I">III Fig., soaring, wandering:
-<div n="lb"/>{#UrDvagatiH#} (?). </div><div n="I">IV A flock: q.v. </div><div n="I">V Of
-<div n="lb"/>stairs: {#niHSreRi, -RI,#} R.</div>
+{@FLIGHT@}¦ (subs.): <div n="I">I Fleeing: {#palAyanam,#} {%taken to f.:%}
+{#palAyanaparAyaRa#} (f. {#RA#}). <div n="xe">{%To put to f.:%}</div> <div n="xs">{#vidrAvayati#}</div> (c.
+of {#dru#}). </div><div n="I">II Of birds: </div><div n="1">(1) {#qayanam,#} {%upward f.:%}
+{#uqqayanam;#} </div><div n="1">(2) {#gatiH#} (= motion), {%of “lazy f.”:%}
+{#mandagatiH,#} H. </div><div n="I">III Fig., soaring, wandering:
+{#UrDvagatiH#} (?). </div><div n="I">IV A flock: q.v. </div><div n="I">V Of
+stairs: {#niHSreRi, -RI,#} R.</div>
 <LEND>

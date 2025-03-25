@@ -1,29 +1,29 @@
 <L>9898<pc>312<k1>give<k2>give
-<div n="lb"/>{@GIVE@}¦ (v.t.): <div n="I">I To bestow: </div><div n="1">(1) {#dadAti, datte#} {%or%}
-<div n="lb"/>{#yacCati, pra-, sampra-, saM-,#} ({#dA,#} c. 3. and 1), <div n="xe">{%the king%}
-<div n="lb"/>{%g.s him his daughter and lieutenancy:%}</div> <div n="xs">{#tasmE rAjA #}
-<div n="lb"/>{# dadAti tanayAM ca yOvarAjyaM ca,#}</div> K.s. xxiv. 53.; <div n="xe">{%to g.%}
-<div n="lb"/>{%knowledge:%}</div> <div n="xs">{#vidyAM dAtum,#}</div> Ki. iii. 23.; </div><div n="1">(2) {#vitarati#}
-<div n="lb"/>({#tF,#} c. 1.) (= to g. freely), {%I will g. you eyes:%}
-<div n="lb"/>{#cakzuste vitarAmyaham,#} Mah.; </div><div n="1">(3) {#vi-sarjayati, ati-#}
-<div n="lb"/>({#sfj,#} c. 10.) (= to g. lavishly), <div n="xe">{%for taking is%}
-<div n="lb"/>{%to g.:%}</div> <div n="xs">{#AdAnaM hi visargAya,#}</div> R. iv. 86.; </div><div n="1">(4) {#prati-#}
-<div n="lb"/>{#pAdayati#} (c. of {#pad#}) (rare) (= to make over),
-<div n="lb"/><div n="xe">{%g. ing of things with faith:%}</div> <div n="xs">{#arTAnAM SradDayA pratipAdanam,#}</div>
-<div n="lb"/>H.s.; </div><div n="1">(5) {#sparSayati#} (c. of {#spfS#}) (rare) (= to
-<div n="lb"/>cause to reach), <div n="xe">{%g. ing millions of kine:%}</div> <div n="xs">{#gAH #}
-<div n="lb"/>{# kowiSaH sparSayata,#}</div> R. iii. 49. </div><div n="I">II To deliver: [Page313]</div>
-<div n="lb"/><div n="1">(1) {#dadAti#} {%there are six ways of g. ing and taking:%}
-<div n="lb"/>{#zaqviDo dAnAdAnaviDiH,#} N.s.; </div><div n="1">(2) {#arpayati, sam-,#}
-<div n="lb"/>{%gave%} ({%the child%}) <div n="xe">{%to the queen to bring up:%}</div> <div n="xs">{#devyE #}
-<div n="lb"/>{# varDayeti samarpitavAn,#}</div> D. </div><div n="I">III To produce: {#jAyate #}
-<div n="lb"/>{# saM-,#} ({#jan,#} c. 4.), {%striking off twenty, it g.s interest:%}
-<div n="lb"/>..... {#viMSatyApavartya jAtaM kalAntaram,#} Li. </div><div n="I">IV To
-<div n="lb"/>admit: q.v.: {#parigfhvAti#} ({#grah,#} c. 9.). V. To
-<div n="lb"/>devote: q.v.: {#AtmAnaM dadAti#} <div n="xe">{%or%}</div> <div n="xs">{#samarpayati,#}</div>
-<div n="lb"/>Miscel., <div n="xe">{%to g. ear:%}</div> <div n="xs">{#karRaM dadAti,#}</div> Sa. i.; {%to g. advice:%}
-<div n="lb"/>{#upadeSaM dadAti,#} P.; {%to g. way%} (in the street, etc.):
-<div n="lb"/>{#vartma dadAti,#} Ki. xiv. 14. <div n="xe">{%or%}</div> <div n="xs">{#antaraM dadAti,#}</div> Mr.
-<div n="lb"/>x.; <div n="xe">{%to g. order:%}</div> <div n="xs">{#AjYAM dadAti,#}</div> V.p.; {%to give time:%}
-<div n="lb"/>{#kAlaM dadAti,#} Mat.; <div n="xe">{%to g. thanks:%}</div> <div n="xs">{#DanyavAdaM karoti#}</div> (?),</div>
+{@GIVE@}¦ (v.t.): <div n="I">I To bestow: </div><div n="1">(1) {#dadAti, datte#} {%or%}
+{#yacCati, pra-, sampra-, saM-,#} ({#dA,#} c. 3. and 1), <div n="xe">{%the king%}
+{%g.s him his daughter and lieutenancy:%}</div> <div n="xs">{#tasmE rAjA #}
+{# dadAti tanayAM ca yOvarAjyaM ca,#}</div> K.s. xxiv. 53.; <div n="xe">{%to g.%}
+{%knowledge:%}</div> <div n="xs">{#vidyAM dAtum,#}</div> Ki. iii. 23.; </div><div n="1">(2) {#vitarati#}
+({#tF,#} c. 1.) (= to g. freely), {%I will g. you eyes:%}
+{#cakzuste vitarAmyaham,#} Mah.; </div><div n="1">(3) {#vi-sarjayati, ati-#}
+({#sfj,#} c. 10.) (= to g. lavishly), <div n="xe">{%for taking is%}
+{%to g.:%}</div> <div n="xs">{#AdAnaM hi visargAya,#}</div> R. iv. 86.; </div><div n="1">(4) {#prati-#}
+{#pAdayati#} (c. of {#pad#}) (rare) (= to make over),
+<div n="xe">{%g. ing of things with faith:%}</div> <div n="xs">{#arTAnAM SradDayA pratipAdanam,#}</div>
+H.s.; </div><div n="1">(5) {#sparSayati#} (c. of {#spfS#}) (rare) (= to
+cause to reach), <div n="xe">{%g. ing millions of kine:%}</div> <div n="xs">{#gAH #}
+{# kowiSaH sparSayata,#}</div> R. iii. 49. </div><div n="I">II To deliver: [Page313]</div>
+<div n="1">(1) {#dadAti#} {%there are six ways of g. ing and taking:%}
+{#zaqviDo dAnAdAnaviDiH,#} N.s.; </div><div n="1">(2) {#arpayati, sam-,#}
+{%gave%} ({%the child%}) <div n="xe">{%to the queen to bring up:%}</div> <div n="xs">{#devyE #}
+{# varDayeti samarpitavAn,#}</div> D. </div><div n="I">III To produce: {#jAyate #}
+{# saM-,#} ({#jan,#} c. 4.), {%striking off twenty, it g.s interest:%}
+..... {#viMSatyApavartya jAtaM kalAntaram,#} Li. </div><div n="I">IV To
+admit: q.v.: {#parigfhvAti#} ({#grah,#} c. 9.). V. To
+devote: q.v.: {#AtmAnaM dadAti#} <div n="xe">{%or%}</div> <div n="xs">{#samarpayati,#}</div>
+Miscel., <div n="xe">{%to g. ear:%}</div> <div n="xs">{#karRaM dadAti,#}</div> Sa. i.; {%to g. advice:%}
+{#upadeSaM dadAti,#} P.; {%to g. way%} (in the street, etc.):
+{#vartma dadAti,#} Ki. xiv. 14. <div n="xe">{%or%}</div> <div n="xs">{#antaraM dadAti,#}</div> Mr.
+x.; <div n="xe">{%to g. order:%}</div> <div n="xs">{#AjYAM dadAti,#}</div> V.p.; {%to give time:%}
+{#kAlaM dadAti,#} Mat.; <div n="xe">{%to g. thanks:%}</div> <div n="xs">{#DanyavAdaM karoti#}</div> (?),</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>23364<pc>734<k1>uninjured<k2>uninjured
-<div n="lb"/>{@UNINJURED:@}¦ <div n="1">(1) {#akzata#} (f. {#tA#}): v. Unhurt;</div>
-<div n="lb"/><div n="1">(2) {#avikala#} (f. {#lA#}); </div><div n="1">(3) {#avraRa#} (f. {#RA#}).</div>
+{@UNINJURED:@}¦ <div n="1">(1) {#akzata#} (f. {#tA#}): v. Unhurt;</div>
+<div n="1">(2) {#avikala#} (f. {#lA#}); </div><div n="1">(3) {#avraRa#} (f. {#RA#}).</div>
 <LEND>

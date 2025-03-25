@@ -1,11 +1,11 @@
 <L>1576<pc>053<k1>censure<k2>censure
 {@Censure,@}¦ {%v. t.%} {#niMd#} 1 P, {#upA#}
-<div n="lb"/>{#laB#} 1 A, {#nirBarts#} 10 A, {#garh#} 1, 10 A,
-<div n="lb"/>{#pari-apa-vad#} 1 U, {#Dikkf#} 8 U,
-<div n="lb"/>{#tiraskf, duz#} c. ({#dUzayati#}), {#A-aDi-kzip#}
-<div n="lb"/>6 P; {#kuts#} 10. {%-s.%} {#niMdA, upAlaMBaH, nirBa-#}
-<div n="lb"/>{#-rtsanA, garhaRaM, nirvAdaH, vAcyatA, vacanIyatA,#}
-<div n="lb"/>{#apa-parI-vAdaH, AkzepaH#}. {@-able,@} {%a.%} {#niMdya,#}
-<div n="lb"/>{#upAlaBya, garhaRIya, vAcya,#} &c. {@-er,@} {%s.%} {#niM-#}
-<div n="lb"/>{#-dakaH, upAlaMBakaH, apa-pari-vAdakaH, AkzepakaH#}.
+{#laB#} 1 A, {#nirBarts#} 10 A, {#garh#} 1, 10 A,
+{#pari-apa-vad#} 1 U, {#Dikkf#} 8 U,
+{#tiraskf, duz#} c. ({#dUzayati#}), {#A-aDi-kzip#}
+6 P; {#kuts#} 10. {%-s.%} {#niMdA, upAlaMBaH, nirBa-#}
+{#-rtsanA, garhaRaM, nirvAdaH, vAcyatA, vacanIyatA,#}
+{#apa-parI-vAdaH, AkzepaH#}. {@-able,@} {%a.%} {#niMdya,#}
+{#upAlaBya, garhaRIya, vAcya,#} &c. {@-er,@} {%s.%} {#niM-#}
+{#-dakaH, upAlaMBakaH, apa-pari-vAdakaH, AkzepakaH#}.
 <LEND>

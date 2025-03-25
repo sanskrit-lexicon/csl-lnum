@@ -1,3 +1,3 @@
-<L>2060<pc>10,1<k1>ajani<k2>ajani<h>b<e>2
-<s>ajani</s> <hom>b</hom> ¦ <lex>f.</lex> a path, road, <ls>Nir.</ls><info lex="f"/>
+<L>2060<pc>10,1<k1>ajani<k2>ajani<e>2
+<s>ajani</s> ¦ <lex>f.</lex> a path, road, <ls>Nir.</ls><info lex="f"/><info hui="b"/>
 <LEND>

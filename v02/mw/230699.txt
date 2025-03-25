@@ -1,3 +1,3 @@
-<L>230699<pc>1139,2<k1>sadaSaraTa<k2>sa—daSa-raTa<h>b<e>3
-<s>sa—daSa-raTa</s> <hom>b</hom> ¦ <lex>mf(<s>A</s>)n.</lex> having <s1 slp1="daSa-raTa">Daśa-ratha</s1> (<ab>q.v.</ab>), <ls>R.</ls><info lex="m:f#A:n"/>
+<L>230699<pc>1139,2<k1>sadaSaraTa<k2>sa—daSa-raTa<e>3
+<s>sa—daSa-raTa</s> ¦ <lex>mf(<s>A</s>)n.</lex> having <s1>Daśa-ratha</s1> (<ab>q.v.</ab>), <ls>R.</ls><info lex="m:f#A:n"/><info hui="b"/>
 <LEND>

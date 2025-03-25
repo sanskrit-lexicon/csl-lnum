@@ -1,5 +1,5 @@
 <L>29394<pc>800-b<k1>thickness<k2>thickness
-<div n="lb"/>THICKNESS¦, {%s.%} {#GanatA -tvaM, sTUlatA, sTOlyaM, sAndratA, nEviqyaM, SyAnatA,#}
-<div n="lb"/>{#pIvaratvaM, saMhatatvaM,#} {%see%} DENSITY. ‘Thickness,’ as a property
-<div n="lb"/>of matter, is expressed by {#piRqatvaM#}.
+THICKNESS¦, {%s.%} {#GanatA -tvaM, sTUlatA, sTOlyaM, sAndratA, nEviqyaM, SyAnatA,#}
+{#pIvaratvaM, saMhatatvaM,#} {%see%} DENSITY. ‘Thickness,’ as a property
+of matter, is expressed by {#piRqatvaM#}.
 <LEND>

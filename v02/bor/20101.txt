@@ -1,8 +1,8 @@
 <L>20101<pc>626<k1>segment<k2>segment
-<div n="lb"/>{@SEGMENT:@}¦ <div n="1">(1) {#DanuHkzetram#} <div n="xe">{%or%}</div> <div n="xs">{#cApakzetram,#}</div> K. d. (of a
-<div n="lb"/>circle); </div><div n="1">(2) {#KaRqam#} (in gen.) N. B. S. s of the
-<div n="lb"/>base of a triangle made by the perpendi-
-<div n="lb"/>-cular from the opposite angle: {#AbADe#} {%or%}
-<div n="lb"/>{#avabADe,#} Li. 137., in an obtuse a. ed t. {#fRAbADe,#}
-<div n="lb"/>Li. 140.</div>
+{@SEGMENT:@}¦ <div n="1">(1) {#DanuHkzetram#} <div n="xe">{%or%}</div> <div n="xs">{#cApakzetram,#}</div> K. d. (of a
+circle); </div><div n="1">(2) {#KaRqam#} (in gen.) N. B. S. s of the
+base of a triangle made by the perpendi-
+-cular from the opposite angle: {#AbADe#} {%or%}
+{#avabADe,#} Li. 137., in an obtuse a. ed t. {#fRAbADe,#}
+Li. 140.</div>
 <LEND>

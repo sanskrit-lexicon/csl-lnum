@@ -1,12 +1,12 @@
 <L>9982<pc>452<k1>style<k2>style
 {@Style,@}¦ {%s.%} {#rIti#} {%f.,%} {#prakAraH, padDati#} {%f.,%} {#vftti#}
-<div n="lb"/>{%f.,%} {#saraRi#} {%f.%} {@2@} {#BAzAsaraRiH, leKanapadDatiH;#}
-<div n="lb"/>(of speaking) {#vAgvfttiH-vyApAraH-saraRiH#}.
-<div n="lb"/>{@3@} {#saMjYA, AKyA, KyAti#} {%f.%} {@4@} {#leKanI,#}
-<div n="lb"/>{#kalamaH#}. {@5@} {#SalAkA, kIlaH; SaMkuH#} (of a dial).
-<div n="lb"/>{%-v. t.%} {#aBi-DA#} 3 U, {#vac#} 2 P, {#saMjYAM dA#}
-<div n="lb"/>3 U, {#kFt#} 10; {%See%} {@Name, Call;@} ‘s. ed
-<div n="lb"/>Kakutstha’ {#kakutsTa ityAhitalakzaRa#} (R.
-<div n="lb"/>VI. 71), {#kakutsTasaMjYa#} &c. {@-ish,@} {%a.%} {#Sizwa-#}
-<div n="lb"/>{#janamata, saByAcArAnurUpa#}.
+{%f.,%} {#saraRi#} {%f.%} {@2@} {#BAzAsaraRiH, leKanapadDatiH;#}
+(of speaking) {#vAgvfttiH-vyApAraH-saraRiH#}.
+{@3@} {#saMjYA, AKyA, KyAti#} {%f.%} {@4@} {#leKanI,#}
+{#kalamaH#}. {@5@} {#SalAkA, kIlaH; SaMkuH#} (of a dial).
+{%-v. t.%} {#aBi-DA#} 3 U, {#vac#} 2 P, {#saMjYAM dA#}
+3 U, {#kFt#} 10; {%See%} {@Name, Call;@} ‘s. ed
+Kakutstha’ {#kakutsTa ityAhitalakzaRa#} (R.
+VI. 71), {#kakutsTasaMjYa#} &c. {@-ish,@} {%a.%} {#Sizwa-#}
+{#janamata, saByAcArAnurUpa#}.
 <LEND>

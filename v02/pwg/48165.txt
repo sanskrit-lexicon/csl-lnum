@@ -1,29 +1,29 @@
 <L>48165<pc>4-0948<k1>pratikfti<k2>pratikfti
-{#pratikfti#}¦ (von {#kar#} mit {#prati#}) <lex>f.</lex> 
-<div n="1"> 1) {%Widerstand, Abwehr%}: {#dfQa°#} <lex>adj.</lex> 
-<ls>HARIV. 4211.</ls> {#SfRuDvaM devatAH sarvAH SatrupratikftiM parAm . avaDyA dAnavAH sarve fte SaMkaram#} 
-<ls>16261.</ls> = {#pratIkAra#} 
-<ls>TRIK. 3, 3, 164.</ls> 
-<ls>H. an. 4, 116. fg.</ls> 
-<ls>MED. t. 212.</ls> 
-<div n="1">— 2) {%Nachbildung, Abbild, Bild%} 
-<ls>AK. 2, 10, 36.</ls> 
-<ls>TRIK.</ls> 
-<ls>H. 1464.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> (=  {#arcA#} und {#pratiniDi#}; st. {#arcA#} hat 
-<ls>H. an.</ls> {#pUjita#}, wofür vielleicht {#pUjila#} {%Gott, Götterbild%} zu lesen ist). 
-<ls>HALĀY. 1, 130.</ls> 
-<ls>VYUTP. 169.</ls> 
-<ls>P. 5, 3, 96.</ls> {#aSva°#} 
-<ls>Sch.</ls> {#Atma°#} 
-<ls>MBH.5,2222.</ls> <ls>BHAVIṢYA-P.</ls> in <ls>Verz. d. Oxf. H. 35,b,16.</ls> {#nfRAM lokAntarasTAnAM dehapratikftiH sutaH#} 
-<ls>MṚCCH. 155, 16.</ls> 
-<ls>RAGH. 8, 91. 14, 87.</ls> 
-<ls>ŚĀK. 90, 2.</ls> 
-<ls>MĀLAV. 50, 18.</ls> 
-<ls>KULL.</ls> zu <ls>M. 3, 117.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 442, 18. 444, 10.</ls> {#°racanA#} 
-<ls>RAGH. 18, 52.</ls> {#citra°#} {%ein gemaltes Bild%} 
-<ls>HARIV. 7812.</ls> {#SilA°#} {%aus Stein%} 
-<ls>7813.</ls>
+{#pratikfti#}¦ (von {#kar#} mit {#prati#}) <lex>f.</lex>
+<div n="1"> 1) {%Widerstand, Abwehr%}: {#dfQa°#} <lex>adj.</lex>
+<ls>HARIV. 4211.</ls> {#SfRuDvaM devatAH sarvAH SatrupratikftiM parAm . avaDyA dAnavAH sarve fte SaMkaram#}
+<ls n="HARIV.">16261.</ls> = {#pratIkAra#}
+<ls>TRIK. 3,3,164.</ls>
+<ls>H. an. 4,116. fg.</ls>
+<ls>MED. t. 212.</ls>
+<div n="1">— 2) {%Nachbildung, Abbild, Bild%}
+<ls>AK. 2,10,36.</ls>
+<ls>TRIK.</ls>
+<ls>H. 1464.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> (= {#arcA#} und {#pratiniDi#}; st. {#arcA#} hat
+<ls>H. an.</ls> {#pUjita#}, wofür vielleicht {#pUjila#} {%Gott, Götterbild%} zu lesen ist).
+<ls>HALĀY. 1,130.</ls>
+<ls>VYUTP. 169.</ls>
+<ls>P. 5,3,96.</ls> {#aSva°#}
+<ls>Sch.</ls> {#Atma°#}
+<ls>MBH. 5,2222.</ls> <ls>BHAVIṢYA-P.</ls> in <ls>Verz. d. Oxf. H. 35,b,16.</ls> {#nfRAM lokAntarasTAnAM dehapratikftiH sutaH#}
+<ls>MṚCCH. 155,16.</ls>
+<ls>RAGH. 8,91.</ls> <ls n="RAGH.">14,87.</ls>
+<ls>ŚĀK. 90,2.</ls>
+<ls>MĀLAV. 50,18.</ls>
+<ls>KULL.</ls> zu <ls>M. 3,117.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 442,18. 444,10.</ls> {#°racanA#}
+<ls>RAGH. 18,52.</ls> {#citra°#} {%ein gemaltes Bild%}
+<ls>HARIV. 7812.</ls> {#SilA°#} {%aus Stein%}
+<ls n="HARIV.">7813.</ls>
 <LEND>

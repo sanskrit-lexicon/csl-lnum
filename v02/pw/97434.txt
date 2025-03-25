@@ -1,3 +1,3 @@
-<L>97434<pc>6006-2<k1>vajragopa<k2>*vajragopa<e>100
-{#*vajragopa#}¦ <lex>m.</lex> {%Coccinelle.%}
+<L>97434<pc>6-006-b<k1>vajragopa<k2>*vajragopa
+*{#vajragopa#}¦ <lex>m.</lex> {%Coccinelle%}.
 <LEND>

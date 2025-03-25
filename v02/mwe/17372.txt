@@ -1,13 +1,13 @@
 <L>17372<pc>436-b<k1>language<k2>language
-<div n="lb"/>LANGUAGE¦, {%s.%} (Speech, ideas expressed in words) {#BAzA -zaRaM,#}
-<div n="lb"/>{#BAzitaM, uktiH#} {%f.,%} {#vacanaM, vacas, vAkyaM, uktaM, vAk#} {%f.%} {#(c), vARI,#}
-<div n="lb"/>{#vyAhAraH, nigadaH, nigAdaH, lapitaM, aBilApaH, vadantiH#} {%f.%} — (Word,
-<div n="lb"/>expression) {#SabdaH, vAkyaM, vacanaM, padaM;#} ‘bad language,’ {#duruktiH#} {%f.%}
-<div n="lb"/>{#durBAzaRaM, durvacas#} {%n.,%} {#durvAkyaM, durvacanaM, durAlApaH;#} ‘abusive language,’
-<div n="lb"/>{#vAkpAruzyaM, vAgdozaH, paruzavacanaM, paruzoktiH#} {%f.;%} ‘low language,’
-<div n="lb"/>{#KaloktiH#} {%f.%} — (A language) {#BAzA, uktiH#} {%f.;%} ‘a foreign language,’
-<div n="lb"/>{#BAzAntaraM, videSIyaBAzA;#} ‘a barbarous language,’ {#mlecCaBAzA,#}
-<div n="lb"/>{#mlecCitaM;#} ‘the Sanskrit language,’ {#saMskftaBAzA, saMskftoktiH#} {%f.%} — 
-<div n="lb"/>(Diction, style of expression) {#vAgvyApAraH, vAgrItiH#} {%f.,%} {#vAkya-#}
-<div n="lb"/>{#racanA, vAgvinyAsaH, vAksaraRiH#} {%f.%}
+LANGUAGE¦, {%s.%} (Speech, ideas expressed in words) {#BAzA -zaRaM,#}
+{#BAzitaM, uktiH#} {%f.,%} {#vacanaM, vacas, vAkyaM, uktaM, vAk#} {%f.%} {#(c), vARI,#}
+{#vyAhAraH, nigadaH, nigAdaH, lapitaM, aBilApaH, vadantiH#} {%f.%} — (Word,
+expression) {#SabdaH, vAkyaM, vacanaM, padaM;#} ‘bad language,’ {#duruktiH#} {%f.%}
+{#durBAzaRaM, durvacas#} {%n.,%} {#durvAkyaM, durvacanaM, durAlApaH;#} ‘abusive language,’
+{#vAkpAruzyaM, vAgdozaH, paruzavacanaM, paruzoktiH#} {%f.;%} ‘low language,’
+{#KaloktiH#} {%f.%} — (A language) {#BAzA, uktiH#} {%f.;%} ‘a foreign language,’
+{#BAzAntaraM, videSIyaBAzA;#} ‘a barbarous language,’ {#mlecCaBAzA,#}
+{#mlecCitaM;#} ‘the Sanskrit language,’ {#saMskftaBAzA, saMskftoktiH#} {%f.%} — 
+(Diction, style of expression) {#vAgvyApAraH, vAgrItiH#} {%f.,%} {#vAkya-#}
+{#racanA, vAgvinyAsaH, vAksaraRiH#} {%f.%}
 <LEND>

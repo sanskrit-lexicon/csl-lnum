@@ -1,13 +1,13 @@
 <L>5191<pc>167<k1>cry<k2>cry
-<div n="lb"/>{@CRY@}¦ (v. i.): <div n="I">I To c. out: q. v. </div><div n="I">II To weep:</div>
-<div n="lb"/><div n="1">(1) {#krandati#} <div n="xe">{%or%}</div> <div n="xs">{#krandayati, A-,#}</div> ({#krand,#} c. l. and 10.),
-<div n="lb"/><div n="xe">{%cried aloud:%}</div> <div n="xs">{#muktakaRWaM cakranda,#}</div> R. xiv. 68; </div><div n="1">(2)
-<div n="lb"/>{#roditi, pra-,#} ({#rud,#} c. 2.), <div n="xe">{%cried aloud:%}</div> <div n="xs">{#uccErarodIt,#}</div>
-<div n="lb"/>K.; {#kroSati, vi-, A-,#} ({#kruS,#} c. l.) (rare), B.
-<div n="lb"/>iii. 22. </div><div n="I">III To utter sounds: </div><div n="1">(1) {#rOti, #}
-<div n="lb"/>{# vi-,#} ({#ru,#} c. 2.), {%this vulture is c. ing not once:%}
-<div n="lb"/>{#nEkaSaH SakunirayaM virOti,#} Mr.; </div><div n="1">(2) {#vASati#} <div n="xe">{%or%}</div> <div n="xs">{#vASyate#}</div>
-<div n="lb"/>({#vAS,#} c. l. and 4.), {%this crow is c. ing gratingly:%}
-<div n="lb"/>{#rukzasvaraM vASati vAyaso'yam,#} Mr.: v. Noise, to
-<div n="lb"/>make.</div>
+{@CRY@}¦ (v. i.): <div n="I">I To c. out: q. v. </div><div n="I">II To weep:</div>
+<div n="1">(1) {#krandati#} <div n="xe">{%or%}</div> <div n="xs">{#krandayati, A-,#}</div> ({#krand,#} c. l. and 10.),
+<div n="xe">{%cried aloud:%}</div> <div n="xs">{#muktakaRWaM cakranda,#}</div> R. xiv. 68; </div><div n="1">(2)
+{#roditi, pra-,#} ({#rud,#} c. 2.), <div n="xe">{%cried aloud:%}</div> <div n="xs">{#uccErarodIt,#}</div>
+K.; {#kroSati, vi-, A-,#} ({#kruS,#} c. l.) (rare), B.
+iii. 22. </div><div n="I">III To utter sounds: </div><div n="1">(1) {#rOti, #}
+{# vi-,#} ({#ru,#} c. 2.), {%this vulture is c. ing not once:%}
+{#nEkaSaH SakunirayaM virOti,#} Mr.; </div><div n="1">(2) {#vASati#} <div n="xe">{%or%}</div> <div n="xs">{#vASyate#}</div>
+({#vAS,#} c. l. and 4.), {%this crow is c. ing gratingly:%}
+{#rukzasvaraM vASati vAyaso'yam,#} Mr.: v. Noise, to
+make.</div>
 <LEND>

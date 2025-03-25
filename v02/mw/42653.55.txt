@@ -1,3 +1,3 @@
 <L>42653.55<pc>246,3<k1>katara<k2>katara<e>2E
-<s>katara</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>katāra</etym>; <ab>Gk.</ab> <lang n="greek">πότερος</lang>, <lang n="greek">κότερος</lang>; <ab>Goth.</ab> <etym>hvathar</etym>; <ab>Eng.</ab> <etym>whether</etym>; <ab>Lat.</ab> <etym>uter</etym>; Old <ab>Germ.</ab> <etym>huedar</etym>; <ab>Slav.</ab> <etym>kotoryi</etym>.]
+<s>katara</s> ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>katāra</etym>; <lang>Gk.</lang> <gk>πότερος</gk>, <gk>κότερος</gk>; <lang>Goth.</lang> <etym>hvathar</etym>; <lang>Eng.</lang> <etym>whether</etym>; <lang>Lat.</lang> <etym>uter</etym>; <lang>Old Germ.</lang> <etym>huedar</etym>; <lang>Slav.</lang> <etym>kotoryi</etym>.]
 <LEND>

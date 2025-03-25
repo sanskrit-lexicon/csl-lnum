@@ -1,19 +1,19 @@
 <L>11008<pc>1-0897<k1>utTa<k2>utTa
-{#utTa#}¦ (von {#sTA#} mit {#ud#}) 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#}, fast immer am Ende eines comp. 
-<div n="2"> a) {%aufstehend, sich erhebend%}: {#saMmuKadarSanotTAm#} 
-<ls>CAURAP. 18.</ls> {#jAhnavIpulinotTABiH sikatABiH#} 
-<ls>MBH. 13, 1812.</ls> {#rAjAMsi samarotTAni#} 
-<ls>RAGH. 12, 82.</ls> 
-<div n="2">— b) {%hervorgehend, entstehend, entspringend%}: {#tasyA vimAnamaDyasTaratnotTA pratimA#} 
-<ls>KATHĀS. 22, 8.</ls> {#nidrAlasyapramAdotTa#} 
-<ls>BHAG. 18, 39.</ls> {#DUpacandanatElAdivikrayotTa (draviRa)#} 
-<ls>RĀJA-TAR. 5, 167.</ls> {#yena lajjApi tasyotTA (tasya#} d. i. {#svAminaH) na Bftyasya taTA punaH#} 
-<ls>PAÑCAT. I, 400.</ls> {#kulakzayakAraRotTaM vEram#} 
-<ls>257, 4. 261, 15.</ls> {#karRotTa#} 
-<ls>SUŚR. 1, 11, 2. 3.</ls> {#kaPotTa#} 
-<ls>179, 9.</ls> {#paYcakazAyotTa#} 
-<ls>2, 367, 8.</ls> <ls>KUMĀRAS. 6, 59.</ls> <ls>CAURAP. 8.</ls> <ls>KATHĀS. 5, 102.</ls> <ls>AK. 1, 1, 4, 19.</ls> <ls>H. 396. 1391. 1403.</ls> <ls>SĀH. D. 57, 2.</ls> {#cirotTa#} {%alt%} 
-<ls>SUŚR. 2, 368, 2.</ls> 
+{#utTa#}¦ (von {#sTA#} mit {#ud#})
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#}, fast immer am Ende eines comp.
+<div n="2"> a) {%aufstehend, sich erhebend%}: {#saMmuKadarSanotTAm#}
+<ls>CAURAP. 18.</ls> {#jAhnavIpulinotTABiH sikatABiH#}
+<ls>MBH. 13,1812.</ls> {#rAjAMsi samarotTAni#}
+<ls>RAGH. 12,82.</ls>
+<div n="2">— b) {%hervorgehend, entstehend, entspringend%}: {#tasyA vimAnamaDyasTaratnotTA pratimA#}
+<ls>KATHĀS. 22,8.</ls> {#nidrAlasyapramAdotTa#}
+<ls>BHAG. 18,39.</ls> {#DUpacandanatElAdivikrayotTa (draviRa)#}
+<ls>RĀJA-TAR. 5,167.</ls> {#yena lajjApi tasyotTA (tasya#} <ab>d. i.</ab> {#svAminaH) na Bftyasya taTA punaH#}
+<ls>PAÑCAT. I,400.</ls> {#kulakzayakAraRotTaM vEram#}
+<ls n="PAÑCAT.">257,4.</ls> <ls n="PAÑCAT.">261,15.</ls> {#karRotTa#}
+<ls>SUŚR. 1,11,2.</ls> <ls n="SUŚR. 1,11,">3.</ls> {#kaPotTa#}
+<ls n="SUŚR. 1,">179,9.</ls> {#paYcakazAyotTa#}
+<ls n="SUŚR.">2,367,8.</ls> <ls>KUMĀRAS. 6,59.</ls> <ls>CAURAP. 8.</ls> <ls>KATHĀS. 5,102.</ls> <ls>AK. 1,1,4,19.</ls> <ls>H. 396.</ls> <ls n="H.">1391.</ls> <ls n="H.">1403.</ls> <ls>SĀH. D. 57,2.</ls> {#cirotTa#} {%alt%}
+<ls>SUŚR. 2,368,2.</ls>
 <div n="1">— 2) <lex>m.</lex> {%das Hervorkommen%}, s. {#AKUtTa#} .
 <LEND>

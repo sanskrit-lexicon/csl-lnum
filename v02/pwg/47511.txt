@@ -1,79 +1,78 @@
 <L>47511<pc>4-0890<k1>pOruza<k2>pOruza/
-{#pOruza/#}¦ (von {#puruza#}) 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} 
-<div n="2"> a) {%menschlich, männlich%}: {#ekahaMsaH#} 
-<ls>ŚAT. BR. 14, 7, 1, 12. 13.</ls> {#SarIra#} 
-<ls>BHĀG. P. 7, 6, 5.</ls> {#saMbanDa#} 
-<ls>9, 18, 21.</ls> {#Darma#} {%des Mannes Pflicht%} 
-<ls>4, 27, 26.</ls> {#karman#} 
-<ls>MBH. 12, 718.</ls> {#guRAH#} 
-<ls>SĀH. D. 89.</ls> 
-<div n="2">— b) {%Puruscha betreffend, ihm geweiht, ihm gehörig u.s.w.%}: {#Candas#} 
-<ls>ṚV. PRĀT. 17, 7.</ls> {#sUkta#} (s. {#puruzasUkta#}) 
-<ls>M. 11, 251.</ls> {#tanu#} 
-<ls>MBH. 3, 15824. 12, 13466.</ls> 
-<ls>BHĀG. P. 8, 12, 37. 14, 3.</ls> {#rUpa#} 
-<ls>1, 3, 1.</ls> {#BAva#} 
-<ls>HARIV. 11606.</ls> {#praBAva#} 
-<ls>BHĀG. P. 3, 26, 16.</ls> {#visarga#} 
-<ls>2, 10, 3.</ls> {#kzatriya#} 
-(Schol.: = {#vizRoraMSaH#}) 
-<ls>3, 6, 31.</ls> 
-<div n="2">— c) {%eines Mannes%} (mit ausgesreckten Armen und Händen) {%Länge habend%} 
-<ls>P. 5, 2, 38.</ls> 
-<ls>AK. 2, 6, 2, 38.</ls> 
-<ls>H. 600.</ls> 
-<ls>an. 3, 739.</ls> 
-<ls>MED. ṣ. 41.</ls> <ls>HALĀY. 5, 19.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%die Last, die ein Mensch zu tragen vermag%}, 
-<ls>M. 8, 404.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#I#} {%ein menschliches Weib, Frau%} (vgl. {#nArI#} und {#nara): aSvAM ca pOruzIM ca Denuke#} 
-<ls>ŚĀṄKH. ŚR. 13, 29, 25.</ls> 
-<div n="1">— 4) <lex>n.</lex> 
-<div n="2"> a) {%Männlichkeit, männliche Kraft, Mannesmuth, Heldenmuth, Mannesthat%} <is>gaṇa</is> {#yuvAdi#} 
-<ls>P. 5, 1, 130.</ls> 
-<ls>AK. 3, 4, 18, 120. 29,225.</ls>  
-<ls>H. 739.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 4, 38.</ls>
+{#pOruza/#}¦ (von {#puruza#})
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#}
+<div n="2"> a) {%menschlich, männlich%}: {#ekahaMsaH#}
+<ls>ŚAT. BR. 14,7,1,12. 13.</ls> {#SarIra#}
+<ls>BHĀG. P. 7,6,5.</ls> {#saMbanDa#}
+<ls n="BHĀG. P.">9,18,21.</ls> {#Darma#} {%des Mannes Pflicht%}
+<ls n="BHĀG. P.">4,27,26.</ls> {#karman#}
+<ls>MBH. 12,718.</ls> {#guRAH#}
+<ls>SĀH. D. 89.</ls>
+<div n="2">— b) {%Puruscha betreffend, ihm geweiht, ihm gehörig u.s.w.%}: {#Candas#}
+<ls>ṚV. PRĀT. 17,7.</ls> {#sUkta#} (s. {#puruzasUkta#})
+<ls>M. 11,251.</ls> {#tanu#}
+<ls>MBH. 3,15824.</ls> <ls n="MBH.">12,13466.</ls>
+<ls>BHĀG. P. 8,12,37.</ls> <ls n="BHĀG. P. 8,">14,3.</ls> {#rUpa#}
+<ls n="BHĀG. P.">1,3,1.</ls> {#BAva#}
+<ls>HARIV. 11606.</ls> {#praBAva#}
+<ls>BHĀG. P. 3,26,16.</ls> {#visarga#}
+<ls n="BHĀG. P.">2,10,3.</ls> {#kzatriya#}
+(Schol.: = {#vizRoraMSaH#})
+<ls n="BHĀG. P.">3,6,31.</ls>
+<div n="2">— c) {%eines Mannes%} (mit ausgesreckten Armen und Händen) {%Länge habend%}
+<ls>P. 5,2,38.</ls>
+<ls>AK. 2,6,2,38.</ls>
+<ls>H. 600.</ls>
+<ls>an. 3,739.</ls>
+<ls>MED. ṣ. 41.</ls> <ls>HALĀY. 5,19.</ls>
+<div n="1">— 2) <lex>m.</lex> {%die Last, die ein Mensch zu tragen vermag%},
+<ls>M. 8,404.</ls>
+<div n="1">— 3) <lex>f.</lex> {#I#} {%ein menschliches Weib, Frau%} (vgl. {#nArI#} und {#nara): aSvAM ca pOruzIM ca Denuke#}
+<ls>ŚĀṄKH. ŚR. 13,29,25.</ls>
+<div n="1">— 4) <lex>n.</lex>
+<div n="2"> a) {%Männlichkeit, männliche Kraft, Mannesmuth, Heldenmuth, Mannesthat%} <is>gaṇa</is> {#yuvAdi#}
+<ls>P. 5,1,130.</ls>
+<ls>AK. 3,4,18,120</ls> <ls n="AK. 3,4,">29,225</ls>
+<ls>H. 739.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 4,38.</ls>
 [Page4-0891]
-Gegens. {#strItva#} 
-<ls>MBH. 13, 542.</ls> {#yatsvayaM karmaRA kiMcitPalamApnoti pUruzaH . pratyakzametallokezu tatpOruzamiti smftam ..#} 
-<ls>3, 1219. 4, 1267. 13, 2292.</ls> <ls>M. 7, 102. 159.</ls> <ls>BHAG. 7, 8. 18, 25.</ls> <ls>HARIV. 10197. 10525. 11109.</ls> {#°kAma#} 
-<ls>Ind. St. 3, 299, 1 v. u.</ls> {#dEvameva paraM manye pOruzaM tu nirarTakam#} 
-<ls>R. 1, 58, 22. 6, 37, 12.</ls> 
-<ls>YĀJÑ. 1, 348.</ls> 
-<ls>MBH. 13, 1932.</ls> 
-<ls>Spr. 65. 471. 648. 2437. 2855.</ls> {#drakzyanti tvadya dEvasya pOruzaM puruzasya ca#} 
-<ls>R. 2, 23, 19.</ls> 
-<ls>RAGH. 8, 28. 15, 28.</ls> 
-<ls>VARĀH. BṚH. S. 104, 61.</ls> 
-<ls>KATHĀS. 13, 5. 27, 172.</ls> 
-<ls>VID. 153. 321.</ls> 
-<ls>PRAB. 5, 3. 30, 13.</ls> 
-<ls>BHĀG. P. 2, 7, 9.</ls> 
-<ls>UJJVAL.</ls> in der Einl. zu <ls>UṆĀDIS. 7.</ls> {%Gewalt%} im Gegens. zu {#budDi#} {%Verstand%} 
-<ls>KATHĀS. 33, 132. 158.</ls> {#vinayapOruzEH#} 
-<ls>R. 1, 19, 25.</ls> {#pOruzEH#} 
-<ls>BHĀG. P. 8, 21, 20.</ls> 
-<div n="2">— b) {%Manneslänge%} 
-<ls>TRIK. 3, 3, 438.</ls> 
-<ls>H. 600,</ls> 
-<ls>Sch.</ls> 
-<ls>VARĀH. BṚH. S. 53, 35.</ls> 
-<div n="2">— c) {%Generation.%} {#daSa°#} 
-<ls>ĀŚV. ŚR. 2, 12.</ls> {#tripOruzaScApi niDirnIlo nAmEza jAyate#} 
-<ls>MĀRK. P. 68, 41.</ls> {#tripOruzI#} 
-<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 680, 3.</ls> 
-<div n="2">— d) {%der männliche Same%} 
-<ls>H. 630.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<div n="2">— e) {%das männliche Glied%} 
-<ls>SUŚR. 1, 17, 12. 264, 4.</ls> 
-<div n="2">— f) {%Sonnenzeiger%} 
-<ls>H. 600,</ls> 
-<ls>Sch.</ls>; vgl. {#nar, nara#} . 
+Gegens. {#strItva#}
+<ls>MBH. 13,542.</ls> {#yatsvayaM karmaRA kiMcitPalamApnoti pUruzaH . pratyakzametallokezu tatpOruzamiti smftam ..#}
+<ls n="MBH.">3,1219.</ls> <ls n="MBH.">4,1267.</ls> <ls n="MBH.">13,2292.</ls> <ls>M. 7,102.</ls> <ls n="M. 7,">159.</ls> <ls>BHAG. 7,8. 18,25.</ls> <ls>HARIV. 10197.</ls> <ls n="HARIV.">10525.</ls> <ls n="HARIV.">11109.</ls> {#°kAma#}
+<ls>Ind. St. 3,299,1</ls> v. u. {#dEvameva paraM manye pOruzaM tu nirarTakam#}
+<ls>R. 1,58,22.</ls> <ls n="R.">6,37,12.</ls>
+<ls>YĀJÑ. 1,348.</ls>
+<ls>MBH. 13,1932.</ls>
+<ls>Spr. 65.</ls> <ls n="Spr.">471.</ls> <ls n="Spr.">648.</ls> <ls n="Spr.">2437.</ls> <ls n="Spr.">2855.</ls> {#drakzyanti tvadya dEvasya pOruzaM puruzasya ca#}
+<ls>R. 2,23,19.</ls>
+<ls>RAGH. 8,28.</ls> <ls n="RAGH.">15,28.</ls>
+<ls>VARĀH. BṚH. S. 104,61.</ls>
+<ls>KATHĀS. 13,5.</ls> <ls n="KATHĀS.">27,172.</ls>
+<ls>VID. 153. 321.</ls>
+<ls>PRAB. 5,3.</ls> <ls n="PRAB.">30,13.</ls>
+<ls>BHĀG. P. 2,7,9.</ls>
+<ls>UJJVAL.</ls> in der Einl. zu <ls>UṆĀDIS. 7.</ls> {%Gewalt%} im Gegens. zu {#budDi#} {%Verstand%}
+<ls>KATHĀS. 33,132.</ls> <ls n="KATHĀS. 33,">158.</ls> {#vinayapOruzEH#}
+<ls>R. 1,19,25.</ls> {#pOruzEH#}
+<ls>BHĀG. P. 8,21,20.</ls>
+<div n="2">— b) {%Manneslänge%}
+<ls>TRIK. 3,3,438.</ls>
+<ls>H. 600</ls>, <ls>Sch.</ls>
+<ls>VARĀH. BṚH. S. 53,35.</ls>
+<div n="2">— c) {%Generation.%} {#daSa°#}
+<ls>ĀŚV. ŚR. 2,12.</ls> {#tripOruzaScApi niDirnIlo nAmEza jAyate#}
+<ls>MĀRK. P. 68,41.</ls> {#tripOruzI#}
+<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 680,3.</ls>
+<div n="2">— d) {%der männliche Same%}
+<ls>H. 630.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<div n="2">— e) {%das männliche Glied%}
+<ls>SUŚR. 1,17,12. 264,4.</ls>
+<div n="2">— f) {%Sonnenzeiger%}
+<ls>H. 600</ls>, <ls>Sch.</ls>;
+vgl. {#nar, nara#} .
 <div n="v">— Vgl. {#nizpOruza#} .
 <LEND>

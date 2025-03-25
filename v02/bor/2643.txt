@@ -1,18 +1,18 @@
 <L>2643<pc>090<k1>broad<k2>broad
-<div n="lb"/>{@BROAD:@}¦ <div n="I">I Wide (in measurement): q. v.:</div>
-<div n="lb"/><div n="1">(1) {#vistftaH#} ({#tA, taM#}); </div><div n="1">(2) expr. by a comp.
-<div n="lb"/>with the words given under {%breadth%} (I) or
-<div n="lb"/>by adj. formed with any of those words
-<div n="lb"/>and the affix {#vat:#} <div n="xe">{%seven cubits long and one%}
-<div n="lb"/>{%cubit b.%}</div> <div n="xs">{#saptahastadIrGA ekahastavistArAH:#}</div> Ph.: <div n="xe">{%a b.%}
-<div n="lb"/>{%road%}</div> <div n="xs">{#suvistAravAnmArgaH#}</div> (?) (not {#viSAlamArgaH#}): <div n="xe">{%one%}
-<div n="lb"/>{%who has a b. chest%}</div> <div n="xs">{#viSAlavakzas#}</div> (mfn.), R.; <div n="xe">{%a%}
-<div n="lb"/>{%breast beautiful and b. as the leaf of a door%}</div> <div n="xs">{#kapAwa#}</div>-
-<div n="lb"/>-{#vistIrRamanoramoraH,#} Si. iii. 13. </div><div n="I">II Extensive,
-<div n="lb"/>vast: q. v.: {#vistIrRaH#} ({#rRA, rRaM#}). Ph.: {%b. jokes%}
-<div n="lb"/>{#grAmyaparihAsAH#} (m. pl.); <div n="xe">{%b. nonsense%}</div> <div n="xs">{#*spazwanirarTaka-#}
-<div n="lb"/>{#BAzitam;#}</div> <div n="xe">{%thefts are not rare here even in b. day-%}
-<div n="lb"/>{%light%}</div> <div n="xs">{#*dedIpyamAne sUryo'pyatra cOryARi na viralAni;#}</div> {%it%}
-<div n="lb"/>{%is as b. as long,%} i. e. (it makes no difference)
-<div n="lb"/>{#atra ko viSezaH.#}</div>
+{@BROAD:@}¦ <div n="I">I Wide (in measurement): q. v.:</div>
+<div n="1">(1) {#vistftaH#} ({#tA, taM#}); </div><div n="1">(2) expr. by a comp.
+with the words given under {%breadth%} (I) or
+by adj. formed with any of those words
+and the affix {#vat:#} <div n="xe">{%seven cubits long and one%}
+{%cubit b.%}</div> <div n="xs">{#saptahastadIrGA ekahastavistArAH:#}</div> Ph.: <div n="xe">{%a b.%}
+{%road%}</div> <div n="xs">{#suvistAravAnmArgaH#}</div> (?) (not {#viSAlamArgaH#}): <div n="xe">{%one%}
+{%who has a b. chest%}</div> <div n="xs">{#viSAlavakzas#}</div> (mfn.), R.; <div n="xe">{%a%}
+{%breast beautiful and b. as the leaf of a door%}</div> <div n="xs">{#kapAwa#}</div>-
+-{#vistIrRamanoramoraH,#} Si. iii. 13. </div><div n="I">II Extensive,
+vast: q. v.: {#vistIrRaH#} ({#rRA, rRaM#}). Ph.: {%b. jokes%}
+{#grAmyaparihAsAH#} (m. pl.); <div n="xe">{%b. nonsense%}</div> <div n="xs">{#*spazwanirarTaka-#}
+{#BAzitam;#}</div> <div n="xe">{%thefts are not rare here even in b. day-%}
+{%light%}</div> <div n="xs">{#*dedIpyamAne sUryo'pyatra cOryARi na viralAni;#}</div> {%it%}
+{%is as b. as long,%} i. e. (it makes no difference)
+{#atra ko viSezaH.#}</div>
 <LEND>

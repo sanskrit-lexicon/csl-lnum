@@ -1,22 +1,22 @@
 <L>18689<pc>481-a<k1>manner<k2>manner
-<div n="lb"/>MANNER¦, {%s.%} (Form, fashion, way) {#prakAraH, rItiH#} {%f.,%} {#viDaH, viDiH#} {%m.,%}
-<div n="lb"/>{#rUpaM, viDAnaM, ftiH#} {%f.,%} {#AkAraH, AkftiH#} {%f.;%} ‘in this manner,’
-<div n="lb"/>{#anena prakAreRa, anayA rItyA, anayartyA;#} ‘in such a manner,’
-<div n="lb"/>{#evaMviDaM -Dena, taTAviDaM -Dena, evaMrUpeRa, evamprakAreRa, ityAdiviDAnena;#}
-<div n="lb"/>‘in the manner before mentioned,’ {#pUrvvoktaprakAreRa, pUrvvoktarItyA#}.
-<div n="lb"/> — (Kind) {#prakAraH, viDaH, BedaH, praBedaH, viSezaH;#} ‘all manner of
-<div n="lb"/>food,’ {#sarvvaprakAram annaM#}. — (Method, mode of doing) {#rItiH#} {%f.,%}
-<div n="lb"/>{#mArgaH, kramaH, paryyAyaH, padDatiH#} {%f.,%} {#paripAwI, kriyA, vfttAntaH, kxptiH#} {%f.,%}
-<div n="lb"/>{#cIrRaM#}. — (Custom, habitual practice) {#AcAraH, AcaraRaM, vyavahAraH,#}
-<div n="lb"/>{#vyavahftiH#} {%f.,%} {#pracAraH, samAcAraH, caryyA, rItiH#} {%f.,%} {#niyamaH, nityakftyaM,#}
-<div n="lb"/>{#aByAsaH, DArA, anusAraH, sTitiH#} {%f.,%} {#caritaM, sampradAyaH, vyApAraH, SIlaH,#}
-<div n="lb"/>{#AvfttiH#} {%f.,%} {#mArgaH, paTaH;#} ‘manners and customs of a country,’
-<div n="lb"/>{#deSAcAraH, deSavyavahAraH, deSarItiH#} {%f.,%} {#deSasampradAyaH;#} ‘good manners,’
-<div n="lb"/>{#sadAcAraH, SizwAcAraH, SizwasampradAyaH, maryyAdA, sunItiH#} {%f.,%} {#vinayaH,#}
-<div n="lb"/>{#suSIlatA;#} ‘bad manners,’ {#durAcAraH, durRItiH#} {%f.,%} {#anItiH#} {%f.,%} {#avi-#}
-<div n="lb"/>{#nayaH, kurItiH#} {%f.,%} {#amaryyAdA, kucaryyA, duHSIlatA;#} ‘violation of good
-<div n="lb"/>manners,’ {#maryyAdAtikramaH, vinayaBaNgaH, sadAcAralaMGanaM#}. — (Mien, air)
-<div n="lb"/>{#AkAraH, vadanAkAraH, rUpaM, gatiH#} {%f.,%} {#vadanaM#}. — (Peculiar way) {#viSeza-#}
-<div n="lb"/>{#rItiH#} {%f.%} — (Style) {#vfttiH#} {%f.%} — (In like manner) {#taTEva, taTA, evaM,#}
-<div n="lb"/>{#evameva, taTAhi, tadvat#}.
+MANNER¦, {%s.%} (Form, fashion, way) {#prakAraH, rItiH#} {%f.,%} {#viDaH, viDiH#} {%m.,%}
+{#rUpaM, viDAnaM, ftiH#} {%f.,%} {#AkAraH, AkftiH#} {%f.;%} ‘in this manner,’
+{#anena prakAreRa, anayA rItyA, anayartyA;#} ‘in such a manner,’
+{#evaMviDaM -Dena, taTAviDaM -Dena, evaMrUpeRa, evamprakAreRa, ityAdiviDAnena;#}
+‘in the manner before mentioned,’ {#pUrvvoktaprakAreRa, pUrvvoktarItyA#}.
+ — (Kind) {#prakAraH, viDaH, BedaH, praBedaH, viSezaH;#} ‘all manner of
+food,’ {#sarvvaprakAram annaM#}. — (Method, mode of doing) {#rItiH#} {%f.,%}
+{#mArgaH, kramaH, paryyAyaH, padDatiH#} {%f.,%} {#paripAwI, kriyA, vfttAntaH, kxptiH#} {%f.,%}
+{#cIrRaM#}. — (Custom, habitual practice) {#AcAraH, AcaraRaM, vyavahAraH,#}
+{#vyavahftiH#} {%f.,%} {#pracAraH, samAcAraH, caryyA, rItiH#} {%f.,%} {#niyamaH, nityakftyaM,#}
+{#aByAsaH, DArA, anusAraH, sTitiH#} {%f.,%} {#caritaM, sampradAyaH, vyApAraH, SIlaH,#}
+{#AvfttiH#} {%f.,%} {#mArgaH, paTaH;#} ‘manners and customs of a country,’
+{#deSAcAraH, deSavyavahAraH, deSarItiH#} {%f.,%} {#deSasampradAyaH;#} ‘good manners,’
+{#sadAcAraH, SizwAcAraH, SizwasampradAyaH, maryyAdA, sunItiH#} {%f.,%} {#vinayaH,#}
+{#suSIlatA;#} ‘bad manners,’ {#durAcAraH, durRItiH#} {%f.,%} {#anItiH#} {%f.,%} {#avi-#}
+{#nayaH, kurItiH#} {%f.,%} {#amaryyAdA, kucaryyA, duHSIlatA;#} ‘violation of good
+manners,’ {#maryyAdAtikramaH, vinayaBaNgaH, sadAcAralaMGanaM#}. — (Mien, air)
+{#AkAraH, vadanAkAraH, rUpaM, gatiH#} {%f.,%} {#vadanaM#}. — (Peculiar way) {#viSeza-#}
+{#rItiH#} {%f.%} — (Style) {#vfttiH#} {%f.%} — (In like manner) {#taTEva, taTA, evaM,#}
+{#evameva, taTAhi, tadvat#}.
 <LEND>

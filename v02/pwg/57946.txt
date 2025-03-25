@@ -1,8 +1,8 @@
 <L>57946<pc>5-0582<k1>martyaloka<k2>martyaloka
-{#martyaloka#}¦ {#(ma° + loka)#} <lex>m.</lex> {%die Welt der Sterblichen, die Erde%} 
-<ls>KAṬHOP. 1, 25.</ls> 
-<ls>BHAG. 9, 21.</ls> 
-<ls>Spr. 2525.</ls> 
-<ls>KATHĀS. 34, 42. 42, 205. 211. 49, 194. 51, 38.52, 174. 191. 402. 65, 60. 243.</ls> 
-<ls>BHĀG. P. 3, 4, 26.</ls>
+{#martyaloka#}¦ ({#ma° + loka#}) <lex>m.</lex> {%die Welt der Sterblichen, die Erde%}
+<ls>KAṬHOP. 1,25.</ls>
+<ls>BHAG. 9,21.</ls>
+<ls>Spr. 2525.</ls>
+<ls>KATHĀS. 34,42.</ls> <ls n="KATHĀS.">42,205.</ls> <ls n="KATHĀS. 42,">211.</ls> <ls n="KATHĀS.">49,194.</ls> <ls n="KATHĀS.">51,38.</ls> <ls n="KATHĀS.">52,174.</ls> <ls n="KATHĀS. 52,">191.</ls> <ls n="KATHĀS. 52,">402.</ls> <ls n="KATHĀS.">65,60.</ls> <ls n="KATHĀS. 65,">243.</ls>
+<ls>BHĀG. P. 3,4,26.</ls>
 <LEND>

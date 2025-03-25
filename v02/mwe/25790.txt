@@ -1,5 +1,5 @@
 <L>25790<pc>701-b<k1>rumor<k2>rumor
-<div n="lb"/>RUMOR¦, {%s.%} {#lokapravAdaH, janapravAdaH, janavAdaH, lokavAdaH, pravAdaH, kiMva-#}
-<div n="lb"/>{#dantiH -ntI#} {%f.,%} {#janaSrutiH#} {%f.,%} {#lokaSrutiH#} {%f.,%} {#janaravaH, vArttA, lokavArttA,#}
-<div n="lb"/>{#janavArttA#}. {%See%} REPORT.
+RUMOR¦, {%s.%} {#lokapravAdaH, janapravAdaH, janavAdaH, lokavAdaH, pravAdaH, kiMva-#}
+{#dantiH -ntI#} {%f.,%} {#janaSrutiH#} {%f.,%} {#lokaSrutiH#} {%f.,%} {#janaravaH, vArttA, lokavArttA,#}
+{#janavArttA#}. {%See%} REPORT.
 <LEND>

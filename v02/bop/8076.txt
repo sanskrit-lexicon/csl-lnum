@@ -1,12 +1,12 @@
 <L>8076<pc>359-a<k1>Svan<k2>Svan
-{#Svan#}¦ {%m.%} (in casibus debilissimis {#Sun,#} v. gr. 225.) canis.
-<div n="lb">(Gr. <lang n="greek"></lang> = {#Sunas;#} lat. {%cani-s,%} ejecto {%v%} vel {%u,%}
-<div n="lb">addito {%i,%} sed gen. pl. {%can-um%} a primitivo Them. in {%n,%} si-
-<div n="lb">cut {%juven-um%} a {%juven%} = {#yuvan;#} lith. nom. {%szu°%} = {#SvA,#}
-<div n="lb">gen. {%szun-s%} = {#Sunas,#} v. gr. comp. 139.; hib. nom. {%cu,%}
-<div n="lb">gen. et pl. {%coin;%} goth. {%hund-s,%} Them. {%hunda,%} adjecto {%da;%}
-<div n="lb">russ. {%sobaka%} pro {%sbaka,%} cf. med. <lang n="greek"></lang> apud Herod.
-<div n="lb"><lang n="greek"></lang> pers. <lang n="greek"></lang>
-<div n="lb">{%seg,%} zend. nom. <lang n="greek"></lang> {%s'pâ,%} acc. <lang n="greek"></lang> {%s'pânĕm,%}
-<div n="lb">(v. gr. comp. 50.).)
+{#Svan#}¦ {%m.%} (in casibus debilissimis {#Sun#}, v. gr. 225.) canis.
+(Gr. <lang n="greek">ϰύων, ϰυνός</lang> = {#Sunas#}; lat. {%cani-s%}, ejecto {%v%} vel {%u%},
+addito {%i%}, sed gen. pl. {%can-um%} a primitivo Them. in {%n%}, sicut
+{%juven-um%} a {%juven%} = {#yuvan#}; lith. nom. {%szů%} = {#SvA#},
+gen. {%szun-s%} = {#Sunas#}, v. gr. comp. 139.; hib. nom. {%cu%},
+gen. et pl. {%coin%}; goth. {%hund-s%}, Them. {%hunda%}, adjecto {%da%};
+russ. {%sobaka%} pro {%sbaka%}, cf. med. <lang n="greek">σπαϰα</lang> apud Herod.
+<lang n="greek">«τὴν γάϱ ϰύνα ϰαλέουσι σπάϰα Μῆδοι»</lang>, pers. <lang n="Arabic">سك</lang>
+{%seg%}, zend. nom. <lang n="Avestan"> 𐬯𐬞𐬀</lang> {%śpâ%}, acc. <lang n="Avestan"> 𐬯𐬞𐬁𐬥𐬆𐬨</lang> {%śpânĕm%},
+(v. gr. comp. 50.).)
 <LEND>

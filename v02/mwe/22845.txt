@@ -1,10 +1,10 @@
 <L>22845<pc>605-a<k1>police<k2>police
-<div n="lb"/>POLICE¦, {%s.%} (Government of a city or town) {#nagaravyavasTA, nagara-#}
-<div n="lb"/>{#vyavasTitiH#} {%f.,%} {#nagarAnuSAsanaM, nagarakAryyAnuSAsanaM#}. — (Internal regu-
-<div n="lb"/>lation of a kingdom) {#rAzwrAnuSAsanaM, deSAnuSAsanaM, deSakAryyAnu-#}
-<div n="lb"/>{#SAsanaM, rAzwravyavasTA, deSavyavasTA, rAzwravyavasTitiH#} {%f.%} — (Body of police-
-<div n="lb"/>officers) {#nagararakziRaH#} {%m. pl.,%} {#nagararakzakAH#} {%m. pl.,%} {#nagararakzipuruzAH#} {%m. pl.,%}
-<div n="lb"/>{#nagarapAlAH#} {%m. pl.,%} {#nagarapAlakAH#} {%m. pl.,%} {#nagararakzigaRaH, nagarapAlagaRaH,#}
-<div n="lb"/>{#nagarapAlavargaH;#} ‘rural police,’ {#grAmarakziRaH#} {%m. pl.,%} {#grAmarakzakAH#} {%m. pl.%}
-<div n="lb"/>{#grAmapAlAH;#} ‘highway police,’ {#mArgapAlAH -lakAH, mArgarakzakAH#} {%m. pl.%}
+POLICE¦, {%s.%} (Government of a city or town) {#nagaravyavasTA, nagara-#}
+{#vyavasTitiH#} {%f.,%} {#nagarAnuSAsanaM, nagarakAryyAnuSAsanaM#}. — (Internal regu-
+lation of a kingdom) {#rAzwrAnuSAsanaM, deSAnuSAsanaM, deSakAryyAnu-#}
+{#SAsanaM, rAzwravyavasTA, deSavyavasTA, rAzwravyavasTitiH#} {%f.%} — (Body of police-
+officers) {#nagararakziRaH#} {%m. pl.,%} {#nagararakzakAH#} {%m. pl.,%} {#nagararakzipuruzAH#} {%m. pl.,%}
+{#nagarapAlAH#} {%m. pl.,%} {#nagarapAlakAH#} {%m. pl.,%} {#nagararakzigaRaH, nagarapAlagaRaH,#}
+{#nagarapAlavargaH;#} ‘rural police,’ {#grAmarakziRaH#} {%m. pl.,%} {#grAmarakzakAH#} {%m. pl.%}
+{#grAmapAlAH;#} ‘highway police,’ {#mArgapAlAH -lakAH, mArgarakzakAH#} {%m. pl.%}
 <LEND>

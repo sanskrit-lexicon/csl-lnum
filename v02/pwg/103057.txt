@@ -1,87 +1,85 @@
 <L>103057<pc>7-0482<k1>saMsarga<k2>saMsarga
-{#saMsarga#}¦ (von {#sarj#} mit {#sam#}) 
-<div n="1"> 1) <lex>adj.</lex> {%sich vermengend, zusammenlaufend%}: {#agni#} 
-<ls>KĀTY. ŚR. 25, 4, 30.</ls> 
-<div n="1">— 2) <lex>m.</lex> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} . 
-<div n="2"> a) {%das Zusammentreffen, Verbundensein, Verbindung, Vereinigung, Zusammenhang, Berührung, Contact%} 
-<ls>HALĀY. 5, 59.</ls> Bed. der Präposition {#api#} 
-<ls>NIR. 1, 3.</ls> {#dyAvApfTivyoH#} {%das Verschwimmen%} 
-<ls>HARIV. 3579.</ls> {#CAyAnAm#} 
-<ls>ŚĀṄKH. ŚR. 2, 6, 2.</ls> zweier Feuer 
-<ls>KĀTY. ŚR. 25, 4, 29.</ls> 
-<ls>KAUŚ. 93.</ls> {#maRiBujagayoH#} 
-<ls>Spr. (II) 773.</ls> {#mAtrA°#} 
-<ls>ṚV. PRĀT. 13, 16.</ls> {#paraspara°#} 
-<ls>SUŚR. 1, 153, 14.</ls> {#itaretara°#} (beim coitus) 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 294.</ls> {#dozaDAtumala°#} 
-<ls>SUŚR. 1, 90, 8. 2, 302, 12.</ls> {#virudDaDarma°#} 
-<ls>SARVADARŚANAS. 131, 11.</ls> <ls>VEDĀNTAS. (Allah.) No. 100.</ls> {#°jA dozaguRAH#} {%durch Berührung entstanden%} 
-<ls>Spr. (II) 6634. 6781.</ls> 
-
-<ls>TS. PRĀT. 23, 2</ls> (vgl. 
-<ls>UVAṬA</ls> zu <ls>ṚV. PRĀT. 13, 4</ls>). {#anizwAnAm#} {%Berührung mit%} (Gegens. {#visarjana#}) 
-<ls>MBH. 11, 85.</ls> 
-<ls>Spr. (II) 3885.</ls> {#tasya Sastrasya#} 
-<ls>R. 3, 13, 21. 5, 36, 4.</ls> {#SuBASuBADivAsena#} 
-<ls>MBH. 3, 23. fg.</ls> {#tataH saMsargamAgamya (Akramya#} die neuere Ausg.) {#balenAstrabalena ca#} 
-<ls>HARIV. 1109.</ls> 
-<ls>SUŚR. 1, 83, 4. 5.</ls> {#pApmaBiH#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 87.</ls> {#mAtrA°#} 
-<ls>ŚAT. BR. 14, 7, 3, 15.</ls> {#hara°#} 
-<ls>HARIV. 10580.</ls> 
-<ls>RAGH. 16, 21.</ls> 
-<ls>ŚĀK. 3.</ls> {#vizaya°#} 
-<ls>Spr. 3268.</ls> {#viza°#} 
-<ls>(II) 308. 1619. 5441.</ls> <ls>KATHĀS. 18, 58.</ls> <ls>MĀRK. P. 51, 90. 115, 18.</ls> <ls>BHĀG. P. 5, 1, 37.</ls> <ls>PRAB. 59, 12.</ls> <ls>RĀJA-TAR. 4, 110.</ls> {#apayoDarasaMsargAM priyAliNgananirvftim#}
+{#saMsarga#}¦ (von {#sarj#} mit {#sam#})
+<div n="1"> 1) <lex>adj.</lex> {%sich vermengend, zusammenlaufend%}: {#agni#}
+<ls>KĀTY. ŚR. 25,4,30.</ls>
+<div n="1">— 2) <lex>m.</lex> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} .
+<div n="2"> a) {%das Zusammentreffen, Verbundensein, Verbindung, Vereinigung, Zusammenhang, Berührung, Contact%}
+<ls>HALĀY. 5,59.</ls> Bed. der Präposition {#api#}
+<ls>NIR. 1,3.</ls> {#dyAvApfTivyoH#} {%das Verschwimmen%}
+<ls>HARIV. 3579.</ls> {#CAyAnAm#}
+<ls>ŚĀṄKH. ŚR. 2,6,2.</ls> zweier Feuer
+<ls>KĀTY. ŚR. 25,4,29.</ls>
+<ls>KAUŚ. 93.</ls> {#maRiBujagayoH#}
+<ls>Spr. (II) 773.</ls> {#mAtrA°#}
+<ls>ṚV. PRĀT. 13,16.</ls> {#paraspara°#}
+<ls>SUŚR. 1,153,14.</ls> {#itaretara°#} (beim coitus)
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 294.</ls> {#dozaDAtumala°#}
+<ls>SUŚR. 1,90,8.</ls> <ls n="SUŚR.">2,302,12.</ls> {#virudDaDarma°#}
+<ls>SARVADARŚANAS. 131,11.</ls> <ls>VEDĀNTAS. (Allah.) No. 100.</ls> {#°jA dozaguRAH#} {%durch Berührung entstanden%}
+<ls>Spr. (II) 6634.</ls> <ls n="Spr. (II)">6781.</ls>
+<ls>TS. PRĀT. 23,2</ls> (vgl.
+<ls>UVAṬA</ls> zu <ls>ṚV. PRĀT. 13,4</ls>). {#anizwAnAm#} {%Berührung mit%} (Gegens. {#visarjana#})
+<ls>MBH. 11,85.</ls>
+<ls>Spr. (II) 3885.</ls> {#tasya Sastrasya#}
+<ls>R. 3,13,21.</ls> <ls n="R.">5,36,4.</ls> {#SuBASuBADivAsena#}
+<ls>MBH. 3,23. fg.</ls> {#tataH saMsargamAgamya (Akramya#} die neuere Ausg.) {#balenAstrabalena ca#}
+<ls>HARIV. 1109.</ls>
+<ls>SUŚR. 1,83,4. 5.</ls> {#pApmaBiH#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 87.</ls> {#mAtrA°#}
+<ls>ŚAT. BR. 14,7,3,15.</ls> {#hara°#}
+<ls>HARIV. 10580.</ls>
+<ls>RAGH. 16,21.</ls>
+<ls>ŚĀK. 3.</ls> {#vizaya°#}
+<ls>Spr. 3268.</ls> {#viza°#}
+<ls n="Spr.">(II) 308.</ls> <ls n="Spr. (II)">1619.</ls> <ls n="Spr. (II)">5441.</ls> <ls>KATHĀS. 18,58.</ls> <ls>MĀRK. P. 51,90. 115,18.</ls> <ls>BHĀG. P. 5,1,37.</ls> <ls>PRAB. 59,12.</ls> <ls>RĀJA-TAR. 4,110.</ls> {#apayoDarasaMsargAM priyAliNgananirvftim#}
 [Page7-0483]
-
-<ls>RAGH. 12, 45.</ls> {#nAsti Gawo geha iti sato Gawasya gehasaMsargapratizeDaH#} 
-<ls>KAṆ. 9, 1, 10.</ls> {#°pratiyogikaH pratizeDo 'tyantABAvaH#} 
-<ls>SARVADARŚANAS. 112, 1.</ls> {#saMsargABAva#} 
-<ls>?116,16. fgg. SĀH. D. 54. 117,20. Verz. d. Oxf. H. 245,b, No. 616. fg. Schol. zu ŚĀK. 81.</ls> {%Berührung mit%} so v. a. {%das Zuthunhaben —, Sichabgeben mit Sichbetheiligen an%} (insbes. an etwas Schlechtem), {%das Sichbeflecken mit%}: {#veSa°#} 
-<ls>DAŚAK. 86, 8.</ls> {#ratisaMsargalAlasA#} 
-<ls>HARIV. 4785.</ls> {#mAnasaMsargakarkaSa#} 
-<ls>R. 5, 4, 11.</ls> {#gItavAdyAdivanitABogasaMsargadUzita#} 
-<ls>MĀRK. P. 17, 23.</ls> {#kAmopaBoga°#} 
-<ls>36, 5.</ls> {#paradArAdi°#} 
-<ls>51, 28.</ls> {#mahatsaMgrAma°#} <lex>adj.</lex> {%der Theil genommen hat an%} 
-<ls>?133, 16. pl.</ls> {%Berührung mit der Aussenwelt, Sinnengenuss%} 
-<ls>M. 6, 72.</ls> sg. Bez. {%einer best. Berührung von Himmelskörpern%} (beim Planetenkampfe) 
-<ls>AV. PARIŚ.</ls> in <ls>Ind. St. 10, 320</ls>; vgl. {#saMsarjana#} 1). 
-<div n="2">— b) {%das Zusammentreffen mit Menschen, Berührung mit Andern, Umgang, Verkehr%} 
-<ls>MBH. 3, 14054. 13, 1600.</ls> 
-<ls>R. 6, 101, 12.</ls> 
-<ls>Spr. (II) 258. 1726. 4520. 4795.</ls> {#°praSaMsA#} 
-<ls>Verz. d. Oxf. H. 123,a,38.</ls> {#°prAyaScitta#} ({%Verkehr mit Unreinen%}) 87, {%b%}, 25. 102, {%a%}, 
-<ls>8 v. u.</ls> <ls>PRĀYAŚCITTEND. 72</ls>, {%a%}, 7. {#DImatAm#} {%Verkehr mit%} 
-<ls>Spr. (II) 248.</ls> {#patitAnAm#} 
-<ls>3885.</ls> {#asatAm#} 
-<ls>4338.</ls> {#vipaScitaH#} 
-<ls>4714.</ls> {#tyAgini SUre viduzi ca#} 
-<ls>2633.</ls> {#na saMsargaM vrajetsadBiH#} 
-<ls>M. 11, 47.</ls> {#yo yena patitenEzAM saMsargaM yAti mAnavaH#} 
-<ls>181.</ls> <ls>R. 1, 3, 33 (29 GORR.).</ls> {#kva te rAmeRa saMsargaH#} {%wo bist du mit%} <is>Rāma</is> {%zusammengetroffen?%} 
-<ls>5, 32, 2.</ls> <ls>KĀM. NĪTIS. 5, 32. 7, 46.</ls> {#sadBiH saha#} 
-<ls>MBH. 3, 26.</ls> {#ariBiH saha#} 
-<ls>12, 3810.</ls> <ls>Spr. 5373. (II) 4492.</ls> {#tapasvi°#} 
-<ls>RAGH. 14, 75.</ls> 
-<ls>Spr. (II) 1859. 2120. 4044. 5965. 5975, v. l.</ls> 
-<ls>KATHĀS. 18, 232.</ls> 
-<ls>BHĀG. P. 4, 7, 17.</ls> 
-<ls>PAÑCAT. 197, 11.</ls> 
-<ls>LA. (III) 19, 20. 91, 4.</ls> <ls>TATTVAS. 41.</ls> {%geschlechtlicher Verkehr%} 
-<ls>SUŚR. 1, 70, 4.</ls> {#praBAvatyAH#} {%mit%} 
-<ls>HARIV. 8662.</ls> {#dAsyAH#} 
-<ls>BHĀG. P. 6, 1, 21.</ls> {#nimIlitAkzyAH saMsargastava suBru mayA saha#} 
-<ls>MĀRK. P. 62, 30.</ls> {#puruza°#} 
-<ls>MBH. 13,1467.</ls> <ls>Verz. d. Oxf. H. 22,a,11. 15. 18.</ls> 
-<div n="2">— c) {%die Verbindung zweier humores, welche Krankheiten erzeugt (der Zusammentritt aller drei%} heisst {#saMnipAta#}), 
-<ls>SUŚR. 1, 261, 6. 2, 40, 5. 196, 14.</ls> {#°ja#} 
-<ls>404, 15.</ls> {#°pAcana#} 
-<ls>462, 12.</ls> <ls>ŚĀRṄG. SAṂH. 1, 7, 91. fg.</ls> 
-<div n="2">— d) {%das Zusammenbleiben von Verwandten nach erfolgter Erbtheilung (Gütergemeinschaft)%}: {#viBAgAnantaraM mEtryAtpitfBrAtfpitfvyaBrAtfputrARAM yaTAyaTamekatrAvasTAnaM saMsargaH tadyuktaH saMsargI#} 
-<ls>DĀYABH.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— e) {%Dauer%}: {#na tasminyugasaMsarge vyADayo nendriyakzayaH#} 
-<ls>MBH. 3, 11238.</ls> 
+<ls>RAGH. 12,45.</ls> {#nAsti Gawo geha iti sato Gawasya gehasaMsargapratizeDaH#}
+<ls>KAṆ. 9,1,10.</ls> {#°pratiyogikaH pratizeDo 'tyantABAvaH#}
+<ls>SARVADARŚANAS. 112,1.</ls> {#saMsargABAva#}
+<ls n="SARVADARŚANAS.">116,16. fgg.</ls> <ls>SĀH. D. 54. 117,20.</ls> <ls>Verz. d. Oxf. H. 245,b, No. 616. fg.</ls> Schol. zu <ls>ŚĀK. 81.</ls> {%Berührung mit%} so v. a. {%das Zuthunhaben —, Sichabgeben mit Sichbetheiligen an%} (insbes. an etwas Schlechtem), {%das Sichbeflecken mit%}: {#veSa°#}
+<ls>DAŚAK. 86,8.</ls> {#ratisaMsargalAlasA#}
+<ls>HARIV. 4785.</ls> {#mAnasaMsargakarkaSa#}
+<ls>R. 5,4,11.</ls> {#gItavAdyAdivanitABogasaMsargadUzita#}
+<ls>MĀRK. P. 17,23.</ls> {#kAmopaBoga°#}
+<ls n="MĀRK. P.">36,5.</ls> {#paradArAdi°#}
+<ls n="MĀRK. P.">51,28.</ls> {#mahatsaMgrAma°#} <lex>adj.</lex> {%der Theil genommen hat an%}
+<ls n="MĀRK. P.">133,16.</ls> pl. {%Berührung mit der Aussenwelt, Sinnengenuss%}
+<ls>M. 6,72.</ls> sg. Bez. {%einer best. Berührung von Himmelskörpern%} (beim Planetenkampfe)
+<ls>AV. PARIŚ.</ls> in <ls>Ind. St. 10,320</ls>; vgl. {#saMsarjana#} 1).
+<div n="2">— b) {%das Zusammentreffen mit Menschen, Berührung mit Andern, Umgang, Verkehr%}
+<ls>MBH. 3,14054.</ls> <ls n="MBH.">13,1600.</ls>
+<ls>R. 6,101,12.</ls>
+<ls>Spr. (II) 258.</ls> <ls n="Spr. (II)">1726.</ls> <ls n="Spr. (II)">4520.</ls> <ls n="Spr. (II)">4795.</ls> {#°praSaMsA#}
+<ls>Verz. d. Oxf. H. 123,a,38.</ls> {#°prAyaScitta#} ({%Verkehr mit Unreinen%}) <ls n="Verz. d. Oxf. H.">87,b,25.</ls> <ls n="Verz. d. Oxf. H.">102,a,8</ls>
+v. u. <ls>PRĀYAŚCITTEND. 72,a,7.</ls> {#DImatAm#} {%Verkehr mit%}
+<ls>Spr. (II) 248.</ls> {#patitAnAm#}
+<ls n="Spr. (II)">3885.</ls> {#asatAm#}
+<ls n="Spr. (II)">4338.</ls> {#vipaScitaH#}
+<ls n="Spr. (II)">4714.</ls> {#tyAgini SUre viduzi ca#}
+<ls n="Spr. (II)">2633.</ls> {#na saMsargaM vrajetsadBiH#}
+<ls>M. 11,47.</ls> {#yo yena patitenEzAM saMsargaM yAti mAnavaH#}
+<ls n="M. 11,">181.</ls> <ls>R. 1,3,33</ls> (<ls n="GORR. 1,3,">29</ls> <ls>GORR.</ls>). {#kva te rAmeRa saMsargaH#} {%wo bist du mit%} <is>Rāma</is> {%zusammengetroffen?%}
+<ls n="R.">5,32,2.</ls> <ls>KĀM. NĪTIS. 5,32. 7,46.</ls> {#sadBiH saha#}
+<ls>MBH. 3,26.</ls> {#ariBiH saha#}
+<ls n="MBH.">12,3810.</ls> <ls>Spr. 5373.</ls> <ls>Spr. (II) 4492.</ls> {#tapasvi°#}
+<ls>RAGH. 14,75.</ls>
+<ls>Spr. (II) 1859.</ls> <ls n="Spr. (II)">2120.</ls> <ls n="Spr. (II)">4044.</ls> <ls n="Spr. (II)">5965.</ls> <ls n="Spr. (II)">5975, v. l.</ls>
+<ls>KATHĀS. 18,232.</ls>
+<ls>BHĀG. P. 4,7,17.</ls>
+<ls>PAÑCAT. 197,11.</ls>
+<ls>LA. (III) 19,20. 91,4.</ls> <ls>TATTVAS. 41.</ls> {%geschlechtlicher Verkehr%}
+<ls>SUŚR. 1,70,4.</ls> {#praBAvatyAH#} {%mit%}
+<ls>HARIV. 8662.</ls> {#dAsyAH#}
+<ls>BHĀG. P. 6,1,21.</ls> {#nimIlitAkzyAH saMsargastava suBru mayA saha#}
+<ls>MĀRK. P. 62,30.</ls> {#puruza°#}
+<ls>MBH. 13,1467.</ls> <ls>Verz. d. Oxf. H. 22,a,11. 15. 18.</ls>
+<div n="2">— c) {%die Verbindung zweier humores, welche Krankheiten erzeugt (der Zusammentritt aller drei%} heisst {#saMnipAta#}),
+<ls>SUŚR. 1,261,6. 2,40,5. 196,14.</ls> {#°ja#}
+<ls n="SUŚR.">404,15.</ls> {#°pAcana#}
+<ls n="SUŚR.">462,12.</ls> <ls>ŚĀRṄG. SAṂH. 1,7,91. fg.</ls>
+<div n="2">— d) {%das Zusammenbleiben von Verwandten nach erfolgter Erbtheilung (Gütergemeinschaft)%}: {#viBAgAnantaraM mEtryAtpitfBrAtfpitfvyaBrAtfputrARAM yaTAyaTamekatrAvasTAnaM saMsargaH tadyuktaH saMsargI#}
+<ls>DĀYABH.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— e) {%Dauer%}: {#na tasminyugasaMsarge vyADayo nendriyakzayaH#}
+<ls>MBH. 3,11238.</ls>
 <div n="v">— Vgl. {#prati°, varRa°, saha°, sAMsargika#} .
 <LEND>

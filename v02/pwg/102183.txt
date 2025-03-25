@@ -1,46 +1,39 @@
 <L>102183<pc>7-0419<k1>SvA<k2>SvA
-{#SvA#}¦ {#(Svi), Sva/yati#} 
-<ls>DHĀTUP. 23, 41</ls> ({#gativfdDyoH#}). {#SiSvAya#} und {#SuSAva#} 
-<ls>P. 6, 1, 30.</ls> {#SiSviyatus#} und {#SuSuvatus#} 
-<ls>Schol.</ls> <ls>VOP. 8, 142.</ls> aor. {#aSvat (aSvatAm, aSvan), aSvayIt#} und {#aSiSviyat#} 
-<ls>P. 3, 1, 49. 58. 7, 2, 5. 4, 18.</ls> 
-<ls>VOP. 8, 38. 47. 86. 125. 141.</ls> {#SvayitA#} (vgl. 
-<ls>?<is>Kār</is> 1 aus SIDDH. K. zu P. 7, 2, 10) 60.</ls> {#SUyAt#} 142. {#Svayitum#}; partic. {#SUna#} s. bes. {%anschwellen%}: {#pra\jApa^te\rakzya^Svayat#} 
-<ls>TS. 5, 3, 12, 1</ls> und öfters. infin. von Todten (vgl. {#Sava#}) 
-<ls>ŚAT. BR. 10, 6, 5, 6. 11, 8, 3, 5. 13, 4, 4, 6.</ls> {#rudato 'SiSviyaccakzurAsyaM hetostavASvayIt#} 
-<ls>BHAṬṬ. 6, 19.</ls> {#gfDrasyehASvatAM pakzO kfttO#} 31. {#SiSviyuH, SuSuvuH#} 
-<ls>14, 79.</ls> {#aSvatAM kukzI jaWaraM cApyaSiSviyat#} 
-<ls>15, 30.</ls>
-
-<div n="p">— caus. aor. {#aSUSavat#} und {#aSiSvayat#} 
-<ls>P. 6, 1, 31.</ls> 
-<ls>VOP. 8, 142. 18, 1.</ls>
-
-<div n="p">— desid. vom caus. {#SuSAvayizati#} und {#SiSvAyayizati#} 
-<ls>P. 6, 1, 31.</ls> 
-<ls>VOP. 8, 142. 19, 1.</ls>
-
-<div n="p">— intens. {#SoSUyate#} und {#SeSvIyate#} 
-<ls>P. 6, 1, 30.</ls> 
-<ls>VOP. 8, 142. 20, 1. 4.</ls> {%heftig anschwellen%}: {#SeSvIyamAnAruRarOdranetra#} 
-<ls>BHAṬṬ. 3, 30.</ls>
-
-<div n="p">— {#ud#}, partic. {#ucCUna#} {%aufgeschwollen%}: {#prabalaruditocCUnanetra#} 
-<ls>MEGH. 82.</ls> 
-<ls>Spr. (II) 5852.</ls> {#°gala#} 
-<ls>KATHĀS. 63, 185.</ls> {#SavEScirapravizwAmbusaMsekocCUnavigrahEH#} 
-<ls>RĀJA-TAR. 5, 271.</ls> {#svargagrAmawikAviluRWanavfTocCUnEH kimeBirBujEH#} 
-<ls>SĀH. D. 3, 2</ls> <ls>?= 214, 3.</ls> {#ucCUnaBAvaM gantum#} als Umschreibung von {#Svayitum#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 56.</ls> {%angeschwollen%} so v. a. {%an Umfang gewonnen habend, verstärkt%} 
-<ls>SARVADARŚANAS. 95, 1.</ls>
-
-<div n="p">— {#pra#}, partic. {#°SUna#} {%aufgeschwollen%} 
-<ls>SUŚR. 1, 120, 10.</ls>
-
-<div n="p">— {#vi#} {%anschwellen%}: {#viSva/yant#} partic. 
-<ls>ṚV. 7, 50, 1.</ls>
-
-<div n="p">— {#sam#}, partic. {#saMSUna#} {%aufgeschwollen, aufgedunsen%}: {#mAMsopaBoga°#} 
-<ls>BHAṬṬ. 9, 16.</ls> 
+{#SvA#}¦ {#(Svi), Sva/yati#}
+<ls>DHĀTUP. 23,41</ls> ({#gativfdDyoH#}). {#SiSvAya#} und {#SuSAva#}
+<ls>P. 6,1,30.</ls> {#SiSviyatus#} und {#SuSuvatus#}
+<ls>Schol.</ls> <ls>VOP. 8,142.</ls> aor. {#aSvat (aSvatAm, aSvan), aSvayIt#} und {#aSiSviyat#}
+<ls>P. 3,1,49.</ls> <ls n="P. 3,1,">58.</ls> <ls n="P.">7,2,5.</ls> <ls n="P. 7,">4,18.</ls>
+<ls>VOP. 8,38.</ls> <ls n="VOP. 8,">47.</ls> <ls n="VOP. 8,">86.</ls> <ls n="VOP. 8,">125.</ls> <ls n="VOP. 8,">141.</ls> {#SvayitA#} (vgl.
+<is>Kār</is> 1 aus <ls>SIDDH. K.</ls> zu <ls>P. 7,2,10</ls>) <ls n="VOP.">60.</ls> {#SUyAt#} <ls n="VOP. 8,">142.</ls> {#Svayitum#}; partic. {#SUna#} s. bes. {%anschwellen%}: {#pra\jApa^te\rakzya^Svayat#}
+<ls>TS. 5,3,12,1</ls> und öfters. infin. von Todten (vgl. {#Sava#})
+<ls>ŚAT. BR. 10,6,5,6.</ls> <ls n="ŚAT. BR.">11,8,3,5.</ls> <ls n="ŚAT. BR.">13,4,4,6.</ls> {#rudato 'SiSviyaccakzurAsyaM hetostavASvayIt#}
+<ls>BHAṬṬ. 6,19.</ls> {#gfDrasyehASvatAM pakzO kfttO#} 31. {#SiSviyuH, SuSuvuH#}
+<ls n="BHAṬṬ.">14,79.</ls> {#aSvatAM kukzI jaWaraM cApyaSiSviyat#}
+<ls n="BHAṬṬ.">15,30.</ls>
+<div n="p">— caus. aor. {#aSUSavat#} und {#aSiSvayat#}
+<ls>P. 6,1,31.</ls>
+<ls>VOP. 8,142.</ls> <ls n="VOP.">18,1.</ls>
+<div n="p">— desid. vom caus. {#SuSAvayizati#} und {#SiSvAyayizati#}
+<ls>P. 6,1,31.</ls>
+<ls>VOP. 8,142.</ls> <ls n="VOP.">19,1.</ls>
+<div n="p">— intens. {#SoSUyate#} und {#SeSvIyate#}
+<ls>P. 6,1,30.</ls>
+<ls>VOP. 8,142.</ls> <ls n="VOP.">20,1.</ls> <ls n="VOP. 20,">4.</ls> {%heftig anschwellen%}: {#SeSvIyamAnAruRarOdranetra#}
+<ls>BHAṬṬ. 3,30.</ls>
+<div n="p">— {#ud#}, partic. {#ucCUna#} {%aufgeschwollen%}: {#prabalaruditocCUnanetra#}
+<ls>MEGH. 82.</ls>
+<ls>Spr. (II) 5852.</ls> {#°gala#}
+<ls>KATHĀS. 63,185.</ls> {#SavEScirapravizwAmbusaMsekocCUnavigrahEH#}
+<ls>RĀJA-TAR. 5,271.</ls> {#svargagrAmawikAviluRWanavfTocCUnEH kimeBirBujEH#}
+<ls>SĀH. D. 3,2</ls> = <ls n="SĀH. D.">214,3.</ls> {#ucCUnaBAvaM gantum#} als Umschreibung von {#Svayitum#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 56.</ls> {%angeschwollen%} so v. a. {%an Umfang gewonnen habend, verstärkt%}
+<ls>SARVADARŚANAS. 95,1.</ls>
+<div n="p">— {#pra#}, partic. {#°SUna#} {%aufgeschwollen%}
+<ls>SUŚR. 1,120,10.</ls>
+<div n="p">— {#vi#} {%anschwellen%}: {#viSva/yant#} partic.
+<ls>ṚV. 7,50,1.</ls>
+<div n="p">— {#sam#}, partic. {#saMSUna#} {%aufgeschwollen, aufgedunsen%}: {#mAMsopaBoga°#}
+<ls>BHAṬṬ. 9,16.</ls>
 <div n="v">— Vgl. {#saMSvAyin#} .
 <LEND>

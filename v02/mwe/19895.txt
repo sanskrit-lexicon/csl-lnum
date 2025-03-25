@@ -1,24 +1,24 @@
 <L>19895<pc>517-b<k1>mountain<k2>mountain
-<div n="lb"/>MOUNTAIN¦, {%s.%} {#parvataH, giriH#} {%m.,%} {#SElaH, adriH#} {%m.,%} {#mahIDaraH, BUDaraH, vayu-#}
-<div n="lb"/>{#DADaraH, DaraRIDaraH, DarADaraH, mahIDraH, jagatIDaraH, BUBft#} {%m.,%} {#BUGraH, kzmA-#}
-<div n="lb"/>{#Bft#} {%m.,%} {#kzitiDaraH, urvvIDaraH, kuDraH DaraH, DaraRIkIlakaH, SiKarI#} {%m.%}
-<div n="lb"/>{#(n), pfTuSeKaraH, tuNgaSeKaraH, sAnumAn#} {%m.%} {#(t), kakudmAn#} {%m.%} {#(t). kaku-#}
-<div n="lb"/>{#dmI#} {%m.%} {#(n), nagaH, SiloccayaH, gotraH, ahAryyaH, grAvA#} {%m.%} {#(n),#}
-<div n="lb"/>{#valAhakaH, pfTunitambaH;#} ‘crest or peak of a mountain,’ {#SiKaraM,#}
-<div n="lb"/>{#giriSiKaraM, parvataSfNgaM, parvatAgraM, parvatamastakaH, kakud#} {%f.;%} ‘brow of a
-<div n="lb"/>mountain,’ {#girimUrdDA#} {%m.%} ({#-dda#}); ‘side or ridge,’ {#kawakaH, nitambaH;#}
-<div n="lb"/>‘mountain with three peaks,’ {#trikUwaH, trikakud#} {%m.;%} ‘Western
-<div n="lb"/>mountain, behind which the sun sets,’ {#astaH, caramAcalaH,#}
-<div n="lb"/>{#caramAdriH#} {%m.,%} {#caramakzmABft#} {%m.,%} {#paScimaparvataH;#} ‘Eastern mountain,
-<div n="lb"/>over which the sun rises,’ {#udayaH, udayaparvataH, udayagiriH#} {%m.,%}
-<div n="lb"/>{#udayaSElaH, udayAcalaH, udayAdriH#} {%m.,%} {#pUrvvaparvvataH;#} ‘hill near a moun-
-<div n="lb"/>tain,’ {#pAdaH, pratyantaparvataH;#} ‘land at the foot of a mountain,’
-<div n="lb"/>{#upatyakA;#} ‘on the top,’ {#aDityakA;#} ‘range of mountains,’
-<div n="lb"/>{#kulaparvataH, kulAcalaH, kulagiriH#} {%m.,%} {#kulaSElaH#}. There are seven
-<div n="lb"/>principal ranges of mountains given, viz. {#mahendraH, malayaH#}
-<div n="lb"/>{#sahyaH, SuktimAn, fkzaH, vinDyaH, pAripAtraH -trakaH#} or {#pAriyAtraH -trakaH#}.
-<div n="lb"/>Other names of celebrated mountains or mountain ranges
-<div n="lb"/>are {#himavAn, himAlayaH, himAdriH#} {%m.,%} {#hemakUwaH, AmrakUwaH, mAlyavAn#} {%m.%}
-<div n="lb"/>{#(t), nizaDaH, mEnAkaH#} also called {#hiraRyanABaH#} and {#himavatsutaH, ganDa-#}
-<div n="lb"/>{#mAdanaH, citrakUwaH, krOYcaH#} or {#kroYcaH#}.
+MOUNTAIN¦, {%s.%} {#parvataH, giriH#} {%m.,%} {#SElaH, adriH#} {%m.,%} {#mahIDaraH, BUDaraH, vayu-#}
+{#DADaraH, DaraRIDaraH, DarADaraH, mahIDraH, jagatIDaraH, BUBft#} {%m.,%} {#BUGraH, kzmA-#}
+{#Bft#} {%m.,%} {#kzitiDaraH, urvvIDaraH, kuDraH DaraH, DaraRIkIlakaH, SiKarI#} {%m.%}
+{#(n), pfTuSeKaraH, tuNgaSeKaraH, sAnumAn#} {%m.%} {#(t), kakudmAn#} {%m.%} {#(t). kaku-#}
+{#dmI#} {%m.%} {#(n), nagaH, SiloccayaH, gotraH, ahAryyaH, grAvA#} {%m.%} {#(n),#}
+{#valAhakaH, pfTunitambaH;#} ‘crest or peak of a mountain,’ {#SiKaraM,#}
+{#giriSiKaraM, parvataSfNgaM, parvatAgraM, parvatamastakaH, kakud#} {%f.;%} ‘brow of a
+mountain,’ {#girimUrdDA#} {%m.%} ({#-dda#}); ‘side or ridge,’ {#kawakaH, nitambaH;#}
+‘mountain with three peaks,’ {#trikUwaH, trikakud#} {%m.;%} ‘Western
+mountain, behind which the sun sets,’ {#astaH, caramAcalaH,#}
+{#caramAdriH#} {%m.,%} {#caramakzmABft#} {%m.,%} {#paScimaparvataH;#} ‘Eastern mountain,
+over which the sun rises,’ {#udayaH, udayaparvataH, udayagiriH#} {%m.,%}
+{#udayaSElaH, udayAcalaH, udayAdriH#} {%m.,%} {#pUrvvaparvvataH;#} ‘hill near a moun-
+tain,’ {#pAdaH, pratyantaparvataH;#} ‘land at the foot of a mountain,’
+{#upatyakA;#} ‘on the top,’ {#aDityakA;#} ‘range of mountains,’
+{#kulaparvataH, kulAcalaH, kulagiriH#} {%m.,%} {#kulaSElaH#}. There are seven
+principal ranges of mountains given, viz. {#mahendraH, malayaH#}
+{#sahyaH, SuktimAn, fkzaH, vinDyaH, pAripAtraH -trakaH#} or {#pAriyAtraH -trakaH#}.
+Other names of celebrated mountains or mountain ranges
+are {#himavAn, himAlayaH, himAdriH#} {%m.,%} {#hemakUwaH, AmrakUwaH, mAlyavAn#} {%m.%}
+{#(t), nizaDaH, mEnAkaH#} also called {#hiraRyanABaH#} and {#himavatsutaH, ganDa-#}
+{#mAdanaH, citrakUwaH, krOYcaH#} or {#kroYcaH#}.
 <LEND>

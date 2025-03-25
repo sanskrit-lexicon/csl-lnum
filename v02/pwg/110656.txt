@@ -1,20 +1,20 @@
 <L>110656<pc>7-1080<k1>supeSas<k2>supe/Sas
-{#supe/Sas#}¦ <lex>adj.</lex> 
-<ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 222.</ls> {%reich an Schmuck, schön verziert; schön, zierlich%}: {#rayi#} 
-<ls>ṚV. 1, 48, 13.</ls> Wagen 
-<ls n="ṚV. 1,">47, 2.</ls> <ls n="ṚV. 1,">49, 2.</ls> <ls>Rosse 8, 57, 16.</ls> Haus 
-<ls>5, 30, 13.</ls> Weib 
-<ls>10, 27, 12. 114, 3.</ls> <ls>TBR. 3, 1, 2, 4.</ls> {#varRa#} 
-<ls>ṚV. 2, 34, 13.</ls> {#nakto\zAsA^#} 
-<ls n="ṚV.">1, 13, 7.</ls> <ls n="ṚV. 1,">188, 6.</ls> Himmel und Erde 
-<ls n="ṚV.">6, 70, 1.</ls> {#de\vIH#} 
-<ls n="ṚV.">9, 5, 8.</ls> die <is>Aśvin</is> 
-<ls>VS. 20, 74.</ls> {#kzura#} 
-<ls>ĀŚV. GṚHY. 1, 17, 16.</ls> {#su\ma\taya^H#} 
-<ls>ṚV. 2, 32, 5.</ls> {#mantra#} 
-<ls n="ṚV.">7, 32, 13.</ls> {#vAc#} 
-<ls>ŚĀṄKH. ŚR. 7, 10, 15.</ls> 
-<ls>ṚV. 5, 57, 4.</ls> <ls n="ṚV.">9, 79, 5.</ls> <ls n="ṚV. 9,">81, 1.</ls> {#ratnAnAM padmarAgo 'smi padmakoSaH supeSasAm#} 
-<ls>BHĀG. P. 11, 16, 30.</ls> Männer 
-<ls>2, 9, 11.</ls>
+{#supe/Sas#}¦ <lex>adj.</lex>
+<ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4,222.</ls> {%reich an Schmuck, schön verziert; schön, zierlich%}: {#rayi#}
+<ls>ṚV. 1,48,13.</ls> Wagen
+<ls n="ṚV. 1,">47,2.</ls> <ls n="ṚV. 1,">49,2.</ls> Rosse <ls n="ṚV.">8,57,16.</ls> Haus
+<ls n="ṚV.">5,30,13.</ls> Weib
+<ls n="ṚV.">10,27,12.</ls> <ls n="ṚV. 10,">114,3.</ls> <ls>TBR. 3,1,2,4.</ls> {#varRa#}
+<ls>ṚV. 2,34,13.</ls> {#nakto\zAsA^#}
+<ls n="ṚV.">1,13,7.</ls> <ls n="ṚV. 1,">188,6.</ls> Himmel und Erde
+<ls n="ṚV.">6,70,1.</ls> {#de\vIH#}
+<ls n="ṚV.">9,5,8.</ls> die <is>Aśvin</is>
+<ls>VS. 20,74.</ls> {#kzura#}
+<ls>ĀŚV. GṚHY. 1,17,16.</ls> {#su\ma\taya^H#}
+<ls>ṚV. 2,32,5.</ls> {#mantra#}
+<ls n="ṚV.">7,32,13.</ls> {#vAc#}
+<ls>ŚĀṄKH. ŚR. 7,10,15.</ls>
+<ls>ṚV. 5,57,4.</ls> <ls n="ṚV.">9,79,5.</ls> <ls n="ṚV. 9,">81,1.</ls> {#ratnAnAM padmarAgo 'smi padmakoSaH supeSasAm#}
+<ls>BHĀG. P. 11,16,30.</ls> Männer
+<ls n="BHĀG. P.">2,9,11.</ls>
 <LEND>

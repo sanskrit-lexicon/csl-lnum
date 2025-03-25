@@ -1,5 +1,5 @@
 <L>11016<pc>486<k1>vessel<k2>vessel
 {@Vessel,@}¦ {%s.%} {#pAtraM, BAjanaM, BAMqaM, ADAraH#}. {@2@} {#potaH,#}
-<div n="lb"/>{#samudrayAnaM, jalayAnaM, vahitraM, nOH#}. {@3@} {#nAqI;#}
-<div n="lb"/>{%See%} {@Vein.@}
+{#samudrayAnaM, jalayAnaM, vahitraM, nOH#}. {@3@} {#nAqI;#}
+{%See%} {@Vein.@}
 <LEND>

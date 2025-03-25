@@ -1,8 +1,8 @@
 <L>15655<pc>480<k1>obey<k2>obey
-<div n="lb"/>{@OBEY:@}¦ <div n="xe">{%to o. one or one's order:%}</div> <div n="xs">{#AjYAm, nirdeSam,#}</div> etc.
-<div n="lb"/>{#pAlayati, anu-, prati-#} ({#pAl,#} c. 10.), <div n="xe">{%or%}</div> <div n="xs">{#karoti#}</div>
-<div n="lb"/>({#kf,#} c. 8.), <div n="xe">{%or%}</div> <div n="xs">{#anuvartate#}</div> ({#vft,#} c. 1.), <div n="xe">{%or%}</div> <div n="xs">{#anuviDatte#}</div>
-<div n="lb"/>({#DA,#} c. 3.), <div n="xe">{%or%}</div> <div n="xs">{#vacanaM SfRoti#}</div> ({#Sru,#} c. 5.), {%or%}
-<div n="lb"/>{#AjYAyAM#} etc. {#tizWati#} ({#sTA,#} c. 1.); {%to o. laws etc.:%}
-<div n="lb"/>{#anuvartate:#} v. To follow: v. Also to disobey.
+{@OBEY:@}¦ <div n="xe">{%to o. one or one's order:%}</div> <div n="xs">{#AjYAm, nirdeSam,#}</div> etc.
+{#pAlayati, anu-, prati-#} ({#pAl,#} c. 10.), <div n="xe">{%or%}</div> <div n="xs">{#karoti#}</div>
+({#kf,#} c. 8.), <div n="xe">{%or%}</div> <div n="xs">{#anuvartate#}</div> ({#vft,#} c. 1.), <div n="xe">{%or%}</div> <div n="xs">{#anuviDatte#}</div>
+({#DA,#} c. 3.), <div n="xe">{%or%}</div> <div n="xs">{#vacanaM SfRoti#}</div> ({#Sru,#} c. 5.), {%or%}
+{#AjYAyAM#} etc. {#tizWati#} ({#sTA,#} c. 1.); {%to o. laws etc.:%}
+{#anuvartate:#} v. To follow: v. Also to disobey.
 <LEND>

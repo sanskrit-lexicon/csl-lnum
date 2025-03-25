@@ -1,44 +1,43 @@
 <L>97002<pc>7-0006<k1>SaMsa<k2>SaMsa
-{#SaMsa#}¦ (von {#SaMs#}) 
-<div n="1"> 1) <lex>m.</lex> parox. 
-<div n="2"> a) {%Spruch, Zuruf; Anruf, Aufforderung, Gebot; Lob%} 
-<ls>ṚV. 1, 27, 13.</ls> {#pra su^nva\taH stu^va\taH SaMsa^mAvaH#} 
-<ls n="ṚV. 1,">33, 7.</ls> <ls n="ṚV. 1,">141, 6.</ls> <ls n="ṚV. 1, 141,">11.</ls> <ls n="ṚV. 1,">182, 4.</ls> {#yaja^mAnasya#} 
-<ls n="ṚV. 1,">178, 4.</ls> <ls n="ṚV.">2, 20, 7.</ls> <ls n="ṚV. 2,">31, 6.</ls> <ls n="ṚV.">10, 42, 6.</ls> {#na\rAm#} 
-<ls n="ṚV.">1, 173, 9.</ls> <ls n="ṚV.">3, 16, 4.</ls> <ls n="ṚV. 3, 16,">10.</ls> <ls n="ṚV.">6, 24, 2.</ls> {#SaMsa^mA\vide^#} 
-<ls n="ṚV.">10, 113, 3.</ls> {#u\ru\zyA Ra u\ruBi^rdeva\ SaMsE^H#} 
-<ls n="ṚV. 10,">7, 1.</ls> <ls n="ṚV.">4, 6, 11.</ls> <ls n="ṚV.">5, 3, 4.</ls> <ls n="ṚV. 5,">41, 9.</ls> {#u\BA SaMsA^ sUdaya#} 
-<ls n="ṚV.">4, 4, 14.</ls> {#u\BA SaMsA\ naryA\ mAma^vizwAm#} 
-<ls n="ṚV.">1, 185, 9.</ls> {#sa\hasra\M SaMsA^ u\ta ye gavi^zWO#} 
-<ls>VĀLAKH. 9, 3.</ls> {#prajA vE naro vAkSaMsaH#} 
-<ls>AIT. BR. 2, 2, 4.</ls> Ueber 
-<ls>ṚV. 2, 26, 1.</ls> <ls n="ṚV. 2, 26,">8.</ls> {#fjuSaMsa#} . 
-<div n="2">— b) {%Anwünschung%}: 
-<div n="3"> α) {%Verwünschung, Fluch%}: {#A\re taM SaMsa^M kfRuhi nini\tsoH#} 
-<ls>ṚV. 7, 25, 2.</ls> <ls n="ṚV. 7,">34, 12.</ls> {#va\nu\zya\taH#} 
-<ls n="ṚV. 7,">56, 19.</ls> {#ara^ruzaH#} 
-<ls n="ṚV.">1, 18, 3.</ls> <ls n="ṚV.">3, 18, 2.</ls> {#a\smAka\M SaMso^ a\Bya^stu dU\Qya^H#} 
-<ls n="ṚV.">1, 94, 8.</ls> <ls n="ṚV. 1,">166, 8.</ls> <ls n="ṚV.">8, 39, 2.</ls> <ls>TBR. 3, 7, 12, 2.</ls>
+{#SaMsa#}¦ (von {#SaMs#})
+<div n="1"> 1) <lex>m.</lex> parox.
+<div n="2"> a) {%Spruch, Zuruf; Anruf, Aufforderung, Gebot; Lob%}
+<ls>ṚV. 1,27,13.</ls> {#pra su^nva\taH stu^va\taH SaMsa^mAvaH#}
+<ls n="ṚV. 1,">33,7.</ls> <ls n="ṚV. 1,">141,6.</ls> <ls n="ṚV. 1,141,">11.</ls> <ls n="ṚV. 1,">182,4.</ls> {#yaja^mAnasya#}
+<ls n="ṚV. 1,">178,4.</ls> <ls n="ṚV.">2,20,7.</ls> <ls n="ṚV. 2,">31,6.</ls> <ls n="ṚV.">10,42,6.</ls> {#na\rAm#}
+<ls n="ṚV.">1,173,9.</ls> <ls n="ṚV.">3,16,4.</ls> <ls n="ṚV. 3,16,">10.</ls> <ls n="ṚV.">6,24,2.</ls> {#SaMsa^mA\vide^#}
+<ls n="ṚV.">10,113,3.</ls> {#u\ru\zyA Ra u\ruBi^rdeva\ SaMsE^H#}
+<ls n="ṚV. 10,">7,1.</ls> <ls n="ṚV.">4,6,11.</ls> <ls n="ṚV.">5,3,4.</ls> <ls n="ṚV. 5,">41,9.</ls> {#u\BA SaMsA^ sUdaya#}
+<ls n="ṚV.">4,4,14.</ls> {#u\BA SaMsA\ naryA\ mAma^vizwAm#}
+<ls n="ṚV.">1,185,9.</ls> {#sa\hasra\M SaMsA^ u\ta ye gavi^zWO#}
+<ls>VĀLAKH. 9,3.</ls> {#prajA vE naro vAkSaMsaH#}
+<ls>AIT. BR. 2,2,4.</ls> Ueber
+<ls>ṚV. 2,26,1.</ls> <ls n="ṚV. 2,26,">8.</ls> {#fjuSaMsa#} .
+<div n="2">— b) {%Anwünschung%}:
+<div n="3"> α) {%Verwünschung, Fluch%}: {#A\re taM SaMsa^M kfRuhi nini\tsoH#}
+<ls>ṚV. 7,25,2.</ls> <ls n="ṚV. 7,">34,12.</ls> {#va\nu\zya\taH#}
+<ls n="ṚV. 7,">56,19.</ls> {#ara^ruzaH#}
+<ls n="ṚV.">1,18,3.</ls> <ls n="ṚV.">3,18,2.</ls> {#a\smAka\M SaMso^ a\Bya^stu dU\Qya^H#}
+<ls n="ṚV.">1,94,8.</ls> <ls n="ṚV. 1,">166,8.</ls> <ls n="ṚV.">8,39,2.</ls> <ls>TBR. 3,7,12,2.</ls>
 [Page7-0007]
-
-<div n="3">— β) {%Segen%}: {#A no^ de\vAnA\mupa^ vetu\ SaMsa^H#} 
-<ls>ṚV. 10, 31, 1.</ls> {#pi\tFRAM na SaMsA^H surA\taya^H#} 
-<ls n="ṚV. 10,">78, 3.</ls> <ls n="ṚV.">7, 25, 3.</ls> 
-<div n="2">— c) personificirt neben <is>Bhaga</is> 
-<ls>ṚV. 5, 46, 3.</ls> <ls n="ṚV.">7, 35, 2</ls>; vgl. 
-<ls n="ṚV.">10, 64, 10.</ls> 
-<div n="2">— d) {#narAM SaMsaH#} 
-<ls>ṚV. 2, 34, 6</ls> wohl so v. a. {#narASaMsaH#} 
-<div n="1">— 2) <lex>f.</lex> {#A#} 
-<div n="2"> a) {%das Rühmen, Preisen%} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#taddAnasya#} 
-<ls>Spr. 3196.</ls> {#Atma°#} {%Selbstlob%} 
-<ls>2636, v. l.</ls> 
-<div n="2">— b) {%Wunsch%} 
-<ls>H. an. 2, 593</ls> (lies {#vAYCAyAM#}). 
-<ls>MED. s. 11.</ls> 
-<div n="2">— c) {%Ausspruch, Meldung%} ({#vacas#}) diess. {#priya°#} {%frohe Botschaft%} 
-<ls>R. 2, 72, 41.</ls> 
-<div n="v">— Vgl. {#aGaSaMsa#} ({%Unheil verkündend%} 
-<ls>BHĀG. P. 5, 22, 14</ls>), {#uru°, fju°, gamBIra°, jAmi°, jIva°, tUzRIM°, duH°, narA°, nf°, pAka°#} .
+<div n="3">— β) {%Segen%}: {#A no^ de\vAnA\mupa^ vetu\ SaMsa^H#}
+<ls>ṚV. 10,31,1.</ls> {#pi\tFRAM na SaMsA^H surA\taya^H#}
+<ls n="ṚV. 10,">78,3.</ls> <ls n="ṚV.">7,25,3.</ls>
+<div n="2">— c) personificirt neben <is>Bhaga</is>
+<ls>ṚV. 5,46,3.</ls> <ls n="ṚV.">7,35,2</ls>; vgl.
+<ls n="ṚV.">10,64,10.</ls>
+<div n="2">— d) {#narAM SaMsaH#}
+<ls>ṚV. 2,34,6</ls> wohl so v. a. {#narASaMsaH#}
+<div n="1">— 2) <lex>f.</lex> {#A#}
+<div n="2"> a) {%das Rühmen, Preisen%}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#taddAnasya#}
+<ls>Spr. 3196.</ls> {#Atma°#} {%Selbstlob%}
+<ls n="Spr.">2636, v. l.</ls>
+<div n="2">— b) {%Wunsch%}
+<ls>H. an. 2,593</ls> (lies {#vAYCAyAM#}).
+<ls>MED. s. 11.</ls>
+<div n="2">— c) {%Ausspruch, Meldung%} ({#vacas#}) diess. {#priya°#} {%frohe Botschaft%}
+<ls>R. 2,72,41.</ls>
+<div n="v">— Vgl. {#aGaSaMsa#} ({%Unheil verkündend%}
+<ls>BHĀG. P. 5,22,14</ls>), {#uru°, fju°, gamBIra°, jAmi°, jIva°, tUzRIM°, duH°, narA°, nf°, pAka°#} .
 <LEND>

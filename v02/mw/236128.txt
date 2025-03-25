@@ -1,4 +1,4 @@
-<L>236128<pc>1172,3<k1>sampA<k2>sam-pA<h>b<e>1
-<hom>b.</hom> <s>sam-</s>√ <hom>1.</hom> <s>pA</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-pibati</s>, <s>°te</s>, to drink together, <ls>RV.</ls>; <ls>AV.</ls>; <ls>Br.</ls>; <ls>ŚāṅkhGṛ.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-pAyayati</s>, to cause to drink together, make to drink, <ls>BhP.</ls><info verb="pre" cp="PĀ" parse="sam+pA"/>
+<L>236128<pc>1172,3<k1>sampA<k2>sam-pA<e>1
+ <s>sam-</s>√ <hom>1.</hom> <s>pA</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-pibati</s>, <s>°te</s>, to drink together, <ls>RV.</ls>; <ls>AV.</ls>; <ls>Br.</ls>; <ls>ŚāṅkhGṛ.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>-pAyayati</s>, to cause to drink together, make to drink, <ls>BhP.</ls><info verb="pre" cp="PĀ" parse="sam+pA"/><info hui="b"/>
 <LEND>

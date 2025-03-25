@@ -1,9 +1,9 @@
 <L>202838<pc>1001,2<k1>visfp<k2>vi-sfp<e>1
-<s>vi-√ sfp</s> ¦ <ab>P.</ab> <s>-sarpati</s> (<ab>mc.</ab> also <ab>Ā.</ab>; <ab>Ved.</ab> <ab>inf.</ab> <s>-sf/pas</s>), 
+<s>vi-√ sfp</s> ¦ <ab>P.</ab> <s>-sarpati</s> (<ab>mc.</ab> also <ab>Ā.</ab>; <lang>Ved.</lang> <ab>inf.</ab> <s>-sf/pas</s>),
 <div n="to"/>to glide, move along or about, sneak, steal, <ls>VS.</ls> &c. &c.;
 <div n="to"/>to fly about (as arrows), <ls>MBh.</ls>;
 <div n="to"/>to be scattered or dispersed, <ls>RV.</ls>;
 <div n="to"/>to be spread or diffused over (<ab>acc.</ab>), <ls>VS.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to spread, diffuse, divulge, <ls>BhP.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-sarpayati</s>, to spread, extend, <ls>Hariv.</ls><info verb="pre" cp="PĀ" parse="vi+sfp"/>
+<div n="vp"/><ab>Caus.</ab> <s>-sarpayati</s>, to spread, extend, <ls>Hariv.</ls><info verb="pre" cp="PĀ" parse="vi+sfp"/>
 <LEND>

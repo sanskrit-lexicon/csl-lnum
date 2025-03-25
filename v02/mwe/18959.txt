@@ -1,14 +1,14 @@
 <L>18959<pc>488-b<k1>meal<k2>meal
-<div n="lb"/>MEAL¦, {%s.%} (Flour) {#SaktuH#} {%m.,%} {#kzodaH, pizwaM, cUrRaM, goDUmacUrRaM, goDUmakzodaH,#}
-<div n="lb"/>{#apUzyaH, kzoditaM, guRqikaH -kA, samIdaH;#} ‘barley-meal,’ {#yavakzodaH#}.
-<div n="lb"/> — (Repast) {#AhAraH, BojanaM, BakzaRaM, BakzikA, aSanaM, prASanaM,#}
-<div n="lb"/>{#aByAhAraH, annaM;#} ‘good meal,’ {#suBojanaM, icCABojanaM;#} ‘poor meal,’
-<div n="lb"/>{#kuBojanaM;#} ‘light meal,’ {#laGvAhAraH, alpAhAraH, PalAhAraH;#} ‘morn-
-<div n="lb"/>ing meal,’ {#prAtarBojanaM, prAtaraSanaM, prAtarASaH;#} ‘meal at noon,’
-<div n="lb"/>{#mADyAhnikaM;#} ‘at night,’ {#rAtriBojanaM;#} ‘meal supplied by
-<div n="lb"/>another,’ {#parAnnaM;#} ‘row or party at a meal,’ {#paMktiH#} {%f.;%} ‘to
-<div n="lb"/>make a meal,’ {#AhAraM kf, BojanaM kf;#} ‘one who has made
-<div n="lb"/>a meal,’ {#kftAhAraH -rA -raM, kftaBojanaH -nA -naM;#} ‘making one's
-<div n="lb"/>meals at irregular hours,’ {#vizamaBojanaM;#} ‘meal-time,’ {#Bojana-#}
-<div n="lb"/>{#kAlaH, annakAlaH#}.
+MEAL¦, {%s.%} (Flour) {#SaktuH#} {%m.,%} {#kzodaH, pizwaM, cUrRaM, goDUmacUrRaM, goDUmakzodaH,#}
+{#apUzyaH, kzoditaM, guRqikaH -kA, samIdaH;#} ‘barley-meal,’ {#yavakzodaH#}.
+ — (Repast) {#AhAraH, BojanaM, BakzaRaM, BakzikA, aSanaM, prASanaM,#}
+{#aByAhAraH, annaM;#} ‘good meal,’ {#suBojanaM, icCABojanaM;#} ‘poor meal,’
+{#kuBojanaM;#} ‘light meal,’ {#laGvAhAraH, alpAhAraH, PalAhAraH;#} ‘morn-
+ing meal,’ {#prAtarBojanaM, prAtaraSanaM, prAtarASaH;#} ‘meal at noon,’
+{#mADyAhnikaM;#} ‘at night,’ {#rAtriBojanaM;#} ‘meal supplied by
+another,’ {#parAnnaM;#} ‘row or party at a meal,’ {#paMktiH#} {%f.;%} ‘to
+make a meal,’ {#AhAraM kf, BojanaM kf;#} ‘one who has made
+a meal,’ {#kftAhAraH -rA -raM, kftaBojanaH -nA -naM;#} ‘making one's
+meals at irregular hours,’ {#vizamaBojanaM;#} ‘meal-time,’ {#Bojana-#}
+{#kAlaH, annakAlaH#}.
 <LEND>

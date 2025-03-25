@@ -1,9 +1,9 @@
 <L>95311<pc>6-1361<k1>vedamaya<k2>vedamaya
-{#vedamaya#}¦ (von 1. {#veda#}) <lex>adj.</lex> (f. {#I#}) {%aus heiligem Wissen bestehend, dasselbe enthaltend%} 
-<ls>AIT. BR. 1, 22.</ls> {#nO#} 
-<ls>MBH. 3, 13362.</ls> {#brahmA vedamayo niDiH#} 
-<ls>12, 6780.</ls> {#brahman#} 
-<ls>HARIV. 1321.</ls> 
-<ls>BHĀG. P. 3, 8, 15. 13, 43. 5, 20, 11.</ls> {#sarva°#} 
-<ls>3, 9, 43.</ls>
+{#vedamaya#}¦ (von 1. {#veda#}) <lex>adj.</lex> (f. {#I#}) {%aus heiligem Wissen bestehend, dasselbe enthaltend%}
+<ls>AIT. BR. 1,22.</ls> {#nO#}
+<ls>MBH. 3,13362.</ls> {#brahmA vedamayo niDiH#}
+<ls n="MBH.">12,6780.</ls> {#brahman#}
+<ls>HARIV. 1321.</ls>
+<ls>BHĀG. P. 3,8,15.</ls> <ls n="BHĀG. P. 3,">13,43.</ls> <ls n="BHĀG. P.">5,20,11.</ls> {#sarva°#}
+<ls n="BHĀG. P.">3,9,43.</ls>
 <LEND>

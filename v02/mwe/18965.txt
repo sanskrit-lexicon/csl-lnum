@@ -1,25 +1,25 @@
 <L>18965<pc>489-a<k1>mean<k2>mean
-<div n="lb"/>MEAN¦, {%s.%} (Middle place, middle rate, medium) {#maDyatA -tvaM,#}
-<div n="lb"/>{#samatA, sAmyaM, maDyamaparimARaM, sAmAnyaparimARaM, samaparimARaM, sAmAnyapakzaH,#}
-<div n="lb"/>{#samapakzaH#}. — (Intervening time) {#maDyakAlaH, aByantarakAlaH, antara-#}
-<div n="lb"/>{#kAlaH, kAlAntaraM, kAlAByantaraM, antaraM, antargatakAlaH, maDyAntaraM,#}
-<div n="lb"/>{#maDyAvasaraH, maDyAvaDiH#} {%m.,%} {#avaDiH#} {%m.%} — (In geometry, &c.) {#samaM,#}
-<div n="lb"/>{#maDyaM#}. — (Instrument, means or medium through which
-<div n="lb"/>any thing is done) {#sADanaM, upAyaH, kAraRaM, upakaraRaM, karaRaM, dvAraM,#}
-<div n="lb"/>{#dvAr#} {%f.,%} {#aByupAyaH, hetuH#} {%m.,%} {#viDAnaM, karmmasADanaM, kAryyasADakaM, kAryya-#}
-<div n="lb"/>{#sADanaM, samBavaH, aNgaM, upacAraH, yogaH, gatiH#} {%f.,%} {#upapattiH#} {%f.,%} {#sAhAyyaM,#}
-<div n="lb"/>{#sADanasAmagrI -gryaM, sAmagrI, sAhityaM;#} ‘by means of,’ {#upAyena,#}
-<div n="lb"/>{#dvAreRa, dvArA, hetunA, hetoH, kAraRena;#} ‘by means of a lever,’
-<div n="lb"/>{#uttolanadaRqopAyena#} or {#uttolanadaRqadvAreRa -dvArA;#} ‘by lawful means,’
-<div n="lb"/>{#DarmmopAyena, DarmmopAyEH#} or expressed by the indecl. part.; as, ‘by
-<div n="lb"/>means of numerous experiments,’ {#anekavAraM parIkzya;#} ‘means
-<div n="lb"/>of subsistence,’ {#jIvanopAyaH, jIvanahetuH#} {%m.,%} {#upajIvakaM -vikA,#}
-<div n="lb"/>{#upajIvanaM;#} ‘by all means, in all ways,’ {#sarvvaTA, sarvvaTEva,#}
-<div n="lb"/>{#sarvvaprakAreRa;#} ‘by all means, certainly,’ {#avaSyaM, avaSyameva;#} ‘by
-<div n="lb"/>any means,’ {#kaTamapi, kaTaYcana, kaTaYcit, yaTAkaTaYcit, kaTaM kaTamapi;#}
-<div n="lb"/>‘by no means,’ {#na kaTaYcana, na kaTaYcit#}. — (Means, resources,
-<div n="lb"/>income) {#viBavaH, dravyaM, DanaM, arTaH, AyaH, AgamaH, DanAgamaH, samBavaH,#}
-<div n="lb"/>{#SaktiH#} {%f.,%} {#balaM, sAmarTyaM;#} ‘according to one's means,’ {#yaTAviBavaM,#}
-<div n="lb"/>{#yaTAsamBavaM, yaTASakti, yaTAsAmarTyaM;#} ‘having small means,’ {#alpaDanaH#}
-<div n="lb"/>{#-nA -naM, alpaviBavaH -vA -vaM#}.
+MEAN¦, {%s.%} (Middle place, middle rate, medium) {#maDyatA -tvaM,#}
+{#samatA, sAmyaM, maDyamaparimARaM, sAmAnyaparimARaM, samaparimARaM, sAmAnyapakzaH,#}
+{#samapakzaH#}. — (Intervening time) {#maDyakAlaH, aByantarakAlaH, antara-#}
+{#kAlaH, kAlAntaraM, kAlAByantaraM, antaraM, antargatakAlaH, maDyAntaraM,#}
+{#maDyAvasaraH, maDyAvaDiH#} {%m.,%} {#avaDiH#} {%m.%} — (In geometry, &c.) {#samaM,#}
+{#maDyaM#}. — (Instrument, means or medium through which
+any thing is done) {#sADanaM, upAyaH, kAraRaM, upakaraRaM, karaRaM, dvAraM,#}
+{#dvAr#} {%f.,%} {#aByupAyaH, hetuH#} {%m.,%} {#viDAnaM, karmmasADanaM, kAryyasADakaM, kAryya-#}
+{#sADanaM, samBavaH, aNgaM, upacAraH, yogaH, gatiH#} {%f.,%} {#upapattiH#} {%f.,%} {#sAhAyyaM,#}
+{#sADanasAmagrI -gryaM, sAmagrI, sAhityaM;#} ‘by means of,’ {#upAyena,#}
+{#dvAreRa, dvArA, hetunA, hetoH, kAraRena;#} ‘by means of a lever,’
+{#uttolanadaRqopAyena#} or {#uttolanadaRqadvAreRa -dvArA;#} ‘by lawful means,’
+{#DarmmopAyena, DarmmopAyEH#} or expressed by the indecl. part.; as, ‘by
+means of numerous experiments,’ {#anekavAraM parIkzya;#} ‘means
+of subsistence,’ {#jIvanopAyaH, jIvanahetuH#} {%m.,%} {#upajIvakaM -vikA,#}
+{#upajIvanaM;#} ‘by all means, in all ways,’ {#sarvvaTA, sarvvaTEva,#}
+{#sarvvaprakAreRa;#} ‘by all means, certainly,’ {#avaSyaM, avaSyameva;#} ‘by
+any means,’ {#kaTamapi, kaTaYcana, kaTaYcit, yaTAkaTaYcit, kaTaM kaTamapi;#}
+‘by no means,’ {#na kaTaYcana, na kaTaYcit#}. — (Means, resources,
+income) {#viBavaH, dravyaM, DanaM, arTaH, AyaH, AgamaH, DanAgamaH, samBavaH,#}
+{#SaktiH#} {%f.,%} {#balaM, sAmarTyaM;#} ‘according to one's means,’ {#yaTAviBavaM,#}
+{#yaTAsamBavaM, yaTASakti, yaTAsAmarTyaM;#} ‘having small means,’ {#alpaDanaH#}
+{#-nA -naM, alpaviBavaH -vA -vaM#}.
 <LEND>

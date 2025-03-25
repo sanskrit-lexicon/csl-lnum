@@ -1,44 +1,44 @@
 <L>38106<pc>4-0087<k1>nAka<k2>nA/ka
-{#nA/ka#}¦ <lex>m.</lex> 
-<div n="1"> 1) {%Himmel%}; eig. wohl {%die Himmelswölbung%} oder {%Himmelsdecke; Firmament%} ( = {#AkASa#}), {#tridiva#} 
-<ls>AK. 1, 1, 1, 1. 3, 4, 2.</ls> 
-<ls>H. 87.</ls> 
-<ls>an. 2, 10.</ls> 
-<ls>MED. k. 26</ls>; daher auch näher bestimmt als {#divo nAkaH#}, 
-z. B. {#di\va ska\mBaH samf^taH pAti\ nAka^m#} 
-<ls>ṚV. 4, 13, 5.</ls> <ls n="ṚV.">9, 73, 4.</ls> <ls n="ṚV. 9,">85, 10.</ls> {#pi\peSa\ nAka\M stfBi^H#} 
-<ls n="ṚV.">1, 60, 10.</ls> (5) {#uda^staBnA\ nAka^m#} 
-<ls n="ṚV.">7, 99, 2.</ls> {#nAka^sya pf\zWe#} 
-<ls n="ṚV.">1, 125, 5.</ls> <ls>VS. 15, 10.</ls> <ls>AV. 7, 80, 1. 18, 2, 47.</ls> <ls>MBH. 13, 4882.</ls> {#sAna^vi#} 
-<ls>ṚV. 8, 92, 2.</ls> {#nAka^sya vi\zwapa^M sva\rgo lo\ka i\ti yaM va^danti#} 
-<ls>AV. 11, 1, 7.</ls> {#nAka\mAru^haddi\vaspf\zWam#} 
-<ls>ṚV. 3, 2, 12.</ls> {#nAka^M gfBRA\nAH su^kf\tasya^ lo\ke tf\tIye^ pf\zWe aDi^ roca\ne di\vaH#} 
-<ls>VS. 15, 50.</ls> {#pra nAka^mf\zvaM nu^nude bf\hanta^m#} 
-<ls>ṚV. 7, 86, 1.</ls> {#yena\ dyOru\grA pf^Ti\vI ca^ df\|A yena\ sva^ staBi\taM yena\ nAka^H#} 
-<ls n="ṚV.">10, 121, 5.</ls> <ls>AV. 13, 1, 7.</ls> <ls>ŚAT. BR. 8, 5, 3, 4.</ls> <ls>PAÑCAV. BR. 18, 7, 10.</ls> <ls>MBH. 1, 6521.</ls> {#nAkaM na nItaM yaSaH#} 
-<ls>BHARTṚ. 3, 47.</ls> {#AnAkaraTavartman#} 
-<ls>RAGH. 1, 5. 15, 96.</ls> Häufig mit {#uttama#} 
-<ls>VS. 9, 10. 12, 63.</ls> 
-<ls>AV. 4, 14, 6. 11, 1, 4.</ls> mit {#tftIya#} 
-<ls>6, 122, 4. 9, 5, 1. 4. 18, 4, 3</ls>; vgl. {#trInnAkAn#} 
-<ls>19, 27, 4</ls> und oben unter {#trinAka#} und {#tridiva#} . Die Reihenfolge von unten nach oben: {%Erde, Luft, Himmel%} {#(dyOH)#}, {%Himmelsdecke%} {#(divo nAkaH)#},
+{#nA/ka#}¦ <lex>m.</lex>
+<div n="1"> 1) {%Himmel%}; eig. wohl {%die Himmelswölbung%} oder {%Himmelsdecke; Firmament%} ( = {#AkASa#}), {#tridiva#}
+<ls>AK. 1,1,1,1.</ls> <ls n="AK.">3,4,2.</ls>
+<ls>H. 87.</ls>
+<ls>an. 2,10.</ls>
+<ls>MED. k. 26</ls>; daher auch näher bestimmt als {#divo nAkaH#},
+z. B. {#di\va ska\mBaH samf^taH pAti\ nAka^m#}
+<ls>ṚV. 4,13,5.</ls> <ls n="ṚV.">9,73,4.</ls> <ls n="ṚV. 9,">85,10.</ls> {#pi\peSa\ nAka\M stfBi^H#}
+<ls n="ṚV.">1,60,10.</ls> (5) {#uda^staBnA\ nAka^m#}
+<ls n="ṚV.">7,99,2.</ls> {#nAka^sya pf\zWe#}
+<ls n="ṚV.">1,125,5.</ls> <ls>VS. 15,10.</ls> <ls>AV. 7,80,1.</ls> <ls n="AV.">18,2,47.</ls> <ls>MBH. 13,4882.</ls> {#sAna^vi#}
+<ls>ṚV. 8,92,2.</ls> {#nAka^sya vi\zwapa^M sva\rgo lo\ka i\ti yaM va^danti#}
+<ls>AV. 11,1,7.</ls> {#nAka\mAru^haddi\vaspf\zWam#}
+<ls>ṚV. 3,2,12.</ls> {#nAka^M gfBRA\nAH su^kf\tasya^ lo\ke tf\tIye^ pf\zWe aDi^ roca\ne di\vaH#}
+<ls>VS. 15,50.</ls> {#pra nAka^mf\zvaM nu^nude bf\hanta^m#}
+<ls>ṚV. 7,86,1.</ls> {#yena\ dyOru\grA pf^Ti\vI ca^ df\|A yena\ sva^ staBi\taM yena\ nAka^H#}
+<ls n="ṚV.">10,121,5.</ls> <ls>AV. 13,1,7.</ls> <ls>ŚAT. BR. 8,5,3,4.</ls> <ls>PAÑCAV. BR. 18,7,10.</ls> <ls>MBH. 1,6521.</ls> {#nAkaM na nItaM yaSaH#}
+<ls>BHARTṚ. 3,47.</ls> {#AnAkaraTavartman#}
+<ls>RAGH. 1,5.</ls> <ls n="RAGH.">15,96.</ls> Häufig mit {#uttama#}
+<ls>VS. 9,10.</ls> <ls n="VS.">12,63.</ls>
+<ls>AV. 4,14,6.</ls> <ls n="AV.">11,1,4.</ls> mit {#tftIya#}
+<ls n="AV.">6,122,4.</ls> <ls n="AV.">9,5,1.</ls> <ls n="AV. 9,5,">4.</ls> <ls n="AV.">18,4,3</ls>; vgl. {#trInnAkAn#}
+<ls n="AV.">19,27,4</ls> und oben unter {#trinAka#} und {#tridiva#} . Die Reihenfolge von unten nach oben: {%Erde, Luft, Himmel%} ({#dyOH#}), {%Himmelsdecke%} ({#divo nAkaH#}),
 [Page4-0088]
-{%Lichtwelt%} ({#svarjyotiH#}) findet sich 
-<ls>VS. 17, 67.</ls> 
-<ls>AV. 4, 14, 3.</ls> Schon die <is>Brāhmaṇa</is> geben die Ableitung {#na + aka; na hi tatra gatAya kasmE canAkam#} 
-<ls>ŚAT. BR. 8, 4, 1, 24.</ls> 
-<ls>PAÑCAV. BR. 10, 1, 18.</ls> 
-<ls>NIR. 2, 14.</ls> 
-<ls>P. 6, 3, 75.</ls> Als <lex>adj.</lex> {%leidlos%} erscheint das Wort neben {#viSoka#} 
-<ls>CHĀND. UP. 2, 10, 5.</ls> 
-<div n="1">— 2) angeblich auch so v. a. {%Sonne%} 
-<ls>NAIGH. 1, 4.</ls> 
-<ls>NIR. 2, 14.</ls> 
-<div n="1">— 3) N. pr. eines <is>Maudgalya</is> 
-<ls>ŚAT. BR. 12, 5, 2, 1. 14, 9, 4, 4.</ls> 
-<ls>TAITT. ĀR. 7, 8, 1</ls> <ls>?(TAITT. UP. 1, 9, 1).</ls> 
-<div n="1">— 4) Bez. {%eines mystischen Geschosses des%} <is>Arjuna</is> 
-<ls>MBH. 5, 3490.</ls> 
-<div n="1">— 5) N. einer Dynastie: {#nava nAkAstu Bokzyanti purIM campAvatIM nfpAH . maTurAM ca purIM ramyAM nAgA Bokzyanti sapta vE ..#} 
+{%Lichtwelt%} ({#svarjyotiH#}) findet sich
+<ls>VS. 17,67.</ls>
+<ls>AV. 4,14,3.</ls> Schon die <is>Brāhmaṇa</is> geben die Ableitung {#na + aka; na hi tatra gatAya kasmE canAkam#}
+<ls>ŚAT. BR. 8,4,1,24.</ls>
+<ls>PAÑCAV. BR. 10,1,18.</ls>
+<ls>NIR. 2,14.</ls>
+<ls>P. 6,3,75.</ls> Als <lex>adj.</lex> {%leidlos%} erscheint das Wort neben {#viSoka#}
+<ls>CHĀND. UP. 2,10,5.</ls>
+<div n="1">— 2) angeblich auch so v. a. {%Sonne%}
+<ls>NAIGH. 1,4.</ls>
+<ls>NIR. 2,14.</ls>
+<div n="1">— 3) N. pr. eines <is>Maudgalya</is>
+<ls>ŚAT. BR. 12,5,2,1.</ls> <ls n="ŚAT. BR.">14,9,4,4.</ls>
+<ls>TAITT. ĀR. 7,8,1</ls> (<ls>TAITT. UP. 1,9,1).</ls>
+<div n="1">— 4) Bez. {%eines mystischen Geschosses des%} <is>Arjuna</is>
+<ls>MBH. 5,3490.</ls>
+<div n="1">— 5) N. einer Dynastie: {#nava nAkAstu Bokzyanti purIM campAvatIM nfpAH . maTurAM ca purIM ramyAM nAgA Bokzyanti sapta vE ..#}
 <ls>VĀYU-P.</ls> in <ls>VP. 479, N. 70.</ls>
 <LEND>

@@ -1,8 +1,8 @@
 <L>20255<pc>632<k1>seventy<k2>seventy
-<div n="lb"/>{@SEVENTY:@}¦ {#saptatiH,#} <div n="xe">{%s. -nine:%}</div> <div n="xs">{#UnASItiH#}</div> <div n="xe">{%or%}</div> <div n="xs">{#ekonASItiH#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#navasaptatiH;#}</div> <div n="xe">{%s. -first:%}</div> <div n="xs">{#ekasaptatitamaH#}</div> ({#mI, maM#}) {%or%}
-<div n="lb"/>(rarely) {#ekasaptataH#} ({#tI, taM#}) (after S. k.); <div n="xe">{%s.-%}
-<div n="lb"/>{%fold:%}</div> <div n="xs">{#saptatiguRa#}</div> (f. {#RA#}); <div n="xe">{%seven hundred and s.-%}
-<div n="lb"/>{%five slokas:%}</div> <div n="xs">{#SlokasaptaSatI cApi paYcasaptatisaMyutA,#}</div>
-<div n="lb"/>Mah. i. 2. 304.
+{@SEVENTY:@}¦ {#saptatiH,#} <div n="xe">{%s. -nine:%}</div> <div n="xs">{#UnASItiH#}</div> <div n="xe">{%or%}</div> <div n="xs">{#ekonASItiH#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#navasaptatiH;#}</div> <div n="xe">{%s. -first:%}</div> <div n="xs">{#ekasaptatitamaH#}</div> ({#mI, maM#}) {%or%}
+(rarely) {#ekasaptataH#} ({#tI, taM#}) (after S. k.); <div n="xe">{%s.-%}
+{%fold:%}</div> <div n="xs">{#saptatiguRa#}</div> (f. {#RA#}); <div n="xe">{%seven hundred and s.-%}
+{%five slokas:%}</div> <div n="xs">{#SlokasaptaSatI cApi paYcasaptatisaMyutA,#}</div>
+Mah. i. 2. 304.
 <LEND>

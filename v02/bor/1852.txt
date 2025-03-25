@@ -1,15 +1,15 @@
 <L>1852<pc>064<k1>behave<k2>behave
-<div n="lb"/>{@BEHAVE@}¦ (v. t.): <div n="1">(1) {#Acarati#} ({#car,#} c. l), <div n="xe">{%the%}
-<div n="lb"/>{%king b. d very ungentlemanly towards Śakuntalā%}</div>
-<div n="lb"/><div n="xs">{#tena rAjYA SakuntalAyAmanAryamAcaritam,#}</div> Sa. iv.; </div><div n="1">(2)
-<div n="lb"/>{#vartate#} ({#vft,#} c. l) (with loc.) <div n="xe">{%b. politely towards%}
-<div n="lb"/>{%him%}</div> <div n="xs">{#asmin vinayena vartatAm,#}</div> U. vi.; <div n="xe">{%b. towards the%}
-<div n="lb"/>{%other wives as dear friends%}</div> <div n="xs">{#kuru priyasaKIvfttiM sapatnIjane#}</div>
-<div n="lb"/>Sa. iv.; </div><div n="1">(3) {#vyavaharati#} ({#hf,#} c. l), {%what%} ({%he%}) {%b.%}
-<div n="lb"/>{%s towards me by%} ({%asking for%}) <div n="xe">{%an interchange of%}
-<div n="lb"/>{%acts%}</div> <div n="xs">{#kaTaM kAryavinimayena mayi vyavaharati,#}</div> Mal. i.; </div><div n="1">(4)
-<div n="lb"/>{#yatate, pra-,#} ({#yat,#} c. l) (to b. persistently),
-<div n="lb"/><div n="xe">{%you should b. in such a way that she will be%}
-<div n="lb"/>{%soon your worthy attendant%}</div> <div n="xs">{#taTA prayatitavyaM yaTeya-#}
-<div n="lb"/>{#maticiramucitA paricArikA te BavatIti,#}</div> K.</div>
+{@BEHAVE@}¦ (v. t.): <div n="1">(1) {#Acarati#} ({#car,#} c. l), <div n="xe">{%the%}
+{%king b. d very ungentlemanly towards Śakuntalā%}</div>
+<div n="xs">{#tena rAjYA SakuntalAyAmanAryamAcaritam,#}</div> Sa. iv.; </div><div n="1">(2)
+{#vartate#} ({#vft,#} c. l) (with loc.) <div n="xe">{%b. politely towards%}
+{%him%}</div> <div n="xs">{#asmin vinayena vartatAm,#}</div> U. vi.; <div n="xe">{%b. towards the%}
+{%other wives as dear friends%}</div> <div n="xs">{#kuru priyasaKIvfttiM sapatnIjane#}</div>
+Sa. iv.; </div><div n="1">(3) {#vyavaharati#} ({#hf,#} c. l), {%what%} ({%he%}) {%b.%}
+{%s towards me by%} ({%asking for%}) <div n="xe">{%an interchange of%}
+{%acts%}</div> <div n="xs">{#kaTaM kAryavinimayena mayi vyavaharati,#}</div> Mal. i.; </div><div n="1">(4)
+{#yatate, pra-,#} ({#yat,#} c. l) (to b. persistently),
+<div n="xe">{%you should b. in such a way that she will be%}
+{%soon your worthy attendant%}</div> <div n="xs">{#taTA prayatitavyaM yaTeya-#}
+{#maticiramucitA paricArikA te BavatIti,#}</div> K.</div>
 <LEND>

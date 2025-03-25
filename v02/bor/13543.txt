@@ -1,5 +1,5 @@
 <L>13543<pc>416<k1>lieu<k2>lieu
-<div n="lb"/>{@LIEU:@}¦ Ph.: <div n="xe">{%in l. of:%}</div> <div n="xs">{#sTAne#}</div> {%or%} {#sTale#} (with gen.).
-<div n="lb"/>Ph.: {%read%} {#yAvat#} {%in l. of%} {#tAvat #} {#: yAvadityatra tAvaditi #}
-<div n="lb"/>{# paWa.#}
+{@LIEU:@}¦ Ph.: <div n="xe">{%in l. of:%}</div> <div n="xs">{#sTAne#}</div> {%or%} {#sTale#} (with gen.).
+Ph.: {%read%} {#yAvat#} {%in l. of%} {#tAvat #} {#: yAvadityatra tAvaditi #}
+{# paWa.#}
 <LEND>

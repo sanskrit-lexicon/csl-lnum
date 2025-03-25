@@ -1,5 +1,5 @@
 <L>10880<pc>262-b<k1>fatigue<k2>fatigue
-<div n="lb"/>FATIGUE¦, {%s.%} {#klAntiH#} {%f.,%} {#SrAntiH#} {%f.,%} {#klamaH, SramaH, AyAsaH, pariSramaH, pariSrAntiH#}
-<div n="lb"/>{%f.,%} {#KedaH, kleSaH, klamitvaM, klamaTaH, avasAdaH, glAniH#} {%f.,%} {#kazwaM, vyAyAmaH,#}
-<div n="lb"/>{#kAyakleSaH, tandrA;#} ‘inured to fatigue,’ {#jitaSramaH -mA -maM#}.
+FATIGUE¦, {%s.%} {#klAntiH#} {%f.,%} {#SrAntiH#} {%f.,%} {#klamaH, SramaH, AyAsaH, pariSramaH, pariSrAntiH#}
+{%f.,%} {#KedaH, kleSaH, klamitvaM, klamaTaH, avasAdaH, glAniH#} {%f.,%} {#kazwaM, vyAyAmaH,#}
+{#kAyakleSaH, tandrA;#} ‘inured to fatigue,’ {#jitaSramaH -mA -maM#}.
 <LEND>

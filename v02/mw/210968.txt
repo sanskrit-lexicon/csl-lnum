@@ -1,3 +1,3 @@
-<L>210968<pc>1044,3<k1>Saktiputra<k2>Sa/kti—putra<e>3
-<s>Sa/kti—putra</s> ¦ <lex>m.</lex> ‘son of <ab n="Śiva" slp1="Siva">Ś°</ab>’, <ab>N.</ab> of <s1 slp1="skanda">Skanda</s1>, <ls>L.</ls><info lex="m"/>
+<L>210968<pc>1044,3<k1>Saktiputra<k2>Sakti—putra<e>3
+<s>Sakti—putra</s> ¦ <lex>m.</lex> ‘son of <s1 n="Śiva">Ś°</s1>’, <ab>N.</ab> of <s1>Skanda</s1>, <ls>L.</ls><info lex="m"/>
 <LEND>

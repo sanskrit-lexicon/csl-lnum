@@ -1,3 +1,3 @@
-<L>155285<pc>777,2<k1>man<k2>man<h>a<e>2
-<s>man</s> <hom>a</hom> ¦ in <ab>comp.</ab> for <hom>1.</hom> <s>mad</s>.<info lexcat="LEXID=pron,STEM=asmad"/>
+<L>155285<pc>777,2<k1>man<k2>man<e>2
+<s>man</s> ¦ in <ab>comp.</ab> for <hom>1.</hom> <s>mad</s>.<info lexcat="LEXID=pron,STEM=asmad"/><info hui="a"/>
 <LEND>

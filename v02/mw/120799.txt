@@ -1,3 +1,3 @@
-<L>120799<pc>612,3<k1>pAtra<k2>pA/tra<h>1a<e>2
-<s>pA/tra</s> <hom>1a</hom> ¦ <lex>n.</lex> (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>) a drinking-vessel, goblet, bowl, cup, dish, pot, plate, utensil &c., any vessel or receptacle, <ls>RV.</ls> &c. &c. <info n="rev" pc="1330,2"/><info lex="f#A:n"/>
+<L>120799<pc>612,3<k1>pAtra<k2>pA/tra<h>1<e>2
+<hom>1.</hom> <s>pA/tra</s> ¦ <lex>n.</lex> (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>) a drinking-vessel, goblet, bowl, cup, dish, pot, plate, utensil &c., any vessel or receptacle, <ls>RV.</ls> &c. &c. <info n="rev" pc="1330,2"/><info lex="f#A:n"/>
 <LEND>

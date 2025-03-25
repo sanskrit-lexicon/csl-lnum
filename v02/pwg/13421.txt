@@ -1,12 +1,12 @@
 <L>13421<pc>1-1084<k1>ekAdaSin<k2>ekAdaSi/n
-{#ekAdaSi/n#}¦ (von {#ekAdaSan#}) 
-<div n="1"> 1) <lex>adj.</lex> {%aus Eilfen bestehend%}: {#viSve devAstrayastriMSAstrirekAdaSinaH#} 
-<ls>ŚĀṄKH. ŚR. 4, 10, 2.</ls> 
-<ls>MBH. 3, 10668.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#°SinI#} {%Eilfzahl%} 
-<ls>TS. 5, 5, 7, 1. 6, 6, 5, 1.</ls> 
-<ls>ŚAT. BR. 3, 9, 1, 4.</ls> {#yU/pEkAdaSinI#} 
-<ls>7, 1, 22.</ls> {#pa\Sve^kAdaSinI#} 
-<ls>9, 1, 23. 13, 6, 1, 6.</ls> {#rudrEkAdaSinI#} {%die eilf%} <is>Rudra</is> - {%Hymnen%} 
-<ls>YĀJÑ. 3, 309.</ls>
+{#ekAdaSi/n#}¦ (von {#ekAdaSan#})
+<div n="1"> 1) <lex>adj.</lex> {%aus Eilfen bestehend%}: {#viSve devAstrayastriMSAstrirekAdaSinaH#}
+<ls>ŚĀṄKH. ŚR. 4,10,2.</ls>
+<ls>MBH. 3,10668.</ls>
+<div n="1">— 2) <lex>f.</lex> {#°SinI#} {%Eilfzahl%}
+<ls>TS. 5,5,7,1.</ls> <ls n="TS.">6,6,5,1.</ls>
+<ls>ŚAT. BR. 3,9,1,4.</ls> {#yU/pEkAdaSinI#}
+<ls n="ŚAT. BR.">7,1,22.</ls> {#pa\Sve^kAdaSinI#}
+<ls n="ŚAT. BR.">9,1,23. 13,6,1,6.</ls> {#rudrEkAdaSinI#} {%die eilf%} <is>Rudra</is> — {%Hymnen%}
+<ls>YĀJÑ. 3,309.</ls>
 <LEND>

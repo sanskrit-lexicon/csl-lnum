@@ -1,6 +1,6 @@
 <L>9765<pc>308<k1>generalship<k2>generalship
-<div n="lb"/>{@GENERALSHIP:@}¦ <div n="I">I The office: </div><div n="1">(1) {#sEnApatyam;#}</div>
-<div n="lb"/><div n="1">(2) {#senApatitvam;#} etc.: v. General. </div><div n="I">II A
-<div n="lb"/>general's skill: </div><div n="1">(1) {#raRapARqityam;#} </div><div n="1">(2) {#yudDanEpuRyam;#}
-<div n="lb"/>etc.</div>
+{@GENERALSHIP:@}¦ <div n="I">I The office: </div><div n="1">(1) {#sEnApatyam;#}</div>
+<div n="1">(2) {#senApatitvam;#} etc.: v. General. </div><div n="I">II A
+general's skill: </div><div n="1">(1) {#raRapARqityam;#} </div><div n="1">(2) {#yudDanEpuRyam;#}
+etc.</div>
 <LEND>

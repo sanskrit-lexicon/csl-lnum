@@ -1,11 +1,11 @@
 <L>19540<pc>607<k1>rule<k2>rule
-<div n="lb"/>{@RULE@}¦ (subs.): <div n="I">I Reign, government: q. v.:
-<div n="lb"/>{#SAsanam.#} </div><div n="I">II Regulation, precept: q. v.: </div><div n="1">(1)
-<div n="lb"/>{#viDiH.#} Ph.: {%conversant with the r. s of grammar:%}
-<div n="lb"/>{#SabdaSAsanavid#} (mfn.), Si. xiv. 34.; </div><div n="1">(2)
-<div n="lb"/>{#sUtram#} (= aphorism). </div><div n="I">III An instrument: v.
-<div n="lb"/>Ruler. </div><div n="I">IV Standard measure: {#pramARam.#} Ph.:
-<div n="lb"/>{%r. of three%} (in arith.): {#trErASikam;#} <div n="xe">{%inverse r. of%}
-<div n="lb"/>{%three:%}</div> <div n="xs">{#vyastatrErASikam,#}</div> Li.; <div n="xe">{%double r.:%}</div> <div n="xs">{#paYcarASikam, #}
-<div n="lb"/>{# saptarASikam,#}</div> etc.</div>
+{@RULE@}¦ (subs.): <div n="I">I Reign, government: q. v.:
+{#SAsanam.#} </div><div n="I">II Regulation, precept: q. v.: </div><div n="1">(1)
+{#viDiH.#} Ph.: {%conversant with the r. s of grammar:%}
+{#SabdaSAsanavid#} (mfn.), Si. xiv. 34.; </div><div n="1">(2)
+{#sUtram#} (= aphorism). </div><div n="I">III An instrument: v.
+Ruler. </div><div n="I">IV Standard measure: {#pramARam.#} Ph.:
+{%r. of three%} (in arith.): {#trErASikam;#} <div n="xe">{%inverse r. of%}
+{%three:%}</div> <div n="xs">{#vyastatrErASikam,#}</div> Li.; <div n="xe">{%double r.:%}</div> <div n="xs">{#paYcarASikam, #}
+{# saptarASikam,#}</div> etc.</div>
 <LEND>

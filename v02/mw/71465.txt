@@ -1,3 +1,3 @@
-<L>71465<pc>386,1<k1>catustriMSat<k2>catus—triMSat<e>3
-<s>catus—triMSat</s> ¦ <lex>f.</lex> (<s>ca/t°</s>) 34 <ls>RV. i, 162, 18; x, 55, 3</ls>; <ls>VS.</ls><info lexcat="LEXID=card,STEM=catustriMSat"/>
+<L>71465<pc>386,1<k1>catustriMSat<k2>ca/tus—triMSat<e>3
+<s>ca/tus—triMSat</s> ¦ (<s>ca/t°</s>), <lex>f.</lex> 34 <ls>RV. i, 162, 18</ls>; <ls n="RV.">x, 55, 3</ls>; <ls>VS.</ls><info lexcat="LEXID=card,STEM=catustriMSat"/>
 <LEND>

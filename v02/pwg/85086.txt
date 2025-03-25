@@ -1,28 +1,28 @@
 <L>85086<pc>6-0406<k1>ruz<k2>ruz<h>2
-2. {#ruz#}¦ (=  1. {#ruz#}) <lex>f.</lex> (nom. {#ruw#}) 
-<ls>SIDDH. K.247,b,15.</ls> {%Ingrimm, Zorn, Wuth%} 
-<ls>AK. 1, 1, 7, 26.</ls> 
-<ls>H. 299.</ls> {#vimuYca mAnini ruzam#} 
-<ls>Spr. 1965.</ls> {#ruzA#} 
-<ls>MBH. 1, 575. 3, 2399.</ls> 
-<ls>R. 4, 5, 29.</ls> 
-<ls>VIKR. 80.</ls> 
-<ls>RAGH. 5, 21.</ls> 
-<ls>Spr. 2237. 3736.</ls> 
-<ls>KATHĀS. 12, 95. 43, 107. 45, 238.</ls> 
-<ls>RĀJA-TAR. 1, 319. 6, 253.</ls> 
-<ls>SĀH. D. 103.</ls> 
-<ls>BHĀG. P. 1, 18, 30. 3, 1, 11. 4, 1, 65. 4, 26. 18, 1.</ls> 
-<ls>MĀRK. P. 18, 36.</ls> 
-<ls>VOP. 5, 18.</ls> {#ruzoktO#} 
-<ls>AK. 3, 5, 18.</ls> {#atiruzA#} 
-<ls>MBH. 4, 459.</ls> {#ruzAM Palam#} 
-<ls>Spr. 901.</ls> 
-<ls>RĀJA-TAR. 3, 284.</ls> {#BayaruzoH#} 
-<ls>RAGH. 9, 49.</ls> {#rIrzyAruzAm#} 
-<ls>KATHĀS. 21, 9.</ls> am Ende eines <lex>adj.</lex> comp.: {#prahvezvanirbanDaruzo hi santaH#} 
-<ls>RAGH. 16, 80.</ls> {#devya ujJitarupaH#} 
-<ls>19, 20.</ls> {#saruzi nfpe#} 
-<ls>Spr. 3196.</ls> 
+2. {#ruz#}¦ (= 1. {#ruz#}) <lex>f.</lex> (nom. {#ruw#})
+<ls>SIDDH. K. 247,b,15.</ls> {%Ingrimm, Zorn, Wuth%}
+<ls>AK. 1,1,7,26.</ls>
+<ls>H. 299.</ls> {#vimuYca mAnini ruzam#}
+<ls>Spr. 1965.</ls> {#ruzA#}
+<ls>MBH. 1,575.</ls> <ls n="MBH.">3,2399.</ls>
+<ls>R. 4,5,29.</ls>
+<ls>VIKR. 80.</ls>
+<ls>RAGH. 5,21.</ls>
+<ls>Spr. 2237.</ls> <ls n="Spr.">3736.</ls>
+<ls>KATHĀS. 12,95.</ls> <ls n="KATHĀS.">43,107.</ls> <ls n="KATHĀS.">45,238.</ls>
+<ls>RĀJA-TAR. 1,319. 6,253.</ls>
+<ls>SĀH. D. 103.</ls>
+<ls>BHĀG. P. 1,18,30.</ls> <ls n="BHĀG. P.">3,1,11.</ls> <ls n="BHĀG. P.">4,1,65.</ls> <ls n="BHĀG. P. 4,">4,26.</ls> <ls n="BHĀG. P. 4,">18,1.</ls>
+<ls>MĀRK. P. 18,36.</ls>
+<ls>VOP. 5,18.</ls> {#ruzoktO#}
+<ls>AK. 3,5,18.</ls> {#atiruzA#}
+<ls>MBH. 4,459.</ls> {#ruzAM Palam#}
+<ls>Spr. 901.</ls>
+<ls>RĀJA-TAR. 3,284.</ls> {#BayaruzoH#}
+<ls>RAGH. 9,49.</ls> {#rIrzyAruzAm#}
+<ls>KATHĀS. 21,9.</ls> am Ende eines <lex>adj.</lex> comp.: {#prahvezvanirbanDaruzo hi santaH#}
+<ls>RAGH. 16,80.</ls> {#devya ujJitarupaH#}
+<ls n="RAGH.">19,20.</ls> {#saruzi nfpe#}
+<ls>Spr. 3196.</ls>
 <div n="v">— Vgl. {#a°, ati°, apa°#} .
 <LEND>

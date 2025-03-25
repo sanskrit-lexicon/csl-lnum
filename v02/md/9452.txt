@@ -1,16 +1,3 @@
 <L>9452<pc>122-3<k1>duScara<k2>duScara
-{#duScara#}¦duś-cara, {%a.%} hard to traverse; inaccessible; <lbinfo n="4"/>
-<> hard to pass ({%time%}); difficult to practise: <lbinfo n="4"/>
-<> {@-tva,@} {%n.%} difficulty of practising; {@-car-@}
-<>{@-ita@}, {%pp.%} behaving ill, doing ill deeds; {%n.%} 
-<>({@dúś-@}), ill-conduct, misdeed, folly; {@-cárman@}, 
-<>{%a.%} having a skin disease; {@-cāritra@}, {%a.%} ill-conducted; <lbinfo n="3"/>
-<> {@-cārin@}, {%a. id.%}; {@-cikitsā@}, {%f.%} wrong 
-<>medical treatment; {@-cikitsita@}, {%pp.%} hard to 
-<>cure; {@-cikitsya@}, {%fp. id.%}: {@-tva,@} {%n.%} difficulty of 
-<>curing; {@-citta@}, {%a.%} dejected, sad; {@-cetas@}, {%a.%} 
-<>ill-disposed; {@-ceṣṭā@}, {%f.%} bad conduct, perverseness; <lbinfo n="8"/>
-<> {@-ceṣṭita@}, {%pp. n. id.: pl.%} ill-doings; 
-<>{@-cyavaná@}, {%a.%} hard to overthrow, immovable; 
-<>{@-cyāva@}, {%a. id.%}; {@-chid@}, {%a.%} hard to destroy.
+{#duScara#}¦ duś-cara, <lex>a.</lex> hard to traverse; inaccessible; 🞄hard to pass ({%time%}); difficult to practise: 🞄{@-tva,@} <lex>n.</lex> difficulty of practising; {@-carita,@} <ab>pp.</ab> behaving ill, doing ill deeds; <lex>n.</lex> 🞄({@dúś-@}), ill-conduct, misdeed, folly; {@-cárman,@} 🞄<lex>a.</lex> having a skin disease; {@-cāritra,@} <lex>a.</lex> ill-conducted; 🞄{@-cārin,@} <lex>a.</lex> <ab>id.</ab>; {@-cikitsā,@} <lex>f.</lex> wrong 🞄medical treatment; {@-cikitsita,@} <ab>pp.</ab> hard to 🞄cure; {@-cikitsya,@} <ab>fp.</ab> <ab>id.</ab>: {@-tva,@} <lex>n.</lex> difficulty of 🞄curing; {@-citta,@} <lex>a.</lex> dejected, sad; {@-cetas,@} <lex>a.</lex> 🞄ill-disposed; {@-ceṣṭā,@} <lex>f.</lex> bad conduct, perverseness; 🞄{@-ceṣṭita,@} <ab>pp.</ab> <lex>n.</lex> <ab>id.</ab>: <ab>pl.</ab> ill-doings; 🞄{@-cyavaná,@} <lex>a.</lex> hard to overthrow, immovable; 🞄{@-cyāva,@} <lex>a.</lex> <ab>id.</ab>; {@-chid,@} <lex>a.</lex> hard to destroy.
 <LEND>

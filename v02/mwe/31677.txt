@@ -1,14 +1,14 @@
 <L>31677<pc>848-a<k1>year<k2>year
-<div n="lb"/>YEAR¦, {%s.%} {#vatsaraH, varzaH, saMvatsaraH, parivatsaraH, abdaH, samA, samAH#} {%m.%} {#(s),#}
-<div n="lb"/>{#saMvad#} ind., {#hAyanaH, varizaM, kAlagranTiH#} {%m.,%} {#ftuvfttiH#} {%f.,%} {#sarvvarttuparivarttaH,#}
-<div n="lb"/>{#mAsamAnaH, yugAMSakaH, Sarad#} {%f.,%} {#SaradA;#} ‘half-year,’ {#varzArdDaM, abdArdDaM,#}
-<div n="lb"/>{#zaRmAsaM, ayanaM;#} ‘last year,’ {#gatavarzaH, parut#} indec.; ‘belonging
-<div n="lb"/>to it,’ {#parutnaH -tnI -tnaM;#} ‘the present year,’ {#varttamAnavarzaH, Ezamas;#}
-<div n="lb"/>‘year before last,’ {#parAri#} indec.; ‘belonging to it,’ {#parA-#}
-<div n="lb"/>{#ritnaH -tnI -tnaM,#} ‘next year,’ {#paravarzaH, AgAmivatsaraH, uttaravatsaraH;#}
-<div n="lb"/>‘events of the year,’ {#varzaPalaM;#} ‘throughout the year, to the
-<div n="lb"/>end of it,’ {#AvarzAntAt;#} ‘for a year,’ {#varzaparyyantaM;#} ‘year after
-<div n="lb"/>year,’ {#varze varze, vatsare vatsare, prativatsaraM;#} ‘solar year,’ {#sOravarzaH;#}
-<div n="lb"/>[Page848-b+ 52]
-<div n="lb"/>‘sidereal year,’ {#ArkzavarzaH#}.
+YEAR¦, {%s.%} {#vatsaraH, varzaH, saMvatsaraH, parivatsaraH, abdaH, samA, samAH#} {%m.%} {#(s),#}
+{#saMvad#} ind., {#hAyanaH, varizaM, kAlagranTiH#} {%m.,%} {#ftuvfttiH#} {%f.,%} {#sarvvarttuparivarttaH,#}
+{#mAsamAnaH, yugAMSakaH, Sarad#} {%f.,%} {#SaradA;#} ‘half-year,’ {#varzArdDaM, abdArdDaM,#}
+{#zaRmAsaM, ayanaM;#} ‘last year,’ {#gatavarzaH, parut#} indec.; ‘belonging
+to it,’ {#parutnaH -tnI -tnaM;#} ‘the present year,’ {#varttamAnavarzaH, Ezamas;#}
+‘year before last,’ {#parAri#} indec.; ‘belonging to it,’ {#parA-#}
+{#ritnaH -tnI -tnaM,#} ‘next year,’ {#paravarzaH, AgAmivatsaraH, uttaravatsaraH;#}
+‘events of the year,’ {#varzaPalaM;#} ‘throughout the year, to the
+end of it,’ {#AvarzAntAt;#} ‘for a year,’ {#varzaparyyantaM;#} ‘year after
+year,’ {#varze varze, vatsare vatsare, prativatsaraM;#} ‘solar year,’ {#sOravarzaH;#}
+[Page848-b+ 52]
+‘sidereal year,’ {#ArkzavarzaH#}.
 <LEND>

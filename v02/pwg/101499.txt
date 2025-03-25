@@ -1,31 +1,31 @@
 <L>101499<pc>7-0343<k1>Sravas<k2>Sra/vas<h>2
 2. {#Sra/vas#}¦ (von 2. {#Sru = sru#}) <lex>n.</lex>
-<lang n="greek">ῥέος.</lang> 
-<div n="1"> 1) {%Strom, Guss%}: {#su\reta^sA\ Srava^sA\ tuYja^mAnAH#} 
-<ls>ṚV. 3, 1, 16.</ls> <ls n="ṚV.">9, 87, 5.</ls> <ls n="ṚV. 9,">110, 5.</ls> {#A pUrya^mARamavahanna\Bi Sraba^H#} {%zum Strom des%} <is>Soma</is> 
-<ls n="ṚV.">1, 51, 10.</ls> {#a\vanI^ramuYcada\Bi Sravo^ dA\vane^#} 
-<ls n="ṚV. 1,">61, 10.</ls> {#A\pyAya^mAnaH soma divi SravA^Msi Dizva#} 
-<ls n="ṚV. 1,">91, 18.</ls> 
-<div n="1">— 2) {%Lauf, Fahrt, rasche Bewegung%}: {#arva^nto\ na Srava^so\ Bikza^mARAH#} 
-<ls>ṚV. 7, 90, 7.</ls> <ls n="ṚV.">4, 41, 9.</ls> {#arvA^~ iva\ Srava^se sA\timacCa^#} 
-<ls n="ṚV.">9, 97, 25.</ls> {#Sravo^ vivide Sye\no atra^#} 
-<ls n="ṚV.">4, 26, 5.</ls> <ls n="ṚV.">1, 92, 8.</ls> <ls n="ṚV. 1,">165, 12.</ls> <ls n="ṚV.">3, 37, 7.</ls> <ls n="ṚV.">10, 102, 4.</ls> <ls n="ṚV. 10,">131, 3.</ls> {#vAjayu#} 
-<ls n="ṚV.">8, 69, 5.</ls> {#a\sma\drya1^\ksaM mi^mIhi\ SravA^Msi#} etwa {%zu uns richte deine Fahrten%} (wonach unter 3. {#mA#} mit {#sam#} 
-<div n="1"> 4) zu ändern wäre) 
-<ls n="ṚV.">3, 54, 22.</ls> {#a\Bi Srava\ fjya^nto vaheyuH#} 
-<ls n="ṚV.">6, 37, 3.</ls> {#aDi\ SravA^Msi Dehi nasta\nUzu^#} 
-<ls n="ṚV.">3, 19, 5.</ls> {#a\Bi Sravo^BiH pfTi\vIM ba^BUva#} {%im Fluge%} 
-<ls n="ṚV. 3,">59, 7.</ls> <ls n="ṚV.">6, 1, 11.</ls> 
-<div n="1">— 3) {%Bahn, Bett%}: {#ajI^janatsuvi\tAya\ SravA^Msi#} 
-<ls>ṚV. 7, 79, 3.</ls> {#Srava\ ide\nA pa\ro a\nyada^sti tada^vya\TI ja^ri\mARa^staranti#} 
-<ls n="ṚV.">10, 27, 21.</ls> Auch einige der Stellen unter 
-<div n="1"> 1) lassen sich hierher ziehen. 
-<div n="1">— 4) nach den Comm. so v. a. {#anna#} 
-<ls>NAIGH. 2, 7.</ls> 
-<ls>NIR. 10, 3.</ls> bei <ls>SĀY.</ls> namentlich an den Stellen, wo der <is>Soma</is> gemeint ist. 
-<div n="1">— 5) so v. a. {#Dana#} 
-<ls>NIGH. 2, 10.</ls> <ls>NIR. 4, 24.</ls> 
-<div n="v">— Vgl. {#gATa°#} (nachzutragen <lex>adj.</lex> {%dem Gesang zueilend%}, nach 
-<ls>SĀY.</ls> {%dessen Ruhm zu besingen ist%} 
-<ls>ṚV. 8, 2, 38</ls>), {#vasu°, vAja°, vfdDa°#} .
+<lang n="greek">ῥέος</lang>.
+<div n="1"> 1) {%Strom, Guss%}: {#su\reta^sA\ Srava^sA\ tuYja^mAnAH#}
+<ls>ṚV. 3,1,16.</ls> <ls n="ṚV.">9,87,5.</ls> <ls n="ṚV. 9,">110,5.</ls> {#A pUrya^mARamavahanna\Bi Sraba^H#} {%zum Strom des%} <is>Soma</is>
+<ls n="ṚV.">1,51,10.</ls> {#a\vanI^ramuYcada\Bi Sravo^ dA\vane^#}
+<ls n="ṚV. 1,">61,10.</ls> {#A\pyAya^mAnaH soma divi SravA^Msi Dizva#}
+<ls n="ṚV. 1,">91,18.</ls>
+<div n="1">— 2) {%Lauf, Fahrt, rasche Bewegung%}: {#arva^nto\ na Srava^so\ Bikza^mARAH#}
+<ls>ṚV. 7,90,7.</ls> <ls n="ṚV.">4,41,9.</ls> {#arvA^~ iva\ Srava^se sA\timacCa^#}
+<ls n="ṚV.">9,97,25.</ls> {#Sravo^ vivide Sye\no atra^#}
+<ls n="ṚV.">4,26,5.</ls> <ls n="ṚV.">1,92,8.</ls> <ls n="ṚV. 1,">165,12.</ls> <ls n="ṚV.">3,37,7.</ls> <ls n="ṚV.">10,102,4.</ls> <ls n="ṚV. 10,">131,3.</ls> {#vAjayu#}
+<ls n="ṚV.">8,69,5.</ls> {#a\sma\drya1^\ksaM mi^mIhi\ SravA^Msi#} etwa {%zu uns richte deine Fahrten%} (wonach unter 3. {#mA#} mit {#sam#}
+<div n="1"> 4) zu ändern wäre)
+<ls n="ṚV.">3,54,22.</ls> {#a\Bi Srava\ fjya^nto vaheyuH#}
+<ls n="ṚV.">6,37,3.</ls> {#aDi\ SravA^Msi Dehi nasta\nUzu^#}
+<ls n="ṚV.">3,19,5.</ls> {#a\Bi Sravo^BiH pfTi\vIM ba^BUva#} {%im Fluge%}
+<ls n="ṚV. 3,">59,7.</ls> <ls n="ṚV.">6,1,11.</ls>
+<div n="1">— 3) {%Bahn, Bett%}: {#ajI^janatsuvi\tAya\ SravA^Msi#}
+<ls>ṚV. 7,79,3.</ls> {#Srava\ ide\nA pa\ro a\nyada^sti tada^vya\TI ja^ri\mARa^staranti#}
+<ls n="ṚV.">10,27,21.</ls> Auch einige der Stellen unter
+<div n="1"> 1) lassen sich hierher ziehen.
+<div n="1">— 4) nach den Comm. so v. a. {#anna#}
+<ls>NAIGH. 2,7.</ls>
+<ls>NIR. 10,3.</ls> bei <ls>SĀY.</ls> namentlich an den Stellen, wo der <is>Soma</is> gemeint ist.
+<div n="1">— 5) so v. a. {#Dana#}
+<ls>NIGH. 2,10.</ls> <ls>NIR. 4,24.</ls>
+<div n="v">— Vgl. {#gATa°#} (nachzutragen <lex>adj.</lex> {%dem Gesang zueilend%}, nach
+<ls>SĀY.</ls> {%dessen Ruhm zu besingen ist%}
+<ls>ṚV. 8,2,38</ls>), {#vasu°, vAja°, vfdDa°#} .
 <LEND>

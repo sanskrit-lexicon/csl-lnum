@@ -1,22 +1,22 @@
 <L>30785<pc>3-0416<k1>trayastriMSat<k2>tra/yastriMSat
-{#tra/yastriMSat#}¦ ({#trayas + triMSat#}) <lex>f.</lex> {%dreiunddreissig%} 
-<ls>P. 6, 3, 49. 2, 35</ls> (nach dem Schol. viell. {#traya/°#}). 
-<ls>VS. 14, 31.</ls> 
-<ls>AV. 6, 139, 1. 11, 5, 2. 19, 37, 1.</ls> {#devAH#} 
-<ls>10, 7, 13. 23. 27. 12, 3, 16. 19, 27, 10.</ls> {#trayastriMSato vE sa devAnAM pApmano 'pAhan#} 
-<ls>AIT. BR. 6, 2.</ls> {#azwO vasavaH . ekAdaSa rudrA dvAdaSAdityA ime eva dyAvApfTivI trayastriMSyO trayastriMSadvE devAH prajApatiScatustriMSaH#} 
-<ls>ŚAT. BR. 4, 5, 7, 2.</ls> {#katame te trayastriMSadityazwO vasava ekAdaSa rudrA dvAdaSAdityAsta ekatriMSadindraScEva prajApatiSca trayastriMSAviti#} 
-<ls>11, 6, 3, 5.</ls> {#vazawkAra#} st. {#indra#} ved. Cit. in 
-<ls>VP. 123,</ls> 
-<ls>N. 27.</ls> 
-<ls>MBH. 1, 2601</ls> ({#trayastriMSata ityete devAH#}). 
-<ls>3, 171. 14019. 4, 1767. 13, 7102.</ls> <ls>R. 1, 41, 5. 2, 11, 12.</ls> {#aditirjanayAmAsa trayastriMSat#} (acc.!) {#SuBAnsurAn . AdityAMSca vasUMScEva rudrAMScEvASvinAvapi ..#} 
-<ls>3, 20, 15.</ls> bei den Buddhisten 
-<ls>LALIT. 58 u.s.w.</ls> <ls>WASSILJEW 7. 158. 198. 33</ls> Töchter des <is>Prajāpati</is> 
-<ls>TS. 2, 3, 5, 1.</ls> - <ls>ŚAT. BR. 3, 5, 1, 8. 4, 5, 8, 1 u.s.w.</ls> du. <ls>LĀṬY. 4, 1, 3.</ls> pl. <ls>8, 6, 27.</ls> {#°Sadakzara#} 
-<ls>AIT. BR. 1, 10.</ls> 
-<ls>ŚAT. BR. 3, 5, 1, 8. 10, 5, 4, 8.</ls> {#°SadrAtra#} 
-<ls>KĀTY. ŚR. 24, 2, 24.</ls> 
-<ls>ŚĀṄKH. ŚR. 13, 17, 1.</ls> {#prajApateH trayastriMSatsaMmitam#} N. eines <is>Sāman</is> 
-<ls>Ind. St. 3, 224.</ls>
+{#tra/yastriMSat#}¦ ({#trayas + triMSat#}) <lex>f.</lex> {%dreiunddreissig%}
+<ls>P. 6,3,49.</ls> <ls n="P. 6,">2,35</ls> (nach dem Schol. viell. {#traya/°#}).
+<ls>VS. 14,31.</ls>
+<ls>AV. 6,139,1.</ls> <ls n="AV.">11,5,2.</ls> <ls n="AV.">19,37,1.</ls> {#devAH#}
+<ls n="AV.">10,7,13.</ls> <ls n="AV. 10,7,">23.</ls> <ls n="AV. 10,7,">27.</ls> <ls n="AV.">12,3,16.</ls> <ls n="AV.">19,27,10.</ls> {#trayastriMSato vE sa devAnAM pApmano 'pAhan#}
+<ls>AIT. BR. 6,2.</ls> {#azwO vasavaH . ekAdaSa rudrA dvAdaSAdityA ime eva dyAvApfTivI trayastriMSyO trayastriMSadvE devAH prajApatiScatustriMSaH#}
+<ls>ŚAT. BR. 4,5,7,2.</ls> {#katame te trayastriMSadityazwO vasava ekAdaSa rudrA dvAdaSAdityAsta ekatriMSadindraScEva prajApatiSca trayastriMSAviti#}
+<ls n="ŚAT. BR.">11,6,3,5.</ls> {#vazawkAra#} st. {#indra#} ved. Cit. in
+<ls>VP. 123</ls>,
+<ls>N. 27.</ls>
+<ls>MBH. 1,2601</ls> ({#trayastriMSata ityete devAH#}).
+<ls n="MBH.">3,171.</ls> <ls n="MBH. 3,">14019.</ls> <ls n="MBH.">4,1767.</ls> <ls n="MBH.">13,7102.</ls> <ls>R. 1,41,5.</ls> <ls n="R.">2,11,12.</ls> {#aditirjanayAmAsa trayastriMSat#} (acc.!) {#SuBAnsurAn . AdityAMSca vasUMScEva rudrAMScEvASvinAvapi ..#}
+<ls n="R.">3,20,15.</ls> bei den Buddhisten
+<ls>LALIT. 58</ls> u.s.w. <ls>WASSILJEW 7. 158. 198. 33</ls> Töchter des <is>Prajāpati</is>
+<ls>TS. 2,3,5,1.</ls> — <ls>ŚAT. BR. 3,5,1,8. 4,5,8,1</ls> u.s.w. du. <ls>LĀṬY. 4,1,3.</ls> pl. <ls n="LĀṬY.">8,6,27.</ls> {#°Sadakzara#}
+<ls>AIT. BR. 1,10.</ls>
+<ls>ŚAT. BR. 3,5,1,8.</ls> <ls n="ŚAT. BR.">10,5,4,8.</ls> {#°SadrAtra#}
+<ls>KĀTY. ŚR. 24,2,24.</ls>
+<ls>ŚĀṄKH. ŚR. 13,17,1.</ls> {#prajApateH trayastriMSatsaMmitam#} N. eines <is>Sāman</is>
+<ls>Ind. St. 3,224.</ls>
 <LEND>

@@ -1,10 +1,10 @@
 <L>7086<pc>306<k1>news<k2>news
 {@News,@}¦ {%s.%} {#vArtA, vfttAMtaH, pravftti#} {%f.,%} {#udaMtaH,#}
-<div n="lb"/>{#samAcAraH, vfttaM#}. {@2@} {#saMvAdaH, janavAdaH-Sruti#}
-<div n="lb"/>{%f.,%} {#lokapravAMdaH, kiMvadaMtI;#} ‘good n.’ {#BadraM,#}
-<div n="lb"/>{#SuBaM, SuBavArtA;#} ‘ill n.’ {#aSuBaM, aSuBa-#}
-<div n="lb"/>{#-vArtA;#} ‘ill n. travels fast’ {#aSuBavArtA#}
-<div n="lb"/>{#satvaraM bahulIBavati;#} ‘n.-monger’ {#vArtA-#}
-<div n="lb"/>{#-vfttiH, vArtAyanaH, vArtAvahanavfttiH,#} ‘n. paper’
-<div n="lb"/>{#vArtA-samAcAra-patraM, vfttapatraM#}.
+{#samAcAraH, vfttaM#}. {@2@} {#saMvAdaH, janavAdaH-Sruti#}
+{%f.,%} {#lokapravAMdaH, kiMvadaMtI;#} ‘good n.’ {#BadraM,#}
+{#SuBaM, SuBavArtA;#} ‘ill n.’ {#aSuBaM, aSuBa-#}
+{#-vArtA;#} ‘ill n. travels fast’ {#aSuBavArtA#}
+{#satvaraM bahulIBavati;#} ‘n.-monger’ {#vArtA-#}
+{#-vfttiH, vArtAyanaH, vArtAvahanavfttiH,#} ‘n. paper’
+{#vArtA-samAcAra-patraM, vfttapatraM#}.
 <LEND>

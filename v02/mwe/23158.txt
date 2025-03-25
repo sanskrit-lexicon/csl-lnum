@@ -1,8 +1,8 @@
 <L>23158<pc>614-b<k1>precedence<k2>precedence
-<div n="lb"/>PRECEDENCE¦, PRECEDENCY, {%s.%} (Going before) {#purogatiH#} {%f.,%} {#purogamanaM,#}
-<div n="lb"/>{#agragatiH#} {%f.,%} {#agragamanaM, agrasaraRaM, agrataHsaraRaM, agresaraRaM, agravarttanaM,#}
-<div n="lb"/>{#agravarttitvaM#}. — (In rank) {#agrapadaM, agrapadavarttanaM, SrezWapadaM, SrezWapadavarttanaM,#}
-<div n="lb"/>{#agramAnaM, agramAnyatA, agragaRyatA, agrapUjA, agrapUjyatA, agramAnArhatA#}
-<div n="lb"/>{#-tvaM, aDikapadaM, aDikamAnArhatA, SrezWatA, prAgBAvaH, SrEzwayaM, muKyatA,#}
-<div n="lb"/>{#praDAnatA, prADAnyaM, praTamatA, prATamyaM, AditvaM, utkarzaH#}.
+PRECEDENCE¦, PRECEDENCY, {%s.%} (Going before) {#purogatiH#} {%f.,%} {#purogamanaM,#}
+{#agragatiH#} {%f.,%} {#agragamanaM, agrasaraRaM, agrataHsaraRaM, agresaraRaM, agravarttanaM,#}
+{#agravarttitvaM#}. — (In rank) {#agrapadaM, agrapadavarttanaM, SrezWapadaM, SrezWapadavarttanaM,#}
+{#agramAnaM, agramAnyatA, agragaRyatA, agrapUjA, agrapUjyatA, agramAnArhatA#}
+{#-tvaM, aDikapadaM, aDikamAnArhatA, SrezWatA, prAgBAvaH, SrEzwayaM, muKyatA,#}
+{#praDAnatA, prADAnyaM, praTamatA, prATamyaM, AditvaM, utkarzaH#}.
 <LEND>

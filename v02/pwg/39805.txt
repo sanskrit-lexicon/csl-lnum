@@ -1,20 +1,20 @@
 <L>39805<pc>4-0220<k1>nivarhaRa<k2>nivarhaRa
-{#nivarhaRa#}¦ und {#nibarhaRa#} (von {#varh, barh#} mit {#ni#}) 
-<div n="1"> 1) <lex>adj.</lex> {%vernichtend, vertilgend, beseitigend, vertreibend%}: {#kzatriyARAM nivarhaRam (DanuH)#} 
-<ls>MBH. 3, 8659.</ls> {#vftra° (vajra)#} 
-<ls>1, 6485.</ls> {#ari°#} 
-<ls>2, 1231.</ls> {#Satru°#} 
-<ls>3, 14721. 4, 175. 5, 7276.</ls> <ls>INDR. 1, 1.</ls> <ls>ARJ. 10, 55.</ls> <ls>HARIV. 701.</ls> <ls>R. 1, 1, 11. 3, 12, 18. 6, 86, 20.</ls> {#mfgavyAla°#} 
-<ls>3, 7, 6.</ls> {#tato 'gniH saMprajajvAla daSagrIvanivarhaRaH#} (bei der Leichenverbrennung) 
-<ls>6, 96, 17.</ls> <ls>RĀJA-TAR. 4, 83</ls> (wohl {#garhyani°#} zu lesen). {#sarvavyADi°#} 
-<ls>SUŚR. 1, 166, 11. 233, 16. 165, 9.</ls> {#pitta°#} 
-<ls>196, 12. 2, 346, 17.</ls> {#doza°#} 
-<ls>462, 19</ls> (wo viell. {#navarhaRAn#} zu lesen ist). 
-<div n="1">— 2) <lex>n.</lex> {%das Vernichten, Vertilgen%} 
-<ls>AK. 2, 8, 2, 81.</ls> 
-<ls>H. 370.</ls> 
-<ls>HALĀY. 2, 322.</ls> 
-<ls>MBH. 1, 7410. 8199.</ls> {#Satru°#} 
-<ls>?4, 684. 5, 913. 2611. 6, 3270. 12, 2356. 3846. HARIV. 689. 692. 6825. 14444. 16349. R. 1, 3, 20. 30 (25 GORR.). 6, 16, 3. 74, 31. MĀRK. P. 17, 13.</ls> — Fehlerhaft für {#nirvahaRa#} 
-<ls>COLEBR.</ls> und <ls>Lois.</ls> zu <ls>AK. 1, 1, 7, 15.</ls> <ls>Spr. 365, v. l.</ls>
+{#nivarhaRa#}¦ und {#nibarhaRa#} (von {#varh, barh#} mit {#ni#})
+<div n="1"> 1) <lex>adj.</lex> {%vernichtend, vertilgend, beseitigend, vertreibend%}: {#kzatriyARAM nivarhaRam (DanuH)#}
+<ls>MBH. 3,8659.</ls> {#vftra° (vajra)#}
+<ls n="MBH.">1,6485.</ls> {#ari°#}
+<ls n="MBH.">2,1231.</ls> {#Satru°#}
+<ls n="MBH.">3,14721.</ls> <ls n="MBH.">4,175.</ls> <ls n="MBH.">5,7276.</ls> <ls>INDR. 1,1.</ls> <ls>ARJ. 10,55.</ls> <ls>HARIV. 701.</ls> <ls>R. 1,1,11.</ls> <ls n="R.">3,12,18</ls> <ls n="R.">6,86,20.</ls> {#mfgavyAla°#}
+<ls n="R.">3,7,6.</ls> {#tato 'gniH saMprajajvAla daSagrIvanivarhaRaH#} (bei der Leichenverbrennung)
+<ls n="R.">6,96,17.</ls> <ls>RĀJA-TAR. 4,83</ls> (wohl {#garhyani°#} zu lesen). {#sarvavyADi°#}
+<ls>SUŚR. 1,166,11. 233,16. 165,9.</ls> {#pitta°#}
+<ls n="SUŚR.">196,12. 2,346,17.</ls> {#doza°#}
+<ls n="SUŚR.">462,19</ls> (wo viell. {#navarhaRAn#} zu lesen ist).
+<div n="1">— 2) <lex>n.</lex> {%das Vernichten, Vertilgen%}
+<ls>AK. 2,8,2,81.</ls>
+<ls>H. 370.</ls>
+<ls>HALĀY. 2,322.</ls>
+<ls>MBH. 1,7410.</ls> <ls n="MBH. 1,">8199.</ls> {#Satru°#}
+<ls n="MBH.">4,684.</ls> <ls n="MBH.">5,913.</ls> <ls n="MBH. 5,">2611.</ls> <ls n="MBH.">6,3270.</ls> <ls n="MBH.">12,2356.</ls> <ls n="MBH. 12,">3846.</ls> <ls>HARIV. 689.</ls> <ls n="HARIV.">692.</ls> <ls n="HARIV.">6825.</ls> <ls n="HARIV.">14444.</ls> <ls n="HARIV.">16349.</ls> <ls>R. 1,3,20.</ls> <ls n="R. 1,3,">30</ls> (<ls n="GORR. 1,3,">25</ls> <ls>GORR.</ls>). <ls n="R.">6,16,3.</ls> <ls n="R. 6,">74,31.</ls> <ls>MĀRK. P. 17,13.</ls> — Fehlerhaft für {#nirvahaRa#}
+<ls>COLEBR.</ls> und <ls>Lois.</ls> zu <ls>AK. 1,1,7,15.</ls> <ls>Spr. 365, v. l.</ls>
 <LEND>

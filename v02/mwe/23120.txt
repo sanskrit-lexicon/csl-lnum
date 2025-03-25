@@ -1,5 +1,5 @@
 <L>23120<pc>613-b<k1>praiser<k2>praiser
-<div n="lb"/>PRAISER¦, {%s.%} {#praSaMsakaH, stotA#} {%m.%} {#(tf), praSaMsitA#} {%m.%} {#(tf), SaMsitA#} {%m.,%}
-<div n="lb"/>{#SaMstA#} {%m.%} {#(stf), stAvakaH, praSaMsAkft#} {%m.,%} {#varRakaH, stutipAWakaH, vandI#} {%m.%}
-<div n="lb"/>{#(n), stutikArakaH, stavanakft#} {%m.%}
+PRAISER¦, {%s.%} {#praSaMsakaH, stotA#} {%m.%} {#(tf), praSaMsitA#} {%m.%} {#(tf), SaMsitA#} {%m.,%}
+{#SaMstA#} {%m.%} {#(stf), stAvakaH, praSaMsAkft#} {%m.,%} {#varRakaH, stutipAWakaH, vandI#} {%m.%}
+{#(n), stutikArakaH, stavanakft#} {%m.%}
 <LEND>

@@ -1,10 +1,10 @@
 <L>2867<pc>106<k1>die<k2>die
 {@Die,@}¦ {%s.%} {#akzaH, pASakaH, devanaH;#} ‘a loaded d.’
-<div n="lb"/>{#kUwAkzaH#}. {@-Dice,@} (pl) {#akzAH,#} &c. {%-v. i.%}
-<div n="lb"/>{#akzEH div#} 4 P, {#glah#} 1 P. {@-er,@} {%s.%} {#akzaDUrtaH,#}
-<div n="lb"/>{#akzadevin#} {%m.%} {#DUrtaH, kitavaH#}. {@-ing,@} {%s.%} {#dyUtaM,#}
-<div n="lb"/>{#akzakrIqA;#} ‘d board’ {#azwApadaM, SAriPalaM;#}
-<div n="lb"/>‘d. box’ {#akzADAraH;#} ‘the die is cast’
-<div n="lb"/>{#kftaM dEvADInaM#} ({#aprativiDeyaM#}) {#karma, aDunA ya-#}
-<div n="lb"/>{#-dBAvi tadBavatu#}.
+{#kUwAkzaH#}. {@-Dice,@} (pl) {#akzAH,#} &c. {%-v. i.%}
+{#akzEH div#} 4 P, {#glah#} 1 P. {@-er,@} {%s.%} {#akzaDUrtaH,#}
+{#akzadevin#} {%m.%} {#DUrtaH, kitavaH#}. {@-ing,@} {%s.%} {#dyUtaM,#}
+{#akzakrIqA;#} ‘d board’ {#azwApadaM, SAriPalaM;#}
+‘d. box’ {#akzADAraH;#} ‘the die is cast’
+{#kftaM dEvADInaM#} ({#aprativiDeyaM#}) {#karma, aDunA ya-#}
+{#-dBAvi tadBavatu#}.
 <LEND>

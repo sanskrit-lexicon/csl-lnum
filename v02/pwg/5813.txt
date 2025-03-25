@@ -1,38 +1,37 @@
 <L>5813<pc>1-0422<k1>arGa<k2>arGa/
-{#arGa/#}¦ (von {#arh#}) <is>gaṇa</is> {#nyaNkvAdi#} . <lex>m.</lex> 
-<ls>SIDDH. K.250</ls>, {%a%}, 
-<ls>?3. m. n. 251</ls>, {%a%}, ult. 
-<div n="1"> 1) {%Werth, Geltung, Preis%}, <lex>m.</lex> 
-<ls>AK. 3, 4, 28.</ls> 
-<ls>H. an. 2, 52.</ls> 
-<ls>MED. gh. 2.</ls> {#arGabalAvalam#} 
-<ls>M. 9, 329.</ls> {#kuryurarGaM yaTApaRyam#} 
-<ls>M. 8, 398.</ls> {#kurvIti cEzAM pratyakzamarGasaMsTApanaM nfpaH#} 
-<ls>402.</ls> {#arGaM kar#} 
-<ls>YĀJÑ. 2, 249.</ls> {#rAjani sTApyate yo 'rGaH#} 
-<ls>251.</ls> {#arGasya hrAsaM vfdDiM vA jAnatAm#} 
-<ls>249.</ls> {#maRayo yErarGataH#} (so ist zu lesen für {#arDyataH) pAtitAH#} 
-<ls>BHARTṚ. 2, 12.</ls> {#anarGa#} {%ein unrichtiger Preis%} 
-<ls>YĀJÑ. 2, 250.</ls> am Ende eines <lex>adj.</lex> comp.: {#sa\ha\srA\rGami\Lo atra^ BA\gaM#} ({%tausendfältigen Theil%}) {#rA\yaspoza\M yaja^mAnezu Dehi#} 
-<ls>ṚV. 10, 17, 9.</ls> {#bf\hatte^ jA\taM bf^ha\ta i^ndra SUra sahasrA\rGasya^#} ({%Tausenden gleichgeltend, sie aufwiegend%}) {#Sa\tavI^ryasya#} 
-<ls>AV. 8, 8.7.</ls>
+{#arGa/#}¦ (von {#arh#}) <is>gaṇa</is> {#nyaNkvAdi#} . <lex>m.</lex> <ls>SIDDH. K. 250,a,3.</ls>
+<lex>m.</lex> <lex>n.</lex> <ls n="SIDDH. K.">251,a, ult.</ls>
+<div n="1"> 1) {%Werth, Geltung, Preis%}, <lex>m.</lex>
+<ls>AK. 3,4,28.</ls>
+<ls>H. an. 2,52.</ls>
+<ls>MED. gh. 2.</ls> {#arGabalAvalam#}
+<ls>M. 9,329.</ls> {#kuryurarGaM yaTApaRyam#}
+<ls>M. 8,398.</ls> {#kurvIti cEzAM pratyakzamarGasaMsTApanaM nfpaH#}
+<ls n="M. 8,">402.</ls> {#arGaM kar#}
+<ls>YĀJÑ. 2,249.</ls> {#rAjani sTApyate yo 'rGaH#}
+<ls n="YĀJÑ. 2,">251.</ls> {#arGasya hrAsaM vfdDiM vA jAnatAm#}
+<ls n="YĀJÑ. 2,">249.</ls> {#maRayo yErarGataH#} (so ist zu lesen für {#arDyataH) pAtitAH#}
+<ls>BHARTṚ. 2,12.</ls> {#anarGa#} {%ein unrichtiger Preis%}
+<ls>YĀJÑ. 2,250.</ls> am Ende eines <lex>adj.</lex> comp.: {#sa\ha\srA\rGami\Lo atra^ BA\gaM#} ({%tausendfältigen Theil%}) {#rA\yaspoza\M yaja^mAnezu Dehi#}
+<ls>ṚV. 10,17,9.</ls> {#bf\hatte^ jA\taM bf^ha\ta i^ndra SUra sahasrA\rGasya^#} ({%Tausenden gleichgeltend, sie aufwiegend%}) {#Sa\tavI^ryasya#}
+<ls>AV. 8,8,7.</ls>
 [Page1-0423]
-{#SatArGa/#} 
-<ls>ŚAT. BR. 7, 2, 4, 26.</ls> {#mahArGa#} {%von grossem Werth%} 
-<ls>KATHĀS. 21, 86.</ls> {#anarGa#} {%unschätzbar%} 
-<ls>24, 148. 172</ls>; vgl. u. {#arDya#} 1,a. 
-<div n="1">— 2) {%Ehrengabe%} 
-<ls>AK. 3, 4, 28. 2, 7, 32.</ls> 
-<ls>H. 500.</ls> 
-<ls>an. 2, 52.</ls> 
-<ls>MED. gh. 2.</ls> {#aTa hAsmA arGaM#} 
-<ls>?(RÖER.:</ls> {#arGyaM#}) {#cakAra#} 
-<ls>ŚAT. BR. 14, 9, 1, 7</ls> <ls>?(= BṚH. ĀR. UP. 6, 2, 4).</ls> {#tasyArGamAsanaM cEva gAM cAvedya#} 
-<ls>SĀV. 3, 6</ls> <ls>?(MBH. 3, 16696:</ls> {#arDyam#}). {#dattvArGam#} 
-<ls>YĀJÑ. 1, 234.</ls> {#dUrvasarzapARAM dattvArGaM pUrRamaYjalit#} 
-<ls>289.</ls> {#kutajakusumEH kalpitArGAya tasmE#} 
-<ls>MEGH. 4.</ls> {#harzavAzpAmbuSIkarErdattArGeva#} 
-<ls>VID. 301.</ls> 
-<ls>Verz. d. B. H. No. 849 (41). 884. 897. 903. 1246. 1253</ls> ({#°dAna#}). 
-<ls>COLEBR. Misc. Ess. I, 135. 166.</ls> Vgl. {#arDya#} .
+{#SatArGa/#}
+<ls>ŚAT. BR. 7,2,4,26.</ls> {#mahArGa#} {%von grossem Werth%}
+<ls>KATHĀS. 21,86.</ls> {#anarGa#} {%unschätzbar%}
+<ls n="KATHĀS.">24,148.</ls> <ls n="KATHĀS. 24,">172</ls>; vgl. u. {#arDya#} 1,a.
+<div n="1">— 2) {%Ehrengabe%}
+<ls>AK. 3,4,28.</ls> <ls n="AK.">2,7,32.</ls>
+<ls>H. 500.</ls>
+<ls>an. 2,52.</ls>
+<ls>MED. gh. 2.</ls> {#aTa hAsmA arGaM#}
+(<ls>RÖER</ls> : {#arGyaM#}) {#cakAra#}
+<ls>ŚAT. BR. 14,9,1,7</ls> (= <ls>BṚH. ĀR. UP. 6,2,4.</ls>) {#tasyArGamAsanaM cEva gAM cAvedya#}
+<ls>SĀV. 3,6</ls> (<ls>MBH. 3,16696</ls>: {#arDyam#}). {#dattvArGam#}
+<ls>YĀJÑ. 1,234.</ls> {#dUrvasarzapARAM dattvArGaM pUrRamaYjalit#}
+<ls n="YĀJÑ. 1,">289.</ls> {#kutajakusumEH kalpitArGAya tasmE#}
+<ls>MEGH. 4.</ls> {#harzavAzpAmbuSIkarErdattArGeva#}
+<ls>VID. 301.</ls>
+<ls>Verz. d. B. H. No. 849 (41). 884. 897. 903. 1246. 1253</ls> ({#°dAna#}).
+<ls>COLEBR. Misc. Ess. I,135. 166.</ls> Vgl. {#arDya#} .
 <LEND>

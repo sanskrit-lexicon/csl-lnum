@@ -1,43 +1,43 @@
 <L>39440<pc>4-0193<k1>nirRaya<k2>nirRaya
-{#nirRaya#}¦ (von {#nI#} mit {#nis#}) <lex>m.</lex> 
-<div n="1"> 1) {%Entfernung, Wegschaffung, Hebung%}: {#DaraRyA BAranirRaye#} 
-<ls>HARIV. 2898.</ls> {#cintayAmAsa rudatI tasya (duHKasya) nirRayam#} 
-<ls>MBH. 4, 505.</ls> {#DarmasaMSaya°#} 
-<ls>M. 12, 112.</ls> {#saMdeha°#} 
-<ls>ŚĀK. 27.</ls> 
-<div n="1">— 2) {%Entscheidung, Bestimmung, ein entscheidendes Wort, Urtheil, Urtheilsspruch%}; = {#niScaya#} 
-<ls>AK. 1, 1, 4, 12.</ls> 
-<ls>H. 1374.</ls> {#saMSayaH sugamastatra nirRayastatra durgamaH#} 
-<ls>MBH. 13, 7535. 7533.</ls> {#nAsti devezu nirRayaH#} 
-<ls>3,13252.</ls> <ls>SUŚR. 2,559,7.</ls> <ls>Verz. d. Oxf. H. 156,a,29.</ls> {#praSna°#} 
-<ls>ŚATR. 14, 148.</ls> {#mArge - dIptanirRaye#} so v. a. {%wo Alles klar zu Tage liegt%} 
-<ls>MBH. 3, 16603.</ls> {#asya sarvasya SfRuta karmayogasya nirRayam#} 
-<ls>M. 12, 2.</ls> {#ezo 'KilenABihito daRqapAruzyanirRayaH#} 
-<ls>8, 301. 278.</ls> {#nAnAviDAnAM dravyARAM SudDeH SfRuta nirRayam#} 
-<ls>5, 110.</ls> {#vyavahArasya#} 
-<ls>8, 409. 9, 250.</ls> {#kArya°#} 
-<ls>YĀJÑ. 2, 10.</ls> {#kAryArTa°#} 
-<ls>MBH. 15, 203.</ls> {#saBAsTAna°#} 
-<ls>MBH. 2, <is>Adhy</is>. 1</ls> in der Unterschr. <ls>VARĀH. BṚH. S. 1, 8.</ls> {#sImA°#} 
-<ls>KULL.</ls> zu <ls>M. 8, 248.</ls> {#sAmarTya°#} 
-<ls>HIT. II, 141.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 288.</ls> <ls>VEDĀNTAS. (Allah.) No. 115.</ls> {#liNga°#} 
-<ls>Schol.</ls> zu <ls>H. 19. 294.</ls> {#mantra°#} {%Beschlussfassung%} 
-<ls>R. 5, 77, 14.</ls> 
-<ls>PAÑCAT. III, 6.</ls> {#jayaparAjayanirRayaM karizyAmi#} 
-<ls>167, 5.</ls> {#jYAtvA lokasya nirRayam#} {%das Urtheil der Welt%} 
-<ls>MBH. 7, 4495.</ls> 
-<ls>R. 6, 11, 16. 21, 31.</ls> {#SAstrARAmeza nirRayaH#} 
-<ls>Verz. d. Oxf. H. 10,a, N. 4.</ls> {#nirRaye vayaM#} (ein Richter spricht) {#pramARam#} 
-<ls>MṚCCH. 154, 22.</ls> 
-<ls>MĀLAV. 15, 18. 17, 8.</ls> {#tadDarmaSAstradvAreRAsmAkaM nirRayaM dehi#} 
-<ls>PAÑCAT. 166, 18.</ls> 
-<ls>RĀJA-TAR. 3, 85. 6, 37.</ls> Statt {#nirReya#} 
-<ls>COLEBR. Misc. Ess. I, 293</ls> ist {#nirRaya#} zu lesen; vgl. 
-<ls>MADHUS.</ls> in <ls>Ind. St. 1, 18, 5 v. u.</ls> 
-<div n="1">— 3) in der Rhet. {%Mittheilung eines Erlebnisses%}: {#nirRayaH punaH . anuBUtArTakaTanam#} 
-<ls>SĀH. D. 395. 391.</ls> 
-<ls>DAŚAR. 1, 46.</ls> 
-<div n="1">— 4) = {#vicAra#} {%Erwägung, Prüfung%} 
-<ls>TRIK. 1, 1, 114.</ls> 
+{#nirRaya#}¦ (von {#nI#} mit {#nis#}) <lex>m.</lex>
+<div n="1"> 1) {%Entfernung, Wegschaffung, Hebung%}: {#DaraRyA BAranirRaye#}
+<ls>HARIV. 2898.</ls> {#cintayAmAsa rudatI tasya (duHKasya) nirRayam#}
+<ls>MBH. 4,505.</ls> {#DarmasaMSaya°#}
+<ls>M. 12,112.</ls> {#saMdeha°#}
+<ls>ŚĀK. 27.</ls>
+<div n="1">— 2) {%Entscheidung, Bestimmung, ein entscheidendes Wort, Urtheil, Urtheilsspruch%}; = {#niScaya#}
+<ls>AK. 1,1,4,12.</ls>
+<ls>H. 1374.</ls> {#saMSayaH sugamastatra nirRayastatra durgamaH#}
+<ls>MBH. 13,7535.</ls> <ls n="MBH. 13,">7533.</ls> {#nAsti devezu nirRayaH#}
+<ls n="MBH.">3,13252.</ls> <ls>SUŚR. 2,559,7.</ls> <ls>Verz. d. Oxf. H. 156,a,29.</ls> {#praSna°#}
+<ls>ŚATR. 14,148.</ls> {#mArge — dIptanirRaye#} so v. a. {%wo Alles klar zu Tage liegt%}
+<ls>MBH. 3,16603.</ls> {#asya sarvasya SfRuta karmayogasya nirRayam#}
+<ls>M. 12,2.</ls> {#ezo 'KilenABihito daRqapAruzyanirRayaH#}
+<ls n="M.">8,301.</ls> <ls n="M. 8,">278.</ls> {#nAnAviDAnAM dravyARAM SudDeH SfRuta nirRayam#}
+<ls n="M.">5,110.</ls> {#vyavahArasya#}
+<ls n="M.">8,409.</ls> <ls n="M.">9,250.</ls> {#kArya°#}
+<ls>YĀJÑ. 2,10.</ls> {#kAryArTa°#}
+<ls>MBH. 15,203.</ls> {#saBAsTAna°#}
+<ls>MBH. 2, <is>Adhy</is>. 1</ls> in der Unterschr. <ls>VARĀH. BṚH. S. 1,8.</ls> {#sImA°#}
+<ls>KULL.</ls> zu <ls>M. 8,248.</ls> {#sAmarTya°#}
+<ls>HIT. II,141.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 288.</ls> <ls>VEDĀNTAS. (Allah.) No. 115.</ls> {#liNga°#}
+<ls>Schol.</ls> zu <ls>H. 19.</ls> <ls n="H.">294.</ls> {#mantra°#} {%Beschlussfassung%}
+<ls>R. 5,77,14.</ls>
+<ls>PAÑCAT. III,6.</ls> {#jayaparAjayanirRayaM karizyAmi#}
+<ls n="PAÑCAT.">167,5.</ls> {#jYAtvA lokasya nirRayam#} {%das Urtheil der Welt%}
+<ls>MBH. 7,4495.</ls>
+<ls>R. 6,11,16.</ls> <ls n="R. 6,">21,31.</ls> {#SAstrARAmeza nirRayaH#}
+<ls>Verz. d. Oxf. H. 10,a, N. 4.</ls> {#nirRaye vayaM#} (ein Richter spricht) {#pramARam#}
+<ls>MṚCCH. 154,22.</ls>
+<ls>MĀLAV. 15,18. 17,8.</ls> {#tadDarmaSAstradvAreRAsmAkaM nirRayaM dehi#}
+<ls>PAÑCAT. 166,18.</ls>
+<ls>RĀJA-TAR. 3,85. 6,37.</ls> Statt {#nirReya#}
+<ls>COLEBR. Misc. Ess. I,293</ls> ist {#nirRaya#} zu lesen; vgl.
+<ls>MADHUS.</ls> in <ls>Ind. St. 1,18,5</ls> v. u.
+<div n="1">— 3) in der Rhet. {%Mittheilung eines Erlebnisses%}: {#nirRayaH punaH . anuBUtArTakaTanam#}
+<ls>SĀH. D. 395. 391.</ls>
+<ls>DAŚAR. 1,46.</ls>
+<div n="1">— 4) = {#vicAra#} {%Erwägung, Prüfung%}
+<ls>TRIK. 1,1,114.</ls>
 <div n="v">— Vgl. {#kAla°, jvara°#} (unter {#jvara), deSa°#} .
 <LEND>

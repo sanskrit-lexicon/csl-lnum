@@ -1,5 +1,5 @@
 <L>256200<pc>1266,3<k1>snA<k2>snA<h>1<e>1
-<hom>1.</hom> <s>snA</s> ¦ (<ab>cf.</ab> √ <s>snu</s>) <ab>cl.</ab> 2. <ab>P.</ab> (<ls>Dhātup. xxiv, 44</ls>) <s>snA/ti</s> <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Nir. vii, 12</ls>) <s>snAyati</s> (<ab>ep.</ab> also <ab>Ā.</ab> <s>snAyate</s> <ab>Pot.</ab> <s>snAyAt</s>; <ab>ep.</ab> also <s>snAyIta</s>; <ab>pf.</ab> <s>sasnO</s>, 3. <ab>pl.</ab> <s>sasnuH</s>, <ls>MBh.</ls>; <ls>BhP.</ls>; <ab>fut.</ab> <s>snAtA</s> <ab>Gr.</ab>; <s>snAsyati</s>, <s>°te</s>, <ls>MBh.</ls> &c.; <ab>aor.</ab> <s>asnAsIt</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>snAyAt</s> [<ab>cf.</ab> above] or <s>sneyAt</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>snAtum</s>, <ls>Br.</ls> &c.; <ab>ind.p.</ab> <s>snAtvA/</s>, <s>-snA/ya</s>, <ls>RV.</ls> &c.; <ab>Ved.</ab> also <s>snAtvI</s>, <ls>Pāṇ. 7-1, 49</ls>), 
+<hom>1.</hom> <s>snA</s> ¦ (<ab>cf.</ab> √ <s>snu</s>) <ab>cl.</ab> 2. <ab>P.</ab> (<ls>Dhātup. xxiv, 44</ls>) <s>snA/ti</s> <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Nir. vii, 12</ls>) <s>snAyati</s> (<lang>ep.</lang> also <ab>Ā.</ab> <s>snAyate</s> <ab>Pot.</ab> <s>snAyAt</s>; <lang>ep.</lang> also <s>snAyIta</s>; <ab>pf.</ab> <s>sasnO</s>, 3. <ab>pl.</ab> <s>sasnuH</s>, <ls>MBh.</ls>; <ls>BhP.</ls>; <ab>fut.</ab> <s>snAtA</s> <ab>Gr.</ab>; <s>snAsyati</s>, <s>°te</s>, <ls>MBh.</ls> &c.; <ab>aor.</ab> <s>asnAsIt</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>snAyAt</s> [<ab>cf.</ab> above] or <s>sneyAt</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>snAtum</s>, <ls>Br.</ls> &c.; <ab>ind.p.</ab> <s>snAtvA/</s>, <s>-snA/ya</s>, <ls>RV.</ls> &c.; <lang>Ved.</lang> also <s>snAtvI</s>, <ls>Pāṇ. vii, 1, 49</ls>),
 <div n="to"/>to bathe, perform the ceremony of bathing or certain prescribed oblations (<ab>esp.</ab> on returning home from the house of a religious preceptor, or on concluding certain vows &c., also with <s>avaBfTam</s>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to smear one's self with (<ab>instr.</ab>), <ls>Sarvad.</ls> :
 <div n="vp"/><ab>Pass.</ab> <s>snAyate</s> (<ab>aor.</ab> <s>asnAyi</s> <ab>impers.</ab>), <ls>Rājat.</ls> :
@@ -7,6 +7,6 @@
 <div n="to"/>to wash away, <ls>AV. x, 1, 9</ls>;
 <div n="to"/>to steep or soak in (<ab>loc.</ab>), <ls>Bhpr.</ls>;
 <div n="to"/>to bathe with tears, weep for (?), <ls>MW.</ls> :
-<div n="vp"/><ab>Desid.</ab> <s>sisnAsati</s>, <ls>Pāṇ. 8-3, 61</ls> (but <ab>cf.</ab> <s>sizRAsu</s>) :
+<div n="vp"/><ab>Desid.</ab> <s>sisnAsati</s>, <ls>Pāṇ. viii, 3, 61</ls> (but <ab>cf.</ab> <s>sizRAsu</s>) :
 <div n="vp"/><ab>Intens.</ab> <s>sAsnAyate</s>, <s>sAsnAti</s>, <s>sAsneti</s> <ab>Gr.</ab> <info westergaard="znA,24.44,02.0055"/><info whitneyroots="snA,195"/><info verb="genuineroot" cp="2P,4P,4Ā"/>
 <LEND>

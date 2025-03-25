@@ -1,10 +1,10 @@
 <L>3145<pc>120<k1>dole<k2>dole
 {@Dole,@}¦ {%s.%} {#aMSaH, BAgaH, viBAgaH, CedaH, udDAraH#}.
-<div n="lb"/>{@2@} {#pAritozikaM#}. {%-v. t.%} {#viBaj#} 1 U, {#viBAga-#}
-<div n="lb"/>{#-SaH dA#} 3 U, {#vitF#} 1 P, {#ut-sfj#} 6 P.
-<div n="lb"/>{@-ful, -some,@} {%a%} {#saSoka, duHKapUrRa, sakaruRa,#}
-<div n="lb"/>{#SokAkula, udvigna, viDura, Akula, vihvala,#}
-<div n="lb"/>{#Arta#}. {@-fully,@} {%adv.%} {#saSokaM, saduHKaM, savizAdaM#}.
-<div n="lb"/>{@-fulness,@} {%s.%} {#SokaH, duHKaM, vizAdaH, KedaH,#}
-<div n="lb"/>{#udvegaH, paridevanaM#}.
+{@2@} {#pAritozikaM#}. {%-v. t.%} {#viBaj#} 1 U, {#viBAga-#}
+{#-SaH dA#} 3 U, {#vitF#} 1 P, {#ut-sfj#} 6 P.
+{@-ful, -some,@} {%a%} {#saSoka, duHKapUrRa, sakaruRa,#}
+{#SokAkula, udvigna, viDura, Akula, vihvala,#}
+{#Arta#}. {@-fully,@} {%adv.%} {#saSokaM, saduHKaM, savizAdaM#}.
+{@-fulness,@} {%s.%} {#SokaH, duHKaM, vizAdaH, KedaH,#}
+{#udvegaH, paridevanaM#}.
 <LEND>

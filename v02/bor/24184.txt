@@ -1,6 +1,6 @@
 <L>24184<pc>757<k1>weather<k2>weather
-<div n="lb"/>{@WEATHER@}¦ (v.): <div n="I">I To air: q. v.: </div><div n="I">II To
-<div n="lb"/>sail to the windward of: {#prativAtamatikrAmati#}
-<div n="lb"/>({#kram,#} c. 1.): v. To cross. </div><div n="I">III Fig.: {#tarati#}
-<div n="lb"/>({#ta,#} c. 1.): v. To cross, bear, sustain.</div>
+{@WEATHER@}¦ (v.): <div n="I">I To air: q. v.: </div><div n="I">II To
+sail to the windward of: {#prativAtamatikrAmati#}
+({#kram,#} c. 1.): v. To cross. </div><div n="I">III Fig.: {#tarati#}
+({#ta,#} c. 1.): v. To cross, bear, sustain.</div>
 <LEND>

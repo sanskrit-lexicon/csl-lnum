@@ -1,11 +1,11 @@
 <L>1683<pc>058<k1>bastard<k2>bastard
-<div n="lb"/>{@BASTARD:@}¦ <div n="1">(1) {#jArajaH#} ({#jA, jaM#}) (=child of a
-<div n="lb"/>woman by her gallant); </div><div n="1">(2) {#kAnInaH#} ({#nA#},
-<div n="lb"/>{#naM#}) (child of an unmarried woman);</div>
-<div n="lb"/><div n="1">(3) {#kOlaweyaH#} ({#yI, yaM#}) <div n="xe">{%or%}</div> <div n="xs">{#kOlaweraH#}</div> ({#rI, raM#}) =
-<div n="lb"/>(child of a lewd woman); </div><div n="1">(4) {#kuRqaH#} (a b.
-<div n="lb"/>son born when the husband is alive); </div><div n="1">(5)
-<div n="lb"/>{#golakaH#} (a b. son born after the death of the
-<div n="lb"/>husband); </div><div n="1">(6) {#vijanman#} (mfn.) (not born
-<div n="lb"/>in lawful wedlock).</div>
+{@BASTARD:@}¦ <div n="1">(1) {#jArajaH#} ({#jA, jaM#}) (=child of a
+woman by her gallant); </div><div n="1">(2) {#kAnInaH#} ({#nA#},
+{#naM#}) (child of an unmarried woman);</div>
+<div n="1">(3) {#kOlaweyaH#} ({#yI, yaM#}) <div n="xe">{%or%}</div> <div n="xs">{#kOlaweraH#}</div> ({#rI, raM#}) =
+(child of a lewd woman); </div><div n="1">(4) {#kuRqaH#} (a b.
+son born when the husband is alive); </div><div n="1">(5)
+{#golakaH#} (a b. son born after the death of the
+husband); </div><div n="1">(6) {#vijanman#} (mfn.) (not born
+in lawful wedlock).</div>
 <LEND>

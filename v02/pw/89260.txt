@@ -1,3 +1,3 @@
-<L>89260<pc>5112-3<k1>mna<k2>mna<e>000
-{#mna#}¦ in {#carmamna/#} {%Gerber.%}
+<L>89260<pc>5-112-c<k1>mna<k2>mna
+{#mna#}¦ in {#carmamna/#} {%Gerber%}.
 <LEND>

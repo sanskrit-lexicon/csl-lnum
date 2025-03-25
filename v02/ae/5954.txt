@@ -1,7 +1,7 @@
 <L>5954<pc>247<k1>kitchen<k2>kitchen
 {@Kitchen,@}¦ {%s.%} {#mahAnasaM, rasavatI, sUdaSAlA, pAka-#}
-<div n="lb"/>{#-SAlA-sTAna-gfhaM;#} ‘k. -garden’ {#SAkaSAki-#}
-<div n="lb"/>{#-naM, SAkaSAkawaM, SAkavAwikA;#} ‘k.-maid’
-<div n="lb"/>{#pAkacewI;#} ‘k.-work’ {#pAkakAryaM, pAkanizpatti#}
-<div n="lb"/>{%f.;%} ‘superintendent of the k.’ {#pOrogavaH#}.
+{#-SAlA-sTAna-gfhaM;#} ‘k. -garden’ {#SAkaSAki-#}
+{#-naM, SAkaSAkawaM, SAkavAwikA;#} ‘k.-maid’
+{#pAkacewI;#} ‘k.-work’ {#pAkakAryaM, pAkanizpatti#}
+{%f.;%} ‘superintendent of the k.’ {#pOrogavaH#}.
 <LEND>

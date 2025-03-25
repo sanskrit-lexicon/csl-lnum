@@ -1,5 +1,5 @@
 <L>13454<pc>324-b<k1>guarder<k2>guarder
-<div n="lb"/>GUARDER¦, {%s.%} {#rakzakaH, rakzI#} {%m.%} {#(n), parirakzI#} {%m.,%} {#rakzitA#} {%m.%} {#(tf), pAlayitA#} {%m.%}
-<div n="lb"/>{#(tf), pAlakaH, pAlaH -lI#} {%m.%} {#(n), goptA#} {%m.%} {#(ptf), gopaH -pakaH, gopAyakaH,#}
-<div n="lb"/>{#gopI#} {%m.%} {#(n), gopilaH, trAtA#} {%m.%} {#(tf), paH#} in comp.
+GUARDER¦, {%s.%} {#rakzakaH, rakzI#} {%m.%} {#(n), parirakzI#} {%m.,%} {#rakzitA#} {%m.%} {#(tf), pAlayitA#} {%m.%}
+{#(tf), pAlakaH, pAlaH -lI#} {%m.%} {#(n), goptA#} {%m.%} {#(ptf), gopaH -pakaH, gopAyakaH,#}
+{#gopI#} {%m.%} {#(n), gopilaH, trAtA#} {%m.%} {#(tf), paH#} in comp.
 <LEND>

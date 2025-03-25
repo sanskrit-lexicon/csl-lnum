@@ -1,7 +1,7 @@
 <L>118797<pc>602,2<k1>pariSuD<k2>pari-SuD<e>1
 <s>pari-√ SuD</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-SuDyati</s>, <s>°te</s>, to be washed off, become clean or purified, <ls>Subh.</ls>;
 <div n="to"/> (<ab>Ā.</ab>) to purify or justify one's self, prove one's innocence, <ls>Rājat.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-SoDayati</s>, to clear, clean, <ls>R.</ls>;
+<div n="vp"/><ab>Caus.</ab> <s>-SoDayati</s>, to clear, clean, <ls>R.</ls>;
 <div n="to"/>to clear off, restore, <ls>Yājñ. ii, 146</ls>;
 <div n="to"/>to try, examine, <ls>Kathās.</ls>;
 <div n="to"/>to solve, explain, clear up, <ls>Gīt.</ls><info verb="pre" cp="PĀ" parse="pari+SuD"/>

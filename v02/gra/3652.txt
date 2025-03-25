@@ -1,4 +1,4 @@
-<L>3652<pc>0521<k1>tanti<k2>ta/nti
-{@tánti,@}¦ <ab>f.</ab>, {%Schnur, Seil%} [von 1. tan].
-<div n="P1">-ayas vatsā́naam ná … {465,4}.
+<L>3652<pc>0521<k1>tanti<k2>tanti/
+<chg type="chg" n="118" src="gra"><old>{@tánti,@}</old><new>{@tantí,@}</new></chg>¦ <ab>f.</ab>, {%Schnur, Seil%} [von <hom>1.</hom> tan].
+<div n="TS"><chg type="chg" n="119" src="gra"><old>-ayas</old><new>-áyas</new></chg> vatsā́naam ná 〰 {465,4}.
 <LEND>

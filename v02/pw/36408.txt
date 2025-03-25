@@ -1,34 +1,34 @@
-<L>36408<pc>2178-2<k1>go<k2>go/<h>1<e>100
-1. {#go/#}¦
-<div n="1">— 1) <lex>m.</lex> {%Rind , Stier%} ; <lex>f.</lex> {%Kuh%} ; <ab>Pl.</ab> {%Rinder , Rinderheerden , Kühe.%} {#gavAmayaH#} und {#gavAmayanam#} {%eine best. Feier%} , {#gavAM meDaH#} {%Kuhopfer%} , {#gavAM vratas#} Name eines <is>Sāman</is> , {#gavaM tIrTam#} <ab>N.pr.</ab> eines <is>Tīrtha</is>.
-<div n="1">— 2) <lex>m.</lex> {%der Stier im Thierkreise.%}
-<div n="1">— 3) {%Kuhmilch%} , meist <ab>Pl.</ab>
-<div n="1">— 4) <ab>Pl.</ab> {%Fleischstücke vom Rinde.%}
-<div n="1">— 5) {%Rindshaut.%} — {%Leder , daraus geschnittene Riemen%} u.s.w.
-<div n="1">— 6) {%Sehne.%}
-<div n="1">— 7) {%ein best. <is>Ekāha</is> im <is>Abhiplava</is>.%}
-<div n="1">— 8) <ab>Pl.</ab> {%die Heerde am Himmel , die Gestirne.%}
-<div n="1">— 9) (*<lex>m.</lex> *<lex>f.</lex>) {%der Himmel.%}
-<div n="1">— 10) <lex>m.</lex> {%die Sonne in%} {#goputra#} 3).
-<div n="1">— 11) *<lex>m.</lex> {%der Mond.%}
-<div n="1">— 12) <lex>m.</lex> (*<lex>f.</lex>) <ab>Pl.</ab> {%Lichtstrahlen.%}
-<div n="1">— 13) ( {%der Sonnenstrahl <is>Suṣumṇa</is>.%}
-<div n="1">— 14) *<lex>m.</lex> <lex>f.</lex> {%Donnerkeil.%}
-<div n="1">— 15) *<lex>f.</lex> {%Weltgegend.%}
-<div n="1">— 16) <lex>f.</lex> = {#govITI#} <ls>VP.².2,276.</ls>
-<div n="1">— 17) <lex>f.</lex> {%die milchende Kuh der Fürsten , die Erde.%}
-<div n="1">— 18) <lex>f.</lex> Bez. {%der Zahl neun.%}
-<div n="1">— 19) (*<lex>m.</lex>) <lex>f.</lex> <ab>Sg.</ab> und <ab>Pl.</ab> {%Wasser.%}
-<div n="1">— 20) {%Sinnesorgan.%}
-<div n="1">— 21) {%Auge.%}
-<div n="1">— 22) *<lex>m.</lex> <lex>f.</lex> {%das Haar auf dem Körper.%}
-<div n="1">— 23) *<lex>f.</lex> {%Mutter%}
-<div n="1">— 24) <lex>f.</lex> {%Rede , die Göttin der Rede.%}
-<div n="1">— 25) *<lex>m.</lex> {%Lobsänger.%}
-<div n="1">— 26) *<lex>m.</lex> {%Ross.%}
-<div n="1">— 27) {%Billion.%}
-<div n="1">— 28) *<ab>Bein.</ab> der <is>Gaurī</is> <ls>GAL.</ls>
-<div n="1">— 29) <ab>N.pr.</ab>
-<div n="2">— a) <lex>m.</lex> verschiedener <is>Ṛṣi</is>.
-<div n="2">— b) <lex>f.</lex> verschiedener Frauen.
+<L>36408<pc>2-178-b<k1>go<k2>go/<h>1
+<hom>1.</hom> {#go/#}¦
+<div n="1">— 1〉 <lex>m.</lex> {%Rind, Stier;%} <lex>f.</lex> {%Kuh;%} <ab>Pl.</ab> {%Rinder, Rinderheerden, Kühe%}. {#gavAmayaH#} und {#gavAmayanam#} {%eine <ab>best.</ab> Feier,%} {#gavAM meDaH#} {%Kuhopfer,%} {#gavAM vratas#} Name eines <is>Sāman</is>, {#gavaM tIrTam#} <ab>N. pr.</ab> eines <is>Tīrtha</is>.
+<div n="1">— 2〉 <lex>m.</lex> {%der Stier im Thierkreise%}.
+<div n="1">— 3〉 {%Kuhmilch,%} meist <ab>Pl.</ab>
+<div n="1">— 4〉 <ab>Pl.</ab> {%Fleischstücke vom Rinde%}.
+<div n="1">— 5〉 {%Rindshaut%}. — {%Leder, daraus geschnittene Riemen%} <ab>u. s. w.</ab>
+<div n="1">— 6〉 {%Sehne%}.
+<div n="1">— 7〉 {%ein <ab>best.</ab>%} <is>Ekāha</is> {%im%} <is>Abhiplava</is>.
+<div n="1">— 8〉 <ab>Pl.</ab> {%die Heerde am Himmel, die Gestirne%}.
+<div n="1">— 9〉 (*<lex>m.</lex> *<lex>f.</lex>) {%der Himmel%}.
+<div n="1">— 10〉 <lex>m.</lex> {%die Sonne in%} {#goputra#} 3〉.
+<div n="1">— 11〉 *<lex>m.</lex> {%der Mond%}.
+<div n="1">— 12〉 <lex>m.</lex> (*<lex>f.</lex>) <ab>Pl.</ab> {%Lichtstrahlen%}.
+<div n="1">— 13〉 *{%der Sonnenstrahl%} <is>Suṣumṇa</is>.
+<div n="1">— 14〉 *<lex>m.</lex> <lex>f.</lex> {%Donnerkeil%}.
+<div n="1">— 15〉 *<lex>f.</lex> {%Weltgegend%}.
+<div n="1">— 16〉 <lex>f.</lex> = {#govITI#} <ls>VP.² 2,276</ls>.
+<div n="1">— 17〉 <lex>f.</lex> {%die milchende Kuh der Fürsten, die Erde%}.
+<div n="1">— 18〉 <lex>f.</lex> <ab>Bez.</ab> {%der Zahl neun%}.
+<div n="1">— 19〉 (*<lex>m.</lex>) <lex>f.</lex> <ab>Sg.</ab> und <ab>Pl.</ab> {%Wasser%}.
+<div n="1">— 20〉 {%Sinnesorgan%}.
+<div n="1">— 21〉 {%Auge%}.
+<div n="1">— 22〉 *<lex>m.</lex> <lex>f.</lex> {%das Haar auf dem Körper%}.
+<div n="1">— 23〉 *<lex>f.</lex> {%Mutter%}.
+<div n="1">— 24〉 <lex>f.</lex> {%Rede, die Göttin der Rede%}.
+<div n="1">— 25〉 *<lex>m.</lex> {%Lobsänger%}.
+<div n="1">— 26〉 *<lex>m.</lex> {%Ross%}.
+<div n="1">— 27〉 {%Billion%}.
+<div n="1">— 28〉 *<ab>Bein.</ab> der <is>Gaurī</is> <ls>GAL.</ls>
+<div n="1">— 29〉 <ab>N. pr.</ab>
+<div n="2">— a〉 <lex>m.</lex> verschiedener <is>Ṛṣi</is>.
+<div n="2">— b〉 <lex>f.</lex> verschiedener Frauen.
 <LEND>

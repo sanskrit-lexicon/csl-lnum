@@ -1,19 +1,19 @@
 <L>24606<pc>2-0932<k1>caturviMSati<k2>ca/turviMSati
-{#ca/turviMSati#}¦ ({#ca° + viMSati#}) <lex>f.</lex> 
-<div n="1"> 1) {%24%} 
-<ls>VS. 18,25.</ls> {#kapAlAni#} 
-<ls>ŚAT. BR. 2, 2, 1, 17.</ls> {#sAmiDenyaH#} 
-<ls>6, 2, 1, 21.</ls> {#arDamAsAH#} 
-<ls>2, 2, 2, 5. 3, 4, 4, 20.</ls> {#taccaturviMSatiM kftvo 'BizutaM Bavati#} 
-<ls>4, 1, 1, 15.</ls> {#caturviMSatyAmagrizwomasAma#} 
-<ls>13, 5, 1, 1.</ls> {#°gava/#} 
-<ls>7, 2, 2, 6.</ls> {#°vikrama#} 
-<ls>3, 5, 1, 10.</ls> {#°akzara#} 
-<ls>2, 2, 1, 17.</ls> <ls>ṚV. PRĀT. 16, 10.</ls> {#°aha/#} 
-<ls>ŚAT. BR. 11, 5, 4, 8.</ls> mit dem gen. 
-<ls>H. 28.</ls> {#A caturviMSateH#} {%bis zum 24sten Jahre%} 
-<ls>M. 2, 38.</ls> 
-<div n="1">— 2) Titel einer Schrift: {#°mata#} 
-<ls>Verz. d. B. H. No. 1176</ls>; vgl. {#caturviMSatismfti#} 
-<ls>Ind. St. 1, 467.</ls>
+{#ca/turviMSati#}¦ ({#ca° + viMSati#}) <lex>f.</lex>
+<div n="1"> 1) {%24%}
+<ls>VS. 18,25.</ls> {#kapAlAni#}
+<ls>ŚAT. BR. 2,2,1,17.</ls> {#sAmiDenyaH#}
+<ls n="ŚAT. BR.">6,2,1,21.</ls> {#arDamAsAH#}
+<ls n="ŚAT. BR.">2,2,2,5. 3,4,4,20.</ls> {#taccaturviMSatiM kftvo 'BizutaM Bavati#}
+<ls n="ŚAT. BR.">4,1,1,15.</ls> {#caturviMSatyAmagrizwomasAma#}
+<ls n="ŚAT. BR.">13,5,1,1.</ls> {#°gava/#}
+<ls n="ŚAT. BR.">7,2,2,6.</ls> {#°vikrama#}
+<ls n="ŚAT. BR.">3,5,1,10.</ls> {#°akzara#}
+<ls n="ŚAT. BR.">2,2,1,17.</ls> <ls>ṚV. PRĀT. 16,10.</ls> {#°aha/#}
+<ls>ŚAT. BR. 11,5,4,8.</ls> mit dem gen.
+<ls>H. 28.</ls> {#A caturviMSateH#} {%bis zum 24sten Jahre%}
+<ls>M. 2,38.</ls>
+<div n="1">— 2) Titel einer Schrift: {#°mata#}
+<ls>Verz. d. B. H. No. 1176</ls>; vgl. {#caturviMSatismfti#}
+<ls>Ind. St. 1,467.</ls>
 <LEND>

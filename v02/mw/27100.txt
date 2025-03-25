@@ -1,6 +1,6 @@
 <L>27100<pc>155,2<k1>Avid<k2>A-vid<h>3<e>1
-<hom>3.</hom> <s>A-</s>√ <hom>3.</hom> <s>vid</s> ¦ <ab>P.</ab> (<ab>Subj.</ab> 1. <ab>sg.</ab> <s>A/-vidam</s>, <ls>RV. ii, 27, 17</ls>; Inf. <s>-vi/de</s>, <ls>RV. x, 113, 3</ls>) <ab>Ā.</ab> (<ab>Subj.</ab> 1. <ab>sg.</ab> <s>A/-vide</s>, <ls>RV. viii, 45, 36</ls>; <ab>aor.</ab> 1. <ab>sg.</ab> <s>A/<srs/>vitsi</s>, <ls>RV. x, 15, 3; 97, 7</ls>) 
+<hom>3.</hom> <s>A-</s>√ <hom>3.</hom> <s>vid</s> ¦ <ab>P.</ab> (<ab>Subj.</ab> 1. <ab>sg.</ab> <s>A/-vidam</s>, <ls>RV. ii, 27, 17</ls>; <ab>Inf.</ab> <s>-vi/de</s>, <ls>RV. x, 113, 3</ls>) <ab>Ā.</ab> (<ab>Subj.</ab> 1. <ab>sg.</ab> <s>A/-vide</s>, <ls>RV. viii, 45, 36</ls>; <ab>aor.</ab> 1. <ab>sg.</ab> <s>A/<srs/>vitsi</s>, <ls>RV. x, 15, 3</ls>; <ls n="RV. x,">97, 7</ls>)
 <div n="to"/>to reach, obtain;
 <div n="to"/>to get into:
-<div n="to"/><ab>Pass.</ab> <s>-vidyate</s>, to exist, <ls>RV. iii, 54, 4.</ls> <info n="rev" pc="1320,2"/><info verb="pre" cp="PĀ" parse="A+vid"/>
+<div n="vp"/><ab>Pass.</ab> <s>-vidyate</s>, to exist, <ls>RV. iii, 54, 4.</ls> <info n="rev" pc="1320,2"/><info verb="pre" cp="PĀ" parse="A+vid"/>
 <LEND>

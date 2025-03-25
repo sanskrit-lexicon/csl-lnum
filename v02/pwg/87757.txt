@@ -1,10 +1,10 @@
 <L>87757<pc>6-0668<k1>vanagaja<k2>vanagaja
-{#vanagaja#}¦ <lex>m.</lex> {%ein wilder Elephant%} 
-<ls>MBH. 3, 2539. 9, 3229.</ls> 
-<ls>R. 4, 13, 47.</ls> 
-<ls>MEGH. 20.</ls> 
-<ls>Spr. 3199. 3603. 4545.</ls> 
-<ls>KATHĀS. 9, 59. 12, 18.</ls> 
-<ls>BHĀG. P. 5, 5, 30.</ls> 
-<ls>PAÑCAT. 80, 6.</ls>
+{#vanagaja#}¦ <lex>m.</lex> {%ein wilder Elephant%}
+<ls>MBH. 3,2539.</ls> <ls n="MBH.">9,3229.</ls>
+<ls>R. 4,13,47.</ls>
+<ls>MEGH. 20.</ls>
+<ls>Spr. 3199.</ls> <ls n="Spr.">3603.</ls> <ls n="Spr.">4545.</ls>
+<ls>KATHĀS. 9,59.</ls> <ls n="KATHĀS.">12,18.</ls>
+<ls>BHĀG. P. 5,5,30.</ls>
+<ls>PAÑCAT. 80,6.</ls>
 <LEND>

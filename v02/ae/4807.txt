@@ -1,15 +1,15 @@
 <L>4807<pc>198<k1>haste<k2>haste
 {@Haste,@}¦ {%s.%} {#tvarA, vegaH, javaH, tUrRi#} {%f.,%} {#saMBramaH,#}
-<div n="lb"/>{#SIGratA, kzipratA, taras#} {%n.,%} {#raBasaH-saM, tvarita-#}
-<div n="lb"/>{#-ASu-gati#} {%f.-%} {#gamanaM#}. {%-v. i.,%} {@-en,@} ‘make
-<div n="lb"/>h.’ {#tvar#} 1 A, {#satvaraM-ASu-gam#} or {#cal#} or
-<div n="lb"/>{#DAv#} 1 P; ‘h. towards’ {#aBidru#} 1 P.
-<div n="lb"/>{%-v. t.%} {@-en,@} {#tvar#} c. ({#tvarayati#}). {@-Hasty,@}
-<div n="lb"/>{%a.%} {#satvara, tvarita, kzipra, tUrRa, SIGra, tvarAvat,#}
-<div n="lb"/>{#druta, avilaMbin, ASukArin#}. {@2@} {#sAhasin,#}
-<div n="lb"/>{#avimfSya-asamIkzya-kArin#} or {#-kft#}. {@3@} {#SIGra-#}
-<div n="lb"/>{#-kopin, sulaBakopa#}. {@-Hastily,@} {%adv.%} {#SIGraM,#}
-<div n="lb"/>{#kzipraM, satvaraM, avilaMbaM, tvaritaM, ASu, Jawiti,#}
-<div n="lb"/>{#drutaM#}. {@2@} {#sahasA, saraBasaM, sasaMBramaM, vegena#}. {@3@}
-<div n="lb"/>{#kopena, saMraMBeRa#}.
+{#SIGratA, kzipratA, taras#} {%n.,%} {#raBasaH-saM, tvarita-#}
+{#-ASu-gati#} {%f.-%} {#gamanaM#}. {%-v. i.,%} {@-en,@} ‘make
+h.’ {#tvar#} 1 A, {#satvaraM-ASu-gam#} or {#cal#} or
+{#DAv#} 1 P; ‘h. towards’ {#aBidru#} 1 P.
+{%-v. t.%} {@-en,@} {#tvar#} c. ({#tvarayati#}). {@-Hasty,@}
+{%a.%} {#satvara, tvarita, kzipra, tUrRa, SIGra, tvarAvat,#}
+{#druta, avilaMbin, ASukArin#}. {@2@} {#sAhasin,#}
+{#avimfSya-asamIkzya-kArin#} or {#-kft#}. {@3@} {#SIGra-#}
+{#-kopin, sulaBakopa#}. {@-Hastily,@} {%adv.%} {#SIGraM,#}
+{#kzipraM, satvaraM, avilaMbaM, tvaritaM, ASu, Jawiti,#}
+{#drutaM#}. {@2@} {#sahasA, saraBasaM, sasaMBramaM, vegena#}. {@3@}
+{#kopena, saMraMBeRa#}.
 <LEND>

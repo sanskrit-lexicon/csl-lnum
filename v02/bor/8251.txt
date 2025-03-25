@@ -1,8 +1,8 @@
 <L>8251<pc>261<k1>extravagance<k2>extravagance
-<div n="lb"/>{@EXTRAVAGANCE:@}¦ <div n="I">I In expenditure: {#ativyayaH#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#mahAn vyayaH,#}</div> <div n="xe">{%began to enjoy with e.:%}</div> <div n="xs">{#mahatAvyayenopa-#}
-<div n="lb"/>{#BoktumArabDavAn,#}</div> Mu. </div><div n="I">II Of expression:
-<div n="lb"/>{#atiSayoktiH,#} Kav. </div><div n="I">III Excess: q.v. </div><div n="I">IV
-<div n="lb"/>Wandering beyond proper limits: {#vyaBicAraH#}
-<div n="lb"/>(lit. and fig.).</div>
+{@EXTRAVAGANCE:@}¦ <div n="I">I In expenditure: {#ativyayaH#}
+<div n="xe">{%or%}</div> <div n="xs">{#mahAn vyayaH,#}</div> <div n="xe">{%began to enjoy with e.:%}</div> <div n="xs">{#mahatAvyayenopa-#}
+{#BoktumArabDavAn,#}</div> Mu. </div><div n="I">II Of expression:
+{#atiSayoktiH,#} Kav. </div><div n="I">III Excess: q.v. </div><div n="I">IV
+Wandering beyond proper limits: {#vyaBicAraH#}
+(lit. and fig.).</div>
 <LEND>

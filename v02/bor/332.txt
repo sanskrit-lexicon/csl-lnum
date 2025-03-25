@@ -1,9 +1,9 @@
 <L>332<pc>013<k1>adultery<k2>adultery
-<div n="lb"/>{@ADULTERY:@}¦ <div n="1">(1) {#vyaBicAraH;#} </div><div n="1">(2) {#pAradAryam;#} </div><div n="1">(3)
-<div n="lb"/>{#parastrIgamanam;#} </div><div n="1">(4) {#parakalatralaNGanam;#} </div><div n="1">(5) {#patilaNGanam;#}</div>
-<div n="lb"/><div n="1">(6) {#parapuruzasaNgamanam.#} N. B. Note that 2, 3, and 4
-<div n="lb"/>applicable to men only, and 5 and 6 to
-<div n="lb"/>women only. Ph.: {%to commit a. with a man%}
-<div n="lb"/>{#parapuruzaM saMgacCati#} ({#gam,#} c. 1), {%with a woman%}
-<div n="lb"/>{#parastrIM Bajate-ti#} ({#maj,#} c. 1).</div>
+{@ADULTERY:@}¦ <div n="1">(1) {#vyaBicAraH;#} </div><div n="1">(2) {#pAradAryam;#} </div><div n="1">(3)
+{#parastrIgamanam;#} </div><div n="1">(4) {#parakalatralaNGanam;#} </div><div n="1">(5) {#patilaNGanam;#}</div>
+<div n="1">(6) {#parapuruzasaNgamanam.#} N. B. Note that 2, 3, and 4
+applicable to men only, and 5 and 6 to
+women only. Ph.: {%to commit a. with a man%}
+{#parapuruzaM saMgacCati#} ({#gam,#} c. 1), {%with a woman%}
+{#parastrIM Bajate-ti#} ({#maj,#} c. 1).</div>
 <LEND>

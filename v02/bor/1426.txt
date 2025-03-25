@@ -1,8 +1,8 @@
 <L>1426<pc>050<k1>average<k2>average
-<div n="lb"/>{@AVERAGE@}¦ (adj.): Ph. {%all her parts are of a.%}
-<div n="lb"/><div n="xe">{%dimensions%}</div> <div n="xs">{#asyAH sarva evAvayavAH nAtisTUlA nAtikf#}</div>
-<div n="lb"/><ls>D.</ls> vi.; <div n="xe">{%there was a. amount of rainfall this%}
-<div n="lb"/>{%year%}</div> <div n="xs">{#*asmin varze nAtyaDikA nAtyalpA vfzwiH papAta;#}</div> [Page051]
-<div n="lb"/><div n="xe">{%is a man af a. stamp%}</div> <div n="xs">{#*tasya budDirnAtipraKarA nAti-#}
-<div n="lb"/>{#sTUlA.#}</div>
+{@AVERAGE@}¦ (adj.): Ph. {%all her parts are of a.%}
+<div n="xe">{%dimensions%}</div> <div n="xs">{#asyAH sarva evAvayavAH nAtisTUlA nAtikf#}</div>
+<ls>D.</ls> vi.; <div n="xe">{%there was a. amount of rainfall this%}
+{%year%}</div> <div n="xs">{#*asmin varze nAtyaDikA nAtyalpA vfzwiH papAta;#}</div> [Page051]
+<div n="xe">{%is a man af a. stamp%}</div> <div n="xs">{#*tasya budDirnAtipraKarA nAti-#}
+{#sTUlA.#}</div>
 <LEND>

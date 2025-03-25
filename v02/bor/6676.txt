@@ -1,8 +1,8 @@
 <L>6676<pc>213<k1>divine<k2>divine
-<div n="lb"/>{@DIVINE@}¦ (adj.): <div n="1">(1) {#divyaH#} ({#vyA, vyaM#}) (best
-<div n="lb"/>equiv.), <div n="xe">{%d. hide:%}</div> <div n="xs">{#divyamajinam,#}</div> S. p.; <div n="xe">{%d. bed:%}</div> <div n="xs">{#SayanaM #}
-<div n="lb"/>{# divyam,#}</div> Mah.; </div><div n="1">(2) {#dEvaH#} ({#vI, vaM#}), {%d. language:%}
-<div n="lb"/>{#dEvI vAka,#} U.; </div><div n="1">(3) by comp, <div n="xe">{%d. intellect:%}</div> <div n="xs">{#devaDIH,#}</div>
-<div n="lb"/>B.; </div><div n="1">(4) {#amAnuzaH#} ({#zI, zaM#}) (= not human);
-<div n="lb"/>{#apArTivaH#} ({#vI, vaM#}) (not earthly), R.</div>
+{@DIVINE@}¦ (adj.): <div n="1">(1) {#divyaH#} ({#vyA, vyaM#}) (best
+equiv.), <div n="xe">{%d. hide:%}</div> <div n="xs">{#divyamajinam,#}</div> S. p.; <div n="xe">{%d. bed:%}</div> <div n="xs">{#SayanaM #}
+{# divyam,#}</div> Mah.; </div><div n="1">(2) {#dEvaH#} ({#vI, vaM#}), {%d. language:%}
+{#dEvI vAka,#} U.; </div><div n="1">(3) by comp, <div n="xe">{%d. intellect:%}</div> <div n="xs">{#devaDIH,#}</div>
+B.; </div><div n="1">(4) {#amAnuzaH#} ({#zI, zaM#}) (= not human);
+{#apArTivaH#} ({#vI, vaM#}) (not earthly), R.</div>
 <LEND>

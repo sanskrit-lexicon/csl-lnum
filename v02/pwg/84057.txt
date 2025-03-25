@@ -1,8 +1,8 @@
 <L>84057<pc>6-0317<k1>rAjaDAnI<k2>rAjaDAnI
-{#rAjaDAnI#}¦ <lex>f.</lex> {%die Residenz eines Fürsten%} 
-<ls>H. 973.</ls> 
-<ls>HALĀY. 2, 131.</ls> 
-<ls>MBH. 3, 15887. 4, 147. fg. 7, 2972</ls> ({#yamasya#}). 
-<ls>R.1,4,24</ls> <ls>?(3,65 GORR.).9,66.2,46,4. 52,50. 88,19.4,41,66.6,16,105. 107,16. RAGH.2,70.5,40. ŚĀK. 112,19. MEGH. 25. KATHĀS. 15,63. 25,269. 32,121. 34,14. RĀJA-TAR.4,24. 70.5,256.6,125. Verz. d. Oxf. H. 13,b,3. PRAB. 25,7.</ls> {#kula°#} 
-<ls>RAGH. 16, 36.</ls>
+{#rAjaDAnI#}¦ <lex>f.</lex> {%die Residenz eines Fürsten%}
+<ls>H. 973.</ls>
+<ls>HALĀY. 2,131.</ls>
+<ls>MBH. 3,15887.</ls> <ls n="MBH.">4,147. fg.</ls> <ls n="MBH.">7,2972</ls> ({#yamasya#}).
+<ls>R. 1,4,24</ls> (<ls n="GORR. 1,">3,65</ls> <ls>GORR.</ls>). <ls n="R. 1,">9,66.</ls> <ls n="R.">2,46,4.</ls> <ls n="R. 2,">52,50.</ls> <ls n="R. 2,">88,19.</ls> <ls n="R.">4,41,66.</ls> <ls n="R.">6,16,105.</ls> <ls n="R. 6,">107,16.</ls> <ls>RAGH. 2,70.</ls> <ls n="RAGH.">5,40.</ls> <ls>ŚĀK. 112,19.</ls> <ls>MEGH. 25.</ls> <ls>KATHĀS. 15,63.</ls> <ls n="KATHĀS.">25,269.</ls> <ls n="KATHĀS.">32,121.</ls> <ls n="KATHĀS.">34,14.</ls> <ls>RĀJA-TAR. 4,24. 70. 5,256. 6,125.</ls> <ls>Verz. d. Oxf. H. 13,b,3.</ls> <ls>PRAB. 25,7.</ls> {#kula°#}
+<ls>RAGH. 16,36.</ls>
 <LEND>

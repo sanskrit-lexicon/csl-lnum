@@ -1,12 +1,12 @@
 <L>101481<pc>517,3<k1>DU<k2>DU<h>1<e>1
-<hom>1.</hom> <s>DU</s> ¦ <ab>cl.</ab> 5. <ab>Ā.</ab> <ab>P.</ab> <s>DUno/ti</s>, <s>°nute/</s>, <ls>RV.</ls>; <ls>AV.</ls>;
+<hom>1.</hom> <s>DU</s> ¦ <ab>cl.</ab> 5. <ab>P.</ab> <ab>Ā.</ab> <s>DUno/ti</s>, <s>°nute/</s>, <ls>RV.</ls>; <ls>AV.</ls>;
 <div n="vp"/> <s>Dunoti</s>, <s>°nute</s>, <ls>Br.</ls> &c. &c.;
 <div n="vp"/> <ab>cl.</ab> 6. <ab>P.</ab> (<ls>Dhātup. xxvii, 9</ls>) <s>Duvati</s>, <ls>AV.</ls>; <ls>Br.</ls> (<ab>cf.</ab> <s>ni-</s>; <ab>Pot.</ab> <s>DUvet</s>, <ls>Kāṭh.</ls>);
-<div n="vp"/> <ab>cl.</ab> 9. <ab>Ā.</ab> <ab>P.</ab> (<ls>xxxi, 17</ls>) <ab>Pot.</ab> <s>DunIyAt</s>, <ls>Suśr.</ls>;
+<div n="vp"/> <ab>cl.</ab> 9. <ab>P.</ab> <ab>Ā.</ab> (<ls n="Kāṭh.">xxxi, 17</ls>) <ab>Pot.</ab> <s>DunIyAt</s>, <ls>Suśr.</ls>;
 <div n="vp"/> <ab>p.</ab> <ab>Ā.</ab> <s>DunAna</s>, <ls>BhP.</ls>;
-<div n="vp"/> <ab>cl.</ab> 1. <ab>P.</ab> (<ls>xxxiv, 29</ls>) <s>Davati</s>;
+<div n="vp"/> <ab>cl.</ab> 1. <ab>P.</ab> (<ls n="BhP.">xxxiv, 29</ls>) <s>Davati</s>;
 <div n="vp"/> <ab>cl.</ab> 2. <ab>Ā.</ab>, 3. <ab>pl.</ab> <s>Duvate</s> (<s>Dunva/te</s>?), <ls>ŚBr.</ls>;
-<div n="vp"/> <ab>p.</ab> <s>DuvAna/</s>, <ls>TS.</ls> (<ab>pf.</ab> <s>duDAva</s>, <ls>MBh.</ls>, <s>°Duve</s>, <ls>AV.</ls>; <s>duDuvIta</s> and <s>dUDot</s>, <ls>RV.</ls> : <ab>aor.</ab> <s>aDUzwa</s>, 3. <ab>pl.</ab> <s>°zata</s>, <ls>ib.</ls>; <s>aDozwa</s>, <s>aDavizwa</s>; <s>aDOzIt</s>, <s>aDAvIt</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>Davizyati</s>, <s>°te</s>, <ls>Br.</ls> &c.; <s>Dozyati</s>, <s>°te</s>, <s>DotA</s> & <s>DavitA</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>DUtvA</s>, <ls>AitBr.</ls>, <s>-DU/ya</s>, <ls>AV.</ls> &c.; <ab>inf.</ab> <s>Davitum</s> <ab>Gr.</ab>) 
+<div n="vp"/> <ab>p.</ab> <s>DuvAna/</s>, <ls>TS.</ls> (<ab>pf.</ab> <s>duDAva</s>, <ls>MBh.</ls>, <s>°Duve</s>, <ls>AV.</ls>; <s>duDuvIta</s> and <s>dUDot</s>, <ls>RV.</ls> : <ab>aor.</ab> <s>aDUzwa</s>, 3. <ab>pl.</ab> <s>°zata</s>, <ls>ib.</ls>; <s>aDozwa</s>, <s>aDavizwa</s>; <s>aDOzIt</s>, <s>aDAvIt</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>Davizyati</s>, <s>°te</s>, <ls>Br.</ls> &c.; <s>Dozyati</s>, <s>°te</s>, <s>DotA</s> & <s>DavitA</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>DUtvA</s>, <ls>AitBr.</ls>, <s>-DU/ya</s>, <ls>AV.</ls> &c.; <ab>inf.</ab> <s>Davitum</s> <ab>Gr.</ab>)
 <div n="to"/>to shake, agitate, cause to tremble, <ls>RV.</ls> &c. &c.;
 <div n="to"/>to shake down from (<ab>e.g.</ab> fruits [<ab>acc.</ab>] from a tree [<ab>acc.</ab>]), <ls>RV. ix, 97, 53</ls>;
 <div n="to"/> (oftener <ab>Ā.</ab>) to shake off, remove, liberate one's self from (<ab>acc.</ab>), <ls>Br.</ls>; <ls>Up.</ls>; <ls>MBh.</ls> &c.;
@@ -14,11 +14,11 @@
 <div n="to"/>to treat roughly, hurt, injure, destroy, <ls>Kāv.</ls>; <ls>Pur.</ls>;
 <div n="to"/>to strive against, resist, <ls>Pañc. i, 42</ls> :
 <div n="vp"/><ab>Pass.</ab> <s>DUya/te</s>, <ls>AV.</ls> &c. (<ab>p.</ab> <s>DUyat</s>, <ls>MBh.</ls>) :
-<div n="vp"/><ab>Caus.</ab> <s>DAvayati</s> (<ls>Dhātup. xxxiv, 29</ls>) and <s>DUnayati</s> (See <s>DUna</s>) :
+<div n="vp"/><ab>Caus.</ab> <s>DAvayati</s> (<ls>Dhātup. xxxiv, 29</ls>) and <s>DUnayati</s> (see <s>DUna</s>) :
 <div n="vp"/><ab>Desid.</ab> <s>duDUzati</s>, <s>°te</s> <ab>Gr.</ab>;
 <div n="vp"/> <ab>Intens.</ab> <s>doDavIti</s>, <ls>RV.</ls>; <ls>MBh.</ls> (<ab>p.</ab> <s>do<srs/>Duvat da/viDvat</s>, <ls>RV.</ls>);
 <div n="vp"/> <s>doDUyate</s>, <ab>p.</ab> <s>°yamAna</s> and <s>°yat</s>, <ls>MBh.</ls>;
-<div n="vp"/> so shake or move violently (trans. and intr.);
+<div n="vp"/> to shake or move violently (<ab>trans.</ab> and <ab>intr.</ab>);
 <div n="to"/>to shake off or down;
-<div n="to"/>to fan or kindle. [<ab>cf.</ab> √ <s>Dav</s> and <s>DAv</s>; <ab>Gk.</ab> <lang n="greek">θύω</lang>, <lang n="greek">θύνω</lang>, <lang n="greek">θυμός</lang>.]<info westergaard="DUY,27.9,05.0009;DUY,34.29,10.0227"/><info whitneyroots="DU,84"/><info verb="genuineroot" cp="5P,5Ā,6P,9P,9Ā,1P,2Ā"/>
+<div n="to"/>to fan or kindle. [<ab>cf.</ab> √ <s>Dav</s> and <s>DAv</s>; <lang>Gk.</lang> <gk>θύω</gk>, <gk>θύνω</gk>, <gk>θυμός</gk>.]<info westergaard="DUY,27.9,05.0009;DUY,34.29,10.0227"/><info whitneyroots="DU,84"/><info verb="genuineroot" cp="5P,5Ā,6P,9P,9Ā,1P,2Ā"/>
 <LEND>

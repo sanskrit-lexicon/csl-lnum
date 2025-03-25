@@ -1,24 +1,21 @@
 <L>31698<pc>3-0491<k1>daG<k2>daG
-{#daG#}¦, {#da/Gyati = gatikarman#} 
-<ls>NAIGH. 2, 4.</ls> = {#sravati#} 
-<ls>NIR. 1, 9.</ls> {%reichen bis an; Etwas erreichen.%} Mit {#paScA, paScAt#} {%hinter Etwas zurückbleiben, zu kurz kommen%}: {#pa\ScA sa da^GyA\ yo a\Gasya^ DA\tA#} 
-<ls>ṚV. 1, 123, 5.</ls> {#mA pa\ScAdda^Gma raTyo viBA\ge#} 
-<ls n="ṚV.">7, 56, 21.</ls>; vgl. {#apaScAddaGvan#} . Aehnlich mit {#aDas#} {%darunter bleiben, nicht die gehörige Höhe erreichen%}: {#nAtyudgfhRIyAt nADo daGnuyAt#} 
-<ls>KĀṬH. 8, 12.</ls> — {#daG, daGno/ti#} {%schlagen; schützen%} 
-<ls>DHĀTUP. 27, 26</ls>; vgl. {#daNG#} .
-
-<div n="p">— {#ati#} {%über%} (ein Ziel) {%hinausreichen, - hinausschiessen; an Jmd vorübergehen%}: {#mA pari^ varktamu\ta mAti^ Daktam ayaM vA^M BA\go nihi^taH#} 
-<ls>ṚV. 1, 183, 4.</ls> {#SikzA^ sto\tfByo\ mAti^ Da\gBago^ naH#} 
-<ls n="ṚV.">2, 11, 21.</ls> {#Dak#} wird 
-<ls>P. 2, 4, 80</ls> (viell. nur vom Schol.) auf {#dah#} zurückgeführt.
-
-<div n="p">— {#A#} {%Jmd%} (acc.) {%anfallen, Etwas anthun%}: {#mA tvA\ vfkA^ aGA\yavo\ mA ga^nDa\rvo vi\SvAva^su\rAda^Gat#} 
-<ls>TS. 1, 2, 9, 1.</ls> {#(sarasvati) mApa^ sPurI\H paya^sA\ mA na\A Da^k#} {%entziehe dich nicht widerspänstig mit deiner Milch, thue uns kein Leid%} 
-<ls>ṚV. 6, 61, 14.</ls> {#mA na\H kAma^M ma\haya^nta\mA Da^k#} 
-<ls n="ṚV.">1, 178, 1.</ls> impers.: {#mA tve sacA\ tana^ye\ nitya\ A Da^k#} {%nicht widerfahre Etwas von dir aus unseren Kindern%} 
-<ls n="ṚV.">7, 1, 21.</ls>
-
-<div n="p">— {#pra#} etwa {%stürzen, fallen%}: {#I\Sva\ro vA e\za parA^N pra\daGa^H . yo yUpa\M roha^ti#} {%es kann ihm geschehen, dass er rückwärts fällt%}, 
-<ls>TBR. 1, 3, 7, 7.</ls> 
-<ls>ŚAT. BR. 13, 1, 3, 4. 2, 1, 6</ls>, wo an beiden Stellen irrig {#pradaGoryaH#} steht; die gewöhnliche Infinitivform würde {#pradaGitoH#} lauten.
+{#daG#}¦, {#da/Gyati = gatikarman#}
+<ls>NAIGH. 2,4.</ls> = {#sravati#}
+<ls>NIR. 1,9.</ls> {%reichen bis an; Etwas erreichen.%} Mit {#paScA, paScAt#} {%hinter Etwas zurückbleiben, zu kurz kommen%}: {#pa\ScA sa da^GyA\ yo a\Gasya^ DA\tA#}
+<ls>ṚV. 1,123,5.</ls> {#mA pa\ScAdda^Gma raTyo viBA\ge#}
+<ls n="ṚV.">7,56,21.</ls>; vgl. {#apaScAddaGvan#} . Aehnlich mit {#aDas#} {%darunter bleiben, nicht die gehörige Höhe erreichen%}: {#nAtyudgfhRIyAt nADo daGnuyAt#}
+<ls>KĀṬH. 8,12.</ls> — {#daG, daGno/ti#} {%schlagen; schützen%}
+<ls>DHĀTUP. 27,26</ls>; vgl. {#daNG#} .
+<div n="p">— {#ati#} {%über%} (ein Ziel) {%hinausreichen, — hinausschiessen; an Jmd vorübergehen%}: {#mA pari^ varktamu\ta mAti^ Daktam ayaM vA^M BA\go nihi^taH#}
+<ls>ṚV. 1,183,4.</ls> {#SikzA^ sto\tfByo\ mAti^ Da\gBago^ naH#}
+<ls n="ṚV.">2,11,21.</ls> {#Dak#} wird
+<ls>P. 2,4,80</ls> (viell. nur vom Schol.) auf {#dah#} zurückgeführt.
+<div n="p">— {#A#} {%Jmd%} (acc.) {%anfallen, Etwas anthun%}: {#mA tvA\ vfkA^ aGA\yavo\ mA ga^nDa\rvo vi\SvAva^su\rAda^Gat#}
+<ls>TS. 1,2,9,1.</ls> {#(sarasvati) mApa^ sPurI\H paya^sA\ mA na\A Da^k#} {%entziehe dich nicht widerspänstig mit deiner Milch, thue uns kein Leid%}
+<ls>ṚV. 6,61,14.</ls> {#mA na\H kAma^M ma\haya^nta\mA Da^k#}
+<ls n="ṚV.">1,178,1.</ls> impers.: {#mA tve sacA\ tana^ye\ nitya\ A Da^k#} {%nicht widerfahre Etwas von dir aus unseren Kindern%}
+<ls n="ṚV.">7,1,21.</ls>
+<div n="p">— {#pra#} etwa {%stürzen, fallen%}: {#I\Sva\ro vA e\za parA^N pra\daGa^H . yo yUpa\M roha^ti#} {%es kann ihm geschehen, dass er rückwärts fällt%},
+<ls>TBR. 1,3,7,7.</ls>
+<ls>ŚAT. BR. 13,1,3,4. 2,1,6</ls>, wo an beiden Stellen irrig {#pradaGoryaH#} steht; die gewöhnliche Infinitivform würde {#pradaGitoH#} lauten.
 <LEND>

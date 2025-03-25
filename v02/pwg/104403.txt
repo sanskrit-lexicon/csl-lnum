@@ -1,40 +1,40 @@
 <L>104403<pc>7-0613<k1>sadyas<k2>sadya/s
-{#sadya/s#}¦ (von 2. {#sa + dyu = div#}; vgl. {#sadivas#}) adv. 
-<div n="1"> 1) {%desselbigen Tages; sogleich, soeben, alsbald, sofort; aufeinmal, plötzlich%} 
-<ls>P. 5, 3, 22.</ls> 
-<ls>VOP. 7, 110.</ls> 
-<ls>AK. 3, 5, 9.</ls> 
-<ls>H. 1532.</ls> 
-<ls>H. ś. 202.</ls> <ls>HALĀY. 4, 67.</ls> <ls>ṚV. 1, 61, 7.</ls> <ls n="ṚV. 1, 61,">14.</ls> {#sa\dyaste^ rA\yo dA\vane^ syAma#} 
-<ls n="ṚV.">2, 11, 12.</ls> {#sa\dyaH pravI^tA\ vfza^RaM jajAna#} 
-<ls n="ṚV.">3, 29, 3.</ls> <ls n="ṚV.">4, 7, 9.</ls> <ls n="ṚV.">5, 1, 9.</ls> {#BUri^ ci\dannA\ samida^tti sa\dyaH#} {%auf einen Sitz%} 
-<ls n="ṚV.">7, 4, 2.</ls> <ls n="ṚV. 7,">18, 13.</ls> <ls n="ṚV. 7,">32, 5.</ls> {#sa\dyo jA\to ro^ravIti#} 
-<ls n="ṚV.">7, 101, 1.</ls> <ls n="ṚV.">8, 3, 10.</ls> <ls n="ṚV.">10, 27, 19.</ls> <ls n="ṚV. 10,">39, 8.</ls> {%aufeinmal%} 
-<ls n="ṚV. 10,">62, 8.</ls> <ls n="ṚV. 10,">115, 1.</ls> {#sa\dyaH sa\rvAM pari^ paSyasi\ BUmi^m#} 
-<ls>AV. 11, 2, 25.</ls> 
-<ls>ŚAT. BR. 11, 5, 4, 12. 14, 1, 1, 32.</ls> 
-<ls>PAÑCAV. BR. 16, 6, 11. 12, 1.</ls> 
-<ls>PĀR. GṚHY. 2, 3.</ls> {#sadya eva viSuDyati#} 
-<ls>M. 5, 78. 94. 98. 8, 307. 325. 364. 370. 9, 81. 83. 313. 10, 92. 11, 79.</ls> 
-<ls>YĀJÑ. 2, 7.</ls> {#sadyo vA kAmajEScihnEH#} {%frisch, soeben%} 
-<ls>?283. - MBH. 1, 256. 3460. 13, 183. 363. 1970. HARIV. 5264. R. 1, 55, 9. 2, 35, 12. 20. 55, 13. 63,15.  64, 21. 65, 28. R. GORR. 1, 39, 15. 3, 55, 3. 58, 35. 74, 12. MEGH. 16. 25. 60. 70. 79. 95. 106. ad 113. RAGH. 2, 59. 8, 94. 12, 37. KUMĀRAS. 3, 29. ŚĀK. 51, 17. ad 78. 97, v. l. VIKR. 154. MĀLAV. 9, 7. Spr. (II) 64. 1379. 2097</ls>
+{#sadya/s#}¦ (von 2. {#sa + dyu = div#}; vgl. {#sadivas#}) adv.
+<div n="1"> 1) {%desselbigen Tages; sogleich, soeben, alsbald, sofort; aufeinmal, plötzlich%}
+<ls>P. 5,3,22.</ls>
+<ls>VOP. 7,110.</ls>
+<ls>AK. 3,5,9.</ls>
+<ls>H. 1532.</ls>
+<ls>H. ś. 202.</ls> <ls>HALĀY. 4,67.</ls> <ls>ṚV. 1,61,7.</ls> <ls n="ṚV. 1,61,">14.</ls> {#sa\dyaste^ rA\yo dA\vane^ syAma#}
+<ls n="ṚV.">2,11,12.</ls> {#sa\dyaH pravI^tA\ vfza^RaM jajAna#}
+<ls n="ṚV.">3,29,3.</ls> <ls n="ṚV.">4,7,9.</ls> <ls n="ṚV.">5,1,9.</ls> {#BUri^ ci\dannA\ samida^tti sa\dyaH#} {%auf einen Sitz%}
+<ls n="ṚV.">7,4,2.</ls> <ls n="ṚV. 7,">18,13.</ls> <ls n="ṚV. 7,">32,5.</ls> {#sa\dyo jA\to ro^ravIti#}
+<ls n="ṚV.">7,101,1.</ls> <ls n="ṚV.">8,3,10.</ls> <ls n="ṚV.">10,27,19.</ls> <ls n="ṚV. 10,">39,8.</ls> {%aufeinmal%}
+<ls n="ṚV. 10,">62,8.</ls> <ls n="ṚV. 10,">115,1.</ls> {#sa\dyaH sa\rvAM pari^ paSyasi\ BUmi^m#}
+<ls>AV. 11,2,25.</ls>
+<ls>ŚAT. BR. 11,5,4,12.</ls> <ls n="ŚAT. BR.">14,1,1,32.</ls>
+<ls>PAÑCAV. BR. 16,6,11. 12,1.</ls>
+<ls>PĀR. GṚHY. 2,3.</ls> {#sadya eva viSuDyati#}
+<ls>M. 5,78.</ls> <ls n="M. 5,">94.</ls> <ls n="M. 5,">98.</ls> <ls n="M.">8,307.</ls> <ls n="M. 8,">325.</ls> <ls n="M. 8,">364.</ls> <ls n="M. 8,">370.</ls> <ls n="M.">9,81.</ls> <ls n="M. 9,">83.</ls> <ls n="M. 9,">313.</ls> <ls n="M.">10,92.</ls> <ls n="M.">11,79.</ls>
+<ls>YĀJÑ. 2,7.</ls> {#sadyo vA kAmajEScihnEH#} {%frisch, soeben%}
+<ls n="YĀJÑ.">283.</ls> -- <ls>MBH. 1,256.</ls> <ls n="MBH. 1,">3460.</ls> <ls n="MBH.">13,183.</ls> <ls n="MBH. 13,">363.</ls> <ls n="MBH. 13,">1970.</ls> <ls>HARIV. 5264.</ls> <ls>R. 1,55,9.</ls> <ls n="R.">2,35,12.</ls> <ls n="R. 2,35,">20.</ls> <ls n="R. 2,">55,13.</ls> <ls n="R. 2,">63,15.</ls> <ls n="R. 2,">64,21.</ls> <ls n="R. 2,">65,28.</ls> <ls>R. GORR. 1,39,15.</ls> <ls n="R. GORR.">3,55,3.</ls> <ls n="R. GORR. 3,">58,35.</ls> <ls n="R. GORR. 3,">74,12.</ls> <ls>MEGH. 16. 25. 60. 70. 79. 95. 106. ad 113.</ls> <ls>RAGH. 2,59.</ls> <ls n="RAGH.">8,94.</ls> <ls n="RAGH.">12,37.</ls> <ls>KUMĀRAS. 3,29.</ls> <ls>ŚĀK. 51,17. ad 78. 97, v. l.</ls> <ls>VIKR. 154.</ls> <ls>MĀLAV. 9,7.</ls> <ls>Spr. (II) 64.</ls> <ls n="Spr. (II)">1379.</ls> <ls n="Spr. (II)">2097</ls>
 [Page7-0614]
-({#anyedyuH, sadyo vA#}). 
-<ls>2620. 3574. 4088. 4787. 5955. 6498. 6773. fgg. 6924. 6993.</ls> <ls>VARĀH. BṚH. S. 3, 27. fg. 11, 29. 30, 20. 32, 30. 42, 14. 97, 9.</ls> <ls>KATHĀS. 2, 81. 12, 50. 142. 18, 184. 22, 93. 27, 102. 35, 82. 42, 141.</ls> {#PalaM sadyaH#} 
-<ls>AK. 2, 8, 1, 29.</ls> 
-<ls>HALĀY. 1, 118.</ls> 
-<ls>PRAB. 54, 3. 117, 8.</ls> 
-<ls>MĀRK. P. 51, 113.</ls> 
-<ls>BHĀG. P. 3, 9, 17. 32, 21.</ls> 
-<ls>DHŪRTAS. 95, 15.</ls> 
-<ls>LA. (III) 87, 7.</ls> <ls>PAÑCAT. 175, 1.</ls> 
-<div n="1">— 2) {%innerhalb eines Tages%}, daher auch {%täglich%}: die Sonnenrosse {#pari\ dyAvA^pfTi\vI ya^nti sa\dyaH#} 
-<ls>ṚV. 1, 115, 3.</ls> <ls n="ṚV.">4, 45, 7.</ls> <ls n="ṚV. 4,">51, 5.</ls> <ls n="ṚV.">5, 47, 4.</ls> <ls n="ṚV.">6, 48, 21.</ls> 
-<ls>AIT. BR. 4, 20.</ls> 
-<ls>AV. 2, 2, 3. 4, 38, 5. 8, 10, 21.</ls> {#sa\dyaSci\dyA du^du\he BUri^ DA\seH#} 
-<ls>ṚV. 3, 57, 1.</ls> <ls n="ṚV.">4, 30, 18.</ls> <ls n="ṚV.">6, 62, 1.</ls> {#sadyas, arDamAse, mAsi#} 
-<ls>TS. 2, 5, 6, 6.</ls> 
-<ls>KĀTY. ŚR. 2, 1, 16. 22, 3, 27.</ls> {#a°#} 
-<ls>5, 30. 4, 2, 44.</ls> {#sadyo dadAti yaScAnnam#} 
-<ls>MBH. 13, 3368.</ls>
+({#anyedyuH, sadyo vA#}).
+<ls n="Spr. (II)">2620. 3574. 4088. 4787. 5955. 6498. 6773. fgg. 6924. 6993.</ls> <ls>VARĀH. BṚH. S. 3,27. fg. 11,29. 30,20. 32,30. 42,14. 97,9.</ls> <ls>KATHĀS. 2,81.</ls> <ls n="KATHĀS.">12,50.</ls> <ls n="KATHĀS. 12,">142.</ls> <ls n="KATHĀS.">18,184.</ls> <ls n="KATHĀS.">22,93.</ls> <ls n="KATHĀS.">27,102.</ls> <ls n="KATHĀS.">35,82.</ls> <ls n="KATHĀS.">42,141.</ls> {#PalaM sadyaH#}
+<ls>AK. 2,8,1,29.</ls>
+<ls>HALĀY. 1,118.</ls>
+<ls>PRAB. 54,3.</ls> <ls n="PRAB.">117,8.</ls>
+<ls>MĀRK. P. 51,113.</ls>
+<ls>BHĀG. P. 3,9,17.</ls> <ls n="BHĀG. P. 3,">32,21.</ls>
+<ls>DHŪRTAS. 95,15.</ls>
+<ls>LA. (III) 87,7.</ls> <ls>PAÑCAT. 175,1.</ls>
+<div n="1">— 2) {%innerhalb eines Tages%}, daher auch {%täglich%}: die Sonnenrosse {#pari\ dyAvA^pfTi\vI ya^nti sa\dyaH#}
+<ls>ṚV. 1,115,3.</ls> <ls n="ṚV.">4,45,7.</ls> <ls n="ṚV. 4,">51,5.</ls> <ls n="ṚV.">5,47,4.</ls> <ls n="ṚV.">6,48,21.</ls>
+<ls>AIT. BR. 4,20.</ls>
+<ls>AV. 2,2,3.</ls> <ls n="AV.">4,38,5.</ls> <ls n="AV.">8,10,21.</ls> {#sa\dyaSci\dyA du^du\he BUri^ DA\seH#}
+<ls>ṚV. 3,57,1.</ls> <ls n="ṚV.">4,30,18.</ls> <ls n="ṚV.">6,62,1.</ls> {#sadyas, arDamAse, mAsi#}
+<ls>TS. 2,5,6,6.</ls>
+<ls>KĀTY. ŚR. 2,1,16.</ls> <ls n="KĀTY. ŚR.">22,3,27.</ls> {#a°#}
+<ls n="KĀTY. ŚR.">5,30. 4,2,44.</ls> {#sadyo dadAti yaScAnnam#}
+<ls>MBH. 13,3368.</ls>
 <LEND>

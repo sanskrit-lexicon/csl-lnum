@@ -1,15 +1,15 @@
 <L>38595<pc>4-0124<k1>nAvya<k2>nAvya^<h>1
-1. {#nAvya^#}¦ (wie eben) 
-<div n="1"> 1) <lex>adj.</lex> {%schiffbar%} 
-<ls>P. 4, 4, 91. 6, 1, 79.</ls> 
-<ls>AK. 1, 2, 3, 10.</ls> {#srotyA#} 
-<ls>AV. 8, 7, 15. 10, 1, 16.</ls> {#nadI#} 
-<ls>RAGH. 4, 31.</ls> {%für ein Schiff zugänglich%}: {#nAvyASrama#} 
-<ls>MBH. 3, 10027. 10029. 10078.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#A#} {%ein schiffbarer Fluss, Strom%}: {#na\va\tiM nA\vyA\3^\ ati^#} 
-<ls>AV. 8, 5, 9.</ls> {#ava^rData\ maDya\ A nA\vyA^nAm#} 
-<ls>ṚV. 1, 33, 11.</ls> <ls n="ṚV. 1,">80, 8.</ls> <ls n="ṚV. 1,">121, 13.</ls> 
-<ls>ŚAT. BR. 10, 5, 4, 14.</ls> 
-<ls>KĀṬH. 23, 6.</ls> 
+1. {#nAvya^#}¦ (wie eben)
+<div n="1"> 1) <lex>adj.</lex> {%schiffbar%}
+<ls>P. 4,4,91.</ls> <ls n="P.">6,1,79.</ls>
+<ls>AK. 1,2,3,10.</ls> {#srotyA#}
+<ls>AV. 8,7,15.</ls> <ls n="AV.">10,1,16.</ls> {#nadI#}
+<ls>RAGH. 4,31.</ls> {%für ein Schiff zugänglich%}: {#nAvyASrama#}
+<ls>MBH. 3,10027.</ls> <ls n="MBH. 3,">10029.</ls> <ls n="MBH. 3,">10078.</ls>
+<div n="1">— 2) <lex>f.</lex> {#A#} {%ein schiffbarer Fluss, Strom%}: {#na\va\tiM nA\vyA\3^\ ati^#}
+<ls>AV. 8,5,9.</ls> {#ava^rData\ maDya\ A nA\vyA^nAm#}
+<ls>ṚV. 1,33,11.</ls> <ls n="ṚV. 1,">80,8.</ls> <ls n="ṚV. 1,">121,13.</ls>
+<ls>ŚAT. BR. 10,5,4,14.</ls>
+<ls>KĀṬH. 23,6.</ls>
 <ls>KAUŚ. 18. 19.</ls>
 <LEND>

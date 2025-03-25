@@ -1,5 +1,5 @@
 <L>12388<pc>299-a<k1>gain<k2>gain
-<div n="lb"/>GAIN¦, {%s.%} {#lABaH, labDiH#} {%f.,%} {#prAptiH#} {%f.,%} {#PalaM, arjjanaM, upArjjanaM, laByaM, laByAMSaH,#}
-<div n="lb"/>{#pratipattiH#} {%f.,%} {#AyaH, PalodayaH, arTaH, utpannaM, paRyaPalatvaM, yogakzemaH,#}
-<div n="lb"/>{#vfdDiH#} {%f.,%} {#vivfdDiH#} {%f.,%} {#prayogaH#}.
+GAIN¦, {%s.%} {#lABaH, labDiH#} {%f.,%} {#prAptiH#} {%f.,%} {#PalaM, arjjanaM, upArjjanaM, laByaM, laByAMSaH,#}
+{#pratipattiH#} {%f.,%} {#AyaH, PalodayaH, arTaH, utpannaM, paRyaPalatvaM, yogakzemaH,#}
+{#vfdDiH#} {%f.,%} {#vivfdDiH#} {%f.,%} {#prayogaH#}.
 <LEND>

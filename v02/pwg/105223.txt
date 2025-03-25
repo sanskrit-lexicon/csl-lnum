@@ -1,28 +1,28 @@
 <L>105223<pc>7-0678<k1>samakza<k2>samakza
-{#samakza#}¦ <lex>adj.</lex> (jünger als das adv.) {%vor Augen seiend, sichtbar%} 
-<ls>ŚĀK. 190.</ls> 
-<ls>BHĀG. P. 10, 16, 38.</ls> {#samakza/m#} (von 2. {#sam + akza#} {%Auge%}) {%vor Augen, Angesichts, in Gegenwart von%} <is>gaṇa</is> {#SaradAdi#} 
-zu <ls>P. 5, 4, 107.</ls> <ls>VOP. 6, 65.</ls> ohne Ergänzung 
-<ls>RAGH. 14, 61.</ls> 
-<ls>Spr. (II) 3848</ls> (Gegens. {#paro'kze#}). 
-<ls>BHĀG. P. 7, 9, 47.</ls> mit dat.: {#sa\ma\kzame^naM gfRa\te ni vf^NDi#} 
-<ls>ṚV. 10, 87, 11.</ls> 
-<ls>AV. 5, 14, 4.</ls> mit gen. 
-<ls>M. 8, 254.</ls> 
-<ls>MBH. 1, 4726. 5, 7326.</ls> 
-<ls>HARIV. 6661.</ls> 
-<ls>R. 1, 73, 23. 2, 82, 18 (89, 1 GORR.). 4, 63, 1.</ls> <ls>RAGH. 15, 72.</ls> <ls>KUMĀRAS. 3, 75.</ls> <ls>ŚĀK. 97, 10.</ls> <ls>MĀLAV. 10, 12.</ls> <ls>KATHĀS. 4, 79.</ls> <ls>MĀRK. P. 69, 16.</ls> <ls>BHĀG. P. 9, 15, 22.</ls> <ls>HIT. 99, 10.</ls> mit der Ergänzung comp.: {#matsamakzam#} 
-<ls>MBH. 3, 2415. fg.</ls> 
-<ls>BHAG. 11, 42.</ls> 
-<ls>R. 3, 21, 6. 4, 13, 42.</ls> 
-<ls>MṚCCH. 126, 18.</ls> 
-<ls>KUMĀRAS. 3, 64.</ls> 
-<ls>MĀLAV. 11, 19.</ls> 
-<ls>MĀLATĪM. 47, 3.</ls> <ls>KATHĀS. 5, 133. 13, 3. 39, 201. 45, 357. 48, 124. 133.</ls> <ls>DAŚAK. 82, 14.</ls> {#asamakzam#} {%hinter dem Rücken%} 
-<ls>BHĀG. P. 9, 10, 11. 22.</ls> {#samakzatas = samakzam#} 
-<ls>4, 3, 15.</ls> {#samakzAt#} 
-<ls>LĀṬY. 4, 11, 22.</ls> {#samakzadarSana#} <lex>n.</lex> {%Autopsie%} 
-<ls>M. 8, 74.</ls> 
-<ls>MBH. 2, 2333.</ls> 
+{#samakza#}¦ <lex>adj.</lex> (jünger als das adv.) {%vor Augen seiend, sichtbar%}
+<ls>ŚĀK. 190.</ls>
+<ls>BHĀG. P. 10,16,38.</ls> {#samakza/m#} (von 2. {#sam + akza#} {%Auge%}) {%vor Augen, Angesichts, in Gegenwart von%} <is>gaṇa</is> {#SaradAdi#}
+zu <ls>P. 5,4,107.</ls> <ls>VOP. 6,65.</ls> ohne Ergänzung
+<ls>RAGH. 14,61.</ls>
+<ls>Spr. (II) 3848</ls> (Gegens. {#paro'kze#}).
+<ls>BHĀG. P. 7,9,47.</ls> mit dat.: {#sa\ma\kzame^naM gfRa\te ni vf^NDi#}
+<ls>ṚV. 10,87,11.</ls>
+<ls>AV. 5,14,4.</ls> mit gen.
+<ls>M. 8,254.</ls>
+<ls>MBH. 1,4726.</ls> <ls n="MBH.">5,7326.</ls>
+<ls>HARIV. 6661.</ls>
+<ls>R. 1,73,23.</ls> <ls n="R.">2,82,18</ls> (<ls n="GORR. 2,">89,1</ls> <ls>GORR.</ls>). <ls n="R.">4,63,1.</ls> <ls>RAGH. 15,72.</ls> <ls>KUMĀRAS. 3,75.</ls> <ls>ŚĀK. 97,10.</ls> <ls>MĀLAV. 10,12.</ls> <ls>KATHĀS. 4,79.</ls> <ls>MĀRK. P. 69,16.</ls> <ls>BHĀG. P. 9,15,22.</ls> <ls>HIT. 99,10.</ls> mit der Ergänzung comp.: {#matsamakzam#}
+<ls>MBH. 3,2415. fg.</ls>
+<ls>BHAG. 11,42.</ls>
+<ls>R. 3,21,6.</ls> <ls n="R.">4,13,42.</ls>
+<ls>MṚCCH. 126,18.</ls>
+<ls>KUMĀRAS. 3,64.</ls>
+<ls>MĀLAV. 11,19.</ls>
+<ls>MĀLATĪM. 47,3.</ls> <ls>KATHĀS. 5,133.</ls> <ls n="KATHĀS.">13,3.</ls> <ls n="KATHĀS.">39,201.</ls> <ls n="KATHĀS.">45,357.</ls> <ls n="KATHĀS.">48,124.</ls> <ls n="KATHĀS. 48,">133.</ls> <ls>DAŚAK. 82,14.</ls> {#asamakzam#} {%hinter dem Rücken%}
+<ls>BHĀG. P. 9,10,11.</ls> <ls n="BHĀG. P. 9,10,">22.</ls> {#samakzatas = samakzam#}
+<ls n="BHĀG. P.">4,3,15.</ls> {#samakzAt#}
+<ls>LĀṬY. 4,11,22.</ls> {#samakzadarSana#} <lex>n.</lex> {%Autopsie%}
+<ls>M. 8,74.</ls>
+<ls>MBH. 2,2333.</ls>
 <div n="v">— Vgl. {#pratyakza#} .
 <LEND>

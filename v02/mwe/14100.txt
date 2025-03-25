@@ -1,4 +1,4 @@
 <L>14100<pc>340-a<k1>helmet<k2>helmet
-<div n="lb"/>HELMET¦, {%s.%} {#SirastrARaM, SirastraM, SiraskaM, SIrzakaM, SIrzaRyaM, SIrzarakzaM,#}
-<div n="lb"/>{#mastakarakzaRI, mastakAvaraRI, KolakaH#}.
+HELMET¦, {%s.%} {#SirastrARaM, SirastraM, SiraskaM, SIrzakaM, SIrzaRyaM, SIrzarakzaM,#}
+{#mastakarakzaRI, mastakAvaraRI, KolakaH#}.
 <LEND>

@@ -1,19 +1,19 @@
 <L>24187<pc>648-a<k1>quantity<k2>quantity
-<div n="lb"/>QUANTITY¦, {%s.%} (Magnitude, a mass or collection of indetermi-
-<div n="lb"/>nate dimensions) {#parimARaM, pramARaM, parimitiH#} {%f.,%} {#mAnaM, mAtrA, BAgaH,#}
-<div n="lb"/>{#aMSaH;#} ‘a quantity of water equivalent to a piece of gold,’
-<div n="lb"/>{#suvarRaKaRqasamo#} or {#suvarRaKaRqaparimARo#} or {#suvarRaKaRqaparimito jalAMSaH#}.
-<div n="lb"/> — (Great quantity, abundance) {#bAhulyaM, bahutvaM -tA, prAcuryyaM,#}
-<div n="lb"/>{#pracuratA, prAyaH, ADikyaM, mahABAgaH#} or expressed by the adjec-
-<div n="lb"/>tives {#bahu, pracura. aDika#} prefixed; ‘in great quantities,’ {#bAhu-#}
-<div n="lb"/>{#lyena, bahuSas, anekaSasa, prAcuryyeRa#}. — (Great quantity, collec-
-<div n="lb"/>tion) {#saYcayaH, nicayaH, pracayaH, sannayaH, vfndaM, oGaH, saMgrahaH puYjaH,#}
-<div n="lb"/>[Page648-b+ 51]
-<div n="lb"/>{#rASiH#} {%m.,%} {#pUgaH, puNgaH -NgaM, nivahaH, vAraH#}. {%See%} HEAP. — (Small
-<div n="lb"/>quantity) {#alpaBAgaH, alpAMSaH, alpaM -lpikA, alpamAtraM, mAtrA,#}
-<div n="lb"/>{#stokaM, muzwimAtraM, muzwiparimARaM;#} ‘in small quantities,’ {#alpaSas,#}
-<div n="lb"/>{%see%} LITTLE. — (Measure, in prosody) {#mAtrA#}. — (In arithmetic
-<div n="lb"/>or algebra) {#rASiH#} {%m. f.;%} ‘known quantity,’ {#vyaktarASiH#} {%m. f.,%}
-<div n="lb"/>{#rUpaM;#} ‘unknown quantity,’ {#avyaktarASiH, avyaktaH;#} ‘negative,’
-<div n="lb"/>{#kzayaH;#} ‘infinite,’ {#anantarASiH;#} ‘figurative,’ {#kzetrarASiH#}.
+QUANTITY¦, {%s.%} (Magnitude, a mass or collection of indetermi-
+nate dimensions) {#parimARaM, pramARaM, parimitiH#} {%f.,%} {#mAnaM, mAtrA, BAgaH,#}
+{#aMSaH;#} ‘a quantity of water equivalent to a piece of gold,’
+{#suvarRaKaRqasamo#} or {#suvarRaKaRqaparimARo#} or {#suvarRaKaRqaparimito jalAMSaH#}.
+ — (Great quantity, abundance) {#bAhulyaM, bahutvaM -tA, prAcuryyaM,#}
+{#pracuratA, prAyaH, ADikyaM, mahABAgaH#} or expressed by the adjec-
+tives {#bahu, pracura. aDika#} prefixed; ‘in great quantities,’ {#bAhu-#}
+{#lyena, bahuSas, anekaSasa, prAcuryyeRa#}. — (Great quantity, collec-
+tion) {#saYcayaH, nicayaH, pracayaH, sannayaH, vfndaM, oGaH, saMgrahaH puYjaH,#}
+[Page648-b+ 51]
+{#rASiH#} {%m.,%} {#pUgaH, puNgaH -NgaM, nivahaH, vAraH#}. {%See%} HEAP. — (Small
+quantity) {#alpaBAgaH, alpAMSaH, alpaM -lpikA, alpamAtraM, mAtrA,#}
+{#stokaM, muzwimAtraM, muzwiparimARaM;#} ‘in small quantities,’ {#alpaSas,#}
+{%see%} LITTLE. — (Measure, in prosody) {#mAtrA#}. — (In arithmetic
+or algebra) {#rASiH#} {%m. f.;%} ‘known quantity,’ {#vyaktarASiH#} {%m. f.,%}
+{#rUpaM;#} ‘unknown quantity,’ {#avyaktarASiH, avyaktaH;#} ‘negative,’
+{#kzayaH;#} ‘infinite,’ {#anantarASiH;#} ‘figurative,’ {#kzetrarASiH#}.
 <LEND>

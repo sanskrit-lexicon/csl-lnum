@@ -1,8 +1,8 @@
-<L>99653<pc>6048-3<k1>vasna<k2>vasna/<e>100
-{#vasna/#}¦ (m*.) <lex>n.</lex>
-<div n="1">— 1) {%Kaufpreis , Werth.%}
-<div n="1">— 2) {%*Lohn.%}
-<div n="1">— 3) {%*Geld , Reichthum.%}
-<div n="1">— 4) {%*Kleid , Gewand.%}
-<div n="1">— 5) {%*Haut.%}
+<L>99653<pc>6-048-c<k1>vasna<k2>vasna/
+{#vasna/#}¦ (*<lex>m.</lex>) <lex>n.</lex>
+<div n="1">— 1〉 {%Kaufpreis, Werth%}.
+<div n="1">— 2〉 *{%Lohn%}.
+<div n="1">— 3〉 *{%Geld, Reichthum%}.
+<div n="1">— 4〉 *{%Kleid, Gewand%}.
+<div n="1">— 5〉 *{%Haut%}.
 <LEND>

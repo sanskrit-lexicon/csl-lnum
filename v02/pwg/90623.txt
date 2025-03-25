@@ -1,18 +1,18 @@
 <L>90623<pc>6-0969<k1>vAsin<k2>vAsin<h>1
-1. {#vAsin#}¦ (von 3. {#vas#}) <lex>adj.</lex> am Ende eines comp. {%gekleidet%}: {#kfzRaSa°#} {%schwärzlich gekleidet%} 
-<ls>AIT. BR. 5, 14.</ls> {#pARqara°#} 
-<ls>MBH. 1, 146.</ls> {#nIla°#} (so ist statt {#lIna#} zu lesen) 
-<ls>R. GORR. 2, 8, 43.</ls> {#malina°#} 
-<ls>19.</ls> {#rOravAjina°#} 
-<ls>MBH. 1, 7124.</ls> {#kOSeya°#} 
-<ls>R. 2, 37, 9.</ls> {#pItakOSeya°#} 
-<ls>R. GORR. 2, 37, 9. 3, 52, 19. 25. 5, 31, 2.</ls> {#raktakOSeya°#} 
-<ls>MBH. 1, 7980.</ls> {#mahArhakzOma°#} 
-<ls>R. 5, 2, 16.</ls> {#cIrakAzAya°#} 
-<ls>MBH. 3, 8588.</ls> {#kAzAya°#} 
-<ls>HARIV. 6942.</ls> {#cIra°#} 
-<ls>R. 2, 38, 12.</ls> {#DOtodgamanIya°#} 
-<ls>DAŚAK. 63, 12.</ls> 
-<div n="v">— Vgl. {#ajina°, rakta°#} (auch 
-<ls>R. 5, 27, 17</ls>).
+1. {#vAsin#}¦ (von 3. {#vas#}) <lex>adj.</lex> am Ende eines comp. {%gekleidet%}: {#kfzRaSa°#} {%schwärzlich gekleidet%}
+<ls>AIT. BR. 5,14.</ls> {#pARqara°#}
+<ls>MBH. 1,146.</ls> {#nIla°#} (so ist statt {#lIna#} zu lesen)
+<ls>R. GORR. 2,8,43.</ls> {#malina°#}
+<ls n="R. GORR. 2,8,">19.</ls> {#rOravAjina°#}
+<ls>MBH. 1,7124.</ls> {#kOSeya°#}
+<ls>R. 2,37,9.</ls> {#pItakOSeya°#}
+<ls>R. GORR. 2,37,9.</ls> <ls n="R. GORR.">3,52,19.</ls> <ls n="R. GORR. 3,52,">25.</ls> <ls n="R. GORR.">5,31,2.</ls> {#raktakOSeya°#}
+<ls>MBH. 1,7980.</ls> {#mahArhakzOma°#}
+<ls>R. 5,2,16.</ls> {#cIrakAzAya°#}
+<ls>MBH. 3,8588.</ls> {#kAzAya°#}
+<ls>HARIV. 6942.</ls> {#cIra°#}
+<ls>R. 2,38,12.</ls> {#DOtodgamanIya°#}
+<ls>DAŚAK. 63,12.</ls>
+<div n="v">— Vgl. {#ajina°, rakta°#} (auch
+<ls>R. 5,27,17</ls>).
 <LEND>

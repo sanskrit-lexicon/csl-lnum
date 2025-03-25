@@ -1,12 +1,12 @@
 <L>90748<pc>6-0979<k1>viMSaka<k2>vi/MSaka
-{#vi/MSaka#}¦ (wie eben) <lex>adj.</lex> 
-<ls>P. 5, 1, 24. 6, 4, 142.</ls> 
-<div n="1"> 1) {%von zwanzig begleitet, um zwanzig vermehrt%}: {#saptaBiH SatErviMSakena (viMSatyA ca#} besser ed. Bomb.) {%siebenhundertundzwanzig%} 
-<ls>BHĀG. P. 4, 27, 16.</ls> {#Sata#} so v. a. {%zwanzig Procent%} 
-<ls>YĀJÑ. 2, 38.</ls> 
-<div n="1">— 2) {%aus zwanzig Theilen bestehend%} 
-<ls>MBH. 12, 11961. fg.</ls> {#gaRa#} 
-<ls>MĀRK. P. 80, 5. 7.</ls> <lex>n.</lex> {%Zwanzigzahl, ein Zwanzig%}: {#mokza°#} {%zwanzig%} (<is>Śloka</is>) {%über%} 
-<ls>HARIV. 14346.</ls> 
+{#vi/MSaka#}¦ (wie eben) <lex>adj.</lex>
+<ls>P. 5,1,24.</ls> <ls n="P.">6,4,142.</ls>
+<div n="1"> 1) {%von zwanzig begleitet, um zwanzig vermehrt%}: {#saptaBiH SatErviMSakena (viMSatyA ca#} besser <ls>ed. Bomb.</ls>) {%siebenhundertundzwanzig%}
+<ls>BHĀG. P. 4,27,16.</ls> {#Sata#} so v. a. {%zwanzig Procent%}
+<ls>YĀJÑ. 2,38.</ls>
+<div n="1">— 2) {%aus zwanzig Theilen bestehend%}
+<ls>MBH. 12,11961. fg.</ls> {#gaRa#}
+<ls>MĀRK. P. 80,5. 7.</ls> <lex>n.</lex> {%Zwanzigzahl, ein Zwanzig%}: {#mokza°#} {%zwanzig%} (<is>Śloka</is>) {%über%}
+<ls>HARIV. 14346.</ls>
 <ls>TĀRAN. 318.</ls>
 <LEND>

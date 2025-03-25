@@ -1,5 +1,5 @@
 <L>2046<pc>071<k1>billet<k2>billet
-<div n="lb"/>{@BILLET@}¦ (subs.): <div n="I">I A note: q. v.: {#patram.#} </div><div n="I">II
-<div n="lb"/>A ticket: q. v. {#nidarSanapatram.#} </div><div n="I">III A log of
-<div n="lb"/>wood: {#kAzWam:#} v. Log, stick.</div>
+{@BILLET@}¦ (subs.): <div n="I">I A note: q. v.: {#patram.#} </div><div n="I">II
+A ticket: q. v. {#nidarSanapatram.#} </div><div n="I">III A log of
+wood: {#kAzWam:#} v. Log, stick.</div>
 <LEND>

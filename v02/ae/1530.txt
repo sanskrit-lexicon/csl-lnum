@@ -1,7 +1,7 @@
 <L>1530<pc>051<k1>catechism<k2>catechism
 {@Catechism,@}¦ {%s.%} {#praSnottaraM, sapraSnottaraH pAWaH#}.
-<div n="lb"/>{@-Catechize,@} {%v. t.%} {#praSnottaradvAreRa-krameRa-#}
-<div n="lb"/>{#-aDi-i#} c. ({#aDyApayati#}) or {#upadiS#} 6 P
-<div n="lb"/>or {#pracC#} 6 P. {@-Catechist, -Catechiser,@}
-<div n="lb"/>{%s.%} {#praSnottaraviDinA aDyApakaH-pAWakaH#}.
+{@-Catechize,@} {%v. t.%} {#praSnottaradvAreRa-krameRa-#}
+{#-aDi-i#} c. ({#aDyApayati#}) or {#upadiS#} 6 P
+or {#pracC#} 6 P. {@-Catechist, -Catechiser,@}
+{%s.%} {#praSnottaraviDinA aDyApakaH-pAWakaH#}.
 <LEND>

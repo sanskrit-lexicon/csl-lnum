@@ -1,27 +1,27 @@
 <L>4150<pc>166<k1>fly<k2>fly
 {@Fly,@}¦ {%s.%} {#makzikA, varvaRA, nIlA;#} ‘f. -flap’ {#ava-#}
-<div n="lb"/>{#-cUlakaH, romagucCaH,#} ‘f. leaf’ {#malapfzWaM#}.
-<div n="lb"/>{%-v. i.%} {#ud-, qI#} 1, 4 A, {#ut-pat#} 1 P, {#Ke#}
-<div n="lb"/>{#visfp#} 1 P, {#AkASena yA#} 2 P or {#gam#} 1 P.
-<div n="lb"/>{@2@} {#apa-yA#} 2 P, {#vi-pra-dru#} 1 P, {#palAy#} 1 A;
-<div n="lb"/>{%See%} {@Flee. 3@} {#tvaritaM-SIGraM gam#} or {#cal#} 1 P
-<div n="lb"/>or {#visfp#} or {#atikram#} 1 U, 4 P. {%-v. t.%}
-<div n="lb"/>{#tyaj#} 1 P, {#parihf#} 1 P, {#vfj#} 10. {@2@} {#AkASe#}
-<div n="lb"/>{#nikzip#} 6 P or {#visfp#} c. or {#visf#} c.; ‘f. at’
-<div n="lb"/>{#A-aBi-pat, A-aBi-dru, A-aBi-pra-DAv#}
-<div n="lb"/>1 P; ‘let f.’ {#muc#} 6 P, {#utpat#} c., {#visfj#}
-<div n="lb"/>6 P. {@-ing,@} {%s.%} {#qayanaM, visarpaRaM, utpatanaM;#} ‘f.
-<div n="lb"/>up and down’ {#qInAvaqInaM#}. {%-a.%} {#Kavisarpin,#}
-<div n="lb"/>{#AkASagati, AkASagAmin, qayamAna, naBo-#}
-<div n="lb"/>{#-gati;#} ‘f. bridge’ {#calasetuH, jaMgamasetuH,#}
-<div n="lb"/>{@-Flight,@} {%s.%} {#palAyanaM, vidrAvaH, apayAnaM, apa-#}
-<div n="lb"/>{#-kramaH-maRaM, apagamaH;#} ‘to put to f.’ {#vidru#}
-<div n="lb"/>c.; ‘put to f.’ {#vidruta, vidrAvita,#}
-<div n="lb"/>{#kAMdiSIka#}. {@2@} (Of birds) {#qayanaM, qInaM, u-#}
-<div n="lb"/>{#-qqayanaM, utpatanaM, udgamanaM;#} ‘downward f.’
-<div n="lb"/>{#avaqInaM#}. {@3@} {#pakzi-mAlA-SreRI#}. {@4@} {#mati-budDi-#}
-<div n="lb"/>{#-vilAsaH;#} ‘f. of steps’ {#sopAnapaMkti-SreRi#}
-<div n="lb"/>{#-RI#} {%f.,%} {#sopAnaparaMparA;#} ‘f. of an arrow’ {#Sara-#}
-<div n="lb"/>{#-pAtaH#}. {@-y,@} {%a.%} {#calabudDi, BrAMta-lola-mati; a-#}
-<div n="lb"/>{#-sTira, lola;#} {%See%} {@Fickle.@}
+{#-cUlakaH, romagucCaH,#} ‘f. leaf’ {#malapfzWaM#}.
+{%-v. i.%} {#ud-, qI#} 1, 4 A, {#ut-pat#} 1 P, {#Ke#}
+{#visfp#} 1 P, {#AkASena yA#} 2 P or {#gam#} 1 P.
+{@2@} {#apa-yA#} 2 P, {#vi-pra-dru#} 1 P, {#palAy#} 1 A;
+{%See%} {@Flee. 3@} {#tvaritaM-SIGraM gam#} or {#cal#} 1 P
+or {#visfp#} or {#atikram#} 1 U, 4 P. {%-v. t.%}
+{#tyaj#} 1 P, {#parihf#} 1 P, {#vfj#} 10. {@2@} {#AkASe#}
+{#nikzip#} 6 P or {#visfp#} c. or {#visf#} c.; ‘f. at’
+{#A-aBi-pat, A-aBi-dru, A-aBi-pra-DAv#}
+1 P; ‘let f.’ {#muc#} 6 P, {#utpat#} c., {#visfj#}
+6 P. {@-ing,@} {%s.%} {#qayanaM, visarpaRaM, utpatanaM;#} ‘f.
+up and down’ {#qInAvaqInaM#}. {%-a.%} {#Kavisarpin,#}
+{#AkASagati, AkASagAmin, qayamAna, naBo-#}
+{#-gati;#} ‘f. bridge’ {#calasetuH, jaMgamasetuH,#}
+{@-Flight,@} {%s.%} {#palAyanaM, vidrAvaH, apayAnaM, apa-#}
+{#-kramaH-maRaM, apagamaH;#} ‘to put to f.’ {#vidru#}
+c.; ‘put to f.’ {#vidruta, vidrAvita,#}
+{#kAMdiSIka#}. {@2@} (Of birds) {#qayanaM, qInaM, u-#}
+{#-qqayanaM, utpatanaM, udgamanaM;#} ‘downward f.’
+{#avaqInaM#}. {@3@} {#pakzi-mAlA-SreRI#}. {@4@} {#mati-budDi-#}
+{#-vilAsaH;#} ‘f. of steps’ {#sopAnapaMkti-SreRi#}
+{#-RI#} {%f.,%} {#sopAnaparaMparA;#} ‘f. of an arrow’ {#Sara-#}
+{#-pAtaH#}. {@-y,@} {%a.%} {#calabudDi, BrAMta-lola-mati; a-#}
+{#-sTira, lola;#} {%See%} {@Fickle.@}
 <LEND>

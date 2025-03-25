@@ -1,6 +1,6 @@
 <L>17276<pc>529<k1>plural<k2>plural
-<div n="lb"/>{@PLURAL:@}¦ {#bahuvacanam,#} {%this%} ({%word%}) {%is generally p.:%}
-<div n="lb"/>{#ayaM prAyeRa bahuvacanAntaH,#} S. k.; ({%the words%}) {#dAra, #}
-<div n="lb"/>{# lAja,#} <div n="xe">{%and%}</div> <div n="xs">{#asu#}</div> {%are%} ({%used in%}) <div n="xe">{%the p.:%}</div> <div n="xs">{#dAralAjAsUnAM #}
-<div n="lb"/>{# bahutvam,#}</div> S. k.
+{@PLURAL:@}¦ {#bahuvacanam,#} {%this%} ({%word%}) {%is generally p.:%}
+{#ayaM prAyeRa bahuvacanAntaH,#} S. k.; ({%the words%}) {#dAra, #}
+{# lAja,#} <div n="xe">{%and%}</div> <div n="xs">{#asu#}</div> {%are%} ({%used in%}) <div n="xe">{%the p.:%}</div> <div n="xs">{#dAralAjAsUnAM #}
+{# bahutvam,#}</div> S. k.
 <LEND>

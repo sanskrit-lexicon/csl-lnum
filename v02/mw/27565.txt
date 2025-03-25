@@ -1,3 +1,3 @@
-<L>27565<pc>158,1<k1>ASiman<k2>ASiman<h>b<e>2
-<s>ASiman</s> <hom>b</hom> ¦ <lex>m.</lex> (<ls>ib. v, 1, 123</ls>) <ab>id.</ab><info lex="m"/>
+<L>27565<pc>158,1<k1>ASiman<k2>ASiman<e>2
+<s>ASiman</s> ¦ <lex>m.</lex> (<ls>ib.</ls> <ls n="Pāṇ.">v, 1, 123</ls>) <ab>id.</ab><info lex="m"/><info hui="b"/>
 <LEND>

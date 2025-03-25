@@ -1,31 +1,30 @@
 <L>95237<pc>6-1356<k1>vetra<k2>vetra/
-{#vetra/#}¦ (von 3. {#vI#}) 
-<ls>UṆĀDIS. 4, 166.</ls> <lex>m.</lex> {%eine grössere Art Calamus%}, etwa {%fasciculatus%}, zu Stöcken gebraucht, 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>KAUŚ. 40.</ls> <ls>MBH. 3, 2404. 12, 3241.</ls> {#vetrArUQamahAvfkzA#} 
-<ls>HARIV. 14432.</ls> {#yatrotpannA mahAvetrA BUtAnAM daRqatAM yayu\H#} 
-<ls>14804.</ls> <ls>R. 2, 94, 9. 3, 17, 9.</ls> {#°latAcayEH - setuM babanDuH#} 
-<ls>5, 95, 17.</ls> <ls>SUŚR. 2, 252, 1.</ls> {#vetrAmla#} 
-<ls>328, 6.</ls> {#°Pala#} 
-<ls>1, 157, 5. 209, 5.</ls> {#°karIra#} 
-<ls>157, 13. 221, 6.</ls> {#vetrAgra#} 
-<ls>222, 2.</ls> {#vetrAsava#} 
-<ls>238, 11.</ls> {#°kIcakaveRUnAM gulmAni#} 
-<ls>BHĀG. P. 8, 4, 17.</ls> 
-<ls>LA. (III)</ls> <ls>ad 13, 17.</ls> {#veRuvetrARi#} 
-<ls>R. 5, 95, 8.</ls> {#°yazwi#} {%Rohrstab%} (beim <is>Kañcukin</is>) 
-<ls>ŚĀK. 100.</ls> {#°latA#} (beim Thürsteher) 
-<ls>PAÑCAT. 16, 1 (13, 6</ls> ed. orn.). {#vetra#} so v. a. {#vetrayazwi#} 
-<ls>VARĀH. BṚH. S. 72, 4.</ls> 
-<ls>BHĀG. P. 10, 12, 2</ls> (zum Treiben des Viehes). {#pawwikAvetrabARavikalpAH#} (so im Comm. zu 
-<ls>BHĀG. P.</ls> <ls>?10,45,36) unter den 64 Künsten Verz. d. Oxf. H. 217,a,11.</ls> {#SfNgavetrakara#} (<is>Kṛṣṇa</is>) 
-<ls>PAÑCAR. 4, 8, 113.</ls> beim Thürsteher <ls>BHĀG. P. 3, 15, 30. 7, 5, 16.</ls> {#°vyAsaktahasta#} 
-<ls>MBH. 9, 1638.</ls> {#°pARi#} 
-<ls>HARIV. 5004.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 13, 3.</ls> {#°JarJarapARi#} 
-<ls>6, 99, 23.</ls> <ls>MBH. 6, 4436.</ls> {#°hasta#} 
-<ls>KATHĀS. 108, 2. 124, 75.</ls> {#vAmaprakozWArpitahema°#} 
-<ls>KUMĀRAS. 3, 41.</ls> — {#vetra#} <lex>n.</lex> 
-<ls>H. an. 2, 449</ls> und <ls>MED. r. 80</ls> fehlerhaft für {#retra#} . 
+{#vetra/#}¦ (von 3. {#vI#})
+<ls>UṆĀDIS. 4,166.</ls> <lex>m.</lex> {%eine grössere Art Calamus%}, etwa {%fasciculatus%}, zu Stöcken gebraucht,
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>KAUŚ. 40.</ls> <ls>MBH. 3,2404.</ls> <ls n="MBH.">12,3241.</ls> {#vetrArUQamahAvfkzA#}
+<ls>HARIV. 14432.</ls> {#yatrotpannA mahAvetrA BUtAnAM daRqatAM yayu\H#}
+<ls n="HARIV.">14804.</ls> <ls>R. 2,94,9.</ls> <ls n="R.">3,17,9.</ls> {#°latAcayEH — setuM babanDuH#}
+<ls n="R.">5,95,17.</ls> <ls>SUŚR. 2,252,1.</ls> {#vetrAmla#}
+<ls n="SUŚR.">328,6.</ls> {#°Pala#}
+<ls n="SUŚR.">1,157,5. 209,5.</ls> {#°karIra#}
+<ls n="SUŚR.">157,13. 221,6.</ls> {#vetrAgra#}
+<ls n="SUŚR.">222,2.</ls> {#vetrAsava#}
+<ls n="SUŚR.">238,11.</ls> {#°kIcakaveRUnAM gulmAni#}
+<ls>BHĀG. P. 8,4,17.</ls>
+<ls>LA. (III) ad 13,17.</ls> {#veRuvetrARi#}
+<ls>R. 5,95,8.</ls> {#°yazwi#} {%Rohrstab%} (beim <is>Kañcukin</is>)
+<ls>ŚĀK. 100.</ls> {#°latA#} (beim Thürsteher)
+<ls>PAÑCAT. 16,1 (13,6</ls> ed. orn.). {#vetra#} so v. a. {#vetrayazwi#}
+<ls>VARĀH. BṚH. S. 72,4.</ls>
+<ls>BHĀG. P. 10,12,2</ls> (zum Treiben des Viehes). {#pawwikAvetrabARavikalpAH#} (so im Comm. zu
+<ls>BHĀG. P. 10,45,36</ls>) unter den 64 Künsten <ls>Verz. d. Oxf. H. 217,a,11.</ls> {#SfNgavetrakara#} (<is>Kṛṣṇa</is>)
+<ls>PAÑCAR. 4,8,113.</ls> beim Thürsteher <ls>BHĀG. P. 3,15,30.</ls> <ls n="BHĀG. P.">7,5,16.</ls> {#°vyAsaktahasta#}
+<ls>MBH. 9,1638.</ls> {#°pARi#}
+<ls>HARIV. 5004.</ls>
+<ls>R. GORR. 2,13,3.</ls> {#°JarJarapARi#}
+<ls n="R. GORR.">6,99,23.</ls> <ls>MBH. 6,4436.</ls> {#°hasta#}
+<ls>KATHĀS. 108,2.</ls> <ls n="KATHĀS.">124,75.</ls> {#vAmaprakozWArpitahema°#}
+<ls>KUMĀRAS. 3,41.</ls> — {#vetra#} <lex>n.</lex>
+<ls>H. an. 2,449</ls> und <ls>MED. r. 80</ls> fehlerhaft für {#retra#} .
 <div n="v">— Vgl. {#vEtraka#} .
 <LEND>

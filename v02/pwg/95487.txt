@@ -1,43 +1,40 @@
 <L>95487<pc>6-1375<k1>vell<k2>vell
-{#vell#}¦, {#ve/llati#} ({#calane#}) 
-<ls>DHĀTUP. 15, 33.</ls> {%taumeln. schwanken, sich wiegen, wogen%}: {#vellati navapariRayA vaDUH#} 
-<ls>KĀVYAPR. 154, 10.</ls> {#divyAsavarasakzIvavelladvidyADara (vallad#} gedr.) 
-<ls>KATHĀS. 110, 87.</ls> {#velladvalAkA GanAH#} 
-<ls>SĀH. D. 16, 5.</ls> {#velladBEravaBUriraRqanikarEH#} 
-<ls>UTTARAR. 93, 12 (121, 6</ls>). {#velladvIcirmahAnadI#} 
-<ls>KATHĀS. 39, 144. 120, 11.</ls> {#vIcivelladBujalatA#} 
-<ls>71, 2.</ls> {#vAtavellallatAjAlatAlavfntEH#} 
-<ls>196. 109, 11.</ls> {#vAtavellacCara#} 
-<ls>60, 60.</ls> {#velladgaNgAdukUlA#} 
-<ls>RĀJA-TAR.  1, 57. 84.</ls>
+{#vell#}¦, {#ve/llati#} ({#calane#})
+<ls>DHĀTUP. 15,33.</ls> {%taumeln. schwanken, sich wiegen, wogen%}: {#vellati navapariRayA vaDUH#}
+<ls>KĀVYAPR. 154,10.</ls> {#divyAsavarasakzIvavelladvidyADara (vallad#} gedr.)
+<ls>KATHĀS. 110,87.</ls> {#velladvalAkA GanAH#}
+<ls>SĀH. D. 16,5.</ls> {#velladBEravaBUriraRqanikarEH#}
+<ls>UTTARAR. 93,12 (121,6</ls>). {#velladvIcirmahAnadI#}
+<ls>KATHĀS. 39,144.</ls> <ls n="KATHĀS.">120,11.</ls> {#vIcivelladBujalatA#}
+<ls n="KATHĀS.">71,2.</ls> {#vAtavellallatAjAlatAlavfntEH#}
+<ls n="KATHĀS. 71,">196.</ls> <ls n="KATHĀS.">109,11.</ls> {#vAtavellacCara#}
+<ls n="KATHĀS.">60,60.</ls> {#velladgaNgAdukUlA#}
+<ls>RĀJA-TAR. 1,57. 84.</ls>
 [Page6-1376]
-{#vellita#} {%wogend%} 
-<ls>AK. 3, 2, 36.</ls> 
-<ls>H. 1481.</ls> 
-<ls>an. 3, 305.</ls> 
-<ls>MED. t. 161.</ls> {#kusumitalatA#} 
-<ls>CHANDOM. 98.</ls> {%gebogen, gekrümmt%} 
-<ls>AK. 3, 2, 21.</ls> 
-<ls>H. 1456.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 4, 11.</ls> {#kiMcidvellitorudaRqayugala#} 
-<ls>DAŚAK. 90, 12.</ls> {#keSAnvellitAgrAn#} {%sich kräuselnd%} (vgl. 
-<ls>H. ś. 117</ls>) <ls>MBH. 4, 244.</ls> {#BrUBaNgAdvellitavalInimnonnatalalAwaBUH#} 
-<ls>RĀJA-TAR. 8, 2373.</ls> <lex>n.</lex> = {#gamana#} 
-<ls>MED.</ls> {%das Wälzen eines Pferdes%} 
-<ls>H. 1245.</ls> 
+{#vellita#} {%wogend%}
+<ls>AK. 3,2,36.</ls>
+<ls>H. 1481.</ls>
+<ls>an. 3,305.</ls>
+<ls>MED. t. 161.</ls> {#kusumitalatA#}
+<ls>CHANDOM. 98.</ls> {%gebogen, gekrümmt%}
+<ls>AK. 3,2,21.</ls>
+<ls>H. 1456.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 4,11.</ls> {#kiMcidvellitorudaRqayugala#}
+<ls>DAŚAK. 90,12.</ls> {#keSAnvellitAgrAn#} {%sich kräuselnd%} (vgl.
+<ls>H. ś. 117</ls>) <ls>MBH. 4,244.</ls> {#BrUBaNgAdvellitavalInimnonnatalalAwaBUH#}
+<ls>RĀJA-TAR. 8,2373.</ls> <lex>n.</lex> = {#gamana#}
+<ls>MED.</ls> {%das Wälzen eines Pferdes%}
+<ls>H. 1245.</ls>
 <div n="v">— Vgl. {#kusumitalatAvellitA#} .
-
-<div n="p">— {#anu#} partic. {#°vellita#} {%untergeschoben%}: {#dakziRapAdapArzRyaDoBAgAnuvellitetaracaraRAgrapfzWam#} 
-<ls>DAŚAK. 90, 10.</ls> 
+<div n="p">— {#anu#} partic. {#°vellita#} {%untergeschoben%}: {#dakziRapAdapArzRyaDoBAgAnuvellitetaracaraRAgrapfzWam#}
+<ls>DAŚAK. 90,10.</ls>
 <div n="v">— Vgl. {#anuvellita#} .
-
-<div n="p">— {#ud#} {%sich aufrichten, sich erheben%}: {#udvelladGanaruRqaKaRqanikara#} ({#udvelad#} gedr.) 
-<ls>MĀLATĪM. 140, 3.</ls> {#vAyuH prAvartatAkasmAdvAtumudvellitAMmbuDiH#} 
-<ls>KATHĀS. 120, 110.</ls> {#saMBramodvellaccamarIvAlOGa#} 
-<ls>59, 42.</ls>
-
-<div n="p">— {#vi#} {%beben, zittern%}: {#Akfzya keSezu Sirastasya vivellataH . pravrAjakasya cicCeda Kaqgena#} 
-<ls>KATHĀS. 18, 174. 44, 152.</ls>
+<div n="p">— {#ud#} {%sich aufrichten, sich erheben%}: {#udvelladGanaruRqaKaRqanikara#} ({#udvelad#} gedr.)
+<ls>MĀLATĪM. 140,3.</ls> {#vAyuH prAvartatAkasmAdvAtumudvellitAMmbuDiH#}
+<ls>KATHĀS. 120,110.</ls> {#saMBramodvellaccamarIvAlOGa#}
+<ls n="KATHĀS.">59,42.</ls>
+<div n="p">— {#vi#} {%beben, zittern%}: {#Akfzya keSezu Sirastasya vivellataH . pravrAjakasya cicCeda Kaqgena#}
+<ls>KATHĀS. 18,174.</ls> <ls n="KATHĀS.">44,152.</ls>
 <LEND>

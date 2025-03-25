@@ -1,8 +1,8 @@
 <L>4342<pc>176<k1>funeral<k2>funeral
 {@Funeral,@}¦ {%s.%} {#OrDvadehikakriyA, aMtyezwi#} {%f.,%}
-<div n="lb"/>{#pretakAryaM-kftyaM, pretanirhAraH, aMtyakriyA, uttara-#}
-<div n="lb"/>{#-kriyA-karman#} {%n.,%} {#OrDvadehikaM, SrAdDAdi karma#}.
-<div n="lb"/>{%-a.%} {#OrDvadehika, OrDvadEhika#} ({#kI#} {%f.%}), better
-<div n="lb"/>by ({%s.%}); ‘f. pile’ {#citA, citi-tI#} {%f.,%}
-<div n="lb"/>{#cityA#}.
+{#pretakAryaM-kftyaM, pretanirhAraH, aMtyakriyA, uttara-#}
+{#-kriyA-karman#} {%n.,%} {#OrDvadehikaM, SrAdDAdi karma#}.
+{%-a.%} {#OrDvadehika, OrDvadEhika#} ({#kI#} {%f.%}), better
+by ({%s.%}); ‘f. pile’ {#citA, citi-tI#} {%f.,%}
+{#cityA#}.
 <LEND>

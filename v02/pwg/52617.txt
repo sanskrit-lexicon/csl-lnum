@@ -1,7 +1,7 @@
 <L>52617<pc>5-0081<k1>bAhumAtra<k2>bAhumAtra/
-{#bAhumAtra/#}¦ {#(bAhu + mAtra)#} <lex>adj.</lex> <lex>f.</lex> {#I#} {%armslang%} 
-<ls>TS. 6, 2, 11, 1.</ls> 
-<ls>KĀTY. ŚR. 1, 3, 37. 2, 8, 1. 17, 4, 12.</ls> 
-<ls>KAUŚ. 47.</ls> 
-<ls>ŚĀṄKH. ŚR. 17, 1, 10.</ls>
+{#bAhumAtra/#}¦ ({#bAhu + mAtra#}) <lex>adj.</lex> <lex>f.</lex> {#I#} {%armslang%}
+<ls>TS. 6,2,11,1.</ls>
+<ls>KĀTY. ŚR. 1,3,37.</ls> <ls n="KĀTY. ŚR.">2,8,1.</ls> <ls n="KĀTY. ŚR.">17,4,12.</ls>
+<ls>KAUŚ. 47.</ls>
+<ls>ŚĀṄKH. ŚR. 17,1,10.</ls>
 <LEND>

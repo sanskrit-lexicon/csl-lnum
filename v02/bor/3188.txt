@@ -1,8 +1,8 @@
 <L>3188<pc>106<k1>caste<k2>caste
-<div n="lb"/>{@CASTE:@}¦ <div n="1">(1) {#varRaH,#} <div n="xe">{%of the same c.%}</div> <div n="xs">{#savarRaH#}</div> ({#rRA, rRaM#})
-<div n="lb"/><div n="xe">{%low c.%}</div> <div n="xs">{#hInavarRaH,#}</div> <div n="xe">{%high c.%}</div> <div n="xs">{#uttamavarRaH,#}</div> Da.; {%mixed c.%}
-<div n="lb"/>{#varRasaNkaraH#} (m.): </div><div n="1">(2) {#jAtiH,#} <div n="xe">{%of high c.%}</div> <div n="xs">{#utkfzwajAtIyaH#}</div>
-<div n="lb"/>({#yA, yaM#}), K. b.; <div n="xe">{%low c.%}</div> <div n="xs">{#nikfzwajAtiH,#}</div> D.; <div n="xe">{%voice%}
-<div n="lb"/>{%of c.%}</div> <div n="xs">{#jAtihInaH#}</div> ({#nA, naM#}), Ki. Ph. {%a low c. man%}
-<div n="lb"/>{#antyajaH,#} M.</div>
+{@CASTE:@}¦ <div n="1">(1) {#varRaH,#} <div n="xe">{%of the same c.%}</div> <div n="xs">{#savarRaH#}</div> ({#rRA, rRaM#})
+<div n="xe">{%low c.%}</div> <div n="xs">{#hInavarRaH,#}</div> <div n="xe">{%high c.%}</div> <div n="xs">{#uttamavarRaH,#}</div> Da.; {%mixed c.%}
+{#varRasaNkaraH#} (m.): </div><div n="1">(2) {#jAtiH,#} <div n="xe">{%of high c.%}</div> <div n="xs">{#utkfzwajAtIyaH#}</div>
+({#yA, yaM#}), K. b.; <div n="xe">{%low c.%}</div> <div n="xs">{#nikfzwajAtiH,#}</div> D.; <div n="xe">{%voice%}
+{%of c.%}</div> <div n="xs">{#jAtihInaH#}</div> ({#nA, naM#}), Ki. Ph. {%a low c. man%}
+{#antyajaH,#} M.</div>
 <LEND>

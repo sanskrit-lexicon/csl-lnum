@@ -1,11 +1,10 @@
 <L>89038<pc>6-0849<k1>vasuDADipa<k2>vasuDADipa
-{#vasuDADipa#}¦ <lex>m.</lex> {%Herr der Erde, - des Landes, König, Fürst%} 
-<ls>MBH. 3, 2238. 2997. 3009. 8, 3789.</ls> 
-<ls>R. 1, 8, 3. 2, 35, 17. 42, 26.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 21, 9. 3, 70, 12. 4, 17, 21. 38, 59.</ls> 
-<ls>RAGH. 1, 32. 9, 9. 81.</ls> 
-<ls>Spr. 2980.</ls> 
-<ls>KATHĀS. 39, 242. 91, 4.</ls> 
-<ls>LA. (III) 90, 11. 92, 5.</ls> <ls>MĀRK. P. 99, 1.</ls>
+{#vasuDADipa#}¦ <lex>m.</lex> {%Herr der Erde, — des Landes, König, Fürst%}
+<ls>MBH. 3,2238.</ls> <ls n="MBH. 3,">2997.</ls> <ls n="MBH. 3,">3009.</ls> <ls n="MBH.">8,3789.</ls>
+<ls>R. 1,8,3.</ls> <ls n="R.">2,35,17</ls> <ls n="R. 2,">42,26.</ls>
+<ls>R. GORR. 1,21,9.</ls> <ls n="R. GORR.">3,70,12.</ls> <ls n="R. GORR.">4,17,21.</ls> <ls n="R. GORR. 4,">38,59.</ls>
+<ls>RAGH. 1,32.</ls> <ls n="RAGH.">9,9.</ls> <ls n="RAGH. 9,">81.</ls>
+<ls>Spr. 2980.</ls>
+<ls>KATHĀS. 39,242.</ls> <ls n="KATHĀS.">91,4.</ls>
+<ls>LA. (III) 90,11. 92,5.</ls> <ls>MĀRK. P. 99,1.</ls>
 <LEND>

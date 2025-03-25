@@ -1,17 +1,17 @@
 <L>2390<pc>0310<k1>kaRva<k2>ka/Rva
-{@káṇva,@}¦ <ab>m.</ab>, Eigenname eines Sängers; <ab>pl.</ab> Nachkommen <lbinfo n="6"/> des káṇva, superl. ganz wie kánva sich zeigend oder ihm recht hold. — <ab>Vgl.</ab> prá-skaṇva, nṛṣád, vatsá, médhiātithi.
-<div n="P1">-as {36,10. 11. 19}; {48,4}; {139,9}.
-<div n="P1">-am {39,9}; {47,5}; {112,5}; {625,25}; {628,20}; {857,11}; {976,5}.
-<div n="P1">-āya {36,17}; {39,7}; {117,8}; {118,7}; {625,23}.
-<div n="P1">-asya sūnávas {45,5}; putrás {628,4. 8}; suṣṭutím <lbinfo n="6"/> {654,1}.
-<div n="P1">-e {36,8}; {1018,10}; {1019,10}.
-<div n="P1">-ās [V.] {652,1}.
-<div n="P1">-ās [<ab>N.</ab>] {14,2}; {37,1}; {49,4}; {622,16}; {623,16}; {626,3. 8. 21. 34. 43}; {654,4}.
-<div n="P1">-āsas [V.] {46,9}; {622,38}.
-<div n="P1">-āsas [<ab>N.</ab>] {14,5}; {44,8}; {47,2. 4}; {624,2}; {625,4}; {626,31}; {627,32}.
-<div n="P1">-ebhis {653,3}.
-<div n="P1">-ānām sádasi {47,10}; sávane {628,3}.
-<div n="P1">-eṣu {37,14}; {624,3}; {629,14}; {1018,5}.
-<div n="P1">-atamas káṇvas {48,4}; agnís {941,5}.
-<div n="P1">-avát {626,11}; {1021,8}.
+{@káṇva,@}¦ <ab>m.</ab>, Eigenname eines Sängers; <ab>pl.</ab> Nachkommen des káṇva, <ab>superl.</ab> ganz wie kánva sich zeigend oder ihm recht hold. — <ab>Vgl.</ab> prá-skaṇva, nṛṣád, vatsá, médhiātithi.
+<div n="TS">-as _{36,10}. _{36,11} <chg type="del" n="34" src="gra"><old>. 19</old></chg>; {48,4}; {139,9}.
+<div n="TS">-am {39,9}; {47,5}; {112,5}; {625,25}; {628,20}; {857,11}; {976,5}.
+<div n="TS">-āya {36,17}; {39,7}; {117,8}; {118,7}; {625,23}.
+<div n="TS">-asya sūnávas {45,5}; putrás {628,4}. _{628,8}; suṣṭutím {654,1}.
+<div n="TS">-e {36,8}; {1018,10}; {1019,10}.
+<div n="TS">-ās [<ab>V.</ab>] {652,1}.
+<div n="TS">-ās [<ab>N.</ab>] {14,2}; {37,1}; {49,4}; {622,16}; {623,16}; {626,3}. _{626,8}. _{626,21}. _{626,34}. _{626,43}; {654,4}.
+<div n="TS">-āsas [<ab>V.</ab>] {46,9}; {622,38}.
+<div n="TS">-āsas [<ab>N.</ab>] {14,5}; {44,8}; {47,2}. _{47,4}; {624,2}; {625,4}; {626,31}; {627,32}.
+<div n="TS">-ebhis {653,3}.
+<div n="TS">-ānām sádasi {47,10}; sávane {628,3}.
+<div n="TS">-eṣu {37,14}; {624,3}; {629,14}; {1018,5}.
+<div n="TS">-atamas káṇvas {48,4}; agnís {941,5}.
+<div n="TS">-avát {626,11}; {1021,8}.
 <LEND>

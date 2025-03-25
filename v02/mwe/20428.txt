@@ -1,12 +1,12 @@
 <L>20428<pc>534-a<k1>nobility<k2>nobility
-<div n="lb"/>NOBILITY¦, {%s.%} (Antiquity of family, elevation of rank) {#mahAkulatA,#}
-<div n="lb"/>{#kulInatA, maMhAkulInatA, satkulInatA, aBijAtatA, ABijAtyaM, ABi-#}
-<div n="lb"/>{#janaM, kulotkarzaH, kulotkfzwatA, OtkarzaM, kOlInaM, sadvaMSatA, vaMSotkarzaH#}. — 
-<div n="lb"/>(Elevation or greatness of mind) {#mAhAtmyaM, mahAtmatA -tvaM, mahimA#} {%m.%}
-<div n="lb"/>{#(n), mahattvaM, udAratA, OdAryyaM, cittodAratA, mahecCA, mahAnuBAvaH#}. — 
-<div n="lb"/>(Distinction, eminence) {#utkarzaH, utkfzwatA, OtkarzaM, vESizwyaM, vi-#}
-<div n="lb"/>{#SizwatA, praDAnatA -tvaM, samunnatiH#} {%f.,%} {#prakarzaH, SizwatA, SrezWatvaM, sevyatA,#}
-<div n="lb"/>{#suKyAtiH#} {%f.%} — (Magnificence) {#pratApaH, tejas#} {%n.,%} {#SrIH#} {%f.%} — (The
-<div n="lb"/>nobility, noblemen collectively) {#kulInalokaH, kulInajanasamUhaH,#}
-<div n="lb"/>{#kulInajanAH#} {%m. pl.,%} {#SizwajanAH#} {%m. pl.,%} {#kulInasamUhaH, rAjanyakaM#}.
+NOBILITY¦, {%s.%} (Antiquity of family, elevation of rank) {#mahAkulatA,#}
+{#kulInatA, maMhAkulInatA, satkulInatA, aBijAtatA, ABijAtyaM, ABi-#}
+{#janaM, kulotkarzaH, kulotkfzwatA, OtkarzaM, kOlInaM, sadvaMSatA, vaMSotkarzaH#}. — 
+(Elevation or greatness of mind) {#mAhAtmyaM, mahAtmatA -tvaM, mahimA#} {%m.%}
+{#(n), mahattvaM, udAratA, OdAryyaM, cittodAratA, mahecCA, mahAnuBAvaH#}. — 
+(Distinction, eminence) {#utkarzaH, utkfzwatA, OtkarzaM, vESizwyaM, vi-#}
+{#SizwatA, praDAnatA -tvaM, samunnatiH#} {%f.,%} {#prakarzaH, SizwatA, SrezWatvaM, sevyatA,#}
+{#suKyAtiH#} {%f.%} — (Magnificence) {#pratApaH, tejas#} {%n.,%} {#SrIH#} {%f.%} — (The
+nobility, noblemen collectively) {#kulInalokaH, kulInajanasamUhaH,#}
+{#kulInajanAH#} {%m. pl.,%} {#SizwajanAH#} {%m. pl.,%} {#kulInasamUhaH, rAjanyakaM#}.
 <LEND>

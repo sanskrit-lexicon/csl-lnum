@@ -1,100 +1,99 @@
 <L>101801<pc>7-0383<k1>Sruta<k2>Sruta/
-{#Sruta/#}¦ (partic. von 1. {#Sru#}) 
-<div n="1"> 1) <lex>adj.</lex> am Ende eines N. pr. 
-<ls>P. 6, 2, 148.</ls> 
-<div n="2"> a) {%gehört, vernommen, worüber%} oder {%über wen man durch's Ohr eine Kunde hat%} 
-<ls>AK. 3, 4, 14, 79.</ls> 
-<ls>H. an. 2, 203.</ls> 
-<ls>MED. t. 67.</ls> <ls>ŚAT. BR. 14, 9, 1, 4.</ls> <ls>PĀR. GṚHY. 3, 15.</ls> <ls>CHĀND. UP. 3, 13, 8.</ls> <ls>PRAŚNOP. 4, 5.</ls> {#ye ca divi SrutAsaH#} {%die, wie man hört, im Himmel sind%} 
-<ls>KAUŚ. 135.</ls> {#sAkzI dfzwaSrutAdanyadvibruvan#} 
-<ls>M. 8, 75.</ls> {#na mayA mAnuzaH kvacit . dfzwapUrvaH Sruto vApi taTAviDaH ..#} 
-<ls>MBH. 3, 2929. 2085.</ls> {#sTavireByaH#} 
-<ls>2204. 13, 2570.</ls> <ls>R. 1, 2, 35. 2, 29, 8.</ls> <ls>R. GORR. 1, 46, 6. 3, 55, 8. 4, 8, 53.</ls> <ls>Spr. 5089.</ls> <ls>RAGH. 1, 78. 3, 40.</ls> {#tElamugDo SrutastAvadasTimugDo niSamyatAm#} 
-<ls>KATHĀS. 61, 193.</ls> 
-<ls>MĀRK. P. 24, 55.</ls> 
-<ls>RĀJA-TAR. 6, 45.</ls> 
-<ls>PAÑCAT. 36, 19.</ls> {#SrutaH svayaMvaro rAjYA - dvitIyo damayantyA vE BavitA Sva iti dvijAt#} 
-<ls>MBH. 3, 2897.</ls> {#kuto 'yamAyAti purA na me SrutaH#} 
-<ls>4, 300.</ls> {#SrutastvaM hi vadato nAradAnmayA#} 
-<ls>6, 5826.</ls> <ls>R. 1, 1, 10.</ls> {#citrakUwamanuprApto rAjyaBrazwo 'si me SrutaH#} 
-<ls>3, 11, 8.</ls> {#tenAsyA rAjYA rUpasamaH SrutaH . vimalAKyasya tanayo rAjYaH#} 
-<ls>KATHĀS. 56, 82. fg.</ls> {#iti Srutam#} impers. 
-<ls>KATHĀS. 24, 88.</ls> {#iti naH Srutam#} 
-<ls>MBH. 5, 5975.</ls> 
-<ls>R. 1, 22, 22. 47, 10. 2, 109, 18. 110, 30.</ls> 
-<ls>BHĀG. P. 3, 12, 28.</ls> {#yaTA BarturvartitavyaM SrutaM ca me#} 
-<ls>R. 2, 39, 27.</ls> {#yaTA cEva SrutaM mayA#} 
-<ls>93, 6.</ls> {#SrutapUrvaM (SrutaM#} v. l.) {#nAradamuKAt#} 
-<ls>ŚĀK. 95, 5.</ls> {#purARe yanmayA Srutam#} so v. a.
+{#Sruta/#}¦ (partic. von 1. {#Sru#})
+<div n="1"> 1) <lex>adj.</lex> am Ende eines N. pr.
+<ls>P. 6,2,148.</ls>
+<div n="2"> a) {%gehört, vernommen, worüber%} oder {%über wen man durch's Ohr eine Kunde hat%}
+<ls>AK. 3,4,14,79.</ls>
+<ls>H. an. 2,203.</ls>
+<ls>MED. t. 67.</ls> <ls>ŚAT. BR. 14,9,1,4.</ls> <ls>PĀR. GṚHY. 3,15.</ls> <ls>CHĀND. UP. 3,13,8.</ls> <ls>PRAŚNOP. 4,5.</ls> {#ye ca divi SrutAsaH#} {%die, wie man hört, im Himmel sind%}
+<ls>KAUŚ. 135.</ls> {#sAkzI dfzwaSrutAdanyadvibruvan#}
+<ls>M. 8,75.</ls> {#na mayA mAnuzaH kvacit . dfzwapUrvaH Sruto vApi taTAviDaH ..#}
+<ls>MBH. 3,2929.</ls> <ls n="MBH. 3,">2085.</ls> {#sTavireByaH#}
+<ls n="MBH. 3,">2204.</ls> <ls n="MBH.">13,2570.</ls> <ls>R. 1,2,35.</ls> <ls n="R.">2,29,8.</ls> <ls>R. GORR. 1,46,6.</ls> <ls n="R. GORR.">3,55,8.</ls> <ls n="R. GORR.">4,8,53.</ls> <ls>Spr. 5089.</ls> <ls>RAGH. 1,78.</ls> <ls n="RAGH.">3,40.</ls> {#tElamugDo SrutastAvadasTimugDo niSamyatAm#}
+<ls>KATHĀS. 61,193.</ls>
+<ls>MĀRK. P. 24,55.</ls>
+<ls>RĀJA-TAR. 6,45.</ls>
+<ls>PAÑCAT. 36,19.</ls> {#SrutaH svayaMvaro rAjYA — dvitIyo damayantyA vE BavitA Sva iti dvijAt#}
+<ls>MBH. 3,2897.</ls> {#kuto 'yamAyAti purA na me SrutaH#}
+<ls n="MBH.">4,300.</ls> {#SrutastvaM hi vadato nAradAnmayA#}
+<ls n="MBH.">6,5826.</ls> <ls>R. 1,1,10.</ls> {#citrakUwamanuprApto rAjyaBrazwo 'si me SrutaH#}
+<ls n="R.">3,11,8.</ls> {#tenAsyA rAjYA rUpasamaH SrutaH . vimalAKyasya tanayo rAjYaH#}
+<ls>KATHĀS. 56,82. fg.</ls> {#iti Srutam#} impers.
+<ls>KATHĀS. 24,88.</ls> {#iti naH Srutam#}
+<ls>MBH. 5,5975.</ls>
+<ls>R. 1,22,22.</ls> <ls n="R. 1,">47,10.</ls> <ls n="R.">2,109,18.</ls> <ls n="R. 2,">110,30.</ls>
+<ls>BHĀG. P. 3,12,28.</ls> {#yaTA BarturvartitavyaM SrutaM ca me#}
+<ls>R. 2,39,27.</ls> {#yaTA cEva SrutaM mayA#}
+<ls n="R. 2,">93,6.</ls> {#SrutapUrvaM (SrutaM#} v. l.) {#nAradamuKAt#}
+<ls>ŚĀK. 95,5.</ls> {#purARe yanmayA Srutam#} so v. a.
 [Page7-0384]
-{%gelesen%} 
-<ls>R. 1, 8, 5.</ls> {#eza DarmaH striyA nityo vede loke SrutaH smftaH#} (d. i. {#vede Sruto loke smftaH#}) 
+{%gelesen%}
+<ls>R. 1,8,5.</ls> {#eza DarmaH striyA nityo vede loke SrutaH smftaH#} (<ab>d. i.</ab> {#vede Sruto loke smftaH#})
 <ls>Spr. 3004.</ls> {#yadyapi kAyamaNgulimUle tayoraDa#} (
-<ls>M. 2, 58</ls>) {#ityatra cANgulimAtraM SrutaM taTApi#} u. s. w. so v. a. {%erwähnt, genannt%} 
-<ls>KULL.</ls> zu <ls>M. 2, 59.</ls> {%in der heiligen Lehre enthalten%} 
-<ls>ṚV. PRĀT. 11, 34.</ls> 
-<div n="2">— b) {%bekannt als%} so v. a. {%genannt%}: {#puRyaSloka iti SrutaH#} 
-<ls>MBH. 3, 2450.</ls> 
-<ls>R. 1, 5, 3. 8, 7. 9, 28.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 9, 61. 2, 85, 15.</ls> 
-<ls>KATHĀS. 13, 165. 42, 17.</ls> 
-<ls>BHĀG. P. 8, 13, 1.</ls> 
-<ls>Spr. (II) 5089.</ls> {%bekannt%} so v. a. {%berühmt%} 
-<ls>ṚV. 1, 53, 9.</ls> <ls n="ṚV.">7, 18, 12.</ls> {#tvaM Da^na\dA a^si Sru\taH#} 
-<ls n="ṚV. 7,">32, 17.</ls> {#gI\rBiH#} {%in Liedern gefeiert%} 
-<ls n="ṚV.">8, 2, 27.</ls> <ls n="ṚV. 8,">33, 10.</ls> <ls n="ṚV.">4, 32, 21.</ls> {#rADas#} 
-<ls n="ṚV.">5, 52, 17.</ls> {#pfza^tIzu#} 
-<ls n="ṚV. 5,">60, 2.</ls> <ls n="ṚV. 5,">62, 5.</ls> <is>Varuṇa</is> 
-<ls n="ṚV.">5, 85, 1.</ls> <ls n="ṚV. 5, 85,">5.</ls> <is>Indra</is> 
-<ls n="ṚV.">2, 14, 8.</ls> Wagen der <is>Aśvin</is> 
-<ls n="ṚV.">8, 26, 4.</ls> <ls>AV. 6, 52, 3.</ls> <ls>AIT. BR. 7, 17.</ls> <ls>CHĀND. UP. 3, 13, 8.</ls> {#karman#} 
-<ls>MBH. 1, 8043.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. pr. eines Sohnes des <is>Bhagīratha</is> 
-<ls>HARIV. 812. fg.</ls> 
-<ls>VP. 379.</ls> des <is>Kṛṣṇa</is> 
-<ls>591.</ls> <ls>BHĀG. P. 10, 61, 14.</ls> des <is>Subhāṣaṇa</is> 
-<ls>9, 13, 25.</ls> des <is>Upagu</is> 
-<ls>VP. 390.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#A#} N. pr. einer Tochter des <is>Dīrghadaṃṣṭra</is> 
-<ls>KATHĀS. 110, 34.</ls> 
-<div n="1">— 4) <lex>n.</lex> 
-<div n="2"> a) {%das Gehörte, Gelernte, Ueberlieferte; Gelehrsamkeit, Wissen%}; = {#SAstra#} 
-<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>AV. 6, 4, 1.</ls> {#pri\yA Sru\tasya^ BUyAsma#} 
-<ls>?7, 61, 1. 2. 15, 2, 4. ĀŚV. GṚHY. 3, 9, 1. 4, 7, 2. ŚĀṄKH. GRHY. 1, 2. TAITT. UP. 1, 4, 1. M. 2, 149. 4, 18. 8, 273. YĀJÑ. 1, 123. 3, 44. MBH. 2, 245. fg.</ls> {#prajYASrutAByAm#} 
-<ls>13, 1865. 1868.</ls> <ls>R. 2, 33, 12. 63, 39. 106, 22. 4, 26, 23.</ls> {#Srutasya yAyAdayamantam#} 
-<ls>RAGH. 3, 21. 5, 22.</ls> 
-<ls>Spr. 3024. 3037. fg. 3040. 3052. 5075.</ls> {#SrutaM prajYAnugaM yasya prajYA cEva SrutAnugA#} 
-<ls>5088. 5090.</ls> {#SIlavfttaPalaM Srutam#} 
-<ls>(II) 71. 1528. 1543. 2944. 3067.</ls> {#nAByAsena vinA Srutam#} 
-<ls>3570. 5318. 5816.</ls> <ls>VARĀH. BṚH. S. 79, 13.</ls> <ls>BHĀG. P. 1, 16, 27. 3, 7, 32.</ls> {#°SIle#} 
-<ls>M. 11, 22.</ls> {#°vftte#} 
-<ls>7, 135.</ls> neben {#vidyA#} so v. a. {%heiliges Wissen%} 
-<ls>Spr. 5127. (II) 1819</ls> (besser {#vidyAM SrutaM#}). {#vidyASrutasaMpanna#} 
-<ls>BHĀG. P. 11, 19, 1.</ls> {#SrutADyayanasaMpanna#} 
-<ls>YĀJÑ. 2, 2.</ls> {#°pAraga#} 
-<ls>R. GORR. 1, 35, 3.</ls> {#°prakASa#} 
-<ls>RAGH. 5, 2.</ls> {#°vfttopapanna#} 
-<ls>M. 9, 244.</ls> {#°vfttAQya#} 
-<ls>R. GORR. 1, 79, 16.</ls> {#tapaHSrutavayovfdDa#} 
-<ls>3, 10, 23.</ls> {#°vfdDa#} 
-<ls>RAGH. 18, 45.</ls> {#°mahant#} 
-<ls>ŚĀK. 194, v. l.</ls> {#°yukta#} 
-<ls>VARĀH. BṚH. S. 15, 11.</ls> {#SrutAnvita#} 
-<ls>BHAṬṬ. 1, 1.</ls> {#adaBra°#} <lex>adj.</lex> 
-<ls>BHĀG. P. 1, 5, 40.</ls> {#saMBfta°#} <lex>adj.</lex> 
-<ls>RĀJA-TAR. 3, 132.</ls> Bei den <is>Jaina</is> folgendermaassen definirt: {#jYAnAvaraRakzayopaSame sati matijanitaM spazwaM jYAnaM Srutam#} 
-<ls>SARVADARŚANAS. 32, 8. 9.</ls> {#jYAnaM paYcaviDaM matiSrutAvaDimanaHparyAyakevalaBedena#} 5. Personificirt als Kind <is>Dharma's</is> und der <is>Medhā</is> 
-<ls>VP. 55.</ls> 
-<ls>MĀRK. P. 50, 26.</ls> 
-<div n="2">— b) {%das Hören%}: {#CandasAM lakzaRaM SrutamAtreRa buDyate#} 
-<ls>ŚRUT. 1.</ls> {#Srutena mantrasidDiSca Bavenna pfTivIpateH#} 
-<ls>Spr. 3041.</ls> so v. a. {%der Unterricht, den man empfängt%}: {#nAyamAtmA pravacanena laByo na meDayA na bahunA Srutena#} 
-<ls>MUṆḌ. UP. 3, 2, 3.</ls> {#anAtmani SrutaM nazwam#} 
-<ls>Spr. (II) 3471.</ls> {#sADvInAM tu sTitAnAM tu SIle satye Srute sTite#} 
-<ls>R. 2, 39, 24.</ls> pl. <ls>Spr. (II) 3422.</ls> neben {#pAWa#} 
-<ls>KATHĀS. 40, 20.</ls> 
-<div n="2">— c) {%Erinnerung%} 
-<ls>AV. 1, 1, 2.</ls> 
+<ls>M. 2,58</ls>) {#ityatra cANgulimAtraM SrutaM taTApi#} u. s. w. so v. a. {%erwähnt, genannt%}
+<ls>KULL.</ls> zu <ls>M. 2,59.</ls> {%in der heiligen Lehre enthalten%}
+<ls>ṚV. PRĀT. 11,34.</ls>
+<div n="2">— b) {%bekannt als%} so v. a. {%genannt%}: {#puRyaSloka iti SrutaH#}
+<ls>MBH. 3,2450.</ls>
+<ls>R. 1,5,3.</ls> <ls n="R. 1,">8,7.</ls> <ls n="R. 1,">9,28.</ls>
+<ls>R. GORR. 1,9,61.</ls> <ls n="R. GORR.">2,85,15.</ls>
+<ls>KATHĀS. 13,165.</ls> <ls n="KATHĀS.">42,17.</ls>
+<ls>BHĀG. P. 8,13,1.</ls>
+<ls>Spr. (II) 5089.</ls> {%bekannt%} so v. a. {%berühmt%}
+<ls>ṚV. 1,53,9.</ls> <ls n="ṚV.">7,18,12.</ls> {#tvaM Da^na\dA a^si Sru\taH#}
+<ls n="ṚV. 7,">32,17.</ls> {#gI\rBiH#} {%in Liedern gefeiert%}
+<ls n="ṚV.">8,2,27.</ls> <ls n="ṚV. 8,">33,10.</ls> <ls n="ṚV.">4,32,21.</ls> {#rADas#}
+<ls n="ṚV.">5,52,17.</ls> {#pfza^tIzu#}
+<ls n="ṚV. 5,">60,2.</ls> <ls n="ṚV. 5,">62,5.</ls> <is>Varuṇa</is>
+<ls n="ṚV.">5,85,1.</ls> <ls n="ṚV. 5,85,">5.</ls> <is>Indra</is>
+<ls n="ṚV.">2,14,8.</ls> Wagen der <is>Aśvin</is>
+<ls n="ṚV.">8,26,4.</ls> <ls>AV. 6,52,3.</ls> <ls>AIT. BR. 7,17.</ls> <ls>CHĀND. UP. 3,13,8.</ls> {#karman#}
+<ls>MBH. 1,8043.</ls>
+<div n="1">— 2) <lex>m.</lex> N. pr. eines Sohnes des <is>Bhagīratha</is>
+<ls>HARIV. 812. fg.</ls>
+<ls>VP. 379.</ls> des <is>Kṛṣṇa</is>
+<ls n="VP.">591.</ls> <ls>BHĀG. P. 10,61,14.</ls> des <is>Subhāṣaṇa</is>
+<ls n="BHĀG. P.">9,13,25.</ls> des <is>Upagu</is>
+<ls>VP. 390.</ls>
+<div n="1">— 3) <lex>f.</lex> {#A#} N. pr. einer Tochter des <is>Dīrghadaṃṣṭra</is>
+<ls>KATHĀS. 110,34.</ls>
+<div n="1">— 4) <lex>n.</lex>
+<div n="2"> a) {%das Gehörte, Gelernte, Ueberlieferte; Gelehrsamkeit, Wissen%}; = {#SAstra#}
+<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>AV. 6,4,1.</ls> {#pri\yA Sru\tasya^ BUyAsma#}
+<ls n="AV.">7,61,1.</ls> <ls n="AV. 7,61,">2.</ls> <ls n="AV.">15,2,4.</ls> <ls>ĀŚV. GṚHY. 3,9,1. 4,7,2.</ls> <ls>ŚĀṄKH. GRHY. 1,2.</ls> <ls>TAITT. UP. 1,4,1.</ls> <ls>M. 2,149.</ls> <ls n="M.">4,18.</ls> <ls n="M.">8,273.</ls> <ls>YĀJÑ. 1,123.</ls> <ls n="YĀJÑ.">3,44.</ls> <ls>MBH. 2,245. fg.</ls> {#prajYASrutAByAm#}
+<ls n="MBH.">13,1865.</ls> <ls n="MBH. 13,">1868.</ls> <ls>R. 2,33,12.</ls> <ls n="R. 2,">63,39.</ls> <ls n="R. 2,">106,22.</ls> <ls n="R.">4,26,23.</ls> {#Srutasya yAyAdayamantam#}
+<ls>RAGH. 3,21.</ls> <ls n="RAGH.">5,22.</ls>
+<ls>Spr. 3024.</ls> <ls n="Spr.">3037. fg.</ls> <ls n="Spr.">3040.</ls> <ls n="Spr.">3052.</ls> <ls n="Spr.">5075.</ls> {#SrutaM prajYAnugaM yasya prajYA cEva SrutAnugA#}
+<ls n="Spr.">5088.</ls> <ls n="Spr.">5090.</ls> {#SIlavfttaPalaM Srutam#}
+<ls n="Spr.">(II) 71.</ls> <ls n="Spr. (II)">1528.</ls> <ls n="Spr. (II)">1543.</ls> <ls n="Spr. (II)">2944.</ls> <ls n="Spr. (II)">3067.</ls> {#nAByAsena vinA Srutam#}
+<ls n="Spr. (II)">3570.</ls> <ls n="Spr. (II)">5318.</ls> <ls n="Spr. (II)">5816.</ls> <ls>VARĀH. BṚH. S. 79,13.</ls> <ls>BHĀG. P. 1,16,27.</ls> <ls n="BHĀG. P.">3,7,32.</ls> {#°SIle#}
+<ls>M. 11,22.</ls> {#°vftte#}
+<ls n="M.">7,135.</ls> neben {#vidyA#} so v. a. {%heiliges Wissen%}
+<ls>Spr. 5127.</ls> <ls>Spr. (II) 1819</ls> (besser {#vidyAM SrutaM#}). {#vidyASrutasaMpanna#}
+<ls>BHĀG. P. 11,19,1.</ls> {#SrutADyayanasaMpanna#}
+<ls>YĀJÑ. 2,2.</ls> {#°pAraga#}
+<ls>R. GORR. 1,35,3.</ls> {#°prakASa#}
+<ls>RAGH. 5,2.</ls> {#°vfttopapanna#}
+<ls>M. 9,244.</ls> {#°vfttAQya#}
+<ls>R. GORR. 1,79,16.</ls> {#tapaHSrutavayovfdDa#}
+<ls n="R. GORR.">3,10,23.</ls> {#°vfdDa#}
+<ls>RAGH. 18,45.</ls> {#°mahant#}
+<ls>ŚĀK. 194, v. l.</ls> {#°yukta#}
+<ls>VARĀH. BṚH. S. 15,11.</ls> {#SrutAnvita#}
+<ls>BHAṬṬ. 1,1.</ls> {#adaBra°#} <lex>adj.</lex>
+<ls>BHĀG. P. 1,5,40.</ls> {#saMBfta°#} <lex>adj.</lex>
+<ls>RĀJA-TAR. 3,132.</ls> Bei den <is>Jaina</is> folgendermaassen definirt: {#jYAnAvaraRakzayopaSame sati matijanitaM spazwaM jYAnaM Srutam#}
+<ls>SARVADARŚANAS. 32,8. 9.</ls> {#jYAnaM paYcaviDaM matiSrutAvaDimanaHparyAyakevalaBedena#} 5. Personificirt als Kind <is>Dharma's</is> und der <is>Medhā</is>
+<ls>VP. 55.</ls>
+<ls>MĀRK. P. 50,26.</ls>
+<div n="2">— b) {%das Hören%}: {#CandasAM lakzaRaM SrutamAtreRa buDyate#}
+<ls>ŚRUT. 1.</ls> {#Srutena mantrasidDiSca Bavenna pfTivIpateH#}
+<ls>Spr. 3041.</ls> so v. a. {%der Unterricht, den man empfängt%}: {#nAyamAtmA pravacanena laByo na meDayA na bahunA Srutena#}
+<ls>MUṆḌ. UP. 3,2,3.</ls> {#anAtmani SrutaM nazwam#}
+<ls>Spr. (II) 3471.</ls> {#sADvInAM tu sTitAnAM tu SIle satye Srute sTite#}
+<ls>R. 2,39,24.</ls> pl. <ls>Spr. (II) 3422.</ls> neben {#pAWa#}
+<ls>KATHĀS. 40,20.</ls>
+<div n="2">— c) {%Erinnerung%}
+<ls>AV. 1,1,2.</ls>
 <div n="v">— Vgl. {#a°, ku°, jana°, duH°, bahu°, yaTA°, vasu°, vAja°, vizRu°, veda°, su°#} .
 <LEND>

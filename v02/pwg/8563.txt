@@ -1,19 +1,19 @@
 <L>8563<pc>1-0641<k1>Anana<k2>Anana
-{#Anana#}¦ (von 2. {#an#}) <lex>n.</lex> {%Mund, Gesicht%} (von Menschen und Thieren) 
-<ls>AK. 2, 6, 2, 40.</ls> 
-<ls>H. 572.</ls> 
-<ls>BHAG. 11, 24.</ls> 
-<ls>BRĀHMAṆ. 1, 13.</ls> 
-<ls>HIḌ. 2, 7. 3, 13.</ls> 
-<ls>R. 1, 8, 20.</ls> 
-<ls>SUŚR. 1, 42, 6. 110, 4.</ls> 
-<ls>ŚĀK. 30. 58.</ls> 
-<ls>RAGH. 1, 41. 3, 3. 17.</ls> 
-<ls>MEGH. 66. 101.</ls> 
-<ls>ṚT. 1, 14.</ls> 
-<ls>VID. 80. 285.</ls> {#gfDradIptAnanAn#} (von Pfeilen) 
-<ls>R. 6, 79, 69.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} 
-<ls>INDR. 5, 37.</ls> 
-<ls>N. 11, 30. 16, 22. 24, 40.</ls> 
-<ls>R. 3, 5, 4. 51, 37.</ls>
+{#Anana#}¦ (von 2. {#an#}) <lex>n.</lex> {%Mund, Gesicht%} (von Menschen und Thieren)
+<ls>AK. 2,6,2,40.</ls>
+<ls>H. 572.</ls>
+<ls>BHAG. 11,24.</ls>
+<ls>BRĀHMAṆ. 1,13.</ls>
+<ls>HIḌ. 2,7. 3,13.</ls>
+<ls>R. 1,8,20.</ls>
+<ls>SUŚR. 1,42,6. 110,4.</ls>
+<ls>ŚĀK. 30. 58.</ls>
+<ls>RAGH. 1,41.</ls> <ls n="RAGH.">3,3.</ls> <ls n="RAGH. 3,">17.</ls>
+<ls>MEGH. 66. 101.</ls>
+<ls>ṚT. 1,14.</ls>
+<ls>VID. 80. 285.</ls> {#gfDradIptAnanAn#} (von Pfeilen)
+<ls>R. 6,79,69.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+<ls>INDR. 5,37.</ls>
+<ls>N. 11,30.</ls> <ls n="N.">16,22.</ls> <ls n="N.">24,40.</ls>
+<ls>R. 3,5,4.</ls> <ls n="R. 3,">51,37.</ls>
 <LEND>

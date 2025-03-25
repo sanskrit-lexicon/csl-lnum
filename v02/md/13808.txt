@@ -1,12 +1,3 @@
 <L>13808<pc>219-2<k1>martya<k2>martya
-{#martya#}¦márt-ya, {%a.%} [relating to mortals], mortal; <lbinfo n="3"/>
-<> {%m.%} mortal, man; world of mortals, earth; 
-<>{%n.%} mortal coil, body: {@-tā,@} {%f.%} mortality; human <lbinfo n="2"/>
-<> condition; {@-tva,@} {%n.%} human condition; 
-<>{@-dharma,@} {%m. pl.%} laws {%or%} condition of human 
-<>life; {@-dharman,@} {%m.%} mortal, human being; 
-<>{@-bhāva,@} {%m.%} human nature; {@-bhuvana,@} {%n.%} 
-<>world of mortals, earth; {@-maṇḍala@}, {%n. id.%}; 
-<>{@-loka,@} {%m. id.%}; {@-amṛta@}, {%n.%} immortality of a 
-<>mortal.
+{#martya#}¦ márt-ya, <lex>a.</lex> [relating to mortals], mortal; 🞄<lex>m.</lex> mortal, man; world of mortals, earth; 🞄<lex>n.</lex> mortal coil, body: {@-tā,@} <lex>f.</lex> mortality; human 🞄condition; {@-tva,@} <lex>n.</lex> human condition; 🞄{@-dharma,@} <lex>m.</lex> <ab>pl.</ab> laws {%or%} condition of human 🞄life; {@-dharman,@} <lex>m.</lex> mortal, human being; 🞄{@-bhāva,@} <lex>m.</lex> human nature; {@-bhuvana,@} <lex>n.</lex> 🞄world of mortals, earth; {@-maṇḍala,@} <lex>n.</lex> <ab>id.</ab>; 🞄{@-loka,@} <lex>m.</lex> <ab>id.</ab>; {@-amṛta,@} <lex>n.</lex> immortality of a 🞄mortal.
 <LEND>

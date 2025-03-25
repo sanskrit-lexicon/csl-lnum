@@ -1,5 +1,5 @@
 <L>18552<pc>476-b<k1>maintainer<k2>maintainer
-<div n="lb"/>MAINTAINER¦, {%s.%} {#BarttA#} {%m.%} {#(rttf), BaraH, BaraRakft#} {%m.,%} {#DarttA#} {%m.%} {#(rttf), DaraH,#}
-<div n="lb"/>{#pAlakaH, pozakaH, pozwA#} {%m.%} {#(zwf), BftidAtA#} {%m.%} {#(tf), pratipAlakaH,#}
-<div n="lb"/>{#rakzitA#} {%m.%} {#(tf), AlambI#} {%m.%} ({#n#}); ‘of a family,’ {#kulAlambI#} {%m.%}
+MAINTAINER¦, {%s.%} {#BarttA#} {%m.%} {#(rttf), BaraH, BaraRakft#} {%m.,%} {#DarttA#} {%m.%} {#(rttf), DaraH,#}
+{#pAlakaH, pozakaH, pozwA#} {%m.%} {#(zwf), BftidAtA#} {%m.%} {#(tf), pratipAlakaH,#}
+{#rakzitA#} {%m.%} {#(tf), AlambI#} {%m.%} ({#n#}); ‘of a family,’ {#kulAlambI#} {%m.%}
 <LEND>

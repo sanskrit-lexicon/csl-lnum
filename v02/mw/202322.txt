@@ -1,5 +1,5 @@
 <L>202322<pc>998,3<k1>vizwamB<k2>vi-zwamB<e>1
-<s>vi-zwamB</s> ¦ (<s>√ stamB</s>) <ab>P.</ab> <s>-zwaBnoti</s>, or <s>°nAti</s> (<ab>impf.</ab> <s>vy-azwaBnot</s> or <s>°nAt</s> <ab>pf.</ab> <s>vitazwamBa</s>, <ls>Pāṇ. 8-3, 63</ls> &c.; <ab>ind.p.</ab> <s>-zwaBya</s> or <s>-zwamBitvA</s>), 
+<s>vi-zwamB</s> ¦ (√ <s>stamB</s>) <ab>P.</ab> <s>-zwaBnoti</s>, or <s>°nAti</s> (<ab>impf.</ab> <s>vy-azwaBnot</s> or <s>°nAt</s> <ab>pf.</ab> <s>vitazwamBa</s>, <ls>Pāṇ. viii, 3, 63</ls> &c.; <ab>ind.p.</ab> <s>-zwaBya</s> or <s>-zwamBitvA</s>),
 <div n="to"/>to fix asunder, hold or keep apart, prop, fix, fasten, support, <ls>RV.</ls>; <ls>AV.</ls>; <ls>Br.</ls>;
 <div n="to"/>to strengthen, encourage, <ls>MBh.</ls>; <ls>BhP.</ls>;
 <div n="to"/>to settle, ascertain, <ls>MBh. xii, 5429</ls>;
@@ -9,8 +9,8 @@
 <div n="to"/>to plant (the feet) firmly, <ls>Hit.</ls>;
 <div n="to"/>to lean on or against (<ab>acc.</ab>), <ls>MBh.</ls>; <ls>R.</ls>; <ls>Bhaṭṭ.</ls>;
 <div n="to"/>to stiffen <ab>i.e.</ab> fill through and through, pervade, permeate, <ls>MBh.</ls>; <ls>R.</ls>;
-<div n="to"/>to stuff (intr.), swell, remain undigested (in the stomach), <ls>Suśr.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-zWam-Bayati</s>, <s>°te</s> (<ab>aor.</ab> <s>vy-atastamBat</s>, <ls>Pāṇ. 8-3, 116</ls>), to cause to stop, check, arrest, obstruct, <ls>MBh.</ls>; <ls>R.</ls> &c.;
+<div n="to"/>to stuff (<ab>intr.</ab>), swell, remain undigested (in the stomach), <ls>Suśr.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>-zWam-Bayati</s>, <s>°te</s> (<ab>aor.</ab> <s>vy-atastamBat</s>, <ls>Pāṇ. viii, 3, 116</ls>), to cause to stop, check, arrest, obstruct, <ls>MBh.</ls>; <ls>R.</ls> &c.;
 <div n="to"/>to cause or produce (illness) by obstruction, <ls>Cat.</ls>;
 <div n="to"/>to paralyse, <ls>MW.</ls><info verb="pre" cp="P" parse="vi+stamB"/>
 <LEND>

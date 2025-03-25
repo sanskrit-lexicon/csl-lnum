@@ -1,13 +1,13 @@
 <L>21794<pc>687<k1>successful<k2>successful
-<div n="lb"/>{@SUCCESSFUL:@}¦ <div n="I">I Of persons: </div><div n="1">(1) {#sidDArTa#} (f. {#rTA#}),
-<div n="lb"/><div n="xe">{%for those who patiently tried do not return%}
-<div n="lb"/>{%without being s.:%}</div> <div n="xs">{#asidDArTA nivartante na hi DIrAH #}
-<div n="lb"/>{# kftodyamAH,#}</div> K. s. xxvi. 114.; </div><div n="1">(2) {#kftin#} (f. {#nI#}),
-<div n="lb"/><div n="xe">{%you cannot consider yourself s. without conquer-%}
-<div n="lb"/>{%ing Raghu:%}</div> <div n="xs">{#na Kalvanirjitya raGuM kftI BavAn,#}</div> R. iii.
-<div n="lb"/>51.; </div><div n="1">(3) {#kftakftya#} (f. {#tyA#} = 2). </div><div n="I">II Of things:</div>
-<div n="lb"/><div n="1">(1) {#sidDa#} (f. {#dDA#}), <div n="xe">{%our attempt has been s.:%}</div> <div n="xs">{#sidDaM #}
-<div n="lb"/>{# naH samIhitam,#}</div> H.; </div><div n="1">(2) {#sidDimat#} (f. {#tI#}), N.;</div>
-<div n="lb"/><div n="1">(3) {#sidDiSaktika#} (f. {#kA#}), Com.; </div><div n="1">(4) {#saPala#}
-<div n="lb"/>(f. {#lA#} = fruitful: q. v.).</div>
+{@SUCCESSFUL:@}¦ <div n="I">I Of persons: </div><div n="1">(1) {#sidDArTa#} (f. {#rTA#}),
+<div n="xe">{%for those who patiently tried do not return%}
+{%without being s.:%}</div> <div n="xs">{#asidDArTA nivartante na hi DIrAH #}
+{# kftodyamAH,#}</div> K. s. xxvi. 114.; </div><div n="1">(2) {#kftin#} (f. {#nI#}),
+<div n="xe">{%you cannot consider yourself s. without conquer-%}
+{%ing Raghu:%}</div> <div n="xs">{#na Kalvanirjitya raGuM kftI BavAn,#}</div> R. iii.
+51.; </div><div n="1">(3) {#kftakftya#} (f. {#tyA#} = 2). </div><div n="I">II Of things:</div>
+<div n="1">(1) {#sidDa#} (f. {#dDA#}), <div n="xe">{%our attempt has been s.:%}</div> <div n="xs">{#sidDaM #}
+{# naH samIhitam,#}</div> H.; </div><div n="1">(2) {#sidDimat#} (f. {#tI#}), N.;</div>
+<div n="1">(3) {#sidDiSaktika#} (f. {#kA#}), Com.; </div><div n="1">(4) {#saPala#}
+(f. {#lA#} = fruitful: q. v.).</div>
 <LEND>

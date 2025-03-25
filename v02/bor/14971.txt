@@ -1,9 +1,9 @@
 <L>14971<pc>457<k1>morning<k2>morning
-<div n="lb"/>{@MORNING@}¦ (subs.): <div n="I">I Lit.: {#praBAtam#} <div n="xe">{%or%}</div> <div n="xs">{#viBAtam,#}</div>
-<div n="lb"/><div n="xe">{%tomorrow m.:%}</div> <div n="xs">{#SvaH praBAte,#}</div> A.r., {%good m. to you:%}
-<div n="lb"/>{#*supramAtaM te:#} v. Dawn; {%early in the m.:%}
-<div n="lb"/>{#pratyUze#} <div n="xe">{%or%}</div> <div n="xs">{#pratyUzasi#}</div> <div n="xe">{%or%}</div> <div n="xs">{#Uzasi,#}</div> K. <div n="xe">{%or%}</div> <div n="xs">{#atikalyam,#}</div> <ls>M.</ls> ;
-<div n="lb"/><div n="xe">{%the m. has dawned:%}</div> <div n="xs">{#pramAtA rajanI,#}</div> Sa.; <div n="xe">{%this%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#adya prAtaH,#}</div> <ls>H.</ls> ; <div n="xe">{%from m.:%}</div> <div n="xs">{#prAtarAraBya,#}</div> Vi.</div>
-<div n="lb"/><div n="I">II Forenoon: {#pUrvAhRaH,#} <div n="xe">{%in the m.:%}</div> <div n="xs">{#pUrvAhRe,#}</div> M.</div>
+{@MORNING@}¦ (subs.): <div n="I">I Lit.: {#praBAtam#} <div n="xe">{%or%}</div> <div n="xs">{#viBAtam,#}</div>
+<div n="xe">{%tomorrow m.:%}</div> <div n="xs">{#SvaH praBAte,#}</div> A.r., {%good m. to you:%}
+{#*supramAtaM te:#} v. Dawn; {%early in the m.:%}
+{#pratyUze#} <div n="xe">{%or%}</div> <div n="xs">{#pratyUzasi#}</div> <div n="xe">{%or%}</div> <div n="xs">{#Uzasi,#}</div> K. <div n="xe">{%or%}</div> <div n="xs">{#atikalyam,#}</div> <ls>M.</ls> ;
+<div n="xe">{%the m. has dawned:%}</div> <div n="xs">{#pramAtA rajanI,#}</div> Sa.; <div n="xe">{%this%}
+{%m.:%}</div> <div n="xs">{#adya prAtaH,#}</div> <ls>H.</ls> ; <div n="xe">{%from m.:%}</div> <div n="xs">{#prAtarAraBya,#}</div> Vi.</div>
+<div n="I">II Forenoon: {#pUrvAhRaH,#} <div n="xe">{%in the m.:%}</div> <div n="xs">{#pUrvAhRe,#}</div> M.</div>
 <LEND>

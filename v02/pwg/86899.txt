@@ -1,30 +1,30 @@
 <L>86899<pc>6-0595<k1>lolupa<k2>lolupa
-{#lolupa#}¦ (wohl aus {#loluBa#} entstanden) 
-<div n="1"> 1) <lex>adj.</lex> (f. {#A#}) {%Begierden habend, begehrlich, gierig nach%} 
-<ls>AK. 3, 1, 22.</ls> 
-<ls>H. 430.</ls> 
-<ls>HALĀY. 2, 198.</ls> 
-<ls>RAGH. 19, 24.</ls> 
-<ls>Spr. 2753.</ls> 
-<ls>KATHĀS. 52, 372.</ls> 
-<ls>BHĀG. P. 3, 19, 13. 21, 55. 32, 40. 8, 8, 29. 12, 1, 27.</ls> 
-<ls>MĀRK. P. 16, 41.</ls> {#ati°#} 
-<ls>BHĀG. P. 3, 20, 23.</ls> {#a°#} (s. auch bes.) 
-<ls>YĀJÑ. 3, 59.</ls> 
-<ls>MBH. 1, 1970. 5, 2446.</ls> 
-<ls>SUŚR. 1, 333, 21.</ls> 
-<ls>BHĀG. P. 7, 11, 28.</ls> In comp. mit der Ergänzung: {#aSana°#} 
-<ls>SUŚR. 2, 518, 8.</ls> {#maDu°#} 
-<ls>RAGH. 9, 33.</ls> {#aBoga°#} 
-<ls>11, 87.</ls> {#AgraTanamokza°#} 
-<ls>19, 41.</ls> {#strIDana°#} 
-<ls>Spr. 3745. 4728.</ls> 
-<ls>ŚIŚ.1,40.2,17.7,49.</ls> 
-<ls>KATHĀS. 19,41. 27,19. 40,51. 63,135.</ls> 
-<ls>BHĀG. P.5,14,6.</ls> 
-<ls>ŚATR. 10,78.</ls> <ls>Verz. d. Oxf. H. 128,a,11.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 20,1,39.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#A#} {%Begierde, Verlangen%}: {#atra#} 
-<ls>MBH. 1, 6730.</ls> st. {#nAsti#} ({#nAsi#} ed. Bomb.) {#lolupaH#} 
-<ls>12, 12308</ls> ist wohl auch {#nAsti lolupA#} zu lesen. 
+{#lolupa#}¦ (wohl aus {#loluBa#} entstanden)
+<div n="1"> 1) <lex>adj.</lex> (f. {#A#}) {%Begierden habend, begehrlich, gierig nach%}
+<ls>AK. 3,1,22.</ls>
+<ls>H. 430.</ls>
+<ls>HALĀY. 2,198.</ls>
+<ls>RAGH. 19,24.</ls>
+<ls>Spr. 2753.</ls>
+<ls>KATHĀS. 52,372.</ls>
+<ls>BHĀG. P. 3,19,13.</ls> <ls n="BHĀG. P. 3,">21,55.</ls> <ls n="BHĀG. P. 3,">32,40.</ls> <ls n="BHĀG. P.">8,8,29.</ls> <ls n="BHĀG. P.">12,1,27.</ls>
+<ls>MĀRK. P. 16,41.</ls> {#ati°#}
+<ls>BHĀG. P. 3,20,23.</ls> {#a°#} (s. auch bes.)
+<ls>YĀJÑ. 3,59.</ls>
+<ls>MBH. 1,1970.</ls> <ls n="MBH.">5,2446.</ls>
+<ls>SUŚR. 1,333,21.</ls>
+<ls>BHĀG. P. 7,11,28.</ls> In comp. mit der Ergänzung: {#aSana°#}
+<ls>SUŚR. 2,518,8.</ls> {#maDu°#}
+<ls>RAGH. 9,33.</ls> {#aBoga°#}
+<ls n="RAGH.">11,87.</ls> {#AgraTanamokza°#}
+<ls n="RAGH.">19,41.</ls> {#strIDana°#}
+<ls>Spr. 3745.</ls> <ls n="Spr.">4728.</ls>
+<ls>ŚIŚ. 1,40. 2,17. 7,49.</ls>
+<ls>KATHĀS. 19,41.</ls> <ls n="KATHĀS.">27,19.</ls> <ls n="KATHĀS.">40,51.</ls> <ls n="KATHĀS.">63,135.</ls>
+<ls>BHĀG. P. 5,14,6.</ls>
+<ls>ŚATR. 10,78.</ls> <ls>Verz. d. Oxf. H. 128,a,11.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 20,1,39.</ls>
+<div n="1">— 2) <lex>f.</lex> {#A#} {%Begierde, Verlangen%}: {#atra#}
+<ls>MBH. 1,6730.</ls> st. {#nAsti#} ({#nAsi#} <ls>ed. Bomb.</ls>) {#lolupaH#}
+<ls n="MBH.">12,12308</ls> ist wohl auch {#nAsti lolupA#} zu lesen.
 <div n="v">— Vgl. {#a°, ganDa°, pra°, maDu°#} .
 <LEND>

@@ -1,354 +1,320 @@
 <L>88004<pc>6-0682<k1>vap<k2>vap<h>2
-2. {#vap#}¦, {#va/pati#} ({#bIjasaMtAne, tantubIjasaMtAne#}) 
-<ls>DHĀTUP. 23, 34.</ls> {#avapaTAs#} 
-<ls>P. 6, 1, 121.</ls> {#uvapa, uvApa, uvapiTa#} 
-<ls>P. 6, 1, 17.</ls> 
-<ls>VOP. 8, 134.</ls> {#Upe#} ({#A vepe#} 
-<ls>KĀŚ.</ls> zu <ls>P. 6, 4, 120</ls>), {#Upize, avApsIt, vapsyati#} (vgl. 
-<ls>?<is>Kār</is>. 5 aus SIDDH. K. zu P. 7, 2, 10</ls>) und {#vapizyati#} (episch), {#vaptum, uptvA, upya/te, upta/#} (auch {#uupita#} und {#vapita#}) 
-<ls>P. 6, 1, 15.</ls> {%hinstreuen, hinwerfen%} (bes. den Samen). {%säen%}: {#vapa^nti ma\ruto\ miha^m#} 
-<ls>ṚV. 8, 7, 4.</ls> {#yo BUmyA^ u\pasTe 'va^pajjaGa\nvAn#} ({#vIrAn#}) {%hinstreckte%} 
-<ls n="ṚV.">2, 14, 7.</ls> {#i\ma u\ptA mf^tyupA\SAH#} {%hier liegen%} 
-<ls>AV. 8, 8, 16.</ls> 
-<ls>KAUŚ. 14. 16.</ls> {#akzAnuptvA#} {%die Würfel werfend%} 
-<ls>MBH. 2, 2033.</ls> {#yava^m#} 
-<ls>ṚV. 1, 117, 21.</ls> {#vapa^nto\ bIja^miva DAnyA\kfta^H#} 
-<ls n="ṚV.">10, 94, 13.</ls> <ls n="ṚV. 10,">101, 3.</ls> {#mA vaH kzetre parabIjAnyavApsuH#} 
-<ls>P. 6, 4, 75,</ls> 
-<ls>Sch.</ls> 
-<ls>ŚAT. BR. 1, 6, 1, 3. 7, 2, 4, 13.</ls> 
-<ls>LĀṬY. 5, 8, 4.</ls> 
-<ls>KĀTY. ŚR. 17, 3, 8. 21, 4, 4.</ls> {#iriRe bIjamuptvA#} 
-<ls>M. 3, 142.</ls> 
-<ls>MBH. 3, 1248.</ls> 
-<ls>VARĀH. BṚH. S. 53, 87. 55, 2.</ls> 
-<ls>KATHĀS. 32, 121. 39, 116. 119. 61, 8. 71, 266.</ls> {#yAdfSaM vapate bIjam#} 
-<ls>Spr. 2468.</ls> 
-<ls>KATHĀS. 32, 118.</ls> 
-<ls>MĀRK. P. 51, 81.</ls> {#yAdfSaM tUpyate bIjaM kzetre#} 
-<ls>Spr. 2469.</ls> {#vfkzAnAropayedvapet#} 
-<ls>Verz. d. Oxf. H. 325,a,10. fg.</ls> {#upyamAnaM muhuH kzetram#} {%besäet werdend%} 
+2. {#vap#}¦, {#va/pati#} ({#bIjasaMtAne, tantubIjasaMtAne#})
+<ls>DHĀTUP. 23,34.</ls> {#avapaTAs#}
+<ls>P. 6,1,121.</ls> {#uvapa, uvApa, uvapiTa#}
+<ls>P. 6,1,17.</ls>
+<ls>VOP. 8,134.</ls> {#Upe#} ({#A vepe#}
+<ls>KĀŚ.</ls> zu <ls>P. 6,4,120</ls>), {#Upize, avApsIt, vapsyati#} (vgl.
+<ls><is>Kār.</is> 5</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7,2,10</ls>) und {#vapizyati#} (episch), {#vaptum, uptvA, upya/te, upta/#} (auch {#uupita#} und {#vapita#})
+<ls>P. 6,1,15.</ls> {%hinstreuen, hinwerfen%} (bes. den Samen). {%säen%}: {#vapa^nti ma\ruto\ miha^m#}
+<ls>ṚV. 8,7,4.</ls> {#yo BUmyA^ u\pasTe 'va^pajjaGa\nvAn#} ({#vIrAn#}) {%hinstreckte%}
+<ls n="ṚV.">2,14,7.</ls> {#i\ma u\ptA mf^tyupA\SAH#} {%hier liegen%}
+<ls>AV. 8,8,16.</ls>
+<ls>KAUŚ. 14. 16.</ls> {#akzAnuptvA#} {%die Würfel werfend%}
+<ls>MBH. 2,2033.</ls> {#yava^m#}
+<ls>ṚV. 1,117,21.</ls> {#vapa^nto\ bIja^miva DAnyA\kfta^H#}
+<ls n="ṚV.">10,94,13.</ls> <ls n="ṚV. 10,">101,3.</ls> {#mA vaH kzetre parabIjAnyavApsuH#}
+<ls>P. 6,4,75</ls>, <ls>Sch.</ls>
+<ls>ŚAT. BR. 1,6,1,3.</ls> <ls n="ŚAT. BR.">7,2,4,13.</ls>
+<ls>LĀṬY. 5,8,4.</ls>
+<ls>KĀTY. ŚR. 17,3,8.</ls> <ls n="KĀTY. ŚR.">21,4,4.</ls> {#iriRe bIjamuptvA#}
+<ls>M. 3,142.</ls>
+<ls>MBH. 3,1248.</ls>
+<ls>VARĀH. BṚH. S. 53,87. 55,2.</ls>
+<ls>KATHĀS. 32,121.</ls> <ls n="KATHĀS.">39,116.</ls> <ls n="KATHĀS. 39,">119.</ls> <ls n="KATHĀS.">61,8.</ls> <ls n="KATHĀS.">71,266.</ls> {#yAdfSaM vapate bIjam#}
+<ls>Spr. 2468.</ls>
+<ls>KATHĀS. 32,118.</ls>
+<ls>MĀRK. P. 51,81.</ls> {#yAdfSaM tUpyate bIjaM kzetre#}
+<ls>Spr. 2469.</ls> {#vfkzAnAropayedvapet#}
+<ls>Verz. d. Oxf. H. 325,a,10. fg.</ls> {#upyamAnaM muhuH kzetram#} {%besäet werdend%}
 <ls>Spr. 3809.</ls> {#yasyA\M#} ({#striyAM#}) {#bIjaM #}
 [Page6-0683]
-{# manu\zyA3^\ vapa^nti#} 
-<ls>ṚV. 10, 85, 37.</ls> {#na tu vidyAmiriRe vapet#} 
-<ls>M. 2, 113.</ls> {#upyante vizavallibIjavizamAH kleSAH priyAKyAH#} 
-<ls>Spr. 3808.</ls> {#upta#} {%gestreut, gesäet%}: {#kAloptAni bIjAni#} 
-<ls>M. 9, 38.</ls> 
-<ls>Spr. 130. 2315. 3809.</ls> 
-<ls>MBH. 13, 7608.</ls> 
-<ls>R. 3, 44, 3.</ls> 
-<ls>KUMĀRAS. 2, 5.</ls> 
-<ls>ŚĀK. 91, 14. 151.</ls> 
-<ls>VARĀH. BṚH. S. 40, 9. 55, 26.</ls> 
-<ls>KATHĀS. 32, 183. 39, 120.</ls> 
-<ls>RĀJA-TAR. 3, 294.</ls> 
-<ls>BHĀG. P. 1, 15, 21.</ls> 
-<ls>MĀRK. P. 49, 59.</ls> {%gepflanzt%} 
-<ls>VARĀH. BṚH. S. 75, 2.</ls> so v. a. {%gespendet%}: {#tezu dAnAni pAtrezu#} 
-<ls>BHĀG. P. 11, 6, 38.</ls> = {#nikzipta#} 
-<ls>3, 2, 10.</ls> {%bestreut, besäet, bedeckt%}: {#BUpradeSa#} 
-<ls>Verz. d. Oxf. H. 325,a,9.</ls> {#PalapuzpAkzatANkurEH#} 
-<ls>BHĀG. P. 1, 11, 15.</ls> {#pAMsUpta#} 
-<ls>KATHĀS. 98, 25.</ls> {#SramavAryupta#} {%übergossen%} 
-<ls>BHĀG. P. 10, 44, 11.</ls> {#upita#} {%gesäet%} 
-<ls>MBH. 3, 14763.</ls> {%aufschütten%} so v. a. {%aufdämmen%}: {#yaTA^ ya\mAya^ ha\rmyamava^pa\npaYca^ mAna\vAH#} 
-<ls>AV. 18, 4, 55.</ls> 
+{# manu\zyA3^\ vapa^nti#}
+<ls>ṚV. 10,85,37.</ls> {#na tu vidyAmiriRe vapet#}
+<ls>M. 2,113.</ls> {#upyante vizavallibIjavizamAH kleSAH priyAKyAH#}
+<ls>Spr. 3808.</ls> {#upta#} {%gestreut, gesäet%}: {#kAloptAni bIjAni#}
+<ls>M. 9,38.</ls>
+<ls>Spr. 130.</ls> <ls n="Spr.">2315.</ls> <ls n="Spr.">3809.</ls>
+<ls>MBH. 13,7608.</ls>
+<ls>R. 3,44,3.</ls>
+<ls>KUMĀRAS. 2,5.</ls>
+<ls>ŚĀK. 91,14. 151.</ls>
+<ls>VARĀH. BṚH. S. 40,9. 55,26.</ls>
+<ls>KATHĀS. 32,183.</ls> <ls n="KATHĀS.">39,120.</ls>
+<ls>RĀJA-TAR. 3,294.</ls>
+<ls>BHĀG. P. 1,15,21.</ls>
+<ls>MĀRK. P. 49,59.</ls> {%gepflanzt%}
+<ls>VARĀH. BṚH. S. 75,2.</ls> so v. a. {%gespendet%}: {#tezu dAnAni pAtrezu#}
+<ls>BHĀG. P. 11,6,38.</ls> = {#nikzipta#}
+<ls n="BHĀG. P.">3,2,10.</ls> {%bestreut, besäet, bedeckt%}: {#BUpradeSa#}
+<ls>Verz. d. Oxf. H. 325,a,9.</ls> {#PalapuzpAkzatANkurEH#}
+<ls>BHĀG. P. 1,11,15.</ls> {#pAMsUpta#}
+<ls>KATHĀS. 98,25.</ls> {#SramavAryupta#} {%übergossen%}
+<ls>BHĀG. P. 10,44,11.</ls> {#upita#} {%gesäet%}
+<ls>MBH. 3,14763.</ls> {%aufschütten%} so v. a. {%aufdämmen%}: {#yaTA^ ya\mAya^ ha\rmyamava^pa\npaYca^ mAna\vAH#}
+<ls>AV. 18,4,55.</ls>
 <div n="v">— Vgl. {#upta#} fgg. und {#yaTopta#} .
-
-<div n="p">— caus. {%säen, stecken, pflanzen%}: {#sarittIrezu kuddAlErvApayizyanti cOzaDIH#} 
-<ls>MBH. 3, 13031.</ls> {#vApita#} {%gesäet%} 
-<ls>H. an. 3, 293. fg.</ls> 
-<ls>MED. t. 150.</ls> <ls>VARĀH. BṚH. S. 55, 28.</ls>
-
-<div n="p">— {#aDi#} {%aufschütten, aufstreuen%}, med. 
-<ls>TS. 1, 6, 9, 3.</ls> {%an sich auftragen, - anbringen%}: {#aDi\ peSA^Msi vapate nf\tUri^va#} 
-<ls>ṚV. 1, 92, 4.</ls>
-
-<div n="p">— {#anu#} 
-<div n="1"> 1) {%bestreuen%} 
-<ls>NIR. 2, 22.</ls> 
-<div n="1">— 2) med. {%zerstieben machen%}: {#kra\vyAdyAna\gnira^nti\kAdaSva^ ivAnu\ vapa^te na\qam#} 
-<ls>AV. 12, 2, 50.</ls> pass. {%stieben%}: {#anu^ sva\DA yamu\pyate\ yava\M na carkf^za\dvfzA^#} 
-<ls>ṚV. 1, 176, 2.</ls>
-
-<div n="p">— {#apa#} {%zerstreuen, zerstören, verjagen%} 
-<ls>ṚV. 1, 133, 4.</ls> {#yo va\rcina^H Sa\tamindra^H sa\hasra^ma\pAva^pat#} 
-<ls n="ṚV.">2, 14, 6.</ls> <ls n="ṚV.">8, 85, 9.</ls> {#dasyU^nA\M senA^m#} 
-<ls>AV. 8, 8, 5. 19, 36, 4.</ls> {#yAtI^n#} 
-<ls>TS. 3, 3, 7, 3.</ls>
-
-<div n="p">— {#api#} {%bestreuen, überstreuen%} 
-<ls>AV. 12, 3, 22.</ls> {#Basma^nA pa\dam#} 
-<ls>TBR. 1, 4, 3, 6. 5, 4, 2.</ls> 
-<ls>ŚAT. BR. 12, 4, 1, 4.</ls> 
+<div n="p">— caus. {%säen, stecken, pflanzen%}: {#sarittIrezu kuddAlErvApayizyanti cOzaDIH#}
+<ls>MBH. 3,13031.</ls> {#vApita#} {%gesäet%}
+<ls>H. an. 3,293. fg.</ls>
+<ls>MED. t. 150.</ls> <ls>VARĀH. BṚH. S. 55,28.</ls>
+<div n="p">— {#aDi#} {%aufschütten, aufstreuen%}, med.
+<ls>TS. 1,6,9,3.</ls> {%an sich auftragen, — anbringen%}: {#aDi\ peSA^Msi vapate nf\tUri^va#}
+<ls>ṚV. 1,92,4.</ls>
+<div n="p">— {#anu#}
+<div n="1"> 1) {%bestreuen%}
+<ls>NIR. 2,22.</ls>
+<div n="1">— 2) med. {%zerstieben machen%}: {#kra\vyAdyAna\gnira^nti\kAdaSva^ ivAnu\ vapa^te na\qam#}
+<ls>AV. 12,2,50.</ls> pass. {%stieben%}: {#anu^ sva\DA yamu\pyate\ yava\M na carkf^za\dvfzA^#}
+<ls>ṚV. 1,176,2.</ls>
+<div n="p">— {#apa#} {%zerstreuen, zerstören, verjagen%}
+<ls>ṚV. 1,133,4.</ls> {#yo va\rcina^H Sa\tamindra^H sa\hasra^ma\pAva^pat#}
+<ls n="ṚV.">2,14,6.</ls> <ls n="ṚV.">8,85,9.</ls> {#dasyU^nA\M senA^m#}
+<ls>AV. 8,8,5.</ls> <ls n="AV.">19,36,4.</ls> {#yAtI^n#}
+<ls>TS. 3,3,7,3.</ls>
+<div n="p">— {#api#} {%bestreuen, überstreuen%}
+<ls>AV. 12,3,22.</ls> {#Basma^nA pa\dam#}
+<ls>TBR. 1,4,3,6. 5,4,2.</ls>
+<ls>ŚAT. BR. 12,4,1,4.</ls>
 <div n="v">— Vgl. {#apivApa#} .
-
-<div n="p">— {#aBi#} {%bestreuen, bedecken%}: {#svapne^nA\ByupyA\ cumu^ri\M Duni^M ca#} 
-<ls>ṚV. 2, 15, 9.</ls> {#a\Bi sva\pUBi^rmi\To va^panta#} 
-<ls n="ṚV.">7, 56, 3.</ls>
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {%einstreuen, hineinwerfen; legen in, beifügen, beimengen%}: {#a\gnO tuzA^n#} 
-<ls>AV. 11, 1, 29. 12, 3, 28.</ls> {#sa\vi\tA te\ SarI^rARi mA\turu\pasTa\ A va^patu#} 
-<ls>VS. 35, 5.</ls> 
-<ls>ŚAT. BR. 2, 5, 2, 11.</ls> {#taRqulAn#} 
-<ls>3, 4. 3, 2, 2, 14.</ls> {#akzAnpARO#} 
-<ls>5, 4, 4, 6.</ls> {#aNgArAn#} 
-<ls>6, 6, 2, 9.</ls> {#sTAlyAmagnim#} 
-<ls>11, 5, 1, 13.</ls> {#pAtryAm#} 
-<ls>KĀTY. ŚR. 2, 4, 21. 21, 4, 21.</ls> 
-<ls>ĀŚV. GṚHY. 1, 7, 8. 15.</ls> {#tilAn#} 
-<ls>4, 7, 11.</ls> <ls>KAUŚ. 11. 14. 18. 85.</ls> {#kaTaM BUtAni punarAtmanyAvapeya#} {%wie kann ich in mich hereinschaffen?%} 
-<ls>ŚAT. BR. 10, 4, 2, 3.</ls> {%hinstreuen%}: {#SvaByaSca SvapaceByaSca vayoByaScAvapedBuvi#} 
-<ls>MBH. 3, 105</ls> <ls>?(= MĀRK. P. 29, 23).</ls> {%ausgiessen%}: {#varzamAvapatAM SrezWaM bIjaM nivapatAM varam#} 
-<ls>17341. 17340.</ls> 
-<div n="1">— 2) {%einschieben, einfügen%}: {#tAnyantareRAvApamAvaperan#} 
-<ls>AIT. BR. 6, 19.</ls> {#sUktamaDrigO#} 
-<ls>ŚAT. BR. 13, 5, 1, 18.</ls> 
-<ls>LĀṬY. 4, 4, 1. 6, 6, 17.</ls> 
-<ls>ĀŚV. ŚR. 2, 16, 4. 9. 7, 2, 16.</ls> {#tasminnanyA devatA opyante#} 
-<ls>NIR. 12, 5.</ls> 
-<div n="1">— 3) {%vollschütten%}: {#pAMsuBirAvapettam#} 
-<ls>VARĀH. BṚH. S. 54, 120.</ls> 
-<div n="1">— 4) {%unter (Mehrere) bringen, mittheilen%}: {#tvaM ka^lyARa\ vasu\ viSva\mopi^ze#} 
-<ls>ṚV. 1, 31, 9.</ls> {#soma^ rAjansa\MjYAna\mA va^pEByaH#} 
-<ls>AV. 11, 1, 26.</ls> {#sa\mada^m#} 
-<ls>32.</ls> {%darbringen, veranstalten%}: {#maGAsu SrAdDamAvapan#} 
-<ls>MBH. 13, 4259.</ls> 
-<div n="v">— Vgl. {#Avapana#} fgg., {#AvApa#} fg., {#opya#} . — caus. 
-<div n="1"> 1) {%beimischen, beimengen%} 
-<ls>SUŚR. 1, 162, 11. 164, 4. 2, 436, 9.</ls> 
-<div n="1">— 2) {%kämmen, ordnen%} (das Haar): {#keSAnAvApayantI#} 
-<ls>MBH. 1, 819.</ls> {#dantapatrikayA veRIrUpeRa saMgraTanaM keSAnAM kArayantI#} 
-<ls>NĪLAK.</ls> 
+<div n="p">— {#aBi#} {%bestreuen, bedecken%}: {#svapne^nA\ByupyA\ cumu^ri\M Duni^M ca#}
+<ls>ṚV. 2,15,9.</ls> {#a\Bi sva\pUBi^rmi\To va^panta#}
+<ls n="ṚV.">7,56,3.</ls>
+<div n="p">— {#A#}
+<div n="1"> 1) {%einstreuen, hineinwerfen; legen in, beifügen, beimengen%}: {#a\gnO tuzA^n#}
+<ls>AV. 11,1,29.</ls> <ls n="AV.">12,3,28.</ls> {#sa\vi\tA te\ SarI^rARi mA\turu\pasTa\ A va^patu#}
+<ls>VS. 35,5.</ls>
+<ls>ŚAT. BR. 2,5,2,11.</ls> {#taRqulAn#}
+<ls n="ŚAT. BR.">3,4. 3,2,2,14.</ls> {#akzAnpARO#}
+<ls n="ŚAT. BR.">5,4,4,6.</ls> {#aNgArAn#}
+<ls n="ŚAT. BR.">6,6,2,9.</ls> {#sTAlyAmagnim#}
+<ls n="ŚAT. BR.">11,5,1,13.</ls> {#pAtryAm#}
+<ls>KĀTY. ŚR. 2,4,21.</ls> <ls n="KĀTY. ŚR.">21,4,21.</ls>
+<ls>ĀŚV. GṚHY. 1,7,8. 15.</ls> {#tilAn#}
+<ls n="ĀŚV. GṚHY.">4,7,11.</ls> <ls>KAUŚ. 11. 14. 18. 85.</ls> {#kaTaM BUtAni punarAtmanyAvapeya#} {%wie kann ich in mich hereinschaffen?%}
+<ls>ŚAT. BR. 10,4,2,3.</ls> {%hinstreuen%}: {#SvaByaSca SvapaceByaSca vayoByaScAvapedBuvi#}
+<ls>MBH. 3,105</ls> (= <ls>MĀRK. P. 29,23).</ls> {%ausgiessen%}: {#varzamAvapatAM SrezWaM bIjaM nivapatAM varam#}
+<ls n="MBH.">17341. 17340.</ls>
+<div n="1">— 2) {%einschieben, einfügen%}: {#tAnyantareRAvApamAvaperan#}
+<ls>AIT. BR. 6,19.</ls> {#sUktamaDrigO#}
+<ls>ŚAT. BR. 13,5,1,18.</ls>
+<ls>LĀṬY. 4,4,1. 6,6,17.</ls>
+<ls>ĀŚV. ŚR. 2,16,4. 9. 7,2,16.</ls> {#tasminnanyA devatA opyante#}
+<ls>NIR. 12,5.</ls>
+<div n="1">— 3) {%vollschütten%}: {#pAMsuBirAvapettam#}
+<ls>VARĀH. BṚH. S. 54,120.</ls>
+<div n="1">— 4) {%unter (Mehrere) bringen, mittheilen%}: {#tvaM ka^lyARa\ vasu\ viSva\mopi^ze#}
+<ls>ṚV. 1,31,9.</ls> {#soma^ rAjansa\MjYAna\mA va^pEByaH#}
+<ls>AV. 11,1,26.</ls> {#sa\mada^m#}
+<ls n="AV. 11,1,">32.</ls> {%darbringen, veranstalten%}: {#maGAsu SrAdDamAvapan#}
+<ls>MBH. 13,4259.</ls>
+<div n="v">— Vgl. {#Avapana#} fgg., {#AvApa#} fg., {#opya#} . — caus.
+<div n="1"> 1) {%beimischen, beimengen%}
+<ls>SUŚR. 1,162,11. 164,4. 2,436,9.</ls>
+<div n="1">— 2) {%kämmen, ordnen%} (das Haar): {#keSAnAvApayantI#}
+<ls>MBH. 1,819.</ls> {#dantapatrikayA veRIrUpeRa saMgraTanaM keSAnAM kArayantI#}
+<ls>NĪLAK.</ls>
 <div n="v">— Vgl. {#AvApana#} .
-
-<div n="p">— {#aDyA#} {%darauf streuen%} 
-<ls>ŚAT. BR. 3, 3, 2, 13.</ls> 
+<div n="p">— {#aDyA#} {%darauf streuen%}
+<ls>ŚAT. BR. 3,3,2,13.</ls>
 <div n="v">— Vgl. {#aDyAvApa#} .
-
-<div n="p">— {#anvA#} {%beifügen%} 
+<div n="p">— {#anvA#} {%beifügen%}
 <ls>KAUŚ. 80.</ls>
-
-<div n="p">— {#paryA#} dass. 
-<ls>ŚAT. BR. 6, 6, 4, 8.</ls>
+<div n="p">— {#paryA#} dass.
+<ls>ŚAT. BR. 6,6,4,8.</ls>
 [Page6-0684]
-
-<div n="p">— {#pratyA#} {%wieder dazu werfen%} 
+<div n="p">— {#pratyA#} {%wieder dazu werfen%}
 <ls>KAUŚ. 21.</ls>
-
-<div n="p">— {#vyA#} scheinbar in der Stelle: {#udaDiM vyAvapAti#} ved. Cit. beim Schol. zu 
-<ls>P. 3, 1, 34. 4, 7. 94.</ls> fehlerhaft für {#udaDiM cyAvayAti#} 
-<ls>TS. 3, 5, 5, 2.</ls>
-
-<div n="p">— {#samA#} {%zusammenwerfen, vermengen; hineinschütten%} 
-<ls>AIT. BR. 7, 5.</ls> {#saMBArAnpAtryAM vA camase vA samAvapeyuH#} 
-<ls>8, 17.</ls> {#aYjalO#} 
-<ls>ŚAT. BR. 2, 6, 2, 16.</ls> 
-<ls>ĀŚV. GṚHY. 1, 10, 9. 11.</ls> {#samoptaDAna#} 
-<ls>LĀṬY. 8, 8, 18.</ls> 
-<ls>KAUŚ. 82. fg.</ls> {#sTAlyAmAjyaM samAvapet#} 
-<ls>GṚHYAS. 1, 106.</ls> {#carAvAjyam#} 
-<ls>2, 7.</ls> <ls>SUŚR. 2, 347, 6. 419, 21.</ls> — caus. dass. 
-<ls>MBH. 1, 1111.</ls> 
-<ls>SUŚR. 2, 65, 13.</ls>
-
-<div n="p">— {#ud#} 
-<div n="1"> 1) {%ausschütten, herausschaffen; ausscharren, ausgraben; wegschleudern%}: {#yadvi\dvAMsA^ ni\Dimi\vApa^gU|a\mudda^rSa\tAdU\paTu\rvanda^nAya#} 
-<ls>ṚV. 1, 116, 11.</ls> <ls n="ṚV. 1,">117, 5.</ls> {#niKA^ta\M vasUdidva^pati dA\Suze^#} 
-<ls n="ṚV.">8, 55, 4.</ls> <ls n="ṚV.">10, 39, 8.</ls> {#va\la\gam#} {%einen Zauber heben%} 
-<ls>TS. 1, 3, 2, 1.</ls> 
-<ls>ŚAT. BR. 3, 5, 4, 12.</ls> {#lA^Nga^la\mudidva^patu\ gAmavi^m#} 
-<ls>AV. 3, 17, 3. 6, 109, 3.</ls> 
-<ls>ŚAT. BR. 7, 2, 2, 11.</ls> 
-<ls>VS. 11, 63.</ls> {#uKAm#} 
-<ls>ŚAT. BR. 6, 5, 4, 10. fg.</ls> 
-<ls>KĀTY. ŚR. 16, 4, 8.</ls> {#prapadena pAMsUn#} 
-<ls>ĀŚV. ŚR. 4, 4, 2.</ls> {#Basma#} 
-<ls>ŚAT. BR. 6, 6, 4, 1.</ls> {#haviH#} 
-<ls>KĀTY. ŚR. 2, 4, 17.</ls> 
-<ls>KAUŚ. 61.</ls> 
-<div n="1">— 2) {%hinzufügen%} (?) 
-<ls>WEBER, JYOT. 70.</ls> 
-<div n="v">— Vgl. {#udvapana, udvApa#} . — caus. 
-<div n="1"> 1) {%ausgraben lassen%} 
-<ls>ŚAT. BR. 3, 6, 1, 27. fg.</ls> 
-<div n="1">— 2) {%ausschütten, herausnehmen%} 
-<ls>ŚĀṄKH. GṚHY. 3, 1.</ls>
-
-<div n="p">— {#upa#} {%aufschütten, anhäufen; beschütten, bedecken, einscharren%} (Gegens. {#vap#} mit {#ud): yannyfcCatyasyAmeva tadupopyate#} {%das wird in die Erde verscharrt%} 
-<ls>ŚAT. BR. 2, 3, 4, 9.</ls> {#uttaravedim#} 
-<ls>TS. 5, 2, 5, 6.</ls> 
-<ls>TBR. 1, 6, 2, 7. 4, 3.</ls> {#cAtvAlAdDizRyAn#} 
-<ls>TS. 6, 3, 1, 1. 5, 2, 2.</ls> 
-<ls>ŚAT. BR. 6, 5, 4, 10.</ls> 
-<ls>PAÑCAV. BR. 14, 12, 6. 25, 10, 5.</ls> {#apUpAnAM yamaDvaryurAKUtkara upopet#} (so die Hdschrr., der Comm. hat die richtige Form {#upavapet#}) {%in einen Maulwurfshaufen einscharrt%} 
-<ls>LĀṬY. 5, 3, 2. 10, 15, 16.</ls>
-
-<div n="p">— {#ni#} 
-<div n="1"> 1) {%hinschütten, hinwerfen; aufdämmen%} (bes. den Opferwall): {#DAnA uttaravedO#} 
-<ls>ŚAT. BR. 4, 4, 3, 12.</ls> {#sikatAH, UzAn#} 
-<ls>TBR. 1, 1, 3, 1.</ls> {#DizRi^yA nyu^pyante#} 
-<ls>?3, 3, 8, 1. ŚAT. BR. 3, 6, 2, 21. KĀṬY. ŚR. 8, 6, 15. 9, 7, 6. 18, 6, 8.</ls> {#uttaravedim#} 
-<ls>ŚAT. BR. 7, 1, 1, 6.</ls> {#purIzam#} 
-<ls>8, 7, 3, 1.</ls> <ls>KĀTY. ŚR. 5, 3, 28.</ls> <ls>ŚAT. BR. 12, 5, 1, 13.</ls> {#yAvatyeva nivapsyansyAttAvadudDanyAt#} 
-<ls>13, 8, 1, 20. 2, 1. 3, 2.</ls> {#KarO#} 
-<ls>KĀTY. ŚR. 26, 2, 16.</ls> {#balim#} 
-<ls>GOBH. 3, 7, 11.</ls> 
-<ls>ĀŚV. GṚHY. 4, 6, 3.</ls> {#aMSuzu nyuptaH#} ({#somaH#}) 
-<ls>VS. 8, 57.</ls> 
-<ls>ŚAT. BR. 4, 6, 1, 5. 12, 8, 2, 3.</ls> {#carmaRyAnaquhe somam#} 
-<ls>KĀTY. ŚR. 7, 6, 1.</ls> {#nyupya piRqAn#} 
-<ls>M. 3, 216. 218.</ls> {#nyupya cEva nivApaM taM BUteByo 'pi#} 
-<ls>R. GORR. 2, 56, 29.</ls> {#nivapte cAgnipUrvaM#} (so die ed. Bomb.) {#vE nivApe#} 
-<ls>MBH. 13, 4383.</ls> {#ENgudaM badaronmiSraM piRyAkaM darBasaMstare . nyupya#} 
-<ls>R. GORR. 2, 111, 35. 112, 11.</ls> {#sahakAramaYjarIH#} 
-<ls>KUMĀRAS. 4, 38.</ls> {#bIjaM nivapatAM varam#} {%säen%} 
-<ls>MBH. 3, 17341. 17340.</ls> 
-<ls>VARĀH. BṚH. S. 55, 30.</ls> 
-<div n="1">— 2) {%zu Boden werfen%}: {#a\nyaM te^ a\smanni va^pantu\ senA^H#} 
-<ls>ṚV. 2, 33, 11.</ls> 
-<ls>NAIGH. 2, 19.</ls> 
-<ls>VS. 16, 52.</ls> 
-<ls>ṚV. 4, 16, 13.</ls> 
+<div n="p">— {#vyA#} scheinbar in der Stelle: {#udaDiM vyAvapAti#} ved. Cit. beim Schol. zu
+<ls>P. 3,1,34.</ls> <ls n="P. 3,">4,7.</ls> <ls n="P. 3,4,">94.</ls> fehlerhaft für {#udaDiM cyAvayAti#}
+<ls>TS. 3,5,5,2.</ls>
+<div n="p">— {#samA#} {%zusammenwerfen, vermengen; hineinschütten%}
+<ls>AIT. BR. 7,5.</ls> {#saMBArAnpAtryAM vA camase vA samAvapeyuH#}
+<ls n="AIT. BR.">8,17.</ls> {#aYjalO#}
+<ls>ŚAT. BR. 2,6,2,16.</ls>
+<ls>ĀŚV. GṚHY. 1,10,9. 11.</ls> {#samoptaDAna#}
+<ls>LĀṬY. 8,8,18.</ls>
+<ls>KAUŚ. 82. fg.</ls> {#sTAlyAmAjyaM samAvapet#}
+<ls>GṚHYAS. 1,106.</ls> {#carAvAjyam#}
+<ls n="GṚHYAS.">2,7.</ls> <ls>SUŚR. 2,347,6. 419,21.</ls> — caus. dass.
+<ls>MBH. 1,1111.</ls>
+<ls>SUŚR. 2,65,13.</ls>
+<div n="p">— {#ud#}
+<div n="1"> 1) {%ausschütten, herausschaffen; ausscharren, ausgraben; wegschleudern%}: {#yadvi\dvAMsA^ ni\Dimi\vApa^gU|a\mudda^rSa\tAdU\paTu\rvanda^nAya#}
+<ls>ṚV. 1,116,11.</ls> <ls n="ṚV. 1,">117,5.</ls> {#niKA^ta\M vasUdidva^pati dA\Suze^#}
+<ls n="ṚV.">8,55,4.</ls> <ls n="ṚV.">10,39,8.</ls> {#va\la\gam#} {%einen Zauber heben%}
+<ls>TS. 1,3,2,1.</ls>
+<ls>ŚAT. BR. 3,5,4,12.</ls> {#lA^Nga^la\mudidva^patu\ gAmavi^m#}
+<ls>AV. 3,17,3.</ls> <ls n="AV.">6,109,3.</ls>
+<ls>ŚAT. BR. 7,2,2,11.</ls>
+<ls>VS. 11,63.</ls> {#uKAm#}
+<ls>ŚAT. BR. 6,5,4,10. fg.</ls>
+<ls>KĀTY. ŚR. 16,4,8.</ls> {#prapadena pAMsUn#}
+<ls>ĀŚV. ŚR. 4,4,2.</ls> {#Basma#}
+<ls>ŚAT. BR. 6,6,4,1.</ls> {#haviH#}
+<ls>KĀTY. ŚR. 2,4,17.</ls>
+<ls>KAUŚ. 61.</ls>
+<div n="1">— 2) {%hinzufügen%} (?)
+<ls>WEBER, JYOT. 70.</ls>
+<div n="v">— Vgl. {#udvapana, udvApa#} . — caus.
+<div n="1"> 1) {%ausgraben lassen%}
+<ls>ŚAT. BR. 3,6,1,27. fg.</ls>
+<div n="1">— 2) {%ausschütten, herausnehmen%}
+<ls>ŚĀṄKH. GṚHY. 3,1.</ls>
+<div n="p">— {#upa#} {%aufschütten, anhäufen; beschütten, bedecken, einscharren%} (Gegens. {#vap#} mit {#ud): yannyfcCatyasyAmeva tadupopyate#} {%das wird in die Erde verscharrt%}
+<ls>ŚAT. BR. 2,3,4,9.</ls> {#uttaravedim#}
+<ls>TS. 5,2,5,6.</ls>
+<ls>TBR. 1,6,2,7. 4,3.</ls> {#cAtvAlAdDizRyAn#}
+<ls>TS. 6,3,1,1. 5,2,2.</ls>
+<ls>ŚAT. BR. 6,5,4,10.</ls>
+<ls>PAÑCAV. BR. 14,12,6. 25,10,5.</ls> {#apUpAnAM yamaDvaryurAKUtkara upopet#} (so die Hdschrr., der Comm. hat die richtige Form {#upavapet#}) {%in einen Maulwurfshaufen einscharrt%}
+<ls>LĀṬY. 5,3,2. 10,15,16.</ls>
+<div n="p">— {#ni#}
+<div n="1"> 1) {%hinschütten, hinwerfen; aufdämmen%} (bes. den Opferwall): {#DAnA uttaravedO#}
+<ls>ŚAT. BR. 4,4,3,12.</ls> {#sikatAH, UzAn#}
+<ls>TBR. 1,1,3,1.</ls> {#DizRi^yA nyu^pyante#}
+<ls n="TBR.">3,3,8,1.</ls> <ls>ŚAT. BR. 3,6,2,21.</ls> <ls>KĀTY. ŚR. 8,6,15.</ls> <ls n="KĀTY. ŚR.">9,7,6.</ls> <ls n="KĀTY. ŚR.">18,6,8.</ls> {#uttaravedim#}
+<ls>ŚAT. BR. 7,1,1,6.</ls> {#purIzam#}
+<ls n="ŚAT. BR.">8,7,3,1.</ls> <ls>KĀTY. ŚR. 5,3,28.</ls> <ls>ŚAT. BR. 12,5,1,13.</ls> {#yAvatyeva nivapsyansyAttAvadudDanyAt#}
+<ls n="ŚAT. BR.">13,8,1,20. 2,1. 3,2.</ls> {#KarO#}
+<ls>KĀTY. ŚR. 26,2,16.</ls> {#balim#}
+<ls>GOBH. 3,7,11.</ls>
+<ls>ĀŚV. GṚHY. 4,6,3.</ls> {#aMSuzu nyuptaH#} ({#somaH#})
+<ls>VS. 8,57.</ls>
+<ls>ŚAT. BR. 4,6,1,5.</ls> <ls n="ŚAT. BR.">12,8,2,3.</ls> {#carmaRyAnaquhe somam#}
+<ls>KĀTY. ŚR. 7,6,1.</ls> {#nyupya piRqAn#}
+<ls>M. 3,216.</ls> <ls n="M. 3,">218.</ls> {#nyupya cEva nivApaM taM BUteByo 'pi#}
+<ls>R. GORR. 2,56,29.</ls> {#nivapte cAgnipUrvaM#} (so die <ls>ed. Bomb.</ls>) {#vE nivApe#}
+<ls>MBH. 13,4383.</ls> {#ENgudaM badaronmiSraM piRyAkaM darBasaMstare . nyupya#}
+<ls>R. GORR. 2,111,35.</ls> <ls n="R. GORR. 2,">112,11.</ls> {#sahakAramaYjarIH#}
+<ls>KUMĀRAS. 4,38.</ls> {#bIjaM nivapatAM varam#} {%säen%}
+<ls>MBH. 3,17341.</ls> <ls n="MBH. 3,">17340.</ls>
+<ls>VARĀH. BṚH. S. 55,30.</ls>
+<div n="1">— 2) {%zu Boden werfen%}: {#a\nyaM te^ a\smanni va^pantu\ senA^H#}
+<ls>ṚV. 2,33,11.</ls>
+<ls>NAIGH. 2,19.</ls>
+<ls>VS. 16,52.</ls>
+<ls>ṚV. 4,16,13.</ls>
 <div n="v">— Vgl. {#nivapana, nivApa#} fgg.
-
-<div n="p">— {#upani#} {%dazu hinwerfen%}: {#saMBArAn#} 
-<ls>ŚAT. BR. 3, 5, 2, 14. 4, 1, 1, 5.</ls> 
+<div n="p">— {#upani#} {%dazu hinwerfen%}: {#saMBArAn#}
+<ls>ŚAT. BR. 3,5,2,14.</ls> <ls n="ŚAT. BR.">4,1,1,5.</ls>
 <div n="v">— Vgl. {#upanivapana#} .
-
-<div n="p">— {#pariRi#} und {#praRi#} 
-<ls>P. 8, 4, 17.</ls> 
-<ls>VOP. 8, 22. 134.</ls>
-
-<div n="p">— {#saMni#} {%zusammenwerfen%}: {#agnIn#} 
-<ls>AIT. BR. 4, 26.</ls> 
-<ls>TS. 5, 2, 4, 1.</ls> 
-<ls>ŚAT. BR. 6, 7, 4, 13. 7, 1, 1, 38.</ls>
-
-<div n="p">— {#nis#} {%herausschütten, - schöpfen, - nehmen%}; daher {%ausscheiden für%} (dat. gen.), {%zutheilen, vertheilen%} (bes. Fruchtkörner, die zu Opferzwecken aus einer grösseren Masse {%ausgesondert werden)%}: {#nirgA U^pe\ yava^miva sTi\viBya^H#} 
-<ls>ṚV. 10, 68, 3.</ls> 
-<ls>AV. 9, 6, 14.</ls> {#AgnAvEzRavaM puroLASaM nirvapanti dIkzaRIyamekAdaSakapAlaM sarvABya evEnaM taddevatAByo 'nantarAyaM nirvapanti#}
+<div n="p">— {#pariRi#} und {#praRi#}
+<ls>P. 8,4,17.</ls>
+<ls>VOP. 8,22.</ls> <ls n="VOP. 8,">134.</ls>
+<div n="p">— {#saMni#} {%zusammenwerfen%}: {#agnIn#}
+<ls>AIT. BR. 4,26.</ls>
+<ls>TS. 5,2,4,1.</ls>
+<ls>ŚAT. BR. 6,7,4,13.</ls> <ls n="ŚAT. BR.">7,1,1,38.</ls>
+<div n="p">— {#nis#} {%herausschütten, — schöpfen, — nehmen%}; daher {%ausscheiden für%} (dat. gen.), {%zutheilen, vertheilen%} (bes. Fruchtkörner, die zu Opferzwecken aus einer grösseren Masse {%ausgesondert werden)%}: {#nirgA U^pe\ yava^miva sTi\viBya^H#}
+<ls>ṚV. 10,68,3.</ls>
+<ls>AV. 9,6,14.</ls> {#AgnAvEzRavaM puroLASaM nirvapanti dIkzaRIyamekAdaSakapAlaM sarvABya evEnaM taddevatAByo 'nantarAyaM nirvapanti#}
 [Page6-0685]
-
-<ls>AIT. BR. 1, 1.</ls> {#yasyAM sTAlyAM prAyaRIyaM nirvapet#} 
-<ls>11.</ls> {#havirAtiTyaM nirupyate#} 
-<ls>15.</ls> {#rasasya#} 
-<ls>TS. 1, 1, 10, 3. 6, 8, 3. 2, 2, 5, 1.</ls> {#nAhama^BA\go nirva^psyAmi#} {%so lange ich ohne Theil bin, werde ich nicht Andern austheilen%} 
-<ls>TBR. 3, 3, 8, 5.</ls> 
-<ls>ĀŚV. ŚR. 3, 10, 10.</ls> {#navAnAM savanIyAnnirvapeyuH#} {%von neuer Frucht%} 
-<ls>12, 8, 26.</ls> {#haviH#} 
-<ls>ŚAT. BR. 1, 6, 3, 19. 2, 2, 1, 6. fg.</ls> {#carum#} 18. {#brahmOdanAn#} 
-<ls>13, 3, 6, 6.</ls> {#Ajyam#} 
-<ls>KĀTY. ŚR. 1, 3, 22. 2, 5, 9.</ls> {#sTAlIpAkam#} 
-<ls>ĀŚV. GṚHY. 2, 2, 2. 1, 10, 6. 7.</ls> 
-<ls>KAUŚ. 2. 67. fg.</ls> {#bahudevatAmizwiM nirvaperan#} 
-<ls>ŚĀṄKH. ŚR. 3, 6, 1. 13, 29, 14.</ls> — {#parakzetre nirvapati yaSca bIjam#} 
-<ls>MBH. 5, 1338.</ls> {#nirvapedudakaM Buvi#} 
-<ls>M. 3, 214.</ls> {#nirvavApa pavitrezu nivApam#} 
-<ls>R. GORR. 2, 56, 28.</ls> {#(annasya) agramudDftya rAmAya BUtale nirvapizyati#} 
-<ls>4, 61, 10.</ls> {#SunAm#} u.s.w. {#nirvapedBuvi#} 
-<ls>M. 3, 92. 72. 220.</ls> 
-<ls>MBH. 3, 1455. 13, 3342.</ls> 
-<ls>MĀRK. P. 29, 20.</ls> {#piRqAn#} 
-<ls>M. 3, 215. 247. 9, 140.</ls> {#puroqASAMScarUMScEva#} 
-<ls>6, 11.</ls> <ls>BHĀG. P. 4, 7, 17. 13, 35.</ls> {#carupuroqASAn#} 
-<ls>7, 12, 19.</ls> {#haviH#} 
-<ls>5, 19, 26.</ls> {#na ca tatsvayamaSnIyAdviDivadyanna nirvapet#} {%wovon er nicht zuvor einen Theil%} (für die Götter 
-u.s.w.) {%ausgeschieden und ihnen dargebracht hat%} 
-<ls>MBH. 3, 104</ls> <ls>?(= MĀRK. P. 29, 46).</ls> {#adya te nirvapizyanti (nirvartayizyanti#} die neuere Ausg.) {#SatrumAMsAni dAnavAH#} 
-<ls>HARIV. 13756.</ls> {#yamAyAkampanaM tena niruvAza mahApaSum#} 
-<ls>BHAṬṬ. 14, 86.</ls> {#SrAdDam#} {%darbringen%} 
-<ls>M.3,281.</ls> <ls>Verz. d. Oxf. H. 40,a, N. 1.</ls> {#izwIH#} 
-<ls>M. 4, 10. 11, 27.</ls> {#mahAyajYAn#} 
-<ls>6, 5.</ls> <ls>BHĀG. P. 11, 18, 7.</ls> {#yaSca no nirvapetkfzim#} (so die ed. Bomb.) so v. a. {%und der nicht Ackerbau treibt%} 
-<ls>MBH. 5, 1292.</ls> {#nirUpya#} fehlerhaft für {#nirupya#} 
-<ls>M. 6, 38.</ls> 
-<ls>BHĀG. P. 1, 15, 39. 8, 16, 51. 9, 23, 9.</ls> {#nirUpyante#} fehlerhaft für {#nirupyante#} 
-<ls>4, 1, 61.</ls> 
-<div n="v">— Vgl. {#nirupti#} fg., {#nirvapaRa, nirvApa, nirvApya, yaTAniruptam#} . — caus. {%aussäen%}: {#tvayA kIdfNnItibIjaM nirvApitam#} 
-<ls>PAÑCAT. 85, 20.</ls> (für die Götter 
-u.s.w.) {%ausscheiden, austheilen%}: {#anirvApya samaSnanvE mfto jAyati vAyasaH#} 
-<ls>MBH. 13, 5483.</ls> 
+<ls>AIT. BR. 1,1.</ls> {#yasyAM sTAlyAM prAyaRIyaM nirvapet#}
+<ls n="AIT. BR.">11.</ls> {#havirAtiTyaM nirupyate#}
+<ls n="AIT. BR.">15.</ls> {#rasasya#}
+<ls>TS. 1,1,10,3. 6,8,3. 2,2,5,1.</ls> {#nAhama^BA\go nirva^psyAmi#} {%so lange ich ohne Theil bin, werde ich nicht Andern austheilen%}
+<ls>TBR. 3,3,8,5.</ls>
+<ls>ĀŚV. ŚR. 3,10,10.</ls> {#navAnAM savanIyAnnirvapeyuH#} {%von neuer Frucht%}
+<ls n="ĀŚV. ŚR.">12,8,26.</ls> {#haviH#}
+<ls>ŚAT. BR. 1,6,3,19. 2,2,1,6. fg.</ls> {#carum#} 18. {#brahmOdanAn#}
+<ls n="ŚAT. BR.">13,3,6,6.</ls> {#Ajyam#}
+<ls>KĀTY. ŚR. 1,3,22.</ls> <ls n="KĀTY. ŚR.">2,5,9.</ls> {#sTAlIpAkam#}
+<ls>ĀŚV. GṚHY. 2,2,2. 1,10,6. 7.</ls>
+<ls>KAUŚ. 2. 67. fg.</ls> {#bahudevatAmizwiM nirvaperan#}
+<ls>ŚĀṄKH. ŚR. 3,6,1. 13,29,14.</ls> — {#parakzetre nirvapati yaSca bIjam#}
+<ls>MBH. 5,1338.</ls> {#nirvapedudakaM Buvi#}
+<ls>M. 3,214.</ls> {#nirvavApa pavitrezu nivApam#}
+<ls>R. GORR. 2,56,28.</ls> {#(annasya) agramudDftya rAmAya BUtale nirvapizyati#}
+<ls n="R. GORR.">4,61,10.</ls> {#SunAm#} u.s.w. {#nirvapedBuvi#}
+<ls>M. 3,92.</ls> <ls n="M. 3,">72.</ls> <ls n="M. 3,">220.</ls>
+<ls>MBH. 3,1455.</ls> <ls n="MBH.">13,3342.</ls>
+<ls>MĀRK. P. 29,20.</ls> {#piRqAn#}
+<ls>M. 3,215.</ls> <ls n="M. 3,">247.</ls> <ls n="M.">9,140.</ls> {#puroqASAMScarUMScEva#}
+<ls n="M.">6,11.</ls> <ls>BHĀG. P. 4,7,17.</ls> <ls n="BHĀG. P. 4,">13,35.</ls> {#carupuroqASAn#}
+<ls n="BHĀG. P.">7,12,19.</ls> {#haviH#}
+<ls n="BHĀG. P.">5,19,26.</ls> {#na ca tatsvayamaSnIyAdviDivadyanna nirvapet#} {%wovon er nicht zuvor einen Theil%} (für die Götter
+u.s.w.) {%ausgeschieden und ihnen dargebracht hat%}
+<ls>MBH. 3,104</ls> (= <ls>MĀRK. P. 29,46).</ls> {#adya te nirvapizyanti (nirvartayizyanti#} die neuere Ausg.) {#SatrumAMsAni dAnavAH#}
+<ls>HARIV. 13756.</ls> {#yamAyAkampanaM tena niruvAza mahApaSum#}
+<ls>BHAṬṬ. 14,86.</ls> {#SrAdDam#} {%darbringen%}
+<ls>M. 3,281.</ls> <ls>Verz. d. Oxf. H. 40,a, N. 1.</ls> {#izwIH#}
+<ls>M. 4,10.</ls> <ls n="M.">11,27.</ls> {#mahAyajYAn#}
+<ls n="M.">6,5.</ls> <ls>BHĀG. P. 11,18,7.</ls> {#yaSca no nirvapetkfzim#} (so die <ls>ed. Bomb.</ls>) so v. a. {%und der nicht Ackerbau treibt%}
+<ls>MBH. 5,1292.</ls> {#nirUpya#} fehlerhaft für {#nirupya#}
+<ls>M. 6,38.</ls>
+<ls>BHĀG. P. 1,15,39.</ls> <ls n="BHĀG. P.">8,16,51.</ls> <ls n="BHĀG. P.">9,23,9.</ls> {#nirUpyante#} fehlerhaft für {#nirupyante#}
+<ls n="BHĀG. P.">4,1,61.</ls>
+<div n="v">— Vgl. {#nirupti#} fg., {#nirvapaRa, nirvApa, nirvApya, yaTAniruptam#} . — caus. {%aussäen%}: {#tvayA kIdfNnItibIjaM nirvApitam#}
+<ls>PAÑCAT. 85,20.</ls> (für die Götter
+u.s.w.) {%ausscheiden, austheilen%}: {#anirvApya samaSnanvE mfto jAyati vAyasaH#}
+<ls>MBH. 13,5483.</ls>
 <div n="v">— Vgl. 1. {#nirvApaRa#} und das caus. von {#vA#} mit {#nis#} .
-
-<div n="p">— {#anunis#} {%nachher herausnehmen, - vertheilen u.s.w.%} 
-<ls>TS. 2, 2, 1, 4.</ls> {#sOryamekakapAlam#} 
-<ls>3, 12, 2. 5, 4, 2.</ls> {#dvA\da\Sasu\ rAtrI\zvanu\nirva^pet#} 
-<ls>TBR. 1, 1, 6, 7. 5.</ls> {#paSO puroLASamanunirvapanti#} {%nach dem Thiere%} d. h. {%dessen Schlachtung findet eine Austheilung des%} P. {%Statt%} 
-<ls>AIT. BR. 2, 8.</ls> 
-<ls>ŚAT. BR. 3, 8, 3, 1. 11, 1, 3, 1. 13, 3, 8, 1.</ls> {#sa e\taM vE^mf\DaM pU\rRamA^se 'nunirvA\pya^mapaSya\ttaM nira^vapat#} 
-<ls>TS. 2, 5, 3, 1.</ls> 
+<div n="p">— {#anunis#} {%nachher herausnehmen, — vertheilen u.s.w.%}
+<ls>TS. 2,2,1,4.</ls> {#sOryamekakapAlam#}
+<ls n="TS.">3,12,2. 5,4,2.</ls> {#dvA\da\Sasu\ rAtrI\zvanu\nirva^pet#}
+<ls>TBR. 1,1,6,7. 5.</ls> {#paSO puroLASamanunirvapanti#} {%nach dem Thiere%} d. h. {%dessen Schlachtung findet eine Austheilung des%} P. {%Statt%}
+<ls>AIT. BR. 2,8.</ls>
+<ls>ŚAT. BR. 3,8,3,1.</ls> <ls n="ŚAT. BR.">11,1,3,1.</ls> <ls n="ŚAT. BR.">13,3,8,1.</ls> {#sa e\taM vE^mf\DaM pU\rRamA^se 'nunirvA\pya^mapaSya\ttaM nira^vapat#}
+<ls>TS. 2,5,3,1.</ls>
 <div n="v">— Vgl. {#anunirvApyA#} .
-
-<div n="p">— {#aBinis#} {%zutheilen zu einem Andern hin%}, in doppelter Weise construirt. {#prA\ya\RIya^sya nizkA\sa u^daya\nIya^ma\Bi nirva^pati#} {%zu dem Rest des%} Pr. {%hin%} 
-<ls>TS. 6, 1, 5, 5.</ls> {#°nizkAsamudayanIyenABinirvapet#} 
-<ls>AIT. BR. 1, 11.</ls>
-
+<div n="p">— {#aBinis#} {%zutheilen zu einem Andern hin%}, in doppelter Weise construirt. {#prA\ya\RIya^sya nizkA\sa u^daya\nIya^ma\Bi nirva^pati#} {%zu dem Rest des%} Pr. {%hin%}
+<ls>TS. 6,1,5,5.</ls> {#°nizkAsamudayanIyenABinirvapet#}
+<ls>AIT. BR. 1,11.</ls>
 <div n="p">— {#parinis#} s. {#parinirvivapsu#} .
-
-<div n="p">— {#pratinis#} {%als Gegenwerk austheilen u.s.w.:%} {#a\Dva\raka^lpA\M prati\ nirva^pe\dBrAtf^vye\ yaja^mAne#} 
-<ls>TS. 2, 2, 9, 4.</ls> 
-<ls>TBR. 1, 7, 3, 7.</ls> 
+<div n="p">— {#pratinis#} {%als Gegenwerk austheilen u.s.w.:%} {#a\Dva\raka^lpA\M prati\ nirva^pe\dBrAtf^vye\ yaja^mAne#}
+<ls>TS. 2,2,9,4.</ls>
+<ls>TBR. 1,7,3,7.</ls>
 <ls>KAUŚ. 48.</ls>
-
-<div n="p">— {#saMnis#} {%zusammen austheilen%} 
-<ls>AIT. BR. 3, 48.</ls>
-
-<div n="p">— {#parA#} {%bei Seite werfen, - legen, beseitigen%}: Leichname 
-<ls>AV. 18, 2, 34.</ls> Pfeile 
-<ls>VS. 18, 9.</ls> {#dantAn#} 
-<ls>ŚĀṄKH. BR. 6, 23.</ls> {#parA\ vA e\za ya\jYaM pa\SUnva^pati\ yo^ 'gnimu^dvA\saya^ti#} 
-<ls>TS. 1, 5, 2, 1.</ls> {#yattvA^ kru\dDaH pa^ro\vapa^ ma\nyunA\ yadava^rttyA#} ({#agne#}) 
-<ls>3, 2.</ls> {#parA\ vA e\zo^ 'gniM va^pati\ yo^ 'psu Basma^ prave\Saya^ti#} 
-<ls>5, 2, 2, 5.</ls> <ls>ŚAT. BR. 2, 3, 2, 3. 6, 8, 2, 1.</ls>
-
-<div n="p">— {#pari#} {%bestreuen%}: {#pAMsuBiH#} 
-<ls>LĀṬY. 10, 15, 16.</ls> 
+<div n="p">— {#saMnis#} {%zusammen austheilen%}
+<ls>AIT. BR. 3,48.</ls>
+<div n="p">— {#parA#} {%bei Seite werfen, — legen, beseitigen%}: Leichname
+<ls>AV. 18,2,34.</ls> Pfeile
+<ls>VS. 18,9.</ls> {#dantAn#}
+<ls>ŚĀṄKH. BR. 6,23.</ls> {#parA\ vA e\za ya\jYaM pa\SUnva^pati\ yo^ 'gnimu^dvA\saya^ti#}
+<ls>TS. 1,5,2,1.</ls> {#yattvA^ kru\dDaH pa^ro\vapa^ ma\nyunA\ yadava^rttyA#} ({#agne#})
+<ls n="TS.">3,2.</ls> {#parA\ vA e\zo^ 'gniM va^pati\ yo^ 'psu Basma^ prave\Saya^ti#}
+<ls n="TS.">5,2,2,5.</ls> <ls>ŚAT. BR. 2,3,2,3.</ls> <ls n="ŚAT. BR.">6,8,2,1.</ls>
+<div n="p">— {#pari#} {%bestreuen%}: {#pAMsuBiH#}
+<ls>LĀṬY. 10,15,16.</ls>
 <div n="v">— Vgl. {#parivApa, paryupti#} .
-
-<div n="p">— {#pra#} {%ausstreuen, ausschütten, ausspritzen%}: {#miha\H pra ta\mrA a^vapa\ttamA^Msi#} 
-<ls>ṚV. 10, 73, 5.</ls> {#vasUnyAdAya samudraM prOpyanta#} 
-<ls>AIT. BR. 5, 11.</ls> {#vrIhiyavayoH#} 
-<ls>PĀR. GṚHY. 2, 13.</ls> {#indra\M proTa^ntaM pra\vapa^ntamarRa\vam#} 
-<ls>ṚV. 10, 115, 3.</ls> — {#SirAMsi #}
+<div n="p">— {#pra#} {%ausstreuen, ausschütten, ausspritzen%}: {#miha\H pra ta\mrA a^vapa\ttamA^Msi#}
+<ls>ṚV. 10,73,5.</ls> {#vasUnyAdAya samudraM prOpyanta#}
+<ls>AIT. BR. 5,11.</ls> {#vrIhiyavayoH#}
+<ls>PĀR. GṚHY. 2,13.</ls> {#indra\M proTa^ntaM pra\vapa^ntamarRa\vam#}
+<ls>ṚV. 10,115,3.</ls> — {#SirAMsi #}
 [Page6-0686]
-{# pAdaparakzARAM bIjavatpravapanmuhuH#} 
-<ls>MBH. 3, 15725.</ls> {#bIjavatpravapaYCarAn#} 
-<ls>5, 2109. 3, 1931. 5, 655.</ls> {#akzapUgAn#} 
-<ls>3, 1357.</ls> {%bestreuen%}: {#kzatriyAnpravapaYCarEH#} 
-<ls>6, 5084.</ls> {%hinwerfen auf, in%}: {#pravapARi#} (vgl. 
-<ls>P. 8, 4, 16</ls>) {#Siro BUmO vAnarasya#} 
-<ls>BHAṬṬ. 9, 98.</ls> {#pravapARi vapurvahnO#} 
-<ls>20, 36.</ls> 
-<div n="v">— Vgl. {#pravapaRa, pravApin#} . — caus. {%ausstreuen, ausschütten, ausspritzen%}: {#prEvAgne\yena^ vApayati\ reta^H sO\myena^ daDAti#} 
-<ls>TS. 2, 4, 6, 1. 6, 6, 5, 1.</ls> 
-<ls>KĀṬH. 11, 2.</ls> Vgl. {#pravApayitar#} .
-
-<div n="p">— {#aBipra#} med. {%sich auf Jmd stürzen%}: {#yaM mfDo\ 'Bi pra\vepe^ran#} 
-<ls>TS. 2, 2, 7, 4.</ls>
-
-<div n="p">— {#prati#} 
-<div n="1"> 1) {%einstecken, einlegen, einfügen%}: {#mukuwapratyuptamuktAkaRa#} 
-<ls>RĀJA-TAR. 3, 529.</ls> {#durjAtaBarturaNkezu pratyuptAmiva vallaBAm#} ({#apaSyat#}) 
-<ls>507.</ls> {#pratyuptasyeva dayite tfzRAdIrGasya cakzuzaH#} 
-<ls>UTTARAR. 68, 1 (87, 3).</ls> {%bestecken, belegen%}: {#mOlimantargatasrajam . pratyUpuH padmarAgeRa#} 
-<ls>RAGH. 17, 23.</ls> {#mahArharatnapratyupta#} 
-<ls>DAŚAK. 90, 8.</ls> 
-<div n="1">— 2) {%auffüllen%}: {#BasmanA SunaH padaM prativapet#} 
-<ls>ĀŚV. ŚR. 3, 10, 14.</ls> 
-<div n="1">— 3) {%hinzufügen%} 
-<ls>TBR. 1, 2, 6, 5.</ls> 
-<div n="v">— Vgl. {#pratIvApa#} . — caus. {%zugiessen%} 
-<ls>SUŚR. 1, 33, 4.</ls>
-
-<div n="p">— {#vi#} {%zerstreuen, verwühlen%}: {#vyuptakeSa#} 
-<ls>BHĀG. P. 4, 2, 14. 5, 10.</ls>
-
-<div n="p">— {#sam#} {%einschütten, hineinbringen; zusammenthun%}: Mehl in einen Topf 
-<ls>VS. 1, 21.</ls> 
-<ls>TS. 6, 1, 8, 4.</ls> {#AhavanIyam#} 
-<ls>ĀŚV. ŚR. 3, 10, 9.</ls> 
-<ls>ŚAT. BR. 6. 7, 4, 13. 7, 1, 1, 38. 12, 3, 5, 1.</ls>
+{# pAdaparakzARAM bIjavatpravapanmuhuH#}
+<ls>MBH. 3,15725.</ls> {#bIjavatpravapaYCarAn#}
+<ls n="MBH.">5,2109.</ls> <ls n="MBH.">3,1931.</ls> <ls n="MBH.">5,655.</ls> {#akzapUgAn#}
+<ls n="MBH.">3,1357.</ls> {%bestreuen%}: {#kzatriyAnpravapaYCarEH#}
+<ls n="MBH.">6,5084.</ls> {%hinwerfen auf, in%}: {#pravapARi#} (vgl.
+<ls>P. 8,4,16</ls>) {#Siro BUmO vAnarasya#}
+<ls>BHAṬṬ. 9,98.</ls> {#pravapARi vapurvahnO#}
+<ls n="BHAṬṬ.">20,36.</ls>
+<div n="v">— Vgl. {#pravapaRa, pravApin#} . — caus. {%ausstreuen, ausschütten, ausspritzen%}: {#prEvAgne\yena^ vApayati\ reta^H sO\myena^ daDAti#}
+<ls>TS. 2,4,6,1.</ls> <ls n="TS.">6,6,5,1.</ls>
+<ls>KĀṬH. 11,2.</ls> Vgl. {#pravApayitar#} .
+<div n="p">— {#aBipra#} med. {%sich auf Jmd stürzen%}: {#yaM mfDo\ 'Bi pra\vepe^ran#}
+<ls>TS. 2,2,7,4.</ls>
+<div n="p">— {#prati#}
+<div n="1"> 1) {%einstecken, einlegen, einfügen%}: {#mukuwapratyuptamuktAkaRa#}
+<ls>RĀJA-TAR. 3,529.</ls> {#durjAtaBarturaNkezu pratyuptAmiva vallaBAm#} ({#apaSyat#})
+<ls n="RĀJA-TAR.">507.</ls> {#pratyuptasyeva dayite tfzRAdIrGasya cakzuzaH#}
+<ls>UTTARAR. 68,1 (87,3).</ls> {%bestecken, belegen%}: {#mOlimantargatasrajam . pratyUpuH padmarAgeRa#}
+<ls>RAGH. 17,23.</ls> {#mahArharatnapratyupta#}
+<ls>DAŚAK. 90,8.</ls>
+<div n="1">— 2) {%auffüllen%}: {#BasmanA SunaH padaM prativapet#}
+<ls>ĀŚV. ŚR. 3,10,14.</ls>
+<div n="1">— 3) {%hinzufügen%}
+<ls>TBR. 1,2,6,5.</ls>
+<div n="v">— Vgl. {#pratIvApa#} . — caus. {%zugiessen%}
+<ls>SUŚR. 1,33,4.</ls>
+<div n="p">— {#vi#} {%zerstreuen, verwühlen%}: {#vyuptakeSa#}
+<ls>BHĀG. P. 4,2,14.</ls> <ls n="BHĀG. P. 4,">5,10.</ls>
+<div n="p">— {#sam#} {%einschütten, hineinbringen; zusammenthun%}: Mehl in einen Topf
+<ls>VS. 1,21.</ls>
+<ls>TS. 6,1,8,4.</ls> {#AhavanIyam#}
+<ls>ĀŚV. ŚR. 3,10,9.</ls>
+<ls>ŚAT. BR. 6. 7,4,13. 7,1,1,38. 12,3,5,1.</ls>
 <LEND>

@@ -1,18 +1,18 @@
 <L>81725<pc>6-0089<k1>yavizWa<k2>ya/vizWa
-{#ya/vizWa#}¦ (superl. zu {#yuvan#}) 
-<div n="1"> 1) <lex>adj.</lex> {%der jüngste%} (m. {%ein jüngerer Bruder%} 
-<ls>H. 552</ls>) <ls>P. 5, 3, 64. 6, 4, 156.</ls> <ls>VOP. 7, 56.</ls> {#kimu\ SrezWa\H kiM yavi^zWo na\ A ja^gan#} 
-<ls>ṚV. 1, 161, 1.</ls> <ls n="ṚV.">10, 143, 2.</ls> 
-<ls>BHĀG. P. 3, 1, 6. 6, 7, 33. 9, 4, 1. 10, 82, 16.</ls> 
-<ls>PAÑCAR. 4, 8, 68.</ls> Sehr häufig heisst so {%das jüngste%} d. h. {%eben aus den Hölzern geborene%} oder {%auf den Altar gesetzte Feuer%}, 
-<ls>ṚV. 1, 22, 10.</ls> <ls n="ṚV. 1,">147, 2.</ls> <ls n="ṚV. 1,">189, 4.</ls> <ls n="ṚV.">2, 6, 6.</ls> <ls n="ṚV.">3, 15, 3.</ls> <ls n="ṚV. 3,">19, 4.</ls> <ls n="ṚV.">4, 2, 10.</ls> <ls n="ṚV. 4, 2,">13.</ls> <ls n="ṚV. 4,">4, 6.</ls> <ls n="ṚV. 4, 2,">11.</ls> {#daDA^ti\ ratna^M viDa\te yavi^zWaH#} 
-<ls n="ṚV. 4,">12, 3.</ls> <ls n="ṚV. 4, 12,">4.</ls> {#hu\ve va^H sU\nuM saha^so\ yuvA^na\madro^GavAcaM ma\tiBi\ryavi^zWam#} 
-<ls n="ṚV.">6, 5, 1.</ls> <ls n="ṚV. 6,">6, 2.</ls> <ls n="ṚV.">7, 3, 5.</ls> {#yato\ yavi^zWo\ aja^nizwa mA\tuH#} 
-<ls n="ṚV. 7,">4, 2.</ls> <ls n="ṚV. 7,">7, 3.</ls> <ls n="ṚV. 7,">12, 1.</ls> <ls n="ṚV.">10, 20, 2.</ls> <ls>ŚAT. BR. 7, 5, 2, 38.</ls> Daher Bein. <is>Agni's</is> 
-<ls>TS. 2, 2, 3, 1.</ls> <is>Agni</is> <is>Yaviṣṭha</is> angeblicher Liedverfasser zu 
-<ls>ṚV. 8, 91</ls> und <ls>KĀṬH. 16, 16. fg.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. pr. eines Brahmanen 
-<ls>Verz. d. Oxf. H. 18,b,10.</ls> pl. {%seine Nachkommen%} 
-<ls>19,a,26.</ls> 
+{#ya/vizWa#}¦ (superl. zu {#yuvan#})
+<div n="1"> 1) <lex>adj.</lex> {%der jüngste%} (m. {%ein jüngerer Bruder%}
+<ls>H. 552</ls>) <ls>P. 5,3,64.</ls> <ls n="P.">6,4,156.</ls> <ls>VOP. 7,56.</ls> {#kimu\ SrezWa\H kiM yavi^zWo na\ A ja^gan#}
+<ls>ṚV. 1,161,1.</ls> <ls n="ṚV.">10,143,2.</ls>
+<ls>BHĀG. P. 3,1,6.</ls> <ls n="BHĀG. P.">6,7,33.</ls> <ls n="BHĀG. P.">9,4,1.</ls> <ls n="BHĀG. P.">10,82,16.</ls>
+<ls>PAÑCAR. 4,8,68.</ls> Sehr häufig heisst so {%das jüngste%} d. h. {%eben aus den Hölzern geborene%} oder {%auf den Altar gesetzte Feuer%},
+<ls>ṚV. 1,22,10.</ls> <ls n="ṚV. 1,">147,2.</ls> <ls n="ṚV. 1,">189,4.</ls> <ls n="ṚV.">2,6,6.</ls> <ls n="ṚV.">3,15,3.</ls> <ls n="ṚV. 3,">19,4.</ls> <ls n="ṚV.">4,2,10.</ls> <ls n="ṚV. 4,2,">13.</ls> <ls n="ṚV. 4,">4,6.</ls> <ls n="ṚV. 4,2,">11.</ls> {#daDA^ti\ ratna^M viDa\te yavi^zWaH#}
+<ls n="ṚV. 4,">12,3.</ls> <ls n="ṚV. 4,12,">4.</ls> {#hu\ve va^H sU\nuM saha^so\ yuvA^na\madro^GavAcaM ma\tiBi\ryavi^zWam#}
+<ls n="ṚV.">6,5,1.</ls> <ls n="ṚV. 6,">6,2.</ls> <ls n="ṚV.">7,3,5.</ls> {#yato\ yavi^zWo\ aja^nizwa mA\tuH#}
+<ls n="ṚV. 7,">4,2.</ls> <ls n="ṚV. 7,">7,3.</ls> <ls n="ṚV. 7,">12,1.</ls> <ls n="ṚV.">10,20,2.</ls> <ls>ŚAT. BR. 7,5,2,38.</ls> Daher Bein. <is>Agni's</is>
+<ls>TS. 2,2,3,1.</ls> <is>Agni</is> <is>Yaviṣṭha</is> angeblicher Liedverfasser zu
+<ls>ṚV. 8,91</ls> und <ls>KĀṬH. 16,16. fg.</ls>
+<div n="1">— 2) <lex>m.</lex> N. pr. eines Brahmanen
+<ls>Verz. d. Oxf. H. 18,b,10.</ls> pl. {%seine Nachkommen%}
+<ls n="Verz. d. Oxf. H.">19,a,26.</ls>
 <div n="v">— Vgl. {#yavIyaMs#} .
 <LEND>

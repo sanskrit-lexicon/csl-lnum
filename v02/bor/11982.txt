@@ -1,5 +1,5 @@
 <L>11982<pc>374<k1>indefinite<k2>indefinite
-<div n="lb"/>{@INDEFINITE:@}¦ <div n="1">(1) {#aniSvitaH#} ({#tA, taM#}) (= uncertain);</div>
-<div n="lb"/><div n="1">(2) {#asTiraH#} ({#rA, raM#}) (= not fixed). Ph.: {%i. article:%}
-<div n="lb"/>{#*anirUpakamavyayam.#}</div>
+{@INDEFINITE:@}¦ <div n="1">(1) {#aniSvitaH#} ({#tA, taM#}) (= uncertain);</div>
+<div n="1">(2) {#asTiraH#} ({#rA, raM#}) (= not fixed). Ph.: {%i. article:%}
+{#*anirUpakamavyayam.#}</div>
 <LEND>

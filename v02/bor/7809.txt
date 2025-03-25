@@ -1,7 +1,7 @@
 <L>7809<pc>247<k1>erroneous<k2>erroneous
-<div n="lb"/>{@ERRONEOUS:@}¦ <div n="1">(1) {#BramamUlakaH#} ({#kA, kaM#}), <div n="xe">{%this reading%}
-<div n="lb"/>{%is e.:%}</div> <div n="xs">{#iti pAWastu mramamUlakaH,#}</div> Va. com.; </div><div n="1">(2)
-<div n="lb"/>{#prAmAdikaH#} ({#kI, kaM#}), {%e. interchange of things:%}
-<div n="lb"/>{#prAmAdikI vastuparivfttiH,#} M. n.; </div><div n="1">(3) {#miTyA#} (= false)
-<div n="lb"/>in comp., <div n="xe">{%an e. inference:%}</div> <div n="xs">{#miTyAnumAnam,#}</div> N. d.</div>
+{@ERRONEOUS:@}¦ <div n="1">(1) {#BramamUlakaH#} ({#kA, kaM#}), <div n="xe">{%this reading%}
+{%is e.:%}</div> <div n="xs">{#iti pAWastu mramamUlakaH,#}</div> Va. com.; </div><div n="1">(2)
+{#prAmAdikaH#} ({#kI, kaM#}), {%e. interchange of things:%}
+{#prAmAdikI vastuparivfttiH,#} M. n.; </div><div n="1">(3) {#miTyA#} (= false)
+in comp., <div n="xe">{%an e. inference:%}</div> <div n="xs">{#miTyAnumAnam,#}</div> N. d.</div>
 <LEND>

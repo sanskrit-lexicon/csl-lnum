@@ -1,3 +1,3 @@
-<L>200385<pc>989,2<k1>vivikz<k2>vivikz<h>b<e>2
-<s>vivikz</s> <hom>b</hom> ¦ <lex>mfn.</lex> (<ab>fr.</ab> <ab>Desid.</ab>; <ab>nom.</ab> <s>viviw</s>) one who wishes to enter, <ls>Vop.</ls><info lex="m:f:n"/>
+<L>200385<pc>989,2<k1>vivikz<k2>vivikz<e>2
+<s>vivikz</s> ¦ <lex>mfn.</lex> (<ab>fr.</ab> <ab>Desid.</ab>; <ab>nom.</ab> <s>viviw</s>) one who wishes to enter, <ls>Vop.</ls><info lex="m:f:n"/><info hui="b"/>
 <LEND>

@@ -1,18 +1,18 @@
 <L>4571<pc>1-0337<k1>aBinava<k2>aBinava
-{#aBinava#}¦ ({#aBi + nava#}) <lex>adj.</lex> {%ganz neu, ganz frisch%} 
-<ls>AK. 3, 2, 27.</ls> 
-<ls>H. 1448.</ls> {#loha#} 
-<ls>SUŚR. 2, 152, 12.</ls> {#sevaka#} 
-<ls>PAÑCAT. III, 122.</ls> {#padapaNkti#} 
-<ls>ŚĀK. 56.</ls> {#vapus#} 
-<ls>18.</ls> {#kaRWaSoRita#} 154. {#payas#} {%Milch%} 
-<ls>AK. 2, 9, 54.</ls> 
-<ls>H. 405.</ls> {#aBinavodBid#} 
-<ls>AK. 2, 4, 1, 4.</ls> {#PalamaBinavapAkam#} 
-<ls>VIKR. 90.</ls> 
-<ls>MEGH. 96.</ls> 
-<ls>DHŪRTAS. 67, 5.</ls> {#aBinavacandrArGaviDi#} Tit. des 114ten <is>Adhyāya</is> im 
-<ls>BHAVIṢYOTT.-P.</ls> <ls>Verz. d. B. H. No. 468.</ls> {#aBinavaSAkawAyana#} 
-<ls>ŚĀKAṬĀYANA</ls> {%der Jüngere%}, ein Grammatiker, 
-<ls>COLEBR. Misc. Ess. II, 44.</ls>
+{#aBinava#}¦ ({#aBi + nava#}) <lex>adj.</lex> {%ganz neu, ganz frisch%}
+<ls>AK. 3,2,27.</ls>
+<ls>H. 1448.</ls> {#loha#}
+<ls>SUŚR. 2,152,12.</ls> {#sevaka#}
+<ls>PAÑCAT. III,122.</ls> {#padapaNkti#}
+<ls>ŚĀK. 56.</ls> {#vapus#}
+<ls n="ŚĀK.">18.</ls> {#kaRWaSoRita#} <ls n="ŚĀK.">154.</ls> {#payas#} {%Milch%}
+<ls>AK. 2,9,54.</ls>
+<ls>H. 405.</ls> {#aBinavodBid#}
+<ls>AK. 2,4,1,4.</ls> {#PalamaBinavapAkam#}
+<ls>VIKR. 90.</ls>
+<ls>MEGH. 96.</ls>
+<ls>DHŪRTAS. 67,5.</ls> {#aBinavacandrArGaviDi#} Tit. des 114ten <is>Adhyāya</is> im
+<ls>BHAVIṢYOTT.-P.</ls> <ls>Verz. d. B. H. No. 468.</ls> {#aBinavaSAkawAyana#}
+<ls>ŚĀKAṬĀYANA</ls> {%der Jüngere%}, ein Grammatiker,
+<ls>COLEBR. Misc. Ess. II,44.</ls>
 <LEND>

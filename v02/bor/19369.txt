@@ -1,5 +1,5 @@
 <L>19369<pc>601<k1>ringing<k2>ringing
-<div n="lb"/>{@RINGING:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#kvaRitam;#} </div><div n="1">(2) {#raRitam.#}</div>
-<div n="lb"/><div n="I">II Adj.: </div><div n="1">(1) {#kvaRat#} (f. {#ntI#}); </div><div n="1">(2) {#raRat#}
-<div n="lb"/>(f. {#ntI#}), {#raRadBiH svarEH,#} Si. i. 10.</div>
+{@RINGING:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#kvaRitam;#} </div><div n="1">(2) {#raRitam.#}</div>
+<div n="I">II Adj.: </div><div n="1">(1) {#kvaRat#} (f. {#ntI#}); </div><div n="1">(2) {#raRat#}
+(f. {#ntI#}), {#raRadBiH svarEH,#} Si. i. 10.</div>
 <LEND>

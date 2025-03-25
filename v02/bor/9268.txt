@@ -1,11 +1,11 @@
 <L>9268<pc>294<k1>fortify<k2>fortify
-<div n="lb"/>{@FORTIFY@}¦ (v.): <div n="I">I In gen.: v. To strengthen,
-<div n="lb"/>confirm. </div><div n="I">II To render defensible: </div><div n="1">(1)
-<div n="lb"/>{#sugupta#} (f. {#ptAM#}) <div n="xe">{%or%}</div> <div n="xs">{#surakzitaM#}</div> (f. {#tAM#}) {#karoti,#} {%to f. strongly:%}
-<div n="lb"/>{#paramAM guptiM karoti,#} Ka.; </div><div n="1">(2) by circumlo.: {#“purI #}
-<div n="lb"/>{# samantAdvihitA sapatAkA satoraRA . sacakrA sahuqA cEva #}
-<div n="lb"/>{# sayantraKanakA taTA ..#}.......{#saMkramA BeditAH sarve nAvaSca #}
-<div n="lb"/>{# pratizeDitAH . pariKAScApi kOKya kIlEH sunicitAH #}
-<div n="lb"/>{# kftAH .. udapAnAH kuruSrezWa taTEvApyambarIzakAH . samantAt #}
-<div n="lb"/>{# koSamAtraYca kAritA vizamA ca BUH ..”,#} Mah. iii. 156.</div>
+{@FORTIFY@}¦ (v.): <div n="I">I In gen.: v. To strengthen,
+confirm. </div><div n="I">II To render defensible: </div><div n="1">(1)
+{#sugupta#} (f. {#ptAM#}) <div n="xe">{%or%}</div> <div n="xs">{#surakzitaM#}</div> (f. {#tAM#}) {#karoti,#} {%to f. strongly:%}
+{#paramAM guptiM karoti,#} Ka.; </div><div n="1">(2) by circumlo.: {#“purI #}
+{# samantAdvihitA sapatAkA satoraRA . sacakrA sahuqA cEva #}
+{# sayantraKanakA taTA ..#}.......{#saMkramA BeditAH sarve nAvaSca #}
+{# pratizeDitAH . pariKAScApi kOKya kIlEH sunicitAH #}
+{# kftAH .. udapAnAH kuruSrezWa taTEvApyambarIzakAH . samantAt #}
+{# koSamAtraYca kAritA vizamA ca BUH ..”,#} Mah. iii. 156.</div>
 <LEND>

@@ -1,5 +1,5 @@
-<L>132398<pc>666,1<k1>pratidfS<k2>prati-dfS<h>b<e>1
-<s>prati-√ dfS</s> <hom>b</hom> ¦ (<ab>ind.p.</ab> <s>-dfSya</s>), to look at, behold, perceive, notice, <ls>ŚBr.</ls>;
+<L>132398<pc>666,1<k1>pratidfS<k2>prati-dfS<e>1
+<s>prati-√ dfS</s> ¦ (<ab>ind.p.</ab> <s>-dfSya</s>), to look at, behold, perceive, notice, <ls>ŚBr.</ls>;
 <div n="to"/> <ab>Ā.</ab> and <ab>Pass.</ab> <s>-dfSyate</s>, to become visible, appear, appear as, be, <ls>RV.</ls> &c. &c.:
-<div n="to"/><ab>Caus.</ab> <s>-darSayati</s>, to cause to see, show, teach, <ls>MBh.</ls><info verb="pre" cp="Ā" parse="prati+dfS"/>
+<div n="vp"/><ab>Caus.</ab> <s>-darSayati</s>, to cause to see, show, teach, <ls>MBh.</ls><info verb="pre" cp="Ā" parse="prati+dfS"/><info hui="b"/>
 <LEND>

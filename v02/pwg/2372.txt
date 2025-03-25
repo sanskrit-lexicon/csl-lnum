@@ -1,16 +1,16 @@
 <L>2372<pc>1-0176<k1>anarTaka<k2>anarTaka
-{#anarTaka#}¦ (von 3. {#a + arTa#}) <lex>adj.</lex> <is>gaṇa</is> {#uraAdi#} 
-<div n="1"> 1) {%unnütz%} 
-<ls>NIR. 1, 15.</ls> 
-<ls>ṚV. PRĀT. 11, 35.</ls> 
-<ls>P. 4, 1, 130, <is>Vārtt</is>.</ls> 
-<ls>PAT.</ls> zu <ls>P. 2, 4, 66.</ls> <ls>R. 2, 20, 50.</ls> <ls>PAÑCAT. 183, 2.</ls> {%eitel, von keinem Werth%}: {#DigidaM jIvitaM loke gatasAramanarTakam#} 
-<ls>BRĀHMAṆ. 1, 14.</ls> 
-<ls>R. 2, 7, 24.</ls> 
-<div n="1">— 2) {%bedeutungslos%} 
-<ls>NIR. 1, 7. 9. 15. 10, 1.</ls> 
-<ls>P. 1, 4, 93.</ls> {%sinnlos%}: {#pralApo 'narTakaM vacaH#} 
-<ls>AK. 1, 1, 5, 16. 21.</ls> 
-<ls>H. 275.</ls> {#sArTAkAnarTakapada#} 
-<ls>SĀH. D. 69, 13.</ls>
+{#anarTaka#}¦ (von 3. {#a + arTa#}) <lex>adj.</lex> <is>gaṇa</is> {#uraAdi#}
+<div n="1"> 1) {%unnütz%}
+<ls>NIR. 1,15.</ls>
+<ls>ṚV. PRĀT. 11,35.</ls>
+<ls>P. 4,1,130</ls>, <is>Vārtt</is>.
+<ls>PAT.</ls> zu <ls>P. 2,4,66.</ls> <ls>R. 2,20,50.</ls> <ls>PAÑCAT. 183,2.</ls> {%eitel, von keinem Werth%}: {#DigidaM jIvitaM loke gatasAramanarTakam#}
+<ls>BRĀHMAṆ. 1,14.</ls>
+<ls>R. 2,7,24.</ls>
+<div n="1">— 2) {%bedeutungslos%}
+<ls>NIR. 1,7. 9. 15. 10,1.</ls>
+<ls>P. 1,4,93.</ls> {%sinnlos%}: {#pralApo 'narTakaM vacaH#}
+<ls>AK. 1,1,5,16.</ls> <ls n="AK. 1,1,5,">21.</ls>
+<ls>H. 275.</ls> {#sArTAkAnarTakapada#}
+<ls>SĀH. D. 69,13.</ls>
 <LEND>

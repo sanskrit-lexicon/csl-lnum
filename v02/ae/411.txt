@@ -1,5 +1,5 @@
 <L>411<pc>015<k1>antagonist<k2>antagonist
 {@Antagonist,@}¦ {%s.%} {#pratipakzaH, vipakzaH, SatruH, vEri-#}
-<div n="lb"/>{#-n#} {%m., See%} {@Enemy. -ic,@} {%a.%} {#virudDa, viro-#}
-<div n="lb"/>{#-Din#}. {@Antagonism,@} {%s.%} {#viroDaH, vEraM#}.
+{#-n#} {%m., See%} {@Enemy. -ic,@} {%a.%} {#virudDa, viro-#}
+{#-Din#}. {@Antagonism,@} {%s.%} {#viroDaH, vEraM#}.
 <LEND>

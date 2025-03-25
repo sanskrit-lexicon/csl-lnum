@@ -1,13 +1,13 @@
 <L>21252<pc>669<k1>spring<k2>spring
-<div n="lb"/>{@SPRING@}¦ (subs.): <div n="I">I The season; </div><div n="1">(1) {#vasantaH,#}
-<div n="lb"/><div n="xe">{%s. -time:%}</div> <div n="xs">{#vasantakAlaH,#}</div> Ki.; <div n="xe">{%s. -festival:%}</div> <div n="xs">{#vasantotsavaH,#}</div>
-<div n="lb"/>Pri.; <div n="xe">{%oh, how beautiful is s.:%}</div> <div n="xs">{#aho ramaRIyatA #}
-<div n="lb"/>{# vasantasya,#}</div> V. t.; </div><div n="1">(2) {#suraBiH#} (rare), <div n="xe">{%beginning of%}
-<div n="lb"/>{%s.:%}</div> <div n="xs">{#suraBimuKam,#}</div> Ki. x. 30.; </div><div n="1">(3) {#maGuH#} (rare),
-<div n="lb"/><div n="xe">{%the s. will assist you unasked:%}</div> <div n="xs">{#maDuranukto'pi sahAya #}
-<div n="lb"/>{# eva,#}</div> Ku. iii. 21. Ph.: <div n="xe">{%s. of life:%}</div> <div n="xs">{#ayAtayAmaM #}
-<div n="lb"/>{# vayaH,#}</div> D. viii. </div><div n="I">II Of water: {#utsaH:#} v. Foun-
-<div n="lb"/>-tain. </div><div n="I">III Any source: q. v.: {#praBavaH.#} </div><div n="I">IV
-<div n="lb"/>A leap: q. v.: {#utplavaH.#} </div><div n="I">V An elastic body:
-<div n="lb"/>no equiv.: {#*plavaH.#}</div>
+{@SPRING@}¦ (subs.): <div n="I">I The season; </div><div n="1">(1) {#vasantaH,#}
+<div n="xe">{%s. -time:%}</div> <div n="xs">{#vasantakAlaH,#}</div> Ki.; <div n="xe">{%s. -festival:%}</div> <div n="xs">{#vasantotsavaH,#}</div>
+Pri.; <div n="xe">{%oh, how beautiful is s.:%}</div> <div n="xs">{#aho ramaRIyatA #}
+{# vasantasya,#}</div> V. t.; </div><div n="1">(2) {#suraBiH#} (rare), <div n="xe">{%beginning of%}
+{%s.:%}</div> <div n="xs">{#suraBimuKam,#}</div> Ki. x. 30.; </div><div n="1">(3) {#maGuH#} (rare),
+<div n="xe">{%the s. will assist you unasked:%}</div> <div n="xs">{#maDuranukto'pi sahAya #}
+{# eva,#}</div> Ku. iii. 21. Ph.: <div n="xe">{%s. of life:%}</div> <div n="xs">{#ayAtayAmaM #}
+{# vayaH,#}</div> D. viii. </div><div n="I">II Of water: {#utsaH:#} v. Foun-
+-tain. </div><div n="I">III Any source: q. v.: {#praBavaH.#} </div><div n="I">IV
+A leap: q. v.: {#utplavaH.#} </div><div n="I">V An elastic body:
+no equiv.: {#*plavaH.#}</div>
 <LEND>

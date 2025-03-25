@@ -1,6 +1,6 @@
 <L>3207<pc>122<k1>drap<k2>drap
 {@Drap,@}¦ {%s.%} {#vastraM, vasanaM, celaH-laM;#} {%See%} {@Cloth.@}
-<div n="lb"/>{@-er,@} {%s.%} {#vastra-pawa-vikrayin#} {%m.%} {@-ery,@} {%s.%} {#vastra-#}
-<div n="lb"/>{#-vyavahAraH#} {@2@} {#vastraM, pawaH, vAsas#} {%n.%} {@3@} {#pracCada-#}
-<div n="lb"/>{#-pawaH, paricCadaH#}.
+{@-er,@} {%s.%} {#vastra-pawa-vikrayin#} {%m.%} {@-ery,@} {%s.%} {#vastra-#}
+{#-vyavahAraH#} {@2@} {#vastraM, pawaH, vAsas#} {%n.%} {@3@} {#pracCada-#}
+{#-pawaH, paricCadaH#}.
 <LEND>

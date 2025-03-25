@@ -1,10 +1,10 @@
 <L>16617<pc>510<k1>peace<k2>peace
-<div n="lb"/>{@PEACE@}¦ (subs.): <div n="1">(1) {#SamaH,#} {%it is very difficult to%}
-<div n="lb"/><div n="xe">{%make p. with such persons:%}</div> <div n="xs">{#tAdfSena SamaH paramaduzkaraH,#}</div>
-<div n="lb"/>Mah. v. 74. 5.; {%let there be p. among you:%}
-<div n="lb"/>{#Samo'stu BavatAm,#} Vi. v. 55.; </div><div n="1">(2) {#SAntiH,#} <div n="xe">{%as%}
-<div n="lb"/>{%there may be p. among the Kurus:%}</div> <div n="xs">{#yaTA yaTEva #}
-<div n="lb"/>{# SAntiH syAt kurURAm,#}</div> Mah.; {%breach of p.:%}
-<div n="lb"/>{#SAntiBaNgaH;#} <div n="xe">{%hold p.:%}</div> <div n="xs">{#SAnto Bava:#}</div> v. Silence;</div>
-<div n="lb"/><div n="1">(3) {#sanDiH#} ( league: q. v.).</div>
+{@PEACE@}¦ (subs.): <div n="1">(1) {#SamaH,#} {%it is very difficult to%}
+<div n="xe">{%make p. with such persons:%}</div> <div n="xs">{#tAdfSena SamaH paramaduzkaraH,#}</div>
+Mah. v. 74. 5.; {%let there be p. among you:%}
+{#Samo'stu BavatAm,#} Vi. v. 55.; </div><div n="1">(2) {#SAntiH,#} <div n="xe">{%as%}
+{%there may be p. among the Kurus:%}</div> <div n="xs">{#yaTA yaTEva #}
+{# SAntiH syAt kurURAm,#}</div> Mah.; {%breach of p.:%}
+{#SAntiBaNgaH;#} <div n="xe">{%hold p.:%}</div> <div n="xs">{#SAnto Bava:#}</div> v. Silence;</div>
+<div n="1">(3) {#sanDiH#} ( league: q. v.).</div>
 <LEND>

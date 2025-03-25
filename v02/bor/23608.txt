@@ -1,4 +1,4 @@
 <L>23608<pc>740<k1>urine<k2>urine
-<div n="lb"/>{@URINE:@}¦ <div n="1">(1) {#mUtram,#} <div n="xe">{%to void u.:%}</div> <div n="xs">{#mUtram utsfjati#}</div> {%or%}
-<div n="lb"/>{#visfjati, mUtroccAraM karoti,#} etc.; </div><div n="1">(2) {#prasrAvaH.#}</div>
+{@URINE:@}¦ <div n="1">(1) {#mUtram,#} <div n="xe">{%to void u.:%}</div> <div n="xs">{#mUtram utsfjati#}</div> {%or%}
+{#visfjati, mUtroccAraM karoti,#} etc.; </div><div n="1">(2) {#prasrAvaH.#}</div>
 <LEND>

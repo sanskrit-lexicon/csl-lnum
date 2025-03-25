@@ -1,62 +1,61 @@
 <L>9555<pc>1-0716<k1>ASA<k2>ASA/<h>2
-2. {#ASA/#}¦ (spätere Nebenform von {#ASas#}) <lex>f.</lex> {%Begehren, Hoffnung, Erwartung, Aussicht%} 
-<ls>ŚĀNT. 1, 19.</ls> 
-<ls>AK. 3, 4, 218.</ls> 
-<ls>TRIK. 3, 3, 425.</ls> 
-<ls>H. 430.</ls> 
-<ls>an. 2, 543.</ls> 
-<ls>MED. ś. 1.</ls> {#yatsa^Mga\rama^Bi\DAvA^myA\SAm#} 
-<ls>AV. 6, 119, 3.</ls> {#yAmA\SAmemi\ keva^lI\ sA me^ astu#} 
-<ls>19, 4, 2.</ls> {#sa etezAM trayARAmASAM neyAt#} {%diese drei Dinge lasse er sich nicht beigehen%} 
-<ls>AIT. BR. 3, 46. 7, 26. 30.</ls> {#rohiRyE ha tveva SyetAkzyA ASAM neyAt#} 
-<ls>ŚAT. BR. 3, 3, 1, 15. 12, 4, 3, 9.</ls> {#nAmftatvasyASAsti sarvamAyureti#} {%zwar ist auf Unsterblichkeit keine Aussicht, aber er erreicht volle Lebensdauer%} 
-<ls>?2, 1, 3, 4. 4, 9; vgl. 14, 4, 1, 33. 5, 4, 2. 7, 3, 3 (= BṚH. ĀR. UP. 1, 3, 28. 2, 4, 2. 4, 5, 3).</ls> {#AgataM cASA cAdya ca SvaSca#} 
-<ls>2, 3, 1, 24. 27.</ls> im Gegens. zu {#vitta#} 
-<ls>6, 7, 4, 7. 11, 1, 6, 23. 7, 1, 2. 14, 9, 4, 11 (=</ls> <ls>BṚH. ĀR. UP. 6, 4, 12).</ls> {#amftatvaM deveBya AgAyAni - svaDAM pitfBya ASAM manuzyeByaH#} 
-<ls>CHĀND. UP. 2, 22, 2.</ls> {#ASA vAva smarAdBUyasyASedDo vE smaro mantrAnaDIte karmARi kurute#} 
-u.s.w. <ls>7, 14, 1.</ls> {#ASApratIkze#} du. 
-<ls>KAṬHOP. 1, 8.</ls> {#ASAmASaMsamAnAnAm#} 
-<ls>R. 2, 75, 35.</ls> {#ASayA yadi mAM rAmaH punaH SabdApayet#} 
-<ls>59, 7.</ls> {#pitarO - pratIkzete mamASayA#} ({%in Erwartung meiner%}) 
-<ls>R. GORR. 2, 65, 35.</ls> {#putradarSanajAmASAmAkANkzantO#} 
-<ls>66, 3.</ls> mit einem Fluss verglichen 
-<ls>BHARTṚ. 3, 11</ls> <ls>?(= ŚĀNTIŚ. 4, 26).</ls> {#ASe moGASe#} (voc.) 
-<ls>BHARTṚ. 3, 6.</ls> {#ASApASaSatErbadDAH#} 
-<ls>BHAG. 16, 12.</ls> {#ASApASanibadDa#} 
-<ls>ŚĀNTIŚ. 2, 27.</ls> {#ASAgrahagrasta#} 
-<ls>VET. 29, 13.</ls> {#DanASA jIvitASA#} {%das Begehren nach%} 
-<ls>HIT. I, 105.</ls> {#piSitASayA#} {%aus Verlangen nach Fleisch%} 
-<ls>R. 3, 16, 28.</ls> {#jayASA me#} ({%meine Hoffnung auf Sieg%}) {#tvayi sTitA#}
+2. {#ASA/#}¦ (spätere Nebenform von {#ASas#}) <lex>f.</lex> {%Begehren, Hoffnung, Erwartung, Aussicht%}
+<ls>ŚĀNT. 1,19.</ls>
+<ls>AK. 3,4,218.</ls>
+<ls>TRIK. 3,3,425.</ls>
+<ls>H. 430.</ls>
+<ls>an. 2,543.</ls>
+<ls>MED. ś. 1.</ls> {#yatsa^Mga\rama^Bi\DAvA^myA\SAm#}
+<ls>AV. 6,119,3.</ls> {#yAmA\SAmemi\ keva^lI\ sA me^ astu#}
+<ls n="AV.">19,4,2.</ls> {#sa etezAM trayARAmASAM neyAt#} {%diese drei Dinge lasse er sich nicht beigehen%}
+<ls>AIT. BR. 3,46. 7,26. 30.</ls> {#rohiRyE ha tveva SyetAkzyA ASAM neyAt#}
+<ls>ŚAT. BR. 3,3,1,15.</ls> <ls n="ŚAT. BR.">12,4,3,9.</ls> {#nAmftatvasyASAsti sarvamAyureti#} {%zwar ist auf Unsterblichkeit keine Aussicht, aber er erreicht volle Lebensdauer%}
+<ls n="ŚAT. BR.">2,1,3,4.</ls> <ls n="ŚAT. BR. 2,1,">4,9</ls>; vgl. <ls n="ŚAT. BR.">14,4,1,33.</ls> <ls n="ŚAT. BR. 14,">5,4,2.</ls> <ls n="ŚAT. BR. 14,">7,3,3</ls> (= <ls>BṚH. ĀR. UP. 1,3,28.</ls> <ls n="BṚH. ĀR. UP.">2,4,2.</ls> <ls n="BṚH. ĀR. UP.">4,5,3</ls>). {#AgataM cASA cAdya ca SvaSca#}
+<ls n="ŚAT. BR.">2,3,1,24.</ls> <ls n="ŚAT. BR. 2,3,1,">27.</ls> im Gegens. zu {#vitta#}
+<ls n="ŚAT. BR.">6,7,4,7.</ls> <ls n="ŚAT. BR.">11,1,6,23.</ls> <ls n="ŚAT. BR. 11,">7,1,2.</ls> <ls n="ŚAT. BR.">14,9,4,11</ls> (= <ls>BṚH. ĀR. UP. 6,4,12.</ls>) {#amftatvaM deveBya AgAyAni — svaDAM pitfBya ASAM manuzyeByaH#}
+<ls>CHĀND. UP. 2,22,2.</ls> {#ASA vAva smarAdBUyasyASedDo vE smaro mantrAnaDIte karmARi kurute#}
+u.s.w. <ls n="CHĀND. UP.">7,14,1.</ls> {#ASApratIkze#} du.
+<ls>KAṬHOP. 1,8.</ls> {#ASAmASaMsamAnAnAm#}
+<ls>R. 2,75,35.</ls> {#ASayA yadi mAM rAmaH punaH SabdApayet#}
+<ls n="R. 2,">59,7.</ls> {#pitarO — pratIkzete mamASayA#} ({%in Erwartung meiner%})
+<ls>R. GORR. 2,65,35.</ls> {#putradarSanajAmASAmAkANkzantO#}
+<ls n="R. GORR. 2,">66,3.</ls> mit einem Fluss verglichen
+<ls>BHARTṚ. 3,11</ls> (= <ls>ŚĀNTIŚ. 4,26</ls>). {#ASe moGASe#} (voc.)
+<ls>BHARTṚ. 3,6.</ls> {#ASApASaSatErbadDAH#}
+<ls>BHAG. 16,12.</ls> {#ASApASanibadDa#}
+<ls>ŚĀNTIŚ. 2,27.</ls> {#ASAgrahagrasta#}
+<ls>VET. 29,13.</ls> {#DanASA jIvitASA#} {%das Begehren nach%}
+<ls>HIT. I,105.</ls> {#piSitASayA#} {%aus Verlangen nach Fleisch%}
+<ls>R. 3,16,28.</ls> {#jayASA me#} ({%meine Hoffnung auf Sieg%}) {#tvayi sTitA#}
 [Page1-0717]
-
-<ls>6, 77, 4.</ls> {#kiMcijjIvitASayA saMSlizwaH#} 
-<ls>PAÑCAT. 143, 7.</ls> 
-<ls>VID. 222.</ls> {#hanta dvitIyamidamASAjananam#} 
-<ls>ŚĀK. 104, 17.</ls> {#na cAhamASAH kuryAM te#} 
-<ls>R. 3, 66, 18.</ls> {#kftASASca vratASASca#} 
-<ls>MBH. 3, 1196.</ls> {#ASAM kAlavatIM dadyAtkAlaM viGnena yojayet#} {%er setze seine Hoffnung auf die Zeit%} 
-<ls>1, 5629.</ls> {#SiSAvasminnetAH - daDatyASAmezo 'smAn jIvayediti#} 
-<ls>KATHĀS. 3, 17.</ls> {#jagrAha - ASAM ca priyasaMgame#} 
-<ls>9, 67.</ls> {#pUrayitvArTanAmASAm#} 
-<ls>ŚĀNTIŚ. 2, 21.</ls> {#pUritASa#} {%der Jmdes Hoffnung erfüllt hat%} 
-<ls>KATHĀS. 26, 22.</ls> {#ASAM nArhasi me hantum#} 
-<ls>SĀV. 3, 11.</ls> {#ASAmiva vyapagatAm#} 
-<ls>R. 5, 18, 8.</ls> {#ASAM pratihatAmiva#} 
-<ls>21, 11.</ls> {#ASAM ca suradvizAm . - vAREScicCeda#} 
-<ls>RAGH. 12, 96.</ls> {#yenASAH pfzWataH kftAH nErASyamavalambitam#} 
-<ls>HIT. I, 137.</ls> {#BagnASa#} 
-<ls>BHARTṚ. 2, 82.</ls> 
-<ls>HIT. I, 56.</ls> {#hatASa#} 
-<ls>PRAB. 11, 1.</ls> 
-<ls>AMAR. 66.</ls> {#niScitASA#} ({%das feste Verlangen habend%}) {#sTitAsmIha citArohe sahAmunA#} 
-<ls>KATHĀS. 25, 142.</ls> {#nirASa#} <lex>adj.</lex> <lex>f.</lex> {#A#} {%keine Hoffnung habend, verzweifelnd%} 
-<ls>R. 5, 32, 24.</ls> 
-<ls>VID. 160.</ls> 
-<ls>KATHĀS. 26, 22.</ls> mit dem dat.: {#putralABAya#} 
-<ls>MBH. 2, 721.</ls> loc.: {#jIvite#} 
-<ls>3, 16240.</ls> mit der Ergänzung comp.: {#mano baBUvendumatInirASam#} 
-<ls>RAGH. 6, 2.</ls> {#durASa#} <lex>adj.</lex> <lex>f.</lex> {#A#} {%mit dessen Aussichten es schlimm bestellt ist%} 
-<ls>PRAB. 48, 5.</ls> Die {%Hoffnung%} personif. ist Gemahlin eines <is>Vasu</is> 
-<ls>HARIV. 7740.</ls> die Schwiegertochter des <is>Manas</is> 
-<ls>PRAB. 89, 16.</ls>
+<ls n="R.">6,77,4.</ls> {#kiMcijjIvitASayA saMSlizwaH#}
+<ls>PAÑCAT. 143,7.</ls>
+<ls>VID. 222.</ls> {#hanta dvitIyamidamASAjananam#}
+<ls>ŚĀK. 104,17.</ls> {#na cAhamASAH kuryAM te#}
+<ls>R. 3,66,18.</ls> {#kftASASca vratASASca#}
+<ls>MBH. 3,1196.</ls> {#ASAM kAlavatIM dadyAtkAlaM viGnena yojayet#} {%er setze seine Hoffnung auf die Zeit%}
+<ls n="MBH.">1,5629.</ls> {#SiSAvasminnetAH — daDatyASAmezo 'smAn jIvayediti#}
+<ls>KATHĀS. 3,17.</ls> {#jagrAha — ASAM ca priyasaMgame#}
+<ls n="KATHĀS.">9,67.</ls> {#pUrayitvArTanAmASAm#}
+<ls>ŚĀNTIŚ. 2,21.</ls> {#pUritASa#} {%der Jmdes Hoffnung erfüllt hat%}
+<ls>KATHĀS. 26,22.</ls> {#ASAM nArhasi me hantum#}
+<ls>SĀV. 3,11.</ls> {#ASAmiva vyapagatAm#}
+<ls>R. 5,18,8.</ls> {#ASAM pratihatAmiva#}
+<ls n="R. 5,">21,11.</ls> {#ASAM ca suradvizAm . — vAREScicCeda#}
+<ls>RAGH. 12,96.</ls> {#yenASAH pfzWataH kftAH nErASyamavalambitam#}
+<ls>HIT. I,137.</ls> {#BagnASa#}
+<ls>BHARTṚ. 2,82.</ls>
+<ls>HIT. I,56.</ls> {#hatASa#}
+<ls>PRAB. 11,1.</ls>
+<ls>AMAR. 66.</ls> {#niScitASA#} ({%das feste Verlangen habend%}) {#sTitAsmIha citArohe sahAmunA#}
+<ls>KATHĀS. 25,142.</ls> {#nirASa#} <lex>adj.</lex> <lex>f.</lex> {#A#} {%keine Hoffnung habend, verzweifelnd%}
+<ls>R. 5,32,24.</ls>
+<ls>VID. 160.</ls>
+<ls>KATHĀS. 26,22.</ls> mit dem dat.: {#putralABAya#}
+<ls>MBH. 2,721.</ls> loc.: {#jIvite#}
+<ls n="MBH.">3,16240.</ls> mit der Ergänzung comp.: {#mano baBUvendumatInirASam#}
+<ls>RAGH. 6,2.</ls> {#durASa#} <lex>adj.</lex> <lex>f.</lex> {#A#} {%mit dessen Aussichten es schlimm bestellt ist%}
+<ls>PRAB. 48,5.</ls> Die {%Hoffnung%} personif. ist Gemahlin eines <is>Vasu</is>
+<ls>HARIV. 7740.</ls> die Schwiegertochter des <is>Manas</is>
+<ls>PRAB. 89,16.</ls>
 <LEND>

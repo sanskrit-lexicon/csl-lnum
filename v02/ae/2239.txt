@@ -1,7 +1,7 @@
 <L>2239<pc>081<k1>copper<k2>copper
 {@Copper,@}¦ {%s.%} {#tAmraM, tAmrakaM, SulbaM, dvyazwaM, varizwaM,#}
-<div n="lb"/>{#uduMbaraM;#} ‘c. coin’ {#paRaH;#} ‘c. plate’ {#tAmra-#}
-<div n="lb"/>{#-patraM-pawwaM-pawaH;#} ‘c. smith’ {#tAmrakAraH, tA-#}
-<div n="lb"/>{#-mrikaH, tAmrakuwwakaH, SOlbikaH#}. {@-y,@} {%a.%} {#tAmra#}
-<div n="lb"/>({#mrI#} {%f.%}), {#tAmramaya#} ({#yI#} {%f.%}).
+{#uduMbaraM;#} ‘c. coin’ {#paRaH;#} ‘c. plate’ {#tAmra-#}
+{#-patraM-pawwaM-pawaH;#} ‘c. smith’ {#tAmrakAraH, tA-#}
+{#-mrikaH, tAmrakuwwakaH, SOlbikaH#}. {@-y,@} {%a.%} {#tAmra#}
+({#mrI#} {%f.%}), {#tAmramaya#} ({#yI#} {%f.%}).
 <LEND>

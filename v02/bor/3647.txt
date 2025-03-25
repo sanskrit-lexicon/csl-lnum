@@ -1,5 +1,5 @@
 <L>3647<pc>120<k1>chronological<k2>chronological
-<div n="lb"/>{@CHRONOLOGICAL:@}¦ <div n="1">(1) {#kAlAnusArin#} (f. {#RI#});</div>
-<div n="lb"/><div n="1">(2) {#kAlAnuyAyin#} (f. {#nI#}). <div n="xe">{%In c. order:%}</div> <div n="xs">{#anupUrvaSaH#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#AnupUrvyAt.#}</div> Mat.</div>
+{@CHRONOLOGICAL:@}¦ <div n="1">(1) {#kAlAnusArin#} (f. {#RI#});</div>
+<div n="1">(2) {#kAlAnuyAyin#} (f. {#nI#}). <div n="xe">{%In c. order:%}</div> <div n="xs">{#anupUrvaSaH#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#AnupUrvyAt.#}</div> Mat.</div>
 <LEND>

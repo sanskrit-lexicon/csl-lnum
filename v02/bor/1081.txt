@@ -1,4 +1,4 @@
 <L>1081<pc>038<k1>armed<k2>armed
-<div n="lb"/>{@ARMED@}¦ (adj.): <div n="1">(1) {#sAyuDaH#} ({#DA, DaM#}); </div><div n="1">(2) {#saMnadDaH#}
-<div n="lb"/>({#dDA, dDaM#}) </div><div n="1">(3) {#sajjaH#} ({#jjA, jjaM#}) (=equipped).</div>
+{@ARMED@}¦ (adj.): <div n="1">(1) {#sAyuDaH#} ({#DA, DaM#}); </div><div n="1">(2) {#saMnadDaH#}
+({#dDA, dDaM#}) </div><div n="1">(3) {#sajjaH#} ({#jjA, jjaM#}) (=equipped).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>13165<pc>406<k1>lancet<k2>lancet
-<div n="lb"/>{@LANCET:@}¦ {#SalAkA,#} <div n="xe">{%l. s are of various shapes and%}
-<div n="lb"/>{%for various purposes:%}</div> <div n="xs">{#SalAkAyantrARi nAnAprakArARi #}
-<div n="lb"/>{# nAnAprayojanAni,#}</div> Sr.
+{@LANCET:@}¦ {#SalAkA,#} <div n="xe">{%l. s are of various shapes and%}
+{%for various purposes:%}</div> <div n="xs">{#SalAkAyantrARi nAnAprakArARi #}
+{# nAnAprayojanAni,#}</div> Sr.
 <LEND>

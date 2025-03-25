@@ -1,10 +1,10 @@
 <L>3423<pc>113<k1>change<k2>change
-<div n="lb"/>{@CHANGE@}¦ (v. i.): <div n="1">(1) {#parivartate#} ({#vft,#} c. l), <div n="xe">{%my%}
-<div n="lb"/>{%character has c. d with my appearance%}</div> <div n="xs">{#rUpeREva saha #}
-<div n="lb"/>{# parivftto me svamAvaH,#}</div> D. iii.; <div n="xe">{%in a moment, it c. s%}
-<div n="lb"/>{%for me into something else%}</div> <div n="xs">{#kzaRena tanme parivartate'nyaTA,#}</div>
-<div n="lb"/>V.; </div><div n="1">(2) by {#anyaH#} ({#nyA, nyat#}) <div n="xe">{%or%}</div> <div n="xs">{#BinnaH#}</div> ({#nnA, nnaM#})
-<div n="lb"/><div n="xe">{%ar%}</div> <div n="xs">{#antara-#}</div> affixed and a verb: <div n="xe">{%seeing that its%}
-<div n="lb"/>{%colour c. d in a golden vessel%}</div> <div n="xs">{#kanakaBAjane varRAntara-#}
-<div n="lb"/>{#mupagatamupalaBya,#}</div> Mu.</div>
+{@CHANGE@}¦ (v. i.): <div n="1">(1) {#parivartate#} ({#vft,#} c. l), <div n="xe">{%my%}
+{%character has c. d with my appearance%}</div> <div n="xs">{#rUpeREva saha #}
+{# parivftto me svamAvaH,#}</div> D. iii.; <div n="xe">{%in a moment, it c. s%}
+{%for me into something else%}</div> <div n="xs">{#kzaRena tanme parivartate'nyaTA,#}</div>
+V.; </div><div n="1">(2) by {#anyaH#} ({#nyA, nyat#}) <div n="xe">{%or%}</div> <div n="xs">{#BinnaH#}</div> ({#nnA, nnaM#})
+<div n="xe">{%ar%}</div> <div n="xs">{#antara-#}</div> affixed and a verb: <div n="xe">{%seeing that its%}
+{%colour c. d in a golden vessel%}</div> <div n="xs">{#kanakaBAjane varRAntara-#}
+{#mupagatamupalaBya,#}</div> Mu.</div>
 <LEND>

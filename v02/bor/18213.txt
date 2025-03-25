@@ -1,4 +1,4 @@
 <L>18213<pc>558<k1>purchase-money<k2>purchase-money
-<div n="lb"/>{@PURCHASE-MONEY:@}¦ <div n="1">(1) {#krayamUlyam;#} </div><div n="1">(2) {#mUlyam:#}
-<div n="lb"/>v. Price.</div>
+{@PURCHASE-MONEY:@}¦ <div n="1">(1) {#krayamUlyam;#} </div><div n="1">(2) {#mUlyam:#}
+v. Price.</div>
 <LEND>

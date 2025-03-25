@@ -1,10 +1,10 @@
 <L>24540<pc>658-a<k1>ray<k2>ray
-<div n="lb"/>RAY¦, {%s.%} (Of light) {#kiraRaH, raSmiH#} {%m.,%} {#marIciH#} {%m. f.,%} {#karaH, aMSuH#} {%m.,%}
-<div n="lb"/>{#aBISuH#} {%m.,%} {#aBIzuH#} {%m.,%} {#mayUKaH, gaBastiH#} {%m. f.,%} {#dIDitiH#} {%m.,%} {#arkatviw#} {%f.%}
-<div n="lb"/>{#(z) pAdaH, usraH, ruciH#} {%f.,%} {#tviziH#} {%m.,%} {#viBA, arccis#} {%f.,%} {#BAnuH#} {%m.,%}
-<div n="lb"/>{#SipiH#} {%m.,%} {#DfzRiH#} {%m.,%} {#pfzwiH#} {%f.,%} {#vIciH#} {%f.,%} {#GfRiH#} {%m.,%} {#upaDftiH#} {%f.,%}
-<div n="lb"/>{#pfSniH#} {%f.,%} {#syonaH, syUmaH;#} ‘ray of the sun,’ {#sUryyaraSmiH#} {%m.,%} {#sUryyakaraH;#}
-<div n="lb"/>‘of the meridian sun,’ {#varkarAwaH;#} ‘of the moon,’ {#candrapAdaH,#}
-<div n="lb"/>{#SaSipAdaH, SaSikaraH, SaSimayUKaH, somAMSuH#} {%m.;%} ‘pencil or stream
-<div n="lb"/>of rays,’ {#karajAlaM, aMSujAlaM#}.
+RAY¦, {%s.%} (Of light) {#kiraRaH, raSmiH#} {%m.,%} {#marIciH#} {%m. f.,%} {#karaH, aMSuH#} {%m.,%}
+{#aBISuH#} {%m.,%} {#aBIzuH#} {%m.,%} {#mayUKaH, gaBastiH#} {%m. f.,%} {#dIDitiH#} {%m.,%} {#arkatviw#} {%f.%}
+{#(z) pAdaH, usraH, ruciH#} {%f.,%} {#tviziH#} {%m.,%} {#viBA, arccis#} {%f.,%} {#BAnuH#} {%m.,%}
+{#SipiH#} {%m.,%} {#DfzRiH#} {%m.,%} {#pfzwiH#} {%f.,%} {#vIciH#} {%f.,%} {#GfRiH#} {%m.,%} {#upaDftiH#} {%f.,%}
+{#pfSniH#} {%f.,%} {#syonaH, syUmaH;#} ‘ray of the sun,’ {#sUryyaraSmiH#} {%m.,%} {#sUryyakaraH;#}
+‘of the meridian sun,’ {#varkarAwaH;#} ‘of the moon,’ {#candrapAdaH,#}
+{#SaSipAdaH, SaSikaraH, SaSimayUKaH, somAMSuH#} {%m.;%} ‘pencil or stream
+of rays,’ {#karajAlaM, aMSujAlaM#}.
 <LEND>

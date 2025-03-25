@@ -1,18 +1,18 @@
 <L>57269<pc>5-0518<k1>manaHSilA<k2>manaHSilA
-{#manaHSilA#}¦ {#(manas + Si°)#} <lex>f.</lex> {%Realgar, rother Arsenik%} 
-<ls>AK. 2, 3, 8. 9, 108.</ls> 
-<ls>H. 1059.</ls> 
-<ls>SUŚR. 1, 5, 2. 51, 1. 132, 16.</ls> {#surAzwrajA#} 
-<ls>2, 9, 10. 298, 4. 347, 8.</ls> {#(vyAlAn) °samAyuktAn (manaHSilA iva SilAH saMyuktA DAtu°#} ed. Bomb.) 
-<ls>MBH. 7, 2379.</ls> {#(gaRAH) °vicCuritAH#} 
-<ls>KUMĀRAS. 1, 56.</ls> {#°guhAH#} 
-<ls>MBH. 3, 11617.</ls> {#°Siloccaya#} 
-<ls>R. 2, 96, 18</ls> {#(°giri#} 
-<ls>105, 17</ls> <ls>GORR.</ls>). {#°SilAyAstilakaH#} 
-<ls>24. 5, 37, 5. 6, 96, 3.</ls> <ls>VARĀH. BṚH. S. 44, 9.</ls> {#°SudDi#} 
-<ls>Verz. d. Oxf. H. 320,b, No. 760.</ls> {#SilASca samanaHSilAH#} 
-<ls>R. 4, 44, 63.</ls> {#SfNgIva waNkacCinnamanaHSilaH#} 
-<ls>RAGH. 12, 80.</ls> Auch {#°Sila#} aus metrischen Rücksichten: {#waNkErmanaHSilaguheva vidAryamARA#} 
-<ls>MṚCCH. 10, 11.</ls> 
+{#manaHSilA#}¦ ({#manas + Si°#}) <lex>f.</lex> {%Realgar, rother Arsenik%}
+<ls>AK. 2,3,8.</ls> <ls n="AK. 2,">9,108.</ls>
+<ls>H. 1059.</ls>
+<ls>SUŚR. 1,5,2. 51,1. 132,16.</ls> {#surAzwrajA#}
+<ls n="SUŚR.">2,9,10. 298,4. 347,8.</ls> {#(vyAlAn) °samAyuktAn (manaHSilA iva SilAH saMyuktA DAtu°#} <ls>ed. Bomb.</ls>)
+<ls>MBH. 7,2379.</ls> {#(gaRAH) °vicCuritAH#}
+<ls>KUMĀRAS. 1,56.</ls> {#°guhAH#}
+<ls>MBH. 3,11617.</ls> {#°Siloccaya#}
+<ls>R. 2,96,18</ls> ({#°giri#} <ls n="R. 2,">105,17</ls> <ls>GORR.</ls>).
+{#°SilAyAstilakaH#}
+<ls n="R. 2,105,">24.</ls> <ls n="R.">5,37,5.</ls> <ls n="R.">6,96,3.</ls> <ls>VARĀH. BṚH. S. 44,9.</ls> {#°SudDi#}
+<ls>Verz. d. Oxf. H. 320,b, No. 760.</ls> {#SilASca samanaHSilAH#}
+<ls>R. 4,44,63.</ls> {#SfNgIva waNkacCinnamanaHSilaH#}
+<ls>RAGH. 12,80.</ls> Auch {#°Sila#} aus metrischen Rücksichten: {#waNkErmanaHSilaguheva vidAryamARA#}
+<ls>MṚCCH. 10,11.</ls>
 <div n="v">— Vgl. {#manoguptA, manojYA, manohvA, mAnaHSila#} .
 <LEND>

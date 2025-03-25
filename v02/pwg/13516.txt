@@ -1,15 +1,15 @@
 <L>13516<pc>1-1096<k1>eDas<k2>e/Das<h>1
-1. {#e/Das#}¦ (von {#iD#}) <lex>n.</lex> {%Brennholz%} 
-<ls>AK. 2, 4, 1, 13.</ls> 
-<ls>H. 827.</ls> 
-<ls>AV. 12, 3, 2.</ls> 
-<ls>NIR. 1, 18.</ls> 
-<ls>M. 11, 70. 246.</ls> 
-<ls>YĀJÑ. 2, 166.</ls> 
-<ls>ŚĀK. 174, v. l.</ls> 
-<ls>RAGH. 8, 70.</ls> 
-<ls>BHĀG. P. 3, 15, 10.</ls> {#taptahemABo viBAvasurivEDasaH#} {%wie das, geschmolzenem Golde ähnliche Feuer aus dem Brennholz%} (hervortritt) 
-<ls>?7, 3, 23 (BURNOUF</ls> hat diese Stelle missverstanden). 
-<ls>8, 6, 12.</ls> {#eDAMsi#} 
-<ls>BHAG. 4, 37.</ls>
+1. {#e/Das#}¦ (von {#iD#}) <lex>n.</lex> {%Brennholz%}
+<ls>AK. 2,4,1,13.</ls>
+<ls>H. 827.</ls>
+<ls>AV. 12,3,2.</ls>
+<ls>NIR. 1,18.</ls>
+<ls>M. 11,70.</ls> <ls n="M. 11,">246.</ls>
+<ls>YĀJÑ. 2,166.</ls>
+<ls>ŚĀK. 174, v. l.</ls>
+<ls>RAGH. 8,70.</ls>
+<ls>BHĀG. P. 3,15,10.</ls> {#taptahemABo viBAvasurivEDasaH#} {%wie das, geschmolzenem Golde ähnliche Feuer aus dem Brennholz%} (hervortritt)
+<ls n="BHĀG. P.">7,3,23</ls> (<ls>BURNOUF</ls> hat diese Stelle missverstanden).
+<ls n="BHĀG. P.">8,6,12.</ls> {#eDAMsi#}
+<ls>BHAG. 4,37.</ls>
 <LEND>

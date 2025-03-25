@@ -1,9 +1,9 @@
-<L>119723<pc>607,3<k1>paryas<k2>pary-as<h>b<e>1
-<hom>b.</hom> <s>pary-</s>√ <hom>2.</hom> <s>as</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>pary-asyati</s>, <s>°te</s>, to throw or cast or place round, <ls>AV.</ls>; <ls>AitBr.</ls>;
+<L>119723<pc>607,3<k1>paryas<k2>pary-as<e>1
+ <s>pary-</s>√ <hom>2.</hom> <s>as</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>pary-asyati</s>, <s>°te</s>, to throw or cast or place round, <ls>AV.</ls>; <ls>AitBr.</ls>;
 <div n="to"/>to spread round, diffuse, <ls>Kir.</ls>;
-<div n="to"/>to entrap, ensnare (<ab>Ā.</ab> <ab>aor.</ab> 3. <ab>du.</ab> <s>pary-AsizAtAm</s>, <ls>Pāṇ. 3-1, 52</ls> <ab>Sch.</ab>);
+<div n="to"/>to entrap, ensnare (<ab>Ā.</ab> <ab>aor.</ab> 3. <ab>du.</ab> <s>pary-AsizAtAm</s>, <ls>Pāṇ. iii, 1, 52</ls>, <ab>Sch.</ab>);
 <div n="to"/>to turn round, wallow (<ab>ind.p.</ab> <s>pary-asya</s>), <ls>Amar.</ls>;
 <div n="to"/>to throw down, overturn, upset (<ab>aor.</ab> <s>pary-AsTat</s>), <ls>ŚBr.</ls>; <ls>Mn.</ls>; <ls>Kathās.</ls> :
-<div n="to"/><ab>Pass.</ab> <s>pary-asyate</s> (<ab>aor.</ab> <s>pary-AsTata</s>, <ls>Pāṇ. 3-1, 52</ls> <ab>Sch.</ab>), to tall down, drop:
-<div n="to"/><ab>Caus.</ab> <s>pary-Asayati</s>, to cause to roll down or shed (as tears), <ls>Ragh.</ls><info verb="pre" cp="PĀ" parse="pari+as"/>
+<div n="vp"/><ab>Pass.</ab> <s>pary-asyate</s> (<ab>aor.</ab> <s>pary-AsTata</s>, <ls>Pāṇ. iii, 1, 52</ls>, <ab>Sch.</ab>), to tall down, drop:
+<div n="vp"/><ab>Caus.</ab> <s>pary-Asayati</s>, to cause to roll down or shed (as tears), <ls>Ragh.</ls><info verb="pre" cp="PĀ" parse="pari+as"/><info hui="b"/>
 <LEND>

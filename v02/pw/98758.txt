@@ -1,31 +1,29 @@
-<L>98758<pc>6028-1<k1>varRay<k2>varRay<e>100
-{#varRay#}¦ <lex>m.</lex> {#varRayati#} , {#°te#} (metrisch)
-<div n="1">— 1) {%bemalen , färben%} <ab>Comm.</ab> zu <ls>ŚIŚ.11,29.</ls>
-<div n="1">— 2) {%beschreiben , schildern , darstellen , darlegen , erzählen , berichten über , angeben.%} {#varRita#} {%beschrieben%} u.s.w.
-<div n="1">— 3) {%betrachten.%}
-<div n="1">— 4) {%ausbreiten.%} Nur {#varRita#}.
-<div n="1">— 5) {#*varRita#} {%gepriesen , gelobt.%}
+<L>98758<pc>6-028-a<k1>varRay<k2>varRay
+!√{#varRay#}¦ <lex>m.</lex> {#varRayati#}, {#°te#} (metrisch)
+<div n="1">— 1〉 {%bemalen, färben%} <ls>Comm. zu ŚIŚ. 11,29</ls>.
+<div n="1">— 2〉 {%beschreiben, schildern, darstellen, darlegen, erzählen, berichten über, angeben%}. {#varRita#} {%beschrieben%} <ab>u. s. w.</ab>
+<div n="1">— 3〉 {%betrachten%}.
+<div n="1">— 4〉 {%ausbreiten%}. Nur {#varRita#}.
+<div n="1">— 5〉 *{#varRita#} {%gepriesen, gelobt%}.
 <div n="p">— Mit {#anu#}
-<div n="1">— 1) {%beschreiben , schildern%} ,
-[Page6028-2]
-{%erzählen , berichten über , auseinandersetzen , mittheilen , angeben , erklären , sagen.%} {#anuvarRita#} {%beschrieben%} u.s.w.
-<div n="1">— 2) {%loben.%}
-<div n="p">— Mit {#samanu#} , {#samanuvarRita#} {%beschrieben , geschildert , worüber man berichtet hat.%}
-<div n="p">— Mit {#aBi#} , {#aBivarRita#} <ab>dass.</ab>
-<div n="p">— Mit {#vyA#} {%erzählen , schildern%} <ls>DAŚAK.71,3.</ls> <ls>RĀJAT.7,874.</ls>
-<div n="p">— Mit {#upa#} {%beschreiben , schildern , erzählen , berichten über , mittheilen , angeben.%} {#upavarRita#} {%beschrieben%} u.s.w.
+<div n="1">— 1〉 {%beschreiben, schildern, [Page6-028-b] erzählen, berichten über, auseinandersetzen, mittheilen, angeben, erklären, sagen%}. {#anuvarRita#} {%beschrieben%} <ab>u. s. w.</ab>
+<div n="1">— 2〉 {%loben%}.
+<div n="p">— Mit {#samanu#}, {#samanuvarRita#} {%beschrieben, geschildert, worüber man berichtet hat%}.
+<div n="p">— Mit {#aBi#}, {#aBivarRita#} <ab>dass.</ab>
+<div n="p">— Mit {#vyA#} {%erzählen, schildern%} <ls>DAŚAK. 71,3</ls>. <ls>RĀJAT. 7,874</ls>.
+<div n="p">— Mit {#upa#} {%beschreiben, schildern, erzählen, berichten über, mittheilen, angeben%}. {#upavarRita#} {%beschrieben%} <ab>u. s. w.</ab>
 <div n="p">— Mit {#ni#} fehlerhaft für {#nis#}.
 <div n="p">— Mit {#nis#}
-<div n="1">— 1) {%betrachten , genau ansehen , — hinsehen%} <ls>293,8.304,12.311.3.323,15.326,26.</ls>
-<div n="1">— 2) {%beschreiben , schildern , darstellen.%}
-<div n="p">— Mit {#vinis#} {%betrachten , genau ansehen.%}
-<div n="p">— Mit {#pari#} , {#parivarRita#} {%beschrieben , geschildert%} <ls>DHŪRTAN.</ls> nach Vers 24.
-<div n="p">— Mit {#pra#} {%mittheilen.%}
+<div n="1">— 1〉 {%betrachten, genau ansehen, — hinsehen%} <ls n="Chr.">293,8</ls>. <ls n="Chr.">304,12</ls>. <ls n="Chr.">311,3</ls>. <ls n="Chr.">323,15</ls>. <ls n="Chr.">326,26</ls>.
+<div n="1">— 2〉 {%beschreiben, schildern, darstellen%}.
+<div n="p">— Mit {#vinis#} {%betrachten, genau ansehen%}.
+<div n="p">— Mit {#pari#}, {#parivarRita#} {%beschrieben, geschildert%} <ls>DHŪRTAN.</ls> nach Vers 24.
+<div n="p">— Mit {#pra#} {%mittheilen%}.
 <div n="p">— Mit {#vi#}
-<div n="1">— 1) ( {#vyavIvfRat#}) {%in der Schilderung übertreffen.%}
-<div n="1">— 2) {#vivarRita#} {%missbilligt , verworfen%} <ls>LALIT.418,14.</ls>
+<div n="1">— 1〉 ({#vyavIvfRat#}) {%in der Schilderung übertreffen%}.
+<div n="1">— 2〉 {#vivarRita#} {%missbilligt, verworfen%} <ls>LALIT. 418,14</ls>.
 <div n="p">— Mit {#sam#}
-<div n="1">— 1) {%mittheilen , erzählen.%}
-<div n="1">— 2) {%loben , gutheissen , sanctioniren.%} {#saMvarRita#} <ls>LALIT.448,13.</ls>
-<div n="1">— 3) {#saMvarRita#} so v.a. {%entschlossen%} ( {#°mAnasa#}) <ls>LALIT.255,9.</ls>
+<div n="1">— 1〉 {%mittheilen, erzählen%}.
+<div n="1">— 2〉 {%loben, gutheissen, sanctioniren%}. {#saMvarRita#} <ls>LALIT. 448,13</ls>.
+<div n="1">— 3〉 {#saMvarRita#} so <ab>v. a.</ab> {%entschlossen%} ({#°mAnasa#}) <ls>LALIT. 255,9</ls>.
 <LEND>

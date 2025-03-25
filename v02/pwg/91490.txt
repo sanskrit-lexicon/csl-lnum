@@ -1,36 +1,36 @@
 <L>91490<pc>6-1035<k1>vitarka<k2>vitarka
-{#vitarka#}¦ (von {#tark#} mit {#vi#}) <lex>m.</lex> 
-<div n="1"> 1) {%Vermuthung%}: {#yO tO kumArAviva kArttikeyO dvAvaSvineyAviti me vitarkaH#} 
-<ls>MBH. 1, 7083.</ls> 
-<ls>KUMĀRAS. 1, 41.</ls> 
-<ls>VARĀH. BṚH. S. 74, 5.</ls> 
-<ls>MĀLATĪM. 20, 3.</ls> {#mAM vitarkErbahuBirvftam#} 
-<ls>R. 4, 61, 21.</ls> {#bahuvitarkamaByantaraM praviSya#} 
-<ls>KATHĀS. 28, 190.</ls> {#bahUnkurvanvitarkAn#} 
-<ls>52, 219.</ls>
+{#vitarka#}¦ (von {#tark#} mit {#vi#}) <lex>m.</lex>
+<div n="1"> 1) {%Vermuthung%}: {#yO tO kumArAviva kArttikeyO dvAvaSvineyAviti me vitarkaH#}
+<ls>MBH. 1,7083.</ls>
+<ls>KUMĀRAS. 1,41.</ls>
+<ls>VARĀH. BṚH. S. 74,5.</ls>
+<ls>MĀLATĪM. 20,3.</ls> {#mAM vitarkErbahuBirvftam#}
+<ls>R. 4,61,21.</ls> {#bahuvitarkamaByantaraM praviSya#}
+<ls>KATHĀS. 28,190.</ls> {#bahUnkurvanvitarkAn#}
+<ls n="KATHĀS.">52,219.</ls>
 [Page6-1036]
-{#ityanekavitarkOGavyAkulaH#} 
-<ls>87, 12.</ls> {#vitarkapadavIM nEvaM samArohati#} 
-<ls>PRAB. 116, 9.</ls> 
-<ls>RĀJA-TAR. 6, 83.</ls> {#indorvitarkAt#} {%weil er den Mond darin vermuthete%} 
-<ls>Spr. 2013.</ls> 
-<div n="1">— 2) {%ein auftauchender Zweifel%} 
-<ls>YOGAS. 1, 17.</ls> 
-<ls>SARVADARŚANAS. 164, 22.</ls> <ls>BHĀG. P. 6, 9, 35.</ls> {#saMgamavirahavitarke#} (st. dessen {#°vikalpe#} 
-<ls>Spr. 3101</ls>) <ls>VET.</ls> in <ls>LA. (III) 21, 1.</ls> = {#saMSaya#} 
-<ls>H. an. 3, 98.</ls> 
-<ls>MED. k. 157.</ls> <ls>HALĀY. 4, 6.</ls> {#huM vitarke#} 
-<ls>5, 90.</ls> <ls>AK. 3, 4, 32 (28), 3. 14.</ls> {%eine fragliche Sache%}: {#vitarkA hiMsAdayaH#} 
-<ls>YOGAS. 2, 34. 33.</ls> 
-<div n="1">— 3) {%das Hinundherüberlegen, Erwägung%}; = {#Uha#} 
-<ls>H. 322.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {#saMdehAtkalpanAnyatvaM vitarkaH parikIrtitaH#} 
-<ls>PRATĀPAR. 54,b,5.</ls> <ls>SĀH. D. 169. 74,16</ls> (=  {#tarka#} 
-<ls>202). 237.</ls> <ls>Verz. d. Oxf. H. 208,b,8.</ls> {#kasmE pradeyeti mahAnvitarkaH#} 
-<ls>Spr. 966. 1047 (II) 3321.</ls> {#vitarkaH samaBUttezAM trizvaDISezu ko mahAn#} 
-<ls>BHĀG. P. 10, 89, 1.</ls> <ls>WASSILJEW 251. 256.</ls> 
-<div n="1">— 4) N. pr. eines Sohnes des <is>Dhṛtarāṣṭra</is> 
-<ls>MBH. 1, 3747.</ls> 
+{#ityanekavitarkOGavyAkulaH#}
+<ls n="KATHĀS.">87,12.</ls> {#vitarkapadavIM nEvaM samArohati#}
+<ls>PRAB. 116,9.</ls>
+<ls>RĀJA-TAR. 6,83.</ls> {#indorvitarkAt#} {%weil er den Mond darin vermuthete%}
+<ls>Spr. 2013.</ls>
+<div n="1">— 2) {%ein auftauchender Zweifel%}
+<ls>YOGAS. 1,17.</ls>
+<ls>SARVADARŚANAS. 164,22.</ls> <ls>BHĀG. P. 6,9,35.</ls> {#saMgamavirahavitarke#} (st. dessen {#°vikalpe#}
+<ls>Spr. 3101</ls>) <ls>VET. in LA. (III) 21,1.</ls> = {#saMSaya#}
+<ls>H. an. 3,98.</ls>
+<ls>MED. k. 157.</ls> <ls>HALĀY. 4,6.</ls> {#huM vitarke#}
+<ls n="HALĀY.">5,90.</ls> <ls>AK. 3,4,32 (28),3.</ls> <ls n="AK. 3,4,32 (28),">14.</ls> {%eine fragliche Sache%}: {#vitarkA hiMsAdayaH#}
+<ls>YOGAS. 2,34. 33.</ls>
+<div n="1">— 3) {%das Hinundherüberlegen, Erwägung%}; = {#Uha#}
+<ls>H. 322.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {#saMdehAtkalpanAnyatvaM vitarkaH parikIrtitaH#}
+<ls>PRATĀPAR. 54,b,5.</ls> <ls>SĀH. D. 169. 74,16</ls> (= {#tarka#}
+<ls n="SĀH. D.">202). 237.</ls> <ls>Verz. d. Oxf. H. 208,b,8.</ls> {#kasmE pradeyeti mahAnvitarkaH#}
+<ls>Spr. 966.</ls> <ls>Spr. (II) 1047.</ls> <ls>Spr. 3321.</ls> {#vitarkaH samaBUttezAM trizvaDISezu ko mahAn#}
+<ls>BHĀG. P. 10,89,1.</ls> <ls>WASSILJEW 251. 256.</ls>
+<div n="1">— 4) N. pr. eines Sohnes des <is>Dhṛtarāṣṭra</is>
+<ls>MBH. 1,3747.</ls>
 <div n="v">— Vgl. {#durvitarka, nirvitarka, sa°#} .
 <LEND>

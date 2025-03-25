@@ -1,14 +1,14 @@
 <L>24265<pc>759<k1>when<k2>when
-<div n="lb"/>{@WHEN:@}¦ <div n="I">I Rel.: </div><div n="1">(1) {#yadA,#} {%w.%} ({%she%}) <div n="xe">{%saw no%}
-<div n="lb"/>{%other source for acquiring him:%}</div> <div n="xs">{#yadA tasyADigame'nyaM #}
-<div n="lb"/>{# viDiM nApaSyat,#}</div> Ku.; <div n="xe">{%w. I heard that Arjuna had%}
-<div n="lb"/>{%won Draupadī:%}</div> <div n="xs">{#yadASrOzaM drOpadIM nirjitAmarjunena,#}</div>
-<div n="lb"/>Mah.; </div><div n="1">(2) by loc. absol. (when denoting
-<div n="lb"/>sequence), <div n="xe">{%w. Chandrāpīḍa said this:%}</div> <div n="xs">{#ityaBihita-#}
-<div n="lb"/>{#vati candrApIqe,#}</div> K.; {%w. the night had declined:%}
-<div n="lb"/>{#avasannAyAM rAtrO,#} H.; </div><div n="1">(3) {#yarhi#} (rare). </div><div n="I">II
-<div n="lb"/>Interro.: </div><div n="1">(1) {#kadA,#} <div n="xe">{%w. did Paraśurāma conquer%}
-<div n="lb"/>{%the heaven and the hell:%}</div> <div n="xs">{#kadA nu Kalu paraSurAmo #}
-<div n="lb"/>{# rasAtalatridivayorjetA,#}</div> B. r.; {%I donot know w.:%}
-<div n="lb"/>{#na vedmi kadA...,#} Ku.</div>
+{@WHEN:@}¦ <div n="I">I Rel.: </div><div n="1">(1) {#yadA,#} {%w.%} ({%she%}) <div n="xe">{%saw no%}
+{%other source for acquiring him:%}</div> <div n="xs">{#yadA tasyADigame'nyaM #}
+{# viDiM nApaSyat,#}</div> Ku.; <div n="xe">{%w. I heard that Arjuna had%}
+{%won Draupadī:%}</div> <div n="xs">{#yadASrOzaM drOpadIM nirjitAmarjunena,#}</div>
+Mah.; </div><div n="1">(2) by loc. absol. (when denoting
+sequence), <div n="xe">{%w. Chandrāpīḍa said this:%}</div> <div n="xs">{#ityaBihita-#}
+{#vati candrApIqe,#}</div> K.; {%w. the night had declined:%}
+{#avasannAyAM rAtrO,#} H.; </div><div n="1">(3) {#yarhi#} (rare). </div><div n="I">II
+Interro.: </div><div n="1">(1) {#kadA,#} <div n="xe">{%w. did Paraśurāma conquer%}
+{%the heaven and the hell:%}</div> <div n="xs">{#kadA nu Kalu paraSurAmo #}
+{# rasAtalatridivayorjetA,#}</div> B. r.; {%I donot know w.:%}
+{#na vedmi kadA...,#} Ku.</div>
 <LEND>

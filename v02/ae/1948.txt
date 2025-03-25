@@ -1,7 +1,7 @@
 <L>1948<pc>064<k1>colony<k2>colony
 {@Colony,@}¦ {%s.%} {#aDiniveSaH; vAsitaH, pradeSaH#}. {@2@}
-<div n="lb"/>{#gaRaH, saMGaH;#} {%See%} {@Collection. -ist,@} {%s.%}
-<div n="lb"/>{#aDivAsin#} {%m.,%} {#aDiniveSin#} {%m.%} {@-ize,@} {%v. t.%}
-<div n="lb"/>{#aDivas#} 1 P, {#aDiniviS#} 6 P, {#aDyAs#}
-<div n="lb"/>2 A, (with acc.).
+{#gaRaH, saMGaH;#} {%See%} {@Collection. -ist,@} {%s.%}
+{#aDivAsin#} {%m.,%} {#aDiniveSin#} {%m.%} {@-ize,@} {%v. t.%}
+{#aDivas#} 1 P, {#aDiniviS#} 6 P, {#aDyAs#}
+2 A, (with acc.).
 <LEND>

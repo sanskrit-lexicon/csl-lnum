@@ -1,13 +1,13 @@
 <L>22047<pc>695<k1>sweet<k2>sweet
-<div n="lb"/>{@SWEET:@}¦ <div n="1">(1) {#maDura#} (f. {#rA#}), <div n="xe">{%s. glances:%}</div> <div n="xs">{#maDurA: #}
-<div n="lb"/>{# kawAkzAH,#}</div> Ma. i. 26.; <div n="xe">{%in the s. moon-like face%}
-<div n="lb"/>{%of Rādhā:%}</div> <div n="xs">{#maDure rADAmuKendO,#}</div> Gi. iii. 16.; <div n="xe">{%is light,%}
-<div n="lb"/>{%s. and removes thirst:%}</div> <div n="xs">{#tfzRAGnaM maDuraM laGu,#}</div> Bha.;
-<div n="lb"/><div n="xe">{%by s. looks:%}</div> <div n="xs">{#maDurErnirIkzitEH,#}</div> Ki. ii. 55.; <div n="xe">{%what%}
-<div n="lb"/>{%does not adorn s. figures:%}</div> <div n="xs">{#kimiva hi maDurARAM maRqanaM #}
-<div n="lb"/>{# nAkftInAm,#}</div> S. i. 19.; </div><div n="1">(3) {#mizwa#} (f. {#zwA#}), <div n="xe">{%eating%}
-<div n="lb"/>{%s. things:%}</div> <div n="xs">{#mizwaBojin#}</div> (f. {#nI#}), N. xvi. 111.;</div>
-<div n="lb"/><div n="1">(3) {#maDumaya#} (f. {#yI:#} =honied), {%by s. words;%} [Page696]
-<div n="lb"/>{#maDumayIBirvAgBiH,#} D.: v. Also tasteful, plea-
-<div n="lb"/>-sant.</div>
+{@SWEET:@}¦ <div n="1">(1) {#maDura#} (f. {#rA#}), <div n="xe">{%s. glances:%}</div> <div n="xs">{#maDurA: #}
+{# kawAkzAH,#}</div> Ma. i. 26.; <div n="xe">{%in the s. moon-like face%}
+{%of Rādhā:%}</div> <div n="xs">{#maDure rADAmuKendO,#}</div> Gi. iii. 16.; <div n="xe">{%is light,%}
+{%s. and removes thirst:%}</div> <div n="xs">{#tfzRAGnaM maDuraM laGu,#}</div> Bha.;
+<div n="xe">{%by s. looks:%}</div> <div n="xs">{#maDurErnirIkzitEH,#}</div> Ki. ii. 55.; <div n="xe">{%what%}
+{%does not adorn s. figures:%}</div> <div n="xs">{#kimiva hi maDurARAM maRqanaM #}
+{# nAkftInAm,#}</div> S. i. 19.; </div><div n="1">(3) {#mizwa#} (f. {#zwA#}), <div n="xe">{%eating%}
+{%s. things:%}</div> <div n="xs">{#mizwaBojin#}</div> (f. {#nI#}), N. xvi. 111.;</div>
+<div n="1">(3) {#maDumaya#} (f. {#yI:#} =honied), {%by s. words;%} [Page696]
+{#maDumayIBirvAgBiH,#} D.: v. Also tasteful, plea-
+-sant.</div>
 <LEND>

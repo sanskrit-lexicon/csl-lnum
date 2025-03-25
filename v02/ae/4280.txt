@@ -1,17 +1,17 @@
 <L>4280<pc>174<k1>fret<k2>fret
 {@Fret,@}¦ {%v. i.%} {#kzuB#} 4 P, {#pIq#} pass., {#vyaT#} 1 A,
-<div n="lb"/>{#durmanAyate#} (D.), {#aMtaH saM-pari-A-tap#} 4 A,
-<div n="lb"/>{#Suc#} 1 P, {#kliS#} pass., {#udvij#} 6 A,
-<div n="lb"/>{#AtmAnaM tap#} c. or {#kzuB#} c. {@2@} {#GarzaRena kzi#}
-<div n="lb"/>pass., {#saMGfz#} pass. {%-v. t.%} {#saMtap#} c., {#kzuB#} c.;
-<div n="lb"/>{#vyaT#} c. ({#vyaTayati#}), {#pIq#} 10, {#bAD#} 1 A,
-<div n="lb"/>{#kliS#} 9 P, {@2@} {#Gfz#} 1 P, {#GarzaRena tap#} c. {%-s.%}
-<div n="lb"/>(Of sea) {#kzoBaH, vIcipraloWanaM#}. {@2@}
-<div n="lb"/>(F.-fulness) {#cittavyaTA, AtmapIqAkleSaH,#}
-<div n="lb"/>{#udvegaH, manastApaH, manaHkzoBaH, aSAMti#} {%f.,%}
-<div n="lb"/>{#durmanAyitaM#}. {@3@} {#pratIpatA, vakraBAvaH#}. {@4@} {#jAlaM#}.
-<div n="lb"/>{@-ful,@} {%a.%} {#AtmatApin, SIGrakopin, durmanas,#}
-<div n="lb"/>{#caMqa, SIGrakzubDa-saMtapta#}. {@2@} {#vakraprakfti, pratIpa,#}
-<div n="lb"/>{#vakraBAva, duzprakfti, vAmaSIla, jihmasvaBAva#}.
-<div n="lb"/>{@-fully,@} {%adv.%} {#sacittakzoBaM, manastApena#}.
+{#durmanAyate#} (D.), {#aMtaH saM-pari-A-tap#} 4 A,
+{#Suc#} 1 P, {#kliS#} pass., {#udvij#} 6 A,
+{#AtmAnaM tap#} c. or {#kzuB#} c. {@2@} {#GarzaRena kzi#}
+pass., {#saMGfz#} pass. {%-v. t.%} {#saMtap#} c., {#kzuB#} c.;
+{#vyaT#} c. ({#vyaTayati#}), {#pIq#} 10, {#bAD#} 1 A,
+{#kliS#} 9 P, {@2@} {#Gfz#} 1 P, {#GarzaRena tap#} c. {%-s.%}
+(Of sea) {#kzoBaH, vIcipraloWanaM#}. {@2@}
+(F.-fulness) {#cittavyaTA, AtmapIqAkleSaH,#}
+{#udvegaH, manastApaH, manaHkzoBaH, aSAMti#} {%f.,%}
+{#durmanAyitaM#}. {@3@} {#pratIpatA, vakraBAvaH#}. {@4@} {#jAlaM#}.
+{@-ful,@} {%a.%} {#AtmatApin, SIGrakopin, durmanas,#}
+{#caMqa, SIGrakzubDa-saMtapta#}. {@2@} {#vakraprakfti, pratIpa,#}
+{#vakraBAva, duzprakfti, vAmaSIla, jihmasvaBAva#}.
+{@-fully,@} {%adv.%} {#sacittakzoBaM, manastApena#}.
 <LEND>

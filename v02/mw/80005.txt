@@ -1,5 +1,5 @@
 <L>80005<pc>423,3<k1>jur<k2>jur<h>1<e>1
-<hom>1.</hom> <s>jur</s> ¦ (<s>√ jF</s>) <ab>cl.</ab> 4. 6. <ab>P.</ab> <s>jUryati</s> (√ <s>jUr</s> <ab>Ā.</ab> <s>°te</s>, <ls>Dhātup. xxvi, 47</ls>; <ab>p.</ab> <s>jU/ryat</s> and <s>jura/t</s>; <ab>pf.</ab> <ab>p.</ab> <s>jujurva/s</s>) 
-<div n="to"/>to become old or decrepit, decay, perish, <ls>RV. i-iii, v, vii</ls>;
-<div n="to"/>to cause to grow old or perish, <ls>i, 182, 3</ls>; <ab>cf.</ab> <s>a-jurya/</s>.<info westergaard="jUrI,26.47,04.0048"/><info whitneyroots="jf1,55"/><info verb="genuineroot" cp="4,6P,6Ā"/>
+<hom>1.</hom> <s>jur</s> ¦ (√ <s>jF</s>) <ab>cl.</ab> 4. 6. <ab>P.</ab> <s>jUryati</s> (√ <s>jUr</s> <ab>Ā.</ab> <s>°te</s>, <ls>Dhātup. xxvi, 47</ls>; <ab>p.</ab> <s>jU/ryat</s> and <s>jura/t</s>; <ab>pf.</ab> <ab>p.</ab> <s>jujurva/s</s>)
+<div n="to"/>to become old or decrepit, decay, perish, <ls>RV. i</ls>-<ls n="RV.">iii</ls>, <ls n="RV.">v</ls>, <ls n="RV.">vii</ls>;
+<div n="to"/>to cause to grow old or perish, <ls n="RV.">i, 182, 3</ls>; <ab>cf.</ab> <s>a-jurya/</s>.<info westergaard="jUrI,26.47,04.0048"/><info whitneyroots="jf1,55"/><info verb="genuineroot" cp="4,6P,6Ā"/>
 <LEND>

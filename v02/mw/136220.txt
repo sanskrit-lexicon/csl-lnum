@@ -1,11 +1,11 @@
-<L>136220<pc>688,1<k1>prayA<k2>pra-yA<h>a<e>1
-<s>pra-√ yA</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-yAti</s>, to go forth, set out, progress, advance towards or against, go or repair to (<ab>acc.</ab>, also with <s>acCa</s>, or <s>prati</s>, or <ab>loc.</ab>), <ls>RV.</ls> &c. &c.;
+<L>136220<pc>688,1<k1>prayA<k2>pra-yA<e>1
+<s>pra-√ yA</s> ¦ <ab>P.</ab> <s>-yAti</s>, to go forth, set out, progress, advance towards or against, go or repair to (<ab>acc.</ab>, also with <s>acCa</s>, or <s>prati</s>, or <ab>loc.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to walk, roam, wander, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to part, go asunder, be dispersed, pass away, vanish, die, <ls>ib.</ls>;
 <div n="to"/>to get into a <ab>partic.</ab> state or condition, enter, undergo, incur (<ab>acc.</ab>), <ls>ib.</ls>;
 <div n="to"/>to proceed <ab>i.e.</ab> behave, <ls>Bhartṛ.</ls> (<ab>v.l.</ab>);
 <div n="to"/>to cause to go <ab>i.e.</ab> to lead into (<ab>acc.</ab>), <ls>Hcat.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-yApayati</s>, to cause to set out, <ls>ŚBr.</ls> (<ab>cf.</ab> <ls>Pāṇ. 8-4, 29; 30</ls> <ab>Sch.</ab>) :
-<div n="to"/><ab>Desid.</ab> <s>-yiyAsati</s>, to wish to set out, <ls>ib.</ls> :
-<div n="to"/><ab>Caus.</ab> of <ab>Desid.</ab> <s>-yiyAsayati</s>, to cause a person to wish to set out, <ls>Bhaṭṭ.</ls><info verb="pre" cp="P" parse="pra+yA"/>
+<div n="vp"/><ab>Caus.</ab> <s>-yApayati</s>, to cause to set out, <ls>ŚBr.</ls> (<ab>cf.</ab> <ls>Pāṇ. viii, 4, 29</ls>; <ls n="Pāṇ. viii, 4">30</ls>, <ab>Sch.</ab>) :
+<div n="vp"/><ab>Desid.</ab> <s>-yiyAsati</s>, to wish to set out, <ls>ib.</ls> :
+<div n="vp"/><ab>Caus.</ab> of <ab>Desid.</ab> <s>-yiyAsayati</s>, to cause a person to wish to set out, <ls>Bhaṭṭ.</ls><info verb="pre" cp="P" parse="pra+yA"/><info hui="a"/>
 <LEND>

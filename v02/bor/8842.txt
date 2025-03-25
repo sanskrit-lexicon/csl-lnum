@@ -1,4 +1,4 @@
 <L>8842<pc>280<k1>fishing<k2>fishing
-<div n="lb"/>{@FISHING:@}¦ <div n="1">(1) {#matsyaDAraRam,#} Tārānāth; </div><div n="1">(2) {#matsya-#}
-<div n="lb"/>{#banDanam,#} Sa. v.</div>
+{@FISHING:@}¦ <div n="1">(1) {#matsyaDAraRam,#} Tārānāth; </div><div n="1">(2) {#matsya-#}
+{#banDanam,#} Sa. v.</div>
 <LEND>

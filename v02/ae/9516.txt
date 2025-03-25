@@ -1,10 +1,10 @@
 <L>9516<pc>428<k1>skill<k2>skill
 {@Skill,@}¦ {%s.%} {#kOSalaM, nEpuRyaM, pawutA, pAwavaM,#}
-<div n="lb"/>{#prAvIRyaM, cAturyaM, vEdagDyaM, yukti#} {%f.,%} {#vijYatA,#}
-<div n="lb"/>&c. {@-ful, -ed,@} {%a.%} {#kuSala, nipuRa, pravIRa,#}
-<div n="lb"/>{#pawu, vicakzaRa, dakza, vidagDa, catura, viSArada,#}
-<div n="lb"/>{#peSala, yuktimat, kftin, vijYa, aBijYa-jYa-#}
-<div n="lb"/>{#-vid#} in comp. {@-ly,@} {%adv.%} {#sapAwavaM, sa-#}
-<div n="lb"/>{#-nEpuRyaM, dakzatayA, caturaM, kuSalatayA, vijYavat,#}
-<div n="lb"/>{#savEdagDyaM,#} &c. {@-ness,@} {%See (s.)%} above.
+{#prAvIRyaM, cAturyaM, vEdagDyaM, yukti#} {%f.,%} {#vijYatA,#}
+&c. {@-ful, -ed,@} {%a.%} {#kuSala, nipuRa, pravIRa,#}
+{#pawu, vicakzaRa, dakza, vidagDa, catura, viSArada,#}
+{#peSala, yuktimat, kftin, vijYa, aBijYa-jYa-#}
+{#-vid#} in comp. {@-ly,@} {%adv.%} {#sapAwavaM, sa-#}
+{#-nEpuRyaM, dakzatayA, caturaM, kuSalatayA, vijYavat,#}
+{#savEdagDyaM,#} &c. {@-ness,@} {%See (s.)%} above.
 <LEND>

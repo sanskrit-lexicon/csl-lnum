@@ -1,18 +1,18 @@
 <L>1783<pc>062<k1>because<k2>because
-<div n="lb"/>{@BECAUSE@}¦ (conj.): <div n="1">(1) {#iti;#} <div n="xe">{%poems are not good b.%}
-<div n="lb"/>{%old, nor faultly b. new%}</div> <div n="xs">{#purARamityeva na sADu sarvaM na #}
-<div n="lb"/>{# cApi kAvyaM navamityavadyam,#}</div> Mal. I. N. B. Note the
-<div n="lb"/>position of {#iti;#} </div><div n="1">(2) {#hi#} (never at the begin-
-<div n="lb"/>-ning of a sentence), {%b. you see that a rich%}
-<div n="lb"/>{%man feels pain at the loss of his wealth%} ({%you%}
-<div n="lb"/>{%cannot conclude that%}) <div n="xe">{%he will have the same pain%}
-<div n="lb"/>{%when he assumes mendicancy%}</div> <div n="xs">{#na hi Danino DanApahA-#}
-<div n="lb"/>{#ranimittaM duHKaM dfzwamiti tasyEva pravrajitasya tadeva duHKaM Bavati,#}</div>
-<div n="lb"/>S. i. 4.: v. For. N. B. Observe that {#na hi#} is
-<div n="lb"/>the best way of expressing because...not.</div>
-<div n="lb"/><div n="1">(3) {#kutaH#} <div n="xe">{%or%}</div> <div n="xs">{#kasmAt#}</div> (=why) with abl.: <div n="xe">{%here%}
-<div n="lb"/>{%the word%}</div> <div n="xs">{#Ayatana#}</div> <div n="xe">{%means something else, b. we hear%}
-<div n="lb"/>{%that it is the bridge of ambrosia%}</div> <div n="xs">{#tatrArTAntaraM kima-#}
-<div n="lb"/>{#pyAyatanaM syAditi prAptam, kasmAt? amftasyEza seturiti #}
-<div n="lb"/>{# SravaRAt,#}</div> S. iii. 1.</div>
+{@BECAUSE@}¦ (conj.): <div n="1">(1) {#iti;#} <div n="xe">{%poems are not good b.%}
+{%old, nor faultly b. new%}</div> <div n="xs">{#purARamityeva na sADu sarvaM na #}
+{# cApi kAvyaM navamityavadyam,#}</div> Mal. I. N. B. Note the
+position of {#iti;#} </div><div n="1">(2) {#hi#} (never at the begin-
+-ning of a sentence), {%b. you see that a rich%}
+{%man feels pain at the loss of his wealth%} ({%you%}
+{%cannot conclude that%}) <div n="xe">{%he will have the same pain%}
+{%when he assumes mendicancy%}</div> <div n="xs">{#na hi Danino DanApahA-#}
+{#ranimittaM duHKaM dfzwamiti tasyEva pravrajitasya tadeva duHKaM Bavati,#}</div>
+S. i. 4.: v. For. N. B. Observe that {#na hi#} is
+the best way of expressing because...not.</div>
+<div n="1">(3) {#kutaH#} <div n="xe">{%or%}</div> <div n="xs">{#kasmAt#}</div> (=why) with abl.: <div n="xe">{%here%}
+{%the word%}</div> <div n="xs">{#Ayatana#}</div> <div n="xe">{%means something else, b. we hear%}
+{%that it is the bridge of ambrosia%}</div> <div n="xs">{#tatrArTAntaraM kima-#}
+{#pyAyatanaM syAditi prAptam, kasmAt? amftasyEza seturiti #}
+{# SravaRAt,#}</div> S. iii. 1.</div>
 <LEND>

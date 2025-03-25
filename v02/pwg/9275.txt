@@ -1,77 +1,77 @@
 <L>9275<pc>1-0694<k1>Ardra<k2>Ardra/
-{#Ardra/#}¦ 
-<ls>Uṇ. 2, 19.</ls> 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A; Ardram#} kann mit {#kar#} zusammenges. werden <is>gaṇa</is> {#sAkzAdAdi#} zu 
-<ls>P. 1, 4, 74.</ls> 
-<div n="2"> a) {%feucht, nass%} (Gegens. {#Suzka#}) 
-<ls>AK. 3, 2, 55.</ls> 
-<ls>TRIK. 3, 1, 8.</ls> 
-<ls>H. 1492.</ls> 
-<ls>MED. r. 7.</ls> {#sa\mu\drasya\ Danva^nnA\rdrasya^ pA\re#} 
-<ls>ṚV. 1, 116, 4.</ls> {#A\rdrAdA Suzka^m#} 
-<ls n="ṚV.">2, 13, 6.</ls> <ls>TS. 6, 2, 11, 2. 4, 1, 5.</ls> {#yadyapi SuzkARyagrARi BavantyArdrARyeva mUlAni Bavanti#} 
-<ls>ŚAT. BR. 1, 3, 3, 4. 6, 3, 23. 41. 3, 2, 3, 10. 8, 5, 10.</ls> u. s. w. {#aTa yatkiMcedamArdraM tadretaso 'sfjata#} 
-<ls>14, 4, 2, 13.</ls> {#ArdrapAda#} 
-<ls>M. 4, 76.</ls> {#ArdrapadI#} <is>gaṇa</is> {#kumBapadyAdi#} zu 
-<ls>P. 5, 4, 139.</ls> {#°vAsas#} 
-<ls>M. 6, 23.</ls> 
-<ls>YĀJÑ. 3, 52.</ls> {#°vraRa#} 
-<ls>MBH. 14, 53.</ls> {#°laktaka#} 
-<ls>SUŚR. 1, 36, 5. 105, 5.</ls> 
-<ls>ŚĀK. 8, 14. 69.</ls> {#SuzkArdre aSanI#} 
-<ls>VIŚV. 6, 9.</ls> {#tantrIrArdrA nayanasalilEH#} 
-<ls>MEGH. 84.</ls> 
-<ls>BHARTṚ. 1, 38.</ls> {#svArdra#} 
-<ls>26.</ls> {#sKalati caraRaM BUmO nyastaM na cArdratamA mahI#} 
-<ls>MṚCCH. 143, 25.</ls> {#ArdraBAva#} {%Feuchtigkeit%} 
-<ls>KUMĀRAS. 7, 14.</ls> {#himArdra#} 
-<ls>R. 3, 22, 23.</ls> {#jalArdra#} 
-<ls>HIḌ. 4, 55.</ls> 
-<ls>ŚĀK. 31.</ls> 
-<ls>MEGH. 44.</ls> = {#Ardravastra#} 
-<ls>HĀR. 196.</ls> {#toyArdra#} 
-<ls>PRAB. 80, 1.</ls> {#(SaraH) ruDirArdrakftacCaviH#} 
-<ls>R. 6, 92, 59.</ls> 
-<div n="2">— b) {%frisch%}; von Pflanzen, Holz, Gliedern u. s. w. {%saftig, grün, lebendig%}: {#yadroda^sI\ reja^mAne\ BUmi^Sca ni\rata^kzatam . A\rdraM tada\dya sa^rva\dA sa^mu\drasye^va sro\tyAH#} 
-<ls>AV. 1, 32, 3.</ls> 
-<ls>ŚAT. BR. 1, 3, 4, 1. 9, 2, 2, 3. 7.</ls> {#ArdraH samAMsaH pratyagraH kziptaH kAyaH#} 
-<ls>R. 4, 9, 94.</ls> {#ArdraM SuzkaM taTA mAMsam#} 
-<ls>2, 84, 17.</ls> {#ArdraSarIraH#} 
-<ls>SUŚR. 1, 118, 18.</ls> {#pippalI#} 
-<ls>217, 9.</ls>
+{#Ardra/#}¦
+<ls>Uṇ. 2,19.</ls>
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A; Ardram#} kann mit {#kar#} zusammenges. werden <is>gaṇa</is> {#sAkzAdAdi#} zu
+<ls>P. 1,4,74.</ls>
+<div n="2"> a) {%feucht, nass%} (Gegens. {#Suzka#})
+<ls>AK. 3,2,55.</ls>
+<ls>TRIK. 3,1,8.</ls>
+<ls>H. 1492.</ls>
+<ls>MED. r. 7.</ls> {#sa\mu\drasya\ Danva^nnA\rdrasya^ pA\re#}
+<ls>ṚV. 1,116,4.</ls> {#A\rdrAdA Suzka^m#}
+<ls n="ṚV.">2,13,6.</ls> <ls>TS. 6,2,11,2.</ls> <ls n="TS. 6,">4,1,5.</ls> {#yadyapi SuzkARyagrARi BavantyArdrARyeva mUlAni Bavanti#}
+<ls>ŚAT. BR. 1,3,3,4.</ls> <ls n="ŚAT. BR. 1,">6,3,23.</ls> <ls n="ŚAT. BR.1,6,3,">41.</ls> <ls n="ŚAT. BR.">3,2,3,10.</ls> <ls n="ŚAT. BR. 3,">8,5,10.</ls> u. s. w. {#aTa yatkiMcedamArdraM tadretaso 'sfjata#}
+<ls n="ŚAT. BR.">14,4,2,13.</ls> {#ArdrapAda#}
+<ls>M. 4,76.</ls> {#ArdrapadI#} <is>gaṇa</is> {#kumBapadyAdi#} zu
+<ls>P. 5,4,139.</ls> {#°vAsas#}
+<ls>M. 6,23.</ls>
+<ls>YĀJÑ. 3,52.</ls> {#°vraRa#}
+<ls>MBH. 14,53.</ls> {#°laktaka#}
+<ls>SUŚR. 1,36,5. 105,5.</ls>
+<ls>ŚĀK. 8,14. 69.</ls> {#SuzkArdre aSanI#}
+<ls>VIŚV. 6,9.</ls> {#tantrIrArdrA nayanasalilEH#}
+<ls>MEGH. 84.</ls>
+<ls>BHARTṚ. 1,38.</ls> {#svArdra#}
+<ls n="BHARTṚ. 1,">26.</ls> {#sKalati caraRaM BUmO nyastaM na cArdratamA mahI#}
+<ls>MṚCCH. 143,25.</ls> {#ArdraBAva#} {%Feuchtigkeit%}
+<ls>KUMĀRAS. 7,14.</ls> {#himArdra#}
+<ls>R. 3,22,23.</ls> {#jalArdra#}
+<ls>HIḌ. 4,55.</ls>
+<ls>ŚĀK. 31.</ls>
+<ls>MEGH. 44.</ls> = {#Ardravastra#}
+<ls>HĀR. 196.</ls> {#toyArdra#}
+<ls>PRAB. 80,1.</ls> {#(SaraH) ruDirArdrakftacCaviH#}
+<ls>R. 6,92,59.</ls>
+<div n="2">— b) {%frisch%}; von Pflanzen, Holz, Gliedern u. s. w. {%saftig, grün, lebendig%}: {#yadroda^sI\ reja^mAne\ BUmi^Sca ni\rata^kzatam . A\rdraM tada\dya sa^rva\dA sa^mu\drasye^va sro\tyAH#}
+<ls>AV. 1,32,3.</ls>
+<ls>ŚAT. BR. 1,3,4,1.</ls> <ls n="ŚAT. BR.">9,2,2,3.</ls> <ls n="ŚAT. BR. 9,2,2,">7.</ls> {#ArdraH samAMsaH pratyagraH kziptaH kAyaH#}
+<ls>R. 4,9,94.</ls> {#ArdraM SuzkaM taTA mAMsam#}
+<ls n="R.">2,84,17.</ls> {#ArdraSarIraH#}
+<ls>SUŚR. 1,118,18.</ls> {#pippalI#}
+<ls n="SUŚR. 1,">217,9.</ls>
 [Page1-0695]
-{#kustumburI#} 
-<ls>218, 4. 2, 36, 20. 276, 21.</ls> <ls>ĀŚV. GṚHY. 1, 11.</ls> <ls>M. 12, 101.</ls> <ls>YĀJÑ. 3, 38.</ls> <ls>MBH. 14, 671.</ls> {#ArdrEDAgni/#} {%mit grünem Holz genährtes Feuer%} 
-<ls>ŚAT. BR. 14, 5, 4, 10. 7, 3, 11</ls> <ls>?= BṚH. ĀR. UP. 2, 4, 10. 4, 5, 11.</ls> {#ArdravfkzI/ya#} <lex>adj.</lex> von {#Ardravfkza#} <is>gaṇa</is> {#utkarAdi#} zu 
-<ls>P. 4, 2, 90.</ls> 
-<div n="2">— c) {%frisch, neu%}: {#ArdrAparADa#} 
-<ls>AMAR. 2.</ls> {#°Soka#} 
-<ls>KATHĀS. 21, 113.</ls> <ls>?ad MEGH. 112.</ls> {#Ardrasya SokaprahArasya#} 
-<ls>PRAB. 94, 8. 10.</ls> 
-<div n="2">— d) {%sanft, weich, gefühlvoll, warm%}: {#Ardrahfdaya#} 
-<ls>PAÑCAT. 101, 24.</ls> 
-<ls>KATHĀS. 22, 65.</ls> {#ArdrAntarAtman#} 
-<ls>MEGH. 91.</ls> 
-<ls>RĀJA-TAR. 5, 194.</ls> {#snehArdrahfdaya#} 
-<ls>PAÑCAT. 8, 19.</ls> {#BAvardramasyA manaH#} 
-<ls>VIKR. 72.</ls> {#dayArdraDI#} 
-<ls>KATHĀS. 9, 63.</ls> {#dayArdraBAva#} 
-<ls>RAGH. 2, 11.</ls> {#premArdramAnasA#} 
-<ls>VID. 124.</ls> {#premArdrArdrEH - IkzaREH#} 
-<ls>AMAR. 4.</ls> {#sadBAvArdraH Palati nacireRopakAro mahatsu#} ad 
-<ls>MEGH. 18.</ls> 
-<div n="1">— 2) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#arDarcAdi#} zu 
-<ls>P. 2, 4, 31.</ls> Wohl gleichdeutend mit {#Ardraka#} . 
-<div n="1">— 3) <lex>m.</lex> N. pr. ein Grossohn <is>Pṛthus</is> 
-<ls>HARIV. 669. fg.</ls> 
-<ls>VP. 361.</ls> 
-<div n="1">— 4) <lex>f.</lex> {#ArdrA#} {%das vierte%} <is>Nakṣatra</is> 
-<ls>AV. 19, 7, 2.</ls> {#A\rdrA nakza^traM ru\dro de\vatA^#} 
-<ls>TS. 4, 4, 10, 1.</ls> 
-<ls>TAITT. BR. 3, 1, 1, 4.</ls> {%das sechste%} 
-<ls>H. 110.</ls> 
-<ls>COLEBR. Misc. Ess. II, 332.</ls> <ls>VP. 226, N. 21.</ls> {#nakzatraBede#} 
-<ls>MED. r. 7.</ls> {#Ardranakzatrasaptame#} (Kürze!) 
-<ls>VET. 16, 19.</ls> 
+{#kustumburI#}
+<ls n="SUŚR. 1,">218,4.</ls> <ls n="SUŚR.">2,36,20.</ls> <ls n="SUŚR. 2,">276,21.</ls> <ls>ĀŚV. GṚHY. 1,11.</ls> <ls>M. 12,101.</ls> <ls>YĀJÑ. 3,38.</ls> <ls>MBH. 14,671.</ls> {#ArdrEDAgni/#} {%mit grünem Holz genährtes Feuer%}
+<ls>ŚAT. BR. 14,5,4,10.</ls> <ls n="ŚAT. BR. 14,">7,3,11</ls> = <ls>BṚH. ĀR. UP. 2,4,10.</ls> <ls n="BṚH. ĀR. UP.">4,5,11.</ls> {#ArdravfkzI/ya#} <lex>adj.</lex> von {#Ardravfkza#} <is>gaṇa</is> {#utkarAdi#} zu
+<ls>P. 4,2,90.</ls>
+<div n="2">— c) {%frisch, neu%}: {#ArdrAparADa#}
+<ls>AMAR. 2.</ls> {#°Soka#}
+<ls>KATHĀS. 21,113.</ls> ad <ls>MEGH. 112.</ls> {#Ardrasya SokaprahArasya#}
+<ls>PRAB. 94,8. 10.</ls>
+<div n="2">— d) {%sanft, weich, gefühlvoll, warm%}: {#Ardrahfdaya#}
+<ls>PAÑCAT. 101,24.</ls>
+<ls>KATHĀS. 22,65.</ls> {#ArdrAntarAtman#}
+<ls>MEGH. 91.</ls>
+<ls>RĀJA-TAR. 5,194.</ls> {#snehArdrahfdaya#}
+<ls>PAÑCAT. 8,19.</ls> {#BAvardramasyA manaH#}
+<ls>VIKR. 72.</ls> {#dayArdraDI#}
+<ls>KATHĀS. 9,63.</ls> {#dayArdraBAva#}
+<ls>RAGH. 2,11.</ls> {#premArdramAnasA#}
+<ls>VID. 124.</ls> {#premArdrArdrEH — IkzaREH#}
+<ls>AMAR. 4.</ls> {#sadBAvArdraH Palati nacireRopakAro mahatsu#} ad
+<ls>MEGH. 18.</ls>
+<div n="1">— 2) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#arDarcAdi#} zu
+<ls>P. 2,4,31.</ls> Wohl gleichdeutend mit {#Ardraka#} .
+<div n="1">— 3) <lex>m.</lex> N. pr. ein Grossohn <is>Pṛthus</is>
+<ls>HARIV. 669. fg.</ls>
+<ls>VP. 361.</ls>
+<div n="1">— 4) <lex>f.</lex> {#ArdrA#} {%das vierte%} <is>Nakṣatra</is>
+<ls>AV. 19,7,2.</ls> {#A\rdrA nakza^traM ru\dro de\vatA^#}
+<ls>TS. 4,4,10,1.</ls>
+<ls>TAITT. BR. 3,1,1,4.</ls> {%das sechste%}
+<ls>H. 110.</ls>
+<ls>COLEBR. Misc. Ess. II,332.</ls> <ls>VP. 226, N. 21.</ls> {#nakzatraBede#}
+<ls>MED. r. 7.</ls> {#Ardranakzatrasaptame#} (Kürze!)
+<ls>VET. 16,19.</ls>
 <div n="v">— Vgl. {#sArdra#}, wo {#Ardra#} als nom. abstr. ({%Feuchtigkeit%}) aufzufassen ist.
 <LEND>

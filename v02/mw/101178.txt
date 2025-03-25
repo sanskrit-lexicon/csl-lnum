@@ -1,3 +1,5 @@
-<L>101178<pc>516,1<k1>DAvanI<k2>DAvanI<h>a<e>2
-<s>DAvanI<shortlong/></s> <hom>a</hom> ¦ <lex>f.</lex> <bot>Uraria Lagopodioides</bot>, <ls>Bhpr.</ls><info orsl="101178,DAvanI;101178.1,DAvani"/><info lex="f"/>
+<L>101178<pc>516,1<k1>DAvanI<k2>DAvanI<e>2
+<s>DAvanI</s> or <s>DAvani</s> ¦ <lex>f.</lex> <bot>Uraria Lagopodioides</bot>, <ls>Bhpr.</ls>
+<div n="P"/> <s>°nI</s>, <lex>f.</lex> <bot>Solanum Jacquini</bot> or <bot>Grislea Tomentosa</bot>, <ls>L.</ls>
+<div n="P"/> <s>°nikA</s>, <lex>f.</lex> <bot>Solanum Jacquini</bot>, <ls>L.</ls><info lex="f"/><info lex="f"/><info hui="a"/>
 <LEND>

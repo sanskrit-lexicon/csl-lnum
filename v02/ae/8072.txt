@@ -1,16 +1,16 @@
 <L>8072<pc>349<k1>poison<k2>poison
 {@Poison,@}¦ {%s.%} {#vizaH-zaM, garalaM, kzveqaH, jAMgulaM;#}
-<div n="lb"/>‘administering p.’ {#vizaprayogaH-dAnaM;#}
-<div n="lb"/>‘curing p.’ {#vizaGna#} ({#GnI#} {%f.%}), {#vizApaha,#}
-<div n="lb"/>{#vizahara#} ({#rI#} {%f.%}); ‘curer of p.’ {#vizavEdyaH,#}
-<div n="lb"/>{#jAMgulikaH#}. {%-v. t.%} {#vizeRa dih#} 2 U or {#aMj#}
-<div n="lb"/>7 P or {#miSr#} 10. {@2@} {#vizaM dA#} 3 U, {#vizadA-#}
-<div n="lb"/>{#-nena han#} 2 P or {#mf#} c. or {#naS#} c.; (oneself)
-<div n="lb"/>{#vizaM Bakz#} 10 or {#sev#} 1 A or {#Buj#} 7 A. {@3@}
-<div n="lb"/>{#kaluzIkf#} 8 U, {#duz#} c. ({#dUzayati#}). {@-ed,@} {%a.%}
-<div n="lb"/>{#vizAkta, vizadigDa, vizalipta;#} ‘p. arrow’
-<div n="lb"/>{#vizAktaH, digDaH, liptakaH#}. {@2@} {#vizanASita#}.
-<div n="lb"/>{@-er,@} {%s.%} {#vizaGAtin#} {%m.,%} {#vizadAyin#} {%m.%} {@-ous,@}
-<div n="lb"/>{%a.%} {#vizamaya#} ({#yI#} {%f.%}), {#saviza, vizAlu, sagara,#}
-<div n="lb"/>{#vizapUrRa, garaviSizwa, viza#} in comp.
+‘administering p.’ {#vizaprayogaH-dAnaM;#}
+‘curing p.’ {#vizaGna#} ({#GnI#} {%f.%}), {#vizApaha,#}
+{#vizahara#} ({#rI#} {%f.%}); ‘curer of p.’ {#vizavEdyaH,#}
+{#jAMgulikaH#}. {%-v. t.%} {#vizeRa dih#} 2 U or {#aMj#}
+7 P or {#miSr#} 10. {@2@} {#vizaM dA#} 3 U, {#vizadA-#}
+{#-nena han#} 2 P or {#mf#} c. or {#naS#} c.; (oneself)
+{#vizaM Bakz#} 10 or {#sev#} 1 A or {#Buj#} 7 A. {@3@}
+{#kaluzIkf#} 8 U, {#duz#} c. ({#dUzayati#}). {@-ed,@} {%a.%}
+{#vizAkta, vizadigDa, vizalipta;#} ‘p. arrow’
+{#vizAktaH, digDaH, liptakaH#}. {@2@} {#vizanASita#}.
+{@-er,@} {%s.%} {#vizaGAtin#} {%m.,%} {#vizadAyin#} {%m.%} {@-ous,@}
+{%a.%} {#vizamaya#} ({#yI#} {%f.%}), {#saviza, vizAlu, sagara,#}
+{#vizapUrRa, garaviSizwa, viza#} in comp.
 <LEND>

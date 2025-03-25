@@ -1,16 +1,16 @@
 <L>84480<pc>6-0344<k1>rAmakfzRa<k2>rAmakfzRa
-{#rAmakfzRa#}¦ <lex>m.</lex> N. pr. verschiedener Männer 
-<ls>COLEBR. Misc. Ess.</ls> <ls>?I,230. 234. II,453. Ind. St.1,27. 59.3,250. Verz. d. B. H. No. 166. 267. 330. 630. 673. 965. 1019. Verz. d. Oxf. H. 141,a,20. 223,a, No. 541. fg. 277,a, No. 654. 289,b, No. 694. 291,a, No. 705. 321,b, No. 763. 394,a, No. 103. HALL 25. 27. 98. 181.</ls> {#°tIrTa#} 
-<ls>GILD. Bibl. 421. fg.</ls> {#°dIkzita#} 
-<ls>HALL 100.</ls> 
-<ls>COLEBR. Misc. Ess. I, 336.</ls> {#°deva#} 
-<ls>II, 454.</ls> {#°paRqita#} 
-<ls>HALL 105.</ls> {#°Bawwa#} 
-<ls>173. fgg. 181. 183.</ls> <ls>Verz. d. B. H. No. 140. 966. 1223.</ls> {#°BawwAcArya#} 
-<ls>HALL 8.</ls> {#°BawwAcAryacakravartin#} 
-<ls>66.</ls> {#°rAya#} 
-<ls>KṢITĪŚ. 33, 5. 45, 1.</ls> {#rAmakfzRAcArya#} 
-<ls>Verz. d. B. H. No. 540.</ls> {#rAmakfzRADvarin#} 
-<ls>HALL 100.</ls> {#rAmakfzRAnandatIrTa#} 
-<ls>136. 189.</ls>
+{#rAmakfzRa#}¦ <lex>m.</lex> N. pr. verschiedener Männer
+<ls>COLEBR. Misc. Ess. I,230. 234. II,453.</ls> <ls>Ind. St. 1,27. 59. 3,250.</ls> <ls>Verz. d. B. H. No. 166. 267. 330. 630. 673. 965. 1019.</ls> <ls>Verz. d. Oxf. H. 141,a,20. 223,a, No. 541. fg. 277,a, No. 654. 289,b, No. 694. 291,a, No. 705. 321,b, No. 763. 394,a, No. 103.</ls> <ls>HALL 25. 27. 98. 181.</ls> {#°tIrTa#}
+<ls>GILD. Bibl. 421. fg.</ls> {#°dIkzita#}
+<ls>HALL 100.</ls>
+<ls>COLEBR. Misc. Ess. I,336.</ls> {#°deva#}
+<ls n="COLEBR. Misc. Ess.">II,454.</ls> {#°paRqita#}
+<ls>HALL 105.</ls> {#°Bawwa#}
+<ls n="HALL">173. fgg. 181. 183.</ls> <ls>Verz. d. B. H. No. 140. 966. 1223.</ls> {#°BawwAcArya#}
+<ls>HALL 8.</ls> {#°BawwAcAryacakravartin#}
+<ls n="HALL">66.</ls> {#°rAya#}
+<ls>KṢITĪŚ. 33,5. 45,1.</ls> {#rAmakfzRAcArya#}
+<ls>Verz. d. B. H. No. 540.</ls> {#rAmakfzRADvarin#}
+<ls>HALL 100.</ls> {#rAmakfzRAnandatIrTa#}
+<ls n="HALL">136. 189.</ls>
 <LEND>

@@ -1,3 +1,3 @@
 <L>107852<pc>544,3<k1>nikAyin<k2>ni-kAyin<e>3
-<s>ni-°kAyin</s> ¦ <lex>m.</lex> a series of sacrifices having all the same name but different rewards, <ls>ĀpY.</ls> <info n="rev" pc="1329,3"/><info lex="m"/>
+<s>ni-°kAyin</s> ¦ <lex>m.</lex> <chg type="chg" n="1" src="mw"><old><ab>N.</ab> of a <ab>partic.</ab> sacrifice, <ls>L.</ls></old><new>a series of sacrifices having all the same name but different rewards, <ls>ĀpY.</ls></new></chg> <info n="rev" pc="1329,3"/><info lex="m"/>
 <LEND>

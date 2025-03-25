@@ -1,5 +1,5 @@
 <L>21214<pc>668<k1>spoke<k2>spoke
-<div n="lb"/>{@SPOKE:@}¦ <div n="1">(1) {#aram#} <div n="xe">{%or%}</div> <div n="xs">{#ArA,#}</div> <div n="xe">{%a row of s. s:%}</div> <div n="xs">{#ArAvalI,#}</div>
-<div n="lb"/>V. iv.; </div><div n="1">(2) {#sakTi,#} <div n="xe">{%a cart with long s. s:%}</div> <div n="xs">{#dIrGa-#}
-<div n="lb"/>{#saviTa Sakawam,#}</div> S. k.</div>
+{@SPOKE:@}¦ <div n="1">(1) {#aram#} <div n="xe">{%or%}</div> <div n="xs">{#ArA,#}</div> <div n="xe">{%a row of s. s:%}</div> <div n="xs">{#ArAvalI,#}</div>
+V. iv.; </div><div n="1">(2) {#sakTi,#} <div n="xe">{%a cart with long s. s:%}</div> <div n="xs">{#dIrGa-#}
+{#saviTa Sakawam,#}</div> S. k.</div>
 <LEND>

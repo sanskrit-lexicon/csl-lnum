@@ -1,17 +1,17 @@
 <L>38667<pc>4-0130<k1>nikawa<k2>nikawa
-{#nikawa#}¦ (1. {#ni + kawa#}) <lex>adj.</lex> {%zur Seite befindlich, nahe gelegen%}; subst. (m. <lex>n.</lex> 
-<ls>SIDDH. K.249,a,3.4</ls>) {%Nähe%} 
-<ls>AK. 3, 2, 16. 3, 4, 32</ls> <ls>?(COLEBR. 28), 15. H. 1450.</ls> {#gamyatAM kiMcinnikawaM saraH#} 
-<ls>PAÑCAT. 77, 15.</ls> {#nikawIBUta#} {%der sich genähert hat%} 
-<ls>KATHĀS. 19, 87.</ls> {#AnItAM rAjanikawam#} {%in die Nähe von, zu%} 
-<ls>3, 73.</ls> {#sa ca prApa nikawaM BogavarmaRaH#} 
-<ls>5, 68. 10, 96. 111. 157.</ls> <ls>VID. 81.</ls> <ls>RĀJA-TAR. 6, 14.</ls> <ls>Z. d. d. m. G. 14, 573, 9.</ls> {#nikawAt#} 
-<ls>SOM. NAL. 105.</ls> 
-<ls>RĀJA-TAR. 2, 165.</ls> {#nikawe#} 
-<ls>P. 4, 4, 73.</ls> 
-<ls>ŚĀNTIŚ. 3, 2.</ls> 
-<ls>KATHĀS. 3, 75. 6, 135.</ls> 
-<ls>BHĀG. P. 8, 8, 24.</ls> 
-<ls>PAÑCAT. 59, 7.</ls> {#nikawavartin#} 
-<ls>140, 25.</ls>
+{#nikawa#}¦ (1. {#ni + kawa#}) <lex>adj.</lex> {%zur Seite befindlich, nahe gelegen%}; subst. (m. <lex>n.</lex>
+<ls>SIDDH. K. 249,a,3. 4</ls>) {%Nähe%}
+<ls>AK. 3,2,16.</ls> <ls n="AK.">3,4,32 (COLEBR. 28),15.</ls> <ls>H. 1450.</ls> {#gamyatAM kiMcinnikawaM saraH#}
+<ls>PAÑCAT. 77,15.</ls> {#nikawIBUta#} {%der sich genähert hat%}
+<ls>KATHĀS. 19,87.</ls> {#AnItAM rAjanikawam#} {%in die Nähe von, zu%}
+<ls n="KATHĀS.">3,73.</ls> {#sa ca prApa nikawaM BogavarmaRaH#}
+<ls n="KATHĀS.">5,68.</ls> <ls n="KATHĀS.">10,96.</ls> <ls n="KATHĀS. 10,">111.</ls> <ls n="KATHĀS. 10,">157.</ls> <ls>VID. 81.</ls> <ls>RĀJA-TAR. 6,14.</ls> <ls>Z. d. d. m. G. 14,573,9.</ls> {#nikawAt#}
+<ls>SOM. NAL. 105.</ls>
+<ls>RĀJA-TAR. 2,165.</ls> {#nikawe#}
+<ls>P. 4,4,73.</ls>
+<ls>ŚĀNTIŚ. 3,2.</ls>
+<ls>KATHĀS. 3,75.</ls> <ls n="KATHĀS.">6,135.</ls>
+<ls>BHĀG. P. 8,8,24.</ls>
+<ls>PAÑCAT. 59,7.</ls> {#nikawavartin#}
+<ls n="PAÑCAT.">140,25.</ls>
 <LEND>

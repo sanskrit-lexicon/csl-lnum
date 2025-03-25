@@ -1,9 +1,9 @@
 <L>15905<pc>389-a<k1>influence<k2>influence
-<div n="lb"/>INFLUENCE¦, {%s.%} {#praBAvaH, aDikAraH, gOravaM, vaSaM, SaktiH#} {%f.,%} {#balaM, BAraH, praBavaH,#}
-<div n="lb"/>{#praButA, karttftvaM, kzamatA, pratApaH, sAmarTyaM, guRaH, kAryyakAritvaM, guRakAritA,#}
-<div n="lb"/>{#vyApakatA, vyAptiH#} {%f.;%} ‘the influence of love,’ {#kAmADikAraH;#}
-<div n="lb"/>‘under the influence of love,’ {#kAmavaSaH -SA -SaM, kAmADizWitaH#}
-<div n="lb"/>{#-tA -taM, kAmopahataH -tA -taM;#} ‘through the influence of love,’
-<div n="lb"/>{#kAmavaSAt;#} ‘through the influence of alarm,’ {#sADvasavaSAt;#}
-<div n="lb"/>‘planetary influence,’ {#grahAveSaH#}.
+INFLUENCE¦, {%s.%} {#praBAvaH, aDikAraH, gOravaM, vaSaM, SaktiH#} {%f.,%} {#balaM, BAraH, praBavaH,#}
+{#praButA, karttftvaM, kzamatA, pratApaH, sAmarTyaM, guRaH, kAryyakAritvaM, guRakAritA,#}
+{#vyApakatA, vyAptiH#} {%f.;%} ‘the influence of love,’ {#kAmADikAraH;#}
+‘under the influence of love,’ {#kAmavaSaH -SA -SaM, kAmADizWitaH#}
+{#-tA -taM, kAmopahataH -tA -taM;#} ‘through the influence of love,’
+{#kAmavaSAt;#} ‘through the influence of alarm,’ {#sADvasavaSAt;#}
+‘planetary influence,’ {#grahAveSaH#}.
 <LEND>

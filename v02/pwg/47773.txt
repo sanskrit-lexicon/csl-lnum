@@ -1,21 +1,21 @@
 <L>47773<pc>4-0913<k1>praKya<k2>praKya
-{#praKya#}¦ (von {#KyA#} mit {#pra#}) 
-<div n="1"> 1) <lex>adj.</lex> oxyt. {%sichtbar%} 
-<ls>ŚAT. BR. 3, 8, 3, 12.</ls> {%klar, hell%}: {#yaTAdarSatale praKye paSyatyAtmAmanAtmanA#} 
-<ls>MBH. 12, 7447.</ls> {#apraKyatA#} <lex>f.</lex> viell. {%Unansehnlichkeit%}: {#akzamA hrIparityAgaH SrInASo DarmasaMkzayaH . aBiDyApraKyatA cEva sarvaM loBAtpravartate ..#} 
-<ls>MBH. 12, 5881.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#A#} 
-<div n="2"> a) {%Aussehen%} (am Ende eines <lex>adj.</lex> comp.): {#saraH surucirapraKyam#} 
-<ls>MBH. 13, 547.</ls> {#mahAgirisamapraKya#} 
-<ls>1, 371. 3, 8706. 7, 6253</ls> (wo {#praKyaM#} zu lesen ist). 
-<ls>7, 7997</ls> (wo {#°samapraKyas#} st. {#°samaprakzas#} zu lesen ist). Gewöhnlich ohne {#sama#} gleich auf das subst. folgend 
-<ls>H. 1462.</ls> 
-<ls>HALĀY. 4, 9.</ls> {#SaSaNkakiraRapraKya#} {%Mondstrahlen ähnlich%} 
-<ls>MBH. 1, 1236.</ls> {#amftarasa° (anna)#} 
-<ls>?13, 1492. 4472. N. 13, 37. 21, 11. HARIV. 13039. YĀJÑ. 3, 10. R. 1, 9, 17. 15, 17. 22, 23. 47, 17. 2, 52, 8. 6, 16, 20. 70, 19. SUŚR. 2, 117, 17. 248, 20. KATHĀS. 43, 65. 47, 108. 49, 236. ad MEGH. 86</ls> (wo {#tanvIM meGapraKyA#} zu lesen ist). 
-<ls>BHĀG. P. 6, 15, 23.</ls> 
-<div n="2">— b) {%Wahrnehmbarkeit%}: {#praKyABAvAt ( = pratyakzABAvAt#} 
-<ls>Schol.</ls>) <ls>JAIM. 1, 22.</ls> 
-<div n="2">— c) {%das Offenbarmachen%}: {#apavAda = dozapraKyA#} 
-<ls>DAŚAR. 1, 41.</ls>
+{#praKya#}¦ (von {#KyA#} mit {#pra#})
+<div n="1"> 1) <lex>adj.</lex> oxyt. {%sichtbar%}
+<ls>ŚAT. BR. 3,8,3,12.</ls> {%klar, hell%}: {#yaTAdarSatale praKye paSyatyAtmAmanAtmanA#}
+<ls>MBH. 12,7447.</ls> {#apraKyatA#} <lex>f.</lex> viell. {%Unansehnlichkeit%}: {#akzamA hrIparityAgaH SrInASo DarmasaMkzayaH . aBiDyApraKyatA cEva sarvaM loBAtpravartate ..#}
+<ls>MBH. 12,5881.</ls>
+<div n="1">— 2) <lex>f.</lex> {#A#}
+<div n="2"> a) {%Aussehen%} (am Ende eines <lex>adj.</lex> comp.): {#saraH surucirapraKyam#}
+<ls>MBH. 13,547.</ls> {#mahAgirisamapraKya#}
+<ls n="MBH.">1,371.</ls> <ls n="MBH.">3,8706.</ls> <ls n="MBH.">7,6253</ls> (wo {#praKyaM#} zu lesen ist).
+<ls n="MBH.">7,7997</ls> (wo {#°samapraKyas#} st. {#°samaprakzas#} zu lesen ist). Gewöhnlich ohne {#sama#} gleich auf das subst. folgend
+<ls>H. 1462.</ls>
+<ls>HALĀY. 4,9.</ls> {#SaSaNkakiraRapraKya#} {%Mondstrahlen ähnlich%}
+<ls>MBH. 1,1236.</ls> {#amftarasa° (anna)#}
+<ls n="MBH.">13,1492.</ls> <ls n="MBH. 13,">4472</ls>. <ls>N. 13,37.</ls> <ls n="N.">21,11.</ls> <ls>HARIV. 13039.</ls> <ls>YĀJÑ. 3,10.</ls> <ls>R. 1,9,17.</ls> <ls n="R. 1,">15,17.</ls> <ls n="R. 1,">22,23.</ls> <ls n="R. 1,">47,17.</ls> <ls n="R.">2,52,8.</ls> <ls n="R.">6,16,20.</ls> <ls n="R. 6,">70,19.</ls> <ls>SUŚR. 2,117,17. 248,20.</ls> <ls>KATHĀS. 43,65.</ls> <ls n="KATHĀS.">47,108.</ls> <ls n="KATHĀS.">49,236.</ls> ad <ls>MEGH. 86</ls> (wo {#tanvIM meGapraKyA#} zu lesen ist).
+<ls>BHĀG. P. 6,15,23.</ls>
+<div n="2">— b) {%Wahrnehmbarkeit%}: {#praKyABAvAt ( = pratyakzABAvAt#}
+<ls>Schol.</ls>) <ls>JAIM. 1,22.</ls>
+<div n="2">— c) {%das Offenbarmachen%}: {#apavAda = dozapraKyA#}
+<ls>DAŚAR. 1,41.</ls>
 <LEND>

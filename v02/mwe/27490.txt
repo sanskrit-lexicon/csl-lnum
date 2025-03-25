@@ -1,28 +1,28 @@
 <L>27490<pc>754-a<k1>snake<k2>snake
-<div n="lb"/>SNAKE¦, {%s.%} {#sarpaH, ahiH#} {%m.,%} {#BujaNgaH, BujaNgamaH, BujagaH, uragaH, uraNgaH,#}
-<div n="lb"/>{#uraNgamaH, uraHsaraH, vyAlaH, nAgaH, pannagaH, sarIsfpaH, aRqajaH, vileSayaH,#}
-<div n="lb"/>{#vilavAsI#} {%m.%} {#(n), vizaDaraH, vizAnanaH, vizAsyaH, vizAyuDaH, ASI-#}
-<div n="lb"/>{#vizaH, dIrGajihvaH, dIrGarasanaH, dvijihvaH, dvirasanaH, dIrGapfzWaH, dfkkarRaH,#}
-<div n="lb"/>{#cakzuHSravAH#} {%m.%} {#(s), latAjihvaH, latArasanaH, vAyuBakzaH, pavanASanaH,#}
-<div n="lb"/>{#SvasanASana, jihmagaH, BekaBuk#} {%m.%} {#(j), maRqUkaBuk, cakrI#} {%m.%} {#(n), kaYcu-#}
-<div n="lb"/>{#kI#} {%m.,%} {#kAkodaraH, kaYcukAluH#} {%m.,%} {#gUQapAd#} {%m.,%} {#gUQapAdaH, kuRqalI#} {%m.%}
-<div n="lb"/>{#(n), dandaSUkaH, pfdAkuH#} {%m.,%} {#sfdaraH, samakolaH, takzakaH, tfPUH#} {%m.,%} {#vyAqaH,#}
-<div n="lb"/>{#sarpI#} {%m.%} ({#n#}); ‘hooded snake,’ {#PaRI#} {%m.%} {#(n), BogI#} {%m.,%} {#PaRavAn#} {%m.%}
-<div n="lb"/>{#(t), BogavAn#} {%m.,%} {#PaRAvAn, PaRaBft#} {%m.,%} {#PaRaDaraH, PaRADaraH, PaRABaraH,#}
-<div n="lb"/>{#PaRakaraH, darvIkaraH;#} ‘female snake,’ {#sarpI, sarpiRI, BujagI, BujaNgI;#}
-<div n="lb"/>‘variegated snake,’ {#mAluDAnaH, mAtulAhiH#} {%m.;%} ‘other sorts
-<div n="lb"/>of snakes,’ {#gonasaH, gonAsaH, tilitsaH, ajagaraH, SayuH#} {%m.,%} {#vAhasaH,#}
-<div n="lb"/>{#rAjilaH, quRquH, quRquBaH, rAjAhiH#} {%m.,%} {#nAgaBid#} {%m.;%} ‘a water-
-<div n="lb"/>snake,’ {#jalavyAlaH, kAlakandakaH, alagardaH, alagardDaH;#} ‘the king
-<div n="lb"/>of the snakes that inhabit the infernal regions, forming
-<div n="lb"/>the couch and canopy of Vishnu, and upholding the world
-<div n="lb"/>which rests on one of his thousand heads,’ {#SezaH, anantaH,#}
-<div n="lb"/>{#sarpeSvaraH, PaRISvaraH;#} ‘other kings and chiefs of the snakes,’
-<div n="lb"/>{#vAmukiH#} {%m.,%} {#sarparAjaH, takzakaH, SaNKaH, mahApadmaH;#} ‘the expanded
-<div n="lb"/>[Page754-b+ 51]
-<div n="lb"/>hood of a snake,’ {#PaRaH -RA, BogaH, sPawA, sPowA, daviH -rvI, darbiH#}
-<div n="lb"/>{#-rbI;#} ‘his skin,’ {#kaYcukaH, nirmokaH,#} {%see%} SLOUGH; ‘a snake
-<div n="lb"/>that has cast his skin,’ {#nirmuktaH, muktakaYcukaH;#} ‘his venom,’
-<div n="lb"/>{#garalaM, vizaM, kzveqaH;#} ‘his fang,’ {#vipadantaH, ASI, ASis#} {%f.,%} {#sarpadaMzwraH#}.
-<div n="lb"/> — (Bitten by a snake) {#ahidazwaH -zwA -zwaM, ahividazwaH#} &c.
+SNAKE¦, {%s.%} {#sarpaH, ahiH#} {%m.,%} {#BujaNgaH, BujaNgamaH, BujagaH, uragaH, uraNgaH,#}
+{#uraNgamaH, uraHsaraH, vyAlaH, nAgaH, pannagaH, sarIsfpaH, aRqajaH, vileSayaH,#}
+{#vilavAsI#} {%m.%} {#(n), vizaDaraH, vizAnanaH, vizAsyaH, vizAyuDaH, ASI-#}
+{#vizaH, dIrGajihvaH, dIrGarasanaH, dvijihvaH, dvirasanaH, dIrGapfzWaH, dfkkarRaH,#}
+{#cakzuHSravAH#} {%m.%} {#(s), latAjihvaH, latArasanaH, vAyuBakzaH, pavanASanaH,#}
+{#SvasanASana, jihmagaH, BekaBuk#} {%m.%} {#(j), maRqUkaBuk, cakrI#} {%m.%} {#(n), kaYcu-#}
+{#kI#} {%m.,%} {#kAkodaraH, kaYcukAluH#} {%m.,%} {#gUQapAd#} {%m.,%} {#gUQapAdaH, kuRqalI#} {%m.%}
+{#(n), dandaSUkaH, pfdAkuH#} {%m.,%} {#sfdaraH, samakolaH, takzakaH, tfPUH#} {%m.,%} {#vyAqaH,#}
+{#sarpI#} {%m.%} ({#n#}); ‘hooded snake,’ {#PaRI#} {%m.%} {#(n), BogI#} {%m.,%} {#PaRavAn#} {%m.%}
+{#(t), BogavAn#} {%m.,%} {#PaRAvAn, PaRaBft#} {%m.,%} {#PaRaDaraH, PaRADaraH, PaRABaraH,#}
+{#PaRakaraH, darvIkaraH;#} ‘female snake,’ {#sarpI, sarpiRI, BujagI, BujaNgI;#}
+‘variegated snake,’ {#mAluDAnaH, mAtulAhiH#} {%m.;%} ‘other sorts
+of snakes,’ {#gonasaH, gonAsaH, tilitsaH, ajagaraH, SayuH#} {%m.,%} {#vAhasaH,#}
+{#rAjilaH, quRquH, quRquBaH, rAjAhiH#} {%m.,%} {#nAgaBid#} {%m.;%} ‘a water-
+snake,’ {#jalavyAlaH, kAlakandakaH, alagardaH, alagardDaH;#} ‘the king
+of the snakes that inhabit the infernal regions, forming
+the couch and canopy of Vishnu, and upholding the world
+which rests on one of his thousand heads,’ {#SezaH, anantaH,#}
+{#sarpeSvaraH, PaRISvaraH;#} ‘other kings and chiefs of the snakes,’
+{#vAmukiH#} {%m.,%} {#sarparAjaH, takzakaH, SaNKaH, mahApadmaH;#} ‘the expanded
+[Page754-b+ 51]
+hood of a snake,’ {#PaRaH -RA, BogaH, sPawA, sPowA, daviH -rvI, darbiH#}
+{#-rbI;#} ‘his skin,’ {#kaYcukaH, nirmokaH,#} {%see%} SLOUGH; ‘a snake
+that has cast his skin,’ {#nirmuktaH, muktakaYcukaH;#} ‘his venom,’
+{#garalaM, vizaM, kzveqaH;#} ‘his fang,’ {#vipadantaH, ASI, ASis#} {%f.,%} {#sarpadaMzwraH#}.
+ — (Bitten by a snake) {#ahidazwaH -zwA -zwaM, ahividazwaH#} &c.
 <LEND>

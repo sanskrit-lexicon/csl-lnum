@@ -1,19 +1,19 @@
 <L>58918<pc>5-0652<k1>mahArha<k2>mahArha
-{#mahArha#}¦ {#(mahA + arha)#} 
-<div n="1"> 1) <lex>adj.</lex> {%werthvoll, köstlich, prächtig%}: {#ABaraRa#} 
-<ls>MBH. 1, 7647.</ls> {#ratna#} 
-<ls>Spr. 2585.</ls> 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 198, 16.</ls> {#candana#} 
-<ls>R. GORR. 2, 61, 20.</ls> {#Sayana#} 
-<ls>MBH. 1, 5907.</ls> 
-<ls>R. 2, 53, 5.</ls> 
-<ls>KUMĀRAS. 5, 12.</ls> {#Bojana#} 
-<ls>R. 1, 52, 22.</ls> {#pAnAni#} 
-<ls>53, 2. 4, 50, 34.</ls> {#BogAH#} 
-<ls>1, 9, 68.</ls> {#upacAra#} 
-<ls>KATHĀS. 58, 22. 61, 225.</ls> {#parikara#} 
-<ls>55, 88</ls> {#(su°)#}.{# varANgAni mahArhARi (= mahApUjAyogyAni#} Schol.) {#DanuzA SAtayAmi vaH#} 
-<ls>R. 1, 66, 10.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%weisses Sandelholz%} 
+{#mahArha#}¦ ({#mahA + arha#})
+<div n="1"> 1) <lex>adj.</lex> {%werthvoll, köstlich, prächtig%}: {#ABaraRa#}
+<ls>MBH. 1,7647.</ls> {#ratna#}
+<ls>Spr. 2585.</ls>
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 198,16.</ls> {#candana#}
+<ls>R. GORR. 2,61,20.</ls> {#Sayana#}
+<ls>MBH. 1,5907.</ls>
+<ls>R. 2,53,5.</ls>
+<ls>KUMĀRAS. 5,12.</ls> {#Bojana#}
+<ls>R. 1,52,22.</ls> {#pAnAni#}
+<ls n="R. 1,">53,2.</ls> <ls n="R.">4,50,34.</ls> {#BogAH#}
+<ls n="R.">1,9,68.</ls> {#upacAra#}
+<ls>KATHĀS. 58,22.</ls> <ls n="KATHĀS.">61,225.</ls> {#parikara#}
+<ls n="KATHĀS.">55,88</ls> ({#su°#}).{# varANgAni mahArhARi (= mahApUjAyogyAni#} Schol.) {#DanuzA SAtayAmi vaH#}
+<ls>R. 1,66,10.</ls>
+<div n="1">— 2) <lex>n.</lex> {%weisses Sandelholz%}
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
 <LEND>

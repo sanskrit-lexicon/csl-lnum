@@ -1,8 +1,8 @@
 <L>24842<pc>668-b<k1>refreshment<k2>refreshment
-<div n="lb"/>REFRESHMENT¦, {%s.%} (Act of refreshing) {#SramApahAraH, SramApaharaRaM, klAnti-#}
-<div n="lb"/>{#haraRaM, klAntyapahAraH, klAntyapaharaRaM, klAnticCedaH, SramacCedaH, SrAnticCedaH,#}
-<div n="lb"/>{#ApyAyaH -yanaM, viSrAntidAnaM, balavarDanaM, sattvavarDanaM, sattvadAnaM, ASvAsranaM,#}
-<div n="lb"/>{#vimApanaM#}. — (State) {#viSrAntiH#} {%f.,%} {#viSrAmaH, vimlAniH#} {%f.,%} {#vimlAnatA#}.-
-<div n="lb"/>(Food, slight repast) {#upAhAraH, laGuBojanaM, laGvAhAraH, alpA-#}
-<div n="lb"/>{#hAraH, AhAraH#}.
+REFRESHMENT¦, {%s.%} (Act of refreshing) {#SramApahAraH, SramApaharaRaM, klAnti-#}
+{#haraRaM, klAntyapahAraH, klAntyapaharaRaM, klAnticCedaH, SramacCedaH, SrAnticCedaH,#}
+{#ApyAyaH -yanaM, viSrAntidAnaM, balavarDanaM, sattvavarDanaM, sattvadAnaM, ASvAsranaM,#}
+{#vimApanaM#}. — (State) {#viSrAntiH#} {%f.,%} {#viSrAmaH, vimlAniH#} {%f.,%} {#vimlAnatA#}.-
+(Food, slight repast) {#upAhAraH, laGuBojanaM, laGvAhAraH, alpA-#}
+{#hAraH, AhAraH#}.
 <LEND>

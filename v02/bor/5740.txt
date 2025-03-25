@@ -1,10 +1,10 @@
 <L>5740<pc>184<k1>delicate<k2>delicate
-<div n="lb"/>{@DELICATE:@}¦ <div n="I">I Delightful: q. v.: {#lalitaH#} ({#tA, #}
-<div n="lb"/>{# taM#}). </div><div n="I">II Pleasing to the senses: {#maDuraH#} ({#rA, #}
-<div n="lb"/>{# raM#}), <div n="xe">{%d. meat:%}</div> <div n="xs">{#maDuraM mAMsam,#}</div> Bha. </div><div n="I">III Fine, soft,
-<div n="lb"/>feeble: </div><div n="1">(1) {#sukumAraH#} ({#rA, raM#}); </div><div n="1">(2) {#komalaH#} ({#lA, #}
-<div n="lb"/>{# laM#}), <div n="xe">{%with d. limbs:%}</div> <div n="xs">{#komalEraNgEH,#}</div> S. </div><div n="I">IV Refined,
-<div n="lb"/>polite: q. v. </div><div n="I">V Luxurious: q. v. </div><div n="I">VI
-<div n="lb"/>Of subjects, difficult: {#vizamaH#} ({#mA, maM#}).</div>
-<div n="lb"/><div n="I">VII Nice, critical: q. v.</div>
+{@DELICATE:@}¦ <div n="I">I Delightful: q. v.: {#lalitaH#} ({#tA, #}
+{# taM#}). </div><div n="I">II Pleasing to the senses: {#maDuraH#} ({#rA, #}
+{# raM#}), <div n="xe">{%d. meat:%}</div> <div n="xs">{#maDuraM mAMsam,#}</div> Bha. </div><div n="I">III Fine, soft,
+feeble: </div><div n="1">(1) {#sukumAraH#} ({#rA, raM#}); </div><div n="1">(2) {#komalaH#} ({#lA, #}
+{# laM#}), <div n="xe">{%with d. limbs:%}</div> <div n="xs">{#komalEraNgEH,#}</div> S. </div><div n="I">IV Refined,
+polite: q. v. </div><div n="I">V Luxurious: q. v. </div><div n="I">VI
+Of subjects, difficult: {#vizamaH#} ({#mA, maM#}).</div>
+<div n="I">VII Nice, critical: q. v.</div>
 <LEND>

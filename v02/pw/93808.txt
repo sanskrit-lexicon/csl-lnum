@@ -1,59 +1,57 @@
-<L>93808<pc>5184-2<k1>rAD<k2>rAD<e>500
-{#rAD#}¦ , {#rADati#} (vedisch) , {#rADno/tiH#} {#rADyati#} und {#rA/Dyate#} nur mit intransit. Red.
-<div n="1">— 1) {%gerathen , gelingen , fertig werden%} (<ls>TAITT.UP.3,10,1</ls>), {%Gelingen haben , den Zweck erreichen , zurecht kommen , Glück haben mit%} (<ab>Instr.</ab>).
-<div n="1">— 2) {%sich passend fügen.%}
-<div n="1">— 3) {%theilhaftig werden , gelangen in oder nach%} ; mit <ab>Dat.</ab> (<ls>ĀPAST.</ls> ) oder <ab>Loc.</ab>
-<div n="1">— 4) {%*Jmd%} (<ab>Dat.</ab>) {%wahrsagen%} <ls>223,23</ls> ( {#rADyati#})
-<div n="1">— 5) {%richtig%} oder {%glücklich durchführen , zu Stande bringen , fertig — , zurecht machen%} ; mit <ab>Acc.</ab>
-<div n="1">— 6) {%richtig treffen.%}
-<div n="1">— 7) {%Jmd zurecht bringen%} , so v.a. {%gewinnen , befriedigen.%}
-<div n="1">— 8) {%beschädigen%} <ls>BHAṬṬ.</ls>
-<div n="1">— 9) {#rAdDa/#}
-<div n="2">— a) {%fertig geworden , zu Stande gekommen , fertig , vollendet , vollkommen geworden.%} {#rAdDam#} impers. mit <ab>Instr.</ab> der Person und Sache {%es ist der und der damit zu Stande gekommen , es hat der und der dieses erreicht.%}
-<div n="2">— b) {%dem es gelungen ist , glücklich.%}
-<div n="2">— c) {%zu Theil geworden , zugefallen.%} {#nayanamUlam#} so v.a. {%zu Gesicht gekommen.%}
+<L>93808<pc>5-184-b<k1>rAD<k2>rAD
+√{#rAD#}¦, {#rADati#} (vedisch), {#rADno/tiH#} {#rADyati#} und {#rA/Dyate#} nur mit <ab>intransit.</ab> <ab>Bed.</ab>
+<div n="1">— 1〉 {%gerathen, gelingen, fertig werden%} (<ls>TAITT. UP. 3,10,1</ls>), {%Gelingen haben, den Zweck erreichen, zurecht kommen, Glück haben mit%} (<ab>Instr.</ab>).
+<div n="1">— 2〉 {%sich passend fügen%}.
+<div n="1">— 3〉 {%theilhaftig werden, gelangen in oder nach;%} mit <ab>Dat.</ab> (<ls>ĀPAST.</ls>) oder <ab>Loc.</ab>
+<div n="1">— 4〉 *{%Jmd%} (<ab>Dat.</ab>) {%wahrsagen%} <ls n="Chr.">223,23</ls> ({#rADyati#})
+<div n="1">— 5〉 {%richtig%} oder {%glücklich durchführen, zu Stande bringen, fertig —, zurecht machen;%} mit <ab>Acc.</ab>
+<div n="1">— 6〉 {%richtig treffen%}.
+<div n="1">— 7〉 {%Jmd zurecht bringen,%} so <ab>v. a.</ab> {%gewinnen, befriedigen%}.
+<div n="1">— 8〉 {%beschädigen%} <ls>BHAṬṬ.</ls>
+<div n="1">— 9〉 {#rAdDa/#}
+<div n="2">— a〉 {%fertig geworden, zu Stande gekommen, fertig, vollendet, vollkommen geworden%}. {#rAdDam#} <ab>impers.</ab> mit <ab>Instr.</ab> der Person und Sache {%es ist der und der damit zu Stande gekommen, es hat der und der dieses erreicht%}.
+<div n="2">— b〉 {%dem es gelungen ist, glücklich%}.
+<div n="2">— c〉 {%zu Theil geworden, zugefallen%}. {#nayanamUlam#} so <ab>v. a.</ab> {%zu Gesicht gekommen%}.
 <div n="m">— <ab>Caus.</ab> {#rADayati#}
-<div n="1">— 1) {%zu Wege bringen%} <ls>MBH.5,33,116.</ls>
-<div n="1">— 2) {%befriedigen.%}
+<div n="1">— 1〉 {%zu Wege bringen%} <ls>MBH. 5,33,116</ls>.
+<div n="1">— 2〉 {%befriedigen%}.
 <div n="p">— Mit {#anu#}
-<div n="1">— 1) {%glücklich fertig werden mit%} (<ab>Gen.</ab>).
-<div n="1">— 2) {#anurAdDa#} {%zu Theil geworden , zugefallen.%}
+<div n="1">— 1〉 {%glücklich fertig werden mit%} (<ab>Gen.</ab>).
+<div n="1">— 2〉 {#anurAdDa#} {%zu Theil geworden, zugefallen%}.
 <div n="p">— Mit {#apa#}
-<div n="1">— 1) {%fehlen , verfehlen%} (z.B. das Ziel).
-<div n="1">— 2) {%Schuld haben , — tragen , — sein an%} (<ab>Loc.</ab> <ls>CARAKA.1,7</ls>), {%sich Etwas zu Schulden%} ( {%haben%} ) {%kommen lassen , sich vergehen gegen Etwas%} (<ab>Loc.</ab>) oder {%Jmd%} (<ab>Gen.</ab>) , {%Etwas verbrochen haben gegen Jmd%} (<ab>Gen.</ab>). Häufig in Verbindung mit {#kim#} {%was?%} und {#kiM#} {#cit#} {%Etwas.%}
-<div n="1">— 3) {#aparAdDa#}
-<div n="2">— a) {%gefehlt — , nicht getroffen habend%} (mit <ab>Abl.</ab>) von einem Pfeile.
-<div n="2">— b) {%der sich Etwas hat zu Schulden kommen lassen , schuldig , der sich vergangen hat an Jmd%} (<ab>Gen.</ab> , selten <ab>Loc.</ab>).
-<div n="2">— c) {%gefehlt — , gesündigt von%} (<ab>Instr.</ab>) {%gegen%} (<ab>Gen.</ab>). Nur mit dem Subject {#kim#} {%was?%} und {#yad#} {%was.%} {#kimaparAdDaM#} {#kAraRatvena#} so v.a. {%was ist daran auszusetzen , das es Ursache ist.%}
-<div n="2">— d) impers. {%es ist gefehlt — , verbrochen — , gesündigt worden von%} (<ab>Instr.</ab> , selten <ab>Gen.</ab>) {%gegen%} (<ab>Gen.</ab> , selten <ab>Loc.</ab>).
-<div n="p">— Mit {#aBi#} , {#°rAdDa#} {%befriedigt , gewonnen.%}
-<div n="m">— <ab>Caus.</ab> {%zufriedenstellen%} ,
-[Page5184-3]
-{%befriedigen.%}
-<div n="m">— <ab>Desid.</ab> vom <ab>Caus.</ab> {#aBiri/rADayizati#} (im einem Relativ-Satze) {%befriedigen wollen.%}
+<div n="1">— 1〉 {%fehlen, verfehlen%} (<ab>z. B.</ab> das Ziel).
+<div n="1">— 2〉 {%Schuld haben, — tragen, — sein an%} (<ab>Loc.</ab> <ls>CARAKA. 1,7</ls>), {%sich Etwas zu Schulden%} ({%haben%}) {%kommen lassen, sich vergehen gegen Etwas%} (<ab>Loc.</ab>) oder {%Jmd%} (<ab>Gen.</ab>), {%Etwas verbrochen haben gegen Jmd%} (<ab>Gen.</ab>). Häufig in Verbindung mit {#kim#} {%was?%} und {#kiM cit#} {%Etwas%}.
+<div n="1">— 3〉 {#aparAdDa#}
+<div n="2">— a〉 {%gefehlt —, nicht getroffen habend%} (mit <ab>Abl.</ab>) von einem Pfeile.
+<div n="2">— b〉 {%der sich Etwas hat zu Schulden kommen lassen, schuldig, der sich vergangen hat an Jmd%} (<ab>Gen.</ab>, selten <ab>Loc.</ab>).
+<div n="2">— c〉 {%gefehlt —, gesündigt von%} (<ab>Instr.</ab>) {%gegen%} (<ab>Gen.</ab>). Nur mit dem Subject {#kim#} {%was?%} und {#yad#} {%was%}. {#kimaparAdDaM#} {#kAraRatvena#} so <ab>v. a.</ab> {%was ist daran auszusetzen, das es Ursache ist%}.
+<div n="2">— d〉 <ab>impers.</ab> {%es ist gefehlt —, verbrochen —, gesündigt worden von%} (<ab>Instr.</ab>, selten <ab>Gen.</ab>) {%gegen%} (<ab>Gen.</ab>, selten <ab>Loc.</ab>).
+<div n="p">— Mit {#aBi#}, {#°rAdDa#} {%befriedigt, gewonnen%}.
+<div n="m">— <ab>Caus.</ab> {%zufriedenstellen, [Page5-184-c] befriedigen%}.
+<div n="m">— <ab>Desid.</ab> vom <ab>Caus.</ab> {#aBiri/rADayizati#} (im einem Relativ-Satze) {%befriedigen wollen%}.
 <div n="p">— Mit {#ava#}
-<div n="1">— 1) {%missrathen.%}
-<div n="1">— 2) {%einen Fehler machen.%}
+<div n="1">— 1〉 {%missrathen%}.
+<div n="1">— 2〉 {%einen Fehler machen%}.
 <div n="p">— Mit {#A#} <ab>Caus.</ab>
-<div n="1">— 1) {%befriedigen , zufriedenstellen , sich geneigt machen , zu gewinnen suchen , Jmd seine Verehrung bezeigen , — dienen%} ; mit <ab>Acc.</ab> <ls>DAŚAK.71,13.</ls>
-<div n="1">— 2) {%Etwas gewinnen , theithaftig werden%} ; mit <ab>Acc.</ab>
-<div n="1">— 3) {%vollziehen , vollbringen%} <ls>LALIT.295,17.</ls> <ls>CAMPAKA.390fg.506.513.</ls>
+<div n="1">— 1〉 {%befriedigen, zufriedenstellen, sich geneigt machen, zu gewinnen suchen, Jmd seine Verehrung bezeigen, — dienen;%} mit <ab>Acc.</ab> <ls>DAŚAK. 71,13</ls>.
+<div n="1">— 2〉 {%Etwas gewinnen, theilhaftig werden;%} mit <ab>Acc.</ab>
+<div n="1">— 3〉 {%vollziehen, vollbringen%} <ls>LALIT. 295,17</ls>. <ls>CAMPAKA. 390. fg. 506. 513</ls>.
 <div n="m">— *<ab>Desid.</ab> {#ArirAtsati#}.
 <div n="m">— <ab>Desid.</ab> vom <ab>Caus.</ab> in {#ArirADayizu#}.
-<div n="p">— Mit {#upA#} <ab>Caus.</ab> {%Jmd%} (<ab>Acc.</ab>) {%dienen%} ,
-<div n="p">— Mit {#samA#} <ab>Caus.</ab> = {#A#} 1). Metrisch auch <ab>Med.</ab>
-<div n="p">— Mit {#upa#} <ab>Caus.</ab> in {#*uparADaya#}.
+<div n="p">— Mit {#upA#} <ab>Caus.</ab> {%Jmd%} (<ab>Acc.</ab>) {%dienen%}.
+<div n="p">— Mit {#samA#} <ab>Caus.</ab> = {#A#} 1〉. Metrisch auch <ab>Med.</ab>
+<div n="p">— Mit {#upa#} <ab>Caus.</ab> in *{#uparADaya#}.
 <div n="p">— Mit {#pra#} in {#prarADas#}.
 <div n="m">— <ab>Caus.</ab> in {#prarA/Dya#}.
-<div n="p">— Mit {#prati#} {%Jmd entgegen wirken , feindlich entgegentreten%} ; mit <ab>Acc.</ab> Nur {#°rADya#} <ab>Absol.</ab> und {#°rAdDa#} mit act. Bed. (<ls>GAUT.</ls> <ls>ĀPAST.</ls>).
+<div n="p">— Mit {#prati#} {%Jmd entgegen wirken, feindlich entgegentreten;%} mit <ab>Acc.</ab> Nur {#°rADya#} <ab>Absol.</ab> und {#°rAdDa#} mit <ab>act.</ab> <ab>Bed.</ab> (<ls>GAUT.</ls> <ls>ĀPAST.</ls>).
 <div n="m">— *<ab>Desid.</ab> {#pratiritsati#}.
 <div n="p">— Mit {#vi#}
-<div n="1">— 1) {%um Etwas%} (<ab>Instr.</ab>) {%kommen.%}
-<div n="1">— 2) {%zu nahe treten , ein Leid anthun , beleidigen.%}
-<div n="m">— <ab>Caus.</ab> {%uneins werden.%}
-<div n="p">— Mit {#sam#} , {#saMrAdDa#} {%zu Theil geworden.%}
+<div n="1">— 1〉 {%um Etwas%} (<ab>Instr.</ab>) {%kommen%}.
+<div n="1">— 2〉 {%zu nahe treten, ein Leid anthun, beleidigen%}.
+<div n="m">— <ab>Caus.</ab> {%uneins werden%}.
+<div n="p">— Mit {#sam#}, {#saMrAdDa#} {%zu Theil geworden%}.
 <div n="m">— <ab>Caus.</ab>
-<div n="1">— 1) {%eins werden über , sich einigen auf%} (<ab>Loc.</ab>) <ls>ĀPAST.ŚR.10,20,2.</ls> {#saMrADayantaH#} {%einträchtig.%}
-<div n="1">— 2) {%Jmd befriedigen , zufriedenstellen.%}
+<div n="1">— 1〉 {%eins werden über, sich einigen auf%} (<ab>Loc.</ab>) <ls>ĀPAST. ŚR. 10,20,2</ls>. {#saMrADayantaH#} {%einträchtig%}.
+<div n="1">— 2〉 {%Jmd befriedigen, zufriedenstellen%}.
 <div n="p">— Mit {#aBisam#} <ab>Caus.</ab> in {#aBisaMrADana#}.
 <LEND>

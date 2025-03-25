@@ -1,5 +1,5 @@
 <L>22861<pc>605-b<k1>politician<k2>politician
-<div n="lb"/>POLITICIAN¦, {%s.%} {#nItijYaH, nItikuSalaH, nItivid#} {%m.,%} {#nItivedI#} {%m.%} {#(n),#}
-<div n="lb"/>{#nItiviSAradaH, nItividyAjYaH, rAjanItikuSalaH, rAjanItiviSAradaH,#}
-<div n="lb"/>{#nayaviSAradaH#}.
+POLITICIAN¦, {%s.%} {#nItijYaH, nItikuSalaH, nItivid#} {%m.,%} {#nItivedI#} {%m.%} {#(n),#}
+{#nItiviSAradaH, nItividyAjYaH, rAjanItikuSalaH, rAjanItiviSAradaH,#}
+{#nayaviSAradaH#}.
 <LEND>

@@ -1,12 +1,12 @@
 <L>10057<pc>317<k1>god<k2>god
-<div n="lb"/>{@GOD:@}¦ <div n="I">I A g.: </div><div n="1">(1) {#devaH#} ({%you are%}) {%ṭhe G. of g. s:%}
-<div n="lb"/>{#devAnAmapi devatA,#} Ku.: {%the earthly g.s (Brahmins):%}
-<div n="lb"/>{#BUmidevAH,#} Ma.; </div><div n="1">(2) {#devatA#} (= deity), {%town g.:%}
-<div n="lb"/>{#nagaradevatA,#} D. ii.; </div><div n="1">(3) {#suraH#} (as opposed to {#asuraH#}
-<div n="lb"/>Titan), <div n="xe">{%having faith in g. s:%}</div> <div n="xs">{#surezu SraddaDat#}</div> (f. {#tI#}),
-<div n="lb"/>N.; </div><div n="1">(4) {#amaraH#} (= immortal); </div><div n="1">(5) {#vibuDaH#}
-<div n="lb"/>(=wise); </div><div n="1">(6) {#divOkas#} (m.) (= residing in
-<div n="lb"/>heaven); </div><div n="1">(7) {%lokapAlaH%} (of the quarters),
-<div n="lb"/>{%human g.s%} (kings): {#naralokapAlAH,#} R. </div><div n="I">II The G.:
-<div n="lb"/>{#ISvaraH, parama-.#}</div>
+{@GOD:@}¦ <div n="I">I A g.: </div><div n="1">(1) {#devaH#} ({%you are%}) {%ṭhe G. of g. s:%}
+{#devAnAmapi devatA,#} Ku.: {%the earthly g.s (Brahmins):%}
+{#BUmidevAH,#} Ma.; </div><div n="1">(2) {#devatA#} (= deity), {%town g.:%}
+{#nagaradevatA,#} D. ii.; </div><div n="1">(3) {#suraH#} (as opposed to {#asuraH#}
+Titan), <div n="xe">{%having faith in g. s:%}</div> <div n="xs">{#surezu SraddaDat#}</div> (f. {#tI#}),
+N.; </div><div n="1">(4) {#amaraH#} (= immortal); </div><div n="1">(5) {#vibuDaH#}
+(=wise); </div><div n="1">(6) {#divOkas#} (m.) (= residing in
+heaven); </div><div n="1">(7) {%lokapAlaH%} (of the quarters),
+{%human g.s%} (kings): {#naralokapAlAH,#} R. </div><div n="I">II The G.:
+{#ISvaraH, parama-.#}</div>
 <LEND>

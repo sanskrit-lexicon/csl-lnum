@@ -1,3 +1,7 @@
 <L>103240<pc>525,3<k1>naqa<k2>naqa/<e>2
-<s>naqa/</s> or <s>naLa/</s>, ¦ <lex>m.</lex> (<ls>L.</ls> also <lex type="hwalt">n.</lex>) a species of reed, <bot>Arundo Tibialis</bot> or <bot>Karka</bot>, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls><info or="103240,naqa;103236,naLa"/><info lex="m:n"/>
+<s>naqa/</s> or <s>naLa/</s>, ¦ <lex>m.</lex> (<ls>L.</ls> also <lex type="hwalt">n.</lex>) a species of reed, <bot>Arundo Tibialis</bot> or <bot>Karka</bot>, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>;
+<div n="P"/> <ab>N.</ab> of a prince with the <ab>patr.</ab> <s1>Naiṣidha</s1>, <ls>ŚBr.</ls> (= <s1>Nala</s1> <s1>Naiṣadha</s1> <ab>Sch.</ab>);
+<div n="P"/> of a <s1>Nāga</s1>, <ls>L.</ls>;
+<div n="P"/> of a <ab>partic.</ab> tribe whose employment is making a sort of glass bracelet, <ls>W.</ls> (<ab>cf.</ab> <s>nala</s>).
+<info lex="m:n"/>
 <LEND>

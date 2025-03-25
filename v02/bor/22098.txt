@@ -1,5 +1,5 @@
 <L>22098<pc>697<k1>symptom<k2>symptom
-<div n="lb"/>{@SYMPTOM:@}¦ <div n="1">(1) {#lakzaRam;#} </div><div n="1">(2) {#cihnam;#} </div><div n="1">(3) {#liNgam,#}
-<div n="lb"/><div n="xe">{%are the general s.s of insanity:%}</div> <div n="xs">{#sAmAnyamunmAdaga-#}
-<div n="lb"/>{#dasya liNgam,#}</div> Bha.</div>
+{@SYMPTOM:@}¦ <div n="1">(1) {#lakzaRam;#} </div><div n="1">(2) {#cihnam;#} </div><div n="1">(3) {#liNgam,#}
+<div n="xe">{%are the general s.s of insanity:%}</div> <div n="xs">{#sAmAnyamunmAdaga-#}
+{#dasya liNgam,#}</div> Bha.</div>
 <LEND>

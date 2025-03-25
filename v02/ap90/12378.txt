@@ -1,14 +1,14 @@
 <L>12378<pc>0454-c<k1>garBiRI<k2>garBiRI
 {#garBiRI#}¦ A pregnant female
-<>(whether of men or animals);  <lbinfo n="go#garBiRI"/>
-<>{#gogarBiRI#} <lbinfo n="priyanavolapamAlaBAresevyopaMkaWavi#pinAvalayo"/>
-<>{#priyanavolapamAlaBAresevyopaMkaWavipinAvalayo BavaMti#} <ls>Māl. 9. 2</ls>;  <lbinfo n="ls:Y. 1.+ 105"/>
-<><ls>Y. 1. 105</ls>; <ls>Ms. 3. 114.</ls> {@--Comp.@}  <lbinfo n="--ave#kzaRaM"/>
-<>{#--avekzaRaM#} mid-wifery, care and attendance
-<>of pregnant women and new-born
-<>infants, {#--dOhadaM#} the longings of a
-<>pregnant woman. {#--vyAkaraRaM#}, <lbinfo n="vyA#kftiH"/>
-<>{#--vyAkftiH#} {%<ab>f.</ab>%} ‘science of the progress of
-<>pregnancy’, (a particular head in
-<>medical works.)
+(whether of men or animals);  <lbinfo n="go#garBiRI"/>
+{#gogarBiRI#} <lbinfo n="priyanavolapamAlaBAresevyopaMkaWavi#pinAvalayo"/>
+{#priyanavolapamAlaBAresevyopaMkaWavipinAvalayo BavaMti#} <ls>Māl. 9. 2</ls>;  <lbinfo n="ls:Y. 1.+ 105"/>
+<ls>Y. 1. 105</ls>; <ls>Ms. 3. 114.</ls> {@--Comp.@}  <lbinfo n="--ave#kzaRaM"/>
+{#--avekzaRaM#} mid-wifery, care and attendance
+of pregnant women and new-born
+infants, {#--dOhadaM#} the longings of a
+pregnant woman. {#--vyAkaraRaM#}, <lbinfo n="vyA#kftiH"/>
+{#--vyAkftiH#} {%<ab>f.</ab>%} ‘science of the progress of
+pregnancy’, (a particular head in
+medical works.)
 <LEND>

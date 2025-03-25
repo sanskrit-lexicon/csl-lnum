@@ -1,6 +1,6 @@
 <L>22502<pc>710<k1>thrice<k2>thrice
-<div n="lb"/>{@THRICE:@}¦ <div n="1">(1) {#triH;#} </div><div n="1">(2) {#trivAram.#} {%T. seven%} (i. e.
-<div n="lb"/>twentyone) <div n="xe">{%times:%}</div> <div n="xs">{#triHsaptakftvaH;#}</div> {%t. ploughed:%}
-<div n="lb"/>{#triguRAkftaH#} ({#tA, taM#}) <div n="xe">{%or%}</div> <div n="xs">{#trihalyaH#}</div> ({#lyA, lyaM#}), <div n="xe">{%t. as%}
-<div n="lb"/>{%long as that:%}</div> <div n="xs">{#tasmAttriguRadIrGaH#}</div> ({#rGA, rGaM#}).</div>
+{@THRICE:@}¦ <div n="1">(1) {#triH;#} </div><div n="1">(2) {#trivAram.#} {%T. seven%} (i. e.
+twentyone) <div n="xe">{%times:%}</div> <div n="xs">{#triHsaptakftvaH;#}</div> {%t. ploughed:%}
+{#triguRAkftaH#} ({#tA, taM#}) <div n="xe">{%or%}</div> <div n="xs">{#trihalyaH#}</div> ({#lyA, lyaM#}), <div n="xe">{%t. as%}
+{%long as that:%}</div> <div n="xs">{#tasmAttriguRadIrGaH#}</div> ({#rGA, rGaM#}).</div>
 <LEND>

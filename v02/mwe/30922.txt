@@ -1,8 +1,8 @@
 <L>30922<pc>830-a<k1>village<k2>village
-<div n="lb"/>VILLAGE¦, {%s.%} {#grAmaH, nivasaTaH, avasaTaH, upavasaTaH, saMvasaTaH, prativasaTaH,#}
-<div n="lb"/>{#sadvasaTaH, palliH -llI#} {%f.,%} {#kawakaH, KewakaH, padraH, grAmasTaH;#} ‘number
-<div n="lb"/>of villages,’ {#grAmatA, grAmasaNGaH;#} ‘a hundred villages,’ {#grAmaSataM;#}
-<div n="lb"/>‘chief or head-man of a village. {#grAmADipatiH#} {%m.,%} {#grAmADyakzaH,#}
-<div n="lb"/>{#grAmADikftaH, grAmaSaH, grAmanAyakaH, grAmaRIH#} {%m.;%} ‘space near a
-<div n="lb"/>village,’ {#grAmAntaM, upaSalyaM#}.
+VILLAGE¦, {%s.%} {#grAmaH, nivasaTaH, avasaTaH, upavasaTaH, saMvasaTaH, prativasaTaH,#}
+{#sadvasaTaH, palliH -llI#} {%f.,%} {#kawakaH, KewakaH, padraH, grAmasTaH;#} ‘number
+of villages,’ {#grAmatA, grAmasaNGaH;#} ‘a hundred villages,’ {#grAmaSataM;#}
+‘chief or head-man of a village. {#grAmADipatiH#} {%m.,%} {#grAmADyakzaH,#}
+{#grAmADikftaH, grAmaSaH, grAmanAyakaH, grAmaRIH#} {%m.;%} ‘space near a
+village,’ {#grAmAntaM, upaSalyaM#}.
 <LEND>

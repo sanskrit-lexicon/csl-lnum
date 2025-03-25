@@ -1,4 +1,4 @@
 <L>17968<pc>550<k1>propensity<k2>propensity
-<div n="lb"/>{@PROPENSITY:@}¦ <div n="1">(1) {#pravaRatA#} (= inclination); </div><div n="1">(2)
-<div n="lb"/>{#SIlam#} (= disposition); </div><div n="1">(3) {#vyasanam#} (= passion).</div>
+{@PROPENSITY:@}¦ <div n="1">(1) {#pravaRatA#} (= inclination); </div><div n="1">(2)
+{#SIlam#} (= disposition); </div><div n="1">(3) {#vyasanam#} (= passion).</div>
 <LEND>

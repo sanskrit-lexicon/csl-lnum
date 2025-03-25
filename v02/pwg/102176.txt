@@ -1,12 +1,12 @@
 <L>102176<pc>7-0418<k1>Svastana<k2>Svastana
-{#Svastana#}¦ (von 2. {#Svas#}) <lex>adj.</lex> 
-<ls>P. 4, 2, 105.</ls> {%zum andern Morgen in Beziehung stehend, morgend%}: {#sAyantanaM SvastanaM vA na saMgfhRIta Bikzitam#} 
-<ls>BHĀG. P. 11, 8, 11. fg.</ls> {#aSvastanavid#} {%der das “morgen” nicht kennt%} 
-<ls>4, 25, 38.</ls> {#aSvastanaviDAtar#} {%der sich um das “morgen” nicht kümmert%} 
-<ls>MBH. 12, 8920.</ls> {#aSvastanaviDAna#} 
-<ls>?6050 = M. 11, 16. n.</ls> {%das Morgen, Zukunft%} 
-<ls>NIR. 1, 6.</ls> 
-<ls>PAÑCAV. BR. 5, 7, 5. 15, 9, 17.</ls> {#a°#} <lex>adj.</lex> {%ohne Zukunft%} ebend. {%nicht für den folgenden Tag Etwas habend%} 
-<ls>YĀJÑ. 1, 128.</ls> {#SvastanI#} <lex>f.</lex> {%das Futurum und der Charakter%} ({#sya#}) {%desselben%} 
-<ls>?<is>Vārtt</is>. zu P. 3, 3, 15.</ls>
+{#Svastana#}¦ (von 2. {#Svas#}) <lex>adj.</lex>
+<ls>P. 4,2,105.</ls> {%zum andern Morgen in Beziehung stehend, morgend%}: {#sAyantanaM SvastanaM vA na saMgfhRIta Bikzitam#}
+<ls>BHĀG. P. 11,8,11. fg.</ls> {#aSvastanavid#} {%der das “morgen” nicht kennt%}
+<ls n="BHĀG. P.">4,25,38.</ls> {#aSvastanaviDAtar#} {%der sich um das “morgen” nicht kümmert%}
+<ls>MBH. 12,8920.</ls> {#aSvastanaviDAna#}
+<ls n="MBH. 12,">6050</ls> = <ls>M. 11,16.</ls> n. {%das Morgen, Zukunft%}
+<ls>NIR. 1,6.</ls>
+<ls>PAÑCAV. BR. 5,7,5. 15,9,17.</ls> {#a°#} <lex>adj.</lex> {%ohne Zukunft%} ebend. {%nicht für den folgenden Tag Etwas habend%}
+<ls>YĀJÑ. 1,128.</ls> {#SvastanI#} <lex>f.</lex> {%das Futurum und der Charakter%} ({#sya#}) {%desselben%}
+<is>Vārtt</is>. zu <ls>P. 3,3,15.</ls>
 <LEND>

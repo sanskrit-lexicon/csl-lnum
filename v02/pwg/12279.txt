@@ -1,26 +1,25 @@
 <L>12279<pc>1-0987<k1>upADyAya<k2>upADyAya
-{#upADyAya#}¦ (von 3. {#i#} mit {#upa + aDi#}) 
-<div n="1"> 1) <lex>m.</lex> {%Lehrer%} 
-<ls>P. 3, 3, 21,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 26, 170.</ls> 
-<ls>AK. 2, 7, 6.</ls> 
-<ls>H. 78.</ls> {#upADyAyAya BEkzaM prayacCati#} 
-<ls>KAUŚ. 10. 141.</ls> {#sa gururyaH kriyAH kftvA vedamasmE prayacCati . upanIya dadadvedamAcAryaH sa udAhftaH .. ekadeSamupADyAyaH#} 
-<ls>YĀJÑ. 1, 35.</ls> {#upADyAyAndaSAcAryaH (gOraveRAtiricyate)#} 
-<ls>M. 2, 145. 5, 91.</ls> 
-<ls>MBH. 14, 2629.</ls> 
-<ls>VIŚV. 11, 9.</ls> 
-<ls>SUŚR. 1, 71, 12.</ls> 
-<ls>ŚĀK. 61, 11. 64, 12.</ls> {#aSvaH sopADyAyaH#} {%mit einem Bereiter%} 
-<ls>R. 1, 11, 13.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#°yA#} {%Lehrerin%} 
-<ls>P. 3, 3, 21, <is>Vārtt</is>. 1. 4, 1, 49, <is>Vārtt</is>. 4.</ls> 
-<ls>AK. 2, 6, 1, 14.</ls> 
-<ls>H. 524.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#°yI/#} {%Lehrerin%} und {%Frau eines Lehrers%} 
-<ls>P. 3, 3, 21, <is>Vārtt</is>. 1.</ls> 
-<ls>VOP. 4, 24.</ls> 
-<ls>AK. 2, 6, 1, 14. 15.</ls> 
-<ls>H. 523. 524.</ls> Vgl. {#upADyAyAnI#} .
+{#upADyAya#}¦ (von 3. {#i#} mit {#upa + aDi#})
+<div n="1"> 1) <lex>m.</lex> {%Lehrer%}
+<ls>P. 3,3,21</ls>, <ls>Sch.</ls>
+<ls>VOP. 26,170.</ls>
+<ls>AK. 2,7,6.</ls>
+<ls>H. 78.</ls> {#upADyAyAya BEkzaM prayacCati#}
+<ls>KAUŚ. 10. 141.</ls> {#sa gururyaH kriyAH kftvA vedamasmE prayacCati . upanIya dadadvedamAcAryaH sa udAhftaH .. ekadeSamupADyAyaH#}
+<ls>YĀJÑ. 1,35.</ls> {#upADyAyAndaSAcAryaH (gOraveRAtiricyate)#}
+<ls>M. 2,145.</ls> <ls n="M.">5,91.</ls>
+<ls>MBH. 14,2629.</ls>
+<ls>VIŚV. 11,9.</ls>
+<ls>SUŚR. 1,71,12.</ls>
+<ls>ŚĀK. 61,11.</ls> <ls n="ŚĀK.">64,12.</ls> {#aSvaH sopADyAyaH#} {%mit einem Bereiter%}
+<ls>R. 1,11,13.</ls>
+<div n="1">— 2) <lex>f.</lex> {#°yA#} {%Lehrerin%}
+<ls>P. 3,3,21</ls>, <is>Vārtt</is>. 1. <ls n="P.">4,1,49</ls>, <is>Vārtt</is>. 4.
+<ls>AK. 2,6,1,14.</ls>
+<ls>H. 524.</ls>
+<div n="1">— 3) <lex>f.</lex> {#°yI/#} {%Lehrerin%} und {%Frau eines Lehrers%}
+<ls>P. 3,3,21</ls>, <is>Vārtt</is>. 1.
+<ls>VOP. 4,24.</ls>
+<ls>AK. 2,6,1,14.</ls> <ls n="AK. 2,6,1,">15.</ls>
+<ls>H. 523.</ls> <ls n="H.">524.</ls> Vgl. {#upADyAyAnI#} .
 <LEND>

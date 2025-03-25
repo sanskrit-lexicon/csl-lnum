@@ -1,35 +1,35 @@
 <L>9445<pc>1-0707<k1>AvaraRa<k2>AvaraRa
-{#AvaraRa#}¦ (von {#var#} mit {#A#}) 
-<div n="1"> 1) <lex>adj.</lex> {%bedeckend, verhüllend%}: {#aSru netrAvaraRaM pramfjya#} 
-<ls>RAGH. 14, 71.</ls> 
-<div n="1">— 2) <lex>n.</lex> 
-<div n="2"> a) {%das Verdecken, Verhüllen%} (auch in übertr. Bed.) 
-<ls>VOP. 8, 63.</ls> {#mUrDAvaraRam#} 
-<ls>SUŚR. 2, 148, 2.</ls> {#meGAvaraRatatparAH#} {%deren Trachten darauf gerichtet ist, von den Wolken verhüllt zu werden%}, 
-<ls>RAGH. 10, 47.</ls> {#gurordozARAmAvaraRam#} 
-<ls>P. 4, 4, 62,</ls> 
-<ls>Sch.</ls> {#hfdayAvaraRaM nityaM kuryAcca mitramaDyagaH#} 
-<ls>SUŚR. 2, 250, 16.</ls> {#AvaraRaSakti#} eine {#mAyASakti#} im 
-<ls>VEDĀNTA</ls> nach <ls>ŚKDR.</ls> 
-<div n="2">— b) {%das Verschliessen, Hemmen, Unterbrechen%} 
-<ls>VOP. 14.</ls> {#srotasAM Bedako yaSca tezAM cAvaraRe rataH#} 
-<ls>M. 3, 163.</ls> {#mArgAvaraRa#} 
-<ls>SUŚR. 2, 38, 4.</ls> {#sUrye tapatyAvaraRAya dfzweH kalpeta lokasya kaTaM tamisrA#} 
-<ls>RAGH. 5, 13.</ls> 
-<div n="2">— c) {%Hülle, Decke, Gewand%} (auch in übertr. Bed.): {#vicitrARi ca vAsAMsi prAvArAvaraRAni ca#} 
-<ls>MBH. 1, 131.</ls> {#nalinIdalakalpitaM stanAvaraRam#} 
-<ls>ŚĀK. 70.</ls> {#sinDavaH varaRAvaraRAH#} 
-<ls>KIRĀT. 5, 25.</ls> {#itihAsapradIpena mohAvaraRaGAtinA#} 
-<ls>MBH. 1, 87.</ls> {#sAvaraRa#} {%verhüllt, verborgen%} 
-<ls>RAGH. 19, 16.</ls> 
-<div n="2">— d) {%Alles was zum Schutze dient%}: {#na gfhARi na vastrARi na prAkArA na satkriyAH . na cAnyo rAjasatkAraH SIlamAvaraRaM striyAH#} 
-<ls>R. 6, 99, 33.</ls> {#samudrAvaraRA BUmiH prAkArAvaraRaM gfham . narendrAvaraRA deSAScaritrAvaraRAH striyaH ..#} 
-<ls>CĀṆ. 76.</ls> {#samudrAvaraRAMScApi#} (kann auch zu {%c.%} gehören) {#deSAn#} 
-<ls>MBH. 1, 2802.</ls> 
-<div n="2">— e) {%Schild%} 
-<ls>H. 783.</ls> {#te CinnavarmAvaraRAH#} 
-<ls>R. 3, 32, 30.</ls> {#AvaraRamuKyAni nAnApraharaRAni ca#} 
-<ls>MBH. 1, 1158.</ls> 
-<div n="2">— f) {%was zum Verschliessen dient, Riegel, Schloss%}: {#sAvaraRa#} {%verschlossen%} ({#geha#}) 
-<ls>RAGH. 16, 7.</ls>
+{#AvaraRa#}¦ (von {#var#} mit {#A#})
+<div n="1"> 1) <lex>adj.</lex> {%bedeckend, verhüllend%}: {#aSru netrAvaraRaM pramfjya#}
+<ls>RAGH. 14,71.</ls>
+<div n="1">— 2) <lex>n.</lex>
+<div n="2"> a) {%das Verdecken, Verhüllen%} (auch in übertr. Bed.)
+<ls>VOP. 8,63.</ls> {#mUrDAvaraRam#}
+<ls>SUŚR. 2,148,2.</ls> {#meGAvaraRatatparAH#} {%deren Trachten darauf gerichtet ist, von den Wolken verhüllt zu werden%},
+<ls>RAGH. 10,47.</ls> {#gurordozARAmAvaraRam#}
+<ls>P. 4,4,62</ls>, <ls>Sch.</ls>
+{#hfdayAvaraRaM nityaM kuryAcca mitramaDyagaH#}
+<ls>SUŚR. 2,250,16.</ls> {#AvaraRaSakti#} eine {#mAyASakti#} im
+<ls>VEDĀNTA</ls> nach <ls>ŚKDR.</ls>
+<div n="2">— b) {%das Verschliessen, Hemmen, Unterbrechen%}
+<ls>VOP. 14.</ls> {#srotasAM Bedako yaSca tezAM cAvaraRe rataH#}
+<ls>M. 3,163.</ls> {#mArgAvaraRa#}
+<ls>SUŚR. 2,38,4.</ls> {#sUrye tapatyAvaraRAya dfzweH kalpeta lokasya kaTaM tamisrA#}
+<ls>RAGH. 5,13.</ls>
+<div n="2">— c) {%Hülle, Decke, Gewand%} (auch in übertr. Bed.): {#vicitrARi ca vAsAMsi prAvArAvaraRAni ca#}
+<ls>MBH. 1,131.</ls> {#nalinIdalakalpitaM stanAvaraRam#}
+<ls>ŚĀK. 70.</ls> {#sinDavaH varaRAvaraRAH#}
+<ls>KIRĀT. 5,25.</ls> {#itihAsapradIpena mohAvaraRaGAtinA#}
+<ls>MBH. 1,87.</ls> {#sAvaraRa#} {%verhüllt, verborgen%}
+<ls>RAGH. 19,16.</ls>
+<div n="2">— d) {%Alles was zum Schutze dient%}: {#na gfhARi na vastrARi na prAkArA na satkriyAH . na cAnyo rAjasatkAraH SIlamAvaraRaM striyAH#}
+<ls>R. 6,99,33.</ls> {#samudrAvaraRA BUmiH prAkArAvaraRaM gfham . narendrAvaraRA deSAScaritrAvaraRAH striyaH ..#}
+<ls>CĀṆ. 76.</ls> {#samudrAvaraRAMScApi#} (kann auch zu {%c.%} gehören) {#deSAn#}
+<ls>MBH. 1,2802.</ls>
+<div n="2">— e) {%Schild%}
+<ls>H. 783.</ls> {#te CinnavarmAvaraRAH#}
+<ls>R. 3,32,30.</ls> {#AvaraRamuKyAni nAnApraharaRAni ca#}
+<ls>MBH. 1,1158.</ls>
+<div n="2">— f) {%was zum Verschliessen dient, Riegel, Schloss%}: {#sAvaraRa#} {%verschlossen%} ({#geha#})
+<ls>RAGH. 16,7.</ls>
 <LEND>

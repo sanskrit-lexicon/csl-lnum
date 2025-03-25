@@ -1,6 +1,6 @@
 <L>6837<pc>295<k1>monastery<k2>monastery
 {@Monastery,@}¦ {%s.%} {#vihAraH, maWaH, ASramaH, muni-#}
-<div n="lb"/>{#-vAsaH, vAnaprasTASramaH#}. {@-Monastic, -ical,@}
-<div n="lb"/>{%a.%} {#vihArika, ASramika#} ({#kI#} {%f.%}), {#vEKAnasa#}
-<div n="lb"/>({#sI#} {%f.%}); ‘m. vow’ {#vEKAnasaM vrataM#}.
+{#-vAsaH, vAnaprasTASramaH#}. {@-Monastic, -ical,@}
+{%a.%} {#vihArika, ASramika#} ({#kI#} {%f.%}), {#vEKAnasa#}
+({#sI#} {%f.%}); ‘m. vow’ {#vEKAnasaM vrataM#}.
 <LEND>

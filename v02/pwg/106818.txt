@@ -1,15 +1,15 @@
 <L>106818<pc>7-0821<k1>sarvadA<k2>sarvadA/
-{#sarvadA/#}¦ (von {#sarva#}) adv. {%allezeit, stets%} 
-<ls>P. 5, 3, 6. 15.</ls> 
-<ls>VOP. 7, 100.</ls> 
-<ls>AK. 3, 5, 22.</ls> 
-<ls>AV. 1, 32, 3. 9, 6, 27. 10, 6, 32.</ls> {#yasya^ de\vA ni\DiM rakza^nti sarva\dA#} 
-<ls>7, 23. 9, 12. 12, 2, 50. 18, 4, 29.</ls> <ls>ŚAT. BR. 7, 5, 2, 54. 9, 2, 3, 43.</ls> {#sarvadA hEvAsya svayaM hutaM Bavati#} 
-<ls>?11, 1, 7, 4. KAUŚ. 56. M. 2, 61. 74. 160. 194 u.s.w. MBH. 3, 2096. R. 1, 1, 17. 6, 10, 24. WEBER, RĀMAT. UP. 338. Spr. (II) 1669. 6534. 6891. 6923. VARĀH. BṚH. S. 55, 18. KATHĀS. 6, 148. 22, 20. HIT. 14, 18. 17, 20. 19, 2. VET. in LA. (III) 1, 15.</ls> {#sarvatra sarvadA#} 
-<ls>HARIV. 15055.</ls> 
-<ls>Spr. (II) 2338. 3056.</ls> 
-<ls>BHĀG. P. 2, 2, 36.</ls> {#sarvaTA sarvadA sarvatra#} 
-<ls>SARVADARŚANAS. 42, 6.</ls> mit einer Negation {%niemals%} 
-<ls>M. 4, 21</ls> {#ahAryatvAdanarDyatvAdakzayatvAcca sa°#} 
+{#sarvadA/#}¦ (von {#sarva#}) adv. {%allezeit, stets%}
+<ls>P. 5,3,6.</ls> <ls n="P. 5,3,">15.</ls>
+<ls>VOP. 7,100.</ls>
+<ls>AK. 3,5,22.</ls>
+<ls>AV. 1,32,3.</ls> <ls n="AV.">9,6,27.</ls> <ls n="AV.">10,6,32.</ls> {#yasya^ de\vA ni\DiM rakza^nti sarva\dA#}
+<ls n="AV. 1,">7,23.</ls> <ls n="AV. 1,">9,12.</ls> <ls n="AV.">12,2,50.</ls> <ls n="AV.">18,4,29.</ls> <ls>ŚAT. BR. 7,5,2,54.</ls> <ls n="ŚAT. BR.">9,2,3,43.</ls> {#sarvadA hEvAsya svayaM hutaM Bavati#}
+<ls n="ŚAT. BR.">11,1,7,4.</ls> <ls>KAUŚ. 56.</ls> <ls>M. 2,61.</ls> <ls n="M. 2,">74.</ls> <ls n="M. 2,">160.</ls> <ls n="M. 2,">194</ls> u.s.w. <ls>MBH. 3,2096.</ls> <ls>R. 1,1,17.</ls> <ls n="R.">6,10,24.</ls> <ls>WEBER, RĀMAT. UP. 338.</ls> <ls>Spr. (II) 1669.</ls> <ls n="Spr. (II)">6534.</ls> <ls n="Spr. (II)">6891.</ls> <ls n="Spr. (II)">6923.</ls> <ls>VARĀH. BṚH. S. 55,18.</ls> <ls>KATHĀS. 6,148.</ls> <ls n="KATHĀS.">22,20.</ls> <ls>HIT. 14,18. 17,20. 19,2.</ls> <ls>VET. in LA. (III) 1,15.</ls> {#sarvatra sarvadA#}
+<ls>HARIV. 15055.</ls>
+<ls>Spr. (II) 2338.</ls> <ls n="Spr. (II)">3056.</ls>
+<ls>BHĀG. P. 2,2,36.</ls> {#sarvaTA sarvadA sarvatra#}
+<ls>SARVADARŚANAS. 42,6.</ls> mit einer Negation {%niemals%}
+<ls>M. 4,21</ls> {#ahAryatvAdanarDyatvAdakzayatvAcca sa°#}
 <ls>Spr. (II) 6928.</ls>
 <LEND>

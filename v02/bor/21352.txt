@@ -1,6 +1,6 @@
 <L>21352<pc>673<k1>stand for<k2>stand for
-<div n="lb"/>{@STAND FOR:@}¦ <div n="I">I In place of: {#-sTAne#} <div n="xe">{%or%}</div> <div n="xs">{#-BUmO tizWati, #}
-<div n="lb"/>{# vartate#}</div> ({#vft,#} c. 1.), etc. </div><div n="I">II For the sake of:
-<div n="lb"/>{#arTaM#} <div n="xe">{%or%}</div> <div n="xs">{#arTe tizWati, vartate,#}</div> etc. Ph.: {%s. for good%}
-<div n="lb"/>(i. e. lie for ever, die): {#saMtizWate.#}</div>
+{@STAND FOR:@}¦ <div n="I">I In place of: {#-sTAne#} <div n="xe">{%or%}</div> <div n="xs">{#-BUmO tizWati, #}
+{# vartate#}</div> ({#vft,#} c. 1.), etc. </div><div n="I">II For the sake of:
+{#arTaM#} <div n="xe">{%or%}</div> <div n="xs">{#arTe tizWati, vartate,#}</div> etc. Ph.: {%s. for good%}
+(i. e. lie for ever, die): {#saMtizWate.#}</div>
 <LEND>

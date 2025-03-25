@@ -1,6 +1,6 @@
 <L>6068<pc>195<k1>devotion<k2>devotion
-<div n="lb"/>{@DEVOTION:@}¦ <div n="I">I Consecration: {#utsargaH.#} </div><div n="I">II
-<div n="lb"/>Addiction: </div><div n="1">(1) {#AsaktiH;#} </div><div n="1">(2) {#niratiH,#} Ki. </div><div n="I">III
-<div n="lb"/>Religious or respectful: {#BaktiH,#} <div n="xe">{%d. to your%}
-<div n="lb"/>{%preceptor:%}</div> <div n="xs">{#gurO BaktiH,#}</div> R. </div><div n="I">IV A. gift: {#dAnama.#}</div>
+{@DEVOTION:@}¦ <div n="I">I Consecration: {#utsargaH.#} </div><div n="I">II
+Addiction: </div><div n="1">(1) {#AsaktiH;#} </div><div n="1">(2) {#niratiH,#} Ki. </div><div n="I">III
+Religious or respectful: {#BaktiH,#} <div n="xe">{%d. to your%}
+{%preceptor:%}</div> <div n="xs">{#gurO BaktiH,#}</div> R. </div><div n="I">IV A. gift: {#dAnama.#}</div>
 <LEND>

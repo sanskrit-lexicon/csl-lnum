@@ -1,4 +1,4 @@
 <L>13107<pc>405<k1>lace<k2>lace
-<div n="lb"/>{@LACE@}¦ (subs.): <div n="I">I A string or cord: {#sUtram.#}</div>
-<div n="lb"/><div n="I">II A fabric: {#*sUtrajAlam.#}</div>
+{@LACE@}¦ (subs.): <div n="I">I A string or cord: {#sUtram.#}</div>
+<div n="I">II A fabric: {#*sUtrajAlam.#}</div>
 <LEND>

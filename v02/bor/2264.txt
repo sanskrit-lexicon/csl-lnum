@@ -1,11 +1,11 @@
 <L>2264<pc>078<k1>board<k2>board
-<div n="lb"/>{@BOARD@}¦ (subs.): <div n="I">I A plank: {#Palaka#} (mn.). </div><div n="I">II
-<div n="lb"/>A table for food: {#BojanaPalakaH.#} </div><div n="I">III Food,
-<div n="lb"/>diet: q. v.: {#AhAraH:#} Ph. <div n="xe">{%but b. and clothing%}
-<div n="lb"/>{%should be given%}</div> <div n="xs">{#grAsAcCAdanantu deyameva,#}</div> K. b. </div><div n="I">IV
-<div n="lb"/>For playing games: </div><div n="1">(1) {#azwApadam,#} </div><div n="1">(2) {#SAriPalam.#}
-<div n="lb"/>V. A council: {#saBA.#} A member of it: {#saByaH#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#saBAsad#}</div> (m.) Ph. <div n="xe">{%to get on b. a vessel%}</div> <div n="xs">{#nAva-#}
-<div n="lb"/>{#mArohati#}</div> ({#ruh,#} c. l.), Raj.; {%to leap over b. v.%}
-<div n="lb"/>Overboard.</div>
+{@BOARD@}¦ (subs.): <div n="I">I A plank: {#Palaka#} (mn.). </div><div n="I">II
+A table for food: {#BojanaPalakaH.#} </div><div n="I">III Food,
+diet: q. v.: {#AhAraH:#} Ph. <div n="xe">{%but b. and clothing%}
+{%should be given%}</div> <div n="xs">{#grAsAcCAdanantu deyameva,#}</div> K. b. </div><div n="I">IV
+For playing games: </div><div n="1">(1) {#azwApadam,#} </div><div n="1">(2) {#SAriPalam.#}
+V. A council: {#saBA.#} A member of it: {#saByaH#}
+<div n="xe">{%or%}</div> <div n="xs">{#saBAsad#}</div> (m.) Ph. <div n="xe">{%to get on b. a vessel%}</div> <div n="xs">{#nAva-#}
+{#mArohati#}</div> ({#ruh,#} c. l.), Raj.; {%to leap over b. v.%}
+Overboard.</div>
 <LEND>

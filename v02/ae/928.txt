@@ -1,7 +1,7 @@
 <L>928<pc>032<k1>benevolence<k2>benevolence
 {@Benevolence,@}¦ {%s.%} {#parahitecCA, paropakAritA,#}
-<div n="lb"/>{#dayA, kfpA, udAratA,#} {@-Benevolent,@} {%a.%}
-<div n="lb"/>{#hitEzin, upakArapara, paropakAraSIla, dayAlu,#}
-<div n="lb"/>{#parahitecCu#}. {@-ly,@} {%adv.%} {#parahitecCayA, kfpayA,#}
-<div n="lb"/>{#dayApUrvaM#}.
+{#dayA, kfpA, udAratA,#} {@-Benevolent,@} {%a.%}
+{#hitEzin, upakArapara, paropakAraSIla, dayAlu,#}
+{#parahitecCu#}. {@-ly,@} {%adv.%} {#parahitecCayA, kfpayA,#}
+{#dayApUrvaM#}.
 <LEND>

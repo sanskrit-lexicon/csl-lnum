@@ -1,17 +1,16 @@
 <L>38591<pc>4-0124<k1>nAvika<k2>nA/vika
-{#nA/vika#}¦ (von {#nO#}) 
-<div n="1"> 1) <lex>m.</lex> {%Schiffer, Bootsmann%} 
-<ls>P. 4, 4, 7.</ls> <is>gaṇa</is> {#vrIhyAdi#} zu 
-<ls>P. 5, 2, 116.</ls> 
-<ls>AK. 1, 2, 3, 12.</ls> 
-<ls>H. 876.</ls> 
-<ls>MBH. 8, 3938.</ls> 
-<ls>R. 2, 52, 74.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 52, 12. fgg.</ls> 
-<ls>VARĀH. BṚH. S. 4, 8. 9, 31. 17, 18.</ls> 
-<ls>BHAṬṬOTP.</ls> zu <ls>?16, 33. ŚATR. 10, 80. KULL. zu M. 8, 308.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} 
-<ls>KĀM. NĪTIS. 7, 33.</ls> 
-<div n="1">— 2) <lex>n.</lex> N. eines <is>Sāman</is> 
-<ls>Ind. St. 3, 221.</ls>
+{#nA/vika#}¦ (von {#nO#})
+<div n="1"> 1) <lex>m.</lex> {%Schiffer, Bootsmann%}
+<ls>P. 4,4,7.</ls> <is>gaṇa</is> {#vrIhyAdi#} zu
+<ls>P. 5,2,116.</ls>
+<ls>AK. 1,2,3,12.</ls>
+<ls>H. 876.</ls>
+<ls>MBH. 8,3938.</ls>
+<ls>R. 2,52,74.</ls>
+<ls>R. GORR. 2,52,12. fgg.</ls>
+<ls>VARĀH. BṚH. S. 4,8. 9,31. 17,18.</ls>
+<ls>BHAṬṬOTP.</ls> zu <ls n="VARĀH. BṚH. S.">16,33.</ls> <ls>ŚATR. 10,80.</ls> <ls>KULL.</ls> zu <ls>M. 8,308.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+<ls>KĀM. NĪTIS. 7,33.</ls>
+<div n="1">— 2) <lex>n.</lex> N. eines <is>Sāman</is>
+<ls>Ind. St. 3,221.</ls>
 <LEND>

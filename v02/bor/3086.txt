@@ -1,8 +1,8 @@
 <L>3086<pc>104<k1>careless<k2>careless
-<div n="lb"/>{@CARELESS:@}¦ <div n="I">I Inattentive, neglectful: q. v.:
-<div n="lb"/>{#pramattaH#} ({#ttA, ttaM#}). <div n="xe">{%To be c. of:%}</div> <div n="xs">{#na cintayati#}</div> ({#cint,#}
-<div n="lb"/>c. 10) <div n="xe">{%or%}</div> <div n="xs">{#vimAvayati#}</div> (c. of {#BU#}) (with acc.), <div n="xe">{%is%}
-<div n="lb"/>{%c. even of herself%}</div> <div n="xs">{#AtmAnamapi na viBAvayati.#}</div> </div><div n="I">II
-<div n="lb"/>Said or done without care: {#pramatta-#} in comp.</div>
-<div n="lb"/><div n="I">III Free from care: {#niScintaH#} ({#ntA, ntaM#}).</div>
+{@CARELESS:@}¦ <div n="I">I Inattentive, neglectful: q. v.:
+{#pramattaH#} ({#ttA, ttaM#}). <div n="xe">{%To be c. of:%}</div> <div n="xs">{#na cintayati#}</div> ({#cint,#}
+c. 10) <div n="xe">{%or%}</div> <div n="xs">{#vimAvayati#}</div> (c. of {#BU#}) (with acc.), <div n="xe">{%is%}
+{%c. even of herself%}</div> <div n="xs">{#AtmAnamapi na viBAvayati.#}</div> </div><div n="I">II
+Said or done without care: {#pramatta-#} in comp.</div>
+<div n="I">III Free from care: {#niScintaH#} ({#ntA, ntaM#}).</div>
 <LEND>

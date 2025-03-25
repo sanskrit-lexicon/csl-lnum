@@ -1,14 +1,14 @@
 <L>13226<pc>408<k1>last<k2>last
-<div n="lb"/>{@LAST@}¦ (adj.): <div n="I">I Final: </div><div n="1">(1) {#antya#} (f. {#ntyA#}) {%or%}
-<div n="lb"/>{#anta-#} in comp., <div n="xe">{%l. syllable%}</div> <div n="xs">{#antyAkzaram;#}</div> {%to the l.:%}
-<div n="lb"/>{#antaparyantam;#} <div n="xe">{%at l.:%}</div> <div n="xs">{#ante#}</div> [{#Seze#} <div n="xe">{%or%}</div> <div n="xs">{#avaSeze#}</div> is used in
-<div n="lb"/>this sense in Bengali, but I do not remem-
-<div n="lb"/>-ber any instance in Sanskrit]; </div><div n="1">(2) {#caramaH#}
-<div n="lb"/>({#mA, maM#}), <div n="xe">{%nor the l.:%}</div> <div n="xs">{#nApi caramaH,#}</div> D.s.; </div><div n="1">(3) {#paScimaH#}
-<div n="lb"/>({#mA, maM#}), <div n="xe">{%getting up at the l. watch:%}</div> <div n="xs">{#yAma utTAya #}
-<div n="lb"/>{# paScime,#}</div> Mah.; {%l. order of%} ({%their%}) <div n="xe">{%master:%}</div> <div n="xs">{#martuH #}
-<div n="lb"/>{# paScimAjYA,#}</div> R. xvii. 8. </div><div n="I">II Preceding: </div><div n="1">(1)
-<div n="lb"/>{#pUrvaH#} ({#rvA, rvaM#}) (= former); </div><div n="1">(2) {#gataH#} ({#tA, taM#})
-<div n="lb"/>(= past), <div n="xe">{%l. year:%}</div> <div n="xs">{#gatavarzaH.#}</div> Ph.: <div n="xe">{%l. evening:%}</div> <div n="xs">{#hyaH #}
-<div n="lb"/>{# pradoze:#}</div> v. Yesterday.</div>
+{@LAST@}¦ (adj.): <div n="I">I Final: </div><div n="1">(1) {#antya#} (f. {#ntyA#}) {%or%}
+{#anta-#} in comp., <div n="xe">{%l. syllable%}</div> <div n="xs">{#antyAkzaram;#}</div> {%to the l.:%}
+{#antaparyantam;#} <div n="xe">{%at l.:%}</div> <div n="xs">{#ante#}</div> [{#Seze#} <div n="xe">{%or%}</div> <div n="xs">{#avaSeze#}</div> is used in
+this sense in Bengali, but I do not remem-
+-ber any instance in Sanskrit]; </div><div n="1">(2) {#caramaH#}
+({#mA, maM#}), <div n="xe">{%nor the l.:%}</div> <div n="xs">{#nApi caramaH,#}</div> D.s.; </div><div n="1">(3) {#paScimaH#}
+({#mA, maM#}), <div n="xe">{%getting up at the l. watch:%}</div> <div n="xs">{#yAma utTAya #}
+{# paScime,#}</div> Mah.; {%l. order of%} ({%their%}) <div n="xe">{%master:%}</div> <div n="xs">{#martuH #}
+{# paScimAjYA,#}</div> R. xvii. 8. </div><div n="I">II Preceding: </div><div n="1">(1)
+{#pUrvaH#} ({#rvA, rvaM#}) (= former); </div><div n="1">(2) {#gataH#} ({#tA, taM#})
+(= past), <div n="xe">{%l. year:%}</div> <div n="xs">{#gatavarzaH.#}</div> Ph.: <div n="xe">{%l. evening:%}</div> <div n="xs">{#hyaH #}
+{# pradoze:#}</div> v. Yesterday.</div>
 <LEND>

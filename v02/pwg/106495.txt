@@ -1,169 +1,165 @@
 <L>106495<pc>7-0784<k1>sarasvant<k2>sa/rasvant
-{#sa/rasvant#}¦ (von {#saras#}) 
-<div n="1"> 1) <lex>adj.</lex> 
+{#sa/rasvant#}¦ (von {#saras#})
+<div n="1"> 1) <lex>adj.</lex>
 <div n="2"> a) {%reich an Wasserbehältern, Teichen%} u.s.w.; {%mit ihnen in Berührung gekommen%}: {#mahanmanaHsvacCapayaHsarasvatA vAtena#}
 [Page7-0785]
-
-<ls>BHĀG. P. 10, 15, 3.</ls> 
-<div n="2">— b) {%Geschmack —, Gefallen an Etwas%} (loc.) {%habend%}; = {#rasika#} 
-<ls>MED. t. 223.</ls> {#jalaniDivacasAM pAlane#} 
-<ls>Verz. d. Oxf. H. 333</ls>, {%a%}, 
-<ls>29. fg.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) N. eines zu den Göttern des oberen Gebietes gezählten {%Bewahrers der himmlischen Wasser, der durch Regen und Bäche Fruchtbarkeit schenkt%}, 
-<ls>NAIGH. 5, 4.</ls> 
-<ls>NIR. 10, 24.</ls> {#vf\zwiBi^sta\rpaya^nta\M sara^svanta\mava^se johavImi#} 
-<ls>ṚV. 1, 164, 52.</ls> <ls n="ṚV.">7, 96, 4.</ls> fgg. <ls n="ṚV.">10, 66, 5.</ls> 
-<ls>AV. 7, 40, 1. 2. 9, 4, 9.</ls> 
-<ls>TS. 2, 5, 4, 2.</ls> 
-<ls>PAÑCAV. BR. 16, 5, 15.</ls> 
-<ls>Ind. St. 3, 242</ls>,b. 
-<div n="2">— b) N. eines der Genie <is>Sarasvatī</is> entsprechenden Genius: {#mano vE sarasvAnvAksarasvatI#} 
-<ls>ŚAT. BR. 7, 5, 1, 31. 11, 2, 4, 9.</ls> {#satyavAc#} 
-<ls>TS. 1, 8, 19, 1.</ls> 
-<div n="2">— c) {%Meer%} 
-<ls>AK. 1, 2, 3, 1. 3, 4, 14, 60.</ls> 
-<ls>H. 1073.</ls> 
-<ls>an. 3, 307.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 3, 30.</ls> 
-<ls>HARIV. 11592.</ls> 
-<div n="2">— d) {%Fluss%} 
-<ls>AK. 3, 4, 14, 60.</ls> 
-<ls>H. 1091.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<div n="2">— e) N. pr. eines Flusses, = {#sarasvatI#} 
-<ls>BHĀG. P. 4, 14, 36.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#sarasvatI#} 
-<div n="2"> a) {%eine an Wasserbecken reiche Gegend%} 
-<ls>MBH. 1, 7745.</ls> 
+<ls>BHĀG. P. 10,15,3.</ls>
+<div n="2">— b) {%Geschmack —, Gefallen an Etwas%} (loc.) {%habend%}; = {#rasika#}
+<ls>MED. t. 223.</ls> {#jalaniDivacasAM pAlane#}
+<ls>Verz. d. Oxf. H. 333,a,29. fg.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) N. eines zu den Göttern des oberen Gebietes gezählten {%Bewahrers der himmlischen Wasser, der durch Regen und Bäche Fruchtbarkeit schenkt%},
+<ls>NAIGH. 5,4.</ls>
+<ls>NIR. 10,24.</ls> {#vf\zwiBi^sta\rpaya^nta\M sara^svanta\mava^se johavImi#}
+<ls>ṚV. 1,164,52.</ls> <ls n="ṚV.">7,96,4.</ls> fgg. <ls n="ṚV.">10,66,5.</ls>
+<ls>AV. 7,40,1.</ls> <ls n="AV. 7,40,">2.</ls> <ls n="AV.">9,4,9.</ls>
+<ls>TS. 2,5,4,2.</ls>
+<ls>PAÑCAV. BR. 16,5,15.</ls>
+<ls>Ind. St. 3,242,b.</ls>
+<div n="2">— b) N. eines der Genie <is>Sarasvatī</is> entsprechenden Genius: {#mano vE sarasvAnvAksarasvatI#}
+<ls>ŚAT. BR. 7,5,1,31.</ls> <ls n="ŚAT. BR.">11,2,4,9.</ls> {#satyavAc#}
+<ls>TS. 1,8,19,1.</ls>
+<div n="2">— c) {%Meer%}
+<ls>AK. 1,2,3,1.</ls> <ls n="AK.">3,4,14,60.</ls>
+<ls>H. 1073.</ls>
+<ls>an. 3,307.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 3,30.</ls>
+<ls>HARIV. 11592.</ls>
+<div n="2">— d) {%Fluss%}
+<ls>AK. 3,4,14,60.</ls>
+<ls>H. 1091.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<div n="2">— e) N. pr. eines Flusses, = {#sarasvatI#}
+<ls>BHĀG. P. 4,14,36.</ls>
+<div n="1">— 3) <lex>f.</lex> {#sarasvatI#}
+<div n="2"> a) {%eine an Wasserbecken reiche Gegend%}
+<ls>MBH. 1,7745.</ls>
 <div n="2">— b) N. pr. eines mächtigen in das Meer mündenden Stromes (
-<ls>ṚV. 6, 61, 2.</ls> <ls n="ṚV. 6, 61,">8.</ls> <ls n="ṚV.">7, 95, 1.</ls> <ls n="ṚV. 7, 95,">2</ls>), vermuthlich {%des Indus%} und {%seiner Genie%}, welche die Anwohner ihrer Ufer schützt (
-<ls n="ṚV.">6, 61, 14.</ls> <ls n="ṚV.">7, 96, 2.</ls>) und Güter aller Art verleiht. Dieser Name {%Wassermassen, gleichsam Teiche%} oder {%Seen, in sich befassend%} wäre als der besondere und heilige, {#sinDu#} d. i. {%der Fluss%} als der allgemeine und profane zu betrachten. Auf das Flüsschen in <is>Madhyadeśa</is> (s. {%c%}) hat die spätere Zeit mit dem Namen die Attribute der Heiligkeit übertragen; dass dasselbe aber in der Vorzeit ein Strom gewesen wäre, auf welchen die Schilderung des <is>Veda</is> passen sollte, lässt sich nicht wahrscheinlich machen. 
-<ls>NAIGH. 5, 5.</ls> 
-<ls>NIR. 2, 23. 9, 26. 11, 25.</ls> 
-<ls>ṚV. 1, 89, 3.</ls> <ls n="ṚV. 1,">164, 19.</ls> {#ambi^tame\ nadI^tame\ devi^tame\ sara^svati#} 
-<ls n="ṚV.">2, 41, 16.</ls> <ls>fgg. 30, 8. 32, 8. 3, 54, 13. 5, 42, 12.</ls> {#A no^ di\vaH parva^tA\dA sara^svatI gantu#} 
-<ls n="ṚV. 2,">43, 11.</ls> <ls n="ṚV. 2,">46, 2.</ls> <ls n="ṚV.">6, 49, 7.</ls> <ls n="ṚV. 6,">50, 12.</ls> {#sara^svatI\ sinDu^Bi\H pinva^mAnA#} 
-<ls n="ṚV. 6,">52, 6.</ls> <ls n="ṚV.">7, 9, 5.</ls> {#sa° sa\ptaTI\ sinDu^mAtA#} 
-<ls n="ṚV. 7,">36, 6.</ls> <ls n="ṚV. 7,">39, 5.</ls> <ls n="ṚV. 7,">40, 3.</ls> <ls n="ṚV.">8, 21, 17.</ls> fg. <ls n="ṚV.">10, 17, 7.</ls> <ls n="ṚV. 10,">30, 12.</ls> <ls n="ṚV. 10,">131, 5.</ls> <ls n="ṚV. 10,">184, 2.</ls> {#sara^sva\tyava^ntu sa\pta sinDa^vaH#} 
-<ls>VĀLAKH. 6, 4.</ls> 
-<ls>VS. 19, 93. fg.</ls> {#paYca^ na\dya^H sara^svatI\mapi^ yanti\ sasro^tasaH#} 
-<ls>34, 11.</ls> <ls>AV. 4, 4, 6. 5, 23, 1. 6, 3, 2. 89, 3. 7, 68, 1. 14, 2, 15. 20. 16, 4, 4. 19, 31, 9. fg.</ls> <ls>TS. 1, 8, 13, 3.</ls> <ls>ŚAT. BR. 1, 6, 2, 4. 11, 4, 3, 3. 12, 7, 1, 12. 2, 5. 14, 9, 3, 8.</ls> <ls>KĀTY. ŚR. 9, 1, 18. 8, 5.</ls> <ls>LĀṬY. 5, 3, 2.</ls> <ls>ŚĀṄKH. GṚHY. 1, 13.</ls> <ls>KAUŚ. 45. 81.</ls> 
-<div n="2">— c) N. pr. eines kleinen heilig geachteten Flusses, der mit der <is>Dṛṣadvatī</is> die Grenzen von <is>Brahmāvarta</is> bildet, im Sande verläuft, schliesslich aber nach der Vorstellung der Inder, unter der Erde fortfliessend, sich mit der <is>Gaṅgā</is> und <is>Yamunā</is> vereinigt (vgl. {#vinaSana#}). Sie erhält öfters den Beinamen {#pUrvA#} oder {#prAcI#} . 
-<ls>AK. 1, 2, 3, 33.</ls> 
-<ls>H. 1085.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>ṚV. 3, 23, 4.</ls> <ls n="ṚV.">10, 64, 9.</ls> <ls n="ṚV. 10,">75, 5.</ls> 
-<ls>AIT. BR. 2, 19.</ls> vielleicht 
-<ls>AV. 6, 30, 1. -</ls> <ls>ŚAT. BR. 1, 4, 1, 14.</ls> <ls>TS. 7, 2, 1, 4.</ls> <ls>LĀṬY. 10, 15, 1. 18, 13. 19, 4.</ls> <ls>PAÑCAV. BR. 25, 10, 1.</ls> <ls>KĀTY. ŚR. 13, 3, 20. 24, 6, 22.</ls> <ls>ŚĀṄKH. BR. 12, 2. 3.</ls> <ls>ĀŚV. ŚR. 12, 6, 2. 3.</ls> <ls>Ind. St. 1, 41</ls> {#(°mUla)#}.{# °dfzadvatyordevanadyoryadantaram . taM devanirmitaM deSaM brahmAvartaM pracakzate ..#} 
-<ls>M. 2, 17.</ls> 
-<ls>H. 949.</ls> 
-<ls>M. 11, 77.</ls> 
-<ls>MBH. 1, 3779. 3, 7085. 5, 7049. 6, 321</ls> <ls>?(VP. 180). HARIV. 7736. 9506. 9515. 12021. 12828. R. 2, 71, 5. R. GORR. 2, 70, 12. 85, 5. 100, 28. 4, 40, 24.</ls> {#sAvitrI#} 
-<ls>41, 57.</ls> {#antaHsalilA#} 
-<ls>RAGH. 3, 9.</ls> 
-<ls>ŚĀK. CH. 139, 7.</ls> 
-<ls>VARĀH. BṚH. S. 16, 31.</ls> 
-<ls>BHĀG. P. 1, 7, 2. 16, 37. 3, 1, 21. 4, 19, 1. 9, 16, 23. 10, 78, 19.</ls> {#°yamunAsaMgama#} 
-<ls>Verz. d. B. H. 143, 1.</ls> <ls>Verz. d. Oxf. H. 10</ls>, {%a%}, 
-<ls>N. 1. 23</ls>, {%b%}, 
-<ls>14. 39</ls>, {%b%}, 
-<ls>22. 46</ls>, {%b%}, 
-<ls>N. 3. 77</ls>, {%b%}, 
-<ls>44. 149</ls>, {%a%}, 31. 
-<div n="2">— d) N. pr. anderer Flüsse 
-<ls>MBH. 6, 343</ls> <ls>?(VP. 184). LIA. 1, 84.</ls> im <is>Dvīpa</is> <is>Śālmali</is> 
-<ls>BHĀG. P. 5, 20,10.</ls>
+<ls>ṚV. 6,61,2.</ls> <ls n="ṚV. 6,61,">8.</ls> <ls n="ṚV.">7,95,1.</ls> <ls n="ṚV. 7,95,">2</ls>), vermuthlich {%des Indus%} und {%seiner Genie%}, welche die Anwohner ihrer Ufer schützt (
+<ls n="ṚV.">6,61,14.</ls> <ls n="ṚV.">7,96,2.</ls>) und Güter aller Art verleiht. Dieser Name {%Wassermassen, gleichsam Teiche%} oder {%Seen, in sich befassend%} wäre als der besondere und heilige, {#sinDu#} <ab>d. i.</ab> {%der Fluss%} als der allgemeine und profane zu betrachten. Auf das Flüsschen in <is>Madhyadeśa</is> (s. {%c%}) hat die spätere Zeit mit dem Namen die Attribute der Heiligkeit übertragen; dass dasselbe aber in der Vorzeit ein Strom gewesen wäre, auf welchen die Schilderung des <is>Veda</is> passen sollte, lässt sich nicht wahrscheinlich machen.
+<ls>NAIGH. 5,5.</ls>
+<ls>NIR. 2,23. 9,26. 11,25.</ls>
+<ls>ṚV. 1,89,3.</ls> <ls n="ṚV. 1,">164,19.</ls> {#ambi^tame\ nadI^tame\ devi^tame\ sara^svati#}
+<ls n="ṚV.">2,41,16. fgg.</ls> <ls n="ṚV. 2,">30,8.</ls> <ls n="ṚV. 2,">32,8.</ls> <ls n="ṚV.">3,54,13.</ls> <ls n="ṚV.">5,42,12.</ls> {#A no^ di\vaH parva^tA\dA sara^svatI gantu#}
+<ls n="ṚV. 2,">43,11.</ls> <ls n="ṚV. 2,">46,2.</ls> <ls n="ṚV.">6,49,7.</ls> <ls n="ṚV. 6,">50,12.</ls> {#sara^svatI\ sinDu^Bi\H pinva^mAnA#}
+<ls n="ṚV. 6,">52,6.</ls> <ls n="ṚV.">7,9,5.</ls> {#sa° sa\ptaTI\ sinDu^mAtA#}
+<ls n="ṚV. 7,">36,6.</ls> <ls n="ṚV. 7,">39,5.</ls> <ls n="ṚV. 7,">40,3.</ls> <ls n="ṚV.">8,21,17.</ls> fg. <ls n="ṚV.">10,17,7.</ls> <ls n="ṚV. 10,">30,12.</ls> <ls n="ṚV. 10,">131,5.</ls> <ls n="ṚV. 10,">184,2.</ls> {#sara^sva\tyava^ntu sa\pta sinDa^vaH#}
+<ls>VĀLAKH. 6,4.</ls>
+<ls>VS. 19,93. fg.</ls> {#paYca^ na\dya^H sara^svatI\mapi^ yanti\ sasro^tasaH#}
+<ls n="VS.">34,11.</ls> <ls>AV. 4,4,6.</ls> <ls n="AV.">5,23,1.</ls> <ls n="AV.">6,3,2.</ls> <ls n="AV. 6,">89,3.</ls> <ls n="AV.">7,68,1.</ls> <ls n="AV.">14,2,15.</ls> <ls n="AV. 14,2,">20.</ls> <ls n="AV.">16,4,4.</ls> <ls n="AV.">19,31,9. fg.</ls> <ls>TS. 1,8,13,3.</ls> <ls>ŚAT. BR. 1,6,2,4. 11,4,3,3. 12,7,1,12. 2,5. 14,9,3,8.</ls> <ls>KĀTY. ŚR. 9,1,18. 8,5.</ls> <ls>LĀṬY. 5,3,2.</ls> <ls>ŚĀṄKH. GṚHY. 1,13.</ls> <ls>KAUŚ. 45. 81.</ls>
+<div n="2">— c) N. pr. eines kleinen heilig geachteten Flusses, der mit der <is>Dṛṣadvatī</is> die Grenzen von <is>Brahmāvarta</is> bildet, im Sande verläuft, schliesslich aber nach der Vorstellung der Inder, unter der Erde fortfliessend, sich mit der <is>Gaṅgā</is> und <is>Yamunā</is> vereinigt (vgl. {#vinaSana#}). Sie erhält öfters den Beinamen {#pUrvA#} oder {#prAcI#} .
+<ls>AK. 1,2,3,33.</ls>
+<ls>H. 1085.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>ṚV. 3,23,4.</ls> <ls n="ṚV.">10,64,9.</ls> <ls n="ṚV. 10,">75,5.</ls>
+<ls>AIT. BR. 2,19.</ls> vielleicht
+<ls>AV. 6,30,1.</ls> — <ls>ŚAT. BR. 1,4,1,14.</ls> <ls>TS. 7,2,1,4.</ls> <ls>LĀṬY. 10,15,1. 18,13. 19,4.</ls> <ls>PAÑCAV. BR. 25,10,1.</ls> <ls>KĀTY. ŚR. 13,3,20.</ls> <ls n="KĀTY. ŚR.">24,6,22.</ls> <ls>ŚĀṄKH. BR. 12,2. 3.</ls> <ls>ĀŚV. ŚR. 12,6,2. 3.</ls> <ls>Ind. St. 1,41</ls> ({#°mUla#}).{# °dfzadvatyordevanadyoryadantaram . taM devanirmitaM deSaM brahmAvartaM pracakzate ..#}
+<ls>M. 2,17.</ls>
+<ls>H. 949.</ls>
+<ls>M. 11,77.</ls>
+<ls>MBH. 1,3779.</ls> <ls n="MBH.">3,7085.</ls> <ls n="MBH.">5,7049.</ls> <ls n="MBH.">6,321</ls> (<ls>VP. 180</ls>). <ls>HARIV. 7736.</ls> <ls n="HARIV.">9506.</ls> <ls n="HARIV.">9515.</ls> <ls n="HARIV.">12021.</ls> <ls n="HARIV.">12828.</ls> <ls>R. 2,71,5.</ls> <ls>R. GORR. 2,70,12.</ls> <ls n="R. GORR. 2,">85,5.</ls> <ls n="R. GORR. 2,">100,28.</ls> <ls n="R. GORR.">4,40,24.</ls> {#sAvitrI#}
+<ls n="R. GORR. 2,">41,57.</ls> {#antaHsalilA#}
+<ls>RAGH. 3,9.</ls>
+<ls>ŚĀK. CH. 139,7.</ls>
+<ls>VARĀH. BṚH. S. 16,31.</ls>
+<ls>BHĀG. P. 1,7,2.</ls> <ls n="BHĀG. P. 1,">16,37.</ls> <ls n="BHĀG. P.">3,1,21.</ls> <ls n="BHĀG. P.">4,19,1.</ls> <ls n="BHĀG. P.">9,16,23.</ls> <ls n="BHĀG. P.">10,78,19.</ls> {#°yamunAsaMgama#}
+<ls>Verz. d. B. H. 143,1.</ls> <ls>Verz. d. Oxf. H. 10,a,N. 1.</ls>
+<ls n="Verz. d. Oxf. H.">23,b,14.</ls>
+<ls n="Verz. d. Oxf. H.">39,b,22.</ls>
+<ls n="Verz. d. Oxf. H.">46,b,N. 3.</ls>
+<ls n="Verz. d. Oxf. H.">77,b,44.</ls>
+<ls n="Verz. d. Oxf. H.">149,a,31.</ls>
+<div n="2">— d) N. pr. anderer Flüsse
+<ls>MBH. 6,343</ls> (<ls>VP. 184).</ls> <ls>LIA. 1,84.</ls> im <is>Dvīpa</is> <is>Śālmali</is>
+<ls>BHĀG. P. 5,20,10.</ls>
 [Page7-0786]
-
-<div n="2">— e) {%Fluss%} überh. 
-<ls>NAIGH. 1, 13.</ls> 
-<ls>TRIK. 3, 3, 188. fg.</ls> 
-<ls>H. 1080.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 3, 43.</ls> {%ein der%} <is>Sarasvatī</is> {%an Heiligkeit gleichkommender Fluss%}: deren drei 
-<ls>AV. 6, 100, 1.</ls> sieben 
-<ls>MBH. 9, 2188. fg.</ls> {#sarvAH puRyAH sarasvatyaH sarvA gaNgAH samudragAH#} 
-<ls>MĀRK. P. 57, 30.</ls> 
-<div n="2">— f) mit <is>Iḷā</is> und <is>Bhārati</is> eine der drei Göttinnen in den <is>Āpri</is>-Liedern, auch mit <is>Hotrā</is> und <is>Mahī</is> genannt, 
-z. B. <ls>ṚV. 1, 142, 9.</ls> <ls n="ṚV. 1,">188, 8.</ls> <ls n="ṚV.">3, 4, 8</ls>; vgl. 
-<ls n="ṚV.">2, 1, 11.</ls> — Daher 
-<div n="2"> g) {%Genie der Stimme und Rede%} 
-<ls>NAIGH. 1, 11.</ls> 
-<ls>NIR. 2, 23.</ls> 
-<ls>AK. 1, 1, 5, 1.</ls> 
-<ls>TRIK. 1, 1, 27.</ls> 
-<ls>H. 241.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 1, 8.</ls> {#SaM sara^svatI sa\ha DI\Bira^stu#} 
-<ls>ṚV. 7, 35, 11.</ls> 
-<ls>AV. 5, 7, 4. 5. 10, 8. 6, 41, 2. 7, 57, 1.</ls> 
-<ls>VS. 2, 20. 9, 30. 10, 30. 18, 37. 19, 12.</ls> 
-<ls>AIT. BR. 3, 1. 6, 7.</ls> {#vAgvE sarasvatI#} 
-<ls>ŚAT. BR. 3, 9, 1, 7. 7, 5, 1, 31.</ls> 
-<ls>Ind. St. 3, 242</ls>,b. 
-<ls>398. fgg.</ls> <ls>WEBER, JYOT. 112.</ls> <ls>M. 8, 105.</ls> {#vedAnAM mAtA#} 
-<ls>MBH. 12, 12920.</ls> 
-<ls>HARIV. 10243. 12104.</ls> 
-<ls>RAGH. 4, 6.</ls> 
-<ls>ŚĀK. 194.</ls> 
-<ls>Spr. (II) 6025.</ls> 
-<ls>VARĀH. BṚH. S. 26, 2. 46, 98.</ls> {#°vilAsAH#} 
-<ls>Verz. d. Oxf. H. 196,b,5.</ls> {#°vinodaM karizyAmi#} 
-<ls>PAÑCAT. 5, 5</ls> (ed. orn. 
-<ls>2, 10).</ls> <ls>HIT. 116, 8</ls> ({#samADisTayA#} zu lesen mit 
-<ls>JOHNS.</ls><ls>?). WILSON, Sel. Works 1,20 u.s.w.2,187. fgg. Verz. d. Oxf. H. 18,a,14. 19,a,4. 21,b,1. 23,b,11. 14. 94,b,19. 255</ls>, {%a%}, 
-<ls>13. 257</ls>, {%a%}, 
-<ls>26. 284</ls>, {%b%}, 48. ein Hass zwischen der <is>Śrī</is> (<is>Lakṣmī</is>) und der <is>Sarasvatī</is> (weil {%Reichthum%} und {%Gelehrsamkeit%} selten Hand in Hand gehen) 
-<ls>Spr. (II) 3941.</ls> 
-<ls>KATHĀS. 3, 78.</ls> 
-<ls>RĀJA-TAR. 5, 471.</ls> {#°mantra#} 
-<ls>Verz. d. Oxf. H. 105,b,10. fg.</ls> <ls>TĀRAN. 258.</ls> {#prAjApatyA#} 
-<ls>PRAB. 11, 8.</ls> {#sarasvatyAH putraH#} 
-<ls>Ind. St. 3, 460.</ls> unter den Namen der <is>Durgā</is> 
-<ls>KATHĀS. 53,171.</ls> <ls>Verz. d. Oxf. H. 39,b,35.</ls> {#Adityasya sarasvatyAM jajYe putradvayaM SuBam#} 
-<ls>HARIV. 11550.</ls> als Gattin <is>Viṣṇu's</is> 
-<ls>PAÑCAR. 2, 3, 64.</ls> <is>Manu's</is> 
-<ls>MED.</ls> <ls>MBH. 5, 3973.</ls> Tochter <is>Dakṣa's</is> 
-<ls>VP. 119,</ls> 
-<ls>N. 12.</ls> 
-<div n="2">— h) {%Rede%} überh. 
-<ls>TRIK. 3, 3, 188. fg.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> {#bruvaMScitrAM sarasvatIm#} 
-<ls>MBH. 12, 2764.</ls> {#sarasvatIM bahuviDAM yUyamuccArayizyaTa#} (Frösche) 
-<ls>13, 4045.</ls> {#svacCandAdeva te - pravftteyaM sarasvatI#} 
-<ls>R. 1, 2, 34.</ls> {#laGusaMdeSapadA#} 
-<ls>RAGH. 8, 76.</ls> {#udIrayAmAsa sItA satyAM sarasvatIm#} 
-<ls>15, 80.</ls> <ls>RĀJA-TAR. 5, 415.</ls> <ls>BHĀG. P. 3, 16, 13.</ls> {%Gabe der Rede, Beredsamkeit%} 
-<ls>HARIV. 3285.</ls> so v. a. {%Lehre%}: {#yo brUyAccApi SizyAya DamyIM brAhmIM sarasvatIm#} 
-<ls>MBH. 13, 3434.</ls> Insbes. {%eine vom Himmel kommende Rede, Orakelstimme%}: {#gUQarUpA#} 
-<ls>RAGH. 15, 46.</ls> {#AkASaBavA#} 
-<ls>KUMĀRAS. 4, 39.</ls> {#gagaRAdevamudaBUdaSarIrA sarasvatI#} 
-<ls>KATHĀS. 2, 68. 6, 20. 9, 70. 11, 14. 18, 312. 20, 32. 42, 171. 46, 126.</ls> 
-<ls>RĀJA-TAR. 2, 72.</ls> 
-<div n="2">— i) Bein. {%der Kuh%} 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>VS. 8, 43.</ls> 
-<div n="2">— k) {%eine Perle von Weib%} ({#strIratna#}) 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— l) Bez. verschiedener Pflanzen: = {#jyotizmatI#} und {#brAhmI#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#somalatA#} 
-<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> = {#bilva#} (wegen {#sArasvata#}) 
-<ls>H. 815, Schol.</ls> 
-<div n="2">— l) Bez. {%eines zweijährigen Mädchens, das bei der%} <is>Durgā</is>-{%Feier diese Göttin darstellt%}, 
-<ls>ANNADĀKALPA</ls> im <ls>ŚKDR.</ls> unter {#kumArI#} . 
-<div n="2">— m) N. eines der zehn auf Schüler <is>Śaṃkarākarya's</is> zurückgeführten Bettelorden, dessen Mitglieder das Wort {#sarasvatI#} ihrem Namen beifügen, 
-<ls>Verz. d. Oxf. H. 227,b,16.</ls> <ls>WILSON, Sel. Works 1,202.</ls> 
-<div n="2">— n) N. pr. der Gattin <is>Dadhīca's</is> 
-<ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 12.</ls> <is>Śaṃkarācarya's</is> 
-<ls>Verz. d. B. H. No. 841.</ls> <is>Maṇḍanamiśra's</is> (vgl. {#sarasavARI#}) 
-<ls>Verz. d. Oxf. H. 256</ls>, {%a%}, 7. 
-<div n="2">— o) abgekürzter Titel einer Grammatik 
-<ls>Verz. d. Oxf. H. 110</ls>, {%b%}, 17. 
+<div n="2">— e) {%Fluss%} überh.
+<ls>NAIGH. 1,13.</ls>
+<ls>TRIK. 3,3,188. fg.</ls>
+<ls>H. 1080.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 3,43.</ls> {%ein der%} <is>Sarasvatī</is> {%an Heiligkeit gleichkommender Fluss%}: deren drei
+<ls>AV. 6,100,1.</ls> sieben
+<ls>MBH. 9,2188. fg.</ls> {#sarvAH puRyAH sarasvatyaH sarvA gaNgAH samudragAH#}
+<ls>MĀRK. P. 57,30.</ls>
+<div n="2">— f) mit <is>Iḷā</is> und <is>Bhārati</is> eine der drei Göttinnen in den <is>Āpri</is>-Liedern, auch mit <is>Hotrā</is> und <is>Mahī</is> genannt,
+z. B. <ls>ṚV. 1,142,9.</ls> <ls n="ṚV. 1,">188,8.</ls> <ls n="ṚV.">3,4,8</ls>; vgl.
+<ls n="ṚV.">2,1,11.</ls> — Daher
+<div n="2"> g) {%Genie der Stimme und Rede%}
+<ls>NAIGH. 1,11.</ls>
+<ls>NIR. 2,23.</ls>
+<ls>AK. 1,1,5,1.</ls>
+<ls>TRIK. 1,1,27.</ls>
+<ls>H. 241.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 1,8.</ls> {#SaM sara^svatI sa\ha DI\Bira^stu#}
+<ls>ṚV. 7,35,11.</ls>
+<ls>AV. 5,7,4.</ls> <ls n="AV. 5,7,">5.</ls> <ls n="AV. 5,">10,8.</ls> <ls n="AV.">6,41,2.</ls> <ls n="AV.">7,57,1.</ls>
+<ls>VS. 2,20. 9,30. 10,30. 18,37. 19,12.</ls>
+<ls>AIT. BR. 3,1.</ls> <ls n="AIT. BR.">6,7.</ls> {#vAgvE sarasvatI#}
+<ls>ŚAT. BR. 3,9,1,7.</ls> <ls n="ŚAT. BR.">7,5,1,31.</ls>
+<ls>Ind. St. 3,242,b.</ls>
+<ls n="Ind. St.">398. fgg.</ls> <ls>WEBER, JYOT. 112.</ls> <ls>M. 8,105.</ls> {#vedAnAM mAtA#}
+<ls>MBH. 12,12920.</ls>
+<ls>HARIV. 10243.</ls> <ls n="HARIV.">12104.</ls>
+<ls>RAGH. 4,6.</ls>
+<ls>ŚĀK. 194.</ls>
+<ls>Spr. (II) 6025.</ls>
+<ls>VARĀH. BṚH. S. 26,2. 46,98.</ls> {#°vilAsAH#}
+<ls>Verz. d. Oxf. H. 196,b,5.</ls> {#°vinodaM karizyAmi#}
+<ls>PAÑCAT. 5,5</ls> (<ls n="PAÑCAT.">ed. orn. 2,10</ls>).
+<ls>HIT. 116,8</ls> ({#samADisTayA#} zu lesen mit <ls>JOHNS.</ls>).
+<ls>WILSON, Sel. Works 1,20</ls> u.s.w. <ls n="WILSON, Sel. Works">2,187. fgg.</ls> <ls>Verz. d. Oxf. H. 18,a,14. 19,a,4. 21,b,1. 23,b,11. 14. 94,b,19. 255,a,13. 257,a,26. 284,b,48.</ls>
+ein Hass zwischen der <is>Śrī</is> (<is>Lakṣmī</is>) und der <is>Sarasvatī</is> (weil {%Reichthum%} und {%Gelehrsamkeit%} selten Hand in Hand gehen)
+<ls>Spr. (II) 3941.</ls>
+<ls>KATHĀS. 3,78.</ls>
+<ls>RĀJA-TAR. 5,471.</ls> {#°mantra#}
+<ls>Verz. d. Oxf. H. 105,b,10. fg.</ls> <ls>TĀRAN. 258.</ls> {#prAjApatyA#}
+<ls>PRAB. 11,8.</ls> {#sarasvatyAH putraH#}
+<ls>Ind. St. 3,460.</ls> unter den Namen der <is>Durgā</is>
+<ls>KATHĀS. 53,171.</ls> <ls>Verz. d. Oxf. H. 39,b,35.</ls> {#Adityasya sarasvatyAM jajYe putradvayaM SuBam#}
+<ls>HARIV. 11550.</ls> als Gattin <is>Viṣṇu's</is>
+<ls>PAÑCAR. 2,3,64.</ls> <is>Manu's</is>
+<ls>MED.</ls> <ls>MBH. 5,3973.</ls> Tochter <is>Dakṣa's</is>
+<ls>VP. 119</ls>,
+<ls>N. 12.</ls>
+<div n="2">— h) {%Rede%} überh.
+<ls>TRIK. 3,3,188. fg.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls> {#bruvaMScitrAM sarasvatIm#}
+<ls>MBH. 12,2764.</ls> {#sarasvatIM bahuviDAM yUyamuccArayizyaTa#} (Frösche)
+<ls n="MBH.">13,4045.</ls> {#svacCandAdeva te — pravftteyaM sarasvatI#}
+<ls>R. 1,2,34.</ls> {#laGusaMdeSapadA#}
+<ls>RAGH. 8,76.</ls> {#udIrayAmAsa sItA satyAM sarasvatIm#}
+<ls n="RAGH.">15,80.</ls> <ls>RĀJA-TAR. 5,415.</ls> <ls>BHĀG. P. 3,16,13.</ls> {%Gabe der Rede, Beredsamkeit%}
+<ls>HARIV. 3285.</ls> so v. a. {%Lehre%}: {#yo brUyAccApi SizyAya DamyIM brAhmIM sarasvatIm#}
+<ls>MBH. 13,3434.</ls> Insbes. {%eine vom Himmel kommende Rede, Orakelstimme%}: {#gUQarUpA#}
+<ls>RAGH. 15,46.</ls> {#AkASaBavA#}
+<ls>KUMĀRAS. 4,39.</ls> {#gagaRAdevamudaBUdaSarIrA sarasvatI#}
+<ls>KATHĀS. 2,68.</ls> <ls n="KATHĀS.">6,20.</ls> <ls n="KATHĀS.">9,70.</ls> <ls n="KATHĀS.">11,14.</ls> <ls n="KATHĀS.">18,312.</ls> <ls n="KATHĀS.">20,32.</ls> <ls n="KATHĀS.">42,171.</ls> <ls n="KATHĀS.">46,126.</ls>
+<ls>RĀJA-TAR. 2,72.</ls>
+<div n="2">— i) Bein. {%der Kuh%}
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>VS. 8,43.</ls>
+<div n="2">— k) {%eine Perle von Weib%} ({#strIratna#})
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— l) Bez. verschiedener Pflanzen: = {#jyotizmatI#} und {#brAhmI#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#somalatA#}
+<ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> = {#bilva#} (wegen {#sArasvata#})
+<ls>H. 815</ls>, Schol.
+<div n="2">— l) Bez. {%eines zweijährigen Mädchens, das bei der%} <is>Durgā</is>-{%Feier diese Göttin darstellt%},
+<ls>ANNADĀKALPA</ls> im <ls>ŚKDR.</ls> unter {#kumArI#} .
+<div n="2">— m) N. eines der zehn auf Schüler <is>Śaṃkarākarya's</is> zurückgeführten Bettelorden, dessen Mitglieder das Wort {#sarasvatI#} ihrem Namen beifügen,
+<ls>Verz. d. Oxf. H. 227,b,16.</ls> <ls>WILSON, Sel. Works 1,202.</ls>
+<div n="2">— n) N. pr. der Gattin <is>Dadhīca's</is>
+<ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 12.</ls> <is>Śaṃkarācarya's</is>
+<ls>Verz. d. B. H. No. 841.</ls> <is>Maṇḍanamiśra's</is> (vgl. {#sarasavARI#})
+<ls>Verz. d. Oxf. H. 256,a,7.</ls>
+<div n="2">— o) abgekürzter Titel einer Grammatik
+<ls>Verz. d. Oxf. H. 110,b,17.</ls>
 <div n="v">— Vgl. {#gupta°, jYAnendra°, narasiMha°, nArAyaRa°, nIla°, nfsiMha°, BUmAnanda°, maDusUdana°, mahA°, mADava°, mADavarAmAnanda°, vimala°, vIra°, SivAnanda°, sArasvata#} .
 <LEND>

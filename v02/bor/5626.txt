@@ -1,5 +1,5 @@
 <L>5626<pc>180<k1>deduction<k2>deduction
-<div n="lb"/>{@DEDUCTION:@}¦ <div n="I">I Conclusion, inference: q. v.:
-<div n="lb"/>{#nigamanam.#} </div><div n="I">II Subtraction: </div><div n="1">(1) {#viyojanam;#} </div><div n="1">(2)
-<div n="lb"/>{#vyavakalanam,#} <div n="xe">{%To make d. s:%}</div> <div n="xs">{#viyojayati,#}</div> Li.</div>
+{@DEDUCTION:@}¦ <div n="I">I Conclusion, inference: q. v.:
+{#nigamanam.#} </div><div n="I">II Subtraction: </div><div n="1">(1) {#viyojanam;#} </div><div n="1">(2)
+{#vyavakalanam,#} <div n="xe">{%To make d. s:%}</div> <div n="xs">{#viyojayati,#}</div> Li.</div>
 <LEND>

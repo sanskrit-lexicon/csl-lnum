@@ -1,9 +1,9 @@
 <L>5878<pc>131-b<k1>contract<k2>contract
-<div n="lb"/>CONTRACT¦, {%s.%} {#niyamaH, saMvid#} {%f.,%} {#samayaH, pratijYAnaM, saMskAraH, paRaH, vipaRaH,#}
-<div n="lb"/>{#upagamaH, aByupagamaH, vyavasTA, aNgIkAraH, samADiH#} {%m.,%} {#saMSravaH, AgUH#} {%f.,%}
-<div n="lb"/>{#uBayasammatiH#} {%f.;%} ‘written contract,’ {#niyamapatraM, SAsanapatraM, prati-#}
-<div n="lb"/>{#jYApatrakaM;#} ‘contract of sale,’ {#krayavikrayaniyamaH, krayapatraM, krayaleKyaM,#}
-<div n="lb"/>{#paRArpaRaM, vipaRapatraM;#} ‘breaking a contract,’ {#vyavasTAtikramaH#}
-<div n="lb"/>{#saMvidvyatikramaH, samayavyaBicAraH;#} ‘marriage contract,’ {#vAgniScayaH#}
-<div n="lb"/>{#vivAhasambanDaH, vAgdAnaM#}.
+CONTRACT¦, {%s.%} {#niyamaH, saMvid#} {%f.,%} {#samayaH, pratijYAnaM, saMskAraH, paRaH, vipaRaH,#}
+{#upagamaH, aByupagamaH, vyavasTA, aNgIkAraH, samADiH#} {%m.,%} {#saMSravaH, AgUH#} {%f.,%}
+{#uBayasammatiH#} {%f.;%} ‘written contract,’ {#niyamapatraM, SAsanapatraM, prati-#}
+{#jYApatrakaM;#} ‘contract of sale,’ {#krayavikrayaniyamaH, krayapatraM, krayaleKyaM,#}
+{#paRArpaRaM, vipaRapatraM;#} ‘breaking a contract,’ {#vyavasTAtikramaH#}
+{#saMvidvyatikramaH, samayavyaBicAraH;#} ‘marriage contract,’ {#vAgniScayaH#}
+{#vivAhasambanDaH, vAgdAnaM#}.
 <LEND>

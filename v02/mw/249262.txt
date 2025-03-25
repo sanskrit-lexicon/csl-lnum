@@ -1,3 +1,3 @@
-<L>249262<pc>1234,2<k1>surA<k2>surA<h>a<e>2B
-<s>surA</s> <hom>a</hom> ¦ <lex>f.</lex> See <ab>s.v.</ab><info lex="f"/>
+<L>249262<pc>1234,2<k1>surA<k2>surA<e>2B
+<s>surA</s> ¦ (<s>A</s>), <lex>f.</lex>, see <ab>s.v.</ab><info lex="f"/><info hui="a"/>
 <LEND>

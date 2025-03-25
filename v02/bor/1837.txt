@@ -1,7 +1,7 @@
 <L>1837<pc>064<k1>beggar<k2>beggar
-<div n="lb"/>{@BEGGAR@}¦ (subs.): <div n="I">I A mendicant: </div><div n="1">(1) {#BikzuH;#}</div>
-<div n="lb"/><div n="1">(2) {#BikzukaH#} ({#kI,#} f.). </div><div n="I">II A very poor person:</div>
-<div n="lb"/><div n="1">(1) {#daridraH#} ({#drA, draM#}); </div><div n="1">(2) {#akiYcanaH#} ({#nA, naM#}): v.
-<div n="lb"/>Indigent. </div><div n="I">III One who begs: </div><div n="1">(1) {#yAcakaH;#}</div>
-<div n="lb"/><div n="1">(2) {#vanIyakaH:#} v. Solicitor.</div>
+{@BEGGAR@}¦ (subs.): <div n="I">I A mendicant: </div><div n="1">(1) {#BikzuH;#}</div>
+<div n="1">(2) {#BikzukaH#} ({#kI,#} f.). </div><div n="I">II A very poor person:</div>
+<div n="1">(1) {#daridraH#} ({#drA, draM#}); </div><div n="1">(2) {#akiYcanaH#} ({#nA, naM#}): v.
+Indigent. </div><div n="I">III One who begs: </div><div n="1">(1) {#yAcakaH;#}</div>
+<div n="1">(2) {#vanIyakaH:#} v. Solicitor.</div>
 <LEND>

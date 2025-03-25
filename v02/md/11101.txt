@@ -1,19 +1,3 @@
 <L>11101<pc>152-2<k1>padaka<k2>padaka
-{#padaka#}¦pada-ka, {%n.%} step; office, position; 
-<>{@-krama,@} {%m. kind of%} gait; {%peculiar%} method {%of %}
-<>{%reciting and writting the Veda%}; {@-gati,@} {%f.%} 
-<>gait; {@-cihna@}, {%n.%} footprint; {@-tā,@} {%f.%} original 
-<>form of a word; condition of a word; {@-nyāsa,@} 
-<>{%m.%} putting down the foot, step; footprint; 
-<>inditing of verses; ({@á@}) {@-paṅkti,@} {%f.%} series of 
-<>footsteps, track; {%a metre (¤5 X 5¤ syllabales)%}; 
-<>series of words; {@-paddhati,@} {%f.%} series of footsteps, <lbinfo n="4"/>
-<> track; {@-pāṭha@}, {%m.%} word-reading, {%a mode %}
-<>{%of reciting and writing the Veda in which %}
-<>{%every word is given in its original form %}
-<>{%irrespective of Sandhi%}; {@-pūraṇa@}, {%a.%} versefilling; <lbinfo n="5"/>
-<> {@-yópana,@} {%a.%} ({@ī@}) pace-retarding; {@-rac-@}
-<>{@-anā@}, {%f.%} arrangement of words, literary work; 
-<>{@-vigraha,@} {%m.%} separation of words; {@-vid,@} {%a.%} 
-<>(knowing the place), familiar with ({%g.%}).
+{#padaka#}¦ pada-ka, <lex>n.</lex> step; office, position; 🞄{@-krama,@} <lex>m.</lex> {%kind of%} gait; {%peculiar%} method {%of 🞄reciting and writting the Veda%}; {@-gati,@} <lex>f.</lex> 🞄gait; {@-cihna,@} <lex>n.</lex> footprint; {@-tā,@} <lex>f.</lex> original 🞄form of a word; condition of a word; {@-nyāsa,@} 🞄<lex>m.</lex> putting down the foot, step; footprint; 🞄inditing of verses; ({@á@}) {@-paṅkti,@} <lex>f.</lex> series of 🞄footsteps, track; {%a metre (5×5 syllabales)%}; 🞄series of words; {@-paddhati,@} <lex>f.</lex> series of footsteps, 🞄track; {@-pāṭha,@} <lex>m.</lex> word-reading, {%a mode 🞄of reciting and writing the Veda in which 🞄every word is given in its original form 🞄irrespective of Sandhi%}; {@-pūraṇa,@} <lex>a.</lex> versefilling; 🞄{@-yópana,@} <lex>a.</lex> ({@ī@}) pace-retarding; {@-racanā,@} <lex>f.</lex> arrangement of words, literary work; 🞄{@-vigraha,@} <lex>m.</lex> separation of words; {@-vid,@} <lex>a.</lex> 🞄(knowing the place), familiar with (<ab>g.</ab>).
 <LEND>

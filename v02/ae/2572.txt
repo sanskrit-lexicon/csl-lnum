@@ -1,23 +1,23 @@
 <L>2572<pc>093<k1>day<k2>day
 {@Day,@}¦ {%s.%} {#dinaM, divasaH, vAsaraH, ahan#} {%n.,%} {#vAraH#}
-<div n="lb"/>‘a lunar d.’ {#tiTi#} {%m. f.,%} ‘d. by d.’
-<div n="lb"/>{#dine dine, anudivasaM, pratyahaM;#} ‘by d.’ {#divA;#}
-<div n="lb"/>‘the next d.’ {#paredyuH,#} ‘the d. before’
-<div n="lb"/>{#pUrvedyuH;#} ‘another d.’ {#anyedyuH;#} ‘the
-<div n="lb"/>other d.’ {#aciraM;#} ‘d. and night’ {#aharniSaM,#}
-<div n="lb"/>{#ahorAtraH; rAtriMdivaM, naktaMdivaM;#} ‘all d. long’
-<div n="lb"/>{#aharniSaM, rAtriMdivaM, divA-niSaM-rAtraM;#} ‘till this
-<div n="lb"/>d.’ {#adya yAvat;#} ‘the d. after to-morrow’
-<div n="lb"/>{#paraSvaH;#} ‘he gained the d. {#tasmin dine sa#}
-<div n="lb"/>{#viyajI baBUva;#} ‘d. break’ {%See%} {@Dawn;@}
-<div n="lb"/>‘d. labour’ {#vrAtaM, dEnikaM karma;#} ‘d. labour-
-<div n="lb"/>-er’ {#vrAtInaH;#} ‘d. light’ {#sUryaprakASaH, dina-#}
-<div n="lb"/>{#-jyotis#} {%n.;%} ‘d. star’ {#praBAtanakzatraM;#} ‘d.
-<div n="lb"/>time’ {#dinakAlaH, dinasamayaH;#} ‘being in
-<div n="lb"/>the d.’ {#divAtana#} ({#nI#} {%f.%}); ‘during d.’
-<div n="lb"/>{#divA#}. {@-Daily,@} {%a.%} {#dEnika-pratyahika-Ahnika#}
-<div n="lb"/>({#kI#} {%f.%}), {#dEnaMdina#} ({#nI#} {%f.%}) ‘d. business’
-<div n="lb"/>{#AhrikaM, nityakarman#} {%n. -adv.%} {#prati#} in
-<div n="lb"/>comp. with ‘day’; {#pratyahaM, pratidinaM;#}
-<div n="lb"/>{#dine dine, aharahaH#}. &c.
+‘a lunar d.’ {#tiTi#} {%m. f.,%} ‘d. by d.’
+{#dine dine, anudivasaM, pratyahaM;#} ‘by d.’ {#divA;#}
+‘the next d.’ {#paredyuH,#} ‘the d. before’
+{#pUrvedyuH;#} ‘another d.’ {#anyedyuH;#} ‘the
+other d.’ {#aciraM;#} ‘d. and night’ {#aharniSaM,#}
+{#ahorAtraH; rAtriMdivaM, naktaMdivaM;#} ‘all d. long’
+{#aharniSaM, rAtriMdivaM, divA-niSaM-rAtraM;#} ‘till this
+d.’ {#adya yAvat;#} ‘the d. after to-morrow’
+{#paraSvaH;#} ‘he gained the d. {#tasmin dine sa#}
+{#viyajI baBUva;#} ‘d. break’ {%See%} {@Dawn;@}
+‘d. labour’ {#vrAtaM, dEnikaM karma;#} ‘d. labour-
+-er’ {#vrAtInaH;#} ‘d. light’ {#sUryaprakASaH, dina-#}
+{#-jyotis#} {%n.;%} ‘d. star’ {#praBAtanakzatraM;#} ‘d.
+time’ {#dinakAlaH, dinasamayaH;#} ‘being in
+the d.’ {#divAtana#} ({#nI#} {%f.%}); ‘during d.’
+{#divA#}. {@-Daily,@} {%a.%} {#dEnika-pratyahika-Ahnika#}
+({#kI#} {%f.%}), {#dEnaMdina#} ({#nI#} {%f.%}) ‘d. business’
+{#AhrikaM, nityakarman#} {%n. -adv.%} {#prati#} in
+comp. with ‘day’; {#pratyahaM, pratidinaM;#}
+{#dine dine, aharahaH#}. &c.
 <LEND>

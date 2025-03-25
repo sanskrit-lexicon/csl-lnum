@@ -1,36 +1,33 @@
 <L>60541<pc>5-0781<k1>mid<k2>mid<h>1
-1. {#mid#}¦, {#me/dyati#} 
-<ls>DHĀTUP. 26, 133</ls> {#(snehane)#} . 
-<ls>P. 7, 3, 82.</ls> 
-<ls>VOP. 11, 3. 5.</ls> {#meda/tAm#} 
-<ls>ṚV. 10, 93, 11.</ls> 
-<div n="1"> 1) {%fett werden%}: {#medya^ntu te\ vahna^yaH#} 
-<ls>ṚV. 2, 37, 3.</ls> {#na medya\to 'nu^medyati\ na kf^Sya\to 'nu^kfSyati#} 
-<ls>TBR. 1, 2, 6, 3.</ls> {#ga\rda\Bo 'tya\nyAnpa\SUnme^dyati#} 
-<ls>TS. 5, 1, 5, 5.</ls> 
-<ls>ŚAT. BR. 2, 4, 2, 6. 11, 1, 6, 34.</ls> {#amidat#} und {#amedizwa#} <is>gaṇa</is> {#dyutAdi#} 
-<ls>P. 1, 3, 91. 3, 1, 55.</ls> {#me/date#} 
-<ls>DHĀTUP. 18, 3.</ls> {#midyate#} pass. impers. 
-<ls>P. 7, 3, 82,</ls> 
-<ls>Sch.</ls> partic. {#minna#} 
-<ls>P. 7, 2, 16.</ls> 
-<ls>VOP. 26, 88. 89. 108.</ls> impers. {#minnam#} und {#meditam#} 
-<ls>104. 109.</ls> <ls>P. 7, 2, 17.</ls> Vgl. {#medas#} . 
-<div n="1">— 2) {%sich zu Jmd hingezogen fühlen%} (vgl. {#snih): mitraM mindernandateH prIyatervA saMtrAyaterminutermodatervA#} 
-<ls>MBH. 8, 1992.</ls> {#mindayati medayati vA snehArTAnmindermidervA#} 
-<ls>NĪLAK.</ls> {#minda/yati#} oder {#meda/yati = snehane#} 
-<ls>DHĀTUP. 32, 8.</ls>
-
-<div n="p">— caus. {%fett machen%} 
-<ls>NIR. 10, 21.</ls> {#yU\yaM gA^vo medayaTA kf\Sam#} 
-<ls>ṚV. 6, 28, 6.</ls> 
-<ls>PAÑCAV. BR. 5, 2, 12.</ls>
-
-<div n="p">— {#anu#} {%nach Jmd%} (acc.) {%fett werden%} 
-<ls>TBR. 1, 2, 6, 3</ls>; u. dem simpl. 1.
-
-<div n="p">— {#pra#} {%anfangen fett zu werden%} u. s. w.; partic. {#praminna#} und {#pramedita#} 
-<ls>P. 1, 2, 19. 7, 2, 17.</ls> 
-<ls>VOP. 26, 109.</ls> {#prameditAH saputrAste#} {%angefangen habend Gefühle der Zuneigung zu zeigen%} 
-<ls>BHAṬṬ. 9, 17.</ls> = {#snigDIBavitumArabDAH, BAryAdInprati snehaM katurmArabDavantaH, snigDA BavitumArabDAH#} oder {#prItA BavitumArabDAH#} die Scholien.
+1. {#mid#}¦, {#me/dyati#}
+<ls>DHĀTUP. 26,133</ls> ({#snehane#}) .
+<ls>P. 7,3,82.</ls>
+<ls>VOP. 11,3.</ls> <ls n="VOP. 11,">5.</ls> {#meda/tAm#}
+<ls>ṚV. 10,93,11.</ls>
+<div n="1"> 1) {%fett werden%}: {#medya^ntu te\ vahna^yaH#}
+<ls>ṚV. 2,37,3.</ls> {#na medya\to 'nu^medyati\ na kf^Sya\to 'nu^kfSyati#}
+<ls>TBR. 1,2,6,3.</ls> {#ga\rda\Bo 'tya\nyAnpa\SUnme^dyati#}
+<ls>TS. 5,1,5,5.</ls>
+<ls>ŚAT. BR. 2,4,2,6.</ls> <ls n="ŚAT. BR.">11,1,6,34.</ls> {#amidat#} und {#amedizwa#} <is>gaṇa</is> {#dyutAdi#}
+<ls>P. 1,3,91.</ls> <ls n="P.">3,1,55.</ls> {#me/date#}
+<ls>DHĀTUP. 18,3.</ls> {#midyate#} pass. impers.
+<ls>P. 7,3,82</ls>, <ls>Sch.</ls>
+partic. {#minna#}
+<ls>P. 7,2,16.</ls>
+<ls>VOP. 26,88.</ls> <ls n="VOP. 26,">89.</ls> <ls n="VOP. 26,">108.</ls> impers. {#minnam#} und {#meditam#}
+<ls n="VOP. 26,">104.</ls> <ls n="VOP. 26,">109.</ls> <ls>P. 7,2,17.</ls> Vgl. {#medas#} .
+<div n="1">— 2) {%sich zu Jmd hingezogen fühlen%} (vgl. {#snih): mitraM mindernandateH prIyatervA saMtrAyaterminutermodatervA#}
+<ls>MBH. 8,1992.</ls> {#mindayati medayati vA snehArTAnmindermidervA#}
+<ls>NĪLAK.</ls> {#minda/yati#} oder {#meda/yati = snehane#}
+<ls>DHĀTUP. 32,8.</ls>
+<div n="p">— caus. {%fett machen%}
+<ls>NIR. 10,21.</ls> {#yU\yaM gA^vo medayaTA kf\Sam#}
+<ls>ṚV. 6,28,6.</ls>
+<ls>PAÑCAV. BR. 5,2,12.</ls>
+<div n="p">— {#anu#} {%nach Jmd%} (acc.) {%fett werden%}
+<ls>TBR. 1,2,6,3</ls>; u. dem simpl. 1.
+<div n="p">— {#pra#} {%anfangen fett zu werden%} u. s. w.; partic. {#praminna#} und {#pramedita#}
+<ls>P. 1,2,19.</ls> <ls n="P.">7,2,17.</ls>
+<ls>VOP. 26,109.</ls> {#prameditAH saputrAste#} {%angefangen habend Gefühle der Zuneigung zu zeigen%}
+<ls>BHAṬṬ. 9,17.</ls> = {#snigDIBavitumArabDAH, BAryAdInprati snehaM katurmArabDavantaH, snigDA BavitumArabDAH#} oder {#prItA BavitumArabDAH#} die Scholien.
 <LEND>

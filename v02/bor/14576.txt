@@ -1,6 +1,6 @@
 <L>14576<pc>446<k1>midnight<k2>midnight
-<div n="lb"/>{@MIDNIGHT:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#ardDarAtraH,#} <ls>R.</ls> ; </div><div n="1">(2)
-<div n="lb"/>{#maDyarAtram;#} </div><div n="1">(3) {#maDyaniSA,#} P. v. ii.; </div><div n="1">(4) {#niSITaH,#}
-<div n="lb"/><div n="xe">{%in the calm m.:%}</div> <div n="xs">{#stimite niSITe,#}</div> <ls>C.</ls> </div><div n="I">II. Adj.
-<div n="lb"/>expr. by comp.s.</div>
+{@MIDNIGHT:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#ardDarAtraH,#} <ls>R.</ls> ; </div><div n="1">(2)
+{#maDyarAtram;#} </div><div n="1">(3) {#maDyaniSA,#} P. v. ii.; </div><div n="1">(4) {#niSITaH,#}
+<div n="xe">{%in the calm m.:%}</div> <div n="xs">{#stimite niSITe,#}</div> <ls>C.</ls> </div><div n="I">II. Adj.
+expr. by comp.s.</div>
 <LEND>

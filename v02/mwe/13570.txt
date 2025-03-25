@@ -1,6 +1,6 @@
 <L>13570<pc>327-a<k1>habitation<k2>habitation
-<div n="lb"/>HABITATION¦, {%s.%} {#vAsaH, vAsasTAnaM, nivAsaH, vasatiH#} {%f.,%} {#nivasatiH#} {%f.,%} {#gfhaM,#}
-<div n="lb"/>{#gehaH -haM, veSma#} {%m.%} {#(n), nilayaH -yanaM, AlayaH, AyatanaM, niveSanaM,#}
-<div n="lb"/>{#niketaH -tanaM, AgAraH, BavanaM, vasitaM, samAvAsaH, avasTAnaM, AvasaTaH,#}
-<div n="lb"/>{#sTAnaM, okas#} {%n.,%} {#DAma#} {%n.%} ({#n#}).
+HABITATION¦, {%s.%} {#vAsaH, vAsasTAnaM, nivAsaH, vasatiH#} {%f.,%} {#nivasatiH#} {%f.,%} {#gfhaM,#}
+{#gehaH -haM, veSma#} {%m.%} {#(n), nilayaH -yanaM, AlayaH, AyatanaM, niveSanaM,#}
+{#niketaH -tanaM, AgAraH, BavanaM, vasitaM, samAvAsaH, avasTAnaM, AvasaTaH,#}
+{#sTAnaM, okas#} {%n.,%} {#DAma#} {%n.%} ({#n#}).
 <LEND>

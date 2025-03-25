@@ -1,5 +1,5 @@
 <L>6882<pc>219<k1>dram<k2>dram
-<div n="lb"/>{@DRAM:@}¦ <div n="I">I Lit.: {#mAnaviSezaH#} </div><div n="I">II Drinking: {#pAnam.#}
-<div n="lb"/><div n="xe">{%D. -drinker:%}</div> <div n="xs">{#madyapaH:#}</div> v. Drunkard. {%D. -shop:%}
-<div n="lb"/>{#SORqikAlayaH, SuRqApAnam.#}</div>
+{@DRAM:@}¦ <div n="I">I Lit.: {#mAnaviSezaH#} </div><div n="I">II Drinking: {#pAnam.#}
+<div n="xe">{%D. -drinker:%}</div> <div n="xs">{#madyapaH:#}</div> v. Drunkard. {%D. -shop:%}
+{#SORqikAlayaH, SuRqApAnam.#}</div>
 <LEND>

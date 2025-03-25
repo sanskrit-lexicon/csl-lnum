@@ -1,20 +1,20 @@
 <L>7547<pc>327<k1>pack<k2>pack
 {@Pack,@}¦ {%s.%} {#BAraH, kUrcaH, BAMqaM, gucCaH, powalikA,#}
-<div n="lb"/>{#pawalaM#}. {@2@} {#gaRaH, saMGaH, vargaH, samUhaH, vfMdaM, saMcayaH;#}
-<div n="lb"/>{%See%} {@Multitude;@} ‘p. of hounds’
-<div n="lb"/>{#SvagaRaH, kukkurasaMGaH;#} ‘a p. of persons’
-<div n="lb"/>{#maMqalaM, janasamUhaH;#} ‘p.-horse’ {#pfzWyaH,#}
-<div n="lb"/>{#sTOrin;#} ‘p.-saddle’ {#paryARaM, palyAnaM;#} ‘p.-
-<div n="lb"/>-thread’ {#SaRasUtraM;#} ‘p.-cloth’ {#vezwanaM, pawaH#}.
-<div n="lb"/>{%-v. t.%} {#pawalIkf#} 8 U, {#puwIkf, puwayati#} (D.),
-<div n="lb"/>{#sapiMq#} 10, {#kUrcIkf;#} ‘p. in a box’ {#samudgake#}
-<div n="lb"/>{#ni-DA#} 3 U or {#niviS#} c. {@2@} {#kukarmArTaM-upa#}
-<div n="lb"/>{#daMSapUrvaM-saMmil#} c. or {#samAhf#} 1 P or {#ekIkf#}
-<div n="lb"/>or {#saMyuj#} 7 U, 10. {@3@} (Off) {#apa-niH-sf#}
-<div n="lb"/>c., {#sahasA apagam#} c. ({#gamayati#}) or {#pra-sTA#}
-<div n="lb"/>c. ({#sTApayati#}). {%-v. i.%} {#puwIBU#} 1 P, {#piMqIBU,#}
-<div n="lb"/>{#ekIBU#}. {@2@} {#sahasA apagam#} 1 P or {#pra-sTA#} 1 A.
-<div n="lb"/>{@-age,@} {%s.%} {#BAMqaM, kUrcaH, vastrAdigucCaH#}.
-<div n="lb"/>{@-Packet,@} {%s.%} {#powalikA, laGukUrcaH, laGuvezwanaM;#}
-<div n="lb"/>{#patravezwanaM#}. {@2@} {#patravAhinI nOH#}.
+{#pawalaM#}. {@2@} {#gaRaH, saMGaH, vargaH, samUhaH, vfMdaM, saMcayaH;#}
+{%See%} {@Multitude;@} ‘p. of hounds’
+{#SvagaRaH, kukkurasaMGaH;#} ‘a p. of persons’
+{#maMqalaM, janasamUhaH;#} ‘p.-horse’ {#pfzWyaH,#}
+{#sTOrin;#} ‘p.-saddle’ {#paryARaM, palyAnaM;#} ‘p.-
+-thread’ {#SaRasUtraM;#} ‘p.-cloth’ {#vezwanaM, pawaH#}.
+{%-v. t.%} {#pawalIkf#} 8 U, {#puwIkf, puwayati#} (D.),
+{#sapiMq#} 10, {#kUrcIkf;#} ‘p. in a box’ {#samudgake#}
+{#ni-DA#} 3 U or {#niviS#} c. {@2@} {#kukarmArTaM-upa#}
+{#daMSapUrvaM-saMmil#} c. or {#samAhf#} 1 P or {#ekIkf#}
+or {#saMyuj#} 7 U, 10. {@3@} (Off) {#apa-niH-sf#}
+c., {#sahasA apagam#} c. ({#gamayati#}) or {#pra-sTA#}
+c. ({#sTApayati#}). {%-v. i.%} {#puwIBU#} 1 P, {#piMqIBU,#}
+{#ekIBU#}. {@2@} {#sahasA apagam#} 1 P or {#pra-sTA#} 1 A.
+{@-age,@} {%s.%} {#BAMqaM, kUrcaH, vastrAdigucCaH#}.
+{@-Packet,@} {%s.%} {#powalikA, laGukUrcaH, laGuvezwanaM;#}
+{#patravezwanaM#}. {@2@} {#patravAhinI nOH#}.
 <LEND>

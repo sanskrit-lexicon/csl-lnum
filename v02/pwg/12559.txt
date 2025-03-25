@@ -1,29 +1,28 @@
 <L>12559<pc>1-1006<k1>ulbaRa<k2>ulbaRa/
-{#ulbaRa/#}¦ und {#ulvaRa/#} 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%klumpig, massenhaft, in Uebermaass vorhanden, überflüssig, ungeheuer; reichlich mit Etwas versehen%} 
-<ls>TS. 3, 4, 3, 7.</ls> {#visravatyasfgulvaRam#} 
-<ls>MBH. 3, 825.</ls> {#pravavarza ca tatrEva sahasA toyamulvaRam#} 
-<ls>340.</ls> {#SaravarzamaTolvaRam#} 
-<ls>ARJ. 3, 33.</ls> {#pAvakAn - ulvaRAn#} 
-<ls>MBH. 3, 14199.</ls> {#ulvaRakaPa#} 
-<ls>SUŚR. 2, 186, 12.</ls> {#ulvaRaSlezman#} 
-<ls>190, 12.</ls> {#vizamolvaRasahita#}
+{#ulbaRa/#}¦ und {#ulvaRa/#}
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%klumpig, massenhaft, in Uebermaass vorhanden, überflüssig, ungeheuer; reichlich mit Etwas versehen%}
+<ls>TS. 3,4,3,7.</ls> {#visravatyasfgulvaRam#}
+<ls>MBH. 3,825.</ls> {#pravavarza ca tatrEva sahasA toyamulvaRam#}
+<ls n="MBH. 3,">340.</ls> {#SaravarzamaTolvaRam#}
+<ls>ARJ. 3,33.</ls> {#pAvakAn — ulvaRAn#}
+<ls>MBH. 3,14199.</ls> {#ulvaRakaPa#}
+<ls>SUŚR. 2,186,12.</ls> {#ulvaRaSlezman#}
+<ls n="SUŚR.">190,12.</ls> {#vizamolvaRasahita#}
 [Page1-1007]
-
-<ls>31, 5.</ls> {#yadulbaRaM yadviTuraM kriyate#} 
-<ls>AIT. BR. 2, 7.</ls> 
-<ls>ṢAḌV. BR. 1, 5.</ls> 
-<ls>Ind. St. 2, 305.</ls> {#tamevAdrAkzuruttrastA nfpAH kAlamivolvaRam#} 
-<ls>RĀJA-TAR. 5, 148.</ls> {#sahajolvaRapOruza#} 
-<ls>MBH. 3, 8428.</ls> {#nAdaM mumucurulvaRam#} 
-<ls>1, 8288.</ls> {#nidAGakAlolvaRatApayeva (pfTivyA)#} 
-<ls>KUMĀRAS. 7, 84.</ls> {#tyAjitEH PalamutKAtErBagnESca bahuDA nfpEH . tasyAsIdulvaRo mArgaH pAdapEriva dantinaH#} (sc. {#mArgaH) ..#} 
-<ls>RAGH. 4, 33.</ls> {#vizolvaRAH (sarpAH)#} 
-<ls>MBH. 1, 1203. 1631. 3, 9930. 13, 850.</ls> {#gARqIvendrAyuDolvaRa (meGa)#} 
-<ls>3, 8288.</ls> {#pittolvaRA#} 
-<ls>SUŚR. 1, 199, 14.</ls> {#javolvaRErharigaREH#} 
-<ls>RĀJA-TAR. 5, 142.</ls> Nach den Lexicographen 
-<ls>?(AK. 3, 2, 31. H. 1467):</ls> {%offenbar.%} Das Wort steht mit {#ulba#} und wohl auch mit {#urvarA#} 2. in etym. Zusammenhange. Vgl. {#atyulbaRa, anulbaRa#} . 
-<div n="1">— 2) <lex>m.</lex> N. pr. eines Sohnes von <is>Vasiṣṭha</is> 
+<ls n="SUŚR.">31,5.</ls> {#yadulbaRaM yadviTuraM kriyate#}
+<ls>AIT. BR. 2,7.</ls>
+<ls>ṢAḌV. BR. 1,5.</ls>
+<ls>Ind. St. 2,305.</ls> {#tamevAdrAkzuruttrastA nfpAH kAlamivolvaRam#}
+<ls>RĀJA-TAR. 5,148.</ls> {#sahajolvaRapOruza#}
+<ls>MBH. 3,8428.</ls> {#nAdaM mumucurulvaRam#}
+<ls n="MBH.">1,8288.</ls> {#nidAGakAlolvaRatApayeva (pfTivyA)#}
+<ls>KUMĀRAS. 7,84.</ls> {#tyAjitEH PalamutKAtErBagnESca bahuDA nfpEH . tasyAsIdulvaRo mArgaH pAdapEriva dantinaH#} (sc. {#mArgaH) ..#}
+<ls>RAGH. 4,33.</ls> {#vizolvaRAH (sarpAH)#}
+<ls>MBH. 1,1203.</ls> <ls n="MBH. 1,">1631.</ls> <ls n="MBH.">3,9930.</ls> <ls n="MBH.">13,850.</ls> {#gARqIvendrAyuDolvaRa (meGa)#}
+<ls n="MBH.">3,8288.</ls> {#pittolvaRA#}
+<ls>SUŚR. 1,199,14.</ls> {#javolvaRErharigaREH#}
+<ls>RĀJA-TAR. 5,142.</ls> Nach den Lexicographen
+(<ls>AK. 3,2,31.</ls> <ls>H. 1467</ls>): {%offenbar.%} Das Wort steht mit {#ulba#} und wohl auch mit {#urvarA#} 2. in etym. Zusammenhange. Vgl. {#atyulbaRa, anulbaRa#} .
+<div n="1">— 2) <lex>m.</lex> N. pr. eines Sohnes von <is>Vasiṣṭha</is>
 <ls>BHĀG. P.</ls> in <ls>VP. 83, N. 8.</ls>
 <LEND>

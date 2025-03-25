@@ -1,19 +1,19 @@
 <L>99205<pc>7-0173<k1>SiMSapA<k2>SiMSa/pA
-{#SiMSa/pA#}¦ <lex>f.</lex> {%Dalbergia Sisu%} (ein schöner und starker Baum) 
-<ls>AK. 2, 4, 2, 43.</ls> 
-<ls>TRIK. 2, 4, 22. 3, 3, 338.</ls> 
-<ls>RATNAM. 208.</ls> 
-<ls>ṚV. 3, 53, 19.</ls> 
-<ls>AV. 20, 129, 7.</ls> 
-<ls>KAUŚ. 8. 34.</ls> <is>gaṇa</is> {#naqAdi#} 
-zu <ls>P. 4, 1, 99.</ls> {#arIhaRAdi#} 
-zu <ls>2, 80.</ls> {#palASAdi#} 
-zu <ls>3, 141.</ls> <ls>MBH. 3, 11575. 14, 1172.</ls> <ls>R. 2, 91, 49. (100, 48</ls> <ls>GORR.). 3, 79, 36. 5, 16, 46. 47. 49.</ls> <ls>SUŚR. 1, 183, 15. 2, 73, 15. 74, 16. 175, 4. 432, 10.</ls> {#°kazAya#} 
-<ls>78, 13.</ls> {#°sAra#} 
-<ls>?2, 416, 14. VARĀH. BṚH. S. 54, 105. 79, 2. 12. 15. KATHĀS. 70, 58. 75, 47. BHĀG. P. 9, 10, 30. SARVADARŚANAS. 8, 2. 5. PAÑCAT. 249, 24. SCHIEFNER, Lebensb. 289 (59).</ls> Aus metrischen Rücksichten {#SiMSapa#} <lex>m.</lex> 
-<ls>MBH. 2, 343.</ls> 
-<ls>PAÑCAR. 1, 6, 17.</ls> {#SiSapA#} 
-<ls>R. 5, 39, 23.</ls> fehlerhaft {#SiMSipA#} 
-<ls>VET.</ls> in <ls>LA. (III) 4, 1. 2. 5. 10.</ls> <ls>ŚUK. ebend. 34, 12.</ls> 
+{#SiMSa/pA#}¦ <lex>f.</lex> {%Dalbergia Sisu%} (ein schöner und starker Baum)
+<ls>AK. 2,4,2,43.</ls>
+<ls>TRIK. 2,4,22.</ls> <ls n="TRIK.">3,3,338.</ls>
+<ls>RATNAM. 208.</ls>
+<ls>ṚV. 3,53,19.</ls>
+<ls>AV. 20,129,7.</ls>
+<ls>KAUŚ. 8. 34.</ls> <is>gaṇa</is> {#naqAdi#}
+zu <ls>P. 4,1,99.</ls> {#arIhaRAdi#}
+zu <ls n="P. 4,">2,80.</ls> {#palASAdi#}
+zu <ls n="P. 4,">3,141.</ls> <ls>MBH. 3,11575.</ls> <ls n="MBH.">14,1172.</ls> <ls>R. 2,91,49.</ls> (<ls n="GORR. 2,">100,48</ls> <ls>GORR.</ls>). <ls n="R.">3,79,36.</ls> <ls n="R.">5,16,46.</ls> <ls n="R. 5,16,">47.</ls> <ls n="R. 5,16,">49.</ls> <ls>SUŚR. 1,183,15. 2,73,15. 74,16. 175,4. 432,10.</ls> {#°kazAya#}
+<ls n="SUŚR.">78,13.</ls> {#°sAra#}
+<ls n="SUŚR.">2,416,14.</ls> <ls>VARĀH. BṚH. S. 54,105. 79,2. 12. 15.</ls> <ls>KATHĀS. 70,58.</ls> <ls n="KATHĀS.">75,47.</ls> <ls>BHĀG. P. 9,10,30.</ls> <ls>SARVADARŚANAS. 8,2. 5.</ls> <ls>PAÑCAT. 249,24.</ls> <ls>SCHIEFNER, Lebensb. 289 (59).</ls> Aus metrischen Rücksichten {#SiMSapa#} <lex>m.</lex>
+<ls>MBH. 2,343.</ls>
+<ls>PAÑCAR. 1,6,17.</ls> {#SiSapA#}
+<ls>R. 5,39,23.</ls> fehlerhaft {#SiMSipA#}
+<ls>VET. in LA. (III) 4,1. 2. 5. 10.</ls> <ls>ŚUK. ebend. 34,12.</ls>
 <div n="v">— Vgl. {#kapila°, ku°, SAMSapa#} fgg.
 <LEND>

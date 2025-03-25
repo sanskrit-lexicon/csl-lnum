@@ -1,10 +1,10 @@
 <L>15610<pc>479<k1>nurse<k2>nurse
-<div n="lb"/>{@NURSE@}¦ (v. t.): <div n="I">I To nourish: q.v.: {#varDayati, #}
-<div n="lb"/>{# vi-#} (c. of {#vfD#}), <div n="xe">{%n. ed the plants:%}</div> <div n="xs">{#vfkzakAn vyava-#}
-<div n="lb"/>{#rDayat,#}</div> Ku. v. 14. </div><div n="I">II To tend: {#upa-carati, pari-#}
-<div n="lb"/>({#car,#} c. 1.), <div n="xe">{%the wounded king was n.d by%}
-<div n="lb"/>{%you yourself:%}</div> <div n="xs">{#rAjA SastraparikzataH tvayopacaritaH svayam,#}</div>
-<div n="lb"/>Ram. ii. 8. 14. </div><div n="I">III To suckle: q.v.: {#dugDaM #}
-<div n="lb"/>{# pAyayati#} (c. of {#pA#}), Sr. </div><div n="I">IV To protect,
-<div n="lb"/>cherish: q.v.</div>
+{@NURSE@}¦ (v. t.): <div n="I">I To nourish: q.v.: {#varDayati, #}
+{# vi-#} (c. of {#vfD#}), <div n="xe">{%n. ed the plants:%}</div> <div n="xs">{#vfkzakAn vyava-#}
+{#rDayat,#}</div> Ku. v. 14. </div><div n="I">II To tend: {#upa-carati, pari-#}
+({#car,#} c. 1.), <div n="xe">{%the wounded king was n.d by%}
+{%you yourself:%}</div> <div n="xs">{#rAjA SastraparikzataH tvayopacaritaH svayam,#}</div>
+Ram. ii. 8. 14. </div><div n="I">III To suckle: q.v.: {#dugDaM #}
+{# pAyayati#} (c. of {#pA#}), Sr. </div><div n="I">IV To protect,
+cherish: q.v.</div>
 <LEND>

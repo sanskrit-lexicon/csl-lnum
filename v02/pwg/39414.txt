@@ -1,19 +1,19 @@
 <L>39414<pc>4-0191<k1>nirGoza<k2>nirGoza<h>1
-1. {#nirGoza#}¦ (von {#Guz#} mit {#nis#}) <lex>m.</lex> {%Klang, Laut, Getön, Gerassel, Gestampf%} 
-<ls>AK. 1, 1, 6, 1.</ls> 
-<ls>H. 1399.</ls> {#alAbuvIRA°#} 
-<ls>ŚIKṢĀ 28.</ls> {#meGadunduBi°#} 
-<ls>MBH. 1, 8036. 4, 475.</ls> {#meGastanita°#} 
-<ls>1, 1300.</ls> <ls>HARIV. 6953.</ls> <ls>R. 1, 10, 32.</ls> {#hayaSiYjita°#} 
-<ls>2, 40, 19. 51, 13.</ls> {#varhiRAnAm#} 
-<ls>52, 3. 61, 6.</ls> {#tala°#} 
-<ls>67, 18.</ls> {#raTa°#} 
-<ls>N. 21, 3.</ls> {#meGa°#} 11. {#haya°#} 
-<ls>5.</ls> <ls>RAGH. 1, 36.</ls> {#jyA°#} 
-<ls>9, 64.</ls> <ls>VARĀH. BṚH. S. 42(43), 26. 45, 91.</ls> {#pOraviprapraGuzwapuRyAhanirGozEH#} 
-<ls>47, 49. 59, 16.</ls> <ls>KATHĀS. 9, 81.</ls> {#sEnya°#} 
-<ls>?19, 66. BHĀG. P. 8, 2, 3. 18, 17. PAÑCAT. 188, 10. ed. orn. 4, 5.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} 
-<ls>MBH. 1, 4792. 7, 6907. 14, 648.</ls> 
-<ls>HARIV. 6749.</ls> 
-<ls>R. 3, 4, 15. 5, 9, 49.</ls>
+1. {#nirGoza#}¦ (von {#Guz#} mit {#nis#}) <lex>m.</lex> {%Klang, Laut, Getön, Gerassel, Gestampf%}
+<ls>AK. 1,1,6,1.</ls>
+<ls>H. 1399.</ls> {#alAbuvIRA°#}
+<ls>ŚIKṢĀ 28.</ls> {#meGadunduBi°#}
+<ls>MBH. 1,8036.</ls> <ls n="MBH.">4,475.</ls> {#meGastanita°#}
+<ls n="MBH.">1,1300.</ls> <ls>HARIV. 6953.</ls> <ls>R. 1,10,32.</ls> {#hayaSiYjita°#}
+<ls n="R.">2,40,19.</ls> <ls n="R. 2,">51,13.</ls> {#varhiRAnAm#}
+<ls n="R. 1,">52,3.</ls> <ls n="R. 1,">61,6.</ls> {#tala°#}
+<ls n="R. 1,">67,18.</ls> {#raTa°#}
+<ls>N. 21,3.</ls> {#meGa°#} 11. {#haya°#}
+<ls n="N.">5.</ls> <ls>RAGH. 1,36.</ls> {#jyA°#}
+<ls n="RAGH.">9,64.</ls> <ls>VARĀH. BṚH. S. 42(43),26. 45,91.</ls> {#pOraviprapraGuzwapuRyAhanirGozEH#}
+<ls n="VARĀH. BṚH. S.">47,49. 59,16.</ls> <ls>KATHĀS. 9,81.</ls> {#sEnya°#}
+<ls n="KATHĀS.">19,66.</ls> <ls>BHĀG. P. 8,2,3.</ls> <ls n="BHĀG. P. 8,">18,17.</ls> <ls>PAÑCAT. 188,10. ed. orn. 4,5.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+<ls>MBH. 1,4792.</ls> <ls n="MBH.">7,6907.</ls> <ls n="MBH.">14,648.</ls>
+<ls>HARIV. 6749.</ls>
+<ls>R. 3,4,15.</ls> <ls n="R.">5,9,49.</ls>
 <LEND>

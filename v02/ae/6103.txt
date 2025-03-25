@@ -1,25 +1,25 @@
 <L>6103<pc>255<k1>learn<k2>learn
 {@Learn,@}¦ {%v. i.%} {#Sikz#} 1 A, {#aDi-i#} 2 A, {#paW#}
-<div n="lb"/>1 P, {#aDigam#} 1 P, {#aByas#} 4 U; {#aByAsena#}
-<div n="lb"/>{#vidyAM laB#} 1 A or {#prAp#} 5 P. {%-v. i.%} {#jYA#}
-<div n="lb"/>1 U, {#avagam, vid#} 2 P, {#buD#} 1 P, {#upalaB,#}
-<div n="lb"/>{#Sru#} 5 P, {#gfhItArTa#} {%-a.%} {#BU#} 1 P; {%See%} {@Know,@}
-<div n="lb"/>{@-ed,@} {%a.%} {#vidvas#} ({#duzI#} {%f.%}), {#vipaScit, jYA-#}
-<div n="lb"/>{#-nin, vidyA-viSizwa-saMpanna-vat, kfta-upAtta-vidya#}
-<div n="lb"/>{#paMqita, buDa, prA(pra)jYa; jYAnavat, vyutpanna,#}
-<div n="lb"/>{#bahuSruta, sUri, vidyAvfdDa, sAkzara#}. {@2@} {#aDItin,#}
-<div n="lb"/>{#vicakzaRa, vijYa, kuSala, nipuRa, pravIRa, catura;#}
-<div n="lb"/>{#kovida, jYa, vid#} in comp. {@3@} (Of
-<div n="lb"/>books &c.) {#pAMqityasya sUcaka, jYAnasya#}
-<div n="lb"/>{#gamaka;#} ‘a l. man’ {#paMqitaH, vipaScit, sUriH,#}
-<div n="lb"/>{#buDaH,#} &c.; ‘l. in law.’ {#smftijYa, nyAyavid#}
-<div n="lb"/>{@-edly,@} {%adv.%} {#paMqitavat, prajYavat, sajYAnaM,#}
-<div n="lb"/>{#nipuRatayA, sakOSalaM#}. {@-er,@} {%s.%} {#SizyaH, CAtraH,#}
-<div n="lb"/>{#aDyetf#} {%m.,%} {#vidyArTin#} {%m.%} {@-ing,@} {%s.%} {#vidyA,#}
-<div n="lb"/>{#vidvattA, vidvattvaM, jYAnaM, pAMqityaM, vyutpatti#} {%f.,%}
-<div n="lb"/>{#prAjYatA, vidyAsaMpad#} {%f.%} {@2@} (Act) {#aDyayanaM,#}
-<div n="lb"/>{#SikzaRaM, aByAsaH, vidyArjanaM, vidyAprApti#} {%f.,%}
-<div n="lb"/>{#jYAnAgamaH#}. {@3@} {#SAstraM, vidyA;#} ‘sacred l.’
-<div n="lb"/>{#Sruti#} {%f.,%} {#nigamajYAnaM;#} ‘he affects great l.’
-<div n="lb"/>{#paMqitaMmanyaH, paMqitAyate#} (D.).
+1 P, {#aDigam#} 1 P, {#aByas#} 4 U; {#aByAsena#}
+{#vidyAM laB#} 1 A or {#prAp#} 5 P. {%-v. i.%} {#jYA#}
+1 U, {#avagam, vid#} 2 P, {#buD#} 1 P, {#upalaB,#}
+{#Sru#} 5 P, {#gfhItArTa#} {%-a.%} {#BU#} 1 P; {%See%} {@Know,@}
+{@-ed,@} {%a.%} {#vidvas#} ({#duzI#} {%f.%}), {#vipaScit, jYA-#}
+{#-nin, vidyA-viSizwa-saMpanna-vat, kfta-upAtta-vidya#}
+{#paMqita, buDa, prA(pra)jYa; jYAnavat, vyutpanna,#}
+{#bahuSruta, sUri, vidyAvfdDa, sAkzara#}. {@2@} {#aDItin,#}
+{#vicakzaRa, vijYa, kuSala, nipuRa, pravIRa, catura;#}
+{#kovida, jYa, vid#} in comp. {@3@} (Of
+books &c.) {#pAMqityasya sUcaka, jYAnasya#}
+{#gamaka;#} ‘a l. man’ {#paMqitaH, vipaScit, sUriH,#}
+{#buDaH,#} &c.; ‘l. in law.’ {#smftijYa, nyAyavid#}
+{@-edly,@} {%adv.%} {#paMqitavat, prajYavat, sajYAnaM,#}
+{#nipuRatayA, sakOSalaM#}. {@-er,@} {%s.%} {#SizyaH, CAtraH,#}
+{#aDyetf#} {%m.,%} {#vidyArTin#} {%m.%} {@-ing,@} {%s.%} {#vidyA,#}
+{#vidvattA, vidvattvaM, jYAnaM, pAMqityaM, vyutpatti#} {%f.,%}
+{#prAjYatA, vidyAsaMpad#} {%f.%} {@2@} (Act) {#aDyayanaM,#}
+{#SikzaRaM, aByAsaH, vidyArjanaM, vidyAprApti#} {%f.,%}
+{#jYAnAgamaH#}. {@3@} {#SAstraM, vidyA;#} ‘sacred l.’
+{#Sruti#} {%f.,%} {#nigamajYAnaM;#} ‘he affects great l.’
+{#paMqitaMmanyaH, paMqitAyate#} (D.).
 <LEND>

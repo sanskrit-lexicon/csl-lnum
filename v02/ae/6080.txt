@@ -1,11 +1,11 @@
 <L>6080<pc>252<k1>laud<k2>laud
 {@Laud,@}¦ {%v. t.%} {#praSaMs#} 1 P, {#SlAG#} 1 A, {#stu#} 2 U,
-<div n="lb"/>{#kFt#} 10, {#guRaM varR#} 10. {%-s.%} {#praSaMsA, SlAGA,#}
-<div n="lb"/>{#stuti#} {%f.,%} {#guRa-varRanA-kIrtanaM#}. {@-able,@} {%a.%}
-<div n="lb"/>{#SlAGya, stutya, praSasya, SlAGArha, praSaMsArha, sta-#}
-<div n="lb"/>{#-vanocita;#} {%See%} {@Praise, -worthy. -ation,@}
-<div n="lb"/>{%s.%} {#praSaMsanaM, SlAGanaM#}. {@-atory,@} {%a.%} {#praSaMsAgarBa,#}
-<div n="lb"/>{#praSaMsaka, stutirUpa, praSaMsA-SlAGA-stuti-maya#}
-<div n="lb"/>({#yI#} {%f.%}), {#praSaMsAkara#} ({#rI#} {%f.%}). {@-er,@} {%s.%} {#praSaM-#}
-<div n="lb"/>{#-sakaH, stAvakaH#}.
+{#kFt#} 10, {#guRaM varR#} 10. {%-s.%} {#praSaMsA, SlAGA,#}
+{#stuti#} {%f.,%} {#guRa-varRanA-kIrtanaM#}. {@-able,@} {%a.%}
+{#SlAGya, stutya, praSasya, SlAGArha, praSaMsArha, sta-#}
+{#-vanocita;#} {%See%} {@Praise, -worthy. -ation,@}
+{%s.%} {#praSaMsanaM, SlAGanaM#}. {@-atory,@} {%a.%} {#praSaMsAgarBa,#}
+{#praSaMsaka, stutirUpa, praSaMsA-SlAGA-stuti-maya#}
+({#yI#} {%f.%}), {#praSaMsAkara#} ({#rI#} {%f.%}). {@-er,@} {%s.%} {#praSaM-#}
+{#-sakaH, stAvakaH#}.
 <LEND>

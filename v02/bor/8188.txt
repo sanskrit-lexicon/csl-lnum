@@ -1,8 +1,8 @@
 <L>8188<pc>259<k1>expression<k2>expression
-<div n="lb"/>{@EXPRESSION:@}¦ <div n="I">I Pressing out: </div><div n="1">(1) {#nizkarzaRam;#}</div>
-<div n="lb"/><div n="1">(2) {#nizpIqya grahaRam.#} </div><div n="I">II Declaration: </div><div n="1">(1) {#kaTanam;#}</div>
-<div n="lb"/><div n="1">(2) {#sTApanam.#} </div><div n="I">III Significance: indication:
-<div n="lb"/>{#vyaYjanam.#} </div><div n="I">IV Look: q. v. </div><div n="I">V Phrase: {#vAkyam,#}
-<div n="lb"/><div n="xe">{%here the fault is of e.:%}</div> <div n="xs">{#atra vAkyasyEva dozaH,#}</div> Kav.</div>
-<div n="lb"/><div n="I">VI In arith: {#rASiH.#}</div>
+{@EXPRESSION:@}¦ <div n="I">I Pressing out: </div><div n="1">(1) {#nizkarzaRam;#}</div>
+<div n="1">(2) {#nizpIqya grahaRam.#} </div><div n="I">II Declaration: </div><div n="1">(1) {#kaTanam;#}</div>
+<div n="1">(2) {#sTApanam.#} </div><div n="I">III Significance: indication:
+{#vyaYjanam.#} </div><div n="I">IV Look: q. v. </div><div n="I">V Phrase: {#vAkyam,#}
+<div n="xe">{%here the fault is of e.:%}</div> <div n="xs">{#atra vAkyasyEva dozaH,#}</div> Kav.</div>
+<div n="I">VI In arith: {#rASiH.#}</div>
 <LEND>

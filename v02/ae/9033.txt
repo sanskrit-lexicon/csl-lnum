@@ -1,13 +1,13 @@
 <L>9033<pc>403<k1>rude<k2>rude
 {@Rude,@}¦ {%a.%} {#avinIta, avinaya, viyAta, Dfzwa,#}
-<div n="lb"/>{#amaryAda, udData, sapratiBa, asaBya, aSizwa,#}
-<div n="lb"/>{#anArya, duHSIla, nazwavinaya, nirlajja, pragalBa#}.
-<div n="lb"/>{@2@} {#asaMskfta, aSizwa, grAmya, akftavidya,#}
-<div n="lb"/>{#aprabudDa, anakzara, aSikzita, vidyAhIna-SUnya#}.
-<div n="lb"/>{@3@} {#sTUla, adakza, anipuRa, apawu, rUkza#}. {@-ly,@}
-<div n="lb"/>{%adv.%} {#avinayena, Dfzwavat, pragalBaM, sTUlaM,#}
-<div n="lb"/>{#aSizwatayA,#} &c. {@-ness,@} {%s.%} {#avinayaH,#}
-<div n="lb"/>{#vEyAtyaM, DArzwyaM, amaryAdA, prAgalByaM, pratiBA,#}
-<div n="lb"/>{#anAryatA, adAkziRyaM#}. {@2@} {#asaMskAraH, aSizwatA,#}
-<div n="lb"/>{#grAmyatA#}. {@2@} {#sTUlatA, adAkzyaM,#} &c.
+{#amaryAda, udData, sapratiBa, asaBya, aSizwa,#}
+{#anArya, duHSIla, nazwavinaya, nirlajja, pragalBa#}.
+{@2@} {#asaMskfta, aSizwa, grAmya, akftavidya,#}
+{#aprabudDa, anakzara, aSikzita, vidyAhIna-SUnya#}.
+{@3@} {#sTUla, adakza, anipuRa, apawu, rUkza#}. {@-ly,@}
+{%adv.%} {#avinayena, Dfzwavat, pragalBaM, sTUlaM,#}
+{#aSizwatayA,#} &c. {@-ness,@} {%s.%} {#avinayaH,#}
+{#vEyAtyaM, DArzwyaM, amaryAdA, prAgalByaM, pratiBA,#}
+{#anAryatA, adAkziRyaM#}. {@2@} {#asaMskAraH, aSizwatA,#}
+{#grAmyatA#}. {@2@} {#sTUlatA, adAkzyaM,#} &c.
 <LEND>

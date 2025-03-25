@@ -1,19 +1,20 @@
-<L>75888<pc>4210-1<k1>barh<k2>barh<h>2<e>500
-2. {#barh#}¦ , {#barha/ti#} (vom Simpl. nur {#bfha/nta#} , <ab>s.u.</ab> d. W. ) {#*bfMhati#} , {#*barhati#} {#(bfdDO#}).
+<L>75888<pc>4-210-a<k1>barh<k2>barh<h>2
+<hom>2.</hom> √{#barh#}¦, {#barha/ti#} (vom <ab>Simpl.</ab> nur {#bfha/nta#}, <ab>s. u. d.</ab> <ab n="Worte">W.</ab>) *{#bfMhati#}, *{#barhati#} ({#bfdDO#}).
 <div n="m">— <ab>Caus.</ab> {#bfMhayati#}. {#°te#}
-<div n="1">— 1) {%Jmd feist machen , kräftigen , stärken.%}
-<div n="1">— 2) {%Etwas verstärken , vermehren , fördern.%} {#°bfMhita#} {%vermehrt durch%} , so v.a. {%versehen mit.%}
-<div n="p">— Mit {#ati#} <ab>Caus.</ab> , {#°bfMhita#} {%verstärkt , kräftiger gemacht.%}
-<div n="p">— Mit {#aBi#} <ab>Caus.</ab> {%kräftigen , stärken.%}
+<div n="1">— 1〉 {%Jmd feist machen, kräftigen, stärken%}.
+<div n="1">— 2〉 {%Etwas verstärken, vermehren, fördern%}. {#°bfMhita#} {%vermehrt durch,%} so <ab>v. a.</ab> {%versehen mit%}.
+<div n="p">— Mit {#ati#} <ab>Caus.</ab>, {#°bfMhita#} {%verstärkt, kräftiger gemacht%}.
+<div n="p">— Mit {#aBi#} <ab>Caus.</ab> {%kräftigen, stärken%}.
 <div n="p">— Mit {#ud#} <ab>Caus.</ab> in {#udvfMhaRa#}.
-<div n="p">— Mit {#upa#} <ab>Caus.</ab> {#°bfMhayati#} {%kräftigen , stärken , erheben.%} {#upabfMhita#} {%verstärkt durch%} (<ab>Instr.</ab> oder im Comp. vorangehend) auch so v.a. {%begleitet von , versehen — , in Uebereinstimmung seiend mit.%}
-<div n="m">— <ab>Intens.</ab> ( {#°barbfhi#} , {#°ba/rbfhat#}) {%heftig oder wiederholt andrücken.%}
-<div n="p">— Mit {#samupa#} <ab>Caus.</ab> {%verstärken , vermehren , ergänzen.%}
-<div n="p">— Mit {#*ni#} , {#°bfMhyate#} , {#°barhyati#}.
-<div n="p">— Mit {#pari#} <ab>Act.</ab> <ab>Med.</ab> {%umfangen , umschliessen%} (und dadurch {%stützen%} ) , {%befestigen , dichtmachen , munire.%} <ab>Partic.</ab> {#pa/ribfQa#} und {#parivfQa#} (s. auch bes.). {#paribfQatama#} {%der höchste%} <ls>ŚAṂK.</ls> zu <ls>TAITT.UP.S.134.</ls>
-<div n="m">— <ab>Caus.</ab> {#°bfMhayati#} {%kräftigen , stärken , verstärken.%} {#paribfMhita#} {%verstärkt durch%} (<ab>Instr.</ab> oder in Comp. vorangehend) , so v.a. {%verbunden mit , begleitet von , versehen mit.%} Auch {#*parivfhita#}.
-<div n="p">— Mit {#vi#} {%sich an oder in einander drücken.%} Mit {#sam#} {%fest zusammenfügen.%}
+<div n="p">— Mit {#upa#} <ab>Caus.</ab> {#°bfMhayati#} {%kräftigen, stärken, erheben%}. {#upabfMhita#} {%verstärkt durch%} (<ab>Instr.</ab> oder im <ab>Comp.</ab> vorangehend) auch so <ab>v. a.</ab> {%begleitet von, versehen —, in Uebereinstimmung seiend mit%}.
+<div n="m">— <ab>Intens.</ab> ({#°barbfhi#}, {#°ba/rbfhat#}) {%heftig oder wiederholt andrücken%}.
+<div n="p">— Mit {#samupa#} <ab>Caus.</ab> {%verstärken, vermehren, ergänzen%}.
+<div n="p">— Mit *{#ni#}, {#°bfMhyate#}, {#°barhyati#}.
+<div n="p">— Mit {#pari#} <ab>Act.</ab> <ab>Med.</ab> {%umfangen, umschliessen%} (und dadurch {%stützen%}), {%befestigen, dichtmachen, munire%}. <ab>Partic.</ab> {#pa/ribfQa#} und {#parivfQa#} (<ab>s.</ab> auch <ab>bes.</ab>). {#paribfQatama#} {%der höchste%} <ls>ŚAṂK. zu TAITT. UP. S. 134</ls>.
+<div n="m">— <ab>Caus.</ab> {#°bfMhayati#} {%kräftigen, stärken, verstärken%}. {#paribfMhita#} {%verstärkt durch%} (<ab>Instr.</ab> oder in <ab>Comp.</ab> vorangehend), so <ab>v. a.</ab> {%verbunden mit, begleitet von, versehen mit%}. Auch *{#parivfhita#}.
+<div n="p">— Mit {#vi#} {%sich an oder in einander drücken%}.
+<div n="p">Mit {#sam#} {%fest zusammenfügen%}.
 <div n="m">— <ab>Caus.</ab>
-<div n="1">— 1) {#saMbarhapati#} {%zusammenfügen , verbinden mit%} (<ab>Dat.</ab>).
-<div n="1">— 2) {#saMbfMhayati#} {%kräftigen , stärken , ermuntern.%}
+<div n="1">— 1〉 {#saMbarhapati#} {%zusammenfügen, verbinden mit%} (<ab>Dat.</ab>).
+<div n="1">— 2〉 {#saMbfMhayati#} {%kräftigen, stärken, ermuntern%}.
 <LEND>

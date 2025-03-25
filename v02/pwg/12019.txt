@@ -1,21 +1,21 @@
 <L>12019<pc>1-0969<k1>uparoDa<k2>uparoDa
-{#uparoDa#}¦ (von {#ruD#} mit {#upa#}) <lex>m.</lex> {%Versperrung, Obstruction, Hemmung, Störung, Beeinträchtigung%}: {#mArgoparoDa#} 
-<ls>SUŚR. 1, 90, 12.</ls> {#galopa°#} 
-<ls>308, 16.</ls> {#pakzmopa°#} 
-<ls>2, 338, 5. 513, 9.</ls> {#SaratpramfzwAmbuDaroparoDaH SaSIva#} 
-<ls>RAGH. 6, 44.</ls> {#uparoDaM kftavatI na visarjitavatyasi#} 
-<ls>MBH. 3, 13670.</ls> {#anyezAmapi BEkzyopajIvinAM vfttyuparoDaM karozi#} 
-<ls>1, 706. 713.</ls> {#nidroparoDa#} 
-<ls>5837.</ls> {#anugrahaH KalUparoDaH#} 
-<ls>VIKR. 44, 12.</ls> {#vivekopa°#} 
-<ls>PRAB. 25, 10.</ls> {#kAryajYA kAryoparoDaM me pariharati#} 
-<ls>ŚĀK. 90, 12.</ls> {#tapovanopa°#} 
-<ls>30, 9.</ls> {#tapovananivAsinAmuparoDo mA BUt#} 
-<ls>8, 9.</ls> {#uparoDakArin#} {%Störung verursachend%} 
-<ls>60, 18.</ls> {#uparoDo BavedasmAkaM tapasaH kfte#} 
-<ls>MBH. 15, 997.</ls> {#BftyAnAmuparoDena#} 
-<ls>M. 11, 10.</ls> {#tezAmanuparoDena#} 
-<ls>2, 236.</ls> {#anuparoDataH#} {%ohne Jmd zu nahe zu treten%} 
-<ls>4, 32.</ls> {#PalAnuparoDena#} 
-<ls>PĀR. GṚHY. 2, 17.</ls>
+{#uparoDa#}¦ (von {#ruD#} mit {#upa#}) <lex>m.</lex> {%Versperrung, Obstruction, Hemmung, Störung, Beeinträchtigung%}: {#mArgoparoDa#}
+<ls>SUŚR. 1,90,12.</ls> {#galopa°#}
+<ls n="SUŚR. 1,">308,16.</ls> {#pakzmopa°#}
+<ls n="SUŚR.">2,338,5.</ls> <ls n="SUŚR. 2,">513,9.</ls> {#SaratpramfzwAmbuDaroparoDaH SaSIva#}
+<ls>RAGH. 6,44.</ls> {#uparoDaM kftavatI na visarjitavatyasi#}
+<ls>MBH. 3,13670.</ls> {#anyezAmapi BEkzyopajIvinAM vfttyuparoDaM karozi#}
+<ls n="MBH.">1,706.</ls> <ls n="MBH. 1,">713.</ls> {#nidroparoDa#}
+<ls n="MBH. 3,">5837.</ls> {#anugrahaH KalUparoDaH#}
+<ls>VIKR. 44,12.</ls> {#vivekopa°#}
+<ls>PRAB. 25,10.</ls> {#kAryajYA kAryoparoDaM me pariharati#}
+<ls>ŚĀK. 90,12.</ls> {#tapovanopa°#}
+<ls n="ŚĀK.">30,9.</ls> {#tapovananivAsinAmuparoDo mA BUt#}
+<ls n="ŚĀK.">8,9.</ls> {#uparoDakArin#} {%Störung verursachend%}
+<ls n="ŚĀK.">60,18.</ls> {#uparoDo BavedasmAkaM tapasaH kfte#}
+<ls>MBH. 15,997.</ls> {#BftyAnAmuparoDena#}
+<ls>M. 11,10.</ls> {#tezAmanuparoDena#}
+<ls n="M.">2,236.</ls> {#anuparoDataH#} {%ohne Jmd zu nahe zu treten%}
+<ls n="M.">4,32.</ls> {#PalAnuparoDena#}
+<ls>PĀR. GṚHY. 2,17.</ls>
 <LEND>

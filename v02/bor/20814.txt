@@ -1,10 +1,10 @@
 <L>20814<pc>653<k1>smell<k2>smell
-<div n="lb"/>{@SMELL@}¦ (subs.): <div n="I">I The sense: {#GrARam,#} <div n="xe">{%perceiv-%}
-<div n="lb"/>{%able by s.:%}</div> <div n="xs">{#GrARagrAhya#}</div> (f. {#hyA#}), Par. </div><div n="I">II The
-<div n="lb"/>act: {#GrARam, A-, upA-,#} <div n="xe">{%the sense of s.:%}</div> <div n="xs">{#GrARendriyam,#}</div>
-<div n="lb"/>K.; <div n="xe">{%the faculty of s.:%}</div> <div n="xs">{#GrARaSaktiH.#}</div> </div><div n="I">III Scent,
-<div n="lb"/>odour: q. v. {#ganDaH,#} <div n="xe">{%having the s. of fish:%}</div> <div n="xs">{#matsya-#}
-<div n="lb"/>{#ganDa#}</div> (f. {#nDA#}), Mah.; <div n="xe">{%s. of wine:%}</div> <div n="xs">{#madyasya#}</div> {%or%} [Page654]
-<div n="lb"/>{#madyaBavo ganDaH,#} Bha.; <div n="xe">{%cannot bear even the s. of%}
-<div n="lb"/>{%others:%}</div> <div n="xs">{#nAnyasya ganDamapi sahante,#}</div> Si. v. 42.</div>
+{@SMELL@}¦ (subs.): <div n="I">I The sense: {#GrARam,#} <div n="xe">{%perceiv-%}
+{%able by s.:%}</div> <div n="xs">{#GrARagrAhya#}</div> (f. {#hyA#}), Par. </div><div n="I">II The
+act: {#GrARam, A-, upA-,#} <div n="xe">{%the sense of s.:%}</div> <div n="xs">{#GrARendriyam,#}</div>
+K.; <div n="xe">{%the faculty of s.:%}</div> <div n="xs">{#GrARaSaktiH.#}</div> </div><div n="I">III Scent,
+odour: q. v. {#ganDaH,#} <div n="xe">{%having the s. of fish:%}</div> <div n="xs">{#matsya-#}
+{#ganDa#}</div> (f. {#nDA#}), Mah.; <div n="xe">{%s. of wine:%}</div> <div n="xs">{#madyasya#}</div> {%or%} [Page654]
+{#madyaBavo ganDaH,#} Bha.; <div n="xe">{%cannot bear even the s. of%}
+{%others:%}</div> <div n="xs">{#nAnyasya ganDamapi sahante,#}</div> Si. v. 42.</div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>5772<pc>185<k1>demand<k2>demand
-<div n="lb"/>{@DEMAND@}¦ (v.): <div n="I">I To ask: q. v.: </div><div n="1">(1) {#yAcate#}
-<div n="lb"/>({#yAc,#} c. l.); </div><div n="1">(2) by circumlo., <div n="xe">{%d. ed the%}
-<div n="lb"/>{%balance from the merchant:%}</div> <div n="xs">{#SrezWinamuvAca dIyatAM me #}
-<div n="lb"/>{# tuleti,#}</div> P. i. 21. </div><div n="I">II To call for: Ph.: <div n="xe">{%it d. s%}
-<div n="lb"/>{%careful enquiry:%}</div> <div n="xs">{#nipuRamidamanusanDeyam;#}</div> <div n="xe">{%the case d. s%}
-<div n="lb"/>{%your special attention:%}</div> <div n="xs">{#asminvizaye tvayA viSezeRA-#}
-<div n="lb"/>{#vaDAnaM deyam#}</div> <div n="xe">{%or%}</div> <div n="xs">{#viSezeRAvahitena Bavitavyam.#}</div> </div><div n="I">III To
-<div n="lb"/>summon: q. v.</div>
+{@DEMAND@}¦ (v.): <div n="I">I To ask: q. v.: </div><div n="1">(1) {#yAcate#}
+({#yAc,#} c. l.); </div><div n="1">(2) by circumlo., <div n="xe">{%d. ed the%}
+{%balance from the merchant:%}</div> <div n="xs">{#SrezWinamuvAca dIyatAM me #}
+{# tuleti,#}</div> P. i. 21. </div><div n="I">II To call for: Ph.: <div n="xe">{%it d. s%}
+{%careful enquiry:%}</div> <div n="xs">{#nipuRamidamanusanDeyam;#}</div> <div n="xe">{%the case d. s%}
+{%your special attention:%}</div> <div n="xs">{#asminvizaye tvayA viSezeRA-#}
+{#vaDAnaM deyam#}</div> <div n="xe">{%or%}</div> <div n="xs">{#viSezeRAvahitena Bavitavyam.#}</div> </div><div n="I">III To
+summon: q. v.</div>
 <LEND>

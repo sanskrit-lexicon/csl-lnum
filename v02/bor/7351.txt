@@ -1,16 +1,16 @@
 <L>7351<pc>233<k1>elephant<k2>elephant
-<div n="lb"/>{@ELEPHANT:@}¦ <div n="1">(1) {#gajaH,#} <div n="xe">{%e. -catcher:%}</div> <div n="xs">{#gajabanDaH,#}</div> Vet.; <div n="xe">{%a%}
-<div n="lb"/>{%wild e.:%}</div> <div n="xs">{#vanagajaH;#}</div> </div><div n="1">(2) {#hastin#} (m.); </div><div n="1">(3) {#karin#}
-<div n="lb"/>(m.); </div><div n="1">(4) {#mAtaNgaH;#} </div><div n="1">(5) {#kuYjaraH;#} </div><div n="1">(6) {#nAgaH;#} </div><div n="1">(7)
-<div n="lb"/>{#vAraRaH;#} <div n="xe">{%a rutting e.:%}</div> <div n="xs">{#mattavAraRaH;#}</div> </div><div n="1">(8) {#dantin#} (m.);</div>
-<div n="lb"/><div n="1">(9) {#dvipaH,#} <div n="xe">{%a newly caught e.:%}</div> <div n="xs">{#navagraho dvipaH,#}</div> D.
-<div n="lb"/>ii.; <div n="xe">{%a musk -e.:%}</div> <div n="xs">{#ganDadvipaH.#}</div> {%A she -e.:%} </div><div n="1">(1)
-<div n="lb"/>{#kariRI;#} </div><div n="1">(2) {#hastinI;#} </div><div n="1">(3) {#gajavaSA;#} </div><div n="1">(4) {#kareRu#}
-<div n="lb"/>(f.). <div n="xe">{%A young e.:%}</div> <div n="xs">{#kara(la)BaH.#}</div> {%The leader of a%}
-<div n="lb"/>({%wild%}) {%herd%} ({%of e.s%}): {#yUTanATaH#} <div n="xe">{%or%}</div> <div n="xs">{#yUTapaH.#}</div> {%A large%}
-<div n="lb"/>{%fine e.:%} </div><div n="1">(1) {#gajendraH;#} </div><div n="1">(2) {#gajapuNgavaH;#} </div><div n="1">(3) {#kareRuvaryaH.#}
-<div n="lb"/><div n="xe">{%The roaring of an e.:%}</div> <div n="xs">{#bfMhitam.#}</div> {%Its trunk:%}</div>
-<div n="lb"/><div n="1">(1) {#karaH;#} </div><div n="1">(2) {#SuRqaH;#} </div><div n="1">(3) {#hastaH#} (rare). <div n="xe">{%Its%}
-<div n="lb"/>{%frontal globes:%}</div> <div n="xs">{#kumBO#}</div> (m. dual). {%Its temple:%}</div>
-<div n="lb"/><div n="1">(1) {#gaRqaH;#} </div><div n="1">(2) {#kawaH.#}</div>
+{@ELEPHANT:@}¦ <div n="1">(1) {#gajaH,#} <div n="xe">{%e. -catcher:%}</div> <div n="xs">{#gajabanDaH,#}</div> Vet.; <div n="xe">{%a%}
+{%wild e.:%}</div> <div n="xs">{#vanagajaH;#}</div> </div><div n="1">(2) {#hastin#} (m.); </div><div n="1">(3) {#karin#}
+(m.); </div><div n="1">(4) {#mAtaNgaH;#} </div><div n="1">(5) {#kuYjaraH;#} </div><div n="1">(6) {#nAgaH;#} </div><div n="1">(7)
+{#vAraRaH;#} <div n="xe">{%a rutting e.:%}</div> <div n="xs">{#mattavAraRaH;#}</div> </div><div n="1">(8) {#dantin#} (m.);</div>
+<div n="1">(9) {#dvipaH,#} <div n="xe">{%a newly caught e.:%}</div> <div n="xs">{#navagraho dvipaH,#}</div> D.
+ii.; <div n="xe">{%a musk -e.:%}</div> <div n="xs">{#ganDadvipaH.#}</div> {%A she -e.:%} </div><div n="1">(1)
+{#kariRI;#} </div><div n="1">(2) {#hastinI;#} </div><div n="1">(3) {#gajavaSA;#} </div><div n="1">(4) {#kareRu#}
+(f.). <div n="xe">{%A young e.:%}</div> <div n="xs">{#kara(la)BaH.#}</div> {%The leader of a%}
+({%wild%}) {%herd%} ({%of e.s%}): {#yUTanATaH#} <div n="xe">{%or%}</div> <div n="xs">{#yUTapaH.#}</div> {%A large%}
+{%fine e.:%} </div><div n="1">(1) {#gajendraH;#} </div><div n="1">(2) {#gajapuNgavaH;#} </div><div n="1">(3) {#kareRuvaryaH.#}
+<div n="xe">{%The roaring of an e.:%}</div> <div n="xs">{#bfMhitam.#}</div> {%Its trunk:%}</div>
+<div n="1">(1) {#karaH;#} </div><div n="1">(2) {#SuRqaH;#} </div><div n="1">(3) {#hastaH#} (rare). <div n="xe">{%Its%}
+{%frontal globes:%}</div> <div n="xs">{#kumBO#}</div> (m. dual). {%Its temple:%}</div>
+<div n="1">(1) {#gaRqaH;#} </div><div n="1">(2) {#kawaH.#}</div>
 <LEND>

@@ -1,3 +1,3 @@
-<L>195686<pc>963,3<k1>vidman<k2>vidma/n<h>a<e>2
-<s>vidma/n</s> <hom>a</hom> ¦ <lex>n.</lex> knowledge, intelligence, wisdom (<ab>dat.</ab> <s>vidma/ne</s> as <ab>Ved.</ab> <ab>inf.</ab> to know, to learn), <ls>RV.</ls><info lex="n"/>
+<L>195686<pc>963,3<k1>vidman<k2>vidma/n<e>2
+<s>vidma/n</s> ¦ <lex>n.</lex> knowledge, intelligence, wisdom (<ab>dat.</ab> <s>vidma/ne</s> as <lang>Ved.</lang> <ab>inf.</ab> to know, to learn), <ls>RV.</ls><info lex="n"/><info hui="a"/>
 <LEND>

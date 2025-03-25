@@ -1,242 +1,226 @@
 <L>32063<pc>3-0520<k1>dar<k2>dar<h>1
-1. {#dar#}¦ {#(dF, df), dfRAti#} 
-<ls>DHĀTUP. 31, 23</ls>; {#dadA/ra, dadaratus#} und {#dadratus#} 
-<ls>P. 7, 4, 12.</ls> 
-<ls>VOP. 16, 5.</ls> {#(vi) dadariTa#} 
-<ls>P. 6, 4, 126,</ls> 
-<ls>Sch.</ls>; ved. {#dar#} 2. sg., {#dart#} 3. sg., {#da/rzat, darzasi, da/rzi; da/rtA#}; med. ved. {#(A) darzate; (pari) darzIzwa#}; 
-<div n="1"> 1) {%bersten, zerfahren, zerfallen%}: {#vajra^sya\ yatte\ niha^tasya\ SuzmA^tsva\nAcci^dindra para\mo da\dAra^#} 
-<ls>ṚV. 6, 27, 4.</ls> {#hanpUrve\ arDe^ Bi\yasApa^ro\ dart#} 5. {#darza\nnu pUrvo\ apa^ro\ nu da^rzat#} 
-<ls n="ṚV.">10, 27, 7.</ls> {#jihvA te SataDA dIryAt#} (prec.) 
-<ls>HARIV. 15177.</ls> 
-<div n="1">— 2) {%bersten machen, sprengen, zerreissen, zerpflücken%}: {#te ma^rmfjata dadf\vAMso\ adri^m#} 
-<ls>ṚV. 4, 1, 14.</ls> {#taM brahmAstreRa sOmitrirdadArAdricayopamam#} 
-<ls>MBH. 3, 16246.</ls> {#(dEtyendram) dadAra karajErUrAverakAM kawakfdyaTA#} 
-<ls>BHĀG. P. 1, 3, 18.</ls> {#AdidEtyaM taM daMzwrayAdrimiva vajraDaro dadAra#} 
-<ls>2, 7, 1. 7, 8, 29.</ls> {#irAM dfRAti#} zur Erkl. von {#indra#} 
-<ls>NIR. 10, 8.</ls> {#adaradarTAn#} ved. (klass. {#adArIt#}) viell. {%erschliessen%} 
-<ls>P. 3, 1, 59,</ls> 
-<ls>Sch.</ls> 
-<ls>WEST.</ls> zieht dieses zu 2. {#dar#}. — pass. {#dIrya/te#}, ep. auch act. ({#dI/ryati#} 
-<ls>VOP.</ls> in <ls>DHĀTUP. 26, 139</ls>). 
-<div n="1"> 1) {%sich spalten, bersten, aufbrechen%}: {#yadi kalaSo dIryeta#} 
-<ls>ŚAT. BR. 4, 5, 10, 7.</ls> 
-<ls>PAÑCAV. BR. 9, 6.</ls> {#dIryante kiM nu girayaH#} 
-<ls>MBH. 1, 5374.</ls> {#dIryamARA ivAdrayaH#} 
-<ls>R. 2, 23, 35.</ls> {#parvatasyeva dIryataH#} 
-<ls>1, 67, 18.</ls> {#dIryatIva vasuMDarA#} 
-<ls>MBH. 6, 677.</ls> {#varuRAlayaH - dIryamARaH samantataH#} 
-<ls>3, 8872.</ls> {#SiraH - dIryatAm#} 
-<ls>1, 5990.</ls> {#vraRo rUQo 'pi dIryate#} {%die geheilte Wunde bricht wieder auf%} 
-<ls>SUŚR. 1, 88, 18.</ls> {#hfdayaM dIryata idaM SokAt#} 
-<ls>MBH. 3, 2867.</ls> {#hfdayaM (mano) dIryatIva ca#} 
-<ls>1, 2062. 3, 266. 13, 7784.</ls> <ls>R. GORR. 2, 81, 2.</ls> {#dIrRa = vidArita#} 
-<ls>MED. ṇ. 16.</ls> <ls>ŚĀṄKH. ŚR. 13, 12,1.</ls>
+1. {#dar#}¦ {#(dF, df), dfRAti#}
+<ls>DHĀTUP. 31,23</ls>; {#dadA/ra, dadaratus#} und {#dadratus#}
+<ls>P. 7,4,12.</ls>
+<ls>VOP. 16,5.</ls> {#(vi) dadariTa#}
+<ls>P. 6,4,126</ls>, <ls>Sch.</ls>;
+ved. {#dar#} 2. sg., {#dart#} 3. sg., {#da/rzat, darzasi, da/rzi; da/rtA#}; med. ved. {#(A) darzate; (pari) darzIzwa#};
+<div n="1"> 1) {%bersten, zerfahren, zerfallen%}: {#vajra^sya\ yatte\ niha^tasya\ SuzmA^tsva\nAcci^dindra para\mo da\dAra^#}
+<ls>ṚV. 6,27,4.</ls> {#hanpUrve\ arDe^ Bi\yasApa^ro\ dart#} 5. {#darza\nnu pUrvo\ apa^ro\ nu da^rzat#}
+<ls n="ṚV.">10,27,7.</ls> {#jihvA te SataDA dIryAt#} (prec.)
+<ls>HARIV. 15177.</ls>
+<div n="1">— 2) {%bersten machen, sprengen, zerreissen, zerpflücken%}: {#te ma^rmfjata dadf\vAMso\ adri^m#}
+<ls>ṚV. 4,1,14.</ls> {#taM brahmAstreRa sOmitrirdadArAdricayopamam#}
+<ls>MBH. 3,16246.</ls> {#(dEtyendram) dadAra karajErUrAverakAM kawakfdyaTA#}
+<ls>BHĀG. P. 1,3,18.</ls> {#AdidEtyaM taM daMzwrayAdrimiva vajraDaro dadAra#}
+<ls n="BHĀG. P.">2,7,1.</ls> <ls n="BHĀG. P.">7,8,29.</ls> {#irAM dfRAti#} zur Erkl. von {#indra#}
+<ls>NIR. 10,8.</ls> {#adaradarTAn#} ved. (klass. {#adArIt#}) viell. {%erschliessen%}
+<ls>P. 3,1,59</ls>, <ls>Sch.</ls>
+<ls>WEST.</ls> zieht dieses zu 2. {#dar#}. — pass. {#dIrya/te#}, ep. auch act. ({#dI/ryati#}
+<ls>VOP.</ls> in <ls>DHĀTUP. 26,139</ls>).
+<div n="1"> 1) {%sich spalten, bersten, aufbrechen%}: {#yadi kalaSo dIryeta#}
+<ls>ŚAT. BR. 4,5,10,7.</ls>
+<ls>PAÑCAV. BR. 9,6.</ls> {#dIryante kiM nu girayaH#}
+<ls>MBH. 1,5374.</ls> {#dIryamARA ivAdrayaH#}
+<ls>R. 2,23,35.</ls> {#parvatasyeva dIryataH#}
+<ls n="R.">1,67,18.</ls> {#dIryatIva vasuMDarA#}
+<ls>MBH. 6,677.</ls> {#varuRAlayaH — dIryamARaH samantataH#}
+<ls n="MBH.">3,8872.</ls> {#SiraH — dIryatAm#}
+<ls n="MBH.">1,5990.</ls> {#vraRo rUQo 'pi dIryate#} {%die geheilte Wunde bricht wieder auf%}
+<ls>SUŚR. 1,88,18.</ls> {#hfdayaM dIryata idaM SokAt#}
+<ls>MBH. 3,2867.</ls> {#hfdayaM (mano) dIryatIva ca#}
+<ls n="MBH.">1,2062.</ls> <ls n="MBH.">3,266.</ls> <ls n="MBH.">13,7784.</ls> <ls>R. GORR. 2,81,2.</ls> {#dIrRa = vidArita#}
+<ls>MED. ṇ. 16.</ls> <ls>ŚĀṄKH. ŚR. 13,12,1.</ls>
 [Page3-0521]
-{#hfdaya#} 
-<ls>R. GORR. 2, 39, 29.</ls> 
-<div n="1">— 2) {%auseinanderstieben%} (von Kämpfern in der Schlacht) ({#dI/ryati#} {%sich fürchten%} 
-<ls>VOP.</ls> in <ls>DHĀTUP. 26, 139.</ls> {#da/rati, dfRAti#} dass. 
-<ls>VOP.</ls> in <ls>DHĀTUP. 31, 23</ls>; vgl. 
-<ls>19, 47. 34, 15</ls>): {#parvatA api dIryeyuH kiM punaryuDi rAkzasAH#} 
-<ls>R. 5, 58, 11.</ls> {#yato yataH prekzate sma gadAmudyamya pARqavaH . tena tena sma dIryante sarvasEnyAni#} 
-<ls>MBH. 6, 2801. 146. 8, 3977.</ls> {#ete dIryanti sagaRAH pAYcAlAnAM mahAraTAH#} 
-<ls>4357.</ls> {#senA dIrRA#} 
-<ls>6, 144. 146.</ls> <ls>HARIV. 10621.</ls> Daher {#dIrRa = BIta#} {%erschrocken%} 
-<ls>MED. ṇ. 16.</ls> {%der den Kopfverloren hat, in Verzweiflung seiend, von Angst ergriffen%}: {#eko dIrRo dArayati senAM sumahatImapi#} 
-<ls>MBH. 6, 144. 5, 4622. fg. 4627.</ls> 
-<div n="v">— Vgl. {#dara, darita, dal#}. — caus. {#dara/yati#} 
-<ls>DHĀTUP. 19, 47.</ls> 
-<div n="1"> 1) {%sprengen, zerreissen, zerspalten, aufbrechen%}: {#puro\ yada^gne da\raya\nnadI^deH#} 
-<ls>ṚV. 7, 5, 3.</ls> {#vra\jaM da^rayadvfza\BeRa\ pipro^H#} 
-<ls n="ṚV.">10, 99, 11.</ls> {#va\laM rave^Ra darayaH#} 
-<ls n="ṚV.">1, 62, 4.</ls> {#indre^Ra\ dasyu^M da\raya^ntaH#} 
-<ls n="ṚV. 1,">53, 4.</ls> {#KurEH kzuraprErdarayaMstadApaH#} 
-<ls>BHĀG. P. 3, 13, 30.</ls> In der späteren Sprache {#dAra/yati, °te#}; aor. {#adadarat#} 
-<ls>P. 7, 4, 95.</ls> 
-<ls>VOP. 18, 2.</ls> {#dIdaras#} 
-<ls>MBH. 5, 4627.</ls> 
-<ls>HARIV. 15339.</ls> {#dArayanniva parvatAn#} 
-<ls>MBH. 4, 1456.</ls> {#dArayanBUmim#} 
-<ls>?3, 16422. 7, 8223. 13, 859. R. 1, 16, 24. 4, 45, 13. 6, 18, 4. VARĀH. BṚH. S. 43 (34), 27.</ls> {#KurErdArayate mahIm#} 
-<ls>HARIV. 4282.</ls> {#dArayARa#} 
-<ls>MBH. 8, 907.</ls> {#dAryamARa#} 
-<ls>14, 1725.</ls> {#dArita#} 
-<ls>3, 8899.</ls> {#aTa vajraM#} (nom.) {#daRqakAzWamanupraviSya tadbilamadArayat#} so v. a. {%durch Spalten, Graben eröffnen%} 
-<ls>1, 795.</ls> {#viviDEH SastrErdArayantu purImimAm#} 
-<ls>HARIV. 5025. 5022. 5009.</ls> 
-<ls>R. 5, 80, 18.</ls> {#(tam) sAyakEstIkzRErdArayAmAsa#} 
-<ls>MBH. 6, 1712.</ls> 
-<ls>R. 3, 42, 41. 56, 50. 5, 40, 12.</ls> 
-<ls>GĪT. 1, 16.</ls> {#muzwinAdadarattasya mUrDAnam#} 
-<ls>BHAṬṬ. 15, 81.</ls> {#kfpaRadAritaBavatpratyaNga#} 
-<ls>PRAB. 85, 12.</ls> 
-<ls>SUŚR. 1, 182, 7.</ls> {#dAritaKurAH (gAvaH)#} 
-<ls>VARĀH. BṚH. S. 60, 3.</ls> 
-<ls>AK. 3, 2, 50.</ls> 
-<ls>H. 1488.</ls> 
-<div n="1">— 2) {%zersprengen, auseinander laufen machen%}: {#nirdahantaM raRe yoDAndArayantaM ca sarvaSaH#} 
-<ls>MBH. 7, 366.</ls> {#sAmnA dAnena mAnena prakftIranuraYjayet . AtmIyA BedadaRqAByAM parakIyASca dArayet ..#} 
-<ls>KĀM. NĪTIS. 8, 70.</ls> {#eko dIrRo#} ({%der den Kopf verloren hat%}) {#dArayati senAM sumahatImapi#} 
-<ls>MBH. 6, 144.</ls> {#mA dIdarastvaM suhfdo mA tvAM dIrRaM prahAsizuH#} so v. a. {%sich entfremden%} 
-<ls>5, 4627.</ls> — intens. ved. {#dardarImi, da/rdarzi, dardarIti; dardfhi, dardartu; adardar, da/rdar, dard#} 2. sg. für {#dardar, adardftam, adardirus#}; Bed. wie beim caus.: {#tvaM sU^ka\rasya^ dardfhi\ tava^ dardartu sUka\raH#} 
-<ls>ṚV. 7, 55, 4.</ls> {#ada^rda\rutsa^m#} 
-<ls n="ṚV.">5, 23, 1.</ls> {#pura^H#} 
-<ls n="ṚV.">1, 63, 7.</ls> <ls n="ṚV.">6, 20, 7.</ls> {#adri^m#} 
-<ls n="ṚV.">4, 16, 8.</ls> {#A\da\rdi\ro Buva^nA dardarImi#} 
-<ls n="ṚV.">8, 89, 4.</ls> {#dano\ viSa^ indra mf\DravA^caH sa\pta yatpura\H Sarma\ SAra^dI\rdart#} 
-<ls n="ṚV.">1, 174, 2.</ls> <ls n="ṚV.">6, 20, 10.</ls> Hierher zieht 
-<ls>SĀY.</ls> auch die ein Mal sich findende Form {#dAdfhi/#} in der Stelle: {#a\varma\ha i^ndra dAdfhi#} 
-<ls>ṚV. 1, 133, 6.</ls>
-
-<div n="p">— {#anu#} pass. 
-<div n="1"> 1) {%hinterher durchbrechen —, sich einen Weg öffnen%}: {#Apastastambire#} (sic) {#cAsya (nfpasya) samudramaBiyAsyataH . saritaScAnvadIryanta DvajaBaNgaSca nABavat ..#} 
-<ls>MBH. 12, 1035.</ls> 
-<div n="1">— 2) {%nach Jmd%} (acc.) {%auseinanderstieben%} oder {%den Kopf verlieren%}: {#eko dIrRo dArayati senAM sumahatImapi . tAM dIrRAmanudIryante yoDAH SUratarA api#} 
-<ls>MBH. 6, 144. 5, 4623.</ls>
-
-<div n="p">— {#apa#} intens. {%aufreissen%}: {#apa^ df\|Ani\ dardra^t#} (partic.) 
-<ls>ṚV. 6, 17, 5.</ls>
-
-<div n="p">— {#ava#} {%spalten, aufreissen, zersprengen%}: {#di\vaskava^nDa\mava^ darzadu\driRa^m#} 
-<ls>ṚV. 9, 74, 7.</ls> {#yadvE mAyaM nAvadfRIyAt#} 
-<ls>ŚAT. BR. 5, 2, 1, 18. 19. 4, 3, 20.</ls> {#pUyaH svamASrayamavadIrya - kfcCrasADyo Bavati#} 
-<ls>SUŚR. 1, 63, 1.</ls> — pass. {%bersten, sich spalten%}: {#yatra vA asyA avadIryate#} 
-<ls>ŚAT. BR. 7, 2, 1, 8.</ls> 
-<ls>KAUŚ. 93. 120.</ls> {#avadAraRakAle tu pfTivI nAvadIryate#} 
-<ls>R. 2, 77, 16.</ls> {#avadIrRAM ca pfTivIm#} 
-<ls>69, 12.</ls> {#(hfdayaM mama yat) nAvadIryate#} 
-<ls>MBH. 3, 17300.</ls> 
-<ls>HARIV. 3675.</ls> {#hfdayenAvadIrRena#} 
-<ls>4819.</ls> {%aufspringen, sich öffnen, sich von einander thun%}: {#gudaM cAvadIryate#} 
-<ls>SUŚR. 1, 265, 16.</ls> {#avadIrRa#} 
-<ls>82, 17.</ls> {#tato#} ({#CidraM#}) {#'nyadavadIryate#}
+{#hfdaya#}
+<ls>R. GORR. 2,39,29.</ls>
+<div n="1">— 2) {%auseinanderstieben%} (von Kämpfern in der Schlacht) ({#dI/ryati#} {%sich fürchten%}
+<ls>VOP.</ls> in <ls>DHĀTUP. 26,139.</ls> {#da/rati, dfRAti#} dass.
+<ls>VOP.</ls> in <ls>DHĀTUP. 31,23</ls>; vgl.
+<ls n="DHĀTUP.">19,47.</ls> <ls n="DHĀTUP.">34,15</ls>): {#parvatA api dIryeyuH kiM punaryuDi rAkzasAH#}
+<ls>R. 5,58,11.</ls> {#yato yataH prekzate sma gadAmudyamya pARqavaH . tena tena sma dIryante sarvasEnyAni#}
+<ls>MBH. 6,2801.</ls> <ls n="MBH. 6,">146.</ls> <ls n="MBH.">8,3977.</ls> {#ete dIryanti sagaRAH pAYcAlAnAM mahAraTAH#}
+<ls n="MBH. 8,">4357.</ls> {#senA dIrRA#}
+<ls n="MBH.">6,144.</ls> <ls n="MBH. 6,">146.</ls> <ls>HARIV. 10621.</ls> Daher {#dIrRa = BIta#} {%erschrocken%}
+<ls>MED. ṇ. 16.</ls> {%der den Kopfverloren hat, in Verzweiflung seiend, von Angst ergriffen%}: {#eko dIrRo dArayati senAM sumahatImapi#}
+<ls>MBH. 6,144.</ls> <ls n="MBH.">5,4622. fg.</ls> <ls n="MBH. 5,">4627.</ls>
+<div n="v">— Vgl. {#dara, darita, dal#}. — caus. {#dara/yati#}
+<ls>DHĀTUP. 19,47.</ls>
+<div n="1"> 1) {%sprengen, zerreissen, zerspalten, aufbrechen%}: {#puro\ yada^gne da\raya\nnadI^deH#}
+<ls>ṚV. 7,5,3.</ls> {#vra\jaM da^rayadvfza\BeRa\ pipro^H#}
+<ls n="ṚV.">10,99,11.</ls> {#va\laM rave^Ra darayaH#}
+<ls n="ṚV.">1,62,4.</ls> {#indre^Ra\ dasyu^M da\raya^ntaH#}
+<ls n="ṚV. 1,">53,4.</ls> {#KurEH kzuraprErdarayaMstadApaH#}
+<ls>BHĀG. P. 3,13,30.</ls> In der späteren Sprache {#dAra/yati, °te#}; aor. {#adadarat#}
+<ls>P. 7,4,95.</ls>
+<ls>VOP. 18,2.</ls> {#dIdaras#}
+<ls>MBH. 5,4627.</ls>
+<ls>HARIV. 15339.</ls> {#dArayanniva parvatAn#}
+<ls>MBH. 4,1456.</ls> {#dArayanBUmim#}
+<ls n="MBH.">3,16422.</ls> <ls n="MBH.">7,8223.</ls> <ls n="MBH.">13,859.</ls> <ls>R. 1,16,24.</ls> <ls n="R.">4,45,13</ls> <ls n="R.">6,18,4.</ls> <ls>VARĀH. BṚH. S. 43 (34),27.</ls> {#KurErdArayate mahIm#}
+<ls>HARIV. 4282.</ls> {#dArayARa#}
+<ls>MBH. 8,907.</ls> {#dAryamARa#}
+<ls n="MBH.">14,1725.</ls> {#dArita#}
+<ls n="MBH.">3,8899.</ls> {#aTa vajraM#} (nom.) {#daRqakAzWamanupraviSya tadbilamadArayat#} so v. a. {%durch Spalten, Graben eröffnen%}
+<ls n="MBH.">1,795.</ls> {#viviDEH SastrErdArayantu purImimAm#}
+<ls>HARIV. 5025.</ls> <ls n="HARIV.">5022.</ls> <ls n="HARIV.">5009.</ls>
+<ls>R. 5,80,18.</ls> {#(tam) sAyakEstIkzRErdArayAmAsa#}
+<ls>MBH. 6,1712.</ls>
+<ls>R. 3,42,41.</ls> <ls n="R. 3,">56,50.</ls> <ls n="R.">5,40,12.</ls>
+<ls>GĪT. 1,16.</ls> {#muzwinAdadarattasya mUrDAnam#}
+<ls>BHAṬṬ. 15,81.</ls> {#kfpaRadAritaBavatpratyaNga#}
+<ls>PRAB. 85,12.</ls>
+<ls>SUŚR. 1,182,7.</ls> {#dAritaKurAH (gAvaH)#}
+<ls>VARĀH. BṚH. S. 60,3.</ls>
+<ls>AK. 3,2,50.</ls>
+<ls>H. 1488.</ls>
+<div n="1">— 2) {%zersprengen, auseinander laufen machen%}: {#nirdahantaM raRe yoDAndArayantaM ca sarvaSaH#}
+<ls>MBH. 7,366.</ls> {#sAmnA dAnena mAnena prakftIranuraYjayet . AtmIyA BedadaRqAByAM parakIyASca dArayet ..#}
+<ls>KĀM. NĪTIS. 8,70.</ls> {#eko dIrRo#} ({%der den Kopf verloren hat%}) {#dArayati senAM sumahatImapi#}
+<ls>MBH. 6,144.</ls> {#mA dIdarastvaM suhfdo mA tvAM dIrRaM prahAsizuH#} so v. a. {%sich entfremden%}
+<ls n="MBH.">5,4627.</ls> — intens. ved. {#dardarImi, da/rdarzi, dardarIti; dardfhi, dardartu; adardar, da/rdar, dard#} 2. sg. für {#dardar, adardftam, adardirus#}; Bed. wie beim caus.: {#tvaM sU^ka\rasya^ dardfhi\ tava^ dardartu sUka\raH#}
+<ls>ṚV. 7,55,4.</ls> {#ada^rda\rutsa^m#}
+<ls n="ṚV.">5,23,1.</ls> {#pura^H#}
+<ls n="ṚV.">1,63,7.</ls> <ls n="ṚV.">6,20,7.</ls> {#adri^m#}
+<ls n="ṚV.">4,16,8.</ls> {#A\da\rdi\ro Buva^nA dardarImi#}
+<ls n="ṚV.">8,89,4.</ls> {#dano\ viSa^ indra mf\DravA^caH sa\pta yatpura\H Sarma\ SAra^dI\rdart#}
+<ls n="ṚV.">1,174,2.</ls> <ls n="ṚV.">6,20,10.</ls> Hierher zieht
+<ls>SĀY.</ls> auch die ein Mal sich findende Form {#dAdfhi/#} in der Stelle: {#a\varma\ha i^ndra dAdfhi#}
+<ls>ṚV. 1,133,6.</ls>
+<div n="p">— {#anu#} pass.
+<div n="1"> 1) {%hinterher durchbrechen —, sich einen Weg öffnen%}: {#Apastastambire#} (sic) {#cAsya (nfpasya) samudramaBiyAsyataH . saritaScAnvadIryanta DvajaBaNgaSca nABavat ..#}
+<ls>MBH. 12,1035.</ls>
+<div n="1">— 2) {%nach Jmd%} (acc.) {%auseinanderstieben%} oder {%den Kopf verlieren%}: {#eko dIrRo dArayati senAM sumahatImapi . tAM dIrRAmanudIryante yoDAH SUratarA api#}
+<ls>MBH. 6,144.</ls> <ls n="MBH.">5,4623.</ls>
+<div n="p">— {#apa#} intens. {%aufreissen%}: {#apa^ df\|Ani\ dardra^t#} (partic.)
+<ls>ṚV. 6,17,5.</ls>
+<div n="p">— {#ava#} {%spalten, aufreissen, zersprengen%}: {#di\vaskava^nDa\mava^ darzadu\driRa^m#}
+<ls>ṚV. 9,74,7.</ls> {#yadvE mAyaM nAvadfRIyAt#}
+<ls>ŚAT. BR. 5,2,1,18. 19. 4,3,20.</ls> {#pUyaH svamASrayamavadIrya — kfcCrasADyo Bavati#}
+<ls>SUŚR. 1,63,1.</ls> — pass. {%bersten, sich spalten%}: {#yatra vA asyA avadIryate#}
+<ls>ŚAT. BR. 7,2,1,8.</ls>
+<ls>KAUŚ. 93. 120.</ls> {#avadAraRakAle tu pfTivI nAvadIryate#}
+<ls>R. 2,77,16.</ls> {#avadIrRAM ca pfTivIm#}
+<ls n="R. 2,">69,12.</ls> {#(hfdayaM mama yat) nAvadIryate#}
+<ls>MBH. 3,17300.</ls>
+<ls>HARIV. 3675.</ls> {#hfdayenAvadIrRena#}
+<ls n="HARIV.">4819.</ls> {%aufspringen, sich öffnen, sich von einander thun%}: {#gudaM cAvadIryate#}
+<ls>SUŚR. 1,265,16.</ls> {#avadIrRa#}
+<ls n="SUŚR.">82,17.</ls> {#tato#} ({#CidraM#}) {#'nyadavadIryate#}
 [Page3-0522]
-
-<ls>MBH. 5, 1252.</ls> {#aTAvadIrRaM dadfSurvilam#} 
-<ls>R. 4, 50, 11.</ls> {#avadIrRa = druta#} {%auseinandergelaufen, geschmolzen%} 
-<ls>AK. 3, 2, 39.</ls> {#BayAvadIrRa#} {%der aus Angst den Kopf verloren hat%}: {#BayAvadIrRaH saMtrAsAdabadDaM bahu BAzase#} 
-<ls>MBH. 8, 1831.</ls> — caus. {%bersten machen, zerspalten%}: {#vasuDAM cAvadArayet#} 
-<ls>R. 6, 4, 22.</ls> 
-<ls>MBH. 3, 8870.</ls> 
-<ls>RAGH. 13, 3.</ls> {#manaHSilAgireH SfNgaM vajreRevAvadAritam#} 
-<ls>MBH. 8, 2804.</ls> 
-<ls>R. 4, 9, 47.</ls> {#turagEScAvadAritEH#} 
-<ls>HARIV. 5602.</ls> 
+<ls>MBH. 5,1252.</ls> {#aTAvadIrRaM dadfSurvilam#}
+<ls>R. 4,50,11.</ls> {#avadIrRa = druta#} {%auseinandergelaufen, geschmolzen%}
+<ls>AK. 3,2,39.</ls> {#BayAvadIrRa#} {%der aus Angst den Kopf verloren hat%}: {#BayAvadIrRaH saMtrAsAdabadDaM bahu BAzase#}
+<ls>MBH. 8,1831.</ls> — caus. {%bersten machen, zerspalten%}: {#vasuDAM cAvadArayet#}
+<ls>R. 6,4,22.</ls>
+<ls>MBH. 3,8870.</ls>
+<ls>RAGH. 13,3.</ls> {#manaHSilAgireH SfNgaM vajreRevAvadAritam#}
+<ls>MBH. 8,2804.</ls>
+<ls>R. 4,9,47.</ls> {#turagEScAvadAritEH#}
+<ls>HARIV. 5602.</ls>
 <div n="v">— Vgl. {#avadaraRa, avadAraRa#} .
-
-<div n="p">— {#vyava#} pass. {%bersten, zerspringen%}: {#vyavadIrRaM mano mama#} 
-<ls>R. 2, 72, 28.</ls>
-
-<div n="p">— {#A#} 
-<div n="1"> 1) {%sich spalten, Risse bekommen%}: {#AdIrya#} 
-<ls>ŚAT. BR. 14, 1, 2, 12.</ls> 
-<div n="1">— 2) {%spalten, aufbrechen, öffnen; erschliessen, zugänglich machen, zum Vorschein bringen%}: {#tasyA hfdayamAdIrya#} 
-<ls>R. 5, 56, 60.</ls> {#A na^ indra ma\HImiza\M pura\M na da^rzi\ goma^tIm#} 
-<ls>ṚV. 8, 6, 23.</ls> {#tena^ df\|A ci^dadriva\ A vAja^M darzi sA\taye^#} 
-<ls n="ṚV.">5, 39, 3.</ls> <ls n="ṚV.">8, 33, 3.</ls> <ls n="ṚV.">9, 68, 7.</ls> {#ci\tramA da^rzi\ rADa^H#} 
-<ls n="ṚV.">1, 110, 9.</ls> <ls n="ṚV. 1,">120, 10.</ls> {#A ni^re\kamu\ta pri\yamindra\ darzi\ janA^nAm#} 
-<ls n="ṚV.">8, 24, 4.</ls> {#ya A\dftyA^ SaSamA\nAya^ sunva\te dAtA^ jari\tra u\kTya^m#} {%aufthuend%} d. h. {%mit offener Hand%} 
-<ls n="ṚV. 8,">55, 2.</ls> {#ya A\dftyA^ paripa\nTIva\ SUro 'ya^jvano vi\Baja\nneti\ veda^H#} 
-<ls n="ṚV.">1, 103, 6.</ls> {#Ada^rtA\ vajra\M sTavi^ra\M na BI\ma u\dne\va\ koSa\M vasu^nA\ nyf^zwam#} 
-<ls n="ṚV.">4, 20, 6.</ls> med.: {#A da^rzate\ Sava^sA sa\pta dAnU^n#} 
-<ls>?10, 120, 6 (v. l. des AV.</ls> {#darSati#}, irrig für {#darzati#}). — intens. dass.: {#A no^ go\trA da^rdfhi gopate\ gAH#} 
-<ls>ṚV. 3, 30, 21.</ls> {#Ada^rdfta\mapi^hitA\nyaSnA^ riri\caTu\H kzASci^ttatfdA\nA#} 
-<ls n="ṚV.">4, 28, 5.</ls> {#A no\ gavyA\nyaSvyA^ sa\hasrA^ SUra dardfhi#} 
-<ls n="ṚV.">8, 34, 14.</ls> {#yaH su^nva\te paca^te du\Dra A ci\dvAja\M darda^rzi#} 
-<ls n="ṚV.">2, 12, 15.</ls> 
+<div n="p">— {#vyava#} pass. {%bersten, zerspringen%}: {#vyavadIrRaM mano mama#}
+<ls>R. 2,72,28.</ls>
+<div n="p">— {#A#}
+<div n="1"> 1) {%sich spalten, Risse bekommen%}: {#AdIrya#}
+<ls>ŚAT. BR. 14,1,2,12.</ls>
+<div n="1">— 2) {%spalten, aufbrechen, öffnen; erschliessen, zugänglich machen, zum Vorschein bringen%}: {#tasyA hfdayamAdIrya#}
+<ls>R. 5,56,60.</ls> {#A na^ indra ma\HImiza\M pura\M na da^rzi\ goma^tIm#}
+<ls>ṚV. 8,6,23.</ls> {#tena^ df\|A ci^dadriva\ A vAja^M darzi sA\taye^#}
+<ls n="ṚV.">5,39,3.</ls> <ls n="ṚV.">8,33,3.</ls> <ls n="ṚV.">9,68,7.</ls> {#ci\tramA da^rzi\ rADa^H#}
+<ls n="ṚV.">1,110,9.</ls> <ls n="ṚV. 1,">120,10.</ls> {#A ni^re\kamu\ta pri\yamindra\ darzi\ janA^nAm#}
+<ls n="ṚV.">8,24,4.</ls> {#ya A\dftyA^ SaSamA\nAya^ sunva\te dAtA^ jari\tra u\kTya^m#} {%aufthuend%} d. h. {%mit offener Hand%}
+<ls n="ṚV. 8,">55,2.</ls> {#ya A\dftyA^ paripa\nTIva\ SUro 'ya^jvano vi\Baja\nneti\ veda^H#}
+<ls n="ṚV.">1,103,6.</ls> {#Ada^rtA\ vajra\M sTavi^ra\M na BI\ma u\dne\va\ koSa\M vasu^nA\ nyf^zwam#}
+<ls n="ṚV.">4,20,6.</ls> med.: {#A da^rzate\ Sava^sA sa\pta dAnU^n#}
+<ls n="ṚV.">10,120,6</ls> (v. l. des <ls>AV.</ls> {#darSati#}, irrig für {#darzati#}). — intens. dass.: {#A no^ go\trA da^rdfhi gopate\ gAH#}
+<ls>ṚV. 3,30,21.</ls> {#Ada^rdfta\mapi^hitA\nyaSnA^ riri\caTu\H kzASci^ttatfdA\nA#}
+<ls n="ṚV.">4,28,5.</ls> {#A no\ gavyA\nyaSvyA^ sa\hasrA^ SUra dardfhi#}
+<ls n="ṚV.">8,34,14.</ls> {#yaH su^nva\te paca^te du\Dra A ci\dvAja\M darda^rzi#}
+<ls n="ṚV.">2,12,15.</ls>
 <div n="v">— Vgl. {#Adardira, Aduri#} .
-
-<div n="p">— {#ud#} in {#uddIrRavErAgya#} 
-<ls>DAŚAK. 68, 11</ls> <ls>?(BENF. Chr. 185, 2)</ls> wohl falsche Lesart für {#udIrRa#}; s. u. {#Ir#} .
-
-<div n="p">— {#ni#} caus. {#nidArya#} 
-<ls>PAÑCAT. 121, 2</ls> falsche Lesart für {#vidArya#} (s. 
+<div n="p">— {#ud#} in {#uddIrRavErAgya#}
+<ls>DAŚAK. 68,11</ls> (<ls>BENF. Chr. 185,2</ls>) wohl falsche Lesart für {#udIrRa#}; s. u. {#Ir#} .
+<div n="p">— {#ni#} caus. {#nidArya#}
+<ls>PAÑCAT. 121,2</ls> falsche Lesart für {#vidArya#} (s.
 <ls>BENFEY</ls>).
-
-<div n="p">— {#nis#} {%zerreissen%}: {#(yaH) nAnAdarpaM taM naKErnirdadAra#} 
-<ls>BHĀG. P. 7, 8, 45.</ls> — caus. {%zerreissen, zerspalten, aufwühlen%}: {#cakravidAritoraska#} 
-<ls>HARIV. 5691.</ls> {#KurErvidArayanmahIm#} 
-<ls>3716.</ls> {#taduktAM medinIM kftsnAM kAruBirniradArayat#} {%aufwühlen lassen%} 
-<ls>RĀJA-TAR. 4, 272.</ls>
-
-<div n="p">— {#pari#} med. {%ringsum durchbrechen%}: {#a\smAka\M SatrU\npari^ SUra vi\Svato^ da\rmA da^rzIzwa vi\Svata^H#} 
-<ls>ṚV. 1, 132, 6.</ls> — pass. {%ringsum sich ablösen%} d. h. {%wassersüchtig werden%} (weil die aufschwellende Haut sich vom Körper abzulösen scheint): {#pra\jApa^ti\rvaru^RA\yASva^manaya\tsa svAM de\vatA^mArCa\tsa parya^dIryata#} 
-<ls>TS. 2, 3, 12, 1.</ls> {#pa/ridIrRa#} 
-<ls>ŚAT. BR. 2, 5, 2, 2. 24. 3, 3.</ls> 
+<div n="p">— {#nis#} {%zerreissen%}: {#(yaH) nAnAdarpaM taM naKErnirdadAra#}
+<ls>BHĀG. P. 7,8,45.</ls> — caus. {%zerreissen, zerspalten, aufwühlen%}: {#cakravidAritoraska#}
+<ls>HARIV. 5691.</ls> {#KurErvidArayanmahIm#}
+<ls n="HARIV.">3716.</ls> {#taduktAM medinIM kftsnAM kAruBirniradArayat#} {%aufwühlen lassen%}
+<ls>RĀJA-TAR. 4,272.</ls>
+<div n="p">— {#pari#} med. {%ringsum durchbrechen%}: {#a\smAka\M SatrU\npari^ SUra vi\Svato^ da\rmA da^rzIzwa vi\Svata^H#}
+<ls>ṚV. 1,132,6.</ls> — pass. {%ringsum sich ablösen%} d. h. {%wassersüchtig werden%} (weil die aufschwellende Haut sich vom Körper abzulösen scheint): {#pra\jApa^ti\rvaru^RA\yASva^manaya\tsa svAM de\vatA^mArCa\tsa parya^dIryata#}
+<ls>TS. 2,3,12,1.</ls> {#pa/ridIrRa#}
+<ls>ŚAT. BR. 2,5,2,2. 24. 3,3.</ls>
 <div n="v">— Vgl. {#paridara#} .
-
-<div n="p">— {#pra#} {%zerbrechen, zerreissen%}: {#pra yacCa\tA sa\hasrA^ SUra\ darzi^#} 
-<ls>ṚV. 6, 26, 5.</ls> — pass. {%sich spalten, sich aufthun%}: {#(pfTivyAH) SocatyA ime pradarAH prAdIryanta#} 
-<ls>AIT. BR. 6, 35.</ls> {#svayaMpradIrRa#} 
-<ls>KĀTY. ŚR. 15, 1, 10.</ls> {%auseinanderfahren, gesprengt werden%}: {#tataH prAdIryata camUrDanaMjayaSarAhatA . mahAvAtasamAvidDA mahAnOriva sAgare ..#} 
-<ls>MBH. 8, 4106.</ls> — caus. {%auseinandersprengen, zerreissen%}: {#tataH prakIrRaM sumahadbalaM tava pradAritaM setumivAmBaso yaTA#} 
-<ls>MBH. 8, 4084.</ls> {#pradArayantaM sEnyAni balOGena#} 
-<ls>6, 2802.</ls> 
+<div n="p">— {#pra#} {%zerbrechen, zerreissen%}: {#pra yacCa\tA sa\hasrA^ SUra\ darzi^#}
+<ls>ṚV. 6,26,5.</ls> — pass. {%sich spalten, sich aufthun%}: {#(pfTivyAH) SocatyA ime pradarAH prAdIryanta#}
+<ls>AIT. BR. 6,35.</ls> {#svayaMpradIrRa#}
+<ls>KĀTY. ŚR. 15,1,10.</ls> {%auseinanderfahren, gesprengt werden%}: {#tataH prAdIryata camUrDanaMjayaSarAhatA . mahAvAtasamAvidDA mahAnOriva sAgare ..#}
+<ls>MBH. 8,4106.</ls> — caus. {%auseinandersprengen, zerreissen%}: {#tataH prakIrRaM sumahadbalaM tava pradAritaM setumivAmBaso yaTA#}
+<ls>MBH. 8,4084.</ls> {#pradArayantaM sEnyAni balOGena#}
+<ls n="MBH.">6,2802.</ls>
 <div n="v">— Vgl. {#pradara#} .
-
-<div n="p">— {#aBipra#} pass. {%auseinanderstieben%}: {#yaTOGaH parvataSrezWamAsAdyABipradIryate#} 
-<ls>MBH. 8, 3976.</ls>
-
-<div n="p">— {#vi#} {%zerreissen, zerfleischen%}: {#mAyAmayaM jAlaM mAyayEva vidIrya saH#} 
-<ls>MBH. 3, 673.</ls> {#vidadAra naKEstasya pfzWaM sa patageSvaraH#} 
-<ls>R. 3, 57, 24. 5, 68, 2. 4.</ls> 
-<ls>MBH. 1, 1477. 9, 1070.</ls> 
-<ls>RAGH. 12, 22.</ls> 
-<ls>BHĀG. P. 2, 7, 14.</ls> {%zerspalten%} so v. a. {%eröffnen%}: {#vi vra\jaM pura\M na da^rzasi#} 
-<ls>ṚV. 8, 32, 5.</ls> — pass. {%auseinanderbersten, zerspringen%}: {#yasya Garmo vidIryate#} 
-<ls>ŚAT. BR. 14, 3, 2, 1.</ls> {#vidIryante ca parvatAH#}
+<div n="p">— {#aBipra#} pass. {%auseinanderstieben%}: {#yaTOGaH parvataSrezWamAsAdyABipradIryate#}
+<ls>MBH. 8,3976.</ls>
+<div n="p">— {#vi#} {%zerreissen, zerfleischen%}: {#mAyAmayaM jAlaM mAyayEva vidIrya saH#}
+<ls>MBH. 3,673.</ls> {#vidadAra naKEstasya pfzWaM sa patageSvaraH#}
+<ls>R. 3,57,24.</ls> <ls n="R.">5,68,2.</ls> <ls n="R. 5,68,">4.</ls>
+<ls>MBH. 1,1477.</ls> <ls n="MBH.">9,1070.</ls>
+<ls>RAGH. 12,22.</ls>
+<ls>BHĀG. P. 2,7,14.</ls> {%zerspalten%} so v. a. {%eröffnen%}: {#vi vra\jaM pura\M na da^rzasi#}
+<ls>ṚV. 8,32,5.</ls> — pass. {%auseinanderbersten, zerspringen%}: {#yasya Garmo vidIryate#}
+<ls>ŚAT. BR. 14,3,2,1.</ls> {#vidIryante ca parvatAH#}
 [Page3-0523]
-
-<ls>R. GORR. 1, 67, 7.</ls> {#BUmiH#} 
-<ls>MBH. 1, 5374.</ls> {#vidIryetsakalA BUmiH#} 
-<ls>3, 15100.</ls> {#kavacAni vidIryante SarEH#} 
-<ls>6, 5223.</ls> {#QakkA#} 
-<ls>RĀJA-TAR. 6, 133. 4, 568.</ls> {#meGasyeva dIryataH#} 
-<ls>HARIV. 3781.</ls> {#manyunA vyadIryateva hfdayam#} 
-<ls>MBH. 3, 2300. 2773.</ls> 
-<ls>R. 5, 28, 4.</ls> {#na vidIryati me manaH#} 
-<ls>MBH. 13, 7786.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 112, 15.</ls> {#ayoGanenAya ivABitaptaM vEdehibanDorhfdayaM vidadre#} 
-<ls>RAGH. 14, 33.</ls> {#vidIrRahfdayaH SucA#} 
-<ls>12, 77.</ls> {#SataDA vidIrRaM yaccetaH#} 
-<ls>PRAB. 76, 14.</ls> {#na vidIrye#} 
-<ls>KUMĀRAS. 4, 5.</ls> {#mfdA - kroqavidIrRayA#} {%zerbröckelt%} 
-<ls>BHĀG. P. 8, 16, 26.</ls> {#vidIrRa#} {%aufgerissen, wund%}: {#vidIrRotPullapAdakA#} 
-<ls>KATHĀS. 20, 109.</ls> {%durchbohrt%}: {#rAGavAstravidIrRAnAM rakzasAm#} 
-<ls>RAGH. 12, 51.</ls> 
-<ls>PRAB. 87, 13.</ls> {#baDameva praSaMsanti SatrURAmapakAriRAm . suvidIrRaM suvikrAntaM suyudDaM supalAyitam ..#} {%wobei man gehörig den Feind durchbohrt%} 
-<ls>MBH. 1, 5552.</ls> {%sich aufthun, sich öffnen%}: {#vidIrRamuKa#} 
-<ls>RAGH. 7, 37.</ls> 
-<ls>PRAB. 85, 13.</ls> {%vor Angst bersten, den Kopf verlieren%}: {#ko hi gARqIvaDanvAnaM raRe soQuM naro 'rhati . yamupaSrutya senAgre janaH sarvo vidIryate ..#} 
-<ls>MBH. 7, 329.</ls> {#tvayA vihInaM dfzwvA tu vidIryetEva sA purI#} im Gegens. zu {#samASvasIt#} 
-<ls>R. GORR. 2, 51, 4.</ls> — caus. {%auseinanderbersten machen, zersprengen, spalten, zerreissen, zerschmettern, zerfleischen, aufwühlen%}: {#mahIM padByAM vidArayan#} 
-<ls>MBH. 1, 5840. 3, 8876.</ls> 
-<ls>R. 3, 4, 17.</ls> {#PalaM markawena vidAritam#} 
-<ls>VET. 2, 10.</ls> {#waNkErmanaHSilAguheva vidAryamARA#} 
-<ls>MṚCCH. 10, 11.</ls> {#vittapewIM SanEH SanErvidArya#} 
-<ls>PAÑCAT. 126, 2. 21, 13. 14.</ls> {#valmIkaSiKarARi SfNgAByAM vidArya#} 
-<ls>9, 8.</ls> {#grIvAM naKEH sarvAM vyadArayat#} 
-<ls>R. 3, 57, 24.</ls> 
-<ls>MBH. 4, 399.</ls> 
-<ls>HARIV. 6896.</ls> 
-<ls>R. 6, 17, 30.</ls> 
-<ls>VARĀH. BṚH. S. 32, 4.</ls> 
-<ls>PAÑCAT. I, 131. 72, 11. 121, 2. 190, 19. 232, 16.</ls> <ls>VET. 13, 19.</ls> {#sObalaM niSitEH SarEH vyadArayata saMgrAme maGavA iva dAnavam#} 
-<ls>6, 1733.</ls> {#asTi vidAritam#} {%zersprengt%} 
-<ls>SUŚR. 1, 301, 11.</ls> {#sa Gozo DArtarAzwrARAM hfdayAni vyadArayat#} 
-<ls>BHAG. 1, 19.</ls> {#cittaM vidArayati kasya na kovidAraH#} so v. a. {%aufregen%} 
-<ls>ṚT. 3, 6.</ls> {%aufreissen, öffnen%}: {#sa etameva sImAnaM vidAryEtayA dvArA prApadyata#} 
-<ls>AIT. UP. 3, 12.</ls> {#vaktram#} 
-<ls>HARIV. 16019.</ls> 
-<ls>ṚT. 1, 14.</ls> {%durchbrechen, auseinanderdrängen, auseinanderstieben machen%}: {#vyadArayadvAnarasAgarOGaM mahAJazaH pUrRamivArRavOGam#} 
-<ls>R. 6, 36, 9. 18, 59.</ls> {#nareSvarAn . sinDurAniva ganDeBo ganDenEva vyadArayat#} 
-<ls>RĀJA-TAR. 1, 300.</ls> {%fortschieben%}: {#vidArya vAmena kareRa#} 
-<ls>KATHĀS. 17, 128.</ls> — intens. {%zerspalten, eröffnen%}: {#puro\ vi da^rdaH#} 
-<ls>ṚV. 4, 16, 13.</ls> <ls n="ṚV.">7, 18, 13.</ls> {#dardarIti#} 
-<ls n="ṚV.">6, 73, 2.</ls> {#u\tAda^rdarma\nyunA\ Samba^rARi\ vi#} 
-<ls n="ṚV.">2, 24, 2.</ls> <ls n="ṚV.">10, 67, 7.</ls> {#vya^dardirurva\lam#} 
-<ls n="ṚV. 10,">138, 1.</ls> <ls>TS. 2, 3, 14, 6.</ls> 
+<ls>R. GORR. 1,67,7.</ls> {#BUmiH#}
+<ls>MBH. 1,5374.</ls> {#vidIryetsakalA BUmiH#}
+<ls n="MBH.">3,15100.</ls> {#kavacAni vidIryante SarEH#}
+<ls n="MBH.">6,5223.</ls> {#QakkA#}
+<ls>RĀJA-TAR. 6,133. 4,568.</ls> {#meGasyeva dIryataH#}
+<ls>HARIV. 3781.</ls> {#manyunA vyadIryateva hfdayam#}
+<ls>MBH. 3,2300.</ls> <ls n="MBH. 3,">2773.</ls>
+<ls>R. 5,28,4.</ls> {#na vidIryati me manaH#}
+<ls>MBH. 13,7786.</ls>
+<ls>R. GORR. 2,112,15.</ls> {#ayoGanenAya ivABitaptaM vEdehibanDorhfdayaM vidadre#}
+<ls>RAGH. 14,33.</ls> {#vidIrRahfdayaH SucA#}
+<ls n="RAGH.">12,77.</ls> {#SataDA vidIrRaM yaccetaH#}
+<ls>PRAB. 76,14.</ls> {#na vidIrye#}
+<ls>KUMĀRAS. 4,5.</ls> {#mfdA — kroqavidIrRayA#} {%zerbröckelt%}
+<ls>BHĀG. P. 8,16,26.</ls> {#vidIrRa#} {%aufgerissen, wund%}: {#vidIrRotPullapAdakA#}
+<ls>KATHĀS. 20,109.</ls> {%durchbohrt%}: {#rAGavAstravidIrRAnAM rakzasAm#}
+<ls>RAGH. 12,51.</ls>
+<ls>PRAB. 87,13.</ls> {#baDameva praSaMsanti SatrURAmapakAriRAm . suvidIrRaM suvikrAntaM suyudDaM supalAyitam ..#} {%wobei man gehörig den Feind durchbohrt%}
+<ls>MBH. 1,5552.</ls> {%sich aufthun, sich öffnen%}: {#vidIrRamuKa#}
+<ls>RAGH. 7,37.</ls>
+<ls>PRAB. 85,13.</ls> {%vor Angst bersten, den Kopf verlieren%}: {#ko hi gARqIvaDanvAnaM raRe soQuM naro 'rhati . yamupaSrutya senAgre janaH sarvo vidIryate ..#}
+<ls>MBH. 7,329.</ls> {#tvayA vihInaM dfzwvA tu vidIryetEva sA purI#} im Gegens. zu {#samASvasIt#}
+<ls>R. GORR. 2,51,4.</ls> — caus. {%auseinanderbersten machen, zersprengen, spalten, zerreissen, zerschmettern, zerfleischen, aufwühlen%}: {#mahIM padByAM vidArayan#}
+<ls>MBH. 1,5840.</ls> <ls n="MBH.">3,8876.</ls>
+<ls>R. 3,4,17.</ls> {#PalaM markawena vidAritam#}
+<ls>VET. 2,10.</ls> {#waNkErmanaHSilAguheva vidAryamARA#}
+<ls>MṚCCH. 10,11.</ls> {#vittapewIM SanEH SanErvidArya#}
+<ls>PAÑCAT. 126,2. 21,13. 14.</ls> {#valmIkaSiKarARi SfNgAByAM vidArya#}
+<ls n="PAÑCAT.">9,8.</ls> {#grIvAM naKEH sarvAM vyadArayat#}
+<ls>R. 3,57,24.</ls>
+<ls>MBH. 4,399.</ls>
+<ls>HARIV. 6896.</ls>
+<ls>R. 6,17,30.</ls>
+<ls>VARĀH. BṚH. S. 32,4.</ls>
+<ls>PAÑCAT. I,131. 72,11. 121,2. 190,19. 232,16.</ls> <ls>VET. 13,19.</ls> {#sObalaM niSitEH SarEH vyadArayata saMgrAme maGavA iva dAnavam#}
+<ls n="VET.">6,1733.</ls> {#asTi vidAritam#} {%zersprengt%}
+<ls>SUŚR. 1,301,11.</ls> {#sa Gozo DArtarAzwrARAM hfdayAni vyadArayat#}
+<ls>BHAG. 1,19.</ls> {#cittaM vidArayati kasya na kovidAraH#} so v. a. {%aufregen%}
+<ls>ṚT. 3,6.</ls> {%aufreissen, öffnen%}: {#sa etameva sImAnaM vidAryEtayA dvArA prApadyata#}
+<ls>AIT. UP. 3,12.</ls> {#vaktram#}
+<ls>HARIV. 16019.</ls>
+<ls>ṚT. 1,14.</ls> {%durchbrechen, auseinanderdrängen, auseinanderstieben machen%}: {#vyadArayadvAnarasAgarOGaM mahAJazaH pUrRamivArRavOGam#}
+<ls>R. 6,36,9.</ls> <ls n="R. 6,">18,59.</ls> {#nareSvarAn . sinDurAniva ganDeBo ganDenEva vyadArayat#}
+<ls>RĀJA-TAR. 1,300.</ls> {%fortschieben%}: {#vidArya vAmena kareRa#}
+<ls>KATHĀS. 17,128.</ls> — intens. {%zerspalten, eröffnen%}: {#puro\ vi da^rdaH#}
+<ls>ṚV. 4,16,13.</ls> <ls n="ṚV.">7,18,13.</ls> {#dardarIti#}
+<ls n="ṚV.">6,73,2.</ls> {#u\tAda^rdarma\nyunA\ Samba^rARi\ vi#}
+<ls n="ṚV.">2,24,2.</ls> <ls n="ṚV.">10,67,7.</ls> {#vya^dardirurva\lam#}
+<ls n="ṚV. 10,">138,1.</ls> <ls>TS. 2,3,14,6.</ls>
 <div n="v">— Vgl. {#avidriya, vidAra#} fgg.
 <LEND>

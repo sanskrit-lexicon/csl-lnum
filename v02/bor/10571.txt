@@ -1,6 +1,6 @@
 <L>10571<pc>332<k1>hand<k2>hand
-<div n="lb"/>{@HAND@}¦ (v.): <div n="I">I To h. over: {#haste#} <div n="xe">{%or%}</div> <div n="xs">{#kare#}</div> <div n="xe">{%or%}</div> <div n="xs">{#pARO #}
-<div n="lb"/>{# dadAti#}</div> ({#dA,#} c. 3.). </div><div n="I">II To lead with the h.:
-<div n="lb"/>{#hastena#} <div n="xe">{%or%}</div> <div n="xs">{#kareRa#}</div> <div n="xe">{%or%}</div> <div n="xs">{#pARinA gfhItvA#}</div> <div n="xe">{%or%}</div> <div n="xs">{#AdAya nayati#}</div>
-<div n="lb"/>({#nI,#} c. 1.).</div>
+{@HAND@}¦ (v.): <div n="I">I To h. over: {#haste#} <div n="xe">{%or%}</div> <div n="xs">{#kare#}</div> <div n="xe">{%or%}</div> <div n="xs">{#pARO #}
+{# dadAti#}</div> ({#dA,#} c. 3.). </div><div n="I">II To lead with the h.:
+{#hastena#} <div n="xe">{%or%}</div> <div n="xs">{#kareRa#}</div> <div n="xe">{%or%}</div> <div n="xs">{#pARinA gfhItvA#}</div> <div n="xe">{%or%}</div> <div n="xs">{#AdAya nayati#}</div>
+({#nI,#} c. 1.).</div>
 <LEND>

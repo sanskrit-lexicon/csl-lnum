@@ -1,5 +1,5 @@
 <L>22937<pc>607-b<k1>populace<k2>populace
-<div n="lb"/>POPULACE¦, {%s.%} {#lokaH, prajA, sAmAnyalokaH -kAH#} {%m. pl.,%} {#sADAraRalokaH#}
-<div n="lb"/>{#kAH#} {%m. pl.,%} {#prAkftalokaH, prAkftajanAH#} {%m. pl.,%} {#avarajanAH, avara-#}
-<div n="lb"/>{#lokAH#} {%m. pl.,%} {#avaravarRAH#} {%m. pl.%}
+POPULACE¦, {%s.%} {#lokaH, prajA, sAmAnyalokaH -kAH#} {%m. pl.,%} {#sADAraRalokaH#}
+{#kAH#} {%m. pl.,%} {#prAkftalokaH, prAkftajanAH#} {%m. pl.,%} {#avarajanAH, avara-#}
+{#lokAH#} {%m. pl.,%} {#avaravarRAH#} {%m. pl.%}
 <LEND>

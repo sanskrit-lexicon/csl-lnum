@@ -1,14 +1,14 @@
 <L>4735<pc>102-a<k1>cloud<k2>cloud
-<div n="lb"/>CLOUD¦, {%s.%} {#aBraM, meGaH, GanaH, parjjanyaH, valAhakaH, jImUtaH, vfzwimAn#} {%m.%}
-<div n="lb"/>{#(t), jalaDaraH, toyaDaraH, payoDaraH, DArADaraH, nIraDaraH, jaladaH, payodaH,#}
-<div n="lb"/>{#vAridaH, nIradaH, pATodaH, arRodaH, jalavAhaH, vArivAhaH -hanaH, toyavAhaH,#}
-<div n="lb"/>{#ambuvAhaH, ambuBft, SakravAhanaH, vAritaskaraH, payojanmA#} {%m.%} {#(n), jalamuk#} {%m.%}
-<div n="lb"/>{#(c), vArimuk#} {%m.%} ({#c#}) or {#vArmmuk, payomuk#} {%m.%} {#(c), vAriraH, parvvatASayaH,#}
-<div n="lb"/>{#taqitvAn#} {%m.%} {#(t), stanayitnuH#} {%m.,%} {#DUmayoniH#} {%m.,%} {#vyomaDUmaH, naBoDUmaH,#}
-<div n="lb"/>{#jalamasiH#} {%m.,%} {#vArimasiH#} {%m.,%} {#nIlABaH, KacaraH, naBaScaraH, gagaRaDvajaH,#}
-<div n="lb"/>{#naBoduhaH, naBogajaH, devaH, pAraRaH, vAsavaH, mudiraH, darduraH, uraRakaH,#}
-<div n="lb"/>{#naBrAw#} {%m.%} ({#j#}); ‘a black cloud,’ {#nIlABraH#} {%m.,%} {#asitABraM, kAlikA;#}
-<div n="lb"/>‘a gathering of clouds,’ {#GanajAlaM, jaladasaMhatiH#} {%f.,%} {#GanOGaH;#} ‘a
-<div n="lb"/>succession of clouds,’ {#meGamAlA, kAdambinI;#} ‘a cloud of dust,’
-<div n="lb"/>{#rajomeGaH, GUlIpawalaH#}.
+CLOUD¦, {%s.%} {#aBraM, meGaH, GanaH, parjjanyaH, valAhakaH, jImUtaH, vfzwimAn#} {%m.%}
+{#(t), jalaDaraH, toyaDaraH, payoDaraH, DArADaraH, nIraDaraH, jaladaH, payodaH,#}
+{#vAridaH, nIradaH, pATodaH, arRodaH, jalavAhaH, vArivAhaH -hanaH, toyavAhaH,#}
+{#ambuvAhaH, ambuBft, SakravAhanaH, vAritaskaraH, payojanmA#} {%m.%} {#(n), jalamuk#} {%m.%}
+{#(c), vArimuk#} {%m.%} ({#c#}) or {#vArmmuk, payomuk#} {%m.%} {#(c), vAriraH, parvvatASayaH,#}
+{#taqitvAn#} {%m.%} {#(t), stanayitnuH#} {%m.,%} {#DUmayoniH#} {%m.,%} {#vyomaDUmaH, naBoDUmaH,#}
+{#jalamasiH#} {%m.,%} {#vArimasiH#} {%m.,%} {#nIlABaH, KacaraH, naBaScaraH, gagaRaDvajaH,#}
+{#naBoduhaH, naBogajaH, devaH, pAraRaH, vAsavaH, mudiraH, darduraH, uraRakaH,#}
+{#naBrAw#} {%m.%} ({#j#}); ‘a black cloud,’ {#nIlABraH#} {%m.,%} {#asitABraM, kAlikA;#}
+‘a gathering of clouds,’ {#GanajAlaM, jaladasaMhatiH#} {%f.,%} {#GanOGaH;#} ‘a
+succession of clouds,’ {#meGamAlA, kAdambinI;#} ‘a cloud of dust,’
+{#rajomeGaH, GUlIpawalaH#}.
 <LEND>

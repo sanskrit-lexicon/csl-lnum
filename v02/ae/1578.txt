@@ -1,12 +1,12 @@
 <L>1578<pc>053<k1>cent<k2>cent
 {@Cent,@}¦ {%s.%} {#SataM;#} ‘3 per c.’ {#trikaM SataM; paMcakaM#}
-<div n="lb"/>{#SataM vfdDirdeyA#} ‘interest at 5 per c.’
-<div n="lb"/>{@-Centenarian,@} {%s.%} {#SatAyus#} {%m.%} {@-Centen-@}
-<div n="lb"/>{@-ary,@} {%s.%} {#SatakaM, SataM#}. {%-a.%} {#Sataka, Satya#}. {@-Cen-@}
-<div n="lb"/>{@-tennial,@} {%a.%} {#SatAbda, Satavarza#}. {@-Centesimal,@}
-<div n="lb"/>{%a.%} {#Satatama#} ({#mI#} {%f.%}). {@-Centipede,@} {%s.%}
-<div n="lb"/>{#SatapadI, karRajalOkas#}. {@-Centuple,@} {%s.%}
-<div n="lb"/>{#SataguRaH#}. {@-Centuplicate,@} {%v. t.%} {#SataguRIkf#}
-<div n="lb"/>8 U. {@-Century,@} {%s.%} {#varzaSataM, SatavarzaM#}. {@2@}
-<div n="lb"/>{#SataM, SatakaM#}. {@-Centurian,@} {%s.%} {#yoDaSatADISaH#}.
+{#SataM vfdDirdeyA#} ‘interest at 5 per c.’
+{@-Centenarian,@} {%s.%} {#SatAyus#} {%m.%} {@-Centen-@}
+{@-ary,@} {%s.%} {#SatakaM, SataM#}. {%-a.%} {#Sataka, Satya#}. {@-Cen-@}
+{@-tennial,@} {%a.%} {#SatAbda, Satavarza#}. {@-Centesimal,@}
+{%a.%} {#Satatama#} ({#mI#} {%f.%}). {@-Centipede,@} {%s.%}
+{#SatapadI, karRajalOkas#}. {@-Centuple,@} {%s.%}
+{#SataguRaH#}. {@-Centuplicate,@} {%v. t.%} {#SataguRIkf#}
+8 U. {@-Century,@} {%s.%} {#varzaSataM, SatavarzaM#}. {@2@}
+{#SataM, SatakaM#}. {@-Centurian,@} {%s.%} {#yoDaSatADISaH#}.
 <LEND>

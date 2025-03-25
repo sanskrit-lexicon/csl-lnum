@@ -1,29 +1,27 @@
 <L>30508<pc>3-0394<k1>tena<k2>tena<h>1
-1. {#tena#}¦ (instr. von 1. {#ta#}) adv. 
-<div n="1"> 1) {%in der Richtung, dahin%}; in Correl. mit {#yena#} {%in welcher Richtung, wo%}: {#yenAgnistena gataH#} 
-<ls>P. 2, 1, 14,</ls> 
-<ls>Sch.</ls> 
-<ls>SADDH. P. 4, 17</ls>,a. 
-<div n="1">— 2) {%in der Weise, so%}; in Correl. mit {#yena#} {%in welcher Weise, wie%}: {#yenendrAya bfhaspatirvAsaH paryadaDAdamftaM tena tvAM paridaDAmi#} 
-<ls>PĀR. GṚHY. 2, 2.</ls> {#yenAsya pitaro yAtA yena yAtAH pitAmahAH . tena yAyAtsatAM mArgaM tena gacCanna rizyate ..#} 
-<ls>M. 4, 178.</ls> praep. {%so in Bezug auf, gegen%} (acc.): {#yeneSaM harirISastaM tena#} 
-<ls>VOP. 5, 7.</ls> 
-<div n="1">— 3) {%in Folge dessen, daher, deshalb%} 
-<ls>H. 1537,</ls> 
-<ls>Sch.</ls> 
-<ls>M. 7, 36. 8, 313.</ls> 
-<ls>HIḌ. 1, 46.</ls> 
-<ls>N. 21, 30.</ls> 
-<ls>R. 1, 54, 12.</ls> 
-<ls>ŚĀK. 5, 12. 28, 11.</ls> 
-<ls>MEGH. 6.</ls> 
-<ls>HIT. 19, 19. I, 109.</ls> <ls>KATHĀS. 2, 13. 34.</ls> <ls>ŚUK. 41, 15.</ls> In Correl. mit {#yena#} {%weil%}: {#na tena sTaviro (vfdDo#} 
-<ls>M. 2, 156</ls>) {#Bavati yenAsya palitaM SiraH#} 
-<ls>MBH. 3, 10631.</ls> 
-<ls>M. 5, 155.</ls> mit {#yasmAt#} 
-<ls>MBH.</ls> in <ls>BENF. Chr. 16, 11.</ls> <ls>DAŚ. 2, 24.</ls> mit {#yatas#} 
-<ls>SĀH. D. 2.</ls> mit {#yad#} 
-<ls>M. 1, 11. 3, 283.</ls> 
-<ls>DAŚ. 2, 51.</ls> {#tena hi#} {%so - denn%} 
-<ls>ŚĀK. 5, 15. 6, 15. 24, 7. 27, 14. 28, 2. 54, 23. 61, 11 u.s.w.</ls> <ls>VIKR. 5, 16.</ls>
+1. {#tena#}¦ (instr. von 1. {#ta#}) adv.
+<div n="1"> 1) {%in der Richtung, dahin%}; in Correl. mit {#yena#} {%in welcher Richtung, wo%}: {#yenAgnistena gataH#}
+<ls>P. 2,1,14</ls>, <ls>Sch.</ls>
+<ls>SADDH. P. 4,17,a.</ls>
+<div n="1">— 2) {%in der Weise, so%}; in Correl. mit {#yena#} {%in welcher Weise, wie%}: {#yenendrAya bfhaspatirvAsaH paryadaDAdamftaM tena tvAM paridaDAmi#}
+<ls>PĀR. GṚHY. 2,2.</ls> {#yenAsya pitaro yAtA yena yAtAH pitAmahAH . tena yAyAtsatAM mArgaM tena gacCanna rizyate ..#}
+<ls>M. 4,178.</ls> praep. {%so in Bezug auf, gegen%} (acc.): {#yeneSaM harirISastaM tena#}
+<ls>VOP. 5,7.</ls>
+<div n="1">— 3) {%in Folge dessen, daher, deshalb%}
+<ls>H. 1537</ls>, <ls>Sch.</ls>
+<ls>M. 7,36.</ls> <ls n="M.">8,313.</ls>
+<ls>HIḌ. 1,46.</ls>
+<ls>N. 21,30.</ls>
+<ls>R. 1,54,12.</ls>
+<ls>ŚĀK. 5,12.</ls> <ls n="ŚĀK.">28,11.</ls>
+<ls>MEGH. 6.</ls>
+<ls>HIT. 19,19. I,109.</ls> <ls>KATHĀS. 2,13.</ls> <ls n="KATHĀS. 2,">34.</ls> <ls>ŚUK. 41,15.</ls> In Correl. mit {#yena#} {%weil%}: {#na tena sTaviro (vfdDo#}
+<ls>M. 2,156</ls>) {#Bavati yenAsya palitaM SiraH#}
+<ls>MBH. 3,10631.</ls>
+<ls>M. 5,155.</ls> mit {#yasmAt#}
+<ls>MBH.</ls> in <ls>BENF. Chr. 16,11.</ls> <ls>DAŚ. 2,24.</ls> mit {#yatas#}
+<ls>SĀH. D. 2.</ls> mit {#yad#}
+<ls>M. 1,11.</ls> <ls n="M.">3,283.</ls>
+<ls>DAŚ. 2,51.</ls> {#tena hi#} {%so — denn%}
+<ls>ŚĀK. 5,15. 6,15. 24,7. 27,14. 28,2. 54,23. 61,11</ls> u.s.w. <ls>VIKR. 5,16.</ls>
 <LEND>

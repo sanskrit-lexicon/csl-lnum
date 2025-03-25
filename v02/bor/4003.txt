@@ -1,5 +1,5 @@
 <L>4003<pc>130<k1>collation<k2>collation
-<div n="lb"/>{@COLLATION.@}¦ <div n="I">I Comparison: </div><div n="1">(1) {#parIkzA;#} </div><div n="1">(2)
-<div n="lb"/>{#samavalokanam.#} </div><div n="I">II Presentation to a benefice:
-<div n="lb"/>{#niyogaH#} <div n="xe">{%or%}</div> <div n="xs">{#viniyogaH.#}</div> </div><div n="I">III Cold repast: {#kalyavartaH.#}</div>
+{@COLLATION.@}¦ <div n="I">I Comparison: </div><div n="1">(1) {#parIkzA;#} </div><div n="1">(2)
+{#samavalokanam.#} </div><div n="I">II Presentation to a benefice:
+{#niyogaH#} <div n="xe">{%or%}</div> <div n="xs">{#viniyogaH.#}</div> </div><div n="I">III Cold repast: {#kalyavartaH.#}</div>
 <LEND>

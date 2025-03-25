@@ -1,5 +1,5 @@
 <L>3417<pc>113<k1>chancellor<k2>chancellor
-<div n="lb"/>{@CHANCELLOR:@}¦ {#prAqvivAkaH#} (?); {#muKyavicArakaH#} (?).
-<div n="lb"/><div n="xe">{%C. of the exchequer:%}</div> <div n="xs">{#kozADISaH;#}</div> {%C. of a university:%}
-<div n="lb"/>{#*viSvavidyAlayADISaH.#}
+{@CHANCELLOR:@}¦ {#prAqvivAkaH#} (?); {#muKyavicArakaH#} (?).
+<div n="xe">{%C. of the exchequer:%}</div> <div n="xs">{#kozADISaH;#}</div> {%C. of a university:%}
+{#*viSvavidyAlayADISaH.#}
 <LEND>

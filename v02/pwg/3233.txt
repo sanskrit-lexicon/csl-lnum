@@ -1,23 +1,23 @@
 <L>3233<pc>1-0236<k1>antaHpura<k2>antaHpura
-{#antaHpura#}¦ ({#antar + pura#}) <lex>n.</lex> 
-<div n="1"> 1) {%die im Innern der Stadt gelegene Burg des Königs%} 
-<ls>R. 2, 14, 28. 29. 16, 1.</ls> {#purasyAntaHpurasya ca#} 
-<ls>3, 42, 55. 5, 79, 10.</ls> 
-<div n="1">— 2) {%das im Innern der königlichen Burg befindliche Gynaeceum%} 
-<ls>AK. 2, 2, 11.</ls> {#maDyAhne BoktumantaHpuraM viSet#} 
-<ls>M. 7, 216.</ls> {#BuktavAnvihareccEva strIBirantaHpure saha#} 
-<ls>221.</ls> {#praviSedBojanArTaM ca strIvfto 'ntaHpuraM punaH#} (am Abend) 224. bildet ein besonderes Gebäude: {#antaHpurasamIpasTe vane#} 
-<ls>N. 1, 17.</ls> {#antaHpuravanodyAne#} (der <is>Daitya's</is> <is>Sunda</is> und <is>Upasunda</is>) 
-<ls>SUND. 4, 5.</ls> das Gynaeceum von <is>Rāma's</is> Mutter wird beschrieben 
-<ls>R. 2, 20, 8. fgg.</ls> {%Wohnung, Gemach der Frauen%} überhaupt 
-<ls>H. 727.</ls> {#antaHpuraM tatastasya brAhmaRasya - viveSa#} 
-<ls>BRĀHMAṆ. 1, 12.</ls> {#kanyAntaHpura#} 
-<ls>PAÑCAT. 44, 11.</ls> {#svasutAntaHpuradvAri#} 
-<ls>VID. 217.</ls> oben im Hause: {#uparyantaHpure sA (rAjYastanayA) ca ratnamityaBirakzyate#} 
-<ls>KATHĀS. 3, 58.</ls> 
-<div n="1">— 3) {%die Bewohnerinnen des Gynaeceums%}: {#antaHpurapracAra#} 
-<ls>M. 7, 153.</ls> {#sarvamantaHpuraM tadA . hAhABUtamatIvAsIdBfSaM ca praruroda ha ..#} 
-<ls>N. 17, 30.</ls> pl.: {#kadAcidasmatprArTanAmantaHpureByaH kaTayet#} 
-<ls>ŚĀK. 30, 12. 13.</ls> {#dadAti vAcamucitAmantaHpureByo yadA#} 
-<ls>132.</ls>
+{#antaHpura#}¦ ({#antar + pura#}) <lex>n.</lex>
+<div n="1"> 1) {%die im Innern der Stadt gelegene Burg des Königs%}
+<ls>R. 2,14,28.</ls> <ls n="R. 2,14,">29.</ls> <ls n="R. 2,">16,1.</ls> {#purasyAntaHpurasya ca#}
+<ls n="R.">3,42,55.</ls> <ls n="R.">5,79,10.</ls>
+<div n="1">— 2) {%das im Innern der königlichen Burg befindliche Gynaeceum%}
+<ls>AK. 2,2,11.</ls> {#maDyAhne BoktumantaHpuraM viSet#}
+<ls>M. 7,216.</ls> {#BuktavAnvihareccEva strIBirantaHpure saha#}
+<ls n="M. 7,">221.</ls> {#praviSedBojanArTaM ca strIvfto 'ntaHpuraM punaH#} (am Abend) 224. bildet ein besonderes Gebäude: {#antaHpurasamIpasTe vane#}
+<ls>N. 1,17.</ls> {#antaHpuravanodyAne#} (der <is>Daitya's</is> <is>Sunda</is> und <is>Upasunda</is>)
+<ls>SUND. 4,5.</ls> das Gynaeceum von <is>Rāma's</is> Mutter wird beschrieben
+<ls>R. 2,20,8. fgg.</ls> {%Wohnung, Gemach der Frauen%} überhaupt
+<ls>H. 727.</ls> {#antaHpuraM tatastasya brAhmaRasya — viveSa#}
+<ls>BRĀHMAṆ. 1,12.</ls> {#kanyAntaHpura#}
+<ls>PAÑCAT. 44,11.</ls> {#svasutAntaHpuradvAri#}
+<ls>VID. 217.</ls> oben im Hause: {#uparyantaHpure sA (rAjYastanayA) ca ratnamityaBirakzyate#}
+<ls>KATHĀS. 3,58.</ls>
+<div n="1">— 3) {%die Bewohnerinnen des Gynaeceums%}: {#antaHpurapracAra#}
+<ls>M. 7,153.</ls> {#sarvamantaHpuraM tadA . hAhABUtamatIvAsIdBfSaM ca praruroda ha ..#}
+<ls>N. 17,30.</ls> pl.: {#kadAcidasmatprArTanAmantaHpureByaH kaTayet#}
+<ls>ŚĀK. 30,12.</ls> <ls n="ŚĀK. 30,">13.</ls> {#dadAti vAcamucitAmantaHpureByo yadA#}
+<ls n="ŚĀK.">132.</ls>
 <LEND>

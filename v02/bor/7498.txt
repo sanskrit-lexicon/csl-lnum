@@ -1,9 +1,9 @@
 <L>7498<pc>237<k1>empty<k2>empty
-<div n="lb"/>{@EMPTY@}¦ (adj.): <div n="I">I Lit.: </div><div n="1">(1) {#SUnyaH#} ({#nyA, nyaM#}),
-<div n="lb"/>{#pari-,#} <div n="xe">{%the street is e.:%}</div> <div n="xs">{#SUnyo rAjamArgaH,#}</div> Mr. i.;
-<div n="lb"/><div n="xe">{%today my bed is e.:%}</div> <div n="xs">{#pariSUnyaM SayanIyamadya me,#}</div> R.;</div>
-<div n="lb"/><div n="1">(2) {#riktaH#} ({#ktA, ktaM#}) (rare), <div n="xe">{%in the e. mouth of%}
-<div n="lb"/>{%the quiver:%}</div> <div n="xs">{#rikte nizaNgavaktre,#}</div> Ki. </div><div n="I">II Fig.: {#asAraH#}
-<div n="lb"/>({#rA, raM#}), <div n="xe">{%in this e. world:%}</div> <div n="xs">{#asAre saMsAre,#}</div> Va.: v.
-<div n="lb"/>Vain.</div>
+{@EMPTY@}¦ (adj.): <div n="I">I Lit.: </div><div n="1">(1) {#SUnyaH#} ({#nyA, nyaM#}),
+{#pari-,#} <div n="xe">{%the street is e.:%}</div> <div n="xs">{#SUnyo rAjamArgaH,#}</div> Mr. i.;
+<div n="xe">{%today my bed is e.:%}</div> <div n="xs">{#pariSUnyaM SayanIyamadya me,#}</div> R.;</div>
+<div n="1">(2) {#riktaH#} ({#ktA, ktaM#}) (rare), <div n="xe">{%in the e. mouth of%}
+{%the quiver:%}</div> <div n="xs">{#rikte nizaNgavaktre,#}</div> Ki. </div><div n="I">II Fig.: {#asAraH#}
+({#rA, raM#}), <div n="xe">{%in this e. world:%}</div> <div n="xs">{#asAre saMsAre,#}</div> Va.: v.
+Vain.</div>
 <LEND>

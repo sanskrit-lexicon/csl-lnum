@@ -1,15 +1,15 @@
 <L>11144<pc>350<k1>honour<k2>honour
-<div n="lb"/>{@HONOUR@}¦ (subs.): <div n="I">I A nice sense of what is
-<div n="lb"/>right: {#mAnaH, sam-,#} <div n="xe">{%who has from age lost all%}
-<div n="lb"/>{%sense of h.:%}</div> <div n="xs">{#jarAvaluptamAnAvamAnacittaH,#}</div> D. ii. </div><div n="I">II
-<div n="lb"/>Nobility, chastity: {#mAnaH, sama-,#} <div n="xe">{%rich in h.:%}</div> <div n="xs">{#mAna-#}
-<div n="lb"/>{#DanaH#}</div> ({#nA, naM#}), Ki. ii. 19.; <div n="xe">{%devoid of h.:%}</div> <div n="xs">{#mAnahInaH#}</div>
-<div n="lb"/>({#nA, naM#}), Ki. xi. 59. </div><div n="I">III Respect, reverence:
-<div n="lb"/>q.v. </div><div n="1">(1) {#mAnaH, sama-,#} P.; </div><div n="1">(2) {#AdaraH#} (= atten-
-<div n="lb"/>-tion): </div><div n="I">IV A mark of respect: </div><div n="1">(1) {#mAnaH, #}
-<div n="lb"/>{# sam-,#} <div n="xe">{%for this h.:%}</div> <div n="xs">{#asya saBmAnasya kfte,#}</div> P. i. 3.;</div>
-<div n="lb"/><div n="1">(2) {#gOravam,#} <div n="xe">{%master's h.s on dependents are as a%}
-<div n="lb"/>{%rule moving with the object to be accomplished:%}</div>
-<div n="lb"/><div n="xs">{#prayojanApekzitayA praBURAM prAyaScalaM gOravamASritezu,#}</div> Ku.
-<div n="lb"/>iii. 1.; </div><div n="1">(3) {#prasAdaH#} (= favour: q.v.).</div>
+{@HONOUR@}¦ (subs.): <div n="I">I A nice sense of what is
+right: {#mAnaH, sam-,#} <div n="xe">{%who has from age lost all%}
+{%sense of h.:%}</div> <div n="xs">{#jarAvaluptamAnAvamAnacittaH,#}</div> D. ii. </div><div n="I">II
+Nobility, chastity: {#mAnaH, sama-,#} <div n="xe">{%rich in h.:%}</div> <div n="xs">{#mAna-#}
+{#DanaH#}</div> ({#nA, naM#}), Ki. ii. 19.; <div n="xe">{%devoid of h.:%}</div> <div n="xs">{#mAnahInaH#}</div>
+({#nA, naM#}), Ki. xi. 59. </div><div n="I">III Respect, reverence:
+q.v. </div><div n="1">(1) {#mAnaH, sama-,#} P.; </div><div n="1">(2) {#AdaraH#} (= atten-
+-tion): </div><div n="I">IV A mark of respect: </div><div n="1">(1) {#mAnaH, #}
+{# sam-,#} <div n="xe">{%for this h.:%}</div> <div n="xs">{#asya saBmAnasya kfte,#}</div> P. i. 3.;</div>
+<div n="1">(2) {#gOravam,#} <div n="xe">{%master's h.s on dependents are as a%}
+{%rule moving with the object to be accomplished:%}</div>
+<div n="xs">{#prayojanApekzitayA praBURAM prAyaScalaM gOravamASritezu,#}</div> Ku.
+iii. 1.; </div><div n="1">(3) {#prasAdaH#} (= favour: q.v.).</div>
 <LEND>

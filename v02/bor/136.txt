@@ -1,10 +1,10 @@
 <L>136<pc>006<k1>accidental<k2>accidental
-<div n="lb"/>{@ACCIDENTAL:@}¦ <div n="I">I Casual, fortuitous: q. v.</div>
-<div n="lb"/><div n="1">(1) {#dEvikaH#} ({#kI, kaM#}) <div n="xe">{%if a. there is no punish-%}
-<div n="lb"/>{%ment%}</div> <div n="xs">{#dEvike nAsti nigrahaH,#}</div> M. viii. 409; </div><div n="1">(2)
-<div n="lb"/>{#yAdfcCikaH#} ({#kI, kaM#}) {%not approving of a. union%}
-<div n="lb"/>{#yAdfcCikIM sampattimanaBisamIkzya,#} <ls>D.</ls> vi.; <div n="xe">{%even a.%}
-<div n="lb"/>{%union%}</div> <div n="xs">{#yadfcCayApi yogaH,#}</div> Ki., </div><div n="I">II Non-essential</div>
-<div n="lb"/><div n="1">(1) {#asamavAyin#} (f. {#nI#}); </div><div n="1">(2) {#AhAryaH#} ({#ryA, ryaM#});</div>
-<div n="lb"/><div n="1">(3) {#asahajaH#} ({#jA, jaM#}).</div>
+{@ACCIDENTAL:@}¦ <div n="I">I Casual, fortuitous: q. v.</div>
+<div n="1">(1) {#dEvikaH#} ({#kI, kaM#}) <div n="xe">{%if a. there is no punish-%}
+{%ment%}</div> <div n="xs">{#dEvike nAsti nigrahaH,#}</div> M. viii. 409; </div><div n="1">(2)
+{#yAdfcCikaH#} ({#kI, kaM#}) {%not approving of a. union%}
+{#yAdfcCikIM sampattimanaBisamIkzya,#} <ls>D.</ls> vi.; <div n="xe">{%even a.%}
+{%union%}</div> <div n="xs">{#yadfcCayApi yogaH,#}</div> Ki., </div><div n="I">II Non-essential</div>
+<div n="1">(1) {#asamavAyin#} (f. {#nI#}); </div><div n="1">(2) {#AhAryaH#} ({#ryA, ryaM#});</div>
+<div n="1">(3) {#asahajaH#} ({#jA, jaM#}).</div>
 <LEND>

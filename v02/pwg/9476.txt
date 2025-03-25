@@ -1,15 +1,15 @@
 <L>9476<pc>1-0710<k1>AvAsa<k2>AvAsa
-{#AvAsa#}¦ (von {#vas, vasati#} mit {#A#}) <lex>m.</lex> {%Aufenthalt, Wohnstätte, Standort, Wohnung%} 
-<ls>H. 991. 1002.</ls> {#vfkzAvAsa#} {%unter Bäumen wohnend%} 
-<ls>YĀJÑ. 3, 54.</ls> 
-<ls>MBH. 1, 7058. 3, 11321.</ls> 
-<ls>R. 1, 12, 11. 12. 3, 9, 29. 46, 19. 68, 27. 72, 7. 4, 43, 21. 5, 9, 13. 6, 10, 24.</ls> 
-<ls>BHARTṚ. 1, 31. 35.</ls> 
-<ls>PAÑCAT. I, 67. 94, 1. 191, 13.</ls> <ls>PRAB. 48, 16.</ls> <ls>VID. 144. 255. 259.</ls> von Vögeln 
-<ls>RAGH. 2, 17.</ls> Pflanzen 
-<ls>H. 954.</ls> {#anaNgamaNgalAvAsa#} 
-<ls>VID. 9.</ls> {#aBinizkrAntagfhAvAsa#} 
-<ls>BURN. Lot. de la b. l. 333.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} 
-<ls>MBH. 1, 2868.</ls> 
+{#AvAsa#}¦ (von {#vas, vasati#} mit {#A#}) <lex>m.</lex> {%Aufenthalt, Wohnstätte, Standort, Wohnung%}
+<ls>H. 991.</ls> <ls n="H.">1002.</ls> {#vfkzAvAsa#} {%unter Bäumen wohnend%}
+<ls>YĀJÑ. 3,54.</ls>
+<ls>MBH. 1,7058.</ls> <ls n="MBH.">3,11321.</ls>
+<ls>R. 1,12,11.</ls> <ls n="R. 1,12,">12.</ls> <ls n="R.">3,9,29.</ls> <ls n="R. 3,">46,19.</ls> <ls n="R. 3,">68,27.</ls> <ls n="R. 3,">72,7.</ls> <ls n="R.">4,43,21.</ls> <ls n="R.">5,9,13.</ls> <ls n="R.">6,10,24.</ls>
+<ls>BHARTṚ. 1,31. 35.</ls>
+<ls>PAÑCAT. I,67. 94,1. 191,13.</ls> <ls>PRAB. 48,16.</ls> <ls>VID. 144. 255. 259.</ls> von Vögeln
+<ls>RAGH. 2,17.</ls> Pflanzen
+<ls>H. 954.</ls> {#anaNgamaNgalAvAsa#}
+<ls>VID. 9.</ls> {#aBinizkrAntagfhAvAsa#}
+<ls>BURN.</ls> <ls>Lot. de la b. l. 333.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+<ls>MBH. 1,2868.</ls>
 <div n="v">— Vgl. {#BUtAvAsa#} .
 <LEND>

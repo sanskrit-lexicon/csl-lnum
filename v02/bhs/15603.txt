@@ -1,37 +1,3 @@
 <L>15603<pc>549,2<k1>sacet<k2>sacet, sace
-{@sacet, sace@}¦, conj. (Pali sace; see also {@saca, saci;@}
-<div n="lb">{@sa-@}, q.v., with cet, formed as pendant to no cet, Pali
-<div n="lb">no-ce; so Childers and Andersen, Reader; otherwise, but
-<div n="lb">to me unconvincingly, Geiger 105.2, Pischel 423), {%if%}; very
-<div n="lb">common in most texts, prose as well as vss, and usually
-[Page550-a+ 71]
-<div n="lb">retaining in writing the final -t or -d: Mvy 5433; SP 47.13;
-<div n="lb">78.10; 97.3; 322.4 etc.; LV (common, usually printed sa
-<div n="lb">cet by Lefm.) 101.12; 226.4; 408.4 (the only passage
-<div n="lb">noted Weller, as not Skt.); Mv (common) ii.88.10; 141.3;
-<div n="lb">194.11; 272.16; 315.6, 7; iii.4.4; 20.7; 199.15; 204.2; 406.11;
-<div n="lb">Divy 2.7; 88.22; 302.20; 559.23 etc.; Av i.14.10 etc.; RP
-<div n="lb">8.4; 48.15; Gv 138.19; Bbh 20.20 etc. (common); Vaj 21.3;
-<div n="lb">Sukh 11.9, 12, 15 etc.; Karmav 26.12; Bhīk 3a.3; Laṅk
-<div n="lb">261.13 (rare in Laṅk; not in Index, no other case noted
-<div n="lb">by me); sace not common, and in prose only in Mv, e.g.
-<div n="lb">ii.158.13; 428.18; iii.54.14; sace, v.l. sacet, iii.187.7 (vs);
-<div n="lb">see saci; saṃdhi forms in which either sace or saca might
-<div n="lb">be understood, sacāsya (pron. asya) Mv i.323.21; iii.318.11
-<div n="lb">(both prose); saceha (-iha) SP 31.11 (vs); sacaiva, ms. Ḱ
-<div n="lb">saceva, prob. containing evam rather than eva, SP 31.9;
-<div n="lb">204.6 (both vss); sacevam, v.l. sacaivam, Mv ii.409.15
-<div n="lb">(vs); exceptionally followed by verb in impv., sacen mama
-<div n="lb">…nayanaṃ gṛhītvā…muñca, na tv evāhaṃ…Divy
-<div n="lb">476.17--18, {%if you take my eye and…%} (impv.) {%let it go!%}
-<div n="lb">(if you like), {%still I would not…%}; in a formula introducing
-<div n="lb">a question, in most cases a double (alternative) question,
-<div n="lb">saced (sacet, sacen) manyatha (twice both mss. and twice
-<div n="lb">v.l. anyatha or °thā; both mss. manyatha only 340.2)
-<div n="lb">bhikṣavaḥ Mv iii.337.11, 20; 338.5; 339.16; 340.2; in the
-<div n="lb">corresp. passage in Pali, Vin. i.14.5, taṃ kiṃ maññatha
-<div n="lb">bhikkhave, which is common also in BHS (kiṃ manyatha
-<div n="lb">bhikṣavaḥ, or the like); does this Mv version have a
-<div n="lb">different mg.? Perhaps {%suppose, monks, you consider%} (the
-<div n="lb">following question)?
+{@sacet, sace@}¦, <lex>conj.</lex> (<lang>Pali</lang> sace; see also {@saca, saci@}; {@sa-@}, <ab>q.v.</ab>, with cet, formed as pendant to no cet, <lang>Pali</lang> no-ce; so <ls>Childers</ls> and Andersen, Reader; otherwise, but to me unconvincingly, <ls>Geiger</ls> 〔105.2〕, <ls>Pischel</ls> 〔423〕), {%if%}; very common in most texts, prose as well as <ab>vss</ab>, and usually [Page550-a] retaining in writing the final -t or -d: <ls>Mvy</ls> 〔5433〕; <ls>SP</ls> 〔47.13〕; 〔78.10〕; 〔97.3〕; 〔322.4〕 <ab>etc.</ab>; <ls>LV</ls> (common, usually printed sa cet by <ls>Lefm.</ls>) 〔101.12〕; 〔226.4〕; 〔408.4〕 (the only passage noted <ls>Weller</ls>, as not <lang>Skt.</lang>); <ls>Mv</ls> (common) 〔ii.88.10〕; 〔141.3〕; 〔194.11〕; 〔272.16〕; 〔315.6, 7〕; 〔iii.4.4〕; 〔20.7〕; 〔199.15〕; 〔204.2〕; 〔406.11〕; <ls>Divy</ls> 〔2.7〕; 〔88.22〕; 〔302.20〕; 〔559.23〕 <ab>etc.</ab>; <ls>Av</ls> 〔i.14.10〕 <ab>etc.</ab>; <ls>RP</ls> 〔8.4〕; 〔48.15〕; <ls>Gv</ls> 〔138.19〕; <ls>Bbh</ls> 〔20.20〕 <ab>etc.</ab> (common); <ls>Vaj</ls> 〔21.3〕; <ls>Sukh</ls> 〔11.9, 12, 15〕 <ab>etc.</ab>; <ls>Karmav</ls> 〔26.12〕; <ls>Bhīk</ls> 〔3a.3〕; <ls>Laṅk</ls> 〔261.13〕 (rare in <ls>Laṅk</ls>; not in Index, no other case noted by me); sace not common, and in prose only in <ls>Mv</ls>, <ab>e.g.</ab> 〔ii.158.13〕; 〔428.18〕; 〔iii.54.14〕; sace, <ab>v.l.</ab> sacet, 〔iii.187.7〕 (<ab>vs</ab>); see saci; saṃdhi forms in which either sace or saca might be understood, sacāsya (<lex>pron.</lex> asya) <ls>Mv</ls> 〔i.323.21〕; 〔iii.318.11〕 (both prose); saceha (-iha) <ls>SP</ls> 〔31.11〕 (<ab>vs</ab>); sacaiva, <ab>ms.</ab> <ms>Ḱ</ms> saceva, <ab>prob.</ab> containing evam rather than eva, <ls>SP</ls> 〔31.9〕; 〔204.6〕 (both <ab>vss</ab>); sacevam, <ab>v.l.</ab> sacaivam, <ls>Mv</ls> 〔ii.409.15〕 (<ab>vs</ab>); exceptionally followed by verb in <lex>impv.</lex>, sacen mama … nayanaṃ gṛhītvā … muñca, na tv evāhaṃ … <ls>Divy</ls> 〔476.17—18〕, {%if you take my eye and …%} (<lex>impv.</lex>) {%let it go!%} (if you like), {%still I would not …%}; in a formula introducing a question, in most cases a double (alternative) question, saced (sacet, sacen) manyatha (twice both <ab>mss.</ab> and twice <ab>v.l.</ab> anyatha or °thā; both <ab>mss.</ab> manyatha only 〔340.2〕) bhikṣavaḥ <ls>Mv</ls> 〔iii.337.11, 20〕; 〔338.5〕; 〔339.16〕; 〔340.2〕; in the <ab>corresp.</ab> passage in <lang>Pali</lang>, <ls>Vin.</ls> 〔i.14.5〕, taṃ kiṃ maññatha bhikkhave, which is common also in <lang>BHS</lang> (kiṃ manyatha bhikṣavaḥ, or the like); does this <ls>Mv</ls> version have a different <ab>mg.</ab>? Perhaps {%suppose, monks, you consider%} (the following question)?
 <LEND>

@@ -1,64 +1,57 @@
 <L>1655<pc>1-0120<k1>ad<k2>ad<h>1
-1. {#ad#}¦, {#a/tti#} 
-<ls>P. 2, 4, 72.</ls> 
-<ls>DHĀTUP. 24, 1.</ls> imperf. {#A/dam#} 
-<ls>VS. 12, 105.</ls> {#Adat#} 
-<ls>P. 7, 3, 100.</ls> 
-<ls>VOP. 9, 3.</ls> imperat. {#adDi/#} 
-<ls>ṚV. 1, 164, 10.</ls> 
-<ls>VS. 12, 65. 23, 8.</ls> 
-<ls>VOP. 9, 2.</ls> 2te pl. {#attA/#} 
-<ls>ṚV. 10, 15, 11.</ls> 3te pl. {#adantu#} 
-<ls>VS. 29, 11.</ls> perf. {#Ada#} 
-<ls>P. 7, 2, 40.</ls> 
-<ls>VOP. 9, 5.</ls> 2te sg. {#AdiTa#} 
-<ls>P. 7, 2, 66.</ls> 
-<ls>VOP. 9, 5.</ls> fut. {#atsyati, attA#} <is>Kār</is>. 3. aus 
-<ls>SIDDH. K.</ls> zu <ls>P.7,2,10.</ls> {#AdivaMs#} 
-<ls>P. 7, 2, 67,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 26, 133.</ls> {#attum#} 
-<ls>BṚH. ĀR. UP. 1, 2, 5.</ls> 
-<ls>M. 4, 28. 10, 106. 108.</ls> {#attave#} 
-<ls>ṚV. 3, 65, 7.</ls> {#attavya#} 
-<ls>M. 11, 95. 160.</ls> aor. fehlt 
-<ls>P. 2, 4, 37.</ls> 
-<ls>VOP. 9, 4. 26, 127.</ls> part. praet. pass. {#anna#} nur in subst. Bedeutung, {#adita#} im comp. {#svadita#} 
-<ls>M. 3, 251. 254.</ls> {%essen, verzehren%}, von Menschen und Thieren: {#a\ttA havIMzi^#} 
-<ls>ṚV. 10, 15, 11.</ls> {#annamadyAt#} 
-<ls>M. 2, 53. 54. 56. u.s.w.</ls> {#aDE^na\M vfkA^ raBa\sAso^ a\dyuH#} 
-<ls>ṚV. 10, 95, 14.</ls> {#SvAno vEnadadyuH#} 
-<ls>BṚH. ĀR. UP. 3, 9, 25.</ls> {#adyAtkAkaH #}
+1. {#ad#}¦, {#a/tti#}
+<ls>P. 2,4,72.</ls>
+<ls>DHĀTUP. 24,1.</ls> imperf. {#A/dam#}
+<ls>VS. 12,105.</ls> {#Adat#}
+<ls>P. 7,3,100.</ls>
+<ls>VOP. 9,3.</ls> imperat. {#adDi/#}
+<ls>ṚV. 1,164,10.</ls>
+<ls>VS. 12,65.</ls> <ls n="VS.">23,8.</ls>
+<ls>VOP. 9,2.</ls> 2te pl. {#attA/#}
+<ls>ṚV. 10,15,11.</ls> 3te pl. {#adantu#}
+<ls>VS. 29,11.</ls> perf. {#Ada#}
+<ls>P. 7,2,40.</ls>
+<ls>VOP. 9,5.</ls> 2te sg. {#AdiTa#}
+<ls>P. 7,2,66.</ls>
+<ls>VOP. 9,5.</ls> fut. {#atsyati, attA#} <is>Kār.</is> 3. aus
+<ls>SIDDH. K.</ls> zu <ls>P. 7,2,10.</ls> {#AdivaMs#}
+<ls>P. 7,2,67</ls>, <ls>Sch.</ls>
+<ls>VOP. 26,133.</ls> {#attum#}
+<ls>BṚH. ĀR. UP. 1,2,5.</ls>
+<ls>M. 4,28.</ls> <ls n="M.">10,106.</ls> <ls n="M. 10,">108.</ls> {#attave#}
+<ls>ṚV. 3,65,7.</ls> {#attavya#}
+<ls>M. 11,95.</ls> <ls n="M. 11,">160.</ls> aor. fehlt
+<ls>P. 2,4,37.</ls>
+<ls>VOP. 9,4.</ls> <ls n="VOP.">26,127.</ls> part. praet. pass. {#anna#} nur in subst. Bedeutung, {#adita#} im comp. {#svadita#}
+<ls>M. 3,251.</ls> <ls n="M. 3,">254.</ls> {%essen, verzehren%}, von Menschen und Thieren: {#a\ttA havIMzi^#}
+<ls>ṚV. 10,15,11.</ls> {#annamadyAt#}
+<ls>M. 2,53.</ls> <ls n="M. 2,">54.</ls> <ls n="M. 2,">56.</ls> u.s.w. {#aDE^na\M vfkA^ raBa\sAso^ a\dyuH#}
+<ls>ṚV. 10,95,14.</ls> {#SvAno vEnadadyuH#}
+<ls>BṚH. ĀR. UP. 3,9,25.</ls> {#adyAtkAkaH #}
 [Page1-0121]
-{# puroqASam#} 
-<ls>M. 7, 21.</ls> {#ji\hvayA\dan#} 
-<ls>ṚV. 10, 4, 4.</ls> med.: {#mAmadasva#} N. 
-<ls>?(BOPP) 12, 35, v. l.</ls> für {#mAM KAdaya#} . pass.: {#adyate 'tti ca BUtAni . tasmAdannaM taducyate#} 
-<ls>TAITT. UP. 2, 2.</ls> {#anyEradyate#} 
-<ls>M. 4, 168.</ls> {#anenAtsyAmahe vayam#} 
-<ls>BHAṬṬ. 7, 82.</ls> {#va\mrIBi^radA\nam#} 
-<ls>ṚV. 4, 19, 9.</ls> übertr.: {#agnyaH prARAnevAttumicCanti#} 
-<ls>M. 4, 28.</ls> {#SastrErAdiTa SastrARi tvameva#} 
-<ls>BHAṬṬ. 9, 48.</ls> — Caus. {%füttern, auffüttern%}: {#a\Ta yA\sAM pa\yo na Ba\vati jAta\meva tA a\TAdayanti#} 
-<ls>ŚAT. BR. 2, 5, 1, 6.</ls> {#AdayatyannaM vawunA#}, aber {#Adayate#} (ohne Object) {#devadattena#} 
-<ls>SIDDH. K.</ls> zu <ls>P.1,3,87.</ls> <ls>P.1,4,52, <is>Vārtt</is>.5,</ls> <ls>Sch.</ls> <ls>VOP.5,5.23,58.</ls> — Desid. fehlt 
-<ls>P. 2, 4, 37.</ls> 
-<ls>VOP. 9, 4. 19, 1.</ls>
-
-<div n="p">— {#ava#} {%abspeisen%}: {#ava^ ru\drama^dImahi#} {%wir möchten%} <is>Rudra</is> {%abspeisen%} 
-<ls>VS. 3, 58.</ls>
-
-<div n="p">— {#A#} {%essen%}: {#AttAmadya maDyato meda udBftam#} 
-<ls>VS. 21, 43.</ls> 
-<ls>P. 2, 4, 39,</ls> 
-<ls>Sch.</ls>
-
-<div n="p">— {#pra#} {%verzehren%}: {#ya\nnveva va\ruRasya ya\vAnprA\daMsta\smAdvaruRapraGAsA nAma#} 
-<ls>ŚAT. BR. 2, 5, 2, 1.</ls>
-
-<div n="p">— {#vi#} {%benagen%}: {#mUzo\ na Si\SnA vyada^nti#} 
-<ls>ṚV. 1, 105, 8.</ls> <ls>?= 10, 33, 3. NIR. 4, 6.</ls>
-
-<div n="p">— {#sam#} {%verzehren%}: {#samadantyAmizaM KagAH#} 
-<ls>BHAṬṬ. 18, 12.</ls>
+{# puroqASam#}
+<ls>M. 7,21.</ls> {#ji\hvayA\dan#}
+<ls>ṚV. 10,4,4.</ls> med.: {#mAmadasva#} N.
+(<ls>BOPP) 12,35, v. l.</ls> für {#mAM KAdaya#} . pass.: {#adyate 'tti ca BUtAni . tasmAdannaM taducyate#}
+<ls>TAITT. UP. 2,2.</ls> {#anyEradyate#}
+<ls>M. 4,168.</ls> {#anenAtsyAmahe vayam#}
+<ls>BHAṬṬ. 7,82.</ls> {#va\mrIBi^radA\nam#}
+<ls>ṚV. 4,19,9.</ls> übertr.: {#agnyaH prARAnevAttumicCanti#}
+<ls>M. 4,28.</ls> {#SastrErAdiTa SastrARi tvameva#}
+<ls>BHAṬṬ. 9,48.</ls> — Caus. {%füttern, auffüttern%}: {#a\Ta yA\sAM pa\yo na Ba\vati jAta\meva tA a\TAdayanti#}
+<ls>ŚAT. BR. 2,5,1,6.</ls> {#AdayatyannaM vawunA#}, aber {#Adayate#} (ohne Object) {#devadattena#}
+<ls>SIDDH. K.</ls> zu <ls>P. 1,3,87.</ls> <ls>P. 1,4,52</ls>, <is>Vārtt</is>. 5, <ls>Sch.</ls> <ls>VOP. 5,5.</ls> <ls n="VOP.">23,58.</ls> — Desid. fehlt
+<ls>P. 2,4,37.</ls>
+<ls>VOP. 9,4.</ls> <ls n="VOP.">19,1.</ls>
+<div n="p">— {#ava#} {%abspeisen%}: {#ava^ ru\drama^dImahi#} {%wir möchten%} <is>Rudra</is> {%abspeisen%}
+<ls>VS. 3,58.</ls>
+<div n="p">— {#A#} {%essen%}: {#AttAmadya maDyato meda udBftam#}
+<ls>VS. 21,43.</ls>
+<ls>P. 2,4,39</ls>, <ls>Sch.</ls>
+<div n="p">— {#pra#} {%verzehren%}: {#ya\nnveva va\ruRasya ya\vAnprA\daMsta\smAdvaruRapraGAsA nAma#}
+<ls>ŚAT. BR. 2,5,2,1.</ls>
+<div n="p">— {#vi#} {%benagen%}: {#mUzo\ na Si\SnA vyada^nti#}
+<ls>ṚV. 1,105,8.</ls> = <ls n="ṚV.">10,33,3.</ls> <ls>NIR. 4,6.</ls>
+<div n="p">— {#sam#} {%verzehren%}: {#samadantyAmizaM KagAH#}
+<ls>BHAṬṬ. 18,12.</ls>
 <LEND>

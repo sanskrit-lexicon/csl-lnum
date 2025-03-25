@@ -1,43 +1,43 @@
 <L>105747<pc>7-0715<k1>samiti<k2>sa/miti
-{#sa/miti#}¦ (von 3. {#i#} mit {#sam#}) <lex>f.</lex> 
-<div n="1"> 1) {%Zusammenkunft, Versammlung, Rath, Volksversammlung%} 
-<ls>AK. 2, 7, 14. 3, 4, 14, 73.</ls> 
-<ls>TRIK. 3, 3, 190.</ls> 
-<ls>H. 481.</ls> 
-<ls>an. 3, 311. fg.</ls> 
-<ls>MED. t. 169.</ls> <ls>HALĀY. 5, 35.</ls> <ls>ṚV. 1, 95, 8.</ls> {#rAjA\ na satya\H sami^tIriyA\naH#} 
-<ls n="ṚV.">9, 92, 6.</ls> <ls n="ṚV.">10, 97, 6.</ls> <ls n="ṚV. 10,">11, 8.</ls> <ls>AV. 6, 88, 3. 7, 12, 1.</ls> {#ye sa^MgrA\mAH sa\mita^ya\stezu\ cAru^ vadema te#} 
-<ls>12, 1, 56. 3, 52.</ls> {#sa\BA ca\ sami^tiSca#} 
-<ls>15, 9, 2. 3.</ls> <ls>CHĀND. UP. 5, 3, 1.</ls> {#rAja°#} 
-<ls>MBH. 1, 505. 4417. 3, 2195.</ls> {#deva°#} 
-<ls>10557.</ls> {#amAtya°#} 
-<ls>12, 11991.</ls> {#lokavIra°#} 
-<ls>BHĀG. P. 9, 10, 6.</ls> 
-<div n="1">— 2) {%gemeinsamer Anschlag, Bund%} 
-<ls>ṚV. 10, 166, 4.</ls> <ls n="ṚV. 10,">191, 3.</ls> {#nAsmE\ sami^tiH kalpate#} 
-<ls>AV. 5, 9, 15. 6, 88, 3.</ls> 
-<div n="1">— 3) {%feindliches Zusammentreffen, Kampf%} 
-<ls>NAIGH. 2, 17.</ls> 
-<ls>AK. 2, 8, 2, 74. 3, 4, 14, 73.</ls> 
-<ls>TRIK.</ls> 
-<ls>H. 798.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HALĀY. 2, 298.</ls> 
-<ls>ŚAT. BR. 8, 6, 1, 16.</ls> 
-<ls>TBR. 1, 5, 1, 4</ls> (nach Comm.). 
-<ls>HARIV. 15379.</ls> 
-<ls>SUŚR. 1, 333, 13.</ls> 
-<ls>ŚĀK. 48, v. l.</ls> {#°SoBana#} 
-<ls>MBH. 13, 3187.</ls> 
-<ls>R. 4, 18, 12</ls> (zusammen zu schreiben). {#°SAlin#} (so zu schreiben) 
-<ls>BHĀG. P. 2, 7, 35.</ls> 
-<div n="1">— 4) {%Vereinigung%} überh.: {#guRAnAm#} 
-<ls>BHĀG. P. 11, 25, 8.</ls> 
-<div n="1">— 5) bei den <is>Jaina</is> {%Regel des Betragens%}, deren fünf 
-<ls>SARVADARŚANAS. 37, 18.</ls> {#prARipIqAparihAreRa samyagayanaM samitiH#} 
-<ls>39, 1. 2.</ls> die fünf {#samiti#} sind {#IryA, BAzAsamiti, ezaRA°, AdAna°#} und {#utsarga°#} 4. fgg. 
-<div n="1">— 6) {%Gleichheit%} 
-<ls>H. an.</ls> 
+{#sa/miti#}¦ (von 3. {#i#} mit {#sam#}) <lex>f.</lex>
+<div n="1"> 1) {%Zusammenkunft, Versammlung, Rath, Volksversammlung%}
+<ls>AK. 2,7,14.</ls> <ls n="AK.">3,4,14,73.</ls>
+<ls>TRIK. 3,3,190.</ls>
+<ls>H. 481.</ls>
+<ls>an. 3,311. fg.</ls>
+<ls>MED. t. 169.</ls> <ls>HALĀY. 5,35.</ls> <ls>ṚV. 1,95,8.</ls> {#rAjA\ na satya\H sami^tIriyA\naH#}
+<ls n="ṚV.">9,92,6.</ls> <ls n="ṚV.">10,97,6.</ls> <ls n="ṚV. 10,">11,8.</ls> <ls>AV. 6,88,3.</ls> <ls n="AV.">7,12,1.</ls> {#ye sa^MgrA\mAH sa\mita^ya\stezu\ cAru^ vadema te#}
+<ls n="AV.">12,1,56.</ls> <ls n="AV. 12,">3,52.</ls> {#sa\BA ca\ sami^tiSca#}
+<ls n="AV.">15,9,2.</ls> <ls n="AV. 15,9,">3.</ls> <ls>CHĀND. UP. 5,3,1.</ls> {#rAja°#}
+<ls>MBH. 1,505.</ls> <ls n="MBH. 1,">4417.</ls> <ls n="MBH.">3,2195.</ls> {#deva°#}
+<ls n="MBH. 3,">10557.</ls> {#amAtya°#}
+<ls n="MBH.">12,11991.</ls> {#lokavIra°#}
+<ls>BHĀG. P. 9,10,6.</ls>
+<div n="1">— 2) {%gemeinsamer Anschlag, Bund%}
+<ls>ṚV. 10,166,4.</ls> <ls n="ṚV. 10,">191,3.</ls> {#nAsmE\ sami^tiH kalpate#}
+<ls>AV. 5,9,15.</ls> <ls n="AV.">6,88,3.</ls>
+<div n="1">— 3) {%feindliches Zusammentreffen, Kampf%}
+<ls>NAIGH. 2,17.</ls>
+<ls>AK. 2,8,2,74.</ls> <ls n="AK.">3,4,14,73.</ls>
+<ls>TRIK.</ls>
+<ls>H. 798.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HALĀY. 2,298.</ls>
+<ls>ŚAT. BR. 8,6,1,16.</ls>
+<ls>TBR. 1,5,1,4</ls> (nach Comm.).
+<ls>HARIV. 15379.</ls>
+<ls>SUŚR. 1,333,13.</ls>
+<ls>ŚĀK. 48, v. l.</ls> {#°SoBana#}
+<ls>MBH. 13,3187.</ls>
+<ls>R. 4,18,12</ls> (zusammen zu schreiben). {#°SAlin#} (so zu schreiben)
+<ls>BHĀG. P. 2,7,35.</ls>
+<div n="1">— 4) {%Vereinigung%} überh.: {#guRAnAm#}
+<ls>BHĀG. P. 11,25,8.</ls>
+<div n="1">— 5) bei den <is>Jaina</is> {%Regel des Betragens%}, deren fünf
+<ls>SARVADARŚANAS. 37,18.</ls> {#prARipIqAparihAreRa samyagayanaM samitiH#}
+<ls n="SARVADARŚANAS.">39,1. 2.</ls> die fünf {#samiti#} sind {#IryA, BAzAsamiti, ezaRA°, AdAna°#} und {#utsarga°#} 4. fgg.
+<div n="1">— 6) {%Gleichheit%}
+<ls>H. an.</ls>
 <div n="v">— Vgl. {#sAmitya#} .
 <LEND>

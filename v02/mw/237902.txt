@@ -1,3 +1,3 @@
-<L>237902<pc>1184,1<k1>sarjI<k2>sarjI<h>b<e>2
-<s>sarjI</s> <hom>b</hom> ¦ <lex>f.</lex> natron, <ls>L.</ls><info lex="f"/>
+<L>237902<pc>1184,1<k1>sarjI<k2>sarjI<e>2
+<s>sarjI</s> ¦ <lex>f.</lex> natron, <ls>L.</ls><info lex="f"/><info hui="b"/>
 <LEND>

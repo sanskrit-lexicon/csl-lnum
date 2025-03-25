@@ -1,6 +1,6 @@
 <L>21648<pc>571-a<k1>parcel<k2>parcel
-<div n="lb"/>PARCEL¦, {%s.%} (Small bundle) {#powalikA, powwalI, kUrccaH, vIwikA#}. — 
-<div n="lb"/>(Portion, part) {#BAgaH, viBAgaH, aMSaH, vaRwaH -RwakaH, udDAraH, BAjitaM,#}
-<div n="lb"/>{#KaRqaH#}. — (Quantity) {#rASiH#} {%m.,%} {#saYcayaH, nicayaH, cayaH, saNGaH, samUhaH#}.
-<div n="lb"/> — (Number of persons) {#gaRaH, samUhaH, vfndaM, maRqalaM#}.
+PARCEL¦, {%s.%} (Small bundle) {#powalikA, powwalI, kUrccaH, vIwikA#}. — 
+(Portion, part) {#BAgaH, viBAgaH, aMSaH, vaRwaH -RwakaH, udDAraH, BAjitaM,#}
+{#KaRqaH#}. — (Quantity) {#rASiH#} {%m.,%} {#saYcayaH, nicayaH, cayaH, saNGaH, samUhaH#}.
+ — (Number of persons) {#gaRaH, samUhaH, vfndaM, maRqalaM#}.
 <LEND>

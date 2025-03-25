@@ -1,4 +1,4 @@
 <L>22417<pc>707<k1>thereafter<k2>thereafter
-<div n="lb"/>{@THEREAFTER:@}¦ After that: {#tataH param.#} <div n="I">II = and
-<div n="lb"/>then: </div><div n="1">(1) {#tataH;#} </div><div n="1">(2) {#tadanu;#} </div><div n="1">(3) {#tadanantaram.#}</div>
+{@THEREAFTER:@}¦ After that: {#tataH param.#} <div n="I">II = and
+then: </div><div n="1">(1) {#tataH;#} </div><div n="1">(2) {#tadanu;#} </div><div n="1">(3) {#tadanantaram.#}</div>
 <LEND>

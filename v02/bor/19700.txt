@@ -1,4 +1,4 @@
 <L>19700<pc>612<k1>salvage<k2>salvage
-<div n="lb"/>{@SALVAGE:@}¦ <div n="1">(1) {#udDftam, sam-#} (of the property);</div>
-<div n="lb"/><div n="1">(2) {#udDAraH#} (of the compensation).</div>
+{@SALVAGE:@}¦ <div n="1">(1) {#udDftam, sam-#} (of the property);</div>
+<div n="1">(2) {#udDAraH#} (of the compensation).</div>
 <LEND>

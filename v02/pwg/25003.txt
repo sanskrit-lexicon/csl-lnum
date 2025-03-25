@@ -1,44 +1,43 @@
 <L>25003<pc>2-0974<k1>carman<k2>ca/rman
-{#ca/rman#}¦ <lex>n.</lex> 
-<ls>Uṇ. 4, 146.</ls> 
-<div n="1"> 1) {%Haut, Fell%} 
-<ls>AK. 2, 7, 46.</ls> 
-<ls>TRIK. 3, 3, 237.</ls> 
-<ls>H. 630.</ls> 
-<ls>an. 2, 263.</ls> 
-<ls>MED. n. 63.</ls> {#carme^vo\daBi\rvyu^ndanti\ BUmi^m#} 
-<ls>ṚV. 1, 85, 5.</ls> {#yayA^ Di\yA gAmari^RIta\ carma^RaH#} 
-<ls n="ṚV.">3, 60, 2.</ls> <ls n="ṚV.">1, 110, 8.</ls> <ls n="ṚV. 1,">161, 7.</ls> <ls n="ṚV.">4, 13, 4.</ls> <ls n="ṚV. 4,">36, 4.</ls> {#vi yo ja\GAna^ Sami\teva\ carma^#} 
-<ls n="ṚV.">5, 85, 1.</ls> <ls n="ṚV.">6, 8, 3.</ls> {#carme^va\ yaH sa\mavi^vya\ktamA^Msi#} 
-<ls n="ṚV.">7, 63, 1.</ls> {#carmA^Ri mlA\tAni^#} 
-<ls>VĀLAKH. 6, 3.</ls> 
-<ls>AV. 5, 8, 13. 10, 9, 2. 11, 1, 9. 14, 2, 22. 24.</ls> 
-<ls>TS. 3, 1, 7, 1. 6, 1, 9, 2.</ls> {#OkzRa#} 
-<ls>ŚAT. BR. 1, 2, 5, 2. 4, 5, 13.</ls> {#SArdUla°#} 
-<ls>5, 3, 5, 3.</ls> {#vaSA°#} 
-<ls>KĀTY. ŚR. 13, 3, 12.</ls> {#basta°#} 
-<ls>18, 5, 12.</ls> {#anustaraRyA goScarmADizavaRam#} 
-<ls>ŚĀṄKH. ŚR. 14, 22, 17.</ls> 
-<ls>NIR. 2, 5.</ls> 
-<ls>M. 2, 41. 174. 5, 119. 6, 6. 76.</ls> {#saromRi carmaRi#} 
-<ls>SUŚR. 1, 29, 5.</ls> {#carmabAla#} 
-<ls>2, 495, 19.</ls> <ls>HIT. 32, 13.</ls> {#nirBinnAnyasya (vizRoH) carmARi lokapAlo 'nilo 'viSat#} 
-<ls>BHĀG. P. 3, 6, 16.</ls> {#carmapUraM#} (adv.) {#stfRAti#} 
-<ls>P. 3,4,  31,</ls> 
-<ls>Sch.</ls>
+{#ca/rman#}¦ <lex>n.</lex>
+<ls>Uṇ. 4,146.</ls>
+<div n="1"> 1) {%Haut, Fell%}
+<ls>AK. 2,7,46.</ls>
+<ls>TRIK. 3,3,237.</ls>
+<ls>H. 630.</ls>
+<ls>an. 2,263.</ls>
+<ls>MED. n. 63.</ls> {#carme^vo\daBi\rvyu^ndanti\ BUmi^m#}
+<ls>ṚV. 1,85,5.</ls> {#yayA^ Di\yA gAmari^RIta\ carma^RaH#}
+<ls n="ṚV.">3,60,2.</ls> <ls n="ṚV.">1,110,8.</ls> <ls n="ṚV. 1,">161,7.</ls> <ls n="ṚV.">4,13,4.</ls> <ls n="ṚV. 4,">36,4.</ls> {#vi yo ja\GAna^ Sami\teva\ carma^#}
+<ls n="ṚV.">5,85,1.</ls> <ls n="ṚV.">6,8,3.</ls> {#carme^va\ yaH sa\mavi^vya\ktamA^Msi#}
+<ls n="ṚV.">7,63,1.</ls> {#carmA^Ri mlA\tAni^#}
+<ls>VĀLAKH. 6,3.</ls>
+<ls>AV. 5,8,13.</ls> <ls n="AV.">10,9,2.</ls> <ls n="AV.">11,1,9.</ls> <ls n="AV.">14,2,22.</ls> <ls n="AV. 14,2,">24.</ls>
+<ls>TS. 3,1,7,1.</ls> <ls n="TS.">6,1,9,2.</ls> {#OkzRa#}
+<ls>ŚAT. BR. 1,2,5,2. 4,5,13.</ls> {#SArdUla°#}
+<ls n="ŚAT. BR.">5,3,5,3.</ls> {#vaSA°#}
+<ls>KĀTY. ŚR. 13,3,12.</ls> {#basta°#}
+<ls n="KĀTY. ŚR.">18,5,12.</ls> {#anustaraRyA goScarmADizavaRam#}
+<ls>ŚĀṄKH. ŚR. 14,22,17.</ls>
+<ls>NIR. 2,5.</ls>
+<ls>M. 2,41.</ls> <ls n="M. 2,">174.</ls> <ls n="M.">5,119.</ls> <ls n="M.">6,6.</ls> <ls n="M. 6,">76.</ls> {#saromRi carmaRi#}
+<ls>SUŚR. 1,29,5.</ls> {#carmabAla#}
+<ls n="SUŚR.">2,495,19.</ls> <ls>HIT. 32,13.</ls> {#nirBinnAnyasya (vizRoH) carmARi lokapAlo 'nilo 'viSat#}
+<ls>BHĀG. P. 3,6,16.</ls> {#carmapUraM#} (adv.) {#stfRAti#}
+<ls>P. 3,4,31</ls>, <ls>Sch.</ls>
 [Page2-0975]
-{#carmavat#} adv. 
-<ls>ŚVETĀŚV. UP. 6, 20.</ls> 
-<div n="1">— 2) {%Schild%} 
-<ls>AK. 2, 8, 2, 58.</ls> 
-<ls>TRIK.</ls> 
-<ls>H. 783.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>MBH. 3, 12585.</ls> {#asicarmaRi#} 
-<ls>1, 4355.</ls> {#asicarmaBft#} 
-<ls>3, 14911.</ls> {#carmaRA saMruroDa ca#} 
-<ls>7, 559.</ls> <ls>DRAUP. 8, 19.</ls> <ls>R. 5, 73, 10.</ls> <ls>BHĀG. P. 9, 15, 28.</ls> {#hEma#} 
-<ls>10, 43.</ls> 
+{#carmavat#} adv.
+<ls>ŚVETĀŚV. UP. 6,20.</ls>
+<div n="1">— 2) {%Schild%}
+<ls>AK. 2,8,2,58.</ls>
+<ls>TRIK.</ls>
+<ls>H. 783.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>MBH. 3,12585.</ls> {#asicarmaRi#}
+<ls n="MBH.">1,4355.</ls> {#asicarmaBft#}
+<ls n="MBH.">3,14911.</ls> {#carmaRA saMruroDa ca#}
+<ls n="MBH.">7,559.</ls> <ls>DRAUP. 8,19.</ls> <ls>R. 5,73,10.</ls> <ls>BHĀG. P. 9,15,28.</ls> {#hEma#}
+<ls n="BHĀG. P. 9,">10,43.</ls>
 <div n="v">— Vgl. {#gala°, duScarman#} .
 <LEND>

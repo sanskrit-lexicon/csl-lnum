@@ -1,8 +1,8 @@
 <L>7528<pc>237<k1>encircle<k2>encircle
-<div n="lb"/>{@ENCIRCLE:@}¦ <div n="1">(1) {#pari-vezwayati#} ({#vezw,#} c. 10.), <div n="xe">{%e.%}
-<div n="lb"/>{%whatever be on the side:%}</div> <div n="xs">{#yatpArSvato Bavati tatpari-#}
-<div n="lb"/>{#vezwayanti,#}</div> P.; <div n="xe">{%to e. in the arms:%}</div> <div n="xs">{#BujAByAM pari-#}
-<div n="lb"/>{#vezwayanti,#}</div> D.; </div><div n="1">(2) {#parigacCati#} ({#gam,#} c. 2.) (= to
-<div n="lb"/>go round), <div n="xe">{%e. d by the Vetravatī:%}</div> <div n="xs">{#vetravatyA parigatA,#}</div>
-<div n="lb"/>K.</div>
+{@ENCIRCLE:@}¦ <div n="1">(1) {#pari-vezwayati#} ({#vezw,#} c. 10.), <div n="xe">{%e.%}
+{%whatever be on the side:%}</div> <div n="xs">{#yatpArSvato Bavati tatpari-#}
+{#vezwayanti,#}</div> P.; <div n="xe">{%to e. in the arms:%}</div> <div n="xs">{#BujAByAM pari-#}
+{#vezwayanti,#}</div> D.; </div><div n="1">(2) {#parigacCati#} ({#gam,#} c. 2.) (= to
+go round), <div n="xe">{%e. d by the Vetravatī:%}</div> <div n="xs">{#vetravatyA parigatA,#}</div>
+K.</div>
 <LEND>

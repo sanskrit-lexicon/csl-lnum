@@ -1,8 +1,8 @@
 <L>18466<pc>567<k1>quote<k2>quote
-<div n="lb"/>{@QUOTE@}¦ (v.): <div n="1">(1) {#udDarati#} <div n="xe">{%or%}</div> <div n="xs">{#udAharati#}</div> ({#hf,#} c. 1.);</div>
-<div n="lb"/><div n="1">(2) {#upanyasyati#} ({#as,#} c. 4.); </div><div n="1">(3) {#avatArayati#}
-<div n="lb"/>({#tF,#} c. 10. = to being down), <div n="xe">{%Yāska having%}
-<div n="lb"/>{%q.d Vedic passages:%}</div> <div n="xs">{#yAskena vedavAkyAnAmavatArita-#}
-<div n="lb"/>{#tvAt,#}</div> Say.; </div><div n="1">(4) {#udgrAhayati#} (c. of {#grah#}), <div n="xe">{%what is%}
-<div n="lb"/>{%q.d before you:%}</div> <div n="xs">{#yattavodgrAhyate puraH#}</div> Si. ii. 75.</div>
+{@QUOTE@}¦ (v.): <div n="1">(1) {#udDarati#} <div n="xe">{%or%}</div> <div n="xs">{#udAharati#}</div> ({#hf,#} c. 1.);</div>
+<div n="1">(2) {#upanyasyati#} ({#as,#} c. 4.); </div><div n="1">(3) {#avatArayati#}
+({#tF,#} c. 10. = to being down), <div n="xe">{%Yāska having%}
+{%q.d Vedic passages:%}</div> <div n="xs">{#yAskena vedavAkyAnAmavatArita-#}
+{#tvAt,#}</div> Say.; </div><div n="1">(4) {#udgrAhayati#} (c. of {#grah#}), <div n="xe">{%what is%}
+{%q.d before you:%}</div> <div n="xs">{#yattavodgrAhyate puraH#}</div> Si. ii. 75.</div>
 <LEND>

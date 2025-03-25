@@ -1,20 +1,20 @@
 <L>54323<pc>5-0224<k1>Bavitavya<k2>Bavita/vya
-{#Bavita/vya#}¦ (wie eben) <lex>adj.</lex> {%das, was erfolgen —, geschehen muss%} 
-<ls>ŚAT. BR. 7, 1, 2, 11. 9, 5, 1, 62.</ls> 
-<ls>MBH. 15, 110. 115.</ls> 
-<ls>Spr. 2033. fg.</ls> 
-<ls>HARIV. 7404.</ls> {#BavitavyAnAM dvArARi Bavanti sarvatra#} 
-<ls>ŚĀK. 15.</ls> 
-<ls>KUMĀRAS. 4, 44.</ls> {#BavitavyaM hi DAtrApi na Sakyamativartitum#} 
-<ls>KATHĀS. 37, 236. 49, 197.</ls> 
-<ls>RĀJA-TAR. 2, 76.</ls> 
-<ls>BHĀG. P. 5, 6, 10.</ls> das neutr. impers. mit dem instr. des subj.: {#vratopavAsaparayA BavitavyaM tvayA#} {%du musst sein%} 
-<ls>R. 2, 26, 28.</ls> 
-<ls>ŚĀK. 22, 17. 27, 10. 32, 20. 90, 21.</ls> 
-<ls>MĀRK. P. 27, 9.</ls> 
-<ls>PRAB. 31, 15.</ls> 
-<ls>PAÑCAT. 30, 25.</ls> 
-<ls>HIT. 55, 13. 56, 22.</ls> 
-<ls>VOP. 26, 3.</ls> {#BavitavyaM maNgalena#} {%es muss ein Glück sein%} 
-<ls>BHĀG. P. 6, 2, 32.</ls>
+{#Bavita/vya#}¦ (wie eben) <lex>adj.</lex> {%das, was erfolgen —, geschehen muss%}
+<ls>ŚAT. BR. 7,1,2,11.</ls> <ls n="ŚAT. BR.">9,5,1,62.</ls>
+<ls>MBH. 15,110.</ls> <ls n="MBH. 15,">115.</ls>
+<ls>Spr. 2033. fg.</ls>
+<ls>HARIV. 7404.</ls> {#BavitavyAnAM dvArARi Bavanti sarvatra#}
+<ls>ŚĀK. 15.</ls>
+<ls>KUMĀRAS. 4,44.</ls> {#BavitavyaM hi DAtrApi na Sakyamativartitum#}
+<ls>KATHĀS. 37,236.</ls> <ls n="KATHĀS.">49,197.</ls>
+<ls>RĀJA-TAR. 2,76.</ls>
+<ls>BHĀG. P. 5,6,10.</ls> das neutr. impers. mit dem instr. des subj.: {#vratopavAsaparayA BavitavyaM tvayA#} {%du musst sein%}
+<ls>R. 2,26,28.</ls>
+<ls>ŚĀK. 22,17. 27,10. 32,20. 90,21.</ls>
+<ls>MĀRK. P. 27,9.</ls>
+<ls>PRAB. 31,15.</ls>
+<ls>PAÑCAT. 30,25.</ls>
+<ls>HIT. 55,13.</ls> <ls n="HIT.">56,22.</ls>
+<ls>VOP. 26,3.</ls> {#BavitavyaM maNgalena#} {%es muss ein Glück sein%}
+<ls>BHĀG. P. 6,2,32.</ls>
 <LEND>

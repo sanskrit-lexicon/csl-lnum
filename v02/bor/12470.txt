@@ -1,6 +1,6 @@
 <L>12470<pc>387<k1>intent<k2>intent
-<div n="lb"/>{@INTENT@}¦ (subs.): v. Intention. Ph.: <div n="xe">{%with%}
-<div n="lb"/>{%deliberate i.:%}</div> <div n="xs">{#saNkalpapUrvakam;#}</div> {%to all i. s and purposes:%}
-<div n="lb"/>{#sarvaTA;#} <div n="xe">{%to the i. that:%}</div> <div n="xs">{#etadaBiprAyakaH#}</div> ({#kA, kaM#}); {%the%}
-<div n="lb"/>{%i.%} ({%of this passage%}) <div n="xe">{%is...%}</div> <div n="xs">{#iti BAvaH,#}</div> M. n.
+{@INTENT@}¦ (subs.): v. Intention. Ph.: <div n="xe">{%with%}
+{%deliberate i.:%}</div> <div n="xs">{#saNkalpapUrvakam;#}</div> {%to all i. s and purposes:%}
+{#sarvaTA;#} <div n="xe">{%to the i. that:%}</div> <div n="xs">{#etadaBiprAyakaH#}</div> ({#kA, kaM#}); {%the%}
+{%i.%} ({%of this passage%}) <div n="xe">{%is...%}</div> <div n="xs">{#iti BAvaH,#}</div> M. n.
 <LEND>

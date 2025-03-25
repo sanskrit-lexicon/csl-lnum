@@ -1,11 +1,11 @@
 <L>5250<pc>219<k1>impulse<k2>impulse
 {@Impulse,@}¦ {%s.%} {#pravartanaM, praRodanaM, pravftti#} {%f.,%} {#pra-#}
-<div n="lb"/>{#-codanaM-nA, protsAhanaM-nA;#} ‘sudden i.’
-<div n="lb"/>{#AkasmikI pravfttiH, vegaH, saM-A-vegaH#}. {@2@}
-<div n="lb"/>{#hetuH, kAraRaM, nimittaM, prayojanaM#}. {@-Impul-@}
-<div n="lb"/>{@-sive,@} {%a.%} {#pravartaka, praRodaka, protsAhaka, pra-#}
-<div n="lb"/>{#-codaka#}. {@2@} {#AvegaSIla, sahasApravartin, vegA-#}
-<div n="lb"/>{#-nuvartin, saMraMBin;#} ‘pray, don't grow i.’
-<div n="lb"/>{#sahasA-AkasmikavfttyA karmaRi pravartituM nA-#}
-<div n="lb"/>{#-rhasi#}. {@-ly,@} {%adv.%} {#sahasA, AkasmikapravfttyA#}.
+{#-codanaM-nA, protsAhanaM-nA;#} ‘sudden i.’
+{#AkasmikI pravfttiH, vegaH, saM-A-vegaH#}. {@2@}
+{#hetuH, kAraRaM, nimittaM, prayojanaM#}. {@-Impul-@}
+{@-sive,@} {%a.%} {#pravartaka, praRodaka, protsAhaka, pra-#}
+{#-codaka#}. {@2@} {#AvegaSIla, sahasApravartin, vegA-#}
+{#-nuvartin, saMraMBin;#} ‘pray, don't grow i.’
+{#sahasA-AkasmikavfttyA karmaRi pravartituM nA-#}
+{#-rhasi#}. {@-ly,@} {%adv.%} {#sahasA, AkasmikapravfttyA#}.
 <LEND>

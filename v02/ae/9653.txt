@@ -1,8 +1,8 @@
 <L>9653<pc>434<k1>soldier<k2>soldier
 {@Soldier,@}¦ {%s.%} {#sEnikaH, yoDaH, BawaH, AyuDikaH,#}
-<div n="lb"/>{#yodDf#} {%m.%} {#Sastra#} or {#astra-DaraH-Bft#} {%m.%} -{#jIvin#} {%m.%}
-<div n="lb"/>-{#AjIvaH, Sastra-yudDa-upajIvI#}. {@-like, -ly,@} {%a.%}
-<div n="lb"/>{#sEnikavat, sEnika iva, sEnikayogya#}. {@2@} {#SUra,#}
-<div n="lb"/>{#vikrAMta;#} {%See%} {@Brave. -y,@} {%s.%} {#senA, balaM, sEnyaM,#}
-<div n="lb"/>{#yoDa-sEnika-samUhaH, BawagaRaH#}.
+{#yodDf#} {%m.%} {#Sastra#} or {#astra-DaraH-Bft#} {%m.%} -{#jIvin#} {%m.%}
+-{#AjIvaH, Sastra-yudDa-upajIvI#}. {@-like, -ly,@} {%a.%}
+{#sEnikavat, sEnika iva, sEnikayogya#}. {@2@} {#SUra,#}
+{#vikrAMta;#} {%See%} {@Brave. -y,@} {%s.%} {#senA, balaM, sEnyaM,#}
+{#yoDa-sEnika-samUhaH, BawagaRaH#}.
 <LEND>

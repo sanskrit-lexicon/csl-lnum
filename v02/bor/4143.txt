@@ -1,17 +1,17 @@
 <L>4143<pc>134<k1>common<k2>common
-<div n="lb"/>{@COMMON@}¦ (adj.): <div n="I">I Belonging to more than
-<div n="lb"/>one: </div><div n="1">(1) {#sADAraRaH#} ({#RI RaM#}), {%c. property%}
-<div n="lb"/>{#sADAraRaDanam,#} Da.; <div n="xe">{%c. to many:%}</div> <div n="xs">{#bahusADAraRa#}</div>
-<div n="lb"/>({#RI, RaM#}), Da.; </div><div n="1">(2) {#sAmAnyaH#} ({#nyA, nyaM#}), {%thi%}
-<div n="lb"/>({%gem%}) <div n="xe">{%is c. to me and Balabhadra:%}</div> <div n="xs">{#etanma. #}
-<div n="lb"/>{# balaBadrasya ca sAmAnyam,#}</div> V. p. </div><div n="I">II Usual, ordinary</div>
-<div n="lb"/><div n="1">(1) {#sADAraRaH#} ({#RI RaM#}), <div n="xe">{%c. council:%}</div> <div n="xs">{#sADAraRasaBA#}</div>
-<div n="lb"/><div n="xe">{%c. crier:%}</div> <div n="xs">{#*sADAraRaGozakaH;#}</div> <div n="xe">{%c. noun:%}</div> <div n="xs">{#*sADAraRanAma#}</div>
-<div n="lb"/>(n.); </div><div n="1">(2) {#sAmAnyaH#} ({#nyA, nyaM#}), “{%c. dame%}”
-<div n="lb"/>{#sAmAnyanAyikA,#} Sah.; <div n="xe">{%c. weaver:%}</div> <div n="xs">{#sABAnyakOlika#}</div>
-<div n="lb"/>P. ii. 5.; <div n="xe">{%c. word:%}</div> <div n="xs">{#sAmAnyaSabdaH,#}</div> N. d,; {%a c.%}
-<div n="lb"/><div n="xe">{%man:%}</div> <div n="xs">{#sAmAnyajanaH,#}</div> Ra. v. ({#itaraH,#} V. p.). Ph.
-<div n="lb"/><div n="xe">{%c. saying:%}</div> <div n="xs">{#janapravAdaH,#}</div> N.; <div n="xe">{%c. gender:%}</div> <div n="xs">{#strIpuMliNgam#}</div>
-<div n="lb"/><div n="xe">{%c. law:%}</div> <div n="xs">{#deSAcAraH;#}</div> <div n="xe">{%the c. people:%}</div> <div n="xs">{#lOkikAH,#}</div> <ls>T.</ls>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#prakftayaH,#}</div> R.; <div n="xe">{%c. sense:%}</div> <div n="xs">{#vivekaH.#}</div></div>
+{@COMMON@}¦ (adj.): <div n="I">I Belonging to more than
+one: </div><div n="1">(1) {#sADAraRaH#} ({#RI RaM#}), {%c. property%}
+{#sADAraRaDanam,#} Da.; <div n="xe">{%c. to many:%}</div> <div n="xs">{#bahusADAraRa#}</div>
+({#RI, RaM#}), Da.; </div><div n="1">(2) {#sAmAnyaH#} ({#nyA, nyaM#}), {%thi%}
+({%gem%}) <div n="xe">{%is c. to me and Balabhadra:%}</div> <div n="xs">{#etanma. #}
+{# balaBadrasya ca sAmAnyam,#}</div> V. p. </div><div n="I">II Usual, ordinary</div>
+<div n="1">(1) {#sADAraRaH#} ({#RI RaM#}), <div n="xe">{%c. council:%}</div> <div n="xs">{#sADAraRasaBA#}</div>
+<div n="xe">{%c. crier:%}</div> <div n="xs">{#*sADAraRaGozakaH;#}</div> <div n="xe">{%c. noun:%}</div> <div n="xs">{#*sADAraRanAma#}</div>
+(n.); </div><div n="1">(2) {#sAmAnyaH#} ({#nyA, nyaM#}), “{%c. dame%}”
+{#sAmAnyanAyikA,#} Sah.; <div n="xe">{%c. weaver:%}</div> <div n="xs">{#sABAnyakOlika#}</div>
+P. ii. 5.; <div n="xe">{%c. word:%}</div> <div n="xs">{#sAmAnyaSabdaH,#}</div> N. d,; {%a c.%}
+<div n="xe">{%man:%}</div> <div n="xs">{#sAmAnyajanaH,#}</div> Ra. v. ({#itaraH,#} V. p.). Ph.
+<div n="xe">{%c. saying:%}</div> <div n="xs">{#janapravAdaH,#}</div> N.; <div n="xe">{%c. gender:%}</div> <div n="xs">{#strIpuMliNgam#}</div>
+<div n="xe">{%c. law:%}</div> <div n="xs">{#deSAcAraH;#}</div> <div n="xe">{%the c. people:%}</div> <div n="xs">{#lOkikAH,#}</div> <ls>T.</ls>
+<div n="xe">{%or%}</div> <div n="xs">{#prakftayaH,#}</div> R.; <div n="xe">{%c. sense:%}</div> <div n="xs">{#vivekaH.#}</div></div>
 <LEND>

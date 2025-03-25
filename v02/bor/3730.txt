@@ -1,5 +1,5 @@
 <L>3730<pc>122<k1>civilian<k2>civilian
-<div n="lb"/>{@CIVILIAN:@}¦ <div n="I">I One versed in civil law:
-<div n="lb"/>{#*sADAraRaviDijYaH.#} </div><div n="I">II A non-mlitaryman: {#*pOra-#}
-<div n="lb"/>{#kAryADikftaH.#}</div>
+{@CIVILIAN:@}¦ <div n="I">I One versed in civil law:
+{#*sADAraRaviDijYaH.#} </div><div n="I">II A non-mlitaryman: {#*pOra-#}
+{#kAryADikftaH.#}</div>
 <LEND>

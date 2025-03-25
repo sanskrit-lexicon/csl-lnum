@@ -1,38 +1,38 @@
 <L>96163<pc>6-1425<k1>voQar<k2>vo/Qar
-{#vo/Qar#}¦ (von 1. {#vah#}) nom. ag. 
-<ls>P. 6, 3, 112.</ls> 
-<div n="1"> 1) {%fahrend, führend, ziehend, bringend; Zugpferd%} 
-<ls>ṚV. 1, 44, 3.</ls> <ls n="ṚV.">6, 64, 3.</ls> {#atyo\ na voLahA^#} 
-<ls n="ṚV.">9, 81, 2.</ls> {#suyama#} 
-<ls n="ṚV. 9,">96, 15.</ls> <ls n="ṚV. 9,">112, 4.</ls> <ls>ŚAT. BR. 6, 4, 3, 9.</ls> <ls>ŚĀṄKH. ŚR. 8, 18, 9.</ls> {#i\no vasu\ sa hi vo|A^#} 
-<ls>ṚV. 8, 2, 35.</ls> 
-<ls>NIR. 5, 1. 11, 16. 12, 22.</ls> — {#raTasya#} {%Wagenpferd%} 
-<ls>AK. 2, 8, 2, 14.</ls> 
-<ls>H. 1234.</ls> {#halasya#} ein Stier 
-<ls>MBH. 3, 12724. 13, 8599.</ls> 
-<ls>AK. 2, 9, 64.</ls> {#yugAdInAm#} 
-<ls>?ebend. H. 1261.</ls> {#DuraH#} 
-<ls>MBH. 7, 373.</ls> {#agryaDurAyAm#} ein Stier 
-<ls>PAÑCAT.  8, 16.</ls>
+{#vo/Qar#}¦ (von 1. {#vah#}) nom. ag.
+<ls>P. 6,3,112.</ls>
+<div n="1"> 1) {%fahrend, führend, ziehend, bringend; Zugpferd%}
+<ls>ṚV. 1,44,3.</ls> <ls n="ṚV.">6,64,3.</ls> {#atyo\ na voLahA^#}
+<ls n="ṚV.">9,81,2.</ls> {#suyama#}
+<ls n="ṚV. 9,">96,15.</ls> <ls n="ṚV. 9,">112,4.</ls> <ls>ŚAT. BR. 6,4,3,9.</ls> <ls>ŚĀṄKH. ŚR. 8,18,9.</ls> {#i\no vasu\ sa hi vo|A^#}
+<ls>ṚV. 8,2,35.</ls>
+<ls>NIR. 5,1. 11,16. 12,22.</ls> — {#raTasya#} {%Wagenpferd%}
+<ls>AK. 2,8,2,14.</ls>
+<ls>H. 1234.</ls> {#halasya#} ein Stier
+<ls>MBH. 3,12724.</ls> <ls n="MBH.">13,8599.</ls>
+<ls>AK. 2,9,64.</ls> {#yugAdInAm#}
+ebend. <ls>H. 1261.</ls> {#DuraH#}
+<ls>MBH. 7,373.</ls> {#agryaDurAyAm#} ein Stier
+<ls>PAÑCAT. 8,16.</ls>
 [Page6-1426]
-<lex>m.</lex> {%Zugochs, Stier%} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>MBH. 11, 760.</ls> {%Wagenlenker%} 
-<ls>H. an. 2, 131.</ls> 
-<ls>MED. ḍh. 4.</ls> {#devAnAm#} {%Führer%} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH.</ls> <ls>AR. UP.</ls> <ls>S. 25.</ls> {#BAgIraTInirJarasIkarARAm#} {%zuführend%} (Wind) 
-<ls>KUMĀRAS. 1, 15.</ls> {#kurabakarajasAm#} 
-<ls>MĀLAV. 44.</ls> {#havyakavyAnAm#} {%Darbringer%} 
-<ls>MBH. 13, 2023.</ls> 
-<div n="1">— 2) {%Heimführer eines Mädchens, Ehegatte%} 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>M. 8, 204. 9, 172. fg.</ls> <ls>MBH. 5, 4733.</ls> {#voQar#} und {#a°#} 
-<ls>KULL.</ls> zu <ls>M. 9, 32.</ls> {#kanyAm#} 
-<ls>P. 3, 3, 169, Schol.</ls> 
-<div n="1">— 3) {%Träger, Lastträger%} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>BHĀG. P. 5, 10, 2.</ls> {#BAra°#} 
-<ls>KATHĀS. 60, 12.</ls> {#kftsnaBUBAra°#} 
-<ls>55, 29. 101, 44.</ls> {#havirvoQar#} 
-<ls>PAÑCAR. 3, 14, 22.</ls> 
-<div n="1">— 4) = {#mUQa#} (vielleicht fehlerhaft für {#sUta#}) 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
+<lex>m.</lex> {%Zugochs, Stier%}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>MBH. 11,760.</ls> {%Wagenlenker%}
+<ls>H. an. 2,131.</ls>
+<ls>MED. ḍh. 4.</ls> {#devAnAm#} {%Führer%}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. AR. UP. S. 25.</ls> {#BAgIraTInirJarasIkarARAm#} {%zuführend%} (Wind)
+<ls>KUMĀRAS. 1,15.</ls> {#kurabakarajasAm#}
+<ls>MĀLAV. 44.</ls> {#havyakavyAnAm#} {%Darbringer%}
+<ls>MBH. 13,2023.</ls>
+<div n="1">— 2) {%Heimführer eines Mädchens, Ehegatte%}
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>M. 8,204.</ls> <ls n="M.">9,172. fg.</ls> <ls>MBH. 5,4733.</ls> {#voQar#} und {#a°#}
+<ls>KULL.</ls> zu <ls>M. 9,32.</ls> {#kanyAm#}
+<ls>P. 3,3,169</ls>, Schol.
+<div n="1">— 3) {%Träger, Lastträger%}
+<ls>H. an.</ls> <ls>MED.</ls> <ls>BHĀG. P. 5,10,2.</ls> {#BAra°#}
+<ls>KATHĀS. 60,12.</ls> {#kftsnaBUBAra°#}
+<ls n="KATHĀS.">55,29.</ls> <ls n="KATHĀS.">101,44.</ls> {#havirvoQar#}
+<ls>PAÑCAR. 3,14,22.</ls>
+<div n="1">— 4) = {#mUQa#} (vielleicht fehlerhaft für {#sUta#})
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
 <div n="v">— Vgl. {#DUrvoQar#} .
 <LEND>

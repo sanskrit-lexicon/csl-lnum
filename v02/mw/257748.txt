@@ -1,3 +1,3 @@
-<L>257748<pc>1275,1<k1>srukka<k2>srukka<h>b<e>2
-<s>srukka</s> <hom>b</hom> ¦ (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>) = <s>sruc</s>, <ls>R.</ls><info lex="f#A"/>
+<L>257748<pc>1275,1<k1>srukka<k2>srukka<e>2
+<s>srukka</s> ¦ (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>) = <s>sruc</s>, <ls>R.</ls><info lex="f#A"/><info hui="b"/>
 <LEND>

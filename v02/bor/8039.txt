@@ -1,8 +1,8 @@
 <L>8039<pc>254<k1>execute<k2>execute
-<div n="lb"/>{@EXECUTE:@}¦ <div n="I">I To accomplish, carry out:
-<div n="lb"/>q. v.: {#anutizWati#} ({#sTA,#} c. 1.), {%to e. an order:%}
-<div n="lb"/>{#SAsanamanutizWati,#} R. </div><div n="I">II Of deeds: {#karoti.#} </div><div n="I">III
-<div n="lb"/>To put to death: q. v.: {#vyApAdayati#} (c. of {#pad#}).
-<div n="lb"/>Ph.: <div n="xe">{%about to be e. d:%}</div> <div n="xs">{#vaDyamAnaH#}</div> ({#nA, naM#}),
-<div n="lb"/>Mu.</div>
+{@EXECUTE:@}¦ <div n="I">I To accomplish, carry out:
+q. v.: {#anutizWati#} ({#sTA,#} c. 1.), {%to e. an order:%}
+{#SAsanamanutizWati,#} R. </div><div n="I">II Of deeds: {#karoti.#} </div><div n="I">III
+To put to death: q. v.: {#vyApAdayati#} (c. of {#pad#}).
+Ph.: <div n="xe">{%about to be e. d:%}</div> <div n="xs">{#vaDyamAnaH#}</div> ({#nA, naM#}),
+Mu.</div>
 <LEND>

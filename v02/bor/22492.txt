@@ -1,13 +1,13 @@
 <L>22492<pc>710<k1>three<k2>three
-<div n="lb"/>{@THREE:@}¦ {#tri,#} <div n="xe">{%by the t. states:%}</div> <div n="xs">{#tisfBiravasTABiH,#}</div> Ku.;
-<div n="lb"/><div n="xe">{%t. times:%}</div> <div n="xs">{#triH;#}</div> <div n="xe">{%in t. ways:%}</div> <div n="xs">{#triDA#}</div> <div n="xe">{%or%}</div> <div n="xs">{#treDA;#}</div> <div n="xe">{%t. or%}
-<div n="lb"/>{%four:%}</div> <div n="xs">{#tricaturAH#}</div> (n. pl. {#Ri#}); <div n="xe">{%interest at t.%}
-<div n="lb"/>{%percent per mensem:%}</div> <div n="xs">{#trikaM SataM mAsasya vfdDiH,#}</div> M.
-<div n="lb"/>viii. 143.; <div n="xe">{%the t. Vedas:%}</div> <div n="xs">{#trayI;#}</div> <div n="xe">{%the t. objects%}
-<div n="lb"/>{%of life (virtue, wealth and love):%}</div> <div n="xs">{#trivargaH;#}</div> <div n="xe">{%the t.%}
-<div n="lb"/>{%spices (cinnamon, nutmeg, and cardamoms):%}</div>
-<div n="lb"/><div n="xs">{#trijAtakam,#}</div> D.; <div n="xe">{%a heifer t. years old:%}</div> <div n="xs">{#trihAyaRI;#}</div>
-<div n="lb"/><div n="xe">{%for t. nights:%}</div> <div n="xs">{#trirAtram. trayam#}</div> is often affixed to
-<div n="lb"/>express t.: <div n="xe">{%t. years:%}</div> <div n="xs">{#varzatrayam.#}</div> T. score: v.
-<div n="lb"/>Sixty.
+{@THREE:@}¦ {#tri,#} <div n="xe">{%by the t. states:%}</div> <div n="xs">{#tisfBiravasTABiH,#}</div> Ku.;
+<div n="xe">{%t. times:%}</div> <div n="xs">{#triH;#}</div> <div n="xe">{%in t. ways:%}</div> <div n="xs">{#triDA#}</div> <div n="xe">{%or%}</div> <div n="xs">{#treDA;#}</div> <div n="xe">{%t. or%}
+{%four:%}</div> <div n="xs">{#tricaturAH#}</div> (n. pl. {#Ri#}); <div n="xe">{%interest at t.%}
+{%percent per mensem:%}</div> <div n="xs">{#trikaM SataM mAsasya vfdDiH,#}</div> M.
+viii. 143.; <div n="xe">{%the t. Vedas:%}</div> <div n="xs">{#trayI;#}</div> <div n="xe">{%the t. objects%}
+{%of life (virtue, wealth and love):%}</div> <div n="xs">{#trivargaH;#}</div> <div n="xe">{%the t.%}
+{%spices (cinnamon, nutmeg, and cardamoms):%}</div>
+<div n="xs">{#trijAtakam,#}</div> D.; <div n="xe">{%a heifer t. years old:%}</div> <div n="xs">{#trihAyaRI;#}</div>
+<div n="xe">{%for t. nights:%}</div> <div n="xs">{#trirAtram. trayam#}</div> is often affixed to
+express t.: <div n="xe">{%t. years:%}</div> <div n="xs">{#varzatrayam.#}</div> T. score: v.
+Sixty.
 <LEND>

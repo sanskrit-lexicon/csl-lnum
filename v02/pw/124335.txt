@@ -1,32 +1,30 @@
-<L>124335<pc>7120-2<k1>sAra<k2>sA/ra<h>2<e>100
-2. {#sA/ra#}¦
-<div n="1">— 1) <lex>m.</lex> <lex>n.</lex> (<lex>adj.</lex> Comp. <lex>f.</lex> {#A#})
-<div n="2">— a) {%die inneren , festen Bestandtheile eines Körpers.%} Bei Früchten so v.a. {%Kerngehäuse.%}
-<div n="2">— b) {%Festigkeit , Härte ; Stärke , Kraft.%} Als relativer Begriff auch so v.a. {%Schwäche.%}
-<div n="2">— c) {%Werth.%} {#sAratas#} {%dem Werthe nach%} {#viBavasAreRa#} so v.a. {%nach den Vermögensumständen%} <ls>HEMĀDRI.1,747,15.760,19.</ls>
-<div n="2">— d) {%Vermögen , Besitz , Reichthum.%} {#sAratas#} {%nach den Vermögensumständen.%}
-<div n="2">— e) {%Kern%} , so v.a. {%Hauptsache , Quintessenz , das Beste , Werthvollste , etwas Werthvolles.%} {#sArAtsAram#} {%das Allerbeste.%} Am Ende eines <lex>adj.</lex> Comp. {%das Vorwaltende , Hauptsache%}
-<div n="2">— f) {%ein dem Temperament eines Menschen zu Grunde liegender Hauptbestandtheil des Körpers%} (deren 8 oder 7).
-<div n="2">— g) {%Bestandtheil%} überh.
-<div n="2">— h) {%Nektar.%}
-<div n="2">— i) {%saurer Rahm und *Butter%} (<ls>RĀJAN.15,2</ls>).
-<div n="2">— k) {%verdickter%}
-[Page7120-3]
-{%als Räucherwerk verwandter Pflanzensaft , Harz.%}
-<div n="2">— l) {%Dünger.%}
-<div n="2">— m) {%Wasser%} <ls>VĀSAV.105,2.</ls> <ab>Vgl.</ab> <ls>ZACH.Beitr.42.</ls>
-<div n="2">— n) {%ein Fürst , der einem anderen im Kriege zu Hülfe kommt , Bundesgenosse.%}
-<div n="2">— o) bei dem <is>Maga</is> Bez. {%des Gürtels.%}
-<div n="2">— p) in der Rhetorik {%eine Art Klimax.%} Beispiel <ls>Spr.2347,5775.</ls>
-<div n="1">— 2) *<lex>m.</lex> = {#majjan#} , {#asTi#} , {#tvacisAra#} , {#vajrakzAra , vAyu , roga#} und {#pASaka#}.
-<div n="1">— 3) *<lex>f.</lex> {#sArA#} = {#kfzRatrivftA#} und {#dUrvA#}.
-<div n="1">— 4) <lex>f.</lex> {#sArI#} = {#*sArikA#} , {#pASana#} (<ab>vgl.</ab> {#sArIkrIqA#}) und {#*saptalA#}.
-<div n="1">— 5) *<lex>n.</lex> = {#nacanIta , lOha#} und {#vipina#}.
-<div n="1">— 6) <lex>Adj.</lex> (<lex>f.</lex> {#A#})
-<div n="2">— a) {%hart , fest , stark.%} {#bala#} <lex>n.</lex> so v.a. {%Kerntruppen.%}
-<div n="2">— b) {%kostbar , werthvoll.%}
-<div n="2">— c) {%der beste , vorzüglichste.%}
-<div n="2">— d) {%richtig.%}
-<div n="2">— e) mit einem <ab>Instr.</ab> so v.a. {%voller.%}
-<div n="2">— f) = {#SAra#} {%bunt , scheckig%} <ls>KĀD.142,14</ls> ( {#SAra#} <ls>250,4</ls>).
+<L>124335<pc>7-120-b<k1>sAra<k2>sA/ra<h>2
+<hom>2.</hom> {#sA/ra#}¦
+<div n="1">— 1〉 <lex>m.</lex> <lex>n.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> {#A#})
+<div n="2">— a〉 {%die inneren, festen Bestandtheile eines Körpers%}. Bei Früchten so <ab>v. a.</ab> {%Kerngehäuse%}.
+<div n="2">— b〉 {%Festigkeit, Härte; Stärke, Kraft%}. Als relativer Begriff auch so <ab>v. a.</ab> {%Schwäche%}.
+<div n="2">— c〉 {%Werth%}. {#sAratas#} {%dem Werthe nach%} {#viBavasAreRa#} so <ab>v. a.</ab> {%nach den Vermögensumständen%} <ls>HEMĀDRI 1,747,15. 760,19</ls>.
+<div n="2">— d〉 {%Vermögen, Besitz, Reichthum%}. {#sAratas#} {%nach den Vermögensumständen%}.
+<div n="2">— e〉 {%Kern,%} so <ab>v. a.</ab> {%Hauptsache, Quintessenz, das Beste, Werthvollste, etwas Werthvolles%}. {#sArAtsAram#} {%das Allerbeste%}. Am Ende eines <ab>adj. Comp.</ab> {%das Vorwaltende, Hauptsache%}.
+<div n="2">— f〉 {%ein dem Temperament eines Menschen zu Grunde liegender Hauptbestandtheil des Körpers%} (deren 8 oder 7).
+<div n="2">— g〉 {%Bestandtheil%} <ab>überh.</ab>
+<div n="2">— h〉 {%Nektar%}.
+<div n="2">— i〉 {%saurer Rahm und *Butter%} (<ls>RĀJAN. 15,2</ls>).
+<div n="2">— k〉 {%verdickter [Page7-120-c] als Räucherwerk verwandter Pflanzensaft, Harz%}.
+<div n="2">— l〉 {%Dünger%}.
+<div n="2">— m〉 {%Wasser%} <ls>VĀSAV. 105,2</ls>. <ab>Vgl.</ab> <ls>ZACH. Beitr. 42</ls>.
+<div n="2">— n〉 {%ein Fürst, der einem anderen im Kriege zu Hülfe kommt, Bundesgenosse%}.
+<div n="2">— o〉 bei dem <is>Maga</is> <ab>Bez.</ab> {%des Gürtels%}.
+<div n="2">— p〉 in der Rhetorik {%eine Art Klimax%}. Beispiel <ls>Spr. 2347</ls>. <ls n="Spr.">5775</ls>.
+<div n="1">— 2〉 *<lex>m.</lex> = {#majjan#}, {#asTi#}, {#tvacisAra#}, {#vajrakzAra, vAyu, roga#} und {#pASaka#}.
+<div n="1">— 3〉 *<lex>f.</lex> {#sArA#} = {#kfzRatrivftA#} und {#dUrvA#}.
+<div n="1">— 4〉 <lex>f.</lex> {#sArI#} = *{#sArikA#}, {#pASana#} (<ab>vgl.</ab> {#sArIkrIqA#}) und *{#saptalA#}.
+<div n="1">— 5〉 *<lex>n.</lex> = {#nacanIta, lOha#} und {#vipina#}.
+<div n="1">— 6〉 <lex>Adj.</lex> (<lex>f.</lex> {#A#})
+<div n="2">— a〉 {%hart, fest, stark%}. {#bala#} <lex>n.</lex> so <ab>v. a.</ab> {%Kerntruppen%}.
+<div n="2">— b〉 {%kostbar, werthvoll%}.
+<div n="2">— c〉 {%der beste, vorzüglichste%}.
+<div n="2">— d〉 {%richtig%}.
+<div n="2">— e〉 mit einem <ab>Instr.</ab> so <ab>v. a.</ab> {%voller%}.
+<div n="2">— f〉 = {#SAra#} {%bunt, scheckig%} <ls>KĀD. 142,14</ls> ({#SAra#} <ls n="Chr.">250,4</ls>).
 <LEND>

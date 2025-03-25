@@ -1,6 +1,6 @@
 <L>9397<pc>298<k1>freight<k2>freight
-<div n="lb"/>{@FREIGHT@}¦ (subs.): <div n="I">I Cargo: q.v.: expr. by
-<div n="lb"/>{#dravyam#} <div n="xe">{%or%}</div> <div n="xs">{#BARqam,#}</div> <div n="xe">{%f. to go to Mathura:%}</div> <div n="xs">{#maTurAgAmIni #}
-<div n="lb"/>{# BARqAni,#}</div> P. </div><div n="I">II Fare: </div><div n="1">(1) {#taraH#} (gen. term).
-<div n="lb"/>M. viii. 406.; </div><div n="1">(2) {#vAhikam#} (after {#tArikam#}).</div>
+{@FREIGHT@}¦ (subs.): <div n="I">I Cargo: q.v.: expr. by
+{#dravyam#} <div n="xe">{%or%}</div> <div n="xs">{#BARqam,#}</div> <div n="xe">{%f. to go to Mathura:%}</div> <div n="xs">{#maTurAgAmIni #}
+{# BARqAni,#}</div> P. </div><div n="I">II Fare: </div><div n="1">(1) {#taraH#} (gen. term).
+M. viii. 406.; </div><div n="1">(2) {#vAhikam#} (after {#tArikam#}).</div>
 <LEND>

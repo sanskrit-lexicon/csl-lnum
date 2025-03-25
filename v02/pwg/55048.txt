@@ -1,74 +1,62 @@
 <L>55048<pc>5-0300<k1>Buj<k2>Buj<h>1
-1. {#Buj#}¦, {#Buja/ti#} {%biegen%} 
-<ls>DHĀTUP. 28, 124.</ls> partic. {#Bugna#} 
-<ls>P. 8, 2, 45.</ls> 
-<ls>VOP. 26. 88. fg.</ls> {%gebogen, gekrümmt, krumm%} 
-<ls>AK. 3, 2, 21. 40.</ls> 
-<ls>H. 1457. 1483.</ls> 
-<ls>HALĀY. 4, 11.</ls> {#darBAndviguRAnBugnAn#} 
-<ls>ĀŚV. GṚHY. 4, 7, 8.</ls> {#vAyuBugnANga#} 
-<ls>MBH. 13, 2281.</ls> {#kzuDA BugnaH#} 
-<ls>12, 4265.</ls> {#BaraBugnavitatabAhu#} 
-<ls>VĀSAVAD. 2, 4.</ls> {#nyubjo Bugne rujA#} 
-<ls>AK. 2, 6, 2, 12.</ls> {#pARiruha#} 
-<ls>BHAṬṬ. 11, 8.</ls> {#BruvO ca BugnO#} (masc.!) {%gefurcht%} 
-<ls>Spr. 4036.</ls> {%zur Seite gedrängt%} 
-<ls>777.</ls> {#°netra#} {%verdrehte Augen%} 
-<ls>Verz. d. Oxf. H. 319,a,8.b, No. 758</ls> {#(Bagnanetra#} gedr.). {#Bugna#} heisst {%der%} <is>Saṃdhi</is> {%von%} {#o#} {%und%} {#O#} {%vor nicht-labialen Vocalen%} 
-<ls>ṚV. PRĀT. 2, 11.</ls> 
+1. {#Buj#}¦, {#Buja/ti#} {%biegen%}
+<ls>DHĀTUP. 28,124.</ls> partic. {#Bugna#}
+<ls>P. 8,2,45.</ls>
+<ls>VOP. 26,88.</ls> fg. {%gebogen, gekrümmt, krumm%}
+<ls>AK. 3,2,21.</ls> <ls n="AK. 3,2,">40.</ls>
+<ls>H. 1457.</ls> <ls n="H.">1483.</ls>
+<ls>HALĀY. 4,11.</ls> {#darBAndviguRAnBugnAn#}
+<ls>ĀŚV. GṚHY. 4,7,8.</ls> {#vAyuBugnANga#}
+<ls>MBH. 13,2281.</ls> {#kzuDA BugnaH#}
+<ls n="MBH.">12,4265.</ls> {#BaraBugnavitatabAhu#}
+<ls>VĀSAVAD. 2,4.</ls> {#nyubjo Bugne rujA#}
+<ls>AK. 2,6,2,12.</ls> {#pARiruha#}
+<ls>BHAṬṬ. 11,8.</ls> {#BruvO ca BugnO#} (masc.!) {%gefurcht%}
+<ls>Spr. 4036.</ls> {%zur Seite gedrängt%}
+<ls n="Spr.">777.</ls> {#°netra#} {%verdrehte Augen%}
+<ls>Verz. d. Oxf. H. 319,a,8.b, No. 758</ls> {#(Bagnanetra#} gedr.). {#Bugna#} heisst {%der%} <is>Saṃdhi</is> {%von%} {#o#} {%und%} {#O#} {%vor nicht-labialen Vocalen%}
+<ls>ṚV. PRĀT. 2,11.</ls>
 <div n="v">— Vgl. {#Buji, Bujyu#}, 1. {#Boga#} .
-
-<div n="p">— {#ava#} {%einbiegen%} 
-<ls>KAUŚ. 19.</ls> {#BagnAvaBugnaBUyizWEH (drumEH)#} {%niedergebogen%} 
-<ls>MBH. 1, 5891.</ls>
-
-<div n="p">— {#pratyava#} {%zurückbiegen%}: {#rwaBAn#} 
+<div n="p">— {#ava#} {%einbiegen%}
+<ls>KAUŚ. 19.</ls> {#BagnAvaBugnaBUyizWEH (drumEH)#} {%niedergebogen%}
+<ls>MBH. 1,5891.</ls>
+<div n="p">— {#pratyava#} {%zurückbiegen%}: {#rwaBAn#}
 <ls>KAUŚ. 20.</ls>
-
-<div n="p">— {#A#} {%einbiegen%}: {#paryaNkamABujya#} {%mit untergeschlagenen Beinen%} (sitzen) 
-<ls>Lot. de la b. l. 334.</ls> {#ABugna#} {%gebogen, gekrümmt%} 
-<ls>RAGH. 1, 83.</ls> 
-<ls>PAÑCAR. 3, 6, 11.</ls> {%zur Seite gedrängt%} 
-<ls>DAŚAK.</ls> in <ls>BENF. Chr. 198, 21.</ls> 
+<div n="p">— {#A#} {%einbiegen%}: {#paryaNkamABujya#} {%mit untergeschlagenen Beinen%} (sitzen)
+<ls>Lot. de la b. l. 334.</ls> {#ABugna#} {%gebogen, gekrümmt%}
+<ls>RAGH. 1,83.</ls>
+<ls>PAÑCAR. 3,6,11.</ls> {%zur Seite gedrängt%}
+<ls>DAŚAK.</ls> in <ls>BENF. Chr. 198,21.</ls>
 <div n="v">— Vgl. {#ABoga#} .
-
-<div n="p">— {#vyA#}, partic. {#vyABugna#} {%gebogen%}: {#keSivaktravilagnastu kfzRavAhuraSoBata . vyABugna iva GarmAnte candrArDakiraRErGanaH ..#} 
-<ls>HARIV. 4313.</ls> 
-<ls>PRAB. 67, 11, v. l.</ls>
-
-<div n="p">— {#nis#} {%bei Seite biegen, - schieben, aus der Stelle rücken%}: {#ozWO nirBujati#} {%verzieht die Lippen%} 
-<ls>YĀJÑ. 2, 14.</ls> 
-<ls>SUŚR. 2, 331, 19. 337, 3. 338, 1.</ls>
+<div n="p">— {#vyA#}, partic. {#vyABugna#} {%gebogen%}: {#keSivaktravilagnastu kfzRavAhuraSoBata . vyABugna iva GarmAnte candrArDakiraRErGanaH ..#}
+<ls>HARIV. 4313.</ls>
+<ls>PRAB. 67,11, v. l.</ls>
+<div n="p">— {#nis#} {%bei Seite biegen, — schieben, aus der Stelle rücken%}: {#ozWO nirBujati#} {%verzieht die Lippen%}
+<ls>YĀJÑ. 2,14.</ls>
+<ls>SUŚR. 2,331,19. 337,3. 338,1.</ls>
 [Page5-0301]
-{#prAyo nirBujyate SArNgamAyasaM ca#} {%drückt sich bei Seite, entwischt%} 
-<ls>1, 99, 2.</ls> {#nirBugne netre#} {%verdrehte Augen%} 
-<ls>2, 402, 11. 17.</ls> {#SmaSAne - nirBugnasragviBUzite#} {%gebogen%} 
-<ls>MBH. 13, 6406.</ls>
-
-<div n="p">— {#vinis#} {%bei Seite biegen%}: {#vAmenAkzi vinirBujya hastena#} 
-<ls>SUŚR. 2, 353, 12.</ls>
-
-<div n="p">— {#pari#} {%umspannen, umfangen%}: {#tayA\smAnvi\Svata\stvama^ya\kzmayA pari^ Buja#} 
-<ls>VS. 16, 11.</ls> {#yasyAja^sra\M Sava^sA\ mAna^mu\kTaM pa^riBu\jadroda^sI vi\Svata^H sIm#} 
-<ls>ṚV. 1, 100, 14.</ls> {#pari yadi^ndra\ roda^sI u\Be abu^BojIrmahi\nA vi\Svata^H sIm#} 
-<ls n="ṚV. 1,">33, 9.</ls> {#taM zoqaSaBirBogEH paryaBujat#} 
-<ls>PAÑCAV. BR. 13, 5, 22.</ls> {#pariBugna#} 
-<ls>P. 8, 4, 31,</ls> 
-<ls>Sch.</ls> {%gebogen%} 
-<ls>BHAṬṬ. 10, 31.</ls>
-
-<div n="p">— {#pra#} {%beugen%}: {#dakziRaM jAnu praBujya juhoti#} 
-<ls>KAUŚ. 1.</ls> 
-<ls>KĀṬH.</ls> beim Schol. zu <ls>KĀTY. ŚR. 10, 7, 4.</ls> <ls>PAÑCAV. BR. 20, 2, 4.</ls> {#praBugna#} 
-<ls>P. 8, 4, 29,</ls> 
-<ls>Sch.</ls>
-
-<div n="p">— {#vi#}, partic. {#viBugna#} {%umgebogen%} 
+{#prAyo nirBujyate SArNgamAyasaM ca#} {%drückt sich bei Seite, entwischt%}
+<ls n="SUŚR.">1,99,2.</ls> {#nirBugne netre#} {%verdrehte Augen%}
+<ls n="SUŚR.">2,402,11. 17.</ls> {#SmaSAne — nirBugnasragviBUzite#} {%gebogen%}
+<ls>MBH. 13,6406.</ls>
+<div n="p">— {#vinis#} {%bei Seite biegen%}: {#vAmenAkzi vinirBujya hastena#}
+<ls>SUŚR. 2,353,12.</ls>
+<div n="p">— {#pari#} {%umspannen, umfangen%}: {#tayA\smAnvi\Svata\stvama^ya\kzmayA pari^ Buja#}
+<ls>VS. 16,11.</ls> {#yasyAja^sra\M Sava^sA\ mAna^mu\kTaM pa^riBu\jadroda^sI vi\Svata^H sIm#}
+<ls>ṚV. 1,100,14.</ls> {#pari yadi^ndra\ roda^sI u\Be abu^BojIrmahi\nA vi\Svata^H sIm#}
+<ls n="ṚV. 1,">33,9.</ls> {#taM zoqaSaBirBogEH paryaBujat#}
+<ls>PAÑCAV. BR. 13,5,22.</ls> {#pariBugna#}
+<ls>P. 8,4,31</ls>, <ls>Sch.</ls>
+{%gebogen%}
+<ls>BHAṬṬ. 10,31.</ls>
+<div n="p">— {#pra#} {%beugen%}: {#dakziRaM jAnu praBujya juhoti#}
+<ls>KAUŚ. 1.</ls>
+<ls>KĀṬH.</ls> beim Schol. zu <ls>KĀTY. ŚR. 10,7,4.</ls> <ls>PAÑCAV. BR. 20,2,4.</ls> {#praBugna#}
+<ls>P. 8,4,29</ls>, <ls>Sch.</ls>
+<div n="p">— {#vi#}, partic. {#viBugna#} {%umgebogen%}
 <ls>VYUTP. 101.</ls>
-
-<div n="p">— {#pravi#} {%umbiegen%}: {#SalyavAraNgam#} 
-<ls>SUŚR. 1, 101, 6.</ls>
-
-<div n="p">— {#sam#}, partic. {#saMBugna#} {%zusammengebogen%} 
-<ls>BHAṬṬ. 4, 42.</ls>
+<div n="p">— {#pravi#} {%umbiegen%}: {#SalyavAraNgam#}
+<ls>SUŚR. 1,101,6.</ls>
+<div n="p">— {#sam#}, partic. {#saMBugna#} {%zusammengebogen%}
+<ls>BHAṬṬ. 4,42.</ls>
 <LEND>

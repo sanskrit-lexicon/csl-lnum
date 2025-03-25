@@ -1,7 +1,7 @@
 <L>4603<pc>149<k1>contingent<k2>contingent
-<div n="lb"/>{@CONTINGENT@}¦ (adj.): <div n="1">(1) {#aniSicataH#} ({#tA, taM#})
-<div n="lb"/>(=uncertain); </div><div n="1">(2) {#sandigDaH#} ({#gDA, gDaM#})
-<div n="lb"/>(=doubtful), <div n="xe">{%c. on:%}</div> <div n="xs">{#AyattaH#}</div> ({#ttA, ttaM#}); <div n="xe">{%c. on%}
-<div n="lb"/>{%fate:%}</div> <div n="xs">{#dEvAyattaH#}</div> ({#ttA, ttaM#}), Ve.: v. To depend
-<div n="lb"/>(II.).</div>
+{@CONTINGENT@}¦ (adj.): <div n="1">(1) {#aniSicataH#} ({#tA, taM#})
+(=uncertain); </div><div n="1">(2) {#sandigDaH#} ({#gDA, gDaM#})
+(=doubtful), <div n="xe">{%c. on:%}</div> <div n="xs">{#AyattaH#}</div> ({#ttA, ttaM#}); <div n="xe">{%c. on%}
+{%fate:%}</div> <div n="xs">{#dEvAyattaH#}</div> ({#ttA, ttaM#}), Ve.: v. To depend
+(II.).</div>
 <LEND>

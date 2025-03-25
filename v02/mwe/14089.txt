@@ -1,11 +1,11 @@
 <L>14089<pc>340-a<k1>hell<k2>hell
-<div n="lb"/>HELL¦, {%s.%} {#narakaH, nArakaH, nirayaH, aDolokaH, aDogatiH#} {%f.,%} {#aDoBuvanaM,#}
-<div n="lb"/>{#pAtAlaM, balisadma#} {%n.%} {#(n), rasAtalaM, durgatiH#} {%f.,%} {#pramaTAlayaM, nAgalokaH#}.
-<div n="lb"/>The following are different hells, {#bAqavAgniH#} {%m.,%} {#saMhAtaH,#}
-<div n="lb"/>{#saMhAraH, DUmapraBA, paNkaDUmaH, paNkapraBA, tAmisraM, tamaHsTitaM, pratApanaH, tapanaH,#}
-<div n="lb"/>{#mahAtamapraBA, taptapAzARakuRqaM, lohaSaNkuH#} {%m.,%} {#sakAkOlaH, sampratApanaM,#}
-<div n="lb"/>{#mahArOravaH, rOravaH, pUyadaH, ayaHpAnaM, paryyAvarttanaM, prARaroDaH, taptaSUrmmiH#}
-<div n="lb"/>{%m. f.,%} {#dandaSUkaH, anDakUpaH, avIciH#} {%f.,%} {#avawaviroDanaH, kfmiBojanaM,#}
-<div n="lb"/>{#kAlasUtraM, kzArakardamaH, put#} {%n.;%} ‘pains of hell,’ {#yAtanA, kAraRA;#}
-<div n="lb"/>‘river of hell,’ {#vEtaraRI#}.
+HELL¦, {%s.%} {#narakaH, nArakaH, nirayaH, aDolokaH, aDogatiH#} {%f.,%} {#aDoBuvanaM,#}
+{#pAtAlaM, balisadma#} {%n.%} {#(n), rasAtalaM, durgatiH#} {%f.,%} {#pramaTAlayaM, nAgalokaH#}.
+The following are different hells, {#bAqavAgniH#} {%m.,%} {#saMhAtaH,#}
+{#saMhAraH, DUmapraBA, paNkaDUmaH, paNkapraBA, tAmisraM, tamaHsTitaM, pratApanaH, tapanaH,#}
+{#mahAtamapraBA, taptapAzARakuRqaM, lohaSaNkuH#} {%m.,%} {#sakAkOlaH, sampratApanaM,#}
+{#mahArOravaH, rOravaH, pUyadaH, ayaHpAnaM, paryyAvarttanaM, prARaroDaH, taptaSUrmmiH#}
+{%m. f.,%} {#dandaSUkaH, anDakUpaH, avIciH#} {%f.,%} {#avawaviroDanaH, kfmiBojanaM,#}
+{#kAlasUtraM, kzArakardamaH, put#} {%n.;%} ‘pains of hell,’ {#yAtanA, kAraRA;#}
+‘river of hell,’ {#vEtaraRI#}.
 <LEND>

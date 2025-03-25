@@ -1,5 +1,5 @@
-<L>138002<pc>697,3<k1>prasiD<k2>pra-siD<h>b<e>1
-<hom>b.</hom> <s>pra-</s>√ <hom>3.</hom> <s>siD</s> ¦ <ab>P.</ab> <s>-siDyati</s>, (rarely <ab>Ā.</ab> <s>te</s>), to be accomplished or effected, succeed, <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
+<L>138002<pc>697,3<k1>prasiD<k2>pra-siD<e>1
+ <s>pra-</s>√ <hom>3.</hom> <s>siD</s> ¦ <ab>P.</ab> <s>-siDyati</s>, (rarely <ab>Ā.</ab> <s>te</s>), to be accomplished or effected, succeed, <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to result from (<ab>abl.</ab>), <ls>Mn. xii, 97</ls>;
-<div n="to"/>to be explained or made clear, <ls>Kāś.</ls> on <ls>Pāṇ. 3-1, 122.</ls><info verb="pre" cp="PĀ" parse="pra+siD"/>
+<div n="to"/>to be explained or made clear, <ls>Kāś.</ls> on <ls>Pāṇ. iii, 1, 122.</ls><info verb="pre" cp="PĀ" parse="pra+siD"/><info hui="b"/>
 <LEND>

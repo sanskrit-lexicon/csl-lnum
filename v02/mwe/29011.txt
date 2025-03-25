@@ -1,15 +1,15 @@
 <L>29011<pc>793-a<k1>syllogism<k2>syllogism
-<div n="lb"/>SYLLOGISM¦, {%s.%} {#nyAyaH, avayavI#} {%m.%} {#(n), avayavaGawitavAkyaM, avayavayukta-#}
-<div n="lb"/>{#vAkyaM, avayavopetavAkyaM, AnupUrvvaM#}. A syllogism has five mem-
-<div n="lb"/>bers or {#avayavAH,#} according to the Nyāya system, viz.
-<div n="lb"/>1. The proposition or assertion to be proved, {#pratijYA;#} 2. the
-<div n="lb"/>reason given, {#hetuH;#} 3. the example or illustration, {#udAharaRaM;#}
-<div n="lb"/>4. the application, {#upanayaH;#} 5. the conclusion, {#nigamanaM#}. Thus,
-<div n="lb"/>1. ‘The hill is fiery,’ {#parvvato vahnimAn#}. 2. ‘Because it smokes,’
-<div n="lb"/>{#DUmavattvAt#}. 3. ‘Whatever smokes is fiery, like a culinary
-<div n="lb"/>hearth,’ {#yo yo DUmavAn sa vahnimAn yaTA mahAnasaH#}. 4. ‘This (hill)
-<div n="lb"/>has smoke which is always accompanied with fire,’ {#vahni-#}
-<div n="lb"/>{#vyApyaDUmavAn ayaM#}. 5. ‘Therefore it is fiery,’ {#tasmAd vahnimAn#}.
-<div n="lb"/>According to the Mīmānsā school, a syllogism has only
-<div n="lb"/>the last three members.
+SYLLOGISM¦, {%s.%} {#nyAyaH, avayavI#} {%m.%} {#(n), avayavaGawitavAkyaM, avayavayukta-#}
+{#vAkyaM, avayavopetavAkyaM, AnupUrvvaM#}. A syllogism has five mem-
+bers or {#avayavAH,#} according to the Nyāya system, viz.
+1. The proposition or assertion to be proved, {#pratijYA;#} 2. the
+reason given, {#hetuH;#} 3. the example or illustration, {#udAharaRaM;#}
+4. the application, {#upanayaH;#} 5. the conclusion, {#nigamanaM#}. Thus,
+1. ‘The hill is fiery,’ {#parvvato vahnimAn#}. 2. ‘Because it smokes,’
+{#DUmavattvAt#}. 3. ‘Whatever smokes is fiery, like a culinary
+hearth,’ {#yo yo DUmavAn sa vahnimAn yaTA mahAnasaH#}. 4. ‘This (hill)
+has smoke which is always accompanied with fire,’ {#vahni-#}
+{#vyApyaDUmavAn ayaM#}. 5. ‘Therefore it is fiery,’ {#tasmAd vahnimAn#}.
+According to the Mīmānsā school, a syllogism has only
+the last three members.
 <LEND>

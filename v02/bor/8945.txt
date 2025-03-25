@@ -1,4 +1,4 @@
 <L>8945<pc>283<k1>fleet<k2>fleet
-<div n="lb"/>{@FLEET@}¦ (subs.): <div n="I">I In gen.: {#potAvaliH#} (?). </div><div n="I">II
-<div n="lb"/>Military: {#raRapotAvaliH#} (?).</div>
+{@FLEET@}¦ (subs.): <div n="I">I In gen.: {#potAvaliH#} (?). </div><div n="I">II
+Military: {#raRapotAvaliH#} (?).</div>
 <LEND>

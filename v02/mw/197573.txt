@@ -1,10 +1,10 @@
-<L>197573<pc>973,2<k1>vipat<k2>vi-pat<h>a<e>1
-<s>vi-√ pat</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-patati</s>, to fly or dash or rush through, <ls>RV. i, 168, 6</ls>;
+<L>197573<pc>973,2<k1>vipat<k2>vi-pat<e>1
+<s>vi-√ pat</s> ¦ <ab>P.</ab> <s>-patati</s>, to fly or dash or rush through, <ls>RV. i, 168, 6</ls>;
 <div n="to"/>to fly apart, fall off, burst asunder, be divided or separated, <ls>ŚBr.</ls>; <ls>ChUp.</ls>;
 <div n="to"/>to fly along, <ls>RV. x, 96, 9</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-patayati</s>, to fly in various directions, <ls>RV. iii, 55, 3</ls>;
-<div n="to"/>to fall asunder, be opened, <ls>ib., vi, 9, 6</ls>;
+<div n="vp"/><ab>Caus.</ab> <s>-patayati</s>, to fly in various directions, <ls>RV. iii, 55, 3</ls>;
+<div n="to"/>to fall asunder, be opened, <ls>ib.</ls> <ls n="RV.">vi, 9, 6</ls>;
 <div n="to"/> <s>-pAtayati</s>, to cause to fly away, shoot off (arrows), <ls>AV.</ls>;
 <div n="to"/>to cause to fly asunder or off, split or strike off (a head), <ls>ib.</ls>;
-<div n="to"/>to strike down, kill, <ls>MBh.</ls><info verb="pre" cp="P" parse="vi+pat"/>
+<div n="to"/>to strike down, kill, <ls>MBh.</ls><info verb="pre" cp="P" parse="vi+pat"/><info hui="a"/>
 <LEND>

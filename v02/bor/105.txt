@@ -1,6 +1,6 @@
 <L>105<pc>005<k1>abundant<k2>abundant
-<div n="lb"/>{@ABUNDANT:@}¦ <div n="1">(1) {#pracuraH#} ({#rA, raM#}); </div><div n="1">(2) {#praBUtaH#}
-<div n="lb"/>({#tA, taM#}); </div><div n="1">(3) {#bahulaH#} ({#lA, laM#}); </div><div n="1">(4) {#BUyizWaH#} ({#zWA, #}
-<div n="lb"/>{# zWaM#}); </div><div n="1">(5) {#prAjyaH#} ({#jyA, jyaM#}); </div><div n="1">(6) {#BUri#} (mfn);</div>
-<div n="lb"/><div n="1">(7) {#adaBraH#} ({#BrA, BraM#}).</div>
+{@ABUNDANT:@}¦ <div n="1">(1) {#pracuraH#} ({#rA, raM#}); </div><div n="1">(2) {#praBUtaH#}
+({#tA, taM#}); </div><div n="1">(3) {#bahulaH#} ({#lA, laM#}); </div><div n="1">(4) {#BUyizWaH#} ({#zWA, #}
+{# zWaM#}); </div><div n="1">(5) {#prAjyaH#} ({#jyA, jyaM#}); </div><div n="1">(6) {#BUri#} (mfn);</div>
+<div n="1">(7) {#adaBraH#} ({#BrA, BraM#}).</div>
 <LEND>

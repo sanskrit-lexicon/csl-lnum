@@ -1,12 +1,12 @@
 <L>28346<pc>776-b<k1>stop<k2>stop
-<div n="lb"/>STOP¦, STOPPING, {%s.%} (Hinderance of progress, obstruction) {#roDaH,#}
-<div n="lb"/>{#avaroDaH, gatiroDaH, gatistamBaH -mBanaM, gatyavazwamBaH, gatyavaroDaH, gatiBaNgaH,#}
-<div n="lb"/>{#stamBaH -mBanaM, vizwamBaH, avazwamBanaM,#} {%see%} HINDERANCE. — (Closing,
-<div n="lb"/>shutting) {#pratibanDaH, roDaH, piDAnaM#}. — (Cessation of motion)
-<div n="lb"/>{#stamBaH, ayAnaM, gatistamBaH, yAnastamBaH, avasTitiH#} {%f.,%} {#sTitiH#} {%f.,%} {#yAna-#}
-<div n="lb"/>{#viratiH#} {%f.,%} {#gativirAmaH, yAnanivfttiH#} {%f.,%} {#viSrAmaH, yatiH#} {%f.%} — (Cessation)
-<div n="lb"/>{#nivfttiH#} {%f.,%} {#vinivfttiH#} {%f.,%} {#avasAnaM, avasAyaH, viratiH#} {%f.,%} {#virAmaH, upa-#}
-<div n="lb"/>{#rAmaH, avaratiH#} {%f.,%} {#AratiH#} {%f.,%} {#viyamaH, viyAmaH#}. — (Rest, in music,
-<div n="lb"/>&c.) {#yatiH#} {%f.,%} {#avasAnaM, virAmaH#}. — (In punctuation) {#viSrAmacihnaM,#}
-<div n="lb"/>{#virAmacihnaM, avasAnacihnaM#}.
+STOP¦, STOPPING, {%s.%} (Hinderance of progress, obstruction) {#roDaH,#}
+{#avaroDaH, gatiroDaH, gatistamBaH -mBanaM, gatyavazwamBaH, gatyavaroDaH, gatiBaNgaH,#}
+{#stamBaH -mBanaM, vizwamBaH, avazwamBanaM,#} {%see%} HINDERANCE. — (Closing,
+shutting) {#pratibanDaH, roDaH, piDAnaM#}. — (Cessation of motion)
+{#stamBaH, ayAnaM, gatistamBaH, yAnastamBaH, avasTitiH#} {%f.,%} {#sTitiH#} {%f.,%} {#yAna-#}
+{#viratiH#} {%f.,%} {#gativirAmaH, yAnanivfttiH#} {%f.,%} {#viSrAmaH, yatiH#} {%f.%} — (Cessation)
+{#nivfttiH#} {%f.,%} {#vinivfttiH#} {%f.,%} {#avasAnaM, avasAyaH, viratiH#} {%f.,%} {#virAmaH, upa-#}
+{#rAmaH, avaratiH#} {%f.,%} {#AratiH#} {%f.,%} {#viyamaH, viyAmaH#}. — (Rest, in music,
+&c.) {#yatiH#} {%f.,%} {#avasAnaM, virAmaH#}. — (In punctuation) {#viSrAmacihnaM,#}
+{#virAmacihnaM, avasAnacihnaM#}.
 <LEND>

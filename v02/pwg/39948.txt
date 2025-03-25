@@ -1,25 +1,25 @@
 <L>39948<pc>4-0233<k1>niScala<k2>niScala
-{#niScala#}¦ ({#nis + cala#}) 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%unbeweglich%} 
-<ls>YĀJÑ. 3, 199.</ls> 
-<ls>MBH. 1, 1583.</ls> 
-<ls>R. 1, 17, 32.</ls> 
-<ls>BHARTṚ. 2, 69.</ls> 
-<ls>VARĀH. BṚH. S. 94, 45.</ls> 
-<ls>KATHĀS. 8, 22.</ls> uneig. {%keiner Schwankung unterworfen, unveränderlich, unwandelbar%}: {#budDi#} 
-<ls>BHAG. 2, 53.</ls> 
-<ls>HARIV. 5883.</ls> {#manas#} 
-<ls>14692.</ls> {#cetas#} 
-<ls>RĀJA-TAR. 3, 277.</ls> {#mati#} 
-<ls>Spr. 217.</ls> {#prIti#} 
-<ls>R. 4, 7, 6.</ls> {#pratijYA#} 
-<ls>MBH. 7, 478.</ls> {#Bakti#} 
-<ls>BRAHMAVAIV. P.</ls> in <ls>Verz. d. Oxf. H. 20,b,6.</ls> {#niScaya#} 
-<ls>RĀJA-TAR. 3, 428.</ls> {#kUwa = niScala#} 
-<ls>AK. 3, 4, 9, 39.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#A#} 
-<div n="2"> a) {%die Erde%} 
-<ls>ŚKDR.</ls> <ls>WILS.</ls> 
-<div n="2">— b) {%Desmodium gangeticum Dec.%} ({#SAlaparRI#}) 
+{#niScala#}¦ ({#nis + cala#})
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#A#} {%unbeweglich%}
+<ls>YĀJÑ. 3,199.</ls>
+<ls>MBH. 1,1583.</ls>
+<ls>R. 1,17,32.</ls>
+<ls>BHARTṚ. 2,69.</ls>
+<ls>VARĀH. BṚH. S. 94,45.</ls>
+<ls>KATHĀS. 8,22.</ls> uneig. {%keiner Schwankung unterworfen, unveränderlich, unwandelbar%}: {#budDi#}
+<ls>BHAG. 2,53.</ls>
+<ls>HARIV. 5883.</ls> {#manas#}
+<ls n="HARIV.">14692.</ls> {#cetas#}
+<ls>RĀJA-TAR. 3,277.</ls> {#mati#}
+<ls>Spr. 217.</ls> {#prIti#}
+<ls>R. 4,7,6.</ls> {#pratijYA#}
+<ls>MBH. 7,478.</ls> {#Bakti#}
+<ls>BRAHMAVAIV. P.</ls> in <ls>Verz. d. Oxf. H. 20,b,6.</ls> {#niScaya#}
+<ls>RĀJA-TAR. 3,428.</ls> {#kUwa = niScala#}
+<ls>AK. 3,4,9,39.</ls>
+<div n="1">— 2) <lex>f.</lex> {#A#}
+<div n="2"> a) {%die Erde%}
+<ls>ŚKDR.</ls> <ls>WILS.</ls>
+<div n="2">— b) {%Desmodium gangeticum Dec.%} ({#SAlaparRI#})
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
 <LEND>

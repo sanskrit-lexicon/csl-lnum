@@ -1,5 +1,5 @@
 <L>12603<pc>303-b<k1>gender<k2>gender
-<div n="lb"/>GENDER¦, {%s.%} {#liNgaM, prakftiH#} {%f.;%} ‘masculine gender,’ {#yuMliNgaM, puruzaH;#}
-<div n="lb"/>‘feminine gender,’ {#strIliNgaM;#} ‘a noun of invariable gender,’
-<div n="lb"/>{#ajahalliNgaH#}
+GENDER¦, {%s.%} {#liNgaM, prakftiH#} {%f.;%} ‘masculine gender,’ {#yuMliNgaM, puruzaH;#}
+‘feminine gender,’ {#strIliNgaM;#} ‘a noun of invariable gender,’
+{#ajahalliNgaH#}
 <LEND>

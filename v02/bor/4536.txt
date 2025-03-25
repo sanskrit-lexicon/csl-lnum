@@ -1,9 +1,9 @@
 <L>4536<pc>147<k1>constitute<k2>constitute
-<div n="lb"/>{@CONSTITUTE:@}¦ <div n="I">I To enact, establish: q. v.</div>
-<div n="lb"/><div n="I">II To appoint, depute: q. v. </div><div n="I">III To
-<div n="lb"/>form, compose. Ph.: <div n="xe">{%after deciding what c. s%}
-<div n="lb"/>{%a poem:%}</div> <div n="xs">{#kAvyasvarUpaM nirUpya,#}</div> Kav.; <div n="xe">{%clearness of%}
-<div n="lb"/>{%meaning c. s perspicuity:%}</div> <div n="xs">{#arTavEmalyAtmA prasAdaH,#}</div>
-<div n="lb"/>Kav.; {%body or wealth does not c. manhood:%}
-<div n="lb"/>{#na vapurvasu vA puMstvamUlam,#} D.</div>
+{@CONSTITUTE:@}¦ <div n="I">I To enact, establish: q. v.</div>
+<div n="I">II To appoint, depute: q. v. </div><div n="I">III To
+form, compose. Ph.: <div n="xe">{%after deciding what c. s%}
+{%a poem:%}</div> <div n="xs">{#kAvyasvarUpaM nirUpya,#}</div> Kav.; <div n="xe">{%clearness of%}
+{%meaning c. s perspicuity:%}</div> <div n="xs">{#arTavEmalyAtmA prasAdaH,#}</div>
+Kav.; {%body or wealth does not c. manhood:%}
+{#na vapurvasu vA puMstvamUlam,#} D.</div>
 <LEND>

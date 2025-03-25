@@ -1,8 +1,8 @@
 <L>228013<pc>1125,3<k1>saMkuc<k2>saM-kuc<e>1
-<s>saM-√ kuc</s> ¦ (or <s>-kuYc</s>) <ab>P.</ab> <s>-kucati</s>, to contract, shrink, close (as a flower), <ls>Kāv.</ls>; <ls>Kathās.</ls>; <ls>Suśr.</ls>;
-<div n="to"/>to contract, compress, absorb, destroy, <ls>Nir.</ls> <ab>Sch.</ab>:
+<s>saM-√ kuc</s> (or <s>-kuYc</s>) ¦ <ab>P.</ab> <s>-kucati</s>, to contract, shrink, close (as a flower), <ls>Kāv.</ls>; <ls>Kathās.</ls>; <ls>Suśr.</ls>;
+<div n="to"/>to contract, compress, absorb, destroy, <ls>Nir.</ls>, <ab>Sch.</ab>:
 <div n="vp"/><ab>Pass.</ab> <s>-kucyate</s>, to shrink, be closed or contracted, <ls>Suśr.</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>-kocayati</s>, to contract, draw in <ls>MBh.</ls>; <ls>Suśr.</ls>;
 <div n="to"/>to narrow, make smaller, lessen, <ls>Bhartṛ.</ls>;
-<div n="to"/> (<ab>Ā.</ab>) to withdraw, withhold, <ls>Subh.</ls><info or="228013,saMkuc;228013.1,saMkuYc"/><info verb="pre" cp="PĀ" parse="sam+kuc"/>
+<div n="to"/> (<ab>Ā.</ab>) to withdraw, withhold, <ls>Subh.</ls><info verb="pre" cp="PĀ" parse="sam+"/>
 <LEND>

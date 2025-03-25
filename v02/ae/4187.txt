@@ -1,19 +1,19 @@
 <L>4187<pc>169<k1>fore<k2>fore
 {@Fore,@}¦ {%a.%} {#agra, pUrva, agragAmin;#} gen. ex. by
-<div n="lb"/>{#agra, pUrva#} in comp.; ‘f. -fathers’ {#pUrvajAH,#}
-<div n="lb"/>{#pitaraH, pUrve-pUrvAH, vfdDAH;#} ‘f. -finger’ {#prade-#}
-<div n="lb"/>{#-SinI, tarjanI;#} ‘f. -foot’ {#agrapAdaH;#} ‘f. -
-<div n="lb"/>-head’ {#lalAwaM, BAlaM, lalAwa-BAla-pawwaM, ali-#}
-<div n="lb"/>{#-(lI)kaM, goDiH;#} ‘f. -land’ {#aMtarIpaH-paM,#}
-<div n="lb"/>{#udagraBUH-BUmiH;#} ‘fore leg’ {%s.%} {#pUrva-agra-pAdaH;#}
-<div n="lb"/>‘f. -lock’ {#lalAwakeSaH-ruhaH;#} ‘f. -man’
-<div n="lb"/>{#aDyakzaH, aDizWAtf#} {%m.,%} {#aDISaH;#} ‘f. -men-
-<div n="lb"/>-tioned-named-said-spoken’ {#prAgukta,#}
-<div n="lb"/>{#pUrvokta, pUrvakaTita;#} ‘f. mast’ {#agrakUpakaH;#}
-<div n="lb"/>‘f. -most’ {#praDAna, utkfzwa, parama;#} ‘f. -noon’
-<div n="lb"/>{#pUrvAhRaH, -kAlaH;#} ‘f. -part’ {#agraBAgaH, pUrva-#}
-<div n="lb"/>{#-Adi-praTama-BAgaH;#} ‘f. -rank’ {#agra-praDAna-#}
-<div n="lb"/>{#-padaM;#} ‘f. -tooth’ {#agradaMtaH, rAjadaMtaH#} ‘f. -ward’
-<div n="lb"/>{#senAmuKaM, raRaSiras#} {%n.;%} ‘foreward’, {%s.%}
-<div n="lb"/>{%See%} {@Preface.@}
+{#agra, pUrva#} in comp.; ‘f. -fathers’ {#pUrvajAH,#}
+{#pitaraH, pUrve-pUrvAH, vfdDAH;#} ‘f. -finger’ {#prade-#}
+{#-SinI, tarjanI;#} ‘f. -foot’ {#agrapAdaH;#} ‘f. -
+-head’ {#lalAwaM, BAlaM, lalAwa-BAla-pawwaM, ali-#}
+{#-(lI)kaM, goDiH;#} ‘f. -land’ {#aMtarIpaH-paM,#}
+{#udagraBUH-BUmiH;#} ‘fore leg’ {%s.%} {#pUrva-agra-pAdaH;#}
+‘f. -lock’ {#lalAwakeSaH-ruhaH;#} ‘f. -man’
+{#aDyakzaH, aDizWAtf#} {%m.,%} {#aDISaH;#} ‘f. -men-
+-tioned-named-said-spoken’ {#prAgukta,#}
+{#pUrvokta, pUrvakaTita;#} ‘f. mast’ {#agrakUpakaH;#}
+‘f. -most’ {#praDAna, utkfzwa, parama;#} ‘f. -noon’
+{#pUrvAhRaH, -kAlaH;#} ‘f. -part’ {#agraBAgaH, pUrva-#}
+{#-Adi-praTama-BAgaH;#} ‘f. -rank’ {#agra-praDAna-#}
+{#-padaM;#} ‘f. -tooth’ {#agradaMtaH, rAjadaMtaH#} ‘f. -ward’
+{#senAmuKaM, raRaSiras#} {%n.;%} ‘foreward’, {%s.%}
+{%See%} {@Preface.@}
 <LEND>

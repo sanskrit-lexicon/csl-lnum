@@ -1,8 +1,8 @@
 <L>24369<pc>762<k1>win<k2>win
-<div n="lb"/>{@WIN:@}¦ <div n="I">I In a contest: {#jayati, vijayate#} ({#ji,#}
-<div n="lb"/>c. 1.), <div n="xe">{%I have won:%}</div> <div n="xs">{#jitam,#}</div> Mah. ii. 61. 27.;
-<div n="lb"/>{%I won%} ({%the case%}) <div n="xe">{%first:%}</div> <div n="xs">{#jita eva mayAyaM prAk,#}</div> Mit.</div>
-<div n="lb"/><div n="I">II To gain, get: q. v.: {#laBate#} ({#laB,#} (c. 1.),
-<div n="lb"/><div n="xe">{%what is won in a controversy:%}</div> <div n="xs">{#yadvAdAllabDaM, vivAde #}
-<div n="lb"/>{# yannistIrya labDam,#}</div> Da. 93.</div>
+{@WIN:@}¦ <div n="I">I In a contest: {#jayati, vijayate#} ({#ji,#}
+c. 1.), <div n="xe">{%I have won:%}</div> <div n="xs">{#jitam,#}</div> Mah. ii. 61. 27.;
+{%I won%} ({%the case%}) <div n="xe">{%first:%}</div> <div n="xs">{#jita eva mayAyaM prAk,#}</div> Mit.</div>
+<div n="I">II To gain, get: q. v.: {#laBate#} ({#laB,#} (c. 1.),
+<div n="xe">{%what is won in a controversy:%}</div> <div n="xs">{#yadvAdAllabDaM, vivAde #}
+{# yannistIrya labDam,#}</div> Da. 93.</div>
 <LEND>

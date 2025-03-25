@@ -1,14 +1,14 @@
 <L>31567<pc>845-a<k1>word<k2>word
-<div n="lb"/>WORD¦, {%s.%} (Single component part of a sentence) {#SabdaH, padaM,#}
-<div n="lb"/>{#vAcakaH, varRAtmA#} {%m.%} {#(n), vAkyaM;#} ‘word for word,’ {#yaTASabdaM;#}
-<div n="lb"/>‘force of a word,’ {#SabdaSaktiH#} {%f.,%} {#nirUQaH;#} ‘sense,’ {#SabdArTaH;#}
-<div n="lb"/>‘acceptation,’ {#SabdAnuSAsanaM;#} ‘low word,’ {#apaSabdaH, avAkzaraM;#}
-<div n="lb"/>‘radical form of a word,’ {#prakftiH#} {%f.%} — (Discourse, language)
-<div n="lb"/>{#uktiH#} {%f.,%} {#vAkyaM, vacanaM, vAk#} {%f.%} {#(c), vacas#} {%n.;%} ‘mere words,’
-<div n="lb"/>{#vANmAtraM;#} ‘bad words,’ {#duruktiH#} {%f.,%} {#durvAkyaM, durvacanaM;#} ‘waste of
-<div n="lb"/>words,’ {#vAgvyayaH;#} ‘war of words,’ {#vAgyudDaM;#} ‘a word in sea-
-<div n="lb"/>son,’ {#prAptakAlavacanaM;#} ‘a man of few words,’ {#alpaBAzI#} {%m.%} {#(n),#}
-<div n="lb"/>{#mitaBAzI#} {%m.,%} {#mitavAk#} {%m.,%} {#vAgdaridraH#}. — (Promise) {#vacanaM, pratijYA;#}
-<div n="lb"/>‘to break one's word,’ {#visaMvad,#} {%see%} PROMISE. — (Tidings)
-<div n="lb"/>{#samAcAraH, saMvAdaH, sandeSaH#}. — (In a word) {#samAsatas#}.
+WORD¦, {%s.%} (Single component part of a sentence) {#SabdaH, padaM,#}
+{#vAcakaH, varRAtmA#} {%m.%} {#(n), vAkyaM;#} ‘word for word,’ {#yaTASabdaM;#}
+‘force of a word,’ {#SabdaSaktiH#} {%f.,%} {#nirUQaH;#} ‘sense,’ {#SabdArTaH;#}
+‘acceptation,’ {#SabdAnuSAsanaM;#} ‘low word,’ {#apaSabdaH, avAkzaraM;#}
+‘radical form of a word,’ {#prakftiH#} {%f.%} — (Discourse, language)
+{#uktiH#} {%f.,%} {#vAkyaM, vacanaM, vAk#} {%f.%} {#(c), vacas#} {%n.;%} ‘mere words,’
+{#vANmAtraM;#} ‘bad words,’ {#duruktiH#} {%f.,%} {#durvAkyaM, durvacanaM;#} ‘waste of
+words,’ {#vAgvyayaH;#} ‘war of words,’ {#vAgyudDaM;#} ‘a word in sea-
+son,’ {#prAptakAlavacanaM;#} ‘a man of few words,’ {#alpaBAzI#} {%m.%} {#(n),#}
+{#mitaBAzI#} {%m.,%} {#mitavAk#} {%m.,%} {#vAgdaridraH#}. — (Promise) {#vacanaM, pratijYA;#}
+‘to break one's word,’ {#visaMvad,#} {%see%} PROMISE. — (Tidings)
+{#samAcAraH, saMvAdaH, sandeSaH#}. — (In a word) {#samAsatas#}.
 <LEND>

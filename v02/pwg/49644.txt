@@ -1,19 +1,19 @@
 <L>49644<pc>4-1059<k1>prayoktavya<k2>prayoktavya
-{#prayoktavya#}¦ (wie eben) <lex>adj.</lex> 
-<div n="1"> 1) {%abzuschiessen%}: {#astraM mAnuzezu#} 
-<ls>MBH. 1, 5307.</ls> 
-<div n="1">— 2) {%anzuwenden, anzubringen, zu gebrauchen%}: {#kaTamasya prayoktavyaH saMskAraH#} 
-<ls>MBH. 13, 2634.</ls> {#mahABeda#} 
-<ls>HARIV. 14486.</ls> 
-<ls>Spr. 1436. 3241.</ls> 
-<ls>R. 5, 81, 38.</ls> {#nApamAnaH °vyaH#} 
-<ls>1, 12, 14(13</ls> <ls>GORR.).</ls> {#yudDAramBa#} 
-<ls>HARIV. 4980</ls> <ls>?= 5459.</ls> {#vacas#} 
-<ls>Spr. 2702.</ls> {#budDi#} 
-<ls>PAÑCAT. 42, 13.</ls> 
-<div n="1">— 3) {%aufzuführen%}: {#nAwaka#} 
-<ls>MĀLAV. 3, 10.</ls> 
-<div n="1">— 4) {%vorzutragen%}: {#evaM varRAH prayoktavyAH#} 
-<ls>ŚIKṢĀ 21</ls> in <ls>Ind. St. 4, 269.</ls> {#yaTApaWita eva svaraH prayoktavyo na mAntraH#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 120. Schol. zu P. 4, 2, 66.</ls>
+{#prayoktavya#}¦ (wie eben) <lex>adj.</lex>
+<div n="1"> 1) {%abzuschiessen%}: {#astraM mAnuzezu#}
+<ls>MBH. 1,5307.</ls>
+<div n="1">— 2) {%anzuwenden, anzubringen, zu gebrauchen%}: {#kaTamasya prayoktavyaH saMskAraH#}
+<ls>MBH. 13,2634.</ls> {#mahABeda#}
+<ls>HARIV. 14486.</ls>
+<ls>Spr. 1436.</ls> <ls n="Spr.">3241.</ls>
+<ls>R. 5,81,38.</ls> {#nApamAnaH °vyaH#}
+<ls n="R.">1,12,14</ls> (<ls n="GORR. 1,12,">13</ls> <ls>GORR.</ls>). {#yudDAramBa#}
+<ls>HARIV. 4980</ls> = <ls n="HARIV.">5459.</ls> {#vacas#}
+<ls>Spr. 2702.</ls> {#budDi#}
+<ls>PAÑCAT. 42,13.</ls>
+<div n="1">— 3) {%aufzuführen%}: {#nAwaka#}
+<ls>MĀLAV. 3,10.</ls>
+<div n="1">— 4) {%vorzutragen%}: {#evaM varRAH prayoktavyAH#}
+<ls>ŚIKṢĀ 21</ls> in <ls>Ind. St. 4,269.</ls> {#yaTApaWita eva svaraH prayoktavyo na mAntraH#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 120.</ls> Schol. zu <ls>P. 4,2,66.</ls>
 <LEND>

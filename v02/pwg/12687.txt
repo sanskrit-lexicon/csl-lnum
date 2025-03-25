@@ -1,30 +1,30 @@
 <L>12687<pc>1-1016<k1>usra<k2>usra/<h>2
-2. {#usra/#}¦ (von {#vas, ucCati#}) 
-<div n="1"> 1) <lex>adj.</lex> {%morgendlich%}: die <is>Aśvin</is> 
-<ls>ṚV. 2, 39, 3.</ls> {#u\srA ja^rante\ prati\ vasto^ra\SvinA^#} 
-<ls n="ṚV.">4, 45, 5.</ls> <ls n="ṚV.">6, 62, 1.</ls> <ls n="ṚV.">7, 74, 1.</ls> {%hell, klar(?)%}: {#usrAM puzwAM mizatIM viSvaBojyAm#} u. s. w. {#gaNgAm#} 
-<ls>MBH. 13, 1853.</ls> 
-<div n="1">— 2) <lex>m.</lex> {%Strahl%} 
-<ls>Uṇ. 2, 13.</ls> 
-<ls>AK. 1, 1, 2, 34.</ls> 
-<ls>TRIK. 3, 3, 331.</ls> 
-<ls>H. 99.</ls> 
-<ls>an. 2, 397.</ls> 
-<ls>MED. r. 10.</ls> {#tataH pratasTe kOverIM BAsvAniva raGurdiSam . SarErusrErivodIcyAvudDarizyanrasAniva ..#} 
-<ls>RAGH. 4, 66.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#usrA/#} {%Morgenlicht, Morgen; Helle, heller Himmel%} 
-<ls>NAIGH. 1, 5.</ls> {#viSvA\ idu\srA spaLude^ti\ sUrya^H#} 
-<ls>ṚV. 10, 35, 8.</ls> {#bfha\spati\stama^si\ jyoti^ri\cCannudu\srA Aka^H#} 
-<ls n="ṚV. 10,">67, 4.</ls> {#yo ha sya vA^M raTirA\ vasta^ u\srA raTo^ yujA\naH#} 
-<ls n="ṚV.">7, 69, 5.</ls> <ls n="ṚV.">4, 25, 2.</ls> <ls n="ṚV.">6, 3, 6.</ls> <ls n="ṚV.">8, 46, 26.</ls> {#kzapa^ u\srA va^rivasyantu de\vAH#} 
-<ls n="ṚV.">6, 52, 15.</ls> {#i\yaM na^ u\srA pra^Ta\mA#} ({#vyucCatu#}) 
-<ls n="ṚV.">10, 34, 5.</ls> {#aha\H sva^rvividuH ke\tumu\srAH#} 
-<ls n="ṚV.">1, 71, 2.</ls> {#yena\ mAnA^saSci\taya^nta u\srA vyu^zwizu\ Sava^sA\ SaSva^tInAm#} 
-<ls n="ṚV. 1,">171, 5.</ls> {#u\srA i^va\ sUryo\ jyoti^zA ma\ho viSve^zA\mijja^ni\tA brahma^RAmasi#} 
-<ls n="ṚV.">2, 23, 2.</ls> <ls n="ṚV.">8, 41, 5.</ls> {#u\srA A^jannu\zaso^ huvA\nAH#} 
-<ls n="ṚV.">4, 1, 13.</ls> <ls n="ṚV.">6, 39, 2.</ls> <ls n="ṚV.">10, 138, 2.</ls> In mehreren von diesen Stellen ist auch die Bed. {%Kuh%} zulässig, nach dem im <is>Veda</is> gangbaren Bilde. Für gen. abl. sg. und acc. pl. findet man auch die Form {#usra/s: u\sro agre^#} 
-<ls>ṚV. 3, 58, 4.</ls> {#kzapa^ u\sraSca^ dIdihi#} 
-<ls n="ṚV.">7, 15, 8.</ls> {#sa kzapa\H pari^ zasvaje\ nya1^\sro mA\yayA^ DaDe#} 
-<ls n="ṚV.">8, 41, 3.</ls> {#vasta^ u\sraH#} 
-<ls n="ṚV.">5, 49, 3.</ls>
+2. {#usra/#}¦ (von {#vas, ucCati#})
+<div n="1"> 1) <lex>adj.</lex> {%morgendlich%}: die <is>Aśvin</is>
+<ls>ṚV. 2,39,3.</ls> {#u\srA ja^rante\ prati\ vasto^ra\SvinA^#}
+<ls n="ṚV.">4,45,5.</ls> <ls n="ṚV.">6,62,1.</ls> <ls n="ṚV.">7,74,1.</ls> {%hell, klar(?)%}: {#usrAM puzwAM mizatIM viSvaBojyAm#} u. s. w. {#gaNgAm#}
+<ls>MBH. 13,1853.</ls>
+<div n="1">— 2) <lex>m.</lex> {%Strahl%}
+<ls>Uṇ. 2,13.</ls>
+<ls>AK. 1,1,2,34.</ls>
+<ls>TRIK. 3,3,331.</ls>
+<ls>H. 99.</ls>
+<ls>an. 2,397.</ls>
+<ls>MED. r. 10.</ls> {#tataH pratasTe kOverIM BAsvAniva raGurdiSam . SarErusrErivodIcyAvudDarizyanrasAniva ..#}
+<ls>RAGH. 4,66.</ls>
+<div n="1">— 3) <lex>f.</lex> {#usrA/#} {%Morgenlicht, Morgen; Helle, heller Himmel%}
+<ls>NAIGH. 1,5.</ls> {#viSvA\ idu\srA spaLude^ti\ sUrya^H#}
+<ls>ṚV. 10,35,8.</ls> {#bfha\spati\stama^si\ jyoti^ri\cCannudu\srA Aka^H#}
+<ls n="ṚV. 10,">67,4.</ls> {#yo ha sya vA^M raTirA\ vasta^ u\srA raTo^ yujA\naH#}
+<ls n="ṚV.">7,69,5.</ls> <ls n="ṚV.">4,25,2.</ls> <ls n="ṚV.">6,3,6.</ls> <ls n="ṚV.">8,46,26.</ls> {#kzapa^ u\srA va^rivasyantu de\vAH#}
+<ls n="ṚV.">6,52,15.</ls> {#i\yaM na^ u\srA pra^Ta\mA#} ({#vyucCatu#})
+<ls n="ṚV.">10,34,5.</ls> {#aha\H sva^rvividuH ke\tumu\srAH#}
+<ls n="ṚV.">1,71,2.</ls> {#yena\ mAnA^saSci\taya^nta u\srA vyu^zwizu\ Sava^sA\ SaSva^tInAm#}
+<ls n="ṚV. 1,">171,5.</ls> {#u\srA i^va\ sUryo\ jyoti^zA ma\ho viSve^zA\mijja^ni\tA brahma^RAmasi#}
+<ls n="ṚV.">2,23,2.</ls> <ls n="ṚV.">8,41,5.</ls> {#u\srA A^jannu\zaso^ huvA\nAH#}
+<ls n="ṚV.">4,1,13.</ls> <ls n="ṚV.">6,39,2.</ls> <ls n="ṚV.">10,138,2.</ls> In mehreren von diesen Stellen ist auch die Bed. {%Kuh%} zulässig, nach dem im <is>Veda</is> gangbaren Bilde. Für gen. abl. sg. und acc. pl. findet man auch die Form {#usra/s: u\sro agre^#}
+<ls>ṚV. 3,58,4.</ls> {#kzapa^ u\sraSca^ dIdihi#}
+<ls n="ṚV.">7,15,8.</ls> {#sa kzapa\H pari^ zasvaje\ nya1^\sro mA\yayA^ DaDe#}
+<ls n="ṚV.">8,41,3.</ls> {#vasta^ u\sraH#}
+<ls n="ṚV.">5,49,3.</ls>
 <LEND>

@@ -1,6 +1,6 @@
 <L>114<pc>005<k1>academy<k2>academy
-<div n="lb"/>{@ACADEMY@}¦ <div n="I">I A school: q. v. {#vidyAlayaH.#}</div>
-<div n="lb"/><div n="I">II A society of learned men: </div><div n="1">(1) {#vidvatsaBA#}
-<div n="lb"/>(?); </div><div n="1">(2) {#paRqitasaBA#} (?). <div n="xe">{%The royal a.%}</div> <div n="xs">{#*laRqana-#}
-<div n="lb"/>{#nagarasya citrakarasaBAH.#}</div></div>
+{@ACADEMY@}¦ <div n="I">I A school: q. v. {#vidyAlayaH.#}</div>
+<div n="I">II A society of learned men: </div><div n="1">(1) {#vidvatsaBA#}
+(?); </div><div n="1">(2) {#paRqitasaBA#} (?). <div n="xe">{%The royal a.%}</div> <div n="xs">{#*laRqana-#}
+{#nagarasya citrakarasaBAH.#}</div></div>
 <LEND>

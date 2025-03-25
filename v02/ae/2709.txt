@@ -1,7 +1,7 @@
 <L>2709<pc>099<k1>democracy<k2>democracy
 {@Democracy,@}¦ {%s.%} {#prajApraButvaM, prajAsattAtmakaM#}
-<div n="lb"/>{#rAjyaM, prajAtaMtraM#}. {@-Democrat,@} {%s.%} {#prajAtaMtravA-#}
-<div n="lb"/>{#-din#} {%m.,%} {#prajApakzAnukUlaH, prajApraButvAnugrAhakaH,#}
-<div n="lb"/>{#prajApakzAvalaMbin#} {%m.%} {@-tical,@} {%a.%} {#sArvalOkika#}
-<div n="lb"/>({#kI#} {%f.%}), {#prajAtaMtrIya#}.
+{#rAjyaM, prajAtaMtraM#}. {@-Democrat,@} {%s.%} {#prajAtaMtravA-#}
+{#-din#} {%m.,%} {#prajApakzAnukUlaH, prajApraButvAnugrAhakaH,#}
+{#prajApakzAvalaMbin#} {%m.%} {@-tical,@} {%a.%} {#sArvalOkika#}
+({#kI#} {%f.%}), {#prajAtaMtrIya#}.
 <LEND>

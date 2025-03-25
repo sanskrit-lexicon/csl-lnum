@@ -1,4 +1,4 @@
 <L>2052<pc>071<k1>billow<k2>billow
-<div n="lb"/>{@BILLOW:@}¦ <div n="1">(1) {#mahormiH;#} </div><div n="1">(2) {#kallolaH;#} </div><div n="1">(3) {#ullolaH;#}</div>
-<div n="lb"/><div n="1">(4) {#lahariH:#} v. Wave.</div>
+{@BILLOW:@}¦ <div n="1">(1) {#mahormiH;#} </div><div n="1">(2) {#kallolaH;#} </div><div n="1">(3) {#ullolaH;#}</div>
+<div n="1">(4) {#lahariH:#} v. Wave.</div>
 <LEND>

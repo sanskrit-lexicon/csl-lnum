@@ -1,3 +1,3 @@
 <L>253202<pc>1251,2<k1>somin<k2>somi/n<e>2
-<s>somi/n</s> ¦ <lex>mfn.</lex> having or possessing <s1 slp1="soma">Soma</s1>, offering <ab n="Soma" slp1="soma">S°</ab>, performer of a <ab n="Soma" slp1="soma">S°</ab> sacrifice, <ls>RV.</ls><info lex="m:f:n"/>
+<s>somi/n</s> ¦ <lex>mfn.</lex> having or possessing <s1>Soma</s1>, offering <s1 n="Soma">S°</s1>, performer of a <s1 n="Soma">S°</s1> sacrifice, <ls>RV.</ls><info lex="m:f:n"/>
 <LEND>

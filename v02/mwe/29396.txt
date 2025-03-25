@@ -1,6 +1,6 @@
 <L>29396<pc>800-b<k1>thief<k2>thief
-<div n="lb"/>THIEF¦, {%s.%} {#stenaH, cOraH, steyI#} {%m.%} {#(n), coraH, taskaraH, steyakft#} {%m.,%}
-<div n="lb"/>{#mozakaH, AmozI#} {%m.%} {#(n), mozwA#} {%m.%} {#(zwf), parasvApahArI#} {%m.,%} {#adattA-#}
-<div n="lb"/>{#dAyI#} {%m.,%} {#paradravyahArakaH, cOryyakft#} {%m.,%} {#EkAgArikaH, malimlucaH#}. {%See%}
-<div n="lb"/>ROBBER, STEALER.
+THIEF¦, {%s.%} {#stenaH, cOraH, steyI#} {%m.%} {#(n), coraH, taskaraH, steyakft#} {%m.,%}
+{#mozakaH, AmozI#} {%m.%} {#(n), mozwA#} {%m.%} {#(zwf), parasvApahArI#} {%m.,%} {#adattA-#}
+{#dAyI#} {%m.,%} {#paradravyahArakaH, cOryyakft#} {%m.,%} {#EkAgArikaH, malimlucaH#}. {%See%}
+ROBBER, STEALER.
 <LEND>

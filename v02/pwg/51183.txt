@@ -1,25 +1,25 @@
 <L>51183<pc>4-1175<k1>prepsu<k2>prepsu
-{#prepsu#}¦ (wie eben) <lex>adj.</lex> 
-<div n="1"> 1) {%zu erlangen wünschend, verlangend nach, suchend%}; mit dem acc.: {#arTAMScAkarmaRA#} 
-<ls>Spr. 3636.</ls> {#kaviyaSaH#} 
-<ls>RAGH. ed. Calc. 1, 3.</ls> {#kim#} 
-<ls>MBH. 3, 13328.</ls> {#svarAzwram#} 
-<ls>4, 142.</ls> {#sObalasya vaDam#} 
-<ls>2, 2551.</ls> {#anyo 'nyasyAntaraM prepsU#} 
-<ls>4, 350.</ls> am Ende eines comp.: {#Pala°#} 
-<ls>R. GORR. 2, 65, 7.</ls> {#aPala°#} 
-<ls>BHAG. 18, 23.</ls> {#prARa°#} 
-<ls>DRAUP. 8, 33.</ls> {#udaya°#} 
-<ls>MBH. 1, 308.</ls> {#jaya°#} 
-<ls>M. 7, 197.</ls> {#sarvasya hita°#} 
-<ls>5, 46.</ls> {#antara°#} 
-<ls>N. 7, 2.</ls> 
-<ls>R. 4, 5, 3.</ls> 
-<ls>MBH. 3, 11807.</ls> {#gaja°#} 
-<ls>DAŚ. 1, 22.</ls> {#BIzma°#} {%suchend, es auf ihn abgesehen habend%} 
-<ls>MBH. 6, 5111. 14, 1788.</ls> {#tatprepsu#} <lex>m.</lex> Bez. {%einer best. Desiderativform%} 
-<ls>AV. PRĀT. 4, 29</ls> <ls>?(vgl. WHITNEY zu der St.).</ls> {#raTaryatIti sidDastatprepsuH#} 
-<ls>NIR. 6, 28.</ls> 
-<div n="1">— 2) {%voraussetzend, annehmend%}: {#ayamevAsti loko nApara iti prepsuH#} 
-<ls>NIR. 6, 32.</ls>
+{#prepsu#}¦ (wie eben) <lex>adj.</lex>
+<div n="1"> 1) {%zu erlangen wünschend, verlangend nach, suchend%}; mit dem acc.: {#arTAMScAkarmaRA#}
+<ls>Spr. 3636.</ls> {#kaviyaSaH#}
+<ls>RAGH. ed. Calc. 1,3.</ls> {#kim#}
+<ls>MBH. 3,13328.</ls> {#svarAzwram#}
+<ls n="MBH.">4,142.</ls> {#sObalasya vaDam#}
+<ls n="MBH.">2,2551.</ls> {#anyo 'nyasyAntaraM prepsU#}
+<ls n="MBH.">4,350.</ls> am Ende eines comp.: {#Pala°#}
+<ls>R. GORR. 2,65,7.</ls> {#aPala°#}
+<ls>BHAG. 18,23.</ls> {#prARa°#}
+<ls>DRAUP. 8,33.</ls> {#udaya°#}
+<ls>MBH. 1,308.</ls> {#jaya°#}
+<ls>M. 7,197.</ls> {#sarvasya hita°#}
+<ls n="M.">5,46.</ls> {#antara°#}
+<ls>N. 7,2.</ls>
+<ls>R. 4,5,3.</ls>
+<ls>MBH. 3,11807.</ls> {#gaja°#}
+<ls>DAŚ. 1,22.</ls> {#BIzma°#} {%suchend, es auf ihn abgesehen habend%}
+<ls>MBH. 6,5111.</ls> <ls n="MBH.">14,1788.</ls> {#tatprepsu#} <lex>m.</lex> Bez. {%einer best. Desiderativform%}
+<ls>AV. PRĀT. 4,29</ls> (vgl. <ls>WHITNEY</ls> zu der St.). {#raTaryatIti sidDastatprepsuH#}
+<ls>NIR. 6,28.</ls>
+<div n="1">— 2) {%voraussetzend, annehmend%}: {#ayamevAsti loko nApara iti prepsuH#}
+<ls>NIR. 6,32.</ls>
 <LEND>

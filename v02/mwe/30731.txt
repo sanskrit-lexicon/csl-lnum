@@ -1,6 +1,6 @@
 <L>30731<pc>826-a<k1>value<k2>value
-<div n="lb"/>VALUE¦, {%s.%} (Price) {#mUlyaM, arGaH,#} {%see%} PRICE. — (Degree of price)
-<div n="lb"/>{#mUlyapramARaM, arGapramARaM, mUlyaparimARaM, arGamitiH#} {%f.,%} {#mitiH#} {%f., see%} RATE.
-<div n="lb"/> — (High rate or estimation) {#mahAmUlyaM, bahumUlyaM, mahArGaH, bahu-#}
-<div n="lb"/>{#mAnaM, bahumatiH#} {%f.%} — (Real worth) {#sAratA#}.
+VALUE¦, {%s.%} (Price) {#mUlyaM, arGaH,#} {%see%} PRICE. — (Degree of price)
+{#mUlyapramARaM, arGapramARaM, mUlyaparimARaM, arGamitiH#} {%f.,%} {#mitiH#} {%f., see%} RATE.
+ — (High rate or estimation) {#mahAmUlyaM, bahumUlyaM, mahArGaH, bahu-#}
+{#mAnaM, bahumatiH#} {%f.%} — (Real worth) {#sAratA#}.
 <LEND>

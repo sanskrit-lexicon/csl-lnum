@@ -1,22 +1,21 @@
 <L>114424<pc>7-1368<k1>spfhaRIya<k2>spfhaRIya
-{#spfhaRIya#}¦ (wie eben) <lex>adj.</lex> 
-<div n="1"> 1) {%begehrenswerth, woran Jmd%} (gen.) oder {%man Gefallen findet, reizend%}; = {#spArha#} 
-<ls>NIR. 3, 11.</ls> {#rUpa#} 
-<ls>MBH. 1, 3573.</ls> {#karman#} 
-<ls>HARIV. 4126.</ls> {#candramas#} 
-<ls>ṚT. 1, 1.</ls> {#vIrya#} 
-<ls>KUMĀRAS. 3, 20.</ls> 
-<ls>Spr. (II) 4299.</ls> {#janasya#} 
-<ls>RĀJA-TAR. 3, 28. 4, 700.</ls> {#satspfhaRIyaSIla#} 
-<ls>BHĀG. P. 3, 1, 14. 15, 39. 25, 25.</ls> {#vAc#} 
-<ls>35.</ls> {%an dem Jmd%} (gen. instr.) oder {%man seine Freude hat, zu dem man sich hingezogen fühlt%} 
-<ls>HARIV. 4383.</ls> 
-<ls>RAGH.7,14.</ls> 
-<ls>Spr. (II) 2153. 7250.</ls> <ls>Verz. d. Oxf. H. 61,b,5 v. u.</ls> <ls>KATHĀS. 56,252.</ls> 
-<div n="1">— 2) {%beneidenswerth, der beneidet wird von%} (gen.) 
-<ls>HARIV. 7105.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 29, 17.</ls> 
-<ls>KATHĀS. 52, 267.</ls> 
-<ls>PAÑCAT. 137, 16.</ls>
+{#spfhaRIya#}¦ (wie eben) <lex>adj.</lex>
+<div n="1"> 1) {%begehrenswerth, woran Jmd%} (gen.) oder {%man Gefallen findet, reizend%}; = {#spArha#}
+<ls>NIR. 3,11.</ls> {#rUpa#}
+<ls>MBH. 1,3573.</ls> {#karman#}
+<ls>HARIV. 4126.</ls> {#candramas#}
+<ls>ṚT. 1,1.</ls> {#vIrya#}
+<ls>KUMĀRAS. 3,20.</ls>
+<ls>Spr. (II) 4299.</ls> {#janasya#}
+<ls>RĀJA-TAR. 3,28. 4,700.</ls> {#satspfhaRIyaSIla#}
+<ls>BHĀG. P. 3,1,14.</ls> <ls n="BHĀG. P. 3,">15,39.</ls> <ls n="BHĀG. P. 3,">25,25.</ls> {#vAc#}
+<ls n="BHĀG. P. 3,25,">35.</ls> {%an dem Jmd%} (gen. instr.) oder {%man seine Freude hat, zu dem man sich hingezogen fühlt%}
+<ls>HARIV. 4383.</ls>
+<ls>RAGH. 7,14.</ls>
+<ls>Spr. (II) 2153.</ls> <ls n="Spr. (II)">7250.</ls> <ls>Verz. d. Oxf. H. 61,b,5</ls> v. u. <ls>KATHĀS. 56,252.</ls>
+<div n="1">— 2) {%beneidenswerth, der beneidet wird von%} (gen.)
+<ls>HARIV. 7105.</ls>
+<ls>R. GORR. 2,29,17.</ls>
+<ls>KATHĀS. 52,267.</ls>
+<ls>PAÑCAT. 137,16.</ls>
 <LEND>

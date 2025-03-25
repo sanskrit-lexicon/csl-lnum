@@ -1,3 +1,3 @@
-<L>160663<pc>800,1<k1>mahArbuda<k2>mahA/rbuda<e>3
-<s>mahA/<srs/>°rbuda</s> ¦ (<s>°hA<srs/>r°</s>) <lex>n.</lex> 10 <s1 slp1="arbuda">Arbuda</s1>s = 1000 millions, <ls>Jyot.</ls><info lexcat="LEXID=card,STEM=mahArbuda"/>
+<L>160663<pc>800,1<k1>mahArbuda<k2>mahArbuda<e>3
+<s>mahA<srs/>°rbuda</s> ¦ (<s>°hA<srs/>r°</s>), <lex>n.</lex> 10 <s1>Arbuda</s1>s = 1000 millions, <ls>Jyot.</ls><info lexcat="LEXID=card,STEM=mahArbuda"/>
 <LEND>

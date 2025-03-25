@@ -1,3 +1,3 @@
-<L>192489.1<pc>948,2<k1>vAsikA<k2>vAsikA<h>b<e>1B
-<s>vAsikA</s> <hom>b</hom> ¦ <lex>f.</lex> See (<s>ikA</s>) under 1. <s>vAsaka</s>, <pcol>p. 947, col. 2</pcol>.<info lex="f"/>
+<L>192489.1<pc>948,2<k1>vAsikA<k2>vAsikA<e>1B
+<s>vAsikA</s> ¦ <lex>f.</lex> See (<s>ikA</s>) under <hom>1.</hom> <s>vAsaka</s>, <pcol>p. 947, col. 2</pcol>.<info lex="f"/><info hui="b"/>
 <LEND>

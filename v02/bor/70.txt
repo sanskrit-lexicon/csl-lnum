@@ -1,5 +1,5 @@
 <L>70<pc>003<k1>abroad<k2>abroad
-<div n="lb"/>{@ABROAD, LIVE:@}¦ <div n="1">(1) {#pravasati#} ({#vas,#} c. 1.);</div>
-<div n="lb"/><div n="1">(2) {#videSe vasati#} etc. <div n="xe">{%One who is, or, is living%}
-<div n="lb"/>{%a.%}</div> <div n="xs">{#prozitaH#}</div> ({#tA, taM#}).</div>
+{@ABROAD, LIVE:@}¦ <div n="1">(1) {#pravasati#} ({#vas,#} c. 1.);</div>
+<div n="1">(2) {#videSe vasati#} etc. <div n="xe">{%One who is, or, is living%}
+{%a.%}</div> <div n="xs">{#prozitaH#}</div> ({#tA, taM#}).</div>
 <LEND>

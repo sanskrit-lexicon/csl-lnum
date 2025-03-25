@@ -1,20 +1,20 @@
 <L>17144<pc>524<k1>place<k2>place
-<div n="lb"/>{@PLACE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#sTAnam#} (best
-<div n="lb"/>equiv.), <div n="xe">{%should not leave one's p.:%}</div> <div n="xs">{#svasTAnaM na#}</div>
-<div n="lb"/>{#parityajet,#} H.; </div><div n="1">(2) {#BUmiH#} <div n="xe">{%or%}</div> <div n="xs">{#BUH,#}</div> {%make p. s on%} ({%the%}
-<div n="lb"/>{%roof%}) <div n="xe">{%of the palace:%}</div> <div n="xs">{#kriyantAM prAsAdasyopari BUmayaH,#}</div>
-<div n="lb"/>Mu. iii; </div><div n="1">(3) {#sTalam,#} Ph.: {%in this p., in that p.:%}
-<div n="lb"/>{#atra, tatraH#} v. Here, there, etc.; <div n="xe">{%nor falsehood%}
-<div n="lb"/>{%has any p. in you:%}</div> <div n="xs">{#nAnftaM tvayi tizWati,#}</div> Mah. </div><div n="I">II
-<div n="lb"/>Room: q. v.: {#sTAnam.#} </div><div n="I">III Rank: </div><div n="1">(1) {#sTAnam:#}</div>
-<div n="lb"/><div n="1">(2) {#BUmiH,#} <div n="xe">{%want my p.:%}</div> <div n="xs">{#madIyAM BUmiM kAmayante,#}</div> Mu.</div>
-<div n="lb"/><div n="I">IV With the idea of substitution: </div><div n="1">(1) {#sTAnam;#}
-<div n="lb"/><div n="xe">{%some read Lāsikā in the p. of Vilāsikā:%}</div> <div n="xs">{#kecidvi-#}
-<div n="lb"/>{#lAsikAsTAne lAsiketi paWanti,#}</div> Sah.; </div><div n="1">(2) {#BUmiH,#}
-<div n="lb"/><div n="xe">{%here I am in the p. of your comrades:%}</div> <div n="xs">{#ayaM janaH te #}
-<div n="lb"/>{# saKIBUmO vartate,#}</div> Sah. iii. V. Denoting succes-
-<div n="lb"/>-sion: by adv., <div n="xe">{%in the first p.:%}</div> <div n="xs">{#praTamam;#}</div> <div n="xe">{%in the%}
-<div n="lb"/>{%next p.:%}</div> <div n="xs">{#aparam#}</div> (= again). Ph.: {%to take p.:%}
-<div n="lb"/>v. To happen; {%out of p.%} expr. by {#asTAnam,#}
-<div n="lb"/>Ki. xi. 68. <div n="xe">{%or%}</div> <div n="xs">{#asAmpratam,#}</div> Si. ii. 70.</div>
+{@PLACE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#sTAnam#} (best
+equiv.), <div n="xe">{%should not leave one's p.:%}</div> <div n="xs">{#svasTAnaM na#}</div>
+{#parityajet,#} H.; </div><div n="1">(2) {#BUmiH#} <div n="xe">{%or%}</div> <div n="xs">{#BUH,#}</div> {%make p. s on%} ({%the%}
+{%roof%}) <div n="xe">{%of the palace:%}</div> <div n="xs">{#kriyantAM prAsAdasyopari BUmayaH,#}</div>
+Mu. iii; </div><div n="1">(3) {#sTalam,#} Ph.: {%in this p., in that p.:%}
+{#atra, tatraH#} v. Here, there, etc.; <div n="xe">{%nor falsehood%}
+{%has any p. in you:%}</div> <div n="xs">{#nAnftaM tvayi tizWati,#}</div> Mah. </div><div n="I">II
+Room: q. v.: {#sTAnam.#} </div><div n="I">III Rank: </div><div n="1">(1) {#sTAnam:#}</div>
+<div n="1">(2) {#BUmiH,#} <div n="xe">{%want my p.:%}</div> <div n="xs">{#madIyAM BUmiM kAmayante,#}</div> Mu.</div>
+<div n="I">IV With the idea of substitution: </div><div n="1">(1) {#sTAnam;#}
+<div n="xe">{%some read Lāsikā in the p. of Vilāsikā:%}</div> <div n="xs">{#kecidvi-#}
+{#lAsikAsTAne lAsiketi paWanti,#}</div> Sah.; </div><div n="1">(2) {#BUmiH,#}
+<div n="xe">{%here I am in the p. of your comrades:%}</div> <div n="xs">{#ayaM janaH te #}
+{# saKIBUmO vartate,#}</div> Sah. iii. V. Denoting succes-
+-sion: by adv., <div n="xe">{%in the first p.:%}</div> <div n="xs">{#praTamam;#}</div> <div n="xe">{%in the%}
+{%next p.:%}</div> <div n="xs">{#aparam#}</div> (= again). Ph.: {%to take p.:%}
+v. To happen; {%out of p.%} expr. by {#asTAnam,#}
+Ki. xi. 68. <div n="xe">{%or%}</div> <div n="xs">{#asAmpratam,#}</div> Si. ii. 70.</div>
 <LEND>

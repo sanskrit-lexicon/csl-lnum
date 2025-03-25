@@ -1,9 +1,9 @@
 <L>5043<pc>162<k1>credit<k2>credit
-<div n="lb"/>{@CREDIT@}¦ (subs.): <div n="I">I Belief: q. v.: {#viSvAsaH.#} </div><div n="I">II
-<div n="lb"/>Esteem, reputation: q. v.: {#pratizWA.#} Ph.:
-<div n="lb"/><div n="xe">{%it reflects c. on you:%}</div> <div n="xs">{#etatte dAkzyaM darSayati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#tvAM #}
-<div n="lb"/>{# pratizWApayati#}</div> (?). </div><div n="I">III Authority: {#prAmARyam.#} </div><div n="I">IV
-<div n="lb"/>In a commercial sense: {#*viSvAsaH,#} <div n="xe">{%to sell on%}
-<div n="lb"/>{%c.:%}</div> <div n="xs">{#*viSvAsena vikrIRIte.#}</div> Ph.: {%c. side%} (of an
-<div n="lb"/>account) {#*prAptaDanaBAgaH.#}</div>
+{@CREDIT@}¦ (subs.): <div n="I">I Belief: q. v.: {#viSvAsaH.#} </div><div n="I">II
+Esteem, reputation: q. v.: {#pratizWA.#} Ph.:
+<div n="xe">{%it reflects c. on you:%}</div> <div n="xs">{#etatte dAkzyaM darSayati#}</div> <div n="xe">{%or%}</div> <div n="xs">{#tvAM #}
+{# pratizWApayati#}</div> (?). </div><div n="I">III Authority: {#prAmARyam.#} </div><div n="I">IV
+In a commercial sense: {#*viSvAsaH,#} <div n="xe">{%to sell on%}
+{%c.:%}</div> <div n="xs">{#*viSvAsena vikrIRIte.#}</div> Ph.: {%c. side%} (of an
+account) {#*prAptaDanaBAgaH.#}</div>
 <LEND>

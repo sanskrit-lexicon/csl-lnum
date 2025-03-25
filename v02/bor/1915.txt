@@ -1,4 +1,4 @@
 <L>1915<pc>067<k1>benefactress<k2>benefactress
-<div n="lb"/>{@BENEFACTRESS:@}¦ <div n="1">(1) {#upakartrI;#} </div><div n="1">(2) {#upakAriRI;#} </div><div n="1">(3)
-<div n="lb"/>{#hitakAriRI.#}</div>
+{@BENEFACTRESS:@}¦ <div n="1">(1) {#upakartrI;#} </div><div n="1">(2) {#upakAriRI;#} </div><div n="1">(3)
+{#hitakAriRI.#}</div>
 <LEND>

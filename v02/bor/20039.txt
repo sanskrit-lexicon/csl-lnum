@@ -1,14 +1,14 @@
 <L>20039<pc>623<k1>secret<k2>secret
-<div n="lb"/>{@SECRET@}¦ (subs.): <div n="1">(1) {#rahasyam,#} <div n="xe">{%and the s. will%}
-<div n="lb"/>{%not ooze out:%}</div> <div n="xs">{#rahasyaYca na sravati,#}</div> D. ii.; <div n="xe">{%not to%}
-<div n="lb"/>{%divulge the s.:%}</div> <div n="xs">{#rahasyAnirBedAya,#}</div> D. ii.; <div n="xe">{%have you%}
-<div n="lb"/>{%kept the s. entrusted to you:%}</div> <div n="xs">{#rakzyate BavatA rahasya-#}
-<div n="lb"/>{#nikzepaH,#}</div> V. ii.; {%does not communicate%} ({%his%}) {%s. s:%}
-<div n="lb"/>{#narahasyAni vivfRoti,#} D. viii.; </div><div n="1">(2) {#guhyam, gopyam,#}
-<div n="lb"/>etc. (n. of adj. s from {#guha#} and {#gup#}), {%if it is%} [Page624]
-<div n="lb"/><div n="xe">{%not a s.:%}</div> <div n="xs">{#na cedgopyam,#}</div> D. iv.; <div n="xe">{%the s. being dis-%}
-<div n="lb"/>{%closed:%}</div> <div n="xs">{#vivftaguhyaH,#}</div> D. iv. Ph.: (a) <div n="xe">{%in s.:%}</div> <div n="xs">{#rahasi#}</div>
-<div n="lb"/>: v. Privately, secretly; (b) {%it is no longer%}
-<div n="lb"/>{%a s. to the townsmen that:%} {#prakASatAM gato'yamarTo #}
-<div n="lb"/>{# pOrezu yaTA #} {#.....,#} Mu. i.</div>
+{@SECRET@}¦ (subs.): <div n="1">(1) {#rahasyam,#} <div n="xe">{%and the s. will%}
+{%not ooze out:%}</div> <div n="xs">{#rahasyaYca na sravati,#}</div> D. ii.; <div n="xe">{%not to%}
+{%divulge the s.:%}</div> <div n="xs">{#rahasyAnirBedAya,#}</div> D. ii.; <div n="xe">{%have you%}
+{%kept the s. entrusted to you:%}</div> <div n="xs">{#rakzyate BavatA rahasya-#}
+{#nikzepaH,#}</div> V. ii.; {%does not communicate%} ({%his%}) {%s. s:%}
+{#narahasyAni vivfRoti,#} D. viii.; </div><div n="1">(2) {#guhyam, gopyam,#}
+etc. (n. of adj. s from {#guha#} and {#gup#}), {%if it is%} [Page624]
+<div n="xe">{%not a s.:%}</div> <div n="xs">{#na cedgopyam,#}</div> D. iv.; <div n="xe">{%the s. being dis-%}
+{%closed:%}</div> <div n="xs">{#vivftaguhyaH,#}</div> D. iv. Ph.: (a) <div n="xe">{%in s.:%}</div> <div n="xs">{#rahasi#}</div>
+: v. Privately, secretly; (b) {%it is no longer%}
+{%a s. to the townsmen that:%} {#prakASatAM gato'yamarTo #}
+{# pOrezu yaTA #} {#.....,#} Mu. i.</div>
 <LEND>

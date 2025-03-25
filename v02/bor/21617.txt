@@ -1,18 +1,18 @@
 <L>21617<pc>680<k1>strength<k2>strength
-<div n="lb"/>{@STRENGTH:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#balam,#} <div n="xe">{%for possessing%}
-<div n="lb"/>{%s.:%}</div> <div n="xs">{#balaSAlitayA,#}</div> Ki.; {%to know from me the s.%} [Page681]
-<div n="lb"/><div n="xe">{%and weakness of the three objects:%}</div> <div n="xs">{#itastrivargabala-#}
-<div n="lb"/>{#lAGavajYAnam,#}</div> D. ii.; <div n="xe">{%these are the eight-fold s.%}
-<div n="lb"/>{%(of a state):%}</div> <div n="xs">{#tadazwANgabalaM smftam,#}</div> Mah. xii. 121.
-<div n="lb"/>44.; </div><div n="1">(2) {#vIryam,#} (=manliness), <div n="xe">{%equal to%}
-<div n="lb"/>{%Viṣṇu in s.:%}</div> <div n="xs">{#vizRunA sadfSo vIrye,#}</div> Ram. 21.;</div>
-<div n="lb"/><div n="1">(3) {#SaktiH#} (power), <div n="xe">{%or if he has s, away%}
-<div n="lb"/>{%with begging:%}</div> <div n="xs">{#ayAsti SaktiH kftameva yAcYayA,#}</div> Ki.
-<div n="lb"/>xiv. 20.; </div><div n="1">(4) {#sAmarTyam#} (=3), {%to take up s.:%}
-<div n="lb"/>{#sAmarTyamavalambate,#} M.n.; </div><div n="1">(5) {#prARatA#} (physical),
-<div n="lb"/><div n="xe">{%wonderful s.:%}</div> <div n="xs">{#vismayajananI prARatA,#}</div> K.; </div><div n="1">(6) {#ojas#}
-<div n="lb"/>(of style), Kav. </div><div n="I">II Force measured: expr.
-<div n="lb"/>by {#kiyat#} (=how many, {#etAvat#}) (= so many),
-<div n="lb"/>etc.: q. v. Ph.: <div n="xe">{%on the s. of:%}</div> <div n="xs">{#U(u)rI-#}</div> <div n="xe">{%or%}</div> <div n="xs">{#urarI-#}
-<div n="lb"/>{#kftya#}</div> (with acc.).</div>
+{@STRENGTH:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#balam,#} <div n="xe">{%for possessing%}
+{%s.:%}</div> <div n="xs">{#balaSAlitayA,#}</div> Ki.; {%to know from me the s.%} [Page681]
+<div n="xe">{%and weakness of the three objects:%}</div> <div n="xs">{#itastrivargabala-#}
+{#lAGavajYAnam,#}</div> D. ii.; <div n="xe">{%these are the eight-fold s.%}
+{%(of a state):%}</div> <div n="xs">{#tadazwANgabalaM smftam,#}</div> Mah. xii. 121.
+44.; </div><div n="1">(2) {#vIryam,#} (=manliness), <div n="xe">{%equal to%}
+{%Viṣṇu in s.:%}</div> <div n="xs">{#vizRunA sadfSo vIrye,#}</div> Ram. 21.;</div>
+<div n="1">(3) {#SaktiH#} (power), <div n="xe">{%or if he has s, away%}
+{%with begging:%}</div> <div n="xs">{#ayAsti SaktiH kftameva yAcYayA,#}</div> Ki.
+xiv. 20.; </div><div n="1">(4) {#sAmarTyam#} (=3), {%to take up s.:%}
+{#sAmarTyamavalambate,#} M.n.; </div><div n="1">(5) {#prARatA#} (physical),
+<div n="xe">{%wonderful s.:%}</div> <div n="xs">{#vismayajananI prARatA,#}</div> K.; </div><div n="1">(6) {#ojas#}
+(of style), Kav. </div><div n="I">II Force measured: expr.
+by {#kiyat#} (=how many, {#etAvat#}) (= so many),
+etc.: q. v. Ph.: <div n="xe">{%on the s. of:%}</div> <div n="xs">{#U(u)rI-#}</div> <div n="xe">{%or%}</div> <div n="xs">{#urarI-#}
+{#kftya#}</div> (with acc.).</div>
 <LEND>

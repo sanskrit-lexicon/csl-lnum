@@ -1,5 +1,5 @@
 <L>15664<pc>380-b<k1>indication<k2>indication
-<div n="lb"/>INDICATION¦, {%s.%} {#lakzaRaM, cihnaM, liNgaM, mUcanA, pUrvvalakzaRaM, pUrvvaliNgaM, pUrvvacihnaM,#}
-<div n="lb"/>{#pUrvvarUpaM, rUpakaM, vyaYjanaM, prajYAnaM, aBijYAnaM, saMjYA, AkUtaM, AkAraH, iNgaH,#}
-<div n="lb"/>{#iNgitaM, saNketaH, avagatiH#} {%f.,%} {#anuBavaH, pramARaM#}.
+INDICATION¦, {%s.%} {#lakzaRaM, cihnaM, liNgaM, mUcanA, pUrvvalakzaRaM, pUrvvaliNgaM, pUrvvacihnaM,#}
+{#pUrvvarUpaM, rUpakaM, vyaYjanaM, prajYAnaM, aBijYAnaM, saMjYA, AkUtaM, AkAraH, iNgaH,#}
+{#iNgitaM, saNketaH, avagatiH#} {%f.,%} {#anuBavaH, pramARaM#}.
 <LEND>

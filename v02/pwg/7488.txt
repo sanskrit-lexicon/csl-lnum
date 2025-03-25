@@ -1,10 +1,10 @@
 <L>7488<pc>1-0560<k1>astamaya<k2>astamaya/
-{#astamaya/#}¦ (von {#astam + i#}) <lex>m.</lex> dass. 
-<ls>ŚAT. BR. 2, 3, 1, 7. 8. 3, 2, 2, 1. 26. 9, 2, 7. 4, 5, 3, 11.</ls> 
-<ls>KĀTY. ŚR. 7, 4, 13.</ls> 
-<ls>CHĀND. UP. 2, 9, 8.</ls> 
-<ls>KAṬHOP. 6, 6.</ls> 
-<ls>KATHĀS. 18, 59.</ls> Uebertr.: {#udayamastamayaM ca raGUdvahAduBayamAnaSire vasuDADipAH#} 
-<ls>RAGH. 9, 9.</ls> {#kurvanti sAmantaSiKAmaRInAM praBAprarohAstamayaM rajAMsi#} 
-<ls>6, 33.</ls>
+{#astamaya/#}¦ (von {#astam + i#}) <lex>m.</lex> dass.
+<ls>ŚAT. BR. 2,3,1,7.</ls> <ls n="ŚAT. BR. 2,3,1,">8.</ls> <ls n="ŚAT. BR.">3,2,2,1.</ls> <ls n="ŚAT. BR. 3,2,2,">26.</ls> <ls n="ŚAT. BR. 3,">9,2,7.</ls> <ls n="ŚAT. BR.">4,5,3,11.</ls>
+<ls>KĀTY. ŚR. 7,4,13.</ls>
+<ls>CHĀND. UP. 2,9,8.</ls>
+<ls>KAṬHOP. 6,6.</ls>
+<ls>KATHĀS. 18,59.</ls> Uebertr.: {#udayamastamayaM ca raGUdvahAduBayamAnaSire vasuDADipAH#}
+<ls>RAGH. 9,9.</ls> {#kurvanti sAmantaSiKAmaRInAM praBAprarohAstamayaM rajAMsi#}
+<ls n="RAGH.">6,33.</ls>
 <LEND>

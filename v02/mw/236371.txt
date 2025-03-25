@@ -1,3 +1,3 @@
-<L>236371<pc>1174,3<k1>samprativid<k2>sam-prati-vid<h>b<e>1
-<s>sam-prati-√ vid</s> <hom>b</hom> ¦ <ab>Caus.</ab> <s>-vedayati</s>√ 1. to cause to be fully known, announce, report, relate, <ls>MBh.</ls><info verb="pre" cp="" parse="sam+prati+vid"/>
+<L>236371<pc>1174,3<k1>samprativid<k2>sam-prati-vid<e>1
+<s>sam-prati-√ vid</s> ¦ <ab>Caus.</ab> <s>-vedayati</s>√ 1. to cause to be fully known, announce, report, relate, <ls>MBh.</ls><info verb="pre" cp="" parse="sam+prati+vid"/><info hui="b"/>
 <LEND>

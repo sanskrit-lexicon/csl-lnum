@@ -1,45 +1,43 @@
 <L>17432<pc>2-0305<k1>kukkuwa<k2>kukkuwa/
-{#kukkuwa/#}¦ 
-<ls>VS. 1, 16.</ls> {#kukku/wa#} 
-<ls>ŚĀNT. 2, 21.</ls> <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#arDarcAdi#} zu 
-<ls>P. 2, 4, 31.</ls> 
-<ls>Sch.</ls> zu <ls>H. 1324.</ls> 
-<div n="1"> 1) <lex>m.</lex> 
-<div n="2"> a) {%Hahn%} 
-<ls>AK. 2, 5, 17.</ls> 
-<ls>TRIK. 2, 5, 18.</ls> 
-<ls>H. 1324.</ls> 
-<ls>an. 3, 158.</ls> 
-<ls>MED. ṭ. 38.</ls> <ls>VS. 1, 16.</ls> <ls>M. 3, 239. 241. 11, 156.</ls> <ls>MBH. 3, 14323. 14434. 13, 2836.</ls> <ls>SUŚR. 1, 201, 1. 2, 49, 11.</ls> {#yudDaM ca prAtarutTAnaM BojanaM saha banDuBiH . striyamApadgatAM rakzeccatuH Sikzeta kukkuwAt ..#} 
-<ls>CĀṆ. 72.</ls> 
-<ls>HIT. 106, 17.</ls> 
-<ls>DEV. 11, 14.</ls> {#grAmakukkuwa#} 
-<ls>M. 5, 12. 19.</ls> {#gfha°#} 
-<ls>SUŚR. 2, 67, 1.</ls> {#jala°#} 
-<ls>MBH. 3, 9926. 11579.</ls> 
-<ls>R. 4, 13, 8. 50, 13</ls> ({#cala°#}). 
-<ls>VET. 6, 10.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#} 
-<ls>P. 4, 1, 14,</ls> 
-<ls>Sch.</ls> {#kukkuwa = kukkuBa#} {%ein wilder Hahn%} (vgl. {#kumBakArakukkuwa#}) 
-<ls>H. 1342,</ls> 
-<ls>Sch.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<ls>HĀR. 86.</ls> 
-<div n="2">— b) {%ein brennendes Bündel Gras%} ({#tfRolkA#}) 
-<ls>MED.</ls> {%Feuerfunke%} ({#vahnikaRa#}) 
-<ls>H. an.</ls> Vgl. {#agnikukkuwa#} . 
-<div n="2">— c) {%der Sohn eines <is>Niṣāda</is> und einer <is>Śūdra</is>-Frau%} (vgl. {#kukkuwaka#}) 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#I#} 
-<div n="2"> a) oxyt. 
-<ls>Sch.</ls> zu <ls>P. 4, 1, 63</ls> und <ls>?14. 4, 4, 46. Sch. zu 1, 2, 67. <is>Vārtt</is>. zu 6, 3, 42.</ls> {%Henne.%} 
-<div n="2">— b) {%Hauseidechse%} ({#jyezWI#}) 
-<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— c) {%der rothe Wollbaum, Salmalia malabarica Schott u. Endl.%}, so genannt wohl wegen der Aehnlichkeit der rothen Blüthen mit dem Kamme der {%Hühner%}, 
-<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>SUŚR. 2, 387, 1. 390, 17. 536, 13.</ls> 
-<div n="2">— d) {%Heuchelei%} (vgl. {#kOkkuwika#}, woraus die Bed. gefolgert worden ist) 
-<ls>MED.</ls> — Der {%Hahn%} ist nach seinem Geschrei benannt worden, vgl. lat. {%cucurire%}, illir. {%kukurikati%} 
-<ls>?(BERLIC</ls>, Gramm. der illir. Sprache, 
-<ls>S. 284</ls>).
+{#kukkuwa/#}¦
+<ls>VS. 1,16.</ls> {#kukku/wa#}
+<ls>ŚĀNT. 2,21.</ls> <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#arDarcAdi#} zu
+<ls>P. 2,4,31.</ls>
+<ls>Sch.</ls> zu <ls>H. 1324.</ls>
+<div n="1"> 1) <lex>m.</lex>
+<div n="2"> a) {%Hahn%}
+<ls>AK. 2,5,17.</ls>
+<ls>TRIK. 2,5,18.</ls>
+<ls>H. 1324.</ls>
+<ls>an. 3,158.</ls>
+<ls>MED. ṭ. 38.</ls> <ls>VS. 1,16.</ls> <ls>M. 3,239.</ls> <ls n="M. 3,">241.</ls> <ls n="M.">11,156.</ls> <ls>MBH. 3,14323.</ls> <ls n="MBH. 3,">14434.</ls> <ls n="MBH.">13,2836.</ls> <ls>SUŚR. 1,201,1.</ls> <ls n="SUŚR.">2,49,11.</ls> {#yudDaM ca prAtarutTAnaM BojanaM saha banDuBiH . striyamApadgatAM rakzeccatuH Sikzeta kukkuwAt ..#}
+<ls>CĀṆ. 72.</ls>
+<ls>HIT. 106,17.</ls>
+<ls>DEV. 11,14.</ls> {#grAmakukkuwa#}
+<ls>M. 5,12.</ls> <ls n="M. 5,">19.</ls> {#gfha°#}
+<ls>SUŚR. 2,67,1.</ls> {#jala°#}
+<ls>MBH. 3,9926.</ls> <ls n="MBH. 3,">11579.</ls>
+<ls>R. 4,13,8.</ls> <ls n="R. 4,">50,13</ls> ({#cala°#}).
+<ls>VET. 6,10.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+<ls>P. 4,1,14</ls>, <ls>Sch.</ls>
+{#kukkuwa = kukkuBa#} {%ein wilder Hahn%} (vgl. {#kumBakArakukkuwa#})
+<ls>H. 1342</ls>, <ls>Sch.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<ls>HĀR. 86.</ls>
+<div n="2">— b) {%ein brennendes Bündel Gras%} ({#tfRolkA#})
+<ls>MED.</ls> {%Feuerfunke%} ({#vahnikaRa#})
+<ls>H. an.</ls> Vgl. {#agnikukkuwa#} .
+<div n="2">— c) {%der Sohn eines <is>Niṣāda</is> und einer <is>Śūdra</is>-Frau%} (vgl. {#kukkuwaka#})
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="1">— 2) <lex>f.</lex> {#I#}
+<div n="2"> a) oxyt.
+<ls>Sch.</ls> zu <ls>P. 4,1,63</ls> und <ls n="P. 4,1,">14.</ls> <ls n="P.">4,4,46.</ls> Sch. zu <ls n="P.">1,2,67.</ls> <is>Vārtt</is>. zu <ls n="P.">6,3,42.</ls> {%Henne.%}
+<div n="2">— b) {%Hauseidechse%} ({#jyezWI#})
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
+<div n="2">— c) {%der rothe Wollbaum, Salmalia malabarica Schott u. Endl.%}, so genannt wohl wegen der Aehnlichkeit der rothen Blüthen mit dem Kamme der {%Hühner%},
+<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>SUŚR. 2,387,1. 390,17. 536,13.</ls>
+<div n="2">— d) {%Heuchelei%} (vgl. {#kOkkuwika#}, woraus die Bed. gefolgert worden ist)
+<ls>MED.</ls> — Der {%Hahn%} ist nach seinem Geschrei benannt worden, vgl. lat. {%cucurire%}, illir. {%kukurikati%}
+(<ls>BERLIC, Gramm. der illir. Sprache, S. 284</ls>).
 <LEND>

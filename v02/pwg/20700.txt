@@ -1,17 +1,17 @@
 <L>20700<pc>2-0581<k1>kzoBa<k2>kzoBa
-{#kzoBa#}¦ (von {#kzuB#}) <lex>m.</lex> {%das Schwanken, zitternde Bewegung, Erschütterung; Unruhe, Aufregung%}: {#kzoBodvegasamucCrita (samudra)#} 
-<ls>MBH. 1, 1214.</ls> {#vIci°#} 
-<ls>MEGH. 29.</ls> {#mIna°#} 
-<ls>93.</ls> {#raTakzoBapariSrama#} 
-<ls>RAGH. 1, 58.</ls> 
-<ls>VIKR. 52. 10, 8.</ls> {#(nAdena) jagati kzoBakAriRA#} 
-<ls>R. 6, 11, 1.</ls> {#yakzakzoBakara (asura)#} 
-<ls>MBH. 3, 8760.</ls> {#etezAM kurvataH pApaM rAzwrakzoBo Bavizyati#} 
-<ls>13, 7208.</ls> {#ko 'yamityAgatakzoBaH kOtUhalaparo 'Bavat#} 
-<ls>1, 5385.</ls> {#yadA kzoBaM nopayAti nArtimanyatarastayoH#} 
-<ls>SUND. 1, 16.</ls> {#itTaM tanvi vapuH praSAntamapi te kzoBaM karotyeva naH#} 
-<ls>BHARTṚ. 1, 12.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. 58, 16.</ls> {#prAyaH svaM mahimAnaM kzoBAtpratipadyate hi janaH#} 
-<ls>ŚĀK. 158.</ls> {#indriyakzoBa#} 
-<ls>KUMĀRAS. 3, 69.</ls>
+{#kzoBa#}¦ (von {#kzuB#}) <lex>m.</lex> {%das Schwanken, zitternde Bewegung, Erschütterung; Unruhe, Aufregung%}: {#kzoBodvegasamucCrita (samudra)#}
+<ls>MBH. 1,1214.</ls> {#vIci°#}
+<ls>MEGH. 29.</ls> {#mIna°#}
+<ls n="MEGH.">93.</ls> {#raTakzoBapariSrama#}
+<ls>RAGH. 1,58.</ls>
+<ls>VIKR. 52. 10,8.</ls> {#(nAdena) jagati kzoBakAriRA#}
+<ls>R. 6,11,1.</ls> {#yakzakzoBakara (asura)#}
+<ls>MBH. 3,8760.</ls> {#etezAM kurvataH pApaM rAzwrakzoBo Bavizyati#}
+<ls n="MBH.">13,7208.</ls> {#ko 'yamityAgatakzoBaH kOtUhalaparo 'Bavat#}
+<ls n="MBH.">1,5385.</ls> {#yadA kzoBaM nopayAti nArtimanyatarastayoH#}
+<ls>SUND. 1,16.</ls> {#itTaM tanvi vapuH praSAntamapi te kzoBaM karotyeva naH#}
+<ls>BHARTṚ. 1,12.</ls>
+<ls>BRAHMA-P. in LA. 58,16.</ls> {#prAyaH svaM mahimAnaM kzoBAtpratipadyate hi janaH#}
+<ls>ŚĀK. 158.</ls> {#indriyakzoBa#}
+<ls>KUMĀRAS. 3,69.</ls>
 <LEND>

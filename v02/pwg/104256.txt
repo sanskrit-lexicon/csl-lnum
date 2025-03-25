@@ -1,67 +1,67 @@
 <L>104256<pc>7-0603<k1>sadana<k2>sa/dana
-{#sa/dana#}¦ (von 1. {#sad#}) 
-<div n="1"> 1) <lex>n.</lex> 
-<div n="2"> a) {%Sitz, Ort; Standort, Heimath; Behausung, Haus%} 
-<ls>AK. 2, 2, 4.</ls> 
-<ls>H. 990.</ls> 
-<ls>an. 3, 428.</ls> 
-<ls>MED. n. 151.</ls> <ls>HALĀY. 2, 136.</ls> {#kftrima#} 
-<ls>ṚV. 1, 55, 6.</ls> <ls n="ṚV. 1,">104, 5.</ls> {#nitya#} 
-<ls n="ṚV. 1,">148, 3.</ls> {#pArTiva#} 
-<ls n="ṚV. 1,">169, 6.</ls> {#di\vya\1^\nyaH sada^naM cakre#} 
-<ls n="ṚV.">2, 40, 4.</ls> {#pf\Ti\vIM sada^ne sasatTa#} 
-<ls n="ṚV.">3, 30, 9.</ls> <ls n="ṚV. 3,">31, 12.</ls> <ls n="ṚV. 3,">54, 6.</ls> {#yoni^zwa indra\ sada^ne akAri#} 
-<ls n="ṚV.">7, 24, 1.</ls> {#sIda\nhote^va\ sada^ne ca\mUzu^#} 
-<ls n="ṚV.">9, 92, 2.</ls> {#su\gA vo^ devA\H sada^nA akarma#} 
-<ls>VS. 8, 18. 12, 39.</ls> {#vi\vasva^taH#} 
-<ls>ṚV. 1, 53, 1.</ls> {#f\tasya^#} 
-<ls n="ṚV. 1,">84, 4.</ls> <ls n="ṚV. 1,">164, 47.</ls> {#pf\Ti\vyAH#} 
-<ls n="ṚV.">6, 11, 5.</ls> {#pArTiva#} 
-<ls n="ṚV.">8, 86, 5.</ls> {#rA\yaH#} 
-<ls n="ṚV.">3, 54, 21.</ls> <ls n="ṚV.">6, 7, 2.</ls> {#de\vAnA^m#} 
-<ls n="ṚV.">8, 13, 2.</ls> <ls n="ṚV.">10, 38, 2.</ls> {#u\KAyA^H#} 
-<ls>VS. 12, 16.</ls> {#patnI^nAm#} 
-<ls>AV. 9, 3, 7.</ls> 
-<ls>TS. 3, 2, 4, 4.</ls> = {#patnISAlA#} (nach 
-<ls>NĪLAK.</ls>) <ls>HARIV. 2204.</ls> — {#vEvasvatasya#} 
-<ls>MBH. 1, 1710.</ls> {#yamasya#} 
-<ls>R. 2, 64, 35. 7, 21, 1.</ls> {#DAturviDAtuH saviturviBorvA Sakrasya vA tvaM sadanAtprapannA#} 
-<ls>MBH. 3, 15591.</ls> {#amBojayoneH#} 
-<ls>PRAB. 24, 1.</ls> {#mUkAmbikAyAH#} 
-<ls>Verz. d. Oxf. H. 257,a,23.</ls> {#sidDacAraRavidyADarARAm#} 
-<ls>BHĀG. P. 5, 24, 4.</ls> {#gfhiRaH#} 
-<ls>Spr. (II) 2195. 6998.</ls> {#kuwwinyAH#} 
-<ls>KATHĀS. 57, 59.</ls> {#svayaMBU°#} 
-<ls>MBH. 13, 4377.</ls> {#mahendra°#} 
-<ls>KATHĀS. 6, 65.</ls> {#Darma°#} 
-<ls>BHĀG. P. 4, 1, 55.</ls> {#yadu°#} 
-<ls>MBH. 8, 1740.</ls> {#para°#} 
-<ls>Spr. (II) 551</ls> <ls>?= 1168. KATHĀS. 33, 97.</ls> {#preyasI°#} 
-<ls>37, 199.</ls> {#lajjA°#} {%Sitz%} 
-<ls>13, 196.</ls> {#trisAmya°#} 
-<ls>BHĀG. P. 2, 7, 40.</ls> am Ende eines <lex>adj.</lex> comp. {%seinen Sitz habend in%}: {#pAtAla°#} 
-<ls>MBH. 13, 329.</ls> {#SaSANka°#} 
-<ls>Verz. d. Oxf. H. 104</ls>, {%a%}, 
-<ls>4 v. u.</ls> In <is>Veda</is>
+{#sa/dana#}¦ (von 1. {#sad#})
+<div n="1"> 1) <lex>n.</lex>
+<div n="2"> a) {%Sitz, Ort; Standort, Heimath; Behausung, Haus%}
+<ls>AK. 2,2,4.</ls>
+<ls>H. 990.</ls>
+<ls>an. 3,428.</ls>
+<ls>MED. n. 151.</ls> <ls>HALĀY. 2,136.</ls> {#kftrima#}
+<ls>ṚV. 1,55,6.</ls> <ls n="ṚV. 1,">104,5.</ls> {#nitya#}
+<ls n="ṚV. 1,">148,3.</ls> {#pArTiva#}
+<ls n="ṚV. 1,">169,6.</ls> {#di\vya\1^\nyaH sada^naM cakre#}
+<ls n="ṚV.">2,40,4.</ls> {#pf\Ti\vIM sada^ne sasatTa#}
+<ls n="ṚV.">3,30,9.</ls> <ls n="ṚV. 3,">31,12.</ls> <ls n="ṚV. 3,">54,6.</ls> {#yoni^zwa indra\ sada^ne akAri#}
+<ls n="ṚV.">7,24,1.</ls> {#sIda\nhote^va\ sada^ne ca\mUzu^#}
+<ls n="ṚV.">9,92,2.</ls> {#su\gA vo^ devA\H sada^nA akarma#}
+<ls>VS. 8,18.</ls> <ls n="VS.">12,39.</ls> {#vi\vasva^taH#}
+<ls>ṚV. 1,53,1.</ls> {#f\tasya^#}
+<ls n="ṚV. 1,">84,4.</ls> <ls n="ṚV. 1,">164,47.</ls> {#pf\Ti\vyAH#}
+<ls n="ṚV.">6,11,5.</ls> {#pArTiva#}
+<ls n="ṚV.">8,86,5.</ls> {#rA\yaH#}
+<ls n="ṚV.">3,54,21.</ls> <ls n="ṚV.">6,7,2.</ls> {#de\vAnA^m#}
+<ls n="ṚV.">8,13,2.</ls> <ls n="ṚV.">10,38,2.</ls> {#u\KAyA^H#}
+<ls>VS. 12,16.</ls> {#patnI^nAm#}
+<ls>AV. 9,3,7.</ls>
+<ls>TS. 3,2,4,4.</ls> = {#patnISAlA#} (nach
+<ls>NĪLAK.</ls>) <ls>HARIV. 2204.</ls> — {#vEvasvatasya#}
+<ls>MBH. 1,1710.</ls> {#yamasya#}
+<ls>R. 2,64,35.</ls> <ls n="R.">7,21,1.</ls> {#DAturviDAtuH saviturviBorvA Sakrasya vA tvaM sadanAtprapannA#}
+<ls>MBH. 3,15591.</ls> {#amBojayoneH#}
+<ls>PRAB. 24,1.</ls> {#mUkAmbikAyAH#}
+<ls>Verz. d. Oxf. H. 257,a,23.</ls> {#sidDacAraRavidyADarARAm#}
+<ls>BHĀG. P. 5,24,4.</ls> {#gfhiRaH#}
+<ls>Spr. (II) 2195.</ls> <ls n="Spr. (II)">6998.</ls> {#kuwwinyAH#}
+<ls>KATHĀS. 57,59.</ls> {#svayaMBU°#}
+<ls>MBH. 13,4377.</ls> {#mahendra°#}
+<ls>KATHĀS. 6,65.</ls> {#Darma°#}
+<ls>BHĀG. P. 4,1,55.</ls> {#yadu°#}
+<ls>MBH. 8,1740.</ls> {#para°#}
+<ls>Spr. (II) 551</ls> = <ls n="Spr. (II)">1168.</ls> <ls>KATHĀS. 33,97.</ls> {#preyasI°#}
+<ls n="KATHĀS.">37,199.</ls> {#lajjA°#} {%Sitz%}
+<ls n="KATHĀS.">13,196.</ls> {#trisAmya°#}
+<ls>BHĀG. P. 2,7,40.</ls> am Ende eines <lex>adj.</lex> comp. {%seinen Sitz habend in%}: {#pAtAla°#}
+<ls>MBH. 13,329.</ls> {#SaSANka°#}
+<ls>Verz. d. Oxf. H. 104,a,4</ls>
+v. u. In <is>Veda</is>
 [Page7-0604]
-häufig mit metrischer Dehnung {#sAdana (sadana#} <is>Padap</is>.) 
-<ls>ṚV. PRĀT. 9, 19.</ls> 
-<ls>ṚV. 1, 84, 4.</ls> <ls n="ṚV.">2, 23, 1.</ls> <ls n="ṚV.">8, 9, 10.</ls> {#ya\masya^#} 
-<ls n="ṚV.">10, 135, 7.</ls> Citat in 
-<ls>ŚAT. BR. 11, 5, 5, 13.</ls> 
-<div n="2">— b) {%das Sichniederlassen, Zurruhekommen%} 
-<ls>ṚV. 5, 47, 7.</ls> <ls n="ṚV.">10, 93, 5.</ls> 
-<div n="2">— c) {%Erschlaffung%} 
-<ls>HĀR. 268.</ls> 
-<ls>SUŚR. 1, 39, 1.</ls> {#gAtra°#} 
-<ls>128, 11. 252, 11.</ls> {#aNga°#} 
-<ls>2, 213, 21.</ls> 
-<div n="2">— d) angeblich {%Wasser%} 
-<ls>NAIGH. 1, 12.</ls> 
-<ls>H. an.</ls> ({#jana#} fehlerhaft für {#jala#}). 
-<ls>MED.</ls> 
-<div n="1">— 2) <lex>adj.</lex> (f. {#I#}) {%Niederlassung —, Bleiben bewirkend%}: {#dIDiti#} 
-<ls>ṚV. 1, 186, 11.</ls> 
-<div n="v">— Vgl. {#fta°, keli°, deva°, dyUta°, nf°, pitf°, brahma°#} (in der 2ten Bed. auch 
-<ls>BHĀG. P. 5, 17, 4</ls>), {#yajYa°, yama°, rAja°, vAH°, hotf°#} .
+häufig mit metrischer Dehnung {#sAdana (sadana#} <is>Padap</is>.)
+<ls>ṚV. PRĀT. 9,19.</ls>
+<ls>ṚV. 1,84,4.</ls> <ls n="ṚV.">2,23,1.</ls> <ls n="ṚV.">8,9,10.</ls> {#ya\masya^#}
+<ls n="ṚV.">10,135,7.</ls> Citat in
+<ls>ŚAT. BR. 11,5,5,13.</ls>
+<div n="2">— b) {%das Sichniederlassen, Zurruhekommen%}
+<ls>ṚV. 5,47,7.</ls> <ls n="ṚV.">10,93,5.</ls>
+<div n="2">— c) {%Erschlaffung%}
+<ls>HĀR. 268.</ls>
+<ls>SUŚR. 1,39,1.</ls> {#gAtra°#}
+<ls n="SUŚR.">128,11. 252,11.</ls> {#aNga°#}
+<ls n="SUŚR.">2,213,21.</ls>
+<div n="2">— d) angeblich {%Wasser%}
+<ls>NAIGH. 1,12.</ls>
+<ls>H. an.</ls> ({#jana#} fehlerhaft für {#jala#}).
+<ls>MED.</ls>
+<div n="1">— 2) <lex>adj.</lex> (f. {#I#}) {%Niederlassung —, Bleiben bewirkend%}: {#dIDiti#}
+<ls>ṚV. 1,186,11.</ls>
+<div n="v">— Vgl. {#fta°, keli°, deva°, dyUta°, nf°, pitf°, brahma°#} (in der 2ten Bed. auch
+<ls>BHĀG. P. 5,17,4</ls>), {#yajYa°, yama°, rAja°, vAH°, hotf°#} .
 <LEND>

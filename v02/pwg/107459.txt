@@ -1,13 +1,12 @@
 <L>107459<pc>7-0852<k1>sasvara<k2>sasvara
-{#sasvara#}¦ (2. {#sa + svara#}) <lex>adj.</lex> 
-<div n="1"> 1) {%laut%}, {#°m#} adv.: weinen, schreien 
-<ls>R. 2, 30, 22. 41, 7. 65, 20. 81, 8. 104, 15.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 123, 3.</ls> 
-<div n="1">— 2) {%gleichlautend%}: {#pUrva°#} Comm. zu 
-<ls>AV. PRĀT. 1, 101.</ls> 
-<div n="1">— 3) {%den Ton habend, betont%} 
-<ls>Ind. St. 10, 414.</ls> 
-<div n="1">— 4) {%einen gleichen Ton habend%}: {#vyaYjanaM svareRa sasvaram#} 
-<ls>VS. PRĀT. 1, 107.</ls>
+{#sasvara#}¦ (2. {#sa + svara#}) <lex>adj.</lex>
+<div n="1"> 1) {%laut%}, {#°m#} adv.: weinen, schreien
+<ls>R. 2,30,22.</ls> <ls n="R. 2,">41,7.</ls> <ls n="R. 2,">65,20.</ls> <ls n="R. 2,">81,8.</ls> <ls n="R. 2,">104,15.</ls>
+<ls>R. GORR. 2,123,3.</ls>
+<div n="1">— 2) {%gleichlautend%}: {#pUrva°#} Comm. zu
+<ls>AV. PRĀT. 1,101.</ls>
+<div n="1">— 3) {%den Ton habend, betont%}
+<ls>Ind. St. 10,414.</ls>
+<div n="1">— 4) {%einen gleichen Ton habend%}: {#vyaYjanaM svareRa sasvaram#}
+<ls>VS. PRĀT. 1,107.</ls>
 <LEND>

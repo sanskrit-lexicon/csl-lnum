@@ -1,27 +1,27 @@
 <L>39000<pc>4-0160<k1>nibanDa<k2>nibanDa
-{#nibanDa#}¦ (wie eben) 
-<div n="1"> 1) <lex>m.</lex> 
-<div n="2"> a) {%das Anbinden, Festbinden%} 
-<ls>R. 5, 42, 4.</ls> {%Bindung, Fesselung%}: {#dEvI saMpadvimokzAya nibanDAyAsurI matA#} 
-<ls>BHĀG. 16, 5.</ls> = {#nirbanDa#} {%das feste Hängen an%} 
-<ls>H. 1500, v. l.</ls> 
-<div n="2">— b) {%Band, Fessel%}: {#karmanibanDakfntana#} 
-<ls>BHĀG. P. 6, 2, 46.</ls> {#nAmakarmanibanDabadDa#} 
-<ls>?3, 13. Schol. bei WILSON, SĀṂKHYAK. S. 6.</ls> 
-<div n="2">— c) {%Grund, Wurzel%} (in übertr. Bed.): {#DarmanibanDamArga#} 
-<ls>MBH. 2, 2532.</ls> 
-<div n="2">— d) {%Stiftung%} 
-<ls>YĀJÑ. 1, 317. 2, 121.</ls> 
-<div n="2">— e) {%Verstopfung%} 
-<ls>H. 471, v. l.</ls> für {#vibanDa#} . 
-<div n="2">— f) {%Composition, literärisches Werk%} 
-<ls>H. 257.</ls> 
-<ls>Verz. d. B. H. 265,9.</ls> <ls>Verz. d. Oxf. H. 108,b, N.</ls> <ls>VĀSAVAD.9,2.</ls> <ls>BHĀG. P. I, LXVII, N. 2.</ls> {#kArikA°#} 
-<ls>Z. d. d. m. G.</ls> <ls>?II,342 (No. 201,d).</ls> Vgl. {#granTa#} . 
-<div n="2">— g) Titel eines best. Werkes 
-<ls>Verz. d. Oxf. H. 95,a,38.</ls> 
-<div n="2">— h) = {#nimba#} {%Azadirachta indica Juss.%} 
-<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%Gesang%} 
+{#nibanDa#}¦ (wie eben)
+<div n="1"> 1) <lex>m.</lex>
+<div n="2"> a) {%das Anbinden, Festbinden%}
+<ls>R. 5,42,4.</ls> {%Bindung, Fesselung%}: {#dEvI saMpadvimokzAya nibanDAyAsurI matA#}
+<ls>BHĀG. 16,5.</ls> = {#nirbanDa#} {%das feste Hängen an%}
+<ls>H. 1500, v. l.</ls>
+<div n="2">— b) {%Band, Fessel%}: {#karmanibanDakfntana#}
+<ls>BHĀG. P. 6,2,46.</ls> {#nAmakarmanibanDabadDa#}
+<ls n="BHĀG. P. 6,">3,13.</ls> Schol. bei <ls>WILSON, SĀṂKHYAK. S. 6.</ls>
+<div n="2">— c) {%Grund, Wurzel%} (in übertr. Bed.): {#DarmanibanDamArga#}
+<ls>MBH. 2,2532.</ls>
+<div n="2">— d) {%Stiftung%}
+<ls>YĀJÑ. 1,317.</ls> <ls n="YĀJÑ.">2,121.</ls>
+<div n="2">— e) {%Verstopfung%}
+<ls>H. 471, v. l.</ls> für {#vibanDa#} .
+<div n="2">— f) {%Composition, literärisches Werk%}
+<ls>H. 257.</ls>
+<ls>Verz. d. B. H. 265,9.</ls> <ls>Verz. d. Oxf. H. 108,b, N.</ls> <ls>VĀSAVAD. 9,2.</ls> <ls>BHĀG. P. I, LXVII, N. 2.</ls> {#kArikA°#}
+<ls>Z. d. d. m. G. II,342 (No. 201, d).</ls> Vgl. {#granTa#} .
+<div n="2">— g) Titel eines best. Werkes
+<ls>Verz. d. Oxf. H. 95,a,38.</ls>
+<div n="2">— h) = {#nimba#} {%Azadirachta indica Juss.%}
+<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>
+<div n="1">— 2) <lex>n.</lex> {%Gesang%}
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
 <LEND>

@@ -1,14 +1,13 @@
 <L>116421<pc>7-1566<k1>harzula<k2>harzula
-{#harzula#}¦ (von {#harz#}) 
-<ls>UṆĀDIS. 1, 98.</ls> 
-<div n="1"> 1) <lex>adj.</lex> {%froh, lustig, guter Laune, jovial%} 
-<ls>MBH. 12, 2039. 2046.</ls> {%erfreut%} 
-<ls>RĀJA-TAR. 5, 473.</ls> 
-<ls>KATHĀS. 122, 26.</ls> {#ati°#} 
-<ls>67, 31.</ls> {#SrutavfttAnta°#} 
-<ls>101, 373. 118, 173.</ls> 
+{#harzula#}¦ (von {#harz#})
+<ls>UṆĀDIS. 1,98.</ls>
+<div n="1"> 1) <lex>adj.</lex> {%froh, lustig, guter Laune, jovial%}
+<ls>MBH. 12,2039.</ls> <ls n="MBH. 12,">2046.</ls> {%erfreut%}
+<ls>RĀJA-TAR. 5,473.</ls>
+<ls>KATHĀS. 122,26.</ls> {#ati°#}
+<ls n="KATHĀS.">67,31.</ls> {#SrutavfttAnta°#}
+<ls n="KATHĀS.">101,373.</ls> <ls n="KATHĀS.">118,173.</ls>
 <div n="1">— 2) <lex>m.</lex> {%Liebhaber%} und {%Gazelle%}
 [Page7-1567]
-
 <ls>UJJVAL.</ls>
 <LEND>

@@ -1,11 +1,11 @@
 <L>31310<pc>3-0454<k1>trEyambaka<k2>trEyambaka/
-{#trEyambaka/#}¦ <lex>adj.</lex> {%zu%} <is>Tryambaka</is> {%in Beziehung stehend, ihm gehörig u.s.w.%} 
-<ls>VS. 24, 18.</ls> {#izvastra#} 
-<ls>MBH. 7, 169.</ls> {#°saras#} 
-<ls>Verz. d. Oxf. H. 76,b,35.</ls> {#°mantra#} 
-<ls>106,a,37.</ls> {#bali#} 
-<ls>MBH. 7, 2778.</ls> {#apUpa#} {%dem%} <is>Try</is>. {%geweihte Kuchen%}, auch öfters mit Wegfall von {#apUpaH trEyambakA nAmApUpA BavantyekakapAlAH#} 
-<ls>LĀṬY. 5, 3, 1.</ls> {#triyambakAnnirvapati rOdrAnekakapAlAn#} 
-<ls>KĀTY. ŚR. 5, 10, 1. 2. 20, 7, 22.</ls> 
-<ls>GOBH. 3, 10, 10.</ls>
+{#trEyambaka/#}¦ <lex>adj.</lex> {%zu%} <is>Tryambaka</is> {%in Beziehung stehend, ihm gehörig u.s.w.%}
+<ls>VS. 24,18.</ls> {#izvastra#}
+<ls>MBH. 7,169.</ls> {#°saras#}
+<ls>Verz. d. Oxf. H. 76,b,35.</ls> {#°mantra#}
+<ls n="Verz. d. Oxf. H.">106,a,37.</ls> {#bali#}
+<ls>MBH. 7,2778.</ls> {#apUpa#} {%dem%} <is>Try</is>. {%geweihte Kuchen%}, auch öfters mit Wegfall von {#apUpaH trEyambakA nAmApUpA BavantyekakapAlAH#}
+<ls>LĀṬY. 5,3,1.</ls> {#triyambakAnnirvapati rOdrAnekakapAlAn#}
+<ls>KĀTY. ŚR. 5,10,1. 2. 20,7,22.</ls>
+<ls>GOBH. 3,10,10.</ls>
 <LEND>

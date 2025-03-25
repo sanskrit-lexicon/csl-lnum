@@ -1,28 +1,28 @@
 <L>5015<pc>208<k1>house<k2>house
 {@House,@}¦ {%s.%} {#gfhaM, gehaM, a(A) gAraM, sadanaM, veSma-#}
-<div n="lb"/>{#-n-sadman#} {%n.,%} {#niketanaM, maMdiraM, vAsaH, A-ni-#}
-<div n="lb"/>{#-vAsaH, BavanaM, AyatanaM, ni-A-layaH, okas-#}
-<div n="lb"/>{#-DAman#} {%n.,%} {#vasati#} {%f.,%} {#nivAsasTAnaM, AvasaTaH,#}
-<div n="lb"/>{#udavasitaM, nikAyyaH, niSAMtaM, va (pa) styaM;#}
-<div n="lb"/>‘body of a h.’ {#garBAgAraM, vAsagfhaM#}. {@2@} {#kulaM,#}
-<div n="lb"/>{#anvayaH, vaMSaH#}. {@3@} {#gfhajanaH, kuwuMbaM, parivAraH;#}
-<div n="lb"/>‘h.-breaker’ {#kuqyacCedin#} {%m.,%} {#Bitti-#}
-<div n="lb"/>{#-saMDi-cOraH, kapAwaGnaH, gfhaBedakaH;#} ‘h.-dog’
-<div n="lb"/>{#gfhakukkuraH;#} ‘h.-door’ {#gfhadvAraM;#} ‘h.-hold’
-<div n="lb"/>{#parivAraH, kuduMbaM-bakaM, parijanaH, gfhaparijanaH,#}
-<div n="lb"/>{#parivAraH;#} {%(a.)%} {#gfhya,#} ex. by {#gfha#} in comp.;
-<div n="lb"/>‘h.-hold duties’ {#gfhakAryARi, gfhAcArAH;#}
-<div n="lb"/>‘h.-hold: gods’ {#kuladevatAH;#} ‘h.-holder’
-<div n="lb"/>{#gfhin#} {%m.,%} {#gfhasTaH, gfhapatiH, gfhameDin#} {%m.,%}
-<div n="lb"/>{#kuwuMbin#} {%m.,%} {#gehin#} {%m.;%} ‘h.-hold stuff’
-<div n="lb"/>{#gfhopaskAraH, gfhasAmagrI;#} ‘h.-keeper’
-<div n="lb"/>{#gfhAvekzakaH#} {#(-kzikA#} {%f.%}); ‘h.-keeping’
-<div n="lb"/>{#gfhavyApAraH-kAryaM-karman#} {%n.%} ‘h.-maid’ {#dAsI#}
-<div n="lb"/>{#gfhadAsI-mArjanI;#} ‘h.-room’ {#vAsasTAnaM,#}
-<div n="lb"/>{#veSman#} {%n.%} ‘h.-warming’ {#gfhapraveSaH;#} ‘h.-wife’
-<div n="lb"/>{#gfhiRI, gehinI, gfhakAryakuSalA-dakzA, gfha-#}
-<div n="lb"/>{#-meDinI;#} ‘h.-wifery’ {#gfhakAryakuSalatA-nE-#}
-<div n="lb"/>{#-puRyaM, gfhakarmAnuzWAnaM, parimitavyayaH#}. {@-less,@} {%a.%}
-<div n="lb"/>{#gfhahIna-SUnya, nirAlaya, aSaraRa, nirASraya,#}
-<div n="lb"/>{#nirgfha#}.
+{#-n-sadman#} {%n.,%} {#niketanaM, maMdiraM, vAsaH, A-ni-#}
+{#-vAsaH, BavanaM, AyatanaM, ni-A-layaH, okas-#}
+{#-DAman#} {%n.,%} {#vasati#} {%f.,%} {#nivAsasTAnaM, AvasaTaH,#}
+{#udavasitaM, nikAyyaH, niSAMtaM, va (pa) styaM;#}
+‘body of a h.’ {#garBAgAraM, vAsagfhaM#}. {@2@} {#kulaM,#}
+{#anvayaH, vaMSaH#}. {@3@} {#gfhajanaH, kuwuMbaM, parivAraH;#}
+‘h.-breaker’ {#kuqyacCedin#} {%m.,%} {#Bitti-#}
+{#-saMDi-cOraH, kapAwaGnaH, gfhaBedakaH;#} ‘h.-dog’
+{#gfhakukkuraH;#} ‘h.-door’ {#gfhadvAraM;#} ‘h.-hold’
+{#parivAraH, kuduMbaM-bakaM, parijanaH, gfhaparijanaH,#}
+{#parivAraH;#} {%(a.)%} {#gfhya,#} ex. by {#gfha#} in comp.;
+‘h.-hold duties’ {#gfhakAryARi, gfhAcArAH;#}
+‘h.-hold: gods’ {#kuladevatAH;#} ‘h.-holder’
+{#gfhin#} {%m.,%} {#gfhasTaH, gfhapatiH, gfhameDin#} {%m.,%}
+{#kuwuMbin#} {%m.,%} {#gehin#} {%m.;%} ‘h.-hold stuff’
+{#gfhopaskAraH, gfhasAmagrI;#} ‘h.-keeper’
+{#gfhAvekzakaH#} {#(-kzikA#} {%f.%}); ‘h.-keeping’
+{#gfhavyApAraH-kAryaM-karman#} {%n.%} ‘h.-maid’ {#dAsI#}
+{#gfhadAsI-mArjanI;#} ‘h.-room’ {#vAsasTAnaM,#}
+{#veSman#} {%n.%} ‘h.-warming’ {#gfhapraveSaH;#} ‘h.-wife’
+{#gfhiRI, gehinI, gfhakAryakuSalA-dakzA, gfha-#}
+{#-meDinI;#} ‘h.-wifery’ {#gfhakAryakuSalatA-nE-#}
+{#-puRyaM, gfhakarmAnuzWAnaM, parimitavyayaH#}. {@-less,@} {%a.%}
+{#gfhahIna-SUnya, nirAlaya, aSaraRa, nirASraya,#}
+{#nirgfha#}.
 <LEND>

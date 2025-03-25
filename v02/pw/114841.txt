@@ -1,41 +1,39 @@
-<L>114841<pc>6268-1<k1>Sram<k2>Sram<h>1<e>500
-1. {#Sram#}¦ , {#SrA/myati#} , metrisch {#°Sramati , °Sramate#} , {#SramamARa#} (<ls>90,7</ls>) ; {%müde — , überdrüssig werden , — zu%} (<ab>Infin.</ab> <ls>NAIṢ.6,80.</ls> <ls>ŚIŚ.14,38</ls>) ; {%sich abmühen , sich vergebens bemühen%} ; im Bes. {%sich kasteien.%} {#na/ mA Sramat#} impers. {#SrAnta/#}
-<div n="1">— 1) {%ermüdet , abgearbeitet.%} {#SrAntaklAnta#} {%ermüdet und erschöpft%} <ls>KĀRAṆḌ.29,19.</ls>
-<div n="1">— 2) * = {#SAnta#} {%zur Ruhe gelangt.%}
+<L>114841<pc>6-268-a<k1>Sram<k2>Sram<h>1
+<hom>1.</hom> √{#Sram#}¦, {#SrA/myati#}, metrisch {#°Sramati, °Sramate#}, {#SramamARa#} (<ls n="Chr.">90,7</ls>); {%müde —, überdrüssig werden, — zu%} (<ab>Infin.</ab> <ls>NAIṢ. 6,80</ls>. <ls>ŚIŚ. 14,38</ls>); {%sich abmühen, sich vergebens bemühen;%} im <ab>Bes.</ab> {%sich kasteien%}. {#na/ mA Sramat#} <ab>impers.</ab> {#SrAnta/#}
+<div n="1">— 1〉 {%ermüdet, abgearbeitet%}. {#SrAntaklAnta#} {%ermüdet und erschöpft%} <ls>KĀRAṆḌ. 29,19</ls>.
+<div n="1">— 2〉 *= {#SAnta#} {%zur Ruhe gelangt%}.
 <div n="m">— <ab>Caus.</ab> {#SrAmayati#} und {#Sramayati#}
-<div n="1">— 1) {%müde machen , ermüden.%}
-<div n="1">— 2) {%bezwingen , besiegen.%} <ab>Vgl.</ab> <ab>Caus.</ab> von 2. {#Sam#}.
-<div n="1">— 3) {#*SrAmayati#}
-[Page6268-2]
-( {#AmantraRe#}).
-<div n="p">— Mit {#aBi#} {%müde machen ermüden%} <ls>GOP.BR.1,1,1.3.5.fgg.</ls>
+<div n="1">— 1〉 {%müde machen, ermüden%}.
+<div n="1">— 2〉 {%bezwingen, besiegen%}. <ab>Vgl.</ab> <ab>Caus.</ab> von <hom>2.</hom> {#Sam#}.
+<div n="1">— 3〉 *{#SrAmayati#} [Page6-268-b] ({#AmantraRe#}).
+<div n="p">— Mit {#aBi#} {%müde machen ermüden%} <ls>GOP. BR. 1,1,1. 3. 5. fgg.</ls>
 <div n="p">— Mit {#A#} in {#ASrama#}.
-<div n="p">— Mit {#upa#} {%sich ausruhen.%}
+<div n="p">— Mit {#upa#} {%sich ausruhen%}.
 <div n="p">— Mit {#ni#} in {#niSrama#}.
-<div n="p">— Mit {#pari#} {%sich sehr abmühen.%} {#pariSrAnta#}
-<div n="1">— 1) {%sehr ermüdet , erschöpft.%}
-<div n="1">— 2) {%einer Sache%} (im Comp. vorangehend) {%überdrüssig geworden%} <ls>BAUDH.2,17,16.</ls>
-<div n="m">— <ab>Caus.</ab> ( {#°Sramayati#}) {%müde machen , ermüden%} <ls>NAIṢ.5,28.</ls>
-<div n="p">— Mit {#saMpari#} , {#°SrAnta#} {%überaus ermüdet , erschöpft.%}
-<div n="p">— Mit {#prati#} <ab>Caus.</ab> ( {#°SrAmayati#}) {%wieder an seinen Platz stellen%} <ls>SADDH.P.4,19.</ls> <ab>Vgl.</ab> 2. {#Sam#} mit {#prati#} <ab>Caus.</ab>
+<div n="p">— Mit {#pari#} {%sich sehr abmühen%}. {#pariSrAnta#}
+<div n="1">— 1〉 {%sehr ermüdet, erschöpft%}.
+<div n="1">— 2〉 {%einer Sache%} (im <ab>Comp.</ab> vorangehend) {%überdrüssig geworden%} <ls>BAUDH. 2,17,16</ls>.
+<div n="m">— <ab>Caus.</ab> ({#°Sramayati#}) {%müde machen, ermüden%} <ls>NAIṢ. 5,28</ls>.
+<div n="p">— Mit {#saMpari#}, {#°SrAnta#} {%überaus ermüdet, erschöpft%}.
+<div n="p">— Mit {#prati#} <ab>Caus.</ab> ({#°SrAmayati#}) {%wieder an seinen Platz stellen%} <ls>SADDH. P. 4,19</ls>. <ab>Vgl.</ab> <hom>2.</hom> {#Sam#} mit {#prati#} <ab>Caus.</ab>
 <div n="p">— Mit {#vi#}
-<div n="1">— 1) {%sich ausruhen , sich erholen.%}
-<div n="1">— 2) {%seine Thätigkeit einstellen , aufhören , nachlassen%} <ls>HEM.PAR.1,343.</ls>
-<div n="1">— 3) {%beruhen auf%} (<ab>Loc.</ab>).
-<div n="1">— 4) {%Ruhe finden bei%} , so v.a. {%Jmd sein ganzes Vertrauen schenken , sich verlassen auf%} (<ab>Loc.</ab>).
-<div n="1">— 5) {%sich behaglich fühlen.%}
-<div n="1">— 6) {#viSrAnta#}
-<div n="2">— a) {%ausgeruht , erholt%} (<ls>KĀM.NĪTIS.13,76</ls>), {%— von%} (im Comp. vorangehend).
-<div n="2">— b) {%sich ausruhend , sich erholend.%}
-<div n="2">— c) {%aufgehört , nachgelassen%} <ls>291,28.295,28</ls> (im <is n="1">Prākrit</is>).
-<div n="2">— d) {%seine Thätigkeit einstellend%} <ls>95,23.</ls>
-<div n="2">— e) {%aufhörend bei%} , so v.a. {%sich erstreckend bis%} (<ab>Acc.</ab> oder im Comp. vorangehend). {#karRAntikam#} so v.a. {%zu Ohren gekommen%} <ls>PRASANNAR.10,6.</ls> {#aSru#} {#viSrAntakarRayugalam#} so v.a. {#aSru#} {#karRayugalaviSrAntam#}.
-<div n="2">— f) am Ende eines Comp. {%entbehrend , baar%} ,
-<div n="2">— g) {%sich behaglich fühlend bei%} (<ab>Loc.</ab>).
-<div n="m">— <ab>Caus.</ab> ( {#viSramayati#} und {#viSrA°#})
-<div n="1">— 1) {%ruhen — , ausruhen lassen.%} {#siMhAsane viSrAmitaH#} <ls>KĀRAṆḌ.40,3.</ls>
-<div n="1">— 2) {%Etwas zur Ruhe bringen , einem Dinge ein Ende machen%} ; mit <ab>Acc.</ab>
-<div n="1">— 3) {#viSrAmayati#} <ls>LALIT.161,17</ls> fehlerhaft für {#viSrARayati#}.
-<div n="p">— Mit {#parivi#} , {#°SrAnta#} {%vollkommen ausgeruht%} <ls>60,32.</ls>
-<div n="p">— Mit {#sam#} , {#saMSrAnta#} {%ermüdet , erschöpft.%}
+<div n="1">— 1〉 {%sich ausruhen, sich erholen%}.
+<div n="1">— 2〉 {%seine Thätigkeit einstellen, aufhören, nachlassen%} <ls>HEM. PAR. 1,343</ls>.
+<div n="1">— 3〉 {%beruhen auf%} (<ab>Loc.</ab>).
+<div n="1">— 4〉 {%Ruhe finden bei,%} so <ab>v. a.</ab> {%Jmd sein ganzes Vertrauen schenken, sich verlassen auf%} (<ab>Loc.</ab>).
+<div n="1">— 5〉 {%sich behaglich fühlen%}.
+<div n="1">— 6〉 {#viSrAnta#}
+<div n="2">— a〉 {%ausgeruht, erholt%} (<ls>KĀM. NĪTIS. 13,76</ls>), — {%von%} (im <ab>Comp.</ab> vorangehend).
+<div n="2">— b〉 {%sich ausruhend, sich erholend%}.
+<div n="2">— c〉 {%aufgehört, nachgelassen%} <ls n="Chr.">291,28</ls>. <ls n="Chr.">295,28</ls> (im <lang>Prākrit</lang>).
+<div n="2">— d〉 {%seine Thätigkeit einstellend%} <ls n="Chr.">95,23</ls>.
+<div n="2">— e〉 {%aufhörend bei,%} so <ab>v. a.</ab> {%sich erstreckend bis%} (<ab>Acc.</ab> oder im <ab>Comp.</ab> vorangehend). {#karRAntikam#} so <ab>v. a.</ab> {%zu Ohren gekommen%} <ls>PRASANNAR. 10,6</ls>. {#aSru#} {#viSrAntakarRayugalam#} so <ab>v. a.</ab> {#aSru#} {#karRayugalaviSrAntam#}.
+<div n="2">— f〉 am Ende eines <ab>Comp.</ab> {%entbehrend, baar%}.
+<div n="2">— g〉 {%sich behaglich fühlend bei%} (<ab>Loc.</ab>).
+<div n="m">— <ab>Caus.</ab> ({#viSramayati#} und {#viSrA°#})
+<div n="1">— 1〉 {%ruhen —, ausruhen lassen%}. {#siMhAsane viSrAmitaH#} <ls>KĀRAṆḌ. 40,3</ls>.
+<div n="1">— 2〉 {%Etwas zur Ruhe bringen, einem Dinge ein Ende machen;%} mit <ab>Acc.</ab>
+<div n="1">— 3〉 {#viSrAmayati#} <ls>LALIT. 161,17</ls> fehlerhaft für {#viSrARayati#}.
+<div n="p">— Mit {#parivi#}, {#°SrAnta#} {%vollkommen ausgeruht%} <ls n="Chr.">60,32</ls>.
+<div n="p">— Mit {#sam#}, {#saMSrAnta#} {%ermüdet, erschöpft%}.
 <LEND>

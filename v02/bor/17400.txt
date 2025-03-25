@@ -1,10 +1,10 @@
 <L>17400<pc>532<k1>popular<k2>popular
-<div n="lb"/>{@POPULAR:@}¦ <div n="I">I Pertaining to or prevailing
-<div n="lb"/>among the people: </div><div n="1">(1) by comp., <div n="xe">{%hearing%}
-<div n="lb"/>{%p. rumours:%}</div> <div n="xs">{#lokavAdaSravaRAt,#}</div> R. xiv. 61.; </div><div n="1">(2)
-<div n="lb"/>{#lOkika#} (f. {#kI#}), <div n="xe">{%p. instruction:%}</div> <div n="xs">{#lOkikI SikzA#}</div>:
-<div n="lb"/>v. People. </div><div n="I">II In general favour: </div><div n="1">(1)
-<div n="lb"/>{#lokapriya#} (f. {#yA#}); </div><div n="1">(2) {#janapriya#} (f. {#yA#}); and
-<div n="lb"/>sim. comp.s. </div><div n="I">III Vulgar, common: q. v.:
-<div n="lb"/>{#sADAraRa#} (f. {#RI#}).</div>
+{@POPULAR:@}¦ <div n="I">I Pertaining to or prevailing
+among the people: </div><div n="1">(1) by comp., <div n="xe">{%hearing%}
+{%p. rumours:%}</div> <div n="xs">{#lokavAdaSravaRAt,#}</div> R. xiv. 61.; </div><div n="1">(2)
+{#lOkika#} (f. {#kI#}), <div n="xe">{%p. instruction:%}</div> <div n="xs">{#lOkikI SikzA#}</div>:
+v. People. </div><div n="I">II In general favour: </div><div n="1">(1)
+{#lokapriya#} (f. {#yA#}); </div><div n="1">(2) {#janapriya#} (f. {#yA#}); and
+sim. comp.s. </div><div n="I">III Vulgar, common: q. v.:
+{#sADAraRa#} (f. {#RI#}).</div>
 <LEND>

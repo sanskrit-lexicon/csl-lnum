@@ -1,36 +1,32 @@
 <L>83092<pc>6-0241<k1>raw<k2>raw
-{#raw#}¦, {#ra/wati#} ({#pariBAzaRe#}, 
-<ls>VOP.</ls> {#vAci#}) 
-<ls>DHĀTUP. 9, 10.</ls> {%heulen, brüllen, schreien, krächzen, laut wehklagen%}: {#papAta rAkzaso BUmO rarAwa ca BayaMkaram#} 
-<ls>BHAṬṬ. 14,81.</ls> <ls>Verz. d. Oxf. H. 257,a,16.</ls> {#karawA (= uzwrAH) rewuH#} 
-<ls>BHAṬṬ. 14, 5.</ls> {#GorAScArAwizuH SivAH#} 
-<ls>15, 27.</ls> {#rawanto vAyasAH#} 
-<ls>MṚCCH. 157, 10.</ls> {#karawa tvaM rawa#} 
-<ls>Spr. 2813.</ls> {#rawantaH karawAH kawu#} 
-<ls>KĀŚĪKH. 68 53</ls> <ls>?(nach AUFRECHT).</ls> {#rawanti martyasaMGAH#} 
-<ls>VARĀH. BṚH. S. 19, 7.</ls> 
-<ls>KATHĀS. 18, 109.</ls> vom Laute eines fallenden Beils: {#°pawurawadBoraDAraH#} (nach einem 
-<ls>Schol.</ls> {#pawur - awa°) kuWAraH#} 
-<ls>PRAB. 5, 10.</ls> vom Laut einer Glocke: {#pawu rawati GaRwA#} 
-<ls>MĀLATĪM. 74, 20.</ls> {%rauschen, rauschend reden%}: {#mAGe sAsi rawantyApaH kiMcidaByudite ravO . brahmaGnamapi cARqAlaM kaM patantaM punImahe ..#} 
-<ls>WILSON, Sel. Works 2, 183.</ls> {%laut verkünden%}: {#rawantIha purARAni#} 
-<ls>WEBER, KṚṢṆAJ. 221.</ls> {%zujauchzen%}, mit acc.: {#janagaRarawitEstajjayEH#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 7, 9,</ls> <ls>Śl. 30.</ls> {#rawita#} <lex>n.</lex> {%Geschrei%}: {#rawitESca karkarewoH#} 
-<ls>RĀJA-TAR. 2, 168.</ls> {#BrAtaScAtaka kiM vfTAtirawitEH#} 
-<ls>Spr. 3503.</ls> = {#kuharita#} 
-<ls>H. an. 4, 104.</ls> — {#rawantI#} s. bes. Vgl. {#raW#} .
-
-<div n="p">— caus. {#rawa/yati#} dass. 
-<ls>KĀŚ.</ls> zu <ls>DHĀTUP. 35, 65.</ls>
-
-<div n="p">— intens. {%schreien, krächzen%}: {#krOYcIM BayArtAmiva rArawantIm#} 
-<ls>R. GORR. 2, 77, 32.</ls> {#karawo rArawItyezaH#} 
-<ls>KĀŚĪKH. 56, 26</ls> <ls>?(nach AUFRECHT).</ls>
-
-<div n="p">— {#A#} {%schreien, kreischen%} 
-<ls>KATHĀS. 23, 36. 70, 94.</ls> 
-<ls>BHAṬṬ. 3, 38, v. l.</ls> 
+{#raw#}¦, {#ra/wati#} ({#pariBAzaRe#},
+<ls>VOP.</ls> {#vAci#})
+<ls>DHĀTUP. 9,10.</ls> {%heulen, brüllen, schreien, krächzen, laut wehklagen%}: {#papAta rAkzaso BUmO rarAwa ca BayaMkaram#}
+<ls>BHAṬṬ. 14,81.</ls> <ls>Verz. d. Oxf. H. 257,a,16.</ls> {#karawA#} (= {#uzwrAH) rewuH#}
+<ls>BHAṬṬ. 14,5.</ls> {#GorAScArAwizuH SivAH#}
+<ls n="BHAṬṬ.">15,27.</ls> {#rawanto vAyasAH#}
+<ls>MṚCCH. 157,10.</ls> {#karawa tvaM rawa#}
+<ls>Spr. 2813.</ls> {#rawantaH karawAH kawu#}
+<ls>KĀŚĪKH. 68 53</ls> (nach <ls>AUFRECHT</ls>). {#rawanti martyasaMGAH#}
+<ls>VARĀH. BṚH. S. 19,7.</ls>
+<ls>KATHĀS. 18,109.</ls> vom Laute eines fallenden Beils: {#°pawurawadBoraDAraH#} (nach einem
+<ls>Schol.</ls> {#pawur — awa°) kuWAraH#}
+<ls>PRAB. 5,10.</ls> vom Laut einer Glocke: {#pawu rawati GaRwA#}
+<ls>MĀLATĪM. 74,20.</ls> {%rauschen, rauschend reden%}: {#mAGe sAsi rawantyApaH kiMcidaByudite ravO . brahmaGnamapi cARqAlaM kaM patantaM punImahe ..#}
+<ls>WILSON, Sel. Works 2,183.</ls> {%laut verkünden%}: {#rawantIha purARAni#}
+<ls>WEBER, KṚṢṆAJ. 221.</ls> {%zujauchzen%}, mit acc.: {#janagaRarawitEstajjayEH#} Inschr. in
+<ls>Journ. of the Am. Or. S. 7,9, Śl. 30.</ls> {#rawita#} <lex>n.</lex> {%Geschrei%}: {#rawitESca karkarewoH#}
+<ls>RĀJA-TAR. 2,168.</ls> {#BrAtaScAtaka kiM vfTAtirawitEH#}
+<ls>Spr. 3503.</ls> = {#kuharita#}
+<ls>H. an. 4,104.</ls> — {#rawantI#} s. bes. Vgl. {#raW#} .
+<div n="p">— caus. {#rawa/yati#} dass.
+<ls>KĀŚ.</ls> zu <ls>DHĀTUP. 35,65.</ls>
+<div n="p">— intens. {%schreien, krächzen%}: {#krOYcIM BayArtAmiva rArawantIm#}
+<ls>R. GORR. 2,77,32.</ls> {#karawo rArawItyezaH#}
+<ls>KĀŚĪKH. 56,26</ls> (nach <ls>AUFRECHT</ls>).
+<div n="p">— {#A#} {%schreien, kreischen%}
+<ls>KATHĀS. 23,36.</ls> <ls n="KATHĀS.">70,94.</ls>
+<ls>BHAṬṬ. 3,38, v. l.</ls>
 <div n="v">— Vgl. {#Arawi#} .
-
 <div n="p">— {#pari#} vgl. {#parirAwaka#} fg.
 <LEND>

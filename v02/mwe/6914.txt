@@ -1,7 +1,7 @@
 <L>6914<pc>155-b<k1>darkness<k2>darkness
-<div n="lb"/>DARKNESS¦, {%s.%} {#anDakAraH, tamaH#} {%n.%} {#(s), timiraM, tamisraM, tamasaM, DvAntaM,#}
-<div n="lb"/>{#nirAlokatA, sAnDakAratvaM, nizpraBatA, anDaM, SArvaraM, rAtrivAsaH#} {%n.%} {#(s),#}
-<div n="lb"/>{#niSAcarmma#} {%n.%} {#(n), BUcCAyA, Kaluk#} {%m.%} ({#j#}); ‘slight darkness,’
-<div n="lb"/>{#avatamasaM;#} ‘great darkness,’ {#anDatamasaM, tamastatiH#} {%f.;%} ‘universal
-<div n="lb"/>darkness,’ {#santamasaM,#}
+DARKNESS¦, {%s.%} {#anDakAraH, tamaH#} {%n.%} {#(s), timiraM, tamisraM, tamasaM, DvAntaM,#}
+{#nirAlokatA, sAnDakAratvaM, nizpraBatA, anDaM, SArvaraM, rAtrivAsaH#} {%n.%} {#(s),#}
+{#niSAcarmma#} {%n.%} {#(n), BUcCAyA, Kaluk#} {%m.%} ({#j#}); ‘slight darkness,’
+{#avatamasaM;#} ‘great darkness,’ {#anDatamasaM, tamastatiH#} {%f.;%} ‘universal
+darkness,’ {#santamasaM,#}
 <LEND>

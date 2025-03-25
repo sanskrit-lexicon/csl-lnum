@@ -1,130 +1,127 @@
 <L>37260<pc>4-0001<k1>na<k2>na<h>1
-1. {#na#}¦ indecl. <is>gaṇa</is> {#svarAdi#} zu 
-<ls>P. 1, 1, 37.</ls> 
-<div n="1"> 1) {%nicht%} 
-<ls>NIR. 1, 4.</ls> 
-<ls>AK. 3, 5, 11.</ls> 
-<ls>H. 1539.</ls> 
-<ls>MED. avy. 40.</ls> {#nendra^M de\vama^maMsata#} 
-<ls>ṚV. 10, 86, 1.</ls> <ls n="ṚV. 10, 86,">6.</ls> {#I\yurarTa\M na nya\rTam#} 
-<ls n="ṚV.">7, 18, 9.</ls> <ls n="ṚV. 7, 18,">20.</ls> <ls n="ṚV. 7,">21, 5.</ls> <ls n="ṚV. 7,">57, 3.</ls> {#(BayasTAnasahasrARi) mUQamAviSanti na paRqitam#} {%bemächtigen sich des Thoren, nicht des Weisen%} 
-<ls>MBH. 3, 62.</ls> {#goptAraM na niDInAM mahayanti maheSvaraM vibuDAH#} {%nicht den Hüter der Schatze, wohl aber den grossen Herrn verehren die Weisen%} 
-<ls>PAÑCAT. II, 72.</ls> {#budDirasti na vA#} 
-<ls>ŚUK. 43, 9.</ls> Auch bei einer Bitte, einem Wunsche, einem Gebote: {#na mA^ garanna\dya^H#} 
-<ls>ṚV. 1, 158, 5.</ls> <ls n="ṚV.">2, 30, 7.</ls> {#na no^ gf\hARA\mupa^ tItapAsi#} 
-<ls>AV. 6, 32, 1.</ls> {#mayA te 'ntarhitaM rUpaM na tvAM vidyurjanA iti#} 
-<ls>N. 14, 14.</ls> {#kzatriyErDAryate SastraM nArtaSabdo Bavediti#} 
-<ls>R. 3, 14,</ls> <ls>?3; vgl. u. 3.</ls> {#ativAdAMstitikzeta nAvamanyeta kaM ca na#} 
-<ls>M. 6, 47. 55.</ls> Vor einem imperat. dagegen steht immer {#mA#} und {#nEvaM vada#} 
-<ls>PAÑCAT. 42, 12</ls> ist ohne allen Zweifel zu ändern. Eben so steht {#mA#} und nicht {#na#} vor einem aor. ohne Augment, der die Stelle eines imperat. vertritt. Eine Ausnahme haben wir in der Stelle: {#SarmizWAmADAstalpe na karhicit#} 
-<ls>BHĀG. P. 9, 18, 30</ls>, wo {#mA#} das Versmaass stören würde. Dagegen wird 
-<ls>MBH. 5, 6032</ls> statt {#nEvaM manaH kfTAH#} wohl {#mEvaM#} zu lesen sein. In einer Antwort kann bei {#na#} statt des aor. auch das praes. stehen nach 
-<ls>P. 3, 2, 121.</ls> {#akArzIH kim na karomi#} oder {#nAkArzam#} <ls>Sch.</ls> In aneinandergereihten Sätzen oder Satzgliedern wird die Negation einfach wiederholt, oder sie wird an zweiter oder fernerer Stelle durch die verbindenden Partikeln {#uta, ca, api, cApi, vA, aTa vA#} verstärkt: {#na vA\M dyAvo 'ha^Bi\rnota sinDa^vo\ na de^va\tvaM pa\Rayo\ nAna^Surma\Gam#} 
-<ls>ṚV. 1, 151, 9.</ls> {#na cedBAro BavitA nota roDaH#} 
-<ls>MBH. 5, 2225.</ls> {#pratiSravaRasaMBAze SayAno na samAcaret . nAsIno na ca BuYjAno na tizWanna parANmuKaH ..#} 
-<ls>M. 2, 195.</ls> {#dUrasTo nArcayedenaM na krudDo nAntike striyAH#} 
-<ls>202. 3, 8. 9. 4, 15. 37. 79.</ls> {#nADIyItASvamArUQo na vfkzaM na ca hastinam . na nAvaM na KaraM nozwraM neriRasTo na yAnagaH ..#} 
-<ls>120.</ls> <ls>HIT. Pr. 11.</ls> {#praviSantaM na mAM kaScidapaSyannApyavArayat#} 
-<ls>N. 3, 24.</ls> 
-<ls>R. 1, 54, 10.</ls> {#nAhamasyAraRyasya devatA . na cApyasya girerviprA nEva nadyASca devatA ..#} 
-<ls>N. 12, 54.</ls> {#nAtiSramApanayanAya na ca SramAya#} 
-<ls>ŚĀK. 103.</ls> 
-<ls>RAGH. 8, 9.</ls> 
-<ls>VID. 307.</ls> {#kftaM na karRArpitabanDanaM saKe SirIzamAgaRqavilambikeSaram . na vA SaraccandramarIcikomalaM mfRAlasUtraM racitaM stanAntare ..#} 
+1. {#na#}¦ indecl. <is>gaṇa</is> {#svarAdi#} zu
+<ls>P. 1,1,37.</ls>
+<div n="1"> 1) {%nicht%}
+<ls>NIR. 1,4.</ls>
+<ls>AK. 3,5,11.</ls>
+<ls>H. 1539.</ls>
+<ls>MED. avy. 40.</ls> {#nendra^M de\vama^maMsata#}
+<ls>ṚV. 10,86,1.</ls> <ls n="ṚV. 10,86,">6.</ls> {#I\yurarTa\M na nya\rTam#}
+<ls n="ṚV.">7,18,9.</ls> <ls n="ṚV. 7,18,">20.</ls> <ls n="ṚV. 7,">21,5.</ls> <ls n="ṚV. 7,">57,3.</ls> {#(BayasTAnasahasrARi) mUQamAviSanti na paRqitam#} {%bemächtigen sich des Thoren, nicht des Weisen%}
+<ls>MBH. 3,62.</ls> {#goptAraM na niDInAM mahayanti maheSvaraM vibuDAH#} {%nicht den Hüter der Schatze, wohl aber den grossen Herrn verehren die Weisen%}
+<ls>PAÑCAT. II,72.</ls> {#budDirasti na vA#}
+<ls>ŚUK. 43,9.</ls> Auch bei einer Bitte, einem Wunsche, einem Gebote: {#na mA^ garanna\dya^H#}
+<ls>ṚV. 1,158,5.</ls> <ls n="ṚV.">2,30,7.</ls> {#na no^ gf\hARA\mupa^ tItapAsi#}
+<ls>AV. 6,32,1.</ls> {#mayA te 'ntarhitaM rUpaM na tvAM vidyurjanA iti#}
+<ls>N. 14,14.</ls> {#kzatriyErDAryate SastraM nArtaSabdo Bavediti#}
+<ls>R. 3,14,3</ls>; vgl. u. 3. {#ativAdAMstitikzeta nAvamanyeta kaM ca na#}
+<ls>M. 6,47.</ls> <ls n="M. 6,">55.</ls> Vor einem imperat. dagegen steht immer {#mA#} und {#nEvaM vada#}
+<ls>PAÑCAT. 42,12</ls> ist ohne allen Zweifel zu ändern. Eben so steht {#mA#} und nicht {#na#} vor einem aor. ohne Augment, der die Stelle eines imperat. vertritt. Eine Ausnahme haben wir in der Stelle: {#SarmizWAmADAstalpe na karhicit#}
+<ls>BHĀG. P. 9,18,30</ls>, wo {#mA#} das Versmaass stören würde. Dagegen wird
+<ls>MBH. 5,6032</ls> statt {#nEvaM manaH kfTAH#} wohl {#mEvaM#} zu lesen sein. In einer Antwort kann bei {#na#} statt des aor. auch das praes. stehen nach
+<ls>P. 3,2,121.</ls> {#akArzIH kim na karomi#} oder {#nAkArzam#} <ls>Sch.</ls> In aneinandergereihten Sätzen oder Satzgliedern wird die Negation einfach wiederholt, oder sie wird an zweiter oder fernerer Stelle durch die verbindenden Partikeln {#uta, ca, api, cApi, vA, aTa vA#} verstärkt: {#na vA\M dyAvo 'ha^Bi\rnota sinDa^vo\ na de^va\tvaM pa\Rayo\ nAna^Surma\Gam#}
+<ls>ṚV. 1,151,9.</ls> {#na cedBAro BavitA nota roDaH#}
+<ls>MBH. 5,2225.</ls> {#pratiSravaRasaMBAze SayAno na samAcaret . nAsIno na ca BuYjAno na tizWanna parANmuKaH ..#}
+<ls>M. 2,195.</ls> {#dUrasTo nArcayedenaM na krudDo nAntike striyAH#}
+<ls n="M. 2,">202.</ls> <ls n="M.">3,8.</ls> <ls n="M. 3,">9.</ls> <ls n="M.">4,15.</ls> <ls n="M. 4,">37.</ls> <ls n="M. 4,">79.</ls> {#nADIyItASvamArUQo na vfkzaM na ca hastinam . na nAvaM na KaraM nozwraM neriRasTo na yAnagaH ..#}
+<ls n="M. 4,">120.</ls> <ls>HIT. Pr. 11.</ls> {#praviSantaM na mAM kaScidapaSyannApyavArayat#}
+<ls>N. 3,24.</ls>
+<ls>R. 1,54,10.</ls> {#nAhamasyAraRyasya devatA . na cApyasya girerviprA nEva nadyASca devatA ..#}
+<ls>N. 12,54.</ls> {#nAtiSramApanayanAya na ca SramAya#}
+<ls>ŚĀK. 103.</ls>
+<ls>RAGH. 8,9.</ls>
+<ls>VID. 307.</ls> {#kftaM na karRArpitabanDanaM saKe SirIzamAgaRqavilambikeSaram . na vA SaraccandramarIcikomalaM mfRAlasUtraM racitaM stanAntare ..#}
 <ls>ŚĀK. 145.</ls> {#nEva kroDaM gamizyAmi na ca vakzye kaTaM ca na . aTa vA nocCvasizyAmi#}
 [Page4-0002]
-
-<ls>R. 1, 64, 18.</ls> Dieses ist das {#na#}, welches als Synonym von {#utAho, yadi vA, yadvA#} und {#kiM vA#} 
-<ls>TRIK. 3, 4, 4</ls> aufgeführt wird. Sehr häufig wird die Negation auch nicht wiederholt und statt ihrer stehen einfach {#vA, api vA, ca#}.{# yo naraH . na hfzyati glAyati vA#} 
-<ls>M. 2, 98.</ls> {#DarmArTO yatra na syAtAM SuSrUzA vApi tadviDA#} 
-<ls>112.</ls> {#nEva kvApi prapaSyanti nalaM vA BImaputrikAm#} 
-<ls>N. 16, 5.</ls> {#na te BayaM naravyAGra daMzwriByaH Satruto 'pi vA . brahmarziByaSca kutaH#} 
-<ls>14, 18.</ls> {#nAbrAhmaRe gurO Sizyo vAsamAtyantikaM vaset . brAhmaRe cAnanUcAne#} 
-<ls>M. 2, 242.</ls> {#na brAhmaRasya tvatiTirgfhe rAjanya ucyate . vESyaSUdrO saKA cEva jYAtayo gurureva ca ..#} 
-<ls>3, 110. 103. 280. 4, 84. 133.</ls> {#nocCidyAdAtmano mUlaM parezAM cAtitfzRayA#} 
-<ls>7, 139.</ls> {#saMpadi yasya na harzo vipadi vizAdo raRe ca DIratvam#} {%wer im Glück sich nicht freut, im Unglück nicht verzweifelt und in der Schlacht beherzt ist%} ad 
-<ls>HIT. I, 28.</ls> Hier haben die Ausgaben nach {#vizAdo#} ein {#na#}, welches aber das Metrum, wie schon 
-<ls>LASSEN</ls> bemerkt hat, nicht leidet. Nicht selten ist auch der Fall, dass die Negation an zwei oder mehr Stellen gesetzt, an einer anderen aber wieder weggelassen wird: {#nASnIyAdBAryayA sArDaM nEnAmIkzeta cASnatIm . kzuvatIM jfmBamARAM vA na cAsInAM yaTAsuKam ..#} 
-<ls>M. 4, 43.</ls> {#nAYjayantIM svake netre na cAByaktAmanAvftAm . na paSyetprasavatIM ca#} 
-<ls>44.</ls> {#na pARipAdacapalo na netracapalo 'nfjuH . na syAdvAkcapalaScEva na paradrohakarmaDIH ..#} 
-<ls>177.</ls> {#na rAjYAmaGadozo 'sti vratinAM na ca sattriRAm#} 
-<ls>5, 93.</ls> {#tatra kuprAvato nAsIddaridro vA purottame . nAmfzwaBuNna cAdAtA nAsuganDo na cAnfjuH ..#} 
-<ls>R. 1, 6, 8.</ls> {#na devezu na yakzezu tAdfgrUpavatI kvacit . mAnuzezvapi cAnyezu dfzwapUrvATa vA SrutA ..#} 
-<ls>N. 1, 13.</ls> {#nAhaM SatasahasreRa nApi kowiSatErgavAm . rAjandAsyAmi SabalAM rASiBI rajatasya vA ..#} 
-<ls>R. 1, 53, 11.</ls> Geru schliesst sich {#na#} unmittelbar an eine oder zwei andere Partikel; Beispiele für {#na ca, na cApi, nApi, nota, na vA#} und {#nEva#} haben wir schon oben gehabt. {#na cEva#} (von einander getrennt 
-<ls>2, 56</ls>) <ls>M. 4, 55. 9, 89.</ls> {#nApi ca#} 
-<ls>4, 47.</ls> {#na tu#} (von einander getrennt 
-<ls>3, 144) 3, 120. 4, 33. 251. 5, 157.</ls> {#na tveva#} 
-<ls>10, 94. 95.</ls> {#na tveva tu#} 
-<ls>5, 37.</ls> {#na cet#} s. unter {#cew#} 4, und {#na Kalu#} unter {#Kalu#}.{# na ha#} <is>gaṇa</is> {#cAwi#} zu 
-<ls>P. 1, 4. 57.</ls> Diese letzte Verbindung bewirkt, dass das Verbum finitum seinen Ton bewahrt, wenn unter der Form einer in der Zukunft negirten Thätigkeit ein Verbot ausgesprochen wird. 
-<ls>P. 8, 1, 31.</ls> {#na ha Bokzyase, na #}
+<ls>R. 1,64,18.</ls> Dieses ist das {#na#}, welches als Synonym von {#utAho, yadi vA, yadvA#} und {#kiM vA#}
+<ls>TRIK. 3,4,4</ls> aufgeführt wird. Sehr häufig wird die Negation auch nicht wiederholt und statt ihrer stehen einfach {#vA, api vA, ca#}.{# yo naraH . na hfzyati glAyati vA#}
+<ls>M. 2,98.</ls> {#DarmArTO yatra na syAtAM SuSrUzA vApi tadviDA#}
+<ls n="M. 2,">112.</ls> {#nEva kvApi prapaSyanti nalaM vA BImaputrikAm#}
+<ls>N. 16,5.</ls> {#na te BayaM naravyAGra daMzwriByaH Satruto 'pi vA . brahmarziByaSca kutaH#}
+<ls n="N.">14,18.</ls> {#nAbrAhmaRe gurO Sizyo vAsamAtyantikaM vaset . brAhmaRe cAnanUcAne#}
+<ls>M. 2,242.</ls> {#na brAhmaRasya tvatiTirgfhe rAjanya ucyate . vESyaSUdrO saKA cEva jYAtayo gurureva ca ..#}
+<ls n="M.">3,110.</ls> <ls n="M. 3,">103.</ls> <ls n="M. 3,">280.</ls> <ls n="M.">4,84.</ls> <ls n="M. 4,">133.</ls> {#nocCidyAdAtmano mUlaM parezAM cAtitfzRayA#}
+<ls n="M.">7,139.</ls> {#saMpadi yasya na harzo vipadi vizAdo raRe ca DIratvam#} {%wer im Glück sich nicht freut, im Unglück nicht verzweifelt und in der Schlacht beherzt ist%} ad
+<ls>HIT. I,28.</ls> Hier haben die Ausgaben nach {#vizAdo#} ein {#na#}, welches aber das Metrum, wie schon
+<ls>LASSEN</ls> bemerkt hat, nicht leidet. Nicht selten ist auch der Fall, dass die Negation an zwei oder mehr Stellen gesetzt, an einer anderen aber wieder weggelassen wird: {#nASnIyAdBAryayA sArDaM nEnAmIkzeta cASnatIm . kzuvatIM jfmBamARAM vA na cAsInAM yaTAsuKam ..#}
+<ls>M. 4,43.</ls> {#nAYjayantIM svake netre na cAByaktAmanAvftAm . na paSyetprasavatIM ca#}
+<ls n="M. 4,">44.</ls> {#na pARipAdacapalo na netracapalo 'nfjuH . na syAdvAkcapalaScEva na paradrohakarmaDIH ..#}
+<ls n="M. 4,">177.</ls> {#na rAjYAmaGadozo 'sti vratinAM na ca sattriRAm#}
+<ls n="M.">5,93.</ls> {#tatra kuprAvato nAsIddaridro vA purottame . nAmfzwaBuNna cAdAtA nAsuganDo na cAnfjuH ..#}
+<ls>R. 1,6,8.</ls> {#na devezu na yakzezu tAdfgrUpavatI kvacit . mAnuzezvapi cAnyezu dfzwapUrvATa vA SrutA ..#}
+<ls>N. 1,13.</ls> {#nAhaM SatasahasreRa nApi kowiSatErgavAm . rAjandAsyAmi SabalAM rASiBI rajatasya vA ..#}
+<ls>R. 1,53,11.</ls> Geru schliesst sich {#na#} unmittelbar an eine oder zwei andere Partikel; Beispiele für {#na ca, na cApi, nApi, nota, na vA#} und {#nEva#} haben wir schon oben gehabt. {#na cEva#} (von einander getrennt
+<ls n="R. 1,">2,56</ls>) <ls>M. 4,55.</ls> <ls n="M.">9,89.</ls> {#nApi ca#}
+<ls n="M.">4,47.</ls> {#na tu#} (von einander getrennt
+<ls n="M.">3,144</ls>) <ls n="M.">3,120.</ls> <ls n="M.">4,33.</ls> <ls n="M. 4,">251.</ls> <ls n="M.">5,157.</ls> {#na tveva#}
+<ls n="M.">10,94.</ls> <ls n="M. 10,">95.</ls> {#na tveva tu#}
+<ls n="M.">5,37.</ls> {#na cet#} s. unter {#cew#} 4, und {#na Kalu#} unter {#Kalu#}.{# na ha#} <is>gaṇa</is> {#cAwi#} zu
+<ls>P. 1,4,57.</ls> Diese letzte Verbindung bewirkt, dass das Verbum finitum seinen Ton bewahrt, wenn unter der Form einer in der Zukunft negirten Thätigkeit ein Verbot ausgesprochen wird.
+<ls>P. 8,1,31.</ls> {#na ha Bokzyase, na #}
 [Page4-0003]
-{# hADyezyase#} so v. a. {%du wirst nicht essen, du wirst nicht lesen, das sage ich dir in allem Ernst%} <ls>Sch.</ls> In dem Beispeile {#na ha vE tasmiMSca loke dakziRAmicCanti#} ist das Verb. fin. nicht orthotonirt, ebend. {#na ha#} mit einem potent. 
-<ls>M. 9, 270.</ls> Vgl. {#nanu, nahi, no, cana, hina#} . Zwei Negationen in demselben Satze bilden eine verstärkte Bejahung: {#na kaTaMcidDi me pApA na vaDyA ye suradvizaH#} 
-<ls>ARJ. 10, 17.</ls> {#na Kalvetanna kuryAM ca vacanam#} 
-<ls>R. 6, 106, 16.</ls> {#na tu jAtu na#} ({%über Kurz oder Lang gewiss%}) {#hiMsyustvAM rAmalakzmaRasAyakAH . apavfttA mahAvegA yadi tvaM nAgamizyasi ..#} 
-<ls>4, 54, 19.</ls> <ls>MEGH. 64. 105.</ls> {#neyaM na vakzyati manogatamADihetum#} 
-<ls>ŚĀK. 59.</ls> {#na punaralaMkAraSriyaM na puzyati#} 
-<ls>?10, 6. VIKR. 29. RAGH. 6, 30. UTT. RĀMAC. 124, 5. ŚIŚ. 1, 55. VOP. S. 176.</ls> Aehnlich {#nAdaRqyo nAma rAjYo 'sti#} {%soll nicht unbestraft bleiben%} so v. a. {%soll jedenfalls bestraft werden%} 
-<ls>M. 8, 335.</ls> {#na ca na paricito na cApyaramyaH#} 
-<ls>MĀLAV. 10.</ls> {#nAstyagatirmanoraTAnAm#} 
-<ls>VIKR. 26, 3.</ls> In den folgenden Beispielen heben die zwei Negationen die Verneinung nicht auf: {#nEtErapUtErviDivadApadyapi hi karhicit . brAhmAnyOnAMSca saMbanDAnna caredbrAhmaRaH saha ..#} 
-<ls>M. 2, 40.</ls> Wenn {#na#} einen einzelnen Begriff verneint, bildet es mit dem nachfolgenden Worte wohl eine Zusammensetzung (vgl. 
-<ls>VOP. 6, 9</ls>) und fallt dann ganz mit dem {#a#} priv. zusammen: {#(daRqAH) anudvegakarA nFRAM satvaco nAgnidUzitAH#} 
-<ls>M. 2, 47.</ls> {#Saktito nABiDAvanto nirvAsyAH#} 
-<ls>9, 274.</ls> {#BUyizWaM ca narendrARAM vidyate naSuBA gatiH#} 
-<ls>MBH. 13, 3932.</ls> {#kftvA nasukaraM karma#} 
-<ls>8, 185. 14, 1768.</ls> {#saMgrAme nAtikovidam#} 
-<ls>4, 1303. N. 25, 16.</ls> {#nAtidUre#} 
-<ls>HIḌ. 1, 51.</ls> 
-<ls>ŚĀK. 110.</ls> 
-<ls>RAGH. 3, 67. 4, 8.</ls> {#natadvidAm#} (bei 
-<ls>BURNOUF</ls> getrennt geschrieben) 
-<ls>BHĀG. P. 5, 4, 13.</ls> {#navidvaMs#} 
-<ls>6, 3, 30.</ls> {#namfta#} 
-<ls>5, 8, 26.</ls> {#nadUzitaDiyaH#} 
-<ls>7, 5, 56.</ls> {#BUyo nAgamanAya#} 
-<ls>VID. 215.</ls> {#nADIta#} 
-<ls>HIT. Pr. 23.</ls> {#nAnuraktA#} 
-<ls>?I, 85, v. I.</ls> Ja sogar {#nEva#} findet sich auf diese Weise verbunden: {#varaM garBasrAvo varamftuzu nEvABigamanam#} 
-<ls>PAÑCAT. Pr. 8.</ls> {#nEvasaMjYAnAsaMjYAyatana#} 
-<ls>BURNOUF</ls> in Lot. de la b. l. 813. {#nEvasaMjYAsamADi#} 
-<ls>HIOUEN-THSANG I, 367.</ls> In den nachstehenden Beispielen wird man mit mehr Recht {#na#} vom folgenden Worte trennen dürfen, da man hier noch deutlich durchfühlt, dass {#na#} ein Praedicat oder ein Subject negirt: {#(tAn) na daRqyAnmanurabravIt#} {%von diesen hat%} <is>Manu</is> {%erklärt, dass sie der Strafe nicht unterlägen%}, 
-<ls>M. 8, 242.</ls> {#vastramalaMkAram#} u. s. w. {#na viBAjyaM pracakzate#} 
-<ls>9, 219.</ls> {#Cedane cEva yantrARAM yoktraraSmyostaTEva ca . Akrande cApyapEhIti na daRqaM manurabravIt ..#} An dieser Stelle ist auch der Gebrauch von {#na#} vor runden Zahlen zu erwähnen. Die Negation zeigt an, dass in Wirklichkeit diese Zahl nicht voll sei; was daran fehlt wird im instr. oder abl. ({#ekAM na#} ist allem Anschein nach nur ungenaue Schreibweise für {#ekAnna#}) dem {#na#} vorgesetzt. im 
-<ls>ŚAT. BR.</ls> findet keine Composition statt, dagegen scheint in der späteren Sprache {#ekAnna#} (vgl. 
-<ls>P. 6, 3, 76</ls>) mit einem folgenden Zehner ein Compositum zu bilden. {#e\kayA na\ viMSati\H#} 
-<ls>ŚAT. BR. 10, 4, 3, 15.</ls> {#e\kayA na\ triMSa\t#} 18. {#paYca\Birna\ catvA\ri SatA\ni#} 
-<ls>19. 14.</ls> {#ekena na viMSatiH#} 
-<ls>P. 6. 3, 76,</ls> 
-<ls>Sch.</ls> {#e\kAM na\ triMSa\t#} 
-<ls>ŚAT. BR. 6, 2, 2, 37. 9, 2, 3, 47.</ls> {#ekAnnapaYcASadrAtra#} 
-<ls>KĀTY.</ls> 
-<ls>ŚR. 24. 2, 37. 3, 36.</ls> {#ekAnnaviMSatiH#} (oder {#ekAdBaviMSatiH#}) 
-<ls>P. 6, 3, 76,</ls> 
-<ls>Sch.</ls> 
-<ls>VOP. 6, 36.</ls> 
-<ls>TAITT. UP. 3, 11.</ls> {#eka^syE\#} (statt des abl.) {#na pa^YcA\Sat#} 
-<ls>TS. 7, 4, 7, 3. 1.</ls> 
-<div n="1">— 2) {%damit nicht, auf dass nicht%}; mit dem potent.: {#pitustvameva me gatvA SIGramAcakzva rAGava . na tvAmanudahetkrudDaH#} 
-<ls>DAŚ. 1, 41.</ls> {#taM prasAdaya gatvA tvaM na tvAM sa kupito Sapet#} 
-<ls>42.</ls> {#na gacCema fzerBItA anunezyanti taM nfpam#} 
-<ls>R. 1, 8, 20.</ls> 
-<ls>MBH. 1, 6040. 3, 16945.</ls> Vgl. u. 1 am Anfange die Stellen 
-<ls>N. 14,14 </ls> und <ls>R. 3, 14, 3.</ls>
+{# hADyezyase#} so v. a. {%du wirst nicht essen, du wirst nicht lesen, das sage ich dir in allem Ernst%} <ls>Sch.</ls> In dem Beispeile {#na ha vE tasmiMSca loke dakziRAmicCanti#} ist das Verb. fin. nicht orthotonirt, ebend. {#na ha#} mit einem potent.
+<ls>M. 9,270.</ls> Vgl. {#nanu, nahi, no, cana, hina#} . Zwei Negationen in demselben Satze bilden eine verstärkte Bejahung: {#na kaTaMcidDi me pApA na vaDyA ye suradvizaH#}
+<ls>ARJ. 10,17.</ls> {#na Kalvetanna kuryAM ca vacanam#}
+<ls>R. 6,106,16.</ls> {#na tu jAtu na#} ({%über Kurz oder Lang gewiss%}) {#hiMsyustvAM rAmalakzmaRasAyakAH . apavfttA mahAvegA yadi tvaM nAgamizyasi ..#}
+<ls n="R.">4,54,19.</ls> <ls>MEGH. 64. 105.</ls> {#neyaM na vakzyati manogatamADihetum#}
+<ls>ŚĀK. 59.</ls> {#na punaralaMkAraSriyaM na puzyati#}
+<ls n="ŚĀK.">10,6.</ls> <ls>VIKR. 29.</ls> <ls>RAGH. 6,30.</ls> <ls>UTT. RĀMAC. 124,5.</ls> <ls>ŚIŚ. 1,55.</ls> <ls>VOP. S. 176.</ls> Aehnlich {#nAdaRqyo nAma rAjYo 'sti#} {%soll nicht unbestraft bleiben%} so v. a. {%soll jedenfalls bestraft werden%}
+<ls>M. 8,335.</ls> {#na ca na paricito na cApyaramyaH#}
+<ls>MĀLAV. 10.</ls> {#nAstyagatirmanoraTAnAm#}
+<ls>VIKR. 26,3.</ls> In den folgenden Beispielen heben die zwei Negationen die Verneinung nicht auf: {#nEtErapUtErviDivadApadyapi hi karhicit . brAhmAnyOnAMSca saMbanDAnna caredbrAhmaRaH saha ..#}
+<ls>M. 2,40.</ls> Wenn {#na#} einen einzelnen Begriff verneint, bildet es mit dem nachfolgenden Worte wohl eine Zusammensetzung (vgl.
+<ls>VOP. 6,9</ls>) und fallt dann ganz mit dem {#a#} priv. zusammen: {#(daRqAH) anudvegakarA nFRAM satvaco nAgnidUzitAH#}
+<ls>M. 2,47.</ls> {#Saktito nABiDAvanto nirvAsyAH#}
+<ls n="M.">9,274.</ls> {#BUyizWaM ca narendrARAM vidyate naSuBA gatiH#}
+<ls>MBH. 13,3932.</ls> {#kftvA nasukaraM karma#}
+<ls n="MBH.">8,185.</ls> <ls n="MBH.">14,1768.</ls> {#saMgrAme nAtikovidam#}
+<ls n="MBH.">4,1303.</ls> <ls>N. 25,16.</ls> {#nAtidUre#}
+<ls>HIḌ. 1,51.</ls>
+<ls>ŚĀK. 110.</ls>
+<ls>RAGH. 3,67.</ls> <ls n="RAGH.">4,8.</ls> {#natadvidAm#} (bei
+<ls>BURNOUF</ls> getrennt geschrieben)
+<ls>BHĀG. P. 5,4,13.</ls> {#navidvaMs#}
+<ls n="BHĀG. P.">6,3,30.</ls> {#namfta#}
+<ls n="BHĀG. P.">5,8,26.</ls> {#nadUzitaDiyaH#}
+<ls n="BHĀG. P.">7,5,56.</ls> {#BUyo nAgamanAya#}
+<ls>VID. 215.</ls> {#nADIta#}
+<ls>HIT. Pr. 23.</ls> {#nAnuraktA#}
+<ls n="HIT.">I,85, v. l.</ls> Ja sogar {#nEva#} findet sich auf diese Weise verbunden: {#varaM garBasrAvo varamftuzu nEvABigamanam#}
+<ls>PAÑCAT. Pr. 8.</ls> {#nEvasaMjYAnAsaMjYAyatana#}
+<ls>BURNOUF</ls> in Lot. de la b. l. 813. {#nEvasaMjYAsamADi#}
+<ls>HIOUEN-THSANG I,367.</ls> In den nachstehenden Beispielen wird man mit mehr Recht {#na#} vom folgenden Worte trennen dürfen, da man hier noch deutlich durchfühlt, dass {#na#} ein Praedicat oder ein Subject negirt: {#(tAn) na daRqyAnmanurabravIt#} {%von diesen hat%} <is>Manu</is> {%erklärt, dass sie der Strafe nicht unterlägen%},
+<ls>M. 8,242.</ls> {#vastramalaMkAram#} u. s. w. {#na viBAjyaM pracakzate#}
+<ls n="M.">9,219.</ls> {#Cedane cEva yantrARAM yoktraraSmyostaTEva ca . Akrande cApyapEhIti na daRqaM manurabravIt ..#} An dieser Stelle ist auch der Gebrauch von {#na#} vor runden Zahlen zu erwähnen. Die Negation zeigt an, dass in Wirklichkeit diese Zahl nicht voll sei; was daran fehlt wird im instr. oder abl. ({#ekAM na#} ist allem Anschein nach nur ungenaue Schreibweise für {#ekAnna#}) dem {#na#} vorgesetzt. im
+<ls>ŚAT. BR.</ls> findet keine Composition statt, dagegen scheint in der späteren Sprache {#ekAnna#} (vgl.
+<ls>P. 6,3,76</ls>) mit einem folgenden Zehner ein Compositum zu bilden. {#e\kayA na\ viMSati\H#}
+<ls>ŚAT. BR. 10,4,3,15.</ls> {#e\kayA na\ triMSa\t#} 18. {#paYca\Birna\ catvA\ri SatA\ni#}
+<ls n="ŚAT. BR.">19. 14.</ls> {#ekena na viMSatiH#}
+<ls>P. 6,3,76</ls>, <ls>Sch.</ls>
+{#e\kAM na\ triMSa\t#}
+<ls>ŚAT. BR. 6,2,2,37.</ls> <ls n="ŚAT. BR.">9,2,3,47.</ls> {#ekAnnapaYcASadrAtra#}
+<ls>KĀTY.</ls>
+<ls>ŚR. 24. 2,37. 3,36.</ls> {#ekAnnaviMSatiH#} (oder {#ekAdBaviMSatiH#})
+<ls>P. 6,3,76</ls>, <ls>Sch.</ls>
+<ls>VOP. 6,36.</ls>
+<ls>TAITT. UP. 3,11.</ls> {#eka^syE\#} (statt des abl.) {#na pa^YcA\Sat#}
+<ls>TS. 7,4,7,3. 1.</ls>
+<div n="1">— 2) {%damit nicht, auf dass nicht%}; mit dem potent.: {#pitustvameva me gatvA SIGramAcakzva rAGava . na tvAmanudahetkrudDaH#}
+<ls>DAŚ. 1,41.</ls> {#taM prasAdaya gatvA tvaM na tvAM sa kupito Sapet#}
+<ls n="DAŚ. 1,">42.</ls> {#na gacCema fzerBItA anunezyanti taM nfpam#}
+<ls>R. 1,8,20.</ls>
+<ls>MBH. 1,6040.</ls> <ls n="MBH.">3,16945.</ls> Vgl. u. 1 am Anfange die Stellen
+<ls>N. 14,14</ls> und <ls>R. 3,14,3.</ls>
 [Page4-0004]
-
-<div n="1">— 3) Vergleichunspartikel: {%wie, gleichsam%} 
-<ls>NIR. 1, 4.</ls> 
-<ls>MED. avy. 40.</ls> {#yadvE devAnAM neti tadezAmo3miti#} 
-<ls>AIT. BR. 1, 16.</ls> {#yadvE netyfcyomiti tat#} 
-<ls>ŚAT. BR. 1, 4, 1, 30.</ls> In dieser Bedeutung, welche später ganz verloren geht (im späten Kunstgedicht taucht sie wieder auf), bereits im 
-<ls>AV.</ls> selten. {#nAva\M na pa\rzaRi^m#} 
-<ls>ṚV. 1, 131, 2.</ls> {#vi pf^cCAmi pA\kyA\3^\ na de\vAn#} 
-<ls n="ṚV. 1,">120, 4.</ls> <ls n="ṚV.">6, 2, 1.</ls> <ls n="ṚV. 6, 2,">8.</ls> <ls n="ṚV. 6, 2,">9.</ls> {#yava\M na da^sma ju\hvA^ vivekzi#} 
-<ls n="ṚV.">7, 3, 4.</ls> {#sva1^\rRa vasto^ru\zasA^maroci ya\jYaM ta^nvA\nA u\Sijo\ na manma^#} 
-<ls n="ṚV. 7,">10, 2.</ls> <ls n="ṚV. 7,">13, 3.</ls> <ls n="ṚV. 7,">18, 15.</ls> {#ava^ sya SU\rADva^no\ nAnte^#} 
-<ls n="ṚV.">4, 16, 2.</ls> {#virarAja ripukzayapratijYAmuKaro muktaSiKaH svayaM na mftyuH#} 
-<ls>ŚIŚ.</ls> <ls>?-20, 4.</ls> Die ursprüngliche, negirende Bedeutung der Partikel lässt sich hier recht wohl nachweisen: indem man einem Dinge ein ihm sonst nicht zukommendes Praedicat beilegt, liegt es nahe, dessen materielle Identität mit einem andern Dinge, welchem dieses Praedicat ganz eigentlich zukommt, zu negiren. Ob ich sage: {%er wiehert wie ein Pferd%}, oder: {%er wiehert, obgleich er kein Pferd ist%}, oder endlich: {%er wiehert, als wenn er ein Pferd wäre%}, läuft schliesslich auf Eins hinaus. Vgl. u. 3. {#a#} 1,b. — Ueber {#na#}, wo es mit {#varam#} oder {#Sreyas#} in Correlation steht, wird unter {#vara#} und {#SreyaMs#} die Rede sein.
+<div n="1">— 3) Vergleichunspartikel: {%wie, gleichsam%}
+<ls>NIR. 1,4.</ls>
+<ls>MED. avy. 40.</ls> {#yadvE devAnAM neti tadezAmo3miti#}
+<ls>AIT. BR. 1,16.</ls> {#yadvE netyfcyomiti tat#}
+<ls>ŚAT. BR. 1,4,1,30.</ls> In dieser Bedeutung, welche später ganz verloren geht (im späten Kunstgedicht taucht sie wieder auf), bereits im
+<ls>AV.</ls> selten. {#nAva\M na pa\rzaRi^m#}
+<ls>ṚV. 1,131,2.</ls> {#vi pf^cCAmi pA\kyA\3^\ na de\vAn#}
+<ls n="ṚV. 1,">120,4.</ls> <ls n="ṚV.">6,2,1.</ls> <ls n="ṚV. 6,2,">8.</ls> <ls n="ṚV. 6,2,">9.</ls> {#yava\M na da^sma ju\hvA^ vivekzi#}
+<ls n="ṚV.">7,3,4.</ls> {#sva1^\rRa vasto^ru\zasA^maroci ya\jYaM ta^nvA\nA u\Sijo\ na manma^#}
+<ls n="ṚV. 7,">10,2.</ls> <ls n="ṚV. 7,">13,3.</ls> <ls n="ṚV. 7,">18,15.</ls> {#ava^ sya SU\rADva^no\ nAnte^#}
+<ls n="ṚV.">4,16,2.</ls> {#virarAja ripukzayapratijYAmuKaro muktaSiKaH svayaM na mftyuH#}
+<ls>ŚIŚ. 20,4.</ls> Die ursprüngliche, negirende Bedeutung der Partikel lässt sich hier recht wohl nachweisen: indem man einem Dinge ein ihm sonst nicht zukommendes Praedicat beilegt, liegt es nahe, dessen materielle Identität mit einem andern Dinge, welchem dieses Praedicat ganz eigentlich zukommt, zu negiren. Ob ich sage: {%er wiehert wie ein Pferd%}, oder: {%er wiehert, obgleich er kein Pferd ist%}, oder endlich: {%er wiehert, als wenn er ein Pferd wäre%}, läuft schliesslich auf Eins hinaus. Vgl. u. 3. {#a#} 1,b. — Ueber {#na#}, wo es mit {#varam#} oder {#Sreyas#} in Correlation steht, wird unter {#vara#} und {#SreyaMs#} die Rede sein.
 <LEND>

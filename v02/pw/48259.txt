@@ -1,12 +1,12 @@
-<L>48259<pc>3059-3<k1>tvar<k2>tvar<e>500
-{#tvar#}¦ , {#tva/rate#} (episch auch <ab>Act.</ab>) {%eilen , schnell bei der Hand sein , eilen zu%} (<ab>Dat.</ab> oder <ab>Loc.</ab> eines <ab>Nom.</ab> act. oder <ab>Infin.</ab>). {#tvarita , , tUrta/#} (<ls>ŚAT.BR.</ls>). und {#tUrRa#} (selten) {%eilend , schnell , geschwind schnell bei der Hand , eilend zu%} (<ab>Loc.</ab> eines <ab>Nom.</ab> act. oder <ab>Infin.</ab>). {#tvaritam#} und {#tUrRam#} <ab>Adv.</ab> {%eilends , schnell.%} {#tvaritaM tvaritam#} <ls>KĀRAṆḌ.58,3.</ls> {#tvaritodita#} und {#tUrRodita#} {%schnell ausgesprochen.%} Compar. <ab>Adv.</ab> {#tvaritataram#} und {#tUrRataram#}.
+<L>48259<pc>3-059-c<k1>tvar<k2>tvar
+√{#tvar#}¦, {#tva/rate#} (episch auch <ab>Act.</ab>) {%eilen, schnell bei der Hand sein, eilen zu%} (<ab>Dat.</ab> oder <ab>Loc.</ab> eines <ab>Nom.</ab> <ab>act.</ab> oder <ab>Infin.</ab>). {#tvarita, tUrta/#} (<ls>ŚAT. BR.</ls>) und {#tUrRa#} (selten) {%eilend, schnell, geschwind schnell bei der Hand, eilend zu%} (<ab>Loc.</ab> eines <ab>Nom.</ab> <ab>act.</ab> oder <ab>Infin.</ab>). {#tvaritam#} und {#tUrRam#} <lex>Adv.</lex> {%eilends, schnell%}. {#tvaritaM tvaritam#} <ls>KĀRAṆḌ. 58,3</ls>. {#tvaritodita#} und {#tUrRodita#} {%schnell ausgesprochen%}. <ab>Compar.</ab> <lex>Adv.</lex> {#tvaritataram#} und {#tUrRataram#}.
 <div n="m">— <ab>Caus.</ab>
-<div n="1">— 1) {#tvara/yati#} (episch auch <ab>Med.</ab>) {%zur Eile antreiben%} <ls>AV.12,3,31.</ls> ( {%antreiben zu%} (<ab>Acc.</ab> mit oder ohne {#prati#} , <ab>Dat.</ab> eines <ab>Nom.</ab> act. oder <ab>Infin.</ab>).
-<div n="1">— 2) {#tvArayati#} (!) {%rasch befördern zu%} {#daDiBAvAya#} so v.a. {%schnell in saure Milch verwandeln%} <ls>ŚAṂK.zu.BĀDAR.2,1,24</ls> (S. 476 , z. 5).
-<div n="p">— Mit {#ati#} {%sehr eilen , — zu%} (<ab>Infin.</ab>).
-<div n="p">— Mit {#aBi#} {%eilen.%} {#°tvarita#} {%eilend , schnell bei der Hand.%}
-<div n="p">— Mit {#pari#} {%herumeilen.%}
-<div n="p">— Mit {#pra#} {%eilen zu%} (<ab>Dat.</ab> eines <ab>Nom.</ab> act.). {#pra/tUrta#} und {#pratUrRa#} (<ls>HARṢAC.16,1</ls>) {%überaus rasch.%}
-<div n="p">— Mit {#sam#} {%eilen.%} {#saMtvarita#} {%eilend%} , {#°m#} {%eilends , schnell.%}
-<div n="m">— <ab>Caus.</ab> {#saMtvarayati#} {%eilen heissen , zur Eile antreiben%} {#prARAH saMtvarayanti mAm#} so v.a. {%mir bleibt nicht viel Zeit zum Leben übrig.%}
+<div n="1">— 1〉 {#tvara/yati#} (episch auch <ab>Med.</ab>) {%zur Eile antreiben%} <ls>AV. 12,3,31</ls>. {%antreiben zu%} (<ab>Acc.</ab> mit oder ohne {#prati#}, <ab>Dat.</ab> eines <ab>Nom.</ab> <ab>act.</ab> oder <ab>Infin.</ab>).
+<div n="1">— 2〉 {#tvArayati#} (!) {%rasch befördern zu%} {#daDiBAvAya#} so <ab>v. a.</ab> {%schnell in saure Milch verwandeln%} <ls>ŚAṂK. zu BĀDAR. 2,1,24 (S. 476, z. 5)</ls>.
+<div n="p">— Mit {#ati#} {%sehr eilen, — zu%} (<ab>Infin.</ab>).
+<div n="p">— Mit {#aBi#} {%eilen%}. {#°tvarita#} {%eilend, schnell bei der Hand%}.
+<div n="p">— Mit {#pari#} {%herumeilen%}.
+<div n="p">— Mit {#pra#} {%eilen zu%} (<ab>Dat.</ab> eines <ab>Nom.</ab> <ab>act.</ab>). {#pra/tUrta#} und {#pratUrRa#} (<ls>HARṢAC. 16,1</ls>) {%überaus rasch%}.
+<div n="p">— Mit {#sam#} {%eilen%}. {#saMtvarita#} {%eilend,%} {#°m#} {%eilends, schnell%}.
+<div n="m">— <ab>Caus.</ab> {#saMtvarayati#} {%eilen heissen, zur Eile antreiben%} {#prARAH saMtvarayanti mAm#} so <ab>v. a.</ab> {%mir bleibt nicht viel Zeit zum Leben übrig%}.
 <LEND>

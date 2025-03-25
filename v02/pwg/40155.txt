@@ -1,28 +1,28 @@
 <L>40155<pc>4-0250<k1>nizWura<k2>nizWura
-{#nizWura#}¦ <lex>adj.</lex> <lex>f.</lex> {#A#} {%rauh, hart, roh%} 
-<ls>AK. 3, 2, 25.</ls> 
-<ls>H. 1386.</ls> 
-<ls>HĀR. 253.</ls> {#SaNKa#} 
-<ls>Spr. 114.</ls> von Personen 
-<ls>MBH. 5, 886. 1245. 12, 2704.</ls> 
-<ls>SUŚR. 2, 533, 7.</ls> 
-<ls>MṚCCH. 86, 5.</ls> {#pragalBaH syAdanizWuraH#} 
-<ls>HIT. III, 101.</ls> <ls>KATHĀS. 18, 132.</ls> <ls>MĀRK. P. 16, 17.</ls> {#°mAnasa#} 
-<ls>23, 9.</ls> von Reden 
-<ls>AK. 1, 1, 5, 19.</ls> 
-<ls>H. 269.</ls> 
-<ls>HALĀY. 1, 140.</ls> {#vacastasya vajranirGAtanizWuram#} 
-<ls>ŚIVA-P.</ls> bei <ls>AUFRECHT, HALĀY.</ls> <ls>MBH. 3, 16191. 5, 1435.</ls> {#paruzaM ye na BAzante kawukaM nizWuraM taTA#} 
-<ls>13, 6645.</ls> <ls>R. 2, 98, 15.</ls> <ls>R. GORR. 1, 61, 16.</ls> {#giro dAruRanizWurAkzarAH#} 
-<ls>2, 62, 43.</ls> <ls>SUŚR. 1, 105, 8.</ls> <ls>KĀM. NĪTIS. 5, 41.</ls> <ls>RĀJA-TAR. 4, 224.</ls> {#nizWurARyapi ca bruvan#} 
-<ls>Spr. 178.</ls> 
-<ls>PAÑCAT. 171, 10.</ls> {#nizWuratarErvacanEH#} 
-<ls>207, 15.</ls> {#saMrabDahastipakanizWuracodanABiH#} (nach der Lesart des 
-<ls>Schol.</ls>) <ls>ŚIŚ. 5, 49.</ls> {%harte Worte ausstossend%} 
-<ls>KATHĀS. 11, 22. 18, 108.</ls> — {#vyavasAyaH pratipattinizWuraH#} 
-<ls>RAGH. 8, 64.</ls> {#SastravyavahAranizWure vipakzaBAve#} 
-<ls>3, 62.</ls> {#DanEH#} 
-<ls>PAÑCAT. II, 123.</ls> {#hiMsrA Bavatu te budDiretAsu kuru nizWuram#} 
-<ls>BHAṬṬ. 20, 3.</ls> {%schamlos%} 
+{#nizWura#}¦ <lex>adj.</lex> <lex>f.</lex> {#A#} {%rauh, hart, roh%}
+<ls>AK. 3,2,25.</ls>
+<ls>H. 1386.</ls>
+<ls>HĀR. 253.</ls> {#SaNKa#}
+<ls>Spr. 114.</ls> von Personen
+<ls>MBH. 5,886.</ls> <ls n="MBH. 5,">1245.</ls> <ls n="MBH.">12,2704.</ls>
+<ls>SUŚR. 2,533,7.</ls>
+<ls>MṚCCH. 86,5.</ls> {#pragalBaH syAdanizWuraH#}
+<ls>HIT. III,101.</ls> <ls>KATHĀS. 18,132.</ls> <ls>MĀRK. P. 16,17.</ls> {#°mAnasa#}
+<ls n="MĀRK. P.">23,9.</ls> von Reden
+<ls>AK. 1,1,5,19.</ls>
+<ls>H. 269.</ls>
+<ls>HALĀY. 1,140.</ls> {#vacastasya vajranirGAtanizWuram#}
+<ls>ŚIVA-P.</ls> bei <ls>AUFRECHT, HALĀY.</ls> <ls>MBH. 3,16191.</ls> <ls n="MBH.">5,1435.</ls> {#paruzaM ye na BAzante kawukaM nizWuraM taTA#}
+<ls n="MBH.">13,6645.</ls> <ls>R. 2,98,15.</ls> <ls>R. GORR. 1,61,16.</ls> {#giro dAruRanizWurAkzarAH#}
+<ls n="R. GORR.">2,62,43.</ls> <ls>SUŚR. 1,105,8.</ls> <ls>KĀM. NĪTIS. 5,41.</ls> <ls>RĀJA-TAR. 4,224.</ls> {#nizWurARyapi ca bruvan#}
+<ls>Spr. 178.</ls>
+<ls>PAÑCAT. 171,10.</ls> {#nizWuratarErvacanEH#}
+<ls n="PAÑCAT.">207,15.</ls> {#saMrabDahastipakanizWuracodanABiH#} (nach der Lesart des
+<ls>Schol.</ls>) <ls>ŚIŚ. 5,49.</ls> {%harte Worte ausstossend%}
+<ls>KATHĀS. 11,22.</ls> <ls n="KATHĀS.">18,108.</ls> — {#vyavasAyaH pratipattinizWuraH#}
+<ls>RAGH. 8,64.</ls> {#SastravyavahAranizWure vipakzaBAve#}
+<ls n="RAGH.">3,62.</ls> {#DanEH#}
+<ls>PAÑCAT. II,123.</ls> {#hiMsrA Bavatu te budDiretAsu kuru nizWuram#}
+<ls>BHAṬṬ. 20,3.</ls> {%schamlos%}
 <ls>HĀR.</ls> — Wird auf {#sTA#} zurückgeführt; vgl. {#nizWUrin#} .
 <LEND>

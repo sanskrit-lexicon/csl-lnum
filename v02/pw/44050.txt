@@ -1,3 +1,3 @@
-<L>44050<pc>3001-2<k1>takraBid<k2>*takraBid<e>100
-{#*takraBid#}¦ {%die Frucht von <bot>Feronia elephantum</bot>.%}
+<L>44050<pc>3-001-b<k1>takraBid<k2>*takraBid
+*{#takraBid#}¦ {%die Frucht von <bot>Feronia elephantum</bot>%}.
 <LEND>

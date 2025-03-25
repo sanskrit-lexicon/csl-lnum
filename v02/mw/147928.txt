@@ -1,14 +1,14 @@
 <L>147928<pc>744,2<k1>BaYj<k2>BaYj<h>1<e>1
-<hom>1.</hom> <s>BaYj</s> ¦ <ab>cl.</ab> 7. <ab>P.</ab> (<ls>Dhātup. xxix, 16</ls>) <s>Banakti</s> (<ab>pf.</ab> <s>baBa/Yja</s>, <ls>RV.</ls> &c., 3. <ab>pl.</ab> <ab>Ā.</ab> <s>baBaYjire</s>, <ls>Hariv.</ls>; <ab>aor.</ab> <s>aBANkzIt</s>, <ls>MBh.</ls>; <ab>fut.</ab> <s>BaNkzyati</s>, <s>°ktA</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>BaNktvA</s>, <s>BaktvA</s> or <s>-Bajya</s>, <ls>ib.</ls>), 
+<hom>1.</hom> <s>BaYj</s> ¦ <ab>cl.</ab> 7. <ab>P.</ab> (<ls>Dhātup. xxix, 16</ls>) <s>Banakti</s> (<ab>pf.</ab> <s>baBa/Yja</s>, <ls>RV.</ls> &c., 3. <ab>pl.</ab> <ab>Ā.</ab> <s>baBaYjire</s>, <ls>Hariv.</ls>; <ab>aor.</ab> <s>aBANkzIt</s>, <ls>MBh.</ls>; <ab>fut.</ab> <s>BaNkzyati</s>, <s>°ktA</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>BaNktvA</s>, <s>BaktvA</s> or <s>-Bajya</s>, <ls>ib.</ls>),
 <div n="to"/>to break, shatter, split, <ls>RV.</ls> &c. &c.;
 <div n="to"/>to break into, make a breach in (a fortress, with <ab>acc.</ab>), <ls>Hit.</ls>;
 <div n="to"/>to rout, put to flight, defeat (an army), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Rājat.</ls>;
 <div n="to"/>to dissolve (an assembly), <ls>Hcar.</ls>;
-<div n="to"/>to break up <ab>i.e.</ab> divide (a <s1 slp1="sUtra">Sūtra</s1>), <ls>Siddh.</ls>;
+<div n="to"/>to break up <ab>i.e.</ab> divide (a <s1>Sūtra</s1>), <ls>Siddh.</ls>;
 <div n="to"/>to bend, <ls>R.</ls>;
 <div n="to"/>to check, arrest, suspend, frustrate, disappoint, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
-<div n="vp"/><ab>Pass.</ab> <s>Bajya/te</s> (<ab>ep.</ab> also <s>°ti</s>; <ab>aor.</ab> <s>aBAji</s> or <s>aBaYji</s>, <ls>Pāṇ. 6-4, 33</ls>), 
-<div n="to"/>to be broken or break (intr.) &c., <ls>AV.</ls> &c. &c.:
+<div n="vp"/><ab>Pass.</ab> <s>Bajya/te</s> (<lang>ep.</lang> also <s>°ti</s>; <ab>aor.</ab> <s>aBAji</s> or <s>aBaYji</s>, <ls>Pāṇ. vi, 4, 33</ls>),
+<div n="to"/>to be broken or break (<ab>intr.</ab>) &c., <ls>AV.</ls> &c. &c.:
 <div n="vp"/><ab>Caus.</ab> <s>BaYjayati</s> (<ab>aor.</ab> <s>abaBaYjat</s>) <ab>Gr.</ab>:
 <div n="vp"/><ab>Desid.</ab> <s>biBaNkzati</s>, <ls>ib.</ls> :
 <div n="vp"/><ab>Intens.</ab> <s>bamBajyate</s> or <s>°jIti</s>, <ls>ib.</ls><info westergaard="Banjo,29.16,07.0021"/><info whitneyroots="BaYj,108"/><info verb="genuineroot" cp="7P,7Ā"/>

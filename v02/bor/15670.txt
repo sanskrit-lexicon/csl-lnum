@@ -1,10 +1,10 @@
 <L>15670<pc>480<k1>obligation<k2>obligation
-<div n="lb"/>{@OBLIGATION:@}¦ <div n="I">I Binding moral power: </div><div n="1">(1)
-<div n="lb"/>{#banDaH#} (= bond); </div><div n="1">(2) {#DarmaH#} (= duty). </div><div n="I">II A
-<div n="lb"/>contract: q.v.: {#saMvid#} (f.). </div><div n="I">III Indebted-
-<div n="lb"/>-ness: {%under o.%} expr. by {#fRin#} (f, {#nI#})
-<div n="lb"/>(= indebted), <div n="xe">{%or%}</div> <div n="xs">{#upakftaH#}</div> ({#tA, taM#}) (= done [Page481]
-<div n="lb"/>good to) <div n="xe">{%or%}</div> <div n="xs">{#anugfhItaH#}</div> ({#tA, taM#}) (= favoured)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#badDa#}</div> (f. {#dDA#}), <div n="xe">{%his generosity lay the whole vill-%}
-<div n="lb"/>{%age under o.:%}</div> <div n="xs">{#*grAmaH samagrastasya dayAlutayA badDaH.#}</div></div>
+{@OBLIGATION:@}¦ <div n="I">I Binding moral power: </div><div n="1">(1)
+{#banDaH#} (= bond); </div><div n="1">(2) {#DarmaH#} (= duty). </div><div n="I">II A
+contract: q.v.: {#saMvid#} (f.). </div><div n="I">III Indebted-
+-ness: {%under o.%} expr. by {#fRin#} (f, {#nI#})
+(= indebted), <div n="xe">{%or%}</div> <div n="xs">{#upakftaH#}</div> ({#tA, taM#}) (= done [Page481]
+good to) <div n="xe">{%or%}</div> <div n="xs">{#anugfhItaH#}</div> ({#tA, taM#}) (= favoured)
+<div n="xe">{%or%}</div> <div n="xs">{#badDa#}</div> (f. {#dDA#}), <div n="xe">{%his generosity lay the whole vill-%}
+{%age under o.:%}</div> <div n="xs">{#*grAmaH samagrastasya dayAlutayA badDaH.#}</div></div>
 <LEND>

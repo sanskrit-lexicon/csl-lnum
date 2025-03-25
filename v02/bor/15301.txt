@@ -1,10 +1,10 @@
 <L>15301<pc>468<k1>necessary<k2>necessary
-<div n="lb"/>{@NECESSARY@}¦ (adj.): <div n="I">I Subs., as must be: </div><div n="1">(1)
-<div n="lb"/>{#avaSyamBAvin#} (f. {#nI#}); </div><div n="1">(2) {#avaSyamavya#} (f. {#vyA#}),
-<div n="lb"/>{%in%} ({%all%}) {%n.%} ({%matters%}): {#avaSyaBavyezu,#} N. i. 120.</div>
-<div n="lb"/><div n="I">II Indispensable, requisite: </div><div n="1">(1) {#AvaSyakIyaH#}
-<div n="lb"/>({#yA, yaM#}), <div n="xe">{%satisfying the n. calls of nature:%}</div> <div n="xs">{#SOca-#}
-<div n="lb"/>{#mAvaSyakaM kftvA,#}</div> Mah. s. 193. 4.; </div><div n="1">(2) {#prayojanIyaH#}
-<div n="lb"/>({#yA, yaM#}). </div><div n="I">III Not free: {#paravat#} (f. {#tI#}): v.
-<div n="lb"/>Dependent.</div>
+{@NECESSARY@}¦ (adj.): <div n="I">I Subs., as must be: </div><div n="1">(1)
+{#avaSyamBAvin#} (f. {#nI#}); </div><div n="1">(2) {#avaSyamavya#} (f. {#vyA#}),
+{%in%} ({%all%}) {%n.%} ({%matters%}): {#avaSyaBavyezu,#} N. i. 120.</div>
+<div n="I">II Indispensable, requisite: </div><div n="1">(1) {#AvaSyakIyaH#}
+({#yA, yaM#}), <div n="xe">{%satisfying the n. calls of nature:%}</div> <div n="xs">{#SOca-#}
+{#mAvaSyakaM kftvA,#}</div> Mah. s. 193. 4.; </div><div n="1">(2) {#prayojanIyaH#}
+({#yA, yaM#}). </div><div n="I">III Not free: {#paravat#} (f. {#tI#}): v.
+Dependent.</div>
 <LEND>

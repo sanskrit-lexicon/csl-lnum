@@ -1,16 +1,16 @@
 <L>8545<pc>1-0640<k1>ADvaryava<k2>A/Dvaryava
-{#A/Dvaryava#}¦ (von {#aDvaryu#}) 
-<div n="1"> 1) <lex>adj.</lex> {%zum%} <is>Adhvaryu</is> (d. i. 
-<ls>YAJURVEDA</ls>) {%in Beziehung stehend%} 
-<ls>P. 4, 3, 123.</ls> {#yadi vADvaryavaM rAjA niyunakti purohitam#} 
-<ls>AV.</ls> <ls>PARIŚIṢṬA 1</ls> in <ls>Ind. St. 1, 296, 13.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%der Dienst beim Opfer%}; spec. {%die Function des%} <is>Adhvaryu</is> <is>gaṇa</is> {#udgAtrAdi#} zu 
-<ls>P. 5, 1, 129.</ls> {#aha^raharaSvi\nADva^ryavaM vAm#} 
-<ls>ṚV. 10, 52, 2.</ls> 
-<ls>VS. 28, 19.</ls> {#fgvedenEva hOtramakurvata yajurve denADvaryavaM sAmavedenodgITam#} 
-<ls>ŚAT. BR. 11, 5, 8, 4.</ls> 
-<ls>AIT. BR. 5, 33.</ls> 
-<ls>KĀTY. ŚR. 9, 8, 9. 23, 5, 33. 24, 4, 42. 25, 1, 6.</ls> 
-<ls>NIR. 7, 3.</ls> 
-<ls>MADHUS.</ls> in <ls>Ind. St. 1, 16, 8. 18, 2.</ls>
+{#A/Dvaryava#}¦ (von {#aDvaryu#})
+<div n="1"> 1) <lex>adj.</lex> {%zum%} <is>Adhvaryu</is> (<ab>d. i.</ab>
+<ls>YAJURVEDA</ls>) {%in Beziehung stehend%}
+<ls>P. 4,3,123.</ls> {#yadi vADvaryavaM rAjA niyunakti purohitam#}
+<ls>AV.</ls> <ls>PARIŚIṢṬA 1</ls> in <ls>Ind. St. 1,296,13.</ls>
+<div n="1">— 2) <lex>n.</lex> {%der Dienst beim Opfer%}; spec. {%die Function des%} <is>Adhvaryu</is> <is>gaṇa</is> {#udgAtrAdi#} zu
+<ls>P. 5,1,129.</ls> {#aha^raharaSvi\nADva^ryavaM vAm#}
+<ls>ṚV. 10,52,2.</ls>
+<ls>VS. 28,19.</ls> {#fgvedenEva hOtramakurvata yajurve denADvaryavaM sAmavedenodgITam#}
+<ls>ŚAT. BR. 11,5,8,4.</ls>
+<ls>AIT. BR. 5,33.</ls>
+<ls>KĀTY. ŚR. 9,8,9. 23,5,33. 24,4,42. 25,1,6.</ls>
+<ls>NIR. 7,3.</ls>
+<ls>MADHUS.</ls> in <ls>Ind. St. 1,16,8. 18,2.</ls>
 <LEND>

@@ -1,5 +1,5 @@
 <L>13917<pc>428<k1>lurch<k2>lurch
-<div n="lb"/>{@LURCH@}¦ (subs.): <div n="I">I Of a ship: {#pArSvAvanatiH#} (?).</div>
-<div n="lb"/><div n="I">II Ph.: <div n="xe">{%to leave in the l.:%}</div> <div n="xs">{#kfcCre#}</div> <div n="xe">{%or%}</div> <div n="xs">{#saNkawe #}
-<div n="lb"/>{# parityajati,#}</div> etc.</div>
+{@LURCH@}¦ (subs.): <div n="I">I Of a ship: {#pArSvAvanatiH#} (?).</div>
+<div n="I">II Ph.: <div n="xe">{%to leave in the l.:%}</div> <div n="xs">{#kfcCre#}</div> <div n="xe">{%or%}</div> <div n="xs">{#saNkawe #}
+{# parityajati,#}</div> etc.</div>
 <LEND>

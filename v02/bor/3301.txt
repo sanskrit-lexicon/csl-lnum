@@ -1,12 +1,12 @@
 <L>3301<pc>109<k1>celebrate<k2>celebrate
-<div n="lb"/>{@CELEBRATE@}¦ (v. t.): <div n="I">I To extol: </div><div n="1">(1) {#kIrtayati,#}
-<div n="lb"/>({#kIrt,#} c. 10), <div n="xe">{%to c. one's adventures%}</div> <div n="xs">{#caritAni kIrta#}</div>- [Page110]
-<div n="lb"/>{#yati,#} Ki.; </div><div n="1">(2) {#gAyati, upa-,#} ({#gE,#} c. 1) (in verse or
-<div n="lb"/>song), <div n="xe">{%may your fame be c. d by distinguished%}
-<div n="lb"/>{%men%}</div> <div n="xs">{#SlokaH praSastacaritErupagIyatAM te,#}</div> Vi. vii.;</div>
-<div n="lb"/><div n="1">(3) {#praTayati:#} v. Known, to make. </div><div n="I">II To
-<div n="lb"/>solemnize: </div><div n="1">(1) {#aminandayati#} ({#nand,#} c. l), <div n="xe">{%c d%}
-<div n="lb"/>{%my birth with a festival%}</div> <div n="xs">{#mahotsavena mama janmABi-#}
-<div n="lb"/>{#nanditavAn,#}</div> K.; </div><div n="1">(2) {#anutizWati#} ({#sTA,#} c. 1) (=to
-<div n="lb"/>perform: q. v.).</div>
+{@CELEBRATE@}¦ (v. t.): <div n="I">I To extol: </div><div n="1">(1) {#kIrtayati,#}
+({#kIrt,#} c. 10), <div n="xe">{%to c. one's adventures%}</div> <div n="xs">{#caritAni kIrta#}</div>- [Page110]
+{#yati,#} Ki.; </div><div n="1">(2) {#gAyati, upa-,#} ({#gE,#} c. 1) (in verse or
+song), <div n="xe">{%may your fame be c. d by distinguished%}
+{%men%}</div> <div n="xs">{#SlokaH praSastacaritErupagIyatAM te,#}</div> Vi. vii.;</div>
+<div n="1">(3) {#praTayati:#} v. Known, to make. </div><div n="I">II To
+solemnize: </div><div n="1">(1) {#aminandayati#} ({#nand,#} c. l), <div n="xe">{%c d%}
+{%my birth with a festival%}</div> <div n="xs">{#mahotsavena mama janmABi-#}
+{#nanditavAn,#}</div> K.; </div><div n="1">(2) {#anutizWati#} ({#sTA,#} c. 1) (=to
+perform: q. v.).</div>
 <LEND>

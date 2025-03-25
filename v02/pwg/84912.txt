@@ -1,34 +1,33 @@
 <L>84912<pc>6-0383<k1>ruj<k2>ruj<h>2
-2. {#ruj#}¦ (=  1. {#ruj#}) 
-<div n="1"> 1) <lex>adj.</lex> {%zerbrechend, zerschmetternd%}: {#paravIra°#} 
-<ls>MBH. 5, 2993.</ls> 
-<div n="1">— 2) <lex>f.</lex> {%Schmerz, Krankheit%} 
-<ls>AK. 2, 6, 2, 2. 3, 4, 1, 10. 26, 199.</ls> 
-<ls>H. 462.</ls> 
-<ls>HALĀY. 2, 445.</ls> {#brAhmaRasya rujaH kftyA#} 
-<ls>M. 11, 67.</ls> {#GorA rujastIvrAH#} 
-<ls>HARIV. 10856. fg.</ls> 
-<ls>SUŚR. 1, 58, 15. 70, 1. 165, 4. 2, 2, 1. 5, 1.</ls> 
-<ls>KATHĀS. 27, 186.</ls> 
-<ls>BHĀG. P. 1, 14, 44.</ls> 
-<ls>VARĀH. BṚH. S. 71, 3. 81, 30.</ls> {#rugBaya#} 
-<ls>24, 36. 45, 9. 53, 60.</ls> <ls>RAGH. 19, 52.</ls> {#rujamAdaDAti vipulAm#} 
-<ls>ŚRUT.</ls> <ls>?(BR.) 5.</ls> {#SAntyE rujAm#} 
-<ls>Spr. 775.</ls> {#yadImAmapanezyati . rujam#} 
-<ls>KATHĀS. 29, 164.</ls> {#nfRAM pururujAM ruja ASu hanti#} 
-<ls>BHĀG. P. 2, 7, 21.</ls> {#rujAM nidAnavit#} ({#Bizak#}) 
-<ls>6, 1, 8.</ls> {#mAnasI#} {%Seelenschmerz%}
+2. {#ruj#}¦ (= 1. {#ruj#})
+<div n="1"> 1) <lex>adj.</lex> {%zerbrechend, zerschmetternd%}: {#paravIra°#}
+<ls>MBH. 5,2993.</ls>
+<div n="1">— 2) <lex>f.</lex> {%Schmerz, Krankheit%}
+<ls>AK. 2,6,2,2.</ls> <ls n="AK.">3,4,1,10.</ls> <ls n="AK. 3,4,">26,199.</ls>
+<ls>H. 462.</ls>
+<ls>HALĀY. 2,445.</ls> {#brAhmaRasya rujaH kftyA#}
+<ls>M. 11,67.</ls> {#GorA rujastIvrAH#}
+<ls>HARIV. 10856. fg.</ls>
+<ls>SUŚR. 1,58,15. 70,1. 165,4. 2,2,1. 5,1.</ls>
+<ls>KATHĀS. 27,186.</ls>
+<ls>BHĀG. P. 1,14,44.</ls>
+<ls>VARĀH. BṚH. S. 71,3. 81,30.</ls> {#rugBaya#}
+<ls n="VARĀH. BṚH. S.">24,36. 45,9. 53,60.</ls> <ls>RAGH. 19,52.</ls> {#rujamAdaDAti vipulAm#}
+<ls>ŚRUT.</ls> (<ls>BR.) 5.</ls> {#SAntyE rujAm#}
+<ls>Spr. 775.</ls> {#yadImAmapanezyati . rujam#}
+<ls>KATHĀS. 29,164.</ls> {#nfRAM pururujAM ruja ASu hanti#}
+<ls>BHĀG. P. 2,7,21.</ls> {#rujAM nidAnavit#} ({#Bizak#})
+<ls n="BHĀG. P.">6,1,8.</ls> {#mAnasI#} {%Seelenschmerz%}
 [Page6-0384]
-
-<ls>VIKR. 30.</ls> {#aniSamapi makaraketurmanaso rujamAvahan#} ad 
-<ls>ŚĀK. 54.</ls> {#dfgruj#} {%Augenschmerzen, Augenkrankheit%} 
-<ls>AK. 3, 4, 5, 29.</ls> 
-<ls>VARĀH. BṚH. S. 104, 5.</ls> {#akzi°#} 
-<ls>51, 11. 104, 16.</ls> {#guhya°#} 
-<ls>5, 86.</ls> {#hfdruj#} {%Seelenschmerz%} 
-<ls>BHĀG. P. 4, 6, 47.</ls> {#manasija°#} {%Liebesschmerz%} 
-<ls>VIKR. 51.</ls> {#uddIpitasmara°#} 
-<ls>BHĀG. P. 2, 7, 33.</ls> {#gaRqasvedApanayanarujA#} 
-<ls>MEGH. 27</ls> wohl fehlerhaft für {#°rucA#} {%aus Verlangen, in Folge des eifrigen Bemühens.%} 
+<ls>VIKR. 30.</ls> {#aniSamapi makaraketurmanaso rujamAvahan#} ad
+<ls>ŚĀK. 54.</ls> {#dfgruj#} {%Augenschmerzen, Augenkrankheit%}
+<ls>AK. 3,4,5,29.</ls>
+<ls>VARĀH. BṚH. S. 104,5.</ls> {#akzi°#}
+<ls n="VARĀH. BṚH. S.">51,11. 104,16.</ls> {#guhya°#}
+<ls n="VARĀH. BṚH. S.">5,86.</ls> {#hfdruj#} {%Seelenschmerz%}
+<ls>BHĀG. P. 4,6,47.</ls> {#manasija°#} {%Liebesschmerz%}
+<ls>VIKR. 51.</ls> {#uddIpitasmara°#}
+<ls>BHĀG. P. 2,7,33.</ls> {#gaRqasvedApanayanarujA#}
+<ls>MEGH. 27</ls> wohl fehlerhaft für {#°rucA#} {%aus Verlangen, in Folge des eifrigen Bemühens.%}
 <div n="v">— Vgl. {#a°, grahaRI°, nI°, netra°, pArSva°, mahA°, mAnasa°, muKa°, Siro°#} .
 <LEND>

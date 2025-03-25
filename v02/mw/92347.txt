@@ -1,3 +1,3 @@
-<L>92347<pc>479,1<k1>divAtana<k2>divAtana<h>b<e>2
-<s>divAtana</s> <hom>b</hom> ¦ <lex>mf(<s>I</s>)n.</lex> (<ls>Pāṇ. 4-3, 23</ls>) daily, diurnal, <ls>Kum. iv, 46.</ls><info lex="m:f#I:n"/>
+<L>92347<pc>479,1<k1>divAtana<k2>divAtana<e>2
+<s>divAtana</s> ¦ <lex>mf(<s>I</s>)n.</lex> (<ls>Pāṇ. iv, 3, 23</ls>) daily, diurnal, <ls>Kum. iv, 46.</ls><info lex="m:f#I:n"/><info hui="b"/>
 <LEND>

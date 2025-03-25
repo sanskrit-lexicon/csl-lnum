@@ -1,15 +1,15 @@
 <L>3790<pc>124<k1>clear<k2>clear
-<div n="lb"/>{@CLEAR@}¦ (v. t.): <div n="I">I To make bright: </div><div n="1">(1) {#viSadI-#}
-<div n="lb"/>{#karoti,#} <div n="xe">{%I may c. your sight:%}</div> <div n="xs">{#dfzwiM viSadAM karavARi,#}</div>
-<div n="lb"/>Sa. iii.; </div><div n="1">(2) {#prasAdayati#} (c. of {#sad#}) (rare). </div><div n="I">II
-<div n="lb"/>To exculpate: {#SoDayati#} <div n="xe">{%Kṛṣṇa accepted that%}
-<div n="lb"/>{%precious gem to c. himself:%}</div> <div n="xs">{#acyutastanmaRiratnamAtma-#}
-<div n="lb"/>{#SoDanAya jagrAha,#}</div> V. p. </div><div n="I">III To make open:
-<div n="lb"/>{#SoDayati,#} <div n="xe">{%to c. a road:%}</div> <div n="xs">{#mArgaM SoDayati,#}</div> M. vii.
-<div n="lb"/>185.; <div n="xe">{%with c. ed back:%}</div> <div n="xs">{#SudDapArzRiH,#}</div> R. Ph.: <div n="xe">{%c.%}
-<div n="lb"/>{%ed forests:%}</div> <div n="xs">{#vipinAni prakASAni cakAra,#}</div> R. iv. 31.</div>
-<div n="lb"/><div n="I">IV Of profits: v. To gain. Ph. <div n="xe">{%to c. a%}
-<div n="lb"/>{%doubt:%}</div> <div n="xs">{#saMSayaM Cinatti,#}</div> Da.; {%to c. a debt:%}
-<div n="lb"/>{#fRaM SoDayati,#} K. b.; {%to c.%} (i. e. to leap over) <div n="xe">{%a%}
-<div n="lb"/>{%ditch:%}</div> <div n="xs">{#pariKAm ullaNGayati.#}</div></div>
+{@CLEAR@}¦ (v. t.): <div n="I">I To make bright: </div><div n="1">(1) {#viSadI-#}
+{#karoti,#} <div n="xe">{%I may c. your sight:%}</div> <div n="xs">{#dfzwiM viSadAM karavARi,#}</div>
+Sa. iii.; </div><div n="1">(2) {#prasAdayati#} (c. of {#sad#}) (rare). </div><div n="I">II
+To exculpate: {#SoDayati#} <div n="xe">{%Kṛṣṇa accepted that%}
+{%precious gem to c. himself:%}</div> <div n="xs">{#acyutastanmaRiratnamAtma-#}
+{#SoDanAya jagrAha,#}</div> V. p. </div><div n="I">III To make open:
+{#SoDayati,#} <div n="xe">{%to c. a road:%}</div> <div n="xs">{#mArgaM SoDayati,#}</div> M. vii.
+185.; <div n="xe">{%with c. ed back:%}</div> <div n="xs">{#SudDapArzRiH,#}</div> R. Ph.: <div n="xe">{%c.%}
+{%ed forests:%}</div> <div n="xs">{#vipinAni prakASAni cakAra,#}</div> R. iv. 31.</div>
+<div n="I">IV Of profits: v. To gain. Ph. <div n="xe">{%to c. a%}
+{%doubt:%}</div> <div n="xs">{#saMSayaM Cinatti,#}</div> Da.; {%to c. a debt:%}
+{#fRaM SoDayati,#} K. b.; {%to c.%} (i. e. to leap over) <div n="xe">{%a%}
+{%ditch:%}</div> <div n="xs">{#pariKAm ullaNGayati.#}</div></div>
 <LEND>

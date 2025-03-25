@@ -1,67 +1,63 @@
-<L>65309<pc>4059-3<k1>pA<k2>pA<h>1<e>500
-1. {#pA#}¦ , Präsensstämme: {#pA/ , pip#} (ganz vereinzelt) und {#pi/b#} ; <ab>Act.</ab> , seltener <ab>Med.</ab> ; <ab>Absol.</ab> {#pItvA , *°pAya#} und {#°pIya ; pIyate#} pass.
-<div n="1">— 1) {%trinken , einsaugen , einschlürfen%} ; mit <ab>Acc.</ab> oder partitivem <ab>Gen.</ab> (nur. in der älteren Sprache) des Trankes: Blut {%einsaugen%} (vom Schwert und Pfeil gesagt) ; {%saugen an%} (<ls>252,27</ls>) Staub , Rauch {%einschlucken , einziehen%} ;
-[Page4060-1]
-{%trinken%} auch so. v.a. {%geistige Getränke trinken.%}
-<div n="1">— 2) {%einsaugen.%} so v.a. {%sich zu eigen machen , geniessen%}: so v.a. {%sich zu eigen machen , geniessen%}: mit Augen , Ohren (<ab>Instr.</ab>) {%einsaugen.%} so v.a. {%sich laben an.%} {#jagatAM matam#} {%der Leute Meinungen einsaugen.%} so v.a. {%ablauschen.%}
-<div n="1">— 3) {%aussaugen.%} so v.a. {%erschöpfen%} (einen Schatz) , {%absorbiren , verschwinden machen.%}
-<div n="1">— 4) {#pIta/#}
-<div n="2">— a) mit pass. Bed.
-<div n="3">— α) {%getrunken , eingesogen%} (auch Wasser durch einen Baum <ls>179,9</ls> ), {%gesogen%} (Rauch). {#pItavant#} {%eingesogen habend%} <ls>39,9.</ls>
-<div n="3">— β) {%eingesogen.%} so v.a {%mit den Ohren e.%}
-<div n="3">— γ) {%ausgesogen%} , so v.a. {%erschöpft%} (Schatz) , {%absorbirt%} <ls>KĀD.257,14.</ls>
-<div n="2">— b) mit act Bed.
-<div n="3">— α) {%getrunken habend%} (gewöhnlich in Comp. mit seinem Obj.).
-<div n="3">— β) {%getränkt in Oel eingetaucht%} (Waffe).
-<div n="2">— c) <ls>MBH.12,1722.</ls> fehlerhaft für {#prIta#} ; <ls>BHĀG.P.7,9,32.ist</ls> {#°AtmanipItanidraH#} zu verbinden.
-<div n="m">— <ab>Caus.</ab> {#pAya/yati , °te (pApayati#} fehlerhaft) {%tränken , zu trinken geben%} ; mit doppeltem <ab>Acc.</ab> (<ls>CARAKA.6,11.</ls> ) oder mit partitivem <ab>Gen.</ab> (nur in der älteren Sprache) des Trankes: {%Jmd%} (<ab>Instr.</ab>) {%saugen lassen an%} (<ab>Acc.</ab>) {#pAyita/#}
-<div n="1">— 1) {%was man zu trinken giebt.%}
-<div n="1">— 2) {%getränkt.%}
-<div n="1">— 3) {%getränkt%} , so v.a. {%eingetaucht in%} (im Comp. vorangehend).
-<div n="m">— <ab>Desid.</ab> {#pipAsati#} und {#pi/pIzati#} (nur im <ls>ṚV.</ls> ) {%Etwas trinken wollen , durstig sein.%} {#pipAsant#} (<ls>ŚĀK.72</ls> ) und {#pipAsita#} {%durstig.%}
-<div n="m">— <ab>Desid.</ab> vom <ab>Caus.</ab> {#pipAyayizati#} {%zu trinken zu geben beabsichtigen.%}
+<L>65309<pc>4-059-c<k1>pA<k2>pA<h>1
+<hom>1.</hom> {#pA#}¦, Präsensstämme: {#pA/, pip#} (ganz vereinzelt) und {#pi/b#}; <ab>Act.</ab>, seltener <ab>Med.</ab>; <ab>Absol.</ab> {#pItvA#}, *{#°pAya#} und {#°pIya#}; {#pIyate#} <ab>pass.</ab>
+<div n="1">— 1〉 {%trinken, einsaugen, einschlürfen;%} mit <ab>Acc.</ab> oder partitivem <ab>Gen.</ab> (nur in der älteren Sprache) des Trankes: Blut {%einsaugen%} (vom Schwert und Pfeil gesagt); {%saugen an%} (<ls n="Chr.">252,27</ls>) Staub, Rauch {%einschlucken, einziehen; [Page4-060-a] trinken%} auch so <ab>v. a.</ab> {%geistige Getränke trinken%}.
+<div n="1">— 2〉 {%einsaugen%}. so <ab>v. a.</ab> {%sich zu eigen machen, geniessen:%} so <ab>v. a.</ab> {%sich zu eigen machen, geniessen:%} mit Augen, Ohren (<ab>Instr.</ab>) {%einsaugen%}. so <ab>v. a.</ab> {%sich laben an%}. {#jagatAM matam#} {%der Leute Meinungen einsaugen%}. so <ab>v. a.</ab> {%ablauschen%}.
+<div n="1">— 3〉 {%aussaugen%}. so <ab>v. a.</ab> {%erschöpfen%} (einen Schatz), {%absorbiren, verschwinden machen%}.
+<div n="1">— 4〉 {#pIta/#}
+<div n="2">— a〉 mit <ab>pass.</ab> <ab>Bed.</ab>
+<div n="3">— α〉 {%getrunken, eingesogen%} (auch Wasser durch einen Baum <ls n="Chr.">179,9</ls>), {%gesogen%} (Rauch). {#pItavant#} {%eingesogen habend%} <ls n="Chr.">39,9</ls>.
+<div n="3">— β〉 {%eingesogen,%} so <ab>v. a.</ab> {%mit den Ohren <ab n="eingesogen">e.</ab>%}
+<div n="3">— γ〉 {%ausgesogen,%} so <ab>v. a.</ab> {%erschöpft%} (Schatz), {%absorbirt%} <ls>KĀD. 257,14</ls>.
+<div n="2">— b〉 mit act <ab>Bed.</ab>
+<div n="3">— α〉 {%getrunken habend%} (gewöhnlich in <ab>Comp.</ab> mit seinem <ab>Obj.</ab>).
+<div n="3">— β〉 {%getränkt in Oel eingetaucht%} (Waffe).
+<div n="2">— c〉 <ls>MBH. 12,1722</ls> fehlerhaft für {#prIta#}; <ls>BHĀG. P. 7,9,32</ls> ist {#°AtmanipItanidraH#} zu verbinden.
+<div n="m">— <ab>Caus.</ab> {#pAya/yati, °te#} ({#pApayati#} fehlerhaft) {%tränken, zu trinken geben;%} mit doppeltem <ab>Acc.</ab> (<ls>CARAKA. 6,11</ls>) oder mit partitivem <ab>Gen.</ab> (nur in der älteren Sprache) des Trankes: {%Jmd%} (<ab>Instr.</ab>) {%saugen lassen an%} (<ab>Acc.</ab>) {#pAyita/#}
+<div n="1">— 1〉 {%was man zu trinken giebt%}.
+<div n="1">— 2〉 {%getränkt%}.
+<div n="1">— 3〉 {%getränkt,%} so <ab>v. a.</ab> {%eingetaucht in%} (im <ab>Comp.</ab> vorangehend).
+<div n="m">— <ab>Desid.</ab> {#pipAsati#} und {#pi/pIzati#} (nur im <ls>ṚV.</ls>) {%Etwas trinken wollen, durstig sein%}. {#pipAsant#} (<ls>ŚĀK. 72</ls>) und {#pipAsita#} {%durstig%}.
+<div n="m">— <ab>Desid.</ab> vom <ab>Caus.</ab> {#pipAyayizati#} {%zu trinken zu geben beabsichtigen%}.
 <div n="m">— <ab>Intens.</ab> {#pepIyate#}
-<div n="1">— 1) {%gierig — , wiederholt trinken.%}
-<div n="1">— 2) {%gierig — , wiederholt getrunken werden%} (<ls>Spr.7744</ls> ) {%gierig gesogen werden.%}
-<div n="p">— Mit {#ati#} <ab>Caus.</ab> {%in grosser Menge Jmd Etwas zu trinken geben%} , mit doppeltem <ab>Acc.</ab>
+<div n="1">— 1〉 {%gierig —, wiederholt trinken%}.
+<div n="1">— 2〉 {%gierig —, wiederholt getrunken werden%} (<ls>Spr. 7744</ls>) {%gierig gesogen werden%}.
+<div n="p">— Mit {#ati#} <ab>Caus.</ab> {%in grosser Menge Jmd Etwas zu trinken geben,%} mit doppeltem <ab>Acc.</ab>
 <div n="p">— Mit {#anu#}
-<div n="1">— 1) {%nachher — , später — , darauf trinken.%}
-<div n="1">— 2) {%trinken an%} (<ab>Acc.</ab>) v.l {#ni#}.
-<div n="m">— <ab>Caus.</ab> {%nachher trinken lassen.%}
-<div n="p">— Mit {#antar#} in {#antaHpe/ya#} ,
+<div n="1">— 1〉 {%nachher —, später —, darauf trinken%}.
+<div n="1">— 2〉 {%trinken an%} (<ab>Acc.</ab>) <ab>v. l.</ab> {#ni#}.
+<div n="m">— <ab>Caus.</ab> {%nachher trinken lassen%}.
+<div n="p">— Mit {#antar#} in {#antaHpe/ya#}.
 <div n="p">— Mit {#aBi#}
-<div n="1">— 1) {%davon trinken%} <ls>GOBH.4,10,17.</ls>
-<div n="1">— 2) {#aBipIta#} {%getränkt — , erfüllt von%} (<ab>Instr.</ab>).
+<div n="1">— 1〉 {%davon trinken%} <ls>GOBH. 4,10,17</ls>.
+<div n="1">— 2〉 {#aBipIta#} {%getränkt —, erfüllt von%} (<ab>Instr.</ab>).
 <div n="p">— Mit {#ava#} in {#avapAna#}
-<div n="p">— Mit {#anvava#} {%nach Andern zum Trunke kommen.%}
+<div n="p">— Mit {#anvava#} {%nach Andern zum Trunke kommen%}.
 <div n="p">— Mit {#A#}
-<div n="1">— 1) {%hineintrinken , einschlürfen , trinken%} (<ls>57,8</ls>) {%aus%} (<ab>Abl.</ab>) oder {%an%} (<ab>Acc.</ab>) , {%austrinken , einsaugen , aussaugen , einziehen%} (Rauch) <ls>CARAKA.6,20.</ls>
-<div n="1">— 2) mit Augen , Ohren (<ab>Instr.</ab>) {%einsaugen%} , so v.a. {%sich laben an.%} {#ApIyatam#} so v.a. {%man höre.%}
-<div n="1">— 3) {%absorbiren , verschwinden machen.%}
-<div n="m">— <ab>Caus.</ab> {%einschlürfen lassen.%}
-<div n="p">— Mit {#samA#} {%einsaugen , aussaugen.%}
-<div n="p">— Mit {#ud#}, {#utpibante#} <ls>ŚAT.BR.5,2,4,7.11.</ls> fehlerhaft für {#utpipateH#} <ab>vgl.</ab> 5 , {#pA#}.
-<div n="p">— Mit {#anUd#} <ab>Med.</ab> {%herfallen über , sich stürzen auf%} (<ab>Acc.</ab>) <ls>ŚAT.BR.3,7,1,29.fgg.</ls> Also gleichfalls Verwechselung mit 5. {#pA#}
-<div n="p">— Mit {#upa#} <ab>Caus.</ab> {%tränken%}
-[Page4060-2]
-<ls>MĀN.ŚR.1,2,5.8,3.3,5.</ls> <ls>MĀN.GṚHY.2,4.</ls>
+<div n="1">— 1〉 {%hineintrinken, einschlürfen, trinken%} (<ls n="Chr.">57,8</ls>) {%aus%} (<ab>Abl.</ab>) oder {%an%} (<ab>Acc.</ab>), {%austrinken, einsaugen, aussaugen, einziehen%} (Rauch) <ls>CARAKA. 6,20</ls>.
+<div n="1">— 2〉 mit Augen, Ohren (<ab>Instr.</ab>) {%einsaugen,%} so <ab>v. a.</ab> {%sich laben an%}. {#ApIyatam#} so <ab>v. a.</ab> {%man höre%}.
+<div n="1">— 3〉 {%absorbiren, verschwinden machen%}.
+<div n="m">— <ab>Caus.</ab> {%einschlürfen lassen%}.
+<div n="p">— Mit {#samA#} {%einsaugen, aussaugen%}.
+<div n="p">— Mit {#ud#}, {#utpibante#} <ls>ŚAT. BR. 5,2,4,7. 11</ls> fehlerhaft für {#utpipateH#} <ab>vgl.</ab> <hom>5.</hom> {#pA#}.
+<div n="p">— Mit {#anUd#} <ab>Med.</ab> {%herfallen über, sich stürzen auf%} (<ab>Acc.</ab>) <ls>ŚAT. BR. 3,7,1,29. fgg.</ls> Also gleichfalls Verwechselung mit <hom>5.</hom> {#pA#}
+<div n="p">— Mit {#upa#} <ab>Caus.</ab> {%tränken%} [Page4-060-b] <ls>MĀN. ŚR. 1,2,5. 8,3. 3,5</ls>. <ls>MĀN. GṚHY. 2,4</ls>.
 <div n="p">— Mit {#ni#}
-<div n="1">— 1) {%hineintrinken , einschlürfen , trinken an.%}
-<div n="1">— 2) {%einsaugen.%} so v.a. {%absorbiren verschwinden machen%} <ls>BHĀG.P.7,9,32.</ls> ( {#°AtmanipIta°#} zu verbinden).
-<div n="m">— <ab>Caus.</ab> {%einschlürfen lassen.%}
-<div n="p">— Mit {#vini#} {%begierig einsaugen , sich laben an%} <ls>PRASANNAR.139,13.</ls>
-<div n="p">— Mit {#nis#} {%trinken aus%} (<ab>Abl.</ab>) {%austrinken , aussaugen.%} {#nizyIta#} {%erschöpft%} <ls>CARAKA.1,3.</ls>
+<div n="1">— 1〉 {%hineintrinken, einschlürfen, trinken an%}.
+<div n="1">— 2〉 {%einsaugen%}. so <ab>v. a.</ab> {%absorbiren verschwinden machen%} <ls>BHĀG. P. 7,9,32</ls>. ({#°AtmanipIta°#} zu verbinden).
+<div n="m">— <ab>Caus.</ab> {%einschlürfen lassen%}.
+<div n="p">— Mit {#vini#} {%begierig einsaugen, sich laben an%} <ls>PRASANNAR. 139,13</ls>.
+<div n="p">— Mit {#nis#} {%trinken aus%} (<ab>Abl.</ab>) {%austrinken, aussaugen%}. {#nizyIta#} {%erschöpft%} <ls>CARAKA. 1,3</ls>.
 <div n="p">— Mit {#pari#}
-<div n="1">— 1) {%vor und nach Jmd%} (<ab>Acc.</ab>) {%trinken.%}
-<div n="1">— 2) {%austrinken , aussaugen , ausrauchen%} {#paripItaDUpavarti#} <ls>KĀD.18,6.</ls> {#upanizadaH paripItAH#} so v.a. {%durchstudirt%} <ls>Spr.7772.</ls>
-<div n="1">— 3) {%benehmen , entziehen%} <ls>KĀD.90,13.</ls>
-<div n="1">— 4) {#paripIta#} {%getränkt mit%} (im Comp. vorangehend) <ls>SUŚR.1,1605.</ls>
-<div n="p">— Mit {#pra#} {%sich an's Trinken machen trinken , einschlürfen.%}
-<div n="p">— Mit {#anupra#} <ab>Act.</ab> {%der Reihe nach Etwas trinken%} , <ab>Med.</ab> {%nach Jmd%} (<ab>Acc.</ab>) {%trinken.%}
+<div n="1">— 1〉 {%vor und nach Jmd%} (<ab>Acc.</ab>) {%trinken%}.
+<div n="1">— 2〉 {%austrinken, aussaugen, ausrauchen%} {#paripItaDUpavarti#} <ls>KĀD. 18,6</ls>. {#upanizadaH paripItAH#} so <ab>v. a.</ab> {%durchstudirt%} <ls>Spr. 7772</ls>.
+<div n="1">— 3〉 {%benehmen, entziehen%} <ls>KĀD. 90,13</ls>.
+<div n="1">— 4〉 {#paripIta#} {%getränkt mit%} (im <ab>Comp.</ab> vorangehend) <ls>SUŚR. 1,160,5</ls>.
+<div n="p">— Mit {#pra#} {%sich anʼs Trinken machen trinken, einschlürfen%}.
+<div n="p">— Mit {#anupra#} <ab>Act.</ab> {%der Reihe nach Etwas trinken,%} <ab>Med.</ab> {%nach Jmd%} (<ab>Acc.</ab>) {%trinken%}.
 <div n="p">— Mit {#prati#} in {#pratipAna#}.
 <div n="p">— Mit {#vi#}
-<div n="1">— 1) {%auf- , sich an- , sich voll trinken.%}
-<div n="1">— 2) {%heraus trinken aus%} (<ab>Abl.</ab>) <ls>VS.19,73.</ls>
-<div n="p">— Mit {#sam#} <ab>Act.</ab> {%zusammen hineintrinken%} <ab>Med.</ab> {%zusammen trinken.%}
-<div n="m">— <ab>Caus.</ab> {%trinken lassen.%}
+<div n="1">— 1〉 {%auf-, sich an-, sich voll trinken%}.
+<div n="1">— 2〉 {%heraus trinken aus%} (<ab>Abl.</ab>) <ls>VS. 19,73</ls>.
+<div n="p">— Mit {#sam#} <ab>Act.</ab> {%zusammen hineintrinken%} <ab>Med.</ab> {%zusammen trinken%}.
+<div n="m">— <ab>Caus.</ab> {%trinken lassen%}.
 <LEND>

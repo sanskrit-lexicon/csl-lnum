@@ -1,5 +1,5 @@
 <L>27633<pc>758-a<k1>solstice<k2>solstice
-<div n="lb"/>SOLSTICE¦, {%s.%} {#ayanaM, ayanAntaH, ayanakAlaH, ayanasanDiH#} {%m.,%} {#ayanasanDi-#}
-<div n="lb"/>{#kAlaH, krAntiH#} {%f.,%} {#krAntikAlaH;#} ‘summer solstice,’ {#uttarAyaRaM,#}
-<div n="lb"/>{#uttarakrAntiH;#} ‘winter,’ {#dakziRAyanaM, dakziRakrAntiH#} {%f.,%} {#yAmyAyanaM#}.
+SOLSTICE¦, {%s.%} {#ayanaM, ayanAntaH, ayanakAlaH, ayanasanDiH#} {%m.,%} {#ayanasanDi-#}
+{#kAlaH, krAntiH#} {%f.,%} {#krAntikAlaH;#} ‘summer solstice,’ {#uttarAyaRaM,#}
+{#uttarakrAntiH;#} ‘winter,’ {#dakziRAyanaM, dakziRakrAntiH#} {%f.,%} {#yAmyAyanaM#}.
 <LEND>

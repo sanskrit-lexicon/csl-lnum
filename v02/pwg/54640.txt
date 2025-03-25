@@ -1,69 +1,69 @@
 <L>54640<pc>5-0254<k1>BArgava<k2>BArgava/
-{#BArgava/#}¦ 
-<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} {%von%} <is>Bhaṛgu</is> {%stammend, herrührend, ihm gehörend%} {#vaMSa, gotra#} 
-<ls>MBH. 1, 865.</ls> 
-<ls>HARIV. 1597. 1753.</ls> 
-<ls>Ind. St. 8, 276.</ls> {#vidyA#} 
-<ls>TAITT. UP. 3, 6.</ls> {#DarmAH#} 
-<ls>Verz. d. Oxf. H. 266,b,18.</ls> {#sAman#} 
-<ls>Ind. St.3,227,b.</ls> {#BArgavaM nAma#} {%(das Nomen)%} {#izyate#} 
-<ls>Ind. St. 4, 330.</ls> {#upapurARa#} 
-<ls>Verz. d. Oxf. H. 8</ls>, {%a%}, 
-<ls>?10. Verz. d. B. H. 127, N. MADHUS. in Ind. St. 1, 18, 21. BURNOUF in der Einl. zu BHĀG. P. I, LXXVII.</ls> patron. (der pl. {#BfgavaH)#} 
-<ls>P. 2, 4, 65.</ls> 
-<ls>VOP. 7, 14.</ls> <is>Cyavana</is> 
-<ls>AIT. BR. 8, 21.</ls> 
-<ls>ŚAT. BR. 4, 1, 5, 1.</ls> 
-<ls>MBH. 1, 870. 1928. 13, 207.</ls> 
-<ls>R. 1. 70, 31. 2, 110, 19. fg. (119, 19 GORR.).</ls> <is>Gṛtsamada</is> 
-<ls>ŚĀṄKH. BR. 22, 4.</ls> <is>Dvigat</is> 
-<ls>PAÑCAV. BR. 14, 9, 32.</ls> <is>Dṛśāna</is> 
-<ls>Ind. St. 3, 459.</ls> <is>Iṭala</is> 
-<ls>1, 193.</ls> <is>Mārkaṇḍeya</is> 
-<ls>MBH. 13, 1545.</ls> <is>Śaunaka</is> 
-<ls>1, 1117. <is>Ṛcīka</is></ls> <ls>R. 1, 61, 13. 17.</ls> <is>Jamadagni</is> 
-<ls>R. 1, 51, 11 (52, 11 GORR.).</ls> <is>Paraśurāma</is> 
-<ls>TRIK. 3, 3, 302. 418.</ls> 
-<ls>H. 848.</ls> 
-<ls>an. 3, 707.</ls> 
-<ls>MED. v. 45.</ls> <ls>MBH. 5, 7012. 7022. 7308.</ls> <ls>R. 1, 74, 17.</ls> <ls>Spr. 323.</ls> <ls>RAGH. 11, 46.</ls> <ls>Verz. d. Oxf. H. 59</ls>, {%a%}, 30. <is>Pramati</is> 
-<ls>MĀRK. P. 110, 35.</ls> - <ls>ĀŚV. ŚR. 12, 10.</ls> <ls>Ind. St. 7, 467</ls> u. d. W. <ls>KĀTY. ŚR. 15, 4, 1.</ls> <ls>PAÑCAV. BR. 14, 3, 23. 9, 19. 39.</ls> <ls>PRAŚNOP. 1, 1.</ls> <ls>HARIV. 1597. 1741. 1753.</ls> <ls>R.</ls> in <ls>Verz. d. B. H. 121</ls>
+{#BArgava/#}¦
+<div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#I#} {%von%} <is>Bhaṛgu</is> {%stammend, herrührend, ihm gehörend%} {#vaMSa, gotra#}
+<ls>MBH. 1,865.</ls>
+<ls>HARIV. 1597.</ls> <ls n="HARIV.">1753.</ls>
+<ls>Ind. St. 8,276.</ls> {#vidyA#}
+<ls>TAITT. UP. 3,6.</ls> {#DarmAH#}
+<ls>Verz. d. Oxf. H. 266,b,18.</ls> {#sAman#}
+<ls>Ind. St. 3,227,b.</ls> {#BArgavaM nAma#} ({%das Nomen%}) {#izyate#}
+<ls>Ind. St. 4,330.</ls> {#upapurARa#}
+<ls>Verz. d. Oxf. H. 8,a,10.</ls>
+<ls>Verz. d. B. H. 127, N.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,18,21.</ls> <ls>BURNOUF</ls> in der Einl. zu <ls>BHĀG. P. I, LXXVII.</ls> patron. (der pl. {#BfgavaH)#}
+<ls>P. 2,4,65.</ls>
+<ls>VOP. 7,14.</ls> <is>Cyavana</is>
+<ls>AIT. BR. 8,21.</ls>
+<ls>ŚAT. BR. 4,1,5,1.</ls>
+<ls>MBH. 1,870.</ls> <ls n="MBH. 1,">1928.</ls> <ls n="MBH.">13,207.</ls>
+<ls>R. 1,70,31.</ls> <ls n="R.">2,110,19. fg.</ls> (<ls n="GORR. 2,">119,19</ls> <ls>GORR.</ls>). <is>Gṛtsamada</is>
+<ls>ŚĀṄKH. BR. 22,4.</ls> <is>Dvigat</is>
+<ls>PAÑCAV. BR. 14,9,32.</ls> <is>Dṛśāna</is>
+<ls>Ind. St. 3,459.</ls> <is>Iṭala</is>
+<ls n="Ind. St.">1,193.</ls> <is>Mārkaṇḍeya</is>
+<ls>MBH. 13,1545.</ls> <is>Śaunaka</is>
+<ls n="MBH.">1,1117.</ls> <is>Ṛcīka</is> <ls>R. 1,61,13.</ls> <ls n="R. 1,61,">17</ls> <is>Jamadagni</is>
+<ls>R. 1,51,11</ls> (<ls n="GORR. 1,">52,11</ls> <ls>GORR.</ls>). <is>Paraśurāma</is>
+<ls>TRIK. 3,3,302.</ls> <ls n="TRIK. 3,3,">418.</ls>
+<ls>H. 848.</ls>
+<ls>an. 3,707.</ls>
+<ls>MED. v. 45.</ls> <ls>MBH. 5,7012.</ls> <ls n="MBH. 5,">7022.</ls> <ls n="MBH. 5,">7308.</ls> <ls>R. 1,74,17.</ls> <ls>Spr. 323.</ls> <ls>RAGH. 11,46.</ls> <ls>Verz. d. Oxf. H. 59,a,30.</ls> <is>Pramati</is>
+<ls>MĀRK. P. 110,35.</ls> — <ls>ĀŚV. ŚR. 12,10.</ls> <ls>Ind. St. 7,467</ls> u. d. W. <ls>KĀTY. ŚR. 15,4,1.</ls> <ls>PAÑCAV. BR. 14,3,23. 9,19. 39.</ls> <ls>PRAŚNOP. 1,1.</ls> <ls>HARIV. 1597.</ls> <ls n="HARIV.">1741.</ls> <ls n="HARIV.">1753.</ls> <ls>R.</ls> in <ls>Verz. d. B. H. 121</ls>
 [Page5-0255]
-(st. {#BArgavo DImAn#} liest die ed. Bomb. {#pracetasaH putraH)#} . 
-<ls>Spr. 2292.</ls> 
-<ls>Verz. d. B. H. 54,3 v. u. 55,1. 90 (21). 93 (54).</ls> <ls>Verz. d. Oxf. H. 32,a,23.b,7. 80,a,15. 101.b,17. 310,a,24. 138,a</ls> <ls>?(No. 270). 279,a,3. 351.a,25.</ls> {#govarDanaM puraM ramyaM BArgavasya#} 
-<ls>MĀRK. P. 57, 35.</ls> 
-<ls>DAŚAK. 162, 11.</ls> Inschr. in Journ. of the Am. Or. 
-<ls>?S. 6, 508, Śl. 12. Bein. <is>Śiva's</is> MBH. 7, 9527. 14, 200.</ls> 
-<div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) patron. <is>Śukra's</is>, des Lehrers der <is>Daitya</is>, {%der Planet Venus%}, 
-<ls>AK.1,1,2,26.</ls> <ls>TRIK.3,3,418.</ls> <ls>H. 119.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY.1,48.</ls> <ls>R.</ls> <ls>GORR.2,40,10.5,73,53.</ls> <ls>KĀM. NĪTIS. 14,63.</ls> <ls>SŪRYAS.2,8. 56.7,23.9,3.</ls> <ls>VARĀH. BṚH. S. 18,5. 28,1.</ls> <ls>Verz. d. Oxf. H. 100,a,8.</ls> 
-<div n="2">— b) pl. {%die Nachkommen des%} <is>Bhṛgu</is> (die sonst {#BfgavaH#} heissen) 
-<ls>HARIV. 1790.</ls> {#BArgavaSrezWa#} 
-<ls>MBH. 5, 6048.</ls> N. eines Volksstammes 
-<ls>MBH. 6, 358</ls> <ls>?(VP. 190). MĀRK. P. 57, 43.</ls> 
-<div n="2">— c) {%ein Bogenschütze, ein guter Bogenschütze%} (wie es <is>Paraśurāma</is> war) = {#Danvin#} und {#suDanvan#} 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> Man beachte, dass 
-<ls>MBH. 7, 9527</ls> und <ls>14, 200</ls> vor {#BArgavAya#} (als Namen von <is>Śiva</is>) {#Danvine#} steht. 
-<div n="2">— d) {%Elephant%} 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#I#} 
-<div n="2"> a) {%ein weiblicher Nachkomme des%} <is>Bhṛgu</is> 
-<ls>P. 2, 4, 65.</ls> 
-<ls>VOP. 7, 14. <is>Devayāni</is></ls> 
-<ls>MBH. 1, 3217.</ls> 
-<ls>BHĀG. P. 9, 19, 2. 28.</ls> 
-<div n="2">— b) Bein. der <is>Lakṣmī</is> 
-<ls>H. ś. 76</ls> (wo st. {#BarBarI#} wohl so zu lesen ist). 
-<ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— c) Bein. der <is>Pārvatī</is> 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— d) = {#dUrvA#} {%Panicum Dactylon%} 
-<ls>AK. 2, 4, 5, 24.</ls> 
-<ls>TRIK.</ls> 
-<ls>MED.</ls> 
-<ls>HĀR. 93.</ls> = {#kfzRadUrvA, nIladUrvA#} 
-<ls>H. an.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> = {#SvetadUrvA#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
+(st. {#BArgavo DImAn#} liest die <ls>ed. Bomb.</ls> {#pracetasaH putraH)#} .
+<ls>Spr. 2292.</ls>
+<ls>Verz. d. B. H. 54,3</ls> v. u. <ls n="Verz. d. B. H.">55,1. 90 (21). 93 (54).</ls> <ls>Verz. d. Oxf. H. 32,a,23.b,7. 80,a,15. 101.b,17. 310,a,24. 138,a (No. 270). 279,a,3. 351.a,25.</ls> {#govarDanaM puraM ramyaM BArgavasya#}
+<ls>MĀRK. P. 57,35.</ls>
+<ls>DAŚAK. 162,11.</ls> Inschr. in
+<ls>Journ. of the Am. Or. S. 6,508, Śl. 12.</ls> Bein. <is>Śiva's</is> <ls>MBH. 7,9527.</ls> <ls n="MBH.">14,200.</ls>
+<div n="1">— 2) <lex>m.</lex>
+<div n="2"> a) patron. <is>Śukra's</is>, des Lehrers der <is>Daitya</is>, {%der Planet Venus%},
+<ls>AK. 1,1,2,26.</ls> <ls>TRIK. 3,3,418.</ls> <ls>H. 119.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1,48.</ls> <ls>R. GORR. 2,40,10.</ls> <ls n="R. GORR.">5,73,53.</ls> <ls>KĀM. NĪTIS. 14,63.</ls> <ls>SŪRYAS. 2,8. 56. 7,23. 9,3.</ls> <ls>VARĀH. BṚH. S. 18,5. 28,1.</ls> <ls>Verz. d. Oxf. H. 100,a,8.</ls>
+<div n="2">— b) pl. {%die Nachkommen des%} <is>Bhṛgu</is> (die sonst {#BfgavaH#} heissen)
+<ls>HARIV. 1790.</ls> {#BArgavaSrezWa#}
+<ls>MBH. 5,6048.</ls> N. eines Volksstammes
+<ls>MBH. 6,358</ls> (<ls>VP. 190).</ls> <ls>MĀRK. P. 57,43.</ls>
+<div n="2">— c) {%ein Bogenschütze, ein guter Bogenschütze%} (wie es <is>Paraśurāma</is> war) = {#Danvin#} und {#suDanvan#}
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> Man beachte, dass
+<ls>MBH. 7,9527</ls> und <ls n="MBH.">14,200</ls> vor {#BArgavAya#} (als Namen von <is>Śiva</is>) {#Danvine#} steht.
+<div n="2">— d) {%Elephant%}
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls>
+<div n="1">— 3) <lex>f.</lex> {#I#}
+<div n="2"> a) {%ein weiblicher Nachkomme des%} <is>Bhṛgu</is>
+<ls>P. 2,4,65.</ls>
+<ls>VOP. 7,14. <is>Devayāni</is></ls>
+<ls>MBH. 1,3217.</ls>
+<ls>BHĀG. P. 9,19,2.</ls> <ls n="BHĀG. P. 9,19,">28.</ls>
+<div n="2">— b) Bein. der <is>Lakṣmī</is>
+<ls>H. ś. 76</ls> (wo st. {#BarBarI#} wohl so zu lesen ist).
+<ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— c) Bein. der <is>Pārvatī</is>
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls>
+<div n="2">— d) = {#dUrvA#} {%Panicum Dactylon%}
+<ls>AK. 2,4,5,24.</ls>
+<ls>TRIK.</ls>
+<ls>MED.</ls>
+<ls>HĀR. 93.</ls> = {#kfzRadUrvA, nIladUrvA#}
+<ls>H. an.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> = {#SvetadUrvA#}
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>
 <div n="v">— Vgl. {#caRqa°#} .
 <LEND>

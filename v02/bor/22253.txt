@@ -1,4 +1,4 @@
 <L>22253<pc>701<k1>taxation<k2>taxation
-<div n="lb"/>{@TAXATION:@}¦ <div n="xe">{%indirect and direct t.:%}</div> <div n="xs">{#*vyavahitA-#}
-<div n="lb"/>{#vyavahitakaraniDAnam#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-sTApanam.#}</div>
+{@TAXATION:@}¦ <div n="xe">{%indirect and direct t.:%}</div> <div n="xs">{#*vyavahitA-#}
+{#vyavahitakaraniDAnam#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-sTApanam.#}</div>
 <LEND>

@@ -1,16 +1,14 @@
-<L>923<pc>1011-2<k1>aNga<k2>a/Nga<h>3<e>100
-3. {#a/Nga#}¦ (<lex>adj.</lex> Compl. <lex>f.</lex> {#I#}) <lex>n.</lex> (<lex>m.</lex> verdächtig)
-<div n="1">— 1) {%Glied des Körpers , Körpertheil%} <ls>167,30.172,3.230,18.</ls> {#muKAggAni#} <ls>251,27.</ls> acht Körpertheile <ls>136,16.137,30</ls> sieben <ls>KĀṬH.14,6.</ls>
-<div n="1">— 2) {%männliches Glied.%}
-<div n="1">— 3) {%Körper%} <ls>47,24.94,16.95,8.125,15.</ls> {#aNgam pradA#} {%sich (einem Manne) hingeben%} <ls>Ind.St.14,155,Śl.33.</ls>
-<div n="1">— 4) {%Glied — , Theil eines Ganzen , Bestandtheil%} <ls>98,17.206,27.</ls>
-<div n="1">— 5) {%unwesentlicher , secundärer Theil%} <ls>DAŚAR.1,11.</ls>
-<div n="1">— 6) {%Anhang , ergänzendes Werk%} , insbes. die
-[Page1011-3]
-sechs zum <is>Veda</is> ( {#SikzA , vyAkaraRa , Candas , nirukta , kalpa#} und {#jyotiza#}) <ls>72,20.</ls> Daher
-<div n="1">— 7) {%die Zahl sechs.%}
-<div n="1">— 8) Name {%der heiligen Texte der <is>Jaina</is>.%}
-<div n="1">— 9) {%Hülfsmittel%} <ls>152,13,285,23.</ls>
-<div n="1">— 10) in der Grammatik {%Thema , Stamm%} (aber nicht vor allen Suffixen) <ls>P.1,4,13.15.17.</ls>
-<div n="1">— 11) {%*Geist.%}
+<L>923<pc>1-011-b<k1>aNga<k2>a/Nga<h>3
+<hom>3.</hom> {#a/Nga#}¦ (<ab>adj. Comp.</ab> <lex>f.</lex> {#I#}) <lex>n.</lex> (<lex>m.</lex> verdächtig)
+<div n="1">— 1〉 {%Glied des Körpers, Körpertheil%} <ls n="Chr.">167,30</ls>. <ls n="Chr.">172,3</ls>. <ls n="Chr.">230,18</ls>. {#muKAggAni#} <ls n="Chr.">251,27</ls> acht Körpertheile <ls n="Chr.">136,16</ls>. <ls n="Chr.">137,30</ls> sieben <ls>KĀṬH. 14,6</ls>.
+<div n="1">— 2〉 {%männliches Glied%}.
+<div n="1">— 3〉 {%Körper%} <ls n="Chr.">47,24</ls>. <ls n="Chr.">94,16</ls>. <ls n="Chr.">95,8</ls>. <ls n="Chr.">125,15</ls>. {#aNgam pradA#} {%sich (einem Manne) hingeben%} <ls>Ind. St. 14,155, Śl. 33</ls>.
+<div n="1">— 4〉 {%Glied —, Theil eines Ganzen, Bestandtheil%} <ls n="Chr.">98,17</ls>. <ls n="Chr.">206,27</ls>.
+<div n="1">— 5〉 {%unwesentlicher, secundärer Theil%} <ls>DAŚAR. 1,11</ls>.
+<div n="1">— 6〉 {%Anhang, ergänzendes Werk,%} <ab>insbes.</ab> die [Page1-011-c] sechs zum <is>Veda</is> ({#SikzA, vyAkaraRa, Candas, nirukta, kalpa#} und {#jyotiza#}) <ls n="Chr.">72,20</ls>. Daher
+<div n="1">— 7〉 {%die Zahl sechs%}.
+<div n="1">— 8〉 Name {%der heiligen Texte der%} <is>Jaina</is>.
+<div n="1">— 9〉 {%Hülfsmittel%} <ls n="Chr.">152,13</ls>. <ls n="Chr.">285,23</ls>.
+<div n="1">— 10〉 in der Grammatik {%Thema, Stamm%} (aber nicht vor allen Suffixen) <ls>P. 1,4,13. 15. 17</ls>.
+<div n="1">— 11〉 *{%Geist%}.
 <LEND>

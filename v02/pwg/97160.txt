@@ -1,61 +1,61 @@
 <L>97160<pc>7-0020<k1>Sakya<k2>Sa/kya
-{#Sa/kya#}¦ (von 1. {#Sak#}) <lex>adj.</lex> 
-<ls>P. 3, 1, 99.</ls> 
-<ls>VOP. 26, 12.</ls> {%möglich, thunlich, ausführbar%} 
-<ls>KAPILA 118</ls> <ls>?(SĀṂKHYAK. 9).</ls> {#Sakye sati#} {%wenn es sich thun lässt%} 
-<ls>MBH. 6, 123.</ls> {#yacCakyaM tatkarizye#} 
-<ls>5, 7082.</ls> {#upAyena hi yacCakyaM na tacCakyaM parAkramEH#} 
-<ls>Spr. (II) 1306. (I) 2345.</ls> <ls>HIT. 40, 12.</ls> {#tapasA hi sutaptena Sakyo mokzaH#} 
-<ls>MBH. 13, 2852.</ls> {#vastu#} 
-<ls>KĀM. NĪTIS. 15, 25.</ls> {#anunayo maharzeH#} 
-<ls>RAGH. 2, 54.</ls> {#°SaNka#} <lex>adj.</lex> 
-<ls>SARVADARŚANAS. 65, 22. 120, 15.</ls> {%bezwingbar%}, von Personen 
-<ls>MBH. 3, 8773. 12231.</ls> {#na vAkyamAtreRa vayaM hi SakyAH#} 
-<ls>15650.</ls> <ls>Spr. 2151.</ls> <ls>RAGH. 17, 56.</ls> so v. a. {%ausdrücklich gemeint, im Worte selbst liegend%}: {#Sakyo 'rTo 'BiDAyA jYeyo lakzyo lakzaRayA mataH . vyaNgyo vyaYjanayA jYeyastisraH Sabdasya vfttayaH ..#} 
-<ls>ALAṂKĀRAŚĀSTRA</ls> im <ls>ŚKDR.</ls> <ls>BHĀṢĀP. 81. 132.</ls> {#a°#} {%unmöglich, unthunlich%}: {#aSakye#} 
-<ls>KĀTY. ŚR. 5, 10, 20. 7, 5, 4.</ls> 
-<ls>MBH. 5, 7480.</ls> 
-<ls>R. 1, 57, 12.</ls> {#aSakye 'DyavasAyaH#} 
-<ls>VOP. 25, 23.</ls> Comm. zu <ls>TS. PRĀT. 21, 5.</ls> {#kAryARi#} 
-<ls>Spr. (II) 479.</ls> {#vastu#} 
-<ls>KĀM. NĪTIS. 15, 25.</ls> {#°rakza#} 
-<ls>RAGH. 2, 40.</ls> {#°pratikAra#} 
-<ls>KATHĀS. 18, 251.</ls> 
-<ls>PRAB. 25, 13.</ls> 
-<ls>RĀJA-TAR. 8, 1570.</ls> 
-<ls>SARVADARŚANAS. 116, 22.</ls> <ls>PAÑCAT. 161, 12.</ls> <ls>HIT. 18, 15, v. l.</ls> {#vacas#} so v. a. {%unausführbar%} 
-<ls>KATHĀS. 49, 61.</ls> {#vedaSAstra#} so v. a. {%unverfassbar%} 
-<ls>M. 12, 94.</ls> {%unbezwingbar%}:
+{#Sa/kya#}¦ (von 1. {#Sak#}) <lex>adj.</lex>
+<ls>P. 3,1,99.</ls>
+<ls>VOP. 26,12.</ls> {%möglich, thunlich, ausführbar%}
+<ls>KAPILA 118</ls> (<ls>SĀṂKHYAK. 9).</ls> {#Sakye sati#} {%wenn es sich thun lässt%}
+<ls>MBH. 6,123.</ls> {#yacCakyaM tatkarizye#}
+<ls n="MBH.">5,7082.</ls> {#upAyena hi yacCakyaM na tacCakyaM parAkramEH#}
+<ls>Spr. (II) 1306.</ls> <ls n="Spr.">(I) 2345.</ls> <ls>HIT. 40,12.</ls> {#tapasA hi sutaptena Sakyo mokzaH#}
+<ls>MBH. 13,2852.</ls> {#vastu#}
+<ls>KĀM. NĪTIS. 15,25.</ls> {#anunayo maharzeH#}
+<ls>RAGH. 2,54.</ls> {#°SaNka#} <lex>adj.</lex>
+<ls>SARVADARŚANAS. 65,22. 120,15.</ls> {%bezwingbar%}, von Personen
+<ls>MBH. 3,8773.</ls> <ls n="MBH. 3,">12231.</ls> {#na vAkyamAtreRa vayaM hi SakyAH#}
+<ls n="MBH. 3,">15650.</ls> <ls>Spr. 2151.</ls> <ls>RAGH. 17,56.</ls> so v. a. {%ausdrücklich gemeint, im Worte selbst liegend%}: {#Sakyo 'rTo 'BiDAyA jYeyo lakzyo lakzaRayA mataH . vyaNgyo vyaYjanayA jYeyastisraH Sabdasya vfttayaH ..#}
+<ls>ALAṂKĀRAŚĀSTRA</ls> im <ls>ŚKDR.</ls> <ls>BHĀṢĀP. 81. 132.</ls> {#a°#} {%unmöglich, unthunlich%}: {#aSakye#}
+<ls>KĀTY. ŚR. 5,10,20.</ls> <ls n="KĀTY. ŚR.">7,5,4.</ls>
+<ls>MBH. 5,7480.</ls>
+<ls>R. 1,57,12.</ls> {#aSakye 'DyavasAyaH#}
+<ls>VOP. 25,23.</ls> Comm. zu <ls>TS. PRĀT. 21,5.</ls> {#kAryARi#}
+<ls>Spr. (II) 479.</ls> {#vastu#}
+<ls>KĀM. NĪTIS. 15,25.</ls> {#°rakza#}
+<ls>RAGH. 2,40.</ls> {#°pratikAra#}
+<ls>KATHĀS. 18,251.</ls>
+<ls>PRAB. 25,13.</ls>
+<ls>RĀJA-TAR. 8,1570.</ls>
+<ls>SARVADARŚANAS. 116,22.</ls> <ls>PAÑCAT. 161,12.</ls> <ls>HIT. 18,15, v. l.</ls> {#vacas#} so v. a. {%unausführbar%}
+<ls>KATHĀS. 49,61.</ls> {#vedaSAstra#} so v. a. {%unverfassbar%}
+<ls>M. 12,94.</ls> {%unbezwingbar%}:
 [Page7-0021]
-{#anyopAyEH#} 
-<ls>Spr. (II) 2698.</ls> {#prAkArAgrARi#} 
-<ls>R. 6, 17, 8.</ls> Ueberaus häufig steht bei {#Sakya#} ein infin. (vgl. das pass. von {#Sak#}), wobei folgende Constructionen zu bemerken sind: 
-<div n="1"> 1) {#Sakyam#} wird unpersönlich gebraucht: {#gantavye na ciraM sTAtumiha Sakyam#} 
-<ls>MBH. 1, 6027.</ls> {#na ca SakyaM punargantuM mayA vAraRasAhvayam#} 
-<ls>5, 6002. 6033. 13, 4806.</ls> <ls>R. 2, 26, 25. 34, 48. 3, 53, 23.</ls> {#sTAtuM niyokturyadaSakyamagre#} 
-<ls>RAGH. 2, 56.</ls> {#na SakyaM rakzituM prARAn#} 
-<ls>R. 3, 41, 21.</ls> {#anvezwuM padavIM cAsya na SakyaM garuqAdfte#} 
-<ls>4, 10, 7.</ls> 
-<div n="1">— 2) {#Sakya#} richtet sich in Geschlecht und Zahl nach dem Subject und der infin. wird passivisch übersetzt: {#nEva vAcA na manasA prAptuM Sakyo na cakzuzA#} 
-<ls>KAṬHOP. 6, 12.</ls> 
-<ls>ŚĀṄKH. ŚR. 1, 17, 8.</ls> ({#daRqaH#}) {#na Sakyo nyAyato netuM saktena vizayezu ca#} 
-<ls>M. 7, 30. 9, 10. 263.</ls> 
-<ls>PAT.</ls> zu <ls>P. 1, 1, 62.</ls> <ls>BHAG. 6, 36.</ls> <ls>MBH. 1, 5909. 5921. 3, 1730. 1759. 2346. 2657. 3050. 8772. 5, 7207. 7252.</ls> <ls>R. 1, 8, 17. 58, 3. 67, 8. 2, 27, 15.</ls> {#SakyA nidrA mayA labDum#} 
-<ls>51, 9. 86, 10. 3, 53, 47.</ls> <ls>RAGH. 2, 49. 12, 17</ls> ({#aSakya#}). 
-<ls>ŚĀK. 153.</ls> 
-<ls>Spr. (II) 1870. 3413. (I) 2129. 2408.</ls> <ls>KATHĀS. 18, 75. 267.</ls> <ls>RĀJA-TAR. 1, 441. 7, 617.</ls> <ls>DAŚAK. 66, 16.</ls> <ls>SARVADARŚANAS. 28, 10. 36, 2</ls> ({#a°#}). 
-<ls>49, 5.</ls> {#Sakyatama#} eben so construirt 
-<ls>Spr. (II) 3485, v. l.</ls> 
-<div n="1">— 3) nom. sg. neutr. {#Sakyam#} ohne Rücksicht auf das Geschlecht und die Zahl des Subjects: {#sa ca dozaH prayatnena na Sakyamativartitum#} (so ed. Bomb.) 
-<ls>MBH. 3, 16679.</ls> {#SakyamaNgErAliNgituM pavanaH#} 
-<ls>ŚĀK. 55.</ls> {#nahi SakyamupekzituM kupitA#} 
-<ls>MĀLAV. 58.</ls> {#na sAhasEkAntarasAnuvartinA viBUtayaH SakyamavAptum#} 
-<ls>Spr. (II) 3485.</ls> {#SakyaM#} (v. l. {#Sakyo#}) {#vArayituM jalena hutaBuk#} 
-<ls>(I) 2929. fg.</ls> Die folgenden Beispiele gehören hierher oder zu 1), je nachdem man das subst. als nom. oder als acc. fasst: {#nahi dehaBftA SakyaM tyaktuM karmARyaSezataH#} 
-<ls>BHAG. 18, 11.</ls> {#tAni sarvARi saMyantuM SakyaM rAma jitendriyEH#} 
-<ls>R. 3, 13, 5.</ls> 
-<div n="1">— 4) in der Bed. {%gezwungen werden könnend Etwas zu thun%}: {#na saMBramaM gantumahaM hi SakyA (Sakzye#} 
-<ls>MBH. 3, 15660</ls> in beiden Ausgg.) {#tvayA#} 
-<ls>DRAUP. 5, 22.</ls> 
+{#anyopAyEH#}
+<ls>Spr. (II) 2698.</ls> {#prAkArAgrARi#}
+<ls>R. 6,17,8.</ls> Ueberaus häufig steht bei {#Sakya#} ein infin. (vgl. das pass. von {#Sak#}), wobei folgende Constructionen zu bemerken sind:
+<div n="1"> 1) {#Sakyam#} wird unpersönlich gebraucht: {#gantavye na ciraM sTAtumiha Sakyam#}
+<ls>MBH. 1,6027.</ls> {#na ca SakyaM punargantuM mayA vAraRasAhvayam#}
+<ls n="MBH.">5,6002.</ls> <ls n="MBH. 5,">6033.</ls> <ls n="MBH.">13,4806.</ls> <ls>R. 2,26,25.</ls> <ls n="R. 2,">34,48.</ls> <ls n="R.">3,53,23.</ls> {#sTAtuM niyokturyadaSakyamagre#}
+<ls>RAGH. 2,56.</ls> {#na SakyaM rakzituM prARAn#}
+<ls>R. 3,41,21.</ls> {#anvezwuM padavIM cAsya na SakyaM garuqAdfte#}
+<ls n="R.">4,10,7.</ls>
+<div n="1">— 2) {#Sakya#} richtet sich in Geschlecht und Zahl nach dem Subject und der infin. wird passivisch übersetzt: {#nEva vAcA na manasA prAptuM Sakyo na cakzuzA#}
+<ls>KAṬHOP. 6,12.</ls>
+<ls>ŚĀṄKH. ŚR. 1,17,8.</ls> ({#daRqaH#}) {#na Sakyo nyAyato netuM saktena vizayezu ca#}
+<ls>M. 7,30.</ls> <ls n="M.">9,10.</ls> <ls n="M. 9,">263.</ls>
+<ls>PAT.</ls> zu <ls>P. 1,1,62.</ls> <ls>BHAG. 6,36.</ls> <ls>MBH. 1,5909.</ls> <ls n="MBH. 1,">5921.</ls> <ls n="MBH.">3,1730.</ls> <ls n="MBH. 3,">1759.</ls> <ls n="MBH. 3,">2346.</ls> <ls n="MBH. 3,">2657.</ls> <ls n="MBH. 3,">3050.</ls> <ls n="MBH. 3,">8772.</ls> <ls n="MBH.">5,7207.</ls> <ls n="MBH. 5,">7252.</ls> <ls>R. 1,8,17.</ls> <ls n="R. 1,">58,3.</ls> <ls n="R. 1,">67,8.</ls> <ls n="R.">2,27,15.</ls> {#SakyA nidrA mayA labDum#}
+<ls n="R. 1,">51,9.</ls> <ls n="R. 1,">86,10.</ls> <ls n="R.">3,53,47.</ls> <ls>RAGH. 2,49.</ls> <ls n="RAGH.">12,17</ls> ({#aSakya#}).
+<ls>ŚĀK. 153.</ls>
+<ls>Spr. (II) 1870.</ls> <ls n="Spr. (II)">3413.</ls> <ls n="Spr.">(I) 2129. 2408.</ls> <ls>KATHĀS. 18,75.</ls> <ls n="KATHĀS. 18,">267.</ls> <ls>RĀJA-TAR. 1,441. 7,617.</ls> <ls>DAŚAK. 66,16.</ls> <ls>SARVADARŚANAS. 28,10. 36,2</ls> ({#a°#}).
+<ls n="SARVADARŚANAS.">49,5.</ls> {#Sakyatama#} eben so construirt
+<ls>Spr. (II) 3485, v. l.</ls>
+<div n="1">— 3) nom. sg. neutr. {#Sakyam#} ohne Rücksicht auf das Geschlecht und die Zahl des Subjects: {#sa ca dozaH prayatnena na Sakyamativartitum#} (so <ls>ed. Bomb.</ls>)
+<ls>MBH. 3,16679.</ls> {#SakyamaNgErAliNgituM pavanaH#}
+<ls>ŚĀK. 55.</ls> {#nahi SakyamupekzituM kupitA#}
+<ls>MĀLAV. 58.</ls> {#na sAhasEkAntarasAnuvartinA viBUtayaH SakyamavAptum#}
+<ls>Spr. (II) 3485.</ls> {#SakyaM#} (v. l. {#Sakyo#}) {#vArayituM jalena hutaBuk#}
+<ls n="Spr.">(I) 2929. fg.</ls> Die folgenden Beispiele gehören hierher oder zu 1), je nachdem man das subst. als nom. oder als acc. fasst: {#nahi dehaBftA SakyaM tyaktuM karmARyaSezataH#}
+<ls>BHAG. 18,11.</ls> {#tAni sarvARi saMyantuM SakyaM rAma jitendriyEH#}
+<ls>R. 3,13,5.</ls>
+<div n="1">— 4) in der Bed. {%gezwungen werden könnend Etwas zu thun%}: {#na saMBramaM gantumahaM hi SakyA (Sakzye#}
+<ls>MBH. 3,15660</ls> in beiden Ausgg.) {#tvayA#}
+<ls>DRAUP. 5,22.</ls>
 <div n="v">— Vgl. {#yAvacCakyam#} .
 <LEND>

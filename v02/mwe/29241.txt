@@ -1,11 +1,11 @@
 <L>29241<pc>797-b<k1>temple<k2>temple
-<div n="lb"/>TEMPLE¦, {%s.%} (Building dedicated to a deity) {#mandiraM, prAsAdaH, deva-#}
-<div n="lb"/>{#mandiraM, devAlayaM, devagfhaM, devaBavanaM, maRqapaH -paM, devAgAraH -raM, devaveSma#} {%n.%}
-<div n="lb"/>{#(n), devatAmandiraM, BajanAlayaM, devatAgAraH -raM, devatAyatanaM, devAvAsaH,#}
-<div n="lb"/>{#mahAlayaH -yaM, surasTAnaM, suramandiraM, suragfhaM, devakulaM, yajYiyaSAlA,#}
-<div n="lb"/>{#vIhAraH, vayunaM, vicCardakaH, vicCandakaH, svastikaH, sarvatoBadraH, nandyAvarttaH,#}
-<div n="lb"/>{#rucakaH;#} ‘temple dedicated to Siva,’ {#SivAlayaM, SivamandiraM;#}
-<div n="lb"/>‘open temple,’ {#maRqapaH;#} ‘endowments of a temple,’ {#devasvaM;#}
-<div n="lb"/>‘worship at the entrance of a temple,’ {#dvArapUjA#}. — (Of the
-<div n="lb"/>head) {#kapolaH, kenAraH, SaNKaH, SaNKakaH -kaM#}.
+TEMPLE¦, {%s.%} (Building dedicated to a deity) {#mandiraM, prAsAdaH, deva-#}
+{#mandiraM, devAlayaM, devagfhaM, devaBavanaM, maRqapaH -paM, devAgAraH -raM, devaveSma#} {%n.%}
+{#(n), devatAmandiraM, BajanAlayaM, devatAgAraH -raM, devatAyatanaM, devAvAsaH,#}
+{#mahAlayaH -yaM, surasTAnaM, suramandiraM, suragfhaM, devakulaM, yajYiyaSAlA,#}
+{#vIhAraH, vayunaM, vicCardakaH, vicCandakaH, svastikaH, sarvatoBadraH, nandyAvarttaH,#}
+{#rucakaH;#} ‘temple dedicated to Siva,’ {#SivAlayaM, SivamandiraM;#}
+‘open temple,’ {#maRqapaH;#} ‘endowments of a temple,’ {#devasvaM;#}
+‘worship at the entrance of a temple,’ {#dvArapUjA#}. — (Of the
+head) {#kapolaH, kenAraH, SaNKaH, SaNKakaH -kaM#}.
 <LEND>

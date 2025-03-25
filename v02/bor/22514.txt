@@ -1,16 +1,16 @@
 <L>22514<pc>710<k1>through<k2>through
-<div n="lb"/>{@THROUGH@}¦ (prep.): <div n="I">I On account of: q. v.: [Page711]
-<div n="lb"/><div n="xe">{%t. fear:%}</div> <div n="xs">{#BayAt:#}</div> v. For. </div><div n="I">II By the agency
-<div n="lb"/>of: </div><div n="1">(1) {#-muKena#} (= by the mouth of), <div n="xe">{%I have%}
-<div n="lb"/>{%asked his Majesty t. Nipuṇikā:%}</div> <div n="xs">{#mayA nipuRikA-#}
-<div n="lb"/>{#muKena yAcito mahArAjaH,#}</div> Mal. iii.; </div><div n="1">(2) {#dvAreRa#} {%or%}
-<div n="lb"/>{#dvArA#} (from {#dvAra#} and {#-r#} = door), <div n="xe">{%I shall spread%}
-<div n="lb"/>{%some snare t. her:%}</div> <div n="xs">{#taddvAreRa kiYcijjAlamAraceyam,#}</div> D.
-<div n="lb"/>iii. </div><div n="I">III Throughout: q. v. </div><div n="I">IV With
-<div n="lb"/>verbs of motion: by ins., <div n="xe">{%t. this row of young%}
-<div n="lb"/>{%plants:%}</div> <div n="xs">{#anayA bAlapAdapavITyA,#}</div> Sa. iii.; <div n="xe">{%now%}
-<div n="lb"/>{%passes t. the region of clouds:%}</div> <div n="xs">{#kvacitpaTA saYcarate #}
-<div n="lb"/>{# GanAnAm,#}</div> R. xiii. 19. </div><div n="I">V From the other side
-<div n="lb"/>of: {#-antareRa,#} <div n="xe">{%to listen t. a clink:%}</div> <div n="xs">{#CidrAntareRA-#}
-<div n="lb"/>{#karRayati.#}</div></div>
+{@THROUGH@}¦ (prep.): <div n="I">I On account of: q. v.: [Page711]
+<div n="xe">{%t. fear:%}</div> <div n="xs">{#BayAt:#}</div> v. For. </div><div n="I">II By the agency
+of: </div><div n="1">(1) {#-muKena#} (= by the mouth of), <div n="xe">{%I have%}
+{%asked his Majesty t. Nipuṇikā:%}</div> <div n="xs">{#mayA nipuRikA-#}
+{#muKena yAcito mahArAjaH,#}</div> Mal. iii.; </div><div n="1">(2) {#dvAreRa#} {%or%}
+{#dvArA#} (from {#dvAra#} and {#-r#} = door), <div n="xe">{%I shall spread%}
+{%some snare t. her:%}</div> <div n="xs">{#taddvAreRa kiYcijjAlamAraceyam,#}</div> D.
+iii. </div><div n="I">III Throughout: q. v. </div><div n="I">IV With
+verbs of motion: by ins., <div n="xe">{%t. this row of young%}
+{%plants:%}</div> <div n="xs">{#anayA bAlapAdapavITyA,#}</div> Sa. iii.; <div n="xe">{%now%}
+{%passes t. the region of clouds:%}</div> <div n="xs">{#kvacitpaTA saYcarate #}
+{# GanAnAm,#}</div> R. xiii. 19. </div><div n="I">V From the other side
+of: {#-antareRa,#} <div n="xe">{%to listen t. a clink:%}</div> <div n="xs">{#CidrAntareRA-#}
+{#karRayati.#}</div></div>
 <LEND>

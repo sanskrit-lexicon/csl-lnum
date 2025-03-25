@@ -1,12 +1,12 @@
 <L>4707<pc>193<k1>guilt<k2>guilt
 {@Guilt,@}¦ {%s.%} {#aparADaH, dozaH, pApaM, pAtakaM, aGaM;#}
-<div n="lb"/>{#enas#} {%n.,%} {#pApakarman#} {%n.,%} {#duzkfti#} {%f.,%} {#Agas#}
-<div n="lb"/>{%n.,%} {#duritaM#}. {@2@} {#sadozatA, pApatvaM, aparADitA#}.
-<div n="lb"/>{@-less,@} {%a.%} {#niraparADa, anaparADin, anAgas,#}
-<div n="lb"/>{#apApa, nizpApa; akftadoza, nirdoza, anaGa,#}
-<div n="lb"/>{#SudDa, pApa-doza-hIna#}. {@-lessly,@} {%adv.%} {#nirapa-#}
-<div n="lb"/>{#-rADaM, pApaM-dozaM-vinA#}. {@-y,@} {%a.%} {#pApin, aparA-#}
-<div n="lb"/>{#-Din, sAparADa, aparAdDa, sapApa, pApakarman,#}
-<div n="lb"/>{#sadoza, kftAgas, kftAparADa, doza-pApa-vat,#}
-<div n="lb"/>{#pAtakin, duzkftin, pApAtman, pApa#}.
+{#enas#} {%n.,%} {#pApakarman#} {%n.,%} {#duzkfti#} {%f.,%} {#Agas#}
+{%n.,%} {#duritaM#}. {@2@} {#sadozatA, pApatvaM, aparADitA#}.
+{@-less,@} {%a.%} {#niraparADa, anaparADin, anAgas,#}
+{#apApa, nizpApa; akftadoza, nirdoza, anaGa,#}
+{#SudDa, pApa-doza-hIna#}. {@-lessly,@} {%adv.%} {#nirapa-#}
+{#-rADaM, pApaM-dozaM-vinA#}. {@-y,@} {%a.%} {#pApin, aparA-#}
+{#-Din, sAparADa, aparAdDa, sapApa, pApakarman,#}
+{#sadoza, kftAgas, kftAparADa, doza-pApa-vat,#}
+{#pAtakin, duzkftin, pApAtman, pApa#}.
 <LEND>

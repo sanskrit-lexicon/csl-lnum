@@ -1,6 +1,6 @@
 <L>231868<pc>1145,3<k1>saMDf<k2>saM-Df<e>1
 <s>saM-√ Df</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-DArayati</s>;
-<div n="vp"/> <s>°te</s> (<ab>impf.</ab> <ab>ep.</ab> <s>sam-aDAram</s> = <s>-aDArayam</s>; <ab>pr.</ab> <ab>p.</ab> <ab>P.</ab> <s>saMDArayat</s>; <ab>Ā.</ab> <s>-DArayamARa</s>, or <s>-DArayARa</s>; <ab>pf.</ab> <s>saM-daDAra</s>), 
+<div n="vp"/> <s>°te</s> (<ab>impf.</ab> <lang>ep.</lang> <s>sam-aDAram</s> = <s>-aDArayam</s>; <ab>pr.</ab> <ab>p.</ab> <ab>P.</ab> <s>saMDArayat</s>; <ab>Ā.</ab> <s>-DArayamARa</s>, or <s>-DArayARa</s>; <ab>pf.</ab> <s>saM-daDAra</s>),
 <div n="to"/>to hold together, bear, carry, <ls>MBh.</ls>; <ls>R.</ls>; <ls>BhP.</ls>;
 <div n="to"/>to hold up, support, preserve, observe, maintain, <ls>ib.</ls>;
 <div n="to"/>to keep in remembrance, <ls>Pañcat.</ls>;
@@ -10,7 +10,7 @@
 <div n="to"/>to promise, <ls>MBh.</ls>;
 <div n="to"/>to hold out, live, exist, <ls>MārkP.</ls>;
 <div n="to"/>to be ready to serve any one (<ab>gen.</ab>) with (<ab>instr.</ab>), <ls>Kāraṇḍ.</ls> :
-<div n="to"/><ab>Pass.</ab> <s>-Driyate</s>, to resolve or fix upon (<ab>loc.</ab>), <ls>TS.</ls>;
+<div n="vp"/><ab>Pass.</ab> <s>-Driyate</s>, to resolve or fix upon (<ab>loc.</ab>), <ls>TS.</ls>;
 <div n="to"/>to be kept or observed, <ls>R.</ls>;
 <div n="to"/> <s>-DAryate</s>, to be held together or borne or kept or maintained, <ls>MBh.</ls>; <ls>R.</ls> &c.<info verb="pre" cp="PĀ" parse="sam+Df"/>
 <LEND>

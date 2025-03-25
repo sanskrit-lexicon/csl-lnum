@@ -1,10 +1,10 @@
 <L>24173<pc>756<k1>wear<k2>wear
-<div n="lb"/>{@WEAR@}¦ (v. t.): <div n="I">I To put on: q. v.: {#Darati#} {%or%}
-<div n="lb"/>{#DArayati#} ({#Df,#} c. 1. and 10), <div n="xe">{%ornaments worn by%}
-<div n="lb"/>{%women during the life-time of their husbands:%}</div>
-<div n="lb"/><div n="xs">{#patyO jIvati yaH strIBiralaNkAro Dfto Bavet,#}</div> Mit.;
-<div n="lb"/><div n="xe">{%clothes etc., worn by a father.:%}</div> <div n="xs">{#pitfDftaM vastrAdikam,#}</div>
-<div n="lb"/>Mit. Ph.: <div n="xe">{%w. ing apparel:%}</div> <div n="xs">{#pariDAnavAsas,#}</div> (n.)
-<div n="lb"/>and sim. comp. s. </div><div n="I">II To impair: {#kziRoti#}
-<div n="lb"/>({#kzi,#} c. 5.): v. Waste.</div>
+{@WEAR@}¦ (v. t.): <div n="I">I To put on: q. v.: {#Darati#} {%or%}
+{#DArayati#} ({#Df,#} c. 1. and 10), <div n="xe">{%ornaments worn by%}
+{%women during the life-time of their husbands:%}</div>
+<div n="xs">{#patyO jIvati yaH strIBiralaNkAro Dfto Bavet,#}</div> Mit.;
+<div n="xe">{%clothes etc., worn by a father.:%}</div> <div n="xs">{#pitfDftaM vastrAdikam,#}</div>
+Mit. Ph.: <div n="xe">{%w. ing apparel:%}</div> <div n="xs">{#pariDAnavAsas,#}</div> (n.)
+and sim. comp. s. </div><div n="I">II To impair: {#kziRoti#}
+({#kzi,#} c. 5.): v. Waste.</div>
 <LEND>

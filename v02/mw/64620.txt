@@ -1,3 +1,3 @@
-<L>64620<pc>352,3<k1>gAyatrI<k2>gAyatrI<h>a<e>2B
-<s>gAyatrI</s> <hom>a</hom> ¦ <lex>f.</lex> an ancient metre of twenty-four syllables (variously arranged, but generally as a triplet of eight syllables each), any hymn composed in the <s1 slp1="gAyatrI">Gāyatrī</s1> metre, <ls>RV. x, 14; 16 & 130, 4</ls>; <ls>VS.</ls>; <ls>AV.</ls> &c.<info lex="f"/>
+<L>64620<pc>352,3<k1>gAyatrI<k2>gAyatrI<e>2B
+<s>gAyatrI</s> ¦ (<s>I/</s>), <lex>f.</lex> an ancient metre of twenty-four syllables (variously arranged, but generally as a triplet of eight syllables each), any hymn composed in the <s1>Gāyatrī</s1> metre, <ls>RV. x, 14, 16</ls> & <ls n="RV. x,">130, 4</ls>; <ls>VS.</ls>; <ls>AV.</ls> &c.<info lex="f"/><info hui="a"/>
 <LEND>

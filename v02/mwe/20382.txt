@@ -1,17 +1,17 @@
 <L>20382<pc>533-a<k1>night<k2>night
-<div n="lb"/>NIGHT¦, {%s.%} {#rAtriH#} {%f.,%} {#niSA, rajanI, kzaRadA, kzapA, SarvvarI, niw#} {%f.%} {#(S),#}
-<div n="lb"/>{#triyAmA, yAminI, yAmavatI, naktaM#} indecl. {#niSITinI, tamasvinI,#}
-<div n="lb"/>{#viBAvarI, tamI -mA -miH#} {%f.,%} {#nirAtapA, niSITyA, niSITaH, SamanI,#}
-<div n="lb"/>{#vAsurA, vASurA, SyAmA, SatAkzI, SatvarI, SaryyA, yAmiH -mI -mikA#} {%f.,%}
-<div n="lb"/>{#yAmIrA, yAmyA, dozA;#} ‘a dark night,’ {#tamisrA, tAmasI;#} ‘a
-<div n="lb"/>moonlight night,’ {#jyotsnI;#} ‘by night, in the night,’ {#rAtrO,#}
-<div n="lb"/>{#niSAyAM, niSi, naktaM, dozA;#} ‘a number of nights,’ {#niSAgaRaH,#}
-<div n="lb"/>{#gaRarAtraM, niSAvfndaM;#} ‘coming on of night,’ {#rAtriyogaH;#} ‘end
-<div n="lb"/>of night,’ {#niSAntaH -ntaM, apararAtraH, rAtrivigamaH;#} ‘beginning of
-<div n="lb"/>night,’ {#niSAdiH#} {%f.;%} ‘every night,’ {#pratirAtraM, pratiniSaM, rAtrO#}
-<div n="lb"/>{#rAtrO;#} ‘day and night,’ {#ahorAtraM, aharniSaM;#} ‘night and day,
-<div n="lb"/>{#rAtrindivaM, rAtryahanI#} {%n. du.;%} ‘a night and two days,’ {#pakziRI;#}
-<div n="lb"/>‘a period of five nights,’ {#rAtrakaM;#} ‘sitting up at night,’
-<div n="lb"/>{#rAtrijAgaraH -raRaM;#} ‘resting at night,’ {#niSopaSAyaH;#} ‘night
-<div n="lb"/>attack,’ {#sOptikabaDaH, sOptikaM;#} ‘last night,’ {#gatarAtriH#} {%f.%}
+NIGHT¦, {%s.%} {#rAtriH#} {%f.,%} {#niSA, rajanI, kzaRadA, kzapA, SarvvarI, niw#} {%f.%} {#(S),#}
+{#triyAmA, yAminI, yAmavatI, naktaM#} indecl. {#niSITinI, tamasvinI,#}
+{#viBAvarI, tamI -mA -miH#} {%f.,%} {#nirAtapA, niSITyA, niSITaH, SamanI,#}
+{#vAsurA, vASurA, SyAmA, SatAkzI, SatvarI, SaryyA, yAmiH -mI -mikA#} {%f.,%}
+{#yAmIrA, yAmyA, dozA;#} ‘a dark night,’ {#tamisrA, tAmasI;#} ‘a
+moonlight night,’ {#jyotsnI;#} ‘by night, in the night,’ {#rAtrO,#}
+{#niSAyAM, niSi, naktaM, dozA;#} ‘a number of nights,’ {#niSAgaRaH,#}
+{#gaRarAtraM, niSAvfndaM;#} ‘coming on of night,’ {#rAtriyogaH;#} ‘end
+of night,’ {#niSAntaH -ntaM, apararAtraH, rAtrivigamaH;#} ‘beginning of
+night,’ {#niSAdiH#} {%f.;%} ‘every night,’ {#pratirAtraM, pratiniSaM, rAtrO#}
+{#rAtrO;#} ‘day and night,’ {#ahorAtraM, aharniSaM;#} ‘night and day,
+{#rAtrindivaM, rAtryahanI#} {%n. du.;%} ‘a night and two days,’ {#pakziRI;#}
+‘a period of five nights,’ {#rAtrakaM;#} ‘sitting up at night,’
+{#rAtrijAgaraH -raRaM;#} ‘resting at night,’ {#niSopaSAyaH;#} ‘night
+attack,’ {#sOptikabaDaH, sOptikaM;#} ‘last night,’ {#gatarAtriH#} {%f.%}
 <LEND>

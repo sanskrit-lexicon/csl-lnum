@@ -1,4 +1,4 @@
 <L>108<pc>005<k1>abusive<k2>abusive
-<div n="lb"/>{@ABUSIVE:@}¦ Ph. <div n="xe">{%a. language%}</div> <div n="xs">{#AkzepavacaH;#}</div> {%a. writer%}
-<div n="lb"/>{#*parUzaleKakaH.#}
+{@ABUSIVE:@}¦ Ph. <div n="xe">{%a. language%}</div> <div n="xs">{#AkzepavacaH;#}</div> {%a. writer%}
+{#*parUzaleKakaH.#}
 <LEND>

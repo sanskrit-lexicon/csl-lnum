@@ -1,6 +1,6 @@
-<L>228334<pc>1127,3<k1>saMkzi<k2>saM-kzi<h>b<e>1
-<hom>b.</hom> <s>saM-</s>√ <hom>4.</hom> <s>kzi</s> ¦ <ab>P.</ab> <s>-kziRAti</s>√ <hom>4.</hom> to destroy completely, annihilate, <ls>AV.</ls> :
-<div n="to"/><ab>Pass.</ab> <s>-kzIyate</s>, to be destroyed or exhausted, waste away, disappear, perish, <ls>MBh.</ls>; <ls>Suśr.</ls>; <ls>Bhartṛ.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-kzapayati</s>, to cause to, disappear, destroy, <ls>Suśr.</ls>;
-<div n="vp"/> <s>-kzayayati</s> See <s>-kzayita</s>.<info verb="pre" cp="P" parse="sam+kzi"/>
+<L>228334<pc>1127,3<k1>saMkzi<k2>saM-kzi<e>1
+ <s>saM-</s>√ <hom>4.</hom> <s>kzi</s> ¦ <ab>P.</ab> <s>-kziRAti</s>√ <hom>4.</hom> to destroy completely, annihilate, <ls>AV.</ls> :
+<div n="vp"/><ab>Pass.</ab> <s>-kzIyate</s>, to be destroyed or exhausted, waste away, disappear, perish, <ls>MBh.</ls>; <ls>Suśr.</ls>; <ls>Bhartṛ.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>-kzapayati</s>, to cause to, disappear, destroy, <ls>Suśr.</ls>;
+<div n="vp"/> <s>-kzayayati</s> See <s>-kzayita</s>.<info verb="pre" cp="P" parse="sam+kzi"/><info hui="b"/>
 <LEND>

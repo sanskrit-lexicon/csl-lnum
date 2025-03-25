@@ -1,6 +1,6 @@
 <L>18494<pc>568<k1>radius<k2>radius
-<div n="lb"/>{@RADIUS:@}¦ <div n="I">I In Geo.: </div><div n="1">(1) {#vyAsArDam, “vyAsArDArDaM #}
-<div n="lb"/>{# nayet kendrAt”,#} A. b.; </div><div n="1">(2) {#vizkamBArDam,#} A. b.;</div>
-<div n="lb"/><div n="1">(3) {#trijyA#} ({#jIvA#}) (of the meridian), Su. ii.
-<div n="lb"/>60. </div><div n="I">II A bone: {#bAhunalakam#} (?).</div>
+{@RADIUS:@}¦ <div n="I">I In Geo.: </div><div n="1">(1) {#vyAsArDam, “vyAsArDArDaM #}
+{# nayet kendrAt”,#} A. b.; </div><div n="1">(2) {#vizkamBArDam,#} A. b.;</div>
+<div n="1">(3) {#trijyA#} ({#jIvA#}) (of the meridian), Su. ii.
+60. </div><div n="I">II A bone: {#bAhunalakam#} (?).</div>
 <LEND>

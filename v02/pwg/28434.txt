@@ -1,123 +1,123 @@
 <L>28434<pc>3-0200<k1>tatas<k2>ta/tas
-{#ta/tas#}¦ (wie eben) adv. correl. mit {#yatas#} . 
-<div n="1"> 1) = abl. von {#ta (tad)#} 
-<ls>P. 5, 3, 7. 8. 6, 3, 35.</ls> 
-<ls>H. an. 7, 50.</ls> {#yo dfti^H, tata^H pibatam#} 
-<ls>ṚV. 8, 5, 19.</ls> <ls n="ṚV.">1, 164, 25.</ls> <ls n="ṚV.">10, 97, 12.</ls> {#prApyate hyamftaM tataH#} 
-<ls>M. 12, 85.</ls> {#yadBakzyaM syAttato dadyAdbalim#} 
-<ls>6, 7.</ls> {#na tu tfpyetsvayaM tataH#} 
-<ls>4, 251.</ls> {#tato 'rDam#} 
-<ls>9, 112.</ls> {#vinA tataH#} 
-<ls>4, 82.</ls> <ls>SUŚR. 2, 159, 5.</ls> {#tato (= tasyAH)hfdayam - nivartayitum#} 
-<ls>ŚĀK. 53.</ls> {#DanAdDarmaM tataH suKam#} ({#Apnoti#}) ad 
-<ls>HIT. Pr. 5. 6.</ls> 
-<ls>PAÑCAT. Pr. 10.</ls> {#tataH sTAnAt#} 
-<ls>246, 2.</ls> {#tata\H pari^zvajIyasI de\vatA\ sA mama^ pri\yA#} 
-<ls>AV. 10, 8, 25. 4, 4, 3.</ls> {#tato BUyaH#} 
-<ls>ĪŚOP. 9.</ls> {#tato duHKataraM nu kim#} 
-<ls>BHAG. 2, 36.</ls> 
-<ls>HIḌ. 1, 37.</ls> {#aByaDikaM tataH#} 
-<ls>BRĀHMAṆ. 1, 8. 18.</ls> 
-<ls>BHAG. 6, 22.</ls> 
-<ls>M. 1, 95. 2, 65.</ls> {#tato dviguRaviSAlena#} 
-<ls>BHĀG. P. 5, 20, 2.</ls> {#tato nAstIha puRyavAn#} ad 
-<ls>HIT. 14, 22.</ls> {#tato 'nyo nAstyapuRyakft#} 
-<ls>M. 5, 52.</ls> {#tato 'nyatra = tasmAdanyasmin#} 
-<ls>AK. 2, 1, 13.</ls> {#tato 'nyataH#} {%anderswohin%} 
-<ls>M. 2, 200.</ls> {#tata\H para^m#} {%über ihn%} oder {%darüber hinausliegend%} 
-<ls>AV. 18, 2, 32.</ls> adv. {%ausser diesen, ausserdem, ferner%} <is>Kār</is>. 
-<ls>?7 aus der KĀŚ. zu P. 7, 2, 10. H. 39.</ls> {#yatastataH#} {%von wem es auch sei, vom ersten Besten%}: {#ne hetArTAn - yatastataH#} 
-<ls>M. 4, 15.</ls> {#yo 'nnamatti yatastataH#} 
-<ls>10, 104. 11, 261.</ls> <ls>YĀJÑ. 1,129.</ls>
+{#ta/tas#}¦ (wie eben) adv. correl. mit {#yatas#} .
+<div n="1"> 1) = abl. von {#ta (tad)#}
+<ls>P. 5,3,7.</ls> <ls n="P. 5,3,">8.</ls> <ls n="P.">6,3,35.</ls>
+<ls>H. an. 7,50.</ls> {#yo dfti^H, tata^H pibatam#}
+<ls>ṚV. 8,5,19.</ls> <ls n="ṚV.">1,164,25.</ls> <ls n="ṚV.">10,97,12.</ls> {#prApyate hyamftaM tataH#}
+<ls>M. 12,85.</ls> {#yadBakzyaM syAttato dadyAdbalim#}
+<ls n="M.">6,7.</ls> {#na tu tfpyetsvayaM tataH#}
+<ls n="M.">4,251.</ls> {#tato 'rDam#}
+<ls n="M.">9,112.</ls> {#vinA tataH#}
+<ls n="M.">4,82.</ls> <ls>SUŚR. 2,159,5.</ls> {#tato#} (= {#tasyAH)hfdayam — nivartayitum#}
+<ls>ŚĀK. 53.</ls> {#DanAdDarmaM tataH suKam#} ({#Apnoti#}) ad
+<ls>HIT. Pr. 5. 6.</ls>
+<ls>PAÑCAT. Pr. 10.</ls> {#tataH sTAnAt#}
+<ls n="PAÑCAT.">246,2.</ls> {#tata\H pari^zvajIyasI de\vatA\ sA mama^ pri\yA#}
+<ls>AV. 10,8,25.</ls> <ls n="AV.">4,4,3.</ls> {#tato BUyaH#}
+<ls>ĪŚOP. 9.</ls> {#tato duHKataraM nu kim#}
+<ls>BHAG. 2,36.</ls>
+<ls>HIḌ. 1,37.</ls> {#aByaDikaM tataH#}
+<ls>BRĀHMAṆ. 1,8. 18.</ls>
+<ls>BHAG. 6,22.</ls>
+<ls>M. 1,95.</ls> <ls n="M.">2,65.</ls> {#tato dviguRaviSAlena#}
+<ls>BHĀG. P. 5,20,2.</ls> {#tato nAstIha puRyavAn#} ad
+<ls>HIT. 14,22.</ls> {#tato 'nyo nAstyapuRyakft#}
+<ls>M. 5,52.</ls> {#tato 'nyatra = tasmAdanyasmin#}
+<ls>AK. 2,1,13.</ls> {#tato 'nyataH#} {%anderswohin%}
+<ls>M. 2,200.</ls> {#tata\H para^m#} {%über ihn%} oder {%darüber hinausliegend%}
+<ls>AV. 18,2,32.</ls> adv. {%ausser diesen, ausserdem, ferner%} <is>Kār.</is> 7
+ aus der <ls>KĀŚ.</ls> zu <ls>P. 7,2,10.</ls> <ls>H. 39.</ls> {#yatastataH#} {%von wem es auch sei, vom ersten Besten%}: {#ne hetArTAn — yatastataH#}
+<ls>M. 4,15.</ls> {#yo 'nnamatti yatastataH#}
+<ls n="M.">10,104.</ls> <ls n="M.">11,261.</ls> <ls>YĀJÑ. 1,129.</ls>
 [Page3-0201]
-= {#tasmin#} {%zu dem hin%}: {#yadyadeva hi vAYCeta tato vAYCA pravartate#} 
-<ls>HIT. I, 179.</ls> 
-<div n="1">— 2) {%von daher, von da aus; an der Stelle, dort%}: {#tata\ A ga^hi#} 
-<ls>ṚV. 3, 37, 11.</ls> <ls n="ṚV. 3,">40, 9.</ls> <ls n="ṚV.">8, 50, 12.</ls> 
-<ls>AV. 1, 10, 1. 3, 4, 2. 4, 19, 6.</ls> {#yato^ da\zwaM yato^ DI\taM tata^ste\ nirhva^yAmasi vi\zam#} 
-<ls>7, 56, 3.</ls> {#yatra^ ya\trAsi\ nihi^tA\ tata\stvotTA^payAmasi#} 
-<ls>10, 1, 29.</ls> {#tato 'gnimAnayitveha#} 
-<ls>SĀV. 5, 78.</ls> {#ekadA ca niSi svEraM tataH prAyAt#} 
-<ls>VID. 278.</ls> {#yato GftenAnaktaM syAttataH puroLASasya prASnIyAt#} 
-<ls>AIT. BR. 2, 23. 8, 10.</ls> {#vibuDAH sahitAH sarve yataH pucCaM tataH sTitAH#} 
-<ls>MBH. 1, 1126.</ls> {#yataH kfzRastataH sarve yataH kfzRastato jayaH#} 
-<ls>7513. 6, 1588. 8, 4434.</ls> {%dahin%}: {#yataH kzemaM tato gantum#} 
-<ls>BRĀHMAṆ. 1, 20.</ls> {#yato BagIraTo rAjA tato gaNgA - jagAma#} 
-<ls>R. 1, 44, 34.</ls> {#yataSca BayamASaNkettato vistArayedbalam#} 
-<ls>M. 7, 188.</ls> {#yato yato - tatastataH#} {%woher —, wohin —, wo immer - von dorther, dahin, dort%}: {#yato yato niHsarati manaH kAmahataM Bramat . tatastata upAhftya hfdi runDyAcCanErbuDaH ..#} 
-<ls>BHĀG. P. 7, 15, 33. 9, 15, 31.</ls> {#yato yato zawcaraRo 'Divartate tatastataH prezitavAmalocanA#} 
-<ls>ŚĀK. 23.</ls> {#tatastataH#} {%von hier und von dort, hier und da, hierhin und dorthin, von allen Seiten, allerwärts, überallhin%}: {#tato divyAni mAlyAni prAdurAsaMstatastataH#} 
-<ls>MBH. 5, 7111.</ls> {#nESAni sarvaBUtAni pracaranti tatastataH#} 
-<ls>R. 1, 35, 18.</ls> {#tato daSaraTastrIRAM prAsAdeByastatastataH - mandaM SuSrAva jalpitam#} 
-<ls>2, 57, 18. 3, 62, 37.</ls> <ls>BHĀG. P. 3, 17. 10.</ls> {#PalAni ca suganDIni BakzitAni tatastataH#} 
-<ls>INDR. 1, 26.</ls> {#yaTA vAyurjalaDarAnvikarzati tatastataH#} 
-<ls>MBH. 13, 51.</ls> {#itastataH#} {%von hier und von da%}: {#candanAgurukAzWAni samAjahruritastataH#} 
-<ls>R. 6, 96, 2. 1, 31, 17.</ls> {%hier und dort%} 
-<ls>3, 61, 16.</ls> <ls>HIT. 20, 13. 22, 2.</ls> {%hierhin und dorthin, hin und her%} 
-<ls>DRAUP. 8, 25.</ls> 
-<ls>N. 10, 4. 13, 40.</ls> {#yatastataH#} {%von wo es auch sei, wo immer%}: {#arTeByo hi vivfdDeByaH saMvftteByo yatastataH#} 
-<ls>PAÑCAT. I, 6.</ls> {#SiloYCamapyAdadIta vipro 'jIvanyatastataH#} 
-<ls>M. 10, 112.</ls> 
-<div n="1">— 3) {%darauf, in Folge dessen, dann%} ({#kaTAntare#} und {#Anantarye#} 
-<ls>H. an.</ls> und <ls>VIŚVA</ls> im <ls>ŚKDR.</ls>) <ls>ŚAT. BR. 5, 1, 1, 1.</ls> <ls>M. 1, 6. 3, 253. N. 1, 18. 4, 21.</ls> <ls>HIT. 10, 1. 10.</ls> <ls>RAGH. 2, 30.</ls> <ls>VID. 95. 183.</ls> {#tataH#} oder {#tataH kim#} {%was%} (geschah) {%dann?%} (dieses ist das {#tataH paripraSne#} 
-<ls>H. an.</ls> <ls>VIŚVA</ls>) <ls>ŚĀK. 72, 4</ls>, v.l. {#tatastataH#} dass. 
-<ls>HIT. 81, 2.</ls> {#pUrvam - tataH#} 
-<ls>M. 2, 60.</ls> 
-<ls>ŚĀK. 189</ls> (v. l. {#praTamam - tataH#}). {#agre - tataH#} 
-<ls>ŚAT. BR. 14, 4, 2, 1.</ls> 
-<ls>P. 3, 4, 24,</ls> 
-<ls>Sch.</ls> {#prAk - tataH - tataH - ataH param#} 
-<ls>PAÑCAT. 241, 25.</ls> Häufig müssig. indem die {%Folge%} schon auf andere Weise (namentlich durch einen vorangehenden absol.) angedeutet ist: {#saMniyamya tu tAnyeva tataH sidDiM niyacCati#} 
-<ls>M. 2, 93. 3, 251. 7, 59. 12, 11.</ls> 
-<ls>N. 2, 9. 14. 4, 23. 7, 1.</ls> 
-<ls>R. 1, 2, 29. 8, 24.</ls> 
-<ls>VID. 221. 324.</ls> {#tayA sa kAye nirdagDe mucyate kilvizAttataH#} 
-<ls>M. 11, 90.</ls> {#evamuktastaTA tena - AjuhAva tato Denum#} 
-<ls>R. 1, 52, 20.</ls> in Verbind. mit {#tadAH tatastA vidrutA nAryaH sahadEtyagaRAstadA#} 
-<ls>SUND. 4, 20.</ls> 
-<ls>N. 1, 19. 2, 2. 8, 24. 17, 34.</ls> 
-<ls>DAŚ. 2, 16.</ls> 
-<ls>VID. 328.</ls> mit {#aTa#} 
-<ls>R. 1, 65, 9.</ls> 
-<ls>VID. 176.</ls> {#tataH paScAt#} 
-<ls>M. 3, 116. 117.</ls> 
-<ls>HIḌ. 4, 16.</ls> 
-<ls>R. 6, 1, 5. 16, 19. 96, 15.</ls> 
-<ls>PAÑCAT. 21, 25.</ls> 
-<ls>HIT. 17, 20, v. l.</ls> {#puras - tato 'nu - idAnIm#} 
-<ls>AMAR. 66.</ls> {#tataH praBfti#} {%von dann an%} 
-<ls>M. 9, 68.</ls> 
-<ls>N. 2, 1.</ls> 
-<ls>PAÑCAT. 5, 12.</ls> 
-<ls>HIT. 25, 15.</ls> 
-<ls>AMAR. 68.</ls> {#tata etarhi#} 
-<ls>ŚAT. BR. 1, 4, 1, 15.</ls> {#tata idAnIm#} 
-<ls>ŚĀK. 50, 8.</ls> {#tataH kzaRAt#} {%sogleich darauf%} 
-<ls>KATHĀS. 4, 76. 5, 75.</ls> {#tataH kzaRam#} 
-<ls>12, 161.</ls> {#tataH param#} {%darnach, nachher, später%}: {#sarastadAsAdya vanaM ca puRyaM tataH paraM kimakurvanta#} 
-<ls>MBH. 3, 14741. 1, 7414.</ls> 
-<ls>RAGH. 3, 39.</ls> In Correl. mit {#yad: yattvA^ de\vAH pra\piba^nti\ tata\ A pyA^yase\ puna^H#} 
-<ls>ṚV. 10, 85, 5.</ls> 
-<ls>AV. 12, 4, 7. 8. 9.</ls> mit {#yatra#} 
-<ls>ŚAT. BR. 1, 1. 4, 16.</ls> mit {#yadA#} 
-<ls>N. 20, 27.</ls> 
-<ls>R. 1, 60, 11.</ls> mit {#yadi#} 
-<ls>CHĀND. UP. 6. 16, 1. 2.</ls> 
-<ls>BHAG. 11, 4.</ls> 
-<ls>N. 4, 17.</ls> 
-<ls>HARIV. 6527.</ls> 
-<ls>PAT.</ls> zu <ls>P. 6, 4, 159.</ls> <ls>BHARTṚ. 1, 80.</ls> <ls>RAGH. 3, 65.</ls> <ls>ŚĀK. 3,7,  v. l.</ls> <ls>ŚUK. 45, 2.</ls> <ls>DHŪRTAS. 77, 14.</ls> <ls>P. 3, 3, 140,</ls> <ls>Sch.</ls>
+= {#tasmin#} {%zu dem hin%}: {#yadyadeva hi vAYCeta tato vAYCA pravartate#}
+<ls>HIT. I,179.</ls>
+<div n="1">— 2) {%von daher, von da aus; an der Stelle, dort%}: {#tata\ A ga^hi#}
+<ls>ṚV. 3,37,11.</ls> <ls n="ṚV. 3,">40,9.</ls> <ls n="ṚV.">8,50,12.</ls>
+<ls>AV. 1,10,1.</ls> <ls n="AV.">3,4,2.</ls> <ls n="AV.">4,19,6.</ls> {#yato^ da\zwaM yato^ DI\taM tata^ste\ nirhva^yAmasi vi\zam#}
+<ls n="AV.">7,56,3.</ls> {#yatra^ ya\trAsi\ nihi^tA\ tata\stvotTA^payAmasi#}
+<ls n="AV.">10,1,29.</ls> {#tato 'gnimAnayitveha#}
+<ls>SĀV. 5,78.</ls> {#ekadA ca niSi svEraM tataH prAyAt#}
+<ls>VID. 278.</ls> {#yato GftenAnaktaM syAttataH puroLASasya prASnIyAt#}
+<ls>AIT. BR. 2,23.</ls> <ls n="AIT. BR.">8,10.</ls> {#vibuDAH sahitAH sarve yataH pucCaM tataH sTitAH#}
+<ls>MBH. 1,1126.</ls> {#yataH kfzRastataH sarve yataH kfzRastato jayaH#}
+<ls n="MBH. 1,">7513.</ls> <ls n="MBH.">6,1588.</ls> <ls n="MBH.">8,4434.</ls> {%dahin%}: {#yataH kzemaM tato gantum#}
+<ls>BRĀHMAṆ. 1,20.</ls> {#yato BagIraTo rAjA tato gaNgA — jagAma#}
+<ls>R. 1,44,34.</ls> {#yataSca BayamASaNkettato vistArayedbalam#}
+<ls>M. 7,188.</ls> {#yato yato — tatastataH#} {%woher —, wohin —, wo immer — von dorther, dahin, dort%}: {#yato yato niHsarati manaH kAmahataM Bramat . tatastata upAhftya hfdi runDyAcCanErbuDaH ..#}
+<ls>BHĀG. P. 7,15,33.</ls> <ls n="BHĀG. P.">9,15,31.</ls> {#yato yato zawcaraRo 'Divartate tatastataH prezitavAmalocanA#}
+<ls>ŚĀK. 23.</ls> {#tatastataH#} {%von hier und von dort, hier und da, hierhin und dorthin, von allen Seiten, allerwärts, überallhin%}: {#tato divyAni mAlyAni prAdurAsaMstatastataH#}
+<ls>MBH. 5,7111.</ls> {#nESAni sarvaBUtAni pracaranti tatastataH#}
+<ls>R. 1,35,18.</ls> {#tato daSaraTastrIRAM prAsAdeByastatastataH — mandaM SuSrAva jalpitam#}
+<ls n="R.">2,57,18.</ls> <ls n="R.">3,62,37.</ls> <ls>BHĀG. P. 3,17,10.</ls> {#PalAni ca suganDIni BakzitAni tatastataH#}
+<ls>INDR. 1,26.</ls> {#yaTA vAyurjalaDarAnvikarzati tatastataH#}
+<ls>MBH. 13,51.</ls> {#itastataH#} {%von hier und von da%}: {#candanAgurukAzWAni samAjahruritastataH#}
+<ls>R. 6,96,2.</ls> <ls n="R.">1,31,17.</ls> {%hier und dort%}
+<ls n="R.">3,61,16.</ls> <ls>HIT. 20,13.</ls> <ls n="HIT.">22,2.</ls> {%hierhin und dorthin, hin und her%}
+<ls>DRAUP. 8,25.</ls>
+<ls>N. 10,4.</ls> <ls n="N.">13,40.</ls> {#yatastataH#} {%von wo es auch sei, wo immer%}: {#arTeByo hi vivfdDeByaH saMvftteByo yatastataH#}
+<ls>PAÑCAT. I,6.</ls> {#SiloYCamapyAdadIta vipro 'jIvanyatastataH#}
+<ls>M. 10,112.</ls>
+<div n="1">— 3) {%darauf, in Folge dessen, dann%} ({#kaTAntare#} und {#Anantarye#}
+<ls>H. an.</ls> und <ls>VIŚVA</ls> im <ls>ŚKDR.</ls>) <ls>ŚAT. BR. 5,1,1,1.</ls> <ls>M. 1,6.</ls> <ls n="M.">3,253.</ls> <ls>N. 1,18.</ls> <ls n="N.">4,21.</ls> <ls>HIT. 10,1. 10.</ls> <ls>RAGH. 2,30.</ls> <ls>VID. 95. 183.</ls> {#tataH#} oder {#tataH kim#} {%was%} (geschah) {%dann?%} (dieses ist das {#tataH paripraSne#}
+<ls>H. an.</ls> <ls>VIŚVA</ls>) <ls>ŚĀK. 72,4</ls>, v.l. {#tatastataH#} dass.
+<ls>HIT. 81,2.</ls> {#pUrvam — tataH#}
+<ls>M. 2,60.</ls>
+<ls>ŚĀK. 189</ls> (v. l. {#praTamam — tataH#}). {#agre — tataH#}
+<ls>ŚAT. BR. 14,4,2,1.</ls>
+<ls>P. 3,4,24</ls>, <ls>Sch.</ls>
+{#prAk — tataH — tataH — ataH param#}
+<ls>PAÑCAT. 241,25.</ls> Häufig müssig. indem die {%Folge%} schon auf andere Weise (namentlich durch einen vorangehenden absol.) angedeutet ist: {#saMniyamya tu tAnyeva tataH sidDiM niyacCati#}
+<ls>M. 2,93.</ls> <ls n="M.">3,251.</ls> <ls n="M.">7,59.</ls> <ls n="M.">12,11.</ls>
+<ls>N. 2,9. 14. 4,23. 7,1.</ls>
+<ls>R. 1,2,29.</ls> <ls n="R. 1,">8,24.</ls>
+<ls>VID. 221. 324.</ls> {#tayA sa kAye nirdagDe mucyate kilvizAttataH#}
+<ls>M. 11,90.</ls> {#evamuktastaTA tena — AjuhAva tato Denum#}
+<ls>R. 1,52,20.</ls> in Verbind. mit {#tadAH tatastA vidrutA nAryaH sahadEtyagaRAstadA#}
+<ls>SUND. 4,20.</ls>
+<ls>N. 1,19. 2,2. 8,24. 17,34.</ls>
+<ls>DAŚ. 2,16.</ls>
+<ls>VID. 328.</ls> mit {#aTa#}
+<ls>R. 1,65,9.</ls>
+<ls>VID. 176.</ls> {#tataH paScAt#}
+<ls>M. 3,116.</ls> <ls n="M. 3,">117.</ls>
+<ls>HIḌ. 4,16.</ls>
+<ls>R. 6,1,5.</ls> <ls n="R. 6,">16,19.</ls> <ls n="R. 6,">96,15.</ls>
+<ls>PAÑCAT. 21,25.</ls>
+<ls>HIT. 17,20, v. l.</ls> {#puras — tato 'nu — idAnIm#}
+<ls>AMAR. 66.</ls> {#tataH praBfti#} {%von dann an%}
+<ls>M. 9,68.</ls>
+<ls>N. 2,1.</ls>
+<ls>PAÑCAT. 5,12.</ls>
+<ls>HIT. 25,15.</ls>
+<ls>AMAR. 68.</ls> {#tata etarhi#}
+<ls>ŚAT. BR. 1,4,1,15.</ls> {#tata idAnIm#}
+<ls>ŚĀK. 50,8.</ls> {#tataH kzaRAt#} {%sogleich darauf%}
+<ls>KATHĀS. 4,76.</ls> <ls n="KATHĀS.">5,75.</ls> {#tataH kzaRam#}
+<ls n="KATHĀS.">12,161.</ls> {#tataH param#} {%darnach, nachher, später%}: {#sarastadAsAdya vanaM ca puRyaM tataH paraM kimakurvanta#}
+<ls>MBH. 3,14741.</ls> <ls n="MBH.">1,7414.</ls>
+<ls>RAGH. 3,39.</ls> In Correl. mit {#yad: yattvA^ de\vAH pra\piba^nti\ tata\ A pyA^yase\ puna^H#}
+<ls>ṚV. 10,85,5.</ls>
+<ls>AV. 12,4,7.</ls> <ls n="AV. 12,4,">8.</ls> <ls n="AV. 12,4,">9.</ls> mit {#yatra#}
+<ls>ŚAT. BR. 1,1. 4,16.</ls> mit {#yadA#}
+<ls>N. 20,27.</ls>
+<ls>R. 1,60,11.</ls> mit {#yadi#}
+<ls>CHĀND. UP. 6. 16,1. 2.</ls>
+<ls>BHAG. 11,4.</ls>
+<ls>N. 4,17.</ls>
+<ls>HARIV. 6527.</ls>
+<ls>PAT.</ls> zu <ls>P. 6,4,159.</ls> <ls>BHARTṚ. 1,80.</ls> <ls>RAGH. 3,65.</ls> <ls>ŚĀK. 3,7, v. l.</ls> <ls>ŚUK. 45,2.</ls> <ls>DHŪRTAS. 77,14.</ls> <ls>P. 3,3,140</ls>, <ls>Sch.</ls>
 [Page3-0202]
-mit {#ced#} 
-<ls>TAITT. UP. 2, 6.</ls> <ls>ŚĀK. 71, 13</ls>, v.l. mit zu ergänzender Conditionalpartikel: {#prAptAH SriyaH sakalakAmaduGAstataH kim#} 
-<ls>BHARTṚ. 3, 68.</ls> 
-<div n="1">— 4) {%daher, darum, deshalb%} 
-<ls>AK. 3, 5, 3.</ls> 
-<ls>H. 1537.</ls> 
-<ls>H. an.</ls> 
-<ls>AV. 9, 2, 19. 6, 113, 1. 12, 4, 31.</ls> 
-<ls>MBH. 12, 13626.</ls> 
-<ls>HIT. 26, 22. 19, 2, v. l.</ls> 
-<ls>H. 11.</ls> {#tato 'nusaMgfhIto 'smi yatprIto me BavAn#} 
-<ls>R. 6, 104, 31. -</ls> <ls>H. an.</ls> und <ls>VIŚVA</ls> geben dem Worte noch die Bedeutung von {#Adi#} (!).
+mit {#ced#}
+<ls>TAITT. UP. 2,6.</ls> <ls>ŚĀK. 71,13</ls>, v.l. mit zu ergänzender Conditionalpartikel: {#prAptAH SriyaH sakalakAmaduGAstataH kim#}
+<ls>BHARTṚ. 3,68.</ls>
+<div n="1">— 4) {%daher, darum, deshalb%}
+<ls>AK. 3,5,3.</ls>
+<ls>H. 1537.</ls>
+<ls>H. an.</ls>
+<ls>AV. 9,2,19.</ls> <ls n="AV.">6,113,1.</ls> <ls n="AV.">12,4,31.</ls>
+<ls>MBH. 12,13626.</ls>
+<ls>HIT. 26,22. 19,2, v. l.</ls>
+<ls>H. 11.</ls> {#tato 'nusaMgfhIto 'smi yatprIto me BavAn#}
+<ls>R. 6,104,31.</ls> — <ls>H. an.</ls> und <ls>VIŚVA</ls> geben dem Worte noch die Bedeutung von {#Adi#} (!).
 <LEND>

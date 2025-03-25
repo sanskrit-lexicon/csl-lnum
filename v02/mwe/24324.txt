@@ -1,8 +1,8 @@
 <L>24324<pc>652-a<k1>race<k2>race
-<div n="lb"/>RACE¦, {%s.%} (Lineage) {#vaMSaH, santatiH#} {%f.,%} {#santAnaH, anvayaH, kulaM, jAtiH#} {%f.,%}
-<div n="lb"/>{#anvavAyaH, gotraM, vaMSaparamparA, vaMSAvaliH#} {%f.,%} {#vaMSavitatiH#} {%f.,%} {#putrapOtrA-#}
-<div n="lb"/>{#divaMSaparamparA, tantuH#} {%m.,%} {#aBijanaH, pravaraM, varRaH, jananaM, anUkaM, sagotraM;#}
-<div n="lb"/>‘human race,’ {#manuzyajAtiH#} {%f.,%} {#nfjAtiH#} {%f.%} — (A running or course)
-<div n="lb"/>{#caryyA, DAvanaM, mArgaH;#} ‘horse-race,’ {#aSvacaryyA, aSvaDAvanaM, aSvamArgaH#}.
-<div n="lb"/> — (Ginger) {#gulmamUlaM#}.
+RACE¦, {%s.%} (Lineage) {#vaMSaH, santatiH#} {%f.,%} {#santAnaH, anvayaH, kulaM, jAtiH#} {%f.,%}
+{#anvavAyaH, gotraM, vaMSaparamparA, vaMSAvaliH#} {%f.,%} {#vaMSavitatiH#} {%f.,%} {#putrapOtrA-#}
+{#divaMSaparamparA, tantuH#} {%m.,%} {#aBijanaH, pravaraM, varRaH, jananaM, anUkaM, sagotraM;#}
+‘human race,’ {#manuzyajAtiH#} {%f.,%} {#nfjAtiH#} {%f.%} — (A running or course)
+{#caryyA, DAvanaM, mArgaH;#} ‘horse-race,’ {#aSvacaryyA, aSvaDAvanaM, aSvamArgaH#}.
+ — (Ginger) {#gulmamUlaM#}.
 <LEND>

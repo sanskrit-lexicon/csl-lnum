@@ -1,54 +1,44 @@
 <L>113688<pc>7-1268<k1>stuB<k2>stuB<h>1
-1. {#stuB#}¦, {#sto/Bati (arcatikarman)#} 
-<ls>NAIGH. 3, 14.</ls> 
-<ls>NIR. 7, 12.</ls> {#stoBate (stamBe)#} 
-<ls>DHĀTUP. 10, 34.</ls> {#stuBnAti (roDane, nizkozaRe)#} 
-<ls>31, 7.</ls> auch {#stuBnoti#} 
-<ls>P. 3, 1, 82.</ls> 
-<ls>VOP. 16, 1.</ls> Zu belegen nur {#stoBati, (pra) stuBAna/#} und {#stubDa#} . {%einen Laut ausstossen, juchzen, trällern%} und dgl.; gewöhnlich von {%dem Einfügen verschiedener Singinterjectionen in das%} <is>Sāman</is> (vgl. {#stoBa#}) 
-<ls>VĀLAKH. 6, 1.</ls> {#padAya padAya stoBet#} 
-<ls>LĀṬY. 1, 6, 1. 2, 9, 19. 3, 9, 7. 7, 7, 2.</ls> 
-<ls>ṢAḌV. BR. 3, 1.</ls>
-
-<div n="p">— caus. {%jauchzen%} 
-<ls>ṚV. 1, 88, 6.</ls> {#gopIBiH stoBito 'nftyadBagavAn#} {%bejauchzt%} 
-<ls>BHĀG. P. 10, 11, 7.</ls>
-
-<div n="p">— {#anu#} {%nachträllern%} 
-<ls>NIR. 7, 12.</ls> daher {#anuzwuB#} nach {%dem der%} <is>Gāyatrī</is> {%nachgeschlagenen vierten%} <is>Pāda</is>; ähnlich {#trizwuB#} von {%den drei überschüssigen Silben.%} Vgl. auch {#anuzwoBana#} .
-
-<div n="p">— {#aBi#}, {#°zwoBati, aByazwoBat#} 
-<ls>P. 8, 3, 63. 65.</ls> {%hinzuträllern%} 
-<ls>LĀṬY. 1, 12, 11.</ls> {#tryakzaram#} 
-<ls>7, 11, 6. 8.</ls>
-
-<div n="p">— {#vyava#} {%sondern durch dergleichen Rufe%} 
-<ls>LĀṬY. 7, 6, 25.</ls> 
-<ls>NIDĀNAS. 6, 7.</ls>
-
-<div n="p">— {#A#} {%zujauchzen%} 
-<ls>ŚĀṄKH. ŚR. 18, 15, 5.</ls>
-
-<div n="p">— {#pari#}, {#°zwoBati#} u. s. w. 
-<ls>P. 8, 3, 63. 65.</ls> {%umjauchzen%} u. s. w. 
-<ls>ṚV. 1, 80, 9.</ls> {#su\taM pari^ zwoBanti no\ gira^H#} 
-<ls n="ṚV.">8, 81, 19.</ls> <ls n="ṚV.">9, 64, 28.</ls> <ls>PAÑCAV. BR. 8, 9, 12. 12, 1, 2. 4, 27.</ls> 
+1. {#stuB#}¦, {#sto/Bati (arcatikarman)#}
+<ls>NAIGH. 3,14.</ls>
+<ls>NIR. 7,12.</ls> {#stoBate (stamBe)#}
+<ls>DHĀTUP. 10,34.</ls> {#stuBnAti (roDane, nizkozaRe)#}
+<ls n="DHĀTUP.">31,7.</ls> auch {#stuBnoti#}
+<ls>P. 3,1,82.</ls>
+<ls>VOP. 16,1.</ls> Zu belegen nur {#stoBati, (pra) stuBAna/#} und {#stubDa#} . {%einen Laut ausstossen, juchzen, trällern%} und dgl.; gewöhnlich von {%dem Einfügen verschiedener Singinterjectionen in das%} <is>Sāman</is> (vgl. {#stoBa#})
+<ls>VĀLAKH. 6,1.</ls> {#padAya padAya stoBet#}
+<ls>LĀṬY. 1,6,1. 2,9,19. 3,9,7. 7,7,2.</ls>
+<ls>ṢAḌV. BR. 3,1.</ls>
+<div n="p">— caus. {%jauchzen%}
+<ls>ṚV. 1,88,6.</ls> {#gopIBiH stoBito 'nftyadBagavAn#} {%bejauchzt%}
+<ls>BHĀG. P. 10,11,7.</ls>
+<div n="p">— {#anu#} {%nachträllern%}
+<ls>NIR. 7,12.</ls> daher {#anuzwuB#} nach {%dem der%} <is>Gāyatrī</is> {%nachgeschlagenen vierten%} <is>Pāda</is>; ähnlich {#trizwuB#} von {%den drei überschüssigen Silben.%} Vgl. auch {#anuzwoBana#} .
+<div n="p">— {#aBi#}, {#°zwoBati, aByazwoBat#}
+<ls>P. 8,3,63.</ls> <ls n="P. 8,3,">65.</ls> {%hinzuträllern%}
+<ls>LĀṬY. 1,12,11.</ls> {#tryakzaram#}
+<ls n="LĀṬY.">7,11,6. 8.</ls>
+<div n="p">— {#vyava#} {%sondern durch dergleichen Rufe%}
+<ls>LĀṬY. 7,6,25.</ls>
+<ls>NIDĀNAS. 6,7.</ls>
+<div n="p">— {#A#} {%zujauchzen%}
+<ls>ŚĀṄKH. ŚR. 18,15,5.</ls>
+<div n="p">— {#pari#}, {#°zwoBati#} u. s. w.
+<ls>P. 8,3,63.</ls> <ls n="P. 8,3,">65.</ls> {%umjauchzen%} u. s. w.
+<ls>ṚV. 1,80,9.</ls> {#su\taM pari^ zwoBanti no\ gira^H#}
+<ls n="ṚV.">8,81,19.</ls> <ls n="ṚV.">9,64,28.</ls> <ls>PAÑCAV. BR. 8,9,12. 12,1,2. 4,27.</ls>
 <div n="v">— Vgl. {#parizwuB, °zwoBa#} .
-
-<div n="p">— {#pra#} {%durch einen Zuruf antreiben%}: {#vA\jI na sarge^zu prastuBA\naH#} 
-<ls>ṚV. 4, 3, 12.</ls> — caus. {%Jmd zujauchzen%}: {#tvaM vAsudevo BagavAnavatIrRo jagatpatiH . iti prastoBito bAlErmena AtmAnamacyutam ..#} 
-<ls>BHĀG. P. 10, 66, 2.</ls> {%durch Rufe verhöhnen, verspotten%} 
-<ls>22, 22.</ls> 
+<div n="p">— {#pra#} {%durch einen Zuruf antreiben%}: {#vA\jI na sarge^zu prastuBA\naH#}
+<ls>ṚV. 4,3,12.</ls> — caus. {%Jmd zujauchzen%}: {#tvaM vAsudevo BagavAnavatIrRo jagatpatiH . iti prastoBito bAlErmena AtmAnamacyutam ..#}
+<ls>BHĀG. P. 10,66,2.</ls> {%durch Rufe verhöhnen, verspotten%}
+<ls n="BHĀG. P. 10,">22,22.</ls>
 <div n="v">— Vgl. {#prastoBa#} .
-
-<div n="p">— {#prati#} {%mit einem Schrei antworten, entgegenjauchzen%} u. s. w. 
-<ls>ṚV. 1, 88, 6.</ls> {#prati^ zwoBanti\ sinDa^vaH#} 
-<ls n="ṚV. 1,">168, 8.</ls> {#stomA^sastvA\ prati^ zwoBantya\ktuBi^H#} 
-<ls n="ṚV.">5, 84, 2.</ls>
-
-<div n="p">— {#vi#}, {#°zwoBate, vyazwoBizwa#} 
-<ls>VOP. 8, 45. 108.</ls>
-
-<div n="p">— {#sam#} in {#saMstuB#} <lex>f.</lex> {%Gejauchze%} 
-<ls>VS. 15, 5.</ls> Vgl. auch {#saMstoBa#} .
+<div n="p">— {#prati#} {%mit einem Schrei antworten, entgegenjauchzen%} u. s. w.
+<ls>ṚV. 1,88,6.</ls> {#prati^ zwoBanti\ sinDa^vaH#}
+<ls n="ṚV. 1,">168,8.</ls> {#stomA^sastvA\ prati^ zwoBantya\ktuBi^H#}
+<ls n="ṚV.">5,84,2.</ls>
+<div n="p">— {#vi#}, {#°zwoBate, vyazwoBizwa#}
+<ls>VOP. 8,45.</ls> <ls n="VOP. 8,">108.</ls>
+<div n="p">— {#sam#} in {#saMstuB#} <lex>f.</lex> {%Gejauchze%}
+<ls>VS. 15,5.</ls> Vgl. auch {#saMstoBa#} .
 <LEND>

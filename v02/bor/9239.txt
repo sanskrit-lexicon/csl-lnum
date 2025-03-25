@@ -1,14 +1,14 @@
 <L>9239<pc>293<k1>form<k2>form
-<div n="lb"/>{@FORM@}¦ (v.t.): <div n="I">I To construct: </div><div n="1">(1) {#nirmimIte#}
-<div n="lb"/>({#mA,#} c. 3.), <div n="xe">{%to f. this charming f.:%}</div> <div n="xs">{#manoharamidaM rUpaM #}
-<div n="lb"/>{# nirmAtum,#}</div> V.i.; </div><div n="1">(2) {#Gawayati#} ({#Gaw,#} c. 10.) <div n="xe">{%f. ed of%}
-<div n="lb"/>{%thread:%}</div> <div n="xs">{#tantuGawitaH#}</div> ({#tA, taM#}). V. d.; </div><div n="1">(3) {#vidaDAti#}
-<div n="lb"/>({#DA,#} c. 3.), Ki. vi. 42.: v. To make. </div><div n="I">II
-<div n="lb"/>To enter upon: </div><div n="1">(1) {#Gawayati,#} <div n="xe">{%better not to f.%}
-<div n="lb"/>{%affection:%}</div> <div n="xs">{#sneho hi varamaGawitaH,#}</div> Bho.; </div><div n="1">(2) {#vidaDAti,#}
-<div n="lb"/><div n="xe">{%f. ing friendship:%}</div> <div n="xs">{#viDAya mEtrIm,#}</div> Si. </div><div n="I">III To con-
-<div n="lb"/>-ceive: q.v.: {#kalpayati#} ({#kxp,#} c. 10.). </div><div n="I">IV To
-<div n="lb"/>train: {#saMskaroti,#} <div n="xe">{%f. ed mind:%}</div> <div n="xs">{#saMskftamanas.#}</div> </div><div n="I">V To
-<div n="lb"/>constitute: {#mavati,#} <div n="xe">{%they f. ed the majority:%}</div> <div n="xs">{#*te #}
-<div n="lb"/>{# bahavo baBUvuH.#}</div> </div><div n="I">VI To derive: q.v.</div>
+{@FORM@}¦ (v.t.): <div n="I">I To construct: </div><div n="1">(1) {#nirmimIte#}
+({#mA,#} c. 3.), <div n="xe">{%to f. this charming f.:%}</div> <div n="xs">{#manoharamidaM rUpaM #}
+{# nirmAtum,#}</div> V.i.; </div><div n="1">(2) {#Gawayati#} ({#Gaw,#} c. 10.) <div n="xe">{%f. ed of%}
+{%thread:%}</div> <div n="xs">{#tantuGawitaH#}</div> ({#tA, taM#}). V. d.; </div><div n="1">(3) {#vidaDAti#}
+({#DA,#} c. 3.), Ki. vi. 42.: v. To make. </div><div n="I">II
+To enter upon: </div><div n="1">(1) {#Gawayati,#} <div n="xe">{%better not to f.%}
+{%affection:%}</div> <div n="xs">{#sneho hi varamaGawitaH,#}</div> Bho.; </div><div n="1">(2) {#vidaDAti,#}
+<div n="xe">{%f. ing friendship:%}</div> <div n="xs">{#viDAya mEtrIm,#}</div> Si. </div><div n="I">III To con-
+-ceive: q.v.: {#kalpayati#} ({#kxp,#} c. 10.). </div><div n="I">IV To
+train: {#saMskaroti,#} <div n="xe">{%f. ed mind:%}</div> <div n="xs">{#saMskftamanas.#}</div> </div><div n="I">V To
+constitute: {#mavati,#} <div n="xe">{%they f. ed the majority:%}</div> <div n="xs">{#*te #}
+{# bahavo baBUvuH.#}</div> </div><div n="I">VI To derive: q.v.</div>
 <LEND>

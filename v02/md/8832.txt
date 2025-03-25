@@ -1,11 +1,3 @@
 <L>8832<pc>112-3<k1>tras<k2>tras
-{#tras#}¦TRAS, I.P. {@trása,@} IV. ({%E. also%} Ā.) 
-<>{@trasya,@} tremble {%or%} quake, at, be afraid 
-<>of ({%in., ab., g.%}): {%pp.%} {@trastá,@} affrighted, trembling; <lbinfo n="4"/>
-<> {%cs.%} {@trāsaya,@} P. ({%E. also%} Ā.) shake; 
-<>frighten, scare. {@apa,@} start back, flee. {@ud,@} {%pp.%} 
-<>{@uttrasta,@} frightened; {%cs.%} terrify, scare away. 
-<>{@pari,@} {%pp.%} terrified. {@vi,@} tremble, be frightened: 
-<>{%pp.%} affrighted; {%cs.%} terrify. {@sam,@} {%pp.%} terrified; 
-<>{%cs.%} terrify.
+{#tras#}¦ TRAS, <cl>Ⅰ.</cl> <lex>P.</lex> {@trása,@} <cl>Ⅳ.</cl> (<ab>E.</ab> {%also%} <lex>Ā.</lex>) 🞄{@trasya,@} tremble {%or%} quake, at, be afraid 🞄of (<ab>in.</ab>, <ab>ab.</ab>, <ab>g.</ab>): <ab>pp.</ab> {@trastá,@} affrighted, trembling; 🞄<ab>cs.</ab> {@trāsaya,@} <lex>P.</lex> (<ab>E.</ab> {%also%} <lex>Ā.</lex>) shake; 🞄frighten, scare. {@apa,@} start back, flee. {@ud,@} <ab>pp.</ab> 🞄{@uttrasta,@} frightened; <ab>cs.</ab> terrify, scare away. 🞄{@pari,@} <ab>pp.</ab> terrified. {@vi,@} tremble, be frightened: 🞄<ab>pp.</ab> affrighted; <ab>cs.</ab> terrify. {@sam,@} <ab>pp.</ab> terrified; 🞄<ab>cs.</ab> terrify.
 <LEND>

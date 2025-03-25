@@ -1,25 +1,25 @@
 <L>21177<pc>667<k1>spirit<k2>spirit
-<div n="lb"/>{@SPIRIT:@}¦ <div n="I">I Breath, life: q. v.: {#prARaH.#} </div><div n="I">II
-<div n="lb"/>Animating principle: {#prARaH,#} <div n="xe">{%s. alone is death-%}
-<div n="lb"/>{%less:%}</div> <div n="xs">{#prARa evEko mftyunA'nAptaH,#}</div> S.: v. Soul. Ph.:
-<div n="lb"/><div n="xe">{%the supreme s.:%}</div> <div n="xs">{#brahman#}</div> (n.) <div n="xe">{%or%}</div> <div n="xs">{#paraM brahma,#}</div> Vi. </div><div n="I">III
-<div n="lb"/>Mind: q. v.: {#manas#} (n.), <div n="xe">{%loftiness of s.:%}</div> <div n="xs">{#manasaH #}
-<div n="lb"/>{# samunnatiH,#}</div> Ku. vi. 66. Ph.: {%high s. s%} (=joy):
-<div n="lb"/>{#praharzaH;#} <div n="xe">{%good s. s:%}</div> <div n="xs">{#praPullatA.#}</div> </div><div n="I">IV Energy, vigour:</div>
-<div n="lb"/><div n="1">(1) {#sattvam,#} <div n="xe">{%loses s.:%}</div> <div n="xs">{#sattvAt pariBraSyate,#}</div> H. 133.;
-<div n="lb"/><div n="xe">{%evincing high s.:%}</div> <div n="xs">{#kftasattvavegaH,#}</div> Ki. xvii. 15.;</div>
-<div n="lb"/><div n="1">(2) {#tejas#} (mfn.), <div n="xe">{%lacking s.:%}</div> <div n="xs">{#nistejas,#}</div> Mu.
-<div n="lb"/>i. 13.; {%again with the s. hightened from a%}
-<div n="lb"/>{%determination%} ({%to fight%}): {#BUyaH samADAnavivfdDatejAH,#}
-<div n="lb"/>Ki. xvii. 7. </div><div n="I">V Of style: {#ojas#} (n.), Kav.
-<div n="lb"/>viii. 4. </div><div n="I">VI Temper, disposition: q. v.:
-<div n="lb"/>{#prakftiH.#} </div><div n="I">VII Prevailing disposition (as “s. of
-<div n="lb"/>the age”): {#rItiH.#} </div><div n="I">VIII Real meaning:
-<div n="lb"/>{#BAvaH#} <div n="xe">{%or%}</div> <div n="xs">{#BAvArTaH:#}</div> v. Intention. </div><div n="I">IX A person:
-<div n="lb"/>{#vyaktiH.#} </div><div n="I">X A ghost: </div><div n="1">(1) {#BUtaH.#} Ph.: {%evil s.:%}
-<div n="lb"/>{#pretaH,#} Wilson. </div><div n="I">XI Disembodied s.: </div><div n="1">(1)
-<div n="lb"/>(= dead); </div><div n="1">(2) not expr. (as corporeality
-<div n="lb"/>is always supposed), <div n="xe">{%and the s. of the king%}
-<div n="lb"/>{%Daśaratha:%}</div> <div n="xs">{#sa ca rAjA daSaraTaH,#}</div> Ram. vi. 102. 4.</div>
-<div n="lb"/><div n="I">XII A spirituous liquor: {#surA.#}</div>
+{@SPIRIT:@}¦ <div n="I">I Breath, life: q. v.: {#prARaH.#} </div><div n="I">II
+Animating principle: {#prARaH,#} <div n="xe">{%s. alone is death-%}
+{%less:%}</div> <div n="xs">{#prARa evEko mftyunA'nAptaH,#}</div> S.: v. Soul. Ph.:
+<div n="xe">{%the supreme s.:%}</div> <div n="xs">{#brahman#}</div> (n.) <div n="xe">{%or%}</div> <div n="xs">{#paraM brahma,#}</div> Vi. </div><div n="I">III
+Mind: q. v.: {#manas#} (n.), <div n="xe">{%loftiness of s.:%}</div> <div n="xs">{#manasaH #}
+{# samunnatiH,#}</div> Ku. vi. 66. Ph.: {%high s. s%} (=joy):
+{#praharzaH;#} <div n="xe">{%good s. s:%}</div> <div n="xs">{#praPullatA.#}</div> </div><div n="I">IV Energy, vigour:</div>
+<div n="1">(1) {#sattvam,#} <div n="xe">{%loses s.:%}</div> <div n="xs">{#sattvAt pariBraSyate,#}</div> H. 133.;
+<div n="xe">{%evincing high s.:%}</div> <div n="xs">{#kftasattvavegaH,#}</div> Ki. xvii. 15.;</div>
+<div n="1">(2) {#tejas#} (mfn.), <div n="xe">{%lacking s.:%}</div> <div n="xs">{#nistejas,#}</div> Mu.
+i. 13.; {%again with the s. hightened from a%}
+{%determination%} ({%to fight%}): {#BUyaH samADAnavivfdDatejAH,#}
+Ki. xvii. 7. </div><div n="I">V Of style: {#ojas#} (n.), Kav.
+viii. 4. </div><div n="I">VI Temper, disposition: q. v.:
+{#prakftiH.#} </div><div n="I">VII Prevailing disposition (as “s. of
+the age”): {#rItiH.#} </div><div n="I">VIII Real meaning:
+{#BAvaH#} <div n="xe">{%or%}</div> <div n="xs">{#BAvArTaH:#}</div> v. Intention. </div><div n="I">IX A person:
+{#vyaktiH.#} </div><div n="I">X A ghost: </div><div n="1">(1) {#BUtaH.#} Ph.: {%evil s.:%}
+{#pretaH,#} Wilson. </div><div n="I">XI Disembodied s.: </div><div n="1">(1)
+(= dead); </div><div n="1">(2) not expr. (as corporeality
+is always supposed), <div n="xe">{%and the s. of the king%}
+{%Daśaratha:%}</div> <div n="xs">{#sa ca rAjA daSaraTaH,#}</div> Ram. vi. 102. 4.</div>
+<div n="I">XII A spirituous liquor: {#surA.#}</div>
 <LEND>

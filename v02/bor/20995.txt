@@ -1,7 +1,7 @@
 <L>20995<pc>660<k1>somewhere<k2>somewhere
-<div n="lb"/>{@SOMEWHERE:@}¦ <div n="I">I In or to some place: </div><div n="1">(1)
-<div n="lb"/>{#kvApi,#} <div n="xe">{%s. else:%}</div> <div n="xs">{#anyatra kvApi,#}</div> Ra.; </div><div n="1">(2) {#kutrApi;#}</div>
-<div n="lb"/><div n="1">(3) {#kvacit, -api;#} </div><div n="1">(4) {#kutracit, -api.#} </div><div n="I">II From
-<div n="lb"/>s.: {#kutaScit#} <div n="xe">{%or%}</div> <div n="xs">{#kuto'pi;#}</div> <div n="xe">{%from s. else:%}</div> <div n="xs">{#anyataH #}
-<div n="lb"/>{# kutaScit.#}</div></div>
+{@SOMEWHERE:@}¦ <div n="I">I In or to some place: </div><div n="1">(1)
+{#kvApi,#} <div n="xe">{%s. else:%}</div> <div n="xs">{#anyatra kvApi,#}</div> Ra.; </div><div n="1">(2) {#kutrApi;#}</div>
+<div n="1">(3) {#kvacit, -api;#} </div><div n="1">(4) {#kutracit, -api.#} </div><div n="I">II From
+s.: {#kutaScit#} <div n="xe">{%or%}</div> <div n="xs">{#kuto'pi;#}</div> <div n="xe">{%from s. else:%}</div> <div n="xs">{#anyataH #}
+{# kutaScit.#}</div></div>
 <LEND>

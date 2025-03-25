@@ -1,21 +1,21 @@
-<L>30742<pc>2100-1<k1>keSa<k2>ke/Sa<h>1<e>100
-1. {#ke/Sa#}¦
-<div n="1">— 1) <lex>m.</lex> (<lex>adj.</lex> Comp. <lex>f.</lex> {#A#} und {#I#})
-<div n="2">— a) {%Haupthaar.%}
-<div n="2">— b) {%Mähne.%}
-<div n="2">— c) <ab>Pl.</ab> {%Schweif%} (des Bos grunniens) <ls>233,16.</ls>
-<div n="2">— d) {%*eine Art Andropogon.%}
-<div n="2">— e) {%ein best. Mineral.%}
-<div n="2">— f) *<ab>Bein.</ab>
-<div n="3">— α) <is>Varuṇa</is>'s.
-<div n="3">— β) <is>Viṣṇu</is>'s.
-<div n="2">— g) <ab>N.pr.</ab>
-<div n="3">— α) *eines <is>Daitya</is>.
-<div n="3">— β) einer Oertlichkeit.
-<div n="1">— 2) *<lex>f.</lex> {#keSI#}
-<div n="2">— a) {%ein Büschel von Haaren auf dem Scheitel des Kopfes.%}
-<div n="2">— b) {%die Indigopflanze.%}
-<div n="2">— c) {%<bot>Carpopogon pruriens</bot>.%}
-<div n="2">— d) = {#BUtakeSI#} {%eine best. Pflanze.%}
-<div n="2">— e) <ab>Bein.</ab> der <is>Durgā</is>.
+<L>30742<pc>2-100-a<k1>keSa<k2>ke/Sa<h>1
+<hom>1.</hom> {#ke/Sa#}¦
+<div n="1">— 1〉 <lex>m.</lex> (<ab>adj. Comp.</ab> <lex>f.</lex> {#A#} und {#I#})
+<div n="2">— a〉 {%Haupthaar%}.
+<div n="2">— b〉 {%Mähne%}.
+<div n="2">— c〉 <ab>Pl.</ab> {%Schweif%} (des <zoo>Bos grunniens</zoo>) <ls n="Chr.">233,16</ls>.
+<div n="2">— d〉 *{%eine Art Andropogon%}.
+<div n="2">— e〉 {%ein <ab>best.</ab> Mineral%}.
+<div n="2">— f〉 *<ab>Bein.</ab>
+<div n="3">— α〉 <is>Varuṇa</is>ʼs.
+<div n="3">— β〉 <is>Viṣṇu</is>ʼs.
+<div n="2">— g〉 <ab>N. pr.</ab>
+<div n="3">— α〉 *eines <is>Daitya</is>.
+<div n="3">— β〉 einer Oertlichkeit.
+<div n="1">— 2〉 *<lex>f.</lex> {#keSI#}
+<div n="2">— a〉 {%ein Büschel von Haaren auf dem Scheitel des Kopfes%}.
+<div n="2">— b〉 {%die Indigopflanze%}.
+<div n="2">— c〉 {%<bot>Carpopogon pruriens</bot>%}.
+<div n="2">— d〉 = {#BUtakeSI#} {%eine <ab>best.</ab> Pflanze%}.
+<div n="2">— e〉 <ab>Bein.</ab> der <is>Durgā</is>.
 <LEND>

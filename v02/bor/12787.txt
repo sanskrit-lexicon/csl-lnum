@@ -1,6 +1,6 @@
 <L>12787<pc>395<k1>jack<k2>jack
-<div n="lb"/>{@JACK:@}¦ J. The tree: <div n="1">(1) {#panasaH;#} </div><div n="1">(2) {#kaRwakiPalaH.#}</div>
-<div n="lb"/><div n="I">II The fruit: {#panasam.#} </div><div n="I">III A fellow:
-<div n="lb"/>{#mARavakaH.#} </div><div n="I">IV For boots: {#*nizkarzakaH.#} </div><div n="I">V A pike:
-<div n="lb"/>{#jalasUciH.#} </div><div n="I">VI A frame: {#BAraH.#}</div>
+{@JACK:@}¦ J. The tree: <div n="1">(1) {#panasaH;#} </div><div n="1">(2) {#kaRwakiPalaH.#}</div>
+<div n="I">II The fruit: {#panasam.#} </div><div n="I">III A fellow:
+{#mARavakaH.#} </div><div n="I">IV For boots: {#*nizkarzakaH.#} </div><div n="I">V A pike:
+{#jalasUciH.#} </div><div n="I">VI A frame: {#BAraH.#}</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>6286<pc>265<k1>locomotion<k2>locomotion
 {@Locomotion,@}¦ {%s.%} {#sTAnAMtara-sTalAMtara-gamanaM,#}
-<div n="lb"/>{#calanaM, gamanAgamanaM#}. {@2@} {#calana-gamanAgamana-Sakti#}
-<div n="lb"/>{%f.%} {@-Locomotive.@} {%a.%} {#cala, calana, jaMgama,#}
-<div n="lb"/>{#calanaSIla, gativiSizwa, calanaDarmaka,#}
-<div n="lb"/>{#saMcArin#}.
+{#calanaM, gamanAgamanaM#}. {@2@} {#calana-gamanAgamana-Sakti#}
+{%f.%} {@-Locomotive.@} {%a.%} {#cala, calana, jaMgama,#}
+{#calanaSIla, gativiSizwa, calanaDarmaka,#}
+{#saMcArin#}.
 <LEND>

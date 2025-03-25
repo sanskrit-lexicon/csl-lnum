@@ -1,10 +1,10 @@
 <L>111722<pc>7-1136<k1>suSItala<k2>suSItala
-{#suSItala#}¦ 
-<div n="1"> 1) <lex>adj.</lex> {%schön —, recht kühl%} 
-<ls>MBH. 3, 2535.</ls> 
-<ls>CAURAP. 2.</ls> 
-<ls>Spr. (II) 451. 2215.</ls> 
-<div n="1">— 2) <lex>n.</lex> {%weisser Sandel%} 
-<ls>RATNAM. 140.</ls> = {#kattfRa#} 
-<ls>257.</ls>
+{#suSItala#}¦
+<div n="1"> 1) <lex>adj.</lex> {%schön —, recht kühl%}
+<ls>MBH. 3,2535.</ls>
+<ls>CAURAP. 2.</ls>
+<ls>Spr. (II) 451.</ls> <ls n="Spr. (II)">2215.</ls>
+<div n="1">— 2) <lex>n.</lex> {%weisser Sandel%}
+<ls>RATNAM. 140.</ls> = {#kattfRa#}
+<ls n="RATNAM.">257.</ls>
 <LEND>

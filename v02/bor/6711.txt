@@ -1,5 +1,5 @@
 <L>6711<pc>215<k1>doctor<k2>doctor
-<div n="lb"/>{@DOCTOR@}¦ (subs.): <div n="I">I A physician: q. v.: {#vEdyaH.#}</div>
-<div n="lb"/><div n="I">II A learned man: {#paRqitaH,#} {%‘d. of laws’:%}
-<div n="lb"/>{#DarmaSAstraviSAradaH.#}</div>
+{@DOCTOR@}¦ (subs.): <div n="I">I A physician: q. v.: {#vEdyaH.#}</div>
+<div n="I">II A learned man: {#paRqitaH,#} {%‘d. of laws’:%}
+{#DarmaSAstraviSAradaH.#}</div>
 <LEND>

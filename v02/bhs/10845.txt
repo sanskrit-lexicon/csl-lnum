@@ -1,6 +1,3 @@
 <L>10845<pc>397,1<k1>banDaka<k2>banDaka
-{@bandhaka@}¦, nt., {%container, case%} (for holding knives):
-<div n="lb">śastraṃ nāsti, tayā °kaṃ gṛhītam, śastraṃ dattam MSV
-<div n="lb">ii.79.8. Cf. Skt. kṣura-bhāṇḍa, Pali khura-bhaṇḍa, {%razor-%}
-<div n="lb">{%case%}; perh. read bhāndakam in MSV?
+{@bandhaka@}¦, <lex>nt.</lex>, {%container, case%} (for holding knives): śastraṃ nāsti, tayā °kaṃ gṛhītam, śastraṃ dattam <ls>MSV</ls> 〔ii.79.8〕. <ab>Cf.</ab> <lang>Skt.</lang> kṣura-bhāṇḍa, <lang>Pali</lang> khura-bhaṇḍa, {%razor-case%}; <ab>perh.</ab> read bhāndakam in <ls>MSV</ls>?
 <LEND>

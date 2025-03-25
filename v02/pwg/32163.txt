@@ -1,43 +1,43 @@
 <L>32163<pc>3-0541<k1>darSin<k2>darSin
-{#darSin#}¦ (von {#darS#}) <lex>adj.</lex> am Ende eines comp. 
-<div n="1"> 1) {%sehend, ansehend; schauend, kennend, in Etwas Einsicht habend%}: {#parasyAntaradarSinA#} 
-<ls>R. 6, 89, 18.</ls> {#pARqusaMGAta°#} 
-<ls>SUŚR. 1, 121, 12.</ls> {#sarvavfttAnta°#} 
-<ls>HIT. 17, 4.</ls> {#dohadaliNga°#} 
-<ls>RAGH. 14, 71.</ls> {#tad°#} 
-<ls>KUMĀRAS. 2, 13.</ls> {#SataM grAmavarAMScEva dadyAmarjunadarSine#} {%der%} <is>Arjuna</is> {%gesehen hat, weiss wo er ist%} (vgl. {#darSivaMs#}) 
-<ls>MBH. 8, 1757.</ls> {#kanakapurI°#} {%der gesehen hat%} 
-<ls>KATHĀS. 25, 297.</ls> {#praBorBAladarSI#} 
-<ls>AK. 3, 4, 17.</ls> {#anyo'nyAnanadarSinaH#} 
-<ls>KATHĀS. 24, 49.</ls> {#sarvato BayadarSinI#} 
-<ls>R. 3, 27, 9.</ls> {#piRqavicCeda°#} 
-<ls>RAGH. 1, 66.</ls> {#navAByutTAna°#} 
-<ls>4, 3.</ls> {#nityaM cAduHKadarSinI#} {%die niemals Unglück gesehen hat%} 
-<ls>R. 3, 65, 11.</ls> {#nfpatiriva nikAmamAyadarSI#} {%Einkünfte sehend%} so v. a. {%erhaltend%} 
-<ls>MṚCCH. 33, 4.</ls> {#sama°#} {%der auf Alles gleich sieht%} 
-<ls>BHAG. 5, 18.</ls> 
-<ls>MĀRK. P. 18, 30.</ls> {#viBinna°#} 
-<ls>23, 38.</ls> {#ginna°#} 
-<ls>BHĀG. P. 3, 29, 33.</ls> {#pfTaktva°#} 
-<ls>SUŚR. 1, 150, 3.</ls> {#anyaTA°#} 
-<ls>7, 10.</ls> {#mantra°#} 
-<ls>M. 3, 212.</ls> {#veda°#} 
-<ls>11, 234.</ls> {#deSakAlArTa°#} 
-<ls>?8, 157. MBH. 2, 236. 251. BHAG. 2, 16. 11, 34. N. 7, 12. 12, 66. 100. HARIV. 4139. 12919. R. 2, 1, 15. 46, 29. VIKR. 86, 19. 87, 1. MĀLAV. 34, 2. DAŚAK. in BENF. Chr. 182, 12.</ls> {#sUkzma°#} {%feinsehend%} 
+{#darSin#}¦ (von {#darS#}) <lex>adj.</lex> am Ende eines comp.
+<div n="1"> 1) {%sehend, ansehend; schauend, kennend, in Etwas Einsicht habend%}: {#parasyAntaradarSinA#}
+<ls>R. 6,89,18.</ls> {#pARqusaMGAta°#}
+<ls>SUŚR. 1,121,12.</ls> {#sarvavfttAnta°#}
+<ls>HIT. 17,4.</ls> {#dohadaliNga°#}
+<ls>RAGH. 14,71.</ls> {#tad°#}
+<ls>KUMĀRAS. 2,13.</ls> {#SataM grAmavarAMScEva dadyAmarjunadarSine#} {%der%} <is>Arjuna</is> {%gesehen hat, weiss wo er ist%} (vgl. {#darSivaMs#})
+<ls>MBH. 8,1757.</ls> {#kanakapurI°#} {%der gesehen hat%}
+<ls>KATHĀS. 25,297.</ls> {#praBorBAladarSI#}
+<ls>AK. 3,4,17.</ls> {#anyo'nyAnanadarSinaH#}
+<ls>KATHĀS. 24,49.</ls> {#sarvato BayadarSinI#}
+<ls>R. 3,27,9.</ls> {#piRqavicCeda°#}
+<ls>RAGH. 1,66.</ls> {#navAByutTAna°#}
+<ls n="RAGH.">4,3.</ls> {#nityaM cAduHKadarSinI#} {%die niemals Unglück gesehen hat%}
+<ls>R. 3,65,11.</ls> {#nfpatiriva nikAmamAyadarSI#} {%Einkünfte sehend%} so v. a. {%erhaltend%}
+<ls>MṚCCH. 33,4.</ls> {#sama°#} {%der auf Alles gleich sieht%}
+<ls>BHAG. 5,18.</ls>
+<ls>MĀRK. P. 18,30.</ls> {#viBinna°#}
+<ls n="MĀRK. P.">23,38.</ls> {#ginna°#}
+<ls>BHĀG. P. 3,29,33.</ls> {#pfTaktva°#}
+<ls>SUŚR. 1,150,3.</ls> {#anyaTA°#}
+<ls n="SUŚR.">7,10.</ls> {#mantra°#}
+<ls>M. 3,212.</ls> {#veda°#}
+<ls n="M.">11,234.</ls> {#deSakAlArTa°#}
+<ls n="M.">8,157.</ls> <ls>MBH. 2,236.</ls> <ls n="MBH. 2,">251.</ls> <ls>BHAG. 2,16. 11,34.</ls> <ls>N. 7,12. 12,66. 100.</ls> <ls>HARIV. 4139.</ls> <ls n="HARIV.">12919.</ls> <ls>R. 2,1,15.</ls> <ls n="R. 2,">46,29.</ls> <ls>VIKR. 86,19. 87,1.</ls> <ls>MĀLAV. 34,2.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 182,12.</ls> {#sUkzma°#} {%feinsehend%}
 <ls>KAṬHOP. 3,12.</ls>
 [Page3-0542]
-{#alpa°#} {%wenig Einsicht habend%} 
-<ls>R. GORR. 2, 64, 3.</ls> {#asADu°#} 
-<ls>ŚĀK. 9, 12.</ls> {#tatsUktadarSitva#} {%das Schauen, Dichten%} 
-<ls>ROTH,</ls> <ls>Zur L. u. G. d. W. 27.</ls> 
-<div n="1">— 2) {%ein best. Aussehen habend%} (vgl. {#darSana#} 2, {%b)%}: {#nalinIM cArudarSinIm#} 
-<ls>R. 4, 40, 48.</ls> 
-<div n="1">— 3) {%sehen lassend, zeigend%}: {#hetuBirmokzadarSiBiH#} 
-<ls>MBH. 1, 522</ls> (vgl. {#hetuBirmokzadarSanEH#} 
-<ls>583</ls>). {#snehapravfttirevaMdarSinI#} (könnte hier auch {%sehend%} bedeuten) 
-<ls>ŚĀK. 58, 4.</ls> {%sehen lassend%} so v. a. {%erleiden lassend, zufügend%}: {#pApadarSinI#} (vgl. {#pApadarSanA#} 
-<ls>R. GORR. 2, 9, 38</ls>) <ls>R. 2, 35, 25. 73, 5.</ls> <ls>R. GORR. 2, 6, 13. 8, 37.</ls> {#krUradarSinI#} 
-<ls>R. 2, 75, 12.</ls> {#niSumBaBayadarSinI (durgA)#} 
-<ls>HARIV. 10247.</ls> 
+{#alpa°#} {%wenig Einsicht habend%}
+<ls>R. GORR. 2,64,3.</ls> {#asADu°#}
+<ls>ŚĀK. 9,12.</ls> {#tatsUktadarSitva#} {%das Schauen, Dichten%}
+<ls>ROTH</ls>, <ls>Zur L. u. G. d. W. 27.</ls>
+<div n="1">— 2) {%ein best. Aussehen habend%} (vgl. {#darSana#} 2, {%b)%}: {#nalinIM cArudarSinIm#}
+<ls>R. 4,40,48.</ls>
+<div n="1">— 3) {%sehen lassend, zeigend%}: {#hetuBirmokzadarSiBiH#}
+<ls>MBH. 1,522</ls> (vgl. {#hetuBirmokzadarSanEH#}
+<ls n="MBH. 1,">583</ls>). {#snehapravfttirevaMdarSinI#} (könnte hier auch {%sehend%} bedeuten)
+<ls>ŚĀK. 58,4.</ls> {%sehen lassend%} so v. a. {%erleiden lassend, zufügend%}: {#pApadarSinI#} (vgl. {#pApadarSanA#}
+<ls>R. GORR. 2,9,38</ls>) <ls>R. 2,35,25.</ls> <ls n="R. 2,">73,5.</ls> <ls>R. GORR. 2,6,13.</ls> <ls n="R. GORR. 2,">8,37.</ls> {#krUradarSinI#}
+<ls>R. 2,75,12.</ls> {#niSumBaBayadarSinI (durgA)#}
+<ls>HARIV. 10247.</ls>
 <div n="v">— Vgl. {#ati°, anIci°, amoGa°, kzema°, trikAla°, dIrGa°, dvAra°#} .
 <LEND>

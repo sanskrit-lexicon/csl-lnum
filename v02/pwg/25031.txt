@@ -1,49 +1,49 @@
 <L>25031<pc>2-0976<k1>carya<k2>carya
-{#carya#}¦ (von {#car#}) 
-<ls>P. 3, 1, 100.</ls> 
-<ls>VOP. 26, 15.</ls> 
-<div n="1"> 1) <lex>adj.</lex> {%zu üben, zu vollziehen%}: {#zawtriMSadAbdikaM caryaM gurO trEvedikaM vratam#} 
-<ls>M. 3, 1.</ls> 
-<div n="1">— 2) <lex>f.</lex> {#A#} 
-<ls>VOP. 26, 186.</ls> 
-<div n="2"> a) {%das Herumgehen, Wandern, Herumstreichen, Fahren; das Durchstreichen, Besuchen%}: {#vanavAsasya SUrasya mama caryA hi rocate#} 
-<ls>R. 2, 29, 15.</ls> {#tato 'rjunaM vAsudevastAM caryAM paryapfcCata . kimarTaM pARqavEtAni tIrTAnyanucarasyuta ..#} 
-<ls>MBH. 1, 7890.</ls> {#caryAyAM hayamutsfzwaM pARqavasyAnugacCataH#} 
-<ls>607.</ls> {#taTEva raTamAruhya nApsu caryA viDIyate#} 
-<ls>14, 1397.</ls> {#rAtricaryA bahirgeham#} 
-<ls>8, 2099.</ls> {#raTa°#} {%das Fahren zu Wagen%} 
-<ls>9, 470. 13, 5101.</ls> <ls>R. 1, 19, 19</ls> (wo {#raTacaryAsu#} zu lesen ist). {#vana°#} 
-<ls>R. GORR. 2, 29, 15.</ls> {#tIrTa°#} 
-<ls>BHĀG. P. 9, 16, 1.</ls> 
-<div n="2">— b) {%das Verfahren, Benehmen, Betragen, Wandel%}: {#SiSoH#} 
-<ls>MBH. 1, 357.</ls> {#vEzRavI#} 
-<ls>HARIV. 11056.</ls> {#pratirUpa°#} 
-<ls>ŚAT. BR. 11, 5, 7, 1.</ls> {#vrAtya°#} 
-<ls>LĀṬY. 8, 6, 28.</ls> {#atipraRIta°#} 
-<ls>ĀŚV. ŚR. 12, 4.</ls> {#AsAM maharzicaryARAM tyaktvAnyatamayA tanum#} 
-<ls>M. 6, 32.</ls> {#sAScaryacarya#} <lex>adj.</lex> 
-<ls>BHARTṚ. 2, 59.</ls> {#yatsvayaM piSAcacaryAmacarat#} 
-<ls>BHĀG. P. 3, 14, 26.</ls> {#gomfgakAka°#} 
-<ls>5, 5, 34.</ls> {#paSucaryAM caranti#} 
-<ls>26, 23.</ls> {#taTABUtA hi sA caryA#} ({%das Verfahren bei einem Gelübde%}) {#na SApastatra yujyate#} 
-<ls>R. 1, 21, 7.</ls> {#abrahmacarye caryA#} {%ein äusseres Verfahren, äussere Zucht%} (ist {#damBa#}) 
-<ls>HARIV. 2545.</ls> {#caryA = IryApaTasTiti#} 
-<ls>AK. 2, 7, 35.</ls> 
-<ls>H. 1501.</ls> Vgl. {#kucaryA, grAma°#} . 
-<div n="2">— c) {%das Ueben, Vollziehen, Obliegen, Besorgen, Beschäftigung mit Etwas%}: {#vratacaryA#} 
-<ls>ŚAT. BR. 14, 1, 1, 33.</ls> 
-<ls>M. 1, 111.</ls> 
-<ls>R. 1, 22, 6.</ls> {#tapaScaryA#} 
-<ls>HARIV. 14907. fg.</ls> {#Darma°#} 
-<ls>RĀJA-TAR. 2, 53.</ls> {#nAnAyoga°#} 
-<ls>BHĀG. P. 5, 5, 35.</ls> {#pAramahaMsya°#} 
-<ls>4, 22, 24.</ls> <ls>BURN. Intr. 168, N. 3.</ls> {#arTacaryAM carizyan#} {%wenn er ein Geschäft zu besorgen sich anschickt%} 
-<ls>ĀŚV. GṚHY. 3, 7.</ls> {#asi°#} 
-<ls>MBH. 1, 5239.</ls> {#Sva°#} 
-<ls>13, 4827.</ls> {#aSva°#} 
-<ls>R. 1, 40, 6.</ls> Vgl. {#BEkza°, BEkzya°#} . 
-<div n="1">— 3) <lex>n.</lex> 
-<div n="2"> a) = {#caryA#} {%a%}: {#raTacarya#} 
-<ls>MBH. 8, 4215.</ls> 
+{#carya#}¦ (von {#car#})
+<ls>P. 3,1,100.</ls>
+<ls>VOP. 26,15.</ls>
+<div n="1"> 1) <lex>adj.</lex> {%zu üben, zu vollziehen%}: {#zawtriMSadAbdikaM caryaM gurO trEvedikaM vratam#}
+<ls>M. 3,1.</ls>
+<div n="1">— 2) <lex>f.</lex> {#A#}
+<ls>VOP. 26,186.</ls>
+<div n="2"> a) {%das Herumgehen, Wandern, Herumstreichen, Fahren; das Durchstreichen, Besuchen%}: {#vanavAsasya SUrasya mama caryA hi rocate#}
+<ls>R. 2,29,15.</ls> {#tato 'rjunaM vAsudevastAM caryAM paryapfcCata . kimarTaM pARqavEtAni tIrTAnyanucarasyuta ..#}
+<ls>MBH. 1,7890.</ls> {#caryAyAM hayamutsfzwaM pARqavasyAnugacCataH#}
+<ls n="MBH. 1,">607.</ls> {#taTEva raTamAruhya nApsu caryA viDIyate#}
+<ls n="MBH.">14,1397.</ls> {#rAtricaryA bahirgeham#}
+<ls n="MBH.">8,2099.</ls> {#raTa°#} {%das Fahren zu Wagen%}
+<ls n="MBH.">9,470.</ls> <ls n="MBH.">13,5101.</ls> <ls>R. 1,19,19</ls> (wo {#raTacaryAsu#} zu lesen ist). {#vana°#}
+<ls>R. GORR. 2,29,15.</ls> {#tIrTa°#}
+<ls>BHĀG. P. 9,16,1.</ls>
+<div n="2">— b) {%das Verfahren, Benehmen, Betragen, Wandel%}: {#SiSoH#}
+<ls>MBH. 1,357.</ls> {#vEzRavI#}
+<ls>HARIV. 11056.</ls> {#pratirUpa°#}
+<ls>ŚAT. BR. 11,5,7,1.</ls> {#vrAtya°#}
+<ls>LĀṬY. 8,6,28.</ls> {#atipraRIta°#}
+<ls>ĀŚV. ŚR. 12,4.</ls> {#AsAM maharzicaryARAM tyaktvAnyatamayA tanum#}
+<ls>M. 6,32.</ls> {#sAScaryacarya#} <lex>adj.</lex>
+<ls>BHARTṚ. 2,59.</ls> {#yatsvayaM piSAcacaryAmacarat#}
+<ls>BHĀG. P. 3,14,26.</ls> {#gomfgakAka°#}
+<ls n="BHĀG. P.">5,5,34.</ls> {#paSucaryAM caranti#}
+<ls n="BHĀG. P. 5,">26,23.</ls> {#taTABUtA hi sA caryA#} ({%das Verfahren bei einem Gelübde%}) {#na SApastatra yujyate#}
+<ls>R. 1,21,7.</ls> {#abrahmacarye caryA#} {%ein äusseres Verfahren, äussere Zucht%} (ist {#damBa#})
+<ls>HARIV. 2545.</ls> {#caryA = IryApaTasTiti#}
+<ls>AK. 2,7,35.</ls>
+<ls>H. 1501.</ls> Vgl. {#kucaryA, grAma°#} .
+<div n="2">— c) {%das Ueben, Vollziehen, Obliegen, Besorgen, Beschäftigung mit Etwas%}: {#vratacaryA#}
+<ls>ŚAT. BR. 14,1,1,33.</ls>
+<ls>M. 1,111.</ls>
+<ls>R. 1,22,6.</ls> {#tapaScaryA#}
+<ls>HARIV. 14907. fg.</ls> {#Darma°#}
+<ls>RĀJA-TAR. 2,53.</ls> {#nAnAyoga°#}
+<ls>BHĀG. P. 5,5,35.</ls> {#pAramahaMsya°#}
+<ls n="BHĀG. P.">4,22,24.</ls> <ls>BURN. Intr. 168, N. 3.</ls> {#arTacaryAM carizyan#} {%wenn er ein Geschäft zu besorgen sich anschickt%}
+<ls>ĀŚV. GṚHY. 3,7.</ls> {#asi°#}
+<ls>MBH. 1,5239.</ls> {#Sva°#}
+<ls n="MBH.">13,4827.</ls> {#aSva°#}
+<ls>R. 1,40,6.</ls> Vgl. {#BEkza°, BEkzya°#} .
+<div n="1">— 3) <lex>n.</lex>
+<div n="2"> a) = {#caryA#} {%a%}: {#raTacarya#}
+<ls>MBH. 8,4215.</ls>
 <div n="2">— b) = {#caryA#} {%c%}; s. {#brahma°, BikzA°, BEkzya°#} .
 <LEND>

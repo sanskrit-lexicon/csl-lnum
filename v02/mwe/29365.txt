@@ -1,5 +1,5 @@
 <L>29365<pc>800-a<k1>theologian<k2>theologian
-<div n="lb"/>THEOLOGIAN¦, {%s.%} {#paramArTavid#} {%m.,%} {#paramArTajYAnI#} {%m.%} {#(n), brahmajYAnI#} {%m.,%}
-<div n="lb"/>{#brahmavidyAjYaH, aDyAtmajYAnI#} {%m.,%} {#aDyAtmadfk#} {%m.%} {#(S), SrotriyaH, SrutADya-#}
-<div n="lb"/>{#yanasampannaH, DarmmaSAstrajYaH, vedAntI#} {%m.%}
+THEOLOGIAN¦, {%s.%} {#paramArTavid#} {%m.,%} {#paramArTajYAnI#} {%m.%} {#(n), brahmajYAnI#} {%m.,%}
+{#brahmavidyAjYaH, aDyAtmajYAnI#} {%m.,%} {#aDyAtmadfk#} {%m.%} {#(S), SrotriyaH, SrutADya-#}
+{#yanasampannaH, DarmmaSAstrajYaH, vedAntI#} {%m.%}
 <LEND>

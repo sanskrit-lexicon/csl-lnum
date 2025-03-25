@@ -1,6 +1,6 @@
 <L>263443<pc>1300,3<k1>hu<k2>hu<h>1<e>1
-<hom>1.</hom> <s>hu</s> ¦ <ab>cl.</ab> 3. <ab>P.</ab> (<ls>Dhātup. xxv, 1</ls>) <s>juho/ti</s> 
-(<ab>Ved.</ab> and <ab>ep.</ab> also <ab>Ā.</ab> <s>juhute/</s> 3. <ab>pl.</ab> <ab>pr.</ab> <s>ju/h</s> 3. <ab>pl.</ab> <ab>pr.</ab> <s>ju/hvati</s>, <s>°te</s>, <ls>RV.</ls> &c. <pb n="1301,1"/>;
+<hom>1.</hom> <s>hu</s> ¦ <ab>cl.</ab> 3. <ab>P.</ab> (<ls>Dhātup. xxv, 1</ls>) <s>juho/ti</s>
+(<lang>Ved.</lang> and <lang>ep.</lang> also <ab>Ā.</ab> <s>juhute/</s>; 3. <ab>pl.</ab> <ab>pr.</ab> <pb n="1301,1"/> <s>ju/hvati</s>, <s>°te</s>, <ls>RV.</ls> &c.;
 2. <ab>sg.</ab> <ab>Impv.</ab> <s>juhuDi/</s>, <ls>Br.</ls> &c.;
 <s>hozi</s>, <ls>RV.</ls>;
 <ab>p.</ab> <ab>P.</ab> <s>ju/hvat</s>;
@@ -17,7 +17,7 @@
 <ab>fut.</ab> <s>hotA</s>, <ls>ib.</ls>;
 <s>hozya/ti</s>, <s>°te</s>, <ls>AV.</ls> &c.;
 <ab>Cond.</ab> <s>ahozyat</s>, <ls>Br.</ls>;
-<ab>inf.</ab> <s>ho/tum</s>, <s>°tos</s>, <s>°tavE/</s>, and <ab>ind.p.</ab> <s>hutvA</s>, <ls>ib.</ls> &c.), 
+<ab>inf.</ab> <s>ho/tum</s>, <s>°tos</s>, <s>°tavE/</s>, and <ab>ind.p.</ab> <s>hutvA</s>, <ls>ib.</ls> &c.),
 <div n="to"/>to sacrifice (<ab>esp.</ab> pour butter into the fire), offer or present an oblation (<ab>acc.</ab> or <ab>gen.</ab>) to (<ab>dat.</ab>) or in (<ab>loc.</ab>), sacrifice to, worship or honour (<ab>acc.</ab>) with (<ab>instr.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to sprinkle on (<ab>loc.</ab>), <ls>Yājñ.</ls>;
 <div n="to"/>to eat, <ls>Vop.</ls> :

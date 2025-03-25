@@ -1,8 +1,8 @@
 <L>11177<pc>351<k1>horn<k2>horn
-<div n="lb"/>{@HORN:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#SfNgam,#} <div n="xe">{%the root of a h.:%}</div> <div n="xs">{#SfNga-#}
-<div n="lb"/>{#mUlam;#}</div> <div n="xe">{%the tip of a h.:%}</div> <div n="xs">{#SfNgAgram,#}</div> Pa.; {%sharp-h. ed:%}
-<div n="lb"/>{#tIkzRaSfNgaH,#} Ram.; </div><div n="1">(2) {#vizARam,#} {%struck with h. s.:%}
-<div n="lb"/>{#vizARErAhataH#} ({#tA, taM#}), M.n. </div><div n="I">II A wind-instru-
-<div n="lb"/>-ment: {#kAhalA,#} <div n="xe">{%blew h.s:%}</div> <div n="xs">{#kAhalAH pUrayAYcakruH,#}</div> B.
-<div n="lb"/>xiv. 3.</div>
+{@HORN:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#SfNgam,#} <div n="xe">{%the root of a h.:%}</div> <div n="xs">{#SfNga-#}
+{#mUlam;#}</div> <div n="xe">{%the tip of a h.:%}</div> <div n="xs">{#SfNgAgram,#}</div> Pa.; {%sharp-h. ed:%}
+{#tIkzRaSfNgaH,#} Ram.; </div><div n="1">(2) {#vizARam,#} {%struck with h. s.:%}
+{#vizARErAhataH#} ({#tA, taM#}), M.n. </div><div n="I">II A wind-instru-
+-ment: {#kAhalA,#} <div n="xe">{%blew h.s:%}</div> <div n="xs">{#kAhalAH pUrayAYcakruH,#}</div> B.
+xiv. 3.</div>
 <LEND>

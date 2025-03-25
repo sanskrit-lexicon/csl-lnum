@@ -1,10 +1,10 @@
 <L>24250<pc>759<k1>what<k2>what
-<div n="lb"/>{@WHAT@}¦ (interro.): {#kim,#} <div n="xe">{%w. kind, sort:%}</div> <div n="xs">{#kIdfSaH#}</div>
-<div n="lb"/>({#SI, SaM#}); <div n="xe">{%w. is his mother by caste:%}</div> <div n="xs">{#kimIyA #}
-<div n="lb"/>{# jAtyAsya mAtA,#}</div> D. viii.; <div n="xe">{%w. then:%}</div> <div n="xs">{#tataH kim,#}</div>
-<div n="lb"/>K.; {%w. is%} ({%he%}) <div n="xe">{%doing now:%}</div> <div n="xs">{#kiMvyApAraH samprati,#}</div>
-<div n="lb"/>Sa. vii.; <div n="xe">{%w. is this trial for Rāvaṇa:%}</div> <div n="xs">{#daSa-#}
-<div n="lb"/>{#kanDarasya kEzA parIkzA,#}</div> B. r.; <div n="xe">{%w. is his object in%}
-<div n="lb"/>{%sending such a message:%}</div> <div n="xs">{#evaM sandiSatastasya ko'Bi-#}
-<div n="lb"/>{#prAyaH,#}</div> K. s.
+{@WHAT@}¦ (interro.): {#kim,#} <div n="xe">{%w. kind, sort:%}</div> <div n="xs">{#kIdfSaH#}</div>
+({#SI, SaM#}); <div n="xe">{%w. is his mother by caste:%}</div> <div n="xs">{#kimIyA #}
+{# jAtyAsya mAtA,#}</div> D. viii.; <div n="xe">{%w. then:%}</div> <div n="xs">{#tataH kim,#}</div>
+K.; {%w. is%} ({%he%}) <div n="xe">{%doing now:%}</div> <div n="xs">{#kiMvyApAraH samprati,#}</div>
+Sa. vii.; <div n="xe">{%w. is this trial for Rāvaṇa:%}</div> <div n="xs">{#daSa-#}
+{#kanDarasya kEzA parIkzA,#}</div> B. r.; <div n="xe">{%w. is his object in%}
+{%sending such a message:%}</div> <div n="xs">{#evaM sandiSatastasya ko'Bi-#}
+{#prAyaH,#}</div> K. s.
 <LEND>

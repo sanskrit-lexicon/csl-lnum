@@ -1,6 +1,6 @@
 <L>10609<pc>476<k1>troop<k2>troop
 {@Troop,@}¦ {%s.%} (T. s) {#sEnikAH, padAtayaH, sEnyaM;#}
-<div n="lb"/>{%See%} {@Force. 2@} {#gulmaH-lmaM, dalaM#}. {@3@} {#yUTaM, gaRaH,#}
-<div n="lb"/>{#kadaMbaH, vfMdaM, kulaM;#} {%See%} {@Herd. -er,@} {%s.%}
-<div n="lb"/>{#sAdin#} {%m.,%} {#aSvArohaH#}.
+{%See%} {@Force. 2@} {#gulmaH-lmaM, dalaM#}. {@3@} {#yUTaM, gaRaH,#}
+{#kadaMbaH, vfMdaM, kulaM;#} {%See%} {@Herd. -er,@} {%s.%}
+{#sAdin#} {%m.,%} {#aSvArohaH#}.
 <LEND>

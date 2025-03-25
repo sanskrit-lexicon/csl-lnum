@@ -1,14 +1,14 @@
 <L>13013<pc>401<k1>kill<k2>kill
-<div n="lb"/>{@KILL:@}¦ <div n="1">(1) {#hanti, ni-,#} ({#han,#} c. 2.), <div n="xe">{%k. ed Satrā-%}
-<div n="lb"/>{%jita in sleep:%}</div> <div n="xs">{#supta satrAjitaM jaGAna,#}</div> </div><div n="I">V p.; <div n="xe">{%to k. by%}
-<div n="lb"/>{%poison:%}</div> <div n="xs">{#vizena hanti,#}</div> D. iv.; <div n="xe">{%let not duty k. ed k.%}
-<div n="lb"/>{%us:%}</div> <div n="xs">{#mA no Darmo hato'vaDIt,#}</div> Mah. iii. 313. 128. ({#vaD,#}
-<div n="lb"/>only in {#xw#} and {#luN#}); </div><div n="1">(2) {#vyApAdayati#} (c. of
-<div n="lb"/>{#pad#}), <div n="xe">{%k. the wretch:%}</div> <div n="xs">{#durAtmAnaM vyApAdaya,#}</div> Ma. iv.;</div>
-<div n="lb"/><div n="1">(3) {#mArayati#} (c. of {#mf#}) (rare), <div n="xe">{%to k. as they k.%}
-<div n="lb"/>{%animals:%}</div> <div n="xs">{#paSumAraRaM mArayitum,#}</div> Sa. vi.; </div><div n="1">(4) {#sUdayati, #}
-<div n="lb"/>{# ni-,#} ({#sUd,#} c. 10 (= to slay: q.v.): </div><div n="1">(5)
-<div n="lb"/>{#nASayati, vi-,#} (c. of {#naS#}) (= to destroy: q.v.);</div>
-<div n="lb"/><div n="1">(6) {#paralokaM nayati#} ({#nI,#} c. 1.), {#gamayati#} (c. of
-<div n="lb"/>{#gam#}), etc. (= to send to the next world).</div>
+{@KILL:@}¦ <div n="1">(1) {#hanti, ni-,#} ({#han,#} c. 2.), <div n="xe">{%k. ed Satrā-%}
+{%jita in sleep:%}</div> <div n="xs">{#supta satrAjitaM jaGAna,#}</div> </div><div n="I">V p.; <div n="xe">{%to k. by%}
+{%poison:%}</div> <div n="xs">{#vizena hanti,#}</div> D. iv.; <div n="xe">{%let not duty k. ed k.%}
+{%us:%}</div> <div n="xs">{#mA no Darmo hato'vaDIt,#}</div> Mah. iii. 313. 128. ({#vaD,#}
+only in {#xw#} and {#luN#}); </div><div n="1">(2) {#vyApAdayati#} (c. of
+{#pad#}), <div n="xe">{%k. the wretch:%}</div> <div n="xs">{#durAtmAnaM vyApAdaya,#}</div> Ma. iv.;</div>
+<div n="1">(3) {#mArayati#} (c. of {#mf#}) (rare), <div n="xe">{%to k. as they k.%}
+{%animals:%}</div> <div n="xs">{#paSumAraRaM mArayitum,#}</div> Sa. vi.; </div><div n="1">(4) {#sUdayati, #}
+{# ni-,#} ({#sUd,#} c. 10 (= to slay: q.v.): </div><div n="1">(5)
+{#nASayati, vi-,#} (c. of {#naS#}) (= to destroy: q.v.);</div>
+<div n="1">(6) {#paralokaM nayati#} ({#nI,#} c. 1.), {#gamayati#} (c. of
+{#gam#}), etc. (= to send to the next world).</div>
 <LEND>

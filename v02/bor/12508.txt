@@ -1,4 +1,4 @@
 <L>12508<pc>388<k1>interleave<k2>interleave
-<div n="lb"/>{@INTERLEAVE:@}¦ <div n="xe">{%to i. a book:%}</div> <div n="xs">{#*patrARi pustakAntarinave-#}
-<div n="lb"/>{#Sayati#}</div> (c. of {#viS#}).
+{@INTERLEAVE:@}¦ <div n="xe">{%to i. a book:%}</div> <div n="xs">{#*patrARi pustakAntarinave-#}
+{#Sayati#}</div> (c. of {#viS#}).
 <LEND>

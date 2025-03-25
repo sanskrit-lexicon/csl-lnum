@@ -1,4 +1,4 @@
 <L>21429<pc>675<k1>steam<k2>steam
-<div n="lb"/>{@STEAM@}¦ (subs.): {#bAzpaH,#} <div n="xe">{%s. boat:%}</div> <div n="xs">{#*bAzpIyatarI,#}</div>
-<div n="lb"/><div n="xe">{%s. -engine:%}</div> <div n="xs">{#*bAzpIyayantram.#}</div>
+{@STEAM@}¦ (subs.): {#bAzpaH,#} <div n="xe">{%s. boat:%}</div> <div n="xs">{#*bAzpIyatarI,#}</div>
+<div n="xe">{%s. -engine:%}</div> <div n="xs">{#*bAzpIyayantram.#}</div>
 <LEND>

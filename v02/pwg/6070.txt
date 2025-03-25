@@ -1,36 +1,31 @@
 <L>6070<pc>1-0452<k1>arz<k2>arz<h>1
-1. {#arz#}¦ ({#fz#}), {#a/rzati, Anarza#} . 
-<div n="1"> 1) {%fliessen, gleiten, schiessen%} (von Flüssigkeiten); {%Etwas%} (acc.) {%herbeiströmen%}: {#arza\ntvApa\stvaye\ha prasU^tAH#} 
-<ls>ṚV. 3, 30, 9.</ls> {#arzA\daha^ prasa\vaH sarga^taktaH#} 
-<ls n="ṚV. 3,">33, 11.</ls> {#tasmA\ Apo^ Gf\tamarza^nti\ sinDa^vaH#} 
-<ls n="ṚV.">1, 125, 5.</ls> {#ma\hI na DArAtyanDo^ arzati#} 
-<ls n="ṚV.">9, 86, 44.</ls> <ls n="ṚV.">1, 105, 12.</ls> <ls n="ṚV.">4, 18, 6.</ls> <ls n="ṚV. 4,">58, 5.</ls> <ls n="ṚV. 4, 58,">6.</ls> <ls n="ṚV.">9, 2, 4.</ls> <ls n="ṚV. 9,">28, 6.</ls> <ls n="ṚV. 9,">61, 15.</ls> <ls n="ṚV. 9,">86, 11.</ls> <ls n="ṚV. 9,">101, 7.</ls> <ls n="ṚV. 9,">107, 4.</ls> und oft, besonders vom <is>Soma</is>. 
-<div n="1">— 2) {%gleitend —, rasch sich bewegen%}: {#Sa\Sa A\skanda^marzati#} 
-<ls>VS. 23, 55. 56.</ls> {#pare^RAGA\yura^rzatu#} 
-<ls>AV. 4, 3, 2.</ls> ({#raTaH#}) {#sTA\RumA^ra\daTA^rzat#} 
-<ls>10, 4, 1.</ls> {#nEnaddevA ApnuvanpUrvamarzat#} (partic.) 
+1. {#arz#}¦ ({#fz#}), {#a/rzati, Anarza#} .
+<div n="1"> 1) {%fliessen, gleiten, schiessen%} (von Flüssigkeiten); {%Etwas%} (acc.) {%herbeiströmen%}: {#arza\ntvApa\stvaye\ha prasU^tAH#}
+<ls>ṚV. 3,30,9.</ls> {#arzA\daha^ prasa\vaH sarga^taktaH#}
+<ls n="ṚV. 3,">33,11.</ls> {#tasmA\ Apo^ Gf\tamarza^nti\ sinDa^vaH#}
+<ls n="ṚV.">1,125,5.</ls> {#ma\hI na DArAtyanDo^ arzati#}
+<ls n="ṚV.">9,86,44.</ls> <ls n="ṚV.">1,105,12.</ls> <ls n="ṚV.">4,18,6.</ls> <ls n="ṚV. 4,">58,5.</ls> <ls n="ṚV. 4,58,">6.</ls> <ls n="ṚV.">9,2,4.</ls> <ls n="ṚV. 9,">28,6.</ls> <ls n="ṚV. 9,">61,15.</ls> <ls n="ṚV. 9,">86,11.</ls> <ls n="ṚV. 9,">101,7.</ls> <ls n="ṚV. 9,">107,4.</ls> und oft, besonders vom <is>Soma</is>.
+<div n="1">— 2) {%gleitend —, rasch sich bewegen%}: {#Sa\Sa A\skanda^marzati#}
+<ls>VS. 23,55. 56.</ls> {#pare^RAGA\yura^rzatu#}
+<ls>AV. 4,3,2.</ls> ({#raTaH#}) {#sTA\RumA^ra\daTA^rzat#}
+<ls n="AV.">10,4,1.</ls> {#nEnaddevA ApnuvanpUrvamarzat#} (partic.)
 <ls>ĪŚOP. 4.</ls> — Verwandt mit {#varz#} .
-
-<div n="p">— {#aBi#} 
-<div n="1"> 1) {%herbeifliessen, herbeieilen%}, mit dem acc. des Ziels: {#a\Bi tvA^ sinDo\ SiSu\minnu mA\taro^ vA\SrA a^rzanti\ paya^seva De\nava^H#} 
-<ls>ṚV. 10, 75, 4.</ls> {#a\Bya^rzata suzwu\tim#} 
-<ls n="ṚV.">4, 58, 10.</ls> <ls n="ṚV.">9, 62, 3.</ls> <ls n="ṚV. 9, 62,">23.</ls> <ls>NIR. 2, 11.</ls> 
-<div n="1">— 2) {%herbeiströmen%} (trans.): {#a\Bi vAja^marza#} (vgl. 
-<ls>NAIGH. 3, 21</ls>) <ls>ṚV. 9, 87, 6.</ls> {#a\BI no^ arza di\vyA vasU^ni#} 
-<ls n="ṚV. 9,">97, 51.</ls> <ls n="ṚV. 9,">62, 19.</ls> <ls n="ṚV. 9,">64, 8.</ls> <ls n="ṚV. 9,">107, 21.</ls> {#ajAnha vE pfSnIMstapasyamAnAnbrahma svayaMBvaByAnarzatta fzayo 'Bavan tadfzIRAmfzitvam#} 
-<ls>TAITT. ĀR. 2, 9.</ls>
-
-<div n="p">— {#pari#} {%umfliessen%}: {#pari^ ga\vyurno^ arza\ pari^ soma si\ktaH#} 
-<ls>ṚV. 9, 97, 15.</ls> <ls n="ṚV. 9,">10, 4.</ls> <ls n="ṚV. 9,">52, 1.</ls> {#(somaH) pari\ koSa^marzati Su\krA vasA^no arzati#} 
-<ls n="ṚV.">1, 135, 2.</ls>
-
-<div n="p">— {#pra#} {%hervorströmen%}: {#pra Ra^ indro ma\he ta^na U\rmiM na biBra^darzasi#} 
-<ls>ṚV. 9, 44, 1.</ls> <ls n="ṚV. 9,">9, 2.</ls> <ls n="ṚV. 9,">20, 1.</ls>
-
-<div n="p">— {#vi#} {%durchströmen%}: {#vi vAra\mavya^marzati#} 
-<ls>ṚV. 9, 61, 17.</ls>
-
-<div n="p">— {#sam#} {%zusammenkommen, sich mit Jmd zusammenthun%}: {#marya^ iva yuva\tiBi\H sama^rzati#} 
-<ls>ṚV. 9, 86, 16.</ls> <ls n="ṚV. 9,">34, 6.</ls> {#u\BAvantO\ sama^rzati#} 
-<ls>AV. 13, 2, 13.</ls>
+<div n="p">— {#aBi#}
+<div n="1"> 1) {%herbeifliessen, herbeieilen%}, mit dem acc. des Ziels: {#a\Bi tvA^ sinDo\ SiSu\minnu mA\taro^ vA\SrA a^rzanti\ paya^seva De\nava^H#}
+<ls>ṚV. 10,75,4.</ls> {#a\Bya^rzata suzwu\tim#}
+<ls n="ṚV.">4,58,10.</ls> <ls n="ṚV.">9,62,3.</ls> <ls n="ṚV. 9,62,">23.</ls> <ls>NIR. 2,11.</ls>
+<div n="1">— 2) {%herbeiströmen%} (trans.): {#a\Bi vAja^marza#} (vgl.
+<ls>NAIGH. 3,21</ls>) <ls>ṚV. 9,87,6.</ls> {#a\BI no^ arza di\vyA vasU^ni#}
+<ls n="ṚV. 9,">97,51.</ls> <ls n="ṚV. 9,">62,19.</ls> <ls n="ṚV. 9,">64,8.</ls> <ls n="ṚV. 9,">107,21.</ls> {#ajAnha vE pfSnIMstapasyamAnAnbrahma svayaMBvaByAnarzatta fzayo 'Bavan tadfzIRAmfzitvam#}
+<ls>TAITT. ĀR. 2,9.</ls>
+<div n="p">— {#pari#} {%umfliessen%}: {#pari^ ga\vyurno^ arza\ pari^ soma si\ktaH#}
+<ls>ṚV. 9,97,15.</ls> <ls n="ṚV. 9,">10,4.</ls> <ls n="ṚV. 9,">52,1.</ls> {#(somaH) pari\ koSa^marzati Su\krA vasA^no arzati#}
+<ls n="ṚV.">1,135,2.</ls>
+<div n="p">— {#pra#} {%hervorströmen%}: {#pra Ra^ indro ma\he ta^na U\rmiM na biBra^darzasi#}
+<ls>ṚV. 9,44,1.</ls> <ls n="ṚV. 9,">9,2.</ls> <ls n="ṚV. 9,">20,1.</ls>
+<div n="p">— {#vi#} {%durchströmen%}: {#vi vAra\mavya^marzati#}
+<ls>ṚV. 9,61,17.</ls>
+<div n="p">— {#sam#} {%zusammenkommen, sich mit Jmd zusammenthun%}: {#marya^ iva yuva\tiBi\H sama^rzati#}
+<ls>ṚV. 9,86,16.</ls> <ls n="ṚV. 9,">34,6.</ls> {#u\BAvantO\ sama^rzati#}
+<ls>AV. 13,2,13.</ls>
 <LEND>

@@ -1,3 +1,3 @@
-<L>139144<pc>703,2<k1>prAjApata<k2>prAjApata<h>b<e>1
-<s>prAjApata</s> <hom>b</hom> ¦ <lex>mf(<s>I</s>)n.</lex> = next <lex type="nhw">mfn.</lex> <ab>g.</ab> <s>mahizy-A<srs/>di</s><info lex="m:f#I:n"/>
+<L>139144<pc>703,2<k1>prAjApata<k2>prAjApata<e>1
+<s>prAjApata</s> ¦ <lex>mf(<s>I</s>)n.</lex> = next <lex type="nhw">mfn.</lex> <ab>g.</ab> <s>mahizy-A<srs/>di</s><info lex="m:f#I:n"/><info hui="b"/>
 <LEND>

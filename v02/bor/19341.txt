@@ -1,12 +1,12 @@
 <L>19341<pc>600<k1>right<k2>right
-<div n="lb"/>{@RIGHT@}¦ (adj.): <div n="I">I Not left: </div><div n="1">(1) {#dakziRa#} (f. {#RA#}),
-<div n="lb"/><div n="xe">{%on the r.:%}</div> <div n="xs">{#dakziRataH;#}</div> <div n="xe">{%wounded on the r.:%}</div> <div n="xs">{#dakziRerman#}</div>
-<div n="lb"/>(mfn.), B. iv. 44.; </div><div n="1">(2) {#vAmetara#} <div n="xe">{%or%}</div> <div n="xs">{#savyetara#}</div> (f. {#rA:#}
-<div n="lb"/>poet.), <div n="xe">{%by the r. eye:%}</div> <div n="xs">{#savyetareRAkzRA,#}</div> R. xiv.
-<div n="lb"/>49.; </div><div n="1">(3) {#apasavya#} (f. {#vyA:#} rare). </div><div n="I">II Straight:
-<div n="lb"/>q. v.: <div n="xe">{%r. line:%}</div> <div n="xs">{#saralareKA;#}</div> <div n="xe">{%r. angle:%}</div> <div n="xs">{#samakoRaH.#}</div></div>
-<div n="lb"/><div n="I">III Proper; reasonable: q. v.: </div><div n="1">(1) {#ucita#}
-<div n="lb"/>(f. {#tA#}), {#sam-;#} </div><div n="1">(2) {#nyAyya,#} (f. {#yyA#}). </div><div n="I">IV
-<div n="lb"/>Real, actual: q. v.: {#yaTArTa#} (f. {#rTA#}). </div><div n="I">V True,
-<div n="lb"/>correct: q. v.: {#satya#} (f. {#tyA#}).</div>
+{@RIGHT@}¦ (adj.): <div n="I">I Not left: </div><div n="1">(1) {#dakziRa#} (f. {#RA#}),
+<div n="xe">{%on the r.:%}</div> <div n="xs">{#dakziRataH;#}</div> <div n="xe">{%wounded on the r.:%}</div> <div n="xs">{#dakziRerman#}</div>
+(mfn.), B. iv. 44.; </div><div n="1">(2) {#vAmetara#} <div n="xe">{%or%}</div> <div n="xs">{#savyetara#}</div> (f. {#rA:#}
+poet.), <div n="xe">{%by the r. eye:%}</div> <div n="xs">{#savyetareRAkzRA,#}</div> R. xiv.
+49.; </div><div n="1">(3) {#apasavya#} (f. {#vyA:#} rare). </div><div n="I">II Straight:
+q. v.: <div n="xe">{%r. line:%}</div> <div n="xs">{#saralareKA;#}</div> <div n="xe">{%r. angle:%}</div> <div n="xs">{#samakoRaH.#}</div></div>
+<div n="I">III Proper; reasonable: q. v.: </div><div n="1">(1) {#ucita#}
+(f. {#tA#}), {#sam-;#} </div><div n="1">(2) {#nyAyya,#} (f. {#yyA#}). </div><div n="I">IV
+Real, actual: q. v.: {#yaTArTa#} (f. {#rTA#}). </div><div n="I">V True,
+correct: q. v.: {#satya#} (f. {#tyA#}).</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>23854<pc>747<k1>view<k2>view
-<div n="lb"/>{@VIEW@}¦ (subs.): <div n="I">I Sight: q. v.: {#dfzwiH.#} </div><div n="I">II
-<div n="lb"/>Prospect, appearance: q. v.: {#dfzwiH.#} </div><div n="I">III
-<div n="lb"/>Opinion, judgment: q. v.: {#matam.#} </div><div n="I">IV
-<div n="lb"/>Design, intention: q. v.: {#ASayaH.#} Ph.: <div n="xe">{%with%}
-<div n="lb"/>{%what v.:%}</div> <div n="xs">{#kimuddiSya;#}</div> <div n="xe">{%with this v.:%}</div> <div n="xs">{#etadarTam.#}</div> </div><div n="I">V
-<div n="lb"/>Notion, mind: q. v.: {#DIH,#} {%of liberal v. s:%}
-<div n="lb"/>{#udAraDIH#} (n. {#Di#}).</div>
+{@VIEW@}¦ (subs.): <div n="I">I Sight: q. v.: {#dfzwiH.#} </div><div n="I">II
+Prospect, appearance: q. v.: {#dfzwiH.#} </div><div n="I">III
+Opinion, judgment: q. v.: {#matam.#} </div><div n="I">IV
+Design, intention: q. v.: {#ASayaH.#} Ph.: <div n="xe">{%with%}
+{%what v.:%}</div> <div n="xs">{#kimuddiSya;#}</div> <div n="xe">{%with this v.:%}</div> <div n="xs">{#etadarTam.#}</div> </div><div n="I">V
+Notion, mind: q. v.: {#DIH,#} {%of liberal v. s:%}
+{#udAraDIH#} (n. {#Di#}).</div>
 <LEND>

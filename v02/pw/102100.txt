@@ -1,49 +1,47 @@
-<L>102100<pc>6084-2<k1>vij<k2>vij<h>1<e>500
-1. {#vij#}¦ , {#vija/te#} ( {#°vijati#} und {#°vejate#} metrisch) , {#*vinakti#} ;
-<div n="1">— 1) {%emporschiessen%} (von einer Wasserwoge).
-<div n="1">— 2) {%zurückfahren , flüchtig davonlaufen , — vor%} (<ab>Abl.</ab>).
-<div n="1">— 3) {#vigna#} {%in Aufregung gerathen , aufgeregt , gemüthlich erregt , bestürzt.%}
+<L>102100<pc>6-084-b<k1>vij<k2>vij<h>1
+<hom>1.</hom> √{#vij#}¦, {#vija/te#} ({#°vijati#} und {#°vejate#} metrisch), *{#vinakti#};
+<div n="1">— 1〉 {%emporschiessen%} (von einer Wasserwoge).
+<div n="1">— 2〉 {%zurückfahren, flüchtig davonlaufen, — vor%} (<ab>Abl.</ab>).
+<div n="1">— 3〉 {#vigna#} {%in Aufregung gerathen, aufgeregt, gemüthlich erregt, bestürzt%}.
 <div n="m">— <ab>Caus.</ab> {#vejayati#}
-<div n="1">— 1) {%schnellen.%}
-<div n="1">— 2) {%verstärken , steigern%}
-<div n="1">— 3) {%in Aufregung — , in Unruhe versetzen.%}
-<div n="m">— <ab>Intens.</ab> ( {#ve/vijyate#} , {#ve/vijAna#}) {%zusammenfahren bei%} (<ab>Dat.</ab>). {%entfliehen , — vor%} (<ab>Abl.</ab>).
-<div n="p">— Mit {#aBi#} {%umkippen , umschlagen.%}
-<div n="p">— Mit {#A#} , {#Avigna#} {%in Aufregung , gerathen , bestürzt.%}
-<div n="p">— Mit {#samA#} , {#°vigna#} <ab>dass.</ab>
+<div n="1">— 1〉 {%schnellen%}.
+<div n="1">— 2〉 {%verstärken, steigern%}.
+<div n="1">— 3〉 {%in Aufregung —, in Unruhe versetzen%}.
+<div n="m">— <ab>Intens.</ab> ({#ve/vijyate#}, {#ve/vijAna#}) {%zusammenfahren bei%} (<ab>Dat.</ab>). {%entfliehen, — vor%} (<ab>Abl.</ab>).
+<div n="p">— Mit {#aBi#} {%umkippen, umschlagen%}.
+<div n="p">— Mit {#A#}, {#Avigna#} {%in Aufregung, gerathen, bestürzt%}.
+<div n="p">— Mit {#samA#}, {#°vigna#} <ab>dass.</ab>
 <div n="p">— Mit {#ud#}
-<div n="1">— 1) {%aufschnellen , heraufschlagen%} <ls>AV.PRĀYAŚC.4,2.</ls>
-<div n="1">— 2) {%schaudern , zusammenfahren , zurückschrecken , in Angst gerathen%} ( {#udvijya#} <ls>HEM.PAR.1,4,59</ls>), {%sich scheuen%} , {%— vor%} (<ab>Abl.</ab> , <ab>Gen.</ab> oder <ab>Instr.</ab>).
-<div n="1">— 3) {%zurückschrecken vor%} , so v.a. {%ablassen — , abstehen von%} (<ab>Abl.</ab>).
-<div n="1">— 4) {%Etwas überdrüssig werden , müde werden zu%} (<ab>Partic.</ab> Praes. im <ab>Nomin.</ab>) <ls>123,22.</ls>
-<div n="1">— 5) {%in Schrecken jagen.%}
-<div n="1">— 6) {#udvigna#}
-<div n="2">— a) {%zusammenfahrend , schaudernd , zurückschreckend , in Angst seiend , erschrocken , — vor%} (<ab>Abl.</ab> , <ab>Gen.</ab> , <ab>Instr.</ab> oder im Comp. vorangehend).
-<div n="2">— b) {%eine Aufregung verrathend.%}
-<div n="2">— c) {%ermüdet , überdrüssig%} (<ls>139,7</ls> ; mit <ab>Instr.</ab> <ls>132,11</ls>), {%lebensüberdrüssig%} (<ls>160,21</ls>).
+<div n="1">— 1〉 {%aufschnellen, heraufschlagen%} <ls>AV. PRĀYAŚC. 4,2</ls>.
+<div n="1">— 2〉 {%schaudern, zusammenfahren, zurückschrecken, in Angst gerathen%} ({#udvijya#} <ls>HEM. PAR. 1,4,59</ls>), {%sich scheuen, — vor%} (<ab>Abl.</ab>, <ab>Gen.</ab> oder <ab>Instr.</ab>).
+<div n="1">— 3〉 {%zurückschrecken vor,%} so <ab>v. a.</ab> {%ablassen —, abstehen von%} (<ab>Abl.</ab>).
+<div n="1">— 4〉 {%Etwas überdrüssig werden, müde werden zu%} (<ab>Partic.</ab> <ab>Praes.</ab> im <ab>Nomin.</ab>) <ls n="Chr.">123,22</ls>.
+<div n="1">— 5〉 {%in Schrecken jagen%}.
+<div n="1">— 6〉 {#udvigna#}
+<div n="2">— a〉 {%zusammenfahrend, schaudernd, zurückschreckend, in Angst seiend, erschrocken, — vor%} (<ab>Abl.</ab>, <ab>Gen.</ab>, <ab>Instr.</ab> oder im <ab>Comp.</ab> vorangehend).
+<div n="2">— b〉 {%eine Aufregung verrathend%}.
+<div n="2">— c〉 {%ermüdet, überdrüssig%} (<ls n="Chr.">139,7</ls>; mit <ab>Instr.</ab> <ls n="Chr.">132,11</ls>), {%lebensüberdrüssig%} (<ls n="Chr.">160,21</ls>).
 <div n="m">— <ab>Caus.</ab>
-<div n="1">— 1) {%zucken machen%} , auch so v.a. einen Bewusstlosen {%wieder beleben.%}
-<div n="1">— 2) {%in Schrecken jagen , schaudern — , scheu machen , erschrecken.%}
-<div n="1">— 3) {%ermüden , belästigen , quälen.%}
+<div n="1">— 1〉 {%zucken machen,%} auch so <ab>v. a.</ab> einen Bewusstlosen {%wieder beleben%}.
+<div n="1">— 2〉 {%in Schrecken jagen, schaudern —, scheu machen, erschrecken%}.
+<div n="1">— 3〉 {%ermüden, belästigen, quälen%}.
 <div n="p">— Mit {#paryud#} {%schaudern vor%} (<ab>Acc.</ab>).
-<div n="p">— Mit {#prod#} , {#prodvigna#} {%eine Unruhe an den Tag legend.%}
-<div n="m">— <ab>Caus.</ab> {%in Schrecken jagen.%}
+<div n="p">— Mit {#prod#}, {#prodvigna#} {%eine Unruhe an den Tag legend%}.
+<div n="m">— <ab>Caus.</ab> {%in Schrecken jagen%}.
 <div n="p">— Mit {#samud#}
-<div n="1">— 1) {%zusammenfahren , zurückschrecken , — vor%} (<ab>Gen.</ab> , <ab>Conj.</ab>).
-<div n="1">— 2) {#samudvigna#} {%zusammenfahrend , schaudernd , zurückschreckend , erschrocken.%}
+<div n="1">— 1〉 {%zusammenfahren, zurückschrecken, — vor%} (<ab>Gen.</ab>, <ab>Conj.</ab>).
+<div n="1">— 2〉 {#samudvigna#} {%zusammenfahrend, schaudernd, zurückschreckend, erschrocken%}.
 <div n="p">— Mit {#pra#}
-<div n="1">— 1) {%davonstürzen.%}
-<div n="1">— 2) {#pra/vikta#} {%erschüttert%} <ls>ṚV.7,85,3.</ls>
-<div n="p">— Mit {#vi#} , {#vivigna#} {%sehr erschrocken.%}
-<div n="m">— <ab>Caus.</ab> {%in Schrecken jagen.%}
+<div n="1">— 1〉 {%davonstürzen%}.
+<div n="1">— 2〉 {#pra/vikta#} {%erschüttert%} <ls>ṚV. 7,85,3</ls>.
+<div n="p">— Mit {#vi#}, {#vivigna#} {%sehr erschrocken%}.
+<div n="m">— <ab>Caus.</ab> {%in Schrecken jagen%}.
 <div n="p">— Mit {#sam#}
-<div n="1">— 1)
-[Page6084-3]
-{%zusammenfahren , entfliehen.%}
-<div n="1">— 2) {%zerfallen.%} {#yasya#} {#puroqASa udvA#} {#patetsaM#} {#vA#} {#vijeta#} <ls>ĀPAST.ŚR.9,16,11.</ls>
-<div n="1">— 3) {#saMvigna#}
-<div n="2">— a) {%aufgeregt , bestürzt , erschrocken , scheu%} ; {%aufgeregt , unsicher%} (Stimme , Rede).
-<div n="2">— b) {%beweglich , hinundher gehend.%}
-<div n="2">— c) {%gefallen in%} (im Comp. vorangehend). {#saMlagna#} <ab>v.l.</ab>
-<div n="m">— <ab>Caus.</ab> {%erschrecken.%}
+<div n="1">— 1〉 [Page6-084-c] {%zusammenfahren, entfliehen%}.
+<div n="1">— 2〉 {%zerfallen%}. {#yasya#} {#puroqASa udvA#} {#patetsaM#} {#vA#} {#vijeta#} <ls>ĀPAST. ŚR. 9,16,11</ls>.
+<div n="1">— 3〉 {#saMvigna#}
+<div n="2">— a〉 {%aufgeregt, bestürzt, erschrocken, scheu; aufgeregt, unsicher%} (Stimme, Rede).
+<div n="2">— b〉 {%beweglich, hinundher gehend%}.
+<div n="2">— c〉 {%gefallen in%} (im <ab>Comp.</ab> vorangehend). {#saMlagna#} <ab>v. l.</ab>
+<div n="m">— <ab>Caus.</ab> {%erschrecken%}.
 <LEND>

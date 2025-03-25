@@ -1,49 +1,47 @@
-<L>113351<pc>6247-3<k1>Suc<k2>Suc<h>1<e>500
-1. {#Suc#}¦ , {#So/cati , °te#} (in der klassischen Sprache meist metrisch , aber {#SocamAna#} auch in der Prosa) , {#saMSu/cyati#} , {#Suca/nt#} (<ab>Aor.</ab>) ;
-<div n="1">— 1) {%flammen , leuchten , strahlen ; glühen , brennen.%}
-<div n="1">— 2) {%Glut — , heftigen Schmerz leiden , trauern , — bei , über%} (<ab>Loc.</ab> , <ab>Instr.</ab> oder <ab>Acc.</ab> mit {#prati#}).
-<div n="1">— 3) mit <ab>Acc.</ab> {%trauern über , beklagen , betrauern.%}
-<div n="1">— 4) {#*pUtIBAve#} ( {#klede#}) , {#viSaraRe#} und {#SOce#} (<ab>vgl.</ab> {#Suci#} und <ab>Caus.</ab>).
+<L>113351<pc>6-247-c<k1>Suc<k2>Suc<h>1
+<hom>1.</hom> √{#Suc#}¦, {#So/cati, °te#} (in der klassischen Sprache meist metrisch, aber {#SocamAna#} auch in der Prosa), {#saMSu/cyati#}, {#Suca/nt#} (<ab>Aor.</ab>);
+<div n="1">— 1〉 {%flammen, leuchten, strahlen; glühen, brennen%}.
+<div n="1">— 2〉 {%Glut —, heftigen Schmerz leiden, trauern, — bei, über%} (<ab>Loc.</ab>, <ab>Instr.</ab> oder <ab>Acc.</ab> mit {#prati#}).
+<div n="1">— 3〉 mit <ab>Acc.</ab> {%trauern über, beklagen, betrauern%}.
+<div n="1">— 4〉 *{#pUtIBAve#} ({#klede#}), {#viSaraRe#} und {#SOce#} (<ab>vgl.</ab> {#Suci#} und <ab>Caus.</ab>).
 <div n="m">— <ab>Caus.</ab> {#Soca/yati#}
-<div n="1">— 1) {%in Flammen setzen , brennen%} (trans.) <ls>TBR.1,1,8,1.</ls>
-[Page6248-1]
-
-<div n="1">— 2) {%in Schmerz versetzen.%}
-<div n="1">— 3) {%Schmerz empfinden , trauern%} ; mit <ab>Acc.</ab> {%bedauern , beklagen.%}
-<div n="1">— 4) {%reinigen%} <ls>VARĀH.YOGAY.7,14.</ls>
+<div n="1">— 1〉 {%in Flammen setzen, brennen%} (<ab>trans.</ab>) <ls>TBR. 1,1,8,1</ls>. [Page6-248-a]
+<div n="1">— 2〉 {%in Schmerz versetzen%}.
+<div n="1">— 3〉 {%Schmerz empfinden, trauern;%} mit <ab>Acc.</ab> {%bedauern, beklagen%}.
+<div n="1">— 4〉 {%reinigen%} <ls>VARĀH. YOGAY. 7,14</ls>.
 <div n="m">— *<ab>Desid.</ab> {#SuSucizati#} und {#SuSocizati#}.
-<div n="m">— <ab>Intens.</ab> ( {#So/Sucan , So/Sucat#} und {#SoSucAna#})
-<div n="1">— 1) {%hell leuchte , — strahlen , — flammen.%}
-<div n="1">— 2) {#SoSucyamAna#} {%heftigen Schmerz empfindend%} <ls>BHAṬṬ.</ls>
+<div n="m">— <ab>Intens.</ab> ({#So/Sucan, So/Sucat#} und {#SoSucAna#})
+<div n="1">— 1〉 {%hell leuchte, — strahlen, — flammen%}.
+<div n="1">— 2〉 {#SoSucyamAna#} {%heftigen Schmerz empfindend%} <ls>BHAṬṬ.</ls>
 <div n="p">— Mit {#anu#}
-<div n="1">— 1) {%schmerzliche Sehnsucht empfinden nach , trauern um%} (<ab>Acc.</ab> , ausnahmsweise <ab>Loc.</ab> oder <ab>Gen.</ab>) ohne Ergänzung {%trauern.%}
-<div n="1">— 2) {%in Jmds%} (<ab>Acc.</ab>) {%Schmerz einstimmen , mit Jmd zugleich Schmerz empfinden , — trauern.%}
-<div n="m">— <ab>Caus.</ab> {%betrauern , bedauern.%}
-<div n="p">— Mit {#samanu#} {%Schmerz empfinden , betrauern , bedauern%} ; mit <ab>Acc.</ab>
-<div n="p">— Mit {#apa#} <ab>Intens.</ab> ( {#a/pa-So/Sucat#} <ab>Partic.</ab>) {%durch Flammen vertreiben.%}
+<div n="1">— 1〉 {%schmerzliche Sehnsucht empfinden nach, trauern um%} (<ab>Acc.</ab>, ausnahmsweise <ab>Loc.</ab> oder <ab>Gen.</ab>) ohne Ergänzung {%trauern%}.
+<div n="1">— 2〉 {%in Jmds%} (<ab>Acc.</ab>) {%Schmerz einstimmen, mit Jmd zugleich Schmerz empfinden, — trauern%}.
+<div n="m">— <ab>Caus.</ab> {%betrauern, bedauern%}.
+<div n="p">— Mit {#samanu#} {%Schmerz empfinden, betrauern, bedauern;%} mit <ab>Acc.</ab>
+<div n="p">— Mit {#apa#} <ab>Intens.</ab> ({#a/pa — So/Sucat#} <ab>Partic.</ab>) {%durch Flammen vertreiben%}.
 <div n="p">— Mit {#aBi#}
-<div n="1">— 1) {%in Glut setzen , verbrennen.%}
-<div n="1">— 2) {%brennen%} , so v.a. {%quälen.%}
-<div n="1">— 3) {%Schmerz empfinden , trauern.%}
-<div n="m">— <ab>Caus.</ab> {%in Glut versetzen , verbrennen , quälen.%}
+<div n="1">— 1〉 {%in Glut setzen, verbrennen%}.
+<div n="1">— 2〉 {%brennen,%} so <ab>v. a.</ab> {%quälen%}.
+<div n="1">— 3〉 {%Schmerz empfinden, trauern%}.
+<div n="m">— <ab>Caus.</ab> {%in Glut versetzen, verbrennen, quälen%}.
 <div n="m">— <ab>Intens.</ab> <ab>dass.</ab>
-<div n="p">— Mit {#A#} {%herleuchten%} (<ls>ṚV.7,8,1</ls>), {%Etwas%} (<ab>Acc.</ab>) {%herbeistrahlen.%}
+<div n="p">— Mit {#A#} {%herleuchten%} (<ls>ṚV. 7,8,1</ls>), {%Etwas%} (<ab>Acc.</ab>) {%herbeistrahlen%}.
 <div n="m">— <ab>Desid.</ab> in {#ASuSukza/Ri#}.
-<div n="p">— Mit {#ud#} {%aufleuchten%} <ls>ṚV.4,2,20.</ls>
-<div n="m">— <ab>Caus.</ab> {%in Flammen setzen.%}
-<div n="p">— Mit {#ni#} {%brennend heiss sein%} (impers).
-<div n="p">— Mit {#nis#} <ab>Intens.</ab> {#ni/H - SoSucanta#}) {%hervorstrahlen.%}
-<div n="p">— Mit {#pari#} {%Schmerz empfinden , trauern%} ; mit <ab>Acc.</ab> {%betrauern , beklagen.%}
+<div n="p">— Mit {#ud#} {%aufleuchten%} <ls>ṚV. 4,2,20</ls>.
+<div n="m">— <ab>Caus.</ab> {%in Flammen setzen%}.
+<div n="p">— Mit {#ni#} {%brennend heiss sein%} (<ab>impers.</ab>).
+<div n="p">— Mit {#nis#} <ab>Intens.</ab> ({#ni/H — SoSucanta#}) {%hervorstrahlen%}.
+<div n="p">— Mit {#pari#} {%Schmerz empfinden, trauern;%} mit <ab>Acc.</ab> {%betrauern, beklagen%}.
 <div n="m">— <ab>Caus.</ab>
-<div n="1">— 1) {%quälen , peinigen%} <ls>MBH.6,48,38.</ls>
-<div n="1">— 2) {%bedauern , beklagen.%}
-<div n="p">— Mit {#pra#} {%hervorstrahlen%} (in übertragener Bed.).
-<div n="m">— <ab>Intens.</ab> {%hervorstrahlen%} <ls>ṚV.7,1,4.</ls>
-<div n="p">— Mit {#anupra#} {%betrauern , beklagen.%}
-<div n="p">— Mit {#prati#} {%seinen Brand richten gegen%} (<ab>Acc.</ab>) <ls>MAITR.S.1,5,2(68,3).</ls>
+<div n="1">— 1〉 {%quälen, peinigen%} <ls>MBH. 6,48,38</ls>.
+<div n="1">— 2〉 {%bedauern, beklagen%}.
+<div n="p">— Mit {#pra#} {%hervorstrahlen%} (in übertragener <ab>Bed.</ab>).
+<div n="m">— <ab>Intens.</ab> {%hervorstrahlen%} <ls>ṚV. 7,1,4</ls>.
+<div n="p">— Mit {#anupra#} {%betrauern, beklagen%}.
+<div n="p">— Mit {#prati#} {%seinen Brand richten gegen%} (<ab>Acc.</ab>) <ls>MAITR. S. 1,5,2 (68,3)</ls>.
 <div n="p">— Mit {#sam#}
-<div n="1">— 1) {%zusammenflammen.%}
-<div n="1">— 2) {%bedauern , beklagen.%}
-<div n="1">— 3) {#saMSu/cyati#} {%Jmd%} (<ab>Gen.</ab>) {%schmerzen.%}
-<div n="m">— <ab>Caus.</ab> {%betrauern , beklagen.%}
+<div n="1">— 1〉 {%zusammenflammen%}.
+<div n="1">— 2〉 {%bedauern, beklagen%}.
+<div n="1">— 3〉 {#saMSu/cyati#} {%Jmd%} (<ab>Gen.</ab>) {%schmerzen%}.
+<div n="m">— <ab>Caus.</ab> {%betrauern, beklagen%}.
 <LEND>

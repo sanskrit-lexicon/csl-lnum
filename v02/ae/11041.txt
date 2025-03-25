@@ -1,7 +1,7 @@
 <L>11041<pc>487<k1>village<k2>village
 {@Village,@}¦ {%s.%} {#grAmaH; nivasaTaH;#} ‘head of a v.’
-<div n="lb"/>{#grAmaRIH, grAmeSaH, grAmADyakzaH#}. {%-a.%} {#grAmya,#}
-<div n="lb"/>{#grAmIya, grAmIRa, grAma#} in comp. {@-er,@} {#grA-#}
-<div n="lb"/>{#-min#} {%m.,%} {#grAmikaH, grAmavAsin#} {%m.,%} {#grAmIRaH,#}
-<div n="lb"/>{#grAmasTaH, grAmyajanaH#}.
+{#grAmaRIH, grAmeSaH, grAmADyakzaH#}. {%-a.%} {#grAmya,#}
+{#grAmIya, grAmIRa, grAma#} in comp. {@-er,@} {#grA-#}
+{#-min#} {%m.,%} {#grAmikaH, grAmavAsin#} {%m.,%} {#grAmIRaH,#}
+{#grAmasTaH, grAmyajanaH#}.
 <LEND>

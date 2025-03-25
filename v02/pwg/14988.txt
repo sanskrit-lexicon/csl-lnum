@@ -1,45 +1,43 @@
 <L>14988<pc>2-0071<k1>kam<k2>ka/m<h>1
-1. {#ka/m#}¦ indecl. <is>gaṇa</is> {#cAdi#} zu 
-<ls>P. 1, 4, 57.</ls> <is>gaṇa</is> {#svarAdi#} zu 
-<ls>1, 1, 37.</ls> 
-<div n="1"> 1) {%wohl, gut, bene%} 
-<ls>NAIGH. 3, 6.</ls> 
-<ls>NIR. 2, 14. 10, 4 (2, 2. 3, 18).</ls> <ls>H. an. 7, 7.</ls> <ls>MED. <is>avy</is>. 52.</ls> {#kaM me 'sat#} 
-<ls>ŚAT. BR. 13, 8, 1, 10. 3, 13. 6, 1, 2, 23. 9, 1, 2, 22.</ls> {#kaM vE prajApatiH prajAByaH karIrErakuruta#} 
-<ls>2, 5, 2, 11.</ls> {#Ahutayo hyagnaye kam#} 
-<ls>10, 6, 2, 5. 5, 1.</ls> <ls>AIT. BR. 6, 21.</ls> {#a/kam#} {%übel, male%}: {#na vA amuM lokaM jagmuze kiM canAkam#} 
-<ls>NIR. 2, 14.</ls> {#nAsmA\ aka^M Bavati#} 
-<ls>TS. 5, 3, 7, 1.</ls> {#na hi tatra gatAya kasmE canAkaM Bavati#} 
-<ls>ŚAT. BR. 8, 4, 1, 24.</ls> 
-<div n="1">— 2) postp. Partikel mit versichernder Bedeutung {%wohl, ja%}; aber so abgeschwächt, dass sie von der indischen Grammatik mit Grund zu den Füllwörtern gezählt wird. 
-<ls>NIR. 1, 9.</ls> Dient zur Hervorhebung der Beziehung des Dativs und steht in der Regel am Ende eines <is>Pāda</is>. {#de\veBya\H kama^vfRIta mf\tyuM pra\jAyE\ kama\mfta\M nAvf^RIta#} 
-<ls>ṚV. 10, 13, 4.</ls> {#i\ndrA\gniByA\M kaM vfza^Ro madanti#} 
-<ls n="ṚV.">1, 109, 3.</ls> {#ajI^jana\ oza^DI\rBoja^nAya\ kam#} 
-<ls n="ṚV.">5, 83, 10.</ls> {#A\vista\nva^M kfRuze df\Se kam#} 
-<ls n="ṚV.">1, 123, 11.</ls> <ls n="ṚV. 1,">88, 2.</ls> <ls n="ṚV. 1, 88,">3.</ls> <ls n="ṚV.">2, 13, 12.</ls> <ls n="ṚV.">4, 30, 6.</ls> <ls n="ṚV.">9, 8, 5.</ls> <ls>AV. 6, 61, 1. 84, 1. 9, 3, 6. 10, 6, 7.</ls> {#kasmE\ kamagni^ScI\yate^#} 
-<ls>TS. 5, 5, 2, 3.</ls> 
+1. {#ka/m#}¦ indecl. <is>gaṇa</is> {#cAdi#} zu
+<ls>P. 1,4,57.</ls> <is>gaṇa</is> {#svarAdi#} zu
+<ls n="P.">1,1,37.</ls>
+<div n="1"> 1) {%wohl, gut, bene%}
+<ls>NAIGH. 3,6.</ls>
+<ls>NIR. 2,14. 10,4 (2,2. 3,18).</ls> <ls>H. an. 7,7.</ls> <ls>MED. <is>avy</is>. 52.</ls> {#kaM me 'sat#}
+<ls>ŚAT. BR. 13,8,1,10. 3,13. 6,1,2,23. 9,1,2,22.</ls> {#kaM vE prajApatiH prajAByaH karIrErakuruta#}
+<ls n="ŚAT. BR.">2,5,2,11.</ls> {#Ahutayo hyagnaye kam#}
+<ls n="ŚAT. BR.">10,6,2,5. 5,1.</ls> <ls>AIT. BR. 6,21.</ls> {#a/kam#} {%übel, male%}: {#na vA amuM lokaM jagmuze kiM canAkam#}
+<ls>NIR. 2,14.</ls> {#nAsmA\ aka^M Bavati#}
+<ls>TS. 5,3,7,1.</ls> {#na hi tatra gatAya kasmE canAkaM Bavati#}
+<ls>ŚAT. BR. 8,4,1,24.</ls>
+<div n="1">— 2) postp. Partikel mit versichernder Bedeutung {%wohl, ja%}; aber so abgeschwächt, dass sie von der indischen Grammatik mit Grund zu den Füllwörtern gezählt wird.
+<ls>NIR. 1,9.</ls> Dient zur Hervorhebung der Beziehung des Dativs und steht in der Regel am Ende eines <is>Pāda</is>. {#de\veBya\H kama^vfRIta mf\tyuM pra\jAyE\ kama\mfta\M nAvf^RIta#}
+<ls>ṚV. 10,13,4.</ls> {#i\ndrA\gniByA\M kaM vfza^Ro madanti#}
+<ls n="ṚV.">1,109,3.</ls> {#ajI^jana\ oza^DI\rBoja^nAya\ kam#}
+<ls n="ṚV.">5,83,10.</ls> {#A\vista\nva^M kfRuze df\Se kam#}
+<ls n="ṚV.">1,123,11.</ls> <ls n="ṚV. 1,">88,2.</ls> <ls n="ṚV. 1,88,">3.</ls> <ls n="ṚV.">2,13,12.</ls> <ls n="ṚV.">4,30,6.</ls> <ls n="ṚV.">9,8,5.</ls> <ls>AV. 6,61,1.</ls> <ls n="AV. 6,">84,1.</ls> <ls n="AV.">9,3,6.</ls> <ls n="AV.">10,6,7.</ls> {#kasmE\ kamagni^ScI\yate^#}
+<ls>TS. 5,5,2,3.</ls>
 <div n="1">— 3) enklitisch in Verbindung mit den stärkeren Affirmativen {#nu, su, hi#} (
-<ls>NAIGH. 3, 12</ls>), wird aber vom <is>Padap</is>. wie die übrigen Enklitika als selbständiges Wort behandelt. {#vizRo\rnu ka^M vI\ryA^Ri pra vo^cam#} 
-<ls>ṚV. 1, 154, 1.</ls> <ls n="ṚV.">2, 18, 3.</ls> <ls n="ṚV.">7, 33, 3.</ls>
+<ls>NAIGH. 3,12</ls>), wird aber vom <is>Padap</is>. wie die übrigen Enklitika als selbständiges Wort behandelt. {#vizRo\rnu ka^M vI\ryA^Ri pra vo^cam#}
+<ls>ṚV. 1,154,1.</ls> <ls n="ṚV.">2,18,3.</ls> <ls n="ṚV.">7,33,3.</ls>
 [Page2-0072]
-{#tizWA\ su ka^M maGava\nmA parA^ gAH#} 
-<ls n="ṚV.">3, 53, 2.</ls> <ls n="ṚV.">1, 191, 6.</ls> {#tve hi ka\M parva^te\ na Sri\tAni^ vra\tAni^#} 
-<ls n="ṚV.">2, 28, 8.</ls> <ls n="ṚV. 2,">37, 5.</ls> <ls>AV. 3, 13, 3.</ls> Ausnahmsweise behält das Wort in dieser Verbindung den Ton: {#pra\tno hi kamIqyo^ aDva\rezu^#} 
-<ls>AV. 6, 110, 1.</ls> Ueber das angebliche {#Ahi/kam#} s. u. d. W. 
-<div n="1">— 4) als Fragewort (wie {#kad#} und {#kim#}) scheint {#kam#} gebraucht zu sein in der Stelle: {#kamapyU^he\ yatsa^ma\Yjanti^ de\vAH#} 
-<ls>ṚV. 10, 52, 3.</ls> 
-<div n="1">— 5) am Anf. einiger compp. wie {#ka, kad#} u.s.w. {%das Ausserordentliche, Auffallende%} einer Erscheinung hervorhebend; vgl. {#kaMsAra, kandara#} und {#kandarpa#} . — Nach den Lexicographen noch: 
-<div n="1"> 6) {%Wasser%} (vgl. {#kaMja, kaMDara, kaMDi#}) 
-<ls>NAIGH. 1, 12.</ls> 
-<ls>NIR. 4, 18.</ls> 
-<ls>AK. 2, 4, 32, 11.</ls> 
-<ls>H. an.</ls> 
-<ls>MED.</ls> 
-<div n="1">— 7) {%Speise%} 
-<ls>NIR. 6, 35.</ls> 
-<div n="1">— 8) {%Kopf%} (vgl. {#kaMDara#}) 
-<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
-<div n="v">— Vgl. {#Sam#}, 
-<ls>1.</ls> {#ka#} und zu den Nominalbedeutungen 
-<ls>3.</ls> {#ka#} .
+{#tizWA\ su ka^M maGava\nmA parA^ gAH#}
+<ls n="ṚV.">3,53,2.</ls> <ls n="ṚV.">1,191,6.</ls> {#tve hi ka\M parva^te\ na Sri\tAni^ vra\tAni^#}
+<ls n="ṚV.">2,28,8.</ls> <ls n="ṚV. 2,">37,5.</ls> <ls>AV. 3,13,3.</ls> Ausnahmsweise behält das Wort in dieser Verbindung den Ton: {#pra\tno hi kamIqyo^ aDva\rezu^#}
+<ls>AV. 6,110,1.</ls> Ueber das angebliche {#Ahi/kam#} s. u. d. W.
+<div n="1">— 4) als Fragewort (wie {#kad#} und {#kim#}) scheint {#kam#} gebraucht zu sein in der Stelle: {#kamapyU^he\ yatsa^ma\Yjanti^ de\vAH#}
+<ls>ṚV. 10,52,3.</ls>
+<div n="1">— 5) am Anf. einiger compp. wie {#ka, kad#} u.s.w. {%das Ausserordentliche, Auffallende%} einer Erscheinung hervorhebend; vgl. {#kaMsAra, kandara#} und {#kandarpa#} . — Nach den Lexicographen noch:
+<div n="1"> 6) {%Wasser%} (vgl. {#kaMja, kaMDara, kaMDi#})
+<ls>NAIGH. 1,12.</ls>
+<ls>NIR. 4,18.</ls>
+<ls>AK. 2,4,32,11.</ls>
+<ls>H. an.</ls>
+<ls>MED.</ls>
+<div n="1">— 7) {%Speise%}
+<ls>NIR. 6,35.</ls>
+<div n="1">— 8) {%Kopf%} (vgl. {#kaMDara#})
+<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls>
+<div n="v">— Vgl. {#Sam#}, 1. {#ka#} und zu den Nominalbedeutungen 3. {#ka#}.
 <LEND>

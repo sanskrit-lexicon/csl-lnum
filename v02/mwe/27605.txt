@@ -1,8 +1,8 @@
 <L>27605<pc>757-b<k1>soldier<k2>soldier
-<div n="lb"/>SOLDIER¦, {%s.%} {#sEnyaH, sEnikaH, AyuDikaH, AyuDIyaH, yodDA#} {%m.%} {#(dDf), yoDaH,#}
-<div n="lb"/>{#SastrajIvI#} {%m.%} {#(n), SastrAjIvaH, SastraDaraH, SastraBft#} {%m.,%} {#SastraDArI#} {%m.%}
-<div n="lb"/>{#(n), SastropajIvI#} {%m.,%} {#yudDopajIvI#} {%m.,%} {#yudDajIvI#} {%m.,%} {#astraDaraH,#}
-<div n="lb"/>{#astraDArI#} {%m.,%} {#astraBft#} {%m.,%} {#astrajIvaH, yuDAnaH, camUcaraH, senAcaraH,#}
-<div n="lb"/>{#tantrI#} {%m.,%} {#kARqaspfzwaH, kARqapfzWaH;#} ‘man of the military class,’
-<div n="lb"/>{#kzatriyaH, kzatraH, kzatrI#} {%m.,%} {#rAjanyaH, rAjaputraH, virAw#} {%m.%} ({#j#}).
+SOLDIER¦, {%s.%} {#sEnyaH, sEnikaH, AyuDikaH, AyuDIyaH, yodDA#} {%m.%} {#(dDf), yoDaH,#}
+{#SastrajIvI#} {%m.%} {#(n), SastrAjIvaH, SastraDaraH, SastraBft#} {%m.,%} {#SastraDArI#} {%m.%}
+{#(n), SastropajIvI#} {%m.,%} {#yudDopajIvI#} {%m.,%} {#yudDajIvI#} {%m.,%} {#astraDaraH,#}
+{#astraDArI#} {%m.,%} {#astraBft#} {%m.,%} {#astrajIvaH, yuDAnaH, camUcaraH, senAcaraH,#}
+{#tantrI#} {%m.,%} {#kARqaspfzwaH, kARqapfzWaH;#} ‘man of the military class,’
+{#kzatriyaH, kzatraH, kzatrI#} {%m.,%} {#rAjanyaH, rAjaputraH, virAw#} {%m.%} ({#j#}).
 <LEND>

@@ -1,14 +1,13 @@
 <L>98051<pc>7-0092<k1>SaraRAgata<k2>SaraRAgata
-{#SaraRAgata#}¦ (2. {#SaraRa + A°#}) <lex>adj.</lex> {%der sich in Jmdes Schutz begeben hat, bei Jmd Zuflucht sucht%} 
-<ls>M. 11, 198.</ls> 
-<ls>MBH. 12, 5518.</ls> 
-<ls>R. 2, 96, 51.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 59, 14. 2, 1, 11.</ls> 
-<ls>Spr. (II) 662.</ls> {#parezAm#} 
-<ls>1022. 4607. (I) 2689. 2962. 3054. 3203.</ls> <ls>PAÑCAT. 90, 5. 141, 11.</ls> {#°hantar#} 
-<ls>M. 11, 190.</ls> {#°GAtaka#} 
-<ls>Spr. 2854.</ls> {#°GAtin#} 
-<ls>PAÑCAR. 1, 6, 51.</ls> Davon nom. abstr. {#SaraRAgatatA#} 
-f. <ls>KATHĀS. 60, 113.</ls>
+{#SaraRAgata#}¦ (2. {#SaraRa + A°#}) <lex>adj.</lex> {%der sich in Jmdes Schutz begeben hat, bei Jmd Zuflucht sucht%}
+<ls>M. 11,198.</ls>
+<ls>MBH. 12,5518.</ls>
+<ls>R. 2,96,51.</ls>
+<ls>R. GORR. 1,59,14.</ls> <ls n="R. GORR.">2,1,11.</ls>
+<ls>Spr. (II) 662.</ls> {#parezAm#}
+<ls n="Spr. (II)">1022. 4607. (I) 2689. 2962. 3054. 3203.</ls> <ls>PAÑCAT. 90,5.</ls> <ls n="PAÑCAT.">141,11.</ls> {#°hantar#}
+<ls>M. 11,190.</ls> {#°GAtaka#}
+<ls>Spr. 2854.</ls> {#°GAtin#}
+<ls>PAÑCAR. 1,6,51.</ls> Davon nom. abstr. {#SaraRAgatatA#}
+f. <ls>KATHĀS. 60,113.</ls>
 <LEND>

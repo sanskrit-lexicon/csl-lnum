@@ -1,26 +1,26 @@
 <L>22629<pc>714<k1>to<k2>to
-<div n="lb"/>{@TO:@}¦ <div n="I">I With verbs of motion: by acc., <div n="xe">{%I%}
-<div n="lb"/>{%was taken to the edifice of the princess:%}</div> <div n="xs">{#nIto'haM #}
-<div n="lb"/>{# kanyakAniketanam,#}</div> D. vii. (G. § 162-3). </div><div n="I">II
-<div n="lb"/>Expressing indirect object: by dat., <div n="xe">{%shew-%}
-<div n="lb"/>{%ing to the queen:%}</div> <div n="xs">{#darSayan patnyE,#}</div> R. (G. § 180.).</div>
-<div n="lb"/><div n="I">III With inf.: by inf., <div n="xe">{%I have come to impart%}
-<div n="lb"/>{%the knowledge:%}</div> <div n="xs">{#vidyAM dAtumupAgato'sBi,#}</div> Ki. v. 23.
-<div n="lb"/>(G. § 279-83). </div><div n="I">IV With special verb: q. v.
-<div n="lb"/>V. In comparison to: by gen., <div n="xe">{%who are%}
-<div n="lb"/>{%other archers to me:%}</div> <div n="xs">{#ke mama Danvino'nye,#}</div> Ku. iii.
-<div n="lb"/>10. (G. § 211, 209), </div><div n="I">VI Of direction: <div n="xe">{%to%}
-<div n="lb"/>{%the north-west of Kailāsa:%}</div> <div n="xs">{#kElAsAt paScimodIcyAm,#}</div>
-<div n="lb"/>Mat.: <div n="xe">{%to the north of Nishadha:%}</div> <div n="xs">{#nizaDasyottareRa,#}</div>
-<div n="lb"/>Mah. (G. § 207, 196). </div><div n="I">VII=towards: q. v.</div>
-<div n="lb"/><div n="I">VIII=up to: q. v.: {#A#} with abl. or in comp.,
-<div n="lb"/><div n="xe">{%to the coast of the four oceans:%}</div> <div n="xs">{#A pAreByaScaturRA-#}
-<div n="lb"/>{#mamBoDInAm,#}</div> Mu. iii. 24. </div><div n="I">IX Expressing
-<div n="lb"/>number: expr. by comp., <div n="xe">{%to the number%}
-<div n="lb"/>{%of five hundred:%}</div> <div n="xs">{#paYcaSatasaMKyaka#}</div> (f. {#kA#}). </div><div n="I">X
-<div n="lb"/>In other senses; <div n="xe">{%hand to hand:%}</div> <div n="xs">{#hastAhasti;#}</div>
-<div n="lb"/><div n="xe">{%to one's face:%}</div> <div n="xs">{#sammuKe;#}</div> <div n="xe">{%“to his ruin”:%}</div> <div n="xs">{#svanASAya;#}</div>
-<div n="lb"/><div n="xe">{%“she to his image was made”:%}</div> <div n="xs">{#sA tadanurUpA kftA;#}</div>
-<div n="lb"/><div n="xe">{%“I have a king here to my flatterer”:%}</div> <div n="xs">{#ayaM rAjA #}
-<div n="lb"/>{# mama stAvakaBUmO vartate.#}</div></div>
+{@TO:@}¦ <div n="I">I With verbs of motion: by acc., <div n="xe">{%I%}
+{%was taken to the edifice of the princess:%}</div> <div n="xs">{#nIto'haM #}
+{# kanyakAniketanam,#}</div> D. vii. (G. § 162-3). </div><div n="I">II
+Expressing indirect object: by dat., <div n="xe">{%shew-%}
+{%ing to the queen:%}</div> <div n="xs">{#darSayan patnyE,#}</div> R. (G. § 180.).</div>
+<div n="I">III With inf.: by inf., <div n="xe">{%I have come to impart%}
+{%the knowledge:%}</div> <div n="xs">{#vidyAM dAtumupAgato'sBi,#}</div> Ki. v. 23.
+(G. § 279-83). </div><div n="I">IV With special verb: q. v.
+V. In comparison to: by gen., <div n="xe">{%who are%}
+{%other archers to me:%}</div> <div n="xs">{#ke mama Danvino'nye,#}</div> Ku. iii.
+10. (G. § 211, 209), </div><div n="I">VI Of direction: <div n="xe">{%to%}
+{%the north-west of Kailāsa:%}</div> <div n="xs">{#kElAsAt paScimodIcyAm,#}</div>
+Mat.: <div n="xe">{%to the north of Nishadha:%}</div> <div n="xs">{#nizaDasyottareRa,#}</div>
+Mah. (G. § 207, 196). </div><div n="I">VII=towards: q. v.</div>
+<div n="I">VIII=up to: q. v.: {#A#} with abl. or in comp.,
+<div n="xe">{%to the coast of the four oceans:%}</div> <div n="xs">{#A pAreByaScaturRA-#}
+{#mamBoDInAm,#}</div> Mu. iii. 24. </div><div n="I">IX Expressing
+number: expr. by comp., <div n="xe">{%to the number%}
+{%of five hundred:%}</div> <div n="xs">{#paYcaSatasaMKyaka#}</div> (f. {#kA#}). </div><div n="I">X
+In other senses; <div n="xe">{%hand to hand:%}</div> <div n="xs">{#hastAhasti;#}</div>
+<div n="xe">{%to one's face:%}</div> <div n="xs">{#sammuKe;#}</div> <div n="xe">{%“to his ruin”:%}</div> <div n="xs">{#svanASAya;#}</div>
+<div n="xe">{%“she to his image was made”:%}</div> <div n="xs">{#sA tadanurUpA kftA;#}</div>
+<div n="xe">{%“I have a king here to my flatterer”:%}</div> <div n="xs">{#ayaM rAjA #}
+{# mama stAvakaBUmO vartate.#}</div></div>
 <LEND>

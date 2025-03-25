@@ -1,8 +1,8 @@
 <L>17329<pc>530<k1>police<k2>police
-<div n="lb"/>{@POLICE:@}¦ i. e. officer: <div n="xe">{%oh, how neglectful the%}
-<div n="lb"/>{%town p. have been:%}</div> <div n="xs">{#aho! nagararakziRAM pramAdaH,#}</div> Mr.
-<div n="lb"/>ix.; <div n="xe">{%by the order of the chief of the p.:%}</div> <div n="xs">{#Arakzika-#}
-<div n="lb"/>{#nAyakasya SAsanAt,#}</div> D. ii.; <div n="xe">{%p. magistrate:%}</div> <div n="xs">{#daRqa-#}
-<div n="lb"/>{#nAyakaH,#}</div> H.; <div n="xe">{%p. administration report:%}</div> <div n="xs">{#daRqanirvAha-#}
-<div n="lb"/>{#vfttAntaH.#}</div>
+{@POLICE:@}¦ i. e. officer: <div n="xe">{%oh, how neglectful the%}
+{%town p. have been:%}</div> <div n="xs">{#aho! nagararakziRAM pramAdaH,#}</div> Mr.
+ix.; <div n="xe">{%by the order of the chief of the p.:%}</div> <div n="xs">{#Arakzika-#}
+{#nAyakasya SAsanAt,#}</div> D. ii.; <div n="xe">{%p. magistrate:%}</div> <div n="xs">{#daRqa-#}
+{#nAyakaH,#}</div> H.; <div n="xe">{%p. administration report:%}</div> <div n="xs">{#daRqanirvAha-#}
+{#vfttAntaH.#}</div>
 <LEND>

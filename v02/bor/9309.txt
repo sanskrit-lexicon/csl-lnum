@@ -1,6 +1,6 @@
 <L>9309<pc>295<k1>fount<k2>fount
-<div n="lb"/>{@FOUNT,@}¦ {@FOUNTAIN:@} <div n="I">I Lit.: </div><div n="1">(1) {#prasravaRam;#} </div><div n="1">(2)
-<div n="lb"/>{#nirBkaraH;#} </div><div n="1">(3) {#utsaH#} </div><div n="I">II Source: </div><div n="1">(1) {#mUlam;#} </div><div n="1">(2)
-<div n="lb"/>{#yoniH;#} </div><div n="1">(3) {#prasUH#} <div n="xe">{%or%}</div> <div n="xs">{#prasUtiH#}</div> (= mother), Ki.</div>
-<div n="lb"/><div n="I">III Of types: v. Font.</div>
+{@FOUNT,@}¦ {@FOUNTAIN:@} <div n="I">I Lit.: </div><div n="1">(1) {#prasravaRam;#} </div><div n="1">(2)
+{#nirBkaraH;#} </div><div n="1">(3) {#utsaH#} </div><div n="I">II Source: </div><div n="1">(1) {#mUlam;#} </div><div n="1">(2)
+{#yoniH;#} </div><div n="1">(3) {#prasUH#} <div n="xe">{%or%}</div> <div n="xs">{#prasUtiH#}</div> (= mother), Ki.</div>
+<div n="I">III Of types: v. Font.</div>
 <LEND>

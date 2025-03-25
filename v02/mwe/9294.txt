@@ -1,15 +1,15 @@
 <L>9294<pc>218-b<k1>effect<k2>effect
-<div n="lb"/>EFFECT¦, {%s.%} (That which is produced by an agent) {#utpannaM, nizpannaM,#}
-<div n="lb"/>{#udBUtaM, sidDiH#} {%f.,%} {#utpattiH#} {%f.,%} {#kAryyaM, vfttaM, anuvftraM, GawanA#}. — (Con-
-<div n="lb"/>-sequence) {#PalaM, karmmaPalaM, PalamuttaraM, prayogaH, prayuktiH#} {%f.,%} {#uttaraM, anusAraH,#}
-<div n="lb"/>{#pariRAmaH, antaH -ntaM, vfttAntaH, SezaH, anuzaNgaH, kAvyaM, anvayaH, yogaH,#}
-<div n="lb"/>{#anuBavaH, BavyaM, PalodayaH, pratiPalaM, udarkaH, pratyayaH#}. — (Purpose) {#arTaH,#}
-<div n="lb"/>{#prayojanaM, aBiprAyaH;#} ‘to what effect?’ {#kimarTaM;#} ‘he spoke to
-<div n="lb"/>that effect,’ {#ityuvAca#}. — (Advantage, validity) {#PalaM, prayojanaM,#}
-<div n="lb"/>{#arTaH, praBAvaH;#} ‘of no effect,’ {#nizPalaH -lA -laM, nirarTakaH -kA -kaM,#}
-<div n="lb"/>{#nizprayojanaH -nA -naM;#} ‘to destroy the effect of any thing,’ {#ni-#}
-<div n="lb"/>{#-zPala#} (nom. {#nizPalayati -yituM#}), {#moGIkf#}. — (Completion) {#nizpattiH#} {%f.,%}
-<div n="lb"/>{#sidDiH#} {%f.%} — (Fact) {#vastu#} {%n.,%} {#arTaH;#} ‘in effect,’ {#vastutas, arTatas,#}
-<div n="lb"/>{#tattvatas#}. — (Effects, goods) {#dravyARi#} {%n. pl.,%} {#vastUni#} {%n. pl.,%} {#sAmagryaM,#}
-<div n="lb"/>{#sAmagrI, viBavaH, rikTaM#}.
+EFFECT¦, {%s.%} (That which is produced by an agent) {#utpannaM, nizpannaM,#}
+{#udBUtaM, sidDiH#} {%f.,%} {#utpattiH#} {%f.,%} {#kAryyaM, vfttaM, anuvftraM, GawanA#}. — (Con-
+-sequence) {#PalaM, karmmaPalaM, PalamuttaraM, prayogaH, prayuktiH#} {%f.,%} {#uttaraM, anusAraH,#}
+{#pariRAmaH, antaH -ntaM, vfttAntaH, SezaH, anuzaNgaH, kAvyaM, anvayaH, yogaH,#}
+{#anuBavaH, BavyaM, PalodayaH, pratiPalaM, udarkaH, pratyayaH#}. — (Purpose) {#arTaH,#}
+{#prayojanaM, aBiprAyaH;#} ‘to what effect?’ {#kimarTaM;#} ‘he spoke to
+that effect,’ {#ityuvAca#}. — (Advantage, validity) {#PalaM, prayojanaM,#}
+{#arTaH, praBAvaH;#} ‘of no effect,’ {#nizPalaH -lA -laM, nirarTakaH -kA -kaM,#}
+{#nizprayojanaH -nA -naM;#} ‘to destroy the effect of any thing,’ {#ni-#}
+{#-zPala#} (nom. {#nizPalayati -yituM#}), {#moGIkf#}. — (Completion) {#nizpattiH#} {%f.,%}
+{#sidDiH#} {%f.%} — (Fact) {#vastu#} {%n.,%} {#arTaH;#} ‘in effect,’ {#vastutas, arTatas,#}
+{#tattvatas#}. — (Effects, goods) {#dravyARi#} {%n. pl.,%} {#vastUni#} {%n. pl.,%} {#sAmagryaM,#}
+{#sAmagrI, viBavaH, rikTaM#}.
 <LEND>

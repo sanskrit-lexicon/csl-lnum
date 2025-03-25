@@ -1,46 +1,46 @@
 <L>4959<pc>1-0362<k1>aByAsa<k2>aByAsa
-{#aByAsa#}¦ (von {#as, asyati#} mit {#aBi#}) <lex>m.</lex> 
-<div n="1"> 1) {%Wiederholung%} 
-<ls>KĀTY. ŚR. 24, 7, 20.</ls> 
-<ls>P. 1, 3, 71.</ls> 
-<ls>VOP. 23, 54.</ls> {#aByAsAtkarmaRAM tezAM pApAnAm#} 
-<ls>M. 12, 74.</ls> {#aByAsAdekEkasya#} 
-<ls>YĀJÑ. 3, 323.</ls> {#DyAnanirmaTanAByAsAt#} 
-<ls>ŚVETĀŚV. UP. 1, 14.</ls> {#aBiplavAByA°#} 
-<ls>KĀTY. ŚR. 24, 3, 33.</ls> 
-<div n="1">— 2) {%das Obliegen, Uebung, anhaltende Beschäftigung mit Etwas, wiederholte Anwendung, Gebrauch, Gewohnheit%} 
-<ls>MED. s. 14.</ls> <ls>HĀR. 150.</ls> {#Sreyo hi jYAnamaByAsAt#} 
-<ls>BHAG. 12, 12.</ls> {#mano durnigrahaM calam . aByAsena tu - vErAgyeRa ca gfhyate#} 
-<ls>6, 35. 44. 18, 36.</ls> {#aByAsayogena#} 
-<ls>12, 9.</ls> {#tatrAtmA hi svayaM kiMcitkarma kiMcitsvaBAvataH . karoti kiMcidaByAsAt#} ({%aus Gewohnheit%}) 
-<ls>YĀJÑ. 3, 68.</ls> {#mAtfpitfkftAByAso guRitAmeti bAlakaH#} 
-<ls>H. Pr. 36.</ls> {#asyAByAsAdGftasyeha jIvedvarzaSatatrayam#} 
-<ls>SUŚR. 2, 419, 19.</ls> {#SastraviSezARAM punaHpunaraByAsaH#} 
-<ls>MADHUS.</ls> in <ls>Ind. St. 1, 21, 26.</ls> {#yogAByAsa#} 
-<ls>YĀJÑ. 3, 51.</ls> 
-<ls>BHARTṚ. 1, 96.</ls> {#amaNgalAByAsarati#} {%der eine Freude am Unheilstiften hat%} 
-<ls>KUMĀRAS. 5, 65.</ls> {#yadvAYCati divA martyo vIkzate vA karoti vA . tatsvapne 'pi tadaByAsAttaTA brUte karoti ca ..#} 
-<ls>PAÑCAT. I, 149.</ls> {#SarAByAsa = upAsana#} 
-<ls>TRIK. 3, 3, 231.</ls> {%wiederholtes Lesen, Studium%}: {#aByAsArTe drutAM vfttiM prayogArTe tu maDyamAm (kuryAt)#} 
-<ls>ṚV. PRĀT. 13, 9.</ls> {#anaByAse vizaM vidyA#} 
-<ls>HIT. Pr. 21.</ls> {#anaByAsena vedAnAm#} 
-<ls>M. 5, 4.</ls> {#vedAByA°#} 
-<ls>2, 166. 4, 148. 10, 80. 11, 46. 245. 12, 31. 83. 92.</ls> <ls>YĀJÑ. 3, 311.</ls> {#vidyA°#} 
-<ls>PAÑCAT. 220, 4.</ls> {#brahmA°#} 
-<ls>M. 4, 149.</ls> {#tadaByA°#} 
-<ls>YĀJÑ. 3, 112.</ls> {#tattvA°#} 
-<ls>SĀṂKHYAK. 64.</ls> {#AyurvedakftAByAsa#} <lex>adj.</lex> 
-<ls>CĀṆ. 103.</ls> {#anDatAmisravAsAByAsodyatA iva#} 
-<ls>KATHĀS. 4, 63.</ls> 
-<div n="1">— 3) {%Waffenübung%} 
-<ls>TRIK. 3, 2, 20. 3, 3, 442.</ls> 
-<ls>H. 788.</ls> 
-<div n="1">— 4) {%Reduplication%} (in der Gramm.) 
-<ls>NIR. 5, 12.</ls> 
-<ls>P. 6, 1, 4. 7. 17.</ls> u. s. w. 
-<div n="1">— 5) {%Refrain%} 
-<ls>NIR. 10, 42.</ls> 
-<div n="1">— 6) {%Multiplication%} 
-<ls>COLEBR. Alg. 5. 171.</ls> 
+{#aByAsa#}¦ (von {#as, asyati#} mit {#aBi#}) <lex>m.</lex>
+<div n="1"> 1) {%Wiederholung%}
+<ls>KĀTY. ŚR. 24,7,20.</ls>
+<ls>P. 1,3,71.</ls>
+<ls>VOP. 23,54.</ls> {#aByAsAtkarmaRAM tezAM pApAnAm#}
+<ls>M. 12,74.</ls> {#aByAsAdekEkasya#}
+<ls>YĀJÑ. 3,323.</ls> {#DyAnanirmaTanAByAsAt#}
+<ls>ŚVETĀŚV. UP. 1,14.</ls> {#aBiplavAByA°#}
+<ls>KĀTY. ŚR. 24,3,33.</ls>
+<div n="1">— 2) {%das Obliegen, Uebung, anhaltende Beschäftigung mit Etwas, wiederholte Anwendung, Gebrauch, Gewohnheit%}
+<ls>MED. s. 14.</ls> <ls>HĀR. 150.</ls> {#Sreyo hi jYAnamaByAsAt#}
+<ls>BHAG. 12,12.</ls> {#mano durnigrahaM calam . aByAsena tu — vErAgyeRa ca gfhyate#}
+<ls n="BHAG.">6,35.</ls> <ls n="BHAG. 6,">44.</ls> <ls n="BHAG.">18,36.</ls> {#aByAsayogena#}
+<ls n="BHAG.">12,9.</ls> {#tatrAtmA hi svayaM kiMcitkarma kiMcitsvaBAvataH . karoti kiMcidaByAsAt#} ({%aus Gewohnheit%})
+<ls>YĀJÑ. 3,68.</ls> {#mAtfpitfkftAByAso guRitAmeti bAlakaH#}
+<ls>H. Pr. 36.</ls> {#asyAByAsAdGftasyeha jIvedvarzaSatatrayam#}
+<ls>SUŚR. 2,419,19.</ls> {#SastraviSezARAM punaHpunaraByAsaH#}
+<ls>MADHUS.</ls> in <ls>Ind. St. 1,21,26.</ls> {#yogAByAsa#}
+<ls>YĀJÑ. 3,51.</ls>
+<ls>BHARTṚ. 1,96.</ls> {#amaNgalAByAsarati#} {%der eine Freude am Unheilstiften hat%}
+<ls>KUMĀRAS. 5,65.</ls> {#yadvAYCati divA martyo vIkzate vA karoti vA . tatsvapne 'pi tadaByAsAttaTA brUte karoti ca ..#}
+<ls>PAÑCAT. I,149.</ls> {#SarAByAsa = upAsana#}
+<ls>TRIK. 3,3,231.</ls> {%wiederholtes Lesen, Studium%}: {#aByAsArTe drutAM vfttiM prayogArTe tu maDyamAm (kuryAt)#}
+<ls>ṚV. PRĀT. 13,9.</ls> {#anaByAse vizaM vidyA#}
+<ls>HIT. Pr. 21.</ls> {#anaByAsena vedAnAm#}
+<ls>M. 5,4.</ls> {#vedAByA°#}
+<ls n="M.">2,166.</ls> <ls n="M.">4,148.</ls> <ls n="M.">10,80.</ls> <ls n="M.">11,46.</ls> <ls n="M. 11,">245.</ls> <ls n="M.">12,31.</ls> <ls n="M. 12,">83.</ls> <ls n="M. 12,">92.</ls> <ls>YĀJÑ. 3,311.</ls> {#vidyA°#}
+<ls>PAÑCAT. 220,4.</ls> {#brahmA°#}
+<ls>M. 4,149.</ls> {#tadaByA°#}
+<ls>YĀJÑ. 3,112.</ls> {#tattvA°#}
+<ls>SĀṂKHYAK. 64.</ls> {#AyurvedakftAByAsa#} <lex>adj.</lex>
+<ls>CĀṆ. 103.</ls> {#anDatAmisravAsAByAsodyatA iva#}
+<ls>KATHĀS. 4,63.</ls>
+<div n="1">— 3) {%Waffenübung%}
+<ls>TRIK. 3,2,20.</ls> <ls n="TRIK.">3,3,442.</ls>
+<ls>H. 788.</ls>
+<div n="1">— 4) {%Reduplication%} (in der Gramm.)
+<ls>NIR. 5,12.</ls>
+<ls>P. 6,1,4.</ls> <ls n="P. 6,1,">7.</ls> <ls n="P. 6,1,">17.</ls> u. s. w.
+<div n="1">— 5) {%Refrain%}
+<ls>NIR. 10,42.</ls>
+<div n="1">— 6) {%Multiplication%}
+<ls>COLEBR. Alg. 5. 171.</ls>
 <div n="v">— Vgl. {#aByASa#} und {#aByasta#} .
 <LEND>

@@ -1,5 +1,5 @@
-<L>58<pc>0007<k1>akzIyamAna<k2>a/-kzIyamAna
-{@á-kṣīyamāna,@}¦ a., {%unversiegbar, unvergänglich%} (von 2. kṣi).
-<div n="P1">-am [<ab>m.</ab>] útsam {260,9}.
-<div n="P1">-ā [<ab>n.</ab> <ab>p.</ab>] padā́ni {154,4}.
+<L>58<pc>0007<k1>akzIyamARa<k2>a/-kzIyamARa
+<chg type="chg" n="3" src="gra"><old>{@á-kṣīyamāna,@}</old><new>{@á-kṣīyamāṇa,@}</new></chg>¦ <ab>a.</ab>, {%unversiegbar, unvergänglich%} (von <hom>2.</hom> kṣi).
+<div n="TS">-am [<ab>m.</ab>] útsam {260,9}.
+<div n="TS">-ā [<ab>n.</ab> <ab>p.</ab>] padā́ni {154,4}.
 <LEND>

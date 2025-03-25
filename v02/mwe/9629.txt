@@ -1,6 +1,6 @@
 <L>9629<pc>226-b<k1>encounter<k2>encounter
-<div n="lb"/>ENCOUNTER¦, {%s.%} (Meeting) {#samAgamaH, samAgatiH#} {%f.,%} {#saNgaH, saNgamaH, saNgataM,#}
-<div n="lb"/>{#melanaM, melakaH, milanaM, samAsAdanaM#}. — (Conflict, collision) {#samAGAtaH,#}
-<div n="lb"/>{#saMyugaH, samaraH, saNgFmaH, yudDaM, vigrahaH, samprahAraH, aBisampAtaH, samparAyaH,#}
-<div n="lb"/>{#saNGawwaH -wwanaM, sammarddaH, pratiGAtaH, samPewaH#}.
+ENCOUNTER¦, {%s.%} (Meeting) {#samAgamaH, samAgatiH#} {%f.,%} {#saNgaH, saNgamaH, saNgataM,#}
+{#melanaM, melakaH, milanaM, samAsAdanaM#}. — (Conflict, collision) {#samAGAtaH,#}
+{#saMyugaH, samaraH, saNgFmaH, yudDaM, vigrahaH, samprahAraH, aBisampAtaH, samparAyaH,#}
+{#saNGawwaH -wwanaM, sammarddaH, pratiGAtaH, samPewaH#}.
 <LEND>

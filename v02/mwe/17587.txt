@@ -1,6 +1,6 @@
 <L>17587<pc>443-a<k1>league<k2>league
-<div n="lb"/>LEAGUE¦, {%s.%} (Alliance, confederacy) {#sanDiH#} {%m.,%} {#sanDAnaM, sAhityaM,#}
-<div n="lb"/>{#sahAyatA, saNGAtaH, sambanDaH, saNGawwanam, saMyogaH, EkyaM, saMyojanaM, samAhAraH,#}
-<div n="lb"/>{#samAharaRaM, pratIhAraH, saNgamaH, samAgamaH, saMsfzwiH#} {%f.,%} {#parasparopakArapratijYA,#}
-<div n="lb"/>{#sAhyaM#}. — (The distance) {#kroSaH, kroSayugaM, gavyUtiH#} {%f. m.,%} {#gavyUtaM#}.
+LEAGUE¦, {%s.%} (Alliance, confederacy) {#sanDiH#} {%m.,%} {#sanDAnaM, sAhityaM,#}
+{#sahAyatA, saNGAtaH, sambanDaH, saNGawwanam, saMyogaH, EkyaM, saMyojanaM, samAhAraH,#}
+{#samAharaRaM, pratIhAraH, saNgamaH, samAgamaH, saMsfzwiH#} {%f.,%} {#parasparopakArapratijYA,#}
+{#sAhyaM#}. — (The distance) {#kroSaH, kroSayugaM, gavyUtiH#} {%f. m.,%} {#gavyUtaM#}.
 <LEND>

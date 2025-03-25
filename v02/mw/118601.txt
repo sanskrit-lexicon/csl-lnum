@@ -1,6 +1,6 @@
-<L>118601<pc>601,1<k1>parivf<k2>pari-vf<h>a<e>1
-<hom>a.</hom> <s>pari-</s>√ <hom>1.</hom> <s>vf</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-varati</s>, <s>°te</s>, (<ab>pf.</ab> <s>-vavrur</s>, <ab>p.</ab> <s>-vavfva/s</s>; <ab>ind.p.</ab> <s>-vftya</s>), 
+<L>118601<pc>601,1<k1>parivf<k2>pari-vf<e>1
+ <s>pari-</s>√ <hom>1.</hom> <s>vf</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-varati</s>, <s>°te</s>, (<ab>pf.</ab> <s>-vavrur</s>, <ab>p.</ab> <s>-vavfva/s</s>; <ab>ind.p.</ab> <s>-vftya</s>),
 <div n="to"/>to cover, surround, conceal, keep back, hem in <ls>RV.</ls> &c. &c.:
-<div n="vp"/><ab>Caus.</ab> <s>-vArayati</s>, <s>°te</s> (<ls>Pāṇ. 3-1, 87</ls>, <ab>Vārtt.</ab> 16, <ls>Pat.</ls> <pb n="601,2"/>; <ab>ind.p.</ab> <s>-vArya</s>), 
-<div n="to"/>to cover, surround, encompass, embrace (<s>bAhuByAm</s>), <ls>AV.</ls>; &c.<info verb="pre" cp="PĀ" parse="pari+vf"/>
+<div n="vp"/><ab>Caus.</ab> <s>-vArayati</s>, <s>°te</s> (<ls>Pāṇ. iii, 1, 87</ls>, <ab>Vārtt.</ab> 16, <ls>Pat.</ls> <pb n="601,2"/>; <ab>ind.p.</ab> <s>-vArya</s>),
+<div n="to"/>to cover, surround, encompass, embrace (<s>bAhuByAm</s>), <ls>AV.</ls>; &c.<info verb="pre" cp="PĀ" parse="pari+vf"/><info hui="a"/>
 <LEND>

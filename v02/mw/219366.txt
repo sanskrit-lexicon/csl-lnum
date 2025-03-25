@@ -1,21 +1,21 @@
 <L>219366<pc>1082,1<k1>SuD<k2>SuD<e>1
-<s>SuD</s> ¦ or <s>SunD</s> <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. iii, 37</ls>) <s>SunDati</s>, <s>°te</s> (<ab>Impv.</ab> <s>SundDi</s>, <ls>ĀśvGṛ.</ls>; <ab>pf.</ab> <s>SuSunDa</s> <ab>aor.</ab> <s>aSunDIt</s> <ab>fut.</ab> <s>SunDitA</s>, <s>SunDizyati</s> <ab>Gr.</ab>), 
+<s>SuD</s> or <s>SunD</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. iii, 37</ls>) <s>SunDati</s>, <s>°te</s> (<ab>Impv.</ab> <s>SundDi</s>, <ls>ĀśvGṛ.</ls>; <ab>pf.</ab> <s>SuSunDa</s> <ab>aor.</ab> <s>aSunDIt</s> <ab>fut.</ab> <s>SunDitA</s>, <s>SunDizyati</s> <ab>Gr.</ab>),
 <div n="to"/>to purify (<ab>Ā.</ab> ‘one's self’, become or be pure), <ls>RV.</ls>; <ls>VS.</ls>; <ls>TBr.</ls>; <ls>GṛŚrS.</ls>;
-<div n="vp"/> <ab>cl.</ab> 4. <ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. xxvi, 82</ls>) <s>SuDyati</s> (<ab>mc.</ab> also <s>°te</s>; <ab>pf.</ab> <s>SuSoDa</s> <ab>aor.</ab> <s>aSuDat</s> <ab>fut.</ab> <s>SodDA</s>, <s>Sotsyati</s>, <ab>inf.</ab> <s>SodDum</s> <ab>Gr.</ab>), 
+<div n="vp"/> <ab>cl.</ab> 4. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxvi, 82</ls>) <s>SuDyati</s> (<ab>mc.</ab> also <s>°te</s>; <ab>pf.</ab> <s>SuSoDa</s> <ab>aor.</ab> <s>aSuDat</s> <ab>fut.</ab> <s>SodDA</s>, <s>Sotsyati</s>, <ab>inf.</ab> <s>SodDum</s> <ab>Gr.</ab>),
 <div n="to"/>to be cleared or cleansed or purified, become pure (<ab>esp.</ab> in a ceremonial sense), <ls>VS.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to become clear or free from doubts, <ls>R.</ls>; <ls>Mṛcch.</ls>;
 <div n="to"/>to be cleared or excused from blame, to be excusable, <ls>Kathās.</ls> :
 <div n="vp"/><ab>Pass.</ab> <s>SuDyate</s> (<ab>aor.</ab> <s>aSoDi</s>) <ab>Gr.</ab>:
-<div n="to"/><ab>Caus.</ab> <s>SunDayati</s>, to clear, purify, <ls>VS.</ls>;
+<div n="vp"/><ab>Caus.</ab> <s>SunDayati</s>, to clear, purify, <ls>VS.</ls>;
 <div n="to"/> <s>SoDayati</s> (<ab>aor.</ab> <s>aSUSuDat</s>), to purify (<ab>esp.</ab> in a ceremonial sense), <ls>TS.</ls> &c. &c.;
-<div n="to"/>to correct, improve, <ls>Yājñ.</ls> <ab>Sch.</ab>;
+<div n="to"/>to correct, improve, <ls>Yājñ., Sch.</ls>;
 <div n="to"/>to remove (impurity or anything noxious), <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to clear off, pay (debts), <ls>Rājat.</ls>; <ls>Kull.</ls>;
 <div n="to"/>to acquit, exculpate, justify, <ls>Mn.</ls>; <ls>Kām.</ls>;
 <div n="to"/>to put to test, <ls>Kathās.</ls>;
-<div n="to"/>to try, examine, <ls>Pañcat.</ls>; <ls>Yājñ.</ls> <ab>Sch.</ab>;
-<div n="to"/>to make clear, explain, <ls>Vedântas.</ls>; <ls>Madhus.</ls>;
+<div n="to"/>to try, examine, <ls>Pañcat.</ls>; <ls>Yājñ., Sch.</ls>;
+<div n="to"/>to make clear, explain, <ls>Vedāntas.</ls>; <ls>Madhus.</ls>;
 <div n="to"/>to subtract, <ls>Gaṇit.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>SuSutsati</s>, <ls>Nidānas.</ls> :
-<div n="vp"/><ab>Intens.</ab> <s>SoSuDyate</s>, <s>SoSodDi</s> <ab>Gr.</ab><info or="219366,SuD;219366.1,SunD"/><info westergaard="SunDa,3.37,01.0062;SuDa,26.82,04.0087"/><info whitneyroots="SuD,174"/><info verb="genuineroot" cp="1P,1Ā,4P,4Ā"/>
+<div n="vp"/><ab>Intens.</ab> <s>SoSuDyate</s>, <s>SoSodDi</s> <ab>Gr.</ab><info westergaard="SunDa,3.37,01.0062;SuDa,26.82,04.0087"/><info whitneyroots="SuD,174"/><info verb="genuineroot" cp="1P,1Ā,4P,4Ā"/>
 <LEND>

@@ -1,25 +1,25 @@
 <L>106126<pc>7-0744<k1>saMpradAna<k2>saMpradAna
-{#saMpradAna#}¦ (wie eben) <lex>n.</lex> 
-<div n="1"> 1) {%das Geben, Schenken, Zukommenlassen%}: {#ukzRAm#} 
-<ls>MBH. 13, 3685.</ls> {#upAnaha°#} 
-<ls>?2960. (Spr. (II) 1542.</ls>) {#SrAdDasya#} 
-<ls>PAÑCAR. 1, 13, 21.</ls> {%das Ueberliefern, Lehren%}: {#vedasya#} 
-<ls>VS. PRĀT. 8, 41.</ls> fg. {%das Uebergeben%}: {#svAtmavyApAra°#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 304.</ls> {%Hingabe%}: {#AtmanaH#} 
-<ls>MBH. 12, 8958.</ls> 
-<ls>Spr. (II) 3278.</ls> {%das zur-Ehe-Geben%}: {#kanyAnAm#} 
-<ls>M.7,152.</ls> <ls>MBH.1,6526.</ls> <ls>R.1,68,15.</ls> <ls>Verz. d. Oxf. H. 27,a,7.</ls> {%das Gewähren%}: {#saMBAzA°#} 
-<ls>R. 7, 64, 5.</ls> ohne Beifügung eines obj. {%Gabe, Geschenk%} 
-<ls>MBH. 1, 5601. 5, 5090. 9, 2355. 13, 6683.</ls> 
-<ls>Spr. (II) 1530.</ls> {#pitAputrIya#} {%das Vermächtniss eines Vaters an seinen Sohn%} 
-<ls>KAUṢ. UP. 2, 15</ls> (vgl. {#saMpratti#}, welches durch {#saMpradAna#} erklärt wird). {#a°#} {%das Nichtherausgeben, das Zurückhalten einer%} (versprochenen) {%Gabe%} 
-<ls>Journ. of the Am. Or. S. 7, 44.</ls> 
-<div n="1">— 2) {%die Person, für die man Etwas thut, der Begriff des Dativs%}: {#karmaRA yamaBiprEti sa saMpradAnam#} 
-<ls>P. 1, 4, 32. 44.</ls> {#caturTI saMpradAne#} 
-<ls>2, 3, 13. 3, 4, 73.</ls> {#devatAsaMpradAne#} {%wenn die Person, für die Etwas gethan wird, eine Gottheit ist%} 
-<ls>2, 3, 61.</ls> {#yAgasaMpradAnaM devatA#} {%die Person, für welche ein Opfer geschieht, heisst%} <is>Devatā</is> 
-<ls>KĀŚ.</ls> zu <ls>P. 4, 2, 24.</ls> 
-<div n="1">— 3) 
-<ls>MBH. 12, 13204</ls> wohl fehlerhaft für {#saMprayARa#} . 
+{#saMpradAna#}¦ (wie eben) <lex>n.</lex>
+<div n="1"> 1) {%das Geben, Schenken, Zukommenlassen%}: {#ukzRAm#}
+<ls>MBH. 13,3685.</ls> {#upAnaha°#}
+<ls n="MBH. 13,">2960.</ls> (<ls>Spr. (II) 1542.</ls>) {#SrAdDasya#}
+<ls>PAÑCAR. 1,13,21.</ls> {%das Ueberliefern, Lehren%}: {#vedasya#}
+<ls>VS. PRĀT. 8,41.</ls> fg. {%das Uebergeben%}: {#svAtmavyApAra°#}
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 304.</ls> {%Hingabe%}: {#AtmanaH#}
+<ls>MBH. 12,8958.</ls>
+<ls>Spr. (II) 3278.</ls> {%das zur-Ehe-Geben%}: {#kanyAnAm#}
+<ls>M. 7,152.</ls> <ls>MBH. 1,6526.</ls> <ls>R. 1,68,15.</ls> <ls>Verz. d. Oxf. H. 27,a,7.</ls> {%das Gewähren%}: {#saMBAzA°#}
+<ls>R. 7,64,5.</ls> ohne Beifügung eines obj. {%Gabe, Geschenk%}
+<ls>MBH. 1,5601.</ls> <ls n="MBH.">5,5090.</ls> <ls n="MBH.">9,2355.</ls> <ls n="MBH.">13,6683.</ls>
+<ls>Spr. (II) 1530.</ls> {#pitAputrIya#} {%das Vermächtniss eines Vaters an seinen Sohn%}
+<ls>KAUṢ. UP. 2,15</ls> (vgl. {#saMpratti#}, welches durch {#saMpradAna#} erklärt wird). {#a°#} {%das Nichtherausgeben, das Zurückhalten einer%} (versprochenen) {%Gabe%}
+<ls>Journ. of the Am. Or. S. 7,44.</ls>
+<div n="1">— 2) {%die Person, für die man Etwas thut, der Begriff des Dativs%}: {#karmaRA yamaBiprEti sa saMpradAnam#}
+<ls>P. 1,4,32.</ls> <ls n="P. 1,4,">44.</ls> {#caturTI saMpradAne#}
+<ls n="P.">2,3,13.</ls> <ls n="P.">3,4,73.</ls> {#devatAsaMpradAne#} {%wenn die Person, für die Etwas gethan wird, eine Gottheit ist%}
+<ls n="P.">2,3,61.</ls> {#yAgasaMpradAnaM devatA#} {%die Person, für welche ein Opfer geschieht, heisst%} <is>Devatā</is>
+<ls>KĀŚ.</ls> zu <ls>P. 4,2,24.</ls>
+<div n="1">— 3)
+<ls>MBH. 12,13204</ls> wohl fehlerhaft für {#saMprayARa#} .
 <div n="v">— Vgl. {#sAMpradAnika#} .
 <LEND>

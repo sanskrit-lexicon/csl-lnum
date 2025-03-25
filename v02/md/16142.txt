@@ -1,20 +1,3 @@
 <L>16142<pc>274-1<k1>vastu<k2>vastu<h>2
-{#vastu#}¦vas-tu, {%n.%} ({%C.%}) place ({%rare%}); thing, 
-<>substance, object; really existing thing; 
-<>right thing, worthy object, object of (-°); 
-<>matter, circumstance; subject, subject-matter, <lbinfo n="11"/>
-<> plot, theme, contents; °-, in reality: 
-<>{@-ka,@} {%a.%} (-°) having -- as contents (anūna-, of 
-<>weighty contents, extraordinary; {@-jāta@}, {%n.%} 
-<>the aggregate of things; {@-tantra,@} {%a.%} dependent <lbinfo n="5"/>
-<> on things, objective; {@-tas,@} {%ad.%} in 
-<>reality; {@-tā,@} {%f.%} being the object of (-°); 
-<>reality: {%in.%} in reality; {@-dharma,@} {%m. sg. & pl.%} 
-<>true nature of things; {@-bhāva,@} {%m.%} reality: 
-<>{%in. pl.%} in reality; {@-bheda,@} {%m.%} actual {%or%} essential <lbinfo n="5"/>
-<> difference; {@-racanā@}, {%f.%} elaboration of a 
-<>plot; {@-vṛtta@}, {%n.%} actual fact; {@-śakti@}, {%f. sg. %}
-<>{%& pl.%} force of circumstances: {@-tas,@} {%ad.%} by the 
-<>--; {@-śāsana@}, {%n.%} original edict; {@-śūnya@}, {%a.%} 
-<>devoid of reality, unreal.
+{#vastu#}¦ <hom>2.</hom> vas-tu, <lex>n.</lex> (<ab>C.</ab>) place ({%rare%}); thing, 🞄substance, object; really existing thing; 🞄right thing, worthy object, object of (<ab>—°</ab>); 🞄matter, circumstance; subject, subject-matter, 🞄plot, theme, contents; <ab>°—</ab>, in reality: 🞄{@-ka,@} <lex>a.</lex> (<ab>—°</ab>) having — as contents (anūna-, of 🞄weighty contents, extraordinary); {@-jāta,@} <lex>n.</lex> 🞄the aggregate of things; {@-tantra,@} <lex>a.</lex> dependent 🞄on things, objective; {@-tas,@} <lex>ad.</lex> in 🞄reality; {@-tā,@} <lex>f.</lex> being the object of (<ab>—°</ab>); 🞄reality: <ab>in.</ab> in reality; {@-dharma,@} <lex>m.</lex> <ab>sg.</ab> & <ab>pl.</ab> 🞄true nature of things; {@-bhāva,@} <lex>m.</lex> reality: 🞄<ab>in.</ab> <ab>pl.</ab> in reality; {@-bheda,@} <lex>m.</lex> actual {%or%} essential 🞄difference; {@-racanā,@} <lex>f.</lex> elaboration of a 🞄plot; {@-vṛtta,@} <lex>n.</lex> actual fact; {@-śakti,@} <lex>f.</lex> <ab>sg.</ab> 🞄& <ab>pl.</ab> force of circumstances: {@-tas,@} <lex>ad.</lex> by the 🞄—; {@-śāsana,@} <lex>n.</lex> original edict; {@-śūnya,@} <lex>a.</lex> 🞄devoid of reality, unreal.
 <LEND>

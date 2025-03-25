@@ -1,15 +1,13 @@
 <L>15435<pc>2-0132<k1>kartu<k2>kartu
-{#kartu#}¦ nom. act. von 1. {#kar#}; davon folgende casus als infin.: {#ka/rtum#} 
-<ls>AV. 5, 31, 11.</ls> 
-<ls>ŚAT. BR. 5, 2, 5, 4.</ls> {#ka/rtave#} ved. 
-<ls>P. 3, 4, 9,</ls> 
-<ls>Sch.</ls> 
-<ls>ṚV. 2, 22, 1.</ls> {#ka/rtavE/#} 
-<ls>P. 6, 1, 200,</ls> 
-<ls>Sch.</ls> 
-<ls>NAIGH. 2, 1.</ls> 
-<ls>ŚAT. BR. 2, 1, 4, 4. 4, 4, 5, 19.</ls> {#ka/rtos#} 
-<ls>NAIGH. 2, 1.</ls> 
-<ls>ṚV. 1, 115, 4.</ls> <ls n="ṚV.">2, 38, 4.</ls> 
-<ls>NIR. 4, 11.</ls>
+{#kartu#}¦ nom. act. von 1. {#kar#}; davon folgende casus als infin.: {#ka/rtum#}
+<ls>AV. 5,31,11.</ls>
+<ls>ŚAT. BR. 5,2,5,4.</ls> {#ka/rtave#} ved.
+<ls>P. 3,4,9</ls>, <ls>Sch.</ls>
+<ls>ṚV. 2,22,1.</ls> {#ka/rtavE/#}
+<ls>P. 6,1,200</ls>, <ls>Sch.</ls>
+<ls>NAIGH. 2,1.</ls>
+<ls>ŚAT. BR. 2,1,4,4.</ls> <ls n="ŚAT. BR.">4,4,5,19.</ls> {#ka/rtos#}
+<ls>NAIGH. 2,1.</ls>
+<ls>ṚV. 1,115,4.</ls> <ls n="ṚV.">2,38,4.</ls>
+<ls>NIR. 4,11.</ls>
 <LEND>

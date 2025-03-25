@@ -1,13 +1,13 @@
 <L>165859<pc>824,1<k1>muz<k2>muz<h>2<e>1
-<hom>2.</hom> <s>muz</s> ¦ <ab>cl.</ab> 9. 1. <ab>P.</ab> (<ls>Dhātup. xxxi, 58 and xvii, 25</ls> <ab>v.l.</ab>; <ab>cf.</ab> √ <hom>1.</hom> <s>mUz</s>) <s>muzRA/ti</s>, <s>mo/zati</s> (<ab>ep.</ab> also <ab>cl.</ab> 6. <ab>P.</ab> <s>muzati</s>; 2. <ab>sg.</ab> <ab>Imp.</ab> <s>muzARa</s>, <ls>Śiś.</ls>; <ab>pf.</ab> <s>mumoza</s>; <ab>aor.</ab> <s>amozIt</s>, 2. <ab>sg.</ab> <s>mozIs</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>mozitA</s>, <s>mozizyati</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>muzitvA</s>, <ls>Daś.</ls>; <ls>Kathās.</ls>; <s>mu/dzya</s>, <ls>RV.</ls>; <ab>inf.</ab> <s>muze/</s>, <ls>ib.</ls> <pb n="824,2"/>; <s>mozitum</s> <ab>Gr.</ab>), 
-<div n="to"/>to steal, rob, plunder, carry off (also with two <ab>acc.</ab>= take away from, deprive of), <ls>RV.</ls> &c. &c.;
+<hom>2.</hom> <s>muz</s> ¦ <ab>cl.</ab> 9. 1. <ab>P.</ab> (<ls>Dhātup. xxxi, 58</ls> and <ls n="Dhātup.">xvii, 25</ls> <ab>v.l.</ab>; <ab>cf.</ab> √ <hom>1.</hom> <s>mUz</s>) <s>muzRA/ti</s>, <s>mo/zati</s> (<lang>ep.</lang> also <ab>cl.</ab> 6. <ab>P.</ab> <s>muzati</s>; 2. <ab>sg.</ab> <ab>Imp.</ab> <s>muzARa</s>, <ls>Śiś.</ls>; <ab>pf.</ab> <s>mumoza</s>; <ab>aor.</ab> <s>amozIt</s>, 2. <ab>sg.</ab> <s>mozIs</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>mozitA</s>, <s>mozizyati</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>muzitvA</s>, <ls>Daś.</ls>; <ls>Kathās.</ls>; <s>mu/dzya</s>, <ls>RV.</ls>; <ab>inf.</ab> <s>muze/</s>, <ls>ib.</ls> <pb n="824,2"/>; <s>mozitum</s> <ab>Gr.</ab>),
+<div n="to"/>to steal, rob, plunder, carry off (also with two <ab>acc.</ab> = take away from, deprive of), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to ravish, captivate, enrapture (the eyes or the heart), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to blind, dazzle (the eyes), <ls>ib.</ls>;
 <div n="to"/>to cloud, obscure (light or the intellect), <ls>ib.</ls>;
-<div n="to"/>to break, destroy, <ls>Kāvyâd.</ls> (<ab>cf.</ab> √ <s>mus</s>) :
-<div n="vp"/><ab>Pass.</ab>, <s>muzyate</s> (<ab>ep.</ab> also <s>°ti</s>; <ab>aor.</ab> <s>amozi</s>), 
+<div n="to"/>to break, destroy, <ls>Kāvyād.</ls> (<ab>cf.</ab> √ <s>mus</s>) :
+<div n="vp"/><ab>Pass.</ab>, <s>muzyate</s> (<lang>ep.</lang> also <s>°ti</s>; <ab>aor.</ab> <s>amozi</s>),
 <div n="to"/>to be stolen or robbed, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
-<div n="vp"/><ab>Caus.</ab>, <s>nozayati</s> (<ab>aor.</ab> <s>amUmuzat</s>) <ab>Gr.</ab>:
+<div n="vp"/><ab>Caus.</ab>, <s>mozayati</s> (<ab>aor.</ab> <s>amUmuzat</s>) <ab>Gr.</ab>:
 <div n="vp"/><ab>Desid.</ab> <s>mumuzizati</s>, <ls>ib.</ls> (<ab>cf.</ab> <s>munuzizu</s>) :
-<div n="vp"/><ab>Intens.</ab> <s>momuzyate</s>, <s>momozwi</s>, <ls>ib.</ls> [For kindred words See under 2. <s>mU/z</s>, p.827.]<info westergaard="muza,31.58,09.0062;mUza,17.25,01.0440"/><info whitneyroots="muz,123"/><info verb="genuineroot" cp="9,1P,6P"/>
+<div n="vp"/><ab>Intens.</ab> <s>momuzyate</s>, <s>momozwi</s>, <ls>ib.</ls> [For kindred words See under <hom>2.</hom> <s>mU/z</s>, <ab>p.</ab> 827.]<info westergaard="muza,31.58,09.0062;mUza,17.25,01.0440"/><info whitneyroots="muz,123"/><info verb="genuineroot" cp="9,1P,6P"/>
 <LEND>

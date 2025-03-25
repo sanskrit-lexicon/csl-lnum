@@ -1,7 +1,7 @@
 <L>14336<pc>440<k1>meal<k2>meal
-<div n="lb"/>{@MEAL@}¦ (subs.): <div n="I">I Flour: q. v.: {#cUrRam.#} </div><div n="I">II
-<div n="lb"/>A repast: </div><div n="1">(1) {#Bojanam,#} <div n="xe">{%one day taking a m. at%}
-<div n="lb"/>{%night:%}</div> <div n="xs">{#ekAhaM rAtriBojanaH,#}</div> Pa.; </div><div n="1">(2) {#Baktam,#} <div n="xe">{%one%}
-<div n="lb"/>{%day taking one m.:%}</div> <div n="xs">{#ekAham ekamaktASI,#}</div> Pa. <div n="xe">{%M.%}
-<div n="lb"/>{%time:%}</div> <div n="xs">{#BojanavelA.#}</div></div>
+{@MEAL@}¦ (subs.): <div n="I">I Flour: q. v.: {#cUrRam.#} </div><div n="I">II
+A repast: </div><div n="1">(1) {#Bojanam,#} <div n="xe">{%one day taking a m. at%}
+{%night:%}</div> <div n="xs">{#ekAhaM rAtriBojanaH,#}</div> Pa.; </div><div n="1">(2) {#Baktam,#} <div n="xe">{%one%}
+{%day taking one m.:%}</div> <div n="xs">{#ekAham ekamaktASI,#}</div> Pa. <div n="xe">{%M.%}
+{%time:%}</div> <div n="xs">{#BojanavelA.#}</div></div>
 <LEND>

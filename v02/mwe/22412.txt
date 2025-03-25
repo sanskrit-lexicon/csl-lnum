@@ -1,10 +1,10 @@
 <L>22412<pc>592-a<k1>piety<k2>piety
-<div n="lb"/>PIETY¦, {%s.%} {#ISvaraBaktiH#} {%f.,%} {#parameSvaraBaktiH#} {%f.,%} {#devaBaktiH#} {%f.,%} {#BagavadBaktiH#} {%f.,%} {#DarmmaH#}
-<div n="lb"/>{#-rmmatvaM, DarmmanizWA, DarmmAsaktiH#} {%f.,%} {#DarmmaSIlatA, DarmmaparatA, DarmmanibanDaH,#}
-<div n="lb"/>{#DarmmaparAyaRabudDiH#} {%f.,%} {#DarmmasevA, ISvarasevA, ISvaranizWA, BaktiH#} {%f.,%} {#BaktatA#}
-<div n="lb"/>{#-tvaM, BaktiparAyaRabudDiH#} {%f.,%} {#puRyatA, ISvarapUjA, parameSvarapUjA, devapUjA,#}
-<div n="lb"/>{#pUjA, pavitratA -tvaM, SucitA -tvaM, brahmaRyatA, sOjanyaM;#} ‘eminent in
-<div n="lb"/>piety,’ {#DarmmapraDAnaH -nA -naM;#} ‘path of piety,’ {#BaktimArgaH#}. — (Reve-
-<div n="lb"/>rence of parents, &c.) {#mAtApitfBaktiH#} {%f.,%} {#-BaktatA, mAtApitfsevA,#}
-<div n="lb"/>{#putraDarmmaH, apatyaDarmmaH#}.
+PIETY¦, {%s.%} {#ISvaraBaktiH#} {%f.,%} {#parameSvaraBaktiH#} {%f.,%} {#devaBaktiH#} {%f.,%} {#BagavadBaktiH#} {%f.,%} {#DarmmaH#}
+{#-rmmatvaM, DarmmanizWA, DarmmAsaktiH#} {%f.,%} {#DarmmaSIlatA, DarmmaparatA, DarmmanibanDaH,#}
+{#DarmmaparAyaRabudDiH#} {%f.,%} {#DarmmasevA, ISvarasevA, ISvaranizWA, BaktiH#} {%f.,%} {#BaktatA#}
+{#-tvaM, BaktiparAyaRabudDiH#} {%f.,%} {#puRyatA, ISvarapUjA, parameSvarapUjA, devapUjA,#}
+{#pUjA, pavitratA -tvaM, SucitA -tvaM, brahmaRyatA, sOjanyaM;#} ‘eminent in
+piety,’ {#DarmmapraDAnaH -nA -naM;#} ‘path of piety,’ {#BaktimArgaH#}. — (Reve-
+rence of parents, &c.) {#mAtApitfBaktiH#} {%f.,%} {#-BaktatA, mAtApitfsevA,#}
+{#putraDarmmaH, apatyaDarmmaH#}.
 <LEND>

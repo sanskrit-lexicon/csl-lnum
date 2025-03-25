@@ -1,10 +1,10 @@
 <L>8665<pc>203-a<k1>doctor<k2>doctor
-<div n="lb"/>DOCTOR¦, {%s.%} (A learned man) {#paRqitaH, jYAnI#} {%m.%} {#(n), vyutpannaH, vEdyaH,#}
-<div n="lb"/>{#SAstrI#} {%m.%} ({#n#}). — The word {#AcAryyaH#} is affixed to the names
-<div n="lb"/>of learned men, as ‘Doctor’ is prefixed: thus {#rAGavAcAryyaH,#}
-<div n="lb"/>{#rAmAcAryyaH#}. — (Teacher) {#AcAryyaH, SikzakaH, aDyApakaH, upadeSakaH,#}
-<div n="lb"/>{#guruH#} {%m.%} — (Doctor of divinity) {#paramArTavidyAjYaH, SrutividyAsampannaH#}.
-<div n="lb"/> — (Physician) {#vEdyaH, cikitsakaH, Bizak#} {%m.%} {#(j), AyurvedadUk#} {%m.%}
-<div n="lb"/>{#(S), cikitsAjIvI#} {%m.%} {#(n), agadakAraH, rogaSAntakaH, rogahft#} {%m.,%}
-<div n="lb"/>{#rogahA#} {%m.%} {#(n), jIvadaH#}.
+DOCTOR¦, {%s.%} (A learned man) {#paRqitaH, jYAnI#} {%m.%} {#(n), vyutpannaH, vEdyaH,#}
+{#SAstrI#} {%m.%} ({#n#}). — The word {#AcAryyaH#} is affixed to the names
+of learned men, as ‘Doctor’ is prefixed: thus {#rAGavAcAryyaH,#}
+{#rAmAcAryyaH#}. — (Teacher) {#AcAryyaH, SikzakaH, aDyApakaH, upadeSakaH,#}
+{#guruH#} {%m.%} — (Doctor of divinity) {#paramArTavidyAjYaH, SrutividyAsampannaH#}.
+ — (Physician) {#vEdyaH, cikitsakaH, Bizak#} {%m.%} {#(j), AyurvedadUk#} {%m.%}
+{#(S), cikitsAjIvI#} {%m.%} {#(n), agadakAraH, rogaSAntakaH, rogahft#} {%m.,%}
+{#rogahA#} {%m.%} {#(n), jIvadaH#}.
 <LEND>

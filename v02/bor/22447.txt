@@ -1,16 +1,16 @@
 <L>22447<pc>708<k1>think<k2>think
-<div n="lb"/>{@THINK:@}¦ <div n="1">(1) {#manyate#} ({#man,#} c. 4.), <div n="xe">{%t.ing that title of%}
-<div n="lb"/>{%lord only remains with you:%}</div> <div n="xs">{#matvA BavantaM praBuSabda-#}
-<div n="lb"/>{#Sezam,#}</div> R. v. 22.; {%if you t. much of what I say:%}
-<div n="lb"/>{#asmAkamuktaM bahumanyase cet,#} B. iii. 53.: v. Consider,
-<div n="lb"/>suppose; </div><div n="1">(2) {#cintayati, vi-, saM-, pari-, anu-#}
-<div n="lb"/>({#cint,#} c. 10. =reflect) <div n="xe">{%he simply t.s of fears%}
-<div n="lb"/>{%to come from you:%}</div> <div n="xs">{#sa cintayatyeva BiyastvadezyatIH,#}</div>
-<div n="lb"/>Ki. i. 23.; <div n="xe">{%while I was thus t.ing:%}</div> <div n="xs">{#ityevaM #}
-<div n="lb"/>{# cintayantam,#}</div> K.; </div><div n="1">(3) {#DyAyati, anu-#} ({#DyE,#} c. 1.=2.)
-<div n="lb"/><div n="xe">{%t. of the child in womb:%}</div> <div n="xs">{#prajAnizekamanuDyAyata,#}</div> R.
-<div n="lb"/>xiv. 60.; </div><div n="1">(4) {#smarati, anu-#} ({#smf,#} c. 1.=rem-
-<div n="lb"/>-ember), <div n="xe">{%to t. of heaven:%}</div> <div n="xs">{#divaH smartum,#}</div> Ki. v.
-<div n="lb"/>28.; </div><div n="1">(5) {#aDyeti#} ({#i,#} c. 2.=5), {%t. s only of me:%}
-<div n="lb"/>{#mAmevADyeti,#} Ki. xi. 74.</div>
+{@THINK:@}¦ <div n="1">(1) {#manyate#} ({#man,#} c. 4.), <div n="xe">{%t.ing that title of%}
+{%lord only remains with you:%}</div> <div n="xs">{#matvA BavantaM praBuSabda-#}
+{#Sezam,#}</div> R. v. 22.; {%if you t. much of what I say:%}
+{#asmAkamuktaM bahumanyase cet,#} B. iii. 53.: v. Consider,
+suppose; </div><div n="1">(2) {#cintayati, vi-, saM-, pari-, anu-#}
+({#cint,#} c. 10. =reflect) <div n="xe">{%he simply t.s of fears%}
+{%to come from you:%}</div> <div n="xs">{#sa cintayatyeva BiyastvadezyatIH,#}</div>
+Ki. i. 23.; <div n="xe">{%while I was thus t.ing:%}</div> <div n="xs">{#ityevaM #}
+{# cintayantam,#}</div> K.; </div><div n="1">(3) {#DyAyati, anu-#} ({#DyE,#} c. 1.=2.)
+<div n="xe">{%t. of the child in womb:%}</div> <div n="xs">{#prajAnizekamanuDyAyata,#}</div> R.
+xiv. 60.; </div><div n="1">(4) {#smarati, anu-#} ({#smf,#} c. 1.=rem-
+-ember), <div n="xe">{%to t. of heaven:%}</div> <div n="xs">{#divaH smartum,#}</div> Ki. v.
+28.; </div><div n="1">(5) {#aDyeti#} ({#i,#} c. 2.=5), {%t. s only of me:%}
+{#mAmevADyeti,#} Ki. xi. 74.</div>
 <LEND>

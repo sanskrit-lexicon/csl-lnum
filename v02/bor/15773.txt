@@ -1,7 +1,7 @@
 <L>15773<pc>483<k1>odds<k2>odds
-<div n="lb"/>{@ODDS:@}¦ <div n="I">I Excess: {#ADikyam.#} </div><div n="I">II Inequality:
-<div n="lb"/>{#vEzamyam.#} </div><div n="I">III Advantage, superiority: q.v.:
-<div n="lb"/>Ph.: (a) {%at o.%} i. e. in dispute: expr.
-<div n="lb"/>with {#vEzamyam#} <div n="xe">{%or%}</div> <div n="xs">{#anEkyam;#}</div> (b) {%o. and ends:%}
-<div n="lb"/>{#yattadvastu#} (n.), etc.</div>
+{@ODDS:@}¦ <div n="I">I Excess: {#ADikyam.#} </div><div n="I">II Inequality:
+{#vEzamyam.#} </div><div n="I">III Advantage, superiority: q.v.:
+Ph.: (a) {%at o.%} i. e. in dispute: expr.
+with {#vEzamyam#} <div n="xe">{%or%}</div> <div n="xs">{#anEkyam;#}</div> (b) {%o. and ends:%}
+{#yattadvastu#} (n.), etc.</div>
 <LEND>

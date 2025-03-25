@@ -1,6 +1,6 @@
 <L>15575<pc>378-a<k1>increase<k2>increase
-<div n="lb"/>INCREASE¦, {%s.%} {#vfdDiH#} {%f.,%} {#vivfdDiH#} {%f.,%} {#pravfdDiH#} {%f.,%} {#varDanaM, vivarDanaM, saMvarDanaM,#}
-<div n="lb"/>{#fdDiH#} {%f.,%} {#samfdDiH#} {%f.,%} {#sPAtiH#} {%f.,%} {#sPItiH#} {%f.,%} {#upacayaH, aByudayaH, vfMhaRaM,#}
-<div n="lb"/>{#parivfMhaRaM, udvfMhaRaM, utsekaH, samutTAnaM, unnatiH#} {%f.,%} {#samunnatiH#} {%f.,%} {#AzyAyanaM,#}
-<div n="lb"/>{#vistAraH, prarUQiH#} {%f.,%} {#ADikyaM, aDikatA, prapaYcaH, bAhulyaM#}.
+INCREASE¦, {%s.%} {#vfdDiH#} {%f.,%} {#vivfdDiH#} {%f.,%} {#pravfdDiH#} {%f.,%} {#varDanaM, vivarDanaM, saMvarDanaM,#}
+{#fdDiH#} {%f.,%} {#samfdDiH#} {%f.,%} {#sPAtiH#} {%f.,%} {#sPItiH#} {%f.,%} {#upacayaH, aByudayaH, vfMhaRaM,#}
+{#parivfMhaRaM, udvfMhaRaM, utsekaH, samutTAnaM, unnatiH#} {%f.,%} {#samunnatiH#} {%f.,%} {#AzyAyanaM,#}
+{#vistAraH, prarUQiH#} {%f.,%} {#ADikyaM, aDikatA, prapaYcaH, bAhulyaM#}.
 <LEND>

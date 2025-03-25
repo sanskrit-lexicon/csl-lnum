@@ -1,12 +1,12 @@
 <L>19995<pc>520-b<k1>multitude<k2>multitude
-<div n="lb"/>MULTITUDE¦ {%s.%} (A collection, number) {#samUhaH, gaRaH, saNGaH, saMhatiH#} {%f.,%}
-<div n="lb"/>{#saNGAtaH, oGaH, samudAyaH, samavAyaH, vfndaM, nivahaH, sannayaH, cayaH, saYcayaH,#}
-<div n="lb"/>{#samuccayaH, saNgrahaH, samAjaH, samajaH, maRqalaM -lI, stomaH, mikAyaH, vAraH,#}
-<div n="lb"/>{#visaraH, AkaraH, vyUhaH, jAtaM, kadambaM -mbakaH -kaM, kadambadaH, vargaH, pewakaM,#}
-<div n="lb"/>{#pUgaH, puYjaH, saNgaH, sandohaH, saNkalaH, vrajaH, sArTaH, kulaM, grAmaH#} in
-<div n="lb"/>comp.; ‘in multitudes,’ {#saNGaSas#}. — (Crowd, throng) {#bahujana-#}
-<div n="lb"/>{#samUhaH, bahujanasammardaH, bahujanasaNGaH, lokasaNGaH, janasamUhaH, jananivahaH,#}
-<div n="lb"/>{#lokanivahaH, janoGaM, janasamAgamaH, bahujanamelakaH, janatA, mAnuzyakaM#}. — 
-<div n="lb"/>(State of being many) {#bahutvaM, bAhulyaM, anekatvaM, anEkyaM;#} ‘mul-
-<div n="lb"/>titude of villages,’ {#grAmatA#}.
+MULTITUDE¦ {%s.%} (A collection, number) {#samUhaH, gaRaH, saNGaH, saMhatiH#} {%f.,%}
+{#saNGAtaH, oGaH, samudAyaH, samavAyaH, vfndaM, nivahaH, sannayaH, cayaH, saYcayaH,#}
+{#samuccayaH, saNgrahaH, samAjaH, samajaH, maRqalaM -lI, stomaH, mikAyaH, vAraH,#}
+{#visaraH, AkaraH, vyUhaH, jAtaM, kadambaM -mbakaH -kaM, kadambadaH, vargaH, pewakaM,#}
+{#pUgaH, puYjaH, saNgaH, sandohaH, saNkalaH, vrajaH, sArTaH, kulaM, grAmaH#} in
+comp.; ‘in multitudes,’ {#saNGaSas#}. — (Crowd, throng) {#bahujana-#}
+{#samUhaH, bahujanasammardaH, bahujanasaNGaH, lokasaNGaH, janasamUhaH, jananivahaH,#}
+{#lokanivahaH, janoGaM, janasamAgamaH, bahujanamelakaH, janatA, mAnuzyakaM#}. — 
+(State of being many) {#bahutvaM, bAhulyaM, anekatvaM, anEkyaM;#} ‘mul-
+titude of villages,’ {#grAmatA#}.
 <LEND>
