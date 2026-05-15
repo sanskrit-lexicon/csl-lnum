@@ -4,43 +4,43 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**csl-lnum** provides per-entry SLP1 (original encoding) text files for every dictionary entry across the CDSL, enabling direct correction links from StarDict and other offline dictionary applications. Each file URL like `https://github.com/sanskrit-lexicon/csl-lnum/blob/main/v02/<dict>/<lnum>.txt` links to the exact dictionary entry in its original SLP1 encoding.
+**csl-lnum** is a Sanskrit Lexicon **data-store** repository — part of the Cologne Digital Sanskrit Lexicon (CDSL) infrastructure.
 
-This is the SLP1-encoded counterpart to `csl-ldev` (which uses Devanagari). It is derived directly from `csl-orig`.
+## Repo Category
 
-## Architecture
+`data-store` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
 
-| Directory/File | Purpose |
-|---|---|
-| `v02/` | Per-dictionary subdirectories; each contains one `.txt` file per dictionary entry (named by L-number) |
-| `scripts/` | Generation and integration scripts |
-| `scripts/txt_to_lnum.py` | Splits a full dictionary SLP1 file into per-entry files |
-| `scripts/redo_all.sh` | Regenerates all per-entry files for all dictionaries |
-| `scripts/lnum_to_cslorig.py` | Integrates a user-corrected per-entry file back into `csl-orig` |
+## GitHub Issue Conventions
 
-### File format
+This repository uses the **Cologne tooling-repo taxonomy**. All issues must have:
+- **Exactly one type label** (9 options)
+- **Exactly one severity label** (4 levels)
+- **One milestone** (5 options)
 
-Each per-entry file (e.g., `v02/snp/35.txt`) contains the raw SLP1 CDSL-format entry:
-```
-<L>35<pc>532<k1>ozWopamaPalA<k2>ozWopamaPalA
-...
-<LEND>
-```
+### Type Labels
+- `bug` — Code defect (wrong output, broken contract)
+- `feature` — Net-new capability
+- `enhancement` — Improvement to existing capability
+- `performance` — Speed, memory, throughput optimization
+- `tech-debt` — Refactoring, cleanup, dependency updates
+- `security` — CVE, auth issue, credential exposure
+- `documentation` — Prose docs, API docs, comments
+- `infrastructure` — CI/CD, deploy, data pipelines, build tooling
+- `question` — Research, proposals, open discussions
 
-### Correction workflow
+### Severity Labels
+- `trivial` — Cosmetic, < 1 hour
+- `minor` — Single function/component
+- `major` — Multiple files, design decision
+- `critical` — Blocks users, data loss/security CVE
 
-When a user submits a pull request correcting `v02/<dict>/<lnum>.txt`:
-1. Merge the PR
-2. Run `python3 lnum_to_cslorig.py <dict> <lnum>` to integrate the change into `csl-orig`
+### Milestones
+- **API Stability** — performance, security, regressions
+- **User Experience** — bugs, features, enhancements
+- **Data Quality** — data-pipeline issues, integrity
+- **Developer Experience** — tech-debt, infrastructure, docs
+- **Community** — questions, proposals, discussions
 
-### Regeneration
+## Cross-Repo Coordination
 
-```bash
-cd scripts
-bash redo_all.sh    # regenerates v02/<dict>/ for all dictionaries
-```
-
-## Dependencies
-
-- **Python 3**
-- **csl-orig** sibling repo — SLP1 source files
+The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
