@@ -6,7 +6,7 @@ CDSL **data-store** repository in the [Sanskrit Lexicon](https://github.com/sans
 
 ## What this repository is
 
-Each CDSL dictionary source file (e.g. [`snp.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/snp/snp.txt) in csl-orig) is a single large text file — some exceed 50 MB, which most editors cannot open. This repository splits each dictionary into per-entry files so an individual entry is directly addressable:
+Each CDSL dictionary source file (e.g. [`snp.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/snp/snp.txt) in csl-orig) is a single large text file — some exceed 50 MB, which most editors cannot open. This repository splits each dictionary into per-entry files so an individual entry is directly addressable:
 
 ```
 csl-lnum/v02/<dictcode>/<lnum>.txt
