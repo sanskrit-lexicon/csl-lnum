@@ -1,6 +1,6 @@
 # csl-lnum
 
-_Created: 15-05-2026 · Last updated: 11-07-2026_
+_Created: 15-05-2026 · Last updated: 15-09-2026_
 
 CDSL **data-store** repository in the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project: the dictionary data of [csl-orig](https://github.com/sanskrit-lexicon/csl-orig) exploded into **one small file per entry (`lnum`)**, so a single entry can be linked, viewed, and corrected without opening a multi-megabyte source file.
 
@@ -30,7 +30,7 @@ This repository contains on the order of **1.2–1.5 million files** (~370 MB). 
 Located in [`scripts/`](https://github.com/sanskrit-lexicon/csl-lnum/tree/main/scripts):
 
 - [`txt_to_lnum.py`](https://github.com/sanskrit-lexicon/csl-lnum/blob/main/scripts/txt_to_lnum.py) — generate per-`lnum` entry files from a dictionary source. Example: `python3 txt_to_lnum.py mw` populates `v02/mw/`.
-- [`redo_all.sh`](https://github.com/sanskrit-lexicon/csl-lnum/blob/main/scripts/redo_all.sh) — regenerate all dictionaries from the latest csl-orig data (`bash redo_all.sh`).
+- [`redo_all.sh`](https://github.com/sanskrit-lexicon/csl-lnum/blob/main/scripts/redo_all.sh) — regenerate all dictionaries from the latest csl-orig data (`bash redo_all.sh`). It first runs `git pull --ff-only origin main` in the sibling `../../csl-orig` (csl-orig has no `master` branch); since 15-09-2026 ([#11](https://github.com/sanskrit-lexicon/csl-lnum/pull/11)) it stops if that folder is missing or the pull fails, instead of regenerating from stale data — fix the folder or pull csl-orig by hand, then rerun.
 - [`lnum_to_cslorig.py`](https://github.com/sanskrit-lexicon/csl-lnum/blob/main/scripts/lnum_to_cslorig.py) — carry a correction made here back into csl-orig. Takes `dictId` and `lnum`. Example: `python3 lnum_to_cslorig.py skd 15140` integrates `v02/skd/15140.txt` into `csl-orig/v02/skd/skd.txt` (a real round-trip: [PR #3](https://github.com/sanskrit-lexicon/csl-lnum/pull/3) amended `v02/skd/15140.txt`, then this script merged the reviewed change upstream).
 
 ## Entry format
